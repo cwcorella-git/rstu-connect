@@ -1,10 +1,16 @@
+---
+title: "## **May Day and Immigrant Workers**"
+category: "labor"
+---
+
 ## **May Day and Immigrant Workers**
 
 ## **Date:** Mon, 05/01/2023 - 00:00
 
 | Source: https://ecology.iww.org/node/5666|
 |-----------------------------------------------------------------------------------------------------------------------------------------------|
-| Tags: May Day, migrant labor, class struggle, mobilizations and uprisings, general strikes, strikes,<br>Industrial Workers of the World (IWW) |
+| Tags: May Day, migrant labor, class struggle, mobilizations and uprisings, general strikes, strikes,
+Industrial Workers of the World (IWW) |
 | By Asa Singer - |
 | Industrial Worker |
 | , May 1, 2023 |

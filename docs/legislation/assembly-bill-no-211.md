@@ -1,14 +1,10 @@
 ---
-date: 2025
-author: Assembly Bill No
-tags:
-  - legislation
-  - Nevada
-  - tenants
-  - housing
-  - rent
 title: "assembly-bill-no-211"
+author: "Assembly Bill No"
+date: "2025"
+category: "legislation"
 ---
+
 # assembly-bill-no-211
 
 *Converted from: `./assembly-bill-no-211.pdf`*  
@@ -77,7 +73,6 @@ substandard property to pay all reasonable and actual costs of the board of coun
 commissioners or governing body of the city, as applicable; (2) order that the board
 
 
-
     -                                                           83rd Session (2025)
 
 ---
@@ -136,8 +131,6 @@ pursuant to section 10 or 29, as applicable.
 2-18 and 21-37, respectively.
 
 
-
-
    -                                                           83rd Session (2025)
 
 ---
@@ -153,8 +146,6 @@ pursuant to section 10 or 29, as applicable.
                                                          –3–
 
  EXPLANATION – Matter in bolded italics is new; matter between brackets [omitted material] is material to be omitted.
-
-
 
 
    THE PEOPLE OF THE STATE OF NEVADA, REPRESENTED IN
@@ -197,8 +188,6 @@ substandard property by a district court pursuant to section 10 of
 this act.
     Sec. 8. 1. If the appropriate department of a county finds
 that:
-
-
 
 
    -                                                                                   83rd Session (2025)
@@ -260,7 +249,6 @@ property fails to comply with the terms of the notice and summary
 order issued pursuant to section 8 of this act:
 
 
-
    -                                               83rd Session (2025)
 
 ---
@@ -318,7 +306,6 @@ and costs to the prevailing party in an action brought pursuant to
 this section.
    Sec. 10. 1. To declare a residential multifamily rental
 property to be a substandard property, the district court must find:
-
 
 
    -                                               83rd Session (2025)
@@ -380,8 +367,6 @@ condition of the substandard property which substantially
 endangers the health and safety of the residents of the
 
 
-
    -                                               83rd Session (2025)
 
 ---
-

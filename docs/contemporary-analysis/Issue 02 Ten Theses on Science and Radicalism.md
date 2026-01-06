@@ -1,3 +1,8 @@
+---
+title: "## **Issue 02: Ten Theses on Science and Radicalism**"
+category: "contemporary-analysis"
+---
+
 ## **Issue 02: Ten Theses on Science and Radicalism**
 
 ## **Date:** Unknown

@@ -1,3 +1,8 @@
+---
+title: "## **Remember the Revolution: An Appeal to the Anarchists of Northern Turtle Island**"
+category: "theory"
+---
+
 ## **Remember the Revolution: An Appeal to the Anarchists of Northern Turtle Island**
 
 ## **Date:** Unknown
@@ -62,7 +67,8 @@ We need Military Power. With the growth of the Economic and Political Power Stru
 
 As we build this infrastructure, it's likely that opportunities for revolt will arise. We must continue to participate in them and strive to influence them, but not lead them. The Social Movement must have a life of its own, however, through our participation and influence we can push them in a direction so that they can operate on Anarchist principles even if they don't call themselves Anarchists. The more we make Anarchist practice an integral part of society,
 
-| the more likely a Social Revolution will be, and when the next uprising breaks out, we will be<br>ready and so will our communities. | |
+| the more likely a Social Revolution will be, and when the next uprising breaks out, we will be
+ready and so will our communities. | |
 |--------------------------------------------------------------------------------------------------------------------------------------|--|
 | | |
 | | |

@@ -1,16 +1,10 @@
 ---
-title: Abolishing State Violence Ray Acheson
-author: Haymarket Books
-slug: Abolishing State Violence - Ray Acheson
-reconversion_status: ready_for_reconversion
-date: 2022
-tags:
-  - housing
-  - tenants
-  - strikes
-  - unions
-  - rent
+title: "Abolishing State Violence Ray Acheson"
+author: "Haymarket Books"
+date: "2022"
+category: "housing"
 ---
+
 # AKILISHI
 
 ## A WORLD BEYOND BOMBS, BORDERS, AND CAGES
@@ -127,7 +121,7 @@ They are also the same as those tearing apart families at the border and constru
 
 Settler colonialism, nuclear weapons, and surveillance also fit into this framework. Each relies on the construction of "the other" to be controlled, surveilled, or exterminated in order to provide for the freedom and the
 
-"security" of those privileged on the basis of race or wealth within US society. To this end, the concept of inherent criminality is essential. Whether it's Indigenous people to be massacred, Black people to be enslaved or incarcerated, Muslims or Arabs or those perceived to be from the Middle East to be surveilled, rendered, tortured, or drone striked, or the Russians or Chinese or North Koreans or <insert perceived enemy here> to be bombed with nuclear weapons, or the Latinx or Caribbean or African asylum seekers, migrants, or refugees to be detained or deported, or LGBTQ+ people to be criminalized or kept from having equal rights and access—each of these constructions relies on the idea that there is something intrinsic to particular peoples that precludes them from enjoying the same rights and freedoms as others. Each of these constructions also necessitates and facilitates the processing of human beings as objects, of systematically dehumanizing people as categories and identities to be sorted into those that will be accepted, tolerated, or rejected.
+"security" of those privileged on the basis of race or wealth within US society. To this end, the concept of inherent criminality is essential. Whether it's Indigenous people to be massacred, Black people to be enslaved or incarcerated, Muslims or Arabs or those perceived to be from the Middle East to be surveilled, rendered, tortured, or drone striked, or the Russians or Chinese or North Koreans or  to be bombed with nuclear weapons, or the Latinx or Caribbean or African asylum seekers, migrants, or refugees to be detained or deported, or LGBTQ+ people to be criminalized or kept from having equal rights and access—each of these constructions relies on the idea that there is something intrinsic to particular peoples that precludes them from enjoying the same rights and freedoms as others. Each of these constructions also necessitates and facilitates the processing of human beings as objects, of systematically dehumanizing people as categories and identities to be sorted into those that will be accepted, tolerated, or rejected.
 
 All of this is done in the name of so-called safety and security. Police and prisons, we are told, are necessary to maintain law and order. Borders are necessary to ensure countries of the North are not "overrun" with people wanting access to "our" resources and well-being. Surveillance is necessary to prevent terrorist attacks. Wars are necessary to maintain international law and order, and nuclear weapons are necessary to prevent wars. All of the posturing and fearmongering and chest thumping from our political leaders, the military, the police, the media, and all the government and many nongovernment entities is blasting us all day every day with the message that all of this violence and all of these weapons and all of the discriminations and inequalities are necessary to "keep us safe." We are told and taught that this is the way the world is and there is no way to change it. Tweak it, maybe, but change it—not a chance. There's an age-old saying that it's easier to imagine the end of the world than the end of capitalism well, that is also true for most when it comes to prisons, police, borders, nuclear bombs, or war.
 
@@ -2453,7 +2447,7 @@ Abu Saif, Atef. *The Drone Eats with Me: A Gaza Diary.* Boston: Beacon Press, 20
 - Hussain, Murtaza. "War on the World: Industrialized Militaries Are a Bigger Part of Climate Change Than You Know." The Intercept, September 15, 2019.
 - The Intercept. "The Drone Papers." [https://theintercept.com/drone-papers.](https://theintercept.com/drone-papers)
 - ———. "Oil and Water" investigative series. [https://theintercept.com/series/oil-and-water.](https://theintercept.com/series/oil-and-water)
-- ———. "Policing the Pipeline" investigative series. <https://theintercept.com/series/policing-the-pipeline>.
+- ———. "Policing the Pipeline" investigative series. .
 - Intondi, Vincent J. *African Americans Against the Bomb.* Stanford, CA: Stanford University Press, 2015.
 - Jackson, George. *Blood in My Eye.* New York: Random House, 1972.
 - Johnson, Taylor N. "'The most bombed nation on Earth': Western Shoshone resistance to the Nevada National Security Site." *Atlantic Journal of Communication* 26, no. 4 (2018): 224–39.
@@ -2488,7 +2482,7 @@ Abu Saif, Atef. *The Drone Eats with Me: A Gaza Diary.* Boston: Beacon Press, 20
 - Miller, Todd. *Border Patrol Nation.* San Francisco: City Lights Books, 2014.
 - ———. B*uild Bridges, Not Walls: A Journey to a World Without Borders.* San Francisco: City Lights Books, 2021.
 - ———. *Empire of Borders: The Expansion of the U. S. Border Around the World.* New York: Verso, 2019.
-- Miller, Todd and Nick Buxton. "Biden's Border: The industry, the Democrats and the 2020 elections." Transnational Institute, February 17, 2021. <https://www.tni.org/en/bidensborder>.
+- Miller, Todd and Nick Buxton. "Biden's Border: The industry, the Democrats and the 2020 elections." Transnational Institute, February 17, 2021. .
 - Mills, C. W. *The Power Elite.* New York: Oxford University Press, 2000.
 - Mlinarević, Gorana and Nela Porobić. "The Peace That Is Not: Feminist Critique of Neoliberal Approaches to Peacebuilding." Women's International League for Peace and Freedom, 2021. [https://www.wilpf.org/wp-content/uploads/2022/01/WILPF\\_The-Peace-](https://www.wilpf.org/wp-content/uploads/2022/01/WILPF_The-Peace-That-is-Not_final.pdf)[That-is-Not\\_final.pdf.](https://www.wilpf.org/wp-content/uploads/2022/01/WILPF_The-Peace-That-is-Not_final.pdf)
 - Murakawa, Naomi. *The First Civil Right: How Liberals Built Prison America.* New York: Oxford University Press, 2014.
@@ -2563,10 +2557,42 @@ Abu Saif, Atef. *The Drone Eats with Me: A Gaza Diary.* Boston: Beacon Press, 20
 - For The Wild. "Mariame Kaba on Moving Past Punishment." Podcast, December 27, 2019.
 - Gays Against Guns. "Guns and Nuclear Weapons: The Continuum of Violence from Handguns to Nuclear Weapons." Podcast, March 2, 2021.
 
-| Haymarket<br>Books.<br>"Abolish<br>ICE<br>is<br>Not<br>Just<br>a<br>Slogan,"<br>You Tube<br>video,<br>May<br>19,<br>2020. |
+| Haymarket
+Books.
+"Abolish
+ICE
+is
+Not
+Just
+a
+Slogan,"
+You Tube
+video,
+May
+19,
+2020. |
 |----------------------------------------------------------------------------------------------------------------------------|
-| ———.<br>"Abolition<br>Can't<br>Wait."<br>You Tube<br>video,<br>June<br>25,<br>2020. |
-| ———.<br>"Black<br>and<br>Indigenous<br>Liberation<br>through<br>Abolition."<br>You Tube<br>video,<br>October<br>1,<br>2020. |
+| ———.
+"Abolition
+Can't
+Wait."
+You Tube
+video,
+June
+25,
+2020. |
+| ———.
+"Black
+and
+Indigenous
+Liberation
+through
+Abolition."
+You Tube
+video,
+October
+1,
+2020. |
 
 - ———. "Covid 19, Decarceration, and Abolition," You Tube video, April 17, 2020.
 - ———. "Indigenous Resistance Against Oil Pipelines During a Pandemic," You Tube video, June 3, 2020.
@@ -2625,7 +2651,7 @@ WBEZ 91.5 Chicago. "Women Now At Top of Military-Industrial Complex. A Feminist 
 
 #### **Chapter 1: Disbanding Police**
 
-- 1. Laurie Penny (@Penny Red), "The police are rioting across America tonight …," Twitter, May 31, 2020, <https://twitter.com/Penny Red/status/1266980991454703617>.
+- 1. Laurie Penny (@Penny Red), "The police are rioting across America tonight …," Twitter, May 31, 2020, .
 - 2. Matthew Dessem, "Police Erupt in Violence Nationwide," Slate, May 31, 2020.
 - 3. Dan Lamothe and Missy Ryan, "Trump pulls military into political fray of Minneapolis unrest but is unlikely to follow through on threat," *Washington Post*, May 29, 2020.
 - 4. Robert Mackey, "Racist History Behind Trump's Threat to Shoot Minneapolis Protesters Spurs Twitter to Act," The Intercept, May 29, 2020.
@@ -2711,7 +2737,7 @@ WBEZ 91.5 Chicago. "Women Now At Top of Military-Industrial Complex. A Feminist 
 - 77. Mariame Kaba, "Thinking about how to abolish prisons with Mariame Kaba," interview by Chris Hayes, NBC News, April 10, 2019.
 - 78. Dakota Smith, "LAPD union decries Garcetti's 'killers' comment. He says he wasn't talking about police," *LA Times*, June 5, 2020.
 - 79. Gregory Pratt, "In wake of looting, Chicago to spend \$1.2 million on private security firms to help protect businesses," *Chicago Tribune*, June 6, 2020.
-- 80. Kenyon Farrow (@kenyonfarrow), "I was a member and eventually staff of …," Twitter, June 7, 2020, <https://twitter.com/kenyonfarrow/status/1269683590167756802?s=20>.
+- 80. Kenyon Farrow (@kenyonfarrow), "I was a member and eventually staff of …," Twitter, June 7, 2020, .
 
 #### **Chapter 2: Dismantling Prisons**
 
@@ -2735,7 +2761,7 @@ WBEZ 91.5 Chicago. "Women Now At Top of Military-Industrial Complex. A Feminist 
 - 17. "World military spending rises to almost \$2 trillion in 2020," Stockholm International Peace Research Institute, April 26, 2021.
 - 18. Hans M. Kristensen and Matt Korda, "United States nuclear forces, 2020," *Bulletin of the Atomic Sciences* 76, no. 1 (2020): 46–60.
 - 19. Greg Mello and Trish Williams-Mello, "United States," in "Assuring destruction forever: 2022 edition," Allison Pytlak and Ray Acheson, eds., Reaching Critical Will of the Women's International League for Peace and Freedom, 2022, 112–34.
-- 20. Dan Berger (@dnbrgr), "Where does the phrase …," Twitter, December 6, 2018, <https://twitter.com/dnbrgr/status/1070749158947008512>.
+- 20. Dan Berger (@dnbrgr), "Where does the phrase …," Twitter, December 6, 2018, .
 - 21. Mike Davis, "Hell factories in the field: a prison-industrial complex," *The Nation*, February 20, 1995.
 - 22. Sawyer and Wanger, "Mass Incarceration."
 - 23. Ruth Wilson Gilmore, *Golden Gulag: Prisons, Surplus, Crisis, and Opposition in Globalizing California* (Berkeley and Los Angeles: University of California Press, 2007).
@@ -2751,12 +2777,12 @@ WBEZ 91.5 Chicago. "Women Now At Top of Military-Industrial Complex. A Feminist 
 - 32. Keeanga-Yamahtta Taylor, "The Emerging Movement for Police and Prison Abolition," *New Yorker*, May 7, 2021.
 - 33. Bernadette Rabuy and Daniel Kopf, "Prisons of Poverty," Prison Policy Initiative, July 9, 2015, [https://www.prisonpolicy.org/reports/income.html.](https://www.prisonpolicy.org/reports/income.html)
 - 34. "The Relationship between Poverty & Mass Incarceration," Center for Community Change, [https://www.masslegalservices.org/system/files/library/The\\_Relationship\\_between\\_P](https://www.masslegalservices.org/system/files/library/The_Relationship_between_Poverty_and_Mass_Incarceration.pdf) [overty\\_and\\_Mass\\_Incarceration.pdf](https://www.masslegalservices.org/system/files/library/The_Relationship_between_Poverty_and_Mass_Incarceration.pdf).
-- 35. Alexi Jones, "Correctional Control 2018," Prison Policy Initiative, December 2018, <https://www.prisonpolicy.org/reports/correctionalcontrol2018.html>.
+- 35. Alexi Jones, "Correctional Control 2018," Prison Policy Initiative, December 2018, .
 - 36. Julia Sudbury, "A World Without Prisons: Resisting Militarism, Globalized Punishment, and Empire," *Social Justice* 31, no. 1 (2004): 95–96.
 - 37. Eric Schlosser, "The Prison-Industrial Complex," *The Atlantic*, December 1998.
-- 38. Dwight D. Eisenhower, "President Dwight D. Eisenhower's Farewell Address," January 17, 1961, <https://www.ourdocuments.gov/doc.php?flash=true&doc=90>.
+- 38. Dwight D. Eisenhower, "President Dwight D. Eisenhower's Farewell Address," January 17, 1961, .
 - 39. "Mass Incarceration Costs \$182 Billion Every Year, Without Adding Much to Public Safety," Equal Justice Initiative, February 6, 2017, [https://eji.org/news/mass](https://eji.org/news/mass-incarceration-costs-182-billion-annually/)[incarceration-costs-182-billion-annually/](https://eji.org/news/mass-incarceration-costs-182-billion-annually/).
-- 40. Peter Wagner and Bernadette Rabuy, "Following the Money of Mass Incarceration," Prison Policy Initiative, January 25, 2017, <https://www.prisonpolicy.org/reports/money.html>.
+- 40. Peter Wagner and Bernadette Rabuy, "Following the Money of Mass Incarceration," Prison Policy Initiative, January 25, 2017, .
 - 41. Davis, *Are Prisons Obsolete?*
 - 42. Schlosser, "The Prison-Industrial Complex."
 - 43. Wagner and Rabuy, "Following the Money."
@@ -2785,7 +2811,7 @@ WBEZ 91.5 Chicago. "Women Now At Top of Military-Industrial Complex. A Feminist 
 - . As quoted in Davis, *Are Prisons Obsolete?*, 45.
 - . Care Not Cops, carenotcops.org.
 - . Lincoln Larson and S. Scott Ogletree, "Can Parks Help Cities Fight Crime?" The Conversation, June 25, 2019.
-- . "7. Provide safe housing for everyone," 8to Abolition, <https://www.8toabolition.com/provide-safe-housing-for-everyone>.
+- . "7. Provide safe housing for everyone," 8to Abolition, .
 - . "6. Invest in community self-governance," 8to Abolition, [https://www.8toabolition.com/invest-in-community-self-governance.](https://www.8toabolition.com/invest-in-community-self-governance)
 - . Davis, *Are Prisons Obsolete?*, 107.
 
@@ -2795,7 +2821,7 @@ WBEZ 91.5 Chicago. "Women Now At Top of Military-Industrial Complex. A Feminist 
 - 74. Mariame Kaba and Shira Hassan, "From 'Me Too' to 'All of Us': Organizing to End Sexual Violence," interview by Sarah Jaffe, *In These Times*, January 2017.
 - 75. Mariame Kaba and Andrea J. Ritchie, "We Want More Justice for Breonna Taylor Than the System That Killed Her Can Deliver," *Essence*, July 16, 2020.
 - 76. Shank, "Beyond Firing," 60.
-- 77. "The Criminal Justice System: Statistics," RAINN, <https://www.rainn.org/statistics/criminal-justice-system>.
+- 77. "The Criminal Justice System: Statistics," RAINN, .
 - 78. Joshua Bote, "Two NYPD detectives accused of raping teen in their custody won't get jail time," *USA Today*, August 30, 2019.
 - 79. Conor Friedersdorf, "Police Have a Much Bigger Domestic-Violence Problem Than the NFL," *The Atlantic*, September 19, 2014.
 - 80. Kaba and Hassan, "From 'Me Too.'"
@@ -2828,10 +2854,10 @@ WBEZ 91.5 Chicago. "Women Now At Top of Military-Industrial Complex. A Feminist 
 - 3. Neil M. Richards, "The Dangers of Surveillance," *Harvard Law Review* 126, no. 7 (2013).
 - 4. See for example Juan Hourcade, "The perils of next-gen surveillance technology," *ACM Interactions* XXVI, no. 4 (July–August 2019); and Aziz Choudry, ed., *Activists and the Surveillance State: Learning from Repression* (London: Pluto Press, 2019).
 
-- 5. Anja Kovacs, "Reading Surveillance through a Gendered Lens: Some Theory," Gendering Surveillance, February 2017, <https://genderingsurveillance.internetdemocracy.in/theory>.
+- 5. Anja Kovacs, "Reading Surveillance through a Gendered Lens: Some Theory," Gendering Surveillance, February 2017, .
 - 6. See for example Eduardo Galeano, *Open Veins of Latin America: Five Centuries of the Pillage of a Continent* (New York: Monthly Review Press, 1973).
 - 7. Jackie Wang, *Carceral Capitalism* (Los Angeles: Semiotext(e), 2018), 40.
-- 8. For details see "Plus D: Public Library of US Diplomacy," Wiki Leaks, <https://search.wikileaks.org/plusd>.
+- 8. For details see "Plus D: Public Library of US Diplomacy," Wiki Leaks, .
 - 9. Richards, "The Dangers of Surveillance."
 - 10. For details see Felicity Ruby, "Five Eyes," [https://felicityruby.com/five-eyes.](https://felicityruby.com/five-eyes)
 - 11. Sneha Khale, "Felicity Ruby on STEM, Edward Snowden, and Threats in the Digital Age," Women Love Tech, 2018, [https://womenlovetech.com/felicity-ruby-stem](https://womenlovetech.com/felicity-ruby-stem-edward-snowden-digital-age)[edward-snowden-digital-age.](https://womenlovetech.com/felicity-ruby-stem-edward-snowden-digital-age)
@@ -2933,7 +2959,7 @@ WBEZ 91.5 Chicago. "Women Now At Top of Military-Industrial Complex. A Feminist 
 - 100. Richards, "The Dangers of Surveillance," 1937–38.
 - 101. MEE Staff, "Israel: Lawyers call on Shin Bet to halt text message threats targeting Palestinians," Middle East Eye, May 13, 2021.
 - 102. Richards, "The Dangers of Surveillance," 1937–38.
-- 103. Allison Pytlak and Brandon Valeriano, "The Frontlines of Cyber Repression: Thailand and the Crop Top King," Niskanen Center, August 4, 2017, <https://www.niskanencenter.org/frontlines-cyber-repression-thailand-crop-top-king/>.
+- 103. Allison Pytlak and Brandon Valeriano, "The Frontlines of Cyber Repression: Thailand and the Crop Top King," Niskanen Center, August 4, 2017, .
 - 104. Hannah Ellis-Petersen, "Censorship and silence: south-east Asia suffers under press crackdown," *The Guardian*, February 24, 2019.
 - 105. Patrick Howell O'Neill, "How We Chat censors private conversations, automatically in real time," *MIT Technology Review*, July 15, 2019.
 - 106. Danny O'Brien, "China's Global Reach: Surveillance and Censorship Beyond the Great Firewall," Electronic Frontier Foundation, October 10, 2019.
@@ -2960,7 +2986,7 @@ WBEZ 91.5 Chicago. "Women Now At Top of Military-Industrial Complex. A Feminist 
 - 125. Conor Friedersdorf, "Eyes Over Compton: How Police Spied on a Whole City," *The Atlantic*, April 21, 2014. For more on Gorgon Stare and potential domestic use, see Arthur Holland Michel, *Eyes in the Sky: The Secret Rise of Gorgon Stare and How It Will Watch Us All* (Boston: Houghton Mifflin Harcourt, 2019).
 - 126. Jennifer Lynch, "Drone Surveillance of Border Far Greater Than Previously Known," Common Dreams, January 15, 2014.
 - 127. Kevin Rector, "LAPD gets approval to begin recording, storing aerial footage of protests," *Los Angeles Times*, October 27, 2020.
-- 128. Ali Winston (@awinston), "Yet one more way in which protests are treated with counter-insurgency tactics," Twitter, October 27, 2020, <https://twitter.com/awinston/status/1321248987505188864>.
+- 128. Ali Winston (@awinston), "Yet one more way in which protests are treated with counter-insurgency tactics," Twitter, October 27, 2020, .
 - 129. For example, Project Raven, in which former US National Security Agency operatives were employed by the United Arab Emirates to profile, hack, and collect data on the government's "enemies"—mostly journalists, dissidents, human rights defenders, and rival political leaders. See Christopher Bing and Joel Schectman, "Inside the UAE's Secret Hacking Team of American Mercenaries," Reuters, January 30, 2019, and Nicole Perlroth, *This Is How They Tell Me the World Ends: The Cyber-Weapons Arms Race* (London: Bloomsbury Publishing, 2021).
 - 130. Cora Currier, "The Kill Chain: The Lethal Bureaucracy Behind Obama's Drone War," The Drone Papers 3, The Intercept, October 15, 2015, [https://theintercept.com/drone](https://theintercept.com/drone-papers/the-kill-chain)[papers/the-kill-chain.](https://theintercept.com/drone-papers/the-kill-chain)
 - 131. Kevin Jon Heller, "'One Hell of a Killing Machine': Signature Strikes and International Law," *Journal of International Criminal Justice* 11, no. 1 (2013): 89– 119.
@@ -2973,7 +2999,7 @@ WBEZ 91.5 Chicago. "Women Now At Top of Military-Industrial Complex. A Feminist 
 - 137. Thomas Gregory, "Drones, Targeted Killings, and the Limitations of International Law," *International Political Sociology* 9, no. 3 (2015): 197–212.
 - 138. Jeremy Scahill and Glenn Greenwald, "The NSA's role in the U. S. assassination program," The Intercept, February 10, 2014.
 - 139. Jordan Pearson, "The Problem With Using Metadata to Justify Drone Strikes," *VICE*, October 15, 2015.
-- 140. See "Drone Warfare," Bureau of Investigative Journalism, <https://www.thebureauinvestigates.com/projects/drone-war>.
+- 140. See "Drone Warfare," Bureau of Investigative Journalism, .
 - 141. Sidney Fussell, "A New York Lawmaker Wants to Ban Police Use of Armed Robots," *Wired*, March 18, 2021; Emma Bowman, "'Creepy' Robot Dog Loses Job With New York Police Department," NPR, April 30, 2021.
 - 142. For more information about these technologies, see the Campaign to Stop Killer Robots at stopkillerrobots.org.
 - 143. Richard Moyes, "Target profiles: An initial consideration of 'target profiles' as a basis for rule-making in the context of discussions on autonomy in weapons systems," Article 36, August 2019, 1, [https://article36.org/wp-content/uploads/2019/08/Target](https://article36.org/wp-content/uploads/2019/08/Target-profiles.pdf)[profiles.pdf.](https://article36.org/wp-content/uploads/2019/08/Target-profiles.pdf)
@@ -3001,9 +3027,9 @@ WBEZ 91.5 Chicago. "Women Now At Top of Military-Industrial Complex. A Feminist 
 - 164. See [https://www.eff.org.](https://www.eff.org/)
 - 165. See [https://www.stopkillerrobots.org](https://www.stopkillerrobots.org/).
 - 166. See [https://www.reachingcriticalwill.org/disarmament-fora/ict.](https://www.reachingcriticalwill.org/disarmament-fora/ict)
-- 167. See [https://www.amnesty.org](https://www.amnesty.org/) and <https://www.amnesty.org/en/tech>.
+- 167. See [https://www.amnesty.org](https://www.amnesty.org/) and .
 - 168. See [https://decoders.amnesty.org.](https://decoders.amnesty.org/)
-- 169. See <https://www.aclu.org/issues/national-security/privacy-and-surveillance>.
+- 169. See .
 - 170. Chris Mills Rodrigo, "New coalition launches against 'surveillance advertising,'" MSN News, March 22, 2021.
 - 171. See [https://ooni.org.](https://ooni.org/)
 - 172. See [https://stopstalkerware.org.](https://stopstalkerware.org/)
@@ -3028,11 +3054,11 @@ Dulong de Rosnay and Félix Tréguer, eds., *Telecommunications Reclaimed: A Han
 - 12. Walia, *Border & Rule*, 73.
 - 13. Kate Lyons, "Climate refugees can't be returned home, says landmark UN human rights ruling," *The Guardian*, January 20, 2020.
 - 14. Sebastian Rees, "A Massive Proxy Military Escalation is Taking Place in Libya," albawaba, May 28, 2020.
-- 15. "UN chief calls for Libya mass grave investigation," UN News, June 13, 2020, <https://news.un.org/en/story/2020/06/1066272>.
-- 16. UNHCR, "Operational portal: Refugee situations (Libya)," last updated June 30, 2020, <https://data2.unhcr.org/en/country/lby>.
+- 15. "UN chief calls for Libya mass grave investigation," UN News, June 13, 2020, .
+- 16. UNHCR, "Operational portal: Refugee situations (Libya)," last updated June 30, 2020, .
 - 17. UNHCR, "Operational portal: Refugee situations (Yemen)," last updated December 31, 2020, [https://data2.unhcr.org/en/country/yem.](https://data2.unhcr.org/en/country/yem)
 
-- 18. UNHCR, "Operational portal: Refugee situations (Syria)," last updated May 5, 2021, <https://data2.unhcr.org/en/situations/syria>.
+- 18. UNHCR, "Operational portal: Refugee situations (Syria)," last updated May 5, 2021, .
 - 19. See for example Jennifer Dathan, "The Reverberating Effects of Explosive Weapon Use in Syria," Action on Armed Violence, 2019, [https://www.inew.org/wp](https://www.inew.org/wp-content/uploads/2019/02/Reverberating-effects-of-explosive-weapons-in-Syria. V5.pdf)[content/uploads/2019/02/Reverberating-effects-of-explosive-weapons-in-](https://www.inew.org/wp-content/uploads/2019/02/Reverberating-effects-of-explosive-weapons-in-Syria. V5.pdf)[Syria. V5.pdf](https://www.inew.org/wp-content/uploads/2019/02/Reverberating-effects-of-explosive-weapons-in-Syria. V5.pdf); "'Targeting Life in Idlib'": Syrian and Russian Strikes on Civilian Infrastructure," Human Rights Watch, October 15, 2020, [https://www.hrw.org/report/2020/10/15/targeting-life-idlib/syrian-and-russian-strikes](https://www.hrw.org/report/2020/10/15/targeting-life-idlib/syrian-and-russian-strikes-civilian-infrastructure)[civilian-infrastructure.](https://www.hrw.org/report/2020/10/15/targeting-life-idlib/syrian-and-russian-strikes-civilian-infrastructure)
 - 20. Meaghan Beatley, "America's Guns Fuel Mexico's Domestic Violence Epidemic," *Foreign Policy*, May 27, 2020.
 - 21. The Western Hemisphere Institute for Security Cooperation, formerly known as the School of the Americas, is a US military training school based in Fort Benning, Georgia. Previously operated by the US Army, it is now an institute of the US Department of Defense. It has trained officers from a variety of Latin American countries, many of which have been implicated in serious human rights abuses, including torture and forced disappearances. See School of the Americas Watch at [www.soaw.org](http://www.soaw.org/) for more information.
@@ -3071,7 +3097,7 @@ Dulong de Rosnay and Félix Tréguer, eds., *Telecommunications Reclaimed: A Han
 - 53. "The Cost of Immigration Enforcement and Border Security," American Immigration Council, July 7, 2020, [https://www.americanimmigrationcouncil.org/research/the](https://www.americanimmigrationcouncil.org/research/the-cost-of-immigration-enforcement-and-border-security)[cost-of-immigration-enforcement-and-border-security.](https://www.americanimmigrationcouncil.org/research/the-cost-of-immigration-enforcement-and-border-security)
 
 - 54. Miller, *Empire of Borders.*
-- 55. Todd Miller and Nick Buxton, "Biden's Border: The industry, the Democrats and the 2020 elections," Transnational Institute, February 17, 2021, <https://www.tni.org/en/bidensborder>.
+- 55. Todd Miller and Nick Buxton, "Biden's Border: The industry, the Democrats and the 2020 elections," Transnational Institute, February 17, 2021, .
 - 56. Miller and Buxton, "Biden's Border."
 - 57. Miller, *Empire of Borders*, 83.
 - 58. Mark Akkerman, "The Business of Building Walls," Transnational Institute, Stop Wapenhandel, Centre Delàs, 2019, [https://www.tni.org/files/publication](https://www.tni.org/files/publication-downloads/business_of_building_walls_-_full_report.pdf)[downloads/business\\_of\\_building\\_walls\\_-\\_full\\_report.pdf.](https://www.tni.org/files/publication-downloads/business_of_building_walls_-_full_report.pdf)
@@ -3084,7 +3110,7 @@ Dulong de Rosnay and Félix Tréguer, eds., *Telecommunications Reclaimed: A Han
 - 65. De León, *Land of Open Graves*, 8.
 - 66. Zack Campbell and Lorenzo D'Agostino, "Friends of the Traffickers: Italy's Anti-Mafia Directorate and the 'Dirty Campaign' to Criminalize Migration," The Intercept, April 30, 2021.
 - 67. Washington, *The Dispossessed.*
-- 68. "Migrant deaths and disappearance," Migration Data Portal, <https://migrationdataportal.org/themes/migrant-deaths-and-disappearances>.
+- 68. "Migrant deaths and disappearance," Migration Data Portal, .
 - 69. Gifford, "The true cost."
 - 70. Washington, *The Dispossessed.*
 - 71. For regularly updated accounts, see *Are You Syrious?* at [https://areyousyrious.medium.com](https://areyousyrious.medium.com/) and Transbalkanska Solidarnost at [https://transbalkanskasolidarnost.home.blog/eng.](https://transbalkanskasolidarnost.home.blog/eng) Also see Amnesty International, "Croatia: EU complicit in violence and abuse by police against refugees and
@@ -3092,7 +3118,7 @@ Dulong de Rosnay and Félix Tréguer, eds., *Telecommunications Reclaimed: A Han
 - migrants," March 13, 2019, [https://www.amnesty.org/en/latest/news/2019/03/croatia](https://www.amnesty.org/en/latest/news/2019/03/croatia-eu-complicit-in-violence-and-abuse-by-police-against-refugees-and-migrants/)[eu-complicit-in-violence-and-abuse-by-police-against-refugees-and-migrants/.](https://www.amnesty.org/en/latest/news/2019/03/croatia-eu-complicit-in-violence-and-abuse-by-police-against-refugees-and-migrants/)
 - 72. Oxfam, Belgrade Centre for Human Rights, and Macedonian Young Lawyers Association, "A Dangerous 'Game': The pushback of migrants, including refugees, at Europe's borders," Oxfam International, April 2017, 4.
 - 73. Oxfam, Belgrade Centre, and Macedonian Young Lawyers, "A Dangerous 'Game,'" 4.
-- 74. Border Violence Monitoring Network, <https://www.borderviolence.eu/statistics>.
+- 74. Border Violence Monitoring Network, .
 - 75. Raja Abdulrahim, "Greek Police Are Rounding Up Asylum Seekers and Forcing Them Into Turkey, Migrants Say," *Wall Street Journal*, May 20, 2020.
 - 76. War Resisters League, "Greek authorities use range of tear gas against migrants," March 6, 2020.
 - 77. John Washington, "'I Didn't Exist': A Syrian Asylum-Seeker's Case Reframes Migrant Abuses as Enforced Disappearances," The Intercept, February 28, 2021.
@@ -3103,7 +3129,7 @@ Dulong de Rosnay and Félix Tréguer, eds., *Telecommunications Reclaimed: A Han
 - 82. Washington, *The Dispossessed*, 187.
 - 83. Are You Syrious? "AYS Special from Lesvos: COVID-19 and an island bursting at the seams," Medium, March 29, 2020.
 - 84. Are You Syrious? "AYS Special."
-- 85. "Moria nightmare," Refugee Support Aegean, January 24, 2020, <https://rsaegean.org/en/moria-nightmare>. See also Chico Harlan, "'We are living like animals': Migrants wait up to eight hours for meals as tourists dine on octopus in Greece," Independent, February 24, 2020.
+- 85. "Moria nightmare," Refugee Support Aegean, January 24, 2020, . See also Chico Harlan, "'We are living like animals': Migrants wait up to eight hours for meals as tourists dine on octopus in Greece," Independent, February 24, 2020.
 - 86. Are You Syrius? "AYS Daily Digest 19/5/20: Maltese offshore prisons," Medium, May 20, 2020.
 - 87. "Inspections of Australia's immigration detention facilities 2019 Report," Australian Human Rights Commission, December 2020, [https://humanrights.gov.au/our](https://humanrights.gov.au/our-work/asylum-seekers-and-refugees/publications/inspections-australias-immigration-detention)[work/asylum-seekers-and-refugees/publications/inspections-australias-immigration](https://humanrights.gov.au/our-work/asylum-seekers-and-refugees/publications/inspections-australias-immigration-detention)[detention.](https://humanrights.gov.au/our-work/asylum-seekers-and-refugees/publications/inspections-australias-immigration-detention)
 - 88. Damien Cave, "A Timeline of Despair in Australia's Offshore Detention Centres," *New York Times*, June 26, 2019.
@@ -3115,7 +3141,7 @@ Dulong de Rosnay and Félix Tréguer, eds., *Telecommunications Reclaimed: A Han
 - 93. John Washington, "ICE Threatened to Expose Asylum-Seekers to COVID-19 If They Did Not Accept Deportation," The Intercept, February 6, 2021.
 - 94. John Washington, "ICE Mismanagement Created Coronavirus 'Hotbeds of Infection' In and Around Detention Centers," The Intercept, December 9, 2020.
 - 95. Washington, *The Dispossessed.*
-- 96. See "Mapping U. S. Immigration Detention," Freedom for Immigrants, <https://www.freedomforimmigrants.org/map>.
+- 96. See "Mapping U. S. Immigration Detention," Freedom for Immigrants, .
 - 97. Washington, *The Dispossessed.*
 - 98. Asylum Insight, "Private contractors at onshore and offshore processing centres," last updated April 4, 2021, [https://www.asyluminsight.com/private](https://www.asyluminsight.com/private-contractors#. Xtl LilB7nu0)[contractors#. Xtl LilB7nu0](https://www.asyluminsight.com/private-contractors#. Xtl LilB7nu0).
 - 99. Paul Farrell, "Immigration department suppressed detention contractor's name due to boycotts," *The Guardian*, March 28, 2017.
@@ -3123,14 +3149,14 @@ Dulong de Rosnay and Félix Tréguer, eds., *Telecommunications Reclaimed: A Han
 - 101. Elisabetta Poveloda, "Italy's Migrant Detention Centers Are Cruel, Rights Groups Say," *New York Times*, June 5, 2013.
 - 102. Admir Skodo, "How immigration detention compares around the world," The Conversation, April 19, 2017.
 - 103. Sally Hayden, "The U. N. Is Leaving Migrants to Die in Libya," *Foreign Policy*, October 10, 2019.
-- 104. Transbalkan Solidarity, "Call to Action: Stop Funding Violence Now!," May 2020, <https://transbalkanskasolidarnost.home.blog/stop-funding-violence-now>.
+- 104. Transbalkan Solidarity, "Call to Action: Stop Funding Violence Now!," May 2020, .
 - 105. Border Violence Monitoring Network, "Special Report: COVID-19 and Border Violence along the Balkan Route," April 2020, 6, [https://www.borderviolence.eu/wp](https://www.borderviolence.eu/wp-content/uploads/COVID-19-Report.pdf)[content/uploads/COVID-19-Report.pdf.](https://www.borderviolence.eu/wp-content/uploads/COVID-19-Report.pdf)
 - 106. Iida Käyhkö and Laura Schack, "Policing the pandemic: 'security' for whom?," ROAR, April 2, 2020.
-- 107. No Name Kitchen, "The Impact of COVID-19 on the Balkans Route," Webinar, May 26, 2020, <https://www.youtube.com/watch?v=AOMGX5Ni-GA&feature=youtu.be>.
+- 107. No Name Kitchen, "The Impact of COVID-19 on the Balkans Route," Webinar, May 26, 2020, .
 - 108. No Name Kitchen, "The Impact of COVID-19."
 - 109. Border Violence Monitoring Network, "Special Report."
 
-- 110. See for example <https://www.detentionwatchnetwork.org/covid-19> and [https://freethemall4publichealth.org.](https://freethemall4publichealth.org/)
+- 110. See for example  and [https://freethemall4publichealth.org.](https://freethemall4publichealth.org/)
 - 111. De León, *Land of Open Graves*, 3–4.
 - 112. Bridget Anderson, Nandita Sharma, and Cynthia Wright, "Editorial: Why No Borders?" *Refuge: Canada's Journal on Refugees* 26, no. 2 (2009): 8.
 - 113. Anderson, Sharma, and Wright, "Editorial," 9.
@@ -3147,7 +3173,7 @@ Dulong de Rosnay and Félix Tréguer, eds., *Telecommunications Reclaimed: A Han
 
 - 1. Hannah Arendt, *On Violence* (New York City: Harvest Books, 1970), 80.
 - 2. Amanda Macias, "America has spent \$6.4 trillion on wars in the Middle East and Asia since 2001, a new study says," CNBC, November 20, 2019.
-- 3. Neta C. Crawford et al., "Detention," in "Costs of War," Watson Institute of International & Public Affairs at Brown University, <https://watson.brown.edu/costsofwar/costs/social/rights/detention>.
+- 3. Neta C. Crawford et al., "Detention," in "Costs of War," Watson Institute of International & Public Affairs at Brown University, .
 - 4. See the International Network on Explosive Weapons at inew.org for information and resources.
 - 5. "Explosive Weapons Devastating for Civilians," Human Rights Watch, February 6, 2020, [https://www.hrw.org/news/2020/02/06/explosive-weapons-devastating](https://www.hrw.org/news/2020/02/06/explosive-weapons-devastating-civilians)[civilians.](https://www.hrw.org/news/2020/02/06/explosive-weapons-devastating-civilians)
 - 6. Christina Wille, "The Implications of the Reverberating Effects of Explosive Weapons Use in Populated Areas for Implementing the Sustainable Development Goals," United Nations Institute for Disarmament Research, 2016.
@@ -3178,7 +3204,7 @@ Dulong de Rosnay and Félix Tréguer, eds., *Telecommunications Reclaimed: A Han
 - 28. Stuart Schrader, "Trump Has Brought America's Dirty Wars Home," *New Republic*, July 21, 2020.
 - 29. About Face: Veterans Against the War (@Vets About Face), "People are so stressed …," Twitter, June 8, 2020, [https://twitter.com/Vets About Face/status/1269883998463037440.](https://twitter.com/Vets About Face/status/1269883998463037440)
 - 30. Justin Jackson (@J\_Man Prime21), "I know that a lot of people …," Twitter, June 5, 2020, [https://twitter.com/J\\_Man Prime21/status/1268961287406366721.](https://twitter.com/J_Man Prime21/status/1268961287406366721)
-- 31. CODEPINK, "Policing & Militarism: Connecting the Struggles," You Tube webinar, July 9, 2020, 44:31, <https://www.youtube.com/watch?v=-gVI3ywZ0J0>.
+- 31. CODEPINK, "Policing & Militarism: Connecting the Struggles," You Tube webinar, July 9, 2020, 44:31, .
 - 32. Kanya Bennett, "365 Days and 605 Armored Military Vehicles Later: Police Militarization a Year After Ferguson," American Civil Liberties Union, August 7, 2015, [https://www.aclu.org/blog/criminal-law-reform/reforming-police/365-days-and-](https://www.aclu.org/blog/criminal-law-reform/reforming-police/365-days-and-605-armored-military-vehicles-later-police)[605-armored-military-vehicles-later-police.](https://www.aclu.org/blog/criminal-law-reform/reforming-police/365-days-and-605-armored-military-vehicles-later-police)
 - 33. Haymarket Books, "Indigenous Resistance Against Oil Pipelines During a Pandemic," You Tube webinar, June 3, 2020, 1:38:22, [https://youtu.be/W5zp8S0nR8o.](https://youtu.be/W5zp8S0nR8o)
 - 34. "World military spending increases to almost \$2 trillion in 2020," Stockholm International Peace Research Institute, April 26, 2021.
@@ -3211,7 +3237,7 @@ Dulong de Rosnay and Félix Tréguer, eds., *Telecommunications Reclaimed: A Han
 - 59. Naomi Klein, *The Shock Doctrine* (Toronto: Knopf Canada, 2007).
 - 60. Katie Rabinowitze and Kevin Uhrmacher, "What Trump proposed in his 2020 budget," *Washington Post*, March 12, 2019.
 - 61. Senator Bernie Sanders, "The Trump Budget for 2021," United States Senate Budget Committee, [https://www.budget.senate.gov/imo/media/doc/SBC%20Trump%20Budget%20Reacti](https://www.budget.senate.gov/imo/media/doc/SBC%20Trump%20Budget%20Reaction%202-11-20%20REVISED.pdf) [on%202-11-20%20REVISED.pdf.](https://www.budget.senate.gov/imo/media/doc/SBC%20Trump%20Budget%20Reaction%202-11-20%20REVISED.pdf)
-- 62. Matt Hourihan, "AAAS Guide to the President's Budget: Research & Development FY 2021," American Association for the Advancement of Science, April 2020, <https://www.aaas.org/news/guide-presidents-budget-research-development-fy-2021>.
+- 62. Matt Hourihan, "AAAS Guide to the President's Budget: Research & Development FY 2021," American Association for the Advancement of Science, April 2020, .
 - 63. John Horgan, "Let's Defund the Pentagon, Too," *Scientific American*, July 8, 2020.
 - 64. Neta C. Crawford and Catherine Lutz, "Too much military spending got us into this mess," *Boston Globe*, June 7, 2020.
 - 65. Jessica Semega et al., "Income and Poverty in the United States: 2018," United States Census Bureau, revised June 2020, [https://www.census.gov/content/dam/Census/library/publications/2019/demo/p60-](https://www.census.gov/content/dam/Census/library/publications/2019/demo/p60-266.pdf#page=20) [266.pdf#page=20](https://www.census.gov/content/dam/Census/library/publications/2019/demo/p60-266.pdf#page=20).
@@ -3255,7 +3281,7 @@ Dulong de Rosnay and Félix Tréguer, eds., *Telecommunications Reclaimed: A Han
 - 101. Caitlin Dickerson, "A Rare Look Inside Trump's Immigration Crackdown Draws Legal Threats," *New York Times*, July 23, 2020.
 
 - 102. Elie Mystal, "Trump's Secret Police Have Never Been a Secret to Brown People," *The Nation*, July 27, 2020.
-- 103. Tina Vaquez (@The Tina Vasquez), "Yes, I'm deeply alarmed …," Twitter, July 26, 2020, <https://twitter.com/The Tina Vasquez/status/1287403413555290124>.
+- 103. Tina Vaquez (@The Tina Vasquez), "Yes, I'm deeply alarmed …," Twitter, July 26, 2020, .
 - 104. Ryan Devereaux, "Amnesty International condemns U. S. attacks on border journalists and human rights defenders," The Intercept, July 2, 2019.
 - 105. "Military style raid: border patrol detains 30+ people receiving care at humanitarian aid station," No More Deaths/No Más Muertes, August 1, 2020.
 - 106. Justice for Muslims Collective et al., "Abolishing the War on Terror, Building Communities of Care: A Grassroots Policy Agenda," March 2021, 3. [https://www.justiceformuslims.org/grassroots-policy-agenda.](https://www.justiceformuslims.org/grassroots-policy-agenda)
@@ -3397,7 +3423,7 @@ Dulong de Rosnay and Félix Tréguer, eds., *Telecommunications Reclaimed: A Han
 - 9. Harvey, *Marx, Capital.*
 - 10. Harvey, *Marx, Capital*, 3–4.
 - 11. Harvey, Marx, *Capital*, 4.
-- 12. Tim Gallen, "Gross Domestic Product: An Economy's All," International Monetary Fund, February 24, 2020, <https://www.imf.org/external/pubs/ft/fandd/basics/gdp.htm>.
+- 12. Tim Gallen, "Gross Domestic Product: An Economy's All," International Monetary Fund, February 24, 2020, .
 - 13. See "GPD, current prices," International Monetary Fund, [https://www.imf.org/external/datamapper/NGDPD@WEO/OEMDC/ADVEC/WEO](https://www.imf.org/external/datamapper/NGDPD@WEO/OEMDC/ADVEC/WEOWORLD) [WORLD](https://www.imf.org/external/datamapper/NGDPD@WEO/OEMDC/ADVEC/WEOWORLD).
 - 14. Philip Alston, "Statement on Visit to the USA," United Nations Human Rights Office of the High Commissioner, December 15, 2017, [https://www.ohchr.org/EN/News Events/Pages/Display News.aspx?NewsID=22533.](https://www.ohchr.org/EN/News Events/Pages/Display News.aspx?NewsID=22533)
 - 15. See for example Lauren Kaori Gurley, "Amazon Workers to Stage Coordinated Black Friday Protests in 15 Countries," *VICE*, November 26, 2020; and Kenya Evelyn, "Amazon workers walk out over lack of protective gear amid coronavirus," *The Guardian*, March 30, 2020.
@@ -3437,7 +3463,7 @@ Dulong de Rosnay and Félix Tréguer, eds., *Telecommunications Reclaimed: A Han
 - 46. Ortiz and Cummins, "Global Austerity Alert."
 - 47. The Red Nation, *The Red Deal: Indigenous Action to Save Our Earth* (Brooklyn, NY: Common Notions, 2021), 22.
 - 48. "World military spending rises to almost \$2 trillion in 2020," Stockholm International Peace Research Institute, April 26, 2021. See chapter 5 in this book for details about the broader scope of US military spending.
-- 49. "Financial value of the global arms trade," Stockholm International Peace Research Institute, <https://www.sipri.org/databases/financial-value-global-arms-trade>.
+- 49. "Financial value of the global arms trade," Stockholm International Peace Research Institute, .
 - 50. Noam Chomsky, "The Pentagon System," *Z Magazine*, February 1993, [http://www.thirdworldtraveler.com/Chomsky/Pentagon System\\_Chom.html](http://www.thirdworldtraveler.com/Chomsky/Pentagon System_Chom.html).
 - 51. Paul Baran and Paul Sweezy, *Monopoly Capital: An Essay on the American Economic and Social Order* (New York: NYU Press, 1968), 213.
 - 52. C. Wright Mills, *The Power Elite* (New York: Oxford University Press, 2000), 276.
@@ -3471,7 +3497,7 @@ Dulong de Rosnay and Félix Tréguer, eds., *Telecommunications Reclaimed: A Han
 - 78. Alexander C. Kaufman, "States Quietly Pass Laws Criminalizing Fossil Fuel Protests Amid Coronavirus Chaos," Huffington Post, March 27, 2020; Burak Bir, "US, petchem firms practicing 'disaster capitalism,'" AA, March 30, 2020.
 - 79. ROAPE, "Out of Control: Crisis, Covid-19 and Capitalism in Africa," *Review of African Political Economy*, March 26, 2020.
 - 80. Red Nation, *Red Deal*, 8.
-- 81. Tim Pollo, "There's no time left not to do everything," *Arena Quarterly 3*, September 2020, <https://arena.org.au/theres-no-time-left-not-to-do-everything>.
+- 81. Tim Pollo, "There's no time left not to do everything," *Arena Quarterly 3*, September 2020, .
 - 82. Hickel, *Less is More*, 20.
 - 83. Hickel, *Less is More*, 123.
 - 84. Amnesty International, "South Africa: Mining gathering must confront human rights violations," February 3, 2020, [https://www.amnesty.org/en/latest/news/2020/02/south-africa-mining-gathering-must](https://www.amnesty.org/en/latest/news/2020/02/south-africa-mining-gathering-must-confront-human-rights-violations/)[confront-human-rights-violations/.](https://www.amnesty.org/en/latest/news/2020/02/south-africa-mining-gathering-must-confront-human-rights-violations/)

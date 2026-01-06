@@ -1,3 +1,8 @@
+---
+title: "About the Author"
+category: "contemporary-analysis"
+---
+
 'One of the most important books I've ever read an indispensable guide to thinking clearly about the world' Bill Gates
 
 ## ![](_page_0_Figure_1.jpeg)
@@ -138,32 +143,92 @@ This book is about the world, and how to understand it. So why start with the ci
 | 1. In all low-income countries across the world today, how many girls finish primary | |
 |--------------------------------------------------------------------------------------|--|
 | school? | |
-| A: 20<br>percent | |
-| B: 40<br>percent | |
-| C: 60<br>percent | |
+| A: 20
+percent | |
+| B: 40
+percent | |
+| C: 60
+percent | |
 | | |
 | 2. Where does the majority of the world population live? | |
 | A: Low-income countries | |
 | B: Middle-income countries | |
 ## | C: High-income countries | |
 
-| 3. In the last 20<br>years, the proportion of the world population living in extreme poverty<br>has …<br>A: almost doubled<br>B: remained more or less the same<br>C: almost halved |
+| 3. In the last 20
+years, the proportion of the world population living in extreme poverty
+has …
+A: almost doubled
+B: remained more or less the same
+C: almost halved |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 4. What is the life expectancy of the world today?<br>A: 50<br>years<br>B: 60<br>years<br>C: 70<br>years |
-| 5. There are 2 billion children in the world today, aged 0 to 15<br>years old. How many<br>children will there be in the year 2100, according to the United Nations?<br>A: 4 billion<br>B: 3 billion<br>C: 2 billion |
-| 6. The UN predicts<br>that by 2100 the world population will have<br>increased by another 4<br>billion people. What is the main reason?<br>A: There will be more children (age below 15)<br>B: There will be more adults (age 15 to 74)<br>C: There will be more very old people (age 75 and older) |
-| 7. How did the number of deaths per year from natural disasters change over the last<br>hundred years?<br>A: More than doubled<br>B: Remained about the same<br>C: Decreased to less than half |
-| 8. There are roughly 7 billion people in<br>the world today. Which map shows best where<br>they live? (Each figure represents 1 billion people.) |
+| 4. What is the life expectancy of the world today?
+A: 50
+years
+B: 60
+years
+C: 70
+years |
+| 5. There are 2 billion children in the world today, aged 0 to 15
+years old. How many
+children will there be in the year 2100, according to the United Nations?
+A: 4 billion
+B: 3 billion
+C: 2 billion |
+| 6. The UN predicts
+that by 2100 the world population will have
+increased by another 4
+billion people. What is the main reason?
+A: There will be more children (age below 15)
+B: There will be more adults (age 15 to 74)
+C: There will be more very old people (age 75 and older) |
+| 7. How did the number of deaths per year from natural disasters change over the last
+hundred years?
+A: More than doubled
+B: Remained about the same
+C: Decreased to less than half |
+| 8. There are roughly 7 billion people in
+the world today. Which map shows best where
+they live? (Each figure represents 1 billion people.) |
 | |
 | |
-| 9. How many of the world's 1-year-old children today have been vaccinated against<br>some disease?<br>A: 20<br>percent<br>B: 50<br>percent<br>C: 80<br>percent |
-| 10. Worldwide, 30-year-old men have spent 10<br>years in school, on average. How many<br>years have women of the same age spent in school?<br>A: 9<br>years<br>B: 6<br>years |
+| 9. How many of the world's 1-year-old children today have been vaccinated against
+some disease?
+A: 20
+percent
+B: 50
+percent
+C: 80
+percent |
+| 10. Worldwide, 30-year-old men have spent 10
+years in school, on average. How many
+years have women of the same age spent in school?
+A: 9
+years
+B: 6
+years |
 
-| C: 3<br>years |
+| C: 3
+years |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 11. In 1996, tigers, giant pandas, and black rhinos were all listed as endangered. How<br>many of these three species are more critically endangered today?<br>A: Two of them<br>B: One of them<br>C: None of them |
-| 12. How many people in the world have some access to electricity?<br>A: 20<br>percent<br>B: 50<br>percent<br>C: 80<br>percent |
-| 13. Global climate experts believe that, over the next 100<br>years, the average<br>temperature will …<br>A: get warmer<br>B: remain the same<br>C: get colder |
+| 11. In 1996, tigers, giant pandas, and black rhinos were all listed as endangered. How
+many of these three species are more critically endangered today?
+A: Two of them
+B: One of them
+C: None of them |
+| 12. How many people in the world have some access to electricity?
+A: 20
+percent
+B: 50
+percent
+C: 80
+percent |
+| 13. Global climate experts believe that, over the next 100
+years, the average
+temperature will …
+A: get warmer
+B: remain the same
+C: get colder |
 | Here are the correct answers: |
 | 1: C, 2: B, 3: C, 4: C, 5: C, 6: B, 7: C, 8: A, 9: C, 10: A, 11: C, 12: C, 13: A |
 
@@ -920,7 +985,7 @@ Share of children aged 5-14 who work full time under bad conditions
 
 ### **SMOKE PARTICLES**
 
-## Kg SO<sub>2</sub> particles emitted per person
+## Kg SO2 particles emitted per person
 
 ## ![](_page_66_Figure_20.jpeg)
 
@@ -3421,7 +3486,7 @@ Below is a selected set of notes and sources. You can find the full list here: g
 
 - *Migration and Global Environmental Change* (Foresight, 2011) showed fundamental weaknesses in the common assumptions underlying these claims. First it found that most of the frequently quoted studies refer back to just two original sources, one estimating that climate change will create ten million refugees and the other anticipating 150 million refugees; see Box 1.2: "Existing estimates of 'numbers of environmental migrants' tend to be based on one or two sources." And second, it found that these original sources underestimate people living on Levels 1 and 2 and their ability to cope with change. Instead they describe migration as their only option in the face of climate change.
 - The bad habit of reducing all problems to one single problem—the climate—is called climate reductionism. To confront it is not to deny climate change. It is to have realistic expectations about how people will cope with it, bearing in mind the many examples in world history of humans adapting to new circumstances; see, for example, *The Big Ratchet,* by Ruth De Fries (2014).
-- For a fact-based picture of the global migration and refugee situation, see UNHCR Population Statistics here:<http://popstats.unhcr.org/en/overview>, and read Paul Collier's *Exodus* (2013), and Alexander Betts and Paul Collier's *Refuge* (2017).
+- For a fact-based picture of the global migration and refugee situation, see UNHCR Population Statistics here:, and read Paul Collier's *Exodus* (2013), and Alexander Betts and Paul Collier's *Refuge* (2017).
 - **Ebola.** The WHO[13] lists all situation reports produced to track the Ebola pandemic since 2014. They still show suspect cases, and the CDC[3] continues to use the high estimates, which include suspected and unconfirmed cases.
 - **The five global risks.** For a fact-based view of a longer list of major risks, see *Global Catastrophes and Trends: The Next Fifty Years,* by Smil (2008). For those who find numbers calming, this is where you will find the big picture of the proportional risks and uncertainties of all kinds of possible fatal discontinuities. See gapm.io/furgr.
 - **The risk of global pandemic.** A small version of Spanish flu is more likely than a large one; see Smil (2008). While we should work against the obscene overuse of antibiotics in the meat industry—see WHO[14]—at the same time we must be careful not to make the mistake we made with DDT and become overprotective. Antibiotics could save even more lives if they were even less expensive. See gapm.io/tgerm.
@@ -3432,7 +3497,7 @@ Below is a selected set of notes and sources. You can find the full list here: g
 
 ## **Chapter Eleven: Factfulness in Practice**
 
-**Diversified economies.** MIT has produced a free-of-charge tool (<https://atlas.media.mit.edu/en/>) to help countries work out how best to diversify, given its existing industries and skills; see gapm.io/x4 or read Hausmann et al. (2013).
+**Diversified economies.** MIT has produced a free-of-charge tool () to help countries work out how best to diversify, given its existing industries and skills; see gapm.io/x4 or read Hausmann et al. (2013).
 
 **Teachers.** Visit [www.gapminder.org/teach](http://www.gapminder.org/teach) to find our free teaching materials and join the community of teachers promoting a fact-based worldview in their classrooms.
 
@@ -3450,7 +3515,8 @@ This was all possible thanks to Tim Berners-Lee and other early visionaries of t
 
 Unfortunately, this book uses almost no data from the International Energy Agency ([www.iea.org](http://www.iea.org/)), which, together with OECD, still puts price tags on lots of taxpayers' data.
 
-| That probably will—and has to—change soon, as energy statistics are way too important<br>to remain so inaccessible. | |
+| That probably will—and has to—change soon, as energy statistics are way too important
+to remain so inaccessible. | |
 |---------------------------------------------------------------------------------------------------------------------|--|
 | | |
 | | |
@@ -3516,7 +3582,7 @@ Unfortunately, this book uses almost no data from the International Energy Agenc
 - Countdown to 2030. *Reproductive, Maternal, Newborn, Child, and Adolescent Health and Nutrition*. Data produced by Aluisio Barros and Cesar Victora at Federal University of Pelotas, Brazil, 2017. [http://countdown2030.org/.](http://countdown2030.org/)
 - Crosby, Alfred W. *America's Forgotten Pandemic.* Cambridge, UK: Cambridge University Press, 1989.
 - Cummins, Denise. "Why the Gender Difference on SAT Math Doesn't Matter." *Good Thinking* blog, *Psychology Today.* March 17, 2014.
-- Davies, D. P. (1985). "Cot death in Hong Kong: a rare problem?" Lancet 1985 Dec 14;2(8468):1346-9. <https://www.ncbi.nlm.nih.gov/pubmed/2866397>.
+- Davies, D. P. (1985). "Cot death in Hong Kong: a rare problem?" Lancet 1985 Dec 14;2(8468):1346-9. .
 - De Fries, Ruth. *The Big Ratchet: How Humanity Thrives in the Face of Natural Crisis.* New York: Basic Books, 2014.
 - Diamond, Jared. *The World Until Yesterday: What Can We Learn from Traditional Societies?* London: Viking, 2012.
 - Dobbs, Richard, James Manyika, and Jonathan Woetzel. *No Ordinary Disruption: The Four Global Forces Breaking All the Trends.* New York: Public Affairs, 2016.
@@ -3634,7 +3700,7 @@ Gapminder[51]. CO2 emissions. gapm.io/tco2.
 - Gapminder[53]. Fertility rate and income by religion. gapm.io/dtfrr.
 - GDL[1]. (Global Data Lab). Area data initiated by Jeroen Smits. [https://globaldatalab.org/areadata.](https://globaldatalab.org/areadata)
 - GDL[2]. IWI International Wealth Index. [https://globaldatalab.org/iwi.](https://globaldatalab.org/iwi)
-- Gilbert et al. (2005). "Infant sleeping position and the sudden infant death syndrome: systematic review of observational studies and historical review of recommendations from 1940 to 2002" Ruth Gilbert, Georgia Salanti, Melissa Harden, Sarah. See International Journal of Epidemiology, Volume 34, Issue 4, 1 August 2005, Pages 874–887. <https://doi.org/10.1093/ije/dyi088>.
+- Gilbert et al. (2005). "Infant sleeping position and the sudden infant death syndrome: systematic review of observational studies and historical review of recommendations from 1940 to 2002" Ruth Gilbert, Georgia Salanti, Melissa Harden, Sarah. See International Journal of Epidemiology, Volume 34, Issue 4, 1 August 2005, Pages 874–887. .
 - Gilovich, Thomas. *How We Know What Isn't So.* New York: Macmillan, 1991.
 - Gleditsch, Nils Petter. Norwegian: *Mot en mer fredelig verden?* [*Towards a more peaceful world?*]. Oslo: Pax, 2016. Figure 1.4. gapm.io/xnpgfred.
 - Gleditsch, Nils Petter, and Bethany Lacina. "Monitoring trends in global combat: A new dataset of battle deaths." *European Journal of Population* 21, nos. 2–3 (2005): 145–66. gapm.io/xbat.
@@ -3644,7 +3710,7 @@ Gapminder[51]. CO2 emissions. gapm.io/tco2.
 - Gribble, Gordon W. "Food chemistry and chemophobia." *Food Security* 5, no. 1 (February 2013). gapm.io/xfosec.
 - GSMA. *The Mobile Economy 2017.* GSM Association, 2017. gapm.io/xgsmame.
 - GTD. Global Terrorism Database 2017. Accessed December 2, 2017. gapm.io/xgtdb17.
-- GTF. "The Global Tracking Framework measures the population with access to electricity in both rural and urban areas from 1990- 2014." The World Bank & the International Energy Agency. Global Tracking Framework. Accessed November 29, 2017. <http://gtf.esmap.org/results>.
+- GTF. "The Global Tracking Framework measures the population with access to electricity in both rural and urban areas from 1990- 2014." The World Bank & the International Energy Agency. Global Tracking Framework. Accessed November 29, 2017. .
 
 - Gurven, Michael, and Hillard Kaplan. "Longevity Among Hunter-Gatherers: A Cross-Cultural Examination." *Population and Development Review* 33, no. 2 (2007): 321–65. gapm.io/xhun.
 - Haidt, Jonathan. *The Happiness Hypothesis: Finding Modern Truth in Ancient Wisdom.* New York: Basic Books, 2006.
@@ -3657,14 +3723,14 @@ Gapminder[51]. CO2 emissions. gapm.io/tco2.
 - IATA (International Air Transport Association). "Accident Overview." Table. Fact Sheet Safety. December 2017. gapm.io/xiatas.
 - ICAO[1] (International Civil Aviation Organization). Convention on International Civil Aviation. Chicago, December 7, 1944. gapm.io/xchicc.
 - ICAO[2]. Aircraft Accident and Incident Investigation. Convention on International Civil Aviation, Annex 13. International Standards and Recommended Practices, 1955. gapm.io/xchi13.
-- ICAO[3]. Global Key Figures. Revenue Passenger-Kilometres. Air Transport Monitor. 2017. <https://www.icao.int/sustainability/Pages/Air-Traffic-Monitor.aspx>.
+- ICAO[3]. Global Key Figures. Revenue Passenger-Kilometres. Air Transport Monitor. 2017. .
 
 - Ichiseki, Hajime. "Features of disaster-related deaths after the Great East Japan Earthquake." *Lancet* 381, no. 9862 (January 19, 2013): 204. gapm.io/xjap.
 - ICP. "Purchasing Power Parity \$ 2011." International Comparison Program. gapm.io/x-icpp.
 - IHME[1] (Institute for Health Metrics and Evaluation). Data Life Expectancy. Global Burden of Disease Study 2016. Institute for Health Metrics and Evaluation, University of Washington, Seattle, September 2017. Accessed October 7, 2017. gapm.io/xihlex.
 - IHME[2]. "Global Educational Attainment 1970–2015." Accessed May 10, 2017. gapm.io/xihedu.
 - IHME[3]. "Road injuries as a percentage of all disability." GDB Compare. gapm.io/x-ihaj.
-- IHME[4]. "Drowning as a percentage of all death ages 5–14, by four development levels." GDB Compare. <http://ihmeuw.org/49kq>.
+- IHME[4]. "Drowning as a percentage of all death ages 5–14, by four development levels." GDB Compare. .
 - IHME[5]. "Drowning, share of all child deaths in ages 5–14, comparing Sweden with average for all highly developed countries." GBD Compare. [http://ihmeuw.org/49ks.](http://ihmeuw.org/49ks)
 - IHME[6]. "Local Burden of Disease—Under-5 mortality." Accessed November 29, 2017. gapm.io/xih5mr.
 - IHME[7]. "Measles." GBD Compare. Institute for Health Metrics and Evaluation, University of Washington, 2016. gapm.io/xihels.
@@ -3719,14 +3785,14 @@ Gapminder[51]. CO2 emissions. gapm.io/tco2.
 
 - (2001): 149–64. Posted December 9, 2010. gapm.io/xpaccur.
 - Klein Goldewijk, Kees. "Total SO2 Emissions." Utrecht University. Based on Paddy ([http://cdiac.ornl.gov](http://cdiac.ornl.gov/)). May 18, 2013. gapm.io/xso2em.
-- Klepac, Petra, et al. "Towards the endgame and beyond: complexities and challenges for the elimination of infectious diseases." Figure 1. *Philosophical Transactions of the Royal Society B,* June 24, 2013. DOI: 10.1098/rstb.2012.0137. <http://rstb.royalsocietypublishing.org/content/368/1623/20120137>.
+- Klepac, Petra, et al. "Towards the endgame and beyond: complexities and challenges for the elimination of infectious diseases." Figure 1. *Philosophical Transactions of the Royal Society B,* June 24, 2013. DOI: 10.1098/rstb.2012.0137. .
 - Lafond, F., et al. "How well do experience curves predict technological progress? A method for making distributional forecasts." Navigant Research. 2017. [https://arxiv.org/pdf/1703.05979.pdf.](https://arxiv.org/pdf/1703.05979.pdf)
 - Larson, Heidi J., et al. "The State of Vaccine Confidence 2016: Global Insights Through a 67-Country Survey." *EBio Medicine* 12 (October 2016): 295–301. Posted September 13, 2016. DOI: 10.1016/j.ebiom.2016.08.042. gapm.io/xvacnf.
 - Lindgren, Mattias. "Gapminder's long historic time series." published from 2006 to 2016. gapm.io/histdata.
 - Livi-Bacci, Massimo. *A Concise History of World Population,* 2nd. ed. Page 22. Maiden, MA: Blackwell, 1989.
 - Lozano, Rafael, Krycia Cowling, Emmanuela Gakidou, and Christopher J. L. Murray. "Increased educational attainment and its effect on child mortality in 175 countries between 1970 and 2009: a systematic analysis." *Lancet* 376, no. 9745 (September 2010): 959–74. DIO: 10.1016/S0140-6736 (10) 61257-3. gapm.io/xedux.
 - Maddison[1]. Maddison project maintaining data from Angus Maddison. GDP per capita estimates, via CLIO Infra. Updated by Jutta Bolt and Jan Luiten van Zanden, et al. Accessed December 3, 2017. https://www.clio[infra.eu/Indicators/GDPper Capita.html.](https://www.clio-infra.eu/Indicators/GDPper Capita.html)
-- Maddison[2]. Maddison project via CLIO Infra. Filipa Ribeiro da Silva's version revised by Jonathan Fink-Jensen, updated April 29, 2015. <https://www.clio-infra.eu/Indicators/Total Population.html>. Magnus & Pia. Mino's parents.
+- Maddison[2]. Maddison project via CLIO Infra. Filipa Ribeiro da Silva's version revised by Jonathan Fink-Jensen, updated April 29, 2015. . Magnus & Pia. Mino's parents.
 
 - Mc Evedy, Colin, and Richard Jones. *Atlas of World Population History.* New York: Facts on File, 1978. As cited in US Census Bureau. gapm.io/x-pophist.
 - Mischel, Walter. *The Marshmallow Test: Mastering Self-control.* New York: Little, Brown, 2014.
@@ -3734,22 +3800,11 @@ Gapminder[51]. CO2 emissions. gapm.io/tco2.
 - Myrskylä, M., H. P. Kohler, and F. Billari. "Advances in Development Reverse Fertility Declines." *Nature* 460, No. 6 (2009): 741–43. DOI: 10.1038/nature 08230.
 - National Biomonitoring Program. Centers for Disease Control and Prevention Organochlorine Pesticides Overview. gapm.io/xpes.
 - National Police Agency of Japan. *Damage Situation and Police Countermeasures Associated with 2011 Tohoku District – Off the Pacific Ocean Earthquake September 8, 2017.* Emergency Disaster Countermeasures Headquarters. gapm.io/xjapan.
-- NCI[1] (National Cancer Institute). "Trends in relative survival rates for all childhood cancers, age<20, all races, both sexes SEER (9 areas), 1975–94." Figure 10, p. 9, in L. A. G. Ries, M. A. Smith, et al., eds., "Cancer Incidence and Survival Among Children and Adolescents: United States SEER Program 1975–1995." National Cancer Institute, SEER Program. NIH. Pub. No. 99-4649. Bethesda, MD: 1999. gapm.io/xccs17.
-- NCI[2]. Childhood cancer rates calculated using the Incidence SEER18 Research Database, November 2016 submission (Katrina/Rita Population Adjustment). [https://www.cancer.gov/types/childhood-cancers/child-adolescent](https://www.cancer.gov/types/childhood-cancers/child-adolescent-cancers-fact-sheet#r4)cancers-fact-sheet#r4.
-- NHTSA (National Highway Traffic Safety Administration). "Alcohol-Impaired Driving from the Traffic Safety Facts, 2016 Data." Table 1. October 2017. gapm.io/xalc.
-- Nobel Prize in Physiology or Medicine 1948. Paul Herman Müller. gapm.io/xnob.
-- Novus[1]. Polls for Gapminder in Finland and Norway, April–October 2017. gapm.io/pnovus17a.
-
-- Novus[2]. Multiple polls for Gapminder in Sweden, Norway, USA and UK, during the period 2013 to 2017. gapm.io/polls17b.
-- Novus[3]. Polls for Gapminder in USA and Sweden during April 2017. In USA, November 2013 and September 2016 by GfK Group using Knowledge Panel. In UK, by Nat Cen. gapm.io/pollnov17bnovus-17b.
-- Nuclear Notebook. Kristensen, Hans M., and Robert S. Norris. "The Bulletin of the Atomic Scientists' Nuclear Notebook." Federation of [American Scientists. https://thebulletin.org/nuclear-notebook](https://thebulletin.org/nuclear-notebook-multimedia)multimedia.
-- ODI (Overseas Development Institute). Greenhill, Romilly, Paddy Carter, Chris Hoy, and Marcus Manuel. "Financing the future: how international public finance should fund a global social compact to eradicate poverty." ODI, 2015. gapm.io/xodi.
-- OEC. Simoes, Alexander J. G., and César A. Hidalgo. "The Economic Complexity Observatory: An Analytical Tool for Understanding the Dynamics of Economic Development." Workshops at the Twenty-Fifth AAAI Conference on Artificial Intelligence, 2011. Trade in hs92 category 920.2. String Instruments. gapm.io/xoec17.
-- The Economic Complexity Observatory. <https://atlas.media.mit.edu/en/>.
+- NCI[1] (National Cancer Institute). "Trends in relative survival rates for all childhood cancers, age.
 - OECD[1] (Organisation for Economic Co-operation and Development). "Why Is Health Spending in the United States So High?" Chart 4: Health spending per capita by category of care, US and selected OECD countries, 2009. Health at a Glance 2011: OECD Indicators. gapm.io/x-ushealth.
 - OECD[2]. Air and GHG emissions: Carbon dioxide (CO2), Tonnes/capita, 2000–2014. gapm.io/xoecdco2.
 - OECD[3]. "Indicators of Immigrant Integration 2015". July 2, 2015. OECD, EU gapm.io/xoecdimintegr.
-- OHDB, Oral Health Database. WHO Collaborating Centre for Education, Training and Research at the Faculty of Odontology, Malmö, Sweden, supported by the WHO Global Oral Health Programme for Oral Health Surveillance and Niigata University, Japan.<https://www.mah.se/CAPP/>.
+- OHDB, Oral Health Database. WHO Collaborating Centre for Education, Training and Research at the Faculty of Odontology, Malmö, Sweden, supported by the WHO Global Oral Health Programme for Oral Health Surveillance and Niigata University, Japan..
 
 - Oppenheim Mason, Karen. "Explaining Fertility Transitions." *Demography,* Vol. 34, No. 4, 1997, pp. 443-454. gapm.io/xferttra.
 - Ostrom, Elinor. *Governing the Commons.* Cambridge, UK: Cambridge University Press, 1990.
@@ -3797,7 +3852,7 @@ Gapminder[51]. CO2 emissions. gapm.io/tco2.
 - SIPRI Trends in world nuclear forces, 2017. Kile, Shannon N. and Hans M. Kristensen. SIPRI, July 2017. gapm.io/xsipri17.
 - Smil, Vaclav. *Energy Transitions: Global and National Perspectives.* 2nd ed. Santa Barbara, CA: Praeger, 2016. gapm.io/xsmilen.
 - . *Global Catastrophes and Trends: The Next Fifty Years.* Cambridge: MIT Press, 2008. gapm.io/xsmilcat.
-- Spotify. Web API.<https://developer.spotify.com/web-api>.
+- Spotify. Web API..
 - Stockholm Declaration. Fifth Global Meeting of the International Dialogue on Peacebuilding and Statebuilding, 2015. [https://www.pbsbdialogue.org/en.](https://www.pbsbdialogue.org/en)
 - Sundberg, Ralph and Erik Melander. "Introducing the UCDP Georeferenced Event Dataset", Journal of Peace Research, vol. 50, no. 4, 523-532.
 - Sundin, Jan, Christer Hogstedt, Jakob Lindberg, and Henrik Moberg. *Svenska folkets hälsa i historiskt perspektiv.* Barnhälsans historia, page 122. Solna: Statens folkhälsoinstitut, 2005. gapm.io/xsfhi5.
@@ -3810,12 +3865,12 @@ Gapminder[51]. CO2 emissions. gapm.io/tco2.
 - Tylleskär, Thorkild. "KONZO—the walk of the chameleon." Video, a group work in global nutrition, featuring Dr. Jean-Pierre Banea-Mayambu (head of Pronanut), Dr. Desire Tshala-Katumbay (from the neurology clinic at Centre Neuropsychopathologique, CNPP, Kinshasa), and students in nutrition at Uppsala University, Sweden, 1995. gapm.io/xvkonzo.
 - UCDP[1] (Uppsala Conflict Data Program). Battle-Related Deaths Dataset, 1989 to 2016, dyadic, version 17.1. See Allansson et al., dyadic, version 17.1. [http://ucdp.uu.se/downloads.](http://ucdp.uu.se/downloads)
 - UCDP[2]. Uppsala Conflict Data Program, Georeferenced Event Dataset (GED) Global version 17.1 (2016), See Sundberg et al (2013). Department of Peace and Conflict Research, Uppsala University, [http://ucdp.uu.se/downloads.](http://ucdp.uu.se/downloads/)
-- UN Comtrade. <https://comtrade.un.org/>.
+- UN Comtrade. .
 - UN Statistic Division. "Developing regions". Accessed December 20, 2017. gapm.io/xunsdef.
 - UN-IGME (United Nations Inter-agency Group for Child Mortality Estimation). "Child Mortality Estimates." Last modified October 19, 2017. [http://www.childmortality.org.](http://www.childmortality.org/)
-- UN-Pop[1] (UN Population Division). Population, medium fertility variant. World Population Prospects 2017. United Nations, Department of Economic and Social Affairs, Population Division. <https://esa.un.org/unpd/wpp>.
+- UN-Pop[1] (UN Population Division). Population, medium fertility variant. World Population Prospects 2017. United Nations, Department of Economic and Social Affairs, Population Division. .
 - UN-Pop[2]. Annual age composition of world population, medium fertility variant. World Population Prospects 2017. UN Population Division. [https://esa.un.org/unpd/wpp.](https://esa.un.org/unpd/wpp)
-- UN-Pop[3]. Indicators: Life expectancy and total fertility rate (medium fertility variant). World Population Prospects 2017. UN Population Division. Accessed September 2, 2017. <https://esa.un.org/unpd/wpp>.
+- UN-Pop[3]. Indicators: Life expectancy and total fertility rate (medium fertility variant). World Population Prospects 2017. UN Population Division. Accessed September 2, 2017. .
 
 - UN-Pop[4]. Annual population by age—Female, medium fertility variant. World Population Prospects 2017. UN Population Division. Accessed November 7, 2017. gapm.io/xpopage.
 - UN-Pop[5]. World Population Probabilistic Projections. Accessed November 29, 2017. gapm.io/xpopproj.
@@ -3856,7 +3911,7 @@ Gapminder[51]. CO2 emissions. gapm.io/tco2.
 - van Zanden[3], van Zanden, Jan Luiten, et al., eds. *How Was Life? Global Well-Being Since 1820.* Paris: OECD Publishing, 2014. gapm.io/x-zanoecd.
 - WEF (World Economic Forum). "Davos 2015—Sustainable Development: Demystifying the Facts." Filmed Davos, Switzerland, January 2015. WEF video, 15:42. Link to 5 minutes 18 seconds into the presentation, when Hans show the audience results: [https://youtu.be/3p Vla EbpJ7k?t=5m18s.](https://youtu.be/3p Vla EbpJ7k?t=5m18s)
 - White[1]. White, Matthew. *The Great Big Book of Horrible Things.* New York: W. W. Norton, 2011.
-- White[2]. White, Matthew. Estimates of death tolls in World War II. Necrometrics. <http://necrometrics.com/20c5m.htm#Second>.
+- White[2]. White, Matthew. Estimates of death tolls in World War II. Necrometrics. .
 
 - WHO[1]. "Global Health Observatory data repository: Immunization." Accessed November 2, 2017. gapm.io/xwhoim.
 - WHO[2]. Safe abortion: Technical & policy guidance for health systems. gapm.io/xabor.
@@ -3869,7 +3924,7 @@ Gapminder[51]. CO2 emissions. gapm.io/tco2.
 - WHO[9]. Situation updates—Pandemic. gapm.io/xwhopand.
 - WHO[10]. Data Tuberculosis (TB) Global Health Observatory (GHO) data, [http://www.who.int/gho/tb/.](http://www.who.int/gho/tb/en/)
 - WHO[11]. "What is multidrug-resistant tuberculosis (MDR-TB) and how do we control it?" gapm.io/xmdrtb.
-- WHO[12]. "Global Health Expenditure Database." Last updated December 5, 2017. <http://apps.who.int/nha/database>.
+- WHO[12]. "Global Health Expenditure Database." Last updated December 5, 2017. .
 - WHO[13]. Ebola situation reports. [gapm.io/xebolawho.](http://www.gapm.io/xebolawho)
 - WHO[14]. Antimicrobial resistance. [gapm.io/xantimicres](http://www.gapm.io/xantimicres).
 - WHO[15]. Neglected tropical diseases. gapm.io/xnegtrop.
@@ -3877,9 +3932,9 @@ Gapminder[51]. CO2 emissions. gapm.io/tco2.
 - WHO[17]. Emergencies preparedness, response. Situation updates – Pandemic (H1N1) 2009
 
 - [http://www.who.int/csr/disease/swineflu/updates/en/index.html.](http://www.who.int/csr/disease/swineflu/updates/en/index.html)
-- WHO[18]. Data Tuberculosis (TB) Global Health Observatory (GHO) data, <http://www.who.int/gho/tb/en/>.
+- WHO[18]. Data Tuberculosis (TB) Global Health Observatory (GHO) data, .
 - WHO/UNICEF. "Ending Preventable Child Deaths from Pneumonia and Diarrhoea by 2025." World Health Organization/The United Nations Children's Fund (UNICEF), 2013. gapm.io/xpneu Diarr.
-- WHO/UNICEF JMP (Joint Monitoring Programme). "Drinking water, sanitation and hygiene levels," 2015. <https://washdata.org/data>.
+- WHO/UNICEF JMP (Joint Monitoring Programme). "Drinking water, sanitation and hygiene levels," 2015. .
 - Wikipedia[1]. "Timeline of abolition of slavery and serfdom." [https://en.wikipedia.org/wiki/Timeline\\_of\\_abolition\\_of\\_slavery\\_and](https://en.wikipedia.org/wiki/Timeline_of_abolition_of_slavery_and_serfdom) \_serfdom.
 - Wikipedia[2]. "Capital punishment by country: Abolition chronology." [https://en.wikipedia.org/wiki/Capital\\_punishment\\_by\\_country#Aboli](https://en.wikipedia.org/wiki/Capital_punishment_by_country#Abolition_chronology) tion\_chronology.
 - Wikipedia[3]. "Feature film: History."

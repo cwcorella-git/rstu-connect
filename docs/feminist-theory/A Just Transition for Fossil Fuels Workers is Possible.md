@@ -1,3 +1,8 @@
+---
+title: "## **A Just Transition for Fossil Fuels Workers is Possible**"
+category: "feminist-theory"
+---
+
 ## **A Just Transition for Fossil Fuels Workers is Possible**
 
 **Date:** Wed, 10/26/2016 - 17:11 **Source:** https://ecology.iww.org/node/1881**Tags:** just transition, oil workers, mine workers, green unionism, green jobs, Donald Trump, Hillary Clinton Robert Pollin interviewed by Sharmini Peries - The Real News Network , October 24, 2016
@@ -12,7 +17,8 @@ Pollin and Brian Callaci. This reports many solutions. It details a plan for how
 |----------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Always great to be on. Thank you Sharmini. |
 | Peries: |
-| So Bob, let's start with your proposed framework for supporting fossil fuel dependent workers<br>and the communities at large? Just give us an overview. |
+| So Bob, let's start with your proposed framework for supporting fossil fuel dependent workers
+and the communities at large? Just give us an overview. |
 
 We looked at 3 basic considerations. Jobs for the workers who are either in the coal industry, oil and gas, or the insulary industries such as support industries for oil and coal, refining, pipeline, and natural gas distribution, and electric utilities. So we looked at those. We looked at the number of job losses and we looked at how to get people into better jobs or at least as good of jobs starting in the clean energy industry that's going to expand. Number 2, we looked at protecting the pensions for the workers who are going to be reaching retirement age over the course of the transition to a green economy. In fact, what we show is that you can cover most of the job losses through contraction in oil, coal, and natural gas in insulary industries. You can cover most through the attrition by retirement. In fact, we find that about 80% of all job losses can be covered by attrition through retirement but then you have to make sure that the pensions are fully protected so we do that. The third thing is, we look at the communities that will face significant impacts and how we can either cushion the impacts or get the communities actually revived through alternative investment strategies.
 
@@ -71,10 +77,12 @@ I was very pleased as soon as our paper, we just posted our paper about a week a
 | will be hurt by the contraction in the fossil fuel industry. |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Peries: |
-| Alright Bob, I thank you for the great work you've done here and I'm looking forward to having<br>you back very soon. |
+| Alright Bob, I thank you for the great work you've done here and I'm looking forward to having
+you back very soon. |
 | Pollin: |
 | Okay. Thanks very much. Thanks for having me on. |
 | Peries: |
 | And thank you for joining us on the Real News Network. |
 | Disclaimer: |
-| The views expressed here are not the official position of the IWW (or even the IWW's EUC)<br>and do not necessarily represent the views of anyone but the author's. |
+| The views expressed here are not the official position of the IWW (or even the IWW's EUC)
+and do not necessarily represent the views of anyone but the author's. |

@@ -1,3 +1,8 @@
+---
+title: "## **In memory of Cooper Andrews, Finbar Cafferkey and Dimitri Petrov**"
+category: "contemporary-analysis"
+---
+
 ## **In memory of Cooper Andrews, Finbar Cafferkey and Dimitri Petrov**
 
 ## **Date:** Unknown

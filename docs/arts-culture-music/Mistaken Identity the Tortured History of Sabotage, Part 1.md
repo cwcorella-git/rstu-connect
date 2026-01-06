@@ -1,3 +1,8 @@
+---
+title: "## **Mistaken Identity: the Tortured History of Sabotage, Part 1**"
+category: "arts-culture-music"
+---
+
 ## **Mistaken Identity: the Tortured History of Sabotage, Part 1**
 
 ## **Date:** Wed, 03/02/2016 - 19:15
@@ -30,20 +35,25 @@ How many times have people heard the following explanations for the origin of th
 
 400 years ago on the planet Earth, workers who felt their livelihood threatened by automation flung their wooden shoes, called sabots, into the machines to stop them. Hence, the word "sabotage."
 
-| That's a colorful historical account, often repeated, except that it's entirely wrong. In actual<br>fact, the word |
+| That's a colorful historical account, often repeated, except that it's entirely wrong. In actual
+fact, the word |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | sabot |
 | is French for |
 | wooden shoe |
 | , deriving from the word |
 | bot |
-| (similar to the English "boot", naturally), but the story of workers flinging them into the<br>machines is entirely apocryphal. |
+| (similar to the English "boot", naturally), but the story of workers flinging them into the
+machines is entirely apocryphal. |
 | 2 |
-| In France, those that tended to wear sabots, which are very cumbersome and clunky<br>footwear, tended to walk inefficiently and clumsily. Sabotage |
+| In France, those that tended to wear sabots, which are very cumbersome and clunky
+footwear, tended to walk inefficiently and clumsily. Sabotage |
 | actually |
 | referred to |
 | an entire class |
-| of tactics that facilitated the workers consciously and collectively withdrawing their efficiency<br>at the point of production, as if walking on wooden shoes, and this could be done a number of<br>ways, including simply engaging in a strike. |
+| of tactics that facilitated the workers consciously and collectively withdrawing their efficiency
+at the point of production, as if walking on wooden shoes, and this could be done a number of
+ways, including simply engaging in a strike. |
 
 The IWW, being a revolutionary, anti-capitalist, class struggle union certainly embraced sabotage in that sense, and published at least two thoroughly descriptive pamphlets on sabotage:
 
@@ -246,16 +256,19 @@ By this time, the word "sabotage" had assumed the definition assigned to it by t
 
 ## ![](_page_19_Figure_0.jpeg)
 
-| is uncertain, and it's not known whether either had knowledge of the IWW's popularization of<br>the concept. |
+| is uncertain, and it's not known whether either had knowledge of the IWW's popularization of
+the concept. |
 |-----------------------------------------------------------------------------------------------------------------|
 | [ |
 | 5 |
 | ] For more detail on this sordid affair, please see Foner, Phillip S, |
-| History of the Labor Movement in the United States, Volume 4, the Industrial Workers of the<br>World, 1905-1917 |
+| History of the Labor Movement in the United States, Volume 4, the Industrial Workers of the
+World, 1905-1917 |
 | , New York, NY, International Publishers, 1965, pp 391-414. |
 | [ |
 | 6 |
-| ] Adopted by the General Executive Board of the Industrial Workers of the World and first<br>published in |
+| ] Adopted by the General Executive Board of the Industrial Workers of the World and first
+published in |
 | Defense News Bulletin |
 | of May 4, 1918. |
 | [ |

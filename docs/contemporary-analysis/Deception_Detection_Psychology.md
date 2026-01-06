@@ -1,3 +1,8 @@
+---
+title: "**Deception detection: State of the art and future prospects**"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_2.jpeg)
 
 # **Deception detection: State of the art and future prospects**
@@ -117,9 +122,17 @@ Although CBCA was developed to assess the credibility of alleged child victims' 
 
 CBCA is a clinical assessment procedure rather than a standardized psychometric test. However, its reliability and validity are important if it is to be used in forensic practice (Hauch et al., in press). A meta-analysis on the inter-rater reliability of CBCA revealed that most criteria have suffi cient to good reliability (although whether reliability is high enough for CBCA/ SVA evidence to be admitted in court is open to discussion). However, as shown in Table 2, whereas reliability was consistently high for those criteria with straightforward defi nitions, it was poor for criteria with less clear defi nitions (e.g., Criteria 2 and 9). The latter criteria should be used with great caution. Proportion
 
-| CBCA Criterion | Inter-rater Reliability (Hauch et al., in press) | | | | | Validity (Amado et al.,<br>2015, 2016) | |
+| CBCA Criterion | Inter-rater Reliability (Hauch et al., in press) | | | | | Validity (Amado et al.,
+2015, 2016) | |
 |-----------------------------------------------|--------------------------------------------------|----------------------------|-------------------|------------------------------------|---------------------------------------|----------------------------------------|--------------|
-| | Pearson's ra | Proportion<br>agreementa, b | Mdn for<br>kappac | Mdn for weighted<br>kappa and ICCc | Mdn for<br>Maxwell's<br>Random Errorc | dchildren<br>a | dadults<br>a |
+| | Pearson's ra | Proportion
+agreementa, b | Mdn for
+kappac | Mdn for weighted
+kappa and ICCc | Mdn for
+Maxwell's
+Random Errorc | dchildren
+a | dadults
+a |
 | General Characteristics | | | | | | | |
 | 01. Logical structure | .69 | .79 | .38 | .18 | .77 | 0.47 | 0.48 |
 | 02. Unstructured production | .46 | .70 | .32 | .55 | .40 | 0.40 | 0.53 |
@@ -189,7 +202,8 @@ Meijer and Verschuere (2015) presented an overview of available reviews examinin
 
 ## *Table 3*
 
-| Sensitivity and specifi city of the polygraph, fMRI, and ERPs expressed as<br>percentages | | | | |
+| Sensitivity and specifi city of the polygraph, fMRI, and ERPs expressed as
+percentages | | | | |
 |-------------------------------------------------------------------------------------------|------------------|-------------------|--|--|
 | Study type and measure | Sensitivity | Specifi city | | |
 | CQT - Polygrapha, b | | | | |
@@ -235,7 +249,8 @@ The relative sensitivity and specifi city of the polygraph depends on whether th
 
 Deception detection seems to be as much of a timely topic for the near future as it was back in the remote Ayur-Veda times. Space limitations made it impossible to discuss some emerging research topics that will presumably gain momentum in the near future.
 
-| Accuracy using different tests and measures expressed as the area under the ROC curve<br>(AUC) | | | | | | |
+| Accuracy using different tests and measures expressed as the area under the ROC curve
+(AUC) | | | | | | |
 |------------------------------------------------------------------------------------------------|----------------------------------|-----------|--|--|--|--|
 | Study type and measure | | AUC | | | | |
 | CQT – Laboratory Studies | | | | | | |

@@ -1,3 +1,8 @@
+---
+title: "0:00 Our world has undeniably been shaped by the process of colonisation, which swept through 0:05"
+category: "theory"
+---
+
 0:00 Our world has undeniably been shaped by the process of colonisation, which swept through 0:05
 
 and sought to dominate wholly the people and places of this planet for the benefit and
@@ -563,4 +568,4 @@ Outro
 All power to all the people.
 20:00
 Peace.
-## 
+##

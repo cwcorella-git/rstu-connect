@@ -1,3 +1,8 @@
+---
+title: "**Gadsden Purchase**"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_2.jpeg)
 
 # **Gadsden Purchase**
@@ -12,7 +17,7 @@ The financially strapped government of Santa Anna agreed to sell the territory f
 
 As the railroad age evolved, business-oriented Southerners saw that a railroad linking the South with the Pacific Coast would expand trade opportunities. They thought the topography of the southern portion of the original [Mexican Cession](https://en.wikipedia.org/wiki/Mexican_Cession) was too mountainous to allow a direct route. Projected southern railroad routes tended to veer to the north as
 
-### **Gadsden Purchase of 1854 Venta de La Mesilla Expansion of United States 1853–1854** The Gadsden Purchase and main cities **Area** • 1854 76,768 km<sup>2</sup> (29,640 sq mi) **Government** • Type [Federal republic](https://en.wikipedia.org/wiki/Federal_republic) **[President](https://en.wikipedia.org/wiki/President_(government_title))** • March 4, 1853 – March 4, 1857 [Franklin Pierce](https://en.wikipedia.org/wiki/Franklin_Pierce) **Historical era** Westward expansion and [Manifest](https://en.wikipedia.org/wiki/Manifest_Destiny) [Destiny](https://en.wikipedia.org/wiki/Manifest_Destiny) • [Mexican–](https://en.wikipedia.org/wiki/Mexican%E2%80%93American_War) [American War](https://en.wikipedia.org/wiki/Mexican%E2%80%93American_War) 1846–1848 • Treaty drafted[\[1\]](#page-12-0) 30 December 1853 • Treaty approved by U. S. Senate April 25, 1854 • Treaty in effect 30 June 1854 **Preceded by Succeeded by** [Second](https://en.wikipedia.org/wiki/Second_Federal_Republic_of_Mexico) [Federal](https://en.wikipedia.org/wiki/Second_Federal_Republic_of_Mexico) [Republic of](https://en.wikipedia.org/wiki/Second_Federal_Republic_of_Mexico) [Mexico](https://en.wikipedia.org/wiki/Second_Federal_Republic_of_Mexico) [Territory](https://en.wikipedia.org/wiki/Territory_of_New_Mexico) [of New](https://en.wikipedia.org/wiki/Territory_of_New_Mexico) [Mexico](https://en.wikipedia.org/wiki/Territory_of_New_Mexico) **Today part of** United States ▪ [Arizona](https://en.wikipedia.org/wiki/Arizona) ▪ [New Mexico](https://en.wikipedia.org/wiki/New_Mexico)
+### **Gadsden Purchase of 1854 Venta de La Mesilla Expansion of United States 1853–1854** The Gadsden Purchase and main cities **Area** • 1854 76,768 km2 (29,640 sq mi) **Government** • Type [Federal republic](https://en.wikipedia.org/wiki/Federal_republic) **[President](https://en.wikipedia.org/wiki/President_(government_title))** • March 4, 1853 – March 4, 1857 [Franklin Pierce](https://en.wikipedia.org/wiki/Franklin_Pierce) **Historical era** Westward expansion and [Manifest](https://en.wikipedia.org/wiki/Manifest_Destiny) [Destiny](https://en.wikipedia.org/wiki/Manifest_Destiny) • [Mexican–](https://en.wikipedia.org/wiki/Mexican%E2%80%93American_War) [American War](https://en.wikipedia.org/wiki/Mexican%E2%80%93American_War) 1846–1848 • Treaty drafted[\[1\]](#page-12-0) 30 December 1853 • Treaty approved by U. S. Senate April 25, 1854 • Treaty in effect 30 June 1854 **Preceded by Succeeded by** [Second](https://en.wikipedia.org/wiki/Second_Federal_Republic_of_Mexico) [Federal](https://en.wikipedia.org/wiki/Second_Federal_Republic_of_Mexico) [Republic of](https://en.wikipedia.org/wiki/Second_Federal_Republic_of_Mexico) [Mexico](https://en.wikipedia.org/wiki/Second_Federal_Republic_of_Mexico) [Territory](https://en.wikipedia.org/wiki/Territory_of_New_Mexico) [of New](https://en.wikipedia.org/wiki/Territory_of_New_Mexico) [Mexico](https://en.wikipedia.org/wiki/Territory_of_New_Mexico) **Today part of** United States ▪ [Arizona](https://en.wikipedia.org/wiki/Arizona) ▪ [New Mexico](https://en.wikipedia.org/wiki/New_Mexico)
 
 they proceeded eastward, which would favor connections with northern railroads and ultimately favor northern seaports. Southerners saw that to avoid the mountains, a route with a southeastern terminus might need to swing south into what was still Mexican territory.
 
@@ -217,13 +222,16 @@ The remainder of the Gila Valley pre-Purchase border area was traversed by the [
 
 The boundaries of most [counties in Arizona](https://en.wikipedia.org/wiki/List_of_counties_in_Arizona) do not follow the northern boundary of the Gadsden Purchase, but six counties in Arizona do have most of their populations within the land of the Gadsden Purchase. Four of these also contain areas north of the Gadsden Purchase, but these areas have low population densities, with the exception of northeastern [Pinal](https://en.wikipedia.org/wiki/Pinal_County,_Arizona) [County](https://en.wikipedia.org/wiki/Pinal_County,_Arizona) including the towns of [Apache Junction](https://en.wikipedia.org/wiki/Apache_Junction,_Arizona) and [Florence.](https://en.wikipedia.org/wiki/Florence,_Arizona) [Maricopa County](https://en.wikipedia.org/wiki/Maricopa_County,_Arizona) also extends south into the area of the Gadsden Purchase, but this area is also thinly populated. [Tucson](https://en.wikipedia.org/wiki/Tucson,_Arizona) is the largest city in the Gadsden Purchase.
 
-| County | Seat | Pop.[69] | Area<br>(mi2) | Area<br>(km2) |
+| County | Seat | Pop.[69] | Area
+(mi2) | Area
+(km2) |
 |---------------|----------|-----------|---------------|---------------|
 | Cochise | Bisbee | 131,346 | 6,219 | 16,110 |
 | Graham | Safford | 37,220 | 4,641 | 12,020 |
 | Pima | Tucson | 980,263 | 9,189 | 23,800 |
 | Pinal | Florence | 375,770 | 5,374 | 13,920 |
-| Santa<br>Cruz | Nogales | 47,420 | 1,238 | 3,210 |
+| Santa
+Cruz | Nogales | 47,420 | 1,238 | 3,210 |
 | Yuma | Yuma | 195,751 | 5,519 | 14,290 |
 ## | | Total | 1,767,770 | 32,180 | 83,350 |
 

@@ -1,13 +1,8 @@
 ---
-title: 1912 Lawrence Textile Strike Wikipedia
-date: 2025
-author: Bill Haywood
-tags:
-  - organizing
-  - strikes
-  - unions
-  - housing
-  - rent
+title: "1912 Lawrence Textile Strike Wikipedia"
+author: "Bill Haywood"
+date: "2025"
+category: "labor"
 ---
 
 # 1912 Lawrence Textile Strike Wikipedia

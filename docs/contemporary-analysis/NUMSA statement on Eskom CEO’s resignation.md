@@ -1,3 +1,8 @@
+---
+title: "## **NUMSA statement on Eskom CEO's resignation**"
+category: "contemporary-analysis"
+---
+
 ## **NUMSA statement on Eskom CEO's resignation**
 
 ## **Date:** Tue, 11/22/2016 - 18:33

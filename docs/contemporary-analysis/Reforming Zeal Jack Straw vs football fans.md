@@ -1,3 +1,8 @@
+---
+title: "## **Reforming Zeal: Jack Straw vs football fans**"
+category: "contemporary-analysis"
+---
+
 ## **Reforming Zeal: Jack Straw vs football fans**
 
 ## **Date:** Unknown

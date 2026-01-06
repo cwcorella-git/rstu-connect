@@ -1,3 +1,8 @@
+---
+title: "## **Class War #48 1991**"
+category: "anti-war-peace"
+---
+
 ## **Class War #48 1991**
 
 ## **Date:** Unknown

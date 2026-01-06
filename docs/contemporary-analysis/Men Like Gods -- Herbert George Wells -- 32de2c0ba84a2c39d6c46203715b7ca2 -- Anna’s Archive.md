@@ -1,3 +1,8 @@
+---
+title: "**MEN LIKE GODS**"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 # **MEN LIKE GODS**
@@ -243,9 +248,9 @@ The re in the little house did not seem to be making headway. The smoke that cam
 
 He was pointing to something that was hidden from Mr. Barnstaple by a piece of wall. Mr. Barnstaple had to get up and climb over a heap of rubble before he could see this second nd. It was a slender girl, clothed as little as the man. She had evidently been ung with enormous violence against the wall and killed instantaneously. Her face was quite undistorted although her skull had been crushed in from behind; her perfect mouth and green-grey eyes were a little open and her expression was that of one who is still thinking out some diicult but interesting problem. She did not seem in the least dead but merely disregardful. One
 
-<sup>&</sup>quot;Dead," he whispered.
+&quot;Dead," he whispered.
 
-<sup>&</sup>quot;Look!" cried the shrill voice of the man with the eye-glass. "Another!"
+&quot;Look!" cried the shrill voice of the man with the eye-glass. "Another!"
 
 hand still grasped a copper implement with a handle of glass. The other lay limp and prone.
 
@@ -425,15 +430,15 @@ The aviator's interest and amusement enhanced Mr. Barnstaple's perception of his
 
 Mr. Barnstaple stared in round-eyed amazement at Father Amerton, struck for the rst time by a still more incredible fact. "They don't talk in anything to one another," he said. "And we haven't noticed it until this moment!"
 
-<sup>&</sup>quot;Really real! What else can it be?"
+&quot;Really real! What else can it be?"
 
-<sup>&</sup>quot;I suppose we are not dreaming all this."
+&quot;I suppose we are not dreaming all this."
 
-<sup>&</sup>quot;Are your dreams and my dreams likely to coincide?"
+&quot;Are your dreams and my dreams likely to coincide?"
 
-<sup>&</sup>quot;Yes; but there are quite impossible things--absolutely impossible things."
+&quot;Yes; but there are quite impossible things--absolutely impossible things."
 
-## <sup>&</sup>quot;As, for instance?"
+## &quot;As, for instance?"
 
 # 4. The Shadow of Einstein Falls Across the Story but Passes Lightly By
 
@@ -851,7 +856,7 @@ But Father Amerton was not asking questions with any desire for answers; he was 
 
 "But he doesn't want to know," came a Utopian intervention.
 
-<sup>&</sup>quot;--if that shielded and guarded dual purity--"
+&quot;--if that shielded and guarded dual purity--"
 
 Mr. Burleigh raised a long white hand. "Father Amerton," he protested, "please."
 
@@ -1779,7 +1784,7 @@ Mr. Catskill concentrated upon Lord Barralonga and the two chaueurs. "I welcome 
 
 "Not at all," said Mr. Catskill. "Not at all. We gain it. We are to be isolated. We are to be put by ourselves in some island or mountain. Well and good. Well and good. This is only the beginning of our adventures. We shall see what we shall see."
 
-## <sup>&</sup>quot;But how?"
+## &quot;But how?"
 
 "Wait a little. Until we can speak more freely.... These are panic measures. This pestilence is only in its opening stage. Everything is just beginning. Trust me."
 
@@ -1813,9 +1818,9 @@ Cedar was as explicit and concise as Urthred had been. It was evident, he said, 
 
 Cedar smiled at Serpentine. "Physical research is taking up the work in which Arden and Greenlake were foremost, and it will not be long before we are able to repeat their experiment. And then to reverse it."
 
-## <sup>&</sup>quot;I think it will be."
+## &quot;I think it will be."
 
-## <sup>&</sup>quot;But if you fail?"
+## &quot;But if you fail?"
 
 - "With us as your raw material?"
 - "Not until we are fairly sure of a safe landing for you."

@@ -1,3 +1,8 @@
+---
+title: "## Ledare och ledda – ett naturfenomen?"
+category: "theory"
+---
+
 ## Ledare och ledda – ett naturfenomen?
 
 Om klass i arbetsliv och värdegrundsretorik

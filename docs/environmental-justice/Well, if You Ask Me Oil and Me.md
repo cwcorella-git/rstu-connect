@@ -1,19 +1,30 @@
+---
+title: "## **Well, if You Ask Me: Oil and Me**"
+category: "environmental-justice"
+---
+
 ## **Well, if You Ask Me: Oil and Me**
 
 ## **Date:** Thu, 01/14/2016 - 21:02
 
 | Source: https://ecology.iww.org/node/1466|
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Tags: Dano T Bob, If You Ask Me, oil workers, refineries, United Steelworkers of America (USW),<br>intersectionality, green unionism, Bay Area Air Quality Management District (BAAQMD), Communities<br>for a Better Environment (CBE), Oil Chemical and Atomic Workers (OCAW) |
+| Tags: Dano T Bob, If You Ask Me, oil workers, refineries, United Steelworkers of America (USW),
+intersectionality, green unionism, Bay Area Air Quality Management District (BAAQMD), Communities
+for a Better Environment (CBE), Oil Chemical and Atomic Workers (OCAW) |
 | By Dano T Bob - |
 | IWW Environmental Unionism Caucus |
 | , January 14, 2016 |
 | So, a large part of my life has revolved around oil refineries. |
-| I was born in Jeffersonville, Indiana, a suburb of Louisville , Kentucky in 1981. My father<br>worked for |
+| I was born in Jeffersonville, Indiana, a suburb of Louisville , Kentucky in 1981. My father
+worked for |
 | Ashland Oil |
 | (now |
 | Marathon Oil |
-| ) in their Louisville Refinery. This refinery was shut down in 1983, and my dad accepted a<br>transfer to Ashland Oil's main operation in Catlettsburg, Kentucky, where my family moved<br>when I was 2 years old. Many other workers from Louisville, and from another shuttered<br>refinery in Buffalo, New York were also relocated to the Ashland Oil refinery there. |
+| ) in their Louisville Refinery. This refinery was shut down in 1983, and my dad accepted a
+transfer to Ashland Oil's main operation in Catlettsburg, Kentucky, where my family moved
+when I was 2 years old. Many other workers from Louisville, and from another shuttered
+refinery in Buffalo, New York were also relocated to the Ashland Oil refinery there. |
 
 So, my entire childhood, youth, life, etc. were directly affected by the flux of the industrial economy, one that is now dying or dead in most of the U. S., offshored to other places for higher profits and lax regulation. And as my life was affected by this move, I learned many things from this refinery, which still touches me in various ways.
 

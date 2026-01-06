@@ -1,3 +1,8 @@
+---
+title: "## **1907: Iranian General Strike**"
+category: "feminist-theory"
+---
+
 ## **1907: Iranian General Strike**
 
 ## **Date:** Unknown

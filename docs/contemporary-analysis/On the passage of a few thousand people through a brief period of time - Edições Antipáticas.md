@@ -1,3 +1,8 @@
+---
+title: "**On the passage of a few thousand people through a brief period of time - Edições Antipáticas**"
+category: "contemporary-analysis"
+---
+
 # **On the passage of a few thousand people through a brief period of time - Edições Antipáticas**
 
 ## **Date:** Unknown
@@ -85,14 +90,23 @@ Our intention was to relate a brief narrative of the movement, without claiming 
 | [13] Public Security Police. |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [14] Songbook commemorating the Carnation Revolution. |
-| [15] Precários Inflexíveis began as an informal group of precarious workers and unemployed<br>people, mostly young, during the Mayday demonstrations in 2007 but came into formal<br>existence in 2012. |
-| [16] Petardos, firecrackers that explode with a very loud noise, are frequently used by soccer<br>ultras and organized fans at games. |
-| [17] Fontinha is a traditional working class district or bairro in Porto with a long and rich<br>tradition of struggle. |
-| [18] ES. COL. A is both a play on the Portuguese word escola or school, which happens to be<br>what the occupied space was before being abandoned by the city of Porto, and the acronym<br>for the recuperated space itself, Espaço Colectivo Autogestionado (collectively self-managed<br>space). |
+| [15] Precários Inflexíveis began as an informal group of precarious workers and unemployed
+people, mostly young, during the Mayday demonstrations in 2007 but came into formal
+existence in 2012. |
+| [16] Petardos, firecrackers that explode with a very loud noise, are frequently used by soccer
+ultras and organized fans at games. |
+| [17] Fontinha is a traditional working class district or bairro in Porto with a long and rich
+tradition of struggle. |
+| [18] ES. COL. A is both a play on the Portuguese word escola or school, which happens to be
+what the occupied space was before being abandoned by the city of Porto, and the acronym
+for the recuperated space itself, Espaço Colectivo Autogestionado (collectively self-managed
+space). |
 | [19] The word most commonly used in Porto to refer a 'chav'(mitra is more used in Lisbon). |
 | [20] "Troika go to hell!" |
-| [21] The Taxa Social Única, a single social security contribution tax deducted from workers'<br>wages and from business profits. |
-| [22] Sociedade Independente de Comunicação, a private television network and media<br>company. |
+| [21] The Taxa Social Única, a single social security contribution tax deducted from workers'
+wages and from business profits. |
+| [22] Sociedade Independente de Comunicação, a private television network and media
+company. |
 ## | |
 
 [23] The comparison drawn here is between Lisbon's equivalent to Carnival (the evening of 12 June) and the usual atmosphere in the square of São Domingos, that serves as a hangout spot following demonstrations and where ginginha (a popular traditional liqueur) is sold. [24] Popular nightclub/bar in Lisbon. [25] Traditional taverns/pubs, often serving very simple, traditional Portuguese snacks, meals and drinks like ginjinha, and sometimes featuring fado performers. [26] Popular bar district in Lisbon. [27] Belém Palace, the official presidential residency. [28] An immense square in downtown Lisbon near the Tagus River. [29] Carris is Lisbon's public bus company. Musgueira is a neighborhood in northeast Lisbon, near the airport, where a major bus depot is located. [30] Comboios de Portugal, the publicly-owned rail system. [31] A major circle adjacent to a railway station and ferry interchange service. [32] Caixa Geral de Depósitos, Portugal's largest banking institution, owned by the State. [33] Radio Televisão Portuguesa, the Portuguese public broadcaster. A conflict emerged within it after the Workers Council denounced the delivery to the police of unedited footage, decided by the board of directors and leading to the resignation of the network News editor. [34] Song by José Afonso played on the early morning of April 25, 1974 to signal the commencement of the military coup. It's lyrics have a marked left-wing inclination and it was

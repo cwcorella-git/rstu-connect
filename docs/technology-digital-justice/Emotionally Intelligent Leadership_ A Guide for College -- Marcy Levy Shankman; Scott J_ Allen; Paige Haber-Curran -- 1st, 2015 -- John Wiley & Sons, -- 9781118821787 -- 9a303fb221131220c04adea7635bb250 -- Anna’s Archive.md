@@ -1,3 +1,8 @@
+---
+title: "emotionally intelligent leadership"
+category: "technology-digital-justice"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 # emotionally intelligent leadership
@@ -60,44 +65,88 @@ ISBN 978-1-118-82178-7 (paper); ISBN 978-1-118-93231-5 (ebk.); ISBN 978-1-118-93
 
 ### CONTENTS
 
-| Susan | Foreword:<br>It's<br>All<br>about<br>Relationships<br>R.<br>Komives | vii |
+| Susan | Foreword:
+It's
+All
+about
+Relationships
+R.
+Komives | vii |
 |-------|---------------------------------------------------------------------|------|
 | | Acknowledgments | xi |
-| About | the<br>Authors | xiii |
+| About | the
+Authors | xiii |
 | 1 | Introduction | 1 |
-| Part | One:<br>Consciousness<br>of<br>Self | 19 |
-| 2 | Consciousness<br>of<br>Self | 21 |
-| 3 | Emotional<br>Self-Perception | 31 |
-| 4 | Emotional<br>Self-Control | 41 |
+| Part | One:
+Consciousness
+of
+Self | 19 |
+| 2 | Consciousness
+of
+Self | 21 |
+| 3 | Emotional
+Self-Perception | 31 |
+| 4 | Emotional
+Self-Control | 41 |
 | 5 | Authenticity | 51 |
-| 6 | Healthy<br>Self-Esteem | 61 |
+| 6 | Healthy
+Self-Esteem | 61 |
 | 7 | Flexibility | 71 |
 | 8 | Optimism | 79 |
 | 9 | Initiative | 91 |
 | 10 | Achievement | 101 |
-| Part | Two:<br>Consciousness<br>of<br>Others | 109 |
-## | 11 | Consciousness<br>of<br>Others | 111 |
+| Part | Two:
+Consciousness
+of
+Others | 109 |
+## | 11 | Consciousness
+of
+Others | 111 |
 
 | vi | Contents |
 |----|----------|
 ## | | |
 
-| 12 | Displaying<br>Empathy | 119 |
+| 12 | Displaying
+Empathy | 119 |
 |-------|--------------------------------------------------------|-----|
-| 13 | Inspiring<br>Others | 129 |
-| 14 | Coaching<br>Others | 139 |
-| 15 | Capitalizing<br>on<br>Difference | 149 |
-| 16 | Developing<br>Relationships | 159 |
-| 17 | Building<br>Teams | 169 |
-| 18 | Demonstrating<br>Citizenship | 179 |
-| 19 | Conict<br>Managing | 187 |
-| 20 | Facilitating<br>Change | 197 |
-| Part | Three:<br>Consciousness<br>of<br>Context | 207 |
-| 21 | Consciousness<br>of<br>Context | 209 |
-| 22 | Analyzing<br>the<br>Group | 217 |
-| 23 | Assessing<br>the<br>Environment | 227 |
-| 24 | Developing<br>Emotionally<br>Intelligent<br>Leadership | 237 |
-| | Appendix:<br>EIL<br>Overview | 243 |
+| 13 | Inspiring
+Others | 129 |
+| 14 | Coaching
+Others | 139 |
+| 15 | Capitalizing
+on
+Difference | 149 |
+| 16 | Developing
+Relationships | 159 |
+| 17 | Building
+Teams | 169 |
+| 18 | Demonstrating
+Citizenship | 179 |
+| 19 | Conict
+Managing | 187 |
+| 20 | Facilitating
+Change | 197 |
+| Part | Three:
+Consciousness
+of
+Context | 207 |
+| 21 | Consciousness
+of
+Context | 209 |
+| 22 | Analyzing
+the
+Group | 217 |
+| 23 | Assessing
+the
+Environment | 227 |
+| 24 | Developing
+Emotionally
+Intelligent
+Leadership | 237 |
+| | Appendix:
+EIL
+Overview | 243 |
 ## | Index | | 247 |
 
 ### FOREWORD: IT'S ALL ABOUT RELATIONSHIPS
@@ -671,7 +720,7 @@ A leader can bring down a team or staff if they do not have their emotions in ch
 
 As a PhD student in biomedical science, I am constantly dealing with failed experiments and hypotheses. To help manage my emotions, I try to remember that adversity is part of the training; graduate degrees don't come without bruises.
 
-<sup>—</sup>Cody Rutledge, University of Illinois at Chicago graduate student, involved in the student-run free clinic and as a tutor
+—Cody Rutledge, University of Illinois at Chicago graduate student, involved in the student-run free clinic and as a tutor
 
 ### References
 
@@ -880,7 +929,7 @@ Condence is a double-edged sword; on one side you want to be condent in what you
 
 When I need a boost in my self-esteem I try to calm myself down and focus on one achievement of which I'm most proud; that, or simply relive happy memories.
 
-<sup>—</sup>Rachel Elson, high school junior from Shaker Heights, Ohio, involved in rugby, soccer, and the student group on race relations
+—Rachel Elson, high school junior from Shaker Heights, Ohio, involved in rugby, soccer, and the student group on race relations
 
 ### References
 
@@ -1786,11 +1835,15 @@ The realm of social identities is made up of mostly innate aspects of who we are
 
 The next realm in the wheel of difference is other identities. These elements vary over time based on life circumstances, social and societal inuences, and choices we make or that others may make for us. For example, as adults we choose our geographic location, but as children, our family status is chosen by others. Elements that make up this realm include:
 
-| marital<br>status | geographic<br>location |
+| marital
+status | geographic
+location |
 |------------------------|------------------------|
 | religion | nationality |
-| income | family<br>status |
-| physical<br>appearance | upbringing |
+| income | family
+status |
+| physical
+appearance | upbringing |
 
 ## ![](_page_172_Picture_2.jpeg)
 
@@ -1862,7 +1915,7 @@ Differences allow things to move on from status quo. They are what drive the soc
 
 ### Chapter 16 Developing Relationships
 
-Building <sup>a</sup> network of trusting relationships. Developing relationships means creating meaningful connections. Emotionally intelligent leaders encourage opportunities for relationships to grow and develop.
+Building a network of trusting relationships. Developing relationships means creating meaningful connections. Emotionally intelligent leaders encourage opportunities for relationships to grow and develop.
 
 ### It's about Relationships
 
@@ -1956,7 +2009,7 @@ Networking leads to relationships with people who have different backgrounds and
 
 ### Chapter 17 Building Teams
 
-Working with others to accomplish <sup>a</sup> shared purpose. Building teams is about effectively communicating, creating a shared purpose, and clarifying roles to get results. Emotionally intelligent leaders foster group cohesion and develop a sense of "we."
+Working with others to accomplish a shared purpose. Building teams is about effectively communicating, creating a shared purpose, and clarifying roles to get results. Emotionally intelligent leaders foster group cohesion and develop a sense of "we."
 
 ### Teamwork Makes the Dream Work
 
@@ -2002,13 +2055,68 @@ In addition to Tuckman's stages, Patrick Lencioni (2002), author of The Five Dys
 
 ## ![](_page_192_Picture_2.jpeg)
 
-| Five<br>Dysfunctions<br>of<br>a<br>Team | Five<br>Commitments<br>for<br>an<br>Effective<br>Team |
+| Five
+Dysfunctions
+of
+a
+Team | Five
+Commitments
+for
+an
+Effective
+Team |
 |-----------------------------------------|-----------------------------------------------------------------------------------------|
-| 1.<br>Absence<br>of<br>trust | 1.<br>Opening<br>up<br>and<br>building<br>trust<br>within<br>the<br>team |
-| conict<br>2.<br>Fear<br>of | 2.<br>Engaging<br>in<br>respectful<br>conict<br>discourse<br>and |
-| 3.<br>Lack<br>of<br>commitment | 3.<br>Committing<br>to<br>the<br>team's<br>purpose |
-| 4.<br>Avoidance<br>of<br>accountability | 4.<br>Holding<br>oneself<br>and<br>others<br>accountable<br>for<br>their<br>performance |
-| 5.<br>Inattention<br>to<br>results | 5.<br>Focusing<br>on<br>collective<br>results |
+| 1.
+Absence
+of
+trust | 1.
+Opening
+up
+and
+building
+trust
+within
+the
+team |
+| conict
+2.
+Fear
+of | 2.
+Engaging
+in
+respectful
+conict
+discourse
+and |
+| 3.
+Lack
+of
+commitment | 3.
+Committing
+to
+the
+team's
+purpose |
+| 4.
+Avoidance
+of
+accountability | 4.
+Holding
+oneself
+and
+others
+accountable
+for
+their
+performance |
+| 5.
+Inattention
+to
+results | 5.
+Focusing
+on
+collective
+results |
 
 Source: Adapted from Lencioni, P. (2002). The ve dysfunctions of a team: A leadership fable. San Francisco, CA: Jossey-Bass.
 
@@ -2141,7 +2249,7 @@ When the entire group is contributing, it provides a cohesive environment for pr
 
 An active member goes beyond the minimum attendance of meetings and functions to truly improve the group. She asks, "What mark will I make on this group? How can my membership be benecial?"
 
-<sup>—</sup>Madeline Mariana Schulz, Texas A&M University sophomore, involved in the traditions council and as a counselor for an extended orientation program
+—Madeline Mariana Schulz, Texas A&M University sophomore, involved in the traditions council and as a counselor for an extended orientation program
 
 Active citizenship involves contributing ideas and helping out where needed, but it does not mean you follow the leader blindly. Instead, you challenge the leader when you think he or she is wrong because you are both invested in achieving the same goal, and you will do anything you can to achieve that goal.
 
@@ -2788,50 +2896,382 @@ Demonstrating emotionally intelligent leadership involves awareness of the setti
 
 ### INDEX
 
-| Apathy,<br>93<br>self-perception,<br>32–33;<br>Appelbaum,<br>Kathryn,<br>104<br>conict<br>of<br>others<br>in | A<br>Accommodation,<br>190<br>Achievement:<br>caution<br>regarding,<br>104–105;<br>denition<br>and<br>nature<br>of,<br>ow<br>101;<br>in,<br>101–102;<br>love<br>of<br>work<br>in,<br>104–105;<br>practicing,<br>reection<br>102–104;<br>questions<br>on,<br>107–108;<br>students<br>on,<br>105–106<br>Actions,<br>25;<br>authenticity<br>aligning<br>values,<br>words,<br>and,<br>52–53;<br>empathy<br>through,<br>123;<br>initiative<br>and<br>avoiding,<br>92–94;<br>inspiration<br>of<br>others<br>and,<br>132;<br>optimism<br>in,<br>80–82<br>Adams,<br>Taylor<br>Anne,<br>47<br>Adaptability.<br>See<br>Flexibility<br>or<br>adaptability<br>Adkisson,<br>Jo Anna,<br>98<br>Agents,<br>of<br>change,<br>200<br>Albanir,<br>Kelly,<br>47<br>Allen,<br>S.<br>J.,<br>8,<br>16<br>Anthony,<br>Susan<br>B.,<br>91<br>Anticipatory<br>stressors,<br>43<br>Antonakis,<br>J.,<br>211 | Arce<br>Jimenez,<br>Guadalupe,<br>46<br>Aristotle,<br>179<br>Art,<br>leadership<br>as,<br>5<br>Ashkanasy,<br>N.<br>M.,<br>34<br>Assumptions,<br>122<br>Athletic<br>team,<br>for<br>citizenship,<br>180<br>Attitude,<br>choice<br>of,<br>85<br>Attunement,<br>34<br>Authenticity:<br>actions,<br>values,<br>and<br>words<br>aligned<br>in,<br>52–53;<br>courage<br>and<br>dedication<br>in,<br>52–53;<br>denition<br>and<br>nature<br>of,<br>51–52;<br>"gut<br>feelings"<br>in,<br>53;<br>in<br>leadership,<br>55;<br>through<br>"living<br>out<br>loud,"<br>52;<br>as<br>ongoing<br>reection<br>process,<br>53;<br>questions<br>on,<br>58–59;<br>in<br>relationships,<br>161–162;<br>students<br>on,<br>55–56;<br>trustworthiness<br>and,<br>51,<br>53–55;<br>values<br>known<br>in,<br>51–52<br>Avoiding,<br>190<br>Avolio,<br>B.<br>J.,<br>25,<br>55,<br>81,<br>130 |
+| Apathy,
+93
+self-perception,
+32–33;
+Appelbaum,
+Kathryn,
+104
+conict
+of
+others
+in | A
+Accommodation,
+190
+Achievement:
+caution
+regarding,
+104–105;
+denition
+and
+nature
+of,
+ow
+101;
+in,
+101–102;
+love
+of
+work
+in,
+104–105;
+practicing,
+reection
+102–104;
+questions
+on,
+107–108;
+students
+on,
+105–106
+Actions,
+25;
+authenticity
+aligning
+values,
+words,
+and,
+52–53;
+empathy
+through,
+123;
+initiative
+and
+avoiding,
+92–94;
+inspiration
+of
+others
+and,
+132;
+optimism
+in,
+80–82
+Adams,
+Taylor
+Anne,
+47
+Adaptability.
+See
+Flexibility
+or
+adaptability
+Adkisson,
+Jo Anna,
+98
+Agents,
+of
+change,
+200
+Albanir,
+Kelly,
+47
+Allen,
+S.
+J.,
+8,
+16
+Anthony,
+Susan
+B.,
+91
+Anticipatory
+stressors,
+43
+Antonakis,
+J.,
+211 | Arce
+Jimenez,
+Guadalupe,
+46
+Aristotle,
+179
+Art,
+leadership
+as,
+5
+Ashkanasy,
+N.
+M.,
+34
+Assumptions,
+122
+Athletic
+team,
+for
+citizenship,
+180
+Attitude,
+choice
+of,
+85
+Attunement,
+34
+Authenticity:
+actions,
+values,
+and
+words
+aligned
+in,
+52–53;
+courage
+and
+dedication
+in,
+52–53;
+denition
+and
+nature
+of,
+51–52;
+"gut
+feelings"
+in,
+53;
+in
+leadership,
+55;
+through
+"living
+out
+loud,"
+52;
+as
+ongoing
+reection
+process,
+53;
+questions
+on,
+58–59;
+in
+relationships,
+161–162;
+students
+on,
+55–56;
+trustworthiness
+and,
+51,
+53–55;
+values
+known
+in,
+51–52
+Avoiding,
+190
+Avolio,
+B.
+J.,
+25,
+55,
+81,
+130 |
 |---------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-## | | | Awareness:<br>of<br>emotional |
+## | | | Awareness:
+of
+emotional |
 
 ## 248 Index
 
-| Awareness:<br>of<br>emotional | Betts,<br>John,<br>10 |
+| Awareness:
+of
+emotional | Betts,
+John,
+10 |
 |-------------------------------------------|---------------------------------------|
-| self-perception, | Bilodeau,<br>Erica,<br>97 |
-| (continued) | Bingen,<br>Alicia<br>Ann,<br>200 |
-| management,<br>191;<br>of | Blanchard,<br>Ken,<br>112 |
-| stress<br>navigation | BOOST<br>model<br>of<br>feedback, |
-| stressors,<br>43–44.<br>See<br>also | 143,<br>144 |
-| Self<br>and<br>self-awareness | Brenek,<br>Christine,<br>9 |
-| | Brenton,<br>A.<br>L.,<br>219 |
-| B<br>Baker,<br>Miranda,<br>47,<br>105 | Brown,<br>Brené,<br>54 |
-| | Brown,<br>Britney<br>Anne,<br>199 |
-| Balance,<br>healthy:<br>in<br>EIL,<br>13, | Bruckner,<br>Marek,<br>121 |
-| 15;<br>emotional<br>"bank | Buehler,<br>Hannah,<br>105 |
-| account"<br>in,<br>62;<br>from | Bugg,<br>Alex<br>W.,<br>97 |
-| group<br>membership,<br>62; | Bunch,<br>Eden<br>B.,<br>106,<br>143 |
-| in<br>healthy<br>self-esteem, | Burba,<br>Tiffany,<br>150,<br>164 |
-| self-efcacy<br>62–64;<br>in, | |
+| self-perception, | Bilodeau,
+Erica,
+97 |
+| (continued) | Bingen,
+Alicia
+Ann,
+200 |
+| management,
+191;
+of | Blanchard,
+Ken,
+112 |
+| stress
+navigation | BOOST
+model
+of
+feedback, |
+| stressors,
+43–44.
+See
+also | 143,
+144 |
+| Self
+and
+self-awareness | Brenek,
+Christine,
+9 |
+| | Brenton,
+A.
+L.,
+219 |
+| B
+Baker,
+Miranda,
+47,
+105 | Brown,
+Brené,
+54 |
+| | Brown,
+Britney
+Anne,
+199 |
+| Balance,
+healthy:
+in
+EIL,
+13, | Bruckner,
+Marek,
+121 |
+| 15;
+emotional
+"bank | Buehler,
+Hannah,
+105 |
+| account"
+in,
+62;
+from | Bugg,
+Alex
+W.,
+97 |
+| group
+membership,
+62; | Bunch,
+Eden
+B.,
+106,
+143 |
+| in
+healthy
+self-esteem, | Burba,
+Tiffany,
+150,
+164 |
+| self-efcacy
+62–64;
+in, | |
 | 63–64 | C |
-| Bandura,<br>A.,<br>63 | Cain,<br>Susan,<br>159 |
-| Barker,<br>Joel,<br>91 | Castillo<br>Sanchez,<br>Jason,<br>36, |
-| Bass,<br>Bernard,<br>85,<br>123,<br>131 | 223 |
-| Behaviors:<br>achievement,<br>101; | Castle,<br>Anna-Lisa,<br>145 |
-| coaching,<br>141; | Cavallaro,<br>Cleyton,<br>101 |
-| empathetic,<br>120;<br>fear<br>of | Chang,<br>Alice,<br>41 |
-| failure<br>and<br>unhealthy, | Change:<br>agents'<br>role,<br>200; |
-| 92;<br>feedback<br>for,<br>74;<br>for | choice<br>in,<br>202; |
-| harmony<br>maintenance, | consciousness<br>of<br>context |
-| 94;<br>limitations<br>of<br>own, | denition<br>and,<br>210–211; |
-| 122;<br>popularity<br>driving, | and<br>nature<br>of<br>facilitating, |
-| 93;<br>in<br>social<br>perspective, | 197–198;<br>as<br>demanding, |
-| 120 | 198–200;<br>different |
-| "Being<br>or<br>getting<br>on<br>the | "faces"<br>of,<br>197–198; |
-| balcony":<br>in | elements<br>necessary<br>for, |
-| environment<br>assessment, | 198–200;<br>empathy<br>and, |
-| 230;<br>in<br>group<br>analysis, | 199–200;<br>examples<br>of, |
-| 220–221 | exibility<br>199–200;<br>and |
-| Belgard,<br>Sena,<br>43 | inevitability<br>of,<br>71–72; |
-| Bennis,<br>Warren,<br>80 | exibility<br>and<br>openness |
+| Bandura,
+A.,
+63 | Cain,
+Susan,
+159 |
+| Barker,
+Joel,
+91 | Castillo
+Sanchez,
+Jason,
+36, |
+| Bass,
+Bernard,
+85,
+123,
+131 | 223 |
+| Behaviors:
+achievement,
+101; | Castle,
+Anna-Lisa,
+145 |
+| coaching,
+141; | Cavallaro,
+Cleyton,
+101 |
+| empathetic,
+120;
+fear
+of | Chang,
+Alice,
+41 |
+| failure
+and
+unhealthy, | Change:
+agents'
+role,
+200; |
+| 92;
+feedback
+for,
+74;
+for | choice
+in,
+202; |
+| harmony
+maintenance, | consciousness
+of
+context |
+| 94;
+limitations
+of
+own, | denition
+and,
+210–211; |
+| 122;
+popularity
+driving, | and
+nature
+of
+facilitating, |
+| 93;
+in
+social
+perspective, | 197–198;
+as
+demanding, |
+| 120 | 198–200;
+different |
+| "Being
+or
+getting
+on
+the | "faces"
+of,
+197–198; |
+| balcony":
+in | elements
+necessary
+for, |
+| environment
+assessment, | 198–200;
+empathy
+and, |
+| 230;
+in
+group
+analysis, | 199–200;
+examples
+of, |
+| 220–221 | exibility
+199–200;
+and |
+| Belgard,
+Sena,
+43 | inevitability
+of,
+71–72; |
+| Bennis,
+Warren,
+80 | exibility
+and
+openness |
 ## | | |
 
 ## ![](_page_268_Picture_2.jpeg)
@@ -2848,42 +3288,187 @@ depending on, 16. See also Consciousness of context "Core," difference and, 151 
 
 ## 252 Index
 
-| Embracing<br>Uncertainty:<br>The | importance<br>of,<br>31–33; |
+| Embracing
+Uncertainty:
+The | importance
+of,
+31–33; |
 |-----------------------------------------|----------------------------------------|
-| Essence<br>of<br>Leadership | practicing,<br>35;<br>questions |
-| (Clampitt<br>and<br>De Koch), | regarding,<br>38–39; |
-| 231 | reection<br>in,<br>33,<br>38–39; |
-| Emotional:<br>tone,<br>80,<br>81; | students<br>on,<br>36–37 |
-| triggers,<br>44–45 | Emotionally<br>intelligent |
-| Emotional<br>"bank<br>account":<br>in | leadership<br>(EIL),<br>5; |
-| healthy<br>balance,<br>62; | balance<br>in,<br>13,<br>15; |
-| resilience<br>and,<br>66 | capacities<br>of,<br>13–15, |
-| Emotional<br>insight: | 25–26,<br>31;<br>challenge |
-| development<br>of,<br>35;<br>in | and<br>support<br>sought<br>in, |
+| Essence
+of
+Leadership | practicing,
+35;
+questions |
+| (Clampitt
+and
+De Koch), | regarding,
+38–39; |
+| 231 | reection
+in,
+33,
+38–39; |
+| Emotional:
+tone,
+80,
+81; | students
+on,
+36–37 |
+| triggers,
+44–45 | Emotionally
+intelligent |
+| Emotional
+"bank
+account":
+in | leadership
+(EIL),
+5; |
+| healthy
+balance,
+62; | balance
+in,
+13,
+15; |
+| resilience
+and,
+66 | capacities
+of,
+13–15, |
+| Emotional
+insight: | 25–26,
+31;
+challenge |
+| development
+of,
+35;
+in | and
+support
+sought
+in, |
 | emotional | 238–239; |
-| self-perception,<br>35; | communication<br>in, |
-| others'<br>emotions<br>and,<br>35; | 238–239;<br>consciousness |
-| social<br>media<br>sites<br>and,<br>35 | of<br>others<br>in,<br>111–114; |
-| Emotional<br>intelligence<br>(EI),<br>9 | consciousness<br>of<br>self<br>in, |
-| Emotional<br>self-control: | 21–22,<br>25–26;<br>edge |
-| denition<br>and<br>nature<br>of, | capacities<br>for,<br>239;<br>as<br>EI |
-| 41–42;<br>emotions<br>in, | and<br>leadership<br>synthesis, |
-| 45–46;<br>"hot<br>button" | 9;<br>environment<br>in |
-| management<br>in,<br>44–45; | developing,<br>239; |
-| reection<br>questions<br>on, | examples,<br>11;<br>facets<br>of, |
-| 49–50;<br>response | 10–15;<br>integration<br>in, |
-| regulation<br>in,<br>45–46; | 8–9;<br>model<br>of,<br>8–9;<br>as |
-| self-regulation<br>in, | ongoing,<br>240;<br>personal |
-| 41–42;<br>stress<br>navigation | experience<br>in,<br>9; |
-| in,<br>42–44;<br>students<br>on, | practicing,<br>237,<br>239; |
-| 46–47 | resources<br>for,<br>16,<br>240; |
-| Emotional<br>self-perception: | self,<br>others,<br>and<br>context |
-| attunement<br>in,<br>34; | in,<br>9–10,<br>14;<br>"signal |
-| awareness<br>of,<br>32–33; | strength"<br>as<br>metaphor<br>of, |
-| denition<br>and<br>nature<br>of, | 11–12;<br>summary<br>of, |
-| 31,<br>34;<br>demonstrating, | See<br>also<br>240–241. |
-| 31;<br>as<br>EIL<br>capacity,<br>31; | Consciousness<br>of |
-| emotional<br>insight<br>in,<br>35; | context;<br>Consciousness |
+| self-perception,
+35; | communication
+in, |
+| others'
+emotions
+and,
+35; | 238–239;
+consciousness |
+| social
+media
+sites
+and,
+35 | of
+others
+in,
+111–114; |
+| Emotional
+intelligence
+(EI),
+9 | consciousness
+of
+self
+in, |
+| Emotional
+self-control: | 21–22,
+25–26;
+edge |
+| denition
+and
+nature
+of, | capacities
+for,
+239;
+as
+EI |
+| 41–42;
+emotions
+in, | and
+leadership
+synthesis, |
+| 45–46;
+"hot
+button" | 9;
+environment
+in |
+| management
+in,
+44–45; | developing,
+239; |
+| reection
+questions
+on, | examples,
+11;
+facets
+of, |
+| 49–50;
+response | 10–15;
+integration
+in, |
+| regulation
+in,
+45–46; | 8–9;
+model
+of,
+8–9;
+as |
+| self-regulation
+in, | ongoing,
+240;
+personal |
+| 41–42;
+stress
+navigation | experience
+in,
+9; |
+| in,
+42–44;
+students
+on, | practicing,
+237,
+239; |
+| 46–47 | resources
+for,
+16,
+240; |
+| Emotional
+self-perception: | self,
+others,
+and
+context |
+| attunement
+in,
+34; | in,
+9–10,
+14;
+"signal |
+| awareness
+of,
+32–33; | strength"
+as
+metaphor
+of, |
+| denition
+and
+nature
+of, | 11–12;
+summary
+of, |
+| 31,
+34;
+demonstrating, | See
+also
+240–241. |
+| 31;
+as
+EIL
+capacity,
+31; | Consciousness
+of |
+| emotional
+insight
+in,
+35; | context;
+Consciousness |
 
 ## of others; Consciousness example of, 32;
 
@@ -2893,41 +3478,195 @@ of self; Self and self-awareness Emotionally Intelligent Leadership for Students
 
 ## 254 Index
 
-| Feedback<br>(continued)<br>friends,<br>and<br>mentors,<br>16–17;<br>consciousness<br>of | Foster,<br>Natalie,<br>164<br>Foxman,<br>Sophie,<br>115,<br>189<br>Frago,<br>Justin,<br>164 |
+| Feedback
+(continued)
+friends,
+and
+mentors,
+16–17;
+consciousness
+of | Foster,
+Natalie,
+164
+Foxman,
+Sophie,
+115,
+189
+Frago,
+Justin,
+164 |
 |-----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
-| self<br>and<br>seeking,<br>23–24; | Friends.<br>See<br>Colleagues, |
-| ltering,<br>exibility<br>24; | friends,<br>and<br>mentors |
-| and<br>importance<br>of, | |
-| 74–75;<br>love<br>through,<br>23; | G |
-| self-awareness<br>developed | Gallup<br>Organization,<br>153–154 |
-| through,<br>23,<br>237–238; | Gandhi,<br>Mahatma,<br>91,<br>210 |
-| sources<br>of,<br>23–24 | Gardner,<br>W.<br>L.,<br>55 |
-| Fisher,<br>T.<br>J.,<br>65,<br>184 | Genuineness,<br>54 |
-| Fitzgerald,<br>Kaitlyn,<br>36 | George,<br>Bill,<br>53 |
-| The<br>Five<br>Dysfunctions<br>of<br>a | Geritano,<br>Mariah,<br>134 |
-| Team<br>(Lencioni),<br>54, | Ginley,<br>Joseph,<br>219 |
-| 172–174 | "Giving<br>in,"<br>65–67 |
-| Flexibility<br>or<br>adaptability: | "Giving<br>up,"<br>65–67 |
-| change<br>as<br>inevitable<br>and, | Gladwell,<br>Malcolm,<br>161 |
-| denition<br>71–72;<br>and | Glory<br>Road,<br>149–150 |
-| nature<br>of,<br>71;<br>feedback | Goals<br>and<br>goal<br>setting:<br>in |
-| in,<br>74–75;<br>growth | coaching<br>others,<br>143; |
-| through,<br>71–72;<br>limits | conicting,<br>188 |
-| to,<br>73–74;<br>openness<br>to | Goleman,<br>Daniel,<br>72 |
-| change<br>in,<br>72–73;<br>in | Golla,<br>Kevin,<br>133 |
-| perspective,<br>72–73, | Gorbachev,<br>Mikhail,<br>91 |
-| reection<br>74–75; | Grant,<br>Naomi,<br>92 |
-| questions<br>on,<br>77–78; | Grashow,<br>A.,<br>220–221 |
-| students<br>on,<br>75–76 | Greek<br>organization,<br>for |
-| Flow:<br>in<br>achievement, | citizenship,<br>180 |
-| denition<br>101–102;<br>and | Green<br>Bay<br>Packers,<br>170 |
-| nature<br>of,<br>102 | Group<br>analysis:<br>active |
-| Focus,<br>initiative<br>and,<br>96 | leadership<br>and,<br>221; |
-| Folkman,<br>J.,<br>133 | activity<br>for,<br>221;<br>"being |
-| Ford,<br>Henry,<br>171 | on<br>balcony"<br>in, |
-| Ford<br>Motor<br>Company,<br>171 | 220–221;<br>challenges<br>of, |
-| Forming,<br>in<br>team<br>building, | denition<br>222;<br>and |
-| 171 | nature<br>of,<br>217;<br>elements |
+| self
+and
+seeking,
+23–24; | Friends.
+See
+Colleagues, |
+| ltering,
+exibility
+24; | friends,
+and
+mentors |
+| and
+importance
+of, | |
+| 74–75;
+love
+through,
+23; | G |
+| self-awareness
+developed | Gallup
+Organization,
+153–154 |
+| through,
+23,
+237–238; | Gandhi,
+Mahatma,
+91,
+210 |
+| sources
+of,
+23–24 | Gardner,
+W.
+L.,
+55 |
+| Fisher,
+T.
+J.,
+65,
+184 | Genuineness,
+54 |
+| Fitzgerald,
+Kaitlyn,
+36 | George,
+Bill,
+53 |
+| The
+Five
+Dysfunctions
+of
+a | Geritano,
+Mariah,
+134 |
+| Team
+(Lencioni),
+54, | Ginley,
+Joseph,
+219 |
+| 172–174 | "Giving
+in,"
+65–67 |
+| Flexibility
+or
+adaptability: | "Giving
+up,"
+65–67 |
+| change
+as
+inevitable
+and, | Gladwell,
+Malcolm,
+161 |
+| denition
+71–72;
+and | Glory
+Road,
+149–150 |
+| nature
+of,
+71;
+feedback | Goals
+and
+goal
+setting:
+in |
+| in,
+74–75;
+growth | coaching
+others,
+143; |
+| through,
+71–72;
+limits | conicting,
+188 |
+| to,
+73–74;
+openness
+to | Goleman,
+Daniel,
+72 |
+| change
+in,
+72–73;
+in | Golla,
+Kevin,
+133 |
+| perspective,
+72–73, | Gorbachev,
+Mikhail,
+91 |
+| reection
+74–75; | Grant,
+Naomi,
+92 |
+| questions
+on,
+77–78; | Grashow,
+A.,
+220–221 |
+| students
+on,
+75–76 | Greek
+organization,
+for |
+| Flow:
+in
+achievement, | citizenship,
+180 |
+| denition
+101–102;
+and | Green
+Bay
+Packers,
+170 |
+| nature
+of,
+102 | Group
+analysis:
+active |
+| Focus,
+initiative
+and,
+96 | leadership
+and,
+221; |
+| Folkman,
+J.,
+133 | activity
+for,
+221;
+"being |
+| Ford,
+Henry,
+171 | on
+balcony"
+in, |
+| Ford
+Motor
+Company,
+171 | 220–221;
+challenges
+of, |
+| Forming,
+in
+team
+building, | denition
+222;
+and |
+| 171 | nature
+of,
+217;
+elements |
 
 ## ![](_page_274_Picture_2.jpeg)
 
@@ -2939,43 +3678,171 @@ in, 219–220; group culture in, 219; group reading in, 217–218; layers unders
 
 ## 256 Index
 
-| Inspiration,<br>of<br>others | J |
+| Inspiration,
+of
+others | J |
 |-------------------------------------|---------------------------------------------|
-| (continued) | Jackson,<br>Phil,<br>174 |
-| for,<br>130–131;<br>ideas<br>in, | Jaworski,<br>Joe,<br>25 |
-| 132;<br>intentionality<br>in, | Jefferson,<br>Thomas,<br>73 |
-| 133–134;<br>mission | Jobs,<br>Steve,<br>95,<br>210 |
-| statement<br>in,<br>129–130; | Johnson,<br>Kimberly,<br>115 |
-| motivations<br>differing | K |
-| and,<br>131;<br>practicing, | Kelley,<br>Robert,<br>181–182 |
-| reection<br>132–133; | Kendle,<br>Jade<br>Sydney<br>Alexis, |
-| questions<br>on,<br>136–137; | 82 |
-| relationships<br>in,<br>132; | King,<br>Martin<br>Luther,<br>Jr.,<br>91 |
-| students<br>on,<br>134–135 | Knowles,<br>Beyoncé,<br>102 |
-| Integration,<br>8–9 | Komives,<br>Susan<br>R.,<br>111,<br>198 |
-| Intentionality:<br>in | Kotter,<br>John,<br>198 |
-| environment<br>scanning, | Kouzes,<br>James,<br>91,<br>132, |
-| 231;<br>inspiration<br>of<br>others | 198 |
-| and,<br>133–134; | Kreitman,<br>Jenna,<br>231 |
-| self-awareness<br>developed | Kriebel,<br>Carolyn,<br>232 |
-| through,<br>237–238 | |
-| reection,<br>Interaction,<br>in | L |
-| 25 | Lackey,<br>Brian,<br>187 |
-| Internet<br>networking,<br>163 | Lakeram,<br>Leanna,<br>24 |
-| Internship,<br>for<br>citizenship, | Lawson,<br>Cole,<br>232 |
-| 180 | Leader:<br>initiative<br>of,<br>91; |
-| Interpersonal<br>leadership,<br>7, | leadership<br>as<br>more<br>than, |
-| 111–112;<br>consciousness | 6–7;<br>positive<br>change |
-| of<br>others<br>and,<br>113–114; | through,<br>7;<br>requirements |
-| examples<br>of,<br>114 | to<br>be<br>great,<br>5;<br>tour<br>guide |
-| Interpretation:<br>of<br>"big | or<br>orientation,<br>181 |
-| picture,"<br>227; | Leadership:<br>as<br>art<br>and<br>science, |
-| environment<br>assessment | 5;<br>authentic,<br>55; |
-| and<br>importance<br>of, | availability<br>of,<br>6;<br>change |
-| 227–228 | and,<br>7,<br>198;<br>charisma |
-| Intrapersonal<br>leadership, | and,<br>7;<br>citizenship |
-| 21–22 | demonstrating,<br>181–182; |
-| Introverts,<br>power<br>of,<br>159 | conict<br>management<br>in, |
+| (continued) | Jackson,
+Phil,
+174 |
+| for,
+130–131;
+ideas
+in, | Jaworski,
+Joe,
+25 |
+| 132;
+intentionality
+in, | Jefferson,
+Thomas,
+73 |
+| 133–134;
+mission | Jobs,
+Steve,
+95,
+210 |
+| statement
+in,
+129–130; | Johnson,
+Kimberly,
+115 |
+| motivations
+differing | K |
+| and,
+131;
+practicing, | Kelley,
+Robert,
+181–182 |
+| reection
+132–133; | Kendle,
+Jade
+Sydney
+Alexis, |
+| questions
+on,
+136–137; | 82 |
+| relationships
+in,
+132; | King,
+Martin
+Luther,
+Jr.,
+91 |
+| students
+on,
+134–135 | Knowles,
+Beyoncé,
+102 |
+| Integration,
+8–9 | Komives,
+Susan
+R.,
+111,
+198 |
+| Intentionality:
+in | Kotter,
+John,
+198 |
+| environment
+scanning, | Kouzes,
+James,
+91,
+132, |
+| 231;
+inspiration
+of
+others | 198 |
+| and,
+133–134; | Kreitman,
+Jenna,
+231 |
+| self-awareness
+developed | Kriebel,
+Carolyn,
+232 |
+| through,
+237–238 | |
+| reection,
+Interaction,
+in | L |
+| 25 | Lackey,
+Brian,
+187 |
+| Internet
+networking,
+163 | Lakeram,
+Leanna,
+24 |
+| Internship,
+for
+citizenship, | Lawson,
+Cole,
+232 |
+| 180 | Leader:
+initiative
+of,
+91; |
+| Interpersonal
+leadership,
+7, | leadership
+as
+more
+than, |
+| 111–112;
+consciousness | 6–7;
+positive
+change |
+| of
+others
+and,
+113–114; | through,
+7;
+requirements |
+| examples
+of,
+114 | to
+be
+great,
+5;
+tour
+guide |
+| Interpretation:
+of
+"big | or
+orientation,
+181 |
+| picture,"
+227; | Leadership:
+as
+art
+and
+science, |
+| environment
+assessment | 5;
+authentic,
+55; |
+| and
+importance
+of, | availability
+of,
+6;
+change |
+| 227–228 | and,
+7,
+198;
+charisma |
+| Intrapersonal
+leadership, | and,
+7;
+citizenship |
+| 21–22 | demonstrating,
+181–182; |
+| Introverts,
+power
+of,
+159 | conict
+management
+in, |
 
 ## ![](_page_276_Picture_2.jpeg)
 

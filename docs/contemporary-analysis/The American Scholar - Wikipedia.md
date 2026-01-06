@@ -1,3 +1,8 @@
+---
+title: "## [en.wikipedia.org](https://en.wikipedia.org/wiki/The_American_Scholar)"
+category: "contemporary-analysis"
+---
+
 ## [en.wikipedia.org](https://en.wikipedia.org/wiki/The_American_Scholar)
 
 ## **The American Scholar**

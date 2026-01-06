@@ -1,41 +1,17 @@
 ---
-title: On the Moral Grounds of Economic Relations
-author: David Graeber
-date: October 2010
-pubdate: '2021-11-28T18:26:45'
-language: en
-source_url: >-
-  Retrieved on 28<sup>th</sup> November 2021 from
-  [[http://www.openanthcoop.net/press/http:/openanthcoop.net/press/wp-content/uploads/2010/11/Graeber-On-the-Moral-Grounds-of-Economic-Relations4.pdf][www.openanthcoop.net]]
-notes: >-
-  This paper was published in French in <em>Revue du MAUSS Semestrielle</em> No
-  36 (October 2010), ‘Mauss vivant — The Living Mauss’, 51–70. An online version
-  of this issue containing 42 articles (a number of them in English) originally
-  produced for a 2009 conference at Cerisy-la-Salle, may be purchased for 29
-  euros.
-topics:
-  - morality
-  - economics
-  - communism
-  - hierarchy
-  - anthropology
-original_format: muse
-converted_date: '2025-11-08T11:25:03.163995'
-tags:
-  - Morality
-  - Economics
-  - Communism
-  - Hierarchy
-  - Anthropology
+title: "On the Moral Grounds of Economic Relations"
+author: "David Graeber"
+date: "October 2010"
+category: "economic-alternatives"
 ---
 
 For all the vast literature on “the gift,” the concept is surprisingly under-theorized. This is because everyone assumes that there is something called “the gift”, that all transactions not involving payment or the promise of payment are the same thing. Whether seen as a matter of generosity, lack of calculation, creating social relations or a refusal to distinguish between generosity and self-interest, the possibility that “gifts” operate according to different transactional logics is often overlooked.
 
 In challenging the assumption of the gift’s conceptual unity, I follow Marcel Mauss whose great contribution to social theory was to recognize not only the diversity of “economic transactions” across human societies, but also that all important economic and moral possibilities are present in *any* human society. Even if we like to contrast “gift economies” with “market economies,” as if each represents a total conceptual universe, Mauss did not see things this way. True, he did write, for instance, at the end of his “essay on the gift”:
 
-<quote>
+
 The word “interest” can be traced back to the Latin *interest* written on account books opposite rents to be recovered…The victory of rationalism and mercantilism was required before the notions of profit and the individual were given currency and raised to the level of principles… It is only our Western societies that quite recently turned man into an economic animal (1990 [1924]: 73–74)
-</quote>
+
 
 When making such statements, Mauss was referring to how, in a given social order, people seize on certain practices and use them to generalize about human nature. Our conception of man as an “economic animal” is made possible by certain specific technologies (money, ledger sheets, mathematical calculations of interest) which we then generalize to reveal the hidden truth behind everything—but the existence of such technologies proves nothing. Neither is Mauss really saying that such calculation is anything new.
 
@@ -103,7 +79,7 @@ There are endless variations on this tit-for-tat gift exchange. The most familia
 
 Recall the feasts and festivals above: here too there is shared conviviality and an element of (sometimes playful) competition. Everyone’s pleasure is enhanced—who would want to eat a superb meal in a French restaurant all by themselves? Yet things can easily slip into games of one-upmanship —and hence obsession, rage, humiliation– or worse. In some societies, these games are formalized, but they only develop between people or groups who perceive themselves to be equal in status. To return to our imaginary economist, if Bill Gates or George Soros took him out to dinner, he would likely conclude he had, indeed, received something for nothing, and leave it at that. If a junior colleague or eager graduate student tried to impress him by offering to take him out somewhere, he’d think he was doing them a favor just by accepting the invitation.
 
-In exchange, then, the objects being exchanged are to some extent equivalent. By implication, so are the people, at least when gift is met with counter-gift or money changes hands and there is no further debt or obligation—each party is free to walk away. This implies autonomy and it sits uncomfortably with monarchs, who generally dislike any sort of exchange. But within that prospect of potential cancellation, of ultimate equivalence, we find endless variations of games we can play. One can demand something from another person, knowing full well that they have the right to demand something equivalent back. Sometimes, praising another’s possessions might be interpreted as a demand of this sort. In 18<sup>th</sup> century New Zealand, English settlers soon learned that it was not a good idea to admire a beautiful jade pendant worn around the neck of a Maori warrior; the latter would insist on their taking it, not taking no for an answer, then, after a discrete interval, return to praise the settler’s coat or gun. The only way to head this off would be to give him a gift before he could ask for one.
+In exchange, then, the objects being exchanged are to some extent equivalent. By implication, so are the people, at least when gift is met with counter-gift or money changes hands and there is no further debt or obligation—each party is free to walk away. This implies autonomy and it sits uncomfortably with monarchs, who generally dislike any sort of exchange. But within that prospect of potential cancellation, of ultimate equivalence, we find endless variations of games we can play. One can demand something from another person, knowing full well that they have the right to demand something equivalent back. Sometimes, praising another’s possessions might be interpreted as a demand of this sort. In 18th century New Zealand, English settlers soon learned that it was not a good idea to admire a beautiful jade pendant worn around the neck of a Maori warrior; the latter would insist on their taking it, not taking no for an answer, then, after a discrete interval, return to praise the settler’s coat or gun. The only way to head this off would be to give him a gift before he could ask for one.
 
 Sometimes gifts are offered to enable making such a demand: to accept the present is to tacitly agree to allow the giver to claim whatever he deems equivalent.
 
@@ -148,7 +124,7 @@ The very complexity in gifts—which so often form the nexus where different mor
 
 ### Bibliography
 
-<biblio>
+
 Bataille, Georges
 
  - 1991–1993 *The Accursed Share Volumes I-III*. New York: Zone Books. Bohannan, Laura
@@ -208,4 +184,3 @@ Miller, William
 Richards, Audrey
 
  - 1939 *Land, Labour and Diet in Northern Rhodesia*. London: Oxford University Press.
-</biblio>

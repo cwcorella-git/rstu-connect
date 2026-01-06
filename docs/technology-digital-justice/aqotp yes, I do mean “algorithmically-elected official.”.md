@@ -1,3 +1,8 @@
+---
+title: "## **aqotp: yes, I do mean "algorithmically-elected official."**"
+category: "technology-digital-justice"
+---
+
 ## **aqotp: yes, I do mean "algorithmically-elected official."**
 
 | Date: 2025-07-12 |
@@ -10,7 +15,8 @@
 | 2631.3 |
 | 1× |
 | Someone on Tik Tok asked me in a comment: |
-| How do you decide what to write about, especially in the United States when something<br>happens every day? |
+| How do you decide what to write about, especially in the United States when something
+happens every day? |
 | And my answer is: |
 | I write about what keeps me up at night. I try to sleep. I really do. I try to live a peaceful life. I |
 
@@ -45,12 +51,18 @@ These are the events that made me realize how necessary a book tour is: one that
 | of people, rather than endlessly longing for that day. |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Cory Booker's Mangy Self |
-| Let's play "Spot the Senator Hiding in the AIPAC photo!" These Senators participated in a<br>photo-op with Benjamin Netanyahu, current Prime Minister of the Israel Regime and wanted<br>by the International Criminal Court for war crimes that are, at the moment, not even including<br>opioid-laced flour for starved Palestinians. |
+| Let's play "Spot the Senator Hiding in the AIPAC photo!" These Senators participated in a
+photo-op with Benjamin Netanyahu, current Prime Minister of the Israel Regime and wanted
+by the International Criminal Court for war crimes that are, at the moment, not even including
+opioid-laced flour for starved Palestinians. |
 | Mangy |
 | . And I mean that. |
-| Senator Cory Booker reposted a video of mine— as in, him or someone on his team<br>downloaded it, re-uploaded it to |
+| Senator Cory Booker reposted a video of mine— as in, him or someone on his team
+downloaded it, re-uploaded it to |
 | his |
-| personal short form video accounts, and happily tagged my name in the description. As I said<br>in the last quasi-essay, I was originally not going to say anything. But then, people that are<br>familiar with my work kept tagging me: |
+| personal short form video accounts, and happily tagged my name in the description. As I said
+in the last quasi-essay, I was originally not going to say anything. But then, people that are
+familiar with my work kept tagging me: |
 | did you give him your permission to post this? |
 | ??? Oh girl |
 | no |
@@ -62,7 +74,10 @@ I did not realize that people might wonder this… but then, we're still new to 
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Now: There seemed to be |
 | genuine |
-| confusion as to why I would critique Cory Booker for reposting my video analyzing the most<br>recent regime change in United States history. I was unaware this would not be obvious, but<br>then, didn't I just state that what's obscure to me is obvious to you all? The inverse must then<br>be true. I'll state what I see here clearly: |
+| confusion as to why I would critique Cory Booker for reposting my video analyzing the most
+recent regime change in United States history. I was unaware this would not be obvious, but
+then, didn't I just state that what's obscure to me is obvious to you all? The inverse must then
+be true. I'll state what I see here clearly: |
 | Individuals that hold public office do not use social media like you do. |
 | Of |
 | course |
@@ -72,13 +87,18 @@ I did not realize that people might wonder this… but then, we're still new to 
 
 to repost my videos; that's the nature of the social internet. If you are a a particularly big account, then yes, I do think it's polite to ask permission to repost someone before you expose their face and voice to an audience that might be predisposed to disagree with them. I've watched livelihoods get stripped from artists and laborers because someone else took
 
-| their online work and re-posted it without their permission to do so. Being in the habit of<br>asking, for me, re-affirms the mindset that the internet and anyone participating does not just |
+| their online work and re-posted it without their permission to do so. Being in the habit of
+asking, for me, re-affirms the mindset that the internet and anyone participating does not just |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | belong |
 | to me and my conveniences. I will never move like that, even if other people do. |
-| The layperson uses social media to communicate and elaborate on various ideas. Public<br>figures of any sort (especially those that act in overtly political fashions) use these<br>communication apparatuses to advance an image of themselves that they find advantageous<br>to their overall goals. |
+| The layperson uses social media to communicate and elaborate on various ideas. Public
+figures of any sort (especially those that act in overtly political fashions) use these
+communication apparatuses to advance an image of themselves that they find advantageous
+to their overall goals. |
 | Cory Booker is a United States Senator. |
-| In the age of social media, we (the public allegedly in charge of our representatives) allow<br>said representatives to posture a progressivism that they do not |
+| In the age of social media, we (the public allegedly in charge of our representatives) allow
+said representatives to posture a progressivism that they do not |
 | act |
 | upon. We have |
 | presidents |
@@ -94,11 +114,14 @@ to repost my videos; that's the nature of the social internet. If you are a a pa
 | on Twitter |
 | mean |
 | ? |
-| We allow this to happen because spectacle comforts the vast majority of us. These<br>sentiments (which boil down to: I do |
+| We allow this to happen because spectacle comforts the vast majority of us. These
+sentiments (which boil down to: I do |
 | think |
 | this should happen, but what can you |
 | do |
-| really?) allow us to believe that the people we have placed in charge aren't really all that<br>powerful at all, that everyone is at the mercy of the big bad right wing, and that even speaking<br>out on social media is an act of bravery… |
+| really?) allow us to believe that the people we have placed in charge aren't really all that
+powerful at all, that everyone is at the mercy of the big bad right wing, and that even speaking
+out on social media is an act of bravery… |
 | for elected representatives of the people. |
 
 The people we specifically concentrate power in. This is how you manufacture opposition. When you look closely at what the goals the people in power are, and evaluate by their actions, not their words, more insidious realities become clear: the goal is to hold on to power while mitigating personal, financial, career and political risk. If you have a voter base that leans progressive, you will need to make sure they believe you are on their side. If you have a system of authority that gleans its power from the open exploitation of the global working class, including your constituents, and you want to reap the rewards of that power structure, you must never be a threat to their machines of war and extraction. If you want a life rich in comforts and the illusions of safety, you acknowledge these contradictions and decide the easiest, most secure route forward is spectacle. How do you make people believe that you are more progressive than you ever intend to act
@@ -138,9 +161,12 @@ Senators like Cory Booker, who wish to keep their seat more than they wish to fu
 | Cowardice |
 | is |
 | nothing. |
-| And moreover, posts > policies's effectiveness as a strategy lies in its ability to hold onto the<br>lucrative nature of "serving" in the US Senate. You should look at this behavior and<br>understand when a man is playing in your fuckin face. He is an opp, as in an opportunist |
+| And moreover, posts > policies's effectiveness as a strategy lies in its ability to hold onto the
+lucrative nature of "serving" in the US Senate. You should look at this behavior and
+understand when a man is playing in your fuckin face. He is an opp, as in an opportunist |
 | and |
-| in direct opposition to the world I wish to see, where the genocidal project of the US nation<br>state has dissolved. I would like people like Cory Booker to be made irrelevant. Anyways. |
+| in direct opposition to the world I wish to see, where the genocidal project of the US nation
+state has dissolved. I would like people like Cory Booker to be made irrelevant. Anyways. |
 ## | The Limitations of Tik Tok (et. al) |
 
 That video, the one where I essentially tell Cory Booker he a Grade-A political coward, circulated well on Tik Tok even though my videos on the whole have declined in views. I hypothesize this decline happened because Tik Tok circulates "takes" and "discussions" designed to make the participants and the witnesses angry— or, at least, to cheer at the perceived ideological destruction of someone else. It's a digital version of the Roman collesiums— we really
@@ -151,7 +177,10 @@ That video, the one where I essentially tell Cory Booker he a Grade-A political 
 | kind |
 | to one another! |
 | lmao |
-| No fr. In truth: I would not speak like this again. I got excited once more about dunking on<br>someone I have no respect for politically or personally in public. And while I would have said<br>this (and far more pointed critiques!) to his face in real life, I forgot that the reason I wanted to<br>clear this up was not for him. He is irrelevant. It was for |
+| No fr. In truth: I would not speak like this again. I got excited once more about dunking on
+someone I have no respect for politically or personally in public. And while I would have said
+this (and far more pointed critiques!) to his face in real life, I forgot that the reason I wanted to
+clear this up was not for him. He is irrelevant. It was for |
 | you, |
 | to answer the inquiry: |
 | did you give him your permission to post this? |
@@ -175,13 +204,20 @@ actually want done. The more I invest in my material circumstances, the physical
 
 | physical |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| life and simultaneously manage to get shit done; coalition building in physical life necessitates<br>orientations of kindness ( |
+| life and simultaneously manage to get shit done; coalition building in physical life necessitates
+orientations of kindness ( |
 | especially |
 | in critique). |
 | What I should have said was: |
-| I'm going to point out something that feels obvious to me that may not be obvious to you: all<br>public figures (myself included) use social media as a means of narrative shaping rather<br>overtly. It furthers our goals to have people think certain things about us, because the opinion<br>of our selected public matters to the materializing of our goals. Your primary question, when<br>looking at anyone who exists in any significant public should be: what are their stated goals?<br>Do their actions support that they say? |
+| I'm going to point out something that feels obvious to me that may not be obvious to you: all
+public figures (myself included) use social media as a means of narrative shaping rather
+overtly. It furthers our goals to have people think certain things about us, because the opinion
+of our selected public matters to the materializing of our goals. Your primary question, when
+looking at anyone who exists in any significant public should be: what are their stated goals?
+Do their actions support that they say? |
 | What I would add to that now: |
-| The reason I got nice-nasty at Cory Booker for reposting my videos— as in downloading it<br>and re-uploading to his accounts— is because he, alongside many other politicians, employ a |
+| The reason I got nice-nasty at Cory Booker for reposting my videos— as in downloading it
+and re-uploading to his accounts— is because he, alongside many other politicians, employ a |
 | post > policies practice. |
 | It is advantageous for them to have you |
 | believe |

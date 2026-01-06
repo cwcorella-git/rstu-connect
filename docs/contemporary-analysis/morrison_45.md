@@ -1,3 +1,8 @@
+---
+title: "## **Home of the Heart: the Modern Origins of** *Furusato*"
+category: "contemporary-analysis"
+---
+
 ## **Home of the Heart: the Modern Origins of** *Furusato*
 
 MORRISON, Lindsay R.

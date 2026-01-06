@@ -1,3 +1,8 @@
+---
+title: "**Punch Up \* Kick Down Distro Hope in the Collapse 2025**"
+category: "contemporary-analysis"
+---
+
 # **Punch Up \* Kick Down Distro Hope in the Collapse 2025**
 
 Never Ending End Times Capitalism and Collapse Dialectic of Hope and Grief Letting Go Liberation Through Relation Conclusion Addendum: Faith
@@ -337,4 +342,6 @@ With a foundation of hope, uncertainty is charged with potential, rather than fe
 - [\[39\]](#page-18-2) Joanna Macy -Active Hope
 - [\[40\]](#page-21-2) Slavoj Zizek – Lecture
 
-[<punchupkickdowndistro.bandcamp.com/album/hope-in-the-collapse>](https://punchupkickdowndistro.bandcamp.com/album/hope-in-the-collapse)
+[
+
+](https://punchupkickdowndistro.bandcamp.com/album/hope-in-the-collapse)

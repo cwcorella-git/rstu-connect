@@ -1,3 +1,8 @@
+---
+title: "## **Let's find alternatives to striking**"
+category: "indigenous-solidarity"
+---
+
 ## **Let's find alternatives to striking**
 
 ## **Date:** Unknown

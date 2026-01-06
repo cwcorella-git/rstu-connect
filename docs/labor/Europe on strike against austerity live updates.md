@@ -1,3 +1,8 @@
+---
+title: "## **Europe on strike against austerity: live updates**"
+category: "labor"
+---
+
 ## **Europe on strike against austerity: live updates**
 
 ## **Date:** Unknown
@@ -89,12 +94,19 @@ Protests6pmthis evening:Edinburgh, Royal Mile: https://www.facebook.com/events/1
 | In reply to Welcomebylibcom.org |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Greece |
-| A group of thousands of striking workers has just held thier protest in Athens. Striking<br>workers, students and the unemployed gathered during the afternoon work stoppage. The<br>protesters marched through central Athens to reach Syntagma Sq carrying the flags of Spain,<br>Portugal, France and Ireland. The Parilament building on Syntagma Sq was surrounded by it's<br>customary police guard and fences but no clashes occurred. |
+| A group of thousands of striking workers has just held thier protest in Athens. Striking
+workers, students and the unemployed gathered during the afternoon work stoppage. The
+protesters marched through central Athens to reach Syntagma Sq carrying the flags of Spain,
+Portugal, France and Ireland. The Parilament building on Syntagma Sq was surrounded by it's
+customary police guard and fences but no clashes occurred. |
 | Ed |
 | 12 years 11 months ago |
 | In reply to Welcomebylibcom.org |
 | Damn, that Milan shit looks alright! |
-| I got down after the demos had finished. Talking to people, it seems that the CGIL-organised<br>one had about 3,000 people on it; the students' one about 5,000. There was another<br>demonstration in the north of the city, organised mostly by workers from San Raffaele Hospital,<br>but I haven't been able to find any more info on that. |
+| I got down after the demos had finished. Talking to people, it seems that the CGIL-organised
+one had about 3,000 people on it; the students' one about 5,000. There was another
+demonstration in the north of the city, organised mostly by workers from San Raffaele Hospital,
+but I haven't been able to find any more info on that. |
 | Will have a little look around now! |
 | A Wotsit |
 | 12 years 11 months ago |
@@ -181,14 +193,18 @@ Just back from CNT march in Granada. We stayed separate from other marches, didn
 | Ed |
 | 12 years 11 months ago |
 | In reply to Welcomebylibcom.org |
-| The third demonstration that took place in Milan today, of workers from San Raffaele<br>Hospital check out USI-AIT front and centre of the video! :) |
-| Will try and find out how that demo went as its part of a live dispute, so arguably the most<br>important of the day |
+| The third demonstration that took place in Milan today, of workers from San Raffaele
+Hospital check out USI-AIT front and centre of the video! :) |
+| Will try and find out how that demo went as its part of a live dispute, so arguably the most
+important of the day |
 | Ed |
 | 12 years 11 months ago |
 | In reply to Welcomebylibcom.org |
-| Just to say, there are some amazing videos on the Occupied Times updates. Here's some<br>picks: |
+| Just to say, there are some amazing videos on the Occupied Times updates. Here's some
+picks: |
 | Barcelona[youtube]v Eux08N5hPI[/youtube][youtube]vboxz GyBr Qc[/youtube] |
-| Vigo In a town of about 300,000 it's estimated that between 125,000 (by police) and 150,000<br>(by unions) turned out for the demo.[youtube]TOZCD3p5PWw[/youtube] |
+| Vigo In a town of about 300,000 it's estimated that between 125,000 (by police) and 150,000
+(by unions) turned out for the demo.[youtube]TOZCD3p5PWw[/youtube] |
 
 | Lisbon[youtube]75QsP-UNgJU[/youtube] |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -203,7 +219,8 @@ Just back from CNT march in Granada. We stayed separate from other marches, didn
 | In reply to Welcomebylibcom.org |
 | Solfed's write-upon Spain |
 | Solfed |
-| As workers are on general strike in Italy, Greece, Portugal and Spain today, we will have<br>updates throughout the day. Here are ongoing strike reports from Spain. |
+| As workers are on general strike in Italy, Greece, Portugal and Spain today, we will have
+updates throughout the day. Here are ongoing strike reports from Spain. |
 
 [update 14:00] Barcelona: a large roving picket, composed of pensioners, is blocking roads!
 
@@ -377,7 +394,8 @@ Translation of CNT web coverage: CNT, Cobertura informativa: Huelga General
 | 12 years 11 months ago |
 | In reply to Welcomebylibcom.org |
 | Sheffield - Civil Service Rank & File Network picket - more photos from the picketshere. |
-| 14N really deserves its own photo gallery but for now Demotixhas photos from across Europe<br>including London,Paris,Paduaetc. |
+| 14N really deserves its own photo gallery but for now Demotixhas photos from across Europe
+including London,Paris,Paduaetc. |
 ## | Mark. |
 
 | 12 years 11 months ago |
@@ -389,5 +407,6 @@ Translation of CNT web coverage: CNT, Cobertura informativa: Huelga General
 | In reply to Welcomebylibcom.org |
 | A video worth watching from the Portugal thread |
 | Malaquias |
-| New video on the last general strike and the radicalization of anti-austerity struggles in<br>Portugal: |
+| New video on the last general strike and the radicalization of anti-austerity struggles in
+Portugal: |
 | http://vimeo.com/54299520|

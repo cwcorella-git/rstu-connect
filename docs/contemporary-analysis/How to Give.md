@@ -1,3 +1,8 @@
+---
+title: "## **How to Give:**"
+category: "contemporary-analysis"
+---
+
 ## **How to Give:**
 
 ## An Ancient Guide to Giving and Receiving (Ancient Wisdom for Modern Readers)

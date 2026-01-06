@@ -1,12 +1,8 @@
 ---
-title: 'Labor in the Age of Climate Change: A Just Transition To a Green Economy'
-date: 2025
-author: Industrial Workers of the World
-tags:
-  - organizing
-  - unions
-  - rent
-  - labor
+title: "Labor in the Age of Climate Change: A Just Transition To a Green Economy"
+author: "Industrial Workers of the World"
+date: "2025"
+category: "labor"
 ---
 
 # Labor in the Age of Climate Change Any Just Transition To a Green Economy Must T

@@ -1,3 +1,8 @@
+---
+title: "**Scipio Africanus**"
+category: "international-solidarity"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Scipio_Africanus)
 
 # **Scipio Africanus**
@@ -12,28 +17,45 @@
 
 Bust likely of Scipio Africanus (formerly identified as [Sulla\)](https://en.wikipedia.org/wiki/Sulla), originally found near [his family tomb](https://en.wikipedia.org/wiki/Tomb_of_the_Scipios)[\[1\]](#page-29-0)
 
-| Born | 236 or 235<br>BC<br>Rome, Roman Republic |
+| Born | 236 or 235
+BC
+Rome, Roman Republic |
 |-------------|------------------------------------------|
-| Died | c.183<br>BC<br>Liternum, Roman Republic |
+| Died | c.183
+BC
+Liternum, Roman Republic |
 ## | Nationality | Roman |
 
-| Known<br>for | Defeating Hannibal | | | |
+| Known
+for | Defeating Hannibal | | | |
 |------------------|-------------------------------------------------------------------------------------------------------------------|--|--|--|
-| Office | • Proconsul (Spain, 216–210<br>BC) | | | |
-| | • Consul (205<br>BC) | | | |
-| | • Proconsul (Africa, 204–201<br>BC) | | | |
-| | • Censor (199<br>BC) | | | |
-| | • Consul (194<br>BC) | | | |
-| | • Legate (Asia, 190<br>BC) | | | |
+| Office | • Proconsul (Spain, 216–210
+BC) | | | |
+| | • Consul (205
+BC) | | | |
+| | • Proconsul (Africa, 204–201
+BC) | | | |
+| | • Censor (199
+BC) | | | |
+| | • Consul (194
+BC) | | | |
+| | • Legate (Asia, 190
+BC) | | | |
 | Spouse | Aemilia Tertia | | | |
 | Children | 4, including Cornelia | | | |
 | Father | Publius Scipio | | | |
-| Relatives | Scipio Asiaticus (brother)<br>Scipio Aemilianus (adoptive grandson)<br>Tiberius and Gaius Gracchus<br>(grandsons) | | | |
+| Relatives | Scipio Asiaticus (brother)
+Scipio Aemilianus (adoptive grandson)
+Tiberius and Gaius Gracchus
+(grandsons) | | | |
 | Military service | | | | |
 | Allegiance | Rome | | | |
 | Branch/service | Roman army | | | |
-| Battles/wars | • Second Punic War<br>• Battle of Ticinus<br>• Battle of Victumulae | | | |
-| | • Battle of Cannae<br>• Battle of New Carthage | | | |
+| Battles/wars | • Second Punic War
+• Battle of Ticinus
+• Battle of Victumulae | | | |
+| | • Battle of Cannae
+• Battle of New Carthage | | | |
 
 - [Battle of Baecula](https://en.wikipedia.org/wiki/Battle_of_Baecula)
 - [Battle of Ilipa](https://en.wikipedia.org/wiki/Battle_of_Ilipa)
@@ -443,6 +465,40 @@ The following table is derived from Broughton 1952, p. 555 unless otherwise indi
 
 | Political offices | | | | |
 |-----------------------------------------------------------------|--------------------------------------------------------------|----------------------------------------------------------------------------|--|--|
-| Preceded<br>by<br>L. Veturius Philo<br>Q. Caecilius<br>Metellus | Roman consul<br>205 BC<br>With: P. Licinius<br>Crassus Dives | Succeeded<br>by<br>M. Cornelius<br>Cethegus<br>P. Sempronius<br>Tuditanus | | |
-| Preceded<br>by<br>L. Valerius<br>Flaccus<br>Cato the Censor | Roman consul II<br>194 BC<br>With: Ti. Sempronius<br>Longus | Succeeded<br>by<br>L. Cornelius Merula<br>Q. Minucius<br>Thermus | | |
-| Preceded<br>by<br>G. Claudius Nero<br>M. Livius<br>Salinator | Roman censor<br>199 BC<br>With: P. Aelius Paetus | Succeeded<br>by<br>G. Cornelius<br>Cethegus<br>Sex. Aelius Paetus<br>Catus | | |
+| Preceded
+by
+L. Veturius Philo
+Q. Caecilius
+Metellus | Roman consul
+205 BC
+With: P. Licinius
+Crassus Dives | Succeeded
+by
+M. Cornelius
+Cethegus
+P. Sempronius
+Tuditanus | | |
+| Preceded
+by
+L. Valerius
+Flaccus
+Cato the Censor | Roman consul II
+194 BC
+With: Ti. Sempronius
+Longus | Succeeded
+by
+L. Cornelius Merula
+Q. Minucius
+Thermus | | |
+| Preceded
+by
+G. Claudius Nero
+M. Livius
+Salinator | Roman censor
+199 BC
+With: P. Aelius Paetus | Succeeded
+by
+G. Cornelius
+Cethegus
+Sex. Aelius Paetus
+Catus | | |

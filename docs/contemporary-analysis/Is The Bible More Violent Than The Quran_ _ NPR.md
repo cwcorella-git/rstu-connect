@@ -1,3 +1,8 @@
+---
+title: "**Is The Bible More Violent Than The Quran?**"
+category: "contemporary-analysis"
+---
+
 [npr.org](https://www.npr.org/2010/03/18/124494788/is-the-bible-more-violent-than-the-quran)
 
 # **Is The Bible More Violent Than The Quran?**

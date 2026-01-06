@@ -1,3 +1,8 @@
+---
+title: "**Michel Foucault Discipline and Punish The Birth of the Prison**"
+category: "contemporary-analysis"
+---
+
 # **Michel Foucault Discipline and Punish The Birth of the Prison**
 
 # **May 1995**
@@ -1634,7 +1639,7 @@ Roman army, is to be found in Benedictine monasteries, as the unit of work and n
 
 [\[66\]](#page-163-1) 'Every man', said Fox, 'is illuminated by the divine light and I have seen it shine through every man.' It was in the spirit of the Quakers and of Walnut Street that the prisons of Pennsylvania, Pittsburgh and Cherry Hill were organized from 1820.
 
-[\[67\]](#page-164-0) Abbé Petigny, Allocution adressée aux prisonniers, <sup>à</sup> l'occasion de l'inauguration des bâtiments cellulaires de la prison de Versailles. Cf., a few years later, in The Count of Monte Cristo, a very clearly Christological version of resurrection after incarceration; in this case prison teaches not docility to the law, but the power, acquired through a secret knowledge, to dispense justice beyond the injustice of the magistrates.
+[\[67\]](#page-164-0) Abbé Petigny, Allocution adressée aux prisonniers, à l'occasion de l'inauguration des bâtiments cellulaires de la prison de Versailles. Cf., a few years later, in The Count of Monte Cristo, a very clearly Christological version of resurrection after incarceration; in this case prison teaches not docility to the law, but the power, acquired through a secret knowledge, to dispense justice beyond the injustice of the magistrates.
 
 [\[68\]](#page-164-1) G. A. Real. Before this, several instructions from the Ministry of the Interior had stressed the need for providing work for prisoners: 5 Fructidor Year VI, 3 Messidor Year VIII, 8 Pluviôse and 28 Ventôse Year IX, 7 Brumaire Year X. Immediately after the codes of 1808 and 1810, one still finds new instructions:. 20 October 1811, 8 December 1812; or again the long order of 1816: 'It is of the greatest importance to keep prisoners occupied as much as possible. One must instil in them a desire to work, distinguishing between the fate of those who are occupied and that of prisoners who wish to remain idle. The first will be better fed and have more comfortable beds than the second.' Melun and Clairvaux were very soon organized into great workshops.
 

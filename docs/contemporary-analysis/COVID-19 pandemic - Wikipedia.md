@@ -1,3 +1,8 @@
+---
+title: "**COVID-19 pandemic**"
+category: "contemporary-analysis"
+---
+
 # **COVID-19 pandemic**
 
 The **COVID-19 pandemic**, also known as the **coronavirus pandemic**, is an ongoing [pandemic](https://en.wikipedia.org/wiki/Pandemic) of [coronavirus disease 2019](https://en.wikipedia.org/wiki/Coronavirus_disease_2019) (COVID-19) caused by [severe acute respiratory syndrome coronavirus 2](https://en.wikipedia.org/wiki/Severe_acute_respiratory_syndrome_coronavirus_2) (SARS-CoV-2). It was first identified in December [2019 in W](https://en.wikipedia.org/wiki/World_Health_Organization)[uha](https://en.wikipedia.org/wiki/Wuhan)[n,](https://en.wikipedia.org/wiki/World_Health_Organization) [Chin](https://en.wikipedia.org/wiki/China)[a. The World Health](https://en.wikipedia.org/wiki/World_Health_Organization) Organization [declared the outbreak a Public Health](https://en.wikipedia.org/wiki/Public_Health_Emergency_of_International_Concern) Emergency of International Concern in January 2020 and a pandemic in March 2020. As of 26 January 2021, more than 99.6 [million cases](https://en.wikipedia.org/wiki/COVID-19_pandemic_cases) have been confirmed, with [more than 2.13](https://en.wikipedia.org/wiki/COVID-19_pandemic_deaths) million deaths attributed to COVID-19.
@@ -90,15 +95,54 @@ Nurse treating a COVID‑19 patient in an [intensive](https://en.wikipedia.org/w
 
 **·** Disinfection of public spaces in Taiwan **·** Donated medical supplies received in the Philippines **·** Burial in Iran **·** Italian [government](https://en.wikipedia.org/wiki/Conte_II_Cabinet) task force
 
-| Disease | Coronavirus<br>disease<br>2019<br>(COVID‑19) | |
+| Disease | Coronavirus
+disease
+2019
+(COVID‑19) | |
 |--------------------|-------------------------------------------------------------------------------------------------------|--|
-| Virus<br>strain | Severe<br>acute<br>respiratory<br>syndrome<br>[a]<br>coronavirus<br>2<br>(SARS‑CoV‑2) | |
-| Source | Possibly<br>via<br>bats,<br>pangolins,<br>or<br>[1][2]<br>both | |
+| Virus
+strain | Severe
+acute
+respiratory
+syndrome
+[a]
+coronavirus
+2
+(SARS‑CoV‑2) | |
+| Source | Possibly
+via
+bats,
+pangolins,
+or
+[1][2]
+both | |
 | Location | Worldwide | |
-| First<br>outbreak | [3]<br>Wuhan,<br>China | |
-| Index<br>case | Wuhan,<br>Hubei,<br>China<br>30°37′11″N<br>114°15′28″E | |
-| Date | [3] –<br>December<br>2019<br>present<br>(1<br>year,<br>1<br>month,<br>3<br>weeks<br>and<br>4<br>days) | |
-## | Confirmed<br>cases | [4]<br>99,660,483 | |
+| First
+outbreak | [3]
+Wuhan,
+China | |
+| Index
+case | Wuhan,
+Hubei,
+China
+30°37′11″N
+114°15′28″E | |
+| Date | [3] –
+December
+2019
+present
+(1
+year,
+1
+month,
+3
+weeks
+and
+4
+days) | |
+## | Confirmed
+cases | [4]
+99,660,483 | |
 
 #### **Impact**
 
@@ -140,19 +184,19 @@ Nurse treating a COVID‑19 patient in an [intensive](https://en.wikipedia.org/w
 
 ## Medical journals
 
-| Suspected cases <sup>‡</sup> | Possibly 10% of the global population (WHO estimate as of early October 2020) <sup>[5]</sup> |
+| Suspected cases ‡ | Possibly 10% of the global population (WHO estimate as of early October 2020) [5] |
 |------------------------------|----------------------------------------------------------------------------------------------|
-| Deaths | 2,138,299 <sup>[4]</sup> |
-| Territories | 192 <sup>[4]</sup> |
+| Deaths | 2,138,299 [4] |
+| Territories | 192 [4] |
 ## | †O | |
 
-<sup>&</sup>lt;sup>‡</sup>Suspected cases have not been confirmed by laboratory tests as being due to this strain, although some other strains may have been ruled out.
+&lt;sup>‡Suspected cases have not been confirmed by laboratory tests as being due to this strain, although some other strains may have been ruled out.
 
 # **Epidemiology**
 
 # **Background**
 
-Although it is still unknown exactly where the <u>outbreak</u> first started, many early cases of COVID-19 have been attributed to people who have visited the <u>Huanan Seafood Wholesale Market</u>, located in <u>Wuhan, Hubei, China. [12] On 11 February 2020, the World Health Organization (WHO) named the disease "COVID-19", which is short for <u>coronavirus disease 2019</u>. [13][14] The virus that caused the outbreak is known as severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), a newly discovered virus closely related to bat <u>coronaviruses</u>, [15] <u>pangolin</u> coronaviruses, [16][17] and <u>SARS-CoV</u>. [18] Scientific consensus is that COVID-19 likely originated naturally, probably from bats. [19][20]</u>
+Although it is still unknown exactly where the outbreak first started, many early cases of COVID-19 have been attributed to people who have visited the Huanan Seafood Wholesale Market, located in Wuhan, Hubei, China. [12] On 11 February 2020, the World Health Organization (WHO) named the disease "COVID-19", which is short for coronavirus disease 2019. [13][14] The virus that caused the outbreak is known as severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), a newly discovered virus closely related to bat coronaviruses, [15] pangolin coronaviruses, [16][17] and SARS-CoV. [18] Scientific consensus is that COVID-19 likely originated naturally, probably from bats. [19][20]
 
 The earliest known person with symptoms was later discovered to have fallen ill on 1 December 2019, and that person did not have visible connections with the later wet market cluster. [21][22] However, an earlier case of infection could have occurred on 17 November. [23] Of the early cluster of cases reported that month, two
 
@@ -162,7 +206,7 @@ For country-level data, see:
 
 ## ![](_page_2_Picture_30.jpeg)
 
-## <u>Cases</u> 99,660,483 <u>Deaths</u> 2,138,299
+## Cases 99,660,483 Deaths 2,138,299
 
 ## As of 26 January 2021 [4]
 
@@ -196,7 +240,7 @@ Total confirmed cases per country as of 25 January 2021.
 
 Official case counts refer to the number of people who have been tested for COVID-19 and whose test has been confirmed positive according to official protocols. [29][30] Many countries, early on, had official policies to not test those with only mild symptoms. [31][32] An analysis of the early phase of the outbreak up to 23 January estimated 86 percent of COVID-19 infections had not been detected, and that these undocumented infections were the source for 79 percent of documented cases. [33] Several other studies, using a variety of methods, have estimated that numbers of infections in many countries are likely to be considerably greater than the reported cases.[34][35]
 
-On 9 April 2020, preliminary results found that 15 percent of people tested in <u>Gangelt</u>, the centre of a major infection cluster in Germany, tested positive for <u>antibodies</u>. Screening for COVID-19 in pregnant women in New York City, and <u>blood donors</u> in the Netherlands, has also found rates of positive antibody tests that may indicate more infections than reported. [37][38]
+On 9 April 2020, preliminary results found that 15 percent of people tested in Gangelt, the centre of a major infection cluster in Germany, tested positive for antibodies. Screening for COVID-19 in pregnant women in New York City, and blood donors in the Netherlands, has also found rates of positive antibody tests that may indicate more infections than reported. [37][38]
 
 Seroprevalence based estimates are conservative as some studies show that persons with mild symptoms do not have detectable antibodies. [39] Some results (such as the Gangelt study) have received substantial press coverage without first passing through peer review. [40]
 
@@ -252,7 +296,8 @@ In September, the CDC computed an age-bracketed 'best estimate' for the U. S. of
 
 ## CDC Planning Scenario IFR Range
 
-| Age<br>group | IFR |
+| Age
+group | IFR |
 |--------------|--------------|
 | 0–19 | 0.002%–0.01% |
 | 20–49 | 0.007%–0.03% |
@@ -261,45 +306,7 @@ In September, the CDC computed an age-bracketed 'best estimate' for the U. S. of
 
 In August 2020, the WHO reported serology testing for three locations in Europe (with some data through 2 June) that showed IFR overall estimates converging at approximately 0.5–1%.[\[71\]](#page-42-1) A systematic review article in *[The BMJ](https://en.wikipedia.org/wiki/The_BMJ)* advised that "caution is warranted ... using serological tests for ... epidemiological surveillance" and called for higher quality studies assessing accuracy with reference to a standard of "RT-PCR performed on at least two consecutive specimens, and, when feasible, includ[ing] viral cultures."[\[83\]](#page-43-5)[\[84\]](#page-43-6) CEBM researchers have called for in-hospital 'case definition' to record "CT lung findings and associated blood tests"[\[85\]](#page-43-7) and for the WHO to produce a "protocol to standardise the use and interpretation of PCR" with continuous re-calibration.[\[86\]](#page-43-8)
 
-In September 2020, a *Bulletin of the World Health Organization* article by [John Ioannidis](https://en.wikipedia.org/wiki/John_Ioannidis) estimated the median global IFR inferred from seroprevalence data at 0.23%[\[d\]](#page-36-10) overall (with rates of 0.09% in areas with low mortality, and 0.57% in areas with high mortality) and 0.05% for people < 70 years (a range of 0.00–0.31%), much lower than estimates made earlier in the pandemic.[\[87\]](#page-43-9)
-
-On 6 October 2020, [Dr. Mike Ryan](https://en.wikipedia.org/wiki/Michael_J._Ryan_(doctor)), director of the WHO's Health Emergencies Programme announced "Our current best estimates tell us that about 10% of the global population may have been infected by this virus."[\[88\]](#page-43-10) Also in October, the [Centre for Evidence-Based Medicine](https://en.wikipedia.org/wiki/Centre_for_Evidence-Based_Medicine) (CEBM) reported a 'presumed estimate' of global IFR at between 0.10% to 0.35%, noting that this will vary between populations due to differences in demographics.[\[89\]](#page-44-0) These researchers noted a decrease in IFR in England over time;[\[90\]](#page-44-1)[\[e\]](#page-36-11) and, for the UK and Italy (the two European nations worst hit by COVID-19), attribute the rise in daily cases, stability in daily deaths, and shift of cases to a younger population to waning viral circulation, misapplication of testing, and misinterpretation of test results rather than to prevention, treatment, or virus mutation.[\[91\]](#page-44-2)
-
-In November 2020, a review article in *[Nature](https://en.wikipedia.org/wiki/Nature_(journal))* reported estimates of population-weighted IFRs for a number of countries, excluding deaths in elderly care facilities, and found a median range of 0.24% to 1.49%.[\[92\]](#page-44-3)
-
-In December 2020, a systematic review and meta-analysis published in the *European Journal of Epidemiology* [estimated that population-weighted IFR was 0.5% to 1% in some countries \(France,](https://en.wikipedia.org/wiki/European_Journal_of_Epidemiology) Netherlands, New Zealand, and Portugal), 1% to 2% in several other countries (Australia, England, Lithuania, and Spain), and about 2.5% in Italy; these estimates included fatalities in elderly care facilities.[\[93\]](#page-44-4) This study also found that most of the differences in IFR across locations reflected corresponding differences in the age composition of the population and the age-specific pattern of infection rates, due to very low IFRs for children and younger adults (e.g., 0.002% at age 10 and 0.01% at age 25) and progressively higher IFRs for older adults (0.4% at age 55, 1.4% at age 65, 4.6% at age 75, and 15% at age 85).[\[93\]](#page-44-4) These results were also highlighted in a December 2020 report issued by the World Health Organization.[\[94\]](#page-44-5)
-
-### **Case fatality ratio (CFR)**
-
-Another metric in assessing death rate is the [case fatality ratio](https://en.wikipedia.org/wiki/Case_fatality_rate) (CFR),[\[f\]](#page-36-12) which is deaths attributed to disease divided by individuals diagnosed to-date. This metric can be misleading because of the delay between symptom onset and death and because testing focuses on individuals with symptoms (and particularly on those manifesting more severe symptoms).[\[62\]](#page-41-7) On 4 August, WHO indicated "at this early stage of the pandemic, most estimates of fatality ratios have been based on cases detected through surveillance and calculated using crude methods, giving rise to widely variable estimates of CFR by country – from less than 0.1% to over 25%."[\[71\]](#page-42-1)
-
-# **Disease**
-
-# **Signs and symptoms**
-
-[Symptoms of COVID-19](https://en.wikipedia.org/wiki/Symptoms_of_COVID-19) are variable, ranging from mild symptoms to severe illness.[\[95\]](#page-44-6)[\[96\]](#page-44-7) Common symptoms include [headache,](https://en.wikipedia.org/wiki/Headache) [loss of smell](https://en.wikipedia.org/wiki/Anosmia) and [taste](https://en.wikipedia.org/wiki/Ageusia), [nasal congestion](https://en.wikipedia.org/wiki/Nasal_Obstruction) and [rhinorrhea](https://en.wikipedia.org/wiki/Rhinorrhea), cough, [muscle pain](https://en.wikipedia.org/wiki/Muscle_pain), sore throat, fever and [breathing difficulties](https://en.wikipedia.org/wiki/Breathing_difficulties). [\[97\]](#page-44-8) People with the same infection may have different symptoms, and their symptoms may change over time. In people without prior ears, nose, and throat disorders, [loss of taste](https://en.wikipedia.org/wiki/Hypogeusia) combined with [loss of smell](https://en.wikipedia.org/wiki/Hyposmia) is associated with [COVID-19](https://en.wikipedia.org/wiki/COVID-19) with a [specificity](https://en.wikipedia.org/wiki/Sensitivity_and_specificity#Specificity) of 95%.[\[98\]](#page-44-9)
-
-## ![](_page_8_Picture_4.jpeg)
-
-## Symptoms of COVID-19
-
-Most people (81%) develop mild to moderate symptoms (up to mild [pneumonia](https://en.wikipedia.org/wiki/Pneumonia)), while 14% develop severe symptoms [\(dyspnea](https://en.wikipedia.org/wiki/Dyspnea), [hypoxia](https://en.wikipedia.org/wiki/Hypoxia_(medical)), or more than 50% lung involvement on imaging) and 5% of patients suffer critical symptoms ([respiratory failure](https://en.wikipedia.org/wiki/Respiratory_failure), [shock](https://en.wikipedia.org/wiki/Shock_(circulatory)), or [multiorgan dysfunction\)](https://en.wikipedia.org/wiki/Organ_dysfunction).[\[99\]](#page-45-0) At least a third of the people who are infected with the virus do not develop noticeable symptoms at any point in time.[\[100\]](#page-45-1)[\[101\]](#page-45-2)[\[102\]](#page-45-3)[\[103\]](#page-45-4) These [asymptomatic](https://en.wikipedia.org/wiki/Asymptomatic) carriers tend not to get tested, and they can spread the disease.[\[104\]](#page-45-5)[\[103\]](#page-45-4)[\[105\]](#page-45-6)[\[106\]](#page-45-7) Other infected people will develop symptoms later (called *pre-symptomatic*) or have very mild symptoms, and can also spread the virus.[\[107\]](#page-45-8)
-
-As is common with infections, there is a delay, known as the [incubation period,](https://en.wikipedia.org/wiki/Incubation_period) between the moment a person first becomes infected and the appearance of the first symptoms. The [median](https://en.wikipedia.org/wiki/Median) incubation period for COVID-19 is four to five days.[\[108\]](#page-45-9) Most symptomatic people experience symptoms within two to seven days after exposure, and almost all symptomatic people will experience one or more symptoms before day twelve.[\[108\]](#page-45-9)[\[109\]](#page-46-0)
-
-Most persons recover from the acute phase of the disease. However, some patients continue to experience a range of effects—known as [long COVID—](https://en.wikipedia.org/wiki/Long_COVID)for months after recovery, and damage to organs has been observed. Multi-year studies are underway to further investigate the long-term effects of the disease.[\[110\]](#page-46-1)
-
-# **Transmission**
-
-COVID-19 spreads from person to person mainly through the respiratory route after an infected person coughs, sneezes, sings, talks or breathes. A new infection occurs when virus-containing particles exhaled by an infected person, either [respiratory droplets](https://en.wikipedia.org/wiki/Respiratory_droplet) or [aerosols](https://en.wikipedia.org/wiki/Aerosol), get into the mouth, nose, or eyes of other people who are in close contact with the infected person.[\[111\]](#page-46-2)[\[112\]](#page-46-3) During human-to-human transmission, an average 1000 infectious SARS-CoV-2 virions are thought to initiate a new infection.
-
-The closer people interact, and the longer they interact, the more likely they are to transmit COVID-19. Closer distances can involve larger droplets (which fall to the ground) and aerosols, whereas longer distances only involve aerosols. The larger droplets may also evaporate into the aerosols (known as [droplet nuclei\)](https://en.wikipedia.org/wiki/Droplet_nucleus). The relative importance of the larger droplets and the aerosols is not clear as of November 2020; however, the virus is not known to spread between rooms over long distances such as through air ducts. [Airborne transmission](https://en.wikipedia.org/wiki/Airborne_transmission) is able to particularly occur indoors, in high risk locations such as restaurants, choirs, gyms, nightclubs, offices, and religious venues, often when they are crowded or less ventilated. It also occurs in healthcare settings, often when [aerosol-generating medical procedures](https://en.wikipedia.org/wiki/Aerosol-generating_procedure) are performed on COVID-19 patients.
-
-The number of people generally infected by one infected person varies; as of September 2020 it was estimated that one infected person will, on average, infect between two and three other people. This is more infectious than influenza, but less so than measles. It often spreads in clusters, where infections can be traced back to an index case or geographical location. There is a major role of superspreading events, where many people are infected by one person.
-
-#### Cause
-
-Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)<sup>[115][116]</sup> is the virus that causes coronavirus disease 2019 (COVID-19), the respiratory illness responsible for the COVID-19 pandemic. Colloquially known as simply the coronavirus, it was previously referred to by its provisional name, 2019 novel coronavirus (2019-n CoV), [117][118][119][120] and has also been called human coronavirus 2019 (HCoV-19 or h CoV-19). [121][122][123][124]
+In September 2020, a *Bulletin of the World Health Organization* article by [John Ioannidis](https://en.wikipedia.org/wiki/John_Ioannidis) estimated the median global IFR inferred from seroprevalence data at 0.23%[\[d\]](#page-36-10) overall (with rates of 0.09% in areas with low mortality, and 0.57% in areas with high mortality) and 0.05% for people [115][116] is the virus that causes coronavirus disease 2019 (COVID-19), the respiratory illness responsible for the COVID-19 pandemic. Colloquially known as simply the coronavirus, it was previously referred to by its provisional name, 2019 novel coronavirus (2019-n CoV), [117][118][119][120] and has also been called human coronavirus 2019 (HCoV-19 or h CoV-19). [121][122][123][124]
 
 referred to by its provisional name, 2019 novel coronavirus (2019-n CoV), \[ \frac{\text{[117][118][119][120]}}{\text{and has also been called human coronavirus}} \]
 
@@ -309,7 +316,7 @@ The virus primarily spreads between people through close contact and via respira
 
 # **Diagnosis**
 
-The standard method of testing for presence of SARS-CoV-2 is <u>real-time reverse transcription</u> polymerase chain reaction (rRT-PCR), which detects the presence of viral RNA fragments. As this test detects RNA but not infectious virus, its "ability to determine duration of infectivity of patients is limited." The test is typically done on respiratory samples obtained by a <u>nasopharyngeal swab</u>; however, a nasal swab or sputum sample may also be used. Results are generally available within a few hours to two days. Blood tests can be used, but these require two blood samples taken two weeks apart, and the results have little immediate value. The WHO has published several testing protocols for the disease.
+The standard method of testing for presence of SARS-CoV-2 is real-time reverse transcription polymerase chain reaction (rRT-PCR), which detects the presence of viral RNA fragments. As this test detects RNA but not infectious virus, its "ability to determine duration of infectivity of patients is limited." The test is typically done on respiratory samples obtained by a nasopharyngeal swab; however, a nasal swab or sputum sample may also be used. Results are generally available within a few hours to two days. Blood tests can be used, but these require two blood samples taken two weeks apart, and the results have little immediate value. The WHO has published several testing protocols for the disease.
 
 Chest CT scans may be helpful to diagnose COVID-19 in individuals with a high clinical suspicion of infection but are not recommended for routine screening. [141][142] Bilateral multilobar ground-glass opacities with a peripheral, asymmetric, and posterior distribution are common in early infection. [141][143] Subpleural dominance, crazy paving (lobular septal thickening with variable alveolar filling), and consolidation may appear as the disease progresses. [141][144] Characteristic imaging features on chest radiographs and computed tomography (CT) of people who are symptomatic include asymmetric peripheral ground-glass opacities without pleural effusions. [145]
 
@@ -481,9 +488,9 @@ By late April 2020, around 300 million people were under lockdown in nations of 
 
 #### **Asia**
 
-As of 30 April 2020, [288] cases have been reported in all Asian countries except for <u>Turkmenistan</u> and <u>North Korea</u>, although these countries likely also have cases. [289][290] Despite being the first area of the world hit by the outbreak, the early wide-scale response of some Asian states, particularly <u>Mongolia</u>, [291] <u>Singapore</u>, [292] <u>South Korea</u>, [293] <u>Taiwan</u>, [294] <u>Vietnam</u>, [295] has allowed them to fare comparatively well. <u>China</u> is criticised for initially minimising the severity of the outbreak, but the delayed wide-scale response has largely contained the disease since March 2020. [296][297][298][299] As of 9 December 2020, Singapore has the lowest case fatality rate in the world, at 0.51 deaths per 100,000. [300]
+As of 30 April 2020, [288] cases have been reported in all Asian countries except for Turkmenistan and North Korea, although these countries likely also have cases. [289][290] Despite being the first area of the world hit by the outbreak, the early wide-scale response of some Asian states, particularly Mongolia, [291] Singapore, [292] South Korea, [293] Taiwan, [294] Vietnam, [295] has allowed them to fare comparatively well. China is criticised for initially minimising the severity of the outbreak, but the delayed wide-scale response has largely contained the disease since March 2020. [296][297][298][299] As of 9 December 2020, Singapore has the lowest case fatality rate in the world, at 0.51 deaths per 100,000. [300]
 
-The pandemic has had direct side effects, per a report on 28 November, in <u>Japan</u>. According to the report by the country's <u>National Police Agency</u>, suicides had increased to 2,153 in October. Experts also state that the pandemic has worsened mental health issues due to lockdowns and isolation from family members, among other issues. [301]
+The pandemic has had direct side effects, per a report on 28 November, in Japan. According to the report by the country's National Police Agency, suicides had increased to 2,153 in October. Experts also state that the pandemic has worsened mental health issues due to lockdowns and isolation from family members, among other issues. [301]
 
 #### China
 
@@ -605,19 +612,19 @@ On 2 December the UK became the first Western country to approve the Pfizer vacc
 
 #### **North America**
 
-The first cases in North America were reported in the <u>United States</u> in January 2020. Cases were reported in all North American countries after <u>Saint Kitts and Nevis</u> confirmed a case on 25 March, and in all North American territories after Bonaire confirmed a case on 16 April. [455]
+The first cases in North America were reported in the United States in January 2020. Cases were reported in all North American countries after Saint Kitts and Nevis confirmed a case on 25 March, and in all North American territories after Bonaire confirmed a case on 16 April. [455]
 
-<u>Canada</u> reported 665,496 cases and 17,030 deaths on 11 January 2021, [456] while <u>Mexico</u> reported 1,534,039 cases and 133,706 deaths. [457] The most cases by state is California with 2,621,277 confirmed cases and 29,233 deaths as of 11 January 2021. [458]
+Canada reported 665,496 cases and 17,030 deaths on 11 January 2021, [456] while Mexico reported 1,534,039 cases and 133,706 deaths. [457] The most cases by state is California with 2,621,277 confirmed cases and 29,233 deaths as of 11 January 2021. [458]
 
 #### **United States**
 
 More than 25,200,000 confirmed cases have been reported in the United States since January 2020, resulting in more than 420,000 deaths, the most of any country and the tenth-highest per capita. [459][460] The U. S. has nearly a quarter of the world's cases and a fifth of all deaths. Johns Hopkins University tracker showed that more people have died from the COVID-19 disease in the US, than the 405,399 total US combat and non-combat deaths in World War II. [461][462] COVID-19 became the third leading cause of death in the U. S. in 2020, behind heart disease and cancer. [463]
 
-The first American case was reported on January 20, and then-President <u>Donald Trump</u> declared the U. S. outbreak a <u>public health</u> emergency on January 31. Restrictions were placed on flights
+The first American case was reported on January 20, and then-President Donald Trump declared the U. S. outbreak a public health emergency on January 31. Restrictions were placed on flights
 
 ## ![](_page_24_Picture_9.jpeg)
 
-The hospital ship <u>USNS Comfort</u> arrives in <u>Manhattan</u> on 30 March 2020.
+The hospital ship USNS Comfort arrives in Manhattan on 30 March 2020.
 
 arriving from China, [464][465] but the initial U. S. response to the pandemic was otherwise slow, in terms of preparing the healthcare system, stopping other travel, and testing. [466][467][468][g] Meanwhile, Trump downplayed the threat posed by the virus and claimed the outbreak was under control. [470]
 
@@ -625,9 +632,9 @@ The first known American deaths occurred in February. [471][h] On March 6, Trump
 
 #### **South America**
 
-The pandemic was confirmed to have reached <u>South America</u> on 26 February 2020 when <u>Brazil</u> confirmed a case in <u>São Paulo</u>. <u>[478]</u> By 3 April, all countries and territories in South America had recorded at least one case. <u>[479]</u>
+The pandemic was confirmed to have reached South America on 26 February 2020 when Brazil confirmed a case in São Paulo. [478] By 3 April, all countries and territories in South America had recorded at least one case. [479]
 
-On 13 May, it was reported that Latin America and the <u>Caribbean</u> had reported over 400,000 cases of infection with 23,091 deaths. On 22 May, citing especially the rapid increase of infections <u>in Brazil</u>, the WHO declared South America the epicentre of the pandemic. [480][481]
+On 13 May, it was reported that Latin America and the Caribbean had reported over 400,000 cases of infection with 23,091 deaths. On 22 May, citing especially the rapid increase of infections in Brazil, the WHO declared South America the epicentre of the pandemic. [480][481]
 
 As of 20 September, South America has about 7.5 million confirmed cases and 238,000 deaths. Due to a dearth of testing and medical facilities, it is believed that the outbreak is far larger than the official numbers show. [482]
 
@@ -649,7 +656,7 @@ In June 2020, the government of Brazil attempted to conceal the actual figures o
 
 #### **Africa**
 
-The pandemic was confirmed to have spread to Africa on 14 February 2020, with the first confirmed case announced in <a href="Egypt.">Egypt.</a>[489][490] The first confirmed case in <a href="Sub-Saharan Africa">sub-Saharan Africa</a> was announced in <a href="Nigeria">Nigeria</a> at the end of February. <a href="[491]">[491]</a> Within three months, the virus had spread throughout the continent, as <a href="Lesotho">Lesotho</a>, the last African sovereign state to have remained free of the virus, reported a case on 13 <a href="May.">May.</a> <a href="May.">[492][493]</a> By 26 May, it appeared that most African countries were experiencing community transmission, although testing capacity was limited. <a href="May.">[494]</a> Most of the identified imported cases arrived from <a href="Europe">Europe</a> and the <a href="United States">United States</a> rather than from <a href="China">China</a> where the virus originated. <a href="May.">[495]</a> It is believed that there is widespread <a href="United States">United States</a> rather than from <a href="China">China</a> where the virus originated. <a href="May.">[495]</a> It is believed that there is widespread <a href="United States">United States</a> rather than from <a href="China">China</a> where the virus originated. <a href="May.">[495]</a> It is believed systems. <a href="May.">[496]</a>
+The pandemic was confirmed to have spread to Africa on 14 February 2020, with the first confirmed case announced in Egypt.[489][490] The first confirmed case in sub-Saharan Africa was announced in Nigeria at the end of February. [491] Within three months, the virus had spread throughout the continent, as Lesotho, the last African sovereign state to have remained free of the virus, reported a case on 13 May. [492][493] By 26 May, it appeared that most African countries were experiencing community transmission, although testing capacity was limited. [494] Most of the identified imported cases arrived from Europe and the United States rather than from China where the virus originated. [495] It is believed that there is widespread United States rather than from China where the virus originated. [495] It is believed that there is widespread United States rather than from China where the virus originated. [495] It is believed systems. [496]
 
 #### Oceania
 
@@ -657,11 +664,11 @@ The pandemic was confirmed to have reached Oceania on 25 January 2020 with the f
 
 ## ![](_page_26_Picture_4.jpeg)
 
-<u>U. S. Air Force</u> personnel unload a <u>C-17</u> aircraft carrying approximately 1,800 kg (4,000 lb) of medical supplies in Niamey, Niger.
+U. S. Air Force personnel unload a C-17 aircraft carrying approximately 1,800 kg (4,000 lb) of medical supplies in Niamey, Niger.
 
 #### **Antarctica**
 
-Due to its remoteness and sparse population, Antarctica was the last <u>continent</u> to have confirmed cases of COVID-19 and was one of the last regions of the world affected directly by the pandemic. [499][500][501] The first cases were reported in December 2020, almost a year after the first cases of COVID-19 were detected in China. At least 36 people are confirmed to have been infected. [502] Even before the first cases on the continent were reported, human activity in Antarctica was indirectly impacted.
+Due to its remoteness and sparse population, Antarctica was the last continent to have confirmed cases of COVID-19 and was one of the last regions of the world affected directly by the pandemic. [499][500][501] The first cases were reported in December 2020, almost a year after the first cases of COVID-19 were detected in China. At least 36 people are confirmed to have been infected. [502] Even before the first cases on the continent were reported, human activity in Antarctica was indirectly impacted.
 
 # **International responses**
 
@@ -669,7 +676,7 @@ Due to its remoteness and sparse population, Antarctica was the last <u>continen
 
 As a result of the pandemic, many countries and regions imposed quarantines, entry bans, or other restrictions, either for citizens, recent travellers to affected areas, [503] or for all travellers. [504] Together with a decreased willingness to travel, this had a negative economic and social impact on the travel sector. Concerns have been raised over the effectiveness of travel restrictions to contain the spread of COVID-19. [505] A study in *Science* found that travel restrictions had only modestly affected the initial spread of COVID-19, unless combined with infection prevention and control measures to considerably reduce transmissions. [506] Researchers concluded that "travel restrictions are most useful in the early and late phase of an epidemic" and "restrictions of travel from Wuhan unfortunately came too late". [507]
 
-The <u>European Union</u> rejected the idea of suspending the <u>Schengen free travel zone</u> and introducing border controls with Italy, [508][509] a decision which has been criticised by some European politicians. [510][511]
+The European Union rejected the idea of suspending the Schengen free travel zone and introducing border controls with Italy, [508][509] a decision which has been criticised by some European politicians. [510][511]
 
 # **Evacuation of foreign citizens**
 
@@ -751,7 +758,7 @@ In early February 2020, [Organization of the Petroleum Exporting Countries](http
 
 #### Culture
 
-The performing arts and <u>cultural heritage sectors</u> have been profoundly affected by the pandemic, impacting organisations' operations as well as individuals—both employed and independent—globally. Arts and culture sector organisations attempted to uphold their (often publicly funded) mission to provide access to cultural heritage to the community, maintain the safety of their employees and the public, and support artists where possible. By March 2020, across the world and to varying degrees, museums, libraries, performance venues, and other cultural institutions had been indefinitely closed with their exhibitions, events and performances cancelled or postponed. [570] In response there were intensive efforts to provide alternative services through digital platforms. [571][572][573]
+The performing arts and cultural heritage sectors have been profoundly affected by the pandemic, impacting organisations' operations as well as individuals—both employed and independent—globally. Arts and culture sector organisations attempted to uphold their (often publicly funded) mission to provide access to cultural heritage to the community, maintain the safety of their employees and the public, and support artists where possible. By March 2020, across the world and to varying degrees, museums, libraries, performance venues, and other cultural institutions had been indefinitely closed with their exhibitions, events and performances cancelled or postponed. [570] In response there were intensive efforts to provide alternative services through digital platforms. [571][572][573]
 
 Holy Week observances in Rome, which occur during the last week of the Christian penitential season of Lent, were cancelled. [572] Many dioceses have recommended older Christians stay home rather than attend Mass on Sundays; services have been made available via radio, online live streaming and television, though some congregations made have provisions worship. [574][575][572] With the Roman Catholic Diocese of Rome closing its churches and chapels and St. Peter's Square emptied of Christian pilgrims, [572] other religious bodies also cancelled inperson services and limited public gatherings in churches, mosques, synagogues, temples and gurdwaras. [572] Iran's Health Ministry announced the cancellation of Friday prayers in areas affected by the outbreak and shrines were later closed, [323][330] while Saudi Arabia banned the entry of foreign pilgrims as well as its residents to holy sites in Mecca and Medina. [576][577] The 2020 Hajj was limited to around 1,000 selected pilgrims, in contrast to the usual number of over 2 million. [578]
 
@@ -783,7 +790,7 @@ In early March, the Italian government criticised the EU's lack of solidarity wi
 
 #### **United States**
 
-The outbreak prompted calls for the United States to adopt social policies common in other wealthy countries, including <u>universal</u> health care, <u>universal</u> child care, paid sick leave, and higher levels of funding for public health. [624][625][626] Political analysts believe it may have contributed to Donald Trump's loss in the 2020 presidential election. [627][628] Beginning in mid-April 2020, there were protests in several U. S. states against government-imposed business closures and restricted personal movement and association. [629] Simultaneously, protests ensued by <u>essential</u> workers in the form of a general strike. [630] In early October 2020, Donald Trump, his family members, and many other government officials were diagnosed with COVID-19, further disrupting the country's politics. [631]
+The outbreak prompted calls for the United States to adopt social policies common in other wealthy countries, including universal health care, universal child care, paid sick leave, and higher levels of funding for public health. [624][625][626] Political analysts believe it may have contributed to Donald Trump's loss in the 2020 presidential election. [627][628] Beginning in mid-April 2020, there were protests in several U. S. states against government-imposed business closures and restricted personal movement and association. [629] Simultaneously, protests ensued by essential workers in the form of a general strike. [630] In early October 2020, Donald Trump, his family members, and many other government officials were diagnosed with COVID-19, further disrupting the country's politics. [631]
 
 ## ![](_page_32_Picture_3.jpeg)
 
@@ -817,7 +824,7 @@ The pandemic has had many impacts on global health beyond those caused by the CO
 
 In several countries there has been a marked reduction of spread of sexually transmitted infections, including HIV/AIDS, attributable to COVID-19 quarantines, social distancing measures, and recommendations to not engage in casual sex. [662][663] Similarly, in some places, rates of transmission of influenza and other respiratory viruses significantly decreased during the pandemic. [664][665][666]
 
-The pandemic has also <u>negatively</u> impacted mental health globally, including increased <u>loneliness</u> resulting from social distancing and depression and domestic violence from lockdowns. 668 As of
+The pandemic has also negatively impacted mental health globally, including increased loneliness resulting from social distancing and depression and domestic violence from lockdowns. 668 As of
 
 June 2020, 40% of U. S. adults were experiencing adverse mental health symptoms, with 11% having seriously considered trying to kill themselves in the past month.[\[669\]](#page-84-11)
 
@@ -827,7 +834,7 @@ The worldwide disruption caused by the pandemic has resulted in numerous effects
 
 ## ![](_page_34_Figure_5.jpeg)
 
-Images from the NASA Earth [Observatory](https://en.wikipedia.org/wiki/NASA_Earth_Observatory) show a stark drop in pollution in [Wuhan](https://en.wikipedia.org/wiki/Wuhan), when comparing [NO](https://en.wikipedia.org/wiki/Nitrogen_dioxide)<sup>2</sup> levels in early 2019 (top) and early 2020 (bottom). [\[670\]](#page-84-10)
+Images from the NASA Earth [Observatory](https://en.wikipedia.org/wiki/NASA_Earth_Observatory) show a stark drop in pollution in [Wuhan](https://en.wikipedia.org/wiki/Wuhan), when comparing [NO](https://en.wikipedia.org/wiki/Nitrogen_dioxide)2 levels in early 2019 (top) and early 2020 (bottom). [\[670\]](#page-84-10)
 
 [However, the outbreak has also provided cover for illegal activities such as deforestation of the Amazon](https://en.wikipedia.org/wiki/Deforestation_of_the_Amazon_rainforest) rainforest[\[681\]](#page-85-10)[\[682\]](#page-85-11) and [poaching](https://en.wikipedia.org/wiki/Poaching) in Africa,[\[683\]](#page-86-0)[\[684\]](#page-86-1) hindered [environmental diplomacy](https://en.wikipedia.org/wiki/Environmental_policy) efforts,[\[685\]](#page-86-2) and created [economic fallout](https://en.wikipedia.org/wiki/Coronavirus_recession) that some predict will slow investment in [green energy](https://en.wikipedia.org/wiki/Green_energy) technologies.[\[686\]](#page-86-3)
 

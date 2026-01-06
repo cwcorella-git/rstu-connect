@@ -1,10 +1,15 @@
+---
+title: "**A new modern Design of four-sided Windcatcher for Natural Ventilation in Residential Building in Saudi Arabia**"
+category: "contemporary-analysis"
+---
+
 # **A new modern Design of four-sided Windcatcher for Natural Ventilation in Residential Building in Saudi Arabia**
 
-# **Ali Alzaed<sup>1</sup> and Ashraf Balabel<sup>2</sup>**
+# **Ali Alzaed1 and Ashraf Balabel2**
 
-*<sup>1</sup> Faculty of Engineering, Taif University, Al-Haweiah, Taif, Saudi Arabia.* 
+*1 Faculty of Engineering, Taif University, Al-Haweiah, Taif, Saudi Arabia.* 
 
-*<sup>2</sup>Faculty of Engineering, Taif University, Al-Haweiah, Taif, Saudi Arabia.* 
+*2Faculty of Engineering, Taif University, Al-Haweiah, Taif, Saudi Arabia.* 
 
 #### **Abstract**
 

@@ -1,3 +1,8 @@
+---
+title: "## **Power of Women #1 (1974)**"
+category: "feminist-theory"
+---
+
 ## **Power of Women #1 (1974)**
 
 ## **Date:** Unknown

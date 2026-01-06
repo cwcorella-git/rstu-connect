@@ -1,16 +1,10 @@
 ---
-title: In Defense Of Anarchism
-slug: In Defense of Anarchism
-reconversion_status: ready_for_reconversion
-author: Robert Paul Wolff
-date: '1970'
-tags:
-  - theory
-  - anarchism
-  - strikes
-  - rent
-  - police
+title: "In Defense Of Anarchism"
+author: "Robert Paul Wolff"
+date: "1970"
+category: "theory"
 ---
+
 # **Robert Paul Wolff In Defense of Anarchism**
 
 ## **1970**
@@ -427,11 +421,11 @@ Only extreme economic decentralization could permit the sort of voluntary econom
 
 These remarks fall far short of a coherent projection of an anarchist society, but they may serve to make the ideal seem a bit less like a mere fantasy of Utopian political philosophy.
 
-[<sup>\[1\]</sup>](#page-1-2) For a similar definition of "state," see Max Weber, Politics as a Vocation. Weber emphasizes the means — force — by which the will of the state is imposed, but a careful analysis of his definition shows that it also bases itself on the notion of authority ("imperative coordination") .
+[\[1\]](#page-1-2) For a similar definition of "state," see Max Weber, Politics as a Vocation. Weber emphasizes the means — force — by which the will of the state is imposed, but a careful analysis of his definition shows that it also bases itself on the notion of authority ("imperative coordination") .
 
-[<sup>\[2\]</sup>](#page-4-0) For each time we offered an example of legitimate authority, we would have to attach to it a nonempirical argument proving the legitimacy.
+[\[2\]](#page-4-0) For each time we offered an example of legitimate authority, we would have to attach to it a nonempirical argument proving the legitimacy.
 
-[<sup>\[3\]</sup>](#page-5-1) Thus, political philosophy is a dependent or derivative discipline, just as the philosophy of science is dependent upon the general theory of knowledge and on the branches of metaphysics which concern themselves with the reality and nature of the physical world.
+[\[3\]](#page-5-1) Thus, political philosophy is a dependent or derivative discipline, just as the philosophy of science is dependent upon the general theory of knowledge and on the branches of metaphysics which concern themselves with the reality and nature of the physical world.
 
 [\[4\]](#page-5-2) This point is so simple that it may seem unworthy of such emphasis. Nevertheless, a number of political philosophers, including Hobbes and John Austin, have supposed that the concept as well as the principles of authority could be derived from the concepts of power or utility. For example, Austin defines a command as a signification of desire, uttered by someone who will visit evil on those who do not comply with it (The Providence of Jurisprudence Determined, Lecture I).
 

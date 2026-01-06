@@ -1,3 +1,8 @@
+---
+title: "## **Imprisoned Anarchist Toby Shone Fights New Legal Battle Against UK State**"
+category: "technology-digital-justice"
+---
+
 ## **Imprisoned Anarchist Toby Shone Fights New Legal Battle Against UK State**
 
 ## **Date:** Unknown

@@ -1,16 +1,10 @@
 ---
-title: Anarchism The Afterbirth Of Liberalism
-author: Max Stirner
-slug: 'Anarchism, the Afterbirth of Liberalism'
-reconversion_status: ready_for_reconversion
-date: 1880
-tags:
-  - theory
-  - anarchism
-  - rent
-  - labor
-  - organizing
+title: "Anarchism The Afterbirth Of Liberalism"
+author: "Max Stirner"
+date: "1880"
+category: "theory"
 ---
+
 ## **Anarchism, the Afterbirth of Liberalism**
 
 ## **Date:** Unknown

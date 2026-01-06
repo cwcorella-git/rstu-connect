@@ -1,15 +1,10 @@
 ---
-title: Indigenous Property Rights And The Dakota Access Pipeline
-slug: Indigenous Property Rights and the Dakota Access Pipeline
-reconversion_status: ready_for_reconversion
-date: 2016
-author: Industrial Workers of the World
-tags:
-  - housing
-  - tenants
-  - rent
-  - labor
+title: "Indigenous Property Rights And The Dakota Access Pipeline"
+author: "Industrial Workers of the World"
+date: "2016"
+category: "housing"
 ---
+
 ## **Indigenous Property Rights and the Dakota Access Pipeline**
 
 ## **Date:** Tue, 09/06/2016 - 23:15

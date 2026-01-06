@@ -1,3 +1,8 @@
+---
+title: "## **Challenges to Freedom: From Nihilism to Anarchist Rebirth**"
+category: "contemporary-analysis"
+---
+
 ## **Challenges to Freedom: From Nihilism to Anarchist Rebirth**
 
 ## **Date:** Unknown

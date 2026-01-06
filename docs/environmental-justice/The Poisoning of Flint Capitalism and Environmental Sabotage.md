@@ -1,3 +1,8 @@
+---
+title: "## **The Poisoning of Flint: Capitalism and Environmental Sabotage**"
+category: "environmental-justice"
+---
+
 ## **The Poisoning of Flint: Capitalism and Environmental Sabotage**
 
 ## **Date:** Sun, 02/21/2016 - 09:49

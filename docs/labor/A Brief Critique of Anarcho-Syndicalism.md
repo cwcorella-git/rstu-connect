@@ -1,3 +1,8 @@
+---
+title: "## James Herod"
+category: "labor"
+---
+
 ## James Herod
 
 ## A Brief Critique of Anarcho-Syndicalism

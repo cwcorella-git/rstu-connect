@@ -1,3 +1,8 @@
+---
+title: "**[What Games Are](https://web.archive.org/web/20250914182659/https://www.whatgamesare.com/)**"
+category: "contemporary-analysis"
+---
+
 The Wayback Machine - https://web.archive.org/web/20250914182659/https://www.whatgamesare.com/2011/04/how-engagement-killed-gamepla…
 
 # **[What Games Are](https://web.archive.org/web/20250914182659/https://www.whatgamesare.com/)**

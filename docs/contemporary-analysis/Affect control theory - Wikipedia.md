@@ -1,3 +1,8 @@
+---
+title: "**Affect control theory**"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_2.jpeg)
 
 # **Affect control theory**

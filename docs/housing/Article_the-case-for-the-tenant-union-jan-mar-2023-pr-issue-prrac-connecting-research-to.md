@@ -1,17 +1,8 @@
 ---
-title: >-
-  The Case For the Tenant Union Jan Mar 2023 Pr Issue Prrac Connecting Research
-  To
-date: 2025
-author: |-
-  the
-                  relentless
-tags:
-  - organizing
-  - strikes
-  - unions
-  - tenants
-  - housing
+title: ">-"
+author: "|-"
+date: "2025"
+category: "housing"
 ---
 
 # The Case For the Tenant Union Jan Mar 2023 Pr Issue Prrac Connecting Research To

@@ -1,3 +1,8 @@
+---
+title: "**Epictetus**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Epictetus)
 
 # **Epictetus**
@@ -16,17 +21,21 @@ Not to be confused with [Epicurus.](https://en.wikipedia.org/wiki/Epicurus)
 
 Eighteenth-century line drawing depicting Epictetus with his crutch
 
-| Born | c. AD 50<br>Hierapolis, Phrygia<br>(presumed) |
+| Born | c. AD 50
+Hierapolis, Phrygia
+(presumed) |
 |--------------------------|----------------------------------------------|
-| Died | c.135 (aged c.85)<br>Nicopolis, Epirus[2] |
+| Died | c.135 (aged c.85)
+Nicopolis, Epirus[2] |
 | Notable work• Discourses | • Enchiridion |
 | Era | Hellenistic philosophy |
 | Region | Western philosophy |
 | School | Stoicism |
 | Main interests | Ethics |
-## | Notable ideas | mori[1]<br>Memento |
+## | Notable ideas | mori[1]
+Memento |
 
-**Epictetus** (, [EH-pick-TEE-t](https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key)<sup>ə</sup>ss; [\[3\]](#page-15-2) [Ancient Greek:](https://en.wikipedia.org/wiki/Ancient_Greek_language) Ἐπίκτητος, Epíktētos; c. 50 – c. 135 AD) was a Greek [Stoic philosopher.](https://en.wikipedia.org/wiki/Stoicism) [\[4\]](#page-15-3) [\[5\]](#page-15-4) He was born [into slavery](https://en.wikipedia.org/wiki/Slavery_in_ancient_Greece) at [Hierapolis,](https://en.wikipedia.org/wiki/Hierapolis) [Phrygia](https://en.wikipedia.org/wiki/Phrygia) (present-day [Pamukkale,](https://en.wikipedia.org/wiki/Pamukkale) in western [Turkey\)](https://en.wikipedia.org/wiki/Turkey) and lived in [Rome](https://en.wikipedia.org/wiki/Rome) until his banishment, when he went to [Nicopolis](https://en.wikipedia.org/wiki/Nicopolis) in northwestern [Greece,](https://en.wikipedia.org/wiki/Greece) where he spent the rest of his life.
+**Epictetus** (, [EH-pick-TEE-t](https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key)əss; [\[3\]](#page-15-2) [Ancient Greek:](https://en.wikipedia.org/wiki/Ancient_Greek_language) Ἐπίκτητος, Epíktētos; c. 50 – c. 135 AD) was a Greek [Stoic philosopher.](https://en.wikipedia.org/wiki/Stoicism) [\[4\]](#page-15-3) [\[5\]](#page-15-4) He was born [into slavery](https://en.wikipedia.org/wiki/Slavery_in_ancient_Greece) at [Hierapolis,](https://en.wikipedia.org/wiki/Hierapolis) [Phrygia](https://en.wikipedia.org/wiki/Phrygia) (present-day [Pamukkale,](https://en.wikipedia.org/wiki/Pamukkale) in western [Turkey\)](https://en.wikipedia.org/wiki/Turkey) and lived in [Rome](https://en.wikipedia.org/wiki/Rome) until his banishment, when he went to [Nicopolis](https://en.wikipedia.org/wiki/Nicopolis) in northwestern [Greece,](https://en.wikipedia.org/wiki/Greece) where he spent the rest of his life.
 
 Epictetus studied [Stoic philosophy](https://en.wikipedia.org/wiki/Stoicism) under [Musonius Rufus](https://en.wikipedia.org/wiki/Musonius_Rufus) and after manumission, his formal emancipation from slavery, he began to teach philosophy. Subject to the banishment of all philosophers from Rome by Emperor [Domitian](https://en.wikipedia.org/wiki/Domitian) toward the end of the first century, Epictetus founded a school of philosophy in
 

@@ -1,3 +1,8 @@
+---
+title: "## **A syndicalist strategy for the Swedish labour market**"
+category: "contemporary-analysis"
+---
+
 ## **A syndicalist strategy for the Swedish labour market**
 
 ## **Date:** Unknown

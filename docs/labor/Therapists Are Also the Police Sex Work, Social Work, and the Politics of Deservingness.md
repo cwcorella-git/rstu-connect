@@ -1,3 +1,8 @@
+---
+title: "## **Therapists Are Also the Police: Sex Work, Social Work, and the Politics of Deservingness**"
+category: "labor"
+---
+
 ## **Therapists Are Also the Police: Sex Work, Social Work, and the Politics of Deservingness**
 
 **Source:** https://www.threadings.io/therapists-are-also-the-police-sex/
@@ -28,12 +33,19 @@ I understand policing as the coercive hands that use the threat of physical or m
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | supporting racial capitalism (against our own interests). |
 | In shorter terms: policing happens through policy, not just a white man with a badge and gun. |
-| Because social work was founded with the desire to limit resources to those considered<br>"Deserving," I commit my work to those of us in the "Undeserving" category— especially as a<br>Black queer sex worker. I am personally wary of the surveillance that comes with soft policing<br>and work to caution us (the public) into presuming benevolence of those of us working for (or<br>in contract with) the state. |
+| Because social work was founded with the desire to limit resources to those considered
+"Deserving," I commit my work to those of us in the "Undeserving" category— especially as a
+Black queer sex worker. I am personally wary of the surveillance that comes with soft policing
+and work to caution us (the public) into presuming benevolence of those of us working for (or
+in contract with) the state. |
 | Let's begin. |
 | I. The Origins of Policing and Social Work |
 | Comic found in the book |
 | No More Police! |
-| In the panel "No Soft Police!" linked at the bottom of this essay, Mariame Kaba takes her time<br>to speak on the history of capitalistic governance that highlights the connection between<br>police and policy formation. She says it better than I will, so I've transcribed her words below<br>(all bolding and emphasis my own). |
+| In the panel "No Soft Police!" linked at the bottom of this essay, Mariame Kaba takes her time
+to speak on the history of capitalistic governance that highlights the connection between
+police and policy formation. She says it better than I will, so I've transcribed her words below
+(all bolding and emphasis my own). |
 | " |
 | …Law enforcement are not the only kind of police, actually. |
 
@@ -44,7 +56,8 @@ Right? So, this goes back to the point we were making in the graphic about when 
 | and |
 | encourage people to work for the wage instead of living a life of subsistence. |
 | This is when the term police comes into being |
-| … because people talk a lot about police and capitalism and those things coming together.<br>But you have to understand: the discussion of what they were terming at the time |
+| … because people talk a lot about police and capitalism and those things coming together.
+But you have to understand: the discussion of what they were terming at the time |
 | "police science," |
 | was one of the |
 | primary ways |
@@ -56,8 +69,11 @@ Right? So, this goes back to the point we were making in the graphic about when 
 | We call policy "police." |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | That's what that connection is here. |
-| So, police encompassed various things: administrative science. Public health. Urban<br>planning. |
-| And much of social policy today still carries the basis of that old police science. You see the<br>connection there? Soft police isn't something we just invented in 1996. Right? It's actually<br>co-constitutive of the rise of the notion of police— in Europe, at the very least. |
+| So, police encompassed various things: administrative science. Public health. Urban
+planning. |
+| And much of social policy today still carries the basis of that old police science. You see the
+connection there? Soft police isn't something we just invented in 1996. Right? It's actually
+co-constitutive of the rise of the notion of police— in Europe, at the very least. |
 | So, the |
 | abiding concern really was the protection of private property. |
 | It was the creation of markets. It was the regulation of poverty. It was the |
@@ -92,7 +108,8 @@ The idea that we cannot possibly and should not attempt to regulate our own selv
 
 | healer |
 |---------------------------------------------------------------------------------------------------------------------------|
-| is a professional person trained in formal academic colleges and registered with the state. The<br>ideal we are taught is |
+| is a professional person trained in formal academic colleges and registered with the state. The
+ideal we are taught is |
 | not |
 | an unlicensed community worker and |
 | certainly |
@@ -144,26 +161,37 @@ resources and aid distribution
 | in social work |
 | the |
 | qualifications of Deserving pass through the lens of white, Christian wives. |
-| Wife here denotes a woman that is a direct beneficiary of the patriarchy (even if they are<br>against male tyranny on paper). They focused heavily on class-based oppression (aid to the<br>poor) and gender-based oppression (aid to women, often women in the societal role of wife—<br>almost always women in the societal role of "white"). Jane Addams |
+| Wife here denotes a woman that is a direct beneficiary of the patriarchy (even if they are
+against male tyranny on paper). They focused heavily on class-based oppression (aid to the
+poor) and gender-based oppression (aid to women, often women in the societal role of wife—
+almost always women in the societal role of "white"). Jane Addams |
 | wins a Nobel Peace Prize for her work advocating for child labor protections; |
-| children are regularly seen as the most Deserving people group around. They (remarkably)<br>did not focus on race-baed oppression, or what happens when race-based oppression<br>intersects with the other kinds of oppressions (gender, sexuality, occupation, etc.). |
+| children are regularly seen as the most Deserving people group around. They (remarkably)
+did not focus on race-baed oppression, or what happens when race-based oppression
+intersects with the other kinds of oppressions (gender, sexuality, occupation, etc.). |
 | The Politic of |
 | Deservingness follows us everywhere: |
-| it's the foundation of capitalism, the bedrock of meritocracy, and the justification behind<br>unequal distribution of resources, aid, and assistance. It's one of the reasons that still (to this |
+| it's the foundation of capitalism, the bedrock of meritocracy, and the justification behind
+unequal distribution of resources, aid, and assistance. It's one of the reasons that still (to this |
 
 | day) |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | the people groups that benefit the most from public assistance programs are white women |
-| . It's why the face of a white girl child is always front and center for advertisements about sex<br>trafficking, despite the majority of sex trafficking victims in the US and worldwide being<br>impoverished |
+| . It's why the face of a white girl child is always front and center for advertisements about sex
+trafficking, despite the majority of sex trafficking victims in the US and worldwide being
+impoverished |
 | Black, Brown, |
 | and |
 | Indigenous girls |
 | and women. You know, the people that are not (not ever) |
 | Deserving |
 | of a society turning everything upside for their absence. |
-| One of the foundational tenants of social work policy in the United Staes was the eradication<br>of sex work, which was seen as a blight upon citadels and a smear upon the moral<br>conscience of this great nation. |
+| One of the foundational tenants of social work policy in the United Staes was the eradication
+of sex work, which was seen as a blight upon citadels and a smear upon the moral
+conscience of this great nation. |
 | Constant |
-| fear-mongering centralizing on the existence of sex work took place; white woman social<br>workers touted the idea that because the demand for sex work existed, |
+| fear-mongering centralizing on the existence of sex work took place; white woman social
+workers touted the idea that because the demand for sex work existed, |
 | this meant that young women would be kidnapped into sex slavery. |
 
 ## ![](_page_12_Figure_0.jpeg)
@@ -179,10 +207,16 @@ In the role of Prostitute, the worker that clocks in and clocks out of their job
 | rehabilitation. |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Why is this underbelly of targeting sex workers important to the system of social work? |
-| Because you can always tell the ethics of an organization based on the way they treat the<br>people in the shadows. |
+| Because you can always tell the ethics of an organization based on the way they treat the
+people in the shadows. |
 | Where sex workers call for decriminalization and means of self-regulation, |
 | policy makers (policeman) usurp their ability to work safely. |
-| No matter how chronic the mask of benevolence is, your politic is most exposed with your<br>actions towards those that no one will go out of their way to defend. In my personal<br>experiences, some of the people that have been the quickest to disregard the needs of sex<br>workers have been licensed clinical social workers. The combination of Blackness, sex work,<br>poverty, and abolitionist praxis have fully informed my decision to forgo state licensure and<br>upgrade my societal status to skilled, licensed tradesman. |
+| No matter how chronic the mask of benevolence is, your politic is most exposed with your
+actions towards those that no one will go out of their way to defend. In my personal
+experiences, some of the people that have been the quickest to disregard the needs of sex
+workers have been licensed clinical social workers. The combination of Blackness, sex work,
+poverty, and abolitionist praxis have fully informed my decision to forgo state licensure and
+upgrade my societal status to skilled, licensed tradesman. |
 | III. Therapist's Role in Policing ( |
 | Yes |
 | , Even Therapists) |

@@ -1,3 +1,8 @@
+---
+title: "**[What Games Are](https://web.archive.org/web/20250914140422/https://www.whatgamesare.com/)**"
+category: "contemporary-analysis"
+---
+
 The Wayback Machine - https://web.archive.org/web/20250914140422/https://www.whatgamesare.com/2011/02/all-games-are-played-to-win-des…
 
 # **[What Games Are](https://web.archive.org/web/20250914140422/https://www.whatgamesare.com/)**

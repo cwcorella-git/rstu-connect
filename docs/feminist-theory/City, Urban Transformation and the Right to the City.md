@@ -1,3 +1,8 @@
+---
+title: "City, Urban Transformation and the Right to the City"
+category: "feminist-theory"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 ## Journal of Contemporary Urban Affairs

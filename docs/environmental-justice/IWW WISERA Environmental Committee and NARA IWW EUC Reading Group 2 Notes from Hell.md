@@ -1,11 +1,20 @@
+---
+title: "## **IWW WISERA Environmental Committee and NARA IWW EUC Reading Group 2: Notes from Hell**"
+category: "environmental-justice"
+---
+
 ## **IWW WISERA Environmental Committee and NARA IWW EUC Reading Group 2: Notes from Hell**
 
 | Date: Mon, 02/20/2023 - 16:19 |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Source: https://ecology.iww.org/node/5388|
-| Tags: Judi Bari, green syndicalism, Earth First! - IWW Local 1, green unionism, Earth First!,<br>Louisiana-Pacific (LP), EF!-IWW Local 1 timber workers, IWW timber workers, timber workers, timber<br>capitalists |
+| Tags: Judi Bari, green syndicalism, Earth First! - IWW Local 1, green unionism, Earth First!,
+Louisiana-Pacific (LP), EF!-IWW Local 1 timber workers, IWW timber workers, timber workers, timber
+capitalists |
 | Fellow Workers (and fellow travelers, too!) |
-| We are inviting you to the second session of our monthly, online reading group dedicated to<br>discussing the work of and writings by IWW Organiser and Earth First! environmental activist<br>Judi Bari. |
+| We are inviting you to the second session of our monthly, online reading group dedicated to
+discussing the work of and writings by IWW Organiser and Earth First! environmental activist
+Judi Bari. |
 | The texts we will be reading and reviewing are |
 | Notes From Hell - Working at the L-P Mill |
 | , by Judi Bari [ |

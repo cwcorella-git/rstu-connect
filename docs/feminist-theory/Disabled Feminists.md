@@ -1,3 +1,8 @@
+---
+title: "## **Disabled Feminists**"
+category: "feminist-theory"
+---
+
 ## **Disabled Feminists**
 
 ## **Date:** Unknown

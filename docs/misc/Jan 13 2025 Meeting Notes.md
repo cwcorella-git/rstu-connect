@@ -1,10 +1,10 @@
 ---
-date: 2025
-author: Reno Sparks Tenants Union
-tags:
-  - organizing
 title: "Jan 13 2025 Meeting Notes"
+author: "Reno Sparks Tenants Union"
+date: "2025"
+category: "misc"
 ---
+
 # Jan 13 2025 Meeting Notes
 
 *Converted from: `./Jan 13 2025 Meeting Notes.pdf`*  
@@ -87,4 +87,3 @@ ordinance. Please review the draft Ordinance, make comments and look for more
 information to follow.
 
 ---
-

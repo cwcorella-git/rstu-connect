@@ -1,3 +1,8 @@
+---
+title: "**Aposimz**"
+category: "contemporary-analysis"
+---
+
 ### [en.wikipedia.org](https://en.wikipedia.org/wiki/Aposimz)
 
 # **Aposimz**
@@ -21,11 +26,15 @@
 | | • Science fiction[1] |
 |------------------------|-------------------------------------|
 | Manga | |
-| Written<br>by | Tsutomu Nihei |
-| Published<br>by | Kodansha |
+| Written
+by | Tsutomu Nihei |
+| Published
+by | Kodansha |
 | English publisher• NA: | Vertical |
 | Imprint | Sirius KC |
-| Magazine | Monthly<br>Shōnen<br>Sirius |
+| Magazine | Monthly
+Shōnen
+Sirius |
 | Demographic | Shōnen |
 | Original run | February 25, 2017 – August 26, 2021 |
 ## | Volumes | 9 |
@@ -54,19 +63,59 @@ Aposimz is written and illustrated by [Tsutomu Nihei.](https://en.wikipedia.org/
 
 The manga was simultaneously published in English by [Comi Xology](https://en.wikipedia.org/wiki/Comi Xology) and [Crunchyroll Manga.](https://en.wikipedia.org/wiki/Crunchyroll_Manga) [\[11\]](#page-6-7)[\[12\]](#page-7-0) In November 2017, [Vertical](https://en.wikipedia.org/wiki/Vertical_(publisher)) announced that they would release the series in print. [\[13\]](#page-7-1) The volumes were released from October 9, 2018[,\[14\]](#page-7-2) to June 28, 2022[.\[15\]](#page-7-3)
 
-| No. | Original<br>release<br>date | Original ISBN | English<br>release<br>date | English ISBN |
+| No. | Original
+release
+date | Original ISBN | English
+release
+date | English ISBN |
 |-----|----------------------------------|------------------------------------------------|----------------------------|-------------------|
-| 1 | May 9,<br>2017[6] | 978-4-06-390706-3 | October 9,<br>2018[14] | 978-1-94719-430-4 |
-| 2 | February<br>9, 2018[16]<br>[17] | 978-4-06-510937-3<br>978-4-06-510975-5<br>(LE) | January<br>15,<br>2019[18] | 978-1-94719-444-1 |
-| 3 | September<br>7, 2018[19]<br>[20] | 978-4-06-395307-7<br>978-4-06-513528-0<br>(LE) | June 18,<br>2019[21] | 978-1-94719-481-6 |
-| 4 | April 9,<br>2019[22] | 978-4-06-515256-0 | January<br>28,<br>2020[23] | 978-1-94719-496-0 |
-| 5 | November<br>8, 2019[24] | 978-4-06-517554-5 | September<br>8, 2020[25] | 978-1-94998-036-3 |
-| 6 | May 8,<br>2020[26] | 978-4-06-519616-8 | January<br>19,<br>2021[27] | 978-1-94998-066-0 |
+| 1 | May 9,
+2017[6] | 978-4-06-390706-3 | October 9,
+2018[14] | 978-1-94719-430-4 |
+| 2 | February
+9, 2018[16]
+[17] | 978-4-06-510937-3
+978-4-06-510975-5
+(LE) | January
+15,
+2019[18] | 978-1-94719-444-1 |
+| 3 | September
+7, 2018[19]
+[20] | 978-4-06-395307-7
+978-4-06-513528-0
+(LE) | June 18,
+2019[21] | 978-1-94719-481-6 |
+| 4 | April 9,
+2019[22] | 978-4-06-515256-0 | January
+28,
+2020[23] | 978-1-94719-496-0 |
+| 5 | November
+8, 2019[24] | 978-4-06-517554-5 | September
+8, 2020[25] | 978-1-94998-036-3 |
+| 6 | May 8,
+2020[26] | 978-4-06-519616-8 | January
+19,
+2021[27] | 978-1-94998-066-0 |
 
-| 7 | November<br>9, 2020[28]<br>[29] | 978-4-06-521161-8<br>978-4-06-521180-9<br>(LE) | July 6,<br>2021[30] | 978-1-64729-055-9 |
+| 7 | November
+9, 2020[28]
+[29] | 978-4-06-521161-8
+978-4-06-521180-9
+(LE) | July 6,
+2021[30] | 978-1-64729-055-9 |
 |---|---------------------------------|------------------------------------------------|----------------------------|-------------------|
-| 8 | April 30,<br>2021[7][31] | 978-4-06-523002-2<br>978-4-06-523951-3<br>(LE) | January<br>18,<br>2022[32] | 978-1-64729-061-0 |
-| 9 | December<br>9, 2021[33]<br>[34] | 978-4-06-526219-1<br>978-4-06-526220-7<br>(LE) | June 28,<br>2022[15] | 978-1-64729-100-6 |
+| 8 | April 30,
+2021[7][31] | 978-4-06-523002-2
+978-4-06-523951-3
+(LE) | January
+18,
+2022[32] | 978-1-64729-061-0 |
+| 9 | December
+9, 2021[33]
+[34] | 978-4-06-526219-1
+978-4-06-526220-7
+(LE) | June 28,
+2022[15] | 978-1-64729-100-6 |
 
 By February 2018, the manga had 250,000 copies in circulation[.\[35\]](#page-9-2)[\[36\]](#page-9-3)
 

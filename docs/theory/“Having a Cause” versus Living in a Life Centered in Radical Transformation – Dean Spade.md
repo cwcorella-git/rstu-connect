@@ -1,3 +1,8 @@
+---
+title: "## [deanspade.net](https://www.deanspade.net/2018/11/23/having-a-cause-versus-living-in-a-life-cente"
+category: "theory"
+---
+
 ## [deanspade.net](https://www.deanspade.net/2018/11/23/having-a-cause-versus-living-in-a-life-centered-in-radical-transformation/)
 
 ## **"Having a Cause" versus Living in a Life Centered in Radical Transformation – Dean Spade**
@@ -21,15 +26,66 @@ I am sensing, all around me these days, how desperately frustrated, scared, and 
 | | could be |
 ## | | |
 
-| Get trained as professional<br>to work for a non-profit. | Try to find a way of getting by<br>that is interesting and not too<br>compromising and gives<br>maximum time for<br>participation in what I really<br>believe in. |
+| Get trained as professional
+to work for a non-profit. | Try to find a way of getting by
+that is interesting and not too
+compromising and gives
+maximum time for
+participation in what I really
+believe in. |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Volunteer hours for a non<br>profit (until I get too busy at<br>a job or with kids). | Be part of organizations and<br>projects that I am intimately<br>connected with, foster deep<br>relationships with the other<br>people in those orgs and<br>projects, continue for years. |
-| Have a pet "cause" that I<br>care about, its part of my<br>personality or public<br>image. | Have passionate convictions,<br>study what social movements<br>have done and are doing about<br>what I care about, look for<br>connections to other areas of<br>mobilization and study those<br>too. |
-| Most of my friends, social<br>activities, most parts of my<br>life don't relate to my<br>"cause"—it is something I<br>do on the side of my<br>normal life. | Shared beliefs about the world<br>is one of the key reasons I<br>choose my friends and the<br>spaces I want to participate in, I<br>am not willing to box up my<br>principles and beliefs to fit in to<br>social scenes, I am most<br>excited by other people who |
+| Volunteer hours for a non
+profit (until I get too busy at
+a job or with kids). | Be part of organizations and
+projects that I am intimately
+connected with, foster deep
+relationships with the other
+people in those orgs and
+projects, continue for years. |
+| Have a pet "cause" that I
+care about, its part of my
+personality or public
+image. | Have passionate convictions,
+study what social movements
+have done and are doing about
+what I care about, look for
+connections to other areas of
+mobilization and study those
+too. |
+| Most of my friends, social
+activities, most parts of my
+life don't relate to my
+"cause"—it is something I
+do on the side of my
+normal life. | Shared beliefs about the world
+is one of the key reasons I
+choose my friends and the
+spaces I want to participate in, I
+am not willing to box up my
+principles and beliefs to fit in to
+social scenes, I am most
+excited by other people who |
 
-| | are also driven by a passion for<br>justice. |
+| | are also driven by a passion for
+justice. |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Finding one way to "give<br>back" is enough—donating<br>some money or time—to<br>be above reproach and feel<br>good about my role in the<br>system (and defensive if<br>anyone suggests I might<br>have more to learn or do). | I feel enlivened by my<br>participation in resistance<br>work, but I never feel finished. I<br>remain open to learning new<br>things about the systems I live<br>under and my complicity in<br>them, always looking for new<br>ways to bring my whole self<br>into alignment with what I<br>believe is right. |
+| Finding one way to "give
+back" is enough—donating
+some money or time—to
+be above reproach and feel
+good about my role in the
+system (and defensive if
+anyone suggests I might
+have more to learn or do). | I feel enlivened by my
+participation in resistance
+work, but I never feel finished. I
+remain open to learning new
+things about the systems I live
+under and my complicity in
+them, always looking for new
+ways to bring my whole self
+into alignment with what I
+believe is right. |
 
 The systems we live under are focused on keeping us in our places and keeping the status quo going strong. That means that our resistance, frustration or sense of injustice needs to be channeled in ways that will make it minimally disruptive. Our sense that things are not right, that it is unjust for some people to have so much more than they need while others die of malnutrition and exposure, could be threatening if we got together to overturn a system that keeps concentrating wealth. That system would prefer that we go back to jobs that keep churning out that wealth for the top 1%, and volunteer at a soup kitchen on Thanksgiving, and feel like we have satisfied our concerns about poverty. That same system constantly feeds us reasons to believe that rich people deserve to be rich and poor people deserve to be poor, to keep us from feeling the rage and despair that emerge if we really face the severity of contemporary conditions of inequality.
 

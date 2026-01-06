@@ -1,3 +1,8 @@
+---
+title: "**A Secular Age**"
+category: "contemporary-analysis"
+---
+
 #### [en.m.wikipedia.org](https://en.m.wikipedia.org/wiki/A_Secular_Age)
 
 # **A Secular Age**
@@ -17,7 +22,8 @@
 | Subject | Social philosophy |
 | Publisher | Harvard University Press |
 | Publication date | 2007 |
-| Media<br>type | Print |
+| Media
+type | Print |
 | Pages | 874 |
 ## | ISBN | 978-0-674-02676-6 |
 
@@ -123,9 +129,9 @@ In a brief afterword, Taylor links his narrative to similar efforts by e.g., [Jo
 
 (see section I paragraph 7 within the cited article).[7] Larmore also sees A Secular Age offering nothing new and is simply an extension of Max Weber's work on secularization theory (Section II, paragraph 1) with Weber and Taylor having differences that may be attributable to Weber being "a lapsed Protestant" and Taylor being "an ardent Catholic" (section II, paragraph 2). Larmore feels Taylor, in his book, may have "an adequate basis for jumping to metaphysical or religious conclusions" concerning the understanding of a secular view of the world, but to do so is "precisely what we ought not to do" (Section II, paragraph 5). Larmore disagrees with Taylor's insistence that people, having adequate information, should take a stance on God's presence throughout the world (Section II, paragraph 7). In Larmore's opinion, Taylor is wrong in not recognizing that "We have never been, and we will never be, at one with ourselves" and, therefore, should not jump to conclusions that are based on faith - which Larmore believes Taylor did in his book (Section II, paragraph 12).
 
-A Secular Age has been reviewed in newspapers such as <u>The New York Times</u><sup>[8]</sup> and <u>The Guardian</u>,<sup>[9]</sup> magazines such as <u>The New Republic</u><sup>[7]</sup> and <u>The American Prospect</u>,<sup>[10]</sup> and professional journals such as <u>Intellectual History Review</u>,<sup>[11]</sup> <u>Political Theory</u>,<sup>[12]</sup> Implicit Religion,<sup>[13]</sup> and <u>European Journal of Sociology</u>.<sup>[14]</sup>
+A Secular Age has been reviewed in newspapers such as The New York Times[8] and The Guardian,[9] magazines such as The New Republic[7] and The American Prospect,[10] and professional journals such as Intellectual History Review,[11] Political Theory,[12] Implicit Religion,[13] and European Journal of Sociology.[14]
 
-1. <u>^ "2000 National Humanities Medal Winners"</u>. National Endowment for the Humanities. Archived from <u>the original</u> on 23 January 2015. Retrieved 23 January 2015.
+1. ^ "2000 National Humanities Medal Winners". National Endowment for the Humanities. Archived from the original on 23 January 2015. Retrieved 23 January 2015.
 
 - 2. ^ ["Secularism of a new kind"](https://web.archive.org/web/20071027144732/http://www.ssrc.org/blogs/immanent_frame/2007/10/19/secularism-of-a-new-kind/), The Immanent Frame (blog), SSRC, 19 October 2017, archived from [the original](http://www.ssrc.org/blogs/immanent_frame/2007/10/19/secularism-of-a-new-kind/) on 27 October 2007, retrieved 18 October 2009
 - 3. ^ p 221

@@ -1,3 +1,8 @@
+---
+title: "Polanyi' s Great Transformation and the Concept of the Embedded Economy"
+category: "feminist-theory"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 ## ![](_page_0_Picture_2.jpeg)

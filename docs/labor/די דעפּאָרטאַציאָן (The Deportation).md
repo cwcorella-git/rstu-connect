@@ -1,3 +1,8 @@
+---
+title: "## **(Deportation The (די דעפּאָרטאַציאָן**"
+category: "labor"
+---
+
 ## **(Deportation The (די דעפּאָרטאַציאָן**
 
 ## **Author:** Industrial Workers of the World (IWW)

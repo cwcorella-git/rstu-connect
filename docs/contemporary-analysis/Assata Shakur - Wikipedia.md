@@ -1,3 +1,8 @@
+---
+title: "**Assata Shakur**"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_2.jpeg)
 
 # **Assata Shakur**
@@ -54,14 +59,31 @@ Assata Shakur was born Jo Anne Deborah Byron, in [Flushing, Queens,](https://en.
 |---------------------|------------------------------------------------------------------------------------------|--|--|--|
 | | 1981) | | | |
 | | Black Panther Party (1970) | | | |
-| Convictions | ▪<br>First degree murder<br>▪<br>Atrocious assault and<br>battery | | | |
-| | ▪<br>Assault and battery against<br>a police officer | | | |
-| | ▪<br>Assault with a dangerous<br>weapon | | | |
-| | ▪<br>Assault with intent to kill | | | |
-| | ▪<br>Illegal possession of a<br>weapon | | | |
-| Criminal<br>penalty | Life sentence | | | |
+| Convictions | ▪
+First degree murder
+▪
+Atrocious assault and
+battery | | | |
+| | ▪
+Assault and battery against
+a police officer | | | |
+| | ▪
+Assault with a dangerous
+weapon | | | |
+| | ▪
+Assault with intent to kill | | | |
+| | ▪
+Illegal possession of a
+weapon | | | |
+| Criminal
+penalty | Life sentence | | | |
 | Escaped | November 2, 1979 | | | |
-| Escape<br>end | Never captured; remained a<br>fugitive for 45<br>years, 327<br>days<br>after her escape. | | | |
+| Escape
+end | Never captured; remained a
+fugitive for 45
+years, 327
+days
+after her escape. | | | |
 
 In 1950, Shakur's parents divorced, and she moved with her grandparents to [Wilmington, North Carolina.](https://en.wikipedia.org/wiki/Wilmington,_North_Carolina) After elementary school, Shakur moved back to Queens to live with her mother and stepfather (her mother had remarried); she attended Parsons Junior High School. Shakur still frequently visited her grandparents in the south. Her family struggled financially and argued frequently; Shakur spent little time at home.[\[10\]](#page-23-6)
 
@@ -153,16 +175,82 @@ Between 1973 and 1977, in New York and New Jersey, Assata Shakur was indicted te
 
 | Criminal charge | Court | Arraignment | Proceedings | Disposition | |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|----------------------|------------------------------------------|------------------------------|--|
-| Attempted armed robbery at<br>Statler Hilton Hotel<br>April 5, 1971 | New York<br>Supreme<br>Court, New<br>York County | November 22,<br>1977 | None | Dismissed | |
-| Bank robbery in Queens<br>August 23, 1971 | United<br>States<br>District<br>Court for<br>the Eastern<br>District of<br>New York | July 20, 1973 | January 5–16,<br>1976 | Acquitted | |
-| Bank robbery in Bronx:<br>Conspiracy, robbery, and<br>assault with a deadly weapon<br>September 1, 1972 | United<br>States<br>District<br>Court for<br>the<br>Southern<br>District of<br>New York | August 1, 1973 | December 3–14,<br>1973 | Hung jury | |
-| | | | December 19–<br>28, 1973 | Acquitted | |
-| Kidnapping of James E.<br>Freeman<br>December 28, 1972 | N. Y.<br>Supreme<br>Court, Kings<br>County | May 30, 1974 | September 6<br>–<br>December 19,<br>1975 | Acquitted | |
-| Murder of Richard Nelson<br>January 2, 1973 | N. Y.<br>Supreme<br>Court, New<br>York County | May 29, 1974 | None | Dismissed | |
-| Attempted murder of<br>policemen Michael O'Reilly<br>and Roy Polliana<br>January 23, 1973 | N. Y.<br>Supreme<br>Court,<br>Queens<br>County | May 11, 1974 | None | Dismissed | |
-| Turnpike shootout: First<br>degree murder, second<br>degree murder, atrocious<br>assault and battery, assault<br>and battery against a police<br>officer, assault with a<br>dangerous weapon, assault<br>with intent to kill, illegal<br>possession of a weapon, and<br>armed robbery<br>May 2, 1973 | N. J. Superior<br>Court,<br>Middlesex<br>County | May 3, 1973 | October 9–23,<br>1973 | Change of<br>venue | |
-| | | | January 1<br>–<br>February 1,<br>1974 | Mistrial due to<br>pregnancy | |
-| | | | February 15<br>–<br>March 25, 1977 | Convicted | |
+| Attempted armed robbery at
+Statler Hilton Hotel
+April 5, 1971 | New York
+Supreme
+Court, New
+York County | November 22,
+1977 | None | Dismissed | |
+| Bank robbery in Queens
+August 23, 1971 | United
+States
+District
+Court for
+the Eastern
+District of
+New York | July 20, 1973 | January 5–16,
+1976 | Acquitted | |
+| Bank robbery in Bronx:
+Conspiracy, robbery, and
+assault with a deadly weapon
+September 1, 1972 | United
+States
+District
+Court for
+the
+Southern
+District of
+New York | August 1, 1973 | December 3–14,
+1973 | Hung jury | |
+| | | | December 19–
+28, 1973 | Acquitted | |
+| Kidnapping of James E.
+Freeman
+December 28, 1972 | N. Y.
+Supreme
+Court, Kings
+County | May 30, 1974 | September 6
+–
+December 19,
+1975 | Acquitted | |
+| Murder of Richard Nelson
+January 2, 1973 | N. Y.
+Supreme
+Court, New
+York County | May 29, 1974 | None | Dismissed | |
+| Attempted murder of
+policemen Michael O'Reilly
+and Roy Polliana
+January 23, 1973 | N. Y.
+Supreme
+Court,
+Queens
+County | May 11, 1974 | None | Dismissed | |
+| Turnpike shootout: First
+degree murder, second
+degree murder, atrocious
+assault and battery, assault
+and battery against a police
+officer, assault with a
+dangerous weapon, assault
+with intent to kill, illegal
+possession of a weapon, and
+armed robbery
+May 2, 1973 | N. J. Superior
+Court,
+Middlesex
+County | May 3, 1973 | October 9–23,
+1973 | Change of
+venue | |
+| | | | January 1
+–
+February 1,
+1974 | Mistrial due to
+pregnancy | |
+| | | | February 15
+–
+March 25, 1977 | Convicted | |
 ## | Source: Shakur, 1987, p. xiv. | | | | | |
 
 ### **Bronx bank robbery mistrial**

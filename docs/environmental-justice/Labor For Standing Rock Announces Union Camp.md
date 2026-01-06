@@ -1,3 +1,8 @@
+---
+title: "## **Labor For Standing Rock Announces Union Camp**"
+category: "environmental-justice"
+---
+
 ## **Labor For Standing Rock Announces Union Camp**
 
 **Date:** Wed, 10/26/2016 - 18:29 **Source:** https://ecology.iww.org/node/1884**Tags:** NoDAPL, green unionism, Labor for Standing Rock (L4SR), indigenous, Dakota Access Pipeline (DAPL), pipelines By Cliff Willmeng, Michael Letwin, and Steve Ongerth - Labor for Standing Rock , October 28, 2016 October 29-30, 2016: Labor Mobilization in Support of Standing Rock, First Nations, in

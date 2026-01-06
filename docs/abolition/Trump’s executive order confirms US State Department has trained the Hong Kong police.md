@@ -1,3 +1,8 @@
+---
+title: "## **Trump's executive order confirms US State Department has trained the Hong Kong police**"
+category: "abolition"
+---
+
 ## **Trump's executive order confirms US State Department has trained the Hong Kong police**
 
 ## **Date:** Unknown

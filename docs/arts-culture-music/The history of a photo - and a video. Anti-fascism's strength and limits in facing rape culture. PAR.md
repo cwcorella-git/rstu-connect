@@ -1,3 +1,8 @@
+---
+title: "## **The history of a photo - and a video. Anti-fascism's strength and limits in facing rape culture"
+category: "arts-culture-music"
+---
+
 ## **The history of a photo - and a video. Anti-fascism's strength and limits in facing rape culture. PART 2**
 
 ## **Date:** Unknown

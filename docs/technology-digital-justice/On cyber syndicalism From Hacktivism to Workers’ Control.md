@@ -1,3 +1,8 @@
+---
+title: "## **On cyber syndicalism: From Hacktivism to Workers' Control**"
+category: "technology-digital-justice"
+---
+
 ## **On cyber syndicalism: From Hacktivism to Workers' Control**
 
 ## **Date:** Sat, 01/09/2016 - 09:31

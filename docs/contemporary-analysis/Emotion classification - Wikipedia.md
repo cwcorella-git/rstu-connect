@@ -1,3 +1,8 @@
+---
+title: "[Emotion classi](https://en.wikipedia.org/wiki/Main_Page)fication"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_2.jpeg)
 
 # [Emotion classi](https://en.wikipedia.org/wiki/Main_Page)fication
@@ -102,16 +107,19 @@ The combination of these attributes distinguishes emotions from sensations, feel
 
 | Kind of emotion | Positive emotions | Negative emotions | |
 |-------------------|--------------------------------------|------------------------------------------------|--|
-| Related to object | Interest, curiosity,<br>enthusiasm | Indifference, habituation, boredom | |
+| Related to object | Interest, curiosity,
+enthusiasm | Indifference, habituation, boredom | |
 | properties | Attraction, desire, admiration | Aversion, disgust, revulsion | |
 | | Surprise, amusement | Alarm, panic | |
 | Future appraisal | Hope, excitement | Fear, anxiety, dread | |
 | | Gratitude, thankfulness | Anger, rage | |
-| Event-related | Joy, elation, triumph,<br>jubilation | Sorrow, grief | |
+| Event-related | Joy, elation, triumph,
+jubilation | Sorrow, grief | |
 | | Patience | Frustration, restlessness | |
 | | Contentment | Discontentment, disappointment | |
 | Self-appraisal | Humility, modesty | Pride, arrogance | |
-| Social | Charity | Avarice, greed, miserliness, envy,<br>jealousy | |
+| Social | Charity | Avarice, greed, miserliness, envy,
+jealousy | |
 | | Sympathy | Cruelty | |
 ## | Cathected | Love | Hate | |
 
@@ -192,10 +200,13 @@ The emotion annotation and representation language (EARL) proposed by the Human-
 
 A [tree-structured](https://en.wikipedia.org/wiki/Tree_structure) list of emotions was described in Shaver et al. (1987),[\[47\]](https://en.wikipedia.org/wiki/Emotion_classification#cite_note-47) and also featured in Parrott (2001). [\[48\]](https://en.wikipedia.org/wiki/Emotion_classification#cite_note-48)
 
-| Primary<br>emotion | Secondary<br>emotion | Tertiary emotion | | |
+| Primary
+emotion | Secondary
+emotion | Tertiary emotion | | |
 |--------------------|-----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|--|
 | | Affection | Adoration • Fondness • Liking • Attraction • Caring • Tenderness • Compassion • Sentimentality | | |
-| Love | Lust/Sexual<br>desire | Desire • Passion • Infatuation | | |
+| Love | Lust/Sexual
+desire | Desire • Passion • Infatuation | | |
 | | Longing | Longing | | |
 | | Cheerfulness | Amusement • Bliss • Gaiety • Glee • Jolliness • Joviality • Joy • Delight • Enjoyment • Gladness • Happiness • Jubilation • Elation • Satisfaction • Ecstasy • Euphoria | | |
 | | Zest | Enthusiasm • Zeal • Excitement • Thrill • Exhilaration | | |
@@ -232,26 +243,46 @@ There are also triads, emotions formed from 3 primary emotions, though Plutchik 
 
 #### **Emotions and opposites**
 
-| Mild emotion | Mild opposite | Basic<br>emotion | Basic<br>opposite | Intense<br>emotion | Intense<br>opposite |
+| Mild emotion | Mild opposite | Basic
+emotion | Basic
+opposite | Intense
+emotion | Intense
+opposite |
 |-----------------------------|----------------------------|----------------------|-----------------------------|----------------------------|------------------------|
-| Serenity | Pensiveness,<br>Gloominess | Joy,<br>Cheerfulness | Sadness,<br>Dejection | Ecstasy, Elation | Grief, Sorrow |
-| Acceptance, Tolerance | Boredom, Dislike | Trust | Disgust,<br>Aversion | Admiration,<br>Adoration | Loathing,<br>Revulsion |
-| Apprehension,<br>Dismay | Annoyance,<br>Irritation | Fear, Fright | Anger, Hostility | Terror, Panic | Rage, Fury |
-| Distraction,<br>Uncertainty | Interest,<br>Attentiveness | Surprise | Anticipation,<br>Expectancy | Amazement,<br>Astonishment | Vigilance |
+| Serenity | Pensiveness,
+Gloominess | Joy,
+Cheerfulness | Sadness,
+Dejection | Ecstasy, Elation | Grief, Sorrow |
+| Acceptance, Tolerance | Boredom, Dislike | Trust | Disgust,
+Aversion | Admiration,
+Adoration | Loathing,
+Revulsion |
+| Apprehension,
+Dismay | Annoyance,
+Irritation | Fear, Fright | Anger, Hostility | Terror, Panic | Rage, Fury |
+| Distraction,
+Uncertainty | Interest,
+Attentiveness | Surprise | Anticipation,
+Expectancy | Amazement,
+Astonishment | Vigilance |
 
 #### Dyads (Combinations)
 
 | Human feelings | Emotions | Opposite feelings | Emotions |
 |--------------------------------|-------------------------|--------------------------------|---------------------------|
-| Optimism, Courage | Anticipation + Joy | Disapproval,<br>Disappointment | Surprise + Sadness |
-| Hope, Fatalism | Anticipation +<br>Trust | Unbelief, Shock | Surprise + Disgust |
+| Optimism, Courage | Anticipation + Joy | Disapproval,
+Disappointment | Surprise + Sadness |
+| Hope, Fatalism | Anticipation +
+Trust | Unbelief, Shock | Surprise + Disgust |
 | Anxiety, Dread | Anticipation + Fear | Outrage, Hate | Surprise + Anger |
 | Love, Friendliness | Joy + Trust | Remorse, Misery | Sadness + Disgust |
 | Guilt, Excitement | Joy + Fear | Envy, Sullenness | Sadness + Anger |
-| Delight, Doom | Joy + Surprise | Pessimism | Sadness +<br>Anticipation |
+| Delight, Doom | Joy + Surprise | Pessimism | Sadness +
+Anticipation |
 | Submission, Modesty | Trust + Fear | Contempt, Scorn | Disgust + Anger |
 | Curiosity | Trust + Surprise | Cynicism | Disgust + Anticipation |
-| Sentimentality,<br>Resignation | Trust + Sadness | Morbidness, Derisiveness | Disgust + Joy |
+| Sentimentality,
+Resignation | Trust + Sadness | Morbidness, Derisiveness | Disgust + Joy |
 | Awe, Alarm | Fear + Surprise | Aggressiveness, Vengeance | Anger + Anticipation |
 | Despair | Fear + Sadness | Pride, Victory | Anger + Joy |
 | Shame, Prudishness | Fear + Disgust | Dominance | Anger + Trust |
@@ -297,7 +328,8 @@ Similar emotions in the wheel are adjacent to each other.[\[61\]](https://en.wik
 
 ## Trust, Surprise, Disgust, Anticipation
 
-| +<br>Surprise | | Anticipation | |
+| +
+Surprise | | Anticipation | |
 |---------------|-----------|--------------|--|
 | Trust | Curiosity | Hope | |
 ## | Disgust | Unbelief | Cynicism | |
@@ -317,12 +349,18 @@ MIT researchers [\[65\]](https://en.wikipedia.org/wiki/Emotion_classification#ci
 
 | Axis | -1.0 | -0.5 | 0 | 0 | +0.5 | +1.0 |
 |----------------------------|-------------|--------------|--------------------|-----------|---------------|--------------|
-| Anxiety -<br>Confidence | Anxiety | Worry | Discomfort | Comfort | Hopeful | Confident |
-| Boredom -<br>Fascination | Ennui | Boredom | Indifference | Interest | Curiosity | Intrigue |
-| Frustration -<br>Euphoria | Frustration | Puzzlement | Confusion | Insight | Enlightenment | Epiphany |
-| Dispirited -<br>Encouraged | Dispirited | Disappointed | Dissatisfied | Satisfied | Thrilled | Enthusiastic |
-| Terror -<br>Enchantment | Terror | Dread | Apprehension | Calm | Anticipatory | Excited |
-| Humiliation -<br>Pride | Humiliated | Embarrassed | Self-<br>conscious | Pleased | Satisfied | Proud |
+| Anxiety -
+Confidence | Anxiety | Worry | Discomfort | Comfort | Hopeful | Confident |
+| Boredom -
+Fascination | Ennui | Boredom | Indifference | Interest | Curiosity | Intrigue |
+| Frustration -
+Euphoria | Frustration | Puzzlement | Confusion | Insight | Enlightenment | Epiphany |
+| Dispirited -
+Encouraged | Dispirited | Disappointed | Dissatisfied | Satisfied | Thrilled | Enthusiastic |
+| Terror -
+Enchantment | Terror | Dread | Apprehension | Calm | Anticipatory | Excited |
+| Humiliation -
+Pride | Humiliated | Embarrassed | Selfconscious | Pleased | Satisfied | Proud |
 
 They also made a model labeling phases of learning emotions. [65]
 
@@ -668,7 +706,7 @@ Scientists map twenty-one different facial emotion[s\[68\]](https://en.wikipedia
 - 5. Ekman, Paul (1992). "An Argument for Basic Emotions". Cognition and Emotion. 6 (3/4): 169–200. [Cite SeerX](https://en.wikipedia.org/wiki/Cite SeerX_(identifier)) [10.1.1.454.1984 \(https://citeseerx.ist.psu.edu/viewdoc/su](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.454.1984) [mmary?doi=10.1.1.454.1984\).](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.454.1984) [doi:](https://en.wikipedia.org/wiki/Doi_(identifier))[10.1080/02699939208411068 \(https://doi.org/1](https://doi.org/10.1080%2F02699939208411068) [0.1080%2F02699939208411068\).](https://doi.org/10.1080%2F02699939208411068)
 - 6. Gendron, Maria; Barrett, Lisa Feldman (October 2009). ["Reconstructing the Past: A](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2835158) [Century of Ideas About Emotion in Psychology" \(https://www.ncbi.nlm.nih.gov/pmc/a](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2835158) [rticles/PMC2835158\).](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2835158) Emotion Review. 1 (4): 316–339. [doi:](https://en.wikipedia.org/wiki/Doi_(identifier)) [10.1177/1754073909338877 \(https://doi.org/10.1177%2F1754073909338877\).](https://doi.org/10.1177%2F1754073909338877) [PMC](https://en.wikipedia.org/wiki/PMC_(identifier)) [2835158 \(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2835158\).](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2835158) [PMID](https://en.wikipedia.org/wiki/PMID_(identifier)) [20221412 \(https://pubmed.ncbi.nlm.nih.gov/20221412\).](https://pubmed.ncbi.nlm.nih.gov/20221412)
 - 7. Barrett, Lisa Feldman (2006). "Solving the Emotion Paradox: Categorization and the Experience of Emotion". Personality and Social Psychology Review. 10 (1): 20–46. [doi](https://en.wikipedia.org/wiki/Doi_(identifier))[:10.1207/s15327957pspr1001\\_2 \(https://doi.org/10.1207%2Fs15327957pspr100](https://doi.org/10.1207%2Fs15327957pspr1001_2) [1\\_2\).](https://doi.org/10.1207%2Fs15327957pspr1001_2) [PMID](https://en.wikipedia.org/wiki/PMID_(identifier)) [16430327 \(https://pubmed.ncbi.nlm.nih.gov/16430327\).](https://pubmed.ncbi.nlm.nih.gov/16430327) [S2CID](https://en.wikipedia.org/wiki/S2CID_(identifier)) [7750265](https://api.semanticscholar.org/CorpusID:7750265) [\(https://api.semanticscholar.org/CorpusID:7750265\).](https://api.semanticscholar.org/CorpusID:7750265)
-- 8. W. M. Wundt, Outlines of Psychology. (1897). In: Classics in the history of psychology. <http://psychclassics.asu.edu/index.htm> [Archived \(https://web.archive.org/web/20010](https://web.archive.org/web/20010224041216/http://psychclassics.asu.edu/index.htm) [224041216/http://psychclassics.asu.edu/index.htm\)](https://web.archive.org/web/20010224041216/http://psychclassics.asu.edu/index.htm) 2001-02-24 at the [Wayback](https://en.wikipedia.org/wiki/Wayback_Machine) [Machine,](https://en.wikipedia.org/wiki/Wayback_Machine) York University 2010, Toronto.
+- 8. W. M. Wundt, Outlines of Psychology. (1897). In: Classics in the history of psychology.  [Archived \(https://web.archive.org/web/20010](https://web.archive.org/web/20010224041216/http://psychclassics.asu.edu/index.htm) [224041216/http://psychclassics.asu.edu/index.htm\)](https://web.archive.org/web/20010224041216/http://psychclassics.asu.edu/index.htm) 2001-02-24 at the [Wayback](https://en.wikipedia.org/wiki/Wayback_Machine) [Machine,](https://en.wikipedia.org/wiki/Wayback_Machine) York University 2010, Toronto.
 - 9. Schlosberg, H. (1954). "Three dimensions of emotion". [Psychological Review](https://en.wikipedia.org/wiki/Psychological_Review). 61 (2): 81–8. [doi](https://en.wikipedia.org/wiki/Doi_(identifier))[:10.1037/h0054570 \(https://doi.org/10.1037%2Fh0054570\).](https://doi.org/10.1037%2Fh0054570) [PMID](https://en.wikipedia.org/wiki/PMID_(identifier)) [13155714 \(https://pubmed.ncbi.nlm.nih.gov/13155714\).](https://pubmed.ncbi.nlm.nih.gov/13155714) [S2CID](https://en.wikipedia.org/wiki/S2CID_(identifier)) [27914497 \(htt](https://api.semanticscholar.org/CorpusID:27914497) [ps://api.semanticscholar.org/CorpusID:27914497\).](https://api.semanticscholar.org/CorpusID:27914497)
 - 10. Posner, Jonathan; Russell, J. A.; Peterson, B. S. (2005). ["The circumplex model of](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2367156) affect: An integrative approach to aff[ective neuroscience, cognitive development,](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2367156) [and psychopathology" \(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2367156\).](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2367156) Development and Psychopathology. 17 (3): 715–734. [doi](https://en.wikipedia.org/wiki/Doi_(identifier))[:10.1017/](https://doi.org/10.1017%2Fs0954579405050340) [s0954579405050340 \(https://doi.org/10.1017%2Fs0954579405050340\).](https://doi.org/10.1017%2Fs0954579405050340) [PMC](https://en.wikipedia.org/wiki/PMC_(identifier)) [2367156 \(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2367156\).](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2367156) [PMID](https://en.wikipedia.org/wiki/PMID_(identifier)) [16262989 \(https://pubmed.ncbi.nlm.nih.gov/16262989\).](https://pubmed.ncbi.nlm.nih.gov/16262989)
 

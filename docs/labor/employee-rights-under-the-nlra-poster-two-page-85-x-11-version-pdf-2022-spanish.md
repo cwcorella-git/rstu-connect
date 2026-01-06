@@ -1,11 +1,10 @@
 ---
-date: 2022
-author: Employee Rights Under
-tags:
-  - organizing
-  - unions
 title: "employee-rights-under-the-nlra-poster-two-page-85-x-11-version-pdf-2022-spanish"
+author: "Employee Rights Under"
+date: "2022"
+category: "labor"
 ---
+
 # employee-rights-under-the-nlra-poster-two-page-85-x-11-version-pdf-2022-spanish
 
 *Converted from: `./employee-rights-under-the-nlra-poster-two-page-85-x-11-version-pdf-2022-spanish.pdf`*  
@@ -151,8 +150,6 @@ iormació idicada a cotiuació para comuicarse co la 
                                                                       ESCANEA PARA SABER MÁS                      u  ifii  NRA
 
 
-
 Ese es un aviso oicia de gobierno y no debe ser muiado por nadie.                                                                Feca de revisión écnica: 05/02/22
 
 ---
-

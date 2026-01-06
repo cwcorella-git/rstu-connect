@@ -1,3 +1,8 @@
+---
+title: "**[What Games Are](https://web.archive.org/web/20250914172904/https://www.whatgamesare.com/)**"
+category: "contemporary-analysis"
+---
+
 The Wayback Machine - https://web.archive.org/web/20250914172904/https://www.whatgamesare.com/2011/01/game-dynamics-and-loops-game…
 
 # **[What Games Are](https://web.archive.org/web/20250914172904/https://www.whatgamesare.com/)**

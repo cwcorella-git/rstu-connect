@@ -1,24 +1,8 @@
 ---
-title: Give It Away
-author: David Graeber
-date: '2008'
-pubdate: '2010-11-15 12:00:32 +0100'
-language: en
-source_url: >-
-  Retrieved on 14 November 2010 from
-  [[http://www.freeebay.net/site/index.php?option=com_content&task=view&id=52&Itemid=34][www.freeebay.net]]
-notes: >-
-  This work is licensed under a Creative Commons Attribution 3.0 License. See
-  [[http://creativecommons.org/licenses/by/3.0/][creativecommons.org]] for
-  details.
-topics:
-  - economics
-  - gift economy
-original_format: muse
-converted_date: '2025-11-08T11:25:03.136945'
-tags:
-  - Economics
-  - Gift Economy
+title: "Give It Away"
+author: "David Graeber"
+date: "2008"
+category: "contemporary-analysis"
 ---
 
 Have you noticed how there aren’t any new French intellectuals any more? There was a veritable flood in the late ’70s and early ’80s: Derrida, Foucault, Baudrillard, Kristeva, Lyotard, de Certeau ... but there has been almost no one since. Trendy academics and intellectual hipsters have been forced to endlessly recycle theories now 20 or 30 years old, or turn to countries like Italy or even Slovenia for dazzling meta-theory.
@@ -29,7 +13,7 @@ There are a lot of reasons for this. One has to do with politics in France itsel
 
 Of course this in itself is hardly going to faze the sort of Americans who read Deleuze and Guattari. What American academics expect from France is an intellectual high, the ability to feel one is participating in wild, radical ideas demonstrating the inherent violence within Western conceptions of truth or humanity, that sort of thing but in ways that do not imply any program of political action; or, usually, any responsibility to act at all. It’s easy to see how a class of people who are considered almost entirely irrelevant both by political elites and by 99 percent of the general population might feel this way. In other words, while the U.S. media represent France as silly, U.S. academics seek out those French thinkers who seem to fit the bill.
 
-As a result, some of the most interesting scholars in France today you never hear about at all. One such is a group of intellectuals who go by the rather unwieldy name of Mouvement Anti-Utilitariste dans les Sciences Sociales, or MAUSS, and who have dedicated themselves to a systematic attack on the philosophical underpinnings of economic theory. The group take their inspiration from the great early-20<sup>th</sup> century French sociologist Marcel Mauss, whose most famous work, The Gift (1925), was perhaps the most magnificent refutation of the assumptions behind economic theory ever written. At a time when “the free market” is being rammed down everyone’s throat as both a natural and inevitable product of human nature, Mauss’ work which demonstrated not only that most non-Western societies did not work on anything resembling market principles, but that neither do most modern Westerners is more relevant than ever. While Francophile American scholars seem unable to come up with much of anything to say about the rise of global neoliberalism, the MAUSS group is attacking its very foundations.
+As a result, some of the most interesting scholars in France today you never hear about at all. One such is a group of intellectuals who go by the rather unwieldy name of Mouvement Anti-Utilitariste dans les Sciences Sociales, or MAUSS, and who have dedicated themselves to a systematic attack on the philosophical underpinnings of economic theory. The group take their inspiration from the great early-20th century French sociologist Marcel Mauss, whose most famous work, The Gift (1925), was perhaps the most magnificent refutation of the assumptions behind economic theory ever written. At a time when “the free market” is being rammed down everyone’s throat as both a natural and inevitable product of human nature, Mauss’ work which demonstrated not only that most non-Western societies did not work on anything resembling market principles, but that neither do most modern Westerners is more relevant than ever. While Francophile American scholars seem unable to come up with much of anything to say about the rise of global neoliberalism, the MAUSS group is attacking its very foundations.
 
 A word of background. Marcel Mauss was born in 1872 to an Orthodox Jewish family in Vosges. His uncle, Émile Durkheim, is considered the founder of modern sociology. Durkheim surrounded himself with a circle of brilliant young acolytes, among whom Mauss was appointed to study religion. The circle, however, was shattered by World War I; many died in the trenches, including Durkheim’s son, and Durkheim himself died of grief shortly thereafter. Mauss was left to pick up the pieces.
 

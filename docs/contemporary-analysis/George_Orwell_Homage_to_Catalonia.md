@@ -1,3 +1,8 @@
+---
+title: "**Chapter 04**"
+category: "contemporary-analysis"
+---
+
 ### **Homage to Catalonia - George Orwell**
 
 ## ![](_page_0_Picture_1.jpeg)
@@ -491,15 +496,15 @@ The same day, for no apparent reason, a man in the J. S. U. building farther dow
 
 The devilish racket of firing went on and on. But so far as I could see, and from all I heard, the fighting was defensive on both sides. People simply remained in their buildings or behind their barricades and blazed away at the people opposite. About half a mile away from us there was a street where some of the main offices of the C. N. T. and the U. G. T. were almost exactly facing one another; from that direction the volume of noise was terrific. I passed down that street the day after the fighting was over and the panes of the shop-windows were like sieves. (Most of the shopkeepers in Barcelona had their windows criss-crossed with strips of paper, so that when a bullet hit a pane it did not shiver to pieces.) Sometimes the rattle of rifle and machine-gun fire was punctuated by the crash of hand-grenades. And at long intervals, perhaps a dozen times in all, there were tremendously heavy explosions which at the time I could not account for; they sounded like aerial bombs, but that was impossible, for there were no aeroplanes about. I was told afterwards — quite possibly it was true — that agents provocateurs were touching off masses of explosive in order to increase the general noise and panic. There was, however, no artillery-fire. I was listening for this, for if the guns began to fire it would mean that the affair was becoming serious (artillery is the determining factor in street warfare). Afterwards there were wild tales in the newspapers about batteries of guns firing in the streets, but no one was able to point to a building that had been hit by a shell. In any case the sound of gunfire is unmistakable if one is used to it.
 
-## <sup>&#</sup>x27;What?'
+## &#x27;What?'
 
-<sup>&#</sup>x27;Don't you fire at us or we'll fire back!'
+&#x27;Don't you fire at us or we'll fire back!'
 
-<sup>&#</sup>x27;No, no! I wasn't firing at you. Look — down there!'
+&#x27;No, no! I wasn't firing at you. Look — down there!'
 
-<sup>&#</sup>x27;Have you got any more beer left?'
+&#x27;Have you got any more beer left?'
 
-## <sup>&#</sup>x27;No, it's all gone.'
+## &#x27;No, it's all gone.'
 
 Almost from the start food was running short. With difficulty and under cover of darkness (for the Civil Guards were constantly sniping into the Ramblas) food was brought from the Hotel Falcón for the fifteen or twenty militiamen who were in the P. O. U. M. Executive Building, but there was barely enough to go round, and as many of us as possible went to the Hotel Continental for our meals. The Continental had been 'collectivized' by the Generalite and not, like most of the hotels, by the C. N. T. or U. G. T., and it was regarded as neutral ground. No sooner had the fighting started than the hotel filled to the brim with a most extraordinary collection of people. There were foreign journalists, political suspects of every shade, an American airman in the service of the Government, various Communist agents, including a fat, sinister-looking Russian, said to be an agent of the Ogpu, who was nicknamed Charlie Chan and wore attached to his waist-band a revolver and a neat little bomb, some families of well-to-do Spaniards who looked like Fascist sympathizers, two or three wounded men from the International Column, a gang of lorry drivers from. some huge French lorries which had been carrying a load of oranges back to France and had been held up by the fighting, and a number of Popular Army officers. The Popular Army, as a body, remained neutral throughout the fighting, though a few soldiers slipped away from the barracks and took part as individuals; on the Tuesday morning I had seen a couple of them at the P. O. U. M. barricades. At the beginning, before the food-shortage became acute and the newspapers began stirring up hatred, there was a tendency to regard the whole affair as a joke. This was the kind of thing that happened every year in Barcelona, people were saying. George Tioli, an Italian journalist, a great friend of ours, came in with his trousers drenched with blood. He had gone out to see what was happening and had been binding up a wounded man on the pavement when someone playfully tossed a hand-grenade at him, fortunately not wounding him seriously. I remember his remarking that the Barcelona paving-stones ought to be numbered; it would save such a lot of trouble in building and demolishing barricades. And I remember a couple of men from the International Column sitting in my room at the hotel when I came in tired, hungry, and dirty after a night on guard. Their attitude was completely neutral. If they had been good party-men they would, I suppose, have urged me to change sides, or even have pinioned me and taken away the bombs of which my pockets were full; instead they merely commiserated with me for having to spend my leave in doing guard-duty on a roof. The general attitude was: 'This is only a dust-up between the Anarchists and the police — it doesn't mean anything.' In spite of the extent of the fighting and the number of casualties I believe this was nearer the truth than the official version which represented the affair as a planned rising.
 
@@ -795,15 +800,15 @@ When I got to the hotel my wife was sitting in the lounge. She got up and came t
 
 'Get out!'
 ## 
-## <sup>&#</sup>x27;What?'
+## &#x27;What?'
 
-## <sup>&#</sup>x27;Get out of here at once!'
+## &#x27;Get out of here at once!'
 
-## <sup>&#</sup>x27;What?'
+## &#x27;What?'
 
-<sup>&#</sup>x27;Don't keep standing here! You must get outside quickly!'
+&#x27;Don't keep standing here! You must get outside quickly!'
 
-## <sup>&#</sup>x27;What? Why? What do you mean?'
+## &#x27;What? Why? What do you mean?'
 
 She had me by the arm and was already leading me towards the stairs. Half-way down we met a Frenchman — I am not going to give his name, for though he had no connexion with the P. O. U. M. he was a good friend to us all during the trouble. He looked at me with a concerned face.
 
@@ -821,9 +826,9 @@ On 15 June the police had suddenly arrested Andrés Nin in his office, and the s
 
 It was all profoundly dismaying. What the devil was it all about? I could understand their suppressing the P. O. U. M., but what were they arresting people for? For nothing, so far as one could discover. Apparently the suppression of the P. O. U. M. had a retrospective effect; the P. O. U. M. was now illegal, and therefore one was breaking the law by having previously belonged to it. As usual, none of the arrested people had been charged. Meanwhile, however, the Valencia Communist papers were naming with the story of a huge 'Fascist plot', radio communication with the enemy, documents signed in invisible ink, etc., etc. I have dealt with this story earlier. The significant thing was that it was appearing only in the Valencia papers; I think I am right in saying that there was not a single word about it, or about the suppression of the P. O. U. M., in any Barcelona papers, Communist, Anarchist, or Republican. We first learned the precise nature of the charges against the P. O. U. M. leaders not from any Spanish paper but from the English papers that reached Barcelona a day or two later. What we could not know at this time was that the Government was not responsible for the charge of treachery and espionage, and that members of the Government were later to repudiate it. We
 
-## <sup>&#</sup>x27;Haven't you heard?'
+## &#x27;Haven't you heard?'
 
-<sup>&#</sup>x27;No. Heard what? I've heard nothing.'
+&#x27;No. Heard what? I've heard nothing.'
 
 only vaguely knew that the P. O. U. M. leaders, and presumably all the rest of us, were accused of being in Fascist pay. And already the rumours were flying round that people were being secretly shot in jail. There was a lot of exaggeration about this, but it certainly happened in some cases, and there is not much doubt that it happened in the case of Nin. After his arrest Nin was transferred to Valencia and thence to Madrid, and as early as 21 June the rumour reached Barcelona that he had been shot. Later the rumour took a more definite shape: Nin had been shot in prison by the secret police and his body dumped into the street. This story came from several sources, including Federico Montsenys, an ex-member of the Government. From that day to this Nin has never been heard of alive again. When, later, the Government were questioned by delegates from various countries, they shilly-shallied and would say only that Nin had disappeared and they knew nothing of his whereabouts. Some of the newspapers produced a tale that he had escaped to Fascist territory. No evidence was given in support of it, and Irujo, the Minister of Justice, later declared that the Espagne news-agency had falsified his official communiqué(14). In any case it is most unlikely that a political prisoner of Nin's importance would be allowed to escape. Unless at some future time he is produced alive, I think we must take it that he was murdered in prison.
 

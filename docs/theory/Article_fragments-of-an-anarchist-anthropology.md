@@ -1,13 +1,8 @@
 ---
-title: Fragments of an Anarchist Anthropology
-date: 2025
-author: David Graeber
-tags:
-  - organizing
-  - strikes
-  - unions
-  - rent
-  - police
+title: "Fragments of an Anarchist Anthropology"
+author: "David Graeber"
+date: "2025"
+category: "theory"
 ---
 
 # Fragments of an Anarchist Anthropology

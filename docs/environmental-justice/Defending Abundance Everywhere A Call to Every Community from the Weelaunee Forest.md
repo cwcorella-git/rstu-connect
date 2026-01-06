@@ -1,13 +1,21 @@
+---
+title: "**Defending Abundance Everywhere: A Call to Every Community from the Weelaunee Forest**"
+category: "environmental-justice"
+---
+
 # **Defending Abundance Everywhere: A Call to Every Community from the Weelaunee Forest**
 
 | Date: Thu, 03/02/2023 - 00:00 |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Source: https://ecology.iww.org/node/5428|
-| Tags: indigenous, Atlanta Forest, mobilizations and uprisings, anti-capitalism, libertarian-socialism,<br>green-anarchism, Tortuguita |
+| Tags: indigenous, Atlanta Forest, mobilizations and uprisings, anti-capitalism, libertarian-socialism,
+green-anarchism, Tortuguita |
 | By Abundia, Jesse, Jordan, & Mara - |
 | Weelaunee Web Collective |
 | , March 2, 2023 |
-| In the following text, participants in the movement to defend Weelaunee Forest in Atlanta,<br>Georgia describe some of the values that animate this struggle. For background on the<br>movement, start |
+| In the following text, participants in the movement to defend Weelaunee Forest in Atlanta,
+Georgia describe some of the values that animate this struggle. For background on the
+movement, start |
 | here |
 | |
 | This is a collection of short essays reflecting on the abundance that exists in our communities |
@@ -162,13 +170,18 @@ Common Abundance is a collective in Atlanta, Georgia working to make foraging mo
 
 .
 
-| This essay and the larger project that it is attached to are indebted to the writing and thinking<br>of Kimmerer, an enrolled member of the Citizen Potawatomi Nation. You can find the full<br>essay |
+| This essay and the larger project that it is attached to are indebted to the writing and thinking
+of Kimmerer, an enrolled member of the Citizen Potawatomi Nation. You can find the full
+essay |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | here |
 | |
 | Mariposas Rebeldes |
-| is a Latine queer, trans, two-spirit, gender-non-conforming, intersex, lesbian, gay, and<br>bisexual agriculturalist collective building permanence in so-called Atlanta. You can find them<br>on Instagram |
+| is a Latine queer, trans, two-spirit, gender-non-conforming, intersex, lesbian, gay, and
+bisexual agriculturalist collective building permanence in so-called Atlanta. You can find them
+on Instagram |
 | here |
 | |
 | Disclaimer: |
-| The views expressed here are not the official position of the IWW (or even the IWW's EUC)<br>and do not necessarily represent the views of anyone but the author. |
+| The views expressed here are not the official position of the IWW (or even the IWW's EUC)
+and do not necessarily represent the views of anyone but the author. |

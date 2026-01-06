@@ -1,3 +1,8 @@
+---
+title: "**Book Review: The Dawn of Everything: A New History of Humanity**"
+category: "arts-culture-music"
+---
+
 # **Book Review: The Dawn of Everything: A New History of Humanity**
 
 **Date:** Sat, 08/05/2023 - 00:00 **Source:** https://ecology.iww.org/node/5804**Tags:** ecological movements and organizations, anarchism, libertarian-socialism, green-anarchism, ecosocialism, David Graeber, Dan Fischer By Dan Fischer - Interface Journal , August 5, 2023 David Graeber and David Wengrow, 2021, The Dawn of Everything: A New History of Humanity . New York: Farrar, Straus and Giroux (750 pp., hardcover, \$35). In The Dawn of Everything , the late anthropologist David Graeber and archaeologist David Wengrow reexamine societies of the deep past and revisit unjustly neglected theories of feminist scholars to produce a riveting account of human societies from the Paleolithic to the Enlightenment.
@@ -120,16 +125,22 @@ We don't need to wait for Star Trek technology to replicate the mobility and abu
 
 Getting unstuck involves the creation of alternatives for those who wish to leave an exploitative relationship, be it with a boss, a landlord, a husband, or whomever else.
 
-| Grassroots institutions—from Maker Spaces and community gardens to communal living<br>arrangements and worker cooperatives, through such projects as the Global Ecovillage<br>Network |
+| Grassroots institutions—from Maker Spaces and community gardens to communal living
+arrangements and worker cooperatives, through such projects as the Global Ecovillage
+Network |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | , |
-| and Right to the City Alliance—provide paths for people seeking to live, as Paleolithic humans<br>did for millennia, outside exploitative relations of (re)production. |
+| and Right to the City Alliance—provide paths for people seeking to live, as Paleolithic humans
+did for millennia, outside exploitative relations of (re)production. |
 | [5] |
-| As in the past, women and egalitarians are at the forefront of social transformation. A longtime<br>Wobbly, Graeber would have recognized the future being built in the old world's shell. |
+| As in the past, women and egalitarians are at the forefront of social transformation. A longtime
+Wobbly, Graeber would have recognized the future being built in the old world's shell. |
 | [6] |
 | Notes: |
 | [1] |
-| Although Graeber and Wengrow cite Chris Knight, the correct attribution should have been to<br>his former student: Morna Finnegan's "The politics of Eros: ritual dialogue and egalitarianism<br>in three Central African hunter-gatherer societies," |
+| Although Graeber and Wengrow cite Chris Knight, the correct attribution should have been to
+his former student: Morna Finnegan's "The politics of Eros: ritual dialogue and egalitarianism
+in three Central African hunter-gatherer societies," |
 | Journal of the Royal Anthropological Institute |
 | 19 (2013): 697-715. |
 ## | [2] |
@@ -177,8 +188,10 @@ The Evolution of Hominid Diets: Integrating Approaches to the Study of Palaeolit
 | https://www.washingtonpost.com/wp-dyn/content/article/2007/02/22/AR20070|
 | |
 | Reviewer bio: |
-| Dan Fischer is a social studies teacher, a Food Not Bombs volunteer, and an editorial board<br>member of New Politics. He can be reached at |
+| Dan Fischer is a social studies teacher, a Food Not Bombs volunteer, and an editorial board
+member of New Politics. He can be reached at |
 | dfischer@riseup.net |
 | |
 | Disclaimer: |
-| The views expressed here are not the official position of the IWW (or even the IWW's EUC)<br>and do not necessarily represent the views of anyone but the author. |
+| The views expressed here are not the official position of the IWW (or even the IWW's EUC)
+and do not necessarily represent the views of anyone but the author. |

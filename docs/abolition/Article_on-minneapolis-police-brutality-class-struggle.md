@@ -1,13 +1,8 @@
 ---
-title: On Minneapolis Police Brutality Class Struggle
-date: 2025
-author: Karl Marx
-tags:
-  - organizing
-  - strikes
-  - rent
-  - police
-  - labor
+title: "On Minneapolis Police Brutality Class Struggle"
+author: "Karl Marx"
+date: "2025"
+category: "abolition"
 ---
 
 # On Minneapolis Police Brutality Class Struggle

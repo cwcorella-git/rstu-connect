@@ -1,13 +1,8 @@
 ---
-title: The Italian General Strike
-date: 2025
-author: Jon Bekken
-tags:
-  - organizing
-  - strikes
-  - unions
-  - rent
-  - labor
+title: "The Italian General Strike"
+author: "Jon Bekken"
+date: "2025"
+category: "labor"
 ---
 
 # The Italian General Strike

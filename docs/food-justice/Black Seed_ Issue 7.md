@@ -1,3 +1,8 @@
+---
+title: "**Various Authors**"
+category: "food-justice"
+---
+
 # **Various Authors**
 
 # **Black Seed: Issue 7**
@@ -989,12 +994,12 @@ Unist'ot'en Camp has entered into one of its most difficult standoffs with energ
 
 ## Free
 
-[<sup>\[1\]</sup>](#page-45-1) Voyer uses the word exchange in its more antiquated sense referring to the union of human communication and the exchange of material goods. The rise of commerce has eliminated this antiquated understanding of exchange which Voyer considers the "human activity par excellence."
+[\[1\]](#page-45-1) Voyer uses the word exchange in its more antiquated sense referring to the union of human communication and the exchange of material goods. The rise of commerce has eliminated this antiquated understanding of exchange which Voyer considers the "human activity par excellence."
 
-[<sup>\[2\]</sup>](#page-48-1) "The difference between ancient society, modernism, and post-modernism is this: the ancients knew that they believed, the modernists believed that they knew, and the postmodernists believe that they don't believe in anything anymore. It is precisely this latter belief that we have to destroy." *Demotivational Training* p11-12
+[\[2\]](#page-48-1) "The difference between ancient society, modernism, and post-modernism is this: the ancients knew that they believed, the modernists believed that they knew, and the postmodernists believe that they don't believe in anything anymore. It is precisely this latter belief that we have to destroy." *Demotivational Training* p11-12
 
-[<sup>\[3\]</sup>](#page-50-1) According to Ellul, the situationists declined Ellul's application to join them because he was a Christian. This is probably another reason why people have ignored him.
+[\[3\]](#page-50-1) According to Ellul, the situationists declined Ellul's application to join them because he was a Christian. This is probably another reason why people have ignored him.
 
-[<sup>\[4\]</sup>](#page-50-2) "A 2005 poll of 69,000 people in North America revealed that a majority, 51%, can be classified as "technological pessimists," meaning that they are at best indifferent to modern technology, and at worst outright hostile toward it." found in David Skrabina's introduction to Technological Slavery. Forrester Research study, "The State of Consumers and Technology: Benchmark 2005."
+[\[4\]](#page-50-2) "A 2005 poll of 69,000 people in North America revealed that a majority, 51%, can be classified as "technological pessimists," meaning that they are at best indifferent to modern technology, and at worst outright hostile toward it." found in David Skrabina's introduction to Technological Slavery. Forrester Research study, "The State of Consumers and Technology: Benchmark 2005."
 
 Black Seed pobox 3920 Berkeley CA 94703 Editors: Dominique Ganawaabi, Aragorn!, Goat, dot matrix https://blackseed.anarchyplanet.org/

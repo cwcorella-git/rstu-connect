@@ -1,18 +1,29 @@
+---
+title: "## **The Speech Biden Won't Give**"
+category: "contemporary-analysis"
+---
+
 ## **The Speech Biden Won't Give**
 
 | Date: Wed, 11/01/2023 - 00:00 |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Source: https://ecology.iww.org/node/6102|
-| Tags: Palestine, Joe Biden, imperialism, international solidarity, United States of America (USA),<br>anti-militarism |
+| Tags: Palestine, Joe Biden, imperialism, international solidarity, United States of America (USA),
+anti-militarism |
 | By Dan Fischer - |
 | Promoting Enduring Peace |
 | , November 2023 |
-| Nov. 11. President Biden could prevent many further Palestinian and Israeli deaths by giving<br>this speech insisting on an immediate ceasefire in Gaza along with a release of hostages. It<br>would be widely popular among the two-thirds of eligible voters—including 80% of Democrats,<br>57% of independents, and 56% of Republicans—who |
+| Nov. 11. President Biden could prevent many further Palestinian and Israeli deaths by giving
+this speech insisting on an immediate ceasefire in Gaza along with a release of hostages. It
+would be widely popular among the two-thirds of eligible voters—including 80% of Democrats,
+57% of independents, and 56% of Republicans—who |
 | favor a ceasefire |
 | |
-| It's unlikely that Biden will give such a speech, since he sees Israel as an enforcer for the U. S.<br>and global elite. Thus, massacres will likely continue and the " |
+| It's unlikely that Biden will give such a speech, since he sees Israel as an enforcer for the U. S.
+and global elite. Thus, massacres will likely continue and the " |
 | genocide |
-| " designation could become less and less ambiguous. If there's anything that might force<br>Biden to stop the bloodshed, it's the peaceful uprisings worldwide demanding mutual security |
+| " designation could become less and less ambiguous. If there's anything that might force
+Biden to stop the bloodshed, it's the peaceful uprisings worldwide demanding mutual security |
 
 and a swift transition to a democracy between the Jordan River and Mediterranean Sea.
 
@@ -30,33 +41,43 @@ My fellow Americans, I apologize for not being more honest with you. Over the pa
 
 | not seen them |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| and was relying on the words of Israeli officials. I accused Hamas of routinely using "human<br>shields," although Amnesty International, Human Rights Watch, and UN fact-finders have |
+| and was relying on the words of Israeli officials. I accused Hamas of routinely using "human
+shields," although Amnesty International, Human Rights Watch, and UN fact-finders have |
 | time |
 | and |
 | again |
-| found no evidence supporting the claim. I disputed the integrity of the Gaza's Health Ministry<br>death toll estimates, despite their numbers being |
+| found no evidence supporting the claim. I disputed the integrity of the Gaza's Health Ministry
+death toll estimates, despite their numbers being |
 | historically reliable |
-| and even though my administration's assistant secretary Barbara Leaf had informed me the<br>death toll could be |
+| and even though my administration's assistant secretary Barbara Leaf had informed me the
+death toll could be |
 | significantly |
 | higher. |
-| I should have forthrightly told the Israelis that recent history suggests that Hamas won't likely<br>be defeated by military means. Gazan support for Hamas significantly increased after Israel's<br>bombardments in |
+| I should have forthrightly told the Israelis that recent history suggests that Hamas won't likely
+be defeated by military means. Gazan support for Hamas significantly increased after Israel's
+bombardments in |
 
 ## 2014
 
 | and |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2021 |
-| . There's nothing like war and massacre to harden one's heart. As Palestinian anti-Hamas<br>activist Rami Aman has explained, Israeli missiles are " |
+| . There's nothing like war and massacre to harden one's heart. As Palestinian anti-Hamas
+activist Rami Aman has explained, Israeli missiles are " |
 | creating more Hamas |
 | , |
 | more Hamas more Hamas." |
-| I have failed to denounce the frankly genocidal incitement coming out of the mouths of Israeli<br>leaders. I should have spoken up when Netanyahu |
+| I have failed to denounce the frankly genocidal incitement coming out of the mouths of Israeli
+leaders. I should have spoken up when Netanyahu |
 | invoked |
-| a Biblical instruction to "slay both man and woman, infant and suckling" and when President<br>Isaac Herzog |
+| a Biblical instruction to "slay both man and woman, infant and suckling" and when President
+Isaac Herzog |
 | declared |
-| , "It is an entire nation out there that is responsible." I should have said something when<br>Defense Minister Yoav Gallant |
+| , "It is an entire nation out there that is responsible." I should have said something when
+Defense Minister Yoav Gallant |
 | dehumanized |
-| Palestinians as "human animals" and military spokesperson Daniel Hagari explained "the<br>emphasis is on damage and not accuracy." I should have voiced outrage when the |
+| Palestinians as "human animals" and military spokesperson Daniel Hagari explained "the
+emphasis is on damage and not accuracy." I should have voiced outrage when the |
 
 New York Times reported "Israeli leaders believed mass civilian casualties were an acceptable price," and officials cited "the dropping of the two atomic warheads in Hiroshima and Nagasaki" as a model. In truth, Israel has clearly been committing war crimes with U. S. weaponry and support. This will no longer happen. Collective punishment, disproportionate attacks, targeting of civilians, and use of white phosphorus will no longer be tolerated. The vicious cycle of bloodshed and bitterness needs to end. In the words of
 

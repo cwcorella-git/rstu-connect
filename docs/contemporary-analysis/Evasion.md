@@ -1,3 +1,8 @@
+---
+title: "**Anonymous**"
+category: "contemporary-analysis"
+---
+
 # **Anonymous**
 
 # **Evasion**
@@ -2570,4 +2575,4 @@ After two weeks, I knew it was time to leave La Jolla. But I wanted to make my r
 
 Well, it all just seemed like I had won, you know? I checked my maps. No, this was just the beginning…
 
-Retrieved on 9th September 2020 from [<archive.org/details/](https://archive.org/details/Evasion_crimethinc) [Evasion\\_crimethinc>](https://archive.org/details/Evasion_crimethinc)
+Retrieved on 9th September 2020 from [](https://archive.org/details/Evasion_crimethinc)

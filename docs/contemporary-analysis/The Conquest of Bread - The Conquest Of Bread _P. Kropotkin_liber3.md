@@ -1,3 +1,8 @@
+---
+title: "**The Conquest of Bread, by Peter Kropotkin**"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_2.jpeg)
 
 ## CHAPTER I

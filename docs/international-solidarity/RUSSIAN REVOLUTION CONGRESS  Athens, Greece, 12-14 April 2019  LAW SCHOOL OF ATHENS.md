@@ -1,3 +1,8 @@
+---
+title: "## **RUSSIAN REVOLUTION CONGRESS | Athens, Greece, 12-14 April 2019 | LAW SCHOOL OF ATHENS**"
+category: "international-solidarity"
+---
+
 ## **RUSSIAN REVOLUTION CONGRESS | Athens, Greece, 12-14 April 2019 | LAW SCHOOL OF ATHENS**
 
 ## **Date:** Unknown

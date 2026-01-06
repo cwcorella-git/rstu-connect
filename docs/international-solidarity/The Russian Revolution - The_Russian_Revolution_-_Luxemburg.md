@@ -1,3 +1,8 @@
+---
+title: "The Russian Revolution"
+category: "international-solidarity"
+---
+
 # The Russian Revolution
 
 ## ![](_page_0_Picture_1.jpeg)

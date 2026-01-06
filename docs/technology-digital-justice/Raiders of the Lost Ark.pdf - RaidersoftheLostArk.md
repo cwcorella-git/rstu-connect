@@ -1,3 +1,8 @@
+---
+title: "68 EXT. BETWEEN THE BUILDINGS - DAY 68"
+category: "technology-digital-justice"
+---
+
 #### RAIDERS OF THE LOST ARK
 
 ## Screenplay by Lawrence Kasdan
@@ -1993,7 +1998,8 @@ Indy looks back there, nods.
 
 I have much to tell you, Indy.
 
-| 80<br>************************************* | 79 | ************************************* PAGE 53 MISSING | 79 |
+| 80
+************************************* | 79 | ************************************* PAGE 53 MISSING | 79 |
 |---------------------------------------------|----|-------------------------------------------------------|----|
 ## | | | | 80 |
 

@@ -1,3 +1,8 @@
+---
+title: "The solar envelope: how to heat and cool cities without fossil fuels"
+category: "environmental-justice"
+---
+
 ### [lowtechmagazine.com](https://www.lowtechmagazine.com/2012/03/solar-oriented-cities-1-the-solar-envelope.html)
 
 # The solar envelope: how to heat and cool cities without fossil fuels

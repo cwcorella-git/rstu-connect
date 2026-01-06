@@ -1,3 +1,8 @@
+---
+title: "## **News from libertarian Spain**"
+category: "technology-digital-justice"
+---
+
 ## **News from libertarian Spain**
 
 ## **Date:** Unknown

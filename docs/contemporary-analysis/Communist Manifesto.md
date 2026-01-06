@@ -1,3 +1,8 @@
+---
+title: "*The Communist Manifesto*"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 # *The Communist Manifesto*

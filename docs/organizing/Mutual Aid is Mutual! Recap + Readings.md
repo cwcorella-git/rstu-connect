@@ -1,13 +1,10 @@
 ---
-title: Mutual Aid is Mutual! Recap + Readings
-date: 2023
-slug: Mutual Aid is Mutual! Recap + Readings
-reconversion_status: ready_for_reconversion
-tags:
-  - mutual aid
-  - organizing
-author: Unknown
+title: "Mutual Aid is Mutual! Recap + Readings"
+author: "Unknown"
+date: "2023"
+category: "organizing"
 ---
+
 ## **Mutual Aid is Mutual! Recap + Readings**
 
 | Date: 2023-10-11 |
@@ -18,7 +15,9 @@ author: Unknown
 | Since y'all stay asking me for resource lists. The |
 | here, damn! |
 | of it all. |
-| [Editor's note: I'ma tell you right now, the audio version of this newsletter-podcast ate the<br>written version up and licked the crumbs off the plate. I recommend you listen to this one for<br>maximum effect.] |
+| [Editor's note: I'ma tell you right now, the audio version of this newsletter-podcast ate the
+written version up and licked the crumbs off the plate. I recommend you listen to this one for
+maximum effect.] |
 | if you buy a physical copy make sure to get it from |
 | verso books |
 | (not sponsored! buy it from wherever's radical/local/not fucking amazon <3) |
@@ -61,7 +60,8 @@ Watching the author talk about the book is always super helpful
 | my |
 | lenses on |
 | my |
-| observable world overshadow your lenses on your own. respond to and draw for me what you<br>see. |
+| observable world overshadow your lenses on your own. respond to and draw for me what you
+see. |
 | what does winning look like for you? how do you dream of your hands in this loving work? |
 | this is the process of learning together. |
 

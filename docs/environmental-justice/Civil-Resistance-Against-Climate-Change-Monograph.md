@@ -1,3 +1,8 @@
+---
+title: "Civil Resistance Against Climate Change"
+category: "environmental-justice"
+---
+
 # Civil Resistance Against Climate Change
 
 Robyn Gulliver, Kelly S. Fielding, Winnifred R. Louis
@@ -71,10 +76,14 @@ Robyn Gulliver, Kelly S. Fielding, Winnifred R. Louis
 | Movement Frameworks | 14 |
 | Great Turning Model | 15 |
 | Climate Insurgency Model | 17 |
-| The Political Process Model<br> | <br>18 |
+| The Political Process Model
+ | 
+18 |
 | Summary | 21 |
 | Chapter 2: The Australian Climate Change Civil Resistance Movement | 22 |
-| The Australian Context<br> | <br>23 |
+| The Australian Context
+ | 
+23 |
 | Data Collection, Methodology, and Analysis | 24 |
 | Climate Change Activism Within the Australian Environmental Movement | 26 |
 | The Emergence of Environmental and Climate Change Groups | 26 |
@@ -108,7 +117,8 @@ Robyn Gulliver, Kelly S. Fielding, Winnifred R. Louis
 | Investigating State Repression | 72 |
 | Disruptive Civil Resistance Tactics and Government Responses | 73 |
 | Insights and Key Findings on State Responses | 76 |
-| Chapter 5: Mapping Climate Change Civil Resistance<br>onto Movement Frameworks | 78 |
+| Chapter 5: Mapping Climate Change Civil Resistance
+onto Movement Frameworks | 78 |
 | Macy's Great Turning | 78 |
 | Component 1: Holding Actions, Resisting | 78 |
 | Component 2: Creating Alternative Structures | 79 |
@@ -131,23 +141,33 @@ Robyn Gulliver, Kelly S. Fielding, Winnifred R. Louis
 | Activists and Civil Society Groups | 86 |
 | Academics and Researchers | 88 |
 | External Actors: The Public and the International Community | 89 |
-| Final Remarks<br> | <br>91 |
+| Final Remarks
+ | 
+91 |
 | References | 92 |
 | Methodological Appendix | 102 |
-| Groups Database: Identication of Australian Groups Focusing<br>on Environmental Advocacy | 102 |
-| Campaigns and Outcomes Databases: Identication<br>of Climate Change-Related Campaigns and Their Outcomes | 104 |
-| Tactics Database: Categorization of All Tactics Used<br>by Environmental Groups in the Study Population | 104 |
-| Civil Resistance Tactics Database: Identication<br>and Categorization of Civil Resistance Tactics | 106 |
+| Groups Database: Identication of Australian Groups Focusing
+on Environmental Advocacy | 102 |
+| Campaigns and Outcomes Databases: Identication
+of Climate Change-Related Campaigns and Their Outcomes | 104 |
+| Tactics Database: Categorization of All Tactics Used
+by Environmental Groups in the Study Population | 104 |
+| Civil Resistance Tactics Database: Identication
+and Categorization of Civil Resistance Tactics | 106 |
 
 # Tables and Figures
 
 | TABLE 1. Categories and Examples of Civil Resistance | 8 |
 |--------------------------------------------------------------------------------------------------------------------------------------------------|----|
-| TABLE 2. Terms, Denitions, and Data Used in This Monograph<br><br> | 10 |
+| TABLE 2. Terms, Denitions, and Data Used in This Monograph
+
+ | 10 |
 | TABLE 3. Event Categories, Descriptions, and Examples | 25 |
 | TABLE 4. Organizational Status of Environmental Groups and Sub-Groups | 28 |
-| TABLE 5. Frequency of Words Related to Climate, Justice, Conservation,<br>and Sustainability Occurring on Environmental Group Websites | 29 |
-| TABLE 6. Climate Change Topics and Most Frequent Words<br>in Environmental Group Websites | 30 |
+| TABLE 5. Frequency of Words Related to Climate, Justice, Conservation,
+and Sustainability Occurring on Environmental Group Websites | 29 |
+| TABLE 6. Climate Change Topics and Most Frequent Words
+in Environmental Group Websites | 30 |
 | TABLE 7. Unique Civil Resistance Tactics, Ordered by Category, 2010–2019 | 35 |
 | TABLE 8. Number of Civil Resistance Tactics Promoted by Umbrella Groups | 38 |
 | TABLE 9. Outcomes of Climate Change Campaigns, 2017–2020 | 42 |
@@ -158,27 +178,39 @@ Robyn Gulliver, Kelly S. Fielding, Winnifred R. Louis
 | TABLE 14. Most Common Targets Identied in Facebook Event Text | 55 |
 | TABLE 15. Number of Secondary Targets by Sector | 57 |
 | TABLE 16. Selection of Wins Against Government Secondary Targets | 58 |
-| TABLE 17. The Divestment Campaign: Groups, Sub-Groups, Their Status,<br>Civil Resistance Tactics Used, and Number of Events Associated with Each | 61 |
-| TABLE 18. Range of Events Promoted in Divestment Campaign<br>(Including Cohosted Events) | 62 |
+| TABLE 17. The Divestment Campaign: Groups, Sub-Groups, Their Status,
+Civil Resistance Tactics Used, and Number of Events Associated with Each | 61 |
+| TABLE 18. Range of Events Promoted in Divestment Campaign
+(Including Cohosted Events) | 62 |
 | TABLE 19. Types of Civil Resistance Used in the Divestment Campaign | 63 |
-| TABLE 20. Australian Divestment Targets<br>and Announcements by Organization Type, 2015–2019 | 64 |
+| TABLE 20. Australian Divestment Targets
+and Announcements by Organization Type, 2015–2019 | 64 |
 | TABLE 21. Government Responses to Disruptive Civil Resistance | 74 |
 
-| TABLE 22. Mapping Data onto the Components<br>of the Great Turning | 78 |
+| TABLE 22. Mapping Data onto the Components
+of the Great Turning | 78 |
 |-------------------------------------------------------------------------------------------------|----|
-| TABLE 23. Mapping Data onto the Components<br>of the Climate Insurgency | 80 |
-| TABLE 24. Mapping Data onto the Components<br>of the Political Process Model | 82 |
+| TABLE 23. Mapping Data onto the Components
+of the Climate Insurgency | 80 |
+| TABLE 24. Mapping Data onto the Components
+of the Political Process Model | 82 |
 | FIGURE 1. Three Components of the Great Turning | 15 |
-| FIGURE 2. Great Turning Components<br>and Data to Be Mapped onto Each Component | 16 |
-| FIGURE 3. Climate Insurgency Components<br>and Data to Be Mapped onto Each Component | 18 |
-| FIGURE 4. Political Process Model Components<br>and Data to Be Mapped onto Each Component | 20 |
+| FIGURE 2. Great Turning Components
+and Data to Be Mapped onto Each Component | 16 |
+| FIGURE 3. Climate Insurgency Components
+and Data to Be Mapped onto Each Component | 18 |
+| FIGURE 4. Political Process Model Components
+and Data to Be Mapped onto Each Component | 20 |
 | FIGURE 5. Information Presented in This Chapter | 22 |
 | FIGURE 6. Emergence of Environmental Activism Groups in Australia | 27 |
-| FIGURE 7. Words Most Commonly Associated<br>with Climate Topics in Environmental Group Websites | 31 |
-| FIGURE 8. Comparison of Conventional<br>and Directed Network Campaign Structures | 32 |
+| FIGURE 7. Words Most Commonly Associated
+with Climate Topics in Environmental Group Websites | 31 |
+| FIGURE 8. Comparison of Conventional
+and Directed Network Campaign Structures | 32 |
 | FIGURE 9. All Unique Events by Group Category, 2010–2019 | 32 |
 | FIGURE 10. Types of Event Promoted by Environmental Groups | 33 |
-| FIGURE 11. Most Common Civil Resistance Tactics,<br>All Environmental Groups, 2010–2019 | 34 |
+| FIGURE 11. Most Common Civil Resistance Tactics,
+All Environmental Groups, 2010–2019 | 34 |
 | FIGURE 12. Climate Angels at Extinction Rebellion Declaration Day | 39 |
 | FIGURE 13. Location of the Galilee Basin, Queensland | 47 |
 | FIGURE 14. Stop Adani Logos at the School Strike for Climate Event | 52 |
@@ -234,7 +266,7 @@ The dataset isrst presented to provide an overview of the issues and activities 
 
 In this monograph we situate civil resistance under the umbrella term "activism " Entities engaging in activism can include any grassroots or civil society social mobilization organizations which seek to change or protect laws, policies, practices, powerholders, and structures of the state, corporate, and cultural spheres in any given society Activism can take many forms, with a large body of research grouping actions into two broad categories: conventional (or institutional) actions, and radical (or extra-institutional) actions (see Moskalenko and Mc Cauley 2009; Tausch et al 2011; Wright, Taylor, and Moghaddam 1990) Therst category encompasses actions using conventional or institutional channels to create social or political change; these include tactics such as lobbying, legal challenges, and educational events aiming to raise public awareness of a particular issue The second category comprises extra-institutional means such as violent actions and civil resistance, the latter of which uses nonviolent actions outside of conventional channels (Bartkowski and Merriman 2016)
 
-<sup>1</sup> The Adani coal mine is a large, proposed coal mine in northern Queensland which is controversial because of the extent to which it will increase carbon emissions and expand coal production (Russo 2018). Adani company changed its name to 'Bravus' in 2020, but for clarity we use the name 'Adani' throughout this Monograph. The campaign against the mine is the focus of our rst case study considered in Chapter 4.
+1 The Adani coal mine is a large, proposed coal mine in northern Queensland which is controversial because of the extent to which it will increase carbon emissions and expand coal production (Russo 2018). Adani company changed its name to 'Bravus' in 2020, but for clarity we use the name 'Adani' throughout this Monograph. The campaign against the mine is the focus of our rst case study considered in Chapter 4.
 
 Institutional channels of change—such as voting, lobbying, and litigation (Burkett 2016)—and extra-institutional violent and civil resistance tactics can all be potential parts of any movement's tactical repertoire We follow Véronique Dudouet's denition of civil resistance as presented in the ICNC Special Report, Powering to Peace: Integrated Civil Resistance and Peacebuilding Strategies She argues that "Civil resistance is an extra-institutional con ict-waging strategy in which organized grassroots movements use various, strategically sequenced and planned out, nonviolent tactics such as strikes, boycotts, marches, demonstrations, noncooperation, self-organizing and constructive resistance to ght perceived injustice without the threat or use of violence" (Dudouet 2017, 5) These nonviolent tactics can encompass both visible and invisible tactics that can be economic, social, and political in nature (Bartkowski and Merriman 2016)
 
@@ -250,35 +282,47 @@ Table 1. Categories and Examples of Civil Resistance (amended from Beer, 20212)
 
 | CATEGORY | SUBCATEGORY | TYPE | EXAMPLE |
 |---------------------------------|----------------------|------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
-| Acts of Omission<br>(not doing) | Social | | Ghost town (large portions of the population stay<br>home instead of going to work or school) |
+| Acts of Omission
+(not doing) | Social | | Ghost town (large portions of the population stay
+home instead of going to work or school) |
 | | Economic | Strikes | State-wide strikes |
-| | | Boycotts | Divestment (institutional separation from corpora<br>tions whose actions investors nd objectionable) |
+| | | Boycotts | Divestment (institutional separation from corpora
+tions whose actions investors nd objectionable) |
 | | Political | | Legislative obstruction (e.g., delaying a quorum) |
 | | Refraining | | Active abstention from a planned action |
 | Acts of Commission | Disruptive | Social | Public libuster |
-| (doing or creating) | | Physical | Parliamentary/legislature/council disruption (often<br>happens through shouting, singing, chanting) |
+| (doing or creating) | | Physical | Parliamentary/legislature/council disruption (often
+happens through shouting, singing, chanting) |
 | | | Economic | Business whistleblowing |
 | | | Psychological | Distributed denial of service (DDoS) |
 | | Creative | Social | Alternative social institutions |
 | | | Political/legal | Reverse trials |
 | | | Physical | Critical mass (e.g., cycling swarm along streets) |
 | | | Economic | Alternative economic institutions |
-| | | Psychological | Self-imposed transparency (deliberate organizational<br>transparency about ongoing aairs and issue) |
+| | | Psychological | Self-imposed transparency (deliberate organizational
+transparency about ongoing aairs and issue) |
 | Acts of Expression | Medium of electronic | Mass action | SMS/email/social media bombing |
-| (saying) | communication | Crowdsourcing<br>information | Sousveillance (covert surveillance by citizens, fre<br>quently of authorities) |
-| | | Creating online<br>digital content | Digital video and audio art |
-| | | Recording and<br>distributing news of<br>nonviolent action | Livestreaming |
+| (saying) | communication | Crowdsourcing
+information | Sousveillance (covert surveillance by citizens, fre
+quently of authorities) |
+| | | Creating online
+digital content | Digital video and audio art |
+| | | Recording and
+distributing news of
+nonviolent action | Livestreaming |
 | | Medium of language | | Call-in/phone march |
 | | Medium of person | Public assemblies | Coordinated worldwide demonstrations |
-| | | Rituals and<br>Traditions | Growing/shaving hair as protest |
-| | | Movements and<br>gestures | Human chain |
+| | | Rituals and
+Traditions | Growing/shaving hair as protest |
+| | | Movements and
+gestures | Human chain |
 | | | Performance | Wearing/displaying a single color |
 | | | Procession | Walks and treks |
 | | Medium of things | Sound/music | Drumming |
 | | | 2-Dimensional arts | Stickers |
 ## | | | 3-Dimensional arts | Costumes |
 
-<sup>2</sup> The example tactics listed in Table 1 were sourced from the online tactics list available on the Nonviolence International website: **https://tactics.nonviolenceinternational.net/dataset**
+2 The example tactics listed in Table 1 were sourced from the online tactics list available on the Nonviolence International website: **https://tactics.nonviolenceinternational.net/dataset**
 
 Beer makes four additions to Sharp's categorization First, he notes that acts of omission—not doing something that opponents of the action want them to do (e g , not buying goods as part of an economic boycott)—can be located in social, economic, and political contexts Second, he adds a category of refraining, which occurs when an action is called oto reward or persuade the target Third, Beer highlights how acts of commission— doing something that opponents of the action do not want them to do (e g , protests)—can be disruptive of the status quo or creative in attempting to shift toward a new future Some acts of commission (such as actions against perceived illegitimate laws) can take both disruptive and creative forms Illegal gatherings against COVID-19 lockdown regulations, for example, would be classied as disruptive Conversely, in 2019, Extinction Rebellion Australia held citizen's assemblies to protest the inadequate legislation currently governing Australia's climate change response and to develop alternative plans for reaching net zero carbon emissions These assemblies would be classied as creative acts of commission
 
@@ -292,13 +336,108 @@ Table 2 provides an overview of the data, as well as the terms and denitions use
 
 Table 2. Terms, Definitions, and Data Used in This Monograph
 
-| TERM | DEFINITION | DATA SOURCES AND<br>ACQUISITION PROCESSES | DATA ANALYSIS |
+| TERM | DEFINITION | DATA SOURCES AND
+ACQUISITION PROCESSES | DATA ANALYSIS |
 |---------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Environmental<br>Activism Group | Activism is operationalized<br>through following the Aus<br>tralian legal denition of ad<br>vocacy: "activities which are<br>aimed at securing or opposing<br>any change to a law, policy<br>or practice in the Common<br>wealth, a state or territory, or<br>another country" (Australian<br>Government 2012, 1). | A search of online and government databases<br>and networks was undertaken, from which a<br>Group Database composed of 728 Australian<br>groups focusing on environmental activism<br>was constructed. We were able to scrape<br>website full text from 492 of these groups; the<br>remaining 237 had Facebook pages or public<br>groups. | The website content<br>from each of the 492<br>groups was download<br>ed and coded for key<br>characteristics such as<br>their primary issue, cam<br>paigns, and events. |
-| Campaign | A campaign is "a connected<br>series of operations designed<br>to bring about a particular re<br>sult" (Merriam-Webster 2021). | The website content from each group in the<br>Group Database was read to identify cam<br>paign names, issues, goals, and targets for<br>the Campaigns Database. | The climate change<br>related campaigns<br>identied through the<br>website text were coded<br>for campaign target and<br>goal. |
-| Tactics | Tactics are "an action or<br>strategy carefully planned<br>to achieve a specic end"<br>(Oxford Dictionary 2020).<br>Each event type promoted by<br>environmental groups in the<br>dataset represents a single<br>tactic. | All events promoted on the public Facebook<br>pages operated by the groups in the Group<br>Database were copied to create the Tactics<br>Database. We also created two subsets of<br>tactics used in the Stop Adani and Divestment<br>case studies. | A subset of tactics<br>focusing on climate<br>change was created.<br>This subset included<br>all events organized by<br>climate change groups<br>and all events related to<br>climate change. |
-| Civil Resistance<br>Tactics | "Acts of commission, whereby<br>people do what they are not<br>supposed to do, not expected<br>to do, or forbidden by law<br>from doing; acts of omissions,<br>whereby people do not do<br>what they are supposed to<br>do, are expected to do, or are<br>required by law to do; or a<br>combination of acts of com<br>mission and omission" (Sharp<br>1973, 68). | All tactics in the Tactics Database were<br>reviewed to identify those which t Beer's<br>(2021) categorization of the three types of<br>nonviolent actions (see Table 1): Commis<br>sion, Omission, and Expression. These were<br>compiled into the Civil Resistance Tactics<br>Database. | All civil resistance<br>tactics in the Civil<br>Resistance Tactics<br>Database were grouped<br>into categories, with<br>results presented in the<br>relevant monograph<br>sections. |
-| Outcome | "The clearly dened, decisive<br>and achievable changes in<br>social actors, i.e., individuals,<br>groups, organizations or insti<br>tutions that will contribute to<br>the overall campaign goal(s)"<br>(UN Women 2012, 1). | Internet searches for any outcomes associat<br>ed with campaigns (including on the groups'<br>own websites) were undertaken, with infor<br>mation found compiled into the Outcomes<br>Database. | All online information<br>found which related to a<br>campaign outcome was<br>read to code whether<br>the campaign goal or<br>sub-goal had been suc<br>cessfully achieved. |
+| Environmental
+Activism Group | Activism is operationalized
+through following the Aus
+tralian legal denition of ad
+vocacy: "activities which are
+aimed at securing or opposing
+any change to a law, policy
+or practice in the Common
+wealth, a state or territory, or
+another country" (Australian
+Government 2012, 1). | A search of online and government databases
+and networks was undertaken, from which a
+Group Database composed of 728 Australian
+groups focusing on environmental activism
+was constructed. We were able to scrape
+website full text from 492 of these groups; the
+remaining 237 had Facebook pages or public
+groups. | The website content
+from each of the 492
+groups was download
+ed and coded for key
+characteristics such as
+their primary issue, cam
+paigns, and events. |
+| Campaign | A campaign is "a connected
+series of operations designed
+to bring about a particular re
+sult" (Merriam-Webster 2021). | The website content from each group in the
+Group Database was read to identify cam
+paign names, issues, goals, and targets for
+the Campaigns Database. | The climate change
+related campaigns
+identied through the
+website text were coded
+for campaign target and
+goal. |
+| Tactics | Tactics are "an action or
+strategy carefully planned
+to achieve a specic end"
+(Oxford Dictionary 2020).
+Each event type promoted by
+environmental groups in the
+dataset represents a single
+tactic. | All events promoted on the public Facebook
+pages operated by the groups in the Group
+Database were copied to create the Tactics
+Database. We also created two subsets of
+tactics used in the Stop Adani and Divestment
+case studies. | A subset of tactics
+focusing on climate
+change was created.
+This subset included
+all events organized by
+climate change groups
+and all events related to
+climate change. |
+| Civil Resistance
+Tactics | "Acts of commission, whereby
+people do what they are not
+supposed to do, not expected
+to do, or forbidden by law
+from doing; acts of omissions,
+whereby people do not do
+what they are supposed to
+do, are expected to do, or are
+required by law to do; or a
+combination of acts of com
+mission and omission" (Sharp
+1973, 68). | All tactics in the Tactics Database were
+reviewed to identify those which t Beer's
+(2021) categorization of the three types of
+nonviolent actions (see Table 1): Commis
+sion, Omission, and Expression. These were
+compiled into the Civil Resistance Tactics
+Database. | All civil resistance
+tactics in the Civil
+Resistance Tactics
+Database were grouped
+into categories, with
+results presented in the
+relevant monograph
+sections. |
+| Outcome | "The clearly dened, decisive
+and achievable changes in
+social actors, i.e., individuals,
+groups, organizations or insti
+tutions that will contribute to
+the overall campaign goal(s)"
+(UN Women 2012, 1). | Internet searches for any outcomes associat
+ed with campaigns (including on the groups'
+own websites) were undertaken, with infor
+mation found compiled into the Outcomes
+Database. | All online information
+found which related to a
+campaign outcome was
+read to code whether
+the campaign goal or
+sub-goal had been suc
+cessfully achieved. |
 
 # Monograph Structure
 
@@ -424,7 +563,7 @@ A range of tools were then used to analyze each of the four components of this d
 
 Using an Excel macro, events were categorized into types by the event title For example, 1,622 events had the words "lm," "movie," or "screening" in their title and were categorized as "lm screenings " Each of these event types was then grouped into one of the ve
 
-<sup>3</sup> The full methodology details are available in the Appendix.
+3 The full methodology details are available in the Appendix.
 
 overarching categories shown in Table 3 Following this, the civil resistance actions were then manually reviewed and matched against Beer's (2021) typology of nonviolent action, as shown in Table 1
 
@@ -432,11 +571,33 @@ Table 3. Event Categories, Descriptions, and Examples
 
 | EVENT GROUP | DESCRIPTION | EXAMPLES |
 |----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
-| Information sharing<br>activities | These are events where the main goal is to pro<br>vide information to participants about a particu<br>lar issue or topic | Film screenings<br>Book discussions<br>Candidate forums |
-| Eco-activities | These events involve a hands-on component with<br>an environmental purpose | Rubbish clean-up activities<br>Permaculture workshops<br>Tree planting activities |
-| Meetings and administra<br>tion events | These events involve bringing individuals togeth<br>er to undertake planning or regular meetings | Campaign catch up<br>Annual general meeting (AGM)<br>Working group meeting |
-| Social and fundraising<br>events | These events can be those organized purely for<br>socializing with other group members or for fund<br>raising for group or campaign activities | Christmas party<br>Comedy night<br>Fundraising gig<br>Games night |
-| Civil resistance tactics | These events include those related to civil<br>resistance tactics, namely acts of commission,<br>omission, and expression. | Rally<br>Climate strike<br>Blockade |
+| Information sharing
+activities | These are events where the main goal is to pro
+vide information to participants about a particu
+lar issue or topic | Film screenings
+Book discussions
+Candidate forums |
+| Eco-activities | These events involve a hands-on component with
+an environmental purpose | Rubbish clean-up activities
+Permaculture workshops
+Tree planting activities |
+| Meetings and administra
+tion events | These events involve bringing individuals togeth
+er to undertake planning or regular meetings | Campaign catch up
+Annual general meeting (AGM)
+Working group meeting |
+| Social and fundraising
+events | These events can be those organized purely for
+socializing with other group members or for fund
+raising for group or campaign activities | Christmas party
+Comedy night
+Fundraising gig
+Games night |
+| Civil resistance tactics | These events include those related to civil
+resistance tactics, namely acts of commission,
+omission, and expression. | Rally
+Climate strike
+Blockade |
 
 Finally, the chapter reports on climate change campaign outcomes In total, 906 campaigns were identied through an analysis of the website text of the 492 groups Of these, 193 campaigns focused on an issue related to climate change Each campaign was reviewed to identify the campaign goal and target An online search for campaign outcomes was then completed to identify which climate campaigns had achieved success Although we are able through this approach to identify which goals had been achieved, the limitations of the data mean that we are unable to state whether it was the activities of the group or campaign that caused a particular outcome
 
@@ -470,31 +631,45 @@ As the right-hand column of Table 4 shows, 305 groups have no formal charitable 
 
 Table 4. Organizational Status of Environmental Groups and Sub-Groups
 
-| ORGANIZATIONAL | N | WITH CHARITABLE STATUS | | | WITHOUT CHARITABLE<br>STATUS | | NO<br>FORMAL<br>STATUS |
+| ORGANIZATIONAL | N | WITH CHARITABLE STATUS | | | WITHOUT CHARITABLE
+STATUS | | NO
+FORMAL
+STATUS |
 |---------------------------------------------------------------|-----|------------------------|---------|-----------------------------|------------------------------|---------|------------------------|
-| STATUS* | | DGR<br>Status** | Company | Incorporated<br>Association | Incorporated<br>Association | Company | |
-| Tax refund for donations over<br>AU\$2 | |  | x | x | x | x | x |
-| Access to tax concessions and<br>other concessions/exemptions | |  |  |  | x | x | x |
-| Receive and spend nancial<br>resources | |  |  |  |  |  | x |
-| Required to le records with<br>federal/state governments | |  |  |  |  |  | x |
-| Individuals are personally<br>liable for claims | | x | x | x | x | x |  |
+| STATUS* | | DGR
+Status** | Company | Incorporated
+Association | Incorporated
+Association | Company | |
+| Tax refund for donations over
+AU\$2 | |  | x | x | x | x | x |
+| Access to tax concessions and
+other concessions/exemptions | |  |  |  | x | x | x |
+| Receive and spend nancial
+resources | |  |  |  |  |  | x |
+| Required to le records with
+federal/state governments | |  |  |  |  |  | x |
+| Individuals are personally
+liable for claims | | x | x | x | x | x |  |
 | Advocate direct action4 | | x | x | x | x | x |  |
-| Promote or oppose a political<br>party or candidate | | x | x | x | x | x |  |
-| Environmental umbrella<br>groups | 263 | 86 | 3 | 120 | 59 | 9 | 72 |
+| Promote or oppose a political
+party or candidate | | x | x | x | x | x |  |
+| Environmental umbrella
+groups | 263 | 86 | 3 | 120 | 59 | 9 | 72 |
 | Environmental sub-groups | 83 | 53 | - | 71 | - | 4 | 8 |
-| Climate change umbrella<br>groups | 183 | 20 | 2 | 34 | 34 | 8 | 105 |
+| Climate change umbrella
+groups | 183 | 20 | 2 | 34 | 34 | 8 | 105 |
 | Climate change sub-groups | 199 | 52 | - | 53 | - | 26 | 120 |
 ## | Total | 728 | 211 | 5 | 278 | 93 | 47 | 305 |
 
-**<sup>\*</sup> Note: This table is a simplied overview of the complex legislation surrounding not-for-prot organizational status in Australia. Each criterion is therefore subject to caveats in practice.**
+**\* Note: This table is a simplied overview of the complex legislation surrounding not-for-prot organizational status in Australia. Each criterion is therefore subject to caveats in practice.**
 
 However, there are also considerable risks to groups engaging in activism without formal status under Australian law These groups may struggle to acquire and managenancial resources (unless individuals acquire it on their behalf), they are unable to apply for grants or pay sta, and they also face increased personal liability for any negative outcomes such as property damage or personal injury 5 Thus, groups must weigh a dicult decision whether to obtain formal organizational status
 
-**<sup>\*\*</sup> DGR: Deductible Gift Recipient status. Entities with DGR status can receive tax deductible gifts.**
+**\*\* DGR: Deductible Gift Recipient status. Entities with DGR status can receive tax deductible gifts.**
 
-<sup>4</sup> In Australia, advocating illegal activities or engaging in political electioneering is prohibited for organizations with charitable status. The Australian Federal Government has, for example, denied charitable status registration to Greenpeace in 2018 (Murray 2019), and undertaken sustained eorts to achieve electoral legislation reform, investigate environmental organizations, and question the ACNC regarding charity electioneering (Murray, 2019).
+4 In Australia, advocating illegal activities or engaging in political electioneering is prohibited for organizations with charitable status. The Australian Federal Government has, for example, denied charitable status registration to Greenpeace in 2018 (Murray 2019), and undertaken sustained eorts to achieve electoral legislation reform, investigate environmental organizations, and question the ACNC regarding charity electioneering (Murray, 2019).
 
-<sup>5</sup> See **ourcommunity.com.au** for more information regarding personal liability.
+5 See **ourcommunity.com.au** for more information regarding personal liability.
 
 Table 4 shows that the majority of informal groups (225 out of 305) are focused on climate change A total of 105 of these act as umbrella groups (e g , Stop Adani) with 120 sub-groups (e g , Stop Adani Brisbane) between them This suggests that the climate change movement is emerging through grassroots structures without formal organizational status and is connected through networks of umbrella and sub-groups This may be benecial in that it eliminates the need for burdensome administration and reporting (required by groups with formal organizational status) The interconnected structure of many of these grassroots groups may also encourage sharing campaign design and implementation tasks, whereas independent groups with formal organizational status may require proprietary or branded materials
 
@@ -513,7 +688,8 @@ Table 5. Frequency of Words Related to Climate, Justice, Conservation, and Susta
 | Mining | 37 | 0.09% | 0.00% | 0.03% | 0.04% | |
 | Renewable energy | 32 | 0.12% | 0.00% | 0.03% | 0.17% | |
 | Sustainability | 64 | 0.18% | 0.01% | 0.05% | 0.53% | |
-| Conservation, waste, nuclear &<br>pollution | 276 | 0.05% | 0.01% | 0.12% | 0.09% | |
+| Conservation, waste, nuclear &
+pollution | 276 | 0.05% | 0.01% | 0.12% | 0.09% | |
 | Average | 492 | 0.33% | 0.01% | 0.06% | 0.21% | |
 
 Table 5 indicates that the word "climate" was used more frequently in climate change-focused groups, as was "conservation" in conservation groups The word "sustainability" was used frequently across all groups, excluding those focused on mining The word "justice" was rarely used but did occur at low frequencies on the websites of groups focusing on climate
@@ -522,19 +698,24 @@ Topic modeling using R Topic Models package (Grün and Hornik 2011) was then und
 
 Table 6. Climate Change Topics and Most Frequent Words in Environmental Group Websites
 
-| TOPIC | WORDS | NUMBER OF WEBSITES WITH<br>TOPIC COOCCURRENCE |
+| TOPIC | WORDS | NUMBER OF WEBSITES WITH
+TOPIC COOCCURRENCE |
 |------------------|---------------------------------------------------------------------------------------------------|------------------------------------------------|
-| Climate + mine | Mine, community, campaign, coal, Australia, nuclear,<br>action, water, people, support, energy | 86 (17%) |
-| Climate + health | Protect, health, report, Queensland, member, donate,<br>change, nation, policy, media, submission | 16 (3%) |
-| Climate + nance | Coal, Australia, fossil, company, fuel, fund, super, invest,<br>Adani, change, global | 7 (1%) |
-| Climate + reef | Cairns, event, reef, donate, develop, plastic, sustain, man<br>grove, dredge, community, clean | 5 (1%) |
+| Climate + mine | Mine, community, campaign, coal, Australia, nuclear,
+action, water, people, support, energy | 86 (17%) |
+| Climate + health | Protect, health, report, Queensland, member, donate,
+change, nation, policy, media, submission | 16 (3%) |
+| Climate + nance | Coal, Australia, fossil, company, fuel, fund, super, invest,
+Adani, change, global | 7 (1%) |
+| Climate + reef | Cairns, event, reef, donate, develop, plastic, sustain, man
+grove, dredge, community, clean | 5 (1%) |
 ## | Total | | 114 (23%) |
 
 Figure 7 visualizes how environmental groups in Australia are framing the issue of climate change on their websites 6 This word cloud presents the 35 most common words associated with climate change across the four topics identied in Table 6
 
 The size of the words indicates their prevalence within the four topics Across all topics the most common words associated with climate change were "donate" and "energy "
 
-<sup>6</sup> This word cloud was generated by the authors using **www.wordart.com**.
+6 This word cloud was generated by the authors using **www.wordart.com**.
 
 ## ![](_page_40_Figure_0.jpeg)
 
@@ -582,7 +763,11 @@ Table 7. Unique Civil Resistance Tactics, Ordered by Category, 2010–2019
 
 | | | MOST COMMON | | TOTAL NUMBER | | |
 |--------------------|------------------|-------------------------------------------|-------------|-------------------------------------|------------------|--|
-| CATEGORY | SUB<br>CATEGORY | Civil Resistance Tactics<br>(Most Common) | N | Climate<br>Change-Related<br>Groups | All Other Groups | |
+| CATEGORY | SUB
+CATEGORY | Civil Resistance Tactics
+(Most Common) | N | Climate
+Change-Related
+Groups | All Other Groups | |
 | Acts of Omission | Social | Climate strike | 184 (5%) | 349 (9%) | 19 (1%) | |
 | | | School strike | 131 (4%) | | | |
 | | | School walkout | 24 (1%) | | | |
@@ -655,10 +840,17 @@ In addition to the National Civil Society Strategy for a New Economy, the NENA a
 
 Table 8. Number of Civil Resistance Tactics Promoted by Umbrella Groups
 
-| GROUP | ORGANIZATIONAL<br>STATUS | CIVIL RESISTANCE<br>TACTICS | TOTAL<br>EVENTS | NUMBER OF<br>SUBGROUPS<br>APRIL 2020 | FOUNDING<br>YEAR |
+| GROUP | ORGANIZATIONAL
+STATUS | CIVIL RESISTANCE
+TACTICS | TOTAL
+EVENTS | NUMBER OF
+SUBGROUPS
+APRIL 2020 | FOUNDING
+YEAR |
 |---------------------------------------|--------------------------|-----------------------------|-----------------|-----------------------------------------|------------------|
 | Extinction Rebellion | None | 1,256 | 3,895 | 77 | 2018 |
-| Australian Youth Climate<br>Coalition | Charity | 834 | 4,818 | 56 | 2006 |
+| Australian Youth Climate
+Coalition | Charity | 834 | 4,818 | 56 | 2006 |
 | Stop Adani | None | 552 | 1,687 | 126 | 2016 |
 | School Strike for Climate | None | 372 | 575 | 1 | 2018 |
 | Knitting Nanas | None | 217 | 435 | 34 | 2012 |
@@ -719,7 +911,19 @@ Table 9. Outcomes of Climate Change Campaigns, 2017–2020
 
 | | | TARGET | | | | | |
 |----------------------|-----------------------------|--------------------|---------------------|-------------------|------------------|---------------------------------|-------------------------------|
-| CAMPAIGN<br>OUTCOME | TOTAL<br>CAMPAIGNS<br>N % | Political<br>N (%) | Individual N<br>(%) | Business<br>N (%) | Unknown<br>N (%) | Com<br>munity<br>Group<br>N (%) | Health/<br>Education<br>N (%) |
+| CAMPAIGN
+OUTCOME | TOTAL
+CAMPAIGNS
+N % | Political
+N (%) | Individual N
+(%) | Business
+N (%) | Unknown
+N (%) | Com
+munity
+Group
+N (%) | Health/
+Education
+N (%) |
 | Successful | 46 (24%) | 28 (28%) | 7 (17%) | 9 (31%) | 2 (11%) | - | - |
 | Partially Successful | 34 (18%) | 19 (19%) | 4 (10%) | 9 (31%) | 1 (6%) | - | 1 (50%) |
 | Unsuccessful | 49 (25%) | 35 (35%) | 3 (7%) | 2 (7%) | 8 (44%) | 1 (50%) | - |
@@ -732,10 +936,15 @@ Table 10. Examples of Campaign Goals, Targets, and Outcomes
 
 | GROUP | CAMPAIGN GOAL | CAMPAIGN TARGET | OUTCOME |
 |--------------------------|------------------------------------------------------------------------------------------------------------------|--------------------------------|--------------|
-| Solar Citizens | Reject SA Power Network's application to<br>charge unfair fees to solar owners | SA Power Networks (businesses) | Success |
-| Quit Coal | Commit to the closure of Hazelwood, a coal<br>power station in Victoria | Victorian State Government | Success |
+| Solar Citizens | Reject SA Power Network's application to
+charge unfair fees to solar owners | SA Power Networks (businesses) | Success |
+| Quit Coal | Commit to the closure of Hazelwood, a coal
+power station in Victoria | Victorian State Government | Success |
 | Stop CSG | Stop Santos CSG in the Pillaga | Santos (business) | Unsuccessful |
-| The Transition<br>Decade | Mobilize whole communities through a com<br>munication and partnership strategy, inform<br>and activate citizens | Individuals | Unknown |
+| The Transition
+Decade | Mobilize whole communities through a com
+munication and partnership strategy, inform
+and activate citizens | Individuals | Unknown |
 
 # Key Insights and Discussion
 
@@ -813,23 +1022,31 @@ The Stop Adani campaign is a directed network campaign As such, it is composed o
 
 Given the complexity of this directed network campaign and the multitude of groups and activities involved, data was acquired to address four areas: groups active within the campaign, the tactics they are using, their campaign targets, and the outcomes they are achieving This data was acquired from three sources Weltered our database of groups and actions to select only those active in the Stop Adani campaign We also gathered information on the secondary targets and outcomes of the campaign from the Stop Adani and Market Forces websites 7
 
-<sup>7</sup> **http://www.marketforces.org.au**.
+7 **http://www.marketforces.org.au**.
 
 Table 11. Groups Involved in the Stop Adani Campaign
 
-| | | | EVENTS FOCUSING ON ADANI<br>CAMPAIGN | | |
+| | | | EVENTS FOCUSING ON ADANI
+CAMPAIGN | | |
 |-----------------------------------------------------|-------------------------|---------------------|--------------------------------------|------------------------------|--|
-| GROUP | NUMBER OF<br>SUBGROUPS | ORGANIZATIONAL TYPE | CIVIL RESISTANCE<br>TACTICS | TOTAL<br>NUMBER OF<br>EVENTS | |
+| GROUP | NUMBER OF
+SUBGROUPS | ORGANIZATIONAL TYPE | CIVIL RESISTANCE
+TACTICS | TOTAL
+NUMBER OF
+EVENTS | |
 | Stop Adani | 126 | No formal status | 552 | 1,687 | |
-| Australian Youth Climate<br>Coalition | 12 | Charity | 311 | 497 | |
+| Australian Youth Climate
+Coalition | 12 | Charity | 311 | 497 | |
 | Galilee Blockade | - | No formal status | 121 | 184 | |
 | Extinction Rebellion | 10 | No formal status | 80 | 125 | |
 | 350.org | 7 | Company | 62 | 111 | |
 | Frontline Action on Coal | - | Inc. Association | 33 | 86 | |
-| Australian Conservation<br>Foundation | 5 | Charity | 31 | 58 | |
+| Australian Conservation
+Foundation | 5 | Charity | 31 | 58 | |
 | Market Forces | - | Charity | 28 | 30 | |
 | Knitting Nanas | 8 | No formal status | 27 | 48 | |
-| Australian Religious Re<br>sponse to Climate Change | 5 | Charity | 25 | 44 | |
+| Australian Religious Re
+sponse to Climate Change | 5 | Charity | 25 | 44 | |
 | All other groups | 89 | Range | 283 | 531 | |
 ## | Total | 265 | | 1,315 | 3,232 | |
 
@@ -847,18 +1064,29 @@ As shown in Table 12, Stop Adani groups organized 1,687 (52%) of the 3,401 event
 
 Table 12. Events Promoted by Groups Active in the Stop Adani Campaign
 
-| GROUP | CIVIL RESISTANCE<br>TACTICS | ECOACTIVITY | INFORMATION<br>SHARING | MEETINGS/<br>ADMIN | SOCIAL/<br>FUNDRAISING | TOTAL | | | |
+| GROUP | CIVIL RESISTANCE
+TACTICS | ECOACTIVITY | INFORMATION
+SHARING | MEETINGS/
+ADMIN | SOCIAL/
+FUNDRAISING | TOTAL | | | |
 |--------------------------------------------------------|-----------------------------|--------------|----------------------------------------------------------------------------------------------------------|--------------------|------------------------|--------|--|--|--|
 | Stop Adani | 552 | 24 | 916 | 111 | 84 | 1,687 | | | |
-| Australian Youth<br>Climate Coalition | 311 | 8 | 156 | 12 | 10 | 497 | | | |
+| Australian Youth
+Climate Coalition | 311 | 8 | 156 | 12 | 10 | 497 | | | |
 | Galilee Blockade | 121 | 2 | 50 | 3 | 8 | 184 | | | |
-| Extinction Rebel<br>lion | 80 | - | 41 | 1 | 3 | 125 | | | |
+| Extinction Rebel
+lion | 80 | - | 41 | 1 | 3 | 125 | | | |
 | 350.org | 62 | 2 | 42 | 2 | 3 | 111 | | | |
-| Frontline Action<br>on Coal | 33 | - | 50 | 2 | 1 | 86 | | | |
-| Australian Conser<br>vation Foundation | 31 | - | 26 | - | 1 | 58 | | | |
-| Climate Action<br>Cos Harbor | 19 | - | 27 | 1 | 6 | 53 | | | |
+| Frontline Action
+on Coal | 33 | - | 50 | 2 | 1 | 86 | | | |
+| Australian Conser
+vation Foundation | 31 | - | 26 | - | 1 | 58 | | | |
+| Climate Action
+Cos Harbor | 19 | - | 27 | 1 | 6 | 53 | | | |
 | Knitting Nanas | 27 | - | 18 | 2 | 1 | 48 | | | |
-| Australian Reli<br>gious Response to<br>Climate Change | 25 | - | 16 | 2 | 1 | 44 | | | |
+| Australian Reli
+gious Response to
+Climate Change | 25 | - | 16 | 2 | 1 | 44 | | | |
 | Total | 1,553 | 44 | 1,511 | 152 | 141 | 3,401* | | | |
 | | | | *Note: The total gures include all groups as well as the top 10 most active groups listed in the table. | | | | | | |
 
@@ -945,7 +1173,7 @@ We now consider the link between successful outcomes and the number of civil res
 
 ## FIGURE 16. Change in Stop Adani Targets over Time
 
-<sup>8</sup> **www.marketforces.org.au**.
+8 **www.marketforces.org.au**.
 
 ## Table 15: Number of Secondary Targets by Sector
 
@@ -960,18 +1188,26 @@ We now consider the link between successful outcomes and the number of civil res
 
 As Table 15 illustrates, groups secured 63 wins against secondary targets, with the most wins involving targets that were going tonance the mine In this context, a win means that the target made a public announcement to not become involved with the Adani mine Beyond banks, several construction and engineeringrms have also ruled out working on the mine The campaigns against insurance companies achieved a 10% success rate, and one of the three coal haulage companies was successfully targeted (33% success rate) This data suggests that directing actions at secondary targets to remove corporate pillars of support may be highly eective, at the very least, in delaying the development of large projects In addition, our data suggests that short-term, high-intensity activism against certain secondary targets may be more likely to result in success At the same time, it must be acknowledged that despite these wins, Adani company often has managed to ultimatelynd a provider of services Furthermore, some companies have reneged on their pledge and continue to work with Adani despite commitments made otherwise Despite these limitations, the success in securing commitments from banks and contractors highlights the power of this campaign to make the development of the mine much more dicult for the Adani Corporation In addition to corporate secondary targets, the Stop Adani campaign has undertaken civil resistance against federal, state, and local levels of government For example, activists targeted NAIF, a federal government funding body, resulting in the commitment of the Queensland State Government to veto taxpayer funding for mining infrastructure The Stop Adani campaign has listed a series of wins against government secondary targets on their website,9 a selection of which are included in Table 16 (on the following page) However, while the campaign has achieved some signicant wins against government secondary targets, the mine now progresses with full government approval
 
-<sup>9</sup> **http://www.stopadani.com/stopadani\_successes**.
+9 **http://www.stopadani.com/stopadani\_successes**.
 
 Table 16. Selection of Wins Against Government Secondary Targets
 
 | DATE | SUCCESSFUL OUTCOME | TARGET |
 |------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
-| 12/12/2017 | Premier of Queensland makes vetoing \$1b loan to Adani's coal project the<br>rst ocial act of her reelected government. | Queensland State Government |
-| 6/06/2018 | Townsville Council re-directs \$18.5m of ratepayers' funds away from Adani<br>airport. | Townsville Council |
-| 9/06/2018 | The Queensland Government announces that it will uphold Queensland's<br>environmental laws and prosecute Adani for a coal spill into sensitive wet<br>lands at a site they are developing. | Queensland State Government |
-| 5/03/2019 | The Queensland Government rejects Adani's Black Throated Finch Man<br>agement Plan and added extra conditions that needed to be satised. | Queensland State Government |
-| 6/12/2019 | The Australian Conservation Foundation wins their legal challenge to<br>Adani's water scheme approval as the Federal Government concedes the<br>case. | Federal Government |
-| 7/16/2019 | The Queensland Government announced it will prosecute Adani for provid<br>ing "false and misleading" information in its Annual Report to Government. | Queensland State Government |
+| 12/12/2017 | Premier of Queensland makes vetoing \$1b loan to Adani's coal project the
+rst ocial act of her reelected government. | Queensland State Government |
+| 6/06/2018 | Townsville Council re-directs \$18.5m of ratepayers' funds away from Adani
+airport. | Townsville Council |
+| 9/06/2018 | The Queensland Government announces that it will uphold Queensland's
+environmental laws and prosecute Adani for a coal spill into sensitive wet
+lands at a site they are developing. | Queensland State Government |
+| 5/03/2019 | The Queensland Government rejects Adani's Black Throated Finch Man
+agement Plan and added extra conditions that needed to be satised. | Queensland State Government |
+| 6/12/2019 | The Australian Conservation Foundation wins their legal challenge to
+Adani's water scheme approval as the Federal Government concedes the
+case. | Federal Government |
+| 7/16/2019 | The Queensland Government announced it will prosecute Adani for provid
+ing "false and misleading" information in its Annual Report to Government. | Queensland State Government |
 
 # Siemens International AGM Protest
 
@@ -1005,7 +1241,12 @@ Information on these groups was compiled into a database dedicated to the Divest
 
 Table 17. The Divestment Campaign: Groups, Sub-Groups, Their Status, Civil Resistance Tactics Used, and Number of Events Associated with Each
 
-| UMBRELLA GROUP | ORGANIZATIONAL<br>STATUS | NUMBER OF<br>SUBGROUPS<br>INVOLVED | CIVIL RESISTANCE<br>TACTICS | TOTAL<br>EVENTS |
+| UMBRELLA GROUP | ORGANIZATIONAL
+STATUS | NUMBER OF
+SUBGROUPS
+INVOLVED | CIVIL RESISTANCE
+TACTICS | TOTAL
+EVENTS |
 |------------------------------------|--------------------------|-------------------------------------|-----------------------------|-----------------|
 | 350.org | Company | 8 | 155 | 462 |
 | Fossil Free | Charity | 21 | 130 | 882 |
@@ -1029,19 +1270,28 @@ We used the Divestment Tactics dataset to group events into the same five catego
 
 Table 18. Range of Events Promoted in Divestment Campaign (Including Cohosted Events)
 
-| UMBRELLA<br>GROUP | CIVIL RESISTANCE<br>TACTICS | ECO-ACTIVITY | INFORMATION<br>SHARING | MEETINGS/<br>ADMIN | SOCIAL/<br>FUNDRAISING | TOTAL |
+| UMBRELLA
+GROUP | CIVIL RESISTANCE
+TACTICS | ECO-ACTIVITY | INFORMATION
+SHARING | MEETINGS/
+ADMIN | SOCIAL/
+FUNDRAISING | TOTAL |
 |-------------------------------------|-----------------------------|--------------|------------------------|--------------------|------------------------|-------|
 | Fossil Free | 159 | 68 | 362 | 284 | 123 | 996 |
 | 350.org | 169 | 19 | 257 | 26 | 25 | 496 |
 | Australian Youth Climate Coalition | 36 | - | | - | - | 36 |
-| Extinction Re-<br>bellion | 17 | - | - | - | - | 17 |
-| Bendigo Sus-<br>tainability Group | 8 | - | - | - | - | 8 |
+| Extinction Rebellion | 17 | - | - | - | - | 17 |
+| Bendigo Sustainability Group | 8 | - | - | - | - | 8 |
 | Healthy Futures | 2 | - | - | - | - | 2 |
 | Market Forces | 2 | - | - | - | - | 2 |
-| TUU Enviro<br>Collective | 2 | - | - | - | - | 2 |
-| Uni Students for<br>Climate Justice | 2 | - | - | - | - | 2 |
-| Blue Mountains<br>Climate Action | 2 | - | - | - | - | 2 |
-| Climate Action<br>Canberra | 1 | - | - | - | - | 1 |
+| TUU Enviro
+Collective | 2 | - | - | - | - | 2 |
+| Uni Students for
+Climate Justice | 2 | - | - | - | - | 2 |
+| Blue Mountains
+Climate Action | 2 | - | - | - | - | 2 |
+| Climate Action
+Canberra | 1 | - | - | - | - | 1 |
 | All other groups | 1 | - | - | - | - | 1 |
 ## | Total | 409 | 87 | 619 | 310 | 148 | 1,573 |
 
@@ -1075,7 +1325,8 @@ Across our dataset of groups and actions between 2010 and 2019, we identied 36 t
 
 Table 20. Australian Divestment Targets and Announcements by Organization Type, 2015–2019
 
-| TYPE OF ORGANIZATION | TARGETED | ANNOUNCEMENTS BY<br>COMPANIES TO DIVEST |
+| TYPE OF ORGANIZATION | TARGETED | ANNOUNCEMENTS BY
+COMPANIES TO DIVEST |
 |----------------------------|----------|-----------------------------------------|
 | Superannuation funds | 1 | 118 |
 | Local councils/governments | 9 | 45 |
@@ -1177,21 +1428,38 @@ Table 21. Government Responses to Disruptive Civil Resistance
 
 | ID | DATE | RESPONSE | GOVERNMENT |
 |----|------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|
-| 1 | 3/13/2017 | Government rushes to amend native title laws after federal court deci<br>sion overrules Adani agreement. | Federal |
-| 2 | 5/20/2017 | Government proposes new laws against masks at protests, with maxi<br>mum penalty of 7 years for aray and 15 years for violent disorder. | Victoria |
-| 3 | 6/26/2018 | New Crown Lands Management Regulation 20168 gives public ocials<br>power to direct a person to stop taking part in any gathering, meeting,<br>or assembling. | New South Wales |
-| 4 | 8/14/2018 | Government amends law to make it easier for Federal Government to<br>call directly for military support despite wishes of state government. | Federal |
-| 5 | 9/06/2018 | Push for politically active charities including Greenpeace and Australian<br>Conservation Foundation to lose charity status. | Federal |
-| 6 | 1/29/2019 | Tasmanian State Government seeks to resurrect Tasmanian anti-protest<br>laws, seeking to institute a jail term of up to 18 months for anyone inter<br>fering with Tasmanian businesses. | Tasmania |
-| 7 | 7/22/2019 | New farm trespass laws, with nes of up to AU\$220,000 per person<br>and AU\$440,000 for corporations. | New South Wales |
-| 8 | 8/20/2019 | New laws to be introduced into state parliament to search protesters<br>suspected of possessing so-called "locking devices." | Queensland |
-| 9 | 8/27/2019 | Brisbane City Council tries but fails to shut down protest through<br>courts. | Brisbane City Council |
-| 10 | 9/13/2019 | New laws pass making it illegal to incite others to enter farms via "car<br>riage services" such as websites or social media. | Federal |
-| 11 | 10/15/2019 | Council bars Extinction Rebellion from using council libraries and other<br>council facilities. | Brisbane City Council |
-| 12 | 10/23/2019 | Adani gets court order to restrict protester Adrian Burragubba entering<br>traditional lands overlapping proposed coal mine. | Queensland |
-| 13 | 10/24/2019 | Lock on laws pass state parliament prohibiting certain devices used by<br>protesters. | Queensland |
-| 14 | 11/1/2019 | Australian Prime Minister Morrison announces consideration of legal<br>means to outlaw boycott campaigns. | Federal |
-| 15 | 12/18/2019 | ACNC (Australian charity regulator) removes charitable status of Vegan<br>Rising after Melbourne trac blockade. | Federal |
+| 1 | 3/13/2017 | Government rushes to amend native title laws after federal court deci
+sion overrules Adani agreement. | Federal |
+| 2 | 5/20/2017 | Government proposes new laws against masks at protests, with maxi
+mum penalty of 7 years for aray and 15 years for violent disorder. | Victoria |
+| 3 | 6/26/2018 | New Crown Lands Management Regulation 20168 gives public ocials
+power to direct a person to stop taking part in any gathering, meeting,
+or assembling. | New South Wales |
+| 4 | 8/14/2018 | Government amends law to make it easier for Federal Government to
+call directly for military support despite wishes of state government. | Federal |
+| 5 | 9/06/2018 | Push for politically active charities including Greenpeace and Australian
+Conservation Foundation to lose charity status. | Federal |
+| 6 | 1/29/2019 | Tasmanian State Government seeks to resurrect Tasmanian anti-protest
+laws, seeking to institute a jail term of up to 18 months for anyone inter
+fering with Tasmanian businesses. | Tasmania |
+| 7 | 7/22/2019 | New farm trespass laws, with nes of up to AU\$220,000 per person
+and AU\$440,000 for corporations. | New South Wales |
+| 8 | 8/20/2019 | New laws to be introduced into state parliament to search protesters
+suspected of possessing so-called "locking devices." | Queensland |
+| 9 | 8/27/2019 | Brisbane City Council tries but fails to shut down protest through
+courts. | Brisbane City Council |
+| 10 | 9/13/2019 | New laws pass making it illegal to incite others to enter farms via "car
+riage services" such as websites or social media. | Federal |
+| 11 | 10/15/2019 | Council bars Extinction Rebellion from using council libraries and other
+council facilities. | Brisbane City Council |
+| 12 | 10/23/2019 | Adani gets court order to restrict protester Adrian Burragubba entering
+traditional lands overlapping proposed coal mine. | Queensland |
+| 13 | 10/24/2019 | Lock on laws pass state parliament prohibiting certain devices used by
+protesters. | Queensland |
+| 14 | 11/1/2019 | Australian Prime Minister Morrison announces consideration of legal
+means to outlaw boycott campaigns. | Federal |
+| 15 | 12/18/2019 | ACNC (Australian charity regulator) removes charitable status of Vegan
+Rising after Melbourne trac blockade. | Federal |
 
 The arrests we identied in this media analysis occurred in six states across four primary clusters Therst of these clusters occurred in May 2016 with 66 arrests made at the Breakfree Blockade of Newcastle Coal Port This was followed by a series of arrests in late 2017 near the proposed Adani mine in north Queensland Charges against activists included trespassing, interfering with a railway, contravening a police direction to move on, assault, and interfering with equipment of a vehicle A third cluster of arrests occurred in September 2018, again related to a coal port protest in Newcastle Finally, a fourth cluster occurred in late 2019 and were related to the Adani campaign in north Queensland, Extinction Rebellion arrests in Brisbane, and a dozen arrests in Melbourne during a mining conference In addition to arrest-related data, we also searched online for media reports on new government legislation, proposals, or responses to climate change activism dated from therst recorded arrest In total, 12 government responses were found, including proposals for new legislation restricting rights to protest, bans on protest devices, and investigations into select organizations' charitable status Table 21 shows that there were a range of responses from dierent levels of government seeking to reduce or halt protests The Brisbane City Council in Queensland sought to deny approval for an Extinction Rebellion protest and ban the use of its facilities for meetings by the group At the state level, governments sought to bring in new legislation banning the right to protest on business premises (Tasmania), banning the use of lock on devices (Queensland), and banning activists' access and communications around farms and gatherings (New South Wales) Finally, the federal government used a wide variety of strategies in response to protest and threats to the mining sector These range from amending Native Title law
 
@@ -1231,11 +1499,17 @@ Table 22. Mapping Data onto the Components of the Great Turning
 
 | COMPONENT | DATA | EVIDENCE | OUTCOME |
 |--------------------------------------|----------------------------------------|-------------------------------------------------------------------|---------|
-| Holding actions, resisting | Civil resistance actions | Large number of actions being promoted,<br>particularly rallies |  |
-| | Legal and regulatory campaign<br>goals | High number of campaigns targeting regu<br>lation and politicians |  |
-| Creating alternative structures | Social creative actions | Growing number of these actions are<br>promoted |  |
-| | Building alternative groups | Some new alternative groups and allianc<br>es are emerging |  |
-| Shift in consciousness and<br>values | No data available | NA | ? |
+| Holding actions, resisting | Civil resistance actions | Large number of actions being promoted,
+particularly rallies |  |
+| | Legal and regulatory campaign
+goals | High number of campaigns targeting regu
+lation and politicians |  |
+| Creating alternative structures | Social creative actions | Growing number of these actions are
+promoted |  |
+| | Building alternative groups | Some new alternative groups and allianc
+es are emerging |  |
+| Shift in consciousness and
+values | No data available | NA | ? |
 
 # **Component 1: Holding Actions, Resisting**
 
@@ -1253,7 +1527,7 @@ Our data is unable to speak directly to this component, however, there are indic
 
 In summary, our data enables mapping of environmental movement activities against the Great Turning component related to "holding actions/resisting" alone A substantial proportion of events promoted by environmental groups use a range of civil resistance tactics to attempt to force change In addition, while our data is not able to assess the extent to which
 
-<sup>10</sup> See **www.arrcc.org.au**.
+10 See **www.arrcc.org.au**.
 
 alternative structures are emerging, ourndings suggest that groups are focused intensely on information sharing activities, as well as building organizations such as the New Economy Network and Transition Towns Network We suggest, therefore, that the movement does demonstrate characteristics aligned with the Great Turning However, future research could gather empirical evidence more closely aligned with these components to investigate this question in more depth and to test how activists relate to each component and whether or how they have chosen to address them
 
@@ -1265,11 +1539,19 @@ Table 23. Mapping Data onto the Components of the Climate Insurgency
 
 | COMPONENT | DATA | EVIDENCE | OUTCOME |
 |-----------------------------------|--------------------------------------|--------------------------------------------------------------------------------------|---------|
-| An insurgency of civil resistance | Civil resistance<br>actions | Large number of actions being promoted, but<br>far less than required for insurgency | x |
-| Legal arguments and litigation | Campaign targets<br>and goals | High number of campaigns targeting regulation<br>and politicians. |  |
+| An insurgency of civil resistance | Civil resistance
+actions | Large number of actions being promoted, but
+far less than required for insurgency | x |
+| Legal arguments and litigation | Campaign targets
+and goals | High number of campaigns targeting regulation
+and politicians. |  |
 | | | Limited evidence of litigation used as a tactic | x |
-| Self-organization and deisolation | Number and growth<br>of local groups | Substantial growth of local sub-groups aliat<br>ed with XR and Stop Adani |  |
-| | Categories of cam<br>paign goals | Most campaigns target systems or institutions,<br>rather than individuals |  |
+| Self-organization and deisolation | Number and growth
+of local groups | Substantial growth of local sub-groups aliat
+ed with XR and Stop Adani |  |
+| | Categories of cam
+paign goals | Most campaigns target systems or institutions,
+rather than individuals |  |
 
 # **Component 1: An Insurgency of Civil Resistance**
 
@@ -1299,14 +1581,19 @@ Table 24. Mapping Data onto the Components of the Political Process Model
 
 | COMPONENT | ASPECT | EVIDENCE | OUTCOME |
 |-------------------------|---------------------------------------|----------------------------------------------------------------|---------|
-| Political opportunities | Being heard in the political arena | Many campaigns targeting political entities<br>achieve success |  |
+| Political opportunities | Being heard in the political arena | Many campaigns targeting political entities
+achieve success |  |
 | | Capitalizing on political changes | Mixed success in election campaigns | x |
 | | Finding new allies | No evidence this is occurring | ? |
 | Mobilizing structures | Local, grassroots groups | Substantial growth of local groups |  |
 | | Building coalitions and alliances | Growth of directed network campaigns |  |
-| | Sustaining activism | Some groups unable to sustain online<br>presence | x |
-| Framing | Using dierent and numerous<br>frames | Four dierent communication climate<br>change frames |  |
-| | Identication of an antagonist | Antagonist identied in some campaigns,<br>but not all | ? |
+| | Sustaining activism | Some groups unable to sustain online
+presence | x |
+| Framing | Using dierent and numerous
+frames | Four dierent communication climate
+change frames |  |
+| | Identication of an antagonist | Antagonist identied in some campaigns,
+but not all | ? |
 
 #### **Component 1: Political Opportunities**
 
@@ -1690,51 +1977,7 @@ A manual search of each individual site using the three keywords was undertaken 
 
 The final sample for analysis was 492 websites that were downloaded between December 5, 2016, and April 30, 2017, into static form for coding via Adobe Acrobat's multilevel website-to-PDF conversion tool Downloaded content included all webpages for each organization, online actions such as petitions, declarations, and emails, and news and blog posts back dated from January 1, 2016, to the date of individual download Downloadable reports that had been authored by the target organization were included alongside annual, nancial, and presidents' (or their equivalent) reports Audiovisual material was not downloaded, nor were social media sites or other external platform content Each of the 492 Adobe les were then cleaned External website pages were manually removed, as were any petitions, reports, or submissions authored by external parties Repetitious footers and page duplications were removed to avoid unduly inuencing text and linguistic analysis output values The process created 62,516 pages of website content for analysis, with websites ranging from 5 to 1,500 pages in length
 
-Codable attributes for content analysis were identied from the research literature on environmental activism and communication about issue focus, events, campaign goals, and campaign targets This was done in order to construct a database specically for groups focused on climate change activism and to develop the campaigns database To identify data for each of these attributes we created keywords (e g , "campaign") We then searched through the scraped website text tond incidents where these words were used Inter-coder reliability was established through a staged approach, testing two coders' results after 10, 30, and 50 documents were coded Discrepancies of <0 60 in inter-coder reliability were reconciled at each stage through discussion, with 100% agreement reached between the two coders A total of 50 websites were dual coded, resulting in a 10% sample percentage which is suitable for online content coding (Joyce 2018; Lombard, Snyder-Duch, and Bracken 2002) The remaining 90% of the data was then coded by one person Thenal average inter-coder reliability was 0 809 (Krippendor's Alpha) and 0 81 (Cohen's Kappa), which are considered acceptable (Hayes and Krippendor2007)
-
-In order to use updated website text for the monograph sections on framing (see Chapter 2) we re-scraped the websites in our Groups study population in early 2020 We did not undertake any manual coding on this text; however, we did use the text corpus for text analysis using the Linguistic Inquiry and Word Count program (Pennebaker, et al 2015) and R software for topic modeling (Grün and Hornik 2011)
-
-# Campaigns and Outcomes Databases: Identification of Climate Change-Related Campaigns and Their Outcomes
-
-As described above, the website content from each group in the Group Database was read to identify campaign names, issue, goals, and targets Campaigns which were organized by groups focusing on climate change were included in this database, as well as climate-focused campaigns run by other environmental groups In total, 193 campaigns were identied
-
-An online search was undertaken in early 2020 to identify whether the goals of the campaigns have been achieved This search was done with Google search engine using dierent combinations of the campaign name, goal, or group responsible for its implementation This assessment process involved searching for news stories, reports, or any data available online indicating whether the goal of the campaign had been achieved Each campaign was then assessed as achieving either a "successful," "partially successful," "unsuccessful," or "unknown" outcome It is important to note that this process does not enable claims of causation between the activities of each group and the particular outcomes which were identied
-
-Successful campaigns are those that achieved their goal For example, a campaign targeting a university to divest from fossil fuels was assessed as successful if the university made a formal, public commitment to do so Likewise, a campaign was deemed unsuccessful if the goal had not been achieved For example, a campaign to stop a coal mine would be considered unsuccessful if the coal mine proceeded or continued to progress in its approval or construction process Partially successful campaigns were those with possibly multiple goals or targets, of which one or more were achieved The outcomes of campaigns targeting changes in behavior, such as reducing the amount of meat an individual eats, were unable to be assessed because data on individual behavior (e g , meat consumption) in the areas targeted by those campaigns is unavailable
-
-# Tactics Database: Categorization of All Tactics Used by Environmental Groups in the Study Population
-
-In order tond out what climate change civil resistance tactics are used across these groups in the database, we collected data on the events promoted by each of the groups on their Facebook pages and groups We undertook this process in two dierent ways Ourrst approach was to identify events by reviewing each group's website to check for event listings This method resulted in the identication of a total of 799 events from 2017 Two limitations of this approach were observed: First, many groups did not appear to update their new events on their websites In fact, 188 (37 83%) of the 492 groups did not appear to have updated any part of their website in the previous 200 days Second, where website events were updated, information about past events was often removed This impacted the representativeness of the event data acquired As a result, we chose to exclusively use Facebook event data in the second round of data gathering In this round, event data was scraped from each group's Facebook page, capturing all listed events up until December 31, 2019 As we are interested in events which involve the mobilization of supporters, Facebook oers a cost-eective and accessible forum for promoting these events publicly In addition, Facebook records all past events, thus enabling the acquisition of a detailed and representative dataset and removing the need to use events identied from websites
-
-In order to acquire this information, each group in the study population was searched for on Facebook to identify whether they had a public Facebook page or group While pages and groups operate slightly dierently, they can both be used to promote group events Where a group had events listed, these events were manually copied, with the data compiled into a large Tactics database Some organizations had multiple Facebook pages, for example Extinction Rebellion, which had 74 separate Facebook accounts by January 1, 2020 In total, 728 Facebook pages and groups were found Scraping each of them generated a total of 36,541 events running from June 2010 to January 2020 Of these events, 8,607 were cohosted This occurs when two or more groups list the event on their Facebook page Throughout this monograph we have used either the full dataset of all events (36,541) where suitable, or specied when only the unique events (i e , the event database with cohosted duplicates removed) were included in the analysis This approach was used since it is very dicult to identify which of the cohosts was the primary organizer of the event
-
-Following this process, three subsets were then created for use in this monograph The rst subset identied all events promoted by groups active on climate change issues Events promoted by groups which focused on other issues were reviewed, and any individual events focusing on climate change were added to the climate change tactics dataset Similarly, two subsets were created for the Divestment and Stop Adani campaigns The Divestment and Stop Adani subsets were created in two steps First, we compiled all events undertaken by groups primarily focused on each campaign: events organized by all Stop Adani sub-groups, Frontline Action on Coal, and Galilee Blockade for the Stop Adani campaign, and Fossil Free and 350 org sub-groups for the Divestment campaign We then added events from the overall events database which also had the word "Adani" or "divest" in the event title This resulted in a dataset of 3,339 events in the Stop Adani event dataset (of which 2,221 were unique) and 1,571 events in the Divestment event dataset (of which 1,407 were unique)
-
-# Civil Resistance Tactics Database: Identification and Categorization of Civil Resistance Tactics
-
-As highlighted when discussing the Tactics database, events were originally captured from the websites which were scraped in 2017 We then coded these events by event name (i e , "lm screening") and inductively grouped intove event types: civil resistance tactics, meetings/administration, information sharing, eco-activities, and social/fundraising The civil resistance tactics category includes all events that involve some form of physical protest, rally, demonstration, or similar, as per Beer's typology In our second round of data capture using Facebook pages, we used the same process Given that the dataset was very large (36,541 events) werst used an excel macro to identify keywords in each event title (e g , "lm," "movie," or "screening" were all grouped as "lm screenings") Events which did not return an easily categorized event type were then manually reviewed and grouped Finally, all 6,393 civil resistance tactics were manually reviewed and categorized These were then matched against Beer's (2021) categories of civil resistance tactics (see Table 1)
-
-# About the Authors
-
-## ![](_page_117_Picture_1.jpeg)
-
-**Robyn Gulliver** is a multi-award winning environmentalist, writer, and researcher who has served as an organizer and leader of numerous local and national environmental organizations. Born in New Zealand, she has spent the last decade advocating for and writing about environmental issues for activist groups, local councils, not-for-prot organizations, and academia.
-
-## ![](_page_117_Picture_4.jpeg)
-
-**Kelly S. Fielding** is a Professor of Environmental Psychology at the University of Queensland in the School of Communication and Arts. Her research focuses broadly on understanding the social and psychological determinants of environmental sustainability. She seeks to understand environmental deci-
-
-sions and behaviors and to develop communication and behavior change strategies that can promote greater environmental sustainability.
-
-## ![](_page_117_Picture_7.jpeg)
-
-**Winnifred R. Louis** is a Professor of Psychology at the University of Queensland, Australia. Her research interests focus on the inuence of identity and norms on social decision-making. She has studied this broad topic in contexts from political activism to peace psychology to health and the environment.
-
-## ![](_page_118_Picture_0.jpeg)
-
-**The ICNC Monograph Series aims to bridge research and practice. Drawing on scholarly literature and high quality analytical and empirical analyses, ICNC Monographs enrich public discourse by expanding scientic knowledge in the eld of civil resistance and providing recommendations for practitioners such as activists, organizers, journalists, and members of INGOs and the policy community.**
-
-> **ICNC Monographs are available for free download at: https://www.nonviolent-conict.org/**
+Codable attributes for content analysis were identied from the research literature on environmental activism and communication about issue focus, events, campaign goals, and campaign targets This was done in order to construct a database specically for groups focused on climate change activism and to develop the campaigns database To identify data for each of these attributes we created keywords (e g , "campaign") We then searched through the scraped website text tond incidents where these words were used Inter-coder reliability was established through a staged approach, testing two coders' results after 10, 30, and 50 documents were coded Discrepancies of  **ICNC Monographs are available for free download at: https://www.nonviolent-conict.org/**
 
 ## **Hard copies are also available for purchase.**
 

@@ -1,20 +1,8 @@
 ---
-title: Manufactured ignorance
-author: David Graeber
-date: 2/16/2018
-pubdate: '2022-09-30T04:34:49'
-language: en
-source_url: >-
-  9/30/22 from
-  http://www.focaalblog.com/2018/02/16/david-graeber-manufactured-ignorance/
-original_format: muse
-converted_date: '2025-11-08T11:25:03.146630'
-tags:
-  - theory
-  - contemporary
-  - strikes
-  - rent
-  - prisons
+title: "Manufactured ignorance"
+author: "David Graeber"
+date: "2/16/2018"
+category: "contemporary-analysis"
 ---
 
 This is a story about how a well-meaning liberal American professor can end up becoming an active propagandist for right-wing forces attempting to destroy a feminist revolution.
@@ -67,25 +55,25 @@ The exact same game is now being played for the horrific events and mass murder 
 
 Again, this might seem to be just the sort of case where international outrage might be expected, and might actually have a positive effect. To draw international attention to the situation, the North Syria Confederation organized a solidarity march of Kurds, Arabs, and Yezidis, as well as Syriac, Armenian, and Assyrian Christians, from across the region. Here is how Cole chose report on this event. If nothing else it might serve as a handy guide for any reader who might at any point in the future be interested in justifying atrocities:
 
-<em><em>**Image 1:** Screenshot from Juan Cole’s blog (https://www.juancole.com/2018/02/against-turkish-offensive.html, accessed 11 February 2018).</em></em>
+**Image 1:** Screenshot from Juan Cole’s blog (https://www.juancole.com/2018/02/against-turkish-offensive.html, accessed 11 February 2018).
 
 The first clever move here is not to report an event, but to report a report of an event. The source is clearly unfriendly. But this allows Cole to leave the reader with the false impression that this is a purely Kurdish nationalist event, when the organizers intended the opposite. The final line that “it is alleged” that some protesters were Kurdish militia is also rather odd. In fact, both YPG/J volunteers from other parts of Syria, and Syriac Christian militia, have arrived in Afrin in recent days, but since the Syrian government is allowing safe passage there would be no reason for them to hide within a civilian march. Rather, the suggestion they might have been hiding reflects a recent Turkish propaganda line. Since Turkish army shelling and airstrikes against Afrin’s cities, towns, and villages have created hundreds of civilian casualties in Afrin, and photos of victims have begun to spark some international concern, the new line is that Kurdish militia are intentionally dressing in civilian clothes to fake such claims. The image of marchers with guns—invoked by this passage—is often used to reinforce this.
 
-<em><em>**Image 2:** Screenshot from Juan Cole’s blog (https://www.juancole.com/2018/02/against-turkish-offensive.html, accessed 11 February 2018).</em></em>
+**Image 2:** Screenshot from Juan Cole’s blog (https://www.juancole.com/2018/02/against-turkish-offensive.html, accessed 11 February 2018).
 
 Again, this passage is hard to understand except in the context of an ongoing info-war in which Cole, while apparently writing in a coolly evenhanded way, is, in fact, echoing another Turkish propaganda line. The Turkish public was prepared to believe the invasion would be a cakewalk, over in a matter of days. Eighteen days later, despite overwhelming advantage in numbers and technology (the Turkish army is in fact larger than the entire population of Afrin, and their troops can deploy hundreds of high-end German-manufactured tanks, fighter jets, and helicopter gunships), they have nowhere managed to advance more than roughly five or six kilometers into Democratic Federation of Syria territory, stopped in their tracks by determined male and female partisans armed with AK-47s and anti-tank missiles. Their response has been to insist the anti-tank missiles are supplied by the United States (in fact they appear to be Russian-made and bought or captured from other rebels). Even if these claims were true, however, they would be bizarre: US assurances that troops it armed would not be “deployed against” Turkey obviously referred to offensive actions, not that they would not be used to shoot back if Turkey launched an unprovoked attack against them. The article proceeds:
 
-<em><em>**Image 3:** Screenshot from Juan Cole’s blog (https://www.juancole.com/2018/02/against-turkish-offensive.html, accessed 11 February 2018).</em></em>
+**Image 3:** Screenshot from Juan Cole’s blog (https://www.juancole.com/2018/02/against-turkish-offensive.html, accessed 11 February 2018).
 
 Such criticism of Turkey is intended to create an impression of evenhanded neutrality, but in fact, considering the overwhelming evidence that Turkey was actively trading with Daesh, and cooperating politically and militarily, it is at best extremely understated. This sort of gentle touch is, however, certainly not what Cole deploys when speaking of the Democratic Federation of Northern Syria:
 
-<em><em>**Image 4:** Screenshot from Juan Cole’s blog (https://www.juancole.com/2018/02/against-turkish-offensive.html, accessed 11 February 2018).</em></em>
+**Image 4:** Screenshot from Juan Cole’s blog (https://www.juancole.com/2018/02/against-turkish-offensive.html, accessed 11 February 2018).
 
 This passage is crucial largely for what it does not say. In fact, Afrin’s total population had increased by 400,000 since the start of the war because it was an island of peace and stability, and most of those who fled there from other parts of Syria were not Kurdish. Cole seems to have felt the reader should not know this as it might undercut the tacit message that this is all about Kurdish nationalism.
 
 Cole also wants to ensure the reader remains ignorant of almost anything else that might show Afrin in a favorable light: for instance, the fact that its previously peaceful conditions had allowed it to go furthest with Rojava’s experiment in revolutionary feminism, to the point where two-thirds of all officeholders there are women. Or the fact that Rojava as a whole is conducting the most radical experiment in women’s empowerment, perhaps, in history, and that this experiment is being attacked by overtly patriarchal Islamists partly for this very reason. One might be forgiven for thinking a “left” commentator on the region might find this fact, or the experiments with direct democracy, worthy of discussion; or at the very least, worthy of remark. But Cole is careful to ensure his readers are not privy to any of this information.
 
-<em><em>**Image 5:** Screenshot from Juan Cole’s blog (https://www.juancole.com/2018/02/against-turkish-offensive.html, accessed 11 February 2018).</em></em>
+**Image 5:** Screenshot from Juan Cole’s blog (https://www.juancole.com/2018/02/against-turkish-offensive.html, accessed 11 February 2018).
 
 Here, Cole again employs the technique of the selective reporting of accusations (accusations against the YPG are regularly reproduced, with no comment on whether or not they ought to be credited; equivalent accusations against Turkey or FSA forces are simply not reported). Critical background is excluded: the fact, for instance, that the “Arab belt” populations between the three cantons that fear ethnic cleansing might do so largely because they are themselves mostly there as a result of Syrian government ethnic cleansing population against Kurds in the ’50s and ’60s, or that a UN investigation confirmed that, when the other two cantons (Cezire and Kobane) were united, no ethnic cleansing by YPG/J forces took place. Similarly, Manbij, a territory between Afrin and Kobane, was seized by the YPG from ISIS two years ago; even though it was a formerly Kurdish majority city that had been ethnically cleansed by the Syrian government in the ’60s and then again by Daesh over the last several years, until Kurds had been reduced to a mere 5% of the population, “Kurdish rule” has seen its population swell dramatically as 120,000 mostly Arab refugees came to live there from other parts of Syria. This is the very opposite of ethnic cleansing.
 
@@ -93,7 +81,7 @@ In fact, the very existence of the Democratic Federation of Northern Syria, let 
 
 Finally, crucially, Cole uses the selective reporting trick to provide a pretext for Turkey’s unprovoked attack: its claims that the YPG is attacking its cities. The reality according to virtual all foreign observers until now has been the exact opposite: Turkey has been periodically shelling and bombing Afrin and other parts of Rojava for more than a year now, with the YPG refusing to take the bait and not returning fire.
 
-<em><em>**Image 6:** Screenshot from Juan Cole’s blog (https://www.juancole.com/2018/02/against-turkish-offensive.html, accessed 11 February 2018).</em></em>
+**Image 6:** Screenshot from Juan Cole’s blog (https://www.juancole.com/2018/02/against-turkish-offensive.html, accessed 11 February 2018).
 
 As a summary of the war so far this is bizarre (in fact, the Turkish army had by that time failed to advance more than five kilometers into Afrin; the YPG/J had already released videos of as many as 20 armored vehicles destroyed or captured). The crucial thing to notice here though is how what were earlier reported as mere Turkish *accusations* of cross-border attacks has suddenly morphed into a flat-out a statement of fact. This rhetorical slippage is all the more striking considering, again, all the contextual information that’s left out, such as:
 
@@ -105,7 +93,7 @@ As a summary of the war so far this is bizarre (in fact, the Turkish army had by
 
 Not a single mention of any of these facts about Turkish bombing of civilian targets and past threats of false-flag attacks appears anywhere in Cole’s piece, or in anything else he’s written. The piece ends:
 
-<em><em>**Image 7:** Screenshot from Juan Cole’s blog (https://www.juancole.com/2018/02/against-turkish-offensive.html, accessed 11 February 2018).</em></em>
+**Image 7:** Screenshot from Juan Cole’s blog (https://www.juancole.com/2018/02/against-turkish-offensive.html, accessed 11 February 2018).
 
 The conclusion, alas, rather gives the game away. “Some observers” is again bizarre, since Erdogan himself has stated he intends to take Afrin city. He has also declared that Kurds have historically only represented 35 percent of the Afrin population (a statement that seems to have no historical basis whatsoever) and that he intends to give the territory back to its “rightful owners,” which has been taken by almost everyone else as public admission that ethnic cleansing is precisely what he has in mind. So, this is hardly something Cole just somehow figured out.
 

@@ -1,3 +1,8 @@
+---
+title: "## **bell hooks**"
+category: "theory"
+---
+
 ## **bell hooks**
 
 ## **Understanding Patriarchy**

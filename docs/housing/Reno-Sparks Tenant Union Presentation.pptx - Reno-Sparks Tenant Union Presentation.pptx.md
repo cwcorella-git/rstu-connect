@@ -1,14 +1,10 @@
 ---
-date: 2025
-author: Housing Advocacy Organization
-tags:
-  - organizing
-  - strikes
-  - unions
-  - tenants
-  - housing
 title: "Reno-Sparks Tenant Union Presentation.pptx - Reno-Sparks Tenant Union Presentation.pptx"
+author: "Housing Advocacy Organization"
+date: "2025"
+category: "housing"
 ---
+
 # Reno-Sparks Tenant Union Presentation.pptx - Reno-Sparks Tenant Union Presentation.pptx
 
 *Converted from: `./Reno-Sparks Tenant Union Presentation.pptx - Reno-Sparks Tenant Union Presentation.pptx.pdf`*  
@@ -163,7 +159,6 @@ Not enough low-income housing
 Not a Development Problem
 
 
-
                             7,971 vacant housing units
                             1,231 unhoused individuals
 
@@ -307,8 +302,6 @@ Brief History of Tenant Unions
 What Can Tenant Unions Do?
 
 
-
-
   KC Tenant Union helped organize the Quality Hill apartment building. After
    organizing they were able to make demands for pest management and
                               building repairs.
@@ -333,8 +326,6 @@ What Can Tenant Unions Do?
 What Can Tenant Unions Do?
 
 
-
-
  LA tenant union lobbied for minimum threshold for eviction for tenants who fall
                            behind on rent – and won.
 
@@ -356,8 +347,6 @@ What Can Tenant Unions Do?
 
 
 What Can Tenant Unions Do?
-
-
 
 
   Washington Tenant Union helped get a law passed that bans rent increases
@@ -456,4 +445,3 @@ What Can You Do?
 • Learn tenants’ rights! (linktr.ee/rrrights)
 
 ---
-

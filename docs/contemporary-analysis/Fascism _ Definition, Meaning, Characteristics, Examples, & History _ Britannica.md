@@ -1,3 +1,8 @@
+---
+title: "## [britannica.com](https://www.britannica.com/topic/fascism)"
+category: "contemporary-analysis"
+---
+
 ## [britannica.com](https://www.britannica.com/topic/fascism)
 
 ## **Fascism | Definition, Meaning, Characteristics, Examples, & History**

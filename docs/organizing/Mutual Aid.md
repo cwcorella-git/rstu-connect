@@ -1,16 +1,10 @@
 ---
-title: Mutual Aid
-author: Dean Spade
-slug: Mutual Aid
-reconversion_status: ready_for_reconversion
-date: 2020
-tags:
-  - organizing
-  - direct action
-  - strikes
-  - unions
-  - tenants
+title: "Mutual Aid"
+author: "Dean Spade"
+date: "2020"
+category: "organizing"
 ---
+
 # **Dean Spade**
 
 # **Mutual Aid**
@@ -326,22 +320,107 @@ While there is no single correct model for a mutual aid group, being aware of ge
 
 | Mutual Aid | Charity |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| De-professionalized survival work<br>done by volunteers | Service work staffed by<br>professionals |
-| Beg, borrow, and steal supplies | Grant money for supplies/<br>philanthropic control of program |
-| Survival work rooted in principles of<br>anti-capitalism, antiimperialism, racial<br>justice, gender justice, disability<br>justice | Siloed single-issue work, serving a<br>particular population or working on<br>one area of policy reform,<br>disconnected from other issues |
-| Open meetings, with as many people<br>making decisions and doing the work<br>as possible | Closed board meetings, governance<br>by professionals or people<br>associated with big institutions or<br>donors, program operated by staff,<br>volunteers limited to stuffing<br>envelopes or other menial tasks,<br>volunteers not part of high-level<br>decision-making |
-| Support people facing the most dire<br>conditions | Impose eligibility criteria for<br>services that divide people into<br>"deserving" and "undeserving"<br>recipients |
-| Give things away without expectations | Set conditions for getting help—<br>recipients have to fill out onerous<br>paperwork, be sober, have a certain<br>family status, have a certain<br>immigration status, not have<br>outstanding warrants, certain<br>convictions, etc. |
-| People participate voluntarily because<br>of their passion about injustice and<br>care for their community | People come looking for a job,<br>wanting to climb a hierarchy, build a<br>career, or become "important" |
-| Efforts to flatten hierarchies—e.g., flat<br>wage scales if anyone is paid, training<br>so that new people can do work they<br>weren't professionally trained to do,<br>rotating facilitation roles, language<br>access | Maintaining hierarchies of pay,<br>status, decision making power,<br>influence that are typical of the<br>mainstream culture (e.g., lawyers<br>are more valuable and important<br>than non-lawyers) |
+| De-professionalized survival work
+done by volunteers | Service work staffed by
+professionals |
+| Beg, borrow, and steal supplies | Grant money for supplies/
+philanthropic control of program |
+| Survival work rooted in principles of
+anti-capitalism, antiimperialism, racial
+justice, gender justice, disability
+justice | Siloed single-issue work, serving a
+particular population or working on
+one area of policy reform,
+disconnected from other issues |
+| Open meetings, with as many people
+making decisions and doing the work
+as possible | Closed board meetings, governance
+by professionals or people
+associated with big institutions or
+donors, program operated by staff,
+volunteers limited to stuffing
+envelopes or other menial tasks,
+volunteers not part of high-level
+decision-making |
+| Support people facing the most dire
+conditions | Impose eligibility criteria for
+services that divide people into
+"deserving" and "undeserving"
+recipients |
+| Give things away without expectations | Set conditions for getting help—
+recipients have to fill out onerous
+paperwork, be sober, have a certain
+family status, have a certain
+immigration status, not have
+outstanding warrants, certain
+convictions, etc. |
+| People participate voluntarily because
+of their passion about injustice and
+care for their community | People come looking for a job,
+wanting to climb a hierarchy, build a
+career, or become "important" |
+| Efforts to flatten hierarchies—e.g., flat
+wage scales if anyone is paid, training
+so that new people can do work they
+weren't professionally trained to do,
+rotating facilitation roles, language
+access | Maintaining hierarchies of pay,
+status, decision making power,
+influence that are typical of the
+mainstream culture (e.g., lawyers
+are more valuable and important
+than non-lawyers) |
 
-| Values self-determination for people<br>impacted or targeted by harmful social<br>conditions | Offers "help" to the<br>"underprivileged," absent of an<br>awareness or strategy for<br>transforming the conditions that<br>produced injustice; embraces<br>paternalism, rescue fantasies, and<br>saviorism |
+| Values self-determination for people
+impacted or targeted by harmful social
+conditions | Offers "help" to the
+"underprivileged," absent of an
+awareness or strategy for
+transforming the conditions that
+produced injustice; embraces
+paternalism, rescue fantasies, and
+saviorism |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Consensus decision-making to<br>maximize everyone's participation, to<br>ensure people impacted by decisions<br>are the ones making them, to avoid<br>under-represented groups getting<br>outvoted, and to build the skill of<br>caring about each other's participation<br>and concerns rather than caring about<br>winning or being right | Person on top (often the executive<br>director) decides things or, in some<br>instances, a board votes and the<br>majority wins |
-| Direct aid work is connected to other<br>tactics, including disruptive tactics<br>aimed at the root causes of distress | Direct aid work disconnected from<br>other tactics, depoliticized, and<br>distanced from disruptive or root<br>causes– oriented tactics in order to<br>retain legitimacy with government<br>or funders |
-| Tendency to assess the work based on<br>how the people facing the crisis<br>regard the work | Tendency to assess the work based<br>on opinions of elites: political<br>officials, bureaucrats, funders,<br>corporate media |
-| "Members" = people making<br>decisions, usually everyone involved in<br>doing the work and/or getting help<br>from the group | "Members" = donors |
-| Engagement with the group builds<br>broader political participation,<br>solidarity, mobilization, radicalization | Engagement with the group is not<br>aimed at growing participants'<br>connection to other issues, groups,<br>or struggles for justice; main focus<br>is to meet grant deliverables and<br>give the organization a good public<br>reputation with funders, media,<br>elected officials |
+| Consensus decision-making to
+maximize everyone's participation, to
+ensure people impacted by decisions
+are the ones making them, to avoid
+under-represented groups getting
+outvoted, and to build the skill of
+caring about each other's participation
+and concerns rather than caring about
+winning or being right | Person on top (often the executive
+director) decides things or, in some
+instances, a board votes and the
+majority wins |
+| Direct aid work is connected to other
+tactics, including disruptive tactics
+aimed at the root causes of distress | Direct aid work disconnected from
+other tactics, depoliticized, and
+distanced from disruptive or root
+causes– oriented tactics in order to
+retain legitimacy with government
+or funders |
+| Tendency to assess the work based on
+how the people facing the crisis
+regard the work | Tendency to assess the work based
+on opinions of elites: political
+officials, bureaucrats, funders,
+corporate media |
+| "Members" = people making
+decisions, usually everyone involved in
+doing the work and/or getting help
+from the group | "Members" = donors |
+| Engagement with the group builds
+broader political participation,
+solidarity, mobilization, radicalization | Engagement with the group is not
+aimed at growing participants'
+connection to other issues, groups,
+or struggles for justice; main focus
+is to meet grant deliverables and
+give the organization a good public
+reputation with funders, media,
+elected officials |
 
 ## **5. No masters, no flakes**
 
@@ -355,14 +434,52 @@ Groups are more effective and efficient when participants know how to raise conc
 
 **Chart 2. Default Approaches to Organizing Groups**
 
-| Default<br>Practices | Dangers of Default<br>Approach | Alternatives |
+| Default
+Practices | Dangers of Default
+Approach | Alternatives |
 |----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Hierarchy | Abuse of power; Burnout of a<br>few people and no way for<br>others to plug in;<br>Unprincipled behavior by<br>people at the top; People at<br>the top can be bought off by<br>attention, career<br>opportunities, or money | Horizontal decision-making<br>structure based on consensus<br>that prevents decision<br>making from being<br>concentrated in one person<br>or a small group, and that<br>can help tasks and roles get<br>distributed to many people |
-| Vague<br>decision | Individuals make decisions<br>without consulting others; | Clear decision-making<br>processes that everyone is |
+| Hierarchy | Abuse of power; Burnout of a
+few people and no way for
+others to plug in;
+Unprincipled behavior by
+people at the top; People at
+the top can be bought off by
+attention, career
+opportunities, or money | Horizontal decision-making
+structure based on consensus
+that prevents decision
+making from being
+concentrated in one person
+or a small group, and that
+can help tasks and roles get
+distributed to many people |
+| Vague
+decision | Individuals make decisions
+without consulting others; | Clear decision-making
+processes that everyone is |
 
-| making<br>process | Some decisions don't get<br>made in time; Conflict over<br>decisions | trained in and that includes<br>all members |
+| making
+process | Some decisions don't get
+made in time; Conflict over
+decisions | trained in and that includes
+all members |
 |-------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Leadership<br>held by people<br>who have<br>seniority or<br>self-select | New people drift away<br>because they do not feel real<br>co-stewardship of the group;<br>White people, men, and<br>others with social privilege<br>dominate | Training new people in how<br>to participate fully in<br>decisions and in new skills<br>and roles; Cultivating a<br>culture of group<br>participation, feminism, anti<br>racism |
+| Leadership
+held by people
+who have
+seniority or
+self-select | New people drift away
+because they do not feel real
+co-stewardship of the group;
+White people, men, and
+others with social privilege
+dominate | Training new people in how
+to participate fully in
+decisions and in new skills
+and roles; Cultivating a
+culture of group
+participation, feminism, anti
+racism |
 
 Clear structures help us stick to our values under pressure—and we've already looked at many of the larger pitfalls that mutual aid groups can fall into, so we know what's at stake. In groups that aren't clear about decisionmaking, it is much easier for a leader to get seduced by money or prestige and sell out a group's core values for a job, a grant, or a moment in the spotlight. It is easier for law enforcement to infiltrate and destroy the group. It is also easier for participants to get burnt out on organizing. As I'll discuss below, burnout is often caused by conflict or by a failure to delegate decisions and tasks. A clear structure can help prevent conflict or provide ways to move through it, and can help make sure that people are sharing responsibility.
 
@@ -376,11 +493,144 @@ Three. Scarcity, urgency, competition. Some groups also develop a culture of sca
 
 ## **Chart 3. Tendencies that Harm Groups**
 
-| Harmful<br>Tendencies | What<br>leadership<br>looks like | What<br>participation<br>looks like | Dangers | What we<br>want instead |
+| Harmful
+Tendencies | What
+leadership
+looks like | What
+participation
+looks like | Dangers | What we
+want instead |
 |---------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Secrecy,<br>Hierarchy, Lack<br>of Clarity | Decisions<br>made by one<br>person or<br>small group;<br>Not clear to<br>newcomers<br>how<br>decisions<br>are made;<br>No clear<br>procedures<br>about<br>decisions | Be or follow<br>the<br>charismatic<br>leader; If the<br>leader<br>disappears or<br>sells out, the<br>group does;<br>Confusion<br>about roles<br>and decisions | New people<br>never able to<br>plug in;<br>Theft of<br>resources;<br>Conflict<br>about<br>decisions;<br>Cliques | Transparency;<br>Shared<br>participatory<br>decision<br>making;<br>Leaderless<br>and leaderful<br>with everyone<br>co-leading |
-| Over-Promising<br>and Under<br>Delivering,<br>Non<br>responsiveness,<br>Elitism | One or more<br>people<br>making<br>promises<br>about what<br>the group<br>will do<br>without<br>consulting<br>everyone;<br>Group not<br>responsive<br>to the<br>community<br>it serves, yet<br>responsive<br>to elites and<br>media | Participants<br>don't get a say<br>in whether the<br>group takes on<br>more work;<br>Being<br>overworked<br>and over<br>extended;<br>Conflict over<br>workloads and<br>unmet needs;<br>Charismatic<br>leaders can<br>easily sell out<br>for attention<br>or money | Burnout;<br>Conflict;<br>Loss of<br>alignment<br>with group<br>principles;<br>Cooptation<br>by elites | Clear planning<br>processes and<br>shared<br>decisions<br>about<br>workload;<br>Accountability<br>to community<br>being served,<br>especially its<br>most<br>vulnerable<br>members |
-| Scarcity,<br>Urgency,<br>Competition | Competition<br>within the<br>group or<br>between the<br>group and<br>others doing<br>related work<br>for attention | Exhaustion;<br>Conflict about<br>priorities and<br>over<br>extension;<br>Blame<br>between<br>members | Burnout;<br>Conflict;<br>Damage to<br>relationships<br>inside the<br>group and<br>with other<br>groups doing | Cooperation;<br>Generosity;<br>Planning and<br>pacing the<br>work based on<br>the group's<br>collective<br>wisdom and |
+| Secrecy,
+Hierarchy, Lack
+of Clarity | Decisions
+made by one
+person or
+small group;
+Not clear to
+newcomers
+how
+decisions
+are made;
+No clear
+procedures
+about
+decisions | Be or follow
+the
+charismatic
+leader; If the
+leader
+disappears or
+sells out, the
+group does;
+Confusion
+about roles
+and decisions | New people
+never able to
+plug in;
+Theft of
+resources;
+Conflict
+about
+decisions;
+Cliques | Transparency;
+Shared
+participatory
+decision
+making;
+Leaderless
+and leaderful
+with everyone
+co-leading |
+| Over-Promising
+and Under
+Delivering,
+Non
+responsiveness,
+Elitism | One or more
+people
+making
+promises
+about what
+the group
+will do
+without
+consulting
+everyone;
+Group not
+responsive
+to the
+community
+it serves, yet
+responsive
+to elites and
+media | Participants
+don't get a say
+in whether the
+group takes on
+more work;
+Being
+overworked
+and over
+extended;
+Conflict over
+workloads and
+unmet needs;
+Charismatic
+leaders can
+easily sell out
+for attention
+or money | Burnout;
+Conflict;
+Loss of
+alignment
+with group
+principles;
+Cooptation
+by elites | Clear planning
+processes and
+shared
+decisions
+about
+workload;
+Accountability
+to community
+being served,
+especially its
+most
+vulnerable
+members |
+| Scarcity,
+Urgency,
+Competition | Competition
+within the
+group or
+between the
+group and
+others doing
+related work
+for attention | Exhaustion;
+Conflict about
+priorities and
+over
+extension;
+Blame
+between
+members | Burnout;
+Conflict;
+Damage to
+relationships
+inside the
+group and
+with other
+groups doing | Cooperation;
+Generosity;
+Planning and
+pacing the
+work based on
+the group's
+collective
+wisdom and |
 
 | or | about who | related work; | abilities; |
 |------------|---------------|---------------|---------------|
@@ -403,22 +653,36 @@ The chart below is designed to provoke conversation about group culture among pe
 
 | Helpful Qualities | Potentially Harmful Qualities |
 |------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-| Reliable, responsible, punctual,<br>follows through | Flaky, late, no follow-through |
+| Reliable, responsible, punctual,
+follows through | Flaky, late, no follow-through |
 | Welcoming to new people | Unwelcoming |
 | Flexible, experimental | Rigid, bureaucratic, formulaic |
 | Collaborative | Isolationist, competitive |
-| Realistic workload, sustainable<br>work flow, real culture of wellness<br>and care | Overworking, perfectionist, martyrdom |
+| Realistic workload, sustainable
+work flow, real culture of wellness
+and care | Overworking, perfectionist, martyrdom |
 | Direct feedback and growth | Silence and/or gossip and shit talk |
-| Sticks to values | Sells out, easily bought off, pushover<br>when faced with political or financial<br>pressure |
-| Humble | Superior (can include taking credit for<br>others' work, refusing to hear feedback) |
+| Sticks to values | Sells out, easily bought off, pushover
+when faced with political or financial
+pressure |
+| Humble | Superior (can include taking credit for
+others' work, refusing to hear feedback) |
 | Sharing work well | A few people do most of the work |
-| Fun, celebratory, appreciative of<br>each other | Serious, resentful, stressful |
-| Forgiving | Holding grudges (between people inside<br>the project and toward outside people<br>and groups) |
-| Able to have generative conflict<br>and learn, repair | Being conflict-avoidant or letting<br>conflicts explode but never reach<br>resolution |
+| Fun, celebratory, appreciative of
+each other | Serious, resentful, stressful |
+| Forgiving | Holding grudges (between people inside
+the project and toward outside people
+and groups) |
+| Able to have generative conflict
+and learn, repair | Being conflict-avoidant or letting
+conflicts explode but never reach
+resolution |
 | Clarity about procedures | Confusion |
-| Human pace with clear priorities<br>and realistic expectations | Rushed pace |
+| Human pace with clear priorities
+and realistic expectations | Rushed pace |
 | Transparency | Secrecy |
-| Generous | Having a scarcity mind-set, penny<br>pinching |
+| Generous | Having a scarcity mind-set, penny
+pinching |
 
 Real contradictions exist in the above chart. We want to be flexible, and we also want to have a culture of responsiveness, reliability, and punctuality. How do we work to cultivate both? Most of us, having received our concept of responsibility from dominant culture, associate it with being forced, lured, or shamed into being "good," ignoring our needs, and fearing punishment if we do wrong. How do we hold our values of flexibility, compassion, and justice while building a culture where we show up and do what we said we would? These tensions are real. If we do not talk about them together, we run the risk of falling into automatic behaviors, driving out new people, and falling apart. Creating a group culture intentionally, and having a shared vision about how we want it to be does not mean we all need to be just like each other. We can acknowledge differences in our capacities, talents, desires, and difficulties and still aim to create a culture where we support each other in the work, learn new skills, and are connected and kind to each other. The goal is not that everyone be similar, but that we all complement each other and build some shared practices based in shared values.
 
@@ -504,10 +768,54 @@ Below is a sample decision-making chart for our example group that delivers groc
 
 ## **Chart 6. Sample decision-making chart.**
 
-| Decision | Who initiates? | Who needs to<br>be consulted? | Who can<br>finalize the<br>decision? | Who<br>needs to<br>be<br>informed<br>and<br>how? |
+| Decision | Who initiates? | Who needs to
+be consulted? | Who can
+finalize the
+decision? | Who
+needs to
+be
+informed
+and
+how? |
 |-------------------------------------------------|-----------------------------------------------------------------|-------------------------------------------------------------------------------------------------|--------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Adding a<br>new<br>weekday<br>for<br>deliveries | Delivery Team<br>(or anyone can<br>propose to<br>Delivery Team) | Whole group at<br>monthly<br>meeting | Delivery Team | Whole<br>group by<br>email and<br>again at<br>monthly<br>meeting |
-| Responding<br>to media<br>inquiry | Communications<br>Team | Communications<br>Team can reach<br>out to anyone<br>they need for<br>quotes or an<br>interview | Communications<br>Team | Report<br>what the<br>request<br>was and<br>how it<br>was met,<br>and any<br>results, to<br>whole<br>group by<br>email and<br>at<br>monthly<br>meeting |
+| Adding a
+new
+weekday
+for
+deliveries | Delivery Team
+(or anyone can
+propose to
+Delivery Team) | Whole group at
+monthly
+meeting | Delivery Team | Whole
+group by
+email and
+again at
+monthly
+meeting |
+| Responding
+to media
+inquiry | Communications
+Team | Communications
+Team can reach
+out to anyone
+they need for
+quotes or an
+interview | Communications
+Team | Report
+what the
+request
+was and
+how it
+was met,
+and any
+results, to
+whole
+group by
+email and
+at
+monthly
+meeting |
 
 One common problem that groups address in these charts is how to make fast-paced decisions, such as responding to media requests or a coalition request to sign on to a letter or event that needs an immediate response. Having a team or subgroup that is authorized by the group to do a quick turnaround in these situations can help groups stay responsive while being grounded in a clear process. A quick-response group that has two or three people who are well-versed in the group's principles can tell if something is easy to respond to quickly, or if it is more complex and needs to go to a larger group for a decision. The quick-response group is also responsible for letting the whole group know immediately what quick decision was made so that others in the group are not surprised to find out, for example, the group has offered an endorsement, and so that people can offer input if they disagree with that particular call. It can be beneficial to have the quick-response group be a rotating role so that everyone gains experience and no person or team becomes the group's default deciders.
 
@@ -562,7 +870,8 @@ One way to establish some group norms about facilitation is to have an agenda te
 
 ## **Chart 7. Agenda template.**
 
-| Date: | Note-Taker: | Time-Keeper: | Meeting<br>Facilitator: | Attendees: |
+| Date: | Note-Taker: | Time-Keeper: | Meeting
+Facilitator: | Attendees: |
 |----------------|------------------|--------------|-------------------------|------------|
 | | | T | T | |
 | Topic | | Time | Facilitator or F | resenter |
@@ -604,31 +913,86 @@ One thing we need to do to create strong, sustainable mutual aid projects is she
 
 | Domineering Leadership | Cooperative Leadership |
 |----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| "Success" defined by<br>dominating others or being<br>the decider | Supports the growth of decision-making<br>processes that include everyone affected by<br>the decision |
-| "My way or the highway"<br>attitude | Wants to find out how others are doing, what<br>they need or believe, what they want |
-| Self-promoting | Eager to help many people develop<br>leadership skills and share the spotlight, able<br>to assess when some things should be done<br>under the radar rather than seeking<br>attention |
-| Concerned with maintaining<br>reputation, looking like "the<br>best," looking "right" | Willing to admit mistakes |
+| "Success" defined by
+dominating others or being
+the decider | Supports the growth of decision-making
+processes that include everyone affected by
+the decision |
+| "My way or the highway"
+attitude | Wants to find out how others are doing, what
+they need or believe, what they want |
+| Self-promoting | Eager to help many people develop
+leadership skills and share the spotlight, able
+to assess when some things should be done
+under the radar rather than seeking
+attention |
+| Concerned with maintaining
+reputation, looking like "the
+best," looking "right" | Willing to admit mistakes |
 | Arrogant and superior | Humble and dignified |
-| Good at talking and<br>commanding | Good at communicating: sharing and<br>listening |
-| Wins others' support through<br>status, fear, or because others<br>see them as most powerful | Wins support by being supportive,<br>consistent, trustworthy |
+| Good at talking and
+commanding | Good at communicating: sharing and
+listening |
+| Wins others' support through
+status, fear, or because others
+see them as most powerful | Wins support by being supportive,
+consistent, trustworthy |
 | Certain they are right | Open to influence and changing their opinion |
-| Concerned about the<br>reputation of group with<br>media or elites | Concerned about the group's material impact<br>—does it alleviate suffering and increase<br>justice? |
-| Fosters competition in the<br>group | Fosters compassion and a desire that no one<br>is left out of the group |
+| Concerned about the
+reputation of group with
+media or elites | Concerned about the group's material impact
+—does it alleviate suffering and increase
+justice? |
+| Fosters competition in the
+group | Fosters compassion and a desire that no one
+is left out of the group |
 
-| Suspicious of new people | Generous and open to newcomers while<br>holding clear principles and boundaries |
+| Suspicious of new people | Generous and open to newcomers while
+holding clear principles and boundaries |
 |--------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Impulsive—plans change with<br>their whims | Holds steady to the groups' decisions and<br>purpose; reliable |
-| Judgmental and quick to<br>exclude others who aren't like<br>them or who disagree | Can tolerate people being different in a lot of<br>ways; sees potential in people to become<br>part of the work for change and helps them<br>develop skills and abilities |
-| Gets their sense of self from<br>status | Self-accepting and steady in sense of self,<br>and so able to take risks or hold unpopular<br>opinions |
-| Cares most about what elites<br>think | Cares most about what those on the bottom<br>of hierarchies think and know; works to<br>cultivate authenticity |
-| Needs to be the center of<br>attention | Can take the risk of being seen, can step<br>back so others can be seen |
-| Tells people what to do | Avoids advice-giving unless asked, interested<br>in supporting people to make decisions that<br>align with their values |
-| Seeks immediate gains, even<br>if it means big compromises | Sees the long view and holds to values |
-| Gives demeaning feedback or<br>fails to give feedback; gossips<br>instead of giving direct<br>feedback | Gives direct feedback in a compassionate<br>way |
-| Defensive, closed to feedback | Open to feedback, interested in how they<br>impact others |
-| Controlling, micromanaging | Can delegate, can ask for help, wants more<br>people's participation rather than more<br>control |
-| Outcome-oriented | Supports processes with integrity that lead<br>to more people participating in decision<br>making |
-| Seeks and demands to feel<br>comfortable at the expense of<br>others feeling uncomfortable | Interested in what can be learned from<br>discomfort, from changing roles or being out<br>of place, from conditions transforming |
+| Impulsive—plans change with
+their whims | Holds steady to the groups' decisions and
+purpose; reliable |
+| Judgmental and quick to
+exclude others who aren't like
+them or who disagree | Can tolerate people being different in a lot of
+ways; sees potential in people to become
+part of the work for change and helps them
+develop skills and abilities |
+| Gets their sense of self from
+status | Self-accepting and steady in sense of self,
+and so able to take risks or hold unpopular
+opinions |
+| Cares most about what elites
+think | Cares most about what those on the bottom
+of hierarchies think and know; works to
+cultivate authenticity |
+| Needs to be the center of
+attention | Can take the risk of being seen, can step
+back so others can be seen |
+| Tells people what to do | Avoids advice-giving unless asked, interested
+in supporting people to make decisions that
+align with their values |
+| Seeks immediate gains, even
+if it means big compromises | Sees the long view and holds to values |
+| Gives demeaning feedback or
+fails to give feedback; gossips
+instead of giving direct
+feedback | Gives direct feedback in a compassionate
+way |
+| Defensive, closed to feedback | Open to feedback, interested in how they
+impact others |
+| Controlling, micromanaging | Can delegate, can ask for help, wants more
+people's participation rather than more
+control |
+| Outcome-oriented | Supports processes with integrity that lead
+to more people participating in decision
+making |
+| Seeks and demands to feel
+comfortable at the expense of
+others feeling uncomfortable | Interested in what can be learned from
+discomfort, from changing roles or being out
+of place, from conditions transforming |
 
 ## **Ways to use this chart:**
 
@@ -809,12 +1173,14 @@ We need each other badly to share what is hard about the overwhelming suffering 
 
 | Unable to estimate time | Realistic time allotment | |
 |--------------------------------------|-------------------------------------------------|--|
-| Non-stop | Pausing for change of pace, focus, new<br>ideas | |
+| Non-stop | Pausing for change of pace, focus, new
+ideas | |
 | False deadlines | Appropriate timing | |
 | Driven, adrenalized | Feeling of being in flow | |
 | Sense of urgency | Relaxed about time | |
 | Must complete | work Can delay task | |
-| Confusing urgency with<br>importance | Able to prioritize | |
+| Confusing urgency with
+importance | Able to prioritize | |
 | Reacting to pressure | Following inner guidance | |
 | Mentally scattered | Focused | |
 | Inefficient | Effective | |
@@ -1061,7 +1427,7 @@ Mutual aid work plays an immediate role in helping us get through crises, but it
 
 ## **Resource List**
 
-This book expands upon the author's previous writing and worksheets published in Social Text and Medium. A teaching guide to accompany this book is available online at <http://v.versobooks.com/Mutual\_Aid\_Teaching\_Guide.pdf> Below are more resources, some cited in this book.
+This book expands upon the author's previous writing and worksheets published in Social Text and Medium. A teaching guide to accompany this book is available online at  Below are more resources, some cited in this book.
 
 Barnard Center for Research on Women. "Queer Dreams and Nonprofit Blues" video series. bcrw.barnard.edu.
 

@@ -1,3 +1,8 @@
+---
+title: "[gnu.org](https://www.gnu.org/education/education.html)"
+category: "labor"
+---
+
 [gnu.org](https://www.gnu.org/education/education.html)
 
 ## **Free Software and Education - GNU Project**

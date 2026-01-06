@@ -1,3 +1,8 @@
+---
+title: "**Bretton Woods Conference**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Bretton_Woods_Conference)
 
 # **Bretton Woods Conference**
@@ -192,21 +197,30 @@ Instead, White proposed an International Stabilization Fund, which would place t
 
 | State | Delegation members[18] |
 |---------------------------|------------------------------------------------------------------------------------------|
-| Australia | Leslie Melville, Frederick Wheeler,<br>Arthur Tange |
-| Belgium | Camille Gutt, Georges Theunis, René<br>Boël |
+| Australia | Leslie Melville, Frederick Wheeler,
+Arthur Tange |
+| Belgium | Camille Gutt, Georges Theunis, René
+Boël |
 | Bolivia | René Ballivián Calderón |
-| Brazil | Artur de Sousa Costa, Francisco Alves<br>dos Santos Filho, Roberto de Oliveira<br>Campos |
-| Canada | James Lorimer Ilsley, Louis St Laurent,<br>Douglas Abbott and Lionel Chevrier |
+| Brazil | Artur de Sousa Costa, Francisco Alves
+dos Santos Filho, Roberto de Oliveira
+Campos |
+| Canada | James Lorimer Ilsley, Louis St Laurent,
+Douglas Abbott and Lionel Chevrier |
 | Chile | Luis Álamos Barros |
-| China, the<br>Republic of | H. H. Kung, Tsiang Tingfu, Kuo Ping<br>Wen, Tsuyee Pei |
-| Colombia | Carlos Lleras Restrepo, Miguel López<br>Pumarejo |
+| China, the
+Republic of | H. H. Kung, Tsiang Tingfu, Kuo Ping
+Wen, Tsuyee Pei |
+| Colombia | Carlos Lleras Restrepo, Miguel López
+Pumarejo |
 
 | State | Delegation members[18] |
 |-----------------------|------------------------------------------------------------------------------------------|
 | Costa Rica | Francisco de Paula Gutiérrez Ross |
 | Cuba | Eduardo I. Montoulieu |
 | Czechoslovakia | Ladislav Feierabend (cs) |
-| Dominican<br>Republic | Anselmo Copello |
+| Dominican
+Republic | Anselmo Copello |
 | Ecuador | Esteban F. Carbo |
 | Egypt | Sany Lackany Bey |
 | El Salvador | Agustín Alfaro Morán |
@@ -217,7 +231,9 @@ Instead, White proposed an International Stabilization Fund, which would place t
 | Haiti | André Liautaud |
 | Honduras | Julián R. Cáceres |
 | Iceland | Magnús Sigurðsson |
-| India (British) | Jeremy Raisman, Ardeshir Darabshaw<br>Shroff, C. D. Deshmukh, R. K.<br>Shanmukham Chetty |
+| India (British) | Jeremy Raisman, Ardeshir Darabshaw
+Shroff, C. D. Deshmukh, R. K.
+Shanmukham Chetty |
 | Iran | Abol Hassan Ebtehaj |
 | Iraq | Ibrahim Kamal |
 ## | Liberia | William E. Dennis Sr. |

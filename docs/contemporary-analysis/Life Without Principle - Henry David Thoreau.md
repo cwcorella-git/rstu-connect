@@ -1,3 +1,8 @@
+---
+title: "## Henry David Thoreau"
+category: "contemporary-analysis"
+---
+
 ## Henry David Thoreau
 
 ## Life without Principle

@@ -1,3 +1,8 @@
+---
+title: "## **Bridging the Digital Divide Between the Left and Capitalism, an Urgent Mission for Left Movemen"
+category: "technology-digital-justice"
+---
+
 ## **Bridging the Digital Divide Between the Left and Capitalism, an Urgent Mission for Left Movements**
 
 ## **Date:** Unknown

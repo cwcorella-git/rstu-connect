@@ -1,3 +1,8 @@
+---
+title: "**Land and Liberty**"
+category: "contemporary-analysis"
+---
+
 # **Land and Liberty**
 
 ## Ricardo Flores Magón
@@ -6,10 +11,13 @@
 
 | Act One | |
 |------------------|--|
-| Scene One<br> | |
-| Scene Two<br> | |
+| Scene One
+ | |
+| Scene Two
+ | |
 | Act Two | |
-| Unique Scene<br> | |
+| Unique Scene
+ | |
 ## | | |
 
 ## CHARACTERS

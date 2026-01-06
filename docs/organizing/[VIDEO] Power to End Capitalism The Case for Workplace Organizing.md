@@ -1,3 +1,8 @@
+---
+title: "## **[VIDEO] Power to End Capitalism: The Case for Workplace Organizing**"
+category: "organizing"
+---
+
 ## **[VIDEO] Power to End Capitalism: The Case for Workplace Organizing**
 
 ## **Date:** Unknown

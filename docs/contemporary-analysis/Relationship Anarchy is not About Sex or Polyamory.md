@@ -1,3 +1,8 @@
+---
+title: "## **The Thinking Aro**"
+category: "contemporary-analysis"
+---
+
 ## **The Thinking Aro**
 
 ## **Relationship Anarchy is not About Sex or Polyamory**

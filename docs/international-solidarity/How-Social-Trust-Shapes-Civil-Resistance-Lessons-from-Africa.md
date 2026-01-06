@@ -1,3 +1,8 @@
+---
+title: "How Social Trust Shapes Civil Resistance"
+category: "international-solidarity"
+---
+
 ## ICNC MONOGRAPH SERIES
 
 # How Social Trust Shapes Civil Resistance
@@ -91,7 +96,9 @@ ICNC MONOGRAPH SERIES EDITOR: Dr. Maciej Bartkowski VOLUME EDITORS: Steve Chase,
 |----------------------------------------------------------------------------------|----|
 | Model and Data | 40 |
 | Results | 46 |
-| Summary of Chapter 3 Findings<br><br> | 49 |
+| Summary of Chapter 3 Findings
+
+ | 49 |
 | Conclusion | 52 |
 | Relevant Findings for Activists | 52 |
 | Relevant Findings for Scholars | 54 |
@@ -100,7 +107,9 @@ ICNC MONOGRAPH SERIES EDITOR: Dr. Maciej Bartkowski VOLUME EDITORS: Steve Chase,
 | Overview | 65 |
 | Statistical Information from Chapter 2 | 65 |
 | Statistical Information from Chapter 3 | 68 |
-| Statistical Information for the Conclusion<br><br> | 72 |
+| Statistical Information for the Conclusion
+
+ | 72 |
 | Do Survey Respondents Believe That They Are Speaking to a Government Agent? | 72 |
 | | |
 | Tables and Figures | |
@@ -120,15 +129,19 @@ ICNC MONOGRAPH SERIES EDITOR: Dr. Maciej Bartkowski VOLUME EDITORS: Steve Chase,
 | TABLE 12. Union Membership and Trust in Diverse Populations | 72 |
 | FIGURE 1. Proposed Explanations for How Trust Shapes Perceptions of Cost | 16 |
 | FIGURE 2. Willingness to Attend a Protest | 21 |
-| FIGURE 3. Dierent Measurements of Social Trust<br>and Reported Potential Mobilization | 24 |
+| FIGURE 3. Dierent Measurements of Social Trust
+and Reported Potential Mobilization | 24 |
 | FIGURE 4. Potential and Actual Mobilization | 31 |
 | FIGURE 5. Justication of Violent Action | 36 |
 | FIGURE 6. Social Trust and Justications of Violent Action | 39 |
-| FIGURE 7. Proportion of Antigovernment Contention<br>That is Violent and Nonviolent | 43 |
-| FIGURE 8. Generalized Trust and Predicted<br>Antigovernment Nonviolent and Violent Actions | 46 |
+| FIGURE 7. Proportion of Antigovernment Contention
+That is Violent and Nonviolent | 43 |
+| FIGURE 8. Generalized Trust and Predicted
+Antigovernment Nonviolent and Violent Actions | 46 |
 | FIGURE 9. Trust in Diverse Groups and Predicted Nonviolent Contention | 47 |
 | FIGURE 10. Comparison of Cross-Country Coecients for Potential Mobilization | 67 |
-| FIGURE 11. Comparison of Cross-Country Coecients<br>for Justication of Violent Action | 70 |
+| FIGURE 11. Comparison of Cross-Country Coecients
+for Justication of Violent Action | 70 |
 
 ## List of Key Terms and Their Definitions
 
@@ -164,7 +177,7 @@ The study of civil resistance has become increasingly important as democratic no
 
 The growing readiness of people to resort to civil resistance across the globe commands a concurrent expansion in scholarship and analysis. Research has focused largely on how campaigns operate, succeed, or fail. Work on these micro-dynamics has examined
 
-<sup>1</sup> Central to civil resistance is the maintenance of nonviolent discipline. This may be principled and moralistic, as proposed by Gregg (2018) or strategic, as proposed by Sharp (1973).
+1 Central to civil resistance is the maintenance of nonviolent discipline. This may be principled and moralistic, as proposed by Gregg (2018) or strategic, as proposed by Sharp (1973).
 
 within-movement fractures (Bramsen 2018), decision-making (Dudouet 2015), and maintaining nonviolent discipline (Bramsen 2019; Pinckney 2016) One important area of scholarship in conict studies and democracy that has been understudied in the context of civil resistance is that of trust A large body of research has focused on how trust shapes political behaviors (Caillier 2010), community development and democracy (Putnam 2001; Sønderskov 2011a; Sønderskov and Dinesen 2016), and collective action (Nilson and Nilson 1980; Sønderskov 2009; van Stekelenburg and Klandermans 2018) Despite this literature, scholars and activists have not explored trust in-depth with regard to important questions in civil resistance As a result, there are many important areas of inquiry in which the application of micro-level analysis may be fruitful For example, recent work by Chenoweth and Ulfelder (2017) tests whether major theories in conict studies and contentious politics help explain the onset of mass civil resistance movements Theynd that while some theories outperform others, none of the extant theories tested thoroughly explain the onset of such movements Similarly, scholars and activists know very little beyond Pinckney's (2016) recentndings of why some campaigns are able to maintain nonviolent discipline while others are not
 
@@ -212,7 +225,7 @@ Of course, many governments are untrustworthy Throughout Africa—as in much of 
 
 Thus, trust (or lack thereof) in government bleeds into society more generally When societies have high levels of trust, they build social capital (Putnam 2001) and improve
 
-<sup>7</sup> Levi draws from Douglass North's (1984, 1991) seminal work on how institutions serve to reduce transaction costs between strangers, thereby allowing modern societies to function. In short, if Citizen A can trust that a government agency will faithfully enforce a transaction with Citizen B, then Citizens A and B do not need to spend signicant eort vetting one another. When trust that the government can or will enforce private interactions declines, Citizens A and B become reluctant to interact with one another. This is often applied to private nancial transactions, but can also be applied to the enforcement of laws. If Citizens A and B have a car accident and neither law enforcement nor the judiciary can be trusted to faithfully mediate the dispute (perhaps demanding bribes to rule in favor of one or another), both will nd themselves unable to interact trustingly within society.
+7 Levi draws from Douglass North's (1984, 1991) seminal work on how institutions serve to reduce transaction costs between strangers, thereby allowing modern societies to function. In short, if Citizen A can trust that a government agency will faithfully enforce a transaction with Citizen B, then Citizens A and B do not need to spend signicant eort vetting one another. When trust that the government can or will enforce private interactions declines, Citizens A and B become reluctant to interact with one another. This is often applied to private nancial transactions, but can also be applied to the enforcement of laws. If Citizens A and B have a car accident and neither law enforcement nor the judiciary can be trusted to faithfully mediate the dispute (perhaps demanding bribes to rule in favor of one or another), both will nd themselves unable to interact trustingly within society.
 
 associational life (Sønderskov 2011a) 8 As such, high-trust networks that often characterize associational life can be extremely important Such associations within civil society often support the founding of, or even serve as, civil resistance organizations that cooperate within a larger civil resistance campaign In the African context, such associational life has proven to be of fundamental importance in challenging unjust governments Strong civil society including religious congregations and labor unions—often served as vanguards to the transition to multiparty democratic rule across the post-colonial states in the 1990s (Larmer 2009; Thompson 2014) These elements of society were often too powerful even for authoritarian one-party states to shutter
 
@@ -220,15 +233,15 @@ This is particularly true in South Africa, where trade unions often served as th
 
 The central role of such associational life suggests that trust serves an important role in facilitating the development, growth, and cohesion of civil resistance organizations and campaigns While trust has been identied as important for cooperation in both lab andeld
 
-<sup>8</sup> Associational life refers to voluntary collective organizations, ranging from bowling leagues to religious congregations to politically oriented civics groups.
+8 Associational life refers to voluntary collective organizations, ranging from bowling leagues to religious congregations to politically oriented civics groups.
 
-<sup>9</sup> This is detailed excellently in Leonard Thompson's (2014) A History of South Africa, beginning on page 224.
+9 This is detailed excellently in Leonard Thompson's (2014) A History of South Africa, beginning on page 224.
 
-<sup>10</sup> The African National Congress is the liberation party that won power in South Africa's rst open elections in 1994 and has continued to dominate—albeit diminishingly—the political landscape in the country ever since. The ANC has become increasingly corrupt and inecient. See Booysen (2015), Runciman (2016), and Alexander (2010) for more information on the manner in which South Africans have engaged in both violent and nonviolent civil resistance against the ANC.
+10 The African National Congress is the liberation party that won power in South Africa's rst open elections in 1994 and has continued to dominate—albeit diminishingly—the political landscape in the country ever since. The ANC has become increasingly corrupt and inecient. See Booysen (2015), Runciman (2016), and Alexander (2010) for more information on the manner in which South Africans have engaged in both violent and nonviolent civil resistance against the ANC.
 
-<sup>11</sup> In which 34 unarmed and partially armed miners were shot and killed (and numerous others wounded) by South African police following a wage dispute. Marikana shocked South Africans and galvanized anti-government activism in its wake. The authoritative account of the massacre can be found in Greg Marinovich's (2016) thorough and haunting Murder at Small Koppie. For information on the impact of Marikana on trade union activism, consider Luke Sinwell and Siphiwe Mbatha's (2016) The Spirit of Marikana.
+11 In which 34 unarmed and partially armed miners were shot and killed (and numerous others wounded) by South African police following a wage dispute. Marikana shocked South Africans and galvanized anti-government activism in its wake. The authoritative account of the massacre can be found in Greg Marinovich's (2016) thorough and haunting Murder at Small Koppie. For information on the impact of Marikana on trade union activism, consider Luke Sinwell and Siphiwe Mbatha's (2016) The Spirit of Marikana.
 
-<sup>12</sup> Of course, trust is not exclusively the providence of pro-social, pro-democracy actors. Trust plays an important role in the cohesion of all types of groups—from civil resistance organizations to terrorist organizations.
+12 Of course, trust is not exclusively the providence of pro-social, pro-democracy actors. Trust plays an important role in the cohesion of all types of groups—from civil resistance organizations to terrorist organizations.
 
 settings (Axelrod 2006; Habyarimana et al 2009), and also in shaping policies (Cook, Hardin, and Levi 2005; Lubell 2007), theories of trust do not feature prominently in works on civil resistance Yet, many questions about the role that trust plays in civil resistance movements speak to central issues that are important to both activists and scholars alike For example, how do dierent types of trust shape individual preferences over mobilization or the use of violent or nonviolent tactics? There is reason to believe that such relationships exist Individual-level factors and preferences, such as social networks, matter in shaping mobilization, as has been widely demonstrated (Corrigall-Brown 2011; Gould 1991, 1993, 1995; Viterna 2006; Wickham-Crowley 1992) For civil resistance activists and scholars, better understanding these relationships can improve eorts to attract new members, improve the selection of members, and provide new avenues for research
 
@@ -246,9 +259,9 @@ A large body of scholarship has focused on the determinants and eects of general
 
 For activists and members of civil resistance organizations, rational trust may not provide a meaningful or satisfactory denition of trust or the role that it plays in facilitating the onset
 
-<sup>13</sup> Scholars often refer to rational trust as "encapsulated trust."
+13 Scholars often refer to rational trust as "encapsulated trust."
 
-<sup>14</sup> This approach gained great support during the surge of rational choice theorization in the social sciences. Giants such as Russell Hardin, Margaret Levi, Karen Cook, and Elinor Ostrom detailed rationalist arguments in a collection of books that were published as the Russell Sage Foundation Series on Trust.
+14 This approach gained great support during the surge of rational choice theorization in the social sciences. Giants such as Russell Hardin, Margaret Levi, Karen Cook, and Elinor Ostrom detailed rationalist arguments in a collection of books that were published as the Russell Sage Foundation Series on Trust.
 
 and growth of organizations and campaigns Rational trust can feel thin and fragile, and while it may adequately describe interactions between individuals in isolated or one-ocircumstances, it is less useful in explaining how trust operates at the organizational or campaign level This chapter presents two additional approaches that shed light on how civil resistance organizations and campaigns operate First, it discusses how trust networks—dense and often secretive groups that operate with purpose shapes how civil resistance organizations start and operate in difficult and dangerous environments Second, it discusses the idea of moral trust, which helps explain how large campaigns, full of disparate organizations and activists, retain trust even when campaigns experience setbacks
 
@@ -264,7 +277,7 @@ There are, of course, many trust relationships in our daily lives We may place v
 
 While research on civil resistance has not directly addressed the role of social trust, there is existing research in political science that provides a foundation upon which to base expectations For example, social trust has been shown to increase cooperation (Sønderskov 2009, 2011b) and reduce preferences for violent radicalism (Glaeser 2016) Other researchnds that trust corresponds with a number of contentious actions, including signing a petition, engaging in lawful demonstrations, engaging in unocial strikes, and even occupying a building (Benson and Rochon 2004) Benson and Rochon argue that interpersonal trust might help solve the assurance puzzle embedded within protest,15 namely that the expected utility of one's own participation is in part contingent on how many other participants show up Because larger groups generally signal broader public support and greater overall resolve, it would be disadvantageous—and possibly damaging to the cause—to be the only activist to show up for a protest They argue that high-trusting individuals are better able to predict the behavior of others, thus increasing their levels of assurance that other activists will, indeed, show up to protest
 
-<sup>15</sup> For more information, see Chong's (1991) work on the civil rights movement.
+15 For more information, see Chong's (1991) work on the civil rights movement.
 
 Relatedly, scholarship in theelds of civil resistance and contentious politics has focused heavily on social networks and social linkages Extensive work in sociology has emphasized the role of social networks in mobilizing bystanders into social movements (Gould 1991, 1993; Snow, Zurcher Jr , and Ekland-Olson 1980) 16 Marwell, Oliver, and Prahl (1988) demonstrate that the structural elements, including the density, centralization, and heterogeneity of social ties, shape prospects for collective action 17
 
@@ -274,11 +287,11 @@ On the other hand, Lee and Glasure (2007)nd that the linkage between association
 
 In addition to clarifying some of these empirical puzzles, it is important to note that the study of trust, while related to social linkages and networks, is theoretically and empirically distinct and thus merits specic attention One generally assumes that trust is a foundational
 
-<sup>16</sup> Of course, not all work on networks and mobilization focus on nonviolent civil resistance organizations and movements. In her seminal work on the 1994 Rwandan genocide, Fujii (2008) shows that social linkages can mobilize participation in ethnic cleansing. Fujii also demonstrates that cross-ethnic linkages often led genocidaires to warn potential victims whom they knew or were friendly with. This generates a strange tension, in which social linkages act simultaneously upon an agent to push them toward participating in genocide and simultaneously subverting genocide.
+16 Of course, not all work on networks and mobilization focus on nonviolent civil resistance organizations and movements. In her seminal work on the 1994 Rwandan genocide, Fujii (2008) shows that social linkages can mobilize participation in ethnic cleansing. Fujii also demonstrates that cross-ethnic linkages often led genocidaires to warn potential victims whom they knew or were friendly with. This generates a strange tension, in which social linkages act simultaneously upon an agent to push them toward participating in genocide and simultaneously subverting genocide.
 
-<sup>17</sup> These authors do not address Granovetter's (1973) distinction between strong and weak ties. Granovetter's work on the strength of ties does suggest trust as a central component of strong ties.
+17 These authors do not address Granovetter's (1973) distinction between strong and weak ties. Granovetter's work on the strength of ties does suggest trust as a central component of strong ties.
 
-<sup>18</sup> See Chapter 3 for more on this.
+18 See Chapter 3 for more on this.
 
 element of most social linkages and networks, but this is not necessarily true Whereas traditional theories of social trust assume that associations are likely comprised of"high-trusters," there are circumstances in which these assumptions may not hold Labor unions are associational, but are formed via entry into a trade rather than via channels of shared interests Alternatively, activists may actively distrust one another, but this distrust may be trumped by a greater distrust for the government, leading to a temporary alliance that dissolves at a later date The focus on trust in this monograph thus merits attention distinct from existing attention paid to social networks and linkages
 
@@ -290,7 +303,7 @@ On the whole, however, scholarship suggests a positive relationship between soci
 
 It is expected that individuals with high levels of social trust would report a higher willingness to participate in protests and demonstrations For the sake of this argumentation, the monograph will refer to the willingness to participate as potential mobilization It is argued that from the perspective of civil resistance, social trust seems likely to increase the potential mobilization of African citizens This is because social trust seems likely to generate a sense of solidarity with strangers that may either reduce the perceived costs of mobilization or may inoculate potential activists to those costs Participating in civil resistance organizations and campaigns can be costly in numerous ways, and these costs may reduce potential mobilization by encouraging free-riding (Lichbach 1995; Olson 1965) 19 Activists also need to dedicate time and resources to organizing and engaging in civil resistance activities such as protests or demonstrations And those activities can carry costs as well, including the risk of experiencing government repression
 
-<sup>19</sup> In the study of collective action, free-riding describes the behavior of members of an organization or collective who do not contribute but still reap the benets of being part of the organization.
+19 In the study of collective action, free-riding describes the behavior of members of an organization or collective who do not contribute but still reap the benets of being part of the organization.
 
 There are several potential ways in which social trust may serve to solve the problem of high costs First, social trust, conceived through the moral trust framework, may alter perceptions of those costs High-trusting individuals may observe civil resistance groups engaging in protest and trust that their interests are the same as those of other protesters That observer may assume that because their interests are in line, and thus they belong to the same moral community, the potential of somehow being betrayed by the group or put at risk by the group is low, and would therefore feel comfortable mobilizing Chenoweth and Stephan (2011) argue that the nonviolent character of civil resistance can reduce the perceived costs of participation in anti-government activities such as protests, speeches, and noncooperation Social trust may operate similarly, reducing the perceived costs of participating in civil resistance High trusting groups may be able to operate under duress because trust itself serves to reduce both the incentives to violate group norms and the need to observe individual member behavior (Ensminger 2001) In this sense, trust plays the role of reducing within-group costs (time, resources) needed to monitor and enforce desired behavior (North 1984), whereas citizens who lack trust are unlikely to join a civil resistance organization or participate in a campaign without an established, formal leadership structure through which group norms and rules are enforced (Cook, Hardin, and Levi 2005)
 
@@ -298,7 +311,7 @@ There is a second, alternative way in which social trust may increase potential 
 
 **Prediction 1:** High levels of social trust correspond with an increased willingness to engage in nonviolent protests and demonstrations
 
-<sup>20</sup> Scholars of contentious politics and civil resistance refer to this as "backlash" and "backre," respectively (Daxecker and Hess 2013; Martin 2015).
+20 Scholars of contentious politics and civil resistance refer to this as "backlash" and "backre," respectively (Daxecker and Hess 2013; Martin 2015).
 
 Figure 1 Proposed Explanations for How Trust Shapes Perceptions of Cost displays the two proposed mechanisms suggested thus far The perceived costs of participation (e g , mobilizing, opportunity costs, potentially experiencing repression) are denoted in the blue continuous line while the willingness to pay those costs are denoted in the red dotted line On the left, as trust increases (on the x-axis), the perceptions of the cost of participating in nonviolent protest diminish to the point of crossing the threshold of the willingness of an individual to pay those costs to participate On the right, as trust increases, the willingness to pay the costs of participation increases until it surpasses the perceived costs of participation in nonviolent protest
 
@@ -314,7 +327,7 @@ Alternatively, trust may serve as a cohesive force within a civil resistance org
 
 Trust may serve to maintain nonviolent discipline in times of procedural or strategic uncertainty In environments where newly mobilized activists are unsure of how much they can trust their new acquaintances, they may be less able or willing to maintain and enforce nonviolent discipline than in environments where they trust that their voices will be heard Activists committed to nonviolent action may be unsure how much they can trust the commitment of their fellow participants to uphold standards of nonviolent action 21 Group norms, such as the commitment to nonviolent action, are more likely to be violated in thinner social networks (Booth, Farrell, and Varano 2008; Hirschi 1969) In low-trust, spontaneous events, group leaders are less able to sanction violent behavior (Chaurand and Brauer 2008) Recent research has shown that nonviolent protests are more likely to retain nonviolent discipline in the presence of clear leadership hierarchies (Ives and Lewis 2020) While many civil resistance organizations are professional and campaigns are well-coordinated, this is not always the case For example, the civil resistance campaigns that rocked North Africa and the Middle East beginning in 2010 emerged out of what were initially unstructured networks rather than highly organized labor unions or church or mosque groups (Tufekci 2017) In such
 
-<sup>21</sup> Consider the behavior of Black Bloc anarchists, who often inltrate nonviolent protests in order to deliberately engage in violent disruption (Africa Research Bulletin 2013). These individuals are able, with a small cohort of provocateurs, to derail meaningful peaceful protests, altering the ability of activists to frame their movement as civil resistance.
+21 Consider the behavior of Black Bloc anarchists, who often inltrate nonviolent protests in order to deliberately engage in violent disruption (Africa Research Bulletin 2013). These individuals are able, with a small cohort of provocateurs, to derail meaningful peaceful protests, altering the ability of activists to frame their movement as civil resistance.
 
 circumstances, high levels of social trust may help reduce the onset of violent action by altering how participants perceive their circumstances For example, new activists that are committed to nonviolent civil resistance and are operating in a high-trust environment may be less likely to believe themselves to be in a potentially violent situation (Collins 2008), particularly if they trust that their fellow activists will maintain nonviolent discipline In this sense, trust is seen as a guarantee that participants will observe and maintain group norms of nonviolent action
 
@@ -348,9 +361,9 @@ In an ideal world, scholars prefer to examine causal relationships By this, the 
 
 In this monograph, the study instead presents correlational relationships, which are able to show how one input factor (such as social trust) relates to an outcome (such as participation in nonviolent protest) While correlational analyses cannot test more denitive claims about causal impact, theydoprovideanenormousbenettoscholars andactivists alike Correlational analysis can help demonstrate robust relationships between important social phenomena and can be analyzed in depth to suggest (though, not prove) causal pathways Because the vast majority of data used in the social sciences are observed (that is, recorded by a third party after the fact), the bulk of social science research relies on correlational analysis
 
-Therst expected outcome speaks to the willingness of individuals to participate in civil resistance actions There is a wide portfolio of actions that civil resistance activists and groups may use Gene Sharp (1973) identied 198 nonviolent actions that could be employed in pursuit of civil resistance While the Afrobarometer dataset does not ask about each of these, it does ask about a common nonviolent act found within the portfolio of civil resistance: namely, participation in assemblies of protest Thus, the outcome for therst set of tests is the willingness expressed by Afrobarometer respondents to engage in a protest, or potential mobilization <sup>22</sup> Respondents were presented with "a list of actions that people sometimes take as citizens," including whether they had "[a]ttended a demonstration or protest march " Responses are recorded on ave-point scale On one side of the scale is the response that
+Therst expected outcome speaks to the willingness of individuals to participate in civil resistance actions There is a wide portfolio of actions that civil resistance activists and groups may use Gene Sharp (1973) identied 198 nonviolent actions that could be employed in pursuit of civil resistance While the Afrobarometer dataset does not ask about each of these, it does ask about a common nonviolent act found within the portfolio of civil resistance: namely, participation in assemblies of protest Thus, the outcome for therst set of tests is the willingness expressed by Afrobarometer respondents to engage in a protest, or potential mobilization 22 Respondents were presented with "a list of actions that people sometimes take as citizens," including whether they had "[a]ttended a demonstration or protest march " Responses are recorded on ave-point scale On one side of the scale is the response that
 
-<sup>22</sup> Importantly, levels of reported willingness to engaged in a protest—or even self-reported experience engaging in protests—likely dier from actual mobilization behavior. Socially desirable response bias, a form of misreporting commonly found in surveys, describes how survey respondents will select answers that they believe to be most socially acceptable, regardless of whether they accurately reect the truth (Ansolabehere and Hersh 2012; Steenkamp, De Jong, and Baumgartner 2010). This is a challenge when examining whether reported willingness to engaged in protests or other political behavior correlates with actual participation if and when the time for such action arises. Due to limitations with the data, this study can only examine whether increased levels of trust shape reported willingness to participate in protests, which is referred to as potential mobilization. This is tested later in the chapter.
+22 Importantly, levels of reported willingness to engaged in a protest—or even self-reported experience engaging in protests—likely dier from actual mobilization behavior. Socially desirable response bias, a form of misreporting commonly found in surveys, describes how survey respondents will select answers that they believe to be most socially acceptable, regardless of whether they accurately reect the truth (Ansolabehere and Hersh 2012; Steenkamp, De Jong, and Baumgartner 2010). This is a challenge when examining whether reported willingness to engaged in protests or other political behavior correlates with actual participation if and when the time for such action arises. Due to limitations with the data, this study can only examine whether increased levels of trust shape reported willingness to participate in protests, which is referred to as potential mobilization. This is tested later in the chapter.
 
 an individual has never and would never protest On the other side is the response that an individual frequently participates in protests
 
@@ -366,9 +379,9 @@ The third measure of social trust is of one's neighbors The question is worded: 
 
 The most intimate measure of social trust is of one's acquaintances The question is phrased as such: "Let's turn to your views on your fellow citizens How much do you trust each of the following types of people? Other people you know " This is referred to as trust in acquaintances The same response scale that applied to the question on fellow citizens and neighbors applies to this question Unlike the measures of fellow citizens and neighbors, this measurement indexes how one trusts acquaintances Speaking of "other people you know" is still vague, but it is reasonable to assume that most people interpret this to refer to people within one's social circle This measurement is thus subject to a selection eect: we tend to associate with people that we like or with whom we work, attend religious services, or otherwise agree with Despite this selection eect, this measurement is included because it improves the thoroughness of the analysis
 
-<sup>23</sup> When compared to a measurement of trust that uses a scale, for example, that allows respondents to state that they have "a lot" of trust, "some trust," or "no trust at all."
+23 When compared to a measurement of trust that uses a scale, for example, that allows respondents to state that they have "a lot" of trust, "some trust," or "no trust at all."
 
-<sup>24</sup> For more information on this, see Sonderskov (2011a).
+24 For more information on this, see Sonderskov (2011a).
 
 #### Descriptive Evidence
 
@@ -388,7 +401,7 @@ Having examined the data at their face value, the study now turns to the use of 
 
 The statistical model is hierarchical, incorporating information about which country each respondent is from In order to make the model more accurate, the analysis includes several important factors to minimize the likelihood of omitted variable bias For example, the models include the gender of the respondent as a standard measure that is often used in survey research Additionally, age likely shapes whether someone is willing to engage in protests, which are often physically demanding and involve marching and the threat of repression from the state The analysis also includes a measurement of each respondent's perceptions of the current economic status of the country Substantial work has demonstrated that economic perceptions shape protest and contentious mobilization (Mampilly 2011; Mueller 2013, 2018) and it is important to include such information in any analysis of protest intention Along a similar line, the analysis includes a measurement that measures a respondent's relative living situation One major line of research in conict studies focuses on what Gurr called "relative deprivation" (Gurr 1970) Many scholars25 have built on this school of thought, which argues that the impetus to mobilize is linked to perceptions of one's material deprivation relative to others in society The models also include an indicator of the level of education that each respondent has attained Respondents with higher educational attainment are likely
 
-<sup>25</sup> Stewart (2010) and others (Cederman, Weidmann, and Gleditsch 2011; Østby 2008) have taken great eorts to extend Gurr's thesis to apply to groups within society rather than individuals.
+25 Stewart (2010) and others (Cederman, Weidmann, and Gleditsch 2011; Østby 2008) have taken great eorts to extend Gurr's thesis to apply to groups within society rather than individuals.
 
 more aware of political issues and thus more likely to be aware of potential civil resistance opportunities Finally, the models include three measurements of perceived corruption Government corruption is a major and highly salient issue in African politics, and recent work has shown that it can motivate participation in protests (Auyero 2003; Beyerle 2014; Johnston 2005; Lewis 2020) Many civil resistance movements have recently included corruption as a central grievance in their claims against the government (Alexander 2010; Beyerle 2014; Evelyne Musambi 2018; Security 2019) These measurements include perceptions of corruption of the president, the parliament, and the police
 
@@ -407,9 +420,9 @@ Table 2. Results for Trust and Potential Mobilization Using the Full Sample
 
 Generalized social trust does not demonstrate much of a relationship at all and is not statistically signicant This may be due to the way in which the question is structured 27
 
-<sup>26</sup> The results can be found in Table 7 in the statistical appendix.
+26 The results can be found in Table 7 in the statistical appendix.
 
-<sup>27</sup> Unlike the other questions on trust, this question asks respondents whether they believe that either most people can be trusted or whether they have to be very careful in dealing with them. The wording of this question is both vague (i.e., what does it mean that one has to be very careful?) and ominous. Moreover, because there are only two responses, the question doesn't capture any gradation in levels of trust.
+27 Unlike the other questions on trust, this question asks respondents whether they believe that either most people can be trusted or whether they have to be very careful in dealing with them. The wording of this question is both vague (i.e., what does it mean that one has to be very careful?) and ominous. Moreover, because there are only two responses, the question doesn't capture any gradation in levels of trust.
 
 Perhaps most surprising is thending that respondents with high levels of trust in their neighbors are less likely to report a willingness to potentially mobilize One additional consideration is that the data skew heavily toward respondents stating that they would never consider mobilizing It is not possible in this study to evaluate whether this response truly channels hostility toward participating in protests and demonstrations or whether it reects other considerations For example, in low trust environments, respondents may not be willing to reveal their true preferences for potential mobilization
 
@@ -421,9 +434,9 @@ In addition to these mainndings, several otherndings stand out:
 
 1 **Economic evaluations are not consistently linked to protest** Running counter to traditional explanations found in both the scholarship on protest politics (Alexander 2010; Lancaster 2018; Mueller 2013), this suggests that while "pocketbook protesting"29
 
-<sup>28</sup> For more on the role of existing networks and mobilization in Sudan's nonviolent revolution, see the ICNC Special Report, Sudan's 2019 Revolution: The Power of Civil Resistance by Stephen Zunes. **https://www.nonviolent-conict.org/resource/sudans-2019-revolution-the-power-of-civil-resistance/**.
+28 For more on the role of existing networks and mobilization in Sudan's nonviolent revolution, see the ICNC Special Report, Sudan's 2019 Revolution: The Power of Civil Resistance by Stephen Zunes. **https://www.nonviolent-conict.org/resource/sudans-2019-revolution-the-power-of-civil-resistance/**.
 
-<sup>29 &</sup>quot;Pocketbook protesting" refers to the mobilization of protests around economic issues.
+29 &quot;Pocketbook protesting" refers to the mobilization of protests around economic issues.
 
 may be important, it is not the only factor that motivates individuals to rise up or participate Work specically on civil resistance has arrived at mixed conclusions Some scholars argue that economic concerns are not determinants of either mobilization or success (Chenoweth and Stephan 2011; Zunes 2017), though others have found that economic decline can generate mass mobilization against regimes (Larmer 2009; Le Bas 2011) This remains an open question meriting further study
 
@@ -434,7 +447,7 @@ may be important, it is not the only factor that motivates individuals to rise u
 
 This research has thus far focused on testing whether heightened social trust corresponds with the willingness of respondents to actually mobilize and participate in nonviolent protests The question of the validity of self-reported political and social behavior has been scrutinized
 
-<sup>30</sup> Most African nations are majoritarian presidential systems in which presidents yield substantial power over the political system and the distribution of state resources. Thus, presidential corruption is of major concern to most citizens of African countries. This has been demonstrated by Lewis (2020).
+30 Most African nations are majoritarian presidential systems in which presidents yield substantial power over the political system and the distribution of state resources. Thus, presidential corruption is of major concern to most citizens of African countries. This has been demonstrated by Lewis (2020).
 
 heavily—after all, citizens may feel inclined to respond to survey questions in ways that conform to social pressures 31 They may also respond to surveys in ways that reect how they wish they had behaved rather than how they actually behaved, particularly in contentious actions that also carry a degree of risk Work by Andersson and Granberg (1997) found that in high trust contexts,32 Swedish citizens reported their voting behavior with relative honesty Of course, in most African contexts, levels of trust are substantially lower than in Sweden, and there are added concerns about intimidation and exposure to violence Research on the relationship between attitudes toward protest have shown tentative evidence that when respondents have positive attitudes toward political protest, they are more likely to engage in prosocial political actions (Sweetman et al 2019) This work supports recent work by Mc Clendon and Riedl (2015), who found that in Kenya, the experimental manipulation of how people view themselves can increase political participation
 
@@ -442,13 +455,13 @@ These studies provide initial evidence that measuring potential mobilization can
 
 For thefth round of surveys in Algeria from 2013, the average reported level of potential mobilization is 0 220 This is rather low, and during 2013, Algeria experienced 105 nonviolent protests 34 In 2015, Algerians were once again surveyed When asked about their willingness to protest, they reported an average potential mobilization of 0 616—nearly three-fold their
 
-<sup>31</sup> Work in survey research has identied what has come to be called "social desirability bias," in which respondents claim to have behaved in ways that they believe conform with social norms (Steenkamp, De Jong, and Baumgartner 2010). In these cases, respondents might claim to have voted when they did not, overreport their contributions to charity, or claim to have engaged in historic protests when they did not.
+31 Work in survey research has identied what has come to be called "social desirability bias," in which respondents claim to have behaved in ways that they believe conform with social norms (Steenkamp, De Jong, and Baumgartner 2010). In these cases, respondents might claim to have voted when they did not, overreport their contributions to charity, or claim to have engaged in historic protests when they did not.
 
-<sup>32</sup> In this case, Sweden.
+32 In this case, Sweden.
 
-<sup>33</sup> Unlike the initial analysis, which was limited to rounds 3 through 5, this analysis does not rely on variables of trust. Fortunately, the potential mobilization variable can be found in rounds 2 through 7, expanding the ability to examine variation in the relationship between potential and actual mobilization over time.
+33 Unlike the initial analysis, which was limited to rounds 3 through 5, this analysis does not rely on variables of trust. Fortunately, the potential mobilization variable can be found in rounds 2 through 7, expanding the ability to examine variation in the relationship between potential and actual mobilization over time.
 
-<sup>34</sup> Observed via the Armed Conict Location Event Data (Raleigh et al. 2010).
+34 Observed via the Armed Conict Location Event Data (Raleigh et al. 2010).
 
 potential mobilization score from two years prior In 2015, Algeria experienced 240 nonviolent protests—more than twice the protests than in 2013 Similarly, in Nigeria in 2013, respondents reported an average potential mobilization of 0 38 with a total of 273 observed protests Two years later, potential mobilization increased to 0 76, and observed protests increased to 545 In 2017,Nigerians reported a very slight decrease in potential mobilization (0 74) and observed a slight decrease in protests (484)
 
@@ -456,7 +469,7 @@ Figure 4 Potential and Actual Mobilization visualizes the overall relationship b
 
 Figure 4 Potential and Actual Mobilization suggests an unexpected relationship When countries report potential mobilization either within or above the normal range, there is a small, positive relationship between self-reported potential mobilization and actual observed mobilization Holding all else constant, the model predicts that if a country increased its potential mobilization from "low potential" to "highest potential," it would experience nearly 10 additional observed protests This is helpful in making strides toward understanding the relationship between potential and actual mobilization, but not conclusive—and it is important to recognize that many factors play a role in determining whether citizens are willing to mobilize On the left-hand side of the plot, however, there is a sharp drop-oin observed protests in the countries with the lowest levels of potential mobilization The data thus suggest that this relationship is conditioned by other, more important factors, perhaps including political
 
-<sup>35</sup> Calculated using standard deviations. The distribution of potential mobilization is not distributed perfectly normally and is slightly bimodal.
+35 Calculated using standard deviations. The distribution of potential mobilization is not distributed perfectly normally and is slightly bimodal.
 
 ## ![](_page_40_Figure_0.jpeg)
 
@@ -507,7 +520,7 @@ The study now returns to the Afrobarometer data to test the relationship between
 
 ## FIGURE 5. Justication of Violent Action
 
-<sup>36</sup> The wording of the survey includes "violence" as a noun rather than using violent as an adjective, such as "violent protest" or "violent riot."
+36 The wording of the survey includes "violence" as a noun rather than using violent as an adjective, such as "violent protest" or "violent riot."
 
 In order to test the statistical relationship between high levels of social trust and justi cation for violent action, the same measurements of trust that were used in estimating how trust shapes potential mobilization are drawn upon This includes the "most people can be trusted" measurement, the measurement about trust in one's neighbors, and the measurement of trust in one's acquaintances Unfortunately, due to limitations with the data, the question measuring trust in one's fellow citizens is not available to test Fortunately, there is a question that can serve as a substitute It measures the respondent's level of trust in other fellow citizens who are not members of their ethnic group The question is phrased as: "How much do you trust each of the following types of people: [fellow citizens] from other ethnic groups?" The monograph refers to this as "trust in diverse populations " The potential answers range from "not at all" to "a lot " This study includes this as a fourth measurement of social trust
 
@@ -519,9 +532,9 @@ As with the examination of the impact of trust on mobilization, the analysis now
 
 The results of the models provide support for the argument that high levels of trust correspond with lower justications for violent action 38 Of the four measurements of social trust, the strongest relationship is found in the measurement of non-ethnic fellow citizens This means that respondents with high levels of trust in their non-ethnic fellow citizens are substantially more likely to state that violent actions are never justied than their low-trusting counterparts This is a hopefulnding—it suggests that as social trust extends across ethnic groups, Africans become less tolerant of violence and perhaps more committed to nonviolent discipline as part of their contentious actions against a state While this does not directly test the proposed trust relationship in the context of a multi-ethnic civil resistance campaign, examples such as South Africa's anti-Zuma mass mobilizations from 2015 to 2018 and Sudan's multi-ethnic challenge to Omar al-Bashir suggest that increasing trust in diverse populations may improve nonviolent discipline
 
-<sup>37</sup> The details of the models can be found in Table 8 in the statistical appendix. For academics and policymakers, these details are well-worth reviewing as they provide important insight into the models.
+37 The details of the models can be found in Table 8 in the statistical appendix. For academics and policymakers, these details are well-worth reviewing as they provide important insight into the models.
 
-<sup>38</sup> See Table 10 in the statistical appendix.
+38 See Table 10 in the statistical appendix.
 
 The other measurements of trust also support this argument generally Table 4 Results for Trust and Justications of Violent Action presents all the results from the statistical tests The only measurement of trust that is not found to be statistically related to justications of violent action is the "most people can be trusted" measurement
 
@@ -560,13 +573,13 @@ This monograph draws from the Armed Conict Location Event Data (ACLED) as a sour
 
 The results presented in this chapter are correlational and rely on small sample sizes As such, while they are able to provide insight into the relationship between levels of trust and levels of violent contention, they must be taken with a large grain of salt Many factors have been shown to aect whether civil resistance campaigns and individual contentious incidents use peaceful or violent tactics There is a large body of research detailing the impact of government repression
 
-<sup>39</sup> Other datasets, such as the Nonviolent and Violent Campaigns and Outcomes (NAVCO) 3 were considered. Because NAVCO 3 has a limited geographic scope and does not cover many African countries, it was not used.
+39 Other datasets, such as the Nonviolent and Violent Campaigns and Outcomes (NAVCO) 3 were considered. Because NAVCO 3 has a limited geographic scope and does not cover many African countries, it was not used.
 
 on the increased use of violent tactics by formerly nonviolent protest movements and civil resistance campaigns (Ives and Lewis 2020; Nordas and Davenport 2013; Pinckney 2016; Sullivan 2018) Recent work has shown that civil resistance campaigns are more likely to break nonviolent discipline when large bodies of the population are excluded from political power along ethnic lines (Rørbæk 2019) This suggests that campaigns may be best served by developing and strengthening diverse networks that cross ethnic and religious lines, much like recent anti-corruption campaigns in South Africa and Kenya In the language of trust, this suggests that civil resistance campaigns can best maintain nonviolent discipline by fostering high levels of trust in diverse ethnic networks 40 Other work has demonstrated that campaigns with violent internal factions may fail to maintain nonviolent discipline (Ryckman 2020) This, too, suggests that trust may play an important role in cementing campaign norms and tactics and that the failure to build trust within campaigns can lead to factionalization and the possible emergence of violentanks Thendings in this monograph further develop this line of inquiry by examining how social trust shapes the use of nonviolent strategies—specically, nonviolent protest
 
 The goal of this section of the monograph is to answer the following question: in Africa, do regions where citizens report high levels of social trust experience a higher proportion of nonviolent protests or violent riots? By denition, only nonviolent protests can be counted from the large repertoire of civil resistance actions; however, in order to study whether higher trust corresponds with the maintenance of nonviolent discipline, it is necessary to compare nonviolent versus violent actions One might ask, why not simply examine whether regions with high trust have more nonviolent protests than regions with low trust? The reason this would not work is that, quite naturally, some regions simply have more contentious actions than others In a highly populated city, one should expect to see more protests than in a sparsely populated rural area If this study only measured the number of protests between regions, it would falsely assume that nonviolent tactics are more popular in cities than in rural areas Instead, it is important to look at the proportion of total observed protests and riots This allows for a stronger comparison between regions: one can make meaningful comparisons between a region in which 25 percent of incidents are nonviolent protests and a region in which 75 percent are nonviolent
 
-<sup>40</sup> Social psychologists focusing on Social Identity Theory (Tajfel and Turner 1986) speak of "ingroups" and "outgroups." Social Identity Theory is predicated on the premise that people conceive of social groups in which they consider themselves to be members. These groups reinforce sentiments of self-esteem and generate ingroup favoritism as well as outgroup bias. These groups may be developed along ethnic, linguistic, religious, or other lines. They also may be geographic, partisan, or based on other criteria (for instance, fans of the same sports team). Group memberships may overlap in some cases. Outgroups are the logical inverse of an ingroup—while ingroups are the categories of people to whom one considers themselves belonging, outgroups are categories of people to whom one does not consider themselves belonging. Work in political psychology has shown that we are much more likely to forgive the moral failings of our own ingroups while harshly punishing outgroups for similar infractions (Beber, Roessler, and Scacco 2014; Mackie and Ahn 1998; Raden 2003).
+40 Social psychologists focusing on Social Identity Theory (Tajfel and Turner 1986) speak of "ingroups" and "outgroups." Social Identity Theory is predicated on the premise that people conceive of social groups in which they consider themselves to be members. These groups reinforce sentiments of self-esteem and generate ingroup favoritism as well as outgroup bias. These groups may be developed along ethnic, linguistic, religious, or other lines. They also may be geographic, partisan, or based on other criteria (for instance, fans of the same sports team). Group memberships may overlap in some cases. Outgroups are the logical inverse of an ingroup—while ingroups are the categories of people to whom one considers themselves belonging, outgroups are categories of people to whom one does not consider themselves belonging. Work in political psychology has shown that we are much more likely to forgive the moral failings of our own ingroups while harshly punishing outgroups for similar infractions (Beber, Roessler, and Scacco 2014; Mackie and Ahn 1998; Raden 2003).
 
 In order to analyze whether high levels of self-reported trust actually correspond with improved nonviolent action, two sources of data are connected: the self-reported levels of trust found in the Afrobarometer data and counts of nonviolent and violent contentious incidents found in the ACLED data The Afrobarometer data are nationally-representative, individual-level surveys The ACLED data, on the other hand, detail individual incidents of protest (nonviolent action) and riots (violent action) Thus, they had to be transformed in such a way as to speak to one another In order to do this, the analysis used these two core datasets to generate three resultant datasets The country-level dataset reports the average levels of reported trust41 in each country For instance, the average level of trust in Nigeria is calculated from all of the survey data collected in Nigeria from 2005 to 2015 Thus, each country receives only a single score for each form of trust The disadvantage is that it collapses multiple years into a single value, which obscures variation in trust over time This disadvantage is addressed in the next level of analysis
 
@@ -580,7 +593,7 @@ The next level of analysis examines the average level of trust in each country b
 
 Thenal level of analysis further disaggregates the data by recording the average levels of trust at therst administrative district level of each country per round This is advantageous because it provides a tighter geographic connection between levels of trust and conict For example, levels of trust vary greatly from region to region in Nigeria Not only that, but they do change over time Trust is sticky, meaning that low-trust regions tend to remain as lowtrust regions But there is some meaningful variation, and this level of analysis is able to incorporate that variation One limitation of this level of analysis is that the Afrobarometer data are not designed to be representative at the regional level Therefore, one cannot make strong inferential claims about subnational levels of trust and contention
 
-<sup>41</sup> Using each category of trust described in Chapter 2.
+41 Using each category of trust described in Chapter 2.
 
 Protest events are considered nonviolent if they can reasonably be described as a peaceful protest, even if the protest was repressed by state forces As long as the activists acted principally in accordance with nonviolent tactics, the incident is considered to have been peaceful On the other hand, events are considered violent if they were described as either (a) mob violence or (b) a violent demonstration This initial visualization of nonviolent and violent conict at the country level provides evidence that there are important state-level factors that shape nonviolent discipline within dierent countries In order to incorporate these country-level eects, this study uses the approach of examining variation within countries Thus, the relationship between trust and nonviolent action within subnational regions are analyzed This approach has two distinct advantages First, it allows for the analysis of a specic subnational region (dened as the rst administrative district within a country) over time Thus, it is possible to test whether rising levels of social trust in Limpopo Province in South Africa lead to lower levels of violent anti-government action This approach minimizes concerns about comparing trust and nonviolent action across dierent geographic regions, which may dier greatly from one another Second, this allows for the comparison of dierent regions within the same country, which can reveal important information about how social trust may operate in some regions and not others Within countries, there is often substantial
 
@@ -596,7 +609,7 @@ within a country42) overtime Thus, it is possible to test whether rising levels 
 
 There are two major challenges that are worth noting before presenting the results of the tests First, the Afrobarometer data are nationally representative but not subnationally representative That is, while they provide a clear and accurate reection of overall levels of social trust for each country in each year that the analysis was conducted, the same cannot be said about levels of social trust in each region of the country This is certainly a challenge
 
-<sup>42</sup> First administrative districts correspond to the largest geographic region within a country. For example, in the United States, this would refer to the states themselves. In Switzerland, these are cantons.
+42 First administrative districts correspond to the largest geographic region within a country. For example, in the United States, this would refer to the states themselves. In Switzerland, these are cantons.
 
 because it means that the overall levels of social trust in, say, Lagos State in Nigeria may be dierent than the Afrobarometer data This is a limitation of the data As such, the results of the statistical test must be taken with some caution Second, there is substantial variation from region to region in terms of the amount of contention one observes Put simply, some regions experience more contention than others, and thus a region with a single violent riot experiences proportionally more violent action than a region with many contentious events, even if most of those events are themselves violent This is inherent in the use of a proportional variable Because this test is designed to roughly measure whether the individual-level preferences for nonviolent action correspond to less violent action, the measure holds; however, this approach constitutes simply arst step to measuring the relationship between trust and nonviolent discipline
 
@@ -614,7 +627,7 @@ The analysis provides mixed results 43 In each of the tests, higher social trust
 
 FIGURE 8. Generalized Trust and Predicted Antigovernment Nonviolent and Violent Actions Note: Y-axis is limited to a window of 80 to 100 percent.
 
-<sup>43</sup> See Table 9 in the statistical appendix.
+43 See Table 9 in the statistical appendix.
 
 high levels of social trust and nonviolent action indicates that while the direct relationship may be weak, trust likely does play some role in maintaining nonviolent discipline
 
@@ -648,7 +661,7 @@ Similar to what happened in Tunisia and Egypt during the Arab Spring, there was 
 
 One factor that likely safeguarded against the use of violence by protesters was the broad nature of the protest coalition As the International Crisis Group states, "Protesters come from mixed political and economic backgrounds They include members of Sudan's longstanding leftist movements, the Sudanese Communist Party and the Sudanese Congress Party … and a number of other political parties, along with professional trade unions, notably doctors, who are currently on strike" (International Crisis Group 2019a, 4) Indeed, what was striking—both before Bashir's ouster and after it—was the prominent role that women played in not only participating in, but leading, the protest movement (Bhalla 2019; Wedeman 2019) While these do not point specically to the role that ethnicity did or did not play in the protests,44 they do speak to the generally broad composition of the protests Rather than
 
-<sup>44</sup> There are pronounced ethnic divides within Sudan. For example, Omar al-Bashir's most trusted condantes came from his ethnic group, the Riverine people (International Crisis Group 2019a).
+44 There are pronounced ethnic divides within Sudan. For example, Omar al-Bashir's most trusted condantes came from his ethnic group, the Riverine people (International Crisis Group 2019a).
 
 developing ethnically or religiously oriented civil resistance demands, protesters developed a rather universal set of demands calling for civilian-led democratic rule—clearly shaped by the broad and diverse coalition that spearheaded the movement
 
@@ -662,10 +675,31 @@ What can this study tell us about the relationship between social trust and civi
 
 | PREDICTIONS | RESULT | STRENGTH OF EVIDENCE |
 |---------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Prediction 1: High levels of social trust<br>correspond with an increased willing<br>ness to engage in nonviolent protests<br>and demonstrations. | Mostly supported | Interpretation: Individuals that report high levels of<br>social trust are more likely to express willingness to join<br>a protest. |
-| | | Statistical results: Multiple regressions demonstrate<br>positive and signicant correlations, though not all<br>measurements of trust obtain statistical signicance.<br>Relationships tested and correlations are robust to<br>multiple specications. |
-| Prediction 2: High levels of social<br>trust correspond with lower justica<br>tions for the use of violent action or<br>observed violent action. | Partially supported | Interpretation: At the individual level, the more social<br>trust that people have, the less likely they are to believe<br>violence can be justied. This relationship is weaker<br>when examining whether trust actually shapes whether<br>conict is violent or nonviolent. |
-| | | Statistical results: Multiple regressions produced<br>varying outcomes. At the individual level, social trust<br>corresponds to lower justication for violent action.<br>Using observed data, multiple regressions demon<br>strated a weak and contingent relationship that only<br>sometimes obtains signicance. |
+| Prediction 1: High levels of social trust
+correspond with an increased willing
+ness to engage in nonviolent protests
+and demonstrations. | Mostly supported | Interpretation: Individuals that report high levels of
+social trust are more likely to express willingness to join
+a protest. |
+| | | Statistical results: Multiple regressions demonstrate
+positive and signicant correlations, though not all
+measurements of trust obtain statistical signicance.
+Relationships tested and correlations are robust to
+multiple specications. |
+| Prediction 2: High levels of social
+trust correspond with lower justica
+tions for the use of violent action or
+observed violent action. | Partially supported | Interpretation: At the individual level, the more social
+trust that people have, the less likely they are to believe
+violence can be justied. This relationship is weaker
+when examining whether trust actually shapes whether
+conict is violent or nonviolent. |
+| | | Statistical results: Multiple regressions produced
+varying outcomes. At the individual level, social trust
+corresponds to lower justication for violent action.
+Using observed data, multiple regressions demon
+strated a weak and contingent relationship that only
+sometimes obtains signicance. |
 
 #### Relevant Findings for Activists
 
@@ -687,7 +721,7 @@ For scholars interested in civil resistance or the political psychology of conic
 
 For scholars interested in the role that trust plays in shaping civil resistance—as well as conict more broadly—this monograph reveals several potential avenues of future research
 
-<sup>45</sup> See Table 10 in the appendix for the bivariate hierarchical regression results that support this.
+45 See Table 10 in the appendix for the bivariate hierarchical regression results that support this.
 
 Causality remains untested in this monograph, and experimentaleld research could shed light on how and why trust seems to motivate potential mobilization and increase preferences for nonviolent resistance Several questions merit consideration Do high levels of social trust motivate mobilization because high-trusting individuals believe in the trustworthiness of others, or are high-trusters instead motivated to produce public goods that can be shared broadly? How exactly do high-trusting individuals delineate their moral communities, and how does this dier from existing ethnic or religious communities?
 
@@ -1076,158 +1110,7 @@ Table 8. Linear Regression of Potential Mobilization with Full Sample
 | Observations | 53,027 | 56,491 | 18,934 | 53,799 |
 ## | Number of countries | 33 | 33 | 20 | 33 |
 
-**<sup>\*\*\*</sup>p < 0.001; \*\*p < 0.01; \*p < 0.05**
-
-#### Coefficients of Trust of Neighbors and Potential Mobilization
-
-## ![](_page_76_Figure_1.jpeg)
-
-#### Coefficients of Trust of Co-Nationals and Potential Mobilization
-
-## ![](_page_76_Figure_3.jpeg)
-
-#### Coefficients of Trust of Acquaintances and Potential Mobilization
-
-## ![](_page_76_Figure_5.jpeg)
-
-FIGURE 10. Comparison of Cross-Country Coefficients for Potential Mobilization
-
-Figure 10 includes the unstandardized coecients from the hierarchical model for each of the countries in the sample I have included the three forms of trust that conformed to predictions These demonstrate the country-by-country variation within dierent types of trust and also demonstrate how dierent forms of trust operate within a single country
-
-#### Statistical Information from Chapter 3
-
-In Chapter 3, the monograph tests whether individual-level trust shapes justication for violent action, as well as whether aggregated forms of trust correspond with lower proportions of violent action in a given country In this chapter, additional forms of trust were examined, including trust in diverse populations and trust in one's ethnic ingroup Table 9 Descriptive Statistics of Ingroup and Outgroup Trust Variables displays the descriptive statistics for each of these variables
-
-Table 9. Descriptive Statistics of Ingroup and Outgroup Trust Variables
-
-| TYPE OF TRUST | MIN. | 1 ST QUART. | MEDIAN | MEAN | 3 RD QUART. | MAX |
-|-----------------------------|------|-------------|--------|------|-------------|------|
-| Trust in ingroup | 0.00 | 1.00 | 2.00 | 1.68 | 3.00 | 3.00 |
-| Trust in diverse population | 0.00 | 1.00 | 1.00 | 1.37 | 2.00 | 3.00 |
-
-Table 10. Linear Regression on Justification of Violent Action
-
-| | MODEL 1 | MODEL 2 | MODEL 3 | MODEL 4 | MODEL 5 |
-|-----------------------------------|-------------|-------------|------------|------------|------------|
-| (Intercept) | 2.027*** | 2.094*** | 2.020*** | 2.179*** | 2.153*** |
-| | (0.045) | (0.051) | (0.055) | (0.098) | (0.090) |
-| Gen. social trust | -0.034*** | | | | |
-| | (0.011) | | | | |
-| Trust in neighbors | | -0.040*** | | | |
-| | | (0.011) | | | |
-| Trust in acquaintances | | | -0.029** | | |
-| | | | (0.012) | | |
-| Trust in same ethnic group | | | | -0.049** | |
-| | | | | (0.020) | |
-| Trust in diverse population | | | | | -0.045** |
-| | | | | | (0.019) |
-| Female | -0.028*** | -0.026*** | -0.026*** | -0.019 | -0.021 |
-| | (0.008) | (0.008) | (0.010) | (0.014) | (0.014) |
-| Present economy | 0.010*** | 0.010*** | 0.016*** | -0.005 | -0.007 |
-| | (0.004) | (0.004) | (0.004) | (0.006) | (0.006) |
-| Relative deprivation | -0.001 | 0.000 | 0.004 | -0.010 | -0.007 |
-| | (0.004) | (0.004) | (0.005) | (0.008) | (0.008) |
-| Education | -0.007*** | -0.010*** | -0.006** | -0.017*** | -0.016*** |
-| | (0.002) | (0.002) | (0.003) | (0.004) | (0.004) |
-| Age | -0.002*** | -0.002*** | -0.002*** | -0.003*** | -0.003*** |
-| | (0.000) | (0.000) | (0.000) | (0.001) | (0.001) |
-| AIC | 200690.716 | 203426.204 | 139382.293 | 59754.601 | 59242.155 |
-| BIC | 200772.928 | 203526.839 | 139478.721 | 59842.021 | 59329.490 |
-| Log Likelihood | -100336.358 | -101702.102 | -69680.147 | -29866.301 | -29610.078 |
-| Num. obs. | 68510 | 69472 | 47388 | 20895 | 20735 |
-| Num. groups: country_string | 34 | 34 | 34 | 16 | 16 |
-| ***p < 0.01; **p < 0.05; *p < 0.1 | | | | | |
-
-As with the hierarchical models in Chapter 2, this set of models also provides coe cients that can be analyzed at the country level These are found in Figure 11 Comparison of Cross-Country Coecients for Justication of Violent Action One interesting observation is that, when measuring trust in neighbors and acquaintances, Algeria demonstrates the largest negative correlation with the justication of violent action However, this correlation seems to be reverse in the earlier coecients pertaining to potential mobilization in Figure 10 Comparison of Cross-Country Coecients for Potential Mobilization
-
-#### Coefficients of trust of acquaintances and justification of violent action
-
-## ![](_page_79_Figure_1.jpeg)
-
-#### Coefficients of trust of diverse population and justification of violent action
-
-## ![](_page_79_Figure_3.jpeg)
-
-#### Coefficients of trust of neighbors and justification of violent action
-
-## ![](_page_79_Figure_5.jpeg)
-
-FIGURE 11. Comparison of Cross-Country Coefficients for Justification of Violent Action
-
-Table 11 Linear Regression on Proportion of Conict That is Violent presents the results of a hierarchical linear regression that regresses the proportion of total conict that is violent on a series of trust variables and other relevant covariates The model includes random intercepts structured at the country level
-
-Table 11. Linear Regression on Proportion of Conflict That Is Violent
-
-| | MODEL 1 | MODEL 2 | MODEL 3 | MODEL 4 | MODEL 5 | MODEL 6 |
-|-----------------------------|----------|---------|---------|----------|----------|----------|
-| (Intercept) | 0.177*** | -0.053 | -0.065 | -0.309 | 0.040 | 0.101 |
-| | (0.033) | (0.098) | (0.097) | (0.190) | (0.194) | (0.101) |
-| Gen. social trust | -0.009 | | -0.376* | -0.454** | | |
-| | (0.082) | | (0.198) | (0.198) | | |
-| Trust in same ethnic group | | 0.135 | 0.164 | 0.234** | | |
-| | | (0.115) | (0.115) | (0.115) | | |
-| Trust in diverse population | | -0.056 | -0.033 | -0.032 | | |
-| | | (0.122) | (0.121) | (0.119) | | |
-| Trust in co-nationals | | | | | -0.025 | |
-| | | | | | (0.063) | |
-| Trust in acquaintances | | | | | | -0.022 |
-| | | | | | | (0.030) |
-| Present economy | | | | 0.014 | -0.165** | -0.082** |
-| | | | | (0.073) | (0.065) | (0.039) |
-| Living situation | | | | 0.061 | 0.302*** | 0.147*** |
-| | | | | (0.072) | (0.074) | (0.044) |
-| Employment | | | | 0.358*** | -0.238* | -0.176** |
-| | | | | (0.131) | (0.138) | (0.082) |
-| Handling corruption | | | | -0.077 | -0.051 | -0.002 |
-| | | | | (0.066) | (0.078) | (0.036) |
-| AIC | 261.811 | 80.622 | 80.476 | 91.027 | 170.348 | 379.612 |
-| BIC | 279.762 | 96.777 | 99.863 | 123.339 | 198.391 | 416.146 |
-| Log Likelihood | -126.906 | -35.311 | -34.238 | -35.514 | -77.174 | -181.806 |
-| Num. obs. | 657 | 187 | 187 | 187 | 246 | 711 |
-| Num. groups: countryname | 34 | 16 | 16 | 16 | 20 | 34 |
-## | | | | | | | |
-
-**<sup>\*\*\*</sup>p < 0.01; \*\*p < 0.05; \*p < 0.1**
-
-**Note:** Dependent variable is proportion of total conict (protests and riots) that was violent Thus, an inverse correlation supports the prediction that more trust correlates with lower levels of violent action
-
-#### Statistical Information for the Conclusion
-
-One of the recommendations made for activists is to develop broad narratives that appeal to an array of groups throughout society The monograph suggests recruiting from labor unions, which tend to belled with many dierent types of people In order to justify this suggestion, a cursory statistical regression was run to evaluate whether membership in a trade union is correlated with increased trust in diverse populations Table 12 Union Membership and Trust in Diverse Populations displays a bivariate ordinary least squares regression that tests the correlation between membership in a trade union and trust in diverse populations The regression is hierarchical and includes random slopes and intercepts structured at the country level The results indicate that membership in a trade union is positively correlated with trust in diverse populations This relationship is statistically signicant at the 99 9 percent condence level
-
-Table 12. Union Membership and Trust in Diverse Populations
-
-| | MODEL 1 |
-|-------------------------|----------|
-| Intercept | 1.385*** |
-| | (0.074) |
-| Member of a trade union | 0.048*** |
-| | (0.012) |
-| AIC | 61,206 |
-| BIC | 61,254 |
-| Log Likelihood | -30,597 |
-| Observations | 22,357 |
-## | Number of countries | 16 |
-
-**<sup>\*\*\*</sup>p < 0.001; \*\*p < 0.01; \*p < 0.05**
-
-#### Do Survey Respondents Believe That They Are Speaking to a Government Agent?
-
-One potential challenge may be that survey respondents believe they are actually speaking to a member of the government, which, if true, would likely skew the survey results More specically, the presence of this belief might actually stymie reports of potential mobilization This monograph looks at a specic question found in the Afrobarometer in order to examine this The last question asked before each survey interview queries respondents about who they think sent the interviewer This comes at the end in order to extract the most truthful answer Despite the fact that the Afrobarometer survey enumerators explicitly state that they are a private research organization, a large percentage of respondents truly believe that they are agents of the government It is likely that this highly conditions the responses within the Afrobarometer In order to test whether this shapes reported potential mobilization, the study examines whether there is a relationship between respondent perceptions that the survey enumerator is in fact a government agent and reported potential mobilization As one might expect, respondents that believe they are speaking to a government agent are more likely to state that they never have engaged in protest and never would Across all countries surveyed in Africa and across each round of the survey, 51 6 percent of respondents who stated that they would never join a protest believed they were speaking to a government agent On the other hand, 45 8 percent of respondents that stated that they often engage in protests believed that they were speaking to a government agent Fortunately, a statistical analysis of this demonstrates that even when respondents believed that they were speaking to a government agent, they did not substantially or signicantly underreport their potential mobilization
-
-## ![](_page_83_Picture_0.jpeg)
-
-#### About the Author
-
-**Jacob Lewis** is an Assistant Professor of Global Politics in the School of Politics, Philosophy, and Public Aairs at Washington State University. His research centers on conict processes and political psychology in the African context. He holds a
-
-Ph. D. from the University of Maryland and has worked extensively in the elds of international development and public policy.
-
-## ![](_page_84_Picture_0.jpeg)
-
-**The ICNC Monograph Series aims to bridge research and practice. Drawing on scholarly literature and high quality analytical and empirical analyses, ICNC Monographs enrich public discourse by expanding scientic knowledge in the eld of civil resistance and providing recommendations for practitioners such as activists, organizers, journalists, and members of INGOs and the policy community.**
-
-> **ICNC Monographs are available for free download at: https://www.nonviolent-conict.org/**
+**\*\*\*p \*\*\*p \*\*\*p  **ICNC Monographs are available for free download at: https://www.nonviolent-conict.org/**
 
 ## **Hard copies are also available for purchase.**
 

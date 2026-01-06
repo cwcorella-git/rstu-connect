@@ -1,3 +1,8 @@
+---
+title: "AN EVOLVED UNIVERSAL TRANSFORMER MEMORY"
+category: "contemporary-analysis"
+---
+
 # AN EVOLVED UNIVERSAL TRANSFORMER MEMORY
 
 ### Edoardo Cetin, Qi Sun, Tianyu Zhao, Yujin Tang
@@ -8,7 +13,7 @@
 
 # ABSTRACT
 
-Prior methods propose to offset the escalating costs of modern foundation models by dropping specific parts of their contexts with hand-designed rules, while attempting to preserve their original performance. We overcome this trade-off with Neural Attention Memory Models (NAMMs), introducing a learned network for memory management that improves *both* the performance and efficiency of transformers. We *evolve* NAMMs atop pre-trained transformers to provide different latent contexts focusing on the most relevant information for individual layers and attention heads. NAMMs are universally applicable to any model using selfattention as they condition exclusively on the values in the produced attention matrices. Learning NAMMs on a small set of problems, we achieve substantial performance improvements across multiple long-context benchmarks while cutting the model's input contexts up to a fraction of the original sizes. We show the generality of our conditioning enables zero-shot transfer of NAMMs trained *only* on language to entirely new transformer architectures even across input modalities, with their benefits carrying over to vision and reinforcement learning. Our source code is available at <https://github.com/SakanaAI/evo-memory>.
+Prior methods propose to offset the escalating costs of modern foundation models by dropping specific parts of their contexts with hand-designed rules, while attempting to preserve their original performance. We overcome this trade-off with Neural Attention Memory Models (NAMMs), introducing a learned network for memory management that improves *both* the performance and efficiency of transformers. We *evolve* NAMMs atop pre-trained transformers to provide different latent contexts focusing on the most relevant information for individual layers and attention heads. NAMMs are universally applicable to any model using selfattention as they condition exclusively on the values in the produced attention matrices. Learning NAMMs on a small set of problems, we achieve substantial performance improvements across multiple long-context benchmarks while cutting the model's input contexts up to a fraction of the original sizes. We show the generality of our conditioning enables zero-shot transfer of NAMMs trained *only* on language to entirely new transformer architectures even across input modalities, with their benefits carrying over to vision and reinforcement learning. Our source code is available at .
 
 # 1 INTRODUCTION
 
@@ -55,7 +60,7 @@ Furthermore, we show that the generality of our parameterization enables *zero-s
 
 Attention and transformers. Transformers are neural network architectures designed specifically for efficiently processing input sequences. These models take as input a stream of tokens (e.g., embeddings of words, image patches, robotic states, etc.) and, produce a set of latents with the same length within their layers. Multi-headed dot product attention \(Vaswani et al., 2017\), or simply *self-attention*, characterizes modern transformers, facilitating effective information sharing across
 
-<sup>1</sup>Chou Bun is the pronunciation of "長文", literally translating to "long text" in Japanese.
+1Chou Bun is the pronunciation of "長文", literally translating to "long text" in Japanese.
 
 ## ![](_page_2_Figure_1.jpeg)
 
@@ -87,32 +92,7 @@ As NAMMs rely only on the attention values for their input, they are universally
 
 #### 3.2 Memory model design and cross-token communication
 
-NAMMs parameterize a small neural network $m_{\phi}$ to output a scalar selection score $s_i = m_{\phi}(\omega_i^{1:T})$ for each $i^{th}$ token in the KV cache. First, to obtain a consistent input dimension, we reduce the attention spectrogram into a smaller feature vector $\omega_i$ by compressing the time-axis via an element-wise exponentially moving average (EMA: $\omega_i = \sum_t \gamma^t \omega_i^t$ ; Figure 2, center). We then append positional encodings and feed the vector $\omega_i$ to the memory model's network $m_{\phi}$ to produce the score $s_i$ . Finally, we evict from the KV cache memory all latent tokens with $s_i < 0$ , effectively treating the problem as a binary classification task. We repeat this process with a fixed interval, every set number of new input tokens, $n_{\text{HD}}$ .
-
-**Backward attention memory models (BAM).** For the design of $m_{\phi}$ , we posit that sharing information from all tokens in memory could be key for assessing their importance. A particularly motivating scenario in LMs arises when considering the case of repeated words or sentences, where learning a diversity measure that compares different tokens would allow preventing redundancies in the KV cache. Corroborating this intuition, even from a biological perspective, memory formation and retention appear to adhere to models of neuronal competition (Han et al., 2007).
-
-Based on these considerations, we design the backward attention memory architecture (BAM) for parameter-efficient sharing of information while making use of the powerful inductive biases enabled by the masked self-attention operation. In particular, we im-
-
-## ![](_page_3_Figure_8.jpeg)
-
-Figure 3: Our backward mask makes each token attend exclusively to its future relatives in the KV cache.
-
-plement $m_{\phi}$ via an initial self-attention layer with a *counter-causal* mask M, which we refer to as *backward* (Figure 3). This design serves to introduce a purposeful asymmetric relationship, allowing to distinguish between older and newer tokens. We then output $s_i$ from a final linear operation:
-
-$$o_i = attention_{\hat{M}}(K_{\Omega}, V_{\Omega}, Q_{\Omega}), \quad s_i = linear(o_i),$$
-## (3)
-
-where $K_{\Omega}, V_{\Omega}, Q_{\Omega}$ are the key, value, and query matrices from all feature vectors $\omega_i$ in memory. Using BAM to tackle the previous motivating scenario, only the representation for older tokens would be potentially affected by the presence of newer duplicates. Thus, just by learning a simple diversity metric within self-attention, backward masking would provide the memory model with the potential to preserve only the most informed occurrence of each token without risking discarding any information in its entirety (since the score for the latest instance of each repeated token would be independent of its past).
-
-## ![](_page_4_Figure_1.jpeg)
-
-Figure 4: Mean and standard deviation over the CMA-ES population batch performance (left), together with the performance of the learned mean parameter on each task (right).
-
-In practice, when applying NAMMs, we only affect the KV cache of the base model with a fixed frequency, once every $n_{up}$ steps. When feeding longer prompts to our model, we simply split the tokens into $n_{up}$ -sized chunks. We summarize the full execution pipeline of NAMMs in Algorithm 1. We refer to Appendix A and our shared code for additional implementation details and discussion.
-
-### **Algorithm 1** NAMMs
-
-Input: KV cache, Iteration k, Stride size $s_w$ , Update interval $n_{up}$ , Attention matrix A (latest $n_{up}$ queries), Past STFT $\omega'$ 1: if $k \% n_{up} == 0$ then $\qquad$ buse NAMMs every $n_{up}$ steps 2: for each $i^{th}$ token in the KV cache $\mathbf{do} \qquad$ bor column $A_i$ in A3: STFT $\omega_i^t$ for $t=0,\ldots, n_T \qquad$ b Eq. 2, $n_T=n_{up}/s_w$ 4: Reduce $\omega_i=(\sum_t \gamma^t \omega_i^t)+\gamma^{n_T}\omega' \qquad$ be EMA reduction 5: $s_i=m_{\phi}(\omega_i) \qquad$ bupdate the KV cache where $s_i>0 \qquad$ bupdate the KV cache
+NAMMs parameterize a small neural network $m_{\phi}$ to output a scalar selection score $s_i = m_{\phi}(\omega_i^{1:T})$ for each $i^{th}$ token in the KV cache. First, to obtain a consistent input dimension, we reduce the attention spectrogram into a smaller feature vector $\omega_i$ by compressing the time-axis via an element-wise exponentially moving average (EMA: $\omega_i = \sum_t \gamma^t \omega_i^t$ ; Figure 2, center). We then append positional encodings and feed the vector $\omega_i$ to the memory model's network $m_{\phi}$ to produce the score $s_i$ . Finally, we evict from the KV cache memory all latent tokens with $s_i 0 \qquad$ bupdate the KV cache
 
 #### 3.3 Incremental evolution
 
@@ -181,9 +161,17 @@ Table 5: NAMMs evaluation on Long Bench with a Llama 3 70B model. The normalized
 | Model/Task id | Few-shot Learning | | | | | Synthetic | | Co | Code Overall | | | |
 | | | | | | | | | | | | | |
 | | 4-1 | 4-2 | 4-3 | 4-4 | 5-1 | 5-2 | 5-3 | 6-1 | 6-2 | All tasks | Test tasks | Cache size |
-| Base model | | | 4-3<br>48.67 (1.00) | | | | | | | | | Cache size<br>10107 (1.00) |
+| Base model | | | 4-3
+48.67 (1.00) | | | | | | | | | Cache size
+10107 (1.00) |
 | | 78.00 (1.00) | 92.43 (1.00) | | 45.50 (1.00) | 22.50 (1.00) | 75.37 (1.00) | 33.89 (1.00) | 74.60 (1.00) | 71.19 (1.00) | 35.22 (1.00) | | |
-| H2O | 78.00 (1.00)<br>77.50 (0.99) | 92.43 (1.00)<br>92.43 (1.00) | 48.67 (1.00) | <b>45.50</b> (1.00) 39.75 (0.87) | 22.50 (1.00)<br>18.12 (0.81) | <b>75.37</b> (1.00) 64.69 (0.86) | 33.89 (1.00)<br>33.89 (1.00) | 74.60 (1.00)<br>74.61 (1.00) | 71.19 (1.00)<br>71.09 (1.00) | <b>35.22</b> (1.00) 34.17 (0.97) | N/A | 10107 (1.00) |
+| H2O | 78.00 (1.00)
+77.50 (0.99) | 92.43 (1.00)
+92.43 (1.00) | 48.67 (1.00) | 45.50 (1.00) 39.75 (0.87) | 22.50 (1.00)
+18.12 (0.81) | 75.37 (1.00) 64.69 (0.86) | 33.89 (1.00)
+33.89 (1.00) | 74.60 (1.00)
+74.61 (1.00) | 71.19 (1.00)
+71.09 (1.00) | 35.22 (1.00) 34.17 (0.97) | N/A | 10107 (1.00) |
 
 improvements, bringing overall benchmark performance from 1.05% to 11%. We also observe that while our NAMM's memory size is larger than for Long Bench, it is considerably lower in relation to the base model's (now only 40%). This result suggests that NAMMs emergently learned a scalable memory strategy, forgetting redundant and detrimental information at an increasing rate with longer contexts without requiring the hand-designed hard cache limits enforced by L2 and H2O.
 
@@ -251,15 +239,15 @@ NAMMs comparison. In Table 8, we provide summarized results comparing NAMMs with
 | NAMM (BAM, s2) | 25.20 (0.72) | 8276 (0.82) | 44.63 (1.02) | 4948 (0.70) | 31.53 (1.09) | 2534 (0.84) |
 | NAMM (BAM, s3) | 34.70 (0.99) | 8365 (0.83) | 44.38 (1.01) | 5100 (0.72) | 31.73 (1.09) | 2434 (0.81) |
 
-BAM appear consistently superior to the MLP. Moreover, on Chou Bun. we observe that the performance with BAM sees a notable upswing after the second stage of incremental training, which might be associated with the introduction of another ideogram-based language in the training set.<sup>2</sup> The same improvement not occurring with the MLP-based NAMMs might be further evidence of architectural performance saturation, highlighting the effectiveness of our main implementation.
+BAM appear consistently superior to the MLP. Moreover, on Chou Bun. we observe that the performance with BAM sees a notable upswing after the second stage of incremental training, which might be associated with the introduction of another ideogram-based language in the training set.2 The same improvement not occurring with the MLP-based NAMMs might be further evidence of architectural performance saturation, highlighting the effectiveness of our main implementation.
 
 #### 4.3 Understanding Neural Attention Memory Models
 
-**Influence of layer depth.** We begin analyzing NAMMs by focusing on the final amount of retained tokens and their oldness<sup>3</sup>. At the top of Figure 6, we provide these normalized metrics as a function
+**Influence of layer depth.** We begin analyzing NAMMs by focusing on the final amount of retained tokens and their oldness3. At the top of Figure 6, we provide these normalized metrics as a function
 
-<sup>&</sup>lt;sup>2</sup>The Du Reader task, used in the second stage of incremental training, uses the Chinese language.
+&lt;sup>2The Du Reader task, used in the second stage of incremental training, uses the Chinese language.
 
-<sup>&</sup>lt;sup>3</sup>We define *oldness* of a retained token as the number of new queries since its introduction in the KV cache.
+&lt;sup>3We define *oldness* of a retained token as the number of new queries since its introduction in the KV cache.
 
 ## ![](_page_8_Figure_1.jpeg)
 
@@ -301,7 +289,7 @@ The authors would like to thank David Ha and Llion Jones for providing valuable 
 - Jont B Allen and Lawrence R Rabiner. A unified approach to short-time fourier analysis and synthesis. *Proceedings of the IEEE*, 65(11):1558–1564, 1977.
 - Yushi Bai, Xin Lv, Jiajie Zhang, Hongchang Lyu, Jiankai Tang, Zhidian Huang, Zhengxiao Du, Xiao Liu, Aohan Zeng, Lei Hou, Yuxiao Dong, Jie Tang, and Juanzi Li. Longbench: A bilingual, multitask benchmark for long context understanding. *ar Xiv preprint ar Xiv:2308.14508*, 2023.
 - Yushi Bai, Xin Lv, Jiajie Zhang, Yuze He, Ji Qi, Lei Hou, Jie Tang, Yuxiao Dong, and Juanzi Li. Longalign: A recipe for long context alignment of large language models. *ar Xiv preprint ar Xiv:2401.18058*, 2024.
-- Edward Beeching and Thomas Simonini. Introducing decision transformers on hugging face, Mar 2022. URL <https://huggingface.co/blog/decision-transformers>.
+- Edward Beeching and Thomas Simonini. Introducing decision transformers on hugging face, Mar 2022. URL .
 - Iz Beltagy, Matthew E Peters, and Arman Cohan. Longformer: The long-document transformer. *ar Xiv preprint ar Xiv:2004.05150*, 2020.
 - bloc97. NTK-Aware Scaled RoPE allows LLaMA models to have extended (8k+) context size without any fine-tuning and minimal perplexity degradation., 2023. URL [https://www.reddit.com/r/LocalLLaMA/comments/14lz7j5/ntkaware\\_](https://www.reddit.com/r/LocalLLaMA/comments/14lz7j5/ntkaware_scaled_rope_allows_llama_models_to_have/) [scaled\\_rope\\_allows\\_llama\\_models\\_to\\_have/](https://www.reddit.com/r/LocalLLaMA/comments/14lz7j5/ntkaware_scaled_rope_allows_llama_models_to_have/).
 - William Brandon, Mayank Mishra, Aniruddha Nrusimha, Rameswar Panda, and Jonathan Ragan Kelly. Reducing transformer key-value cache size with cross-layer attention. *ar Xiv preprint ar Xiv:2405.12981*, 2024.
@@ -369,7 +357,7 @@ The authors would like to thank David Ha and Llion Jones for providing valuable 
 - Guangxuan Xiao, Yuandong Tian, Beidi Chen, Song Han, and Mike Lewis. Efficient streaming language models with attention sinks. *ar Xiv preprint ar Xiv:2309.17453*, 2023.
 - Yao Yao, Zuchao Li, and Hai Zhao. Sirllm: Streaming infinite retentive llm. *ar Xiv preprint ar Xiv:2405.12528*, 2024.
 - Xinrong Zhang, Yingfa Chen, Shengding Hu, Zihang Xu, Junhao Chen, Moo Khai Hao, Xu Han, Zhen Leng Thai, Shuo Wang, Zhiyuan Liu, et al. Infinitebench: Extending long context evaluation beyond 100k tokens. *ar Xiv preprint ar Xiv:2402.13718*, 2024a.
-- Yuanhan Zhang, Bo Li, haotian Liu, Yong jae Lee, Liangke Gui, Di Fu, Jiashi Feng, Ziwei Liu, and Chunyuan Li. Llava-next: A strong zero-shot video understanding model, April 2024b. URL <https://llava-vl.github.io/blog/2024-04-30-llava-next-video/>.
+- Yuanhan Zhang, Bo Li, haotian Liu, Yong jae Lee, Liangke Gui, Di Fu, Jiashi Feng, Ziwei Liu, and Chunyuan Li. Llava-next: A strong zero-shot video understanding model, April 2024b. URL .
 - Zhenyu Zhang, Ying Sheng, Tianyi Zhou, Tianlong Chen, Lianmin Zheng, Ruisi Cai, Zhao Song, Yuandong Tian, Christopher Re, Clark Barrett, et al. H2o: Heavy-hitter oracle for efficient gen- ´ erative inference of large language models. *Advances in Neural Information Processing Systems*, 36, 2024c.
 - Junjie Zhou, Yan Shu, Bo Zhao, Boya Wu, Shitao Xiao, Xi Yang, Yongping Xiong, Bo Zhang, Tiejun Huang, and Zheng Liu. Mlvu: A comprehensive benchmark for multi-task long video understanding. *ar Xiv preprint ar Xiv:2406.04264*, 2024.
 
@@ -483,68 +471,20 @@ We provide the main hyper-parameters in Table 9 and refer to either the work by 
 
 We re-implemented the recent Fast Gen method proposed by Ge et al. \(2024\), which proposes to adopt a hand-designed combination of different strategies targeted to retain tokens with high attention values, belonging to recent words, or encoded from particular grammatical features (i.e., punctuation, 'special tokens'). In particular, after observing the input prompt, Fast Gen performs a 'profiling step' where the strategy able to evict the most amount of tokens is selected such that:
 
-$$|A - \hat{A}|_2 < 1 - T.$$
-## (5)
-
-Here, A is the full-cache attention matrix, Aˆ is the 'reconstructed' attention matrix re-calculated after performing a softmax between each layer's queries and keys with masked-out entries for the keys evicted by the individual strategies. Furthermore, T is the main threshold hyper-parameter, determining how aggressively Fast Gen is allowed to prune tokens even if resulting in degradation to the attention-reconstruction heuristic.
-
-We note that, unlike our other baselines, Fast Gen is only directly compatible with language modeling tasks. This is because one of the main ways it differs from H2O is by preserving particular grammarbased tokens in some of its strategies (e.g., punctuation, special words, etc.). Thus, as this baseline was specifically designed for LMs rather than arbitrary transformers, we did not consider applying it in the 0-shot transfer settings, and only focused on Llama 3 8B.
-
-We note that as we are dealing with much longer prompts (sometimes far beyond tens/hundreds of thousand tokens), for efficiency consideration, we performed the profiling steps in our re-implementation after the first 4096 tokens any prompt exceeds this length. We also found to avoid losing too much performance over the base model on longer context tasks we had to retune its main 'threshold.' We selected T=0.999, as this choice allowed Fast Gen to retain over 95% normalized performance while still discarding a non-trivial portion of tokens on all Long Bench, as shown in Figure 9. Other than the main threshold for attention reconstruction, Fast Gen has two other main hyperparameters: the 'recency ratio,' the 'attention ratio' determining
-
-## ![](_page_18_Figure_6.jpeg)
-
-Figure 9: Averaged normalized performance and cache size of Fast Gen as compared to NAMM over Long Bench when varying the threshold parameter T.
-
-the portion of most recent tokens or with the highest attention values to retain in its individual strategies. We set these hyper-parameters to 0.3, following the paper's recommendation.
-
-Table 10: Statistics of Chou Bun. Lengths are counted by tokens produced by Llama 3 tokenizer.
-
-| Statistics | | Extractive | QA | Summarization | Overall |
-|-----------------------------|-----------|-------------|--------------|---------------|-----------|
-| | JA. WikiQA | JA. EdinetQA | JA. Corp SecQA | JA. Corp Sec Sum | All tasks |
-| Number of documents | 20 | 20 | 30 | 30 | 70 |
-| Number of QA pairs | 200 | 390 | 150 | 30 | 770 |
-| Number of reference answers | 1 | 1 | 1 | 5 | 1 or 5 |
-| Document length max. | 13027 | 10152 | 85981 | 85981 | 85981 |
-| Document length mean | 10131 | 8994 | 26220 | 26220 | 13317 |
-| Document length min. | 8196 | 6825 | 5640 | 5640 | 5640 |
-| Answer length max. | 40 | 208 | 30 | 140 | 208 |
-| Answer length mean | 7 | 11 | 8 | 80 | 21 |
-## | Answer length min. | 1 | 1 | 1 | 55 | 1 |
-
-Table 11: Performance of a wider range of LLMs on the Chou Bun benchmark.
-
-| Model/Task name | | Extractive | QA | Summarization | O | verall |
-|----------------------------|-----------|-------------|--------------|---------------|-----------|-------------|
-| Nodel Tush Indiae | JA. WikiQA | JA. EdinetQA | JA. Corp SecQA | JA. Corp Sec Sum | All tasks | Max. length |
-| mistralai/Mistral-7B-v0.1 | 8.68 | 8.34 | 16.25 | 10.50 | 10.94 | 32768 |
-| rinna/llama-3-youko-8b | 16.68 | 12.23 | 17.03 | 22.27 | 17.05 | 8192 |
-| meta-llama/Meta-Llama-3-8B | 14.58 | 14.77 | 16.86 | 22.84 | 17.27 | 8192 |
-| meta-llama/Llama-2-7b-hf | 16.77 | 9.92 | 20.86 | 21.97 | 17.38 | 2048 |
-| 01-ai/yi-6b-200k | 30.36 | 23.64 | 38.09 | 21.11 | 28.30 | 200000 |
-| elyza/Llama-3-ELYZA-JP-8B | 20.77 | 21.45 | 35.59 | 40.21 | 29.50 | 8192 |
-
-#### B BENCHMARK DESCRIPTIONS
-
-#### B.1 CHOUBUN DETAILS
-
-The Chou Bun benchmark is created to assess the generalization ability of NAMMs to a new language (Japanese), but we hope it will also serve as a standard benchmark for Japanese LLMs. The benchmark is composed of two task categories — extractive QA and abstractive summarization — and four tasks as follows.
-
-- *JA. WikiQA* is an extractive QA task about 20 randomly sampled articles from the 20240429 dump of Japanese Wikipedia<sup>4</sup>. Each article corresponds to 10 QA pairs, and there are 200 QA pairs in total.
-- *JA. EdinetQA* is an extractive QA task based on 20 security reports from EDINET<sup>5</sup>. The EDINET security reports are in CSV format, which makes them less human-readable. Nevertheless, we choose not to convert the format because the conversion process per se is non-trivial, and using a CSV-style text input helps us evaluate a model's capability of understanding structured data. The total number of QA pairs in *JA. EdinetQA* is 390.
-- *JA. Corp SecQA* is another extractive QA task based on 30 security reports downloaded from three corporation websites (MUFG<sup>6</sup>, NTT<sup>7</sup>, and Toyota<sup>8</sup>). We extract texts from original file in PDF format. There are 150 QA pairs in total.
+$$|A - \hat{A}|_2 4. Each article corresponds to 10 QA pairs, and there are 200 QA pairs in total.
+- *JA. EdinetQA* is an extractive QA task based on 20 security reports from EDINET5. The EDINET security reports are in CSV format, which makes them less human-readable. Nevertheless, we choose not to convert the format because the conversion process per se is non-trivial, and using a CSV-style text input helps us evaluate a model's capability of understanding structured data. The total number of QA pairs in *JA. EdinetQA* is 390.
+- *JA. Corp SecQA* is another extractive QA task based on 30 security reports downloaded from three corporation websites (MUFG6, NTT7, and Toyota8). We extract texts from original file in PDF format. There are 150 QA pairs in total.
 - *JA. Corp Sec Sum* is an abstractive summarization task based on the same data of *JA. Corp SecQA*. Each document corresponds to one data point, and we collect 5 reference summaries for each data point.
 
-<sup>4</sup>https://dumps.wikimedia.org/other/cirrussearch/
+4https://dumps.wikimedia.org/other/cirrussearch/
 
-<sup>5</sup>https://disclosure2.edinet-fsa.go.jp/
+5https://disclosure2.edinet-fsa.go.jp/
 
-<sup>6</sup>https://www.mufg.jp/ir/report/security\_report/
+6https://www.mufg.jp/ir/report/security\_report/
 
 https://group.ntt/jp/ir/library/results/
 
-<sup>8</sup>https://global.toyota/jp/ir/library/securities-report/
+8https://global.toyota/jp/ir/library/securities-report/
 
 #### Prompt for extractive QA
 
@@ -597,9 +537,9 @@ Collecting human annotations for long-text tasks is challenging, therefore we us
 
 We use F1 score and ROUGE score for evaluation in the extractive QA tasks and summarization task, respectively. Reference text and hypothesis text are pre-tokenized by the Me Cab tokenizer10 . A wider range of LLMs' performance on the Chou Bun benchmark is presented in Table 11.
 
-<sup>9</sup>gpt-4o-2024-05-13, gpt-4o-mini-2024-07-18, gpt-4-turbo-2024-04-09, and claude-3-5-sonnet-20240620
+9gpt-4o-2024-05-13, gpt-4o-mini-2024-07-18, gpt-4-turbo-2024-04-09, and claude-3-5-sonnet-20240620
 
-<sup>10</sup><https://github.com/polm/fugashi>
+10
 
 ### B.2 BENCHMARKS SUMMARY
 
@@ -653,11 +593,11 @@ Table 13: NAMMs evaluation on Infinite Bench (Zhang et al., 2024a). The normaliz
 
 We provide additional results and analysis to the summarized one, complementing Section 4, with the detailed performance across different NAMMs, evaluating the best checkpoints after each stage of incremental training stage, and ablating the BAM architecture with an MLP.
 
-**Extended language modeling results.** We report our results for Long Bench, Infinite Bench, and Chou Bun in Tables 12, 13, 14. First, we note that even training on a single task with our simple MLP architecture impressively improves performance across all benchmarks. Additionally, performance across benchmarks sees near-monotonic further improvements with each stage of our incremental evolution recipe. Comparing our implementations, we note that the performance benefits from the memory models with backward attention are consistently superior to the fully connected variant in both initial stages of incremental training, empirically validating our hypothesis about the importance of global KV cache information for determining the importance of each token. Lastly, on Chou Bun. we observe that the performance with BAM sees a notable upswing after the second stage of incremental training, which might be associated with the introduction of another ideogrambased language in the training set.<sup>11</sup> The same improvement not occurring with the MLP-based NAMMs might be further evidence of architectural performance saturation, highlighting once again the effectiveness of our main implementation design.
+**Extended language modeling results.** We report our results for Long Bench, Infinite Bench, and Chou Bun in Tables 12, 13, 14. First, we note that even training on a single task with our simple MLP architecture impressively improves performance across all benchmarks. Additionally, performance across benchmarks sees near-monotonic further improvements with each stage of our incremental evolution recipe. Comparing our implementations, we note that the performance benefits from the memory models with backward attention are consistently superior to the fully connected variant in both initial stages of incremental training, empirically validating our hypothesis about the importance of global KV cache information for determining the importance of each token. Lastly, on Chou Bun. we observe that the performance with BAM sees a notable upswing after the second stage of incremental training, which might be associated with the introduction of another ideogrambased language in the training set.11 The same improvement not occurring with the MLP-based NAMMs might be further evidence of architectural performance saturation, highlighting once again the effectiveness of our main implementation design.
 
 **Extended zero-shot transfer results.** We report our extended zero-shot transfer results for the 70B model and the offline RL setting in Tables 15, 16, and 17. We see the benefits from NAMMs again increase as we incorporate backward attention, and with each stage of incremental training to a similar extent as with the language modeling tasks. These results further highlight the potential benefits of scaling up the architecture of our memory model and increasing the number of incremental stages.
 
-<sup>&</sup>lt;sup>11</sup>The Du Reader task, used in the second stage of incremental training, uses the Chinese language.
+&lt;sup>11The Du Reader task, used in the second stage of incremental training, uses the Chinese language.
 
 Table 14: NAMMs evaluation on the new Chou Bun benchmark. The normalized performance (in brackets) is calculated using the base model with full cache.
 
@@ -829,11 +769,71 @@ Table 22: NAMMs evaluation on Long Bench using Mistral 7B v0.3 as base model. Th
 | NAMM (Finetune) | 9.82 (0.62) | 10.36 (1.26) | 28.40 (1.00) | 17.38 (1.03) | 11.72 (0.91) | 12.11 (1.03) | 7.28 (0.88) | 19.04 (1.68) | 25.77 (0.90) | 21.74 (0.97) | 27.72 (1.09) | 12.52 (1.01) |
 | | Few-shot Learning | | | | | | | | | | | |
 | Model/Task id | | Few-shot | Learning | | | Synthetic | | Co | ode | | Overall | |
-| Model/Task id | 4-1 | Few-shot<br>4-2 | Learning<br>4-3 | 4-4 | 5-1 | Synthetic<br>5-2 | 5-3 | 6-1 | 6-2 | All tasks | | Cache size |
+| Model/Task id | 4-1 | Few-shot
+4-2 | Learning
+4-3 | 4-4 | 5-1 | Synthetic
+5-2 | 5-3 | 6-1 | 6-2 | All tasks | | Cache size |
 | Model/Task id Base model | 4-1 | 4-2 | 4-3 | 4-4 | 5-1 | 5-2 | 5-3 | | 6-2 | | Test tasks | Cache size |
-| | 4-1<br><b>76.50</b> (1.00) | 4-2<br>90.50 (1.00) | 4-3<br>36.55 (1.00) | 4-4 41.50 (1.00) | 5-1<br>1.00 (1.00) | 5-2<br><b>32.17</b> (1.00) | 5-3 | 6-1 | 6-2 | 30.33 (1.00) | Test tasks<br>N/A | |
-| Base model | 4-1<br><b>76.50</b> (1.00)<br>76.00 (0.99) | 4-2<br>90.50 (1.00)<br>90.14 (1.00) | 4-3<br>36.55 (1.00)<br>38.54 (1.05) | 4-4<br>41.50 (1.00)<br>31.00 (0.75) | 5-1<br>1.00 (1.00)<br>1.50 (1.50) | 5-2<br>32.17 (1.00)<br>6.88 (0.21) | 5-3<br>27.50 (1.00)<br>24.13 (0.88) | 65.91 (1.00) | 6-2<br>62.71 (1.00)<br>64.46 (1.03) | 30.33 (1.00)<br>28.27 (0.96) | Test tasks<br>N/A<br>N/A | 10107 (1.00) |
-| Base model<br>H2O | 4-1<br>76.50 (1.00)<br>76.00 (0.99)<br>72.50 (0.95) | 4-2<br>90.50 (1.00)<br>90.14 (1.00)<br>75.65 (0.84) | 4-3<br>36.55 (1.00)<br>38.54 (1.05)<br>33.91 (0.93) | 4-4<br>41.50 (1.00)<br>31.00 (0.75)<br>13.50 (0.33) | 5-1<br>1.00 (1.00)<br>1.50 (1.50)<br>0.50 (0.50) | 5-2<br>32.17 (1.00)<br>6.88 (0.21)<br>6.00 (0.19) | 5-3<br>27.50 (1.00)<br>24.13 (0.88)<br>24.50 (0.89) | 65.91 (1.00)<br>66.25 (1.01) | 6-2<br>62.71 (1.00)<br>64.46 (1.03)<br>50.11 (0.80) | 30.33 (1.00)<br>28.27 (0.96)<br>26.27 (0.97) | Test tasks<br>N/A<br>N/A<br>N/A | 10107 (1.00)<br>6662 (0.66) |
+| | 4-1
+76.50 (1.00) | 4-2
+90.50 (1.00) | 4-3
+36.55 (1.00) | 4-4 41.50 (1.00) | 5-1
+1.00 (1.00) | 5-2
+32.17 (1.00) | 5-3 | 6-1 | 6-2 | 30.33 (1.00) | Test tasks
+N/A | |
+| Base model | 4-1
+76.50 (1.00)
+76.00 (0.99) | 4-2
+90.50 (1.00)
+90.14 (1.00) | 4-3
+36.55 (1.00)
+38.54 (1.05) | 4-4
+41.50 (1.00)
+31.00 (0.75) | 5-1
+1.00 (1.00)
+1.50 (1.50) | 5-2
+32.17 (1.00)
+6.88 (0.21) | 5-3
+27.50 (1.00)
+24.13 (0.88) | 65.91 (1.00) | 6-2
+62.71 (1.00)
+64.46 (1.03) | 30.33 (1.00)
+28.27 (0.96) | Test tasks
+N/A
+N/A | 10107 (1.00) |
+| Base model
+H2O | 4-1
+76.50 (1.00)
+76.00 (0.99)
+72.50 (0.95) | 4-2
+90.50 (1.00)
+90.14 (1.00)
+75.65 (0.84) | 4-3
+36.55 (1.00)
+38.54 (1.05)
+33.91 (0.93) | 4-4
+41.50 (1.00)
+31.00 (0.75)
+13.50 (0.33) | 5-1
+1.00 (1.00)
+1.50 (1.50)
+0.50 (0.50) | 5-2
+32.17 (1.00)
+6.88 (0.21)
+6.00 (0.19) | 5-3
+27.50 (1.00)
+24.13 (0.88)
+24.50 (0.89) | 65.91 (1.00)
+66.25 (1.01) | 6-2
+62.71 (1.00)
+64.46 (1.03)
+50.11 (0.80) | 30.33 (1.00)
+28.27 (0.96)
+26.27 (0.97) | Test tasks
+N/A
+N/A
+N/A | 10107 (1.00)
+6662 (0.66) |
 
 cross-model fine-tuning, running a small amount of additional evolutionary optimization comprising 20 generations using CMA-ES and the same 3 training tasks used for Llama. We provide our full results and analysis in Table 22.
 
@@ -855,11 +855,65 @@ Table 23: NAMMs evaluation on Long Bench ablating the STFT features. The normali
 | NAMM (Raw attention) | 9.98 (0.96) | 12.77 (1.00) | 22.04 (0.98) | 21.48 (1.01) | 9.72 (0.93) | 12.08 (0.95) | 6.31 (0.84) | 22.61 (0.87) | 28.68 (0.98) | $23.76 \ (0.99)$ | 0.87 (0.95) | 3.75 (1.41) |
 | | | | | | | | | | | | | |
 | Model/Task id | | Few-shot | Learning | | | Synthetic | | Co | ode | | Overall | |
-| Model/Task id | 4-1 | Few-shot<br>4-2 | Learning<br>4-3 | 4-4 | 5-1 | Synthetic<br>5-2 | 5-3 | 6-1 | 6-2 | All tasks | | Cache size |
+| Model/Task id | 4-1 | Few-shot
+4-2 | Learning
+4-3 | 4-4 | 5-1 | Synthetic
+5-2 | 5-3 | 6-1 | 6-2 | All tasks | | Cache size |
 | Model/Task id Base model | 4-1 | 4-2 | 4-3 | | 5-1 | 5-2 | 5-3 | 6-1 | 6-2 | | | Cache size |
-| | 4-1<br>73.00 (1.00) | 4-2<br>89.45 (1.00) | 4-3<br>46.54 (1.00) | 4-4 | 5-1 | 5-2 | 5-3<br><b>28.80</b> (1.00) | 6-1 | 6-2 | 28.86 (1.00) | Test tasks | |
-| Base model | 73.00 (1.00)<br>73.00 (1.00) | 4-2<br>89.45 (1.00)<br><b>90.03</b> (1.01) | 4-3<br>46.54 (1.00)<br>46.85 (1.01) | 4-4 40.00 (1.00) | 5-1<br>1.48 (1.00)<br>2.35 (1.59) | 5-2<br>12.18 (1.00)<br>24.69 (2.03) | 5-3<br><b>28.80</b> (1.00)<br>28.46 (0.99) | 6-1<br>69.09 (1.00)<br>69.65 (1.01) | 6-2<br>65.17 (1.00)<br>66.57 (1.02) | 28.86 (1.00)<br>29.25 (1.07) | Test tasks | 10107 (1.00) |
-| Base model<br>NAMM (BAM, s2) | 73.00 (1.00)<br>73.00 (1.00)<br>73.00 (1.00) | 4-2<br>89.45 (1.00)<br><b>90.03 (1.01)</b><br>89.81 (1.00) | 4-3<br>46.54 (1.00)<br>46.85 (1.01)<br>46.35 (1.00) | 4-4<br>40.00 (1.00)<br><b>42.00</b> (1.05)<br>40.00 (1.00) | 5-1<br>1.48 (1.00)<br>2.35 (1.59)<br><b>3.04</b> (2.05) | 5-2<br>12.18 (1.00)<br>24.69 (2.03)<br>27.55 (2.26) | 5-3<br>28.80 (1.00)<br>28.46 (0.99)<br>28.60 (0.99) | 6-1<br>69.09 (1.00)<br>69.65 (1.01)<br>69.53 (1.01) | 6-2<br>65.17 (1.00)<br>66.57 (1.02)<br>66.35 (1.02) | 28.86 (1.00)<br>29.25 (1.07)<br><b>29.33</b> (1.11) | N/A<br>1.04 | 10107 (1.00)<br>8521 (0.84) |
+| | 4-1
+73.00 (1.00) | 4-2
+89.45 (1.00) | 4-3
+46.54 (1.00) | 4-4 | 5-1 | 5-2 | 5-3
+28.80 (1.00) | 6-1 | 6-2 | 28.86 (1.00) | Test tasks | |
+| Base model | 73.00 (1.00)
+73.00 (1.00) | 4-2
+89.45 (1.00)
+90.03 (1.01) | 4-3
+46.54 (1.00)
+46.85 (1.01) | 4-4 40.00 (1.00) | 5-1
+1.48 (1.00)
+2.35 (1.59) | 5-2
+12.18 (1.00)
+24.69 (2.03) | 5-3
+28.80 (1.00)
+28.46 (0.99) | 6-1
+69.09 (1.00)
+69.65 (1.01) | 6-2
+65.17 (1.00)
+66.57 (1.02) | 28.86 (1.00)
+29.25 (1.07) | Test tasks | 10107 (1.00) |
+| Base model
+NAMM (BAM, s2) | 73.00 (1.00)
+73.00 (1.00)
+73.00 (1.00) | 4-2
+89.45 (1.00)
+90.03 (1.01)
+89.81 (1.00) | 4-3
+46.54 (1.00)
+46.85 (1.01)
+46.35 (1.00) | 4-4
+40.00 (1.00)
+42.00 (1.05)
+40.00 (1.00) | 5-1
+1.48 (1.00)
+2.35 (1.59)
+3.04 (2.05) | 5-2
+12.18 (1.00)
+24.69 (2.03)
+27.55 (2.26) | 5-3
+28.80 (1.00)
+28.46 (0.99)
+28.60 (0.99) | 6-1
+69.09 (1.00)
+69.65 (1.01)
+69.53 (1.01) | 6-2
+65.17 (1.00)
+66.57 (1.02)
+66.35 (1.02) | 28.86 (1.00)
+29.25 (1.07)
+29.33 (1.11) | N/A
+1.04 | 10107 (1.00)
+8521 (0.84) |
 
 - 1. The *naive* approach of using the raw attention values directly (cropped to a fixed length) as input to NAMMs.
 - 2. Substituting the STFT features by constructing a 'handcrafted' feature representation that simply includes three values: i. The sum of the attention values of each token. ii) The recency of each token. iii. The diversity of each token (computed by concatenating the keys and values to represent each token and averaging the L2 distance to all other tokens). We refer to this baseline as *RAD*.
@@ -901,7 +955,7 @@ On the Infinite Bench tasks, our NAMM achieve particularly outstanding improveme
 
 We qualitatively inspect the effects of NAMMs on En. Sum by comparing example answers generated by Llama 3 with and without our memory models, together with examples generated by GPT4. As illustrated in Figure 16, we find both the Llama and GPT models to incur several failure modes, producing answers that entirely miss the objective of the original task. For instance, the context-extended Llama 3 often gets stuck in generation loops continuously repeating part of sentences without coherent structure. Instead, the GPT answers appear to forego summarizing the text and rather attempt to continue the provided passage, by generating end-of-text tokens or even roleplaying some of the characters. However, while introducing NAMMs appears to avoid many instances of these failure modes, we find the summarization of the memory-augmented Llama 3 still displays many imperfections such as misspelling character names (left) or lacking much depth by being extremely concise (right).
 
-<sup>12</sup>Infinite Bench tasks are scored in a range between 0 and 100.
+12Infinite Bench tasks are scored in a range between 0 and 100.
 
 ## ![](_page_31_Figure_1.jpeg)
 
@@ -944,4 +998,4 @@ One notable example exemplifying some of the aforementioned limitations, comes f
 
 architecture, averaging evaluation scores provided by a GPT-4 model \(Achiam et al., 2023\) across different prompt ranges, consistently with Bai et al. \(2024\). As shown in Table 24, while NAMMs do not manage to exceed the overall performance of the base model, they still provide some notable efficiency gains. However, looking more closely at the score distribution across different prompt length ranges we observe an unexpected trend that is in contrast with the rest of our results on other benchmarks. In particular, while our NAMM obtains slightly higher than the base model for prompts with a size less than 10000, it seems to increasingly struggle with longer prompts.
 
-After comparing the spectrogram features extracted for the different prompts, our explanation for these results highlights one current failure mode of the current implementation. In particular, the Needle In a Haystack task is constructed such that the model is tasked to remember some important information introduced at the beginning of the prompt, and later followed by completely unrelated 'filler' text. Hence, the attention scores and the corresponding spectrogram features for the tokens containing the relevant information are forcibly sparse, being high only at the very beginning of the prompt. Yet, since the evaluated NAMM reduces these features over the time axis of the spectrogram with an EMA coefficient of γ = 0.99s<sup>w</sup> , all the frequency information regarding these tokens will be inevitably overwritten. To empirically validate our theory we provide results simply raising the EMA coefficient from γ = 0.99s<sup>w</sup> to γ = 0.9999s<sup>w</sup> . Since our NAMMs was never actually trained with this higher coefficient, we note that this change effectively brings the input features out-ofdistribution. Nonetheless, as shown in the final row of Table 24, the larger coefficient still manages to improve performance on the longer prompts by enabling the preservation of the frequency components from the target 'needle' over a longer horizon. These findings suggest that future NAMM designs should consider higher EMA reduction coefficients or, potentially, even directly *learning* this parameter with evolution in addition to the NAMM's network weights.
+After comparing the spectrogram features extracted for the different prompts, our explanation for these results highlights one current failure mode of the current implementation. In particular, the Needle In a Haystack task is constructed such that the model is tasked to remember some important information introduced at the beginning of the prompt, and later followed by completely unrelated 'filler' text. Hence, the attention scores and the corresponding spectrogram features for the tokens containing the relevant information are forcibly sparse, being high only at the very beginning of the prompt. Yet, since the evaluated NAMM reduces these features over the time axis of the spectrogram with an EMA coefficient of γ = 0.99sw , all the frequency information regarding these tokens will be inevitably overwritten. To empirically validate our theory we provide results simply raising the EMA coefficient from γ = 0.99sw to γ = 0.9999sw . Since our NAMMs was never actually trained with this higher coefficient, we note that this change effectively brings the input features out-ofdistribution. Nonetheless, as shown in the final row of Table 24, the larger coefficient still manages to improve performance on the longer prompts by enabling the preservation of the frequency components from the target 'needle' over a longer horizon. These findings suggest that future NAMM designs should consider higher EMA reduction coefficients or, potentially, even directly *learning* this parameter with evolution in addition to the NAMM's network weights.

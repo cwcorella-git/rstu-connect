@@ -1,3 +1,8 @@
+---
+title: "ABC of Anarchism"
+category: "contemporary-analysis"
+---
+
 ## Alexander Berkman
 
 # ABC of Anarchism
@@ -284,7 +289,7 @@ The country that has the worst oppressors produces also the greatest numbers of 
 
 Those avengers were mostly sons and daughters of the highest nobility, idealistic youths who loved liberty and the people. With all other avenues closed, they felt themselves compelled to resort to the pistol and dynamite in the hope of alleviating the miserable conditions of their country. They were known as nihilists and
 
-<sup>\*</sup> July 13th, 1874.
+\* July 13th, 1874.
 
 terrorists. They were not anarchists.
 
@@ -354,7 +359,7 @@ Anarchy,\* therefore, does not mean disorder and chaos, as you thought before. O
 
 Let us see, then, if we can grow the wings we need for that ideal state of society.
 
-<sup>\*</sup> Anarchy refers to the condition. Anarchism is the theory or teaching about it.
+\* Anarchy refers to the condition. Anarchism is the theory or teaching about it.
 
 ### 3: What is Anarchism?
 
@@ -406,7 +411,7 @@ The chances are that if you or Johnson should awaken to find that there is no go
 
 It is very likely, of course, that if you should then see people
 
-<sup>\*</sup> i.e. in Part I of Berkman's original book: see Publisher's Note.
+\* i.e. in Part I of Berkman's original book: see Publisher's Note.
 
 gorge themselves while you go hungry, you would demand a chance to eat, and you would be perfectly right in that. And so would every one else, which means that people would not stand for any one hogging all the good things of life; they would want to share in them. It means further that the poor would refuse to stay poor while others wallow in luxury. It means that the worker will decline to give up his product to the boss who claims to "own" the factory and everything that is made there. It means that the farmer will not permit thousands of acres to lie idle while he has not enough soil to support himself and family. It means that no one will be permitted to monopolise the land or the machinery of production. It means that the private ownership of the sources of life will not be tolerated any more. It will be considered the greatest crime for some to own more than they can use in a dozen lifetimes, while their neighbours have not enough bread for their children. It means that all men will share in the social wealth, and that all will help to produce that wealth.
 
@@ -460,7 +465,7 @@ Man is a social being: he cannot exist alone; he lives in communities or societi
 
 All through life you will find that the needs and inclinations of people make for association, for mutual protection and help. That
 
-<sup>\*</sup> i.e., in Part I of the original book.
+\* i.e., in Part I of the original book.
 
 ## 14 ABC OF ANARCHISM
 
@@ -676,7 +681,7 @@ First: the manner in which anarchy will come about. The communist anarchists say
 
 Second: Individualist anarchists and Mutualists believe in individual ownership as against the communist anarchists who see in the institution of private property one of the main sources of injustice and inequality, of poverty and misery. The Individualists and Mutualists
 
-<sup>\*</sup>The Mutualists, though not calling themselves anarchists (probably because the name is so misunderstood), are nevertheless thoroughgoing anarchists, since they disbelieve in government and political authority of any kind.
+\*The Mutualists, though not calling themselves anarchists (probably because the name is so misunderstood), are nevertheless thoroughgoing anarchists, since they disbelieve in government and political authority of any kind.
 
 maintain that liberty means "the right of every one to the product of his toil"; which is true, of course. Liberty does mean that. But the question is not whether one has a right to his product, but whether there is such a thing as an individual product. I have pointed out in preceding chapters that there is no such thing in modern history; all labour and the products of labour are social. The argument, therefore, about the right of the individual to his product has no practical merit.
 
@@ -1067,7 +1072,8 @@ This holds true of every industry and every strike. Can you wonder that most str
 
 ## Results in favour of Results in favour of
 
-| ic iast | cignt | years a | | esults in favour of Working people. | Results in favour o<br>Employers. |
+| ic iast | cignt | years a | | esults in favour of Working people. | Results in favour o
+Employers. |
 |---------|-------|---------|-----|-------------------------------------|-----------------------------------|
 | 1920 | 8.655 | 10. 20 | 250 | 390 | 507 |
 | 1921 | • • | | 200 | 152 | 315 |

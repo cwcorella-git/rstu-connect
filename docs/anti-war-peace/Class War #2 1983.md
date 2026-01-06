@@ -1,3 +1,8 @@
+---
+title: "## **Class War #2 1983**"
+category: "anti-war-peace"
+---
+
 ## **Class War #2 1983**
 
 | Date: Unknown |
@@ -53,22 +58,30 @@ I'm a working class kid that started producing atonal music on the back of Crass
 | westartfromhere |
 | 1 year 8 months ago |
 | Sound advice |
-| Fozzie, just had a recollection of a Class War vendor at the entrance to Victoria Park who had<br>placed crowd barriers round his stall. |
+| Fozzie, just had a recollection of a Class War vendor at the entrance to Victoria Park who had
+placed crowd barriers round his stall. |
 | R Totale |
 | 1 year 8 months ago |
-| Thought I had a pretty good knowledge of this stuff but this is my first time hearing of the<br>Anti-Social Workers, any idea if they ever recorded anything? Anyone got any memories of<br>them?Oh, looks like there was some recorded<br>output:https://antisocialworkersariwa.bandcamp.com/album/punky-reggae-party|
+| Thought I had a pretty good knowledge of this stuff but this is my first time hearing of the
+Anti-Social Workers, any idea if they ever recorded anything? Anyone got any memories of
+them?Oh, looks like there was some recorded
+output:https://antisocialworkersariwa.bandcamp.com/album/punky-reggae-party|
 | Fozzie |
 | 1 year 8 months ago |
 
-| Yes, produced by UK dub legend Mad Professor. Line up included ranting poet Tim Wells who<br>went on to be involved with the early days of pre-ITA Blaggers. |
+| Yes, produced by UK dub legend Mad Professor. Line up included ranting poet Tim Wells who
+went on to be involved with the early days of pre-ITA Blaggers. |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | https://www.discogs.com/artist/3167010-Anti-Social-Workers|
 | westartfromhere |
 | 1 year 8 months ago |
-| Mad Professor (born Guyana, resident of South London) also notable for his critique of the<br>medical nemesis: Schizophrenic Dub, Science and the Witchdoctor, Covid Illusion Dub, Herd<br>Immunity. |
+| Mad Professor (born Guyana, resident of South London) also notable for his critique of the
+medical nemesis: Schizophrenic Dub, Science and the Witchdoctor, Covid Illusion Dub, Herd
+Immunity. |
 | westartfromhere |
 | 1 year 8 months ago |
-| That Anti-Social Workers brought me to this, Anti Social Services SESSIONS 001. A bit of<br>fun! |
+| That Anti-Social Workers brought me to this, Anti Social Services SESSIONS 001. A bit of
+fun! |
 | westartfromhere |
 | 1 year 8 months ago |
 | In reply toI always remember a mate…by Fozzie |

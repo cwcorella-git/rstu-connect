@@ -1,14 +1,10 @@
 ---
-date: 2025
-author: Reno Sparks Tenants Union
-tags:
-  - organizing
-  - unions
-  - tenants
-  - housing
-  - rent
 title: "Administrative Documents and Internal Operations"
+author: "Reno Sparks Tenants Union"
+date: "2025"
+category: "misc"
 ---
+
 # Administrative Documents and Internal Operations
 
 **Date**: September 8, 2025  

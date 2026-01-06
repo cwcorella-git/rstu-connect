@@ -1,12 +1,8 @@
 ---
-title: Culture Leisure and the Police
-date: 2025
-author: Unknown
-tags:
-  - organizing
-  - unions
-  - rent
-  - police
+title: "Culture Leisure and the Police"
+author: "Unknown"
+date: "2025"
+category: "abolition"
 ---
 
 # Culture Leisure and the Police

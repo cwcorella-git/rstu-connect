@@ -1,3 +1,8 @@
+---
+title: "Fields, Factories and Workshops Tomorrow"
+category: "contemporary-analysis"
+---
+
 # Fields, Factories and Workshops Tomorrow
 
 Pyotr Kropotkin Introduction by Kevin A. Carson Additional Material by Colin Ward Supplemental Material by Murray Bookchin
@@ -18,7 +23,8 @@ Essentially, the tragedy of past revolutions has been that, sooner or later, the
 
 # **Fields, Factories and Workshops Tomorrow by Pyotr Kropotkin Contents**
 
-| 1. | Introduction to the C4SS Edition<br>by Kevin A. Carson | 5 |
+| 1. | Introduction to the C4SS Edition
+by Kevin A. Carson | 5 |
 |-----|--------------------------------------------------------|-----|
 | 2. | Introduction by Colin Ward | 13 |
 | 3. | Author's Preface to the First Edition | 18 |
@@ -33,7 +39,8 @@ Essentially, the tragedy of past revolutions has been that, sooner or later, the
 | 12. | Appendix by Colin Ward | 146 |
 | 13. | Conclusion | 151 |
 | 14. | Postscript by Colin Ward | 156 |
-| 15. | Towards a Liberatory Technology<br>by Murray Bookchin | 160 |
+| 15. | Towards a Liberatory Technology
+by Murray Bookchin | 160 |
 
 # **Introduction to the C4SS Edition of Fields, Factories and Workshops Tomorrow Kevin A. Carson**
 
@@ -121,13 +128,13 @@ These words echo our contemporary preoccupations, as Kropotkin's book has done f
 
 The ways that Kropotkin suggested, how men can at once begin to live better, are still the ways; the evils he attacked are mostly still the evils; the popular misconceptions of the relations of machinery and social planning. Recently studying the modern facts and the modem authors, I wrote a little book (Communitas) on a related subject; there is not one important proposition in my book that is not in Fields, Factories and Workshops, often in the same words.4
 
-<sup>1</sup> Peter Kropotkin, Fields, Factories and Workshops, Publishers' Note to reprint of second edition (London, Edinburgh and New York, Nelson, n.d. [1919])
+1 Peter Kropotkin, Fields, Factories and Workshops, Publishers' Note to reprint of second edition (London, Edinburgh and New York, Nelson, n.d. [1919])
 
-<sup>2</sup> Bertrand Russell, Roads to Freedom: Socialism, Anarchism and Syndicalism (London, Allen & Unwin, 1918, 1966)
+2 Bertrand Russell, Roads to Freedom: Socialism, Anarchism and Syndicalism (London, Allen & Unwin, 1918, 1966)
 
-<sup>3</sup> Herbert Read (ed.), Kropotkin: Selections from his Writings London, Freedom Press, 1942)
+3 Herbert Read (ed.), Kropotkin: Selections from his Writings London, Freedom Press, 1942)
 
-<sup>4</sup> Paul Goodman, "Fifty Years Have Passed", Resistance (New York. March/April 1948)
+4 Paul Goodman, "Fifty Years Have Passed", Resistance (New York. March/April 1948)
 
 But perhaps the most persuasive advocacy of this book comes from Lewis Mumford, who, in The City in History, wrote of it and its author:
 
@@ -137,9 +144,9 @@ Kropotkin realised that the new means of rapid transit and communication, couple
 
 The reader may very well wonder why such an important book – a work which influenced not only Tolstoy, Gandhi and Mao Tse-tung, but also the author of the wartime Penguin guide, Your Small-holding – has been out of print in Britain for half a century, and why, in this edition, it has been cut to about half of its original length. The answer is that Kropotkin's conclusions were so much at variance with the consensus of opinion in his day (and in ours) that he had to burden his book with a mass of statistical and anecdotal evidence, as well as twenty-four appendixes. The effect of this, since the facts and figures he cites are threequarters of a century old, is to disguise for the reader the significance of the book for a new generation. Consequently, while the revival of interest in the classics of anarchism during the late 1960s brought new editions of most of Kropotkin's works, with new introductions underlining their contemporary signifcance,6 Fields,
 
-<sup>5</sup> Lewis Mumford, The City in History (London. Secker & Warburg. 1961: Harmondsworth, Penguin, 1963)
+5 Lewis Mumford, The City in History (London. Secker & Warburg. 1961: Harmondsworth, Penguin, 1963)
 
-<sup>6</sup> Peter Kropotkin, Ethics (New York, Tudor Publishing 1947; New York, Benjamin Blom, 1968)
+6 Peter Kropotkin, Ethics (New York, Tudor Publishing 1947; New York, Benjamin Blom, 1968)
 
 Peter Kropotkin, The Conquest of Bread, edited Paul Avrich by (London, Allen Lane, 1972)
 
@@ -165,11 +172,11 @@ Peter Kropotkin, Selected Writings on Anarchism and Revolution, edited by Martin
 
 Peter Kropotkin, Words of a Rebel, translated and edited by Nicolas Walter (forthcoming)
 
-<sup>7</sup> Peter Kropotkin, Fields, Factories and Workshops (New York, Greenwood Press, 1968)
+7 Peter Kropotkin, Fields, Factories and Workshops (New York, Greenwood Press, 1968)
 
-<sup>8</sup> Peter Kropotkin, Fields, Factories and Workshops (New York, Benjamin Blom, 1968)
+8 Peter Kropotkin, Fields, Factories and Workshops (New York, Benjamin Blom, 1968)
 
-<sup>9</sup> Stephen Margin (Professor of Economics, Harvard University), Lethaby Lecture delivered at the Royal College of Art (9 and 10 May 1973) on "The Economic Consequences of the Humanisation of Work"
+9 Stephen Margin (Professor of Economics, Harvard University), Lethaby Lecture delivered at the Royal College of Art (9 and 10 May 1973) on "The Economic Consequences of the Humanisation of Work"
 
 widely in Central Asia and the Far East, gaining a reputation as a geographer. He became involved in populist agitation, was imprisoned for two years, and made a sensational escape from a prison hospital in St Petersburg. In Western Europe, he found his home in the anarchist movement and, after imprisonment for three years in France, settled in England where he was one of the founders of the anarchist journal Freedom in 1886, and where he earned his living as a writer on scientific, social and political subjects. Apart from two journeys to the United States and Canada, and brief visits to Europe, he remained in Britain until 1917 when he returned to Russia. There he died in 1921.
 
@@ -179,13 +186,13 @@ Kropotkin was the most widely read of a the anarchist propagandists. His books a
 
 Fields, Factories and Workshops, however, was not written for an exclusively anarchist audience, nor as specifically anarchist propaganda. Its aim was to spread more widely the ideas which he had already ventilated in the 1880s in the journals Le Révolté and La Révolte and in some of the articles collected together in his books Paroles d'un Révolté (1885) and The Conquest of Bread (1892).
 
-<sup>10</sup> In Paul Avrich (ed.), The Anarchists in the Russian Revolution (London, Thames & Hudson, 1973); and in Baldwin ("Message") and Miller ("Letters"), op. cit.
+10 In Paul Avrich (ed.), The Anarchists in the Russian Revolution (London, Thames & Hudson, 1973); and in Baldwin ("Message") and Miller ("Letters"), op. cit.
 
-<sup>11</sup> George Woodcock and Ivan Avakumović, The Anarchist Prince (London, Boardman, 1950; New York, Schocken Books, 1971)
+11 George Woodcock and Ivan Avakumović, The Anarchist Prince (London, Boardman, 1950; New York, Schocken Books, 1971)
 
-<sup>12</sup> George Orwell, "The Writers Dilemma", The Observer (28 August 1948)
+12 George Orwell, "The Writers Dilemma", The Observer (28 August 1948)
 
-<sup>13</sup> Errico Malatesta, "Peter Kropotkin: Recollections and Criticisms of Old Friend" (1931); reprinted in Vernon Richards (ed.), Errico Malatesta: Life and Ideas (London, Freedom Press, 1965)
+13 Errico Malatesta, "Peter Kropotkin: Recollections and Criticisms of Old Friend" (1931); reprinted in Vernon Richards (ed.), Errico Malatesta: Life and Ideas (London, Freedom Press, 1965)
 
 Kropotkin's theories and generalisations were, in fact, the fruit of a lifetime of observation and accumulation of data, and this book, like most of his others, began life as a series of magazine articles. He would probably have raised little objection to the treatment his text gets in the present edition, for when he prepared his own books for publication in other languages, he would cut and modify the text drastically, changing the examples and evidence to suit the place of publication. Nor would he have objected to the addition of the crucial word "Tomorrow" to the title of this edition.
 
@@ -335,7 +342,7 @@ In 1938 the United Kingdom and Germany were the world's leading exporters each w
 
 The United Kingdom is in fact in a very vulnerable position. It has less than 2 per cent of the world's population, and this is likely to fall to about 1 per cent by the
 
-<sup>14</sup> J M. Livingstone, Britain and the World Economy (Hammondsworth, Penguin, 1971)
+14 J M. Livingstone, Britain and the World Economy (Hammondsworth, Penguin, 1971)
 
 end of the century, but it takes up about 15 per cent of raw material imports. Dr. Livingstone remarks that "Britain, lacking, virtually all the major raw materials save coal, lives by trade. Her only hope of making a living is an industrial economy based on the import of food and raw materials and the export of manufactured goods. In the past this has proved an exceedingly successful approach, affording the British people a standard of living in the top 10 per cent of all mankind."15 But he goes on to note that:
 
@@ -345,13 +352,13 @@ At the same time, the long-term crisis was masked by the movement in the terms o
 
 The response of the British economy to this situation has contradicted Kropotkin. Both capitalists and governments have put their faith in the giant corporations and multi-national companies. (By 1968 there were more companies than countries with incomes greater than the Gross National Product of the Irish Republic.) The Labour government in Britain set up the Industrial Reorganisation Corporation to promote mergers precisely because, as Graham Turner put it, its members "believed that it was meaningless to speak of the permanent independence of British industry and that the best hope was to fatten up British companies so that they might wield effective influence in the international mergers of the future".17 The British government's decision to enter the European Common Market was determined by its faith in those well-known "economies of scale" and by the thought that a potential "domestic" market of 250 million is a more appetising proposition than one of 50 million. "It is possible, for example to foresee in an industry like car production that Europe might be dominated by three or four huge firms planning production not by the hundred thousand, but by the million."18 The trouble is, of course, that every car manufacturer in Europe is licking his lips over the same prospect, while Britain is already a net importer of cars.
 
-<sup>15</sup> Ibid.
+15 Ibid.
 
-<sup>16</sup> Ibid.
+16 Ibid.
 
-<sup>17</sup> Graham Turner, Business in Britain (London, Eyre & Spottiswoode, 1969)
+17 Graham Turner, Business in Britain (London, Eyre & Spottiswoode, 1969)
 
-<sup>18</sup> Livingstone, op. cit.
+18 Livingstone, op. cit.
 
 The ghost of Kropotkin would point to the existence of a thriving Australian car industry (an American subsidiary, admittedly) or to the Indian car industry (based on obsolescent British machine tools and die castings, but bringing the inestimable advantage of locally available spares), to illustrate his prediction of production for a local market. He might with more relevance, point to the fact that the output of the car industry depends upon artificial stimulation of demand and on artificial obsolescence. Doubling the useful life of a vehicle would ruin the industry because it would cancel out the assumed advantages of widening the potential market. Henry Ford nearly bankrupted his firm by his insistence on continuing production of his Model T which "any hick up a dirt road could keep running".
 
@@ -363,7 +370,7 @@ Some contemporary observers see Kropotkin's world-wide distribution of industry 
 
 As wages rise in the rich countries, pushing up the manufacturer's costs, the industries on which these countries built their technological structure – textiles, agriculture, iron- and steel-making, and ship-building among them – are gradually being transferred to the poorer countries where manufacturers can pay their staff lower wages. The mass-production industries, such as
 
-<sup>19</sup> Sir Herbert Manzoni at the R. I. B. A., 21 January 1958 (R. I. B. A. Journal, March 1958)
+19 Sir Herbert Manzoni at the R. I. B. A., 21 January 1958 (R. I. B. A. Journal, March 1958)
 
 cars, plastics and washing machines, will be the next to go. Moreover, the search for fuels and materials is spreading into the hitherto unexplored or unexploited parts of the world. As the rich nations deplete or exhaust their reserves, the developing countries that possess them in plenty will command a better bargaining position as supplies of raw materials. This of itself will enforce a new relationship between the two.20
 
@@ -379,9 +386,9 @@ First, that workplaces have to be created in the areas where the people are livi
 
 Second, that these workplaces must be, on average, cheap enough to be created in large numbers without this calling for an unattainable level of capital formation and imports.
 
-<sup>20</sup> David Hamilton, Technology, Man and the Environment (London, Faber, 1973)
+20 David Hamilton, Technology, Man and the Environment (London, Faber, 1973)
 
-<sup>21</sup> E. F. Schumacher, "The Economics of Permanence", Resurgence, Vol. 3, No. 1 (May /June 1970)
+21 E. F. Schumacher, "The Economics of Permanence", Resurgence, Vol. 3, No. 1 (May /June 1970)
 
 Third, that the production methods employed must be relatively simple, so that the demands for high skills are minimised, not only in the production process itself but also in matters of organisation, raw-material supply, financing, marketing, and so forth.
 
@@ -391,11 +398,11 @@ He observed that these four requirements can be met only if there "regional" app
 
 His colleague George Mc Robie told me of the evolution of the Group's ideology. They began by considering the needs of the poor countries. Then they realised the importance of the principles they evolved for the poor areas of the rich world. And finally they came to see that in a world faced (as it is certainly going to be) with crisis of resources and scarcity, and a superfluity of labour, these principles are of universal application. This is the point where they join hands with the advocates of "alternative" technology, who seek the satisfaction of human needs through the use of renewable resources: wind-power, water-power, tidal energy, solar energy, human energy, rather than through the reckless exploitation of finite mineral resources.24
 
-<sup>22</sup> E. F. Schumacher, "Social and Economic Problems Calling for the Development of Intermediate Technology" (Intermediate Technology Development Group, 1967)
+22 E. F. Schumacher, "Social and Economic Problems Calling for the Development of Intermediate Technology" (Intermediate Technology Development Group, 1967)
 
-<sup>23</sup> E. F. Schumacher, "Economic Development and Poverty", Bulletin of the I. T. D. G., No. 1 (1966)
+23 E. F. Schumacher, "Economic Development and Poverty", Bulletin of the I. T. D. G., No. 1 (1966)
 
-<sup>24</sup> For an anarchist presentation of the argument, see Lewis Herber, "Ecology and Revolutionary Thought", Anarchy, No. 69 November 1966) and "Towards a Liberatory Technology", Anarchy, No. 78 (August 1967. Both are reprinted in Murray Bookchin, Post-Scarcity Anarchism (Berkeley, Cal., Ramparts Press, 1971; London, Wildwood House, 1974)
+24 For an anarchist presentation of the argument, see Lewis Herber, "Ecology and Revolutionary Thought", Anarchy, No. 69 November 1966) and "Towards a Liberatory Technology", Anarchy, No. 78 (August 1967. Both are reprinted in Murray Bookchin, Post-Scarcity Anarchism (Berkeley, Cal., Ramparts Press, 1971; London, Wildwood House, 1974)
 
 #### **The Possibilities of Agricultural**
 
@@ -725,7 +732,7 @@ Malatesta himself describes the origins of Kropotkin's inquiry in these terms:
 
 ... Kropotkin set about studying the problems at first hand and arrived at the conclusion that such abundance did not exist and that some countries were continually threatened by shortages. But he recovered (his optimism) by thinking of the great potentialities of agriculture aided by science. He took as examples the results obtained by a few cultivators and gifted agronomists over limited areas and drew the most encouraging conclusions without thinking of the difficulties that would be put in the way by the ignorance and aversion of peasants to what is change, and in any case to the time that would be needed to achieve general acceptance of the new forms of cultivation and of distribution. As always, Kropotkin saw things as he would have wished them to be and as we all hope they will be one day;
 
-<sup>25</sup> Vernon Richards (ed.), Errico Malatesta: Life and Ideas (London, Freedom Press, 1965)
+25 Vernon Richards (ed.), Errico Malatesta: Life and Ideas (London, Freedom Press, 1965)
 
 he considered as existing or immediately realisable that which must be won through long and bitter struggle.26
 
@@ -735,11 +742,11 @@ Kropotkin's observations of British agriculture were made in the early decades o
 
 The production figures of each commodity tell their own story, which any account of British farming will explain.28 The rise and fall may be due to prices, to marketing policy, to policies of Imperial Preference, to the need to protect the export sugar trade of the West Indies. What they are not related to is the productive capacity of the soil. The dramatic expansion of arable farming in the Second World War through the necessities of siege situation illustrated the enormous potential for change, which had nothing at all to do with the myths of some traditional wisdom of the soil handed down from father to son.29 (The Agricultural Executive Committees in some counties had to import ploughmen from East Anglia to teach their craft to farmers who had become mere graziers or "dog-and-stick" farmers in the decades of neglect.)
 
-<sup>26</sup> Ibid. Kropotkin's own account of his change from the prise au tas to the mis au tas position is given in his postscript to the 1921 edition of his Words of a Rebel (Moscow and Petrograd, 1921). A translation of this by Nicolas Walter appeared in Freedom, Anarchist Pamphlet No. 5 (London, Freedom Press, 1970)
+26 Ibid. Kropotkin's own account of his change from the prise au tas to the mis au tas position is given in his postscript to the 1921 edition of his Words of a Rebel (Moscow and Petrograd, 1921). A translation of this by Nicolas Walter appeared in Freedom, Anarchist Pamphlet No. 5 (London, Freedom Press, 1970)
 
-<sup>27</sup> A. M. Edwards and G. Р. Wibberley, An Agricultural Land Budget for Britain, 1965-2000 (Ashford, Kent, Wye College Studies in Rural Land Use, No. 10, 1971)
+27 A. M. Edwards and G. Р. Wibberley, An Agricultural Land Budget for Britain, 1965-2000 (Ashford, Kent, Wye College Studies in Rural Land Use, No. 10, 1971)
 
-<sup>28</sup> See, for example, J. G. S. and Frances Donaldson, Farming in Britain Today (Harmondsworth, Penguin, 1972) 29 See Keith A. Н. Murray, Agriculture and R. J. Hammond, Food (Vol. 2) in the History of the Second World War, UK. Civil Series London, HMS.О., 1955 and 1956)
+28 See, for example, J. G. S. and Frances Donaldson, Farming in Britain Today (Harmondsworth, Penguin, 1972) 29 See Keith A. Н. Murray, Agriculture and R. J. Hammond, Food (Vol. 2) in the History of the Second World War, UK. Civil Series London, HMS.О., 1955 and 1956)
 
 | | (Hor | ne pro | ductio | n as a per co | ent of the to | tal supplies) | |
 |-------------------|------|--------|--------|---------------|---------------|---------------|--------------|
@@ -750,7 +757,10 @@ The production figures of each commodity tell their own story, which any account
 | Potatoes | | | | 92.0 | 88.0 | 95.9 | 100.0 |
 | Beef and | Veal | | | 52.6 | 43.2 | 49.1 | 65.4 |
 | Mutton a | nd L | amb | | 51.5 | 44.2 | 35.9 | 25.3 |
-| Pork<br>Bacon and | Ham | } | | 35.8 | 32.1 | 77·1<br>29·3 | 10·4<br>26·9 |
+| Pork
+Bacon and | Ham | } | | 35.8 | 32.1 | 77·1
+29·3 | 10·4
+26·9 |
 | Butter | | | | 13.0 | 13.0 | 8.9 | 9.7 |
 | Cheese | | | | 24.2 | 23.1 | 24.1 | 7.5 |
 ## | Eggs | | | | 32.4 | 44.6 | 61.2 | 43.7 |
@@ -772,7 +782,7 @@ The production figures of each commodity tell their own story, which any account
 
 The enormous increases in yields that seemed to be such optimistic forecasts to Kropotkin's contemporaries have in many instances become normal in Britain and in other European countries. (The countries of the original European Economic Community were virtually self-supporting in almost all foods, and in fact were embarrassed by surplus, and the percentage of self-sufficiency is almost as great in the enlarged community.)30 The great increase in productivity has happened in spite of a decline in the arable acreage and of an enormous decline in the agricultural labour force. The empty fields Kropotkin noticed when he first came to England are considerably emptier today. The same land, Nan Fairbrother remarked,
 
-<sup>30</sup> See Table 50 in Donaldson, op cit.
+30 See Table 50 in Donaldson, op cit.
 
 is now worked swiftly and impersonally by machines – one day the grain is ripe, the next it is gone, and there must now be thousands of acres of arable where no one has walked for years. It is probably true, in fact, that fewer people now set foot on our farmland than at any time since prehistory. Industry has made our truly rural landscape more solitary, more remote and countrified; it is a difference we notice travelling the poorer parts of Europe – how small the hand-worked fields are, and how like vegetable gardens covering the land.31
 
@@ -786,11 +796,11 @@ When Peter Self and H. J. Storing wrote The State and the Farmer they found that
 
 The small farms cover under a third of the agricultural area, but they account for a considerably higher proportion of total output. Shortage of space compels the small to work his limited area more intensively to earn a livelihood. Larger farms tend to become progressively more extensive, as interest shifts from output per acre to output per worker.33
 
-<sup>31</sup> Nan Fairbrother, New Lives, New Landscapes (London, Architectural Press, 1970; New York, Knopf, 1971)
+31 Nan Fairbrother, New Lives, New Landscapes (London, Architectural Press, 1970; New York, Knopf, 1971)
 
-<sup>32</sup> Gavin Mc Crone, The Economics of Subsidising Agriculture (London, Allen & Unwin, 1962)
+32 Gavin Mc Crone, The Economics of Subsidising Agriculture (London, Allen & Unwin, 1962)
 
-<sup>33</sup> Peter Self and H. J. Storing, The State and the Farmer (London, Allen & Unwin, 1962)
+33 Peter Self and H. J. Storing, The State and the Farmer (London, Allen & Unwin, 1962)
 
 The paradox is that while in the U. K. the industry has a higher output per worker than most European countries, its output per acre is among the lowest. Self and Storing explain that:
 
@@ -808,7 +818,7 @@ Kropotkin, with his functional, Veblеnite assumption that the purpose of food p
 
 34 Ibid.
 
-<sup>35</sup> Donaldson, op. cit.
+35 Donaldson, op. cit.
 
 with three or more children, actually deteriorated. "The indications that at least a quarter, and probably a third, of the people of Britain live in households which fail to attain all the desirable levels of dietary intake"36 by the standards defined by the British Medical Association. In the world as a whole, the proportion of the population living on 2,220 or less calories a day was 49 per cent in the 1930s and increased to 66 per cent in the 1960s. The "food problem" in both Europe and America is a problem of over-production, but if in some sudden growth of a global sense of social responsibility, whether through prudence, military strategy, altruism or long-term self-interest, the surpluses were diverted on a really effective scale to the Third World countries, this would bring new and enormous economic problems. When the American government made a token gesture of a gift of surplus grain to India, Australian producers protested at the potential threat to their markets. And as Lord de la Warr once said: "When the crumbs cease to fall from the rich man's table, the beneficiaries are not only as hungry but as helpless as they were before." Neither a market economy nor charity will solve the world's food problems.
 
@@ -816,9 +826,9 @@ A country which illustrates very well some of Kropotkin's contentions, as well a
 
 He shows how Japanese yields per acre are at least double those for almost all the other Far Eastern countries, even though they are still low compared with those of several countries in Europe. He also notes that "if it is assumed that the Far East, though obliged to rely mainly on its own food supplies at present, will ultimately become industrialised, a situation might develop which could be of much more consequence to the food supplies of the rest of the world." Japan, he says, has more or less reached this stage now:
 
-<sup>36</sup> Royston Lambert, Nutrition in Britain (London, 1964)
+36 Royston Lambert, Nutrition in Britain (London, 1964)
 
-<sup>37</sup> Mc Crone, op cit.
+37 Mc Crone, op cit.
 
 Although she is able to provide most of her own food from her limited agricultural resources, she finds that the productivity of her labour is much higher in industry ... So long as Japan has to supply most of her own food, she will find that, at the conditions of price and exchange which make her agriculture competitive, her industry will be able to undercut the prices of other nations. Conversely, if the prices of her industrial products were to rise to the levels which would be comparable to other countries, her agriculture could not exist without heavy support. Because the cost in terms of real resources used to be so high in Japanese agriculture, it would obviously be worth while to expand the industrial sector and to import a larger part of the food supply. The argument applies to Japan with even more force than it ever did to the United Kingdom. Most probably she will gradually try to do this, but she is limited by the willingness of other countries to buy her goods...
 
@@ -838,13 +848,13 @@ It would be difficult to over-estimate the contribution which the produce of all
 
 The actual or potential contribution to food production of ordinary domestic gardens is another illustration of the productivity of domestic horticulture. The advocates of high density housing have always cited the "loss of valuable agricultural land" as a factor supporting their point of view. Sir Frederic Osborn, with equal persistence, has always argued that the produce of the ordinary domestic garden, even though a small area of gardens is devoted to food production, more than equalled in value the produce of the land lost to commercial food production. Surveys conducted by the government and by
 
-<sup>38</sup> Jon Halliday and Gavan Cormack, Japanese Imperialism Today (Harmondsworth, Penguin, 1973)
+38 Jon Halliday and Gavan Cormack, Japanese Imperialism Today (Harmondsworth, Penguin, 1973)
 
-<sup>39</sup> See George P. Pollitt, Britain Can Feed Herself (London, Macmillan, 1942); Philip Oyler, Feeding Ourselves (London, Hodder & Stoughton, 1951); H. J. Massingham and Edward Hyams, Prophesy of Famine (London, Thames & Hudson, 1953); and Feeding the Fifty Millions, Report of the Rural Reconstruction Association London, Hollis & Carter, 1955)
+39 See George P. Pollitt, Britain Can Feed Herself (London, Macmillan, 1942); Philip Oyler, Feeding Ourselves (London, Hodder & Stoughton, 1951); H. J. Massingham and Edward Hyams, Prophesy of Famine (London, Thames & Hudson, 1953); and Feeding the Fifty Millions, Report of the Rural Reconstruction Association London, Hollis & Carter, 1955)
 
-<sup>40</sup> J. Р. Cole, A Geography of the U. S. S. R. (Harmondsworth, Penguin, 1967)
+40 J. Р. Cole, A Geography of the U. S. S. R. (Harmondsworth, Penguin, 1967)
 
-<sup>41</sup> Report of the Departmental Committee of Inquiry into Allotments (London, Н.М. S. O., 1969)
+41 Report of the Departmental Committee of Inquiry into Allotments (London, Н.М. S. O., 1969)
 
 university departments in the 1950s proved him right.42
 
@@ -852,11 +862,11 @@ One implication of Kropotkin's line of argument is that, at present assumptions 
 
 Those who are worried a questions of conservation and pollution in the countryside will have little difficulty in pinpointing the farmer as the most serious polluter, through the use of herbicides, fungicides and pesticides and through the discharge of untreated farm effluents, and would ask whether the modern extension of Kropotkin's ideas would depend upon the exploitation and exhaustion of the soil. They would point to the dangers documented in the report Modern Farming and the Soil43 which investigated the effects of continuous cereal growing on soil structure. The committee which produced this report was actually more worried about the damage caused by heavy machinery on poorly drained land, but it certainly indicated that modern farming practice in certain areas and on certain soils was causing deterioration of soil structure. Some of the dangers mentioned in this report would be avoided by a return to rotational systems, like the ley farming advocated for years by Sir George Stapleton (widely used in the post-war years until notions of "an adequate return on capital invested" took its place), or to the Norfolk rotation, perhaps the most balanced rotation in farming history (in which) the beauty of the system was that each crop contributed to the welfare of the next: the build-up of weeds, disease and pests was avoided because susceptible crops were followed by non-susceptible, and the orderly sequence of winter and spring planting balanced the work throughout the year.44
 
-<sup>42</sup> See Robin H. Best and J. T. Ward, The Garden Controversy (Ashford, Kent, Wye College Studies in Rural Land Use, No. 2, 1956) and G. Р. Wibberley, Agriculture and Urban Growth (London, Michael Joseph, 1959). Also Robin H. Best and J. T. Coppock, The Changing Use of Land in Britain (London, Faber 1962)
+42 See Robin H. Best and J. T. Ward, The Garden Controversy (Ashford, Kent, Wye College Studies in Rural Land Use, No. 2, 1956) and G. Р. Wibberley, Agriculture and Urban Growth (London, Michael Joseph, 1959). Also Robin H. Best and J. T. Coppock, The Changing Use of Land in Britain (London, Faber 1962)
 
-<sup>43</sup> Modern Farming and the Soil, Report of the Agricultural Advisory Council on Soil Structure and Soil Fertility (London, H. M. S. O., 1970)
+43 Modern Farming and the Soil, Report of the Agricultural Advisory Council on Soil Structure and Soil Fertility (London, H. M. S. O., 1970)
 
-<sup>44</sup> Donaldson, op. cit.
+44 Donaldson, op. cit.
 
 Latter-day Kropotkins, with an eye to the maximum utilisation of resources, would certainly point out that: "Only a decade or two ago, when livestock was housed on straw, farm-yard manure was a valued by-product that played a recognised role in the maintenance of fertility and soil structure. Now the same annual wastes of dung and urine, but without the straw, have become a health hazard and a social nuisance."45 In 1968 the consumption of artificial fertilisers in England and Wales amounted to about 600,000 tons of nitrogen and 350,000 tons of both phosphate and potash. Estimates predict that by 1980 the corresponding figure will be 900,000 tons of nitrogen and 450.000 tons of both phosphate and potash. The farm industry produces 120,000,000 tons of animal wastes annually, mostly in the form of strawless slurry. John L. Jones points out that a proper use of these wastes could play an important part in reducing the country's annual fertiliser import bill of £40 million. "The United Kingdom's dairy cow population alone has a yearly output of 180,000 tons of nitrogen, 120,000 tons of phosphates and 370,000 tons of potash."46
 
@@ -866,17 +876,17 @@ However, these estimates ignore the fact that, as the same report indicates, "th
 
 But the dominant trend today, both in agriculture and horticulture, is undoubtedly away from the labour-intensive small-scale productive unit that Kropotkin envisaged. The drift from the land is even more evident than it was in his day and is being vigorously promoted by government policy in Britain and by the European Common Agricultural Policy. Kropotkin's account of American agriculture must seem like a nostalgic idyll to readers in the United States today. For as Sheldon
 
-<sup>45</sup> "Slurry: Asset or Liability?", Country Life (5 October 1972)
+45 "Slurry: Asset or Liability?", Country Life (5 October 1972)
 
-<sup>46</sup> "Slurry: Problem or Profit?", Country Life (29 March 1973)
+46 "Slurry: Problem or Profit?", Country Life (29 March 1973)
 
-<sup>47</sup> Taken for Granted, Report of the Working Party on Sewage Disposal (London, H. M. S.О., 1970)
+47 Taken for Granted, Report of the Working Party on Sewage Disposal (London, H. M. S.О., 1970)
 
 Greene remarks: "We know that each year 100,000 farms are abandoned and that rural America has sustained a population loss of 40 million people in the last fifty years. Concomitant with the abandonment of small farms and the migration to the cities of a heretofore agriculturally dependent rural population has been the increasing entry into agriculture of multi-purpose business interests, bringing with it an increase in farm size and absentee ownership of the land. Once-populous areas occupied by independent small land-holders interspersed with small rural service communities are being transformed into feudalistic estates – possibly one of the most significant economic and social transformations to be experienced in our history."48
 
 And, of course, the inherent income differences and inequalities between industrial and agricultural work are still evident. Kropotkin's solution, in his next chapter, is the integration of agriculture.
 
-<sup>48</sup> Sheldon Greene, addressing the National Conference on Land Reform (San Francisco, April 1973)
+48 Sheldon Greene, addressing the National Conference on Land Reform (San Francisco, April 1973)
 
 #### **Small Industries and Industrial Village**
 
@@ -1096,11 +1106,11 @@ Today we would ask more complicated questions. Are we talking about the number o
 
 The worship of bigness in industry makes us exaggerate its actual extent, as Kropotkin found. My own experience, confined to the building industry, predisposes me towards his point of view. I remember working on a building designed from industrialised components where it was said to be essential (to reap the benefits of industrialisation) that the structure should be confined to standardised parts. When I actually went to the factory where they were made, I
 
-<sup>49</sup> W. Cherkesov, The Concentration of Capital: A Marxian Fallacy (London, Freedom Press, 1896)
+49 W. Cherkesov, The Concentration of Capital: A Marxian Fallacy (London, Freedom Press, 1896)
 
-<sup>50</sup> Michael Utton, Industrial Concentration (Harmondsworth, Penguin, 1970)
+50 Michael Utton, Industrial Concentration (Harmondsworth, Penguin, 1970)
 
-<sup>51</sup> Chuen-Yan Lai, "Small Industries in Hong Kong", Town-Planning Review, Vol. 44, No. 2 (April 1973)
+51 Chuen-Yan Lai, "Small Industries in Hong Kong", Town-Planning Review, Vol. 44, No. 2 (April 1973)
 
 found that these lattice beams were being made by a single old man, using a Staffa bending machine by hand, and could be varied simply by telling him to make the next one longer or shorter. We just assume that industry ought to be big.
 
@@ -1116,9 +1126,9 @@ In spite of nationalisation and the growth of large private firms, the proportio
 
 It is also revealing to study the nature of the industrial giants and to reflect on how few of them owe their size to considerations of industrial efficiency. Н. Р. Barker distinguished between two essentially different types of motive: the industrial and the non-industrial. By the industrial motive he meant,
 
-<sup>52</sup> S. R. Dennison, addressing the conference of the British Institute of Management and the Institute of Industrial Administration (14 February 1953)
+52 S. R. Dennison, addressing the conference of the British Institute of Management and the Institute of Industrial Administration (14 February 1953)
 
-<sup>53</sup> Mark Abrams, "Bigness in Industry", Socialist Commentary (June 1956)
+53 Mark Abrams, "Bigness in Industry", Socialist Commentary (June 1956)
 
 the normal commercial development of a product or a service which the public wants; for instance the motor-car industry or a the chain store. There is also the vertical type of growth in which a seller expands downwards towards his raw materials, or a primary producer expands upwards towards the end products of his primary material. The soup and oil industries are such cases. Then there is the kind of expansion in which a successful firm seeks to diversify its business and its opportunities and to carry its financial eggs in several baskets – and lastly there is the type of expansion by which whole industries are aggregated under a single control because they cannot effectively be operated in any other way. Electricity and railways are an example.54
 
@@ -1126,9 +1136,9 @@ But the very examples that he chose as cases of industrially necessary concentra
 
 When Mr. Barker turned to what he called the non-industrial and less healthy types of growth, he was describing familiar territory.
 
-<sup>54</sup> H. Р. Barker, "Have Large Firms an Advantage in Industry?", The Listener (1957)
+54 H. Р. Barker, "Have Large Firms an Advantage in Industry?", The Listener (1957)
 
-<sup>55</sup> Colin Buchanan, Mixed Blessing The Motor in Britain (London, Leonard Hill, 1958)
+55 Colin Buchanan, Mixed Blessing The Motor in Britain (London, Leonard Hill, 1958)
 
 Among these there is the type which starts and ends in the Stock Exchange and where the sole reason is the prospect of making a profitable flotation. Then there is the type of adiposity which often occurs when a successful company becomes possessed of large resources from past profits. The directors then look round for ways of investing the surplus fat merely because they have it. Then there is the type of large business born only out of doctrinaire or political considerations. Last of all there is the industrial giant created primary to satisfy the megalomania of one man.56
 
@@ -1138,13 +1148,13 @@ A growing number of such mergers are, of course, sheer financial piracy: the act
 
 In 1949 the top ten companies accounted for 25 per cent of the pre-taxed profits of all British industrial and commercial companies. By 1969 the figure was about 50 per cent. Therefore, the concentration had doubled in twenty years. ... The Bolton Report also indicated that small firms, as a share of manufacturing output, accounted in 1924 for 42 per cent and in 1951 for 32 per cent, and that in 1968 the figure had gone down to 25 per cent.59
 
-<sup>56</sup> Barker, op. cit.
+56 Barker, op. cit.
 
-<sup>57</sup> Industrial Policy Group, Paper No. 6 (London, 1970)
+57 Industrial Policy Group, Paper No. 6 (London, 1970)
 
-<sup>58</sup> Gerald Newbould, Management and Merger Activity (London. 1970)
+58 Gerald Newbould, Management and Merger Activity (London. 1970)
 
-<sup>59</sup> House of Commons debate 24 November 1972 on "Take-overs and Mergers", Parliamentary Debates, vol. 846, No. 19)
+59 House of Commons debate 24 November 1972 on "Take-overs and Mergers", Parliamentary Debates, vol. 846, No. 19)
 
 The figures are different, of course, if you argue, like Kroроtkin, in terms of the number of workers:
 
@@ -1160,11 +1170,11 @@ The Bolton Report saw the small-firm sector as "the traditional breeding-ground 
 
 "Automation can be a force either for concentration or dispersion. There is a tendency today for automation to develop along with larger and larger production units, but this may only be a phase through which the present technological advance is passing. The comparatively large sums of money which are needed to develop automation techniques, together with the amount of technological knowledge and unique quality of management, are
 
-<sup>60</sup> David Hamilton, Technology, Man and the Environment (London, Faber, 1973)
+60 David Hamilton, Technology, Man and the Environment (London, Faber, 1973)
 
-<sup>61</sup> Jonathan Boswell, The Rise and Decline of Small Firms (London, Allen & Unwin, 1972)
+61 Jonathan Boswell, The Rise and Decline of Small Firms (London, Allen & Unwin, 1972)
 
-<sup>62</sup> Report of the Committee of Inquiry on Small Firms (London, Н. M. S. O., 1971)
+62 Report of the Committee of Inquiry on Small Firms (London, Н. M. S. O., 1971)
 
 possibly found more in the large units than in the smaller ones. Thus the larger units will proceed more quickly towards automation. When this knowledge is dispersed more widely and the small units take up automation, the pattern may be quite different. Automation, being a large employer of plant and a relatively small employer of labour, allows plants to be taken away from large centres of population. Thus one aspect of the British scene may change." And he goes on in a truly Kropotkinian vein:
 
@@ -1176,7 +1186,7 @@ The most striking evidence, within industry as we know it today, in favour of re
 
 A number of larger companies have recently decentralised their organisations and established smaller, largely autonomous units, each to some extent a managerial entity in itself. A few years ago the President of the General Electric Company of America, one of the companies which has followed such a policy, said: "With fewer people we find that management can do a better job of organising facilities and personnel. This results in lower management costs and better production control." It may be that the current interest in and apparent tendency towards the decentralisation of large undertakings is a somewhat belated recognition of the importance of people in organisations. One can only hope that at long last we are beginning to think about the pressures which traditional forms of
 
-<sup>63</sup> L. Langdon Goodman, Man and Automation (Hamondsworth, Penguin, 1957)
+63 L. Langdon Goodman, Man and Automation (Hamondsworth, Penguin, 1957)
 
 organisation put upon the people who are required to work in them.64
 
@@ -1188,23 +1198,23 @@ Notice his last phrase, which tells us why the industrialists employ the psychol
 
 And how have Kropotkin's decentralist and regionalist ideas fared? Once again the evidence is equivocal. On one side, we have a stream of advocates of decentralist planning: Ebenezer Howard, Patrick Geddes and Lewis Mumford, who have had some influence on official policy. But on the other, we have the "natural" movements of capital and labour which have contradicted the trends which he predicted. Howard's immensely inventive and influential book was first published under the title Tomorrow: A Peaceful Path to Real Reform in the same year as Kropotkin's book. When it was re-issued as Garden Cities of Tomorrow65 in 1902, Howard made use of Kropotkin's findings? His disciples, from Thomas Adams,66 first Secretary of the Garden Cities Association (later the T.С.Р.А.), through Lewis Mumford,67 to Paul and Percival Goodman,68 have acknowledged the fertile influence of Kropotkin's work. Howard's book was a creative synthesis of decentralist ideas which, as Mumford declared, lay the foundation "for a new cycle in urban civilisation: one in which the means of life will be subservient to the purposes of living, and in which the pattern needed for biological survival and economic efficiency will likewise lead to social and personal fulfillment". Kropotkin's similar vision can be traced in an American,69 a Russian,70 or a Chinese 71 context. In Israel the importance of Kropotkin's ideas on the decentralisation of industry (in a context which has nothing to do with Zionist nationalism) can be seen in the work of a variety of thinkers from Martin Buber to Haim Halpern.72
 
-<sup>64</sup> Norman C. Hunt in The Listener (1958)
+64 Norman C. Hunt in The Listener (1958)
 
-<sup>65</sup> Ebenezer Howard, Garden Cities of Tomorrow, edited with a pre-face by Lewis Mumford (London, Faber, 1945)
+65 Ebenezer Howard, Garden Cities of Tomorrow, edited with a pre-face by Lewis Mumford (London, Faber, 1945)
 
-<sup>66</sup> Thomas Adams, Garden City and Agriculture (London, Simkin Marshall, 1905)
+66 Thomas Adams, Garden City and Agriculture (London, Simkin Marshall, 1905)
 
-<sup>67</sup> For example in Technics and Civilisation (London, Routledge, 1946; in The Culture of Cities (London, Secker & Warburg, 1938); and in The City in History (London, Secker & Warburg, 1961; Harmondsworth, Penguin, 1963)
+67 For example in Technics and Civilisation (London, Routledge, 1946; in The Culture of Cities (London, Secker & Warburg, 1938); and in The City in History (London, Secker & Warburg, 1961; Harmondsworth, Penguin, 1963)
 
-<sup>68</sup> Paul and Percival Goodman, Communitas: Means of Livelihood and Ways of Life (Chicago University Press, 1947, New York, Vintage Books, 1960; London, Wildwood House, 1973)
+68 Paul and Percival Goodman, Communitas: Means of Livelihood and Ways of Life (Chicago University Press, 1947, New York, Vintage Books, 1960; London, Wildwood House, 1973)
 
-<sup>69</sup> See, for example, Ralph Borsodi, Flight from the City (New York, Harper, 1933, 1972); and Ralph L. Woods, America Reborn: A Plan for Decentralisation of Agriculture and Industry (London, Longmans, 1939)
+69 See, for example, Ralph Borsodi, Flight from the City (New York, Harper, 1933, 1972); and Ralph L. Woods, America Reborn: A Plan for Decentralisation of Agriculture and Industry (London, Longmans, 1939)
 
-<sup>70</sup> See Paul Avrich, The Russian Anarchists (Princeton University Press, 1967)
+70 See Paul Avrich, The Russian Anarchists (Princeton University Press, 1967)
 
-<sup>71</sup> See, for example, Robert A. Scalapino and George T. Yu, The Chinese Anarchist Movement (Berkeley, Cal., 1961)
+71 See, for example, Robert A. Scalapino and George T. Yu, The Chinese Anarchist Movement (Berkeley, Cal., 1961)
 
-<sup>72</sup> See Martin Buber, Paths in Utopia (London, Routledge, 1949; Haim Halperin, Agrindus Integration of Agriculture and Industries (London, Routledge, 1963)
+72 See Martin Buber, Paths in Utopia (London, Routledge, 1949; Haim Halperin, Agrindus Integration of Agriculture and Industries (London, Routledge, 1963)
 
 But at the same time we can see a world-wide tendency towards urbanisation. "In 1850 there were four cities of the world with more than one million people. In 1950 there were about a hundred cities with a million or more population. By 2000 – less than three decades away – there will be over 1,000 cities of this magnitude."73 In the British context, there has been a decline in the population of the big cities, due party to the implementation in the New Towns of Howard's proposals for decentralising both residence and work, but more to the growth of commuting and the increase in secondary occupations.
 
@@ -1214,15 +1224,15 @@ The development of industry, education, health and cultural life has naturally t
 
 The urgency of the task of developing industry on a village scale has been stressed in India by Gandhi, Vinoba Bhave and Jayaprakash Narayan, and in Africa by Julius Nyerere.75 It was the intention behind the experiments sponsored by Leonard and Dorothy Elmhirst of Dartington Hall,76 and is brilliantly expressed in E. F. Schumacher's Small is Beautiful, 77 a book which marvellously complements Kropotkin's work.
 
-<sup>73</sup> Gwen Bell and Jaqueline Tyrwhitt, Human identity in the Urban Environment (Harmondsworth, Penguin, 1973)
+73 Gwen Bell and Jaqueline Tyrwhitt, Human identity in the Urban Environment (Harmondsworth, Penguin, 1973)
 
-<sup>74</sup> Harriet Ward, "China and the Third World", notes for slide set China – Another Way (London, Voluntary Committee for Overseas Aid and Development, 1973). See Jerome Chen, Mao and the Chinese Revolution (London, O. U. P., 1965)
+74 Harriet Ward, "China and the Third World", notes for slide set China – Another Way (London, Voluntary Committee for Overseas Aid and Development, 1973). See Jerome Chen, Mao and the Chinese Revolution (London, O. U. P., 1965)
 
-<sup>75</sup> See G. Dhawan, The Political Philosophy of Mahatma Gandhi (Ahmedabad, Navajivan, 1957); Jayaprakash Narayan, A Picture of Sarvodaya Social Order (Tanjore, Sarvodaya Prachurаlaya, 1961); Julius K. Nyerere, Ujamaa – Essays on Socialism (London, O. U. P. 1968)
+75 See G. Dhawan, The Political Philosophy of Mahatma Gandhi (Ahmedabad, Navajivan, 1957); Jayaprakash Narayan, A Picture of Sarvodaya Social Order (Tanjore, Sarvodaya Prachurаlaya, 1961); Julius K. Nyerere, Ujamaa – Essays on Socialism (London, O. U. P. 1968)
 
-<sup>76</sup> Victor Bonham-Carter, Dartington Hall (London, Phoenix House, 1958; Dulverton, Exmoor Press, 1970); John Saville, Rural De-population in England and Wales, 1851-1951 (London, Routledge, 1957)
+76 Victor Bonham-Carter, Dartington Hall (London, Phoenix House, 1958; Dulverton, Exmoor Press, 1970); John Saville, Rural De-population in England and Wales, 1851-1951 (London, Routledge, 1957)
 
-<sup>77</sup> E. F. Schumacher, Small is Beautiful: A Study of Economics as if People Mattered (London, Blond & Briggs, 1973)
+77 E. F. Schumacher, Small is Beautiful: A Study of Economics as if People Mattered (London, Blond & Briggs, 1973)
 
 #### **Brain Work and Manual Work**
 
@@ -1328,9 +1338,9 @@ It does happen in our society, of course, but hardly in the way Marx and Kropotk
 
 Hsu Hang Commune has 20,500 inhabitants and roughly 4,200 acres of land, all irrigated. This is no land great amount of land – less than an irrigated acre per family. The crops are grain (2 crops of rice a year. plus of wheat), cotton, hogs and a variety of factory enterprises. ... The families we visited, in addition to private, tiny vegetable plots, also each their had personal pig. Then we went to the factories. These, including some we did not see, make elementary threshing machines, furniture, basket-ware, boxes, light bulbs, chemicals and steel pipe. The factories are small – at most a few dozen workers in those we saw – and there is not much attempt at line production. Men and women are mostly either making a whole item or a substantial component. Still, they are serious operations – not a show. The justification is not efficiency but the employment of labour that would otherwise have little to do – technically it is the Chinese answer to one of the greatest problems of rural Asia, that of recurrent and disguised
 
-<sup>78</sup> Rene Dumont, Types of Rural Economy (London, Methuen, 1957)
+78 Rene Dumont, Types of Rural Economy (London, Methuen, 1957)
 
-<sup>79</sup> Peter Self and H. J. Storing, The State and the Farmer (London, Allen & Unwin, 1962)
+79 Peter Self and H. J. Storing, The State and the Farmer (London, Allen & Unwin, 1962)
 
 unemployment.80
 
@@ -1344,9 +1354,9 @@ In a manuscript written as early as 1873, Kropotkin himself wrote:
 
 Repeating the formulation of Proudhon, we say: if a naval academy is not itself a ship with sailors who enjoy equal rights and receive a theoretical education, then it will produce not sailors but officers to supervise sailors; if a technical academy is not itself a factory, not itself a trade school, then it
 
-<sup>80</sup> John Kenneth Galbraith, A China Passage (London, Deutsch, 1973) 1973)
+80 John Kenneth Galbraith, A China Passage (London, Deutsch, 1973) 1973)
 
-<sup>81</sup> See W. М. Williams, The Country Craftsman, Dartington Hall Studies in Rural Sociology (London, Routledge, 1958)
+81 See W. М. Williams, The Country Craftsman, Dartington Hall Studies in Rural Sociology (London, Routledge, 1958)
 
 will produce foremen and managers and not workmen, and so on. We do not need these privileged establishments; we need neither universities nor technical academies nor naval academies created for the few; we need the hospital, the factory, the chemical works, the ship, the productive trade school for workers, which, having become available to all, will with unimaginable speed exceed the standard of present universities and academies. In eliminating all the unnecessary ballast of useless occupations, in devising accelerated methods of education (which always appear only when a demand for them arises which cannot be put off), the school will train healthy workers equally capable of both further intellectual and physical work.82
 
@@ -1356,9 +1366,9 @@ From one point of view, Kropotkin's ideas about the nature of education in this 
 
 Similarly in the schools, however comprehensive they may be in name, craft subjects are rapidly dropped by the academically gifted in favour of those subjects
 
-<sup>82</sup> Peter Kropotkin, "Must We Occupy ourselves with an Examination of the Ideal of a Future System?", first published in English in P. A. Kropotkin, Selected Writings on Anarchism and Revolution, edited by Martin A. Miller (Cambridge, Mass. and London, M. I. T. Press, 1970)
+82 Peter Kropotkin, "Must We Occupy ourselves with an Examination of the Ideal of a Future System?", first published in English in P. A. Kropotkin, Selected Writings on Anarchism and Revolution, edited by Martin A. Miller (Cambridge, Mass. and London, M. I. T. Press, 1970)
 
-<sup>83</sup> Stephen Cotgrove, Technical Education and Social Change (London, Allen & Unwin, 1958)
+83 Stephen Cotgrove, Technical Education and Social Change (London, Allen & Unwin, 1958)
 
 whose examinations lead to university entrance. And as to the idea that the school itself might be partially self-supporting through productive work, this has been laughed out of existence long ago in the West, just as it has been in India, where it was one of the cornerstones of Gandhi's programme of Basic Education.
 
@@ -1370,13 +1380,13 @@ As to the relationship between education and industry – Kropotkin's preoccupat
 
 Free development of each personality to its outer limits means the systematic encouragement and fostering of talents, and this will never begin until factories begin to be schools, and self-governing schools at that. Only then will schools cease to be factories for the engineering of human beings into employees. Perhaps a hundred years ago, this was a utopian
 
-<sup>84</sup> Michael Allaby, "Farming for a Culture", the Guardian (1 December 1971)
+84 Michael Allaby, "Farming for a Culture", the Guardian (1 December 1971)
 
-<sup>85</sup> See Colin Ward, "The Role of the State", in Education Without Schools, edited by Peter Buckman (London, Souvenir Press, 1973)
+85 See Colin Ward, "The Role of the State", in Education Without Schools, edited by Peter Buckman (London, Souvenir Press, 1973)
 
 #### Center for a Stateless Society message. Today it is direly practical: the only resource which we possess in virtual abundance is that of human potential, and yet it is that resource which we squander with even greater profligacy than we eat up the Earth's finite material resources.86
 
-<sup>86</sup> Ken Coates, "Education as a Lifelong Experience", in Buckman (ed), ibid.
+86 Ken Coates, "Education as a Lifelong Experience", in Buckman (ed), ibid.
 
 #### **Conclusion**
 
@@ -1434,7 +1444,7 @@ As a book for today with a message for tomorrow, the significance of Kropotkin's
 
 Of all the innumerable diagnoses of this crisis of the human environment, one of the most intelligent is the British document, A Blueprint for Survival. When it
 
-<sup>87</sup> Martin Buber, Paths in Utopia (London, Routledge, 1949; Boston, Beacon Paperbacks, 1958)
+87 Martin Buber, Paths in Utopia (London, Routledge, 1949; Boston, Beacon Paperbacks, 1958)
 
 appeared, its authors were described as pedlars of doom and gloom, which was an odd, if predictable, reaction, because in fact it was a hopeful report.
 
@@ -1450,7 +1460,7 @@ These too reflect Kropotkin's programme, but, as Professor Self asks, when are s
 
 One analysis of the Blueprint made the criticism that Kropotkin would have made, pointing out that while the document calls for a return to small communities responsible far as possible for their own decision-making, this is likely to conflict with the need for such a drastic restructuring of social systems to be highly controlled from the centre. The Blueprint demands governmental action. Kropotkin, as an anarchist, hoped for a great popular movement for change. Let us give him the last word. In December 1919, at the very end of his life, in the midst of the civil war that followed the Russian Revolution, he wrote:
 
-<sup>88</sup> Edward Goldsmith (ed.), Blueprint for Survival (The Ecologist), January 1972, (Harmondsworth, Penguin, 1972) 89 Peter Self in The Times (9 March 1972)
+88 Edward Goldsmith (ed.), Blueprint for Survival (The Ecologist), January 1972, (Harmondsworth, Penguin, 1972) 89 Peter Self in The Times (9 March 1972)
 
 Today, however, after the cruel lesson of the last war, it should be clear to every serious person and above all to every worker, that such wars, and even crueller ones still, are inevitable so long as certain countries consider themselves destined to enrich themselves by the production of finished goods and divide the backward countries up among themselves, so that these countries provide the raw materials while they accumulate wealth themselves on the basis of the labour of others.
 
@@ -1460,7 +1470,7 @@ We should not forget that at the moment it is not only the capitalists who explo
 
 But it is impossible to achieve such a revolution by means of dictatorship and state power. Without a widespread reconstruction coming from below – put into practice by the workers and peasants themselves – the social revolution is condemned to bankruptcy. The Russian Revolution has confirmed this again, and we must hope that this lesson will be understood; that everywhere in Europe and America serious efforts will be made to create within the working class – peasants, workers and intellectuals – personnel of a future revolution which will not obey orders from above but will be capable of elaborating for itself the free forms of the whole new economic life.90
 
-<sup>90</sup> Peter Kropotkin, postscript to Russian edition of Words of a Rebel (Petrograd and Moscow, 1921); translated by Nicolas Walter in Freedom, Anarchist Pamphlet No. 5 (London, Freedom Press, 1970)
+90 Peter Kropotkin, postscript to Russian edition of Words of a Rebel (Petrograd and Moscow, 1921); translated by Nicolas Walter in Freedom, Anarchist Pamphlet No. 5 (London, Freedom Press, 1970)
 
 #### **Towards a Liberatory Technology by Murray Bookchin**
 
@@ -1480,7 +1490,7 @@ The year 1848 stands out as a turning point in the history of modern revolutions
 
 What strikes us about the convergence of these ideological, political and technological milestones is the extent to which the Communist Manifesto and the June barricades were in advance of their time. In the 1840s, the Industrial Revolution centered around three areas of the economy: textile production, ironmaking and transportation. The invention of Arkwright's spinning machine, Watt's steam engine and Cartwright's power loom had finally brought the factory system to the textile industry; meanwhile, number of striking innovations in iron-making technology assured the supply of high-quality, inexpensive metals needed to sustain factory and railway expansion. But these innovations, important as they were, were not accompanied by commensurate changes in other areas of industrial technology. For one thing, few steam engines were rated at more than fifteen horsepower, and the best blast furnaces provided little more than a hundred tons of iron a week – a fraction of the thousands of tons produced daily by modern furnaces. More important, the remaining areas of the economy were not yet significantly affected by technological innovation. Mining techniques, for
 
-<sup>91</sup> Both Juеnger and Elul believe that the debasement of man by the machine is intrinsic to the development of technology, and their works conclude on a grim note of resignation. This viewpoint reflects the social fatalism l have in mind -- especially as expressed by Elul, whose ideas are more symptomatic of the contemporary human condition. See Friedrich George Juenger, The Failure of Technology (Regnery: Chiеago, 1956) and Jacques Elul The Technological Socieу (Knopf; New York, 1968).
+91 Both Juеnger and Elul believe that the debasement of man by the machine is intrinsic to the development of technology, and their works conclude on a grim note of resignation. This viewpoint reflects the social fatalism l have in mind -- especially as expressed by Elul, whose ideas are more symptomatic of the contemporary human condition. See Friedrich George Juenger, The Failure of Technology (Regnery: Chiеago, 1956) and Jacques Elul The Technological Socieу (Knopf; New York, 1968).
 
 example, had changed little since the days of the Renaissance. The miner still worked the ore face with a hand pick and a crowbar, and drainage pumps, ventilation systems and hauling techniques were not greatly improved over the descriptions we find in Agricola's classic on mining written three centuries earlier. Agriculture was only emerging from its centuries-old sleep. Although a great deal of land had been cleared for food cultivation, soil studies were still a novelty. So heavy, in fact, was the weight of tradition and conservatism that most harvesting was still done by hand, despite the fact that a mechanical reaper had been perfected as early as 1822. Buildings, despite their massiveness and ornateness, were erected primarily by sheer muscle power; the hand crane and windlass still occupied the mechanical center of the construction site. Steel was a relatively rare metal: as late as 1850 it was priced at \$250 a ton and, until the discovery of the Bessemer converter, steel-making techniques had stagnated for centuries. Finally, although precision tools had made great forward strides, it is worth noting that Charles Babbage's efforts to build a sophisticated mechanical computer were thwarted by the inadequate machining techniques of the time.
 
@@ -1492,7 +1502,7 @@ Virtually all the Utopias, theories and revolutionary programs of the early nine
 
 The problem of dealing with want and work – an age-old problem perpetuated by the early Industrial Revolution – produced the great divergence in revolutionary ideas between socialism and anarchism. Freedom would still be circumscribed by necessity in the event of a revolution. How was this world of necessity to be "administered"? How could the allocation of goods and duties be decided? Marx left this decision to a state power, a transitional "proletarian" state power, to be sure, but nevertheless a coercive body, established above society. According to Marx, the state would "wither away" as technology developed and enlarged the domain of freedom, granting humanity material plenty and the leisure to control its affairs directly. This strange calculus, in which necessity and freedom were mediated by the state, differed very little politically from the common run of bourgeois-democratic radical opinion in the last century. The anarchist hope for the abolition of the state, on the other hand, rested largely on a belief in the viability of man's social instincts. Bakunin, for example, thought custom would compel any individuals with antisocial proclivities to abide by collectivist values and needs without obliging society to use coercion. Kropotkin, who exercised more influence among anarchists in this area of speculation, invoked man's propensity for mutual aid – essentially a social instinct – as the guarantor of solidarity in an anarchist community (a concept which he derived from his study of animal and social evolution).
 
-<sup>92</sup> Karl Marx and Frederick Engels, The German Ideology (International Publishers; New York, 1947), p. 24. 93 Pierr-Joseph Proudhon, What is Property? (Bellamy Library; London, n.d.), vol. 1, p. 135.
+92 Karl Marx and Frederick Engels, The German Ideology (International Publishers; New York, 1947), p. 24. 93 Pierr-Joseph Proudhon, What is Property? (Bellamy Library; London, n.d.), vol. 1, p. 135.
 
 The fact remains, however, that in both cases – the Marxist and the anarchist – the answer to the problem of want and work was shot through with ambiguity. The realm of necessity was brutally present; it could not be conjured away by mere theory and speculation. The Marxists could hope to administer necessity by means of a state, and the anarchists, to deal with it through free communities, but given the limited technological development of the last century, in the last analysis both schools depended on an act of faith to cope with the problem of want and work. Anarchists could argue against the Marxists that any transitional state, however revolutionary its rhetoric and democratic its structure, would be self-perpetuating; it would tend to become an end in itself and to preserve the very material and social conditions it had been created to remove. For such a state to "wither away" (that is, promote its own dissolution) would require its leaders and bureaucracy to be people of superhuman moral qualities. The Marxists, in turn, could invoke history to show that custom and mutualistic propensities were never effective barriers to the pressures of material need, or to the onslaught of property, or to the development of exploitation and class domination. Accordingly, they dismissed anarchism as an ethical doctrine which revived the mystique of the natural man and his inborn social virtues.
 
@@ -1500,9 +1510,9 @@ The problem of want and work – of the realm of necessity – was never satisfa
 
 In retrospect, it is astonishing to consider how long the problem of want and work cast its shadow over revolutionary theory. In a span of only nine decades – the years between 1850 and 1940 – Western society created, passed through and evolved beyond two major epochs of technological history – the paleotechnic age of coal and steel, and the neotechnic age of electric power, synthetic chemicals, electricity and internal combustion engines. Ironically, both ages of technology seemed to enhance the importance of toil in society. As the number of industrial workers increased in proportion to other social classes, labor – more precisely, toil95 – acquired an increasingly high status in revolutionary thought. During this period, the propaganda of the socialists often sounded like a paean to toil; not
 
-<sup>94</sup> It is my own belief that the development of the "workers' state" in Russia thoroughly supports the anarchist critique of Marxist statism. Indeed, modern Marxists would do well to consult Marx's own discussion of commodity fetishism in Capital to understand how everything (including the state) tends to become an end in itself under conditions of commodity exchange.
+94 It is my own belief that the development of the "workers' state" in Russia thoroughly supports the anarchist critique of Marxist statism. Indeed, modern Marxists would do well to consult Marx's own discussion of commodity fetishism in Capital to understand how everything (including the state) tends to become an end in itself under conditions of commodity exchange.
 
-<sup>95</sup> The distinction between pleasurable work and onerous toil should always be kept in mind.
+95 The distinction between pleasurable work and onerous toil should always be kept in mind.
 
 only was toil "ennobling," but the workers were extolled as the only useful individuals in the social fabric. They were endowed with a supposedly superior instinctive ability that made them the arbiters of philosophy, art, and social organization. This puritanical work ethic of the left did not diminish with the passage of time and in fact acquired a certain urgency in the 1930s. Mass unemployment made the job and the social organization of labor the central themes of socialist propaganda in the 1930s. Instead of focusing their message on the emancipation of man from toil, socialists tended to depict socialism as a beehive of industrial activity, humming with work for all. The Communists pointed to Russia as a land where every able-bodied individual was employed and where labor was continually in demand. Surprising as it may seem today, little more than a generation ago socialism was equated with a work-oriented society and liberty with the material security provided by full employment. The world of necessity had subtly invaded and corrupted the ideal of freedom.
 
@@ -1520,7 +1530,7 @@ The meaning of this qualitative advance has been stated in a rather freewheeling
 
 Suppose, fifty years ago, that someone had proposed making a device which would cause an automobile to follow a white line down the middle of the road, automatically and even if the driver fell asleep. . . . He would have been laughed at, and his idea would have been called preposterous. So it would have been then. But suppose someone called for such a device today, and was willing to pay for it, leaving aside the question of whether it would actually be of any genuine use whatever. Any number of concerns would stand ready to contract and build it. No real invention would be required. There are thousands of young men in the country to whom the design of such a device would be a pleasure. They would simply take off the shelf some photocells, thermionic tubes, servo-mechanisms, relays and, if urged, they would build what they call a breadboard model, and it would work. The point is that the presence of a host of versatile, cheap, reliable gadgets, and the presence of men who understand fully all their queer ways, has rendered the building of automatic devices almost straightforward and routine. It is no longer a question of whether they can be built, it is rather a
 
-<sup>96</sup> An exclusively quantitative approach to the new technology, I may add, is not only economically archaic, but morally regressive. This approach partakes of the old principle of justice, as distinguished from the new principle of freedom. Historically, justice is derived from the world of material necessity and toil; it implies relatively scarce resources which are apportioned by a moral principle which is either "just" or "unjust." Justice, even "equal" justice, is a concept of limitation, involving the denial of goods and the sacrifice of time and energy to production. Once we transcend the concept of justice – indeed, once we pass from the quantitative to the qualitative potentialities of modern technology – we enter the unexplored domain of freedom, based on spontaneous organization and full access to the means of life.
+96 An exclusively quantitative approach to the new technology, I may add, is not only economically archaic, but morally regressive. This approach partakes of the old principle of justice, as distinguished from the new principle of freedom. Historically, justice is derived from the world of material necessity and toil; it implies relatively scarce resources which are apportioned by a moral principle which is either "just" or "unjust." Justice, even "equal" justice, is a concept of limitation, involving the denial of goods and the sacrifice of time and energy to production. Once we transcend the concept of justice – indeed, once we pass from the quantitative to the qualitative potentialities of modern technology – we enter the unexplored domain of freedom, based on spontaneous organization and full access to the means of life.
 
 question of whether they are worth building.97
 
@@ -1532,9 +1542,9 @@ The men who personify the application of science to technological innovation are
 
 Less obvious is the impact produced by industrial growth. This impact is not always technological; it is more than the substitution of machines for human labor. One of the most effective means of increasing output, in fact, has been the continual reorganization of the labor process, extending and sophisticating the division of labor. Ironically, the steady breakdown of tasks to ever more inhuman dimensions – to an intolerably minute, fragmented series of operations and to a cruel simplification of the work process – suggests the machine that will recombine all the separate tasks of many workers into a single mechanized operation. Historically, it would be difficult to understand how mechanized mass manufacture emerged, how the machine increasingly displaced labor, without
 
-<sup>97</sup> U. S. Congress, Joint Committee on the Economic Report, Automation and Technological Change: Hearings Before the Subcommittee on Economic Stabilization, 84th Cong., 1st session (U. S. Govt. Printing Office; Washington, 1955), p. 81.
+97 U. S. Congress, Joint Committee on the Economic Report, Automation and Technological Change: Hearings Before the Subcommittee on Economic Stabilization, 84th Cong., 1st session (U. S. Govt. Printing Office; Washington, 1955), p. 81.
 
-<sup>98</sup> For example, in cotton plantations in the Deep South, in automobile assembly plants, and in the garment industry.
+98 For example, in cotton plantations in the Deep South, in automobile assembly plants, and in the garment industry.
 
 tracing the development of the work process from craftsmanship, where an independent, highly skilled worker engages in many diverse operations, through the purgatory of the factory, where these diverse tasks are parceled out among a multitude of unskilled or semiskilled employees, to the highly mechanized mill, where the tasks of many are largely taken over by machines manipulated by a few operatives, and finally to the automated and cybernated plant, where operatives are replaced by supervisory technicians and highly skilled maintenance men.
 
@@ -1550,7 +1560,7 @@ An important step toward developing self-regulating control mechanisms was the d
 
 With the advent of the computer we enter an entirely new dimension of industrial control systems. The computer is capable of performing all the routine tasks that ordinarily burdened the mind of the worker a generation or so ago. Basically, the modern digital computer is an electronic calculator capable of performing arithmetical operations enormously faster than the human brain.99 This element of
 
-<sup>99</sup> There are two broad classes of computers in use today: analogue and digital computers. The analogue computer has a fairly limited use in industrial operations. My discussion on computers in this article will deal entirely with digital computers.
+99 There are two broad classes of computers in use today: analogue and digital computers. The analogue computer has a fairly limited use in industrial operations. My discussion on computers in this article will deal entirely with digital computers.
 
 speed is a crucial factor: the enormous rapidity of computer operations – a quantitative superiority of computer over human calculations – has profound qualitative significance. By virtue of its speed, the computer can perform highly sophisticated mathematical and logical operations. Supported by memory units that store millions of bits of information, and using binary arithmetic (the substitution of the digits 0 and 1 for the digits 0 through 9), a properly programmed digital computer can perform operations that approximate many highly developed logical activities of the mind. It is arguable whether computer "intelligence" is, or ever will be, creative or innovative (although every few years bring sweeping changes in computer technology), but there is no doubt that the digital computer is capable of taking over all the onerous and distinctly uncreative mental tasks of man in industry, science, engineering, information retrieval and transportation. Modern man, in effect, has produced an electronic "mind" for coordinating, building and evaluating most of his routine industrial operations. Properly used within the sphere of competence for which they are designed, computers are faster and more efficient than man himself.
 
@@ -1566,7 +1576,7 @@ To be sure, every industry has its own particular problems, and the application 
 
 There is one area of the economy, however, in which any form of technological advance is worth describing – the area of work that is most brutalizing and degrading for man. If it is true that the moral level of a society can be gauged by the way it treats women, its sensitivity to human suffering can be gauged by the working conditions it provides for people in raw materials industries, particularly in mines and quarries. In the ancient world, mining was often a form of penal servitude, reserved primarily for the most hardened criminals, the most intractable slaves, and the most hated prisoners of war. The mine is the day-
 
-<sup>100</sup> Alice Mary Hilton, "Cyberculture," Fellowship for Reconciliation paper (Berkeley, 1964), p. 8.
+100 Alice Mary Hilton, "Cyberculture," Fellowship for Reconciliation paper (Berkeley, 1964), p. 8.
 
 to-day actualization of man's image of hell; it is a deadening, dismal, inorganic world that demands pure mindless toil.
 
@@ -1576,7 +1586,7 @@ The abolition of mining as a sphere of human activity would symbolize, in its ow
 
 By adding sensing devices to automatic machinery we could easily remove the worker not only from the large, productive mines needed by the economy, but also from forms of agricultural activity patterned on modern industry. Although the wisdom of industrializing and mechanizing agriculture is highly questionable (I shall return to this subject at a later point), the fact remains that if society so chooses, it can automate large areas of industrial agriculture, ranging from cotton picking to rice harvesting. We could operate almost any machine, from a giant shovel in an open-strip mine to a grain harvester in the Great Plains, either by cybernated sensing devices or by remote control with television cameras. The effort needed to operate these devices and machines at a safe distance, in comfortable quarters, would be minimal, assuming that a human operator were required at all.
 
-<sup>101</sup> Lewis Mumford, Technics and Civilization (Harcourt, Brace and Co.; New York, 1934), pp. 69-70.
+101 Lewis Mumford, Technics and Civilization (Harcourt, Brace and Co.; New York, 1934), pp. 69-70.
 
 It is easy to foresee a time, by no means remote, when a rationally organized economy could automatically manufacture small "packaged" factories without human labor; parts could be produced with so little effort that most maintenance tasks would be reduced to the simple act of removing a defective unit from a machine and replacing it by another – a job no more difficult than pulling out and putting in a tray. Machines would make and repair most of the machines required to maintain such a highly industrialized economy. Such a technology, oriented entirely toward human needs and freed from all consideration of profit and loss, would eliminate the pain of want and toil – the penalty, inflicted in the form of denial, suffering and inhumanity, exacted by a society based on scarcity and labor.
 
@@ -1608,7 +1618,7 @@ Ideally, a drilling machine of the kind envisioned by Leaver and Brown would be 
 
 The importance of machines with this kind of operational range can hardly be overestimated. They make it possible to produce a large variety of products in a
 
-<sup>102</sup> Eric W. Leaver and John J. Brown, "Machines without Men," Fortune, (S. Sonnenschein and Co.; London, 1901), p. 93.
+102 Eric W. Leaver and John J. Brown, "Machines without Men," Fortune, (S. Sonnenschein and Co.; London, 1901), p. 93.
 
 single plant. A small or moderate-sized community using multi-purpose machines could satisfy many of its limited industrial needs without being burdened with underused industrial facilities. There would be less loss in scrapping tools and less need for single-purpose plants. The community's economy would be more compact and versatile, more rounded and self-contained, than anything we find in the communities of industrially advanced countries. The effort that goes into retooling machines for new products would be enormously reduced. Retooling would generally consist of changes in dimensioning rather than in design. Finally, multipurpose machines with a wide operational range are relatively easy to automate. The changes required to use these machines in a cybernated industrial facility would generally be in circuitry and programming rather than in machine form and structure.
 
@@ -1626,7 +1636,7 @@ In our own time, the development of technology and the growth of cities has brou
 
 The balance between man and nature must be restored. I have tried to show elsewhere that unless we establish some kind of equilibrium between man and the natural world, the viability of the human species will be placed in grave jeopardy.103 Here I shall try to show how the new technology can be used ecologically to reawaken man's sense of dependence upon the environment; I shall try to show how, by reintroducing the natural world into the human experience, we can contribute to the achievement of human wholeness.
 
-<sup>103</sup> See "Ecology and Revolutionary Thought."
+103 See "Ecology and Revolutionary Thought."
 
 The classical Utopians fully realized that the first step towards wholeness must be to remove the contradiction between town and country. "It is impossible," wrote Fourier nearly a century and a half ago, "to organize a regular and well balanced association without bringing into play the labors of the field, or at least gardens, orchards, flocks and herds, poultry yards, and a great variety of species, animal and vegetable." Shocked by the social effects of the Industrial Revolution, Fourier added: "They are ignorant of this principle in England, where they experiment with artisans, with manufacturing labor alone, which cannot by itself suffice to sustain social union."104
 
@@ -1636,7 +1646,7 @@ If we grant that the land and the community must be reintegrated physically, tha
 
 Some of the most promising technological advances in agriculture made since World War II are as suitable for small-scale, ecological forms of land management as they are for the immense, industrial-type commercial units that have become prevalent over the past few decades. Let us consider an example. The augermatic feeding of livestock illustrates a cardinal principle of rational farm mechanization – the deployment of conventional machines and devices in a way that virtually eliminates arduous farm labor. By linking a battery of silos with augers, different nutrients can be mixed and transported to feed pens merely by pushing some buttons and pulling a few switches. A job that may have required the labor of five or six men working half a day with pitchforks and buckets can now be performed
 
-<sup>104</sup> F. M. C. Fourier, Selections from the works of Fourier, (S. Sonnenschein and Co.; London, 1901), p. 93. 105 Charles Gide, introduction to Fourier, op. Cit., p. 14.
+104 F. M. C. Fourier, Selections from the works of Fourier, (S. Sonnenschein and Co.; London, 1901), p. 93. 105 Charles Gide, introduction to Fourier, op. Cit., p. 14.
 
 by one man in a few minutes. This type of mechanization is intrinsically neutral: it can be used to feed immense herds or just a few hundred head of cattle; the silos may contain natural feed or synthetic, hormonized nutrients; the feeder can be employed on relatively small farms with mixed livestock or on large beef-raising ranches, or on dairy farms of all sizes. In short, augermatic feeding can be placed in the service of the most abusive kind of commercial exploitation or of the most sensitive applications of ecological principles.
 
@@ -1674,7 +1684,7 @@ The decisive advantage of solar heating lies in the fact that no running costs a
 
 The most widespread applications of solar energy devices are in cooking and water heating. Many thousands of solar stoves are used in underdeveloped countries, in Japan, and in the warm latitudes of the United States. A solar stove is
 
-<sup>106</sup> Hans Thirring, Energy for Man (Harper & Row; New York, 1958), p. 266.
+106 Hans Thirring, Energy for Man (Harper & Row; New York, 1958), p. 266.
 
 simply an umbrella-like reflector equipped with a grill that can broil meat or boil a quart of water within fifteen minutes in bright sunlight. Such a stove is safe, portable and clean; it requires no fuel or matches, nor does it produce any annoying smoke. A portable solar oven delivers temperatures as high as four hundred fifty degrees and is even more compact and easier to handle than a solar stove. Solar water-heaters are used widely in private homes, apartment buildings, laundries and swimming pools. Some twenty-five thousand of these units are employed in Florida and they are gradually coming into vogue in California.
 
@@ -1694,9 +1704,9 @@ Finally, the sun's energy can be used in still another way – by collecting hea
 
 The ocean's tides are still another untapped resource to which we could turn for electric power. We could trap the ocean's waters at high tide in a natural basin – say a bay or the mouth of a river – and release them through turbines at low tide. A number of places exist where the tides are high enough to produce electric power in large quantities. The French have already built an immense tidal-power installation near the mouth of the Ranee River at St. Malo with an expected net yield of 544 million kilowatt-hours annually. They also plan to build another dam in the bay of Mont-Saint-Michel. In England, highly suitable conditions for a tidal dam exist above the confluence of the Severn and Wye rivers. A dam here could provide the electric power produced by a million tons of coal annually. A superb location for producing tide-generated electricity exists at Passamaquoddy Bay on the border between Maine and New Brunswick, and good locales exist on the
 
-<sup>108</sup> The efficiency of the gasoline engine is rated at around eleven percent, to cite a comparison.
+108 The efficiency of the gasoline engine is rated at around eleven percent, to cite a comparison.
 
-<sup>109</sup> Henry Tabor, "Solar Energy," in Science and the New Nations, ed. Ruth Gruber (Basic Books; New York, 1961), p. 109.
+109 Henry Tabor, "Solar Energy," in Science and the New Nations, ed. Ruth Gruber (Basic Books; New York, 1961), p. 109.
 
 Mezen Gulf, a Russian coastal area in the Arctic. Argentina has plans for building a tidal dam across the estuary of the Deseado River near Puerto Desire on the Atlantic coast. Many other coastal areas could be used to generate electricity from tidal power, but except for France no country has started work on this resource.
 
@@ -1704,7 +1714,7 @@ We could use temperature differences in the sea or in the earth to generate elec
 
 Winds could also be used to provide electric power in many areas of the world. About one-fortieth of the solar energy reaching the earth's surface is converted into wind. Although much of this goes into making the jet stream, a great deal of wind energy is available a few hundred feet above the ground. A UN report, using monetary terms to gauge the feasibility of wind power, finds that efficient wind plants in many areas could produce electricity at an overall cost of five mills per kilowatt-hour, a figure that approximates the price of commercially generated electric power. Several wind generators have already been used with success. The famous 1,250 kilowatt generator at Grandpa's Knob near Rutland, Vermont, successfully fed alternating current into the lines of the Central Vermont Public Service Co. until a parts shortage during World War II made it difficult to keep the installation in good repair. Since then, larger, more efficient generators have been designed. P. H. Thomas, working for the Federal Power Commission, has designed a 7,500 kilowatt windmill that would provide electricity at a capital investment of \$68 per kilowatt. Eugene Ayres notes that if the construction costs of Thomas's windmill were double the amount estimated by its designer, "wind turbines would seem nevertheless to compare favorably with hydroelectric installations which cost around \$300 per kilowatt."110 An enormous potential for generating electricity
 
-<sup>110</sup> Eugene Ayers, "Major Sources of Energy," American Petroleum Institute Proceedings, section 3, Division of by means of wind power exists in many regions of the world. In England, for example, where a careful three-year survey was made of possible wind-power sites, it was found that the newer wind turbines could generate several million kilowatts, saving from two to four million tons of coal annually.
+110 Eugene Ayers, "Major Sources of Energy," American Petroleum Institute Proceedings, section 3, Division of by means of wind power exists in many regions of the world. In England, for example, where a careful three-year survey was made of possible wind-power sites, it was found that the newer wind turbines could generate several million kilowatts, saving from two to four million tons of coal annually.
 
 There should be no illusions about the extraction of trace minerals from rocks, about solar and wind power, or about the use of heat pumps. Except perhaps for tidal power and the extraction of raw materials from the sea, these sources cannot supply man with the bulky quantities of raw materials and the large blocks of energy needed to sustain densely concentrated populations and highly centralized industries. Solar devices, wind turbines, and heat pumps will produce relatively small quantities of power. Used locally and in conjunction with each other, they could probably meet all the power needs of small communities, but we cannot foresee a time when they will be able to furnish the electricity currently used by cities the size of New York, London or Paris.
 
@@ -1722,7 +1732,7 @@ In a future revolution, the most pressing task of technology will be to produce 
 
 Nearly a half century ago, while Social-Democratic and Communist theoreticians babbled about a society with "work for all," the Dadaists, those magnificent madmen, demanded unemployment for everybody. The decades have detracted nothing from the significance of this demand, and they have added to its content. From the moment toil is reduced to the barest possible minimum or disappears
 
-<sup>111</sup> Thomas Carlyle, The French Revolution (Modern Library; New York, n.d.), p. 593.
+111 Thomas Carlyle, The French Revolution (Modern Library; New York, n.d.), p. 593.
 
 entirely, the problems of survival pass into the problems of life, and technology itself passes from being the servant of man's immediate needs to being the partner of his creativity.
 
@@ -1732,7 +1742,7 @@ The development of the machine tends to rupture the intimate relationship betwee
 
 Man-the-machine is the bureaucratic ideal.113 It is an ideal that is continually defied by the rebirth of life, by the reappearance of the young, and by the contradictions that unsettle the bureaucracy. Every generation has to be
 
-<sup>112</sup> Friedrich Wilhelmsen, preface to Friedrich G. Juenger, The Failure of Technology (Regnery; Chicago, 1956), p. vii. 113 The "ideal man" of the police bureaucracy is a being whose innermost thoughts can be invaded by lie detectors, electronic listening devices, and "truth" drugs. The "ideal man" of the political bureaucracy is a being whose innermost life can be shaped by mutagenic chemicals and socially assimilated by the mass media. The "ideal man" of the industrial bureaucracy is a being whose innermost life can be invaded by subliminal and predictively reliable advertising. The "ideal man" of the military bureaucracy is a being whose innermost life can be invaded by regimentation for genocide.
+112 Friedrich Wilhelmsen, preface to Friedrich G. Juenger, The Failure of Technology (Regnery; Chicago, 1956), p. vii. 113 The "ideal man" of the police bureaucracy is a being whose innermost thoughts can be invaded by lie detectors, electronic listening devices, and "truth" drugs. The "ideal man" of the political bureaucracy is a being whose innermost life can be shaped by mutagenic chemicals and socially assimilated by the mass media. The "ideal man" of the industrial bureaucracy is a being whose innermost life can be invaded by subliminal and predictively reliable advertising. The "ideal man" of the military bureaucracy is a being whose innermost life can be invaded by regimentation for genocide.
 
 assimilated again, and each time with explosive resistance. The bureaucracy, in turn, never lives up to its own technical ideal. Congested with mediocrities, it errs continually. Its judgment lags behind new situations; insensate, it suffers from social inertia and is always buffeted by chance. Any crack that opens in the social machine is widened by the forces of life.
 

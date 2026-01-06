@@ -2,11 +2,7 @@
 title: "Nevada Assembly Bill 121 - Landlord Notice Requirements"
 author: "Nevada Legislature"
 date: "2023"
-tags:
-  - legislation
-  - Nevada
-  - tenants
-  - housing
+category: "legislation"
 ---
 
 # Nevada Assembly Bill 121
@@ -75,8 +71,6 @@ landlord or his or her agent who allows a tenant to pay rent or any other fee or
 charge through an Internet website or online portal from charging the tenant a fee to
 
 
-
-
    -                                                           83rd Session (2025)
 
 ---
@@ -112,8 +106,6 @@ under a written rental agreement to bring a civil action for such a violation. S
 3 requires a court to award certain relief to a tenant who prevails in such an action.
 
  EXPLANATION – Matter in bolded italics is new; matter between brackets [omitted material] is material to be omitted.
-
-
 
 
    THE PEOPLE OF THE STATE OF NEVADA, REPRESENTED IN
@@ -202,7 +194,6 @@ time the agreement is executed and, upon request of the tenant,
 provide additional copies of any such agreement to the tenant within
 
 
-
    -                                              83rd Session (2025)
 
 ---
@@ -258,8 +249,6 @@ than any other font size in the agreement, which states that:
     (a) There are rebuttable presumptions in NRS 205.0813 and
 205.0817 that the tenant does not have lawful occupancy of the
 dwelling unless the agreement:
-
-
 
 
    -                                               83rd Session (2025)
@@ -318,8 +307,6 @@ with the tenant for the electric, natural gas or water service, as
 applicable, provided in the individual dwelling unit of the tenant
 and, in the written rental agreement, the single figure includes an
 asterisk or other reference symbol which:
-
-
 
 
    -                                             83rd Session (2025)
@@ -381,8 +368,6 @@ NRS 118B.015.
                              20   ~~~~~   25
 
 
-
-
    -                                               83rd Session (2025)
 
 ---
@@ -408,4 +393,3 @@ NRS 118B.015.
 
 
 ---
-

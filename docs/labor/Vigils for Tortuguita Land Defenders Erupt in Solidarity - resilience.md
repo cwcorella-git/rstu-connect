@@ -1,3 +1,8 @@
+---
+title: "Resilience Comment Policy Please read our Comment Policy before commenting. Got it Share Best Newest Oldest 0 Comments 1 Login LOG IN WITH OR SIGN UP WITH DISQUS Name Start the discussion... ? Be the rst to comment. Subscribe Privacy Do Not Sell My Data G"
+category: "labor"
+---
+
 ## ![](_page_0_Picture_4.jpeg)
 
 By [Alexandria Shaner,](https://www.resilience.org/resilience-author/alexandria-shaner/) originally published by [ZNet](https://znetwork.org/znetarticle/vigils-for-tortuguita-land-defenders-erupt-in-solidarity/) January 24, 2023
@@ -74,4 +79,4 @@ By [Osprey Orielle Lake,](https://www.resilience.org/resilience-author/osprey-or
 
 By [Phil Wilson,](https://www.resilience.org/resilience-author/phil-wilson/) Resilience.org
 
-# Resilience Comment Policy Please read our Comment Policy before commenting. Got it Share Best Newest Oldest 0 Comments <sup>1</sup> Login LOG IN WITH OR SIGN UP WITH DISQUS Name Start the discussion… ? Be the �rst to comment. Subscribe Privacy Do Not Sell My Data G
+# Resilience Comment Policy Please read our Comment Policy before commenting. Got it Share Best Newest Oldest 0 Comments 1 Login LOG IN WITH OR SIGN UP WITH DISQUS Name Start the discussion... ? Be the rst to comment. Subscribe Privacy Do Not Sell My Data G

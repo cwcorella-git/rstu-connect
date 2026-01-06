@@ -1,13 +1,8 @@
 ---
-title: Deep Organizing Ecologyiwworg
-date: 2025
-author: Deep Organizing
-tags:
-  - organizing
-  - unions
-  - rent
-  - labor
-  - anarchism
+title: "Deep Organizing Ecologyiwworg"
+author: "Deep Organizing"
+date: "2025"
+category: "labor"
 ---
 
 # Deep Organizing Ecologyiwworg

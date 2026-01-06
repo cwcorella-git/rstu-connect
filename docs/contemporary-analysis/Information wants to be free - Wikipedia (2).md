@@ -1,3 +1,8 @@
+---
+title: "**Information wants to be free**"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_2.jpeg)
 
 # **Information wants to be free**

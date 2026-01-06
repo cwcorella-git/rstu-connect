@@ -1,3 +1,8 @@
+---
+title: "## **The Eclipse Committee Manifesto**"
+category: "contemporary-analysis"
+---
+
 ## **The Eclipse Committee Manifesto**
 
 ## **Date:** Unknown
@@ -68,7 +73,8 @@ In reply toI agree with the necessity…bylesboygenius lesboygenius wrote:I'm lo
 
 ## ![](_page_4_Figure_0.jpeg)
 
-| I was thinking 'Eclipse' could be a reference to Dauve's work, but that would be too thoughtful<br>for much of the anarchist milieu. |
+| I was thinking 'Eclipse' could be a reference to Dauve's work, but that would be too thoughtful
+for much of the anarchist milieu. |
 |--------------------------------------------------------------------------------------------------------------------------------------|
 | |
 | |

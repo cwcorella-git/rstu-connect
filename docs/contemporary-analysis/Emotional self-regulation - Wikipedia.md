@@ -1,3 +1,8 @@
+---
+title: "**Emotional self-regulation**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Emotional_self-regulation)
 
 # **Emotional self-regulation**

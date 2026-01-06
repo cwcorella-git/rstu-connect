@@ -1,3 +1,8 @@
+---
+title: "**Serafinski**"
+category: "contemporary-analysis"
+---
+
 # **Serafinski**
 
 # **Blessed is the Flame**
@@ -400,7 +405,7 @@ The other two major uprisings to be discussed both happened in extermination cam
 
 ### **The Sobibór Uprising**
 
-At Sobibór I am witnessing the tools of the modern age — trains, assembly lines, and gas engines — used by the Germans to <sup>e</sup>fficiently murder thousands of people on any given day. And yet how new is this really? The primitive whips used by the Germans are no different from those used by brutal slave masters for thousands of years. —Philip Bialowitz
+At Sobibór I am witnessing the tools of the modern age — trains, assembly lines, and gas engines — used by the Germans to efficiently murder thousands of people on any given day. And yet how new is this really? The primitive whips used by the Germans are no different from those used by brutal slave masters for thousands of years. —Philip Bialowitz
 
 On the surface, Sobibór resembled a quaint frontier town complete with a pharmacist, tailor's shop, mining cars, and cabins marked with names like "Merry Flea" and "Swallow's Nest." Sunflowers and geraniums were carefully planted everywhere, particularly along the trail that led to the north end of the camp, which was signed as the "Road To Heaven."[\[203\]](#page-56-9) Underneath this deceptive veneer (one specifically designed to calm prisoners), was a nightmarish reality and a stunningly efficient extermination camp. Unlike the concentration camps — such as Ravensbrück, Dachau, and Buchenwald, which housed long-term prisoner populations — to arrive at the doorsteps of an extermination camp like Sobibór, Treblinka, or Chelmno meant that you were either being put into the gas chambers or being put to work filling them (Auschwitz held the unique position of operating as both a concentration camp and an extermination camp for the later years of the war). At any given time the SS had a crew of one hundred to seven hundred Jewish workers operating every aspect of Sobibór; they were overseen by Capos from their midst, who were in turn overseen by hundreds of Ukrainian guards, who were themselves subservient to the German SS. Over the course of its nineteen months of operation, these workers were made to facilitate the deaths of over 250,000 Jews, while also tending to the daily needs of their oppressors.[\[204\]](#page-56-10) For the SS and Ukrainian guards overseeing this operation, entertainment often took the most twisted forms: prisoners would be force-fed sand until they couldn't walk and then paraded around the camp; forced to climb trees that were then chopped down; forced to stand at attention while Barry the dog chewed off pieces of their genitals and buttocks; forced to watch as living babies were held by their legs and smashed around like pieces of meat before being tossed into the mining cars for cremation.[\[205\]](#page-56-11) Every train that rolled into the station would bring a new transport of thousands of people who would receive a cunningly reassuring welcome speech and then be marched directly into the gas chambers. Those who worked at the train yard unloading and preparing transports for gassing were the last faces that these groups of (mostly unsuspecting) people would see. While lining them up, shaving their heads, and sending them down the "Road to Heaven," they were to inform the newcomers: "This is a work camp. The food is good and the work easy. There's nothing to worry about."[\[206\]](#page-56-12) Often, that would be the last words uttered before the chamber doors closed and a canister of Zyklon B was dropped in from the ceiling.
 
@@ -446,7 +451,7 @@ The groups that emerged in Treblinka and Sobibór were able to act with the sort
 
 ### **Cruel Optimisms**
 
-The Machine has fabricated a landscape in which even at the depths of suffering it is less unpleasant to choose among the <sup>o</sup>fficially proffered options than to resist, to transgress, to fight back, to step out of line. The lessons of the Holocaust were well learned. We will walk through the very last door as long as it is the easiest of a well managed set of choices. —Lev Zlodey & Jason Radegas
+The Machine has fabricated a landscape in which even at the depths of suffering it is less unpleasant to choose among the officially proffered options than to resist, to transgress, to fight back, to step out of line. The lessons of the Holocaust were well learned. We will walk through the very last door as long as it is the easiest of a well managed set of choices. —Lev Zlodey & Jason Radegas
 
 The ghetto was ruled by neither German nor Jew; it was ruled by delusion —Elie Wiesel
 

@@ -1,3 +1,8 @@
+---
+title: "Carnival. What comes to mind? For the Americans in my audience, you might be thinking of the"
+category: "economic-alternatives"
+---
+
 Carnival. What comes to mind? For the Americans in my audience, you might be thinking of the
 
 ## 0:10

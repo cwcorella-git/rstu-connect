@@ -1,3 +1,8 @@
+---
+title: "## **General Organization Bulletin**"
+category: "contemporary-analysis"
+---
+
 ## **General Organization Bulletin**
 
 | Date: Unknown |

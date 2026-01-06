@@ -1,3 +1,8 @@
+---
+title: "Influence of Emotional Contagion on Individual and Group Processes"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 The Ripple Effect: Emotional Contagion and Its Influence on Group Behavior
@@ -14,7 +19,7 @@ Stable URL: [http://www.jstor.org/stable/3094912](http://www.jstor.org/stable/30
 
 ## Accessed: 12/02/2015 02:13
 
-Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at . <http://www.jstor.org/page/info/about/policies/terms.jsp>
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at . 
 
 JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
 
@@ -126,7 +131,7 @@ The experiment was a two-by-two between-subjects design, with participants rando
 
 Before beginning the negotiation exercise, participants first completed a current mood questionnaire rating how they felt "right now, that is, at the present moment." After all group members completed the questionnaire, the experimenter read them the exercise instructions. Participants were given seven minutes to review the instructions and task materials. No leader was assigned to the group. After the seven-minute review period, participants were instructed to begin their presentations in the alphabetical order of the place cards in front of them (which corresponded to their roles). The confederate always played the same role, representing the same employee's case for a merit bonus in each experimental condition, to keep the task content as similar as possible. He was always letter "A" in the group so that he could give his presentation first to avoid any differences resulting from the timing and sequence of presentation, but the point was made very strongly to participants that the order of presentation was randomly determined according to seating, so that the confederate would not unintentionally be perceived as a task leader. Having the confederate always speak first not only minimized differences in participants' initial exposure to the confederate, it may also have helped to generate the stronger emotional contagion manipulation I was seeking, as research has shown that occurrences early in the life of a group can have a strong influence on subsequent group events (Gersick and Hackman, 1990). After reviewing the materials, groups had 30 minutes to present their case, negotiate, and arrive at a consensus.
 
-Immediately after the exercise, participants completed a questionnaire that included the same mood items they rated prior to the experiment. They were asked to rate how they felt in the first and second halves of the exercise. The questionnaire also asked about group processes and included affective and performance ratings of themselves and the other group members. These ratings were used to test the group dynamics hypotheses and for the manipulation check. Participants were also asked what they believed the purpose of the experiment was.<sup>2</sup> After all participants completed the experiment, they were debriefed orally during a class session and in writing.
+Immediately after the exercise, participants completed a questionnaire that included the same mood items they rated prior to the experiment. They were asked to rate how they felt in the first and second halves of the exercise. The questionnaire also asked about group processes and included affective and performance ratings of themselves and the other group members. These ratings were used to test the group dynamics hypotheses and for the manipulation check. Participants were also asked what they believed the purpose of the experiment was.2 After all participants completed the experiment, they were debriefed orally during a class session and in writing.
 
 Confederate. A confederate was chosen as the means to transmit the desired affective condition (rather than relying on naturally occurring affect) because having a confederate gave greater control, reduced possible task-related variance, and in a relatively brief lab experiment a confederate could be
 
@@ -181,47 +186,12 @@ Cooperativeness. Participants' self-report of cooperativeness was a one-item mea
 
 #### **Group Dynamics**
 
-Video-coders' ratings were used to rate group-level dynamics. After watching the entire group interaction, four coders rated group processes and dynamics on a 1 ("Not at all") to 7 ("Very much so") scale. They rated group cooperativeness and group competitiveness (reverse coded); the mean of this two-item scale was 4.07 (s.d. = .85), with an ICC of .83. Group cooperation was also measured behaviorally through the standard deviation of the percentage of funds distributed to the group members (mean = .06; s.d. = .04). The greater the cooperation, the smaller the expected standard deviation of distributed funds (i.e., there would not be large differences between group members in the amount of funds they received). The group conflict measure was the mean of the video-coders' ratings of group task and emotional conflict (one-item measures intercorrelated at r = .84, p < .001). This scale has a mean of 3.71 (s.d. = .97) and an ICC of .83.
+Video-coders' ratings were used to rate group-level dynamics. After watching the entire group interaction, four coders rated group processes and dynamics on a 1 ("Not at all") to 7 ("Very much so") scale. They rated group cooperativeness and group competitiveness (reverse coded); the mean of this two-item scale was 4.07 (s.d. = .85), with an ICC of .83. Group cooperation was also measured behaviorally through the standard deviation of the percentage of funds distributed to the group members (mean = .06; s.d. = .04). The greater the cooperation, the smaller the expected standard deviation of distributed funds (i.e., there would not be large differences between group members in the amount of funds they received). The group conflict measure was the mean of the video-coders' ratings of group task and emotional conflict (one-item measures intercorrelated at r = .84, p  - Participant's perceptions
+of confederate's energy
+level
+  | 6.98 | 4.14 | 8.38 | 2.65 | .02 | 152.52*** | 17.31 ••• |
 
-Control variables. To control for demographic or task variables that might have influenced the process of contagion and its subsequent influence on group processes, demographic variables (participant's sex, age, and race) and task variables (percentage of the funds the participant's employee received and which employee the participant represented) were entered into the analyses.
-
-#### **Analysis**
-
-As group emotional contagion involves analyzing the behavior of individuals nested within groups, analyses of this phenomenon need to simultaneously take into account the individuallevel factors being examined as well as differences that may occur as a result of study participants being members of different groups. Following the recommendations of statistical (e.g., Bryk and Raudenbush, 1992; Kreft and de Leeuw, 1998), group (Hoyle et al., 2001), and organizational (Hofmann, Griffin, and Gavin, 2000) researchers, the data in this study were analyzed with a series of multilevel random coefficient models using the program HLM (Hierarchical Linear Modeling; Raudenbush, Bryk, and Congdon, 2000). Multilevel random coefficient modeling is the best way to analyze grouped data (sometimes called hierarchical or nested data) because it takes into account the mathematical independence of the variances and covariances at each level of analysis (i.e., the group and the individual) and provides more accurate parameter estimates (e.g., estimates of the relationship between two variables) than comparable multilevel ordinary least squares (OLS) techniques such as within-group regression or ANOVAs (Nezlek and Zyzniewski, 1998). This ability to take the reliability of the coefficients into account becomes even more important when data structures have small numbers of observations in units (Nezlek, 2001).
-
-There were two sets of analyses for each hypothesis, one set conducted with individual-level mood rated by video-coders as the dependent variable and the other with differences in self-reported pre- and post-experiment moods. The analyses were primarily conducted with two-level models. For each group, parameters describing the individual-level phenomena (i.e., means and covariances) were estimated, and group-level differences among these parameters were then analyzed. The basic individual-level (level 1) model was
-
-$$\label{eq:y_ij} y_{ij} = \beta_{0j} + \beta_{1j} + \, r_{ij}.$$
-
-In this model, $y_{ij}$ is a measure of individual level mood as rated by video-coders (or self-reported change in mood) for person i in group j; $\beta_{0j}$ is a random coefficient representing emotional contagion (operationalized as the video-coders' ratings of individual-level moods, in the video-coder models, and self-reported change in individual moods, in the self-report models) of people in group j (across the i persons in the group); $\beta_{1j}$ is also a random coefficient representing the mean of pre-experimental moods of people in group j (across the i persons in the group), important as a covariate controlling for participants' mood before entering the experiment; $r_{ij}$ repre-
-
-sents the error associated with the mood measure; and the variance of $r_{ij}$ constitutes the individual-level residual (or error) variance. No additional covariates were found to be significantly related to individual-level mood, or mood change, but had there been, they would have been included at the individual level by including additional terms on the right-hand side of this equation (e.g., $\beta_{2j}$ , $\beta_{3j}$ , etc.). All covariates should initially be modeled as random effects, and fixed effects should be used only when the random error term cannot be estimated reliably (Nezlek, 2001).
-
-In multilevel modeling, coefficients from one level of analysis are passed on to the next. As such, in the two-level models, group differences in individual-level mood as rated by video-coders (or change in mood for self-report data) were analyzed at a group level (level 2). The group-level model was:
-
-$$\beta_{0j} = \gamma_{01}(C1) \, + \, \gamma_{02}(C2) \, + \, \gamma_{03}(C3) \, + \, \gamma_{04}(C4) \, + \, u_{0j}.$$
-
-In this model, experimental conditions were represented by four dummy-coded (0, 1) variables. C1 was coded 1 for highpleasant/high-energy condition groups and 0 for the other three conditions, C2 was coded 1 for the high-pleasant/lowenergy condition, C3 was the high-unpleasant/high-energy condition, and C4 was the high-unpleasant/low-energy condition, and $u_{ni}$ represented the error of $\beta_{ni}$ . Differences among the groups were examined using comparisons of fixed effects (Bryk and Raudenbush, 1992: 49-52). For example, C1 and C2 represented the two pleasant-affect groups, and C3 and C4 represented the two unpleasant-affect groups, and so the "main effect" for valence of affect was examined using a contrast code of 1, 1, -1, -1. These zero-intercept, dummy-coded analyses provided the functional equivalent of the comparisons provided by a traditional ANOVA while retaining the benefits of MRCM.
-
-#### **RESULTS**
-
-Manipulation check. As shown in table 1, analyses of participants' perceptions of the confederate showed that the confederate successfully enacted the affective behavior required for each experimental condition. Participants who were with the pleasant confederate perceived the confederate as more pleasant than participants who were with the unpleasant confederate [overall means = 6.59 versus 3.89; $\chi^2(1) = 42.67$ , p < .001]. Moreover, there was no significant effect of the confederate's energy level on ratings of his pleasantness, nor was there an interaction of energy and pleasantness on these ratings. With regard to energy, participants who were with the high-energy confederate perceived the confederate as more energetic than participants who were with the lowenergy confederate [means = 7.68 versus 3.27; $\chi^2(1)$ = 152.52, p < .001]. Although there was no main effect for pleasantness in the analysis of confederate energy, there was an interaction of pleasantness and energy such that both differences were significant: the difference between the high- and low-energy confederate was greater when the confederate was unpleasant (8.38 vs. 2.65) than when the con-
-
-#### Manipulation Check of Perceptions of Confederate's Pleasantness by Experimental Condition\*
-
-| | Hi<br>Pleasa<br>Cond | ntness | Low<br>Pleasantness<br>Conditions | | | | |
-|-------------------------------------------------------------------------------------|-------------------------|-----------------------|-----------------------------------|------------------------|----------------------------|-----------------|--------------------|
-| | High | High | Low | Low | Chi-squared test | | est<br> |
-| | pleasant<br>high energy | pleasant<br>lowenergy | pleasant<br>high energy | pleasant<br>low energy | High vs.<br>Iow | High vs.<br>low | Interaction |
-| Confederate Affective Behavior | Group 1<br>(N = 23) | Group 2<br>(N = 21) | Group 3<br>(N = 24) | Group 4<br>(N = 23) | pleasantness<br>conditions | ٥, | between conditions |
-| Participant's perceptions<br>of confederate's<br>pleasantness | 6.95 | 6.29 | 4.13 | 3.65 | 42.67*** | 1.85 | .04 |
-| <ol> <li>Participant's perceptions<br/>of confederate's energy<br/>level</li> </ol> | 6.98 | 4.14 | 8.38 | 2.65 | .02 | 152.52*** | 17.31 ••• |
-
-p < .05; p < .01; p < .001; two-tailed test.
-
-federate was pleasant (6.98 vs. 4.14). Because this difference in perceptions of the confederate's energy was unexpected, I controlled for it in all of the hypothesis-testing analyses by including it as a covariate at the individual level, and it did not change the results. Table 2 reports the means and standard deviations of each of the variables and their correlations.
-
-Emotional contagion.<sup>3</sup> Hypothesis 1 examined whether emotional contagion would occur in the groups at the individual level and at the group level. Video-coder ratings of participants' Time 2 mood and participants' self-reported change in mood were used to operationalize participants' emotional contagion.
+p 3 Hypothesis 1 examined whether emotional contagion would occur in the groups at the individual level and at the group level. Video-coder ratings of participants' Time 2 mood and participants' self-reported change in mood were used to operationalize participants' emotional contagion.
 
 Hypothesis 1 was first tested by comparing video-coders' ratings of participants' Time 2 pleasant mood across the experimental conditions. Participants were not video-taped before beginning the experiment (Time 1), so change scores could not be analyzed; nonetheless, because participants were randomly assigned to experimental conditions, differences in Time 2 video-coders' ratings of participants' pleasant mood can be inferred to represent differences due to the experimental manipulations. To be more conservative, preexisting differences in Time 1 self-reported pleasant mood was included as a covariate at the individual level (none of the demographic or task control variables were significant covariates). Supporting hypothesis 1, this analysis showed a main effect of confederate pleasantness on ratings of participants' pleasant mood, as shown in table 3. Video-coders rated the mood of participants who were with a pleasant confederate as more positive than the mood of participants who were with a negative confederate (means = 2.75 versus 2.33). Neither confederate energy level nor the interaction of confederate pleasantness and energy significantly influenced participants' displayed pleasant mood.
 
@@ -231,7 +201,7 @@ Hypothesis 1 was also tested with participants' self-reported contagion, and for
 
 The results reported here have experimental condition as the independent variable. The same results were found using subjects' perceptions of the confederate's valence and energy as the predictor variables.
 
-<sup>\*</sup> Means in table are ratings given by subjects and video-coders of the confederate's level of pleasantness.
+\* Means in table are ratings given by subjects and video-coders of the confederate's level of pleasantness.
 
 ## Table 2
 
@@ -247,7 +217,7 @@ The results reported here have experimental condition as the independent variabl
 | (self-report) | 0.70 | | (93) | (93) | | (91) | (91) |
 | 6. Time 2 pleasant mood | 6.85 | .98 | .20° | 13 | | .24** | 17 |
 | (self-report) | 0.00 | .00 | (93) | (93) | | (91) | (91) |
-| 7. Time 2 pleasant mood minus | .08 | 1.07 | .31*** | 21 ** | | .19 <b>•</b> | 30*** |
+| 7. Time 2 pleasant mood minus | .08 | 1.07 | .31*** | 21 ** | | .19 • | 30*** |
 | Time 1 pleasant mood (self-report) | .00 | 1.07 | (93) | (93) | | (91) | (91) |
 | 8. Video-coder rating of participant Time 2 | 2.56 | .50 | .45 | .06 | | .36**** | 01 |
 | pleasant mood | 2.00 | .00 | (93) | (93) | | (90) | (90) |
@@ -267,26 +237,18 @@ The results reported here have experimental condition as the independent variabl
 | (self-report) | (93) | | | | | | |
 | 7. Time 2 pleasant mood minus | 56**** | .51**** | _ | | | | |
 | Time 1 pleasant mood (self-report) | (93) | (93) | | | | | |
-| 8. Video-coder rating of participant Time 2 | .02 | .25** | .21 <b>°°</b> | _ | | | |
+| 8. Video-coder rating of participant Time 2 | .02 | .25** | .21 °° | _ | | | |
 | pleasant mood | (92) | (92) | (92) | | | | |
-| Participant's rating of own | .19 <b>°</b> | .39**** | .18 <b>°</b> | .22** | | | |
+| Participant's rating of own | .19 ° | .39**** | .18 ° | .22** | | | |
 | cooperative behavior | (93) | (93) | (93) | (92) | | | |
-| 10. Others' ratings of | 11 | .11 | .21 <b>••</b> | .23** | .30*** | | |
+| 10. Others' ratings of | 11 | .11 | .21 •• | .23** | .30*** | | |
 | participant's cooperative behavior | (92) | (92) | (92) | (92) | (90) | | |
-| 11. Participant's rating of own | .08 | .55*** | .43**** | .17 | .23** | .18 <b>°</b> | |
+| 11. Participant's rating of own | .08 | .55*** | .43**** | .17 | .23** | .18 ° | |
 | performance (z-score) | (93) | (93) | (93) | (92) | (91) | (93) | |
-| 12. Others' ratings of | 03 | .16 | .17● | .17 <b>°</b> | .03 | .40 | .40° |
+| 12. Others' ratings of | 03 | .16 | .17● | .17 ° | .03 | .40 | .40° |
 | 12. Others ratings of | (92) | (92) | (92) | (92) | (92) | (93) | (92) |
 
-$<sup>^{\</sup>bullet}p$ < .10; $^{\bullet\bullet}p$ < .05; $^{\bullet\bullet\bullet}p$ < .01; $^{\bullet\bullet\bullet\bullet}p$ < .001; two-tailed test.
-
-ships between amount of change and initial mood, participants' Time 1 mood was included as a covariate at the individual level (none of the demographic or task control variables were found to be significant covariates). Table 3 shows that the self-report results support the video-coder results. The mood of participants who were with the pleasant confederate became more positive over time (mean change = +.41), whereas the mood of participants who were with the unpleasant confederate became more negative over time (mean change = -.26), and these changes were significantly different from each other. In addition, there was an unexpected main effect for energy in the analysis of mood change. Low-energy groups tended to become more positive over time (mean change = +.30) compared with high-energy groups (mean change = .14). There was no interaction of mood from Time 1 to Time 2.4 To control for possible relation-
-
-using Time 2 pleasant mood as the outcome variable predicted by Time 1 pleasant mood and experimental condition, and the results were the same as those reported here.
-
-## All the analyses were also conducted
-
-<sup>\*</sup> Number of subjects in parentheses. These correlations are based on single-level analysis, pooled estimates of variance.
+$^{\bullet}p$ \* Number of subjects in parentheses. These correlations are based on single-level analysis, pooled estimates of variance.
 
 ## Table 3
 
@@ -295,74 +257,68 @@ using Time 2 pleasant mood as the outcome variable predicted by Time 1 pleasant 
 | | High Low Confederate Confederate Pleasantness Pleasantness | | derate | | | | |
 |--------------------------------------|------------------------------------------------------------|--------------------|--------------------|--------------------|-------------------------|--------|-------------|
 | | Low | High | Low | High | Chi-square Test | | est |
-| Variable | energy | energy<br>(N = 23) | energy<br>(N = 22) | energy<br>(N = 24) | Confederate Confederate | | |
+| Variable | energy | energy
+(N = 23) | energy
+(N = 22) | energy
+(N = 24) | Confederate Confederate | | |
 | | (N = 23) | | | | pleasantness | energy | Interaction |
 | Video-coder ratings of participant's | 2.76 | 2.75 | 2.25 | 2.41 | 10.30*** | .33 | .40 |
 | emotional contagion | (.51) | (.51) | (.37) | (.40) | | | |
-| Self-ratings of emotional contagion | .66 | .16 | 07 | 44 | 9.97 <b>***</b> | 4.24° | .10 |
+| Self-ratings of emotional contagion | .66 | .16 | 07 | 44 | 9.97 *** | 4.24° | .10 |
 ## | - | (1.16) | (1.11) | (.99) | (1.04) | | | |
 
-<sup>•</sup> p < .05; •• p < .01; ••• p < .005; two-tailed test.
+• p •p \* Unstandardized beta coefficients. Standard errors are in parentheses. All analyses control for participants' self-reported Time 1 pleasant mood.
 
-\* Unstandardized bota coefficients C:
-
-energy and pleasantness in the analysis of this measure. Thus, on the individual level, support for hypothesis 1 was found using both the video-coder and self-report measures of emotional contagion.
-
-Hypothesis 1 was also strongly supported at the group level, using aggregated self-report and video-coder ratings of individuals' emotional contagion, as well as overall ratings of group pleasantness made by both video-coders and members of the group. First, as shown in table 4, significant differences across experimental conditions in emotional contagion were found as operationalized by the aggregated video-coder ratings of participants' emotional contagion in each group and the aggregated group mean of participants' self-reports of contagion. For the aggregated video-coder ratings, there was
-
-## Table 4
-
-## ANCOVA Results of Effects of Confederate's Emotion on Subjects' Group-level Contagion of Pleasant Mood\*
-
-| | Confe | igh<br>derate<br>intness | Confe | ow<br>ederate<br>antness | | | |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|--------------------------|--------------------------|--------------------------|---------------|-----------------------------------|-------------|
-| Variable | • • • • • • • • • • • • • • • • • • • • | • | Low<br>energy<br>(N = 8) | 0, | Confederate C | F - test<br>Confederate<br>energy | Interaction |
-| Aggregated video-coder ratings of participants' emotional contagion (mean of the video-coder's aggregated group rating of participants' Time 2 pleasant mood) | 2.70<br>(.42) | 2.75<br>(.37) | 2.24 (.31) | 2.43 (.30) | 10.30 | .33 | .40 |
-| Aggregated self-ratings of emotion contagion<br>(mean of the groups' participants' Time 2<br>pleasant mood minus Time 1 pleasant mood) | .57<br>(.72) | .17<br>(.26) | .03<br>(.42) | 39<br>(.63) | 8.41 ••• | 5.36° | .00 |
-| Video-coders' ratings of overall group pleasantness | 4.31<br>(.93) | 4.83<br>(.98) | 3.14<br>(.79) | 2.81<br>(.98) | 20.68*** | .08 | 1.51 |
-| Group members' ratings of overall group pleasantness | 5.73<br>(.62) | 5.42<br>(.67) | 4.61<br>(.94) | 4.45<br>(1.05) | 10.10 | .47 | .09 |
-
-<sup>•</sup>p < .05; ••p < .01; •••p < .005; two-tailed test.
-
-<sup>\*</sup> Unstandardized beta coefficients. Standard errors are in parentheses. All analyses control for participants' self-reported Time 1 pleasant mood.
-
-<sup>\*</sup> Unstandardized beta coefficients. Standard errors are in parentheses. All analyses control for participants' self-reported Time 1 pleasant mood.
+\* Unstandardized beta coefficients. Standard errors are in parentheses. All analyses control for participants' self-reported Time 1 pleasant mood.
 
 no significant effect of experimental condition on ratings of confederate energy and no interaction effect. For the self-report ratings, there was a significant effect of confederate energy on self-reported contagion in pleasant mood.
 
 I then examined the effect of the experimental condition on overall group ratings of pleasantness as rated by outside video-coders, as well as the overall group ratings of pleasantness by members of the group themselves. As shown in table 4, both measures were significantly influenced by experimental condition, with ratings of group mood being higher in the high-versus-low-confederate-pleasantness conditions, no significant effect of confederate energy, and no interaction effect. There were no significant effects of the demographic or task control variables in any of these group-level analyses. In sum, hypothesis 1, that there would be contagion of mood among group members, was strongly supported at both the individual and group level, using both video-coder and self-report data.
 
-I first tested hypothesis 2, that unpleasant emotion would lead to greater contagion than would pleasant emotion, by examining the linear trend of video-coders' ratings of participants' mood (rated every two minutes) across the second half of the experiment, comparing the slopes of change in pleasant mood. Using a three-level model (observations nested within people and people nested within groups), a coefficient representing the linear trend between time of assessment and pleasantness was estimated for each person, and group differences in this relationship were examined across experimental conditions. These analyses showed no significant difference between the degree of contagion in the two pleasantness conditions as compared with the two unpleasantness conditions ( $\chi^2$ < 1). Non-significant results were also found in analyses of the self-report data, taking into account both individual- and group-level effects and controlling for Time 1 mood, comparing the absolute value of the change in pleasant emotion (contagion) in the second half of the pleasantness conditions (x = .41) versus the unpleasantness (x = .41) -.57) conditions ( $\chi^2 < 1$ ).
+I first tested hypothesis 2, that unpleasant emotion would lead to greater contagion than would pleasant emotion, by examining the linear trend of video-coders' ratings of participants' mood (rated every two minutes) across the second half of the experiment, comparing the slopes of change in pleasant mood. Using a three-level model (observations nested within people and people nested within groups), a coefficient representing the linear trend between time of assessment and pleasantness was estimated for each person, and group differences in this relationship were examined across experimental conditions. These analyses showed no significant difference between the degree of contagion in the two pleasantness conditions as compared with the two unpleasantness conditions ( $\chi^2$ 2
 
-The same HLM three-level multilevel models used to analyze the video-coder ratings to test hypothesis 2 were used to test hypothesis 3, on the effect on contagion of the energy level with which the emotion was expressed. I examined whether the emotional contagion trend in the two-minute video-coders' ratings of participants' mood across the second half of the experiment would be significantly greater when the same valenced emotion was expressed with more energy and found no significant difference in comparing high-vs.-low-energy/pleasantness conditions ( $\chi^2 < 1$ ). There were also no significant differences due to energy level on contagion found with the self-report data. Thus hypothesis 3 was not supported.
-
-Influence of emotional contagion on group processes. I next examined the influence of participants' emotional contagion on a variety of individual and group-level processes, using both video-coder and self-report operationalizations of emotional contagion. I also used video-coder, self-report, and other group members' assessments as the dependent variables. I first tested hypothesis 4, that positive emotional contagion will lead to greater cooperativeness, on an individual level. As shown in table 5, controlling for a participant's self-report of mood at Time 1 and percentage of funds received (other control variables were not significant), a participant's self-report ratings of emotional contagion were significantly related to self and other group members' assessments of his or her cooperative behavior in the group (models 2 and 4). Video-coder ratings were significantly related to other group members' assessments of the participant's cooperative behavior (model 3), but not to a participant's own assessment of his or her cooperative behavior (model 1).
-
-I next tested hypothesis 4 at the group level. The multilevel HLM framework tests cross-level relationships but not exclusively group-level relationships. To do so, I calculated grouplevel summary measures for the predictor variables (i.e., an aggregate of participants' self-reported pleasant mood contagion and an aggregate of video-coders' ratings of participants' pleasant mood contagion). As no demographic or task variables were significantly related to the group-process ratings, I conducted zero-order correlations between the two grouplevel contagion measures and group processes, which are displayed in table 6. Aggregated video-coder ratings of the groups' contagion correlated significantly with video-coder ratings of group-level cooperativeness, and aggregated selfreports of group contagion correlated marginally significantly with these ratings as well. Cooperativeness, operationalized as having a smaller standard deviation of percentage of funds distributed, was also significantly related to video-coders' ratings of group contagion in the predicted direction: the greater the contagion, the smaller the standard deviation of distributed funds. Overall, individual- and group-level findings support hypothesis 4.
-
-## .04
-
-## .04
-
-## .02
-
-## Table 5
-
-## Overall model R<sup>2</sup>
-
-| rooj<br>cooj | ating<br>fown<br>perative | mem<br>ratir<br>subj<br>coope | bers' ng of Subject's ect's rating erative of own | | ting<br>own | Group<br>members'<br>rating of<br>subject's<br>performance | |
+| rooj
+cooj | ating
+fown
+perative | mem
+ratir
+subj
+coope | bers' ng of Subject's ect's rating erative of own | | ting
+own | Group
+members'
+rating of
+subject's
+performance | |
 |---------------|---------------------------------------------------|----------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Model | 1 Model 2 | Model 3 | Model 4 | Model 5 | Model 6 | Model 7 | Model 8 |
 | | | | | | | | |
-| 0.27<br>(.20) | .76****<br>(.20) | 18<br>(.10) | .22<br>(.19) | .03<br>(.10) | .27***<br>(.10) | -1.38<br>(1.34) | 1.85<br>(1.64) |
+| 0.27
+(.20) | .76****
+(.20) | 18
+(.10) | .22
+(.19) | .03
+(.10) | .27***
+(.10) | -1.38
+(1.34) | 1.85
+(1.64) |
 | -1.20 | -1.51 | 2.24 | 1.79 | 2.88 | 2.39 | 4.34 | 10.28 |
 | (3.22) | (3.23) | (1.49) | (1.62) | (1.24) | (1.14) | (22.52) | (18.27) |
 | | | | | | | | |
 | 1.09 | _ | 1.41 •• | _ | .31 | | 12.08 | |
 | (.79) | | (.57) | | (.30) | | (4.90) | |
-| | .73*** | | .47 <b>**</b> | | .38*** | | 3.96° |
+| | .73*** | | .47 ** | | .38*** | | 3.96° |
 | t | (.30) | | (.22) | | (.13) | | (2.17) |
-| | 0.27<br>(.20)<br>-1.20<br>(3.22)<br>1.09<br>(.79) | (.20) (.20)<br>-1.20 -1.51<br>(3.22) (3.23)<br>1.09 —<br>(.79)<br>73 | Subject's memorating rating of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own s | rating of subject's cooperative behavior behavior Model 1 Model 2 Model 3 Model 4 0.27 .76 | Subject's rating members' rating of subject's rating of of own subject's rating of behavior Subject's rating of cooperative of behavior Subject's rating of subject's rating of operative of perform of behavior Model 1 Model 2 Model 3 Model 4 Model 5 Model 3 Model 4 Model 5 0.27 .76 (.20) (.20) (.10) (.19) (.10) (.19) (.10) (.10) (.19) (.10) (.10) (.120) (.124) (.162) (.124) 0.224 1.79 2.88 (.124) (.162) (.124) (.162) (.124) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.16 | Subject's rating members' rating of subject's rating of own subject's rating of own behavior Subject's rating of own performance cooperative behavior cooperative performance Model 1 Model 2 Model 3 Model 4 Model 5 Model 6 0.27 .76 *** -18 .22 .03 .27 *** (.20) (.20) (.10) (.19) (.10) (.10) (.10) (.10) (.10) (.120) -1.51 .2.24 1.79 2.88 ** 2.39 *** (3.22) (3.23) (1.49) (1.62) (1.24) (1.14) 1.09 — 1.41 ** — .31 — (.79) (.57) (.30) — .73 ***47 ** — .38 *** | Subject's rating members' rating of of own subject's rating Subject's rating rating of own subject's rating Subject's rating rating of own subject's rating of own subject's performance Model of own subject's rating of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject |
+| | 0.27
+(.20)
+-1.20
+(3.22)
+1.09
+(.79) | (.20) (.20)
+-1.20 -1.51
+(3.22) (3.23)
+1.09 —
+(.79)
+73 | Subject's memorating rating of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own s | rating of subject's cooperative behavior behavior Model 1 Model 2 Model 3 Model 4 0.27 .76 | Subject's rating members' rating of subject's rating of of own subject's rating of behavior Subject's rating of cooperative of behavior Subject's rating of subject's rating of operative of perform of behavior Model 1 Model 2 Model 3 Model 4 Model 5 Model 3 Model 4 Model 5 0.27 .76 (.20) (.20) (.10) (.19) (.10) (.19) (.10) (.10) (.19) (.10) (.10) (.120) (.124) (.162) (.124) 0.224 1.79 2.88 (.124) (.162) (.124) (.162) (.124) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.162) (.16 | Subject's rating members' rating of subject's rating of own subject's rating of own behavior Subject's rating of own performance cooperative behavior cooperative performance Model 1 Model 2 Model 3 Model 4 Model 5 Model 6 0.27 .76 *** -18 .22 .03 .27 *** (.20) (.20) (.10) (.19) (.10) (.10) (.10) (.10) (.10) (.120) -1.51 .2.24 1.79 2.88 ** 2.39 *** (3.22) (3.23) (1.49) (1.62) (1.24) (1.14) 1.09 — 1.41 ** — .31 — (.79) (.57) (.30) — .73 ***47 ** — .38 *** | Subject's rating members' rating of of own subject's rating Subject's rating rating of own subject's rating Subject's rating rating of own subject's rating of own subject's performance Model of own subject's rating of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject of own subject |
 
 HLM Regression of Subjects' Emotional Contagion on Individual Cooperation and Task Performance\*
 
@@ -370,35 +326,10 @@ HLM Regression of Subjects' Emotional Contagion on Individual Cooperation and Ta
 
 ## .12
 
-p < .10; p < .05; p < .05; p < .01; p < .005; two-tailed tests.
+p - .37 •• | 19 | 26 | |
+| 5. Video-coder ratings of group conflict | 3.71 | .97 | 42 ●● | 48 ** | −.92 •••• | .30 |
 
-Unstandardized beta coefficients. Standard errors are in parentheses.
-
-## Table 6
-
-| Means, Standard Deviations, and Intercorrelations of Group-level Contagion Measures and Group-level | l |
-|-----------------------------------------------------------------------------------------------------|---|
-## | Processes (N = 26)* | |
-
-| Variable | Mean | S. D. | 11 | 2 | 3 | 4 |
-|----------------------------------------------------------------------------------------------------------------------|------|------|------------------------|--------------|------------------|-----|
-| Group contagion: Video-coder ratings<br>(aggregated group mean of video-coder<br>ratings of participants' contagion) | 2.52 | .40 | | | | |
-| Group contagion: Self-report (aggregated group mean of participants' self-reported contagion) | .12 | .67 | .29 | | | |
-| Video-coder ratings of group cooperativeness | 4.07 | .85 | .44 •• | .34• | | |
-| Standard deviation of percentage of funds distributed in group | .06 | .04 | <b>-</b> .37 <b>••</b> | 19 | 26 | |
-| 5. Video-coder ratings of group conflict | 3.71 | .97 | 42 <sup>●●</sup> | 48 <b>**</b> | −.92 <b>••••</b> | .30 |
-
-p < .10; p < .05; p < .05; p < .01; p < .00; two-tailed tests.
-
-The results also support hypothesis 5, that positive emotional contagion will lead to less group conflict. As seen in table 6, both aggregated video-coders' ratings of positive emotional contagion and aggregated self-reported positive emotional contagion were significantly negatively correlated with video-coders' ratings of group conflict.
-
-Lastly, I tested hypothesis 6, that positive emotional contagion would lead to greater individual task performance. Controlling for the participant's pleasant mood at Time 1 and the percentage of money received in the exercise (none of the other task or demographic control variables were significant), regression analyses showed there was a significant relationship between video-coder ratings of emotional contagion and other group members' assessments of a participant's task performance (table 5, model 7), but not participants' own assessments of their task performance (table 5, model 5). The same analyses, with self-reported emotional contagion as a predictor showed a significant positive relationship between participants' own assessments of performance (table 5, model 6) and a marginally significant positive relationship with other group members' assessments of the participant's task performance (see table 5, model 8). Thus, overall support was found for hypothesis 6 across self- and other ratings of performance.
-
-#### **DISCUSSION**
-
-This study showed that emotional contagion does occur in groups and inasmuch as emotional contagion changes people's moods and serves as affective information, people are "walking mood inductors," continuously influencing the moods and then the judgments and behaviors of others. There was a robust finding of group contagion, with support for the existence of contagion coming from both outside video-coders' ratings and participants' self-reports of mood. No support was found, however, for the hypothesized differences in degree of contagion as a function of the emotional valence and the energy level with which this valence is displayed: contagion of positive mood was as powerful as contagion of negative mood, and energy had either mixed or no effects on contagion. Examining the influence of social con-
-
-<sup>\*</sup> Correlations are based on pooled estimates of variance.
+p \* Correlations are based on pooled estimates of variance.
 
 text may help to determine why the predicted valence and energy hypotheses were not supported. With regard to emotional valence, unpleasant emotions may not have been as powerful as expected because of the non-normative nature of unpleasant behavior, particularly in this student task. Although the confederate behaved within the realm of plausible behavior, participants may have found his behavior inappropriately hostile and thus paid less attention to his behavior than would usually occur (given that there was still a main effect of emotional contagion).
 

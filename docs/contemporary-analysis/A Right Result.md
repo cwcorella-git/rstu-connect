@@ -1,3 +1,8 @@
+---
+title: "## **A Right Result**"
+category: "contemporary-analysis"
+---
+
 ## **A Right Result**
 
 ## **Date:** Unknown

@@ -1,3 +1,8 @@
+---
+title: "**Episode 49: Corbin And Jung/**"
+category: "contemporary-analysis"
+---
+
 # **Episode 49: Corbin And Jung/**
 
 **Source:** https://www.meaningcrisis.co/ep-49-awakening-from-the-meaning-crisis-corbin-and-jung/

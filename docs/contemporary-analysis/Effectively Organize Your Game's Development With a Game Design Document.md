@@ -1,3 +1,8 @@
+---
+title: "Effectively Organize Your Game's Development With a Game Design Document"
+category: "contemporary-analysis"
+---
+
 #### [code.tutsplus.com](https://code.tutsplus.com/articles/effectively-organize-your-games-development-with-a-game-design-document--active-10140?_ga=2.242661890.1038716832.1512313245-1947486587.1512313245)
 
 # Effectively Organize Your Game's Development With a Game Design Document

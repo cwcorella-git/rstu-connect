@@ -1,3 +1,8 @@
+---
+title: "U N I V E R S A L R E N D E R P I P E L I N E F O R A D V A N C E D UNIT Y CREATORS"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_2.jpeg)
 
 ## **INTRODUCTION TO THE**
@@ -11,25 +16,31 @@
 | Introduction 5 |
 |------------------------------------------------------------------------------|
 | Author and contributors 7 |
-| Evolution of rendering: From Built-in Render<br>Pipeline to SRP 8 |
+| Evolution of rendering: From Built-in Render
+Pipeline to SRP 8 |
 | Why choose URP 10 |
 | The conversion process 12 |
 | How to open a new URP project 13 |
-| How to add URP to an existing Built-in Render<br>Pipeline project 15 |
+| How to add URP to an existing Built-in Render
+Pipeline project 15 |
 | Converting the scenes of an existing project 19 |
 | Converting custom shaders 20 |
-| Comparing Quality options between the Built-in Render<br>Pipeline and URP 22 |
+| Comparing Quality options between the Built-in Render
+Pipeline and URP 22 |
 | Built-in Render Pipeline to URP: Low settings 22 |
 | Built-in Render Pipeline to URP: High settings 24 |
 | How to work with Quality settings 26 |
 | Quality settings when using URP 26 |
 | Modifying a URP Asset 28 |
-| Converting an example project from the Built-in Render<br>Pipeline to URP 29 |
+| Converting an example project from the Built-in Render
+Pipeline to URP 29 |
 | Lighting in URP 33 |
 | URP shaders for lit scenes 35 |
-| Built-in Render Pipeline vs URP lighting falloff and<br>attenuation 35 |
+| Built-in Render Pipeline vs URP lighting falloff and
+attenuation 35 |
 | Lighting overview 37 |
-| Camera light limits when using the URP<br>Forward Renderer 37 |
+| Camera light limits when using the URP
+Forward Renderer 37 |
 ## | Light Inspector 39 |
 
 | Lighting a new scene 41 |
@@ -344,14 +355,17 @@ If you select the **Rendering Settings** option while using the Render Pipeline 
 
 #### Built-in Render Pipeline to URP: Low settings
 
-| Setting | Built-in Render<br>Pipeline | URP | URP Asset settings |
+| Setting | Built-in Render
+Pipeline | URP | URP Asset settings |
 |----------------------------------------|-----------------------------|--------------------------|--------------------|
 | Rendering | | | |
-| Pixel Light Count | 0 | Not applicable<br>(NA) * | NA |
+| Pixel Light Count | 0 | Not applicable
+(NA) * | NA |
 | Anti-aliasing | Disabled | NA | Disabled |
 | Render Scale | NA | NA | 1 |
 | Real-time Reflection Probes | No | No | |
-| Resolution Scaling Fixed<br>DPI Factor | 1 | 1 | NA |
+| Resolution Scaling Fixed
+DPI Factor | 1 | 1 | NA |
 | VSync Count | Don't sync | Don't sync | |
 | Depth Texture | NA | NA | No |
 | Opaque Texture | NA | NA | No |
@@ -366,11 +380,13 @@ If you select the **Rendering Settings** option while using the Render Pipeline 
 | Soft Particles | No | NA | NA |
 | Particle Raycast Budget | 16 | 16 | NA |
 | Terrain | | | |
-| Billboards Face Camera<br>Position | No | No | NA |
+| Billboards Face Camera
+Position | No | No | NA |
 
 © 2022 Unity Technologies **22 of 125** | unity[.com](https://unity.com/)
 
-| Setting | Built-in Render<br>Pipeline | URP | URP Asset settings |
+| Setting | Built-in Render
+Pipeline | URP | URP Asset settings |
 |--------------------------------|-----------------------------|------------|--------------------|
 | Shadows | | | |
 | Shadowmask Mode | Shadowmask | Shadowmask | NA |
@@ -411,22 +427,27 @@ If you select the **Rendering Settings** option while using the Render Pipeline 
 | Post-processing | | | |
 | Grading Mode | NA | NA | Low Dynamic Range |
 | LUT size | NA | NA | 16 |
-## | Fast sRGB/Linear<br>conversion | NA | NA | No |
+## | Fast sRGB/Linear
+conversion | NA | NA | No |
 
-<sup>\*</sup> In URP, Pixel Light Count is handled using **Additional Lights > (Per pixel ) > Per Object Limit**.
+\* In URP, Pixel Light Count is handled using **Additional Lights > (Per pixel ) > Per Object Limit**.
 
 © 2022 Unity Technologies **23 of 125** | unity[.com](https://unity.com/)
 
 #### Built-in Render Pipeline to URP: High settings
 
-| Setting | Built-in Render<br>Pipeline | URP | URP Asset settings | | |
+| Setting | Built-in Render
+Pipeline | URP | URP Asset settings | | |
 |----------------------------------------|-----------------------------|------------------------|--------------------|--|--|
 | Rendering | | | | | |
-| Pixel Light Count | 2 | Not applicable<br>(NA) | NA | | |
+| Pixel Light Count | 2 | Not applicable
+(NA) | NA | | |
 | Anti-aliasing | Disabled | NA | 2x | | |
 | Render Scale | NA | NA | 1 | | |
-| Real-time Reflection<br>Probes | Yes | Yes | NA | | |
-| Resolution Scaling Fixed<br>DPI Factor | 1 | 1 | NA | | |
+| Real-time Reflection
+Probes | Yes | Yes | NA | | |
+| Resolution Scaling Fixed
+DPI Factor | 1 | 1 | NA | | |
 | VSync Count | Every V Blank | Every V Blank | NA | | |
 | Depth Texture | NA | NA | No | | |
 | Opaque Texture | NA | NA | No | | |
@@ -441,11 +462,16 @@ If you select the **Rendering Settings** option while using the Render Pipeline 
 | Soft Particles | No | NA | NA | | |
 | Particle Raycast Budget | 256 | 256 | NA | | |
 | Terrain | | | | | |
-| Billboards Face Camera<br>Position | Yes | Yes | NA | | |
+| Billboards Face Camera
+Position | Yes | Yes | NA | | |
 | Shadows | | | | | |
-| Shadowmask Mode | Distance<br>Shadowmask | Distance<br>Shadowmask | NA | | |
-| Shadows | Hard and Soft<br>Shadows | NA | NA | | |
-| Shadow Resolution | Medium<br>resolution | NA | 2048 | | |
+| Shadowmask Mode | Distance
+Shadowmask | Distance
+Shadowmask | NA | | |
+| Shadows | Hard and Soft
+Shadows | NA | NA | | |
+| Shadow Resolution | Medium
+resolution | NA | 2048 | | |
 | Shadow Projection | Stable fit | NA | NA | | |
 | Shadow Distance | 40 | NA | 50 | | |
 | Shadow Near Plane Offset | 3 | NA | NA | | |
@@ -455,7 +481,8 @@ If you select the **Rendering Settings** option while using the Render Pipeline 
 
 © 2022 Unity Technologies **24 of 125** | unity[.com](https://unity.com/)
 
-| Setting | Built-in Render<br>Pipeline | URP | URP Asset settings |
+| Setting | Built-in Render
+Pipeline | URP | URP Asset settings |
 |--------------------------------|-----------------------------|-----------|----------------------|
 | Depth Bias | NA | NA | 1 |
 | Normal Bias | NA | NA | 1 |
@@ -484,9 +511,11 @@ If you select the **Rendering Settings** option while using the Render Pipeline 
 | • Probe Blending | NA | NA | Yes |
 | • Box Projection | NA | NA | No |
 | Post-processing | | | |
-| Grading Mode | NA | NA | Low Dynamic<br>Range |
+| Grading Mode | NA | NA | Low Dynamic
+Range |
 | LUT size | NA | NA | 32 |
-## | Fast sRGB/Linear<br>conversion | NA | NA | No |
+## | Fast sRGB/Linear
+conversion | NA | NA | No |
 
 © 2022 Unity Technologies **25 of 125** | unity[.com](https://unity.com/)
 
@@ -501,7 +530,8 @@ Quality settings were previously handled in the Quality panel of the Project Set
 | Rendering | | |
 | Anti-aliasing | | √ |
 | Render Scale | | √ |
-| Resolution Scaling<br>Fixed DPI Factor | √ | |
+| Resolution Scaling
+Fixed DPI Factor | √ | |
 | VSync Count | √ | |
 | Depth Texture | | √ |
 | Opaque Texture | | √ |
@@ -515,7 +545,8 @@ Quality settings were previously handled in the Quality panel of the Project Set
 | Particles | | |
 | Particle Raycast Budget | √ | |
 | Terrain | | |
-| Billboards Face<br>Camera Position | √ | |
+| Billboards Face
+Camera Position | √ | |
 | Shadows | | |
 | Shadowmask Mode | √ | |
 | Shadow Resolution | | √ |
@@ -557,7 +588,8 @@ Quality settings were previously handled in the Quality panel of the Project Set
 | Post-processing | | |
 | Grading Mode | | √ |
 | LUT size | | √ |
-## | Fast sRGB/Linear<br>conversion | | √ |
+## | Fast sRGB/Linear
+conversion | | √ |
 
 © 2022 Unity Technologies **27 of 125** | unity[.com](https://unity.com/)
 
@@ -667,12 +699,31 @@ As the focus here is on lighting, the methods apply to materials that use the sh
 
 | Shader | Description |
 |-------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Complex Lit | This shader has all the features of the Lit Shader. Select it<br>when using the Clear Coat option to give a metallic sheen to<br>a car, for example. The specular reflection is calculated twice<br>– once for the base layer, and again to simulate a transparent<br>thin layer on top of the base layer. |
-| Lit | The Lit Shader lets you render real-world surfaces, such as<br>stone, wood, glass, plastic, and metals with photorealistic<br>quality. The light levels and reflections look lifelike and react<br>across various lighting conditions, from bright sunlight to a<br>dark cave. |
-| | This is the default choice for most materials that use lighting.<br>It supports baked, mixed, and real-time lighting, and works<br>with Forward or Deferred rendering. |
-| | It is a physically based shading (PBS) model. Due to the<br>complexity of the shading calculations, it's best to avoid<br>using this shader on low-end mobile hardware. |
-| Simple Lit | This shader is not physically based. It uses a non-energy<br>conserving Blinn-Phong shading model and gives a less<br>photorealistic result. Nonetheless, it can provide an excellent<br>visual appearance. It is more suited to use on non-physically<br>based projects when targeting low-end mobile devices. |
-| Baked Lit | This shader provides a performance boost for objects that<br>don't need to support real-time lighting, including distant<br>static objects that will never be affected by dynamic objects,<br>real-time lights, or dynamic shadows. |
+| Complex Lit | This shader has all the features of the Lit Shader. Select it
+when using the Clear Coat option to give a metallic sheen to
+a car, for example. The specular reflection is calculated twice
+– once for the base layer, and again to simulate a transparent
+thin layer on top of the base layer. |
+| Lit | The Lit Shader lets you render real-world surfaces, such as
+stone, wood, glass, plastic, and metals with photorealistic
+quality. The light levels and reflections look lifelike and react
+across various lighting conditions, from bright sunlight to a
+dark cave. |
+| | This is the default choice for most materials that use lighting.
+It supports baked, mixed, and real-time lighting, and works
+with Forward or Deferred rendering. |
+| | It is a physically based shading (PBS) model. Due to the
+complexity of the shading calculations, it's best to avoid
+using this shader on low-end mobile hardware. |
+| Simple Lit | This shader is not physically based. It uses a non-energy
+conserving Blinn-Phong shading model and gives a less
+photorealistic result. Nonetheless, it can provide an excellent
+visual appearance. It is more suited to use on non-physically
+based projects when targeting low-end mobile devices. |
+| Baked Lit | This shader provides a performance boost for objects that
+don't need to support real-time lighting, including distant
+static objects that will never be affected by dynamic objects,
+real-time lights, or dynamic shadows. |
 
 #### Built-in Render Pipeline vs URP lighting falloff and attenuation
 
@@ -710,14 +761,28 @@ Later in the guide, you'll learn how to use the URP Asset settings to set the nu
 
 #### Camera light limits when using the URP Forward Renderer
 
-| Light type | Category | Maximum<br>possible<br>lights<br>rendered<br>(non-mobile) | Maximum<br>possible<br>lights<br>rendered<br>(mobile) | Maximum<br>possible<br>lights<br>rendered<br>(OpenGLES<br>2.0) | Supports<br>shadows |
+| Light type | Category | Maximum
+possible
+lights
+rendered
+(non-mobile) | Maximum
+possible
+lights
+rendered
+(mobile) | Maximum
+possible
+lights
+rendered
+(OpenGLES
+2.0) | Supports
+shadows |
 |-------------|------------|-----------------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------|---------------------|
 | Directional | Main | 1 | 1 | 1 | True |
 | Spot | Additional | 256* | 32* | 16* | True |
 | Point | Additional | 256* | 32* | 16* | True |
 | Directional | Additional | 256* | 32* | 16* | False |
 
-<sup>\*</sup> All Additional Lights share the same budget.
+\* All Additional Lights share the same budget.
 
 © 2022 Unity Technologies **37 of 125** | unity[.com](https://unity.com/)
 
@@ -764,15 +829,51 @@ The image above shows how light properties are presented in the two versions of 
 
 This table lists the differences between the URP and Built-in Render Pipeline Inspectors.
 
-| URP Light Inspector<br>properties | Description | Built-in Render<br>Pipeline Light<br>Inspector properties |
+| URP Light Inspector
+properties | Description | Built-in Render
+Pipeline Light
+Inspector properties |
 |-----------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
-| Light Appearance | Choose between Color<br>or Filter and Temperature.<br>Color sets the emitted light<br>color. Filter and Temperature<br>use both a color (filter)<br>and a temperature to switch<br>between cool and<br>warm lighting. | NA |
-| Bias | Bias controls shadow acne.<br>The default is to use the URP<br>Asset. Alternatively, you can<br>set custom values using<br>this Inspector. | Bias/Normal Bias |
-| Light Cookie | If a texture is set to use a<br>light cookie and the light<br>type is Directional, then a<br>new panel will allow you to<br>control the x and y size of the<br>cookie, as well as its offset.<br>A cookie for a Point light must<br>be a cubemap. URP supports<br>colored cookies, whereas<br>the Built-in Render Pipeline is<br>greyscale only. | Cookie |
-| Shape: Spot | You can now control both the<br>inner and outer cone angles<br>for Spot lights. | Spot Angle, Range |
-| Shape: Area | This is used to control the<br>shape of an Area light. | Shape, Width, Height,<br>Radius |
-| NA | This is easily reproduced<br>using a billboard or a Fresnel<br>shader controlling the alpha<br>value of a sphere that sits at<br>the center of the light. See<br>the section on Halo light for<br>more information. | Draw Halo |
-| NA | Check out the Lens Flare<br>section to see how to<br>implement a Lens Flare in URP. | Flare |
+| Light Appearance | Choose between Color
+or Filter and Temperature.
+Color sets the emitted light
+color. Filter and Temperature
+use both a color (filter)
+and a temperature to switch
+between cool and
+warm lighting. | NA |
+| Bias | Bias controls shadow acne.
+The default is to use the URP
+Asset. Alternatively, you can
+set custom values using
+this Inspector. | Bias/Normal Bias |
+| Light Cookie | If a texture is set to use a
+light cookie and the light
+type is Directional, then a
+new panel will allow you to
+control the x and y size of the
+cookie, as well as its offset.
+A cookie for a Point light must
+be a cubemap. URP supports
+colored cookies, whereas
+the Built-in Render Pipeline is
+greyscale only. | Cookie |
+| Shape: Spot | You can now control both the
+inner and outer cone angles
+for Spot lights. | Spot Angle, Range |
+| Shape: Area | This is used to control the
+shape of an Area light. | Shape, Width, Height,
+Radius |
+| NA | This is easily reproduced
+using a billboard or a Fresnel
+shader controlling the alpha
+value of a sphere that sits at
+the center of the light. See
+the section on Halo light for
+more information. | Draw Halo |
+| NA | Check out the Lens Flare
+section to see how to
+implement a Lens Flare in URP. | Flare |
 
 © 2022 Unity Technologies **40 of 125** | unity[.com](https://unity.com/)
 
@@ -1014,14 +1115,9 @@ Here are the steps for setting up Light Layers.
 This can also be dynamically set in code.
 
 
-Renderer renderer = Get Component<Renderer>();
+Renderer renderer = Get Component();
 int layerID = 1;
-int mask = 1 << layerID;
-renderer.rendering Layer Mask = (uint)mask;
-## 
-#### Light Probes
-
-As covered in an earlier section, you can combine baked and dynamic objects in the Light Mode section using Mixed Lighting Mode. It's recommended to also add Light Probes to your scene when using this mode. [Light Probes](https://docs.unity3d.com/2021.2/Documentation/Manual/Light Probes.html?utm_source=demand-gen&utm_medium=pdf&utm_campaign=render-with-quality-and-flexibility&utm_content=introduction-to-urp-ebook) save the light data at a particular position within an environment when you bake the lighting by clicking **Generate Lighting** via **Window > Rendering > Lighting** panel. This ensures that the illumination of a dynamic object moving through an environment reflects the lighting levels used by the baked objects. In a dark area it will be dark, and in a lighter area it will be brighter. Below, you can see the robot character inside and outside of the hangar in the FPS Sample: The Inspection.
+int mask = 1  Rendering > Lighting** panel. This ensures that the illumination of a dynamic object moving through an environment reflects the lighting levels used by the baked objects. In a dark area it will be dark, and in a lighter area it will be brighter. Below, you can see the robot character inside and outside of the hangar in the FPS Sample: The Inspection.
 
 ## ![](_page_55_Picture_4.jpeg)
 
@@ -1219,7 +1315,8 @@ We made this step-by-step video tutorial on how to convert a custom unlit Built-
 
 #### **Replace .cginc includes files with the following HLSL equivalents:**
 
-| Built-in Render<br>Pipeline | HLSL |
+| Built-in Render
+Pipeline | HLSL |
 |-----------------------------|-------------|
 | UnityCG.cginc | Github link |
 | Auto Light.cginc | Github link |
@@ -1235,19 +1332,49 @@ Space transform-related functions are found in [this](https://github.com/Unity-T
 
 | URP helper function | Description |
 |----------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| float4x4 Get Object ToWorld Matrix() | Returns UNITY_MATRIX_M matrix that<br>converts from Object to World Space |
-| | This is the equivalent of Built-in Render<br>Pipeline unity_Object ToWorld. |
-| float4x4 Get World ToObject Matrix() | Returns UNITY_MATRIX_I_M matrix that<br>converts from World to Object Space |
-| | This matrix is the inverse of UNITY_<br>MATRIX_M. It is the equivalent of<br>Built-in Render Pipeline<br>unity_World ToObject. |
-| float4x4 Get World ToHClip Matrix() | Returns UNITY_MATRIX_VP matrix that<br>converts from World to Clip Space |
-| float4x4 Get View ToHClip Matrix() | Returns UNITY_MATRIX_P matrix that<br>converts from View to Clip Space |
-| float3<br>Transform Object ToWorld(float3<br>positionOS) | Given a position in Object Space,<br>returns the position in World Space |
-| float3<br>Transform Object ToWorld Dir(float3<br>dirOS, bool do Normalize = true) | Given a direction in Object Space,<br>returns the direction in World Space |
-| float3<br>Transform World ToObject(float3<br>positionWS) | Given a position in World Space,<br>returns the position in Object Space |
-| float3 Transform World ToView(float3<br>positionWS) | Given a position in World Space,<br>returns the position in View Space |
-| real3x3 Create Tangent ToWorld(real3<br>normal, real3 tangent, real<br>flip Sign) | Create a Tangent to World matrix given<br>a normal and a tangent |
-| real3<br>Transform Tangent ToWorld(real3<br>normalTS, real3x3 tangent ToWorld,<br>bool do Normalize = false) | Given a normal in Tangent Space,<br>returns a normal in World Space |
-| real3<br>Transform World ToTangent(real3<br>normalWS, real3x3 tangent ToWorld,<br>bool do Normalize = true) | Given a normal in World Space, returns<br>a normal in Tangent Space |
+| float4x4 Get Object ToWorld Matrix() | Returns UNITY_MATRIX_M matrix that
+converts from Object to World Space |
+| | This is the equivalent of Built-in Render
+Pipeline unity_Object ToWorld. |
+| float4x4 Get World ToObject Matrix() | Returns UNITY_MATRIX_I_M matrix that
+converts from World to Object Space |
+| | This matrix is the inverse of UNITY_
+MATRIX_M. It is the equivalent of
+Built-in Render Pipeline
+unity_World ToObject. |
+| float4x4 Get World ToHClip Matrix() | Returns UNITY_MATRIX_VP matrix that
+converts from World to Clip Space |
+| float4x4 Get View ToHClip Matrix() | Returns UNITY_MATRIX_P matrix that
+converts from View to Clip Space |
+| float3
+Transform Object ToWorld(float3
+positionOS) | Given a position in Object Space,
+returns the position in World Space |
+| float3
+Transform Object ToWorld Dir(float3
+dirOS, bool do Normalize = true) | Given a direction in Object Space,
+returns the direction in World Space |
+| float3
+Transform World ToObject(float3
+positionWS) | Given a position in World Space,
+returns the position in Object Space |
+| float3 Transform World ToView(float3
+positionWS) | Given a position in World Space,
+returns the position in View Space |
+| real3x3 Create Tangent ToWorld(real3
+normal, real3 tangent, real
+flip Sign) | Create a Tangent to World matrix given
+a normal and a tangent |
+| real3
+Transform Tangent ToWorld(real3
+normalTS, real3x3 tangent ToWorld,
+bool do Normalize = false) | Given a normal in Tangent Space,
+returns a normal in World Space |
+| real3
+Transform World ToTangent(real3
+normalWS, real3x3 tangent ToWorld,
+bool do Normalize = true) | Given a normal in World Space, returns
+a normal in Tangent Space |
 
 © 2022 Unity Technologies **68 of 125** | unity[.com](https://unity.com/)
 
@@ -1265,14 +1392,37 @@ Other shader functions, including fog and UV, can be found in [this](https://git
 
 | URP helper function | Description |
 |-----------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Vertex Position Inputs<br>Get Vertex Position Inputs(float3<br>positionOS) | Given a position in Object Space,<br>returns a struct containing position<br>in World, View, and Clip Space |
-| | This function should be used<br>only in vertex shader. |
-| Vertex Normal Inputs<br>Get Vertex Normal Inputs(float3<br>normalOS) | Given a normal in Object Space,<br>returns a struct with the World<br>Space normal, tangent, and<br>bitangent vectors |
-| | These vectors can be used to<br>construct a Tangent to World matrix<br>using Create Tangent ToWorld.<br>Returns input. tangentWS, input.<br>bitangentWS, input. normalWS. |
-| float3 Get Camera PositionWS() | Returns the Camera position in<br>World Space |
-| | This is similar to the Built-in Render<br>Pipeline's _World Space Camera Pos<br>variable. |
-| float3 Get View Forward Dir() | Returns the forward (central)<br>direction of the current view in<br>World Space |
-| float3<br>Get World Space View Dir(float3<br>positionWS) | Computes the World Space view<br>direction (pointing toward<br>the viewer) |
+| Vertex Position Inputs
+Get Vertex Position Inputs(float3
+positionOS) | Given a position in Object Space,
+returns a struct containing position
+in World, View, and Clip Space |
+| | This function should be used
+only in vertex shader. |
+| Vertex Normal Inputs
+Get Vertex Normal Inputs(float3
+normalOS) | Given a normal in Object Space,
+returns a struct with the World
+Space normal, tangent, and
+bitangent vectors |
+| | These vectors can be used to
+construct a Tangent to World matrix
+using Create Tangent ToWorld.
+Returns input. tangentWS, input.
+bitangentWS, input. normalWS. |
+| float3 Get Camera PositionWS() | Returns the Camera position in
+World Space |
+| | This is similar to the Built-in Render
+Pipeline's _World Space Camera Pos
+variable. |
+| float3 Get View Forward Dir() | Returns the forward (central)
+direction of the current view in
+World Space |
+| float3
+Get World Space View Dir(float3
+positionWS) | Computes the World Space view
+direction (pointing toward
+the viewer) |
 
 © 2022 Unity Technologies **69 of 125** | unity[.com](https://unity.com/)
 
@@ -1293,9 +1443,12 @@ Some of them are listed in the table below. The type real is set in the file; de
 | real Deg ToRad(real deg) | real Rad ToDeg(real rad) |
 | bool Is Power2(uint x) | real FastACos Pos(real inX) |
 | real FastASin(real x) | real FastATan(real x) |
-| uint Fast Log2(uint x) | real3 Orthonormalize(real3<br>tangent, real3 normal) |
+| uint Fast Log2(uint x) | real3 Orthonormalize(real3
+tangent, real3 normal) |
 | real Pow4(real x) | float4x4 Inverse(float4x4 m) |
-| float Compute TextureLOD(float2 uv,<br>float bias = 0.0) | float Linear01Depth(float<br>depth, float4 z Buffer Param) |
+| float Compute TextureLOD(float2 uv,
+float bias = 0.0) | float Linear01Depth(float
+depth, float4 z Buffer Param) |
 
 © 2022 Unity Technologies **70 of 125** | unity[.com](https://unity.com/)
 
@@ -1308,25 +1461,39 @@ This table highlights a few examples.
 | Built-in Render Pipeline | URP |
 |---------------------------------------------------------|-------------------------------------------------------------------------------|
 | UNITY_PROJ_COORD(a) | Replace with a.xy/a.w |
-| UNITY_INITIALIZE_<br>OUTPUT(type, name) | ZERO_INITIALIZE(type, name) |
+| UNITY_INITIALIZE_
+OUTPUT(type, name) | ZERO_INITIALIZE(type, name) |
 | Shadow mapping* | |
-| UNITY_DECLARE_<br>SHADOWMAP(tex) | TEXTURE2D_SHADOW_<br>PARAM(texture Name, sampler Name)** |
-| UNITY_SAMPLE_SHADOW(tex,<br>uv) | SAMPLE_TEXTURE2D_<br>SHADOW(texture Name, sampler Name,<br>coord3) |
-| UNITY_SAMPLE_SHADOW_<br>PROJ(tex, uv) | SAMPLE_TEXTURE2D_<br>SHADOW(texture Name, sampler Name,<br>coord4.xyz/coord4.w) |
+| UNITY_DECLARE_
+SHADOWMAP(tex) | TEXTURE2D_SHADOW_
+PARAM(texture Name, sampler Name)** |
+| UNITY_SAMPLE_SHADOW(tex,
+uv) | SAMPLE_TEXTURE2D_
+SHADOW(texture Name, sampler Name,
+coord3) |
+| UNITY_SAMPLE_SHADOW_
+PROJ(tex, uv) | SAMPLE_TEXTURE2D_
+SHADOW(texture Name, sampler Name,
+coord4.xyz/coord4.w) |
 | Texture/sampler declaration*** | |
-| UNITY_DECLARE_TEX2D(name) | TEXTURE2D(texture Name);<br>SAMPLER(sampler Name); |
-| UNITY_DECLARE_TEX2D_<br>NOSAMPLER(name) | TEXTURE2D(texture Name); |
-| UNITY_SAMPLE_<br>TEX2D_SAMPLER(<br>name, samplername, uv) | SAMPLE_TEXTURE2D(texture Name,<br>sampler Name, coord2) |
+| UNITY_DECLARE_TEX2D(name) | TEXTURE2D(texture Name);
+SAMPLER(sampler Name); |
+| UNITY_DECLARE_TEX2D_
+NOSAMPLER(name) | TEXTURE2D(texture Name); |
+| UNITY_SAMPLE_
+TEX2D_SAMPLER(
+name, samplername, uv) | SAMPLE_TEXTURE2D(texture Name,
+sampler Name, coord2) |
 
 #### **Notes for table:**
 
 © 2022 Unity Technologies **71 of 125** | unity[.com](https://unity.com/)
 
-<sup>\*</sup> Shadow mapping macros need [this](https://github.com/Unity-Technologies/Scriptable Render Pipeline Data/blob/master/CoreRP~/Shader Library/Shadow/Shadow.hlsl) shadow include.
+\* Shadow mapping macros need [this](https://github.com/Unity-Technologies/Scriptable Render Pipeline Data/blob/master/CoreRP~/Shader Library/Shadow/Shadow.hlsl) shadow include.
 
-<sup>\*\*</sup> The \_PARAM are macros that can be used to declare functions with texture and sampler arguments. Check out [this document](https://github.com/Unity-Technologies/Graphics/blob/master/Packages/com.unity.shadergraph/Editor/Generation/Targets/Built In/Shader Library/Shadows.hlsl?L212:30) for more information.
+\*\* The \_PARAM are macros that can be used to declare functions with texture and sampler arguments. Check out [this document](https://github.com/Unity-Technologies/Graphics/blob/master/Packages/com.unity.shadergraph/Editor/Generation/Targets/Built In/Shader Library/Shadows.hlsl?L212:30) for more information.
 
-<sup>\*\*\*</sup> For Built-in Render Pipeline texture/sampler declaration, read [this](https://docs.unity3d.com/2021.2/Documentation/Manual/SL-Builtin Macros.html?utm_source=demand-gen&utm_medium=pdf&utm_campaign=render-with-quality-and-flexibility&utm_content=introduction-to-urp-ebook) [documentation.](https://docs.unity3d.com/2021.2/Documentation/Manual/SL-Builtin Macros.html?utm_source=demand-gen&utm_medium=pdf&utm_campaign=render-with-quality-and-flexibility&utm_content=introduction-to-urp-ebook)
+\*\*\* For Built-in Render Pipeline texture/sampler declaration, read [this](https://docs.unity3d.com/2021.2/Documentation/Manual/SL-Builtin Macros.html?utm_source=demand-gen&utm_medium=pdf&utm_campaign=render-with-quality-and-flexibility&utm_content=introduction-to-urp-ebook) [documentation.](https://docs.unity3d.com/2021.2/Documentation/Manual/SL-Builtin Macros.html?utm_source=demand-gen&utm_medium=pdf&utm_campaign=render-with-quality-and-flexibility&utm_content=introduction-to-urp-ebook)
 
 #### Light Mode tags
 
@@ -1334,20 +1501,37 @@ The [Light Mode](https://docs.unity3d.com/Packages/com.unity.render-pipelines.un
 
 The table below indicates the correspondence between the Light Mode tags used in the Built-in Render Pipeline and the tags that URP expects. Several legacy Built-in Render Pipeline tags are not supported in URP: Prepass Base, Prepass Final, Vertex, VertexLMRGBM, and VertexLM. At the same time, there are other tags in URP with no equivalent in the Built-in Render Pipeline.
 
-| Built-in Render<br>Pipeline (read<br>more here) | Description | URP (read more here) |
+| Built-in Render
+Pipeline (read
+more here) | Description | URP (read more here) |
 |-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|----------------------|
 | Always | Always rendered; no lighting applied | - |
-| Forward Base | Used in Forward rendering; Ambient, main<br>Universal Forward<br>Directional light, vertex/SH lights, and lightmaps<br>applied | |
-| Forward Add | Used in Forward rendering; Additive per-pixel lights<br>applied, one Pass per light | Universal Forward |
+| Forward Base | Used in Forward rendering; Ambient, main
+Universal Forward
+Directional light, vertex/SH lights, and lightmaps
+applied | |
+| Forward Add | Used in Forward rendering; Additive per-pixel lights
+applied, one Pass per light | Universal Forward |
 | Deferred | Used in Deferred Shading; renders G-buffer | UniversalGBuffer |
-| Shadow Caster | Renders object depth into the shadow map or a<br>depth texture | Shadow Caster |
+| Shadow Caster | Renders object depth into the shadow map or a
+depth texture | Shadow Caster |
 | Motion Vectors | Used to calculate per-object motion vectors | Motion Vectors |
-| | URP uses this tag value in the Forward Rendering<br>Path; the Pass renders object geometry and<br>evaluates all light contributions. | Universal Forward Only |
-| - | URP uses this tag value in the 2D Renderer; the<br>Pass renders objects and evaluates 2D light<br>contributions. | Universal2D |
-| - | The Pass renders only depth information from the<br>perspective of a Camera into a depth texture. | Depth Only |
-| - | This Pass is executed only when baking lightmaps<br>in the Unity Editor; Unity strips this Pass from<br>shaders when building a Player. | Meta |
-| - | Use this tag value to draw an extra Pass when<br>rendering objects; it is valid for both the Forward<br>and Deferred Rendering Paths. | SRPDefault Unlit |
-| | URP uses this tag value as the default value when a<br>Pass does not have a Light Mode tag. | |
+| | URP uses this tag value in the Forward Rendering
+Path; the Pass renders object geometry and
+evaluates all light contributions. | Universal Forward Only |
+| - | URP uses this tag value in the 2D Renderer; the
+Pass renders objects and evaluates 2D light
+contributions. | Universal2D |
+| - | The Pass renders only depth information from the
+perspective of a Camera into a depth texture. | Depth Only |
+| - | This Pass is executed only when baking lightmaps
+in the Unity Editor; Unity strips this Pass from
+shaders when building a Player. | Meta |
+| - | Use this tag value to draw an extra Pass when
+rendering objects; it is valid for both the Forward
+and Deferred Rendering Paths. | SRPDefault Unlit |
+| | URP uses this tag value as the default value when a
+Pass does not have a Light Mode tag. | |
 
 © 2022 Unity Technologies **72 of 125** | unity[.com](https://unity.com/)
 
@@ -1362,8 +1546,7 @@ Pass
 {
  // Lightmode matches the Shader Pass Name set in
  // Universal Render Pipeline.cs. SRPDefault Unlit and passes with
- // no Light Mode tag are also rendered by Universal Render Pipe-
-line
+ // no Light Mode tag are also rendered by Universal Render Pipeline
  Name "Forward Lit"
  Tags{"Light Mode" = "Universal Forward"}
  Blend[_Src Blend][_Dst Blend]
@@ -1375,10 +1558,8 @@ line
  …
  #pragma vertex Lit Pass Vertex
  #pragma fragment Lit Pass Fragment
- #include "Packages/com.unity.render-pipelines.universal/Shad-
-ers/Lit Input.hlsl"
- #include "Packages/com.unity.render-pipelines.universal/Shad-
-ers/Lit Forward Pass.hlsl"
+ #include "Packages/com.unity.render-pipelines.universal/Shaders/Lit Input.hlsl"
+ #include "Packages/com.unity.render-pipelines.universal/Shaders/Lit Forward Pass.hlsl"
  ENDHLSL
 }
 Pass
@@ -1394,10 +1575,8 @@ Pass
  …
  #pragma vertex Shadow Pass Vertex
  #pragma fragment Shadow Pass Fragment
- #include "Packages/com.unity.render-pipelines.universal/Shad-
-ers/Lit Input.hlsl"
- #include "Packages/com.unity.render-pipelines.universal/Shad-
-ers/Shadow Caster Pass.hlsl"
+ #include "Packages/com.unity.render-pipelines.universal/Shaders/Lit Input.hlsl"
+ #include "Packages/com.unity.render-pipelines.universal/Shaders/Shadow Caster Pass.hlsl"
  ENDHLSL
 }
 ## 
@@ -1435,8 +1614,7 @@ public class Auto Load Pipeline Asset : Mono Behaviour
        {
  if (pipeline Asset)
  {
- Graphics Settings.render Pipeline Asset = pipeline As-
-set;
+ Graphics Settings.render Pipeline Asset = pipeline Asset;
  } 
        }
 }
@@ -1630,7 +1808,7 @@ execution of this render pass.
  }
        }
        Custom Render Pass m_Scriptable Pass;
-       /// <inheritdoc/>
+       /// 
        public override void Create()
        {
  var material = new Material(Shader. Find("Shader Graphs/Tint"));
@@ -1641,8 +1819,7 @@ After Rendering Opaques;
        }
        // Here you can inject one or multiple render passes in the 
 renderer.
-       // This method is called when setting up the renderer once per-
-camera.
+       // This method is called when setting up the renderer once percamera.
        public override void Add Render Passes(Scriptable Renderer renderer, 
 ref Rendering Data rendering Data)
        {
@@ -1757,22 +1934,43 @@ These are the available post-processing effects in URP.
 
 | Effect | Description |
 |--------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Bloom | Adds a glow around pixels above a defined<br>brightness level. |
-| Channel Mixer | Modifies the influence of each input color channel<br>on the overall mix. |
-| Chromatic<br>Aberration | Creates fringes of color along boundaries that<br>separate dark and light parts of the image. |
-| Color Adjustments | Use this effect to tweak the overall tone, brightness,<br>and contrast of the final rendered image. |
-| Color Curves | Grading curves are an advanced way to adjust<br>specific ranges in hue, saturation, or luminosity. |
-| Depth of Field | This effect simulates the focus properties<br>of a camera lens. |
-| Film Grain | This simulates the random optical texture of<br>photographic film. |
-| Lens Distortion | Distorts the final rendered picture to simulate<br>the shape of a real-world camera lens. |
-| Lift Gamma Gain | Use the different trackballs to affect different ranges<br>within the image. Adjust the slider under the trackball<br>to offset the color lightness of that range. |
-| Motion Blur | This simulates the blur that occurs in an image when a<br>real-world camera films objects moving faster than the<br>camera's exposure time. |
-| Panini Projection | This effect helps you render perspective views in<br>scenes with a very large field of view. |
-| Shadows Midtones<br>Highlights | This effect separately controls the shadows, midtones,<br>and highlights of the render. |
-| Split Toning | Use this to add different color tones to the<br>shadows and highlights in your scene. |
-| Tonemapping | Tonemapping is the process of remapping the<br>HDR values of an image to a new range of values. |
-| Vignette | This effect comprises darkening toward the edges<br>of an image compared to the center. |
-| White Balance | Removes unrealistic color casts, so items that<br>would appear white in real life render as white in<br>your final image. |
+| Bloom | Adds a glow around pixels above a defined
+brightness level. |
+| Channel Mixer | Modifies the influence of each input color channel
+on the overall mix. |
+| Chromatic
+Aberration | Creates fringes of color along boundaries that
+separate dark and light parts of the image. |
+| Color Adjustments | Use this effect to tweak the overall tone, brightness,
+and contrast of the final rendered image. |
+| Color Curves | Grading curves are an advanced way to adjust
+specific ranges in hue, saturation, or luminosity. |
+| Depth of Field | This effect simulates the focus properties
+of a camera lens. |
+| Film Grain | This simulates the random optical texture of
+photographic film. |
+| Lens Distortion | Distorts the final rendered picture to simulate
+the shape of a real-world camera lens. |
+| Lift Gamma Gain | Use the different trackballs to affect different ranges
+within the image. Adjust the slider under the trackball
+to offset the color lightness of that range. |
+| Motion Blur | This simulates the blur that occurs in an image when a
+real-world camera films objects moving faster than the
+camera's exposure time. |
+| Panini Projection | This effect helps you render perspective views in
+scenes with a very large field of view. |
+| Shadows Midtones
+Highlights | This effect separately controls the shadows, midtones,
+and highlights of the render. |
+| Split Toning | Use this to add different color tones to the
+shadows and highlights in your scene. |
+| Tonemapping | Tonemapping is the process of remapping the
+HDR values of an image to a new range of values. |
+| Vignette | This effect comprises darkening toward the edges
+of an image compared to the center. |
+| White Balance | Removes unrealistic color casts, so items that
+would appear white in real life render as white in
+your final image. |
 
 © 2022 Unity Technologies **91 of 125** | unity[.com](https://unity.com/)
 
@@ -1789,9 +1987,9 @@ public class PPController : Mono Behaviour
       // Start is called before the first frame update
       void Start()
       {
- Volume volume = Get Component<Volume>();
+ Volume volume = Get Component();
  Bloom bloom;
- if (volume.profile. Try Get<Bloom>(out bloom))
+ if (volume.profile. Try Get(out bloom))
  {
  bloom.intensity.value = 0;
  }
@@ -1849,7 +2047,7 @@ public class Stack Controller : Mono Behaviour
        // Start is called before the first frame update
        void Start()
        {
- Camera camera = Get Component<Camera>();
+ Camera camera = Get Component();
  var camera Data = camera. Get Universal Additional Camera Data();
  camera Data.camera Stack. Remove(overlay Camera);
        }
@@ -2279,8 +2477,8 @@ The Profiler window using the low-level native plug-in Profiler API
 © 2022 Unity Technologies **122 of 125** | unity[.com](https://unity.com/)
 
 
-#include <IUnity Interface.h>
-#include <IUnity Profiler.h>
+#include 
+#include 
 static IUnity Profiler* s_Unity Profiler = NULL;
 static const Unity Profiler Marker Desc* s_My Plugin Marker = NULL;
 static bool s_Is Development Build = false;
@@ -2293,18 +2491,15 @@ static void My Plugin Work Method()
        if (s_Is Development Build)
  s_Unity Profiler->End Sample(s_My Plugin Marker);
 }
-extern "C" void UNITY_INTERFACE_EXPORT UNITY_INTERFACE_API Unity Plugin-
-Load(IUnity Interfaces* unity Interfaces)
+extern "C" void UNITY_INTERFACE_EXPORT UNITY_INTERFACE_API Unity PluginLoad(IUnity Interfaces* unity Interfaces)
 {
-       s_Unity Profiler = unity Interfaces->Get<IUnity Profiler>();
+       s_Unity Profiler = unity Interfaces->Get();
        if (s_Unity Profiler == NULL)
  return;
        s_Is Development Build = s_Unity Profiler->Is Available() != 0;
-       s_Unity Profiler->Create Marker(&s_My Plugin Marker, "My Plugin Meth-
-od", k Unity Profiler Category Other, k Unity Profiler Marker Flag Default, 0);
+       s_Unity Profiler->Create Marker(&s_My Plugin Marker, "My Plugin Method", k Unity Profiler Category Other, k Unity Profiler Marker Flag Default, 0);
 }
-extern "C" void UNITY_INTERFACE_EXPORT UNITY_INTERFACE_API Unity Plugin Un-
-load()
+extern "C" void UNITY_INTERFACE_EXPORT UNITY_INTERFACE_API Unity Plugin Unload()
 {
        s_Unity Profiler = NULL;
 }

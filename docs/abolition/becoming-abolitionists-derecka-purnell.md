@@ -1,13 +1,8 @@
 ---
-author: Derecka Purnell
-date: 2021
-title: Becoming Abolitionists - Derecka Purnell
-tags:
-  - abolition
-  - police
-  - strikes
-  - unions
-  - tenants
+title: "Becoming Abolitionists - Derecka Purnell"
+author: "Derecka Purnell"
+date: "2021"
+category: "abolition"
 ---
 
 # Becoming Abolitionists - Derecka Purnell
@@ -32,7 +27,6 @@ tags:
 ![Page 1 Complete](images/page_001_full.png)
 
 ### Extracted Text
-
 
 
 ---
@@ -108,8 +102,6 @@ is the abolitionist writer of her generation.”
 ![Page 3 Complete](images/page_003_full.png)
 
 ### Extracted Text
-
-
 
 
 “An extraordinary, wonderful, insightful, and immensely generative book
@@ -190,7 +182,6 @@ invitation to join the most important movement of our time.”
 ### Extracted Text
 
 
-
 ---
 
 ## Page 5
@@ -199,7 +190,6 @@ invitation to join the most important movement of our time.”
 ![Page 5 Complete](images/page_005_full.png)
 
 ### Extracted Text
-
 
 
 ---
@@ -288,7 +278,6 @@ Race & Ethnic Relations | POLITICAL SCIENCE / Law Enforcement | LAW / Criminal
 ### Extracted Text
 
 
-
                                come
 
 
@@ -311,7 +300,6 @@ And to the maroons, artists, misfits, and political prisoners whose
 
 
               CONTENTS
-
 
 
 INTRODUCTION: HOW I BECAME A POLICE ABOLITIONIST
@@ -344,7 +332,6 @@ INTRODUCTION: HOW I BECAME A POLICE ABOLITIONIST
                   CONCLUSION
 
 
-
                     ENDNOTES
 
                ACKNOWLEDGMENTS
@@ -363,8 +350,6 @@ INTRODUCTION: HOW I BECAME A POLICE ABOLITIONIST
                        INTRODUCTION
 
         HOW I BECAME A POLICE ABOLITIONIST
-
-
 
 
         E CALLED 911    for almost everything—except snitching. Nosebleeds,
@@ -455,7 +440,6 @@ victims of violence. They tend to forget that often we are those victims,
 those survivors of violence, too.
 
 
-
 THE FIRST SHOOTING        I witnessed was by a uniformed security guard. I was
 
 thirteen   years   old.   He       was   employed    by   Global      Security   Services,    a
@@ -499,7 +483,6 @@ Floyd to the concrete as he hollered that he could not breathe. Floyd
 ![Page 11 Complete](images/page_011_full.png)
 
 ### Extracted Text
-
 
 
 life. Until he died nine minutes later. Calls for “justice” quickly ensued. I
@@ -577,7 +560,6 @@ needed to be reformed. Until August 9, 2014, when police officer Darren
 ![Page 12 Complete](images/page_012_full.png)
 
 ### Extracted Text
-
 
 
 Wilson had a wedding. Most police officers just continue to live their lives
@@ -690,7 +672,6 @@ has been in deep love, study, and struggle with all generations to forge
 abolitionist futures.6
 
 
-
 IN THIS BOOK,    I share how the lessons from these generations have pushed
 
 me    toward    understanding    police     abolition,   which   is   just    one   part   of
@@ -734,7 +715,6 @@ segregation and joined lynch mobs that grew strange fruit from southern
 ![Page 14 Complete](images/page_014_full.png)
 
 ### Extracted Text
-
 
 
 preachers, activists, and students who marched for equality wearing their
@@ -921,7 +901,6 @@ years. In three major cities, less than 4 percent of calls to the police are for
 80 percent to 60 percent, and cops frequently arrest and force confessions
 
 out of the wrong people.10
-
 
 
 SO IF WE   abolish the police, what’s the alternative? Who do we call? As
@@ -1197,11 +1176,7 @@ society toward freedom and justice without police and violence.
                                         ONE
 
 
-
-
                       WHAT JUSTICE?
-
-
 
 
     INCE I WAS     about three, living in South St. Louis, my mother gave me
@@ -1257,7 +1232,6 @@ my dad died in a washing machine. I also tried to bring him back. My
 ![Page 21 Complete](images/page_021_full.png)
 
 ### Extracted Text
-
 
 
 mom’s red leather couch in the basement, mimicking seances from movies
@@ -1339,7 +1313,6 @@ I did not have to pay for anything. I was elated and puzzled. The lunch lady
 ### Extracted Text
 
 
-
 me on the walk home from school that the worker was withholding treats
 
 from children whose families belonged to the free lunch and breakfast
@@ -1417,7 +1390,6 @@ menial jobs at nearby stadiums, gas stations, and grocery stores. The other
 ### Extracted Text
 
 
-
 for the dream of America. Men drove colorful cabs and kept their apartment
 
 doors open when they prayed in Arabic. The kids, all of us, played soccer
@@ -1493,7 +1465,6 @@ increased for Black people who rebelled over police violence, substandard
 ![Page 24 Complete](images/page_024_full.png)
 
 ### Extracted Text
-
 
 
 Black students. Students, parents, and teachers resisted the proliferation;
@@ -1575,7 +1546,6 @@ the first African American to practice law in New York. But I only lasted a
 ### Extracted Text
 
 
-
 ones at my middle school. Every day, I had to unzip my jacket, open my
 
 bookbag, flip through my binders, and raise my pants to show my legs. They
@@ -1653,7 +1623,6 @@ We would spend the remainder of the period in in-school detention. I envied
 ![Page 26 Complete](images/page_026_full.png)
 
 ### Extracted Text
-
 
 
 commanding voice from the speaker with their slow pace.
@@ -1735,7 +1704,6 @@ enforcement or the military. Air Force Junior Reserve Officer Training
 ### Extracted Text
 
 
-
 school. As of 2018, the Pentagon spends $370 million a year on the
 
 program    that   is   disproportionately          located   in     diverse,   economically
@@ -1815,7 +1783,6 @@ class on aerospace science afterward was an impossible challenge. Korie
 ### Extracted Text
 
 
-
 following the Ferguson Uprising.16
 
     I   mostly     read    news    online      because    I       wanted    to   know   what    was
@@ -1837,7 +1804,6 @@ watched demanded “justice,” a concept that I was still trying to understand.
 I shared information about the protests to the class because I found them
 
 inspiring, like pieces of history reliving itself in the present.
-
 
 
 HURRICANE KATRINA CAME             first, in 2005. I thought that I was just reporting
@@ -1891,7 +1857,6 @@ I ever wrote about. Each word I read from the thick, black Dell in ROTC’s
 ![Page 29 Complete](images/page_029_full.png)
 
 ### Extracted Text
-
 
 
 happened. Five undercover New York Police Department (NYPD) officers
@@ -1971,7 +1936,6 @@ door. A white man punched one of them in the face, and later tried to shoot
 ### Extracted Text
 
 
-
 from him. Some of the same Black boys who survived the racial violence
 
 from the party and gun incident were then accused of beating up a white
@@ -2021,7 +1985,6 @@ understand why my mother condemned the government’s contempt for poor,
 Black people. And I hoped that we would continue to fight for each other.
 
 
-
 EXTRACURRICULAR ACTIVITIES TOOK up most of my time but I wanted to start
 
 learning more about racial justice—especially if I was going to become a
@@ -2047,7 +2010,6 @@ overcharging rent and taking cash instead of money orders from the tenants,
 ![Page 31 Complete](images/page_031_full.png)
 
 ### Extracted Text
-
 
 
 things up.” She evicted my mom for several reasons, including the fact that
@@ -2125,7 +2087,6 @@ neighborhood     food,     gifts,   and   clothes    during    the   holidays.  
 ![Page 32 Complete](images/page_032_full.png)
 
 ### Extracted Text
-
 
 
 Crime Watch of America, a nonprofit dedicated to training middle and high
@@ -2207,7 +2168,6 @@ today and even get scholarships on the spot!” Not budging, they explained
 ### Extracted Text
 
 
-
 students did not have. In solidarity, they all sat down to protect and support
 
 each other from being outed. These teenagers had to be vigilant against
@@ -2287,7 +2247,6 @@ losing friends, I’d turn to the church to seek spiritual guidance. Grandon
 ### Extracted Text
 
 
-
 Kansas City to be closer to me, they said that we had to get married. Some
 
 traditions of Christianity forbid living together before marriage and belong
@@ -2307,7 +2266,6 @@ differences. Not that they were rich, but my family was especially poor.
 Grandon proposed after a few months and we gleefully wedded in August
 
 2009. He was twenty-one. I was nineteen.
-
 
 
 THROUGH      ALL   OF   the violence and activism, local and national, I was
@@ -2363,7 +2321,6 @@ freedoms     we    have.   Because     of   JROTC,     I   have   recited   the 
 ![Page 35 Complete](images/page_035_full.png)
 
 ### Extracted Text
-
 
 
 Standing at attention, with the backs of my shiny black oxfords pressed
@@ -2441,7 +2398,6 @@ various Native peoples who roamed the land without notions of “legal” or
 ### Extracted Text
 
 
-
 plantation.
 
       But Mexicans were not the initial impetus for “illegal immigration,” it
@@ -2515,7 +2471,6 @@ Grandon had also spotted a Black student from his bible college there. I
 ![Page 37 Complete](images/page_037_full.png)
 
 ### Extracted Text
-
 
 
 Arizona. We entered the packed arena.
@@ -2595,7 +2550,6 @@ that policing was much larger than how individual cops treated Black
 ### Extracted Text
 
 
-
 and people who threatened white supremacy. Many white people used the
 
 police to punish Black and Latinx people who dared to move freely in the
@@ -2617,7 +2571,6 @@ to Mexico, and yet deeply feared “Mexican invaders” who would steal their
 jobs. And obviously, they hated the kite, and the possibility of losing their
 
 country to people who were not white.
-
 
 
 ALONGSIDE        STUDENT        ACTIVISTS,          administrators         and      assistants      in    the
@@ -2671,7 +2624,6 @@ killed   Black    people       or    people      who    could     not   understa
 ![Page 39 Complete](images/page_039_full.png)
 
 ### Extracted Text
-
 
 
 Davis’s    work   emphasized     that   the    system         was   wrong    all    the    time.    I
@@ -2776,7 +2728,6 @@ for my own liberation, too. At least temporarily. Eventually, I emailed
 Davis, expressing gratitude for our encounter and asked to remain in touch.
 
 
-
 AFTER THE KEYNOTE,       I sought organizations, movements, and employment
 
 that focused on the criminal justice system. In 2011, The Kansas City’s
@@ -2826,7 +2777,6 @@ economic,     and   employment    precarity.   Not   to   mention   the   additi
 ![Page 41 Complete](images/page_041_full.png)
 
 ### Extracted Text
-
 
 
 imprisonment. O’Neal fled Kansas City in 1969; he was facing a federal
@@ -2908,7 +2858,6 @@ increased availability for white people seeking employment and homes.
 ### Extracted Text
 
 
-
 on hiring or leasing to people with records. Since police primarily patrol,
 
 arrest,   and   imprison     economically     exploited     Black   people,   Indigenous
@@ -2984,7 +2933,6 @@ explained two reasons. First, police protect private property, and people who
 ![Page 43 Complete](images/page_043_full.png)
 
 ### Extracted Text
-
 
 
 were     going    to    intimidate        us    with     police    presence,      and   they      failed.
@@ -3143,7 +3091,6 @@ has just waged a months-long extra-legal war on Libya.” Even William S.
 ### Extracted Text
 
 
-
 execution. Politicians on both sides of the aisle called for the death penalty
 
 team to strike.27
@@ -3221,7 +3168,6 @@ dinner afterward. Mickey was the first civil rights lawyer I’d met, but
 ### Extracted Text
 
 
-
 this was my chance to ask questions about what justice really meant to her.
 
 As we were leaving a famed Kansas City BBQ restaurant in a ritzy midtown
@@ -3231,7 +3177,6 @@ area called the “Country Club Plaza,” I thanked her and asked if I could be
 her research assistant. She agreed, but I never followed up. The following
 
 month, I found myself organizing in another movement for racial justice.
-
 
 
 THE   SPRING   AFTER    Davis’s execution, when I was finishing my thesis, I
@@ -3297,7 +3242,6 @@ freedom songs and demanding justice for Trayvon Martin. This group, some
 ![Page 47 Complete](images/page_047_full.png)
 
 ### Extracted Text
-
 
 
 Sanford Police Department to put pressure on cops to arrest Zimmerman.
@@ -3375,7 +3319,6 @@ White supremacy isn’t something to mediate, but eradicate, I thought. She
 ![Page 48 Complete](images/page_048_full.png)
 
 ### Extracted Text
-
 
 
 think through options for safety. I did not expect the police to protect us
@@ -3532,7 +3475,6 @@ sing, perform poetry, and express anger. Street violence interrupter groups
 ### Extracted Text
 
 
-
 hundreds of people sign petitions for Zimmerman’s arrest. Elders kept
 
 saying that it was one of the largest civil rights rallies they’d seen in
@@ -3641,7 +3583,6 @@ intervention. But the elder was right. We were mixing up solutions to very
 different problems.
 
 
-
 I   EXPECTED    THE    protests       to    send    Zimmerman        to     prison,    and          more
 
 importantly, send a warning to white men that would save Black kids’ lives.
@@ -3685,7 +3626,6 @@ door to Jordan’s room off the hinges after catching a girl in there. This was
 ![Page 52 Complete](images/page_052_full.png)
 
 ### Extracted Text
-
 
 
 because his life was more valuable than the boys in the Jena Six. But
@@ -3767,7 +3707,6 @@ used the deaths of Americans as an excuse to act violently toward people,
 ### Extracted Text
 
 
-
 police and military to not act violently? I found it contradictory that Obama
 
 was not practicing what he had been preaching. Here we were as activists,
@@ -3845,7 +3784,6 @@ spontaneous because I was raised by a comedian. I sat eerily silent during
 ### Extracted Text
 
 
-
 week.” I should not have said it. There’s an unwritten rule that people are
 
 supposed to make it through the first trimester before telling anyone. But I
@@ -3853,7 +3791,6 @@ supposed to make it through the first trimester before telling anyone. But I
 was in Boston, terrified, alone, and angry. Would we be able to protect our
 
 children? Would we be able to protect ourselves?
-
 
 
 IN THE FALL   of 2013, after the verdict, I decided to apply to law school.
@@ -3926,7 +3863,6 @@ judge declared a mistrial on that count. I wrote a letter to my unborn child:34
 ### Extracted Text
 
 
-
 trial for taking life. It won’t be easy, but it will be worth it.
 
 Can’t wait to meet you.
@@ -3946,11 +3882,7 @@ Three days later, I delivered Geuce.
                                            TWO
 
 
-
-
                FIRST WE WERE FREE
-
-
 
 
     N THE SUMMER     of 2014, after I gave birth, we lived in a modest dorm at
@@ -4006,7 +3938,6 @@ holiday visits there because the southern scenes were magical. In St. Louis,
 ![Page 57 Complete](images/page_057_full.png)
 
 ### Extracted Text
-
 
 
 talking Black people who thought they were better than us because they
@@ -4088,7 +4019,6 @@ rearrest. There, he met my grandmother, Virginia. My aunt did not see him
 ### Extracted Text
 
 
-
 might not be alive.
 
        The crooked dice and the missed child support payments were related.
@@ -4136,7 +4066,6 @@ first commercial flight as an older man, he said in awe to the passenger next
 to him, “This plane is a big son’a’bitch, ain’t it?”
 
 
-
 AT THE COMPLETION of         my research fellowship in Nashville, I traveled back
 
 to Kansas City full from the time with my family and wondering what the
@@ -4164,7 +4093,6 @@ before I left, but by the time I made it to one of their homes, the news was
 ![Page 59 Complete](images/page_059_full.png)
 
 ### Extracted Text
-
 
 
 from my aunt’s house. And people were protesting.
@@ -4242,7 +4170,6 @@ altogether    and   we   have   to   walk   on   the   road.   The   streets   a
 ![Page 60 Complete](images/page_060_full.png)
 
 ### Extracted Text
-
 
 
 extremely skinny. Tree roots and grass grow between the cracks as the Earth
@@ -4324,7 +4251,6 @@ keynoting my conference in Kansas City. Together with YCC, we spent
 ### Extracted Text
 
 
-
 and issuing demands, including calling for the police to stop tear-gassing
 
 and assaulting protesters.
@@ -4384,7 +4310,6 @@ fighting police violence for the long haul. He was right. Before we left, the
 police had already killed another person in St. Louis—Kajieme Powell.
 
 
-
 HOUSES IN CAMBRIDGE were         colorfully paneled and tall. The big blue house
 
 on Sacramento Street had fooled me. With the seismic loans I needed to pay
@@ -4400,7 +4325,6 @@ baby and dog in tow. But when I walked through the front door, I saw three
 ![Page 62 Complete](images/page_062_full.png)
 
 ### Extracted Text
-
 
 
 chop up normal-sized houses into five closets and advertise them as “cute
@@ -4478,7 +4402,6 @@ not simply a law school, but a “justice school.” I immediately filled with
 ![Page 63 Complete](images/page_063_full.png)
 
 ### Extracted Text
-
 
 
 did not find any justice in the hundreds of pages I read each night for class.
@@ -4560,7 +4483,6 @@ Harvard, Cambridge, Somerville, and the worst—Boston. My classmate Jon
 ### Extracted Text
 
 
-
 mother I was moving nearby for law school, she asked, “Is it bad there,
 
 too?” I automatically knew she was talking about racism. I should have
@@ -4638,11 +4560,9 @@ occurrence. And therein lies the function of policing. It’s not just the
 ### Extracted Text
 
 
-
 how many shootings occur each year, but that at any moment, any number
 
 of unpredictable forms of violence will attempt to control our freedom.
-
 
 
 BEFORE I UNDERSTOOD police abolition, racial profiling was the predominate
@@ -4712,7 +4632,6 @@ careful, we could miss the forest for the trees. Racial profiling, stop and
 ![Page 66 Complete](images/page_066_full.png)
 
 ### Extracted Text
-
 
 
 treacherous.
@@ -4792,7 +4711,6 @@ systems of patrols, surveillance, caging, and even African informants to
 ### Extracted Text
 
 
-
 of ship revolts, Eric Robert Taylor found that nearly a quarter of ship
 
 insurrections resulted in the freedom of at least some of the bondspeople.
@@ -4868,7 +4786,6 @@ tricks to compel the person at the tip of the whip to obey. Although these
 ![Page 68 Complete](images/page_068_full.png)
 
 ### Extracted Text
-
 
 
 predecessors and inform the culture of policing. As long as European
@@ -4950,7 +4867,6 @@ and workers, the Africans, brought knowledge of the revolts and resistance.
 ### Extracted Text
 
 
-
 Barbados and consequently codified a policing system that included slave
 
 patrols, a militia, and new sets of laws called “slave codes” that controlled
@@ -5026,7 +4942,6 @@ impulses to control others are not natural or innate. There are traditions
 ![Page 70 Complete](images/page_070_full.png)
 
 ### Extracted Text
-
 
 
 rebellious Black and Indigenous peoples to end slavery, capitalism, and
@@ -5106,7 +5021,6 @@ and this required a greater system of policing and patrols to monitor the
 ### Extracted Text
 
 
-
 America, W. E. B. Du Bois describes the labor of bondspeople and the
 
 exploitation of the white worker as an economic rivalry that the latter
@@ -5182,7 +5096,6 @@ permitting them to raid slave quarters to search for weapons and report their
 ### Extracted Text
 
 
-
 police practices. This was policing.50
 
       All of this history started to shape my uninterrogated assumptions that
@@ -5214,7 +5127,6 @@ They had centuries of influence that built habits of surveilling, monitoring,
 and   capturing     people,   especially   Black   and   Indigenous   peoples,   who
 
 disproportionately suffer police arrests, killings, and imprisonment now.
-
 
 
 THE CIVIL WAR provided more opportunities for many enslaved Black people
@@ -5258,7 +5170,6 @@ veterans who protected themselves from white violence and killed KKK
 ![Page 73 Complete](images/page_073_full.png)
 
 ### Extracted Text
-
 
 
 and the KKK were pro-power, not necessarily pro-police, and contested the
@@ -5312,7 +5223,6 @@ police—not the KKK—arrested so many Black people that it completely
 changed the makeup of the prisons.53
 
 
-
 MORE THAN A century later, protests would arise against law enforcement for
 
 still punishing Black people for running away from them. In April 2015,
@@ -5336,7 +5246,6 @@ new police killing went viral and sparked protests. His family speculates
 ![Page 74 Complete](images/page_074_full.png)
 
 ### Extracted Text
-
 
 
 children,   he   reportedly   owed    about    eighteen   thousand     dollars   in   child
@@ -5416,7 +5325,6 @@ unpaid labor, kidnapping, and land theft. Not to mention the decades of Jim
 ### Extracted Text
 
 
-
 of   the   people   who   the    state      sterilized   were   Black   people      in   mental
 
 institutions and prisons, usually women, to stop them from reproducing
@@ -5494,7 +5402,6 @@ baby. The mayor of North Charleston said that it was “the humane thing to
 ![Page 76 Complete](images/page_076_full.png)
 
 ### Extracted Text
-
 
 
 benefited from his back payments. When Slager was arrested and put in jail,
@@ -5600,11 +5507,7 @@ freedom and resistance.
                                      THREE
 
 
-
-
            RESISTANCE AND REFORM
-
-
 
 
      OLICE   REFORMS   ARE   such    tyrannical   prizes.   Winning    them     feels
@@ -5660,7 +5563,6 @@ their favor. Many wore “I Am Darren Wilson” bracelets around St. Louis. In
 ![Page 79 Complete](images/page_079_full.png)
 
 ### Extracted Text
-
 
 
 when a grand jury returned a bill of no-indictment for the killing of Michael
@@ -5742,7 +5644,6 @@ prosecutor and first Korean American judge in New York City. In 2019,
 ### Extracted Text
 
 
-
 who had “sex” in a police van with a teenager in custody. Rather, the judge
 
 defended his decision by saying that the victim and the cops were involved
@@ -5818,7 +5719,6 @@ journalist, or lawyer sues or protests for access. At risk to themselves, the
 ![Page 81 Complete](images/page_081_full.png)
 
 ### Extracted Text
-
 
 
 community     Copwatch     programs    could   literally   save   lives   and   expose
@@ -5900,7 +5800,6 @@ drove cars, and raided buildings in response to the protests. In Ferguson, the
 ### Extracted Text
 
 
-
 North Florissant. But Baltimore’s occupation was significantly larger and
 
 spread throughout the city. Titilayo, Christina, Mmiri, and I joined lawyers,
@@ -5978,7 +5877,6 @@ protesters who set fire to buildings and called them criminals and thugs, but
 ### Extracted Text
 
 
-
 affirmed peaceful protesters and condemned the ones who burned down a
 
 CVS. Fifth, he touted his task force on police, which was sought to “build
@@ -6002,7 +5900,6 @@ already had video of Gray being dragged by cops and several uprisings were
 in direct response to footage of police killings. We did not need to see police
 
 kill people from the cop’s point of view. We needed the killings to stop.
-
 
 
 OBAMA’S    SPEECH   WAS     powerful motivation to reexamine my desire for
@@ -6054,7 +5951,6 @@ billion opportunity for the company and saved the police from paying out
 ![Page 84 Complete](images/page_084_full.png)
 
 ### Extracted Text
-
 
 
 video.” Taser rebranded the company’s name to Axon and became the
@@ -6136,7 +6032,6 @@ officer Ray Tensing was indicted for killing Sam DuBose. Tensing was
 ### Extracted Text
 
 
-
 front license plate. After asking for a driver’s license, Tensing attempts to
 
 open DuBose’s door and shoots him in the face when DuBose refuses and
@@ -6162,7 +6057,6 @@ University of Cincinnati agreed to pay for the education of twelve of his
 children.   Ray   Tensing    successfully   sued   the   university   for   more     than
 
 $350,000.68
-
 
 
 BACK IN BALTIMORE, Mmiri,       Christina, Titilayo and I were in the hotel room
@@ -6293,7 +6187,6 @@ Supreme Court opined in Graham v. Connor that cops “are often forced to
 ### Extracted Text
 
 
-
 and rapidly evolving—about the amount of force that is necessary in a
 
 particular   situation.”    This   means     that    police   currently      have   the
@@ -6373,7 +6266,6 @@ must vehemently protect the right to protest.
 ### Extracted Text
 
 
-
 free,    like   more   body   cameras    or   community     relations   boards.   Instead,
 
 activists can call for cops to be fired and never allowed to work in public or
@@ -6395,7 +6287,6 @@ against the carceral state, but more broadly, against a society that uses police
 and     prisons   to   manage    black   rebellion,    oppressed    people,   and   social
 
 inequality.
-
 
 
 ONCE I FINISHED        with my final exams that spring, I returned to studying
@@ -6533,7 +6424,6 @@ in the Ferguson Uprising in 2014 returned to support the celebration and
 ### Extracted Text
 
 
-
 occupying parts of Ferguson to protest police violence, making St. Louis a
 
 site for one of the longest continually held demonstrations in the history of
@@ -6609,7 +6499,6 @@ system that is inherently violent. Plantations were diverse and overseers
 ![Page 91 Complete](images/page_091_full.png)
 
 ### Extracted Text
-
 
 
 there was a fundamental imbalance of power, resources, and status between
@@ -6689,7 +6578,6 @@ Before we all met in person, Darnell, Nyle, and I had all contributed to the
 ### Extracted Text
 
 
-
 2013. I wrote about disparate impact discrimination from my research with
 
 Mickey. Nyle had written about ending mass incarceration:
@@ -6765,7 +6653,6 @@ reconnect again later as the founding members of Law for Black Lives.
 ![Page 93 Complete](images/page_093_full.png)
 
 ### Extracted Text
-
 
 
 crowd on West Florissant. A Black woman started shouting, “Take out your
@@ -6845,7 +6732,6 @@ uncontrollably and tears burned my cheeks when they fell. I could not
 ### Extracted Text
 
 
-
 experience anything like this again.80
 
     The next day, interfaith clergy activists staged acts of civil disobedience
@@ -6923,7 +6809,6 @@ cops even more than white cops, because the black cop had to work so much
 ### Extracted Text
 
 
-
 not like all the other niggers.” There, I had been the other nigger. Research
 
 shows that employing Black cops can actually increase police violence
@@ -6999,7 +6884,6 @@ Dr. Ronald Bobo walked over. He was stunned that cops not only couldn’t
 ![Page 96 Complete](images/page_096_full.png)
 
 ### Extracted Text
-
 
 
 were also actively killing more people.83
@@ -7081,7 +6965,6 @@ possibility of suicide and maintained that the jail was trying to cover up her
 ### Extracted Text
 
 
-
 highlight Black women who died in police custody. So when I realized that
 
 we were being followed, I wrote online what other Black activists wrote
@@ -7127,7 +7010,6 @@ demilitarization; most wanted the cops to completely leave them alone.
 Everyone agreed that the violence had to stop.
 
 
-
 RESISTANCE       TO   POLICE    violence, systemic racism, and colonization were
 
 booming across the world by the time I returned to law school in 2015. That
@@ -7157,7 +7039,6 @@ what happened in Ferguson would have never happened in their country
 ![Page 98 Complete](images/page_098_full.png)
 
 ### Extracted Text
-
 
 
 descent mostly echoed this sentiment and explained that when people of
@@ -7237,7 +7118,6 @@ the Syrian civil war that forced people to flee to Europe. In 2015, the
 ### Extracted Text
 
 
-
 Syrians, out of a total of forty-four thousand. We met with a group of
 
 teenagers and young adults who were immigrants or children of immigrants
@@ -7313,7 +7193,6 @@ cops there rarely kill people. For example, in 2019, cops in the US killed
 ![Page 100 Complete](images/page_100_full.png)
 
 ### Extracted Text
-
 
 
 and killed over a thousand more people than their Dutch counterparts. The
@@ -7393,7 +7272,6 @@ expelled, and banned their descendants. The United States should absolutely
 ### Extracted Text
 
 
-
 undoing racism, classism, ableism, and xenophobia, not by concentrating
 
 it.90
@@ -7451,7 +7329,6 @@ decolonization framework to confront class, policing, and anti-Blackness,
 then I definitely wanted to be in a global struggle with them, too.
 
 
-
 WHEN I LEFT        Amsterdam in October 2015, I dreamed of going to South
 
 Africa to learn about their student movement. I knew it was a risk. I was
@@ -7467,7 +7344,6 @@ the previous summers. And even though South Africa was much farther
 ![Page 102 Complete](images/page_102_full.png)
 
 ### Extracted Text
-
 
 
 violence would be so familiar to what I experienced at home.
@@ -7549,7 +7425,6 @@ should organize to remove these legacies where they are. For activist Bree
 ### Extracted Text
 
 
-
 South Carolina’s state capitol. We did not want to hide our history. We
 
 wanted to reclaim what was underneath it and decolonize our present.
@@ -7629,7 +7504,6 @@ thinking had developed into condemning the system of policing as a vestige
 ### Extracted Text
 
 
-
 Perry, I blamed legal education for not preparing future lawyers with a
 
 racial justice analysis, suggesting that if they had one, they would learn to
@@ -7639,7 +7513,6 @@ send cops to prison in their roles as prosecutors and judges. I would come to
 significantly disagree with myself later on this point. Growth requires us to
 
 constantly evaluate the ideas we hold dear.
-
 
 
 BY DECEMBER, I   was packing my bags to spend a month traveling between
@@ -7705,7 +7578,6 @@ students were mostly restricted to a “Bantu” education: how to be a good
 ![Page 105 Complete](images/page_105_full.png)
 
 ### Extracted Text
-
 
 
 teachers were fired because they refused to teach in Afrikaans. Students
@@ -7787,7 +7659,6 @@ special unit to quell protest over the course of several months. During South
 ### Extracted Text
 
 
-
 officials explained that the police’s Riot Unit was set up in the country with
 
 the help of Israel a year and a half before the Soweto Uprising:
@@ -7865,7 +7736,6 @@ occupation. In addition to Israel, apartheid South African police joined
 ### Extracted Text
 
 
-
 learn and share oppression and torture tactics against colonized people
 
 across the world. Colonel Swanepoel and others specially learned torture
@@ -7917,7 +7787,6 @@ US     could       help    activists   elsewhere         resist    police   viol
 colonization.99
 
 
-
 I   SPENT   EVERY     day on campus with students at Witwatersrand and the
 
 University of Cape Town. At Wits in Johannesburg, students were actively
@@ -7939,7 +7808,6 @@ partly because many of them could not afford to go home for the summer
 ![Page 108 Complete](images/page_108_full.png)
 
 ### Extracted Text
-
 
 
 bread for them to share. Asinamali.100
@@ -8019,7 +7887,6 @@ women activists who were attacked earlier also saw them play. Rather than
 ### Extracted Text
 
 
-
 pausing to smoke a cigarette. A coach yelled at them to hurry and the
 
 players started moving with agitation. The activists outright retorted, “This
@@ -8090,11 +7957,7 @@ and abroad, deserved so much more than that.
                                          FOUR
 
 
-
-
              LOVE AND ABOLITION
-
-
 
 
      APE TOWN SITS     nestled between an ocean with crashing white waves
@@ -8150,7 +8013,6 @@ surface, so many repressive colonial practices had remained in policing. I
 ![Page 111 Complete](images/page_111_full.png)
 
 ### Extracted Text
-
 
 
 any cop. Zelda had been the highest-ranking Black woman in the entire
@@ -8230,7 +8092,6 @@ consequence to the apartheid government. They attacked and massacred
 ![Page 112 Complete](images/page_112_full.png)
 
 ### Extracted Text
-
 
 
 other tactics brought heated debates.” The ANC ultimately decided to create
@@ -8370,7 +8231,6 @@ to whites—“the master”—but equal to the needs of the oppressed people
 rising up.
 
 
-
 PARADOXICALLY, THE MORE         I wanted to return to my movement in the US,
 
 the less committed I became to my movement’s demands. After spending
@@ -8388,7 +8248,6 @@ Education, I had begun to grow weary of saying “Black Lives Matter.”
 ![Page 114 Complete](images/page_114_full.png)
 
 ### Extracted Text
-
 
 
 labor,   real     democracy,       and    decolonization.         I    was    inspired         by       their
@@ -8470,7 +8329,6 @@ Phil went to Brazil, studied, and took classes where he finally learned what
 ### Extracted Text
 
 
-
 trying to infiltrate. They were trying to improve our class analysis.”102
 
     The Dream Defenders embarked on a social media blackout and started
@@ -8550,7 +8408,6 @@ marginalization, racism, and exploitation. Finally, we had yet to confront the
 ### Extracted Text
 
 
-
 liberation. “What are our politics?” I asked the emotionally tense room. Was
 
 our goal for a few women, queer people, Black people to integrate into
@@ -8572,7 +8429,6 @@ lose momentum. A South African graduate student who had been active in
 student protests abroad suggested that we do both—continue to organize for
 
 our demands and add a political education component to our movement.
-
 
 
 BEGINNING     IN    FEBRUARY     2016, our student formation (which we called
@@ -8626,7 +8482,6 @@ child, Garvey, I couldn’t sleep on the floor anymore. Each day, we organized
 ![Page 117 Complete](images/page_117_full.png)
 
 ### Extracted Text
-
 
 
 future of our movement. Rathna stayed. She maintained a daily schedule of
@@ -8706,7 +8561,6 @@ published essay by historian Robin D. G. Kelley called “Slipping in the
 ![Page 118 Complete](images/page_118_full.png)
 
 ### Extracted Text
-
 
 
 Review as “Black Study, Black Struggle.” More important than giving
@@ -8863,7 +8717,6 @@ colonizers to request more resources for law enforcement and patrols to
 ### Extracted Text
 
 
-
 entered truces to stop the wars, as was the case in 1618 when a Spanish king
 
 issued a charter to a large maroon community in Mexico; this eventually
@@ -8943,7 +8796,6 @@ confronted with a choice: keep organizing to make our school or country
 ### Extracted Text
 
 
-
 transform ourselves as we organized in pursuit of liberation. We fused the
 
 two to keep organizing and implemented our own demands to create the
@@ -9019,7 +8871,6 @@ convictions of killer cops; an assertion of Black life in public spheres; and
 ![Page 122 Complete](images/page_122_full.png)
 
 ### Extracted Text
-
 
 
 fighting. We initially expected that kinder and browner cops, prosecutors,
@@ -9099,7 +8950,6 @@ have them. I knew the origins of these systems and that they were working
 ### Extracted Text
 
 
-
 tweaking the terms of the state sanctioned violence, whether it was slavery,
 
 capitalism, or police.
@@ -9127,7 +8977,6 @@ militarism, policing, and the concentration of wealth for a few. Abolition
 destroys the stubborn allegiances keep society so violent and births new
 
 possibilities to live under a dynamic democracy led by the people.
-
 
 
 LAWYERING IN COURT increased my urgency for these abolitionist futures. As
@@ -9175,7 +9024,6 @@ expectation of justice. As soon as I walked in, I saw a giant glass box that
 ![Page 124 Complete](images/page_124_full.png)
 
 ### Extracted Text
-
 
 
 would bring a defendant downstairs to sit inside the cage. A tiny circle was
@@ -9255,7 +9103,6 @@ knowledge of police fabrication. Defense attorneys prayed for particular
 ### Extracted Text
 
 
-
 realistic they perceived the judge. We had to argue to divert people away
 
 from   jail   and   ask   for   probation   as   an   alternative;   prosecutors
@@ -9331,7 +9178,6 @@ trespass because of it. Rather than eliminating the unjust conditions, cities
 ![Page 126 Complete](images/page_126_full.png)
 
 ### Extracted Text
-
 
 
 and make careless arrests, so they often punish people who have not
@@ -9569,7 +9415,6 @@ Nevertheless, their violence had to be abolished, too.
 ### Extracted Text
 
 
-
 Belinda. There, my decolonization analysis and budding abolitionist politics
 
 started to collide and crash. Across the globe, my new friends and comrades
@@ -9647,7 +9492,6 @@ United States.” Right after, he says that “this outlook and theory of the
 ### Extracted Text
 
 
-
 applauded the courage and sacrifices of this group. He wrote that radical
 
 abolitionists such as Thaddeus Stevens were not just calling for the end of
@@ -9721,7 +9565,6 @@ reservoir    of    laborers     and   potential   consumers.       Because      
 ![Page 131 Complete](images/page_131_full.png)
 
 ### Extracted Text
-
 
 
 wealth by hiring more workers.
@@ -9801,7 +9644,6 @@ was    critical   of   the   proponents   of   abolition   democracy   because  
 ### Extracted Text
 
 
-
 instinctively capitalistic; standing on the side of the exploiter … scant
 
 sympathy for the exploited.” He said of Thaddeus Stevens,
@@ -9877,7 +9719,6 @@ On the contrary, the entire project could have been built on Indigenous land
 ![Page 133 Complete](images/page_133_full.png)
 
 ### Extracted Text
-
 
 
 Stevens were for land redistribution for Black people, which was laudable.
@@ -9958,7 +9799,6 @@ International that we should study these kinds of radical Black abolitionists:
 ![Page 134 Complete](images/page_134_full.png)
 
 ### Extracted Text
-
 
 
 and died for the right to vote. That is a fact but not the full truth. Black
@@ -10067,7 +9907,6 @@ resistance from people abroad, just as our student movement had been
 inspired.126
 
 
-
 I   DISCOVERED      CRITICAL       Resistance        in   Belinda     Hall.      The    abolitionist
 
 organization was founded in the late 1990s after a national convening of
@@ -10117,7 +9956,6 @@ prison closure campaigns and books like Michelle Alexander’s The New Jim
 ![Page 136 Complete](images/page_136_full.png)
 
 ### Extracted Text
-
 
 
 raising public consciousness that mass criminalization and imprisonment
@@ -10353,7 +10191,6 @@ activity.” This is true for homelessness, sex work, loitering, and any number
 ### Extracted Text
 
 
-
 the    short    term,    intermediate,     and    long-term      building     toward     the    ever-
 
 changing solutions we need. Instead of cops, cities could have various
@@ -10433,7 +10270,6 @@ new police academies should be established, and not another soul recruited.
 ### Extracted Text
 
 
-
 Lightfoot does, can create universal basic income programs for residents, or
 
 offer green jobs to build rapid, accessible public transit between cities
@@ -10511,7 +10347,6 @@ perfect sense. Abolition makes sense if you believe that we should end
 ### Extracted Text
 
 
-
 up to us. 
 ---
 
@@ -10526,11 +10361,7 @@ up to us.
                                           FIVE
 
 
-
-
           JUSTICE FOR THE LIVING
-
-
 
 
      LACK MOTHERS ARE            impossible. My own had pushed me to become a
@@ -10586,7 +10417,6 @@ want more police. I didn’t have to assume that these are white men because
 ![Page 143 Complete](images/page_143_full.png)
 
 ### Extracted Text
-
 
 
 cancel me.” I dreamed of writing back, “Yes, I know. A Black person has
@@ -10721,7 +10551,6 @@ classmates, friends, and family, I had witnessed how murder shapes our
 lives, as much as I had known the inadequacy of police to stop it.
 
 
-
 THAT AUGUST, I started        working at the Advancement Project National Office
 
 (AP), a multiracial civil rights organization that used movement lawyering,
@@ -10743,7 +10572,6 @@ job doing anything, what would it be?” Without hesitation, I answered,
 ![Page 145 Complete](images/page_145_full.png)
 
 ### Extracted Text
-
 
 
 building and organizing with lawyers in Law for Black Lives (L4BL), a
@@ -10823,7 +10651,6 @@ community        policing,   eliminating     bias   in   police,   launching   b
 ### Extracted Text
 
 
-
 like the American Civil Liberties Union, NAACP Legal and Educational
 
 Defense Fund, and Lawyers Committee for Civil Rights Under the Law had
@@ -10899,7 +10726,6 @@ INQUEST, the only charity providing expertise on state-sanctioned deaths
 ![Page 147 Complete](images/page_147_full.png)
 
 ### Extracted Text
-
 
 
 agencies, the media, and parliamentarians. Their focus is on deaths in police
@@ -11043,7 +10869,6 @@ Davis was the keynote, and afterward, I said hello and apologized for not
 knowing her work when I had first introduced her in college!138
 
 
-
 BACK IN THE        States, I was able to work with organizers in St. Louis and
 
 Ferguson to stop police, prison, and prosecutor violence. I loved that I could
@@ -11059,7 +10884,6 @@ Advancement          Project.      I   was   eager    to   do   this   through  
 ![Page 149 Complete](images/page_149_full.png)
 
 ### Extracted Text
-
 
 
 people needed it, and reduced the reasons why people thought they needed
@@ -11381,7 +11205,6 @@ institutions obsolete over time. To do that, we needed new ways to think
 ### Extracted Text
 
 
-
 punishment after death.144
 
     I asked the group of organizers if we could broaden the scope of Inez’s
@@ -11536,7 +11359,6 @@ to deliver the educational, economic, and housing benefits it promised to
 ### Extracted Text
 
 
-
 have been decimated by highway construction, redlining, and gentrification.
 
 Studies    show   that    cities    with   high   rates    of   inequality   and    economic
@@ -11616,7 +11438,6 @@ information or even the truth usually sets anyone free. To help release
 ### Extracted Text
 
 
-
 considerable risk to themselves, confess that cops threatened them with
 
 abuse or jail to incriminate another; police departments don’t usually rally
@@ -11690,7 +11511,6 @@ young as nine years old in the community, the BLA retaliated. They were
 ![Page 157 Complete](images/page_157_full.png)
 
 ### Extracted Text
-
 
 
 Africa.
@@ -11770,7 +11590,6 @@ speak     on     television     and     finger-wag         against     “no-sni
 ![Page 158 Complete](images/page_158_full.png)
 
 ### Extracted Text
-
 
 
 place.
@@ -11931,7 +11750,6 @@ odds. Yet as the conversations continue, they’ll share that their options were
 ### Extracted Text
 
 
-
 and securing minimum protection from neighborhood violence, or selling
 
 drugs for income or using drugs to cope with the loss of a loved one or their
@@ -12009,7 +11827,6 @@ campaign for nearly 300 housing units that are cooperatively owned and
 ### Extracted Text
 
 
-
 Cooperatively      owned     and   democratically     operated     projects    can    more
 
 equitably spread resources for everyone, which minimizes inequality and the
@@ -12019,8 +11836,6 @@ violence that can accompany it. Concentrated wealth through capitalist
 accumulation minimizes the amount of people who benefit from the flow of
 
 resources.151
-
-
 
 
 COMMUNITY-BASED               VIOLENCE          transcends    gangs,   so     at   planning
@@ -12086,7 +11901,6 @@ authority to shoot him to stop him from causing serious bodily injury to the
 ![Page 162 Complete](images/page_162_full.png)
 
 ### Extracted Text
-
 
 
 felony, which was reduced to two misdemeanors. His lawyer said he was
@@ -12168,7 +11982,6 @@ trans people, identity, culture, and ideas—also result in the policing of
 ### Extracted Text
 
 
-
 choosing which bathrooms people can use or what sports kids can play
 
 according to their genitalia can impact seemingly benign spectators who are
@@ -12244,7 +12057,6 @@ free because these forms of punishment have not completely eliminated
 ![Page 164 Complete](images/page_164_full.png)
 
 ### Extracted Text
-
 
 
 system that is overwhelmingly transantagonistic. To stop trans people, or
@@ -12326,7 +12138,6 @@ eradicate murders. A shockingly high number of young queer people are
 ### Extracted Text
 
 
-
 arrangements.       A    2015       UCLA     study    found      that    67   percent    of   young
 
 homeless people had to leave their home because of their sexual orientation
@@ -12406,7 +12217,6 @@ where people are organizing and creating a society that is less violent and
 ### Extracted Text
 
 
-
 preventing violence. I think about this support practice most squarely in the
 
 maroonage and abolitionist traditions where Black people did not wait on
@@ -12484,7 +12294,6 @@ people can be a direct response to interpersonal harm and community
 ### Extracted Text
 
 
-
 support.160
 
       LGBTQIA communities, especially Black and Latinx, have created and
@@ -12536,7 +12345,6 @@ have been dreaming of and demanding for freedom, safety, and real justice
 for the thousands of Black trans women who deserve nothing less.
 
 
-
 DURING THE ACTION          St. Louis trainings, we also discussed other harm that
 
 leads to homicides and murder, such as burglaries and robberies. In 2018 in
@@ -12560,7 +12368,6 @@ usually steal from people they know; “acquaintance” is the largest category
 ![Page 168 Complete](images/page_168_full.png)
 
 ### Extracted Text
-
 
 
 if someone they know or love has ever stolen from them. Everyone nods or
@@ -12642,7 +12449,6 @@ drugs, they can buy them. Or doctors, friends, parents, and neighbors
 ### Extracted Text
 
 
-
 because they need money for food, utilities, medicine, and other day-to-day
 
 costs. “Senseless violence” is caused when the government criminalizes
@@ -12722,7 +12528,6 @@ he is going to fail the drug test from his probation officer. Lawmakers
 ### Extracted Text
 
 
-
 they sit in Congress with multiple homes, quality insurance, generational
 
 wealth, net worth in the millions, and incomes at nearly two hundred
@@ -12730,7 +12535,6 @@ wealth, net worth in the millions, and incomes at nearly two hundred
 thousand dollars. They can afford the drugs they want and do not have the
 
 fear of any drug-testing lingering over them at work.166
-
 
 
 “WHAT ABOUT THE murderers?”                   can reveal the kinds of interpersonal harms
@@ -12798,7 +12602,6 @@ and people of color. Today, militarism and policing can inspire civilians to
 ![Page 171 Complete](images/page_171_full.png)
 
 ### Extracted Text
-
 
 
 police shootings among Black people is significantly higher than most
@@ -12880,7 +12683,6 @@ stand, “I blame the system for creating and facilitating people like Jeremy,
 ### Extracted Text
 
 
-
 supremacist got special treatment from the police [who] believed the assault
 
 wasn’t made by the assailant. He didn’t believe me or the two TriMet
@@ -12956,7 +12758,6 @@ Confederate, Nazi, Thin Blue Line, and Trump flags, the raiders invaded the
 ![Page 173 Complete](images/page_173_full.png)
 
 ### Extracted Text
-
 
 
 scaffolds that line the windows. Joe Biden took to a podium to respond,
@@ -13038,7 +12839,6 @@ in US history at the time. Twenty-six people died; eight were children.
 ### Extracted Text
 
 
-
 jailed him, demoted him, and issued a “bad conduct discharge” before the
 
 rampage over domestic violence. Lanza took four semi-automatic firearms
@@ -13114,7 +12914,6 @@ be white. Sniper John Allen Muhammad was very Black, and he had a
 ![Page 175 Complete](images/page_175_full.png)
 
 ### Extracted Text
-
 
 
 military one. In 1978, Muhammad enlisted in the Louisiana National Guard
@@ -13194,7 +12993,6 @@ Paddock’s disdain sounded remarkably similar to Timothy McVeigh’s, the
 ### Extracted Text
 
 
-
 revenge for the police violence at Waco and Ruby Ridge.179
 
     McVeigh viewed the United States as a bully for killing innocent people
@@ -13270,7 +13068,6 @@ called 911 to demand that the United States stop airstrikes in Syria and Iraq.
 ![Page 177 Complete](images/page_177_full.png)
 
 ### Extracted Text
-
 
 
 forty-nine people and injured more than fifty. War inspires retaliatory acts
@@ -13350,7 +13147,6 @@ the shooting, the police in riot gear and tanks tossed Rittenhouse and other
 ### Extracted Text
 
 
-
 we really do.” If Rittenhouse had been a cop, he probably could have shot
 
 protesters without facing charges. He was on his way. New York Times’s
@@ -13426,7 +13222,6 @@ visited my alma mater to speak with JROTC classes about all that I’d
 ![Page 179 Complete](images/page_179_full.png)
 
 ### Extracted Text
-
 
 
 the classrooms where I used to report on current events as a kid, I noticed
@@ -13546,7 +13341,6 @@ States, men will mostly emulate militarism as they open fire in schools and
 churches and concerts.189
 
 
-
 HAMID KHAN HEARD these violent military stories thirty-five thousand feet in
 
 the air for twenty-five years. I’d met Hamid at an organizing meeting at this
@@ -13582,7 +13376,6 @@ and the men would drop epithets about Black and Middle Eastern people
 ![Page 181 Complete](images/page_181_full.png)
 
 ### Extracted Text
-
 
 
 arguments in the cockpit.190
@@ -13739,7 +13532,6 @@ influence in other countries by force. For the ones who made it back, the
 ### Extracted Text
 
 
-
 ghettos, trailers, and segregated communities that Rev. Dr. King and Rev.
 
 Barber    described.     The     militarism     may     have      inspired    domestic         mass
@@ -13779,7 +13571,6 @@ are also reducing the possibilities for civilians to mimic police and military
 violence inside the United States.195
 
 
-
 TOWARD THE END         of our training, Inez sat down at the farthest end of the
 
 rectangular table. Her palms were on the sides of her temples. Her fingers
@@ -13817,7 +13608,6 @@ to be one framework that they were going to use to start reducing their
 ### Extracted Text
 
 
-
 attempt to study it and struggle alongside them to make it possible.
 
       Inez’s good faith inquiry pushed us deeper into a conversation about
@@ -13844,11 +13634,7 @@ systems that murder us, too.
                                            SIX
 
 
-
-
           SEX, LOVE, AND VIOLENCE
-
-
 
 
      OURT AND CAMPAIGN meetings throughout my time in St. Louis brought
@@ -13986,7 +13772,6 @@ were obsessed with asking Black parents what we were going to tell our
 ### Extracted Text
 
 
-
 question; I wanted them to ask white parents what they were going to do to
 
 stop their white children from killing. But the earliest “talks” I had with my
@@ -14064,7 +13849,6 @@ woman mentor told me when I sought her help in college, “You’re a
 ![Page 188 Complete](images/page_188_full.png)
 
 ### Extracted Text
-
 
 
 men. They can’t help themselves.” I had not possessed the language then to
@@ -14146,7 +13930,6 @@ their marriages, I felt like a fugitive sitting in the pews, listening to how I
 ### Extracted Text
 
 
-
 sometimes become shallow measurements for the strengths of marriages.
 
 Surely, abusive habits can end in relationships and lovers can undergo
@@ -14224,7 +14007,6 @@ against men, women, nonbinary, gender-nonconforming, genderqueer, and
 ### Extracted Text
 
 
-
 government widened the scope of punishment with little regard if more
 
 policing and convictions could prevent more survivors.
@@ -14262,7 +14044,6 @@ people. Rather than forcing them to play together just because one desires it,
 I have intentional conversations to teach them to respect and affirm each
 
 other’s decision over their body, time, and joy.
-
 
 
 LAW SCHOOL WAS the              first place where I had studied sexual violence in any
@@ -14385,7 +14166,6 @@ sexual coercion, 27.3% have experienced unwanted sexual contact, and
 ### Extracted Text
 
 
-
 disabilities experience sexual assault or physical violence in their lifetimes
 
 and that more than 90% of all people with developmental disabilities will
@@ -14463,7 +14243,6 @@ report a crime, a 6 percent drop from when VAWA passed. The resources
 ### Extracted Text
 
 
-
 goal of what survivors may want. A larger review of the various responses
 
 demonstrates that survivors want protection and for the violence to stop,
@@ -14517,7 +14296,6 @@ been practicing was part of what abolition requires: reducing our reliance
 on the prison industrial complex by meeting each other’s needs.
 
 
-
 CONTRARY        TO   WHAT     teachers and mentors in my life had told me, the
 
 explanation for sexual assault was not simply “boys will be boys” and “men
@@ -14539,7 +14317,6 @@ of deep, underlying systems, ideas, and laws that police cannot solve, no
 ![Page 194 Complete](images/page_194_full.png)
 
 ### Extracted Text
-
 
 
 example, if we unearth the layers of seemingly innocuous marital markers
@@ -14621,7 +14398,6 @@ extraction, and exclusion that has to be undermined and abolished. As a kid,
 ### Extracted Text
 
 
-
 plantation. From the shores to the ships to the slave plantations, Black
 
 women faced and resisted sexual violence from white men who enacted it
@@ -14699,7 +14475,6 @@ under slavery, and in Missouri, Black male slaves could not be charged,
 ### Extracted Text
 
 
-
 by castration for raping white women; just as the biblical law that required
 
 the    same     stoning     for   any    adulterers,      regardless     of       sex.    Yet    in    a
@@ -14775,7 +14550,6 @@ Black, multi-racial, and undocumented women have greater risk of being in
 ![Page 197 Complete](images/page_197_full.png)
 
 ### Extracted Text
-
 
 
 and Customs Enforcement and Border Patrol are threats to immigrants,
@@ -14857,7 +14631,6 @@ fought    Christopher         Columbus     when    he     kidnapped       and   
 ### Extracted Text
 
 
-
 historian Roxanne Dunbar-Ortiz writes, “sexual abuse of both girls and boys
 
 was also rampant. Much documentation and testimony attest to the never-
@@ -14907,7 +14680,6 @@ rate of their white counterparts. Police violence and inaction make the
 institution ripe not only for abolition, but also purposes of decolonization.208
 
 
-
 PEOPLE WHO IDENTIFY               or are perceived as LGBTQIA are also subjected to
 
 sexual   violence      as    a    result    of   capitalism,   patriarchy,        transphobia,      and
@@ -14933,7 +14705,6 @@ the highest rates of sexual violence; nearly half have been raped in their
 ![Page 199 Complete](images/page_199_full.png)
 
 ### Extracted Text
-
 
 
 attempting to dominate and control their sexual identities to make them
@@ -15094,7 +14865,6 @@ spectacle and lesson. Not because Geuce wanted to pretend that he had
 ### Extracted Text
 
 
-
 claims about his childhood, his sexuality, his gender identity, and my
 
 parenting. I felt small. This had to stop. I told his dad thanks and quickly
@@ -15148,7 +14918,6 @@ them around binaries and heteronormativity leads can turn them into adults
 that control, punish, and sexually abuse others because of it. It’s a matter of
 
 violence and justice, and life and death.
-
 
 
 WHEN ASKED, “WHAT about the rapists,” I also cannot help but to think about
@@ -15331,7 +15100,6 @@ obvious reasons, consent is nearly impossible to give freely when a cop
 ### Extracted Text
 
 
-
 do not prohibit sexual intercourse between a cop and someone in their
 
 custody. The reliance on police to stop sexual assault comes at a cost—their
@@ -15409,9 +15177,7 @@ battery,   and   rape.   Abolishing   the    prison   industrial   complex   abo
 ### Extracted Text
 
 
-
 violence, closing prisons and reducing contact with police is a start.215
-
 
 
 PATRIARCHY UNDERGIRDS SEXUAL violence among police and prisons, and as
@@ -15485,7 +15251,6 @@ She didn’t turn to numbers and statistics, nor punishment. She did not write
 ![Page 206 Complete](images/page_206_full.png)
 
 ### Extracted Text
-
 
 
 victims cope and describe the type of person who has harmed them. But
@@ -15563,7 +15328,6 @@ outside the armed forces. In the US military, all genders experienced more
 ![Page 207 Complete](images/page_207_full.png)
 
 ### Extracted Text
-
 
 
 Women constitute 20 percent of the military, but 63 percent of assaults. One
@@ -15645,7 +15409,6 @@ Virgin Islands, the tiny Black colony in the Caribbean. The FBI may not
 ### Extracted Text
 
 
-
 compared to the United States’ 25.2 per 100,000 people. Colonialism and
 
 economic     inequality   are    a   primary   driver   of   gender-based   violence   in
@@ -15667,8 +15430,6 @@ one Puerto Rican activist responded when I said that Puerto Rico should
 become a state to get resources to stop the violence: “We don’t need to be a
 
 state. We need to be free.”220
-
-
 
 
 TRAVELING BETWEEN PUERTO RICO, Ferguson, and St. Louis, I
@@ -15722,7 +15483,6 @@ including a 72 percent drop in harm committed by family members and
 ![Page 209 Complete](images/page_209_full.png)
 
 ### Extracted Text
-
 
 
 who reported being victims of crime dropped by 12 percent. Rates of
@@ -15884,7 +15644,6 @@ all violence.227
 ### Extracted Text
 
 
-
 dreaming, practicing what we need until we get free. I’m always becoming,
 
 and hope to learn new lessons, ideas, and practices decades from now. As
@@ -15962,7 +15721,6 @@ community self-defense, mutual aid, and free breakfast programs to inform
 ### Extracted Text
 
 
-
 violence should not be the first time we feel or witness it.
 
      Sexual       and      gender-based           violence        require         community-based
@@ -16026,7 +15784,6 @@ distancing.”      With     the   communities            that    Zelda      sup
 distancing, social solidarity, relief is revolutionary.”231
 
 
-
 LGBTQIA-SPECIFIC INTERVENTIONS AT the                   community level are indispensable
 
 for police abolition as well. Casa Ruby does similar work year-round in 
@@ -16038,7 +15795,6 @@ for police abolition as well. Casa Ruby does similar work year-round in
 ![Page 213 Complete](images/page_213_full.png)
 
 ### Extracted Text
-
 
 
 dinner and theater presentation by The Tenth, an independent Black queer
@@ -16120,7 +15876,6 @@ abolitionist lens. The Chicago-based group was founded in 2015 by Black
 ### Extracted Text
 
 
-
 tradition of radical liberatory activism encompassed by Assata Shakur, to
 
 train up others in the radical political tradition of Black feminism, and to
@@ -16198,7 +15953,6 @@ embarked       on    efforts    to   restore     relationships   between        
 ### Extracted Text
 
 
-
 harm was made possible in the first place. Without law enforcement, and
 
 with the help of restorative and transformative justice practitioners, young,
@@ -16244,7 +15998,6 @@ successful, or when harm recurs, that they become public. We shouldn’t shy
 away from that fact, but use it as a lesson to improve our approaches.235
 
 
-
 IN   ADDITION      TO      community-level        approaches,         police     abolition    and
 
 eliminating sexual violence also require deep legal change that is fully
@@ -16274,7 +16027,6 @@ arrested, prosecuted, convicted, and sentenced to twenty years in prison.
 ![Page 216 Complete](images/page_216_full.png)
 
 ### Extracted Text
-
 
 
 her actions. In the thicket of advocating against Stand Your Ground because
@@ -16356,7 +16108,6 @@ families experience domestic violence, in contrast to 10 percent of families
 ### Extracted Text
 
 
-
 officers found a rate of 24 percent, indicating that domestic violence is two
 
 to four times more common among police families than American families
@@ -16434,7 +16185,6 @@ parents, I realized how the marital benefits I once aspired to have did not
 ### Extracted Text
 
 
-
 divorce, but I couldn’t add any of my uninsured siblings, whom I would be
 
 related to forever. And our children had two options for insurance because
@@ -16481,13 +16231,9 @@ practice healthy lifestyles.
                                       SEVEN
 
 
-
-
 DEHUMANIZATION, DISABILITY,
 
                   AND RESISTANCE
-
-
 
 
        HEN I START reading a new book, I write a short letter to myself on the
@@ -16540,7 +16286,6 @@ that body gendered; and the heights of sidewalk curbs, kitchen cabinets, and
 ![Page 220 Complete](images/page_220_full.png)
 
 ### Extracted Text
-
 
 
 body swell; music made that body dance; friends made that body laugh.
@@ -16697,7 +16442,6 @@ don’t consider us human, then they can justify their violence against us; that
 ### Extracted Text
 
 
-
 would not have beat him back down each time he attempted to stand.
 
 Consequently, I was realizing that when we invoked dehumanization as a
@@ -16775,7 +16519,6 @@ white supremacy, policing, or any other system of oppression, we must
 ### Extracted Text
 
 
-
 it   away.    Even      if    police     treated   us     perfectly   “human,”     the    job   is   still
 
 problematic. The school police who walked kids to in-school suspension
@@ -16787,7 +16530,6 @@ Dehumanization language obscured the real problem: police power. Not
 how they view or treat us, but the institution itself. We must focus on
 
 reducing police power, more than humanizing ourselves.245
-
 
 
 FROM WALTER JOHNSON, I’d                   also gathered that just as activists attempted to
@@ -16851,7 +16593,6 @@ attacks on them; planters sometimes fabricated and exaggerated the raids to
 ![Page 224 Complete](images/page_224_full.png)
 
 ### Extracted Text
-
 
 
 used these descriptions inversely to argue against slavery; bio-archaeologist
@@ -17015,7 +16756,6 @@ ventured anyway. Harriet Tubman did. Tubman is perhaps the most famous
 ### Extracted Text
 
 
-
 demand to tie down a Black man who had left the plantation without
 
 permission. When the Black man started running away again, she tried to
@@ -17093,7 +16833,6 @@ husband had fought in the Civil War. Tubman supported her family and
 ### Extracted Text
 
 
-
 lame, the halt, and the blind, the bruised and crippled little children, and one
 
 crazy woman,” according to her biographer. A blind woman living there had
@@ -17145,7 +16884,6 @@ services, counseling, or physical fitness opportunities for the communities
 they assaulted, arrested, and tear-gassed for years.
 
 
-
 FOLLOWING           THE   DOJ   investigation of the Ferguson Police Department in
 
 2016, I was introduced to the Harriet Tubman Collective. I was the editor-
@@ -17169,7 +16907,6 @@ visionary policy agenda for the liberation movement that was catalyzed in
 ![Page 228 Complete](images/page_228_full.png)
 
 ### Extracted Text
-
 
 
 six areas: ending the war on Black people, reparations, divestment and
@@ -17328,7 +17065,6 @@ contributed a searing submission on erasure and marginalization within the
 ### Extracted Text
 
 
-
 disability justice, a framework that queer radical disabled activists Mia
 
 Mingus and Patty Berne began exploring as a paradigm in 2005. With other
@@ -17404,7 +17140,6 @@ people can participate. It wasn’t until Belinda Hall that I was pushed to ask
 ![Page 231 Complete](images/page_231_full.png)
 
 ### Extracted Text
-
 
 
 about disability justice tried to ensure that our furniture was arranged so that
@@ -17484,9 +17219,7 @@ ableism, and called out the disability rights movement for perpetuating
 ### Extracted Text
 
 
-
 a demand to “End the War on Black Health and Black Disabled People.”260
-
 
 
 IN 2016 AND beyond, as activists and protestors fought against police violence
@@ -17560,7 +17293,6 @@ unemployment, sickness, disability, and old age, laborers would gain a
 ![Page 233 Complete](images/page_233_full.png)
 
 ### Extracted Text
-
 
 
 These cycles of exclusion from work, schools, and housing creates more
@@ -17670,7 +17402,6 @@ When companies, schools, and landlords push disabled people out, police
 are then tasked with patrolling and surveilling their daily lives.
 
 
-
 LIKE SLAVERY, POLICING         also disables people. On a global scale, the US
 
 exports policing tactics and militarism that inflicts disability as a tactic to
@@ -17718,7 +17449,6 @@ The grenade put a hole in the baby’s small chest. Seeing a pool of blood and
 ![Page 235 Complete](images/page_235_full.png)
 
 ### Extracted Text
-
 
 
 police told her to calm down because the child had only lost a tooth.
@@ -17840,7 +17570,6 @@ years is why I have them now. And I pray that I do not pass them on to my
 children.272
 
 
-
 AROUND THE TIME I gave birth to my second child, Garvey, in October 2016,
 
 I read about a sixty-six-year-old Black woman named Deborah Danner.
@@ -17876,7 +17605,6 @@ to a New York Times feature, Danner had physically calmed down but
 ![Page 237 Complete](images/page_237_full.png)
 
 ### Extracted Text
-
 
 
 Mullings and Danner were speaking, Mullings heard the cops behind her
@@ -17954,7 +17682,6 @@ everyone’s participation in fellowship with each other. As I’ve aged, I’ve
 ![Page 238 Complete](images/page_238_full.png)
 
 ### Extracted Text
-
 
 
 encouraging therapy and medication for those who want it. Every major
@@ -18036,7 +17763,6 @@ people that she was a large, aggressive old woman. One picture after a fire.
 ### Extracted Text
 
 
-
 Bumpurs Justice Committee” afterward and used the same picture for the
 
 logo. Presumably, she had other pictures that “humanized” her mother. But I
@@ -18110,7 +17836,6 @@ revealed more details about police killings. Sullivan was charged with
 ![Page 240 Complete](images/page_240_full.png)
 
 ### Extracted Text
-
 
 
 expressed joy at the indictment announcement and hoped for “justice.”
@@ -18188,7 +17913,6 @@ shot and killed Elizabeth Magnum, a thirty-five-year-old Black woman,
 ![Page 241 Complete](images/page_241_full.png)
 
 ### Extracted Text
-
 
 
 apartment. Because she had been flagged as “emotionally disturbed,” the
@@ -18332,7 +18056,6 @@ organizing in EBJC was dedicated to eradicating the conditions that made
 police violence possible.285
 
 
-
 WHEN FRIENDS OF mine or people I grew up with die, I reread all of our texts
 
 and social media messages. Sometimes, I’ll send a message even though I
@@ -18346,7 +18069,6 @@ know they will not respond. I don’t know why, but it feels related to my
 ![Page 243 Complete](images/page_243_full.png)
 
 ### Extracted Text
-
 
 
 for clues left behind or messages from the other side. My friends archived
@@ -18428,7 +18150,6 @@ political post about Freddie Gray, who had been killed by the Baltimore
 ### Extracted Text
 
 
-
 them from protesting or going home after school, the kids retaliated by
 
 throwing   rocks.   Cops   threw   rocks   back.   Often   first.   Gaines   lived   in
@@ -18506,7 +18227,6 @@ A cop shot Gaines when she walked to the kitchen toward her son. The
 ![Page 245 Complete](images/page_245_full.png)
 
 ### Extracted Text
-
 
 
 declined to bring charges. A jury awarded her son $38 million in a civil
@@ -18588,7 +18308,6 @@ have to live in the projects because there would not be any projects, but
 ### Extracted Text
 
 
-
 1984, the minimum wage was three dollars and thirty-five cents. That means
 
 that she would have sold an hour of her labor and time for less than five
@@ -18628,8 +18347,6 @@ would have continued to show her babies, her bright lip colors, her striped
 outfits.
 
 
-
-
 I MET DUSTIN GIBSON in January 2020 at the same abolition convening
 
 where I had met Ejeris Dixon. We were in a few small group sessions
@@ -18665,7 +18382,6 @@ runway that never happened. My aunt’s home on Dade in Ferguson bordered
 ![Page 247 Complete](images/page_247_full.png)
 
 ### Extracted Text
-
 
 
 taller than the car. Apartment buildings had tenants, gates, and gaping
@@ -18747,7 +18463,6 @@ the police approached them. Kelley resisted an officer when she tried to
 ### Extracted Text
 
 
-
 minutes. Per Dustin, when police from three different departments found
 
 him, ten cops surrounded him and used pepper spray and batons, and tased
@@ -18823,7 +18538,6 @@ about twenty-six year olds that’s like, ‘Yo, I have diabetes. I’m sleeping
 ![Page 249 Complete](images/page_249_full.png)
 
 ### Extracted Text
-
 
 
 I’ll have somewhere warm to stay. And my foot is swollen because I can’t
@@ -18905,7 +18619,6 @@ communities     should    learn   how   to   get   somebody     out   of   bed, 
 ### Extracted Text
 
 
-
 survival. He believes that those who want to receive care should learn
 
 independence from people in their peer group as much as possible, and I
@@ -18983,7 +18696,6 @@ blocks    and     neighborhoods.              Tenant        groups,      homeown
 ![Page 251 Complete](images/page_251_full.png)
 
 ### Extracted Text
-
 
 
 keep   the    community      close    through     organizing,    accessible     events,   and
@@ -19065,7 +18777,6 @@ eliminate contact with police and reduce the potential for violence. Onyinye
 ### Extracted Text
 
 
-
 curriculum       to   make     it   widely   accessible.   Utilizing     the     train-the-trainer
 
 model, Critical Resistance and OPP health-care worker cohorts have offered
@@ -19143,7 +18854,6 @@ hospitals    and       fund    educational    opportunities      in    his    ho
 ![Page 253 Complete](images/page_253_full.png)
 
 ### Extracted Text
-
 
 
 allegedly led a torture ring against Black Chicagoans, using “racial epithets,
@@ -19225,7 +18935,6 @@ organizing,     the       destruction      of     the    planet     will   have 
 ### Extracted Text
 
 
-
 facilitate the destruction of the Earth by advancing and facilitating the
 
 torture, displacement, ableism, and death that makes it easier for companies
@@ -19244,11 +18953,7 @@ to make a profit from our communities. We must not let them.299
                                        EIGHT
 
 
-
-
     “WE ONLY WANT THE EARTH”
-
-
 
 
      LIMATE CATASTROPHE SCARED          me. Phrase and phenomenon. A mere
@@ -19304,7 +19009,6 @@ Christmas lights around the peeling black steel bannisters, my grandmother
 ![Page 256 Complete](images/page_256_full.png)
 
 ### Extracted Text
-
 
 
 countless tiny flags in corners on each stair. My grandmother would answer
@@ -19384,7 +19088,6 @@ even worse. By one prediction in David Wallace-Wells’s The Uninhabitable
 ### Extracted Text
 
 
-
 22,000   murders,       180,000    rapes,      3.5    million     assaults,     and   3.76    million
 
 robberies, burglaries, and acts of larceny.” Federal and local governments
@@ -19426,7 +19129,6 @@ climate change and environmental degradation, and resist policing and
 militarism as solutions to these problems.
 
 
-
 CLIMATES—WHETHER              RACIAL,   ECONOMIC,           or   environmental—have            forced
 
 migration    within      US    history.   All    three      shaped      how     my    grandmother
@@ -19460,7 +19162,6 @@ remained segregated. Memphis still held onto cotton as a major crop in the
 ![Page 258 Complete](images/page_258_full.png)
 
 ### Extracted Text
-
 
 
 whites-only         Cotton   Carnival.      Black     people    responded           with     their     own
@@ -19542,7 +19243,6 @@ from farmers as economic relief but killed half of them because they could
 ### Extracted Text
 
 
-
 disaster,   but   a    consequence    of    settler   colonialism.   According    to
 
 meteorologist and climate specialist Jeff Berardelli, the federal government
@@ -19618,7 +19318,6 @@ about inside a nation’s borders due to environmental events (as compared to
 ![Page 260 Complete](images/page_260_full.png)
 
 ### Extracted Text
-
 
 
 excluded from nation states altogether). Dust bowls were the catastrophic
@@ -19698,7 +19397,6 @@ and   Latinx   people     are   more   likely   to   live   in   neighborhoods  
 ![Page 261 Complete](images/page_261_full.png)
 
 ### Extracted Text
-
 
 
 Atmospheric scientist Dr. J. Marshall Shepherd cautions that southern Black
@@ -19857,7 +19555,6 @@ cultural burnings of forest land by tribes. Before these burnings were
 ### Extracted Text
 
 
-
 the forests that were likely to catch fire later in dry seasons. These burnings
 
 controlled fires and decreased the kind of wild raging fires that now occur
@@ -19933,7 +19630,6 @@ government had built insufficient levees to stop the flood. It would be almost
 ![Page 264 Complete](images/page_264_full.png)
 
 ### Extracted Text
-
 
 
 also     a   consequence     of    climate   change   and   environmental    degradation:
@@ -20015,7 +19711,6 @@ quit her job and became a climate activist. Battle demanded pay for the
 ### Extracted Text
 
 
-
 the New Orleans Police Department killed, and pay from the Jefferson
 
 Parish Sheriff’s Office, which, “in the middle of the storm, [as] people
@@ -20037,7 +19732,6 @@ is entitled to land full of oil and natural gas. Her “rad talk” made all the
 connections at the intersection of abolition, anti-capitalism, decolonization,
 
 and racial justice.313
-
 
 
 WHEN     POLICE   MAKE    arrests   in   the   wake   of   environmental   and   climate
@@ -20091,7 +19785,6 @@ punishment if they attempt to make demands, and especially if they attempt
 ![Page 266 Complete](images/page_266_full.png)
 
 ### Extracted Text
-
 
 
 inside alongside campaigns while Fight Toxic Prisons organize on the
@@ -20173,7 +19866,6 @@ waves softly thumping against my room. When I woke up, I opened the
 ### Extracted Text
 
 
-
 staircase led right into the ocean. Why would they build stairs that drop so
 
 suddenly? My coworker Ricardo laughed sadly when I expressed confusion
@@ -20249,7 +19941,6 @@ generators and other resources for survival. Rather than spending the money
 ![Page 268 Complete](images/page_268_full.png)
 
 ### Extracted Text
-
 
 
 millions of dollars to compensate police for their labor.316
@@ -20329,7 +20020,6 @@ work across the country, and the incarcerated organizers in Puerto Rico
 ### Extracted Text
 
 
-
 justice. I thought that these campaigns would be wonderful entry points for
 
 people       who       cared    deeply   about       climate    and     environmental   justice    or
@@ -20347,7 +20037,6 @@ with environmental justice, disability justice, and climate justice, activists
 who primarily organize in those fields can contribute to making the prison
 
 industrial complex obsolete.
-
 
 
 IN ST. LOUIS, many         of the people held in toxic jails like the Workhouse first
@@ -20405,7 +20094,6 @@ grandmother, and I lived. These routes made it easier for the white suburban
 ![Page 270 Complete](images/page_270_full.png)
 
 ### Extracted Text
-
 
 
 people displaced by the construction. Highways are not neutral passageways
@@ -20485,7 +20173,6 @@ peeling lead paint; and boarded floors and stairs to cover gaping holes. The
 ![Page 271 Complete](images/page_271_full.png)
 
 ### Extracted Text
-
 
 
 dogs sleeping there and and boarded it up herself. When that unit’s pipes
@@ -20644,7 +20331,6 @@ frequent     anger   and    resentment,       mood      instability,    substanc
 ### Extracted Text
 
 
-
 deceitfulness,        lying   or   stealing.”       No    amount    of   lead        is   safe    in   our
 
 bloodstreams.         Bioethicist    Harriet       A.    Washington’s     A     Terrible     Thing       to
@@ -20720,7 +20406,6 @@ decided to use lead in gas because the company could not patent and profit
 ![Page 274 Complete](images/page_274_full.png)
 
 ### Extracted Text
-
 
 
 exposed millions of people to lead poisoning, which “may be the cause of
@@ -20802,7 +20487,6 @@ recent repair work, the inability to speak English, belonging to Bangladeshi
 ### Extracted Text
 
 
-
 factors were having recent repair work done at home that exposed lead
 
 paint,    and     not    having      health    insurance.       In    response,      the       mayor
@@ -20842,7 +20526,6 @@ justice, environmental justice, and abolition, police will continue to arrest,
 capture, and kill lead poisoning survivors.331
 
 
-
 MY     GRANDMOTHER           HAD   become     severely   depressed         from    her   unhealthy
 
 living and work conditions. My mother arranged for her to move to the
@@ -20878,7 +20561,6 @@ except for the wooden television set with the built-in record player. I had
 ![Page 276 Complete](images/page_276_full.png)
 
 ### Extracted Text
-
 
 
 me about rap music. I teased her about the blues. “Grandmomma, what
@@ -20960,7 +20642,6 @@ our home and it did not stop us from getting sick. Ironically, my second
 ### Extracted Text
 
 
-
 uncles lived and many of the issues had remained: lead, concentrated
 
 poverty, and economic exploitation. Our foster parent beat my brother and I
@@ -21040,11 +20721,9 @@ for what is to come, the unfamiliar. If capitalists and countries do not reduce
 ### Extracted Text
 
 
-
 will continue to become sick and die. Police and prisons will continue to
 
 manage survivors of the devastation.
-
 
 
 AT NEARLY EVERY opportunity for progressive change to preserve our planet,
@@ -21116,7 +20795,6 @@ Black people in 1985. For more than ten years before the bombing, the
 ![Page 279 Complete](images/page_279_full.png)
 
 ### Extracted Text
-
 
 
 revolutionary religious teachings of John Africa. Mike Africa Jr., who was
@@ -21194,7 +20872,6 @@ family members returning from jail. Cops showed up and attacked them,
 ![Page 280 Complete](images/page_280_full.png)
 
 ### Extracted Text
-
 
 
 Africa. Because she had been delivered at home and did not have a birth
@@ -21276,7 +20953,6 @@ Chicago   Police    Department       destroyed       the    meals   for   the   
 ### Extracted Text
 
 
-
 across the country threatened the Young Lords and Black Panthers who
 
 used tuberculosis and lead poisoning screenings to keep their communities
@@ -21356,7 +21032,6 @@ oppression, and environmental degradation for Black families across St.
 ### Extracted Text
 
 
-
 I had not known about the organizing and resistance inside prisons against
 
 these toxic sites of violence. And, I did not know about the long history of
@@ -21380,7 +21055,6 @@ developed in response to this resistance, and my activism has grown in
 response to the police. As the title of Mary Frances Berry’s book on
 
 progressive social movements instructs, history teaches us to resist.
-
 
 
 I HEARD RUTH        Wilson Gilmore once say “abolition must be red, black, and
@@ -21432,7 +21106,6 @@ proposed in the Green New Deal. The Green New Deal is a policy proposal
 ![Page 283 Complete](images/page_283_full.png)
 
 ### Extracted Text
-
 
 
 array of social problems. The two primary architects of the bill were Rhiana
@@ -21512,7 +21185,6 @@ premature death. The abolition of the prison industrial complex is the
 ### Extracted Text
 
 
-
 Earth.341 
 ---
 
@@ -21525,8 +21197,6 @@ Earth.341
 
 
                          CONCLUSION
-
-
 
 
       E USED TO call 911 for everything except snitching. Now, we have not
@@ -21585,7 +21255,6 @@ games with her nephew. A neighbor called the cops to perform a wellness
 ![Page 286 Complete](images/page_286_full.png)
 
 ### Extracted Text
-
 
 
 gun toward a window when she went to check out noises she heard outside;
@@ -21667,7 +21336,6 @@ could have fallen. The parent could have lost her children, or, if they’d live
 ### Extracted Text
 
 
-
 should happen based on this incident. I offer no specific defense. I can only
 
 speculate whether the parent left for an emergency or for leisure. Maybe she
@@ -21741,7 +21409,6 @@ percent of kids in foster care.343
 ![Page 288 Complete](images/page_288_full.png)
 
 ### Extracted Text
-
 
 
 the Derek Chauvin trial read the guilty verdict for his murder of George
@@ -21823,7 +21490,6 @@ with    their   grandmother,    but   a   landlord   kicked    them    out   of 
 ### Extracted Text
 
 
-
 licensed strangers ten times more than relatives for foster care, and a social
 
 worker took the Bryant children away from their grandmother, who had
@@ -21901,7 +21567,6 @@ fun,   not   out   of   necessity.   If   the   teens   argued     with   their 
 ### Extracted Text
 
 
-
 Wednesday after school. Maybe the mother would have learned that the girls
 
 were really good at TikTok and obsessed over the app, or that it was the only
@@ -21909,7 +21574,6 @@ were really good at TikTok and obsessed over the app, or that it was the only
 time when they had privacy. We would not have known Ma’Khia’s name
 
 unless she went viral for another reason.
-
 
 
 THAT’S    THE     ABOLITIONIST          present and future that I’m forging, one that
@@ -21977,7 +21641,6 @@ further context, in 2020 the top four categories for calls were area check
 ![Page 291 Complete](images/page_291_full.png)
 
 ### Extracted Text
-
 
 
 currently tops the list for the highest murder rate, and the top calls there are
@@ -22057,7 +21720,6 @@ the streets there, and then created campaigns based on that information to
 ### Extracted Text
 
 
-
 Project help people proactively prepare for emergencies to reduce their
 
 reliance on and contact with police.
@@ -22103,7 +21765,6 @@ funded programs such as unemployment and health care; they should direct
 the same energy toward police.349
 
 
-
 THE   POSSIBILITIES        ARE   endless with abolition, which is why, more than
 
 anything, I hope that people join or start grassroots organizations to get in
@@ -22133,7 +21794,6 @@ Union as failures of socialism or communism, even though the US has been
 ![Page 293 Complete](images/page_293_full.png)
 
 ### Extracted Text
-
 
 
 through slavery, war, environmental degradation, prison violence, police
@@ -22215,7 +21875,6 @@ Tyler Perry, Kanye West, Jay-Z, Robert Smith, and David Steward. Slaves
 ### Extracted Text
 
 
-
 machines worked hard, and capitalists stole their earnings on the fields, then
 
 stole    their   children’s    earnings         in    the     factories,     then     stole    their
@@ -22295,7 +21954,6 @@ echoes calls for free and sustainable housing, education, health care, and
 ### Extracted Text
 
 
-
 oppressed peoples, animals, and the planet. The Deal’s details for each
 
 demand are rooted in love, healing, and research. They emphasize the
@@ -22347,7 +22005,6 @@ theft, and arguments that become physical. This is the right idea: building
 the thriving societies that we want by dismantling the oppressive societies
 
 that we have.
-
 
 
 ACTIVISTS   OR    ABOLITION-CURIOUS         people will often ask me, “What does
@@ -22452,7 +22109,6 @@ generations to be invested in their local communities. No more excitement
 ### Extracted Text
 
 
-
 shares we accumulate online. Our social media profiles will no longer be
 
 commodities that we are incentivized to package and sell, and we would
@@ -22486,7 +22142,6 @@ for the democratically elected boards, like reserving a town hall to discuss
 lowering the age for voting on neighborhood issues so that more youth can
 
 be eligible to participate. We deserve new kinds of problems.
-
 
 
                                         CHILDCARE
@@ -22528,7 +22183,6 @@ multigenerational corps of childcare workers, a far cry from what the
 ![Page 298 Complete](images/page_298_full.png)
 
 ### Extracted Text
-
 
 
 elderly women who disproportionately provide childcare make now.
@@ -22608,7 +22262,6 @@ and zip codes to test them. Cities do not technically have to lead the charge,
 ### Extracted Text
 
 
-
 based organizations. We could build sustainable dorms into neighborhood
 
 schools, revitalize storefront churches, gut the insides of prisons, jails, and
@@ -22624,7 +22277,6 @@ center would be able to fully accommodate anyone who came, worked there,
 and needed services, including language, disability, sleep schedules, and
 
 religion.
-
 
 
             ART, MEDIATION, AND CONFLICT RESOLUTION
@@ -22684,7 +22336,6 @@ culture.    Neighborhood      archivists    would       work     and    voluntee
 ![Page 300 Complete](images/page_300_full.png)
 
 ### Extracted Text
-
 
 
 histories and fill in each other’s stories. The archives and art would rotate to
@@ -22764,7 +22415,6 @@ shootouts, because we’ve eliminated most guns. (We may keep a few guns
 ### Extracted Text
 
 
-
 play.)
 
       In the rare case that a murder would happen, it would shock our
@@ -22794,7 +22444,6 @@ family’s needs. The process could be roughly the same across AMC centers,
 and   the    democratic        aspects    would       account    for   the    uniqueness     of   the
 
 circumstances.
-
 
 
                                        HEALTH CLINICS
@@ -22842,9 +22491,7 @@ companies that drove up the cost of medicines that were in demand, and
 ### Extracted Text
 
 
-
 the clinics now kept for distribution on the shelves.357
-
 
 
                                  GREEN TEAMS
@@ -22906,7 +22553,6 @@ because we live near highways and major roads. Carjackings would drop,
 too.
 
 
-
 EVERY TIME SOMEONE          moved into a community, the neighborhood council
 
 would prepare a welcome package with a unique gift and information about 
@@ -22918,7 +22564,6 @@ would prepare a welcome package with a unique gift and information about
 ![Page 303 Complete](images/page_303_full.png)
 
 ### Extracted Text
-
 
 
 team, clinic, and art, mediation, and conflict-resolution center.
@@ -22998,7 +22643,6 @@ abolition they need in their lifetimes. We have to decide if we will delay
 ### Extracted Text
 
 
-
 dreams right now. 
 ---
 
@@ -23011,7 +22655,6 @@ dreams right now.
 
 
                                     ENDNOTES
-
 
 
  1. Heather Ratcliffe, “Family of Woman Who Died after Praxair Blast Files Suit,” St. Louis Post
@@ -26086,7 +25729,6 @@ Race,” Statista.com, June 1, 2021, https://www.statista.com/statistics/585152/
                    ACKNOWLEDGMENTS
 
 
-
 It takes a village to write a book.
     I have to thank Robin D. G. Kelley first. During a breakfast years ago, I told Robin that
 
@@ -26153,7 +25795,6 @@ worked through challenging concepts with me, and agreed to interviews. Gratitude
 ![Page 335 Complete](images/page_335_full.png)
 
 ### Extracted Text
-
 
 
 Dominique Morgan, Naomi Murakawa, Onyinye Alheri, Inez Bordeaux, Kayla Reed,
@@ -26292,8 +25933,6 @@ moments that reminded me why it had to be written.
                           ABOUT THE AUTHOR
 
 
-
-
 Derecka Purnell is a human rights lawyer, writer, and organizer.
 
 She received her JD from Harvard Law School, and works to
@@ -26314,4 +25953,3 @@ currently a columnist at the Guardian. She lives in Washington,
 
 DC. 
 ---
-

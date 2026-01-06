@@ -1,3 +1,8 @@
+---
+title: "**Episode 27: Problem Formulation/**"
+category: "contemporary-analysis"
+---
+
 # **Episode 27: Problem Formulation/**
 
 **Source:** https://www.meaningcrisis.co/ep-27-awakening-from-the-meaning-crisis-problem-formulation/

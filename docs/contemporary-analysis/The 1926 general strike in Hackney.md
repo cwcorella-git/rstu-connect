@@ -1,3 +1,8 @@
+---
+title: "## **The 1926 general strike in Hackney**"
+category: "contemporary-analysis"
+---
+
 ## **The 1926 general strike in Hackney**
 
 ## **Date:** Unknown

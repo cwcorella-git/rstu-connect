@@ -1,3 +1,8 @@
+---
+title: "**Fanny Crosby**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Fanny_Crosby)
 
 # **Fanny Crosby**
@@ -14,17 +19,21 @@
 
 | Born | Frances Jane Crosby |
 |------|--------------------------------------------|
-| | March 24, 1820<br>Brewster, New York, U. S. |
-## | Died | February 12, 1915 (aged<br>94) |
+| | March 24, 1820
+Brewster, New York, U. S. |
+## | Died | February 12, 1915 (aged
+94) |
 
 | | Bridgeport, Connecticut, U. S. |
 |-----------------|-------------------------------|
 | Occupation(s) | Lyricist, poet, composer |
-| Years<br>active | 1844–1915 |
+| Years
+active | 1844–1915 |
 | Spouse(s) | Alexander van Alstyne, Jr. |
 | | |
 | | |
-| | (m.<br>; died |
+| | (m.
+; died |
 | | ) |
 | Children | 1 |
 | | Signature |
@@ -54,7 +63,7 @@ Frances Jane Crosby was born on March 24, 1820, in the village of [Brewster,](ht
 
 Crosby was proud of her [Puritan](https://en.wikipedia.org/wiki/Puritan) heritage[.\[14\]](#page-52-13) She traced her ancestry from Anna Brigham and Simon Crosby who arrived in Boston in 163[5\[15\]](#page-53-0)[\[16\]](#page-53-1) (and were among the founders of [Harvard College\)](https://en.wikipedia.org/wiki/Harvard_College)[;\[17\]](#page-53-2) their descendants married into [Mayflower](https://en.wikipedia.org/wiki/Mayflower) [families](https://en.wikipedia.org/wiki/Mayflower), [\[14\]](#page-52-13) making Crosby a descendant of Elder [William](https://en.wikipedia.org/wiki/William_Brewster_(pilgrim)) [Brewster,](https://en.wikipedia.org/wiki/William_Brewster_(pilgrim)) [Edward Winslow,](https://en.wikipedia.org/wiki/Edward_Winslow) and [Thomas Prence,](https://en.wikipedia.org/wiki/Thomas_Prence) and a member of the exclusive Daughters of the Mayflower[.\[18\]](#page-53-3) She was also a member of the [Daughters of the American](https://en.wikipedia.org/wiki/Daughters_of_the_American_Revolution) [Revolution](https://en.wikipedia.org/wiki/Daughters_of_the_American_Revolution) in [Bridgeport, Connecticut,](https://en.wikipedia.org/wiki/Bridgeport,_Connecticut) [\[19\]](#page-53-4) writing the verses of the state song of the Connecticut branch[.\[20\]](#page-53-5) Through Simon
 
-Crosby, Fanny was also a relative of <u>Presbyterian</u> minister <u>Howard Crosby</u> and his <u>neoabolitionist</u> son <u>Ernest Howard</u> <u>Crosby</u>, [21] as well as singers <u>Bing</u> and <u>Bob Crosby</u>. [22]
+Crosby, Fanny was also a relative of Presbyterian minister Howard Crosby and his neoabolitionist son Ernest Howard Crosby, [21] as well as singers Bing and Bob Crosby. [22]
 
 At six weeks old, Crosby caught a cold and developed inflammation of the eyes. Mustard poultices were applied to treat the discharges. [23] According to Crosby, this procedure damaged her optic nerves and blinded her, but modern physicians think that her blindness was more likely congenital and, given her age, may simply not have been noticed by her parents. [24][25]
 
@@ -64,7 +73,7 @@ Her father died in November 1820 when Fanny was only six months old, so she was 
 
 ## Peach Pond Meeting House, North Salem, New York
 
-When Crosby was three, the family moved to <u>North Salem</u>, <u>New York</u>, where Eunice had been raised.<sup>[27]</sup> In April 1825, she was examined by the surgeon <u>Valentine Mott</u>, who concluded that her condition was inoperable and that her blindness was permanent.<sup>[28]</sup>
+When Crosby was three, the family moved to North Salem, New York, where Eunice had been raised.[27] In April 1825, she was examined by the surgeon Valentine Mott, who concluded that her condition was inoperable and that her blindness was permanent.[28]
 
 At age eight, Crosby wrote her first poem which described her condition[.\[29\]](#page-54-1) She later stated: "It seemed intended by the blessed providence of God that I should be blind all my life, and I thank him for the dispensation. If perfect earthly sight were offered me tomorrow I would not accept it. I might not have sung hymns to the praise of God if I had been distracted by the beautiful and interesting things about me.["\[30\]](#page-54-2) She also once said, "when I get to heaven, the first face that shall ever gladden my sight will be that of my Savior"[.\[31\]](#page-54-3) According to biographer Annie Willis, "had it not been for her affliction she might not have so good an education or have so great an influence, and certainly not so fine a memory".[\[32\]](#page-54-4) In 1828, Mercy and Fanny moved to the home of a Mrs. Hawley in [Ridgefield, Connecticut.](https://en.wikipedia.org/wiki/Ridgefield,_Connecticut) [\[33\]](#page-54-5) While residing in Ridgefield, they attended the Presbyterian church on the village green.[\[34\]](#page-54-6) Historian Edith L. Blumhofer described the Crosby home environment as sustained by "an abiding Christian faith".[\[35\]](#page-54-7) Crosby memorized five chapters of the Bible each week from age 10, with the encouragement of her grandmother and later Mrs. Hawley; by age 15, she had memorized the [four gospels,](https://en.wikipedia.org/wiki/Canonical_gospels) the [Pentateuch,](https://en.wikipedia.org/wiki/Pentateuch) [\[32\]](#page-54-4) the [Book of Proverbs,](https://en.wikipedia.org/wiki/Book_of_Proverbs) the [Song of Solomon,](https://en.wikipedia.org/wiki/Song_of_Songs) and many of the [Psalms.](https://en.wikipedia.org/wiki/Psalms) [\[36\]](#page-54-8) From 1832, a music teacher came to Ridgefield twice a week to give singing lessons to her and some of the other children[.\[37\]](#page-54-9) Around the same time, she attended her first Methodist church services at the Methodist Episcopal Church, and she was delighted by their hymns.[\[38\]](#page-54-10) Crosby enrolled at the [New York Institution for the Blind](https://en.wikipedia.org/wiki/New_York_Institute_for_the_Blind) (NYIB)
 
@@ -128,7 +137,7 @@ In 1887, she joined the Cornell Memorial Methodist Episcopal Church by "confessi
 
 Crosby's earliest published poem was sent without her knowledge to [P. T. Barnum,](https://en.wikipedia.org/wiki/P._T._Barnum) who published it in his [The Herald](https://en.wikipedia.org/wiki/The_Herald_of_Freedom) [of Freedom](https://en.wikipedia.org/wiki/The_Herald_of_Freedom). [\[77\]](#page-57-7) She was examined by [George Combe,](https://en.wikipedia.org/wiki/George_Combe) a visiting Scottish [phrenologist,](https://en.wikipedia.org/wiki/Phrenology) who pronounced her a "born poetess"[.\[74\]](#page-57-4) She had experienced some temporary opposition to her poetry by the faculty of the Blind Institution, but her inclination to write was encouraged by this experience. The Institution found Hamilton Murray to teach her poetic composition, though he admitted his own inability to compose poetry[.\[78\]](#page-57-8)
 
-In 1841, [New York Herald](https://en.wikipedia.org/wiki/New_York_Herald) published Crosby's [eulogy](https://en.wikipedia.org/wiki/Eulogy) on the death of President [William Henry Harrison,](https://en.wikipedia.org/wiki/William_Henry_Harrison) thus beginning her literary career. Her poems were published frequently in <u>The</u> <u>Saturday Evening Post</u>, the <u>Clinton Signal</u>, the <u>Fireman's</u> <u>Journal</u>, and the <u>Saturday Emporium</u>.
+In 1841, [New York Herald](https://en.wikipedia.org/wiki/New_York_Herald) published Crosby's [eulogy](https://en.wikipedia.org/wiki/Eulogy) on the death of President [William Henry Harrison,](https://en.wikipedia.org/wiki/William_Henry_Harrison) thus beginning her literary career. Her poems were published frequently in The Saturday Evening Post, the Clinton Signal, the Fireman's Journal, and the Saturday Emporium.
 
 ![](_page_12_Picture_3.jpeg)
 

@@ -1,3 +1,8 @@
+---
+title: "## **help out!**"
+category: "contemporary-analysis"
+---
+
 ## **help out!**
 
 ## **Date:** Unknown
@@ -80,7 +85,9 @@ Steven.
 | seahorse |
 | 9 years 4 months ago |
 | In reply to Welcomebylibcom.org |
-| I try to help with publicity as I have been telling many people about this wonderful site. I myself<br>found out about it from my friend/roommate who used to be a poster here. May thanks to the<br>admin. |
+| I try to help with publicity as I have been telling many people about this wonderful site. I myself
+found out about it from my friend/roommate who used to be a poster here. May thanks to the
+admin. |
 | Steven. |
 | 9 years 4 months ago |
 ## | In reply to Welcomebylibcom.org |
@@ -95,7 +102,8 @@ Steven.
 | In reply to Welcomebylibcom.org |
 | syndicalist |
 | Thanks for the reply. I tried that, so there's something on my end then Shall work it out |
-| Is it larger than 16mb? Scans that haven't been converted into text via an ocr reader are often<br>huge. |
+| Is it larger than 16mb? Scans that haven't been converted into text via an ocr reader are often
+huge. |
 | syndicalist |
 | 3 years 7 months ago |
 | In reply to Welcomebylibcom.org |

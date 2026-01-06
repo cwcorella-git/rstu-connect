@@ -1,3 +1,8 @@
+---
+title: "## **A Look At the Miners' Blockade Stopping Coal in its Tracks**"
+category: "environmental-justice"
+---
+
 ## **A Look At the Miners' Blockade Stopping Coal in its Tracks**
 
 ## **Date:** Wed, 08/14/2019 - 17:21

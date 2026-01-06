@@ -1,3 +1,8 @@
+---
+title: "## **Anarchism, Mutual Aid, and Self-Organization: From the George Floyd Uprising to India's Farmer "
+category: "labor"
+---
+
 ## **Anarchism, Mutual Aid, and Self-Organization: From the George Floyd Uprising to India's Farmer Rebellion**
 
 ## **Date:** Unknown

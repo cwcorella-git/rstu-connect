@@ -1,3 +1,8 @@
+---
+title: "## **Well, If You Ask Me: Flint**"
+category: "contemporary-analysis"
+---
+
 ## **Well, If You Ask Me: Flint**
 
 ## **Date:** Sat, 01/23/2016 - 17:18
@@ -33,12 +38,18 @@ Lead. Yes, lead. A dangerous known carcinogen. You can read more about how bad l
 | Here is a bit of a |
 | timeline of the situation |
 | up until the lead poisoning of Flint's people is discovered: |
-| "APRIL 2014: In an effort to save money, Flint begins drawing its water from the Flint River<br>instead of relying on water from Detroit. The move is considered temporary while the city<br>waits to connect to a new regional water system. Residents immediately complain about the<br>smell, taste and appearance of the water. They also raise health concerns, reporting rashes,<br>hair loss and other problems. |
-| SUMMER 2014: Three boil-water advisories are issued in 22 days after positive tests for<br>coliform bacteria. |
+| "APRIL 2014: In an effort to save money, Flint begins drawing its water from the Flint River
+instead of relying on water from Detroit. The move is considered temporary while the city
+waits to connect to a new regional water system. Residents immediately complain about the
+smell, taste and appearance of the water. They also raise health concerns, reporting rashes,
+hair loss and other problems. |
+| SUMMER 2014: Three boil-water advisories are issued in 22 days after positive tests for
+coliform bacteria. |
 | OCTOBER 2014: A |
 | General Motors |
 | engine plant stops using Flint water, saying it rusts parts. |
-| JANUARY 2015: Flint seeks an evaluation of its efforts to improve the water amid concerns<br>that it contains potentially harmful levels of a disinfection byproduct. Detroit offers to reconnect |
+| JANUARY 2015: Flint seeks an evaluation of its efforts to improve the water amid concerns
+that it contains potentially harmful levels of a disinfection byproduct. Detroit offers to reconnect |
 
 Flint to its water system. Flint insists its water is safe.
 
@@ -61,11 +72,14 @@ Another good source of info that I found is linked here
 | 8,657 Flint children younger than |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | six exposed to lead may be a low estimate |
-| ; It doesn't include unborn children whose mothers drank tainted water during their<br>pregnancies, or children and pregnant women who reside outside Flint but were exposed<br>while visiting relatives, childcare centers or hospitals inside city limits." |
+| ; It doesn't include unborn children whose mothers drank tainted water during their
+pregnancies, or children and pregnant women who reside outside Flint but were exposed
+while visiting relatives, childcare centers or hospitals inside city limits." |
 | You can also read about the plight of Flint resident |
 | here |
 | , in their own words. |
-| Even noted filmmaker and Flint native Michael Moore has jumped in to condemn this water<br>crisis to proclaim, rightfully so, that, " |
+| Even noted filmmaker and Flint native Michael Moore has jumped in to condemn this water
+crisis to proclaim, rightfully so, that, " |
 | This is a racial crime |
 | ." And he is completely right. |
 | Black lives do matter |
@@ -111,10 +125,13 @@ Here is one awesomely militant (for an online petition) online petition that you
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | here |
 | in the WV Gazette-Mail. |
-| And if you wanna take the whole damn system back, which is my prefered way to go, and out<br>of the hands of inept private companies like WV American Water, go here to join that<br>campaign at |
+| And if you wanna take the whole damn system back, which is my prefered way to go, and out
+of the hands of inept private companies like WV American Water, go here to join that
+campaign at |
 | Our Water Wv.org |
 | , an effort that I have previously written about |
 | here |
 | |
 | Disclaimer: |
-| The views expressed here are not the official position of the IWW (or even the IWW's EUC)<br>and do not necessarily represent the views of anyone but the author's. |
+| The views expressed here are not the official position of the IWW (or even the IWW's EUC)
+and do not necessarily represent the views of anyone but the author's. |

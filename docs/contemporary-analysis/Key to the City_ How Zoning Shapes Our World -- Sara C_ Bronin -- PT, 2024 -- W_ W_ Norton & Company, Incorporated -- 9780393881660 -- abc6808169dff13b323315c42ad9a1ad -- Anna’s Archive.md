@@ -1,3 +1,8 @@
+---
+title: "KEY to the CITY"
+category: "contemporary-analysis"
+---
+
 HOW ZONING SHAPES
 ## OUR WORLD
 
@@ -1036,7 +1041,7 @@ This book's production would not have been possible without an incredible amount
 - 31 second challenge: Tighe v. Osborne, 133 A. 465 (Md. 1926).
 - 31 zoners in Charm City: Maryland's adoption of the State Standard Zoning Enabling Act in 1927 would further solidify zoning's legal standing.
 - 31 the effects of regulatory stagnation: See, e.g., Robert C. Ellickson, America's Frozen Neighborhoods (New Haven: Yale University Press, 2022), studying the Austin, Silicon Valley, and New Haven regions.
-- 31 Remington had fallen on particularly hard times: Kathleen C. Ambrose, Remington: The History of <sup>a</sup> Baltimore Neighborhood (Charleston: History Press, 2013).
+- 31 Remington had fallen on particularly hard times: Kathleen C. Ambrose, Remington: The History of a Baltimore Neighborhood (Charleston: History Press, 2013).
 - 32 property values rose: Greater Remington Improvement Association, Remington Neighborhood Plan, 2.4.
 - 32 mixed-use zoning would benefit Baltimore: Rachel L. Johnson Thornton et al., "Achieving a Healthy Zoning Policy in Baltimore: Results of a Health Impact Assessment of the Trans Form Baltimore Zoning Code Rewrite," Public Health Reports 128, no. 6 (2013).
 - 32 "Mixed-use districts": Johnson Thornton et al., "Achieving a Healthy Zoning Policy in Baltimore."
@@ -1241,7 +1246,7 @@ This book's production would not have been possible without an incredible amount
 - 93 affordability gap primarily burdens Connecticut's poor: Sears and Badger, "Mapping Household Energy," 24–25.
 - 93 14 percent overall and about a quarter of urban residents: Data Haven, 2023 Community well-being Index (2023). A quarter of the state's Black residents and a third of Latino residents are food insecure, far more than the 11 percent of White residents with food insecurity.
 - 93 nearly a quarter of all adults: Alix Gould-Werth, Jamie Griffin, and Alexandra K. Murphy, "Developing a New Measure of Transportation Insecurity: An Exploratory Factor Analysis," Survey Practice 11, no. 2 (2018).
-- 93 those affected are disproportionately people of color: Alexandra K. Murphy, Karina Mc Donald-Lopez, and Alix Gould-Werth, "Transportation Insecurity in the United States: A Descriptive Portrait," Socius: Sociological Research for <sup>a</sup> Dynamic World 8, no. 10 (2022).
+- 93 those affected are disproportionately people of color: Alexandra K. Murphy, Karina Mc Donald-Lopez, and Alix Gould-Werth, "Transportation Insecurity in the United States: A Descriptive Portrait," Socius: Sociological Research for a Dynamic World 8, no. 10 (2022).
 - 95 the bank purchased adjacent properties: Aaron Qualls, "One Line of Your Zoning Code Can Make a World of Difference," Strong Towns, January 31, 2019.
 - 95 \$50 million a year: Bryan P. Blanc et al., "Effects of Urban Fabric Changes on Real Estate Property Tax Revenue: Evidence from Six American Cities," Transportation Research Record 2543, no. 1 (2014).
 - 95 it costs a jaw-dropping: Donald Shoup, "The High Cost of Minimum Parking Requirements," Parking: Issues and Policies, Transport and Sustainability Series 5 (2014).

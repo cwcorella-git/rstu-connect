@@ -1,3 +1,8 @@
+---
+title: "## **Reflections on Revolutionary Defeatism — "Lefty" Hooligan**"
+category: "contemporary-analysis"
+---
+
 ## **Reflections on Revolutionary Defeatism — "Lefty" Hooligan**
 
 ## **Date:** Unknown

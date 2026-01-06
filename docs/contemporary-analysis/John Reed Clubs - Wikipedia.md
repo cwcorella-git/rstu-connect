@@ -1,3 +1,8 @@
+---
+title: "**John Reed Clubs**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/John_Reed_Clubs)
 
 # **John Reed Clubs**
@@ -20,12 +25,22 @@
 | Dissolved | 1935 |
 ## | Headquarters | 102 West 14th Street, NYC |
 
-| Official<br>language | English |
+| Official
+language | English |
 |------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Key people | Founders Mike Gold, Walt Carmon, William<br>Gropper, Keene Wallis, Hugo Gellert,<br>Morris Pass, Joseph Pass |
-| Main organ | Front, Partisan<br>Left<br>Review |
-| Parent<br>organization | Workers Cultural Federation |
-| Subsidiaries | chapters in Boston, New York City,<br>Newark, Philadelphia, Chapel Hill,<br>Indianapolis, Chicago, Detroit, Milwaukee,<br>Grand Rapids, Los Angeles (Hollywood),<br>Carmel, San Francisco, Portland, Seattle |
+| Key people | Founders Mike Gold, Walt Carmon, William
+Gropper, Keene Wallis, Hugo Gellert,
+Morris Pass, Joseph Pass |
+| Main organ | Front, Partisan
+Left
+Review |
+| Parent
+organization | Workers Cultural Federation |
+| Subsidiaries | chapters in Boston, New York City,
+Newark, Philadelphia, Chapel Hill,
+Indianapolis, Chicago, Detroit, Milwaukee,
+Grand Rapids, Los Angeles (Hollywood),
+Carmel, San Francisco, Portland, Seattle |
 
 The **John Reed Clubs** (1929–1935), often referred to as **John Reed Club** (JRC), were an American federation of local organizations targeted towards [Marxist](https://en.wikipedia.org/wiki/Marxist) writers, artists, and intellectuals, named after the American [journalist](https://en.wikipedia.org/wiki/Journalist) and [activist](https://en.wikipedia.org/wiki/Activist) [John Reed.](https://en.wikipedia.org/wiki/John_Reed_(journalist)) Established in the fall of 1929, the John Reed Clubs were a [mass organization](https://en.wikipedia.org/wiki/Mass_organization) of the [Communist Party USA](https://en.wikipedia.org/wiki/Communist_Party_USA) which sought to expand its influence among radical and liberal intellectuals. The organization was terminated in 1935.[\[1\]](#page-20-0)[\[2\]](#page-20-1)[\[3\]](#page-20-2) [\[4\]](#page-20-3)
 

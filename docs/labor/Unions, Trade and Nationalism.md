@@ -1,3 +1,8 @@
+---
+title: "## **Unions, Trade and Nationalism**"
+category: "labor"
+---
+
 ## **Unions, Trade and Nationalism**
 
 ## **Date:** Thu, 11/02/2017 - 15:19

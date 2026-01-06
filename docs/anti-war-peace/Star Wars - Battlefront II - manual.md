@@ -1,3 +1,8 @@
+---
+title: "WARNING: PLEASE READ BEFORE INSTALLING OR USING THE SOFTWARE"
+category: "anti-war-peace"
+---
+
 ## ![](_page_0_Figure_0.jpeg)
 
 # WARNING: PLEASE READ BEFORE INSTALLING OR USING THE SOFTWARE
@@ -66,7 +71,7 @@ Some of the information in this manual may have changed prior to the game's rele
 | W† | |
 | \$ \$ | Backwards |
 | A ← | Strafe Left |
-| D <b>⇒</b> | Strafe Right |
+| D ⇒ | Strafe Right |
 | Shift | Sprint |
 | TAB | Player List |
 ## | M | Map |
@@ -90,10 +95,10 @@ Some of the information in this manual may have changed prior to the game's rele
 | Y | Team Chat |
 | Mouse X Axis | |
 | Mouse Y Axis | Look Up/Down |
-| W <b>†</b> | |
+| W † | |
 | S I | Throttle Reverse |
-| A <b>←</b> | Strafe Left |
-| D <del></del> | Strafe Right |
+| A ← | Strafe Left |
+| D  | Strafe Right |
 | Shift | |
 | Tab | |
 ## | M | |
@@ -564,7 +569,7 @@ The game will automatically give you the option to save your game when completin
 
 This mode allows you to compete against other players on a LAN (Local Area Network) or over the Internet.
 
-When selecting the multiplayer option, you will first need to select a network connection. Once you choose your connection, you can then choose from two different ways to connect to a multiplayer game. If you have a firewall active and are having difficulty connecting, please visit <a href="https://www.gamespy.com">www.gamespy.com</a> for information.
+When selecting the multiplayer option, you will first need to select a network connection. Once you choose your connection, you can then choose from two different ways to connect to a multiplayer game. If you have a firewall active and are having difficulty connecting, please visit www.gamespy.com for information.
 
 NOTE: If you choose to host a multiplayer game yourself, you will have a choice of dedicated or non-dedicated mode. Hosting in dedicated mode means that your PC will be able to provide a more stable multiplayer environment, however you cannot use it to play in the game it is hosting. Hosting in non-dedicated mode allows you to play while hosting, but the game may not perform as well. Performance and stability are also affected by bandwidth and the number of Al characters in a game. It is recommended that you reduce the number of players and Al characters if you are not running in dedicated mode and/or do not have high bandwidth.
 
@@ -656,7 +661,14 @@ In Multiplayer games, the Server Host will have the choice of activating or deac
 
 ## Precision Pistol
 
-| Prenzy Demolition Technician Marksman Regulator | Elite Assault Hille<br>Guidable Rockets<br>Vehicle Regen<br>Particle Beam Rifle<br>Flechette Shotgun | 4 Critical Hits vs. Ve<br>Slice into a Vehicle<br>6 Headshots with Sn<br>8 Kills with Shotgun |
+| Prenzy Demolition Technician Marksman Regulator | Elite Assault Hille
+Guidable Rockets
+Vehicle Regen
+Particle Beam Rifle
+Flechette Shotgun | 4 Critical Hits vs. Ve
+Slice into a Vehicle
+6 Headshots with Sn
+8 Kills with Shotgun |
 |-------------------------------------------------|------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
 | Endurance | Energy Recuperation | 8 Points |
 | Guardian | Shielding | 16 Points |

@@ -1,3 +1,8 @@
+---
+title: "## **Union Busting in Fast Fashion: IWW Cork**"
+category: "contemporary-analysis"
+---
+
 ## **Union Busting in Fast Fashion: IWW Cork**
 
 ## **Date:** Tue, 11/07/2023 - 00:00

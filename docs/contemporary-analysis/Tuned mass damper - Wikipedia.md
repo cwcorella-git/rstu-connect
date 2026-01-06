@@ -1,3 +1,8 @@
+---
+title: "[Tuned mass damper](https://en.wikipedia.org/wiki/Main_Page)"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_2.jpeg)
 
 # [Tuned mass damper](https://en.wikipedia.org/wiki/Main_Page)
@@ -16,7 +21,7 @@ Tuned mass dampers stabilize against violent motion caused by [harmonic vibratio
 
 Given a motor with mass m1 attached via motor mounts to the ground, the motor vibrates as it operates and the soft motor mounts act as a parallel spring and damper, k1 and c1. The force on the motor mounts is F0. In order to reduce the maximum force on the motor mounts as the motor operates over a range of speeds, a smaller mass, m2, is connected to m1 by a spring and a damper, k2 and c2. F1 is the effective force on the motor due to its operation.
 
-The graph shows the effect of a tuned mass damper on a simple spring–mass–damper system, excited by vibrations with an amplitude of one unit of force applied to the main mass, m1. An important measure of performance is the ratio of the force on the motor mounts to the force vibrating the motor, F<sup>0</sup> F1 . This assumes that the system is
+The graph shows the effect of a tuned mass damper on a simple spring–mass–damper system, excited by vibrations with an amplitude of one unit of force applied to the main mass, m1. An important measure of performance is the ratio of the force on the motor mounts to the force vibrating the motor, F0 F1 . This assumes that the system is
 
 ## ![](_page_0_Picture_12.jpeg)
 
@@ -40,7 +45,7 @@ In the plots at right, the black line shows the baseline response $(m_2 = 0)$ . 
 
 ## ![](_page_1_Figure_9.jpeg)
 
-A <u>Bode plot</u> of displacements in the system with (red) and without (blue) the 10% tuned mass.
+A Bode plot of displacements in the system with (red) and without (blue) the 10% tuned mass.
 
 maximizing the amplitude of $x_2 - x_1$ , this maximizes the energy dissipated into $c_2$ and simultaneously pulls on the primary mass in the same direction as the motor mounts.
 

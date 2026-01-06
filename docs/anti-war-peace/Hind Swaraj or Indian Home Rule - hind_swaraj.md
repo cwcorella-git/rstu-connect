@@ -1,3 +1,8 @@
+---
+title: "Hind Swaraj or Indian Home Rule"
+category: "anti-war-peace"
+---
+
 # Hind Swaraj or Indian Home Rule
 
 ## M. K. Gandhi
@@ -177,7 +182,7 @@ I offer these comments because I observe that much is being quoted from the book
 
 ## \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-<sup>1</sup> Reproduced from the *Aryan Path-Special Hind Swaraj Number,* published in September, 1938
+1 Reproduced from the *Aryan Path-Special Hind Swaraj Number,* published in September, 1938
 
 # **01. THE CONGRESS & ITS OFFICIALS**
 

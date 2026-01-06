@@ -1,3 +1,8 @@
+---
+title: "## **Don't Mourn, Organize!**"
+category: "contemporary-analysis"
+---
+
 ## **Don't Mourn, Organize!**
 
 ## **Date:** Tue, 11/15/2016 - 16:38

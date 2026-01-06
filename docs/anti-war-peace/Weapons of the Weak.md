@@ -1,3 +1,8 @@
+---
+title: "**James C. Scott**"
+category: "anti-war-peace"
+---
+
 # **James C. Scott**
 
 # **Weapons of the Weak**
@@ -533,7 +538,7 @@ If there had ever been (and there has not) a large-scale movement of rebellion a
 
 For all these reasons, the study of class relations in Sedaka, as elsewhere, must of necessity be as much a study of meaning and experience as it is of behavior considered narrowly. No other procedure is possible inasmuch as behavior is never self-explanatory. One need cite only the famous example of a rapid closing and opening of a single eyelid, used by Gilbert Ryle and elaborated on by Clifford Geertz, to illustrate the problem.[\[112\]](#page-306-16) Is it a twitch or a wink? Mere observation of the physical act gives no clue. If it is a wink, what kind of wink is it: one of conspiracy, of ridicule, of seduction? Only a knowledge of the culture, the shared understandings, of the actor and his or her observers and confederates can begin to tell us; and even then we must allow for possible misunderstandings. It is one thing to know that landlords have raised cash rents for rice land; it is another to know what this behavior means for those affected. Perhaps, just perhaps, tenants regard the rise in rents as reasonable and long overdue. Perhaps they regard the rise as oppressive and intended to drive them off the land. Perhaps opinion is divided. Only an inquiry into the experience of tenants, the meaning they attach to the event, can offer us the possibility of an answer. I say "the possibility of an answer" because it may be in the interest of tenants to misrepresent their opinion, and thus interpretation may be tricky. But without that information we are utterly at sea. A theft of grain, an apparent snub, an apparent gift—their import is inaccessible to us unless we can construct it from the meanings only human actors can provide. In this sense, we concentrate at least as much on the experience of behavior as on behavior itself, as much on history as carried in people's heads as on "the flow of events,"[\[113\]](#page-306-17) as much on how class is perceived and understood as on "objective class relations."
 
-The approach taken here certainly relies heavily on what is known as phenomenology or ethnomethodology.[\[114\]](#page-306-18) But it is not confined to that approach, for it is only slightly more true that people speak for themselves than that behavior speaks for itself. Pure phenomenology has its own pitfalls. A good deal of behavior, including speech, is automatic and unreflective, based on understandings that are seldom if ever raised to the level of consciousness. A careful observer must provide an interpretation of such behavior that is more than just a repetition of the "commonsense" knowledge of participants. As an interpretation, it has to be judged by the standards of its logic, its economy, and its consistency with other known social facts. Human agents may also provide contradictory accounts of their own behavior, or they may wish to conceal their understanding from the observer or from one another. Hence, the same standards of interpretation apply, although the ground is admittedly treacherous. Beyond this, there simply are factors in any situation that shed light on the action of human agents, but of which they can scarcely be expected to be aware. An international credit crisis, changes in worldwide demand for food grains, a quiet factional struggle in the cabinet that affects agrarian policy, small changes in the genetic makeup of seed grain, for example, may each have a decided impact on local social relations whether or not they are known to the actors involved. Such knowledge is what an outside observer can often add to a description of the situation as a supplement to, not <sup>a</sup> substitute for, the description that human agents themselves provide. For however partial or even mistaken the experienced reality of the human agents, it is that experienced reality that provides the basis for their understanding and their action. Finally, there is no such thing as a complete account of experienced reality, no "full verbal transcript of the conscious experience."[\[115\]](#page-307-0) The fullness of the transcript is limited both by the empirical and analytical interests of the transcriber—in this case, class relations broadly construed—and by the practical limits of time and space.
+The approach taken here certainly relies heavily on what is known as phenomenology or ethnomethodology.[\[114\]](#page-306-18) But it is not confined to that approach, for it is only slightly more true that people speak for themselves than that behavior speaks for itself. Pure phenomenology has its own pitfalls. A good deal of behavior, including speech, is automatic and unreflective, based on understandings that are seldom if ever raised to the level of consciousness. A careful observer must provide an interpretation of such behavior that is more than just a repetition of the "commonsense" knowledge of participants. As an interpretation, it has to be judged by the standards of its logic, its economy, and its consistency with other known social facts. Human agents may also provide contradictory accounts of their own behavior, or they may wish to conceal their understanding from the observer or from one another. Hence, the same standards of interpretation apply, although the ground is admittedly treacherous. Beyond this, there simply are factors in any situation that shed light on the action of human agents, but of which they can scarcely be expected to be aware. An international credit crisis, changes in worldwide demand for food grains, a quiet factional struggle in the cabinet that affects agrarian policy, small changes in the genetic makeup of seed grain, for example, may each have a decided impact on local social relations whether or not they are known to the actors involved. Such knowledge is what an outside observer can often add to a description of the situation as a supplement to, not a substitute for, the description that human agents themselves provide. For however partial or even mistaken the experienced reality of the human agents, it is that experienced reality that provides the basis for their understanding and their action. Finally, there is no such thing as a complete account of experienced reality, no "full verbal transcript of the conscious experience."[\[115\]](#page-307-0) The fullness of the transcript is limited both by the empirical and analytical interests of the transcriber—in this case, class relations broadly construed—and by the practical limits of time and space.
 
 What is attempted here, then, is a plausible account of class relations in Sedaka that relies as much as possible on the evidence, experience, and descriptions of action which the participants have themselves provided. At numerous points I have supplemented that description with interpretations of my own, for I am well aware of how ideology, the rationalization of personal interest, day-today social tactics, or even politeness may affect a participant's account. But never, I hope, have I replaced their account with my own. Instead I have tried to validate my interpretation by showing how it "removes anomalies within, or adds information to, the best description which the participant is able to offer." For, as Dunn argues,
 
@@ -651,10 +656,25 @@ The changes noted thus far—in amenities, consumer goods, rice supply, nutritio
 
 The first fact that one would wish to know about any agrarian setting is how the ownership of the principal means of production—land—is distributed.[\[157\]](#page-309-7) In Muda the land is distributed quite unequally (Gini coefficient of 0.538), although this is not a latifundia situation where a few massive holdings dominate most of the landscape. There is, furthermore, no evidence that the distribution of paddy-land ownership has become any more unequal or concentrated since the initiation of double-cropping. The basic situation is summarized in table 3.1.[\[158\]](#page-309-8) It must be kept in mind that the figures in table 3.1 cover only owners of paddy land and therefore exclude nearly 14,600 pure tenant and 8,000 landless labor households (37 percent of paddy sector households). Even then, the disparity is striking. Large holdings above 7 acres (10 relong) account for only 11 percent of the holdings but occupy 42 percent of the total paddy land. It is this strata of relatively well-to-do owners who, together with some largescale tenants, from the core of the commercial farming class in Muda, selling perhaps three-quarters of all the paddy marketed in the region.[\[159\]](#page-309-9) At the other end of the scale stand the great majority (61.8 percent) of owners with holdings below what is required for a poverty-line income. Fully 40 percent, in fact, own less than 1.42 acres (half the paddy land necessary for a subsistence-level income) and are insignificant as sellers of paddy.
 
-| Size<br>Class | Holdings: Absolute Frequency | Holdings:<br>Relative<br>Frequency | Area:<br>Absolute<br>Frequency | Area:<br>Relative<br>Frequency |
+| Size
+Class | Holdings: Absolute Frequency | Holdings:
+Relative
+Frequency | Area:
+Absolute
+Frequency | Area:
+Relative
+Frequency |
 |----------------------------|------------------------------|------------------------------------|--------------------------------|--------------------------------|
-| (Acres)<br>0.01–2.83 | (No. farm owners)<br>27,898 | (%) | (Acres)<br>32,198 | (%) |
-| 2.84–7.09<br>7.1 and above | 12,198<br>5,019 | 27.1<br>11.1 | 54,028<br>62,499 | 36.3<br>42.0 |
+| (Acres)
+0.01–2.83 | (No. farm owners)
+27,898 | (%) | (Acres)
+32,198 | (%) |
+| 2.84–7.09
+7.1 and above | 12,198
+5,019 | 27.1
+11.1 | 54,028
+62,499 | 36.3
+42.0 |
 ## | Totals | 45,115 | 100.0 | 148,725 | 100.0 |
 
 Table 3.1: Size Distribution of Paddy—Land Holdings, Muda Irrigation Scheme, 1975–1976
@@ -665,181 +685,30 @@ Along with double-cropping has come a roughly fivefold leap in paddy-land prices
 
 The distribution of operated farm size is a good indication of access (whether by ownership or rental) to the primary factor of production. Comparative figures for before and after double-cropping are given in table 3.2.[\[160\]](#page-309-10) Inequalities in actual farm size, while not as marked as in the case of ownership, are nonetheless apparent. Small farms, nearly half of Muda's households, cultivate a mere 17 percent of the paddy land, but large farms, only 14 percent of households, claim virtually 40 percent of the rice land. Between these two classes is a large middle peasantry cultivating modest farms. The most striking trend in the past decade is the growth in the proportion of small farms coupled with no appreciable change in their share of land resources, such that the mean small farm size has been driven down to a historic low of 1.4 acres.
 
-| Farm-Size Class<br>(Acres) | | 196 | 6 | | 1975–1 | 1976 |
+| Farm-Size Class
+(Acres) | | 196 | 6 | | 1975–1 | 1976 |
 |----------------------------|------------|-----------|---------------------------|------------|-----------|---------------------------|
-| | %<br>Farms | %<br>Area | Mean Farm<br>Size (Acres) | %<br>Farms | %<br>Area | Mean Farm<br>Size (Acres) |
-| <2.83 | 38.1 | 17.3 | 1.8 | 46.7 | 17.0 | 1.4 |
-| 2.84-7.09 | 46.4 | 44.9 | 3.8 | 38.9 | 43.2 | 4.5 |
-## | ~7 1 | 15 2 | 27 0 | 0.0 | 146 | 20.0 | 10.0 |
-
-Table 3.2: Size Distribution of Farms, 1966 and 1975–76
-
-#### **Tenure**
-
-It is above all in the social arrangements for cultivation that the most dramatic transformations have taken place. Land tenure in Muda is both complex and flexible: It is not uncommon, for example, to encounter farmers who farm some of their own land, rent out a small plot, rent in another, and even harvest others' land for wages occasionally. Nevertheless it is possible to identify three major tenure categories: owner-operators who farm their own land, pure tenants who rent all the paddy land they cultivate, and ownertenants who farm land that is both rented and owned.[\[161\]](#page-309-11) The precipitous decline in the proportion of pure tenants is the most striking feature of land tenure patterns since 1966, as shown in Table 3.3. There is some evidence that this trend was observable even before double-cropping, but there is no doubt that it has accelerated greatly since 1970.[\[162\]](#page-309-12) Pure tenants, who were in 1955 the dominant tenure category in Muda, had by 1976 become less than one-fourth of the farmers and cultivated less than one—fourth of the land. The evidence suggests that we are witnessing the notso-gradual liquidation of Muda's pure tenant class. The overall picture from farm size and tenure data is one of gradual polarization-an increase in the proportion of small farms (mostly owner-operated) that produce a bare subsistence income, an acrossthe-board decline in tenancy, and a growing class of larger-scale commercial farms. This is very much in keeping with the results of the green revolution elsewhere in monsoon Asia.[\[163\]](#page-309-13)
-
-| | | 1960 | 5 | 1975–1976 | | |
-|----------------------------|--------------|-----------|---------------------------|--------------|-----------|---------------------------|
-| Tenurial Status of Farmers | %<br>Farmers | %<br>Area | Mean Farm<br>Size (Acres) | %<br>Farmers | %<br>Area | Mean Farm<br>Size (Acres) |
-| Owner-operators | 44.5 | 39.5 | 3.6 | 56.1 | 45.3 | 3.2 |
-| Pure tenants | 41.4 | 38.8 | 3.8 | 24.5 | 22.7 | 3.7 |
-| Owner-tenants | 14.0 | 21.7 | 6.1 | 19.4 | 32.0 | 6.6 |
-
-Table 3.3: Land Tenure in Muda, 1966 and 1975–1976
-
-The explanation for these structural changes, which have produced a numerous, marginal, poverty-sharing class of small farmers at the bottom of the heap, a robust class of capitalist farmers at the top, and a still significant middle peasantry in between, is complex. Double-cropping, higher yields, and mechanization have made it increasingly profitable and feasible for landlords to resume cultivation. This would help account for the displacement of tenants and the growing share of owner-operators in both small and large farm categories. Demography has also played a role. Despite steady out-migration from Muda, the population grew by nearly 30 percent between 1957 and 1976. In the decade ending in 1980, Muda's population grew by more than 18 percent to 539,000. Given the nearly static area of paddy land over this period, population growth has encouraged owners to take back tenanted land for their children and to divide among their heirs land they previously farmed alone. This would also help account for the proliferation of small farms and the dismissal of tenants.
-
-There is every reason to believe that these trends, solidly documented until 1976, have continued and probably intensified since then. More important, changes in technology, costs of production, and rice prices since 1976 provide further incentives to displace small tenants. Combine-harvesters, by reducing supervision costs and by gathering the off-season harvest quickly, favor owner cultivation of larger farms. The provision of free fertilizer since the off-season of 1979 and a 30 percent increase in the farm-gate paddy price in late 1980 have also, given the "stickiness" of rents in Muda,[\[164\]](#page-310-0) made self-cultivation more attractive than ever. What recent evidence is available supports this contention.[\[165\]](#page-310-1)
-
-Two other notable changes have taken place in the form of tenancy since 1966, both of which tend to favor large-scale tenants with capital-in particular, owner-tenants—at the expense of small-scale tenants. The first concerns when and how the rent is paid each season. In 1955 more than three-quarters of Muda's tenants paid their rents after the harvest was in and paid that rent in the form of a fixed quantity of paddy[\[166\]](#page-310-2) or its cash equivalent. Cash rents (sewa tunai) unrelated to an amount of paddy were rare, amounting to only 12 percent of all rental arrangements. By 1966 cash rents had become nearly as common as paddy rents, and by 1975 threefourths of all tenancies were for cash rents, a reversal of the pattern twenty years earlier. While paddy rents may be paid out of the proceeds of the harvest and were therefore often negotiable depending on the size of the crop, cash rents require that the tenant raise the capital before the season opens and are not negotiable. At the moment the landlord moves to cash rent, the tenant is therefore subject to a one-time-only double rent, one for the past season and one for the coming season. No study has ever been made of the consequences of this shift, but there is no doubt that a good many poor tenants who were unable to raise the cash required were replaced by those who could.[\[167\]](#page-310-3) Except for land rented from parents by children, most tenancy in Muda has now become pure rentier tenancy in which all the risks of cultivation are borne exclusively by the cultivator, who pays an invariable cash rent before the season opens.
-
-A more momentous shift in tenancy relations is the increasing resort to pajak, or leasehold, tenancy in recent years. Pajak tenancy is the long-term rental of land over at least two seasons and may in fact extend to as many as ten or twelve seasons. The entire rent is paid in a lump sum and is in most cases covered by a written, notarized contract. As a form of tenancy, pajak has existed for a long time and was often a means by which farmers of modest means raised a substantial sum for such purposes as an important marriage, a new house, a pilgrimage to Mecca, or paying off an outstanding debt. The pressing need of the family renting out the land was usually reflected in rental rates that worked out to be well below the current market rents for seasonal tenancy. Now, however, pajak tenancy is increasingly at, or above,[\[168\]](#page-310-4) market rents and is often resorted to by wealthy landowners seeking to raise cash for investment purposes.
-
-For the landowner, leasehold rental has the advantage over jual janji that ownership of the land is retained even though use rights may be transferred for many years. For the small tenant, however, the effect is to price him out of the land rental market. A typical pajak contract (in 1979) involving, say, only 3 relong for six seasons (three years) would require raising anywhere from M\$2,700 to M\$4,000 in advance. As this represents two to three times the mean income of Muda peasants, it is far beyond the reach of the vast majority of small farmers in the region. Leasehold tenants are increasingly drawn from the ranks of the wealthy Malay landowners and Chinese businessmen armed with capital and machinery (tractors, combine-harvesters) and looking for profitable investment opportunities. They are willing to pay premium rents and prefer to rent large tracts of paddy land. What is emerging, then, is a rich, fully commercial tenant class whose entry into the rental market serves to displace small, capital-poor tenants.
-
-How much of the diminution of the tenant class before 1976 was due to the replacement of many small tenants by their capitalist competitors is impossible to estimate. What is clear, however, is that since 1976 there has been a marked acceleration of large-scale, long-term leasehold tenancy. Very few of the village studies conducted since then have failed to note its growing use or to express alarm at the likely consequences for the poor peasantry in the Muda region.[\[169\]](#page-310-5)
-
-#### **Mechanization**
-
-Growing wet rice under traditional conditions can absorb an astounding amount of labor. Most of this labor is devoted to the four main stages of cultivation: land preparation, transplanting, reaping, and threshing. If hired labor is used, it is largely confined to these four operations, since other activities such as weeding or repairing bunds can be spread out conveniently and accomplished with family labor. Land-poor peasant households in Muda typically relied on just such wage labor opportunities to patch together their meager subsistence. The introduction of tractors for land preparation and combine-harvesters for reaping and threshing has thus effectively eliminated most of those opportunities; transplanting remains the only unmechanized farm operation that provides wage employment for poor households—and even it is now threatened.
-
-Strictly speaking, the use of tractors for land preparation was neither a consequence of the green revolution nor a labor-replacing innovation. Most of the paddy land in Muda was ploughed by tractors before 1970, but speed in ploughing became vital if double-cropping was to take place. Thus, initially at least, tractors facilitated double-cropping, which in turn doubled the annual wage work in transplanting, reaping, and harvesting. Because tractors helped to create far more employment than they destroyed, their introduction caused no concern at the time.[\[170\]](#page-310-6)
-
-Combine-harvesters were a different matter. In 1975, virtually all the paddy in Muda was cut and threshed by hand. By 1980, huge Western-style combines costing nearly M\$200,000 and owned by syndicates of businessmen were harvesting roughly 80 percent of the rice crop. If it is hard to imagine the visual impact on the peasantry of this mind-boggling technological leap from sickles and threshing tubs to clanking behemoths with thirty-two-foot cutting bars,[\[171\]](#page-310-7) it is not so hard to calculate their impact on the distribution of rural income.
-
-The consequences for income of combine-harvesting are especially applicable to households farming less than 2.8 acres (over 46 percent of Muda's families) and wage laborers (7 percent). The former depended on paddy wage labor for at least one-fourth of their net income, while the latter were often totally dependent on it. Calculations based on the share of cutting (usually women's work) and threshing (usually men's work) in total hired labor and the intensity of combineharvester use suggest that the combines have cut paddy wage labor receipts by 44 percent.[\[172\]](#page-310-8) For the poorest class of small farmers, this represents a 15 percent loss of net income in the case of tenants and an 11 percent loss in the case of owner-operators. For full-time wage laborers, of course, the results are catastrophic and it is hard to imagine how they can survive as a class in the new circumstances. Combineharvesting has meant, then, a loss of nearly half the wages previously received for paddy work by the poorer strata of Muda's peasantry. The loss in the volume of work has by no means been compensated for by a rise in wage rates for the work still available.
-
-The direct impact of combine-harvesting on wage income is obvious and dramatic, but in the long run the indirect consequences may prove more damaging. Mechanization, by promoting large-scale farming and leaseholding, has greatly reduced the opportunity for small-scale tenancy. It has also eliminated gleaning, shifted local hiring patterns, reduced transplanting wages, and transformed local social relations. These last changes, which are rarely captured in the aggregate regional statistics, are best deferred to our detailed discussion of Sedaka in the next chapter.
-
-#### **From Exploitation to Marginalization**
-
-The impact of double-cropping has thus far been considered as if it were largely a matter of access to land, work, and wages. It is well worth pausing briefly to suggest its implications for class relations as well. What the transformations brought about by Muda's green revolution have done is nearly to sever the bonds of economic interdependence betweeen agrarian classes. Prior to doublecropping and, to some extent, even until 1975, the land-rich class and the land-poor class of Muda were joined by an exchange of work and wages, cultivation and rents which, however exploitative, fused them together in the enterprise of rice farming. Rich landlords and farmers had more paddy fields than they could cultivate alone; they needed tenants, ploughing services, transplanters, reapers, and threshers. The land-poor and landless, having more labor than property, provided these services. Because of the labor peaks typical of rice cultivation, it was not uncommon for employers to help secure timely labor by modest gifts and loans or, in more general terms, to "cultivate" not only the land but also the poorer villagers whom they needed to make the land profitable.
-
-With mechanization, tenancy became an expensive luxury. Those tenants who remained, aside from close kin, were typically paying fixed market rents with no allowance for crop failures or were themselves large capitalist leaseholding tenants. More important, cultivation could now be undertaken largely independent of village labor. Except for transplanting and for those occasions when a plot that ripened early or lodged (was beaten flat by wind and/or rain) had to be harvested by hand, large farmers simply had little need to hire poor villagers. Thus, they had correspondingly little incentive to cultivate their goodwill. The linkage between classes has by no means totally disappeared, but there is little doubt that it is far more constricted than it was and that all indications point toward its eventual demise. If poor villagers were earlier tied to their richer employers by bonds of interdependence and exploitation, they now find themselves cut adrift and marginalized. If they are no longer exploited, if they are now "free," this is the freedom of the unemployed, the redundant.
-
-#### **Income**
-
-The effect of the Muda Irrigation Scheme on incomes and on the distribution of those incomes throughout the region is best examined in two phases: an initial phase from 1966 to 1974 and a subsequent phase from 1974 to 1979. The basic, summary figures are shown in table 3.4, covering five tenure categories of farmers that are most common in Muda. They are, as all averages must be, abstractions hiding an enormous variation of circumstances and conditions in order to create some measure of central tendency. Whenever judgments were necessary, they were made so as to avoid understating the income of small farmers.[\[173\]](#page-311-0)
-
-The initial impact of double-cropping in Muda was to raise incomes on a broad front in both nominal and real terms. This gain, however, was at the expense of a much worse distribution of that income.[\[174\]](#page-311-1) Owner-tenants, the wealthiest'tenure category with by far the largest farm size, were the greatest gainers, improving their real income by 137 percent. The incomes of average tenants and average owner-operators grew by 72 and 89 percent respectively. By contrast, the gains of small tenants and owners (nearly half of Muda's farm households) were far more modest: 35 percent and 51 percent. Even the percentages are misleading here, given the different base incomes, for while the typical ownertenant gained M\$2,577 in real income, the average small tenant gained only M\$335: a ratio of 8 to 1. Both the gains in income and their maldistribution, it should be added, were not due solely to the production effects of doublecroppings. They were due as much to the doubling of farm-gate paddy prices in the worldwide economic crisis and inflation of 1973–74.[\[175\]](#page-311-2)
-
-| | | All Farms | | | | | Small Farms | | | | | | | | |
-|---------------------------------------------|-----------------------------------|-----------|-------|-----------------------------|------------|-------|-------------|----------------------------|--------|-------|-------|-------|------|-------|-------|
-| | Average Owner-<br>Tenant Operator | | | Average<br>Owner-<br>Tenant | ner- Small | | | Average<br>Small<br>Tenant | | | | | | | |
-| | 1966 | 1974 | 1979 | 1966 | 1974 | 1979 | 1966 | 1974 | 1979 | 1966 | 1974 | 1979 | 1966 | 1974 | 1979 |
-| Average farm size (acres) | | | 3.69 | | | 3.20 | | | 6.60 | | | 1.42 | | | 1.42 |
-| Net annual income | 1,408 | 3,469 | 2,917 | 1,379 | 3,732 | 3,548 | 1,886 | 6,405 | 5,801. | 1,021 | 2,209 | 2,097 | 958 | 1,855 | 1,606 |
-| Real income (1966 prices) | 1,408 | 2,417 | 1,664 | 1,379 | 2,601 | 2,023 | 1,886 | 4,463 | 3,309 | 1,021 | 1,539 | 1,196 | 958 | 1,293 | 916 |
-| Income index<br>by category<br>(1966 = 100) | 100 | 172 | 118 | 100 | 189 | 147 | 100 | 237 | 175 | 100 | 151 | 117 | 100 | 135 | 96 |
-
-Table 3.4: Family Income Comparisons for Different Tenure Groups and Farm —Size Categories in Muda, 1966, 1974, 1979
-
-The five-year period from late 1974 to 1979 was, by contrast, one of declining nominal and real income for all categories of farmers.[\[176\]](#page-311-3) Losses for average tenants and small owners meant that, at the end of the period, they were less than 20 percent ahead of their 1966 real incomes. Small tenants suffered most dramatically, as their real incomes were, if anything, below what they had been thirteen years before. Only owner-tenants and owner-operators remained substantially ahead of their 1966 real incomes.
-
-The causes of this retreat across a broad front may be traced to three factors. First, the earlier increase in production brought about by double-
-
-cropping had leveled off and yields remained stagnant throughout this period. Second, paddy prices after 1974 were steady for the next five years.[\[177\]](#page-311-4) The cost of inputs to farmers, on the other hand, continued to rise as did the consumer price index (up 22 percent), thereby eroding the real incomes of all tenure categories. There is no doubt that declining farm incomes contributed to the January 1980 mass demonstration of paddy growers—the first in over fifteen years—in which thousands of peasants assembled in Alor Setar to demand an increase in paddy prices.
-
-The worsening trend in income distribution from 1966 to 1979 is captured in table 3.5 in comparisons in the net income of small farmers over time as a proportion of the net income of other tenure categories. All the disparities, it is clear, were essentially generated in the first stage of double-cropping. Ironically, the second stage arrested (but did not reverse) these new inequities, although at the cost of lower real incomes all around. Small tenants who had half the income of owner-tenants in 1966 now have roughly one-quarter of their income. To put it more accurately, those tenants who are lucky enough still to be tenants have slid to about one-fourth the income of owner-tenants. Small owner-operators, even more numerous, had over half the income of owner-tenants thirteen years ago and now have roughly onethird that income. The declining position of Muda's small peasants is the result of their small farm size and of the direct and indirect effects of an irrigation scheme that disproportionately rewards the owners of scarce factors of production. They were poor to begin with; they remain poor; and they have grown relatively poorer. There is no need, on the basis of this data, to question the general assessment of the green revolution by Keith Griffin that "the changes which are at present occurring tend to increase relative inequality."[\[178\]](#page-311-5)
-
-| | | | , |
-|--------------------------------------------------------------------|------|------|------|
-| | 1966 | 1974 | 1979 |
-| I. Net income of small tenant as proportion of income of: | | | |
-| a. Average tenant | 68 | 53 | 55 |
-| b. Average owner-tenant | 51 | 29 | . 28 |
-| II. Net income of small owner-operator as proportion of income of: | | | |
-| a. Average owner | 74 | 59 | 59 |
-## | b. Average owner-tenant | 54 | 34 | 36 |
-
-Table 3.5: Income Comparisons between Tenure Categories 1966, 1974, 1979
-
-The gulf separating the large, capitalist farmers who market most of the region's rice and the mass of small peasants is now nearly an abyss, with the added (and related) humiliation that the former need seldom even hire the latter to help grow their crops. Taking 1966 as a point of comparison, it is still the case that a majority of Muda's households are more prosperous than before. It is also the case that the distribution of income has worsened appreciably and that a substantial minority—perhaps 35–40 percent—have been left behind with very low incomes which, if they are not worse than a decade ago, are not appreciably better. Given the limited absorptive capacity of the wider economy, given the loss of wages to machines, and given the small plots cultivated by the poor strata, there is little likelihood that anything short of land reform could reverse their fortunes.[\[179\]](#page-311-6)
-
-#### **Poverty**
-
-It is in the nature of large bureaucracies, of which the state is the outstanding example, to create a series of quantitative measures by which to define goals and to measure the extent to which they have been achieved. Thus it is that the human misery known as poverty is signified by numbers—a certain amount of cash per household, a certain number of calories ingested each day. While we shall have ample occasion later to explore the meaning of poverty—how it is experienced and understood-the gross numerical description of poverty does provide something of a baseline from which to begin.
-
-The figures presented in table 3.6 are based on the official poverty-line income and show how the income of various tenure groups has changed since 1966 in relation to that standard.
-
-The remarkable and sobering fact is that much of the gain made between 1966 and 1974 had been largely undone by 1979. Not even the initial boom in prices and production had raised small farmers, whether owners or tenants, above the poverty line, and by 1979 they were once again far below. Average tenants and owner-operators had improved their incomes appreciably but many, if not most, were still below poverty-line incomes. At a bare minimum there were 33,000 "officially" poor households in Muda in 1979.[\[180\]](#page-311-7) These households represent the intractable poverty problem of the region. They remain poor despite double-cropping, despite the fact that Muda is a privileged area in terms of soils, despite a dense network of institutions created to serve paddy farmers, despite government programs committed to eradicating poverty, despite recent increases in paddy price and fertilizer subsidies-in short, despite thirteen years of intensive agricultural development.
-
-| | Average<br>Tenant | Average<br>Owner-<br>Operator | Average<br>Owner-<br>Tenant | Average<br>Small<br>Owner | Average<br>Small<br>Tenant |
-|------|-------------------|-------------------------------|-----------------------------|---------------------------|----------------------------|
-| 1966 | 79 | 78 | 106 | 57 | 54 |
-| 1974 | 134 | 145 | 248 | 86 | 72 |
-## | 1979 | 91 | 111 | 181 | 66 | 50 |
-
-Table 3.6: Net Income of Various Tenure and Farm—Size Categories as Percentage of Rural Poverty—Line Income
-
-The fundamental problem, of course, lies in the inequities of landownership and farm size existing at the outset of the scheme. The gains from the new seeds, irrigation, and double-cropping are at best distributed in accordance with the control of productive assets. Small farmers simply did not have the land or capital that would have allowed them to raise their incomes dramatically. Longterm rentals, rising land prices, and the revocation of tenancies further limited their access to land. What they did have in abundance was labor. Before combine-harvesting, this asset was in large part responsible for raising their incomes. But the mechanization of harvesting together with rising production costs and consumer prices gradually eroded their modest gains.
-
-#### **Institutional Access**
-
-Along with the changes in production, farm size, tenure, and mechanization associated with the green revolution has come something of an institutional revolution as well. Nowhere is this more striking, as noted earlier, than in state control over water release and increasing participation in milling, marketing, credit provision, and fertilizer distribution. The main institutional vector of this transformation has been the Muda Agricultural Development Authority (MADA) and its twenty-seven local offices, each with its own Farmers' Association (Persatuan Peladang). The main function of these local offices has been to distribute credit to its membership for tractor rental costs, fertilizer, pesticides, and transplanting. As many as 15,000 farmers (roughly 25 percent of the farm households) have benefited from these services. Far from remaining merely passive recipients of services, the Farmers' Associations, both individually and collectively, have become active and vociferous spokesmen for the interests of paddy farmers. They have come to constitute the functional equivalent of a paddy producer's lobby, which has consistently brought pressure to bear through annual resolutions, petitions, and delegations for changes in policy that would benefit their membership. The competitive political atmosphere, especially in Kedah, contributes to their influence, and all but one or two of the local bodies are controlled effectively by members of the ruling party.
-
-Nearly 40 percent of Muda's farmers have at one time or another joined a Farmers' Association, but this membership is by no means a cross-section of Muda's peasantry. Table 3.7 reveals just how skewed participation is. Farmers cultivating less than 2.84 acres (4 relong) comprise nearly half the farm population but only 12.4 percent of Farmers' Association members. At the other end of the scale, larger farmers planting 5.7 acres and above are only 23 percent of the farm population but make up fully 47 percent of the membership. The domination of these associations by well-to-do farmers is typical of most such bodies in the Third World.[\[181\]](#page-311-8) It has come about not so much because of any systematic official policy but rather from the policies pursued by their elected leadership.[\[182\]](#page-312-0)
-
-| Farm Size<br>(Acres) | Percentage of<br>Farms in Muda | Percentage of<br>FA Members | Percentage of<br>Credit Recipients |
-|----------------------|--------------------------------|-----------------------------|------------------------------------|
-| 0.1–2.84 | 46.7 | 12.4 | 6.0 |
-| 2.85-5.6 | 30.6 | 40.4 | 34.8 |
-| 5.7-7.09 | 8.3 | 21.8 | 29.2 |
-| 7.1 and above | 14.5 | 25.4 | 30.3 |
-
-Table 3.7: Relationship of Distribution of Farm Sizes, Farmers' Association Membership, and Production Credit Recipients
-
-Credit distribution is even more skewed toward the well-to-do than membership. Large farmers operating more than 5.7 acres are less than 23 percent of the farm population, yet they constitute more than 60 percent of the credit recipients and of course a much higher share of the actual credit extended. Small farmers, who are nearly half Muda's population, constitute a mere 6 percent of those who get subsidized credit. Those who are most in need of credit on easy terms are denied access, while those who could borrow from banks or finance inputs from their own savings are provided for in abundance. Increasing rates of delinquency in repayment, moreover, indicate that many large farmers have managed to turn the loans into outright subsidies.[\[183\]](#page-312-1) The accumulated bad debts have gone unprosecuted because the debtors, drawn largely from the ranks of local, ruling party stalwarts, are well-nigh untouchable. To this extent, MADA, the ruling party, and the Kedah state government are hostages to the interests of the relatively prosperous strata of farmers which the green revolution has helped create and solidify.
-
-As the economic distance between rich and poor has grown, so has this privileged class's access to influence and credit. If the interests of paddy farmers are heard at all, they are increasingly the interests of larger farmers. On some questions, such as paddy support prices or fertilizer subsidies, this may make little difference, for the interests of rich and poor will largely coincide. But on many other issues-mechanization, agricultural wage policy, credit eligibility, land rents, land reform-their interests are sharply conflicting. The vise-like grip with which large operators now control the Farmers' Associations means both that the vital interests of Muda's poor are systematically excluded even from the policy agenda and that those who have already profited most from the green revolution will continue to have things their own way.[\[184\]](#page-312-2)
-
-These facts about agricultural "progress" are all too familiar from analyses of the green revolution elsewhere in Asia. As Keith Griffin has concluded:
-
-A major reason for this [the domination of larger farmers] was the bias of public policy which systematically channeled scarce resources to the larger and more prosperous farmers. Although policy aggravated inequality in the countryside, it had virtue, from the point of view of the government, of encouraging commercial agriculture and thereby augmenting the marketable surplus. Given the needs of urban areas for cheap and abundant wage goods… the best thing that could have happened, did happen: the "green revolution" strengthened those in the countryside who were the natural allies of the urban ruling groups and it enabled these ruling groups to perpetuate the status quo essentially unchanged.[\[185\]](#page-312-3)
-
-In Muda as well, the economic, political, and institutional facts combine to make it extremely unlikely that the great inequities now prevailing will even be addressed, let alone mitigated.
-
-## **4. Sedaka, 1967–1979**
-
-#### **The Village**
-
-The foreground of the landscape we are viewing is formed by village-level "facts" as they have become evident in the past decade. Here the focus is even sharper, for they are "facts" that have been directly experienced—for example, changes in rental forms, mechanization, wages, land tenure, credit, charity. These facts are not simply the replication of the middle ground in the village context. This particular village is, as any other particular village would be, to some extent unique. Put another way, Sedaka has had its own special green revolution in keeping with its particular history, its particular cast of characters. It is this special, local variant of the green revolution that Sedaka's villagers have helped to fashion and to which they are responding.
-
-The village of Sedaka falls within the administrative district of Yan, which straddles the southern frontier of the Muda Irrigation Scheme.[\[186\]](#page-312-4) (See map 2) The small town of Yan itself, some eight miles to the south, houses the district office complex, including the local land office, police station, and a nearby clinic. It is to this town that villagers must go to execute and notarize land transactions of long-term rentals as well as to pawn gold jewelry at the licensed pawn shop. If Yan is the main focus of administrative life for Sedaka, the nearby town of Kepala Batas might be described as the main focus of commercial life. Villagers buy most of their food and provisions at its shops and at its twice-weekly rotating market on Wednesday and Sunday. It is also the center for credit and marketing, whether through the Chinese shopkeepers who extend loans and buy paddy or through the Farmers' Association and the local branch of the Paddy Marketing Authority (LPN), which has a large rice-drying facility on the outskirts of town near the village. Kepala Batas is also the site of the subdistrict (Mukim Sungai Daun) chief's (penghulu) office, at which minor administrative matters such as the registration or sale of water buffalo are handled, and of a once-a-week maternity clinic staffed by government nurses.
-
-The seventy-four households of Sedaka are strung out along a nearly milelong dirt path. (See map 3) This path leads from the all-weather road joining Yan to Kepala Batas and ending abruptly at the rice fields separating the village from the neighboring settlement to the east, Sungai Bujur. Like most villages on the Muda Plain established in this century, the pattern of settlement follows the linear plan of the drainage canals that originally brought the land into production. This ribbon of settlement is often contrasted with the pattern of nucleated or clustered villages, where social and ritual cohesion is said to be greater.[\[187\]](#page-312-5) It is certainly true that villagers themselves are not quite sure where Sedaka ends and where Sungai Tongkang, the village along the main road, begins. Despite these vagaries of geography, the village is, as we shall see, far more than just a collection of households in close proximity. If its boundaries are ill defined, all but a few families are nevertheless quite unambiguously of Sedaka. If neighborhoods subdivide it, the prayer house (surau) as a focus for religious life and the large feasts to which all villagers are typically invited serve to ritually unify it. Administratively as well, it is usually treated as a distinct unit. When it is not, as in the case of the Farmer's Association until recently, villagers have lobbied to have Sedaka recognized as a separate branch. Above all, the moral existence of the village is recognized in discourse. When the collector of the Islamic tithe (amil) explains why he does not report villagers who fail to pay the full amount, he says, "We all live in the same village."[\[188\]](#page-312-6) When a tenant tells me why he would not try to expand his farm by outbidding another local tenant, he says, "Everyday I see his face."[\[189\]](#page-312-7) And when the rules are broken, as they occasionally are, the culprit is shamed in precisely the same terms.
-
-Looking straight down the path, no houses are visible-just the solid archway of coconut palms, banana fronds, nipah, and the water hyacinths and grasses growing in the ditches alongside. Idris's store, facing the surfaced road leading north to Kepala Batas and south to Yan Kecil, is the first building in Sedaka. Idris takes advantage of his roadside location and the electricity it provides to sell drinks and cigarettes to the young men who gather there in the evenings and to offer the only popsicles available locally. A little farther along is a hinged timber spanning the path, which is fastened by chain and lock preventing trucks from entering. This village gate is, as we shall see, an object of some controversy.
-
-## ![](_page_73_Picture_3.jpeg)
-
-#### Map 3: Kampung Sedaka
-
-The key is held at the nearby house of Lebai Pendek, a wealthy, elderly cultivator who, together with his sons, Musa and Ariffin, is influential in the small group that controls village politics. Houses interspersed with paddy fields line the path for the next two hundred yards; the dwellings (see photos) of the well-to-do with zinc roofs and clapboard siding and those of most poor with attap roofing and siding made of bamboo split and beaten flat (pelupoh). Even the condition of the houses is an acrimonious political issue, which we shall explore, inasmuch as the local ruling party and its supporters are accused of having monopolized a government subsidy for house repair. Mansur, a landless laborer, and Taib, a poor smallholder, live in this stretch and their houses contrast sharply with the refurbished and repainted house of Shamsul, a ruling party stalwart who owns 6 relong (4.2 acres) and has a rare and coveted job at the government paddydrying installation nearby.
-
-Near the middle of the village stand the two most substantial houses in the village, each with high roofs, louvered shutters, and verandas. One belongs to Haji Kadir, the richest villager, and makes a stark contrast with the dilapidated houses of Hamzah and Razak just beside it. The other is the house of Haji Jaafar, the village headman (ketua kempung). As headman, Haji Jaafar is influential but rather retiring; his married son Daud, who lives with him, and the shopkeeper, Basir, are far more visibly active. Haji Jaafar prefers to emphasize his unifying role by giving an annual feast (Kenduri) to which the entire village is invited and by occasionally leading prayers at the village surau across the path (see photo). While there are many public gatherings in Sedaka, the surau, whose lower floor serves as a village meeting hall, classroom for religious teachers, and lecture hall for sermons and political speeches, is the only designated public space in the community.
-
-The informal gathering places, however, the places where idle chatter and gossip are exchanged, are around the tables of the two small shops (see photo). Each shop carries a small inventory of daily items such as dried chillies, soap, matches, kerosene, tobacco, sweets, spices, tinned fish for lastminute purchase. After the day's work and during slack periods, men will gather to pass the time smoking and drinking homemade soft drinks, with the circle constantly changing as some arrive and others leave. Basir, the owner of the first store, is the acknowledged leader of the local ruling party (UMNO) branch and his shop thus serves as a gathering place for his allies. The same holds for Samat's store nearby, except that he and his father, Tok Mahmud, are staunch supporters of the opposition party and their clientele is drawn especially from its ranks. A few strongly partisan villagers will, on principle, never go to the "other" shop, but a majority claim that they go to both, being above such petty considerations.
-
-The three best-known and most outspoken women live within shouting distance of the stores, farther along the path. All three are, as it were, honorary men in the sense that they have all had to assume male roles and responsibilities. Rokiah and Rosni are both heads of transplanting groups, which requires them to negotiate with farmers; Rosni is a widow, while Rokiah's husband is alive but judged rather feebleminded, and she has assumed control of the family. The third, the midwife Tok Sah Bidan, is a widow whose training and forty-odd years of midwifery give her a unique place in village life.
-
-At the very end of the village path stand a number of houses of poor villagers, most of whom belong to the opposition. Many of the most pointed criticisms and opinions I heard were expressed by Pak Yah, a landless laborer, when he was talking with his equally poor brother-in-law, Mat "halus," and his friend Dullah. They and the other friends and relatives who occasionally joined them on the rough benches below Pak Yah's house could always be counted on for a perspective that broke sharply with that coming from the UMNO stalwarts at Basir's store or with that held by wealthy members (for example, Haji Kadir) of their own party.
-
-In its pattern of settlement, its economy, its size, and its history, Sedaka is fairly typical of the rice-farming villages on the Kedah plain. But so are hundreds of other villages, and the choice of this particular village as a place to settle and conduct research merits a brief explanation. The first requirement I had was a village more or less exclusively devoted to rice cultivation. Sedaka fits this particular perfectly. Only two heads of household are salaried; one is a truck driver for the Farmers' Association, and the other examines paddy for moisture content at the local government purchasing complex. Both also farm in their spare time. There is in fact not a single household in the village that does not now or, in the case of aged couples, did not once grow rice. The advantage of rice monoculture is not only that it is representative of most villages in Muda but also that the task of determining incomes and economic stratification is relatively straightforward. Villages on the fringes of the irrigation scheme, by contrast, have far more mixed economies, which may include fishing, rubber smallholding, and estate work. A paddy-farming community, on the other hand, is rather like a fishing village with only two catches a year.
-
-Another requirement was by far the most restrictive: that the village be one that had been studied before 1971, when double-cropping was introduced, so that it would be possible to establish at least the basic changes in the local economy. Only three or four villages satisfied this condition. The first one I visited was Sedaka. Not only was the village headman, Haji Jaafar, hospitable to the idea of a strange family settling in his midst but it seemed possible, after a brief talk, that a part of Haji Kadir's large house might be rented out now that his own children had grown and left home. The ease with which such basic questions were resolved, together with the euphoria contributed by a remarkable sunset and the knowledge that the imposing beauty of Gunung Jerai (Kedah Peak) would always be visible to the south, were enough to settle the matter on the spot.[\[190\]](#page-312-8)
-
-#### **Rich and Poor**
-
-Glaring inequalities were an integral feature of economic life in Sedaka before double-cropping. They remain so today. They are apparent from the most casual visual evidence of clothing, housing, food, furniture, kitchen or farm equipment, radios and, in a few cases now, television sets. They are, on closer inspection, produced and maintained by equally glaring disparities in the distribution of land ownership, of farm size, and hence of income.
-
-Incomes in Sedaka were highly skewed in 1978–79. Despite the fact that there are no comparable figures for 1967, what we do know about land and farm-size distribution then suggests inequalities of a similar magnitude at the very least. The present situation can be seen from table 4.1, which reports net income for each household in the village, together with rice land owned and operated and the dominant occupation of the head of household. Families are ranked from poorest to richest on the basis of income per capita in the household. Readers may find it helpful to refer to this listing when they wish to identify the income, tenure status, major source of household income, party affiliation, and so forth of families who will appear and reappear throughout the text.
-
-Using the standard government procedures to calculate per capita income by which children and adults are counted equally—a total of forty households, or 54 percent, of village families would fall below the official poverty-line income of \$572 per capita per year. A less stringent formula, employed in table 4.1, which counts infants below age six as only one-third of an adult equivalent and children aged six through twelve as two-thirds, places twentytwo households, or 30 percent, of Sedaka's families below the poverty line. It is for these twentytwo families and the eight or ten families who have incomes just above the poverty line that the problems of food and daily necessities take their most severe form. For these families, an illness of a working adult, a poor yield, a decline in harvest work, an increase in rents, or the withdrawal of a tenancy can easily spell disaster. Their income contrasts starkly with that of the best-off twentytwo families in the village. The poorest twenty-two households have an average net annual income of M\$2,291 while the richest twenty-two households earn an average of M\$6,044. The contrast is more pronounced if we consider per capita annual income within the household; here the richest twenty-two families receive nearly four times M\$ 1,867, the per capita income of poor households (M\$475).
-
-**Table 4.1: Village Data by Households—Identified by Household Head and Ranked from Poorest to Richest according to Per Capita Annual Net Income**
-
-| | | Net Income<br>Per Capita<br>(Adjusted) | Net<br>Household<br>Income <sup>a</sup> | Paddy Area<br>Owned <sup>b</sup><br>(Relong)<br>1979 | Paddy Area<br>Worked<br>(Relong)<br>1979 | Status<br>by Major<br>Source of<br>Income | Political<br>Party<br>Affiliation | Membership<br>in Farmers'<br>Association |
+| | %
+Farms | %
+Area | Mean Farm
+Size (Acres) | %
+Farms | %
+Area | Mean Farm
+Size (Acres) |
+| a | Paddy Area
+Owned b
+(Relong)
+1979 | Paddy Area
+Worked
+(Relong)
+1979 | Status
+by Major
+Source of
+Income | Political
+Party
+Affiliation | Membership
+in Farmers'
+Association |
 |----|--------------------------|----------------------------------------|-----------------------------------------|------------------------------------------------------|------------------------------------------|-------------------------------------------|-----------------------------------|------------------------------------------|
 | 1 | Razak | 186 | 747 | .25 | 0 | laborer | UMNO | No |
 | 2 | Wahid | 392 | 1,960 | 0 | 6 | tenant | UMNO | No |
@@ -941,12 +810,14 @@ By the same token, the marked increase in paddy-land prices has also eliminated 
 | Total No. of Village Households | 56 | 74 |
 |----------------------------------------------------------------------------------------|--------|--------|
 | Land-poor | | |
-| Percentage of total villager-owned paddy land held by land<br>poor half of village | 1% | 3% |
+| Percentage of total villager-owned paddy land held by land
+poor half of village | 1% | 3% |
 | —total area (relong) | 1.25 | 7.00 |
 | —average owned per household (relong) | .04 | .19 |
 | —no. of households | 28 | 37 |
 | Land-rich | | |
-| Percentage of total villager-owned paddy land held by top<br>14% of village landowners | 54% | 57% |
+| Percentage of total villager-owned paddy land held by top
+14% of village landowners | 54% | 57% |
 | —total area (relong) | 114.50 | 133.75 |
 | —average owned per household (relong) | 14.3 | 13.3 |
 | —no. of households | 8 | 10 |
@@ -966,14 +837,16 @@ As with the figures on land ownership, it is possible to contrast the distributi
 |---------------------------------------------------------------------------------------------------------------|------|-------|
 | Total No. of Village Households | 56 | 74 |
 | Small Farms{1} | | |
-| Percentage of total villager-farmed paddy land cultivated by<br>that half of village with smallest farm sizes | 24% | 18% |
+| Percentage of total villager-farmed paddy land cultivated by
+that half of village with smallest farm sizes | 24% | 18% |
 | —total area (relong) | 85.0 | 58.75 |
 
 | —average farm size per household (relong) | 3.0 | 1.6 |
 |------------------------------------------------------------------------------------------------------------|--------|--------|
 | —no. of households | 28 | 37 |
 | Large Farms | | |
-| Percentage of total villager-farmed paddy land cultivated by<br>that 14% of village with largest farm size | 40% | 36% |
+| Percentage of total villager-farmed paddy land cultivated by
+that 14% of village with largest farm size | 40% | 36% |
 | —total area (relong) | 142.5 | 175.5 |
 | —average farm size per household (relong) | 17.8 | 11.6 |
 | —no. of households | 8 | 10 |
@@ -995,7 +868,12 @@ The most obvious trend over the past dozen years has been an increase in both th
 
 | | 1 | 967 | 1 | 1979 | | |
 |------------------------|------------|--------------------------------------|------------|--------------------------------------|--|--|
-| Area Held*<br>(Relong) | Households | Percentage of<br>Total<br>Households | Households | Percentage of<br>Total<br>Households | | |
+| Area Held*
+(Relong) | Households | Percentage of
+Total
+Households | Households | Percentage of
+Total
+Households | | |
 | 0-3 | 12 | 23% | 24 | 35% | | |
 | 3 + -7 | 17 | 33% | 25 | 36% | | |
 | 7 + -10 | 6 | 12% | 7 | 10% | | |
@@ -1016,7 +894,9 @@ If we examine the distribution of tenure categories in 1967 and again in 1979, t
 
 The erosion in the position of tenants has been closely related to important changes in the form of tenancy since the beginning of double-cropping. One key change, as noted earlier, was the virtual disappearance of what were called paddy rents (sewa padi) and their replacement by what are known as cash rents (sewa tunai).[\[198\]](#page-313-4) In 1967, Horii found that just under half (48 percent) of the land rental contracts in Sedaka were cash denominated rather than tied to paddy.[\[199\]](#page-313-5) By 1979, however, paddy-denominated rents were conspicuous by their absence, and over 90 percent of all tenancy contracts now provided for stipulated cash rents.
 
-| | Preplantin<br>of F | g Payment<br>Rent | Post-harvest Payment of Rent | | | |
+| | Preplantin
+of F | g Payment
+Rent | Post-harvest Payment of Rent | | | |
 |------|--------------------|-------------------|------------------------------|------|--|--|
 | | % | (N)* | % | (N)* | | |
 | 1967 | 7 | (3) | 93 | (43) | | |
@@ -1028,7 +908,9 @@ Before 1970, the payment of cash rent before planting season was quite rare, as 
 
 The second change in tenancy has eliminated the possibility of renegotiating rent after a poor harvest. The local term for negotiable rents is "living rent" (sewa hidup) to denote their flexibility, as opposed to "dead rent" (sewa mati), which is rigidly enforced. Non-negotiable rents include all tenancies in which rent must be paid before planting as well as a number of post-harvest-rent tenancies that are rigidly enforced. This is particularly the case with post-harvest rents between landlords and tenants who have no kinship tie.
 
-| | | May be<br>asted | Rents<br>Negoti | |
+| | | May be
+asted | Rents
+Negoti | |
 |------|----|-----------------|-----------------|------|
 | | % | (N) | % | (N) |
 | 1967 | 72 | (33) | 28 | (13) |
@@ -1044,7 +926,9 @@ In Sedaka, as in the rest of Kedah, all but a very few tenancy agreements are or
 
 Average rent levels are, however, quite misleading when what we have in Sedaka and in Kedah generally is a highly fragmented land rental market with rents that ran the gamut in 1979 from M\$200 per relong to virtually zero.[\[203\]](#page-313-9) The major "fault lines" in the market for tenancies lie along the dimension of kinship, as table 4.7 clearly shows. The disparity in rent levels reflects a bifurcated tenancy system in which a substantial share (42 percent) of those who rent in land are the beneficiaries of concessionary terms from their parents or grandparents. Within this protected market, seasonal paddy-land rents are substantially below those prevailing outside. Rents between non-kin are, as would be expected, by far the highest, with rentals between more distant kin falling roughly midway between the two extremes. Despite the commercialization brought about by the green revolution, land tenure is still dominated by kinship tenancies, which form fully two-thirds of all land rentals, as they do in Muda as a whole, and which provide some shelter from the full effects of a thoroughly capitalist market for land. Concessionary kinship tenancies between close kin, however, represent only 40 percent of land farmed by tenants in Sedaka, since the average size of the plot rented from close kin is smaller than the plot rented to non-kin.
 
-| | Close<br>Kinship | Less Close<br>Kinship | No Kinship |
+| | Close
+Kinship | Less Close
+Kinship | No Kinship |
 |-------------------------------------|------------------|-----------------------|------------|
 | No. of cases | 28 | 16 | 22 |
 | Percentage of all tenancy cases | 42% | 24% | 33% |
@@ -1104,12 +988,13 @@ Small farmers and tenants were understandably more reluctant to hire the combine
 
 The overall results can be seen by comparing the net losses in net household income between the irrigated season of 1977, when only 15 percent of the paddy land was machine harvested, and the irrigated season of 1979, when 60 percent of the crop was gathered by combine. Inasmuch as the figures in table 4.9 rely on recollections of earlier wage earnings, they must be regarded as rough approximations.[\[218\]](#page-315-4)
 
-| | Deri | Proportion o<br>ved from Paid | | | 77 |
+| | Deri | Proportion o
+ved from Paid | | | 77 |
 |-----------------------------------------------|--------|-------------------------------|--------|--------|--------------|
 | | 100% | Over 50% | 25-49% | 0-23% | 0 |
 | No. of households | 4 | 15 | 9 | 24 | 22 |
 | Percentage of net household income lost, 1979 | 31% | 16% | 8% | 4% | 0% |
-| Approximate cash lost per household | M\$550 | M\$269 | M\$258 | M\$156 | <b>M</b> \$0 |
+| Approximate cash lost per household | M\$550 | M\$269 | M\$258 | M\$156 | M \$0 |
 
 Table 4.9: Reported Losses of Net Household Income in Sedaka due to the Mechanization of Rice Harvesting: Irrigated Season, 1977, Compared with Irrigated Season, 1979
 
@@ -1193,11 +1078,17 @@ Despite the palpable advantages of UMNO membership, there are still many PAS mem
 
 With all the material incentives favoring membership in UMNO, it is the more surprising that such a large minority of Sedaka's households should have so far resisted such blandishments. (See table 4.11)
 
-| | Opposition<br>Party<br>(PAS) | | | ing<br>rty<br>NO) | | nce-<br>ters | Total | | |
+| | Opposition
+Party
+(PAS) | | | ing
+rty
+NO) | | nceters | Total | | |
 |-------------------------------|------------------------------|------|-----|-------------------|----|--------------|-------|------|--|
 | | % | (N) | % | (N) | % | (N) | % | (N) | |
-| Poorest half<br>of households | 54% | (20) | 43% | (16) | 3% | (1) | 100 | (37) | |
-| Richest half<br>of households | 22% | (8) | 73% | (27) | 5% | (2) | 100 | (37) | |
+| Poorest half
+of households | 54% | (20) | 43% | (16) | 3% | (1) | 100 | (37) | |
+| Richest half
+of households | 22% | (8) | 73% | (27) | 5% | (2) | 100 | (37) | |
 | Entire village | 38% | (28) | 58% | (43) | 4% | (3) | 100 | (74) | |
 
 Table 4.11 • Political Affiliation of Households in Sedaka by Income Level, in Percentages
@@ -1600,11 +1491,18 @@ That these standards are embedded to a considerable degree in the very language 
 
 | Word | Malay Illustrative Sentence (Translation) |
 |---------------------------------------------|--------------------------------------------------------------------------------------|
-| Kedekut (stingy) | It is not easy to request alms from him,<br>because he is a stingy (kedekut) person. |
-| Bakhil (stingy) | That stingy (bakhil) rich person doesn't give<br>alms to poor people. |
-| Timbang rasa (sympathy,<br>considerateness) | Assistance that shows sympathy (timbang)<br>toward people who suffer hardship. |
-| Miskin (poor) | He always contributes money to people who<br>are poor (miskin). |
-| Segan (unwilling, reluctant,<br>shy, lazy) | He is reluctant to give assistance, even<br>though he is a rich man. |
+| Kedekut (stingy) | It is not easy to request alms from him,
+because he is a stingy (kedekut) person. |
+| Bakhil (stingy) | That stingy (bakhil) rich person doesn't give
+alms to poor people. |
+| Timbang rasa (sympathy,
+considerateness) | Assistance that shows sympathy (timbang)
+toward people who suffer hardship. |
+| Miskin (poor) | He always contributes money to people who
+are poor (miskin). |
+| Segan (unwilling, reluctant,
+shy, lazy) | He is reluctant to give assistance, even
+though he is a rich man. |
 
 In each case, "stinginess" is associated with the refusal of the rich, specifically, to help the poor; sympathy is associated with charity, and the poor are defined as fitting objects of that charity. There is much evidence that the normative outlook identified here is not confined to the farmers of the Muda Plain but is rather a common characteristic of Malay peasant society in general.[\[349\]](#page-323-8) That evidence comes from reports of fieldwork conducted over four decades in various parts of the Malay peninsula. Raymond Firth's classic study, Malay Fishermen: Their Peasant Economy, was based on fieldwork in the east coast state of Kelantan before the Japanese occupation. His discussion of wealth and charity would be very familiar to the villagers of
 
@@ -2533,15 +2431,15 @@ The situation of these twenty-three families illustrates the long-term demograph
 
 ## **Appendix B. Farm Income Comparisons for Different Tenure and Farm Size Categories: Muda, 1966, 1974, 1979**
 
-| | Ave | rage Te | nant | Average | Owner-C | Operator | Averag | e Owner/ | Tenant <sup>8</sup> | Avera | ge Small | Owner | Avera | ge Small T | Tenant . |
+| | Ave | rage Te | nant | Average | Owner-C | Operator | Averag | e Owner/ | Tenant 8 | Avera | ge Small | Owner | Avera | ge Small T | Tenant . |
 |-----------------------------------------|------|---------|------|---------|---------|----------|--------|----------|---------------------|-------|----------|-------|-------|------------|----------|
 | Year | 1966 | 1974 | 1979 | 1966 | 1974 | 1979 | 1966 | 1974 | 1979 | 1966 | 1974 | 1979 | 1966 | 1974 | 1979 |
-| Average paddy area (acres) <sup>a</sup> | 3.76 | 3.69 | 3.69 | 3.55 | 3.20 | 3.20 | 6.11 | 6.60 | 6.60 | 1.78 | 1.42 | 1.42 | 1.78 | 1.42 | 1.42 |
+| Average paddy area (acres) a | 3.76 | 3.69 | 3.69 | 3.55 | 3.20 | 3.20 | 6.11 | 6.60 | 6.60 | 1.78 | 1.42 | 1.42 | 1.78 | 1.42 | 1.42 |
 | Average family sizeb | 5.58 | 5.58 | 5.58 | 5.58 | 5.58 | 5.58 | 5.58 | 5.58 | 5.58 | 4.94 | 4.94 | 4.94 | 4.94 | 4.94 | 4.94 |
-| Gross paddy income (M\$) <sup>c</sup> | 1365 | 5384 | 5564 | 1289 | 4670 | 4826 | 2219 | 9631 | 9952 | 643 | 2072 | 2141 | 643 | 2072 | 2141 |
-| Production costs <sup>d</sup> | 383 | 2837 | 3603 | 269 | 1660 | 2018 | 570 | 4246 | 5306 | 98 | 694 | 853 | 161 | 1048 | 1344 |
-| Net paddy income <sup>e</sup> | 982 | 2547 | 1961 | 1020 | 3110 | 2808 | 1649 | 5385 | 4646 | 545 | 1378 | 1288 | 482 | 1024 | 797 |
-| Other income <sup>f</sup> | 426 | 922 | 956 | 359 | 722 | 740 | 237 | 1020 | 1155 | 476 | 831 | 809 | 476 | 831 | 809 |
+| Gross paddy income (M\$) c | 1365 | 5384 | 5564 | 1289 | 4670 | 4826 | 2219 | 9631 | 9952 | 643 | 2072 | 2141 | 643 | 2072 | 2141 |
+| Production costs d | 383 | 2837 | 3603 | 269 | 1660 | 2018 | 570 | 4246 | 5306 | 98 | 694 | 853 | 161 | 1048 | 1344 |
+| Net paddy income e | 982 | 2547 | 1961 | 1020 | 3110 | 2808 | 1649 | 5385 | 4646 | 545 | 1378 | 1288 | 482 | 1024 | 797 |
+| Other income f | 426 | 922 | 956 | 359 | 722 | 740 | 237 | 1020 | 1155 | 476 | 831 | 809 | 476 | 831 | 809 |
 | Total net annual income (current | | | | | | | | | | | | | | | |
 | prices) | 1408 | 3469 | 2917 | 1379 | 3732 | 3548 | 1886 | 6405 | 5801 | 1021 | 2209 | 2097 | 958 | 1855 | 1606 |
 | Real income: 1974, 1979 figures | | | | | | | | | | | | | | | |
@@ -2561,7 +2459,16 @@ The situation of these twenty-three families illustrates the long-term demograph
 
 | | | | | (1 | relong = .71 | | | | | | |
 |--------------------------|-------------------|----------|----------------------------------------------|---------------------------------|---------------------|--------------------------------------------|--------------------|-------------------------------|-------------------------------|--------|-----------|
-| Area<br>held<br>(relong) | | Landlord | Landlord/<br>Owner-<br>Operator <sup>a</sup> | Owner-<br>Operator/<br>Landlord | Tenant/<br>Landlord | Owner-<br>Operator/<br>Tenant/<br>Landlord | Owner-<br>Operator | Owner-<br>Operator/<br>Tenant | Tenant/<br>Owner-<br>Operator | Tenant | Total |
+| Area
+held
+(relong) | | Landlord | Landlord/
+OwnerOperator a | OwnerOperator/
+Landlord | Tenant/
+Landlord | OwnerOperator/
+Tenant/
+Landlord | OwnerOperator | OwnerOperator/
+Tenant | Tenant/
+OwnerOperator | Tenant | Total |
 | .01-3 | No. of households | _ | - | _ | - | —. | 3 | | · - | 9 | 12 |
 | | Area operated | - | | | | | 5.25 | | · . | 21.5 | 26.75 |
 | | Area rented out | _ | - | | _ | | | | | | _ |
@@ -2581,13 +2488,22 @@ The situation of these twenty-three families illustrates the long-term demograph
 | | Area operated | _ | 15 | 21 | 13 | 28.5 | 25 | 49 | 63.75 | 142.5 | 357.75 |
 | | Area rented out | | 52 | 9.5 | 7 | 14.5 | - | | | - | 83 |
 | Average | Area operated | | 3 | 7 | 6.5 | 9.5 | 3.6 | 12.3 | 12.8 | 6.2 | 6.9° |
-| _ | Area rented out | | 10.4 | 3.2 | 3.5 | 4.8 | | | <del></del> ' | _ | $6.4^{d}$ |
+| _ | Area rented out | | 10.4 | 3.2 | 3.5 | 4.8 | | |  ' | _ | $6.4^{d}$ |
 
 #### TABLE C2 • Land Tenure in Sedaka, 1979
 
 | | | | | (1 | relong = .71 | acre) | | | | | |
 |--------------------------|-------------------|----------|----------------------------------------------|---------------------------------|---------------------|--------------------------------------------|--------------------|-------------------------------|-------------------------------|--------|----------------|
-| Area<br>held<br>(relong) | | Landlord | Landlord/<br>Owner-<br>Operator <sup>a</sup> | Owner-<br>Operator/<br>Landlord | Tenant/<br>Landlord | Owner-<br>Operator/<br>Tenant/<br>Landlord | Owner-<br>Operator | Owner-<br>Operator/<br>Tenant | Tenant/<br>Owner-<br>Operator | Tenant | Total |
+| Area
+held
+(relong) | | Landlord | Landlord/
+OwnerOperator a | OwnerOperator/
+Landlord | Tenant/
+Landlord | OwnerOperator/
+Tenant/
+Landlord | OwnerOperator | OwnerOperator/
+Tenant | Tenant/
+OwnerOperator | Tenant | Total |
 | .01-1 | No. of households | 2 | _ | | | | 1 | _ | | 2 | 5 |
 | | Area operated | | | | | _ | .25 | _ | _ | 1.75 | 2 |
 | | Area rented out | .36 | _ | _ | _ | _ | _ | | _ | .36 | .36 |
@@ -2610,30 +2526,52 @@ The situation of these twenty-three families illustrates the long-term demograph
 | | Area operated | | 13 | 36.5 | | 58 | 29.25 | 47 | 34 | 107.25 | 325 |
 | | Area rented out | 31.11 | 19.5 | 24 | _ | 30.75 | _ | _ | | _ | 105.36 |
 | Average | Area operated | _ | 3.25 | 9.1 | | 7.25 | 3.7 | 4.7 | 8.5 | 4.1 | 4.7° |
-| | Area rented out | 6.2 | 4.9 | 6 | | 3.8 | _ | _ | | | 5 <sup>d</sup> |
+| | Area rented out | 6.2 | 4.9 | 6 | | 3.8 | _ | _ | | | 5 d |
 
 #### TABLE C3 • Net Returns per Relong for Various Classes of Cultivators in Sedaka, Depending on Size of Yield, 1979
 
-| Yield in Gunny Sacks <sup>a</sup> | 6 | | 8 | 1 | 1 | 0 | 1 | 2 | 14 | 4 | 1 | 6 | 1 | .8 |
+| Yield in Gunny Sacks a | 6 | | 8 | 1 | 1 | 0 | 1 | 2 | 14 | 4 | 1 | 6 | 1 | .8 |
 |----------------------------------------------|----------------------------------|---------------------------------|---------------------|--------------------|---------------------|--------------------|---------------------|--------------------|---------------------|--------------------|---------------------|--------------------|---------------------|--------------------|
-| | Production <sup>b</sup><br>Costs | Net Cash <sup>c</sup><br>Return | Production<br>Costs | Net Cash<br>Return | Production<br>Costs | Net Cash<br>Return | Production<br>Costs | Net Cash<br>Return | Production<br>Costs | Net Cash<br>Return | Production<br>Costs | Net Cash<br>Return | Production<br>Costs | Net Cash<br>Return |
+| | Production b
+Costs | Net Cash c
+Return | Production
+Costs | Net Cash
+Return | Production
+Costs | Net Cash
+Return | Production
+Costs | Net Cash
+Return | Production
+Costs | Net Cash
+Return | Production
+Costs | Net Cash
+Return | Production
+Costs | Net Cash
+Return |
 | Categories of Cultivators | | | | | | | | | | | | | | |
-| A. Low production costs <sup>d</sup> | | | | | | | | | | | | | | |
-| with no rent<br>(owner) | 76 | 133 | 82 | 197 | 88 | 261 | 94 | 325 | 100 | 389 | 106 | 453 | 112 | 517 |
-| B. High production costs <sup>e</sup> | | | | | | | | | | | | | | |
-| with no rent<br>(owner) | 171 | 39 | 178 | 102 | 185 | 165 | 192 | 228 | 199 | 291 | 206 | 354 | 213 | 417 |
+| A. Low production costs d | | | | | | | | | | | | | | |
+| with no rent
+(owner) | 76 | 133 | 82 | 197 | 88 | 261 | 94 | 325 | 100 | 389 | 106 | 453 | 112 | 517 |
+| B. High production costs e | | | | | | | | | | | | | | |
+| with no rent
+(owner) | 171 | 39 | 178 | 102 | 185 | 165 | 192 | 228 | 199 | 291 | 206 | 354 | 213 | 417 |
 | C. Low production costs | | | | | | | | | | | | | | |
-| with concessionary rent (M\$100)<br>(tenant) | 176 | 33 | 182 | 97 | 188 | 161 | 194 | 225 | 200 | 289 | 206 | 353 | 212 | 417 |
+| with concessionary rent (M\$100)
+(tenant) | 176 | 33 | 182 | 97 | 188 | 161 | 194 | 225 | 200 | 289 | 206 | 353 | 212 | 417 |
 | D. High production costs | | | | | | | | | | | | | | |
-| with concessionary rent (M\$100)<br>(tenant) | 271 | (61) | 278 | 2 | 285 | 65 | 292 | 128 | 299 | 191 | 306 | 254 | 313 | 317 |
+| with concessionary rent (M\$100)
+(tenant) | 271 | (61) | 278 | 2 | 285 | 65 | 292 | 128 | 299 | 191 | 306 | 254 | 313 | 317 |
 | E. Low production costs | | | | | | | | | | | | | | |
-| with economic rent (M\$160)<br>(tenant) | 236 | (26) | 242 | 37 | 248 | 101 | 254 | 165 | 260 | 229 | 266 | 293 | 272 | 357 |
+| with economic rent (M\$160)
+(tenant) | 236 | (26) | 242 | 37 | 248 | 101 | 254 | 165 | 260 | 229 | 266 | 293 | 272 | 357 |
 | F. High production costs | | | | | | | | | | | | | | |
-| with economic rent (M\$160)<br>(tenant) | 331 | (121) | 338 | (58) | 345 | 5 | 352 | 68 | 359 | 131 | 366 | 194 | 373 | 257 |
+| with economic rent (M\$160)
+(tenant) | 331 | (121) | 338 | (58) | 345 | 5 | 352 | 68 | 359 | 131 | 366 | 194 | 373 | 257 |
 | G. Low production costs | | | | | | | | | | | | | | |
-| with high rent (M\$180)<br>(tenant) | 256 | (46) | 262 | 17 | 268 | 81 | 274 | 145 | 280 | 209 | 286 | 273 | 292 | 337 |
+| with high rent (M\$180)
+(tenant) | 256 | (46) | 262 | 17 | 268 | 81 | 274 | 145 | 280 | 209 | 286 | 273 | 292 | 337 |
 | H. High production costs | | | | | | | | | | | | | | |
-| with high rent (M\$180)<br>(tenant) | 351 . | (141) | 358 | (78) | 365 | (15) | 372 | 48 | 379 | 111 | 386 | 174 | 393 | 237 |
+| with high rent (M\$180)
+(tenant) | 351 . | (141) | 358 | (78) | 365 | (15) | 372 | 48 | 379 | 111 | 386 | 174 | 393 | 237 |
 
 **Figure C3a:** Net Returns per Relong for Various Classes of Cultivators in Sedaka, Depending on Size of Yield, 1979
 
@@ -4259,7 +4197,7 @@ Selections, 181–82. Thus a key function of the dominant ideology is to discipl
 
 >While the various elites argued constitutional and policy questions in the capital, the peasants were forming their own political order in the countryside… They repudiated the national level, and their alternative was something quite different from simply a new version of the modern centralized state…. Petrograd may well have constituted the center of the national political state, but the peasants were boycotting the play and writing the script for their own production.
 
-John H. Kress, "The Political Consciousness of the Russian Peasantry," Soviet Studies 31, no. 4 (October 1979): 576. </quote> [\[622\]](#page-272-4) Moore, Injustice, 370.
+John H. Kress, "The Political Consciousness of the Russian Peasantry," Soviet Studies 31, no. 4 (October 1979): 576.  [\[622\]](#page-272-4) Moore, Injustice, 370.
 
 [\[623\]](#page-273-1) Assembled just before the revolution, the cahiers were essentially lists of complaints and demands from every department. As they were written by local elites, they were not quite mass opinion, though for that reason one might judge the cahiers to represent something closer to the eventual program of the bourgeois revolution. In fact, virtually all of the cahiers focused on local grievances; the vast majority assumed the continuation of feudalism and demanded adjustments (for example, restrictions on lords' hunting rights, uniform weights and measures, rights to woodland, a limitation on cure salaries). No cahier outside Paris even hinted at popular sovereignty, and most argued their claims by reference to custom. As one historian concludes, "it follows that the revolutionary state of mind expressed in the Declaration of the Rights of Man and the decrees of 1789–91 was a product and not a cause of the crisis that began in 1787." George V. Taylor, "Revolutionary and Non Revolutionary Content in the Cahiers of 1789: An Interim Report," French Historical Studies 7, no. 4 (Fall 1972): 501.
 
@@ -4311,7 +4249,7 @@ John H. Kress, "The Political Consciousness of the Russian Peasantry," Soviet St
 
 {2} Son of extremely rich landowner (45 relong, two lorries, small rice mill) residing at edge of village. His father is the elected head of the UMNO committee for the federal parliamentary constituency (Jerai) that includes Sedaka.
 
-ACLS Humanities E-Book handheld edition 2013. [<archive.org/details/](https://archive.org/details/weapons-of-the-weak-everyday-forms-of-peasant-resistance) [weapons-of-the-weak-everyday-forms-of-peasant-resistance>](https://archive.org/details/weapons-of-the-weak-everyday-forms-of-peasant-resistance)
+ACLS Humanities E-Book handheld edition 2013. [](https://archive.org/details/weapons-of-the-weak-everyday-forms-of-peasant-resistance)
 
 ## Yale University
 

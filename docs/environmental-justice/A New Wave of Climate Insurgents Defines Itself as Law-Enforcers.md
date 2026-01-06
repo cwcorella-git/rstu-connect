@@ -1,19 +1,29 @@
+---
+title: "**A New Wave of Climate Insurgents Defines Itself as Law-Enforcers**"
+category: "environmental-justice"
+---
+
 # **A New Wave of Climate Insurgents Defines Itself as Law-Enforcers**
 
 ## **Date:** Wed, 03/02/2016 - 18:22
 
 | Source: https://ecology.iww.org/node/1548|
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Tags: climate justice, green unionism, green syndicalism, just transition, Jeremy Brecher, 350,<br>movement politics |
+| Tags: climate justice, green unionism, green syndicalism, just transition, Jeremy Brecher, 350,
+movement politics |
 | By Jeremy Brecher - |
 | Counter Punch |
 | , March 2, 2016 |
 | One in six Americans say they would |
 | personally engage in nonviolent civil disobedience |
-| against corporate or government activities that make global warming worse. That's about 40<br>million adults. The fate of the earth may depend on them — and others around the world —<br>doing so. |
-| Such actions are about to take a quantum leap both in numbers and in global coordination.<br>From May 7-15, |
+| against corporate or government activities that make global warming worse. That's about 40
+million adults. The fate of the earth may depend on them — and others around the world —
+doing so. |
+| Such actions are about to take a quantum leap both in numbers and in global coordination.
+From May 7-15, |
 | 350.org |
-| , Greenpeace and many other organizations — notably grassroots movement organizations<br>from every continent — will hold a |
+| , Greenpeace and many other organizations — notably grassroots movement organizations
+from every continent — will hold a |
 
 ## global week of action called Break Free From Fossil Fuels. They envision tens of thousands of people mobilizing worldwide to demand a rapid transition to renewable energy. Events will include nonviolent direct actions targeting extraction sites or infrastructure; pressure on political targets to shift policies around fossil fuel development; and support for clean energy alternatives. Mass actions in Australia, Brazil, Canada, Germany, Indonesia, Israel/Palestine, Nigeria, the Philippines, South Africa, Spain, Turkey, and the United States will target fossil fuel projects and support ambitious solutions. Before and during the week of action, additional, locally-initiated actions are expected in many other locations around the globe.
 

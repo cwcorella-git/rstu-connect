@@ -1,3 +1,8 @@
+---
+title: "## **Stjepan Filipovi**■**: everlasting symbol of anti-fascism**"
+category: "contemporary-analysis"
+---
+
 ## **Stjepan Filipovi**■**: everlasting symbol of anti-fascism**
 
 ## **Date:** Unknown
@@ -35,6 +40,7 @@ freemind
 | partizanilegala |
 | 5 years 9 months ago |
 | In reply to Welcomebylibcom.org |
-| His memorial in Opuzen, in southern Croatia, was also destroyed in 1991, along with many<br>others. The monument never got fixed again. While Croatia are presenting itself to the world |
+| His memorial in Opuzen, in southern Croatia, was also destroyed in 1991, along with many
+others. The monument never got fixed again. While Croatia are presenting itself to the world |
 
 as an anti-fascist state, radical nationalism are incited at home.

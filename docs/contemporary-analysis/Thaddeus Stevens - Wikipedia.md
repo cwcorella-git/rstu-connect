@@ -1,3 +1,8 @@
+---
+title: "**Thaddeus Stevens**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Thaddeus_Stevens)
 
 # **Thaddeus Stevens**
@@ -23,30 +28,45 @@ Portrait by [Brady](https://en.wikipedia.org/wiki/Mathew_Brady)[-Handy,](https:/
 | Succeeded by | Oliver Dickey | | |
 |-----------------------------------------------------|--------------------------------------------------------|--|--|
 | Constituency | 9th district | | |
-| In office<br>March 4, 1849<br>– March 3, 1853 | | | |
+| In office
+March 4, 1849
+– March 3, 1853 | | | |
 | Preceded by | John Strohm | | |
 | Succeeded by | Henry A. Muhlenberg | | |
 | Constituency | 8th district | | |
 | Chair of the House Ways and Means Committee | | | |
-| In office<br>March 4, 1861<br>– March 3, 1865 | | | |
+| In office
+March 4, 1861
+– March 3, 1865 | | | |
 | Preceded by | John Sherman | | |
 | Succeeded by | Justin Smith Morrill | | |
 | Chair of the House Appropriations Committee | | | |
-| In office<br>December 11, 1865<br>– August 11, 1868 | | | |
+| In office
+December 11, 1865
+– August 11, 1868 | | | |
 | Preceded by | Position established | | |
 | Succeeded by | Elihu B. Washburne | | |
 | Personal details | | | |
-| Born | April 4, 1792<br>Danville, Vermont, U. S. | | |
-| Died | August 11, 1868 (aged<br>76)<br>Washington, D. C., U. S. | | |
+| Born | April 4, 1792
+Danville, Vermont, U. S. | | |
+| Died | August 11, 1868 (aged
+76)
+Washington, D. C., U. S. | | |
 
 | Resting place | Shreiner-Concord Cemetery | |
 |---------------------------------|------------------------------------------------------------------------------------------------------|--|
 | Political party | Republican (from 1855) | |
-| Other political<br>affiliations | Federalist (before 1828)<br>Anti-Masonic (1828–1838)<br>Whig (1838–1853)<br>Know Nothing (1853–1855) | |
+| Other political
+affiliations | Federalist (before 1828)
+Anti-Masonic (1828–1838)
+Whig (1838–1853)
+Know Nothing (1853–1855) | |
 | Domestic partner | Lydia Hamilton Smith (1848–1868) | |
-| Education | University of Vermont<br>Dartmouth College (BA) | |
+| Education | University of Vermont
+Dartmouth College (BA) | |
 | Signature | | |
-| Nickname(s) | The Old Commoner<br>The Great Commoner | |
+| Nickname(s) | The Old Commoner
+The Great Commoner | |
 
 **Thaddeus Stevens** (April 4, 1792 – August 11, 1868) was an American politician and lawyer who served as a member of the [United States House of Representatives](https://en.wikipedia.org/wiki/United_States_House_of_Representatives) from [Pennsylvania,](https://en.wikipedia.org/wiki/Pennsylvania) being one of the leaders of the [Radical Republican](https://en.wikipedia.org/wiki/Radical_Republican) faction of the [Republican Party](https://en.wikipedia.org/wiki/History_of_the_Republican_Party_(United_States)) during the 1860s. A fierce opponent of [slavery](https://en.wikipedia.org/wiki/Slavery_in_the_United_States) and discrimination against black Americans, Stevens sought to secure their rights during [Reconstruction,](https://en.wikipedia.org/wiki/Reconstruction_era) leading the opposition to U. S. President [Andrew Johnson.](https://en.wikipedia.org/wiki/Andrew_Johnson) As chairman of the [House Ways and Means Committee](https://en.wikipedia.org/wiki/House_Ways_and_Means_Committee) during the [American](https://en.wikipedia.org/wiki/American_Civil_War) [Civil War,](https://en.wikipedia.org/wiki/American_Civil_War) he played a leading role, focusing his attention on defeating the [Confederacy,](https://en.wikipedia.org/wiki/Confederate_States_of_America) financing the war with new taxes and borrowing, crushing the power of slave owners, ending slavery, and securing equal rights for the freedmen.
 
@@ -733,11 +753,50 @@ Stevens," Journal of the Lancaster County Historical Society (1970) 74:33–71, 
 
 | U. S. House of Representatives | | | | |
 |--------------------------------------|------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|--|--|
-| Preceded<br>by<br>John Strohm | Member of the U. S.<br>House of Representatives<br>from Pennsylvania's 8th<br>congressional district<br>1849–1853 | Succeeded<br>by<br>Henry Augustus<br>Muhlenberg | | |
-| Preceded<br>by<br>Anthony<br>Roberts | Member of the U. S.<br>House of Representatives<br>from Pennsylvania's 9th<br>congressional district<br>1859–1868 | Succeeded<br>by<br>Oliver Dickey | | |
+| Preceded
+by
+John Strohm | Member of the U. S.
+House of Representatives
+from Pennsylvania's 8th
+congressional district
+1849–1853 | Succeeded
+by
+Henry Augustus
+Muhlenberg | | |
+| Preceded
+by
+Anthony
+Roberts | Member of the U. S.
+House of Representatives
+from Pennsylvania's 9th
+congressional district
+1859–1868 | Succeeded
+by
+Oliver Dickey | | |
 
-| Preceded<br>by<br>John<br>Sherman | Chair of the House Ways<br>and Means Committee<br>1861–1865 | Succeeded<br>by<br>Justin Morrill | | |
+| Preceded
+by
+John
+Sherman | Chair of the House Ways
+and Means Committee
+1861–1865 | Succeeded
+by
+Justin Morrill | | |
 |--------------------------------------|-----------------------------------------------------------------------------------------------|------------------------------------------|--|--|
-| New office | Chair of the House<br>Appropriations Committee<br>1865–1868 | Succeeded<br>by<br>Elihu B.<br>Washburne | | |
+| New office | Chair of the House
+Appropriations Committee
+1865–1868 | Succeeded
+by
+Elihu B.
+Washburne | | |
 | Honorary titles | | | | |
-| Preceded<br>by<br>Abraham<br>Lincoln | Persons who have lain in<br>state or honor in the<br>United States Capitol<br>rotunda<br>1868 | Succeeded<br>by<br>Charles Sumner | | |
+| Preceded
+by
+Abraham
+Lincoln | Persons who have lain in
+state or honor in the
+United States Capitol
+rotunda
+1868 | Succeeded
+by
+Charles Sumner | | |

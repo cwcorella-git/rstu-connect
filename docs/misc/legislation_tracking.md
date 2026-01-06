@@ -1,14 +1,10 @@
 ---
-date: 2025
-author: Unknown
-tags:
-  - organizing
-  - unions
-  - tenants
-  - housing
-  - rent
 title: "Legislative Tracking and Policy Analysis"
+author: "Unknown"
+date: "2025"
+category: "misc"
 ---
+
 # Legislative Tracking and Policy Analysis
 
 **Date**: September 8, 2025  

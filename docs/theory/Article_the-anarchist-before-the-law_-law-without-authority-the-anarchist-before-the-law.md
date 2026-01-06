@@ -1,15 +1,8 @@
 ---
-title: >-
-  The Anarchist Before the Law Law Without Authority the Anarchist Before the
-  Law
-date: 2025
-author: Saul Newman
-tags:
-  - organizing
-  - strikes
-  - unions
-  - housing
-  - rent
+title: ">-"
+author: "Saul Newman"
+date: "2025"
+category: "theory"
 ---
 
 # The Anarchist Before the Law Law Without Authority the Anarchist Before the Law

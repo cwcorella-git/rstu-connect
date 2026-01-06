@@ -1,11 +1,8 @@
 ---
-title: Anarchist Black Dragon
-date: 2025
-author: the anarchist
-tags:
-  - organizing
-  - prisons
-  - anarchism
+title: "Anarchist Black Dragon"
+author: "the anarchist"
+date: "2025"
+category: "theory"
 ---
 
 # Anarchist Black Dragon

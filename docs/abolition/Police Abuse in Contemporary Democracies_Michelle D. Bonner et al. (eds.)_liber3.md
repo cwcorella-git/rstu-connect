@@ -1,18 +1,10 @@
 ---
-title: Police Abuse In Contemporary Democracies Michelle D Bonner Et Al Eds Liber3
-slug: >-
-  Police Abuse in Contemporary Democracies_Michelle D. Bonner et al.
-  (eds.)_liber3
-reconversion_status: ready_for_reconversion
-author: Michelle D. Bonner
-date: '2018'
-tags:
-  - abolition
-  - police
-  - strikes
-  - unions
-  - tenants
+title: "Police Abuse In Contemporary Democracies Michelle D Bonner Et Al Eds Liber3"
+author: "Michelle D. Bonner"
+date: "2018"
+category: "abolition"
 ---
+
 ## ![](_page_0_Figure_0.jpeg)
 
 ## Police Abuse in Contemporary Democracies
@@ -57,24 +49,48 @@ Funding and support for this project came from the Social Sciences and Humanitie
 
 ## contents
 
-| 1 | Introduction<br>Michelle D. Bonner, Michael Kempa, Mary Rose Kubal<br>and Guillermina Seri | 1 |
+| 1 | Introduction
+Michelle D. Bonner, Michael Kempa, Mary Rose Kubal
+and Guillermina Seri | 1 |
 |--------|---------------------------------------------------------------------------------------------------------------------------------------|-----|
 | Part I | Citizenship | |
-| 2 | Police Abuse and the Racialized Boundaries<br>of Citizenship in France<br>Cathy Lisa Schneider | 31 |
-| 3 | Police as State: Governing Citizenship Through Violence<br>Guillermina Seri and Jinee Lokaneeta | 55 |
-| 4 | Development of the Concept of "Political Profiling":<br>Citizenship and Police Repression of Protest in Quebec<br>Francis Dupuis-Déri | 81 |
-| | Part II<br>Accountability | |
-| 5 | Holding Police Abuse to Account: The Challenge<br>of Institutional Legitimacy, a Chilean Case Study<br>Michelle D. Bonner | 113 |
+| 2 | Police Abuse and the Racialized Boundaries
+of Citizenship in France
+Cathy Lisa Schneider | 31 |
+| 3 | Police as State: Governing Citizenship Through Violence
+Guillermina Seri and Jinee Lokaneeta | 55 |
+| 4 | Development of the Concept of "Political Profiling":
+Citizenship and Police Repression of Protest in Quebec
+Francis Dupuis-Déri | 81 |
+| | Part II
+Accountability | |
+| 5 | Holding Police Abuse to Account: The Challenge
+of Institutional Legitimacy, a Chilean Case Study
+Michelle D. Bonner | 113 |
 ## | | | |
 
-| 6 | Police Abuse and Democratic Accountability:<br>Agonistic Surveillance of the Administrative State<br>Rosa Squillacote and Leonard Feldman | 135 |
+| 6 | Police Abuse and Democratic Accountability:
+Agonistic Surveillance of the Administrative State
+Rosa Squillacote and Leonard Feldman | 135 |
 |-------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|
-| 7 | Protest and Police Abuse: Racial Limits on Perceived<br>Accountability<br>Christian Davenport, Rose Mc Dermott<br>and David Armstrong | 165 |
-| | Part III<br>Socioeconomic (In)Equality | |
-| 8 | Supporting the "Elite" Transition in South Africa:<br>Policing in a Violent, Neoliberal Democracy<br>Marlea Clarke | 195 |
-| 9 | Policing as Pacification: Postcolonial Legacies,<br>Transnational Connections, and the Militarization<br>of Urban Security in Democratic Brazil<br>Markus-Michael Müller | 221 |
-| | Part IV<br>Conclusion | |
-| 10 | Conclusion: Rethinking Police Abuse<br>in Contemporary Democracies<br>Michelle D. Bonner | 251 |
+| 7 | Protest and Police Abuse: Racial Limits on Perceived
+Accountability
+Christian Davenport, Rose Mc Dermott
+and David Armstrong | 165 |
+| | Part III
+Socioeconomic (In)Equality | |
+| 8 | Supporting the "Elite" Transition in South Africa:
+Policing in a Violent, Neoliberal Democracy
+Marlea Clarke | 195 |
+| 9 | Policing as Pacification: Postcolonial Legacies,
+Transnational Connections, and the Militarization
+of Urban Security in Democratic Brazil
+Markus-Michael Müller | 221 |
+| | Part IV
+Conclusion | |
+| 10 | Conclusion: Rethinking Police Abuse
+in Contemporary Democracies
+Michelle D. Bonner | 251 |
 | | Appendix A | 257 |
 | | Appendix B | 265 |
 | | Appendix C | 267 |
@@ -1677,847 +1693,11 @@ If, however, race does matter, then results will be somewhat different across th
 Our starting point is one that we believe most would find uncontroversial. African Americans have had a much different experience with authorities in general, and police in particular, than have whites. This experience is important for our research because decades of disproportionate tension-filled interactions with authorities (especially the principal agents of coercion—the police) lead us to maintain that an African American observer would be more sympathetic to protesters in general and less likely to blame them for the conflict than white observers, considering the same combination of protester and police race (i.e., scenarios 2, 4, 5, and 7 in Table 7.1 vs scenarios 1, 3, 6, and 8, respectively). Having been the historic underdog, forced to rely upon institutions outside the existing political system to advance their causes, this group should be more favorable to challengers. Perceiving a lack of accountability within the political system, African Americans would be more likely to envision behavioral challenges and challengers as providing some mechanism for addressing their substantive problems and view them more positively. Whites, on the other hand, have historically been the victors and thus should be more likely to support institutions that maintain and perpetuate the status quo. This provides the following set of expectations:
 
 
-\begin{split} & P(Prot|Pr = W, Po = W, Ob = B) < P(Prot|Pr = W, Po = W, Ob = W) \\ & P(Prot|Pr = B, Po = B, Ob = B) < P(Prot|Pr = B, Po = B, Ob = W) \\ & P(Prot|Pr = B, Po = W, Ob = B) < P(Prot|Pr = B, Po = W, Ob = W) \\ & P(Prot|Pr = W, Po = B, Ob = B) < P(Prot|Pr = W, Po = B, Ob = W), \end{split}
-## 
-where "*Pr*" refers to protester race {*W* = white, *B* = Black}, "*Po*" refers to the police race, "*Ob*" refers to the race of the observer and *P*(*Prot*|…) indicates the probability that protesters are blamed given the stated conditions. Reversing the inequality signs, we could derive the same set of expectations about the probability that the police are blamed for the incident.
-
-According to our argument, when dissident–state interactions involve participants from different racial or ethnic groups (i.e., heterogenous dyads such as when the protesters are white and police are black or when the protesters are black and police are white), we expect African Americans to side with whomever shares their ethnicity. For example, in scenario 7 African Americans will be more likely to place blame on the police as they share an identity with the protesters. Differing from the situation described above, however, in scenario 4 blacks will place blame on protesters as they share an identity with the police. However, given the historically uneasy relationship between African Americans and the police, the effect here (i.e., the extent to which protesters are more likely to bear the brunt of the blame) will be diminished somewhat. Thus, we expect:
-
-$$P(Prot|Pr = B, Po = W, Ob = B) < P(Prot|Pr = W, Po = B, Ob = B).$$
-
-Co-ethnic sympathies should also result in changes from the baseline situation (i.e., the homogeneous dyads) in the expected way. For example:
-
-$$P(Prot|Pr = B, Po = W, Ob = B) < P(Prot|Pr = W, Po = W, Ob = B).$$
-
-$$P(Prot|Pr = B, Po = W, Ob = B) < P(Prot|Pr = B, Po = B, Ob = B).$$
-
-We expect the same mechanism to work for white observers. Thus, in scenario 3 whites will place blame on the police as they share an identity with the protesters. Differing from the situation described above, however, in scenario 8 whites will be more likely to place blame on protesters as they share an identity with the police producing the following expectation:
-
-$$P(Prot|Pr = B, Po = W, Ob = W) > P(Prot|Pr = W, Po = B, Ob = W).$$
+\begin{split} & P(Prot|Pr = W, Po = W, Ob = B)  P(Prot|Pr = W, Po = B, Ob = W).$$
 
 Again, co-ethnic sympathies imply deviations from the baseline for white observers as well:
 
-$$P(Prot|Pr = W, Po = B, Ob = W) < P(Prot|Pr = W, Po = W, Ob = W).$$
-
-$$P(Prot|Pr = W, Po = B, Ob = W) < P(Prot|Pr = B, Po = B, Ob = W).$$
-
-Expectations for blaming the police are not just the reverse of the expectations above. In both cases (for white and black observers), we expect heterogeneous dyads with co-ethnic police (i.e., where the observer and police are both white or black) will be less likely to be blamed than heterogeneous dyads with co-ethnic protesters (i.e., where the observer and protesters are both white or black). In other words, blacks and whites are more likely to side with the police when the police share their race than when protesters share their race. We also expect that observers viewing heterogeneous dyads with co-ethnic police should be less likely to blame police than those viewing homogeneous dyads.
-
-It is worth noting that in the above expectations, it remains an open question as to the difference between respondents viewing heterogeneous dyads with co-ethnic police and those viewing homogeneous dyads. In other words, it is not clear if race shifts and trumps an observer's sense of who is responsible for escalation. If there is some kind of absolute sense of responsibility, race should not matter, but if race helps actually dene responsibility, then it might override designations of responsibility that might differ if race is held constant between protesters and police. In the provided scenario (again described below), the blame lies unambiguously with the protesters (i.e., they escalate the situation). Thus, following our argument, when race is removed as a criterion for adjudication (i.e., in homogeneous dyads), the probability that protesters get blamed should be high. Will it be higher for heterogeneous dyads with co-ethnic protesters? This is really a question of whether animosity attaches to the judgment. One possibility is that when judgments based on coalitional thinking corroborate the facts (i.e., when white respondents view black protesters and white police), respondents feel free to ascribe blame where it lies (i.e., with the protesters). Another possibility is that viewing racially heterogeneous dyads leads respondents to be more likely to ascribe blame to the non-co-ethnic party. That is, white respondents viewing black protesters and white police might be even more likely to blame protesters than when viewing homogeneous dyads. While our theoretical perspective does not provide leverage on this question, we discuss the patterns that result from this question below.
-
-## d AtA And design
-
-To test these possible relationships within a representative population survey sample, we undertook an embedded experimental design (Kuklinski et al. 1997). Using Time-Sharing Experiments in Social
-
-| Experimental treatment | | Number of respondents | |
-|------------------------|--------|-----------------------|---------|
-| Protesters | Police | White | Black |
-| Black | Black | 58 (87) | 45 (15) |
-| Black | White | 57 (84) | 41 (14) |
-| White | Black | 60 (101) | 57 (17) |
-## | White | White | 53 (87) | 52 (15) |
-
-**Table 7.2** Race of respondents by experimental treatment
-
-Main entries are raw counts; weighted counts are in parentheses. On average, the weighted counts induce a proportion of African Americans approximately equal to 0.17. The US Census Bureau (see http://quickfacts.census.gov/qfd/states/00000.html) identies the proportion of African Americas (among all Whites and African Americans) as roughly 0.14
-
-Science (TESS),9 423 people were examined. These subjects were approximately equally distributed across four experimental conditions (noted in Table 7.2). The sample was stratied by race, such that roughly equal proportions of blacks and whites were in each category in order to provide a fair test of our hypotheses and not suffer from insufcient numbers (other descriptive measures for the remaining variables in the study are available in Appendix A).
-
-To administer our experiment, we presented subjects with a hypothetical protest scenario in which the race of the participants was systematically manipulated (Appendix B). Specically, we altered the race of the police and the protesters in a between-subjects experimental design. We employed a two by two cell design where the race of police and protesters were either black or white. Each subject was asked to read a scenario that revolved around a protest in response to the death of a young woman at the hands of an uninsured motorist and then asked the person to answer a sequence of Likert-style response questions (Appendix C). In these questions, we asked subjects for their opinions about the police and the protesters' actions as well as their attitudes toward the issue at hand (i.e., mandatory car insurance—not discussed in this paper). In addition, respondents also answered some basic demographic questions as well as questions regarding racial attitudes and political ideology in order to control for any external potential biases.
-
-The scenario we presented, which was based on an actual event we extracted from a newspaper, mimicked the kind of article that subjects might nd/read in a local newspaper or online media report. We held all other aspects of the protest itself constant in order to control independently for the relative importance of the race of participants.10
-
-As designed, the experiment allows us to examine the effect of the race of protesters and police on responses to the questions of perceived responsibility for the confrontation. In our analysis, we sought to model subjects' responses to the following question: Which group do you nd most responsible for escalating the conict in this scenario? This question interrogated individual variance in response to the experimental scenario. It is measured on a seven-point scale ranging from one (indicating protester responsibility for question one) to seven (indicating police responsibility for question one).
-
-Why focus on blame? Essentially, we do this for two reasons.
-
-First, blame is central to the idea of backre and moral outrage, which is the principal manner in which repression leads to resistance within the population (e.g., Barkan 1984, 2001; Jasper and Poulsen 1995; Hess and Martin 2006). We argue that for a repressive event to backre, two factors must be present. First, an audience must perceive the event to be unjust. Violent repression of a social movement advancing claims widely perceived to be legitimate is one example of a situation that some people will perceive as unjust, particularly in a civil rights scenario (Della Porta and Reiter 1998, p. 18; Wisler and Giugni 1999). Second, information about the event or situation needs to be communicated effectively to receptive audiences that are substantial enough that authorities must take their outrage into consideration. In the case of the Rodney King beating, television broadcasts of a videotape recorded by observer George Holliday were crucial in leading to backre; there had been many far more serious beatings by Los Angeles police ofcers and police ofcers from other agencies that were not widely known and, therefore, generated little or no public outrage.
-
-While the evaluation of the repressive event is the element most often discussed in the literature, the identication of the relevant actor or perpetrator is as important. Without this information, it is unclear against whom individuals should be outraged and against whom counteraction would be mobilized.
-
-Second, blame is essential to what is commonly labeled "framing" (e.g., Goffman 1974; Benford and Snow 2000). Framing largely involves the process of locating, perceiving, identifying, and labeling situations in a manner that allows actors (e.g., social movements) to *diagnostically* ascertain what problems exist as well as who is responsible for them, to
-
-| Experimental treatment | | Responsibility for escalation | | |
-|------------------------|--------|-------------------------------|---------|---------|
-| Protesters | Police | Protesters | Both | Police |
-| Black | White | 58 | 31 | 9 |
-| | | (0.592) | (0.316) | (0.092) |
-| White | Black | 70 | 28 | 21 |
-| | | (0.588) | (0.235) | (0.176) |
-| White | White | 65 | 31 | 6 |
-| | | (0.637) | (0.304) | (0.059) |
-| Black | Black | 66 | 31 | 5 |
-| | | (0.647) | (0.304) | (0.049) |
-## | Total | | 259 | 121 | 41 |
-
-**Table 7.3** Conditional distributions of responses
-
-*Note* Main entries are weighted counts, row percentages in parentheses
-
-*prognostically* put forward actions that would resolve the issues identied and *motivationally* activate individuals to participate in designated activities. Blame is essential here because if there is no party responsible for the problem of interest, then the targeting is vague, mobilization hindered, and accountability limited.
-
-To facilitate interpretation of the models estimated below, we collapse the rst three categories into a single value and the last three categories into a single value, generating a three-category variable. The midpoint represents the perception that both groups were responsible for escalation.11 Table 7.3 presents the frequencies and conditional counts of the two questions of interest. We discuss variation in these values below, but a cursory glance seems to bear out at least some of our expectations. Respondents viewing homogeneous dyads are more likely to blame protesters and less likely to blame police.
-
-When modeling the responses above, we include control variables, namely age (in years), gender, education (four categories: <HS, HS, Some College, BA/S or Higher), and partisanship (Democrat, Independent and Republican).12 We also include the race of the respondent (white or black) in our model specications. These are fairly standard in the relevant literature.
-
-To model the responses, multinomial logistic regression is used. We recognize that ordinal logistic regression is often used for variables like these, but a Clarke test (Clarke 2007) of the two different specications (ordered vs multinomial) identied the MNL as statistically superior (*p* < 0.05) in the case of our responsibility measure. This is evidence that the parallel regressions assumption implicit in the ordinal regression model does not hold.
-
-Given that our expectations relate to homogeneous versus the two different types of heterogeneous dyads, we use a three-category operationalization of the experimental treatment. Dyads (protester–police) are coded as homogeneous (i.e., black police–black protester and white police–white protester), black police–white protester and white police– black protester.13 We use the following model specication for the question on responsibility:
-
-$$Pr(Y = m|X) = \frac{e^{XB_m}}{\sum_{j} e^{XB_j}}$$
-
-where *X* includes age, gender, three non-reference categories of education (High School, Some College, College Degree+, <High School is the reference), two non-reference categories of partisanship (Independent and Republican, Democrat is the reference), black–white dyad, white– black dyad, and respondent race. As our argument suggests that the effect of the experimental treatment will vary by the race of respondents, we include interactions of the relevant variables in the model.14 All control variables are included additively and models were estimated in R 2.14.2 (R Core Development Team 2012) with the multinom function from the nnet package (Venables and Ripley 2002). We employed a sampling weight to ensure a nationally representative sample along important demographic characteristics.
-
-## results
-
-Table 7.4 presents the results of our models concerning blame and responsibility in the rst two columns. The individual coefcients give the difference in the log-odds of being in the identied category versus being in the reference category ("Protesters" in this case). From the results, we see that age is the only control variable to reach statistical signicance (at the 0.05 level). The variables of interest (i.e., respondent race, protester race, and police race) are included multiplicatively, which presents a little difculty as two- and three-way interactions are hard to conceptualize under any set of circumstances, more so in a nonlinear
-
-**Table 7.4** Multinomial logistic regression results
-
-| | Responsibility | |
-|--------------------------------|----------------|---------|
-| | Both | Police |
-| Intercept | 0.064 | −2.346* |
-| | (0.555) | (0.937) |
-| Black respondent | 1.035* | 1.331 |
-| | (0.460) | (0.743) |
-| Black–White (protester–police) | 0.061 | 0.348 |
-| | (0.309) | (0.603) |
-| White–Black (protester–police) | −0.100 | 1.582* |
-| | (0.312) | (0.475) |
-| Partisanship: Independent | 0.550 | 0.268 |
-| | (0.338) | (0.546) |
-| Partisanship: Democrat | 0.617* | 0.811 |
-| | (0.278) | (0.449) |
-| Age | −0.019* | −0.011 |
-| | (0.007) | (0.011) |
-| Gender (female) | 0.089 | −0.301 |
-| | (0.235) | (0.358) |
-| Education: HS | −0.864* | −0.231 |
-| | (0.415) | (0.630) |
-| Education: Some college | −0.479 | 0.101 |
-| | (0.407) | (0.627) |
-| Education: BA/S or higher | −0.296 | −0.347 |
-| | (0.405) | (0.665) |
-| Black respondent × Black–White | 0.304 | 1.067 |
-| | (0.854) | (1.135) |
-| Black respondent × White–Black | −1.048 | −1.857 |
-| | (0.776) | (1.038) |
-| N | 423 | |
-| log(Likelihood) | −341.876 (26) | |
-## | PRE (ePRE) | 0.129 (0.103) | |
-
-<sup>\*</sup>*p* < 0.05 (two-tailed)
-
-model like the multinomial logistic regressions presented in Table 7.4. Fortunately, the variables involved in the interactions are all categorical with few categories, which allows for the exploration of all possible combinations making the task somewhat more reasonable. To make the results as clear as possible, we present direct evaluations of our expectations, rather than relying on coefcients, specically those on interactions, to convey the substantive and statistical signicance of the results. Thus, it is not necessary to attempt to evaluate the implications of the interactions simply by looking at the model coefcients.
-
-| | Dyad<br>(protester–police) | Black observer | White observer |  | p-value |
-|------------------|----------------------------|----------------|----------------|---------|---------|
-| Blame protesters | Homogeneous | 0.380 | 0.638 | −0.258* | 0.006 |
-| | Black–White | 0.266 | 0.612 | −0.346* | 0.015 |
-| | White–Black | 0.593 | 0.568 | 0.025 | 0.409 |
-| Blame police | Homogeneous | 0.103 | 0.044 | 0.059 | 0.107 |
-| | Black–White | 0.252 | 0.062 | 0.190 | 0.198 |
-| | White–Black | 0.128 | 0.174 | −0.046 | 0.230 |
-
-**Table 7.5** Difference in predicted probability between white and black observers
-
-Entries are based on simulated predicted probabilities of blaming police and protesters holding other variables constant at central values. Bolded differences are those consistent with our expectations \**p* < 0.05, one-sided
-
-As suggested above, the coefcients themselves do little to aid in evaluating the extent to which the expectations derived from coalitional theory are borne out by the data. Table 7.5 presents the numerical results directly relevant to evaluating our rst set of expectations that white observers are generally more likely to blame protesters than black observers (regardless of the particularities of the situation under consideration [i.e., the race of those involved]). We simulate predicted probabilities (in a manner similar to King et al. 2000), and provide one-sided *p*-values (i.e., the probability of nding a difference as big as we did [in the indicated direction] if the null hypothesis of no difference is true).15
-
-The results here are largely consistent with our expectations. The difference between black and white observers is signicant and in the expected direction for homogeneous dyads (e.g., scenarios 2 and 5 in Table 7.1). When protesters and police are of the same ethnicity, African Americans are less likely than whites to blame protesters for the conict. The differences for the probability of blaming the police have similar patterns to those identied above, but the differences here are not statistically signicant, suggesting that there is no difference between blacks and whites regarding their propensity to blame police when protesters and police are of the same race.
-
-The coalitional theory described earlier suggests that observers should be more sympathetic to co-ethnics than to others when viewing heterogeneous dyads. This leads to a set of expectations about differences in the probability of blaming diverse actors for the conict. These probabilities are in Table 7.6.
-
-| | Dyads (protester–police) | | |  | p-value |
-|-----------------|--------------------------|-------------|-------------|---------|---------|
-| | Black–White | White–Black | Homogeneous | | |
-| Black observers | 0.264 | 0.592 | | −0.328* | 0.031 |
-| | 0.264 | | 0.381 | −0.117 | 0.211 |
-| White observers | 0.614 | 0.567 | | 0.048 | 0.264 |
-## | | | 0.567 | 0.638 | −0.071 | 0.166 |
-
-## **Table 7.6** Probability of protester blame
-
-Entries under "Black–White," "White–Black," and "Homogeneous" are predicted probabilities of blaming dyads holding other variables constant (see fn 14 for values). The dyad designation refers to protester–police races. Bolded differences are those consistent with our expectation
-
-\**p* < 0.05, one-sided
-
-Concerning protester blame, the differences in predicted probabilities between blacks and whites are perfectly consistent with our results, though only one is signicantly different from zero at conventional levels of statistical signicance. For black observers, the probability of blaming protesters when viewing black protesters and white police (scenario 7) is much smaller (at statistically signicant levels) than when viewing white protesters and black police (scenario 4). In the former situation (black observers, black protesters, and white police), black co-ethnics are likely perceived as the victim of hostile government agents and thus less likely to receive blame whereas in the latter situation (black observers, white protesters, and black police) afnity with black police diminishes the general orientation to support those challenging authority, increasing protester blame. Interestingly, white observers are found to not allocate blame any differently across diverse ethnic combinations.
-
-As discussed above, a similar set of expectations emerge regarding the probability of blaming police. Here, we expected observers viewing heterogeneous dyads to be less likely to blame co-ethnic police. This expectation should hold when the comparison is made with heterogeneous dyads with co-ethnic protesters as well as with homogeneous dyads. Table 7.7 provides results to evaluate these expectations.
-
-When this is done, we nd that considering the two different heterogeneous dyads, our expectations are partially borne out by the data. The expected difference (though similar in magnitude for both black and white observers) is only statistically signicant for white observers. We thus nd that when observers are white, they tend to be less likely to blame police when protesters are black and police are white relative to
-
-| | Dyads | | |  | p-value |
-|-----------------|-------------|-------------|-------------|---------|---------|
-| | Black–White | White–Black | Homogeneous | | |
-| Black observers | 0.255 | 0.128 | | 0.127 | 0.147 |
-| | | 0.128 | 0.105 | 0.023 | 0.415 |
-| White observers | 0.063 | 0.176 | | −0.113* | 0.007 |
-## | | 0.063 | | 0.044 | 0.018 | 0.282 |
-
-## **Table 7.7** Probability of police blame
-
-Entries under "Black–White," "White–Black," and "Homogeneous" are predicted probabilities of blaming dyads holding other variables constant (see fn 14 for values). The dyad designation refers to protester–police races. Bolded differences are those consistent with our expectation \**p* < 0.05, one-sided when protesters are white and police are black. There seems to be no signicant difference (either substantive or statistical) for the comparison between heterogeneous dyads with co-ethnic police and homogeneous dyads.
-
-In the discussion above, we left as an open question what happens regarding the likelihood of blaming protesters when observers view heterogeneous dyads with co-ethnic police versus when they view homogeneous dyads. Considering the possibilities, two rival expectations emerge and our theory does not provide much guidance in adjudicating between them. Since protesters are unambiguously to blame for the con ict according to the experimental treatment that everyone read, those viewing homogeneous dyads (where race is taken out of consideration) should, rightly, have a high probability of blaming protesters. When similar people view heterogeneous dyads with co-ethnic police, however, do they impose what might be seen as an extra penalty on protesters because they are facing the observer's non-co-ethnics? Coalitional theory suggests that when race is held constant, people can blame the protesters easily. The question then becomes how much of an additional penalty is extracted on protesters when observers view a situation where the police share their race and protesters do not? That is what we have sought to parse both by holding the responsibility constant across conditions where the protesters are responsible, and for varying race of participants across conditions.
-
-The empirical evidence here is interesting. For black respondents, the probability of blaming protesters is 0.2 higher when viewing white protesters and black police than when viewing homogeneous dyads (i.e., where protesters and police are either both black or both white). While not signicant at conventional levels, a *p*-value of 0.087 indicates with a bigger sample, there may be an interesting effect there. On the other hand, the same cannot be said for white observers. They are marginally less likely to blame black protesters facing white police than protesters facing co-ethnic police. This difference, however, is both substantively small (0.07) and not statistically signicant (*p* = 0.157).
-
-Alternatively, whether extra benets accrue to co-ethnic police in heterogeneous dyads is also at issue. The idea is that observers may be less likely to blame co-ethnic police facing non-co-ethnic protesters than they are when the same type of observer views homogeneous dyads. We nd no evidence in the data for this phenomenon. For both black and white observers, the effect of interest is both substantively small and not statistically signicant. This is not surprising since the probability of blaming police is already low.
-
-## conclusion
-
-In our attempt to better understand how citizens respond to dissident– state interactions, we have described some of the mechanisms underlying the emergence and evaluation of one form of political conict—protest and protest policing. In so doing, we have examined one specic characteristic, race, that has been historically important in the United States context, and investigated how it may affect citizen perceptions of what transpires following challenger–government confrontation and who is to be held accountable.
-
-Racial asymmetries, we have found, affect observers' perceptions of blame and responsibility. When protesters and police are of the same race, African Americans are much less likely to blame protesters compared to whites. When the protesters and police are of different races, ndings vary. For example, blacks are less likely to blame protesters when protesters are black and police are white. In turn, whites are less likely to blame police when police are white and protesters are black.
-
-This research signicantly advances previous work by systematically exploring the interaction of race with perceptions of social movement and police activity (i.e., contentious politics). Our results highlight some potentially critical factors involved in how contentious interactions may escalate into larger confrontations as individuals perceiving one party as being responsible for a conict may choose to take action (i.e., instigating a lawsuit, circulating a petition or initiating protest behavior). Our research has implications for how individuals perceive problems of order, choose to act politically in support of their beliefs, make decisions about which political attitudes to champion and the ways to do so, and assess the legitimacy of participants' actions, as well as for who they hold accountable for disruptions and escalations, and for how willing they are to sacrice the civil rights of others to ensure public order.
-
-Additionally, our work has implications for how scholars might study challenger–state interactions as well. While this study was focused on the importance of race during a specic challenger–government interaction, future work might examine other aspects of identity (i.e., sex, class, religion, ideology as well as combinations of characteristics such as race and sex or ideology and class). To put this another way, our study identied one type of coalition that may be at play as a heuristic in evaluating the responsibility of challengers and governments when a confrontation takes place. Perhaps other factors matter as the topic of intersectionality would lead us to conclude. Researchers might also explore the impact of who instigates the conict (i.e., protesters, police, or ambiguous), the substantive subject of dispute (i.e., health care, war/international security, civil liberties, racism, sexism, wages, educational reform, and economic inequality), the means used (i.e., rocks, explosives, and guns), the inuence of the specic locale (i.e., where interactions take place), and the earlier history of interactions between specic groups or police regarding dissident–state interactions. Any of these factors might inuence perceptions of blame as discussed here and in the literature on contentious politics. As researchers and ordinary citizens attempt to understand why some challenger–government interactions prompt subsequent outrage and participation in protests while others prompt mass support for governments and subsequent anti-mobilization behavior, this line of inquiry is crucial for advancing knowledge and promoting freedom.
-
-Indeed, accountability in democratic systems, we maintain, must rest on shared notions of responsibility. Most political science studies assume the law represents societies' shared understanding of right and wrong. However, the case of police abuse, especially in the management of protests, reveals that the public's attribution of responsibility is decidedly more ambiguous. Here we nd that public perception and whether or not it provokes moral outrage is important to the determination of wrongdoing and the use of liberal democratic institutions of accountability. If there are racial boundaries to such shared notions of accountability for police action or protest action, then attribution for blame becomes skewed, and public calls demanding accountability will largely lose or win in ways that are contingent on race. If shared notions of moral outrage are precluded by the race of participants, it makes the administration of equal justice impossible to achieve. This sits as one of the biggest topics left unaddressed by the existing literature.
-
-## notes
-
-- 1. Despite the fact that researchers interested in one type of contentious behavior tend to ignore the other (e.g., Lichbach 1992), the two literatures draw on similar explanatory factors: political democracy; economic development; and tactical responses to opponents.
-- 2. Others address coverage in NGO reports (e.g., Davenport and Ball 2002).
-- 3. There has been no similar eld of research conducted on the outcomes of state repression—again, beyond its success in vanquishing behavioral challengers.
-- 4. Some work on insurgency and counterinsurgency seems comparable in that in this case citizen opinions about prior challenger–state interactions inuence whether they "join" the challengers (either participating directly in the organization and/or assisting them with resources as well as safe havens), join the state (identifying the challengers in their midst and/or those supportive of them), or they do nothing (attempting to pick no side). Similar to Opp and Gern (1993), citizen opinion concerns a willingness to side with challengers.
-- 5. Although, in this case, we examine the effects of racial similarity on subsequent judgments and evaluations, we expect that a similar process would work with all signicant existential identications, such as sex, age, religion, or even external identications such as occupation and class. Note that this has nothing to do with what actually happens when challengers and governments interact.
-- 6. It seems that the recent revelation that there is a largely antiblack and latino stop-and-frisk policy being practiced by New York police is setting the stage for another confrontation (for discussion see: http://www.nyclu.org/issues/racial-justice/stop-and-frisk-practices [last accessed November 18, 2017]).
-- 7. Think of Sunday Night Football: This number one ranked program does not show any racial disparity in viewership although blacks and whites show no other overlap in their top ten television shows. But team membership can trump racial disregard; similarly, those who are romantically involved with another race fail to show typical prejudice toward racial outgroups (Phelps and Thomas 2003).
-
-- 8. In many respects, newer research on implicit bias also supports this point.
-- 9. See http://www.tessexperiments.org/(last accessed November 18, 2017).
-- 10. Within subsequent research we plan to vary other components.
-- 11. We do not have expectations about what happens in the middle category on either measure. We don't see this as particularly problematic as we can still examine the difference between the two extreme categories, which should follow the expectations set out above.
-- 12. The partisanship variable was also originally a seven-point variable, but was recoded so partisan categories included pure partisans and leaners. Only "true" independents remain in the "Independent" category.
-- 13. We could have coded the variable as having two categories—heterogeneous and homogeneous, but given the understanding that there may be clear differences between the black–white and white–black protester–police dyads (especially when they interact with respondent race), we thought this was more appropriate. As importantly as our theoretical expectations, we nd this specication (treating both homogeneous dyads as equivalent) was not statistically worse than the specication treating them separately. This conrms our expectation that removing race as an evaluative criterion results in similar evaluations of blame regardless of the race of protesters and police.
-- 14. We include interactions between the two non-reference category dummies for the experimental treatment and respondent race in the rst model and all pairwise and three-way interactions of the two non-reference category dummies for the experimental treatment, the two non-reference category dummies for perceived responsibility and respondent race in the second model.
-- 15. Here, we have to hold other variables in the model constant at some value. We choose the median value of age (49), the modal category for education (some college), the modal category for gender (female) and politically independent, which is not quite the median in the unweighted data, but is the median in weighted counts.
-
-## references
-
-Abdelal, Rawi, Yoshiko Herrera, Iain Johnston, and Rose Mc Dermott. 2006. "Identity as a Variable." *Perspectives on Politics* 4 (4): 695–711.
-
-Barkan, Steven. 1984. "Legal Control of the Southern Civil Rights Movement." *American Sociological Review* 49 (4): 552–65.
-
-Barkan, Elazar. 2001. *The Guilt of Nations: Restitution and Negotiating Historical Injustices*. Baltimore: Johns Hopkins University Press.
-
-Benford, Robert D., and David A. Snow. 2000. "Framing Processes and Social Movements: An Overview and Assessment." *Annual Review of Sociology* 26 (1): 611–39.
-
-- Bonner, Michelle D. 2014. *Policing Protest in Argentina and Chile*. Boulder, CO: First Forum (Lynne Rienner).
-- Bonilla-Silva, Eduardo. 2001. *White Supremacy and Racism in the Post-civil Rights Era.* Boulder, CO: Lynne Rienner.
-- Clarke, Kevin. 2007. "A Simple Distribution-Free Test for Nonnested Hypotheses." *Political Analysis* 15 (3): 347–63.
-- Conrad, Courtenay R., and Will H. Moore. 2010. "What Stops the Torture?" *American Journal of Political Science* 54 (2): 459–76.
-- Cunningham, David. 2004. *There's Something Happening Here: The New Left, the Klan, and FBI Counterintelligence*. Berkeley: University of California Press.
-- Davenport, Christian. 1995. "Multi-dimensional Threat Perception and State Repression: An Inquiry into Why States Apply Negative Sanctions." *American Journal of Political Science* 39 (3): 683–713.
-- Davenport, Christian. 2010. *Media Bias, Perspective and State Repression: The Black Panther Party*. New York: Cambridge University Press.
-- Davenport, Christian, and Patrick Ball. 2002. "Views to a Kill: Exploring the Implications of Source Selection in the Case of Guatemalan State Terror, 1977–1995." *Journal of Conict Resolution* 46 (3): 427–50.
-- Davenport, Christian, Sarah Soule, and David Armstrong. 2011. "Protesting While Black? The Differential Policing of American Activism, 1960 to 1990." *American Sociological Review* 76 (1): 152–78.
-- Davis, Darren. 2007. *Negative Liberty: Public Opinion and the Terrorist Attacks on America.* New York: Russell Sage Foundation.
-- Davis, Darren W., and Brian D. Silver. 2004. "Civil Liberties vs. Security: Public Opinion in the Context of the Terrorist Attacks on America." *American Journal of Political Science* 48 (1): 28–46.
-- Della Porta, Donatella, and Herbert Reiter. 1998. *Policing Protest: The Control of Mass Demonstrations in Western Democracies.* Minneapolis: University of Minnesota Press.
-- Earl, Jennifer, and Sarah A. Soule. 2006. "Seeing Blue: A Police-Centered Explanation of Protest Policing." *Mobilization* 11 (2): 145–64.
-- Earl, Jennifer, Sarah A. Soule, and John D. Mc Carthy. 2003. "Protest under Fire? Explaining the Policing of Protest." *American Sociological Review* 68 (4): 581–606.
-- Fiske, Susan, and Shelley Taylor. 1984. *Social Cognition*. New York: Mc Graw-Hill.
-- Francisco, Ron A. 1996. "Coercion and Protest: An Empirical Test in Two Democratic States." *American Journal of Political Science* 40 (4): 1179–204.
-- Franklin, John Hope, and Isidore Starr. 1967. *The Negro in 20th Century America: A Reader on the Struggle for Civil Rights.* New York: Vintage Books.
-- Gamson, William A. 1979. "The *Dissent* of the Governed: Alienation and Democracy in America. James D. Wright." *American Journal of Sociology* 85 (1): 187–89.
-
-- Gibson, James. 2008. "Intolerance and Political Repression in the United States: A Half Century after Mc Carthyism." *American Journal of Political Science* 52 (1): 96–108.
-- Giugni, Marco. 1998. "Was It Worth the Effort? The Outcomes and Consequences of Social Movements." *Annual Review of Sociology* 24 (1): 371–93.
-- Goffman, Erving. 1974. *Framing Analysis: An Essay on the Organization of Experience.* New York: Harper & Row.
-- Hess, David, and Brian Martin. 2006. "Repression, Backre and the Theory of Transformative Events." *Mobilization* 11 (2): 249–67.
-- Jasper, James M., and Jane D. Poulsen. 1995. "Recruiting Strangers and Friends: Moral Shocks and Social Networks in Animal Rights and Anti-nuclear Protests." *Social Problems* 42 (4): 493–512.
-- King, Gary, Michael Tomz, and Jason Wittenberg. 2000. "Making the Most of Statistical Analyses: Improving Interpretation and Presentation." *American Journal of Political Science* 44 (2): 341–55.
-- Kuklinski, J., P. Sniderman, K. Knight, T. Piazza, P. Tetlock, G. Lawrence, and B. Mellers. 1997. Racial Prejudice and Attitudes Toward Afrmative Action. *American Journal of Political Science*, 402–419.
-- Kurzban, Robert, John Tooby, and Leda Cosmides. 2001. "Can Race Be Erased? Coalitional Computation and Social Categorization." *Proceedings of the National Academy of Sciences* 98 (26): 15387–92.
-- Lichbach, Mark. 1992. "Nobody Cites Nobody Else—Mathematical Models of Domestic Political-Conict." *Defense Economics* 3 (4): 341–57.
-- Mason, T. David, and Dale Krane. 1989. "The Political Economy of Death Squads—Toward a Theory of the Impact of State-Sanctioned Terror." *International Studies Quarterly* 33 (2): 175–98.
-- Mc Adam, Doug. 1982. *Political Process and the Development of Black Insurgency, 1930–1970.* Chicago: University of Chicago Press.
-- Mc Adam, Doug. 1988. "Micromobilization Contexts and Recruitment to Activism." *International Social Movement Research* 1 (1): 125–54.
-- Mc Adam, Doug, and Yang Su. 2002. "The War at Home: The Impact of Antiwar Protests, 1965–1973." *American Sociological Review* 67: 696–721.
-- Moore, Will H. 2000. "The Repression of Dissent: A Substitution Model of Government Coercion." *Journal of Conict Resolution* 44 (1): 107–27.
-- Opp, Karl-Dieter, and Christiane Gern. 1993. "Dissident Groups, Personal Networks, and Spontaneous Cooperation: The East German Revolution of 1989." *American Sociological Review* 58 (5): 659–80.
-- Opp, Karl-Dieter, and Edward Muller. 1986. "Rational Choice and Rebellious Collective Action." *American Political Science Review* 80 (2): 471–88.
-- Opp, Karl-Dieter, and Wolfgang Roehl. 1990. "Repression, Micro-mobilization, and Political Protest." *Social Forces* 69 (2): 521–47.
-- Petraeus, David. 2006. *The Army Counterinsurgency Manual*. Washington: US Army. http://www.fas.org/irp/doddir/army/fmi3-07-22.pdf.
-
-- Phelps, Elizabeth A., and Laura A. Thomas. 2003. "Race, Behavior, and the Brain: The Role of Neuroimaging in Understanding Complex Social Behaviors." *Political Psychology* 24 (4): 747–58.
-- Piven, Francis Fox, and Richard Cloward. 1977. *Poor People's Movements.* New York: Vintage Books.
-- Poe, Steven C., and Neal C. Tate. 1994. "Repression of Human Rights to Personal Integrity in the 1980s: A Global Analysis." *American Political Science Review* 88 (4): 853–72.
-- R Core Development Team. 2012. *R: A Language and Environment for Statistical Computing*. Vienna, Austria: R Foundation for Statistical Computing.
-- Smith, Brad W., and Malcolm D. Holmes. 2003. "Community Accountability, Minority Threat, and Police Brutality: An Examination of Civil Rights Criminal Complaints." *Criminology* 41 (4):1035–63.
-- Soule, Sarah, and Brayden King. 2006. "The Impact of Social Movements at Stages of the Policy Process: The Equal Rights Amendment, 1972–1982." *American Journal of Sociology* 111 (6): 1871–909.
-- Soule, Sarah, and Christian Davenport. 2009. "Velvet Glove, Iron Fist or Even Hand? Protest Policing in the United States, 1960–1990." *Mobilization* 14 (1): 1–22.
-- Stults, Brian J., and Eric P. Baumer. 2007. "Racial Context and Police Force Size: Evaluating the Empirical Validity of the Minority Threat Perspective." *American Journal of Sociology* 113 (2): 507–46.
-- Taylor, Marylee C. 1998. "How White Attitudes Vary with the Racial Composition of Local Populations: Numbers Count." *American Sociological Review* 63: 512–35.
-- Tilly, Charles. 1978. *From Mobilization to Revolution*. Reading, MA: Addison-Wesley.
-- Venables, William. N., and Brian D. Ripley. 2002. *Modern Applied Statistics with S* (4th edition). New York, NY: Springer.
-- Weitzer, Ronald, and Stephen A. Tuch. 2005. "Racially Biased Policing: Determinants of Citizen Perceptions." *Social Forces* 83 (3): 1009–30.
-- Williams, Julian. 2005. "Black Radio and Civil Rights: Birmingham, 1956– 1963." *Journal of Radio Studies* 12 (1): 47–60.
-- Wisler, Dominique, and Marco Giugni. 1999. "Under the Spotlight: The Impact of Media Attention on Protest Policing." *Mobilization: An International Quarterly* 4 (2): 171–87.
-
-## Socioeconomic (In)Equality
-
-## ![](_page_202_Picture_0.jpeg)
-
-#### CHAPTER 8
-
-## Supporting the "Elite" Transition in South Africa: Policing in a Violent, Neoliberal Democracy
-
-## *Marlea Clarke*
-
-South Africa garnered the world's attention in August 2012 when police opened re on striking workers at the Lonmin Platinum mine in Marikana, killing 34 and wounding 78. Some believed that this lethal use of force exposed deep problems with state policing, specically the steady "re-militarization" of the police (Hornberger 2013), or a return to the brutality that characterized policing during the apartheid period (Bruce 2002, 2005). Others (Hart 2013; Calland 2013) quickly referred to the massacre as the "Marikana moment," a turning point in the country's history where some of the principal tensions in society and failures of the transition were exposed in one brutal incident, and compared it to other historical dividing points such as the Sharpeville massacre (1960) and the Soweto uprising (1976). Both of these tragedies increased national resistance to apartheid, and galvanized international attention and support for the liberation movement, which eventually forced the government to begin negotiations to end apartheid and transition to democratic rule.
-
-## M. Clarke (\*)
-
-Department of Political Science, University of Victoria, Victoria, BC, Canada
-
-The Marikana massacre did instigate other actions, such as the wave of strikes that swept the mining and agricultural sectors in the weeks and months that followed. However, there is little to suggest that it was a turning point. Extreme inequality, relative deprivation, and deep poverty persist in South Africa, reinforced by governing practices, neoliberal economic policies, and patterns of structural violence carried over from the apartheid period. And, as will be discussed below, despite the country's relatively peaceful transition to democracy, contemporary South Africa continues to be marked by high levels of violent crime. Much of this crime, however, is a symptom of social and economic inequalities and the legacy of apartheid rule, rather than a failure of police reform—and, as such, the crime spike does not justify the "tough on crime" approach adopted in the early 2000s. Indeed, rather than improving the crime ghting performance and capacity of the police, the "tough on crime" approach has created an environment in which police abuse continues.
-
-Similar to the analysis offered in this edited volume, and informed by scholarship focused on the relationship between democracy and violence in the global south (Arias and Goldstein 2010; Chatterjee 2004; North et al. 2012), this chapter views police abuse as actions that limit or restrict citizens' rights and actions aimed at agitating for socioeconomic transformation, including but not limited to the rights to protest, strike, and collectively organize. As we will see below, the policing of crime, strikes, and protests (the latter frequently focused on the demands for services in poor areas and a more equitable redistribution of wealth and assets) in South Africa have all become more violent, with successive police ministers promising to crackdown on crime and to use force to restore order (von Holdt 2013, p. 602).
-
-This chapter argues that violence and police abuse in contemporary South Africa are not necessarily symptomatic of democratic failure (a common diagnosis in the political science literature on democratization [Bonner et al., Chapter 1]), but rather the outcome of a particular type of democratic transition. Bringing together the work of scholars on the political economy of policing and the scholarship on the political economy of South Africa's transition, this chapter echoes von Holdt's characterization of South Africa's social order as violent democracy. As he contends, violence should not be seen as an aberration. Instead, "democracy may congure power relations in such a way that violent practices are integral to them—producing a social system we may call *violent democracy*" (2013, p. 590).
-
-Characterizing the country in such a way does not negate the fact that police reforms have taken place. As we will see, wide-reaching reforms to the police force introduced in the 1990s began to transform the brutal, racist, incompetent apartheid police force inherited by the African National Congress (ANC). However, the emphasis on legitimacy, accountability, and community-policing in these reforms was quickly set aside as violent crime began to undermine condence in the new order. Safety and crime reduction became the top public policy concerns, and human rights oriented reforms to the police force were abandoned as they were seen to undermine the effectiveness of the police (Bruce 2002, p. 18). Further, excessive force by the police against civilians remained high, especially against striking workers and social movement actions, key features of political engagement and protest in contemporary South Africa, which are increasingly labeled as forms of "violent and unruly behavior" that hamper the economy.
-
-This chapter is organized in the following way. The rst section provides a brief historical overview of policing under apartheid in order to understand the challenges inherited by the new regime in 1994, the need for widespread reforms, and some of the ways in which the role of the police in the contemporary period bears striking resemblance to that of the police under the previous regime. The next section outlines some of the key elements of police reform under the ANC government during their rst term in ofce. After noting some of the positive consequences of such changes, we turn to examine the effects of the government's shift to a "tough on crime" approach and related problems with police abuse. The third section examines some of the ways in which the "tough on crime" approach has spilled over into the policing of civil society protests in the context of rising socioeconomic inequality and public opposition to neoliberal economic reforms.
-
-Police abuse should not be understood as a "policing problem" or the failure of police accountability mechanisms put in place under the African National Congress (ANC) government since 1994, as much of the work on policing tends to do (see, for example, van der Spuy 2007; de Kok and van der Spuy 2015; Bruce 2007). Instead, similar to the role of the police in the apartheid era, the aggressive use of force by the current police and private security companies serves to support government policies and reinforce the continued socioeconomic exclusion of a large percentage of society. Thus, police abuse should be understood as both a consequence and an integral aspect of the contested nature of the country's democratic transition. As other scholars have argued, the actions of the Marikana miners and the brutality of the police response can only be understood by placing them within a wider and historical context of structural violence built into the apartheid system (especially the migrant labor system), the role of the police during the apartheid period, and continued patterns of violence shaped by the post-apartheid political economy (Dixon 2015; von Holdt 2013; Mc Michael 2016). The chapter concludes with a call to introduce broader-based reforms, both to the police force itself and especially to policies that will address systemic poverty, inequality, and violence in South Africa. The solution to police abuse is not better training, but rather socioeconomic reforms aimed at the radical redistribution of income, wealth, and other resources.
-
-## history: Policing And Police Abuse under APArtheid
-
-As is well documented and needs little recounting here, the history of apartheid was a history of oppressive and inhuman police practices. Although racist and brutal policing existed before apartheid was formally adopted in 1948, police abuse escalated dramatically in the following decades. The laws and norms that governed the South African Police (SAP) under successive National Party governments gave police enormous discretionary power to use whatever force they deemed appropriate to enforce the law, keep the peace, protect property, and perhaps most importantly, maintain apartheid (Brogden and Shearing 1993). While white communities were protected from crime, black1 communities were policed for control, not crime prevention. Overall, the SAP's primary role was enforcing apartheid and controlling the movement of black Africans. Police violence was indirect and direct. Indirectly, the SAP enforced an oppressive social, political, and legal order that controlled and shattered the lives of black South Africans (Brewer 1989; Brogden and Shearing 1993). For example, police were at the forefront of imposing the infamous Pass Laws (laws regulating and restricting the movement of black people into urban areas) alongside numerous other apartheid laws and legislation regulating black people's movements and behavior in urban areas (i.e., laws that segregated public premises and services like parks and beaches).
-
-Direct violence was just as pervasive: the SAP was tasked with putting down all opposition to apartheid (disingenuously labeled "unrest") and often did so with excessive force. Enforcing apartheid in the face of rising opposition during the 1960s and 1970s required the use of coercive measures and brutality, from individual arrests and detentions to mass slaughters of unarmed or retreating protesters (e.g., the Sharpeville massacre in 19602 and the killing of hundreds of students during the Soweto uprisings in June 1976). As Brogden and Shearing argue about this period: "what sets South African policing apart from most other policing is the oppressive nature of the order promoted and the violence it has employed" (1993, p. 16).
-
-Even with the repressive political climate, opposition to apartheid mounted throughout the 1980s: black trade unions organized strikes and other workplace actions despite the illegality of such actions, youth and student groups proliferated, and women's organizations were formed throughout the country. Resistance deepened and expanded with the formation of the United Democratic Front (UDF), an umbrella organization that brought together over 400 youth, student, church, worker, women's and other anti-apartheid and community-based organizations.
-
-The government responded by declaring two States of Emergency, the rst in 1985 and the second in 1988, both of which gave the police and military heightened powers. Security and riot police patrolled the townships, terrorizing black communities, and their organizations. Police brutality escalated: torture became a normal part of custodial and interrogative practices of the SAP, and hundreds of anti-apartheid activists were killed or injured in police custody. In order to "confuse and conceal" the racial aspect of oppression by having apartheid enforced in the townships by "the victims themselves" (Brogden and Shearing 1993), the SAP gradually hired more black ofcers to patrol the townships while still maintaining a racially hierarchical command structure. Black townships became such a target of police action and surveillance that by the late 1980s, the Casspir, a bright yellow armored vehicle carrying heavily armed—and increasingly black—police had become the symbol of South African policing.
-
-In addition to brutality, ve key factors characterized and shaped policing under apartheid: fragmentation; legislative context; police– military relations; politicization of crime and the related politicization of the police as an institution; and, public perceptions of the police. Police reform in the post-apartheid period needs to be understood with reference to these factors, and with regard to neoliberal economic reforms and resulting political struggles.
-
-First, under apartheid policing took place through a large fragmented network of separate police forces, ancillary bodies, and a burgeoning private security industry. Most important in this fragmentation were regional police forces. Although the South African Police formed the largest and most dominant police force, policing during the 1970s and 1980s was carried out through numerous, geographically specic, police forces after the creation of ten new "homelands."3 Each force was constituted under its own legislation and operated within its own jurisdiction. However, as Rauch notes, despite "nominal political independence," homeland police forces were subject to "signicant control by the SAP" (2000, p. 1). One feature of these regional police forces that had longterm consequences was that homeland forces were generally made up of ofcers (black and white) who had been seconded to the homeland force and used the autonomy they enjoyed from central police headquarters to create networks of patronage and corruption (Rauch 2000). Further, the relatively small SAP was able to draw on members of the Police Reserve (retired SAP members), ancillary bodies such as the intelligence services' vast network of informers, and even individuals—such as employers who helped enforce pass laws and other apartheid legislation for their workforce—to carry out police work (Brogden and Shearing 1993, pp. 70–71; Brewer et al. 1988), often with relatively low levels of oversight or accountability.
-
-These networks of public and private agencies that enhanced and supported the police increased with privatization processes4 in the 1980s and the rapid expansion of private security, which became the largest "hidden" supplement to the police (Brogden and Shearing 1993, p. 72). Although legally separated, the private security industry had both informal and formal ties with the SAP, especially following the implementation of the Security Ofcers Act of 1987, which formalized and expanded their partnership. As many scholars have noted, cooperation went both ways: the SAP relied on private security companies to assist in "regular" policing, especially as police work shifted away from crime and crime prevention to political control of the townships, while the police increasingly collaborated with private security companies at the mines and other private businesses to defeat striking workers (Philip 1989; Irish 1999).
-
-Second, as black opposition to apartheid increased, so too did the power and autonomy of the police to enforce legislation and crackdown on political opposition. Repressive new apartheid legislation gave almost unlimited power to the security policy. For example, like the Terrorism Act that proceeded it, the Internal Security Act of 1982 gave the government broad powers to ban or restrict organizations, publications, people and public gatherings, and extensive powers to detain people suspected of involvement in "terrorism and subversion" indenitely. Police forces were at the forefront of enforcing such legislation. As others have noted, terrorism and subversion were dened so broadly that charges could be laid against school children boycotting classes or workers engaging in industrial action (Brewer et al. 1988, p. 173). The Act and other pieces of security legislation gave police almost unlimited powers to arrest and detain citizens, and provided no oversight in the treatment of their detainees.
-
-Third, a close relationship and overlapping division of labor developed between the police and defense forces. Organizationally, the links between the SAP and the South African Defence Force (SADF) were strong and became increasingly so during the last few decades of apartheid. For example, the SADF was used to support the police in maintaining internal security and "order" in the townships, especially as resistance deepened in the 1980s (Cawthra 1993; Bruce 2002). Internal restructuring of the SADF expanded the size of the army, created reaction units (Commandos) and other smaller units to allow the SADF to quickly respond to internal "unrest," and formalized collaboration between the army and the police. Other examples of this close linkage include joint training processes for staff and ofcers, and the ability of SADF servicemen to complete their national service5 in the SAP. As some scholars have put it, the army was increasingly used as a "subsidiary of the police in urban areas" (Brewer et al. 1988, p. 178).
-
-In addition to these organizational links between the two, the SAP gradually took on a strong paramilitary character: riot control, counterinsurgency, and other forms of military training became part of the "on the job" and basic training for all police ofcers, while new specialist sections within the SAP, such as the Task Force on counterinsurgency, were created and supported by the SADF (Brewer et al. 1988, pp. 177–79). Even some of the most routine patrols by police forces took on the "character of military-style operations conducted from behind the barrier of wire mesh, armoured vehicles and other technology" (Brewer et al. 1988, p. 183).
-
-Fourth, apartheid legislation and the related lack of legal channels of protest meant that virtually all political protests were criminalized, as were most ordinary actions that could be seen to have political content. As other scholars have argued, the public disorder was progressively dened (both in law and in practice) to include such a wide range of activities that almost any economic, industrial, or social activity could be dened as public disorder and the participants arrested (Brewer 1989; Brogden and Shearing 1993). The adoption of the Internal Security Act and other pieces of legislation during the two States of Emergency granted the police more power and autonomy, and resulted in greater police intrusion into all areas of life, ranging across "industrial relations, religious services, classroom boycotts, poetry readings and township demonstrations" (Brewer et al. 1988, p. 179).
-
-At the same time, the police spent relatively little time focused on ordinary crime or crime prevention, especially in black areas of the country. Even the South African Police's ofcial historian, Marius de Witt Dippenaar, admits that only one in ten members of the police force were involved in crime prevention, detection, and investigation during the apartheid period (1988, p. 374). Shaw summarizes the role of the police under apartheid well:
-
-Little attempt was made by the police to reduce crime in black areas, the majority of police resources being concentrated in white towns and suburbs. Black people were policed for control and not crime prevention; the police aimed to prevent crime in white areas not by reducing it in black areas but by preventing the uncontrolled movement of black people, who were considered to be its perpetrator. Thus, the police spent an inordinate amount of resources on arresting people for apartheid administrative offences, such as not being in possession of a 'pass' in a white area, but seldom confronted criminal violence in the townships themselves. (Shaw 2002, p. 1)
-
-Closely related to the politicization of crime was the politicization of the police as an institution (Brewer 1989). The fact that there was a relationship between politics and policing was nothing unique as all political systems have such a connection. However, this relationship was more explicit than in most with police upholding the (apartheid) policies of the National Party (the party in power from 1948–1994) and frequently conducting themselves in an overtly political manner. For example, the SAP and homeland police forces sponsored or supported vigilante and conservative groups in clashes with progressive organizations, or those linked to the UDF. Further, as several scholars have noted, the "Afrikanerization" of the SAP (Cawthra 1997) under the National Party meant that most white police ofcers were Afrikaans (often working class, many with limited education and skills) who strongly supported apartheid and the ruling party, and opposed any reforms that would increase public accountability of the police.
-
-Finally, it is no surprise that public acceptance of the police among most black South Africans was extremely low. Most blacks were deeply fearful of and often deeply hostile toward the police, including black police ofcers from their communities. Not only did most blacks fear the police and view their role as brutal apartheid enforcers, most regarded the police as corrupt, incompetent, and uninterested or unable to deal with crime in black areas. Consequently, vigilante groups and other forms of community-based alternatives to the SAP were created to patrol the townships.
-
-In direct contrast, and echoing the ndings of Davenport, Mc Dermott, and Armstrong in the case of United States (Chapter 7 of this volume), public approval of the police among the majority of whites remained high, and most believed that police conduct—even when brutal—was justi able. According to Adam and Moodley, a survey among whites in the mid-1980s showed a 74% approval rating of the police and army (Adam and Moodley 1986, p. 109). However, high the white approval rating was for the police, many white neighborhoods increasingly turned to private security agencies to protect public and private property, leading to the burgeoning of the private security industry. By the late 1990s, it was estimated that there were more than four private security guards for every uniformed member of the SAP (Irish 1999, p. 3).
-
-It was against this backdrop and in the context political reforms6 aimed at transitioning the country to democracy that President de Klerk introduced initial reforms to the police force. Among other goals, reforms focused on police training, and aimed to depoliticize the force and increase community accountability (Rauch 2000). These goals were outlined in the SAP's 1991 Strategic Plan with specic processes, new systems, and monitoring procedures detailed in a multiparty agreement, the National Peace Accord, the same year. While these initial changes and new procedures for dealing with reported misconduct had a little immediate impact on policing, broader reforms initiated under the new post-apartheid government introduced far-reaching changes to the police service. However, as we will see, the more transformative elements of these reforms were soon set aside as high crime rates resulted in the adoption of a "tough on crime" approach and a corresponding prioritization of those reforms aimed at improving crime-ghting performance and police capacity, while reforms with a strong human rights-based approach were set aside (Bruce 2002).
-
-## democr Atic tr Ansition And Police reforms: from service to "tough on crime"
-
-Apartheid ofcially ended in 1994 and the ANC (headed by Nelson Mandela) won a landslide victory in the country's rst democratic election, winning nearly 63% of the nearly 20 million votes cast, just shy of the two-thirds majority it needed to write the new constitution with few concessions to other parties. The new Constitution, with a Bill of Rights that gives human rights clear prominence, entered into force February 3, 1997.
-
-Police reform, a key element of transforming the public service, was one of many urgent tasks facing the new government. As noted above, the role of the police under apartheid was to maintain apartheid and control black populations, put down political opposition and keep the white government in power, and protect the white population from crime and political unrest. As Rauch notes, "this did not require traditional policing skills, and instead rewarded political loyalty and allowed large-scale abuses of power" (2000, p. 4). As such, the police force for the new democracy needed to be completely transformed into one that would protect the exercise of democratic political rights, be accountable and transparent to citizens, protect and advance human rights, and ght and prevent crime. Bringing about such massive changes to policing was no small task.
-
-Guided by the constitution and the new legal framework, the new ANC government moved quickly to transform and restructure the police, beginning with the creation of one national police force through the amalgamation of the SAP, the ten homeland police agencies, and members of the former liberation movements. The force was renamed the South African Police Service (SAPS), and the Ministry responsible was renamed the Ministry for Safety and Security instead of the previous title, Law and Order, as one way to emphasize the importance of "protecting and servicing."
-
-The force itself was restructured, with new management, communication and command structures put in place. A new, more rigorous system of recruitment was introduced, as was a new training curriculum. Given the history of policing, it was no surprise that accountability, improving police-community relations, and dealing with abuses of power were key imperatives of reform. Thus, alongside an array of other reforms, specic measures were taken to deal with problems of accountability, human rights violations, and corruption. Community Police Forums were created, as well as a new human rights training curriculum. A code of conduct for the police, policies regarding the use of lethal force that were in line with the Constitution, and policies and procedures aimed at preventing the use of torture were all developed and introduced (Bruce and Newham 2007, p. 20; Rauch 2000).
-
-The transformation of policing in South Africa is often regarded as a success story. In the rst few years of ANC rule, the police were effective in tackling the threat of armed insurrection posed by right-wing groups and quickly dealt with political violence in Kwa Zulu-Natal (Bruce 2007, p. 17). Other changes came more slowly, but compliance with new accountability processes has generally been positive, as has been the implementation of new community consultation mechanisms and procedures (Bruce 2002). Training has resulted in improved levels of professionalism and skill in conducting regular police work (Bruce 2002; Diphoorn 2016). Services have been extended to all sectors of the South African population, and improvements have been made in relations between the police and the black community. Changes in the behavior and attitudes of the police and improvements in police–community relations are evident, some of these changes directly linked to successful organizational reforms. Such basic improvements were not easy, especially given the political compromises made during the transition and budgetary constraints, both of which meant that the new SAPS would not be staffed by a completely new group of properly trained recruits. As van der Spuy reminds us, the new SAPS was saddled with around 30,000 apartheid-era "special constables" who were "scarcely literate, hardly trained and generally despised" (2007, p. 279).
-
-Initially, reforms prioritized police legitimacy and accountability, not crime control (on this issue, see Bonner 2014; Seri and Lokaneeta, Chapter 3; Bonner, Chapter 5; Squillacote and Feldman, Chapter 6). Although high levels of crime characterized the country, crime was not seen as a pressing issue for the new government during the ANC's rst term in ofce. According to some scholars (e.g., Shaw 2002; Diphoorn 2016), the government actively denied that crime was a problem and tried to manage crime statistics or stop their release in order to quell national fears and international concerns among tourists and investors. Such a stance was hard to maintain as public condence in the police steadily fell alongside the public's growing preoccupation with crime (Shaw 2002; Bruce 2002).
-
-Crime was indeed high. As Shaw notes, at the time, South Africa had the highest murder rate in the world, the highest attempted murder rate, and the highest levels of assault with force across all the developing countries surveyed in UN International Crime Victim Survey in 1998 (Shaw 2002, p. 53). The country also had (and still has) one of the highest rates of violence against women.
-
-Although high levels of crime were not new to the country, a number of factors contributed to rates and trends, and citizen's perceptions of crime. First, white neighborhoods began experiencing higher levels of robbery and other forms of crime as apartheid barriers started to fall away. Many of these communities had largely been isolated from some types of crime during the apartheid era because crime prevention work—supported by private security companies—was focused on these communities, while the social dislocation, unemployment, and other socioeconomic conditions that create conditions conducive to crime were contained in the townships and black areas.
-
-Second, some forms of crime, such as armed robbery and property crimes, were increasing due to a number of "push" factors—such as high levels of unemployment, poverty, the slow rate of transformation, and high levels of inequality—alongside the increased ow of guns from neighboring countries with large stocks of weapons due to recent or ongoing war and armed conict (Shaw 2002, p. 43). Third, the brutality of some attacks, including several very violent burglaries targeting white farmers and other white property owners, shaped public views of crime. These very brutal attacks made headlines in the local and national news and contributed to popular perceptions that crime was spiraling out of control. By the 1999 national election, crime and safety had become key policy issues and the government was forced to respond.
-
-In contrast to the broader police reforms initiated during the ANC's rst term in ofce (1994–1999) that focused on accountability and legitimacy, reforms in the early 2000s were shaped by the government's new "tough on crime" approach. As Gordon notes (2009, p. 85) "Thabo Mbeki began his presidency with a much tougher stance on crime than his predecessor, taking aim at visible (if minor) disorder like squatting and street hawking as well as vowing new initiatives against violence."
-
-In keeping with this approach, the emphasis swung back from "service" to "force," and reforms focused on enhancing and augmenting law enforcement as a way to address high levels of crime. For example, the National Crime Combating Strategy, drafted by the Police Service, "targeted crime ghting in 'hot spots' … and stations with high rates of recorded crime became earmarked for support and monitoring" (van der Spuy 2007, p. 282). Steve Tshwete, the newly appointed Minister of Safety and Security, was the government's champion of this new "tough on crime" approach. After the election he traveled around the country, speaking out against crime and calling on the police to use all available means, constitutional or unconstitutional to combat crime, and referred to criminal offenders as "subhumans" (Gordon 2009, p. 85). As Shaw contends (2002, p. 87), the thrust of his message was that criminals would be treated harshly and police ofcers should use all the power available to them to combat crime.
-
-Shortly after his appointment, Tshwete announced: "The criminals have obviously declared war against the South African public. … We are ready, more than ever before, not just to send a message to the criminals out there about our intentions, but more importantly to make them feel that 'die tyd vir speletjies is nou verby' [the time for fun and games is over]. We are now poised to rise with power and vigour proportional to the enormity and vastness of the aim to be achieved" (Tshwete, as cited in Rauch 1996, p. 10).
-
-Guided by this "zero-tolerance" approach and informed by the National Crime Combating Strategy, in early 2000 the new police commissioner, Jackie Selebi, announced a new three-year national crime combating strategy, known as "Operation Crackdown" to target crime "hot spots" and "reorganise the SAPS into units that would address their particular crime problems" (Gordon 2009, p. 257). Alongside, this was a focus on particular crimes like turf wars and related violence between taxi-drivers (informal mini-bus transport) as well as attacks on (white) farmers. Although the police sweeps of so-called hot spots and high crime areas that followed quickly resulted in large numbers of arrests, it was believed that police targeted nonnationals (leading to severe overcrowding at detention facilities where foreigners without papers were held pending deportation) as a way to meet arrest targets (Human Rights Watch 2001). Further, as Gordon (2009, p. 257) notes, human rights groups and others drew attention to the brutality of arrests and raids on certain areas and argued that police action was also used to harass squatters and intimidate political protesters.
-
-This "tough on crime" approach derailed initial post-apartheid reforms (e.g., those aimed at increased accountability and improving community relations) and shaped police action and government policy. For example, in a 2008 speech to police ofcers, the Deputy Minister of Safety and Security, Susan Shabangu, explicitly instructed police ofcers to shoot to kill (suspected) criminals without concern for their rights. She told the audience:
-
-You must kill the bastards if they threaten you or the community. You must not worry about the regulations. This is my responsibility. Your responsibility is to serve and protect. I won't tolerate any pathetic excuses for you not being able to deal with crime. You have been given guns, now use them. I want no warning shots. You have one shot and it must be a kill shot … If criminals dare to threaten the police or the livelihood or lives of innocent men, women and children, they must be killed. End of story … the constitution says criminals must be kept safe, but I say No! I say we must protect the law-abiding people and not the criminals. (As quoted in Berger 2008)
-
-This and other similar speeches and statements from government ministers sent a clear message to police ofcers, which was to set aside human rights concerns, ignore the Constitution or other safeguards and take whatever action was necessary to catch—or kill—suspected criminals. As Bruce notes, these statements and other comments from Tshwete "virtually amounted to exhortations to brutality" (2002, p. 18). The result, as Shaw (2002) and others demonstrate, was that the focus on human rights and issues of accountability that had previously guided police reform shifted to a clear concentration on combating crime and ghting criminals. As he notes, while "the two approaches are not mutually exclusive, from 1999 (and perhaps even earlier) the weight shifted decisively to crime ghting through effective law enforcement" (2002, p. 39).
-
-## suPPorting the "elite" tr Ansition: Policing in A violent, neoliber Al democr Acy
-
-Given the "tough on crime" approach taken in the early 2000s, perhaps it is no surprise that policing remains uneven across the country and positive changes have been offset by incompetence, corruption, systemic racism, and brutality (Steinberg 2001; Bruce 2002). While killings by police have declined since 1997, statistics compiled by the Independent Police Investigative Directorate7 (IPID), along with other independent research, demonstrates that police abuse continues to be a serious problem (Bruce 2005; Bhana 2003; Bonner et al., Chapter 1).
-
-Deaths as a result of police action (including killings of innocent bystanders) remain high, as do incidents of torture and assault. For example, there were 3042 deaths as a result of police action (4688 if deaths in police custody are included) in the rst seven years following the establishment of the ICD (Bruce 2005, p. 144). Deaths as a result of police action each year have remained fairly steady: there were 380 deaths in 2003/2004 (Independent Complaints Directorate 2004, p. 5) decreasing only slightly to 366 in 2015/2016 (Independent Police Investigative Directorate 2016, p. 52). The 2015/2016 IPID Annual Report demonstrates that allegations of police torture and ill-treatment of criminal suspects remain high: there were 145 cases of torture and 3509 cases of assault (2016, p. 63). Further, rape by on and off duty police ofcers is high. Based only on incident reports submitted to the IPID, there were 112 rape cases reported in 2015/2016, of which 51 were committed by on-duty police ofcers (IPID 2016, p. 61), of which only 13 ofcers received disciplinary convictions (IPID 2016, p. 89).
-
-Similar to the issues discussed in both the Canadian and Chilean cases in this book (Dupuis-Déri, Chapter 4; Bonner, Chapter 5), another indicator of police abuse is the excessive force frequently used against striking workers, civil society groups, and other protesters. Here, we see the central role of the police in upholding an extremely unequal social order. While international attention has focused on the Marikana massacre, police abuse frequently takes place in the form of "public order" policing during strikes or at political protests, both of which escalated in the late 1990s following the government's adoption of the Growth, Employment, and Redistribution Program (GEAR).
-
-As many scholars have outlined (e.g., Bond 2000; Bassett and Clarke 2008), the ANC's replacement of the *Reconstruction and Development Programme* (RDP), a people-centered socioeconomic development plan that focused on state-led development and redistribution, with GEAR marked the formal acceptance of neoliberalism. Goals such as job creation, poverty reduction, and equitable economic growth present in the RDP were replaced with trade and market liberalization, debt reduction, and stringent scal decit reduction targets. And, in contrast to the ANC's previous commitment to improved and increased service provision and policies aimed at redistribution, GEAR called for the privatization of state assets and public utilities, wage restraint for public sector and other organized workers, and the relaxation of labor regulations, especially for unskilled workers. Thus, although the ANC government was relatively successful in extending services and infrastructure to millions during its rst term in ofce, the widespread privatization of public utilities and services (e.g., water and electricity), and corresponding cost recovery in service delivery meant that households were forced to pay the cost of the provision of basic services. This has, in effect, "clawed back" many of the services newly extended to poor communities. Indeed, while water and electricity, for example, have been extended to new areas, even the poorest households are now expected to pay full market prices or they will be cut off.
-
-High levels of unemployment and the continued segmentation of South Africa's labor market also reveal the limited nature of South Africa's transition, and help explain waves of strike action around the country and growing opposition to government policies. Unemployment—already high in the mid-1990s—has grown and is exceedingly high by international standards, as are the number of workers in precarious forms of employment. For example, according to the most recent labor force data, if discouraged job seekers are included, the country's unemployment rate is currently 36.3%—a 13 year high—with the youth unemployment rate a staggering 67.3%.
-
-Alongside high levels of unemployment are high—and rising—levels of employment precariousness. Permanent employment has fallen and now accounts for less than 60% of the working population, with some sectors recording much higher levels of temporary or casual jobs. Similar to employment for black workers under apartheid, these jobs have high levels of insecurity, and limited—if any—benets or protection (Clarke 2015). Segmentation and precariousness have increased, in part, as a result of more employers turning to temporary employment agencies (labor brokers) to staff their workplaces, thereby distancing themselves from most of the costs, risks, and responsibilities associated with employment. For example, by 2010 over one-third of the labor force in the mining sector was employed by a third party—generally a labor broker (Bezuidenhout and Buhlungu 2010). Overall, despite improvements to labor laws and social security provisions under the ANC, the labor market remains extremely segmented with black workers concentrated in the growing ranks of the systemically unemployed or in casual or temporary jobs with high levels of insecurity (Clarke 2015). Living and working conditions for farmworkers and for migrant mineworkers are especially dire.
-
-The privatization of municipal services, ination alongside low wages in many sectors, coupled with unemployment and precariousness, have contributed to exceptionally high rates of poverty and inequality. For example, national income inequality as measured by the Gini coef cient rose from 0.64 in 1995 to 0.69 in 2005 (du Toit and Neves 2008, p. 3), and then to 0.70 in 2008 (Narayan and Mahajan 2013, p. 1), making South Africa one of the most unequal countries in the world.8 Colin Bundy's (2014, p. 49) succinct summary of the outcome of this "elite" transition and economically conservative post-apartheid settlement underscores this inequality: "the evidence is unequivocal. Wealth in South Africa has been partly deracialised. Poverty remains strongly racialised, visited with particular severity upon Africans, at the bottom of the economic pecking order now as they were under apartheid." Indeed, while South Africa has undergone a successful political transition to liberal democracy, there has been little radical redistribution in income, wealth, and other resources.
-
-No surprise, then, that there has been a dramatic rise in the scale and intensity of social protests and strikes, such as the strike at the Lonmin Platinum mine in Marikana, over at least the last decade. Beginning in the early 2000s, new community-based organizations—what Ashwin Desai (2002) has called organizations of "the poors"—emerged and grew in response to the effects of the ANC's adoption of neoliberal policies, especially the privatization of public sector companies and cost recovery in service delivery. Groups such as the Anti-Privatization Forum (APF), Soweto Electricity Crisis Committee, and the Landless People's Movement emerged to oppose housing evictions, and water and electricity cut-offs resulting from "non-payment."
-
-Police have frequently responded to protests and direct action organized by these groups with teargas, rubber bullets, and batons. Police also hire and work with the Red Ants Security and Eviction Services (known simply as the Red Ants due to the red uniforms they wear) to evict people and dismantle homes that have been informally constructed on the vacant land. Both the SAPS and the Red Ants are accused of being ruthless and using excessive force to carry out evictions (Iaccino 2016). Further, reminiscent of the private agencies that supported the police during the apartheid era, South Africa has a large and growing private security industry that increasingly performs many police functions, despite having few regulations to govern its activities and no public oversight. The industry is reported to be the largest in the world, with approximately 9000 companies and 400,000 registered active private security guards (Eastwood 2013), and frequently aids and supports the police, including carrying out arrests of suspected criminals.
-
-Civil society and social movement protests at the 2002 World Summit on Sustainable Development (WSSD) in South Africa were especially confrontational. Activists gathered in Johannesburg in the days leading up to the WSSD, either to participate in the Global People's Forum—an NGO-led conference running parallel to the ofcial WSSD—or to attend other civil society side events or the mass march. South Africans used the WSSD to challenge the neoliberal policies of the ANC and the growing subordination of sustainable development to free trade and other neoliberal policies by many delegates to the WSSD.
-
-Similar to the "political proling" discussed by Dupuis-Déri (Chapter 4), activists were monitored, questioned, and many arrested in the run-up to the summit—what Bond (2002) has called the "pre-WSSD intimidation raids"—and a march of people calling for the release of those arrested in pre-WSSD events was ambushed by police who red "smoke and concussion grenades into the centre of the march without warning" (ENS 2002). Consistent with the overall "tough on crime approach" adopted by the government, the next day, South Africa's Safety and Security Minister, Charles Nqakula, warned that the "law would come down hard" on any persons or groups demonstrating at the WSSD without government approval. The government was forced to retreat from its position and reluctantly agreed to allow a protest march to the WSSD's heavily guarded site in the prosperous, white Sandton neighborhood after negative international media attention regarding the government's response to civil society protest.
-
-State–civil society relations in the country have generally deteriorated since the WSSD, with police frequently accused of using unnecessary force against protesters. Strikes and workplace actions are high, with South Africa reported to have the highest rate of industrial action in the world with an average of 65 strikes per year between 2007 and 2012, 99 strikes in 2012 alone, and growing workplace action in the years following (Department of Labour 2013). While strikes are often a direct reaction to workplace problems such as low wages and poor working conditions, they are also an outlet for workers' frustration at continued poor service delivery, rising inequalities, poor living conditions, and various other community grievances. Such frustration is no surprise given the limited transformation that has taken place in the country and the persistence of exclusionary socioeconomic structures.
-
-After a few years of declining civil society action following the 2009 national election, the last several years have seen an escalation of popular protest. Although beyond the scope of this chapter, critics have pointed out that tolerance for civil society opposition to government policies—indeed, even opposition to ANC leadership within the governing party—has steadily shrunk in the last decade. Nevertheless, protests have continued and are often described by critics of the government policies as "municipal revolts" or "rebellions of the poor"—as most protests involve those in informal settlements or poor urban areas in the country's largest cities, and are focused on poor and inadequate service delivery and slow land redistribution. The Community Law Centre's Civic Protest Barometer reported that in 2014 the number of protests reached an all-time high9 (Powell, O'Donovan, and De Visser 2014), and have grown since. For instance, student protests that began in mid-2015 around the country as part of the "fees must fall" campaign in response to the government's proposed tuition hikes of between 10 and 12% were met by confrontations with the police.
-
-Police have responded to these recent protests with increased force. As Bruce notes, beginning in about 2010, the SAPS began to utilize "brutal new methods" against protesters, methods that involve the use of live ammunition, the direct ring of rubber bullets at close range, and the targeting of leaders or other people playing a prominent role in the demonstrations (Bruce 2012a). Such brutal methods have continued to be used against protesters (Bruce 2012b). For example, the police tried to break up 2015 student protests on several campuses with teargas, stun grenades, and rubber bullets, but resisted using live ammunition, unlike in 2000 when police opened re on students at the University of Durban-Westville (UDW), killing two and injuring three. And, police continue to be called to "deal with violent and unruly behavior" by striking workers, with the government supporting the violent suppression of protests as necessary to deal with violent strikes that "harm the economy" (Tenza 2015, p. 212).
-
-As other scholars have argued (Mc Michael 2016, p. 11; von Holdt 2013), heavy-handed police action against strikers and demonstrators should not be seen in isolation from their role in protecting the economy, and the highly unequal social order. Indeed, as Mc Michael clearly outlines, the South African police have increasingly been called upon to ensure that a "safe" and "inviting" environment is created and maintained for big business and investors, as Dixon points out with reference to the mining industry (2015). This involves disciplining groups and individuals that are considered a threat to economic development and investment. For example, as he notes, the government justies the removal—often quite ruthlessly—of informal settlements, street traders (even those with licences from the city) and shack dwellers using the language of economic and public security. Pre-dawn raids with armored vehicles and rubber bullets and the use of whips are not uncommon (Patel 2011, xiv as cited in Mc Michael 2016, p. 11). The government justies such action with claims that informal settlements are sites of criminality, and that violent protest threatens the democracy the police are sworn to protect. According to Zuma:
-
-the right to protest, peacefully and unarmed, is enshrined in our Constitution. However, when protests threaten lives and property and destroy valuable infrastructure intended to serve the community, they undermine the very democracy that upholds the right to protest" […] "the police are protectors and the buffer between a democratic society based on the rule of law and anarchy. As we hold the police to account, we should be careful not to end up delegitimising them and glorify anarchy in our society. (Zuma 2014)
-
-## conclusion
-
-During the apartheid period, South Africa had a worldwide reputation for systemic state violence and police brutality. Transforming the police force was one of many key challenges facing the new ANC government. As discussed in this chapter, emphasis was immediately placed on improving accountability, legitimacy, and improved community relations. Far-reaching reforms took place, including the introduction of a new curriculum and training procedures, and new policies to guide police action. In addition, reforms aimed at improving community relations, especially in the townships, and increasing crime prevention work in poor and marginalized communities were pursued. Such changes were important and had positive outcomes, especially with regard to community relations and trust in black communities.
-
-Although initial reforms were certainly successful in many areas, statistics on lethal police abuse released by the Independent Complaints Directorate and media reports of heavy-handed police action against striking workers and civil society demonstrators reveal ongoing problems with police abuse. As is argued above, such actions should not be understood as the outcome of failed reform or evidence of the need for simply more training. Instead, the ongoing brutality of the police should be seen in the context of the country's stalled transition and related acceptance of neoliberal economic policies. Economic policies under the ANC have served to reinforce the deeply divided, unequal society inherited by the apartheid regime. Corresponding high levels of poverty, unemployment, and precarity—alongside deep social problems—have created an environment in which crime has grown. Public perception of "spiralling crime rates"—especially from white communities previously isolated from crime—and diminishing investor condence in the country, resulted in the adoption of a "tough on crime" approach.
-
-In addition to adopting harsh practices toward suspected criminals such as "shoot to kill"—police brutality has also spilled over into the treatment of squatters, street vendors, striking workers, political protesters, and other groups characterized by the government as a threat to public order. Such targeted abuse parallels that found by Schneider in France (Chapter 2), Seri and Lokaneeta in Argentina, and India (Chapter 3) and Dupuis-Déri in Canada (Chapter 4). While in South Africa this approach might have increased public condence in the police and given (some) citizens the impression that the government was taking action to deal with rising crime (Rauch 2000), it has also created an environment in which police abuse continues and in fact ourishes: It massively expands discretionary police action (and related actions of the burgeoning private security companies), and can justify the brutal crackdown on protesters and civil society groups. Thus, similar to the political role played by the police during the apartheid period, the SAPS in contemporary South Africa is playing a key role in upholding the highly unequal social order of the neoliberal democracy.
-
-Echoing Bonner et al. (Chapter 1), and more specically Mc Michael (2016) and others, police abuse in South Africa should not be seen as an aberration, or the result of failed police reform but rather part of wide, social conict over the limited nature of South Africa's transition. Post-apartheid neoliberal reforms have reinforced, or in some cases exacerbated, socioeconomic inequality and related insecurities. Rather than address these issues of political economy, South African political leaders have turned to "tough on crime" rhetoric and policies. The police abuse it has unleashed not only fails to reduce crime (e.g., Darley 2005; Waller 2006), but has been used to attempt to silence voices opposed to neoliberalism.
-
-Thus, while some of the political science literature on democratization recognizes that a certain degree of socioeconomic equality is needed to maintain democracy, most of the literature would lead us to believe that strengthening institutions of liberal democracy is the best path to reducing police abuse (Bonner et al., Chapter 1). However, such remedies are insufcient. Police abuse is better seen as a symptom of political economy, and socioeconomic inequality in particular. The response, therefore, is not more resources to policing or greater police reforms but rather socioeconomic reforms aimed at the radical redistribution of income, wealth, and other resources.
-
-## notes
-
-- 1. Apartheid sought to classify people by ethnicity and "race." Of course, the legacies of apartheid cannot be easily undone and ethnicity continues to shape citizens' socioeconomic positions in society. Given this, and that many South Africans continue to dene themselves in this way, this chapter will use such terminology. In general, black is the preferred term in the new South Africa to describe the African, Asian, and Colored (as designated in the apartheid era by the state) communities and will be used throughout this chapter to refer to all three communities.
-- 2. On March 21, 1960, at least 180 black Africans were injured (there are claims of as many as 300) and 69 were killed when police opened re on approximately 300 demonstrators, who were protesting a new law, the Native Laws Amendment Act, in the township of Sharpeville. The new law required all black South Africans to carry a pass that restricted their movement in "white" urban areas. Political repression increased after the Sharpeville Massacre, with a number of harsh new laws introduced to crush political, trade union, and community-based resistance to apartheid.
-- 3. Apartheid legislation segregated South Africans into ethnic groups and assigned each group a land area (a homeland) and some form of administration. Four of these homelands were given "independent," or "selfgoverning" arrangements.
-- 4. For example, the National Key Points Act 1980 transferred the protection of sites of national strategic importance from the SAP to private security companies. The Act gave private security companies full powers of arrest.
-
-- 5. South Africa had compulsory military service for all white men between 1967 and 1993.
-- 6. The dismantling of apartheid and the creation of a democratic system of representation was a negotiated process in South Africa. Formal negotiations between the ANC and the de Klerk government began with the unbanning of the ANC, SACP, and other political organizations on February 2, 1990 and the release of Nelson Mandela and other political prisoners nine days later, and ended three years later when a formal political settlement was reached.
-- 7. Formerly the Independent Complaints Directorate (ICD). The ICD was created in 1997 as part of police reforms. It was tasked with conducting independent and impartial investigations into deaths in police custody and other identied criminal offenses allegedly committed by members of the SAPS and Metro Police Services. Changes in the activities of the Directorate were made in 2012, along with the change in name. Similar to the ICD, the IPID, and the ICD before it investigates deaths in custody, deaths as a result of police action, and crimes allegedly committed by police ofcers, including rape, assault, and corruption.
-- 8. A Gini coefcient of 0 represents total equality, while a coefcient of 1 would signal all income was earned by one person.
-- 9. Now called the Dullah Omar Institute.
-
-## references
-
-- Adam, Heribert, and Kogila Moodley. 1986. *South Africa Without Apartheid: Dismantling Racial Domination*. Berkeley: University of California Press.
-- Arias, Enrique Desmond, and Daniel Goldstein, eds. 2010. *Violent Democracies in Latin America*. Durham and London: Duke University Press.
-- Bassett, Carolyn, and Marlea Clarke. 2008. "The Zuma Affair: Labour and the Future of Democracy in South Africa." *Third World Quarterly* 29 (4): 787–803.
-- Berger, Sebastien. 2008. "'Kill the bastards' South African Police Advised." *The Telegraph*, April 10. http://www.telegraph.co.uk/news/worldnews/1584641/Kill-the-bastards-South-African-police-advised.html (last accessed November 22, 2017).
-- Bezuidenhout, Andries, and Sakhela Buhlungu. 2010. "From Compounded to Fragmented Labour: Mineworkers and the Demise of Compounds in South Africa." *Antipode* 43 (2): 237–63.
-- Bhana, B. D. 2003. "Custody-Related Deaths in Durban, South Africa 1998– 2000." *American Journal of Forensic Medicine and Pathology* 24 (2): 202–7.
-- Bond, Patrick. 2000. *Elite Transition: From Apartheid to Neoliberalism in South Africa.* London and Sterling, VA: Pluto Press.
-
-- Bond, Patrick. 2002. *Geopolitics of Jo'burg Protests: Independent Left Beats Ruling Part* (Brieng Paper). Durban: Centre for Civil Society.
-- Bonner, Michelle. 2014. Policing Protest in Argentina and Chile. Boudler: First Forum (Lynn Rienner).
-- Brewer, John. 1989. "The Police in South African Politics." In *South Africa: No Turning Back*, edited by Shaun Johnson, 258–82. Bloomington: Indiana University Press.
-- Brewer, John, Adrian Guelke, Ian Hume, and Edward Moxon-Browne. 1988. "South Africa." In *The Police, Public Order and the State*. London: Macmillan Press.
-- Brogden, Mike, and Clifford Shearing. 1993. *Policing for a New South Africa*. London: Routledge.
-- Bruce, David. 2002. "New Wine from an Old Cask? The South African Police Service and the Process of Transformation." Paper presented at John Jay College of Criminal Justice, New York.
-- Bruce, David. 2005. "Interpreting the Body Count: South African Statistics on Lethal Police Violence." *South African Review of Sociology* 36 (2): 18.
-- Bruce, David. 2007. "Good Cops? Bad Cops? Assessing the South African Police Service." *South African Crime Quarterly* 21 (September): 15–20.
-- Bruce, David. 2012a. "The Road to Marikana: Abuses of Force during Public Order Operations." *The South African Civil Society Information Service*. http://sacsis.org.za/site/article/1455(last accessed November 22, 2017).
-- Bruce, David. 2012b. *Marikana and the Doctrine of Maximum Force*. ebook: Mampoer Shorts.
-- Bruce, David, and Gareth Newham. 2007. *In Service of the People's Democracy: An Assessment of the South African Police Service* (Research Report). Johannesburg: Centre for the Study of Violence and Reconciliation.
-- Bundy, Colin. 2014. *Short-Changed? South Africa Since Apartheid*. Auckland Park: Jacana.
-- Calland, Richard. 2013. *The Zuma Years: South Africa's Changing Face of Power*. Cape Town: Zebra Press.
-- Cawthra, Gavin. 1993. *Policing South Africa: The SAP and the Transition from Apartheid*. London: Zed Books.
-- Cawthra, Gavin. 1997. *Securing South Africa's Democracy: Defence, Development and Security in Transition*. London: Palgrave Macmillan.
-- Chatterjee, Partha. 2004. *The Politics of the Governed: Reections on Popular Politics in Most of the World*. New York: Columbia University Press.
-- Clarke, Marlea. 2015. "Social Policy in South Africa: Cushioning the Blow of the Recession?" In *The Global Crisis and Social Policy*, edited by Stephen Mc Bride, Gerard Boychuk and Rianne Mahon. Vancouver: UBC Press.
-- Darley, John M. 2005. "On the Unlikely Prospect of Reducing Crime Rates by Increasing the Severity of Prison Sentences." *Journal of Law and Policy* 13 (1): 189–208.
-
-- de Kok, Annie and Elrena van der Spuy. 2015. "Inquiries into Policing 1910– 2015." *South African Crime Quarterly* 53 (September): Online Supplement.
-- Department of Labour. 2013. *Annual Industrial Action Report, Department of Labour*. South Africa. http://www.labour.gov.za/DOL/documents/annual-reports/industrial-action-annual-report/2013/annual-industrial-action-report-2013(last accessed November 22, 2017).
-- Desai, Ashwin. 2002. *We Are the Poors! Community Struggles in Post-apartheid South Africa*. New York: Monthly Review Press.
-- Diphoorn, Tessa G. 2016. *Twilight Policing*. Oakland: University of California Press. Dippenaar, Marius de Witt 1988. *The History of the South African Police, 1913– 1988*. Pretoria: Promedia.
-- Dixon, Bill. 2015. "A Violent Legacy: Policing Insurrection in South Africa from Sharpeville to Marikana." *The British Journal of Criminology* 6 (1): 1131–48.
-- du Toit, Andries, and David Neves. 2008. *Chronic and Structural Poverty in South Africa—An Overview* (Report for the Chronic Poverty Research Centre). Cape Town: Institute for Poverty, Land and Agrarian Studies.
-- Eastwood, Victoria. 2013. "Bigger than the Army: South Africa's Private Security Forces." CNN. http://www.cnn.com/2013/02/08/business/south-africa-private-security/index.html (last accessed November 22, 2017).
-- ENS. 2002. "Summit Protestors Face Police Brutality." *ENS-News*, August 26.
-- Gordon, Diana. 2009. *Transformation & Trouble*. Ann Arbor: University of Michigan Press.
-- Hart, Gillian. 2013. *Rethinking the South African Crisis: Nationalism, Populism, Hegemony*. Durban: University of Kwa Zulu-Natal Press.
-- Hornberger, Julia. 2013. "From General to Commissioner to General—On the Popular State of Policing in South Africa." *Law and Social Inquiry* 38 (3): 16.
-- Human Rights Watch. 2001. "World Report 2001: South Africa." *Human Rights Developments*. https://www.hrw.org/legacy/wr2k1/africa/southafrica.html(last accessed November 22, 2017).
-- Iaccino, Ludovica. 2016. "South Africa Forced Evictions: Who are the Red Ants?" *International Business Times*, May 24.
-- Independent Complaints Directorate. 2004. *Annual Report 2003–4 Independent Complaints Directorate*. Pretoria: Independent Complaints Directorate.
-- Independent Police Investigative Directorate. 2016. *Annual Report 2015/2016*. Pretoria: Independent Police Investigative Directorate.
-- Irish, Jenny. 1999. "Policing for Prot: The Future of South Africa's Private Security Industry." In *Monograph No. 39*, edited by Martin Schönteich. Pretoria, South Africa: Institute for Security Studies.
-- Mc Michael, Christopher. 2016. "Police Wars and State Repression in South Africa." *Journal of Asian and African Studies* 51 (1): 3–16.
-- Narayan, Ambar, and Sandeep Mahajan. 2013. *The State of Opportunities in South Africa: Inequality among Children and in the Labour Market*. Washington: World Bank, Poverty Reduction and Equity Department.
-
-- North, Douglass C., John Joseph Wallis, Steven B. Webb, and Barry R. Weingast. 2012. *In the Shadow of Violence: Politics, Economics and the Problems of Development*. Cambridge: Cambridge University Press.
-- Patel, Raj. 2011. Foreword. In *No Land! No House! No Vote!* edited by Symphony Way Pavement Dwellers. Cape Town: Pambazuka Press.
-- Philip, Kate. 1989. "The Private Sector and the Security Establishment." In *War and Society: The Militarisation of South Africa*, edited by Jacklyn Cock and Laurie Nathan. Cape Town: David Philip.
-- Powell, D. M., M. O'Donovan, and J. De Visser. 2014. *Civic Protests Barometer 2007–2014*. Cape Town: Dullah Omar Institute.
-- Rauch, Janine. 1996. *The 1996 National Crime Prevention Strategy*. Braamfontein, South Africa: Centre for the Study of Violence and Reconciliation, Institute for Security Studies.
-- Rauch, Janine. 2000. "Police Reform and South Africa's Transition." In *Crime and Policing in Transitional Societies: Conference Proceedings*, edited by Mark Shaw. Johannesburg, South Africa: University of Witswatersrand.
-- Shaw, Mark. 2002. *Crime and Policing in Post-apartheid South Africa*. Bloomington and Indianapolis: Indiana University Press.
-- Steinberg, Jonny, ed. 2001. *Crime Wave. The South African Underworld and Its Foes*. Johannesburg: Witwatersrand University Press.
-- Tenza, Mlungisi. 2015. "An Investigation into the Causes of Violent Strikes in South Africa: Some Lessons from Foreign Law and Possible Solutions." *Law, Democracy & Development* 19 (1): 211–31.
-- van der Spuy, Elrena. 2007. "Managerialist Pathways Toward 'Good Policing': Observations from South Africa." In *Crafting Transnational Policing*, edited by Andrew Goldsmith and James Sheptycki, 263–92. Oxford and Portland: Hart Publishing.
-- von Holdt, Karl. 2013. "South Africa: The Transition to Violent Democracy." *Review of African Political Economy* 40 (138): 589–604.
-- Waller, Irvin. 2006. *Less Law More Order: The Truth about Reducing Crime*. London: Praeger.
-- Zuma, Jacob. 2014. "State of the Nation Address." Speech, Cape Town, February 13, 2014. http://www.gov.za/node/632440(last accessed November 22, 2017).
-
-## ![](_page_228_Picture_0.jpeg)
-
-#### CHAPTER 9
-
-## Policing as Pacication: Postcolonial Legacies, Transnational Connections, and the Militarization of Urban Security in Democratic Brazil
-
-## *Markus-Michael Müller*
-
-On December 19, 2008, Rio de Janeiro witnessed the inauguration of the rst Pacication Police Unit (*Unidade de Polícia Pacicadora*, UPP) in the marginalized urban neighborhood, or *favela*, of Santa Marta.1 This event signaled the start of the city's so-called "pacication strategy" (Koonings and Kruijt 2015, p. 49). According to Sérgio Cabral,
-
-Research for this chapter was conducted within the context of the research project "Transnational Peacebuilding as South–South Cooperation: Brazil's MINUSTAH Experience," funded by the German Foundation for Peace Research. Portions of this chapter draw upon Markus-Michael Müller (2016) "Entangled Pacications: Peacekeeping, Counterinsurgency and Policing in Port-au-Prince and Rio de Janeiro." In Jana Hönke and Markus-Michael Müller (eds.), *The Global Making of Policing: Post Colonial Perspectives*. Abingdon: Routledge, 2016, with permission of the publisher.
-
-## M.-M. Müller (\*)
-
-ZI Lateinamerika-Institut, Freie Universität Berlin, Berlin, Germany then-governor of the State of Rio de Janeiro, the UPP's purpose is "to ght criminal gangs and bring peace and security back to the people."2 The main goal of the pacication effort consists of the suppression of violence related to drug trafcking and the "recovery of territories once dominated by the drug dealers."3 To this end, the strategy rst aims at expelling drug trafckers from targeted *favelas*. This is followed by the establishment of a permanent UPP presence and the provision of social as well as infrastructure projects (Koonings and Kruijt 2015, p. 49). As of early 2014, there were 38 UPPs with 9543 ofcers installed throughout Rio's *favelas*. 4 According to José Mariano Beltrame, Rio de Janeiro's former Secretary of Public Security, the creation of the UPPs is "not just a security project." Rather, it is "a public policy [*uma política de Estado*] for the improvement of life and the generation of hope."5 Moreover, as stated on the UPP's website, "besides hope and citizenship, UPP symbolizes all the appreciation we have for human life."6
-
-In a country that witnessed nearly two decades of military dictatorship (1964–1985) and where the "democratic Brazilian state has killed more people in its recent 'urban security operations' than any war in Latin America since the nineteenth century (except perhaps Colombia's con icts)" (Amar 2009, p. 515), ofcial commitments to "peace," "human life," "hope," and "citizenship" seem, indeed, revolutionary. Thus, for many observers, pacication is seen as a dramatic, and largely successful, change in the realm of democratic urban security governance in the country (Rodrigues 2014, p. 5; UN 2015, p. 2; Riccio et al. 2013; Suska 2015) and the emergence of "a new culture of more peaceful policing methods" in Brazil (da Silva 2012, p. 181), which has the potential of becoming a "model for the region and the world" (Muggah and Mulli 2012, p. 65).
-
-This chapter offers a different, more critical, reading of the UPP experience by placing the notion of *pacication* at the center of analysis. Examining the UPP experience through the lens of pacication, as a practitioners' term as well as a theoretical concept, highlights two key issues: First, it enables us to locate a seemingly democratic policing effort within a broader global context of entangled histories and (post)colonial forms of rule and coercive order-making in the name of countering the insurgent "other." Second, as scholars working within the framework of "pacication theory" have stressed (e.g., Rigakos 2016; Wall et al. 2016a; Neocleous et al. 2013), pacication cannot be reduced to this colonial legacy. Rather, it is inherently embedded in the political economy of capitalist order-making as a "war for accumulation" that "involves the production of the multidimensional and multi-scale conditions for capital accumulation" (Wall et al. 2016b, p. 8).
-
-Both perspectives are too often omitted in contemporary political science debates on police abuse in postauthoritarian and (post-)transitional postcolonies like Brazil. Related debates are overly concerned with the formal setup of a particular regime and questions of "authoritarian legacies" (Costa 2006; Denissen 2008). The political economy of policing, its implications for the perpetuation of socioeconomic inequality as well as its postcolonial legacies are ignored (see also Clarke, Chapter 8). Moreover, political science debates often tend to take the "domestic democratic peace" argument for granted. In other words, they assume "that democratic political institutions and activities decrease state repressive behavior" (Davenport 2007, p. 11). Therefore, police abuse—considered as "police actions that may or may not be 'illegal' but severely limit selective citizens' rights, receive minimal punishment (limited accountability), and may play a role in maintaining (or promoting) particular political and economic objectives" (Bonner et al., Chapter 1)—is seen as a deviation, or exception, from how things actually "should be," at least according to dominant political science perspectives on democracy and democratization.
-
-As pointed out by recent research on Latin America's "violent democracies" (Arias and Goldstein 2010a; see also Denyer Willis 2015, p. 11; Müller 2016a, p. 11; Pansters 2012, pp. 7–8), political science, in particular what Arias and Goldstein (2010b, p. 10) have termed the "democratization school," is unable to account for the "messy realities of actually existing political systems as they are found in Latin America (and elsewhere) today." The "democratization school" promotes a minimalist conception of democracy as "polyarchy" by assuming that a democracy exists wherever formal institutions exist and social, political, and legal rights essential for these institutions to operate are granted to the local population (see also Bonner et al., Chapter 1). As Arias and Goldstein (2010b, p. 10) rightly stress: "Particularly problematic to these models is the existence of widespread violence, criminality, and insecurity in nations whose political systems might otherwise be characterized as democratic if not polyarchic."
-
-This also holds true for the question of police abuse (as dened above). In fact, police abuse has largely been written out and made invisible by the "democratization school" that continues to "mirror a liberal ideology in depicting the state as an essentially benign institution: a sovereign entrusted with a monopoly over violence, legitimately exercised by its criminal justice system, in the name of protecting its citizenry from the threat of criminal disorder" (Comaroff and Comaroff 2016, p. 12). This has always been a myth. Even in "consolidated" democracies, the main function of the police has always been the (re)production of order including its underlying divisions along class and ethnic lines—by "disciplining (some would say 'regulating' or 'sanitizing') the urban 'Other'" (Brogden and Ellison 2013, p. 11; see also Fassin 2013; Hills 2009; Müller 2012). Such efforts always include legal and extralegal means to discipline those at society's margins, "often characterized together as 'underclass,' often racialized, whose structural situation has made them most likely to violate existing property/or labor relations" (Comaroff and Comaroff 2016, p. 21). Stated otherwise, police abuse, mostly because of policing's intimate relationship to the protection of the "freedom of the market" and the underlying property/labor relations, is a dening feature of existing liberal democratic political systems, in Latin America and elsewhere. And in the former case, as this chapter elaborates with reference to Brazil, this has a lot to do with the region's (post)colonial context which brings us back to the concept of pacication.
-
-As the literature on (post)colonial policing and imperial rule—past and present—has shown, the term pacication looms large in the administrative, political, and policing vocabulary of colonial practices of violent order-making in general, and efforts at countering the "insurgent other" in particular (e.g., El Mechat 2014; Graham and Baker 2016; Kienscherf 2010; Moe and Müller 2017; Mc Coy 2016; Neocleous 2011). And as the Medal of Pacier (*Medalha do Pacicador*) of the Brazilian Armed Forces indicates, the country has a long (post)colonial pacication experience (Müller and Müller 2016, pp. 78–79). This experience stretches from the submission of the Tupinambá tribe that represented a threat to the Portuguese conquest of Belém during the colonization of the Amazon (de Souza Pinheiro 1995) to the expansion and systematic pacication of Brazil's frontier regions in the eighteenth and nineteenth centuries during which pacication became the dominant administrative concept to describe the suppression of insurgent indigenous communities (Langfur 2006, p. 261). And in the twentieth century, it was most of all during the Cold War, and Brazil's military dictatorship, when pacication became the dominant concept for targeting so-called "subversives" through counterinsurgency policing (Huggins 1998, Chapter 7), in particular in cities like Rio de Janeiro:
-
-To deal with what were immediately dubbed terrorists, the dictators relied upon large-scale "urban pacication programs"—a tranquil sounding name for massive police and army dragnets. These sweeps resulted in hundreds and sometimes thousands of suspects being ensnarled in surprise roadblocks or neighborhood searches. (Rose 2005, p. 175)
-
-The UPP experience, this chapter argues, has to be situated in this tradition of militarized pacication that dates back to the colonization of Brazil and stretches throughout many other moments of counterinsurgent order-making during the country's troubled history. It is telling in this regard that David Kilcullen, one of the world's leading contemporary counterinsurgency thinkers, in a passage of his book, *Out of the Mountains: The Coming Age of the Urban Guerrilla*, where he turns to the *favela* Rocinha, integrated into the UPP program in 2012, offers the following description of the UPP effort:
-
-Today it's occupied by the 28th Pacication Police Unit, which has deployed seven hundred paramilitary police in fortied patrol bases throughout La Rocinha, along with a hundred surveillance cameras that monitor every movement. Patrols roam the narrow streets on foot and by motorcycle, working the areas between outposts and checkpoints, *in an operational pattern that looks a lot like a police*-*led version of urban counterinsurgency, Baghdad style*. (Kilcullen 2013, p. 236, emphasis added)
-
-The resemblance of the UPP experience to contemporary counterinsurgency practices—a resemblance that has not been of central concern for most authors working on the UPP (but see Muggah and Mulli 2012) however, cannot be reduced to the historical legacy of Brazil's colonial past or earlier pacication efforts. While these historical experiences are central for understanding the UPP experience, the latter, as this chapter demonstrates, is inseparable from contemporary global power shifts that allow Brazil to experiment and rene previous domestic pacication experiences by adapting them to globally circulating pacication "best practices." The latter emerged in response to the setbacks of Western military interventions in the so-called Global War on Terror (GWOT), notably in Iraq and Afghanistan (Moe and Müller 2017). In turn, these challenges led to a reconsideration of the most adequate ways of suppressing insurgencies. They triggered a strategic shift away from an overemphasis on repression by force toward more nuanced "efforts to produce undisruptive and unthreatening forms of collective action through a combination of coercion and consent" (Kienscherf 2016, p. 1181), often articulated in the language of legality, development, peacebuilding, and human rights (Khalili 2013; Moe 2016; Turner 2014). This shift signaled the emergence of what has been termed the "new counterinsurgency era" (Ucko 2009). The latter is truly global in character with a growing number of non-Western countries experimenting with and adopting contemporary pacication "best practices" to better ght "home-turf counterinsurgency" (Kilcullen and Mills 2016, p. 15).
-
-In locating democratic Brazil within these developments by assessing the question of police abuse in the country through the lens of paci cation, this chapter seeks to move contemporary debates on policing in post-transitional contexts beyond the rather limiting normative straightjackets of polyarchic-reasoning by pointing toward: (a) the political economy of policing, (b) its colonial legacies and, in particular, (c) the transnational circulation of policing knowledge and practices—a point that even those scholars sensitive to the aforementioned aspects tend to forget.
-
-To this end, in the remainder of this chapter I assess the recent return of pacication to the country and address the resulting implications for explaining ongoing police abuse and the militarization of domestic law enforcement in democratic Brazil. I will tease out the transnational connections behind the UPP experience by indicating how Brazil's own domestic pacication experience has been "upgraded" by incorporating contemporary counterinsurgency "lessons learned" from Colombia and Haiti. After that, I turn to the reimport of these lessons to contemporary Rio de Janeiro and illustrate how the UPP experience is not so much a move toward democratic policing but rather represents a growing militarization of urban security governance that deepens previous forms of pacication-centered violent order-making in the "marvelous city" in a neoliberal context. The concluding section summarizes the main ndings of the chapter and highlights their implications for understanding the democracy-police abuse nexus.
-
-## colombiA lessons
-
-The fact that Rio de Janeiro's current pacication strategy is a deeply transnationalized affair, indicative of the ongoing global entanglements that shape contemporary policing in our postcolonial world (see Hönke and Müller 2016), is ofcially recognized. Local authorities admit that the "UPP program by the State of Rio de Janeiro administration was inspired by the successful experience in public security adopted in Medellín, Colombia."7 In fact, in 2007, one year before the inauguration of the rst UPP, Sergio Cabral, then-governor of the state of Rio de Janeiro and José Mariano Beltrame, Rio de Janeiro's former Secretary of Public Security, visited Colombia. They traveled to Bogotá and Medellín in order to learn how these two cities, plagued by crime, violence and insurgency, dealt with their security problems in a seemingly successful way. The most important inspiration they found was Medellín's Operation Orion that eventually inspired the UPP program.8
-
-That Medellín is an attractive reference point for Rio's political elite is understandable. By the mid-2000s, the city, which until the beginning of the new millennium was considered the world's "murder capital" with about 55,000 people having been killed between 1990 and 2002, turned into an economic boomtown. By 2002, Medellín's high-rise construction projects surpassed those of New York and Los Angeles combined, the city became the headquarters of Colombia's largest business conglomerates as well as over seventy major international companies. And its new convention center, opened in 2005, started to generate more than US\$100 million investment annually. Moreover, by 2005 the city's homicide rate dropped to numbers below those of US cities like Detroit, Baltimore or Washington (Hylton 2010, pp. 338–39). Medellín, in this regard, reects, in a paradigmatic way the success of the "Colombian model" or what others called "the Colombian Miracle" in dealing with pressing security issues framed in the language of insurgency. As David Kilcullen and Greg Mills (2015, p. 107) summed it up:
-
-Such progress has been made in Colombia that it is hard to remember that only 20 years ago, the country was renowned not for its practical people or its wonderful cities and rain-forests, but for its cocaine-fueled murder rate. At the height of the drug war in the 1990s, Colombians suffered ten kidnappings a day, 75 political assassinations a week, and 36,000 murders a year (fteen times the rate in the United States). The military and police competed with an array of guerrillas, gangs, narcos and paramilitaries. Guerrillas had so isolated the largest cities that urban-dwellers traveling as little as ve miles out of town risked kidnapping, or worse. Twentyseven thousand two hundred thirteen people died in 1997–2001 alone. Colombia entered the 21st century at risk of becoming a failed state. Since then, national leaders have turned the situation around, applying a well-designed strategy with growing public and international support. Kidnappings, murders and cocaine cultivation are down, government control has expanded, and the economy is recovering.
-
-The fact that a leading counterinsurgency expert, like David Kilcullen, pays attention to Colombia's "miracle" is indicative of a core feature of Colombia's success on the security front: the country's recent experience with counterinsurgent pacication efforts.
-
-One of the main causes behind Colombia's security problems throughout most of the late twentieth century has been the ongoing insurgency waged by the Revolutionary Armed Forces of Colombia (*Fuerzas Armadas Revolucionarias de Colombia*, FARC) and the Army of National Liberation (*Ejército de Liberación Nacional*, ELN) against the Colombian state (on Colombia's conict, see Davis et al. 2016; Leech 2011; Richani 2013; Roldán 2002). While the Colombian security forces, for a long time, seemed unable to deal with the insurgency threat posed by the FARC and ELN, this situation worsened during the presidency of Ernesto Samper (1994–1998). During these years, the guerrilla forces inicted humiliating defeats on the military. They also managed to expand their territorial control and increase their military strength—in part by turning to the country's drug economy to nance their armed struggle—while paramilitary violence against guerrillas and their alleged supporters escalated.
-
-As a consequence, Colombian and US military and government circles increasingly saw the country as threatened by a severe security crisis that could culminate in a FARC victory. In order to deal with this situation, a counterinsurgency program, with a strong counter-narcotics element, was designed within the so-called Plan Colombia, a multiyear multibillion-dollar US security assistance program that was implemented from 2000 onward "in order to build capacities for ghting the drug trafc and the guerrillas more effectively" (Tickner 2016, p. 99; on Plan Colombia, see also Rochlin 2011). With substantial support from the country's economic elites, who even accepted paying a "war tax" to contribute to the government's counterinsurgency effort, the governments of Andrés Pastrana (1998–2002) and, in particular, Álvaro Uribe (2002–2010), managed to turn the tide in the military campaign against the FARC, due to a "ruthless focus on taking the ght to the enemy" (Davis and Arnott 2016, p. 60).
-
-Operation Orion in Medellín is indicative of what that meant in practice. It was here, or to be more precise, in the city's marginalized neighborhood *Comuna 13*, where after Uribe's election "the rst major counterinsurgency crackdown and armed urban intervention by the state would take place" (Riaño-Alcalá 2006, p. 178).
-
-The government offensive named "Operación Orion," was presented as a counter-insurgency campaign and an example of Uribe's democratic security's policy's goal of having "a greater presence in the areas where the state has been absent and armed groups control them." Terrorized residents witnessed the arrival in their narrow and steep streets of over 1,000 assault troops and police backed by helicopter gunships searching for the militias. After two days of battles, the militias were eradicated from the area, nine civilians killed, thirty-seven injured and several area houses damaged. The army took control of the zone and the government offered an ambitious program of social investment, which, more than a year later, had still not been implemented. Residents began to feel some respite and welcomed the presence of the State; soon after the offensive, however, selective assassinations began to be reported and recognized paramilitary ghters began circulating openly, controlling local activities and forcibly recruiting youth. (Riaño-Alcalá 2006, pp. 178–79)
-
-While Operation Orion, effectively, turned *Comuna 13* "into a battle eld, with its 100,000 residents caught in the crossre," it nonetheless "achieved its objective of clearing out the Leftist rebels."9 In this regard, Operation Orion is a paradigmatic example of Uribe's "democratic security" agenda and the related counterinsurgency efforts implemented under Plan Colombia. It was a "success" in objectively reducing violence. However, it came at the price of severe human rights violations, substantial "collateral damage," and an overall "expense of democracy" (Tickner 2016, p. 100):
-
-Between 2006 and 2008, three distinct political scandals, related to extensive ties between the Colombian political elite and paramilitary groups, widespread illegal wiretapping conducted by state authorities, and extrajudicial military executions of over 3,000 young men reported as guerrillas killed in combat, put into stark relief the waning of the rule of law in the country. (Tickner 2016, p. 100)
-
-Irrespective of the human, legal, and democratic "collateral damage," it was the successful pacication of "insurgent" urban communities that "ultimately persuaded Beltrame and Cabral to introduce a similar system [of counterinsurgent pacication] for Rio de Janeiro."10 However, in trying to replicate the "Colombian miracle," Rio's security forces whose pacication practices were still informed by an "enemy-centric" logic that considered temporary raids of marginal communities with the aim of "killing the enemy" as the most effective means for pacifying the "urban other"—needed to be updated. And, as the next section will demonstrate, it was the United Nations' effort to stabilize Haiti, which offered a welcome opportunity for bringing Brazil's domestic pacication experience in line with "best practices" of the "new counterinsurgency era."
-
-## h Aiti An oPPortunities
-
-As argued above, policing in Rio de Janeiro, ever since colonial times, was driven by a pacication logic, marked by a highly coercive racial and "underclass" bias (Holloway 1993) and supported by what, following Pereira (2000, pp. 220–22), can be termed as a form of "elite liberalism." The latter favors a selective application of the rule of law according to existing social hierarchies, leading to what Seri and Lokaneeta (Chapter 3) call "violent exclusion." In turn, police abuse targeting poor people, particularly Afro-Brazilians, is widely regarded as a legitimate means of protecting order and security for which the police will not be held accountable (Pereira 2000, pp. 220–22; on police accountability, see Bonner, Chapter 5; Squillacote and Feldman, Chapter 6; Davenport et al., Chapter 7). To a large extent, the resulting forms of police abuse in democratic Brazil are due to a particularly "kinetic" counterinsurgency/pacication-policing mindset by local police chiefs and politicians that presents *favelados* as the racialized and criminalized enemy in the guise of the "urban other" (on racialized policing in other contexts, see also Schneider, Chapter 2; Davenport et al., Chapter 7). For example, Rio's former secretary of public security, Anthony Garotinho, proudly claimed on a local radio program on *Radio Carioca* in 2003: "In my rst twelve days in charge of the secretariat, one hundred criminals have already died in confrontations with police" (quoted in Amnesty International 2003, p. 7). Already in 1995, the local police had introduced so-called "bravery payments," which rewarded police ofcers with bonuses up to 150% of their monthly salary depending on their ability to meet "kill quotas" of "criminals" (Hendee 2013, p. 23). Recall that this happened in democratic Brazil.
-
-In an increasingly mediatized world, such practices, however, are at odds with a city that since the 1990s started promoting itself as a vibrant urban democracy and a perfect location for global summits and megaevents—from the Rio de Janeiro Earth Summit in 2002 to the FIFA Soccer Championship in 2014 and the Olympic Games in 2016, as well as a prime tourist destination and a "safe" investment location.
-
-The opportunity for experimenting with less "kinetic" forms of paci cation, more attuned to global sensitivities regarding human rights, democracy, and the rule of law, came on May 29, 2004. On this day, the United Nations Security Council Resolution 1542 was adopted. In light of ongoing political turmoil in Haiti, following the controversial ousting and forced exile of elected Haitian president Jean-Bertrand Aristide in February 2004, the United Nations Stabilization Mission in Haiti (MINUSTAH by its French acronym for *Mission des Nations Unies pour la stabilisation en Haïti*) was established. Its mission is to "foster principles and democratic governance and institutional development" and support "the Transitional Government as well as Haitian human rights institutions and groups in their efforts to promote and protect human rights, particularly of women and children, in order to ensure individual accountability for human rights abuses and redress for victims."11 Since its creation, Brazil has been in charge of the military component of the UN mission, as of early 2017 about 2400 soldiers.12
-
-This leading role of Brazil directly reects the international recognition of Brazil's domestic pacication experience on the one hand, and the main threat for the stabilization of Haiti, on the other: *local gangs*. In fact, the main security problem Haiti was facing at the time MINUSTAH was created, was, in the words of David Becker, former director of the Haiti Stabilization Initiative (HSI), funded by the US Department of Defense (on HSI, see Moe and Müller 2015), a "criminal insurgency" (Becker 2011, p. 143) waged by street gangs—with clear parallels to contemporary GWOT theaters.
-
-The situation facing the United Nations at the end of 2006 was not unlike that facing any large hierarchical force that is targeting a loose coalition of independently nanced urban guerrilla groups. The parallels with Sadr City or Fallujah are obvious: small, loosely organized groups able to swarm a target and hide among the population quickly have the advantage. (Becker 2011, p. 142)
-
-To counter this problem, HSI implemented a "community counterinsurgency" program (Becker 2011, p. 145). Part and parcel of this was a "community building" strategy, which aimed at transforming community dynamics and in a way that the long-term sustainability of the gangs' self-organization and reproduction process was undermined. In practice, this effort basically consisted of the co-optation of community leaders through "development" funds, which were randomly made widely available for *any type* of community activity and offered the promise to "indirectly peel away the gang support base and leave gang leaders more exposed to possible police responses" (Becker 2011, p. 145).
-
-Such perceptions regarding the insurgent threat posed by gangs, as well as the overall counterinsurgency-like character of the UN mission, were clearly shared by Brazilian UN troops. In fact, Brazilian troops and diplomats describe Brazil's MINUSTAH operations as "political counterinsurgency," or a form of "low-intensity warfare," where, in the words of Lt. Gen. Augusto Heleno Ribeiro Pereira Brazil's MINUSTAH commander (2004–2005), the task of his troops was to "kill the bandits […] but it will have to be the bandits only, not everybody" (quoted in Podur 2012, p. 78; see also Müller 2016b, p. 83).
-
-In light of such perceptions of the Haitian "criminal insurgency" waged by street gangs, the decision to use Brazilian troops for these antigang operations was somehow "logical," as Sotomayor (2014, p. 139) argued. Most of all because "they had antigang training and knew how to 'clean' slums. […] In fact, most members of the Brazilian contingent were rst recruited from units that were originally headquartered in Rio de Janeiro, where gang violence and drug trafcking were also common" (Sotomayor 2014, p. 139).
-
-However, the traveling abroad of Rio de Janeiro's pacication experience substantially transformed the latter. Recall that previous pacication efforts in Rio de Janeiro were often marked by extremely violent, extralegal and frequently lethal, forms of police conduct. They were "kinetic," as contemporary counterinsurgency practitioners would say, by following an "enemy-centric" logic, clearly visible in Lt. Gen. Augusto Heleno Ribeiro Pereira's previously quoted statement regarding the need of "killing the bandits."
-
-Such reasoning, however, is at odds with contemporary counterinsurgency discourses and practices. The latter portrays counterinsurgent paci cation as "armed social work" aimed at "protecting the population," not at "killing the enemy," as the 2006 *United States Army/Marine Corps Counterinsurgency Field Manual FM 3*-*24*, the doctrinal manifestation of the "new counterinsurgency era" puts it (The US Army/ Marine Corps 2006, p. 179, 299). As shown elsewhere in greater detail (Müller 2016b; Müller and Müller 2016), it was Brazil's participation in MINUSTAH's anti-gang operations that allowed the country to adapt its own domestic pacication experience to contemporary counterinsurgency "best practices," which are marked by a liberal embrace of the rule of law, legality, good governance, institution building, and humanitarianism. This allowed Brazil to learn the "gentle" way of pacifying insurgent urban communities through less kinetic, and more media-friendly, means; means that would attract less international press criticism than previous ways of pacifying *favelas* at home (see also Koonings and Kruijt 2015, p. 49). It also tted nicely into the UN framework of liberal peace promotion that informed MINUSTAH's interest in enabling "Haitians to renounce violence, and recognizing, in this context, that rule of law and respect for human rights are vital components of democratic societies."13
-
-The main targets of MINUSTAH's pacication campaign were the marginalized communities of Port-au-Prince, notably in Cité Soleil. Here, according to international observers, gangs "assumed responsibility for security in their neighborhoods, often extorting market sellers and other businesses in exchange for protection, and sometimes becoming involved in drug smuggling and other illicit activities" (Berg 2010, p. 3). Moreover, Cité Soleil is also a stronghold of militant supporters of former president Aristide (Hallward 2007, pp. 287–88). And, it has a unique strategic value. It is located in close proximity to many infrastructural arteries through which goods, persons, resources, and aid ow to support the UN presence (and the country's local post-Aristide political elite). As the gangs of Cité Soleil also "attacked vehicles of the adjunct airport road and threatened Haiti's principal port, petroleum storage facility, and industrial area, which were located nearby" (Dziedzic and Perito 2008, p. 2), the area was declared by MINUSTAH, as a "red zone" in need of military intervention and pacication (Higate and Henry 2009, p. 60).
-
-In order to pacify Cité Soleil, MINUSTAH, under Brazilian leadership, intervened by launching a pacication campaign that was centered upon what has become popularized in contemporary counterinsurgency textbooks as the "clear-hold-build" (CHB) approach. CHB consists of three steps. First, local insurgents are killed, captured, or expelled ("clear"). Next, a permanent presence of host government security forces is expanded ("hold"), and nally, in the so-called "build" phase, "tasks that provide an overt and direct benet for the community are key," including, for instance, the distribution of aid to local communities, trash collection, or infrastructure improvement (The US Army/Marine Corps 2006, pp. 174–188).
-
-In Cité Soleil, the "clear" phase started on the January 24, 2007, with a MINUSTAH military offensive (Müller 2016b, p. 85). An initial invasion by UN troops was followed by a joint operation conducted by UN and local police forces. They conducted neighborhood sweeps during which some 800 gang members were arrested, including the apprehension or killing of "all but one gang leader" (Dziedzic and Perito 2008, p. 5). The "hold phase" consisted of the setting-up of so-called strong points, which allowed UN troops to establish a permanent military presence in Cité Soleil and to conduct patrols in critical areas: "Patrols took place roughly every three hours; the standard procedure was intended to reduce risk by assuming a 'ready to ght' position. […] This procedure resembled an urban counterinsurgency operation more in tune with places like Afghanistan or Iraq, rather than a UN peacekeeping mission" (Sotomayor 2014, p. 250). That this was more than just a "resemblance," becomes obvious when considering that these operations were followed by a "build" phase in which social assistance and development aid were provided to the local population in order to win their "hearts and minds," often through the active incorporation of NGOs (The US Army/Marine Corps 2006, pp. 2-29–2-31). As one UN ofcial stated in this regard, Brazilian soldiers "understood that they had to clear the area from gangs and then bring development projects, like Viva Rio" (quoted in Sotomayor 2014, p. 139)—a NGO with a decade-long experience in providing social assistance within community-centered policing programs in Rio de Janeiro (Harig 2015, p. 146).
-
-Despite substantial "collateral damage," evidenced, for instance by a survey of the United States Institute for Peace, which documents that "52 per cent of Cité Soleil residents reported that family members, friends, or neighbors were killed or wounded in MINUSTAH's antigang operations" (Podur 2012, p. 131), it seems that "[t]he pacication had worked" (Podur 2012, p. 131). In the words of a secret cable from the US embassy in Port-au-Prince:
-
-Cite Soleil today is a changed environment. It is less a hair trigger population ready to riot on command or in reaction to any number of catalytic events – man-made or natural – and more of a community increasingly trying to work together. This represents a depoliticizing of conict and a more pragmatic focus on grassroots self-interest. The stage is set for regular aid, training, health, education, and microenterprise programs to begin operating, and they are. Elements of Haiti's private sector are coming around to the idea that there is value to be gained in promoting and supporting training and education opportunities and are beginning to consider the value of reinvesting in the larger neighborhood.14
-
-It has been this image of the success of Brazil's rst experiment with liberal counterinsurgency that contributed to the creation of the UPPs, one year after these pacication efforts in Cité Soleil.
-
-## PAcific Ation comes home
-
-In light of the above, the creation of the UPPs can mostly be seen as serving a symbolic purpose, demonstrating that the host city of the 2014 FIFA World Cup and the 2016 Olympic Games has the capacity of guaranteeing the security of these mega events and international visitors in a "progressive," community-oriented, democratic, and humanitarian way (Amar 2009; Swanson 2013; on the connection between these megaevents and pacication, see Saborio 2013) by applying the combined "lessons learned" from Colombia and Haiti.
-
-It is telling, in this regard, that many Brazilian military commanders in charge of some of the most critical pacication efforts in Rio de Janeiro, like General Fernando José Lavaquiel, who was appointed by the Brazilian Defense Minister to be in charge of the pacication of one of the most "critical" *favela* complexes, the Complexo do Alemão, held leading command positions in and had combat experience with MINUSTAH (Sotomayor 2014, p. 88). This not only holds true for the upper levels of authority in charge of the implementation of the pacication strategy in Rio de Janeiro. Additionally, regular troops rotating back from Haiti to Brazil have actively participated in the pacication efforts, in what Harig termed a "reciprocal learning process among troops" (Harig 2015, pp. 142, 149–51). This can be seen, once again with regard to the pacication of the Complexo do Alemão, probably Rio de Janeiro's version of Cité Soleil. In this large-scale pacication operation, conducted in 2010, "many of the troops deployed this month [for the pacication of the Complexo do Alemão], were just back from peacekeeping in Haiti which prepared them for close work with civilians."15
-
-The relevance of having had experience with "close work with civilians" is another clear reference to the "return" of the counterinsurgency/ pacication component of Brazilian peacekeeping within the context of MINUSTAH to the *favelas* of Rio de Janeiro. This can be seen most clearly in the centrality that the CHB approach implemented during the pacication of Cité Soleil has for the UPP strategy, and which, in an albeit rudimentary way, was also central to Operation Orión in Medellín. Instead of a temporary occupation/raid, the success of the pacication effort in Medellín's *Comuna 13*, "stemmed from a decision on the part of the military and civilian authorities to maintain a permanent, physical presence of all parts of the government within the Comuna, often on the most conictive pieces of terrain" (Demarest 2011, p. 4)—the decisive element of the CHB approach. While Operation Orion familiarized Brazil's authorities with the long-term benets of applying an urban CHB approach, the country's participation in MINUSTAH allowed for the improvement of Brazil's own pacication experience.
-
-In fact, the concrete implementation of the UPP operations perfectly follows the three phases of the CHB approach. First, in the "clear" phase, heavy armed special forces, frequently supported by military troops, invade and "clear" communities selected for "pacication" in order to capture, kill, or expel drug trafckers. Next, in the "hold" phase during which "rm government control of the populace and area" needs to be achieved, the permanent UPP presence is established through the creation of a permanent police presence, including mobile police compounds not too different from the "strong points" of Cité Soleil, clearly reected in the slogan posted on the UPP's website: "A UPP VEIO PARA FICAR" (*THE UPP CAME TO STAY*).16 According to ofcial statements, once this presence, portrayed as the "recovery of territories once dominated by the drug dealers," is achieved, "the thugs no longer control the territory [and therefore] become weakened and they can be arrested more easily by the police."17 In the nal phase, the "build" phase, the UPP aims at gaining the support of the local population. According to their mission statement: "The community's engagement in this process is crucial because the local population usually knows who the drug dealers are and the location of their hideouts. The dwellers who tell on the criminals have also been of great value since they contribute to the arrest of thugs as well as the seizure of hidden rearms, drugs and other illegal products."18
-
-The UPP's community outreach programs include social work projects, street building, and trash cleaning operations as well as health care, frequently in collaboration with NGOs, including *Viva Rio*—tellingly portrayed by the NGO as a "human security partnership."19 The UPP's reliance upon the CHB approach has also been stressed in a condential cable from the US embassy, leaked to Wiki Leaks. The cable makes the following observation:
-
-While Rio's favelas have often been a target of police operations with a goal of disrupting narco-trafcking activities, the Favela Pacication Program marks the rst time that state, municipal, or federal authorities are attempting a "clear and hold" approach, the success of which is predicated upon pushing criminal elements out of the community, establishing a permanent police and government presence, then providing basic services and civic privileges to favela residents. This approach closely resembles U. S. counter-insurgency doctrine in Afghanistan and Iraq, and highlights the extent to which favelas have been outside state authority.20
-
-In 2010, the "local" version of this strategy has been rened with the creation of the so-called Social UPPs (*UPP Social*). The project's aim, with nancial support from United Nations Human Settlements Program (UN HABITAT), is to contribute "to the consolidation of the pacifying process and promotion of local citizenship in the pacied territories; to promote urban, social and economic development in the territories; and to execute the full integration of these areas with the city as a whole."21 To this end, it adopts the following strategy:
-
-Even before the implementation of the UPP, as of the occupation of the territory by security forces, the City Hall takes advantage of the new peaceful situation to start an intense effort of certifying the services of cleaning, urban preservation and collecting garbage and public illumination, mobilizing the various municipal agents and with the coordination of the Social UPP. In this phase prior to the UPP, the teams of the program also start speaking to the residents and leaders of the communities to map out the demands and priorities, study the public policies and services already available and produce information and indicators about the area. After having implemented the local pacifying police unit, the Social UPP makes its performance in the territory ofcial by holding a forum which gathers together community leaders, NGOs and other local institutions, as well as representatives of the UPP and of bodies of several spheres of government for an open dialogue, in which the residents express their expectations and the public managers submit plans of immediate and future actions.22
-
-While this seems to empower local residents, when put into practice, the implementation of liberal pacication efforts in Rio de Janeiro, as in Colombia and Haiti, produced substantial collateral damage in the guise of ongoing police abuse and human rights violations, including the reappearance of torture and extralegal killings by involved UPP forces (Alves and Evanson 2011; Gay 2012, pp. 92–95).23
-
-The most relevant difference between previous and contemporary forms of counterinsurgent pacication in Rio de Janeiro, however, might be their spatial selectivity. They mostly target *favelas* "in the richest neighborhoods in the south and north zones of the city," which are also the most lucrative areas for real estate development and speculation (Reyes Novaes 2014, p. 218; Saborio 2013, p. 139).
-
-As the UPP coordination proudly claims in this regard: "Decreasing crime rates and the increased sense of security have caused Rio to experience a wave of real estate valorization. The city has also seen an increase of products and services that are now being offered to the residents of pacied communities and surrounding neighborhoods, places that are beginning to follow the development seen in other areas of Rio."24 In fact, in most pacied *favelas*, "land and real estate prices rocketed" (Koonings and Kruijt 2015, p. 50), with the consequence that many local residents are pushed out and make "space" for wealthier newcomers, often foreigners.25
-
-Resonating with Medellin's successful urban pacication, and the related economic "miracle," Brazil's current pacication clearly entails a material component as well: the economic upgrading of the city through the policing and pacication of "undesired" urban populations that follow the logic of what John Gledhill recently termed the "new war on the poor" in Latin America. As he argues, *favela* residents are 'inconvenient' in a contemporary capitalist context for a number of reasons that are connected with the presence of criminals in these communities, reasons that boil down to the principle that capital accumulation can be enhanced through the removal of barriers to its penetration of the spaces that these inconvenient populations occupy, and barriers to its ability to extract the maximum prot from selling goods and services within them. (Gledhill 2015, p. 18)
-
-This, Gledhill (2015, p. 18) adds, is the "hidden agenda behind the 'securitization' of *favelados* as a problem for the city as a whole and their pacication through a militaristic form of police occupation that often fails to deliver on its promise to respect the rights of these Brazilian citizens."
-
-In this regard, it has to be recalled that policing the urban other in the name of pacication aims at the (re)production of a *particular* order. In democracies, this is also the order of the liberal market. Policing as pacication, in the words of Mark Neocleous (2011, p. 193) aims at "the fabrication of a social order organized around a constant revolutionizing of the instruments and relations of production and thus containing the everlasting uncertainty and agitation of all social relations." The paci cation of the *favelas* of Rio de Janeiro promises exactly that. It allows for the containment of the potentially disruptive "urban other," while simultaneously "clearing" the communities from where the "urban other" emerges in order to better "integrate" the former into the city's neoliberalized urban economy. It might be precisely this material aspect of what Naomi Klein (2008, p. 508) in another context called "militarized gentrication," that also attracts Haitian police ofcials to join a cooperation with Viva Rio and the UPP project for reimporting the rened, post-2010 UPP (UPP + Social UPP) to "the more conictive areas, such as Cité Soleil,"26 thereby triggering a new round of transnational paci cation entanglements.
-
-## conclusion
-
-Police abuse is often seen as a deviation from how public security should be provided in a democratic context. In countries undergoing, or having gone through, democratic transition periods, the existence of police abuse is in general attributed to institutional legacies of preceding authoritarian regimes. In analyzing the experience of the Police Pacication Units in democratic Rio de Janeiro, this chapter demonstrated that an exclusive focus on the immediate institutional legacies of authoritarian regimes as well as on decisively "domestic" factors misses the deeper historical, postcolonial, roots of contemporary forms of police abuse, its embeddedness in the political economy of capitalism, as well as its transnational dimension. In taking the term pacication as the analytical vantage point from which to assess the question of police abuse in the city, the chapter pointed toward the city's long history of violent and often extralegal policing in the name of pacifying the "urban other."
-
-While the ndings of the chapter thus situate the UPPs within this broader historical trajectory of policing as pacication, the analyses also illustrated that the UPP experience cannot be reduced to that. Rather, contemporary pacication efforts in Rio de Janeiro are directly inspired by new forms of South–South cooperation and "mutual learning," be it from the seemingly successful urban pacication efforts in Colombia or the participation of Brazil in MINUSTAH. These experiences, it was argued, enabled the Rio de Janeiro's security forces to improve and upgrade their domestic pacication practices in a way that they are more attuned to contemporary forms of "irregular warfare" and counterinsurgency. As the latter, in the words of Kahlili, are always marked by the unresolvable contradiction between "illiberal methods and liberal discourse, between bloody hands and honeyed tongues, between weapons of war and emancipatory hyperbole" (Khalili 2013, p. 5), the UPP experience, unsurprisingly, did not make an end to police abuse in democratic Rio but rather contributes to its perpetuation, in part because of the UPP's integration into a neoliberal project of "militarized gentrication." That these ndings are not just a problem for (post-)transition contexts and democratic theory in and about the Global South has recently been evidenced, in a tragic way, by the events in Ferguson, Missouri. The killing of Michael Brown by a white police ofcer as well as the ensuring "policing crisis" and the formation of the Black Lives Matter movement (Camp and Heatherton 2016) point toward the difculties of policing ethnically mixed postcolonial societies also within the Global North (also see Schneider, Chapter 2; Davenport et al., Chapter 7). And they raise the general question of how democratic policing can be in societies with long established and historically entrenched divisions along ethnic and socioeconomic lines. It is this conundrum that democratic theory and political science more broadly have not yet adequately addressed. The analysis presented in this chapter aims to provide insights that might spark further reections regarding how to address this puzzle—not just "over there," but in all contemporary democracies.
-
-## notes
-
-- 1. Governo Do Rio de Janeiro. Unidade de Polícia Pacicadora. "Historico." http://www.upprj.com/index.php/historico(last accessed February 22, 2014).
-- 2. Governo Do Rio de Janeiro. Unidade de Polícia Pacicadora. http:// www.upprj.com/index.php/as\_upps (last accessed January 31, 2014).
-- 3. Governo Do Rio de Janeiro. Unidade de Polícia Pacicadora. http:// www.upprj.com/index.php/o\_que\_e\_upp (last accessed February 22, 2014).
-
-- 4. Ibid.
-- 5. Governo Do Rio de Janeiro. Unidade de Polícia Pacicadora. http:// www.upprj.com/index.php/as\_upps (last accessed February 22, 2014).
-- 6. Governo Do Rio de Janeiro. Unidade de Polícia Pacicadora. http:// www.upprj.com/index.php/as\_upps (last accessed February 22, 2014); http://www.upprj.com/index.php/as\_upps\_us(last accessed February 22, 2014).
-- 7. Governo Do Rio de Janeiro. Unidade de Polícia Pacicadora. http:// www.upprj.com/index.php/historico\_us (last accessed February 22, 2014).
-- 8. Halais, Flavie. "Pacifying Rio: What's behind Latin America's most talk about security operation." *Open Security*, March 21, 2013. https://www.opendemocracy.net/opensecurity/flavie-halais/pacifying-rio-whats-behind-latin-americas-most-talked-about-security-oper (last accessed January 15, 2017).
-- 9. *The Telegraph*. "Colombia's biggest ever exhumation begins at Medellin rubbish dump." July 28, 2015. http://www.telegraph.co.uk/news/worldnews/southamerica/colombia/11769313/Colombias-biggestever-exhumation-begins-at-Medellin-rubbish-dump.html (last accessed October 13, 2017).
-- 10. Lee, Tracey. 2013. "UPPs drive criminals from Rio's Favelas ahead of 2014 FIFA World Cup." *Díalogo-Digital Military Magazine*, June 17. https://dialogo-americas.com/en/articles/upps-drive-criminals-riosfavelas-ahead-2014-fa-world-cup(last accessed November 20, 2017).
-- 11. United Nations Security Council. "Security Council establishes UN stabilization mission in Haiti for initial six-month period." April 30, 2004. http:// www.un.org/press/en/2004/sc8083.doc.htm (last accessed January 17, 2017).
-- 12. United Nations Stabilization Mission in Haiti. MINUSTAH Facts and Figures. http://www.un.org/en/peacekeeping/missions/minustah/facts.shtml (last accessed January 4, 2017).
-- 13. United Nations Security Council. "Security Council extends United Nations mission in Haiti until 15 February 2007, unanimously adoption resolution 1702 (2006)." August 15, 2006. http://www.un.org/News/Press/docs/2006/sc8811.doc.htm (last accessed January 22, 2014).
-- 14. Wiki Leaks. "Cite Soleil's door is open: Proving the concept and building credibility." April 13, 2009. http://www.wikileaks.org/plusd/cables/09PORTAUPRINCE398\_a.html (last accessed January 17, 2014).
-- 15. *The Economist*. "Conquering Complexo do Alemao. A big step towards reclaiming Rio de Janeiro from drug dealers." December 2, 2010.
-
-- http://www.economist.com/node/17627963(last accessed November 20, 2017); See also *O Globo*. "Abuso de autoridade em favela com UPP preocupa pesquisadores." May 8, 2010. http://g1.globo.com/rio-dejaneiro/noticia/2010/05/abuso-de-autoridade-em-favela-com-upp-preocupa-pesquisadores.html(last accessed November 20, 2017).
-- 16. Governo do Rio de Janiero. http://www.upprj.com/index.php/as\_upps(last accessed January 31, 2014).
-- 17. Governo do Rio de Janiero. UPP Came to Stay. http://www.upprj.com/index.php/o\_que\_e\_upp\_us (last accessed February 22, 2014).
-- 18. Ibid.
-- 19. http://vivario.org.br/en/human-security/partnership-with-upp/(last accessed February 19, 2014).
-- 20. Wiki Leaks. "Counter–insurgency doctrine comes to Rio's Favelas." September 30, 2009. https://www.wikileaks.org/plusd/cables/09RI-ODEJANEIRO329\_a.html(last accessed March 2, 2014).
-- 21. http://uppsocial.org/about/(last accessed February 22, 2014).
-- 22. Ibid.
-- 23. *Folha de São Paulo*. "Comandante da UPP autorizou tortura de Amarildo, arma delegado." February 20, 2014. http://www1.folha.uol.com.br/cotidiano/2014/02/1415487-comandante-da-upp-autorizou-tortura-de-amarildo-arma-delegado.shtml; *Folha de São Paulo*. "PM inltrado diz que UPP da Rocinha tinha tortura de tracantes." February 19, 2014. http://www1.folha.uol.com.br/cotidiano/2014/02/1414324pm-inltrado-diz-que-upp-da-rocinha-tinha-tortura-de-tracantes.shtml (last accessed November 20, 2017); *Folha de São Paulo.* "Moradores de Alemão divulgam video de confront com Exército." September 4, 2011. https://noticias.bol.uol.com.br/brasil/2011/09/06/moradores-divulgam-imagens-de-balas-tracantes-no-alemao.jhtm(last accessed November 20, 2017); Gazet Do Povo. "Abuso de autoridade em favela com UPP preocupa pesquisadores." May 8, 2010. http://www.gazetadopovo.com.br/vida-e-cidadania/abuso-de-autoridade-em-favela-com-upp-preocupa-pesquisadores-0b01dzvg0r8wcgr2tfyp8wci6 (last accessed November 20, 2017); *O Globo.* "Imagem das UPPs for arranhada o caso Amarildo." October 8, 2013. http://g1.globo.com/globo-news/noticia/2013/10/imagem-das-upps-foi-arranhada-com-o-caso-amarildo.html (last accessed November 20, 2017).
-- 24. Governo do Rio de Janiero. "O Gue E?" http://www.upprj.com/index.php/o\_que\_e\_upp (last accessed February 22, 2014).
-- 25. *The Guardian*. "Olympic exclusion zone: The gentrication of a Rio Favela." June 15, 2016. https://www.theguardian.com/cities/2016/jun/15/rio-olympics-exclusion-zone-gentrication-favela-babilonia (last accessed November 20, 2017).
-
- 26. http://vivario.org.br/en/upp-project-is-presented-to-haitian-police-ofcers/ (last accessed February 22, 2014).
-
-## references
-
-- Alves, Maria Helena Moreira, and Philip Evanson. 2011. *Living in the Crossre. Favela Residents, Drug Dealers, and Police Violence in Rio de Janeiro*. Philadelphia, PA: Temple University Press.
-- Amar, Paul. 2009. "Operation Princess in Rio de Janeiro: Policing 'Sex Trafcking', Strengthening Worker Citizenship, and the Urban Geopolitics of Security in Brazil." *Security Dialogue* 40 (4–5): 513–41.
-- Amnesty International. 2003. *Brazil: Rio de Janeiro 2003: Candelaria and Vigario Geral 10 Years On*. http://www.refworld.org/docid/3f4dcda60.html.
-- Arias, Enrique Desmond, and Daniel M. Goldstein, eds. 2010a. *Violent Democracies in Latin America*. Durham, NC: Duke University Press.
-- Arias, Enrique Desmond, and Daniel M. Goldstein. 2010b. "Violent Pluralism. Understanding the New Democracies of Latin America." In *Violent Democracies in Latin America*, edited by Enrique Desmond Arias and Daniel M. Goldstein, 1–33. Durham, NC: Duke University Press.
-- Becker, David C. 2011. "Gangs, Netwar and 'Community Counterinsurgency' in Haiti." *PRISM* 2 (3): 137–54.
-- Berg, Luise-Alexandre. 2010. "Crime, Politics and Violence in Post-earthquake Haiti." *United States Institute of Peace Brief* 58: 1–4.
-- Brogden, Mike, and Graham Ellison. 2013. *Policing in an Age of Austerity: A Postcolonial Perspective*. London: Routledge.
-- Camp, Jordan, and Christina Heatherton, eds. 2016. *Policing the Planet: Why the Policing Crisis Led to Black Lives Matter.* London: Verso.
-- Comaroff, Jean, and John Comaroff. 2016. *The Truth about Crime. Sovereignty, Knowledge and Social Order*. Chicago, IL: University of Chicago Press.
-- Costa, Gino. 2006. "Two Steps Forward, One and a Half Step Back: Police Reform in Peru, 2001–2004. The Transformation of the Peruvian Police." *Civil Wars* 8 (2): 215–30.
-- da Silva, Robson R. 2012. "Rio de Janeiro: A Local Response to a Global Challenge." *Journal of International Affairs* 66 (1): 177–81.
-- Davenport, Christian. 2007. "State Repression and Political Order." *Annual Review of Political Science* 10: 1–23.
-- Davis, Dickie, and Anthony Arnott. 2016. "Building Tools for Military Success." In *A Great Perhaps? Colombia: Conict and Convergenc*e, edited by Dickie Davis, David Kilcullen, Greg Mills, and David Spencer, 54–60. London: Hurst.
-- Davis, Dickie, David Kilcullen, Greg Mills, and David Spencer, eds. 2016. *A Great Perhaps? Colombia: Conict and Convergence*. London: Hurst.
-
-- de Souza Pinheiro, Alvaro. 1995. "Guerrilla in The Brazilian Amazon." *Military Review*, Edicão Brasileira 1: 58–79.
-- Demarest, Geoffrey. 2011. *Urban Land Use by Illegal Armed Groups in Medellin.* Fort Leavenworth, KS: US Army Foreign Military Studies Ofce. http://www.dtic.mil/dtic/tr/fulltext/u2/a551055.pdf (last accessed November 20, 2017).
-- Denissen, Marieke. 2008. *Winning Small Battles, Losing the War. Police Violence, the Movimiento del Dolor and Democracy in Post-authoritarian Argentina*. Amsterdam: Rozenberg Publishers.
-- Denyer Willis, Graham. 2015. *The Killing Consensus. Police, Organized Crime, and the Regulation of Life and Death in Urban Brazil*. Oakland: University of California Press.
-- Dziedzic, Michael, and Robert M. Perito. 2008. *Haiti: Confronting the Gangs of Port-au Prince*. Washington: United States Institute of Peace Special Report. www.usip.org.
-- El Mechat, Samya, ed. 2014. *Coloniser, Pacier, Administrer, XIX–XXI siècles*. Paris: CNRS.
-- Fassin, Didier. 2013. *Enforcing Order: An Ethnography of Urban Policing*. Cambridge: Polity Press.
-- Gay, Robert. 2012. "Clientelism, Democracy, and Violence in Rio de Janeiro." In *Clientelism in Everyday Latin American Politics*, edited by Tina Hilgers, 81–98. Basingstoke: Palgrave Macmillan.
-- Gledhill, John. 2015. *The New War on the Poor. The Production of Insecurity in Latin America*. London: Zed Books.
-- Graham, Stephen, and Alex Baker. 2016. "Laboratories of Pacication and Permanent War: Israeli–U. S. Collaboration in the Global Making of Policing." In *The Global Making of Policing. Postcolonial Perspectives*, edited by Jana Hönke and Markus-Michael Müller, 40–58. London: Routledge.
-- Hallward, Peter. 2007. *Damming the Flood: Haiti, Aristide, and the Politics of Containment*. London: Verso Books.
-- Harig, Christoph. 2015. "Synergy Effects between MINUSTAH and Public Security in Brazil." *Brasiliana—Journal for Brazilian Studies* 3 (2): 142–68.
-- Hendee, Thomas Alan. 2013. *The Health of Pacication: A Review of the Pacifying Police Unit Program in Rio de Janeiro, Brazil*. Stanford, CA: Center for Democracy, Development, and the Rule of Law Stanford University. http://iisdb.stanford.edu/docs/771/Thomas\_Hendee.pdf.
-- Higate, Paul, and Marsha Henry. 2009. *Insecure Spaces: Peacekeeping, Power and Performance in Haiti, Kosovo and Liberia*. London: Zed Books.
-- Hills, Alice. 2009. *Policing Post-conict Cities*. London: Zed Books.
-- Holloway, Thomas H. 1993. *Policing Rio de Janeiro: Repression and Resistance in a 19th-Century City.* Stanford: Stanford University Press.
-- Hönke, Jana, and Markus-Michael Müller, eds. 2016. *The Global Making of Policing. Postcolonial Perspectives*. London: Routledge.
-
-- Huggins, Martha K. 1998. *Political Policing: The United States and Latin America*. Durham, NC: Duke University Press.
-- Hylton, Forrest. 2010. "The Cold War That Didn't End: Paramilitary Modernization in Medellín, Colombia." In *A Century of Revolution: Insurgent and Counterinsurgent Violence During Latin America's Long Cold War*, edited by Greg Grandin and Gilbert M. Joseph, 338–69. Durham, NC: Duke University Press.
-- Khalili, Laleh. 2013. *Time in the Shadows. Connement in Counterinsurgencies*. Palo Alto, CA: Stanford University Press.
-- Kienscherf, Markus. 2010. "Plugging Cultural Knowledge into the U. S. Military Machine: The Neo-orientalist Logic of Counterinsurgency." *Topia— Canadian Journal of Cultural Studies* 23 (24): 121–43.
-- Kienscherf, Markus. 2016. "Beyond Militarization and Repression: Liberal Social Control as Pacication." *Critical Sociology* 42 (1): 1179–94.
-- Kilcullen, David. 2013. *Out of the Mountains. The Coming Age of the Urban Guerilla.* Oxford: Oxford University Press.
-- Kilcullen, David, and Greg Mills. 2015. "Colombia—A Political Economy of War to an Inclusive Peace." *PRISM* 5 (3): 106–21.
-- Kilcullen, David, and Greg Mills. 2016. "Introduction: Colombia's Transition." In *A Great Perhaps? Colombia: Conict and Convergenc*e, edited by Dickie Davis, David Kilcullen, Greg Mills, and David Spencer, 1–16. London: Hurst.
-- Klein, Naomi. 2008. *The Shock Doctrine: The Rise of Disaster Capitalism*. London: Penguin.
-- Koonings, Kees, and Dirk Kruijt. 2015. "Exclusion, Violence and Resilience in Five Latin American Megacities: A Comparison of Buenos Aires, Lima, Mexico City, Rio de Janeiro and São Paulo." In *Violence and Resilience in Latin American Cities*, edited by Kees Koonings and Dirk Kruijt, 30–52. London: Zed Books.
-- Langfur, Hal. 2006. *The Forbidden Lands Colonial Identity, Frontier Violence, and the Persistence of Brazil's Eastern Indians, 1750–1830*. Stanford, CA: Stanford University Press.
-- Leech, Garry. 2011. *FARC: The Longest Insurgency*. London: Zed Books.
-- Mc Coy, Alfred. 2016. "Capillaries of Empire: Colonial Pacication and the Origins of U. S. Global Surveillance." In *The Global Making of Policing. Postcolonial Perspectives*, edited by Jana Hönke and Markus-Michael Müller, 20–39. London: Routledge.
-- Moe, Louise Wiuff. 2016. "The Strange Wars of Liberal Peace: Hybridity, Complexity and the Governing Rationalities of Counterinsurgency in Somalia." *Peacebuilding* 4 (1): 99–117.
-- Moe, Louise Wiuff, and Markus-Michael Müller. 2015. "Resilience as Warfare: Interventions and the Militarization of the Social in Haiti and Somalia." *Kriminologisches Journal* 47: 279–96.
-
-- Moe, Louise Wiuff, and Markus-Michael Müller, eds. 2017. *Reconguring Intervention: Complexity, Resilience and the 'Local Turn' in Counterinsurgent Warfare*. Basingstoke: Palgrave Macmillan.
-- Muggah, Robert, and Albert Souza Mulli. 2012. "Rio Tries Counterinsurgency." *Current History* 111: 62–66.
-- Müller, Frank, and Markus-Michael Müller. 2016. "Im- und Export von Aufstandsbekämpfung. Von Rio de Janeiro nach Port-au-Prince und zurück." *Peripherie. Politik, Ökonomie, Kultur* 36 (141): 74–93.
-- Müller, Markus-Michael. 2012. *Public Security in the Negotiated State: Policing in Latin America and Beyond*. Basingstoke: Palgrave Macmillan.
-- Müller, Markus-Michael. 2016a. *The Punitive City: Privatised Protection and Policing in Neoliberal Mexico*. London: Zed Books.
-- Müller, Markus-Michael. 2016b. "Entangled Pacications: Peacekeeping, Counterinsurgency and Policing in Port-au-Prince and Rio de Janeiro." In *The Global Making of Policing: Postcolonial Perspectives*, edited by Jana Hönke and Markus-Michael Müller, 77–95. Abingdon: Routledge.
-- Neocleous, Mark. 2011. "'A Brighter and Nicer New Life': Security as Pacication." *Social & Legal Studies* 20 (2):191–208.
-- Neocleous, Mark, George S. Rigakos, and Tyler Wall. 2013. "On Pacication: Introduction to the Special Issue." *Socialist Studies/Études socialistes* 9 (2): 1–6.
-- Pansters, Wil. 2012. "Zones of State-Making: Violence, Coercion, and Hegemony in Twentieth-Century Mexico." In *Violence, Coercion, and State-Making in Twentieth-Century Mexico. The Other Half of the Centaur*, edited by Wil Pansters, 3–42. Palo Alto, CA: Stanford University Press.
-- Pereira, Anthony W. 2000. "An Ugly Democracy? State Violence and the Rule of Law in Postauthoritarian Brazil." In *Democratic Brazil. Actors, Institutions and Processes*, edited by P. R. Kingstone and Timothy J. Power, 217–35. Pittsburgh, PA: University of Pittsburgh Press.
-- Podur, Justin. 2012. *Haiti's New Dictatorship. The Coup, the Earthquake and the UN Occupation*. London: Pluto Press.
-- Reyes Novaes, André. 2014. "Favelas and the Divided City: Mapping Silences and Calculations in Rio de Janeiro's Journalistic Cartography." *Social & Cultural Geography* 15 (2): 201–25.
-- Riaño-Alcalá, Pilar. 2006. *Dwellers of Memory. Youth and Violence in Medellín, Colombia.* New Brunsweick, NJ: Transaction Publishers.
-- Riccio, Vicente, Marco Aurélio Ruediger, Steven Dutt Ross, and Wesley Skogan. 2013. "Community Policing in the Favelas of Rio de Janeiro." *Police Practice and Research* 14 (4): 308–18.
-- Richani, Chakib. 2013. *Systems of Violence. The Political Economy of War and Peace in Colombia* (2nd edition). Albany: State University of New York.
-- Rigakos, George S. 2016. *Security/Capital: A General Theory of Pacication*. Edinburgh: Edinburgh University Press.
-
-- Rochlin, Jim. 2011. "Plan Colombia and the Revolution in Military Affairs: The Demise of the FARC." *Review of International Studies* 37 (2): 715–40.
-- Rodrigues, Robson. 2014. "The Dilemmas of Pacication: News of War and Peace in the 'Marvelous City'." *Stability: International Journal of Security & Development* 3 (1): 1–16.
-- Roldán, Mary. 2002. *Blood and Fire. La Violencia in Antioquia, Colombia (1946–1953).* Durham, NC: Duke University Press.
-- Rose, R. S. 2005. *The Unpast: Elite Violence and Social Control in Brazil, 1954–2000*. Ohio: University of Ohio Press.
-- Saborio, Sebastian. 2013. "The Pacication of the Favelas: Mega Events, Global Competitiveness and the Neutralization of Marginality." *Socialist Studies/ Études Socialistes* 9 (2): 130–45.
-- Sotomayor Velázquez, Arturo C. 2014. *The Myth of the Democratic Peacekeeper. Civil-Military Relations and the United Nations*. Baltimore, MD: Johns Hopkins University Press.
-- Suska, Marta-Laura. 2015. *Recommendations for Two Violence-Reducing Policing Programs in Brazil: The Pacication Police Unit in Rio de Janeiro and the Pact for Life in Recife*. BPC Policy Brief 5/7. http://bricspolicycenter.org/homolog/uploads/trabalhos/6986/doc/2110268255.pdf (last accessed November 20, 2017).
-- Swanson, Kate. 2013. "Zero Tolerance in Latin America: Punitive Paradox in Urban Policy Mobilities." *Urban Geography* 34 (7): 972–98.
-- The US Army/Marine Corps. 2006. *Counterinsurgency Field Manual FM 3-24*. Chicago, IL: University of Chicago Press.
-- Tickner, Arlene. 2016. "Associated Dependent Security Cooperation: Colombia and the United States." In *The Global Making of Policing: Postcolonial Perspectives*, edited by Jana Hönke and Markus-Michael Müller, 96–113. London: Routledge.
-- Turner, Mandy. 2014. "Peacebuilding as Counterinsurgency in the Occupied Palestinian Territory." *Review of International Studies* 41 (1): 73–98.
-- Ucko, David. 2009. *The New Counterinsurgency Era: Transforming the U. S. Military for Modern Wars.* Baltimore, MD: Johns Hopkins University Press.
-- United Nations (UN). 2015. *13th United Nations Congress on Crime Prevention and Criminal Justice*. Meetings Coverage. http://www.un.org/en/events/crimecongress2015/pdf/pressrelease/dpimc7en.pdf.
-- Wall, Tyler, Parastou Saberi, and Will Jackson. 2016a. *Destroy, Build, Secure: Readings on Pacication*. Ottawa: Red Quill Books.
-- Wall, Tyler, Parastou Saberi, and Will Jackson. 2016b. "Introduction." In *Destroy, Build, Secure: Readings on Pacication*, edited by Tyler Wall, Parastou Saberi, and Will Jackson, 5–12. Ottawa: Red Quill Books.
-
-## Conclusion
-
-## ![](_page_256_Picture_0.jpeg)
-
-#### CHAPTER 10
-
-## Conclusion: Rethinking Police Abuse in Contemporary Democracies
-
-## *Michelle D. Bonner*
-
-The police shooting of Michael Brown in Ferguson, Missouri in 2014 captured international media attention in part because the incident raises many questions about the denition of police abuse and its uncomfortable relationship with democracy. As we have seen throughout this book, Michael Brown's death is not an isolated event or a reection of a stage of democratization. Police abuse exists in all democracies and it challenges scholars, including political scientists, to rethink how our concept of democracy is changed by its persistence. This book has aimed to initiate this discussion by focusing on the key concepts of citizenship, accountability, and socioeconomic (in)equality. The chapters have utilized different subeld approaches and methodologies, drawing on case studies from ve continents, in order to reveal similarities and open up new questions in need of more research. In this nal chapter, I summarize our ndings and offer a few, but by no means exhaustive, ways to move forward.
-
-## citizenshiP
-
-We began the book with the concept of citizenship. Political scientists have long studied citizens' democratic rights through examinations of constitutions, laws, and international human rights agreements. Ideally, national and international courts enforce these rights, making the judiciary another important area of study in political science. Yet, as we have seen in this book the police dene the experience of citizenship and its boundaries for many people. The chapters in this volume examined the impact of police abuse on select citizens' experience of belonging and rights in countries as diverse as France, Argentina, India, and Canada. The chapters reveal how police segregate citizens into those who belong and deserve rights, and those who do not belong and are a threat. Police often identify those who do not belong based on their ethnic background, race, class, sexual orientation, gender, political orientation, or other marginalized identity.
-
-In Schneider's chapter, we saw how the complicated legacies and transformations of colonialism in France have shaped police abuse targeted at the Algerian or "immigrant" others. In contrast, the chapters by Seri and Lokaneeta and Dupuis-Déri draw our attention to how political economy (also discussed in the last section) and police abuse intersect in particular ways to shape citizenship. The cases of Argentina and India reveal that those marginalized from the economy (the poor, racialized, lower caste, migrants, etc.) are particularly targeted by police abuse, despite all the legal and constitutional gains these groups have made with democracy. Indeed, even in an established democracy such as Canada, Dupuis-Déri nds that police abuse is selectively used to silence certain political perspectives, particularly anarchist or anticapitalist perspectives. In all these cases, police actions are not necessarily illegal; they often fall within the realm of police discretion.
-
-Thus together these chapters highlight that, for many people, police dene their lived experience of citizenship, often more so than do laws or the courts. Police ofcers' selective abuse affects some citizens' experience of their rights to: mobility, security, freedom of association, protest, free speech, as well as their trust in the state and their sense of belonging to the larger political community and to a democracy. As Seri and Lokaneeta explain, police abuse can create pockets of authoritarianism within democracy where some citizens experience "violent exclusions." Schneider suggests that such violent exclusions could potentially contribute to violent responses from those excluded, as exemplied by riots or even terrorist attacks. Thus taking police abuse seriously is fundamental to democracy.
-
-Certainly more research is needed on how best to integrate police abuse into our understanding of democratic citizenship. While police discretion may be needed to facilitate the ability of police to act in varying and potentially volatile situations, greater clarity is needed on the boundaries of this discretion that considers their implications for democratic inclusion and rights. There are many more marginalized people in democracies around the world who face persistent and disproportionate police abuse. We need to better understand its origins, the resulting practices, and consequences for citizenship for each type of identity to see how they may be similar or differ. Such studies would help provide the groundwork to develop a more robust concept of the place of policing in democracy, as well as what constitutes police abuse of citizenship rights and status and why.
-
-## Account Ability
-
-The rst section of the book established one of the most fundamental challenges police abuse poses for democracy: its impact on selective people's experience of democratic citizenship. The second section of the book addresses the logical liberal democratic response to the problem of police abuse, accountability. That is, no democracy promises to end wrongdoing on the part of state actors. However, democracy does promise to place signicant checks on state power. The chapters by Bonner, Squillacote and Feldman, and Davenport, Mc Dermott and Armstrong explore the possibilities and limitations of dominant liberal democratic conceptualizations of accountability as they apply to the case of police abuse.
-
-In all three chapters, we nd that constitutional and judicial oversight is an important but insufcient check on police abuse. Bonner shows how, in the case of Chile, dominant narratives that dene accountability as legal checks on police abuse aim to reinforce police legitimacy and ofcers' need for legal predictability. This denition of accountability, and its associated goals, marginalizes alternative narratives of accountability that prioritize its need to provide equality of the rule of law and ensure non-repetition. Thus, Bonner nds that clarifying the primary purpose of accountability in democracy is central to curbing police abuse.
-
-Similarly, Squillacote and Feldman, drawing on political theory and examples from the United States, also nd the judiciary to be an insuf cient check on police abuse. Instead, they argue that the police need to be better understood as an administrative agent, which shapes the type of accountability that will most likely ensure non-repetition. This status then highlights the need for what they call "agonistic surveillance" by citizens and civil society organizations, such as Cop Watch. In this manner the perpetrators who "violently exclude" some people from citizenship (see Seri and Lokaneeta, Chapter 3), can be held accountable by those targeted (and others), allowing the victims to reclaim their inclusion in democracy.
-
-Finally, Davenport, Mc Dermott, and Armstrong, using an experimental method and a case study of the United States, show how citizens' perception of police actions as wrongdoing (or not) is inuenced by the identities of the perpetrators and victims—in their case by the racial identities of both. Complicating both narratives of accountability and social movements as solutions, Davenport, Mc Dermott, and Armstrong's chapter highlights the signicant challenges to be overcome to reduce police abuse against members of the marginalized groups discussed in Chapters 1–3 (as well as other chapters). As Bonner and Davenport, Mc Dermott, and Armstrong note in their chapters, wrongdoing needs to be recognized as such for accountability to be deemed necessary. How to overcome racial bias in the identication of wrongdoing is an important challenge that perhaps new ways of thinking about democratic accountability can address.
-
-In this manner, introducing police abuse into political science discussions of democratic accountability opens up new questions. Beyond the issues raised in the chapters, more research is needed on the impact of other identity-based biases on observers' attribution of responsibility, as well as on the choices made by police and the institutions that hold them accountable. Given the limits of institutional accountability, we also need to better understand the role of the media in replicating observer bias or dominant narratives of accountability; or, alternatively, its potential role as an additional site of agonistic surveillance or advocate for broader denitions of accountability. We need to further explore how civil society organizations can be integrated into police reform projects without losing their strengths as agonistic and independent actors. Yet it is also possible that accountability is only a partial answer.
-
-## socioeconomic (in)e QuAlity
-
-Certainly the liberal democratic solution of accountability is an important yet, as we have seen, very challenging means of reducing police abuse and dening its acceptable limits in democracy. These challenges are highlighted further when we shift our attention to questions of political economy. As discussed in the introduction, police abuse has always played an important economic function in democracy. Indeed, studies in political economy help us to better understand police abuse as intimately linked to particular political-economic goals. Different types of economic regimes require different types of policing and this, in turn, helps explain selective "violent exclusions" and some of the weaknesses of democratic institutions of accountability. From this perspective then, reducing police abuse in democracy requires rethinking the relationship between political economy and democracy.
-
-This point is powerfully illustrated in Clarke's chapter on South Africa. By comparing pre- and post-apartheid policing, Clarke highlights the important continuities in police abuse. She reveals police abuse as less the result of institutional failures of police reform or accountability (although these are challenges), but rather the choice of political leaders to defend neoliberal reforms through police abuse. This is most visibly seen in police repression of strikes and other protests by those marginalized by and challenging neoliberalism. It is also seen in approaches to crime control. For example, rather than reduce crime through socioeconomic measures, as advocated by most criminologists, political leaders have actively advocated police abuse. Socioeconomic remedies run counter to neoliberal economic policies.
-
-Whereas Clarke emphasizes the continuities in police abuse to defend socioeconomic inequality within apartheid and neoliberal post-apartheid South Africa, Müller draws our attention to transnational dynamics. In particular, he connects police abuse to broader global learning on how to make police abuse targeted at the (post)colonized "other" compatible with democracy. He does so by tracing the origins of the much lauded Pacication Police Units (UPP) in Brazil from (post)colonial practices of pacication, to learning from Colombia's counterinsurgency practices, to appropriating liberal counterinsurgency approaches from Brazil's participation in the UN's mission in Haiti. Müller nds that these newly rened techniques of police counterinsurgency have enabled Brazil to continue police abuse as a means to control certain segments of society, particularly those living in *favelas* (shantytowns) near the richer neighborhoods of Rio de Janeiro, while maintaining a democratic image consistent with a world-class city hosting the 2014 FIFA World Cup and 2016 Olympic Games. Moreover, the "democratic" UPP pacication efforts have contributed to increased land values and thus the pushing out of "undesirables," in favor of those better able to participate in the market. As Müller notes, policing is about maintaining a particular order. In the current international context, the order protected is one that maintains socioeconomic inequality in support of a neoliberal market.
-
-Together, Clarke and Müller draw our attention to socioeconomic (in)equalities as not only a problem of citizenship (discussed in the rst section of this book), but as a problem of political economy. By shifting the focus, we move police abuse from an independent variable (that erodes citizenship) to a dependent variable (affected by political economy). If certain political economies, notably neoliberalism, result in persistent or possibly even increased police abuse, then the solutions to reducing police abuse are no longer located exclusively in improving police accountability. In this case we need to look more closely at the compatibility of some political-economic models with democracy over others. Such a project challenges minimalist denitions of democracy but also forces us to take more seriously the place of police abuse in broader denitions of democracy.
-
-Of course police abuse in democracy can be studied in political science from other angles than citizenship, accountability, and socioeconomic (in)equality. For example, it can be studied from the perspective of public policy, elections, or ideologies, to name only a few. What is important is that police abuse be included, not in terms of a technical x, but in our very conceptualization of democracy. Such studies will help us work to mend the gap between formal democracy and its lived experience, as well as point to important avenues toward improving its quality.
-
-## APPendix A
-
-### *Descriptive Statistics*
-
-| Variable | Levels | n | % | ∑ % |
-|----------|-----------------------------|-----|------|-------|
-| ppagecat | 18–24 | 52 | 11.6 | 11.6 |
-| | 25–34 | 52 | 11.6 | 23.3 |
-| | 35–44 | 82 | 18.3 | 41.6 |
-| | 45–54 | 93 | 20.8 | 62.4 |
-| | 55–64 | 99 | 22.1 | 84.6 |
-| | 65–74 | 47 | 10.5 | 95.1 |
-| | 75+ | 22 | 4.9 | 100.0 |
-| | Under 18 | 0 | 0.0 | 100.0 |
-| ppagect4 | 18–29 | 79 | 17.7 | 17.7 |
-| | 30–44 | 107 | 23.9 | 41.6 |
-| | 45–59 | 147 | 32.9 | 74.5 |
-| | 60+ | 114 | 25.5 | 100.0 |
-| | Under 18 | 0 | 0.0 | 100.0 |
-| PPEDUC | Not asked | 0 | 0.0 | 0.0 |
-| | REFUSED | 0 | 0.0 | 0.0 |
-| | No formal education | 0 | 0.0 | 0.0 |
-| | 1st, 2nd, 3rd, or 4th grade | 0 | 0.0 | 0.0 |
-| | 5th or 6th grade | 0 | 0.0 | 0.0 |
-
-| Variable | Levels | n | % | ∑ % |
-|----------|---------------------------------------------------------------------|-----|-------|-------|
-| | 7th or 8th grade | 5 | 1.1 | 1.1 |
-| | 9th grade | 7 | 1.6 | 2.7 |
-| | 10th grade | 14 | 3.1 | 5.8 |
-| | 11th grade | 11 | 2.5 | 8.3 |
-| | 12th grade NO DIPLOMA | 10 | 2.2 | 10.5 |
-| | HIGH SCHOOL GRADUATE—high school<br>DIPLOMA or the equivalent (GED) | 135 | 30.2 | 40.7 |
-| | Some college, no degree | 102 | 22.8 | 63.5 |
-| | Associate degree | 35 | 7.8 | 71.4 |
-| | Bachelors degree | 77 | 17.2 | 88.6 |
-| | Masters degree | 42 | 9.4 | 98.0 |
-| | Professional or Doctorate degree | 9 | 2.0 | 100.0 |
-| PPEDUCAT | <high school<="" td=""><td>47</td><td>10.5</td><td>10.5</td></high> | 47 | 10.5 | 10.5 |
+$$P(Prot|Pr = W, Po = B, Ob = W) \**p* 4710.510.5 | 47 | 10.5 | 10.5 |
 | | High school | 135 | 30.2 | 40.7 |
 | | Some college | 137 | 30.6 | 71.4 |
 | | Bachelor's degree+ | 128 | 28.6 | 100.0 |
@@ -2532,8 +1712,10 @@ Of course police abuse in democracy can be studied in political science from oth
 | | Yes | 349 | 78.1 | 100.0 |
 | PPHOUSE | Not asked | 0 | 0.0 | 0.0 |
 | | REFUSED | 0 | 0.0 | 0.0 |
-| | A one-family house detached from any other<br>house | 300 | 67.1 | 67.1 |
-| | A one-family house attached to one or more<br>houses | 43 | 9.6 | 76.7 |
+| | A one-family house detached from any other
+house | 300 | 67.1 | 67.1 |
+| | A one-family house attached to one or more
+houses | 43 | 9.6 | 76.7 |
 | | A building with 2 or more apartments | 82 | 18.3 | 95.1 |
 | | A mobile home | 20 | 4.5 | 99.5 |
 | | Boat, RV, van, etc. | 2 | 0.5 | 100.0 |
@@ -2595,7 +1777,8 @@ Of course police abuse in democracy can be studied in political science from oth
 | | Pacic | 50 | 11.2 | 100.0 |
 | PPRENT | Not asked | 0 | 0.0 | 0.0 |
 | | REFUSED | 0 | 0.0 | 0.0 |
-| | Owned or being bought by you or someone<br>in your household | 300 | 67.1 | 67.1 |
+| | Owned or being bought by you or someone
+in your household | 300 | 67.1 | 67.1 |
 | | Rented for cash | 134 | 30.0 | 97.1 |
 | | Occupied without payment of cash rent | 13 | 2.9 | 100.0 |
 | PPSTATEN | Not asked | 0 | 0.0 | 0.0 |
@@ -2662,7 +1845,8 @@ Of course police abuse in democracy can be studied in political science from oth
 | | Refused | 0 | 0.0 | 0.0 |
 | | Working—as a paid employee | 215 | 48.1 | 48.1 |
 | | Working—self-employed | 27 | 6.0 | 54.1 |
-| | Not working—on temporary layoff from a<br>job | 6 | 1.3 | 55.5 |
+| | Not working—on temporary layoff from a
+job | 6 | 1.3 | 55.5 |
 | | Not working—looking for work | 37 | 8.3 | 63.8 |
 | | Not working—retired | 68 | 15.2 | 79.0 |
 | | Not working—disabled | 53 | 11.9 | 90.8 |
@@ -2687,7 +1871,8 @@ Of course police abuse in democracy can be studied in political science from oth
 | | Conservative | 83 | 18.7 | 96.2 |
 | | Extremely conservative | 17 | 3.8 | 100.0 |
 | XREL1 | Baptist-any denomination | 122 | 27.5 | 27.5 |
-| | Protestant (e.g., Methodist, Lutheran,<br>Presbyterian, Episcopal) | 93 | 20.9 | 48.4 |
+| | Protestant (e.g., Methodist, Lutheran,
+Presbyterian, Episcopal) | 93 | 20.9 | 48.4 |
 | | Catholic | 62 | 14.0 | 62.4 |
 | | Mormon | 1 | 0.2 | 62.6 |
 | | Jewish | 12 | 2.7 | 65.3 |
@@ -2766,62 +1951,231 @@ All were spared further damage and bloodshed because everyone was forced to disb
 
 #### *Response Questions*
 
-| 1. | Which group do you find most responsible for escalating the conflict in this<br>scenario? | | | | | |
+| 1. | Which group do you find most responsible for escalating the conflict in this
+scenario? | | | | | |
 |----------------------|-------------------------------------------------------------------------------------------|---------------------------|-----------------------------|-------------------------|------------------|--------------------|
-| | 1234567<br>Protesters | | | Police | | |
-| 2. | How strongly do you support stricter laws to enforce drivers to carry car<br>insurance? | | | | | |
-| | 1234567<br>Very strongly | | Not strongly | | | |
+| | 1234567
+Protesters | | | Police | | |
+| 2. | How strongly do you support stricter laws to enforce drivers to carry car
+insurance? | | | | | |
+| | 1234567
+Very strongly | | Not strongly | | | |
 | 3. | Do you think the police took the proper action in trying to stop the protesters? | | | | | |
-| | 1234567<br>Yes | | | No | | |
+| | 1234567
+Yes | | | No | | |
 | 4. | Generally speaking, do you usually think of yourself as a: | | | | | |
-| Strong<br>Republican | Weak<br>Republican | Independent<br>Republican | Pure<br>Independent | Independent<br>Democrat | Weak<br>Democrat | Strong<br>Democrat |
+| Strong
+Republican | Weak
+Republican | Independent
+Republican | Pure
+Independent | Independent
+Democrat | Weak
+Democrat | Strong
+Democrat |
 | 5. | Do you oppose or support providing special college scholarships for blacks? | | | | | |
-| | Strongly favor | Favor | Neither Favor<br>nor oppose | Oppose | | Strongly<br>oppose |
+| | Strongly favor | Favor | Neither Favor
+nor oppose | Oppose | | Strongly
+oppose |
 
 ## index
 
-| A<br>accountability, 2–5, 9, 13, 16–19,<br>22, 23, 32, 45, 55, 66, 68, 71,<br>73, 74, 84, 114–129, 136, 138,<br>139, 141, 142, 144, 146, 147,<br>150–155, 157, 166, 167, 169,<br>175, 180, 187, 188, 197, 200,<br>203, 205, 206, 208, 214, 223,<br>230, 231, 251, 253–256<br>discursive, 17, 117, 124, 167<br>judicial, 17, 119, 125, 136, 169<br>perceived, 165, 179 | Amnesty International, 50, 123, 127,<br>230<br>anarchists/anarchism, 83, 86–89, 101<br>apartheid, 20, 195–206, 208, 210–<br>212, 214–217, 255<br>Arabs, 20, 32, 41, 42, 45, 48<br>Argentina, 3, 14, 56–58, 60, 62–66,<br>68–72, 74–77, 215, 252<br>Aubervilliers, 44, 47<br>authoritarianism, competitive, 16 |
+| A
+accountability, 2–5, 9, 13, 16–19,
+22, 23, 32, 45, 55, 66, 68, 71,
+73, 74, 84, 114–129, 136, 138,
+139, 141, 142, 144, 146, 147,
+150–155, 157, 166, 167, 169,
+175, 180, 187, 188, 197, 200,
+203, 205, 206, 208, 214, 223,
+230, 231, 251, 253–256
+discursive, 17, 117, 124, 167
+judicial, 17, 119, 125, 136, 169
+perceived, 165, 179 | Amnesty International, 50, 123, 127,
+230
+anarchists/anarchism, 83, 86–89, 101
+apartheid, 20, 195–206, 208, 210–
+212, 214–217, 255
+Arabs, 20, 32, 41, 42, 45, 48
+Argentina, 3, 14, 56–58, 60, 62–66,
+68–72, 74–77, 215, 252
+Aubervilliers, 44, 47
+authoritarianism, competitive, 16 |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| political, 120, 125, 166<br>African Americans, 1, 22, 166, 168,<br>175, 176, 183, 186<br>African National Congress (ANC),<br>197, 204–206, 209–215, 217<br>Afrikaans/Afrikanerisation, 203<br>agonistic surveillance, 19, 135, 136,<br>149, 150, 152, 254<br>Algeria, 32–35, 37–39, 42, 47, 48, 51<br>Algerians, 3, 15, 20, 32–39, 47<br>Algerian War, 34, 37, 40, 45, 49 | B<br>Balibar, Etienne, 56<br>banlieue (suburb), 49<br>Bardeche, Maurice, 40<br>Barthélomy, Victor, 40<br>Bataclan Theater, 49<br>Baylot, Jean, 34<br>La Belle Epoque, 49<br>Benhabib, Seyla, 15,<br>59<br>Bentounsi, Amal, 50<br>Beurs, 48 |
+| political, 120, 125, 166
+African Americans, 1, 22, 166, 168,
+175, 176, 183, 186
+African National Congress (ANC),
+197, 204–206, 209–215, 217
+Afrikaans/Afrikanerisation, 203
+agonistic surveillance, 19, 135, 136,
+149, 150, 152, 254
+Algeria, 32–35, 37–39, 42, 47, 48, 51
+Algerians, 3, 15, 20, 32–39, 47
+Algerian War, 34, 37, 40, 45, 49 | B
+Balibar, Etienne, 56
+banlieue (suburb), 49
+Bardeche, Maurice, 40
+Barthélomy, Victor, 40
+Bataclan Theater, 49
+Baylot, Jean, 34
+La Belle Epoque, 49
+Benhabib, Seyla, 15,
+59
+Bentounsi, Amal, 50
+Beurs, 48 |
 
-| bidonvilles, 43, 44<br>Black Lives Matter, 143, 144, 153,<br>158, 240<br>Bompard, Jacques, 40<br>Bonelli, Laurent, 45<br>Bousquet, Pierre, 40<br>Boutih, Malek, 49<br>Bratton, William, 145<br>Brazil, 21, 221–226, 230–233, 235,<br>236, 238, 240, 255<br>Brigade des aggressions et violences<br>(BAV), 34, 39 | colonialism, 20, 61, 252<br>neo, 20–22<br>post, 20–22, 65, 66, 84, 221–224,<br>226, 239, 240, 255<br>Communism/communist/Communist<br>Party, 34, 36, 46, 83, 124<br>community policing, 19, 143–145,<br>151<br>Convergence des luttes anticapitalistes<br>(CLAC), 88, 96<br>Coppedge, Michael, 6, 74<br>Cop Watch, 19, 136, 149, 150, |
+| bidonvilles, 43, 44
+Black Lives Matter, 143, 144, 153,
+158, 240
+Bompard, Jacques, 40
+Bonelli, Laurent, 45
+Bousquet, Pierre, 40
+Boutih, Malek, 49
+Bratton, William, 145
+Brazil, 21, 221–226, 230–233, 235,
+236, 238, 240, 255
+Brigade des aggressions et violences
+(BAV), 34, 39 | colonialism, 20, 61, 252
+neo, 20–22
+post, 20–22, 65, 66, 84, 221–224,
+226, 239, 240, 255
+Communism/communist/Communist
+Party, 34, 36, 46, 83, 124
+community policing, 19, 143–145,
+151
+Convergence des luttes anticapitalistes
+(CLAC), 88, 96
+Coppedge, Michael, 6, 74
+Cop Watch, 19, 136, 149, 150, |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Broken Windows, 144–146, 150<br>Brown, Michael, 1, 3, 23, 135, 153, | 152–154, 156–158, 254<br>Correpi, 55, 69–71 |
-| 240, 251<br>Bulacio, Walter, 69 | corruption, 4, 45, 66, 72, 148, 200,<br>205, 208, 217 |
+| Broken Windows, 144–146, 150
+Brown, Michael, 1, 3, 23, 135, 153, | 152–154, 156–158, 254
+Correpi, 55, 69–71 |
+| 240, 251
+Bulacio, Walter, 69 | corruption, 4, 45, 66, 72, 148, 200,
+205, 208, 217 |
 | | Coubali, Amedy, 50 |
-| C | counterinsurgency, 21, 33, 35, 221,<br>224–226, 228–235, 240, 255 |
+| C | counterinsurgency, 21, 33, 35, 221,
+224–226, 228–235, 240, 255 |
 | Canada, 21, 82, 83, 85, 86, 89–93, | Crime, 4, 7, 20, 22, 41, 42, 45, |
-| 97, 99, 100, 215, 252<br>Carabineros, 113, 119–122, 124–127,<br>129–133 | 46, 49, 63, 70, 84, 86, 90, 91,<br>95, 120, 123, 128, 143–146,<br>150, 155, 196–200, 202–208, |
+| 97, 99, 100, 215, 252
+Carabineros, 113, 119–122, 124–127,
+129–133 | 46, 49, 63, 70, 84, 86, 90, 91,
+95, 120, 123, 128, 143–146,
+150, 155, 196–200, 202–208, |
 | Le Carillon bar, 49 | 215–217, 227, 238, 255 |
-| La Cas Nostra Pizzeria, 49<br>Casspir, 199 | criminalization, 15, 56, 62, 94<br>tough on, 20, 49, 196, 197, 204, |
+| La Cas Nostra Pizzeria, 49
+Casspir, 199 | criminalization, 15, 56, 62, 94
+tough on, 20, 49, 196, 197, 204, |
 | Charonne, 36 | 206–208, 212, 215, 216 |
 | Chicago, 143 | violent, 196, 197 |
 | Cingranelli-Richards Index, 11 | white-collar, 4 |
-| citizenship, 5, 6, 9, 13–16, 19, 20, 22,<br>23, 32, 48, 51, 56–63, 66, 67,<br>69, 70, 75, 76, 81, 84, 89, 91, | criminology, 255 |
+| citizenship, 5, 6, 9, 13–16, 19, 20, 22,
+23, 32, 48, 51, 56–63, 66, 67,
+69, 70, 75, 76, 81, 84, 89, 91, | criminology, 255 |
 | 115, 149, 153, 154, 156, 157, | D |
 | 222, 237, 251–254, 256 | Dahl, Robert, 6, 140 |
 | participation, 13, 14, 156 | Déat, Marcel, 40 |
-| rights, 6, 15, 32, 56–58, 60, 61, 75,<br>76, 81, 84, 91, 154, 253 | De Gaulle, Charles, 37, 39<br>democracy, 1–23, 31, 51, 56, 58, 61, |
+| rights, 6, 15, 32, 56–58, 60, 61, 75,
+76, 81, 84, 91, 154, 253 | De Gaulle, Charles, 37, 39
+democracy, 1–23, 31, 51, 56, 58, 61, |
 | civilian review boards, 148 | 62, 64–66, 69, 74, 76, 81, 82, |
 | civil rights movement, 165, 169 | 100, 102, 114–119, 128, 129, |
 | Coalition contre la répression et les | 136–139, 142, 143, 151, 157, |
-| abus policiers (CRAP), 96, 100<br>Colombia, 21, 222, 226–229, 235, | 166, 167, 188, 196, 203, 204,<br>208, 211, 214–216, 223, 226, |
+| abus policiers (CRAP), 96, 100
+Colombia, 21, 222, 226–229, 235, | 166, 167, 188, 196, 203, 204,
+208, 211, 214–216, 223, 226, |
 ## | 237, 240, 241, 255 | 229–231, 251–256 |
 
-| electoral, 5, 9, 10<br>liberal, 5, 6, 9, 10, 13, 16, 19, 61,<br>102, 115, 211, 216<br>procedural, 6, 21 | Guet des activités et des mouve<br>ments marginaux et anarchistes<br>(GAMMA), 95–97 |
+| electoral, 5, 9, 10
+liberal, 5, 6, 9, 10, 13, 16, 19, 61,
+102, 115, 211, 216
+procedural, 6, 21 | Guet des activités et des mouve
+ments marginaux et anarchistes
+(GAMMA), 95–97 |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| radical, 211<br>ratings, 11<br>violent, 21, 195, 196, 214, 223<br>democratic policing, 5, 7, 12, 20, 21,<br>222, 226, 240<br>democratization school, 223<br>Doriat, Jacques, 40<br>Dubber, Markus, 62, 137<br>Dufraisse, André, 40<br>Duprat, François, 40 | H<br>Habitations à Loyer Modéré (HLMs),<br>35, 44<br>Haiti, 21, 82, 226, 230, 231, 233,<br>235, 237, 241, 255<br>Hinzpeter, Rodrigo (law), 122, 126<br>Holeindre, Roger, 40<br>homelands, 200, 216<br>human rights, 3, 6, 7, 10, 11, 50, 56,<br>58, 64–71, 73, 74, 77, 83, 92,<br>115, 118, 123, 125–128, 132, |
-| F<br>Fassin, Didier, 45<br>favelas, 222, 233, 235, 237–239, 241, | 197, 204, 205, 207, 208, 226,<br>229, 231, 233, 238, 252 |
-| 242, 256<br>foreigners/immigrants/migrants, 15,<br>20, 37–48, 63–65, 67, 91, 198,<br>207, 211, 238, 252<br>Foucault, Michel, 2, 57<br>France, 3, 15, 20, 32, 33, 37–39,<br>41, 42, 45, 47, 48, 50, 56, 215,<br>252 | I<br>India, 14, 55–58, 60, 62–68, 70–78,<br>215, 252<br>inequality, socioeconomic, 19, 20,<br>215, 216, 223, 256<br>insecurity, 15, 42, 46, 210, 211, 223 |
+| radical, 211
+ratings, 11
+violent, 21, 195, 196, 214, 223
+democratic policing, 5, 7, 12, 20, 21,
+222, 226, 240
+democratization school, 223
+Doriat, Jacques, 40
+Dubber, Markus, 62, 137
+Dufraisse, André, 40
+Duprat, François, 40 | H
+Habitations à Loyer Modéré (HLMs),
+35, 44
+Haiti, 21, 82, 226, 230, 231, 233,
+235, 237, 241, 255
+Hinzpeter, Rodrigo (law), 122, 126
+Holeindre, Roger, 40
+homelands, 200, 216
+human rights, 3, 6, 7, 10, 11, 50, 56,
+58, 64–71, 73, 74, 77, 83, 92,
+115, 118, 123, 125–128, 132, |
+| F
+Fassin, Didier, 45
+favelas, 222, 233, 235, 237–239, 241, | 197, 204, 205, 207, 208, 226,
+229, 231, 233, 238, 252 |
+| 242, 256
+foreigners/immigrants/migrants, 15,
+20, 37–48, 63–65, 67, 91, 198,
+207, 211, 238, 252
+Foucault, Michel, 2, 57
+France, 3, 15, 20, 32, 33, 37–39,
+41, 42, 45, 47, 48, 50, 56, 215,
+252 | I
+India, 14, 55–58, 60, 62–68, 70–78,
+215, 252
+inequality, socioeconomic, 19, 20,
+215, 216, 223, 256
+insecurity, 15, 42, 46, 210, 211, 223 |
 | Freedom House, 10, 11 | |
-| G<br>Gang(s), 120, 222, 227, 231–234<br>garde à vue, 48<br>Garges-lés-Gonesse, 47<br>Gaucher, Roland, 40<br>General Salan, 39<br>Giscard d'Estaing, Valéry, 41<br>Green Party, 48<br>Growth, Employment and<br>Redistribution Program (GEAR), | J<br>judiciary, 16, 17, 50, 72, 75, 78, 113,<br>115, 123, 124, 128, 142, 252, 254<br>juvenile offenders, 42<br>K<br>Khosokravar, Farhad, 50<br>King, Rodney, 179<br>L |
-| 209, 210 | legitimacy, police, 18, 117, 123, 128,<br>205, 253 |
+| G
+Gang(s), 120, 222, 227, 231–234
+garde à vue, 48
+Garges-lés-Gonesse, 47
+Gaucher, Roland, 40
+General Salan, 39
+Giscard d'Estaing, Valéry, 41
+Green Party, 48
+Growth, Employment and
+Redistribution Program (GEAR), | J
+judiciary, 16, 17, 50, 72, 75, 78, 113,
+115, 123, 124, 128, 142, 252, 254
+juvenile offenders, 42
+K
+Khosokravar, Farhad, 50
+King, Rodney, 179
+L |
+| 209, 210 | legitimacy, police, 18, 117, 123, 128,
+205, 253 |
 
-| Le Pen, Jean-Marie, 41<br>Lévy, René, 44<br>M<br>Macron, Emmanuel, 51<br>Marcellin-Fontanet, 41 | O<br>October 17, 1961, 35, 37<br>Operation Orion, 227–229, 236<br>Order Nouveau, 40, 41<br>Organisation Armée Secrete (OAS),<br>36, 37, 39, 40 |
+| Le Pen, Jean-Marie, 41
+Lévy, René, 44
+M
+Macron, Emmanuel, 51
+Marcellin-Fontanet, 41 | O
+October 17, 1961, 35, 37
+Operation Orion, 227–229, 236
+Order Nouveau, 40, 41
+Organisation Armée Secrete (OAS),
+36, 37, 39, 40 |
 |----------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
 | Marikana, 195, 196, 198, 209, 211 | |
-| Marshall, T. H., 59<br>Media, 3, 10, 17, 18, 36, 56–58,<br>67–69, 71, 83, 85, 88, 96–98, | P<br>Pacication, 21, 221, 222, 224–226,<br>228–240, 255, 256 |
-| 102, 117–119, 121, 123, 124,<br>128, 144, 150, 152, 168, 178,<br>212, 215, 233, 251, 254<br>internet, 10 | Pacication Police Unit/Unidade de<br>Polícia Pacicadora (UPP), 221,<br>222, 225, 226, 236–240, 255,<br>256 |
+| Marshall, T. H., 59
+Media, 3, 10, 17, 18, 36, 56–58,
+67–69, 71, 83, 85, 88, 96–98, | P
+Pacication, 21, 221, 222, 224–226,
+228–240, 255, 256 |
+| 102, 117–119, 121, 123, 124,
+128, 144, 150, 152, 168, 178,
+212, 215, 233, 251, 254
+internet, 10 | Pacication Police Unit/Unidade de
+Polícia Pacicadora (UPP), 221,
+222, 225, 226, 236–240, 255,
+256 |
 | journalism, 150 | Papon, Maurice, 33, 34 |
 | newspapers, 119, 178 | Parti Popular Français, 40 |
 | television, 144 | Penal Code and Code of Criminal |
@@ -2843,7 +2197,9 @@ All were spared further damage and bloodshed because everyone was forced to disb
 | Nazi Occupation, 32, 33 | brutality, 2, 42, 96, 99, 152, 173, |
 | Nazis, 32 | 199, 214, 215 |
 | Neocleous, Mark, 2, 8, 239 | excesses, 4, 73 |
-| Neoliberalism/neoliberal, 20, 22, 56,<br>59, 196, 197, 199, 208, 209, | killings, 18, 22, 57, 58, 64, 66, 68,<br>71, 125, 136, 153, 209 |
+| Neoliberalism/neoliberal, 20, 22, 56,
+59, 196, 197, 199, 208, 209, | killings, 18, 22, 57, 58, 64, 66, 68,
+71, 125, 136, 153, 209 |
 | 211, 212, 215, 216, 226, 240, | knowledge, 18, 102 |
 | 255, 256 | misconduct, 135, 143, 146–148, |
 | New York, 93, 135, 144–146, 148, | 150, 152, 154 |
@@ -2851,14 +2207,46 @@ All were spared further damage and bloodshed because everyone was forced to disb
 | | 139, 144–150, 152, 155, 156, |
 ## | | |
 
-| 196, 197, 199, 204, 206, 208,<br>215–217, 254, 255<br>repression, 3, 15, 21, 22, 47, 70,<br>82, 83, 87–89, 96, 100, 166,<br>255<br>science, 23<br>trust in, 19, 64<br>violence, 3, 4, 7, 32, 47, 50, 63,<br>118, 136, 141, 144, 147, 150,<br>153, 154, 158, 169, 198<br>political science, 2, 5, 8, 9, 12–14,<br>16, 17, 20, 23, 31, 81, 114, 115,<br>129, 136, 166, 170, 187, 196,<br>216, 223, 240, 252, 254, 256 | R<br>Race/blacks/racialization/racial bias.<br>See<br>proling<br>Reconstruction and Development<br>Programme (RDP), 209<br>riots, 31, 49, 253<br>rodeo, 46<br>Royal Canadian Mounted Police<br>(RCMP), 90<br>rule of law, 6, 7, 14, 16, 17, 42, 56,<br>65,<br>66, 73,<br>114–116, 124, 140,<br>214, 229–231, 233, 253 |
+| 196, 197, 199, 204, 206, 208,
+215–217, 254, 255
+repression, 3, 15, 21, 22, 47, 70,
+82, 83, 87–89, 96, 100, 166,
+255
+science, 23
+trust in, 19, 64
+violence, 3, 4, 7, 32, 47, 50, 63,
+118, 136, 141, 144, 147, 150,
+153, 154, 158, 169, 198
+political science, 2, 5, 8, 9, 12–14,
+16, 17, 20, 23, 31, 81, 114, 115,
+129, 136, 166, 170, 187, 196,
+216, 223, 240, 252, 254, 256 | R
+Race/blacks/racialization/racial bias.
+See
+proling
+Reconstruction and Development
+Programme (RDP), 209
+riots, 31, 49, 253
+rodeo, 46
+Royal Canadian Mounted Police
+(RCMP), 90
+rule of law, 6, 7, 14, 16, 17, 42, 56,
+65,
+66, 73,
+114–116, 124, 140,
+214, 229–231, 233, 253 |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Political Terror Scale, 11 | S |
 | Polity IV, 11 | Sartre, Jean-Paul, 37 |
 | polyarchy, 6, 21, 223 | Sayad, Abdelmalek, 38 |
 | Postel-Viney, André, 41 | security, 10, 21, 22, 35, 45, 46, 50, |
-| privatization, 200, 210, 211 | 60,<br>64, 65,<br>77, 83,<br>91, 92,<br>95, |
-| proling, 95 | 97,<br>99, 101, 102, 140, 170, 187, |
+| privatization, 200, 210, 211 | 60,
+64, 65,
+77, 83,
+91, 92,
+95, |
+| proling, 95 | 97,
+99, 101, 102, 140, 170, 187, |
 | criminal, 90–92, 97 | 197, 199–204, 206–208, 210– |
 | geographic, 90 | 212, 214–216, 222, 226–231, |
 | political, 14, 82–84, 89, 91, 93–97, | 233, 235–241, 252 |
@@ -2875,15 +2263,76 @@ All were spared further damage and bloodshed because everyone was forced to disb
 | demonstration, 88, 98 | South Africa, 3, 20, 21, 195–198, |
 | mobilization, 82 | 205, 206, 210–212, 214–217, |
 | public, 21, 22, 36 | 255 |
-| social, 89, 211 | South African Defense Force (SADF),<br>201 |
-| Q<br>Quebec, 83–89, 91, 92, 94–97, | South African Police (SAP)/South<br>African Police Services (SAPS),<br>198 |
+| social, 89, 211 | South African Defense Force (SADF),
+201 |
+| Q
+Quebec, 83–89, 91, 92, 94–97, | South African Police (SAP)/South
+African Police Services (SAPS),
+198 |
 | 100–103 | Stoléru, Lionel, 41 |
 | | Stop-and-frisk, 136, 145, 146, 188 |
 ## | | |
 
-| strikes, 42, 86, 89, 172, 196, 199,<br>209, 211–213, 255<br>Students, 2, 14, 42, 45, 65, 86, 98,<br>125, 199, 213<br>in Chile, 113, 118, 125<br>in Quebec, 100<br>Sûreté du Québec, 85, 90<br>surveillance, agonistic, 19, 135, 136,<br>149, 150, 152, 254<br>T | violence, 3, 4, 7, 14, 17, 32, 39, 42,<br>46, 47, 50, 58, 60–67, 69–71,<br>73–76, 84, 86–88, 116, 118,<br>120, 122–124, 135, 136, 138,<br>141, 143, 144, 147, 149, 150,<br>153, 154, 158, 167, 169, 196,<br>198, 199, 202, 205–207, 214,<br>222–224, 227–229, 232, 233<br>gender-based, 4<br>police, 4, 7, 32, 47, 50, 63, 118,<br>136, 141, 144, 147, 150, 153,<br>154, 158, 169, 198 |
+| strikes, 42, 86, 89, 172, 196, 199,
+209, 211–213, 255
+Students, 2, 14, 42, 45, 65, 86, 98,
+125, 199, 213
+in Chile, 113, 118, 125
+in Quebec, 100
+Sûreté du Québec, 85, 90
+surveillance, agonistic, 19, 135, 136,
+149, 150, 152, 254
+T | violence, 3, 4, 7, 14, 17, 32, 39, 42,
+46, 47, 50, 58, 60–67, 69–71,
+73–76, 84, 86–88, 116, 118,
+120, 122–124, 135, 136, 138,
+141, 143, 144, 147, 149, 150,
+153, 154, 158, 167, 169, 196,
+198, 199, 202, 205–207, 214,
+222–224, 227–229, 232, 233
+gender-based, 4
+police, 4, 7, 32, 47, 50, 63, 118,
+136, 141, 144, 147, 150, 153,
+154, 158, 169, 198 |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Tabert, Abdelkrim,<br>43 | violent exclusion, 57, 58, 66, 230 |
-| Taser, 156<br>terrorist/terrorism, 15, 36, 37, 48–50,<br>68, 90, 100, 101, 152, 170, 172,<br>201, 253<br>Thiry, Jean-Marie Bastien,<br>39<br>Tixier-Vignacour, Jean-Louis, 39<br>Toronto, 83, 87, 95, 101, 103<br>torture, 2, 4, 14, 15, 35, 57, 60, 62,<br>64, 66–68, 70–75, 78, 118, 171,<br>199, 205, 209, 238<br>Townships, 34, 199–203, 206, 214<br>transformation, 139, 196, 205, 206,<br>213 | W<br>Waffen SS, 40<br>War on Terror, terrorism, 10, 89, 171,<br>225<br>Weil, Patrick, 51<br>World Summit on Sustainable<br>Development (WSSD), 212<br>X<br>X, Malcom, 48 |
-| U<br>United Democratic Front (UDF),<br>199, 203<br>United Nations, 82, 230, 231, 237,<br>241<br>United States, 2, 3, 9, 19, 21, 44, 49,<br>56, 76, 89, 91, 92, 100, 156,<br>157, 167, 170, 172, 173, 186,<br>227, 232, 234 | Z<br>Zauberman, Renee, 44<br>Zero Tolerance, 144<br>Zones à urbaniser en priorité (ZUPS),<br>41<br>Zuma, Jacob, 214 |
-| V<br>Vancouver, 87, 103<br>Varieties of Democracy, (V-Dem), 6, 74 | |
+| Tabert, Abdelkrim,
+43 | violent exclusion, 57, 58, 66, 230 |
+| Taser, 156
+terrorist/terrorism, 15, 36, 37, 48–50,
+68, 90, 100, 101, 152, 170, 172,
+201, 253
+Thiry, Jean-Marie Bastien,
+39
+Tixier-Vignacour, Jean-Louis, 39
+Toronto, 83, 87, 95, 101, 103
+torture, 2, 4, 14, 15, 35, 57, 60, 62,
+64, 66–68, 70–75, 78, 118, 171,
+199, 205, 209, 238
+Townships, 34, 199–203, 206, 214
+transformation, 139, 196, 205, 206,
+213 | W
+Waffen SS, 40
+War on Terror, terrorism, 10, 89, 171,
+225
+Weil, Patrick, 51
+World Summit on Sustainable
+Development (WSSD), 212
+X
+X, Malcom, 48 |
+| U
+United Democratic Front (UDF),
+199, 203
+United Nations, 82, 230, 231, 237,
+241
+United States, 2, 3, 9, 19, 21, 44, 49,
+56, 76, 89, 91, 92, 100, 156,
+157, 167, 170, 172, 173, 186,
+227, 232, 234 | Z
+Zauberman, Renee, 44
+Zero Tolerance, 144
+Zones à urbaniser en priorité (ZUPS),
+41
+Zuma, Jacob, 214 |
+| V
+Vancouver, 87, 103
+Varieties of Democracy, (V-Dem), 6, 74 | |

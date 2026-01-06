@@ -1,3 +1,8 @@
+---
+title: "## **"We must do away with racial prejudice and imaginary boundary lines": British Columbia wobblies"
+category: "international-solidarity"
+---
+
 ## **"We must do away with racial prejudice and imaginary boundary lines": British Columbia wobblies before the First World War – Mark Leier**
 
 ## **Date:** Unknown

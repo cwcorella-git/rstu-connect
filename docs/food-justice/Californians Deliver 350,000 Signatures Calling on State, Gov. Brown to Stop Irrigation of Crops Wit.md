@@ -1,16 +1,24 @@
+---
+title: "## **Californians Deliver 350,000 Signatures Calling on State, Gov. Brown to Stop Irrigation of Crop"
+category: "food-justice"
+---
+
 ## **Californians Deliver 350,000 Signatures Calling on State, Gov. Brown to Stop Irrigation of Crops With Oil Wastewater**
 
 | Date: Sun, 08/14/2016 - 14:16 |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Source: https://ecology.iww.org/node/1740|
-| Tags: Jerry Brown, fracking, water pollution, green unionism, National Nurses United, Center for<br>Biological Diversity |
+| Tags: Jerry Brown, fracking, water pollution, green unionism, National Nurses United, Center for
+Biological Diversity |
 | By Julie Light and Patrick Sullivan - |
 | Center for Biological Diversity |
 | , August 9, 2016 |
 | SACRAMENTO, |
 | Calif |
 | .— |
-| Pushing a wheelbarrow filled with 350,000 petition signatures, concerned Californians<br>gathered outside the capitol today to urge Gov. Jerry Brown and the California Water<br>Resources Control Board to stop the potentially dangerous practice of using |
+| Pushing a wheelbarrow filled with 350,000 petition signatures, concerned Californians
+gathered outside the capitol today to urge Gov. Jerry Brown and the California Water
+Resources Control Board to stop the potentially dangerous practice of using |
 | wastewater from oil drilling to irrigate California's crops |
 | . The wastewater, sold by Chevron and California Resources Corporation, is now being used |
 
@@ -52,11 +60,13 @@ A growing number of Californians are raising concerns about the use of wastewate
 | www.californiansagainstfracking.org |
 | for more information. |
 | For a deeper dive, please read, |
-| Groups deliver 350,000 petition signatures calling for halt to irrigating crops with oil<br>wastewater |
+| Groups deliver 350,000 petition signatures calling for halt to irrigating crops with oil
+wastewater |
 | by Dan Bacher, |
 | Daily Kos |
 | , August 10, 2016. |
 | Disclaimer: |
-| The views expressed here are not the official position of the IWW (or even the IWW's EUC)<br>and do not necessarily represent the views of anyone but the author's. |
+| The views expressed here are not the official position of the IWW (or even the IWW's EUC)
+and do not necessarily represent the views of anyone but the author's. |
 
 is a coalition of about 200 environmental business, health, agriculture, labor, political and environmental justice organizations working to win a statewide ban on fracking and other

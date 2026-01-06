@@ -1,3 +1,8 @@
+---
+title: "## **Marius Mason calls for an International Day of Trans Prisoner Support on January 22nd**"
+category: "labor"
+---
+
 ## **Marius Mason calls for an International Day of Trans Prisoner Support on January 22nd**
 
 ## **Date:** Wed, 12/30/2015 - 15:42

@@ -1,3 +1,8 @@
+---
+title: "Introduction"
+category: "technology-digital-justice"
+---
+
 # Introduction
 
 ## Understanding Saints Row PSP
@@ -559,7 +564,7 @@ The sniper rifle has a unique fine aim mode. When this weapon is selected and bo
 
 The player will have a few occasions to fly (pre-determined flight pattern) in a helicopter and shoot down at targets using the mounted machine gun.
 
-<sup>\*</sup>The passenger can enter the map menu to change waypoints and radio stations without pausing the game.
+\*The passenger can enter the map menu to change waypoints and radio stations without pausing the game.
 
 #### Cars & Trucks
 
@@ -577,135 +582,752 @@ This is a preliminary list of weapons planned for inclusion, featuring weapons f
 
 This list may change as we investigate the inclusion of any weapons that require custom animations, to make sure they'll fit in memory.
 
-| Melee: | Price | Location | Damage | Animation<br>Set | Fire<br>Rate | Original? |
+| Melee: | Price | Location | Damage | Animation
+Set | Fire
+Rate | Original? |
 |-----------------|-------|---------------------|--------|---------------------------|--------------|-----------|
-| Fists<br>/ | n/a | n/a | 5 | -<br>Right<br>swing | Fast | SR1 |
+| Fists
+/ | n/a | n/a | 5 | -
+Right
+swing | Fast | SR1 |
 | Unarmed | | | | punch | | |
-| | | | | -<br>Left<br>swing | | |
+| | | | | -
+Left
+swing | | |
 | | | | | punch | | |
-| | | | | -<br>Standing<br>kick | | |
-| | | | | -<br>Kick<br>'em<br>while | | |
-| | | | | they're<br>down | | |
-| | | | | -<br>Stomp | | |
-| | | | | -<br>Pump<br>down | | |
-| Baseball<br>Bat | n/a | Found<br>on | 20 | -<br>Two-handed | Fast | SR1 |
-| | | gangstas | | "holding"<br>idle | | |
-| | | | | -<br>One-handed | | |
-| | | | | "holding"<br>idle | | |
-| | | | | -<br>Two-handed | | |
-| | | | | right<br>swing | | |
-| | | | | -<br>Two-handed<br>left | | |
+| | | | | -
+Standing
+kick | | |
+| | | | | -
+Kick
+'em
+while | | |
+| | | | | they're
+down | | |
+| | | | | -
+Stomp | | |
+| | | | | -
+Pump
+down | | |
+| Baseball
+Bat | n/a | Found
+on | 20 | -
+Two-handed | Fast | SR1 |
+| | | gangstas | | "holding"
+idle | | |
+| | | | | -
+One-handed | | |
+| | | | | "holding"
+idle | | |
+| | | | | -
+Two-handed | | |
+| | | | | right
+swing | | |
+| | | | | -
+Two-handed
+left | | |
 | | | | | swing | | |
-| Nightstick | n/a | Found<br>on<br>cops | 20 | -<br>One-handed | Slowest | SR1 |
-| | | | | "holding"<br>idle | | |
+| Nightstick | n/a | Found
+on
+cops | 20 | -
+One-handed | Slowest | SR1 |
+| | | | | "holding"
+idle | | |
 
-| | | | | -<br>Swat<br>down<br>-<br>Left<br>to<br>right<br>swat<br>-<br>Right<br>to<br>left<br>swat | | |
+| | | | | -
+Swat
+down
+-
+Left
+to
+right
+swat
+-
+Right
+to
+left
+swat | | |
 |------------------------------|-----|--------------------------------------|----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|----------------|
-| Crowbar | n/a | Found<br>on<br>pimps | 50 | -<br>Same<br>as<br>baseball<br>bat | Slower<br>than<br>bat, | SR1 |
-| Knife | n/a | Found<br>on<br>gangstas | 30 | -<br>Right<br>slash<br>-<br>Left<br>slash<br>-<br>Right<br>stab<br>-<br>Left<br>stab | Fast,<br>short<br>reach | SR1 |
-| Chainsaw | n/a | Found<br>in<br>construction<br>site | 60 | -<br>Default<br>two<br>handed<br>"holding"<br>idle<br>-<br>Pulling<br>chord<br>"start"<br>-<br>Left<br>swing<br>-<br>Right<br>swing<br>-<br>Push<br>forward | Slow | SR2 |
-| Sledgehammer | n/a | Found<br>in<br>construction<br>site | 40 | -<br>Same<br>as<br>baseball<br>bat | Slow | SR2 |
-| Stun<br>Gun | n/a | Found<br>on<br>cops | 5<br>(incapacitates) | -<br>One-handed<br>idle<br>-<br>One-handed<br>jab<br>forward | Fast,<br>Short<br>reach | SR2 |
-| Garden<br>Gnome | n/a | Found<br>in<br>gardens | 20 | -<br>Two-handed<br>carry,<br>idle<br>-<br>One-handed<br>carry,<br>under<br>the<br>arm,<br>"football<br>style"<br>-<br>Two-handed<br>swing<br>down | Slow,<br>short<br>reach | SR2 |
-| Concrete<br>Block | n/a | Found<br>in<br>construction<br>sites | 40 | -<br>Two-handed<br>carry,<br>idle<br>-<br>Two-handed<br>swing<br>down | Player<br>cannot<br>run.<br>Slow,<br>short<br>reach | SR2 |
-| Shock<br>Paddles | n/a | Found<br>in<br>ambulance | 100 | -<br>Default<br>one<br>"holding"<br>idle,<br>paddle<br>per<br>hand<br>-<br>Strike<br>forward<br>simultaneously<br>with<br>both<br>hand | Shock<br>Paddles<br>need<br>a<br>5<br>second<br>recharge<br>between<br>uses.<br>They<br>short<br>out<br>after<br>10<br>uses. | SR2 |
-| Jackhammer<br>/<br>Pneumatic | n/a | Found<br>in<br>Construction | 100 | -<br>Default<br>holding<br>in<br>front<br>with<br>two | Player<br>cannot<br>run. | SR<br>-<br>PSP |
+| Crowbar | n/a | Found
+on
+pimps | 50 | -
+Same
+as
+baseball
+bat | Slower
+than
+bat, | SR1 |
+| Knife | n/a | Found
+on
+gangstas | 30 | -
+Right
+slash
+-
+Left
+slash
+-
+Right
+stab
+-
+Left
+stab | Fast,
+short
+reach | SR1 |
+| Chainsaw | n/a | Found
+in
+construction
+site | 60 | -
+Default
+two
+handed
+"holding"
+idle
+-
+Pulling
+chord
+"start"
+-
+Left
+swing
+-
+Right
+swing
+-
+Push
+forward | Slow | SR2 |
+| Sledgehammer | n/a | Found
+in
+construction
+site | 40 | -
+Same
+as
+baseball
+bat | Slow | SR2 |
+| Stun
+Gun | n/a | Found
+on
+cops | 5
+(incapacitates) | -
+One-handed
+idle
+-
+One-handed
+jab
+forward | Fast,
+Short
+reach | SR2 |
+| Garden
+Gnome | n/a | Found
+in
+gardens | 20 | -
+Two-handed
+carry,
+idle
+-
+One-handed
+carry,
+under
+the
+arm,
+"football
+style"
+-
+Two-handed
+swing
+down | Slow,
+short
+reach | SR2 |
+| Concrete
+Block | n/a | Found
+in
+construction
+sites | 40 | -
+Two-handed
+carry,
+idle
+-
+Two-handed
+swing
+down | Player
+cannot
+run.
+Slow,
+short
+reach | SR2 |
+| Shock
+Paddles | n/a | Found
+in
+ambulance | 100 | -
+Default
+one
+"holding"
+idle,
+paddle
+per
+hand
+-
+Strike
+forward
+simultaneously
+with
+both
+hand | Shock
+Paddles
+need
+a
+5
+second
+recharge
+between
+uses.
+They
+short
+out
+after
+10
+uses. | SR2 |
+| Jackhammer
+/
+Pneumatic | n/a | Found
+in
+Construction | 100 | -
+Default
+holding
+in
+front
+with
+two | Player
+cannot
+run. | SR
+-
+PSP |
 
-| Drill | | site | | hands<br>(or | Slow,<br>short | |
+| Drill | | site | | hands
+(or | Slow,
+short | |
 |-------------------|-----|----------------------|-----------------|-----------------------------|----------------|----------------|
-| | | | | throwing<br>over<br>one | reach. | |
-| | | | | shoulder)<br>idle, | | |
-| | | | | two<br>hand<br>grip<br>and | | |
-| | | | | push<br>forward<br>with | | |
-| | | | | heavy<br>recoil | | |
-| | | | | during<br>attack | | |
-| Hooker | n/a | Found<br>on | 10 | -<br>Use<br>Baseball<br>Bat | Slow,<br>long | SR<br>-<br>PSP |
-| Stiletto<br>Boot | | hookers | | anims | reach. | |
-| Television<br>Set | n/a | Found<br>in<br>cribs | 50 | -<br>Use<br>concrete | Player | SR<br>-<br>PSP |
-| | | | | block<br>anims | cannot<br>run. | |
-| | | | | | Slow,<br>short | |
+| | | | | throwing
+over
+one | reach. | |
+| | | | | shoulder)
+idle, | | |
+| | | | | two
+hand
+grip
+and | | |
+| | | | | push
+forward
+with | | |
+| | | | | heavy
+recoil | | |
+| | | | | during
+attack | | |
+| Hooker | n/a | Found
+on | 10 | -
+Use
+Baseball
+Bat | Slow,
+long | SR
+-
+PSP |
+| Stiletto
+Boot | | hookers | | anims | reach. | |
+| Television
+Set | n/a | Found
+in
+cribs | 50 | -
+Use
+concrete | Player | SR
+-
+PSP |
+| | | | | block
+anims | cannot
+run. | |
+| | | | | | Slow,
+short | |
 | | | | | | reach | |
-| Pepper<br>Spray | n/a | Found<br>on<br>cops | 0 | -<br>One-handed | 50<br>doses | SR2 |
-| | | | (incapacitates) | carrying<br>idle | | |
-| | | | | -<br>One-handed | | |
-| | | | | spray<br>forward | | |
+| Pepper
+Spray | n/a | Found
+on
+cops | 0 | -
+One-handed | 50
+doses | SR2 |
+| | | | (incapacitates) | carrying
+idle | | |
+| | | | | -
+One-handed | | |
+| | | | | spray
+forward | | |
 
-| Handguns: | Price | Location | Damage | Anim<br>Set | X | Original? |
+| Handguns: | Price | Location | Damage | Anim
+Set | X | Original? |
 |--------------------|--------|-------------------------------|--------|------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-----------|
-| Vice<br>9 | \$100 | Gun<br>store<br>/<br>Gangstas | 20 | -<br>Idle,<br>one-handed<br>gun<br>hold<br>-<br>Reloading<br>clip<br>-<br>Shooting<br>one<br>hand | Fast<br>fire<br>/<br>12-rounds | SR1 |
-| NR4 | \$400 | Gun<br>store<br>/<br>Police | 30 | -<br>Same<br>as<br>Vice-9 | 12-rounds | SR1 |
-| .44<br>Shepherd | \$1200 | Gun<br>Store | 50 | -<br>Idle,<br>one-handed<br>gun<br>hold<br>-<br>Reload<br>-<br>Shooting<br>one<br>hand<br>-<br>Shooting<br>two<br>hand | Slow<br>reload<br>and<br>fire<br>/<br>6-<br>rounds | SR1 |
-| .50<br>GDHC | \$1000 | Found<br>on<br>FBI | 50 | -<br>Same<br>as<br>Shepherd | 8<br>-<br>rounds | SR1 |
-| Gold-plated<br>.50 | n/a | Unlocked<br>on<br>special | 60 | -<br>Same<br>as<br>Shepherd | 8<br>-<br>rounds | SR1 |
-| Quarter<br>Baby | n/a | Unlocked<br>on<br>special | 20 | -<br>Same<br>as<br>Shepherd | 1<br>-<br>rounds | SR-PSP |
+| Vice
+9 | \$100 | Gun
+store
+/
+Gangstas | 20 | -
+Idle,
+one-handed
+gun
+hold
+-
+Reloading
+clip
+-
+Shooting
+one
+hand | Fast
+fire
+/
+12-rounds | SR1 |
+| NR4 | \$400 | Gun
+store
+/
+Police | 30 | -
+Same
+as
+Vice-9 | 12-rounds | SR1 |
+| .44
+Shepherd | \$1200 | Gun
+Store | 50 | -
+Idle,
+one-handed
+gun
+hold
+-
+Reload
+-
+Shooting
+one
+hand
+-
+Shooting
+two
+hand | Slow
+reload
+and
+fire
+/
+6rounds | SR1 |
+| .50
+GDHC | \$1000 | Found
+on
+FBI | 50 | -
+Same
+as
+Shepherd | 8
+-
+rounds | SR1 |
+| Gold-plated
+.50 | n/a | Unlocked
+on
+special | 60 | -
+Same
+as
+Shepherd | 8
+-
+rounds | SR1 |
+| Quarter
+Baby | n/a | Unlocked
+on
+special | 20 | -
+Same
+as
+Shepherd | 1
+-
+rounds | SR-PSP |
 
-| Shotguns: | Price | Location | Damage | Anim<br>Set | X | Original? |
+| Shotguns: | Price | Location | Damage | Anim
+Set | X | Original? |
 |-----------|--------|-------------------|--------|--------------------------|---------------|-----------|
-| Tombstone | \$1000 | Gun<br>store<br>/ | 50 | -<br>Two-handed<br>idle | 8<br>round | SR1 |
-| | | Police | | -<br>One-handed | mag,<br>close | |
-| | | | | over<br>shoulder<br>idle | range | |
-| | | | | -<br>Two-handed | | |
-| | | | | shot<br>w/<br>recoil | | |
-## | | | | | -<br>Reload | | |
+| Tombstone | \$1000 | Gun
+store
+/ | 50 | -
+Two-handed
+idle | 8
+round | SR1 |
+| | | Police | | -
+One-handed | mag,
+close | |
+| | | | | over
+shoulder
+idle | range | |
+| | | | | -
+Two-handed | | |
+| | | | | shot
+w/
+recoil | | |
+## | | | | | -
+Reload | | |
 
-| 12<br>Gauge | \$1300 | Gun<br>store | 70 | -<br>Same<br>as<br>Tombstone | 6<br>round<br>magazine | SR1 |
+| 12
+Gauge | \$1300 | Gun
+store | 70 | -
+Same
+as
+Tombstone | 6
+round
+magazine | SR1 |
 |--------------------------------------------|--------|-------------------------------------------------------------------|-----|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|--------|
-| AS12<br>Riot | \$2000 | Gun<br>store<br>/<br>SWAT | 40 | -<br>Same<br>as<br>Tombstone | 7<br>round,<br>Fast<br>rate<br>of<br>fire,<br>shortest<br>range | SR1 |
-| Platinum<br>AS12<br>Riot | n/a | Unlocked<br>on<br>special | 60 | -<br>Same<br>as<br>Tombstone | 2x<br>ammo<br>capacity<br>of<br>the<br>AS12 | SR1 |
-| AS14<br>Hammer<br>(auto<br>shotgun) | \$3000 | Gun<br>store | 40 | -<br>Idle,<br>one-handed<br>gun<br>hold<br>-<br>Idle,<br>two-handed<br>gun<br>hold<br>-<br>Shooting<br>two<br>hands,<br>heavy<br>recoil | Fast<br>fire | SR2 |
-| Pimp<br>Cane<br>Shotgun | n/a | Unlocked<br>on<br>completion<br>of<br>all<br>Snatch<br>activities | 100 | -<br>Idle,<br>standing<br>with<br>cane<br>at<br>side<br>-<br>Idle,<br>holding<br>cane<br>like<br>staff<br>-<br>Idle,<br>holding<br>cane<br>like<br>shotgun<br>-<br>Shooting<br>cane<br>forward,<br>heavy<br>recoil<br>-<br>Reload | 2x<br>ammo<br>capacity<br>of<br>the<br>AS12 | SR1 |
-| Stooge<br>(tripled<br>barelled<br>shotgun) | \$3000 | Gun<br>store | 100 | -<br>Same<br>as<br>Tombstone | 6<br>round<br>magazine | SR-PSP |
+| AS12
+Riot | \$2000 | Gun
+store
+/
+SWAT | 40 | -
+Same
+as
+Tombstone | 7
+round,
+Fast
+rate
+of
+fire,
+shortest
+range | SR1 |
+| Platinum
+AS12
+Riot | n/a | Unlocked
+on
+special | 60 | -
+Same
+as
+Tombstone | 2x
+ammo
+capacity
+of
+the
+AS12 | SR1 |
+| AS14
+Hammer
+(auto
+shotgun) | \$3000 | Gun
+store | 40 | -
+Idle,
+one-handed
+gun
+hold
+-
+Idle,
+two-handed
+gun
+hold
+-
+Shooting
+two
+hands,
+heavy
+recoil | Fast
+fire | SR2 |
+| Pimp
+Cane
+Shotgun | n/a | Unlocked
+on
+completion
+of
+all
+Snatch
+activities | 100 | -
+Idle,
+standing
+with
+cane
+at
+side
+-
+Idle,
+holding
+cane
+like
+staff
+-
+Idle,
+holding
+cane
+like
+shotgun
+-
+Shooting
+cane
+forward,
+heavy
+recoil
+-
+Reload | 2x
+ammo
+capacity
+of
+the
+AS12 | SR1 |
+| Stooge
+(tripled
+barelled
+shotgun) | \$3000 | Gun
+store | 100 | -
+Same
+as
+Tombstone | 6
+round
+magazine | SR-PSP |
 
-| SMGs: | Price | Location | Damage | Anim<br>Set | X | Original? |
+| SMGs: | Price | Location | Damage | Anim
+Set | X | Original? |
 |--------------|-------|-------------------|--------|-----------------------------|--------------|-----------|
-| T3K<br>Urban | \$500 | Gun<br>store<br>/ | 20 | -<br>Idle,<br>carrying | 50<br>rounds | SR1 |
-| | | Gangstas | | one<br>handed | | |
-| | | | | -<br>Idle,<br>carrying | | |
-| | | | | two<br>handed | | |
-| | | | | -<br>Firing<br>burst<br>one | | |
+| T3K
+Urban | \$500 | Gun
+store
+/ | 20 | -
+Idle,
+carrying | 50
+rounds | SR1 |
+| | | Gangstas | | one
+handed | | |
+| | | | | -
+Idle,
+carrying | | |
+| | | | | two
+handed | | |
+| | | | | -
+Firing
+burst
+one | | |
 | | | | | handed | | |
-| | | | | -<br>Firing<br>burst | | |
+| | | | | -
+Firing
+burst | | |
 | | | | | two-handed | | |
-| | | | | -<br>Continuous | | |
-| | | | | firing<br>loop,<br>one | | |
+| | | | | -
+Continuous | | |
+| | | | | firing
+loop,
+one | | |
 | | | | | handed | | |
-| | | | | -<br>Continuous | | |
-| | | | | firing<br>loop,<br>two | | |
+| | | | | -
+Continuous | | |
+| | | | | firing
+loop,
+two | | |
 
-| | | | | handed<br>-<br>Reload | | |
+| | | | | handed
+-
+Reload | | |
 |-------------------|-------|-------------------------------|----|--------------------------|---------------|--------|
-| SKR-7<br>Spree | \$650 | Gun<br>store<br>/<br>Gangstas | 20 | -<br>Same<br>as<br>Urban | 50<br>rounds | SR1 |
-| SKR9<br>Threat | \$900 | Gun<br>store | 70 | -<br>Same<br>as<br>Urban | 50<br>rounds | SR2 |
-| Platinum<br>T3K | n/a | Unlocked<br>on<br>special | 60 | -<br>Same<br>as<br>Urban | 100<br>rounds | SR1 |
-| WTF<br>P90<br>PDW | n/a | Unlocked<br>on<br>special | 60 | -<br>Same<br>as<br>Urban | 100<br>rounds | SR-PSP |
+| SKR-7
+Spree | \$650 | Gun
+store
+/
+Gangstas | 20 | -
+Same
+as
+Urban | 50
+rounds | SR1 |
+| SKR9
+Threat | \$900 | Gun
+store | 70 | -
+Same
+as
+Urban | 50
+rounds | SR2 |
+| Platinum
+T3K | n/a | Unlocked
+on
+special | 60 | -
+Same
+as
+Urban | 100
+rounds | SR1 |
+| WTF
+P90
+PDW | n/a | Unlocked
+on
+special | 60 | -
+Same
+as
+Urban | 100
+rounds | SR-PSP |
 
-| Rifles: | Price | Location | Damage | Anim<br>Set | X | Original? |
+| Rifles: | Price | Location | Damage | Anim
+Set | X | Original? |
 |----------------|--------|------------------------------------------|--------|-------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-----------|
-| K6<br>Krukov | \$2000 | Gun<br>Store | 40 | -<br>Two-handed<br>idle<br>-<br>One-handed<br>idle,<br>rifle<br>over<br>shoulder<br>-<br>Two-handed<br>fire<br>-<br>Reload | 30<br>rounds<br>/<br>Auto | SR1 |
-| Mc Manus | \$2000 | Gun<br>Store | 80 | -<br>Same<br>as<br>Krukov<br>-<br>Raising<br>rifle<br>up<br>to<br>use<br>scope | 5<br>rounds<br>/<br>Sniper<br>rifle<br>w/<br>scope | SR1 |
-| AR-40<br>Xtn | \$2500 | Gun<br>Store<br>/<br>Found<br>on<br>SWAT | 100 | -<br>Same<br>as<br>Krukov | 40<br>rounds | SR1 |
-| Guitar<br>Case | n/a | Unlocked<br>on<br>special | 50 | -<br>Carrying<br>rifle/guitar<br>case<br>-<br>Transition<br>to<br>firing<br>-<br>Same<br>as<br>Krukov<br>for<br>fire<br>&<br>reload | 30<br>rounds | SR-PSP |
+| K6
+Krukov | \$2000 | Gun
+Store | 40 | -
+Two-handed
+idle
+-
+One-handed
+idle,
+rifle
+over
+shoulder
+-
+Two-handed
+fire
+-
+Reload | 30
+rounds
+/
+Auto | SR1 |
+| Mc Manus | \$2000 | Gun
+Store | 80 | -
+Same
+as
+Krukov
+-
+Raising
+rifle
+up
+to
+use
+scope | 5
+rounds
+/
+Sniper
+rifle
+w/
+scope | SR1 |
+| AR-40
+Xtn | \$2500 | Gun
+Store
+/
+Found
+on
+SWAT | 100 | -
+Same
+as
+Krukov | 40
+rounds | SR1 |
+| Guitar
+Case | n/a | Unlocked
+on
+special | 50 | -
+Carrying
+rifle/guitar
+case
+-
+Transition
+to
+firing
+-
+Same
+as
+Krukov
+for
+fire
+&
+reload | 30
+rounds | SR-PSP |
 
-| Unique | Price | Location | Damage | Anim<br>Set | X | Original? |
+| Unique | Price | Location | Damage | Anim
+Set | X | Original? |
 |--------------|-------|--------------------------------------|--------|------------------------------------------------------|----------------------------------------------|-----------|
-| Flamethrower | n/a | Unlocked<br>on<br>special | 40 | -<br>Two-handed<br>idle<br>-<br>Two-handed<br>firing | 60<br>seconds<br>of<br>firing<br>per<br>tank | SR2 |
-| Nail<br>Gun | n/a | Found<br>at<br>construction<br>sites | 20 | -<br>Same<br>as<br>pistol | 50<br>magazine | SR-PSP |
+| Flamethrower | n/a | Unlocked
+on
+special | 40 | -
+Two-handed
+idle
+-
+Two-handed
+firing | 60
+seconds
+of
+firing
+per
+tank | SR2 |
+| Nail
+Gun | n/a | Found
+at
+construction
+sites | 20 | -
+Same
+as
+pistol | 50
+magazine | SR-PSP |
 
-| Explosives | Price | Location | Damage | Anim<br>Set | X | Original? |
+| Explosives | Price | Location | Damage | Anim
+Set | X | Original? |
 |---------------|-------|----------|--------|-------------------------|------------------|-----------|
-| Pipe<br>Bombs | n/a | | 50 | -<br>One-handed<br>idle | 10<br>secs<br>to | SR1 |
-| | | | | -<br>One-handed | detonate | |
+| Pipe
+Bombs | n/a | | 50 | -
+One-handed
+idle | 10
+secs
+to | SR1 |
+| | | | | -
+One-handed | detonate | |
 | | | | | throw | | |
-| Molotov | n/a | | 70 | -<br>Same<br>as<br>Pipe | Longest | SR1 |
-## | Cocktails | | | | Bomb | range<br>of | |
+| Molotov | n/a | | 70 | -
+Same
+as
+Pipe | Longest | SR1 |
+## | Cocktails | | | | Bomb | range
+of | |
 
-| | | | | | thrown<br>explosives | |
+| | | | | | thrown
+explosives | |
 |-----------------|-----|-------------------------|-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|--------|
-| Hand | n/a | | 100 | -<br>One-handed<br>idle | 5<br>secs<br>to | SR1 |
-| Grenades | | | | -<br>Pull<br>pin<br>/<br>throw | detonate | |
-| Gas<br>Grenades | n/a | | 0<br>(stun<br>/<br>cough<br>anim) | -<br>Same<br>as<br>reg<br>grenade<br>(Add<br>coughing<br>anim<br>to<br>generic<br>anim<br>list) | 5<br>secs<br>to<br>detonate | SR-PSP |
-| RPG | n/a | SWAT<br>/<br>Gangstas | 80 | -<br>One-handed<br>over<br>the<br>shoulder<br>idle<br>-<br>Two-handed<br>aiming<br>idle<br>-<br>Two-handed<br>fire<br>with<br>recoil<br>-<br>Reload | Longer<br>range<br>than<br>thrown<br>explosives | SR1 |
-| Platinum<br>RPG | n/a | Unlock<br>on<br>special | 100 | -<br>Same<br>as<br>RPG | 2x<br>Ammo<br>Capacity | SR1 |
+| Hand | n/a | | 100 | -
+One-handed
+idle | 5
+secs
+to | SR1 |
+| Grenades | | | | -
+Pull
+pin
+/
+throw | detonate | |
+| Gas
+Grenades | n/a | | 0
+(stun
+/
+cough
+anim) | -
+Same
+as
+reg
+grenade
+(Add
+coughing
+anim
+to
+generic
+anim
+list) | 5
+secs
+to
+detonate | SR-PSP |
+| RPG | n/a | SWAT
+/
+Gangstas | 80 | -
+One-handed
+over
+the
+shoulder
+idle
+-
+Two-handed
+aiming
+idle
+-
+Two-handed
+fire
+with
+recoil
+-
+Reload | Longer
+range
+than
+thrown
+explosives | SR1 |
+| Platinum
+RPG | n/a | Unlock
+on
+special | 100 | -
+Same
+as
+RPG | 2x
+Ammo
+Capacity | SR1 |
 
 # o Helicopter Weaponry
 
@@ -762,10 +1384,339 @@ The next steps towards creating the basic AI map:
 
 #### Some specific AI behavior for Pedestrians:
 
-| Default | <br>Follow<br>a<br>path,<br>switching<br>paths<br>but<br>not<br>direction<br>at<br>nodes.<br><br>When<br>the<br>Ped<br>gets<br>within<br>five<br>meters<br>of<br>another<br>Ped<br>on<br>the<br>same<br>path<br>going<br>in<br>the<br>opposite<br>direction,<br>there<br>is<br>a<br>25%<br>chance<br>they<br>will<br>both<br>stop<br>to<br>talk<br>if<br>the<br>other<br>Ped<br>is<br>not<br>already<br>talking<br>to<br>someone.<br>Otherwise,<br>he<br>will<br>shift<br>to<br>a<br>new<br>path<br>to<br>walk<br>past<br>him.<br><br>When<br>the<br>Ped<br>reaches<br>an<br>unoccupied<br>Point<br>Of<br>Interest,<br>there<br>is<br>a<br>50%<br>chance<br>he<br>will<br>pause<br>to<br>look<br>at<br>it<br>for<br>a<br>few<br>seconds<br>before<br>continuing<br>on<br>a<br>path.<br><br>When<br>the<br>Ped<br>reaches<br>a<br>transition<br>point<br>on<br>his<br>path<br>(white<br>circle<br>on<br>the<br>figure<br>above),<br>he<br>will<br>stop<br>and<br>wait<br>for<br>a<br>signal<br>from<br>logic<br>that<br>the<br>new<br>AI<br>Map<br>is<br>traversable<br>before<br>picking<br>a<br>new<br>path<br>and<br>taking<br>it. |
+| Default | 
+Follow
+a
+path,
+switching
+paths
+but
+not
+direction
+at
+nodes.
+
+When
+the
+Ped
+gets
+within
+five
+meters
+of
+another
+Ped
+on
+the
+same
+path
+going
+in
+the
+opposite
+direction,
+there
+is
+a
+25%
+chance
+they
+will
+both
+stop
+to
+talk
+if
+the
+other
+Ped
+is
+not
+already
+talking
+to
+someone.
+Otherwise,
+he
+will
+shift
+to
+a
+new
+path
+to
+walk
+past
+him.
+
+When
+the
+Ped
+reaches
+an
+unoccupied
+Point
+Of
+Interest,
+there
+is
+a
+50%
+chance
+he
+will
+pause
+to
+look
+at
+it
+for
+a
+few
+seconds
+before
+continuing
+on
+a
+path.
+
+When
+the
+Ped
+reaches
+a
+transition
+point
+on
+his
+path
+(white
+circle
+on
+the
+figure
+above),
+he
+will
+stop
+and
+wait
+for
+a
+signal
+from
+logic
+that
+the
+new
+AI
+Map
+is
+traversable
+before
+picking
+a
+new
+path
+and
+taking
+it. |
 |----------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| At<br>Transition<br>Point | <br>Ped<br>pauses<br>while<br>code<br>checks<br>to<br>see<br>whether<br>the<br>AI<br>can<br>move<br>to<br>a<br>new<br>path<br>on<br>the<br>new<br>AI<br>Map.<br>If<br>the<br>Ped<br>can,<br>he<br>will.<br><br>If<br>the<br>logic<br>alerts<br>the<br>AI<br>that<br>he<br>cannot<br>move<br>yet,<br>but<br>it<br>is<br>on<br>a<br>timer<br>(which<br>usually<br>means<br>a<br>traffic<br>light),<br>the<br>Ped<br>will<br>wait<br>in<br>the<br>same<br>position<br>in<br>an<br>Idle<br>Animation<br>for<br>the<br>timer<br>to<br>change<br>before<br>moving<br>on<br>to<br>the<br>new<br>AI<br>map.<br><br>If<br>the<br>path<br>is<br>blocked<br>and<br>there<br>is<br>no<br>timer,<br>the<br>Ped<br>will<br>wait<br>5<br>seconds,<br>and<br>then<br>choose<br>another<br>path<br>on<br>the<br>current<br>AI<br>map<br>to<br>take. |
-| Within<br>Fear<br>Radius<br>(Player<br>attacks<br>AI,<br>Player<br>shoots<br>gun,<br>explosion,<br>other<br>designer-defined<br>logic) | <br>Ped<br>will<br>stop<br>and<br>react<br>in<br>shock<br>for<br>a<br>moment,<br>and<br>then<br>do<br>one<br>of<br>X<br>things<br>randomly:<br><br>1)<br>Turn<br>in<br>the<br>opposite<br>direction<br>from<br>the<br>fear<br>stimulus<br>and<br>follow<br>the<br>path<br>away<br>in<br>running<br>mode.<br><br>2)<br>Get<br>into<br>a<br>cowering<br>/<br>begging<br>position<br><br>3)<br>Treat<br>all<br>AI<br>Maps,<br>including<br>Vehicle<br>Map,<br>as<br>one<br>map<br>and<br>begin<br>running<br>in<br>a<br>straight<br>line,<br>not<br>a<br>path,<br>the<br>opposite<br>direction<br>of<br>the<br>Fear |
+| At
+Transition
+Point | 
+Ped
+pauses
+while
+code
+checks
+to
+see
+whether
+the
+AI
+can
+move
+to
+a
+new
+path
+on
+the
+new
+AI
+Map.
+If
+the
+Ped
+can,
+he
+will.
+
+If
+the
+logic
+alerts
+the
+AI
+that
+he
+cannot
+move
+yet,
+but
+it
+is
+on
+a
+timer
+(which
+usually
+means
+a
+traffic
+light),
+the
+Ped
+will
+wait
+in
+the
+same
+position
+in
+an
+Idle
+Animation
+for
+the
+timer
+to
+change
+before
+moving
+on
+to
+the
+new
+AI
+map.
+
+If
+the
+path
+is
+blocked
+and
+there
+is
+no
+timer,
+the
+Ped
+will
+wait
+5
+seconds,
+and
+then
+choose
+another
+path
+on
+the
+current
+AI
+map
+to
+take. |
+| Within
+Fear
+Radius
+(Player
+attacks
+AI,
+Player
+shoots
+gun,
+explosion,
+other
+designer-defined
+logic) | 
+Ped
+will
+stop
+and
+react
+in
+shock
+for
+a
+moment,
+and
+then
+do
+one
+of
+X
+things
+randomly:
+
+1)
+Turn
+in
+the
+opposite
+direction
+from
+the
+fear
+stimulus
+and
+follow
+the
+path
+away
+in
+running
+mode.
+
+2)
+Get
+into
+a
+cowering
+/
+begging
+position
+
+3)
+Treat
+all
+AI
+Maps,
+including
+Vehicle
+Map,
+as
+one
+map
+and
+begin
+running
+in
+a
+straight
+line,
+not
+a
+path,
+the
+opposite
+direction
+of
+the
+Fear |
 
 Radius.
 
@@ -780,18 +1731,132 @@ Some specific AI behavior for Vehicles:
 
 ## ![](_page_29_Picture_7.jpeg)
 
-| Default | <br>Follow<br>a<br>path<br>at<br>the<br>speed<br>limit,<br>going<br>in<br>the<br>direction<br>of<br>the<br>arrows.<br><br>At<br>Transition<br>Points,<br>there<br>is<br>a<br>50%<br>chance<br>of<br>turning<br>left<br>or<br>right,<br>depending<br>on<br>the<br>arrow<br>of<br>the<br>point,<br>and<br>a<br>50%<br>chance<br>of<br>driving<br>straight<br>on. |
+| Default | 
+Follow
+a
+path
+at
+the
+speed
+limit,
+going
+in
+the
+direction
+of
+the
+arrows.
+
+At
+Transition
+Points,
+there
+is
+a
+50%
+chance
+of
+turning
+left
+or
+right,
+depending
+on
+the
+arrow
+of
+the
+point,
+and
+a
+50%
+chance
+of
+driving
+straight
+on. |
 |-------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| | <br>At<br>Stop<br>Sign<br>Points,<br>come<br>to<br>a<br>rolling<br>stop,<br>before<br>following<br>the<br>same<br>rules<br>as<br>any<br>other<br>Transition<br>Point. |
-| Within<br>Fear<br>Radius<br>(Player<br>attacks<br>AI, | <br>Brake<br>sharply<br><br>After<br>2<br>seconds,<br>if<br>the<br>fear<br>radius<br>is<br>still<br>active,<br>the<br>Vehicle<br>needs<br>to<br>go |
+| | 
+At
+Stop
+Sign
+Points,
+come
+to
+a
+rolling
+stop,
+before
+following
+the
+same
+rules
+as
+any
+other
+Transition
+Point. |
+| Within
+Fear
+Radius
+(Player
+attacks
+AI, | 
+Brake
+sharply
+
+After
+2
+seconds,
+if
+the
+fear
+radius
+is
+still
+active,
+the
+Vehicle
+needs
+to
+go |
 
-| Player<br>shoots<br>gun, | backwards<br>which | either<br>means |
+| Player
+shoots
+gun, | backwards
+which | either
+means |
 |--------------------------|---------------------------------|------------------------------------------------------------------------|
-| other<br>design | a)<br>going<br>into<br>reverse | and<br>going<br>backwards<br>along<br>the<br>same<br>path,<br>or<br>if |
-| defined<br>logic) | blocked, | |
-| | b)<br>doing<br>a<br>U-turn | and<br>following<br>a<br>parallel<br>path. |
-| | c)<br>Pushing<br>forward | slowly |
-## | | d)<br>Drives<br>forward<br>fast | |
+| other
+design | a)
+going
+into
+reverse | and
+going
+backwards
+along
+the
+same
+path,
+or
+if |
+| defined
+logic) | blocked, | |
+| | b)
+doing
+a
+U-turn | and
+following
+a
+parallel
+path. |
+| | c)
+Pushing
+forward | slowly |
+## | | d)
+Drives
+forward
+fast | |
 
 # AI – Gang Members
 
@@ -816,24 +1881,234 @@ In the figure below, we see the player represented as the blue box facing the en
 
 ## ![](_page_31_Picture_0.jpeg)
 
-| Condition | Additional<br>Condition | Possible<br>Action |
+| Condition | Additional
+Condition | Possible
+Action |
 |--------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
-| AI<br>has<br>been<br>scripted<br>an<br>animation<br>or<br>a<br>target<br>by<br>designer<br>logic | | AI<br>follows<br>the<br>script<br>as<br>ordered |
-| AI<br>has<br>a<br>gun | There<br>is<br>a<br>cover<br>point<br>in<br>the<br>fighting<br>radius<br>that<br>is<br>completely<br>or<br>partially<br>concealed<br>from<br>the<br>player's<br>POV | AI<br>runs<br>for<br>a<br>cover<br>point<br>and<br>returns<br>fire |
-| AI<br>has<br>a<br>gun | There<br>is<br>a<br>cover<br>point<br>in<br>the<br>fighting<br>radius<br>that<br>is<br>completely<br>or<br>partially<br>concealed<br>from<br>the<br>player's<br>POV | AI<br>backs<br>up<br>to<br>a<br>cover<br>points<br>and<br>returns<br>fire |
-| AI<br>has<br>a<br>gun | | AI<br>holds<br>its<br>ground<br>and<br>returns<br>fire |
-| AI<br>has<br>a<br>gun | | AI<br>kneels<br>at<br>its<br>current<br>location<br>and<br>returns<br>fire |
-| AI<br>has<br>a<br>gun | | AI<br>weaves<br>back<br>and<br>forth<br>parallel<br>to<br>his<br>current<br>location<br>and<br>returns<br>fire |
-| AI<br>has<br>a<br>gun | There<br>is<br>a<br>fallen<br>AI<br>character<br>in<br>the<br>fight<br>radius | AI<br>runs<br>to<br>retrieve<br>bullets<br>from<br>a<br>fallen<br>AI |
-| AI<br>has<br>a<br>hand-to-hand<br>weapon | There<br>is<br>a<br>fallen<br>AI<br>character<br>in<br>the<br>fight<br>radius | AI<br>runs<br>to<br>retrieve<br>a<br>gun<br>from<br>a<br>fallen<br>AI |
-| AI<br>has<br>a<br>hand-to-hand<br>weapon | | AI<br>runs<br>in<br>a<br>zig-zag<br>pattern<br>towards<br>its<br>enemy,<br>close<br>enough<br>to<br>attack |
-| AI<br>has<br>a<br>hand-to-hand<br>weapon | | AI<br>runs<br>forward<br>to<br>close<br>distance<br>with<br>target |
-| There<br>is<br>a<br>mounted<br>weapon<br>in<br>the<br>fighting<br>area | | Run<br>to<br>take<br>over<br>the<br>mounted<br>weapon |
+| AI
+has
+been
+scripted
+an
+animation
+or
+a
+target
+by
+designer
+logic | | AI
+follows
+the
+script
+as
+ordered |
+| AI
+has
+a
+gun | There
+is
+a
+cover
+point
+in
+the
+fighting
+radius
+that
+is
+completely
+or
+partially
+concealed
+from
+the
+player's
+POV | AI
+runs
+for
+a
+cover
+point
+and
+returns
+fire |
+| AI
+has
+a
+gun | There
+is
+a
+cover
+point
+in
+the
+fighting
+radius
+that
+is
+completely
+or
+partially
+concealed
+from
+the
+player's
+POV | AI
+backs
+up
+to
+a
+cover
+points
+and
+returns
+fire |
+| AI
+has
+a
+gun | | AI
+holds
+its
+ground
+and
+returns
+fire |
+| AI
+has
+a
+gun | | AI
+kneels
+at
+its
+current
+location
+and
+returns
+fire |
+| AI
+has
+a
+gun | | AI
+weaves
+back
+and
+forth
+parallel
+to
+his
+current
+location
+and
+returns
+fire |
+| AI
+has
+a
+gun | There
+is
+a
+fallen
+AI
+character
+in
+the
+fight
+radius | AI
+runs
+to
+retrieve
+bullets
+from
+a
+fallen
+AI |
+| AI
+has
+a
+hand-to-hand
+weapon | There
+is
+a
+fallen
+AI
+character
+in
+the
+fight
+radius | AI
+runs
+to
+retrieve
+a
+gun
+from
+a
+fallen
+AI |
+| AI
+has
+a
+hand-to-hand
+weapon | | AI
+runs
+in
+a
+zig-zag
+pattern
+towards
+its
+enemy,
+close
+enough
+to
+attack |
+| AI
+has
+a
+hand-to-hand
+weapon | | AI
+runs
+forward
+to
+close
+distance
+with
+target |
+| There
+is
+a
+mounted
+weapon
+in
+the
+fighting
+area | | Run
+to
+take
+over
+the
+mounted
+weapon |
 
-| There<br>is<br>a<br>live<br>grenade<br>in<br>the | Switch<br>to<br>Fear<br>Behavior |
+| There
+is
+a
+live
+grenade
+in
+the | Switch
+to
+Fear
+Behavior |
 |--------------------------------------------------|----------------------------------|
-| fighting<br>area | |
-| 25%<br>Health<br>Left | Switch<br>to<br>Fear<br>Behavior |
+| fighting
+area | |
+| 25%
+Health
+Left | Switch
+to
+Fear
+Behavior |
 
 The archetype list will be added to as needs merit, and designers will be able to take this base Gang Member behavioral list and modify it to the needs of individual missions which may call for slightly different behavior. Other AI Archetypes definable by designers:
 
@@ -854,19 +2129,131 @@ Some specific Homie behavior:
 
 ## Condition:
 
-| Player<br>is<br>running<br>/<br>walking | Homie<br>will<br>attempt<br>to<br>follow<br>along<br>the<br>same<br>paths |
+| Player
+is
+running
+/
+walking | Homie
+will
+attempt
+to
+follow
+along
+the
+same
+paths |
 |----------------------------------------------------------------------------|------------------------------------------------------------------------------------|
-| | the<br>player<br>takes,<br>running<br>or<br>walking<br>as<br>needs |
+| | the
+player
+takes,
+running
+or
+walking
+as
+needs |
 | | merit. |
-| Player<br>gets<br>into<br>a<br>car | Homie<br>will<br>attempt<br>to<br>get<br>into<br>the<br>passenger<br>seat |
-| | or<br>the<br>back<br>seats<br>if<br>available<br>and<br>the<br>passenger |
-| | seat<br>is<br>full |
-| | (Note:<br>If<br>AI<br>cannot<br>find<br>a<br>suitable<br>path<br>to<br>get<br>into |
-| | the<br>car,<br>he<br>will<br>be<br>teleported<br>in) |
-| Player<br>gets<br>into<br>a<br>fight<br>with<br>an<br>AI | Homie<br>will<br>join<br>the<br>fight |
-| There<br>is<br>a<br>gun<br>/<br>weapon<br>/<br>ammo<br>on<br>the<br>ground | Homie<br>will<br>run<br>to<br>get<br>it. |
-| Player<br>strikes<br>/<br>shoots<br>the<br>Homie | Homie<br>will<br>raise<br>his<br>arms<br>and<br>complain |
-| Player<br>gets<br>more<br>than<br>twenty<br>meters<br>ahead<br>of<br>the | The<br>player<br>is<br>warned<br>that<br>he<br>is<br>about<br>to<br>lose<br>his |
+| Player
+gets
+into
+a
+car | Homie
+will
+attempt
+to
+get
+into
+the
+passenger
+seat |
+| | or
+the
+back
+seats
+if
+available
+and
+the
+passenger |
+| | seat
+is
+full |
+| | (Note:
+If
+AI
+cannot
+find
+a
+suitable
+path
+to
+get
+into |
+| | the
+car,
+he
+will
+be
+teleported
+in) |
+| Player
+gets
+into
+a
+fight
+with
+an
+AI | Homie
+will
+join
+the
+fight |
+| There
+is
+a
+gun
+/
+weapon
+/
+ammo
+on
+the
+ground | Homie
+will
+run
+to
+get
+it. |
+| Player
+strikes
+/
+shoots
+the
+Homie | Homie
+will
+raise
+his
+arms
+and
+complain |
+| Player
+gets
+more
+than
+twenty
+meters
+ahead
+of
+the | The
+player
+is
+warned
+that
+he
+is
+about
+to
+lose
+his |
 ## | Homie | Homie |
 
 If the player has no Homies in the vicinity and needs them, he can call them by pressing X. They will arrive in their cars within a minute's time.
@@ -889,23 +2276,116 @@ If the Saints and the police are both hostile in an area with the player, its po
 
 In their vehicles, the police have a couple standard moves:
 
-| Condition | Additional<br>Condition | Possible<br>Action |
+| Condition | Additional
+Condition | Possible
+Action |
 |-----------------------------------------|----------------------------------------------|------------------------------------------------------|
-| Player<br>is<br>stopped<br>and<br>armed | There<br>is<br>more<br>than<br>one<br>police | Surround<br>the<br>player<br>on<br>two<br>or |
-| | car<br>responding | more<br>sides,<br>open<br>doors<br>for |
-| | | cover,<br>and<br>aim<br>weapons,<br>telling |
-| | | player<br>to<br>surrender. |
-| Player<br>is<br>driving | There<br>is<br>more<br>than<br>one<br>police | One<br>car<br>gets<br>to<br>the<br>side<br>of<br>the |
-| | car<br>responding | player's,<br>the<br>other<br>gets<br>behind, |
-| | | and<br>they<br>attempt<br>to<br>bump<br>the |
-| | | player<br>off<br>the<br>road. |
-| Player<br>is<br>driving | | Car<br>attempt<br>to<br>bump<br>the<br>player |
-| | | off<br>the<br>road<br>from<br>behind. |
-| Player<br>is<br>driving | | Car<br>attempt<br>to<br>bump<br>the<br>player |
-| | | off<br>the<br>road<br>from<br>the<br>side. |
-| Player<br>is<br>driving | Four<br>Notoriety<br>Stars<br>or<br>More | SWAT<br>Trucks<br>set<br>up<br>road<br>blocks |
-| | | at<br>intersections<br>the<br>player<br>is |
-| | | heading<br>for. |
+| Player
+is
+stopped
+and
+armed | There
+is
+more
+than
+one
+police | Surround
+the
+player
+on
+two
+or |
+| | car
+responding | more
+sides,
+open
+doors
+for |
+| | | cover,
+and
+aim
+weapons,
+telling |
+| | | player
+to
+surrender. |
+| Player
+is
+driving | There
+is
+more
+than
+one
+police | One
+car
+gets
+to
+the
+side
+of
+the |
+| | car
+responding | player's,
+the
+other
+gets
+behind, |
+| | | and
+they
+attempt
+to
+bump
+the |
+| | | player
+off
+the
+road. |
+| Player
+is
+driving | | Car
+attempt
+to
+bump
+the
+player |
+| | | off
+the
+road
+from
+behind. |
+| Player
+is
+driving | | Car
+attempt
+to
+bump
+the
+player |
+| | | off
+the
+road
+from
+the
+side. |
+| Player
+is
+driving | Four
+Notoriety
+Stars
+or
+More | SWAT
+Trucks
+set
+up
+road
+blocks |
+| | | at
+intersections
+the
+player
+is |
+| | | heading
+for. |
 
 Once out of their vehicles, Cop Archetypes tend to go for cover points first, often the open door of their squad car.
 
@@ -951,47 +2431,244 @@ The player then gets his choice of different hair colors and cuts:.
 | Style | Color |
 |--------------------------------------------|-----------------------------------------------------|
 | Bald | N/a |
-| Buzzed<br>receding,<br>straight | Black,<br>brown,<br>red,<br>blond,<br>white |
-| Buzzed<br>receding,<br>curly | Black,<br>brown,<br>red,<br>blond,<br>white |
-| Buzzed<br>,<br>straight | Black,<br>brown,<br>red,<br>blond,<br>white |
-| Buzzed<br>,<br>curly | Black,<br>brown,<br>red,<br>blond,<br>white |
-| Flat<br>Top | Black,<br>brown,<br>red,<br>blond,<br>white |
-| Low<br>mohawk | Black,<br>pink,<br>blue,<br>red,<br>green,<br>white |
-| Medium<br>mohawk | Black,<br>pink,<br>blue,<br>red,<br>green,<br>white |
-| Huge<br>mohawk | Black,<br>pink,<br>blue,<br>red,<br>green,<br>white |
-| Vanilla<br>Ice | Black,<br>brown,<br>red,<br>blond,<br>white |
-| Six<br>Inch<br>Hi<br>Top<br>Fade,<br>curly | Black,<br>brown,<br>red,<br>blond,<br>white |
-| Buzzed,<br>bowl | Black,<br>brown,<br>red,<br>blond,<br>white |
-| Bruce<br>Lee<br>Bowl | Black,<br>brown,<br>red,<br>blond,<br>white |
-| Razored<br>crop<br>"bowl" | Black,<br>brown,<br>red,<br>blond,<br>white |
-| High<br>Tight<br>Caesar | Black,<br>brown,<br>white |
-| New<br>Romantic<br>Curl | Black,<br>brown,<br>white |
-| Parted<br>In<br>The<br>Middle | Black,<br>brown,<br>red,<br>blond,<br>white |
-| Faux<br>Hawk | Black,<br>brown,<br>red,<br>blond,<br>white |
-| Short<br>Spikes | Black,<br>pink,<br>blue,<br>red,<br>green,<br>white |
-| Tall<br>Spikes | Black,<br>pink,<br>blue,<br>red,<br>green,<br>white |
-| Short<br>Emo | Black,<br>pink,<br>blue,<br>red,<br>green,<br>white |
-| Medium<br>Emo | Black,<br>pink,<br>blue,<br>red,<br>green,<br>white |
-| Long<br>Emo | Black,<br>pink,<br>blue,<br>red,<br>green,<br>white |
-| Windblown | Black,<br>brown,<br>red,<br>blond,<br>white |
-| Curly | Black,<br>brown,<br>red,<br>blond,<br>white |
-| Shoulder<br>Length | Black,<br>brown,<br>red,<br>blond,<br>white |
-| Mullet | Black,<br>brown,<br>red,<br>blond,<br>white |
-| Brushed<br>back<br>mullet | Black,<br>brown,<br>red,<br>blond,<br>white |
-| Short<br>afro | Black,<br>brown,<br>white |
-## | Medium<br>afro | Black,<br>brown,<br>white |
+| Buzzed
+receding,
+straight | Black,
+brown,
+red,
+blond,
+white |
+| Buzzed
+receding,
+curly | Black,
+brown,
+red,
+blond,
+white |
+| Buzzed
+,
+straight | Black,
+brown,
+red,
+blond,
+white |
+| Buzzed
+,
+curly | Black,
+brown,
+red,
+blond,
+white |
+| Flat
+Top | Black,
+brown,
+red,
+blond,
+white |
+| Low
+mohawk | Black,
+pink,
+blue,
+red,
+green,
+white |
+| Medium
+mohawk | Black,
+pink,
+blue,
+red,
+green,
+white |
+| Huge
+mohawk | Black,
+pink,
+blue,
+red,
+green,
+white |
+| Vanilla
+Ice | Black,
+brown,
+red,
+blond,
+white |
+| Six
+Inch
+Hi
+Top
+Fade,
+curly | Black,
+brown,
+red,
+blond,
+white |
+| Buzzed,
+bowl | Black,
+brown,
+red,
+blond,
+white |
+| Bruce
+Lee
+Bowl | Black,
+brown,
+red,
+blond,
+white |
+| Razored
+crop
+"bowl" | Black,
+brown,
+red,
+blond,
+white |
+| High
+Tight
+Caesar | Black,
+brown,
+white |
+| New
+Romantic
+Curl | Black,
+brown,
+white |
+| Parted
+In
+The
+Middle | Black,
+brown,
+red,
+blond,
+white |
+| Faux
+Hawk | Black,
+brown,
+red,
+blond,
+white |
+| Short
+Spikes | Black,
+pink,
+blue,
+red,
+green,
+white |
+| Tall
+Spikes | Black,
+pink,
+blue,
+red,
+green,
+white |
+| Short
+Emo | Black,
+pink,
+blue,
+red,
+green,
+white |
+| Medium
+Emo | Black,
+pink,
+blue,
+red,
+green,
+white |
+| Long
+Emo | Black,
+pink,
+blue,
+red,
+green,
+white |
+| Windblown | Black,
+brown,
+red,
+blond,
+white |
+| Curly | Black,
+brown,
+red,
+blond,
+white |
+| Shoulder
+Length | Black,
+brown,
+red,
+blond,
+white |
+| Mullet | Black,
+brown,
+red,
+blond,
+white |
+| Brushed
+back
+mullet | Black,
+brown,
+red,
+blond,
+white |
+| Short
+afro | Black,
+brown,
+white |
+## | Medium
+afro | Black,
+brown,
+white |
 
-| Huge<br>afro | Black,<br>brown,<br>white |
+| Huge
+afro | Black,
+brown,
+white |
 |--------------------------------|-----------------------------------------------------|
-| Mini<br>dreds | Black,<br>brown,<br>white |
-| Big<br>dreds | Black,<br>brown,<br>white |
-| Short<br>cornrows | Black,<br>brown,<br>white |
-| Shoulder<br>length<br>cornrows | Black,<br>brown,<br>white |
-| Braided<br>tight | Black,<br>brown,<br>white |
-| Jhericurled | Black,<br>brown,<br>white |
-| Curly<br>medium | Black,<br>brown,<br>red,<br>blond,<br>white |
-| The<br>Del<br>Toro<br>Mane | Black,<br>brown,<br>red,<br>blond,<br>white |
-| Samurai<br>bobbed<br>tail | Black,<br>pink,<br>blue,<br>red,<br>green,<br>white |
+| Mini
+dreds | Black,
+brown,
+white |
+| Big
+dreds | Black,
+brown,
+white |
+| Short
+cornrows | Black,
+brown,
+white |
+| Shoulder
+length
+cornrows | Black,
+brown,
+white |
+| Braided
+tight | Black,
+brown,
+white |
+| Jhericurled | Black,
+brown,
+white |
+| Curly
+medium | Black,
+brown,
+red,
+blond,
+white |
+| The
+Del
+Toro
+Mane | Black,
+brown,
+red,
+blond,
+white |
+| Samurai
+bobbed
+tail | Black,
+pink,
+blue,
+red,
+green,
+white |
 
 Finally, the player has a choice of facial hair matching the hair color picked:
 
@@ -1016,50 +2693,690 @@ The player begins the game in his sweatpants and black tee-shirt from the police
 
 Clothes make the man. Among the items the player can buy to wear in the clothing shops:
 
-| Item | Color | Cost | Rep<br>Bonus |
+| Item | Color | Cost | Rep
+Bonus |
 |------------------|-----------------------------------------|------|-----------------------------------------------------|
-| Ragged<br>Jeans | Blue<br>and<br>white | \$5 | -10 |
-| Stained | Gray<br>and<br>White | \$5 | -10 |
+| Ragged
+Jeans | Blue
+and
+white | \$5 | -10 |
+| Stained | Gray
+and
+White | \$5 | -10 |
 | sweatpants | | | |
-| Hospital<br>Gown | White | \$5 | -10 |
-| Bandanna<br>Du | Color<br>Scale,<br>including<br>Green*, | \$10 | 0 |
-| Rag | Purple**,<br>Red*** | | *<br>10<br>Eastside<br>saints,<br>-10<br>Saint<br>& |
+| Hospital
+Gown | White | \$5 | -10 |
+| Bandanna
+Du | Color
+Scale,
+including
+Green*, | \$10 | 0 |
+| Rag | Purple**,
+Red*** | | *
+10
+Eastside
+saints,
+-10
+Saint
+& |
 
-| Stocking<br>Cap | Color<br>Scale,<br>including<br>Green*,<br>Purple**,<br>Red*** | \$10 | Barrio<br>saints<br>**<br>10<br>Saint,<br>-10<br>Samedi<br>&<br>Barrio<br>saints<br>***<br>10<br>Barrio<br>saints,<br>-10<br>Saint<br>&<br>Samedi<br>0<br>*<br>10<br>Eastside<br>saints,<br>-10<br>Saint<br>& |
+| Stocking
+Cap | Color
+Scale,
+including
+Green*,
+Purple**,
+Red*** | \$10 | Barrio
+saints
+**
+10
+Saint,
+-10
+Samedi
+&
+Barrio
+saints
+***
+10
+Barrio
+saints,
+-10
+Saint
+&
+Samedi
+0
+*
+10
+Eastside
+saints,
+-10
+Saint
+& |
 |--------------------------|----------------------------------------------------------------|------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| | | | Barrio<br>saints<br>**<br>10<br>Saint,<br>-10<br>Samedi<br>&<br>Barrio<br>saints<br>***<br>10<br>Barrio<br>saints,<br>-10<br>Saint<br>&<br>Samedi |
-| Wifebeater, | White,<br>Black,<br>Green*,<br>Purple**,<br>Red*** | \$10 | 0<br>*<br>10<br>Eastside<br>saints,<br>-10<br>Saint<br>&<br>Barrio<br>saints<br>**<br>10<br>Saint,<br>-10<br>Samedi<br>&<br>Barrio<br>saints<br>***<br>10<br>Barrio<br>saints,<br>-10<br>Saint<br>&<br>Samedi |
-| "STILWATER"<br>Tee-Shirt | White,<br>Black,<br>Green*,<br>Purple**,<br>Red*** | \$10 | 0<br>*<br>10<br>Eastside<br>saints,<br>-10<br>Saint<br>&<br>Barrio<br>saints<br>**<br>10<br>Saint,<br>-10<br>Samedi<br>&<br>Barrio<br>saints<br>***<br>10<br>Barrio<br>saints,<br>-10<br>Saint<br>&<br>Samedi |
-| Plain<br>Hood | White,<br>Black,<br>Green*,<br>Purple**,<br>Red*** | \$20 | 0<br>*<br>10<br>Eastside<br>saints,<br>-10<br>Saint<br>&<br>Barrio<br>saints<br>**<br>10<br>Saint,<br>-10<br>Samedi<br>&<br>Barrio<br>saints<br>***<br>10<br>Barrio<br>saints,<br>-10<br>Saint<br>&<br>Samedi |
-| Track<br>Pants, | Color<br>Scale,<br>including<br>Green*,<br>Purple**,<br>Red*** | \$20 | 0<br>*<br>10<br>Eastside<br>saints,<br>-10<br>Saint<br>&<br>Barrio<br>saints<br>**<br>10<br>Saint,<br>-10<br>Samedi<br>&<br>Barrio<br>saints<br>***<br>10<br>Barrio<br>saints,<br>-10<br>Saint<br>&<br>Samedi |
-| Plain<br>Cap | Color<br>Scale,<br>including<br>Green*,<br>Purple**,<br>Red*** | \$30 | 5<br>*<br>15<br>Eastside<br>saints,<br>-15<br>Saint<br>&<br>Barrio<br>saints<br>**<br>15<br>Saint,<br>-15<br>Samedi<br>&<br>Barrio<br>saints<br>***<br>15<br>Barrio<br>saints,<br>-15<br>Saint<br>&<br>Samedi |
+| | | | Barrio
+saints
+**
+10
+Saint,
+-10
+Samedi
+&
+Barrio
+saints
+***
+10
+Barrio
+saints,
+-10
+Saint
+&
+Samedi |
+| Wifebeater, | White,
+Black,
+Green*,
+Purple**,
+Red*** | \$10 | 0
+*
+10
+Eastside
+saints,
+-10
+Saint
+&
+Barrio
+saints
+**
+10
+Saint,
+-10
+Samedi
+&
+Barrio
+saints
+***
+10
+Barrio
+saints,
+-10
+Saint
+&
+Samedi |
+| "STILWATER"
+Tee-Shirt | White,
+Black,
+Green*,
+Purple**,
+Red*** | \$10 | 0
+*
+10
+Eastside
+saints,
+-10
+Saint
+&
+Barrio
+saints
+**
+10
+Saint,
+-10
+Samedi
+&
+Barrio
+saints
+***
+10
+Barrio
+saints,
+-10
+Saint
+&
+Samedi |
+| Plain
+Hood | White,
+Black,
+Green*,
+Purple**,
+Red*** | \$20 | 0
+*
+10
+Eastside
+saints,
+-10
+Saint
+&
+Barrio
+saints
+**
+10
+Saint,
+-10
+Samedi
+&
+Barrio
+saints
+***
+10
+Barrio
+saints,
+-10
+Saint
+&
+Samedi |
+| Track
+Pants, | Color
+Scale,
+including
+Green*,
+Purple**,
+Red*** | \$20 | 0
+*
+10
+Eastside
+saints,
+-10
+Saint
+&
+Barrio
+saints
+**
+10
+Saint,
+-10
+Samedi
+&
+Barrio
+saints
+***
+10
+Barrio
+saints,
+-10
+Saint
+&
+Samedi |
+| Plain
+Cap | Color
+Scale,
+including
+Green*,
+Purple**,
+Red*** | \$30 | 5
+*
+15
+Eastside
+saints,
+-15
+Saint
+&
+Barrio
+saints
+**
+15
+Saint,
+-15
+Samedi
+&
+Barrio
+saints
+***
+15
+Barrio
+saints,
+-15
+Saint
+&
+Samedi |
 
-| Kangol<br>Style<br>Cap | Color<br>Scale,<br>including<br>Green*,<br>Purple**,<br>Red*** | \$30 | 5<br>*<br>15<br>Eastside<br>saints,<br>-15<br>Saint<br>&<br>Barrio<br>saints<br>**<br>15<br>Saint,<br>-15<br>Samedi<br>&<br>Barrio<br>saints<br>***<br>15<br>Barrio<br>saints,<br>-15<br>Saint<br>&<br>Samedi |
+| Kangol
+Style
+Cap | Color
+Scale,
+including
+Green*,
+Purple**,
+Red*** | \$30 | 5
+*
+15
+Eastside
+saints,
+-15
+Saint
+&
+Barrio
+saints
+**
+15
+Saint,
+-15
+Samedi
+&
+Barrio
+saints
+***
+15
+Barrio
+saints,
+-15
+Saint
+&
+Samedi |
 |----------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|-------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Chullo<br>Peruvian<br>Style<br>Cap | Black<br>pattern<br>on<br>white,<br>blue<br>pattern<br>on<br>yellow,<br>pink<br>pattern<br>on<br>gray,<br>white<br>pattern<br>on<br>orange | \$30 | 5 |
-| Baggy<br>jeans | White,<br>Blue,<br>Black | \$50 | 10 |
-| Wack<br>designer<br>High<br>Tops | White<br>and<br>Blue,<br>Blue<br>and<br>Black,<br>White<br>and<br>Black,<br>Gray<br>and<br>Blue | \$50 | 10 |
-| Wack<br>designer<br>Low<br>Tops | White<br>and<br>Blue,<br>Blue<br>and<br>Black,<br>White<br>and<br>Black,<br>Gray<br>and<br>Blue | \$50 | 10 |
-| Designer<br>Track<br>Suit | Color<br>Scale,<br>including<br>Green*,<br>Purple**,<br>Red*** | \$50 | 10<br>*<br>15<br>Eastside<br>saints,<br>-15<br>Saint<br>&<br>Barrio<br>saints<br>**<br>15<br>Saint,<br>-15<br>Samedi<br>&<br>Barrio<br>saints<br>***<br>15<br>Barrio<br>saints,<br>-15<br>Saint<br>&<br>Samedi |
-| Cowboy<br>Hat | Black,<br>White,<br>Gray,<br>Brown | \$80 | 5 |
-| Half<br>Pants | Black,<br>White,<br>Gray,<br>Brown | \$100 | 5 |
-| Piner<br>High<br>Tops | Silver<br>and<br>Blue,<br>Black<br>and<br>Gold,<br>Gray<br>and<br>Copper,<br>Graphite<br>and<br>White | \$100 | 20 |
-| Piner<br>Low<br>Tops | Silver<br>and<br>Blue,<br>Black<br>and<br>Gold,<br>Gray<br>and<br>Copper,<br>Graphite<br>and<br>White | \$100 | 20 |
-| Crooks<br>Bro<br>designer<br>Button<br>Up<br>Shirt | Plain,<br>Stripes,<br>Checks,<br>Plaid,<br>On<br>a<br>color<br>slider<br>including<br>Green*,<br>Purple**,<br>Red*** | \$120 | 20<br>*<br>30<br>Eastside<br>saints,<br>-30<br>Saint<br>&<br>Barrio<br>saints<br>**<br>30<br>Saint,<br>-30<br>Samedi<br>&<br>Barrio<br>saints<br>***<br>30<br>Barrio<br>saints,<br>-30<br>Saint<br>&<br>Samedi |
-| Crooks<br>Bro<br>designer<br>Track<br>Suit | White<br>trim<br>with<br>color<br>scale<br>slider<br>(including<br>Green*,<br>Purple**,<br>Red***) | \$150 | 25<br>*<br>50<br>Eastside<br>saints,<br>-50<br>Saint<br>&<br>Barrio<br>saints<br>**<br>50<br>Saint,<br>-50<br>Samedi<br>&<br>Barrio<br>saints<br>***<br>50<br>Barrio<br>saints,<br>-50<br>Saint<br>&<br>Samedi |
+| Chullo
+Peruvian
+Style
+Cap | Black
+pattern
+on
+white,
+blue
+pattern
+on
+yellow,
+pink
+pattern
+on
+gray,
+white
+pattern
+on
+orange | \$30 | 5 |
+| Baggy
+jeans | White,
+Blue,
+Black | \$50 | 10 |
+| Wack
+designer
+High
+Tops | White
+and
+Blue,
+Blue
+and
+Black,
+White
+and
+Black,
+Gray
+and
+Blue | \$50 | 10 |
+| Wack
+designer
+Low
+Tops | White
+and
+Blue,
+Blue
+and
+Black,
+White
+and
+Black,
+Gray
+and
+Blue | \$50 | 10 |
+| Designer
+Track
+Suit | Color
+Scale,
+including
+Green*,
+Purple**,
+Red*** | \$50 | 10
+*
+15
+Eastside
+saints,
+-15
+Saint
+&
+Barrio
+saints
+**
+15
+Saint,
+-15
+Samedi
+&
+Barrio
+saints
+***
+15
+Barrio
+saints,
+-15
+Saint
+&
+Samedi |
+| Cowboy
+Hat | Black,
+White,
+Gray,
+Brown | \$80 | 5 |
+| Half
+Pants | Black,
+White,
+Gray,
+Brown | \$100 | 5 |
+| Piner
+High
+Tops | Silver
+and
+Blue,
+Black
+and
+Gold,
+Gray
+and
+Copper,
+Graphite
+and
+White | \$100 | 20 |
+| Piner
+Low
+Tops | Silver
+and
+Blue,
+Black
+and
+Gold,
+Gray
+and
+Copper,
+Graphite
+and
+White | \$100 | 20 |
+| Crooks
+Bro
+designer
+Button
+Up
+Shirt | Plain,
+Stripes,
+Checks,
+Plaid,
+On
+a
+color
+slider
+including
+Green*,
+Purple**,
+Red*** | \$120 | 20
+*
+30
+Eastside
+saints,
+-30
+Saint
+&
+Barrio
+saints
+**
+30
+Saint,
+-30
+Samedi
+&
+Barrio
+saints
+***
+30
+Barrio
+saints,
+-30
+Saint
+&
+Samedi |
+| Crooks
+Bro
+designer
+Track
+Suit | White
+trim
+with
+color
+scale
+slider
+(including
+Green*,
+Purple**,
+Red***) | \$150 | 25
+*
+50
+Eastside
+saints,
+-50
+Saint
+&
+Barrio
+saints
+**
+50
+Saint,
+-50
+Samedi
+&
+Barrio
+saints
+***
+50
+Barrio
+saints,
+-50
+Saint
+&
+Samedi |
 
-| Studstetter | "Natural"<br>cow,<br>American<br>flag, | \$180 | 30 |
+| Studstetter | "Natural"
+cow,
+American
+flag, | \$180 | 30 |
 |---------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Cowboy<br>Hat | snake | | |
-| Stalemate<br>Cap | Checkerboard<br>pattern<br>of<br>contrasting<br>color<br>on<br>a<br>sliding<br>Color<br>Scale,<br>including<br>Green*,<br>Purple**,<br>Red*** | \$200 | 30<br>*<br>75<br>Eastside<br>saints,<br>-75<br>Saint<br>&<br>Barrio<br>saints<br>**<br>75<br>Saint,<br>-75<br>Samedi<br>&<br>Barrio<br>saints<br>***<br>75<br>Barrio<br>saints,<br>-75<br>Saint<br>&<br>Samedi |
-| Holywood<br>High<br>Tops | Snake<br>Skin,<br>Tiger<br>Stripes,<br>Zebra<br>Stripes,<br>Giraffe<br>Spots,<br>Camouflage,<br>Leopard<br>Spots,<br>Rainbow<br>(with<br>slider) | \$500 | 40 |
-| Holywood<br>Low<br>Tops | Snake<br>Skin,<br>Tiger<br>Stripes,<br>Zebra<br>Stripes,<br>Giraffe<br>Spots,<br>Camouflage,<br>Leopard<br>Spots,<br>Rainbow<br>(with<br>slider) | \$500 | 40 |
-| Marc<br>Effette<br>designer<br>suit | Salmon,<br>Fuschia,<br>Magenta,<br>Eggshell,<br>Gold,<br>Saffron,<br>Tangerine,<br>Persimmon,<br>Pumpkin | \$750 | 45 |
-| Lorenzo<br>di Merdi<br>designer<br>Suit<br>and<br>boots<br>with<br>pimp<br>hat | Black,<br>white,<br>brown,<br>gray,<br>gold,<br>silver,<br>copper | \$800 | 50 |
-| Lorenzo<br>di Merdi<br>Overcoat<br>with<br>suit<br>and<br>boots<br>with<br>pimp<br>hat | Solid<br>color,<br>pin<br>stripes,<br>plaid,<br>on<br>a<br>sliding<br>Color<br>Scale,<br>including<br>Green*,<br>Purple**,<br>Red*** | \$2000 | 80<br>*<br>100<br>Eastside<br>saints,<br>-100<br>Saint<br>&<br>Barrio<br>saints<br>**<br>100<br>Saint,<br>-100<br>Samedi<br>&<br>Barrio<br>saints<br>***<br>100<br>Barrio<br>saints,<br>-100<br>Saint<br>&<br>Samedi |
-| Nispe<br>&<br>Nispe<br>British<br>Custom<br>Bespoke<br>Suit | Solid<br>color,<br>pin<br>stripes,<br>plaid,<br>on<br>a<br>sliding<br>Color<br>Scale,<br>including<br>Green*,<br>Purple**,<br>Red*** | \$5000 | 100<br>*<br>150<br>Eastside<br>saints,<br>-75<br>Saint<br>&<br>Barrio<br>saints<br>**<br>100<br>Saint,<br>-75<br>Samedi<br>&<br>Barrio<br>saints<br>***<br>150<br>Barrio<br>saints,<br>-75<br>Saint<br>&<br>Samedi |
-| Half<br>Fur<br>coat | Black,<br>gray,<br>white | \$9000 | 200 |
-| Full<br>Fur<br>coat | Black,<br>gray,<br>white | \$50000 | 300 |
+| Cowboy
+Hat | snake | | |
+| Stalemate
+Cap | Checkerboard
+pattern
+of
+contrasting
+color
+on
+a
+sliding
+Color
+Scale,
+including
+Green*,
+Purple**,
+Red*** | \$200 | 30
+*
+75
+Eastside
+saints,
+-75
+Saint
+&
+Barrio
+saints
+**
+75
+Saint,
+-75
+Samedi
+&
+Barrio
+saints
+***
+75
+Barrio
+saints,
+-75
+Saint
+&
+Samedi |
+| Holywood
+High
+Tops | Snake
+Skin,
+Tiger
+Stripes,
+Zebra
+Stripes,
+Giraffe
+Spots,
+Camouflage,
+Leopard
+Spots,
+Rainbow
+(with
+slider) | \$500 | 40 |
+| Holywood
+Low
+Tops | Snake
+Skin,
+Tiger
+Stripes,
+Zebra
+Stripes,
+Giraffe
+Spots,
+Camouflage,
+Leopard
+Spots,
+Rainbow
+(with
+slider) | \$500 | 40 |
+| Marc
+Effette
+designer
+suit | Salmon,
+Fuschia,
+Magenta,
+Eggshell,
+Gold,
+Saffron,
+Tangerine,
+Persimmon,
+Pumpkin | \$750 | 45 |
+| Lorenzo
+di Merdi
+designer
+Suit
+and
+boots
+with
+pimp
+hat | Black,
+white,
+brown,
+gray,
+gold,
+silver,
+copper | \$800 | 50 |
+| Lorenzo
+di Merdi
+Overcoat
+with
+suit
+and
+boots
+with
+pimp
+hat | Solid
+color,
+pin
+stripes,
+plaid,
+on
+a
+sliding
+Color
+Scale,
+including
+Green*,
+Purple**,
+Red*** | \$2000 | 80
+*
+100
+Eastside
+saints,
+-100
+Saint
+&
+Barrio
+saints
+**
+100
+Saint,
+-100
+Samedi
+&
+Barrio
+saints
+***
+100
+Barrio
+saints,
+-100
+Saint
+&
+Samedi |
+| Nispe
+&
+Nispe
+British
+Custom
+Bespoke
+Suit | Solid
+color,
+pin
+stripes,
+plaid,
+on
+a
+sliding
+Color
+Scale,
+including
+Green*,
+Purple**,
+Red*** | \$5000 | 100
+*
+150
+Eastside
+saints,
+-75
+Saint
+&
+Barrio
+saints
+**
+100
+Saint,
+-75
+Samedi
+&
+Barrio
+saints
+***
+150
+Barrio
+saints,
+-75
+Saint
+&
+Samedi |
+| Half
+Fur
+coat | Black,
+gray,
+white | \$9000 | 200 |
+| Full
+Fur
+coat | Black,
+gray,
+white | \$50000 | 300 |
 
 # Tattoo
 
@@ -1078,93 +3395,450 @@ The player can pop into the neighborhood barbershops to change the hair on his h
 
 Over the course of playing the game, certain vehicles will find themselves in the player's possession. When he brings them to a garage, the player can then modify the plain version of each of these vehicles to suit his needs and whims. Among the modifications available for each body type:
 
-| Vehicle | Based<br>On | Garage<br>Modifications |
+| Vehicle | Based
+On | Garage
+Modifications |
 |------------------|-------------------|-------------------------------------------------------------------------|
-| Vegas | Buick<br>Riviera | Color<br>/<br>Paint<br>Type<br>on<br>slider<br>-<br>\$200 |
-| | | Star<br>Package<br>(convertible,<br>fuzzy<br>dice)<br>-<br>\$1000 |
-| | | Cruiser<br>Package<br>(Flames<br>painted,<br>nitrous<br>booster, |
-| | | racing<br>exhaust)<br>-<br>\$2500 |
-| | | King<br>Package<br>(Fins,<br>fleur<br>de<br>lys<br>icons,<br>reinforced |
-| | | bumper)<br>-<br>\$5000 |
-| Capshaw | Chevy<br>Cavalier | Color<br>/<br>Paint<br>Type<br>on<br>slider<br>-<br>\$200 |
-| | | Star<br>Package<br>-<br>\$1000 |
-| | | Cruiser<br>Package<br>-<br>\$2500 |
-| | | King<br>Package<br>-<br>\$5000 |
-| Venom | Corvette | Color<br>/<br>Paint<br>Type<br>on<br>slider<br>-<br>\$500 |
-| | | Star<br>Package<br>-<br>\$2000 |
-| | | Cruiser<br>Package<br>-<br>\$6000 |
-| | | King<br>Package<br>-<br>\$9000 |
-| Keystone | Chevy<br>HHR | Color<br>/<br>Paint<br>Type<br>on<br>slider<br>-<br>\$500 |
-| | | Star<br>Package<br>-<br>\$5000 |
-| | | Cruiser<br>Package<br>-<br>\$2500 |
-| | | King<br>Package<br>-<br>\$5000 |
-| Compton | Chevy<br>Impala | Color<br>/<br>Paint<br>Type<br>on<br>slider<br>-<br>\$500 |
-| | | Star<br>Package<br>-<br>\$1000 |
-| | | Cruiser<br>Package<br>-<br>\$2500 |
-| | | King<br>Package<br>-<br>\$4000 |
-| Betsy | Pickup<br>Truck | Color<br>/<br>Paint<br>Type<br>on<br>slider<br>-<br>\$500 |
-| | | Star<br>Package<br>-<br>\$5000 |
-| | | Cruiser<br>Package<br>-<br>\$7500 |
-| | | King<br>Package<br>-<br>\$6000 |
-| Venom<br>Classic | Datsun<br>240Z | Color<br>/<br>Paint<br>Type<br>on<br>slider<br>-<br>\$750 |
+| Vegas | Buick
+Riviera | Color
+/
+Paint
+Type
+on
+slider
+-
+\$200 |
+| | | Star
+Package
+(convertible,
+fuzzy
+dice)
+-
+\$1000 |
+| | | Cruiser
+Package
+(Flames
+painted,
+nitrous
+booster, |
+| | | racing
+exhaust)
+-
+\$2500 |
+| | | King
+Package
+(Fins,
+fleur
+de
+lys
+icons,
+reinforced |
+| | | bumper)
+-
+\$5000 |
+| Capshaw | Chevy
+Cavalier | Color
+/
+Paint
+Type
+on
+slider
+-
+\$200 |
+| | | Star
+Package
+-
+\$1000 |
+| | | Cruiser
+Package
+-
+\$2500 |
+| | | King
+Package
+-
+\$5000 |
+| Venom | Corvette | Color
+/
+Paint
+Type
+on
+slider
+-
+\$500 |
+| | | Star
+Package
+-
+\$2000 |
+| | | Cruiser
+Package
+-
+\$6000 |
+| | | King
+Package
+-
+\$9000 |
+| Keystone | Chevy
+HHR | Color
+/
+Paint
+Type
+on
+slider
+-
+\$500 |
+| | | Star
+Package
+-
+\$5000 |
+| | | Cruiser
+Package
+-
+\$2500 |
+| | | King
+Package
+-
+\$5000 |
+| Compton | Chevy
+Impala | Color
+/
+Paint
+Type
+on
+slider
+-
+\$500 |
+| | | Star
+Package
+-
+\$1000 |
+| | | Cruiser
+Package
+-
+\$2500 |
+| | | King
+Package
+-
+\$4000 |
+| Betsy | Pickup
+Truck | Color
+/
+Paint
+Type
+on
+slider
+-
+\$500 |
+| | | Star
+Package
+-
+\$5000 |
+| | | Cruiser
+Package
+-
+\$7500 |
+| | | King
+Package
+-
+\$6000 |
+| Venom
+Classic | Datsun
+240Z | Color
+/
+Paint
+Type
+on
+slider
+-
+\$750 |
 
-| | | Cruiser<br>Package<br>-<br>\$7500 |
+| | | Cruiser
+Package
+-
+\$7500 |
 |-----------------------|-----------------------------|---------------------------------------------------------------------------------------------|
-| | | King<br>Package<br>-<br>\$6000 |
-| Hannibal | Dodge<br>Caravan | Color<br>/<br>Paint<br>Type<br>on<br>slider<br>-<br>\$800 |
-| | | Woody<br>Package<br>(Wood<br>side<br>paneling, |
-| | | Mc Cain/Palin<br>08<br>Sticker)<br>-<br>\$1000 |
-| | | Cruiser<br>Package<br>-<br>\$7500 |
-| | | King<br>Package<br>-<br>\$6000 |
-| Five-O | Ford<br>Crown<br>Victoria | Color<br>/<br>Paint<br>Type<br>on<br>slider<br>-<br>\$500<br>Star<br>Package<br>-<br>\$1000 |
-| | | Cruiser<br>Package<br>-<br>\$2500 |
-| | | King<br>Package<br>-<br>\$4000 |
-| FBI | Ford<br>Excursion | Color<br>/<br>Paint<br>Type<br>on<br>slider<br>-<br>\$1000 |
-| | | Star<br>Package<br>-<br>\$7000 |
-| | | Cruiser<br>Package<br>-<br>\$8500 |
-| | | King<br>Package<br>-<br>\$10000 |
-| Nordberg | Ford<br>Explorer | Color<br>/<br>Paint<br>Type<br>on<br>slider<br>-<br>\$800 |
-| | | Cruiser<br>Package<br>-<br>\$7500 |
-| | | King<br>Package<br>-<br>\$6000 |
-| Zimos | Ford<br>Mustang | Color<br>/<br>Paint<br>Type<br>on<br>slider<br>-<br>\$750 |
-| | | Star<br>Package<br>-<br>\$3000 |
-| | | Cruiser<br>Package<br>-<br>\$8500 |
-| | | King<br>Package<br>-<br>\$7000 |
-| Peterliner | Freightliner<br>Coronado | N/A |
-| Delivery<br>Truck | Grumman-Olson<br>P-800 | N/A |
-| Mockingbird | Honda<br>Civic | Color<br>/<br>Paint<br>Type<br>on<br>slider<br>-<br>\$500 |
-| | | Star<br>Package<br>-<br>\$1000 |
-| | | Cruiser<br>Package<br>-<br>\$2500 |
-| | | King<br>Package<br>-<br>\$4000 |
-| Aqua | Honda<br>Element | Color<br>/<br>Paint<br>Type<br>on<br>slider<br>-<br>\$800 |
-| | | Cruiser<br>Package<br>-<br>\$8500 |
-| | | King<br>Package<br>-<br>\$6000 |
-| Eiswolf | Lexus<br>GS<br>300 | Color<br>/<br>Paint<br>Type<br>on<br>slider<br>-<br>\$2000 |
-| | | Star<br>Package<br>-<br>\$8000 |
-| | | Cruiser<br>Package<br>-<br>\$10500 |
-| | | King<br>Package<br>-<br>\$20000 |
-| Stilwater<br>Muncipal | Mack<br>Terra Pro<br>Cabover | N/A |
-| Socialite | Mercedes-Benz<br>C-Class | Color<br>/<br>Paint<br>Type<br>on<br>slider<br>-<br>\$2000 |
-| | | Star<br>Package<br>-<br>\$8000 |
-| | | Cruiser<br>Package<br>-<br>\$10500 |
-| | | King<br>Package<br>-<br>\$20000 |
-| Halberd | Mini-Cooper | Color<br>/<br>Paint<br>Type<br>on<br>slider<br>-<br>\$300 |
-| | | Star<br>Package<br>-<br>\$1000 |
-| | | Cruiser<br>Package<br>-<br>\$3500 |
-## | | | King<br>Package<br>-<br>\$8000 |
+| | | King
+Package
+-
+\$6000 |
+| Hannibal | Dodge
+Caravan | Color
+/
+Paint
+Type
+on
+slider
+-
+\$800 |
+| | | Woody
+Package
+(Wood
+side
+paneling, |
+| | | Mc Cain/Palin
+08
+Sticker)
+-
+\$1000 |
+| | | Cruiser
+Package
+-
+\$7500 |
+| | | King
+Package
+-
+\$6000 |
+| Five-O | Ford
+Crown
+Victoria | Color
+/
+Paint
+Type
+on
+slider
+-
+\$500
+Star
+Package
+-
+\$1000 |
+| | | Cruiser
+Package
+-
+\$2500 |
+| | | King
+Package
+-
+\$4000 |
+| FBI | Ford
+Excursion | Color
+/
+Paint
+Type
+on
+slider
+-
+\$1000 |
+| | | Star
+Package
+-
+\$7000 |
+| | | Cruiser
+Package
+-
+\$8500 |
+| | | King
+Package
+-
+\$10000 |
+| Nordberg | Ford
+Explorer | Color
+/
+Paint
+Type
+on
+slider
+-
+\$800 |
+| | | Cruiser
+Package
+-
+\$7500 |
+| | | King
+Package
+-
+\$6000 |
+| Zimos | Ford
+Mustang | Color
+/
+Paint
+Type
+on
+slider
+-
+\$750 |
+| | | Star
+Package
+-
+\$3000 |
+| | | Cruiser
+Package
+-
+\$8500 |
+| | | King
+Package
+-
+\$7000 |
+| Peterliner | Freightliner
+Coronado | N/A |
+| Delivery
+Truck | Grumman-Olson
+P-800 | N/A |
+| Mockingbird | Honda
+Civic | Color
+/
+Paint
+Type
+on
+slider
+-
+\$500 |
+| | | Star
+Package
+-
+\$1000 |
+| | | Cruiser
+Package
+-
+\$2500 |
+| | | King
+Package
+-
+\$4000 |
+| Aqua | Honda
+Element | Color
+/
+Paint
+Type
+on
+slider
+-
+\$800 |
+| | | Cruiser
+Package
+-
+\$8500 |
+| | | King
+Package
+-
+\$6000 |
+| Eiswolf | Lexus
+GS
+300 | Color
+/
+Paint
+Type
+on
+slider
+-
+\$2000 |
+| | | Star
+Package
+-
+\$8000 |
+| | | Cruiser
+Package
+-
+\$10500 |
+| | | King
+Package
+-
+\$20000 |
+| Stilwater
+Muncipal | Mack
+Terra Pro
+Cabover | N/A |
+| Socialite | Mercedes-Benz
+C-Class | Color
+/
+Paint
+Type
+on
+slider
+-
+\$2000 |
+| | | Star
+Package
+-
+\$8000 |
+| | | Cruiser
+Package
+-
+\$10500 |
+| | | King
+Package
+-
+\$20000 |
+| Halberd | Mini-Cooper | Color
+/
+Paint
+Type
+on
+slider
+-
+\$300 |
+| | | Star
+Package
+-
+\$1000 |
+| | | Cruiser
+Package
+-
+\$3500 |
+## | | | King
+Package
+-
+\$8000 |
 
-| Bootlegger | Oldsmobile<br>Cutlass | Color<br>/<br>Paint<br>Type<br>on<br>slider<br>-<br>\$500 |
+| Bootlegger | Oldsmobile
+Cutlass | Color
+/
+Paint
+Type
+on
+slider
+-
+\$500 |
 |------------|-----------------------|-----------------------------------------------------------|
-| | | Star<br>Package<br>-<br>\$1500 |
-| | | Cruiser<br>Package<br>-<br>\$3500 |
-| | | King<br>Package<br>-<br>\$4000 |
-| Cavallaro | Pontiac<br>GTO | Color<br>/<br>Paint<br>Type<br>on<br>slider<br>-<br>\$500 |
-| | | Star<br>Package<br>-<br>\$2000 |
-| | | Cruiser<br>Package<br>-<br>\$4500 |
-| | | King<br>Package<br>-<br>\$7000 |
-| Komodo | Subaru<br>Outback | Color<br>/<br>Paint<br>Type<br>on<br>slider<br>-<br>\$800 |
-| | | Cruiser<br>Package<br>-<br>\$7500 |
-## | | | King<br>Package<br>-<br>\$6000 |
+| | | Star
+Package
+-
+\$1500 |
+| | | Cruiser
+Package
+-
+\$3500 |
+| | | King
+Package
+-
+\$4000 |
+| Cavallaro | Pontiac
+GTO | Color
+/
+Paint
+Type
+on
+slider
+-
+\$500 |
+| | | Star
+Package
+-
+\$2000 |
+| | | Cruiser
+Package
+-
+\$4500 |
+| | | King
+Package
+-
+\$7000 |
+| Komodo | Subaru
+Outback | Color
+/
+Paint
+Type
+on
+slider
+-
+\$800 |
+| | | Cruiser
+Package
+-
+\$7500 |
+## | | | King
+Package
+-
+\$6000 |
 
 # Crib Modifications:
 
@@ -1172,50 +3846,536 @@ A crib is a place where you can store weapons, vehicles, money, and clothing.
 
 The player unlocks cribs after certain key missions. From then on, he can always return to the crib or cribs he owns, park and store his vehicle in his garage, and when he gets to the front door, he is asked "Do you want to enter [Crib Name]?" and pressing X opens an image of his crib in all its glory, barebones or modified.
 
-| Mission | Crib<br>Unlocked | Modification | Cost | Rep<br>Bonus |
+| Mission | Crib
+Unlocked | Modification | Cost | Rep
+Bonus |
 |---------------|----------------------|-------------------------------------------------|-------|--------------|
 | Completed | | | | |
-| Prologue | Shithole:<br>A | Thriftstore<br>Chic:<br>A<br>depressing | 500 | 10 |
-| Mission<br>3: | crappy<br>room<br>in | bedsit<br>lit<br>by<br>flickering | | |
-| | the<br>'hood. | florescence<br>from<br>the<br>street | | |
-| | | outside.<br>There<br>is<br>a<br>rickety<br>bed, | | |
-| | | motheaten<br>sheets,<br>cracked<br>and | | |
-| | | peeling<br>furniture,<br>and<br>you're | | |
-| | | glad<br>the<br>game<br>doesn't<br>come | | |
-| | | with<br>a<br>sense<br>of<br>smell. | | |
-| | | Den<br>of<br>Iniquity:<br>A<br>dark, | 5000 | 20 |
-| | | menacing<br>environment,<br>filled | | |
-| | | with<br>smoke<br>and<br>illuminated<br>by | | |
-| | | a<br>few<br>candles<br>and<br>the<br>end<br>of | | |
-| | | the<br>cigarette<br>of<br>the<br>naked | | |
-| | | woman<br>in<br>the<br>bed. | | |
-| | | Industrial<br>Strength:<br>The | 10000 | 30 |
-| | | exposed<br>brick<br>and<br>pipe<br>are | | |
-| | | design<br>elements<br>framing<br>a<br>very | | |
-| | | masculine,<br>very<br>sophisticated | | |
-| | | modern<br>industrial<br>décor. | | |
-| | | Everything<br>is<br>stainless<br>steel<br>and | | |
-| | | concrete,<br>and<br>the<br>latest<br>sound | | |
-| | | systems<br>and<br>consoles<br>and | | |
-| | | plasma<br>screens<br>are<br>placed<br>just | | |
+| Prologue | Shithole:
+A | Thriftstore
+Chic:
+A
+depressing | 500 | 10 |
+| Mission
+3: | crappy
+room
+in | bedsit
+lit
+by
+flickering | | |
+| | the
+'hood. | florescence
+from
+the
+street | | |
+| | | outside.
+There
+is
+a
+rickety
+bed, | | |
+| | | motheaten
+sheets,
+cracked
+and | | |
+| | | peeling
+furniture,
+and
+you're | | |
+| | | glad
+the
+game
+doesn't
+come | | |
+| | | with
+a
+sense
+of
+smell. | | |
+| | | Den
+of
+Iniquity:
+A
+dark, | 5000 | 20 |
+| | | menacing
+environment,
+filled | | |
+| | | with
+smoke
+and
+illuminated
+by | | |
+| | | a
+few
+candles
+and
+the
+end
+of | | |
+| | | the
+cigarette
+of
+the
+naked | | |
+| | | woman
+in
+the
+bed. | | |
+| | | Industrial
+Strength:
+The | 10000 | 30 |
+| | | exposed
+brick
+and
+pipe
+are | | |
+| | | design
+elements
+framing
+a
+very | | |
+| | | masculine,
+very
+sophisticated | | |
+| | | modern
+industrial
+décor. | | |
+| | | Everything
+is
+stainless
+steel
+and | | |
+| | | concrete,
+and
+the
+latest
+sound | | |
+| | | systems
+and
+consoles
+and | | |
+| | | plasma
+screens
+are
+placed
+just | | |
 
-| | | perfectly<br>without<br>any<br>clutter. | | |
+| | | perfectly
+without
+any
+clutter. | | |
 |----------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|--------------|
-| Mission<br>Completed | Crib<br>Unlocked | Modification | Cost | Rep<br>Bonus |
-| Samedi<br>Mission<br>4 | Chez<br>Nunez:<br>a<br>lair<br>in<br>the<br>sewers | Radical<br>Edge:<br>The<br>sewer<br>rooms<br>are<br>just<br>as<br>dank<br>and<br>disgusting<br>as<br>before,<br>but<br>now<br>it<br>seems<br>by<br>design.<br>Bright<br>graffiti<br>adorns<br>the<br>walls,<br>ragged<br>silk<br>sheets<br>hang<br>from<br>the<br>ceiling<br>revealing<br>and<br>concealing<br>the<br>silhouettes<br>of<br>dancing<br>women. | 500 | 10 |
-| | | Underground<br>Club:<br>A<br>very<br>groovy<br>"swingers"<br>pad<br>with<br>hanging<br>chairs<br>in<br>unusual<br>shapes<br>and<br>primary<br>colors,<br>1960s<br>lamps,<br>and<br>a<br>Tiki<br>bar.<br>Barry<br>White<br>or<br>the<br>like<br>is<br>playing<br>on<br>the<br>stereo. | 5000 | 20 |
-| | | Infernal<br>Luxury:<br>Not<br>unlike<br>Lex<br>Luther's<br>lair<br>in<br>the<br>original<br>Superman<br>movies,<br>with<br>gold<br>gilt<br>furnishing<br>of<br>ornate<br>design<br>contrasting<br>with<br>the<br>industrial<br>surroundings.<br>Everything<br>is<br>over<br>the<br>top<br>romantic,<br>plush<br>and<br>lush,<br>and<br>classic<br>music<br>drifts<br>in,<br>echoing<br>from<br>another<br>grand<br>chamber<br>in<br>the<br>lair. | 10000 | 30 |
-| Mission<br>Completed | Crib<br>Unlocked | Modification | Cost | Rep<br>Bonus |
-| Barrio<br>saints<br>Mission<br>4 | The<br>Suite<br>Life:<br>A<br>grand<br>series<br>of<br>rooms<br>in<br>a<br>five<br>star<br>hotel. | Mom<br>Would<br>Approve:<br>Lovely,<br>understated,<br>traditional<br>but<br>unfussy.<br>The<br>sofa<br>and<br>bed,<br>chairs<br>and<br>wardrobe,<br>rug<br>and<br>gun<br>cabinet<br>are<br>all<br>well<br>matched,<br>good<br>quality,<br>straight<br>out<br>of<br>Better<br>Homes<br>and<br>Gardens.<br>It's<br>frankly<br>a<br>little<br>dull<br>and<br>ungangsta<br>in<br>its<br>middle<br>class<br>niceness. | 500 | 10 |
-| | | Feng<br>Shizzle:<br>An<br>Asian<br>inspired<br>retreat,<br>a<br>harmonious<br>mixture<br>of<br>cultures<br>and<br>elegant<br>modern<br>design.<br>Shoji<br>screens<br>from<br>Japan,<br>Chinese<br>silks<br>and<br>tapestries,<br>a<br>beautiful<br>Thai<br>girl<br>in<br>the<br>Jacuzzi<br>tub,<br>and<br>all<br>the | 5000 | 20 |
+| Mission
+Completed | Crib
+Unlocked | Modification | Cost | Rep
+Bonus |
+| Samedi
+Mission
+4 | Chez
+Nunez:
+a
+lair
+in
+the
+sewers | Radical
+Edge:
+The
+sewer
+rooms
+are
+just
+as
+dank
+and
+disgusting
+as
+before,
+but
+now
+it
+seems
+by
+design.
+Bright
+graffiti
+adorns
+the
+walls,
+ragged
+silk
+sheets
+hang
+from
+the
+ceiling
+revealing
+and
+concealing
+the
+silhouettes
+of
+dancing
+women. | 500 | 10 |
+| | | Underground
+Club:
+A
+very
+groovy
+"swingers"
+pad
+with
+hanging
+chairs
+in
+unusual
+shapes
+and
+primary
+colors,
+1960s
+lamps,
+and
+a
+Tiki
+bar.
+Barry
+White
+or
+the
+like
+is
+playing
+on
+the
+stereo. | 5000 | 20 |
+| | | Infernal
+Luxury:
+Not
+unlike
+Lex
+Luther's
+lair
+in
+the
+original
+Superman
+movies,
+with
+gold
+gilt
+furnishing
+of
+ornate
+design
+contrasting
+with
+the
+industrial
+surroundings.
+Everything
+is
+over
+the
+top
+romantic,
+plush
+and
+lush,
+and
+classic
+music
+drifts
+in,
+echoing
+from
+another
+grand
+chamber
+in
+the
+lair. | 10000 | 30 |
+| Mission
+Completed | Crib
+Unlocked | Modification | Cost | Rep
+Bonus |
+| Barrio
+saints
+Mission
+4 | The
+Suite
+Life:
+A
+grand
+series
+of
+rooms
+in
+a
+five
+star
+hotel. | Mom
+Would
+Approve:
+Lovely,
+understated,
+traditional
+but
+unfussy.
+The
+sofa
+and
+bed,
+chairs
+and
+wardrobe,
+rug
+and
+gun
+cabinet
+are
+all
+well
+matched,
+good
+quality,
+straight
+out
+of
+Better
+Homes
+and
+Gardens.
+It's
+frankly
+a
+little
+dull
+and
+ungangsta
+in
+its
+middle
+class
+niceness. | 500 | 10 |
+| | | Feng
+Shizzle:
+An
+Asian
+inspired
+retreat,
+a
+harmonious
+mixture
+of
+cultures
+and
+elegant
+modern
+design.
+Shoji
+screens
+from
+Japan,
+Chinese
+silks
+and
+tapestries,
+a
+beautiful
+Thai
+girl
+in
+the
+Jacuzzi
+tub,
+and
+all
+the | 5000 | 20 |
 
-| | | technology<br>of<br>the<br>mysterious<br>East. | | |
+| | | technology
+of
+the
+mysterious
+East. | | |
 |-----------------------------------------------------|-----------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|--------------|
-| | | The<br>Sun<br>King:<br>A<br>pad<br>to<br>make<br>Louis<br>XIV<br>say,<br>"I'm<br>home."<br>Massive<br>chandeliers,<br>gold<br>flocked<br>wallpaper,<br>gilt<br>thrones,<br>thick<br>fur<br>rugs,<br>and<br>all<br>a<br>hall<br>of<br>mirrors<br>to<br>admire<br>your<br>opulence<br>and<br>lack<br>of<br>good<br>taste. | 10000 | 30 |
-| Mission<br>Completed | Crib<br>Unlocked | Modification | Cost | Rep<br>Bonus |
-| Both<br>Barrio<br>saints<br>&<br>Samedi<br>Missions | The<br>Floater:<br>A<br>luxury<br>yacht<br>in<br>the<br>Stilwater<br>Harbor | Ship<br>Shape:<br>Masculine<br>and<br>nautical<br>and<br>functional<br>and<br>uninspired.<br>The<br>only<br>big<br>feature<br>is<br>letting<br>the<br>player<br>rename<br>the<br>yacht<br>from<br>FLOATER.<br>He<br>is<br>given<br>a<br>keypad<br>and<br>christen<br>her<br>anything<br>16<br>letters<br>or<br>less,<br>which<br>will<br>appear<br>on<br>her<br>stern. | 500 | 10 |
-| | | Sex<br>On<br>The<br>Beach:<br>A<br>tropical<br>theme<br>with<br>potted<br>palms<br>and<br>Balinese<br>furniture,<br>and<br>bikini<br>babes<br>sunning<br>themselves<br>on<br>the<br>deck.<br>The<br>player<br>can,<br>as<br>above,<br>rename<br>the<br>ship. | 5000 | 20 |
-| | | Cabin<br>Fever:<br>It<br>is<br>completely<br>impractical<br>for<br>a<br>yacht<br>to<br>be<br>gilt<br>with<br>gold,<br>fur,<br>and<br>chrome,<br>featuring<br>a<br>wine<br>cellar,<br>a<br>collection<br>of<br>pimp<br>cups,<br>a<br>gorilla<br>skin<br>rug,<br>an<br>arsenal<br>in<br>a<br>crystal<br>cage,<br>and<br>yet,<br>here<br>it<br>is.<br>Of<br>course,<br>the<br>player<br>can<br>rename<br>the<br>boat<br>as<br>well,<br>if<br>he<br>chooses. | 10000 | 30 |
+| | | The
+Sun
+King:
+A
+pad
+to
+make
+Louis
+XIV
+say,
+"I'm
+home."
+Massive
+chandeliers,
+gold
+flocked
+wallpaper,
+gilt
+thrones,
+thick
+fur
+rugs,
+and
+all
+a
+hall
+of
+mirrors
+to
+admire
+your
+opulence
+and
+lack
+of
+good
+taste. | 10000 | 30 |
+| Mission
+Completed | Crib
+Unlocked | Modification | Cost | Rep
+Bonus |
+| Both
+Barrio
+saints
+&
+Samedi
+Missions | The
+Floater:
+A
+luxury
+yacht
+in
+the
+Stilwater
+Harbor | Ship
+Shape:
+Masculine
+and
+nautical
+and
+functional
+and
+uninspired.
+The
+only
+big
+feature
+is
+letting
+the
+player
+rename
+the
+yacht
+from
+FLOATER.
+He
+is
+given
+a
+keypad
+and
+christen
+her
+anything
+16
+letters
+or
+less,
+which
+will
+appear
+on
+her
+stern. | 500 | 10 |
+| | | Sex
+On
+The
+Beach:
+A
+tropical
+theme
+with
+potted
+palms
+and
+Balinese
+furniture,
+and
+bikini
+babes
+sunning
+themselves
+on
+the
+deck.
+The
+player
+can,
+as
+above,
+rename
+the
+ship. | 5000 | 20 |
+| | | Cabin
+Fever:
+It
+is
+completely
+impractical
+for
+a
+yacht
+to
+be
+gilt
+with
+gold,
+fur,
+and
+chrome,
+featuring
+a
+wine
+cellar,
+a
+collection
+of
+pimp
+cups,
+a
+gorilla
+skin
+rug,
+an
+arsenal
+in
+a
+crystal
+cage,
+and
+yet,
+here
+it
+is.
+Of
+course,
+the
+player
+can
+rename
+the
+boat
+as
+well,
+if
+he
+chooses. | 10000 | 30 |
 
 Whatever crib the player is in, and whatever the décor changes the player makes, the basic mechanics of the crib work the same. It is essentially a menu where the player can navigate with the Dpad and Analog sticks and select one of 4 submenus as they are highlighted in the scene:
 
@@ -1404,7 +4564,8 @@ It's a huge understatement to say Stilwater is a dangerous place. People get hur
 
 The amount of damage a person can take before dying varies, and designers have the freedom to adjust each archetype or special character's health level for balancing purposes. The numbers below are a first pass.
 
-| Character | Health<br>Level |
+| Character | Health
+Level |
 |------------|-----------------|
 | Pedestrian | 20 |
 ## | Gangsta | 50 |
@@ -1415,31 +4576,54 @@ The amount of damage a person can take before dying varies, and designers have t
 
 When the player or an NPC uses a weapon against one another, the damage done is calculated based on the weapon used and the distance between attacker and victim. Hand-to-hand weapons, naturally, are used in close proximity, and the damage done is consistently the numbers given in the Weapons table (see WEAPONS). Projectile weapons' damage is calculated according to the following table:
 
-| Point-Blank | Medium<br>Range | Far<br>Range | Beyond<br>Far<br>Range |
+| Point-Blank | Medium
+Range | Far
+Range | Beyond
+Far
+Range |
 |-------------|-----------------|--------------|------------------------|
 | X2 | Reg | ½ | No |
 ## | Damage | Damage | Damage | Damage |
 
 The actual ranges for the weapons is adjustable by designers as a function of game balance, so the numbers below are approximate:
 
-| Weapon | Point<br>Blank<br>Range | Medium<br>Range | Far<br>Range | Beyond<br>Far<br>Range |
+| Weapon | Point
+Blank
+Range | Medium
+Range | Far
+Range | Beyond
+Far
+Range |
 |------------------------|-------------------------|-----------------|--------------|------------------------|
-| Vice-9<br>(Handgun | <10 | 10-20 | 20-30 | >30 |
+| Vice-9
+(Handgun | 30 |
 | Default) | | | | |
-| Quarter<br>Baby | <10 | 10-15 | 10-15 | >15 |
-| Tombstone | <10 | 10-20 | 20-30 | >30 |
-| (Shotgun<br>Default) | | | | |
-| T3K<br>Urban<br>(SMG | <10 | 10-20 | 20-30 | >30 |
+| Quarter
+Baby | 15 |
+| Tombstone | 30 |
+| (Shotgun
+Default) | | | | |
+| T3K
+Urban
+(SMG | 30 |
 | Default) | | | | |
-| K6<br>Krukov<br>(Rifle | <20 | 20-40 | 40-50 | >50 |
+| K6
+Krukov
+(Rifle | 50 |
 | Default) | | | | |
-| Flamethrower | <5 | 5-10 | 10-20 | >20 |
-| Pepper<br>Spray | <1 | 1-5 | 5-10 | >10 |
-| Nail<br>Gun | <1 | 1-10 | 10-20 | >20 |
-| Pipe<br>Bomb | <10 | 10-20 | 20-30 | >30 |
-| Molotov<br>Cocktail | <10 | 10-20 | 20-40 | >40 |
-| Hand<br>Grenade | <10 | 10-20 | 20-40 | >40 |
-## | Gas<br>Grenade | <10 | 10-15 | 15-30 | >30 |
+| Flamethrower | 20 |
+| Pepper
+Spray | 10 |
+| Nail
+Gun | 20 |
+| Pipe
+Bomb | 30 |
+| Molotov
+Cocktail | 40 |
+| Hand
+Grenade | 40 |
+## | Gas
+Grenade | 30 |
 
 # Falling From Height
 

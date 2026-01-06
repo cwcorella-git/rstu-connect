@@ -1,3 +1,8 @@
+---
+title: "**Terra preta**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Terra_preta)
 
 # **Terra preta**

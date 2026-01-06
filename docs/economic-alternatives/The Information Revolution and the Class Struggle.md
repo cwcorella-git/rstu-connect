@@ -1,3 +1,8 @@
+---
+title: "**The Information Revolution and the Class Struggle**"
+category: "economic-alternatives"
+---
+
 ## **Anarchist Communist Federation**
 
 # **The Information Revolution and the Class Struggle**

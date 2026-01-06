@@ -1,3 +1,8 @@
+---
+title: "**Charles Sumner**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Charles_Sumner)
 
 # **Charles Sumner**
@@ -24,26 +29,39 @@
 
 | Chair of the Senate Foreign Relations Committee | | | | |
 |-------------------------------------------------|-------------------------------------------------------------------------------------------------------|--|--|--|
-| In office<br>March 4, 1861<br>– March 4, 1871 | | | | |
+| In office
+March 4, 1861
+– March 4, 1871 | | | | |
 | Preceded by | James M. Mason | | | |
 | Succeeded by | Simon Cameron | | | |
 | United States Senator | | | | |
 | from Massachusetts | | | | |
-| In office<br>April 25, 1851<br>– March 11, 1874 | | | | |
+| In office
+April 25, 1851
+– March 11, 1874 | | | | |
 | Preceded by | Robert Rantoul Jr. | | | |
 | Succeeded by | William B. Washburn | | | |
 | Personal details | | | | |
-| Born | January 6, 1811<br>Boston, Massachusetts, U. S. | | | |
-| Died | March 11, 1874 (aged<br>63)<br>Washington, D. C., U. S. | | | |
+| Born | January 6, 1811
+Boston, Massachusetts, U. S. | | | |
+| Died | March 11, 1874 (aged
+63)
+Washington, D. C., U. S. | | | |
 | Resting place | Mount Auburn Cemetery | | | |
-| Political party | Whig (1840–1848)<br>Free Soil (1848–1854)<br>Republican (1854–1870)<br>Liberal Republican (1870–1872) | | | |
-| Other political<br>affiliations | Radical Republicans (1854–1870) | | | |
+| Political party | Whig (1840–1848)
+Free Soil (1848–1854)
+Republican (1854–1870)
+Liberal Republican (1870–1872) | | | |
+| Other political
+affiliations | Radical Republicans (1854–1870) | | | |
 
 | Spouse | Alice Hooper | |
 |-----------|------------------------------|--|
 | | | |
 | | | |
-| | (m.<br>1866; div.<br>1873) | |
+| | (m.
+1866; div.
+1873) | |
 | Relatives | Sumner family | |
 | Education | Harvard University (AB, LLB) | |
 | Signature | | |
@@ -516,7 +534,9 @@ The following are named after Charles Sumner:
 
 | U. S. Senate | | | | |
 |----------------|-------------------------------|-----------------|--|--|
-| Preceded<br>by | U. S. Senator (Class 1) from | Succeeded<br>by | | |
+| Preceded
+by | U. S. Senator (Class 1) from | Succeeded
+by | | |
 | Robert | Massachusetts | William B. | | |
 | Rantoul Jr. | 1851–1874 | Washburn | | |
 | | Served alongside: John | | | |
@@ -524,9 +544,38 @@ The following are named after Charles Sumner:
 | | Rockwell, Henry Wilson, | | | |
 ## | | George S. Boutwell | | | |
 
-| Preceded<br>by<br>James M.<br>Mason | Chair of the Senate Foreign<br>Relations Committee<br>1861–1871 | Succeeded<br>by<br>Simon<br>Cameron | | |
+| Preceded
+by
+James M.
+Mason | Chair of the Senate Foreign
+Relations Committee
+1861–1871 | Succeeded
+by
+Simon
+Cameron | | |
 |---------------------------------------|--------------------------------------------------------------------------------------------|------------------------------------------|--|--|
-| New office | Chair of the Senate<br>Elections Committee<br>1871–1872 | Succeeded<br>by<br>Oliver P.<br>Morton | | |
+| New office | Chair of the Senate
+Elections Committee
+1871–1872 | Succeeded
+by
+Oliver P.
+Morton | | |
 | Honorary titles | | | | |
-| Preceded<br>by<br>Benjamin<br>Wade | Dean of the United States<br>Senate<br>1869–1874 | Succeeded<br>by<br>Zachariah<br>Chandler | | |
-| Preceded<br>by<br>Thaddeus<br>Stevens | Persons who have lain in<br>state or honor in the United<br>States Capitol rotunda<br>1874 | Succeeded<br>by<br>Henry Wilson | | |
+| Preceded
+by
+Benjamin
+Wade | Dean of the United States
+Senate
+1869–1874 | Succeeded
+by
+Zachariah
+Chandler | | |
+| Preceded
+by
+Thaddeus
+Stevens | Persons who have lain in
+state or honor in the United
+States Capitol rotunda
+1874 | Succeeded
+by
+Henry Wilson | | |

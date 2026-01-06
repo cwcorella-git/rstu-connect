@@ -1,11 +1,8 @@
 ---
-title: "Member Stories: 'I Didn't Ask For This'"
+title: "Member Stories: 'I Didn't Ask For This"
 author: "Anonymous Member"
 date: "2025-08-05"
-category: "Member Stories"
-tags: ["member story", "landlord retaliation", "organizing"]
-excerpt: "A personal account of facing landlord retaliation and realizing the system works exactly as designed."
-featured: true
+category: "organizing"
 ---
 
 # Member Stories: "I Didn't Ask For This"

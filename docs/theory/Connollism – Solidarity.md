@@ -1,3 +1,8 @@
+---
+title: "**Connollism – Solidarity**"
+category: "theory"
+---
+
 # **Connollism – Solidarity**
 
 ## **Date:** Unknown

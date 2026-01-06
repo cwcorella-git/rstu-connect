@@ -1,3 +1,8 @@
+---
+title: "**Battle of Bunker Hill**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Battle_of_Bunker_Hill)
 
 # **Battle of Bunker Hill**
@@ -25,7 +30,8 @@ Part of the [American Revolutionary War](https://en.wikipedia.org/wiki/American_
 | | 42°22′35″N | 71°3′39″W / 42.37639°N |
 | | 71.06083°W | |
 | Result | British victory (see Aftermath) | |
-| Territorial<br>changes | The British capture Charlestown Peninsula | |
+| Territorial
+changes | The British capture Charlestown Peninsula | |
 | | | Belligerents |
 | United Colonies | | Great Britain |
 | • Connecticut | | |
@@ -33,13 +39,26 @@ Part of the [American Revolutionary War](https://en.wikipedia.org/wiki/American_
 | • New Hampshire | | |
 | • Rhode Island | | |
 | | | Commanders and leaders |
-| •<br>•<br>William Prescott | | William Howe |
-| •<br>•<br>Israel Putnam | | Thomas Gage |
-| •<br>•<br>Joseph Warren<br>† | | Sir Robert Pigot |
-| •<br>•<br>John Stark | | James Abercrombie<br>† |
-| •<br>•<br>James Frye | | Henry Clinton |
+| •
+•
+William Prescott | | William Howe |
+| •
+•
+Israel Putnam | | Thomas Gage |
+| •
+•
+Joseph Warren
+† | | Sir Robert Pigot |
+| •
+•
+John Stark | | James Abercrombie
+† |
+| •
+•
+James Frye | | Henry Clinton |
 | | • | Samuel Graves |
-| | • | John Pitcairn<br>† |
+| | • | John Pitcairn
+† |
 ## | | | |
 
 ![](_page_2_Figure_2.jpeg)

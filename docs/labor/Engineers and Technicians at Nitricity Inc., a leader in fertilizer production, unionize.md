@@ -1,3 +1,8 @@
+---
+title: "## **Engineers and Technicians at Nitricity Inc., a leader in fertilizer production, unionize**"
+category: "labor"
+---
+
 ## **Engineers and Technicians at Nitricity Inc., a leader in fertilizer production, unionize**
 
 ## **Date:** Sat, 04/30/2022 - 00:00

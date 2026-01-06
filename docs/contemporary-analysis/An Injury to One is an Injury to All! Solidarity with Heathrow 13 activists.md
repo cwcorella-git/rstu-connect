@@ -1,13 +1,21 @@
+---
+title: "## **An Injury to One is an Injury to All!: Solidarity with Heathrow 13 activists**"
+category: "contemporary-analysis"
+---
+
 ## **An Injury to One is an Injury to All!: Solidarity with Heathrow 13 activists**
 
 | Date: Fri, 01/29/2016 - 21:39 |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Source: https://ecology.iww.org/node/1483|
-| Tags: Plane Stupid, blockadia, Heathrow, climate justice, Ella Gilbert, Bec Sanderson, IWW<br>Environmental Unionism Caucus, green syndicalism, green unionism, direct action |
+| Tags: Plane Stupid, blockadia, Heathrow, climate justice, Ella Gilbert, Bec Sanderson, IWW
+Environmental Unionism Caucus, green syndicalism, green unionism, direct action |
 | By Plane Stupid - |
 | Dorsett IWW |
 | , January 27, 2016 |
-| Among thirteen defendants threatened with incarceration are two members of our One Big<br>Union. Fellow Workers Ella Gilbert from Norwich and Bec Sanderson from Machynlleth. We<br>express our solidarity and admiration for their courage. An injury to one is an injury to all! |
+| Among thirteen defendants threatened with incarceration are two members of our One Big
+Union. Fellow Workers Ella Gilbert from Norwich and Bec Sanderson from Machynlleth. We
+express our solidarity and admiration for their courage. An injury to one is an injury to all! |
 | Read Ella Glibert's account of the trial: |
 | Day 1 |
 | Day 2 |

@@ -1,3 +1,8 @@
+---
+title: "## **For the second time today, concerned citizens shut down Dakota Access Pipeline construction in "
+category: "indigenous-solidarity"
+---
+
 ## **For the second time today, concerned citizens shut down Dakota Access Pipeline construction in Keokuk**
 
 ## **Date:** Wed, 10/12/2016 - 17:58
@@ -55,4 +60,5 @@ Activists Shut Down Tar Sands Pipelines Crossing US-Canada Border
 | Common Dreams |
 | , October 11, 2016 |
 | Disclaimer: |
-| The views expressed here are not the official position of the IWW (or even the IWW's EUC)<br>and do not necessarily represent the views of anyone but the author's. |
+| The views expressed here are not the official position of the IWW (or even the IWW's EUC)
+and do not necessarily represent the views of anyone but the author's. |

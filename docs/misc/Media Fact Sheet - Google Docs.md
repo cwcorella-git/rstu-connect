@@ -1,14 +1,10 @@
 ---
-date: 2015
-author: Google Docs
-tags:
-  - organizing
-  - strikes
-  - unions
-  - tenants
-  - housing
 title: "Media Fact Sheet - Google Docs"
+author: "Google Docs"
+date: "2015"
+category: "misc"
 ---
+
 # Media Fact Sheet - Google Docs
 
 *Converted from: `./Media Fact Sheet - Google Docs.pdf`*  
@@ -90,4 +86,3 @@ title: "Media Fact Sheet - Google Docs"
          on for months for and landlord agreed to lower increased amount
 
 ---
-

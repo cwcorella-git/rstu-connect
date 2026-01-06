@@ -1,3 +1,8 @@
+---
+title: "CANT MONT THE CASE FOR ECONOMIC DISOBEDIENCE"
+category: "economic-alternatives"
+---
+
 # CANT MONT THE CASE FOR ECONOMIC DISOBEDIENCE
 
 ## AND DEBT ABOLITION
@@ -853,13 +858,13 @@ The time has come to default on the powerful so we can finally honor our true de
 - Jesse Meyerson, "How to Get Rid of Your Landlord and Socialize American Housing, in 3 Easy Steps," *Nation*, December 8, 2015, [https://www.thenation.com/article/archive/how-to-get-rid-of-your-landlord-and](https://www.thenation.com/article/archive/how-to-get-rid-of-your-landlord-and-socialize-american-housing-in-3-easy-steps/)[socialize-american-housing-in-3-easy-steps/.](https://www.thenation.com/article/archive/how-to-get-rid-of-your-landlord-and-socialize-american-housing-in-3-easy-steps/)
 
 - The Movement for Black Lives Policy Platforms, [https://m4bl.org/policy-platforms/.](https://m4bl.org/policy-platforms/)
-- Mujeres Creando, "The Feminism of the Streets" *Do or Die*, no. 10 (2003): 173–77, <http://www.doordie.org.uk/issues/issue-10/25-mujeres-creando.html>.
+- Mujeres Creando, "The Feminism of the Streets" *Do or Die*, no. 10 (2003): 173–77, .
 - Donna Murch, "Paying for Punishment: The New Debtors' Prison," *Boston Review*, August 1, 2016, [http://bostonreview.net/editors-picks-us/donna-murch-paying-punishment.](http://bostonreview.net/editors-picks-us/donna-murch-paying-punishment)
 - K-Sue Park, "Money, Mortgages, and the Conquest of America," *Law and Social Inquiry* 41, no. 4 (Fall 2016): 1006–1035.
 - Cheryl Payer, *The Debt Trap: The International Monetary Fund and the Third World* (Monthly Review Press, 1974).
 - Ross Perlin, *Intern Nation: How to Earn Nothing and Learn Little in the Brave New Economy* (Verso, 2011).
 - Thomas Piketty, *Capital in the Twenty-First Century* (Harvard University Press, 2014).
-- The Red Nation, "The Red Deal: Indigenous Action to Save Our Earth," <https://therednation.org/2019/09/22/the-red-deal/>.
+- The Red Nation, "The Red Deal: Indigenous Action to Save Our Earth," .
 - Gary Rivlin, *Broke, USA: From Pawnshops to Poverty, Inc.— How the Working Poor Became Big Business* (Harper Business, 2010).
 - Cedric Robinson, *Black Marxism: The Making of the Black Radical Tradition* (University of North Carolina Press, 2000).
 - Andrew Ross, *Creditocracy and the Case for Debt Refusal* (O/R Books, 2014).

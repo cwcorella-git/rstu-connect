@@ -1,3 +1,8 @@
+---
+title: "## **XR call for just transition from North Sea oil to renewable energy**"
+category: "feminist-theory"
+---
+
 ## **XR call for just transition from North Sea oil to renewable energy**
 
 | Date: Wed, 09/25/2019 - 20:29 |
@@ -23,18 +28,25 @@ There's no better way forward for XR than seeking alliances of this kind, in my 
 
 ## .)
 
-| Do you think you have skills that could be transferred to the renewables energy industry? YES<br>■ NO ■ |
+| Do you think you have skills that could be transferred to the renewables energy industry? YES
+■ NO ■ |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Do you think that the entirety of the estimated 20 billion barrels of fossil fuel under the North<br>Sea should be produced? YES ■ NO ■ |
-| Do you believe the planet can survive global hydrocarbon reservoirs being drained? YES ■<br>NO ■ |
+| Do you think that the entirety of the estimated 20 billion barrels of fossil fuel under the North
+Sea should be produced? YES ■ NO ■ |
+| Do you believe the planet can survive global hydrocarbon reservoirs being drained? YES ■
+NO ■ |
 | Do you have children and/or grandchildren? YES ■ NO ■ |
-| Did you think last year, that we would be experiencing a massive fire threat to the Amazon<br>and the Arctic regions, and the loss of the Arctic Sea ice? YES ■ NO ■ |
-| Are you interested in getting involved in the campaign for a planned and just transition to the<br>renewables? |
+| Did you think last year, that we would be experiencing a massive fire threat to the Amazon
+and the Arctic regions, and the loss of the Arctic Sea ice? YES ■ NO ■ |
+| Are you interested in getting involved in the campaign for a planned and just transition to the
+renewables? |
 | contact |
 | neil.rothnie@gmail.com |
 | . I'll put you in touch. |
 | Demand a Just Transition to renewable energy |
-| Both the UK oil industry and government seem to think that new licenses should be issued<br>and oil and gas exploration on the North Sea stepped up. The industry estimates that 20<br>billion barrels of fossil fuel remain under the North Sea. No one in authority seems to think that |
+| Both the UK oil industry and government seem to think that new licenses should be issued
+and oil and gas exploration on the North Sea stepped up. The industry estimates that 20
+billion barrels of fossil fuel remain under the North Sea. No one in authority seems to think that |
 
 these reserves should not be fully exploited.
 
@@ -87,7 +99,8 @@ The best hope here is that XR will give a sharper cutting edge to the demand for
 
 | details here |
 |------------------------------------------------------------------------------------------------------------------------------------------------|
-| ). At national and international level, Trade Unions For Energy Democracy has long been<br>putting these arguments to union organisations (see |
+| ). At national and international level, Trade Unions For Energy Democracy has long been
+putting these arguments to union organisations (see |
 | a report of their recent meeting in the UK here |
 | ). |
 | There's nothing like some direct action to complement these efforts. |

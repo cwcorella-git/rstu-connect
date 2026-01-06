@@ -1,3 +1,8 @@
+---
+title: "## **Yanggongju as an allegory of the nation: Images of working-class women in popular and radical t"
+category: "feminist-theory"
+---
+
 ## **Yanggongju as an allegory of the nation: Images of working-class women in popular and radical texts**
 
 ## **Date:** Unknown

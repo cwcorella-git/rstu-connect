@@ -1,3 +1,8 @@
+---
+title: "## **Urban Ore Ore Workers Win Union Certification Election With IWW**"
+category: "labor"
+---
+
 ## **Urban Ore Ore Workers Win Union Certification Election With IWW**
 
 ## **Date:** Mon, 04/10/2023 - 00:00

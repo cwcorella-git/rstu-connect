@@ -1,3 +1,8 @@
+---
+title: "## **Justice 4 Jackson. Help us Fix Jackson's Water System and Build More Autonomy and People Power "
+category: "environmental-justice"
+---
+
 ## **Justice 4 Jackson. Help us Fix Jackson's Water System and Build More Autonomy and People Power in the City**
 
 ## **Date:** Mon, 09/05/2022 - 02:00

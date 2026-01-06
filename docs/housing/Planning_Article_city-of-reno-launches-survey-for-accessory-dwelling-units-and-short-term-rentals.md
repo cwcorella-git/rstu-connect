@@ -1,13 +1,8 @@
 ---
-title: >-
-  Planning Article City of Reno Launches Survey For Accessory Dwelling Units and
-  Short Term Rentals
-date: 2025
-author: Housing Advocacy Organization
-tags:
-  - organizing
-  - housing
-  - rent
+title: ">-"
+author: "Housing Advocacy Organization"
+date: "2025"
+category: "housing"
 ---
 
 # Planning Article City of Reno Launches Survey For Accessory Dwelling Units and Short Term Rentals

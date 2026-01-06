@@ -1,3 +1,8 @@
+---
+title: "Focus Time for well-being and Work Engagement of Information Workers"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 # Focus Time for well-being and Work Engagement of Information Workers
@@ -24,7 +29,7 @@ focus work, time protection, work engagement workplace, well-being, experimental
 
 #### ACM Reference Format:
 
-Koustuv Saha and Shamsi T. Iqbal. 2023. Focus Time for well-being and Work Engagement of Information Workers. In Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems (CHI EA '23), April 23–28, 2023, Hamburg, Germany. ACM, New York, NY, USA, 11 pages. <https://doi.org/10.1145/3544549.3585688>
+Koustuv Saha and Shamsi T. Iqbal. 2023. Focus Time for well-being and Work Engagement of Information Workers. In Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems (CHI EA '23), April 23–28, 2023, Hamburg, Germany. ACM, New York, NY, USA, 11 pages. 
 
 #### 1 INTRODUCTION AND BACKGROUND
 
@@ -32,7 +37,7 @@ Managing time better at workplaces is one of the key interests of researchers an
 
 Permission to make digital or hard copies of part or all of this work for personal or classroom use is granted without fee provided that copies are not made or distributed for profit or commercial advantage and that copies bear this notice and the full citation on the first page. Copyrights for third-party components of this work must be honored. For all other uses, contact the owner/author(s).
 
-CHI EA '23, April 23–28, 2023, Hamburg, Germany © 2023 Copyright held by the owner/author(s). ACM ISBN 978-1-4503-9422-2/23/04. <https://doi.org/10.1145/3544549.3585688>
+CHI EA '23, April 23–28, 2023, Hamburg, Germany © 2023 Copyright held by the owner/author(s). ACM ISBN 978-1-4503-9422-2/23/04. 
 
 these have also added complexities in terms of the increased number of meetings, longer work hours, blurred work-life boundaries, more multi-tasking, and disrupted work-life balance \[15, 28, [46\]](#page-6-4). These complexities have simultaneously added limits to an individual's ability and time to do self-focused work, and affected well-being \[11, [51\]](#page-6-6). Prior work has noted the costs of task switching and disruptions due to notifications towards depleted productivity and well-being \[5, 13, 21, 29, 32, [37\]](#page-6-11). Kushlev and Dunn found that limiting email checking reduced stress, and Mark et al. noted that self-interruptions of emails lead to better productivity than notification-based interruptions. Other work found blocking notifications enhanced focused work and reduced multitasking and distractions \[34, [38\]](#page-6-13). Research has also noted the importance of focused work in improving productivity and well-being \[14, 19, 34, [43\]](#page-6-16). Focused work is found to associate with cognitive absorption, which not only significantly impacts an individual's deep involvement, learning [\[1\]](#page-5-1), and creativity [\[9\]](#page-6-17), but also helps them be more relaxed and perceive greater control \[31, [42\]](#page-6-19).
 
@@ -68,11 +73,31 @@ Table 1: Demographic distribution of study participants.
 
 | Question | Treatment | Control | | |
 |---------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|--|--|
-| Age | 20-30: 2, 30-40: 9, 40-50: 2,<br>50-60: 1, 60-70: 1 | 20-30: 3, 30-40: 1, 40-50: 5,<br>50-60: 1 | | |
-| Gender | Man: 8, Woman: 7 | Man: 4, Woman: 5, Non<br>binary: 1 | | |
-| Education<br>Level | College graduate: 9, Post<br>graduate: 6 | Some college: 1, College<br>graduate: 4, Post-graduate:<br>5 | | |
-| Household<br>Income | \$50K-\$75K: 1, \$75K-\$100K:<br>3, \$100K-\$125K: 3, \$125K-<br>\$150K: 3, \$150K+: 7 | \$75K-\$100K:<br>3,<br>\$100K-<br>\$125K: 2, \$125K-\$150K: 2,<br>\$150K: 3 | | |
-| Industry | Financial: 3, Software: 3,<br>Telecom.: 1, Automative:<br>2, Technology: 1, Sales: 1,<br>Consulting: 1, Real Estate:<br>1, Service: 1, Healthcare: 1 | Financial: 3, Healthcare: 2,<br>Technology: 2, Manufactur<br>ing: 2, Legal: 1 | | |
+| Age | 20-30: 2, 30-40: 9, 40-50: 2,
+50-60: 1, 60-70: 1 | 20-30: 3, 30-40: 1, 40-50: 5,
+50-60: 1 | | |
+| Gender | Man: 8, Woman: 7 | Man: 4, Woman: 5, Non
+binary: 1 | | |
+| Education
+Level | College graduate: 9, Post
+graduate: 6 | Some college: 1, College
+graduate: 4, Post-graduate:
+5 | | |
+| Household
+Income | \$50K-\$75K: 1, \$75K-\$100K:
+3, \$100K-\$125K: 3, \$125K-
+\$150K: 3, \$150K+: 7 | \$75K-\$100K:
+3,
+\$100K-
+\$125K: 2, \$125K-\$150K: 2,
+\$150K: 3 | | |
+| Industry | Financial: 3, Software: 3,
+Telecom.: 1, Automative:
+2, Technology: 1, Sales: 1,
+Consulting: 1, Real Estate:
+1, Service: 1, Healthcare: 1 | Financial: 3, Healthcare: 2,
+Technology: 2, Manufactur
+ing: 2, Legal: 1 | | |
 
 to filter in eligible participants. The screening survey included questions related to participant demographics (age, gender, education, ethnicity, employment status, income) and employment attributes (employment status, industry, type of work, computer use, availability of Focus Time feature on workplace email and calendar, etc.). After the screening survey was up on the Dscout platform for over a week, we received 1,579 responses, among which—47 individuals satisfied some core requirements for our study—1) they responded "all or most of my day is spent on computer", 2) they had access to the Focus Time feature, 3) had never used it before, and 4) were willing to try it out for the study. From these 47 individuals, we randomly selected a sample of 25 participants (15 for Treatment and 10 for Control). One Treatment and two Control participants dropped out in the first two weeks and were substituted with three other participants (also randomly selected from the same pool of 47 participants). Each participant stayed in the study for a period of six weeks in July and August 2022 and responded to an intake survey, weekly check-in surveys, and an exit survey. The compensation for completing the study included USD \$100 for Treatment participants and USD \$75 for Control participants. Table 1 presents the demographic distribution of the 25 participants who stayed for the entire study duration.
 
@@ -86,23 +111,7 @@ We designed our study not to ask for specific feedback for the tool used by part
 
 #### 3 FINDINGS
 
-We examine the changes in the well-being measures during the course of the study for the Treatment and Control groups. First, comparing the differences in the two groups during intake of the study, we note that both the groups are well-distributed in demographic parameters \(Table 1\). We also compare the differences in the intake survey for the two groups, which could be considered to be their baseline measures (before any study intervention was conducted). We conduct independent sample -tests to compare the differences to find no significant difference across all the measures in Table A1, except the small significant difference in frustrated (=2.35, <0.05). The lack of significant differences across the majority of measures at the beginning of the study suggests that we had two balanced groups of individuals.
-
-#### 3.1 How did well-being measures vary weekly?
-
-Towards RQ1, we examine the temporal changes in the measures over the duration of the study \(Figure 2\), comparing Treatment and Control individuals' weekly responses collected before and during the use of Focus Time feature for six weeks. These comparisons include the entry (week 0) and exit (week 6), wherever applicable. Table 2 shows a summary overview of these changes, including effect size (Cohen's ) and independent sample -tests, revealing significant changes in a number of comparisons. We find that the Treatment individuals show greater bursting with
-
-Table 2: Summary of differences in well-being measures through weekly check-ins during the course of the study for Treatment and Control individuals, along with effect size (Cohen's d) and independent-sample t-tests (. p<0.1, \* p<0.05, \*\* p<0.01, \*\*\*p<0.001).
-
-| | Treatr | nent | Cont | trol | | | |
-|------------------------------------|-----------------|------|-------|------|-------|-------------------|-----------------------------------------------------|
-| Measure | Mean | Std. | Mean | Std. | d | t-test | Interpretation for Treatment |
-| Bursting /w energy | 3.38 | 0.86 | 3.05 | 0.89 | 0.38 | 2.33** | Treatment felt greater bursting with energy |
-| Carried away | 2.95 | 1.08 | 2.84 | 1.17 | 0.09 | 0.57 | |
-| Continue long work | 3.60 | 1.06 | 3.58 | 0.87 | 0.02 | 0.15 | |
-| Eagerness to go to work | 3.27 | 1.19 | 2.97 | 1.34 | 0.24 | 1.48 | Treatment were more eager to go to work. |
-| Forget Everything Else During Work | 2.78 | 1.04 | 3.23 | 0.97 | -0.44 | -2.66*** | Treatment forgot lower about non-work |
-| Happy During Intense Work | 3.58 | 0.97 | 3.29 | 0.90 | 0.31 | 1.86 <sup>-</sup> | Treatment were happier during intense work. |
+We examine the changes in the well-being measures during the course of the study for the Treatment and Control groups. First, comparing the differences in the two groups during intake of the study, we note that both the groups are well-distributed in demographic parameters \(Table 1\). We also compare the differences in the intake survey for the two groups, which could be considered to be their baseline measures (before any study intervention was conducted). We conduct independent sample -tests to compare the differences to find no significant difference across all the measures in Table A1, except the small significant difference in frustrated (=2.35, - | Treatment were happier during intense work. |
 | Stress | 2.38 | 1.08 | 2.92 | 1.29 | -0.45 | -2.77*** | Treatment felt lower stress. |
 | Strong and Vigorous | 3.44 | 0.93 | 3.21 | 0.95 | 0.24 | 1.48· | Treatment felt more strong and vigorous. |
 | Time Flies | 3.73 | 0.96 | 3.50 | 1.10 | 0.22 | 1.33 | |
@@ -131,7 +140,13 @@ We also followed this question with "Think about the previous question. Did you 
 
 Table 4: Activities and quantity of self-reported responses received using Focus Time periods.
 
-| Focused deep work Personal errands Exercise Taking a break Email and communications Catching up on backlogged work Other | 69<br>22<br>21<br>41<br>61<br>62<br>0 |
+| Focused deep work Personal errands Exercise Taking a break Email and communications Catching up on backlogged work Other | 69
+22
+21
+41
+61
+62
+0 |
 |--------------------------------------------------------------------------------------------------------------------------|---------------------------------------|
 |--------------------------------------------------------------------------------------------------------------------------|---------------------------------------|
 
@@ -276,14 +291,22 @@ Table A1: List of survey questions on worker well-being and work engagement and 
 
 | Keyword | Question | Response | When? |
 |----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|---------------------|
-| Angry | Over the last 30 days, how often have you felt angry at<br>work? | 1 (never) to 5 (always) | Entry, Exit |
-| Anxious | Over the last 30 days, how often have you felt anxious at<br>work? | 1 (never) to 5 (always) | Entry, Exit |
-| Excited | Over the last 30 days, how often have you felt excited at<br>work? | 1 (never) to 5 (always) | Entry, Exit |
-| Relaxed | Over the last 30 days, how often have you felt relaxed at<br>work? | 1 (never) to 5 (always) | Entry, Exit |
-| Frustrated | Over the last 30 days, how often have you felt frustrated<br>at work? | 1 (never) to 5 (always) | Entry, Exit |
-| Satisfied | Over the last 30 days, how often have you felt satisfied at<br>work? | 1 (never) to 5 (always) | Entry, Exit |
-| Tired | Over the last 30 days, how often have you felt tired at<br>work? | 1 (never) to 5 (always) | Entry, Exit |
-| Tired after waking up | I feel tired as soon as I get up in the morning and see a<br>new working day stretched out in front of me. | 1 (never) to 7 (always) | Entry, Exit |
+| Angry | Over the last 30 days, how often have you felt angry at
+work? | 1 (never) to 5 (always) | Entry, Exit |
+| Anxious | Over the last 30 days, how often have you felt anxious at
+work? | 1 (never) to 5 (always) | Entry, Exit |
+| Excited | Over the last 30 days, how often have you felt excited at
+work? | 1 (never) to 5 (always) | Entry, Exit |
+| Relaxed | Over the last 30 days, how often have you felt relaxed at
+work? | 1 (never) to 5 (always) | Entry, Exit |
+| Frustrated | Over the last 30 days, how often have you felt frustrated
+at work? | 1 (never) to 5 (always) | Entry, Exit |
+| Satisfied | Over the last 30 days, how often have you felt satisfied at
+work? | 1 (never) to 5 (always) | Entry, Exit |
+| Tired | Over the last 30 days, how often have you felt tired at
+work? | 1 (never) to 5 (always) | Entry, Exit |
+| Tired after waking up | I feel tired as soon as I get up in the morning and see a
+new working day stretched out in front of me. | 1 (never) to 7 (always) | Entry, Exit |
 | Self-fulfillment | I have achieved many rewarding objectives at work | 1 (never) to 7 (always) | Entry, Exit |
 | Personal growth | I view my work as contributing to my personal growth | 1 (absolutely untrue) to 5 (absolutely true) | Entry, Exit |
 | Meaningfulness | I have a good sense of what makes my job meaningful | 1 (absolutely untrue) to 5 (absolutely true) | Entry, Exit |
@@ -299,11 +322,16 @@ Table A1: List of survey questions on worker well-being and work engagement and 
 | Work immersion | I am immersed in my work. | 1 (never) to 7 (always) | Entry, Weekly, Exit |
 | Time flies | Time flies when I am working. | 1 (never) to 7 (always) | Entry, Weekly, Exit |
 | Resilience | At my job, I am very resilient, mentally. | 1 (never) to 7 (always) | Entry, Exit |
-| Perseverence | At my work, I always persevere, even when things do not<br>go well. | 1 (never) to 7 (always) | Entry, Exit |
+| Perseverence | At my work, I always persevere, even when things do not
+go well. | 1 (never) to 7 (always) | Entry, Exit |
 | Learning | I continue to learn more and more as time goes by. | 1 (strongly disagree) to 7 (strongly agree) | Entry, Exit |
 | Self-improvement | I see myself continually improving. | 1 (strongly disagree) to 7 (strongly agree) | Entry, Exit |
 | Worn out | I feel worn out at the end of a working day. | 1 (never) to 7 (always) | Entry, Exit |
-| Focus Time Quantity | For Treatment: How often did you use the Focus blocks<br>set by the focus time plan?<br>For Control: Please look at your calendar for the past 5<br>work days. How much time in total have you blocked for<br>yourself to focus on heads-down work? | Open Textbox on hours | Weekly, Exit |
+| Focus Time Quantity | For Treatment: How often did you use the Focus blocks
+set by the focus time plan?
+For Control: Please look at your calendar for the past 5
+work days. How much time in total have you blocked for
+yourself to focus on heads-down work? | Open Textbox on hours | Weekly, Exit |
 
 ![](_page_10_Figure_2.jpeg)
 

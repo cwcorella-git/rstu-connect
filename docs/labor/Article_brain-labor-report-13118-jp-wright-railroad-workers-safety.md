@@ -1,11 +1,8 @@
 ---
-title: Brain Labor Report 13118 Jp Wright Railroad Workers Safety
-date: 2025
-author: Industrial Workers of the World
-tags:
-  - organizing
-  - unions
-  - labor
+title: "Brain Labor Report 13118 Jp Wright Railroad Workers Safety"
+author: "Industrial Workers of the World"
+date: "2025"
+category: "labor"
 ---
 
 # Brain Labor Report 13118 Jp Wright Railroad Workers Safety

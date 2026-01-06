@@ -1,3 +1,8 @@
+---
+title: "**Subcomandante Marcos**"
+category: "contemporary-analysis"
+---
+
 # **Subcomandante Marcos**
 
 # **Our Word Is Our Weapon**
@@ -6930,7 +6935,7 @@ JULY 2: Vincente Fox (of the conservative PAN party) is elected president, ruptu
 
 [\[5\]](#page-165-0) Miguel Hidalgo y Costilla (1753–1811), a priest in the Roman Catholic Church who produced illegitimate children in defiance of his clerical vows, is considered the father of his country. He never took his priestly vows too seriously, reading the anticlerical works of the French encyclopedic philosophers and apparently regarding the Church as a sort of sinecure that would provide him with a regular income. Hidalgo's impulse toward freedom for his people was also fed by a strong egalitarian instinct, which resulted in Hidalgo's famed grito ("shout") from his pulpit at 11 p.m. of September 15, 1810. Though the grito is hailed today as a declaration of independence from Spain, in reality it was a declaration of defiance against Joseph Bonaparte and the Spaniards resident in Mexico as well as allegiance to the very undeserving Ferdinand VII. With Ignacio Allende, an intellectual comrade, Hidalgo gathered a force of 80,000 to march against royalist forces. They were ultimately defeated, but when they heard of a new rebellion in San Antonio de Bejar (today San Antonio, Texas), they moved north to join it. On March 21, in the mountains of Coahuila, they were ambushed by a traitor and turned over to the Spanish authorities. Because he was a priest, albeit an excommunicated one, Hidalgo was turned over to the bishop of Durango for an official defrocking. On July 30, 1811, he was shot in Chihuahua.
 
-[<sup>\[2\]</sup>](#page-20-1) General Absalón Castellanos Domínguez, governor of Chiapas from 1982 to 1988, was believed to be responsible for many deaths in the state. He was kidnapped by the Zapatistas in an effort to send a message out to the Mexican government and the people.
+[\[2\]](#page-20-1) General Absalón Castellanos Domínguez, governor of Chiapas from 1982 to 1988, was believed to be responsible for many deaths in the state. He was kidnapped by the Zapatistas in an effort to send a message out to the Mexican government and the people.
 
 Father Francisco Morelos offered his services as a priest to Hidalgo's army. Hidalgo refused, instead instructing Morelos to go back to the south and lead the rebellion on the Pacific Coast. At one point, in 1813, his forces controlled Acapulco and most of Southwest Mexico. They even surrounded and cut off Mexico City from reinforcements and supplies. However, Morelos realized that he could not defeat the royalist army of New Spain in direct combat. He altered his strategy, and turned his attention to instructing his followers in the art of guerrilla warfare. His followers became masters of small group engagements. In 1813 Morelos helped to create a Revolutionary Congress, whose purpose was to draft a constitution and to design laws for the new country; he was a signatory of the new constitution. As the conflict wore on in New Spain, the government's armies became vicious, and Morelos instructed his followers to do the same to all whites and mixed bloods. Thus what began as a noble cause, concerned with the civil rights of all people, degenerated into a vicious killing circle. Morelos was finally captured on November 5, 1815, at Tesmalaca. He was sentenced to death, and executed on December 22, 1815, at San Cristobal Ecatepec, a village just to the north of Guadalupe.
 

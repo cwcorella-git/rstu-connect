@@ -1,3 +1,8 @@
+---
+title: "**David Graeber**"
+category: "contemporary-analysis"
+---
+
 # **David Graeber**
 
 # **There Never Was a West**
@@ -508,15 +513,15 @@ Democracy. Boston: Harvard Common Press.
 
 1998 "A Leftist Plea for Eurocentrism." Critical Inquiry 24: 989—1009.
 
-[<sup>\[1\]</sup>](#page-4-0) But not those that speak Spanish or Portuguese. It is not clear if Huntington has passed judgment on the Boers.
+[\[1\]](#page-4-0) But not those that speak Spanish or Portuguese. It is not clear if Huntington has passed judgment on the Boers.
 
-[<sup>\[2\]</sup>](#page-5-0) It was utterly unremarkable, for example, for a Ming court official to be a Taoist in his youth, become a Confucian in his middle years, and a Buddhist on retirement. It is hard to find parallels in the West even today.
+[\[2\]](#page-5-0) It was utterly unremarkable, for example, for a Ming court official to be a Taoist in his youth, become a Confucian in his middle years, and a Buddhist on retirement. It is hard to find parallels in the West even today.
 
-[<sup>\[3\]</sup>](#page-7-1) Some of his statements are so outrageous (for example, the apparent claim that, unlike the West, traditions like Islam, Buddhism, and Confucianism do not claim universal truths, or that, unlike Islam, the Western tradition is based on an obsession with law) that one wonders how any serious scholar could possibly make them.
+[\[3\]](#page-7-1) Some of his statements are so outrageous (for example, the apparent claim that, unlike the West, traditions like Islam, Buddhism, and Confucianism do not claim universal truths, or that, unlike Islam, the Western tradition is based on an obsession with law) that one wonders how any serious scholar could possibly make them.
 
-[<sup>\[4\]</sup>](#page-7-2) Actually, one often finds some of the authors who would otherwise be most hostile to Huntington going even further, and arguing that love, for example, is a "Western concept" and therefore cannot be used when speaking of people in Indonesia or Brazil.
+[\[4\]](#page-7-2) Actually, one often finds some of the authors who would otherwise be most hostile to Huntington going even further, and arguing that love, for example, is a "Western concept" and therefore cannot be used when speaking of people in Indonesia or Brazil.
 
-[<sup>\[5\]</sup>](#page-8-0) Or a French person to read Posidonius' account of ancient Gaul and identify with the perspective of an ancient Greek (a person, who if he had actually met him, he would probably first think was some sort of Arab).
+[\[5\]](#page-8-0) Or a French person to read Posidonius' account of ancient Gaul and identify with the perspective of an ancient Greek (a person, who if he had actually met him, he would probably first think was some sort of Arab).
 
 - [\[6\]](#page-9-1) This is why Classical Greek philosophers are so suspicious of democracy, incidentally: because, they claimed, it doesn't teach goodness.
 - [\[7\]](#page-9-2) This conclusion is in world-systems terms hardly unprecedented: what I am describing corresponds to what David Wilkinson (1987) for example calls the "Central Civilization."

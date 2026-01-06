@@ -1,3 +1,8 @@
+---
+title: "## **Southall Black Sisters interview - Black Flag**"
+category: "contemporary-analysis"
+---
+
 ## **Southall Black Sisters interview - Black Flag**
 
 ## **Date:** Unknown

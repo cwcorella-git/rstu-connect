@@ -1,16 +1,10 @@
 ---
-title: “Just Get to Know Your Neighbors” – South Side Weekly
-author: Emeline Posner
-slug: “Just Get to Know Your Neighbors” – South Side Weekly
-reconversion_status: ready_for_reconversion
-date: 2021
-tags:
-  - housing
-  - tenants
-  - strikes
-  - unions
-  - rent
+title: "“Just Get to Know Your Neighbors” – South Side Weekly"
+author: "Emeline Posner"
+date: "2021"
+category: "housing"
 ---
+
 #### [southsideweekly.com](https://southsideweekly.com/just-get-to-know-your-neighbors/)
 
 # **"Just Get to Know Your Neighbors"**

@@ -1,3 +1,8 @@
+---
+title: "## [pcwrede.com](https://pcwrede.com/pcw-wp/first-novels-part-2-prewriting/)"
+category: "arts-culture-music"
+---
+
 ## [pcwrede.com](https://pcwrede.com/pcw-wp/first-novels-part-2-prewriting/)
 
 ## **First novels Part 2-Prewriting – Patricia C. Wrede**

@@ -1,3 +1,8 @@
+---
+title: "## **To escape Trump's America, we need to bring the militant labor tactics of 1946 back to the futu"
+category: "contemporary-analysis"
+---
+
 ## **To escape Trump's America, we need to bring the militant labor tactics of 1946 back to the future**
 
 ## **Date:** Unknown
@@ -37,7 +42,9 @@ Nothing is a forgone conclusion, as bad as it looks right now. One day we will r
 | Steven. |
 | 8 years 11 months ago |
 | In reply to Welcomebylibcom.org |
-| Overall I thought it was really good, but I don't think the conflation of Trump with fascism is<br>helpful (in fact I think it is very unhelpful - if there were a fascist movement in the US of 60<br>million you would definitely know about it) |
+| Overall I thought it was really good, but I don't think the conflation of Trump with fascism is
+helpful (in fact I think it is very unhelpful - if there were a fascist movement in the US of 60
+million you would definitely know about it) |
 
 ## Oliver Twister
 
@@ -117,12 +124,18 @@ At some point we need to think about and put language to a ranking of which unio
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 8 years 11 months ago |
 | In reply to Welcomebylibcom.org |
-| Definitely. And we have to figure out how to support people in some of those unions to<br>organize to make them better, readier to strike, more anti-cop, etc. I think we're in a moment<br>where we could really contribute towards building a nationwide, cross-union movement of<br>union members who are ready for class struggle. We just have to actually try. |
-| As for Greg Butler's comments - hey, if the IWW is irrelevant, nobody's forcing you to read the<br>article. You're free to support whichever other group you see that cares about reviving mass<br>strikes such as the Oakland 1946 strike. Oh wait - there aren't any. |
+| Definitely. And we have to figure out how to support people in some of those unions to
+organize to make them better, readier to strike, more anti-cop, etc. I think we're in a moment
+where we could really contribute towards building a nationwide, cross-union movement of
+union members who are ready for class struggle. We just have to actually try. |
+| As for Greg Butler's comments - hey, if the IWW is irrelevant, nobody's forcing you to read the
+article. You're free to support whichever other group you see that cares about reviving mass
+strikes such as the Oakland 1946 strike. Oh wait - there aren't any. |
 | altemark |
 | 8 years 8 months ago |
 | In reply to Welcomebylibcom.org |
-| According to DOL files, IWW membership was at 3,800 before the election of Trump. Your<br>point still stands though. But the exponential growth is undeniable. |
+| According to DOL files, IWW membership was at 3,800 before the election of Trump. Your
+point still stands though. But the exponential growth is undeniable. |
 | Oliver Twister |
 | 8 years 8 months ago |
 | In reply to Welcomebylibcom.org |

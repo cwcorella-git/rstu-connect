@@ -1,3 +1,8 @@
+---
+title: "**What's wrong with Prometheanism?**"
+category: "contemporary-analysis"
+---
+
 # **What's wrong with Prometheanism?**
 
 ## **Date:** Unknown

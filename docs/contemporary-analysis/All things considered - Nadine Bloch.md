@@ -1,3 +1,8 @@
+---
+title: "## **All things considered - Nadine Bloch**"
+category: "contemporary-analysis"
+---
+
 ## **All things considered - Nadine Bloch**
 
 ## **Date:** Unknown

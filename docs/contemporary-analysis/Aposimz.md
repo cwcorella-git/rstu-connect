@@ -1,3 +1,8 @@
+---
+title: "*Aposimz*"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 # *Aposimz*
@@ -66,15 +71,28 @@ The manga was simultaneously published in English by [Comi Xology](https://en.wi
 
 | No. | Original release date | Original ISBN | English release date | English ISBN |
 |-----|------------------------------------------|---------------------------------------------------------|-----------------------------------|-------------------|
-| 1 | May 9, 2017 <sup>[6]</sup> | 978-4-06-390706-3 | October 9, 2018 <sup>[14]</sup> | 978-1-94719-430-4 |
-| 2 | February 9, 2018 <sup>[16][17]</sup> | 978-4-06-510937-3<br>978-4-06-510975-5<br>( <u>LE</u> ) | January 15, 2019 <sup>[18]</sup> | 978-1-94719-444-1 |
-| 3 | September 7,<br>2018 <sup>[19][20]</sup> | 978-4-06-395307-7<br>978-4-06-513528-0<br>( <u>LE</u> ) | June 18, 2019 <sup>[21]</sup> | 978-1-94719-481-6 |
-| 4 | April 9, 2019 <sup>[22]</sup> | 978-4-06-515256-0 | January 28, 2020 <sup>[23]</sup> | 978-1-94719-496-0 |
-| 5 | November 8, 2019 <sup>[24]</sup> | 978-4-06-517554-5 | September 8, 2020 <sup>[25]</sup> | 978-1-94998-036-3 |
-| 6 | May 8, 2020 <sup>[26]</sup> | 978-4-06-519616-8 | January 19, 2021 <sup>[27]</sup> | 978-1-94998-066-0 |
-| 7 | November 9,<br>2020 <sup>[28][29]</sup> | 978-4-06-521161-8<br>978-4-06-521180-9<br>( <u>LE</u> ) | July 6, 2021 <sup>[30]</sup> | 978-1-64729-055-9 |
-| 8 | April 30, 2021 <sup>[7][31]</sup> | 978-4-06-523002-2<br>978-4-06-523951-3<br>( <u>LE</u> ) | January 18, 2022 <sup>[32]</sup> | 978-1-64729-061-0 |
-| 9 | December 9,<br>2021 <sup>[33][34]</sup> | 978-4-06-526219-1<br>978-4-06-526220-7<br>( <u>LE</u> ) | June 28, 2022 <sup>[15]</sup> | 978-1-64729-100-6 |
+| 1 | May 9, 2017 [6] | 978-4-06-390706-3 | October 9, 2018 [14] | 978-1-94719-430-4 |
+| 2 | February 9, 2018 [16][17] | 978-4-06-510937-3
+978-4-06-510975-5
+( LE ) | January 15, 2019 [18] | 978-1-94719-444-1 |
+| 3 | September 7,
+2018 [19][20] | 978-4-06-395307-7
+978-4-06-513528-0
+( LE ) | June 18, 2019 [21] | 978-1-94719-481-6 |
+| 4 | April 9, 2019 [22] | 978-4-06-515256-0 | January 28, 2020 [23] | 978-1-94719-496-0 |
+| 5 | November 8, 2019 [24] | 978-4-06-517554-5 | September 8, 2020 [25] | 978-1-94998-036-3 |
+| 6 | May 8, 2020 [26] | 978-4-06-519616-8 | January 19, 2021 [27] | 978-1-94998-066-0 |
+| 7 | November 9,
+2020 [28][29] | 978-4-06-521161-8
+978-4-06-521180-9
+( LE ) | July 6, 2021 [30] | 978-1-64729-055-9 |
+| 8 | April 30, 2021 [7][31] | 978-4-06-523002-2
+978-4-06-523951-3
+( LE ) | January 18, 2022 [32] | 978-1-64729-061-0 |
+| 9 | December 9,
+2021 [33][34] | 978-4-06-526219-1
+978-4-06-526220-7
+( LE ) | June 28, 2022 [15] | 978-1-64729-100-6 |
 
 ### Reception
 
@@ -82,7 +100,7 @@ By February 2018, the manga had 250,000 copies in circulation. [35][36]
 
 ### References
 
-- 1. 弐瓶勉「人形の国」1巻発売、極寒の世界をめぐるダークファンタジー (https://natalie.mu/comic/news/231860). *Comic Natalie* (in Japanese). Natasha, Inc. May 9, 2017. <u>Archived (https://web.archive.org/web/20210425010017/https://natalie.mu/comic/news/231860)</u> from the original on April 25, 2021. Retrieved April 17, 2021.
+- 1. 弐瓶勉「人形の国」1巻発売、極寒の世界をめぐるダークファンタジー (https://natalie.mu/comic/news/231860). *Comic Natalie* (in Japanese). Natasha, Inc. May 9, 2017. Archived (https://web.archive.org/web/20210425010017/https://natalie.mu/comic/news/231860) from the original on April 25, 2021. Retrieved April 17, 2021.
 - 2. 弐瓶勉、新作の伏線となる読切をヤンマガで発表!凍てつく世界描く「人形の国」 (https://natalie.mu/comic/news/186416). *Comic Natalie* (in Japanese). Natasha, Inc. May 9, 2016. Archived (https://web.archive.org/web/20210417233405/https://natalie.mu/comic/news/186416) from the original on April 17, 2021. Retrieved April 17, 2021.
 - 3. Yuan, Kevin (November 25, 2016). "Knights of Sidonia's Tsutomu Nihei Launches Ningyō no Kuni Manga on February 25 (Updated)" (https://www.animenewsnetwork.com/news/2016-11-25/knights-of-sidonia-tsutomu-nihei-launches-ningyo-no-kuni-manga-on-february-25/.10918
 
@@ -133,4 +151,4 @@ By February 2018, the manga had 250,000 copies in circulation. [35][36]
 - *Aposimz* official website at *Monthly Shōnen Sirius* [\(https://shonen-sirius.com/series/sirius/ni](https://shonen-sirius.com/series/sirius/ningyounokuni/) [ngyounokuni/\)](https://shonen-sirius.com/series/sirius/ningyounokuni/) (in Japanese)
 - *Aposimz* [\(https://www.animenewsnetwork.com/encyclopedia/manga.php?id=18981\)](https://www.animenewsnetwork.com/encyclopedia/manga.php?id=18981) at [Anime News Network](https://en.wikipedia.org/wiki/Anime_News_Network)'s encyclopedia
 
-Retrieved from "<https://en.wikipedia.org/w/index.php?title=Aposimz&oldid=1313718459>"
+Retrieved from ""

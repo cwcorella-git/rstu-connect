@@ -1,3 +1,8 @@
+---
+title: "**Minnesota**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Minnesota)
 
 # **Minnesota**
@@ -35,52 +40,104 @@ North Star State; Gopher State; Land of 10,000 Lakes; Land of Sky Blue Waters[;\
 | Country | United States |
 |---------------------------------|-------------------------------------------|
 | Before statehood | Minnesota Territory |
-| Admitted to the Union | May 11, 1858 (32nd State in<br>the Union) |
+| Admitted to the Union | May 11, 1858 (32nd State in
+the Union) |
 | Capital | Saint Paul |
 | Largest city | Minneapolis |
-| Largest county or<br>equivalent | Hennepin |
+| Largest county or
+equivalent | Hennepin |
 | Largest metro and urban | Minneapolis–Saint Paul |
 | areas | |
 | | Government |
-| •<br>Governor | Tim Walz (DFL) |
-| •<br>Lieutenant Governor | Peggy Flanagan (DFL) |
+| •
+Governor | Tim Walz (DFL) |
+| •
+Lieutenant Governor | Peggy Flanagan (DFL) |
 | Legislature | Legislature |
-## | •<br>Upper house | Senate |
+## | •
+Upper house | Senate |
 
-| •<br>Lower house | House of Representatives |
+| •
+Lower house | House of Representatives |
 |-------------------------------------------------|-----------------------------------------------|
 | Judiciary | Minnesota Supreme Court |
-| U. S. senators | Amy Klobuchar (DFL)<br>Tina Smith (DFL) |
-| U. S. House delegation | 4 Democrats<br>4 Republicans (list) |
+| U. S. senators | Amy Klobuchar (DFL)
+Tina Smith (DFL) |
+| U. S. House delegation | 4 Democrats
+4 Republicans (list) |
 | | Area |
-| •<br>Total | 86,935.83<br>sq<br>mi<br>km2)<br>(225,163 |
-| •<br>Land | 79,626.74<br>sq<br>mi<br>km2)<br>(206,232 |
-| •<br>Water | km2)<br>7,309.09<br>sq<br>mi (18,930<br>8.40% |
-| •<br>Rank | 12th |
+| •
+Total | 86,935.83
+sq
+mi
+km2)
+(225,163 |
+| •
+Land | 79,626.74
+sq
+mi
+km2)
+(206,232 |
+| •
+Water | km2)
+7,309.09
+sq
+mi (18,930
+8.40% |
+| •
+Rank | 12th |
 | | Dimensions |
-| •<br>Length | about 400<br>mi (640<br>km) |
-| •<br>Width | 200–350<br>mi (320–560<br>km) |
-| Elevation | 1,200<br>ft (370<br>m) |
-| Highest<br>elevation<br>(Eagle Mountain[3][a]) | 2,301<br>ft (701<br>m) |
-| Lowest<br>elevation<br>(Lake Superior[3][a][4]) | 602<br>ft (183<br>m) |
+| •
+Length | about 400
+mi (640
+km) |
+| •
+Width | 200–350
+mi (320–560
+km) |
+| Elevation | 1,200
+ft (370
+m) |
+| Highest
+elevation
+(Eagle Mountain[3][a]) | 2,301
+ft (701
+m) |
+| Lowest
+elevation
+(Lake Superior[3][a][4]) | 602
+ft (183
+m) |
 
-| Population<br>(2024) | | |
+| Population
+(2024) | | |
 |---------------------------------|--------------------------|--|
-| •<br>Total | 5,793,151[5] | |
-| •<br>Rank | 22nd | |
-| •<br>Density | mi (26.6/km2)<br>68.9/sq | |
-| •<br>Rank | 36th (2020 census) | |
-| •<br>Median household<br>income | \$85,100 (2023)[6] | |
-| •<br>Income rank | 13th | |
+| •
+Total | 5,793,151[5] | |
+| •
+Rank | 22nd | |
+| •
+Density | mi (26.6/km2)
+68.9/sq | |
+| •
+Rank | 36th (2020 census) | |
+| •
+Median household
+income | \$85,100 (2023)[6] | |
+| •
+Income rank | 13th | |
 | Demonym | Minnesotan | |
 | | Language | |
-| •<br>Official language | none | |
-| •<br>Spoken language | • English 88.9% | |
+| •
+Official language | none | |
+| •
+Spoken language | • English 88.9% | |
 | | • Spanish | |
 | | • Somali | |
 | | • Hmong[7] | |
 | Time zone | UTC– 06:00 (Central) | |
-| •<br>Summer (DST) | UTC– 05:00 (CDT) | |
+| •
+Summer (DST) | UTC– 05:00 (CDT) | |
 | USPS abbreviation | MN | |
 | ISO 3166 code | US-MN | |
 ## | Traditional abbreviation | Minn. | |
@@ -99,15 +156,21 @@ North Star State; Gopher State; Land of 10,000 Lakes; Land of Sky Blue Waters[;\
 | Butterfly | Monarch | |
 | Fish | Walleye | |
 | Flower | Pink-and-white lady's slipper | |
-| Mushroom | Common morel (Morchella<br>esculenta) | |
-| Tree | Norway pine[8] (Pinus<br>resinosa) | |
+| Mushroom | Common morel (Morchella
+esculenta) | |
+| Tree | Norway pine[8] (Pinus
+resinosa) | |
 | | Inanimate insignia | |
 | Beverage | Milk | |
-| Food | • Fruit:<br>Honeycrisp apple | |
-| | • Muffin:<br>Blueberry | |
-| | • Mushroom:<br>Morel | |
+| Food | • Fruit:
+Honeycrisp apple | |
+| | • Muffin:
+Blueberry | |
+| | • Mushroom:
+Morel | |
 | Gemstone | Lake Superior agate | |
-| Other | Photograph:<br>Grace | |
+| Other | Photograph:
+Grace | |
 ## | State quarter | | |
 
 ## ![](_page_5_Picture_2.jpeg)
@@ -236,7 +299,11 @@ Minnesota has been affected by climate change and warmed over the past few years
 
 Average daily maximum and minimum temperatures for selected cities in Minnesot[a\[78\]](#page-69-1)
 
-| Location<br>July<br>July<br>January<br>January |
+| Location
+July
+July
+January
+January |
 |------------------------------------------------|
 |------------------------------------------------|
 
@@ -248,7 +315,8 @@ Average daily maximum and minimum temperatures for selected cities in Minnesot[a
 | Duluth | 76/55 | 24/13 | 19/1 | −7/−17 |
 | St. Cloud | 81/58 | 27/14 | 18/−1 | −7/−18 |
 | Mankato | 86/62 | 30/16 | 23/3 | −5/−16 |
-| International<br>Falls | 77/52 | 25/11 | 15/−6 | −9/−21 |
+| International
+Falls | 77/52 | 25/11 | 15/−6 | −9/−21 |
 
 ### **Protected lands**
 
@@ -283,7 +351,8 @@ Minnesota's population continues to grow, primarily in the urban centers. The po
 | Minneapolis | 3 | Rochester | Olmsted | 121,465 | Rochester |
 | | 4 | Bloomington | Hennepin | 89,298 | |
 | Saint Paul | 5 | Duluth | St. Louis | 86,372 | Bloomington |
-## | | 6 | Brooklyn<br>Park | Hennepin | 84,526 | |
+## | | 6 | Brooklyn
+Park | Hennepin | 84,526 | |
 
 | 7 | Plymouth | Hennepin | 79,828 | |
 |----|-----------|------------|--------|--|
@@ -367,7 +436,8 @@ Since the 1960s, Minnesota's immigrant population has been shaped by its status 
 |--------------------|------------|
 | Mexico | 95,227 |
 | Somalia | 76,658 |
-| people[b]<br>Hmong | 55,005 |
+| people[b]
+Hmong | 55,005 |
 | India | 39,559 |
 | Ethiopia | 36,982 |
 | Laos | 24,901 |
@@ -408,18 +478,27 @@ The Spanish, Cushite, Beja, Somali, Miao, Hmong, Vietnamese, Chinese, Russian, A
 
 Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.
 
-| Race / Ethnicity | Pop<br>2000 | Pop<br>2010 | Pop<br>2020 |
+| Race / Ethnicity | Pop
+2000 | Pop
+2010 | Pop
+2020 |
 |------------------------------------------------|-------------|-------------|-------------|
 | White alone (NH) | 4,337,143 | 4,405,142 | 4,353,880 |
-| Black or African<br>American alone (NH) | 168,813 | 269,141 | 392,850 |
-| Native American or<br>Alaska Native alone (NH) | 52,009 | 55,421 | 57,046 |
+| Black or African
+American alone (NH) | 168,813 | 269,141 | 392,850 |
+| Native American or
+Alaska Native alone (NH) | 52,009 | 55,421 | 57,046 |
 | Asian alone (NH) | 141,083 | 212,996 | 297,460 |
-| Pacific Islander alone<br>(NH) | 1,714 | 1,860 | 2,621 |
-| Some Other Race alone<br>(NH) | 5,031 | 5,947 | 20,963 |
+| Pacific Islander alone
+(NH) | 1,714 | 1,860 | 2,621 |
+| Some Other Race alone
+(NH) | 5,031 | 5,947 | 20,963 |
 
-| Mixed Race/Multi-Racial<br>(NH) | 70,304 | 103,160 | 236,034 |
+| Mixed Race/Multi-Racial
+(NH) | 70,304 | 103,160 | 236,034 |
 |----------------------------------|-----------|-----------|-----------|
-| Hispanic or Latino (any<br>race) | 143,382 | 250,258 | 345,640 |
+| Hispanic or Latino (any
+race) | 143,382 | 250,258 | 345,640 |
 ## | Total | 4,919,979 | 5,303,925 | 5,706,494 |
 
 ## **Economy**

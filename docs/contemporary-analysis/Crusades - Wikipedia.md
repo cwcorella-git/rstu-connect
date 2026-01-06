@@ -1,3 +1,8 @@
+---
+title: "**Crusades**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Crusades)
 
 # **Crusades**
@@ -462,7 +467,7 @@ The historiography of the Crusades is concerned with their "history of the histo
 
 ![](_page_64_Picture_5.jpeg)
 
-William of Tyre writing his history, from a 13th-century <u>Old French</u> translation, <u>Bibliothèque Nationale</u>, Paris, MS 2631, f.1r
+William of Tyre writing his history, from a 13th-century Old French translation, Bibliothèque Nationale, Paris, MS 2631, f.1r
 
 #### **Primary sources**
 

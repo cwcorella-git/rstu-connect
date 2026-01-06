@@ -1,3 +1,8 @@
+---
+title: "The Principles of Communism"
+category: "contemporary-analysis"
+---
+
 #### [marxists.org](https://www.marxists.org/archive/marx/works/1847/11/prin-com.htm)
 
 # The Principles of Communism

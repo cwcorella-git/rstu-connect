@@ -1,3 +1,8 @@
+---
+title: "R()()"
+category: "contemporary-analysis"
+---
+
 ## NATIONAL BESTSELLER
 
 # R()()
@@ -420,21 +425,27 @@ The Techno Terrible: "Dis" connect Conference Calling Houses of Cell Phone Worsh
 
 ## Benign Addictions
 
-| Low-Tech No Toys<br>' |
+| Low-Tech No Toys
+' |
 |----------------------------------------------------------------|
-| Ro Ane<br>s Reminders |
+| Ro Ane
+s Reminders |
 | xii |
 | CONTENTS |
 | CHAPTER 17: HOW TO WORK THE DIVERSE ROOM |
 | 234 |
-| Turnabout Is Fair Play<br>"<br>" |
+| Turnabout Is Fair Play
+"
+" |
 | Hire Authority |
 | Building Bridges, Bonds, and Business Relationships Listen Up! |
 | The Virtual, Diverse Room |
 | Techno Friends |
 | Avoid Gender Benders |
-| Age Gauge<br>' |
-## | Ro Ane<br>s Reminders |
+| Age Gauge
+' |
+## | Ro Ane
+s Reminders |
 
 # CHAPTER 18: WORKING THE WORLD:
 
@@ -1503,7 +1514,8 @@ In "charm" school I was taught how to dress, walk, apply makeup, smile, behave, 
 | 5. |
 | What do they do that makes you think so? |
 | Once we identify charming behaviors, we can emulate them. |
-| Even more helpful is to make a list of those lacking in charm and what they<br>do that makes them so. Then, avoid those misbehaviors in any room. |
+| Even more helpful is to make a list of those lacking in charm and what they
+do that makes them so. Then, avoid those misbehaviors in any room. |
 
 Charm is a combination of warmth, good nature, positive attitude, a good sense of humor, charisma, spirit, energy, and an interest in others. My friend and associate Diane Parente has it. She is a consultant and speaker who helps clients dene their image. She has a wonderful sense of humor and laughter. People want to be around her. Charm is the ability to convey a type of caring that comes from the heart and soul . . . and she has it.
 
@@ -2241,7 +2253,9 @@ That doesn't mean you have to have a bad time. Even if you "have to" attend a ce
 
 Before the event, take some time to ll out an index card like this one. If you nd that your list of bene ts continues on the back of the card, so
 
-| nd that your list of bene ts continues on the back of the card, so<br>you<br>much the better! |
+| nd that your list of bene ts continues on the back of the card, so
+you
+much the better! |
 |-------------------------------------------------------------------------------------------------|
 | 82 |
 | Susan Ro Ane |
@@ -5103,41 +5117,74 @@ Be sure you really know how to use the technology. It could impact your career.
 
 By now every minister, rabbi, priest, and their parishioners have stories of cell phone transgressions. How they handle such distractions is another story. The Jewish New Year is a holy day. The rabbi was just nishing a very solemn passage when a congregant's cell phone rang. Because it was a smaller sanctuary with great acoustics, we all heard it and gasped. Rabbi Alan Lew looked out at the congregants, smiled, and said, "It must be a call from G-d wishing us a Happy New Year!" We laughed. To his credit and
 
-| quick wit, the rabbi addressed the issue and relieved the tension with his<br>humor. |
+| quick wit, the rabbi addressed the issue and relieved the tension with his
+humor. |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Cell phones, MP3 players, Sidekicks, Black Berrys, or PDAs have no place<br>in houses of religious worship unless you are waiting for heart surgery<br>or performing it. |
+| Cell phones, MP3 players, Sidekicks, Black Berrys, or PDAs have no place
+in houses of religious worship unless you are waiting for heart surgery
+or performing it. |
 | 230 |
 | Susan Ro Ane |
 | SELF-IMPORTANT CELL PHONE QUIZ |
 | Have you answered or used your cell phone: 1. In a movie or a play? |
-| Yes<br>❏ No<br>❏ |
+| Yes
+❏ No
+❏ |
 | 2. In a meeting? |
-| Yes<br>❏ No<br>❏ |
+| Yes
+❏ No
+❏ |
 | 3. During a business lunch with a client? |
-| Yes<br>❏ No<br>❏ |
+| Yes
+❏ No
+❏ |
 | 4. On a date? |
-| Yes<br>❏ No<br>❏ |
+| Yes
+❏ No
+❏ |
 | 5. During a funeral service? |
-| Yes<br>❏ No<br>❏ |
+| Yes
+❏ No
+❏ |
 | 6. During a religious service? |
-## | Yes<br>❏ No<br>❏ |
+## | Yes
+❏ No
+❏ |
 
 | 7. a. At a wedding (yours)? |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Yes<br>❏ No<br>❏ |
+| Yes
+❏ No
+❏ |
 | b. At a wedding (someone else's)? |
-| Yes<br>❏ No<br>❏ |
+| Yes
+❏ No
+❏ |
 | 8. In a lecture hall? |
-| Yes<br>❏ No<br>❏ |
+| Yes
+❏ No
+❏ |
 | 9. In a restaurant? |
-| Yes<br>❏ No<br>❏ |
+| Yes
+❏ No
+❏ |
 | 10. At a party? |
-| Yes<br>❏ No<br>❏ |
+| Yes
+❏ No
+❏ |
 | 11. In a job interview? |
-| Yes<br>❏ No<br>❏ |
+| Yes
+❏ No
+❏ |
 | If you answered yes to any of these, please reread this chapter! |
-| "text message/PDA/MP3 players" for<br>"cell phone"<br>You can also substitute<br>and retake the test. |
-|  attering behavior that occurs is when people say "Please hold<br>The most<br>my calls" when we are in their of ce. To focus and pay attention to the<br>person in the room is respected, remembered, and revered. When we |
+| "text message/PDA/MP3 players" for
+"cell phone"
+You can also substitute
+and retake the test. |
+|  attering behavior that occurs is when people say "Please hold
+The most
+my calls" when we are in their of ce. To focus and pay attention to the
+person in the room is respected, remembered, and revered. When we |
 
 turn off our cell phones and PDAs, and remove earbuds in meetings, meals, family gatherings, or other social occasions, we are
 
@@ -5187,7 +5234,8 @@ How we correctly use the gizmos and gadgets of the twenty- rst century is determ
 - ★ Make sure your cell phone or pager has a vibrating option
 - ★ Choose the least obtrusive ringer (forget the intro to the William Tell Overture!)
 
-| ★ Leave it in the car or ofce or at home when it is not appropriate to have<br>it with you (see below) Don't |
+| ★ Leave it in the car or ofce or at home when it is not appropriate to have
+it with you (see below) Don't |
 |---------------------------------------------------------------------------------------------------------------|
 | ★ Take it to a church or synagogue |
 | ★ Take it to an important meeting |
@@ -5199,7 +5247,9 @@ How we correctly use the gizmos and gadgets of the twenty- rst century is determ
 | ★ Take it to a wedding or family celebration |
 | ★ Take it to a hospital room |
 | ★ Take it to a restaurant |
-| the sound. It doesn't help and it annoys the<br>★ Shout loudly to help transmit<br>rest of us! |
+| the sound. It doesn't help and it annoys the
+★ Shout loudly to help transmit
+rest of us! |
 | Advisory: |
 | E-mails and text messages are admissible in our courts of law. |
 | 17 |
@@ -5745,8 +5795,11 @@ Voicemail:
 |----------------------------------------------------------------------------------------------------------------------------|
 | • What Do I Say Next? |
 | • How to Create Your Own Luck: |
-| "You Never Know" Approach<br>The |
-| "Ask the Mingling Maven®" or for free chapters of my other bestsellers<br>To<br>or for coaching, visit www.susanroane.com. |
+| "You Never Know" Approach
+The |
+| "Ask the Mingling Maven®" or for free chapters of my other bestsellers
+To
+or for coaching, visit www.susanroane.com. |
 | A SAMPLING OF |
 | SUSAN'S CLIENTS |
 | CORPORATIONS |

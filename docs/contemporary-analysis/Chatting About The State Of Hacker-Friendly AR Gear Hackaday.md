@@ -1,3 +1,8 @@
+---
+title: "## [hackaday.com](https://hackaday.com/2023/06/02/chatting-about-the-state-of-hacker-friendly-ar-gea"
+category: "contemporary-analysis"
+---
+
 ## [hackaday.com](https://hackaday.com/2023/06/02/chatting-about-the-state-of-hacker-friendly-ar-gear/)
 
 ## Chatting About The State Of Hacker-Friendly AR Gear

@@ -1,13 +1,8 @@
 ---
-title: Picket Line Lessons the Utla Teacher Strike
-date: 2025
-author: Black Rose
-tags:
-  - organizing
-  - strikes
-  - unions
-  - housing
-  - rent
+title: "Picket Line Lessons the Utla Teacher Strike"
+author: "Black Rose"
+date: "2025"
+category: "labor"
 ---
 
 # Picket Line Lessons the Utla Teacher Strike

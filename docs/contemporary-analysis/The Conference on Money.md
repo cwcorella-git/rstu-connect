@@ -1,3 +1,8 @@
+---
+title: "## **James Herod**"
+category: "contemporary-analysis"
+---
+
 ## **James Herod**
 
 ## **The Conference on Money**
@@ -112,4 +117,4 @@ Sakolsky, Ron, editor, *Surrealist Subversions: Rants, Writings, and Images by t
 
 Ward, Colin, *Anarchy in Action*. (Freedom Press, London, 1983, 152 pages.) Wood, Ellen Meiksins, *Democracy Against Capitalism: Renewing Historical Materialism*. (Cambridge University Press, 1995, 300 pages.)
 
-A more extensive list of recommended reading can be found at the back of my book, <em>Getting Free.
+A more extensive list of recommended reading can be found at the back of my book, Getting Free.

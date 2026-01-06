@@ -1,3 +1,8 @@
+---
+title: "**Bonus Army**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Bonus_Army)
 
 # **Bonus Army**
@@ -12,11 +17,17 @@
 
 ## Bonus Army marchers (left) clash with the police
 
-| Date | July<br>28, 1932; 93 years ago |
+| Date | July
+28, 1932; 93 years ago |
 |----------------|-----------------------------------------------------------------------------------------------------------------|
 | Location | Washington, D. C., United States |
-| Caused<br>by | Impoverishment of World War I veterans due<br>to the Great Depression |
-| Resulted<br>in | Demonstrators dispersed, demands rejected,<br>Herbert Hoover loses 1932 presidential<br>election in a landslide |
+| Caused
+by | Impoverishment of World War I veterans due
+to the Great Depression |
+| Resulted
+in | Demonstrators dispersed, demands rejected,
+Herbert Hoover loses 1932 presidential
+election in a landslide |
 ## | Parties | |
 
 ## ![](_page_1_Figure_2.jpeg)

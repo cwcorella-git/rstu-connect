@@ -1,3 +1,8 @@
+---
+title: "INDEX"
+category: "environmental-justice"
+---
+
 # INDEX
 
 to

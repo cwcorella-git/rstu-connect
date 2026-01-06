@@ -1,6 +1,12 @@
+---
+title: "## **Beauty Talk: the Jezebel, the Mammy, and the third gender of "Black woman."**"
+category: "feminist-theory"
+---
+
 ## **Beauty Talk: the Jezebel, the Mammy, and the third gender of "Black woman."**
 
-| Date: 2022-11-06<br>Source: https://www.threadings.io/beauty-talk-the-jezebel-the-mammy/|
+| Date: 2022-11-06
+Source: https://www.threadings.io/beauty-talk-the-jezebel-the-mammy/|
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | an essay formerly entitled, "T |
 | he (un)intentional making of the Black woman." |
@@ -11,20 +17,25 @@
 | Belly of the Beast: The Politics of Anti-Fatness as Anti-Blackness |
 | after one more preliminary text, |
 | Fearing the Black Body |
-| by Sabrina Strings (next week's essay). Join us if you're able! Here is the link to the syllabus<br>with the recurring meeting link. I recommend purchasing |
+| by Sabrina Strings (next week's essay). Join us if you're able! Here is the link to the syllabus
+with the recurring meeting link. I recommend purchasing |
 
 ## Belly of the Beast
 
 ## ![](_page_1_Figure_0.jpeg)
 
-| Why does Blackness have to get laundered by white faces, white bodies, white agendas in<br>order to be considered marketable? |
+| Why does Blackness have to get laundered by white faces, white bodies, white agendas in
+order to be considered marketable? |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Now |
 | this |
-| is inquiry so rich in answer I wanted to pose it to us all. Let's begin with brief historical review<br>of the process of colonization. I recommend reading the introduction and first two chapters of<br>Ibram Kendi's |
+| is inquiry so rich in answer I wanted to pose it to us all. Let's begin with brief historical review
+of the process of colonization. I recommend reading the introduction and first two chapters of
+Ibram Kendi's |
 | Stamped from the Beginning |
 | if these ideas are unfamiliar to you. |
-| When the white, the wealthy, and the genocidal decided to engage in the most horrific version<br>of world domination possible, they did so by remaking the word "human." |
+| When the white, the wealthy, and the genocidal decided to engage in the most horrific version
+of world domination possible, they did so by remaking the word "human." |
 | Humans |
 | deserved safety, community, rest, space, self-determination. |
 | Humans |
@@ -32,17 +43,24 @@
 | Human peoples were white, exclusively. |
 ## | Whiteness |
 
-| was never and still is not a substance on its own, but as a response to what Blackness was<br>(or what Blackness was created to be). |
+| was never and still is not a substance on its own, but as a response to what Blackness was
+(or what Blackness was created to be). |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Blackness |
 | , the |
 | black race |
-| (before Black people coagulated into an intentional cultures and subcultures), was meant to<br>embody everything that was brutish, bad, abhorrent about the lowliest forms of a homosapien. |
+| (before Black people coagulated into an intentional cultures and subcultures), was meant to
+embody everything that was brutish, bad, abhorrent about the lowliest forms of a homosapien. |
 | Blackness was not only decidedly |
 | bad, |
-| it was impossibly so. "Black" was ugly and ape-like and deeply undesirable… while<br>simultaneously sinfully lustful and animalistic in their sex drives; blackness was lazy and<br>stupid, yet conniving and tricky. For all its inconsistency, black was designed to be the parts of<br>humanity that human people should always try and rid themselves of; the less you are like<br>Black "people," marred and made different by their melanated features, the better. |
+| it was impossibly so. "Black" was ugly and ape-like and deeply undesirable… while
+simultaneously sinfully lustful and animalistic in their sex drives; blackness was lazy and
+stupid, yet conniving and tricky. For all its inconsistency, black was designed to be the parts of
+humanity that human people should always try and rid themselves of; the less you are like
+Black "people," marred and made different by their melanated features, the better. |
 | Where Blackness was the call, whiteness was the response. |
-| Blackness was created to justify the slow, self-sustaining genocide of slavery because Black<br>people (under the defining pen of the white, the wealthy, and the genocidal) were not |
+| Blackness was created to justify the slow, self-sustaining genocide of slavery because Black
+people (under the defining pen of the white, the wealthy, and the genocidal) were not |
 | people |
 
 at all— they were the waste and shame of humanity wrapped up into a meat sack; only good for and made good by slaving for them (Kendi 2016). Whiteness was a mockingbird, parroting back pureness where Blackness spewed dirt, embodying smooth, thin grace where Blackness was bulbous and endless, indistinguishable flesh (Coates 2015). Whiteness' amorphous and ill-defined state is purposeful; there is negative space at the core of whiteness; the race itself needs to be able to stretch and gobble up other ethnicities into its fold just so that it can continue to exist.
@@ -65,7 +83,11 @@ at all— they were the waste and shame of humanity wrapped up into a meat sack;
 | Whiteness, amidst selling flesh by the pound or a home for a scalp, became |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | obsessed |
-| with quantifying a person by how much they deserved to exist. Like capital acquisition (land<br>and labor) became the standardized route to generational wealth, Beauty became the<br>standardized system by which a prospective wife was weighted. If white was the qualifier of<br>human, gender was the further inquiry: how much? Each white person is worth something,<br>sure— but how much? |
+| with quantifying a person by how much they deserved to exist. Like capital acquisition (land
+and labor) became the standardized route to generational wealth, Beauty became the
+standardized system by which a prospective wife was weighted. If white was the qualifier of
+human, gender was the further inquiry: how much? Each white person is worth something,
+sure— but how much? |
 | All the women are white, all the Blacks are men… |
 | The |
 | black woman's position |
@@ -83,7 +105,8 @@ at all— they were the waste and shame of humanity wrapped up into a meat sack;
 | rescued |
 | from the myth of the |
 | Negro |
-| , indeed, as has been noted, this seems to have been one of the aims of the historic<br>scholarship on slavery in the 1970s. They can be |
+| , indeed, as has been noted, this seems to have been one of the aims of the historic
+scholarship on slavery in the 1970s. They can be |
 | identified |
 | with things |
 | masculine |
@@ -224,7 +247,8 @@ Eventually, white men's unrepentant taking of bonded women proved to be complica
 | embrace both images |
 | of black women simultaneously and |
 | switch |
-| from one to the other depending on the context of their thought. On the one hand, there was<br>the |
+| from one to the other depending on the context of their thought. On the one hand, there was
+the |
 | woman obsessed |
 | with matters of the |
 | flesh |
@@ -252,26 +276,45 @@ The myth of choice follows Mammy as well, that she chooses a life in the white m
 | prefer; |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | there was no choice, |
-| especially since they both came with the constant threat of violence and sexual assault. They<br>were two sides of the same coin in trying to reconcile womanhood with blackness in order to<br>serve whiteness. |
+| especially since they both came with the constant threat of violence and sexual assault. They
+were two sides of the same coin in trying to reconcile womanhood with blackness in order to
+serve whiteness. |
 | …and some of us are brave. |
 | Combahee River Collective's First Annual Retreat |
 | Why isn't it capital "b" Beautiful until white people do it? |
-| Why does Blackness have to get laundered by white faces, white bodies, white agendas in<br>order to be considered marketable? |
-| To answer the original inquiry: beautiful isn't Beautiful until white people touch it because the<br>the Beauty market is still 90% owned by white men. They are the makers of Beauty and still<br>the primary beneficiaries. They are the primary creators, the stewards, and the disseminators<br>of Beauty capital, the standardized way they purchase wives. Because whiteness is not the<br>presence of culture but the absence of Blackness, they constantly search for something to<br>consume, like a wayward parasite. Like lice. They desire Black women without ever wanting<br>to credit them for their ingenuity— so they eat it, spit it back up and sell this bastardized thing<br>on the beauty market back to the general public. |
+| Why does Blackness have to get laundered by white faces, white bodies, white agendas in
+order to be considered marketable? |
+| To answer the original inquiry: beautiful isn't Beautiful until white people touch it because the
+the Beauty market is still 90% owned by white men. They are the makers of Beauty and still
+the primary beneficiaries. They are the primary creators, the stewards, and the disseminators
+of Beauty capital, the standardized way they purchase wives. Because whiteness is not the
+presence of culture but the absence of Blackness, they constantly search for something to
+consume, like a wayward parasite. Like lice. They desire Black women without ever wanting
+to credit them for their ingenuity— so they eat it, spit it back up and sell this bastardized thing
+on the beauty market back to the general public. |
 | And boy, do white men |
 | want |
 
-| them back, and of the Mammy, who is equally as conveniently always happy to serve them<br>their families. To date, the most marketable things one can be as a Black woman are<br>endlessly helpful or insanely sexy. There must (read: |
+| them back, and of the Mammy, who is equally as conveniently always happy to serve them
+their families. To date, the most marketable things one can be as a Black woman are
+endlessly helpful or insanely sexy. There must (read: |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | must |
 | ) be more than this for us. |
-| Inside of beauty, we at the juncture of Black and woman fight to prove what we aren't and<br>embody what was made to exclude us. This history bubbles to mind when I chew on<br>comments like, " |
+| Inside of beauty, we at the juncture of Black and woman fight to prove what we aren't and
+embody what was made to exclude us. This history bubbles to mind when I chew on
+comments like, " |
 | well, why can't we just expand the Beauty system? |
-| " It goes farther than a simple, "we can't." There is no expanding this to include everyone,<br>that's true— but I'm not even concerned with whether that's possible. Why would I |
+| " It goes farther than a simple, "we can't." There is no expanding this to include everyone,
+that's true— but I'm not even concerned with whether that's possible. Why would I |
 | want |
 | to? |
 | Black woman is this third space in gender |
-| where we are barred perpetually from the ease and guaranteed safety of white femininity and<br>excluded coldly from solidarity within and across Blackness. Both these groups that should<br>seek to reach for us, reach to love and uplift us because the combustion of Blackness and<br>womanhood is difficult to survive, yet lights a warm hearth for many outside of us. The novel<br>gender |
+| where we are barred perpetually from the ease and guaranteed safety of white femininity and
+excluded coldly from solidarity within and across Blackness. Both these groups that should
+seek to reach for us, reach to love and uplift us because the combustion of Blackness and
+womanhood is difficult to survive, yet lights a warm hearth for many outside of us. The novel
+gender |
 
 woman us. They justify their wants by the creation of the Jezebel, who conveniently always wants does not follow Black women neatly past the melanin in our eyes, our hair, our skin, our gums; we see, we grow, we touch, and we taste the world differently. Traditional womanhood was specifically designed to exclude and subjugate us, to punish us for advances we did not ask for and strength we wish we did not need. The strength, the quickness required to survive blackness, to grow new things within it, to fashion a culture that raises up pride, is only rewarded in men. Strength, wit, intellect, cunning are only rewarded in men. If you are a woman displaying sovereignty, you will be punished; the identity of woman is supposed to begin and end with needing men.
 
@@ -285,18 +328,27 @@ Black women long for structural access and Beauty capital is really the only way
 
 Especially when, in this liminal space, we continue to be brave. We make and remake beauty over and over again. We innovate every expression of aesthetic we can see, touch, or taste. We are regularly the culture-makers. Black women are best kept by each other, housing within themselves friendships so intimate in their loving and so considerate in their caring they outdo husbands by landslides. There is queerness (read: deviation from the arch of heteronormativity) in centering, choosing, and prioritizing each other over all things. It is not easy; it is punished; these practices are marginalized; this being is brave.
 
-| The matter of stardust is everywhere. We were never supposed to happen and yet we birth<br>ourselves over and over again, simply because we can. |
+| The matter of stardust is everywhere. We were never supposed to happen and yet we birth
+ourselves over and over again, simply because we can. |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | We can be |
 | anything |
-| — do you follow me?— because we were never supposed to be this whole in the first place.<br>We were never meant to be this |
+| — do you follow me?— because we were never supposed to be this whole in the first place.
+We were never meant to be this |
 | human, |
-| much less this radiant. The worth of my Beauty, my perception of self was always meant to be<br>owned and operated by someone else; by some white man with grimy hands reaching into my<br>intimate space under nightfall. Why would I want his hands on my work? I can be anything.<br>Why would I want my identity to first bend around a man, white or Black or anything? I can<br>snatch this body back and call it mine— call it ours— and you want me to settle for training<br>myself to want Beauty now that I can get a crumb? For watering down their colored wants?<br>You want me to wear the pastel version of white supremacy and call that victory? |
+| much less this radiant. The worth of my Beauty, my perception of self was always meant to be
+owned and operated by someone else; by some white man with grimy hands reaching into my
+intimate space under nightfall. Why would I want his hands on my work? I can be anything.
+Why would I want my identity to first bend around a man, white or Black or anything? I can
+snatch this body back and call it mine— call it ours— and you want me to settle for training
+myself to want Beauty now that I can get a crumb? For watering down their colored wants?
+You want me to wear the pastel version of white supremacy and call that victory? |
 | When could be anything! We could be |
 | anything. |
 | Ismatu Gwendolyn |
 | Sources and Recommended Reading: |
-| Bonnett, A. (1998). Who was white? The disappearance of non-European white identities and<br>the formation of European racial whiteness. |
+| Bonnett, A. (1998). Who was white? The disappearance of non-European white identities and
+the formation of European racial whiteness. |
 
 In this liminal space of Blackness and womanness, we are an asteroid that collides with earth.
 

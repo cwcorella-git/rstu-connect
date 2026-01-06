@@ -1,16 +1,10 @@
 ---
-title: Against The Grain
-slug: Against the Grain
-reconversion_status: ready_for_reconversion
-author: James C. Scott
-date: '2017'
-tags:
-  - housing
-  - tenants
-  - strikes
-  - rent
-  - prisons
+title: "Against The Grain"
+author: "James C. Scott"
+date: "2017"
+category: "housing"
 ---
+
 # **James C. Scott**
 
 # **Against the Grain**
@@ -1521,11 +1515,11 @@ Advantage." Current Anthropology 42, no. 2 (2001): 199–233.
 - ———. "Pathways to Animal Domestication." In P. Gepts, T. R. Famula, R. L. Bettinger, et al., eds., Biodiversity in Agriculture: Domestication, Evolution, and Sustainability, 227–259. Cambridge: Cambridge University Press, 2012.
 - Zeder, Melinda A., Eve Emshwiller, Bruce D. Smith, and Daniel Bradley. "Documenting Domestication: The Intersection of Genetics and Archaeology." Trends in Genetics 22, no. 3 (2016): 139–155.
 
-[<sup>\[1\]</sup>](#page-6-0) The term was first coined by the Dutch climate scientist Paul Crutzen in 2001.
+[\[1\]](#page-6-0) The term was first coined by the Dutch climate scientist Paul Crutzen in 2001.
 
-[<sup>\[2\]</sup>](#page-6-1) For the dating, personal communication, David Wengrow.
+[\[2\]](#page-6-1) For the dating, personal communication, David Wengrow.
 
-[<sup>\[3\]</sup>](#page-7-1) It's hard to avoid asking oneself, "Where did we go wrong to end up here?" That question is far too ambitious for me to tackle. One thing stands out, however, and that is that our trouble is largely of our own making. This, in turn, suggests a medical analogy. More than two-thirds of hospitalizations in industrial countries, it is claimed, are for iatrogenic illnesses: medical conditions that result from previous medical interventions and therapy. One might say that our current environmental ills are largely iatrogenic. If so, the first step is perhaps to elicit a long and deep medical history that might help us trace the origins of our current complaints.
+[\[3\]](#page-7-1) It's hard to avoid asking oneself, "Where did we go wrong to end up here?" That question is far too ambitious for me to tackle. One thing stands out, however, and that is that our trouble is largely of our own making. This, in turn, suggests a medical analogy. More than two-thirds of hospitalizations in industrial countries, it is claimed, are for iatrogenic illnesses: medical conditions that result from previous medical interventions and therapy. One might say that our current environmental ills are largely iatrogenic. If so, the first step is perhaps to elicit a long and deep medical history that might help us trace the origins of our current complaints.
 
 [\[4\]](#page-8-0) In the first millennium BCE—later than the period on which I focus—when nomadic pastoralism is combined with the rearing of horses, a new kind of nonsedentary, grassland empire becomes possible, exemplified by the Mongols and, much later in the New World, by the Comanche. For such unique polities see, Pekka Hämäläinen, "What's in a Concept? The Kinetic Empire of the Comanches," History and Theory 52, no. 1 (2013): 81–90, and Mitchell, Horse Nations.
 
@@ -1565,7 +1559,7 @@ Advantage." Current Anthropology 42, no. 2 (2001): 199–233.
 
 Fire.
 
-- [\[22\]](#page-30-0) Anders E. Carlson, "What Caused the Younger Dryas Cold Event," Geology 38, no. 4 (2010): 383–384, <http://geology.gsapubs.org/content/38/4/383.short?rss=1&ssource=mfr> Although the dating of the beginning of the Younger Dryas and Lake Agassiz's turn east from the Mississippi drainage do not quite match, it does seem likely that some pulse of glacial melt was responsible for the cold snap.
+- [\[22\]](#page-30-0) Anders E. Carlson, "What Caused the Younger Dryas Cold Event," Geology 38, no. 4 (2010): 383–384,  Although the dating of the beginning of the Younger Dryas and Lake Agassiz's turn east from the Mississippi drainage do not quite match, it does seem likely that some pulse of glacial melt was responsible for the cold snap.
  - [\[23\]](#page-31-0) Zeder, "The Origins of Agriculture."
 - [\[24\]](#page-32-1) Pournelle, "Marshland of Cities." For subsequent, but more truncated, versions of her findings see Pournelle, Darweesh, and Hritz, "Resilient Landscapes"; Hritz and Pournelle, "Feeding History." Pournelle's thesis is foreshadowed—but with far less hard evidence—by others, for example, Pollock, Ancient Mesopotamia, 65–66; Matthews, The Archaeology of Mesopotamia, 86. For a deeper historical and geological view, as well as a recasting of Gordon Childe's "oasis theory of civilization," see Rose, "New Light on Human Prehistory."
  - [\[25\]](#page-34-0) See, among others, Pollock, Ancient Mesopotamia, 32–37.
@@ -1991,4 +1985,4 @@ Enemies.
 
 {1} Epigraphs: Sumerian text quoted in Tate Paulette, "Grain, Storage, and State-Making," 85; Lawrence, Preface to Dostoevsky's "The Grand Inquisitor."
 
-<astudygroup.fi[les.wordpress.com/2018/01/against-the-grain\\_-a-deep-histo](https://astudygroup.files.wordpress.com/2018/01/against-the-grain_-a-deep-histo-james-c-scott.pdf)[james-c-scott.pdf>](https://astudygroup.files.wordpress.com/2018/01/against-the-grain_-a-deep-histo-james-c-scott.pdf)
+](https://astudygroup.files.wordpress.com/2018/01/against-the-grain_-a-deep-histo-james-c-scott.pdf)

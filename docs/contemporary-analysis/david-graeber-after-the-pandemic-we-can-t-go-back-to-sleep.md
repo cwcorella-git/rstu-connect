@@ -1,21 +1,8 @@
 ---
-title: 'After the Pandemic, We Can’t Go Back to Sleep'
-author: David Graeber
-date: March 2021
-pubdate: '2021-03-20T13:09:58'
-language: en
-source_url: >-
-  Retrieved on 2021-03-20 from
-  https://www.jacobinmag.com/2021/03/david-graeber-posthumous-essay-pandemic
-notes: >-
-  See also: David Graeber Institute [[https://davidgraeber.institute/]] &
-  [[https://davidgraeber.org/]]
-topics:
-  - COVID-19
-original_format: muse
-converted_date: '2025-11-08T11:25:02.990031'
-tags:
-  - COVID 19
+title: "After the Pandemic, We Can’t Go Back to Sleep"
+author: "David Graeber"
+date: "March 2021"
+category: "contemporary-analysis"
 ---
 
 In an essay penned shortly before his death, David Graeber argued that post-pandemic, we can’t slip back into a reality where the way our society is organized — to serve every whim of a small handful of rich people while debasing and degrading the vast majority of us — is seen as sensible or reasonable.

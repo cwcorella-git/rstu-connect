@@ -1,12 +1,10 @@
 ---
-date: 2025
-author: Unknown
-tags:
-  - organizing
-  - housing
-  - rent
 title: "Budget Negotiations Continue as Legislature Prepares for Special Session - League of Minnesota Cities"
+author: "Unknown"
+date: "2025"
+category: "misc"
 ---
+
 # Budget Negotiations Continue as Legislature Prepares for Special Session - League of Minnesota Cities
 
 *Converted from: `./Budget Negotiations Continue as Legislature Prepares for Special Session - League of Minnesota Cities.pdf`*  
@@ -37,18 +35,16 @@ title: "Budget Negotiations Continue as Legislature Prepares for Special Session
 Budget Negotiations Continue as Legislature Prepares...       https://www.lmc.org/news-publications/news/all/budge...
 
 
-
-
             Budget Negotiations Continue as
             Legislature Prepares for Special
             Session
             May 27, 2025
-            Conference committees shi�ed to working groups as state leaders push to ﬁnalize budget
+            Conference committees shied to working groups as state leaders push to ﬁnalize budget
             agreements.
 
             On May 19, the House and Senate adjourned the 2025 regular legislative session without
-            passing several key budget bills needed to prevent a partial state government shutdown. A�er
-            adjournment, expectations shi�ed toward holding a special session in the near future to ﬁnish
+            passing several key budget bills needed to prevent a partial state government shutdown. Aer
+            adjournment, expectations shied toward holding a special session in the near future to ﬁnish
             the unresolved budget areas.
 
 
@@ -82,7 +78,6 @@ Budget Negotiations Continue as Legislature Prepares...       https://www.lmc.or
             years 2028‐2029. As a part of the joint target agreement, the bill must raise revenue through
 
 
-
 1 of 3                                                                                                 6/28/25, 1:04 PM
 
 ---
@@ -96,7 +91,6 @@ Budget Negotiations Continue as Legislature Prepares...       https://www.lmc.or
 
 
 Budget Negotiations Continue as Legislature Prepares...       https://www.lmc.org/news-publications/news/all/budge...
-
 
 
             narrowing a current tax exemption for data centers, repealing the local cannabis aid account,
@@ -131,7 +125,7 @@ Budget Negotiations Continue as Legislature Prepares...       https://www.lmc.or
             Working Group update
             The Workforce, Labor, and Economic Development Working Group met on May 22 to review
             areas of agreement on both the jobs and labor budget spreadsheets, and adopt most of the
-            agreed‐upon policy provisions that were le� unresolved at the end of session.
+            agreed‐upon policy provisions that were le unresolved at the end of session.
 
             • View the jobs budget spreadsheet (pdf).
 
@@ -172,7 +166,6 @@ Budget Negotiations Continue as Legislature Prepares...       https://www.lmc.or
 Budget Negotiations Continue as Legislature Prepares...        https://www.lmc.org/news-publications/news/all/budge...
 
 
-
             The following budget areas still need to be passed by both chambers:
 
             • Capital investment
@@ -192,7 +185,7 @@ Budget Negotiations Continue as Legislature Prepares...        https://www.lmc.o
             • Transportation
 
 
-            What’s next?
+            What's next?
             Legislative leaders and Gov. Walz remain optimistic that the state budget can be ﬁnalized in a
             one‐day special session in the coming weeks. Originally, they aimed to hold the session before
             Memorial Day and complete the budget before June 1, which is the date that layoﬀ notices
@@ -205,7 +198,6 @@ Budget Negotiations Continue as Legislature Prepares...        https://www.lmc.o
             Read more news articles.
 
 
-
             Your LMC Resource
 
             Owen Wirth
@@ -215,9 +207,6 @@ Budget Negotiations Continue as Legislature Prepares...        https://www.lmc.o
             owirth@lmc.org
 
 
-
-
 3 of 3                                                                                                  6/28/25, 1:04 PM
 
 ---
-

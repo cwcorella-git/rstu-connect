@@ -1,3 +1,8 @@
+---
+title: "## **The CIA reads French theory: on the intellectual labor of dismantling the cultural Left - Gabri"
+category: "arts-culture-music"
+---
+
 ## **The CIA reads French theory: on the intellectual labor of dismantling the cultural Left - Gabriel Rockhill**
 
 ## **Date:** Unknown
@@ -52,7 +57,9 @@ Finally, intellectuals of the world should unite in recognizing our power and se
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 8 years 6 months ago |
 | In reply to Welcomebylibcom.org |
-| Ideally, they seek to nurture an intellectual culture that, if on the left, is neutralized,<br>immobilized, listless and content with defeatist hand wringing, or with the passive criticism of<br>the radically mobilized left. |
+| Ideally, they seek to nurture an intellectual culture that, if on the left, is neutralized,
+immobilized, listless and content with defeatist hand wringing, or with the passive criticism of
+the radically mobilized left. |
 
 Well mission accomplished.
 

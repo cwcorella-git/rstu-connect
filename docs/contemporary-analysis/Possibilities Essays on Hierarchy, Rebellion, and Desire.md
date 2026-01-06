@@ -1,3 +1,8 @@
+---
+title: "POSSIBILITIES"
+category: "contemporary-analysis"
+---
+
 # POSSIBILITIES
 
 ## Essays on Hierarchy, Rebellion, and Desire
@@ -30,21 +35,50 @@ Printed in Canada on 100% recycled, acid-free paper by union labor.
 
 | In t r o d u c t io n 1 |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| PART I: SOME T HOUGH T S ON THE ORIGIN S<br>OF OUR CURREN T PREDICAMEN T |
-| 1 M a n n e r s , D e f e r e n c e , a n d<br>P riv a t e<br>P r o p e r t y : Or, Ele m e n t s<br>fo r<br>a G e n e r al<br>T h e o r y of Hie r a r c h y<br>13 |
-| 2 T h e V e r y Id e a of C o n s u m p tio n : D e sir e , P h a n t a s m s , a n d th e A e s th e tic s of<br>D e s t r u c tio n fr o m M e die v a l T im e s to th e P r e s e n t57 |
-| 3<br>T u r nin g<br>M o d e s<br>of P r o d u c tio n<br>In s id e - O u t:<br>Or, W h y<br>C a p it a lis m<br>Is<br>a<br>T r a n s fo r m a tio n of Sla v e r y ( s h o r t v e r s io n ) 85 |
-| 4 F e tis his m<br>a s<br>S o cial C r e a tivit y : Or, F e tis h e s Ar e<br>G o d s in th e<br>P ro c e s s<br>of<br>C o n s t r u c tio n113 |
-| PART II: PROVISIONAL AU T ONOMOU S ZON E:<br>DILEMMAS OF AU T HORITY IN RURAL MADAGASCAR |
+| PART I: SOME T HOUGH T S ON THE ORIGIN S
+OF OUR CURREN T PREDICAMEN T |
+| 1 M a n n e r s , D e f e r e n c e , a n d
+P riv a t e
+P r o p e r t y : Or, Ele m e n t s
+fo r
+a G e n e r al
+T h e o r y of Hie r a r c h y
+13 |
+| 2 T h e V e r y Id e a of C o n s u m p tio n : D e sir e , P h a n t a s m s , a n d th e A e s th e tic s of
+D e s t r u c tio n fr o m M e die v a l T im e s to th e P r e s e n t57 |
+| 3
+T u r nin g
+M o d e s
+of P r o d u c tio n
+In s id e - O u t:
+Or, W h y
+C a p it a lis m
+Is
+a
+T r a n s fo r m a tio n of Sla v e r y ( s h o r t v e r s io n ) 85 |
+| 4 F e tis his m
+a s
+S o cial C r e a tivit y : Or, F e tis h e s Ar e
+G o d s in th e
+P ro c e s s
+of
+C o n s t r u c tio n113 |
+| PART II: PROVISIONAL AU T ONOMOU S ZON E:
+DILEMMAS OF AU T HORITY IN RURAL MADAGASCAR |
 | 5 P r o vis io n al A u t o n o m o u s Z o n e : Or, T h e Gh o s t - S ta t e in M a d a g a s c a r 157 |
-| 6 D a n c in g w it h C o r p s e s R e c o n s id e r e d : A n In t e r p r e t a tio n of F a m a d ih a n a (in<br>A r iv o n im a m o , M a d a g a s c a r ) 181 |
+| 6 D a n c in g w it h C o r p s e s R e c o n s id e r e d : A n In t e r p r e t a tio n of F a m a d ih a n a (in
+A r iv o n im a m o , M a d a g a s c a r ) 181 |
 | 7 Love M a g ic a n d P olitic al M o r a lit y in C e n t r al M a d a g a s c a r , 1 8 75 - 19 90 223 |
 | 8 O p p r e s s io n 255 |
-| PART III: DIREC T AC TION, DIREC T DEMOCRACY,<br>AN D SOCIAL T HEORY |
+| PART III: DIREC T AC TION, DIREC T DEMOCRACY,
+AN D SOCIAL T HEORY |
 | 9 T h e T w ilig h t of V a n g u a r d i s m301 |
-| 10 S o cial T h e o r y a s S cie n c e a n d U t o p ia : Or, D o e s th e P r o s p e c t of a G e n e r al<br>S o c io lo gic a l T h e o r y Still M e a n A n y t h in g in a n Ag e of G lo b a liz a tio n ?313 |
-| 11 T h e r e N e v e r W a s a W e s t: Or, D e m o c r a c y Em e r g e s F r o m th e S p a c e s in<br>B e t w e e n329 |
-| 12 O n th e P h e n o m e n o lo g y of G ia n t P u p p e t s : B r ok e n W in d o w s , Im a g in a r y Jars<br>of U rin e , a n d th e C o s m o lo g ic a l Role of t h e P olic e in A m e r ic a n C ult u r e . 375 |
+| 10 S o cial T h e o r y a s S cie n c e a n d U t o p ia : Or, D o e s th e P r o s p e c t of a G e n e r al
+S o c io lo gic a l T h e o r y Still M e a n A n y t h in g in a n Ag e of G lo b a liz a tio n ?313 |
+| 11 T h e r e N e v e r W a s a W e s t: Or, D e m o c r a c y Em e r g e s F r o m th e S p a c e s in
+B e t w e e n329 |
+| 12 O n th e P h e n o m e n o lo g y of G ia n t P u p p e t s : B r ok e n W in d o w s , Im a g in a r y Jars
+of U rin e , a n d th e C o s m o lo g ic a l Role of t h e P olic e in A m e r ic a n C ult u r e . 375 |
 | In d e x 419 |
 ## | |
 
@@ -84,7 +118,7 @@ I should explain that I had long considered myself an anarchist. It follows quit
 
 The other essays in Part II are, as I say, about authority. While the people I knew in Madagascar were for the most part remarkably effective in their resistance to most forms of imposed authority—they had, in fact, so rebelled against those things they found most obnoxious in the former colonial regime that they had reorganized much of their own daily lives to avoid them— one could hardly describe the society I observed as egalitarian. There were ancient divisions of status: the population where I was living being divided between the descendants of an dnana, or "nobles, " former free subjects of the Merina kingdom, and the descendants of their former slaves. There were rich and poor: the rich were not, perhaps, so very rich, especially in the countryside, and most people were about equally poor, but divisions were keenly felt. And, of course, there were even more elementary divisions, within families or small communities, , though these latter were often curiously entangled with what would otherwise seem like egalitarian principles. The old had authority over the young—but, almost everyone would insist, because of all the people in a community, elders were the least inclined to act like what we would consider "leaders." Men, in most contexts, had more authority than women—but largely because they were seen as less inclined to give other people orders. All of the essays in Part II are meant to explore these apparent paradoxes in one way or another, relying on the traditional anthropological assumption that, to truly understand something—in this case, the essential nature of authority—it is best to examine its least familiar manifestations.
 
-The set ends with a previously unpublished essay called "Oppression," that takes the argument about the nature of authority even further, arguing that the traditional anthropological concept of cultural relativism, as normally applied, is really a matter of being relativistic about everything <sup>e</sup> x cept structures of authority. In its place, I propose a somewhat clumsily labeled "dialogic relativism": one that begins by observing that, even though what traditional authorities have to say about the nature of truth, beauty, or human nature might vary wildly from culture to culture, there is no place on earth where traditional authorities go completely unchallenged, and the ways people have of challenging them have a lot more in common than most of us would ever have expected.
+The set ends with a previously unpublished essay called "Oppression," that takes the argument about the nature of authority even further, arguing that the traditional anthropological concept of cultural relativism, as normally applied, is really a matter of being relativistic about everything e x cept structures of authority. In its place, I propose a somewhat clumsily labeled "dialogic relativism": one that begins by observing that, even though what traditional authorities have to say about the nature of truth, beauty, or human nature might vary wildly from culture to culture, there is no place on earth where traditional authorities go completely unchallenged, and the ways people have of challenging them have a lot more in common than most of us would ever have expected.
 
 Part III, "Direct Action, Direct Democracy, and Social Theory, " sets off from my involvement in the global justice movement, beginning in 2000. I was employed by Yale University at that time, and still, while an anarchist in theory, almost completely uninvolved in any sort of organizing. My major contribution to American political life at that point in my life was as occasional cultural commentator for the Chicago-based leftie journal In These Times, where, my primary accomplishment up to that time had been an essay on the subversive implications of Buffy the Vampire Slayer. (Actually, I'm still quite proud of that. That essay was, I believe it has been established, the very first essay ever written by an academic on the subject of Buffy the Vampire Slayer. I invented Buffy Studies! It did earn me a brief mention in Entertainment Weekly, but it could hardly count as a significant contribution to American political life.)
 
@@ -92,7 +126,7 @@ Then one day, in November 1999, after having just finished the last lecture for 
 
 I was as taken aback as anyone. The next day I received an email from Joe Knowles, my editor at ITT. "You're an anarchist," he wrote (or, he might not have used exactly those words), "do you think you could figure out who were those kids with the black masks breaking all the windows? W hat's the deal? Were they agent provocateurs? Or were they really anarchists?" Before long, I was assembling all the information I could get on contemporary anarchism, and discovering that, in those years when I was not paying attention, the movement I had always wished existed had actually come into being. Not long after, I was showing up with my friend Stuart for the actions against the IMF in Washington in April 2000, and getting involved in the New York City branch of the Direct Action Network. Soon, I was a regular at DAN meetings, helping to organize actions, and attending endless trainings in the art of facilitation and consensus.
 
-For the first two years or so I was working with the Direct Action Network, I didn't really write anything about it—unless you want to count press releases, calls to action, and reports for In These Times. When I first got involved, I never intended to make my involvement part of a research project. Nonetheless, the experience of working in consensus-based groups sparked a kind of intellectual crisis. I should explain here that the fashion at the time was to dismiss the movement, if not as a bunch of stupid kids who did not understand the complexities ofmodern economics, then as defenders of an incoherent welter of causes in desperate need of a unifying ideology. I quickly realized that such observers simply didn't know, or didn't care to know, what they were looking at. In fact, these groups were rooted, above all, in a commitment to reinventing forms of democratic process; that this was not an abstract ideology, but rooted primarily in developing new forms of practice; that insofar as DAN and other anarchist-inspired groups had an ideology, these new forms of democratic organization and democratic practice w <sup>e</sup> re its ideology. In this, they were based on a conscious rejection of the older model of Maoist or Leninist or Trotskyite sects that sought first to define the strategic moment, usually according to the teachings of some Great Intellectual Leader, and then to quibble over finer points of doctrine, while leaving the actual fashioning of democratic practice to some hypothetical point far in the future.
+For the first two years or so I was working with the Direct Action Network, I didn't really write anything about it—unless you want to count press releases, calls to action, and reports for In These Times. When I first got involved, I never intended to make my involvement part of a research project. Nonetheless, the experience of working in consensus-based groups sparked a kind of intellectual crisis. I should explain here that the fashion at the time was to dismiss the movement, if not as a bunch of stupid kids who did not understand the complexities ofmodern economics, then as defenders of an incoherent welter of causes in desperate need of a unifying ideology. I quickly realized that such observers simply didn't know, or didn't care to know, what they were looking at. In fact, these groups were rooted, above all, in a commitment to reinventing forms of democratic process; that this was not an abstract ideology, but rooted primarily in developing new forms of practice; that insofar as DAN and other anarchist-inspired groups had an ideology, these new forms of democratic organization and democratic practice w e re its ideology. In this, they were based on a conscious rejection of the older model of Maoist or Leninist or Trotskyite sects that sought first to define the strategic moment, usually according to the teachings of some Great Intellectual Leader, and then to quibble over finer points of doctrine, while leaving the actual fashioning of democratic practice to some hypothetical point far in the future.
 
 The intellectual shock was the result of two near-simultaneous realizations. The first was that the consensus process I was learning in anarchist circles was really an extremely formal, self-conscious version of the very form of decision-making I had witnessed on a day-to-day basis in Madagascar. It had to be formal and self-conscious, of course, because everything was being reinvented—patched together from bits and pieces learned from Quakers and Native Americans, read about in books, or simply invented by trial and error from thirty years of activist experience of trying to organize networks and collectives on anti-authoritarian lines, a tradition that harkened back at least to the days of early feminism. None of it came at all naturally to us. None of us were very good at it, at least at first. But it was obvious that, if we were going to invent a decision-making process that would actually work for a community in which no one had the power to force anyone else to do anything, it was going to have to look like something like the techniques employed by communities that had been living that way for thousands of years. I was trying, then, to actually do what I had observed everyone do in rural Madagascar, and finding it extremely difficult. The second shock, though, was the realization that one reason I found it so difficult was that my intellectual training had inculcated in me habits of thought and argument far more similar to the idiotic sectarian squabbling of Marxist sects than to anything consistent with these new (for us) forms of democracy .
 
@@ -146,7 +180,7 @@ It follows that joking relations are only ultimately egalitarian. Any given inst
 
 Here again, avoidance can be seen as an inversion of joking. On the level of avoidance the body is closed, all orifices shut off and nullified; nothing flows either in or out. The body is constituted as a perfect, abstract, and self-sufficient thing unto itself, with no need for exchange either with other bodies, or the world. Now, this sort ofseparation itself can't imply a relation of hierarchy, simply because separating two things implies that there is no relation between them at all. But avoidance is ultimately hierarchical.
 
-There is, it is true, a certain mutuality in relations of avoidance. If I were standing before the Queen of England, I wouldn't pick my nose or crack a dirty joke, and I would expect the same from her. On the other hand, the burden of avoidance would definitely be on me, and it is appropriate that any sort of contact ought to be initiated by the person ofsuperior rank: conversation, eye contact, and the like. And further, if I w <sup>e</sup> re to pick my nose at the Queen, or crack a dirty joke, I could fully expect to be excluded from polite society till the end of my days; while if the Queen did so in my presence I would probably take this as a gesture of indulgent familiarity and perhaps reciprocate—though never quite so freely as she. Norbert Elias provides a telling quote from a sixteenth century manual on manners:
+There is, it is true, a certain mutuality in relations of avoidance. If I were standing before the Queen of England, I wouldn't pick my nose or crack a dirty joke, and I would expect the same from her. On the other hand, the burden of avoidance would definitely be on me, and it is appropriate that any sort of contact ought to be initiated by the person ofsuperior rank: conversation, eye contact, and the like. And further, if I w e re to pick my nose at the Queen, or crack a dirty joke, I could fully expect to be excluded from polite society till the end of my days; while if the Queen did so in my presence I would probably take this as a gesture of indulgent familiarity and perhaps reciprocate—though never quite so freely as she. Norbert Elias provides a telling quote from a sixteenth century manual on manners:
 
 One should not sit with one's back or posterior turned towards another, nor raise the thigh so high that the members of the human body, which should properly be covered with clothing at all times, might be exposed to view. For this and similar things are not done, except among people before whom one is not ashamed. It is true that a great lord might do so before one of his servants or in the presence of a friend of lower rank; for in this he would not show him arrogance but rather a particular affection and friendship (1978: 138).
 
@@ -168,7 +202,7 @@ It can be much the same with individuals. The word tabu again provides a conveni
 
 If property is so closely related to avoidance, and if these two principles of identification and exclusion really are so consistently at play (and I think they are), then is it really so daring to suggest that the person, in the domain of avoidance, is constructed out of property? Or, at least, of "properties?"
 
-The etymology of the word "person" is itself suggestive. As Marcel Mauss pointed out long ago (1938 [1968]), the Latin p <sup>e</sup> rson a is derived from an Etruscan word meaning mask; even when taken up in legal parlance as a term roughly similar to our word person, it still kept its implication of an abstract social being identified by physical objects: properties and insignia of various sorts. Slaves, and most women, had no pe rso n a <sup>e</sup> for the same reasons that Maori slaves and women had no tapu.
+The etymology of the word "person" is itself suggestive. As Marcel Mauss pointed out long ago (1938 [1968]), the Latin p e rson a is derived from an Etruscan word meaning mask; even when taken up in legal parlance as a term roughly similar to our word person, it still kept its implication of an abstract social being identified by physical objects: properties and insignia of various sorts. Slaves, and most women, had no pe rso n a e for the same reasons that Maori slaves and women had no tapu.
 
 Two important observations follow from all this. The first concerns exchange. Mauss (1925 [1954]) has also argued that in giving a gift, one is giving a part of oneself. If the person is indeed made up of a collection of properties, this would certainly be true. But it's important to bear in mind that the "self" in question is therefore a very particular kind of "self": specifically, that sort which is constituted on the level of avoidance. Gift-giving of the Maussian variety is never, to my knowledge, accompanied by the sort of behavior typical ofjoking relations; but it often accompanies avoidance.8
 
@@ -306,7 +340,7 @@ In the Middle Ages, just about everyone who did know how to read had learned the
 
 Aries cites a late-fourteenth century account of England, written by a traveler from Italy:
 
-The want of affection in the E nglish is strongly manifested towards their children; for after having kept them at home till they arrive at the age of seven or nine years at the utmost, they put them out, both males and females, to hard service in the households of other people, binding them generally for seven or nine years. And these are called apprentices, and during that time they perform all the most menial offices; and few are born who are exempted from this fate, for everyone, however rich he may be, sends away his children into the houses of others, whilst he, in return, receives those of strangers into his own (from A R <sup>e</sup> la tio n o f the Isla n d o f E n <sup>g</sup> la n d [apparently anonymous], cited in Aries 1962: 365).
+The want of affection in the E nglish is strongly manifested towards their children; for after having kept them at home till they arrive at the age of seven or nine years at the utmost, they put them out, both males and females, to hard service in the households of other people, binding them generally for seven or nine years. And these are called apprentices, and during that time they perform all the most menial offices; and few are born who are exempted from this fate, for everyone, however rich he may be, sends away his children into the houses of others, whilst he, in return, receives those of strangers into his own (from A R e la tio n o f the Isla n d o f E n g la n d [apparently anonymous], cited in Aries 1962: 365).
 
 Though "the Italian considers this custom crueL.insinuating that the English took in each other's children because they thought that in that way they would obtain better service than they would from their own offspring," Aries suggests, realistically enough, that "the explanation which the English themselves gave to the Italian observer was probably the real one: "In order that their children might learn better manners" (op cit.).
 
@@ -316,7 +350,7 @@ This condition was expected to last until the age of twenty-five or even thirty:
 
 In the Middle Ages and, if anything, even more in the Early Modern period, idioms of youth and age were the most common way people had of talking about authority. It was a commonplace of Renaissance theory that aging was a long process of the drying-out of the body; that young people were as a result dominated by their "animal spirits," and hence prone to violent lusts and passions and every manner of excess; and that it was only when a man reached about the age of thirty, when physical strength began to decline, that his soul or powers of reason (the two were considered more or less the same thing) was deemed capable of overcoming them (Thomas 1971: 208—210, 1976). Thirty was also the age at which his first child should be born, thus establishing once and for all his social persona as a settled householder and full member of the community, with all the responsibility that entailed. "For young men to command," on the other hand, "was against the 'law of nature': they must obey until they had achieved mastery of their baser desires" (Brigden 1982: 37—38). Incapable of autonomy, they had to be kept under the watchful eye and firm hand ofsome mature master— one, ideally, who was not a kinsman, since kinship was thought to somewhat compromise authority—for their energies to be put to proper use.
 
-It should be clear enough how all this relates to the logic of joking and avoidance. It's not just that youth were considered unformed: their typical vices were the carnal ones of violence and debauchery. They were by nature riotous, rebellious against the legitimate authority of their elders. Mature men, on the other hand, were rational and self-contained; they were the masters of autonomous, bounded, self-sufficient households. But the notion that service had an educational value added a complex play of theory against practice to this relatively straightforward way of representing things. In any relation of avoidance, the burden of avoidance is always on the inferior party. Masters may have had been seen as more refined or disciplined in their spontaneous comportment (they had better manners), but, still, it was their servants who had to perform the acts of formal deference.28 In practice, it was by such acts, and by respectful obedience before their masters, that they constructed the latter as higher, more abstract beings— a t the sam <sup>e</sup> tim <sup>e</sup> as they gradually internalized those same disciplined comportments so as to be able to ultimately pass on to the status of master themselves.
+It should be clear enough how all this relates to the logic of joking and avoidance. It's not just that youth were considered unformed: their typical vices were the carnal ones of violence and debauchery. They were by nature riotous, rebellious against the legitimate authority of their elders. Mature men, on the other hand, were rational and self-contained; they were the masters of autonomous, bounded, self-sufficient households. But the notion that service had an educational value added a complex play of theory against practice to this relatively straightforward way of representing things. In any relation of avoidance, the burden of avoidance is always on the inferior party. Masters may have had been seen as more refined or disciplined in their spontaneous comportment (they had better manners), but, still, it was their servants who had to perform the acts of formal deference.28 In practice, it was by such acts, and by respectful obedience before their masters, that they constructed the latter as higher, more abstract beings— a t the sam e tim e as they gradually internalized those same disciplined comportments so as to be able to ultimately pass on to the status of master themselves.
 
 On the other hand, it is equally important to stress that, in the Middle Ages, the manners of youth were not utterly rejected. They had their place, which corresponded almost exactly to the place of the carnivalesque. Natalie Zemon Davis (1975) goes so far as saying that young men were considered to have a kind of communal "jurisdiction" over the domains of sex and violence which were considered their natural spheres of activity. In France, every village or urban quarter had its "youth abbeys" which were not only the basis of the local militia but responsible for putting on satirical charivaris to mock immoral villagers, as well as organizing celebrations like Carnival. In England, the organization was less formalized (Capp 1977), and youth leaders—like the famous Lords of Misrule who presided over Christmas revels— tended to emerge only during certain moments of the ritual calendar; but the principle was much the same.
 
@@ -412,7 +446,7 @@ Allow me a final word on those hierarchical possibilities. One of the dangers of
 - 24 Elias himself notes (1978: 42—50) how thoroughly embedded these ideas had become in the common sense of the middle classes most dedicated to the reform of manners.
 - 25 The literate class and the courteous class tended always to be one and the same.
 - 26 It's not so much that "apprenticeship and service were confused" as Aries puts it (ibid.: 366—367) than that they were never really distinguished to begin with.
-- 27 It would be interesting to examine the institution of Medieval and Early Modern service in the light of the anthropological literature on initiation, particularly the kind which involves "Active kinship" of one sort or another. The study of com p a dra z <sup>g</sup> o in Latin America provides some obvious parallels: while authors such as Wolf (1966) highlight the way such ties create ties of patronage across class lines, symbolicanalyses (e.g., Gudeman 1971; Bloch and Guggenheim 1981) stress the division between the female domestic, and male public domains—which in Western culture have been generally presented in terms of the spirit and the flesh. I've already mentioned that, in Europe, most youths served masters of a marginally higher social class. As for the symbolic aspects, Aries notes that the age of "seven or nine"—the age at which the Italian author of the above-cited account of English habits claims most families sent off their children to the houses of strangers—was "in the old French authors...given as the age when the boys leave the care of the womenfolk to go to school or enter the adult world" (op cit.). The opposition of spirit and flesh— or anyway, something very much like it—was also at play in the very definition of "youth" itself.
+- 27 It would be interesting to examine the institution of Medieval and Early Modern service in the light of the anthropological literature on initiation, particularly the kind which involves "Active kinship" of one sort or another. The study of com p a dra z g o in Latin America provides some obvious parallels: while authors such as Wolf (1966) highlight the way such ties create ties of patronage across class lines, symbolicanalyses (e.g., Gudeman 1971; Bloch and Guggenheim 1981) stress the division between the female domestic, and male public domains—which in Western culture have been generally presented in terms of the spirit and the flesh. I've already mentioned that, in Europe, most youths served masters of a marginally higher social class. As for the symbolic aspects, Aries notes that the age of "seven or nine"—the age at which the Italian author of the above-cited account of English habits claims most families sent off their children to the houses of strangers—was "in the old French authors...given as the age when the boys leave the care of the womenfolk to go to school or enter the adult world" (op cit.). The opposition of spirit and flesh— or anyway, something very much like it—was also at play in the very definition of "youth" itself.
 - 28 An obvious parallel is the career military officer who is never obliged to stand as stiffly or salute as smartly as recruits have to do to him, but is still seen as reflecting in his ordinary bearing a more "military" comportment than they.
 - 29 I note in passing that the notion of reforming the lower strata was a bit difficult to reconcile with Calvinist doctrine, which encouraged most heads ofhousehold to at least the strong suspicion that their charges were predestined from the start to go to hell (cf. Hill 1964). But this merely underlines how much the project itself—of
 
@@ -441,7 +475,7 @@ Allow me a final word on those hierarchical possibilities. One of the dangers of
 
 ## Berce, Yves-Marie
 
-1976 Fete <sup>e</sup> t Revolte. Paris: Hachette.
+1976 Fete e t Revolte. Paris: Hachette.
 
 #### Bourdieu, Pierre
 
@@ -487,13 +521,13 @@ Allow me a final word on those hierarchical possibilities. One of the dangers of
 
 1970 H omo H ierarchicus. Chicago: University of Chicago Press.
 
-1981 From M a n d <sup>e</sup> v ille to M arx : the Genesis a n d Triumph o f E conom ic Ideology. Chicago: University of Chicago Press.
+1981 From M a n d e v ille to M arx : the Genesis a n d Triumph o f E conom ic Ideology. Chicago: University of Chicago Press.
 
 1986 Essays on Individualism . Chicago: University of Chicago Press.
 
 ## Eggan, Fred
 
-1 9 3 7 "The Cheyenne and Arapaho Kinship System." In The S o <sup>c</sup> ia l A nthropology o f N orth A merican Tribes (F. Eggan, ed.). Chicago: University of Chicago Press.
+1 9 3 7 "The Cheyenne and Arapaho Kinship System." In The S o c ia l A nthropology o f N orth A merican Tribes (F. Eggan, ed.). Chicago: University of Chicago Press.
 
 ## Elias, Norbert
 
@@ -503,15 +537,15 @@ Allow me a final word on those hierarchical possibilities. One of the dangers of
 
 1959 E conomics o f the N ew Z ea la n d M aori. Wellington, New Zealand: Owen Press.
 
-1965 P rim itiv <sup>e</sup> Polynesian Economy. London: Routledge & Kegan Paul.
+1965 P rim itiv e Polynesian Economy. London: Routledge & Kegan Paul.
 
 ## Flandrin, Jean-Louis
 
-1979 Families in Form <sup>e</sup> r Times. Cambridge: Cambridge University Press.
+1979 Families in Form e r Times. Cambridge: Cambridge University Press.
 
 ## Goffman, Erving
 
-1956 The Presentation o f th e S <sup>e</sup> lf in E veryday lif <sup>e</sup> . Edinburgh: University of Edinburgh Press.
+1956 The Presentation o f th e S e lf in E veryday lif e . Edinburgh: University of Edinburgh Press.
 
 ## Graeber, David
 
@@ -616,7 +650,7 @@ Allow me a final word on those hierarchical possibilities. One of the dangers of
 
 1934 Kinship Organization in th e A dmiralty Islands. New York: American Museum of Natural History.
 
-I9 3 7 "The Manus of the Admiralty Islands." In Cooperation a n d Com petition am o n <sup>g</sup> P rim itiv <sup>e</sup> Peoples. New York: Mac Graw Hill.
+I9 3 7 "The Manus of the Admiralty Islands." In Cooperation a n d Com petition am o n g P rim itiv e Peoples. New York: Mac Graw Hill.
 
 ## Morgan, Edmund Sears
 
@@ -628,7 +662,7 @@ I9 3 7 "The Manus of the Admiralty Islands." In Cooperation a n d Com petition a
 
 ## Robbins, Joel
 
-1994 "Equality as a Value: Dumont, Melanesia, and the West." S o <sup>c</sup> ia l A nalysis 36: 21— 70.
+1994 "Equality as a Value: Dumont, Melanesia, and the West." S o c ia l A nalysis 36: 21— 70.
 
 #### Sahlins, Marshall
 
@@ -656,9 +690,9 @@ I9 3 7 "The Manus of the Admiralty Islands." In Cooperation a n d Com petition a
 
 #### Thomas, Keith
 
-1971 Religion a n d the D ec lin <sup>e</sup> o f M agic. New York: Scribner Press.
+1971 Religion a n d the D ec lin e o f M agic. New York: Scribner Press.
 
-1976 "Age and Authority in Early Modern England." P roc eedin <sup>g</sup> s o f th <sup>e</sup> British A cademy 62: 1-46.
+1976 "Age and Authority in Early Modern England." P roc eedin g s o f th e British A cademy 62: 1-46.
 
 #### Thompson, E. P.
 
@@ -666,7 +700,7 @@ I9 3 7 "The Manus of the Admiralty Islands." In Cooperation a n d Com petition a
 
 1 9 6 7 "Time, Labor Discipline, and Industrial Capitalism." Past a n d Present 38: 56—97.
 
-1 9 7 6 "The Grid of Inheritance." In Fam ily a n d In h <sup>e</sup> rita n <sup>c</sup> <sup>e</sup> (J. Goody, J. Thirsk & E. P. Thompson, eds.). Cambridge: Cambridge University Press.
+1 9 7 6 "The Grid of Inheritance." In Fam ily a n d In h e rita n c e (J. Goody, J. Thirsk & E. P. Thompson, eds.). Cambridge: Cambridge University Press.
 
 ## Thompson, Laura
 
@@ -700,7 +734,7 @@ I9 3 7 "The Manus of the Admiralty Islands." In Cooperation a n d Com petition a
 
 ## Wrightson, Keith, and David Levine
 
-1979 Pov <sup>e</sup> rty a n d Piety in an E nglish Village. Cambridge: Cambridge University Press.
+1979 Pov e rty a n d Piety in an E nglish Village. Cambridge: Cambridge University Press.
 
 ## THE VERY IDEA OF CONSUMP TION: DESIRE, PHANTASMS, AND THE AESTHETICS OF DESTRUCION FROM MEDIEVAL TIMES TO THE PRESENT
 
@@ -902,11 +936,11 @@ Even as anthropologists and other social theorists directly challenge this view 
 
 #### Bataille, Georges
 
-1 9 3 7 "The Notion of Expenditure." In Visions o f Excess, S <sup>e</sup> le <sup>c</sup> ted Writings, 1927—1939. Minneapolis: University of Minnesota Press.
+1 9 3 7 "The Notion of Expenditure." In Visions o f Excess, S e le c ted Writings, 1927—1939. Minneapolis: University of Minnesota Press.
 
 ## Baudrillard, Jean
 
-1972 P o u r un <sup>c</sup> ritiq u <sup>e</sup> d e V economie d u Signe. Paris: Gallimard.
+1972 P o u r un c ritiq u e d e V economie d u Signe. Paris: Gallimard.
 
 ## Benedict, Ruth
 
@@ -926,7 +960,7 @@ Even as anthropologists and other social theorists directly challenge this view 
 
 ## Casey, Edward S. and J. Melvin Woody,
 
-1983 "Hegel and Lacan: the Dialectic of Desire." In In te rp r <sup>e</sup> tin g L acan (Joseph Smith and W illiam Kerrigan, eds.). New Haven: Yale University Press.
+1983 "Hegel and Lacan: the Dialectic of Desire." In In te rp r e tin g L acan (Joseph Smith and W illiam Kerrigan, eds.). New Haven: Yale University Press.
 
 #### Couliano, loan
 
@@ -1010,15 +1044,15 @@ Even as anthropologists and other social theorists directly challenge this view 
 
 1987 M a te ria l Culture a n d Mass Consumption. London: Basil Blackwell.
 
-1995 A <sup>c</sup> k nowledging Consum ption: A R <sup>e</sup> view o f N ew Studies (D. Miller, ed.). London: Routledge.
+1995 A c k nowledging Consum ption: A R e view o f N ew Studies (D. Miller, ed.). London: Routledge.
 
 ## Negri, Antonio
 
-1991 The Savage A nomaly: The P ow <sup>e</sup> r o f Spinoza s M etaphysics a n d Politics. (Michael Hardt, trans.) Minnesota: University of Minnesota Press.
+1991 The Savage A nomaly: The P ow e r o f Spinoza s M etaphysics a n d Politics. (Michael Hardt, trans.) Minnesota: University of Minnesota Press.
 
 ## Pleij, Herman
 
-2001 D ream in <sup>g</sup> o f Coc k aigne: M ed ie va l Fantasies o f the P <sup>e</sup> rfe <sup>c</sup> t l i f <sup>e</sup> (Diane Webb, trans.) New York: Columbia University Press.
+2001 D ream in g o f Coc k aigne: M ed ie va l Fantasies o f the P e rfe c t l i f e (Diane Webb, trans.) New York: Columbia University Press.
 
 #### Sahlins, Marshall
 
@@ -1053,7 +1087,7 @@ Even as anthropologists and other social theorists directly challenge this view 
 
 ## Smith, Woodruff D.
 
-2002 Consumption a n d th <sup>e</sup> M a k ing o f Respectability: 1600—1800. London: Routledge.
+2002 Consumption a n d th e M a k ing o f Respectability: 1600—1800. London: Routledge.
 
 ## Spinoza, Baruch
 
@@ -1085,11 +1119,11 @@ Even as anthropologists and other social theorists directly challenge this view 
 
 ## Valeri, Valerio
 
-1985 Kingship a n d S a <sup>c</sup> rific e : R itu a la n d S o <sup>c</sup> ie ty in A nc ien tH aw aii (Paula Wissing, trans.). Chicago: University of Chicago Press.
+1985 Kingship a n d S a c rific e : R itu a la n d S o c ie ty in A nc ien tH aw aii (Paula Wissing, trans.). Chicago: University of Chicago Press.
 
 ### Wagner, Roy
 
-1995 "If You Have the Advertisement You Don't Need the Product." in Rhetorics o f S <sup>e</sup> lf-M a k ing (D. Battaglia, ed.). Berkeley: University of California Press.
+1995 "If You Have the Advertisement You Don't Need the Product." in Rhetorics o f S e lf-M a k ing (D. Battaglia, ed.). Berkeley: University of California Press.
 
 #### Williams, Raymond
 
@@ -1101,7 +1135,7 @@ Even as anthropologists and other social theorists directly challenge this view 
 
 ## Yates, Frances
 
-1964 Giordano B ru no a n d the H <sup>e</sup> rm <sup>e</sup> tic tradition. Chicago: University of Chicago Press.
+1964 Giordano B ru no a n d the H e rm e tic tradition. Chicago: University of Chicago Press.
 
 1966 The A rt o f M em ory. Chicago: University of Chicago Press.
 
@@ -1247,10 +1281,10 @@ In most times and places, the institution ofslavery is seen to derive from war. 
 
 We can observe the following traits shared by slavery and capitalism:
 
-1) Both rely on a separation o f thep la <sup>c</sup> <sup>e</sup> o fso cial (re)production o f the labor fo r <sup>c</sup> <sup>e</sup> , a n d the p la <sup>c</sup> <sup>e</sup> w h <sup>e</sup> re that labor-power is realiz ed in p ro d u <sup>c</sup> tio n . In the case of slavery, this is effected by transporting laborers bought or stolen from one society into another one; in capitalism, by separating the domestic sphere (the sphere of social production) from the workplace. In other words, what is effected by physical distance, in one, is effected by the anonymity of the market in the other.
+1) Both rely on a separation o f thep la c e o fso cial (re)production o f the labor fo r c e , a n d the p la c e w h e re that labor-power is realiz ed in p ro d u c tio n . In the case of slavery, this is effected by transporting laborers bought or stolen from one society into another one; in capitalism, by separating the domestic sphere (the sphere of social production) from the workplace. In other words, what is effected by physical distance, in one, is effected by the anonymity of the market in the other.
 
-- 2) The transfer is effected through <sup>e</sup> x changing human p ow <sup>e</sup> rs f o r m o n <sup>e</sup> y : either by selling workers, or hiring them (essentially, allowing them to rent themselves)
-- 3) One effect of that transfer is "so <sup>c</sup> ia l death, " in the sense that the community ties, kinship relations, and so forth which shaped that worker are, in principle, supposed to have no relevance in the workplace. This is true in capitalism too, at least in principle: a worker's ethnic identity, social networks, kin ties, and the rest should not have any effect on hiring or how one is treated in the office or shop floor, though of course in reality this isn't true.
+- 2) The transfer is effected through e x changing human p ow e rs f o r m o n e y : either by selling workers, or hiring them (essentially, allowing them to rent themselves)
+- 3) One effect of that transfer is "so c ia l death, " in the sense that the community ties, kinship relations, and so forth which shaped that worker are, in principle, supposed to have no relevance in the workplace. This is true in capitalism too, at least in principle: a worker's ethnic identity, social networks, kin ties, and the rest should not have any effect on hiring or how one is treated in the office or shop floor, though of course in reality this isn't true.
 - 4) Most critically, the financial transaction in both cases produces a b stract labor, which is pure creative potential. This is created by the effects of command. Abstract labor is the sheer power of creation, to do anything at all. Everyone might be said to control abstract labor in their own person, but in order to extend it further, one has to place others in a position where they will be effectively an extension of one's will, to be completely at one's orders. Slavery, military service, and various forms of corvee, are the main forms in which this has manifested itself historically. Obviously, this too is something of an unrealized ideal: the struggle against overbearing forms of control has always been one of the key areas of labor struggle. But it's worth noting that feudalism (or manorialism if you prefer) tends towards exactly the opposite principle: the duties owed by liege to lord tended to be very specific and intricately mapped out.
 - 5) A constant ideological accompaniment of this sort of arrangement is an ideo lo gy o f fr e ed om . As Moses Finley first pointed (1980), most societies take it for granted that no humans is completely free or completely dependent. Rather, all have different degrees of rights and obligations. The modern ideal of political liberty, in fact, has historically tended to emerge from societies with extreme forms of chattel slavery (Pericles' Athens, Jefferson's Virginia), essentially, as a point of contrast. Medieval jurists, for example, assumed every right was someone else's obligation and vice versa. The modern doctrine of liberty as a property humans could possess was developed, significantly, in Lisbon and Antwerp, cities that were at the center of the slave trade at the time; and the most common objection to this new notion of liberty was that, if one owns one's freedom, it should then also be possible to sell it (Tuck 1979). Hence, the doctrine of personal liberty—outside o f the work place— or even the notion of freedom of contract that one so often encounters in societies dominated by wage-labor does not really mean we are dealing with a fundamentally different sort of system. It means we are dealing
 
@@ -1347,15 +1381,15 @@ This one, though, I will have to leave as a possible direction for future resear
 
 ## Ekholm, Kajsa, and Jonathan Friedman
 
-1982 "'Capital' Imperialism and Exploitation in Ancient World-Systems." R <sup>e</sup> view 4: 87-109.
+1982 "'Capital' Imperialism and Exploitation in Ancient World-Systems." R e view 4: 87-109.
 
 ## Fajans, Jane
 
-1997 They Mak e Themselves: Work a n d Play am o n <sup>g</sup> th <sup>e</sup> B a in in <sup>g</sup> o f Papua N ew Guinea. Chicago: University of Chicago Press.
+1997 They Mak e Themselves: Work a n d Play am o n g th e B a in in g o f Papua N ew Guinea. Chicago: University of Chicago Press.
 
 ## Finley, Moses
 
-1960a"The Servile Statuses of Ancient Greece," Revue In te rn a tio n a l des droits d <sup>e</sup> Tantiquite, 7: 165—89.
+1960a"The Servile Statuses of Ancient Greece," Revue In te rn a tio n a l des droits d e Tantiquite, 7: 165—89.
 
 1960b Slavery in Classical A ntiquity. Heffer, Cambridge.
 
@@ -1381,11 +1415,11 @@ This one, though, I will have to leave as a possible direction for future resear
 
 ## Friedman, Jonathan
 
-2000 "Concretizing the continuity argument in global systems analysis." In W orld System H istory: The S oc ia l Scienc <sup>e</sup> o f Long-Term Change (Robert A. Denemark, Jonathan Friedman, Barry K. Gills, George Modelski, eds.). London: Routledge.
+2000 "Concretizing the continuity argument in global systems analysis." In W orld System H istory: The S oc ia l Scienc e o f Long-Term Change (Robert A. Denemark, Jonathan Friedman, Barry K. Gills, George Modelski, eds.). London: Routledge.
 
 #### Godbout, Jacques T., and Alain Caille
 
-1998 The W orld o f th <sup>e</sup> Gift. Montreal: Mc Gill-Queen's University Press.
+1998 The W orld o f th e Gift. Montreal: Mc Gill-Queen's University Press.
 
 ### Godelier, Maurice
 
@@ -1393,7 +1427,7 @@ This one, though, I will have to leave as a possible direction for future resear
 
 1 9 7 8 "'Salt Money' and the Circulation of Commodities among the Baruya of New Guinea." In Pe rspective s in Marx ist A nthropology (M. Godelier, ed.). Cambridge: Cambridge University Press.
 
-1986 The M a k ing o f Great M en. M ale D om ination a n d P ow <sup>e</sup> r am o n <sup>g</sup> the N ew Guinea Baruya. Cambridge: Cambridge University Press.
+1986 The M a k ing o f Great M en. M ale D om ination a n d P ow e r am o n g the N ew Guinea Baruya. Cambridge: Cambridge University Press.
 
 ## Goody, Jack
 
@@ -1405,7 +1439,7 @@ This one, though, I will have to leave as a possible direction for future resear
 
 1997 "Manners, Deference and Private Property: The Generalization of Avoidance in Early Modern Europe." Com parative Studies in Socie ty a n d H istory 39(4): 694— 728.
 
-2001 Toward an A nthropological Theory o f Value: th <sup>e</sup> False Coin o f Our Own Dreams. New York: Palgrave.
+2001 Toward an A nthropological Theory o f Value: th e False Coin o f Our Own Dreams. New York: Palgrave.
 
 ## Hajnal, John
 
@@ -1443,7 +1477,7 @@ This one, though, I will have to leave as a possible direction for future resear
 
 #### Lovejoy, Paul E.
 
-2000 Transformations in Slavery: A History of Slavery in Africa. 2<sup>nd</sup> edition. Cambridge: Cambridge University Press.
+2000 Transformations in Slavery: A History of Slavery in Africa. 2nd edition. Cambridge: Cambridge University Press.
 
 ## Marx, Karl
 
@@ -1491,31 +1525,31 @@ This one, though, I will have to leave as a possible direction for future resear
 
 ## Pommeranz, Kenneth
 
-2000 The G r eatD ive rgence: China, Europe, a n d th eM a k in <sup>g</sup> o fth eM o d <sup>e</sup> rn W orldE conomy. Princeton: Princeton University Press.
+2000 The G r eatD ive rgence: China, Europe, a n d th eM a k in g o fth eM o d e rn W orldE conomy. Princeton: Princeton University Press.
 
 ## Sahlins, Marshall
 
 1972 Stone A ge Economics. Chicago: Aldine.
 
-2001 Culture in P ra <sup>c</sup> tic e: S <sup>e</sup> le <sup>c</sup> ted Essays. New York: Zone Books.
+2001 Culture in P ra c tic e: S e le c ted Essays. New York: Zone Books.
 
 ## Sangren, P. Steven
 
-1987 H istory a n d M a <sup>g</sup> ica l P ow <sup>e</sup> r in a Chinese Com munity. Stanford: Stanford University Press.
+1987 H istory a n d M a g ica l P ow e r in a Chinese Com munity. Stanford: Stanford University Press.
 
 2000 Chinese Sociologies: An A nthropological A pproach to the Study o f A lienation in Social Reproduction. London: Athlone Press.
 
 ## Sherratt, Andrew
 
-2000 "Envisioning Global Change: A Long-Term Perspective." In W orld System H istory: T h eS o <sup>c</sup> ia lS <sup>c</sup> ien <sup>c</sup> eo fL o n <sup>g</sup> 'T <sup>e</sup> rm Change (RobertA. Denemark,Jonathan Friedman, Barry K. Gills, George Modelski, eds.). London: Routledge.
+2000 "Envisioning Global Change: A Long-Term Perspective." In W orld System H istory: T h eS o c ia lS c ien c eo fL o n g 'T e rm Change (RobertA. Denemark,Jonathan Friedman, Barry K. Gills, George Modelski, eds.). London: Routledge.
 
 #### Terray, Emmanuel
 
-1969 Le M arx ism d <sup>e</sup> va n t les societes ^ prim itives."Paris: Maspero.
+1969 Le M arx ism d e va n t les societes ^ prim itives."Paris: Maspero.
 
 #### Tibebu, Tashame
 
-1990 "On the Question of Feudalism, Absolutism, and the Bourgeois Revolution." R <sup>e</sup> view 13: 49—152.
+1990 "On the Question of Feudalism, Absolutism, and the Bourgeois Revolution." R e view 13: 49—152.
 
 ## Tuck, Richard
 
@@ -1525,7 +1559,7 @@ This one, though, I will have to leave as a possible direction for future resear
 
 1979c"Anthropology and the Politics of Indigenous Peoples' Struggles." Cam bridge A nthropology 5: 1—43.
 
-1984 "Value, Production and Exploitation in Non-Capitalist societies." Unpublished essay based on a paper presented at the AAA 82nd Annual Meeting, Denver, Colorado. To appear in Critique o f Pu re Culture. New York: Berg Press [forthcoming]- <sup>1987</sup> The Kayapo <sup>o</sup> f Southeastern Para. Unpublished monograph prepared for CEDI,
+1984 "Value, Production and Exploitation in Non-Capitalist societies." Unpublished essay based on a paper presented at the AAA 82nd Annual Meeting, Denver, Colorado. To appear in Critique o f Pu re Culture. New York: Berg Press [forthcoming]- 1987 The Kayapo o f Southeastern Para. Unpublished monograph prepared for CEDI,
 
 Povos Indigenas do Brasil, Vol. VIII, Sul do Para, Part II.
 
@@ -1547,7 +1581,7 @@ Povos Indigenas do Brasil, Vol. VIII, Sul do Para, Part II.
 
 #### Warburton, David
 
-2000 "State and Economy in Ancient Egypt." In W orld System H istory: The S o <sup>c</sup> ia lS <sup>c</sup> ien <sup>c</sup> <sup>e</sup> o f L ong-Term Change (Robert A. Denemark, Jonathan Friedman, Barry K. Gills, George Modelski, eds.). London: Routledge.
+2000 "State and Economy in Ancient Egypt." In W orld System H istory: The S o c ia lS c ien c e o f L ong-Term Change (Robert A. Denemark, Jonathan Friedman, Barry K. Gills, George Modelski, eds.). London: Routledge.
 
 #### Weber, Max
 
@@ -1563,9 +1597,9 @@ Povos Indigenas do Brasil, Vol. VIII, Sul do Para, Part II.
 
 ## Wolf, Eric
 
-1982 Europe a n d th <sup>e</sup> People w ith o u t History. Berkeley: University of California Press.
+1982 Europe a n d th e People w ith o u t History. Berkeley: University of California Press.
 
-1999 E nvisioning P ow <sup>e</sup> r: Ideologies o f D om in an ce a n d Crisis. Berkeley: University of California Press.
+1999 E nvisioning P ow e r: Ideologies o f D om in an ce a n d Crisis. Berkeley: University of California Press.
 
 ## Wood, Ellen Meiskins
 
@@ -1849,11 +1883,11 @@ All this obviously raises the question of whether there is any reason to believe
 
 #### Akiga
 
-1939 A kiga s story; the Tiv trib <sup>e</sup> as seen by o n <sup>e</sup> o f its m embers. Translated and annotated by Rupert East. London, New York, Published for the International African Institute by the Oxford University Press.
+1939 A kiga s story; the Tiv trib e as seen by o n e o f its m embers. Translated and annotated by Rupert East. London, New York, Published for the International African Institute by the Oxford University Press.
 
 #### Akins, David and Joel Robbins,
 
-1999 "An Introduction to Melanesian Currencies: Agencies, Identity, and Social Reproduction." In M oney a n d M o d <sup>e</sup> rn ity : State a n d L ocal Currencies in M elanesia (David Atkins and Joel Robbins, eds.). Pittsburgh: University of Pittsburgh Press.
+1999 "An Introduction to Melanesian Currencies: Agencies, Identity, and Social Reproduction." In M oney a n d M o d e rn ity : State a n d L ocal Currencies in M elanesia (David Atkins and Joel Robbins, eds.). Pittsburgh: University of Pittsburgh Press.
 
 ## Apter, Emily and William Pietz, eds.
 
@@ -1914,7 +1948,7 @@ All this obviously raises the question of whether there is any reason to believe
 
 ## Durkheim, Emile
 
-1901 Les fo rm <sup>e</sup> s elem en taires d <sup>e</sup> la v ie religieuse, le system <sup>e</sup> totem iq ue en A ustralie. Paris: Presses Universitaires de France, 1968.
+1901 Les fo rm e s elem en taires d e la v ie religieuse, le system e totem iq ue en A ustralie. Paris: Presses Universitaires de France, 1968.
 
 ## Ekholm, Kajsa
 
@@ -1932,11 +1966,11 @@ All this obviously raises the question of whether there is any reason to believe
 
 ## Frazer, James
 
-1911—15 The Golden B ough: A Study in M a <sup>g</sup> ic a n d Religion. London: Macmillan and Company.
+1911—15 The Golden B ough: A Study in M a g ic a n d Religion. London: Macmillan and Company.
 
 ## Godbout, Jacques T. and Alain Caille
 
-1998 The W orld o f th <sup>e</sup> Gift. Montreal: Mc Gill-Queens University Press.
+1998 The W orld o f th e Gift. Montreal: Mc Gill-Queens University Press.
 
 ## Graeber, David
 
@@ -1944,7 +1978,7 @@ All this obviously raises the question of whether there is any reason to believe
 - 1997 "Manners, Deference and Private Property: the Generalization of Avoidance in Early Modern Europe." Com parative Studies in Socie ty a n d H istory 39(4): 694— 728.
 - 2001 Toward an A nthropological Theory o f Value: The False Coin o f Our Own Dreams. New York: Palgrave.
 - 2006 "Turning Modesof Productionlnside Out: Or, Why Capitalism isa Transformation of Slavery (short version)," Critique ofA nthropology Volume 26 no 1 (March 2006), 61-81.
-- 2007 Lost People: M a <sup>g</sup> ic a n d the L egacy o f Slavery in M adagascar. Bloomington: Indiana University Press.
+- 2007 Lost People: M a g ic a n d the L egacy o f Slavery in M adagascar. Bloomington: Indiana University Press.
 
 #### Guyer, Jane I.
 
@@ -1956,18 +1990,18 @@ All this obviously raises the question of whether there is any reason to believe
 
 ### Hobbes, Thomas
 
-1651 L eviathan, or, The M atter, Form, a n d P ow <sup>e</sup> r o f a Com mon-W ealth E cclesiastical a n d Civil. London: Printed for Andrew Crooke, at the Green Dragon in St. Pauls Churchyard.
+1651 L eviathan, or, The M atter, Form, a n d P ow e r o f a Com mon-W ealth E cclesiastical a n d Civil. London: Printed for Andrew Crooke, at the Green Dragon in St. Pauls Churchyard.
 
 ## Joas, Hans
 
-- 1993 "Institutionalization as a Creative Process: The Sociological Importance of Cornelius Castoriadis' Political Philosophy." In Pragm atism a n d S o <sup>c</sup> ia l Theory. Chicago: University of Chicago Press.
+- 1993 "Institutionalization as a Creative Process: The Sociological Importance of Cornelius Castoriadis' Political Philosophy." In Pragm atism a n d S o c ia l Theory. Chicago: University of Chicago Press.
 - 1996 The Creativity o f A ction. Chicago: University of Chicago Press.
 - 2000 The Genesis o f Values. Cambridge: Polity Press.
 
 ## Keane, Webb
 
 - 1997 "From Fetishism to Sincerity: On Agency, the Speaking Subject, and Their Historicity in the Context of Religious Conversion." Com parative Studies in Society a n d History 39: 674—693.
-- 1998 "Calvin in the Tropics: Objects and Subjects at the Religious Frontier." In B o rd <sup>e</sup> r Fetishisms: M a te ria l Objects in Unstable Spaces (P. Spyer, ed.). New York: Routledge.
+- 1998 "Calvin in the Tropics: Objects and Subjects at the Religious Frontier." In B o rd e r Fetishisms: M a te ria l Objects in Unstable Spaces (P. Spyer, ed.). New York: Routledge.
 
 ## Mac Gaffey, Wyatt
 
@@ -1977,9 +2011,9 @@ All this obviously raises the question of whether there is any reason to believe
 - 1986 Religion a n d Society in Central A frica. Chicago: University of Chicago Press.
 - 1987 "Lulendo: The Recovery of a Kongo Nkisi." Ethnos 52: 339—49.
 - 1988 "Complexity, Astonishment and Power: The Visual Vocabulary of Kongo M ikisi." J o u rn a l o f Southern A frican Studies 14 (2): 188—203.
-- 1991 A rt a n d H ealing o ft h <sup>e</sup> Ba k ongo Com m en ted by Themselves: M ink isi fr o m the Laman Collection. Stockholm: Folkens Museum - Etnografiska.
+- 1991 A rt a n d H ealing o ft h e Ba k ongo Com m en ted by Themselves: M ink isi fr o m the Laman Collection. Stockholm: Folkens Museum - Etnografiska.
 - 1994 "African Objects and the Idea of the Fetish." RES: J o u r n a l o f A nthropology a n d A esthetics 25: 123—31.
-- 2000 Kongo p o litica l cu ltu re : the co n <sup>c</sup> ep tu a l ch a llen ge o ft h <sup>e</sup> pa rticu la r. Blo om in gto n : Indiana University Press.
+- 2000 Kongo p o litica l cu ltu re : the co n c ep tu a l ch a llen ge o ft h e pa rticu la r. Blo om in gto n : Indiana University Press.
 
 ## Marx, Karl
 
@@ -1991,12 +2025,12 @@ All this obviously raises the question of whether there is any reason to believe
 
 #### Mauss, Marcel
 
-- 1925 "Essai sur le don. Forme et raison de l'echange dans les societes archai'ques" A nnee soc iolog iq u <sup>e</sup> , 1 (series 2): 30—186.
+- 1925 "Essai sur le don. Forme et raison de l'echange dans les societes archai'ques" A nnee soc iolog iq u e , 1 (series 2): 30—186.
 - 1925a "Socialisme et Bolchevisme." Le M o n d e Slavey Year 2 number 2, 201—22. Translated as "A Sociological Assessment of Bolshevism" by Ben Brewster in The R adical Sociology ofD u r k heim a n d Mauss. London: Routledge.
-- 1947 M a n u <sup>e</sup> ld 'ethnographie. Paris: Payot.
+- 1947 M a n u e ld 'ethnographie. Paris: Payot.
 - 1965 The Gift: Forms a n d Functions o f E xchange in A rchaic Societies. (I. Cunnison, trans.). New York: Norton.
 - 1968—69 Oeuvres. 3 volumes. Paris: Editions de Minuit.
-- 1997 Ecrits Politique s: Textes reunis <sup>e</sup> t pre sen te s p a r M a r <sup>c</sup> <sup>e</sup> l Fournier. Paris: Fayard.
+- 1997 Ecrits Politique s: Textes reunis e t pre sen te s p a r M a r c e l Fournier. Paris: Fayard.
 
 #### Miklitsch, Robert
 
@@ -2004,7 +2038,7 @@ All this obviously raises the question of whether there is any reason to believe
 
 #### Munn, Nancy
 
-- 1977 "The Spatiotemporal Transformations of Gawan Canoes." J o u r n a l d <sup>e</sup> la Soc ie te des Oceanistes. Tome 33 (mars-juin) 54-55: 39—53.
+- 1977 "The Spatiotemporal Transformations of Gawan Canoes." J o u r n a l d e la Soc ie te des Oceanistes. Tome 33 (mars-juin) 54-55: 39—53.
 - 1986 The Fame o fG aw a : A Sym bolic Study o f Value Transformation in a M assim (Papua N ew Guinea) Society. Cambridge, Cambridge University Press.
 
 ## Myers, Fred
@@ -2013,11 +2047,11 @@ All this obviously raises the question of whether there is any reason to believe
 
 ## Negri, Antonio
 
-1999 Insurgencie s: Constituent P ow <sup>e</sup> r a n d the M ode rn State. (Maurizia Boscagli, trans.). Minneapolis : University of Minnesota Press.
+1999 Insurgencie s: Constituent P ow e r a n d the M ode rn State. (Maurizia Boscagli, trans.). Minneapolis : University of Minnesota Press.
 
 ## Pels, Peter
 
-1998 "The Spirit of Matter: On Fetish, Rarity, Fact, and Fancy." In B o rd <sup>e</sup> r Fetishisms: M a te ria l Objects in Unstable Spaces (P. Spyer, ed.). New York: Routledge.
+1998 "The Spirit of Matter: On Fetish, Rarity, Fact, and Fancy." In B o rd e r Fetishisms: M a te ria l Objects in Unstable Spaces (P. Spyer, ed.). New York: Routledge.
 
 #### Pietz, William
 
@@ -2042,14 +2076,14 @@ All this obviously raises the question of whether there is any reason to believe
 
 #### Rospabe, Philippe
 
-1995 La D ette d e Vie: aux origines d <sup>e</sup> la m onnaie sauvage. Paris: Editions la Decouverte / MAUSS.
+1995 La D ette d e Vie: aux origines d e la m onnaie sauvage. Paris: Editions la Decouverte / MAUSS.
 
 #### Sahlins, Marshall
 
 - 1972 Stone A ge Economics. Chicago: Aldine.
-- 1976 Culture a n d P ra <sup>c</sup> tica l Reason. Chicago: University of Chicago Press.
+- 1976 Culture a n d P ra c tica l Reason. Chicago: University of Chicago Press.
 - 1981 H istorical M etaphors a n d M y th ica l Realities. A. S. A. O. Special Publication no. 1. Ann Arbor: University of Michigan Press.
-- 1982 "Individual Experience and Cultural Order." In The S o <sup>c</sup> ia l Sciences: Their N ature a n d Uses (W illiam Kruskal, ed.). Chicago: University of Chicago Press.
+- 1982 "Individual Experience and Cultural Order." In The S o c ia l Sciences: Their N ature a n d Uses (W illiam Kruskal, ed.). Chicago: University of Chicago Press.
 - 1985 Islands o f History. Chicago: University of Chicago Press.
 - 1988 "Cosmologies of Capitalism." Proceedin gs o f the British A cademy 74: 1—51.
 - 1991 "The Return of the Event, Again: With Reflections on the Beginnings of the Great Fijian War of 1843 to 1855 Between the Kingdoms of Bau and Rewa." In Clio in Oceania (Aletta Biersack, ed.). Washington: Smithsonian Press.
@@ -2064,7 +2098,7 @@ All this obviously raises the question of whether there is any reason to believe
 
 ## Spyer, Patricia
 
-1998 B o rd <sup>e</sup> r Fetishisms: M a te ria l Objects in Unstable Spaces (P. Spyer, ed.), 183—207. New York: Routledge.
+1998 B o rd e r Fetishisms: M a te ria l Objects in Unstable Spaces (P. Spyer, ed.), 183—207. New York: Routledge.
 
 ## Thornton, John
 
@@ -2239,7 +2273,7 @@ In contemporary anarchist circles it has become common to talk of the "TAZ", or 
 
 In rural Imerina, it might be better to talk about a "provisional autonomous zone" , rather than a "temporary" one: in part, to emphasize that it does not stand quite so defiantly outside power as the image of a TAZ implies; but also, because there is no reason to necessarily assume its independence is all that temporary. Betafo, even to a large extent Arivonimamo, stood outside the direct control of the state apparatus: even if the people who live there passed back and forth between them and zones, such as the capital, which are very much under the domination of the state. Their autonomy was tentative, uncertain. It might be largely swept away the moment a new infusion of guns and money restores the apparatus; but then again, it might not. Some might consider the current situation scandalous. Myself, I consider it a remarkable accomplishment. After all, austerity plans have been imposed on nations all over the world; few governments have reacted by abandoning the bulk of the population to govern themselves; nor would many populations have been so well prepared to do so.
 
-Why were they able to do so? I would guess there are various reasons. One is the maintenance of active traditions of self-governance, and what would, if it were observed in, say, European or Latin American social movements, undoubtedly be called a culture of direct democracy. The art of coming to decisions by consensus was something everyone simply learned as part of growing up. It was so much a part of everyday common sense that it was difficult, at first, for an outsider to even notice it. For instance, there was a general principle that no course of action that might have negative consequences on others should legitimately be carried out without those others' prior consent; the resultant meetings were called "fo k o n 'olona" meetings meaning, basically, "everybody"—but despite the consistent misunderstanding of colonial ethnography, "the" fo k <sup>o</sup> n 'olona was not a formal institution, but a flexible principle of deliberation by groups that could vary from five to a thousand, depending on the dimensions of the problem they were collectively trying to solve. Within those meetings, however, anyone, male or female, old or young, formally had equal right to speak: the only criteria was to be old enough to be able to formulate an intelligent opinion.4What's more, anyone engaged in an ongoing project had the power to engage in what would in contemporary consensus process be referred to as a "block": one could simply declare "I am no longer in agreement" {tsy manaik y aho) with the general direction of things, and it would cause a general crisis until one's concerns had been publicly addressed. Suffice it to say, then, that even during the colonial period, when all political gatherings were technically illegal, ordinary people had maintained institutional structures and political habits that allowed them to govern their own affairs with minimal appeal to outside force. They had also managed to develop forms of resistance sufficiently subtle that, when the state was emptied of its substance, they were able to allow it to effectively collapse with minimal loss of face.
+Why were they able to do so? I would guess there are various reasons. One is the maintenance of active traditions of self-governance, and what would, if it were observed in, say, European or Latin American social movements, undoubtedly be called a culture of direct democracy. The art of coming to decisions by consensus was something everyone simply learned as part of growing up. It was so much a part of everyday common sense that it was difficult, at first, for an outsider to even notice it. For instance, there was a general principle that no course of action that might have negative consequences on others should legitimately be carried out without those others' prior consent; the resultant meetings were called "fo k o n 'olona" meetings meaning, basically, "everybody"—but despite the consistent misunderstanding of colonial ethnography, "the" fo k o n 'olona was not a formal institution, but a flexible principle of deliberation by groups that could vary from five to a thousand, depending on the dimensions of the problem they were collectively trying to solve. Within those meetings, however, anyone, male or female, old or young, formally had equal right to speak: the only criteria was to be old enough to be able to formulate an intelligent opinion.4What's more, anyone engaged in an ongoing project had the power to engage in what would in contemporary consensus process be referred to as a "block": one could simply declare "I am no longer in agreement" {tsy manaik y aho) with the general direction of things, and it would cause a general crisis until one's concerns had been publicly addressed. Suffice it to say, then, that even during the colonial period, when all political gatherings were technically illegal, ordinary people had maintained institutional structures and political habits that allowed them to govern their own affairs with minimal appeal to outside force. They had also managed to develop forms of resistance sufficiently subtle that, when the state was emptied of its substance, they were able to allow it to effectively collapse with minimal loss of face.
 
 I don't mean to romanticize the situation. What autonomy rural communities have has been won at the cost of grinding poverty; it is hard to enjoy one's freedom if one is in a constant scramble to have enough to eat. Institutions of rule—most obviously schools and Christian churches—still functioned, and in the same hierarchical way as ever, even if they did now largely lacked the power to back up their efforts with the threat of physical force. There were certainly profound social inequalities within many of these rural communities, not to mention in town: both differences of wealth (perhaps minor by world standards, but nonetheless real), and even more, divisions between what were called "white" and "black" people, descendants of nobles or commoners in the ancient kingdom, and their former slaves. In order to understand what places like Betafo were like, then, one must first understand that it was a place that stood outside state power; then, that it did not stand entirely outside it. For all the efforts to maintain zones of autonomy, the reality of coercion has by now reshaped the terms by which people deal with each other; in certain ways, it has become embedded in the very structure of experience.
 
@@ -2283,9 +2317,9 @@ Of course, the institutional structure did remain: there were schools, banks, ho
 
 ## Althabe, Gerard
 
-1969 Oppression <sup>e</sup> t L iberation dans T lm ag in aire: les com m unaute s villageoises d <sup>e</sup> la co te orien tale d <sup>e</sup> M adagascar. Paris: Maspero.
+1969 Oppression e t L iberation dans T lm ag in aire: les com m unaute s villageoises d e la co te orien tale d e M adagascar. Paris: Maspero.
 
-2000 A n th rop olog iep olitiq u <sup>e</sup> d 'u n <sup>e</sup> decolon iz ation . Paris: L'Harmattan.
+2000 A n th rop olog iep olitiq u e d 'u n e decolon iz ation . Paris: L'Harmattan.
 
 ## Aly, Jacques
 
@@ -2293,19 +2327,19 @@ Of course, the institutional structure did remain: there were schools, banks, ho
 
 ## Andriamanjato, Richard
 
-1957 Le Tsiny <sup>e</sup> t le Tody dans la p en se eM a lg a ch <sup>e</sup> . Paris: Presence Africaine.
+1957 Le Tsiny e t le Tody dans la p en se eM a lg a ch e . Paris: Presence Africaine.
 
 ## Bey, Hakim
 
-1991 T. A. Z: The Temporary A utonomous Zone, O n tolog ical A narchy, P o <sup>e</sup> tic Terrorism. New York: Autonomedia.
+1991 T. A. Z: The Temporary A utonomous Zone, O n tolog ical A narchy, P o e tic Terrorism. New York: Autonomedia.
 
 #### Bloch, Maurice
 
-1971 "Decision-making in Councils Among the Merina" In Councils in a <sup>c</sup> tio n (Audrey Richards and Adam Kuper, eds.). Cambridge Papers in Social Anthropology. Cambridge: Cambridge University Press.
+1971 "Decision-making in Councils Among the Merina" In Councils in a c tio n (Audrey Richards and Adam Kuper, eds.). Cambridge Papers in Social Anthropology. Cambridge: Cambridge University Press.
 
 ## Dez, Jacques
 
-1975- "Premiere structure d'encadrement rural: le Fo k onolona " A sie d u SudE st <sup>e</sup> t M on de Lnsulindien 6 : 31—69.
+1975- "Premiere structure d'encadrement rural: le Fo k onolona " A sie d u SudE st e t M on de Lnsulindien 6 : 31—69.
 
 ## Feeley-Harnik, Gillian
 
@@ -2313,7 +2347,7 @@ Of course, the institutional structure did remain: there were schools, banks, ho
 
 1984. "The Political Economy of Death: Communication and Change in Malagasy Colonial History." A merican E thnologist. 8 : 231—254.
 
-1991 A Green Estate: Restoring In d ep en d en <sup>c</sup> <sup>e</sup> in M adagascar. Washington: Smithsonian
+1991 A Green Estate: Restoring In d ep en d en c e in M adagascar. Washington: Smithsonian
 
 ## Ferguson, James
 
@@ -2321,11 +2355,11 @@ Of course, the institutional structure did remain: there were schools, banks, ho
 
 #### Larson, Pier
 
-2000 H istory a n d M em ory in the A ge o f E nslavem ent: B <sup>e</sup> com in <sup>g</sup> M erina in H ighland M adagascar, 1770—1822 (Social History of Africa). Portsmouth: Heinemann.
+2000 H istory a n d M em ory in the A ge o f E nslavem ent: B e com in g M erina in H ighland M adagascar, 1770—1822 (Social History of Africa). Portsmouth: Heinemann.
 
 ### Renel, Charles
 
-1910 Contes d <sup>e</sup> M adagascar (3 volumes). Paris: Ernest Leroux.
+1910 Contes d e M adagascar (3 volumes). Paris: Ernest Leroux.
 
 ## Turner, Stephen, and Regis Factor
 
@@ -2642,7 +2676,7 @@ Some fam a d ih a n a did concentrate on a particular tomb rather than on a part
 - 8 Everyone agreed the body should properly be carried around seven times, but that this is no longer done. All such details depend on the astrologer's decision. He may forgo the rounding of the tomb completely and have the bodies carried out directly to the laps of the women.
 - 9 Fam adihana around Arivonimamo, on the other hand, appear relatively staid: I never saw anyone tossing skulls in the air, snatching skeletons from each other, and so on, as others have reported (eg, Ruud I960: 169).
 - 1 0 The next day was one of feasting: pigs slaughtered the day before were cooked in huge vats and ladled out to all; there was music and dancing and almost inevitably, drunken quarrels between rural and urban kin, which could, if the sponsors did not effectively intervene, degenerate into brawls. But the celebrations were only considered part of the fam a d ih a n a in the broadest sense.
-- 11 My own experience indicates this is something of a misnomer. Rural people did not even recognize this usage. In fact, there was there was no generic term for "deme" in common use at all. In the nineteenth-century demes were most often referred to asfir <sup>e</sup> n <sup>e</sup> n a y which is now the term for "nation."
+- 11 My own experience indicates this is something of a misnomer. Rural people did not even recognize this usage. In fact, there was there was no generic term for "deme" in common use at all. In the nineteenth-century demes were most often referred to asfir e n e n a y which is now the term for "nation."
 - 12 The a n driana of Betafo are descended from military colonists placed there after the Merina kingdom's conquest of Imamo around 1800. The colonists were from a famous an drian a group called the Z ana k ' ("children of") A ndrianam boninolona. Not only do Betafo nobles regularly refer to themselves as children of Andrianamboninolona, most think it is he who is buried in the ra zam be \$ tomb.
 
 - 13 The descendants of this younger son still predominate in that portion of the deme's territory. The people of this division, who became Catholics when their eastern kin converted to Protestantism in the last century, remember the deme history quite differently. Many claim at least half of the ra zam be \$ sons for their own division, identifying them with each of the division's oldest tombs. This kind of contestation is more the rule than the exception, though.
@@ -2657,11 +2691,11 @@ Some fam a d ih a n a did concentrate on a particular tomb rather than on a part
 - A Maori chief, for example, could be said to be intrinsically tapu, meaning sacred in the sense ofset apart from the rest of the world. The word fa d y however is never applied to persons in this way. It is applied primarily to actions. Even when one speaks of, say, a "onion fa d y '' this is usually shorthand for some specific rule of action, like eating or growing one.
 
 - 23 I think this is one reason why I found it impossible to come up with anything remotely resembling a coherent list of local fa d y for the community of Betafo. Everyone agreed that such a list could be written, but no two gave anything like the same account, and many indignantly denied what their neighbors had told me. Spheres of influence were constantly being marked out by who could convince others to accept their view of the local fa d y , and, Betafo being a place in which authority and group solidarity were in a constant state of flux, opinions about fa d y tended to being equally shifting and chaotic.
-- 24 They most often involved pigs and different kinds of onions— particularly garlic, which is called tongolo <sup>g</sup> asy or "Malagasy onion." Some of the more erudite held that pigs and onions, being "dirty," negated the power of magical charms and annoyed the spirits of the dead, and were, for this reason, a frequent subject offa d y for users of magic and those who enter sacred places. But it was very rare for taboos to involve such an explicit notion of pollution. I note in passing that typically, restrictions on pork or onions applied only to specific situations— only once or twice did I run into someone never allowed to eat pork or garlic at all. They are, after all, probably the most popular foodstuffs in Imerina, and this would appear to be one of the reasons they were so often the focus of taboo.
+- 24 They most often involved pigs and different kinds of onions— particularly garlic, which is called tongolo g asy or "Malagasy onion." Some of the more erudite held that pigs and onions, being "dirty," negated the power of magical charms and annoyed the spirits of the dead, and were, for this reason, a frequent subject offa d y for users of magic and those who enter sacred places. But it was very rare for taboos to involve such an explicit notion of pollution. I note in passing that typically, restrictions on pork or onions applied only to specific situations— only once or twice did I run into someone never allowed to eat pork or garlic at all. They are, after all, probably the most popular foodstuffs in Imerina, and this would appear to be one of the reasons they were so often the focus of taboo.
 - 25 Actually, he cursed them not to eat bo k ana, a variety of caterpillar used in local silk production as well as occasionally as food. Be this as it may, everyone I talked to found the restriction highly amusing and rarely avoided an opportunity to remark on it. The death by gluttony motif is in fact probably the most popular story used to explain group fa d y (and was a theme most found intrinsically funny in any context). Stories about the origins of marriage restrictions usually traced them back to some incident where the ancestors gambled, cheated, and got mad at each other—as with the gluttony stories, most of the people who told them to me made it clear that, as far as they were concerned, the ancestors were acting like fools.
 - 26 A few very old and venerable women would try to put a moral slant on this: e.g., the ancestors are merciless in the punishing of evil-doers; most did not.
 - 27 Parental ozona and ancestral ozona were seen by at least some to depend on one another: one woman told me you should be careful to observe all the ancestral fa d y lest you lose the ability to curse your own children.
-- 28 In Imerina, in fact, I could find no popular interest in a cosmological time of origins at all; tany <sup>g</sup> a sy , or "Malagasy times," which is the time of historical origins in which the ancestors lived and demes were founded, is seen as differing from the present mainly in a political sense.
+- 28 In Imerina, in fact, I could find no popular interest in a cosmological time of origins at all; tany g a sy , or "Malagasy times," which is the time of historical origins in which the ancestors lived and demes were founded, is seen as differing from the present mainly in a political sense.
 - 29 While most of the demes and deme-territories in the area around Arivonimamo do not seem to have changed in any dramatic way since the last century, archival documents reveal the existence, in Ambohibe (a town near Ambohibeloma, seven or eight kilometers north of Arivonimamo) of an enormously rich man with the appropriate name of Andriampenovola—"lord full of money" —who, throughout
 
 - the 1880s and 1890s seems to have gone about accumulating descendants through adoptions: each adoptee was guaranteed a portion of his land, slaves and other property as long as he or she remain on the ancestral territory. When I passed through Ambohibe in 1990 no one remembered the name of the 19th century deme (the Zanak'Andriandoria) but instead gave Andriampenovola as the name of the local razambe.
@@ -2669,9 +2703,9 @@ Some fam a d ih a n a did concentrate on a particular tomb rather than on a part
 - 31 By this I mean that, while there may be other descendants still using the tomb, there are none that live nearby. Often, though, the head would feel responsible for the upkeep of a whole set of tombs he had links to, if no other descendants were to be found who were capable of keeping them up in a respectable fashion. Otherwise, it was largely left to the heads of the fragmentary families I've described to keep up local relations to the less famous tombs in any given area that were still in use. This gave them much of their local social importance, since the other owners tended to be city people, migrants, or children of migrants who depended them to mediate in dealings with the tomb.
 - 32 When women talked about leaving their husband they always, I noticed, spoke of "going home to father," and never "to mother."
 - 33 Efa maty daholo ny efa lehibe, f a izahay zaza m pandim by fo tsin y no sisa.
-- 34 For example Ramose, technically the male equivalent ofM adam a, was in practice only used for men of that age who are also schoolteachers; Rangahy, the male parallel for both Ramatoa and Ram atoabe, is much more informal and in practice used much like the English word "guy"; finally, the term In ga h ib <sup>e</sup> is a term of great respect applied only to the one or two oldest men in a given community. In all of this, by the way, I am only speaking of the vernacular Merina I am familiar with from Arivonimamo: I can't say for sure how far these generalizations hold beyond it.
+- 34 For example Ramose, technically the male equivalent ofM adam a, was in practice only used for men of that age who are also schoolteachers; Rangahy, the male parallel for both Ramatoa and Ram atoabe, is much more informal and in practice used much like the English word "guy"; finally, the term In ga h ib e is a term of great respect applied only to the one or two oldest men in a given community. In all of this, by the way, I am only speaking of the vernacular Merina I am familiar with from Arivonimamo: I can't say for sure how far these generalizations hold beyond it.
 - 35 I only saw women crying and male ancestors being cried over, but I only witnessed four or five incidents first-hand.
-- 36 Izaho izao ohatra ta m in n y 1989, n ano fy izany izaho <sup>e</sup> to h o <sup>e</sup> hita k o i d adan ay izy izany efa m aty io — ary A varatr'A m bodivona a ry —-fa misy hazo eo, d ia niresak a am iny izahay f a ity dada ity v <sup>e</sup> m bola tsy maty hoy izy izany; mbola miseho eto indray. Dia om eo tsodrano aho hoy a h o fa izaho tsy salama... Dia niresaka eo izahay miana k a: tsy fa n a o izay Irin a h oy izy, d ia in y izy d ia nidabo k a maty tam in 'izy nafatotra iny. D ia izaho nia k atra ta m in n y tanana misy an Hay zo k inay lahim atoa h afareny tery. D ia izy koa mba nikisaka niala an-ta nana izy izany nidabo k a a n 'in y fa h a fa te sa n 'iny, O h atran ny h o e : m ahatsiravana mam pahatahotra.
+- 36 Izaho izao ohatra ta m in n y 1989, n ano fy izany izaho e to h o e hita k o i d adan ay izy izany efa m aty io — ary A varatr'A m bodivona a ry —-fa misy hazo eo, d ia niresak a am iny izahay f a ity dada ity v e m bola tsy maty hoy izy izany; mbola miseho eto indray. Dia om eo tsodrano aho hoy a h o fa izaho tsy salama... Dia niresaka eo izahay miana k a: tsy fa n a o izay Irin a h oy izy, d ia in y izy d ia nidabo k a maty tam in 'izy nafatotra iny. D ia izaho nia k atra ta m in n y tanana misy an Hay zo k inay lahim atoa h afareny tery. D ia izy koa mba nikisaka niala an-ta nana izy izany nidabo k a a n 'in y fa h a fa te sa n 'iny, O h atran ny h o e : m ahatsiravana mam pahatahotra.
 
 - 37 Her dream is somewhat complicated, though, by the fact that she had it at a time when her siblings were all quarreling—which probably explains his sudden transformation from benevolent to stern and authoritarian. It's unclear whether Irina meant to imply her illness was caused by her father's disapproval or not.
 - 38 In Betafo, for instance, I heard of the case of several absentee owners living in the capital who, on converting to an Evangelical sect that did not allow them to participate in fam a d ih a n a , immediately sold off their rice fields in Betafo.
@@ -2681,7 +2715,7 @@ Some fam a d ih a n a did concentrate on a particular tomb rather than on a part
 - 42 Irina's request for a tsodrano in the dream cited above might be an example of the same thing; it's unclear from the context whether her father's annoyance with his squabbling children was the cause of her illness or not.
 - 43 Generally speaking, every ritual gesture which involved giving something to the ancestors—ie., pouring rum over the door of the tomb or over the bodies inside, giving gifts when the ancestors are placed on women's laps, and so on, are all referred to as "requests for tsodrano " Likewise, anything taken away by the zanadrazana, such as the pieces of mats which are said to bring fertility to women and the tooth medicine mentioned above, can be called "tsodrano "
 - 44 Also—though this was a matter of some debate among my own acquaintances tsodrano could be given to relieve the consequences of tsiny, which is the guilt or blame a person may have due to the detrimental effects their actions have had on others (Andriamanjato 1957). Parents, for instance, might give an errant child who has returned such a tsodrano. This is, of course, in keeping with what I've said about people who leave bottles of honey and so forth on top of tombs. It also may relate to the notion thatfam a d ih a n a are meant to counteract tsiny, which was very important to Bloch's informants though I never heard much about it where I worked.
-- 45 There's no room here to enter into am balave lon ay which involves a sorcerer's manipulation of material from tombs to cause an enemy to become possessed by such an evil ghost, typically driving the victim mad. Similar charms are used to cure am balav <sup>e</sup> lon a, and to drive off Vazimba spirits, which are considered by some to be the final malevolent form which ancestors take when their descendants do not "take care of" them.
+- 45 There's no room here to enter into am balave lon ay which involves a sorcerer's manipulation of material from tombs to cause an enemy to become possessed by such an evil ghost, typically driving the victim mad. Similar charms are used to cure am balav e lon a, and to drive off Vazimba spirits, which are considered by some to be the final malevolent form which ancestors take when their descendants do not "take care of" them.
 
 ## B ib lio g r a p h y
 
@@ -2691,10 +2725,10 @@ Some fam a d ih a n a did concentrate on a particular tomb rather than on a part
 
 ## Bloch, Maurice
 
-- 1971. P la <sup>c</sup> in <sup>g</sup> th eD ea d : Tombs,A ncestralV illages, a nd Kinship O rganizationinM adagascar. London: Seminar Press.
+- 1971. P la c in g th eD ea d : Tombs,A ncestralV illages, a nd Kinship O rganizationinM adagascar. London: Seminar Press.
 - 1982. "Death, Women and Power." In D eath a n d th e R egeneration o f L ife (M. Bloch and J. Parry eds.). Cambridge: Cambridge University Press, 211—230.
 - 1985. "Almost Eating the Ancestors." M an (n.s.) 20: 631—646.
-- 1986. From Blessing to V iolence: H istory a n d Id eo lo <sup>g</sup> y in the Circum cision Ritual o ft h <sup>e</sup> M erina o f M adagascar. Cambridge: Cambridge University Press.
+- 1986. From Blessing to V iolence: H istory a n d Id eo lo g y in the Circum cision Ritual o ft h e M erina o f M adagascar. Cambridge: Cambridge University Press.
 
 #### Callet, R. P.
 
@@ -2702,7 +2736,7 @@ Some fam a d ih a n a did concentrate on a particular tomb rather than on a part
 
 #### Condominas, Gerard
 
-I960. Fo k onolona <sup>e</sup> t Collectivites Rurales en Lmerina. Paris: Berger-Levrault.
+I960. Fo k onolona e t Collectivites Rurales en Lmerina. Paris: Berger-Levrault.
 
 ## Cousins, William E.
 
@@ -2714,16 +2748,16 @@ I960. Fo k onolona <sup>e</sup> t Collectivites Rurales en Lmerina. Paris: Berge
 
 ## Evans-Pritchard, Edward E.
 
-1940 The N uer: A D escription o ft h <sup>e</sup> M odes o f L ivelihood a n d P o litica l Institutions o f a N ilotic People. Oxford: Oxford University Press.
+1940 The N uer: A D escription o ft h e M odes o f L ivelihood a n d P o litica l Institutions o f a N ilotic People. Oxford: Oxford University Press.
 
 ## Feeley-Harnik, Gillian
 
 - 1989. "Cloth and the Creation of Ancestors in Madagascar." In Cloth a n d H uman E x perience (J. Schneider and A. B. Weiner, eds). Washington DC: Smithsonian Institution Press.
-- 1991. A Green Estate: Restoring In d ep en d en <sup>c</sup> <sup>e</sup> in M adagascar. Washington DC: Smithsonian Institution Press.
+- 1991. A Green Estate: Restoring In d ep en d en c e in M adagascar. Washington DC: Smithsonian Institution Press.
 
 #### Gueunier, Noel Jacques
 
-1982. "Review of Le Tsimahafotsy d 'A mbohimanga, by Adolphe Razafintsalama" Asie du S u d Est <sup>e</sup> t M on de Lnsulindien 13: 235—241.
+1982. "Review of Le Tsimahafotsy d 'A mbohimanga, by Adolphe Razafintsalama" Asie du S u d Est e t M on de Lnsulindien 13: 235—241.
 
 #### Haile, John
 
@@ -2731,7 +2765,7 @@ I960. Fo k onolona <sup>e</sup> t Collectivites Rurales en Lmerina. Paris: Berge
 
 ## Hertz, Robert
 
-1907. "Contribution a une etude sur la representation de la mort." L'A nnee S oc iologiqu <sup>e</sup> 10:48-137.
+1907. "Contribution a une etude sur la representation de la mort." L'A nnee S oc iologiqu e 10:48-137.
 
 #### Jully, Antoine
 
@@ -2747,7 +2781,7 @@ I960. Fo k onolona <sup>e</sup> t Collectivites Rurales en Lmerina. Paris: Berge
 
 #### Raison-Jourde, Fran^oise
 
-1991. B ib le <sup>e</sup> tp o u v o ir h M adagascar auX IX <sup>e</sup> siecle. Paris: Karthala.
+1991. B ib le e tp o u v o ir h M adagascar auX IX e siecle. Paris: Karthala.
 
 ## Rasamimanana, Joseph and Louis Razafindrazaka
 
@@ -2755,11 +2789,11 @@ I960. Fo k onolona <sup>e</sup> t Collectivites Rurales en Lmerina. Paris: Berge
 
 ## Razafindratovo, Janine,
 
-1980 "Noms Passes, Noms Presents chez les Merina." A sied u S u d E ste tM o n d <sup>e</sup> ln su lin d ien 11: 169-182.
+1980 "Noms Passes, Noms Presents chez les Merina." A sied u S u d E ste tM o n d e ln su lin d ien 11: 169-182.
 
 #### Razafintsalama, Adolphe
 
-1981. Les Tsimahafotsy d 'A mbohimanga. Organisation fa m ilia le <sup>e</sup> t soc ia le en Lmerina (M adagascar). Paris: SELAF.
+1981. Les Tsimahafotsy d 'A mbohimanga. Organisation fa m ilia le e t soc ia le en Lmerina (M adagascar). Paris: SELAF.
 
 ## Ruud, Jorgen
 
@@ -2777,11 +2811,11 @@ I960. Taboo: A Study o f M alagasy Belie fs a n d Customs. New York: Humanities 
 
 ## Van Gennep, Arnold
 
-1904. Tabou <sup>e</sup> t Totemism h M adagascar. Paris: Ernest Leroux.
+1904. Tabou e t Totemism h M adagascar. Paris: Ernest Leroux.
 
 #### Vogel, Claude
 
-1982. Les quatre s-m eres d 'A mbohibao: <sup>e</sup> tu d <sup>e</sup> d 'u ne p o p u la tio n reg io n a le d 'Im <sup>e</sup> rin a (M adagascar). Paris: SELAF.
+1982. Les quatre s-m eres d 'A mbohibao: e tu d e d 'u ne p o p u la tio n reg io n a le d 'Im e rin a (M adagascar). Paris: SELAF.
 
 #### Wilson, Peter
 
@@ -2819,7 +2853,7 @@ Just about everyone I talked to, and every source I consulted, agreed on one thi
 
 Early sources speak of ody that can protect their owners from hail, crocodiles, guns, thieves, witches, knives, locusts, fire, and an endless assortment of other dangers. I heard practically identical lists myself. But, then as now, the protection such charms afforded took a distinctly active form. Rather than fortifying the user or her possessions against harm, they were almost always said to intervene to prevent or disrupt the harmful actions of others, though never in such a way that they could be said to be actually attacking them. An ody that provided protection against bullets, for instance, did not make the bearers' skin invulnerable: it made those shooting at them miss, or turned their bullets into water. Charms employed in lawsuits never made the bearer's own words more persuasive, but always prevented his antagonist from arguing effectively, or at all.
 
-There is a very famous book called Le Tsiny <sup>e</sup> t le Tody dans la p en se e M algache [Blame a n d Retribution in Malagasy Thought], written in 1957 by Richard Andriamanjato, then a young Protestant pastor (he has since become a major figure in national politics). In it Andriamanjato argued that since traditional Malagasy thought assumes that anything one might do will inevitably bring at least indirect harm to someone else, all action is intrinsically problematic. One can easily imagine the ethics of protection as a kind of corollary: if acting is so problematic, then at least in areas in which one is wielding extraordinary powers—for instance, the invisible powers of medicine—actions could only be entirely above question if meant to prevent the even more harmful actions of someone else. The same logic applied to the more public powers involved in communal authority as well. In my experience, the role of elders was never represented as a matter ofinitiating or even coordinating communal projects, but ofimposing prohibitions, and stepping in to prevent younger people from taking actions likely to shatter the solidarity of the community. Ancestors are seen as acting in much the same way, imposing taboos or rules of conduct that were always stated in the negative. This is a point which will become very important as the argument develops; for now, suffice it to say that this meant love medicine, which could hardly be represented as a form of protection, was seen as lying at least on the borders of morality.
+There is a very famous book called Le Tsiny e t le Tody dans la p en se e M algache [Blame a n d Retribution in Malagasy Thought], written in 1957 by Richard Andriamanjato, then a young Protestant pastor (he has since become a major figure in national politics). In it Andriamanjato argued that since traditional Malagasy thought assumes that anything one might do will inevitably bring at least indirect harm to someone else, all action is intrinsically problematic. One can easily imagine the ethics of protection as a kind of corollary: if acting is so problematic, then at least in areas in which one is wielding extraordinary powers—for instance, the invisible powers of medicine—actions could only be entirely above question if meant to prevent the even more harmful actions of someone else. The same logic applied to the more public powers involved in communal authority as well. In my experience, the role of elders was never represented as a matter ofinitiating or even coordinating communal projects, but ofimposing prohibitions, and stepping in to prevent younger people from taking actions likely to shatter the solidarity of the community. Ancestors are seen as acting in much the same way, imposing taboos or rules of conduct that were always stated in the negative. This is a point which will become very important as the argument develops; for now, suffice it to say that this meant love medicine, which could hardly be represented as a form of protection, was seen as lying at least on the borders of morality.
 
 #### O n th e In d u c e m e n t of S t a t e s of "A m o r o u s M a d n e s s "
 
@@ -2851,7 +2885,7 @@ ond kind that does not cause amorous madness but instead inspires enduring mutua
 
 This model would seem to leave little place for most of the ody Vig collected from his parishioners, all which were apparently thought to cause only temporary madness and were certainly never fatal. But as a diviner—and potential victim of one of Ranavalona's purges—he would hardly have wanted to leave open the possibility that the sort of love medicine he himself could provide could possibly harm anyone. Thus his separation of love and vengeance, which he takes so far as to make it impossible to tell what his evil "love medicine" has to do with love at all. What Vig's material suggests is that, for most people, things were not nearly so clear-cut; most believed that even medicine used to inspire desire in others could have violent, punitive effects to the precise measure that the user's desires were mixed with wounded pride and desire for revenge.
 
-The diviner's text fleshes out certain other details left ambiguous in Vig: for example, concerning the psychic mechanisms that were seen as lying behind the o d y 's power. In nineteenth-century Imerina each person was (at least according to professional curers) said to have an am biroa or av <sup>e</sup> lo—a "double" or "reflection"—a kind of active, detachable soul that wandered in dreams and at times could wander off entirely. Soul-loss led to dizziness, erratic, confused behavior and eventually to illness and death. One of the most common ways sorcerers had of killing their victims was to separate them from their ambiroa, and one of the most common tasks for curers of the time was to retrieve them. There were a wide variety of rituals used to accomplish this, but the most common ended with the patient contemplating his own reflection in a bowl of water—a bowl that was then suddenly slapped by the curer, causing the reflection to vanish and—ideally—the soul to leap back into the startled patient's body (Vig 1969: 92—3).9According to the author of the passage in the Tantara (Callet 1908: 106, cf. Vig 1969: 84, 86, 89), the ritual a mpisik idy would perform to cure a woman smitten by love medicine worked by the exactly same principle. It was necessary to call the woman's spirit back again from where it had been taken by her seducer, and it otherwise took exactly the same form. In other words, the symptoms of "amorous madness" Vig describes were actually provoked by drawing the victim's soul to the man working the charm, thus causing the victim herself first of all to be in a state of soul-loss (hence dizziness and confusion), and as a result, to be seized by a frantic desire to unite with her enchanter—ultimately, as a way of restoring the disrupted unity of her own self.10.
+The diviner's text fleshes out certain other details left ambiguous in Vig: for example, concerning the psychic mechanisms that were seen as lying behind the o d y 's power. In nineteenth-century Imerina each person was (at least according to professional curers) said to have an am biroa or av e lo—a "double" or "reflection"—a kind of active, detachable soul that wandered in dreams and at times could wander off entirely. Soul-loss led to dizziness, erratic, confused behavior and eventually to illness and death. One of the most common ways sorcerers had of killing their victims was to separate them from their ambiroa, and one of the most common tasks for curers of the time was to retrieve them. There were a wide variety of rituals used to accomplish this, but the most common ended with the patient contemplating his own reflection in a bowl of water—a bowl that was then suddenly slapped by the curer, causing the reflection to vanish and—ideally—the soul to leap back into the startled patient's body (Vig 1969: 92—3).9According to the author of the passage in the Tantara (Callet 1908: 106, cf. Vig 1969: 84, 86, 89), the ritual a mpisik idy would perform to cure a woman smitten by love medicine worked by the exactly same principle. It was necessary to call the woman's spirit back again from where it had been taken by her seducer, and it otherwise took exactly the same form. In other words, the symptoms of "amorous madness" Vig describes were actually provoked by drawing the victim's soul to the man working the charm, thus causing the victim herself first of all to be in a state of soul-loss (hence dizziness and confusion), and as a result, to be seized by a frantic desire to unite with her enchanter—ultimately, as a way of restoring the disrupted unity of her own self.10.
 
 This same diviner provides closest one can find to a nineteenth-century reference to women using ody fitia in a rather unusual moral tirade about young men from the highlands who leave their wives and families to engage in petty commerce on the coast, take local mistresses to help them with their business, and then ultimately abandon them. Often, he says, these coastal women know how to place ody on their lovers which will only begin to work once the men have returned to their wives and children in the highlands. When they do, the effects are spectacular. The victim loses all sensation in the lower half of his body, he becomes incontinent, he is impotent, he soils the floor and the bed. Eventually, he dies.11While the author never actually refers to these charms as ody fitia , they are treated as part of the same broad category, and he represents the women as acting out of exactly the same motives of jealous spite and desire for retribution. In fact, the words he puts in their mouth, "if he won't be mine, he won't be anybody else's" {tsy ho ahy, tsy ho a n 'olona), are the exact words he places in the mouths of users of vindictive ody fitia . (Callet 1908: 106,108)' And as in the case of ody fitia , retribution takes the most visceral, tangible, and humiliating form.
 
@@ -2869,11 +2903,11 @@ In one village I knew well, there was a woman in her forties who had married int
 
 An even more dramatic case had occurred a few years earlier. One of the wealthiest men in the village, a man of very modest origins who had raised himself to prominence by marrying a local heiress, had suddenly decided at the age of fifty to divorce his wife and marry a much younger woman he had met while off on business in the nearby town of Analavory. No sooner had the woman moved in with him than she began selling off his property houses, fields, cattle, everything she could lay her hands on—as he dutifully signed the papers, refusing to discuss the matter with other members of his family. When after a few years there was nothing left to sell, she left him for an itinerant Tandroy cattle merchant, and eventually moved back to her old home in Analavory. At this point the man had nothing left to his name except for three cows. One by one, I was told, he sold them, each time using the money to fund a trip to Analavory to beg his wife to return to him. Each time she sent him away. The third time, he collapsed in exhaustion on the road back to Arivonimamo, had to be carried home to his village, and died there the next day. Almost everyone concluded she had not only used love medicine, but finally placed some kind of charm on him that would kill him as soon as he got home.
 
-Other ody were referred to as "kinds of ody fitia"-. the two most famous were fa n a in <sup>g</sup> a lavitra ("fetching from afar") and tsy mihoabonga ("does not pass beyond the mountain"). The first was used to summon a person to the caster; once they fall under its effects, I was told, wherever they were or whatever they might be doing, they would fall into a trance, drop everything, and immediately travel to the caster by the quickest possible means available, not regaining consciousness until they arrived. Tsimihoa-bonga on the other hand acts to confine its victim within a certain perimeter. If the victim tried to walk out of a village they were confined to, they would suddenly find themselves turning back again without being aware of doing so; if forcibly removed, they would grow seriously ill or even die. While the archetypical users offa n a in <sup>g</sup> a lavitra were woman trying to force lovers to return to them, and I heard several reports of rural women who were supposed to have used tsimihoa-bonga to keep government functionaries posted to their villages from returning to their wives, these forms of medicine were often used in contexts which had nothing to do with "love."13
+Other ody were referred to as "kinds of ody fitia"-. the two most famous were fa n a in g a lavitra ("fetching from afar") and tsy mihoabonga ("does not pass beyond the mountain"). The first was used to summon a person to the caster; once they fall under its effects, I was told, wherever they were or whatever they might be doing, they would fall into a trance, drop everything, and immediately travel to the caster by the quickest possible means available, not regaining consciousness until they arrived. Tsimihoa-bonga on the other hand acts to confine its victim within a certain perimeter. If the victim tried to walk out of a village they were confined to, they would suddenly find themselves turning back again without being aware of doing so; if forcibly removed, they would grow seriously ill or even die. While the archetypical users offa n a in g a lavitra were woman trying to force lovers to return to them, and I heard several reports of rural women who were supposed to have used tsimihoa-bonga to keep government functionaries posted to their villages from returning to their wives, these forms of medicine were often used in contexts which had nothing to do with "love."13
 
-As these examples would suggest, love medicine was typically the stuff of scandal. M ost considered fa n a in <sup>g</sup> a lavitra to be witchcraft pure and simple, no matter what the pretext for its use.14But if the moral standing of ody fitia had not much changed since Vig's time, the issues involved seem to be entirely different. No one even suggested that fa n a in <sup>g</sup> a lavitra was wrong because of the harm it could bring to its victims; in fact, it often did no immediate harm to them at all. What they stressed was that such medicine causes its victims to lose their autonomy, to act like slaves, to be completely at the will and bidding of another. And this is precisely what they stressed about more conventional forms of ody fitia as well. "If a man always does whatever his wife tells him," one woman told me, "especially if she has him constantly out working, looking for new ways to get her money— that's how you can tell she probably knows how to use ody fitia."
+As these examples would suggest, love medicine was typically the stuff of scandal. M ost considered fa n a in g a lavitra to be witchcraft pure and simple, no matter what the pretext for its use.14But if the moral standing of ody fitia had not much changed since Vig's time, the issues involved seem to be entirely different. No one even suggested that fa n a in g a lavitra was wrong because of the harm it could bring to its victims; in fact, it often did no immediate harm to them at all. What they stressed was that such medicine causes its victims to lose their autonomy, to act like slaves, to be completely at the will and bidding of another. And this is precisely what they stressed about more conventional forms of ody fitia as well. "If a man always does whatever his wife tells him," one woman told me, "especially if she has him constantly out working, looking for new ways to get her money— that's how you can tell she probably knows how to use ody fitia."
 
-Bear in mind that most Malagasy medicine is not said to make its victims do anything. Legitimate medicine prevents others from acting; witchcraft attacks them. In fact, almost all forms of medicine which a r <sup>e</sup> said to have a direct effect their victims' behavior are considered varieties of odyfitia . And the one or two exceptions that do exist are looked on with much the same attitude ofsuspicion. A good case in point are ody used to protect crops from theft. Now, this is a purpose which would seem on the face of it about as intrinsically legitimate as one could get. Almost all farmers in Imerina use some variety ofmedicine to protect their crops, and most fields are decorated with kiady, flags of brightly colored strips of cloth and plastic or poles topped with bundled straw. These usually contain medicine said to guard against birds or animals, and perhaps also to prevent thieves from entering the field or alert the owner if they do. Some downplayed the importance of the medicine in kiady altogether, saying they were mainly just marks of ownership. Almost everyone stressed that any medicine they did contain was likely to be very mild in its effects. The really potent medicine, called kalo, tended to be buried in the ground rather than placed around the field on poles. Some kalo made thieves sick: if anyone ate food taken from the field protected by such a kalo, I was told, their feet or stomach would swell up to twice their normal size. Often they would die as a result. Almost everyone I talked to considered this simple witchcraft, not a legitimate way to protect one's crops. A more acceptable form of kalo trapped intruders: having entered the field, a would-be thiefwould find himself unable to leave it until the owner returned to release
+Bear in mind that most Malagasy medicine is not said to make its victims do anything. Legitimate medicine prevents others from acting; witchcraft attacks them. In fact, almost all forms of medicine which a r e said to have a direct effect their victims' behavior are considered varieties of odyfitia . And the one or two exceptions that do exist are looked on with much the same attitude ofsuspicion. A good case in point are ody used to protect crops from theft. Now, this is a purpose which would seem on the face of it about as intrinsically legitimate as one could get. Almost all farmers in Imerina use some variety ofmedicine to protect their crops, and most fields are decorated with kiady, flags of brightly colored strips of cloth and plastic or poles topped with bundled straw. These usually contain medicine said to guard against birds or animals, and perhaps also to prevent thieves from entering the field or alert the owner if they do. Some downplayed the importance of the medicine in kiady altogether, saying they were mainly just marks of ownership. Almost everyone stressed that any medicine they did contain was likely to be very mild in its effects. The really potent medicine, called kalo, tended to be buried in the ground rather than placed around the field on poles. Some kalo made thieves sick: if anyone ate food taken from the field protected by such a kalo, I was told, their feet or stomach would swell up to twice their normal size. Often they would die as a result. Almost everyone I talked to considered this simple witchcraft, not a legitimate way to protect one's crops. A more acceptable form of kalo trapped intruders: having entered the field, a would-be thiefwould find himself unable to leave it until the owner returned to release
 
 ## 2 34 POSSIBILITIES
 
@@ -2881,7 +2915,7 @@ him. This most considered inoffensive; but it was only one step from here to the
 
 ## B a c k g r o u n d : R o y a l S e r vic e a n d Sla v e r y
 
-I have suggested that these new concerns were the result of a general re-evaluation of modes of power and authority which followed the French conquest of Madagascar. Perhaps the easiest way to understand what happened is to follow the changing meaning of the term fanom poana, usually translated "service," which is used throughout Madagascar to describe the obligations ofsubjects to their rulers and, secondarily, slaves to their masters. In early Imerina, as in most Malagasy kingdoms, obligations to rulers centered on certain ceremonial tasks, particularly the building and rebuilding of royal houses and tombs. But, in principle, such obligations were unlimited; and under the Merina government that ruled most of Madagascar during the nm <sup>e</sup> teen x h-c en tu x y fanom p oa na was used to justify any number of newly created obligations, including a program offorced labor applied on a massive scale both in the provinces and in Imerina. After the French conquest, colonial authorities continued the use of forced labor, which they too referred to asfanom poana.
+I have suggested that these new concerns were the result of a general re-evaluation of modes of power and authority which followed the French conquest of Madagascar. Perhaps the easiest way to understand what happened is to follow the changing meaning of the term fanom poana, usually translated "service," which is used throughout Madagascar to describe the obligations ofsubjects to their rulers and, secondarily, slaves to their masters. In early Imerina, as in most Malagasy kingdoms, obligations to rulers centered on certain ceremonial tasks, particularly the building and rebuilding of royal houses and tombs. But, in principle, such obligations were unlimited; and under the Merina government that ruled most of Madagascar during the nm e teen x h-c en tu x y fanom p oa na was used to justify any number of newly created obligations, including a program offorced labor applied on a massive scale both in the provinces and in Imerina. After the French conquest, colonial authorities continued the use of forced labor, which they too referred to asfanom poana.
 
 In most of Madagascar, the French usage was not taken very seriously. Gillian Feeley-Harnik reports that the Sakalava people of western Madagascar never referred to colonial corvee labor as fanom poana, reserving the term instead for the ritual labor they continued to perform on royal tombs and dwellings. By continuing to carry out these rituals under French rule, she suggests, they were in effect making covert assertions about what they considered legitimate authority to be (Feeley-Harnik 1991: 349).15 In Imerina, what happened was entirely different. There, the meaning off a nompoana had already been broadened before the French arrived to include most of the institutions—church, school, and government— that were soon to become the basis of colonial rule. Most Merina, therefore, seem to have accepted that what the French imposed on them was, indeed, a kind off a nompoana. Certainly, unlike Feeley-Harnik's Sakalava, they still refer to it as such today. The result was that the concept offanom p oa na itself was thoroughly discredited. It came to be thought of not as service but as servitude, as something tantamount to slavery.
 
@@ -2939,7 +2973,7 @@ Madagascar, of course, is no longer a French colony, but these attitudes have by
 
 From here, it's easy to see how the pieces fall together. While something like an ethic of negative authority had long existed in Imerina, during the twentieth century it came to be explicitly framed as the true "Malagasy" ethic and opposed to relations of command, which were increasingly conceived as intrinsically foreign, military, oppressive and unjust. However, such a position was full of obvious contradictions. First of all, everyone was perfectly well aware that Malagasy people did used to treat each other this way: there were once kings, and slaves, and both still had descendants whose typical occupations were not so very different from their ancestors'. More immediately: there is a reason why all languages have imperative forms. It is absurd to imagine a society in which no one ever told anyone else what to do.
 
-Not only was the ideal of negative authority practically impossible; it also created a social world rife with hidden purposes, in which everyone—elders most of all, perhaps—were trying to influence others to do things without being able to fully acknowledge they were doing it. It was in this social environment that people in towns and villages across Imerina began to grow increasingly concerned with the prospect ofwomen enslaving men by means of medicine; with images of people seized by fa n a in <sup>g</sup> a lavitra, compelled to travel to their summoners; with thieves forced to spend the night carrying baskets of manure for their intended victims. Not all of these dangers were identified with women. But many were. Perhaps the most dramatic change, in fact, involved images ofwitches, which during the colonial period became increasingly interwoven with ideas about ody fitia .
+Not only was the ideal of negative authority practically impossible; it also created a social world rife with hidden purposes, in which everyone—elders most of all, perhaps—were trying to influence others to do things without being able to fully acknowledge they were doing it. It was in this social environment that people in towns and villages across Imerina began to grow increasingly concerned with the prospect ofwomen enslaving men by means of medicine; with images of people seized by fa n a in g a lavitra, compelled to travel to their summoners; with thieves forced to spend the night carrying baskets of manure for their intended victims. Not all of these dangers were identified with women. But many were. Perhaps the most dramatic change, in fact, involved images ofwitches, which during the colonial period became increasingly interwoven with ideas about ody fitia .
 
 I should explain here that the term mpamosavy, which I have rendered "witch" or "sorcerer," has always had two somewhat different meanings. On the one hand, it can refer to anyone—archetypically, men— driven by envy, spite, and resentment to harm others by means of medicine. But there are also "witches who go out at night," creatures of absolute depravity who prowled the surroundings of Merina villages after dusk. These were the ul-
 
@@ -3001,9 +3035,9 @@ This was a game in which Merina women were certainly as much players as were men
 
 M anara-m ody, rao-dia, feh itra tra : these are diseases that come with you when arrive here in town. That's why so many young men die on returning home from traveling. And that's why people say "life is the slave of wealth": people know that the distant land is dangerous; but they have to get what others have got, though the pursuit of wealth has to be difficult. "If my eight bones aren't broken! a road others have gone down, yet I can't go? Other people's children have all got rich, I perhaps am the child of an idiot? Do other people's children know how to do something I don't know how to do?" So he gets the money on loan, and when he goes trading, he's bewitched; and when he arrives back, he dies; and his wife and children are enslaved because of the debt he owed to the people here in town (Callet 1908: 106).
 
-- 1 2 The condition, called am balav <sup>e</sup> lon a, was often said to have been used by rejected suitors out of spite. It involved many of the symptoms Vig described— the great strength of the woman, the raving, the fits, the throwing off of clothes in public but it was never thought of as inspiring love. It was merely a means of revenge.
+- 1 2 The condition, called am balav e lon a, was often said to have been used by rejected suitors out of spite. It involved many of the symptoms Vig described— the great strength of the woman, the raving, the fits, the throwing off of clothes in public but it was never thought of as inspiring love. It was merely a means of revenge.
 - 13 Other medicines referred to as "kinds of ody fitia '' included tsy tia m ainty ("to despise," or literally "hate blackly"), which causes enmity to rise up between lovers or spouses, and m anara-m ody ("follows one home"), the ody used by coastal women to kill their Merina lovers and which apparently killed the man with three cows. M anara m ody most considered a form ofwitchcraft pure and simple, and some denied it was a kind of ody fitia at all. In every story of its use I heard about, though, it was used in conjunction with other forms of ody fitia .
-- 14 Even women whose lovers abandoned them on learning they were pregnant would not publicly admit to having used fa n a in <sup>g</sup> a lav itra to bring them back. The only people I found willing to (quietly) admit they had employed it was a married couple who had used it to recover a teenage daughter who had run away from home.
+- 14 Even women whose lovers abandoned them on learning they were pregnant would not publicly admit to having used fa n a in g a lav itra to bring them back. The only people I found willing to (quietly) admit they had employed it was a married couple who had used it to recover a teenage daughter who had run away from home.
 - 15 Something along these lines appears to have happened throughout most of Madagascar during the colonial period; trom ba cults, in which the spirits of ancient kings began to possess the living and demand ritual propitiation, brought royal service even to parts of the island which had never been ruled by kings at all. See Althabe (1969). Here too, fa n om p o a n a rendered to ancient kings became a principle by which people could assert their cultural autonomy in the face of colonial rule.
 
 - 16 I have written of the importance of taboo in my piece on famadihana (Graeber 1995), and in more detail about negative authority in chapter 3 of Lost People (2007).
@@ -3017,7 +3051,7 @@ M anara-m ody, rao-dia, feh itra tra : these are diseases that come with you whe
 
 - 24 Other sources on nineteenth-century witches include James Sibree (1880: 202), Bessie Graham (1883: 62—3), and, again, (Vig 1969: 112—24).
 - 25 "So the brigands and thieves who present themselves to me to be catechized throw away their charms, being persuaded that they will lead them back to their careers as brigands without their being able to resist." Vig (1969: 123—24).
-- 26 Tsy mahazak a an\*Hay h <sup>e</sup> rin 'ila y fa n a fo d y . Unfortunately there is very little literature on witchcraft from the colonial period itself. The one main exception I know of is Mary Danielli's "The Witches of Madagascar" (1947). Danielli's information comes from exactly half way between my two periods, and offers what seems a unique synthesis between the two sets of ideas: there are ody fitia which simply cause love and devotion, Danielli's informants told her, and these women do not become witches; but some love medicine has punitive effects, driving its victims mad or making them violently ill, and it is women who acquire this type of medicine who end up becoming possessed and "going out at night." This seems to be a transitional moment. I never heard anyone say anything of the sort in 1989— 1991.
+- 26 Tsy mahazak a an\*Hay h e rin 'ila y fa n a fo d y . Unfortunately there is very little literature on witchcraft from the colonial period itself. The one main exception I know of is Mary Danielli's "The Witches of Madagascar" (1947). Danielli's information comes from exactly half way between my two periods, and offers what seems a unique synthesis between the two sets of ideas: there are ody fitia which simply cause love and devotion, Danielli's informants told her, and these women do not become witches; but some love medicine has punitive effects, driving its victims mad or making them violently ill, and it is women who acquire this type of medicine who end up becoming possessed and "going out at night." This seems to be a transitional moment. I never heard anyone say anything of the sort in 1989— 1991.
 - 27 Maurice Bloch (1982, 1986). In addition to Elinor Ochs' work, Pier Larson (1995) has contributed important insights into differences in male and female speech.
 - 28 Manja k a ("to rule," nominalized asfanja k anay "government") is in fact the reciprocal of m anom po (to serve, nominalized asfa n om p o a n a ). "To enslave" is m anandevo.
 
@@ -3025,11 +3059,11 @@ M anara-m ody, rao-dia, feh itra tra : these are diseases that come with you whe
 
 #### Althabe, Gerard
 
-1969 Oppression <sup>e</sup> t libe ration dans I'im a <sup>g</sup> in a ire: les com m unaute s villageoises d <sup>e</sup> la cote orien tale d <sup>e</sup> M adagascar. Paris: Maspero.
+1969 Oppression e t libe ration dans I'im a g in a ire: les com m unaute s villageoises d e la cote orien tale d e M adagascar. Paris: Maspero.
 
 #### Andriamanjato, Richard
 
-1957 Le Tsiny <sup>e</sup> t le Tody dans la p en s e e M algache. Paris: Presence Africaine.
+1957 Le Tsiny e t le Tody dans la p en s e e M algache. Paris: Presence Africaine.
 
 ## Bernard-Thierry, S.
 
@@ -3037,10 +3071,10 @@ M anara-m ody, rao-dia, feh itra tra : these are diseases that come with you whe
 
 #### Bloch, Maurice
 
-- 1971 P la <sup>c</sup> in <sup>g</sup> the D ead: Tombs, A ncestral Villages, a n d Kinship Organization in M adagascar. London: Seminar Press.
+- 1971 P la c in g the D ead: Tombs, A ncestral Villages, a n d Kinship Organization in M adagascar. London: Seminar Press.
 - 1982 "Death, Women and Power." In D eath a n d th e R egeneration o f L ife (M. Bloch and J. Parry, eds.). Cambridge: Cambridge University Press.
-- 1986 From Blessing to V iolence: H istory a n d Id eo lo <sup>g</sup> y in the Circum cision Ritual o f the M erina o f M adagascar. Cambridge: Cambridge University Press.
-- 1989 "The Ritual of the Royal Bath in Madagascar: The Dissolution of Death, Birth, and Fertility into Authority." In Ritual, H istory a n d P ow <sup>e</sup> r: S <sup>e</sup> le <sup>c</sup> ted Papers in A nthropology. London: Athlone Press.
+- 1986 From Blessing to V iolence: H istory a n d Id eo lo g y in the Circum cision Ritual o f the M erina o f M adagascar. Cambridge: Cambridge University Press.
+- 1989 "The Ritual of the Royal Bath in Madagascar: The Dissolution of Death, Birth, and Fertility into Authority." In Ritual, H istory a n d P ow e r: S e le c ted Papers in A nthropology. London: Athlone Press.
 
 ## Callet, R. P.
 
@@ -3068,7 +3102,7 @@ I9 4 7 "The Witches of Madagascar," Folk lore 58: 261—76.
 
 ## Feeley-Harnik, Gillian
 
-1991 A Green Estate: Restoring In d ep en d en <sup>c</sup> <sup>e</sup> in M adagascar. Washington: Smithsonian
+1991 A Green Estate: Restoring In d ep en d en c e in M adagascar. Washington: Smithsonian
 
 ## Fremigacci, Jean
 
@@ -3086,7 +3120,7 @@ I9 4 7 "The Witches of Madagascar," Folk lore 58: 261—76.
 
 1996 "Beads and Money: Notes Toward a Theory of Wealth and Power." A merican Ethnologist, 23: 1—36.
 
-20 07 L ost People: M a <sup>g</sup> ica n d the L egacy o fS la v <sup>e</sup> ry in M adagascar. Bloomington: University of Indiana Press.
+20 07 L ost People: M a g ica n d the L egacy o fS la v e ry in M adagascar. Bloomington: University of Indiana Press.
 
 ## Haile, John
 
@@ -3112,11 +3146,11 @@ I9 4 7 "The Witches of Madagascar," Folk lore 58: 261—76.
 
 ## Raison, Jean-Pierre,
 
-1984 Les Hautes Terres d <sup>e</sup> M adagascar <sup>e</sup> t leurs Confins O ccidentau x : en ra <sup>c</sup> in em en t <sup>e</sup> t m ob ility des societes rurales. Paris: Karthala.
+1984 Les Hautes Terres d e M adagascar e t leurs Confins O ccidentau x : en ra c in em en t e t m ob ility des societes rurales. Paris: Karthala.
 
 ## Renel, Charles
 
-1915 "Les amulettes malgaches, Ody et Sampy." In Bulletin d <sup>e</sup> la A cadem ie M algache, (n.s) 2: 29-281.
+1915 "Les amulettes malgaches, Ody et Sampy." In Bulletin d e la A cadem ie M algache, (n.s) 2: 29-281.
 
 ## Ruud, Jorgen
 
@@ -3132,11 +3166,11 @@ I960 Taboo: A Study o f M alagasy Beliefs a n d Customs. New York: Humanities Pr
 
 ## Skeat, Walter
 
-1900 M alay M a <sup>g</sup> ic : B <sup>e</sup> in <sup>g</sup> an In tro d uc tion to the Folk lore a n d Popular Religion o f the M alay Peninsula. London: Macmillan and Co.
+1900 M alay M a g ic : B e in g an In tro d uc tion to the Folk lore a n d Popular Religion o f the M alay Peninsula. London: Macmillan and Co.
 
 ## Vig, Lars
 
-1969 Charmes: Specim ens d <sup>e</sup> M agie M algache. Oslo: Universitetsforlagets Trykningssentral.
+1969 Charmes: Specim ens d e M agie M algache. Oslo: Universitetsforlagets Trykningssentral.
 
 In Malagasy there is a word, tsindriana, that means "oppressed." The literal definition is "to be pressed down, crushed by a heavy weight." Used in a political context, it means to suffer under some kind of unjust power or authority.
 
@@ -3341,13 +3375,13 @@ D a v id : So it's the second person who...
 
 R am o se : It's the second who's acting strangely, who's speaking without making any sense, who's ripping their clothes off...
 
-D a v id : But is this really a second p <sup>e</sup> rso n , or is it...?
+D a v id : But is this really a second p e rso n , or is it...?
 
 R am o se : It's an evil spirit. The soul of someone who has died, which frightens them. It appears as a snake, as a ferocious human, as a hostile ghost...
 
 Chantal'. And is that what makes them so strong?
 
-R am <sup>o</sup> se : And that's what makes them so strong— because a girl with a m b a la v <sup>e</sup> lo n a has the strength offive men. Her strength is truly remarkable.25
+R am o se : And that's what makes them so strong— because a girl with a m b a la v e lo n a has the strength offive men. Her strength is truly remarkable.25
 
 I was completely confused. At first I assumed it must be a language problem. I must have been missing something. It was only the next day, after having transcribed the tape and satisfied myself that what he was saying was really as contradictory as it sounded, that I brought up the matter again. It's confusing, I said. Sometimes, it sounds as if these victims were conscious, struggling with the ghost. At others, it's as if their minds were entirely efOPPRESSION 2 7 7
 
@@ -3461,7 +3495,7 @@ sible. It could only rest on a commitment to carry on the conversation in a way 
 
 #### E n d n o t e s
 
-- 1 Pretty much all major European languages have a term paralleling the English "to oppress." A fairly superficial examination of dictionaries, and consultations with a few fluent or native speakers, and leaving out those languages using characters or diacritics too difficult to reproduce (such as say Thai or Arabic), adds Albanian {studjoj rendshem , shtyp) Basque (.zapalk eta), Biblical Hebrew (;tahan, lit. "to grind down, to oppress"), Chinese {yb m in), Coptic (tm tm , xa OxO), Finnish {ahdistaa), Ganda (zito ow <sup>e</sup> r <sup>e</sup> rw a ), Gurarani (jo p y ), Hawaiian {kaumaha, koikoi), Hittite {siyyaizzi, siyezzi, siyait), Japanese osaetsuk eru, yo k u a tsu su r, Malay-Indonesian (te k an, m am eras, tindas, £z'Wz^),Mongolian { darulal(ta) / daruldug-a), Nepali {thichnu), Nuer (m ieet), Paiwan {q / m / ezetj)y Persian (sark oob, lit. "head pressed down"), Quechua (nitiy), Sanskrit { avapidita), Shona (u d z vin yiriri), Somali { cadaadid), Tamil (neruk ku / neruk kam and other constructions from the root neriy also Dravidian are-puni, arepini, are yuni, are vu n , "to grind down or oppress"), Tswana (patik ega), Turkish (baski, ezme k ), Tuscarora (turiye ), Vietnamese {de nang, su dkn dp), and Zulu { cinde zela). The apparent exceptions are interesting in themselves: Native North American and Australian languages, for example, do not seem generally to have terms glossed "oppression" of any sort. Nor do most spoken by traditionally stateless peoples. African languages are a mix: in Africa words translated "oppression" in dictionaries appear about equally likely to come from terms for injustice or humiliation than "pressure downwards."
+- 1 Pretty much all major European languages have a term paralleling the English "to oppress." A fairly superficial examination of dictionaries, and consultations with a few fluent or native speakers, and leaving out those languages using characters or diacritics too difficult to reproduce (such as say Thai or Arabic), adds Albanian {studjoj rendshem , shtyp) Basque (.zapalk eta), Biblical Hebrew (;tahan, lit. "to grind down, to oppress"), Chinese {yb m in), Coptic (tm tm , xa OxO), Finnish {ahdistaa), Ganda (zito ow e r e rw a ), Gurarani (jo p y ), Hawaiian {kaumaha, koikoi), Hittite {siyyaizzi, siyezzi, siyait), Japanese osaetsuk eru, yo k u a tsu su r, Malay-Indonesian (te k an, m am eras, tindas, £z'Wz^),Mongolian { darulal(ta) / daruldug-a), Nepali {thichnu), Nuer (m ieet), Paiwan {q / m / ezetj)y Persian (sark oob, lit. "head pressed down"), Quechua (nitiy), Sanskrit { avapidita), Shona (u d z vin yiriri), Somali { cadaadid), Tamil (neruk ku / neruk kam and other constructions from the root neriy also Dravidian are-puni, arepini, are yuni, are vu n , "to grind down or oppress"), Tswana (patik ega), Turkish (baski, ezme k ), Tuscarora (turiye ), Vietnamese {de nang, su dkn dp), and Zulu { cinde zela). The apparent exceptions are interesting in themselves: Native North American and Australian languages, for example, do not seem generally to have terms glossed "oppression" of any sort. Nor do most spoken by traditionally stateless peoples. African languages are a mix: in Africa words translated "oppression" in dictionaries appear about equally likely to come from terms for injustice or humiliation than "pressure downwards."
 - 2 I am, of course, hardly the first to discuss these dilemmas. For some analogous reflections from a feminist perspective, see Hodgson 1999, and Jackson 1995. Others have made similar points regarding postmodern forms of relativism: so, Maschia-Lees, Sharpe and Cohen (1989: 27) cite Nancy Cott's remark that a feminist approach, motivated by a political project to oppose the oppression of women, is difficult to maintain if one deconstructs the very category of "oppression"— or even "women."
 - 3 This also raises the perhaps even more thorny problem of who "we" are, but I will leave this to be addressed, at least briefly, in the essay "There Never Was a West," below.
 
@@ -3479,10 +3513,10 @@ sible. It could only rest on a commitment to carry on the conversation in a way 
 - 12 One might hazard the following formulation: the production of objects and words are the domain of andrian a; carrying and construction that of the hova; to the M ainty E nin-Dreny, in their capacity as royal warriors, is relegated the sphere of destruction.
 - 13 Sources sometimes substitute "digging red earth" (m ihady ta n im en a )y in an obvious allusion to the task of "digging red earth" for royal tombs, mentioned above.
 - 14 This follows the same order as the list given by Standing (1887: 358), though I left out Standing's fifth category (building and maintaining roads and bridges) since it does not appear in any Malagasy-language account. For evocations of the standard list in nineteenth-century legal cases, see National Archives IIICC 365 f3: 111—112; IIICC37 f2 (Ambohitrimanjaka 1893). For standard lists of exemptions in the Tantara ny A ndriana, a collection of Malagasy histories, see Callet 1908: 411 (Andriamamilaza), and 545 (Antehiroka). See also, entries in the Firak etana (an early twentieth-century Malagasy encyclopedia— Ravelojaona, Randzavola, Rajaona 1937) for Ambohibato, Ambohimalaza, Ambohimirimo, Andriana, and Antsahadinta.
-- 15 They were referred to in royal documents as a lin jin <sup>e</sup> ra y or "engineers."
+- 15 They were referred to in royal documents as a lin jin e ra y or "engineers."
 - 16 Traditionally these things are gendered: women carry objects on the head or hips; men on the back or shoulders.
 - 17 In fact, as I have argued at length elsewhere (Graeber 1995), these ceremonies ultimately have the effect of infantilizing the ancestors and treating them, in turn, like small children. I should also note that my discussion of mutual obligations of "carrying" owe most of their insight to discussions of the subject with Jennifer Cole, whose work with the Betsimisaraka people of Ambodiharina brought out these issues much more clearly than my own.
-- 18 Lambek's book The W eight o f th <sup>e</sup> Past (2002) contains a detailed analysis of parallel idioms in a rather different social and political context among the Sakalava of Madagascar's west coast.
+- 18 Lambek's book The W eight o f th e Past (2002) contains a detailed analysis of parallel idioms in a rather different social and political context among the Sakalava of Madagascar's west coast.
 - 19 Not that the more familiar sort ofsymbolism was entirely absent (see Bloch 1986). A common expression was "the king is father to the people but the people are both father and mother to the king."
 - 20 Domenichini argues that such groups had a ziva or "joking relation" with the crown. See Hebert 1958.
 - 21 In the royal case, even baggage being carried for the Queen in a sense participated in the Queen's presence or anyway esteem. Royal carriers, even those carrying jars of water to the palace, were proceeded by a man bearing a spear warning all on the roads before it to make way, step to the side, and remove their hats as a gesture of respect just as they would if the Queen herself were passing.
@@ -3546,11 +3580,11 @@ R: Izay no mampatanjaka azy io—fa ankizivavy iray voan'ny Ambalavelona no mana
 
 #### Althabe, Gerard
 
-1969 Oppression <sup>e</sup> t libe ration dans T im agin aire: les com m unaute s villageoises d <sup>e</sup> la cote orien tale d <sup>e</sup> M adagascar. Paris: Maspero.
+1969 Oppression e t libe ration dans T im agin aire: les com m unaute s villageoises d e la cote orien tale d e M adagascar. Paris: Maspero.
 
 ## Barth, Frederick
 
-1969 E thnic Groups a n d Boundaries: The So <sup>c</sup> ia l Organization o f Culture D iffe rence. Bergen: Universitetsforlaget.
+1969 E thnic Groups a n d Boundaries: The So c ia l Organization o f Culture D iffe rence. Bergen: Universitetsforlaget.
 
 ## Berg, Gerald
 
@@ -3558,11 +3592,11 @@ R: Izay no mampatanjaka azy io—fa ankizivavy iray voan'ny Ambalavelona no mana
 
 ## Bloch, Maurice
 
-- 1971 P la <sup>c</sup> in <sup>g</sup> the D ead: Tombs, A ncestral Villages, a n d Kinship Organization in M adagascar. London: Seminar Press.
+- 1971 P la c in g the D ead: Tombs, A ncestral Villages, a n d Kinship Organization in M adagascar. London: Seminar Press.
 - 1977 "The Disconnection between Power and Rank as a Process: An Outline of the Development of Kingdoms in Central Madagascar." E uropean J o u rn a l o f Sociology vol. 18: 303-330.
-- 1986a From Blessing to V iolence: H istory a n d Id eo lo <sup>g</sup> y in the Circum cision Ritual o ft h <sup>e</sup> M erina o f M adagascar. Cambridge: Cambridge University Press.
+- 1986a From Blessing to V iolence: H istory a n d Id eo lo g y in the Circum cision Ritual o ft h e M erina o f M adagascar. Cambridge: Cambridge University Press.
 - 1986b "Hierarchy and Equality in Merina Kinship." In M adagascar: Socie ty a n d H istory (C. P. Kottak, J.-A. Rakotoarisoa, A. Southall and P. Verin, eds.) Durham: Carolina Academic Press.
-- 1989 "The Ritual of the Royal Bath in Madagascar: The Dissolution of Death, Birth, and Fertility into Authority." In Ritual, H istory a n d P ow <sup>e</sup> r: S <sup>e</sup> le <sup>c</sup> ted Papers in A nthropology. London: Athlone Press.
+- 1989 "The Ritual of the Royal Bath in Madagascar: The Dissolution of Death, Birth, and Fertility into Authority." In Ritual, H istory a n d P ow e r: S e le c ted Papers in A nthropology. London: Athlone Press.
 
 ## Cabanes, Robert
 
@@ -3598,12 +3632,12 @@ Fomba Gasy. (H. Randzavola, ed.) Tananarive: Imarivolanitra.
 
 ## Domenichini, Jean-Pierre, and Bakoly Domenichini-Ramiaramanana
 
-- 1980 "Regards croises sur les grands Sycomores, ou l'armee noire des anciens princes d'Imerina." A sie d u SudE st <sup>e</sup> t M o n d <sup>e</sup> Insulindien XI (1—4): 55—95.
+- 1980 "Regards croises sur les grands Sycomores, ou l'armee noire des anciens princes d'Imerina." A sie d u SudE st e t M o n d e Insulindien XI (1—4): 55—95.
 - 1982 Aspects de l'esclavage sous la monarchie merina. Omaly sy A nio 15: 53—98.
 
 #### Domenichini-Ramiaramanana, Bakoly
 
-1983 Du ohabolana au h a inten y : langue, litte rature <sup>e</sup> t p o litiq u <sup>e</sup> h M adagascar. Paris: Karthala.
+1983 Du ohabolana au h a inten y : langue, litte rature e t p o litiq u e h M adagascar. Paris: Karthala.
 
 ## OPPRESSION 2 9 7
 
@@ -3618,7 +3652,7 @@ Fomba Gasy. (H. Randzavola, ed.) Tananarive: Imarivolanitra.
 - 1995 "Dancing with Corpses Reconsidered: an Interpretation of Famadihana in Arivonimamo, (Madagascar)" A merican E thnologist 22 (2): 258—278.
 - 1996 "Love Magic and Political Morality in Central Madagascar, 1875—1990." Gender a n d History 8 (3): 416—439.
 - 1997 "Manners, Deference and Private Property" Com parative Studies in Society a n d H istory 39 (4): 694—728.
-- 2007 Lost People: M a <sup>g</sup> ic a n d the L egacy o f Slavery in M adagascar. Bloomington: Indiana University Press.
+- 2007 Lost People: M a g ic a n d the L egacy o f Slavery in M adagascar. Bloomington: Indiana University Press.
 
 #### Haile, John
 
@@ -3626,7 +3660,7 @@ Fomba Gasy. (H. Randzavola, ed.) Tananarive: Imarivolanitra.
 
 ## Hebert, Jean-Claude
 
-1958 "La parente a plaisanterie a Madagascar." B ulle tin d <sup>e</sup> I'A cadem ie M alg ach <sup>e</sup> , mars 1958, 142, pp. 175-217, avril 1958, 143, pp. 267-33.
+1958 "La parente a plaisanterie a Madagascar." B ulle tin d e I'A cadem ie M alg ach e , mars 1958, 142, pp. 175-217, avril 1958, 143, pp. 267-33.
 
 ## Hocart, A. M.
 
@@ -3640,7 +3674,7 @@ Fomba Gasy. (H. Randzavola, ed.) Tananarive: Imarivolanitra.
 
 #### Houlder, J. A.
 
-1915 Ohabolana, or, M alagasy p ro v <sup>e</sup> rb s: illu stratin <sup>g</sup> the w it a n d wisdom o f the H ova o f M adagascar. Faravohitra: Friends' Foreign Missionary Association.
+1915 Ohabolana, or, M alagasy p ro v e rb s: illu stratin g the w it a n d wisdom o f the H ova o f M adagascar. Faravohitra: Friends' Foreign Missionary Association.
 
 ## Jackson, Jean
 
@@ -3648,7 +3682,7 @@ Fomba Gasy. (H. Randzavola, ed.) Tananarive: Imarivolanitra.
 
 ## Jully, Antony
 
-1899 "Croyances et pratiques superstitieuses chez les Merinas ou Hoves" Revue d <sup>e</sup> M adagascar tome 1 (October 1899): 311—328.
+1899 "Croyances et pratiques superstitieuses chez les Merinas ou Hoves" Revue d e M adagascar tome 1 (October 1899): 311—328.
 
 #### Lambek, Michael
 
@@ -3656,7 +3690,7 @@ Fomba Gasy. (H. Randzavola, ed.) Tananarive: Imarivolanitra.
 
 #### Larson, Pier
 
-2000 H istory a n d M em ory in the A ge o f E nslavem ent: B <sup>e</sup> com in <sup>g</sup> M erina in H ighland M adagascar, 1770—1822 (Social History of Africa). Portsmouth: Heinemann.
+2000 H istory a n d M em ory in the A ge o f E nslavem ent: B e com in g M erina in H ighland M adagascar, 1770—1822 (Social History of Africa). Portsmouth: Heinemann.
 
 ## Maschia-Lees, Frances, Patricia Sharpe, Colleen Ballerino Cohen,
 
@@ -3664,7 +3698,7 @@ Fomba Gasy. (H. Randzavola, ed.) Tananarive: Imarivolanitra.
 
 #### Mayeur, Nicolas
 
-1913 "Voyage au pays d'Ancove, outremente dite des hovas (1777)" B ulletin d <sup>e</sup> la A cadem ie M algache 12 (1): 139—176.
+1913 "Voyage au pays d'Ancove, outremente dite des hovas (1777)" B ulletin d e la A cadem ie M algache 12 (1): 139—176.
 
 #### Quigley, Declan
 
@@ -3672,11 +3706,11 @@ Fomba Gasy. (H. Randzavola, ed.) Tananarive: Imarivolanitra.
 
 ## Radimilahy, C., S. Andriamampianina, S. Blanchy, J.-A. Rakotoarisoa, and S. Razafimahazo,
 
-2006 "Lieux de culte autochtonea Antananarivo" In L <sup>e</sup> d ieu x a u s <sup>e</sup> r v ic <sup>e</sup> d u p eu p le (Sophie Blanchy, Jean-Aime Rakotoarisoa, Philippe Beaujard, and Chantal Radimilahy, eds.). Paris: Karthala.
+2006 "Lieux de culte autochtonea Antananarivo" In L e d ieu x a u s e r v ic e d u p eu p le (Sophie Blanchy, Jean-Aime Rakotoarisoa, Philippe Beaujard, and Chantal Radimilahy, eds.). Paris: Karthala.
 
 ## Raison, Fran^oise
 
-1976 "Les Ramanenjana: une mise en cause populaire du christianisme en Imerina, 1863." A sie d u su d -e st <sup>e</sup> t le m o n d <sup>e</sup> in sulindien VII (ii-iii): 271—93
+1976 "Les Ramanenjana: une mise en cause populaire du christianisme en Imerina, 1863." A sie d u su d -e st e t le m o n d e in sulindien VII (ii-iii): 271—93
 
 ## Raombana n.d. A nnales. Manuscript preserved in the archives of the Academie Malgache, Antananarivo.
 
@@ -3686,7 +3720,7 @@ Fomba Gasy. (H. Randzavola, ed.) Tananarive: Imarivolanitra.
 
 ## Ravelojaona, Randzavola, Rajaona,
 
-1937 Fira k etana ny fit <sup>e</sup> n y sy zavatra M alagasy. Tananarive: Imprimerie Industrielle.
+1937 Fira k etana ny fit e n y sy zavatra M alagasy. Tananarive: Imprimerie Industrielle.
 
 ## Ratrimoharinosy, Helene
 
@@ -3712,11 +3746,11 @@ I960 Taboo: A Study o f M alagasy Beliefs a n d Customs. New York: Humanities Pr
 
 1880 M adagascar: the Great A frican Island. London: Trubner & Co.
 
-1896 M adagascar B efo re the Conquest: The Island, the Country, a n d th <sup>e</sup> People. London: T. Fisher Unwin.
+1896 M adagascar B efo re the Conquest: The Island, the Country, a n d th e People. London: T. Fisher Unwin.
 
 ## Sperber, Dan
 
-1985 On A nthropological K n ow led <sup>g</sup> e: Three Essays. New York: Cambridge University Press.
+1985 On A nthropological K n ow led g e: Three Essays. New York: Cambridge University Press.
 
 ## Standing, Herbert F.
 
@@ -3730,7 +3764,7 @@ I960 Taboo: A Study o f M alagasy Beliefs a n d Customs. New York: Humanities Pr
 
 #### Whitaker, Mark P.
 
-1996 "Relativism." In E ncyclopedia o f S o <sup>c</sup> ia l a n d Cultural A nthropology (Alan Barnard & Jonathan Spencereds.) London: Routledge.
+1996 "Relativism." In E ncyclopedia o f S o c ia l a n d Cultural A nthropology (Alan Barnard & Jonathan Spencereds.) London: Routledge.
 
 ## PART III
 
@@ -3920,7 +3954,7 @@ It has become popular, of course, to say that it is, to talk as if the growth of
 
 On the other hand, the decline of the "Chinese model" has allowed phenomena to reemerge which would have looked, just fifty years ago, bizarrely antiquated: e.g., new zones of permanent low-intensity warfare, such as were typical of part of Renaissance Europe; the rise of mercantile city-states; the reemergence of essentially feudal relations starting in much of the former Communist world; the parcelization of sovereignty, whereby the elements we have come to think of as naturally combined in the state are instead broken up and distributed to different institutions on totally different geographical scales. A merchant in medieval Antwerp for example had to deal with the local government, criminal law, property law, and religious (what we'd now call "social") law all invested in radically different entities: a local feudal lord, the Pope, the Emperor. A merchant in contemporary Antwerp finds himself increasingly in much the same situation, even if the entities are now local government, the EU, and the WTO. Some even speak of "neo-Medievalism." Admittedly, this is a somewhat eccentric view, and it might well turn out to be completely misconceived. I am throwing it out mainly to illustrate the sort of theorizing that is currently both very much called for and largely absent.
 
-Even the emphasis on those things which genuinely are new about the present moment—the emergence of a virtual sphere, as it's sometimes called—is difficult to theorize outside a larger historical context, which we probably won't really have until generations in the future. Industrial civilization has been around for such a brief moment of historical time that it's very difficult to perceive patterns in its development. Let me throw in one last question here, though one that strikes me as very significant, though for some reason, almost never actually discussed. Is the current character of "globalization" the product of an unprecedented technological moment, or is it the result of a temporary slowing and involution of technological development? We seem to assume as a matter of course that technology is always leaping ahead in fundamental ways. It's not clear, of course, whether there can be said to be an objective measure in such matters. But I think it is possible at least to talk about the realization of popular expectations. In terms of cultural attitudes at least, it seems to me that the real difference between the first and second halves of the twentieth century is that while almost all the technologies children in 1900 imagined would exist by 1950, that were the stuff of science fiction at the time—radios, airplanes, organ transplants, space rockets, skyscrapers, moving pictures, etc— did in fact come into being more or less on schedule, pretty much none of the ones children born in 1950 or I960 imagined would exist by 2000 (anti-gravity sleds, teleportation, force fields, cloning, death-rays, interplanetary travel, personal robot attendants) ever came about. It would be easy to imagine, when observing the crude special effects of 1950s science fiction movies, that their makers would be quite impressed by the remarkable effects of their contemporary equivalents. But, in reality, they almost certainly would not. Science fiction movies of the 1950s were often set in the year 2000. They assumed we'd be d o in <sup>g</sup> these things by now—actually exploring distant galaxies, not just developing ever more impressive ways to simulate it. Where, in earlier generations, science fiction projections seemed to regularly become reality a generation later, now they remain trapped on the screen—even if the screen images look increasingly realistic.
+Even the emphasis on those things which genuinely are new about the present moment—the emergence of a virtual sphere, as it's sometimes called—is difficult to theorize outside a larger historical context, which we probably won't really have until generations in the future. Industrial civilization has been around for such a brief moment of historical time that it's very difficult to perceive patterns in its development. Let me throw in one last question here, though one that strikes me as very significant, though for some reason, almost never actually discussed. Is the current character of "globalization" the product of an unprecedented technological moment, or is it the result of a temporary slowing and involution of technological development? We seem to assume as a matter of course that technology is always leaping ahead in fundamental ways. It's not clear, of course, whether there can be said to be an objective measure in such matters. But I think it is possible at least to talk about the realization of popular expectations. In terms of cultural attitudes at least, it seems to me that the real difference between the first and second halves of the twentieth century is that while almost all the technologies children in 1900 imagined would exist by 1950, that were the stuff of science fiction at the time—radios, airplanes, organ transplants, space rockets, skyscrapers, moving pictures, etc— did in fact come into being more or less on schedule, pretty much none of the ones children born in 1950 or I960 imagined would exist by 2000 (anti-gravity sleds, teleportation, force fields, cloning, death-rays, interplanetary travel, personal robot attendants) ever came about. It would be easy to imagine, when observing the crude special effects of 1950s science fiction movies, that their makers would be quite impressed by the remarkable effects of their contemporary equivalents. But, in reality, they almost certainly would not. Science fiction movies of the 1950s were often set in the year 2000. They assumed we'd be d o in g these things by now—actually exploring distant galaxies, not just developing ever more impressive ways to simulate it. Where, in earlier generations, science fiction projections seemed to regularly become reality a generation later, now they remain trapped on the screen—even if the screen images look increasingly realistic.
 
 In the late 1960s, Alvin Toffler wrote a book called Future Shoc k in which he pointed out that in every recent decade, the fastest speed at which it was possible for human beings to travel had at least doubled, and that, taken over a longer time span, it appeared to be rising geometrically. Could conquest of the stars be far away? He proved an atrocious prophet. In fact, the top speed at which it was possible for human beings to travel stopped increasing almost the moment the book came out and has not changed since. True,
 
@@ -3969,7 +4003,7 @@ In the above, I have sketched out some very preliminary thoughts on what such a 
 
 #### E n d n o t e s
 
-1 This paper was originally presented at a conference in Paris between the 12th and 14th of June 2003, entitled Perspectives d 'u ne theorie soc iolog iq ue <sup>g</sup> en <sup>e</sup> ra te h I'e re d <sup>e</sup> la m ondialisation (Perspectives on a General Sociological Theory in the Era of Globalization), sponsored by Alain Caille of the MAUSS group. The conference was intended as a kind of summit of social theorists, attended by such luminaries as Margaret Archer, Raymond Boudon, Shmuel Eisenstadt, Bruno Latour, Hans Joas, Anne Rawls, Saskia Sassen, and Alain Touraine. Inviting me was very much an act of generosity on Caille's part and I still greatly appreciate it. The essays from the conference were later published in Revue du MAUSS Semestrielle, all without footnotes or bibliography. I have decided here to preserve it in its original form. The first part of the title is the one chosen for the piece by the French editors (Alain
+1 This paper was originally presented at a conference in Paris between the 12th and 14th of June 2003, entitled Perspectives d 'u ne theorie soc iolog iq ue g en e ra te h I'e re d e la m ondialisation (Perspectives on a General Sociological Theory in the Era of Globalization), sponsored by Alain Caille of the MAUSS group. The conference was intended as a kind of summit of social theorists, attended by such luminaries as Margaret Archer, Raymond Boudon, Shmuel Eisenstadt, Bruno Latour, Hans Joas, Anne Rawls, Saskia Sassen, and Alain Touraine. Inviting me was very much an act of generosity on Caille's part and I still greatly appreciate it. The essays from the conference were later published in Revue du MAUSS Semestrielle, all without footnotes or bibliography. I have decided here to preserve it in its original form. The first part of the title is the one chosen for the piece by the French editors (Alain
 
 ## 3 28 POSSIBILITIES
 
@@ -4100,7 +4134,7 @@ The founders of the modern electoral systems in the United States and France wer
 
 In the English-speaking world, for example, most educated people in the late eighteenth century were familiar with Athenian democracy largely through a translation of Thucydides by Thomas Hobbes. Their conclusion, that democracy was unstable, tumultuous, prone to factionalism and demagoguery, and marked by a strong tendency to turn into despotism, was hardly surprising.
 
-Most politicians, then, were hostile to anything that smacked of democracy precisely because they saw themselves as heirs to what we now call "the Western tradition." The ideal of the Roman republic was enshrined, for example, in the American constitution, whose framers were quite consciously trying to imitate Rome's "mixed constitution," balancing monarchical, aristocratic, and democratic elements. John Adams, for example, in his Defense o ft h <sup>e</sup> Constitution (1797) argued that truly egalitarian societies do not exist; that every known human society has a supreme leader, an aristocracy (whether of wealth or a "natural aristocracy" of virtue), and a public, and that the Roman Constitution was the most perfect in balancing the powers of each. The American constitution was meant to reproduce this balance by creating a powerful presidency, a senate to represent the wealthy, and a congress to represent the people— though the powers of the latter were largely limited to ensuring popular control over the distribution of tax money. This republican ideal lies at the basis of all "democratic" constitutions and to this day many conservative thinkers in America like to point out that "America is not a democracy: it's a republic."
+Most politicians, then, were hostile to anything that smacked of democracy precisely because they saw themselves as heirs to what we now call "the Western tradition." The ideal of the Roman republic was enshrined, for example, in the American constitution, whose framers were quite consciously trying to imitate Rome's "mixed constitution," balancing monarchical, aristocratic, and democratic elements. John Adams, for example, in his Defense o ft h e Constitution (1797) argued that truly egalitarian societies do not exist; that every known human society has a supreme leader, an aristocracy (whether of wealth or a "natural aristocracy" of virtue), and a public, and that the Roman Constitution was the most perfect in balancing the powers of each. The American constitution was meant to reproduce this balance by creating a powerful presidency, a senate to represent the wealthy, and a congress to represent the people— though the powers of the latter were largely limited to ensuring popular control over the distribution of tax money. This republican ideal lies at the basis of all "democratic" constitutions and to this day many conservative thinkers in America like to point out that "America is not a democracy: it's a republic."
 
 On the other hand, as John Markoff notes, "those who called themselves democrats at the tail end of the eighteenth century were likely to be very suspicious of parliaments, downright hostile to competitive political parties, critical of secret ballots, uninterested or even opposed to women's suffrage, and sometimes tolerant of slavery" (1999: 661)—again, hardly surprising, for those who wished to revive something along the lines of ancient Athens.
 
@@ -4128,7 +4162,7 @@ defeated it militarily, imposed a commercially advantageous treaty, and then, al
 
 In sum, Huntington's claim that Western civilization is the bearer of a heritage of liberalism, constitutionalism, human rights, equality, liberty, the rule oflaw, democracy, free markets, and other similarly attractive ideals— all of which are said to have permeated other civilizations only superficially— rings false to anyone fam iliar with the Western record in Asia in the so-called age of nation-states. In this long list of ideals, it is hard to find a single one that was not denied in part or full by the leading Western powers of the epoch in their dealings either with the peoples they subjected to direct colonial rule or with the governments over which they sought to establish suzerainty. And conversely, it is just as hard to find a single one of those ideals that was not upheld by movements of national liberation in their struggle against the Western powers. In upholding these ideals, however, non-Western peoples and governments invariably combined them with ideals derived from their own civilizations in those spheres in which they had little to learn from the West (Arrighi, Ahmad and Shih 1997: 25).
 
-Actually, I think one could go much further. Opposition to European expansion in much of the world, even quite early on, appears to have been carried out in the name of "Western values" that the Europeans in question did not yet even have. Engseng Ho (2004: 222—24) for example draws our attention to the first known articulation of the notion of jihad against Europeans in the Indian Ocean, a book called Gift <sup>o</sup> ft h <sup>e</sup> J ih a d Warriors in M atters Regarding the Portuguese, written in 1574 by an Arab jurist named Zayn al-Din al Malibari and addressed to the Muslim sultan of the Deccan state of Bijapur. In it, the author makes a case that it is justified to wage war again the Portuguese specifically because they destroyed a tolerant, pluralistic society in which Muslims, Hindus, Christians and Jews had always managed to coexist.
+Actually, I think one could go much further. Opposition to European expansion in much of the world, even quite early on, appears to have been carried out in the name of "Western values" that the Europeans in question did not yet even have. Engseng Ho (2004: 222—24) for example draws our attention to the first known articulation of the notion of jihad against Europeans in the Indian Ocean, a book called Gift o ft h e J ih a d Warriors in M atters Regarding the Portuguese, written in 1574 by an Arab jurist named Zayn al-Din al Malibari and addressed to the Muslim sultan of the Deccan state of Bijapur. In it, the author makes a case that it is justified to wage war again the Portuguese specifically because they destroyed a tolerant, pluralistic society in which Muslims, Hindus, Christians and Jews had always managed to coexist.
 
 In the Muslim trading ecumene of the Indian Ocean, some of Huntington's values—a certain notion of liberty, a certain notion of equality, some very explicit ideas about freedom of trade and the rule of law—had long been considered important; others, such as religious tolerance, might well have become values as a result of Europeans coming onto the scene—if only by point of contrast. My real point is that one simply cannot lay any of these values down to the one particular moral, intellectual or cultural tradition. They arise, for better or worse, from exactly this sort of interaction.
 
@@ -4186,7 +4220,7 @@ At a certain point in time, however, first in the core states of the Atlantic sy
 
 Actually, I would suggest that this process of democratic recuperation and refoundation was typical of a broader process that probably marks any civilizational tradition, but was then entering a phase of critical intensity. As European states expanded and the Atlantic system came to encompass the world, all sorts of global influences appear to have coalesced in European capitals, and to have been reabsorbed within the tradition that eventually came to be known as "Western." The actual genealogy of the elements that came together in the modern state, for example, is probably impossible to reconstruct—if only because the very process of recuperation tends to scrub away the more exotic elements in written accounts, or if not, integrate them into familiar topoi of invention and discovery. Historians, who tend to rely almost exclusively on texts and pride themselves on exacting standards of evidence, therefore, often end up, as they did with the Iroquois influence theory, feeling it their professional responsibility to act as if new ideas do emerge from within textual traditions. Let me throw out two examples:
 
-A frican fetishism a n d the idea o f the so <sup>c</sup> ia l contract. The Atlantic system, of course, began to take form in West Africa even before Columbus sailed to America. In a fascinating series of essays, William Pietz (1985, 1987, 1988) has described the life of the resulting coastal enclaves where Venetian, Dutch, Portuguese, and every other variety of European merchant and adventurer cohabited with African merchants and adventurers speaking dozens of different languages, a mix of Muslim, Catholic, Protestant, and a variety of ancestral religions. Trade, within these enclaves, was regulated by objects the Europeans came to refer to as "fetishes," and Pietz does much to elaborate the European merchants' theories of value and materiality to which this notion ultimately gave rise. More interesting, perhaps, is the African perspective. Insofar as it can be reconstructed, it appears strikingly similar to the kind of social contract theories developed by men like Thomas Hobbes in Europe at the same time (Mac Gaffey 1994, Graeber 2005). Essentially, fetishes were created by a series of contracting parties who wished to enter into ongoing economic relations with one another, and were accompanied by agreements on property rights and the rules of exchange; those violating them were to be destroyed by the objects' power. In other words, just as in Hobbes, social relations are created when a group of men agreed to create a sovereign power to threaten them with violence if they failed to respect their property rights and contractual obligations. Later, African texts even praised the fetish as preventing a war of all against all. Unfortunately, it's completely impossible to find evidence that Hobbes was aware of any of this: he lived most of his life in a port town and very likely had met traders familiar with such customs; but his political works contain no references to the African continent whatever.
+A frican fetishism a n d the idea o f the so c ia l contract. The Atlantic system, of course, began to take form in West Africa even before Columbus sailed to America. In a fascinating series of essays, William Pietz (1985, 1987, 1988) has described the life of the resulting coastal enclaves where Venetian, Dutch, Portuguese, and every other variety of European merchant and adventurer cohabited with African merchants and adventurers speaking dozens of different languages, a mix of Muslim, Catholic, Protestant, and a variety of ancestral religions. Trade, within these enclaves, was regulated by objects the Europeans came to refer to as "fetishes," and Pietz does much to elaborate the European merchants' theories of value and materiality to which this notion ultimately gave rise. More interesting, perhaps, is the African perspective. Insofar as it can be reconstructed, it appears strikingly similar to the kind of social contract theories developed by men like Thomas Hobbes in Europe at the same time (Mac Gaffey 1994, Graeber 2005). Essentially, fetishes were created by a series of contracting parties who wished to enter into ongoing economic relations with one another, and were accompanied by agreements on property rights and the rules of exchange; those violating them were to be destroyed by the objects' power. In other words, just as in Hobbes, social relations are created when a group of men agreed to create a sovereign power to threaten them with violence if they failed to respect their property rights and contractual obligations. Later, African texts even praised the fetish as preventing a war of all against all. Unfortunately, it's completely impossible to find evidence that Hobbes was aware of any of this: he lived most of his life in a port town and very likely had met traders familiar with such customs; but his political works contain no references to the African continent whatever.
 
 China a n d the European n a tion state . Over the course of the early Modern period, European elites gradually conceived the ideal of governments that ruled over uniform populations, speaking the same language, under a uniform system of law and administration; and eventually that this system also should be administered by a meritocratic elite whose training should consist largely in the study of literary classics in that nation's vernacular language. The odd thing is nothing approaching a precedent for a state of this sort existed anywhere in previous European history, though it almost exactly corresponded to the system Europeans believed to hold sway (and which to a large extent, did hold sway) in Imperial China.13 Is there evidence for a Chinese "influence theory"? In this case, there is a little. The prestige of the Chinese government evidently being higher, in the eyes of European philosophers, than African merchants, such influences would not be entirely ignored. From Leibniz's famous remark that the Chinese should really be send3 58 POSSIBILITIES
 
@@ -4286,7 +4320,7 @@ tion, the first urban civilizaion in India, which, as far as is presently known,
 
 ## Adams, John
 
-1797 D efense o ft h <sup>e</sup> Constitutions o f G overnm ent o ft h <sup>e</sup> United States o f A merica, A gainst the A ttac k o fM . Turgot in his L etter to Dr. Price, Dated the Twenty-Second Day of March, 1778. Philadelphia: W. Cobbet.
+1797 D efense o ft h e Constitutions o f G overnm ent o ft h e United States o f A merica, A gainst the A ttac k o fM . Turgot in his L etter to Dr. Price, Dated the Twenty-Second Day of March, 1778. Philadelphia: W. Cobbet.
 
 ## Arrighi, Giovanni, Ahmad, Iftikhar, and Miin-wen Shih
 
@@ -4294,7 +4328,7 @@ tion, the first urban civilizaion in India, which, as far as is presently known,
 
 ## Arrighi, Giovanni, Po-Keung Hui, Ho-Fung Hung, and Mark Selden
 
-2003 "Historical Capitalism, East and West." In The R esurgenc <sup>e</sup> o f East A sia: 500, 150, a n d 50 Year Perspectives (G. Arrighi, T. Hamashita, and M. Selden, eds.). London: Routledge.
+2003 "Historical Capitalism, East and West." In The R esurgenc e o f East A sia: 500, 150, a n d 50 Year Perspectives (G. Arrighi, T. Hamashita, and M. Selden, eds.). London: Routledge.
 
 #### Axtell, James
 
@@ -4447,7 +4481,7 @@ tion, the first urban civilizaion in India, which, as far as is presently known,
 
 ## Negri, Antonio
 
-1999 Insurgencie s: Constituent P ow <sup>e</sup> r a n d the M odern State. Maurizia Boscagli, trans. Minneapolis: University of Minnesota Press.
+1999 Insurgencie s: Constituent P ow e r a n d the M odern State. Maurizia Boscagli, trans. Minneapolis: University of Minnesota Press.
 
 ## Newman, Michael
 
@@ -4477,7 +4511,7 @@ tion, the first urban civilizaion in India, which, as far as is presently known,
 
 1981 "'Under the Banner of King Death': The Social Worldof Anglo-American Pirates, 1716—1726." W illiam & M ary Q uarterly, 3rd series, 38(2): 203—227.
 
-1987 B <sup>e</sup> tw een the D <sup>e</sup> v il a n d the D eep B lu e Sea: M <sup>e</sup> r ch a nt Seam en, Pirates, a n d the A nglo-A merican M aritim e World, 1700—1750. Cambridge: Cambridge University Press.
+1987 B e tw een the D e v il a n d the D eep B lu e Sea: M e r ch a nt Seam en, Pirates, a n d the A nglo-A merican M aritim e World, 1700—1750. Cambridge: Cambridge University Press.
 
 2004 V illains o f A ll N ations: A tlantic Pirates in the Golden Age. Beacon Press: Boston.
 
@@ -4491,7 +4525,7 @@ tion, the first urban civilizaion in India, which, as far as is presently known,
 
 ### Saxonhouse, Arlene W.
 
-1993 "Athenian Democracy: Modern Mythmakers and Ancient Theorists." P S :P o litica l Sc ien <sup>c</sup> <sup>e</sup> a n d Politics (26)3: 486—490.
+1993 "Athenian Democracy: Modern Mythmakers and Ancient Theorists." P S :P o litica l Sc ien c e a n d Politics (26)3: 486—490.
 
 #### Snow, Dean R.
 
@@ -4513,7 +4547,7 @@ tion, the first urban civilizaion in India, which, as far as is presently known,
 
 ## Veyne, Paul
 
-1976 Le Pain <sup>e</sup> tL <sup>e</sup> Cirque: Sociologie H istorique d 'un Pluralism <sup>e</sup> Politique. Paris: Editions du Seuil.
+1976 Le Pain e tL e Cirque: Sociologie H istorique d 'un Pluralism e Politique. Paris: Editions du Seuil.
 
 ## Wilkinson, David
 
@@ -4537,7 +4571,7 @@ There is a widespread perception that events surrounding the WTO ministerial in 
 
 The movement's disarray was not simply due to heightened levels of repression. Another reason, however paradoxical this may seem, was that it reached so many of its immediate goals so quickly. After Seattle, the WTO process froze in its tracks and has never really recovered. Most ambitious global trade schemes were scotched. The effects on political discourse were even more remarkable. In fact, the change was so dramatic that it has become difficult, for many, to even remember what public discourse was actually like in the years immediately before Seattle. In the late 1990s, "Washington consensus," as it was then called, simply had no significant challengers. In the US itself, politicians and journalists appeared to have come to unanimous agreement that radical "free market reforms" were the only possible approach to economic development, anywhere and everywhere. In the mainstream media, anyone who challenged the basic tenets of this faith was likely to be treated as if they were almost literally insane. Speaking as someone who became active in the first months of 2000, I can attest that, however exhilarated by what had happened at Seattle, most of us still felt it would take five or ten years to shatter these assumptions. In fact, it took less than two. By late 2001, it was commonplace to see even news journals that had just months before denounced protestors as so many ignorant children, declaring that we had won the war of ideas. Much as the movement against nuclear power discovered in the 1970s and early 1980s, the direct-action approach was so effective that short-term goals were reached almost immediately, forcing participants to scramble to redefine what the movement was actually about. Splits quickly developed between the "anti-corporates" and the "anti-capitalists." As anarchist ideas and forms of organization became increasingly important, unions and NGOs began to draw back. What's critical for present purposes is that all this became a problem largely because the initial movement was so successful in getting its message out.
 
-I must, however, introduce one crucial qualification. This success applied only to the movement's nega tiv <sup>e</sup> message—what we were against. That organizations like the IMF, WTO, and World Bank were inherently unaccountable and undemocratic, that neoliberal policies were devastating the planet and throwing millions of human beings into death, poverty, hopelessness, and despair—all this, we found, was relatively easy to communicate. While mainstream media were never willing to quote our spokespeople or run the editorials we sent them, it wasn't long before accredited pundits and talking heads (encouraged by renegade economists like Joseph Stiglitz), be3 78 POSSIBILITIES
+I must, however, introduce one crucial qualification. This success applied only to the movement's nega tiv e message—what we were against. That organizations like the IMF, WTO, and World Bank were inherently unaccountable and undemocratic, that neoliberal policies were devastating the planet and throwing millions of human beings into death, poverty, hopelessness, and despair—all this, we found, was relatively easy to communicate. While mainstream media were never willing to quote our spokespeople or run the editorials we sent them, it wasn't long before accredited pundits and talking heads (encouraged by renegade economists like Joseph Stiglitz), be3 78 POSSIBILITIES
 
 gan simply repeating the same things as if they'd made them up themselves. Admittedly, American newspaper columnists were not going to repeat the whole of the movement's arguments— they certainly were not willing to repeat anything that suggested these problems were ultimately rooted in the very nature of the state and capitalism. But the immediate message did get out.
 
@@ -4667,7 +4701,7 @@ Police are also apparently regularly warned that puppets might be used to concea
 
 David Corston-Knowles: You have to bear in mind these are people who are trained to be paranoid. They really do have to ask themselves whether something so big and inscrutable might contain explosives, however absurd that might seem from a non-violent protester's perspective. Police view their jobs not just as law enforcement, but also as maintaining order. And they take that job very personally. Giant demonstrations and giant puppets aren't orderly. They are about creating something—a different society, a different way of looking at things and creativity is fundamentally at odds with the status quo.
 
-Daniel Lang: Well, one theory is that the cops just don't like being upstaged by someone putting on a bigger show. After all, normally th <sup>e</sup> y 're the spectacle: they've got the blue uniforms, they've got the helicopters and horses and rows of shiny motorcycles. So maybe they just resent it when someone steals the show by coming up with something even bigger and even more visually striking. They want to take out the competition.
+Daniel Lang: Well, one theory is that the cops just don't like being upstaged by someone putting on a bigger show. After all, normally th e y 're the spectacle: they've got the blue uniforms, they've got the helicopters and horses and rows of shiny motorcycles. So maybe they just resent it when someone steals the show by coming up with something even bigger and even more visually striking. They want to take out the competition.
 
 Yvonne Liu: It's because they're so big. Cops don't like things that tower over them. That's why they like to be on horses. Plus, puppets are silly and round and misshapen. Notice how much cops always have to maintain straight lines? They stand in straight lines, they always try to make you stand in straight lines... I think round misshapen things somehow offend them.
 
@@ -4766,7 +4800,7 @@ In Philly, on the evening of the first, we organized a press conference in which
 
 By now, it should be easy enough to see why police might not see things this way. This is not to say we were wrong to insist that the attack on the puppet warehouse was inspired by political motives, rather than a desire to protect the public.29 It was. As we've seen, it appears, with its wild claims of acid and explosives, to have been part of a calculated campaign of symbolic warfare. At the same time, the m anner in which puppets can be used to defuse situations of potential violence is completely different than, say, that employed by protest marshals. Police tend to appreciate the presence of marshals, since marshals are organized into a chain of command that police tend to immediately to treat as a mere extension of their own—and which, as a result, often effectively becomes so. Unlike marshals, puppets cannot be used to convey orders. Rather, like the clowns and Billionaires, they aim to transform and redefine situations of potential conflict.
 
-It might be helpful here to reflect on the nature of the violence—''force, " if you like— that police represent. A former LAPD officer, writing about the Rodney King case, pointed out that on most of the occasions in which a citizen is severely beaten by police, it turns out that the victim was actually innocent of any crime. "Cops don't beat up burglars," he observed. If you want to cause the police to be violent, the surest way is to challeng <sup>e</sup> the ir right to d <sup>e</sup> fin <sup>e</sup> the situation. This is not something a burglar is likely to do (Cooper 1991).30 This is of course makes perfect sense if we remember that police are, essentially, bureaucrats with guns. Bureaucratic procedures are all about questions of definition. Or, to be more precise, they are about the imposition of a narrow range of pre-established schema to a social reality that is, usually, infinitely more complex. A crowd can be either orderly or disorderly; a citizen can be white, black, Hispanic, or an Asian / Pacific Islander; a petitioner is or is not in possession of a valid photo ID: such simplistic rubrics can only be maintained in the absence of dialogue. Hence, the quintessential form of bureaucratic violence is the wielding of the truncheon when somebody "talks back."
+It might be helpful here to reflect on the nature of the violence—''force, " if you like— that police represent. A former LAPD officer, writing about the Rodney King case, pointed out that on most of the occasions in which a citizen is severely beaten by police, it turns out that the victim was actually innocent of any crime. "Cops don't beat up burglars," he observed. If you want to cause the police to be violent, the surest way is to challeng e the ir right to d e fin e the situation. This is not something a burglar is likely to do (Cooper 1991).30 This is of course makes perfect sense if we remember that police are, essentially, bureaucrats with guns. Bureaucratic procedures are all about questions of definition. Or, to be more precise, they are about the imposition of a narrow range of pre-established schema to a social reality that is, usually, infinitely more complex. A crowd can be either orderly or disorderly; a citizen can be white, black, Hispanic, or an Asian / Pacific Islander; a petitioner is or is not in possession of a valid photo ID: such simplistic rubrics can only be maintained in the absence of dialogue. Hence, the quintessential form of bureaucratic violence is the wielding of the truncheon when somebody "talks back."
 
 I began by saying that this was to be an essay of interpretation. In fact, it has been just as much an essay about frustrated interpretation, about the limits of interpretation. Ultimately, I think this frustration can be traced back to the very nature of violence—bureaucratic or otherwise. Violence is in fact unique among forms of human action in that it holds out the possibility of affecting the actions of others about whom one understands nothing. Any other way one might wish to affect another's actions, one must at least have some idea who they think they are, what they want, what they think is going on. Interpretation is required, and that requires a certain degree of imaginative identification. Hit someone over the head hard enough, all this becomes irrelevant. Obviously, two parties locked in an equal contest of violence would usually do well to get inside each other's heads, but when access to violence becomes extremely unequal, the need vanishes. This is typically the case in situations of structural violence: of systemic inequality that is ultimately backed up by the threat offorce. Structural violence always seems to create extremely lopsided structures of imagination. Gender is actually a telling example here. Women almost everywhere know a great deal about men's work, men's lives, and male experience; men are almost always not only ignorant about women's lives, they often react with indignation at the idea they should even try to imagine what being a woman might be like. The same is typically the case in most relations of clear subordination: masters and servants, employers and employees, rich and poor. The victims of structural violence invariably end up spending a great deal of time imagining what it is like for those who benefit from it; the opposite rarely occurs. One concomitant is that the victims often end up identifying with, and caring about, the beneficiaries of structural violence—which, next to the violence itself, is probably one of the most powerful forces guaranteeing the perpetuation of systems of inequality. Another is that violence, as we've seen, allows the possibility of cutting through the subtleties of constant mutual interpretation on which ordinary human relations are based.
 
@@ -4822,7 +4856,7 @@ Like any ideological formula, however, this one is extraordinarily unstable, rid
 - 10 The best source I've found on these events is in Boski 2002.
 - 11 Blocking a street is in fact technically not even a crime, but an "infraction" or "violation": the legal equivalent ofjaywalking, or a parking ticket. If one violates such ordinances for non-political purposes one can normally expect to receive some kind of ticket, but certainly, not to be taken to a station or spend the night in jail.
 - 12 N ew York Times, June 6, Corrections, A2. The original story was significantly entitled, "Detroit Defends Get-Tough Stance" ( Christian 2000). The correction reads: "An article on Sunday about plans for protests in Detroit and in Windsor, Ontario, against an inter-American meeting being held in Windsor through today referred incorrectly to the protests last November at the World Trade Organization meeting in Seattle. The Seattle protests were primarily peaceful. The authorities there said that any objects thrown were aimed at property, not people. No protestors were accused of throwing objects, including rocks and Molotov cocktails, at delegates or police."
-- 13 This document was transcribed and widely circulated on activist listservs at the time. According to one story in the M iam i H <sup>e</sup> rald (Fleischman 2003), it derived from "retired DEA agent Tom Cash, 63, now senior managing director for Kroll Inc., an international security and business consulting firm." Cash in turn claimed to derive his information from "police intelligence" sources.
+- 13 This document was transcribed and widely circulated on activist listservs at the time. According to one story in the M iam i H e rald (Fleischman 2003), it derived from "retired DEA agent Tom Cash, 63, now senior managing director for Kroll Inc., an international security and business consulting firm." Cash in turn claimed to derive his information from "police intelligence" sources.
 
 - 14 A number of Molotovs were thrown during the FTAA summit in Quebec City, apparently all by Quebec City residents. But francophone Canada has a very different tradition of militancy.
 - 15 One has to wonder where they actually get these things. A typical example from my own experience comes from the World Economic Forum protests in New York in early 2002. Police at one point attacked a group of protestors who were part of a crowd waiting to begin a permitted march when they observed them distributing large plexiglass posters that were designed to double as shields. Several were dragged off and arrested. Police later circulated several different stories explaining the reasons for the attack, but the one they eventually fixed on was a claim that the arrestees were preparing to attack the nearby Plaza Hotel. They claimed to have discovered "lead pipes and jars full of urine" on their persons—though in this case they did not actually produce the evidence. This is a case on which I have some first-hand knowledge, since I knew the arrestees and had been standing a few feet away from them when it happened. They were, in fact, undergraduate students from a small New England liberal arts college who had agreed to have their preparations and training before the march video-taped by a team of reporters from ABC Nightline (the reporters, unfortunately, were not actually there at the time). A less likely group of thugs would have been hard to imagine. Needless to say, they were startled and confused to discover police were claiming that they had come to the march equipped with jars of urine. In such cases, claims that urine or excrement were involved is considered, by activists, instant and absolute proof that the police had planted the evidence.
@@ -4852,7 +4886,7 @@ Like any ideological formula, however, this one is extraordinarily unstable, rid
 - 36 It is interesting to observe that there is a longstanding tradition in American thought that sees creativity as inherently anti-social, and therefore, demonic. It emerges particularly strongly in racial ideologies. This however is properly the subject for another essay.
 - 37 The fact that almost all the principal figures involved in the repression of protest in America ended up as "security consultants" in Baghdad after the American
 
-- conquest of Iraq seems rather telling here. O f course, they rapidly discovered their usual tactics were not particularly effective against opponents who really w <sup>e</sup> re violent—capable, for example, of dealing with IMF and World Bank officials by actually blowing them up.
+- conquest of Iraq seems rather telling here. O f course, they rapidly discovered their usual tactics were not particularly effective against opponents who really w e re violent—capable, for example, of dealing with IMF and World Bank officials by actually blowing them up.
 - 38 Clint Eastwood, of course, in his shift from Spaghetti Western to Dirty Harry, was the very avatar of the transformation. The moment cop movies rose to prominence, cowboy movies effectively disappeared.
 
 ## B ib lio g r a p h y
@@ -4887,11 +4921,11 @@ Like any ideological formula, however, this one is extraordinarily unstable, rid
 
 ## David and X
 
-2002 The Blac k B lo <sup>c</sup> Papers, compiled by David and X ofthe Green Mountain Anarchist Collective. Baltimore: Black Clover Press.
+2002 The Blac k B lo c Papers, compiled by David and X ofthe Green Mountain Anarchist Collective. Baltimore: Black Clover Press.
 
 #### Epstein, Barbara
 
-1991 P o litica l Protest a n d Cultural Revolution: N on -v iolen t D ire <sup>c</sup> t A ction in th <sup>e</sup> 1970s a n d 1980s. Berkeley: University of California Press.
+1991 P o litica l Protest a n d Cultural Revolution: N on -v iolen t D ire c t A ction in th e 1970s a n d 1980s. Berkeley: University of California Press.
 
 #### FAIR (Fairness and Accuracy In Reporting)
 
@@ -4911,7 +4945,7 @@ Like any ideological formula, however, this one is extraordinarily unstable, rid
 
 #### Grindon, Gavin
 
-2006 "The Breath of the Possible." In Constituent Im a <sup>g</sup> in a tio n : M ilitan t Investigation, Collective Research (David Graeber and Stevphen Shukaitis, eds.). Oakland: AK Press.
+2006 "The Breath of the Possible." In Constituent Im a g in a tio n : M ilitan t Investigation, Collective Research (David Graeber and Stevphen Shukaitis, eds.). Oakland: AK Press.
 
 #### Koerner, Brendan I,
 
@@ -4929,7 +4963,7 @@ Like any ideological formula, however, this one is extraordinarily unstable, rid
 
 ## Neocleus, Mark
 
-2000 The Fabrication o f So <sup>c</sup> ia l O rder: A Critical Theory o f P o lic <sup>e</sup> Power. London: Pluto Press.
+2000 The Fabrication o f So c ia l O rder: A Critical Theory o f P o lic e Power. London: Pluto Press.
 
 ## Reuters /Zogby
 

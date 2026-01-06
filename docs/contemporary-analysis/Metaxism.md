@@ -1,3 +1,8 @@
+---
+title: "**Metaxism**"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 # **Metaxism**

@@ -1,3 +1,8 @@
+---
+title: "James Herod"
+category: "technology-digital-justice"
+---
+
 # James Herod
 
 # A Great Plains Association for Anarchy?

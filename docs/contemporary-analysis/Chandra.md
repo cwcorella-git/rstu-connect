@@ -1,3 +1,8 @@
+---
+title: "**Chandra**"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 # **Chandra**
@@ -64,7 +69,26 @@ A painting of Chandra from [Mewar](https://en.wikipedia.org/wiki/Mewar), [Rajast
 
 Soma is one of the most common other names used for the deity; but the earliest use of the word to refer to the Moon is a subject of scholarly debate. Some scholars state that the word Soma is occasionally used for the Moon in the Vedas, while other scholars suggest that such usage emerged only in the post-Vedic literature.[\[10\]](#page-6-2)
 
-| Siblings<br>Consort<br>Children | Durvasa<br>and<br>Dattatreya<br>Rohini<br>(chief<br>consort),<br>and<br>other<br>26<br>Nakshatra<br>goddesses<br>Budha,<br>Varchas,<br>Bhadra,<br>[4] and<br>Jyotsnakali<br>other<br>children |
+| Siblings
+Consort
+Children | Durvasa
+and
+Dattatreya
+Rohini
+(chief
+consort),
+and
+other
+26
+Nakshatra
+goddesses
+Budha,
+Varchas,
+Bhadra,
+[4] and
+Jyotsnakali
+other
+children |
 |---------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Equivalents | |
 | Greek | Selene |
@@ -88,7 +112,7 @@ J. Wilkins, "In later years the name Soma was [...] given to the moon. How and w
 
 #### **Epics and Puranas**
 
-In post Vedic texts like the <u>Ramayana</u>, the <u>Mahabharata</u> and the <u>Puranas</u>, Soma is mentioned as a lunar deity and has many epithets including Chandra. According to most of these texts, Chandra, along with his brothers <u>Dattatreya</u> and <u>Durvasa</u>, were the sons of the sage <u>Atri</u> and his wife <u>Anasuya</u>. The <u>Devi Bhagavata Purana</u> states Chandra to be the <u>avatar</u> of the creator god <u>Brahma</u>. Some texts contain varying accounts regarding Chandra's birth. According to one text, he is the son of <u>Dharma</u>; while another mention Prabhakar as his father. Many legends about Chandra are told in the scriptures.
+In post Vedic texts like the Ramayana, the Mahabharata and the Puranas, Soma is mentioned as a lunar deity and has many epithets including Chandra. According to most of these texts, Chandra, along with his brothers Dattatreya and Durvasa, were the sons of the sage Atri and his wife Anasuya. The Devi Bhagavata Purana states Chandra to be the avatar of the creator god Brahma. Some texts contain varying accounts regarding Chandra's birth. According to one text, he is the son of Dharma; while another mention Prabhakar as his father. Many legends about Chandra are told in the scriptures.
 
 ## ![](_page_2_Picture_3.jpeg)
 
@@ -96,15 +120,15 @@ In post Vedic texts like the <u>Ramayana</u>, the <u>Mahabharata</u> and the <u>
 
 One of the most prominent narratives involving Chandra centers on his illicit relationship with Tara, the wife of Brihaspati, the preceptor of the Devas. According to the story, Tara came to Chandra's abode during her wanderings, and they fell in love with each other. Despite multiple attempts by Brihaspati to reclaim his wife, Tara remained with Chandra. Brihaspati's disciples and even Brihaspati himself confronted Chandra, who argued that Tara had come of her own will and would leave when she desired. The situation escalated when Brihaspati sought the intervention of the Devas. Indra, the king of the Devas, threatened war to compel Chandra to return Tara. However, the Devas were divided in their opinions, and the Asuras, led by their preceptor Shukra, sided with Chandra. A fierce conflict ensued between the Devas and Asuras, resulting in cosmic turmoil. Eventually, Brahma, the creator, intervened to restore order. He admonished Chandra and Shukra, leading to the cessation of the battle. Chandra reluctantly returned Tara to Brihaspati. However, Tara was already pregnant, which gave rise to a dispute over the child's paternity. Brahma once again intervened, questioning Tara directly. She revealed that Chandra was the father. Consequently, Brahma ordered Brihaspati to hand over the child to Chandra. The child born from this union was named $\underline{Budha}$ , who later became an important deity associated with intellect and wisdom. [8][10]
 
-Chandra is traditionally married to the 27 daughters of the sage <u>Daksha</u>, who personify the 27 <u>Nakshatras</u> (lunar mansions). These daughters are named <u>Ashvini</u>, <u>Bharani</u>, <u>Krittika</u>, <u>Rohini</u>, <u>Mrigashira</u>, <u>Ardra</u>, <u>Punarvasu</u>, <u>Pushya</u>, <u>Ashlesha</u>, <u>Magha</u>, <u>Purvaphalguni</u>, <u>Uttaraphalguni</u>, <u>Hasta</u>, <u>Chitra</u>, <u>Swati</u>, <u>Vishakha</u>, <u>Anuradha</u>, <u>Jyeshtha</u>, <u>Mula</u>, <u>Purvashadha</u>, <u>Uttara Ashadha</u>, <u>Shravana</u>, <u>Dhanishta</u>, <u>Shatabhisha</u>, <u>Purvabhadra</u>, <u>Uttarabhadra</u>, and <u>Revati</u>. Chandra's movement through these Nakshatras reflects the lunar cycle and influences various astrological and ritual practices. Despite being married to all 27, Chandra showed special affection for Rohini, causing jealousy among his other wives. The preferential treatment of Rohini led the other wives to complain to their father, Daksha. Despite repeated warnings from Daksha, Chandra continued to favor Rohini. In anger, Daksha cursed Chandra to suffer from <u>Kshayaroga</u> (consumption or tuberculosis). This affliction impacted not just Chandra but also affected the medicinal plants and other living beings dependent on lunar influence. The <u>Devas</u> intervened, and after much pleading, Daksha modified his curse, allowing Chandra to be free from the disease for half of every month by bathing in the <u>Sarasvati Tirtha</u>. This mythological explanation accounts for the waxing and waning of the moon, with Chandra's periodic immersion in the sacred waters symbolizing his gradual recovery and decline (*Mahabharata*, *Shalya Parva*, Chapter 35).
+Chandra is traditionally married to the 27 daughters of the sage Daksha, who personify the 27 Nakshatras (lunar mansions). These daughters are named Ashvini, Bharani, Krittika, Rohini, Mrigashira, Ardra, Punarvasu, Pushya, Ashlesha, Magha, Purvaphalguni, Uttaraphalguni, Hasta, Chitra, Swati, Vishakha, Anuradha, Jyeshtha, Mula, Purvashadha, Uttara Ashadha, Shravana, Dhanishta, Shatabhisha, Purvabhadra, Uttarabhadra, and Revati. Chandra's movement through these Nakshatras reflects the lunar cycle and influences various astrological and ritual practices. Despite being married to all 27, Chandra showed special affection for Rohini, causing jealousy among his other wives. The preferential treatment of Rohini led the other wives to complain to their father, Daksha. Despite repeated warnings from Daksha, Chandra continued to favor Rohini. In anger, Daksha cursed Chandra to suffer from Kshayaroga (consumption or tuberculosis). This affliction impacted not just Chandra but also affected the medicinal plants and other living beings dependent on lunar influence. The Devas intervened, and after much pleading, Daksha modified his curse, allowing Chandra to be free from the disease for half of every month by bathing in the Sarasvati Tirtha. This mythological explanation accounts for the waxing and waning of the moon, with Chandra's periodic immersion in the sacred waters symbolizing his gradual recovery and decline (*Mahabharata*, *Shalya Parva*, Chapter 35).
 
-In the mythological narrative of the <u>Samudra Manthan</u> (Churning of the Ocean), the Devas and <u>Asuras</u> sought the <u>Amrita</u> (nectar of immortality). A demon named <u>Rahu</u> disguised himself as a Brahmin and attempted to drink the nectar. <u>Surya</u> (the Sun) and Chandra recognized the deception and alerted <u>Vishnu</u>, who severed Rahu's head with his <u>Sudarshana Chakra</u>. However, because Rahu had consumed the nectar, his head and body became immortal, forming the entities Rahu and <u>Ketu</u>. Rahu and Ketu, bearing enmity toward Surya and Chandra for revealing their deception, periodically "swallow" the moon and the sun, leading to solar and lunar eclipses. This myth provides a symbolic representation of eclipses as moments of cosmic tension and conflict. During the reign of Emperor <u>Prithu</u>, <u>Bhumidevi</u> (Earth) was transformed into a cow to provide nourishment to all beings. When the sages milked Bhumidevi, Chandra served as the calf, an act which pleased <u>Brahma</u>. In recognition, Brahma crowned Chandra as the king of stars and medicines. This role signifies Chandra's influence over medicinal plants and the healing arts, linking his cycles to the growth and potency of herbs. [8]
+In the mythological narrative of the Samudra Manthan (Churning of the Ocean), the Devas and Asuras sought the Amrita (nectar of immortality). A demon named Rahu disguised himself as a Brahmin and attempted to drink the nectar. Surya (the Sun) and Chandra recognized the deception and alerted Vishnu, who severed Rahu's head with his Sudarshana Chakra. However, because Rahu had consumed the nectar, his head and body became immortal, forming the entities Rahu and Ketu. Rahu and Ketu, bearing enmity toward Surya and Chandra for revealing their deception, periodically "swallow" the moon and the sun, leading to solar and lunar eclipses. This myth provides a symbolic representation of eclipses as moments of cosmic tension and conflict. During the reign of Emperor Prithu, Bhumidevi (Earth) was transformed into a cow to provide nourishment to all beings. When the sages milked Bhumidevi, Chandra served as the calf, an act which pleased Brahma. In recognition, Brahma crowned Chandra as the king of stars and medicines. This role signifies Chandra's influence over medicinal plants and the healing arts, linking his cycles to the growth and potency of herbs. [8]
 
-Chandra is one of the Ashta-vasus, a group of eight elemental deities. He had four sons—<u>Varchas</u>, Shishira, Prana, and Ramana—with his wife <u>Manohara</u>. Notably, his son Varchas was later reborn as Abhimanyu, the heroic son of Arjuna in the *Mahabharata*. [8]
+Chandra is one of the Ashta-vasus, a group of eight elemental deities. He had four sons—Varchas, Shishira, Prana, and Ramana—with his wife Manohara. Notably, his son Varchas was later reborn as Abhimanyu, the heroic son of Arjuna in the *Mahabharata*. [8]
 
-According to another legend, <u>Ganesha</u> was returning home on his mount Krauncha (a shrew) late on a full moon night after a mighty feast given by <u>Kubera</u>. On the journey back, a snake crossed their path and frightened by it, his mount ran away dislodging Ganesha in the process. An overstuffed Ganesha fell to the ground on his stomach, vomiting out all the <u>Modaks</u> he had eaten. On observing this, Chandra laughed at Ganesha. Ganesha lost his temper and broke off one of his tusks and flung it straight at the Moon, hurting him, and cursed him so that he would never be whole again. Therefore, It is forbidden to behold Chandra on <u>Ganesh Chaturthi</u>. This legend accounts for the Moon's waxing and waning including a big crater on the Moon, a dark spot, visible even from Earth. [22]
+According to another legend, Ganesha was returning home on his mount Krauncha (a shrew) late on a full moon night after a mighty feast given by Kubera. On the journey back, a snake crossed their path and frightened by it, his mount ran away dislodging Ganesha in the process. An overstuffed Ganesha fell to the ground on his stomach, vomiting out all the Modaks he had eaten. On observing this, Chandra laughed at Ganesha. Ganesha lost his temper and broke off one of his tusks and flung it straight at the Moon, hurting him, and cursed him so that he would never be whole again. Therefore, It is forbidden to behold Chandra on Ganesh Chaturthi. This legend accounts for the Moon's waxing and waning including a big crater on the Moon, a dark spot, visible even from Earth. [22]
 
-Chandra holds a crucial place in <u>Hindu astrology</u> (<u>Jyotisha</u>) and is associated with the mind, emotions, and fertility. His phases are believed to influence human behavior, agriculture, and the timing of rituals. As the luminary of the night, Chandra embodies the reflective and nurturing aspects of the cosmos, balancing the solar energies represented by Surya. [8]
+Chandra holds a crucial place in Hindu astrology (Jyotisha) and is associated with the mind, emotions, and fertility. His phases are believed to influence human behavior, agriculture, and the timing of rituals. As the luminary of the night, Chandra embodies the reflective and nurturing aspects of the cosmos, balancing the solar energies represented by Surya. [8]
 
 ## **Iconography**
 
@@ -114,7 +138,7 @@ Soma as the Moon-deity is also found in Buddhism, [23] and Jainism. [24]
 
 #### **Zodiac and calendar**
 
-Soma is the root of the word *Somavara* or <u>Monday</u> in the Hindu calendar. The word "Monday" in the Greco-Roman and other Indo-European calendars is also dedicated to the Moon. Soma is part of the <u>Navagraha</u> in the Hindu zodiac system. The role and importance of the Navagraha developed over time with various influences. Deifying the moon and its astrological significance occurred as early as the Vedic
+Soma is the root of the word *Somavara* or Monday in the Hindu calendar. The word "Monday" in the Greco-Roman and other Indo-European calendars is also dedicated to the Moon. Soma is part of the Navagraha in the Hindu zodiac system. The role and importance of the Navagraha developed over time with various influences. Deifying the moon and its astrological significance occurred as early as the Vedic
 
 [period](https://en.wikipedia.org/wiki/Vedic_period) and was recorded in the [Vedas](https://en.wikipedia.org/wiki/Vedas). The earliest work of astrology recorded in India is the [Vedanga](https://en.wikipedia.org/wiki/Vedanga_Jyotisha) [Jyotisha](https://en.wikipedia.org/wiki/Vedanga_Jyotisha) which began to be compiled in the 14th century BCE. The moon and various [classical planets](https://en.wikipedia.org/wiki/Classical_planet) were referenced in the [Atharvaveda](https://en.wikipedia.org/wiki/Atharvaveda) around 1000 BCE.
 
@@ -128,7 +152,7 @@ Soma was presumed to be a planet in Hindu astronomical texts.[\[27\]](#page-6-18
 
 The longitude of Moon = 
 $$m-\frac{P\times R\sin(m-a)}{360}$$
-– Surya Siddhanta II.39.43<sup>[29]</sup> where $m$ is the Moon's mean longitude, a is the longitude at apogee, P is epicycle of apsis, R=3438'.
+– Surya Siddhanta II.39.43[29] where $m$ is the Moon's mean longitude, a is the longitude at apogee, P is epicycle of apsis, R=3438'.
 
 #### **Chandra temples**
 
@@ -208,4 +232,4 @@ Dalal, Roshen (2010a). *Hinduism: An Alphabetical Guide* [\(https://books.google
 
 Media related to [Chandra](https://commons.wikimedia.org/wiki/Category:Chandra) at Wikimedia Commons
 
-Retrieved from "<https://en.wikipedia.org/w/index.php?title=Chandra&oldid=1322864183>"
+Retrieved from ""

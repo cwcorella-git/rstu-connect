@@ -1,3 +1,8 @@
+---
+title: "## **Dissecting the right's "free speech" rhetoric**"
+category: "contemporary-analysis"
+---
+
 ## **Dissecting the right's "free speech" rhetoric**
 
 ## **Date:** Unknown
@@ -32,12 +37,14 @@ Ultimately, it should be clear that freedom of expression to reactionaries is so
 |--------------------------------------------------------------------------------------------------------------------------------------------|
 | 6 years 9 months ago |
 | In reply to Welcomebylibcom.org |
-| Not entirely sure if this should be in library or not, I think blog entry may be ideal but I'm not<br>sure how to submit something as that |
+| Not entirely sure if this should be in library or not, I think blog entry may be ideal but I'm not
+sure how to submit something as that |
 | adri |
 | 6 years 9 months ago |
 | In reply to Welcomebylibcom.org |
 | Black Helmet |
-| Not entirely sure if this should be in library or not, I think blog entry may be ideal but I'm not<br>sure how to submit something as that |
+| Not entirely sure if this should be in library or not, I think blog entry may be ideal but I'm not
+sure how to submit something as that |
 | You can message an admin or try requesting a bloghere. |
 | adri |
 | 6 years 9 months ago |

@@ -1,3 +1,8 @@
+---
+title: "## **¿Quién le puso una bomba a Judi Bari? / Who Bombed Judi Bari? (Spanish Subtitles)**"
+category: "international-solidarity"
+---
+
 ## **¿Quién le puso una bomba a Judi Bari? / Who Bombed Judi Bari? (Spanish Subtitles)**
 
 ## **Date:** Mon, 11/27/2017 - 17:51
@@ -21,4 +26,5 @@ http://whobombedjudibari.com/
 | https://www.facebook.com/Who-Bombed-J|
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Disclaimer: |
-| The views expressed here are not the official position of the IWW (or even the IWW's EUC)<br>and do not necessarily represent the views of anyone but the author's. |
+| The views expressed here are not the official position of the IWW (or even the IWW's EUC)
+and do not necessarily represent the views of anyone but the author's. |

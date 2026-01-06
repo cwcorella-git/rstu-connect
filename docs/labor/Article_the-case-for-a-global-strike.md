@@ -1,13 +1,8 @@
 ---
-title: The Case For a Global Strike
-date: 2025
-author: Unknown
-tags:
-  - organizing
-  - strikes
-  - unions
-  - rent
-  - prisons
+title: "The Case For a Global Strike"
+author: "Unknown"
+date: "2025"
+category: "labor"
 ---
 
 # The Case For a Global Strike

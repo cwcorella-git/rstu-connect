@@ -1,3 +1,8 @@
+---
+title: "## **Business unionism vs revolutionary unionism - Dave Neal**"
+category: "labor"
+---
+
 ## **Business unionism vs revolutionary unionism - Dave Neal**
 
 ## **Date:** Unknown
@@ -87,11 +92,13 @@ Business unionism is dead; it just doesn't know it yet. It will keep losing as w
 | In reply to Welcomebylibcom.org |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | I'm also curious as to what this is from. |
-| Also, am I the only one who really hates the cartoon that's attached to this? It seems to be<br>pretty popular but I can't for the life of me understand why? |
+| Also, am I the only one who really hates the cartoon that's attached to this? It seems to be
+pretty popular but I can't for the life of me understand why? |
 | Fnordie |
 | 11 years 8 months ago |
 | In reply to Welcomebylibcom.org |
-| I love that cartoon. It's popular because it poignantly captures how frustrating it is to be part of<br>a radical left milieu and also be involved in organizing. |
+| I love that cartoon. It's popular because it poignantly captures how frustrating it is to be part of
+a radical left milieu and also be involved in organizing. |
 | Pennoid |
 | 11 years 8 months ago |
 | In reply to Welcomebylibcom.org |

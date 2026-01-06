@@ -1,3 +1,8 @@
+---
+title: "## **We Demand freedom for Azat Miftakhov**"
+category: "contemporary-analysis"
+---
+
 ## **We Demand freedom for Azat Miftakhov**
 
 ## **Date:** Unknown

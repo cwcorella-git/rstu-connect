@@ -1,3 +1,8 @@
+---
+title: "**Avalon**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Avalon)
 
 # **Avalon**
@@ -22,7 +27,8 @@
 | Type | Fairyland island (typically) |
 | Ruled by | Morgan (usually) |
 | Location | Varied or unspecified |
-| Characters | King Arthur, Lady of the Lake, the nine<br>sisters, Melusine |
+| Characters | King Arthur, Lady of the Lake, the nine
+sisters, Melusine |
 
 **Avalon** ([\)\[note 1\]](#page-18-0) is an island featured in the [Arthurian legend.](https://en.wikipedia.org/wiki/Arthurian_legend) It first appeared in [Geoffrey of Monmouth](https://en.wikipedia.org/wiki/Geoffrey_of_Monmouth)'s 1136 [Historia Regum](https://en.wikipedia.org/wiki/Historia_Regum_Britanniae) [Britanniae](https://en.wikipedia.org/wiki/Historia_Regum_Britanniae) as a place of magic where [King Arthur](https://en.wikipedia.org/wiki/King_Arthur)'s sword [Excalibur](https://en.wikipedia.org/wiki/Excalibur) was made and later where Arthur was taken to recover from being gravely wounded at the [Battle of Camlann.](https://en.wikipedia.org/wiki/Battle_of_Camlann) Since then, the island has become a symbol of Arthurian mythology, similar to Arthur's castle, [Camelot.](https://en.wikipedia.org/wiki/Camelot)
 

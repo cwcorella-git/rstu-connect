@@ -1,34 +1,8 @@
 ---
-title: America’s Kurdish allies risk being wiped out – by Nato
-author: David Graeber
-date: 1<sup>st</sup> February 2019
-language: en
-source_url: >-
-  Retrieved on 3<sup>rd</sup> September 2020 from
-  https://www.theguardian.com/commentisfree/2019/feb/01/americas-kurdish-allies-syria-turkey-nato
-notes: >-
-  See also: David Graeber Institute [[https://davidgraeber.institute/]] &
-  [[https://davidgraeber.org/]]
-topics:
-  - Rojava
-  - Syrian civil war
-  - kurds
-  - USA
-  - NATO
-  - Turkey
-  - Syria
-  - war
-original_format: muse
-converted_date: '2025-11-08T11:25:02.994559'
-tags:
-  - Rojava
-  - Syrian Civil War
-  - Kurds
-  - USA
-  - NATO
-  - Turkey
-  - Syria
-  - War
+title: "America’s Kurdish allies risk being wiped out – by Nato"
+author: "David Graeber"
+date: "1<sup>st</sup> February 2019"
+category: "contemporary-analysis"
 ---
 
 Remember those plucky Kurdish forces who so heroically defended the Syrian city of Kobane from Isis? They risk being wiped out by Nato.
@@ -67,4 +41,4 @@ There *are* alternatives. International powers could lift the de facto Nato emba
 
 In the long run, the Turkish government needs to stop reacting to those who have a different vision of how life could be lived by trying to murder them, and return to the peace table. The same could be said for Syria, where Rojava’s decentralized model could be key to resolving the conflict.
 
-But for now, we need an urgent response to the risk faced by Kurds in Rojava. The situation is growing more dire by the day – and it is quite possible that Nato will soon conduct one of the worst genocidal massacres of the 21<sup>st</sup> century.
+But for now, we need an urgent response to the risk faced by Kurds in Rojava. The situation is growing more dire by the day – and it is quite possible that Nato will soon conduct one of the worst genocidal massacres of the 21st century.

@@ -1,3 +1,8 @@
+---
+title: "**Battle of Appomattox Court House**"
+category: "technology-digital-justice"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Battle_of_Appomattox_Court_House)
 
 # **Battle of Appomattox Court House**
@@ -14,13 +19,18 @@ Part of the [American Civil War](https://en.wikipedia.org/wiki/American_Civil_Wa
 
 A print depicting [Ulysses S. Grant,](https://en.wikipedia.org/wiki/Ulysses_S._Grant) Commanding General of the [Union Army,](https://en.wikipedia.org/wiki/Union_Army) accepting [Confederate](https://en.wikipedia.org/wiki/Confederate_States_Army) General in Chief [Robert E. Lee](https://en.wikipedia.org/wiki/Robert_E._Lee)'s surrender on April 9, 1865
 
-| Date | April<br>9, 1865; 160 years ago | | |
+| Date | April
+9, 1865; 160 years ago | | |
 |----------|-----------------------------------------------------------|--|--|
 | Location | Appomattox Court House, Appomattox | | |
-| | County, Virginia<br>37°22′39″N<br>78°47′46″W / 37.37750°N | | |
+| | County, Virginia
+37°22′39″N
+78°47′46″W / 37.37750°N | | |
 ## | | 78.79611°W | | |
 
-| Result<br>Union victory; surrender of the entire<br>28,000 strong Army of Northern Virginia | | | | |
+| Result
+Union victory; surrender of the entire
+28,000 strong Army of Northern Virginia | | | | |
 |---------------------------------------------------------------------------------------------|--|---------------------------|--|--|
 | Belligerents | | | | |
 | United States | | Confederate States | | |

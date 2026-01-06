@@ -1,3 +1,8 @@
+---
+title: "EXACT LY WHAT TO SAY"
+category: "contemporary-analysis"
+---
+
 "This is the dictionary of business success language. Right from page 1, you're given the strategy to change the way you influence others." scott stratten, President of Un Marketing Inc. and best-selling author of the Un Marketing series
 
 ## Phil M Jones
@@ -1056,8 +1061,8 @@ Because I am smart enough to own all my publishing rights, my team and I can hel
 - 2. Open-Minded
 - 3. What Do You Know?
 - 4. How Would You Feel If?
-- <u>5. Just Imagine</u>
-- <u>6. When Would Be a Good Time?</u>
+- 5. Just Imagine
+- 6. When Would Be a Good Time?
 - 7. I'm Guessing You Haven't Got Around To
 - 8. Simple Swaps
 - 9. You Have Three Options
@@ -1071,7 +1076,7 @@ Because I am smart enough to own all my publishing rights, my team and I can hel
 - 17. What Makes You Say That?
 - 18. Before You Make Your Mind Up
 - 19. If I Can, Will You?
-- <u>20. Enough</u>
+- 20. Enough
 - 21. Just One More Thing
 - 22. A Favor
 - 23. Just Out of Curiosity

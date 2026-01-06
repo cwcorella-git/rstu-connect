@@ -1,3 +1,8 @@
+---
+title: "## **Long Hours, Sleepless Nights: Nonprofit Workers Unionize in the Appalachian Coalfields**"
+category: "environmental-justice"
+---
+
 ## **Long Hours, Sleepless Nights: Nonprofit Workers Unionize in the Appalachian Coalfields**
 
 ## **Date:** Fri, 08/13/2021 - 00:00

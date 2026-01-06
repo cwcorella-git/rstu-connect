@@ -1,3 +1,8 @@
+---
+title: "**[What Games Are](https://web.archive.org/web/20250914205406/https://www.whatgamesare.com/)**"
+category: "contemporary-analysis"
+---
+
 The Wayback Machine - https://web.archive.org/web/20250914205406/https://www.whatgamesare.com/2011/01/numina-games-and-fantasy.html
 
 # **[What Games Are](https://web.archive.org/web/20250914205406/https://www.whatgamesare.com/)**

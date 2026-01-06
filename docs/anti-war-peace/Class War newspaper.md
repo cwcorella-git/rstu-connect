@@ -1,15 +1,23 @@
+---
+title: "## **Class War newspaper**"
+category: "anti-war-peace"
+---
+
 ## **Class War newspaper**
 
 | Date: Unknown |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Source: https://libcom.org/article/class-war-newspaper|
 | Tags: Class War Federation, 1980s, 1990s, United Kingdom, publications, PDF |
-| An online archive of issues of Class War, a UK-based anarchist tabloid newspaper founded in<br>1983. |
-| Missing issues:#3 New Homes For The Rich, October 1983.#8? Bricks Bottles Burning<br>Barricades – Summer of 1984.#59 Rob the rich - not your own. |
+| An online archive of issues of Class War, a UK-based anarchist tabloid newspaper founded in
+1983. |
+| Missing issues:#3 New Homes For The Rich, October 1983.#8? Bricks Bottles Burning
+Barricades – Summer of 1984.#59 Rob the rich - not your own. |
 | Fozzie |
 | 5 years 1 month ago |
 | In reply to Welcomebylibcom.org |
-| There is an amusing and lengthy blog post by the guy at Verso who handled the "Decade of<br>Disorder" anthology here:https://www.versobooks.com/blogs/4844-class-war|
+| There is an amusing and lengthy blog post by the guy at Verso who handled the "Decade of
+Disorder" anthology here:https://www.versobooks.com/blogs/4844-class-war|
 | R Totale |
 | 5 years 1 month ago |
 | In reply to Welcomebylibcom.org |

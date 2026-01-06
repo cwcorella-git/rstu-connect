@@ -1,10 +1,8 @@
 ---
-title: The 1948 Zanzibar General Strike
-date: 2025
-author: Anthony Clayton
-tags:
-  - organizing
-  - strikes
+title: "The 1948 Zanzibar General Strike"
+author: "Anthony Clayton"
+date: "2025"
+category: "labor"
 ---
 
 # The 1948 Zanzibar General Strike

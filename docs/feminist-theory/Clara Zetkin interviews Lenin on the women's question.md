@@ -1,3 +1,8 @@
+---
+title: "## **Clara Zetkin interviews Lenin on the women's question**"
+category: "feminist-theory"
+---
+
 ## **Clara Zetkin interviews Lenin on the women's question**
 
 ## **Date:** Unknown

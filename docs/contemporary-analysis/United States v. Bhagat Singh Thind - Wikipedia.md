@@ -1,3 +1,8 @@
+---
+title: "## [en.wikipedia.org](https://en.wikipedia.org/wiki/United_States_v._Bhagat_Singh_Thind)"
+category: "contemporary-analysis"
+---
+
 ## [en.wikipedia.org](https://en.wikipedia.org/wiki/United_States_v._Bhagat_Singh_Thind)
 
 ## **United States v. Bhagat Singh Thind**
@@ -12,9 +17,14 @@
 |---------------------------------------------------------|---------------------------------------------------------------------------------|--|
 | | | |
 | Supreme Court of the United States | | |
-| Argued January 11–12, 1923<br>Decided February 19, 1923 | | |
-| Full case<br>name | United States v. Bhagat Singh Thind | |
-| Citations | 261 U. S.<br>204 (more)<br>43 S. Ct. 338; 67 L. Ed. 616; 1923 U. S.<br>LEXIS 2544 | |
+| Argued January 11–12, 1923
+Decided February 19, 1923 | | |
+| Full case
+name | United States v. Bhagat Singh Thind | |
+| Citations | 261 U. S.
+204 (more)
+43 S. Ct. 338; 67 L. Ed. 616; 1923 U. S.
+LEXIS 2544 | |
 | Case history | | |
 | Prior | In re Bhagat Singh Thind, 268 F. 683 (D. | |
 
@@ -27,10 +37,18 @@
 | Chief Justice | | |
 | William H. Taft | | |
 | Associate Justices | | |
-| Joseph Mc Kenna<br>·<br>Oliver W. Holmes Jr. | | |
-| Willis Van Devanter<br>·<br>James C. Mc Reynolds | | |
-| Louis Brandeis<br>·<br>George Sutherland | | |
-| Pierce Butler<br>·<br>Edward T. Sanford | | |
+| Joseph Mc Kenna
+·
+Oliver W. Holmes Jr. | | |
+| Willis Van Devanter
+·
+James C. Mc Reynolds | | |
+| Louis Brandeis
+·
+George Sutherland | | |
+| Pierce Butler
+·
+Edward T. Sanford | | |
 | | | |
 | Case opinion | | |
 | Majority | Sutherland, joined by unanimous | |
@@ -79,9 +97,9 @@ Some of the consequences of revoked naturalized status are illustrated by the ex
 
 Thind petitioned for naturalization a third time in 1935 after the Congress passed the Nye-Lea Act, which made World War I veterans eligible for naturalization regardless of race. Based on his status as a veteran of the United States military during World War I, he was finally granted United States citizenship nearly two decades after he first petitioned for naturalization.
 
-As public support for Asian Indians grew throughout World War II, [citation needed] and as India's independence came closer to reality, Indians argued for an end to their legislative discrimination. The repeal of Chinese exclusion laws in 1943 and the granting of naturalization privileges to Chinese encouraged Asian Indians to hope for similar gains. Hurdling over many members of Congress and the American Federation of Labor, which vehemently opposed removing legislative measures barricading Indian immigration and naturalization, the Asian Indian community finally succeeded in gaining support among several prominent congressmen, as well as President Franklin D. Roosevelt. The support culminated in the signing into law by President Harry S. Truman on July 2, 1946, of the <u>Luce-Celler Act</u>. This Act reversed the Thind decision by explicitly extending racial eligibility for naturalization to natives of India, and set a token quota for their immigration at 100 per year.
+As public support for Asian Indians grew throughout World War II, [citation needed] and as India's independence came closer to reality, Indians argued for an end to their legislative discrimination. The repeal of Chinese exclusion laws in 1943 and the granting of naturalization privileges to Chinese encouraged Asian Indians to hope for similar gains. Hurdling over many members of Congress and the American Federation of Labor, which vehemently opposed removing legislative measures barricading Indian immigration and naturalization, the Asian Indian community finally succeeded in gaining support among several prominent congressmen, as well as President Franklin D. Roosevelt. The support culminated in the signing into law by President Harry S. Truman on July 2, 1946, of the Luce-Celler Act. This Act reversed the Thind decision by explicitly extending racial eligibility for naturalization to natives of India, and set a token quota for their immigration at 100 per year.
 
-- <u>List of United States Supreme Court cases, volume 261</u>
+- List of United States Supreme Court cases, volume 261
 - Racial classification of Indian Americans
 - Dred Scott v. Sandford
 

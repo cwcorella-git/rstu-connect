@@ -1,3 +1,8 @@
+---
+title: "WORK IN PROGRESS"
+category: "theory"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 ## ![](_page_1_Picture_0.jpeg)
@@ -1618,7 +1623,7 @@ This sequence serves to introduce the game's primary enemy character - *The Chao
 
 ## ![](_page_33_Picture_17.jpeg)
 
-## <Copywriting TBC>
+## 
 
 ## Corrupt
 
@@ -1716,8 +1721,8 @@ As Alice grasps the hilt of the blade, it shakes in her clenched fist. She is ge
 
 - **TK** *"Tell me, how does a pointy thing affect your chances against the Queen? Your teeth pale in sharpness to hers. I see the Queen's cruelty every night when I dream. And every morning, I am here waiting for you. Sometimes you come, sometimes you don't. But this time, here you are again. And it always ends the same."*
 - **A** *"The same? What do you know of "same"? I've lived an eternity of "same" already."*
-- **TK** <deadpan> *"You will be captured and tortured. I will lose my head. And you will be returned to the Circus."*
-- **A** <angrily> *"Fool's words. If you're so certain, then does your dream include this?"*
+- **TK**  *"You will be captured and tortured. I will lose my head. And you will be returned to the Circus."*
+- **A**  *"Fool's words. If you're so certain, then does your dream include this?"*
 
 **Alice hurls her blade at the Knave.** He dodges the blade as it flies past him. A smash of glass is heard behind him. The blade careens into the **Hobby Horse** case, shattering it utterly.
 
@@ -1725,7 +1730,7 @@ Alice's blade is returned to her by an ecstatic, freed **Hobby Horse.** Alice gr
 
 ## ![](_page_35_Picture_14.jpeg)
 
-**TK** <Deadpan> "*Such anger. That is exactly how it always starts. Not that I really care… the only difference is the blade. Something always breaks when it comes to you… but you don't get much further."*
+**TK**  "*Such anger. That is exactly how it always starts. Not that I really care… the only difference is the blade. Something always breaks when it comes to you… but you don't get much further."*
 
 Alice meets his stare, and she slams the hilt of her new Hobby Horse into the ground.
 
@@ -1740,7 +1745,7 @@ The Knave motions in the direction of the Queen's Castle. The space in between i
 
 With an agitated huff, Alice turns her back to look at the path ahead. Turning back to the Knave, he has disappeared.
 
-**A** <To her Rabbit> "*Lies peppered with nonsense. If he doesn't fancy my odds, I'll take matters into my own hands."* 
+**A**  "*Lies peppered with nonsense. If he doesn't fancy my odds, I'll take matters into my own hands."* 
 
 The Hobby Horse brays with approval. Alone with her Rabbit, Alice continues on her path. **We PLAY** as Alice navigates the broken structures and floating islands that hang in the space of what was once the whole of Queensland. Her destination is The Courthouse (seat of Judgement) which can be seen floating in the distance.
 
@@ -1962,7 +1967,7 @@ Each time Alice is hit, fails a dodge, or doesn't instigate a successful attack 
 
 ## ![](_page_40_Picture_4.jpeg)
 
-<Copywriting TBC> Lam nus rendae accabor epudit, volorehenis cupta in ea quam ipsusani rae net aut vere. Corem. Disi nihicid unt. Git ditatur repratempor autas et. Maxim hiliquis.
+ Lam nus rendae accabor epudit, volorehenis cupta in ea quam ipsusani rae net aut vere. Corem. Disi nihicid unt. Git ditatur repratempor autas et. Maxim hiliquis.
 
 ## ![](_page_40_Picture_6.jpeg)
 

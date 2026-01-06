@@ -1,3 +1,8 @@
+---
+title: "## [en.wikipedia.org](https://en.wikipedia.org/wiki/Goodnight_Punpun)"
+category: "contemporary-analysis"
+---
+
 ## [en.wikipedia.org](https://en.wikipedia.org/wiki/Goodnight_Punpun)
 
 ## **Goodnight Punpun**
@@ -13,13 +18,35 @@
 | | • Slice of life[2] |
 |------------------------|-----------------------------------------------------------|
 | Manga | |
-| Written<br>by | Inio Asano |
-| Published<br>by | Shogakukan |
-| English<br>publisher | • NA:<br>Viz Media |
-| Magazine | • Weekly<br>Sunday<br>Young |
-| | • (March<br>2007<br>– July<br>31<br>2008)<br>15<br>,<br>, |
-| | • Weekly<br>Big<br>Comic<br>Spirits |
-| | • (October<br>– November<br>20<br>2008<br>2<br>,<br>, |
+| Written
+by | Inio Asano |
+| Published
+by | Shogakukan |
+| English
+publisher | • NA:
+Viz Media |
+| Magazine | • Weekly
+Sunday
+Young |
+| | • (March
+2007
+– July
+31
+2008)
+15
+,
+, |
+| | • Weekly
+Big
+Comic
+Spirits |
+| | • (October
+– November
+20
+2008
+2
+,
+, |
 | | 2013) |
 | Demographic | Seinen |
 | Original run | March 15, 2007 – November 2, 2013 |
@@ -100,7 +127,11 @@ Written and illustrated by [Inio Asano,](https://en.wikipedia.org/wiki/Inio_Asan
 
 In July 2015, [Viz Media](https://en.wikipedia.org/wiki/Viz_Media) announced at [Otakon](https://en.wikipedia.org/wiki/Otakon) that they licensed the mang[a\[17\]](#page-18-3) and would be releasing the manga in seven omnibus volumes[,\[18\]](#page-18-4) with the first published on March 15, 2016[,\[19\]](#page-18-5) and the last one on September 19, 2017[.\[20\]](#page-18-6)
 
-| No. | Original<br>release<br>date | Original ISBN | English<br>release<br>date | English ISBN |
+| No. | Original
+release
+date | Original ISBN | English
+release
+date | English ISBN |
 |-----|-----------------------------|-------------------|----------------------------|-------------------|
 | 1 | August 3, | 978-4-09-151218-5 | March 15, | 978-1-4215-8620-5 |
 ## | | 2007[14] | | 2016[21] | |

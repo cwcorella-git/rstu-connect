@@ -1,3 +1,8 @@
+---
+title: "EMERGENCY N. K. JEMISIN"
+category: "contemporary-analysis"
+---
+
 ## AMAZON ORIGINAL STORIES
 
 # EMERGENCY N. K. JEMISIN

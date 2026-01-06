@@ -1,3 +1,8 @@
+---
+title: "**The Inefficient Utopia or How Consensus Will Change the World**"
+category: "contemporary-analysis"
+---
+
 ## **Curious George Brigade**
 
 # **The Inefficient Utopia or How Consensus Will Change the World**

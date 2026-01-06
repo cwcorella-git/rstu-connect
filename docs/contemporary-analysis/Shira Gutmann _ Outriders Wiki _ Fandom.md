@@ -1,3 +1,8 @@
+---
+title: "**Shira Gutmann**"
+category: "contemporary-analysis"
+---
+
 [outriders.fandom.com](https://outriders.fandom.com/wiki/Shira_Gutmann)
 
 # **Shira Gutmann**

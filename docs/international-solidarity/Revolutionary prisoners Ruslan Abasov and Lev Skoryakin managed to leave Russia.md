@@ -1,3 +1,8 @@
+---
+title: "## **Revolutionary prisoners Ruslan Abasov and Lev Skoryakin managed to leave Russia**"
+category: "international-solidarity"
+---
+
 ## **Revolutionary prisoners Ruslan Abasov and Lev Skoryakin managed to leave Russia**
 
 ## **Date:** Unknown

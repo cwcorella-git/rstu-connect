@@ -1,3 +1,8 @@
+---
+title: "## **Mumia Abu-Jamal on "outside agitators" and the meaning of Ferguson**"
+category: "contemporary-analysis"
+---
+
 ## **Mumia Abu-Jamal on "outside agitators" and the meaning of Ferguson**
 
 ## **Date:** Unknown

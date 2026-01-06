@@ -1,3 +1,8 @@
+---
+title: "The Ego and Its Own"
+category: "contemporary-analysis"
+---
+
 ## CAMBRIDGE
 
 ## IEXIS
@@ -87,27 +92,44 @@ ISBN 0 521 45016 0 hardback ISBN 0 521 456479 paperback
 | The Ego and Its Own | I |
 | All things are nothing to me | 5 |
 | First Part: MAN | 9 |
-| A human life<br>I | 13 |
-| II<br>Men of the old time and the new | 19 |
-| I<br>The ancients | 19 |
-| 2<br>The moderns | 27 |
-| § 1<br>The spirit | 30 |
-| §2<br>The possessed | 35 |
-| §3<br>The hierarchy | 62 |
-| The free<br>3 | 89 |
-| § I<br>Political liberalism | 89 |
-| §2<br>Social liberalism | IDS |
-| §3<br>Humane liberalism | II I |
+| A human life
+I | 13 |
+| II
+Men of the old time and the new | 19 |
+| I
+The ancients | 19 |
+| 2
+The moderns | 27 |
+| § 1
+The spirit | 30 |
+| §2
+The possessed | 35 |
+| §3
+The hierarchy | 62 |
+| The free
+3 | 89 |
+| § I
+Political liberalism | 89 |
+| §2
+Social liberalism | IDS |
+| §3
+Humane liberalism | II I |
 ## | Postscript | 129 |
 
 | Second Part: I | |
 |------------------------------------------|--|
-| Ownness<br>I | |
-| The owner<br>II | |
-| My power<br>I | |
-| My intercourse<br>2 | |
-| My self-enjoyment<br>3 | |
-| The unique one<br>III | |
+| Ownness
+I | |
+| The owner
+II | |
+| My power
+I | |
+| My intercourse
+2 | |
+| My self-enjoyment
+3 | |
+| The unique one
+III | |
 | Biographical and other notes on the text | |
 | Index of subjects | |
 ## | Index of proper names | |
@@ -128,7 +150,7 @@ The Ego and Its Own has been called 'the most revolutionary [book) ever written'
 
 But Stirner's book is not only striking and provocative; it has also played an important, if neglected, role in the history of political thought. Stirner's polemic was, most obviously, an impulse to, and an indication of, the decline of the Hegelian left as a coherent intellectual movement. But it was, also, central to the formation of Marxism, forcing Karl Marx to break with left Hegelian modes of thought (he discusses the book in unparalleled detail over some 400 pages of The German Ideology). Since then The Ego and Its Own has appeared ambiguous enough to provide subsequent generations with their own Stirner. For example, at the turn of the century, The Ego and Its Own was taken up - not least because of its adumbration of libertarian themes in its discussion of property and the state - as a founding text of individualist anarchism (especially in America, where it was an important influence on Benjamin R. Tucker and the journal Liberty). Stirner has been counted, moreover, as an important precursor of Friedrich Nietzsche; although, despite the claims of some commentators, he cannot be definitively shown to have directly influenced
 
-<sup>I</sup>James Huneker, Egoists. A Book of Supennen (New York, 1909), p. 350.
+IJames Huneker, Egoists. A Book of Supennen (New York, 1909), p. 350.
 
 Nietzsche, Stimer's work anticipates, both stylistically and substantively, certain Nietzschean motifs in modem political thought. Then in the 1960s Stimer was rediscovered again, this time as a thinker with conceptual affinities - for example, in his anti-essentialist conception of the self as a 'creative nothing' (p. 7) - with existentialist thought. This plurality of interpretations should scarcely disappoint Stimer himself, since, rejecting any notion of external constraints on our understanding, his claim about the Bible would seem to apply equally to his own work:
 
@@ -144,7 +166,7 @@ The Ego and Its Own is not always an easy work to engage with. Stirner's unyield
 
 The point, however, is not simply that Stirner has a highly idiosyncratic and somewhat relentless style, but that there is a connection between the form of Stirner's writing and his conception of language and rationality as human creations that have come to bind and restrict their creators. This dominance of language and reason is sustained, for Stirner, by a conception of truth as constituting a privileged
 
-<sup>2</sup> Letter to his mother, 17 December 1 844, Arnold Ruge, Briefwechsel und Tagebuchbliitter aus den Jahren I825-I880, ed. Paul Nerrlich (Berlin, 1 886), volume I, p. 3 86.
+2 Letter to his mother, 17 December 1 844, Arnold Ruge, Briefwechsel und Tagebuchbliitter aus den Jahren I825-I880, ed. Paul Nerrlich (Berlin, 1 886), volume I, p. 3 86.
 
 domain lying beyond the individual. As long as you believe in this truth, he insists, you are a 'sen'ant' (p. 3 12). To subvert this tyranny, truths must be deprived of 'their sorry existence' as independent subjects and subordinated to the individual. 'I', he insists, 'am the criterion of truth' (p. 3 14). It is this radical assertion of the relativity of rationality, truth, and language, that grounds Stirner's bizarre prose. The only restriction on the forms of expression and mode of argumentation acceptable to him is that they serve our individual ends, and it seems that received meanings and traditional standards of argumentation do not always satisfy that criterion.
 
@@ -174,7 +196,7 @@ Individual and historical development are the two primary forms of the Stirneria
 
 Stirner's dialectic is obviously repetitive (Karl Marx, exasperated by this reiteration, wrote 'Repetitio est mater studiorum'3 against his notes on Stirner's conception of history) but also both highly schematic and derivative. First, empirical detail, insofar as it appears at all, functions solely as the bearer of conceptual development. The ancients, for example, like the child and 'Negroidity', are not serious objects of investigation, but simply the disguises of 'realism'. In The German Ideology, Marx calls the book a Geistergeschichte, a history of 'ghosts' within which empirical details are utilized only to provide convenient bodies for the 'spirits' of realism, idealism, and egoism in turn. The point is not simply that this is not good history, but also that it begins to look suspiciously like the very 'Christian' vice that Stimer denounces elsewhere at length - the neglect of the concrete and the particular in favour of abstract conceptual categories . Second, much of the content and structure of Stirner's history is derived from Hegel or his followers. There are scarcely digested 'borrowings' from Hegel's own work throughout. To take only one example, apart from schematizing what are prefatory and passing remarks in Hegel into all that needs saying, Stirner's portrayal of the epoch of 'Negroidity' does little more than reproduce the description of Africa in Hegel's Lectures on the Philosophy of fi Vorld History:
 
-<sup>3</sup>'Repetition is the mother of learning', The Gennan Ideology, Marx Engels Collected Wor!:s (London, 1976), volume 5, p. 186.
+3'Repetition is the mother of learning', The Gennan Ideology, Marx Engels Collected Wor!:s (London, 1976), volume 5, p. 186.
 
 Introduction as 'the land of childhood', where humankind 'has not progressed beyond a merely sensuous existence'.+ However in its overall construction or structure, Stirner's dialectic is derivative of Hegelianism more generally. In particular, in his two most obvious 'innovations' in regard to Hegel's own historical schema - first, in following a tripartite rather than quadripartite division of history; and second, in treating the future as the third synthesizing dimension in that configuration - Stirner's predecessors include both August Cieszkowski, in his opuscule Die Prolegomena zur Historiosophie (r838), and Moses Hess, in Die europiiische Triarchie (r84r). Both Cieszkowski and Hess, themselves consc.iously following Herder, also draw analogies with individual development, the three stages of history representing the childhood, youth, and maturity of humankind.
 
@@ -184,7 +206,7 @@ Throughout the First Part of The Ego and Its Own, Stirner constructs a lengthy a
 
 Stirner rejects the contemporary consensus that Feuerbach had completed the critique of religion, and provocatively insists that the Feuerbachian problematic reproduces the central features of Christianity. For Feuerbach, the central error of religion was that it separated human attributes from actual individuals by transferring the predicates of the species into another world as if they constituted a self-sustaining being. But, for Stirner, the errors of religion are not
 
-<sup>4</sup>G. W. F. Hegel, Lectures 011 the Philosuphy of World History: Introduction (Cambridge, 1975), p. 172.
+4G. W. F. Hegel, Lectures 011 the Philosuphy of World History: Introduction (Cambridge, 1975), p. 172.
 
 overcome with a rejection of God as transcendent subject; rather, religion is defined formally as the subordination of the individual to spirit in any of its guises. Because Feuerbach's trans formative criticism leaves the divine predicates untouched, he is charged with allowing the sacred to remain, if not as God then as 'Man with a capital M!' (p. 55). Feuerbach had not revealed human nature as it was, but rather deified a purely prescriptive account of what being human involved, thus leaving the 'real kernel' of religion, the positing of an 'essence over me' (p. 46), intact. Indeed, Feuerbach's achievement was a 'change of masters' (p. 55) which actually established a more complete tyranny than before, tying the individual even more securely to a divine ruler: first, by rejecting the transcendence of religion in favour of an immanent divinity, making a God of our supposed nature; second, in thus discovering a 'God' who could possess all, believers and unbelievers alike.
 
@@ -262,25 +284,49 @@ As Stirner's own meiotic prediction has it: 'very few' of us will 'draw joy' (p'
 
 ial for enjoyment' (p. 28 1), is more apparent than real, undermined, not least, by his hostility to any values which conflict with 'ownness'. But this charge of neglecting the 'weal' of his readers, is unlikely to have troubled Stirner. Discussing his own authorial intention, Stirner acknowledged that he saw humankind as 'fretted in dark superstition' (p. 262), but denied that he sought their enlightenment and welfare; had that been his concern, Stirner confided that he would have had to conceal rather than publish The Ego and Its Own:
 
-Do I write out of love to men? No, I write because I want to procure for �y thoughts an existence in the world; and even if I foresaw that these thoughts would deprive you of your rest and your peace, even if I saw the bloodiest wars and the fall of many generations springing up from this seed of thought - I would nonetheless scatter it. Do with it what you will and can, that is your affair and does not trouble me. (pp. 262-3)
+Do I write out of love to men? No, I write because I want to procure for y thoughts an existence in the world; and even if I foresaw that these thoughts would deprive you of your rest and your peace, even if I saw the bloodiest wars and the fall of many generations springing up from this seed of thought - I would nonetheless scatter it. Do with it what you will and can, that is your affair and does not trouble me. (pp. 262-3)
 
 ## Principal events in Stirner's life
 
-| 1 806 | October<br>:<br>Born (25th) Johann Caspar Schmidt in Bay<br>reuth, to lower-middle-class Lutheran parents. |
+| 1 806 | October
+:
+Born (25th) Johann Caspar Schmidt in Bay
+reuth, to lower-middle-class Lutheran parents. |
 |-------|--------------------------------------------------------------------------------------------------------------------------------------|
 | | |
 | | April: Father died. |
 | | April: Mother remarried and moved to Culm. |
-| | December<br>: Sister born. |
-| | September<br>: Sister died. |
-| | Gymnasium<br>Stirner<br>attended<br>prestigious<br>at<br>Bayreuth, |
-| | living with<br>his<br>father's<br>sister<br>and<br>her husband<br>(his |
+| | December
+: Sister born. |
+| | September
+: Sister died. |
+| | Gymnasium
+Stirner
+attended
+prestigious
+at
+Bayreuth, |
+| | living with
+his
+father's
+sister
+and
+her husband
+(his |
 | | godfather) who were themselves childless. |
 | | |
-| 1 826 | October<br>: Entolled in the philosophy faculty at the Univer<br>sity<br>of Berlin<br>(attended<br>lectures<br>by<br>Schleiermacher, |
+| 1 826 | October
+: Entolled in the philosophy faculty at the Univer
+sity
+of Berlin
+(attended
+lectures
+by
+Schleiermacher, |
 | | |
 | | Marheineke, and Hegel). |
-| 1 828 | October<br>: Moved to the University of Erlangen ( partiy for |
+| 1 828 | October
+: Moved to the University of Erlangen ( partiy for |
 
 November : Moved to the University of Konigsberg. This was only a nominal attachment (he attended no lectures, devoting time instead to 'family affairs' - a euphemism for his mother's deteriorating mental condition).
 
@@ -307,11 +353,29 @@ financial reasons).
 
 #### Principal events in Stirner's life
 
-| | Publication (anonymously) of a variety of short conven<br>tional pieces of journalism in the Journal des Oesterreich |
+| | Publication (anonymously) of a variety of short conven
+tional pieces of journalism in the Journal des Oesterreich |
 |-------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1 852 | ischen Lloyd.<br>Published a Geschichte der Reaktion (largely consisting of<br>excerpts<br>from<br>earlier<br>conservative<br>thinkers,<br>such<br>as |
-| | Burke, and from contemporaries like Hengstenberg).<br>Spent two brief periods (5<br>to 26<br>l\1arch<br>1 853 and<br>1<br>January to 4 February 1 854) in a debtors' prison in |
-| 1 856 | Berlin.<br>May: Stung by a winged insect, Stirner fell into a fever.<br>June: After a partial remission, Stirner'<br>died (25th). |
+| 1 852 | ischen Lloyd.
+Published a Geschichte der Reaktion (largely consisting of
+excerpts
+from
+earlier
+conservative
+thinkers,
+such
+as |
+| | Burke, and from contemporaries like Hengstenberg).
+Spent two brief periods (5
+to 26
+l\1arch
+1 853 and
+1
+January to 4 February 1 854) in a debtors' prison in |
+| 1 856 | Berlin.
+May: Stung by a winged insect, Stirner fell into a fever.
+June: After a partial remission, Stirner'
+died (25th). |
 
 ## Further reading
 
@@ -355,7 +419,7 @@ This translation of The Ego and Its Own was made by the American anarchist intel
 
 ## To my sweetheart Marie Dahnharde
 
-## All things are nothing to me<sup>2</sup>
+## All things are nothing to me2
 
 What is not supposed to be my concern! First and foremost the good cause, then God's cause, the cause of mankind, of truth, of freedom, of humanity, of justice; further, the cause of my people, my prince, my fatherland; finally, even the cause of mind3 and a thousand other causes. Only my cause is never to be my concern. 'Shame on the egoist who thinks only of himself!'
 
@@ -473,7 +537,7 @@ How each of us developed himself, what he strove for, attained, or missed, what 
 
 Let us therefore look into the activities our forefathers busied themselves with.
 
-#### <sup>I</sup>The ancients
+#### IThe ancients
 
 Custom having once given the name of 'the ancients' to our pre-Christian ancestors, we will not throw it up against them that, in comparison with us experienced people, they ought properly to be called children, but will rather continue to honour them as our good old fathers. But how have they come to be antiquated, and who could displace them through his pretended newness?
 
@@ -481,7 +545,7 @@ We know, of course, the revolutionary ilmovator and disrespectful heir, who even
 
 The fathers must doubtless have themselves begotten the young one who entombed them. Let us then eavesdrop on this act of generation.
 
-'To the ancients the world was a truth', says Feuerbach, but he forgets to make the important addition, 'a truth whose untruth they tried to get behind, and at last really did'. ""'hat is meant by ::hose words of Feuerbach will be easily recognized if they are put alongside the Christian thesis of the 'vanity and transitoriness of the world'. For, as the Christian can never convince himself of the vanity of the divine word, but believes in its eternal and unshakeable truth, which, the more its depths are searched, must all the more brilliantly come to light and triumph, so the ancients on their side lived in the feeling that the world and mundane relations (such as the natural ties of blood) were the truth before which their powerless '!' must bow. The very thing on which the ancients set the highest value is spurned by Christians as the valueless, and what they recognized as truth these brand as idle lies; the high significance of the fatherland disappears, and the Christian must regard himself as 'a stranger on earth, ;a the sanctity of funeral rites, from which sprang a work of art like the Antigone of Sophocles, <sup>12</sup>is designated as a paltry thing ('let the dead bury their dead');13 the infrangible truth of family ties is represented as an untruth which one cannot promptly enough get clear of;b and so in everything.
+'To the ancients the world was a truth', says Feuerbach, but he forgets to make the important addition, 'a truth whose untruth they tried to get behind, and at last really did'. ""'hat is meant by ::hose words of Feuerbach will be easily recognized if they are put alongside the Christian thesis of the 'vanity and transitoriness of the world'. For, as the Christian can never convince himself of the vanity of the divine word, but believes in its eternal and unshakeable truth, which, the more its depths are searched, must all the more brilliantly come to light and triumph, so the ancients on their side lived in the feeling that the world and mundane relations (such as the natural ties of blood) were the truth before which their powerless '!' must bow. The very thing on which the ancients set the highest value is spurned by Christians as the valueless, and what they recognized as truth these brand as idle lies; the high significance of the fatherland disappears, and the Christian must regard himself as 'a stranger on earth, ;a the sanctity of funeral rites, from which sprang a work of art like the Antigone of Sophocles, 12is designated as a paltry thing ('let the dead bury their dead');13 the infrangible truth of family ties is represented as an untruth which one cannot promptly enough get clear of;b and so in everything.
 
 If we now see that to the two sides opposite things appear as truth, to one the natural, to the other the intellectual, to one earthly things and relations, to the other heavenly (the heavenly fatherland, 'Jerusalem that is above,' etc.), it still remains to be considered how the new time and that undeniable reversal could come out of antiquity. But the ancients themselves worked toward making their truth a lie.
 
@@ -489,7 +553,7 @@ Let us plunge at once into the midst of the most brilliant years of the ancients
 
 The fathers had been enslaved by the undisturbed power of existing things too long for posterity not to have to learn by bitter experience to flel themselves. Therefore the Sophists, Is with courageous
 
-<sup>&</sup>quot; Hebrews 1 1 :13 . ; .'>lark 1 0:29.
+&quot; Hebrews 1 1 :13 . ; .'>lark 1 0:29.
 
 impertinence, pronounce the reassuring words, 'don't be surprised!' and diffuse the rationalistic doctrine, 'use your understanding, your wit, your mind, against everything; it is by having a good and welldrilled understanding that one gets through the world best, provides for himself the best lot, the pleasantest life'. Thus they recognize in mind man's true weapon against the world. This is why they lay such stress on dialectic skill, command of language, the art of disputation, etc. They announce that mind is to be used against everything; but they are still far removed from the holiness of the spirit, for to them it is a means, a weapon, as trickery and defiance serve children for the same purpose; their mind is the unbribeable understanding.
 
@@ -519,7 +583,7 @@ Thus the ancients mounted to spirit, and strove to become spiritual. But a man w
 
 Not the spirit, then, which has to do with absolutely nothing unspiritual, with no thing, but only with the essence which exists behind and above things, with thoughts - not that did the ancients exert, for they did not yet have it; no, they had only reached the point of struggling and longing for it, and therefore sharpened [schatften] it against their too-powerful foe, the world of sense (but what would not have been sensuous for them, since Jehovah or the gods of the heathen were yet far removed from the conception 'God is spirit', since the 'heavenly fatherland' had not yet stepped into the place of the sensuous, etc.?), they sharpened against the world of sense their sense, their acuteness. To this day the Jews, those precocious children of antiquity, have got no further; and with all the subtlety and strength of their prudence and understanding, which easily becomes master of things and forces them to obey it, they cannot discover spirit, which takes no account whatever of things.
 
-The Christian has spiritual interests, because he allows himself to be a spiritual man; the Jew does not even understand these interests in their purity, because he does not allow himself to assign no value to things. He does not arrive at pure spirituality, a spirituality such as is religiously e:\'Pressed, for instance, in the faith of Christians, which alone (without works) justifies. Their unspirituali�y sets Jews forever apart from Christians; for the spiritual man is incomprehensible to the unspiritual, as the unspiritual is contemptible to the spiritual. But the Jews have only 'the spirit of this world'.
+The Christian has spiritual interests, because he allows himself to be a spiritual man; the Jew does not even understand these interests in their purity, because he does not allow himself to assign no value to things. He does not arrive at pure spirituality, a spirituality such as is religiously e:\'Pressed, for instance, in the faith of Christians, which alone (without works) justifies. Their unspiritualiy sets Jews forever apart from Christians; for the spiritual man is incomprehensible to the unspiritual, as the unspiritual is contemptible to the spiritual. But the Jews have only 'the spirit of this world'.
 
 The ancient acuteness and profundity lies as far from the spirit and the spirituality of the Christian world as earth from heaven.
 
@@ -549,7 +613,7 @@ So antiquity finishes with the world of things, the order of the world, the worl
 
 As the ancients worked toward the conquest of the world and strove to release man from the heavy trammels of connection with other things, at last they came also to the dissolution of the state and giving preference to everything private. Of course community, family, and so forth, as natural relations, are burdensome hindrances which diminish my spiritual freedom.
 
-## <sup>2</sup>The moderns [Die Neuen]
+## 2The moderns [Die Neuen]
 
 'If any man be in Christ, he is a new [neue] creature; the old is passed away, behold, all is become new.'a
 
@@ -583,7 +647,7 @@ If the ancients have nothing to show but wisdom of the world, the modems never d
 
 The realm of spirits is monstrously great, there is an infinite deal of the spiritual; yet let us look and see what the spirit, this bequest of the ancients, properly is.
 
-Out of their birth-pangs it came forth, but they themselves could not utter themselves as spirit; they could give birth to it, it itself must speak. The 'born God, the Son of �1an', is the first to utter the word that the spirit, he, God, has to do with nothing earthly and no earthly relationship, but solely with the spirit and spiritual relationships.
+Out of their birth-pangs it came forth, but they themselves could not utter themselves as spirit; they could give birth to it, it itself must speak. The 'born God, the Son of 1an', is the first to utter the word that the spirit, he, God, has to do with nothing earthly and no earthly relationship, but solely with the spirit and spiritual relationships.
 
 Is my courage, indestructible under all the world's blows, my inflexibility and my obduracy, perchance already spirit in the full sense, because the world cannot touch it? v Vhy, then it would not yet be at enmity with the world, and all its action would consist merely in not succumbing to the world! 1\'0, so long as it does not busy itself with itself alone, so long as it does not have to do with its world, the spiritual, alone, it is not free spirit, but only the 'spirit of this world', the spirit fettered to it. The spirit is free spirit, that is, really spirit, only in a world of its own; in 'this', the earthly world, it is a stranger. Only through a spiritual world is the spirit really spirit, for 'this' world does not understand it and does not know how to keep 'the maiden from a foreign land'35 from departing.
 
@@ -619,7 +683,7 @@ Only from this disunion in which I and the spirit lie; only because 'I' and 'spi
 
 But from this it also appears how thoroughly theological is the liberation that Feuerbacha is labouring to give us. What he says is that we had only mistaken our own essence, and therefore looked for it in the other world, but that now, when we see that God was only our human essence, we must recognize it again as ours and move it back out of the other world into this. To God, who is spirit, Feuerbach gives the name 'our e ssence'. Can we put up with this, that ' our
 
-<sup>&</sup>quot; Ludwig Feuerbach, The Essence o[Christianity, 2nd enlarged edition (Leipzig, 1 843).37
+&quot; Ludwig Feuerbach, The Essence o[Christianity, 2nd enlarged edition (Leipzig, 1 843).37
 
 essence' is brought into opposition to liS, that we are split into an essential and an un-essential self? Do we not with that go back into the dreary misery of seeing ourselves banished out of ourselves?
 
@@ -631,7 +695,7 @@ Let us, in brief, set Feuerbach's theological view and our contradiction over ag
 
 To this we reply: The supreme being is indeed the essence of man, but, just because it is his essence and not he himself, it remains quite immaterial whether we see it outside him and view it as 'God', or find it in him and call it 'essence of man' or 'man'. I am neither God nor man, neither the supreme essence nor my essence, and therefore it is all one in the main whether I think of the essence as in me or outside me. Indeed, we really do always think of the supreme being as in both kinds of otherworldliness, the inward and outward,
 
-<sup>•</sup> See, for example, The Essence of Christianit)" p. 402 .
+• See, for example, The Essence of Christianit)" p. 402 .
 
 at once; for the 'Spirit of God' is, according to the Christian view, also 'our spirit', and 'dwells in us'," It dwells in heaven and dwells in us; we poor things are just its 'dwelling', and, if Feuerbach goes on to destroy its heavenly dwelling and force it to move to us bag and baggage, then we, its earthly apartments, will be badly overcrowded.
 
@@ -645,7 +709,7 @@ Have you ever seen a spirit ? 'No, not I, but my grandmother.' Now, you see, it'
 
 But had we no grandfathers then, and did they not shrug their shoulders every time our grandmothers told about their ghosts? Yes, those were unbelieving men who have harmed our good religion much, those rationalists ! We shall feel that! What else lies at the bottom of this warm faith in ghosts, ' if not the faith in 'the existence of spiritual beings in general', and is not this latter itself disastrously unsettled if impertinent men of the understanding may disturb the former? The Romantics39 were quite conscious what a blow the very belief in God suffered by the laying aside of the belief in spirits or ghosts, and they tried to help us out of the baleful consequences not only by their re-awakened fairy world, but at last, and especially, by the 'intrusion of a higher world', by their somnambulists, visionaries of Prevorst, etc. The good believers and fathers of the church did not suspect that with the belief in ghosts the foundation of religion was withdrawn, and that since then it had been floating in the air. He who no longer believes in any ghost needs only to travel on consistently in his unbelief to see that there is no separate being at all concealed behind things, no ghost or - what is naively reckoned as synonymous even in our use of words - no 'spirit'.
 
-<sup>,</sup> For example, Romans 8:9; I Corinthians 3:r6; John 20: 22 and innumerable other passages.
+, For example, Romans 8:9; I Corinthians 3:r6; John 20: 22 and innumerable other passages.
 
 'Spirits exist! ' Look about in the world, and say for yourself whether a spirit does not gaze upon you out of everything. Out of the lovely little flower there speaks to you the spirit of the Creator, who has shaped it so wonderfully; the stars proclaim the spirit that established their order; from the mountain-tops a spirit of sublimity breathes down; out of the waters a spirit of yearning murmurs up; and - out of men millions of spirits speak. The mountains may sink, the flowers fade, the world of stars fall in ruins, the men die - what matters the wreck of these visible bodies? The spirit, the 'invisible spirit', abides eternally!
 
@@ -673,7 +737,7 @@ Alienness is a criterion of the 'sacred'. In everything sacred there lies someth
 
 Why is an incontrovertible mathematical truth, which might even be called eternal according to the common understanding of words, not - sacred? Because it is not revealed, or not the revelation of a higher being. If by revealed we understand only the so-called religious truths, we go far astray, and entirely fail to recognize the breadth of the concept 'higher being'. Atheists keep up their scoffing at the higher being, which was also honoured under the name of the 'highest' or erre supreme, 4 1 and trample in the dust one 'proof of his existence' after another, without noticing that they themselves, out of need for a higher being, only annihilate the old to make room for
 
-<sup>,</sup> How the priests chime I how important they Would make it out, that men should come their way And babhle, just as yesterday, today! Oh, blame them not! They know man's need, I say! For he takes all his happiness this way, To babble just tomorrow as today,"
+, How the priests chime I how important they Would make it out, that men should come their way And babhle, just as yesterday, today! Oh, blame them not! They know man's need, I say! For he takes all his happiness this way, To babble just tomorrow as today,"
 
 a new. Is 'man' perchance not a higher essence than an individual man, and must not the truths, rights, and ideas which result from the concept of him be honoured and - counted sacred, as revelations of this very concept? For, even though we should abrogate again many a truth that seemed to be made manifest by this concept, yet this would only evince a misunderstanding on our part, without in the least degree harming the sacred concept itself or taking their sacredness from those truths that must 'rightly' be looked upon as its revelations . . Man reaches beyond every individual man, and yet though he be 'his essence' - is not in fact his essence (which rather would be as single as he the individual himself) but a general and 'higher', yes, for atheists 'the highest essence , .43 And, as the divine revelations were not written down by God with his own hand, but made public through 'the Lord's instruments', so also the new highest essence does not write out its revelations itself, but lets them corne to our knowledge through 'true men'. Only the new essence betrays, in fact, a more spiritual style of conception than the old God, because the latter was still represented in a sort of embodiedness or form, while the undimmed spirituality of the new is retained, and no special material body is fancied for it. And in addition it does not lack corporeity, which even takes on a yet more seductive appearance because it looks more natural and mundane and consists in nothing less than in every bodily man - yes, or outright in 'humanity' or 'all men'. Thereby the spectralness of the spirit in a seeming-body has once again become really solid and popular.
 
@@ -727,13 +791,13 @@ Take notice how a 'moral man' behaves, who today often thinks he is through with
 
 Those who are zealous for something sacred often look very little like each other. How the strictly orthodox or old-style believers differ
 
-<sup>,</sup> Friedrich Christoph Schlosser, Geschichte der achtzehnten Jahrhunderts und des neunzehnten bis zum Sturz des franzosischen Kaiserreichs. Mit besonderer Rucksicht auf geistige Hi/dung, volume II (Heidelberg, 1837), p. 5 19.
+, Friedrich Christoph Schlosser, Geschichte der achtzehnten Jahrhunderts und des neunzehnten bis zum Sturz des franzosischen Kaiserreichs. Mit besonderer Rucksicht auf geistige Hi/dung, volume II (Heidelberg, 1837), p. 5 19.
 
 from the fighters for 'truth, light and justice', from the Philalethes, s7 the Friends of Light/8 the Rationalists, sy and others. And yet, how utterly unessential is this difference! If one buffets single traditional truths (miracles, unlimited power of princes), then the Rationalists buffet them too, and only the old-style believers wail. But, if one buffets truth itself, he immediately has both, as believers, for opponents. So with moralities; the strict believers are relentless, the clearer heads are more tolerant. But he who attacks morality itself gets both to deal with. 'Truth, morality, justice, light, etc.', are to be and remain 'sacred' . What any one finds to censure in Christianity is simply supposed to be 'un-Christian' according to the view of these rationalists; but Christianity must remain a 'fixture', to buffet it is outrageous, 'an outrage'. To be sure, the heretic against pure faith no longer exposes himself to the earlier fury of persecution, but so much the more does it now fall upon the heretic against pure morals.
 
 Piety has for a century received so many blows, and had to hear its superhuman essence reviled as an 'inhuman' one so often, that one cannot feel tempted to draw the sword against it again. And yet it has almost always been only moral opponents that have appeared in the arena, to assail the supreme essence in favour of - another supreme essence. So Proudhon,60 unabashed, says: 'Man is destined to live without religion, but the moral law (la loi morale) is eternal and absolute . Who would dare today to attack morality?'" !'vloral people skimmed off the best fat from religion, ate it themselves, and are now having a tough job to get rid of the resulting scrofula. If, therefore, we point out that religion has not by any means been hurt in its inmost part so long as people reproach it only with its superhuman essence, and that it takes its final appeal to the 'spirit' alone (for God is spirit), then we have sufficiently indicated its final accord with morality, and can leave its stubborn conflict with the latter lying behind us. It is a question of a supreme essence with both, and whether this is a superhuman or a human one can make (since it is in any case an essence over me, a super-mine one, so to speak) but little difference to me. In the end the relation to the human essence, or to 'man', as soon as ever it has shed the snake-skin of the old religion, will yet wear a religious snake -skin again.
 
-<sup>&</sup>quot; Pierre-Joseph Proudhon, De la creation de l"ordre dans l"humanite au principes d 'organisariun politique (Paris, r843), p. 36.
+&quot; Pierre-Joseph Proudhon, De la creation de l"ordre dans l"humanite au principes d 'organisariun politique (Paris, r843), p. 36.
 
 So Feuerbach instructs us that, 'if one only inverts speculative philosophy, always makes the predicate the subject, and so makes the subject the object and principle, one has the undraped truth, pure and clean'." With this, to be sure, we lost the narrow religious standpoint, lost the God, who from this standpoint is subject; but we take in exchange for it the other side of the religious standpoint, the moral standpoint. Thus we no longer say 'God is love', but 'love is divine'. If we further put in place of the predicate 'divine' the equivalent 'sacred' then, as far as concerns the sense, all the old comes back again. According to this, love is to be the good in man, his divineness, that which does him honour, his true humanity (it 'makes him man for the first time', makes for the first time a man out of him). So then it would be more accurately worded thus: Love is what is human in man, and what is inhuman is the loveless egoist. But precisely all that which Christianity and with it speculative philosophy (that is, theology) offers as the good, the absolute, is to self-ownership [Eigenheit] simply not the good (or, what means the same, it is only the good). Consequently, by the transformation of the predicate into the subject, the Christian essence (and it is the predicate that contains the essence, you know) would only be fixed yet more oppressively. God and the divine would entwine themselves all the more inextricably with me. To expel God from his heaven and to rob him of his 'transcendence' cannot yet support a claim of complete victory, if therein he is only chased into the human breast and gifted with indelible immanence. Now they say, the divine is the truly human!
 
@@ -741,7 +805,7 @@ The same people who oppose Christianity as the basis of the state, who oppose th
 
 So we may here mention by the way that rationalist movement which, after theologians had long insisted that only faith was capable of grasping religious truths, that only to believers did God reveal himself, and that therefore only the heart, the feelings, the believing imagination [Phantasie] was religious, broke out with the assertion that the 'natural understanding', human reason, was also capable of
 
-<sup>,</sup> Ludwig Feuerbach, 'Preliminary Theses for the Reformation of Philosophy', cited from Arnold Ruge (ed.), Anekdota zur neuesten deutschen Philosophic und Publizistik, volume II (Zurich, 1 843), p. 64:1
+, Ludwig Feuerbach, 'Preliminary Theses for the Reformation of Philosophy', cited from Arnold Ruge (ed.), Anekdota zur neuesten deutschen Philosophic und Publizistik, volume II (Zurich, 1 843), p. 64:1
 
 discerning God. What does that mean but that the reason laid claim to be the same visionary [Phantastin] as the imagination? In this sense Reimarus62 wrote his Vornehmsten Wahrheiten der naturlichen Religion. It had to come to this, that the whole man with all his faculties was found to be religious; heart and affections, understanding and reason, feeling, knowledge, and will, in short, everything in man, appeared religious. Hegel63 has shown that even philosophy is religious. And what is not called religion today? The 'religion of love', the 'religion of freedom', 'political religion', in short, every enthusiasm. So it is, too, in fact.
 
@@ -771,9 +835,9 @@ Because this morality completed into humanity has fully settled its accounts wit
 
 After the annihilation of faith Feuerbach thinks to put in to the supposedly safe harbour of love. 'The first and highest law must be the love of man to man. Homo homini Deus est77 - this is the supreme practical maxim, this is the turning point uf the world's history.'" But, properly speaking, only the god is changed - the deus; love has remained: there love to the superhuman God, here love to the human God, to homo as Deus. Therefore man is to me - sacred. And everything 'truly human' is to me - sacred! 'Marriage is sacred of itself. And so it is with all moral relations. Friendship is and must be sacred for you, and property, and marriage, and the good of every man, but sacred in and of itself., b Haven't we the priest again there? Who is his God? Man with a capital M! What is the divine? The human! Then the predicate has indeed only been changed into the subject, and, instead of the sentence 'God is love', they say 'love is divine'; instead of 'God has become man', 'man has become God', etc. It is nothing more or less than a new - religion. 'All moral relations are ethical, are cultivated with a moral mind, only where of themselves (without
 
-<sup>,</sup> Feuerbach, The Essence of Christianity, p. 402.
+, Feuerbach, The Essence of Christianity, p. 402.
 
-<sup>h</sup>Ibid. p. 403 .
+hIbid. p. 403 .
 
 religious consecration by the priest's blessing) they are counted religious.' Feuerbach's proposition, 'theology is anthropology', means only 'religion must be ethics, ethics alone is religion'.
 
@@ -805,7 +869,7 @@ And now whom do the ordinary liberal gentlemen mean to make free? Whose freedom 
 
 We shall come back later to many another wheel in the head - for instance, those of vocation, truthfulness, love, and the like.
 
-When one's own [Eigene] is contrasted with what is imparted [Eingegebenen] to him, there is no use in objecting that we cannot have anything isolated, but receive everything as a part of the universal order, and therefore through the impression of what is around us, and that consequently we have it as something 'imparted'; for there is a great difference between the feelings and thoughts which are aroused in me by other things and those w�ich are given to me. God, immortality, freedom, humanity, are drilled into us from childhood as thoughts and feelings which move our inner being more or less strongly, either ruling us without our knowing it, or sometimes in richer natures manifesting themselves in systems and works of art; but are always not aroused, but imparted, feelings, because we must believe in them and cling to them. That an Absolute existed, and that it must be taken in, felt, and thought by us, was settled as a faith in the minds of those who spent all the strength of their mind on recognizing it and setting it forth. The feeling for the Absolute exists there as an imparted one, and thenceforth results only in the most manifold revelations of its own self. So in Klopstock87 the religious feeling was an imparted one, which in Der Messias simply found artistic expression. If, on the other hand, the religion with which he was confronted had been for him only an incitation to feeling and thought, and if he had known how to take an attitude completely his own toward it, then there would have resulted, instead of religious inspiration, a dissolution and consumption of the religion itself. Instead of that, he only continued in mature years his childish feelings received in childhood, and squandered the powers of his manhood in decking out his childish trifles.
+When one's own [Eigene] is contrasted with what is imparted [Eingegebenen] to him, there is no use in objecting that we cannot have anything isolated, but receive everything as a part of the universal order, and therefore through the impression of what is around us, and that consequently we have it as something 'imparted'; for there is a great difference between the feelings and thoughts which are aroused in me by other things and those wich are given to me. God, immortality, freedom, humanity, are drilled into us from childhood as thoughts and feelings which move our inner being more or less strongly, either ruling us without our knowing it, or sometimes in richer natures manifesting themselves in systems and works of art; but are always not aroused, but imparted, feelings, because we must believe in them and cling to them. That an Absolute existed, and that it must be taken in, felt, and thought by us, was settled as a faith in the minds of those who spent all the strength of their mind on recognizing it and setting it forth. The feeling for the Absolute exists there as an imparted one, and thenceforth results only in the most manifold revelations of its own self. So in Klopstock87 the religious feeling was an imparted one, which in Der Messias simply found artistic expression. If, on the other hand, the religion with which he was confronted had been for him only an incitation to feeling and thought, and if he had known how to take an attitude completely his own toward it, then there would have resulted, instead of religious inspiration, a dissolution and consumption of the religion itself. Instead of that, he only continued in mature years his childish feelings received in childhood, and squandered the powers of his manhood in decking out his childish trifles.
 
 The difference is, then, whether feelings are imparted to me or only aroused. Those which are aroused are my own, egoistic, because they are not as feelings drilled into me, dictated to me, and pressed upon me; but those which are imparted to me I receive, with open arms, I cherish them in me as a heritage, cultivate them, and am possessed by them. Who is there that has never, more or less consciously, noticed that our whole education is calculated to produce feelings in us, impart them to us, instead of leaving their production to ourselves however they may tum out? If we hear the name of God, we are to feel veneration; if we hear that of the prince's majesty, it is to be received with reverence, deference, submission; if we hear that of morality, we are to think that we hear something inviolable; if we hear of the Evil One or evil ones, we are to shudder. The intention is directed to these feelings, and he who should hear with pleasure the deeds of the 'bad' would have to be 'taught what's what' with the rod of discipline. Thus stuffed with imparted feelings, we appear before the bar of majority and are 'pronounced of age'. Our equipment consists of 'elevating feelings, lofty thoughts, inspiring maxims, eternal principles'. The young are of age when they twitter like the old; they are driven through school to learn the old song, and, when they have this by heart, they are declared of age.
 
@@ -863,7 +927,7 @@ Hierarchy is dominion of thoughts, dominion of mind!
 
 We are hierarchic to this day, kept down by those who are supported by thoughts. Thoughts are the sacred.
 
-But the two are always clashing, now one and now the other giving the offence; and this clash occurs, not only in the collision of two men, but in one and the same man. For no cultured man is so cultured as not to find enjoyment in things too, and so be uncultured; and no uncultured man is totally without thoughts. In Hegel it comes to light at last what a longing for things even the most cultured man has, and what a horror of every 'hollow theory' he harbours. With him reality, the world of things, is altogether to correspond to the thought, and no concept is to be without reality. This caused Hegel's system to be known as the most obj ective, as if in it thought and thing celebrated their union. But this was simply the extremest case of violence on the part of thought, its highest pitch of despotism and sole dominion, the triumph of mind, and with it the triumph of philosophy. Philosophy cannot hereafter achieve anything higher, for its highest is the omnipotence of mind, the almightiness of mind. <sup>a</sup>
+But the two are always clashing, now one and now the other giving the offence; and this clash occurs, not only in the collision of two men, but in one and the same man. For no cultured man is so cultured as not to find enjoyment in things too, and so be uncultured; and no uncultured man is totally without thoughts. In Hegel it comes to light at last what a longing for things even the most cultured man has, and what a horror of every 'hollow theory' he harbours. With him reality, the world of things, is altogether to correspond to the thought, and no concept is to be without reality. This caused Hegel's system to be known as the most obj ective, as if in it thought and thing celebrated their union. But this was simply the extremest case of violence on the part of thought, its highest pitch of despotism and sole dominion, the triumph of mind, and with it the triumph of philosophy. Philosophy cannot hereafter achieve anything higher, for its highest is the omnipotence of mind, the almightiness of mind. a
 
 Spiritual men have taken into their head something that is to be realized. They have concepts of love, goodness, and the like, which they would like to see realized; therefore they want to set up a kingdom of love on earth, in which no one any longer acts from selfishness, but each one ' from love'. Love is to rule. What they have taken into their head, what shall we call it but -fixed idea? Why, 'their head is haunted'. The most oppressive spook is man. Think of the proverb, 'the road to ruin is paved with good intentions'. The intention to realize humanity altogether in oneself, to become altogether man, is of such ruinous kind; here belong the intentions to become good, noble, loving, and so forth.
 
@@ -873,9 +937,9 @@ That middle class [Burgerklasse], which was to receive such a terrible importanc
 
 And 'It has turned the revolutionary ideas, for which not it, but unselfish or impassioned men sacrificed themselves, solely to its own profit, has turned spirit into money. - That is, to be sure, after it
 
-<sup>•</sup> Rousseau,91 the philanthropists, and others, were hostile to culture and intelligence, but they overlooked the fact that this is present in all men of the Christian type, and assailed only learned and refined culture.
+• Rousseau,91 the philanthropists, and others, were hostile to culture and intelligence, but they overlooked the fact that this is present in all men of the Christian type, and assailed only learned and refined culture.
 
-<sup>,</sup> Bruno Bauer, Die Septembertage 1792 und die ersten Kiimpfe der Parteien der Republik in Frankreich, Part I (Charlottenburg, 1844), p. 7. (Denkwilrdigkeiten zur Geschichte der neueren Zeit seit der Franzi Jsischen Revolution. Nach den Quellen und Original-Memoiren bearbeitet und hrsg. von Brnno Bauer und Edgar Bauer.)
+, Bruno Bauer, Die Septembertage 1792 und die ersten Kiimpfe der Parteien der Republik in Frankreich, Part I (Charlottenburg, 1844), p. 7. (Denkwilrdigkeiten zur Geschichte der neueren Zeit seit der Franzi Jsischen Revolution. Nach den Quellen und Original-Memoiren bearbeitet und hrsg. von Brnno Bauer und Edgar Bauer.)
 
 had taken away from those ideas their point, their consistency, their destructive seriousness, fanatical against all egoism.'" These people, then, are not self-sacrificing, not enthusiastic, not idealistic, not consistent, not zealots; they are egoists in the usual sense, selfish people, looking out for their advantage, sober, calculating.
 
@@ -899,35 +963,9 @@ Now, over against these representatives of ideal or sacred interests stands a wo
 
 The man who is just now crying herrings in front of my window has a personal interest in good sales, and, if his wife or anybody else wishes him the like, this remains a personal interest all the same . If, on the other hand, a thief deprived him of his basket, then there would at once arise an interest of many, of the whole city, of the whole country, or, in a word, of all who abhor theft; an interest in which the herring-seller's person would become indifferent, and in its place the category of the 'robbed man' would come into the foreground. But even here all might yet resolve itself into a personal interest, each of the partakers reflecting that he must concur in the punishment of the thief because unpunished stealing might otherwise become general and cause him too to lose his own. Such a calculation, however, can hardly be assumed on the part of many, and we shall rather hear the cry that the thief is a 'criminal'. Here we have before us a judgement, the thief's action receiving its e:q)ression in the concept 'crime'. Now the matter stands thus: even if a crime did not cause the slightest damage either to me or to any of those in whom I take an interest, I should nevertheless denounce it. Why? Because I am enthusiastic for morality, filled with the idea of morality; what is hostile to it I everywhere assail. Because in his mind theft ranks as abominable without any question, Proudhon, for instance, thinks that with the sentence 'property is theft' he has at once denounced property. In the sense of the priestly, theft is always a crime, or at least a misdeed.
 
-Here the personal interest is at an end. This particular person who has stolen the basket is perfectly indifferent to my person; it is only the thief, this concept of which that person presents a specimen, that I take an interest in. The thief and man are in my mind irreconcilable opposites; for one is not truly man when one is a thief; one degrades man or 'humanity' in himself when one steals. Dropping out of personal concern, one gets into philanthropism, friendliness to man, which is usually misunderstood as if it was a love to men, to each individual, while it is nothing but a love of man, the unreal concept, the spook. It is not TOil; Qv8g<1mouc;, men, but T<JV (iv8goJJtoY, man, that the philanthropist carries in his heart. To be sure, he cares for each individual, but only because he wants to see his beloved ideal realized everywhere.
+Here the personal interest is at an end. This particular person who has stolen the basket is perfectly indifferent to my person; it is only the thief, this concept of which that person presents a specimen, that I take an interest in. The thief and man are in my mind irreconcilable opposites; for one is not truly man when one is a thief; one degrades man or 'humanity' in himself when one steals. Dropping out of personal concern, one gets into philanthropism, friendliness to man, which is usually misunderstood as if it was a love to men, to each individual, while it is nothing but a love of man, the unreal concept, the spook. It is not TOil; Qv8g• August Becker, Die Volksphilosophie unserer Tage (r\eumiinster near Zurich, 1843), p. 22.
 
-So there is nothing said here of care for me, you, us; that would be personal interest, and belongs under the head of 'worldly loye'. Philanthropism is a heavenly, spiritual, a - priestly love . Man must be restored in us, even if thereby we poor devils should come to grief. It is the same priestly principle as that famous fiat iustitia, pereat mundus;96 man and justice are ideas, ghosts, for love of which everything is sacrificed; therefore, the priestly spirits are the 'selfsacrificing' ones.
-
-He who is infatuated with man leaves persons out of account so far as that infatuation extends, and floats in an ideal, sacred interest. Man, you see, is not a person, but an ideal, a spook.
-
-Now, things as different as possible can belong to man and be so regarded. If one finds man's chief requirement in piety, there arises religious clericalism; if one sees it in morality, then moral clericalism raises its head. On this account the priestly spirits of our day want to make a 'religion' of everything, a 'religion of liberty', 'religion of equality', etc., and for them every idea becomes a 'sacred cause', even citizenship, politics, publicity, freedom of the press, trial by jury.
-
-Now, what does 'unselfishness' mean in this sense? Having only an ideal interest, before which no respect of persons avails!
-
-The pigheadedness of the worldly man opposes this, but for centuries has always been overcome at least so far as to have to bend the unruly neck and 'honour the higher power'; clericalism pressed it down. When the worldly egoist had shaken off a higher power (such as the Old Testament law, the Roman Pope), then at once a seven times higher one was over him again, such as faith in the place of the law, the transformation of all laymen into divines in place of the limited body of clergy, and so on. His experience was like that of the possessed man into whom seven devils passed when he thought he had freed himself from one.97
-
-In the passage quoted above, all ideality is denied to the middle class. It certainly schemed against the ideal consistency with which Robespierre wanted to carry out the principle. The instinct of its interest told it that this consistency harmonized too little with what its mind was set on, and that it would be acting against itself if it were willing to further the enthusiasm for principle. Was it to behave so unselfishly as to abandon all its aims in order to bring a harsh theory to its triumph? It suits the priests admirably, to be sure, when people listen to their summons, 'Cast away everything and follow me', or 'Sell all that thou hast and give to the poor, and thou shalt have treasure in heaven; and come, follow me' .98 Some decided idealists obey this call; but most act like Ananias and S apphira,99 maintaining a behaviour half clerical or religious and half worldly, serving God and Mammon.
-
-I do not blame the middle class for not wanting to let its aims be frustrated by Robespierre, for inquiring of its egoism how far it might give the revolutionary idea a chance. But one might blame (if blame were in place here anyhow) those who let their own interests be frustrated by the interests of the middle class. However, will not they likewise sooner or later learn to understand what is to their advantage? August Becker100 says :
-
-To win the producers (proletarians) a negation of the traditional conception of right is by no means enough. People unfortunately care little for the theoretical victory of the idea. One must demonstrate to them ad oculoslO! how this victory can be practically utilized in life."
-
-And: 'You must get hold of people by their real interests if you want to work upon them. 'b Immediately after this he shows how a fine looseness of morals is already spreading among our peasants, because they prefer to follow their real interests rather than the commands of morality.
-
-Because the revolutionary priests or schoolmasters served man, they cut off the heads of men. The revolutionary laymen, those outside the sacred circle, did not feel any greater horror of cutting off heads, but were less anxious about the rights of man than about their own.
-
-How comes it, though, that the egoism of those who affirm personal interest, and always inquire of it, is nevertheless forever succumbing to a priestly or school-masterly, that is, an ideal interest? Their person seems to them too small, too insignificant - and is so in fact - to lay claim to everything and be able to put itself completely in force. There is a sure sign of this in their dividing themselves into two persons, an eternal and a temporal, and always caring either only for the one or only for the other, on Sunday for the eternal, on the work-day for the temporal, in prayer for the former, in work for the latter. They have the priest in themselves, therefore they do not get rid of him, but hear themselves lectured inwardly every Sunday.
-
-How men have struggled and calculated to ascertain a solution regarding these dualistic essences! Idea followed upon idea, principle upon principle, system upon system, and none knew how to keep down permanently the contradiction of the 'worldly' man, the socalled 'egoist'. Does not this prove that all those ideas were too feeble to take up my whole will into themselves and satisfy it? They were and remained hostile to me, even if the hostility lay concealed for a considerable time. Will it be the same with self-ownership? Is it too only an attempt at mediation? \Vhatever principle I turned to, it might be to that of reason, I always had to turn away from it again. Or can I always be rational, arrange my life according to reason in eveIJthing? I can, no doubt, strive after rationality, I can love it, just as I can also love God and every other idea. I can be a philosopher, a lover of
-
-<sup>•</sup> August Becker, Die Volksphilosophie unserer Tage (r\eumiinster near Zurich, 1843), p. 22.
-
-<sup>,</sup> Ibid. p. 32.
+, Ibid. p. 32.
 
 wisdom, as I love God. But what I love, what I strive for, is only in my idea, my conception, my thoughts; it is in my heart, my head, it is in me like the heart, but it is not I, I am not it.
 
@@ -951,7 +989,7 @@ I regard precisely the opposite as correct, and think that the dominion of spiri
 
 Luther and Descartes have been appropriately put side by side in their 'He who believes, is a God' and 'I think, therefore I am' (cogito, ergo sum). Man's heaven is thought - mind. Everything can be wrested from him, except thought, except faith. Particular faith,
 
-<sup>,</sup> Bruno Bauer, review of Theodor Kliefoth,106 Einleitung in die Dogmengeschichte, (Parchim and Ludwigslust, 1839), in Arnold Rugel07 (ed.), Anekdota zur neuesten deutschen Philosophie und Publizistik, volume II (Zurich and Winterthur, 1843), pp. 152-3.
+, Bruno Bauer, review of Theodor Kliefoth,106 Einleitung in die Dogmengeschichte, (Parchim and Ludwigslust, 1839), in Arnold Rugel07 (ed.), Anekdota zur neuesten deutschen Philosophie und Publizistik, volume II (Zurich and Winterthur, 1843), pp. 152-3.
 
 like faith in Zeus, Astarte,108 Jehovah, Allah, may be destroyed, but faith itself is indestructible. In thought is freedom. What I need and what I hunger for is no longer granted to me by any grace, by the Virgin Mary, by intercession of the saints, or by the binding and loosing church, but I procure it for myself. In short, my being (the sum) is a living in the heaven of thought, of mind, a cogitare. But I myself am nothing else than mind, thinking mind (according to Descartes), believing mind (according to Luther). My body I am not; my flesh may suffir from appetites or pains. I am not my flesh, but I am mind, only mind.
 
@@ -979,7 +1017,7 @@ The Protestant may put it as he will, the 'holy scripture', the 'Word of God', s
 
 Protestantism has actually put a man in the position of a country governed by secret police. The spy and eavesdropper, 'conscience', watches over every motion of the mind, and all thought and action
 
-<sup>,</sup> Matthew IO:35.
+, Matthew IO:35.
 
 is for it a 'matter of conscience', that is, police business. This tearing apart of man into 'natural impulse' and 'conscience' (inner populace and inner police) is what constitutes the Protestant. The reason of the Bible (in place of the Catholic 'reason of the church') ranks as sacred, and this feeling and consciousness that the word of the Bible is sacred is called - conscience. With this, then, sacredness is 'laid upon one's conscience'. If one does not free himself from conscience, the consciousness of the sacred, he may act unconscientiously indeed, but never consciencelessly.
 
@@ -993,7 +1031,7 @@ But marriage - as a free alliance of love, of course - is sacred of itself, by t
 
 That is a very essential consideration. In Catholicism the mundane can indeed be consecrated or hallowed, but it is not sacred without this priestly blessing; in Protestantism, on the contrary, mundane relations are sacred of themselves, sacred by their mere existence. The Jesuit maxim, 'the end hallows the means', corresponds precisely to the consecration by which sanctity is bestowed. No means are holy or
 
-<sup>•</sup> F euerbach, The Essence of Christianity, p. 403 .
+• F euerbach, The Essence of Christianity, p. 403 .
 
 unholy in themselves, but their relation to the church, their use for the church, hallows the means . Regicide was named as such; if it was committed for the church's behoof, it could be certain of being hallowed by the church, even if the hallowing was not openly pronounced. To the Protestant, majesty ranks as sacred; to the Catholic only that majesty which is consecrated by the pontiff can rank as such; and it does rank as such to him only because the Pope, even though it be without a special act, confers this sacredness on it once for all. If he retracted his consecration, the king would be left only a 'man of the world or layman', an 'unconsecrated' man, to the Catholic.
 
@@ -1015,7 +1053,7 @@ The imperturbable spirit of 'the wise man', with which the old world worked to p
 
 In fact, ancient history ends with this, that I have struggled until I won my ownership of the world. 'All things have been delivered to me by my Father. 'a It has ceased to be overpowering, unapproachable,
 
-<sup>,</sup> Matthew I r :27.
+, Matthew I r :27.
 
 sacred, divine, for me; it is undeified, and now I treat it so entirely as I please that, if ! cared, I could exert on it all miracle-working power, that is, power of mind - remove mountains, command mulberry trees to tear themselves up and transplant themselves into the sea," and do everything possible, thinkable: 'All things are possible to him who believes.'b I am the lord [Herr] of the world, mine is the 'glory [Herrlichkeit]'. The world has become prosaic, for the divine has vanished from it: it is my property, which I dispose of as I (namely, the mind) choose.
 
@@ -1053,7 +1091,7 @@ How beggarly little is left us, yes, how really nothing! Everything has been rem
 
 But around the altar rise the arches of a church, and its walls keep moving further and further out. What they enclose is sacred. You can no longer get to it, no longer touch it. Shrieking with the hunger that devours you, you wander round about these walls in search of the little that is profane, and the circles of your course keep growing more and more extended. Soon that church will embrace the whole world, and you be driven out to the extreme edge; another step, and the world of the sacred has conquered: you sink into the abyss. Therefore take courage while it is yet time, wander about no longer in the profane where now it is dry feeding, dare the leap, and rush in through the gates into the sanctuary itself. If you devour the sacred, you have made it your own! Digest the sacramental wafer, and you are rid of it!
 
-## <sup>3</sup>The free124
+## 3The free124
 
 The ancients and the moderns having been presented above in two divisions, it may seem as if the free were here to be described in a third division as independent and distinct. This is not so. The free are only the more modem and most modem among the 'moderns', and are put in a separate division merely because they belong to the present, and what is present, above all, claims our attention here. I give 'the free' only as a translation of 'the liberals', but must with regard to the concept of freedom (as in general with regard to so many other things whose anticipatory introduction cannot be avoided) refer to what comes later.
 
@@ -1065,7 +1103,7 @@ Whoever sees in us something else than human beings, in him we likewise will not
 
 Let us then hold together and protect the man in each other; then we find the necessary protection in our holding together, and in oursel Yes, those who hold together, a community of those who know their human dignity and hold together as 'human beings'. Our holding together is the state; we who hold together are the nation.
 
-In our being together as nation or state we are only human beings. How we deport ourselves in other respects as individuals, and what self-seeking impulses we may there succumb to, belongs solely to our private life; our public or state life is a purel), human one. Everything un-human or 'egoistic' that clings to us is degraded to a 'private matter' and we distinguish the state definitely from 'civil society [bii <sup>r</sup>gerlichen Gesellsc!zaft] ', which is the sphere of 'egoism's' activity.
+In our being together as nation or state we are only human beings. How we deport ourselves in other respects as individuals, and what self-seeking impulses we may there succumb to, belongs solely to our private life; our public or state life is a purel), human one. Everything un-human or 'egoistic' that clings to us is degraded to a 'private matter' and we distinguish the state definitely from 'civil society [bii rgerlichen Gesellsc!zaft] ', which is the sphere of 'egoism's' activity.
 
 The true man is the nation, but the individual is always an egoist. Therefore strip off your individuality or isolation wherein dwells discord and egoistic inequality, and consecrate yourselves wholly to the true man, the nation, or the state. Then you will rank as men, and have all that is man's; the state, the true man, will entitle you to what b elongs to it, and give you the 'rights of man'; man gives you his rights !
 
@@ -1073,11 +1111,11 @@ The true man is the nation, but the individual is always an egoist. Therefore st
 
 The commonalty is nothing else than the thought that the state is all in all, the true man, and that the individual's human value consists in being a citizen of the state. In being a good citizen he seeks his highest honour; beyond that he knows nothing higher than at most the antiquated - 'being a good Christian'.
 
-The commonalty developed itself in the struggle against the privi leged classes, by whom it was cavalierly treated as 'third estate ' and confounded with the canaille. In other words, up to this time the state had recognized caste.12� The son of a nobleman was selected for posts to which the most distinguished commoners aspired in vain. The civic feeling revolted against this. No more distinction, no giving preference to persons, no difference of classes! Let all be alike ! ,'\Jo separate interest is to be pursued longer, but the general interest of all. The state is to be a community of free and equal men, and every one is to devote himself to the 'welfare of the whole', to be dissoh'ed in the state, to make the state his end and ideal. State ! State! So ran the general cry, and thenceforth people sought for the ' right form of state', the best constitution, and so the state in its best conception. The thought of the state passed into all hearts and awakened enthusiasm; to serve it, this mundane god, became the new divine service and worship. The properly political epoch had dawned. To serve the state or the nation became the highest ideal, the state's interest the highest interest, state service (for which one does not by any means need to be an official) the highest honour.
+The commonalty developed itself in the struggle against the privi leged classes, by whom it was cavalierly treated as 'third estate ' and confounded with the canaille. In other words, up to this time the state had recognized caste.12 The son of a nobleman was selected for posts to which the most distinguished commoners aspired in vain. The civic feeling revolted against this. No more distinction, no giving preference to persons, no difference of classes! Let all be alike ! ,'\Jo separate interest is to be pursued longer, but the general interest of all. The state is to be a community of free and equal men, and every one is to devote himself to the 'welfare of the whole', to be dissoh'ed in the state, to make the state his end and ideal. State ! State! So ran the general cry, and thenceforth people sought for the ' right form of state', the best constitution, and so the state in its best conception. The thought of the state passed into all hearts and awakened enthusiasm; to serve it, this mundane god, became the new divine service and worship. The properly political epoch had dawned. To serve the state or the nation became the highest ideal, the state's interest the highest interest, state service (for which one does not by any means need to be an official) the highest honour.
 
 So then the separate interests and personalities had been scared away, and sacrifice for the state had become the shibboleth. One must give up himself, and live only for the state. One must act 'disinterestedly', not want to benefit himself, but the state. Hereby the latter has become the true person, before whom the individual personality vanishes; not I live, but it lives in me. Therefore, in comparison with the former self-seeking, this was unselfishness and impersonality itself. Before this god - state - all egoism vanished, and before it all were equal; they were without any other distinction - men, nothing but men.
 
-The revolution took fire from the inflammable material of property. The government needed money. �ow it must prove the proposition that it is absolute, and so master of all property, sole proprietor; it must take to itself its money, which was only in the possession of the subjects, not their property. Instead of this, it calls states-general, to have this money granted to it. The shrinking from strictly logical action destroyed the illusion of an absolute government; he who must have something ' granted' to him cannot be regarded as absolute. The subjects recognized that they were real proprietors, and that it was their money that was demanded. Those who had hitherto been subjects attained the consciousness that they were proprietors. Bailly127 depicts this in a few words:
+The revolution took fire from the inflammable material of property. The government needed money. ow it must prove the proposition that it is absolute, and so master of all property, sole proprietor; it must take to itself its money, which was only in the possession of the subjects, not their property. Instead of this, it calls states-general, to have this money granted to it. The shrinking from strictly logical action destroyed the illusion of an absolute government; he who must have something ' granted' to him cannot be regarded as absolute. The subjects recognized that they were real proprietors, and that it was their money that was demanded. Those who had hitherto been subjects attained the consciousness that they were proprietors. Bailly127 depicts this in a few words:
 
 If you cannot dispose of my property without my assent, how much less can you of my person, of all that concerns my mental and social position? All this is my property, like the piece of land that I till; and I have a right, an interest, to make the laws myself.
 
@@ -1109,9 +1147,9 @@ ism is nothing else than the knowledge of reason, applied to our existing relati
 
 'Political liberty' , what are we to understand by that? Perhaps the individual's independence of the state and its laws? No; on the contrary, the individual's subjeaion in the state and to the state's laws. But why 'liberty'? Because one is no longer separated from the state by intermediaries, but stands in direct and immediate relation to it; because one is a - citizen, not the subject of another, not even of the king as a person, but only in his quality as 'supreme head of the state'. Political liberty, this fundamental doctrine of liberalism, is nothing but a second phase of - Protestantism, and runs quite parallel with 'religious liberty' .b Or would it perhaps be right to understand by the latter an independence of religion? Anything but that. Independence of intermediaries is all that it is intended to express, independence of mediating priests, the abolition of the 'laity' , and so, direct and immediate relation to religion or to God. Only on the supposition that one has religion can he enjoy freedom of religion; freedom of religion does not mean being without religion, but inwardness of faith, unmediated intercourse with God. To him who
 
-<sup>&</sup>quot; Carl Witt (anonymously), 'Preullen seit der Einsetzung Arndts bis zur Absetzung Bauers', in Georg Herwegh (ed.), Einundzwanzig Bogen a IlS der Schweiz132 (Zurich and Winterthur, ( 843), pp. 1 2-1 3.
+&quot; Carl Witt (anonymously), 'Preullen seit der Einsetzung Arndts bis zur Absetzung Bauers', in Georg Herwegh (ed.), Einundzwanzig Bogen a IlS der Schweiz132 (Zurich and Winterthur, ( 843), pp. 1 2-1 3.
 
-<sup>;</sup> Louis Blanc".l says that a't the time of the restoration: 'Le protestantisme devint Ie fond des idees et des moeurs,'14 Histuire des dix ans. [830--[840, ,"olume I (Paris, 1 84 1 ), p. 1 38.
+; Louis Blanc".l says that a't the time of the restoration: 'Le protestantisme devint Ie fond des idees et des moeurs,'14 Histuire des dix ans. [830--[840, ,"olume I (Paris, 1 84 1 ), p. 1 38.
 
 is 'religiously free' religion is an affair of the heart, it is to him his own affair, it is to him a 'sacredly serious matter'. So, too, to the 'politically free' man the state is a sacredly serious matter; it is his heart's affair, his chief affair, his own affair.
 
@@ -1139,7 +1177,7 @@ So, too, the so-called reaction in Germany gives proof that it was only the disc
 
 The revolution was not directed against the established, but against the establishment in question, against a particular establishment. It did away with this ruler, not with the ruler, on the contrary, the French were ruled most inexorably; it killed the old vicious rulers, but wanted to confer on the virtuous ones a securely established position, that is, it simply set virtue in the place of vice. (Vice and virtue, again, are on their part distinguished from each other only as a wild young man from a philistine.)
 
-To this day the revolutionary principle has gone no further than to assail only one or another particular establishment, to be reformatory. Much as may be improved, strongly as 'discreet progress' may be <sup>a</sup>dhered to, always there is only a new master set in the old one's place, and the overturning is a - building up. We are still at the distinction of the young philistine from the old one. The revolution began in bourgeois fashion with the uprising of the third estate, the middle class; in bourgeois fashion it dries away. It was not the indiridual man - and he alone is man - that became free, but the citizen, the citoyen, the political man, who for that very reason is not man but a specimen of the human species, and more particularly a specimen of the species Citizen, a free citizen.
+To this day the revolutionary principle has gone no further than to assail only one or another particular establishment, to be reformatory. Much as may be improved, strongly as 'discreet progress' may be adhered to, always there is only a new master set in the old one's place, and the overturning is a - building up. We are still at the distinction of the young philistine from the old one. The revolution began in bourgeois fashion with the uprising of the third estate, the middle class; in bourgeois fashion it dries away. It was not the indiridual man - and he alone is man - that became free, but the citizen, the citoyen, the political man, who for that very reason is not man but a specimen of the human species, and more particularly a specimen of the species Citizen, a free citizen.
 
 In the revolution it was not the indit, idual who acted so as to affect the world's history, but a people; the nation, the sovereign nation, wanted to effect everything. A fancied I, an idea, such as the nation is, appears acting; the individuals contribute themselves as tools of this idea, and act as 'citizens'.
 
@@ -1153,7 +1191,7 @@ Such a broad sense has the so-called proletariat, or pauperism. How much one wou
 
 But from these identical discontented ones comes a reasoning somewhat as follows : It need not make any ditlerence to the 'good citizens' who protects them and their principles, whether an absolute king or a constitutional one, a republic, if only they are protected. And what is their principle, whose protector they always 'love'? "\Jot that of labour; not that of birth either. But that of mediocrity, of the golden mean: a little birth and a little labour, that is, an interest-bearing possession. Possession is here the fixed, the given, inherited (birth); interest-drawing is the exertion about it (labour); labouring capital, therefore. Only no immoderation, no ultra, no radicalism! Right of birth certainly, but only hereditary possessions; labour certainly, yet little or none at all of one's own, but labour of capital and of the subject labourers.
 
-If an age is imbued with an error, some always derive advantage from the error, while the rest have to suffer from it. In the Middle Ages the error was general among Christians that the church must have all power, or the supreme lordship on earth; the hierarchs believed in this 'truth' not less than the laymen, and both were spellbound in the like error. But by it the hierarchs had the advantage of power, the laymen had to suffir subjection. Howeyer, as the saying goes, 'one learns wisdom by suffering'; and so the laymen at last learned wisdom and no longer believed in the medieyal 'truth'. - A like relation exists between the commonalty and the labouring class . Commoner and labourer believe in the 'truth' of mon�y; they who do not possess it believe in it no less than those who possess it: the laymen, therefore, as well as the priests.
+If an age is imbued with an error, some always derive advantage from the error, while the rest have to suffer from it. In the Middle Ages the error was general among Christians that the church must have all power, or the supreme lordship on earth; the hierarchs believed in this 'truth' not less than the laymen, and both were spellbound in the like error. But by it the hierarchs had the advantage of power, the laymen had to suffir subjection. Howeyer, as the saying goes, 'one learns wisdom by suffering'; and so the laymen at last learned wisdom and no longer believed in the medieyal 'truth'. - A like relation exists between the commonalty and the labouring class . Commoner and labourer believe in the 'truth' of mony; they who do not possess it believe in it no less than those who possess it: the laymen, therefore, as well as the priests.
 
 'Money governs the world' is the keynote of the civic [b Urgerlichen] epoch. A destitute aristocrat and a destitute labourer, as 'starvelings', amount to nothing so far as political consideration is concerned; birth and labour do not do it, but money brings consideration [das Geld gibt Geltung] . The possessors rule, but the state trains up from the destitute its 'servants', to whom, in proportion as they are to rule (govern) in its name, it gives money (a salary).
 
@@ -1209,7 +1247,7 @@ Through the revolution the bourgeoisie became omnipotent, and all inequality was
 
 What advantage does citizenship bring us? Burdens ! And how high is our labour appraised? As low as possible! But labour is our sole value all the same: that we are labourers is the best thing about us, this is our significance in the world, and therefore it must be our consideration too and must come to receive consideration. What can you meet us with? Surely nothing but - labour too. Only for labour or services do we owe you a recompense, not for your bare existence; not for what you are for yourselves either, but only for what you are for us. By what have you claims on us? Perhaps by your high birth? No, only by what you do for us that is desirable or useful. Be it thus then: we are willing to be worth to you only so much as we do for you; but you are to be held likewise by us. Sen'ices determine value, those services that are worth something to us, and consequently labours for each other, labours for the common good. Let each one be in the other's eyes a labourer. He who accomplishes something useful is inferior to none, or - all labourers (labourers, of course, in the sense of labourers 'for the common good', that is, communistic labourers) are equal. But, as the labourer is worth his wages,138 let the wages too be equal.
 
-As long as faith sufficed for man's honour and dignity, no labour, however strenuous, could be obj ected to if it only did not hinder a man in his faith. Now, on the contrary, when every one is to cultivate himself into man, condemning a man to machine -like labour amounts to the same thing as slavery. If a factory worker must tire himself to death twelve hours and more, he is cut off from becoming man. Every labour is to have the intent that the man be satisfied. Therefore he must become a master in it too, be able to perform it as a totality. He who in a pin-factory only puts on the heads, only draws the wire, works, as it were, mechanically, like a machine; he remains halftrained, does not become a master: his labour cannot satisfjl him, it can only fatigue him. His labour is nothing by itselt� has no obj ect in itself, is nothing complete in itself; he labours only into another's hands, and is used (exploited) by this other. For this labourer in another's service there is no enjoyment of a cultivated mind, at most, crude amusements: culture, you see, is barred against him. To be a good Christian one needs only to beliere, and that can be done under the most oppressive circumstances. Hence the Christian-minded take care only of the oppressed labourers' piety, their patience, submission, etc. Only so long as the downtrodden classes were Christians could they bear all their misery: for Christianity does not let their murmurings and exasperation rise. Now the hushing of desires is no longer enough, but their sating is demanded. The bourgeoisie has proclaimed the gospel of the enjoyment of the world, of material enjoyment, and now wonders that this doctrine finds adherents among us poor: it has shown that not faith and poverty, but culture and possessions, make a man blessed; we proletarians understand that too.
+As long as faith sufficed for man's honour and dignity, no labour, however strenuous, could be obj ected to if it only did not hinder a man in his faith. Now, on the contrary, when every one is to cultivate himself into man, condemning a man to machine -like labour amounts to the same thing as slavery. If a factory worker must tire himself to death twelve hours and more, he is cut off from becoming man. Every labour is to have the intent that the man be satisfied. Therefore he must become a master in it too, be able to perform it as a totality. He who in a pin-factory only puts on the heads, only draws the wire, works, as it were, mechanically, like a machine; he remains halftrained, does not become a master: his labour cannot satisfjl him, it can only fatigue him. His labour is nothing by itselt has no obj ect in itself, is nothing complete in itself; he labours only into another's hands, and is used (exploited) by this other. For this labourer in another's service there is no enjoyment of a cultivated mind, at most, crude amusements: culture, you see, is barred against him. To be a good Christian one needs only to beliere, and that can be done under the most oppressive circumstances. Hence the Christian-minded take care only of the oppressed labourers' piety, their patience, submission, etc. Only so long as the downtrodden classes were Christians could they bear all their misery: for Christianity does not let their murmurings and exasperation rise. Now the hushing of desires is no longer enough, but their sating is demanded. The bourgeoisie has proclaimed the gospel of the enjoyment of the world, of material enjoyment, and now wonders that this doctrine finds adherents among us poor: it has shown that not faith and poverty, but culture and possessions, make a man blessed; we proletarians understand that too.
 
 The commonalty freed us from the orders and arbitrariness of individuals. But that arbitrariness was left which springs from the conjuncture of situations, and may be called the fortuity of circum-
 
@@ -1257,7 +1295,7 @@ The more precise appreciation of political as well as social liberalism must wai
 
 As liberalism is completed in self-criticizing, 'critical) \39 liberalism, in which the critic remains a liberal and does not go beyond the principle of liberalism, man, this may distinctively be named after man and called the 'humane'.
 
-<sup>&</sup>quot; Proudhon cries out: 'in industry a s i n science, the publication o f a n invention is the first and most sacred of duties', De fa creation de l 'ordre dans l'humanite au principes d'organisation polilique (Paris, 1 843), p. 4 I 4.
+&quot; Proudhon cries out: 'in industry a s i n science, the publication o f a n invention is the first and most sacred of duties', De fa creation de l 'ordre dans l'humanite au principes d'organisation polilique (Paris, 1 843), p. 4 I 4.
 
 The labourer is counted as the most material and egoistical man. He does nothing at all for humanity, does everything for himself, for his welfare.
 
@@ -1267,7 +1305,7 @@ The labourer will utilize society for his egoistic ends as the commoner does the
 
 The humane consciousness despises the commoner-consciousness as well as the labourer-consciousness: for the commoner is 'indignant' only at vagabonds (at all who have 'no definite occupation') and their 'immorality'; the labourer is 'disgusted' by the idler ('lazybones') and his ' immoral', because parasitic and unsocial, principles. To this the humane liberal retorts: The unsettledness of many is only your product, philistine ! But that you, proletarian, demand the grind of all, and want to make drudgery general, is a part, still clinging to you, of your pack-mule life up to this time. Certainly you want to lighten drudgery itself by all having to drudge equally hard, yet only for this reason, that all may gain leisure to an equal e Atent. But what are they to do with their leisure? What does your 'society' do, that this leisure may be passed humanly? It must leave the gained leisure to egoistic preference again, and the very gain that your society promotes falls to the egoist, as the gain of the commonalty, the masterlessness olman, could not be filled with a human element by the state, and therefore was left to arbitrary choice.
 
-<sup>,</sup> Edgar Bauer (anon}IDously), review of Flora Tristan,'''' Cnion ollrrierf (Paris, I 843), in Bruno Bauer (ed.), Allgemeine Literaturzeitung, '41 no. 5 (April 1 844).
+, Edgar Bauer (anon}IDously), review of Flora Tristan,'''' Cnion ollrrierf (Paris, I 843), in Bruno Bauer (ed.), Allgemeine Literaturzeitung, '41 no. 5 (April 1 844).
 
 It is assuredly necessary that man be masterless: but therefore the egoist is not to become master over man again either, but man over the egoist. Man must assuredly find leisure: but, if the egoist makes use of it, it will be lost for man; therefore you ought to have given leisure a human significance. But you labourers undertake even your labour from an egoistic impulse, because you want to eat, drink, live; how should you be less egoists in leisure? You labour only because having your time to yourselves (idling) goes well after work done, and what you are to while away your leisure time with is left to chance.
 
@@ -1281,9 +1319,9 @@ And, further, do you not notice that your disinterestedness is again, like relig
 
 Do you suppose the humane liberal will be so liberal as to aver that everything possible to man is human? On the contrary! He does not, indeed, share the philistine's moral prejudice about the whore, but 'that this woman turns her body into a money-getting machine'" makes her despicable to him as 'human being' . His judgement is, the strumpet is not a human being; or, so far as a woman is a whore, so
 
-<sup>•</sup> Edgar Bauer (anonymously), 'Biraud uber die Freudenmiidchen', a review of F. F. A. B€raud, l44 Les filles publiques de Paris et la police qui les reg;t, 2 volumes (Paris and Leipzig, 1 839), in Allgemeine Literaturzeitung, no. 5 (April 1 844), p. 26.
+• Edgar Bauer (anonymously), 'Biraud uber die Freudenmiidchen', a review of F. F. A. B€raud, l44 Les filles publiques de Paris et la police qui les reg;t, 2 volumes (Paris and Leipzig, 1 839), in Allgemeine Literaturzeitung, no. 5 (April 1 844), p. 26.
 
-far is she un-human, dehumanized. Further: the Jew, the Christian, the privileged person, the theologian, etc., is not a human being; so far as you are a Jew, etc., you are not a human being. Again the imperious postulate : Cast from you eve!)thing peculiar, criticize it away! Be not a Jew, not a Christian, but be a human being, nothing but a human being. Assert your h Ulllanit)' against eye!)' restrictiyc specification; make yourse1t� by means of it, a human being, and free from those limits; make yourself a ' free man', that is recognize humanity as your all-determining essence.
+far is she un-human, dehumanized. Further: the Jew, the Christian, the privileged person, the theologian, etc., is not a human being; so far as you are a Jew, etc., you are not a human being. Again the imperious postulate : Cast from you eve!)thing peculiar, criticize it away! Be not a Jew, not a Christian, but be a human being, nothing but a human being. Assert your h Ulllanit)' against eye!)' restrictiyc specification; make yourse1t by means of it, a human being, and free from those limits; make yourself a ' free man', that is recognize humanity as your all-determining essence.
 
 I say: You are indeed more than a Jew, more than a Christian, etc., but you are also more than a human being. Those are all ideas, but you are corporeal. Do you suppose, then, that you can e\ er become a 'human being as such'? Do you suppose our posterity \"ill find no prejudices and limits to clear away, for which our powers were not sufficient? Or do you perhaps think that in your fortieth or fiftieth year you have come so far that the following days have nothing more to dissipate in you, and that you are a human being? The men of the future will yet fight their way to many a liberty that we do not even miss. What do you need that later liberty for? If you meant to esteem yourself as nothing before you had become a human being, you would have to wait until the 'last judgement', until the day when man, or humanity, shall have attained perfection. But, as you will surely die before that, what becomes of your prize of victory?
 
@@ -1319,7 +1357,7 @@ Labouring does not alone make you a man, because it is something formal and its 
 
 Unquestionably much is already attained when you cease to be a 'fragment-labourer', yet with that you only get a view of the whole of your labour, and acquire a consciousness about it, which is still far removed from a self-consciousness, a consciousness about your true 'self' or 'essence', man. The labourer has still remaining the desire for a 'higher consciousness', which, because the activity of labour is unable to quiet it, he satisfies in a leisure hour. Hence leisure stands by the side of his labour, and he sees himself compelled to proclaim labour and idling human in one breath, yes, to attribute the true elevation to the idler, the leisure-enjoyer. He labours only to get rid of labour; he wants to make labour free, only that he may be free from labour.
 
-In short, his work has no satisf�'ing substance, because it is only imposed by society, only a stint, a task, a calling; and, conversely, his society does not satisfy, because it gives only work.
+In short, his work has no satisf'ing substance, because it is only imposed by society, only a stint, a task, a calling; and, conversely, his society does not satisfy, because it gives only work.
 
 His labour ought to satisfy him as a man; instead of that, it satisfies society; society ought to treat him as a man, and it treats him as - a rag-tag labourer, or a labouring ragamuffin.
 
@@ -1333,9 +1371,9 @@ But then the labour too must be adapted to that end! Man is honoured only by hum
 
 The labourer of such a type is not 'egoistic', because he does not labour for individuals, neither for himself nor for other individuals, not for private men therefore, but for humanity and its progress: he does not ease individual pains, does not care for individual wants,
 
-<sup>b</sup>Ibid.
+bIbid.
 
-<sup>&</sup>quot; Bruno Bauer (anonymously), review of H. F. W. Hinrichs,I«, Polirische Vorlesung Ol, 2 volumes (Halle, 1 843), in AI/Kerneine Lilaaturzcilllng, no. 5 (:\pril 1 844), p. 24.
+&quot; Bruno Bauer (anonymously), review of H. F. W. Hinrichs,I«, Polirische Vorlesung Ol, 2 volumes (Halle, 1 843), in AI/Kerneine Lilaaturzcilllng, no. 5 (:\pril 1 844), p. 24.
 
 but removes limits within which humanity is pressed, dispels prejudices which dominate an entire timc, vanquishes hindrances that obstruct the path of all, clears away errors in which men entangle themselves, discovers truths which are found through him for all and for all time; in short - he lives and labours for humanity.
 
@@ -1377,7 +1415,7 @@ What will the society that no longer cares about anything private do? Make the p
 
 By their raising barriers against science the church and religiousness have declared that they are what they always were,
 
-<sup>•</sup> Bruno Bauer, Die Judenfrage151 (Brunswick, r843), p. 66.
+• Bruno Bauer, Die Judenfrage151 (Brunswick, r843), p. 66.
 
 only that this was hidden under another semblance when they were proclaimed to be the basis and necessary foundation of the state - a matter of purely private concern. Even when they were connected with the state and made it Christian, they were only the proof that the state had not yet developed its general political idea, that it was only instituting private rights - they were only the highest ell:pression of the fact that the state was a private affair and had to do only with private affairs. When the state shall at last have the courage and strength to fulfil its general destiny and to be free; when, therefore, it is also able to give separate interests and private concerns their true position - then religion and the church will be free as they have never been hitherto. As a matter of the most purely private concern, and a satisfaction of purely personal want, they will be left to themselves; and every individual, every congregation and ecclesiastical communion, will be able to care for the blessedness of their souls as they choose and as they think necessary. Every one will care for his soul's blessedness so far as it is to him a personal want, and will accept and pay as spiritual caretaker the one who seems to him to offer the best guarantee for the satisfaction of his want. Science is at last left entirely out of the game."
 
@@ -1389,9 +1427,9 @@ The last privilege, in truth, is 'man'; with it all are privileged or invested. 
 
 Thus liberalism runs its course in the following transformations:
 
-<sup>•</sup> Bruno Bauer, Die gute Sache der Freiheit lind meine eigellc Angelegenheit (Zurich and Winterthur, , 842), pp. 62\_3 . 1'2
+• Bruno Bauer, Die gute Sache der Freiheit lind meine eigellc Angelegenheit (Zurich and Winterthur, , 842), pp. 62\_3 . 1'2
 
-<sup>h</sup>Bauer, Die Juden Jrage, p. 60.
+hBauer, Die Juden Jrage, p. 60.
 
 First: The individual is not man, therefore his individual personality is of no account: no personal will, no arbitrariness, no orders or mandates!
 
@@ -1443,11 +1481,11 @@ Both, criticism and masses, are enemies of egoists, and both seek to liberate th
 
 The critic is the true 'spokesman of the masses' who gives them the 'simple concept and the phrase' of egoism, while the spokesmen to whom the triumph is denied were only bunglers.d He is their prince and general in the war against egoism for freedom; what he fights against they fight against. But at the same time he is their enemy too,
 
-<sup>&</sup>quot; Bruno Bauer (anonymously), re,�ew of H. F. W. Hinrichs, Politische Vorlesungen, 2 volumes (Halle, 1 843), in Allgemeine Literaturzeitung, no. 5 (April, 1 844), pp. 23-5 .
+&quot; Bruno Bauer (anonymously), re,ew of H. F. W. Hinrichs, Politische Vorlesungen, 2 volumes (Halle, 1 843), in Allgemeine Literaturzeitung, no. 5 (April, 1 844), pp. 23-5 .
 
 b Bauer, Die Judenfrage, p. I 1 4.
 
-<sup>,</sup> Konrad Melchior HirzeV53 'Korrespondenz aus Zurich', Allgemeine Literaturzeitung, no. 5 (April, 1 844), p. 15·
+, Konrad Melchior HirzeV53 'Korrespondenz aus Zurich', Allgemeine Literaturzeitung, no. 5 (April, 1 844), p. 15·
 
 d Bruno Bauer (anonymously), review o f H . F . W. Hinrichs, Politische Vorlesungen, 2 volumes (Halle, 1 843), in Allgemeine Ltteraturzeitung, no. 5 (April, 1 844), p. 24.
 
@@ -1457,7 +1495,7 @@ Hereby the opposition of criticism and the masses is reduced to the following co
 
 Let us then take both for what they give themselves out for, nonegoists, and what they take each other for, egoists. They are egoists and are not.
 
-Properly criticism says: You must liberate your ego from all limitedness so entirely that it becomes a human ego. I say: Liberate yourself as far as you can, and you have done your part; for it is not given to every one to break through all limits, or, more expressively: not to every one is that a limit which is a limit for the rest. Consequently, do not tire yourself with toiling at the limits of others; enough if you tear down yours. \Vho has ever succeeded in tearing down even one limit for all men? Are not countless persons today, as at all times, running about with all the 'limitations of humanity'? He who overturns one of his limits may have shown others the way and the means; the overturning of their limits remains their affair. Nobody does anything else either. To demand of people that they become wholly men is to call on them to cast down all human limits. That is impossible, because man has no limits. 1 have some indeed, but then it is only mine that concern me at all, and only they can be overcome by , me. A human ego 1 cannot become, just because 1 am 1 and not mer�ly man.
+Properly criticism says: You must liberate your ego from all limitedness so entirely that it becomes a human ego. I say: Liberate yourself as far as you can, and you have done your part; for it is not given to every one to break through all limits, or, more expressively: not to every one is that a limit which is a limit for the rest. Consequently, do not tire yourself with toiling at the limits of others; enough if you tear down yours. \Vho has ever succeeded in tearing down even one limit for all men? Are not countless persons today, as at all times, running about with all the 'limitations of humanity'? He who overturns one of his limits may have shown others the way and the means; the overturning of their limits remains their affair. Nobody does anything else either. To demand of people that they become wholly men is to call on them to cast down all human limits. That is impossible, because man has no limits. 1 have some indeed, but then it is only mine that concern me at all, and only they can be overcome by , me. A human ego 1 cannot become, just because 1 am 1 and not merly man.
 
 Yet let us still see whether criticism has not taught us something that we can take to heart! 1 am not free if 1 am not without interests, not man if 1 am not disinterested? Well, even if it makes little difference to me to be free or man, yet 1 do not want to leave unused any occasion to realize myself or make myself count. Criticism offers me this occasion by the teaching that, if anything plants itself firmly in me, and becomes indissoluble, I become its prisoner and servant, a possessed man. An interest, be it for what it may, has kidnapped a slave in me if I cannot get away from it, and is no longer my property, but I am its. Let us therefore accept criticism's lesson to let no part of our property become stable, and to feel comfortable only in dissolving it.
 
@@ -1553,7 +1591,7 @@ Being free from anything - means only being clear or rid. 'He is free from heada
 
 Freedom is the doctrine of Christianity. 'Ye, dear brethren, are called to freedom." 'So speak and so do, as those who are to be judged by the law of freedom.'d
 
-<sup>&</sup>quot; Romans 6 : 1 8. b Galatians 4: 26. , 1 Peter 2:16. d James 2 : 1 2.
+&quot; Romans 6 : 1 8. b Galatians 4: 26. , 1 Peter 2:16. d James 2 : 1 2.
 
 Must we then, because freedom betrays itself as a Christian ideal, give it up? No, nothing is to be lost, freedom no more than the rest; but it is to become our own, and in the form of freedom it cannot.
 
@@ -1621,13 +1659,13 @@ The man who is set free is nothing but a freed man, a libertinus, a dog dragging
 
 Selfishness and unselfishness have already been spoken of. The friends of freedom are exasperated against selfishness because in their religious striving after freedom they cannot free themselves from that sublime thing, 'self-renunciation'. The liberal's anger is directed against egoism, for the egoist, you know, never takes trouble about a thing for the sake of the thing, but for his sake: the thing must serve him. It is egoistic to ascribe to no thing a value of its own, an 'absolute' value, but to seek its value in me. One often hears about study in order to get a well-paid job which is so often counted among the most repulsive traits of egoistic behaviour, because it manifests the most shameful desecration of science; but what is science for but to be consumed? If one does not know how to use it for anything better than to get a well-paid job, then his egoism is a petty one indeed, because this egoist's power is a limited power; but the egoistic element in it, and the desecration of science, only a possessed man can blame.
 
-Because Christianity, incapable of letting the individual [Einzelnen] count as an ego [Einzigen], thought of him only as a dependent, and was properly nothing but a social theory - a doctrine of living together, and that of man with God as well as of man with man – therefore in it everything 'own' must fall into most woeful disrepute: selfishness, self-will, ownness, self-love, and the like. The Christian way of looking at things has on all sides gradually re-stamped honourable words into dishonourable; why should they not be brought into honour again? So 'contumely [Schimpf]' is in its old sense equivalent to jest, but for Christian seriousness amusement became a dishonour, for that seriousness cannot take a joke; 'impudent [Frech]' formerly meant only bold, brave; 'wanton outrage [Frevel]' was only daring. It is well known how askance the word 'reason' was looked at for a long time.
+Because Christianity, incapable of letting the individual [Einzelnen] count as an ego [Einzigen], thought of him only as a dependent, and was properly nothing but a social theory - a doctrine of living together, and that of man with God as well as of man with man - therefore in it everything 'own' must fall into most woeful disrepute: selfishness, self-will, ownness, self-love, and the like. The Christian way of looking at things has on all sides gradually re-stamped honourable words into dishonourable; why should they not be brought into honour again? So 'contumely [Schimpf]' is in its old sense equivalent to jest, but for Christian seriousness amusement became a dishonour, for that seriousness cannot take a joke; 'impudent [Frech]' formerly meant only bold, brave; 'wanton outrage [Frevel]' was only daring. It is well known how askance the word 'reason' was looked at for a long time.
 
 Our language has settled itself pretty well to the Christian standpoint, and the general consciousness is still too Christian not to shrink in terror from everything un-Christian as from something incomplete or evil. Therefore 'selfishness [Eigennutz]' is in a bad way too.
 
 Selfishness, in the Christian sense, means something like this: I look only to see whether anything is of use to me as a sensual man. But is sensuality then the whole of my ownness? Am I in my own senses when I am given up to sensuality? Do I follow myself, my own determination, when I follow that? I am my own only when I am master of myself, instead of being mastered either by sensuality or by anything else (God, man, authority, law, state, church); what is of use to me, this self-owned or self-appertaining one, my selfishness pursues.
 
-Besides, one sees himself every moment compelled to believe in that constantly blasphemed selfishness as an all-controlling power. In the session of 10 February 1844, Welcker<sup>167</sup> argues a motion on the dependence of the judges, and sets forth in a detailed speech that removable, dismissible, transferable, and pensionable judges in short, such members of a court of justice as can by mere administrative process be damaged and endangered - are wholly without reliability, ves, lose all respect and all confidence among the people. The whole bench, Welcker cries, is demoralized by this dependence! In blunt words this means nothing else than that the judges find it more to their advantage to give judgement as the ministers would have them than to give it as the law would have them. How is that to be helped? Perhaps by bringing home to the judges' hearts the ignominiousness of their venality, and then cherishing the confidence that they will repent and henceforth prize justice more highly than their selfishness? No, the people does not soar to this romantic confidence, for it feels that selfishness is mightier than any other motive . Therefore the same persons who have been judges hitherto may remain so, however thoroughly one has convinced himself that they behaved as egoists; only they must not any longer find their selfishness favoured by the venality of justice, but must stand so independent of the government that by a judgement in conformity with the facts they do not throw into the shade their own cause, their 'well understood interest', but rather secure a comfortable combination of a good salary with respect among the citizens.
+Besides, one sees himself every moment compelled to believe in that constantly blasphemed selfishness as an all-controlling power. In the session of 10 February 1844, Welcker167 argues a motion on the dependence of the judges, and sets forth in a detailed speech that removable, dismissible, transferable, and pensionable judges in short, such members of a court of justice as can by mere administrative process be damaged and endangered - are wholly without reliability, ves, lose all respect and all confidence among the people. The whole bench, Welcker cries, is demoralized by this dependence! In blunt words this means nothing else than that the judges find it more to their advantage to give judgement as the ministers would have them than to give it as the law would have them. How is that to be helped? Perhaps by bringing home to the judges' hearts the ignominiousness of their venality, and then cherishing the confidence that they will repent and henceforth prize justice more highly than their selfishness? No, the people does not soar to this romantic confidence, for it feels that selfishness is mightier than any other motive . Therefore the same persons who have been judges hitherto may remain so, however thoroughly one has convinced himself that they behaved as egoists; only they must not any longer find their selfishness favoured by the venality of justice, but must stand so independent of the government that by a judgement in conformity with the facts they do not throw into the shade their own cause, their 'well understood interest', but rather secure a comfortable combination of a good salary with respect among the citizens.
 
 So Welcker and the commoners of Baden consider themselves secured only when they can count on selfishness. What is one to think, then, of the countless phrases of unselfishness with which their mouths overflow at other times'
 
@@ -1635,7 +1673,7 @@ To a cause which I am pushing selfishly I have another relation than to one whic
 
 If I am not concerned about a thing in and for itself, and do not desire it for its own sake, then I desire it solely as a means /0 an end, for its usefulness; for the sake of another end, as in oysters for a pleasant flavour. Now will not every thing whose final end he himself is, serve the egoist as means? And is he to protect a thing that serves him for nothing - for example, the proletarian to protect the state?
 
-Ownness includes in itself everything own, and brings to honour again what Christian language dishonoured. But ownness has not any alien standard either, as it is not in any sense an idea like freedom, morality, humanity, and the like : it is only a description of the <sup>o</sup>wner.
+Ownness includes in itself everything own, and brings to honour again what Christian language dishonoured. But ownness has not any alien standard either, as it is not in any sense an idea like freedom, morality, humanity, and the like : it is only a description of the owner.
 
 #### II
 
@@ -1653,7 +1691,7 @@ To see in you and me nothing further than 'men', that is running the Christian w
 
 Christianity properly so called gathers us under a less utterly general concept: there we are 'sons of God' and 'led by the Spirit of God'," Yet not all can boast of being God's sons, but 'the same Spirit
 
-<sup>,</sup> Romans 8:I4.
+, Romans 8:I4.
 
 which witnesses to our spirit that we are sons of God reveals also who are the sons of the devil' ." Consequently, to be a son of God one must not be a son of the devil; the sonship of God excluded certain men. To be sons oj men - that is, men - on the contrary, we need nothing but to belong to the human species, need only to be specimens of the same species. "Vhat I am as this I is no concern of yours as a good liberal, but is my pri'rate affair alone; enough that we are both sons of one and the same mother, namely, the human species: as 'a son of man' I am your equal.
 
@@ -1665,7 +1703,7 @@ Equality being now conceived as equality of the human spirit, there has certainl
 
 But are we on that account further on now than in the beginning of Christianity? Then we were to have a divine spin'f, now a human; but, if the divine did not exhaust us, how should the human wholly express what we are? Feuerbach thinks, that if he humanizes the divine, he has found the truth. No, if God has given us pain, 'man' is capable of pinching us still more torturingly. The long and the short of it is this: that we are men is the slightest thing about us, and has significance only in so far as it is one of our qualities [Eigenschaften], our property [Eigenturn]. I am indeed among other things a
 
-<sup>,</sup> Compare Romans 8:16 and John 3:10.
+, Compare Romans 8:16 and John 3:10.
 
 man, as I am a living being, therefore an animal, or a European, a Berliner, and the like; but he who chose to have regard for me only as a man, or as a Berliner, would pay me a regard that would be very unimportant to me. And why? Because he would have regard only for one of my qualities, not for me.
 
@@ -1679,7 +1717,7 @@ Therefore the liberal too revolves in the same circle as the Christian. Because 
 
 One can now, after liberalism has proclaimed man, declare openly that with this was only completed the consistent carrying out of Christianity, and that in truth Christianity set itself no other task from the start than to realize 'man', the 'true man' . Hence, then, the illusion that Christianity ascribes an infinite value to the ego [dem lch] (as in the doctrine of immortality, in the cure of souls, etc.) comes to light. No, it assigns this value to man [dem Menschen] alone. Only man is immortal, and only because I am man am I also immortal. In fact, Christianity had to teach that no one is lost, just as liberalism too puts all on an equality as men; but that eternity, like this equality, applied only to the man in me, not to me. Only as the bearer and harbourer of man do I not die, as notoriously 'the king never dies' .169 Ludwig dies, but the king remains; I die, but my spirit, man, remains.
 
-To identifY me now entirely with man the demand has been invented, and stated, that I must become a 'real generic being [wirkliches Gattungswesen 1'. <sup>a</sup>
+To identifY me now entirely with man the demand has been invented, and stated, that I must become a 'real generic being [wirkliches Gattungswesen 1'. a
 
 The human religion is only the last metamorphosis of the Christian religion. For liberalism is a religion because it separates my essence from me and sets it above me, because it exalts 'man' to the same extent as any other religion does its God or idol, because it makes what is mine into something otherworldly, because in general it makes some of what is mine, out of my qualities and my property, something alien - namely, an ' essence'; in short, because it sets me beneath man, and thereby creates for me a 'vocation'. But liberalism declares itself a religion in form too when it demands for this supreme being, man, a zeal of faith, 'a faith that some day will at last prove its fiery zeal too, a zeal that will be invincible'.b But, as liberalism is a human religion, its professor takes a tolerant attitude toward the professor of any other (Catholic, Jewish, etc.), as Frederick the Great did towards every one who performed his duties as a subject, whatever fashion of becoming blest he might be inclined toward. This religion is now to be raised to the rank of the generally customary one, and separated from the others as mere 'private follies', toward which, besides, one takes a highly liberal attitude on account of their unessentialness.
 
@@ -1687,9 +1725,9 @@ One may call it the state-religion, the religion of the 'free states', not in th
 
 But what concept is the highest to the state? Doubtless that of being a really human society, a society in which every one who is really
 
-<sup>&</sup>quot; For example, Karl Marx, 'On the Jewish Question', Deutsch-Jranziisische Jahrbiicher, ed. Arnold Ruge (Paris, 1 844), p. 1 97 m
+&quot; For example, Karl Marx, 'On the Jewish Question', Deutsch-Jranziisische Jahrbiicher, ed. Arnold Ruge (Paris, 1 844), p. 1 97 m
 
-<sup>b</sup>Bruno Bauer, Die Judenfrage (Brunswick, 1 843), p. 61.
+bBruno Bauer, Die Judenfrage (Brunswick, 1 843), p. 61.
 
 a man, that is, not an un-man, can obtain admission as a member. Let a state's tolerance go ever so far, toward an un-man and toward what is inhuman it ceases. And yet this 'un-man' is a man, yet the 'inhuman' itself is something human, yes, possible only to a man, not to any beast; it is, in fact, something 'possible to man'. But, although every un-man is a man, yet the state excludes him; it locks him up, or transforms him from an inhabitant of the state into an inhabitant of the prison (inhabitant of the lunatic asylum or hospital, according to communism).
 
@@ -1715,9 +1753,9 @@ Bruno Bauer states that the truth of criticism is the final truth, and in fact t
 
 The history of the Christian world is the history of the supreme fight for truth, for in it - and in it only! - the thing at issue is the discovery of the final or the primal truth - man and freedom.h
 
-<sup>•</sup> Moses Hess172 (anonymously), Die europaische Triarchie (Leipzig, 1841), p. 76.
+• Moses Hess172 (anonymously), Die europaische Triarchie (Leipzig, 1841), p. 76.
 
-<sup>,</sup> Bauer, Die Judenfrage, p. 84.
+, Bauer, Die Judenfrage, p. 84.
 
 All right, let us accept this gain, and let us take mall as the ultimately found result of Christian history and of the religious or ideal efforts of man in general. Now, who is man? I am! Man, the end and outcome of Christianity, is, as I, the beginning and raw material of the new history, a history of enjoyment after the history of sacrifices, a history not of man or humanity, but of me. J1an ranks as the general. :'-Jow then, I and the egoistic are the really general, since every one is ail egoist and of paramount importance to himself. The Jewish is not the purely egoistic, because the Jew still devotes himself to Jehovah; the Christian is not, because the Christian lives on the grace of God and subjects himself to him. As Jew and as Christian alike a man satisfies only certain of his wants, only a certain need, not himself: a half-egoism, because the egoism of a half-man, who is half he, half Jew, or half his own proprietor, half a slave. Therefore, too, Jew and Christian always half-way exclude each other; as men they recognize each other, as slaves they exclude each other, because they are servants of two different masters. If they could be complete egoists, they would exclude each other wholly and hold together so much the more firmly. Their ignominy is not that they exclude each other, but that this is done only half-way. Bruno Bauer, on the contrary, thinks Jews and Christians cannot regard and treat each other as 'men' until they give up the separate essence which parts them and obligates them to eternal separation, recognize the general essence of 'Man', and regard this as their 'true essence'.
 
@@ -1731,7 +1769,7 @@ When Fichte174 says, 'the ego is all', this seems to harmonize perfectly with my
 
 How natural is the supposition that man and ego mean the same! And yet one sees, as with Feuerbach, that the expression 'man' is to designate the absolute ego, the species, not the transitory, individual ego. Egoism and humanity (humaneness) ought to mean the same, but according to Feuerbach the individual can 'only lift himself above the limits of his individuality, but not above the laws, the positive ordinances, of his species'." But the species is nothing, and, if the individual lifts himself above the limits of his individuality, this is rather his very self as an individual; he exists only in raising himself, he exists only in not remaining what he is; otherwise he would be done, dead. Man with a capital M is only an ideal, the species only something thought of. To be a man is not to realize the ideal of man, but to present oneself, the individual. It is not how I realize the generally human that needs to be my task, but how I satisry myself. I am my species, am without norm, without law, without model, and the like. It is possible that I can make very little out of myself; but this little is everything, and is better than what I allow to be made out of me by the might of others, by the training of custom, religion, the laws,
 
-<sup>•</sup> Ludwig Feuerbach, The Essence o/Christianity, 2nd enlarged edition (Leipzig, 1843), p. 401.
+• Ludwig Feuerbach, The Essence o/Christianity, 2nd enlarged edition (Leipzig, 1843), p. 401.
 
 the state. Better - if the talk is to be of better at all - better an unmannerly child than an old head on young shoulders, better a mulish man than a man compliant in everything. The unmannerly and mulish fellow is still on the way to form himself according to his own will; the prematurely knowing and compliant one is determined by the 'species', the general demands, the species is law to him. He is detennined [bestimmtl by it; for what else is the species to him but his 'destiny [Bestimmungl', his 'calling'? Whether I look to 'humanity', the species, in order to strive toward this ideal, or to God and Christ with like endeavour, where is the essential dissimilarity? At most the former is more washed-out than the latter. As the individual is the whole of nature, so he is the whole of the species too.
 
@@ -1793,7 +1831,7 @@ In consideration of right the question is always asked: 'What or who gives me th
 
 Communism, which assumes that men 'have equal rights by nature', contradicts its own proposition until it comes to this, that men have no right at all by nature. For it is not willing to recognize, for instance, that parents have 'by nature' rights as against their children, or the children as against the parents: it abolishes the family. Nature gives parents, brothers, and so on, no right at all. Altogether, this entire revolutionary or Babouvist179 principle" rests on a religious, that is, false, view of things. Wno can ask after 'right' if he does not occupy the religious standpoint himself? Is not 'right' a religious concept, something sacred? Why, 'equality of rights', as the revolution propounded it, is only another name for 'Christian equality' , the 'equality of the brethren', 'of God's children', 'of Christians'; in short, Jraternite. Each and every inquiry after right deserves to be lashed with Schiller's words:
 
-<sup>&</sup>quot; See Die Kommunisten in der Schweiz nach den bei Weitling l'orgefundenen Papieren, Wartlicher Abdruck des Kommissionalberichtes an die H. Regienmg des Standes Ziirich (Zurich, 1843), p. 3,180
+&quot; See Die Kommunisten in der Schweiz nach den bei Weitling l'orgefundenen Papieren, Wartlicher Abdruck des Kommissionalberichtes an die H. Regienmg des Standes Ziirich (Zurich, 1843), p. 3,180
 
 Many a year I've used my nose To smell the onion and the rose; Is there any proof which shows That I've a right to that same nose?181
 
@@ -1827,7 +1865,7 @@ There is - alas! - no mention of the rights That were born with US.186
 
 What sort of right, then, is there that was born with me? The right to receive an entailed estate, to inherit a throne, to enjoy a princely or noble education; or, again, because poor parents begot me, to get free schooling, be clothed out of contributions of alms, and at last earn my bread and my herring in the coal-mines or at the loom? Are these not birthrights, rights that have come down to me from my parents through birth? You think - no; you think these are only rights improperly so called, it is just these rights that you aim to
 
-<sup>•</sup> August Becker, Die Volksphilosophie unserer Tage (Neumiinster near Zurich, 1843), pp. 22ff.
+• August Becker, Die Volksphilosophie unserer Tage (Neumiinster near Zurich, 1843), pp. 22ff.
 
 abolish through the real birthright. To give a basis for this you go back to the simplest thing and affirm that every one is by birth equal to another - namely, a man. I will grant you that every one is born as man, hence the new-born are therein equal to each other. Why are they? Only because they do not yet show and exert themselves as anything but bare - children of men, naked little human beings. But thereby they are at once different from those who have already made something out of themselves, who thus are no longer bare 'children of man', but - children of their own creation. The latter possesses more than bare birthrights: they have earned rights. What an antithesis, what a field of combat! The old combat of the birthrights of man and well-earned rights. Go right on appealing to your birthrights; people will not fail to oppose to you the well-earned. Both stand on the 'ground of right'; for each of the two has a 'right' against the other, the one the birthright of natural right, the other the earned or 'well-earned' right.
 
@@ -1835,7 +1873,7 @@ If you remain on the ground of right [Rechtsboden], you remain inself-opinionate
 
 In short, if you Chinese or Japanese did not ask after right, and in particular if you did not ask after the rights 'that were born with you', then you would not need to ask at all after the well-earned rights either .
 
-<sup>• &#</sup>x27;I beg you spare my lungs! He who insists on proving himself right, if he but has one of those things called tongues, can hold his own in all the world's despite!'187
+• &#x27;I beg you spare my lungs! He who insists on proving himself right, if he but has one of those things called tongues, can hold his own in all the world's despite!'187
 
 You start back in fright before others, because you think you see beside them the ghost of right, which, as in the Homeric combats, seems to fight as a goddess at their side, helping them. What do you do? Do you throw the spear? No, you creep around to gain the spook over to yourselves, that it may fight on your side: you woo for the ghost's favour. Another would simply ask thus: Do I will what my opponent will? ':t\o!' Now then, there may fight for him a thousand devils or gods, I go at him all the same!
 
@@ -1853,7 +1891,7 @@ People are at pains to distinguish law from arbitrary orders [Bejehn, from an or
 
 States last only so long as there is a ruling will and this ruling will is looked upon as tantamount to the own will. The lord's will is law. What do your laws amount to if no one obeys them? What your orders, if nobody lets himself be ordered? The state cannot forbear the claim to determine the individual's will, to speculate and count on this. For the state it is indispensable that nobody have an own will; if one had, the state would have to exclude (lock up, banish, etc.) this one; if all had, they would do away with the state . The state
 
-<sup>,</sup> Euripides, Orestes, 412.
+, Euripides, Orestes, 412.
 
 is not thinkable without lordship [Herrschafil and servitude [Knechtschafi] (subjection); for the state must will to be the lord of all that it embraces, and this will is called the 'will of the state'.
 
@@ -1863,7 +1901,7 @@ The own will of me is the state's destroyer; it is therefore denounced by the st
 
 Every state is a despotism, be the despot one or many, or (as one is likely to imagine about a republic) if all be lords, that is, despotize one over another. For this is the case when the law given at any time, the expressed volition of (it may be) a popular assembly, is thenceforth to be law for the individual, to which obedience is due from him or towards which he has the dut), of obedience. If one were even to conceive the case that every individual in the people had expressed the same will, and hereby a complete 'collective will' had come into being, the matter would still remain the same. Would I not be bound today and henceforth to my will of yesterday? My will would in this case be frozen. Wretched stability! My creature - namely, a particular expression of will - would have become my commander. But I in my will, I the creator, should be hindered in my flow and my dissolution. Because I was a fool yesterday I must remain such my life long. So in the state-life I am at best - I might just as well say, at worst - a bondman of myself. Because I was a willer yesterday, I am today without will: yesterday voluntary, today involuntary.
 
-How to change it? Only by recognizing no du�y, not binding myself nor letting myself be bound. If I have no duty, then I know no law either.
+How to change it? Only by recognizing no duy, not binding myself nor letting myself be bound. If I have no duty, then I know no law either.
 
 'But they will bind mel' My will nobody can bind, and my disinclination remains free.
 
@@ -1889,7 +1927,7 @@ If you let yourself be made out in the right by another, you must no less let yo
 
 'The criminal is in the utmost degree the state's own crime!'" says Bettina.194 One may let this sentiment pass, even if Bettina herself
 
-<sup>•</sup> Bettina von Arnim (anonymously), Dies Bllch gehi Jrt dem Konig (Berlin, I843), p. 376.
+• Bettina von Arnim (anonymously), Dies Bllch gehi Jrt dem Konig (Berlin, I843), p. 376.
 
 does not understand it exactly so. For in the state the unbridled I - I, as I belong to myself alone - cannot come to my fulfilment and realization. Every ego is from birth a criminal to begin with against the people, the state. Hence it is that it does really keep watch over all; it sees in each one an - egoist, and it is afraid of the egoist. It presumes the worst about each one, and takes care, police-care, that 'no harm happens to the state', ne quid respublica detrimenti capiat.195 The unbridled ego - and this we originally are, and in our secret inward parts we remain so always - is the never-ceasing criminal in the state. The man whom his boldness, his will, his inconsiderateness and fearlessness lead is surrounded with spies by the state, by the people. I say, by the people! The people (think it something wonderful, you good-hearted multitude, what you have in the people) - the people is full of police sentiments through and through. - Only he who renounces his ego, who practises 'self-renunciation', is acceptable to the people.
 
@@ -1921,7 +1959,7 @@ And with what unction the butchery goes on here in the name of the law, of the s
 
 Now, if the persecuted artfully conceal and protect themselves from the stern clerical judges, people stigmatize them as a 'hypocrite', as St Just does those whom he accuses in the speech against Danton! One is to be a fool, and deliver himself up to their Moloch.
 
-<sup>,</sup> Adolf Rutenburg <sup>201</sup>(ed.), Bibliothek politischer Reden ailS dem 18. lind [9. Jahrhundert, volume III (Berlin, 1844), p. 1 5 3.
+, Adolf Rutenburg 201(ed.), Bibliothek politischer Reden ailS dem 18. lind [9. Jahrhundert, volume III (Berlin, 1844), p. 1 5 3.
 
 Crimes spring from fixed ideas. The sacredness of marriage is a fixed idea. From the sacredness it follows that infidelity is a crime, and therefore a certain marriage law imposes upon it a shorter or longer penal{y. But by those who proclaim 'freedom as sacred' this penalty must be regarded as a crime against freedom, and only in this sense has public opinion in fact branded the marriage law.
 
@@ -1993,7 +2031,7 @@ The Christian people has produced two societies whose duration will keep equal m
 
 Well, I may not do so as I will. But shall I find in any society such an unmeasured freedom of allowances? Certainly no! Accordingly we might be content ? Not a bit! It is a different thing whether I rebound from an ego or from a people, a generalization. There I am my opponent's opponent, born his equal; here I am a despised opponent, bound and under a guardian: there I stand man to man; here I am a schoolboy who can accomplish nothing against his comrade because the latter has called father and mother to aid and has crept under the apron, while I am well scolded as an ill-bred brat, and I must not 'argue': there I fight against a bodily enemy; here against mankind, against a generalization, against a 'majesty', against a spook. But to me no majesty, nothing sacred, is a limit; nothing that I know how to overpower. Only that which I cannot overpower still limits my might; and I of limited might am temporarily a limited I, not limited by the might outside me, but limited by my own still deficient might, by my own impotence. However, 'the guard dies, but does not surrender!' Above all, only a bodily opponent!
 
-> <sup>I</sup>dare meet every foeman Whom I can see and measure with my eye, Whose mettle fires my mettle for the fight - etc.203
+> Idare meet every foeman Whom I can see and measure with my eye, Whose mettle fires my mettle for the fight - etc.203
 
 Many privileges have indeed been cancelled with time, but solely for the sake of the common weal, of the state and the state's weal, by no means for the strengthening of me. Vassalage was abrogated only that a single liege lord, the lord of the people, the monarchical power, might be strengthened: vassalage under the one became yet more rigorous thereby. Only in favour of the monarch, be he called 'prince' or 'law', have privileges fallen. In France the citizens are not, indeed, vassals of the king, but are instead vassals of the 'law' (the Charter). Subordination was retained, only the Christian State recog-
 
@@ -2037,13 +2075,13 @@ Listen, even as I am writing this, the bells begin to sound, that they may jingl
 
 ° thou my much-tormented German people - what was thy torment? It was the torment of a thought that cannot create itself a body, the torment of a walking spirit that dissolves into nothing at every cock-crow and yet pines for deliverance and fulfilment. In me too thou hast lived long, thou dear - thought, thou dear - spook. Already I almost fancied I had found the word of thy deliverance, discovered flesh and bones for the wandering spirit; then I hear them sound, the bells that usher thee into eternal rest; then the last hope fades out, then the notes of the last love die away, then I depart from the desolate house of those who now are dead and enter at the door of the - living one:
 
-For only he who is alive is in the right. <sup>214</sup>
+For only he who is alive is in the right. 214
 
 Farewell, thou dream of so many millions; farewell, thou who hast tyrannized over thy children for a thousand years !
 
 Tomorrow they carry thee to the grave; soon thy sisters, the peoples, will follow thee. But, when they have all followed, then mankind is buried, and I am my own, I am the laughing heir!
 
-The word society [Gesellschafi] has its origin in the word hall [Sa� . If one hall encloses many persons, then the hall causes these persons to be in society. They are in society, and at most constitute a drawingroom society by talking in the traditional forms of drawing-room speech. When it comes to real intercourse, this is to be regarded as independent of society: it may occur or be lacking, without altering the nature of what is named society. Those who are in the hall are a society even as mute persons, or when they put each other off solely with empty phrases of courtesy. Intercourse is mutuality, it is the action, the commercium,215 of individuals; society is only community of the hall, and even the statues of a museum-hall are in society, they are 'grouped'. People are accustomed to say 'they occupy [habe inne] this hall in common', but the case is rather that the hall has us within [inne] or in it. So far the natural signification of the word society. In this it comes out that society is not generated by me and you, but by a third factor which makes associates out of us two, and that it is just this third factor that is the creative one, that which creates society.
+The word society [Gesellschafi] has its origin in the word hall [Sa . If one hall encloses many persons, then the hall causes these persons to be in society. They are in society, and at most constitute a drawingroom society by talking in the traditional forms of drawing-room speech. When it comes to real intercourse, this is to be regarded as independent of society: it may occur or be lacking, without altering the nature of what is named society. Those who are in the hall are a society even as mute persons, or when they put each other off solely with empty phrases of courtesy. Intercourse is mutuality, it is the action, the commercium,215 of individuals; society is only community of the hall, and even the statues of a museum-hall are in society, they are 'grouped'. People are accustomed to say 'they occupy [habe inne] this hall in common', but the case is rather that the hall has us within [inne] or in it. So far the natural signification of the word society. In this it comes out that society is not generated by me and you, but by a third factor which makes associates out of us two, and that it is just this third factor that is the creative one, that which creates society.
 
 Just so a prison society or prison companionship [Genossenschafi] (those who enjoy [genieflen] the same prison). Here we already hit upon a third factor fuller of significance than was that merely local one, the hall. Prison no longer means a space only, but a space with express reference to its inhabitants : for it is a prison only through being destined for prisoners, without whom it would be a mere building. What gives a common stamp to those who are gathered in it? Evidently the prison, since it is only by means of the prison that they are prisoners. What, then, determines the manner of life of the prison society? The prison! What determines their intercourse? The prison too, perhaps? Certainly they can enter upon intercourse only as prisoners, only so far as the prison laws allow it; but that they themseh'es hold intercourse, I with you, this the prison cannot bring to pass; on the contrary, it must have an eye to guarding against such egoistic, purely personal intercourse (and only as such is it really intercourse between me and you). That we communally execute a job, run a machine, effectuate anything in general - for this a prison will indeed provide; but that I forget that I am a prisoner, and engage in intercourse with you who likewise disregard it, brings danger to the prison, and not only cannot be caused by it, but must not even be permitted. For this reason the saintly and moral-minded French chamber decides to introduce solitary confinement, and other saints will do the like in order to cut off 'demoralizing intercourse'. Imprisonment is the established and - sacred condition, to injure which no attempt must be made. The slightest push of that kind is punishable, as is every uprising against a sacred thing by which man is to be charmed [biftmgen] and chained [gefongen].
 
@@ -2059,7 +2097,7 @@ Now, if in an individual the egoistic impulse has not force enough, he complies 
 
 If, on the contrary, the egoistic blood flows fierily enough in his veins, he prefers to become a 'criminal' against the family and to throw off its laws.
 
-Which of the two lies nearer my heart, the good of the family or my good? In innumerable cases both go peacefully together; the advantage of the family is at the same time mine, and vice versa. Then it is hard to decide whether I am thinking selfishly [eigenniitzig] or for the common benefit fgemeinniitzlg] and perhaps I complacently flatter myself with my unselfishness. But there comes the day when a necessity of choice makes me tremble, when I have it in mind to dishonour my family tree, to affront parents, brothers, and kindred. What then? Now it will appear how I am disposed at the bottom of my heart; now it will be revealed whether piety ever stood above egoism for me, now the selfish one can no longer skulk behind the semblance of unselfishness. A wish rises in my soul, and, growing from hour to hour, becomes a passion. To whom does it occur at first blush that the slightest thought which may result adversely to the spirit of the family, piety bears within it a transgression against this? Indeed, who at once, in the first moment, becomes completely conscious of the matter? It happens so with Juliet in Romeo and Juliet.217 The unruly passion can at last no longer be tamed, and undermines the building of piety. You will say, indeed, it is from self-will that the family casts out of its bosom those wilful ones that grant more of a hearing to their passion than to piety; the good Protestants used the same excuse with much success against the Catholics, and believed in it themselves. But it is just a subterfuge to roll the fault off oneself, nothing more. The Catholics had regard for the common bond of the church, and thrust those heretics from them only because these did not have so much regard for the bond of the church as to sacrifice their convictions to it; the former, therefore, held the bond fast, because the bond, the Catholic, that is the common and united church, was sacred to them; the latter, on the �ontrary, disregarded the bond. Just so those who lack piety. They are not thrust out, but thrust themselves out, prizing their passion, their wilfulness, higher than the bond of the family.
+Which of the two lies nearer my heart, the good of the family or my good? In innumerable cases both go peacefully together; the advantage of the family is at the same time mine, and vice versa. Then it is hard to decide whether I am thinking selfishly [eigenniitzig] or for the common benefit fgemeinniitzlg] and perhaps I complacently flatter myself with my unselfishness. But there comes the day when a necessity of choice makes me tremble, when I have it in mind to dishonour my family tree, to affront parents, brothers, and kindred. What then? Now it will appear how I am disposed at the bottom of my heart; now it will be revealed whether piety ever stood above egoism for me, now the selfish one can no longer skulk behind the semblance of unselfishness. A wish rises in my soul, and, growing from hour to hour, becomes a passion. To whom does it occur at first blush that the slightest thought which may result adversely to the spirit of the family, piety bears within it a transgression against this? Indeed, who at once, in the first moment, becomes completely conscious of the matter? It happens so with Juliet in Romeo and Juliet.217 The unruly passion can at last no longer be tamed, and undermines the building of piety. You will say, indeed, it is from self-will that the family casts out of its bosom those wilful ones that grant more of a hearing to their passion than to piety; the good Protestants used the same excuse with much success against the Catholics, and believed in it themselves. But it is just a subterfuge to roll the fault off oneself, nothing more. The Catholics had regard for the common bond of the church, and thrust those heretics from them only because these did not have so much regard for the bond of the church as to sacrifice their convictions to it; the former, therefore, held the bond fast, because the bond, the Catholic, that is the common and united church, was sacred to them; the latter, on the ontrary, disregarded the bond. Just so those who lack piety. They are not thrust out, but thrust themselves out, prizing their passion, their wilfulness, higher than the bond of the family.
 
 But now sometimes a wish glimmers in a less passionate and wilful heart than Juliet's. The pliable girl brings herself as a sacrifice to the peace of the family. One might say that here too selfishness prevailed, for the decision came from the feeling that the pliable girl felt herself more satisfied by the unity of the family than by the fulfilment of her wish. That might be; but what if there remained a sure sign that egoism had been sacrificed to piety? What if, even after the wish that had been directed against the peace of the family was sacrificed, it remained at least as a recollection of a 'sacrifice' brought to a sacred tie? What if the pliable girl were conscious of having left her self-will unsatisfied and humbly subjected herself to a higher power? Subjected and sacrificed, because the superstition of piety exercised its dominion over her!
 
@@ -2103,13 +2141,13 @@ But the thing remains the same. That which has 'proceeded, been founded, sprung 
 
 The republic is nothing whatever but - absolute monarchy; for it makes no difference whether the monarch is called prince or people,
 
-<sup>,</sup> What was said in the concluding remarks after humane liberalism holds good of the following - namely, that it was likewise written immediately after the appearance of the book cited.
+, What was said in the concluding remarks after humane liberalism holds good of the following - namely, that it was likewise written immediately after the appearance of the book cited.
 
-<sup>b</sup>Edgar Bauer, Die liberalell Bestrebungen ill Deutschland (Zurich and Winterthur, 1 843), no. 2, p. 50.
+bEdgar Bauer, Die liberalell Bestrebungen ill Deutschland (Zurich and Winterthur, 1 843), no. 2, p. 50.
 
-<sup>,</sup> Ibid. p. 69.
+, Ibid. p. 69.
 
-<sup>d</sup>Ibid. p. 94.
+dIbid. p. 94.
 
 both being a 'majesty'. Constitutionalism itself proves that nobody is able and willing to be only an instrument. The ministers domineer over their master the prince, the deputies over their master the people . Here, then, the parties at least are already free, namely, the office-holders' party (so-called people's party). The prince must conform to the will of the ministers, the people dance to the pipe of the chambers. Constitutionalism is further than the republic, because it is the State in incipient dissolution.
 
@@ -2141,11 +2179,11 @@ The vox populi is now always held up to us, and 'public opinion' is to rule our 
 
 At this point the 'nationals' may be brought to mind. To demand of the thirty-eight states of Germany that they shall act as one
 
-<sup>,</sup> Ibid. p. 132.
+, Ibid. p. 132.
 
-<sup>b</sup>Ibid. p. 132.
+bIbid. p. 132.
 
-<sup>,</sup> Pierre-Joseph Proudhon, De /a creation de /'ordre dans I'humaniti ou principes d 'organisalion politique (Paris, 1 843), p. 485.
+, Pierre-Joseph Proudhon, De /a creation de /'ordre dans I'humaniti ou principes d 'organisalion politique (Paris, 1 843), p. 485.
 
 nation can only be put alongside the senseless desire that thirtyeight swarms of bees, led by thirty-eight queen-bees, shall unite themselves into one swarm. Bees they all remain; but it is not the bees as bees that belong together and can join themselves together, it is only that the subject bees are connected with the ruling queens. Bees and peoples are destitute of will, and the instinct of their queens leads them.
 
@@ -2159,9 +2197,9 @@ Aside from this, the so-called nationals would only have to understand themselve
 
 The impersonality of what they call 'people, nation', is clear also from this: that a people which wants to bring its I into view to the best of its power, puts at its head the ruler without will. It finds itself in the alternative either to be subj ected to a prince who realizes only himself, his individual pleasure - then it does not recognize in the 'absolute master' its own will, the so-called will of the people - or to seat on the throne a prince who gives effect to no will of his own then it has a prince without will, whose place some ingenious clockwork would perhaps fill just as well. - Therefore insight need go
 
-<sup>,</sup> Moriz Carriere, Der Kolner Dom ats freie deutsche Kirche. Gedanken uber Nationalitiit, Kunst und Religion beim Wiederbeginn des Baues (Stuttgart, 1 843), p. 4.
+, Moriz Carriere, Der Kolner Dom ats freie deutsche Kirche. Gedanken uber Nationalitiit, Kunst und Religion beim Wiederbeginn des Baues (Stuttgart, 1 843), p. 4.
 
-<sup>,</sup> Ibid. p. 10.
+, Ibid. p. 10.
 
 only a step further: then it becomes clear of itself that the I of the people is an impersonal, 'spiritual' power, the - law. The people's I, therefore, is a - spook, not an I. I am I only by this, that I make myself; that it is not another who makes me, but 1 must be my own work. But how is it with this I of the people? Chance plays it into the people's hand, chance gives it this or that born lord, accidents procure it the chosen one; he is not its (the 'sovereign' people's) product, as I am my product. Conceive of one wanting to talk you into believing that you were not your I, but Hans or Thomas was your I! But so it is with the people, and rightly. For the people has an I as little as the eleven planets counted together have an I, though they revolve around a common centre.
 
@@ -2179,7 +2217,7 @@ In the same place it is said: 'Man's relation to the res publica is degraded to 
 
 If, instead of 'sacred duty', 'man's destiny', the 'calling to full manhood', and similar commandments, it were held up to people that their self-interest was infringed on when they let everything in the state go as it goes, then, without declamations, they would be addressed as one will have to address them at the decisive moment if he wants to attain his end. Instead of this, the theology-hating author says, 'If there has ever been a time when the state laid claim to all that are its, such a time is ours. - The thinking man sees in participation in
 
-<sup>&</sup>quot; Karl Nauwerck, Uber die Teilnahme am Staate (Leipzig, r 844), p. 16.
+&quot; Karl Nauwerck, Uber die Teilnahme am Staate (Leipzig, r 844), p. 16.
 
 the theory and practice of the state a duty, one of the most sacred duties that rest upon him' - and then takes under closer consideration the 'unconditional necessity that everybody participate in the state'.
 
@@ -2195,7 +2233,7 @@ To the chapter of society belongs also 'the party', whose praise has of late bee
 
 In the state the party is valid. 'Party, party, who should not join one!' But the individual is unique, not a member of the party. He unites freely, and separates freely again. The party is nothing but a state in the state, and in this smaller bee-state 'peace' is also to rule just as in the greater. The very people who cry loudest that there must be an opposition in the state inveigh against every discord in the party. A proof that they too want only a - state. All parties are shattered not against the state, but against the ego.
 
-One hears nothing more frequently now than the admonition to remain true to his party; party men despise nothing so much as an independent. One must run with his party through thick and thin, and unconditionally approve and represent its chief principles. It does not indeed go quite so badly here as with closed societies, because these bind their members to fixed laws or statutes (such as the orders, the Society of Jesus, etc.). But yet the party ceases to be a union at the same moment at which it makes certain principles binding and wants to have them assured against attacks; but this moment is the very birth-act of the party. As party it is already a born society, a dead union, an idea that has become fixed. As party of absolutism it cannot will that its members should doubt the irrefragable truth of this principle; they could cherish this doubt only if they were egoistic enough to want still to be something outside their party, non-partisans. �onpartisans they cannot be as party-men, but only as egoists. If you are a Protestant and belong to that party, you must only justifY Protestantism, at most 'purge' it, not reject it; if you are a Christian and belong among men to the Christian party, you cannot be beyond this as a member of this party, but only when your egoism, nonpartisanship, impels you to it. What exertions the Christians, down to Hegel and the communists, have put forth to make their party strong! They stuck to it that Christianity must contain the eternal truth, and that one needs only to get at it, make sure of it, and justify it.
+One hears nothing more frequently now than the admonition to remain true to his party; party men despise nothing so much as an independent. One must run with his party through thick and thin, and unconditionally approve and represent its chief principles. It does not indeed go quite so badly here as with closed societies, because these bind their members to fixed laws or statutes (such as the orders, the Society of Jesus, etc.). But yet the party ceases to be a union at the same moment at which it makes certain principles binding and wants to have them assured against attacks; but this moment is the very birth-act of the party. As party it is already a born society, a dead union, an idea that has become fixed. As party of absolutism it cannot will that its members should doubt the irrefragable truth of this principle; they could cherish this doubt only if they were egoistic enough to want still to be something outside their party, non-partisans. onpartisans they cannot be as party-men, but only as egoists. If you are a Protestant and belong to that party, you must only justifY Protestantism, at most 'purge' it, not reject it; if you are a Christian and belong among men to the Christian party, you cannot be beyond this as a member of this party, but only when your egoism, nonpartisanship, impels you to it. What exertions the Christians, down to Hegel and the communists, have put forth to make their party strong! They stuck to it that Christianity must contain the eternal truth, and that one needs only to get at it, make sure of it, and justify it.
 
 In short, the party cannot bear non-partisanship, and it is in this that egoism appears. What matters the party to me? I shall find enough anyhow who unite with me without swearing allegiance to my flag.
 
@@ -2243,11 +2281,11 @@ The efforts of modern times aim to set up the ideal of the 'free man'. If one co
 
 With the ideal of 'absolute liberty', the same turmoil is made as with everything absolute, and according to Hess, it is said to 'be realizable in absolute human society'.' Indeed, this realization is immediately afterwards styled a 'vocation'; just as he then defines
 
-<sup>•</sup> Bruno Bauer (anonymously), 'Was is! jetzt der Gegenstand der Kritik?', in Bruno Bauer (ed.), Allgemeine Literaturzeitung, no. 8 (July, 1 844), p. 22.
+• Bruno Bauer (anonymously), 'Was is! jetzt der Gegenstand der Kritik?', in Bruno Bauer (ed.), Allgemeine Literaturzeitung, no. 8 (July, 1 844), p. 22.
 
 b Matthew 5 :48.
 
-<sup>,</sup> Moses Hess (anonymously), 'Sozialismus und Kommunismus', in Georg Herwegh (ed.), Einundzwam:.ig Bogen aus der Schweiz (Zurich and Winterthur, 1 843), pp. 89-1)0.
+, Moses Hess (anonymously), 'Sozialismus und Kommunismus', in Georg Herwegh (ed.), Einundzwam:.ig Bogen aus der Schweiz (Zurich and Winterthur, 1 843), pp. 89-1)0.
 
 liberty as 'morality' : the kingdom of 'justice' (equality) and 'morality' (liberty) is to begin, etc.
 
@@ -2307,7 +2345,7 @@ Property as the civic liberals understand it deserves the attacks of the communi
 
 Proudhon wants not the proprietaire but the possesseur or usufruitier." What does that mean? He wants no one to own the land; but the benefit of it - even though one were allowed only the hundredth part of this benefit, this fruit - is at any rate one's property, which he can dispose of at will. He who has only the benefit of a field is assuredly not the proprietor of it; still less he who, as Proudhon would have it, must give up so much of this benefit as is not required for his wants; but he is the proprietor of the share that is left him. Proudhon, therefore, denies only such and such property, not property itself. If we want no longer to leave the land to the landed proprietors, but to appropriate it to ourselves, we unite ourselves to this end, form a union, a societe, that makes itself proprietor; if we have good luck in this, then those persons cease to be landed proprietors. And, as from the land, so we can drive them out of many another property yet, in order to make it our property, the property of the - conquerors. The conquerors form a society which one may imagine so great that it by degrees embraces all humanity; but so-called humanity too is as such only a thought (spook); the individuals are its reality. And these individuals as a collective mass will treat land and earth not less arbitrarily than an isolated individual or so-called proprietaire. Even so, therefore, property remains standing, and that as 'exclusive' too, in that humanity, this great society, excludes the individual from its property (perhaps only leases to him, gives him as a fief, a piece of it) as it besides excludes everything that is not humanity, does not allow ani-
 
-<sup>,</sup> Pierre-Joseph Proudhon, What is Property? (Paris, r 841), p. 83.
+, Pierre-Joseph Proudhon, What is Property? (Paris, r 841), p. 83.
 
 mals to have property. - So too it will remain, and will grow to be. That in which all want to have a share will be withdrawn from that individual who wants to have it for himself alone: it is made a common estate. As a common estate every one has his share in it, and this share is his property. Why, so in our old relations a house which belongs to five heirs is their common estate; but the fifth part of the revenue is each one's property. Proudhon might spare his prolix pathos if he said: 'There are some things that belong only to a few, and to which we others will from now on lay claim or - siege. Let us take them, because one comes to property by taking, and the property of which for the present we are still deprived came to the proprietors likewise only by taking. It can be utilized better if it is in the hands of us all than if the few control it. Let us therefore associate ourselves for the purpose of this robbery (vol).' - Instead of this, he tries to get us to believe that society is the original possessor and the sole proprietor, of imprescriptible right; against it the so-called proprietors have become thieves (La propriete c'est Ie vol); if it now deprives of his property the present proprietor, it robs him of nothing, as it is only availing itself of its imprescriptible right. - So far one comes with the spook of society as a moral person. On the contrary, what man can obtain belongs to him: the world belongs to me. Do you say anything else by your opposite proposition? 'The world belongs to all?' All are I and again I, etc. But you make out of the 'all' a spook, and make it sacred, so that then the 'all' become the individual's fearful master. Then the ghost of 'right' places itself on their side.
 
@@ -2339,7 +2377,7 @@ Pauperism can be removed only when I as ego realize value from myself, when I gi
 
 What I produce, flour, linen, or iron and coal, which I laboriously win from the earth, is m)' work that I want to realize value from. But then I may long complain that I am not paid for my work according to its value : the payer will not listen to me, and the state likewise will maintain an apathetic attitude so long as it does not think it must ' appease' me that I may not break out with my dreaded might. But this 'appeasing' will be all, and, if it comes into my head to ask for more, the state turns against me with all the force of its lion-paws and eagle-claws : for it is the king of beasts, it is lion and eagle. If I refuse to be content with the price that it fixes for my ware and labour, if I rather aspire to determine the price of my ware myself, that is, 'to pay myself', in the first place I come into a conflict with the buyers of the ware . If this were stilled by a mutual understanding, the state would not readily make objections ; for how individuals get along with each other troubles it little, so long as therein they do not get in its way. Its damage and its danger begin only when they do not agree, but, in the absence of a settlement, take each other by the hair. The state cannot endure that man stand in a direct relation to man; it must step between as - mediator, must - intervene. \Vhat Christ was, what the saints, the church were, the state has become namely, 'mediator' . It tears man from man to put itself between them as 'spirit'. The labourers who ask for higher pay are treated as criminals as soon as they want to compel it. What are they to do? Without compulsion they don't get it, and in compulsion the state sees a self-help, a determination of price by the ego, a genuine, free realization of value from his property, which it cannot admit of. What then are the labourers to do? Look to themselves and ask nothing about the state?
 
-But, as is the situation with regard to my material work, so it is with my intellectual too. The state allows me to realize value from all my thoughts and to find customers for them (I do realize value from them, in the very fact that they bring me honour from the listeners, and the like); but only so long as m)' thoughts are - its thoughts. It� on the other hand, I harbour thoughts that it cannot approve (make its own), then it does not allow me at all to realize value from them, to bring them into exchange into commerce. My thoughts are free only if they are granted to me by the state's grace, if they are the state's thoughts. It lets me philosophize freely only so far as I prove myself a 'philosopher of state [Staatsphilosoph]'; against the state I must not philosophize, gladly as it tolerates my helping it out of its 'deficiencies', 'furthering' it. - Therefore, as I may behave only as an ego most graciously permitted by the state, provided with its testimonial of legitimacy and police pass, so too it is not granted me to realize value from what is mine, unless this proves to be its, which I hold as fief from it. My ways must be its ways, else it siezes me; my thoughts its thoughts, else it stops my mouth.
+But, as is the situation with regard to my material work, so it is with my intellectual too. The state allows me to realize value from all my thoughts and to find customers for them (I do realize value from them, in the very fact that they bring me honour from the listeners, and the like); but only so long as m)' thoughts are - its thoughts. It on the other hand, I harbour thoughts that it cannot approve (make its own), then it does not allow me at all to realize value from them, to bring them into exchange into commerce. My thoughts are free only if they are granted to me by the state's grace, if they are the state's thoughts. It lets me philosophize freely only so far as I prove myself a 'philosopher of state [Staatsphilosoph]'; against the state I must not philosophize, gladly as it tolerates my helping it out of its 'deficiencies', 'furthering' it. - Therefore, as I may behave only as an ego most graciously permitted by the state, provided with its testimonial of legitimacy and police pass, so too it is not granted me to realize value from what is mine, unless this proves to be its, which I hold as fief from it. My ways must be its ways, else it siezes me; my thoughts its thoughts, else it stops my mouth.
 
 The state has nothing to be more afraid of than the value of me, and nothing must it more carefully guard against than every occasion that offers itself to me for realizing value from myself. I am the deadly enemy of the state, which always hovers between the alternatives, it or I. Therefore it strictly insists not only on not letting me have a standing, but also on keeping down what is mine. In the state there is no property, no property of the individual, but only state property. Only through the state have I what I have, as I am only through it what I am. My private property is only that which the state leaves to me of its, cutting off others from it (making it private); it is state property.
 
@@ -2361,7 +2399,7 @@ Egoism takes another way to root out the non-possessing rabble [Piibel J. It doe
 
 bestow on you in the name of the collectivity (for such bestowal took place in 'states' from the most ancient times, each receiving 'according to his desert', and therefore according to the measure in which each was able to deseroe [verdienen] it, to acquire it by seroice [erdienen]), but: Take hold, and take what you require! With this the war of all against all is declared. I alone decide what I will have.
 
-'Now, that is truly no new wisdom, for self-seekers have acted so at all times!' �ot at all necessary either that the thing be new, if only consciousness of it is present. But this latter will not be able to claim great age, unless perhaps one includes the Egyptian and Spartan law; for how little current it is appears even from the stricture above, which speaks with contempt of 'self-seekers'. One is to know just this, that the procedure of taking hold is not contemptible, but manifests the pure deed of the egoist at one with himself.
+'Now, that is truly no new wisdom, for self-seekers have acted so at all times!' ot at all necessary either that the thing be new, if only consciousness of it is present. But this latter will not be able to claim great age, unless perhaps one includes the Egyptian and Spartan law; for how little current it is appears even from the stricture above, which speaks with contempt of 'self-seekers'. One is to know just this, that the procedure of taking hold is not contemptible, but manifests the pure deed of the egoist at one with himself.
 
 Only when I expect neither from individuals nor from a collectivity what I can give to myself, only then do I slip out of the snares of love; the rabble ceases to be rabble only when it takes hold. Only the dread of taking hold, and the corresponding punishment, makes it a rabble. Only that taking hold is sin, crime - only this dogma creates a rabble. For the fact that the rabble remains what it is, it (because it allows validity to that dogma) is to blame as well as, more especially, those who 'self-seekingly' (to give them back their favourite word) demand that the dogma be respected. In short, the lack of consciousness of that 'new wisdom', the old consciousness of sin, alone bears the blame.
 
@@ -2377,7 +2415,7 @@ Property, therefore, should not and cannot be abolished; it must rather be torn 
 
 In short, the property question cannot be solved so amicably as the socialists, yes, even the communists, dream. It is solved only by the war of all against all. The poor become free and proprietors only when they - rebel, rise up. Bestow ever so much on them, they will still always want more; for they want nothing less than that at last nothing more be bestowed.
 
-<sup>,</sup> In a registration bill for Ireland the government made the proposal to let those be electors who pay £5 sterling of poor-rates. He who gives alms, therefore, acquires political rights, or elsewhere becomes a swan-knight.'"
+, In a registration bill for Ireland the government made the proposal to let those be electors who pay £5 sterling of poor-rates. He who gives alms, therefore, acquires political rights, or elsewhere becomes a swan-knight.'"
 
 It will be asked, but how then will it be when the have-nots take heart? Of what sort is the settlement to be? One might as well ask that I cast a child's nativity. v Vhat a slave will do as soon as he has broken his fetters, one must - await.
 
@@ -2387,7 +2425,7 @@ Competition shows itself most strictly connected with the principle of civism. I
 
 What in the form of principle or theory was propounded as the equality of all has found here in competition its realization and practical carrying out; for egalite is - free competition. All are, before the state - simple individuals; in society, or in relation to each other competitors.
 
-<sup>, .&</sup>quot;.1inister Stein24' used this expression about Count von Reisach,242 when he so coldbloodedly left the latter at the mercy of the Bavarian government because to him, as he said, 'a government like Bavaria must be worth more than a simple individual'. Reisach had written against Montgelas243 at Stein's bidding, and Stein later agreed to the giving up of Reisach, which was demanded by Montgelas on account of this very book. See Hermann Friedrich Wilhelm Hinrichs, Politische Vorlesungen. Unser Zeitalter und wie es geworden, nach seinen politischen, kirchlichen und wissenschaftlichen Zustiinden. mit besonderm Bezug au/Deutschland lind namentliclz Preujlen, volume I (Halle, 1843), p. 280.
+, .&quot;.1inister Stein24' used this expression about Count von Reisach,242 when he so coldbloodedly left the latter at the mercy of the Bavarian government because to him, as he said, 'a government like Bavaria must be worth more than a simple individual'. Reisach had written against Montgelas243 at Stein's bidding, and Stein later agreed to the giving up of Reisach, which was demanded by Montgelas on account of this very book. See Hermann Friedrich Wilhelm Hinrichs, Politische Vorlesungen. Unser Zeitalter und wie es geworden, nach seinen politischen, kirchlichen und wissenschaftlichen Zustiinden. mit besonderm Bezug au/Deutschland lind namentliclz Preujlen, volume I (Halle, 1843), p. 280.
 
 I need be nothing further than a simple individual to be able to compete with all others aside from the prince and his family: a freedom which formerly was made impossible by the fact that only by means of one's corporation, and within it, did one enjoy any freedom of effort.
 
@@ -2409,7 +2447,7 @@ In the mind of the commonalty every one is possessor or 'owner' . Now, whence co
 
 However, the lucky egoism had to become a snag in the way of the less fortunate, and the latter, still keeping its feet planted on the
 
-<sup>,</sup> In colleges and universities poor men compete with rich. But they are able to do so in most cases only through scholarships, which - a significant point - almost all come down to us from a time when free competition was still far from being a controlling principle. The principle of competition founds no scholarships, but says, help yourself; provide yourself the means. What the state gives for such purposes it pays out from interested motives, to educate 'servants' for itself.
+, In colleges and universities poor men compete with rich. But they are able to do so in most cases only through scholarships, which - a significant point - almost all come down to us from a time when free competition was still far from being a controlling principle. The principle of competition founds no scholarships, but says, help yourself; provide yourself the means. What the state gives for such purposes it pays out from interested motives, to educate 'servants' for itself.
 
 principle of humanity, put forward the question as to how-much of possession, and answered it to the effect that 'man must have as much as he requires'.
 
@@ -2593,7 +2631,7 @@ In a word, the press does not become free from what I am not free from.
 
 Do I perhaps hereby show myself an opponent of the liberty of the press? On the contrary, I only assert that one will never get it if one wants only it, the liberty of the press, if one sets out only for an unrestricted permission. Only beg right along for this permission: you may wait forever for it, for there is no one in the world who could give it to you. As long as you want to have yourselves 'entitled' to the use of the press by a permission, you live in vain hope and complaint.
 
-'Nonsense! Why, you yourself, who harbour such thoughts as stand in your book, can unfortunately bring them to publicity only through a lucky chance or by stealth; nevertheless you will inveigh against one's pressing and importuning his own state until it gives the refused permission to print?' But an author thus addressed would perhaps - for the impudence of such people goes far - give the following reply: 'Consider well what you say! \Vhat then do I do to procure myself liberty of the press for my book? Do I ask for permission, or do I not rather, without any question of legality, seek a favourable occasion and grasp it in complete recklessness of the state and its wishes? I - the terrif Ying word must be uttered - I cheat the state . You unconsciously do the same. From your tribunes you talk it into the idea that it must give up its sanctity and inviolability, it must lay itself bare to the attacks of writers, without needing on that account to fear danger. But you are imposing on it; for its existence is done for as soon as it loses its unapproachableness. To you indeed it might well accord liberty of writing, as England has done; you are believers in the state and incapable of writing against the state, however much you would like to reform it and "remedy its defects". But what if opponents of the state availed themselves of free utterance, and stormed out against church, state, morals, and everything "sacred" with inexorable reasons? You would then be the first, in terrible agonies, to call into life the September Laws. <sup>252</sup>Too late would you then rue the stupidity that earlier made you so ready to fool and flatter into compliance the state, or the government of the state. - But, I prove by my act only t\vo things. This for one, that the liberty of the press is always bound to "favourable opportunities", and accordingly will never be an absolute liberty; but secondly this, that he who would enjoy it must seek out and, if possible, create the favourable opportunity, availing himself of his own advantage against the state; and counting himself and his will more than the state and every "superior" power. Not in the state, but only against it, can the liberty of the press be carried through; if it is to be established, it is to be obtained not as the consequence of a request [Bitte] but as the work of an insurreaion. Every request and every plea for liberty of the press is already an insurrection, be it conscious or unconscious: a thing which philistine half ness alone will not and cannot confess to itself until, with a shrinking shudder, it shall see it clearly and irrefutably by the outcome. For the requested liberty of the press has indeed a friendly and well-meaning face at the beginning, as it is not in the least disposed ever to let the "insolence of the press" come into vogue; but little by little its heart grows more hardened, and the inference flatters its way in that really a liberty is not a liberty if it stands in the service of the state, of morals, or of the law. A liberty indeed from the coercion of censorship, it is yet not a liberty from the coercion of law. The press, once seized by the lust for liberty, always wants to grow freer, until at last the writer says to himself, really I am not wholly free until I ask about nothing; and writing is free only when it is my own, dictated to me by no power or authority, by no faith, no dread; the press must not be free - that is too little - it must be mine: - ownness of the press or property in the press, that is what I will take.
+'Nonsense! Why, you yourself, who harbour such thoughts as stand in your book, can unfortunately bring them to publicity only through a lucky chance or by stealth; nevertheless you will inveigh against one's pressing and importuning his own state until it gives the refused permission to print?' But an author thus addressed would perhaps - for the impudence of such people goes far - give the following reply: 'Consider well what you say! \Vhat then do I do to procure myself liberty of the press for my book? Do I ask for permission, or do I not rather, without any question of legality, seek a favourable occasion and grasp it in complete recklessness of the state and its wishes? I - the terrif Ying word must be uttered - I cheat the state . You unconsciously do the same. From your tribunes you talk it into the idea that it must give up its sanctity and inviolability, it must lay itself bare to the attacks of writers, without needing on that account to fear danger. But you are imposing on it; for its existence is done for as soon as it loses its unapproachableness. To you indeed it might well accord liberty of writing, as England has done; you are believers in the state and incapable of writing against the state, however much you would like to reform it and "remedy its defects". But what if opponents of the state availed themselves of free utterance, and stormed out against church, state, morals, and everything "sacred" with inexorable reasons? You would then be the first, in terrible agonies, to call into life the September Laws. 252Too late would you then rue the stupidity that earlier made you so ready to fool and flatter into compliance the state, or the government of the state. - But, I prove by my act only t\vo things. This for one, that the liberty of the press is always bound to "favourable opportunities", and accordingly will never be an absolute liberty; but secondly this, that he who would enjoy it must seek out and, if possible, create the favourable opportunity, availing himself of his own advantage against the state; and counting himself and his will more than the state and every "superior" power. Not in the state, but only against it, can the liberty of the press be carried through; if it is to be established, it is to be obtained not as the consequence of a request [Bitte] but as the work of an insurreaion. Every request and every plea for liberty of the press is already an insurrection, be it conscious or unconscious: a thing which philistine half ness alone will not and cannot confess to itself until, with a shrinking shudder, it shall see it clearly and irrefutably by the outcome. For the requested liberty of the press has indeed a friendly and well-meaning face at the beginning, as it is not in the least disposed ever to let the "insolence of the press" come into vogue; but little by little its heart grows more hardened, and the inference flatters its way in that really a liberty is not a liberty if it stands in the service of the state, of morals, or of the law. A liberty indeed from the coercion of censorship, it is yet not a liberty from the coercion of law. The press, once seized by the lust for liberty, always wants to grow freer, until at last the writer says to himself, really I am not wholly free until I ask about nothing; and writing is free only when it is my own, dictated to me by no power or authority, by no faith, no dread; the press must not be free - that is too little - it must be mine: - ownness of the press or property in the press, that is what I will take.
 
 'Why, liberty of the press is only permission of the press, and the state never will or can voluntarily permit me to grind it to nothingness by the press.
 
@@ -2615,9 +2653,9 @@ In Die liberalen Bestrebungena Edgar Bauer asserts that liberty of the press is 
 
 S ander,253 against whom E. Bauer writes, lays claim to the liberty of the press 'as the right and the liberty of the citizens in the state'.b What else does Edgar Bauer do? To him also it is only a right of the free citizen .
 
-<sup>b</sup>Ibid. p. 99.
+bIbid. p. 99.
 
-<sup>•</sup> Edgar B;luer, Die liberalen Bestrebungen in Deutschland (Zurich and Winterthur, 1 843), no. 2, pp. 91ff. (See my note above.)
+• Edgar B;luer, Die liberalen Bestrebungen in Deutschland (Zurich and Winterthur, 1 843), no. 2, pp. 91ff. (See my note above.)
 
 The liberty of the press is also demanded under the name of a ' general human right'. Against this the objection was established that not every man knew how to use it rightly, for not every individual was truly man. Never did a government refuse it to man as such; but man writes nothing, for the reason that he is a ghost. It always refused it to individuals only, and gave it to others, its organs. If then one would have it for all, one must assert outright that it is due to the individual, me, not to man or to the individual so far as he is man. Besides, another than a man (a beast) can make no use of it. The French government, for example, does not dispute the liberty of the press as a right of man, but demands from the individual a security for his really being man; for it assigns liberty of the press not to the individual, but to man.
 
@@ -2637,7 +2675,7 @@ It is very true, 'He who abides in love abides in God, and God in him'." God abi
 
 But whoever is full of sacred (religious, moral, humane) love loves only the spook, the 'true !Dan', and persecutes with dull mercilessness
 
-## <sup>b</sup>Athanasius. Z54
+## bAthanasius. Z54
 
 the individual, the real man, under the phlegmatic legal title of measures against the 'un-man'. He finds it praiseworthy and indispensable to exercise pitilessness in the harshest measure; for love toward the spook or generality commands him to hate him who is not ghostly, the egoist or individual; such is the meaning of the renowned lovephenomenon that is called 'justice'.
 
@@ -2659,7 +2697,7 @@ Am I perchance to have no lively interest in the person of another, are his j oy
 
 enjoy him. If I sacrifice to him everything that but for my love to him I should keep, that is very simple, and even more usual in life than it seems to be; but it proves nothing further than that this one passion is more powerful in me than all the rest. Christianity too teaches us to sacrifice all other passions to this. But, if to one passion I sacrifice others, I do not on that account go so far as to sacrifice myself, nor sacrifice anything of that whereby I truly am myself; I do not sacrifice my peculiar value, my ownness. Where this bad case occurs, love cuts no better figure than any other passion that I obey blindly. The ambitious man, who is carried away by ambition and remains deaf to every warning that a calm moment generates in him, has let this passion grow up into a despot against whom he abandons all power of dissolution: he has given up himself, because he cannot dissolre himself, and consequently cannot absolve himself from the passion: he is possessed.
 
-I love men too, not merely individuals, but every one . But I love them with the consciousness of egoism; I love them because love makes me happy, I love because loving is natural to me, because it pleases me. I know no 'commandment of love'. I have a ftllow-fteling with every fecling being, and their torment torments, their refreshment refreshes me too; I can kill them, not torture them. In contrast, the high- souled virtuous philistine p rince Rudolph in The Al), steries <sup>o</sup>f Paris, zs; because the wicked provoke his 'indignation', plans their torture. That fellow-feeling proves only that the feeling of those who feel is mine too, my property; in opposition to which the pitiless dealing of the ' righteous' man (as against notary Ferrand) is like the unfe elingness of that robber who cut off or stretched his prisoners' legs to the measure of his bedstead:256 Rudolph's bedstead, which he cuts men to fit, is the concept of the 'good'. The feeling for right, virtue, etc., makes people hard-hearted and intolerant. Rudolph does not feel like the notary, but the reverse; he feels that 'it serves the rascal right'; that is no fellow-feeling.
+I love men too, not merely individuals, but every one . But I love them with the consciousness of egoism; I love them because love makes me happy, I love because loving is natural to me, because it pleases me. I know no 'commandment of love'. I have a ftllow-fteling with every fecling being, and their torment torments, their refreshment refreshes me too; I can kill them, not torture them. In contrast, the high- souled virtuous philistine p rince Rudolph in The Al), steries of Paris, zs; because the wicked provoke his 'indignation', plans their torture. That fellow-feeling proves only that the feeling of those who feel is mine too, my property; in opposition to which the pitiless dealing of the ' righteous' man (as against notary Ferrand) is like the unfe elingness of that robber who cut off or stretched his prisoners' legs to the measure of his bedstead:256 Rudolph's bedstead, which he cuts men to fit, is the concept of the 'good'. The feeling for right, virtue, etc., makes people hard-hearted and intolerant. Rudolph does not feel like the notary, but the reverse; he feels that 'it serves the rascal right'; that is no fellow-feeling.
 
 You love man, therefore you torture the individual man, the egoist; your philanthropy (love of men) is the tormenting of men.
 
@@ -2695,7 +2733,7 @@ A love that is limited by faith is an untrue love. The sole limitation that does
 
 So love is in its essence rational! So thinks Feuerbach; the believer, on the contrary, thinks, love is in its essence believing. The one inveighs against irrational, the other against unbelieving, love. To both it can at most rank as a splendidum vitium.258 Do not both leave love standing, even in the form of unreason and unbelief? They do not dare to say, irrational or unbelieving love is nonsense, is not love; as little as they are willing to say, irrational or unbelieving tears are not tears. But, if even irrational love, etc., must count as love, and if they are nevertheless to be unworthy of man, there follows simply this: love is not the highest thing, but reason or faith; even the unreasonable and the unbelieving can love; but love has value only when it is that of a rational or believing person. It is an illusion when Feuerbach calls the rationality of love its 'self-limitation'; the believer might with the same right call belief its 'self-limitation'. Irrational love is neither 'false' nor 'ruinous'; it does its service as love .
 
-<sup>•</sup> Feuerbach, The Essence o!Christianity, p. 394.
+• Feuerbach, The Essence o!Christianity, p. 394.
 
 Towards the world, especially towards men, I am to assume a particular fteling, and 'meet them with love', with the feeling of love, from the beginning. Certainly, in this there is revealed far more freewill and self-determination than when I let myself be stormed, by way of the world, by all possible feelings, and remain exposed to the most chequered, most accidental impressions. I go to the world rather with a preconceived feeling, as if it were a prejudice and a preconceived opinion; I have prescribed to myself in advance my behaviour towards it, and, despite all its temptations, feel and think about it only as I have once determined to. Against the dominion of the world I secure myself by the principle of love; for, whatever may come, I love. The ugly, for example, makes a repulsive impression on me; but, determined to love, I master this impression as I do every antipathy.
 
@@ -2719,7 +2757,7 @@ Those who educate us make it their concern early to break us of lying and to inc
 
 Now, let one imagine a French revolutionary in the year 1788, who among friends let fall the now well-known phrase, 'the world will have no rest until the last king is hanged with the guts of the last priest'. The king then still had all power, and, when the utterance is betrayed by an accident, yet without its being possible to produce witnesses, confession is demanded from the accused. Is he to confess or not? If he denies, he lies and - remains unpunished; if he confesses, he is candid and - is beheaded. If truth is more than everything else to him, all right, let him die. Only a paltry poet could try to make a tragedy out of the end of his life; for what interest is there in seeing how a man succumbs from cowardice? But, if he had the courage not to be a slave of truth and sincerity, he would ask roughly this: Why need the judges know what I have spoken among friends? If I had wished them to know, I should have said it to them as I said it to my friends. I will not have them know it. They force themselves into my confidence without my having called them to it and made them my confidants; they want to learn what I will keep secret. Come on then, you who wish to break my will by your will, and try your arts. You can torture me by the rack, you can threaten me with hell and eternal damnation, you can make me so worn down that I swear a false oath, but the truth you shall not press out of me, for I will lie to you because I have given you no claim and no right to my sincerity. Let God, 'who is truth', look down ever so threateningly on me, let lying come ever so hard to me, I have nevertheless the courage of a lie; and, even if I were weary of my life, even if nothing appeared to me more welcome than your executioner's sword, you nevertheless should not have the joy of finding in me a slave of truth, whom by your priestly arts you make a traitor to his will. When I spoke those treasonable words, I would not have had you know anything of them; I now retain the same will, and do not let myself be frightened by the curse of the lie.
 
-Sigismund<sup>260</sup> is not a miserable wretch because he broke his princely word, but he broke the word because he was a wretch; he might have kept his word and would still have been a wretch, a priest-ridden man. Luther, driven by a higher power, became unfaithful to his monastic vow: he became so for God's sake.<sup>261</sup> Both broke their oath as possessed persons: Sigismund, because he wanted to appear as a sincere professor of the divine truth, that is, of the true, genuinely Catholic faith; Luther, in order to give testimony for the gospel sincerely and with entire truth, with body and soul; both became perjured in order to be sincere toward the 'higher truth'. Only, the priests absolved the one, the other absolved himself. What else did both observe than what is contained in those apostolic words, 'Thou hast not lied to men, but to God'?262 They lied to men, broke their oath before the world's eyes, in order not to lie to God, but to serve him. Thus they show us a way to deal with truth before men. For God's glory, and for God's sake, a - breach of oath, a lie, a prince's word broken!
+Sigismund260 is not a miserable wretch because he broke his princely word, but he broke the word because he was a wretch; he might have kept his word and would still have been a wretch, a priest-ridden man. Luther, driven by a higher power, became unfaithful to his monastic vow: he became so for God's sake.261 Both broke their oath as possessed persons: Sigismund, because he wanted to appear as a sincere professor of the divine truth, that is, of the true, genuinely Catholic faith; Luther, in order to give testimony for the gospel sincerely and with entire truth, with body and soul; both became perjured in order to be sincere toward the 'higher truth'. Only, the priests absolved the one, the other absolved himself. What else did both observe than what is contained in those apostolic words, 'Thou hast not lied to men, but to God'?262 They lied to men, broke their oath before the world's eyes, in order not to lie to God, but to serve him. Thus they show us a way to deal with truth before men. For God's glory, and for God's sake, a - breach of oath, a lie, a prince's word broken!
 
 How would it be, now, if we changed the thing a little and wrote: a perjury and lie for - my sake? Would not that be to endorse every baseness? It seems so, assuredly, only in this it is altogether like the
 
@@ -2749,13 +2787,13 @@ To this day thinking and trading have been done for - God's sake. Those who for 
 
 Hence I can also say that the ultimate basis of their actions is lm'e. Not a voluntary love however, not their own, but a tributary love, or the higher being's own (God's, who himself is love); in short, not the egoistic, but the religious; a love that springs from their fancy that they must discharge a tribute of love, that they must not be 'egoists'.
 
-If we want to deliver the world from many kinds of unfreedom, we want this not on its account but on ours; for, as we are not worldliberators by profession and out of 'love', we only want to win it away from others. We want to make it our own; it is not to be any longer owned as serf by God (the church) nor by the law (state), but to be our own; therefore we seek to 'win' it, to 'captivate' it, and, by meeting it halfway and 'devoting' ourselves to it as to ourselves as soon as it belongs to us, to complete and make superfluous the force that it turns against us. If the world is ours, it no longer attempts any force against us, but only with us. My selfishness has an interest in the liberation of the world, that it may become – my property.
+If we want to deliver the world from many kinds of unfreedom, we want this not on its account but on ours; for, as we are not worldliberators by profession and out of 'love', we only want to win it away from others. We want to make it our own; it is not to be any longer owned as serf by God (the church) nor by the law (state), but to be our own; therefore we seek to 'win' it, to 'captivate' it, and, by meeting it halfway and 'devoting' ourselves to it as to ourselves as soon as it belongs to us, to complete and make superfluous the force that it turns against us. If the world is ours, it no longer attempts any force against us, but only with us. My selfishness has an interest in the liberation of the world, that it may become - my property.
 
 Not isolation or being alone, but society, is man's original state. Our existence begins with the most intimate conjunction, as we are already living with our mother before we breathe; when we see the light of the world, we at once lie on a human being's breast again, her love cradles us in the lap, guides us in leading reins, and chains us to her person with a thousand ties. Society is our *state of nature*. And this is why, the more we learn to feel ourselves, the connection that was formerly most intimate becomes ever looser and the dissolution of the original society more unmistakable. To have once again for herself the child that once lay under her heart, the mother must fetch it from the street and from the midst of its playmates. The child prefers the *intercourse* that it enters into with *its peers* to the *society* that it has not entered into, but only been born in.
 
-But the dissolution of *society* is *intercourse* [Verkehr] or union [Verein]. A society does assuredly arise by union too, but only as a fixed idea arises by a thought – namely, by the vanishing of the energy of the thought (the thinking itself, this restless taking back all thoughts that make themselves fast) from the thought. If a union has crystallized into a society, it has ceased to be a coalition [Vereinigung]; for coalition is an incessant self-uniting; it has become a unitedness, come to a standstill, degenerated into a fixity; it is – dead as a union, it is the corpse of the union or the coalition, it is – society, community. A striking example of this kind is furnished by the party.
+But the dissolution of *society* is *intercourse* [Verkehr] or union [Verein]. A society does assuredly arise by union too, but only as a fixed idea arises by a thought - namely, by the vanishing of the energy of the thought (the thinking itself, this restless taking back all thoughts that make themselves fast) from the thought. If a union has crystallized into a society, it has ceased to be a coalition [Vereinigung]; for coalition is an incessant self-uniting; it has become a unitedness, come to a standstill, degenerated into a fixity; it is - dead as a union, it is the corpse of the union or the coalition, it is - society, community. A striking example of this kind is furnished by the party.
 
-That a society (such as the society of the state) diminishes my *liberty* offends me little. Why, I have to let my liberty be limited by all sorts of powers and by every one who is stronger; indeed, by every fellow-man; and, were I the autocrat of all the R—,<sup>269</sup> I yet should not enjoy absolute liberty. But *ownness* I will not have taken from me. And ownness is precisely what every society has designs on, precisely what is to succumb to its power.
+That a society (such as the society of the state) diminishes my *liberty* offends me little. Why, I have to let my liberty be limited by all sorts of powers and by every one who is stronger; indeed, by every fellow-man; and, were I the autocrat of all the R--,269 I yet should not enjoy absolute liberty. But *ownness* I will not have taken from me. And ownness is precisely what every society has designs on, precisely what is to succumb to its power.
 
 A society which I join does indeed take from me many liberties, but in return it affords me other liberties; neither does it matter if I myself deprive myself of this and that liberty (such as by any contract).
 
@@ -2785,7 +2823,7 @@ Property is recognized in the union, and only in the union, because one no longe
 
 The state exerts itself to tame the desirous man; in other words, it seeks to direct his desire to it alone, and to content that desire with what it offers. To satiate the desire for the desirous man's sake does not come into the mind: on the contrary, it stigmatizes as an 'egoistic man' the man who breathes out unbridled desire, and the 'egoistic man' is its enemy. He is this to the state because it lacks the capacity to agree with him; the egoist is precisely what it cannot 'comprehend'. Since the state (as nothing else is possible) has to do only for itself, it does not take care for my needs, but takes care only of how it does away with me, makes out of me another ego, a good citizen. It takes measures for the 'improvement of morals'. - And with what does it
 
-<sup>&</sup>quot; Bauer, Die ]udenfrage, p. 60.
+&quot; Bauer, Die ]udenfrage, p. 60.
 
 win individuals for itself? With itself, with what is the state's, with state property. It will be unremittingly active in making all participants in its 'goods', providing all with the 'good things of culture'; it presents them its education, opens to them the access to its institutions of culture, capacitates them to come to property (as, to a fief ) in the way of industry, etc. For all these fiefi it demands only the just rent of continual thanks. But the 'unthankful' forget to pay these thanks. - Now, neither can 'society' do essentially otherwise than the state.
 
@@ -2813,11 +2851,11 @@ Once more then, doubtless, a 'revolution' against the feudal system?
 
 Revolution and insurrection must not be looked upon as synonymous. The former consists in an overturning of conditions, of the established condition or status, the state or society, and is accordingly a political or social act; the latter has indeed for its unavoidable consequence a transformation of circumstances, yet does not start from it but from men's discontent with themselves, is not an armed rising, but a rising of individuals, a getting up, without regard to the arrangements that spring from it. The revolution aimed at new arrangements; insurrection leads us no longer to let ourselves be arranged, but to arrange ourselves, and sets no glittering hopes on 'institutions'. It is not a fight against the established, since, if it prospers, the established collapses of itself; it is only a working forth of me out of the established. If I leave the established, it is dead and passes into decay. Now, as my object is not the overthrow of an established order but my elevation above it, my purpose and deed are not a political or social but (as directed toward myself and my ownness alone) an egoistic purpose and deed.
 
-The revolution commands one to make arrangements, the insurrection [Emporung] demands that he n'se or exalt himself [sich auf oder emporzurichtenl. What constitution was to be chosen, this question busied the revolutionary heads, and the whole political period foams with constitutional fights and constitutional questions, as the social talents too were uncommonly inventive in societary arrangements (phalansteries274 and the like). The insurgent strives to become constitutionless. <sup>a</sup>
+The revolution commands one to make arrangements, the insurrection [Emporung] demands that he n'se or exalt himself [sich auf oder emporzurichtenl. What constitution was to be chosen, this question busied the revolutionary heads, and the whole political period foams with constitutional fights and constitutional questions, as the social talents too were uncommonly inventive in societary arrangements (phalansteries274 and the like). The insurgent strives to become constitutionless. a
 
 While, to get greater clearness, I am thinking up a comparison, the founding of Christianity comes unexpectedly into my mind. On the liberal side it is noted as a bad point in the first Christians that they preached obedience to the established heathen civil order, enjoined recognition of the heathen authorities, and confidently delivered a command, 'Give to the emperor that which is the emperor's'.275 Yet how much disturbance arose at the same time against the Roman supremacy, how mutinous did the Jews and even the Romans show themselves against their own temporal government! In short, how popular was 'political discontent'! Those Christians would hear nothing of it; would not side with the 'liberal tendencies'. The time was politically so agitated that, as is said in the gospels, people thought they could not accuse the founder of Christianity more successfully than if they arraigned him for 'political intrigue', and yet the same gospels report that he was precisely the one who took least part in these political doings. But why was he not a revolutionary, not a demagogue, as the Jews would gladly have seen him? Why was he not a liberal? Because he expected no salvation from a
 
-<sup>a</sup>To secure myself against a criminal charge I superfluously make the express remark that I choose the word 'insurrection' on account of its etymological sense, and therefore am not using it in the limited sense which is disallowed by the penal code.
+aTo secure myself against a criminal charge I superfluously make the express remark that I choose the word 'insurrection' on account of its etymological sense, and therefore am not using it in the limited sense which is disallowed by the penal code.
 
 change of conditions, and this whole business was indifferent to him. He was not a revolutionary, like Caesar,276 but an insurgent: not a state-overturner, but one who straightened himself up. That was why it was for him only a matter of 'Be ye wise as serpents', which expresses the same sense as, in the special case, that 'Give to the emperor that which is the emperor's'; for he was not carrying on any liberal or political fight against the established authorities, but wanted to walk his own way, untroubled about, and undisturbed by, these authorities. Not less indifferent to him than the government were its enemies, for neither understood what he wanted, and he had only to keep them off from him with the wisdom of the serpent. But, even though not a ringleader of popular mutiny, not a demagogue or revolutionary, he (and every one of the ancient Christians) was so much the more an insurgent, who lifted himself above everything that seemed sublime to the government and its opponents, and absolved himself from everything that they remained bound to, and who at the same time cut off the sources of life of the whole heathen world, with which the established state must wither away as a matter of course; precisely because he put from him the upsetting of the established, he was its deadly enemy and real annihilator; for he walled it in, confidently and recklessly carrying up the building of his temple over it, without heeding the pains of the immured.
 
@@ -2867,7 +2905,7 @@ The conservative tendency of Christianity does not permit thinking of death othe
 
 The moral man wants the good, the right; and, if he takes to the means that lead to this goal, really lead to it, then these means are not his means, but those of the good, right, etc., itself. These means are never immoral, because the good end itself mediates itself
 
-<sup>•</sup> I Corinthians 1 5 :26. , 2 Timothy 1:10 .
+• I Corinthians 1 5 :26. , 2 Timothy 1:10 .
 
 through them: the end sanctifies the means. They call this maxim jesuitical, but it is 'moral' through and through. The moral man acts in the service of an end or an idea: he make himself the tool of the idea of the good, as the pious man counts it his glory to be a tool or instrument of God. To await death is what the moral commandment postulates as the good; to give it to oneself is immoral and bad: suicide finds no excuse before the judgement-seat of morality. If the religious man forbids it because 'you have not given yourself life, but God, who alone can also take it from you again' (as if, even taking in this conception, God did not take it from me just as much when I kill myself as when a tile from the roof, or a hostile bullet, fells me; for he would have aroused the resolution of death in me too!), the moral man forbids it because l owe my life to the fatherland, etc., 'because I do not know whether I may not yet accomplish good by my life'. Of course, for in me good loses a tool, as God does an instrument. If I am immoral, the good is served in my reformation; if I am 'ungodly', God has joy in my penitence. Suicide, therefore, is ungodly as well as nefarious. If one whose standpoint is religiousness takes his own life, he acts in forgetfulness of God; but, if the suicide's standpoint is morality, he acts in forgetfulness of duty, immorally. People worried themselves much with the question whether Emilia Gaiotti's death can be justified before morality (they take it as if it were suicide, which it is too in substance). That she is so infatuated with chastity, this moral good, as to yield up even her life for it is certainly moral; but, again, that she fears the weakness of her flesh is immoral. Such contradictions form the tragic conflict universally in the moral drama; and one must think and feel morally to be able to take an interest in it.
 
@@ -2913,7 +2951,7 @@ And, as one stormily pursues his own self, the never-attained, so one also despi
 
 Yes, 'if men were what they should be, could be, if all men were rational, all loved each other as brothers') then it would be a para-
 
-<sup>&</sup>quot; (Anonymous), Der Kommllnismlts ill der Schweiz. Eine Belellchtllng des Kommissionalberichtes des //eml Dr. Bluntschli iiber die Kommllnisten in der Schweiz nac/' den bei Weitling ,·orgejimdenen Papieren (Berne, 1 843), p. 24.
+&quot; (Anonymous), Der Kommllnismlts ill der Schweiz. Eine Belellchtllng des Kommissionalberichtes des //eml Dr. Bluntschli iiber die Kommllnisten in der Schweiz nac/' den bei Weitling ,·orgejimdenen Papieren (Berne, 1 843), p. 24.
 
 disiacal life." - All right, men are as they should be, can be. What should they be? Surely not more than they can be! And what can they be? Not more, again, than they - can, than they have the competence, the force, to be. But this they really are, because what they are not, they are incapable of being; for to be capable means - really to be. One is not capable for anything that one really is not; one is not capable of anything that one does not really do. Could a man blinded by cataract see? Oh, yes, if he had his cataract successfully removed. But now he cannot see because he does not see. Possibility [Moglichkeit] and reality [Wirklichkeit] always coincide. One can do nothing that one does not, as one does nothing that one cannot.
 
@@ -2965,7 +3003,7 @@ People very soon discerned that it was not indifferent what one set his affectio
 
 But finally, and in general, one must know how to 'put everything out of his mind', if only so as to be able to - go to sleep. Nothing may occupy us with which we do not occupy ourselves: the victim of ambition cannot run away from his ambitious plans, nor the Godfearing man from the thought of God; infatuation and possessedness coincide.
 
-To want to realize his essence or live comfortably to his concept (which with believers in God signifies as much as to be 'pious', and with believers in humanity means living 'humanly') is what only the sensual and sinful man can propose to himself, the man so long as he has the anxious choice between happiness of sense and peace of soul, so long as he is a 'poor sinner'. <sup>283</sup>The Christian is nothing but a sensual man who, knowing of the sacred and being conscious that he violates it, sees in himself a poor sinner: sensualness, recognized as 'sinfulness', is C hristian consciousness, is the Christian himself. And if 'sin' and 'sinfulness' are now no longer taken into the mouths of moderns, but, instead of that, 'egoism', 'self-seeking', 'selfishness', and the like, engage them; if the devil has been translated into the 'un-man' or 'egoistic man' - is the Christian less present then than before? Is not the old discord between good and evil - is not a judge over us, man - is not a calling, the calling to make oneself man left? If they no longer name it calling, but 'task' or, very likely, 'duty', the change of name is quite correct, because 'man' is not, like God, a personal being that can 'call'; but outside the name the thing remains as of old.
+To want to realize his essence or live comfortably to his concept (which with believers in God signifies as much as to be 'pious', and with believers in humanity means living 'humanly') is what only the sensual and sinful man can propose to himself, the man so long as he has the anxious choice between happiness of sense and peace of soul, so long as he is a 'poor sinner'. 283The Christian is nothing but a sensual man who, knowing of the sacred and being conscious that he violates it, sees in himself a poor sinner: sensualness, recognized as 'sinfulness', is C hristian consciousness, is the Christian himself. And if 'sin' and 'sinfulness' are now no longer taken into the mouths of moderns, but, instead of that, 'egoism', 'self-seeking', 'selfishness', and the like, engage them; if the devil has been translated into the 'un-man' or 'egoistic man' - is the Christian less present then than before? Is not the old discord between good and evil - is not a judge over us, man - is not a calling, the calling to make oneself man left? If they no longer name it calling, but 'task' or, very likely, 'duty', the change of name is quite correct, because 'man' is not, like God, a personal being that can 'call'; but outside the name the thing remains as of old.
 
 Every one has a relation to objects, and more, every one is differently related to them. Let us choose as an example that book to which millions of men had a relation for two thousand years, the Bible . What is it, what was it, to each? Absolutely, only what he made out oj it! For him who makes to himself nothing at all out of it, it is nothing at all; for him who uses it as an amulet, it has solely the value, the significance, of a means of sorcery; for him who, like children, plays with it, it is nothing but a plaything, etc.
 
@@ -2985,7 +3023,7 @@ The conception of objects is altogether diverse, even as God, Christ, the world,
 
 By the 'realm of thoughts' Christianity has completed itself; the thought is that inwardness in which all the world's lights go out, all existence becomes existenceless, the inward man (the heart, the head) is all in all. This realm of thoughts awaits its deliverance, awaits, like the Sphinx, Oedipus'2R7 keyword to the riddle, that it may enter in at last to its death. I am the annihilator of its continuance, for in the creator's realm it no longer forms a realm of its own, not a state in the state, but a creature of my creative - thoughtlessness. Only together and at the same time with the benumbed thinking world can the world of Christians, Christianity, and religion itself, come to its downfall; only when thoughts run out are there no more believers. To the thinker his thinking is a 'sublime labour, a sacred activity', and it rests on a firm faith, the faith in truth. At first praying is a sacred activity, then this sacred 'devotion' passes over into a rational and reasoning 'thinking', which, however, likewise retains in the 'sacred truth' its unshakeable [unverriickbare] basis of faith, and is only a marvellous machine that the spirit of truth winds up for its service. Free thinking and free science busy me - for it is not I that am free, not I that busy myself, but thinking is free and busies me with heaven and the heavenly or 'divine'; that is, properly, with the world and the worldly, not this world but 'another' world; it is only the reversing and deranging of the world, a busying with the essence
 
-<sup>&</sup>quot; Romans 1 : 25.
+&quot; Romans 1 : 25.
 
 of the world, therefore a madness [Verriicktheit]. The thinker is blind to the immediateness of things, and incapable of mastering them: he does not eat, does not drink, does not enjoy; for the eater and drinker is never the thinker, indeed, the latter forgets eating and drinking, his getting on in life, the cares of nourishment, etc., over his thinking; he forgets it as the praying man too forgets it. This is why he appears to the forceful son of nature as a scatterbrain, a fool - even if he does look upon him as holy, just as lunatics appeared so to the ancients . Free thinking is lunacy, because it is pure movement of the inwardness, of the merely inward man, which guides and regulates the rest of the man. The shaman and the speculative philosopher mark the bottom and top rounds on the ladder of the inward man, the - Mongol. Shaman and philosopher fight with ghosts, demons, spirits, gods.
 
@@ -3003,7 +3041,7 @@ Nothing at all is justified by being. What is thought of is as well as what is n
 
 The professionals, the privileged, brook no freedom of thought, no thoughts that do not come from the 'giver of all good', be he called God, Pope, church, or whatever else. If anybody has such illegitimate thoughts, he must whisper them into his confessor's ear,
 
-<sup>•</sup> Ludwig Feuerbach, Principles a/ the Philo sophy a/the Future (Zurich and Winterthur, r 843), pp. 47ff.
+• Ludwig Feuerbach, Principles a/ the Philo sophy a/the Future (Zurich and Winterthur, r 843), pp. 47ff.
 
 b Ibid. p. 69.
 
@@ -3023,7 +3061,7 @@ If the hierarchy had not so penetrated men to the innermost as to take from them
 
 According to the professionals' opinion, the thought is given to me; according to the freethinkers', I seek the thought. There the truth is already found and extant, only I must - receive it from its giver by grace; here the truth is to be sought and is my goal, lying in the future, toward which I have to run.
 
-In both cases the truth (the true thought) lies outside me, and I aspire to get it, be it by presentation (grace), be it by earning (merit of my own). Therefore, ( <sup>I</sup> ) The truth is a pril'ilege; (2) No, the way to it is patent to all, and neither the Bible nor the holy fathers nor the church nor any one else is in possession of the truth; but one can come into possession of it by - speculating.
+In both cases the truth (the true thought) lies outside me, and I aspire to get it, be it by presentation (grace), be it by earning (merit of my own). Therefore, ( I ) The truth is a pril'ilege; (2) No, the way to it is patent to all, and neither the Bible nor the holy fathers nor the church nor any one else is in possession of the truth; but one can come into possession of it by - speculating.
 
 Both, one sees, are propertyless in relation to the truth: they have it either as afief(for the 'holy father', is not a unique person; as unique he is this Sixtus, Clement, but he does not have the truth as Sixtus, Clement, but as 'holy father', that is, as a spirit) or as an ideal. As a fief, it is only for a few (the privileged); as an ideal, for all (the patentees).
 
@@ -3041,9 +3079,9 @@ Hear Minister Guizot:288 'The great difficulty of today is the guiding and domin
 
 Catholicism haled the examinee before the forum of ecclesiasticism, Protestantism before that of biblical Christianity. It would be but little bettered if one haled him before that of reason, as Ruge wants to.b 'Whether the church, the Bible, or reason (to which, moreover, Luther and Hus289 already appealed) is the sacred authority makes no difference in essentials.
 
-<sup>,</sup> Chamber of Peers, 25 April 1 844.
+, Chamber of Peers, 25 April 1 844.
 
-<sup>b</sup>Arnold Ruge, 'Bruno Bauer und die Lehrfreiheit', in :"-rnold Ruge (ed.), Anekdota zur r1euesten deutschen Philosophie und Publizistik, volume I (Zurich and Winterthur, 1 843), p· 1 20.
+bArnold Ruge, 'Bruno Bauer und die Lehrfreiheit', in :"-rnold Ruge (ed.), Anekdota zur r1euesten deutschen Philosophie und Publizistik, volume I (Zurich and Winterthur, 1 843), p· 1 20.
 
 The 'question of our time' does not become soluble even when one puts it thus: Is anything general authorized, or only the individual? Is the generality (such as state, law, custom, morality, etc.) authorized, or individuality? It becomes soluble for the first time when one no longer asks after an 'authorization' at all, and does not carry on a mere fight against 'privileges'. - A 'rational' freedom of teaching, which 'recognizes only the conscience of reason', a does not bring us to the goal; we require an egoistic freedom of teaching rather, a freedom of teaching for all ownness, wherein I become audible and can announce myself unchecked. That I make myself 'audible [vernehmbar]" this alone is 'reason [Vernunft] " be I ever so irrational; in my making myself heard, and so hearing myself, others as well as I myself enjoy me, and at the same time consume me.
 
@@ -3089,7 +3127,7 @@ Criticism has to this day remained a work of love: for at all times we exercised
 
 The critic, in setting to work, impartially presupposes the 'truth', and looks for the truth in the belief that it is to be found. He wants to ascertain the true, and has in it that very 'good'.
 
-<sup>&</sup>quot; I Thessalonians 5 :21.
+&quot; I Thessalonians 5 :21.
 
 Presuppose means nothing else than put a thought in front, or think something before everything else and think the rest from the starting-point of this that has been thought, measure and criticize it by this. In other words, this is as much as to say that thinking is to begin with something already thought. If thinking began at all, instead of being begun, if thinking were a subject, an acting personality of its own, as even the plant is such, then indeed there would be no abandoning the principle that thinking must begin with itself. But it is just the personification of thinking that brings to pass those innumerable errors. In the Hegelian system they always talk as if thinking or 'the thinking spirit' (that is, personified thinking, thinking as a ghost) thought and acted; in critical liberalism it is always said that 'criticism' does this and that, or else that 'self-consciousness' finds this and that. But, if thinking ranks as the personal actor, thinking itself must be presupposed; if criticism ranks as such, a thought must likewise stand in front. Thinking and criticism could be active only starting from themselves, would have to be themselves the presupposition of their activity, as without being they could not be active . But thinking, as a thing presupposed, is a fixed thought, a dogma; thinking and criticism, therefore, can start only from a dogma, from a thought, a fixed idea, a presupposition.
 
@@ -3121,7 +3159,7 @@ You believe that you have done the utmost when you boldly assert that, because e
 
 Is it meant only that people have been thinking in every time, and so have had thoughts or truths, and that in the subsequent time these were other than they were in the earlier? No, the word is to be that every time had its 'truth of faith'; and in fact none has yet appeared in which a 'higher truth' has not been recognized, a truth that people believed they must subject themsclyes to as 'highness and majesty' . Eyery truth of a time is its fixed idea, and, if people later found another truth, this always happened only because they sought for another; they only reformed the folly and put a modern dress on it. For they did want - who would dare doubt their justification for this? - they wanted to be 'inspired by an idea'. They wanted to be dominated - possessed, by a thought! The most modern ruler of this kind is 'our essence', or 'man'.
 
-For all free criticism a thought was the criterion; for own criticism I am, I the unspeakable, and so not the merely thought-of; for what is merely thought of is always speakable, because word and thought coincide. That is true which is mine, untrue that whose own I am; true, as in the union; untrue, the state and society. 'Free and true' criticism takes care for the consistent dominion of a thought, an idea, a spirit; 'own' criticism, for nothing but my self-enjoyment. But in this the latter is in fact - and we will not spare it this 'ignominy' - like the bestial criticism of instinct. I, like the criticizing beast, am concerned only for myself, not 'for the cause'. [ am the criterion of truth, but I am not an idea, but more than idea, that is, unutterable . il�)' criticism is not a 'free' criticism, not free from me, and not 'senile', not in the service of an idea, but an own criticism.
+For all free criticism a thought was the criterion; for own criticism I am, I the unspeakable, and so not the merely thought-of; for what is merely thought of is always speakable, because word and thought coincide. That is true which is mine, untrue that whose own I am; true, as in the union; untrue, the state and society. 'Free and true' criticism takes care for the consistent dominion of a thought, an idea, a spirit; 'own' criticism, for nothing but my self-enjoyment. But in this the latter is in fact - and we will not spare it this 'ignominy' - like the bestial criticism of instinct. I, like the criticizing beast, am concerned only for myself, not 'for the cause'. [ am the criterion of truth, but I am not an idea, but more than idea, that is, unutterable . il)' criticism is not a 'free' criticism, not free from me, and not 'senile', not in the service of an idea, but an own criticism.
 
 True or human criticism makes out only whether something is suitable to man, to the true man; but by own criticism you ascertain whether it is suitable to you.
 
@@ -3256,7 +3294,7 @@ in ally the doyen of the Hegelian right and editor of Hegel's Lectures on the Ph
 - 23. Diogenes of Sinope (c. 400-c. 325 Be): Greek philosopher. The most notorious of the Cynic sect ('Socrates gone mad'), Diogenes insisted that happiness was attained by satisf Ying only the most minimal of natural needs and these only in the most direct way. His extreme poverty and eccentric behaviour was intended to embody the belief that the natural could not be dishonourable or indecent (see note 230).
 
 - 24. Aristippus: founder of the 'minor Socratic' school of C)Tenaics (and a grandson of Aristippus, the companion of Socrates). The central claim of the Cyrenaics was that immediate sensual pleasure was the only goal of action.
-- 25. The philosophical origins of Stoicism begin ,�ith Heraclitus of Ephesus (fl. c. 500 BC), but the school was formally founded by Zeno of Citium (344-262 BC) around 300 Be (in a 'painted colonnade' or Stoa Poikile in Athens from which they took their name). The Stoics believed that the rational soul of an individual was part of the divine logos which organized the universe. Ethically, they held that , irtue and happiness consisted in ascertaining and conforming to that teleologically structured cosmic order - to live 'in accordance with nature' was the goal of human life and required a state of mind, apatheia, involving imperturbability and freedom from emotion.
+- 25. The philosophical origins of Stoicism begin ,ith Heraclitus of Ephesus (fl. c. 500 BC), but the school was formally founded by Zeno of Citium (344-262 BC) around 300 Be (in a 'painted colonnade' or Stoa Poikile in Athens from which they took their name). The Stoics believed that the rational soul of an individual was part of the divine logos which organized the universe. Ethically, they held that , irtue and happiness consisted in ascertaining and conforming to that teleologically structured cosmic order - to live 'in accordance with nature' was the goal of human life and required a state of mind, apatheia, involving imperturbability and freedom from emotion.
 - 26. Epicureanism was a school of ancient Greek philosophy, named after Epicurus (c. 34 1-27 1 Be), which flourished into the first century Be. Epicureans were committed to atomism (on the basis of an appeal to the senses) and hedonism in ethics. They held that the purpose of philosophy was practical, and located the highest human good in secure and lasting pleasure. This pleasure, however, consisted of a state in which natural and necessary desires were satisfied (and not of the potentially frustrating process of satisfying limitless desires).
 - 27. Democritus (c. 460-c. 357 Be): Greek philosopher. A student of the atomist Leucippus (mid fifth century Be), Democritus wrote widely on ethics, poetry, and astronomy, but is best knmm for his theory of the physical world as an assemblage of atoms. Almost none of his work survives. His ethical fragments are hard to interpret as evidence of a systematic theory of conduct, but the standard inference is that people should aim at the happiness which derives from peace of mind, which is, in turn, based on knowledge of the physical world. This ethic of 'cheerfulness' may be the basis of his later sobriquet 'the laughing philosopher' .
 - 28. Horace (Quintus Horatius Flaccus) (65-8 Be): Roman poet. Horace worked in a variety of forms - verse epistles, satires, odes, and epodes - ranging in content from serious criticism to satire. He is perhaps best knmm for his Odes, a collection of 1 04 short Latin poems treating a variety of topics, from patriotic accounts of political events to incidents in his own life. All his known work survives.
@@ -3267,7 +3305,7 @@ in ally the doyen of the Hegelian right and editor of Hegel's Lectures on the Ph
 - 32. Pyrrho of Elis (c. 365-c. 270 Be): founder of Greek Scepticism. Pyrrho held that we could have no undeniable knowledge of things, and should rather suspend judgement, living life on the basis of the appearance of things. In this way an equilibrium in the soul could be created which would release us from passion and anxiety. He lived a solitary, abstemious, and secluded life and left no writings.
 - 33. Martin Luther (1483-1 546): German theologian and the dominant figure of the German Reformation. Luther was ordained in 1 507, and became a professor at Wittenberg in Saxony in 15 I 2. He entered the Augustinian Eremites, and it was his failure to find spiritual peace in a monastic vocation that eventually led to his rejection of the theological foundations of medieval Catholicism. In 1517 he provoked a doctrinal dispute with his ninety-five theses at Wittenberg, and defended himself against the authorities at Augsburg ( 1 518), Leipzig (1 519), and the Diet of Worms ( 1 5 20). A prolific writer, he also completed an important German translation of the Bible. His attack on the sale of indulgences, his denial of the authority of rulings by the ecumenical councils, and his insistence that the papacy was a historical and not a divine institution, led to his excommunication in 1521. His thought is characterized by an affirmation of justification by faith, and the assertion of direct communication between believer and God without priestly mediation. Luther largely resisted the revolutionary tendencies of the Reformation, insisting on the duty to suffer civil injustice, although after 1 5 30 he accepted the lawfulness of certain kinds of resistance to political authority.
 
-- 34. 'Machiavellianism' after Niccolo Machiavelli ( 1 469-152 7), Florentine official and political writer. His best-known works are The Prince (153 1) and Discourses on the First Ten Books 0/ Titus Livy (153 <sup>I</sup> ). 'l\lachiavellianism' has been taken to mean many things perhaps most frequently a commitment to the doctrine of 'reason of state' propagating knowledge of the means of preserving domination over a people - but here seems simply to suggest a particular historic period parallel to Humanismus, the name given to that aspect of Renaissance thought which sought a rediscovery and development of the knowledge of the ancients. In Germany the leading figures of Humanismus, a movement which was at its height in the last decades of the fifteenth century and the first decade of the sixteenth, included Crotus Robeanus ( <sup>I</sup>480-c. 1 5 3 9) and Konrad Celtis ( 1 459-1 5 08).
+- 34. 'Machiavellianism' after Niccolo Machiavelli ( 1 469-152 7), Florentine official and political writer. His best-known works are The Prince (153 1) and Discourses on the First Ten Books 0/ Titus Livy (153 I ). 'l\lachiavellianism' has been taken to mean many things perhaps most frequently a commitment to the doctrine of 'reason of state' propagating knowledge of the means of preserving domination over a people - but here seems simply to suggest a particular historic period parallel to Humanismus, the name given to that aspect of Renaissance thought which sought a rediscovery and development of the knowledge of the ancients. In Germany the leading figures of Humanismus, a movement which was at its height in the last decades of the fifteenth century and the first decade of the sixteenth, included Crotus Robeanus ( I480-c. 1 5 3 9) and Konrad Celtis ( 1 459-1 5 08).
 - 35. Das Miidchen aus der Fremde is a poem by Friedrich Schiller, written in 1 796, and first published in the Musenalmanach for 1 797. It is often interpreted as an allegory in which the beauty, dignity, and ability to bring happiness possessed by the eponymous maiden are taken to symbolize poetry.
 - 36. Stirner's reference is to Jesus' elaboration of the conditions of discipleship in Matthew 1 6:26.
 - 37. Stirner's references to The Essence o/ Christianity are to the second edition published in Leipzig in 1 843 . He quotes especially frequently from its closing pages, where Feuerbach insists on the prescriptive import of human nature, and appears to be attempting to reestablish and revalue religious sentiment rather than simply to destroy or dissolve it. In these pages, which Arnold Ruge had urged Feuerbach to reconsider, and which Friedrich Engels and Edgar Bauer parodied in verse in The Triumph a/Faith ( 1 842), Feuerbach describes his entire project in religious terms, as seeking 'to vindicate to common things an uncommon significance, to life, as such, a religious import' and describes all 'moral', that is social, relations as 'per se religious', before concluding the book 'Amen'.
@@ -3313,7 +3351,7 @@ Papal states and changing the criteria for inclusion of books in the Index - and
 
 - 67. St Crispin (d. c. 285): Christian martyr, probably of Roman origin. French hagiographers describe Crispin and his brother Crispinian as being of noble birth, and fleeing to Soissons during the persecution of Diocletian (245-3 1 3), where they set up as shoemakers, taking for their work only such money as their customers could afford. Stirner's reference to theft is probably taken from Hegel in § 1 26 of the Elements oj the Philosophy oj Right, where Crispin is portrayed as stealing leather to make shoes for the poor. I have been unable to locate any mention of theft in any other or older source.
 - 68. Probably a reference to the guerillos, the regionally based irregular partisan forces which supplemented the inadequate regular army in the Spanish conflict with Napoleon in the Peninsula Wars (1 808- 1 4), harassing the French in rough rural terrain.
-- 69. �ero (Nero Claudius Caesar) (AD 3 7-68): Roman Emperor (AD 5 4-68). The nephew of Caligula (AD 1 2-4 1 ), Nero was educated by the philosopher and imperial official Seneca (c. 4 BC-AD 65), and adopted by the Emperor Claudius (10 BC-AD 54) whom he succeeded in AD 54. He scandalized public opinion by having his mother murdered and his wife removed in favour of a mistress, and became notorious for his extravagance, vanity, cruelty, sense of power, and paranoia, as well as his undignified appearances in public performances at Rome. Nero's supposed involvement in the great fire in AD 64, and his frequent execution of aristocrats on political charges, also helped provoke widespread mistrust. During the great rebellion in Palestine, when a number of generals, and then finally even the Praetorians, deserted him, �ero fled Rome and committed suicide.
+- 69. ero (Nero Claudius Caesar) (AD 3 7-68): Roman Emperor (AD 5 4-68). The nephew of Caligula (AD 1 2-4 1 ), Nero was educated by the philosopher and imperial official Seneca (c. 4 BC-AD 65), and adopted by the Emperor Claudius (10 BC-AD 54) whom he succeeded in AD 54. He scandalized public opinion by having his mother murdered and his wife removed in favour of a mistress, and became notorious for his extravagance, vanity, cruelty, sense of power, and paranoia, as well as his undignified appearances in public performances at Rome. Nero's supposed involvement in the great fire in AD 64, and his frequent execution of aristocrats on political charges, also helped provoke widespread mistrust. During the great rebellion in Palestine, when a number of generals, and then finally even the Praetorians, deserted him, ero fled Rome and committed suicide.
 
 - 70. Karl Heinrich (from 1 808, Ritter von) Lang (1764-1 835): German historian, archivist, and writer. Between 1 793 and 1 801, he was employed as a secretary and archivist to the progressive Prussian statesman Hardenberg (175 0-1 822). Lang was involved in resolving several boundary disputes with Bavaria, and in 1 806 entered the Bavarian civil service. He was ennobled in 1 808, and from 1810 to 18 I 7 worked as an archivist in Munich. He is best known for his satirical memoirs which were published as Memorien des Karl Heinrich Ritters von Lang, Skizzen aus meinem Leben und Wirken, meinen Reisen und meiner Zeit, 2 volumes (Brunswick, 1 84 1-2).
 - 71. A reference to the parable of 'the sinner and publican (or tax gatherer)' in Luke 1 8:10. The Pharisees were a large Jewish religious sect, depicted in the New Testament as the primary opponents of Christ. They attacked Jesus for forgiving sins and breaking the Sabbath, and were attacked in tum for their purely formal observance of the law.
@@ -3395,9 +3433,9 @@ Papal states and changing the criteria for inclusion of books in the Index - and
 - 1 27. Jean-Sylvain Bailly ( 1 736-93): French scientist and politician. Bailly had an observatory in the Louvre, and wrote a three-volume Histoire de l'astronomie ( 1 78 1-7) as well as a more specialized work on the satellites of Jupiter. As president of the National Assembly and mayor of Paris, he was criticized for declaring martial law and accused of having encouraged the flight of the king in 1 79 1. He was successively forced to resign, to testify in the trial of Marie-Antoinette, and then to trial and the guillotine himself. Stirner's quotations in this and the following paragraph are taken from Edgar Bauer, Bailly und die ersten Tage der Franzosischen Revolution (Charlottenburg, 1 843).
 - 1 28. The Bishop of Autun and Barriere was Charles-Maurice, comte de Talleyrand-Perigord (1754-1 838): French bishop and politician. Initially a cautious supporter of the Revolution, Talleyrand took the oath to the Civil Constitution and consecrated persons prepared to fill the vacated bishoprics. He then resigned his see, and left, amid political difficulties, for America via London. Regaining political favour he returned to France as foreign minister in 1 796, and then worked as Napoleon's agent in making treaties. Out of favour between 1 809 and 1814, he was subsequently involved in the negotiations surrounding Napoleon's deposition, and represented France at the Congress of Vienna (1814-1 5). He retired from active political life in 1815, but, after lending support to Louis Philippe ( 1 773-1 85°) in his bid for the throne, was made ambassador to England between 1 830 and 1 834. On his death-bed he signed a repudiation of his errors and misdeeds against the church, before insisting on receiving the last rites as a bishop. It seems probable that Stirner's reference to 8 July is a mistake. Presumably the declaration in question is Talleyrand's motion, actually tabled on 4 July and carried on 9 July, defining the powers of the newly established National Assembly. He proposed that deputies should decide issues on the basis of their own judgement rather than being limited by the Cahiers de doleances, the lists of grievances and instructions presented to deputies of the Estates General.
 
-- I 29. Honore Gabriel Riquetti, comte de .\ lirabeau (1749-9I): French revolutionary leader. Mirabeau was elected to the Estates General in 1 789, and quickly established a reputation for brilliant oratory. Ambitious and apparently unprincipled, he fell ill and died whilst involved in a conspiracy which would have involved the flight of the king and the abolition of the �ational Assembly. At his death he was still popular and received a public funeral, but opinion increasingly turned against him, he was revealed to have been receiving payment from court sources, and his remains were removed from the Pantheon.
+- I 29. Honore Gabriel Riquetti, comte de .\ lirabeau (1749-9I): French revolutionary leader. Mirabeau was elected to the Estates General in 1 789, and quickly established a reputation for brilliant oratory. Ambitious and apparently unprincipled, he fell ill and died whilst involved in a conspiracy which would have involved the flight of the king and the abolition of the ational Assembly. At his death he was still popular and received a public funeral, but opinion increasingly turned against him, he was revealed to have been receiving payment from court sources, and his remains were removed from the Pantheon.
 - I 3 0. Gewalt is also used to connote ' force' or even 'violence', especially outside the law.
-- 13 I. The evening of 4 August I 789 was the occasion of the most radical legislative session of the revolution. Following much political manoeuvring by the Club Breton (later the Socihe des Jacobins), all feudal privileges (and therefore the whole structure of provincial, local, and municipal government) were abolished by the �ational Assembly.
+- 13 I. The evening of 4 August I 789 was the occasion of the most radical legislative session of the revolution. Following much political manoeuvring by the Club Breton (later the Socihe des Jacobins), all feudal privileges (and therefore the whole structure of provincial, local, and municipal government) were abolished by the ational Assembly.
 - 132. Einundzwanzig Bogen aus der Schweiz was a volume of essays edited by the political poet Georg Herwegh (1817-75) and published in Zurich in 1 844. Books containing more than twenty 'printed sheets' (that is 'signatures' of, in this case, sixteen pages) were exempt from preliminary censorship in several German states.
 - 133. Louis Blanc ( 1 811-82): French socialist, writer and historian. He was the author of L 'Organisation du tramil ( 1 839), L 'Histoire de dix ans ( 1 841) - a critical survey of the July Monarchy - and a twelve-volume Histoire de fa Re-vofution franfaise ( 1 847-62). Blanc sought to establish a democratic state which would finance the establishment of social workshops (ateliers) which the workers would own, and between and within which competition would be avoided. In 1 848 he was appointed minister without portfolio by the Provisional Government and was instrumental in establishing the illfated National Workshops. After the revolution he fled to England, only returning to France and political life under the Third Republic.
 - 1 3 4. That is 'Protestantism became the basis of ideas and customs .'
@@ -3457,8 +3495,8 @@ Papal states and changing the criteria for inclusion of books in the Index - and
 - 1 78. Wilhelm Christian Weitling ( 1 808-7 1): German utopian socialist. Starting work as a tailor, Weitling lived in Paris, Geneva, London, Brussels, and eventually America. His first important work was Die Menschheit, wie sie ist und wie sie sein soil ( 1 839), but his best-known publication was probably Garantien der Harmonie und Freiheit
 
 - ( 1 842). He returned briefly to Germany in 1 848, but went back to America, edited Republik der Arbeiter and failed to establish a utopian community. In later life Weitling became an increasingly idiosyncratic Democrat with Bonapartist and squadist tendencies, and devoted most of his energies to the invention of an embroidering machine and a universal language. He had been imprisoned in Zurich in 1 843 for subversion and blasphemy (see note 1 8o).
-- 1 79. Babouvist after Fran�ois Noel (Gracchus) Babeuf (see note 1 85).
-- 1 8o. Stimer's reference is to the report on the 'Weitling Affair' prepared by Johann Caspar Bluntschli (see note 292) at the request of the canton of Zurich. \\�eitling and his supporters in Zurich were arrested in June 1 843 and tried for activity jeopardizing public order and for blasphemy (in The Poor Sinner 's Gospel Weitling had depicted Jesus as a precursor of communism). They were tried and found guilty in September and finally sentenced in Noyember. Weitling's plea 'may the Holy Spirit enlighten you and grant me a mild sentence' does not seem to have been entirely ignored, and he received ten months' imprisonment (which he spent stud)�ng the Bible, teaching himself English, and receiving ,�sitors who included Bluntschli) plus five years' exile from Zurich. He subsequently wrote a 'diary' of his incarceration, which mainly recorded his growing paranoia. Ironically, the main impact of the report on the affair was to spread information about socialist beliefs - Moses Hess even penned a mocking address thanking Bluntschli for his help in making converts.
+- 1 79. Babouvist after Franois Noel (Gracchus) Babeuf (see note 1 85).
+- 1 8o. Stimer's reference is to the report on the 'Weitling Affair' prepared by Johann Caspar Bluntschli (see note 292) at the request of the canton of Zurich. \\eitling and his supporters in Zurich were arrested in June 1 843 and tried for activity jeopardizing public order and for blasphemy (in The Poor Sinner 's Gospel Weitling had depicted Jesus as a precursor of communism). They were tried and found guilty in September and finally sentenced in Noyember. Weitling's plea 'may the Holy Spirit enlighten you and grant me a mild sentence' does not seem to have been entirely ignored, and he received ten months' imprisonment (which he spent stud)ng the Bible, teaching himself English, and receiving ,sitors who included Bluntschli) plus five years' exile from Zurich. He subsequently wrote a 'diary' of his incarceration, which mainly recorded his growing paranoia. Ironically, the main impact of the report on the affair was to spread information about socialist beliefs - Moses Hess even penned a mocking address thanking Bluntschli for his help in making converts.
 - 181. Stirner's quotation is from Xenien, 'Rechtsfrage', line 91. The Xenien are a series of satirical epigrams published jointly by Goethe and Schiller, and, despite Stirner's confident attribution, the authorship of individual epigrams cannot be established with any certainty.
 - 1 82. Rechtsstreit more usually means 'lawsuit'.
 - 1 83. Adelbert [Adalbert] von Chamisso (178 1-1 838): German poet and writer (as well as traveller, skilled botanist, and author of the first Hawaiian grammar). He is best known as the author of Peter Schlemihls r Pundersame Geschichte (see note 20). Apart from Peter Schlemihl, the only works by Chamisso that are still generally read are the romantic poem Das SchlojJ Boncourt ( 1 827) and the cycle Frauen-Liebe und -Leben ( 1 830). The poem Das Mordthal was written in 1 83°·
@@ -3561,20 +3599,20 @@ Papal states and changing the criteria for inclusion of books in the Index - and
 - 26 1. Presumably an allusion to Luther's marriage to a fugitive Cistercian nun, Katharina von Bora (1 499-1552), which, as well as initiating an apparently happy relationship which lasted until Luther's death, was intended as a symbolic denial of the principle of clerical celibacy.
 - 262. 'Thou hast not lied to men but to God' are the words of Peter to Ananias. See Acts 5:4 (and note 99).
 - 263 . Francis I (1 494-1 5 47): king of France (IS I 5-47), and unsuccessful candidate for election as Holy Roman Emperor. Francis had declared war on Spain in 1521 as part of the Hapsburg-Valois Wars (1 494-1559), and in 152 5 was defeated at Pavia in Italy and taken prisoner by Karl V (1500-5 8), the successful candidate for Holy Roman Emperor ( 1 5 20-5 6) and King of Spain (1 5 1 8-5 6). In Spain, Francis signed the Treaty of '\ladrid (1526) swearing to give up suzerainty over Flanders and Artois, to give up various French claims in Italy, to cede Burgundy to Karl, and to restore the duc de Bourbon to his lands and titles. Once released, however, Francis broke the terms of the treaty, claiming that it had been signed under duress, and formed and led a coalition against Karl.
-- 264. Presumably a reference to the doctrine of 'mental reservation' in Catholic moral theology, which was designed to deal �ith cases of conflict between the obligation to tell the truth and certain obligations to keep a confidence. In restrictio late mentalis ambiguous rather than false answers are given; in restrictio pure mentalis a qualification is added mentally which alters the meaning of the reply. In both cases, properly applied, no sin is committed.
+- 264. Presumably a reference to the doctrine of 'mental reservation' in Catholic moral theology, which was designed to deal ith cases of conflict between the obligation to tell the truth and certain obligations to keep a confidence. In restrictio late mentalis ambiguous rather than false answers are given; in restrictio pure mentalis a qualification is added mentally which alters the meaning of the reply. In both cases, properly applied, no sin is committed.
 - 265. Paul I (1754-1 80 1): czar of Russia (1 796-1 80 1). The unbalanced son and successor of Catherine II (17 29-96). His reign was marked
 
 - by an uncertain foreign policy, including a Russian withdrawal from the S econd Coalition against Napoleon, and, notwithstanding a decree limiting the duration of serf labour in 1791, a reputation for capricious tyranny at home. In 1 801 a coup took place of highly placed civil and military officials - sanctioned by his son and heir the Grand Prince Alexander - during which the czar was strangled.
 - 266. Tadeusz Andrzej Bonawentura Kosciuszko ( 1 746-1 817): Polish nationalist leader. Trained as a soldier in Prussia and France, Kosciuszko had a distinguished military record as a volunteer for the American army in 1 776 (he was awarded honorary citizenship by Congress). In 1 784 he returned to Poland. Following the Second Partition of Poland ( 1 793) he led an insurrection against the Russians in March 1 794. The insurgents were supplemented by conscripts, and despite being mainly equipped with pikes and war scythes, met with some initial success. The insurrection was finally defeated at Maciejowice, and Kosciuszko was wounded, captured, and deported to St Petersburg. After his release he spent most of his later years in exile.
 - 267. Ignatius Potocki ( 1 750-1 809): Polish nationalist leader, and member of one of the most important landed families in Poland. Potocki sat on the Polish Commission of National Education, and was one of the main authors of the short-lived constitution of 3 May (1791). As a leader of the 1 794 Insurrection, he was deported to St Petersburg with Kosciuszko. On his release Potocki returned to Poland. He died whilst on a diplomatic mission to Napoleon.
-- 268. Julian Ursyn Niemcewicz (1 757-1841): Polish nationalist, writer, and political leader. �iemcewicz's best-known work is probably The Deputy's Return a popular political comedy which was first published in 1 790. In 1 788 he had been elected as a deputy to the Polish Sejm. He was the adjutant of Kosciuszko in the Polish revolt of 1 794, and was also deported to St Petersburg following the defeat of the insurrection (he spent his incarceration translating various English writers, including Milton and Pope, into Polish). After his release Niemcewicz lived in exile, working to raise support for Polish independence. He died in Paris.
+- 268. Julian Ursyn Niemcewicz (1 757-1841): Polish nationalist, writer, and political leader. iemcewicz's best-known work is probably The Deputy's Return a popular political comedy which was first published in 1 790. In 1 788 he had been elected as a deputy to the Polish Sejm. He was the adjutant of Kosciuszko in the Polish revolt of 1 794, and was also deported to St Petersburg following the defeat of the insurrection (he spent his incarceration translating various English writers, including Milton and Pope, into Polish). After his release Niemcewicz lived in exile, working to raise support for Polish independence. He died in Paris.
 - 269. That is, czar 'of all the Russias', written in this form as a precaution against censorship (see note 1 65).
 - 270. The lar (or lares) and the penates were both Roman household gods. The lares were usually taken to be the spirits of ancestors or heroes, and the lar familiaris was the spirit of the founder of the house which never left it. The penates were the guardian numina of the family larder, they constituted the chief private cult of the early
 
 - Roman household, and were worshipped in rites which focused on the family meal.
 - 27 1. A Pfennig was originally a silver coin introduced in Carolingian times. It was degraded to a small denomination copper coin in the sixteenth century. The standardization of 1 00 Pfennigs to the . Hark dates from 1 87 I.
 - 272. Das entdeckte Christentum was the title of a book by Bruno Bauer, subtitled Eine Erinnerung an das 18 Jahrhundert und ein Beitrag zur Krisis des 19, published in Zurich in 1 843 . A fierce atheist polemic, Bauer offered a handy summary of its contents in a letter to his publisher: 'I demonstrate that religion is a hell composed of hatred for humanity and that God is the bailiff of this hell!' It included the text of an earlier anti-Christian polemic by Johann Edelmann ( 1 698-1767). The book was banned prior to distribution, and remained uncirculated until 1 927 when it was republished.
-- <sup>273</sup> . Delphi, reputedly the centre of the earth (a stone, the omphalos, marking the exact spot), was the site of the most important of the shrines to Apollo. 'YVW8l OEautOV [Know Thyself]' was one of the exhortations carved on the temple, attributed by Plato, Protagoras 3 43b, to the Seven Wise �len.
+- 273 . Delphi, reputedly the centre of the earth (a stone, the omphalos, marking the exact spot), was the site of the most important of the shrines to Apollo. 'YVW8l OEautOV [Know Thyself]' was one of the exhortations carved on the temple, attributed by Plato, Protagoras 3 43b, to the Seven Wise len.
 - 274. Stirner is presumably referring to the model community of the French utopian socialist Fran,>ois Charles Marie Fourier (177 2- 1 837). Fourier's publications included Theorie des quatres mouvements et des destinies generales (Paris, 1 808). In fact, in his own terminology, the Phalanstery was only the main building of the ideal community (which was itself called a Phalanx and consisted of between 1 600 and 1 800 members). Fourier, as always, goes into bizarrely close detail concerning the size and structure of the Phalanstery, but was especially enthusiastic about the covered, heated, and ventilated walkways that connected it to the other buildings of the Phalanx.
 - 275. See Matthew 22:2 1.
 - 276. Julius Caesar (c. I OO-44 BC): Roman patrician, general, and statesman. Caesar's military reputation was established when he conquered Gaul, establishing the Rhine as the boundary of the Roman empire. His rivalry with Pompey ( 1 06-48 BC), which led to ch'il war, ended with the latter's defeat at Pharsalus in 48 BC. He became absolute ruler in Rome from 49 BC to 44 BC, during which time the republican constitution was effectively suspended. A conspiracy led by Brutus (85-42 BC) culminated in Caesar's assassination at a meeting of the Senate on the Ides (fifteenth day) of March.
@@ -3592,13 +3630,7 @@ Papal states and changing the criteria for inclusion of books in the Index - and
 
 - crane 'fishing for men's souls' in the 'A Walpurgis Night Dream' in Goethe, Faust, Part One, lines 43 23-6.
 - 287. Oedipus : son of Laius, king of Thebes and Iocasta (or Epicaste). Following a prophecy of Apollo's oracle at Delphi, the infant Oedipus was exposed. However, he was rescued and in later life the prophecy was fulfilled when Oedipus killed his father and married his mother (without knowing their true identity). His mother's hand in marriage was his reward for ridding Thebes of the Sphinx - a mythological monster, usually represented as female with a human head and the body of a lion - which was terrorizing the city, killing all those who could not solve the riddle that she asked. Oedipus, however, guessed the right answer, and the Sphinx destroyed herself. When he eventually discovered his mother's identity, he blinded himself and left Thebes. After years of wandering he arrived at Colonus in Attica and found refuge in a sacred grove, under the protection of Theseus, the ruler of Athens.
-- 288. Fran<;:ois Guizot ( 1 787-1 874): French politician and historian. A professor of history at the Sorbonne (181 2-3 0), Guizot was, along with Royer-Collard ( 1 763-1 845), a leader of the Doctrinaires (a group of sociologically minded liberals who favoured constitutional monarchy). He was made minister for education, foreign affairs, and then prime minister under the July :\lonarchy ( 1 830-48), and became a symbol of the regime's opposition to popular pressure for change. Following the February Revolution in 1 848 Guizot was dismissed and sought refuge in England. In 1 849 he returned to France, but failed in an attempt to gain election to the Legislative Assembly. He retired from politics and concentrated on his historical writings and memoirs . The earlier Guizot Law on Public Education ( 1 833) had put communes and departments under an obligation to provide certain forms of education, instituted teacher certification and school inspection, and established the primacy of the state over the church and local government in education.
-- 289. Johannes Gan) Huss (Hus) (1369-1 4 1 5): Czech priest, nationalist, and tutor at the University of Prague. Strongly influenced by the English theologian and reformer John \\"ycliffe (c. 1 330-84), Huss insisted on the truths of the Christian faith but condemned the existing structure of the church. He was excommunicated in 141 I, and following his betrayal by Kaiser Sigismund (see note 260), was arrested, arraigned, condemned, and executed by burning at the Council of Constance on 6 July 14 I 5 - a fate he apparendy suffered with great fortitude. The Hussite wars ( 1 420-33) which followed his death combined religious struggle against the Catholic church,
-
-- Czech nationalist opposition to the Holy Roman Empire, and social protest against landed interests.
-- 290. See, for example, Jesus' words to the disciples in Matthew 1 8 :3: 'unless you change and become like children you will never enter the kingdom of heaven'.
-- 29 1. George Sand, pseudonym of Amantine Lucile Aurore Dudevant (nee Dupin) ( 1 804-76): French romantic novelist, playwright, and political essayist. Claiming to write twenty pages every evening, George Sand produced over 60 novels, 25 plays, numerous essays, pamphlets, and volumes of letters (the 1 05 volumes of the Michel Levy collected edition of her work include an autobiography in which she isn't born until the end of the second volume). Until 1 848 many of these works lent somewhat ambiguous support to feminist, socialist, and republican causes (after 1 848 she returned to more romantic, sentimental and individualistic themes in her writings).
-- 292. Johann Caspar Bluntschli ( 1 808-8 1): a Swiss law professor and right liberal. Bluntschli studied law at Zurich, Berlin, and Bonn, before becoming a professor at the University of Zurich and a member of the Great Council of Zurich. In 1 843 he compiled a police report on the followers of Weitiing in Zurich (see note 1 80). In 1 848 Bluntschli was appointed professor at Munich, and in 1 86 <sup>I</sup> at Heidelberg. He opposed universal direct suffrage as 'a dangerously radical illusion' and exhibited a deference to the state which was characteristic of much of nineteenth-century German liberal thought. He wrote a number of important political works, including Charakter und Geist der politischen Parteien (Nordlingen, 1 869), and edited an influential eleven-volume Staatswiirterbuch (Stuttgart and Leipzig, 1 85 7-70), but is perhaps now best known for his contributions to the codification of international law.
+- 288. FranI at Heidelberg. He opposed universal direct suffrage as 'a dangerously radical illusion' and exhibited a deference to the state which was characteristic of much of nineteenth-century German liberal thought. He wrote a number of important political works, including Charakter und Geist der politischen Parteien (Nordlingen, 1 869), and edited an influential eleven-volume Staatswiirterbuch (Stuttgart and Leipzig, 1 85 7-70), but is perhaps now best known for his contributions to the codification of international law.
 - 293 . An allusion to Feuerbach's adaptation of the saying of Protagoras (c. 485-c. 429 Be) that 'man is the measure of all things'. Feuerbach changed the original conventionalist sense of this slogan into an aphoristic affirmation of a form of ethical naturalism. As the third person of his reply to Stirner, published in 1 845 as Uber das 'Wesen des Christentums' in Beziehung au/Stimers 'Der Einzige und sein Eigentum ' (Replik) elaborates: 'Feuerbach does not make morality into a measuring stick for man, but rather man the measure of morality: good is what is fit for man, suitable; bad, objectionable, what contradicts him.'
 - 294. See Psalm 99:5 .
 - 295 . 'They' would include Hegel, who insisted, in his Leetures 011 the Philosophy o/History' (delivered biennially between 1 822 and 1 831,
@@ -3623,333 +3655,7 @@ anarchism, xi, xxxvii-xxxviii, 336
 ancient world, xiv-xv, 1 9-27, 29-30, 
         3 6, 42, 63, 85-7, 1 52, 1 63, 
         1 90-2, 207, 260, 3 20-2 
-atheism, 32, 3 8-<), 40, 1 28, 1 65, 1 66, 
-        299, 361, 372 
-Athens, xv, 1 90, 191, 1 92, 3 28, 33°, 
-        3 3 1 
-Augsburg Confession, 83, 33 1 , 346 
-avariciousness, xxiii, 5 6-7, 70, 266, 
-        295, 298 
-Baden, 1 54, 355, 3 69 
-Bauerian criticism: see humane 
-       liberalism 
-Bavaria, 205, 23 1, 3 67-8 
-Bible, xii, 45, 73, 82, 254, 263, 296-8, 
-        3 03 , 3 04, 3 °9, 316, 3 1 7 , 334 
- see also Old Testament, :-. Jew 
-        Testament 
-bifurcation of self, xvi, xx-xxi, 3 1 -2, 
-## 1 5 7-8, 215-16, 283, 285, 290,
-## 323
-## Brahman, 39
-## Britain, 1 00
-## Buddhist, 39
-## Calvinism, 82, 84, 347
-## Catholicism, xv, 50, 65, 70, 82-4, 94,
-## 152, 1 58, 1 67 , 1 96, 265, 266,
-## 3 04, 33 I
-## Caucasian, xvii-xviii, 62, 64, 65, 1 84
-## censorship, 51, 98, 133, 1 67, 1 78, 213,
-## 338, 3 5°, 3 55, 371
-## Charter, 1 00, 101, 1 89, 192, 304,
-## 350-1
-## childhood, xiv, 1 3- 1 5, 17, 61, 67
-## China, 63 , 1 69, 1 72, 1 97, 200
-## emperor of, 38, 15 I
-## Chineseness: see Mongoloidity
-## Christian epoch, xiv, xv, xvii, 1 9-20,
-## 23-4, 29, 85-8, 1 62, 256, 278,
-## 294-6, 299, 320-3
-## see also moderns
-## Christian concern for the spiritual, 23-
-## 5, 2 7-<), 155-7
-## Christian rejection of appetite, 59-60,
-## 
-## 294-6
-
-3 3-4, 68, 74, 8 1-2, 87, 131,
-
-
-Christian state, 47, 66, 181, 1 89, 200 
-commonalty: see middle class 
-communism, 1 06, 107, 1 08, 1 1 0, 1 1 6, 
-        I I 8, ' 59, ,6" 1 62, 1 68, 1 70, 
-        '7', 210, 213, 2 2 1-2, 228-3°, 
-        234-5, 238, 242, 256, 273-4, 
-        288 
- distinguished from socialism, 228 
- see also social liberalism, socialism 
-competition, 99, 23 1 ---<), 244 
-crime, xxvii-xxviii, 45, 67, 7 1-2, 
-        ' 73-4, 1 76, 178-83 , 212-15, 
-        256 
- punishment, 1 73-4, 213- 1 4, 359 
- theft, 4 9 , 3 3 8 
- and communism, 1 59, 213 
-critical criticism: see humane liberalism 
-egoism, xiv, xviii, xxii-iii, 5-7, 1 6-18, 
-        32, 248, 257, 294 
- involuntary, xxiv-xxv, 3 7-8, 51, ' 49, 
-        316 
- psychological, xxiv-xxv, 1 95-6 
- and immorality, 53 
- and money, 243-4 
- and promises, xxxi, 2 10 
- and society, ' 93 -5, 1 98---<), 271 
- and social relations, xxix, 12 1-2, 
-        1 24-5, ' 46-7, 1 87-8, 1 92, 
-        2 57-8, 271-8, 2 8 ,-2, 296-7 
-egoist, the, 66, ' 49, 1 65 , 183, 2 94-6, 
-        298ff, 314 
- analogy with God, 5-6, [32, [ 46, 
-        3 24 
- analogy with beasts, 288-<j, 293 
- not immoral, 3 1 7 
- and thoughts, 5 9-60, 1 27-8, '33-4, 
-        3°2, 3 °8---<), 315 
- and things, 296-8, 315-[6 
-egoistic self; the, 7, 38, 1 27-8, '35, 
-        282ff, 293-4, 3 ' 4 
-Egypt, xvii, 63, 2 29, 342 
-England, 79, ' 74, 250 
-Enlightenment, '30, 139 
-Epicureanism, 2 5-6, 330 
-existentialism, xii, xxxvii 
-family, xxiv, Ja:V, xxviii, 80-1, ' 5 8, 1 67, 
-        1 95-8, 200, 3 2 1 -2 
-fixedity of ideas, xxiii, 43-4, 58, 59, 69, 
-        I 28, 1 83, 295, 305 
-## imparting versus arousing ideas,
-## 60-2
-## possessed ness, 44, 51, 52, 58, 70,
-## 258, 296, 298, 3 '7
-## France, 82, 99-1 01, 1 24, 1 45, , 6o,
-## 1 73, [ 89, 1 94, 230, 304
-## 'free', the, xii, i\:, xxxiv, 89-135, 3 25,
-## 3 27, 348, 361, 365
-## see also liberalism
-## freedom, 141---<), 151-2 , 271-2
-## as Christian doctrine, ' 42-3
-## inward, ' 43-4
-## self-liberation versus emancipation,
-## 1 5 1 -2
-## freedom of the press, 98, 1 78, 1 90,
-## 248-54
-## Friends of Light, 46, 3 3 5 -6
-## Germany: see nationalism
-## Ghibellines, 259, 369
-## ghosts, xvii, 35-6, 40-2, 157, 1 59, 1 88
-## Greeks : see ancient world
-## Guelphs, 2'7, 259, 369
-## guilds, 94, 99, 232, 244
-## heathenism, 27, 57, 86, 266, 280, 281,
-## 341
-## Hegelianism, xi, xviii-xix, 3 1 0, 3 26,
-## 3 27, 344-5 , 348, 352, 3 56, 361,
-## 3 64
-## see also 'the free'
-## human life, a, xiv, xxi, xxii, 1 3-18
-## see also childhood, youth, and
-## adulthood
-## human nature, xx-xxii, 33-4, 39, 46,
-## 1 1 4-15, I 20, 1 24, 1 46, 156-7,
-## 1 63-4, 1 84, 288---<), 293, 317
-## uniqueness of, 1 20, 131, 1 82, 1 84-6,
-## 239, 242-3, 300, 318, 3 1 9, 3 20,
-## 3 24
-## see also bifurcation of self
-## humane liberalism, xx, 1 1 1-35, 351,
-## 354
-## and critical thinking, I I 8 -' 9 , 1 27,
-## 1 3 1 -2
-## and the Jews, 1 1 4-15, 1 6 1 -2, 1 84-5
-## and the masses, I I 8, 1 25-7, 1 29-30
-## and political liberalism, 1 [ 2, 1 1 5-16
-## and social liberalism, 112-13,
-## " 5-19
-## and social relations, 1 20-2
-## and the state, 1 29
-## 
-| humanism, 27-8, 332<br>Huns, xviii, 63 | money, I03, 233, 236<br>whether to be retained by egoists, |
-|----------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
-| idealism, epoch of, xiv, xv, xviii, 17<br>see also Christian epoch<br>incest, xxxi, 45 | 243-4<br>Mongols, xviii, 63, 3 00<br>Mongoloidity, xviii, 62-6<br>monogamy, 45 |
-| infanticide, xxxi, 99, 28 I | Moors, 1 6o<br>morality, xxiii-xxiv, 54, 56, 75, 81, |
-| Japan, 172<br>emperor of, 43 | 285-6 |
-| Jesuits, 45, 82, 83, 84 | Christian nature of, 45-7, 49, 5 0-I,<br>55 |
-| Society of Jesus, 209 | origins of, 2 I |
-| Jews, xv, 23-5, 27, 31, 45, 52, 65, 86, | and habit, 63-4, 342 |
-| 1 I 4-15, 1 24, 1 26, lSI, 152, | and immorality, 53, 317 |
-| 1 58, 1 6o, 1 62, 1 64, 1 70, 182, | Moslems, 54, 1 24, lSI, 1 82, 287 |
-| 1 84, 185, 1 87, 21 I, 217, 266, | Shiite, 39 |
-| 280, 285, 353 | Sunnite, 39 |
-| Judaism, 54, 88 | murder, xxxi , 49-50, 1 69-70, 213, |
-| Koran, the, 295 | 2 8 1-2 |
-| labourers (proletariat, etc.), 1 03-5, | nationalism, xxviii, 6, 32, 193, 204-6, |
-| 107-13, II 7-1 9, 240ff | 217 |
-| see also competition | Negro, 1 84 |
-| language, xiii-xiv, 1 53-4, 305-7 | Negroidity, xvii-xviii, xix, 6 2-3 |
-| Lausitz, 205, 365 | New Testament |
-| law, 1 74, 176 | Matthew 4:5-7, 191, 362 |
-| respect for, xxvii, 50, 1 74, 2 1 1-13 | 5:3, 284, 373 |
-| liberalism, xx, 49, 76, 88, 89-135, l I S, | 5:17-18, 88, 347-8<br>5:22, 43, 333 |
-| 1 22-3, 1 25, 1 5 5-8, 161, 1 90, | 5:29, 1 80, 3 60 |
-| 278, 287<br>see also humane, political, and social | 5:48, 240 |
-| liberalism | 7:7, 298, 373 |
-| lie of necessity 268-9, 370 | 8:22, 20, 328 |
-| lies, xxiv, 1 50, 263-70 | 9:16, 3 1 7, 376 |
-| love, xxx, 47, 55, 228, 254-63 | 1 0:16, 23, 329 |
-| egoistic, xxx, 257-62 | 10:35, 81 |
-| Lutheranism, 40, 84-5, 331, 3 47 | 11:27, 85 |
-| see also Protestantism | 12:30, ' 77, 359 |
-| | 12:43, 73, 344 |
-| Machiavellianism, %8, 332 | 1 6:26, 31, 332 |
-| madness, xvi, 30, 43-4, 62, 299-300 | 1 8:3, 375 |
-| Madrid, 267 | 1 9:12, 339<br>I9:2 1, 73, 3 44 |
-| marriage, 53, 55, 83, 84, 181, I 83, 200<br>adultery in, 181, 1 83 | 19:24, 318, 376 |
-| Methodists, 45 | 22:2 1, 280, 372 |
-| Middle Ages, xv, 76, 82, 93, 1 03, 1 66, | 23 :12, 75, 3 44 |
-| 1 78, 1 89, 200 | 23:24, 201, 364 |
-| middle classes, 73, 90, 92, 94-5 , 98ff, | Mark 3 :29, 1 65 |
-| 1 07-8, 23 I, 3489 | 9:23, 86 |
-| and citizenship 90, 93-6, 1 07 | 1 0:29, 20 |
-| modems, the, 27-135 | Luke 1 0:7, 1 08, 351 |
-| see also Christian epoch, liberalism | II : 1 3, 16 |
-
-| New Testament-(cont.) | philanthropism, 72, 87, 141, ' 79, 2 I 5, |
-|---------------------------------------------------------|---------------------------------------------|
-| '7:6, 86 | 293, 3 I 7-18 |
-| 18:10, 52, 339 | philistines, 43, 99, 1 00, I I 3 |
-| John I: 1 4, 36, 333 | philosophy, ancient, see Sophism, |
-| 2 :4, 81 | Stoicism, etc. |
-| 3:10, 1 56 | philosophY, modern, xvii, 78-<) |
-| 6, 283 | English, xvii, 79, 345-6 |
-| 1 8:38, 15, 327 | German, xvii, 79 |
-| 20:22, 35 | speculative, 65, 69 |
-| 20:29, 295, 373 | and religion, 24, 48 |
-| Acts 5 : 1-1 1, 73, 344 | Pietists, 45, 334-S |
-| 5 :44, 265, 370 | Poles, 269, 371 |
-| 5:29, 1 4, 80, 3 27, 346 | police, 1 04, 351 |
-| Romans 1 : 25, 229 | political liberalism, xx, 89-105, 1 28, |
-| 6: 1 8, 1 42 | 220-1 |
-| 8:9, 35 | and absolutism, 91-2, 94, 96, 97-8 |
-| 8: 1 4, ISS | and civil society, 90 |
-| 8:16, 156 | |
-| I Corinthians 3:16, 35 | and competition, 99, 23 I ff |
-| 8:4, 93 | and individual liberty, 97-8 |
-| 1 5 :26, 285 | and state, 90-8, 207-<), 213, 252 |
-| | possessedness: see fixedity of ideas |
-| 2 Corinthians 5:17, 27 | poverty, I 02-3 , 224, 225, 226, 237 |
-| 6: 15, 355 | and rabble, 228-30 |
-| Galatians 4: 26, 1 42 | property, 2 I 8-3 I, 244ff |
-| I Thessalonians 5 : 21, 309 | collective, xxx-xxxi, 1 06, 171, 221-2, |
-| 2 Timothy 1 : 1 0, 285 | 22 7-3 1 |
-| Hebrews II: I 3, 20 | egoistic, xxx-xxxi, 86-7, 1 7 1, 2 I 8, |
-| James 2 : 1 2, 142 | 223-4, 2 27-30, 245-7, 27 1, |
-| I Peter 2:16, 142<br>1 John 4: 1 6, 255 | 275-6, 302, 312, 3 1 5-18 |
-| see also Old Testament, Bible | private, xiii, xxx-x.ui, 38, 88, l I S , |
-| | 220-2, 223-5 |
-| | Protestantism, xv, xvii, 44, 50, 65, 77, |
-| Old Testament | 81-5 , 94, 96, 152 , 1 96, 210, |
-| Genesis 1 1 :25-25:8, 354 | 266, 304, 333 |
-| Deuteronomy 13:13, 355 | Prussia, 50, 1 20, 367 |
-| Psalms 46:3, 85 | punishment: see crime |
-| 99:5, 3 I 2, 375 | |
-| Isaiah 55:8, 23, 329 | rationalism, 35, 46, 47-8, 298, 335 , |
-| see also New Testament, Bible | 336 |
-| ownness, xxii-xxiii, xxxii, 1 4 1 -54, | realism, epoch of, xiv, xv, xviii, 17 |
-| 1 63-4, 2I0-1 I | see also ancient world |
-| distinguished from freedom, 141-9, | reason, rationality, xii-xiv, 1 4, 95-6, |
-| 1 5 1-2, 27 1 -2 | 1 34, 1 74, 1 83, 293, 305 |
-| owner, the, 1 5 S ff | Reformation, xv, 27, 28, 76-8, 82-5 , |
-| see also egoism | 200, 33 1 , 347 |
-| | regicide, 54, 84 |
-| | religion, xix-xx, 3 4-5 , 41, 48, 216, 3 37 |
-| party, 20g-1 I<br>patriotism: see nationalism | |
-| | revolution, 54, 74, 91, 92, 94, 99-I OI, |
-| Persian monarchy, 204 | 1 30, 1 45, 1 69, 1 82, 207, 215, |
-| Pharisees, 52, 1 87, 339<br>Philalethes: see name index | 23 I, 245, 264, 278, 340 |
-| | insurrection, 249, 25 1 |
-
-versus insurrection, xxviii, 52, state, xxv-xxvi, 90-8, 158, 160-1, 174-8, 189-92, 198-204, 279-81 rights, xxxi, 92-3, 166-74, 183-4, 219, 211-13, 215, 226-7, 231-2, 245-6, 295-6, 357 'commonwealth of right', 167, 173 forms of, xxvi, 91-2, 94, 96, 97-8, natural, 168, 170 175-7, 200-1, 202-4, 206-7, relation to might, 151, 168-9, 172, 25 I, 253 174, 186-7, 245 source of power, xxvii, 174-5, 211-Romans, 26, 51-2, 171, 188, 223, 224, and individual, 174, 175, 177, 192, romanticism, 35, 284, 332-3 199-201, 207-9, 212, 225, 231, Russians, xviii, 63, 169, 281 251, 253 and union, 189-90, 198-9 Stoicism, 25-6, 85, 321, 330, 331 Scepticism (ancient), 22, 26, 328-9, students, 17, 99-100, 327-8, 337 selfishness, 57-8, 152-4, 275 suicide, 53, 282, 285, 286 see also egoism transformative method, xx, 47, 55-6 self-ownership, xxiii, 47, 52, 53, 74, truth, xiii-xiv, 15, 37, 263, 303-15, 327 86-7, 115-17, 252, 268, 294 egoistic, 306-7, 311-14 sensuousness, 28, 49, 60, 153, 300-1 and relativism, 313-14 September Laws, 250, 369 Turk, 160, 295 Shamanism, 41, 66, 300 social liberalism, xx, 105-11, 128 union (of egoists), xxix-xxx, 122, and collective property, 106 160-1, 189-90, 194-5, 199, and competition, 109 205, 209-11, 229, 271-8 illiberality of, 110-11 un-man, xxi, 112, 121, 124, 125, and labour, 107-10 130-1, 159, 161, 219, 239, 256, and ragamuffinhood, 105-6 296, 309, 318 and society, 105-6, 111 unselfishness, 57-8, 73 socialism, 109, 111, 116, 234, 239, 277 vagabonds, 101-2 distinguished from communism, 228 see also social liberalism, communism world-ownership, 85-8, 237, 252 Society of Jesus: see Jesuits see also property, egoistic sophism, xv, 20-2, 27-8, 328 Spartans, 171, 191, 229 youth, xiv, 14-17, 268
-
-## Index of names
-
-| Abraham, 1 34, 354 |
-|--------------------------------------|
-| Adelmann, Frederick J., xxxiv |
-| Adolphus, Gustavus, I 20, 3 5 2-3 |
-| Aegyptus, 333 |
-| Aeschylus, 192, 363 |
-| Agamemnon, 359 |
-| Agesilaus, 363 |
-| Alcibiades, xxvii, 1 9 1-2, 341, 362 |
-| Alexander, Grand Prince, 37 I |
-| Alexander the Great, 357, 365 |
-| Alexis, Willibald, 1 97 , 364 |
-| Allah, 78, 1 99, 299 |
-| Altenstein, Karl Sigmund von, |
-| 347 |
-| Ananias, 73, 344, 370 |
-| Antaeus, 208, 327, 365 |
-| Antigone, 20, 328 |
-| Antony, 331 |
-| Apollo, 1 47 , 278, 355, 372, 374 |
-| Archelaus, 359 |
-| Archimedes, 59, 342 |
-| Aristippus, 25, 330 |
-| Aristotle, 1 66, 334, 357 |
-| Arius, 369 |
-| Arnim, Bettina von, 178-80, 3 60, |
-| 361 |
-| Artemis, 335 |
-| Astarte, 78, 1 50, 345 |
-| Atahualpa, xii, 297, 373 |
-| |
-| Athanasius, 255, 3 69 |
-| Athena, 354 |
-| Austen, Jane, 338 |
-| Autun and Barriere, Bishop of: see |
-| T alleyrand -Perigord |
-## | |
-
-
-Babeuf, Fran�ois Noel, 1 70, 358--<) 
-Bacon, Francis, 79, 345-6 
-Bailly, Jean-Sylvain, 91, 2°7 , 349, 365 
-Barthelemy, ].]., 362 
-Bass, August, 369 
-Bauer, Bruno, xii, m, 11, 69, 77, 1 1 2, 
-        l I 8, 1 2 1-2, I 26, 1 29, 158, 
-        161-2, 1 84-5, 216, 276, 325, 
-       326-7, 3 48, 35 1 , 353, 354, 3 56, 
-       361, 364, 365, 372 
-Bauer, Edgar, xxi, xxvi, 69, 1 1 2, 1 1 3, 
-       202-4, 25 3, 326, 332, 348, 349, 
-       354, 364, 365 
-Becker, August, 73-4, 171, 3 44 
-Beebe, Robert R., xxxvii 
-Benedict XIV, 44, 33 3-4 
-Beraud, F. F. A., 1 1 3 , 3 5 1 
-Blanc, Louis, 96, 348, 350 
-Bluntschli, Johann Caspar, 290, 308, 
-       358, 375 
-Boniface, 57, 3 1 6, 341, 355 
-Bora, Katharina von, 370 
-Bourbon, due de, 370 
-Brahma, 299 
-Brandenberg, Duke of, 366 
-Brazil, William J" xxxvi 
-Brutus, 372 
-Buhi, Ludwig, xxi, 325, 348, 3 69 
-Buonarotti, .\1ichel, 359 
-Burke, Edmund, xxxv 
-Butz, Agoes, xxxiv 
-Byington, Steven Tracy, xxxix-xl, 348, 
-       355, 364
-## 
-#### Index of names
-
-| Caligula, 338 | Engels, Friedrich, >.'Vi, xviii, xx, xxxvii, |
+atheism, 32, 3 8-.'Vi, xviii, xx, xxxvii, |
 |-----------------------------------------|----------------------------------------------|
 | Calvin, John, 347 | 332, 344, 348 |
 | Carneades, 328 | Epicaste: see Iocasta |
@@ -4049,7 +3755,7 @@ Byington, Steven Tracy, xxxix-xl, 348,
 | Jesus Christ, 27, 52, 68, 1 47, 159, 1 64, | |
 | 191, 226, 249, 283, 285, 292, | Machiavelli, Niccolo, 332 |
 | 298, 3 2 2-3 , 327, 3 29, 332, 333, | Mackay, John Henry, xxxvi, xxxvii, |
-| 33� 344, 34� 358, 359, 3 60, | 3 25-6, 3 64 |
+| 33 344, 34 358, 359, 3 60, | 3 25-6, 3 64 |
 | 362, 3 69, 373, 375, 376 | "laniius, 7 I, 343 |
 | Julius II, 368 | "larat, 71, 343 |
 | | Marheineke, Philipp Konrad, xxxiii |
@@ -4072,7 +3778,7 @@ Molière, J. B., 342
 Montgelas, Maximillian von, 231, 367
 ## Moses, 114, 351-2
 
-Naigeon, Jacques-André, 334 Napoleon I, 230, 247, 338, 341, 349, 355, 366, 367, 371 Nauwerck, Karl Ludwig Theodor, xxi, 207–8, 348, 365 Nero, xxiv, 51–3, 151, 338 Nerrlich, Paul, xiii Niemcewicz, Julian Ursyn, 269, 371 Nietzsche, Friedrich, xi–xii, xxxvii Ninon: see Lenclos, Ninon de Novalis, 333
+Naigeon, Jacques-André, 334 Napoleon I, 230, 247, 338, 341, 349, 355, 366, 367, 371 Nauwerck, Karl Ludwig Theodor, xxi, 207-8, 348, 365 Nero, xxiv, 51-3, 151, 338 Nerrlich, Paul, xiii Niemcewicz, Julian Ursyn, 269, 371 Nietzsche, Friedrich, xi-xii, xxxvii Ninon: see Lenclos, Ninon de Novalis, 333
 
 O'Connell, Daniel, 57, 340 Oedipus, 299, 374 Orestes, 359 Origen, 53, 339
 
@@ -4096,7 +3802,7 @@ Rotteck, Karl von, 356
 Rousseau, Jean-Jacques, 69, 342
 Royer-Collard, Pierre-Paul, 374
 Rubeanus, Crotus, 332
-Ruge, Arnold, Xiii, xxi, 47, 77, 158, 304, 332, 337, 344–5, 348
+Ruge, Arnold, Xiii, xxi, 47, 77, 158, 304, 332, 337, 344-5, 348
 ## Rutenburg, Adolf, 182, 361
 
 Saint-Evremond, 341 St Just, 71, 182, 343, 361 Samuel, 114, 351 Sand, George, 308, 375 Sand, Karl Ludwig, 49-50, 337, 338 Sander, Adolf, 253, 369 Sapphira, 73, 344 Saxony, Duke of, 367 Say, Jean Baptiste, xii, xxxiv Schiller, Friedrich, 119-20, 168, 284, 332, 345, 352, 358, 362, 363, 373 Schlegel, Friedrich, 333 Schleiermacher, Friedrich, xxxiii Schlemihl, Peter: see Chamisso, Adelbert Schlosser, Friedrich Christoph, 44-5, Seneca, 338 Sesostris III, xvii, 63, 342 Shakespeare, William, 363 Sheehan, James J., xxxvi Sigismund, Kaiser, 267, 370, 374 Simonides, 25, 329 Smith, Adam, xii, xxxiv Socrates, xxvii, 21-2, 28, 54, 190-1, 328, 329, 330, 340, 362 Sophocles, 20, 328 Spener, Philipp Jakob, 334 Spinoza, 356

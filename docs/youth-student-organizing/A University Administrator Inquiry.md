@@ -1,3 +1,8 @@
+---
+title: "## **A University Administrator Inquiry**"
+category: "youth-student-organizing"
+---
+
 ## **A University Administrator Inquiry**
 
 ## **Date:** Unknown

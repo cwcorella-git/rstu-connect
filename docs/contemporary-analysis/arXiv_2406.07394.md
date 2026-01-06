@@ -1,3 +1,8 @@
+---
+title: "Accessing GPT-4 level Mathematical Olympiad Solutions via Monte Carlo Tree Self-refine with LLa Ma-3 8B: A Technical Report"
+category: "contemporary-analysis"
+---
+
 # Accessing GPT-4 level Mathematical Olympiad Solutions via Monte Carlo Tree Self-refine with LLa Ma-3 8B: A Technical Report
 
 #### Di Zhang
@@ -67,7 +72,7 @@ Upper Confidence Bound applied on Trees Algorithm is crucial for the selection p
 
 $$UCT_j = \bar{X}_j + C\sqrt{\frac{2\ln N_C}{N_j}} \tag{1}$$
 
-Where X¯ <sup>j</sup> is the average reward of action j, N<sup>C</sup> is the total visited times of the father node, and n<sup>j</sup> is the number of times node j has been visited for simulation, C is a constant to balancing exploitation and exploration.
+Where X¯ j is the average reward of action j, NC is the total visited times of the father node, and nj is the number of times node j has been visited for simulation, C is a constant to balancing exploitation and exploration.
 
 MCT Self-Refine algorithm represents an integration of Monte Carlo Tree Search (MCTS) with large language models, abstracting the iterative refinement process of mathematical problem solutions into a search tree structure. Nodes on this tree represent different versions of answers, while edges denote attempts at improvement. This algorithm's operational workflow adheres to the MCTS algorithm's general pattern. Detailly, We employ self-reflective driven self-improvement for refining answers; rewards for different answer versions are sampled using the model's self-reward capability.
 
@@ -80,7 +85,7 @@ To facilitate understanding of the MCTSr algorithm, the following symbols and fu
 - Ra: A Set that stores all self-rewards sampling results of node a with self-rewards function R.
 - T: A function determining the termination of the search process based on criteria such as reaching a maximum number of iterations or achieving satisfactory answer quality.
 
-- Q(a): A value function estimating the worth of an answer node a, derived from accumulated rewards R<sup>a</sup> and backpropagations from children nodes.
+- Q(a): A value function estimating the worth of an answer node a, derived from accumulated rewards Ra and backpropagations from children nodes.
 - U(a): The Upper Confidence Bound for the Q value of node a to balance between exploitation and exploration.
 - Father(a): A function returning the parent node of a given node a. If a is a root node, this function returns null or a specific identifier.
 - Children(a): A function returning the set of all child nodes for a given node a, representing all possible states derived from a by executing actions m ∈ M.
@@ -142,7 +147,7 @@ But given that Large Language Models (LLMs), which play as policy in this task, 
 
 We identify a collection C of candidate nodes based on these criteria for further expansion or Selection. This strategy helps accurately define which nodes might yield higher-value answers in subsequent searches, enhancing overall search efficiency and outcome quality.
 
-UCT Update: Drawing from Alpha Go, we use UCT with the UCB-1 method to balance the exploration and exploitation of nodes; for node a in the candidate set C, its UCT<sup>a</sup> value is,
+UCT Update: Drawing from Alpha Go, we use UCT with the UCB-1 method to balance the exploration and exploitation of nodes; for node a in the candidate set C, its UCTa value is,
 
 $$UCT_a = Q(a) + c\sqrt{\frac{\ln N(\mathsf{Father}(a)) + 1}{N(a) + \epsilon}}$$
 ## (4)
@@ -177,10 +182,23 @@ We can find that results reveal a direct correlation between the number of MCTSr
 
 These insights underscore the MCT-Self-refine algorithm's robustness and potential boundaries, highlighting the necessity for ongoing enhancements to tackle more complex challenges effectively. This work demonstrates the algorithm's capacity to enhance problem-solving performance and its varying efficacy across problem complexities, suggesting areas for future refinement in educational technology and automated reasoning.
 
-| Datasets | Zero-Shot<br>CoT | One-turn<br>Self-refine | 4-rollouts<br>MCTSr | 8-rollouts<br>MCTSr | Example<br>Nums |
+| Datasets | Zero-Shot
+CoT | One-turn
+Self-refine | 4-rollouts
+MCTSr | 8-rollouts
+MCTSr | Example
+Nums |
 |----------|------------------|-------------------------|---------------------|---------------------|-----------------|
-| GSM8K | 977<br>74.07% | 1147<br>86.96% | 1227<br>93.03% | 1275<br>96.66% | 1319 |
-| GSM-Hard | 336<br>25.47% | 440<br>33.36% | 526<br>39.88% | 600<br>45.49% | 1319 |
+| GSM8K | 977
+74.07% | 1147
+86.96% | 1227
+93.03% | 1275
+96.66% | 1319 |
+| GSM-Hard | 336
+25.47% | 440
+33.36% | 526
+39.88% | 600
+45.49% | 1319 |
 
 Table 1: Performance of MCTSr on the GSM Dataset
 
@@ -230,7 +248,10 @@ The efficacy of the MCT-Self-refine (MCTSr) algorithm was tested on three datase
 
 Table 3: Performance of MCTSr on Olympiad-level Datasets
 
-| | Gemini<br>1.5-Pro | Claude<br>3 Opus | GPT-4<br>Turbo |
+| | Gemini
+1.5-Pro | Claude
+3 Opus | GPT-4
+Turbo |
 |----------------------------------|-------------------|------------------|----------------|
 | MATH (Reid et al., 2024) | 67.7 | 60.1 | 73.4 |
 | Math Odyssey (Reid et al., 2024) | 45.0 | 40. | 49.1 |

@@ -1,12 +1,8 @@
 ---
-title: Plane Stupid Wants Police Spies Out of Our Lives
-date: 2025
-author: Industrial Workers of the World
-tags:
-  - organizing
-  - unions
-  - rent
-  - police
+title: "Plane Stupid Wants Police Spies Out of Our Lives"
+author: "Industrial Workers of the World"
+date: "2025"
+category: "abolition"
 ---
 
 # Plane Stupid Wants Police Spies Out of Our Lives

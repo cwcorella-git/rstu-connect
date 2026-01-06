@@ -1,12 +1,23 @@
+---
+title: "## **No jobs on a dead planet: Why South African unions should stop investing in fossil fuels and lo"
+category: "labor"
+---
+
 ## **No jobs on a dead planet: Why South African unions should stop investing in fossil fuels and lobby for a just, planned transition to a green economy**
 
-| Date: Mon, 02/06/2017 - 17:09<br>Source: https://ecology.iww.org/node/2058<br>Tags: just transition, labor and environment, green jobs, green unionism, South Africa |
+| Date: Mon, 02/06/2017 - 17:09
+Source: https://ecology.iww.org/node/2058
+Tags: just transition, labor and environment, green jobs, green unionism, South Africa |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | By David Le Page - |
 | Fossil Free South Africa |
 | , February 2017 |
 | More jobs: |
-| Yes, the fossil fuel industry creates jobs, but it also creates climate change, air and water<br>pollution, substantial corruption, wars, social instability, economic crises and fuel shortages,<br>and destroys arable land — all of which destroy jobs and human well-being. A greener<br>economy will create more, better, safer jobs. According to the International Labour<br>Organisation ( |
+| Yes, the fossil fuel industry creates jobs, but it also creates climate change, air and water
+pollution, substantial corruption, wars, social instability, economic crises and fuel shortages,
+and destroys arable land — all of which destroy jobs and human well-being. A greener
+economy will create more, better, safer jobs. According to the International Labour
+Organisation ( |
 ## | https://goo.gl/r Sryng|
 
 ): "…most studies show that a transition to a low-carbon economy will lead to a net increase in employment". The Australian Council of Trade Unions (ACTU) has argued for "a planned closure of coal power stations – along with both a jobs and energy plan for the country", saying it will "create a more prosperous and diversified economy". (
@@ -19,9 +30,14 @@
 | the whole world |
 | , without all the terrible costs of fossil fuels. |
 | Threatened investments: |
-| Investments in fossil fuels are losing value in many markets. Even if they do not embrace the<br>moral arguments for divestment, unions still have a fiduciary duty to the members whose<br>funds they manage to understand, manage, and where appropriate, divest, to avoid the<br>multiplying threats to investments in the fossil fuel industry. |
+| Investments in fossil fuels are losing value in many markets. Even if they do not embrace the
+moral arguments for divestment, unions still have a fiduciary duty to the members whose
+funds they manage to understand, manage, and where appropriate, divest, to avoid the
+multiplying threats to investments in the fossil fuel industry. |
 | According |
-| to Black Rock, the world's biggest asset manager: "Investors can no longer ignore climate<br>change. Some may question the science behind it, but all are faced with a swelling tide of<br>climate-related regulations and technological disruption." |
+| to Black Rock, the world's biggest asset manager: "Investors can no longer ignore climate
+change. Some may question the science behind it, but all are faced with a swelling tide of
+climate-related regulations and technological disruption." |
 | Health and the right to life: |
 ## | Researchers at UCT's Energy Research Centre |
 

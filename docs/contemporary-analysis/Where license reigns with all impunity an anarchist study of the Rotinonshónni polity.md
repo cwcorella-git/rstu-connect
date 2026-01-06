@@ -1,3 +1,8 @@
+---
+title: "## **"Where license reigns with all impunity": an anarchist study of the Rotinonshón:ni polity**"
+category: "contemporary-analysis"
+---
+
 ## **"Where license reigns with all impunity": an anarchist study of the Rotinonshón:ni polity**
 
 ## **Date:** Unknown
@@ -245,12 +250,14 @@ I've been meaning to post this, so thanks for saving me the formatting. If you h
 | 10 years 6 months ago |
 | In reply to Welcomebylibcom.org |
 | Joseph Kay, |
-| I'll be happy to change the footnote text. Can you do one of the foot notes so I see the right<br>markup? I imagine there has to be a tag in the main body of the text and at the end note. |
+| I'll be happy to change the footnote text. Can you do one of the foot notes so I see the right
+markup? I imagine there has to be a tag in the main body of the text and at the end note. |
 | Yes, this version is longer than the print edition. The editor cut out my Engels quote! |
 | Joseph Kay |
 | 10 years 6 months ago |
 | In reply to Welcomebylibcom.org |
-| I've done the first footnote as an example. It's pretty straightforward once you get the hang of<br>it. |
+| I've done the first footnote as an example. It's pretty straightforward once you get the hang of
+it. |
 | Flint |
 | 10 years 6 months ago |
 

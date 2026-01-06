@@ -1,14 +1,23 @@
+---
+title: "## **West Virginia IWW Commemorates Battle of Blair Mountain Centennial**"
+category: "labor"
+---
+
 ## **West Virginia IWW Commemorates Battle of Blair Mountain Centennial**
 
 | Date: Wed, 10/20/2021 - 00:00 |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | |
 | Source: https://ecology.iww.org/node/4742|
-| Tags: Industrial Workers of the World (IWW), Blair Mountain, mine workers, coal, mining, West<br>Virginia, class struggle |
+| Tags: Industrial Workers of the World (IWW), Blair Mountain, mine workers, coal, mining, West
+Virginia, class struggle |
 | By Amine Bit - |
 | Industrial Worker |
 | , October 20, 2021 |
-| Over Labor Day weekend, a series of events were held in West Virginia to commemorate the<br>centennial of the "Battle of Blair Mountain," the largest labor uprising in the history of the<br>United States, which pitted local mine workers against mine owners, law enforcement, and<br>even the US military in 1921. The commemoration was sponsored in part by the |
+| Over Labor Day weekend, a series of events were held in West Virginia to commemorate the
+centennial of the "Battle of Blair Mountain," the largest labor uprising in the history of the
+United States, which pitted local mine workers against mine owners, law enforcement, and
+even the US military in 1921. The commemoration was sponsored in part by the |
 | Industrial Workers of the World |
 | branch in |
 | West Virginia |

@@ -1,14 +1,10 @@
 ---
-date: 2017
-author: Wikipedia
-tags:
-  - organizing
-  - unions
-  - police
-  - prisons
-  - labor
 title: "New York City draft riots - Wikipedia"
+author: "Wikipedia"
+date: "2017"
+category: "anti-war-peace"
 ---
+
 # New York City draft riots - Wikipedia
 
 *Converted from: `./New York City draft riots - Wikipedia.pdf`*  
@@ -36,8 +32,6 @@ title: "New York City draft riots - Wikipedia"
 New York City draft riots - Wikipedia                      about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 
-
-
                 en.wikipedia.org
 
 
@@ -47,13 +41,9 @@ New York City draft riots - Wikipedia                      about:reader?url=http
                 36–46 minutes
 
 
-
-
                                   New York City Draft Riots of 1863
 
                   Part of Opposition to the American Civil War
-
-
 
 
                   An illustration in The Illustrated London News depicting
@@ -66,7 +56,6 @@ New York City draft riots - Wikipedia                      about:reader?url=http
 
                   Caused by Civil War conscription; racism; competition for
                                         jobs between black and white people.
-
 
 
 1 of 41                                                                                      3/16/25, 5:02 PM
@@ -91,7 +80,6 @@ New York City draft riots - Wikipedia                      about:reader?url=http
 New York City draft riots - Wikipedia                      about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 
-
                    Resulted             Riots ultimately suppressed
                          in
 
@@ -108,8 +96,6 @@ New York City draft riots - Wikipedia                      about:reader?url=http
                    Death(s)             119–120[1][2]
 
                     Injuries            2,000
-
-
 
 
                 A recruiting poster in New York City in June 1863 for the
@@ -133,7 +119,6 @@ New York City draft riots - Wikipedia                      about:reader?url=http
 
 
 New York City draft riots - Wikipedia                 about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
 
 
                 referred to as the Manhattan draft riots and known at the
@@ -181,7 +166,6 @@ New York City draft riots - Wikipedia                 about:reader?url=https%3A%
 
 
 New York City draft riots - Wikipedia                about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
 
 
                 Brooklyn. By 1865, the black population had fallen below
@@ -238,7 +222,6 @@ New York City draft riots - Wikipedia                about:reader?url=https%3A%2
 New York City draft riots - Wikipedia               about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 
-
                 draft as they were largely not considered citizens, and
                 wealthier white men could pay for substitutes.[7]
 
@@ -257,8 +240,6 @@ New York City draft riots - Wikipedia               about:reader?url=https%3A%2F
                 low-wage jobs in the city. In March 1863, white longshoremen
                 refused to work with black laborers and rioted, attacking 200
                 black men.[7]
-
-
 
 
                 John Alexander Kennedy, NYC police superintendent from 1860
@@ -281,7 +262,6 @@ New York City draft riots - Wikipedia               about:reader?url=https%3A%2F
 
 
 New York City draft riots - Wikipedia                    about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
 
 
                 1863—occurred peaceably in Manhattan. The second drawing
@@ -316,7 +296,6 @@ New York City draft riots - Wikipedia                    about:reader?url=https%
                 but were overpowered.[13] The police were badly outnumbered
 
 
-
 6 of 41                                                                                    3/16/25, 5:02 PM
 
 ---
@@ -345,7 +324,6 @@ New York City draft riots - Wikipedia                    about:reader?url=https%
 New York City draft riots - Wikipedia                 about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 
-
                 and unable to quell the riots, but they kept the rioting out of
                 Lower Manhattan below Union Square.[3] Inhabitants of the
                 "Bloody Sixth" Ward, around the South Street Seaport and Five
@@ -356,17 +334,11 @@ New York City draft riots - Wikipedia                 about:reader?url=https%3A%
                 injured with 1 soldier missing (believed killed).[citation needed]
 
 
-
-
                 Bull's Head Hotel, depicted in 1830, was burned after it refused
                 to serve alcohol to the rioters.
 
 
-
-
                 Attack on the Tribune building
-
-
 
 
 7 of 41                                                                                 3/16/25, 5:02 PM
@@ -394,15 +366,10 @@ New York City draft riots - Wikipedia                 about:reader?url=https%3A%
 New York City draft riots - Wikipedia                about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 
-
                 The Colored Orphan Asylum which was burned.
 
 
-
-
                 Rioters attacking a building on Lexington Avenue.
-
-
 
 
                 Depiction of lynching during the New York City draft riots in
@@ -421,7 +388,6 @@ New York City draft riots - Wikipedia                about:reader?url=https%3A%2
                 to the rioters because they had also been drafted on Saturday.
 
 
-
 8 of 41                                                                                3/16/25, 5:02 PM
 
 ---
@@ -435,7 +401,6 @@ New York City draft riots - Wikipedia                about:reader?url=https%3A%2
 
 
 New York City draft riots - Wikipedia               about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
 
 
                 The New York Tribune was attacked, being looted and burned;
@@ -483,7 +448,6 @@ New York City draft riots - Wikipedia               about:reader?url=https%3A%2F
 
 
 New York City draft riots - Wikipedia               about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
 
 
                 life from the area near the docks. White dockworkers attacked
@@ -534,7 +498,6 @@ New York City draft riots - Wikipedia               about:reader?url=https%3A%2F
 New York City draft riots - Wikipedia               about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 
-
                 Militia and some federal troops were returned to New York,
                 including the 152nd New York Volunteers, the 26th Michigan
                 Volunteers, the 27th Indiana Volunteers and the 7th Regiment
@@ -582,7 +545,6 @@ New York City draft riots - Wikipedia               about:reader?url=https%3A%2F
 New York City draft riots - Wikipedia              about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 
-
                 black men was especially fierce in the docks area:[7]
 
                 West of Broadway, below Twenty-sixth, all was quiet at 9
@@ -616,7 +578,6 @@ New York City draft riots - Wikipedia              about:reader?url=https%3A%2F%
                 about $1–5 million (equivalent to $19.4 million – $97.2 million
 
 
-
 12 of 41                                                                             3/16/25, 5:02 PM
 
 ---
@@ -630,7 +591,6 @@ New York City draft riots - Wikipedia              about:reader?url=https%3A%2F%
 
 
 New York City draft riots - Wikipedia                 about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
 
 
                 in 2023[27]).[25][28] The city treasury later indemnified one-
@@ -680,7 +640,6 @@ New York City draft riots - Wikipedia                 about:reader?url=https%3A%
 New York City draft riots - Wikipedia               about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 
-
                 "unequivocally divided" from the black population.[7]
 
                 On August 19, the government resumed the draft in New York.
@@ -714,7 +673,6 @@ New York City draft riots - Wikipedia               about:reader?url=https%3A%2F
                 which was the most populous state at the time. A total of
 
 
-
 14 of 41                                                                              3/16/25, 5:02 PM
 
 ---
@@ -728,7 +686,6 @@ New York City draft riots - Wikipedia               about:reader?url=https%3A%2F
 
 
 New York City draft riots - Wikipedia                   about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
 
 
                 46,000 military men from New York State died during the war,
@@ -764,7 +721,6 @@ New York City draft riots - Wikipedia                   about:reader?url=https%3
                                                                   Doormen
 
 
-
 15 of 41                                                                                  3/16/25, 5:02 PM
 
 ---
@@ -778,7 +734,6 @@ New York City draft riots - Wikipedia                   about:reader?url=https%3
 
 
 New York City draft riots - Wikipedia                     about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
 
 
                    3rd            Captain        160                3
@@ -830,7 +785,6 @@ New York City draft riots - Wikipedia                     about:reader?url=https
 New York City draft riots - Wikipedia                     about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 
-
                                                                     and 2
                                                                     Doormen
 
@@ -863,8 +817,6 @@ New York City draft riots - Wikipedia                     about:reader?url=https
                                                                     Doormen
 
 
-
-
 17 of 41                                                                                    3/16/25, 5:02 PM
 
 ---
@@ -878,7 +830,6 @@ New York City draft riots - Wikipedia                     about:reader?url=https
 
 
 New York City draft riots - Wikipedia                      about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
 
 
                    12th           Captain        126th Street        5
@@ -930,7 +881,6 @@ New York City draft riots - Wikipedia                      about:reader?url=http
 New York City draft riots - Wikipedia                       about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 
-
                                                                       and 2
                                                                       Doormen
 
@@ -963,8 +913,6 @@ New York City draft riots - Wikipedia                       about:reader?url=htt
                                                                       Doormen
 
 
-
-
 19 of 41                                                                                      3/16/25, 5:02 PM
 
 ---
@@ -978,7 +926,6 @@ New York City draft riots - Wikipedia                       about:reader?url=htt
 
 
 New York City draft riots - Wikipedia                  about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
 
 
                    21st           Sergeant    120 East 31st 4
@@ -1030,7 +977,6 @@ New York City draft riots - Wikipedia                  about:reader?url=https%3A
 New York City draft riots - Wikipedia                     about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 
-
                    26th           Captain        City Hall          1
                    Precinct Thomas W.                               Sergeant,
                                   Thorne                            66
@@ -1080,7 +1026,6 @@ New York City draft riots - Wikipedia                     about:reader?url=https
 New York City draft riots - Wikipedia                         about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 
-
                                                                         and 2
                                                                         Doormen
 
@@ -1118,7 +1063,6 @@ New York City draft riots - Wikipedia                         about:reader?url=h
                     Unit       Commander Complement Officers Remarks
 
 
-
 22 of 41                                                                                        3/16/25, 5:02 PM
 
 ---
@@ -1132,7 +1076,6 @@ New York City draft riots - Wikipedia                         about:reader?url=h
 
 
 New York City draft riots - Wikipedia               about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
 
 
                   Veteran                                                Guarded
@@ -1171,7 +1114,6 @@ New York City draft riots - Wikipedia               about:reader?url=https%3A%2F
                    Invalid                                                    1st and 2nd
 
 
-
 23 of 41                                                                              3/16/25, 5:02 PM
 
 ---
@@ -1185,7 +1127,6 @@ New York City draft riots - Wikipedia               about:reader?url=https%3A%2F
 
 
 New York City draft riots - Wikipedia                about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
 
 
                    Corps                                                      Battalions;
@@ -1235,7 +1176,6 @@ New York City draft riots - Wikipedia                about:reader?url=https%3A%2
 New York City draft riots - Wikipedia   about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 
-
                                                                  period.
                                                                  However,
                                                                  after having
@@ -1280,8 +1220,6 @@ New York City draft riots - Wikipedia   about:reader?url=https%3A%2F%2Fen.wikipe
 
 
 New York City draft riots - Wikipedia                  about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
-
 
 
                    7th New          Colonel      800                             Recalled back
@@ -1331,7 +1269,6 @@ New York City draft riots - Wikipedia                  about:reader?url=https%3A
 New York City draft riots - Wikipedia            about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 
-
                    Volunteer        Jardine                               mustered out
                    Infantry         (wounded)                             in May 1863
                    Regiment                                               but 200
@@ -1379,7 +1316,6 @@ New York City draft riots - Wikipedia            about:reader?url=https%3A%2F%2F
 New York City draft riots - Wikipedia       about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 
-
                    Infantry         Keyes                            Regular
                    Regiment                                          infantry, with
                                                                      other
@@ -1424,7 +1360,6 @@ New York City draft riots - Wikipedia       about:reader?url=https%3A%2F%2Fen.wi
 
 
 New York City draft riots - Wikipedia                about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
 
 
                                                                               [42]
@@ -1476,7 +1411,6 @@ New York City draft riots - Wikipedia                about:reader?url=https%3A%2
 New York City draft riots - Wikipedia               about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 
-
                                                                              wounded
                                                                              {recovered}
                                                                              [45]
@@ -1526,7 +1460,6 @@ New York City draft riots - Wikipedia               about:reader?url=https%3A%2F
 
 
 New York City draft riots - Wikipedia               about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
 
 
                 (1995) by Peter Quinn
@@ -1583,7 +1516,6 @@ New York City draft riots - Wikipedia               about:reader?url=https%3A%2F
 
 
 New York City draft riots - Wikipedia                about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
 
 
                 York Draft Riots.
@@ -1643,7 +1575,6 @@ New York City draft riots - Wikipedia                about:reader?url=https%3A%2
 New York City draft riots - Wikipedia                  about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 
-
              2. ^ Brown was relieved of duty on July 16 and Canby succeeded
                 him in command of the military post of New York City on July 17
 
@@ -1680,7 +1611,6 @@ New York City draft riots - Wikipedia                  about:reader?url=https%3A
                 Historical Society. Retrieved June 16, 2023.
 
 
-
 33 of 41                                                                                 3/16/25, 5:02 PM
 
 ---
@@ -1694,7 +1624,6 @@ New York City draft riots - Wikipedia                  about:reader?url=https%3A
 
 
 New York City draft riots - Wikipedia               about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
 
 
              9. ^ Jump up to: a b Roberts, Sam (December 26, 2010). "New
@@ -1749,7 +1678,6 @@ New York City draft riots - Wikipedia               about:reader?url=https%3A%2F
 New York City draft riots - Wikipedia               about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 
-
                 ISBN 978-0-8131-1298-5[page needed]
 
            20. ^ "Facts and Incidents of the Riot: The Murders of Colored
@@ -1800,7 +1728,6 @@ New York City draft riots - Wikipedia               about:reader?url=https%3A%2F
 
 
 New York City draft riots - Wikipedia               about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
 
 
            29. ^ Donald, David (2002). Civil War and Reconstruction. Pickle
@@ -1857,7 +1784,6 @@ New York City draft riots - Wikipedia               about:reader?url=https%3A%2F
 New York City draft riots - Wikipedia                about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 
-
                 Regiment, National Guard, State of New York, During the War of
                 the Rebellion: With a Preliminary Chapter on the Origin and
                 Early History of the Regiment, a Summary of Its History Since
@@ -1909,7 +1835,6 @@ New York City draft riots - Wikipedia                about:reader?url=https%3A%2
 New York City draft riots - Wikipedia               about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 
-
                 City Draft Riots of 1863. University Press of Kentucky.
                 ISBN 9780813112985.
 
@@ -1947,7 +1872,6 @@ New York City draft riots - Wikipedia               about:reader?url=https%3A%2F
                 25–55. online
 
 
-
 38 of 41                                                                              3/16/25, 5:02 PM
 
 ---
@@ -1961,7 +1885,6 @@ New York City draft riots - Wikipedia               about:reader?url=https%3A%2F
 
 
 New York City draft riots - Wikipedia               about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
 
 
              • Cohen, Joanna (2022). "Reckoning with the Riots: Property,
@@ -2016,7 +1939,6 @@ New York City draft riots - Wikipedia               about:reader?url=https%3A%2F
 New York City draft riots - Wikipedia                about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 
-
                 Nanzan review of American studies: a journal of Center for
                 American Studies v27 (2005): 1–14. online
 
@@ -2069,7 +1991,6 @@ New York City draft riots - Wikipedia                about:reader?url=https%3A%2
 New York City draft riots - Wikipedia               about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 
-
              • "1863 New York City Draft Riots", mrlincolnandnewyork.org
 
              • "New York Draft Riots", 2002, source Civil War Society's Civil
@@ -2090,9 +2011,6 @@ New York City draft riots - Wikipedia               about:reader?url=https%3A%2F
                 40°43′N 74°0′W / 40.717°N 74.000°W
 
 
-
-
 41 of 41                                                                              3/16/25, 5:02 PM
 
 ---
-

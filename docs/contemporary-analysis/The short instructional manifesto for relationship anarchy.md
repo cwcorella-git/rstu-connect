@@ -1,3 +1,8 @@
+---
+title: "The short instructional manifesto for relationship anarchy"
+category: "contemporary-analysis"
+---
+
 ## Andie Nordgren
 
 # The short instructional manifesto for relationship anarchy

@@ -1,3 +1,8 @@
+---
+title: "## **The Proletarian Public - The Practice of Proletarian Self-Emancipation [1996] Peter Critchley**"
+category: "contemporary-analysis"
+---
+
 ## **The Proletarian Public - The Practice of Proletarian Self-Emancipation [1996] Peter Critchley**
 
 ## **Date:** Unknown

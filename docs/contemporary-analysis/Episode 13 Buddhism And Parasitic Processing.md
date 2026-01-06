@@ -1,3 +1,8 @@
+---
+title: "## **Episode 13: Buddhism And Parasitic Processing/**"
+category: "contemporary-analysis"
+---
+
 ## **Episode 13: Buddhism And Parasitic Processing/**
 
 **Source:** https://www.meaningcrisis.co/ep-13-awakening-from-the-meaning-crisis-buddhism-and-parasitic-processing/

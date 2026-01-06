@@ -1,3 +1,8 @@
+---
+title: "HOW TO WORK A ROOM®"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 # HOW TO WORK A ROOM®
@@ -27,10 +32,13 @@ And to those whose words of wisdom, kindness, and support continue to echo etern
 | ACKNOWLEDGMENTS | xxi |
 | INTRODUCTION | xxv |
 | Get Ready! | 1 |
-| CHAPTER 1: THE FIVE ROADBLOCKS:<br>MOTHER'S DIRE WARNINGS | 3 |
+| CHAPTER 1: THE FIVE ROADBLOCKS:
+MOTHER'S DIRE WARNINGS | 3 |
 | Roadblock #1 "Don't Talk to Strangers" | |
-| Roadblock #2 "Wait to Be Properly Introduced"<br>(The Scarlett O'Hara Syndrome) | |
-| Roadblock #3 "Don't Be Pushy. Good Things Come to<br>Those Who Wait." (The Prom King/Queen Complex) | |
+| Roadblock #2 "Wait to Be Properly Introduced"
+(The Scarlett O'Hara Syndrome) | |
+| Roadblock #3 "Don't Be Pushy. Good Things Come to
+Those Who Wait." (The Prom King/Queen Complex) | |
 | Roadblock #4 "Better Safe Than Sorry" (Risking Rejection) | |
 | Roadblock #5 "Mangled and Mixed Messages" | |
 ## | Risking the Roadblocks | |
@@ -154,7 +162,8 @@ CHAPTER 6:MR. (OR MS.) SLEAZE WORKS A ROOM: OR HOW NOT TO DO IT 63
 
 | Get Set! | 75 |
 |-----------------------------------------------------------------|----|
-| CHAPTER 8: EIGHT STEPS TO PERFECTLY PLAN<br>YOUR PRESENCE | 77 |
+| CHAPTER 8: EIGHT STEPS TO PERFECTLY PLAN
+YOUR PRESENCE | 77 |
 | 1. Adopt a Positive Attitude | |
 | 2. Dress for the Occasion | |
 | 3. Focus on the Benets of the Event | |
@@ -166,10 +175,12 @@ CHAPTER 6:MR. (OR MS.) SLEAZE WORKS A ROOM: OR HOW NOT TO DO IT 63
 | The Business Kiss | |
 | Another "Touchy" Subject | |
 | Ro Ane's Reminders | |
-| CHAPTER 9: SEVEN STRATEGIES: FROM<br>JUMP- START TO SMOOTH STOP | 98 |
+| CHAPTER 9: SEVEN STRATEGIES: FROM
+JUMP- START TO SMOOTH STOP | 98 |
 | 1. The Entrance: Grand or Otherwise | |
 | 2. The Buddy System | |
-| 3. The White-Knuckled Drinker—and<br>Other Accessible Folk | |
+| 3. The White-Knuckled Drinker—and
+Other Accessible Folk | |
 | 4. Name Tags That Pull | |
 | 5. Great Opening Lines | |
 | 6. Moving In: Breaking and Entering | |
@@ -178,7 +189,8 @@ CHAPTER 6:MR. (OR MS.) SLEAZE WORKS A ROOM: OR HOW NOT TO DO IT 63
 
 | CHAPTER 10: WORKING THE WORDS: SEVEN |
 |--------------------------------------------------------|
-| KEYS TO LIVELY CONVERSATION<br>122 |
+| KEYS TO LIVELY CONVERSATION
+122 |
 | So, What Do You Say Next? |
 | The Prepositional Gauge Phrase |
 | 1. Read One Newspaper a Day |
@@ -194,7 +206,8 @@ CHAPTER 6:MR. (OR MS.) SLEAZE WORKS A ROOM: OR HOW NOT TO DO IT 63
 | Echoing the Sounds of Silence |
 | Ro Ane's Reminders |
 | |
-| CHAPTER 11: HOW TO WORK AN AUDIENCE<br>142 |
+| CHAPTER 11: HOW TO WORK AN AUDIENCE
+142 |
 | Remedies for the Roadblocks |
 | Greeting and Meeting |
 | Speaking of (Public) Speaking |
@@ -213,7 +226,8 @@ CHAPTER 6:MR. (OR MS.) SLEAZE WORKS A ROOM: OR HOW NOT TO DO IT 63
 | ETIQUETTE: GOOD MANNERS | |
 | EQUAL GOOD BUSINESS | 154 |
 | Etiquette and Manners | |
-| Manners<br>Mavens | |
+| Manners
+Mavens | |
 | The R. S. V. P. | |
 | R. S. V. P. for Business | |
 | Rsvp@mindyourmanners.com | |
@@ -301,10 +315,13 @@ The Techno Terrible: "Dis"connect Conference Calling
 | Avoid Gender Benders | |
 | Age Gauge | |
 | Ro Ane's Reminders | |
-| CHAPTER 18: WORKING THE WORLD:<br>TRAINS AND BOATS AND PLANES | 244 |
+| CHAPTER 18: WORKING THE WORLD:
+TRAINS AND BOATS AND PLANES | 244 |
 | The Cornucopia of Contacts | |
 | "Public" Speaking | |
-| The<br>Plane<br>Truth | |
+| The
+Plane
+Truth | |
 | Arena Aroma | |
 | Common Ground | |
 | Counter Intelligence | |
@@ -894,7 +911,12 @@ At the end of my programs I'll often ask attendees to jot down what they learned
 
 The personal benefits can be at least as important as the professional. Even if you never discuss business, the people you meet while working a room can become lasting friends who enrich your life.
 
-| Event<br>Sponsor<br>Purpose<br>Location<br>Attendees<br>Reason for Your Participation |
+| Event
+Sponsor
+Purpose
+Location
+Attendees
+Reason for Your Participation |
 |---------------------------------------------------------------------------------------|
 | |
 | |
@@ -2063,7 +2085,7 @@ Whether it's from a conversation with a friend, a client, a relation, the barist
 
 ## —Actor Robert Duval on The Sunday Morning Show
 
-<sup>&</sup>quot;Only dull women live in immaculate homes."
+&quot;Only dull women live in immaculate homes."
 
 ## "I have my own business and I mind it!"
 
@@ -4146,7 +4168,9 @@ Only if the group sends one gift. Group thank-yous are as impersonal as the lett
 | Albright, Madeleine, 175–76 | business kiss, 94 |
 | Alcohol consumption, 120, 178, | eye contact/smiling, 90–92 |
 | 215–16 | forgotten names, 105–7 |
-| Alessandra,<br>Tony,<br>67 | great opening lines, 107–13, |
+| Alessandra,
+Tony,
+67 | great opening lines, 107–13, |
 | Alpert, Geraldine, 115 | 146–48 |
 | Ambady, Nalini, 181 | handshake, 92–95 |
 | American Library Association, | initiating conversation, |
@@ -4160,9 +4184,13 @@ Only if the group sends one gift. Group thank-yous are as impersonal as the lett
 | Art of the Start (Guy), 178 | small talk, preparing, 88–90 |
 | Asking questions, 108–11 | Attitude, 4, 78–79, 242 |
 
-| Audiences | Brooks,<br>Mel,<br>133 |
+| Audiences | Brooks,
+Mel,
+133 |
 |---------------------------------|--------------------------------|
-| greeting and meeting, 144–45 | Brown,<br>Willie,<br>186 |
+| greeting and meeting, 144–45 | Brown,
+Willie,
+186 |
 | opening lines, 146–48 | Buddy System, 99–101, 120 |
 | tips for talks, 144–46 | Bulwer- Lytton, Edward, 122 |
 | | Business cards, 84–88, 197 |
@@ -4197,9 +4225,12 @@ Only if the group sends one gift. Group thank-yous are as impersonal as the lett
 | Brills Content, 124 | Clooney, George, 41 |
 ## | Brochures, 87 | Clothing, 206 |
 
-| Cocktail party, 171–87 | dealing<br>with<br>perplexing |
+| Cocktail party, 171–87 | dealing
+with
+perplexing |
 |------------------------------|-----------------------------------|
-| business party, 174 | situations,<br>211–12 |
+| business party, 174 | situations,
+211–12 |
 | business social, 179–81 | preparing for, 203–8 |
 | fund- raiser, 182–83 | script, schedule, and staging, |
 | mealtime, 177 | 213–14 |
@@ -4214,7 +4245,8 @@ Only if the group sends one gift. Group thank-yous are as impersonal as the lett
 | Comics, 128 | clipping and collecting, |
 | Commandments of Connecting, | 129–30 |
 | 257–60 | humor, 134–35 |
-| Common bonds,<br>19–21 | interrupters, 115–16 |
+| Common bonds,
+19–21 | interrupters, 115–16 |
 | Communication | listening and, 136–37 |
 | customer service and, 48 | newsletters/professional |
 | determining preferred method | journals/minutes, 130–31 |
@@ -4228,7 +4260,8 @@ Only if the group sends one gift. Group thank-yous are as impersonal as the lett
 | Conference calls, 228–29 | small talk, 88–90, 123–24 |
 | Condence, and chutzpah, 40 | taking note/notes, 131–34 |
 | "Connectors," 100 | Conversation class, 73 |
-| Consumption Assumption, 120 | ConverSENsations™, 8–9,<br>72 |
+| Consumption Assumption, 120 | ConverSENsations™, 8–9,
+72 |
 | Contact quota, 66 | Cosmetic surgery, 194 |
 | Conventions/trade shows, | Couric, Katie, 41 |
 | 202–20 | Courtesy, 156. See also Etiquette |
@@ -4237,7 +4270,12 @@ Only if the group sends one gift. Group thank-yous are as impersonal as the lett
 
 | Crystal, Billy, 151 | Eisenstodt, Joan, 103 |
 |-------------------------------------|------------------------------------------------------------|
-| CSG (Clipping Service Gene),<br>129 | Electricity,<br>209–10<br>Electronic<br>gadgets,<br>221–33 |
+| CSG (Clipping Service Gene),
+129 | Electricity,
+209–10
+Electronic
+gadgets,
+221–33 |
 | Cummings, Alan, 193 | addictions to, 231 |
 | Cummins, Jonathan, 195 | beepers/cell phones, 221–23, |
 | Cummins, Sherwood, 69 | 229–31 |
@@ -4271,9 +4309,13 @@ Only if the group sends one gift. Group thank-yous are as impersonal as the lett
 | Eckman, Paul, 181 | R. S. V. P., 158–59 |
 ## | 85 Broads, 199 | thank-yous, 164–65, 167, 168 |
 
-| Executive Women Golf | George,<br>Cardinal<br>(Archdiocese<br>of |
+| Executive Women Golf | George,
+Cardinal
+(Archdiocese
+of |
 |-----------------------------------|-------------------------------------------|
-| Association, 248 | Chicago),<br>162 |
+| Association, 248 | Chicago),
+162 |
 | Extricating yourself, 116–19 | Gilbert, Laura, 69, 114 |
 | Eye contact, 90–92, 102, 136, | Givens, David, 91 |
 | 210–11 | Gladwell, Malcolm, 100, 181 |
@@ -4296,7 +4338,8 @@ Only if the group sends one gift. Group thank-yous are as impersonal as the lett
 | Fripp, Patricia, 23, 91, 100, 145 | Gremlins of Grammar (Boyle), 240 |
 | Fry, William, 134 | Grissom, Gil, 133 |
 | Fund- raisers, 182–83 | Guericke, Konstantin, 56 |
-| Funerals, 199–200, 227–28 | Guest behavior/host behavior,<br>23–25 |
+| Funerals, 199–200, 227–28 | Guest behavior/host behavior,
+23–25 |
 | Gangitano, Sharon, 236 | Gurd, Gert, 140 |
 | garage.com, 178 | |
 | Garchik, Leah, 127 | Handshakes, 92–95, 163 |
@@ -4308,9 +4351,11 @@ Only if the group sends one gift. Group thank-yous are as impersonal as the lett
 | General Electric, 235 | Hearing- impaired, 238–39 |
 ## | | |
 
-| Hearing Loss Association of | Invitations,<br>158-59 |
+| Hearing Loss Association of | Invitations,
+158-59 |
 |-----------------------------------|-----------------------------------|
-| America, 238 | Irony,<br>135 |
+| America, 238 | Irony,
+135 |
 | Hirsch, Ruthe, 207 | |
 | Holiday ofce parties, 178 | Jogging, 248 |
 | Homophobic humor, 135 | Jokes, 28, 67, 146 |
@@ -4328,7 +4373,8 @@ Only if the group sends one gift. Group thank-yous are as impersonal as the lett
 | | Know- it- alls, 184 |
 | Ideas, capturing, 147–48 | Koelling, Martha, 196 |
 | Image, 79–80 | Korda, Alexander, 89 |
-| Improvisation class, 73 | Korda, Michael, 89,<br>124 |
+| Improvisation class, 73 | Korda, Michael, 89,
+124 |
 | Inappropriate behavior, 10–11 | Kuber, Shailesh, 240 |
 | Inappropriate humor, 67 | |
 | Incompetence, 64 | Labels, 7 |
@@ -4346,11 +4392,18 @@ Only if the group sends one gift. Group thank-yous are as impersonal as the lett
 | of speakers, 150 | Lew, Rabbi Alan, 229 |
 ## | | |
 
-| Lifestyle section, of newspaper, | Minutes,<br>of<br>meetings,<br>130 |
+| Lifestyle section, of newspaper, | Minutes,
+of
+meetings,
+130 |
 |-----------------------------------------------------|----------------------------------------|
-| 129 | Misinterpretations,<br>10–11,<br>27–29 |
+| 129 | Misinterpretations,
+10–11,
+27–29 |
 | Linked In, 56 | Misner, Ivan, 181 |
-| Listening skills, 90, 117, 136–37<br>Live chats, 49 | Mixed messages, 10–11, 27–29,<br>215 |
+| Listening skills, 90, 117, 136–37
+Live chats, 49 | Mixed messages, 10–11, 27–29,
+215 |
 | Livingston, Sally, 86 | Mnemonic devices, 86 |
 | Long-term thinking, 32 | Morris, Bob, 90–91 |
 | Lorenzoni, Father Larry, 247 | Morris, James, 88 |
@@ -4382,9 +4435,14 @@ Only if the group sends one gift. Group thank-yous are as impersonal as the lett
 | Minier, Sally, 231 | Ofce party, 177–79 |
 | Minninger, Joan, 163 | Off- the- cuff comments, 14 |
 
-| Online banking, 49 | Personal<br>relationships,<br>breaking |
+| Online banking, 49 | Personal
+relationships,
+breaking |
 |----------------------------------|----------------------------------------|
-| Online communication, 46–62 | up<br>via<br>e-mail,<br>60–61 |
+| Online communication, 46–62 | up
+via
+e-mail,
+60–61 |
 | addiction to, 53 | Peters, Tom, 155 |
 | advantages of, 52 | Plagiarism, 147–48 |
 | brevity and, 51–52 | Planes, 247. See also |
@@ -4392,10 +4450,12 @@ Only if the group sends one gift. Group thank-yous are as impersonal as the lett
 | 52 | Travel |
 | condolences via, 61 | Planet Points, 102, 249 |
 | e-mail, 48, 53–54, 58–61 | Planning, 32–33 |
-| greeting<br>cards, 58–59 | Platinum Rule, The (Alessandra), |
+| greeting
+cards, 58–59 | Platinum Rule, The (Alessandra), |
 | instant messages, 49–50 | 67 |
 | methods of, 48–49 | Politeness, 115 |
-| mystique of, 47 | Politi cal<br>fund- raisers, 184–86 |
+| mystique of, 47 | Politi cal
+fund- raisers, 184–86 |
 | self- absorption, 56–57 | Powell, Alice, 197 |
 | thank-you notes, 59 | Powell, General Colin, 148 |
 | Open bars, 120 | Power, information as, 126 |
@@ -4409,7 +4469,8 @@ Only if the group sends one gift. Group thank-yous are as impersonal as the lett
 | Pagers, 226 | Shyness," 8 |
 | Palmer, Brian, 184 | Prom King/Queen complex, 6–9, |
 | Parente, Diane, 42, 79 | 23, 26 |
-| Parkinson, C. Northcote, 172 | Psychology Today<br>well- being |
+| Parkinson, C. Northcote, 172 | Psychology Today
+well- being |
 | Patience, 242 | study, 35, 80 |
 | Payoffs, of working a room, | Public speaking, 142–53, |
 | 32–34 | 246–47 |
@@ -4420,7 +4481,8 @@ Only if the group sends one gift. Group thank-yous are as impersonal as the lett
 | room, 34 | research for, 151 |
 ## | | |
 
-| tips, 145-46 | Risk,<br>251 |
+| tips, 145-46 | Risk,
+251 |
 |------------------------------------|------------------------------------|
 | toasts, 148-50 | chutzpah and, 40, 41 |
 | Purpose, clarifying, 28 | risk/reward, 14–16 |
@@ -4435,7 +4497,8 @@ Only if the group sends one gift. Group thank-yous are as impersonal as the lett
 | Raphel, Murray, 180 | proper introductions, 5–6, |
 | Rashol, Tayyad, 80 | 21–23 |
 | Rebuffs, 10 | pushiness vs. waiting, 6–9, |
-| Reception,<br>no- host, 175 | 24–25 |
+| Reception,
+no- host, 175 | 24–25 |
 | Reception lines, 160 | risking rejection, 9–10, 26–27, |
 | Rejection, risking, 9–10, 26–27, | 67 |
 | 67 | self-talk, 11–12, 18 |
@@ -4457,7 +4520,9 @@ Only if the group sends one gift. Group thank-yous are as impersonal as the lett
 | Ricks, David, 164 | San Francisco Chronicle, 127, |
 ## | Ripp, Allan, 225 | 239 |
 
-| Scanning a room, 64–65 | quick-step<br>recovery<br>program, |
+| Scanning a room, 64–65 | quick-step
+recovery
+program, |
 |-----------------------------------|------------------------------------|
 | Scarlett O'Hara syndrome, 5–6 | 72–73 |
 | Scent, 96, 247–48 | situational, 8–9, 71 |
@@ -4476,7 +4541,8 @@ Only if the group sends one gift. Group thank-yous are as impersonal as the lett
 | Self- consciousness, 102 | 122 |
 | Self- disclosures, 111–13 | Skills for Success (Scheele), 24 |
 | Self- esteem, 11 | Sleazy approaches, 63–70 |
-| Self- Importance<br>Syndrome, | Slurs, 135 |
+| Self- Importance
+Syndrome, | Slurs, 135 |
 | 226–27 | Small talk, 12, 88–90, 124 |
 | Self-introduction, 21–23, 83–84 | Smiling, 250 |
 | Self- perception, 11 | Smith, David, 251 |
@@ -4485,7 +4551,8 @@ Only if the group sends one gift. Group thank-yous are as impersonal as the lett
 | Senior citizens, online | Snap judgments, 181–82 |
 | communication and, 46–47 | Sneed, Lori, 239 |
 | Sense of humor, 104 | Snobbery, 71–72 |
-| Seven quick-step shyness recovery | Snobbery (Epstein),<br>72 |
+| Seven quick-step shyness recovery | Snobbery (Epstein),
+72 |
 | program, 72–73 | Soccer, 128 |
 | Sexism, 135 | Social anxiety, xxxiii–xxxiv |
 | Sexual harassment, 10, 27–28 | Sources, citing, 132 |
@@ -4495,7 +4562,71 @@ Only if the group sends one gift. Group thank-yous are as impersonal as the lett
 | as learned response, 8 | Sports news, 127–28 |
 ## | | |
 
-| Touching, 92–96<br>Stanford University, 49<br>Tradeshow Coach, 208<br>Stanley, Thomas, 37<br>Trade shows. See Conventions/<br>Steinem, Gloria, 189<br>trade shows<br>Stewart, Jon, 14<br>Travel, 206, 244–52<br>Strangers, 16–17, 144–46<br>Strauss, William, xxiii<br>airplanes, 247<br>Success, Power and Queenie and<br>common ground, 248–49<br>Another Life (Korda), 89<br>contacts, 245–46<br>public speaking, 246–47<br>Truth or<br>Delusions: Networking in<br>Talking to Yourself (Butler), 11<br>the Real World (Misner),<br>Tannen, Deborah, 28<br>181<br>Teal, Pat, 194<br>Trysts, 215<br>Team building, xxiii<br>Tuesdays with Morrie, 140<br>"Techno friends," 240<br>Technology<br>see also Electronic gadgets<br>Ultimate Guide to Sport Event<br>cell phones, 147–48<br>and Management Marketing<br>misuse of, 154<br>(Goldblatt), 213<br>younger generations and,<br>Vick, Philip, 224<br>151–52<br>Vignettes, 146–47<br>Techno- toys. See Electronic<br>Virtual networks, 56<br>gadgets<br>Virtual rooms. See Online<br>Tele vi sion comedy, 135<br>communication<br>Tele vi sion news, 125<br>Teplick, Lana, 96, 131, 241–42,<br>Visibility marketing, xxxiii<br>248<br>Visual plan, 35<br>Text messaging, 49, 225–26<br>Vowell, Sarah, 134<br>Thank-yous, 59, 164–65<br>Wall Street Journal, 48, 49, 235,<br>Tipping Point, The (Gladwell),<br>248<br>100<br>Ward, Neil, 222<br>Toastmasters, 148<br>Well- being, 35, 80–81<br>Toasts, 148–50<br>What Do I Say Next? (Roane),<br>Today Show, 224<br>Toppel, Lilian, 133<br>88, 125, 129, 200 | Staff training, 209 | Total Recall, 163 |
+| Touching, 92–96
+Stanford University, 49
+Tradeshow Coach, 208
+Stanley, Thomas, 37
+Trade shows. See Conventions/
+Steinem, Gloria, 189
+trade shows
+Stewart, Jon, 14
+Travel, 206, 244–52
+Strangers, 16–17, 144–46
+Strauss, William, xxiii
+airplanes, 247
+Success, Power and Queenie and
+common ground, 248–49
+Another Life (Korda), 89
+contacts, 245–46
+public speaking, 246–47
+Truth or
+Delusions: Networking in
+Talking to Yourself (Butler), 11
+the Real World (Misner),
+Tannen, Deborah, 28
+181
+Teal, Pat, 194
+Trysts, 215
+Team building, xxiii
+Tuesdays with Morrie, 140
+"Techno friends," 240
+Technology
+see also Electronic gadgets
+Ultimate Guide to Sport Event
+cell phones, 147–48
+and Management Marketing
+misuse of, 154
+(Goldblatt), 213
+younger generations and,
+Vick, Philip, 224
+151–52
+Vignettes, 146–47
+Techno- toys. See Electronic
+Virtual networks, 56
+gadgets
+Virtual rooms. See Online
+Tele vi sion comedy, 135
+communication
+Tele vi sion news, 125
+Teplick, Lana, 96, 131, 241–42,
+Visibility marketing, xxxiii
+248
+Visual plan, 35
+Text messaging, 49, 225–26
+Vowell, Sarah, 134
+Thank-yous, 59, 164–65
+Wall Street Journal, 48, 49, 235,
+Tipping Point, The (Gladwell),
+248
+100
+Ward, Neil, 222
+Toastmasters, 148
+Well- being, 35, 80–81
+Toasts, 148–50
+What Do I Say Next? (Roane),
+Today Show, 224
+Toppel, Lilian, 133
+88, 125, 129, 200 | Staff training, 209 | Total Recall, 163 |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
 | | | |
 | | | |

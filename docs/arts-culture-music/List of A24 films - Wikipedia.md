@@ -1,3 +1,8 @@
+---
+title: "## [en.wikipedia.org](https://en.wikipedia.org/wiki/List_of_A24_films)"
+category: "arts-culture-music"
+---
+
 ## [en.wikipedia.org](https://en.wikipedia.org/wiki/List_of_A24_films)
 
 ## **List of A24 films**

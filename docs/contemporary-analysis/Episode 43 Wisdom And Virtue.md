@@ -1,3 +1,8 @@
+---
+title: "**Episode 43: Wisdom And Virtue/**"
+category: "contemporary-analysis"
+---
+
 # **Episode 43: Wisdom And Virtue/**
 
 **Source:** https://www.meaningcrisis.co/ep-43-awakening-from-the-meaning-crisis-wisdom-and-virtue/

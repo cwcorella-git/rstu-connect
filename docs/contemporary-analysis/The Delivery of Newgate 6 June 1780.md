@@ -1,3 +1,8 @@
+---
+title: "**The Delivery of Newgate 6 June 1780**"
+category: "contemporary-analysis"
+---
+
 # **The Delivery of Newgate 6 June 1780**
 
 ## **Date:** Unknown

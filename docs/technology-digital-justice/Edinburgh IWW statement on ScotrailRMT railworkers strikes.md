@@ -1,3 +1,8 @@
+---
+title: "## **Edinburgh IWW statement on Scotrail/RMT railworkers strikes**"
+category: "technology-digital-justice"
+---
+
 ## **Edinburgh IWW statement on Scotrail/RMT railworkers strikes**
 
 ## **Date:** Wed, 06/29/2016 - 18:28

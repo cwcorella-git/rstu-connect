@@ -1,13 +1,8 @@
 ---
-title: 1947 General Strike Ceylon Sri Lanka
-date: 2025
-author: Global Nonviolent Action Database
-tags:
-  - organizing
-  - strikes
-  - unions
-  - police
-  - labor
+title: "1947 General Strike Ceylon Sri Lanka"
+author: "Global Nonviolent Action Database"
+date: "2025"
+category: "labor"
 ---
 
 # 1947 General Strike Ceylon Sri Lanka

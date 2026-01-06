@@ -1,3 +1,8 @@
+---
+title: "## [hackster.io](https://www.hackster.io/news/the-fastest-bot-in-the-east-cc56c33b7809.amp)"
+category: "contemporary-analysis"
+---
+
 ## [hackster.io](https://www.hackster.io/news/the-fastest-bot-in-the-east-cc56c33b7809.amp)
 
 ## **The Fastest Bot in the East**

@@ -1,3 +1,8 @@
+---
+title: "**Eternal Sunshine of the Spotless Mind**"
+category: "contemporary-analysis"
+---
+
 # **Eternal Sunshine of the Spotless Mind**
 
 ## By Charlie Kaufman

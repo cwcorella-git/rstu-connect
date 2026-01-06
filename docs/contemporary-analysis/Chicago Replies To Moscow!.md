@@ -1,3 +1,8 @@
+---
+title: "## **Chicago Replies To Moscow!**"
+category: "contemporary-analysis"
+---
+
 ## **Chicago Replies To Moscow!**
 
 ## **Date:** Unknown

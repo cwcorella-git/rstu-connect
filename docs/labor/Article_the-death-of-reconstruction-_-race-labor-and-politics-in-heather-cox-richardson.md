@@ -1,13 +1,8 @@
 ---
-title: The Death of Reconstruction Race Labor and Politics in Heather Cox Richardson
-date: 2025
-author: Unknown
-tags:
-  - organizing
-  - strikes
-  - unions
-  - tenants
-  - rent
+title: "The Death of Reconstruction Race Labor and Politics in Heather Cox Richardson"
+author: "Unknown"
+date: "2025"
+category: "labor"
 ---
 
 # The Death of Reconstruction Race Labor and Politics in Heather Cox Richardson

@@ -1,3 +1,8 @@
+---
+title: "Impromptu"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 # Impromptu
@@ -61,7 +66,7 @@ Introduction: Moments oo Enlightenment . . . . . . 1
 |------------|----|
 ## |------------|----|
 
-| <b>3.</b> | | |
+| 3. | | |
 |-----------|--|--|
 ## | | | |
 
@@ -108,16 +113,19 @@ Introduction: Moments oo Enlightenment . . . . . . 1
 |------|----|-------|--------|----|
 ## |------|----|-------|--------|----|
 
-| "<br>" | | |
+| "
+" | | |
 |---------------------|-------|--|
-## | (<br>Hallucinations | ) 165 | |
+## | (
+Hallucinations | ) 165 | |
 
 # 9.
 
 | Public Intellectuals 179 | |
 |----------------------------------------------------------|--|
 | 10. Homo Techne 203 | |
-| Conclusion: At the Crossroads o the 21st Century<br>227 | |
+| Conclusion: At the Crossroads o the 21st Century
+227 | |
 | Acknowledgments 239 | |
 ## | | |
 

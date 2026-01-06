@@ -1,3 +1,8 @@
+---
+title: "**PALLASMAA** THE SENSES"
+category: "contemporary-analysis"
+---
+
 # **PALLASMAA** THE SENSES
 
 ## ![](_page_0_Picture_1.jpeg)
@@ -48,7 +53,8 @@ Printed and bound in Great Britain by TJ International, Ltd, Padstow, Cornwall
 
 | FOREWORD | Thin Ice by Steven Holl | 6 |
 |-------------------------------|--------------------------------------------------------------------|-----|
-| INTRODUCTION | Touching the World by<br>Juhani Pallasmaa | 10 |
+| INTRODUCTION | Touching the World by
+Juhani Pallasmaa | 10 |
 | PART ONE | Vision and Knowledge | 18 |
 | | Critics of Ocularcentrism | 22 |
 | | The Narcissistic and Nihilistic Eye | 24 |
@@ -73,7 +79,8 @@ Printed and bound in Great Britain by TJ International, Ltd, Padstow, Cornwall
 | | Spaces of Memory and Imagination | 72 |
 | | An Architecture of the Senses | 75 |
 | | The Task of Architecture | 76 |
-| A DOOR HANDLE,<br>A HANDSHAKE | An introduction to Juhani Pallasmaa and his work by Peter Mac Keith | 78 |
+| A DOOR HANDLE,
+A HANDSHAKE | An introduction to Juhani Pallasmaa and his work by Peter Mac Keith | 78 |
 | NOTES | | 110 |
 | INDEX | | 123 |
 ## | PICTURE CREDIT | S | 127 |
@@ -142,15 +149,15 @@ Since writing The Eyes of the kin just over 15 years ago, have expanded my criti
 
 # PART ONE
 
-'The hands want to see, the eyes want to caress.' *Johann Wolfgang von Goethe*<sup>1</sup>
+'The hands want to see, the eyes want to caress.' *Johann Wolfgang von Goethe*1
 
-'The dancer has his ear in his toes.' Friedrich Nietzsche<sup>2</sup>
+'The dancer has his ear in his toes.' Friedrich Nietzsche2
 
-'If the body had been easier to understand, nobody would have thought that we had a mind.' *Richard Rorty*<sup>3</sup>
+'If the body had been easier to understand, nobody would have thought that we had a mind.' *Richard Rorty*3
 
-'The taste of the apple [...] lies in the contact of the fruit with the palate, not in the fruit itself; in a similar way [...] poetry lies in the meeting of poem and reader, not in the lines of symbols printed on the pages of a book. What is essential is the aesthetic act, the thrill, the almost physical emotion that comes with each reading.' *Jorge Luis Borges*<sup>4</sup>
+'The taste of the apple [...] lies in the contact of the fruit with the palate, not in the fruit itself; in a similar way [...] poetry lies in the meeting of poem and reader, not in the lines of symbols printed on the pages of a book. What is essential is the aesthetic act, the thrill, the almost physical emotion that comes with each reading.' *Jorge Luis Borges*4
 
-'How would the painter or poet express anything other than his encounter with the world?' *Maurice Merleau-Ponty*<sup>5</sup>
+'How would the painter or poet express anything other than his encounter with the world?' *Maurice Merleau-Ponty*5
 
 #### Vision and Knowledge
 
@@ -196,7 +203,7 @@ I believe that many aspects of the pathology of everyday architecture today can 
 
 Friedrich Nietzsche attempted to subvert the authority of ocular thinking in seeming contradiction with the general line of his thought. He criticised the 'eye outside of time and history'18 presumed by many philosophers. He even accused philosophers of a 'treacherous and blind hostility towards the senses'.19 Max Scheler bluntly calls this attitude the 'hatred of the body'.20
 
-he forcefully critical 'anti-ocularcentric' view of Western ocularcentric perception and thinking, which developed in the 20th-century French intellectual tradition, is thoroughly surveyed by Martin Jay in his book Downcast yes: The Denigration of Vision in Twentieth-Century French Thought. <sup>21</sup> he writer traces the development of the modern vision-centred culture through such diverse elds as the invention of the printing press, articial illumination, photography, visual poetry and the new experience of time. On the other hand, he analyses the anti-ocular positions of many of the seminal French writers, such as Henri Bergson, Georges Bataille, Jean-aul Sartre, Maurice Merleau-onty, Jacques Lacan, Louis lthusser, Guy Debord, oland Barthes, Jacques Derrida, Luce Irigaray, Emmanuel Levinas and Jean-François Lyotard.
+he forcefully critical 'anti-ocularcentric' view of Western ocularcentric perception and thinking, which developed in the 20th-century French intellectual tradition, is thoroughly surveyed by Martin Jay in his book Downcast yes: The Denigration of Vision in Twentieth-Century French Thought. 21 he writer traces the development of the modern vision-centred culture through such diverse elds as the invention of the printing press, articial illumination, photography, visual poetry and the new experience of time. On the other hand, he analyses the anti-ocular positions of many of the seminal French writers, such as Henri Bergson, Georges Bataille, Jean-aul Sartre, Maurice Merleau-onty, Jacques Lacan, Louis lthusser, Guy Debord, oland Barthes, Jacques Derrida, Luce Irigaray, Emmanuel Levinas and Jean-François Lyotard.
 
 Sartre was outspokenly hostile to the sense of vision to the point of ocularphobia; his oeuvre has been estimated to contain 7,000 references to 'the look'.22 He was concerned with 'the objectifying look of the other, and the "medusa glance" [which] "petries" everything that it comes in contact with'.23 In his view, space has taken over time in human consciousness as a consequence of ocularcentrism.24 his reversal of the relative signicance accorded to the notions of space and time has important repercussions on our understanding of physical and historical processes.he prevailing concepts of space and time and their interrelations form an essential paradigm for architecture, as Sigfried Giedion established in his seminal ideological history of modern architecture Space, Time and Architecture.
 
@@ -302,7 +309,7 @@ Beyond architecture, contemporary culture at large drifts towards a distancing, 
 
 ## ![](_page_37_Picture_2.jpeg)
 
-# HE CIY OF HE EYE – HE <sup>H</sup>IC CI<sup>Y</sup>
+# HE CIY OF HE EYE – HE HIC CIY
 
 - 7 he contemporary city is the city of the eye, one of distance and exteriority.
  - Le Corbusier's proposed skyline for Buenos ires – a sketch from a lecture given in Buenos ires in 1929.
@@ -374,7 +381,7 @@ We see the depth, the smoothness, the softness, the hardness of objects; Cézann
 
 In developing further Goethe's idea that a work of art must be 'life-enhancing',90 Bernard Berenson suggested that when experiencing an artistic work, we imagine a genuine physical encounter through 'ideated sensations'. he most important of
 
-# HE CI<sup>Y</sup> OF ICIION – HE CIY OF LIENION
+# HE CIY OF ICIION – HE CIY OF LIENION
 
 11 he city of sensory engagement.
 
@@ -731,7 +738,7 @@ Despite this layered heritage, he yes of the Skin was rst envisioned as a singul
 
 ## 86
 
-since engendered two further, related volumes, he hinking and and he mbodied mage. <sup>17</sup> hile you might be drawn towards these essays by this rst reading, the book can nonetheless be read entirely on its own. ntirely on its own … provided you are also willing to enter into the fantastic library of extended references the book both names and suggests, as well as the larger world of artistic works and architectural locations it species and evokes. ndeed, the selected images and extensive endnotes of the book are merely a pale reection of the immense personal library of references from which Pallasmaa draws.
+since engendered two further, related volumes, he hinking and and he mbodied mage. 17 hile you might be drawn towards these essays by this rst reading, the book can nonetheless be read entirely on its own. ntirely on its own … provided you are also willing to enter into the fantastic library of extended references the book both names and suggests, as well as the larger world of artistic works and architectural locations it species and evokes. ndeed, the selected images and extensive endnotes of the book are merely a pale reection of the immense personal library of references from which Pallasmaa draws.
 
 hat library, in fact, is a real space – for many who visit Pallasmaa in his Helsinki oce, it is the central room and the primary place for discussion, entertainment and intellectual and visual references. Pallasmaa is a bibliophile, as so many architects are, and the bookshelves lining the library have now expanded into the entry corridor and as well, into the other oce studio rooms. here is always a stack of newly acquired books on the library's main table, as well as several other stacks set aside as references for ongoing essays and lecture preparation. he cataloguing of the library is a isyphean labour; it was often the introductory task for the newest member of the oce sta and entailed intense discussions as to classication systems. For Pallasmaa, as with homas Jeerson (the intellectual and amateur architect), his library's shelving required a re-conceptualisation of the order of knowledge:
 
@@ -860,7 +867,7 @@ verseas, his Finnish ultural nstitute graces the ue des Écoles, near the orbonn
 
 15 Arrival plaza and astronomical instrument, ranbrook Academy, Bloomfield Hills, ichigan, 1994. Photo: Balthazar orab
 
-<sup>14</sup> Finnish nstitute, Paris, 1991: facade to the ue des coles. Photo: Gérard Dufresne deference to the host country's architectural traditions. And at the ranbrook Academy in ichigan, long allied with Finnish architecture and design, an arrival area for the campus interweaves columns, paving stones, landscape, curving bronze panels, lighting and appeals to the cosmos into the ranbrook fabric.
+14 Finnish nstitute, Paris, 1991: facade to the ue des coles. Photo: Gérard Dufresne deference to the host country's architectural traditions. And at the ranbrook Academy in ichigan, long allied with Finnish architecture and design, an arrival area for the campus interweaves columns, paving stones, landscape, curving bronze panels, lighting and appeals to the cosmos into the ranbrook fabric.
 
 hroughout the work, a belief in the bodily experience of architecture upholds 'the tactile over the visual' and acknowledges as well a metaphysical dimension to the task of building. he emphasis on the totality of design at all scales – through a graceful, sophisticated combination of geometry, materials, craftsmanship and detail – resonates throughout both his thought and work. Architecture is subsumed by a more complete process of design, one in which the tactile experience of space, light and material is balanced against the intellectual ordering of form through geometry and structure. pace and structure are rendered minimally, leaving a eld for the elaboration of material. A certain palpable quality, a subtle eroticism, hovers over many elements. nhabitants and visitors are seduced into such experience by the gift of the designed objects themselves – sensually curved door handles and drawer pulls are oered to the hand and ngers, for example. here is evident pleasure in the crafting of materials both luxurious and simple; a coil of stainless steel, carved blocks of rusted steel, brass handles, layered plywood.
 

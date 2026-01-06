@@ -1,13 +1,8 @@
 ---
-title: >-
-  FEDAO Has Concluded Their Organizing After The Release Of Their Incarcerated
-  Comrades
-date: 2025
-author: the gossip
-tags:
-  - organizing
-  - prisons
-  - anarchism
+title: ">-"
+author: "the gossip"
+date: "2025"
+category: "organizing"
 ---
 
 # Fedao Has Concluded Their Organizing After The Release Of Their Incarcerated Com

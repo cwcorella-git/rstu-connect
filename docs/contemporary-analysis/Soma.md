@@ -1,3 +1,8 @@
+---
+title: "## **G. Ogo, Drica Dejerk**"
+category: "contemporary-analysis"
+---
+
 ## **G. Ogo, Drica Dejerk**
 
 ## **Soma**

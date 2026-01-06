@@ -1,3 +1,8 @@
+---
+title: "I Have No Words & I Must Design: Toward a Critical Vocabulary for Games"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 # I Have No Words & I Must Design: Toward a Critical Vocabulary for Games

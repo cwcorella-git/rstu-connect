@@ -1,3 +1,8 @@
+---
+title: "## **Students, Activists, and Communists in Movement Politics**"
+category: "organizing"
+---
+
 ## **Students, Activists, and Communists in Movement Politics**
 
 ## **Date:** Unknown

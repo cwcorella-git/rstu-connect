@@ -1,3 +1,8 @@
+---
+title: "## **IWW Deliveroo riders strike and blockade in London**"
+category: "contemporary-analysis"
+---
+
 ## **IWW Deliveroo riders strike and blockade in London**
 
 ## **Date:** Unknown

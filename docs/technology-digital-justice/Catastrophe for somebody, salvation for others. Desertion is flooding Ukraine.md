@@ -1,3 +1,8 @@
+---
+title: "## **Catastrophe for somebody, salvation for others. Desertion is flooding Ukraine**"
+category: "technology-digital-justice"
+---
+
 ## **Catastrophe for somebody, salvation for others. Desertion is flooding Ukraine**
 
 ## **Date:** Unknown

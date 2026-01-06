@@ -1,3 +1,8 @@
+---
+title: "## **One organizer's perspective on what drew them to the General Defense Committee**"
+category: "organizing"
+---
+
 ## **One organizer's perspective on what drew them to the General Defense Committee**
 
 ## **Date:** Unknown

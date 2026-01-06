@@ -1,3 +1,7 @@
+---
+title: ""Man, it is hot today.""
+category: "contemporary-analysis"
+---
 
 0:01
 "Man, it is hot today."
@@ -699,4 +703,4 @@ Check out all my other videos for a range of radical topics.
 You can follow me on Twitter @_saintdrew.
 22:22
 Thanks again, peace!
-## 
+##

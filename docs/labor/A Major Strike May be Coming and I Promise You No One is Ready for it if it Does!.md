@@ -1,3 +1,8 @@
+---
+title: "## **A Major Strike May be Coming and I Promise You No One is Ready for it if it Does!**"
+category: "labor"
+---
+
 ## **A Major Strike May be Coming and I Promise You No One is Ready for it if it Does!**
 
 ## **Date:** Thu, 07/14/2022 - 00:00
@@ -26,13 +31,18 @@ Sure, news about expanding Amtrak seems like a good thing, and there are plenty 
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | People freak out about bomb trains ( |
 | understandable |
-| ), and derailments — but how many people pay attention otherwise to the condition of our rail<br>corridors, how much the industry is investing in itself, how much of the national economy<br>depends on rail service, and |
+| ), and derailments — but how many people pay attention otherwise to the condition of our rail
+corridors, how much the industry is investing in itself, how much of the national economy
+depends on rail service, and |
 | the conditions for the people who work for the railroads |
 | ? |
 | Or the public good for that matter? |
 | From Railway Age: |
-| Nearly 100% of Brotherhood of Locomotive Engineers and Trainmen members have voted in<br>support of a nationwide strike, which BLET National President Dennis R. Pierce is calling "a<br>showing of solidarity and unity." |
-| The National Mediation Board (NMB) on June 14 set in motion a 90-day-maximum time clock<br>toward a national railroad shutdown. |
+| Nearly 100% of Brotherhood of Locomotive Engineers and Trainmen members have voted in
+support of a nationwide strike, which BLET National President Dennis R. Pierce is calling "a
+showing of solidarity and unity." |
+| The National Mediation Board (NMB) on June 14 set in motion a 90-day-maximum time clock
+toward a national railroad shutdown. |
 | It released |
 ## | BLET |
 
@@ -221,7 +231,8 @@ Americans became disconnected from railroads. Where once every town of any size 
 | Why America just doesn't get trains anymore. |
 |----------------------------------------------------------------------------------------------------------------------------------------------|
 | ] |
-| In the 1960's and 1970's, railroads were going bankrupt all over the country. The collapse of<br>the |
+| In the 1960's and 1970's, railroads were going bankrupt all over the country. The collapse of
+the |
 | Penn Central |
 | triggered Federal action, leading to the rise of |
 | Conrail |
@@ -229,22 +240,30 @@ Americans became disconnected from railroads. Where once every town of any size 
 | Amtrak |
 | among other things. Railroads were |
 | deregulated |
-| . Surviving railroads went through merger after merger, leaving us with the Big Four<br>mentioned above and an assortment of what are called |
+| . Surviving railroads went through merger after merger, leaving us with the Big Four
+mentioned above and an assortment of what are called |
 | regional railroads |
 | and |
 | short lines |
 
-| Merger mania continues, in an age when. anti-trust concerns do not seem to be a high<br>priority. Railroads look to mergers to increase profits — by eliminating redundancies, among<br>other things — but that in practice translates into cutting rail service that doesn't align with the<br>merged railroad's financial targets. |
+| Merger mania continues, in an age when. anti-trust concerns do not seem to be a high
+priority. Railroads look to mergers to increase profits — by eliminating redundancies, among
+other things — but that in practice translates into cutting rail service that doesn't align with the
+merged railroad's financial targets. |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | All Aboard with Amtrak, or not |
-| And then there's passenger rail. Aside from regional commuter operations, and developments<br>like |
+| And then there's passenger rail. Aside from regional commuter operations, and developments
+like |
 | Brightline |
 | , national passenger rail service comes down to |
 | Amtrak |
 | |
 | Amtrak is an anomaly. |
-| It was cobbled together under the Nixon administration as a response to the collapse of<br>passenger rail. |
-| It was expected to fail — but didn't. It lurches along in a kind of limbo. Republicans hate the<br>idea of government running trains. Amtrak has no guaranteed source of funding, so its<br>fortunes hang on political will. |
+| It was cobbled together under the Nixon administration as a response to the collapse of
+passenger rail. |
+| It was expected to fail — but didn't. It lurches along in a kind of limbo. Republicans hate the
+idea of government running trains. Amtrak has no guaranteed source of funding, so its
+fortunes hang on political will. |
 
 .
 
@@ -271,7 +290,10 @@ Amtrak service along the Gulf Coast between Florida and New Orleans was severed 
 | the Washington Post: |
 | At the core of the conflict is a |
 | mandate |
-| that requires freight railroads to give passenger trains access to rail track and preference over<br>other rail traffic. A federal board is weighing the fate of Gulf Coast passenger service in a<br>triallike process pitting Amtrak against freight railroads. Because Amtrak operates mostly on<br>tracks owned by others, the case could set precedent |
+| that requires freight railroads to give passenger trains access to rail track and preference over
+other rail traffic. A federal board is weighing the fate of Gulf Coast passenger service in a
+triallike process pitting Amtrak against freight railroads. Because Amtrak operates mostly on
+tracks owned by others, the case could set precedent |
 
 as the passenger railroad embarks on a \$75 billion expansion with bipartisan support.
 
@@ -369,9 +391,11 @@ here's a link to a pdf file
 
 | that contains some fascinating presentations. |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| If you are interested in finding out more about the rail industry from the standpoint of workers,<br>check out |
+| If you are interested in finding out more about the rail industry from the standpoint of workers,
+check out |
 | Railroad Workers United |
-| , a group open to anyone regardless of craft; you don't necessarily have to work for a railroad<br>to join. It's one way to stay on top of what's happening on the labor side of the industry. |
+| , a group open to anyone regardless of craft; you don't necessarily have to work for a railroad
+to join. It's one way to stay on top of what's happening on the labor side of the industry. |
 ## | Disclaimer: |
 
 The views expressed here are not the official position of the IWW (or even the IWW's EUC)

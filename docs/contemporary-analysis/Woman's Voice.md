@@ -1,3 +1,8 @@
+---
+title: "## **Woman's Voice**"
+category: "contemporary-analysis"
+---
+
 ## **Woman's Voice**
 
 ## **Date:** Unknown

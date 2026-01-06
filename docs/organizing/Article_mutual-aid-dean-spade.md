@@ -1,13 +1,8 @@
 ---
-title: Mutual Aid Dean Spade
-date: 2025
-author: Unknown
-tags:
-  - organizing
-  - strikes
-  - unions
-  - tenants
-  - housing
+title: "Mutual Aid Dean Spade"
+author: "Unknown"
+date: "2025"
+category: "organizing"
 ---
 
 # Mutual Aid Dean Spade
@@ -3400,8 +3395,7 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
              Resource List
                This book expands upon the author’s previous writing and worksheets
              published in Social Text and Medium. A teaching guide to accompany this
-             book is available online at <http://v.versobooks.com/
-             Mutual_Aid_Teaching_Guide.pdf> Below are more resources, some cited in
+             book is available online at  Below are more resources, some cited in
              this book.
              Barnard Center for Research on Women. “Queer Dreams and Nonproﬁt Blues”
               video series. bcrw.barnard.edu.

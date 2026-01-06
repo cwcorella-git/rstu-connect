@@ -1,3 +1,8 @@
+---
+title: "## **Evolution and Revolution**"
+category: "contemporary-analysis"
+---
+
 ## **Evolution and Revolution**
 
 ## Elisée Reclus

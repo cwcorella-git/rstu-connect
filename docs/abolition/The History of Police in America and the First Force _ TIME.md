@@ -1,16 +1,10 @@
 ---
-title: The History Of Police In America And The First Force   Time
-slug: The History of Police in America and the First Force _ TIME
-reconversion_status: ready_for_reconversion
-date: 1838
-author: Unknown
-tags:
-  - abolition
-  - police
-  - strikes
-  - unions
-  - rent
+title: "The History Of Police In America And The First Force   Time"
+author: "Unknown"
+date: "1838"
+category: "abolition"
 ---
+
 ## [time.com](https://time.com/4779112/police-history-origins/)
 
 ## **How the U. S. Got Its Police Force**

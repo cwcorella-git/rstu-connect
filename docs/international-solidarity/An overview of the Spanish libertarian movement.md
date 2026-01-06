@@ -1,3 +1,8 @@
+---
+title: "## **An overview of the Spanish libertarian movement**"
+category: "international-solidarity"
+---
+
 ## **An overview of the Spanish libertarian movement**
 
 ## **Date:** Unknown

@@ -1,3 +1,8 @@
+---
+title: "## Te Haymarket Martyrs"
+category: "arts-culture-music"
+---
+
 ## Te Haymarket Martyrs
 
 ## Lucy E. Parsons

@@ -1,3 +1,8 @@
+---
+title: "## **Class War 16/2024: Proletarian revolt in Kenya – Against all bourgeois falsifications!**"
+category: "technology-digital-justice"
+---
+
 ## **Class War 16/2024: Proletarian revolt in Kenya – Against all bourgeois falsifications!**
 
 ## **Date:** Unknown

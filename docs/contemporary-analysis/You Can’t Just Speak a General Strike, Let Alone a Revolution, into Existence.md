@@ -1,3 +1,8 @@
+---
+title: "## **You Can't Just Speak a General Strike, Let Alone a Revolution, into Existence**"
+category: "contemporary-analysis"
+---
+
 ## **You Can't Just Speak a General Strike, Let Alone a Revolution, into Existence**
 
 ## **Date:** Wed, 07/30/2025 - 00:00

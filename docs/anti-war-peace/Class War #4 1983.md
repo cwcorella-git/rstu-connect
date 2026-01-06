@@ -1,3 +1,8 @@
+---
+title: "## **Class War #4 1983**"
+category: "anti-war-peace"
+---
+
 ## **Class War #4 1983**
 
 ## **Date:** Unknown

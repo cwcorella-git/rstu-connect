@@ -1,3 +1,8 @@
+---
+title: "FREE EBOOK 100 GAME DESIGN TIPS & TRICKS"
+category: "contemporary-analysis"
+---
+
 # FREE EBOOK 100 GAME DESIGN TIPS & TRICKS
 
 ## ![](_page_0_Picture_1.jpeg)
@@ -33,13 +38,13 @@ Some screenshots used in this book are copyrighted material the use of which has
 
 Hey! My name is Wlad Marhulets, and I'm the developer of DARQ. I wanted to share with you some tips & tricks about game design I've learned over the years while working on my first game (which to my surprise became #42 most shared PC Video Game of 2019, according to Metacritic). Some of these lessons were learned by making countless mistakes, others from GDC talks, youtube videos, fellow developers, and articles. I did my best to link to sources if I managed to find them or remember them. Some tips are genre specific. Others contradict one another. It's up to you to use them or not. Ultimately, breaking rules is the prerequisite to innovation. My hope is that this little book helps you make better decisions when designing your game!
 
-If you're looking for advice, feedback, or guidance on your gamedev journey, feel free to reach out to me on Twitter (<u>@Unfold Games</u>).
+If you're looking for advice, feedback, or guidance on your gamedev journey, feel free to reach out to me on Twitter (@Unfold Games).
 
 Let's go!
 
 # 1. Give the Player Clear Goals.
 
-Without clear goals, players won't know what to do in your game and as a result, won't feel engaged. In this <u>Unite 2016 talk</u>, Curtiss Murphy talks about 3 kinds of goals:
+Without clear goals, players won't know what to do in your game and as a result, won't feel engaged. In this Unite 2016 talk, Curtiss Murphy talks about 3 kinds of goals:
 
 - 1. **Explicit Goals**: goals communicated to the player by the game itself. For example: "new objective, get from point A to point B."
 - 2. **Implicit Goals**: goals that are implied by the game, but not communicated directly. For example: don't die. Win the battle. Solve a puzzle.
@@ -202,7 +207,7 @@ Immediate attack animations feel very responsive.
 
 When designing your game, think of people with various impairments. Unless you consider certain design guidelines, they won't be able to enjoy your creation. Thankfully, implementing most accessibility features is not that difficult.
 
-<u>Game Accessibility Guidelines.com</u> has a comprehensive list of guidelines that will allow people with motor, cognitive, vision, hearing, and other impairments to enjoy your game.
+Game Accessibility Guidelines.com has a comprehensive list of guidelines that will allow people with motor, cognitive, vision, hearing, and other impairments to enjoy your game.
 
 ## ![](_page_20_Picture_1.jpeg)
 
@@ -444,7 +449,7 @@ They still look distinct and recognizable.
 
 #### 49. Make Your Character Stand Out
 
-It's important to make your character stand out from the rest of the scene. In my own game, <u>DARQ</u>, I chose to make the protagonist receive more light than other objects. It allows him to stand out, no matter how dark the environment is. There are also other ways you can make your protagonist stand out from the background. Making the character wear a piece of clothing that is colored differently than the rest of the world would do the trick too.
+It's important to make your character stand out from the rest of the scene. In my own game, DARQ, I chose to make the protagonist receive more light than other objects. It allows him to stand out, no matter how dark the environment is. There are also other ways you can make your protagonist stand out from the background. Making the character wear a piece of clothing that is colored differently than the rest of the world would do the trick too.
 
 ## ![](_page_42_Picture_3.jpeg)
 
@@ -945,15 +950,15 @@ If you want to check out the book (paperback & e Book), you can get it here:
 
 - United States (Amazon.com)
 - Canada (Amazon.ca)
-- <u>United Kingdom</u> (Amazon.co.uk)
+- United Kingdom (Amazon.co.uk)
 - Germany and Eastern Europe (Amazon.de)
 - France (Amazon.fr)
 - Spain (Amazon.es)
 - Italy (Amazon.it)
 - Netherlands (Amazon.nl)
-- <u>Australia</u> (Amazon.au)
+- Australia (Amazon.au)
 - India (Amazon.in)
-- <u>Japan</u> (Amazon.co.jp)
+- Japan (Amazon.co.jp)
 - Brazil (Amazon.com.br)
 - Mexico (Amazon.mx)
 

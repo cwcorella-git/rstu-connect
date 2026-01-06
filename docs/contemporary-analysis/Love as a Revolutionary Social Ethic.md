@@ -1,3 +1,8 @@
+---
+title: "**Punch Up \* Kick Down Distro Love as a Revolutionary Social Ethic**"
+category: "contemporary-analysis"
+---
+
 # **Punch Up \* Kick Down Distro Love as a Revolutionary Social Ethic**
 
 # **2024**
@@ -167,56 +172,58 @@ No matter what shape they take, relationships need honesty and trust and love. I
 
 [1] bell hooks – "All About Love"
 ## 
-[<sup>\[2\]</sup>](#page-1-0) Gabor Maté – "The Myth of Normal"
+[\[2\]](#page-1-0) Gabor Maté – "The Myth of Normal"
 
-[<sup>\[3\]</sup>](#page-1-1) Sándor Ferenczi quoted in "Coming to Our Senses"
+[\[3\]](#page-1-1) Sándor Ferenczi quoted in "Coming to Our Senses"
 
-[<sup>\[4\]</sup>](#page-2-0) Richard Gilman-Opalsky – "The Communism of Love"
+[\[4\]](#page-2-0) Richard Gilman-Opalsky – "The Communism of Love"
 
-[<sup>\[4\]</sup>](#page-2-0) Richard Gilman-Opalsky – "The Communism of Love"
+[\[4\]](#page-2-0) Richard Gilman-Opalsky – "The Communism of Love"
 
-[<sup>\[4\]</sup>](#page-2-0) Richard Gilman-Opalsky – "The Communism of Love"
+[\[4\]](#page-2-0) Richard Gilman-Opalsky – "The Communism of Love"
 
-[<sup>\[5\]</sup>](#page-4-1) Valerie Solanas — Quoted in "The Communism of Love"
+[\[5\]](#page-4-1) Valerie Solanas — Quoted in "The Communism of Love"
 
-[<sup>\[6\]</sup>](#page-4-2) "Kill the Couple in Your Head" Zine
+[\[6\]](#page-4-2) "Kill the Couple in Your Head" Zine
 
-[<sup>\[6\]</sup>](#page-4-2) "Kill the Couple in Your Head" Zine
+[\[6\]](#page-4-2) "Kill the Couple in Your Head" Zine
 
-[<sup>\[7\]</sup>](#page-12-1) "Anarchy & Polyamory" – Active Distribution Dysophia 1
+[\[7\]](#page-12-1) "Anarchy & Polyamory" – Active Distribution Dysophia 1
 
-[<sup>\[7\]</sup>](#page-12-1) "Anarchy & Polyamory" – Active Distribution Dysophia 1
+[\[7\]](#page-12-1) "Anarchy & Polyamory" – Active Distribution Dysophia 1
 
-[<sup>\[8\]</sup>](#page-8-0) Llama Rod Owens – "Radical Dharma"
+[\[8\]](#page-8-0) Llama Rod Owens – "Radical Dharma"
 
-[<sup>\[8\]</sup>](#page-8-0) Llama Rod Owens – "Radical Dharma"
+[\[8\]](#page-8-0) Llama Rod Owens – "Radical Dharma"
 
-[<sup>\[8\]</sup>](#page-8-0) Llama Rod Owens – "Radical Dharma"
+[\[8\]](#page-8-0) Llama Rod Owens – "Radical Dharma"
 
-[<sup>\[9\]</sup>](#page-5-0) Derecka Purnell – "Becoming Abolitionists"
+[\[9\]](#page-5-0) Derecka Purnell – "Becoming Abolitionists"
 
-[<sup>\[11\]</sup>](#page-10-0) Mariame Kaba & Kelly E. Hayes – "Let This Radicalize You"
+[\[11\]](#page-10-0) Mariame Kaba & Kelly E. Hayes – "Let This Radicalize You"
 
-[<sup>\[11\]</sup>](#page-10-0) Mariame Kaba & Kelly E. Hayes – "Let This Radicalize You"
+[\[11\]](#page-10-0) Mariame Kaba & Kelly E. Hayes – "Let This Radicalize You"
 
-[<sup>\[11\]</sup>](#page-10-0) Mariame Kaba & Kelly E. Hayes – "Let This Radicalize You"
+[\[11\]](#page-10-0) Mariame Kaba & Kelly E. Hayes – "Let This Radicalize You"
 
-[<sup>\[12\]</sup>](#page-8-1) Joel Kovel – "The Enemy of Nature"
+[\[12\]](#page-8-1) Joel Kovel – "The Enemy of Nature"
 
-[<sup>\[13\]</sup>](#page-9-1) David R. Loy – "Eco Dharma"
+[\[13\]](#page-9-1) David R. Loy – "Eco Dharma"
 
-[<sup>\[14\]</sup>](#page-9-2) Adrienne Maree Brown – "Emergent Strategy"
+[\[14\]](#page-9-2) Adrienne Maree Brown – "Emergent Strategy"
 
-[<sup>\[15\]</sup>](#page-10-1) Silvia Federici – "Reenchanting the World"
+[\[15\]](#page-10-1) Silvia Federici – "Reenchanting the World"
 
-[<sup>\[15\]</sup>](#page-10-1) Silvia Federici – "Reenchanting the World"
+[\[15\]](#page-10-1) Silvia Federici – "Reenchanting the World"
 
-[<sup>\[16\]</sup>](#page-10-2) David Camfield – "Future on Fire"
+[\[16\]](#page-10-2) David Camfield – "Future on Fire"
 
-[<sup>\[17\]</sup>](#page-11-1) Tim De Christopher quoted in "I Want a Better Catastrophe"
+[\[17\]](#page-11-1) Tim De Christopher quoted in "I Want a Better Catastrophe"
 
-[<sup>\[18\]</sup>](#page-13-17) Richard Gilman–Opalsky – "Imaginary Power, Real Horizons"
+[\[18\]](#page-13-17) Richard Gilman–Opalsky – "Imaginary Power, Real Horizons"
 
 [\[19\]](#page-2-1) Bell hooks – "Feminism is for Everybody"
 
-[<punchupkickdowndistro.bandcamp.com/album/love-as-a-revolutionary](https://punchupkickdowndistro.bandcamp.com/album/love-as-a-revolutionary-social-ethic)[social-ethic>](https://punchupkickdowndistro.bandcamp.com/album/love-as-a-revolutionary-social-ethic)
+[
+
+](https://punchupkickdowndistro.bandcamp.com/album/love-as-a-revolutionary-social-ethic)

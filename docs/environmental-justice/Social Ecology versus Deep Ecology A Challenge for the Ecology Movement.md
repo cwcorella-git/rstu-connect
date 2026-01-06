@@ -1,3 +1,8 @@
+---
+title: "**Social Ecology versus Deep Ecology: A Challenge for the Ecology Movement**"
+category: "environmental-justice"
+---
+
 # **Social Ecology versus Deep Ecology: A Challenge for the Ecology Movement**
 
 ## **Date:** Unknown

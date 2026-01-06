@@ -1,3 +1,8 @@
+---
+title: "## **Montague "Monty" Miller - 1831 -1920**"
+category: "contemporary-analysis"
+---
+
 ## **Montague "Monty" Miller - 1831 -1920**
 
 ## **Date:** Unknown

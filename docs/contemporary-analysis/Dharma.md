@@ -1,3 +1,8 @@
+---
+title: "*Dharma*"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 # *Dharma*
@@ -18,15 +23,15 @@ In the [Rigveda](https://en.wikipedia.org/wiki/Rigveda), the word appears as an 
 
 The [Prakrit](https://en.wikipedia.org/wiki/Prakrit) word "*dha*ṃ*-ma*"/ [\(Sanskrit:](https://en.wikipedia.org/wiki/Sanskrit) Dharma [धर्म](https://en.wiktionary.org/wiki/%E0%A4%A7%E0%A4%B0%E0%A5%8D%E0%A4%AE#Sanskrit)) in the [Brahmi](https://en.wikipedia.org/wiki/Brahmi_script) [script,](https://en.wikipedia.org/wiki/Brahmi_script) as inscribed by Emperor [Ashoka](https://en.wikipedia.org/wiki/Ashoka) in his Edicts of [Ashoka](https://en.wikipedia.org/wiki/Edicts_of_Ashoka) (3rd century BCE)
 
-In <u>Classical Sanskrit</u>, and in the <u>Vedic Sanskrit</u> of the <u>Atharvaveda</u>, the stem is thematic: <u>dhárma-(Devanagari: धर्म)</u>. In <u>Prakrit</u> and <u>Pali</u>, it is rendered <u>dhamma</u>. In some <u>contemporary Indian languages</u> and dialects it alternatively occurs as <u>dharm</u>.
+In Classical Sanskrit, and in the Vedic Sanskrit of the Atharvaveda, the stem is thematic: dhárma-(Devanagari: धर्म). In Prakrit and Pali, it is rendered dhamma. In some contemporary Indian languages and dialects it alternatively occurs as dharm.
 
 In the 3rd century BCE the Mauryan Emperor Ashoka translated dharma into Greek and Aramaic and he used the Greek word eusebeia (εὐσέβεια, piety, spiritual maturity, or godliness) in the Kandahar Bilingual Rock Inscription and the Kandahar Greek Edicts. [7] In the former, he used the Aramaic word קשיטא (qšy ṭ'; truth, rectitude). [8]
 
 ### **Definition**
 
-Dharma is a concept of central importance in <u>Indian</u> philosophy and <u>Indian</u> religions. [15] It has multiple meanings in <u>Hinduism</u>, <u>Buddhism</u>, <u>Sikhism</u> and <u>Jainism</u>. [16] It is difficult to provide a single concise definition for *dharma*, as the word has a long and varied history and straddles a complex set of meanings and interpretations. [17] There is no equivalent single-word synonym for *dharma* in western languages. [18]
+Dharma is a concept of central importance in Indian philosophy and Indian religions. [15] It has multiple meanings in Hinduism, Buddhism, Sikhism and Jainism. [16] It is difficult to provide a single concise definition for *dharma*, as the word has a long and varied history and straddles a complex set of meanings and interpretations. [17] There is no equivalent single-word synonym for *dharma* in western languages. [18]
 
-There have been numerous, conflicting attempts to translate ancient Sanskrit literature with the word *dharma* into <u>German</u>, English and French. The concept, claims Paul Horsch, has caused exceptional difficulties for modern commentators and translators. [19] For example, while Grassmann's translation of Rig-Veda identifies seven different meanings of dharma, [20] <u>Karl Friedrich Geldner</u> in his translation of the Rig-Veda employs 20 different translations for dharma, including meanings such as "law", "justice", "righteousness", "order", "duty", "custom", "quality", and "model", among others. [19] However, the word *dharma* has become a widely accepted loanword in English, and is included in all modern unabridged English dictionaries.
+There have been numerous, conflicting attempts to translate ancient Sanskrit literature with the word *dharma* into German, English and French. The concept, claims Paul Horsch, has caused exceptional difficulties for modern commentators and translators. [19] For example, while Grassmann's translation of Rig-Veda identifies seven different meanings of dharma, [20] Karl Friedrich Geldner in his translation of the Rig-Veda employs 20 different translations for dharma, including meanings such as "law", "justice", "righteousness", "order", "duty", "custom", "quality", and "model", among others. [19] However, the word *dharma* has become a widely accepted loanword in English, and is included in all modern unabridged English dictionaries.
 
 The term *dharma* derives from the Sanskrit root "dhr", which means "to support, hold, or bear". It is the thing that regulates the course of change by not participating in change, but that principle which remains constant. [21] *Monier-Williams Sanskrit-English Dictionary*, the widely
 
@@ -453,4 +458,4 @@ The wheel in the centre of India's flag symbolises Ashoka's dhamma.
 - [Buddhism A–Z: "D" Entries \(http://online.sfsu.edu/rone/Buddhism/Buddhism/Buddhist Dict/B](http://online.sfsu.edu/rone/Buddhism/Buddhism/Buddhist Dict/BDD.html) [DD.html\)](http://online.sfsu.edu/rone/Buddhism/Buddhism/Buddhist Dict/BDD.html) [Archived \(https://web.archive.org/web/20121228223257/http://online.sfsu.edu/ron](https://web.archive.org/web/20121228223257/http://online.sfsu.edu/rone/Buddhism/Buddhism/Buddhist Dict/BDD.html) [e/Buddhism/Buddhism/Buddhist Dict/BDD.html\)](https://web.archive.org/web/20121228223257/http://online.sfsu.edu/rone/Buddhism/Buddhism/Buddhist Dict/BDD.html) 2012-12-28 at the [Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine)
 - [Rajiv Malhotra,](https://en.wikipedia.org/wiki/Rajiv_Malhotra) [Dharma Is Not The Same As Religion \(http://www.huffingtonpost.com/rajiv-m](http://www.huffingtonpost.com/rajiv-malhotra/dharma-religion_b_875314.html) [alhotra/dharma-religion\\_b\\_875314.html\)](http://www.huffingtonpost.com/rajiv-malhotra/dharma-religion_b_875314.html) (huffingtonpost.com)
 
-Retrieved from "<https://en.wikipedia.org/w/index.php?title=Dharma&oldid=1322884894>"
+Retrieved from ""

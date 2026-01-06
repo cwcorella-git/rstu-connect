@@ -1,3 +1,8 @@
+---
+title: "**DEFUND THE POLICE**"
+category: "international-solidarity"
+---
+
 ## An International Insurrection
 
 ## Chris Cunneen
@@ -60,7 +65,8 @@ Printed and bound in Great Britain by CPI Group (UK) Ltd,
 | | The New Police | 22 |
 | | Policing in colonial settings | 25 |
 | | Settler colonialism and policing First Nations | 29 |
-| | Policing from slavery to Jim<br>Crow | 32 |
+| | Policing from slavery to Jim
+Crow | 32 |
 | | Imperialism, policing, and counter insurgency | 34 |
 | | The nature of colonial policing | 37 |
 | | Conclusion | 39 |
@@ -84,20 +90,48 @@ Printed and bound in Great Britain by CPI Group (UK) Ltd,
 | | Aboriginal deaths in custody: Australia | 76 |
 | | Penal abolition and mass imprisonment: North America | 80 |
 | | Zero tolerance policing: reasserting the legitimacy of | 82 |
-| | state violence<br>Conclusion | 85 |
+| | state violence
+Conclusion | 85 |
 | 5 | Police violence is the pandemic | 87 |
 | | Police killings and deaths in police custody | 88 |
-| | Deaths<br>arising from police interventions for minor offences | 97 |
+| | Deaths
+arising from police interventions for minor offences | 97 |
 | | The violence of neglect | 99 |
 | | Violent responses and use of force | 101 |
 | | Racial profiling and the use of stop and search | 103 |
 | | On protests, 'kettling', and police militarisation | 105 |
 | | Conclusion | 109 |
-| 6 | The<br>protection<br>racket | 111 |
-| | How<br>policing<br>became<br>the<br>answer<br>to<br>violence<br>against<br>women | 112 |
-| | Why<br>is<br>policing<br>problematic? | 115 |
-| | Police<br>violence<br>against<br>women | 118 |
-| | Missing<br>and<br>murdered<br>First<br>Nations,<br>Black,<br>and<br>marginalised<br>women<br>and<br>children | 122 |
+| 6 | The
+protection
+racket | 111 |
+| | How
+policing
+became
+the
+answer
+to
+violence
+against
+women | 112 |
+| | Why
+is
+policing
+problematic? | 115 |
+| | Police
+violence
+against
+women | 118 |
+| | Missing
+and
+murdered
+First
+Nations,
+Black,
+and
+marginalised
+women
+and
+children | 122 |
 | | Conclusion | 126 |
 | 7 | Disabling policing, protecting community health | 130 |
 | | Policing dis/ ability: not a new, but a resurgent problem | 133 |
@@ -105,7 +139,9 @@ Printed and bound in Great Britain by CPI Group (UK) Ltd,
 | | The great misnomer: police welfare checks | 143 |
 | | Conclusion | 144 |
 | 8 | The failure of reform | 147 |
-| | The forlorn hope of police inquiries and the liberal<br>reform<br>agenda | 148 |
+| | The forlorn hope of police inquiries and the liberal
+reform
+agenda | 148 |
 | | Diversity | 152 |
 | | Training | 154 |
 | | Technologies and techniques | 158 |
@@ -1304,116 +1340,116 @@ For many, the longer- term vision is the demise of police power and a horizon wh
 ## **Chapter 1**
 
 - Throughout this book, police and policing are used interchangeably with law enforcement ocials and law enforcement. Following the UN Code of Conduct for Law Enforcement Ocials, the denition includes ocials who are exercising police powers, especially arrest or detention. This can include border control, specialist squads, and other security forces, including the military, where they are exercising police powers in a domestic setting. It can include other seemingly anomalous groups such as Forestry and other Land Management ocials who engage in policing roles, and in countries such as India have been widely implicated in torture and murder.
-- <sup>2</sup> Vitale, 2017; Maher, 2021.
+- 2 Vitale, 2017; Maher, 2021.
 - See www.change then ypd.org/ nycbu dget just ice; www.peop lesb udge tla.com/ people sbud get/
-- <sup>4</sup> Millie, 2014; Fleetwood and Lea, 2020.
-- <sup>5</sup> M4BL, 2020: 4. The Movement for Black Lives is a coalition of more than 50 organisations, and includes the Black Lives Matter Network established by Patrisse Cullors, Alicia Garza, and Opal Tometi in 2013. There are multiple organisations within the broader social movement.
+- 4 Millie, 2014; Fleetwood and Lea, 2020.
+- 5 M4BL, 2020: 4. The Movement for Black Lives is a coalition of more than 50 organisations, and includes the Black Lives Matter Network established by Patrisse Cullors, Alicia Garza, and Opal Tometi in 2013. There are multiple organisations within the broader social movement.
 - Cited in Kushner, 2019.
-- <sup>7</sup> Kaba, 2021.
+- 7 Kaba, 2021.
 - See www.aljaze era.com/ news/ 2020/ 5/ 31/ mapp ing- us- pol ice- killi ngs- ofblack- americ ans
 - 9 Cited in Heatherton, 2016: 36.
-- <sup>10</sup> Independent Police Investigative Directorate, 2021: 38.
-- <sup>11</sup> Amnesty International, 2020. On the judicial inquiry see www.edit ion. cnn.com/ 2021/ 11/ 15/ afr ica/ lekki- tollg ate- judic ial- panel- rep ort- intl/ index.html
-- <sup>12</sup> Human Rights Watch (2020a) noted that at least six people died from police violence in rst 10 days of the curfew in Kenya, and the Nigerian National Human Rights Commission (2020) found there were 18 extra- judicial killings by law enforcement agencies in the rst 2 weeks of the lockdown in Nigeria.
-- <sup>13</sup> Human Rights Watch, 2021: 390.
-- <sup>14</sup> Human Rights Watch, 2020a. 'Nigerian forces re on protesters', *New York Times*, 20 October 2020; 'George Floyd's killing prompts Africans to call for police reform at home', *New York Times*, 8 July, 2020.
+- 10 Independent Police Investigative Directorate, 2021: 38.
+- 11 Amnesty International, 2020. On the judicial inquiry see www.edit ion. cnn.com/ 2021/ 11/ 15/ afr ica/ lekki- tollg ate- judic ial- panel- rep ort- intl/ index.html
+- 12 Human Rights Watch (2020a) noted that at least six people died from police violence in rst 10 days of the curfew in Kenya, and the Nigerian National Human Rights Commission (2020) found there were 18 extra- judicial killings by law enforcement agencies in the rst 2 weeks of the lockdown in Nigeria.
+- 13 Human Rights Watch, 2021: 390.
+- 14 Human Rights Watch, 2020a. 'Nigerian forces re on protesters', *New York Times*, 20 October 2020; 'George Floyd's killing prompts Africans to call for police reform at home', *New York Times*, 8 July, 2020.
 
 #### Defund the Police
 
-- <sup>15</sup> Aborisade and Gbahabo, 2021; Onuoha et al, 2021.
+- 15 Aborisade and Gbahabo, 2021; Onuoha et al, 2021.
 - 16 See www.amne sty.org/ en/ lat est/ news/ 2021/ 08/ indone sia- pap uan- pro test ers- shot- bea ten- and-racially- abu sed- by- secur ity- for ces- new- resea rch/; www.ase anto day.com/ 2020/ 06/ southe ast- asia- on- the- black- lives- mat terprote sts- how- they- cove red- it/ ; www.bbc.com/ news/ world- asia- 50236 481; www.scmp.com/ week- asia/ polit ics/ arti cle/ 3087 204/ geo rge- oyd- kill ing- stirs- asian- feeli ngs- regi ons- own- rac ial; www.the jaka rtap ost.com/ news/ 2020/ 06/ 04/ papuan live smat ter- geo rge- o yds- death- hits- close- to- home- inindone sia.html
-- <sup>17</sup> Mahtani, 2020.
-- <sup>18</sup> Human Rights Watch, 2016a: 1– 2; National Human Rights Commission, 2018: 44; National Campaign Against Torture, 2020: 6.
-- <sup>19</sup> Kalhan et al, 2020. Historian Ramachandran Guha described the impact on migrant workers as the 'greatest manmade tragedy' in India since the Partition, *The Hindu*, 24 May, 2020, and this was prior to the devastation caused by the pandemic after April 2021.
-- <sup>20</sup> Ravi, 2020.
-- <sup>21</sup> Human Rights Watch, 2021: 319. In West Bengal, police allegedly beat a 32- year- old man to death after he stepped out of his home to buy milk. Human Rights Watch, 2021: 318.
-- <sup>22</sup> https:// www.amer icam agaz ine.org/ polit ics- soci ety/ 2020/ 06/ 22/ blacklives- mat ter- movem ent- latin- amer ica- prote sts] Human Rights Watch, 2021: 452– 5.
+- 17 Mahtani, 2020.
+- 18 Human Rights Watch, 2016a: 1– 2; National Human Rights Commission, 2018: 44; National Campaign Against Torture, 2020: 6.
+- 19 Kalhan et al, 2020. Historian Ramachandran Guha described the impact on migrant workers as the 'greatest manmade tragedy' in India since the Partition, *The Hindu*, 24 May, 2020, and this was prior to the devastation caused by the pandemic after April 2021.
+- 20 Ravi, 2020.
+- 21 Human Rights Watch, 2021: 319. In West Bengal, police allegedly beat a 32- year- old man to death after he stepped out of his home to buy milk. Human Rights Watch, 2021: 318.
+- 22 https:// www.amer icam agaz ine.org/ polit ics- soci ety/ 2020/ 06/ 22/ blacklives- mat ter- movem ent- latin- amer ica- prote sts] Human Rights Watch, 2021: 452– 5.
 - 23 See www.bbc.com/ news/ world- latin- amer ica- 53484 698; www.nyti mes. com/ 2020/ 06/ 29/ opin ion/ latin- amer ica- rac ism- pol ice.html
-- <sup>24</sup> BBC (2021); Dickinson, 2021.
+- 24 BBC (2021); Dickinson, 2021.
 - 25 See https:// newsi nter acti ves.cbc.ca/ longf orm- cus tom/ dea dly- force
 - 26 See www.theg lobe andm ail.com/ can ada/ arti cle- more- than- one- third- of- peo ple- shot- to- death- over- a- dec ade- by- rcmp/
 - 27 See www.thec onve rsat ion.com/ black- lives- mat ter- outr age- must- drive- pol ice- ref orm- in- aotea roa- new- seal and- too- 139 965
 - 28 See www.thec onve rsat ion.com/ desp ite- 432- ind igen ous- dea ths- in- cust ody- since- 1991- no- one- has- ever- been- convic ted- rac ist- sile nce- and- com plic ity- are- to- blame- 139 873
-- <sup>29</sup> Bobin, forthcoming. See also www.franc e24.com/ en/ 20200 613- pro test ers- gat her- in- paris- for- fresh- march- agai nst- rac ism- and- pol ice- brutal ity.
-- <sup>30</sup> Elliott- Cooper, 2021: 4– 5. www.theg uard ian.com/ us- news/ 2020/ jun/ 06/ now- is- the- time- lond ons- black- lives- mat ter- rally- looks- like- a- turn ing- point.
+- 29 Bobin, forthcoming. See also www.franc e24.com/ en/ 20200 613- pro test ers- gat her- in- paris- for- fresh- march- agai nst- rac ism- and- pol ice- brutal ity.
+- 30 Elliott- Cooper, 2021: 4– 5. www.theg uard ian.com/ us- news/ 2020/ jun/ 06/ now- is- the- time- lond ons- black- lives- mat ter- rally- looks- like- a- turn ing- point.
 - 31 See Thompson (2021a) on the protests in Germany, France, and Switzerland, and racialised policing more generally; also www.time.com/ 5851 165/ germ any- anti- rac ism- prote sts/
-- <sup>32</sup> Petre, 2021: n.p.
-- <sup>33</sup> Strong, 2018: 267.
-- <sup>34</sup> Egwu, 2020.
+- 32 Petre, 2021: n.p.
+- 33 Strong, 2018: 267.
+- 34 Egwu, 2020.
 
 #### Notes
 
-- <sup>35</sup> www.femi nism inin dia.com/ 2020/ 06/ 17/ unna med- geo rge- o yds- indiaepiso dic- pol ice- brutal ity- 2019- 20/
-- <sup>36</sup> Miki, 2021: 304.
-- <sup>37</sup> Dahir, A. L., Maclean, R. and Chutel, L. (2020); see also Mc Michael (2016).]
-- <sup>38</sup> Cunneen and Tauri, 2017.
+- 35 www.femi nism inin dia.com/ 2020/ 06/ 17/ unna med- geo rge- o yds- indiaepiso dic- pol ice- brutal ity- 2019- 20/
+- 36 Miki, 2021: 304.
+- 37 Dahir, A. L., Maclean, R. and Chutel, L. (2020); see also Mc Michael (2016).]
+- 38 Cunneen and Tauri, 2017.
 - 39 Amnesty International www.amne sty.org/ en/ countr ies/ mid dle- east- andnorth- afr ica/ isr ael- and- occup ied-pale stin ian- terr itor ies/ rep ort- isr ael- andoccup ied- pale stin ian- terr itor ies/
-- <sup>40</sup> Sekhri, 2020.
-- <sup>41</sup> Hope (2021); Anders (2021).
-- <sup>42</sup> Anti- Security Collective, 2021.
-- <sup>43</sup> Jacobs et al, 2021.
+- 40 Sekhri, 2020.
+- 41 Hope (2021); Anders (2021).
+- 42 Anti- Security Collective, 2021.
+- 43 Jacobs et al, 2021.
 - 44 See Ben- Moshe's response to these issues in the context of disability, deinstitutionalisation, and prison abolition, (2020: 111– 12).
-- <sup>45</sup> Jannetta, 2020.
-- <sup>46</sup> Barker et al (2021).
-- <sup>47</sup> Heatherton, 2016: 35.
-- <sup>48</sup> Davis, 2003: 106.
-- <sup>49</sup> Mignolo, 2017: 15.
-- <sup>50</sup> Cunneen et al, 2013.
-- <sup>51</sup> Simon, 2007: 6.
-- <sup>52</sup> Harcourt, 2018: 6; Schrader, 2019a.
-- <sup>53</sup> Davis, 2003: 108.
-- <sup>54</sup> Desai, 2020: 3– 4; Kaba, 2021: 14– 17.
-- <sup>55</sup> Kaba, 2021: 15.
+- 45 Jannetta, 2020.
+- 46 Barker et al (2021).
+- 47 Heatherton, 2016: 35.
+- 48 Davis, 2003: 106.
+- 49 Mignolo, 2017: 15.
+- 50 Cunneen et al, 2013.
+- 51 Simon, 2007: 6.
+- 52 Harcourt, 2018: 6; Schrader, 2019a.
+- 53 Davis, 2003: 108.
+- 54 Desai, 2020: 3– 4; Kaba, 2021: 14– 17.
+- 55 Kaba, 2021: 15.
 
 ## **Chapter 2**
 
 - Following the Peelian principle that 'the police are the public and the public are the police'.
 - See www.natio nala rchi ves.gov.uk/ educat ion/ resour ces/ georg ian- brit ainage- modernity/ new- pol ice/ ; see also https:// www.natio nala rchi ves.gov.uk/ educat ion/ resour ces/ georg ian- brit ain- age- modern ity/ new- pol ice/
-- <sup>3</sup> Harring, 1983; also Vitale, 2017: 36– 9.
-- <sup>4</sup> Porter, 2020.
-- <sup>5</sup> Sälter, 2014: 1251
+- 3 Harring, 1983; also Vitale, 2017: 36– 9.
+- 4 Porter, 2020.
+- 5 Sälter, 2014: 1251
 - Named as a specic phenomenon in an 1816 London report as part of the increasing crime problem in the 'Metropolis' and evidence for the need of new police. See Cunneen et al, 2015: 3– 5.
 - For example, see Brogden, 1981 and Jones, 1982.
-- <sup>8</sup> Cunneen et al, 2015: 2– 23.
-- <sup>9</sup> Garton, 1987: 74– 79. Similarly, in Ireland the police played a central role in the management and institutionalisation of the mentally ill and disabled; see Mc Namara, 2021.
-- <sup>10</sup> Brogden, 1982.
-- <sup>11</sup> Reiner, 2010: 67– 110.
+- 8 Cunneen et al, 2015: 2– 23.
+- 9 Garton, 1987: 74– 79. Similarly, in Ireland the police played a central role in the management and institutionalisation of the mentally ill and disabled; see Mc Namara, 2021.
+- 10 Brogden, 1982.
+- 11 Reiner, 2010: 67– 110.
 - 12 See, for example, Geary, 1985.
 
 ## Defund the Police
 
-- <sup>13</sup> Jones, 1982.
-- <sup>14</sup> Sinclair, 2008: 173– 87. Sinclair and Williams (2007) also note that there was 'cross- fertilisation' between colonial and 'British' models of policing. The policing of social protest and industrial disputes in Britain has taken on the more militarised prole of what might be regarded as the 'colonial' model.
-- <sup>15</sup> Anderson and Killingray, 1991.
+- 13 Jones, 1982.
+- 14 Sinclair, 2008: 173– 87. Sinclair and Williams (2007) also note that there was 'cross- fertilisation' between colonial and 'British' models of policing. The policing of social protest and industrial disputes in Britain has taken on the more militarised prole of what might be regarded as the 'colonial' model.
+- 15 Anderson and Killingray, 1991.
 - 16 The Colonial Police Services was established in 1936 to standardise imperial police forces (Sinclair, 2006).
-- <sup>17</sup> Blanchard, 2014: 1839– 40.
-- <sup>18</sup> Tankebe, 2008: 74.
-- <sup>19</sup> Killingray, 1991: 119.
-- <sup>20</sup> Fanon, 1967: 29.
-- <sup>21</sup> Anderson and Killingray, 1992; Blanchard, 2014; Bloembergen and Klinkers, 2014: 1201– 2.
-- <sup>22</sup> Blanchard, 2014: 1842– 3. He quotes Albert Memmi, writing in the mid 1950s, that 'a machine- gun burst into a crowd of colonized causes him [the coloniser] merely to shrug his shoulders'; see also Bobin, forthcoming.
-- <sup>23</sup> Blanchard, 2014: 1843.
-- <sup>24</sup> Blanchard, 2014: 1843; and Bobin, forthcoming.
-- <sup>25</sup> Anderson and Killingray, 1991; Sinclair, 2006: 26.
-- <sup>26</sup> Bobin, forthcoming.
-- <sup>27</sup> Tankebe, 2008: 71; Blanchard, 2014: 1840.
+- 17 Blanchard, 2014: 1839– 40.
+- 18 Tankebe, 2008: 74.
+- 19 Killingray, 1991: 119.
+- 20 Fanon, 1967: 29.
+- 21 Anderson and Killingray, 1992; Blanchard, 2014; Bloembergen and Klinkers, 2014: 1201– 2.
+- 22 Blanchard, 2014: 1842– 3. He quotes Albert Memmi, writing in the mid 1950s, that 'a machine- gun burst into a crowd of colonized causes him [the coloniser] merely to shrug his shoulders'; see also Bobin, forthcoming.
+- 23 Blanchard, 2014: 1843.
+- 24 Blanchard, 2014: 1843; and Bobin, forthcoming.
+- 25 Anderson and Killingray, 1991; Sinclair, 2006: 26.
+- 26 Bobin, forthcoming.
+- 27 Tankebe, 2008: 71; Blanchard, 2014: 1840.
 - 28 Volmer, cited in Go, 2020: 1207.
 - 29 Hönke and Müller, 2016: 8.
-- <sup>30</sup> Sinclair, 2008: 176.
-- <sup>31</sup> Sinclair, 2008; Bobin, forthcoming.
-- <sup>32</sup> Arnold, 1992: 58; Stockwell, 1992: 122.
-- <sup>33</sup> Blanchard, 2014: 1845.
-- <sup>34</sup> Sinclair, 2006.
-- <sup>35</sup> Vitale, 2017: 40– 2; also Go, 2020.
-- <sup>36</sup> Roberts, 2005; Dunbar- Ortiz, 2014; Owen, 2016.
+- 30 Sinclair, 2008: 176.
+- 31 Sinclair, 2008; Bobin, forthcoming.
+- 32 Arnold, 1992: 58; Stockwell, 1992: 122.
+- 33 Blanchard, 2014: 1845.
+- 34 Sinclair, 2006.
+- 35 Vitale, 2017: 40– 2; also Go, 2020.
+- 36 Roberts, 2005; Dunbar- Ortiz, 2014; Owen, 2016.
 - 37 Cited in Cunneen and Tauri, 2017: 50, and see generally, pp 49– 57; see also Moses, 2000.
 - 38 The Colonial Frontier Massacres Project has reconstructed a detailed timeline and map of the massacre of Indigenous people between 1788 and 1930 in Australia. Police, native police, soldiers and magistrates, were involved in at least 50 per cent of all massacres. See https:// c21ch.newcas tle.edu.au/ coloni alma ssac res/
-- <sup>39</sup> Evans, 2021: 8– 9.
-- <sup>40</sup> Vitale, 2017: 43– 4.
+- 39 Evans, 2021: 8– 9.
+- 40 Vitale, 2017: 43– 4.
 - 41 There is broad- ranging literature of this, but see, for example, Stannard, 1992; Royal Commission on Aboriginal Peoples [RCAP], 1996; Dunbar- Ortiz, 2014; Cunneen and Tauri, 2017.
-- <sup>42</sup> RCAP, 1996: 185.
-- <sup>43</sup> RCAP, 1996: 288– 9.
-- <sup>44</sup> Cunneen, 2001: 66– 75.
+- 42 RCAP, 1996: 185.
+- 43 RCAP, 1996: 288– 9.
+- 44 Cunneen, 2001: 66– 75.
 
 #### Notes
 
@@ -1460,359 +1496,359 @@ For many, the longer- term vision is the demise of police power and a horizon wh
 #### Defund the Police
 
 - Brown et al, 2021. Police responded to 35,924 calls which were sorted into 241 categories then collapsed into 5 major types.
-- <sup>6</sup> Ray, 2020: 1.
-- <sup>7</sup> 'Investigating police responses to homelessness', Global Investigative Journalism Network, www.gijn.org/2022/01/31/q-a-investigating-pol ice-responses-to-homelessness/
-- <sup>8</sup> See Chapter 4.
+- 6 Ray, 2020: 1.
+- 7 'Investigating police responses to homelessness', Global Investigative Journalism Network, www.gijn.org/2022/01/31/q-a-investigating-pol ice-responses-to-homelessness/
+- 8 See Chapter 4.
 - 9 www.bls.gov/charts/census-of-fatal-occupational-injuries/civilian-occupati ons-with-high-fatal-work-injury-rates.htm
 - https://www.safeworkaustralia.gov.au/sites/default/files/2020-11/Work-related%20traumatic%20injury%20fatalities%20Australia%202019.pdf
-- <sup>11</sup> Allard and Prenzler, 2009.
+- 11 Allard and Prenzler, 2009.
 - Hine, 2020; www.theconversation.com/road-crashes-assaults-and-being-spat-on-the-dangers-facing-australian-police-in-the-line-of-duty-137594
 - The Police Roll of Honour Trust. Although fluctuating somewhat, similar numbers for previous 5 years are as follows: 2019: 5; 2018: 3; 2017: 9; 2016: 2; 2015: 4; www.policememorial.org.uk/
 - Federal Bureau of Investigation, 2021; see also National Law Enforcement Officers Memorial Fund, 2020.
 - A total of 1,126 deaths in 2020 with 96 per cent killed in police shootings. See Police Violence Report, 2020 www.policeviolencereport.org/. In the absence of official data on police killings, Mapping Police Violence collected data from media reports, obituaries, public records, and databases like Fatal Encounters and the Washington Post.
 - Prison Police Initiative, 5 June, 2020; www.prisonpolicy.org/blog/2020/06/05/policekillings/. An earlier study found that the rate of civilian deaths by police shootings was 31 times higher in the US (Knutson and Noree, 2010).
-- <sup>17</sup> See https://news.northeastern.edu/2020/04/16/000-people-in-the-us-are-killed-every-year-in-police-shootings-how-many-are-preventable/
-- <sup>18</sup> Gramlich, 2017.
-- <sup>19</sup> Gramlich, 2020.
-- <sup>20</sup> See www.bbc.com/news/uk-49986849
-- <sup>21</sup> Holmes and Fitzgerald, 2017.
-- <sup>22</sup> See https://www.baltimoresun.com/maryland/baltimore-city/bs-md-ci-crime-policy-20191230-zk2v2auuhbgq3f7zsh3t7rt6cm-story.html
-- <sup>23</sup> The use of firearms in a homicide generally results in lower clearances rates (Liem et al, 2019: 98). Murder rates vary significantly in different regions, from around 10 per million population in Europe, East Asia, and Oceania (Australia and New Zealand), to 50 per million in the US, and to 259 and 242 per million, respectively, in Central and South America (Office of National Statistics, 2021).
-- <sup>24</sup> Liem et al, 2019: 82.
-- <sup>25</sup> Bricknell and Doherty, 2021; Office of National Statistics (UK), 2021.
+- 17 See https://news.northeastern.edu/2020/04/16/000-people-in-the-us-are-killed-every-year-in-police-shootings-how-many-are-preventable/
+- 18 Gramlich, 2017.
+- 19 Gramlich, 2020.
+- 20 See www.bbc.com/news/uk-49986849
+- 21 Holmes and Fitzgerald, 2017.
+- 22 See https://www.baltimoresun.com/maryland/baltimore-city/bs-md-ci-crime-policy-20191230-zk2v2auuhbgq3f7zsh3t7rt6cm-story.html
+- 23 The use of firearms in a homicide generally results in lower clearances rates (Liem et al, 2019: 98). Murder rates vary significantly in different regions, from around 10 per million population in Europe, East Asia, and Oceania (Australia and New Zealand), to 50 per million in the US, and to 259 and 242 per million, respectively, in Central and South America (Office of National Statistics, 2021).
+- 24 Liem et al, 2019: 82.
+- 25 Bricknell and Doherty, 2021; Office of National Statistics (UK), 2021.
 - The use of other weapons and methods in murder cases is more likely to leave physical evidence (Liem et al, 2019). It is also important to note that most research on this subject is from developed countries, and 'less is known about
 
 #### Notes
 
 - which factors … are associated with homicide clearance rates in developing countries' (UN Oce on Drugs and Crime (UNODC), 2019: 68).
-- <sup>27</sup> Gramlich, 2017.
-- <sup>28</sup> van Dijk et al, 2007.
-- <sup>29</sup> van Dijk et al, 2007: 109– 11.
-- <sup>30</sup> Naudé et al, 2006.
-- <sup>31</sup> Gramlich, 2017.
-- <sup>32</sup> Miles- Johnson, 2013.
-- <sup>33</sup> West and Gandhi, 2006.
-- <sup>34</sup> AHRC, 2014; Victorian Equal Opportunity and Human Rights Commission, 2014; Rowe and Dowse, 2021.
-- <sup>35</sup> BBC, 2014.
+- 27 Gramlich, 2017.
+- 28 van Dijk et al, 2007.
+- 29 van Dijk et al, 2007: 109– 11.
+- 30 Naudé et al, 2006.
+- 31 Gramlich, 2017.
+- 32 Miles- Johnson, 2013.
+- 33 West and Gandhi, 2006.
+- 34 AHRC, 2014; Victorian Equal Opportunity and Human Rights Commission, 2014; Rowe and Dowse, 2021.
+- 35 BBC, 2014.
 - 36 References in original omitted. Mc Manus et al, 2019.
 - 37 Pew Research Centre, 'Majority of public favors giving civilians the power to sue police ocers for misconduct', 9 July, 2020. www.pewr esea rch.org/ polit ics/ 2020/ 07/ 09/ major ity- of- pub lic- fav ors- giv ing- civili ans- the- powerto- sue- pol ice- oc ers- for- mis cond uct/ . The CATO research also found that Black respondents believed that police were too quick to use lethal force (73 per cent compared to 35 per cent of White respondents) and that police tactics were generally too harsh (56 per cent compared to 26 per cent of White respondents); Mc Manus et al, 2019.
-- <sup>38</sup> La Vigne, 2017: 1.
-- <sup>39</sup> La Vigne, 2017: 2.
-- <sup>40</sup> Hayes, 2018: 32.
-- <sup>41</sup> Hayes, 2018: 37– 8.
-- <sup>42</sup> Hayes, 2018: 38.
-- <sup>43</sup> Runnymede Trust, 2021: 17.
-- <sup>44</sup> Tankebe, 2008: 76.
-- <sup>45</sup> Tankebe, 2008: 77.
+- 38 La Vigne, 2017: 1.
+- 39 La Vigne, 2017: 2.
+- 40 Hayes, 2018: 32.
+- 41 Hayes, 2018: 37– 8.
+- 42 Hayes, 2018: 38.
+- 43 Runnymede Trust, 2021: 17.
+- 44 Tankebe, 2008: 76.
+- 45 Tankebe, 2008: 77.
 - 46 For example, in the UK, the Macpherson Report and in Australia the Royal Commission into Aboriginal Deaths in Custody (Johnston, 1991; Macpherson, 1999).
-- <sup>47</sup> Findlay, 2004: 72– 7.
-- <sup>48</sup> Goldson et al, 2021: 100– 28.
-- <sup>49</sup> Cunneen et al, 2015: 225– 7; 232– 3.
-- <sup>50</sup> Goldson et al, 2021: 106– 8.
-- <sup>51</sup> Bridges, 2015.
-- <sup>52</sup> Goldson et al, 2021: 108– 9, 114– 16.
+- 47 Findlay, 2004: 72– 7.
+- 48 Goldson et al, 2021: 100– 28.
+- 49 Cunneen et al, 2015: 225– 7; 232– 3.
+- 50 Goldson et al, 2021: 106– 8.
+- 51 Bridges, 2015.
+- 52 Goldson et al, 2021: 108– 9, 114– 16.
 - 53 See www.franc e24.com/ en/ eur ope/ 20220 627- turk ish- pol ice- rele ase- allactivi sts- detai ned- dur ing- istan bul- pride- march?utm \_ sou rce= subst ack&utm \_ med ium= email
-- <sup>54</sup> James et al, 2016: 14.
-- <sup>55</sup> Tomsen, 2002; Tomsen and Kirchengast, 2019.
-- <sup>56</sup> NSW Legislative Council Standing Committee on Social Issues, 2021.
-- <sup>57</sup> Her Majesty's Inspectorate of Constabulary and Fire & Rescue Services, 2018: 93.
+- 54 James et al, 2016: 14.
+- 55 Tomsen, 2002; Tomsen and Kirchengast, 2019.
+- 56 NSW Legislative Council Standing Committee on Social Issues, 2021.
+- 57 Her Majesty's Inspectorate of Constabulary and Fire & Rescue Services, 2018: 93.
 
 ## Defund the Police
 
-- <sup>58</sup> Ronan, 2020.
-- <sup>59</sup> Goldson et al, 2021: 4– 7.
-- <sup>60</sup> Rowe and Dowse, 2021: 211– 12.
+- 58 Ronan, 2020.
+- 59 Goldson et al, 2021: 4– 7.
+- 60 Rowe and Dowse, 2021: 211– 12.
 - 61 Justine Damond Ruszczyk (Minneapolis, 2017); Henry Louis Gates Jr. (Cambridge, Massachusetts, 2009).
 
 ## **Chapter 4**
 
-- <sup>1</sup> Seale, 1967: 7; emphasis in the original.
+- 1 Seale, 1967: 7; emphasis in the original.
 - See https:// www.colle ctiv elib erat ion.org/ wp-cont ent/ uplo ads/ 2015/ 01/ BPP\_ Te n\_ Po int\_ Prog ram.pdf
 - Cited by Attwood and Markus, 1999: 252– 3, and see Goodall, 1996: 335– 6; Attwood, 2003: 318– 49; Lothian, 2005.
 - 4 Interview with Bruce Mc Guinness in Foley et al, 2014: 136.
-- <sup>5</sup> Harcourt, 2018: 136– 8.
-- <sup>6</sup> Newton, 1973. Also see Kelly, 2020, and see www.pbs.org/ huey pnew ton/ acti ons/ actio ns\_ s urvi val.html
-- <sup>7</sup> Bassett, 2019: 352.
-- <sup>8</sup> Bassett, 2019.
+- 5 Harcourt, 2018: 136– 8.
+- 6 Newton, 1973. Also see Kelly, 2020, and see www.pbs.org/ huey pnew ton/ acti ons/ actio ns\_ s urvi val.html
+- 7 Bassett, 2019: 352.
+- 8 Bassett, 2019.
 - 9 See https:// www.colle ctiv elib erat ion.org/ wp-cont ent/ uplo ads/ 2015/ 01/ BPP\_ Te n\_ Po int\_ Prog ram.pdf
 - 10 The quote was taken from the American Indian Movement website: www. stat ic1.squa resp ace.com/ sta tic/ 55648 75fe 4b0a 715f 94b3 b42/ t/ 55885 0b7e 4b01 0cd4 058b 0d6/ 143499 6919 389/ AIMPa st Pr esen t Fut ure.pdf. The website has been taken down. A discussion of the origin of AIM can be found at https:// www.mnope dia.org/ group/ ameri can- ind ian- movem ent- aim and of the AIM patrols at https:// www.mnope dia.org/ group/ aim- pat rol- minn eapo lis.
 - 11 See www.legalr ight scen ter.org/ our- hist ory.html
 - 12 See www.legalr ight scen ter.org/ our- hist ory.html
-- <sup>13</sup> Foley, 2001: 11– 12.
+- 13 Foley, 2001: 11– 12.
 - 14 Cited in Howell, 2014: 72.
-- <sup>15</sup> Foley, 2001: 13.
+- 15 Foley, 2001: 13.
 - 16 On mutual aid, see Spade, 2020.
-- <sup>17</sup> Hall et al, 1978.
-- <sup>18</sup> Gilroy, 1987 [1982].
+- 17 Hall et al, 1978.
+- 18 Gilroy, 1987 [1982].
 - 19 Sivanandan was the Director of the Institute of Race Relations and the founding editor of the journal *Race and Class*. Sivanandan, 1990: 135.
-- <sup>20</sup> Gordon, 1985: 162– 3.
-- <sup>21</sup> Gordon, 1985: 162– 3.
-- <sup>22</sup> Chaudhary, 2019.
-- <sup>23</sup> Gilroy, 1987 [1982]: 109.
-- <sup>24</sup> Gilroy, 1987 [1982]: 108– 14.
-- <sup>25</sup> Hall, 1980: 257– 8.
-- <sup>26</sup> Hall, 1980: 266– 8.
-- <sup>27</sup> Cowell et al, 1982.
-- <sup>28</sup> Sim et al, 1987.
+- 20 Gordon, 1985: 162– 3.
+- 21 Gordon, 1985: 162– 3.
+- 22 Chaudhary, 2019.
+- 23 Gilroy, 1987 [1982]: 109.
+- 24 Gilroy, 1987 [1982]: 108– 14.
+- 25 Hall, 1980: 257– 8.
+- 26 Hall, 1980: 266– 8.
+- 27 Cowell et al, 1982.
+- 28 Sim et al, 1987.
 
 #### Notes
 
-- <sup>29</sup> Tribune (1986).
-- <sup>30</sup> Geary, 1985: 146–67.
-- <sup>31</sup> Ouoted in Gordon, 1985: 161.
-- <sup>32</sup> Sivanandan, 1990: 131-7.
-- <sup>33</sup> Gilrov, 1987: 125–6.
-- <sup>34</sup> Sim et al, 1987: 32–9.
-- <sup>35</sup> Sim et al, 1987: 32.
-- <sup>36</sup> Quoted in Sim et al, 1987: 34.
-- <sup>37</sup> See Elliot-Cooper, 2021: 53–60 for a discussion of the murder, the investigation, and the aftermath.
-- <sup>38</sup> Macpherson, 1999: para 46.1.
-- <sup>39</sup> Macpherson, 1999: para 45.7.
+- 29 Tribune (1986).
+- 30 Geary, 1985: 146–67.
+- 31 Ouoted in Gordon, 1985: 161.
+- 32 Sivanandan, 1990: 131-7.
+- 33 Gilrov, 1987: 125–6.
+- 34 Sim et al, 1987: 32–9.
+- 35 Sim et al, 1987: 32.
+- 36 Quoted in Sim et al, 1987: 34.
+- 37 See Elliot-Cooper, 2021: 53–60 for a discussion of the murder, the investigation, and the aftermath.
+- 38 Macpherson, 1999: para 46.1.
+- 39 Macpherson, 1999: para 45.7.
 - 40 See www.theguardian.com/uk/2013/jun/23/stephen-lawrence-underco ver-police-smears
-- <sup>41</sup> Elliot-Cooper, 2021: 57.
-- <sup>42</sup> For a discussion of this debate at the time and particularly in relation to various positions on the Left within criminology, see Sim et al, 1987: 39–59.
-- <sup>43</sup> Elliot-Cooper, 2021: 57–8.
-- <sup>44</sup> Elliot-Cooper, 2021: 57–8.
-- <sup>45</sup> Burger, 1988: 96. Helen Corbett is referred to by her previous name 'Boyle' in the publication.
+- 41 Elliot-Cooper, 2021: 57.
+- 42 For a discussion of this debate at the time and particularly in relation to various positions on the Left within criminology, see Sim et al, 1987: 39–59.
+- 43 Elliot-Cooper, 2021: 57–8.
+- 44 Elliot-Cooper, 2021: 57–8.
+- 45 Burger, 1988: 96. Helen Corbett is referred to by her previous name 'Boyle' in the publication.
 - 46 Johnston, 1991.
-- <sup>47</sup> Cunneen, 2001: 97–102; 121–3.
-- <sup>48</sup> Human Rights and Equal Opportunity Commission (HREOC), 1991: 387.
-- <sup>49</sup> Office of the Aboriginal and Torres Strait Islander Social Justice Commissioner, 1996.
-- <sup>50</sup> Cunneen and Mc Donald, 1997.
+- 47 Cunneen, 2001: 97–102; 121–3.
+- 48 Human Rights and Equal Opportunity Commission (HREOC), 1991: 387.
+- 49 Office of the Aboriginal and Torres Strait Islander Social Justice Commissioner, 1996.
+- 50 Cunneen and Mc Donald, 1997.
 - House of Representatives Standing Committee on Aboriginal and Torres Strait Islander Affairs, 1994; Cunneen and Mc Donald, 1997.
-- <sup>52</sup> Amnesty International, 1993.
-- <sup>53</sup> Amnesty International, 1997: 8.
-- <sup>54</sup> Cunneen, 2007: 26–28.
-- <sup>55</sup> Maynard, 2017: 14–15.
-- <sup>56</sup> Ransby, 2018: 3.
+- 52 Amnesty International, 1993.
+- 53 Amnesty International, 1997: 8.
+- 54 Cunneen, 2007: 26–28.
+- 55 Maynard, 2017: 14–15.
+- 56 Ransby, 2018: 3.
 - Kelley, 2020. Critical Resistance: www.criticalresistance.org/about/history/; INCITE! www.incite-national.org/history/; SistaIISista: Burrowes, 2018.
 - Angela Davis noted that 25 of the 28 members of the organising committee for the 1998 meeting were either women or non-binary; Davis et al (2021).
-- <sup>59</sup> INCITE!, 2001.
+- 59 INCITE!, 2001.
 - 60 See www.incite-national.org/stop-law-enforcement-violence/
 - 61 Burrowes, 2018: 389.
 - 62 Burrowes, 2018: 378.
-- <sup>63</sup> Wilson and Kelling, 1982.
-- <sup>64</sup> Kelling went on to argue that policing required consent, cooperation, and collaboration with the community. He distanced himself from zero tolerance policing, indicating that it was not a credible policing philosophy.
+- 63 Wilson and Kelling, 1982.
+- 64 Kelling went on to argue that policing required consent, cooperation, and collaboration with the community. He distanced himself from zero tolerance policing, indicating that it was not a credible policing philosophy.
 
 #### Defund the Police
 
-- <sup>65</sup> Cunneen, 2003: 144– 57.
+- 65 Cunneen, 2003: 144– 57.
 - 66 And, in more extreme cases, the use of torture, as in the case of Abner Louima in a Brooklyn police station in 1997.
-- <sup>67</sup> Cunneen, 2003: 149– 50.
-- <sup>68</sup> Stenson, 2000.
-- <sup>69</sup> Crenshaw, 2020: 15.
+- 67 Cunneen, 2003: 149– 50.
+- 68 Stenson, 2000.
+- 69 Crenshaw, 2020: 15.
 
 ## **Chapter 5**
 
-- <sup>1</sup> Human Rights Council, 2019.
+- 1 Human Rights Council, 2019.
 - A death in police custody is variously dened to include deaths arising from police pursuits, road trac incidents, fatal shootings, fatalities caused during police restraint, deaths arising from torture and beatings, medical conditions, suicides, or other causes while in custody.
-- <sup>3</sup> Rodríguez, forthcoming.
-- <sup>4</sup> www.was hing tonp ost.com/ graph ics/ inv esti gati ons/ pol ice- shooti ngs- datab ase/ ?itid= lk\_ int erst itia l\_ ma nual \_ 10. The year 2021 is tracking for over 1,000 deaths, with 927 recorded as at 22 September, 2021. Other public non- government databases include *Fatal Encounters* (www.fata lenc ount ers.org/ ), *Mapping Police Violence* (www.mappin gpol icev iole nce.org/ ) and *The Counted* (www.theg uard ian.com/ us- news/ ser ies/ coun ted- us- pol icekilli ngs)
+- 3 Rodríguez, forthcoming.
+- 4 www.was hing tonp ost.com/ graph ics/ inv esti gati ons/ pol ice- shooti ngs- datab ase/ ?itid= lk\_ int erst itia l\_ ma nual \_ 10. The year 2021 is tracking for over 1,000 deaths, with 927 recorded as at 22 September, 2021. Other public non- government databases include *Fatal Encounters* (www.fata lenc ount ers.org/ ), *Mapping Police Violence* (www.mappin gpol icev iole nce.org/ ) and *The Counted* (www.theg uard ian.com/ us- news/ ser ies/ coun ted- us- pol icekilli ngs)
 - The study estimated that over a 40- year period there were 17,100 more deaths due to police violence than the 13,700 reported deaths (GBD 2019 Police Violence US Subnational Collaborators, 2021). An earlier 2018 study using CDC data reported that, based on 27 States, more than 92 per cent of deaths in law enforcement 'legal interventions' were from shootings, and the rate of Black male deaths was approximately twice that of White males (Jack et al, 2018).
 - 6 See the *New Scientist* for details, https:// www.newsc ient ist.com/ arti cle/ 2246 987- us- pol ice- kill- up- to- 6- times- more- black- peo ple- than- whitepeo ple/
 - See https:// www.inqu est.org.uk/ bame- dea ths- in- pol ice- cust ody .
-- <sup>8</sup> Angiolini, 2017: 92.
+- 8 Angiolini, 2017: 92.
 - 'European' is the Authority's classication. Independent Police Conduct Authority, 2012: 3, 29.
-- <sup>10</sup> Doherty and Sullivan, 2021.
+- 10 Doherty and Sullivan, 2021.
 - 11 See www.theg uard ian.com/ austra lia- news/ ser ies/ dea ths- ins ide
 - 12 See https:// newsi nter acti ves.cbc.ca/ fatalp olic eenc ount ers/
 - 13 See www.cbc.ca/ news/ can ada/ manit oba/ iteam/ dea dly- force- cbc- analy sis-1.4603 696
 - 14 United States, Canada, Australia, Netherlands, New Zealand, Germany, England & Wales, Japan, Iceland, Norway. See www.priso npol icy.org/ blog/ 2020/ 06/ 05/ pol icek illi ngs/
-- <sup>15</sup> Farmer and Evans, 2020: 54.
+- 15 Farmer and Evans, 2020: 54.
 - 16 The Centro de Investigación y Docencia Económicas found that in Venezuela the absolute number of people killed by the State is even higher than in
 
 #### Notes
 
 Brazil, despite having a population – in absolute terms – almost seven times less. Civilian death rate through police fatal violence exceeds 15 per 100,000 inhabitants, a record higher than the *general* homicide rate in the vast majority of countries of the world (2019: 167).
 
-- <sup>17</sup> https:// www.bbc.com/ news/ world- asia- 50236 481.
-- <sup>18</sup> ICC, 2021. See also Gallagher et al, 2020.
+- 17 https:// www.bbc.com/ news/ world- asia- 50236 481.
+- 18 ICC, 2021. See also Gallagher et al, 2020.
 - 19 See www.npr.org/ 2021/ 05/ 07/ 994588 467/ u- n- calls- for- invest igat ion- aspol ice- in- bra zil- kill- at- least- 24- in- rio- drug- raid
 - 20 For a police massacre in May 2022 that killed 21 people in a Rio favela, and another in July 2022 that killed at least 18 people, see www.theg uard ian. com/ world/ 2022/ may/ 24/ bra zil- pol ice- raid- rio- fav ela- death- toll, and see www.theg uard ian.com/ world/ gall ery/ 2022/ jul/ 22/ dea dly- pol ice- raid- riode- jane iro- bra zil- in- pictu res?CMP= sha re\_ b tn\_ l ink
-- <sup>21</sup> Centro de Estudios Legales y Sociales, 2018: 47.
-- <sup>22</sup> Human Rights Watch, 2020b: 83– 4; 2021: 105– 8.
-- <sup>23</sup> Metaal and Youngers, 2011: 5– 7.
-- <sup>24</sup> Metaal and Youngers, 2011: 5– 7; de Carvalho Silva and Langeani, 2019; Carvalho, 2020.
-- <sup>25</sup> Carvalho, 2020.
+- 21 Centro de Estudios Legales y Sociales, 2018: 47.
+- 22 Human Rights Watch, 2020b: 83– 4; 2021: 105– 8.
+- 23 Metaal and Youngers, 2011: 5– 7.
+- 24 Metaal and Youngers, 2011: 5– 7; de Carvalho Silva and Langeani, 2019; Carvalho, 2020.
+- 25 Carvalho, 2020.
 - 26 This is not to suggest that police use of torture is only a problem in these South Asian countries, or indeed the global south. We see it in the global north as well – for example the Chicago detective and commander Jon Burge and his 'midnight crew'. Between the early 1970s and 1990s he was accused of torturing hundreds of people (mostly Black) to extract forced confessions. In 2015 the city approved a \$5.5 million reparations package for the victims. See the Chicago Police Torture Archive and Chicago Torture Justice Memorials (www.chic agop olic etor ture arch ive.com/ about and www. chi cago tort ure.org/ ).
-- <sup>27</sup> National Human Rights Commission, 2018: 44; NCAT, 2020: 6; Human Rights Watch, 2021: 318. The NCAT number does not include people killed by the police outside of a police station (for example, while being apprehended or assaulted).
-- <sup>28</sup> Human Rights Watch, 2016a: 1– 2.
-- <sup>29</sup> National Human Rights Commission, 2018: 44; NCAT, 2020: 6.
-- <sup>30</sup> NCAT, 2021: 131.
-- <sup>31</sup> NCAT, 2021: 133– 6.
-- <sup>32</sup> NCAT, 2020: 8.
-- <sup>33</sup> NCAT, 2020: 112– 21.
+- 27 National Human Rights Commission, 2018: 44; NCAT, 2020: 6; Human Rights Watch, 2021: 318. The NCAT number does not include people killed by the police outside of a police station (for example, while being apprehended or assaulted).
+- 28 Human Rights Watch, 2016a: 1– 2.
+- 29 National Human Rights Commission, 2018: 44; NCAT, 2020: 6.
+- 30 NCAT, 2021: 131.
+- 31 NCAT, 2021: 133– 6.
+- 32 NCAT, 2020: 8.
+- 33 NCAT, 2020: 112– 21.
 - 34 'India's police stations are human rights threat, says chief justice', *The Guardian*, 10 August 2021. https:// www.theg uard ian.com/ world/ 2021/ aug/ 10/ india- pol ice- stati ons- human- rig hts- thr eat- chief- just ice. In 1961, Justice Mulla of the Allahabad High Court in a judgment said, "I say with all sense of responsibility, there is not a single lawless group in the whole of the country whose record of crime comes anywhere near that of the organized gang of criminals known as the Indian Police Force" (*State vs Mohammad Naim*, Criminal Misc. Case No. 87 of 1961).
 
 ## Defund the Police
 
-- <sup>35</sup> Common Cause and CSDS, 2019: 131.
-- <sup>36</sup> Committee against Torture, 2019: para 14.
+- 35 Common Cause and CSDS, 2019: 131.
+- 36 Committee against Torture, 2019: para 14.
 - 37 See https:// www.bbc.com/ news/ world- south- asia- 12057 400
-- <sup>38</sup> Committee against Torture, 2019: para 17; Uddin, 2020; Human Rights Watch, 2021: 78.
-- <sup>39</sup> Uddin, 2020.
-- <sup>40</sup> Sultana and Dey, 2020.
-- <sup>41</sup> Human Rights Watch, 2016b, 2021; National Commission on Human Rights (NCHR), 2019.
-- <sup>42</sup> Human Rights Watch, 2016b: 2.
-- <sup>43</sup> NCHR, 2019: 23– 5.
-- <sup>44</sup> Human Rights Watch, 2021: 518.
-- <sup>45</sup> Country Reports on Human Rights Practices, 2020.
-- <sup>46</sup> Human Rights Watch, 2016b: 1.
+- 38 Committee against Torture, 2019: para 17; Uddin, 2020; Human Rights Watch, 2021: 78.
+- 39 Uddin, 2020.
+- 40 Sultana and Dey, 2020.
+- 41 Human Rights Watch, 2016b, 2021; National Commission on Human Rights (NCHR), 2019.
+- 42 Human Rights Watch, 2016b: 2.
+- 43 NCHR, 2019: 23– 5.
+- 44 Human Rights Watch, 2021: 518.
+- 45 Country Reports on Human Rights Practices, 2020.
+- 46 Human Rights Watch, 2016b: 1.
 - 47 Cited in Human Rights Watch, 2016b: 21.
-- <sup>48</sup> Waseem, forthcoming.
-- <sup>49</sup> Santos, 2021: 8.
+- 48 Waseem, forthcoming.
+- 49 Santos, 2021: 8.
 - 50 Latour and Latour, forhcoming.
 - 51 Saskatoon police arrested First Nations young people, drove them out of the city and abandoned them during winter months. A number of victims died from hyperthermia – 17- year- old Neil Stonechild was one of the deaths. A subsequent judicial inquiry found that initial police investigations were 'supercial and totally inadequate'. See Wright, 2004: 212.
-- <sup>52</sup> Independent Police Complaints Commission [IPCC], 2010: 14. The IPCC was replaced in 2018 with the Independent Oce for Police Complaints. See also the Lindon and Roe (2017: 30) study for the decade ending June 2015.
-- <sup>53</sup> Johnston, 1991.
-- <sup>54</sup> Thompson, 2021.
-- <sup>55</sup> Wootten, 1991: 63.
-- <sup>56</sup> Allam et al, 2020.
+- 52 Independent Police Complaints Commission [IPCC], 2010: 14. The IPCC was replaced in 2018 with the Independent Oce for Police Complaints. See also the Lindon and Roe (2017: 30) study for the decade ending June 2015.
+- 53 Johnston, 1991.
+- 54 Thompson, 2021.
+- 55 Wootten, 1991: 63.
+- 56 Allam et al, 2020.
 - 57 Source: INQUEST case work and monitoring. www.inqu est.org.uk/ Pages/ Categ ory/ sta tist ics- and- mon itor ing. INQUEST denes police custodial deaths as deaths that take place while the individual is in contact with police, whether or not they have been arrested, or that happen shortly after that contact. The death may not necessarily have occurred inside a police station. Self- inicted deaths following contact with police or deaths as a result of domestic violence where the police have been involved are not included.
-- <sup>58</sup> Human Rights Council, 2019: para 33.
+- 58 Human Rights Council, 2019: para 33.
 - 59 Restraint is often broadly dened to include the use of manual holds, handcus, specialist devices ('restraints' such as hoods, leg restraints), and 'less- lethal' weapons, including tasers, CS and OS sprays, and rubber bullets, etc.
-- <sup>60</sup> Weichselbaum et al, 2021. Police and security forces can actively prevent medical attention, as in the Lekki Toll Gate massacre referred to in Chapter 1.
-- <sup>61</sup> Her Majesty's Inspectorate of Constabulary, 2021: 4– 5. See also Noor, 2018.
+- 60 Weichselbaum et al, 2021. Police and security forces can actively prevent medical attention, as in the Lekki Toll Gate massacre referred to in Chapter 1.
+- 61 Her Majesty's Inspectorate of Constabulary, 2021: 4– 5. See also Noor, 2018.
 
 #### Notes
 
-- <sup>62</sup> Lindon and Roe, 2017: 33– 4. The IPCC (2010) study of 333 deaths in police custody found that people from Black and minority ethnic groups were signicantly more likely than White people to die while being restrained by police.
-- <sup>63</sup> Runnymede Trust, 2021: 20.
-- <sup>64</sup> Civilian Complaint Review Board, 2019: 11, 20.
-- <sup>65</sup> Thom and Quince, 2020.
-- <sup>66</sup> Crime and Misconduct Commission, 2005: x, 29; NSW Ombudsman, 2012: 99. In Western Australia, the Corruption and Crime Commission investigated the use of tasers and OC spray after First Nations man Kevin Spratt was tasered seven times in a little over a minute by two police ocers. The Commission found that the tasering was an 'undue and excessive use of force which was unreasonable and unjustied'. Two senior police ocers were later found guilty of assault and sentenced to suspended jail terms and nes. Corruption and Crime Commission, 2012: 1.
-- <sup>67</sup> Cavanagh, 2010: 42.
+- 62 Lindon and Roe, 2017: 33– 4. The IPCC (2010) study of 333 deaths in police custody found that people from Black and minority ethnic groups were signicantly more likely than White people to die while being restrained by police.
+- 63 Runnymede Trust, 2021: 20.
+- 64 Civilian Complaint Review Board, 2019: 11, 20.
+- 65 Thom and Quince, 2020.
+- 66 Crime and Misconduct Commission, 2005: x, 29; NSW Ombudsman, 2012: 99. In Western Australia, the Corruption and Crime Commission investigated the use of tasers and OC spray after First Nations man Kevin Spratt was tasered seven times in a little over a minute by two police ocers. The Commission found that the tasering was an 'undue and excessive use of force which was unreasonable and unjustied'. Two senior police ocers were later found guilty of assault and sentenced to suspended jail terms and nes. Corruption and Crime Commission, 2012: 1.
+- 67 Cavanagh, 2010: 42.
 - 68 See www.justic eini tiat ive.org/ newsr oom/ just ice- ini tiat ive- joins- gro ups- ingiv ing- not ice- of- class- act ion- laws uit- agai nst- fre nch- gov ernm ent- for- eth nic- prol ing- by- pol ice
-- <sup>69</sup> Macpherson, 1999: para 45.8.
-- <sup>70</sup> Equality and Human Rights Commission, 2010: 6, 13. The Commission also notes that the introduction of counter terrorism legislation has increased police powers to stop and search and their frequency has steadily increased during the 2000s.
-- <sup>71</sup> Eastwood et al, 2013.
-- <sup>72</sup> Her Majesty's Inspectorate of Constabulary, 2021: 5– 6. Runnymede, 2021: 17.
-- <sup>73</sup> Runnymede, 2021: 18.
+- 69 Macpherson, 1999: para 45.8.
+- 70 Equality and Human Rights Commission, 2010: 6, 13. The Commission also notes that the introduction of counter terrorism legislation has increased police powers to stop and search and their frequency has steadily increased during the 2000s.
+- 71 Eastwood et al, 2013.
+- 72 Her Majesty's Inspectorate of Constabulary, 2021: 5– 6. Runnymede, 2021: 17.
+- 73 Runnymede, 2021: 18.
 - 74 See for example the discussion in the *New Scientist*, www.newsc ient ist.com/ arti cle/ 2246 987- us- pol ice- kill- up- to- 6- times- more- black- peo ple- thanwhite- peo ple/
 - 75 See, for example, the Sentencing Project (2018) and the Urban Institute (Nembhard and Robin, 2021).
-- <sup>76</sup> Human Rights Watch, 2020c: 89; Ray, 2020.
-- <sup>77</sup> Ritchie and Jones- Brown, 2017: 22– 3.
-- <sup>78</sup> US Department of Justice, 2016: 3.
-- <sup>79</sup> Harris, 2020.
-- <sup>80</sup> Neocleous, 2021a: 11.
-- <sup>81</sup> Harcourt, 2018; Schrader, 2019.
-- <sup>82</sup> Tatour and Tatour, forthcoming.
-- <sup>83</sup> Schrader, 2019: 18.
-- <sup>84</sup> Schrader, 2019: 18– 19.
-- <sup>85</sup> ACLU, 2014; Vitale, 2017; Harcourt, 2018; Kraska and Williams, 2019; Schrader, 2019; Go, 2020.
-- <sup>86</sup> Kraska, 2007.
-- <sup>87</sup> Kraska and Williams, 2019: 145, 148, 150. See also ACLU, 2014.
+- 76 Human Rights Watch, 2020c: 89; Ray, 2020.
+- 77 Ritchie and Jones- Brown, 2017: 22– 3.
+- 78 US Department of Justice, 2016: 3.
+- 79 Harris, 2020.
+- 80 Neocleous, 2021a: 11.
+- 81 Harcourt, 2018; Schrader, 2019.
+- 82 Tatour and Tatour, forthcoming.
+- 83 Schrader, 2019: 18.
+- 84 Schrader, 2019: 18– 19.
+- 85 ACLU, 2014; Vitale, 2017; Harcourt, 2018; Kraska and Williams, 2019; Schrader, 2019; Go, 2020.
+- 86 Kraska, 2007.
+- 87 Kraska and Williams, 2019: 145, 148, 150. See also ACLU, 2014.
 
 ## Defund the Police
 
-- <sup>88</sup> Goodmark, 2015. See Chapter 6.
+- 88 Goodmark, 2015. See Chapter 6.
 - 89 During the George Floyd protests, *The Guardian* documented 950 instances of police violence against civilians and journalists. https:// www.theg uard ian. com/ us- news/ 2020/ oct/ 29/ us- pol ice- brutal ity- prot est.
-- <sup>90</sup> Human Rights Watch, 2020c: 12– 13.
-- <sup>91</sup> Neocleous, 2021b: 183.
-- <sup>92</sup> Human Rights Watch, 2020c: 49.
+- 90 Human Rights Watch, 2020c: 12– 13.
+- 91 Neocleous, 2021b: 183.
+- 92 Human Rights Watch, 2020c: 49.
 - 93 See also the training documents obtained by The Intercept https:// thein terc ept.com/ 2021/ 05/ 05/ nypd- geo rge- oyd- prote sts- train ing/
-- <sup>94</sup> Levinson et al (2020).
-- <sup>95</sup> Cunningham, 2022. Also Vitale, 2017: 197– 220.
-- <sup>96</sup> Johnson, 2021.
+- 94 Levinson et al (2020).
+- 95 Cunningham, 2022. Also Vitale, 2017: 197– 220.
+- 96 Johnson, 2021.
 
 ## **Chapter 6**
 
-- <sup>1</sup> www.theg uard ian.com/ uk- news/ 2021/ mar/ 30/ pol ice- handl ing- of- sarahever ard- vigil- appr opri ate- says- watch dog
-- <sup>2</sup> Richie (2012: 126) discusses the similar phenomenon in the US referred to as the Missing White Woman Syndrome – in terms of both media and police disregard for violence against Black women compared to White women.
+- 1 www.theg uard ian.com/ uk- news/ 2021/ mar/ 30/ pol ice- handl ing- of- sarahever ard- vigil- appr opri ate- says- watch dog
+- 2 Richie (2012: 126) discusses the similar phenomenon in the US referred to as the Missing White Woman Syndrome – in terms of both media and police disregard for violence against Black women compared to White women.
 - See www.the view mag.org.uk/
-- <sup>4</sup> www.inde pend ent.co.uk/ news/ uk/ home- news/ black- and- minor ity- eth nic- women- crimi nal- just ice- sys tem- bme- a9581 956.html
+- 4 www.inde pend ent.co.uk/ news/ uk/ home- news/ black- and- minor ity- eth nic- women- crimi nal- just ice- sys tem- bme- a9581 956.html
 - See www.bbc.com/ news/ uk- 56410 943
-- <sup>6</sup> World Health Organisation, 2021.
-- <sup>7</sup> Terwiel, 2020: 422.
-- <sup>8</sup> Cunneen and Tauri, 2017: 8, 80, 93; National Inquiry into Missing and Murdered Indigenous Women and Girls [NIMMIWG] (Canada), 2019b.
+- 6 World Health Organisation, 2021.
+- 7 Terwiel, 2020: 422.
+- 8 Cunneen and Tauri, 2017: 8, 80, 93; National Inquiry into Missing and Murdered Indigenous Women and Girls [NIMMIWG] (Canada), 2019b.
 - 9 Cited in Cunneen and Tauri, 2017: 79– 80.
-- <sup>10</sup> Sobsey, 2000; Australian Bureau of Statistics, 2021. Other women more likely to experience sexual assault include those who are homeless, identify as lesbian, gay, bisexual, trans, and gender diverse, or have intersex variations (AIHW, 2020).
-- <sup>11</sup> National Crime Records Bureau, 2020: 196.
+- 10 Sobsey, 2000; Australian Bureau of Statistics, 2021. Other women more likely to experience sexual assault include those who are homeless, identify as lesbian, gay, bisexual, trans, and gender diverse, or have intersex variations (AIHW, 2020).
+- 11 National Crime Records Bureau, 2020: 196.
 - 12 For the US analysis see Richie, 2012: 65– 98.
 - 13 For the US Taskforce see Gruber, 2020a: 101– 3. Internationally, the United Nations' Committee on the Elimination of Discrimination Against Women (CEDAW) introduced requirements for States to provide information on the incidence of violence against women and measures adopted to respond to it (1989) and to expand the denition of discrimination to include genderbased violence (1992). In Australia, the federal government's role began with developing the National Agenda for Women in 1986. The Canadian federal government began consultations for a Family Violence Initiative in 1988.
-- <sup>14</sup> Gruber, forthcoming.
-- <sup>15</sup> Davis, 1982: 172– 3.
+- 14 Gruber, forthcoming.
+- 15 Davis, 1982: 172– 3.
 
 #### Notes
 
-- <sup>16</sup> Richie, 2012: 19. See also Davis, et al (2022: 102– 8) for discussion of the role of Black, Indigenous and women of colour opposing the growing movement towards carceral feminism during the 1980s and 1990s.
-- <sup>17</sup> Aboriginal and Torres Strait Islander Women's Taskforce on Violence, 1999.
-- <sup>18</sup> Iyengar, 2007; Gruber, 2020a: 67– 83; Gruber, 2020b.
-- <sup>19</sup> Ritchie, 2006: 141– 2.
-- <sup>20</sup> Cunneen and Rowe, 2015: 10– 13.
-- <sup>21</sup> Douglas and Fitzgerald, 2018: 42, 46.
+- 16 Richie, 2012: 19. See also Davis, et al (2022: 102– 8) for discussion of the role of Black, Indigenous and women of colour opposing the growing movement towards carceral feminism during the 1980s and 1990s.
+- 17 Aboriginal and Torres Strait Islander Women's Taskforce on Violence, 1999.
+- 18 Iyengar, 2007; Gruber, 2020a: 67– 83; Gruber, 2020b.
+- 19 Ritchie, 2006: 141– 2.
+- 20 Cunneen and Rowe, 2015: 10– 13.
+- 21 Douglas and Fitzgerald, 2018: 42, 46.
 - 22 Survey countries included Australia, Costa Rica, Czech Republic, Denmark, Greece, Hong Kong, Italy, Mozambique, Philippines, Poland and Switzerland. Johnson et al, 2008: 137– 8.
-- <sup>23</sup> Johnson et al, 2008: 142.
-- <sup>24</sup> Segrave et al, 2021: 8– 12, 43.
-- <sup>25</sup> Johnson et al, 2008: 136.
+- 23 Johnson et al, 2008: 142.
+- 24 Segrave et al, 2021: 8– 12, 43.
+- 25 Johnson et al, 2008: 136.
 - 26 In the US, see Ritchie, 2006: 140; in Australia see Cunneen and Rowe, 2015: 20; in Canada see NIMMIWG, 2019a: 38.
-- <sup>27</sup> Coroners Court of New South Wales (2021).
-- <sup>28</sup> NIMMIWG, 2019a: 38.
-- <sup>29</sup> Nancarrow et al, 2020: 79.
-- <sup>30</sup> Oppenheim, 2021.
-- <sup>31</sup> Johnson et al, 2008: 145– 6.
+- 27 Coroners Court of New South Wales (2021).
+- 28 NIMMIWG, 2019a: 38.
+- 29 Nancarrow et al, 2020: 79.
+- 30 Oppenheim, 2021.
+- 31 Johnson et al, 2008: 145– 6.
 - 32 See www.was hing tonp ost.com/ dc- md- va/ 2022/ 08/ 02/ rape- kit- evide ncedest ruct ion- pol ice/ ?wpi src= nl\_ mu stre ads
-- <sup>33</sup> Australian Law Reform Commission, 2010: 26.17.
-- <sup>34</sup> Johnson et al, 2008: 148.
+- 33 Australian Law Reform Commission, 2010: 26.17.
+- 34 Johnson et al, 2008: 148.
 - 35 See www.nyti mes.com/ 2021/ 10/ 31/ world/ eur ope/ uk- pol ice- sex ual- mis cond uct.html
 - 36 See www.abc.net.au/ news/ 2020- 10- 19/ pol ice- in- austra lia- are- fail ing- totake- act ion- agai nst- domes tic/ 12757 914?nw= 0
 - 37 See www.abc.net.au/ news/ 2022- 04- 15/ josie- o cer- convic ted- domes ticviole nce- nsw- pol ice- force/ 100981 846
-- <sup>38</sup> Goodmark, 2015: 1183– 1246; Roslin, 2016: 319– 29.
-- <sup>39</sup> Goodmark, 2015.
-- <sup>40</sup> Prison Police Initiative, 2019.
-- <sup>41</sup> INCITE!, n.d, a.
-- <sup>42</sup> Ritchie, 2006: 139; 2017.
-- <sup>43</sup> Ritchie, 2017: 109– 10.
-- <sup>44</sup> Human Rights Watch, 2013: 50– 65.
-- <sup>45</sup> Human Rights Watch, 2013: 66.
-- <sup>46</sup> CEDAW, 2015: 47.
-- <sup>47</sup> National Human Rights Commission, 2018: 54, 198. Numbers of registered cases include both rapes and deaths in police custody which are not disaggregated. National Campaign Against Torture, 2020.
-- <sup>48</sup> National Campaign Against Torture, 2020: 108– 117. See also the rape of a 13- year- old Dalit girl by a police ocer when she went to the police station
+- 38 Goodmark, 2015: 1183– 1246; Roslin, 2016: 319– 29.
+- 39 Goodmark, 2015.
+- 40 Prison Police Initiative, 2019.
+- 41 INCITE!, n.d, a.
+- 42 Ritchie, 2006: 139; 2017.
+- 43 Ritchie, 2017: 109– 10.
+- 44 Human Rights Watch, 2013: 50– 65.
+- 45 Human Rights Watch, 2013: 66.
+- 46 CEDAW, 2015: 47.
+- 47 National Human Rights Commission, 2018: 54, 198. Numbers of registered cases include both rapes and deaths in police custody which are not disaggregated. National Campaign Against Torture, 2020.
+- 48 National Campaign Against Torture, 2020: 108– 117. See also the rape of a 13- year- old Dalit girl by a police ocer when she went to the police station
 
 #### Defund the Police
 
 - to report a gang rape in April 2022, www.abc.net.au/ news/ 2022- 05- 06/ teena ger- alle ged- rape- in- india- uttar- prad esh/ 101040 022
-- <sup>49</sup> Aboriginal and Torres Strait Islander Social Justice Commission, 2006.
-- <sup>50</sup> Warren- Gordon, 2021: 73– 4.
-- <sup>51</sup> National Crime Records Bureau, 2020.
-- <sup>52</sup> Nathan and Thorat, 2020.
-- <sup>53</sup> CEDAW, 2014: 3. In August, 2021, a 24- year- old woman, who had accused an MP of rape, died after setting herself on re outside the Supreme Court in New Delhi. The woman had alleged that she was being harassed by the police for reporting the politician. www.ind iato day.in/ india/ story/ alle gedrape- vic tim- succu mbs- to- injur ies- 9- days- after- self- imm olat ing- hers elf- outs ide- supr eme- court- 1844 700- 2021- 08- 24
-- <sup>54</sup> Human Rights Watch, 2021: 323.
-- <sup>55</sup> Human Rights Watch, 2021: 520.
-- <sup>56</sup> CEDAW, 2020: 7.
-- <sup>57</sup> Bari (2021); Human Rights Commission of Pakistan, 2019: 172.
-- <sup>58</sup> Human Rights Watch, 2013: 67.
-- <sup>59</sup> National Crime Records Bureau, 2019.
+- 49 Aboriginal and Torres Strait Islander Social Justice Commission, 2006.
+- 50 Warren- Gordon, 2021: 73– 4.
+- 51 National Crime Records Bureau, 2020.
+- 52 Nathan and Thorat, 2020.
+- 53 CEDAW, 2014: 3. In August, 2021, a 24- year- old woman, who had accused an MP of rape, died after setting herself on re outside the Supreme Court in New Delhi. The woman had alleged that she was being harassed by the police for reporting the politician. www.ind iato day.in/ india/ story/ alle gedrape- vic tim- succu mbs- to- injur ies- 9- days- after- self- imm olat ing- hers elf- outs ide- supr eme- court- 1844 700- 2021- 08- 24
+- 54 Human Rights Watch, 2021: 323.
+- 55 Human Rights Watch, 2021: 520.
+- 56 CEDAW, 2020: 7.
+- 57 Bari (2021); Human Rights Commission of Pakistan, 2019: 172.
+- 58 Human Rights Watch, 2013: 67.
+- 59 National Crime Records Bureau, 2019.
 - 60 See www.bbc.com/ news/ stor ies- 43262 319
-- <sup>61</sup> Transparency International, 2011: 4.
-- <sup>62</sup> White, 2021.
-- <sup>63</sup> Horton, 2020.
+- 61 Transparency International, 2011: 4.
+- 62 White, 2021.
+- 63 Horton, 2020.
 - 64 See the website 'Our Black Girls' at www.ourbla ckgi rls.com/
 - 65 For Commissioner Scipione's apology see, www.abc.net.au/ news/ 2016- 08- 11/ and rew- scipi one- apo logi ses- to- famil ies- of- bow ravi lle- child ren/ 7721 492. Also see First Nations lmmaker and academic, Larissa Behrendt (2013) documentary made with the Bowraville families.
-- <sup>66</sup> Porter and Whittaker, 2019. See also the National Justice Project, www.just ice.org.au/ famil ies- seek- clos ure- in- case- of- man- who- moles ted- dying- girl/
+- 66 Porter and Whittaker, 2019. See also the National Justice Project, www.just ice.org.au/ famil ies- seek- clos ure- in- case- of- man- who- moles ted- dying- girl/
 - 67 See www.just ice.org.au/ mona- and- cindy- 32- years- a- lon ely- road- to- just ice- for- bou rke- teens/
-- <sup>68</sup> Porter and Whittaker, 2019. See, for example, Northern Territory Coroner Greg Cavanagh's scathing comments in 2018 about substandard investigations carried out by the police into First Nations deaths. www.abc.net.au/ news/ 2018- 06- 23/ ind igen ous- mur der- cases- go- cold- as- coro ner- las hes- nt- pol ice/ 9899 946
+- 68 Porter and Whittaker, 2019. See, for example, Northern Territory Coroner Greg Cavanagh's scathing comments in 2018 about substandard investigations carried out by the police into First Nations deaths. www.abc.net.au/ news/ 2018- 06- 23/ ind igen ous- mur der- cases- go- cold- as- coro ner- las hes- nt- pol ice/ 9899 946
 - 69 See www.aph.gov.au/ Par liam enta ry\_ B usin ess/ Com mitt ees/ Sen ate/ Legal \_ and \_ Con stit utio nal\_ Aa irs/ FirstN atio nswo menc hild ren
-- <sup>70</sup> Amnesty International Canada, 2004: 19.
-- <sup>71</sup> Human Rights Watch, 2013.
-- <sup>72</sup> RCMP, 2014: 7.
-- <sup>73</sup> CERD, 2012: 5; CEDAW, 2015: 51.
-- <sup>74</sup> NIMMIWG, 2019b: 648– 51.
-- <sup>75</sup> NIMMIWG, 2019b: 630. See generally vol 1(a): 621– 719.
-- <sup>76</sup> NIMMIWG, 2019b: 690.
-- <sup>77</sup> NIMMIWG, 2019a: 4.
+- 70 Amnesty International Canada, 2004: 19.
+- 71 Human Rights Watch, 2013.
+- 72 RCMP, 2014: 7.
+- 73 CERD, 2012: 5; CEDAW, 2015: 51.
+- 74 NIMMIWG, 2019b: 648– 51.
+- 75 NIMMIWG, 2019b: 630. See generally vol 1(a): 621– 719.
+- 76 NIMMIWG, 2019b: 690.
+- 77 NIMMIWG, 2019a: 4.
 
 #### Notes
 
-- <sup>78</sup> Terwiel, 2020: 422.
-- <sup>79</sup> For example, Tapia Tapia, 2016, 2021.
+- 78 Terwiel, 2020: 422.
+- 79 For example, Tapia Tapia, 2016, 2021.
 - 80 ATSISIC, 2004: 21.
 - 81 Goodmark, 2018.
 - 82 Goodmark, 2018: 3.
 - 83 See, for example, Terwiel, 2020: 423. 'Critiques of "carceral feminism" have not only drawn much-needed attention to feminist complicity with the American prison state, they have also implied a binary choice between carceral and non-carceral feminism. I suggest that envisioning a spectrum of decarceration could ground a more expansive feminist abolitionist politics'.
-- <sup>84</sup> Nancarrow, 2021.
-- <sup>85</sup> Davis and Buxton-Namisnyk, 2021; Smee, 2021.
-- <sup>86</sup> Deslandes et al, 2022.
+- 84 Nancarrow, 2021.
+- 85 Davis and Buxton-Namisnyk, 2021; Smee, 2021.
+- 86 Deslandes et al, 2022.
 - 87 Jassal, 2020.
 - 88 Cited in Way (2021).
 
@@ -1821,110 +1857,110 @@ Brazil, despite having a population – in absolute terms – almost seven times
 - Myanmar Federation of Persons with Disabilities (2021); video at https://www.facebook.com/Poemgrapher/videos/10157471006821923/
 - There are many others. See www.theguardian.com/commentisfree/2020/jun/09/sandra-bland-eric-garner-freddie-gray-the-toll-of-police-violence-on-disabled-americans
 - The Royal Commission into Victoria's Mental Health System (2021) and the Australian Royal Commission into Violence, Abuse, Neglect and Exploitation of People with Disability (commonly known as the 'Disability Royal Commission'). Database: 'Deaths Inside: Indigenous Australian deaths in custody'. https://www.theguardian.com/australia-news/ng-interactive/2018/aug/28/deaths-inside-indigenous-australian-deaths-in-custody
-- <sup>4</sup> See www.hrw.org/topic/disability-rights
-- <sup>5</sup> Human Rights Watch, 2020d: 3.
+- 4 See www.hrw.org/topic/disability-rights
+- 5 Human Rights Watch, 2020d: 3.
 - Some writers and organisations also use the terms 'psychosocial disabilities' (mental ill-health), 'neuro-disabilities' (cognitive disability), or 'learning disabilities' (cognitive disability).
 - Rowe et al, 2017: 10–11. Like Rowe and Dowse (2021) I use the single term, not to paper over important distinctions, but to draw attention to the understanding of disability as a phenomenon which is constructed across historical and social terrains.
-- <sup>8</sup> 'The slow wearing down of populations'. Puar, 2017: xiii-iv.
-- <sup>9</sup> Appleman, 2018: 419; Mc Namara, 2021.
-- <sup>10</sup> Human Rights Watch, 2014a.
-- <sup>11</sup> Dowse et al, 2021: 10–11.
-- <sup>12</sup> Russell and Stewart, 2001.
-- <sup>13</sup> Connell, 2011; Erevelles, 2014.
+- 8 'The slow wearing down of populations'. Puar, 2017: xiii-iv.
+- 9 Appleman, 2018: 419; Mc Namara, 2021.
+- 10 Human Rights Watch, 2014a.
+- 11 Dowse et al, 2021: 10–11.
+- 12 Russell and Stewart, 2001.
+- 13 Connell, 2011; Erevelles, 2014.
 - Royal Commission into Victoria's Mental Health System (2021: vol 3, 360–6) and Australian Royal Commission into Violence, Abuse, Neglect
 
 #### Defund the Police
 
 - and Exploitation of People with Disability which is commonly referred to as the 'Disability Royal Commission'.
-- <sup>15</sup> Ritchie, 2017: 93.
+- 15 Ritchie, 2017: 93.
 - See https://www.change.org/p/please-give-people-with-cognitive-disability-a-fair-go-in-the-justice-system
-- <sup>17</sup> Cited in Huey et al, 2021: 19.
-- <sup>18</sup> Independent Police Complaints Commission, 2010: 53–4.
+- 17 Cited in Huey et al, 2021: 19.
+- 18 Independent Police Complaints Commission, 2010: 53–4.
 - Mental Health Act (2014); Royal Commission into Victoria's Mental Health System, 2021: vol 4, 371.
-- <sup>20</sup> Vallas, 2016: 5.
+- 20 Vallas, 2016: 5.
 - NSW Law Reform Commission, 2012: 59; Huey et al, 2021: 17. In Victoria, Australia, mental health related 'attendances' by police grew by an average of 13 per cent each year between 2014 and 2018 (Royal Commission into Victoria's Mental Health System, 2021: vol 1, 514).
 - For reference to the literature see Dowse et al, 2021: 21–22; also VEOHRC, 2014: 20–25.
-- <sup>23</sup> Police Accountability Project, 2019a: 14–15.
+- 23 Police Accountability Project, 2019a: 14–15.
 - Perry and Carter-Long, 2016; Law Council of Australia, 2018: 18–25; Dowse et al, 2021.
 - See https://www.theguardian.com/us-news/2021/may/16/north-carolina-jury-awards-75m-to-brothers-wrongly-convicted-of-1983
-- <sup>26</sup> Appleman, 2018: 463.
-- <sup>27</sup> Appleman, 2018: 465.
-- <sup>28</sup> AIHW, 2018.
-- <sup>29</sup> Appleman, 2018: 464.
-- <sup>30</sup> Human Rights Watch, 2014b: 8.
-- <sup>31</sup> Human Rights Watch, 2014b: 8.
-- <sup>32</sup> Human Rights Watch, 2020d: 45.
+- 26 Appleman, 2018: 463.
+- 27 Appleman, 2018: 465.
+- 28 AIHW, 2018.
+- 29 Appleman, 2018: 464.
+- 30 Human Rights Watch, 2014b: 8.
+- 31 Human Rights Watch, 2014b: 8.
+- 32 Human Rights Watch, 2020d: 45.
 - National Disability Network and National Committee on the Rights of Persons with Disability, 2017: para 49.
-- <sup>34</sup> Human Rights Watch, 2014a.
+- 34 Human Rights Watch, 2014a.
 - 35 See www.washingtonpost.com/graphics/investigations/police-shootings-database/?itid=lk\_interstitial\_manual\_10 as at 22 September 2021.
-- <sup>36</sup> Perry and Carter-Long, 2016: 1; Vallas, 2016.
+- 36 Perry and Carter-Long, 2016: 1; Vallas, 2016.
 - For discussion of the US and international data, see Fuller et al. 2015.
-- <sup>38</sup> See https://newsinteractives.cbc.ca/fatalpoliceencounters/
+- 38 See https://newsinteractives.cbc.ca/fatalpoliceencounters/
 - Morgan, 2021: 4–5; Civilian Complaint Review Board, 2019: 7.
-- <sup>40</sup> Police Accountability Project, 2019a: 5.
-- <sup>41</sup> For example, Perry and Carter-Long, 2016; Harriet Tubman Collective, 2017.
-- <sup>42</sup> Runnymede Trust, 2021: 21. See, for example, the death of Sean Rigg, https://www.inquest.org.uk/sean-rigg-inquest-opens
+- 40 Police Accountability Project, 2019a: 5.
+- 41 For example, Perry and Carter-Long, 2016; Harriet Tubman Collective, 2017.
+- 42 Runnymede Trust, 2021: 21. See, for example, the death of Sean Rigg, https://www.inquest.org.uk/sean-rigg-inquest-opens
 - 43 Huev et al, 2021: 20-21.
 - See https://www.theguardian.com/australia-news/ng-interactive/2018/aug/28/deaths-inside-indigenous-australian-deaths-in-custody
-- <sup>45</sup> AHRC, 2014; VEOHRC, 2014; Police Accountability Project, 2019a: 5.
+- 45 AHRC, 2014; VEOHRC, 2014; Police Accountability Project, 2019a: 5.
 - Sobsey, 2000; Bowman et al, 2010; Australian Bureau of Statistics, 2021.
 
 #### Notes
 
-- <sup>47</sup> Jordan, 2004: 37; Murray and Heenan, 2012: 280.
-- <sup>48</sup> Human Rights Watch, 2018: 33– 8.
-- <sup>49</sup> Armstrong, 2020.
-- <sup>50</sup> Keilty and Connelly, 2001: 280; Human Rights Watch, 2018: 26– 9. For a discussion of the literature on low reporting rates, and why many people with disability who are victims of crime do not believe that the police will protect them and are reluctant to seek help or protection from the police, see AHRC, 2014; VEOHRC, 2014: 50; Dowse et al, 2021: 12– 18.
-- <sup>51</sup> Ritchie, 2017: 88– 103.
+- 47 Jordan, 2004: 37; Murray and Heenan, 2012: 280.
+- 48 Human Rights Watch, 2018: 33– 8.
+- 49 Armstrong, 2020.
+- 50 Keilty and Connelly, 2001: 280; Human Rights Watch, 2018: 26– 9. For a discussion of the literature on low reporting rates, and why many people with disability who are victims of crime do not believe that the police will protect them and are reluctant to seek help or protection from the police, see AHRC, 2014; VEOHRC, 2014: 50; Dowse et al, 2021: 12– 18.
+- 51 Ritchie, 2017: 88– 103.
 - 52 See www.cri key.com.au/ 2021/ 10/ 25/ death- in- gerald ton- how- joyce- cla rkebec ame- anot her- ind igen ous- statis tic/For a video of the police killing see www.wato day.com.au/ natio nal/ west ern- austra lia/ wa- pol ice- o cer- acquit ted-of- mur der- over- shoot ing- of- gerald ton- woman- 20211 022- p592g3.html
-- <sup>53</sup> Dowse et al, 2021: 5– 6.
-- <sup>54</sup> Thomas, 2021.
-- <sup>55</sup> Thompson, 2021b.
-- <sup>56</sup> Angiolini, 2017; Karakulak and Kurmelovs, 2021.
-- <sup>57</sup> Her Majesty's Inspectorate of Constabulary, 2018: 12.
-- <sup>58</sup> Huey et al, 2021: 20.
-- <sup>59</sup> Consortium for Citizens with Disabilities, 2020.
-- <sup>60</sup> Canadian Mental Health Association, 2020. See www.cmha.ca/ news/ statem ent- on- pol ice- and-welln ess- che cks
+- 53 Dowse et al, 2021: 5– 6.
+- 54 Thomas, 2021.
+- 55 Thompson, 2021b.
+- 56 Angiolini, 2017; Karakulak and Kurmelovs, 2021.
+- 57 Her Majesty's Inspectorate of Constabulary, 2018: 12.
+- 58 Huey et al, 2021: 20.
+- 59 Consortium for Citizens with Disabilities, 2020.
+- 60 Canadian Mental Health Association, 2020. See www.cmha.ca/ news/ statem ent- on- pol ice- and-welln ess- che cks
 - 61 See also *The Guardian* database 'Deaths Inside: Indigenous Australian deaths in custody': https:// www.theg uard ian.com/ austra lia- news/ ng- inte ract ive/ 2018/ aug/ 28/ dea ths- ins ide- ind igen ous- aus tral ian- dea ths- in- cust ody
-- <sup>62</sup> Dowse et al, 2021. For examples caught on video of police violence, intimidation and arrest when making a welfare check see: www.the age.com. au/ natio nal/ victo ria/ four- pol ice- oc ers- invol ved- in- brutal ity- cla ims- suspen ded- 20180 406- p4z 875.html, and www.dailym ail.co.uk/ news/ arti cle- 5632 205/ Sen ior- consta ble- swe ars- man- cal led- ambula nce- help- suici dal- fri end.html
+- 62 Dowse et al, 2021. For examples caught on video of police violence, intimidation and arrest when making a welfare check see: www.the age.com. au/ natio nal/ victo ria/ four- pol ice- oc ers- invol ved- in- brutal ity- cla ims- suspen ded- 20180 406- p4z 875.html, and www.dailym ail.co.uk/ news/ arti cle- 5632 205/ Sen ior- consta ble- swe ars- man- cal led- ambula nce- help- suici dal- fri end.html
 - 63 There are many examples. See for instance in the UK, Her Majesty's Inspectorate of Constabulary (2018b: 3, 8); in Australia, the Royal Commission into Victoria's Mental Health System (2021: 24, 48) and the Police Accountability Project (2019: 10); in Canada, the Canadian Mental Health Association (2020), the Centre for Addiction and Mental Health (2020) and groups such as Doctors for Defunding the Police; and in the US, the Consortium for Citizens with Disabilities (2020) and Abolition and Disability Justice Coalition (2021).
 - 64 For example, the Royal Commission into Victoria's Mental Health System (2021: vol 3, 358) disapprovingly compared the \$1.8 billion funding for expanded prison capacity in the State's budget to the much smaller allocations for community- based mental health services or diversion, rehabilitation, and reintegration programmes. Police themselves acknowledged to the Royal Commission the impact of inadequate investment in community- based mental health services compared to police investment over decades with an almost exclusive focus on increasing the number of police.
 
 ## Defund the Police
 
-- <sup>65</sup> Kim et al, 2021.
+- 65 Kim et al, 2021.
 - 66 We might also add the role of police violence and discrimination during the public health responses to COVID- 19. In addition to the violent policing of COVID- 19 public health regulations already referred to in the book, one might add the racially discriminatory aspects of policing. In the UK, police use of force increased against Black and racially minoritised communities during the COVID- 19 pandemic, even while crime rates were dropping (Harris et al, 2022).
-- <sup>67</sup> Alang et al, 2017; Jablonski, 2021.
-- <sup>68</sup> Alang et al, 2017: 662– 5.
-- <sup>69</sup> Alang et al, 2017; Police Accountability Project, 2019; Thompson, 2021. See also Chapter 5 reference to NCAT (India) and INQUEST (UK) who identify individuals who have committed suicide as a result of the trauma caused by police abuse and torture.
-- <sup>70</sup> Deivanayagam et al, 2021: 2.
-- <sup>71</sup> APHA, 2018.
-- <sup>72</sup> APHA, 2018.
-- <sup>73</sup> APHA, 2021.
+- 67 Alang et al, 2017; Jablonski, 2021.
+- 68 Alang et al, 2017: 662– 5.
+- 69 Alang et al, 2017; Police Accountability Project, 2019; Thompson, 2021. See also Chapter 5 reference to NCAT (India) and INQUEST (UK) who identify individuals who have committed suicide as a result of the trauma caused by police abuse and torture.
+- 70 Deivanayagam et al, 2021: 2.
+- 71 APHA, 2018.
+- 72 APHA, 2018.
+- 73 APHA, 2021.
 
 ## **Chapter 8**
 
 - See Diphoorn et al, 2021 and associated articles in *Policing*, vol 15, no 1.
-- <sup>2</sup> Sivanandan, 1990: 134.
-- <sup>3</sup> Stuart Hall, 1999: 189– 90.
-- <sup>4</sup> Hall, 1999: 196.
-- <sup>5</sup> Lammy, 2017.
-- <sup>6</sup> Deloitte, 2018; see *The Guardian* database, www.theg uard ian.com/ austra lia- news/ ser ies/ dea ths- ins ide.
-- <sup>7</sup> Worden and Mc Lean, 2017: 4– 5.
-- <sup>8</sup> Schrader, 2019: 4– 5, 196– 7.
-- <sup>9</sup> Independent Commission on the Los Angeles Police Department, 1991. See also Human Rights Watch, www.hrw.org/ leg acy/ report s98/ pol ice/ usp o74. htm#Top OfP age
-- <sup>10</sup> President's Task Force on 21st Century Policing, 2015: iii.
-- <sup>11</sup> Kaba, 2021: 16; Maher, 2021: 79.
-- <sup>12</sup> Schrader, 2015.
-- <sup>13</sup> Kelley, 2020.
+- 2 Sivanandan, 1990: 134.
+- 3 Stuart Hall, 1999: 189– 90.
+- 4 Hall, 1999: 196.
+- 5 Lammy, 2017.
+- 6 Deloitte, 2018; see *The Guardian* database, www.theg uard ian.com/ austra lia- news/ ser ies/ dea ths- ins ide.
+- 7 Worden and Mc Lean, 2017: 4– 5.
+- 8 Schrader, 2019: 4– 5, 196– 7.
+- 9 Independent Commission on the Los Angeles Police Department, 1991. See also Human Rights Watch, www.hrw.org/ leg acy/ report s98/ pol ice/ usp o74. htm#Top OfP age
+- 10 President's Task Force on 21st Century Policing, 2015: iii.
+- 11 Kaba, 2021: 16; Maher, 2021: 79.
+- 12 Schrader, 2015.
+- 13 Kelley, 2020.
 - 14 See www.whi teho use.gov/ state- of- the- union- 2022/
-- <sup>15</sup> Levine 1994; Jassal, 2020: 1035– 1036.
-- <sup>16</sup> Borwankar (2019).
-- <sup>17</sup> Common Cause and CSDS, 2019: 32– 33; Borwankar (2019).
-- <sup>18</sup> Common Cause and CSDS, 2019: 32– 33; Borwankar (2019).
-- <sup>19</sup> Varghese, 2018. Also for Pakistan see Waseem (forthcoming).
-- <sup>20</sup> Productivity Commission, 2022, Table 6A.2. This is likely an over- estimate of their representation because it includes *both* sworn police ocers and other sta.
-- <sup>21</sup> Cunneen, 2001: 145– 6; Gorrie, 2021.
+- 15 Levine 1994; Jassal, 2020: 1035– 1036.
+- 16 Borwankar (2019).
+- 17 Common Cause and CSDS, 2019: 32– 33; Borwankar (2019).
+- 18 Common Cause and CSDS, 2019: 32– 33; Borwankar (2019).
+- 19 Varghese, 2018. Also for Pakistan see Waseem (forthcoming).
+- 20 Productivity Commission, 2022, Table 6A.2. This is likely an over- estimate of their representation because it includes *both* sworn police ocers and other sta.
+- 21 Cunneen, 2001: 145– 6; Gorrie, 2021.
 
 ## Notes
 
@@ -1973,58 +2009,58 @@ Brazil, despite having a population – in absolute terms – almost seven times
 
 ## Defund the Police
 
-- <sup>64</sup> Hall, 1999.
-- <sup>65</sup> Human Rights Watch, 2020c: 86.
-- <sup>66</sup> Cunneen, 2001: 205– 10; Vitale, 2017: 16– 17.
-- <sup>67</sup> Runnymede Trust, 2021: 21.
-- <sup>68</sup> IPID, 2021: 38; Knoetze (2020).
-- <sup>69</sup> Human Rights Watch, 2021: 390.
-- <sup>70</sup> Tankebe, 2008: 82.
-- <sup>71</sup> Human Rights Watch, 2014c.
-- <sup>72</sup> Human Rights Council, 2019: para 43.
-- <sup>73</sup> Mahtani, 2020.
+- 64 Hall, 1999.
+- 65 Human Rights Watch, 2020c: 86.
+- 66 Cunneen, 2001: 205– 10; Vitale, 2017: 16– 17.
+- 67 Runnymede Trust, 2021: 21.
+- 68 IPID, 2021: 38; Knoetze (2020).
+- 69 Human Rights Watch, 2021: 390.
+- 70 Tankebe, 2008: 82.
+- 71 Human Rights Watch, 2014c.
+- 72 Human Rights Council, 2019: para 43.
+- 73 Mahtani, 2020.
 - 74 The remaining 23 states and all union territories are non- compliant; Commonwealth Human Rights Initiative, 2021.
-- <sup>75</sup> President's Task Force on 21st Century Policing, 2015: 26.
-- <sup>76</sup> Human Rights Watch, 2020c: 7.
-- <sup>77</sup> NIMMIWG, 2019b: 690.
-- <sup>78</sup> Hopkins, 2010: 6– 11; the Police Ombudsman of Northern Ireland is often mentioned as a relatively successful model, but still with limitations. Also see on police reform generally, Vitale, 2017: 17– 22; Correia and Wall, 2018: 159– 71.
+- 75 President's Task Force on 21st Century Policing, 2015: 26.
+- 76 Human Rights Watch, 2020c: 7.
+- 77 NIMMIWG, 2019b: 690.
+- 78 Hopkins, 2010: 6– 11; the Police Ombudsman of Northern Ireland is often mentioned as a relatively successful model, but still with limitations. Also see on police reform generally, Vitale, 2017: 17– 22; Correia and Wall, 2018: 159– 71.
 - 79 For example, in the US, qualied immunity protects police from civil lawsuits; current Australian laws provide for immunity from criminal liability for police, corrections sta, and other law enforcement ocers for actions carried out in the course of their duties; in India, section 197 of the Code of Criminal Procedure requires State or Central government approval before a public ocial can be charged with criminal oences while acting in the discharge of their duties.
-- <sup>80</sup> Mc Culloch, 2017.
+- 80 Mc Culloch, 2017.
 - 81 For example, Vitale, 2017; Kaba, 2021; Maher, 2021; Davis et al, 2022.
-- <sup>82</sup> Cited in Emerge, n.d.
-- <sup>83</sup> Kaba, 2021: 93– 8.
-- <sup>84</sup> Kaba, 2021: 96.
+- 82 Cited in Emerge, n.d.
+- 83 Kaba, 2021: 93– 8.
+- 84 Kaba, 2021: 96.
 
 ## **Chapter 9**
 
 - Ruth Wilson Gilmore interviewed in Kushner (2019).
 - Cullors, interviewed in Heatherton (2016): 37.
 - Ruth Wilson Gilmore, www.twit ter.com/ rwg ilmo regi rls/ ; www.instag ram. com/ p/ CZBN ZSms kdF/and also Ruth Gilmore Wilson, 17 April 2019, Lannan Foundation. Available at: www.yout ube.com/ watch?v= YeOY 9Z3r Z94&list= WL&index= 10
-- <sup>4</sup> Davis and Martinez, 1994; Davis, 2005: 52.
-- <sup>5</sup> Spade, 2020: 15. He cites the example of working with homeless people which reveals that 'racism, colonialism, immigration enforcement, ableism, police violence, the foster care system, the healthcare system, transphobia, and more are all causes of homelessness or cause further harm to homeless people'.
-- <sup>6</sup> Kaba, 2021: 64.
+- 4 Davis and Martinez, 1994; Davis, 2005: 52.
+- 5 Spade, 2020: 15. He cites the example of working with homeless people which reveals that 'racism, colonialism, immigration enforcement, ableism, police violence, the foster care system, the healthcare system, transphobia, and more are all causes of homelessness or cause further harm to homeless people'.
+- 6 Kaba, 2021: 64.
 
 ## Notes
 
-<sup>7</sup> Ray, 2020. Andrew Coyle connects this approach to justice reinvestment (JR). He writes,
+7 Ray, 2020. Andrew Coyle connects this approach to justice reinvestment (JR). He writes,
 
 > the intellectual case for a new approach based on community safety and security has been constructed gradually. Initially spurred on by urban geographers and other social scientists it has been picked up at a practical level in a variety of disparate settings and is generally described as JR. Very broadly, this has involved assessing the total resources, nancial and other, that are expended on the criminal justice system; evaluating what benet members of the public and taxpayers get from this expenditure; and considering whether there might be other ways of distributing these considerable resources at local levels to provide a better return on this substantial public investment. (Coyle, 2022)
 
-- <sup>8</sup> Davis, 2005; Mc Leod, 2019; Terwiel, 2020: 423– 4.
-- <sup>9</sup> Spade, 2020: 9– 20.
-- <sup>10</sup> Mignolo, 2017: 16.
-- <sup>11</sup> Davis et al, 2022: 22.
-- <sup>12</sup> Davis, 2003: 106– 7.
+- 8 Davis, 2005; Mc Leod, 2019; Terwiel, 2020: 423– 4.
+- 9 Spade, 2020: 9– 20.
+- 10 Mignolo, 2017: 16.
+- 11 Davis et al, 2022: 22.
+- 12 Davis, 2003: 106– 7.
 - 13 There is a preference for 'options' rather than 'alternatives' because the idea of alternatives already accepts the centrality of police and policing as the point of reference.
-- <sup>14</sup> Kaba, 2021: 13.
-- <sup>15</sup> Ajadi et al, n.d.; INCITE!, n.d. b; Vitale, 2017; Beck et al, 2020; Critical Resistance, 2020; Irwin and Pearl, 2020; Pearl, 2020; Kaba, 2021: 13, 70– 71; Kim et al, 2021; Maher, 2021; Davis et al, 2022: 185– 91; One Million Experiments at http:// www.mil lion expe rime nts.com/ ; #8 to Abolition at www.8toab olit ion.com; Don't Call the Police at www.dontca llth epol ice.com/
-- <sup>16</sup> INCITE!, n.d. b; Vitale, 2017; Beck et al, 2020; Critical Resistance, 2020; Irwin and Pearl, 2020; Pearl, 2020; Kaba, 2021: 13, 70– 1; Kim et al, 2021; Maher, 2021; Davis et al, 2022: 185– 91. One Million Experiments at http:// www.mil lion expe rime nts.com/ ; #8 to Abolition at www.8toab olit ion.com; Don't Call the Police at www.dontca llth epol ice.com/ .
+- 14 Kaba, 2021: 13.
+- 15 Ajadi et al, n.d.; INCITE!, n.d. b; Vitale, 2017; Beck et al, 2020; Critical Resistance, 2020; Irwin and Pearl, 2020; Pearl, 2020; Kaba, 2021: 13, 70– 71; Kim et al, 2021; Maher, 2021; Davis et al, 2022: 185– 91; One Million Experiments at http:// www.mil lion expe rime nts.com/ ; #8 to Abolition at www.8toab olit ion.com; Don't Call the Police at www.dontca llth epol ice.com/
+- 16 INCITE!, n.d. b; Vitale, 2017; Beck et al, 2020; Critical Resistance, 2020; Irwin and Pearl, 2020; Pearl, 2020; Kaba, 2021: 13, 70– 1; Kim et al, 2021; Maher, 2021; Davis et al, 2022: 185– 91. One Million Experiments at http:// www.mil lion expe rime nts.com/ ; #8 to Abolition at www.8toab olit ion.com; Don't Call the Police at www.dontca llth epol ice.com/ .
 - 17 Discussed previously; see also Abolitionist Futures, UK (www.abolitio nist futu res.com/ def und- the- pol ice); and Reimagining Justice in South Africa Beyond Policing (www.drive.goo gle.com/ le/ d/ 1kr Ncg \_ saP FABq ju Fk QvtV KUpI jivd 8Es/ view).
 - 18 See www.acc ount able now.com/
 - 19 See www.cpdp.co/
 - 20 See www.caps tat.nyc/
 - 21 See www.was hing tonp ost.com/ inv esti gati ons/ inte ract ive/ 2022/ pol ice- mis cond uct- repea ted- sett leme nts/
-- <sup>22</sup> Gandel, 2021.
+- 22 Gandel, 2021.
 
 ## Defund the Police
 
@@ -2531,9 +2567,33 @@ Wright, D. (2004) *Report of the Commission of Inquiry into Matters Relating to 
 
 References to gures appear in *italic* type. References to endnotes show both the page number and the note number (231n3).
 
-| 2SLGBTQQIA<br>people 117, 126<br>A<br>Abbott, Greg 2<br>ABC (Australian Broadcasting<br>Commission) 118 | African– Australian young people 57<br>African Caribbean young people 57<br>Alexander, Michelle 33<br>Algeria 27<br>algorithms and AI 160<br>Allard, T. 45<br>All Party Parliamentary Group on |
+| 2SLGBTQQIA
+people 117, 126
+A
+Abbott, Greg 2
+ABC (Australian Broadcasting
+Commission) 118 | African– Australian young people 57
+African Caribbean young people 57
+Alexander, Michelle 33
+Algeria 27
+algorithms and AI 160
+Allard, T. 45
+All Party Parliamentary Group on |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| abolition horizon 166<br>abolitionism 1, 4– 5, 14, 18, 22,<br>168– 70, 189– 90<br>Aboriginal activists<br>65<br>Aboriginal- Australian Fellowship 68<br>Aboriginal children 54, 124<br>Aboriginal- controlled legal, medical, | Women in the Penal System<br>(UK) 117<br>all- women police stations 128<br>American Indian Movement<br>(AIM) 64, 66, 67– 8, 69<br>American Medical Association 142<br>American Public Health Association |
+| abolition horizon 166
+abolitionism 1, 4– 5, 14, 18, 22,
+168– 70, 189– 90
+Aboriginal activists
+65
+Aboriginal- Australian Fellowship 68
+Aboriginal children 54, 124
+Aboriginal- controlled legal, medical, | Women in the Penal System
+(UK) 117
+all- women police stations 128
+American Indian Movement
+(AIM) 64, 66, 67– 8, 69
+American Medical Association 142
+American Public Health Association |
 | housing, and childcare services 69 | (APHA) 145– 6 |
 | Aboriginal Housing Company 69 | Amnesty International 8, 77, 79, |
 | Aboriginal justice 80, 182 | 84, 125 |
@@ -2621,58 +2681,175 @@ References to gures appear in *italic* type. References to endnotes show both th
 
 | C | Chicago 42, 47, 89, 174 |
 |------------------------------------------------|----------------------------------------|
-| Cain,<br>Maureen<br>37 | children 122– 6 |
-| calls<br>for<br>service<br>44 | chokeholds 155 |
+| Cain,
+Maureen
+37 | children 122– 6 |
+| calls
+for
+service
+44 | chokeholds 155 |
 | Canada | citizen and community action |
-| abolitionist<br>movement<br>80–1 | 171– 2, 174 |
-| Aboriginal<br>women<br>gender-based | Citizens Police Data Project |
-| violence<br>120 | (Chicago) 174 |
+| abolitionist
+movement
+80–1 | 171– 2, 174 |
+| Aboriginal
+women
+gender-based | Citizens Police Data Project |
+| violence
+120 | (Chicago) 174 |
 | | Civilian Complaint Review Board |
-| Black<br>and<br>First<br>Nations | (CCRB, NY) 84, 102, |
-| peoples<br>10–11 | 139, 159 |
-| budgets<br>2 | civilian oversight 164 |
-| civil<br>and<br>colonial<br>modes<br>of | 'civilise' and assimilating Indigenous |
-| policing<br>26 | peoples 30 |
-| colonial<br>dispossession<br>and | Coalition Against Rape and Abuse |
-| repression<br>13 | (CARA, US) 179 |
-| community<br>health<br>surveys<br>135 | Cobden Trust 71 |
-| criminalising<br>coercive<br>control<br>128 | cognitive impairments 131, |
-| deaths<br>in<br>police<br>custody<br>89–90 | 132, 133 |
-| Department<br>of<br>Indian<br>Aairs | COINTELPRO (FBI) 66 |
-| (DIA)<br>31 | Cold War 36 |
-| fatal<br>shootings<br>139–40 | College of Policing (England and |
-| Indian<br>Act<br>1876<br>30–1 | Wales) 44 |
-| missing<br>and<br>murdered<br>Aboriginal | Colonial Frontier Massacres |
-| women<br>and<br>children<br>125–6 | Project 30n38 |
-| Mounted<br>Police<br>30 | colonial policing 25– 9, 37– 41, |
-| NIMMIWG<br>report<br>117,<br>165 | 183, 186 |
-| police<br>killings<br>90,<br>130 | colonial regulation 31 |
-| prisons<br>holding<br>people<br>with<br>mental | colonial states |
-| illness<br>132 | gender violence 39 |
-| settler<br>colonialism<br>30 | police and the military 170 |
-| 2SLGBTQQIA<br>fearing<br>police<br>117 | police violence 27, 64 |
-| Canadian<br>Broadcasting<br>Commission | response to resistance 32 |
-| (CBC)<br>10–11,<br>89–90,<br>139 | treatment of Black and First |
-| Canadian<br>Mental<br>Health | Nations 24 |
-| Association<br>143 | colonial- style police forces 5 |
-| Canadian<br>Quaker<br>Committee<br>on | A Colony in a Nation (Hayes) 53 |
-| Jails<br>and<br>Justice<br>80–1 | Columbia 10 |
-| Canadian<br>Royal<br>Commission<br>on | Combahee River Collective 114 |
-| Aboriginal<br>Peoples<br>80 | Commission on Human Rights |
-| capitalist<br>'free<br>market'<br>71–2 | (Philippines) 91 |
-| CAPstat<br>database<br>174 | Committee for Reforms in Criminal |
-| carceral<br>abolitionism<br>146 | Law (India) 13 |
-| carceral<br>feminism<br>127–8 | Committee to Defend Black Rights |
-| carceral<br>society<br>5 | (CDBR, Australia) 76– 7, 99 |
-| carceral<br>states<br>18–20 | community- based approaches 68, |
-| Caribbean<br>9 | 144, 183– 4, 189 |
-| Carmichael,<br>Stokely<br>64 | community- based health care 66– 7 |
-| Carvalho,<br>B.<br>184 | community- based organisations 73– |
-| Center<br>for<br>Disease<br>Control<br>and | 4, 85, 179– 80 |
-| Prevention<br>(CDC,<br>US) | community control 184 |
-| 88–9,<br>179 | community/ police relationships 51 |
-| Chapeltown<br>riots<br>(Leeds)<br>72 | community policing 161– 3 |
-| Chauvin,<br>Derek<br>6,<br>155 | see also<br>local police |
+| Black
+and
+First
+Nations | (CCRB, NY) 84, 102, |
+| peoples
+10–11 | 139, 159 |
+| budgets
+2 | civilian oversight 164 |
+| civil
+and
+colonial
+modes
+of | 'civilise' and assimilating Indigenous |
+| policing
+26 | peoples 30 |
+| colonial
+dispossession
+and | Coalition Against Rape and Abuse |
+| repression
+13 | (CARA, US) 179 |
+| community
+health
+surveys
+135 | Cobden Trust 71 |
+| criminalising
+coercive
+control
+128 | cognitive impairments 131, |
+| deaths
+in
+police
+custody
+89–90 | 132, 133 |
+| Department
+of
+Indian
+Aairs | COINTELPRO (FBI) 66 |
+| (DIA)
+31 | Cold War 36 |
+| fatal
+shootings
+139–40 | College of Policing (England and |
+| Indian
+Act
+1876
+30–1 | Wales) 44 |
+| missing
+and
+murdered
+Aboriginal | Colonial Frontier Massacres |
+| women
+and
+children
+125–6 | Project 30n38 |
+| Mounted
+Police
+30 | colonial policing 25– 9, 37– 41, |
+| NIMMIWG
+report
+117,
+165 | 183, 186 |
+| police
+killings
+90,
+130 | colonial regulation 31 |
+| prisons
+holding
+people
+with
+mental | colonial states |
+| illness
+132 | gender violence 39 |
+| settler
+colonialism
+30 | police and the military 170 |
+| 2SLGBTQQIA
+fearing
+police
+117 | police violence 27, 64 |
+| Canadian
+Broadcasting
+Commission | response to resistance 32 |
+| (CBC)
+10–11,
+89–90,
+139 | treatment of Black and First |
+| Canadian
+Mental
+Health | Nations 24 |
+| Association
+143 | colonial- style police forces 5 |
+| Canadian
+Quaker
+Committee
+on | A Colony in a Nation (Hayes) 53 |
+| Jails
+and
+Justice
+80–1 | Columbia 10 |
+| Canadian
+Royal
+Commission
+on | Combahee River Collective 114 |
+| Aboriginal
+Peoples
+80 | Commission on Human Rights |
+| capitalist
+'free
+market'
+71–2 | (Philippines) 91 |
+| CAPstat
+database
+174 | Committee for Reforms in Criminal |
+| carceral
+abolitionism
+146 | Law (India) 13 |
+| carceral
+feminism
+127–8 | Committee to Defend Black Rights |
+| carceral
+society
+5 | (CDBR, Australia) 76– 7, 99 |
+| carceral
+states
+18–20 | community- based approaches 68, |
+| Caribbean
+9 | 144, 183– 4, 189 |
+| Carmichael,
+Stokely
+64 | community- based health care 66– 7 |
+| Carvalho,
+B.
+184 | community- based organisations 73– |
+| Center
+for
+Disease
+Control
+and | 4, 85, 179– 80 |
+| Prevention
+(CDC,
+US) | community control 184 |
+| 88–9,
+179 | community/ police relationships 51 |
+| Chapeltown
+riots
+(Leeds)
+72 | community policing 161– 3 |
+| Chauvin,
+Derek
+6,
+155 | see also
+local police |
 
 ## Index
 
@@ -2697,7 +2874,8 @@ References to gures appear in *italic* type. References to endnotes show both th
 | COVID- 19 pandemic 7, 9, 10, 13, | Desai, Saima 20 |
 | 98, 145n66 | Dhu, Julieka 98, 99– 100 |
 | Coyle, Andrew 169n7 | disability awareness training 156– 7 |
-| 'credible messengers' 177, 178 | see also<br>people with disabilities |
+| 'credible messengers' 177, 178 | see also
+people with disabilities |
 | Crenshaw, Kimberlé 86 | disarming and |
 | crime statistics 51 | demilitarising 173, 186– 8 |
 | crime victim surveys 48 | Discipline and Punish (Foucault) 21– 2 |
@@ -2705,8 +2883,12 @@ References to gures appear in *italic* type. References to endnotes show both th
 | criminalisation and | 58– 9, 62, 88 |
 | imprisonment 18, 24, 126– 8, | discriminatory policing 57 |
 | 132, 145, 169 | diversity 152– 4 |
-| criminalised people with<br>disabilities 140 | divesting from police 45,<br>168, 188– 9 |
-| Crisis Assistance Helping out on the<br>Streets (CAHOOTS) 175– 7 | domestic violence 114– 15, 118– 19,<br>178– 9 |
+| criminalised people with
+disabilities 140 | divesting from police 45,
+168, 188– 9 |
+| Crisis Assistance Helping out on the
+Streets (CAHOOTS) 175– 7 | domestic violence 114– 15, 118– 19,
+178– 9 |
 | crisis intervention workers 175 | Dominican Republic 35 |
 | Critical Resistance 4, 81– 2, 179 | Doomadgee, Cameron 80, 98 |
 | Cuba 9 | 'dowry death' murders 113 |
@@ -2718,7 +2900,8 @@ References to gures appear in *italic* type. References to endnotes show both th
 | databases 88– 90, 174– 5 | |
 | Davis, Angela Y. 18, 19– 20, 33, | E |
 | 114, 169, 170 | economic abuse 178– 9 |
-| Deadly Force database (CBC) 10– 11, | Economic and Political Weekly<br>9, 121 |
+| Deadly Force database (CBC) 10– 11, | Economic and Political Weekly
+9, 121 |
 | | |
 | 89– 90, 139 | economic exploitation 26 |
 | deaths arising from minor | Elliot- Cooper, Adam 75, 76 |
@@ -2765,7 +2948,8 @@ References to gures appear in *italic* type. References to endnotes show both th
 | Post) 88 | global north/ south divide 5 |
 | fatal shootings | 'global' policing 35 |
 | Australia 90, 130– 1, 141, 187 | global protests 11– 12 |
-| Canada 139– 40 | Globe and Mail<br>11 |
+| Canada 139– 40 | Globe and Mail
+11 |
 | Latin America 9– 10 | Goodmark, Leigh 107, 118– 19, |
 | United States (US) 46, 88, 90 | 157, 178 |
 | favelas (Brazil) 91, 98 | Gordon, P. 70 |
@@ -2774,7 +2958,8 @@ References to gures appear in *italic* type. References to endnotes show both th
 | Federal Race Discrimination | Greenwood, Tulsa, Oklahoma 34 |
 | Commissioner (Australia) 79 | Gruber, Aya 114, 178 |
 | Félix, Ágatha 98 | Guardia Civil 23 |
-| Female and male Elders 180– 2 | The Guardian<br>89, 100, 131, 140 |
+| Female and male Elders 180– 2 | The Guardian
+89, 100, 131, 140 |
 | feminist abolitionism 127, 128 | Guatemala 36 |
 | feminist activism 113– 14 | Guiliani, Rudolph 82– 3 |
 | nancial costs for misconduct 174– 5 | Gundy, David 78 |
@@ -2791,13 +2976,15 @@ References to gures appear in *italic* type. References to endnotes show both th
 
 ## Index
 
-| 'hasty<br>cremations' 121 | Independent Policing Oversight |
+| 'hasty
+cremations' 121 | Independent Policing Oversight |
 |------------------------------------|--------------------------------------------|
 | Hayes, C. 53 | Authority (IPOA, Kenya) 163 |
 | Hayes, Chris 53 | India |
 | Henry, Bibaa 112 | 'Beggars' Homes' 138 |
 | Highway of Tears 122 | beggary and people with |
-| Hindustan Times<br>152 | disabilities 133 |
+| Hindustan Times
+152 | disabilities 133 |
 | Hispanics 89, 127 | British colonialism 13 |
 | homelessness 44– 5 | complaints by women with |
 | homicide clearance rates 47– 8 | disabilities 140 |
@@ -2843,7 +3030,8 @@ References to gures appear in *italic* type. References to endnotes show both th
 | Independent Police Complaints | industrialisation and urban |
 | Council (IPCC, Hong | populations 24 |
 | Kong) 164 | informed decision- making 176 |
-| Independent Police Investigative | infrastructure of official ignorance<br>88 |
+| Independent Police Investigative | infrastructure of official ignorance
+88 |
 | Directorate (IPID, South | innocent bystanders 98 |
 | Africa) 163 | INQUEST 89, 100– 1, 163 |
 ## | | |
@@ -2852,7 +3040,8 @@ References to gures appear in *italic* type. References to endnotes show both th
 
 | Inquiries 74 | Law Enforcement Ocers Bills of |
 |-----------------------------------------|---------------------------------------|
-| Institute of Race Relations (UK) 71 | Rights<br>165 |
+| Institute of Race Relations (UK) 71 | Rights
+165 |
 | institutional racism 55, 75, 78– 81, | Lawrence, Doreen 75, 76 |
 | 112, 149 | Lawrence, Stephen 74– 5, 99, |
 | Inter- American Commission on | 103– 4, 149 |
@@ -2864,10 +3053,13 @@ References to gures appear in *italic* type. References to endnotes show both th
 | (ICC) 91 | liberal reforms 14, 20, 151– 2 |
 | International Indian Treaty Council | Liverpool 25 |
 | (IITC) 68 | local police 56 |
-| International Violence Against<br>Women | see also<br>community policing |
+| International Violence Against
+Women | see also
+community policing |
 | Survey (IVAWS) 115, 116 | London Metropolitan Police 22, 42, |
 | intimate partner violence 115– 19, 144 | 57, 75, 160 |
-| see also<br>violence against | Los Angeles Police Department |
+| see also
+violence against | Los Angeles Police Department |
 | women; women | (LAPD) 2, 150, 161 |
 | Inuit women 113 | low- level community |
 | investing in communities 188– 9 | conicts 177– 8 |
@@ -2892,7 +3084,8 @@ References to gures appear in *italic* type. References to endnotes show both th
 | Kenya 7, 163 | Memmi, Albert 27n22 |
 | 'kettling' 108 | mental health crises 139, 143, 176 |
 | Khan, Imran 122 | mental ill- health 50– 1, 130– 3, 139 |
-| Killingray, D. 26 | see also<br>people with disabilities |
+| Killingray, D. 26 | see also
+people with disabilities |
 | King, Rodney 148 | mental illness 24– 5, 132, 139 |
 | Knoxville, Tennessee 44 | Metropolitan Police, London 22, |
 | Kolsky, Elizabeth 39 | 42, 57, 75, 160 |
@@ -2901,7 +3094,8 @@ References to gures appear in *italic* type. References to endnotes show both th
 | L | Mignolo, W. 18, 169 |
 | Lagos, Nigeria 7 | militarisation 17, 19, 25– 6, 71, 72, |
 | Lammy, David 149 | 105– 7, 186– 7 |
-| The Lancet<br>187 | miner's strike (UK) 72– 3 |
+| The Lancet
+187 | miner's strike (UK) 72– 3 |
 | Latin America 9– 10, 12– 13, 50, 92 | Minneapolis 2, 6, 67, 69, 151 |
 | Latinx women 105 | Minneapolis AIM Patrol 67 |
 | La Vigne, N. 52– 3 | missing women and children 122– 6 |
@@ -2945,8 +3139,10 @@ References to gures appear in *italic* type. References to endnotes show both th
 | National Campaign Against Torture | tasers 102, 139 |
 | (NCAT, India) 93, 101, 120 | violent abuse of protesters 164– 5 |
 | National Commission on Human | zero tolerance policing (ZTP) 83– 4 |
-| Rights (NCHR, Pakistan) 95 | The New York Times<br>17, 44 |
-| National Council for Civil | New Zealand see<br>Aotearoa |
+| Rights (NCHR, Pakistan) 95 | The New York Times
+17, 44 |
+| National Council for Civil | New Zealand see
+Aotearoa |
 | Liberties 74 | New Zealand |
 | National Crime Records Bureau | Nicaragua 35 |
 | (India) 121 | Nigeria 7, 49 |
@@ -2982,7 +3178,8 @@ References to gures appear in *italic* type. References to endnotes show both th
 | oversight and accountability 165 | killings 9, 90– 9 |
 | | legitimacy 43, 151, 159 |
 | P | powers 24, 57, 154, 189 |
-| Pakistan<br>95– 7, 121– 2 | practical options to reduce 171– 5 |
+| Pakistan
+95– 7, 121– 2 | practical options to reduce 171– 5 |
 | Palestine Mandate 35 | recruiting marginalised groups 153 |
 | Palestinians 13, 97 | repression 6, 110 |
 | Palm Island, Queensland 80 | sexual violence 119– 20 |
@@ -2992,7 +3189,10 @@ References to gures appear in *italic* type. References to endnotes show both th
 | Pashtun Tahafuz Movement | Police Against Black People (Institute |
 | (PTM) 96 | of Race Relations) 71 |
 | Pat, John 76, 99 | Police Support Units (PSUs, UK) 70 |
-| Peach,<br>Blair<br>71,<br>74 | police violence |
+| Peach,
+Blair
+71,
+74 | police violence |
 | Peel, Robert 22, 42 | causing disabilities and mental |
 | Pennsylvania State Police 29 | ill- health 145 |
 | people with disabilities 130– 46 | and colonialism 27, 64 |
@@ -3010,13 +3210,17 @@ References to gures appear in *italic* type. References to endnotes show both th
 | police killing Black Americans 130 | and racism 8 |
 | police resisting acknowledging 136 | sex workers 119 |
 | poverty and disadvantage 134 | unpunished 12 |
-| public health concerns 145 | see also<br>violence against women |
+| public health concerns 145 | see also
+violence against women |
 | reporting oences 50– 1 | policing |
-| repressive management 131 | colonial<br>settings 25– 9 |
+| repressive management 131 | colonial
+settings 25– 9 |
 | welfare/ wellness checks 143– 4 | and community health 144 |
-| see also<br>mental ill- health | controlling populations 133 |
+| see also
+mental ill- health | controlling populations 133 |
 | Pew Research Centre 52 | and criminalisation 132– 3, 145 |
-| Philadelphia<br>2 | foreign policy objectives 35 |
+| Philadelphia
+2 | foreign policy objectives 35 |
 | Philippine Constabulary 29 | institutional frameworks of |
 | Philippines 8, 28, 29, 90– 1 | repression 4– 5 |
 | Pinto, Joao Pedro Mattos 98 | legitimacy and acceptability 61– 2 |
@@ -3030,7 +3234,8 @@ References to gures appear in *italic* type. References to endnotes show both th
 |-------------------------------------------|---------------------------------------|
 | young people 56– 9 | Ramana, Nuthalapati 94 |
 | policing disability 133– 9, 144 | Ransby, Barbara 81 |
-| policing techniques<br>159 | rapes 32, 113, 114, 122 |
+| policing techniques
+159 | rapes 32, 113, 114, 122 |
 | Policing the Crisis (Hall) 70 | Rapid Action Battalion, |
 | political surveillance 28 | Bangladesh 94 |
 | poor and marginalised | Reaja ou Será Mortx (React or |
@@ -3045,7 +3250,8 @@ References to gures appear in *italic* type. References to endnotes show both th
 | predictive policing 160– 1 | reforms 1, 147– 67 |
 | Pred Pol 160– 1 | and abolitionism in the UK 75 |
 | Prenzler, T. 45 | community policing 161– 3 |
-| President's Task Force on<br>21st Century | diversity 152– 4 |
+| President's Task Force on
+21st Century | diversity 152– 4 |
 | Policing 150, 151, 162, 164 | divesting from police 188– 9 |
 | Prison Policy Initiative 90 | failure 20, 165– 6 |
 | Prison Policy Institute 46, 119 | limitations of 75 |
@@ -3094,13 +3300,15 @@ References to gures appear in *italic* type. References to endnotes show both th
 | 'Safe Outside the System' (SOS) 179 | 76, 99 |
 | Salazar, Victoria 10 | Stephen Lawrence Day 75 |
 | Saskatoon 'freezing deaths' | stop and search 103– 5 |
-| (Canada) 98 | Stop LAPD Spying Coalition<br>161 |
+| (Canada) 98 | Stop LAPD Spying Coalition
+161 |
 | Scargill, Arthur 72– 3 | 'street- level bureaucracies' 55 |
 | Scarman Inquiry 148– 9, 162 | Survived and Punished 179 |
 | Schrader, S. 19, 36, 43, 50, 106 | SWAT teams 107 |
 | Seale, Bobby 64 | Sydney, Australia 79– 80, 136 |
 | self- immolation 121n53 | Sykes, Roberta 68 |
-| self- reports of justiable | systemic racism see<br>racism |
+| self- reports of justiable | systemic racism see
+racism |
 | homicides 88 | |
 | settler colonial states 29– 32, 97, 183 | T |
 | sexual misconduct 118 | Tactical Response Group (TRG) 78 |
@@ -3120,7 +3328,8 @@ References to gures appear in *italic* type. References to endnotes show both th
 | slavery 12, 32– 3 | Thomas, Justen 134– 5 |
 | Smallman, Mina 111 | Thorat, V. 121 |
 | Smallman, Nicole 112 | Tonry, Michael 185 |
-| Smith, Cindy Rose 124– 5 | Toronto<br>10– 11, 59, 81 |
+| Smith, Cindy Rose 124– 5 | Toronto
+10– 11, 59, 81 |
 | Smith, Mona Lisa 124– 5 | torture 9– 10, 92– 5, 109, 120, 164 |
 | social control 23– 4 | Tottenham, London 73, 74 |
 | social divisions 48 | Toxteth riots (Liverpool) 25, 72 |
@@ -3161,12 +3370,14 @@ References to gures appear in *italic* type. References to endnotes show both th
 | HM Inspectorate of | community organising and |
 | Constabulary 51, 60, 104 | activism 81 |
 | institutional racism 149 | composition of police forces 153– 4 |
-| Mental Health Act<br>135 | counterinsurgency programmes 35– 7 |
+| Mental Health Act
+135 | counterinsurgency programmes 35– 7 |
 | paramilitary police units 70 | Customs and Border |
 | Police and Criminal Evidence Act | Protection 108– 9 |
 | (PACE) 1984 103 | dangerous occupations 45 |
 | Police, Crime, Sentencing and Courts | data on police violence 88 |
-| Bill<br>112 | Department of Defense |
+| Bill
+112 | Department of Defense |
 | police ocers accused of sexual | (DOD) 106– 7 |
 | misconduct 118 | Department of Justice |
 | police ocers deaths on duty 45 | (DOJ) 139, 151 |
@@ -3206,7 +3417,8 @@ References to gures appear in *italic* type. References to endnotes show both th
 | prisoners having mental ill- health | 'war power' (Neocleous) 106 |
 |----------------------------------------|----------------------------------------|
 | 132, 137 | Waseem, Zoha 96 |
-| racial murders 34 | The Washington Post<br>88, 139, |
+| racial murders 34 | The Washington Post
+88, 139, |
 | reporting and recording crime | 159, 174– 5 |
 | 48– 9, 50 | Wazir, Arif 96 |
 | State Department 36, 95– 6 | We Are Invisible (The View) 112 |
@@ -3214,7 +3426,8 @@ References to gures appear in *italic* type. References to endnotes show both th
 | violence 64 | Western Australia 29– 30, 31– 2, |
 | systemic racism 104– 5 | 78, 103n66 |
 | Transgender Survey 59 | West India Committee 23 |
-| Violence Against Women Act<br>127 | West Papua, Indonesia 8 |
+| Violence Against Women Act
+127 | West Papua, Indonesia 8 |
 | 'war on drugs' and 'war on | White colonisers 30 |
 | terror' 110 | Whiteness of democratic rights 33 |
 | unresolved trauma 141– 2 | White police killings 89 |
@@ -3238,7 +3451,9 @@ References to gures appear in *italic* type. References to endnotes show both th
 | police being problematic 115– 18 | racism in the justice system 112 |
 | policing being the answer 112– 15 | revictimisation 116 |
 | reporting violence 115– 18, 120– 1 | and sexual violence 93 |
-| see also<br>intimate partner violence; | see also<br>intimate partner violence; |
+| see also
+intimate partner violence; | see also
+intimate partner violence; |
 | police violence; women | violence against women |
 | violence and welfare 144 | women- led police stations 128 |
 | violence interrupters 178 | working- class communities and |

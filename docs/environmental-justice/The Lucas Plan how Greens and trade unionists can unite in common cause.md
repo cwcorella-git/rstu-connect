@@ -1,3 +1,8 @@
+---
+title: "## **The Lucas Plan: how Greens and trade unionists can unite in common cause**"
+category: "environmental-justice"
+---
+
 ## **The Lucas Plan: how Greens and trade unionists can unite in common cause**
 
 ## **Date:** Wed, 11/02/2016 - 18:12
@@ -86,10 +91,14 @@ The environmental crisis is, at root, a crisis in the whole system of industrial
 | The conference |
 | on the |
 | Lucas Plan 40th anniversary |
-| will be held at Birmingham Voluntary Service Council (138 Digbeth, Birmingham, B5 6DR) on<br>November 26, 2016. |
+| will be held at Birmingham Voluntary Service Council (138 Digbeth, Birmingham, B5 6DR) on
+November 26, 2016. |
 | Book tickets here |
 | |
-| It is organised and sponsored by: former members of the Lucas Aerospace Shop Stewards<br>Combine, Breaking the Frame, PCS, UCU, Million Climate Jobs Campaign, Green Party,<br>CND, Left Unity, Scientists for Global Responsibility, Campaign Against Arms Trade, Quaker<br>Peace and Social Witness and |
+| It is organised and sponsored by: former members of the Lucas Aerospace Shop Stewards
+Combine, Breaking the Frame, PCS, UCU, Million Climate Jobs Campaign, Green Party,
+CND, Left Unity, Scientists for Global Responsibility, Campaign Against Arms Trade, Quaker
+Peace and Social Witness and |
 | Red Pepper |
 | |
 ## | Disclaimer: |

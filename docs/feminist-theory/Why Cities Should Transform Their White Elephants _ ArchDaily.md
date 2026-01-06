@@ -1,3 +1,8 @@
+---
+title: "**Why Cities Should Transform Their White Elephants**"
+category: "feminist-theory"
+---
+
 #### [archdaily.com](https://www.archdaily.com/949159/why-cities-should-transform-their-white-elephants?ad_campaign=special-tag)
 
 # **Why Cities Should Transform Their White Elephants**
@@ -114,6 +119,4 @@ In many ways, this project not only revitalized the area by reactivating its eco
 
 Every month we explore a topic in-depth through articles, interviews, news, and projects. Learn more about our monthly topics [here](https://www.archdaily.com/monthly-topics?ad_source=monthly_article&ad_medium=bottom_link). As always, at Arch Daily we welcome the contributions of our readers; if you want to submit an article or project, [contact us](https://www.archdaily.com/contact?ad_source=monthly_article&ad_medium=bottom_link).
 
-**Cite:** Dejtiar, Fabian. "Why Cities Should Transform Their White Elephants" [Todas las ciudades deben transformar sus Elefantes Blancos] 17 Oct 2020. Arch Daily. (Trans. Johnson, Maggie) Accessed 18 Mar 2025. <https:// www.archdaily.com/949159/why-cities-should-transform-their-
-
-## white-elephants> ISSN 0719-8884
+**Cite:** Dejtiar, Fabian. "Why Cities Should Transform Their White Elephants" [Todas las ciudades deben transformar sus Elefantes Blancos] 17 Oct 2020. Arch Daily. (Trans. Johnson, Maggie) Accessed 18 Mar 2025.  ISSN 0719-8884

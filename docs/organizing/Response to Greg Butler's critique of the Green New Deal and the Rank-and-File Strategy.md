@@ -1,3 +1,8 @@
+---
+title: "## **Response to Greg Butler's critique of the Green New Deal and the Rank-and-File Strategy**"
+category: "organizing"
+---
+
 ## **Response to Greg Butler's critique of the Green New Deal and the Rank-and-File Strategy**
 
 ## **Date:** Sun, 02/07/2021 - 00:00
@@ -26,7 +31,8 @@ The Green New Deal and the "Rank-and-File Strategy"
 
 | not the same thing |
 |----------------------------------------------------------------------------------------------------------|
-| . Not every member of DSA agrees with or supports the "Rank-and-File Strategy" (some, like<br>the |
+| . Not every member of DSA agrees with or supports the "Rank-and-File Strategy" (some, like
+the |
 | Build |
 | and |
 | Libertarian Socialist |
@@ -38,7 +44,8 @@ The Green New Deal and the "Rank-and-File Strategy"
 | dissent |
 | ) nor does every contributor to |
 | Jacobin |
-| endorse it. Further, it goes without saying, just because members of an organization or a<br>publication |
+| endorse it. Further, it goes without saying, just because members of an organization or a
+publication |
 
 ## ![](_page_3_Figure_0.jpeg)
 
@@ -66,7 +73,8 @@ Reading this, one could be forgiven for mistakingly believing, as Butler apparen
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | , but he declined to do so (or, perhaps, the editors of the |
 | Organizing Work |
-| blog didn't include it). Either way, it's easy to misrepresent or caricature a position, when one<br>doesn't adequately present it. |
+| blog didn't include it). Either way, it's easy to misrepresent or caricature a position, when one
+doesn't adequately present it. |
 | Kim Moody maintains (see |
 | here |
 | and |
@@ -75,7 +83,8 @@ Reading this, one could be forgiven for mistakingly believing, as Butler apparen
 | building working class power |
 | through organizing workers at the point of production, |
 | instead of |
-| recruiting workers to cadre organizations, contrary to Butler's implicit framing. If that weren't<br>the case, then Moody wouldn't waste time offering it as an appeal to multiple organizations, |
+| recruiting workers to cadre organizations, contrary to Butler's implicit framing. If that weren't
+the case, then Moody wouldn't waste time offering it as an appeal to multiple organizations, |
 
 including Solidarity, DSA,
 
@@ -84,7 +93,8 @@ including Solidarity, DSA,
 | , or in the pages of |
 | Jacobin |
 | |
-| One can debate the merits of either the Rank-and-File Strategy (and to be certain,<br>revolutionary unionists and socialists have from multiple directions, including |
+| One can debate the merits of either the Rank-and-File Strategy (and to be certain,
+revolutionary unionists and socialists have from multiple directions, including |
 | syndicalist |
 | , |
 | heterodox socialist |
@@ -92,7 +102,8 @@ including Solidarity, DSA,
 | Marxist |
 | , and |
 | Trotskyist |
-| , the last of which is ironic given Butler's insistence that Moody and the Rank-and-File<br>Strategy are, themselves, "Trotskyist"), |
+| , the last of which is ironic given Butler's insistence that Moody and the Rank-and-File
+Strategy are, themselves, "Trotskyist"), |
 
 ## Labor Notes
 
@@ -110,14 +121,16 @@ A number of people have informed me that Butler uses the term "middle class" as 
 | Socialist Worker |
 | , but neglected to mention that it was the supposedly "middle class" syndicalists of the |
 | IWW |
-| who first used the tactic to great effect in the great Pacific Northwest Lumber Strike of 1918<br>(see |
+| who first used the tactic to great effect in the great Pacific Northwest Lumber Strike of 1918
+(see |
 | here |
 | , |
 | here |
 | and |
 | here |
 | ). |
-| Butler doubles down by sneeringly dismissing DSA's New York membership as being "largely<br>middle class" (how does |
+| Butler doubles down by sneeringly dismissing DSA's New York membership as being "largely
+middle class" (how does |
 
 he know? Did he conduct a detailed survey of the membership of the New York chapter of DSA, or is this merely a condescending dismissal of people Butler disagrees with politically? The evidence would suggest the latter). Even used as a criticism, "Middle Class" is a loaded term. A syndicalist comrade who has debated Butler on more than one occasion stated,
 
@@ -142,11 +155,14 @@ Clearly, Butler doesn't know what he's talking about. The
 | is anything |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | but |
-| "a political program" of the Democratic Party, progressive wing or otherwise. Indeed, the GND<br>isn't even a single political program! While it's certainly true that the progressive wing of the<br>Democratic Party has opportunistically |
+| "a political program" of the Democratic Party, progressive wing or otherwise. Indeed, the GND
+isn't even a single political program! While it's certainly true that the progressive wing of the
+Democratic Party has opportunistically |
 | glommed onto |
 | it in early 2019, it's certainly not their creation. While the claim that the GND |
 | is |
-| their creation, the Democratswith a few exceptions, such as Alexandria Ocasio-Cortezonly<br>embraced it after grassroots movements and organizations, most notably The youth led |
+| their creation, the Democratswith a few exceptions, such as Alexandria Ocasio-Cortezonly
+embraced it after grassroots movements and organizations, most notably The youth led |
 | Sunrise Movement |
 | (who's staff have recently |
 | unionized with the CWA |
@@ -166,22 +182,31 @@ union members), organized sit-ins at prominent Democratic Party politicians' off
 | iteration of the GND. |
 | Thomas Friedman |
 | |
-| claims to have hatched the idea, though his version favors "market-based" approaches to<br>dealing with climate and jobs, which is substantially |
+| claims to have hatched the idea, though his version favors "market-based" approaches to
+dealing with climate and jobs, which is substantially |
 | |
 | different |
 | from what the current GND advocates demand (in spite of doctrinaire sectarian left claims to |
 | the contrary). Likewise, the Green Party USA has long advocated for a |
 ## | Green New Deal |
 
-| , but evidently lacked the organizational capacity to make the concept go viral, because they<br>had little interaction with the Sunrise Movement's initial efforts, and to some extent, some<br>members of the Green Party have pooh-poohed the current manifestation of the GND,<br>because |
+| , but evidently lacked the organizational capacity to make the concept go viral, because they
+had little interaction with the Sunrise Movement's initial efforts, and to some extent, some
+members of the Green Party have pooh-poohed the current manifestation of the GND,
+because |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | they |
-| argue that it's a watered down version of their own program, but are largely overstating the<br>case, because there are numerous |
+| argue that it's a watered down version of their own program, but are largely overstating the
+case, because there are numerous |
 | different |
-| versions of the GND, and it's just as likely that the Greens are bitter about getting caught<br>flat-footed and having their thunder stolen (Full disclosure: the author is a registered member<br>of the Green Party and has been for more than two decades). |
+| versions of the GND, and it's just as likely that the Greens are bitter about getting caught
+flat-footed and having their thunder stolen (Full disclosure: the author is a registered member
+of the Green Party and has been for more than two decades). |
 | While it's true that DSA, for the most part, |
 | does |
-| advocate (various versions of) the Green New Deal, there is a major push within DSA, which<br>includes many rank and file union members (including members of the IWW), to advocate a<br>much more radical version, called the |
+| advocate (various versions of) the Green New Deal, there is a major push within DSA, which
+includes many rank and file union members (including members of the IWW), to advocate a
+much more radical version, called the |
 | Ecosocialist |
 | Green New Deal |
 ## | , which includes elements of the Red Nation's |
@@ -189,16 +214,20 @@ union members), organized sit-ins at prominent Democratic Party politicians' off
 | Red Deal |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | |
-| As for union members, they don't need DSA's urging to support the GND, because polls<br>consistently show that support for it is actually |
+| As for union members, they don't need DSA's urging to support the GND, because polls
+consistently show that support for it is actually |
 | higher among unions members than the general public |
 | , which is why there |
 | is |
 | growing institutional support among unions for the Green New Deal. |
-| (For the record, the IWW has taken no official position on any of the various versions of the<br>Green New Deal, nor has the IWW Environmental Union Caucus advocated for doing so. The<br>caucus has compiled a large number of articles |
+| (For the record, the IWW has taken no official position on any of the various versions of the
+Green New Deal, nor has the IWW Environmental Union Caucus advocated for doing so. The
+caucus has compiled a large number of articles |
 | about |
 | the |
 | GND |
-| , some of them supportive, some of them constructively critical of it from the left, for<br>information purposes as we explain in our |
+| , some of them supportive, some of them constructively critical of it from the left, for
+information purposes as we explain in our |
 ## | Content Posting Guidelines |
 
 ## ![](_page_14_Figure_0.jpeg)
@@ -207,7 +236,8 @@ The article describes the deal as "winning building trades workers and unions to
 
 83,000 jobs and "guarantees that the building of these offshore wind turbines will be done with union labor at prevailing wages." However, if you actually read NABTU's press release, Ørsted merely agreed that they would think about using union labor at some point for some of the 15 windmills they plan to build along the East Coast of the US.
 
-| This dismissivness is entirely unwarranted. Even though Butler links to the press release (as<br>have |
+| This dismissivness is entirely unwarranted. Even though Butler links to the press release (as
+have |
 |-------------------------------------------------------------------------------------------------------|
 | we |
 | ) he evidently either didn't read it very carefully or he read too much into it, because at |
@@ -224,16 +254,20 @@ The article describes the deal as "winning building trades workers and unions to
 | mentions "15 |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | active commercial leases |
-| for offshore wind development" (emphasis added). Such developments can consist of<br>anywhere from |
+| for offshore wind development" (emphasis added). Such developments can consist of
+anywhere from |
 | one to hundreds |
 | of wind |
 | turbines |
-| (his use of the quaint term "windmill" betrays further ignorance of the situation, especially<br>since these devices generate electricity rather than milling grain). Further, these are merely<br>the |
+| (his use of the quaint term "windmill" betrays further ignorance of the situation, especially
+since these devices generate electricity rather than milling grain). Further, these are merely
+the |
 | current |
 | developments. There's a good chance there will be |
 | additional |
 | developments in the future. |
-| He likewise demonstrates that he has no clue how many jobs these developments will create.<br>This is demonstrated by the following statement: |
+| He likewise demonstrates that he has no clue how many jobs these developments will create.
+This is demonstrated by the following statement: |
 
 The press release describes the agreement as patterned after the Block Island Wind Farm (BIWF) that Ørsted operates in Rhode Island, saying "more than 300 union workers were employed." That's not a lot in any case, but according to this
 
@@ -273,7 +307,9 @@ Even if jobs do materialize out of this vague project labor agreement, it's help
 | is any indication, this isn't so. |
 | Article III (Union Recognition) |
 | reads (in its entirety): |
-| The Contractors recognize the signatory Unions as the sole and exclusive bargaining<br>representatives of all craft employees within their respective jurisdictions working on the<br>Project within the scope of this Agreement. |
+| The Contractors recognize the signatory Unions as the sole and exclusive bargaining
+representatives of all craft employees within their respective jurisdictions working on the
+Project within the scope of this Agreement. |
 | Furthermore, |
 | Article VIII (Subcontracting) |
 | reads (again, in its entirety): |
@@ -289,29 +325,35 @@ Windmills are installed from specialized ships – only 137 of them exist in the
 | Seafarers, covering its Denmark-based offshore vessels |
 |----------------------------------------------------------------------------------------------------------------------------------------------------|
 | . (emphasis added) |
-| While I may be rusty about the inner workings of the Building Trades, I know for a fact that if<br>Ørsted did as Butler suggests, |
+| While I may be rusty about the inner workings of the Building Trades, I know for a fact that if
+Ørsted did as Butler suggests, |
 | they'd be in violation of the |
 | Jones Act |
-| , something any union mariner would quickly point out (and if there were any doubts about<br>this, the U. S. Customs and Border Protection recently |
+| , something any union mariner would quickly point out (and if there were any doubts about
+this, the U. S. Customs and Border Protection recently |
 | confirmed |
 | that the Jones Act |
 | does |
 
 apply to offshore wind projects).
 
-| In fact, the wind energy capitalists have been struggling to address the very thing Butler<br>mentions, namely the |
+| In fact, the wind energy capitalists have been struggling to address the very thing Butler
+mentions, namely the |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | lack of US flagged Jones Act compliant vessels |
 | capable of handling offshore wind installation, and for a time, there was talk about |
 | using a work-around |
-| (though this would have still required union labor), but that loophole has since been closed,<br>and compliant vessels are now, in fact, |
+| (though this would have still required union labor), but that loophole has since been closed,
+and compliant vessels are now, in fact, |
 | being constructed |
 | . [UPDATE: the first of these vessels, the |
 | Charybdis |
 | has been |
 | completed |
 | .] |
-| Robert Collier, formerly of the UC Berkeley Labor Center, who has been working diligently to<br>bring unions into the process of securing robust Project Labor Agreements for offshore wind<br>on the |
+| Robert Collier, formerly of the UC Berkeley Labor Center, who has been working diligently to
+bring unions into the process of securing robust Project Labor Agreements for offshore wind
+on the |
 ## | Pacific |
 
 Coast offered some further relevant information:
@@ -345,14 +387,20 @@ The second reason to doubt that Butler has inside knowledge about the PLA betwee
 | Therefore while it's |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | conceivable |
-| that Butler is correct about his claims about the Ørsted PLA, the evidence would tend so<br>suggest otherwise, and given the fact that his editorial is chock full of inaccuracies and poorly<br>researched claims (if they were even researched at all), one would do well to remain skeptical<br>about that. |
+| that Butler is correct about his claims about the Ørsted PLA, the evidence would tend so
+suggest otherwise, and given the fact that his editorial is chock full of inaccuracies and poorly
+researched claims (if they were even researched at all), one would do well to remain skeptical
+about that. |
 | And it's almost |
 | definitely |
-| true that the Building Trades are far from perfect in matters of both internal union democracy,<br>their willingness to organize the unorganized, or consistency in taking principled stands on<br>climate and environmental issues, matters which the IWW EUC continues to |
+| true that the Building Trades are far from perfect in matters of both internal union democracy,
+their willingness to organize the unorganized, or consistency in taking principled stands on
+climate and environmental issues, matters which the IWW EUC continues to |
 | document on its web site |
 | , but Butler doesn't take a deep dive into those issues |
 | at all |
-| , preferring to focus his denunciations on those trying to push the Building Trades in a greener<br>more progressive direction. |
+| , preferring to focus his denunciations on those trying to push the Building Trades in a greener
+more progressive direction. |
 | Preaching to the Choir |
 ## | |
 
@@ -381,7 +429,9 @@ The most telling proof that Butler was primarily motivated by sectarian impulses
 | The Case for an Ecosocialist Rank & File Strategy in the Building Trades |
 | (which isn't specifically connected with the aforementioned Rank-and-File Strategy |
 | either |
-| , but that doesn't seem to be a matter of significance to Butler. His primary evidence for<br>drawing a connection seems to be that both Prescod's and Pollock's articles were published<br>by |
+| , but that doesn't seem to be a matter of significance to Butler. His primary evidence for
+drawing a connection seems to be that both Prescod's and Pollock's articles were published
+by |
 | Jacobin |
 | , but in actual fact, the latter was first published by |
 | The Trouble |
@@ -420,22 +470,36 @@ Alameda County (California) AFL-CIO Central Labor Council
 | that |
 | argument is wrongheaded, and this ties in with the Ørsted PLA as well. |
 | Butler |
-| connects these two distinct efforts by claiming that they're somehow the product of "middle<br>class DSA professional union bureaucrats naively pretending that their efforts to work with the<br>progressive wing of the Democrats to pass the Green New Deal with the collaboration of |
+| connects these two distinct efforts by claiming that they're somehow the product of "middle
+class DSA professional union bureaucrats naively pretending that their efforts to work with the
+progressive wing of the Democrats to pass the Green New Deal with the collaboration of |
 | Jacobin |
-| represents some sort of attempts to build socialism with the phony label 'rank-and-file<br>strategy'" (which is about as concise a distillation one can make of his rambling argument),<br>but the actual connection between these two otherwise unconnected efforts runs much<br>deeper, and this is the fundamental point he misses: |
-| The seriousness of the climate emergencyand make no mistake, we are in an emergency,<br>and any arguments to the contrary stray into denialism and pseudosciencenecessitates that<br>the world's energy system |
+| represents some sort of attempts to build socialism with the phony label 'rank-and-file
+strategy'" (which is about as concise a distillation one can make of his rambling argument),
+but the actual connection between these two otherwise unconnected efforts runs much
+deeper, and this is the fundamental point he misses: |
+| The seriousness of the climate emergencyand make no mistake, we are in an emergency,
+and any arguments to the contrary stray into denialism and pseudosciencenecessitates that
+the world's energy system |
 
 must be decarbonized as rapidly as possible;
 
 | full stop. |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| This will require the phasing out of most, if not all of the fossil fuel supply chain and its<br>replacement with clean alternatives. Renewable energy, particularly wind power, is an<br>essential part of this equation. This can either be done with or without the involvement of<br>unions. I think nobody among us would argue that it should be done |
+| This will require the phasing out of most, if not all of the fossil fuel supply chain and its
+replacement with clean alternatives. Renewable energy, particularly wind power, is an
+essential part of this equation. This can either be done with or without the involvement of
+unions. I think nobody among us would argue that it should be done |
 | without |
-| them (the capitalists might think differently). Further, while some think this transition can be<br>done through market forces and reformist efforts that leave capitalism in place, this author and<br>most of the aforementioned people and organizations that Butler denounces wholeheartedly<br>disagree. In fact, it is |
+| them (the capitalists might think differently). Further, while some think this transition can be
+done through market forces and reformist efforts that leave capitalism in place, this author and
+most of the aforementioned people and organizations that Butler denounces wholeheartedly
+disagree. In fact, it is |
 | my |
 | belief that even if there |
 | were |
-| an attempt to carry out the necessary energy transition using primarily capitalist initiatives, it<br>would fail, |
+| an attempt to carry out the necessary energy transition using primarily capitalist initiatives, it
+would fail, |
 | because the |
 | fossil fuel wing of the capitalist class |
 | won't willingly agree to this |
@@ -452,11 +516,15 @@ A side effect of these capitalist machinations is that the bosses in both wings 
 | here |
 | ). Those familiar with the efforts of our late comrade and fellow worker, |
 | Judi Bari |
-| , will know that she figured out some very effective strategies for countering it. One of these is<br>denying the capitalists the ability to use the workers in their employ as pawns in this game,<br>and the strength of both the Ørsted PLA as well as union issued Green New Deal resolutions |
+| , will know that she figured out some very effective strategies for countering it. One of these is
+denying the capitalists the ability to use the workers in their employ as pawns in this game,
+and the strength of both the Ørsted PLA as well as union issued Green New Deal resolutions |
 | is that they attempt precisely that! |
 | Yes, it's entirely true that that is |
 | not enough |
-| to completely counter, much less abolish, capitalism (whether it's fossil fuel or so-called<br>"green"). Those of us advocating such things have no illusions about this, but we also know<br>that doing as Greg Butler suggests (which we |
+| to completely counter, much less abolish, capitalism (whether it's fossil fuel or so-called
+"green"). Those of us advocating such things have no illusions about this, but we also know
+that doing as Greg Butler suggests (which we |
 | also |
 | support) is |
 | a lot |
@@ -497,16 +565,23 @@ What needs to happen in the construction industry is for it to be organized from
 
 . Of course, Butler is trying to counterpose this strategy with the Ørsted PLA (which he presumptuously dismisses as "a backroom deal" even though he has no evidence whatsoever to support this claim) or the grassroots efforts by rank and file union members to orient their unions in support of the Green New Deal, as if the latter two are somehow contradictory. They're not, and to claim otherwise is to argue from the position of "scarcity
 
-| politics". In reality, it's not as hard to "walk and chew gum simultaneously" as Butler would<br>have others think. And while it's true that neither the Green New Deal nor the Ørsted PLA are<br>perfect (indeed, they have flaws, and many of us have pointed these out, including on |
+| politics". In reality, it's not as hard to "walk and chew gum simultaneously" as Butler would
+have others think. And while it's true that neither the Green New Deal nor the Ørsted PLA are
+perfect (indeed, they have flaws, and many of us have pointed these out, including on |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | this site |
 | , and we'll continue to do so), but if one is going to criticize them, |
 | they best do so with factual information |
-| . Butler doesn't do this. He merely makes baseless assumptions based on sectarian impulses.<br>Further, while what he says about the real power lying with the workers at the point of<br>production, (sometimes) manifested through rank and file strike activity is |
+| . Butler doesn't do this. He merely makes baseless assumptions based on sectarian impulses.
+Further, while what he says about the real power lying with the workers at the point of
+production, (sometimes) manifested through rank and file strike activity is |
 | absolutely |
 | true, |
 | actually organizing that as far more easily said than done |
-| . And every single person that Butler criticizes in his article, plus numerous people mentioned<br>in this article who've debated Butler in other contexts, has done their damnedest to build the<br>organizational capacity to do precisely that. What has Greg Butler accomplished, apart from<br>publishing sectarian rants? Very little, evidently. |
+| . And every single person that Butler criticizes in his article, plus numerous people mentioned
+in this article who've debated Butler in other contexts, has done their damnedest to build the
+organizational capacity to do precisely that. What has Greg Butler accomplished, apart from
+publishing sectarian rants? Very little, evidently. |
 | One final point must be raised: |
 ## | Organizing Work |
 
@@ -531,14 +606,17 @@ Labor Group Set to Sign Agreement for Vineyard Wind Work
 | - |
 | GCaptain |
 | , February 25, 2022 |
-| US Building Trades Union and Vineyard Wind sign labour agreement for industrial-scale<br>offshore wind project |
+| US Building Trades Union and Vineyard Wind sign labour agreement for industrial-scale
+offshore wind project |
 | - Renewable Energy Magazine, July 19, 2021 |
 | Vineyard Wind Secures Project Labor Agreement |
 | - North American Windpower, July 20, 2021 |
-| These offshore wind developments have induced the creation of local, union manufacturing<br>jobs: |
+| These offshore wind developments have induced the creation of local, union manufacturing
+jobs: |
 | Construction Begins on Largest U. S. Offshore Wind Manufacturing Facility |
 | - North American Windpower, April 21, 2021 |
-| Developer of Ocean City wind farm plans Sparrows Point steel fabrication hub to serve<br>expansion, larger industry |
+| Developer of Ocean City wind farm plans Sparrows Point steel fabrication hub to serve
+expansion, larger industry |
 ## | - |
 
 ## ![](_page_43_Figure_0.jpeg)

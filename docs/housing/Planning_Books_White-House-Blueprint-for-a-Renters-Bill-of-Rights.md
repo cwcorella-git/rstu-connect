@@ -1,13 +1,8 @@
 ---
-author: Fannie Mae
-date: 2023
-title: White-House-Blueprint-for-a-Renters-Bill-of-Rights
-tags:
-  - organizing
-  - strikes
-  - tenants
-  - housing
-  - rent
+title: "White-House-Blueprint-for-a-Renters-Bill-of-Rights"
+author: "Fannie Mae"
+date: "2023"
+category: "housing"
 ---
 
 # White-House-Blueprint-for-a-Renters-Bill-of-Rights.pdf
@@ -226,8 +221,7 @@ iv
 v
     This number was calculated using data from Zillow.
 vi
-    https://www.jchs.harvard.edu/sites/default/files/research/files/harvard_jchs_rent_eats_first_airgood-
-obrycki_hermann_wedeen_2021.pdf vii
+    https://www.jchs.harvard.edu/sites/default/files/research/files/harvard_jchs_rent_eats_first_airgoodobrycki_hermann_wedeen_2021.pdf vii
      Swope, C.B. and Hernández, D., 2019. Housing as a determinant of health equity: A conceptual model. Social
 Science & Medicine, 243, p.112571. viii
      Needleman, H., 2004. Lead poisoning. Annual review of medicine, 55(1), pp.209-222.
@@ -282,8 +276,7 @@ xxxi
 xxxii
        https://files.consumerfinance.gov/f/documents/cfpb_name-only-matching_advisory-opinion_2021-11.pdf and
 https://files.consumerfinance.gov/f/documents/cfpb_fair-credit-reporting_advisory-opinion_2022-07.pdf xxxiii
-        https://files.consumerfinance.gov/f/documents/cfpb_consumer-reporting-rental-information_bulletin-2021-
-03_2021-07.pdf xxxiv
+        https://files.consumerfinance.gov/f/documents/cfpb_consumer-reporting-rental-information_bulletin-202103_2021-07.pdf xxxiv
         Baranski, J., 2007. Something to Help Themselves: Tenant Organizing in San Francisco's Public Housing,
 1965–1975. Journal of Urban History, 33(3), pp.418-442. xxxv
        Gowing, S., 2021. Rent strikes and tenant power: Supporting rent strikes in residential landlord-tenant
@@ -308,13 +301,11 @@ of eviction on young adults. Housing Policy Debate, 31(3-5), pp.469-489. xliv
 xlv
       Garboden, P.M. and Rosen, E., 2019. Serial filing: How landlords use the threat of eviction. City &
 Community, 18(2), pp.638-661. xlvi
-      Markets Report pp. 29-34 https://files.consumerfinance.gov/f/documents/cfpb_tenant-background-checks-
-market_report_2022-11.pdf xlvii
+      Markets Report pp. 29-34 https://files.consumerfinance.gov/f/documents/cfpb_tenant-background-checksmarket_report_2022-11.pdf xlvii
        Nelson, K., Garboden, P., McCabe, B.J. and Rosen, E., 2021. Evictions: The comparative analysis
 problem. Housing Policy Debate, 31(3-5), pp.696-716. xlviii
        Ellen, I.G., O’Regan, K., House, S. and Brenner, R., 2021. Do lawyers matter? Early evidence on eviction
-patterns after the rollout of universal access to Counsel in New York City. Housing Policy Debate, 31(3-5), pp.540-
-561.
+patterns after the rollout of universal access to Counsel in New York City. Housing Policy Debate, 31(3-5), pp.540561.
 xlix
       Leifheit, K.M., Linton, S.L., Raifman, J., Schwartz, G.L., Benfer, E.A., Zimmerman, F.J. and Pollack, C.E.,
 2021. Expiring eviction moratoriums and COVID-19 incidence and mortality. American journal of

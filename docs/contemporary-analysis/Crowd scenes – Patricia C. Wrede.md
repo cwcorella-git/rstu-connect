@@ -1,3 +1,8 @@
+---
+title: "## [pcwrede.com](https://pcwrede.com/pcw-wp/crowd-scenes/)"
+category: "contemporary-analysis"
+---
+
 ## [pcwrede.com](https://pcwrede.com/pcw-wp/crowd-scenes/)
 
 ## **Crowd scenes – Patricia C. Wrede**

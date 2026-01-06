@@ -1,3 +1,8 @@
+---
+title: "**Episode 40: Wisdom And Rationality/**"
+category: "contemporary-analysis"
+---
+
 # **Episode 40: Wisdom And Rationality/**
 
 #### **Source:**
@@ -192,15 +197,21 @@ Thank you very much for your time and attention.
 
 Episode 40 Notes:
 
-| To keep this site running, we are an Amazon Associate where we earn from qualifying<br>purchases |
+| To keep this site running, we are an Amazon Associate where we earn from qualifying
+purchases |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Patrick Mckee |
 | Clifton E. Barber |
 | Article Mentioned: On Defining Wisdom |
 | Leo Ferraro Publication: Relevance, Meaning and the Cognitive Science of Wisdom |
-| Keith E. Stanovich Keith E. Stanovich is Emeritus Professor of Applied Psychology and<br>Human Development, University of Toronto and former Canada Research Chair of Applied<br>Cognitive Science. Publications by Keith Stanovich |
-| John Kekes John Kekes (/k■ks/; born 22 November 1936) is Professor Emeritus of<br>Philosophy at the University at Albany, SUNY. Book Mentioned: Moral Wisdom and Good<br>Lives – Buy Here |
-| Agnes Callard Agnes Callard (born January 6, 1976) is associate professor of philosophy at<br>the University of Chicago. Book Mentioned: Aspiration: The Agency of Becoming – Buy Here |
+| Keith E. Stanovich Keith E. Stanovich is Emeritus Professor of Applied Psychology and
+Human Development, University of Toronto and former Canada Research Chair of Applied
+Cognitive Science. Publications by Keith Stanovich |
+| John Kekes John Kekes (/k■ks/; born 22 November 1936) is Professor Emeritus of
+Philosophy at the University at Albany, SUNY. Book Mentioned: Moral Wisdom and Good
+Lives – Buy Here |
+| Agnes Callard Agnes Callard (born January 6, 1976) is associate professor of philosophy at
+the University of Chicago. Book Mentioned: Aspiration: The Agency of Becoming – Buy Here |
 | Conjunction fallacy The conjunction fallacy is a formal fallacy that occurs when it is assumed |
 
 Confirmation bias Confirmation bias is the tendency to search for, interpret, favor, and recall information in a way that confirms or supports one's prior beliefs or values.

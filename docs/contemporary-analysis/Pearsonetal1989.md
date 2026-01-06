@@ -1,3 +1,8 @@
+---
+title: "[Social ranking in the Kingdom of Old Silla, Korea: Analysis of burials](https://www.researchgate.net/publication/223429293_Social_ranking_in_the_Kingdom_of_Old_Silla_Korea_Analysis_of_burials?enrich Id=rgreq-28ca55a40a024ca8577568e4b9b75c1d-XXX&enrich Source=Y292ZXJQYWdl OzIy MzQyOTI5MztBUzo3Mj QxNTMwNDA2NTg0MzNAMTU0OTY2Mjk0Nzgz Mg%3D%3D&el=1_x_3&_esc=publication Cover Pdf)"
+category: "contemporary-analysis"
+---
+
 # [Social ranking in the Kingdom of Old Silla, Korea: Analysis of burials](https://www.researchgate.net/publication/223429293_Social_ranking_in_the_Kingdom_of_Old_Silla_Korea_Analysis_of_burials?enrich Id=rgreq-28ca55a40a024ca8577568e4b9b75c1d-XXX&enrich Source=Y292ZXJQYWdl OzIy MzQyOTI5MztBUzo3Mj QxNTMwNDA2NTg0MzNAMTU0OTY2Mjk0Nzgz Mg%3D%3D&el=1_x_3&_esc=publication Cover Pdf)
 
 | | Article in Journal of Anthropological Archaeology · March 1989 | |
@@ -7,7 +12,8 @@
 | CITATIONS | | READS |
 | 22 | | 2,100 |
 | | 4 authors, including: | |
-| | Richard Pearson<br>University of British Columbia | |
+| | Richard Pearson
+University of British Columbia | |
 | | 90 PUBLICATIONS 680 CITATIONS | |
 ## | | SEE PROFILE | |
 
@@ -83,7 +89,7 @@ The Kojiki (Records of Ancient Matters) and the ZVihon Shoki (Chronicles of Japa
 
 The early Korean documents provide us with an account of a rigid system of caste-like ranks termed the kolp'um (lit. "bone rank") system. In the late fourth century, a rather large confederated Silla kingdom had taken shape (Lee 1982); up to this time, the kingship had alternated among three clans, while after this time it was monopolized on a hereditary basis by the Kim clan. Between the late 4th and the early 6th centuries, outlying regions were incorporated into this state, and power became centralized under the Silla aristocracy. As it expanded and took over the territories of
 
-<sup>&#</sup>x27; Korean names are presented with the surname first, as is Korean custom.
+&#x27; Korean names are presented with the surname first, as is Korean custom.
 
 those around it, Silla attempted to incorporate aristocrats coming from these conquered areas into the existing social order, on the basis of blood and tribal ties, because its political power was not strong enough to eliminate their social position.
 
@@ -91,7 +97,7 @@ The kolp'um system originally consisted of two different systems, the kol ("bone
 
 The most detailed extant statement of the kolp'um regulations is the Edict of 834 A. D. by King Hungdok, which is preserved in Section 33 of the Samguk Sagi (Aoyagi 1975318-323). It forms the basis of the discussions of the kolp'um system by Kim (1965, 1971) (Table 1). He postulates that the chingol was composed of the highest aristocrats from the six localities which comprised the early Silla state, as well as local chiefs and
 
-<sup>3</sup> Yi (1984) provides several different interpretations of the ranks and dates of their existence. Although the chin& were supreme after the disappearance of the songgol, Kim (1971) states that the government tried to bring them under bureaucratic control, because of struggles within their rank. It is interesting that in the fragmentary text in the Sam& Sagi they were subject to restrictions although they were the top rank. The king and his family members wanted to distinguish themselves from other chingol through the enforcement of sumptuary rules.
+3 Yi (1984) provides several different interpretations of the ranks and dates of their existence. Although the chin& were supreme after the disappearance of the songgol, Kim (1971) states that the government tried to bring them under bureaucratic control, because of struggles within their rank. It is interesting that in the fragmentary text in the Sam& Sagi they were subject to restrictions although they were the top rank. The king and his family members wanted to distinguish themselves from other chingol through the enforcement of sumptuary rules.
 
 TABLE 1 RANKS OF THE KOLPYIM SYSTEM, WITH SELECTED PROHIBITIONS AND RESTRICTIONS ON CLOTHING AND RIDING EQUIPMENT FOR EACH GRADE (FROM KIM 1971:46, X-69; AOYACI 1975316323)
 
@@ -100,14 +106,34 @@ TABLE 1 RANKS OF THE KOLPYIM SYSTEM, WITH SELECTED PROHIBITIONS AND RESTRICTIONS
 | | | | | | | |
 | | | | | | | X |
 | | | | | | | |
-| | | X | | X<br>X | | |
+| | | X | | X
+X | | |
 | | | | | | X | |
 | | | | | X | X | X |
 | 1975316323) | | | X | | X | |
-| AOYACI | | | | | X<br>X | |
+| AOYACI | | | | | X
+X | |
 | X-69; | | | | X | | |
 | 1971:46, | | | | | | |
-| KIM<br>(FROM | (indicated by x)<br>Prohibitions | silver, copper tin alloy or gold, silver<br>Fittings with subtly designed white jade<br>Crowns (a) with gold floral decoration<br>threads<br>Belts decorated with white jade<br>Blankets of fur, gold-silver<br>(b) of gold, | Saddles decorated with gold, silver, gems, or jade<br>decoration | alloy<br>sparkling gold<br>Muzzles and stirrups (a) gold, copper-tin-zinc<br>Trousers of variegated sparkling gold cloth<br>Cloth of reddish brown, powdered,<br>Combs with gold decoration | (d) (a) plus any silver or gold decoration<br>(c) (a) plus silver, gold plating, inlay<br>(b) (a) plus silver, gold plating, jade<br>Hairpins (a) engraved, inlaid with gems, jades | (b) inlaid with gold, silver, decorated with gems or jade<br>(c) engraved, inlaid with gems, gold |
+| KIM
+(FROM | (indicated by x)
+Prohibitions | silver, copper tin alloy or gold, silver
+Fittings with subtly designed white jade
+Crowns (a) with gold floral decoration
+threads
+Belts decorated with white jade
+Blankets of fur, gold-silver
+(b) of gold, | Saddles decorated with gold, silver, gems, or jade
+decoration | alloy
+sparkling gold
+Muzzles and stirrups (a) gold, copper-tin-zinc
+Trousers of variegated sparkling gold cloth
+Cloth of reddish brown, powdered,
+Combs with gold decoration | (d) (a) plus any silver or gold decoration
+(c) (a) plus silver, gold plating, inlay
+(b) (a) plus silver, gold plating, jade
+Hairpins (a) engraved, inlaid with gems, jades | (b) inlaid with gold, silver, decorated with gems or jade
+(c) engraved, inlaid with gems, gold |
 
 kings (Kim 1965:Table 1). The prescriptions of the edict are particularly detailed; we have abstracted in Table 1 only those which might relate to the nonperishable artifacts in burials. These sumptuary laws belong to Silla some 400 years after the time period which concerns us-after Silla had unified the Korean peninsula and increased enormously in scale and centralization. Furthermore, the regulations pertain to the living, not to the dead. We do not know how the symbolism of everyday life was transferred into the symbolism of the afterworld. Nevertheless we can see how access to the expression of high status was increasingly cut off from the lower ranks who are prohibited from using various types of regalia and precious materials. The prescription on the use of gold and copper is particularly clear. The female chingol are prohibited from using the gold crowns of the songgol while the male chingol appear to be allowed to use silver stirrups, but not stirrups of gold or copper alloy.
 
@@ -282,20 +308,29 @@ TABLE 3 COMPARISON OF THE MEAN NUMBERS OF GRAVE GOOD TYPES, EXCLUSIVE OF POPERY,
 |---------------------------------------------|--------|-------|-------|------|
 | Group | size | Mean | SD" | SE" |
 | 1. SSWC type | 78 | 13.21 | 15.39 | 1.74 |
-| 2. SSWC with<br>mound | 20 | 29.56 | 21.38 | 4.78 |
-| 3. SSWC with<br>coffin | 32 | 21.06 | 3.64 | 0.64 |
-| 4. SSWC without<br>cofftn | 45 | 7.24 | 6.19 | 0.92 |
-| 5. Large<br>stone chamber | 10 | 2.3 | 2.75 | 0.86 |
+| 2. SSWC with
+mound | 20 | 29.56 | 21.38 | 4.78 |
+| 3. SSWC with
+coffin | 32 | 21.06 | 3.64 | 0.64 |
+| 4. SSWC without
+cofftn | 45 | 7.24 | 6.19 | 0.92 |
+| 5. Large
+stone chamber | 10 | 2.3 | 2.75 | 0.86 |
 | 6. Small stone chamber tomb | 17 | 1.06 | 1.15 | 0.28 |
-| 7. Stone chamber boundary<br>stones | 9 | 4.6 | 5.65 | 1.89 |
+| 7. Stone chamber boundary
+stones | 9 | 4.6 | 5.65 | 1.89 |
 | 8. Jar coffin | 12 | 0.08 | 0 | 0 |
-| 9. All types with boundary<br>stones | 27 | 9.7 | 14.84 | 2.86 |
-| 10. All types without<br>boundary<br>stones | 26 | 1.54 | 3.15 | 0.62 |
+| 9. All types with boundary
+stones | 27 | 9.7 | 14.84 | 2.86 |
+| 10. All types without
+boundary
+stones | 26 | 1.54 | 3.15 | 0.62 |
 | 11. Red stones on bottom | 12 | 23.75 | 21.86 | 6.31 |
 | 12. Pebble bottom | 10 | 11.2 | 17.27 | 5.60 |
 | 13. Stone bottom | 4 | 14.25 | 9.53 | 4.76 |
 | 14. Cobbles, pebbles bottom | 11 | 13.09 | 9.96 | 3.01 |
-| 15. Ori@nal<br>soil bottom | 8 | 1.25 | 1.51 | 0.53 |
+| 15. Ori@nal
+soil bottom | 8 | 1.25 | 1.51 | 0.53 |
 ## | 16. Soil and stone | 13 | 3.61 | 4.17 | 1.15 |
 
 a SD, standard deviations; SE, standard error.
@@ -308,58 +343,88 @@ For 130 of the 131 cases, data were available on the presence or absence of wood
 
 Poor skeletal preservation left us with only 13 cases identifiable by sex. Males are Nos. (l), (2), (43) (125), and (131), and females, (3), (22), (41), (44), (51), (53), (129), and (131). Orientation of the five male cases was consistently to the east; for the females, five cases had an eastern orientation while three were oriented south or southeast. The number of nonceramic grave good types for males ranged from 6 to 22 and for females
 
-<sup>6</sup> Data are taken from the following. Burial Nos. (I)-@) Kim and Yi (1975:6&133), Nos. (19)-(32) Om and Hwang (1974), Nos. (33)-(40) Hong and Kim (1964:7-54), Nos. (41)-&I) Munhwajae Kwalliguk (1%9:3-l 13), Nos. (45)-@6) Munhwajae Kwalliguk (1%9:115-145), Nos. (47)-(48) Kim (1948:2456), Nos. (49)-(51) Kim and Kim (1955:%3), No. (52) Munhwajae Kwalliguk (1974), No. (53) Munhwajae Kwalliguk (1975a, 1975b), No. (54) Munhwajae Kwalliguk (1976), Nos. (55)-(57) Arimitsu (1935a:3-72), Nos. (58)-(63) Saito (1937a:8-92), Nos. (64)-(65) Umehara (1932:7-268), Nos. @X)-(85) Y. Yun (1975:1&i), Nos. (86)-(88) S. Yun (1975:67-151), Nos. (89)-(109) Kim and Chong (1975:153-262), No. (110) Kim, et al. (1975:263-288), No. (111) Yi (1975:289-3%), No. (112) Chin and Kim (1975:397- 421), Nos. (113)-(121) Kim et al. (198011-130), Munhwajae Kwalliguk (1980), Nos. (122b (124) Yi (1980:131-340), Nos. (125) and (131) Arimitsu (1935b), No. (126) Hamada and Umehara (1924-1927) and Hamada (1932), No. (127) Koizumi (1927), Nos. (128) and (129) Saito (1937b:37-44), No. (130) Chosen Sotokufu (1916:344-350).
+6 Data are taken from the following. Burial Nos. (I)-@) Kim and Yi (1975:6&133), Nos. (19)-(32) Om and Hwang (1974), Nos. (33)-(40) Hong and Kim (1964:7-54), Nos. (41)-&I) Munhwajae Kwalliguk (1%9:3-l 13), Nos. (45)-@6) Munhwajae Kwalliguk (1%9:115-145), Nos. (47)-(48) Kim (1948:2456), Nos. (49)-(51) Kim and Kim (1955:%3), No. (52) Munhwajae Kwalliguk (1974), No. (53) Munhwajae Kwalliguk (1975a, 1975b), No. (54) Munhwajae Kwalliguk (1976), Nos. (55)-(57) Arimitsu (1935a:3-72), Nos. (58)-(63) Saito (1937a:8-92), Nos. (64)-(65) Umehara (1932:7-268), Nos. @X)-(85) Y. Yun (1975:1&i), Nos. (86)-(88) S. Yun (1975:67-151), Nos. (89)-(109) Kim and Chong (1975:153-262), No. (110) Kim, et al. (1975:263-288), No. (111) Yi (1975:289-3%), No. (112) Chin and Kim (1975:397- 421), Nos. (113)-(121) Kim et al. (198011-130), Munhwajae Kwalliguk (1980), Nos. (122b (124) Yi (1980:131-340), Nos. (125) and (131) Arimitsu (1935b), No. (126) Hamada and Umehara (1924-1927) and Hamada (1932), No. (127) Koizumi (1927), Nos. (128) and (129) Saito (1937b:37-44), No. (130) Chosen Sotokufu (1916:344-350).
 
 # TABLE 4
 
 | LIST OF ARTIFACT VARIABLES" | |
 |--------------------------------------------------------|--|
-| Crowns<br>and caps, other regalia | |
+| Crowns
+and caps, other regalia | |
 | 1 (1) Gold crown | |
 | 2 (2) Gold cap ornament | |
 | (3) Gold cap | |
-| 3 (4) Gilt bronze<br>crown | |
-| (5) Gilt bronze<br>cap ornament | |
-| 4 (6) Gilt bronze<br>cap | |
+| 3 (4) Gilt bronze
+crown | |
+| (5) Gilt bronze
+cap ornament | |
+| 4 (6) Gilt bronze
+cap | |
 | (7) Silver crown | |
-| 5 (8) Silver crown<br>ornament | |
+| 5 (8) Silver crown
+ornament | |
 | (9) Silver cap | |
 | 6 (10) Birch bark disk | |
-| 7 (11) Gilt bronze<br>shoes | |
-| Girdle<br>and pendants | |
-| 8 (12) Gold girdle<br>with pendants | |
-| (13) Gilt bronze<br>girdle<br>with pendants | |
-| 9 (14) Silver girdle<br>with pendants | |
+| 7 (11) Gilt bronze
+shoes | |
+| Girdle
+and pendants | |
+| 8 (12) Gold girdle
+with pendants | |
+| (13) Gilt bronze
+girdle
+with pendants | |
+| 9 (14) Silver girdle
+with pendants | |
 | Bracelets | |
 | 10 (15) Gold bracelet | |
-| (16) Gilt bronze<br>bracelet | |
+| (16) Gilt bronze
+bracelet | |
 | 11 (17) Silver bracelet | |
 | 12 (18) Jade bracelet | |
 | Rings | |
-| 13 (19) Gold fwer<br>ring | |
-| 14 (20) Gilt bronze<br>finger ring | |
+| 13 (19) Gold fwer
+ring | |
+| 14 (20) Gilt bronze
+finger ring | |
 | 15 (21) Silver ring | |
 | | |
 | Earrings | |
-| 16 (22) Gold earrings<br>with thick hollow<br>ring | |
-| (23) Gilt bronze<br>earrings with thick hollow<br>ring | |
-| 17 (24) Gold earrings<br>with thin solid ring | |
-| 18 (25) Gilt bronze<br>earrings with thin solid ring | |
+| 16 (22) Gold earrings
+with thick hollow
+ring | |
+| (23) Gilt bronze
+earrings with thick hollow
+ring | |
+| 17 (24) Gold earrings
+with thin solid ring | |
+| 18 (25) Gilt bronze
+earrings with thin solid ring | |
 | Necklaces | |
 | 19 (26) Glass bead necklace | |
 | 20 (27) Gold necklace | |
 | 21 (28) Gold ring (use unspecified) | |
-| 22 (29) Gilt bronze<br>ring (use unspecified) | |
+| 22 (29) Gilt bronze
+ring (use unspecified) | |
 | 23 (30) Comma shaped jade | |
 | Other | |
-| (31) Gold jingle<br>bell | |
+| (31) Gold jingle
+bell | |
 | 24 (32) Mica | |
 | 25 (33) Jade | |
-| Other<br>26 | |
-| Weapons,<br>tools, and other burial goods | |
-| Gold, gilt bronze<br>decorated<br>objects | |
-| 27 (34) Gold, gilt bronze<br>decorated<br>sword | |
-| 28 (35) Gold, gih bronze<br>decorated<br>knife | |
+| Other
+26 | |
+| Weapons,
+tools, and other burial goods | |
+| Gold, gilt bronze
+decorated
+objects | |
+| 27 (34) Gold, gilt bronze
+decorated
+sword | |
+| 28 (35) Gold, gih bronze
+decorated
+knife | |
 ## | | |
 
 ## 29 (36) Gilt bronze legging (leg shields)
@@ -492,7 +557,7 @@ The relative status of clusters can be seen from the quality and kinds of goods 
 
 It is puzzling that there were not more jade objects in the highest status tombs, since these were mentioned in the kolp'um restrictions. It may be that such objects did not come into use until several centuries later; it may also be that they were too precious to be included as grave goods, being inherited as family heirlooms. It is also interesting that gilt bronze, which
 
-<sup>&#</sup>x27; These cases, with very few occurrences, do not have suffkient characteristics to join with other cases on the basis of shared characteristics. The SSWC which were dropped were (3, (61, (81, (161, @I), (3% (9% (931, (1021, (103), VW, (1W, UW, (1141, (1211, and (125).
+&#x27; These cases, with very few occurrences, do not have suffkient characteristics to join with other cases on the basis of shared characteristics. The SSWC which were dropped were (3, (61, (81, (161, @I), (3% (9% (931, (1021, (103), VW, (1W, UW, (1141, (1211, and (125).
 
 ## Dendrogram using Ward Method
 
@@ -550,20 +615,38 @@ Table 7 shows the occurrence of different kinds of objects by their use.
 
 16 gold earrings with thick ring, 17 gold earrings with thin ring, 19 glass bead necklace, 21 gold ring (use unspecified), 33 iron sword, 36 iron arrowhead, 37 iron adze I, 38 iron adze II, 42 iron sickle, 70 iron harness a Artifact number from Table 4 precedes description. The percentage on the left indicates the percentage of tombs in the cluster in which the trait is present.
 
-| TABLE<br>6 |
+| TABLE
+6 |
 |----------------------------------------------------------------------------------------------------|
-| AI-TRIBUTES<br>IN<br>THE FIVE<br>CLUSTERS<br>BY MATERIALS:<br>PERCENTAGE<br>OF TOMBS<br>IN<br>EACH |
-| CLUSTER<br>FOR<br>WHICH<br>THE MATERIAL<br>IS PRESENT |
+| AI-TRIBUTES
+IN
+THE FIVE
+CLUSTERS
+BY MATERIALS:
+PERCENTAGE
+OF TOMBS
+IN
+EACH |
+| CLUSTER
+FOR
+WHICH
+THE MATERIAL
+IS PRESENT |
 
 | | Attribute | Cluster No. | | | | | | |
 |---------------|--------------------------------------|-------------|------|-------|-------|-------|-------|--|
 | Materials | number(s) | 5 | 3 | 2 | 4 | 1 | Mean | |
-| | 1,2,8,10,13,16,17,<br>20,21,27,28,77 | 100% | 90% | 100% | 50% | 50% | 7% | |
-| Gilt bronze | 3,4,7,14,18,22,29,<br>52-58,78-80 | 100% | 50% | 44.4% | 37.5% | 0% | 46.8% | |
-| Silver | 5,9,11,15,30,31,<br>63-67,82-t-H | 100% | 60% | 100% | 50% | 12.5% | 69.4% | |
+| | 1,2,8,10,13,16,17,
+20,21,27,28,77 | 100% | 90% | 100% | 50% | 50% | 7% | |
+| Gilt bronze | 3,4,7,14,18,22,29,
+52-58,78-80 | 100% | 50% | 44.4% | 37.5% | 0% | 46.8% | |
+| Silver | 5,9,11,15,30,31,
+63-67,82-t-H | 100% | 60% | 100% | 50% | 12.5% | 69.4% | |
 | Bronze | 59-62,85-90 | 90% | 30% | 16.7% | 12.5% | 0% | 27.4% | |
-| Iron | 32-48,5&51,68-76,<br>94-96 | 100% | 100% | 100% | 100% | 100% | 100% | |
-| Birch<br>bark | 6 | 90% | 0% | 11.1% | 6.3% | 0% | 19.4% | |
+| Iron | 32-48,5&51,68-76,
+94-96 | 100% | 100% | 100% | 100% | 100% | 100% | |
+| Birch
+bark | 6 | 90% | 0% | 11.1% | 6.3% | 0% | 19.4% | |
 | Jade | 12,23,25 | 80% | 60% | 16.7% | 12.5% | 0% | 30.6% | |
 | Glass | 19,92 | 90% | 80% | 77.8% | 6.3% | 12.5% | 53.2% | |
 | Mica | 24 | 30% | 10% | 11.1% | 0% | 0% | 9.7% | |
@@ -576,30 +659,50 @@ Table 8 gives the distribution of types of the same kind of object made of gold,
 
 Generally, the expectations derived from our historical survey seem to be borne out. What can be said of the specific nature of the clusters? Table 5 shows which attributes are found exclusively in Cluster 5, and
 
-| TABLE<br>7 |
+| TABLE
+7 |
 |------------------------------------------------------------------------------------------------------|
-| AI-MBLITES<br>IN<br>THE FIVE<br>CLUSTERS,<br>BY USE:<br>PERCENTAGE<br>OF TOMBS<br>IN EACH<br>CLUSTER |
-| IN WHICH<br>THE<br>FUNCTIONAL<br>TYPE<br>IS PRESENT |
+| AI-MBLITES
+IN
+THE FIVE
+CLUSTERS,
+BY USE:
+PERCENTAGE
+OF TOMBS
+IN EACH
+CLUSTER |
+| IN WHICH
+THE
+FUNCTIONAL
+TYPE
+IS PRESENT |
 
-| Functional | Attribute | Cluster<br>No. | | | | | |
+| Functional | Attribute | Cluster
+No. | | | | | |
 |--------------------|------------------------|----------------|------|-------|-------|-------|-------|
 | type | number(s) | 5 | 3 | 2 | 4 | 1 | MEUI |
 | Crown | l-5 | 80% | 10% | 11.1% | 6.3% | 0% | 19.4% |
 | Shoes | 7 | 76% | 10% | 5.6% | 0% | 0% | 14.5% |
 | Girdle | 83 | 88% | 38% | 50% | 18.8% | 0% | 37.1% |
 | Bracelet | lo-12 | 80% | 56% | 22.2% | 0% | 0% | 27.4% |
-| Finger<br>King | 13-15 | 80% | 40% | 22.2% | 0% | 0% | 25.8% |
-| Earring<br>(thick) | 16 | 56% | 78% | 38.9% | 31.3% | 12.5% | 46.3% |
-| Earring<br>(thin) | 17,18 | 100% | 30% | 77.8% | 37.5% | 12.5% | 54.8% |
+| Finger
+King | 13-15 | 80% | 40% | 22.2% | 0% | 0% | 25.8% |
+| Earring
+(thick) | 16 | 56% | 78% | 38.9% | 31.3% | 12.5% | 46.3% |
+| Earring
+(thin) | 17,18 | 100% | 30% | 77.8% | 37.5% | 12.5% | 54.8% |
 | Necklace | 19-23 | 100% | 100% | 88.9% | 18.8% | 25% | 66.1% |
 | Sword | 27,30,32 | 80% | 28% | 83.3% | 75% | 25% | 62.9% |
 | Knives | 28,31,33 | 100% | 20% | 94.4% | 37.5% | 25% | 59.7% |
 | Tools | 3M8,50,51 | 100% | 88% | 100% | 68.8% | 100% | 88.7% |
 | Saddlebow | 52,59,63,68 | 90% | 38% | 22.2% | 6.3% | 12.5% | 2% |
 | stirrup | 53,69 | 100% | 0% | 58% | 12.5% | 87.5% | 45.2% |
-| Harness | 54-58&O&4-67,<br>70-74 | 100% | 40% | 100% | 62.5% | 100% | 80.7% |
-| Horse<br>bell | 61 | 30% | 0% | 0% | 12.5% | 0% | 8.1% |
-| Horse<br>jingle | 62 | 40% | 10% | 0% | 6.3% | 0% | 9.7% |
+| Harness | 54-58&O&4-67,
+70-74 | 100% | 40% | 100% | 62.5% | 100% | 80.7% |
+| Horse
+bell | 61 | 30% | 0% | 0% | 12.5% | 0% | 8.1% |
+| Horse
+jingle | 62 | 40% | 10% | 0% | 6.3% | 0% | 9.7% |
 | Vessel | 77-98 | 90% | 28% | 27.8% | 6.3% | 0% | 27.4% |
 | Spearheads | 34,51 | 90% | 0% | 77.8% | 43.8% | 12.5% | 58% |
 | Sickle | 42 | 58% | 10% | 38.9% | 31.3% | 12.5% | 30.7% |
@@ -618,23 +721,36 @@ TABLE 8 DISTRIBUTION OF OBJECTS OF DIFFERENT PRECIOUS MATERIALS IN THE FIVE CLUS
 |--------------------------------------------|------|-----|-----|-----|-----|------|
 | Attribute | 5 | 3 | 2 | 4 | 1 | Mean |
 | 1 Gold crown | 40% | 10% | 0% | 0% | 0% | 8% |
-| 3 Gilt bronze<br>crown | 60% | 0% | 6% | 0% | 0% | 11% |
-| 5 Silver crown<br>ornament | 20% | 0% | 6% | 0% | 0% | 5% |
+| 3 Gilt bronze
+crown | 60% | 0% | 6% | 0% | 0% | 11% |
+| 5 Silver crown
+ornament | 20% | 0% | 6% | 0% | 0% | 5% |
 | 8 Gold girdle | 50% | 10% | 0% | 0% | 0% | 10% |
 | 9 Silver girdle | 80% | 20% | 50% | 19% | 0% | 35% |
 | 10 Gold bracelet | 50% | 20% | 0% | 0% | 0% | 11% |
 | 11 Silver bracelet | 40% | 30% | 17% | 0% | 0% | 16% |
 | 12 Jade bracelet | 40% | 30% | 11% | 0% | 0% | 15% |
 | 13 Gold finger ring | 60% | 30% | 6% | 0% | 0% | 16% |
-| 14 Gilt bronze<br>finger ring | 30% | 0% | 0% | 0% | 0% | 5% |
+| 14 Gilt bronze
+finger ring | 30% | 0% | 0% | 0% | 0% | 5% |
 | 15 Silver ring | 40% | 20% | 17% | 0% | 0% | 15% |
-| 17 Gold earrings with<br>thin solid ring | 100% | 10% | 72% | 12% | 13% | 44% |
-| 18 Gilt bronze<br>earrings thin solid ring | 0% | 20% | 11% | 31% | 0% | 15% |
-| 27 Gold gilt bronze<br>decorated<br>sword | 80% | 10% | 11% | 0% | 0% | 18% |
-| 28 Silver decorated<br>sword | 40% | 0% | 6% | 0% | 0% | 8% |
-| 52 Gilt bronze<br>decorated<br>saddle bow | 70% | 0% | 10% | 0% | 0% | 13% |
-| 63 Silver decorated<br>saddle bow | 30% | 0% | 6% | 0% | 0% | 6% |
-| 59 Bronze<br>decorated<br>saddle bow | 20% | 0% | 0% | 6% | 0% | 5% |
+| 17 Gold earrings with
+thin solid ring | 100% | 10% | 72% | 12% | 13% | 44% |
+| 18 Gilt bronze
+earrings thin solid ring | 0% | 20% | 11% | 31% | 0% | 15% |
+| 27 Gold gilt bronze
+decorated
+sword | 80% | 10% | 11% | 0% | 0% | 18% |
+| 28 Silver decorated
+sword | 40% | 0% | 6% | 0% | 0% | 8% |
+| 52 Gilt bronze
+decorated
+saddle bow | 70% | 0% | 10% | 0% | 0% | 13% |
+| 63 Silver decorated
+saddle bow | 30% | 0% | 6% | 0% | 0% | 6% |
+| 59 Bronze
+decorated
+saddle bow | 20% | 0% | 0% | 6% | 0% | 5% |
 
 included in the top social group of Old Silla, because of the large number of precious items, such as glass vessels, lacquer ware, and a gold crown. However, it was placed in Cluster 3, the second ranking cluster. It is lacking all swords and knives which are lacking in most other members of Cluster 3, except Tomb No. 61, the Pubu Husband Tomb, and Tomb No. 6, Mich'u 1 1. At the same time, many of the grave goods which belong exclusively to Cluster 5, such as cap ornament, gilt bronze finger ring, iron spearhead, gilt bronze harness buckle, and gold and gilt bronze vessels, are not found in the Sobong-ch'ong.
 
@@ -660,19 +776,69 @@ Below these three groups, Ch'oe placed his Collective Tomb Type II, the Collecti
 
 Table 9 shows very close agreement between Ch'oe's analysis and ours in the interpretation of the highest group. His groups 1 and 2 are almost completely contained in our Cluster 5, with one exception, which fell into our second highest status group, Cluster 3. His Group 6, the lowest status group, was not included in our analysis, because the amount of grave goods was too small With Groups 3, 4, and 5 there is a relative correspondence to our Clusters 3, 2, 4, and 1, although the fit is not perfect. Ch'oe used a broader typology of earrings than we did, grouping the earrings into gold, silver, and gilt bronze types. Only gold earrings were found in Group 3, with Groups 4 and 5 had both gold and gilt bronze
 
-| TABLE<br>9 |
+| TABLE
+9 |
 |--------------------------------------------------------------------------------------------------|
-| 1981:2&l9)<br>COMPARISON<br>OF CH'OE'S<br>GROUPING<br>OF OLD<br>SILLA<br>TOMBS<br>(CH'OE<br>WITH |
-| THE<br>GROUPING<br>OF THE<br>CLUSTER<br>ANALYSIS |
+| 1981:2&l9)
+COMPARISON
+OF CH'OE'S
+GROUPING
+OF OLD
+SILLA
+TOMBS
+(CH'OE
+WITH |
+| THE
+GROUPING
+OF THE
+CLUSTER
+ANALYSIS |
 
-| | Ch'oe's<br>Group | Tomb No. (Cluster<br>No.) | | |
+| | Ch'oe's
+Group | Tomb No. (Cluster
+No.) | | |
 |------------|-----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|--|--|
-| Group<br>1 | status<br>Songgol<br>(king, queen, king's parents,<br>king's brother) | 33(5), 340)<br>35(5), 45(5),<br>57(5), 58(3) | | |
-| Group<br>2 | Higher<br>than chingol<br>status,<br>of weaker power<br>songgol | 30(5), 31(5), 32(5), WI | | |
-| Group<br>3 | status<br>Chingol | 19(2), 43(2), 44(2), WA<br>2Wh Wh<br>61W,<br>WV,<br>62(3) | | |
-| Group 4 | Collective<br>Tomb Type II<br>immediately<br>below<br>dingo1<br>status (specialized<br>roles) | 27(2), 28(2), 36(X<br>37(4),<br>39(4), 40(l),<br>41(4), 42(l) | | |
-| Group<br>5 | Collective<br>Tomb Type I | l(l),<br>2(l),<br>3(3), 4(3),<br>5(4), 6(3), 7(3), 11(3),<br>12(4), 13(2), 14(2), 15(4),<br>17(2), 23(l),<br>47(4), 49(4) | | |
-## | Group 6 | Multichamber<br>Tomb | 48(4) | | |
+| Group
+1 | status
+Songgol
+(king, queen, king's parents,
+king's brother) | 33(5), 340)
+35(5), 45(5),
+57(5), 58(3) | | |
+| Group
+2 | Higher
+than chingol
+status,
+of weaker power
+songgol | 30(5), 31(5), 32(5), WI | | |
+| Group
+3 | status
+Chingol | 19(2), 43(2), 44(2), WA
+2Wh Wh
+61W,
+WV,
+62(3) | | |
+| Group 4 | Collective
+Tomb Type II
+immediately
+below
+dingo1
+status (specialized
+roles) | 27(2), 28(2), 36(X
+37(4),
+39(4), 40(l),
+41(4), 42(l) | | |
+| Group
+5 | Collective
+Tomb Type I | l(l),
+2(l),
+3(3), 4(3),
+5(4), 6(3), 7(3), 11(3),
+12(4), 13(2), 14(2), 15(4),
+17(2), 23(l),
+47(4), 49(4) | | |
+## | Group 6 | Multichamber
+Tomb | 48(4) | | |
 
 Note. Tombs included in Ch'oe's analysis, but dropped from analysis because they contained less than three types of artifacts, or types with less than three instances: Group 3(125); Group 5(7), (45) (86) (87); Group 6W), (68), (6% (7% (71) (73) (81) (82), (85), (103), (WI), (84), (72), (92) (93), (102). (Parentheses refers to tombs not included in cluster analysis; see Table 2.)
 
@@ -686,23 +852,54 @@ The percentage of burials with cofftns seems to follow our ranking of clusters. 
 
 The overwhelming pattern of orientation in each cluster was to the east, n The number following the tomb number in parentheses, is the number of our cluster.
 
-| TABLE<br>10 |
+| TABLE
+10 |
 |---------------------------------------------------------------------------------------|
-| BURIAL<br>CHARACTERISTICS<br>IN RELATION<br>TO THE<br>FIVE<br>CLUSTERS<br>BASED<br>ON |
-| PRESENCE/ABSENCE<br>OF GRAVE<br>GOODS,<br>EXCLUDING<br>CERAMICS |
+| BURIAL
+CHARACTERISTICS
+IN RELATION
+TO THE
+FIVE
+CLUSTERS
+BASED
+ON |
+| PRESENCE/ABSENCE
+OF GRAVE
+GOODS,
+EXCLUDING
+CERAMICS |
 
 | | Cluster | | | | | |
 |-------------------------------------------------------------|--------------|---------------|------------------|------------------|-------------|--|
-| | (n f 8) | (n :<br>18) | 3<br>(n =<br>10) | 4<br>(n =<br>16) | (n =s IO) | |
+| | (n f 8) | (n :
+18) | 3
+(n =
+10) | 4
+(n =
+16) | (n =s IO) | |
 | Sex identification | 2M | 2M,3F | 2F, lM | | 2F | |
-| Percentage with<br>cofftns | 37.5% | 50% | 80% | 13% | 80% | |
-| Percentage without<br>cofftns<br>Average number<br>of grave | 62.5% | 50% | 20% | 87% | 10% | |
-| goods types<br>Percentage with<br>boundary<br>stones | 8.3<br>37.5% | 17.1<br>16.7% | 8.3<br>20% | 6.6<br>25% | 45.8<br>20% | |
-| Percentage of cases of<br>missing data on | | | | | | |
-| boundary<br>stones | 62.5% | 77.8% | 60% | 75% | 80% | |
+| Percentage with
+cofftns | 37.5% | 50% | 80% | 13% | 80% | |
+| Percentage without
+cofftns
+Average number
+of grave | 62.5% | 50% | 20% | 87% | 10% | |
+| goods types
+Percentage with
+boundary
+stones | 8.3
+37.5% | 17.1
+16.7% | 8.3
+20% | 6.6
+25% | 45.8
+20% | |
+| Percentage of cases of
+missing data on | | | | | | |
+| boundary
+stones | 62.5% | 77.8% | 60% | 75% | 80% | |
 | Average mound diametef | 10(l) | 21(3) | 24W | 21.4(2) | 38.6(10) | |
 
-<sup>(1</sup> The first figure is the average diameter in square meters; the second is the number of cases.
+(1 The first figure is the average diameter in square meters; the second is the number of cases.
 
 in a higher percentage than among the burials in general. Of the 62 burials in the cluster analysis, 42 (67.8%) were oriented with the head to the east, 7 (11.3%) to the southeast, and 1 (1.6%) to the northeast. Three burials (4.8%) (Nos. 51, 53, and 54) lay in an east-west direction, with no clear indication of the head. Altogether, 53 burials (85.5%) were oriented in an easterly or east-west direction. Five burials (8.1%) were oriented to the south; these were No. 28 in Cluster 2, No. 3 in Cluster 3, and Nos. 29,37, and 39 in Cluster 4, while 1 burial (1.6%), No. 56 in Cluster 2, lay in a north-south direction. For 3 burials (4.8%) orientation was not recorded (Nos. 26,48, and 52). It is of interest that no deviations from the easterly or east-west direction occurred in Clusters 1 or 5; however, the other clusters did not display much variability either,
 
@@ -730,9 +927,17 @@ The burials of Cluster 5, with the exception of No. 53, all appear in the upper 
 
 We chose four separate analyses to examine culturally generated patterning in the distribution of funerary attributes following generally the methods outlined by O'Shea (1984:49). These included energy expendi-
 
-| TABLE<br>11 |
+| TABLE
+11 |
 |--------------------------------------------------------------------------------------|
-| 500-m GRID,<br>PERCENTAGE<br>OF BURIALS<br>FOUND<br>IN EACH<br>WHICH<br>BELONG<br>TO |
+| 500-m GRID,
+PERCENTAGE
+OF BURIALS
+FOUND
+IN EACH
+WHICH
+BELONG
+TO |
 ## | EACH CLUSTER |
 
 | Cluster | Grid number | | | | | | | | | | |
@@ -775,37 +980,95 @@ Our study shows close similarities in groupings of burials according to criteria
 
 ## APPENDIX 1
 
-| <b>a</b> . | Presence and Absence Data for 62 Tombs Used in the Cluster Analysis | Absence [ | Jata for 6 | 2 Tombs Use | d in the C | Sluster Ana | ılysis | |
+| a . | Presence and Absence Data for 62 Tombs Used in the Cluster Analysis | Absence [ | Jata for 6 | 2 Tombs Use | d in the C | Sluster Ana | ılysis | |
 |------------------------------------------|---------------------------------------------------------------------|-----------------------------|------------------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|---------------------------------------|-----|
-| | Crowns,<br>Regalia | Girdles<br>Bracelets,Rings | | Earrings<br>Necklaces, Etc. | Swords<br>Knives | 0 tt | Other weapons, tools | |
-| TOMB | 123456 | 6 7 8 9 0 1 2 | 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 | 1 1 2 2 2 2 2 2 2 2 8 8 9 0 1 2 3 4 5 6 | 2 2 2 3 3 3<br>7 8 9 0 1 2 | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 | 1444444444455 | |
+| | Crowns,
+Regalia | Girdles
+Bracelets,Rings | | Earrings
+Necklaces, Etc. | Swords
+Knives | 0 tt | Other weapons, tools | |
+| TOMB | 123456 | 6 7 8 9 0 1 2 | 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 | 1 1 2 2 2 2 2 2 2 2 8 8 9 0 1 2 3 4 5 6 | 2 2 2 3 3 3
+7 8 9 0 1 2 | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 | 1444444444455 | |
 | | v - | 8 G G S G S U | G G S G G | G G G G G G M U O | G G G S S I | | | |
-| | 0<br>0<br>0<br>0 | 7 b<br>7 c g g b b t | ر<br>د د د د د د د | 1<br>1<br>1<br>1<br>1<br>1<br>1 | G | k s t a a | د ک<br>ت | |
-| | 8<br>DCC0 | | 1 1 8 8 8 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 | + c | - c e | 1 p r r d d<br>1 r 1 r z z | atihitoid<br>rncirharz | |
-| | r 0<br>⊗ Œ | 0 0 0<br>1 0 0 0<br>1 0 0 0 | | ₹<br>20<br>E | ກ<br>ຊ<br>ເ | e d b s d e | soetresk<br>enr o 1 | |
-| | r c<br>≆ c | | p<br>+ E +<br>+ E - | א ה<br>מ | 6 6 9 9 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 | e d L I | L | |
-| | E | | | e-c | א כ<br>מ | | | |
+| | 0
+0
+0
+0 | 7 b
+7 c g g b b t | ر
+د د د د د د د | 1
+1
+1
+1
+1
+1
+1 | G | k s t a a | د ک
+ت | |
+| | 8
+DCC0 | | 1 1 8 8 8 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 | + c | - c e | 1 p r r d d
+1 r 1 r z z | atihitoid
+rncirharz | |
+| | r 0
+⊗ Œ | 0 0 0
+1 0 0 0
+1 0 0 0 | | ₹
+20
+E | ກ
+ຊ
+ເ | e d b s d e | soetresk
+enr o 1 | |
+| | r c
+≆ c | | p
++ E +
++ E - | א ה
+מ | 6 6 9 9 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 | e d L I | L | |
+| | E | | | e-c | א כ
+מ | | | |
 | | | | | | d 1 ± ± | | | |
 | Mich'u C | | | × | | · · · · · · · · · | × . × . × × | | |
 | 3 Mich'u C 2 | | | × × | | | × × · · · · · · · · · · · · · · · · · · | | |
 | Mich'u | | | · · | · · · · · · · · · · · · · · · · · · · | | · · · · · · · · · · · · · · · · · · · | | |
 | Mich'o C 1 | | | × | | | | | |
-| | | <br><br> | | · · · · · · · · · · · · · · · · · · · | × · · · · · · · · · · · · · · · · · · · | · × | · · · · · · · · · · · · · · · · · · · | |
+| | | 
+
+ | | · · · · · · · · · · · · · · · · · · · | × · · · · · · · · · · · · · · · · · · · | · × | · · · · · · · · · · · · · · · · · · · | |
 | 8 Inwang 20 | | × · · · · | × · | × : | | × · · · · · · · · · · · · · · · · · · · | | |
 | Inwang | | | × · · · × | × × × | | × · · · × | | |
-| 11 Inwang 190<br>12 Inwang 19E | | | | | | | · · · · · · · · · · · · · · · · · · · | |
-| Invang | | | · ; | | | ×<br>×: | · · · · · · · · · · · · · · · · · · · | |
-| Invang | | · · | <b>*</b> · · · · · · · · · · · · · · · · · · · | · · · · · · · · · · · · · · · · · · · | | <br><br> | · · · · · · · · · · · · · · · · · · · | |
-| 16 Inwang 19J | | | | · · · · · · · · · · · · · · · · · · · | | <br><br><br> | | |
+| 11 Inwang 190
+12 Inwang 19E | | | | | | | · · · · · · · · · · · · · · · · · · · | |
+| Invang | | | · ; | | | ×
+×: | · · · · · · · · · · · · · · · · · · · | |
+| Invang | | · · | * · · · · · · · · · · · · · · · · · · · | · · · · · · · · · · · · · · · · · · · | | 
+
+ | · · · · · · · · · · · · · · · · · · · | |
+| 16 Inwang 19J | | | | · · · · · · · · · · · · · · · · · · · | | 
+
+
+ | | |
 | Inwang | | *; | · × : | | . : | | | |
 | 20 Hwang'o 5 | | × | | · · × · × · · × · · × | | · · · · · · · · · · · · · · · · · · · | · · · · · · · · · · · · · · · · · · · | |
 | 21 Hwangnam Dest | | | . , | | | · ; | | |
-| 23 Hwangnam Dest 3 | | · · | κ . | · · · · · · · · · · · · · · · · · · · | · · · · · · · · · · · · · · · · · · · | × ×<br>× ×<br>· × | | |
-| 24 Hwangnam Dest 4<br>25 Hwang'o 1 south | | <br><br> | · ×<br>· ×<br>· × | | × · · · · · · · · · · · · · · · · · · · | × ×<br>· ×<br>· × | | |
-| 26 Hwang'o 1 north<br>27 Hwang'o 33 east | | · · | | · × | | × × | | |
-| | | | ×: | · · · · · · · · · · · · · · · · · · · | · × | : ×<br>: ×<br>: × | : | |
-| | | | · ×<br>× ·<br>· · | · · × · · · · · · · · · · · · · · · · · | × · · · · · · · · · · · · · · · · · · · | · × | | . 🐱 |
-| 31 Noso Unryong | | | × | × | × | ×<br>·<br>× | × × · · | |
+| 23 Hwangnam Dest 3 | | · · | κ . | · · · · · · · · · · · · · · · · · · · | · · · · · · · · · · · · · · · · · · · | × ×
+× ×
+· × | | |
+| 24 Hwangnam Dest 4
+25 Hwang'o 1 south | | 
+
+ | · ×
+· ×
+· × | | × · · · · · · · · · · · · · · · · · · · | × ×
+· ×
+· × | | |
+| 26 Hwang'o 1 north
+27 Hwang'o 33 east | | · · | | · × | | × × | | |
+| | | | ×: | · · · · · · · · · · · · · · · · · · · | · × | : ×
+: ×
+: × | : | |
+| | | | · ×
+× ·
+· · | · · × · · · · · · · · · · · · · · · · · | × · · · · · · · · · · · · · · · · · · · | · × | | . 🐱 |
+| 31 Noso Unryong | | | × | × | × | ×
+·
+× | × × · · | |
 
 # APPENDIX 1--Continued
 
@@ -822,31 +1085,29 @@ Our study shows close similarities in groupings of burials according to criteria
 |---------|--------------|-----------------------------------------|-------------------------------------------------------|-----------|
 | | மை | m r × 0 + + - 0 | | · · · × · |
 | | 0.4 | -L -6L | | × × × |
-| | 9.60 | _ a U ர ⊃ ம ட > ம | | < · · × × |
-| | 5 6 | G – e α α α > e e α α | | |
+| | 9.60 | _ a U ர ⊃ ம ட > ம | |  e e α α | | |
 | | 1 | | | × · |
 | | o - | • - • | | |
 | | ၈၀ | Br +- 8++ roc | | |
 | | ထက | mr - p To 3 - | | |
 | | œ œ | 8 - 9 C80x - 4 F | · · · · · · · · · · · · · · · · · · · | · · · × · |
-| | 8 ~ | <b>mr</b> +r + <b>σ</b> οΔ | | |
+| | 8 ~ | mr +r + σ οΔ | | |
 | Vessels | ထဖ | $\infty$ $\epsilon$ > $\alpha$ $\infty$ | | |
-| 9 | വയ | <b>ω</b> τ κεα <b>σ</b> ο≯- | | · · · · × |
-| es<br>S | <b>60 4</b> | v 0 0 0 ≥ - | | |
-| > | <b>60</b> CO | N- MES DO3- | | |
+| 9 | വയ | ω τ κεα σ ο≯- | | · · · · × |
+| es
+S | 60 4 | v 0 0 0 ≥ - | | |
+| > | 60 CO | N- MES DO3- | | |
 | | 2 00 | v+ go≥- | | |
 | | æ | N T 0 > 0 0 0 | | |
 | | | | | |
-| | <b>~</b> 0 | 0-Dr 030 | | |
+| | ~ 0 | 0-Dr 030 | | |
 | | r- 0 | Q-D: -Q D03- | | |
 | | r- 80 | Q-D: REG DO3- | | |
-| | 1-1- | 0 0 0 3 <del>-</del> | | |
+| | 1-1- | 0 0 0 3 - | | |
 | , | ,~ o | HE WED-DE WERD | | · · · × · |
-| | 5 | <b>⊢ ι + ε δ</b> ι | :x | |
+| | 5 | ⊢ ι + ε δ ι | :x | |
 | | r 4 | ⊢ ר בטרב סומא | × · · · · · × × · · · · × · · · · × · · · · × | ×× · × · |
-| | 2 0 | mr #-++-cp | | < · · · · |
-| | 1- 70 | שב סכיש בי | x x x x x x . | · × · · · |
-| | r- | הר דפרב סמב <u>ם</u> | × · × · · · × · · · · · · · · · · · · · | × · · · · |
+| | 2 0 | mr #-++-cp | | ם | × · × · · · × · · · · · · · · · · · · · | × · · · · |
 | | ~0 | ₩ F E & F E | · · · · · · × · · · · × · · · × × × × · · · × × · · · | · × · × · |
 | | 9 6 | HL 8+-LL | · · · · · · · × · · · · × · · · × × × × | * · · × × |
 | | - | - L 8 8 D D O 3 | | · · · · × |
@@ -857,7 +1118,7 @@ Our study shows close similarities in groupings of burials according to criteria
 | | 04 | ט- ספט דפרר ספרם | · · · · · · × · · · · × × · · · · · · × × · · · × × | ××·×× |
 | Horse | ဖက | v → o o o o o o o o o o o | | |
 | 5 | 9 79 | m r → r m − e | | · · · × · |
-| _ | · φ - | <b>™r τοιωα ⊅α</b> | × | |
+| _ | · φ - | ™r τοιωα ⊅α | × | |
 | | ဖဝ | אר סבמא | | |
 | | மி | ECU CON CON | | |
 | | 10 B | מ-סר דמרכ סטמא | | |
@@ -1023,11 +1284,12 @@ Our study shows close similarities in groupings of burials according to criteria
 
 | 1—Continued | |
 |-----------------|------------|
-## | <b>APPENDIX</b> | Horse Gear |
+## | APPENDIX | Horse Gear |
 
 | | | Horse Gear | Vessels |
 |-------------------------------------------------|-----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|
-| 100 | TOMB | 555555666666<br>345678901234567 | 67777777788888888888899 |
+| 100 | TOMB | 555555666666
+345678901234567 | 67777777788888888888899 |
 | Tae south X X X X X X X X X X X X X X X X X X X | | 0+0r 000 04+rr 0+0r 000 04+rr 0+0r 000 000 000 0+0r 000 000 000 0+0r 000 000 000 0+0r 000 000 000 0+0r 000 000 000 0+0r 000 000 000 0+0r 000 000 000 0+0r 000 000 000 0+0r 000 000 000 0+0r 000 000 000 0+0r 000 000 000 0+0r 000 000 000 0+0r 000 000 000 0+0r 000 000 000 0+0r 000 000 000 0+0r 000 000 000 0+0r 000 000 000 0+0r 000 000 000 0+0r 000 000 000 0+0r 000 000 000 0+0r 000 000 000 0+0r 000 000 000 0+0r 000 000 000 0+0r 000 000 000 0+0r 000 000 000 0+0r 000 000 000 0+0r 000 000 000 0+0r 000 000 000 0+0r 000 000 000 0+0r 000 000 000 0+0r 000 000 000 0+0r 000 000 000 0+0r 000 000 000 0+0r 000 000 000 0+0r 000 000 000 0+0r 000 000 000 0+0r 000 000 000 0+0r 000 000 000 0+0r 000 000 000 0+0r 000 000 000 0+0r 000 000 000 0+0r 000 000 000 0+0r 000 000 000 0+0r 000 000 000 0+0r 000 000 000 0+0r 000 000 000 0+0r 000 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 000 000 0+0r 0 | |
 | 0 5 | 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 | - x · · · x · x · · · · · · · · · · · · | |
 
@@ -1036,7 +1298,9 @@ Percentage of Cases of Each Artifact Type in Each Cluster, Five Cluster Solution
 
 | Artifact | | | Cluste | r | | | Artifact | | | Cluster | r | | |
 |-----------------|----------|-----------|-----------|----------|------------|-----------|-----------------|----------|----------|----------|----------|------------|----------|
-| type<br>(trait) | 1 | 2 | 3 | 4 | 5 | Mean | type<br>(trait) | 1 | 2 | 3 | 4 | 5 | Mean |
+| type
+(trait) | 1 | 2 | 3 | 4 | 5 | Mean | type
+(trait) | 1 | 2 | 3 | 4 | 5 | Mean |
 | 1 | 0% | 0% | 10% | 0% | 40% | 8% | 55 | 0% | 6% | 30% | 0% | 80% | 19% |
 | 2 | 0% | 0% | 0% | 0% | 60% | 10% | 56 | 0% | 11% | 10% | 0% | 90% | 19% |
 | 3 | 0% | 6% | 0% | 0% | 60% | 11% | 57 | 0% | 6% | 0% | 0% | 60% | 11% |
@@ -1060,12 +1324,32 @@ Percentage of Cases of Each Artifact Type in Each Cluster, Five Cluster Solution
 | 21 | 12% | 11% | 20% | 6% | 10% | 11% | 75 | 50% | 17% | 0% | 12% | 20% | 18% |
 | 22 | 0% | 6% | 0% | 0% | 10% | 3% | 76 | 0% | 6% | 0% | 6% | 10% | 5% |
 | 23 | 0% | 0% | 30% | 6% | 30% | 11% | 77 | 0% | 0% | 0% | 0% | 30% | 5% |
-| 24 | 0% | 11% | 10% | 0% | 30% | 10% | 78<br>70 | 0% | 0% | 0% | 0% | 40% | 6% |
+| 24 | 0% | 11% | 10% | 0% | 30% | 10% | 78
+70 | 0% | 0% | 0% | 0% | 40% | 6% |
 | 25 | 0% | 11% | 0% | 6% | 60% | 15% | 79 | 0% | 0% | 0% | 0% | 40% | 6% |
-| 26<br>27 | 0% | 0% | 0% | 0% | 40% | 6% | 80 | 0% | 0% | 0% | 0% | 30%<br>30% | 5% |
-| 27<br>28 | 0%<br>0% | 11%<br>6% | 10%<br>0% | 0%<br>0% | 80%<br>40% | 18%<br>8% | 81<br>82 | 0%<br>0% | 0%<br>0% | 0%<br>0% | 0%<br>0% | 30%<br>40% | 5%<br>6% |
-| 48<br>29 | 0% | 6% | 0% | 0% | 30% | 6% | 82<br>83 | 0% | 0% | 0% | 0% | 40% | 6% |
-| 30 | 0% | 50% | 0% | 6% | 50% | 24% | 83<br>84 | 0% | 6% | 10% | 0% | 10% | 5% |
+| 26
+27 | 0% | 0% | 0% | 0% | 40% | 6% | 80 | 0% | 0% | 0% | 0% | 30%
+30% | 5% |
+| 27
+28 | 0%
+0% | 11%
+6% | 10%
+0% | 0%
+0% | 80%
+40% | 18%
+8% | 81
+82 | 0%
+0% | 0%
+0% | 0%
+0% | 0%
+0% | 30%
+40% | 5%
+6% |
+| 48
+29 | 0% | 6% | 0% | 0% | 30% | 6% | 82
+83 | 0% | 0% | 0% | 0% | 40% | 6% |
+| 30 | 0% | 50% | 0% | 6% | 50% | 24% | 83
+84 | 0% | 6% | 10% | 0% | 10% | 5% |
 | 31 | 0% | 11% | 0% | 0% | 50% | 11% | 85 | 0% | 6% | 0% | 0% | 50% | 10% |
 | 32 | 25% | 50% | 0% | 69% | 40% | 44% | 86 | 0% | 0% | 10% | 0% | 50% | 10% |
 | 33 | 25% | 94% | 20% | 37% | 100% | 60% | 87 | 0% | 0% | 0% | 0% | 40% | 6% |

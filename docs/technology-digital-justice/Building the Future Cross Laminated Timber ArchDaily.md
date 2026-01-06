@@ -1,3 +1,8 @@
+---
+title: "Building the Future: Cross Laminated Timber"
+category: "technology-digital-justice"
+---
+
 #### [archdaily.com](https://www.archdaily.com/977834/building-the-future-cross-laminated-timber)
 
 # Building the Future: Cross Laminated Timber
@@ -84,7 +89,7 @@ CLT House is a bridge between architectural thinking and sustainable constructio
 
 ## ![](_page_8_Picture_2.jpeg)
 
-Cite: Eric Baldwin. "Building the Future: Cross Laminated Timber" 03 Mar 2022. Arch Daily. Accessed 18 Sep 2023. <https://www.archdaily.com/977834/building-the-future-crosslaminated-timber> ISSN 0719-8884
+Cite: Eric Baldwin. "Building the Future: Cross Laminated Timber" 03 Mar 2022. Arch Daily. Accessed 18 Sep 2023.  ISSN 0719-8884
 
 # 想阅读⽂章的中⽂版本吗?
 

@@ -1,3 +1,8 @@
+---
+title: "The Weakness of a Politics of Protest"
+category: "contemporary-analysis"
+---
+
 ## James Herod
 
 # The Weakness of a Politics of Protest

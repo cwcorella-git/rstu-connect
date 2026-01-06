@@ -1,3 +1,8 @@
+---
+title: "## **Just Transition for Auto Workers: The Answer to Auto's Race to the Bottom**"
+category: "feminist-theory"
+---
+
 ## **Just Transition for Auto Workers: The Answer to Auto's Race to the Bottom**
 
 ## **Date:** Fri, 10/06/2023 - 00:00
@@ -199,7 +204,8 @@ https://www.labor4sustainability.org/uaw-solidarity-letter/
 | Stephen Edelstein, "Union-made bonus for EV tax credit proposal is gone, Manchin confirms," |
 | Green Car Reports |
 | , June 23, 2022. |
-| https://www.greencarreports.com/news/1136269_union-made-bonus-for-ev-tax-credit-propos<br>al-is-gone-manchin-confirms |
+| https://www.greencarreports.com/news/1136269_union-made-bonus-for-ev-tax-credit-propos
+al-is-gone-manchin-confirms |
 | [7] |
 | Ronald Bronstein, "The Real Issue in the UAW Strike," |
 ## | Portside |
@@ -211,18 +217,24 @@ https://www.labor4sustainability.org/uaw-solidarity-letter/
 | Canary Media |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | , September 1, 2023. |
-| https://www.canarymedia.com/articles/clean-energy-manufacturing/doe-offers-15-5-billion-to-r<br>etool-existing-auto-plants-for-evs |
+| https://www.canarymedia.com/articles/clean-energy-manufacturing/doe-offers-15-5-billion-to-r
+etool-existing-auto-plants-for-evs |
 | [13] |
 | " |
-| Statement from UAW President Shawn Fain on the U. S. Department of Energy Announcing<br>\$15.5 Billion in New Grants and Loans to Support a Just Transition to Electric Vehicles, |
+| Statement from UAW President Shawn Fain on the U. S. Department of Energy Announcing
+\$15.5 Billion in New Grants and Loans to Support a Just Transition to Electric Vehicles, |
 | News from the UAW, August 31, 2023. |
-| https://uaw-newsroom.prgloo.com/press-release/statement-by-uaw-president-shawn-fain-on-t<br>he-u-s-department-of-energy-announcing-usd-15-5-billion-in-new-grants-and-loans-to-support<br>-a-just-transition-to-electric-vehicles |
+| https://uaw-newsroom.prgloo.com/press-release/statement-by-uaw-president-shawn-fain-on-t
+he-u-s-department-of-energy-announcing-usd-15-5-billion-in-new-grants-and-loans-to-support
+-a-just-transition-to-electric-vehicles |
 | [14] |
-| "Biden-Harris Administration Announces \$5.5 Billion to Support a Strong and Just Transition<br>to Electric Vehicles, Retooling Existing Plants, and Rehiring Existing Workers," |
+| "Biden-Harris Administration Announces \$5.5 Billion to Support a Strong and Just Transition
+to Electric Vehicles, Retooling Existing Plants, and Rehiring Existing Workers," |
 | Department of Energy |
 ## | , August 31, 2023. |
 
-| https://www.energy.gov/articles/biden-harris-administration-announces-155-billion-support-str<br>ong-and-just-transition |
+| https://www.energy.gov/articles/biden-harris-administration-announces-155-billion-support-str
+ong-and-just-transition |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [15] |
 | "About Community Benefit Plans," |
@@ -233,7 +245,9 @@ https://www.labor4sustainability.org/uaw-solidarity-letter/
 | "Covid-19 Related Employee Retention Credits: Overview," |
 | Internal Revenue Service |
 | |
-| https://www.irs.gov/newsroom/covid-19-related-employee-retention-credits-overview#:~:text=<br>The%20Coronavirus%20Aid%2C%20Relief%2C%20and, hardship%20related%20to%20COV<br>ID%2D19 |
+| https://www.irs.gov/newsroom/covid-19-related-employee-retention-credits-overview#:~:text=
+The%20Coronavirus%20Aid%2C%20Relief%2C%20and, hardship%20related%20to%20COV
+ID%2D19 |
 | |
 ## | [17] |
 

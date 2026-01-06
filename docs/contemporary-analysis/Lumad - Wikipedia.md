@@ -1,3 +1,8 @@
+---
+title: "[Lumad](https://en.wikipedia.org/wiki/Main_Page)"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_2.jpeg)
 
 # [Lumad](https://en.wikipedia.org/wiki/Main_Page)
@@ -383,7 +388,7 @@ In 2019, Lumad youth and urban poor children joined the [global climate strike](
 - 81. ["About Sabokahan" \(https://web.archive.org/web/20210429011613/https://www.liyangnetwork.org/about-sabokaha](https://web.archive.org/web/20210429011613/https://www.liyangnetwork.org/about-sabokahan) [n\).](https://web.archive.org/web/20210429011613/https://www.liyangnetwork.org/about-sabokahan) Liyang Network. Archived from [the original \(https://www.liyangnetwork.org/about-sabokahan\)](https://www.liyangnetwork.org/about-sabokahan) on 29 April 2021. Retrieved 14 May 2021.
 - 82. Liyang Network. Liyang Network Discussions. Accumulation of info from meetings with Liyang Network supervisor and attending events such as webinars and forums. 2021.
 - 83. ["Liyang Network" \(https://www.liyangnetwork.org/\).](https://www.liyangnetwork.org/) Liyang Network. Retrieved 14 May 2021.
-- 84. Alamon, Arnold P. "Wars of Extinction: The Lumad Killings in Mindanao, Philippines." Kyoto Review of Southeast Asia, 2015,<https://kyotoreview.org/issue-21/lumad-killings-philippines/>. Accessed 7 April 2021.
+- 84. Alamon, Arnold P. "Wars of Extinction: The Lumad Killings in Mindanao, Philippines." Kyoto Review of Southeast Asia, 2015,. Accessed 7 April 2021.
 - 85. ["Karapatan asks UN to probe Lumad killings in Mindanao" \(https://www.philstar.com/headlines/2017/12/08/1766493/](https://www.philstar.com/headlines/2017/12/08/1766493/karapatan-asks-un-probe-lumad-killings-mindanao) [karapatan-asks-un-probe-lumad-killings-mindanao\).](https://www.philstar.com/headlines/2017/12/08/1766493/karapatan-asks-un-probe-lumad-killings-mindanao) Philstar.com. 8 December 2017. Retrieved 17 July 2018.
 - 86. Leonen, Julius N. ["Militant group seeks UN probe on Lumad killings" \(http://newsinfo.inquirer.net/950789/militant-gro](http://newsinfo.inquirer.net/950789/militant-group-seeks-un-probe-on-lumad-killings-karapatan-ngo-un-palabay-duterte-evacuation-indigenous-people-killings) [up-seeks-un-probe-on-lumad-killings-karapatan-ngo-un-palabay-duterte-evacuation-indigenous-people-killings\).](http://newsinfo.inquirer.net/950789/militant-group-seeks-un-probe-on-lumad-killings-karapatan-ngo-un-palabay-duterte-evacuation-indigenous-people-killings) Inquirer.net. Retrieved 17 July 2018.
 - 87. Espina-Varona, Inday (11 November 2015). ["In PH, they kill people for their thoughts" \(https://news.abs-cbn.com/opi](https://news.abs-cbn.com/opinions/11/11/15/in-ph-they-kill-people-for-their-thoughts) [nions/11/11/15/in-ph-they-kill-people-for-their-thoughts\).](https://news.abs-cbn.com/opinions/11/11/15/in-ph-they-kill-people-for-their-thoughts) ABS-CBN News. Retrieved 15 May 2021.

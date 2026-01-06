@@ -1,3 +1,8 @@
+---
+title: "## **Greek public broadcasting shutdown**"
+category: "contemporary-analysis"
+---
+
 ## **Greek public broadcasting shutdown**
 
 ## **Date:** Unknown

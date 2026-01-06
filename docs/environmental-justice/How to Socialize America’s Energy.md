@@ -1,3 +1,8 @@
+---
+title: "**How to Socialize America's Energy**"
+category: "environmental-justice"
+---
+
 # **How to Socialize America's Energy**
 
 ## **Date:** Wed, 05/11/2016 - 11:23

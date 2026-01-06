@@ -1,3 +1,8 @@
+---
+title: "**We'll always have Paris: The tragedy of global climate politics**"
+category: "environmental-justice"
+---
+
 # **We'll always have Paris: The tragedy of global climate politics**
 
 ## **Date:** Fri, 11/13/2015 - 19:52

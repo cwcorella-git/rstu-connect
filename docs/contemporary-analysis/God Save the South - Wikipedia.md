@@ -1,3 +1,8 @@
+---
+title: "## [en.wikipedia.org](https://en.wikipedia.org/wiki/God_Save_the_South)"
+category: "contemporary-analysis"
+---
+
 ## [en.wikipedia.org](https://en.wikipedia.org/wiki/God_Save_the_South)
 
 ## **God Save the South**

@@ -1,3 +1,8 @@
+---
+title: "**Arne Næss and George Sessions Basic Principles of Deep Ecology 1984**"
+category: "environmental-justice"
+---
+
 # **Arne Næss and George Sessions Basic Principles of Deep Ecology 1984**
 
 ## Basic Principles
@@ -72,4 +77,4 @@ There is ample room for different opinions about priorities: what should be done
 
 Retrieved on 9 January 2011 from [www.deepecology.org](http://www.deepecology.org/platform.htm)
 
-[<sup>\[1\]</sup>](#page-0-1) Tom Regan, "The Nature and Possibility of an Environmental Ethic," Environmental Ethics 3 (1881), pp. 19–34
+[\[1\]](#page-0-1) Tom Regan, "The Nature and Possibility of an Environmental Ethic," Environmental Ethics 3 (1881), pp. 19–34

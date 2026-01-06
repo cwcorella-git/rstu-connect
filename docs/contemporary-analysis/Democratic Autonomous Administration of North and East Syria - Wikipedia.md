@@ -1,3 +1,8 @@
+---
+title: "**Democratic Autonomous Administration of North and East Syria**"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_2.jpeg)
 
 # **Democratic Autonomous Administration of North and East Syria**
@@ -20,33 +25,53 @@ The territory around Jazira province of northeastern Syria is called **Gozarto**
 
 The updated December 2016 constitution of the polity uses the name **Democratic Federation of Northern Syria** (**DFNS**).[\[h\]](#page-28-7)[\[48\]](#page-34-1)[\[49\]](#page-34-2)[\[50\]](#page-34-3)[\[51\]](#page-34-4) On 6 September 2018, the [Syrian](https://en.wikipedia.org/wiki/Syrian_Democratic_Council) [Democratic Council](https://en.wikipedia.org/wiki/Syrian_Democratic_Council) adopted a new name for the region, naming it the **Autonomous Administration of North and East Syria** (NES or AANES)[\[i\]](#page-29-1) also sometimes translated into English as the **Self-Administration of North and East Syria** (SANES), encompassing the Euphrates and Jazira regions as well as the local civil councils in the regions of Raqqa, Tabqa, and Deir ez-Zor[.\[52\]](#page-34-5)[\[4\]](#page-29-0)[\[53\]](#page-34-6) In
 
-| Official<br>languages | Arabic · Kurdish<br>(Kurmanji) · | | |
+| Official
+languages | Arabic · Kurdish
+(Kurmanji) · | | |
 |------------------------------------|----------------------------------|--|--|
 | | Syriac[6] | | |
-| Government | Federated<br>semi | | |
-| | direct<br>democracy | | |
-| •<br>Co-Presidents | Îlham Ehmed[7] | | |
+| Government | Federated
+semi | | |
+| | direct
+democracy | | |
+| •
+Co-Presidents | Îlham Ehmed[7] | | |
 | | Mansur Selum[8] | | |
-| •<br>Co-Chairs | Amina Omar | | |
+| •
+Co-Chairs | Amina Omar | | |
 | | Riad Darar[9] | | |
 | Legislature | Syrian | | |
 | | Democratic | | |
 | | Council | | |
 | Autonomous region | | | |
-| •<br>Transitional | 2013 | | |
-| administration<br>declared | | | |
-| •<br>Cantons declare | January 2014 | | |
+| •
+Transitional | 2013 | | |
+| administration
+declared | | | |
+| •
+Cantons declare | January 2014 | | |
 | autonomy | | | |
-| •<br>Cantons declare<br>federation | 17 March 2016 | | |
-| •<br>New administration | 6 September | | |
+| •
+Cantons declare
+federation | 17 March 2016 | | |
+| •
+New administration | 6 September | | |
 | declared | 2018 | | |
 | Area | | | |
-| •<br>Total | km2<br>50,000 | | |
-| | (19,000<br>sq<br>mi)<br>[10] | | |
+| •
+Total | km2
+50,000 | | |
+| | (19,000
+sq
+mi)
+[10] | | |
 | Population | | | |
-| •<br>2024 estimate | 4,600,000[11] | | |
-| Currency | Syrian pound<br>(SYP) | | |
-| Time zone | UTC+3 (Arabia<br>Standard Time) | | |
+| •
+2024 estimate | 4,600,000[11] | | |
+| Currency | Syrian pound
+(SYP) | | |
+| Time zone | UTC+3 (Arabia
+Standard Time) | | |
 
 December 2023, the region adopted a new [constitution,](https://en.wikipedia.org/wiki/Constitution_of_the_Democratic_Autonomous_Administration_of_North_and_East_Syria) with a new name for the region, the **Democratic Autonomous Administration of North and East Syria** (DAANES).[\[j\]](#page-29-2)[\[54\]](#page-34-7) The YPG/PYD have at times used the names **Federal Northern Syria** and the **Democratic Confederalist Autonomous Areas of Northern Syria**. [\[13\]](#page-30-2)[\[55\]](#page-35-0)
 
@@ -200,13 +225,63 @@ Regions of the Democratic Autonomous Administration of North and East Syria
 
 The SDF withdrew from the [Afrin region](https://en.wikipedia.org/wiki/Afrin_Region) in 2018[\[189\]](#page-47-4) and from the Manbij region in 2024[.\[190\]](#page-47-5)
 
-| Regions | Official name (languages) | Prime<br>Ministers | Deputy Prime<br>Ministers |
+| Regions | Official name (languages) | Prime
+Ministers | Deputy Prime
+Ministers |
 |-----------------------|--------------------------------------------------------------------------------------------------------------------------|--------------------|------------------------------------------|
-| Jazira Region | ةريزجلا<br>(ميلقإ<br>(Arabic<br>Herêma<br>Cizîrê<br>(Kurdish)<br>ܐܬ<br>ܪܙܓܕܐܬܝܢܦ<br>(<br>Classical<br>(Syriac | Akram Hesso | Elizabeth Gawrie<br>Hussein Taza Al Azam |
-| Euphrates Region | تارفلا<br>(ميلقإ<br>(Arabic<br>Herêma<br>Firatê<br>(Kurdish)<br>ܬܪܦܕܐܬܝܢܦ)<br>Classical Syriac) | Enver Muslim | Bêrîvan Hesen<br>Xalid Birgil |
-| Raqqa Region | (ميلقإ<br>(Arabic<br>ةقرلا<br>Herêma<br>Reqayê<br>(Kurdish)<br>ܗܩܪܕܐܬܝܢܦ)<br>Classical Syriac) | N/A | N/A |
-| Tabqa Region | ةقبطلا<br>(ميلقإ<br>(Arabic<br>Herêma<br>Tebqayê<br>(Kurdish)<br>ܗ<br>ܩܒܛܕܐܬܝܢܦ<br>(<br>Classical<br>(Syriac | N/A | N/A |
-| Deir ez-Zor<br>Region | (ميلقإ<br>(Arabic<br>ريد روزلا<br>Herêma<br>Dêra<br>Zorê<br>(Kurdish)<br>ܪܘܙܠ<br>ܐܪܝܕܕܐܬܝܢܦ<br>(<br>Classical<br>Syriac) | | N/A |
+| Jazira Region | ةريزجلا
+(ميلقإ
+(Arabic
+Herêma
+Cizîrê
+(Kurdish)
+ܐܬ
+ܪܙܓܕܐܬܝܢܦ
+(
+Classical
+(Syriac | Akram Hesso | Elizabeth Gawrie
+Hussein Taza Al Azam |
+| Euphrates Region | تارفلا
+(ميلقإ
+(Arabic
+Herêma
+Firatê
+(Kurdish)
+ܬܪܦܕܐܬܝܢܦ)
+Classical Syriac) | Enver Muslim | Bêrîvan Hesen
+Xalid Birgil |
+| Raqqa Region | (ميلقإ
+(Arabic
+ةقرلا
+Herêma
+Reqayê
+(Kurdish)
+ܗܩܪܕܐܬܝܢܦ)
+Classical Syriac) | N/A | N/A |
+| Tabqa Region | ةقبطلا
+(ميلقإ
+(Arabic
+Herêma
+Tebqayê
+(Kurdish)
+ܗ
+ܩܒܛܕܐܬܝܢܦ
+(
+Classical
+(Syriac | N/A | N/A |
+| Deir ez-Zor
+Region | (ميلقإ
+(Arabic
+ريد روزلا
+Herêma
+Dêra
+Zorê
+(Kurdish)
+ܪܘܙܠ
+ܐܪܝܕܕܐܬܝܢܦ
+(
+Classical
+Syriac) | | N/A |
 
 #### **Legislature**
 
@@ -452,30 +527,53 @@ Most ethnic Arab and Kurdish people in Northern Syria adhere to [Sunni Islam,](h
 
 This list includes all cities and towns in the region with more than 10,000 inhabitants. The population figures are given according to the 2004 Syrian census.[\[352\]](#page-65-3)
 
-| English<br>Name | Kurdish<br>Name | Arabic<br>Name | Syriac<br>Name | Turkish<br>Name | Population | Region |
+| English
+Name | Kurdish
+Name | Arabic
+Name | Syriac
+Name | Turkish
+Name | Population | Region |
 |-----------------|-----------------|----------------|----------------|-----------------|------------|--------|
 | Raqqa | Reqa | ةقرلا | ܗܩܪ | Rakka | 220,488 | Raqqa |
 
-| English<br>Name | Kurdish<br>Name | Arabic<br>Name | Syriac<br>Name | Turkish<br>Name | Population | Region |
+| English
+Name | Kurdish
+Name | Arabic
+Name | Syriac
+Name | Turkish
+Name | Population | Region |
 |-----------------------|------------------|-------------------|-----------------------------------------|----------------------|-------------------------------------------------|-------------------------|
-| Al-Hasakah | Hesîçe | الحسكة | <b>ጣ</b> 5-ឈ. | Haseke | 188,160 | Jazira |
+| Al-Hasakah | Hesîçe | الحسكة | ጣ 5-ឈ. | Haseke | 188,160 | Jazira |
 | Qamishli | Qamişlo | القامشلي | محد( | Kamışlı | 184,231 | Jazira |
 | Tabqa | Tebqa | الطبقة | شصعب | Tabka | 69,425 | Tabqa |
 | Kobani | Kobanî | عين العرب | ٥٩ ــــــــــــــــــــــــــــــــــــ | Arappınar | 44,821 | Euphrates |
-| Hajin | Hecîn | هجين | √ <del>/-</del> ∪ | | 37,935 | Deir Ez-<br>Zor |
+| Hajin | Hecîn | هجين | √ /- ∪ | | 37,935 | Deir EzZor |
 | Amuda | Amûdê | عامودا | حرح ه در | Amudiye | 26,821 | Jazira |
-| Al-Malikiyah | Dêrika<br>Hemko | المالكية | ڌڌمي | Deyrik | 26,311 | Jazira |
-| Gharanij | | غرانيج | ナイ) ヺギ | | 23wal9 al-Qarni S | Deir Ez-<br>h党员 |
-| Abu Hamam | Ebû<br>Hemam | أبو حمام | 7) 7 ~ 0 - 0 ) | | mosque in Raqqa<br>2014, <b>5</b> 44-7 in 2014) | Deir Ez-<br>Zor |
-| Al-Shaafah | | الشعفة | π۷۷۰۰ | | 18,956 | Deir Ez-<br>Zor |
-| Al-<br>Qahtaniyah | Tirbespî | القحطانية | محدر سودر | Kubur el<br>Bid | 16.946 | Jazira . |
-| Al-Mansurah | | المنصورة | σϳοϗͺϫ | | 16,158 | Tabqa <sup>[353</sup> ] |
-| Al-<br>Shaddadah | Şeddadê | الشدادي | →5),5 <del>z</del> | Şaddadi | <del>/နန္တန္ကုန္မွ</del> ာ cathedr<br>Hasakah | alaizi Al- |
-| Al-<br>Muabbada | Girkê Legê | المعبدة | מאבלם | Muabbada | 15,759 | Jazira |
-| Al-Kishkiyah | | الكشكية | <u>መ</u> ፍ≖ና | | 14,979 | Deir Ez-<br>Zor |
-| Al-Sabaa wa<br>Arbain | Seba û<br>Erbîyn | السبعة<br>وأربعين | ەردىدى<br>مىسى | El Seba ve<br>Arbayn | 14,177 | Jazira |
+| Al-Malikiyah | Dêrika
+Hemko | المالكية | ڌڌمي | Deyrik | 26,311 | Jazira |
+| Gharanij | | غرانيج | ナイ) ヺギ | | 23wal9 al-Qarni S | Deir Ezh党员 |
+| Abu Hamam | Ebû
+Hemam | أبو حمام | 7) 7 ~ 0 - 0 ) | | mosque in Raqqa
+2014, 5 44-7 in 2014) | Deir EzZor |
+| Al-Shaafah | | الشعفة | π۷۷۰۰ | | 18,956 | Deir EzZor |
+| AlQahtaniyah | Tirbespî | القحطانية | محدر سودر | Kubur el
+Bid | 16.946 | Jazira . |
+| Al-Mansurah | | المنصورة | σϳοϗͺϫ | | 16,158 | Tabqa [353 ] |
+| AlShaddadah | Şeddadê | الشدادي | →5),5 z | Şaddadi | /နန္တန္ကုန္မွ ာ cathedr
+Hasakah | alaizi Al- |
+| AlMuabbada | Girkê Legê | المعبدة | מאבלם | Muabbada | 15,759 | Jazira |
+| Al-Kishkiyah | | الكشكية | መ ፍ≖ና | | 14,979 | Deir EzZor |
+| Al-Sabaa wa
+Arbain | Seba û
+Erbîyn | السبعة
+وأربعين | ەردىدى
+مىسى | El Seba ve
+Arbayn | 14,177 | Jazira |
 | Rmelan | Rimêlan | رمیلان | ذ⊄حک | Rimelan | 11,500 | Jazira |
-| Al-Baghuz<br>Fawqani | Baxoz | الباغوز<br>فوقاني | ۵۹۲٬۰۰ مر/۰۰<br>حرجه، | | 10,649 | Deir Ez-<br>Zor |
+| Al-Baghuz
+Fawqani | Baxoz | الباغوز
+فوقاني | ۵۹۲٬۰۰ مر/۰۰
+حرجه، | | 10,649 | Deir EzZor |
 
 #### Health
 
@@ -575,19 +673,19 @@ It has also been criticized for banning journalists, media outlets and political
 - f. [Classical Syriac:](https://en.wikipedia.org/wiki/Classical_Syriac_language) ܐܬܪܙܓ , romanized: Gozarto
 - g. [Kurdish:](https://en.wikipedia.org/wiki/Kurdish_language) Federaliya Demokratîk a Rojava – Bakurê Sûriyê
 
-Dīmuqrāṭiyya-al Fidirāliyya-al [:romanized](https://en.wikipedia.org/wiki/Romanization_of_Arabic) , ةيلاردفلا ةيطارقميدلا جورل افآ – لامش ايروس [:Arabic](https://en.wikipedia.org/wiki/Arabic_language) li-Rūj ʾĀv<sup>ā</sup> – Šamāl Suriy<sup>ā</sup>
+Dīmuqrāṭiyya-al Fidirāliyya-al [:romanized](https://en.wikipedia.org/wiki/Romanization_of_Arabic) , ةيلاردفلا ةيطارقميدلا جورل افآ – لامش ايروس [:Arabic](https://en.wikipedia.org/wiki/Arabic_language) li-Rūj ʾĀvā – Šamāl Suriyā
 
 , ܐ݂ܬܘܝܠܐܪܕܦ ܬܝܛܐܪܩܡܝܕ ܐ ܐܬܪܙܓܠ ܐܝܒܪܓܒ ܐܝܪܘܣܕ [:Syriac Classical](https://en.wikipedia.org/wiki/Classical_Syriac_language)
 
 romanized: Federaloyotho Demoqraṭoyto l'Gozarto b'Garbyo d'Suriya h. [Kurdish:](https://en.wikipedia.org/wiki/Kurdish_language) Federaliya Demokratîk a Bakûrê Sûriyê
 
-[Arabic:](https://en.wikipedia.org/wiki/Arabic_language) ايروس لامشل ةيطارقميدلا ةيلاردفلا , [romanized:](https://en.wikipedia.org/wiki/Romanization_of_Arabic) al-Fidirāliyya al-Dīmuqrāṭiyya li-Šamā<sup>l</sup> Suriyā
+[Arabic:](https://en.wikipedia.org/wiki/Arabic_language) ايروس لامشل ةيطارقميدلا ةيلاردفلا , [romanized:](https://en.wikipedia.org/wiki/Romanization_of_Arabic) al-Fidirāliyya al-Dīmuqrāṭiyya li-Šamāl Suriyā
 
 Federaloyotho :romanized , ܐ݂ܬܘܝܠܐܪܕܦ ܬܝܛܐܪܩܡܝܕ ܐ ܝܒܪܓܕ ܐܝܪܘܣ [:Syriac Classical](https://en.wikipedia.org/wiki/Classical_Syriac_language) Demoqraṭoyto d'Garbay Suriya i. [Kurdish:](https://en.wikipedia.org/wiki/Kurdish_language) Rêveberiya Xweser a Bakur û Rojhilatê Sûriyeyê
 
 ةرادلإا ةيتاذلا لامشل قرشو ايروس [:Arabic](https://en.wikipedia.org/wiki/Arabic_language)
 
-Mdabronuṯ<sup>o</sup> :romanized , ܕܡ ܰ ܪܒ ܳ ݂ܬܘܢܳܐ ݂ܬܳܝ ܰ ܬܝ ܳܐ ܓܠ ܰ ܐܳܝܒܪ ܡܘܰ ܐܳܚܢܕ ܐܰܝܪܘܣܕ [:Syriac Classical](https://en.wikipedia.org/wiki/Classical_Syriac_language)
+Mdabronuṯo :romanized , ܕܡ ܰ ܪܒ ܳ ݂ܬܘܢܳܐ ݂ܬܳܝ ܰ ܬܝ ܳܐ ܓܠ ܰ ܐܳܝܒܪ ܡܘܰ ܐܳܚܢܕ ܐܰܝܪܘܣܕ [:Syriac Classical](https://en.wikipedia.org/wiki/Classical_Syriac_language)
 
 ## Yoṯayto l-Garbyo w-Madnḥyo d-Suriya
 

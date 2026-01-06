@@ -1,3 +1,8 @@
+---
+title: "HOW TO DIE"
+category: "contemporary-analysis"
+---
+
 # HOW TO DIE
 
 ## 133
@@ -86,7 +91,7 @@ T at sounds very muc like t e message Lucius Annaeus Seneca preac ed to Roman re
 
 was also one of is principal t emes, as was t e idea t at one must re earse for deat
 
-<sup>t</sup> roug out one's life— for life, properly un-derstood, is really only a journey toward deat ; we are dying every day, from t e day we are born. In t e passages collected ere, excerpted from eig t different works of et ical t oug t, Seneca spoke to is addressees, and t roug t em to umankind generally, about t e need to accept deat , x
+t roug out one's life— for life, properly un-derstood, is really only a journey toward deat ; we are dying every day, from t e day we are born. In t e passages collected ere, excerpted from eig t different works of et ical t oug t, Seneca spoke to is addressees, and t roug t em to umankind generally, about t e need to accept deat , x
 
 #### INTRODUCTION
 
@@ -308,7 +313,7 @@ He looks on is own end wit t e kind of attitude and expression t at would seem t
 
 to t e grave; e lives like one surviving imself, and bears t e grief over imself as a wise man s ould. For e talks freely about deat and bears it so calmly t at we are led to t ink t at, if t ere's anyt ing troubling or fearsome in t is business, it's t e fault of t e dying man, not of deat .
 
-T ere's not ing more worrisome in t e act of dying t an t ere is after deat ; it's just as insane to fear w at you're not going to feel as to fear w at you're not even going to experience. Or could anyone t ink t at it will be felt— t <sup>e</sup> very t ing t at will cause not ing at all to be felt?
+T ere's not ing more worrisome in t e act of dying t an t ere is after deat ; it's just as insane to fear w at you're not going to feel as to fear w at you're not even going to experience. Or could anyone t ink t at it will be felt— t e very t ing t at will cause not ing at all to be felt?
 
 "T erefore," Bassus declares, "deat is as far beyond all ot er evils as it is beyond t e fear of evils." I know suc t ings are often said and often must be said, but t ey ave never done me so muc good, eit er w en reading t em or earing people say t at we must not fear t ings t at don't old any terrors. It's t e man w o speaks from deat 's own neig bor ood t at as
 
@@ -386,7 +391,7 @@ mind? T e mind will never strive for virtue if it t inks deat is an evil t ing; 
 
 ## .– )
 
-It's tting for you to experience pain, and t irst, and unger, and old age— if, <sup>t</sup> at is, a long delay in t <sup>e</sup> uman world befalls you— and illness, and loss, and deat . But t ere's no reason to trust t ose w o make a great din all around you: not ing of t ese t ings is bad, not ing is unbearable or ars . Fear attac es to t em only by consensus. You fear deat , but your fear is only of a rumor, and w at could be more foolis t an a man w o's afraid of words? Our friend Demetrius6 often says t at t e words of t e ignorant issue from t e same place as t e rumblings of t eir guts. "W at matter to me,"
+It's tting for you to experience pain, and t irst, and unger, and old age— if, t at is, a long delay in t e uman world befalls you— and illness, and loss, and deat . But t ere's no reason to trust t ose w o make a great din all around you: not ing of t ese t ings is bad, not ing is unbearable or ars . Fear attac es to t em only by consensus. You fear deat , but your fear is only of a rumor, and w at could be more foolis t an a man w o's afraid of words? Our friend Demetrius6 often says t at t e words of t e ignorant issue from t e same place as t e rumblings of t eir guts. "W at matter to me,"
 
 e says, "w et er t ey sound off from up top or from down below?"
 
@@ -408,7 +413,7 @@ W en t e mind raises itself to t is sublime level, it becomes a manager, not a l
 
 ### II. HAVE NO FEAR
 
-uman form, judges t at t e destination of its container— w et er re <burns>8 it, or eart covers it, or wild beasts tear it apart—
+uman form, judges t at t e destination of its container— w et er re 8 it, or eart covers it, or wild beasts tear it apart—
 
 matters as little to it as t e afterbirt does to an infant. (Epistle .– )
 
@@ -418,13 +423,13 @@ In his earliest surviving work, the Consolation to Marcia, Seneca took on the st
 
 ## "He died too soon, still a yout ." Suppose
 
-<sup>e</sup> ad still ad a ead of im— well, reckon up t e longest t at's allowed to a uman being to keep going. How long is it? We are born into t e briefest space of time,
+e ad still ad a ead of im— well, reckon up t e longest t at's allowed to a uman being to keep going. How long is it? We are born into t e briefest space of time,
 
 #### III. HAVE NO REGRETS
 
 soon to make way for t e next arrivals. . . .
 
-Am I speaking only of our life spans, w ic , <we know,>1 roll on wit incredi-ble speed? Consider t e ages of cities: you'll see ow even t e ones t at take pride in t eir an tiquity ave stood only a s ort time. All uman affairs are s ort, transi-tory, bounded in a negligible space of endless time. We consider t is eart , wit its cities, peoples, and rivers, enclosed by a circle of sea, as a tiny dot, if it's compared wit all of time— time, t at stretc es out longer t an t e world, especially since t e world's age is redoubled so many times wit in its span.2 W at difference does it make to extend somet ing, if t e amount of added time is little more t an not ing?
+Am I speaking only of our life spans, w ic , 1 roll on wit incredi-ble speed? Consider t e ages of cities: you'll see ow even t e ones t at take pride in t eir an tiquity ave stood only a s ort time. All uman affairs are s ort, transi-tory, bounded in a negligible space of endless time. We consider t is eart , wit its cities, peoples, and rivers, enclosed by a circle of sea, as a tiny dot, if it's compared wit all of time— time, t at stretc es out longer t an t e world, especially since t e world's age is redoubled so many times wit in its span.2 W at difference does it make to extend somet ing, if t e amount of added time is little more t an not ing?
 
 T ere's only one way we can say t at t e life we live is long: if it's enoug . You can name for me vigorous men, men w ose old
 
@@ -474,7 +479,7 @@ He didn't need a sword, or t e spilling of blood. He fasted for t ree days, and 
 
 ### III. HAVE NO REGRETS
 
-## dered a tent to be set up in is bedroom. A bat was t en broug t in; e lay in it a long time, and as ot water was added, e slipped away, little by little, not wit out a certain pleasure (as e said)— t <sup>e</sup> pleasure t at a gentle loss of consciousness, not unknown to us (w ose mind as sometimes slipped away),5 can bring.
+## dered a tent to be set up in is bedroom. A bat was t en broug t in; e lay in it a long time, and as ot water was added, e slipped away, little by little, not wit out a certain pleasure (as e said)— t e pleasure t at a gentle loss of consciousness, not unknown to us (w ose mind as sometimes slipped away),5 can bring.
 
 ## I've digressed, but t e story is one you will nd not unpleasing, for you will learn t at t e deat of a man w o was your friend was neit er difcult nor painful. Alt oug e made a conscious decision to die, e nonet eless left t e world in t e gentlest way, and merely slipped out of life. But t e story will not be wit out its applications, for necessity often drives suc instances. Often we oug t to die but don't wis to, or are dying but don't wis to. No one is so naïve as not to recognize t at e must die at some point, yet w en e approac es t at point
 
@@ -492,15 +497,15 @@ T ose fates are determined and xed, guided by a great and eternal necessity. You
 
 unbreakable sequence, w ic no effort can alter, binds and tows all t ings. How great a t rong of t ose yet to die will follow your footsteps!
 
-How great a crowd will accompany you! You would bear up more bravely, I imagine, if many t ousands of t ings were dying along wit you. In fact, many t ousands— bot men and animals— are giving up t <sup>e</sup> g ost in all kinds of ways, at t e very moment w en you are esitating to die. Don't you t ink you are going to arrive someday w ere you were always eaded?
+How great a crowd will accompany you! You would bear up more bravely, I imagine, if many t ousands of t ings were dying along wit you. In fact, many t ousands— bot men and animals— are giving up t e g ost in all kinds of ways, at t e very moment w en you are esitating to die. Don't you t ink you are going to arrive someday w ere you were always eaded?
 
 No journey is wit out an endpoint.
 
-Do you suppose I'm now going to recount t e examples of great men? I'll tell you of yout s instead. T ere's t at Spartan w om legend tells of, still a boy, w o, w en captured by enemies, s outed, in is native Doric dialect, "I won't be a slave!" and t en made good on is words: t e rst time e was ordered to perform a slavis and demeaning task— e was told to bring t <sup>e</sup>
+Do you suppose I'm now going to recount t e examples of great men? I'll tell you of yout s instead. T ere's t at Spartan w om legend tells of, still a boy, w o, w en captured by enemies, s outed, in is native Doric dialect, "I won't be a slave!" and t en made good on is words: t e rst time e was ordered to perform a slavis and demeaning task— e was told to bring t e
 
 ### III. HAVE NO REGRETS
 
-<sup>c</sup> amberpot— e broke is skull by das ing it against a wall. T at's ow near at and freedom is, so s ould anyone be a slave? Wouldn't you rat er your son die like t at, t an live to old age t roug in action? W y t en are you troubled, w en dying bravely is a task even for boys?
+c amberpot— e broke is skull by das ing it against a wall. T at's ow near at and freedom is, so s ould anyone be a slave? Wouldn't you rat er your son die like t at, t an live to old age t roug in action? W y t en are you troubled, w en dying bravely is a task even for boys?
 
 Let's say you refuse to follow; you'll be led against your will. So make your own t e rules t at belong to anot er power. You won't take up t e boy's attitude and say, "I am no slave"?
 
@@ -686,7 +691,7 @@ We will not urge our readers to follow t e commands of torturers; we will s ow i
 
 ### IV. SET YOURSELF FREE
 
-make an end of its own sufferings. I will say to one w o as fallen in wit a king w o res arrows into t e c ests of is friends, or to anot er w ose master gluts fat ers on t e guts of t eir c ildren, "W at do you groan for, senseless man? <sup>W</sup> at ope do you ave t at some foe will liberate you—
+make an end of its own sufferings. I will say to one w o as fallen in wit a king w o res arrows into t e c ests of is friends, or to anot er w ose master gluts fat ers on t e guts of t eir c ildren, "W at do you groan for, senseless man? W at ope do you ave t at some foe will liberate you—
 
 by destroying your w ole family—or some king will wing is way to you, extending is power from afar? Anyw ere you cast your glance, t e end of your troubles can be found. You see t at ig , steep place?
 
@@ -730,7 +735,7 @@ Having explored Cato's demise in the opening section of On Providence, above, Se
 
 #### IV. SET YOURSELF FREE
 
-"Above all, I took care t at no one would detain you against your will; t e exit stands open. If you don't want to Ig t, you're allowed to pee. T us out of all t e t ings I wanted you to go t roug by necessity, I made dying t e easiest. I put your soul on a down ill slope. <If> it's a drawn- out deat ,7 just wait a bit, and you'll see ow s ort and easy is t e pat to freedom. I put muc s orter delays in your way as you leave t e world t an as you enter. Ot erwise Fortune would ave eld great power over you, if t e uman race took as long dying as being born. Let every time and every place instruct you on ow easy it is to renounce Nature and to press back on it its gift. Among t e very altars and t e solemn rites of t ose making sacriice— t ere w ere life is prayed for— study deat . See ow t e sleek bodies of bulls are felled by a small
+"Above all, I took care t at no one would detain you against your will; t e exit stands open. If you don't want to Ig t, you're allowed to pee. T us out of all t e t ings I wanted you to go t roug by necessity, I made dying t e easiest. I put your soul on a down ill slope.  it's a drawn- out deat ,7 just wait a bit, and you'll see ow s ort and easy is t e pat to freedom. I put muc s orter delays in your way as you leave t e world t an as you enter. Ot erwise Fortune would ave eld great power over you, if t e uman race took as long dying as being born. Let every time and every place instruct you on ow easy it is to renounce Nature and to press back on it its gift. Among t e very altars and t e solemn rites of t ose making sacriice— t ere w ere life is prayed for— study deat . See ow t e sleek bodies of bulls are felled by a small
 
 ## ÊÈ
 
@@ -866,7 +871,7 @@ into is own t roat t e spear t at e ad been given to use against opponents. "W y
 
 "W y do I await deat w en I am equipped wit a weapon?" T is was a more impressive s ow, just as it's more onorable to teac ow to die t an to teac ow to kill.
 
-So t en, if t ese downtrodden, violent minds possess some resource, won't t ose men ave it too w ose long contemplation and w ose reason—t e master of all t ings— ave trained t em to deal wit suc misfortunes? Reason teac es us t at t ere are many ways to approac one's fate, but t e same end for all, and t at it doesn't matter at w at point t e t ing t at's coming begins. T at same reasoning power advises you, if it's possible, to die < owever you please, but if not,>14 to die owever you can, and to attack yourself wit w atever's available
+So t en, if t ese downtrodden, violent minds possess some resource, won't t ose men ave it too w ose long contemplation and w ose reason—t e master of all t ings— ave trained t em to deal wit suc misfortunes? Reason teac es us t at t ere are many ways to approac one's fate, but t e same end for all, and t at it doesn't matter at w at point t e t ing t at's coming begins. T at same reasoning power advises you, if it's possible, to die 14 to die owever you can, and to attack yourself wit w atever's available
 
 ## ΕÉ
 
@@ -898,7 +903,7 @@ Not ing seems more disgraceful to me t an to wis for deat . If you want to live,
 
 wise, w at's t e delay? No one olds you back.
 
-Go out by w atever pat seems best; c oose w atever part of t e p ysical world you mig t bid to supply you an exit route. Truly, t e very elements by <sup>w</sup> ic t is world is governed—
+Go out by w atever pat seems best; c oose w atever part of t e p ysical world you mig t bid to supply you an exit route. Truly, t e very elements by w ic t is world is governed—
 
 water, eart , and t e breat of air— are all causes of living as muc as routes of dying. "T us let me die as soon as possible." W at do you want t at "as soon as possible" to be? W at day will you sc edule it for? It can come about sooner t an you want! T ese are t e words of a feeble mind, and one t at tries to get our pity by ut-tering t is imprecation. W o ever wis es to die doesn't want to. Ask t e gods for life and ealt instead! If deat really is w at pleases you, t is is t e benet it brings: to cease to want it. (Epistle .– )
 
@@ -1008,7 +1013,7 @@ I've eard, Lucilius (best of men), t at Pompeii, t at renowned Campanian city, a
 
 #### V. BECOME A PART OF THE WHOLE
 
-been leveled by an eart quake,7 and t at some regions near it were s aken. <sup>T</sup> is appened in wintertime— a time, our elders used to assure us, t at is free from suc dangers. . . .
+been leveled by an eart quake,7 and t at some regions near it were s aken. T is appened in wintertime— a time, our elders used to assure us, t at is free from suc dangers. . . .
 
 We must seek comforts for t e fearful and take away t eir great terror. W at can ever seem safe enoug , if t e very eart is violently s aken and its most stable segments start sliding around? If t e one t ing about it t at seems permanent and xed, so t at it olds up everyt ing t at tends toward it, becomes mobile, if t e ground loses its c aracteristic stability, t en w ere will our fears nd a place to settle? W at refuge will our bodies escape to w en anxious, if our fear springs from t e inmost regions and is drawn up from t e dept s? . . . W at solace (never mind aid) can t ere be, w en dread as lost any ope of escape? W at, I
 
@@ -1022,7 +1027,7 @@ ask, is fortied strongly enoug , w at is steady enoug to protect someone else, o
 
 somet ing inescapable, insatiable, destructive on a public scale. T e ground swallows up not just omes and families and cities, but overw elms entire nations and regions; at one moment it covers over t eir ruins, at t e next it buries t em in its deep abyss and leaves no remains by w ic t at w ic no longer is can be seen to ave once existed; bare ground stretc es over t e most exalted cities, wit no trace left of t e fact t at people once dwelled t ere.
 
-T ere are some w o are more afraid of t is kind of deat , because t ey go into t e c asm omes and all, and, w ile living, are removed from t e company of <sup>t</sup> e living—
+T ere are some w o are more afraid of t is kind of deat , because t ey go into t e c asm omes and all, and, w ile living, are removed from t e company of t e living—
 
 as t oug every fate did not arrive at t e very same end! Nature as t is one particular point among ot er instances of its justice: w en t e time arrives to leave t is world, we're all in t e same condition.
 
@@ -1074,7 +1079,7 @@ My friend Vagellius expresses it superbly in t at famous poem of is: "If fall I 
 
 ### V. BECOME A PART OF THE WHOLE
 
-fall amid t e smas ing of t e world, not because it's rig t to wis for a national disaster, but because it's a great comfort in t e face of deat to see <sup>t</sup> at t e eart too is mortal. (Natural Questions ..– .)
+fall amid t e smas ing of t e world, not because it's rig t to wis for a national disaster, but because it's a great comfort in t e face of deat to see t at t e eart too is mortal. (Natural Questions ..– .)
 
 ## EPILOGUE: PRACTICE WHAT
 
@@ -1090,7 +1095,7 @@ of it is not so clearly afrmative as is Plato's account of the end of Socrates. 
 
 ### EPILOGUE: PRACTICE WHAT YOU PREACH
 
-fortitude e was t en displaying; e asked and beseec ed t at s e moderate er grief and not cling to it forever, but soot e er longing for er usband wit onorable consolations, by t inking about t e virtu-ous conduct of is life. S e, owever, insisted t at deat ad been decreed for er as well, and demanded t e blow of t e executioner's and. Seneca, not opposed to er aving a s are of glory, and also out of love—lest e abandon to injuries a woman w <sup>o</sup> ad been so singly devoted to im—
+fortitude e was t en displaying; e asked and beseec ed t at s e moderate er grief and not cling to it forever, but soot e er longing for er usband wit onorable consolations, by t inking about t e virtu-ous conduct of is life. S e, owever, insisted t at deat ad been decreed for er as well, and demanded t e blow of t e executioner's and. Seneca, not opposed to er aving a s are of glory, and also out of love—lest e abandon to injuries a woman w o ad been so singly devoted to im—
 
 said, "I've s own to you t e delig ts of life, but you prefer t e onor of deat ; I won't begrudge you your good example. Let t e resolve of t is brave exit be equal between us bot , t oug let your deat ave a greater s are of renown." After e'd said t is, t ey opened t eir arms wit t e same stroke of t e sword.
 
@@ -1202,7 +1207,7 @@ dium, virum optimum, vidi quassum, aetati obluctantem. Sed iam plus illum degra-
 
 tamquam in putri aedicio omnis iunctura diducitur, et dum alia excipitur, alia discin-ditur, circumspiciendum est quomodo exeas.
 
-Bassus tamen noster alacer animo est: oc p ilosop ia praestat, in conspectu mortis ilarem <esse> et in quocumque corporis abitu fortem laetumque nec decientem quamvis deciatur. Magnus gubernator et scisso navigat velo et, si exarmavit, tamen reliquias navigii aptat ad cursum. Hoc facit Bassus noster et eo animo vultuque nem suum spectat quo alienum spectare nimis securi putares. Magna res est, Lucili, aec et diu discenda, cum adventat ora illa inevitabilis, aequo animo abire. Alia genera mortis spei mita sunt: desinit morbus, in-cendium exstinguitur, ruina quos videbatur oppressura deposuit; mare quos auserat eadem vi qua sorbebat eiecit incolumes; gladium miles ab ipsa perituri cervice re vo-
+Bassus tamen noster alacer animo est: oc p ilosop ia praestat, in conspectu mortis ilarem  et in quocumque corporis abitu fortem laetumque nec decientem quamvis deciatur. Magnus gubernator et scisso navigat velo et, si exarmavit, tamen reliquias navigii aptat ad cursum. Hoc facit Bassus noster et eo animo vultuque nem suum spectat quo alienum spectare nimis securi putares. Magna res est, Lucili, aec et diu discenda, cum adventat ora illa inevitabilis, aequo animo abire. Alia genera mortis spei mita sunt: desinit morbus, in-cendium exstinguitur, ruina quos videbatur oppressura deposuit; mare quos auserat eadem vi qua sorbebat eiecit incolumes; gladium miles ab ipsa perituri cervice re vo-
 
 ### LATIN TEXTS
 
@@ -1258,9 +1263,9 @@ nem faciam: tu tamen mortem ut numquam timeas semper cogita. Vale. (Epistula )
 
 illa onestissime usus est, turpissime Brutus. Omnis res quod non abuit decus virtute addita sumit. . . . Massa per se nec calida nec frigida est: in fornacem coniecta con-caluit, in aquam demissa refrixit. Mors onesta est per illud quod onestum est, id
 
-<est> virtus et animus externa contemnens.
+ virtus et animus externa contemnens.
 
-[] Est et orum, Lucili, quae appella-mus media grande discrimen. Non enim sic mors indifferens est quomodo utrum capillos pares <an inpares> abeas: mors inter illa est quae mala quidem non sunt, tamen abent mali speciem: sui amor est et per-manendi conservandique se insita voluntas atque aspernatio dissolutionis, quia videtur multa nobis bona eripere et nos ex ac cui adsuevimus rerum copia educere. Illa quoque res morti nos alienat, quod aec iam novimus, illa ad quae transituri sumus nesci-mus qualia sint, et orremus ignota. Natu-
+[] Est et orum, Lucili, quae appella-mus media grande discrimen. Non enim sic mors indifferens est quomodo utrum capillos pares  abeas: mors inter illa est quae mala quidem non sunt, tamen abent mali speciem: sui amor est et per-manendi conservandique se insita voluntas atque aspernatio dissolutionis, quia videtur multa nobis bona eripere et nos ex ac cui adsuevimus rerum copia educere. Illa quoque res morti nos alienat, quod aec iam novimus, illa ad quae transituri sumus nesci-mus qualia sint, et orremus ignota. Natu-
 
 ### LATIN TEXTS
 
@@ -1290,13 +1295,13 @@ Non sumus in ullius potestate, cum mors in nostra potestate sit. (Epistula .)
 
 ### LATIN TEXTS
 
-illo sollicitudo invenit transeas, ipsius mo-rosum imperium delicatumque est. [] Ab oc modo aequo animo exit, modo magno prosilit, nec quis deinde relicti eius futurus sit exitus quaerit; sed ut ex barba capillo-que tonsa neglegimus, ita ille divinus animus egressurus ominem, quo receptaculum suum conferatur, ignis illud <exurat> an terra contegat an ferae distra ant, non magis ad se iudicat pertinere quam secun-das ad editum infantem. (Epistula )
+illo sollicitudo invenit transeas, ipsius mo-rosum imperium delicatumque est. [] Ab oc modo aequo animo exit, modo magno prosilit, nec quis deinde relicti eius futurus sit exitus quaerit; sed ut ex barba capillo-que tonsa neglegimus, ita ille divinus animus egressurus ominem, quo receptaculum suum conferatur, ignis illud  an terra contegat an ferae distra ant, non magis ad se iudicat pertinere quam secun-das ad editum infantem. (Epistula )
 
 ### III. HAVE NO REGRETS
 
 ## 'Nimis tamen cito perit et immaturus.'
 
-Primum puta illi superfuisse— Comprende quantum plurimum procedere omini licet: quantum est? Ad breuissimum tempus editi, cito cessuri loco venienti. . . . De nostris ae-tatibus loquor, quas <scimus> incredibili celeritate convolvi? Computa urbium saecula: videbis quam non diu steterint etiam quae vetustate gloriantur. Omnia umana brevia et caduca sunt et inniti temporis nullam partem occupantia. [] Terram anc cum urbibus populisque et uminibus et ambitu maris puncti loco ponimus ad uni-uersa referentes: minorem portionem aetas nostra quam puncti abet, si omni tempori
+Primum puta illi superfuisse— Comprende quantum plurimum procedere omini licet: quantum est? Ad breuissimum tempus editi, cito cessuri loco venienti. . . . De nostris ae-tatibus loquor, quas  incredibili celeritate convolvi? Computa urbium saecula: videbis quam non diu steterint etiam quae vetustate gloriantur. Omnia umana brevia et caduca sunt et inniti temporis nullam partem occupantia. [] Terram anc cum urbibus populisque et uminibus et ambitu maris puncti loco ponimus ad uni-uersa referentes: minorem portionem aetas nostra quam puncti abet, si omni tempori
 
 ### LATIN TEXTS
 
@@ -1304,7 +1309,7 @@ comparetur, cuius maior est mensura quam mundi, utpote cum ille se intra uius sp
 
 Uno modo multum est quod vivimus, si satis est. [] Licet mi i vivaces et in memo-riam traditae senectutis uiros nomines, cen-tenos denosque percenseas annos: cum ad omne tempus dimiseris animum, nulla erit illa breuissimi longissimique aevi differen-tia, si inspecto quanto quis vixerit spatio comparaveris quanto non vixerit. (Ad Marciam )
 
-[] Desinamus quod voluimus velle. Ego certe id ago <ne> senex eadem velim quae puer volui. In oc unum eunt dies, in oc noctes, oc opus meum est, aec cogitatio,
+[] Desinamus quod voluimus velle. Ego certe id ago  senex eadem velim quae puer volui. In oc unum eunt dies, in oc noctes, oc opus meum est, aec cogitatio,
 
 #### LATIN TEXTS
 
@@ -1492,7 +1497,7 @@ cum; ostendemus in omni servitute aper-tam libertati viam. Si aeger animus et su
 
 ertas illic in imo sedet. Vides illam arborem brevem, retorridam, infelicem? Pendet inde libertas. Vides iugulum tuum, guttur tuum, cor tuum? Effugia servitutis sunt. Nimis tibi operosos exitus monstro et multum animi ac roboris exigentes? Quaeris quod sit ad libertatem iter? Quaelibet in corpore tuo vena!' (De Ira ..)
 
-Non uideo, inquam, quid abeat in terris Iuppiter pulc rius, si <eo> convertere animum velit, quam ut spectet Catonem iam partibus non semel fractis stantem ni ilo minus inter ruinas publicas rectum. []
+Non uideo, inquam, quid abeat in terris Iuppiter pulc rius, si  convertere animum velit, quam ut spectet Catonem iam partibus non semel fractis stantem ni ilo minus inter ruinas publicas rectum. []
 
 'Licet' inquit 'omnia in unius dicionem concesserint, custodiantur legionibus terrae, classibus maria, Caesarianus portas miles obsideat, Cato qua exeat abet: una manu latam libertati viam faciet. Ferrum istud, etiam civili bello purum et innoxium, bonas
 
@@ -1504,7 +1509,7 @@ tandem ac nobiles edet operas: libertatem quam patriae non potuit Catoni dabit. 
 
 deret; non enim tam magno animo mors initur quam repetitur. Quidni libenter spectarent alumnum suum tam claro ac memo-rabili exitu evadentem? mors illos consecrat quorum exitum et qui timent laudant. (De Providentia .)
 
-'Ante omnia cavi ne quis vos teneret invitos; patet exitus: si pugnare non vultis, licet fugere. Ideo ex omnibus rebus quas esse vobis necessarias volui ni il feci facilius quam mori. Prono animam loco posui: <si> tra itur, adtendite modo et uidebitis quam breuis ad libertatem et quam expedita ducat via. Non tam longas in exitu vobis quam in-trantibus moras posui; alioqui magnum in vos regnum fortuna tenuisset, si omo tam tarde moreretur quam nascitur. [] Omne tempus, omnis vos locus doceat quam facile sit renuntiare naturae et munus illi suum
+'Ante omnia cavi ne quis vos teneret invitos; patet exitus: si pugnare non vultis, licet fugere. Ideo ex omnibus rebus quas esse vobis necessarias volui ni il feci facilius quam mori. Prono animam loco posui:  tra itur, adtendite modo et uidebitis quam breuis ad libertatem et quam expedita ducat via. Non tam longas in exitu vobis quam in-trantibus moras posui; alioqui magnum in vos regnum fortuna tenuisset, si omo tam tarde moreretur quam nascitur. [] Omne tempus, omnis vos locus doceat quam facile sit renuntiare naturae et munus illi suum
 
 ### LATIN TEXTS
 
@@ -1606,7 +1611,7 @@ frangeret; eodem ve iculo quo ad poenam ferebatur effugit. [] Ni il obstat erum-
 
 ### LATIN TEXTS
 
-tormentum, omne ludibrium iamdudum effugio? quare ego mortem armatus exspecto?' Tanto oc speciosius spectaculum fuit quanto onestius mori discunt omines quam occidere. [] Quid ergo? quod animi perditi quoque noxiosi abent non abe-bunt illi quos adversus os casus instruxit longa meditatio et magistra rerum omnium ratio? Illa nos docet fati varios esse accessus, nem eundem, ni il autem interesse unde incipiat quod venit. [] Eadem illa ratio monet ut si licet moriaris <quemadmodum placet, si minus>
+tormentum, omne ludibrium iamdudum effugio? quare ego mortem armatus exspecto?' Tanto oc speciosius spectaculum fuit quanto onestius mori discunt omines quam occidere. [] Quid ergo? quod animi perditi quoque noxiosi abent non abe-bunt illi quos adversus os casus instruxit longa meditatio et magistra rerum omnium ratio? Illa nos docet fati varios esse accessus, nem eundem, ni il autem interesse unde incipiat quod venit. [] Eadem illa ratio monet ut si licet moriaris 
 
 quemadmodum potes, et quidquid obvenerit ad vim afferendam tibi invadas. Iniuriosum est rapto vivere, at contra pulc errimum mori rapto. Vale.
 
@@ -1616,7 +1621,7 @@ quemadmodum potes, et quidquid obvenerit ad vim afferendam tibi invadas. Iniurio
 
 ### LATIN TEXTS
 
-repentem; iam manum mi i iniecerat. Medi-cus initia esse dicebat motis venis et incertis et naturalem turbantibus modum. Protinus itaque parari ve iculum iussi; Paulina mea retinente exire perseveravi . . . quae mi i valetudinem meam commendat. Nam cum sciam spiritum illius in meo verti, incipio, ut illi consulam, mi i consulere. . . . [] In-dulgendum est enim onestis adfectibus; et interdum, etiam si premunt causae, spiritus in onorem suorum vel cum tormento re-vocandus et in ipso ore retinendus est, cum bono viro vivendum sit non quamdiu iuvat sed quamdiu oportet: ille qui non uxorem, non amicum tanti putat ut diutius in vita commoretur, qui perseverabit mori, delicatus est. Hoc quoque imperet sibi animus, ubi utilitas suorum exigit, nec tantum si vult mori, sed si coepit, intermittat et <se>-
+repentem; iam manum mi i iniecerat. Medi-cus initia esse dicebat motis venis et incertis et naturalem turbantibus modum. Protinus itaque parari ve iculum iussi; Paulina mea retinente exire perseveravi . . . quae mi i valetudinem meam commendat. Nam cum sciam spiritum illius in meo verti, incipio, ut illi consulam, mi i consulere. . . . [] In-dulgendum est enim onestis adfectibus; et interdum, etiam si premunt causae, spiritus in onorem suorum vel cum tormento re-vocandus et in ipso ore retinendus est, cum bono viro vivendum sit non quamdiu iuvat sed quamdiu oportet: ille qui non uxorem, non amicum tanti putat ut diutius in vita commoretur, qui perseverabit mori, delicatus est. Hoc quoque imperet sibi animus, ubi utilitas suorum exigit, nec tantum si vult mori, sed si coepit, intermittat et -
 
 ## suis commodet. [] Ingentis animi est aliena
 
@@ -1682,7 +1687,7 @@ quod incertum est semper expectet. [] Quid dicam duces ducumque progeniem et mul
 
 ### LATIN TEXTS
 
-ac desinent; nulli non senectus sua est. In-aequalibus ista spatiis eodem natura dimittit: quidquid est non erit, nec peribit sed resol-vetur. [] Nobis solvi perire est; proxima enim intuemur, ad ulteriora non prospicit mens ebes et quae se corpori addixerit; alioqui fortius nem sui suorumque pateretur, si speraret, <ut> omnia illa, sic vitam mortemque per vices ire et composita dis-solvi, dissoluta componi, in oc opere aeter-nam artem cuncta temperantis dei verti.
+ac desinent; nulli non senectus sua est. In-aequalibus ista spatiis eodem natura dimittit: quidquid est non erit, nec peribit sed resol-vetur. [] Nobis solvi perire est; proxima enim intuemur, ad ulteriora non prospicit mens ebes et quae se corpori addixerit; alioqui fortius nem sui suorumque pateretur, si speraret,  omnia illa, sic vitam mortemque per vices ire et composita dis-solvi, dissoluta componi, in oc opere aeter-nam artem cuncta temperantis dei verti.
 
 [] Itaque ut M. Cato, cum aevum animo percucurrerit, dicet, 'omne umanum genus, quodque est quodque erit, morte damnatum est; omnes quae usquam rerum potiuntur urbes quaeque alienorum imperiorum magna sunt decora, ubi fuerint aliquando quaeretur et vario exitii genere tollentur: alias destru-ent bella, alias desidia paxque ad inertiam versa consumet et magnis opibus exitiosa
 
@@ -1764,7 +1769,7 @@ Quam stultum est mare orrere, cum scias stillicidio perire te posse! [,] Nullum 
 
 #### LATIN TEXTS
 
-iguum quod non in perniciem generis umani satis valeat? [,] Adeo non debent nos ista confundere, tamquam plus in se mali abeant quam vulgaris mors, ut contra, cum sit necessarium e vita exire et aliquando emittere animam, maiore perire ratione iuvet. Necesse est mori ubicumque, quandoque: stet licet ista umus et se teneat suis nibus nec ulla iactetur iniuria, supra me quandoque erit. <Quid> interest, ego illam mi i an ipsa se mi i imponat? [,]
+iguum quod non in perniciem generis umani satis valeat? [,] Adeo non debent nos ista confundere, tamquam plus in se mali abeant quam vulgaris mors, ut contra, cum sit necessarium e vita exire et aliquando emittere animam, maiore perire ratione iuvet. Necesse est mori ubicumque, quandoque: stet licet ista umus et se teneat suis nibus nec ulla iactetur iniuria, supra me quandoque erit.  interest, ego illam mi i an ipsa se mi i imponat? [,]
 
 Diducitur et ingenti potentia nescio cuius mali rumpitur et me in immensam altitudinem abducit; quid porro? Mors levior in plano est? Quid abeo quod querar, si rerum natura me non vult iacere ignobili leto, si mi i inicit sui partem?
 
@@ -1838,7 +1843,7 @@ of life— preferable to deat , even if it does not conduce to appiness— from 
 
 . In t ese t ree lines, Seneca splices toget er two passages of t e Aeneid, united by t eir s ared use of t e word ianitor, "door- guard."
 
-<sup>T</sup> <sup>e</sup> rst (.– ) refers to t e monster Cacus, w o dwells in a gruesome cavern; t e second (.– ), more relevant to Seneca's point ere, comes from t e description of Aeneas's descent to t e underworld.
+T e rst (.– ) refers to t e monster Cacus, w o dwells in a gruesome cavern; t e second (.– ), more relevant to Seneca's point ere, comes from t e description of Aeneas's descent to t e underworld.
 
 - . Demetrius was a Greek Cynic p ilosop er of t e mid- rst century AD, w om Seneca admired greatly for is ascetic abits and uncompromising morals.
 - . Referring to t e sapiens, t e idealized sage or perfect master w o would always act in accord wit Stoic beliefs.

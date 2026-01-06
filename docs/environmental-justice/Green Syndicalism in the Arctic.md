@@ -1,3 +1,8 @@
+---
+title: "## **Green Syndicalism in the Arctic**"
+category: "environmental-justice"
+---
+
 ## **Green Syndicalism in the Arctic**
 
 ## **Date:** Sat, 03/20/2021 - 00:00

@@ -1,3 +1,8 @@
+---
+title: "## **Well, if You Ask Me: California! Stop with the massive gas leak already!**"
+category: "environmental-justice"
+---
+
 ## **Well, if You Ask Me: California! Stop with the massive gas leak already!**
 
 | Date: Tue, 01/05/2016 - 20:15 |
@@ -7,12 +12,16 @@
 | By Dano T Bob - |
 | IWW Environmental Unionism Caucus |
 | , January 7, 2016 |
-| So, if you've been in a cave the last week, or on holidays time, or only follow corporate media<br>( |
+| So, if you've been in a cave the last week, or on holidays time, or only follow corporate media
+( |
 | Washington Post did cover this |
-| ), there is a massive gas leak going on in southern California right now that no one seems to<br>know how to stop, especially the company responsible. Pretty bad, right? Yeah, really bad.<br>Here's the basic details: |
+| ), there is a massive gas leak going on in southern California right now that no one seems to
+know how to stop, especially the company responsible. Pretty bad, right? Yeah, really bad.
+Here's the basic details: |
 | Methane gas, a HUGE contributor to climate change as a |
 | Greenhouse Gas |
-| , is currently leaking from from a facility at Aliso Canyon(Orange County, below Los Angeles)<br>at rate of 110,000 pounds per hour, all day everyday. Somewhere around 2,000 some odd |
+| , is currently leaking from from a facility at Aliso Canyon(Orange County, below Los Angeles)
+at rate of 110,000 pounds per hour, all day everyday. Somewhere around 2,000 some odd |
 
 homes have been evacuated thus far, and building moratorium has been proposed for the area near the leak
 
@@ -58,16 +67,22 @@ We need community control of our energy and energy policy now and not tomorrow, 
 
 ## Green New Deal
 
-| for renewable energy. When is the last time you heard of a solar spill displacing communities<br>and making people sick? This could be funded by a |
+| for renewable energy. When is the last time you heard of a solar spill displacing communities
+and making people sick? This could be funded by a |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Carbon Tax |
-| , or a Carbon Tax could be used to buy out dirty coal plants that also poison communities. The<br>formula for a cleaner, more just energy economy is out there, we just need to organize to<br>produce the political will to make it happen. |
+| , or a Carbon Tax could be used to buy out dirty coal plants that also poison communities. The
+formula for a cleaner, more just energy economy is out there, we just need to organize to
+produce the political will to make it happen. |
 | So, if ya wanna complain to |
 | California Governor Jerry Brown |
-| asking him to speak out and for some action on this massive methane leak, that can't hurt<br>either. Same for |
+| asking him to speak out and for some action on this massive methane leak, that can't hurt
+either. Same for |
 | Obama |
 | and the EPA when it comes to protecting communities from harmful |
 | methane |
-| leaks like this that not only are detrimental to people's health but also to our entire planet's<br>climate. Give em hell, cause that is certainly what is being given to us at the moment. |
+| leaks like this that not only are detrimental to people's health but also to our entire planet's
+climate. Give em hell, cause that is certainly what is being given to us at the moment. |
 | Disclaimer: |
-| The views expressed here are not the official position of the IWW (or even the IWW's EUC)<br>and do not necessarily represent the views of anyone but the author's. |
+| The views expressed here are not the official position of the IWW (or even the IWW's EUC)
+and do not necessarily represent the views of anyone but the author's. |

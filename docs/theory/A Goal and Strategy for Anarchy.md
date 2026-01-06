@@ -1,3 +1,8 @@
+---
+title: "A Goal and Strategy for Anarchy"
+category: "theory"
+---
+
 ## James Herod
 
 # A Goal and Strategy for Anarchy
@@ -8,7 +13,7 @@
 
 This is the text of a talk given on March 8, 2008 for a workshop on Anarchist Revolutionary Strategy at the National Conference on Organized Resistance in Washington, D.C., and again at the Finding Our Roots anarchist conference in Chicago on April 20, 2008.
 
-#### <span id="page-0-0"></span>The Goal
+#### The Goal
 
 It should be quite obvious, but apparently it's not, that we can't devise an anarchist revolutionary strategy until we have a clear idea of what it is we're trying to achieve.
 
@@ -24,11 +29,11 @@ There are at least two important reasons for this opening. One is the near total
 
 A second and perhaps more important reason for this historical opening is the possible demise of capitalism itself. At least one eminent anti-capitalist scholar, Immanuel Wallerstein, believes that world capitalism has reached its limits, and faces structural restraints that it will not be able to overcome. He believes we are entering a period of chaos, a time of transition between capitalism and whatever comes next.[\[1\]](#page-6-2) Whether he is right or not I guess only time will tell.
 
-<span id="page-1-0"></span>But at the very least, we know that the century of the USAmerican Empire is coming to an end, and that even if capitalism survives there will be a period of confusion before a new hegemon can establish itself.
+But at the very least, we know that the century of the USAmerican Empire is coming to an end, and that even if capitalism survives there will be a period of confusion before a new hegemon can establish itself.
 
 There was a similar opening at the end of feudalism. Feudalism, as a system for extracting the surplus wealth of the laboring classes, was beginning to fail. The ruling classes were in a panic. But they rallied and created a new system, capitalism, which enabled them to keep their wealth and power, and stay in control. Nevertheless, during this interregnum, the oppressed classes came closer than they ever had before, or ever have since, to casting off their oppressors.[\[2\]](#page-6-3)
 
-<span id="page-1-1"></span>And so there is an opening, an opening for anarchy. Anarchism still stands as a living, viable, vibrant social philosophy, with a deep, rich tradition. Anarchism is finally back on the agenda, back in the political arena, thankfully, and not a moment too soon either. But the time is now, during the next ten, twenty, or thirty years. This is our chance. There is no more postponing; no more putting it off to the next generation; no more excuses for not knowing what we want; no more saying that it is up to those in the future who will be making the revolution to work out the details. We are the revolutionaries! If we don't know now what we want, when will we ever? This is a terrible responsibility, but it is also a rare and exciting opportunity. We could be the generation that finally brings down capitalism and creates a decent, sustainable, humane, just, free, and joyful world.
+And so there is an opening, an opening for anarchy. Anarchism still stands as a living, viable, vibrant social philosophy, with a deep, rich tradition. Anarchism is finally back on the agenda, back in the political arena, thankfully, and not a moment too soon either. But the time is now, during the next ten, twenty, or thirty years. This is our chance. There is no more postponing; no more putting it off to the next generation; no more excuses for not knowing what we want; no more saying that it is up to those in the future who will be making the revolution to work out the details. We are the revolutionaries! If we don't know now what we want, when will we ever? This is a terrible responsibility, but it is also a rare and exciting opportunity. We could be the generation that finally brings down capitalism and creates a decent, sustainable, humane, just, free, and joyful world.
 
 Fortunately for us, anarchy, humanity, and the world, many anarchists pretty much ignored the ban on imagining the future. Peter Kropotkin wrote detailed empirical studies, infused with history and theory, about how we might better arrange ourselves socially. These studies present a picture of human life so at odds with contemporary realities and the dominant culture as to practically stun the reader.
 
@@ -36,9 +41,9 @@ Kropotkin was not alone, however. Almost from the first emergence of anarchism a
 
 democracy. The Spanish revolutionaries, standing on fifty years of organizing, which was imbued with ideas from Bakunin, Kropotkin, and French anarcho-syndicalism, wrote detailed plans for what they wanted, plans which covered everything -- workplaces, public services, agriculture, and town and village self-government. We have the literature on the Paris Commune, on the San-Culottes in the French Revolution, on the Ukrainian Makhnovist movement, and on the direct democracies of medieval towns. Recently, there has been a rash of uprisings based on Popular Assemblies in Algeria, Argentina, Bolivia, and Mexico. And so on, down through the past two hundred years.[\[3\]](#page-7-0)
 
-<span id="page-2-0"></span>In 1997, Ken Knabb wrote up a good description of all this in his book The Joy of Revolution. Takis Fotopoulos has mapped out, in concrete detail, what we want in his book Towards an Inclusive Democracy, as well as in numerous essays. Murray Bookchin has a short book on Remaking Society. Cornelius Castoriadis was perhaps the greatest contemporary philosopher of autonomy (see, for example, Philosophy, Politics, Autonomy). John Holloway has brilliantly explained the philosophical foundations for a free people in his book Change the World Without Taking Power. Colin Ward brought anarchy down to earth in his book Anarchy in Action. There are dozens of other attempts.
+In 1997, Ken Knabb wrote up a good description of all this in his book The Joy of Revolution. Takis Fotopoulos has mapped out, in concrete detail, what we want in his book Towards an Inclusive Democracy, as well as in numerous essays. Murray Bookchin has a short book on Remaking Society. Cornelius Castoriadis was perhaps the greatest contemporary philosopher of autonomy (see, for example, Philosophy, Politics, Autonomy). John Holloway has brilliantly explained the philosophical foundations for a free people in his book Change the World Without Taking Power. Colin Ward brought anarchy down to earth in his book Anarchy in Action. There are dozens of other attempts.
 
-<span id="page-2-1"></span>We don't have to rely just on theorists from modern anarchism, however. We can look back in history. There were enormous peasant revolts in early modern Europe. What did they want? They wanted to get the ruling classes off their backs and to live free and autonomous in their villages. This was no new thing either. As recently researched and superbly described by David Graeber,[\[4\]](#page-7-1) from the emergence of the first states, whenever there was the slightest crack in the structure of power, people tried to get free and reestablish control over their own lives in their local communities. People have always gathered in assemblies in their tribes and villages whenever they had the chance to cooperatively govern their own social lives.
+We don't have to rely just on theorists from modern anarchism, however. We can look back in history. There were enormous peasant revolts in early modern Europe. What did they want? They wanted to get the ruling classes off their backs and to live free and autonomous in their villages. This was no new thing either. As recently researched and superbly described by David Graeber,[\[4\]](#page-7-1) from the emergence of the first states, whenever there was the slightest crack in the structure of power, people tried to get free and reestablish control over their own lives in their local communities. People have always gathered in assemblies in their tribes and villages whenever they had the chance to cooperatively govern their own social lives.
 
 Actually then, we are not in trouble at all as regards the goal. There is no reason for us to be confused or apologetic about what we want. There is a solid historical consensus on what we want. We want to get the ruling classes off our backs. We don't want to be exploited or alienated. We don't want to be slaves. We want to be a self-governing people, free and autonomous.
 
@@ -62,7 +67,7 @@ capitalists and establishing anarchy.
 
 Maybe a note is in order as to why household assemblies are included in the list, which is not often done. First of all, it simply makes sense. Humans have always organized themselves into households, regardless of their societal type, even in tribal societies. It is a well-nigh universal and "natural" social form. Most of us spend a great deal of our lives in our households. Secondly, women in the autonomous movement in Italy in the 1970s proved that housework is an integral part of wage-slavery. That's why they launched the Wages for Housework campaign. Finally, some of the keenest contemporary students of capitalism, those associated with Immanuel Wallerstein at the Fernand Braudel Center, include households as a key unit of analysis. These are some of the reasons why I think households must be included along with workplaces and neighborhoods as an essential arena for directly democratic decision making, and thus of self-government. But the households I'm talking about would be expanded households, not nuclear families or even extended families, but a new social form, harking back to the larger household structures in medieval manors or the ancient world, consisting of 50-200 people.
 
-#### <span id="page-3-0"></span>Historical Strategies
+#### Historical Strategies
 
 Let's review now the strategies that have been used so far to get out of capitalism and into a freer society. By the way, in the nineteenth century there was broad agreement among anti-capitalist activists, whether marxist or anarchist, that "communism" meant a society without a state. That is, the original meaning of communism was communalism or local community autonomy. A disagreement emerged, however, about how to achieve it. The split between Marx and Bakunin (marxists versus anarchists) in 1872 at the Hague Congress of the International Workingmen's Association solidified this disagreement. Marxists thought that we could use the state to get to communism. First capture the state, and then use it to get to communism. Anarchists said no, that this wouldn't work, and that we had to bypass the state entirely and work directly for a stateless society.
 
@@ -72,7 +77,7 @@ The two-stage strategy was hegemonic on the left for nearly a century. Neverthel
 
 There are remnant groups still pushing these failed two-stage strategies in most countries. In the United States, for example, the Revolutionary Communist Party and the International Socialist Organization still believe in building a vanguard party (their own party, of course) to seize the state by force of arms. The Democratic Socialists of America are representative of the moribund social democratic strategy.
 
-#### <span id="page-4-0"></span>Strategies, Explicit or Implied, of Contemporary Anarchist Currents
+#### Strategies, Explicit or Implied, of Contemporary Anarchist Currents
 
 Let me focus now more closely just on anarchist strategies, that is, anti-statist strategies. I'll do this by briefly surveying the various anarchist tendencies in the United States and teasing out the strategy implications of their beliefs.
 
@@ -82,7 +87,7 @@ We might categorize contemporary USAmerican anarchist currents as follows:
   - 2. Libertarian Municipalism.
   - 3. Major Related Tendencies: Surrealism; Autonomous Marxism; Libertarian Socialism.
 - 4. Individualists: Primitivists; Ontological Anarchism; Crimethinc; So-called Post-Left Anarchism.
-- <span id="page-4-1"></span>5. Other: Radical Democracy; Co-Housing; Intentional Communities; Global Justice Movement. [\[5\]](#page-7-2)
+- 5. Other: Radical Democracy; Co-Housing; Intentional Communities; Global Justice Movement. [\[5\]](#page-7-2)
 
 If we survey all these various currents with an eye for the strategy recommended by each, the picture is pretty bleak. The Workers' Solidarity Alliance (WSA) remains an orthodox anarchosyndicalist organization with a strict focus on workplace organizing, with the 100-year-old vision of federated workers' councils as the social organization to replace capitalism. Similarly with the Industrial Workers of the World (Wobblies), whose strategy hasn't changed since its founding in 1905. It believes in industrial democracy (workers' control), to be achieved through One Big Union.
 
@@ -108,7 +113,7 @@ There is an international journal, the International Journal of Inclusive Democr
 
 So that's it -- a very grim picture indeed as regards a goal and strategy for anarchy among contemporary anarchists.
 
-#### <span id="page-5-0"></span>The Actual Practices Prevailing in the Present Day Anarchist Movement
+#### The Actual Practices Prevailing in the Present Day Anarchist Movement
 
 If we look now at the actual practices which prevail in the present day anarchist movement in USAmerica we can notice a curious fact. The strategies described above have almost no bearing on contemporary practices. Even for class-struggle anarchists who are oriented toward the working class and believe in workers councils, like those associated with the Wobblies, Nefac, or the WSA, the drive for such councils is almost nonexistent. Instead, they engage in standard labor practices: campaigns for the right to organize, union organizing drives, fights for better wages, hours, and benefits, or in defense of fired workers.
 
@@ -124,7 +129,7 @@ Then there are the endless marches and rallies, which have virtually no effect o
 
 It seems that a much more critical evaluation of our projects is called for. We need to seriously and persistently ask whether our projects are hurting capitalists in significant and permanent ways, and more particularly, whether they are taking any decision making away from the ruling class.
 
-#### <span id="page-6-0"></span>The Way Forward
+#### The Way Forward
 
 It is time for a new tack. The two-stage strategy of seizing the state, used by both Leninists and Social Democrats, as a way of getting out of capitalism and then to communism (defined as a stateless society, that is, anarchy), is a proven failure. Similarly, the strict focus on workplaces and workers' control has also proved inadequate to the task. We need to seize everything, by establishing direct democracy everywhere, through face-to-face assemblies, in our neighborhoods, workplaces, and households. This is our best hope.
 
@@ -134,37 +139,35 @@ It might also help us to move in this direction if we get rid of the idea that i
 
 What we most urgently need to do is shift the location of the anti-capitalist fight to the three strategic sites described above. We also need to scour the world for existing struggles on these sites, then study and publicize them. Only in this way will we start winning, and start destroying the world we hate and creating the world we want.
 
-#### <span id="page-6-1"></span>Notes
+#### Notes
 
 I have discussed the themes of this essay in considerably more detail in my little book Getting Free: Creating an Association of Democratic Autonomous Neighborhoods.
 
 (Boston: Lucy Parsons Center, 2006; distributed by AK Press). It is available online at:
 
-[<http://www.jamesherod.info/?](http://www.jamesherod.info/?sec=book&id=7&PHPSESSID=0b4aba7918323b17ce608ef741f40fcb)
-
-[sec=book&id=7&PHPSESSID=0b4aba7918323b17ce608ef741f40fcb>](http://www.jamesherod.info/?sec=book&id=7&PHPSESSID=0b4aba7918323b17ce608ef741f40fcb).
+[](http://www.jamesherod.info/?sec=book&id=7&PHPSESSID=0b4aba7918323b17ce608ef741f40fcb).
 
 Other relevant essays are also posted there, such as:
 
 Making Decisions Amongst Assemblies, at:
 
-[<http://www.jamesherod.info/index.php?sec=paper&id=60>](http://www.jamesherod.info/index.php?sec=paper&id=60), or
+[](http://www.jamesherod.info/index.php?sec=paper&id=60), or
 
 The Weakness of a Politics of Protest, at:
 
-[<http://www.jamesherod.info/index.php?sec=paper&id=17>](http://www.jamesherod.info/index.php?sec=paper&id=17), and
+[](http://www.jamesherod.info/index.php?sec=paper&id=17), and
 
 Notes on Building a Movement for Direct Democracy, at:
 
-[<http://www.jamesherod.info/index.php?sec=paper&id=18>](http://www.jamesherod.info/index.php?sec=paper&id=18).
+[](http://www.jamesherod.info/index.php?sec=paper&id=18).
 
-<span id="page-6-2"></span>[<sup>\[1\]</sup>](#page-1-0) Wallerstein's thesis can be found in "Globalization: A Long-Term Trajectory of the World-System," Ch. 3, pp. 45-68, in his The Decline of American Power (New Press, 2003), or in "The Modern World-System in Crisis: Bifurcation, Chaos, and Choice," Ch. 5, pp. 76-90, in his World-Systems Analysis (Duke University Press, 2004).
+[\[1\]](#page-1-0) Wallerstein's thesis can be found in "Globalization: A Long-Term Trajectory of the World-System," Ch. 3, pp. 45-68, in his The Decline of American Power (New Press, 2003), or in "The Modern World-System in Crisis: Bifurcation, Chaos, and Choice," Ch. 5, pp. 76-90, in his World-Systems Analysis (Duke University Press, 2004).
 
-<span id="page-6-3"></span>[<sup>\[2\]</sup>](#page-1-1) For an outstanding study of this period see Silvia Federici, Caliban and the Witch: Women, the Body, and Primitive Accumulation. (Autonomedia, 2003)
+[\[2\]](#page-1-1) For an outstanding study of this period see Silvia Federici, Caliban and the Witch: Women, the Body, and Primitive Accumulation. (Autonomedia, 2003)
 
-- <span id="page-7-0"></span>[\[3\]](#page-2-0) References to all these things can be found in my big bibliography, Emancipatory Social Thought: A Partially Annotated Bibliography in English for the Libertarian Left and Progressive Populists in the United States, available on line at:
-- [<http://www.jamesherod.info/?sec=book&id=5&PHPSESSID=f6cd0975a0455b574d6a745a3808fa3e>](http://www.jamesherod.info/?sec=book&id=5&PHPSESSID=f6cd0975a0455b574d6a745a3808fa3e). For Kropotkin, see his Fields, Factories and Workshops; Mutual Aid; and The Conquest of Bread. The Guillame essay is in Sam Dolgoff, editor, Bakunin on Anarchism. See the entries listed below in the above bibliography for the various topics: peasant wars, Engels, Price; anarcho-syndicalism and workers' control, Ostergaard, Anweiler, Anderson, Brinton, Carsten, Castoriadis, Cole, Curl, Debord, Dolgoff, Gorter, Haffner, James, Kasmir, Korsch, Krimerman, Pankhurst, Pannekoek, Richards, Rocker, and G. Williams; radical democracy, Lummis; the Paris Commune, Edwards; sans-culottes, Sobol; medieval towns, Rorig; the Ukrainian Makhnovist movement, Arshinov; communalism, communes, and intentional communities, Rexroth, Holloway; the Spanish Revolution, Broue, Akelberg, Dolgoff, Paz, Richards.
-- <span id="page-7-1"></span>[\[4\]](#page-2-1) David Graeber, "There never was a West; or Democracy emerges in the spaces in between," in his Possibilities, pages 329-374 (AK Press, 2007).
-- <span id="page-7-2"></span>[\[5\]](#page-4-1) I have briefly described each of these currents, providing typical literature for each, with critiques where available, in the outline for my workshop about Anarchist Revolutionary Strategy, which is available online at: [<http://www.jamesherod.info/index.php?sec=paper&id=32>](http://www.jamesherod.info/index.php?sec=paper&id=32).
+- [\[3\]](#page-2-0) References to all these things can be found in my big bibliography, Emancipatory Social Thought: A Partially Annotated Bibliography in English for the Libertarian Left and Progressive Populists in the United States, available on line at:
+- [](http://www.jamesherod.info/?sec=book&id=5&PHPSESSID=f6cd0975a0455b574d6a745a3808fa3e). For Kropotkin, see his Fields, Factories and Workshops; Mutual Aid; and The Conquest of Bread. The Guillame essay is in Sam Dolgoff, editor, Bakunin on Anarchism. See the entries listed below in the above bibliography for the various topics: peasant wars, Engels, Price; anarcho-syndicalism and workers' control, Ostergaard, Anweiler, Anderson, Brinton, Carsten, Castoriadis, Cole, Curl, Debord, Dolgoff, Gorter, Haffner, James, Kasmir, Korsch, Krimerman, Pankhurst, Pannekoek, Richards, Rocker, and G. Williams; radical democracy, Lummis; the Paris Commune, Edwards; sans-culottes, Sobol; medieval towns, Rorig; the Ukrainian Makhnovist movement, Arshinov; communalism, communes, and intentional communities, Rexroth, Holloway; the Spanish Revolution, Broue, Akelberg, Dolgoff, Paz, Richards.
+- [\[4\]](#page-2-1) David Graeber, "There never was a West; or Democracy emerges in the spaces in between," in his Possibilities, pages 329-374 (AK Press, 2007).
+- [\[5\]](#page-4-1) I have briefly described each of these currents, providing typical literature for each, with critiques where available, in the outline for my workshop about Anarchist Revolutionary Strategy, which is available online at: [](http://www.jamesherod.info/index.php?sec=paper&id=32).
 
 Published in the Boston Underground, July 2008

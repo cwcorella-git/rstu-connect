@@ -1,3 +1,8 @@
+---
+title: "## **Strike and protests against Macron's employment law**"
+category: "technology-digital-justice"
+---
+
 ## **Strike and protests against Macron's employment law**
 
 ## **Date:** Unknown
@@ -68,7 +73,8 @@ Clermont-Ferrand (Auvergne): Between 3.000 and 4.000, mostly CGT, SUD-Solidaires
 | 8 years 1 month ago |
 | In reply to Welcomebylibcom.org |
 | Just quickly, is there a typo in the fourth para about CGT numbers? |
-| The CGT is claiming45000-500000 people at marches across the country, the police are<br>claiming 223000, with 60000 or 24000 in Paris. |
+| The CGT is claiming45000-500000 people at marches across the country, the police are
+claiming 223000, with 60000 or 24000 in Paris. |
 | Should that be 450,000? |
 | Also, shocking stuff about CGT service d'ordre |
 | jef costello |

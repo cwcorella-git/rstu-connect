@@ -1,3 +1,8 @@
+---
+title: "## **The first signs of an ecological class struggle in Germany**"
+category: "environmental-justice"
+---
+
 ## **The first signs of an ecological class struggle in Germany**
 
 ## **Date:** Fri, 03/31/2023 - 00:00

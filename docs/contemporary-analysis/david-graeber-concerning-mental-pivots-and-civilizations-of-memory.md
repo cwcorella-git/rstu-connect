@@ -1,23 +1,8 @@
 ---
-title: Concerning mental pivots and civilizations of memory
-author: David Graeber
-date: '2015'
-pubdate: '2023-02-18T18:07:48'
-language: en
-source_url: >-
-  Foreword to <em>The Chimera Principle: An Anthropology of Memory and
-  Imagination</em> by Carlo Severi, pp. xi-xxiii
-notes: >-
-  Available online at
-  [[https://haubooks.org/the-chimera-principle/][haubooks.org]] (open access). |
-  See also: David Graeber Institute [[https://davidgraeber.institute/]] &
-  [[https://davidgraeber.org/]]
-original_format: muse
-converted_date: '2025-11-08T11:25:03.073509'
-tags:
-  - theory
-  - contemporary
-  - rent
+title: "Concerning mental pivots and civilizations of memory"
+author: "David Graeber"
+date: "2015"
+category: "contemporary-analysis"
 ---
 
 > 

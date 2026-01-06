@@ -1,3 +1,8 @@
+---
+title: "PROBLEMS RUNNING THE GAME"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_1.jpeg)
 
 ## ![](_page_0_Picture_2.jpeg)

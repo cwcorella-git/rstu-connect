@@ -1,3 +1,8 @@
+---
+title: "## **Bristol IWW affiliates with Earth Strike UK**"
+category: "arts-culture-music"
+---
+
 ## **Bristol IWW affiliates with Earth Strike UK**
 
 ## **Date:** Wed, 03/30/2022 - 00:00
@@ -18,7 +23,8 @@ We are pleased to announce that the Bristol branch of the Industrial Workers of 
 
 The climate crisis will hit the global working class the hardest. By withdrawing our labour and taking other actions we can change the catastrophic course we are currently on. Our individual efforts to reduce emissions will not be enough to avert disaster, and typical protests can be easily ignored by politicians and the capitalist class – those most responsible for the crisis we find ourselves in. We must revive worker and union power and hit those who control the economy where it hurts by disrupting their ability to make profits. Together, we aim to free unions from restrictive anti-union laws through our Empower the Unions campaign, whilst also winning environmental improvements in our workplaces. Step by step we will create the solidarity and organisation necessary to carry out a global general strike against the climate crisis. Bristol IWW has brought us one step closer to achieving these aims by affiliating with us.
 
-| If you would like your union or union branch to affiliate with Earth Strike UK please follow this<br>link where you can find a model motion to use |
+| If you would like your union or union branch to affiliate with Earth Strike UK please follow this
+link where you can find a model motion to use |
 |----------------------------------------------------------------------------------------------------------------------------------------------------|
 | https://earth-strike.co.uk/action/union-affiliation/|
 | We need unions of all types, in all industries, to join the cause! |

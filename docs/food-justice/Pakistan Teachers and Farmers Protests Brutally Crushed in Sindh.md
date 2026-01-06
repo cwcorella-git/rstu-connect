@@ -1,3 +1,8 @@
+---
+title: "## **Pakistan: Teachers and Farmers Protests Brutally Crushed in Sindh**"
+category: "food-justice"
+---
+
 ## **Pakistan: Teachers and Farmers Protests Brutally Crushed in Sindh**
 
 ## **Date:** Unknown

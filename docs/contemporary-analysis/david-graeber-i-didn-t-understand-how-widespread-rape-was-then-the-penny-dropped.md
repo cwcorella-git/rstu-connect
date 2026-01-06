@@ -1,25 +1,8 @@
 ---
-title: I didn’t understand how widespread rape was. Then the penny dropped
-author: David Graeber
-date: 5<sup>th</sup> November 2017
-language: en
-source_url: >-
-  Retrieved on 3<sup>rd</sup> September 2020 from
-  https://www.theguardian.com/commentisfree/2017/nov/05/dsk-sexual-assault-feminism-weinstein-casting-couch
-topics:
-  - rape
-  - rape culture
-  - sexual assault
-  - women
-  - MSM
-original_format: muse
-converted_date: '2025-11-08T11:25:03.139907'
-tags:
-  - Rape
-  - Rape Culture
-  - Sexual Assault
-  - Women
-  - MSM
+title: "I didn’t understand how widespread rape was. Then the penny dropped"
+author: "David Graeber"
+date: "5<sup>th</sup> November 2017"
+category: "contemporary-analysis"
 ---
 
 This is a very difficult column for me to write because it’s about my mother.

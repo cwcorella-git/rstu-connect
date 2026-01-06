@@ -1,3 +1,8 @@
+---
+title: "## **Striking workers imprisoned in Iran**"
+category: "contemporary-analysis"
+---
+
 ## **Striking workers imprisoned in Iran**
 
 ## **Date:** Unknown

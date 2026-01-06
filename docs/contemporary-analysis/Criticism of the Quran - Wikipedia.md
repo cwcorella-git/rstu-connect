@@ -1,3 +1,8 @@
+---
+title: "**Criticism of the Quran**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Criticism_of_the_Quran)
 
 # **Criticism of the Quran**
@@ -70,7 +75,7 @@ In addition to the Qira'at there are also [Ahruf](https://en.wikipedia.org/wiki/
 
 Even after centuries of Islamic scholarship, the variants of the Qira'at have been said to continue "to astound and puzzle" Islamic scholars (Ammar Khatib and Nazir Khan),[\[58\]](#page-73-3) and make up "the most difficult topics" in Quranic studies (according to [Abu Ammaar Yasir Qadhi\)](https://en.wikipedia.org/wiki/Abu_Ammaar_Yasir_Qadhi)[.\[62\]](#page-74-0) While in theory Qira'at include differences in consonantal diacritics (i'jā[m](https://en.wikipedia.org/wiki/Arabic_diacritics#I)), vowel marks (ḥ[arak](https://en.wikipedia.org/wiki/%E1%B8%A4arak%C4%81t)āt), but not the consonantal skeleton ([rasm](https://en.wikipedia.org/wiki/Rasm)) which should be uniform in all Qira'at, there are differences in ([rasm](https://en.wikipedia.org/wiki/Rasm)), [\[63\]](#page-74-1) resulting in materially different readings (see [examples\)](about:reader?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FCriticism_of_the_Quran#Examples_of_differences_between_readings).
 
-[<u>64</u>]
+[64]
 
 Examples of differences between two Qira'at:
 
@@ -78,14 +83,27 @@ Examples of differences between two Qira'at:
 
 | Ḥafṣ (translation) | Warš (translation) | verse |
 |---------------------------------------------------------|-----------------------------------------------|--------------------------------------|
-| يَعْمَلُونَ ( <i>you</i> do) | (they do) تَعْمَلُونَ | Al-Baqara<br>2:85 |
-| مَا نُنَزِّلُ (We do not send<br>down) | مَا تَنَزَّلُ ( <i>they</i> do not come down) | Al-Ḥijr 15:8 |
-| لِأَهَبَ (that / may<br>bestow) | لِيَهَبَ (that <i>He</i> may<br>bestow) | Maryam<br>19:19 <sup>[65]</sup> |
-| أَالَ (he said) | ا قُل ( <i>Say!</i> ) | Al-Anbiyā'<br>21:4 |
-| کَبِیرًا (mighty) | (multitudinous) كَثِيرًا | Al-Aḥzāb<br>33:68 |
-| فَبِمَا ( <i>then</i> it is what) | (it is what) بِمَا | Al-Shura<br>42:30 |
-| يُدْخِلْهُ ( <i>He</i> makes him enter) | أنُدْخِلْهُ ( <i>We</i> make him<br>enter) | Al-Fatḥ<br>48:17 <sup>[66][67]</sup> |
-| عِبُدُ (who are the <i>slaves</i><br>of the Beneficent) | عندَ (who are <i>with</i> the<br>Beneficent) | al-Zukhruf<br>43:19 |
+| يَعْمَلُونَ ( you do) | (they do) تَعْمَلُونَ | Al-Baqara
+2:85 |
+| مَا نُنَزِّلُ (We do not send
+down) | مَا تَنَزَّلُ ( they do not come down) | Al-Ḥijr 15:8 |
+| لِأَهَبَ (that / may
+bestow) | لِيَهَبَ (that He may
+bestow) | Maryam
+19:19 [65] |
+| أَالَ (he said) | ا قُل ( Say! ) | Al-Anbiyā'
+21:4 |
+| کَبِیرًا (mighty) | (multitudinous) كَثِيرًا | Al-Aḥzāb
+33:68 |
+| فَبِمَا ( then it is what) | (it is what) بِمَا | Al-Shura
+42:30 |
+| يُدْخِلْهُ ( He makes him enter) | أنُدْخِلْهُ ( We make him
+enter) | Al-Fatḥ
+48:17 [66][67] |
+| عِبُدُ (who are the slaves
+of the Beneficent) | عندَ (who are with the
+Beneficent) | al-Zukhruf
+43:19 |
 
 While the change of voice or pronouns in these verses may seem confusing, it is very common in the Quran [68][69] and found even in the same verse. [70] (It is known as *iltifāt*.)
 
@@ -281,7 +299,7 @@ Cases where the speaker is swearing an oath by God, such as surahs 75:1–2 and 
 
 Spelling, syntax and grammar
 
-In 2020, a Saudi news website published an article<sup>[147]</sup> claiming that while most Muslims believe the text established by third caliph 'Uthman bin 'Affan "is sacred and must not be amended", there are some 2500 "errors of spelling, syntax and grammar" within it. The author (Ahmad Hashem) argues that while the recitation of the Quran is divine, the Quranic script established by Uthman's "is a human invention" subject to error and correction. Examples of some of the errors he gives are:
+In 2020, a Saudi news website published an article[147] claiming that while most Muslims believe the text established by third caliph 'Uthman bin 'Affan "is sacred and must not be amended", there are some 2500 "errors of spelling, syntax and grammar" within it. The author (Ahmad Hashem) argues that while the recitation of the Quran is divine, the Quranic script established by Uthman's "is a human invention" subject to error and correction. Examples of some of the errors he gives are:
 
 - Surah 68, verse 6, [the word] بِأَيِّيكُمُ ["which of you"] appears, instead of بأيكم In other words, an extra ي was added.
 - Surah 25, verse 4, [the word] جَآءُو ["they committed"] appears, instead of جاؤوا or جاؤوا. In other words, the alif in the plural masculine suffix او is missing.
@@ -470,136 +488,7 @@ While it is generally agreed the Quran contains many verses proclaiming the wond
 
 Like the Bible, the Quran talks about God creating the universe in six days[.\[240\]](#page-90-4)[\[241\]](#page-90-5) In a similar vein to Jewish and Christian adherents to Genesis, many modern believers have argued for a non-literal interpretation (for example The Holy Quran: Arabic Text and English translation by [Maulvi Sher Ali\)](https://en.wikipedia.org/wiki/Maulvi_Sher_Ali).
 
-Quranic verses related to the [origin of mankind](https://en.wikipedia.org/wiki/Human_evolution) created from dust or mud are not logically compatible with [modern](https://en.wikipedia.org/wiki/Evolution) [evolutionary theory.](https://en.wikipedia.org/wiki/Evolution) [\[242\]](#page-90-6)[\[243\]](#page-90-7) Although some Muslims try to reconcile evolution with the Quran by the argument from [intelligent design,](https://en.wikipedia.org/wiki/Intelligent_design) the Quran (and the hadiths) can be interpreted to support the idea of [creationism.](https://en.wikipedia.org/wiki/Creationism) This led to a contribution by Muslims to the [creation vs. evolution debate,](https://en.wikipedia.org/wiki/Creation_vs._evolution_debate) [\[244\]](#page-90-8) with some high-profile Muslim preachers [\(Zakir Naik,](https://en.wikipedia.org/wiki/Zakir_Naik) [Adnan Oktar,](https://en.wikipedia.org/wiki/Adnan_Oktar) [Yasir Qadhi\)](https://en.wikipedia.org/wiki/Yasir_Qadhi) advocating for [creationism](https://en.wikipedia.org/wiki/Creationism) and/or maintaining that the theory of evolution contradicts the teachings of the Quran[.\[245\]](#page-90-9) According to opinion polls, most Muslims do not accept the theory of evolution, the percentage varying among countries (from <10% acceptance in Egypt to about 40% in Kazakhstan)[.\[246\]](#page-90-10) Some Muslims point to a verse Q.71:14 -- "when He truly created you in stages ˹of development˺?"—as evidence for Evolution[.\[247\]](#page-90-11)
-
-![](_page_53_Picture_3.jpeg)
-
-Title page of [Riccoldo da Monte di Croce](https://en.wikipedia.org/wiki/Riccoldo_da_Monte_di_Croce)'s polemical and apologetic work critiquing Koran and Islam. Published in Seville c.1500. It shows a Christian friar preaching to Muslims.
-
-Some critics claim that the morality of the Quran appears to be a moral regression, by the standards of the moral traditions of Judaism and Christianity it says that it builds upon. The [Catholic](https://en.wikipedia.org/wiki/Catholic_Encyclopedia) [Encyclopedia](https://en.wikipedia.org/wiki/Catholic_Encyclopedia), for example, states that "the ethics of Islam are far inferior to those of [Judaism](https://en.wikipedia.org/wiki/Judaism) and even more inferior to those of the New Testament" and "that in the ethics of Islam there is a great deal to admire and to approve, is beyond dispute; but of originality or superiority, there is none.["\[248\]](#page-90-12) William Montgomery Watt however finds Muhammad's changes an improvement for his time and place: "In his day and generation Muhammad was a social reformer, indeed a reformer even in the sphere of morals. He created a new system of [social](https://en.wikipedia.org/wiki/Social_security) [security](https://en.wikipedia.org/wiki/Social_security) and a new family structure, both of which were a vast improvement on what went before. By taking what was best in the morality of the nomad and adapting it for settled communities, he established a religious and social framework for the life of many races of men.["\[249\]](#page-91-0)
-
-#### The [Sword verse:](https://en.wikipedia.org/wiki/Sword_verse)-
-
-[9:5] Then, when the sacred months have passed, slay the idolaters wherever ye find them, and take them (captive), and besiege them, and prepare for them each ambush. But if they repent and establish worship and pay the [zakat,](https://en.wikipedia.org/wiki/Zakat) then leave their way free. Lo! Allah is Forgiving, Merciful.[\[Quran](https://en.wikipedia.org/wiki/Quran) [9:5–](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2002.02.0002%3Asura%3D9%3Averse%3D5) [5](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2002.02.0002%3Asura%3D9%3Averse%3D5) [\(Translated](https://en.wikipedia.org/wiki/Quran_translations) by [Pickthall\)](https://en.wikipedia.org/wiki/Marmaduke_Pickthall)]
-
-According to the E. J. Brill's First Encyclopaedia of Islam, 1913– 1936, Volume 4, the term first applied in the Quran to unbelieving Meccans, who endeavoured "to refute and revile the Prophet". A waiting attitude towards the [kafir](https://en.wikipedia.org/wiki/Kafir) was recommended at first for Muslims; later, Muslims were ordered to keep apart from unbelievers and defend themselves against their attacks and even take the offensive[.\[250\]](#page-91-1) Most passages in the Quran referring to unbelievers in general talk about their fate on the [day of judgement](https://en.wikipedia.org/wiki/Islamic_eschatology) and destination in [hell.](https://en.wikipedia.org/wiki/Jahannam) [\[250\]](#page-91-1) "Lo! those who disbelieve (Kafir), among the People of the Scripture and the idolaters, will abide in fire of hell. They are the worst of created beings."[\[Quran](https://en.wikipedia.org/wiki/Quran) [98:6\]](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2002.02.0006%3Asura%3D98%3Averse%3D6)
-
-[Alexis de Tocqueville](https://en.wikipedia.org/wiki/Alexis_de_Tocqueville) (1805–1859), a French political thinker and historian, observed:
-
-I studied the Quran a great deal. I came away from that study with the conviction that by and large there have been few religions in the world as deadly to men as that of Muhammad. As far as I can see, it is the principal cause of the decadence so visible today in the Muslim world and, though less absurd than the polytheism of old, its social and political tendencies are in my opinion more to be feared, and I therefore regard it as a form of decadence rather than a form of progress in relation to paganism[.\[251\]](#page-91-2)
-
-The Quran's teachings on matters of war and peace are topics that are widely debated. On the one hand, some critics, such as [Sam Harris](https://en.wikipedia.org/wiki/Sam_Harris_(author)), interpret certain verses of the Quran as sanctioning military action against unbelievers as a whole both during the lifetime of Muhammad and after. Harris argues that Muslim extremism is simply a consequence of taking the Quran literally, and is skeptical about significant reform toward a "moderate Islam" in the future[.\[252\]](#page-91-3)[\[253\]](#page-91-4) On the other hand, other scholars argue that such verses of the Quran are interpreted out of context[,\[254\]](#page-92-0)[\[255\]](#page-92-1) and Muslims of the [Ahmadiyya](https://en.wikipedia.org/wiki/Ahmadiyya) movement argue that when the verses are read in context, they clearly prohibit aggression[,\[256\]](#page-92-2)[\[257\]](#page-92-3)[\[258\]](#page-92-4) and allow for fighting only in self-defense[.\[259\]](#page-92-5)[\[260\]](#page-93-0)
-
-The author Syed Kamran Mirza has argued that a concept of '[Jihad](https://en.wikipedia.org/wiki/Jihad)', defined as 'struggle', was introduced by the Quran. He wrote that while Muhammad was in Mecca, he "did not have many supporters and was very weak compared to the Pagans", and "it was at this time he added some 'soft', peaceful verses", whereas "almost all the hateful, coercive and intimidating verses later in the Quran were made with respect to Jihad" when Muhammad was in Medina [.\[261\]](#page-93-1)
-
-[Micheline R. Ishay](https://en.wikipedia.org/wiki/Micheline_R._Ishay) has argued that "the Quran justifies wars for self-defense to protect Islamic communities against internal or external aggression by non-Islamic populations, and wars waged against those who 'violate their oaths' by breaking a treaty"[.\[262\]](#page-93-2) [Mufti](https://en.wikipedia.org/wiki/Mufti) [M. Mukarram Ahmed](https://en.wikipedia.org/wiki/Mukarram_Ahmad) has also argued that the Quran encourages people to fight in self-defense. He has also argued that the Quran has been used to direct Muslims to make all possible preparations to defend themselves against enemies[.\[263\]](#page-93-3)
-
-[Shin Chiba](https://en.wikipedia.org/w/index.php?title=Shin_Chiba&action=edit&redlink=1) and [Thomas J. Schoenbaum](https://en.wikipedia.org/wiki/Thomas_J._Schoenbaum) argue that Islam "does not allow Muslims to fight against those who disagree with them regardless of belief system", but instead "urges its followers to treat such people kindly"[.\[264\]](#page-93-4) Yohanan Friedmann has argued that the Quran does not promote fighting for the purposes of religious coercion, although the war as described is "religious" in the sense that the enemies of the Muslims are described as "enemies of God"[.\[265\]](#page-93-5)
-
-[Rodrigue Tremblay](https://en.wikipedia.org/wiki/Rodrigue_Tremblay) has argued that the Quran commands that non-Muslims under a Muslim regime, should "feel themselves subdued" in "a political state of subservience" . He also argues that the Quran may assert freedom within religion[.\[266\]](#page-93-6) Nisrine Abiad has argued that the Quran incorporates the offence (and due punishment) of "rebellion" into the offence of "highway or armed robbery"[.\[267\]](#page-93-7)
-
-[George W. Braswell](https://en.wikipedia.org/w/index.php?title=George_W._Braswell&action=edit&redlink=1) has argued that the Quran asserts an idea of Jihad to deal with "a sphere of disobedience, ignorance and war"[.\[268\]](#page-94-0)
-
-[Michael David Bonner](https://en.wikipedia.org/w/index.php?title=Michael_David_Bonner&action=edit&redlink=1) has argued that the "deal between God and those who fight is portrayed as a commercial transaction, either as a loan with interest, or else as a profitable sale of the life of this world in return for the life of the next", where "how much one gains depends on what happens during the transaction", either "paradise if slain in battle, or victory if one survives"[.\[269\]](#page-94-1) Critics have argued that the Quran "glorified Jihad in many of the Medinese suras" and "criticized those who fail(ed) to participate in it"[.\[270\]](#page-94-2)
-
-[Ali Ünal](https://en.wikipedia.org/wiki/Ali_%C3%9Cnal) has claimed that the Quran praises the companions of Muhammad, for being stern and implacable against the said unbelievers, where in that "period of ignorance and savagery, triumphing over these people was possible by being strong and unyielding.["\[271\]](#page-94-3)
-
-Solomon Nigosian concludes that the "Quranic statement is clear" on the issue of fighting in defense of Islam as "a duty that is to be carried out at all costs", where "God grants security to those Muslims who fight in order to halt or repel aggression"[.\[272\]](#page-94-4)
-
-[Shaikh M. Ghazanfar](https://en.wikipedia.org/w/index.php?title=Shaikh_M._Ghazanfar&action=edit&redlink=1) argues that the Quran has been used to teach its followers that "the path to human salvation does not require withdrawal from the world but rather encourages moderation in worldly affairs", including fighting.[\[273\]](#page-94-5) [Shabbir](https://en.wikipedia.org/wiki/Shabbir_Akhtar)
-
-[Akhtar](https://en.wikipedia.org/wiki/Shabbir_Akhtar) has argued that the Quran asserts that if a people "fear Muhammad more than they fear God, 'they are a people lacking in sense'" rather than a fear being imposed upon them by God directly[.\[274\]](#page-94-6)
-
-Various calls to arms were identified in the Quran by [Mohammed Reza Taheri-azar,](https://en.wikipedia.org/wiki/Mohammed_Reza_Taheri-azar_SUV_attack) all of which were cited as "most relevant to my actions on March 3, 2006," after he committed a terrorist attack that injured 9 people[.\[275\]](#page-94-7)
-
-#### **Violence against women**
-
-### [\[edit\]](https://en.wikipedia.org/w/index.php?title=Criticism_of_the_Quran&action=edit§ion=34)
-
-Verse 4:34 of the Quran as translated by Ali Quli Qara'i reads:
-
-Men are the managers of women, because of the advantage Allah has granted some of them over others, and by virtue of their spending out of their wealth. So righteous women are obedient, care-taking in the absence [of their husbands] of what Allah has enjoined [them] to guard. As for those [wives] whose misconduct you fear, [first] advise them, and [if ineffective] keep away from them in the bed, and [as the last resort] strike them. Then if they obey you, do not seek any course [of action] against them. Indeed, Allah is all-exalted, allgreat[.\[276\]](#page-94-8)
-
-Many translations do not necessarily imply a chronological sequence, for example, [Marmaduke Pickthall](https://en.wikipedia.org/wiki/Marmaduke_Pickthall)'s, [Muhammad](https://en.wikipedia.org/wiki/Muhammad_Muhsin_Khan) [Muhsin Khan](https://en.wikipedia.org/wiki/Muhammad_Muhsin_Khan)'s, or [Arthur John Arberry](https://en.wikipedia.org/wiki/Arthur_John_Arberry)'s. Arberry's translation reads "admonish; banish them to their couches, and beat them.["\[277\]](#page-95-0)
-
-The Dutch film [Submission](https://en.wikipedia.org/wiki/Submission_(2004_film)), which rose to fame outside the Netherlands after the assassination of its director [Theo van](https://en.wikipedia.org/wiki/Theo_van_Gogh_(film_director)) [Gogh](https://en.wikipedia.org/wiki/Theo_van_Gogh_(film_director)) by Muslim extremist [Mohammed Bouyeri,](https://en.wikipedia.org/wiki/Mohammed_Bouyeri) critiqued this and similar verses of the Quran by displaying them painted on the bodies of abused Muslim women[.\[278\]](#page-95-1) [Ayaan Hirsi Ali,](https://en.wikipedia.org/wiki/Ayaan_Hirsi_Ali) the film's writer, said "it is written in the Koran a woman may be slapped if she is disobedient. This is one of the evils I wish to point out in the film"[.\[279\]](#page-95-2)
-
-Scholars of Islam have a variety of responses to these criticisms. (See [An-Nisa, 34](https://en.wikipedia.org/wiki/An-Nisa,_34) for a fuller exegesis on the meaning of the text.) Some Muslim scholars say that the "striking" allowed is limited to no more than a light touch by siwak, or toothbrush[.\[280\]](#page-95-3)[\[281\]](#page-95-4) Some Muslims argue that striking is only appropriate if a woman has done "an unrighteous, wicked and rebellious act" beyond mere disobedience[.\[282\]](#page-95-5) In many modern interpretations of the Quran, the actions prescribed in 4:34 are to be taken in sequence, and striking is only to be used as a last resort.[\[283\]](#page-95-6) [\[284\]](#page-96-0)[\[285\]](#page-96-1)
-
-Many Islamic scholars and commentators have emphasized that striking, where permitted, is not to be harsh[\[286\]](#page-96-2)[\[287\]](#page-97-0)[\[288\]](#page-97-1) or even that it should be "more or less symbolic."[\[289\]](#page-97-2) According to [Abdullah Yusuf Ali](https://en.wikipedia.org/wiki/Abdullah_Yusuf_Ali) and [Ibn Kathir,](https://en.wikipedia.org/wiki/Ibn_Kathir) the consensus of Islamic scholars is that the above verse describes a light striking[.\[290\]](#page-97-3)[\[291\]](#page-97-4)
-
-Some jurists argue that even when striking is acceptable under the Quran, it is still discountenanced[.\[292\]](#page-97-5)[\[293\]](#page-97-6)[\[294\]](#page-98-0)
-
-Shabbir Akhtar has argued that the Quran introduced prohibitions against "the pre-Islamic practice of female infanticide" [\(16:58,](https://web.archive.org/web/20121026012552/http://www.usc.edu/org/cmje/religious-texts/quran/verses/016-qmt.php#016.058) [17:31,](https://web.archive.org/web/20160523003706/http://www.usc.edu/org/cmje/religious-texts/quran/verses/017-qmt.php#017.031) [81:8\)](https://web.archive.org/web/20160304094957/http://www.usc.edu/org/cmje/religious-texts/quran/verses/081-qmt.php#081.008)[,\[295\]](#page-98-1) which is intended to provide a basis for the rights of women.
-
-Max I. Dimont interprets that the houris described in the Quran are specifically dedicated to "male pleasure"[.\[296\]](#page-98-2) Alternatively, [Annemarie Schimmel](https://en.wikipedia.org/wiki/Annemarie_Schimmel) says that the Quranic description of the houris should be viewed in a context of love; "every pious man who lives according to God's order will enter Paradise where rivers of milk and honey flow in cool, fragrant gardens and virgin beloveds await home...["\[297\]](#page-98-3)
-
-Under [the Syro-Aramaic Reading of the Quran](https://en.wikipedia.org/wiki/The_Syro-Aramaic_Reading_of_the_Quran) by [Christoph](https://en.wikipedia.org/wiki/Christoph_Luxenberg) [Luxenberg,](https://en.wikipedia.org/wiki/Christoph_Luxenberg) the words translating to "Houris" or "Virgins of Paradise" are instead interpreted as "Fruits (grapes)" and "high climbing (wine) bowers... made into first fruits."[\[298\]](#page-98-4) Luxenberg offers alternate interpretations of these Quranic verses, including the idea that the Houris should be seen as having a specifically spiritual nature rather than a human nature; "these are all very sensual ideas; but there are also others of a different kind... what can be the object of cohabitation in Paradise as there can be no question of its purpose in the world, the preservation of the race. The solution of this difficulty is found by saying that, although heavenly food, women etc.., have the name in common with their earthly equivalents, it is only by way of metaphorical indication and comparison without actual identity... authors have spiritualized the Houris.["\[298\]](#page-98-4)
-
-## **Christians and Jews in the Quran**
-
-## [\[edit\]](https://en.wikipedia.org/w/index.php?title=Criticism_of_the_Quran&action=edit§ion=36)
-
-The Quran mentions more than 50 people [previously](https://en.wikipedia.org/wiki/List_of_people_in_both_the_Bible_and_the_Quran) [mentioned in the Bible,](https://en.wikipedia.org/wiki/List_of_people_in_both_the_Bible_and_the_Quran) which predates it by several centuries.
-
-[Jane Gerber](https://en.wikipedia.org/wiki/Jane_Gerber) claims that the Quran ascribes negative traits to Jews, such as cowardice, greed, and chicanery. She also alleges that the Quran associates Jews with interconfessional strife and rivalry [\(Quran 2:113\)](https://en.wikipedia.org/wiki/Quran_2:113)[,\[299\]](#page-98-5) the Jewish belief that they alone are beloved of God [\(Quran](https://en.wikipedia.org/wiki/Quran) [5:18\)](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2002.02.0006%3Asura%3D5%3Averse%3D18), and that only they will achieve salvation [\(Quran 2:111\)](https://en.wikipedia.org/wiki/Quran_2:111)[.\[300\]](#page-98-6) According to the [Encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia_Judaica) [Judaica](https://en.wikipedia.org/wiki/Encyclopedia_Judaica), the Quran contains many attacks on Jews and Christians for their refusal to recognize [Muhammad](https://en.wikipedia.org/wiki/Muhammad) as a prophet[.\[301\]](#page-98-7) In the Muslim view, the [crucifixion of Jesus](https://en.wikipedia.org/wiki/Crucifixion_of_Jesus) was an illusion, and thus the Jewish plots against him ended in failure. [\[302\]](#page-99-0) In numerous verse[s\[303\]](#page-99-1) the Quran accuses Jews of [altering the Scripture.](https://en.wikipedia.org/wiki/Tahrif) [\[304\]](#page-99-2) [Karen Armstrong](https://en.wikipedia.org/wiki/Karen_Armstrong) claims that there are "far more numerous passages in the Quran" which speak positively of the [Jews](https://en.wikipedia.org/wiki/Jew) and their great prophets, than those which were against the "rebellious Jewish tribes of Medina" (during Muhammad's time)[.\[305\]](#page-99-3) [Sayyid Abul Ala](https://en.wikipedia.org/wiki/Abul_Ala_Maududi) believes the punishments were not meant for all Jews, and that they were only meant for the Jewish inhabitants that were sinning at the time[.\[305\]](#page-99-3) According to historian [John Tolan,](https://en.wikipedia.org/wiki/John_V._Tolan) the Quran contains a verse which criticizes the Christian worship of [Jesus Christ](https://en.wikipedia.org/wiki/Jesus_Christ) as God, and also criticizes other practices and doctrines of both Judaism and Christianity. Despite this, the Quran has high praise for these religions, regarding them as the other two members of the Abrahamic triad[.\[306\]](#page-99-4)
-
-The Christian doctrine of the [Trinity](https://en.wikipedia.org/wiki/Trinity) states that God is a single being who exists, simultaneously and eternally, as a communion of three distinct persons, the Father, the Son and the Holy Spirit. In Islam, such [plurality in God](https://en.wikipedia.org/wiki/Islamic_view_of_the_Trinity) is considered a denial of [monotheism](https://en.wikipedia.org/wiki/Tawhid) and thus a [sin](https://en.wikipedia.org/wiki/Islamic_views_on_sin) of [shirk,](https://en.wikipedia.org/wiki/Shirk_(Islam)) [\[307\]](#page-99-5) which is considered to be a major 'al-Kaba'ir' sin[.\[308\]](#page-99-6)[\[309\]](#page-99-7)
-
-In the Quran, polytheism is considered the [eternal sin](https://en.wikipedia.org/wiki/Eternal_sin) of [shirk,](https://en.wikipedia.org/wiki/Shirk_(Islam)) [\[310\]](#page-99-8) meaning that Jews and Christians, which the Quran calls polytheists (see below), will not be pardoned by God if they do not repent of shirk[.\[311\]](#page-99-9)
-
-The Quran states that Jews are exalting [Ezra](https://en.wikipedia.org/wiki/Ezra) as a son of God and for taking their rabbis as "their lords in derogation of God", [\(Quran](https://en.wikipedia.org/wiki/Quran) [9:30\)](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2002.02.0006%3Asura%3D9%3Averse%3D30) and should believe in Islam lest a punishment befalls them that turns them into "apes and pigs".
-
-[\(Quran](https://en.wikipedia.org/wiki/Quran) [5:60\)](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2002.02.0006%3Asura%3D5%3Averse%3D60)[\(Quran](https://en.wikipedia.org/wiki/Quran) [7:166\)](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2002.02.0006%3Asura%3D7%3Averse%3D166)[\[312\]](#page-99-10)
-
-Hindu Swami [Dayanand Saraswati](https://en.wikipedia.org/wiki/Dayanand_Saraswati) gave a brief analysis of the Quran in the 14th chapter of his 19th-century book [Satyarth](https://en.wikipedia.org/wiki/Satyarth_Prakash) [Prakash.](https://en.wikipedia.org/wiki/Satyarth_Prakash) He calls the concept of Islam highly offensive, and doubted that there is any connection of Islam with God:
-
-Had the God of the Quran been the Lord of all creatures, and been Merciful and kind to all, he would never have commanded the Muhammedans to slaughter men of other faiths, and animals, etc. If he [God] is Merciful, won't he show mercy even to the sinners? If the answer be given in the affirmative, it [the Quran] cannot be true, because further on it is said in the Quran "Put infidels to the sword," in other words, he that does not believe in the Quran, and Muhammad is an infidel [he should, therefore, be put to death]. Since the Quran sanctions such cruelty to non-Muslims and innocent creatures such as cows it can never be the Word of God.[\[313\]](#page-99-11)
-
-On the other hand, [Mahatma Gandhi,](https://en.wikipedia.org/wiki/Mahatma_Gandhi) the moral leader of the 20th-century Indian independence movement, found the significance of non-violence in the Quran, but the history of Muslims to be aggressive, which is criticized by Muslims themselves based on Quranic consultative concept of [Shura,](https://en.wikipedia.org/wiki/Shura) [\[314\]](#page-99-12) while he claimed that Hindus have passed that stage of societal evolution:
-
-Though, in my opinion, non-violence has a predominant place in the Quran, the thirteen hundred years of imperialistic expansion has made the Muslims fighters as a body. They are therefore aggressive. Bullying is the natural excrescence of an aggressive spirit. The Hindu has an ages old civilization. He is essentially non violent. His civilization has passed through the experiences that the two recent ones are still passing through. If Hinduism was ever imperialistic in the modern sense of the term, it has outlived its imperialism and has either deliberately or as a matter of course given it up. Predominance of the nonviolent spirit has restricted the use of arms to a small minority which must always be subordinate to a civil power, highly spiritual, learned, and selfless[.\[315\]](#page-100-0)[\[316\]](#page-100-1)
-
-- • [Apostasy in Islam](https://en.wikipedia.org/wiki/Apostasy_in_Islam)
-- [Bibliolatry](https://en.wikipedia.org/wiki/Bibliolatry)
-- [Censorship in Islamic societies](https://en.wikipedia.org/wiki/Censorship_in_Islamic_societies)
-
-- [Criticism of Hadith](https://en.wikipedia.org/wiki/Criticism_of_Hadith)
-- [Criticism of Islam](https://en.wikipedia.org/wiki/Criticism_of_Islam)
-- [Criticism of Muhammad](https://en.wikipedia.org/wiki/Criticism_of_Muhammad)
-- [Homosexuality and Islam](https://en.wikipedia.org/wiki/Homosexuality_and_Islam)
-- [Islam and antisemitism](https://en.wikipedia.org/wiki/Islam_and_antisemitism)
-- [Islam and domestic violence](https://en.wikipedia.org/wiki/Islam_and_domestic_violence)
-- [Islamic terrorism](https://en.wikipedia.org/wiki/Islamic_terrorism)
-- [Islamic views on slavery](https://en.wikipedia.org/wiki/Islamic_views_on_slavery)
-- [Islamofascism](https://en.wikipedia.org/wiki/Islamofascism)
-- [Quran desecration](https://en.wikipedia.org/wiki/Quran_desecration)
-- [Attempted imitations of the Quran](https://en.wikipedia.org/wiki/Attempted_imitations_of_the_Quran)
-- [The Syro-Aramaic Reading of the Koran](https://en.wikipedia.org/wiki/The_Syro-Aramaic_Reading_of_the_Koran)
-- [Violence in the Quran](https://en.wikipedia.org/wiki/Violence_in_the_Quran)
-- [War against Islam](https://en.wikipedia.org/wiki/War_against_Islam)
-- [Women in Islam](https://en.wikipedia.org/wiki/Women_in_Islam)
-- 1. ^ Muhammad relayed God's revelation to the early Muslims, and many of his contemporary nonbelievers/opponents maintained he (Muhammad) was the true origin of the Quran. Numerous verses of the Quran (Q.6:50, 7:203, 10:15, 10:37, 10:109, 13:38 and 33:2) vehemently deny that the Qur'an was Muhammad's own work, or that he was doing anything other than following what was revealed to him by God.[\[4\]](#page-68-8)
-- 2. ^ (umm al-kitab[,43:4](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2002.02.0006%3Asura%3D43%3Averse%3D4) and [13:39\)](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2002.02.0006%3Asura%3D13%3Averse%3D39), also "well-guarded tablet" (lawh mahfuz verse [85:22\)](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2002.02.0006%3Asura%3D85%3Averse%3D22) and "concealed book" (kitab maknun [56:78\)](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2002.02.0006%3Asura%3D56%3Averse%3D78)
-
-- 3. ^ As God's speech, the Quran was not created or written by God but is an "uncreated" attribute of God
-- 4. ^ professor emeritus of Islamic thought at the University of Paris, Algerian Mohammed Arkoun[.\[1\]](#page-68-0)
-- 5. ^ naskh applies also to contradictory [hadith,](https://en.wikipedia.org/wiki/Hadith) and to Quranic verses and hadith that contradict each other
-- 6. ^ Biblical scholar John William Burgon: "The Bible is none other than the voice of Him that sitteth upon the Throne! Every Book of it, every Chapter of it, every Verse of it, every word of it, every syllable of it ... every letter of it, is the direct utterance of the Most High!["\[1\]](#page-68-0)
-- 7. ^ who was "charged with blasphemy, forced to withdraw his book, and lost from his university post" after publishing a book questioning the historical veracity of the Quran (Fi'ish-Shi-r al-Jahili[\)\[34\]](#page-71-7)[\[35\]](#page-71-8)[\[36\]](#page-71-9)
-- 8. ^ "... when the Arab scholar Suliman Bashear argued that Islam developed as a religion gradually rather than emerging fully formed from the mouth of the Prophet, he was injured after being thrown from a second-story window by his students at the [University of Nablus](https://en.wikipedia.org/wiki/An-Najah_National_University) in the West Bank[.\[40\]](#page-71-10)[\[41\]](#page-71-11)
-- 9. ^ For example: Zaid b. Thabit said: It is reported... from Ibn Buraidah who said: The first of those to collect the Qur'an into a mushaf [\(codex\)](https://en.wikipedia.org/wiki/Codex) was Salim, the freed slave of [Abu Hudhaifah.](https://en.wikipedia.org/wiki/Abu_Hudhaifah_ibn_al-Mughirah) [\[49\]](#page-72-5)
-
-10. ^
-
-The Prophet died and the Qur'an had not been assembled into a single place[.\[50\]](#page-72-6)
-
-It is reported... from Ali who said:
-
-May the mercy of Allah be upon Abu Bakr, the foremost of men to be rewarded with the collection of the manuscripts, for he was the first to collect (the text) between (two) covers.[\[51\]](#page-72-7)
-
-- 11. ^ although Qira'at should not be confused with [Tajwid](https://en.wikipedia.org/wiki/Tajwid)—the rules of [pronunciation,](https://en.wikipedia.org/wiki/Pronunciation) [intonation,](https://en.wikipedia.org/wiki/Intonation_(linguistics)) and [caesuras](https://en.wikipedia.org/wiki/Caesura) of the Quran.
-- 12. ^ Qira'at now each have their own text in modern Arabic script. Most of the varieties are not commonly used but can be found on pdf with English translation at quranflash.com - <https://app.quranflash.com/?en>
+Quranic verses related to the [origin of mankind](https://en.wikipedia.org/wiki/Human_evolution) created from dust or mud are not logically compatible with [modern](https://en.wikipedia.org/wiki/Evolution) [evolutionary theory.](https://en.wikipedia.org/wiki/Evolution) [\[242\]](#page-90-6)[\[243\]](#page-90-7) Although some Muslims try to reconcile evolution with the Quran by the argument from [intelligent design,](https://en.wikipedia.org/wiki/Intelligent_design) the Quran (and the hadiths) can be interpreted to support the idea of [creationism.](https://en.wikipedia.org/wiki/Creationism) This led to a contribution by Muslims to the [creation vs. evolution debate,](https://en.wikipedia.org/wiki/Creation_vs._evolution_debate) [\[244\]](#page-90-8) with some high-profile Muslim preachers [\(Zakir Naik,](https://en.wikipedia.org/wiki/Zakir_Naik) [Adnan Oktar,](https://en.wikipedia.org/wiki/Adnan_Oktar) [Yasir Qadhi\)](https://en.wikipedia.org/wiki/Yasir_Qadhi) advocating for [creationism](https://en.wikipedia.org/wiki/Creationism) and/or maintaining that the theory of evolution contradicts the teachings of the Quran[.\[245\]](#page-90-9) According to opinion polls, most Muslims do not accept the theory of evolution, the percentage varying among countries (from 
 - 13. ^ The maṣḥaf Quran that is in "general use" throughout almost all the Muslim world today (about 95% according to Muslimprophets website)[,\[56\]](#page-73-7) is a [1924 Egyptian edition](https://en.wikipedia.org/wiki/1924_Egyptian_edition) based on the Qira'at "reading of Ḥafṣ on the authority of `Asim" (Ḥafṣ being the Rawi, or "transmitter", and `Asim being the Qari or "reader")[.\[57\]](#page-73-8)
 - 14. ^ Several verses in the Quran -- such as the one below - challenged unbelievers to produce something like the Qur'an:
  - "If men and Jin banded together to produce the like of this Qur'an they would never produce its like not though they backed one another."(17:88[\)\[102\]](#page-78-10)
@@ -771,19 +660,19 @@ May the mercy of Allah be upon Abu Bakr, the foremost of men to be rewarded with
 - 135. ^ Jump up to: **a b** Churton, Tobias (9 September 2009). The Invisible History of the Rosicrucians. Inner Traditions / Bear &
 
 - Co. pp. 26-7. ISBN 9781594779312.
-- 136. <u>^ Dashti, 23 Years, 1994</u>: p.150
-- 137. <u>^ Dundes, Fables of the Ancients?, 2003</u>: p.47
-- 138. <u>^</u> Haleem, Muhammad Abdel. 1992 "Grammatical Shift for Rhetorical Purposes: *Iltifat* and Related Features in the Qur'an", *Bulletin of the School of Oriental and African Studies* v.55 pp.407-32
-- 139. <u>^</u> Haleem, Muhammad Abdel. 2001. *Understanding the Qur'an: Themes and Style*, London: I. B. Tauris, pp.184-210
+- 136. ^ Dashti, 23 Years, 1994: p.150
+- 137. ^ Dundes, Fables of the Ancients?, 2003: p.47
+- 138. ^ Haleem, Muhammad Abdel. 1992 "Grammatical Shift for Rhetorical Purposes: *Iltifat* and Related Features in the Qur'an", *Bulletin of the School of Oriental and African Studies* v.55 pp.407-32
+- 139. ^ Haleem, Muhammad Abdel. 2001. *Understanding the Qur'an: Themes and Style*, London: I. B. Tauris, pp.184-210
 - 140. ^ Jump up to: a b c d e f Ibn Warraq, Why I Am Not a Muslim,
 
  1995: p.106
-- 141. <u>^ Dashti, 23 Years, 1994</u>: p.148
-- 142. <u>^ Dashti, 23 Years, 1994</u>: p.109
-- 143. <u>https://linearch.org.org/143.</u> <u>https://doi.org/143.2016/143.</u> <u>https://doi.org/143.2016/143.2016/143.</u>
-- 144. <u>^ Dashti, 23 Years, 1994</u>: p.149
-- 145. <u>^ "Quran Surah Al-Hijr ( Verse 87 ) with English Translation وَلَقَدْ</u> IReBD.com.
-- 146. <u>^</u> Bell, Richard; Watt, William Montgomery (1970). Bell's introduction to the Qur'ān. Edinburgh University Press. pp. 66-67. ISBN 978-0-7486-0597-2., and note.10
+- 141. ^ Dashti, 23 Years, 1994: p.148
+- 142. ^ Dashti, 23 Years, 1994: p.109
+- 143. https://linearch.org.org/143. https://doi.org/143.2016/143. https://doi.org/143.2016/143.2016/143.
+- 144. ^ Dashti, 23 Years, 1994: p.149
+- 145. ^ "Quran Surah Al-Hijr ( Verse 87 ) with English Translation وَلَقَدْ IReBD.com.
+- 146. ^ Bell, Richard; Watt, William Montgomery (1970). Bell's introduction to the Qur'ān. Edinburgh University Press. pp. 66-67. ISBN 978-0-7486-0597-2., and note.10
 - 147. \_ "Amending The Quran," by Saudi journalist Ahmad Hashem in the "Saudi Opinions" website, 10 January 2020; quoted in "Articles In Saudi Press Call To Amend Thousands Of Scribal Errors In The Quran, Reexamine Islamic Texts In Light Of Modern Perceptions". memri. 18 August 2020. Retrieved 8 September 2020.
 
 - 148. ^ ["Articles In Saudi Press Call To Amend Thousands Of Scribal](https://www.memri.org/reports/articles-saudi-press-call-amend-thousands-scribal-errors-quran-reexamine-islamic-texts-light) [Errors In The Quran, Reexamine Islamic Texts In Light Of](https://www.memri.org/reports/articles-saudi-press-call-amend-thousands-scribal-errors-quran-reexamine-islamic-texts-light) [Modern Perceptions".](https://www.memri.org/reports/articles-saudi-press-call-amend-thousands-scribal-errors-quran-reexamine-islamic-texts-light) memri. 18 August 2020. Retrieved 8 September 2020.

@@ -1,3 +1,8 @@
+---
+title: "## [esquire.com](https://www.esquire.com/news-politics/a43774075/artificial-intelligence-digital-imm"
+category: "arts-culture-music"
+---
+
 ## [esquire.com](https://www.esquire.com/news-politics/a43774075/artificial-intelligence-digital-immortality/)
 
 ## **Are We Ready for AI to Raise the Dead?**

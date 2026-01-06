@@ -1,3 +1,8 @@
+---
+title: "## **The Origins of Collective Decision-Making by Andy Blunden**"
+category: "theory"
+---
+
 ## **The Origins of Collective Decision-Making by Andy Blunden**
 
 ## **Date:** Unknown

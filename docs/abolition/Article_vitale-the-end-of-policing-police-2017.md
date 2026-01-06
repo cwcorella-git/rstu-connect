@@ -1,13 +1,8 @@
 ---
-title: Vitale the End of Policing Police 2017
-date: 2025
-author: Alex S. Vitale
-tags:
-  - organizing
-  - strikes
-  - unions
-  - tenants
-  - housing
+title: "Vitale the End of Policing Police 2017"
+author: "Alex S. Vitale"
+date: "2025"
+category: "abolition"
 ---
 
 # Vitale the End of Policing Police 2017

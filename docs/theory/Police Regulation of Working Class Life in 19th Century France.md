@@ -1,16 +1,10 @@
 ---
-title: Police Regulation Of Working Class Life In 19Th
-author: Century France
-slug: Police Regulation of Working Class Life in 19th Century France
-reconversion_status: ready_for_reconversion
-date: 1851
-tags:
-  - theory
-  - anarchism
-  - police
-  - labor
-  - organizing
+title: "Police Regulation Of Working Class Life In 19Th"
+author: "Century France"
+date: "1851"
+category: "theory"
 ---
+
 ## **Police Regulation of Working Class Life in 19th Century France**
 
 ## **Date:** Unknown

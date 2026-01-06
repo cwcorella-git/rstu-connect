@@ -1,3 +1,8 @@
+---
+title: "## **Theses On Feuerbach**"
+category: "contemporary-analysis"
+---
+
 ## **Theses On Feuerbach**
 
 ## **[Download PDF](https://www.marxists.org/archive/marx/works/1845/theses/theses.pdf)**

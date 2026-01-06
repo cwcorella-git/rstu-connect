@@ -1,3 +1,8 @@
+---
+title: "**Freetown**"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_2.jpeg)
 
 # **Freetown**
@@ -66,22 +71,39 @@ In 1791, [Thomas Peters,](https://en.wikipedia.org/wiki/Thomas_Peters_(revolutio
 
 During his visit, Peters met with the directors of the [Sierra Leone Company](https://en.wikipedia.org/wiki/Sierra_Leone_Company) and learned of proposals for a new settlement at Sierra Leone. Despite the collapse of the 1787 colony, the directors were eager to recruit settlers to Sierra Leone. [Lieutenant John Clarkson, RN,](https://en.wikipedia.org/wiki/Lieutenant_John_Clarkson,_RN) who was an abolitionist, was sent to Nova Scotia in [British North America](https://en.wikipedia.org/wiki/British_North_America) to register immigrants to take to Sierra Leone for a new settlement.
 
-| Country | Sierra<br>Leone |
+| Country | Sierra
+Leone |
 |---------------------------------|---------------------------------------------------|
-| Region | Western<br>Area |
-| District | Western<br>Area Urban<br>District |
-| Founded | March 11,<br>1792 |
+| Region | Western
+Area |
+| District | Western
+Area Urban
+District |
+| Founded | March 11,
+1792 |
 | Government | |
-| • Type<br>• Mayor | City council<br>Yvonne Aki<br>Sawyerr[1]<br>(APC) |
+| • Type
+• Mayor | City council
+Yvonne Aki
+Sawyerr[1]
+(APC) |
 | Area[2] | |
-| • Capital city and municipality | 82.48 km2<br>(31.85 sq mi) |
+| • Capital city and municipality | 82.48 km2
+(31.85 sq mi) |
 | Elevation | 26 m (85 ft) |
 | Population (2024 Census[3]) | |
 | • Capital city and municipality | 1,347,559 |
-| • Density<br>• Metro | 16,340/km2<br>(42,320/<br>sq mi)<br>1,500,234 |
-| Time zone | UTC±00:00<br>(GMT) |
+| • Density
+• Metro | 16,340/km2
+(42,320/
+sq mi)
+1,500,234 |
+| Time zone | UTC±00:00
+(GMT) |
 | Climate | Am |
-| Website | fcc.gov.sl (ht<br>tps://fcc.go<br>v.sl/) |
+| Website | fcc.gov.sl (ht
+tps://fcc.go
+v.sl/) |
 
 Tired of the harsh weather and racial discrimination in Nova Scotia, more than 1,100 former American slaves chose to go to Sierra Leone. They sailed in 15 ships and arrived in St. George Bay between 26 February – 9 March 1792.[\[13\]](#page-9-12) Sixty-four settlers died en route to Sierra Leone, and Lieutenant Clarkson was among those taken ill during the voyage. Upon reaching Sierra Leone, Clarkson and some of the Nova Scotian 'captains' "dispatched on shore to clear or make roadway for their landing". The Nova Scotians were to build Freetown on the former site of the first Granville Town, where jungle had taken over since its destruction in 1789. Its surviving Old Settlers had relocated to Fourah Bay in 1791.
 
@@ -152,15 +174,116 @@ Freetown's high [humidity](https://en.wikipedia.org/wiki/Humidity) is somewhat r
 | Climate data for Freetown, Sierra Leone (1961–1990, extremes 1947–1990) | | | | | | | | | | | | | |
 |-------------------------------------------------------------------------|----------------------------------------------------------------|-----------------|-----------------|-----------------|-----------------|------------------|------------------|------------------|------------------|------------------|-----------------|----------------|-------------------|
 | Month | Jan | Feb | Mar | Apr | May | Jun | Jul | Aug | Sep | Oct | Nov | Dec | Year |
-| Record<br>high °C<br>(°F) | 36.0<br>(96.8) | 38.0<br>(100.4) | 38.0<br>(100.4) | 38.5<br>(101.3) | 35.0<br>(95.0) | 35.0<br>(95.0) | 33.0<br>(91.4) | 32.0<br>(89.6) | 31.0<br>(87.8) | 35.0<br>(95.0) | 36.5<br>(97.7) | 33.5<br>(92.3) | 38.5<br>(101.3) |
-| Mean<br>daily<br>maximum<br>°C (°F) | 29.9<br>(85.8) | 30.3<br>(86.5) | 30.9<br>(87.6) | 31.2<br>(88.2) | 30.9<br>(87.6) | 30.1<br>(86.2) | 28.7<br>(83.7) | 28.4<br>(83.1) | 29.0<br>(84.2) | 29.9<br>(85.8) | 30.1<br>(86.2) | 29.7<br>(85.5) | 29.9<br>(85.9) |
-| Daily<br>mean °C<br>(°F) | 27.3<br>(81.1) | 27.6<br>(81.7) | 28.1<br>(82.6) | 28.5<br>(83.3) | 28.3<br>(82.9) | 27.4<br>(81.3) | 26.3<br>(79.3) | 25.9<br>(78.6) | 26.4<br>(79.5) | 27.1<br>(80.8) | 27.7<br>(81.9) | 27.5<br>(81.5) | 27.3<br>(81.2) |
-| Mean<br>daily<br>minimum<br>°C (°F) | 23.8<br>(74.8) | 24.0<br>(75.2) | 24.4<br>(75.9) | 24.8<br>(76.6) | 24.4<br>(75.9) | 23.6<br>(74.5) | 23.1<br>(73.6) | 23.0<br>(73.4) | 23.1<br>(73.6) | 23.4<br>(74.1) | 24.0<br>(75.2) | 24.1<br>(75.4) | 23.8<br>(74.9) |
-| Record<br>low °C<br>(°F) | 15.0<br>(59.0) | 17.8<br>(64.0) | 19.4<br>(66.9) | 20.0<br>(68.0) | 20.6<br>(69.1) | 20.0<br>(68.0) | 19.4<br>(66.9) | 19.4<br>(66.9) | 20.0<br>(68.0) | 19.4<br>(66.9) | 20.0<br>(68.0) | 15.6<br>(60.1) | 15.0<br>(59.0) |
-| Average<br>rainfall<br>mm<br>(inches) | 8.0<br>(0.31) | 6.0<br>(0.24) | 28.0<br>(1.10) | 68.0<br>(2.68) | 214.0<br>(8.43) | 522.0<br>(20.55) | 1,190<br>(46.85) | 1,078<br>(42.44) | 800.0<br>(31.50) | 333.0<br>(13.11) | 148.0<br>(5.83) | 38.0<br>(1.50) | 4,433<br>(174.54) |
-| Average<br>rainy<br>days | 0 | 0 | 1 | 4 | 15 | 22 | 27 | 27 | 24 | 21 | 9 | 2 | 152 |
-| Average<br>relative<br>humidity<br>(%) | 66 | 67 | 67 | 68 | 73 | 76 | 81 | 82 | 80 | 78 | 76 | 69 | 74 |
-| Mean<br>monthly<br>sunshine<br>hours | 226.3 | 215.6 | 232.5 | 207.0 | 189.1 | 153.0 | 102.3 | 86.8 | 126.0 | 186.0 | 198.0 | 161.2 | 2,083.8 |
+| Record
+high °C
+(°F) | 36.0
+(96.8) | 38.0
+(100.4) | 38.0
+(100.4) | 38.5
+(101.3) | 35.0
+(95.0) | 35.0
+(95.0) | 33.0
+(91.4) | 32.0
+(89.6) | 31.0
+(87.8) | 35.0
+(95.0) | 36.5
+(97.7) | 33.5
+(92.3) | 38.5
+(101.3) |
+| Mean
+daily
+maximum
+°C (°F) | 29.9
+(85.8) | 30.3
+(86.5) | 30.9
+(87.6) | 31.2
+(88.2) | 30.9
+(87.6) | 30.1
+(86.2) | 28.7
+(83.7) | 28.4
+(83.1) | 29.0
+(84.2) | 29.9
+(85.8) | 30.1
+(86.2) | 29.7
+(85.5) | 29.9
+(85.9) |
+| Daily
+mean °C
+(°F) | 27.3
+(81.1) | 27.6
+(81.7) | 28.1
+(82.6) | 28.5
+(83.3) | 28.3
+(82.9) | 27.4
+(81.3) | 26.3
+(79.3) | 25.9
+(78.6) | 26.4
+(79.5) | 27.1
+(80.8) | 27.7
+(81.9) | 27.5
+(81.5) | 27.3
+(81.2) |
+| Mean
+daily
+minimum
+°C (°F) | 23.8
+(74.8) | 24.0
+(75.2) | 24.4
+(75.9) | 24.8
+(76.6) | 24.4
+(75.9) | 23.6
+(74.5) | 23.1
+(73.6) | 23.0
+(73.4) | 23.1
+(73.6) | 23.4
+(74.1) | 24.0
+(75.2) | 24.1
+(75.4) | 23.8
+(74.9) |
+| Record
+low °C
+(°F) | 15.0
+(59.0) | 17.8
+(64.0) | 19.4
+(66.9) | 20.0
+(68.0) | 20.6
+(69.1) | 20.0
+(68.0) | 19.4
+(66.9) | 19.4
+(66.9) | 20.0
+(68.0) | 19.4
+(66.9) | 20.0
+(68.0) | 15.6
+(60.1) | 15.0
+(59.0) |
+| Average
+rainfall
+mm
+(inches) | 8.0
+(0.31) | 6.0
+(0.24) | 28.0
+(1.10) | 68.0
+(2.68) | 214.0
+(8.43) | 522.0
+(20.55) | 1,190
+(46.85) | 1,078
+(42.44) | 800.0
+(31.50) | 333.0
+(13.11) | 148.0
+(5.83) | 38.0
+(1.50) | 4,433
+(174.54) |
+| Average
+rainy
+days | 0 | 0 | 1 | 4 | 15 | 22 | 27 | 27 | 24 | 21 | 9 | 2 | 152 |
+| Average
+relative
+humidity
+(%) | 66 | 67 | 67 | 68 | 73 | 76 | 81 | 82 | 80 | 78 | 76 | 69 | 74 |
+| Mean
+monthly
+sunshine
+hours | 226.3 | 215.6 | 232.5 | 207.0 | 189.1 | 153.0 | 102.3 | 86.8 | 126.0 | 186.0 | 198.0 | 161.2 | 2,083.8 |
 | | Source 1: NOAA,[22][23] Deutscher Wetterdienst (extremes),[24] | | | | | | | | | | | | |
 | Source 2: Worldwide Bioclimatic Classification System[25] | | | | | | | | | | | | | |
 
@@ -316,7 +439,8 @@ Eight of the fifteen clubs in the [Sierra Leone National Premier League](https:/
 
 Freetown is officially [twinned](https://en.wikipedia.org/wiki/List_of_twin_towns_and_sister_cities_in_Africa) with five cities:
 
-| City | Province / Region /<br>State | Country | Year | Ref |
+| City | Province / Region /
+State | Country | Year | Ref |
 |--------------------|------------------------------|---------|------|------|
 | Charleston | South Carolina | | 2019 | [47] |
 | Hefei | Anhui | | 1984 | [48] |

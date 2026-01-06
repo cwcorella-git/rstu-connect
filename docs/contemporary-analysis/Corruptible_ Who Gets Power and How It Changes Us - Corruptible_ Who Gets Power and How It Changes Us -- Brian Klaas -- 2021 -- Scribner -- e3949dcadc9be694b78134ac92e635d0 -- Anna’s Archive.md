@@ -1,3 +1,8 @@
+---
+title: "WHO GETS POWER AND HOW IT CHANGES US"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 # WHO GETS POWER AND HOW IT CHANGES US
@@ -628,7 +633,9 @@ Of the 500 largest corporations in the United States, 468 are run by a man. That
 
 In the United States, white men comprise roughly 30 percent of the total population. Yet, 431 of the 500 Fortune 500 CEOs are white men, representing 86 percent of the overall total. In fact, the number of white male Fortune 500 CEOs named John or Jon (27) equals the number of Asian CEOs (16) and Latino CEOs (11) combined. Only four black CEOs are on the list. None of the Latino or Black CEOs are women. In the table below, you'll see the dierence between the reality of Fortune 500 CEO representation and that respective demographic within the US population.
 
-| Demographic | Approximate Percentage of US<br>Population | Percentage of Fortune 500<br>CEOs |
+| Demographic | Approximate Percentage of US
+Population | Percentage of Fortune 500
+CEOs |
 |-------------------|--------------------------------------------|-----------------------------------|
 | Men | 50 | 94 |
 | White men + women | 60 | 92 |
@@ -2144,7 +2151,7 @@ BRIAN KLAAS grew up in Minnesota, earned his DPhil at Oxford, and is now a profe
 
 #### "no haircut": Ibid.
 
-<sup>&</sup>quot;Perhaps they won't remember?": "Six Tongan Castaways in 'Ata Island."
+&quot;Perhaps they won't remember?": "Six Tongan Castaways in 'Ata Island."
 
 - sky-high economic growth: World Bank Data, "Madagascar: GDP Growth (Annual %), https://data.worldbank.org/indicator/NY. GDP. MKTP. KD. ZG?locations=MG.
 - "make important decisions": Marc Ravalomanana, former president of Madagascar, personal interview, 9 May 2016, Antananarivo, Madagascar.
@@ -2687,11 +2694,11 @@ frequently groomed: Ibid.
 
 "army were blockaded": Ernest Rhys, ed., Livy's History of Rome: Book 3 (London: J. M. Dent & Sons, 1905), http://mcadams.posc.mu.edu/txt/ah/Livy/Livy03.html.
 
-<sup>&</sup>quot;intent on his husbandry": Ibid.
+&quot;intent on his husbandry": Ibid.
 
-<sup>&</sup>quot;resigned on the sixteenth day": Ibid.
+&quot;resigned on the sixteenth day": Ibid.
 
-<sup>&</sup>quot;opposite practices in everything": Dionysius of Halicarnassus, Roman Antiquities, bk. 10, chap. 17.6.
+&quot;opposite practices in everything": Dionysius of Halicarnassus, Roman Antiquities, bk. 10, chap. 17.6.
 
 ### Index
 

@@ -1,3 +1,8 @@
+---
+title: "## **Teleseminar Transcript: "Just Transition" with Mateo Nube of Movement Generation**"
+category: "organizing"
+---
+
 ## **Teleseminar Transcript: "Just Transition" with Mateo Nube of Movement Generation**
 
 | Date: Wed, 03/02/2016 - 18:53 |
@@ -149,11 +154,18 @@ So those are a couple examples, I could give more. I think the final thing I wan
 | More questions… |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Participant: |
-| Mateo said something along the lines that he thinks there should be land reform, and my<br>question is what is he suggesting. |
+| Mateo said something along the lines that he thinks there should be land reform, and my
+question is what is he suggesting. |
 | Participant: |
-| I've got another seminar in about an hour with John Mackey, CEO of Whole Foods, about how<br>a man should know his place in the world and what he was born to a contribute. What I'm<br>looking for is a hard-hitting question about how we as a society can tell Whole Foods that<br>using prison inmates, who are mostly men, is absolutely unacceptable. How can I show that's<br>a microcosm of American buying from Chinese gulags and the like. |
+| I've got another seminar in about an hour with John Mackey, CEO of Whole Foods, about how
+a man should know his place in the world and what he was born to a contribute. What I'm
+looking for is a hard-hitting question about how we as a society can tell Whole Foods that
+using prison inmates, who are mostly men, is absolutely unacceptable. How can I show that's
+a microcosm of American buying from Chinese gulags and the like. |
 | Participant: |
-| I'm interested, because I'm involved with a Board that's working on a Native American<br>reservation, if there are any examples of this work happening in First Nation communities in<br>the United States. |
+| I'm interested, because I'm involved with a Board that's working on a Native American
+reservation, if there are any examples of this work happening in First Nation communities in
+the United States. |
 ## | Mateo: |
 
 Great, I love all three questions and will take them in order.

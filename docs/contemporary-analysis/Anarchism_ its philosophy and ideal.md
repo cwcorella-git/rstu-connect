@@ -1,3 +1,8 @@
+---
+title: "## **Pëtr Kropotkin**"
+category: "contemporary-analysis"
+---
+
 ## **Pëtr Kropotkin**
 
 ## **Anarchism: its philosophy and ideal**

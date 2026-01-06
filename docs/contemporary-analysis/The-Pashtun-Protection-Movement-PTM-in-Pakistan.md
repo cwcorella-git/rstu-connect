@@ -1,3 +1,8 @@
+---
+title: "The Pashtun Protection Movement (PTM) in Pakistan"
+category: "contemporary-analysis"
+---
+
 # The Pashtun Protection Movement (PTM) in Pakistan
 
 ## Qamar Jafri
@@ -56,32 +61,56 @@ Publication Disclaimer: The designations used and material presented in this pub
 
 | Appendix I: The Terror Networks, the War on Terror, |
 |--------------------------------------------------------------------------------------------------------------------------------------------|
-| and Their Eects on Tribal Pashtuns<br>35 |
-| Appendix II: A Note on the Interview Subjects<br>38 |
-| Cited Bibliography<br>39 |
-| Image Credits<br>41 |
-| Acknowledgments<br>42 |
+| and Their Eects on Tribal Pashtuns
+35 |
+| Appendix II: A Note on the Interview Subjects
+38 |
+| Cited Bibliography
+39 |
+| Image Credits
+41 |
+| Acknowledgments
+42 |
 | Text Boxes, Tables, Figures, and Maps |
-| TEXT BOX 1. What Are the Tribal Areas?<br>3 |
-| TEXT BOX 2. What is the FCR?<br>5 |
-| Pashtunwali<br>code?<br>TEXT BOX 3. What is the<br>13 |
-| TABLE 1. A Comparison of the RSM and the PTM<br>11 |
-| TABLE 2. Interviewees for This Study<br>38 |
-| FIGURE 1. A Demonstration by the Mehsud Tahafuz Movement<br>7 |
-| FIGURE 2. The Newly-Formed PTM Holds a Jalsa in Peshawar<br>8 |
-| FIGURE 3. A PTM supporter, Along with His Children, Holds a Frame<br>Containing Photos of Bacha Khan and PTM Leader Manzoor Pashteen<br>12 |
-| FIGURE 4. Tweet by PTM Activist Tariq<br>15 |
-| FIGURE 5. Tweet by PTM Leader Sanna Ejaz<br>16 |
-| FIGURE 6. Manzoor Pashteen Addresses a Gathering<br>to Promote Participation in the Long March to Bannu<br>20 |
-| FIGURE 7. A PTM Activist Carries a Bundle of Flyers<br>to Distribute Among the Local Public<br>21 |
-| FIGURE 8. Tweet by PTM Leader Mohsin Dawar<br>22 |
+| TEXT BOX 1. What Are the Tribal Areas?
+3 |
+| TEXT BOX 2. What is the FCR?
+5 |
+| Pashtunwali
+code?
+TEXT BOX 3. What is the
+13 |
+| TABLE 1. A Comparison of the RSM and the PTM
+11 |
+| TABLE 2. Interviewees for This Study
+38 |
+| FIGURE 1. A Demonstration by the Mehsud Tahafuz Movement
+7 |
+| FIGURE 2. The Newly-Formed PTM Holds a Jalsa in Peshawar
+8 |
+| FIGURE 3. A PTM supporter, Along with His Children, Holds a Frame
+Containing Photos of Bacha Khan and PTM Leader Manzoor Pashteen
+12 |
+| FIGURE 4. Tweet by PTM Activist Tariq
+15 |
+| FIGURE 5. Tweet by PTM Leader Sanna Ejaz
+16 |
+| FIGURE 6. Manzoor Pashteen Addresses a Gathering
+to Promote Participation in the Long March to Bannu
+20 |
+| FIGURE 7. A PTM Activist Carries a Bundle of Flyers
+to Distribute Among the Local Public
+21 |
+| FIGURE 8. Tweet by PTM Leader Mohsin Dawar
+22 |
 
 | FIGURE 9. Activists Collect Funds at a PTM Jalsa | 23 |
 |-----------------------------------------------------------------------------|----|
 | FIGURE 10. Youth Sit on the Roof of a Bus to Travel to a PTM Jalsa | 24 |
 | FIGURE 11. Tweet by PTM Leader Manzoor Pashteen | 26 |
 | MAP 1. Locations of PTM Jalsas in 2018–2020 | 19 |
-| MAP 2. The Seven Former FATA Regions<br>on the Pakistan–Afghanistan Border. | 36 |
+| MAP 2. The Seven Former FATA Regions
+on the Pakistan–Afghanistan Border. | 36 |
 
 ## I N T R O D U C T I O N
 
@@ -99,7 +128,7 @@ Building on interviews with movement leaders and campaign participants in theeld
 - What is the impact of the PTM's grassroots organizing and nonviolent resistance?
 - What are the key lessons learned from the PTM experience?
 
-<sup>1 &</sup>quot;Tahafuz" translates to English as "Protection." This special report often uses the English rendering of the movement's name—Pashtun Protection Movement—while keeping the most commonly used abbreviation "PTM."
+1 &quot;Tahafuz" translates to English as "Protection." This special report often uses the English rendering of the movement's name—Pashtun Protection Movement—while keeping the most commonly used abbreviation "PTM."
 
 ## I. War, Grievances, and Choice of Response
 
@@ -109,9 +138,9 @@ Pashtuns of the tribal areas became victims of the conict in four distinct ways 
 
 Second, Pashtuns were targeted by the foreignghters (mostly Taliban members)eeing Afghanistan Once these foreignghters settled in, they began to radicalize local youth mostly unemployed graduates from Islamic seminaries—encouraging them toght for Taliban rule in the region and for the return of the Taliban to Afghanistan They also recruited youth to engage in extorting local businesses and in executing tribal vendettas (Gunaratna and Nielsen 2008) When tribal elders resisted the oppression of their people, at times through
 
-<sup>2</sup> Mainly North Waziristan and South Waziristan, which both border Afghanistan. See Text Box 1 for an explanation of FATA and PATA, the tribal areas of Pakistan.
+2 Mainly North Waziristan and South Waziristan, which both border Afghanistan. See Text Box 1 for an explanation of FATA and PATA, the tribal areas of Pakistan.
 
-<sup>3</sup> The seven operations were: Operation Enduring Freedom (2001–2002); Operation Al Mizan (2002–2006), Operation Zalzala (2008); Operations Sher Dil in tribal district Bajaur (2008–2009), Rah-e-Haq in district Swat (2007), and Rah-e-Rast in district Swat (2009); Operation Rah-e-Nijat (2009–2010); Operation Zarb-e-Azab (2014); and Operation Radd-ul-Fassad (2017). Several minor operations were also launched, such as the Khyber-4 Operation in July 2017 which focused on the border areas inside the Khyber Agency—one of the seven agencies, or regions, of the erstwhile FATA.
+3 The seven operations were: Operation Enduring Freedom (2001–2002); Operation Al Mizan (2002–2006), Operation Zalzala (2008); Operations Sher Dil in tribal district Bajaur (2008–2009), Rah-e-Haq in district Swat (2007), and Rah-e-Rast in district Swat (2009); Operation Rah-e-Nijat (2009–2010); Operation Zarb-e-Azab (2014); and Operation Radd-ul-Fassad (2017). Several minor operations were also launched, such as the Khyber-4 Operation in July 2017 which focused on the border areas inside the Khyber Agency—one of the seven agencies, or regions, of the erstwhile FATA.
 
 #### Text Box 1: What Are the Tribal Areas?
 
@@ -125,9 +154,9 @@ violent retaliation, the Taliban began assassinating them and attacking their fa
 
 Third, tribal Pashtuns have been victims of Pakistan's policies targeting the Taliban In order to drive out the "Bad Taliban" (the TTP) from the region, Pakistan security forces formed local militias comprised of defectors from the TTP and local coopted youth Instead of stabilizing the region, these militias practice extortion of traders and shopkeepers and killing those who do not comply 5 These militias have been integrated into the tribal community,
 
-<sup>4</sup> In an interview with the author, Interviewee 6, a PTM coordinator in Islamabad, stated: "The voice of the PTM was raised by our masharans (local elders who hold traditional authority in Pashtun society) but their voice was suppressed. … masharans who were local politicians and knew well about their local conict dynamics were assassinated by 'na maloom afrad' (unknown assailants)."
+4 In an interview with the author, Interviewee 6, a PTM coordinator in Islamabad, stated: "The voice of the PTM was raised by our masharans (local elders who hold traditional authority in Pashtun society) but their voice was suppressed. … masharans who were local politicians and knew well about their local conict dynamics were assassinated by 'na maloom afrad' (unknown assailants)."
 
-<sup>5</sup> In an interview with the author, Interviewee 1, a male activist and PTM leader from district Tank, commented on the security establishment: "They are creating dierent groups of maliks, Talibans, and masharans in tribal areas…. They do not want to end their policy of supporting Talibans.... We do not accept Pashtuns getting killed."
+5 In an interview with the author, Interviewee 1, a male activist and PTM leader from district Tank, commented on the security establishment: "They are creating dierent groups of maliks, Talibans, and masharans in tribal areas…. They do not want to end their policy of supporting Talibans.... We do not accept Pashtuns getting killed."
 
 joining governmentbacked Peace Committees charged with maintaining law and order However, far from establishing peace, these groups have often been propagators of violence, attacking barber shops, music stores, and girls' schools for being anti Islam in their eyes
 
@@ -141,7 +170,7 @@ ment allowances, they have faced new challenges and constraints, including haras
 
 Faced with this injustice, Pashtuns have largely chosen to express their grievances against the state in distinctly nonviolent ways, despite having opportunities to engage in violence The arms bazaars of the tribal areas, which grew through support from the state and the West during the Cold War, have been identied as South Asia's biggest market of arms and ammunition This burgeoning arms trade and weapon manufacturing industry has increased the presence and use of guns in communal disputes Meanwhile, terrorist groups have been actively targeting Pashtun youth for recruitment Yet Pashtun youth recognized that they could not challenge state violence while using the same violent tools against their oppressors In the power vacuum that resulted from the assassinations of tribal elders, universityeducated youth stepped up as leaders advocating for a return to a Pashtun tradition of nonviolent direct action that hadrst arisen in the 1920s and 1930s under the British Raj
 
-<sup>6</sup> Local civilians and human rights organizations uncovered extrajudicial killings committed by both Pakistan security forces and militants. In August 2009, the Human Rights Commission of Pakistan discovered mass graves and reported the extrajudicial killing of suspected militants, their relatives, and suspected supporters. Human Rights Watch also reported extrajudicial killings of civilians.
+6 Local civilians and human rights organizations uncovered extrajudicial killings committed by both Pakistan security forces and militants. In August 2009, the Human Rights Commission of Pakistan discovered mass graves and reported the extrajudicial killing of suspected militants, their relatives, and suspected supporters. Human Rights Watch also reported extrajudicial killings of civilians.
 
 #### Text Box 2: What is the FCR?\*
 
@@ -155,7 +184,7 @@ Faced with this injustice, Pashtuns have largely chosen to express their grievan
 
 **The FCR ended in the KP province in 1956 and in Balochistan in 1973. However, the FATA remained under the FCR until May 2018, forming one of the PTM's early grievances against the state. It was only after the FATA integrated with the KP province that the FCR was de facto ended.**
 
-**<sup>\*</sup> For more information on the FCR, see Yousaf 2019.**
+**\* For more information on the FCR, see Yousaf 2019.**
 
 ## II. Emergence of the Nonviolent Movement and Its First Actions
 
@@ -171,7 +200,7 @@ After the marchers arrived in Islamabad, the Pakistani capital, they organized t
 
 ## —Interviewee 6, PTM Coordinator in Islamabad
 
-<sup>7</sup> A jirga is a Pashtun council in which tribal elders help to resolve local issues in consultation with maliks.
+7 A jirga is a Pashtun council in which tribal elders help to resolve local issues in consultation with maliks.
 
 ## ![](_page_14_Picture_0.jpeg)
 
@@ -183,7 +212,7 @@ Pakistani prime minister and military leaders to raise the jirga's concerns The 
 
 The masharans (local elders who hold traditional authority in Pashtun society), maliks,8 and youth were divided in their response The elders wanted to stop the sitin immediately, while the maliks wanted to end the protest quietly in the middle of the night in order to appease the military The youth pushed for a televised statement from the prime minister announcing his public commitment to address the Pashtuns' grievances, and wanted the establishment of a truth and reconciliation commission to hold accountable the military, maliks, and other government ocials Unable to agree with the protesting youth groups, the maliks took their buses and vans and left
 
-<sup>8</sup> Maliks are local elites deputed by the state who are tasked with ociating these councils. The Maliki system was instituted by the British Raj in 1890 and the role is hereditary through a malik's son. Regarding maliks, PTM coordinator Interviewee 6 states, "Those people who are the upholders of British policy in Pashtun area are part of the government. They oppose the PTM. One of the biggest challenges we face from the local people is from system-supported maliks."
+8 Maliks are local elites deputed by the state who are tasked with ociating these councils. The Maliki system was instituted by the British Raj in 1890 and the role is hereditary through a malik's son. Regarding maliks, PTM coordinator Interviewee 6 states, "Those people who are the upholders of British policy in Pashtun area are part of the government. They oppose the PTM. One of the biggest challenges we face from the local people is from system-supported maliks."
 
 ## ![](_page_15_Picture_0.jpeg)
 
@@ -214,17 +243,17 @@ Since 1947, ethnic Baloch resistance groups in Pakistan, such as the Baloch Libe
 
 In a speech at a jalsa (gathering) in Dera Ismail Khan on July 15, 2018, Manzoor Pashteen, founding leader of the PTM, shared that the source of the PTM's power is distinct from the army and militants who rely on guns Pashteen emphasized:
 
-We rely on the strength of our patience... the strength of our bravery... the strength of our love for our land... the strength of our bonds of respect and honor ( "nang," see Text Box 3) with our mothers and sisters. We struggle against them (military and terrorists) with empty hands of nonviolence.<sup>13</sup>
+We rely on the strength of our patience... the strength of our bravery... the strength of our love for our land... the strength of our bonds of respect and honor ( "nang," see Text Box 3) with our mothers and sisters. We struggle against them (military and terrorists) with empty hands of nonviolence.13
 
-<sup>9</sup> Interview with Interviewee 2, August 29, 2018.
+9 Interview with Interviewee 2, August 29, 2018.
 
-<sup>10</sup> Such as natural gas, copper, and gold.
+10 Such as natural gas, copper, and gold.
 
-<sup>11</sup> Though there have been times when the insurgency has paused, such as in April 2016 when four commanders and 144 Balochistan Liberation Army ghters gave up armed resistance when reconciliation was oered by the state, the continuous human rights violations by security forces against the Baloch have pushed Baloch youth to continue in armed struggle against the state.
+11 Though there have been times when the insurgency has paused, such as in April 2016 when four commanders and 144 Balochistan Liberation Army ghters gave up armed resistance when reconciliation was oered by the state, the continuous human rights violations by security forces against the Baloch have pushed Baloch youth to continue in armed struggle against the state.
 
-<sup>12</sup> Interview with Interviewee 2, August 29, 2018.
+12 Interview with Interviewee 2, August 29, 2018.
 
-<sup>13</sup> THE CLICK PLUS [You Tube User], "Manzoor Pashteen Speech in DI Khan Jalsa," 2018.
+13 THE CLICK PLUS [You Tube User], "Manzoor Pashteen Speech in DI Khan Jalsa," 2018.
 
 ## IV. Historical Lessons for the PTM: Bacha Khan, His Red Shirt Movement, and the Cultural Norm of Nonviolent *Badal*
 
@@ -236,21 +265,35 @@ The nature of Pakistan's government policy in the Pashtun region is similar to t
 
 In order to successfully promote nonviolent resistance, Bacha Khan sought to reform an important aspect of the Pashtunwali The Pashtunwali, or "way of the Pashtuns," is the code that traditional Pashtuns live by In this way of life, justice functions through badal (reciprocation), which necessitates that a person defends their honor—with violence, if needed (see Text Box 3 on page 13)
 
-<sup>14</sup> Abdul Samad Khan Achakzai (1907–1973), also known as "Khan Shaheed" or "Balochi Gandhi," was a Pashtun nationalist and social reformer from the present-day province of Balochistan in Pakistan. Inspired by Bacha Khan and Gandhi, he committed himself to nonviolent resistance to secure freedom from British rule. In 1930, at the age of 23, he led a civil disobedience movement in Balochistan against the British Raj (Source: The Pashtun Times).
+14 Abdul Samad Khan Achakzai (1907–1973), also known as "Khan Shaheed" or "Balochi Gandhi," was a Pashtun nationalist and social reformer from the present-day province of Balochistan in Pakistan. Inspired by Bacha Khan and Gandhi, he committed himself to nonviolent resistance to secure freedom from British rule. In 1930, at the age of 23, he led a civil disobedience movement in Balochistan against the British Raj (Source: The Pashtun Times).
 
-<sup>15</sup> Interview with Interviewee 6, August 10, 2018.
+15 Interview with Interviewee 6, August 10, 2018.
 
 ## Table 1: A Comparison of the RSM and the PTM
 
 | THE RED SHIRT MOVEMENT RSM | THE PASHTUN TAHAFUZ MOVEMENT PTM |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1930s | 2018  PRESENT |
-| The RSM emerged in response to the British troops' violent<br>repression of Pashtuns. | The PTM emerged in response to the violent repression of<br>Pashtuns by terrorist organizations and Pakistan's security<br>forces. |
-| The nonviolent methods of the RSM included marches, pro<br>cessions, hunger strikes, boycotts of British goods, picketing<br>to prevent people from entering government buildings, and<br>spontaneous strikes. | The nonviolent methods of the PTM include long marches,<br>processions in bazaars and markets, reactionary protests<br>(such as in response to the arrest of activists), and jalsas. |
+| The RSM emerged in response to the British troops' violent
+repression of Pashtuns. | The PTM emerged in response to the violent repression of
+Pashtuns by terrorist organizations and Pakistan's security
+forces. |
+| The nonviolent methods of the RSM included marches, pro
+cessions, hunger strikes, boycotts of British goods, picketing
+to prevent people from entering government buildings, and
+spontaneous strikes. | The nonviolent methods of the PTM include long marches,
+processions in bazaars and markets, reactionary protests
+(such as in response to the arrest of activists), and jalsas. |
 | The symbolic clothing of the RSM was originally a white dress, | The symbolic clothing of the PTM is a mosaic-patterned (red, |
 | which later changed to the Red Shirt. | black, and white) Pashteen hat. |
-| The RSM commemorated the incidents of atrocity committed<br>against its supporters. | The PTM commemorates killings and enforced disappear<br>ances of its activists, via social media memes and<br>processions. |
-| The RSM started a magazine, the "Pakhtun," to spread its<br>message of nonviolence in Pashtun society. | The PTM organizes study circles designed to promote mes<br>sages of nonviolence and nonviolent actions among educated<br>youth. |
+| The RSM commemorated the incidents of atrocity committed
+against its supporters. | The PTM commemorates killings and enforced disappear
+ances of its activists, via social media memes and
+processions. |
+| The RSM started a magazine, the "Pakhtun," to spread its
+message of nonviolence in Pashtun society. | The PTM organizes study circles designed to promote mes
+sages of nonviolence and nonviolent actions among educated
+youth. |
 | The RSM established village jirgas to resolve local disputes | The PTM approaches constitutional courts for remedy in cases |
 | through dialogue instead of violent badal. | of forcefully disappeared persons, killings, and arrests. |
 | The RSM engaged in nonviolent interventions, such as hold | The PTM wages nonviolent interventions, such as holding |
@@ -268,7 +311,7 @@ Badal is adjudicated in tribal jirgas where both the victim and the perpetrator 
 
 Bacha Khan encouraged his followers to give up tribal feuding which had often led to a cycle of violent badal. He emphasized the importance of Pashtun freedomghters avoiding violent jihad against colonial injustice, as they would be labeled as rebels and their struggle would lose legitimacy He instead stressed the merits of forbearance, forgiveness, and selfrestraint while using tactics such as marches, strikes, and boycotts to resist oppression (Banerjee 2000)
 
-<sup>16</sup> Among them was Ghazi Mirzali Khan (1897–1960), commonly known as "the Faqir of Ipi," who was a Pashtun tribal religious leader from North Waziristan. He mobilized a tribal militia to wage jihad against British colonial rule. In 1936, he led a campaign against the British troops at Khaisor town of the Bannu district, in which a large number of casualties and destruction occurred.
+16 Among them was Ghazi Mirzali Khan (1897–1960), commonly known as "the Faqir of Ipi," who was a Pashtun tribal religious leader from North Waziristan. He mobilized a tribal militia to wage jihad against British colonial rule. In 1936, he led a campaign against the British troops at Khaisor town of the Bannu district, in which a large number of casualties and destruction occurred.
 
 ## ![](_page_19_Picture_0.jpeg)
 
@@ -292,7 +335,7 @@ Following in Bacha Khan's footsteps, the PTM calls for nonviolent badal instead 
 
 **Badal, "reciprocation," is the right to keep nang intact and is necessary for remediating dishonor, whether a minor taunt or a murder. Bacha Khan strove to reform badal into nonviolent means in Pashtun society. For example, Khan established the village jirga to resolve disputes through dialogue and forgiveness instead of violent revenge. The PTM seeks justice to regain the lost pride or honor of Pashtuns using nonviolent methods instead of violent means.**
 
-**<sup>\*</sup> Information drawn from Banting 2003.**
+**\* Information drawn from Banting 2003.**
 
 ## V. PTM Leadership: Diversity of Membership and Women's Participation
 
@@ -308,7 +351,7 @@ Outside the central leadership, the PTM has a network of coordinators at various
 
 ## — Interviewee 4, PTM coordinator in Denmark
 
-<sup>17</sup> Including Ali Wazir and Mohsin Dawar.
+17 Including Ali Wazir and Mohsin Dawar.
 
 ## ![](_page_22_Picture_0.jpeg)
 
@@ -332,19 +375,19 @@ Women of all ages are breaking through cultural impediments of participation in 
 
 According to Interviewee 6, women supporters of the PTM are comprised of students, rights activists, political leaders, and victims of war, whose social and economic status has
 
-<sup>18</sup> Interview with Interviewee 5, September 10, 2018.
+18 Interview with Interviewee 5, September 10, 2018.
 
-<sup>19</sup> Interview with Interviewee 3, August 26, 2018.
+19 Interview with Interviewee 3, August 26, 2018.
 
 been negatively aected by the killings, enforced disappearances, and permanent physical injuries of their male family members He explains:
 
-The oppression and atrocities have not made a distinction between a male and a female. In cases of an abduction or extrajudicial killing of a male member of a family, male and female are both aected. Therefore, both men and women have come out [to participate in the PTM actions].<sup>20</sup>
+The oppression and atrocities have not made a distinction between a male and a female. In cases of an abduction or extrajudicial killing of a male member of a family, male and female are both aected. Therefore, both men and women have come out [to participate in the PTM actions].20
 
 Women activists of the PTM have faced harsh crackdown measures by the state authorities, including being named in malicious police cases, placed on Exit Control Lists (noy lists), illegally detained, having their family homes raided, and receiving death threats (see Figure 5) In one case, PTM activist Gulalai Ismail was forced to escape the country after being placed on a state kill list
 
 A diverse membership, including women's involvement, has had a tangible inuence on the PTM's public outreach to other movements The PTM has, for example, expressed solidarity with women's movements of other ethnic minorities of Pakistan Baloch and Sindhi women have been leading nonviolent campaigns to secure information about missing persons and the release of political prisoners in the Balochistan and Sindh provinces On November 12, 2018, at a womenled Voice for Baloch Missing Persons protest in Quetta, Balochistan, one of the PTM leaders, Mullah Behram, gave a speech in solidarity with the women's movement Likewise, on December 5, 2020, Manzoor Pashteen met with ethnic Sindhi activists in Sindh province who have been protesting and demanding the recovery of Sindhi missing persons (Pashteen 2020) PTM leadership is also famous among Hindu youth, a religious minority within the country (Bukhari 2020)
 
-<sup>20</sup> Interview with Interviewee 6, August 10, 2018.
+20 Interview with Interviewee 6, August 10, 2018.
 
 ## VI. Movement Strategies and Tactics
 
@@ -370,9 +413,9 @@ Activists use their mobile phones to join closed groups on social media in which
 
 Jalsas in 2018: Peshawar (January 28 and April 8); Islamabad (following the sit-in on February 1-10); Bajaur (February 20); Zhob (March 10); Quetta (March 11); Bara (March 18); Wana (April 14); Mochi Gate in Lahore (April 22); Swat (April 29); Karachi (May 13); Dera Ismail Khan (July 15); Swabi (August 12); and Bannu (October 28). Jalsas in 2019: Tank (January 13); Wana (March 15); Peshawar (March 31); Miran Shah (April 14). Jalsas in 2020: Bannu (January 12); Loralai (February 9); Dera Ismail Khan (Feb 16); Charsadda (March 1); Shawal (August 8); Wana (September 20); Miran Shah (November 15); Karachi (December 6); and Bara (December 27).
 
-Europe offers some information on the group's use of social media. "We have special teams on social media. They work to make contacts with all the stakeholders. These teams work on Facebook, Whats App, Skype, Twitter and Viber.... We send them messages via phone calls and Facebook to contact activists."<sup>21</sup>
+Europe offers some information on the group's use of social media. "We have special teams on social media. They work to make contacts with all the stakeholders. These teams work on Facebook, Whats App, Skype, Twitter and Viber.... We send them messages via phone calls and Facebook to contact activists."21
 
-<sup>21</sup> Interview with Interviewee 6, July 31, 2018.
+21 Interview with Interviewee 6, July 31, 2018.
 
 ## ![](_page_27_Picture_0.jpeg)
 
@@ -382,13 +425,13 @@ The PTM uses these social media resources to publicly disseminate movement messa
 
 In order to reach supporters who do not have internet access or aptitude, PTM activists also communicate through pamphlets, banners, handbills, grati, loudspeakers mounted on minivans, and doortodoor campaigns Woman educator and PTM leader from District Swat, Interviewee 5, describes the movement's approach as follows:
 
-First, we hire a small vehicle, x a loudspeaker on it and make announcements in dierent areas. Our elders speak on the loudspeakers. Second, we distribute pamphlets. Third, we do a door-to-door campaign.<sup>23</sup>
+First, we hire a small vehicle, x a loudspeaker on it and make announcements in dierent areas. Our elders speak on the loudspeakers. Second, we distribute pamphlets. Third, we do a door-to-door campaign.23
 
 This alternative approach is particularly important to circumvent the government's frequent suspension of mobile and internet services in the tribal areas Interviewee 3 shares,
 
-<sup>22</sup> Interview with Interviewee 3, August 26, 2018.
+22 Interview with Interviewee 3, August 26, 2018.
 
-<sup>23</sup> Interview with Interviewee 5, September 10, 2018.
+23 Interview with Interviewee 5, September 10, 2018.
 
 "In SW when the military disconnects the landlines, we use small posters and yers "24 Prior to hosting jalsas, yers about the event are distributed at homes and public places such as universities, hospitals, markets, government offices, and transport terminals (see Figure 7)
 
@@ -402,13 +445,13 @@ FIGURE 7: A PTM Activist Carries a Bundle of Flyers to Distribute Among the Loca
 
 Centre for Peace and Culture Education where she works to promote values such as justice and equality in Pashtun society through dierent activities like creating art, poetry, and music (Ghandara 2020) She comments:
 
-We are countering violence on multiple levels. We are trying to open study circles at various places. In those centers we will read books and hold discussions about nonviolent movements. PTM youth write songs and poems on peace and we intend to promote them.<sup>25</sup>
+We are countering violence on multiple levels. We are trying to open study circles at various places. In those centers we will read books and hold discussions about nonviolent movements. PTM youth write songs and poems on peace and we intend to promote them.25
 
 In Peshawar city, the PTM has created the Friday Circles initiative, where they invite prominent Pashtun writers, historians, intellectuals, and activists to share their ideas with young participants of the Circles These discussions include topics such as women rights, civic participation, democracy, the constitution of Pakistan, and Pashtun history, including the anti Raj struggles of Bacha Khan and Khan Shaheed and the rise of religious extremism in Pashtun society since the Afghan–Soviet War in the 1980s As part of these circles, PTM
 
-<sup>24</sup> Interview with Interviewee 3, August 26, 2018.
+24 Interview with Interviewee 3, August 26, 2018.
 
-<sup>25</sup> Interview with Interviewee 5, September 10, 2018.
+25 Interview with Interviewee 5, September 10, 2018.
 
 ## ![](_page_29_Figure_0.jpeg)
 
@@ -422,7 +465,7 @@ An important part of the constructive organizing are the PTM's strategies for re
 
 In order for supporters to attend PTM events, the local PTM teams arrange transportation by collecting money from the attendees and coordinating the rental of buses and vans to bring the participants to jalsas and marches Interviewee 5 notes, ''All expenses people cover
 
-<sup>26</sup> Interview with Interviewee 3, August 26, 2018.
+26 Interview with Interviewee 3, August 26, 2018.
 
 ## ![](_page_30_Picture_0.jpeg)
 
@@ -436,9 +479,9 @@ Beyond monetary resources, the movement is sustained through the labor of volunt
 
 The PTM complements their use of civil resistance with taking action through established legal and political channels Since many PTM leaders are lawyers and other professionals, they have the knowledge and skills necessary to engage in lawsuits, as noted by a woman activist from Islamabad: "We also go to legal battles, negotiations, and dialogue We defend against attacks through resistance driven by legal activism and remaining resilient "28
 
-<sup>27</sup> Interview with Interviewee 5, September 10, 2018.
+27 Interview with Interviewee 5, September 10, 2018.
 
-<sup>28</sup> Interview with Interviewee 3, August 26, 2018.
+28 Interview with Interviewee 3, August 26, 2018.
 
 ## ![](_page_31_Picture_0.jpeg)
 
@@ -450,7 +493,7 @@ On October 1, 2019, in a historic speech on theoor of the National Assembly foll
 
 We are followers of nonviolence by faith. We're followers of Bacha Khan. We hate violence. PTM has emerged against violence. PTM has emerged against this war. Even if someone tries to push us towards violence we will not resort to violence. 14 of us have been killed [in the Kharkamar massacre]. Even if 1,400 are killed, even if 14,000 are killed, even if 140,000 are killed we will not resort to violence. This is our promise to our nation. But we will speak. We will tell the facts to the world.29
 
-<sup>29</sup> Power TV Talk Shows [You Tube user], "Mohsin Dawar Speech in National Assembly Today," October 1, 2019.
+29 Power TV Talk Shows [You Tube user], "Mohsin Dawar Speech in National Assembly Today," October 1, 2019.
 
 ## VII. State Repression and PTM Strategies to Maintain Nonviolent Discipline
 
@@ -462,7 +505,7 @@ One strategy of the state has been to use the Taliban defectorled Peace Committe
 
 The military has also directly instigated violent attacks on PTM activists, such as in the case of the Kharkamar massacre On May 26, 2019, PTM activists were demonstrating at the Kharkamar security checkpoint to protest the military's beating of a local woman The military shot into the crowd, killing 14 and wounding 25, and then arrested several of the remaining activists, including Wazir and Dawar
 
-<sup>30</sup> SAFRON, or the Federal Ministry for States and Frontier Regions, is responsible for dealing with tribal areas. The tribal maliks work under the authority of SAFRON. Minister Afridi belongs to an inuential Pashtun tribe that is closely intertwined with the Pakistani local, provincial, and federal governments.
+30 SAFRON, or the Federal Ministry for States and Frontier Regions, is responsible for dealing with tribal areas. The tribal maliks work under the authority of SAFRON. Minister Afridi belongs to an inuential Pashtun tribe that is closely intertwined with the Pakistani local, provincial, and federal governments.
 
 ## ![](_page_33_Picture_0.jpeg)
 
@@ -482,25 +525,25 @@ PTM leaders work to build activists' resolve to remain nonviolent through revere
 
 On the question of their commitment to nonviolent strategies, a PTM activist from Peshawar has argued that the PTM is fully aware of the consequences that would stem from the use of violence Referencing Bacha Khan's teachings while under the British Raj, Interviewee 2 explains:
 
-The PTM follows the philosophy of Bacha Khan who was a realist and believed in the existence of real constraining conditions. Real for him meant: if you pick up a gun, in two to three days you will be labeled a traitor and will be crushed violently. And no one will listen to your voice. No one will raise their voices in your support. Whereas in nonviolence, you ght, you remain in the eld, you do not harm anyone and you get more support from neutral people.<sup>32</sup>
+The PTM follows the philosophy of Bacha Khan who was a realist and believed in the existence of real constraining conditions. Real for him meant: if you pick up a gun, in two to three days you will be labeled a traitor and will be crushed violently. And no one will listen to your voice. No one will raise their voices in your support. Whereas in nonviolence, you ght, you remain in the eld, you do not harm anyone and you get more support from neutral people.32
 
 In ordertomaintain nonviolent discipline following critical events ofrepression, PTMleaders redirect activists' energies toward backre They memorialize victims of oppression on social media, thus exposing the wrongdoing of the state while weakening the state's capacity to portray the victims as guilty of crime The movement also leverages these social media campaigns into direct actions on the ground One PTM coordinator explains, "In cases of arrests and ban on rallies, we run various posts and threads on social media, including Facebook and Twitter "33 For example, following the police killing of PTM leader Arman Luni in Balochistan on March 31, 2019, they initiated the Facebook and Twitter hashtag #Peshawar Long March4Arman The social media campaign culminated in a long march from South Waziristan to Peshawar, demanding the police register a First Information Report (therst document prepared by a
 
-<sup>31</sup> Interview with Interviewee 3, August 26, 2018.
+31 Interview with Interviewee 3, August 26, 2018.
 
-<sup>32</sup> Interview with Interviewee 2, August 29, 2018.
+32 Interview with Interviewee 2, August 29, 2018.
 
-<sup>33</sup> Interview with Interviewee 6, August 10, 2018.
+33 Interview with Interviewee 6, August 10, 2018.
 
 police ocer to initiate the criminal investigation of an oense) against the ocer responsible for Luni's death and release other detained PTM activists
 
 Practical measures to maintain nonviolent discipline include avoiding direct confrontations with security forces, banning weapons at campaign events, and regularly reiterating their commitment to refraining from violence As a PTM leader from Islamabad reveals, "No one can bring weapons in the marches and jalsas Time and again, people are instructed to avoid violence "34 On one occasion when Manzoor Pashteen was physically prevented by security forces from traveling to Karachi to address a jalsa, leadership took the opportunity to urge their supporters to remain nonviolent As one activist shares:
 
-In the midst of these oppressive policies all were instructed by the leadership that no one will resort to violence. Manzoor Pashteen maintains a stand since the very rst day that we should remain nonviolent in all gatherings.<sup>35</sup>
+In the midst of these oppressive policies all were instructed by the leadership that no one will resort to violence. Manzoor Pashteen maintains a stand since the very rst day that we should remain nonviolent in all gatherings.35
 
-<sup>34</sup> Interview with Interviewee 3, August 26, 2018.
+34 Interview with Interviewee 3, August 26, 2018.
 
-<sup>35</sup> Interview with Interviewee 4, July 31, 2018.
+35 Interview with Interviewee 4, July 31, 2018.
 
 ## VIII. Impacts of the PTM
 
@@ -512,9 +555,9 @@ On February 5, 2021, a Grand Peace Jirga was brokered by PTM leaders in Wazirist
 
 The PTM's nonviolent resistance has strengthened the protection of rights for the Pashtun people in Pakistan In an alliance with the Tribal Women's Organization and the Tribal Youth Organization, the PTM had been demanding the abolition of the Frontier Crimes Regulation, the law which allowed the government and military to act in the tribal areas with impunity In mid2018, the government yielded to their campaign by introducing constitutional reforms in the FATA and integrating the tribal region into the KP province—an important demand of the PTM to ensure government accountability and curtail military abuses Since the FCR only had jurisdiction over the FATA, the merger with the KP province eectively dissolved the FATA and thus the power of the FCR The KP provincial government has since been establishing
 
-<sup>36</sup> Interview with Interviewee 5, September 10, 2018.
+36 Interview with Interviewee 5, September 10, 2018.
 
-<sup>37</sup> The source of this information is a video and photos of the jirga proceedings that were collected by the author during the research eldwork on the Pashtun Tahafuz Movement.
+37 The source of this information is a video and photos of the jirga proceedings that were collected by the author during the research eldwork on the Pashtun Tahafuz Movement.
 
 constitutional institutions in the newly merged tribal districts, including a court system, a police service, and health, education, and welfare agencies
 
@@ -530,15 +573,15 @@ The PTM had another major victory on January 29, 2019, when Prime Minister Imran
 
 PTM actions have also resulted in the removal of land mines, the easing of movement for local tribal Pashtuns through security checkpoints, and the return of many missing persons who had been victims of enforced disappearances At an April 30, 2019, press conference, an army spokesperson38 responding to PTM demands stated that "45 percent of the mined area had been cleared … [the] number of checkpoints decreased [and] the number of missing persons had also dropped to 2,500" (Bukhari 2020) from the original list of 8,000 persons that the PTM had given to the government 39
 
-<sup>38</sup> Even though the Pakistani government is not known for a lack of trying to whitewash its actions and to misinform—particularly about the PTM—the cited gures are also conrmed by activists on the ground.
+38 Even though the Pakistani government is not known for a lack of trying to whitewash its actions and to misinform—particularly about the PTM—the cited gures are also conrmed by activists on the ground.
 
-<sup>39</sup> As reported in a eld interview with Interviewee 4.
+39 As reported in a eld interview with Interviewee 4.
 
 The PTM's successes have inspired other ethnic minority movements, including the Missing Persons Movements in the Sindh and Balochistan provinces A PTM leader in Swat shares, "Even some Sindhi missing persons have returned because we called for all movements of missing persons to our jalsas They also held protests and marches in Islamabad and Sindh, and we supported them "40
 
 Finally, the PTM has been successful in communicating the experiences of the tribal Pashtuns to the media and the international community Before the movement began, the only information about the war and terrorism in the tribal areas was the ocial version released by the government The PTM's resistance has opened these conict areas to the world Through social media posts, the PTM has criticized the Taliban's presence, documented Taliban attacks on activists (Sayeed 2019), and put pressure on the major actors to end violent extremism, terrorist attacks, and the proxy war in the Pashtun region (Express Tribune 2018) These eorts have also helped toght the state's portrayal of the tribal Pashtuns as violent jihadis
 
-<sup>40</sup> Interview with Interviewee 5, September 10, 2018.
+40 Interview with Interviewee 5, September 10, 2018.
 
 ## Key Takeaways from the PTM for Successful Nonviolent Resistance
 

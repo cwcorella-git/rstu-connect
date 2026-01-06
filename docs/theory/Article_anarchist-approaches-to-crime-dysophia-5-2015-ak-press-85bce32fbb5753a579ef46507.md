@@ -1,15 +1,8 @@
 ---
-title: >-
-  Anarchist Approaches To Crime Dysophia 5 2015 Ak Press
-  85bce32fbb5753a579ef46507
-date: 2025
-author: CrimethInc
-tags:
-  - organizing
-  - housing
-  - rent
-  - police
-  - prisons
+title: ">-"
+author: "CrimethInc"
+date: "2025"
+category: "theory"
 ---
 
 # Anarchist Approaches To Crime Dysophia 5 2015 Ak Press 85bce32fbb5753a579ef46507

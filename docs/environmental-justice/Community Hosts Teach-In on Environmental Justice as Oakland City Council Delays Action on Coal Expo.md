@@ -1,3 +1,8 @@
+---
+title: "## **Community Hosts Teach-In on Environmental Justice as Oakland City Council Delays Action on Coal"
+category: "environmental-justice"
+---
+
 ## **Community Hosts Teach-In on Environmental Justice as Oakland City Council Delays Action on Coal Exports**
 
 ## **Date:** Thu, 12/10/2015 - 15:11

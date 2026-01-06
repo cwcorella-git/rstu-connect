@@ -1,39 +1,17 @@
 ---
-title: Against Kamikaze Capitalism
-author: David Graeber
-date: November 2010
-language: en
-source_url: >-
-  Retrieved on 3<sup>rd</sup> September 2020 from
-  https://web.archive.org/web/20120420081446/http://shiftmag.co.uk/?p=389
-notes: >-
-  See also: David Graeber Institute [[https://davidgraeber.institute/]] &
-  [[https://davidgraeber.org/]]
-topics:
-  - anti-capitalism
-  - oil
-  - climate change
-  - France
-  - green anarchism
-  - green anarchy
-original_format: muse
-converted_date: '2025-11-08T11:25:02.991987'
-tags:
-  - Anti Capitalism
-  - Oil
-  - Climate Change
-  - France
-  - Green Anarchism
-  - Green Anarchy
+title: "Against Kamikaze Capitalism"
+author: "David Graeber"
+date: "November 2010"
+category: "technology-digital-justice"
 ---
 
-On Saturday, 16<sup>th</sup> October 2010, some 500 activists gathered at convergence points across London, knowing only that they were about to embark on a direct action called Crude Awakening, aimed against the ecological devastation of the global oil industry, but with no clear idea of what they were about to do. The plan was quite a clever one. Organizers had dropped hints they were intending to hit targets in London itself, but instead, participants—who had been told only to bring full-charged metro cards, lunch, and outdoor clothing—were led in brigades to a commuter train for Essex. At one stop, bags full of white chemical jumpsuits marked with skeletons and dollars, gear, and lock-boxes mysteriously appeared; shortly thereafter, hastily appointed spokespeople in each carriage received word of the day’s real plan: to blockade the access road to the giant Coryton refinery near Stanford-le-Hope – the road over which 80% of all oil consumed in London flows. An affinity group of about a dozen women were already locked down to vans near the refinery’s gate and had turned back several tankers; we were going to make it impossible for the police to overwhelm and arrest them.
+On Saturday, 16th October 2010, some 500 activists gathered at convergence points across London, knowing only that they were about to embark on a direct action called Crude Awakening, aimed against the ecological devastation of the global oil industry, but with no clear idea of what they were about to do. The plan was quite a clever one. Organizers had dropped hints they were intending to hit targets in London itself, but instead, participants—who had been told only to bring full-charged metro cards, lunch, and outdoor clothing—were led in brigades to a commuter train for Essex. At one stop, bags full of white chemical jumpsuits marked with skeletons and dollars, gear, and lock-boxes mysteriously appeared; shortly thereafter, hastily appointed spokespeople in each carriage received word of the day’s real plan: to blockade the access road to the giant Coryton refinery near Stanford-le-Hope – the road over which 80% of all oil consumed in London flows. An affinity group of about a dozen women were already locked down to vans near the refinery’s gate and had turned back several tankers; we were going to make it impossible for the police to overwhelm and arrest them.
 
 It was an ingenious feint, and brilliantly effective. Before long we were streaming across fields carrying thirteen giant bamboo tripods, confused metropolitan police in tow. Hastily assembled squads of local cops first seemed intent on provoking a violent confrontation—seizing one of our tripods, attempting to break our lines when we began to set them up on the highway—but the moment it became clear that we were not going to yield, and batons would have to be employed, someone must have given an order to pull back. We can only speculate about what mysterious algorithm the higher-ups apply in such situations like that —our numbers, their numbers, the danger of embarrassing publicity, the larger political climate—but the result was to hand us the field; our tripods stood, a relief party backed up the original lockdown; and no further tankers moved over the access road—a road that on an average day carries some seven hundred tankers, hauling 375,000 gallons of oil—for the next five hours. Instead, the access road became a party: with music, clowns, footballs, local kids on bicycles, a chorus line of Victorian zombie stilt-dancers, yarn webs, chalk poems, periodic little spokescouncils—mainly, to decide at exactly what point we would declare victory and leave.
 
 It was nice to win one for a change. Facing a world where security forces—from Minneapolis to Strasbourg—seem to have settled on an intentional strategy of trying to ensure, as a matter of principle, that no activist should ever leave the field of a major confrontation with a sense of elation or accomplishment (and often, that as many as possible should leave profoundly traumatized), a clear tactical victory is nothing to sneeze at. But at the same time, there was a certain ominous feel to the whole affair: one which made the overall aesthetic, with its mad scientist frocks and animated corpses, oddly appropriate.
 
-The Coryton blockade was inspired by a call from indigenous groups in South America, tied to the Climate Justice Action network, a new global network created in the lead-up to the actions in Copenhagen in December 2009—for a kind of anti-Columbus day, in honor and defense of the earth. Yet it was carried out in the shadow of a much-anticipated announcement, on the 20<sup>th</sup>, four days later, of savage Tory cuts to the tattered remains of the British welfare state, from benefits to education, threatening to throw hundreds of thousands into unemployment, and thousands already unemployed into destitution—the largest such cuts since before the Great Depression. The great question on everyone’s mind was, would there be a cataclysmic reaction? Even worse, was there any possibility there might not be? In France it had already begun. French Climate Camp had long been planning a similar blockade at the Total refinery across the channel in Le Havre; when they arrived on the 16<sup>th</sup>, they discovered the refinery already occupied by its workers as part of a nationwide pension dispute that had already shut down 16 of Frances 17 oil refineries. The police reaction was revealing. As soon as the environmental activists appeared, the police leapt into action, forcing the strikers back into the refinery and establishing a cordon in an effort to ensure that under no conditions should the activists be able to break through and speak with the petroleum workers (after hours of efforts, a few, on bicycles, did eventually manage to break through.)
+The Coryton blockade was inspired by a call from indigenous groups in South America, tied to the Climate Justice Action network, a new global network created in the lead-up to the actions in Copenhagen in December 2009—for a kind of anti-Columbus day, in honor and defense of the earth. Yet it was carried out in the shadow of a much-anticipated announcement, on the 20th, four days later, of savage Tory cuts to the tattered remains of the British welfare state, from benefits to education, threatening to throw hundreds of thousands into unemployment, and thousands already unemployed into destitution—the largest such cuts since before the Great Depression. The great question on everyone’s mind was, would there be a cataclysmic reaction? Even worse, was there any possibility there might not be? In France it had already begun. French Climate Camp had long been planning a similar blockade at the Total refinery across the channel in Le Havre; when they arrived on the 16th, they discovered the refinery already occupied by its workers as part of a nationwide pension dispute that had already shut down 16 of Frances 17 oil refineries. The police reaction was revealing. As soon as the environmental activists appeared, the police leapt into action, forcing the strikers back into the refinery and establishing a cordon in an effort to ensure that under no conditions should the activists be able to break through and speak with the petroleum workers (after hours of efforts, a few, on bicycles, did eventually manage to break through.)
 
 “Environmental justice won’t happen without social justice,” remarked one of the French Climate Campers afterwards. “Those who exploit workers, threaten their rights, and those who are destroying the planet, are the same people.” True enough. “We need to move towards a society and energy transition and to do it cooperatively with the workers of this sector. The workers that are currently blockading their plants have a crucial power into their hands; every litre of oil that is left in the ground thanks to them helps saving human lives by preventing climate catastrophes.”
 

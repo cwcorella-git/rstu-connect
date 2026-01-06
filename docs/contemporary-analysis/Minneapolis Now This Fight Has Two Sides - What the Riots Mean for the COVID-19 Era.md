@@ -1,3 +1,8 @@
+---
+title: "## **Minneapolis: Now This Fight Has Two Sides - What the Riots Mean for the COVID-19 Era**"
+category: "contemporary-analysis"
+---
+
 ## **Minneapolis: Now This Fight Has Two Sides - What the Riots Mean for the COVID-19 Era**
 
 ## **Date:** Unknown
@@ -50,18 +55,21 @@ Crimethinc will keep this list updated on this page as they are announced.
 
 ## San Francisco/East Bay
 
-| Friday, May 29, 8 pm Fuck the Police: Vengeance for George Floyd/ Minneapolis Solidarity<br>Demo Oakland Oscar Grant Plaza, 14th and Broadway—"Be Safe, Wear a Mask" |
+| Friday, May 29, 8 pm Fuck the Police: Vengeance for George Floyd/ Minneapolis Solidarity
+Demo Oakland Oscar Grant Plaza, 14th and Broadway—"Be Safe, Wear a Mask" |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Colorado |
 | Denver |
-| May 28, 29, and 30, every day at noon at the Denver Capitol Building:Justice for George<br>Floyd |
+| May 28, 29, and 30, every day at noon at the Denver Capitol Building:Justice for George
+Floyd |
 | Georgia |
 | Atlanta |
 | May 29, 4 pmCNN Center 1:Stop Killing Us! |
 | June 7, 8 pm Corner of Satellite Blvd and Pleasant Hill Rd |
 | Indiana |
 | Jasper, Indiana |
-| May 30, 10 am to Noon, "Stand Up and Say Their Name" —Hosted by ONE - Dubois County,<br>at Dubois County Courthouse |
+| May 30, 10 am to Noon, "Stand Up and Say Their Name" —Hosted by ONE - Dubois County,
+at Dubois County Courthouse |
 | Iowa |
 ## | Des Moines |
 

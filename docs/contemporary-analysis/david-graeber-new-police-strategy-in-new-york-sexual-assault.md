@@ -1,29 +1,15 @@
 ---
-title: New Police Strategy in New York – Sexual Assault
-author: David Graeber
-date: 'May 8, 2014'
-pubdate: '2021-03-06T13:47:12'
-language: en
-source_url: >-
-  Retrieved on 6<sup>th</sup> March 2021 from
-  [[https://zcomm.org/znetarticle/new-police-strategy-in-new-york-sexual-assault/][zcomm.org]]
-topics:
-  - police
-  - New York
-  - sexual assault
-original_format: muse
-converted_date: '2025-11-08T11:25:03.148839'
-tags:
-  - Police
-  - New York
-  - Sexual Assault
+title: "New Police Strategy in New York – Sexual Assault"
+author: "David Graeber"
+date: "May 8, 2014"
+category: "contemporary-analysis"
 ---
 
 A few weeks ago I was with a few companions from Occupy Wall Street in Union Square when an old friend — I’ll call her Eileen — passed through, her hand in a cast.
 
 “What happened to you?” I asked.
 
-“Oh, this?” she held it up. “I was in Liberty Park on the 17<sup>th</sup> [the Six Month Anniversary of the Occupation]. When the cops were pushing us out the park, one of them yanked at my breast.”
+“Oh, this?” she held it up. “I was in Liberty Park on the 17th [the Six Month Anniversary of the Occupation]. When the cops were pushing us out the park, one of them yanked at my breast.”
 
 “Again?” someone said.
 
@@ -59,7 +45,7 @@ Why is all this not a national story? Back in September, when the now famous Ton
 
 I suspect one reason so many shy away from confronting the obvious is because it raises extremely troubling questions about the role of police in American society. Most middle class Americans see the primary role of police as maintaining public order and safety. Instances when police are clearly trying to foment violence and disorder for political purposes so fly in the face of everything we have been taught that our instinct is to tell ourselves it isn’t happening: there must have been some provocation, or else, it must have just been individual rogue cops. Certainly not something ordered by the highest echelons. But here we have to remember the police are an extremely top-down, centralized organization. Uniformed officers simply cannot behave in ways that flagrantly defy the law, in full public view, on an ongoing basis, without having at least tacit approval from those above.
 
-In this case, we also know precisely who those superiors are. The commander of the First Precinct, successor to the disgraced Tony Bologna, is Captain Edward J. Winski, whose officers patrol the Financial District (that is, when those very same officers are not being paid directly by Wall Street firms to provide security, which they regularly do, replete with badges, uniforms, and weapons). Winski often personally directs groups of police attacking protestors. Winsky’s superior is Police Commissioner Raymond Kelly, former director of global security of the Wall Street firm Bear Stearns. And Kelly’s superior, in turn, is Mayor Michael Bloomberg – the well-known former investment banker and Wall Street magnate. The 11<sup>th</sup> richest man in America, he has referred to the New York City Police Department as his own personal army.
+In this case, we also know precisely who those superiors are. The commander of the First Precinct, successor to the disgraced Tony Bologna, is Captain Edward J. Winski, whose officers patrol the Financial District (that is, when those very same officers are not being paid directly by Wall Street firms to provide security, which they regularly do, replete with badges, uniforms, and weapons). Winski often personally directs groups of police attacking protestors. Winsky’s superior is Police Commissioner Raymond Kelly, former director of global security of the Wall Street firm Bear Stearns. And Kelly’s superior, in turn, is Mayor Michael Bloomberg – the well-known former investment banker and Wall Street magnate. The 11th richest man in America, he has referred to the New York City Police Department as his own personal army.
 
 One of the great themes of Occupy Wall Street, of course, is the death of US democracy—the near-total capture of our political system by Wall Street firms and the financial power of the 1%. In the beginning the emphasis was on political corruption, the fact that both parties so beholden to the demands of Wall Street and corporate lobbyists that working within the political system to change anything has become simply meaningless. Recent events have demonstrated just how much deeper the power of money really goes. It is not just the political class. It is the very structure of American government, starting with the law and those who are sworn to enforce it—police officers who, as even this brief illustration makes clear, are directly in the pay of and under the orders of Wall Street executives, and who, as a result, are willing to systematically violate their oaths to protect the public when members of that public have the temerity to make a public issue out of exactly these kind of arrangements.
 

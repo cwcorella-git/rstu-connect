@@ -1,3 +1,8 @@
+---
+title: "## **Anarchist Individualism as a Life and Activity**"
+category: "contemporary-analysis"
+---
+
 ## **Anarchist Individualism as a Life and Activity**
 
 ## Émile Armand

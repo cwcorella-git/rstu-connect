@@ -1,8 +1,8 @@
 ---
 title: "Rent Strike Toolkit User Guide"
 author: "Reno-Sparks Tenants Union"
-date: 2025
-category: "Organizing"
+date: "2025"
+category: "organizing"
 ---
 
 # Rent Strike Toolkit: Complete User Guide

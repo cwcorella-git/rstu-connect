@@ -1,18 +1,8 @@
 ---
-title: Direct Action
-author: David Graeber
-date: 'October 8, 2009'
-language: en
-topics:
-  - anthropology
-  - direct action
-  - anti-globalization movement
-original_format: muse
-converted_date: '2025-11-08T11:25:03.121814'
-tags:
-  - Anthropology
-  - Direct Action
-  - Anti Globalization Movement
+title: "Direct Action"
+author: "David Graeber"
+date: "October 8, 2009"
+category: "organizing"
 ---
 
 ## **PREFACE**
@@ -53,35 +43,35 @@ All this makes it easy to see why the Zapatista rebellion—which began January 
 
 In turn, it was the Zapatistas who began, with their two international encuentros “For Humanity and Against Neoliberalism,” to lay the foundation for what came to be known as the “anti-globalization” movement. Now this term, as I have said many times before, is something of a misnomer. It was basically an invention of the media. The most dynamic and important elements in the movement always saw it as aiming for a genuine, democratic form of globalization; at the very least a return to the sort of planetary consciousness from which the term first emerged. In the case of anarchists, autonomists, and other such radical elements, it meant the effacement of all international borders entirely. What emerged from the Zapatista encuentros was a loosely organized planetary network called Peoples’ Global Action (PGA), one of whose aims was to put nonviolent direct action back on the world stage as a force for global revolution. PGA was significant above all in that it explicitly rejected the participation of political parties or any group whose purpose was to become a government. It was PGA, in turn, that put out the first “calls to action” that eventually culminated in the November 1999 actions in Seattle. Rather than trying to narrative the story myself—it will be told many times, in different ways, over the course of the book—let me instead provide the reader with a time line of only the most important events. What follows is a bare-bones account, and it reflects a very North American perspective, but readers may find it useful to consult, now and again, while reading this work:
 
-<em>**January 1, 1994**</em>. North American Free Trade Agreement goes into effect. Uprising by the EZLN (or Ejército Zapatista de Liberación Nacional, or Zapatistas) in Chiapas begins with a surprise military offensive that leads, briefly, to the seizure of Chiapas’ capital, San Christobal de las Casas. The Zapatistas, however, quickly transform from an offensive force to a defensive one, creating a series of self-governing autonomous communities, seeking international allies, and promulgating a politics of direct action, democratic experimentation, and a new approach to revolution that converges with the anarchist tradition in its refusal of traditional attempts to transform through the seizure of state power.
+**January 1, 1994**. North American Free Trade Agreement goes into effect. Uprising by the EZLN (or Ejército Zapatista de Liberación Nacional, or Zapatistas) in Chiapas begins with a surprise military offensive that leads, briefly, to the seizure of Chiapas’ capital, San Christobal de las Casas. The Zapatistas, however, quickly transform from an offensive force to a defensive one, creating a series of self-governing autonomous communities, seeking international allies, and promulgating a politics of direct action, democratic experimentation, and a new approach to revolution that converges with the anarchist tradition in its refusal of traditional attempts to transform through the seizure of state power.
 
-<em>**August, 1997**</em>. Second Zapatista “International Encuentro For Humanity and Against Neoliberalism” in Spain ends with a call to create an international network, that ultimately comes to be known (in English) as Peoples’ Global Action. Aside from the Zapatistas themselves, the core of PGA, at first, consists of the Brazilian Landless Farmers’ Movement (MST), the Indian Karnataka State Farmers’ Association (KRRS, a mass-based Gandhian direct action movement), anarchist or anarchist-inspired groups including Ya Basta! in Italy and Reclaim the Streets in the UK, and various indigenous and agrarian movements and radical labor unions.
+**August, 1997**. Second Zapatista “International Encuentro For Humanity and Against Neoliberalism” in Spain ends with a call to create an international network, that ultimately comes to be known (in English) as Peoples’ Global Action. Aside from the Zapatistas themselves, the core of PGA, at first, consists of the Brazilian Landless Farmers’ Movement (MST), the Indian Karnataka State Farmers’ Association (KRRS, a mass-based Gandhian direct action movement), anarchist or anarchist-inspired groups including Ya Basta! in Italy and Reclaim the Streets in the UK, and various indigenous and agrarian movements and radical labor unions.
 
-<em>**June 18, 1999**</em>. “J18,” the first massive PGA-sponsored global day of action, known alternately as the “Global Day of Action Against Financial Centers” or “Carnival Against Capitalism” to coincide with the G8 meetings of leaders of the major industrial powers, with coordinated actions in over a hundred cities worldwide from Australia to Zimbabwe. In America, several demos are organized, mostly under the banner of new American versions of Reclaim the Streets.
+**June 18, 1999**. “J18,” the first massive PGA-sponsored global day of action, known alternately as the “Global Day of Action Against Financial Centers” or “Carnival Against Capitalism” to coincide with the G8 meetings of leaders of the major industrial powers, with coordinated actions in over a hundred cities worldwide from Australia to Zimbabwe. In America, several demos are organized, mostly under the banner of new American versions of Reclaim the Streets.
 
-<em>**November 30, 1999**</em>. “N30” actions against the WTO ministerial meetings in Seattle, another international day of action proposed by PGA. The action is long in the planning but comes as a total surprise to the mainstream media, who see it as the birth of a movement. Seattle saw sharp divisions over tactics between nonviolent protesters conducting the lockdowns and blockades of the hotel where the ministerial is taking place, organized by the newly created Direct Action Network (DAN), and participants in a smaller “Black Bloc,” mostly made up of anarchists and radical ecologists, who have a more militant interpretation of nonviolence, and who, after police begin to attack the blockaders, start a campaign of targeted property destruction against symbols of corporate power (mostly windows) downtown. On the first day, the meetings are actually shut down, and negotiations end in failure. The next few days see massive repression, culminating in the declaration of martial law and the summoning of the National Guard. The months immediately following Seattle are filled with a burst of new organizing and activity, and the creation of autonomous chapters of DAN in cities across the US, and even Canada.
+**November 30, 1999**. “N30” actions against the WTO ministerial meetings in Seattle, another international day of action proposed by PGA. The action is long in the planning but comes as a total surprise to the mainstream media, who see it as the birth of a movement. Seattle saw sharp divisions over tactics between nonviolent protesters conducting the lockdowns and blockades of the hotel where the ministerial is taking place, organized by the newly created Direct Action Network (DAN), and participants in a smaller “Black Bloc,” mostly made up of anarchists and radical ecologists, who have a more militant interpretation of nonviolence, and who, after police begin to attack the blockaders, start a campaign of targeted property destruction against symbols of corporate power (mostly windows) downtown. On the first day, the meetings are actually shut down, and negotiations end in failure. The next few days see massive repression, culminating in the declaration of martial law and the summoning of the National Guard. The months immediately following Seattle are filled with a burst of new organizing and activity, and the creation of autonomous chapters of DAN in cities across the US, and even Canada.
 
-<em>**April 16, 2000.**</em> “A16” actions against the meetings of the World Bank and IMF in Washington DC. While not as tactically successful as Seattle (the meetings are not shut down), A16 marks the beginning of a rapprochement between the DAN organizers and the autonomous Revolutionary Anti-Capitalist Bloc—the Black Bloc assembled for the occasion—with the RACB refraining from property destruction and instead providing support for blockaders and those in lockdown.
+**April 16, 2000.** “A16” actions against the meetings of the World Bank and IMF in Washington DC. While not as tactically successful as Seattle (the meetings are not shut down), A16 marks the beginning of a rapprochement between the DAN organizers and the autonomous Revolutionary Anti-Capitalist Bloc—the Black Bloc assembled for the occasion—with the RACB refraining from property destruction and instead providing support for blockaders and those in lockdown.
 
-<em>**August 1, 2000.**</em> “R2K” actions against the Republican Convention in Philadelphia. Combined with D2K actions against the Democratic Convention in Los Angeles, these are collectively known among activists as R2D2. While LA DAN rejects widespread direct action for a strategy of marches in alliance with community groups, the Philly actions, organized above all by DANs in New York, Philly, and DC, mark further integration of Black Blocs and blockaders, with the “Revolutionary Anti-Authoritarian Bloc” in this case providing a diversion to draw police away from the lockdowns. Philly is also marked by an attempt to create alliances between the mostly white DANs and radical people of color organizations, with mixed success. Retrospectively, it is seen as the point where the lockdown/blockade strategy has largely run its course, prompting an interest in creating more mobile tactics.
+**August 1, 2000.** “R2K” actions against the Republican Convention in Philadelphia. Combined with D2K actions against the Democratic Convention in Los Angeles, these are collectively known among activists as R2D2. While LA DAN rejects widespread direct action for a strategy of marches in alliance with community groups, the Philly actions, organized above all by DANs in New York, Philly, and DC, mark further integration of Black Blocs and blockaders, with the “Revolutionary Anti-Authoritarian Bloc” in this case providing a diversion to draw police away from the lockdowns. Philly is also marked by an attempt to create alliances between the mostly white DANs and radical people of color organizations, with mixed success. Retrospectively, it is seen as the point where the lockdown/blockade strategy has largely run its course, prompting an interest in creating more mobile tactics.
 
-<em>**September 26, 2000.**</em> “S26” actions against the IMF/World Bank meetings in Prague, Czech Republic. This is the first large and dramatic action in Europe after Seattle. Like many European actions, the level of militancy is much greater than in the US. The actions see fierce clashes between Black Bloc anarchists and police, the first appearance of the festive “Pink Bloc,” and the first international debut of the Italian “white overalls” tactics (the “Tute Bianche,” organized by Italian Ya Basta!), a kind of comic mock army of activists in helmets, padding, shields, and often inflatable inner-tubes, who attempt to storm police lines armed, among other things, with balloons and water pistols.
+**September 26, 2000.** “S26” actions against the IMF/World Bank meetings in Prague, Czech Republic. This is the first large and dramatic action in Europe after Seattle. Like many European actions, the level of militancy is much greater than in the US. The actions see fierce clashes between Black Bloc anarchists and police, the first appearance of the festive “Pink Bloc,” and the first international debut of the Italian “white overalls” tactics (the “Tute Bianche,” organized by Italian Ya Basta!), a kind of comic mock army of activists in helmets, padding, shields, and often inflatable inner-tubes, who attempt to storm police lines armed, among other things, with balloons and water pistols.
 
-<em>**January 20, 2001**</em>. “J20” protests at Bush’s inauguration, the second largest inaugural protests in American history, though they receive almost no attention from the mainstream media. Most members of NYC DAN end up joining another Revolutionary Anti-Authoritarian Bloc. The Black Bloc manages to crash through police barricades and temporarily occupy Naval Memorial, hoisting a black flag and blocking the parade route, and Bush’s motorcade, for some time before finally being forced out by secret service and police.
+**January 20, 2001**. “J20” protests at Bush’s inauguration, the second largest inaugural protests in American history, though they receive almost no attention from the mainstream media. Most members of NYC DAN end up joining another Revolutionary Anti-Authoritarian Bloc. The Black Bloc manages to crash through police barricades and temporarily occupy Naval Memorial, hoisting a black flag and blocking the parade route, and Bush’s motorcade, for some time before finally being forced out by secret service and police.
 
-<em>**January 25–30, 2001**</em>. The first World Social Forum (WSF) is held in Porto Alegre, Brazil. Originally conceived as the radical alternative to the World Economic Forum (WEF)—a kind of junket and networking session for global officials and bureaucrats, usually held in Davos, Switzerland—the WSF rapidly becomes the intellectual center of the global movement against neoliberalism, with thousands of different organizations and individuals participating in hundreds of sessions.
+**January 25–30, 2001**. The first World Social Forum (WSF) is held in Porto Alegre, Brazil. Originally conceived as the radical alternative to the World Economic Forum (WEF)—a kind of junket and networking session for global officials and bureaucrats, usually held in Davos, Switzerland—the WSF rapidly becomes the intellectual center of the global movement against neoliberalism, with thousands of different organizations and individuals participating in hundreds of sessions.
 
-<em>**April 20–22, 2001**</em>. Actions against the “Summit of the Americas,” negotiations over the Free Trade Area of the Americas pact (FTAA) in Québec City, Canada. This is the first action where the authorities organize their strategy around building a large fence (“the wall”) around the section of the city where the summit is to take place. The actions, organized primarily by the Montréal-based Convergence des Luttes Anti-Capitalistes, or CLAC, mainly aim attacks at the wall itself, as a symbol of the contradictions of neoliberalism.
+**April 20–22, 2001**. Actions against the “Summit of the Americas,” negotiations over the Free Trade Area of the Americas pact (FTAA) in Québec City, Canada. This is the first action where the authorities organize their strategy around building a large fence (“the wall”) around the section of the city where the summit is to take place. The actions, organized primarily by the Montréal-based Convergence des Luttes Anti-Capitalistes, or CLAC, mainly aim attacks at the wall itself, as a symbol of the contradictions of neoliberalism.
 
-<em>**July 19–21, 2001**</em>**.** Several hundred thousand protesters converge on Genoa, Italy, for the G8 meetings of the heads of industrialized nations. The wall strategy is again employed, and Italian police, who had traditionally been relatively tolerant of white overall tactics, adopt a strategy of extreme repression this time, refusing any contact with protest leaders and employing a systematic strategy of encouraging fascists and agent provocateurs to provide excuses to attack, arrest, and afterwards, systematically abuse and even torture activists. Genoa is seen as a watermark of repression in Europe and causes European groups to scramble to formulate a new strategy.
+**July 19–21, 2001****.** Several hundred thousand protesters converge on Genoa, Italy, for the G8 meetings of the heads of industrialized nations. The wall strategy is again employed, and Italian police, who had traditionally been relatively tolerant of white overall tactics, adopt a strategy of extreme repression this time, refusing any contact with protest leaders and employing a systematic strategy of encouraging fascists and agent provocateurs to provide excuses to attack, arrest, and afterwards, systematically abuse and even torture activists. Genoa is seen as a watermark of repression in Europe and causes European groups to scramble to formulate a new strategy.
 
-<em>**September 11, 2001**</em>. Attacks on the Pentagon and World Trade Center. Anarchists in New York are among the first to mobilize against the upcoming war, with marches culminating in a march of six thousand people to Times Square a month after the event. These are almost completely ignored in the mainstream media. Actions being planned for the upcoming World Bank/ IMF meetings in Washington DC are radically scaled back as the movement is forced to reconsider its overall strategic direction.
+**September 11, 2001**. Attacks on the Pentagon and World Trade Center. Anarchists in New York are among the first to mobilize against the upcoming war, with marches culminating in a march of six thousand people to Times Square a month after the event. These are almost completely ignored in the mainstream media. Actions being planned for the upcoming World Bank/ IMF meetings in Washington DC are radically scaled back as the movement is forced to reconsider its overall strategic direction.
 
-<em>**February 3–4, 2002**</em>**.** World Economic Forum protests in New York City. In the immediate wake of 911, the WEF announces it will relocate, this year, from Davos (where it has become the object of frequent activist sieges) to the Waldorf Astoria in New York “as an act of solidarity.” Anarchists in NYC DAN and the newly created NYC Anti-Capitalist Convergence (ACC) are forced to throw together an action in a matter of months, abandoned by almost all of their usual NGO and Labor allies. The action is successfully and nonviolently pulled off, but is met by massive police intimidation and hundreds of arrests. The stress of 911, and of being forced to create a national mobilization out of nothing in such a short time, creates endless tensions within the New York scene and eventually leads to decline and eventual dissolution of DAN over the course of the next year.
+**February 3–4, 2002****.** World Economic Forum protests in New York City. In the immediate wake of 911, the WEF announces it will relocate, this year, from Davos (where it has become the object of frequent activist sieges) to the Waldorf Astoria in New York “as an act of solidarity.” Anarchists in NYC DAN and the newly created NYC Anti-Capitalist Convergence (ACC) are forced to throw together an action in a matter of months, abandoned by almost all of their usual NGO and Labor allies. The action is successfully and nonviolently pulled off, but is met by massive police intimidation and hundreds of arrests. The stress of 911, and of being forced to create a national mobilization out of nothing in such a short time, creates endless tensions within the New York scene and eventually leads to decline and eventual dissolution of DAN over the course of the next year.
 
-<em>**September 10–14, 2003**</em>**.** WTO Ministerial in Cancún, Mexico. Mass actions by Mexican and global activists—including the dramatic suicide of a South Korean farmer—end in a definitive check of the WTO process.
+**September 10–14, 2003****.** WTO Ministerial in Cancún, Mexico. Mass actions by Mexican and global activists—including the dramatic suicide of a South Korean farmer—end in a definitive check of the WTO process.
 
-<em>**November 17–21 2003.**</em> FTAA negotiations in Miami, met by the first genuinely large-scale national convergence in the US since 911. These meetings also see the first use, in the US, of a new policy of massive preemptive attacks and extreme police violence against protesters—an approach that comes to be known as the “Miami model” after Homeland Security announces it as the way to deal with such actions in the future. The free trade negotiations, on the other hand, come to nothing, marking the definitive end of the FTAA process.
+**November 17–21 2003.** FTAA negotiations in Miami, met by the first genuinely large-scale national convergence in the US since 911. These meetings also see the first use, in the US, of a new policy of massive preemptive attacks and extreme police violence against protesters—an approach that comes to be known as the “Miami model” after Homeland Security announces it as the way to deal with such actions in the future. The free trade negotiations, on the other hand, come to nothing, marking the definitive end of the FTAA process.
 
 I’ll end here, not because Miami represents the end of anything (though some have argued it marks the end of one cycle of at least the North American movement), but rather, because it marks the end of the period covered in this book. September 11 and the “War on Terror” did certainly create a dramatically new climate in the United States, but its effects elsewhere were less profound, and certainly less enduring. In other parts of the world, repression was never so severe, and most managed to avoid the wave of xenophobia and militarist nationalism that did so much damage in the US. In many ways, the movement began to go into a new and broader stage, particularly in Latin America, with the wave of factory occupations and local assemblies in Argentina, or one-time PGA conveners like Evo Morales actually coming to power in Bolivia, events in Atenco, Oaxaca, and other parts of Mexico itself. I do not want to generalize or make predictions: at moments of genuine change, history makes fools of all of us who try. But I will at least repeat what I have said before (e.g. Graeber 2002; Graeber and Grubacic 2004): that anarchism, as a political philosophy, and anarchist ideas and imperatives, have become more and more important everywhere in the world. There is a broad realization that the age of revolutions is by no means over, but that revolution will, in the twenty-first century, take on increasingly unfamiliar forms. First and foremost, I would hope this book will serve as a resource for those who wish to think about expanding their sense of political possibilities, for anyone curious about what new directions radical thought and action might take.
 
@@ -262,7 +252,7 @@ Not all were entirely happy with this plan, or with the idea of any sort of bord
 
 I was following much of this debate online from New Haven, where I was teaching at Yale three or four days a week. At the time, my activist schedule started with the weekly Ya Basta! meeting on Thursday and ended with the DAN meeting at 6PM Sunday; then I’d take the train up to Connecticut again. It seems to me one way to give the reader a feeling for what an activist life is like would be to simply go through my notes, and give some indications of the meetings I attended during the weeks following the CLAC caravan’s visit. As will soon become apparent, there are reasons these are particularly good weeks to start from. What follows will be something like a diary, and draws extensively on the diary-like notes I did keep at the time—though very much rewritten. It will also contain some much more literal extracts from my field notes.
 
-### **Thursday, March 1, 2001:** <em>**Ya Basta! formation training, Manhattan, 7PM**</em>
+### **Thursday, March 1, 2001:** **Ya Basta! formation training, Manhattan, 7PM**
 
 Every other week, instead of meetings, Ya Basta! would hold what we called “formation trainings.” These were held at a dance studio in Chelsea, made available to us by a member of the collective named Betty. Betty was a dancer and choreographer, at that time known around the New York art scene for her unique brand of shadow-dancing. She had first got drawn into activism after the electoral fiasco in Florida in 2000, fell in with the Ya Basta! crew in the bus heading down to the inaugural protests in Washington. She later explained she was attracted mainly to Ya Basta!’s theatrical, performative aspect—though she soon became a stalwart of NYC DAN as well.
 
@@ -288,7 +278,7 @@ The question is of course what would happen when the peasant insurrection actual
 
 In recent weeks, at least, meetings had started to become more interesting. Two weeks earlier, Mac, one of the Canadians in New York DAN, had come to the training to urge us to consider an alternative to Champlain: a border action at Cornwall, on a bridge in the middle of the Akwesasne Mohawk reservation. Mac was in contact with an old friend, a member of the Mohawk Warrior Society on the Canadian side, who was very enthusiastic about using the FTAA mobilization to make an issue of the fact that the US-Canadian border ran right down the middle of Mohawk lands. Despite the fact that both the US and Canada recognized their territory as sovereign by treaty, local people had to pass through an international border, and submit themselves to customs, just to visit their relatives on the other side. The Cornwall idea had an obvious appeal—especially since Mac thought he could line up a number of Canadian trade unionists to support us on the other side—but it meant abandoning the whole immigration detention issue that we’d been focusing on. It also seemed just a little too good to be true. At the first meeting we consensed to stick with Champlain. The next day, several people thought better of it and we decided, over the listserv, to postpone a decision until the next meeting. The final decision had been to investigate further; so today’s meeting was largely devoted to putting together a group of volunteers to go up to Cornwall over the weekend and check things out for themselves. Shawn, Mac’s contact there, was already getting together some fellow Warriors for the meeting. Moose had already found a car.
 
-### **Saturday, March 3:** <em>**Meeting with Mohawks**</em>
+### **Saturday, March 3:** **Meeting with Mohawks**
 
 Actually, we ended up with two cars, since a couple of people from Philadelphia had driven up as well. In addition, we had Moose, Smokey and Flamma, with Mac representing DAN, and a couple of local anarchists currently living in the Independent Media Center (IMC). They were to set out on Saturday morning.
 
@@ -306,7 +296,7 @@ This information has since been taken back to the groups in question and submitt
 
 When I read this at the time it seemed a bit opaque. Things became clearer at the DAN meeting the next day. Let me give a fuller account that particular meeting, since it was one of the more interesting I attended.
 
-### **Sunday, March 4:** <em>**DAN meeting, Charas El Bohio Cultural Center, 6PM**</em>
+### **Sunday, March 4:** **DAN meeting, Charas El Bohio Cultural Center, 6PM**
 
 We met in our usual room at Charas, an activist social center in the Lower East Side. The meeting started small: perhaps ten or twelve of us, though over the next hour or so a lot more drifted in, until, at its height, there were twenty-five or thirty. That day, we also had no less than three foreign visitors: Mike and Corey from SalAMI, and Olivier de Marcellus, who worked with Peoples’ Global Action in Switzerland. The SalAMI people were on an eleven-day American tour, giving action trainings in cities across the Northeast. They were being hosted largely by the International Socialist Organization (ISO), and were accompanied by a local ISO organizer. Olivier just happened to be in town.
 
@@ -318,7 +308,7 @@ I think everyone was at least a bit curious about Mike and Corey because until n
 
 They both stood up. Mike explained that SalAMI had been organizing in Québec City for three years now, but since word had got out about the security fence, they had determined that they weren’t going to be purely reactive and face the enemy on their own terms. So, instead of Québec, they were planning an action in Ottawa, the Canadian capital. The key issue, he explained, was that all the negotiations around the FTAA were being conducted in secret. Apparently, after the failure of WTO talks in Seattle, the US trade negotiators had decided their big mistake had been to give the public some idea what it was they were negotiating. This time they weren’t going to make the same mistake. None of the drafts or any information about what was in them was being released to the public—though all this information was being made available to corporations like McDonald’s, Monsanto, and Citibank.
 
-Mike: The idea is that on April 1<sup>st</sup>, we’ll organize a mass demo in Ottawa. We’ve reserved three rooms in Parliament to put the FTAA on trial…
+Mike: The idea is that on April 1st, we’ll organize a mass demo in Ottawa. We’ve reserved three rooms in Parliament to put the FTAA on trial…
 
 Someone: Wait a minute—you managed to reserve rooms in *Parliament*?
 
@@ -326,7 +316,7 @@ Corey: Well, it was one of our labor union allies that made the actual reservati
 
 Majeed: Remember, Canada is a different country. Unions actually have some rights there.
 
-Mike: …also, we’re going to invite anyone working on FTAA projects to let us drill them there, so the next day, the 2<sup>nd</sup>, we can conduct a nonviolent CD—a blockade of the Foreign Affairs and Trade offices. We’re going to do what we call a “search and seizure” action, go in, in search of the text. We’ve announced we’re going to do this if they don’t release the text by March 20<sup>th</sup>. Of course, in order to pull it off, we’ll need lots of help, to raise media awareness.
+Mike: …also, we’re going to invite anyone working on FTAA projects to let us drill them there, so the next day, the 2nd, we can conduct a nonviolent CD—a blockade of the Foreign Affairs and Trade offices. We’re going to do what we call a “search and seizure” action, go in, in search of the text. We’ve announced we’re going to do this if they don’t release the text by March 20th. Of course, in order to pull it off, we’ll need lots of help, to raise media awareness.
 
 Various details followed on attempts to get folksinger Ani DiFranco’s support and possible participation, the media blackout on the FTAA in the US (though coverage was pretty decent in Canada), and other issues. Majeed asked about diversity of tactics.
 
@@ -372,7 +362,7 @@ I ask how much of this was to go in the minutes—which are posted to an open-su
 
 Lesley’s report-back is followed by a number of other announcements: of a benefit for Casa del Sol, a squat in the Bronx; upcoming court dates for the Esperanza Garden defendants (they had been arrested defending a community garden from bulldozers some months before); a reminder of puppet-making every Saturday afternoon for the More Gardens! group. There were also report-backs from various DAN working groups: Labor, Police and Prisons, Legal; the WBAI campaign; the Web team; the Women’s Caucus. Brooke announced that Continental DAN (CDAN) had received a request from some people in Santa Cruz to join the CDAN network. (“Probably a bunch of hippies and deadheads, but we love them anyway.”) There is also a report from the newly created Banner Working Group, which seems to consist of two decidedly crusty looking individuals in black hooded sweatshirts, who unveil a beautiful banner that one of them had painted for DAN to carry during marches.
 
-Next comes New Business. The first item on the agenda is the Burlington Convergence. This, Brooke explained, is beginning to turn into a problem. The original idea had been to provide a place for people to start gathering on Monday April 16, so as to proceed to the border Thursday and ideally make it to Québec in time for the CLAC “Carnival Against Capitalism” parade on Friday the 20<sup>th</sup>. That way, there would be several days for everyone to hold trainings, educational events, and spokescouncils. However, at the moment we had just four or five people in Vermont trying to organize everything. Also, the event was technically being organized through NEGAN, the “New England Global Action Network.” In principle, NEGAN was the local equivalent to DAN—but unfortunately, it was top-heavy with “anti-corporate” types, liberal reformers, Greens, and socialist groups—notably the ISO. The ISO had its own agenda and it appeared to have little overlap with ours.
+Next comes New Business. The first item on the agenda is the Burlington Convergence. This, Brooke explained, is beginning to turn into a problem. The original idea had been to provide a place for people to start gathering on Monday April 16, so as to proceed to the border Thursday and ideally make it to Québec in time for the CLAC “Carnival Against Capitalism” parade on Friday the 20th. That way, there would be several days for everyone to hold trainings, educational events, and spokescouncils. However, at the moment we had just four or five people in Vermont trying to organize everything. Also, the event was technically being organized through NEGAN, the “New England Global Action Network.” In principle, NEGAN was the local equivalent to DAN—but unfortunately, it was top-heavy with “anti-corporate” types, liberal reformers, Greens, and socialist groups—notably the ISO. The ISO had its own agenda and it appeared to have little overlap with ours.
 
 Some background is required here. The ISO is one of the few of the innumerable Trotskyist sects that were founded and split from one another over the course of the 1960s and 1970s that had managed to survive and even expand in the intervening years. It had done so because, unlike the others, the ISO did not concentrate its recruiting efforts in factories but on college campuses. In 2001, the ISO was, in many ways, the anarchist nemesis—particularly, DAN’s. This was in part because they were trying to do similar things via radically different methods. Both were revolutionary anti-capitalists. Both believed in working within broad coalitions and trying to encourage them in more radical directions. The problem was that for the ISO, this was a very long-term process, and in the meantime they were mainly interested in numbers. They were always trying to put together the broadest coalitions possible, which meant wooing the leadership of unions and mainstream NGOs, who would, in turn, almost invariably want guarantees against violence or, often, against direct action of any kind. From the anarchist perspective, this was like trying to put an army of a hundred thousand people in the field, but only on condition that none of them actually do anything.
 
@@ -430,7 +420,7 @@ For instance, the Geneva demonstrations in 1998 were called by the Conveners. Th
 
 Brooke: Could you talk about the upcoming conference?
 
-Olivier: Yes. The International PGA conference is going to be held in Cochabamba from the 17<sup>th</sup> to the 24<sup>th</sup> of September, and the call *really will* come out this week (I’m sorry, I know we keep saying it, but it really will this week). We’re aiming for two hundred delegates, of whom seventy percent have to be from the South or East; sixty from Western Europe and North America and the rest from the “Global South.” The most sizeable contingent will be from Latin America. Right now the epicenter for resistance to globalization is the Andes; that’s the vital spot, which is why we’re holding it in Bolivia to begin with. Well, obviously of course, because that’s the city where there was the huge campaign against Bechtel when they tried to privatize the water system, which was spearheaded by PGA-affiliated groups.
+Olivier: Yes. The International PGA conference is going to be held in Cochabamba from the 17th to the 24th of September, and the call *really will* come out this week (I’m sorry, I know we keep saying it, but it really will this week). We’re aiming for two hundred delegates, of whom seventy percent have to be from the South or East; sixty from Western Europe and North America and the rest from the “Global South.” The most sizeable contingent will be from Latin America. Right now the epicenter for resistance to globalization is the Andes; that’s the vital spot, which is why we’re holding it in Bolivia to begin with. Well, obviously of course, because that’s the city where there was the huge campaign against Bechtel when they tried to privatize the water system, which was spearheaded by PGA-affiliated groups.
 
 But we’re really hoping there won’t be a coup before it happens.
 
@@ -506,13 +496,13 @@ So as far as the FTAA is concerned—there’s no reason not to block them in, e
 
 We go on talking for some time, about the problems of coordinating with groups with little or no Internet access, about the amazing PGA group called the “Network of Free Black Communities of South America,” founded by escaped slaves in the nineteenth century, about a dozen other things. By the time we headed off to a nearby coffee shop to continue the conversation, it was already almost 11PM.
 
-### **Tuesday, March 6:** <em>**FTAA Coalition meeting, 8PM**</em>
+### **Tuesday, March 6:** **FTAA Coalition meeting, 8PM**
 
 Actually I missed this one (along with the DAN Labor meeting held at the same time), but I heard what happened.
 
 The FTAA Coalition is a broad, New York-wide group which includes DAN, the Greens, the ISO, and various independent activists organizing for Québec City. So when Moose and Marina finally emerged from their sickbeds to give their report-back from the NEGAN meeting, they had to be relatively circumspect. Apparently there was also some ambiguity about the degree to which the Mohawks on the US side are really on board, since we had only been talking to Canadian ones so far. There was some kind of process going on among the Warrior Houses on the American side and no one was quite sure how things would turn out. There were also increasing tensions about the structure of the coalition itself.
 
-### **Thursday, March 8:** <em>**Ya Basta! meeting, Manhattan, 7PM**</em>[5]
+### **Thursday, March 8:** **Ya Basta! meeting, Manhattan, 7PM**[5]
 
 A much better meeting than usual, held at Aladdin’s apartment in a public housing development in Chelsea. There were about twenty people. This time, the meeting was even facilitated: informally, but well. Even more unusual, everything was captured on videotape.
 
@@ -530,7 +520,7 @@ Moose also says Shawn has been assuring us that getting through at the bridge wi
 
 So we formally consense on our support for the Cornwall action. Then, after yet another report on NEGAN, we start talking about the larger, New York-wide anti-FTAA Coalition, which actually is experiencing similar problems. The coalition is top-heavy with Greens and ISO people, and organizational tensions have become such that we’ve agreed to a special meeting on Friday just to sort things out. (“Marina is going. She’s the process queen,” observes Moose. She’s also a one-time ISO member turned anarchist who presumably knows how such people think.)
 
-The big news is that CLAC is having a “consulta,” or spokescouncil in Québec City on the 23<sup>rd</sup>, and Ya Basta! needs to send representatives—especially since during the last consulta, our people didn’t make it through. I volunteer. So does Emma, an artist currently working in a health food store on the Lower East Side. Emma points out she might not be an ideal choice, since, while part of the collective, she doesn’t intend to do Ya Basta!, but is going to be with the Black Bloc. No one seems to mind.
+The big news is that CLAC is having a “consulta,” or spokescouncil in Québec City on the 23rd, and Ya Basta! needs to send representatives—especially since during the last consulta, our people didn’t make it through. I volunteer. So does Emma, an artist currently working in a health food store on the Lower East Side. Emma points out she might not be an ideal choice, since, while part of the collective, she doesn’t intend to do Ya Basta!, but is going to be with the Black Bloc. No one seems to mind.
 
 The selection of delegates is not as delicate a matter as it might be because spokes are not, technically, empowered to make decisions for the group. They’re not really representatives. They are basically conduits for information: they explain what their group is intending to do, bring proposals, and convey information and proposals back to the group for it to consider collectively. (In a proper spokescouncil, where the other members of the affinity group are actually present in the room, this can happen on the spot. At a consulta where they aren’t, the number of decisions that can be made is much more limited.) Still, this raises the question: what is Ya Basta! in fact planning to do, if we do get through to Québec City? For the rest of the meeting, we consider the possibilities. Since no one is much interested in the idea of protecting SalAMI’s autonomous zone in the middle of nowhere, these come down to: (1) helping pull down the wall, (2) trying to get through the wall and enter the perimeter, or (3) providing some sort of diversion—since one thing we do know is that if you do dress up in bright padded outfits, the police will definitely follow you around. The wall is an obvious symbol of the hypocrisy of neoliberalism, but some of us find it a little too symbolic. On the other hand, if we could get inside the perimeter, what would we do there? Smokey had heard a story about a homeless shelter there that effectively had to close down operations because of the Summit—perhaps we could get them to formally invite us to provide security? Someone else had been pursuing the idea of dramatizing the fates of disappeared asylum-seekers: the Coalition for the Defense of the Rights of Immigrants had suggested we might think about placing not their pictures, but a series of specific demands on shields and banners and delivering them to the Summit. But to whom? And how to air them? The US media would never cover the story.
 
@@ -540,7 +530,7 @@ We don’t come to any decisions. Anyway, as a few people point out, we’re jus
 
 A final announcement. Moose says: “I’m supposed to tell people that Starhawk is going to be in town tomorrow.” (He pronounces it with a note of mild mockery: Staaaarhawk.) “I mean, me, I’m not too down with this kind of superstar celebrity bullshit, but she apparently wants to meet some of the New York Ya Basta! Collective so I figured I would pass it on.”
 
-### **Friday, March 9:** <em><strong>Coalition structure meeting at Amsterdam Pizza at 111<sup>th</sup> Street, 6:30PM</strong></em>
+### **Friday, March 9:** Coalition structure meeting at Amsterdam Pizza at 111th Street, 6:30PM
 
 This meeting consisted of maybe twenty activists ranged around a table in the back of a pizza joint pretending that they weren’t having an argument.
 
@@ -582,7 +572,7 @@ Maggie: I just want to know what to say to people who want to join us…
 
 And so on, apparently *ad infinitum*. I step out early, partly because, though I had my hand up frequently, Julie never once called on me; partly because several of us had told Starhawk we were coming over at eight. She was staying with a friend named Nesta in Columbia University Housing, just a few blocks away.
 
-### <em>**Meeting with Starhawk, 8PM**</em>
+### **Meeting with Starhawk, 8PM**
 
 A much, much more pleasant meeting. Inspiring, even.
 
@@ -658,7 +648,7 @@ Mouths opened.
 
 And so on. We drifted off to other topics, but Starhawk had registered her concerns. They had echoed some that had certainly occurred to me at one time or another. I had no idea if any of this was actually going to work.
 
-### **Tuesday, March 13:** <em>**AUTODAWG meeting at the National Lawyer’s Guild, 8PM**</em>
+### **Tuesday, March 13:** **AUTODAWG meeting at the National Lawyer’s Guild, 8PM**
 
 This was actually the first meeting I’d attended with the Direct Action Working Group everyone had been complaining about.
 
@@ -668,7 +658,7 @@ There were two main orders of business for the meeting itself. The first was the
 
 The other was an action planned for April 1. Enos, a local underground cartoonist had been taking point on this one with a friend named Nicky. They had also successfully managed to draft an activist named Twinkie, and this was a bit of a coup. Twinkie was an androgynous young woman whose parents were from Thailand, maybe nineteen or twenty years old with a dramatic punk haircut, famous for many things, but probably most of all for her enormous lung capacity. She was much sought after at demos for her amazing powers of projection, not to mention her knack for being able to invent songs and slogans for any occasion, on the spot. Such people are, as one might imagine, an enormous asset in any demo. In the past she’d largely avoided DAN, preferring to work with more community-oriented groups, but she had decided to throw herself into the FTAA organizing. She also had considerable experience in graphic design.
 
-Enos: We figured that since NEGAN is going to be meeting on the 31<sup>st</sup> in Burlington, we could go up from there to the border the next day—which, of course, is also April Fool’s Day. It’s basically a kind of publicity stunt, a media thing, to bring people’s attention to the issues, but also to the fact that they’ve been systematically stopping political activists from crossing over into Canada. And not just turning away people with molotovs, but regular community activists.
+Enos: We figured that since NEGAN is going to be meeting on the 31st in Burlington, we could go up from there to the border the next day—which, of course, is also April Fool’s Day. It’s basically a kind of publicity stunt, a media thing, to bring people’s attention to the issues, but also to the fact that they’ve been systematically stopping political activists from crossing over into Canada. And not just turning away people with molotovs, but regular community activists.
 
 Mac: Just last week they refused entry to Lorenzo Komboa Ervin—on the basis of some arrest thirty years ago.
 
@@ -704,7 +694,7 @@ An hour later, we were all strolling over to St. Mark’s place for drinks at th
 
 Outrageous article appears in the *Toronto Globe and Mail*, reporting rumors that Akwesasne Mohawks will be illegally “smuggling” activists with criminal records over the border into Canada. Apparently, Akwesasne itself has the reputation in Canada of being a den of smugglers—mainly of liquor and tobacco—so the implication is the same boats will be carrying a new criminal export—anarchists—presumably for money. Emails and phone calls are immediately exchanged about how to respond.
 
-### <em>**YABBA formation in Betty’s studio, 7PM**</em>
+### **YABBA formation in Betty’s studio, 7PM**
 
 We merrily bash each other about. This time, Smokey has come up with a suit made out of empty plastic coke-bottles, which proves remarkably resilient against most powerful blows of our padded billy-clubs. We go through various defensive scenarios: How to hold the line if cops are simply trying to break through a shield wall. How to defend a specific individual they’re trying to snatch. One thing that is becoming obvious is that with all this gear, we’re going to need at least twenty minutes prep time before we can go into action.
 
@@ -748,7 +738,7 @@ National borders were created through violence, and are maintained through viole
 
 **FOR THE SELF-DETERMINATION OF COMMUNITIES AND MOHAWK SOVEREIGNTY**
 
-We are choosing to travel via Cornwall in order to express our solidarity with the Mohawk Nation and our recognition of its sovereignty over territories it occupied long before the US and Canadian governments even existed. Nothing illustrates the insanity of national borders more than the fact that the same governments that waged genocidal war against the Mohawks now claim the right to determine who can cross from one part of Mohawk territory to another. Our solidarity with our Traditional Mohawk sisters and brothers is rooted in our support for regional autonomy and communal self-determination in the face of the arrogant power of the state; but, also, in our profound respect and admiration for a Nation whose political contributions to the world—the creation of a federative constitution without a centralized state, the collective management of resources, respect for individual autonomy, the role of peacemaking, the political empowerment of women—provide, for many of us, visions of how a future just society might work that is far more compelling than the US Constitution, which was partially inspired by it. We wish to thank our Mohawk friends for their generous invitation and express our profound commitment to furthering their struggle for sovereignty, communal rights, and social justice, just as they have recognized our right, as world citizens, to make our presence known to the politicians who presume to act in our names in Québec City on April 19<sup>th</sup>–21<sup>st</sup>.
+We are choosing to travel via Cornwall in order to express our solidarity with the Mohawk Nation and our recognition of its sovereignty over territories it occupied long before the US and Canadian governments even existed. Nothing illustrates the insanity of national borders more than the fact that the same governments that waged genocidal war against the Mohawks now claim the right to determine who can cross from one part of Mohawk territory to another. Our solidarity with our Traditional Mohawk sisters and brothers is rooted in our support for regional autonomy and communal self-determination in the face of the arrogant power of the state; but, also, in our profound respect and admiration for a Nation whose political contributions to the world—the creation of a federative constitution without a centralized state, the collective management of resources, respect for individual autonomy, the role of peacemaking, the political empowerment of women—provide, for many of us, visions of how a future just society might work that is far more compelling than the US Constitution, which was partially inspired by it. We wish to thank our Mohawk friends for their generous invitation and express our profound commitment to furthering their struggle for sovereignty, communal rights, and social justice, just as they have recognized our right, as world citizens, to make our presence known to the politicians who presume to act in our names in Québec City on April 19th–21st.
 
 It ended with contact numbers for Ya Basta! (me), DAN (Eric), and the Mohawk Warriors (Shawn).
 
@@ -760,7 +750,7 @@ Afterwards, parties. Powwow outside one of them about the press release. Time is
 
 It’s not clear if anyone ever read it. Certainly no one ever calls us back. All such grand statements simply disappear into the ether, just like all the op-eds and letters we regularly send out to newspapers before major actions. Then, the same media outlets who refuse to run them complain to their readers that it’s impossible to figure out what these anti-globalization types are actually for.
 
-### **Sunday, March 18:** <em>**DAN meeting at Charas**</em>
+### **Sunday, March 18:** **DAN meeting at Charas**
 
 Another long meeting. Prolonged discussion on the current state of negotiations with Shawn and OCAP.
 
@@ -768,7 +758,7 @@ Mac urges DAN to endorse the Cornwall action: best, he says, to do so as quickly
 
 There’s a long discussion about a fund-raising party being planned at a place called the Frying Pan, about the *Globe and Mail* story and others like it, and, especially, about the media event planned for April Fool’s Day. An April 1 working group had already formed and hashed out the details:
 
-Enos: That recent article in the *Globe and Mail* is actually symptomatic of the kind of press we’ve been getting. It’s all pretty much the same: we’re going to be violent, disruptive, we’re a bunch of hoodlums, not representative of anyone or anything, coming to set fire to the city. So, we were trying to figure out how to provide some more realistic images of who we are and what we’re about. That’s how we hit on the idea of doing an action with funny costumes, something silly and harmless. The idea was that we could time it for April 1<sup>st</sup>, which is not only April Fool’s Day, it’s the day that SalAMI is carrying out their “show the text” action in Ottawa. We show up at the border, we tell them politely that we’re going to join the protests in Ottawa; we get turned back; we hold a press conference. Explain to them this is what we have to do to get any media attention.
+Enos: That recent article in the *Globe and Mail* is actually symptomatic of the kind of press we’ve been getting. It’s all pretty much the same: we’re going to be violent, disruptive, we’re a bunch of hoodlums, not representative of anyone or anything, coming to set fire to the city. So, we were trying to figure out how to provide some more realistic images of who we are and what we’re about. That’s how we hit on the idea of doing an action with funny costumes, something silly and harmless. The idea was that we could time it for April 1st, which is not only April Fool’s Day, it’s the day that SalAMI is carrying out their “show the text” action in Ottawa. We show up at the border, we tell them politely that we’re going to join the protests in Ottawa; we get turned back; we hold a press conference. Explain to them this is what we have to do to get any media attention.
 
 That’s pretty much it. To make this work, though, we’re going to need lots more people at the meetings. We only got three or four last time. I’m going as Bush, Nicky will be a dollar bill. Julie from the Urban Justice League is going to be a genetically engineered tomato…
 
@@ -790,7 +780,7 @@ Technically, Sasha, the filmmaker, was not actually going to the consulta but to
 
 We made the border crossing without a problem, trying to look as clean-cut as possible. (Emma attempted to cover up the green parts of her hair with a little stocking-cap, and pulled a hoodie over the grungy Clash T-shirt, but we wondered if it was even necessary. American punk rockers, as Sasha pointed out, are quite regularly allowed entry into Canada.) Sasha, in the driver’s seat, explained that we were going to an Independent Media Conference, a claim made infinitely more convincing by the large expensive video camera sitting next to him (he had been occasionally stopping to do panoramic shots of the countryside). The border cops waved us on. We skirted through Montréal, staring at a gigantic folding map to the music of Professor Longhair, getting lost only once, marveling at the billboards advertising vacations in Cuba (the first dramatic evidence that we really are in a different country), and started the final, flat, rather dreary run to Québec as the sun began to set. We hit the city itself by early evening.
 
-#### <em>**We Arrive**</em>
+#### **We Arrive**
 
 Navigating our way through the city itself is not easy. The city planners seem to have seen nothing wrong with putting three or four one-way streets in a row, all going in the same direction; they also didn’t seem to feel it was very important to put names on said streets, at least anywhere one might be able to see them. There’s also the fact that the CLAC driving instructions we’re using are exceptionally bad. Finally, we manage to locate our first stop: the Independent Media Center.
 
@@ -798,7 +788,7 @@ Actually, the IMC is a pretty standard first stop when you come to a new city be
 
 He introduces us to a tiny, slightly pixyish woman named Isabel, who then gives us directions. The next twenty minutes are spent trudging up a steep hill to the CLAC/CASA Welcome Center, in a beautiful old building with extremely heavy wooden doors, only to discover that the Welcome Center is really only a place to find housing and we actually already have housing lined up (everything had been arranged by phone with the CLAC people before we set out). Finally, around 10PM, after securing what we think are adequate directions, we return to the car and set off to meet our hosts.
 
-#### <em>**Our Hosts**</em>
+#### **Our Hosts**
 
 Our hosts, as it turned out, lived in an extremely beautiful neighborhood, all cornices and chimneys and tiny shops set in the corners of nineteenth century apartment blocks. It looked vaguely like the West Village, but much less pretentious—partly, I thought, because positioned as it was across an insanely steep hill, it had never been seriously gentrified. I was later to learn this was the heart of Jean Baptiste, one of the few “popular” neighborhoods left in the high part of the town near the old, walled city, now mostly full of hotels and convention centers.
 
@@ -840,7 +830,7 @@ Sebastien smiles. “Yes, actually, there were some people talking to organizers
 
 After breakfast, we drop off Sasha at the IMC and head to the spokescouncil, which is being held below the old city, in some kind of adult education building along a broad avenue called Réne-Lévesque. The spokes is only just getting started. The antechamber is a long hallway with vending machines, a little niche for drinking coffee, and a vast table full of activist literature.
 
-#### <em>**The Table Outside**</em>
+#### **The Table Outside**
 
 On the table, endless stacks of papers. Arranged in neat piles are all the handouts one always sees, in any action: Legal Information, Medical Information, resources for independent journalists. There are also various calls for border actions, one for a feminist action, numerous informational broadsheets about the FTAA itself and the damage it will do to labor and environmental rights, replete with dramatic headlines and cartoon illustrations. Most are bilingual; a few are only in French. There are beautiful “Carnival Against Capitalism” posters available for a suggested ten-dollar contribution, unattended, with a bowl in front for the money. I pick up two, leave twenty bucks American. Towards the very end of the table is a priceless ten-page pamphlet called “The Summit of the Americas …. From the Bottom Up.” It explains who CLAC and CASA are, with a Plan of Action, Tour Guide for politically minded visitors, transportation information, URLs, and, crucially, a map of the city with an outline of the security perimeter, divided into zones. This is the one that was sitting on the table last night. I take two of them.
 
@@ -870,7 +860,7 @@ There’s also an enormous bowl full of homemade stickers, apparently free:
 
 Along with these are a variety of tiny colorful buttons, suggested donation of fifty cents, with CLAC’s lovable raccoon mascot, fist in air. (Anarchists have a thing for small furry animals, particularly if they live underground.) No T-shirts, though. Dean picks up a couple buttons. Then we go in.
 
-#### <em>**The Room Inside**</em>
+#### **The Room Inside**
 
 Inside is a very large room which seems to normally be used for dance recitals, or maybe gymnastics. There are polished hardwood floors and one wall is made entirely of mirrors. There are already about a hundred fifty to two hundred activists sitting in a giant circle amidst endless piles of coats and other gear. Near the door is a registration table, attended by a young woman with a box full of squares of colored paper, who assures us that the meeting has only been going on for at most twenty minutes. Whispered clarifications: anyone attending the meeting can speak, but only spokes can actually vote. Each collective or affinity group is allowed up to two votes, indicated by paper squares. Have our groups empowered us as spokes? Yes? She hands us our two pieces of paper, one red, one blue. “Oh yes,” she says, “I almost forgot. None of you are working journalists or in any way connected to law enforcement?”
 
@@ -902,23 +892,23 @@ We emphasize “disruption” because, from early on, CLAC and CASA came to the 
 
 CLAC and CASA have developed a series of proposals about the actions themselves that we would like you to consider. [*She begins translating from a page in French*]:
 
-On Thursday, April 19<sup>th</sup>, we are proposing a spokescouncil at 3PM, of everyone who’s here by that time, to finalize details of the action. That same night, we are proposing we hold a torchlight parade. This will be a Green action, our goal is not to be arrested before the 20<sup>th</sup>, but to welcome the Summit, as it were. We just want to specify again: this is a demo, not a confrontation. It will stop as soon as the cops appear. Just a way to say “hi” and begin to mobilize our people. Those are the only goals for that day.
+On Thursday, April 19th, we are proposing a spokescouncil at 3PM, of everyone who’s here by that time, to finalize details of the action. That same night, we are proposing we hold a torchlight parade. This will be a Green action, our goal is not to be arrested before the 20th, but to welcome the Summit, as it were. We just want to specify again: this is a demo, not a confrontation. It will stop as soon as the cops appear. Just a way to say “hi” and begin to mobilize our people. Those are the only goals for that day.
 
 [*Various people have questions.*]
 
 *Facilitator*: Can we go through the whole schedule and only then go to questions?
 
-*Celine*: On Friday the 20<sup>th</sup>, the Carnival Against Capitalism march will assemble on the Plains of Abraham at noon, and then people can choose where we go. At roughly 2PM, everyone will disperse into their own blocs and types of action; there may be a march but we have not organized one yet because we don’t know what the security situation will be like.
+*Celine*: On Friday the 20th, the Carnival Against Capitalism march will assemble on the Plains of Abraham at noon, and then people can choose where we go. At roughly 2PM, everyone will disperse into their own blocs and types of action; there may be a march but we have not organized one yet because we don’t know what the security situation will be like.
 
-Now, bear in mind: everything we’re presenting here can be modified. These are just proposals. Right now, we are also proposing that at 6PM Friday the 20<sup>th</sup> we hold an assembly to go over the day’s events and plan for the next.
+Now, bear in mind: everything we’re presenting here can be modified. These are just proposals. Right now, we are also proposing that at 6PM Friday the 20th we hold an assembly to go over the day’s events and plan for the next.
 
-On Saturday the 21<sup>st</sup>, we will participate in the big labor demo as an explicitly anti-capitalist contingent. We will however, respect the organizers’ parameters during the march. So, this is not, itself, an occasion for direct action.
+On Saturday the 21st, we will participate in the big labor demo as an explicitly anti-capitalist contingent. We will however, respect the organizers’ parameters during the march. So, this is not, itself, an occasion for direct action.
 
 That evening, a lot of demos and diverse actions could go on, and of course jail solidarity actions.
 
-Sunday the 22<sup>nd</sup> will be the same: there will be space for different actions, but also for prison solidarity.
+Sunday the 22nd will be the same: there will be space for different actions, but also for prison solidarity.
 
-So… back to the 20<sup>th</sup>. What CLAC and CASA have sort of organized is two different demos, Yellow and Green. If you look at the handout, you will see, on the right of page two, both proposals. Both assume the existence of a free zone, in which there will be very limited risk of arrest [*some skeptical laughter*], a place for Green, creative demos. It will be a fixed location, a free place where everything will be beautiful. At the moment, assuming we assemble on the Plains of Abraham at noon, we have two possibilities. It’s a little vague because we don’t know where exactly the security perimeter will be, but basically, one is that the Yellow Bloc will break out of the Plains and march directly to carry out a carnivalesque action in front of the security perimeter; the second is that we begin together with the Green Bloc on the Plains of Abraham and carry out a much longer march which would snake through the city, allowing the Green Bloc to split off, and then arrive in the same place some hours later.
+So… back to the 20th. What CLAC and CASA have sort of organized is two different demos, Yellow and Green. If you look at the handout, you will see, on the right of page two, both proposals. Both assume the existence of a free zone, in which there will be very limited risk of arrest [*some skeptical laughter*], a place for Green, creative demos. It will be a fixed location, a free place where everything will be beautiful. At the moment, assuming we assemble on the Plains of Abraham at noon, we have two possibilities. It’s a little vague because we don’t know where exactly the security perimeter will be, but basically, one is that the Yellow Bloc will break out of the Plains and march directly to carry out a carnivalesque action in front of the security perimeter; the second is that we begin together with the Green Bloc on the Plains of Abraham and carry out a much longer march which would snake through the city, allowing the Green Bloc to split off, and then arrive in the same place some hours later.
 
 In either case, the ultimate goal is a gigantic, marvelous carnival, with both small affinity group actions and bigger collective ones—we need all of you!
 
@@ -968,7 +958,7 @@ Conversation continued in a similar vein for another fifteen minutes. No one was
 
 Lunch was on the fly. We grabbed plates, scooped out some sort of large casserole and salad, a cup of cider, and took it with us to the rooms where the breakouts were being held downstairs. We were mostly assigned different rooms, of course, though somehow Lynn and I both ended up in the same one: Group Five.
 
-#### <em>**12:10PM, First Breakout Session**</em>
+#### **12:10PM, First Breakout Session**
 
 Downstairs were a whole series of small rooms that had the feel of seminar rooms, big tables, fluorescent lights, mostly without windows.
 
@@ -1004,7 +994,7 @@ Older Guy: My question is: before we talk about vigilance and protection, should
 
 French Guy: When will the Convergence Center actually be set up? [*We all start looking at the handout, but there’s no indication.*]
 
-*Radikha*: In response to the centralization question: by “Convergence Center” we mean a meeting place to hold spokescouncils, also to welcome people, place them in housing, that sort of thing. We haven’t decided what other functions the place might serve. As for the date, we don’t know that yet, but it certainly will be up and running by Wednesday the 18<sup>th</sup>.
+*Radikha*: In response to the centralization question: by “Convergence Center” we mean a meeting place to hold spokescouncils, also to welcome people, place them in housing, that sort of thing. We haven’t decided what other functions the place might serve. As for the date, we don’t know that yet, but it certainly will be up and running by Wednesday the 18th.
 
 Younger French Guy: What about the giant puppets? Will they be made in the same place?
 
@@ -1110,7 +1100,7 @@ English Guy: I’m representing two affinity groups based in the University of T
 
 David: I’m with New York City Ya Basta! We have four or five ideas for action scenarios, none of which can be discussed here. Well, I guess there’s one we can discuss. Some of us had an idea to come out, suited up in our padding and chemical jumpsuits, and get a really large ladder, and just kind of wander around with it right next to the wall. If nothing else, it would work as a diversion. We find that whenever we show up in the suits, cops tend to follow us wherever we go.
 
-Young Québécois Woman: I represent a popular neighborhood committee in the neighborhood of St. Jean Baptiste—this is a neighborhood that is going to be cut in half by the wall. We’re planning a series of actions on the 17<sup>th</sup> and 18<sup>th</sup> having to do with that. Can we discuss those here?
+Young Québécois Woman: I represent a popular neighborhood committee in the neighborhood of St. Jean Baptiste—this is a neighborhood that is going to be cut in half by the wall. We’re planning a series of actions on the 17th and 18th having to do with that. Can we discuss those here?
 
 *Facilitator*: Sure, why not?
 
@@ -1134,7 +1124,7 @@ Someone asks if we are also supposed to be discussing the march: whether we’re
 
 In the hall, I run into Lesley. We compare notes. Most of her session was also wasted on meandering discussions of Red and Yellow. Only at the end did anything useful come out. Dean had a similar experience. Emma appears to have vanished. As I head upstairs, several people point me out as the Ya Basta! delegate—I’m getting the definite impression there’s a feeling this is going to be the big new innovation for this action: shields and padding and defensive tactics. (As it turns out they’re wrong; it won’t be. But it was kind of fun being a de facto celebrity.)
 
-#### <em>**1:45PM, Back to the Plenary**</em>
+#### **1:45PM, Back to the Plenary**
 
 A brief, abortive effort to find myself a cup of coffee ended when I remembered I still didn’t have any Canadian money, and there were no obvious ATMs. Still, it gave me a chance to step outside. After hanging out a little in the antechamber, where there had been rumors of a *Montréal Gazette* reporter, I returned to discover the newly rotated facilitators busy synthesizing. Having gone over the written reports from each session, they were now drawing up a list of ten different sorts of action to be addressed in the next breakouts, writing them on huge sheet of butcher paper taped to one wall, sparking occasional chuckles at some of the evocative not-quite-English circumlocutions:
 
@@ -1176,7 +1166,7 @@ The medics explain that no one should assume that, if injured, they will be able
 
 As questions begin I step out into the antechamber, do a quick interview with a reporter in exchange for a cup of coffee, take a stroll outside. We’ve been meeting for five or six hours. When I stroll back in, Jaggi, representing the financial team, is explaining the organizers are currently about $20,000.00 in the red. Then, they ask for volunteers to facilitate the next round of breakout groups. I end up in the “approaching the wall” group (assuring myself this is because that’s what my affinity group is intending to do and has nothing to do with the fact the facilitator, a young blonde woman looks strikingly like a punk rock version of Buffy the Vampire Slayer). Dean joins me—along with Emma, who has spent most of the session making friends with some Black Bloc types on the other side of the circle. Lesley says she’s going to cruise out with Lynn to find the place where she’s supposed to stay.
 
-#### <em>**4:30PM, Breakout Session**</em>
+#### **4:30PM, Breakout Session**
 
 The final meeting of the day was a little frustrating. In theory, it was the most militant session—though we still couldn’t discuss militant tactics explicitly. It was also a strange mix: there were twenty-six of us (fifteen men, eleven women, as I duly set down in my notebook), mainly anarchists but also including representatives of the ISO, IAC, and other Marxist types with whom anarchists don’t usually feel comfortable discussing militant actions. Everyone seemed a little uncertain how much they could say. Spokescouncils are by definition not truly secure environments, most of us didn’t know each other. Anyone might be a cop.
 
@@ -1220,11 +1210,11 @@ Presumably they won’t be evenly dispersed, They’ll have large units at the g
 
 *Facilitator*: Does anyone have a proposal for anything to put on the formal agenda? Because, you know, we don’t actually have an agenda yet.
 
-There seems little point and we decide to keep it informal. So: What would be the best day to try to breach the wall? CLAC has only been talking about Friday, the 20<sup>th</sup>, but the big labor march was on Saturday and that would be at least forty, fifty thousand people. As always, the union leaders were doing everything possible to keep their people away from the action. The march would begin at a location fairly far away from the Summit and then proceed in the opposite direction. Still, if it would be possible to divert even a fraction of the marchers towards the wall itself, it would completely change the balance of forces. Many people remark on the unlikelihood of such a thing. Since Seattle, union bureaucrats have become remarkably good at ensuring this never happened. Others remark that Canada is different. Finally, we all end up yielding to the authority of an old man in a fisherman’s cap and scraggly beard who had been largely silent until now. He explains, in French, that he grew up in the old city, and might have some insights others don’t. After a little bit, seeing that the out-of-towners are paying rapt attention, he switches to English:
+There seems little point and we decide to keep it informal. So: What would be the best day to try to breach the wall? CLAC has only been talking about Friday, the 20th, but the big labor march was on Saturday and that would be at least forty, fifty thousand people. As always, the union leaders were doing everything possible to keep their people away from the action. The march would begin at a location fairly far away from the Summit and then proceed in the opposite direction. Still, if it would be possible to divert even a fraction of the marchers towards the wall itself, it would completely change the balance of forces. Many people remark on the unlikelihood of such a thing. Since Seattle, union bureaucrats have become remarkably good at ensuring this never happened. Others remark that Canada is different. Finally, we all end up yielding to the authority of an old man in a fisherman’s cap and scraggly beard who had been largely silent until now. He explains, in French, that he grew up in the old city, and might have some insights others don’t. After a little bit, seeing that the out-of-towners are paying rapt attention, he switches to English:
 
 Fisherman: It’s true, we do not know where the police will be, but we can assume they’re not just going to be inside the perimeter—to get near it might be a battle in itself. If so, if we are going to be under fire from tear gas and the like as we approach, I think we should not approach from our own neighborhoods. There are two broad thoroughfares: one is René Lévesque, the other Grand Allée, which runs parallel to its south. These are the streets of the bourgeoisie. They are both streets where top bureaucrats and wealthy people live; so this would be a good area from which to advance on the perimeter.
 
-David: What my affinity group has been wondering is: if by some miracle we do get inside the perimeter on the 20<sup>th</sup>, well—then what? We’ve heard talk about disrupting the opening ceremonies, if only by our being there, or somehow cutting off the media control center.
+David: What my affinity group has been wondering is: if by some miracle we do get inside the perimeter on the 20th, well—then what? We’ve heard talk about disrupting the opening ceremonies, if only by our being there, or somehow cutting off the media control center.
 
 Dean: Once inside, will we be able to mix into the crowds? Will there be guards checking for people with passes?
 
@@ -1232,7 +1222,7 @@ Fisherman: It’s not clear. A lot depends on how much of a threat they think we
 
 Gradually I realized what was going on. As I mentioned, in any such meeting, one had to assume someone in the room was a cop (the references to microphones were mostly a way of being polite). Therefore, the only person who was completely comfortable talking was the one man who actually thought it was tactically advantageous for the police to know our plans. Everyone else was beginning to look increasingly fidgety and uncomfortable. Finally, someone suggested we’d gone about as far as we could, and we broke for dinner; with Emma and some others passing word that those who were really serious about the project, and had someone who could vouch for them, would meet later at the CASA party that night to reconvene. Meanwhile, we will write in our official report that it’s too soon to come to any real conclusions, but we need to convene a spokescouncil to plan this specific action a few days before the summit, when we have some idea what things will actually look like.
 
-#### <em>**8:00PM, Scanner Party**</em>
+#### **8:00PM, Scanner Party**
 
 The party was held at a place called the Scanner Bistro, a “multimedia club” with an Internet café and bar downstairs, along with a small bandstand. Upstairs there was another bar, a pool table, foosball, a Judge Dredd pinball machine, and scattered monitors and speakers on the wall that enabled one to see and hear whatever live act was on stage downstairs. As our crew came in—about twelve of us from the wall breakout group, including most of the New Yorkers—two women were on stage, performing some sort of spoken-word piece in highly colloquial French. Later, there was a man who I think was a comedian; we were told a band was going to be coming out later, but by that time none of us were paying much attention. We ended up upstairs, looking for a table, because, finally, someone had found a proper map.
 
@@ -1256,7 +1246,7 @@ By about 1AM, after what must have been the sixteenth round of “smash the stat
 
 Our group slept through the official CLAC/CASA tour of the city, which was supposed to be in the morning, but we managed to make it over to the spokes by around 11:00AM—for a change, just as it was getting under way. (Actually it was supposed to have started at 10AM but we seemed to be dealing with a serious case of “activist time.”) Numbers were smaller than the day before, but not much. Lesley, Dean, Lynn, and I reconstructed our little nest—now with Sasha and Kitty joining us—Emma was off with her new Black Bloc friends. The CLAC team had rotated too: Jaggi was no longer translator, but was actually facilitating this time, along with an older woman I hadn’t seen before.
 
-#### <em>**11:00AM, Plenary Meeting**</em>
+#### **11:00AM, Plenary Meeting**
 
 The meeting began with report-backs from the breakout sessions the night before; afterwards, we would consider a series of concrete proposals. The report-backs are worth documenting, I think, because they give some sense of how, through such open-ended and sometimes apparently unproductive discussions, action plans really can take form. In each case, the idea was to create a summary of ideas that spokes could take back to their affinity groups across North America to see which they would like to develop and plug into, and to provide the means to stay in touch with one another (usually by email).
 
@@ -1310,7 +1300,7 @@ There are all kinds of means that can be used by the Red, Yellow, and Green Bloc
 
 As a sidenote: Montréal Food Not Bombs is currently preparing a large amount of food that will be frozen and brought in for a collective feast, perhaps to be held underneath the highway on Friday or Saturday night.
 
-**9) Flying squads (**<em>**groupes mobiles**</em>**)**
+**9) Flying squads (****groupes mobiles****)**
 
 The purpose of flying squads is to provide support for hot points during the action; also, to take advantage of opportunities that might open up suddenly. All this, of course, depends on having accurate information on what’s happening. A comms system is essential, and we’re not sure what sort of communications infrastructure (radios? walkie-talkies?) has already been set up. We are imagining numerous relatively small groups of three, four, or five people, well-coordinated with each other. They will decide for themselves which of the three blocs they will be supporting, what calls to respond to. The coordination already being organized.
 
@@ -1510,7 +1500,7 @@ The next proposal concerned the starting point of the march: whether to assemble
 
 Kitty took off, explaining she had promised a friend in the US she would check out the road to the airport. Her friend had heard there’s only a single-lane highway, with no alternate routes. Dean, Sasha, and I head out for our own informal tour with the Scanner folk (Emma’s disappeared somewhere). We assemble, as promised, at 1PM and munch sandwiches as we stroll through the cobbled streets of the soon-to-be forbidden zone.
 
-#### <em>**1:15PM, Final Investigations**</em>
+#### **1:15PM, Final Investigations**
 
 The Plains of Abraham, a huge stretch of parkland at the top of Jaggi’s cliffs, is still entirely covered with snow. It’s mostly deserted on a frigid Sunday afternoon. About a dozen of us set out in search of the stretch of wall supposedly already installed. We look incredibly obvious in our black hoodies, military pants and endless patches (the kid next to me, in blonde dreads, is wearing a jacket emblazoned with the words “Vegan Death Squad.”) Only Buffy, the previous night’s breakout facilitator, is incognito in brown suede jacket and a camera. She makes a not entirely unconvincing tourist (the camera is in fact to document information of possible tactical use). Sasha has a huge video camera, to document our expedition. Others have cameras too.
 
@@ -1550,7 +1540,7 @@ Nods all around. I assure him that no one on the US side has even considered usi
 
 We swung back to the spokescouncil just in time to see Emma and her new friend Craig come out in tremendous irritation. Apparently, a GOMM representative had, indeed, come in and asked for certain zones to be named Yellow-only; one was presumably the highway area, which we don’t want anyway, so that’s fine, but another was right up to the fence on one of the three streets we were going to march on. We shrug and figure, they’ll work it out. Anyway, if we want to get home before 2AM, we’d better start driving.
 
-#### <em>**The Road Home**</em>
+#### **The Road Home**
 
 For about an hour, Emma is still fulminating against pacifists. Why is it that people insist on trying to impose their own codes of conduct on others? How can they call themselves anarchists? These things should be left strictly up to each affinity group to decide for themselves.
 
@@ -1572,13 +1562,13 @@ The next couple weeks were increasingly frenetic. I’ll give only the most sche
 
 **NEW YORK DIARY CONTINUED**
 
-### **Thursday, March 29, 2001:** <em>**Ya Basta! meeting, Brooklyn**</em>
+### **Thursday, March 29, 2001:** **Ya Basta! meeting, Brooklyn**
 
 Ya Basta! meeting, a big circle in Moose’s living room. This meeting marks the first appearance of Smokey and Flamma’s friend Jesse, a cocky-seeming young man newly arrived from Louisiana. Tells us he’s an “organizer,” needs something to organize, and Ya Basta! is clearly in need of help. He’s actually a pretty good facilitator and insists we have a proper meeting, but just about everyone not of the Smokey and Flamma faction takes an instant dislike to him.
 
-### **Friday, March 30:** <em>**Independent Media Center, Manhattan**</em>
+### **Friday, March 30:** **Independent Media Center, Manhattan**
 
-Hours at the IMC, mainly spent consoling Moose over a recent romantic disaster. Everyone is dashing about making preparations for the border action. Warcry is going as a dollar bill. Julie from the Urban Justice League is popping in and out, looking alternately sweet and officious. Twinkie and Brad<sup>1</sup> are out on bicycles when I come, searching for sushi. There’s an enormous store of the stuff in the IMC fridge, mostly with the fish parts carefully picked out.
+Hours at the IMC, mainly spent consoling Moose over a recent romantic disaster. Everyone is dashing about making preparations for the border action. Warcry is going as a dollar bill. Julie from the Urban Justice League is popping in and out, looking alternately sweet and officious. Twinkie and Brad1 are out on bicycles when I come, searching for sushi. There’s an enormous store of the stuff in the IMC fridge, mostly with the fish parts carefully picked out.
 
 ### **Sunday, April 1**
 
@@ -1586,7 +1576,7 @@ Hours at the IMC, mainly spent consoling Moose over a recent romantic disaster. 
 
 Early word coming in about the border action. It sounds like it went fairly well—everyone was detained, and most told not to enter Canada for five years, but that was kind of expected, and at least we got coverage on WBAI and even some Canadian TV. Still, there seems to have been some kind of falling about between activists. The SalAMI action in Ottawa also went extremely well and grabbed headlines all over Canada. Of course, US media never even mentioned it but that was only to be expected.
 
-#### <em>**DAN Meeting, Charas El Bohio**</em>
+#### **DAN Meeting, Charas El Bohio**
 
 I was at the DAN meeting at Charas at 6 PM. Lesley and I gave our report-back from the Québec spokes, trying to explain the dynamics of the three color blocks. There were the usual worries about what was actually going on at Akwesasne and about Shawn’s rhetoric, as well as a long discussion of PGA’s upcoming general meeting in Cochabamba, and the need for Continental DAN to finally get on board and formally endorse the PGA principles (which we do).
 
@@ -1612,7 +1602,7 @@ The name-calling on the listservs is getting unusually vituperative as everyone 
 
 Can someone remind me why we are protesting the FTAA? Hmm???? To recruit more people in our organizations??? Or the fact that corporations ignore borders and people are oppressed by them! What about Cornwall and what’s happening to the Mohawks? Are we going there because it’s an easy way into Québec, or is it because we really support the fact that the border is a daily affront to their living and sovereignty?
 
-SO! That is what happened on Apr 1<sup>st</sup> at that media action thingy. No one addressed those issues and only focused on their lame, privileged, white asses not being able to get into Canada this ONE TIME because of this mass mobilization protest…
+SO! That is what happened on Apr 1st at that media action thingy. No one addressed those issues and only focused on their lame, privileged, white asses not being able to get into Canada this ONE TIME because of this mass mobilization protest…
 
 Meanwhile, she noted, as we were being politely and speedily processed there were poor-looking people of color waiting on line forever, some probably to end up in immigration detention. Did anyone even think to bring know-your-rights flyers or any kind of outreach? Did anyone even mention them at the press conference? Twinkie ends with a ringing declaration “NO MORE STREET THEATRE WITH PRIVILEGED ACTIVISTS AT SITES OF OPPRESSION!!!! Call me a separatist if you will, but I will not work with people with bad politics, and I will publicly call out people on their racism.”
 
@@ -1620,13 +1610,13 @@ Meanwhile, she noted, as we were being politely and speedily processed there wer
 
 The *Montréal Gazette* reports that prosecutors in Québec are saying that they’ve been asked to delay all bail hearings for protesters arrested at the upcoming summit for three to five days to keep them off the streets (Marsden 2001). Several, outraged, are announcing they intend to refuse to cooperate.
 
-#### <em>**Ya Basta! Meeting at Aladdin’s Place in Chelsea, 6 PM**</em>
+#### **Ya Basta! Meeting at Aladdin’s Place in Chelsea, 6 PM**
 
 Ya Basta!, meanwhile, is on the verge of break-up. April 5 was supposed to be the meeting at which we discussed common principles: what the collective is ultimately supposed to stand for. Jesse threatens to block any such discussion on the grounds that Ya Basta! is supposed to be “anti-ideological.” Laura and I barely managed to restrain Moose from marching out. “Anti-ideological means we’re not declaring ourselves anarchists or communists or adherents to any particular… you know, ideology. It doesn’t mean we don’t stand for anything at all. Or why are we going to Québec to begin with? Maybe we should form into two teams, one protesting the FTAA, one supporting it, and fight each other!”
 
 As a compromise, I pull out a copy of the PGA principles of unity I’d been carrying around for just such an occasion. But that too is shot down, over objections to the phrase “nonviolent civil disobedience,” which, as Target and Jesse and several others point out, could be interpreted as a condemnation of groups in the Global South like the Zapatistas, who have no recourse but to resort to armed struggle. When I try to point out that the Zapatistas actually created PGA, Smokey, who’s facilitating, tables the discussion: “We’ve got a whole series of practical issues we still have to work out tonight and clearly this is going to be a long conversation. Let’s see if we have time to get back to it next week.” At this point, I go out and find Moose, who’s been sitting outside in the hall next to the elevator, to tell him that, if he still wants to leave in a huff, he has my full support.
 
-### **Sunday, April 8:** <em>**DAN Meeting, Charas El Bohio, 6 PM**</em>
+### **Sunday, April 8:** **DAN Meeting, Charas El Bohio, 6 PM**
 
 A small meeting, a little over twenty people, mainly concerned with what to do about what’s beginning to be called the “Akwesasne hemorrhage.” We’ve been getting nothing but bad news. It would seem the Band Council has definitively called Shawn’s bluff. There are rumors that the Feds have been sending around tapes of street battles in Prague, claiming we’re coming to do the same thing in their community. Rumors abound. Some of the Warrior Houses appear to be mobilizing against us. Shawn, on the other hand, keeps assuring us it’s just a matter of working through the process, we have to expect opposition, there are always reactionaries. It’s hard not to notice though that his public statements have completely changed in tone: he’s now calling for us to attend a fish-fry, a festive, “child-friendly” event to discuss trade issues with the community, followed by an entirely peaceful crossing in which activists and community members will mix together and overwhelm customs with our sheer numbers. This creates a dilemma: on the one hand, rumors are necessarily going to be flying that the action will be a disaster. On the other hand, since everything depends on numbers, if enough people believe it will be a disaster, that alone will be enough to make it true.
 
@@ -1638,7 +1628,7 @@ Reports from Québec City are growing increasingly surreal. An anonymous Canadia
 
 “The summit protesters who are scared to come here are right to be scared. We’re the proof today that police here are very dangerous.” (King and Van Praet 2001)
 
-### **Thursday, April 12:** <em>**Ya Basta! Meeting, Manhattan**</em>
+### **Thursday, April 12:** **Ya Basta! Meeting, Manhattan**
 
 The preceeding week had been full of internal reconciliation efforts within Ya Basta!: parties, messages, proposals to perhaps split into allied but autonomous affinity groups. In the end, when the time for another meeting comes, we have too much practical business to take care of to vituperate: the Burlington trainings, Canadian border scenarios, legal, communications, tactical questions. Moose is feeling increasingly guilty about the idea that he might be encouraging people into a situation where some might get seriously hurt. We end the meeting with a big go-around where we all talk about our parameters and limits concerning violence and nonviolence. Remarkably, just about everyone says exactly the same thing. None of us would be willing to attack someone else, or carry out an act we feel likely to cause physical injury to another person; none of us had the slightest moral problem with damage to corporate property; for pretty much all of us, the really difficult question was what we’d do if a companion or someone we cared about were being physically assaulted—that is, would we be willing to attack someone to save them? Most of us feel we wouldn’t really be able to predict how we would react to such a situation until it actually happeed.
 
@@ -1648,7 +1638,7 @@ Another minor crisis demanding my offices as Minister of Information: the Band C
 
 To the Mohawk Council, Akwesasne,
 
-We are writing in response to your recent letter concerning our plans for a crossing through Akwesasne via Cornwall Island and into Canada on April 19<sup>th</sup>.
+We are writing in response to your recent letter concerning our plans for a crossing through Akwesasne via Cornwall Island and into Canada on April 19th.
 
 We would like to say, first of all, that we are deeply grateful to you for the understanding and spirit of tolerance that you show in your letter, and wish to do everything possible to put your minds at peace about the concerns you raise. Rest assured that we are coming to Akwesasne only as guests of residents who have invited us to do so; we have never planned to do anything, let alone anything violent or destructive, on our own accord. The last thing we would want would be to cause disruption to your lives or create difficulties for you.
 
@@ -1708,7 +1698,7 @@ I also discovered that, when it came to the sympathies of the local socialist ad
 
 After dropping off my bags at the Burlington IMC, and coordinating with the people who were going to be sharing my accommodations, I set off for the spokescouncil.
 
-#### <em>**The Burlington Spokes**</em>
+#### **The Burlington Spokes**
 
 At the housing office, I’d picked up a flyer which explained that the spokescouncil was going to be at a place called “Billings Student Center,” on the University Terrace of UVM, not far from the center of town. The building turns out to be a huge turreted structure in red stone, looking somewhere between church and castle. Apparently, it used to be the campus library. There are already a couple of black flags and banners on the lawn outside. At the door, we’re asked to affirm that we are not police or working journalists, then peruse the usual tables full of documents, along with large black markers with which to write the legal and medical phone numbers (posted everywhere) on one’s leg or arm. The meeting itself is located in a large, circular room with a circular balcony surrounding it; too small to use for an actual theater, it must be some kind of campus meeting-space. Up on the balcony, apparently, are various offices of student clubs, including the student radio station, where there’s a small crowd of technical types—mostly IMC people—making use of the equipment. In the center of the big room is a big round wooden table; empowered spokes are sitting directly around it; everyone else is milling around behind them, sitting in clumps on the floor, or drifting in and out of other rooms. There’s no expectation that the audience should stay quiet during meetings—actually, spokes are expected to be continually conferring with their affinity groups, and members of affinity groups with each other. Though, in a room this small, the facilitators usually end up having to intervene periodically to remind everyone to keep it down to a reasonable volume.
 
@@ -2130,7 +2120,7 @@ Someone: Let’s have a round of applause for our facilitators. You guys did an 
 
 The plan being approved, we move to the next leg, which is logistics. There are two new facilitators. There are speakers from Legal, Medical, and Transport. The legal team starts handing out forms. I head out to meet Kitty and prepare for what everyone’s now calling the “10:15 meeting.”
 
-#### <em>**“Plan B”**</em>
+#### **“Plan B”**
 
 Then, something interesting starts happening. Somehow, it’s not at all clear when, the plan for a Ya Basta! meeting transmogrifies into something else. It becomes a meeting, sponsored by Ya Basta!, for everyone who feels stifled by the structure of the spokescouncil, and who wants to talk about strategies for actually getting through. When I first walk into the room, I’m startled: there’s at least sixty people already around the table, a pretty substantial chunk of the activists still in the building, and more trickling in steadily. To some degree, I think many came just for an excuse to sound off. The first ten minutes were an endless gripe session, with an emphasis on just how little they or some members of their affinity group were prepared to submit themselves to customs (endless priors, outstanding warrants, etc.). There was one girl who was seventeen years old, who had run away from home a year before. She and her family had since reconciled, but she was still officially listed as a missing person; presumably, if she tried to cross the border, not only would she be held, but anyone in the same car could be arrested as her kidnappers. Many are especially bitter after having abandoned other, perfectly viable options, such as unpatrolled stretches of forest or obscure rural roads, or chances to cross the border weeks before. Everyone accepts that, yes, we have no choice but to attend the fish-fry. Solidarity is important. Anyway we made a commitment and we have to respect our allies, even if, as some suspect, they hadn’t been completely honest with us. But just what are our chances of overwhelming customs, anyway? Who has real information? And if it’s not possible, isn’t it about time we start working on some kind of Plan B?
 
@@ -2208,7 +2198,7 @@ Now, this is cutting a bit close to home. “Okay,” I said, “you certainly h
 
 “I’m not real happy myself.”
 
-#### <em>**Later That Night**</em>
+#### **Later That Night**
 
 Eventually, they dropped us off at the home of our host, an elderly Quaker woman who had volunteered her house for activists. It was a cozy, carpeted two-story house with a terrace so full of potted plants it was a little like a greenhouse, and a parrot flying around free of its cage. About eight or nine people arranged sleeping bags on the floor. We commiserated over the death of Joey Ramone. Warcry won permission to use the computer in the study upstairs; a while later, she asked me to come up and look at the draft of a story she’d been working on about Timothy McVeigh. Eventually, I drifted downstairs again and ended up in a fairly long conversation with our host about the Society of Friends. Her husband had recently died, but she had children and grandchildren in Burlington and the vicinity. She was from an old Quaker family and had been active in the Church and local activism all her life. So is it true, I asked, that Quaker meetings work by consensus? Because anarchists’ do too, and I’d heard that ultimately a lot of what we do was inspired by the Society of Friends. She launched into a fairly detailed description of how Quaker meetings operated, interrupted only occasionally by wondering comments by me (“Wow, that’s *so* similar.”). People, she said, sit in a circle. If the spirit moves them to they speak, proposals are made and any one person there can, in theory, block a proposal if they feel sufficiently strongly about the matter. Blocks rarely actually happen, but, in principle, anyone has the power to derail any proposal and the fact that everyone knows that they can is itself enough to ensure they act responsibly. Yes, I said. Precisely the way we do it, too. Giving everyone the power to block is like telling people, “We dare you to act responsibly.” And, generally speaking, unless you’re dealing with a total wingnut, that’s all it takes.
 
@@ -2258,7 +2248,7 @@ No one seems to think this is particularly likely.
 
 Hours go by. We move to small rural roads, rolling past abandoned farms and gun shops, going even slower. Someone is explaining his activism all goes back to a childhood realization that the Power Rangers were really evil. Periodically cops film us from the side of the highway, some in uniform, others plainclothes. When we pause for a pit-stop by a river, most of us come out in masks, and some of the men gallantly form a human wall to allow the women some privacy from the cops on the other side of the road, who insist on trying to film them while they pee. At least there are no roadblocks. Finally, after a seeming eternity, maybe around 4PM, the radio crackles “we have a visual on Akwesasne.”
 
-#### <em>**Akwesasne Itself**</em>
+#### **Akwesasne Itself**
 
 There was not, as it turns out, anyone to greet us at the main entrance to the reservation, though this might, I reflect, have something to do with the fact that we are by now something like three hours late for a party that was supposed to start at 1PM. Anyway, the scene is desultory. Everything about Akwesasne seems desultory. The caravan proceeds through the reservation to occasional curious stares but there is almost no one even on the porches.
 
@@ -2290,7 +2280,7 @@ I considered making some kind of philosophical observation about how everybody w
 
 There is a brief ceremony, starting with Stacey Boots giving a little speech from the top of the van. He talks about the history of Native Americans welcoming and protecting foreigners who came with peaceful intentions. “And now, I guess, we’ll protect you.” A Latina activist from New York gets up and gives a speech about how the FTAA is just the latest manifestation of a five-hundred-year campaign of conquest and genocide that began with Christopher Columbus. A folksinger climbs on top of the van with a guitar and plays something called “The Indian Wars.” After one or two spontaneous spoken-word performances from activists, the caravan reassembles and we head up the ramps toward the “toll plaza” where, apparently, we’re going to actually try to cross the border.
 
-#### <em>**Border Action**</em> **Manqué**
+#### **Border Action** **Manqué**
 
 Our van is toward the front of the caravan, maybe five cars from the front: me, Warcry, Betty, Rufus, Sasha the documentary filmmaker, and his girlfriend Karen, who is helping him on his video project, since Sasha is at this point going basically as an activist. Karen, on the other hand, is nothing if not a media professional, armed with expensive equipment, and will be documenting everything he does.
 
@@ -2312,7 +2302,7 @@ Karen volunteers to come with me to see if she can get some useful footage. Sash
 
 I climb out and stroll up towards the toll plaza. As I pass, Moose is taking a cigarette break a couple vans up, looking sheepish, trying to avoid eye contact. There are no Mohawks anywhere in sight now. Neither is there any sign of postal workers, steelworkers, or in fact anyone at all on the Canadian side of the border—though there do seem to be a crowd of Mohawk teenagers behind a chainlink fence in what looks like a huge basketball court some ways beyond the border station, with Mohawk cops patrolling in front of them. A dense crowd of activists is assembled right in front of the border station; some angry, some hoping to talk their way through. There are flags and banners. One woman in black has climbed halfway up a traffic pole, drumming. Periodically, someone tries to start a collective chant. Bad Teeth tries jumping up and down starting a chant of “Days of Rage! Days of Rage!” and a few take it up, but it doesn’t really catch on, and fades back into gripes and muttering.
 
-Finally, I see the reason for the delay. The first van is stopped at the border post; the Canadian police have taken out every single bag that was in it and arranged them all on the asphalt, and seem determined to go through every object in every single one of them. Enos, the driver, was one of the first to submit himself to customs—probably not a good idea, since he had already been denied entry to Canada during the April 1<sup>st</sup> action two weeks before. After a few questions, his name is put through a computer and he’s asked to step into a shed-like structure to the side. A minute or two after that we see him being led to a police van, in plastic handcuffs, with a world-weary, exasperated look on his face, a kind of visual sigh.
+Finally, I see the reason for the delay. The first van is stopped at the border post; the Canadian police have taken out every single bag that was in it and arranged them all on the asphalt, and seem determined to go through every object in every single one of them. Enos, the driver, was one of the first to submit himself to customs—probably not a good idea, since he had already been denied entry to Canada during the April 1st action two weeks before. After a few questions, his name is put through a computer and he’s asked to step into a shed-like structure to the side. A minute or two after that we see him being led to a police van, in plastic handcuffs, with a world-weary, exasperated look on his face, a kind of visual sigh.
 
 Warcry is standing with Target and a small cluster of IMC journalists. “Did you see them take off Enos?”
 
@@ -2460,13 +2450,13 @@ At this point I’ll return to diary mode. What follows is built up largely from
 
 ### **Friday, April 20, 2001**
 
-#### <em>**2:30AM**</em>
+#### **2:30AM**
 
 I have always had a stubborn inability to sleep in moving vehicles. Kitty and the Connecticut crew quickly pass out in the back of the van. Karen and I, insomniac, end up having a long conversation with Janna, the Catholic Worker from Denver, who is there with the SOA contingent. Janna is actually a pagan, but for radicals in that part of the country, she explains, there’s not a lot of choices. “I’d have joined Pagan Worker if such a thing existed.” She was gassed in Seattle and had been in and out of hospitals for six months afterwards. On the third day of the protests, she explained, they brought in the National Guard, who started using CS, a form of tear gas so powerful only the military is allowed to employ it (when the Serbian army used it against rebels in Kosovo, the US government called it a war crime). One pregnant woman lost her baby; another activist died of complications some months afterwards. Janna’s doctors told her that her lungs had been seriously damaged, and that she should avoid any future exposure to such toxins at all cost.
 
 “Which made her slightly crazy, I admit, to be going to Québec City. But some things are just too important.”
 
-#### <em>**5:30AM, We Arrive**</em>
+#### **5:30AM, We Arrive**
 
 The SOA people drop us off at Laval University, on the edge of the city. Both New York and Connecticut Ya Basta! already have sleeping spots reserved for us on the floor of the main gymnasium. A teenager working the late-night desk points us in the right direction—yes, he remarks, the university has been quite generous with their facilities. “They were afraid we’d occupy the campus.”
 
@@ -2474,7 +2464,7 @@ The gym looks like it’s about the size of a football field. Its shiny hardwood
 
 The Connecticut kids never go to sleep, though. After almost an hour setting up, washing, and conferring, Kitty announces: “I know it’s really fucked up, but we’ve kind of decided we’d better start looking for some gear or we’re going to be completely useless on the streets today.” The three of them, Kitty, Lee, and Andrea, have pooled and are counting out their money, which comes to around forty dollars. I lend them a credit card and they vanish in search of supplies. This does, at least, mean that Andrea, who had been wise enough to carry a sleeping bag, leaves it behind (there was some discussion of using it as padding, but we conclude it would be too annoying to carry it around). Karen and I arrange it as a kind of long pillow, throw down our jackets and sweaters as mattresses, and grab a couple hours sleep.
 
-#### <em>**8:30AM**</em>
+#### **8:30AM**
 
 Almost everyone is starting to get up. Groggy activists are yawning, stretching, fumbling for toothbrushes, searching for the bathroom. Karen and I decide to head down to the IMC to get Karen an Indymedia pass. This way she can be filming in some sort of official capacity. It might, conceivably, afford some slight protection against arrest. This requires padding about in the halls of Laval—one of those grey modernist complexes with vast fluorescent halls that make you feel like you’re underground even when you probably aren’t—with cups of bad vending-machine coffee, looking for some table with maps and information. Eventually, we find one, manned by a couple of bleary-eyed students who try to explain the local bus system.
 
@@ -2486,7 +2476,7 @@ The IMC (no one is calling it the CMAQ any more, at least, in English) is locate
 
 Then, armed with gas mask and press badge, we head back to the university.
 
-#### <em>**11:00AM, Convergence, Laval University**</em>
+#### **11:00AM, Convergence, Laval University**
 
 All the fuss about defending the Convergence Center turns out to have been something of a red herring. Once the idea of converging on the Plains of Abraham had to be abandoned for fear of preemptive attack, the decision was to fall back on the university. The university, however, is seven miles from the perimeter. It’s going to be a very long march.
 
@@ -2522,7 +2512,7 @@ Jaggi had time to give me only the briefest rundown of what emerged from the las
 
 Then he ran off.
 
-#### <em>**11:40AM**</em>
+#### **11:40AM**
 
 The Black Bloc at this point is at 250 people, maybe less. Mostly wearing black hoodies, though there are some in military-style gear or even vinyl raingear. All, of course, are in black. Most have gas masks pulled back on top of their heads, and black bandanas tied around their necks. They are mainly lounging about, at this point, smoking or napping, but there’s a huge red banner in the front of what is to be their column, and all sorts of red and black flags scattered around. Not far away is a woman dressed as the Statue of Liberty, on stilts, and a little further, a Medieval Bloc with tin pan hats and potlid shields. I am pleased to discover they do, indeed, have a catapult: quite a big one, twenty-five feet long. Around them are a variety of flying squads which seem to me half Black Bloc, with gas masks and bandanas, sometimes even hockey padding, only in cheerful colors, not in black.
 
@@ -2542,13 +2532,13 @@ Jaggi keeps dashing up and down with updates and announcements; “In Ecuador, t
 
 Finally, slowly, lumberingly, the Carnival Against Capitalism gets under way.
 
-#### <em>**1:30PM, The Carnival Against Capitalism March Begins**</em>
+#### **1:30PM, The Carnival Against Capitalism March Begins**
 
 Maybe twenty minutes into the parade, there’s some kind of altercation when a university security guard tangles with someone on the front lawn of a building by the parade route. I arrive as people are trying to de-escalate, and never find out what exactly happened. The house’s owner and an eight-year-old boy are standing right there next to their porch. Someone is yelling at him: “Get that kid back in the house! It’s not safe with all these cops around!” Someone else tells me the guard freaked out and drew his gun (only to be immediately surrounded by activists with video cameras), but it wasn’t clear what had sparked the incident to begin with.
 
 Shortly thereafter (circa 1:50PM), there’s another minor tangle when some TV journalists try to drive a car through the crowd. Marchers swarm around it, some pound on it, others lay down in front. “He was an asshole,” people told me, but not exactly how—I’m guessing he was just arrogantly trying to push through. Eventually, the car pulls back to a side street and the march continues.
 
-#### <em>**2:00PM**</em>
+#### **2:00PM**
 
 At first, we’re passing through a purely residential area, all family houses and the occasional small brick apartment block. There’s not a commercial establishment anywhere in sight. Chants are in French, English, even Spanish. Most are extremely familiar: “Ain’t no power like the power of the people cause the power of the people don’t stop!” “Who’s streets? Our streets!” “*El pueblo, unido, jamas sera vencido*.” Others would become so: “*Sol! Sol! Sol! Sol-i-dar-i-té!”*
 
@@ -2560,7 +2550,7 @@ Marches, I note, are always somewhat accordion-like. They have a tendency to str
 
 “No, really. I promise I’ll get your address after the action and I’ll get it back to you.”
 
-#### <em>**2:10PM**</em>
+#### **2:10PM**
 
 Whoops all around as the march stops.
 
@@ -2572,7 +2562,7 @@ I sit down on the street for a second to watch the show. After the Mumia brigade
 
 The only thing missing is giant puppets: I’m told several were carried out the night before for the torchlight parade, but they’re hidden away now, waiting for the labor march tomorrow.
 
-#### <em>**2:20PM**</em>
+#### **2:20PM**
 
 Someone announces we’re ten minutes from the wall. We’re starting to see stores now, mostly shuttered.
 
@@ -2588,27 +2578,27 @@ Shawn, who has been monitoring the local media for some time now, is amazed by t
 
 “Maybe. But my point is: either they knew they were lying when they tried to convince everyone we were a threat to the city, or they don’t really give a shit about the people they’re supposed to be protecting.”
 
-#### <em>**2:25PM**</em>
+#### **2:25PM**
 
 We pass a construction site. A small crowd goes up an alley made by two chain-link fences, but they’re not, as I first guessed, going to yank up a stretch of fence to carry with them. Instead, the men and a couple women pull on their masks and start breaking and gathering bricks and rocks. A (mainly female) chorus stands above them chanting “We’re Gonna Fuck Shit Up Tonight!” in slightly accented English.
 
 They’re not, in fact, in Black Bloc attire, but appear to be students, or maybe just local teenagers. Actually I have no idea who they are, but I’m guessing this would have to be the Red Bloc.
 
-#### <em>**2:40PM**</em>
+#### **2:40PM**
 
 Some Black Bloc’ers are carrying a mattress with them, as a kind of giant shield. Somehow, there’s now a truck ahead of them, just past the Mumia battalion, playing some sort of French rap music. Mac and Lesley come bouncing by, masked, in military garb. We exchange pleasantries. Then they disappear again.
 
 The parade stops periodically. Starts again.
 
-#### <em>**2:50PM**</em>
+#### **2:50PM**
 
 The Avenue de Erables is the point where the parade is supposed to split into two columns, Green and Yellow. The Green group will march north up Avenue Cartier, which is two blocks north, and then enter the working-class neighborhood of St Jean-Baptiste that lies on the steep streets that slope off just to the north of the perimeter. Heidi, who has been doing radio interviews up and down the parade, explains that the neighborhood itself, along with the area further north, around the highway, has been declared a Green Zone. Puppeteers and street theater groups will occupy the area and put on performances for the local community groups, who are working closely with us. (CASA had been going door to door in Jean Baptiste for months now with flyers and petitions, explaining what was going to happen.) Such was the plan. At this point, though, it seems not many Greens are actually leaving: even the dragonfly drummers—a theatrical group with diaphanous dragonfly puppets bouncing over their heads—and other obviously Green groups are continuing with us for the time being. Meanwhile, as we pause, someone in a food truck seizes the opportunity to provide a quick snack. Everyone is passing around plates of pasta. We grab some, but pass most of it to La Resistance.
 
-#### <em>**3:05PM**</em>
+#### **3:05PM**
 
 While we are waiting, I head back to the convenience store with Lyn and successfully buy several bottles of water. As I’m heading back we hear rumors three squads of cops have been sighted heading our way (none materialize).
 
-#### <em>**3:15PM**</em>
+#### **3:15PM**
 
 Finally, we’re moving. It turns out that, all that time, we were only a few blocks from the wall. Passing Avenue Turnbull, the march enters the area we had scoped out so carefully during our last visit. We pass Grand-Théâtre de Québec, entering a small park that is soon to be known to many of us as “Ground Zero.” The park is mostly just a huge lawn with some hillocks and a few small copses of trees here and there. At the far end is the wall, with its three-foot concrete base and seven feet of chain-link on top of it. It runs along the next north-south street, the Rue d’Amerique Francaise, then curves back sharply to the north. Squinting, I notice it is already covered in most spots with ribbons and images and sculptures woven into it during a women’s action the night before. The base has been liberally spray-painted.
 
@@ -2634,7 +2624,7 @@ By the time I was back at the fence again, a few minutes later, it had turned in
 
 Me, too. I fell back on the park and jotted down a few notes.
 
-#### <em>**3:43PM**</em>
+#### **3:43PM**
 
 [*from notes I took during a quiet spell* ]
 
@@ -2652,7 +2642,7 @@ There are activists with hockey sticks systematically thwacking the canisters ba
 
 “And that doesn’t mean any gloves,” says another. “It’ll burn right through thin leather. You really need a hockey mitt.”
 
-#### <em>**3:50PM**</em>
+#### **3:50PM**
 
 When I find Shawn and Heidi, he excitedly reports that we’ve foiled the cops’ first attempt at a flanking maneuver. They tried to bring up a water cannon—it was basically an armored fire truck—from the northwest, behind the theater, to cut us off. Several Black Bloc affinity groups ran to the scene and disabled it, smashing the windows and attacking the tires until the driver, convinced he was about to be pulled out of the cab, reversed the vehicle and pulled a hasty retreat. No one was hurt, but there were rumors the accompanying squad of police nabbed a few random activists near the scene (not the Black Bloc kids, of course, that would have been too difficult) and took them off with them—possibly the day’s first arrests.
 
@@ -2676,13 +2666,13 @@ I smile. “You want to do it here?”
 
 We stroll up to a spot with relatively clear air, about forty feet from the checkpoint, and I start giving a brief description of the caravan, the fish-fry, the crossing. About halfway through, we both look up and spot three canisters descending in a graceful parabolic arc directly at our heads. We start running, laugh, reposition ourselves a little further from the action, and finish the interview.
 
-#### <em>**4:10PM**</em>
+#### **4:10PM**
 
 It’s turning into a standoff. No one is throwing rocks unless the police try to advance, and for the time being, they’re no longer trying. Instead, they just loft endless tear gas and pepper bombs into the park, as activists along the perimeter either toss them back, or throw anything that might look like a response in kind. It started largely as an exchange of tear gas for smoke bombs, which arc in a similar fashion. They are also completely harmless—a purely symbolic tit-for-tat, but somehow very satisfying. Later, people seemed to be shooting off flares, and I saw colored lights that I think must have been Roman candles, bottle rockets, or something. Further off, the catapult was flinging teddy bears over remaining sections of the wall. It was all purely expressive, almost like a matter of principle that we could give as good as we got.
 
 At first, the landing of a canister in a crowd would create a panicked stampede, despite the people shouting not to run. It would happen especially when the police started using canisters that would burst into flames and start spinning crazily, obviously impossible to throw back. Before long, though, the panic subsided, as it was mainly gas-masked or sturdy people who had the wherewithal to remain. Someone showed me the trick of standing directly in front of a group of panicked, fleeing people with your arms spread out; invariably, they would slow down and then stop. But, before too long, the panicked flights pretty much stopped anyway.
 
-#### <em>**4:17PM**</em>
+#### **4:17PM**
 
 At the north of the park, there’s a little cluster of trees that’s become a kind of observation center for noncombatants. Next to it stand several Mohawk Warriors, including Stacey Boots, who apparently never himself advanced to the wall, but hung back like a proper military leader, giving occasional tactical advice. There are also five or six metalworkers, some Anglophone, some Francophone, unmasked, but carrying bandanas and vinegar just in case. They’re not in action, but literally showing the flag: they’re surrounding a large placard they’ve arranged near a tree with their union colors.
 
@@ -2690,7 +2680,7 @@ It is around this point that I begin noticing, as I probe the zone near the peri
 
 This seems to be the emerging division of labor. The Black Bloc, especially the Americans among them, are taking the role of first line of defense. They’re not themselves throwing projectiles, just holding ground—though they’re willing to grab any opportunity to rip down new sections of the fence. Everyone throwing rocks seems to be local; I’m guessing many might be those militant seventeen-year-olds Sebastien had been telling me about, who, unlike the Bloc, never subscribed to principles of nonviolence.
 
-#### <em>**4:22PM**</em>
+#### **4:22PM**
 
 A lot of the action at this point is by the side of the area where the wall first fell: there is a wide street running just below, and another strip of wall as such.
 
@@ -2700,11 +2690,11 @@ I fall back to the observation post, where the huge Mohawk Warrior I’d shared 
 
 The police strategy, now that earlier attempts to drive a wedge into the park or cut us off have failed, seems to be to simply pump tear gas—and increasingly nasty tear gas, I notice—into the zone surrounding the wall for hours, until our numbers start to thin. Then, presumably, they’ll move out and secure the area for the opening ceremony, scheduled for 5:30. Ultimately, there will be no way to stop them, because they are receiving reinforcements, while our numbers can only dissipate. We’ll never have as many as we did when we first hit the wall. Our aim then becomes to slow them down as much as possible.
 
-Detail of Quebec City indicating the security perimeter (heavy line) and the approximate area of tear gas deployment (thin line, grey area), i) The site of the CLAC/CASA action on Friday April 20<sup>th</sup>. It was at this intersection that the wall first came down. 2) Site of many of the Rue St. Jean actions. Designated as a green-zone on Friday, it became red when the fence was beached on Saturday. 3) Alternative media center. 4) Site of the GOMM action on Friday and continued confrontation during the days that followed. 5) I’llôt Fleuri, end point of the candle-light march from Laval, beginning of Thursday night’s celebration, home of both the free kitchen and green zone actions. 6) Gathering area and starting point for Saturday’s March. + ` medical center. The medical center, sites 3 and 5 were all directly tear gassed by police, despite their green zone designations and distance from the perimeter. (Raphaël Thierrin and Steve Daniels)
+Detail of Quebec City indicating the security perimeter (heavy line) and the approximate area of tear gas deployment (thin line, grey area), i) The site of the CLAC/CASA action on Friday April 20th. It was at this intersection that the wall first came down. 2) Site of many of the Rue St. Jean actions. Designated as a green-zone on Friday, it became red when the fence was beached on Saturday. 3) Alternative media center. 4) Site of the GOMM action on Friday and continued confrontation during the days that followed. 5) I’llôt Fleuri, end point of the candle-light march from Laval, beginning of Thursday night’s celebration, home of both the free kitchen and green zone actions. 6) Gathering area and starting point for Saturday’s March. + ` medical center. The medical center, sites 3 and 5 were all directly tear gassed by police, despite their green zone designations and distance from the perimeter. (Raphaël Thierrin and Steve Daniels)
 
 The late afternoon turns into a kind of gradual, fighting retreat.
 
-#### <em>**4:30PM**</em>
+#### **4:30PM**
 
 Major exchange of tear gas for smoke bombs.
 
@@ -2722,7 +2712,7 @@ Tear gas is continuously being thrown back near the perimeter. Medics, who at fi
 
  4. Gas masks makes one feel a little like a machine oneself—the hugging and embracing is in part to remind you that you’re not.
 
-#### <em>**4:35PM**</em>
+#### **4:35PM**
 
 More gas—periodic calls of “Medic!”—as people are hit by canisters or plastic bullets, which are now being used more or less indiscriminately. So much for the rules of engagement announced with such fanfare before the Summit. People are running up and lobbing smoke bombs and tear gas canisters directly back at cops.
 
@@ -2730,13 +2720,13 @@ Whoops arise as one cop trips in retreat. The battle is still very much seesawin
 
 Craig, the huge fellow from the spokescouncil, comes clambering up toward the fence, armed with a big two-by-four he found somewhere, carrying it like a sword, looking immensely pleased with himself. He’s in what can only be described as a black battle suit, wrapped in plastic bags, with a round shield and gas mask perched on his head. About twenty seconds later, two medics run up and ask if they can use the two-by-four for splints—someone’s been incapacitated, needs to be carried away. He sighs, shrugs good naturedly, and hands it over.
 
-#### <em>**4:45PM**</em>
+#### **4:45PM**
 
 We’re starting to take serious casualties.
 
 Kitty, standing some thirty yards from the wall, is hit in the foot by a tear gas canister. A team of medics runs up, removes her boot, confirms that nothing’s broken. Still, it hurts like hell and she’s limping for some time afterwards. Kitty doesn’t have a gas mask, just two or three bandanas drenched in vinegar. A bit in front, Craig is struck in the ribs and doubles over in excruciating pain. Medics ask everyone in the area to form a circle around him for protection as they investigate. At first, we thought he was hit by some kind of dowel or wooden bullet, but it turns out to be yet another tear gas canister, the kind that had been fired up in the air, but in his case, was fired directly at him. Apparently he had broken a couple of ribs in exactly the same spot at A16 a year before—hence the agony. People rush up with water, trying to help. In the end it takes four people to carry him away.
 
-#### <em>**5:22PM**</em>
+#### **5:22PM**
 
 I fall back to check up on the Refugees, who are mostly hanging back for lack of gas masks.
 
@@ -2760,7 +2750,7 @@ Someone else sighs philosophically. “You know I quit smoking a year ago. Now o
 
 “That’s what we get for trying to fight pollution.”
 
-#### <em>**5:40PM, I Descend to Get Coffee on the Côte D’Abraham**</em>
+#### **5:40PM, I Descend to Get Coffee on the Côte D’Abraham**
 
 Mac is heading down the hill to meet Lesley and some friends for a coffee break on the Côte d’Abraham to our north, on the edge of the Green Zone. He assures me cafes are indeed open there. Would I like to come along? I find most of the rest of the Refugees, who decide it wouldn’t hurt to take a little while to clear our lungs.
 
@@ -2810,7 +2800,7 @@ Someone grins. “The story I heard is they all sat down in front of the wall ne
 
 “I was there when it happened,” says someone else. “What happened was—yeah, someone started kicking back the tear gas. But, almost as soon as they started doing it, some leader type with a megaphone showed up and announced that they’d made their point, and that the action was over, and they all retreated to the Green Zone.”
 
-#### <em>**6:30PM, Back to Ground Zero**</em>
+#### **6:30PM, Back to Ground Zero**
 
 By the time the Refugees head back towards the wall, all the traffic seems to be going in the other direction. Perhaps seven people are drifting downhill and away for every one moving back up. We pass the dragonfly drummers, in a little circle in the middle of the street. They’re trying to rally people, but not too effectively. When we get to the top the reason becomes obvious: phalanxes of police occupy the middle of the park, and smaller squadrons are systematically taking up positions on each approach street, choking off access, then gassing like crazy everyone in sight. Lines of riot police are moving forward systematically, ten or twenty meters at a time. Eventually, they start moving down the three main north-south streets—Turnbull, Claire-Fontaine, and Sainte-Claire—that lead down the hill into St. Jean Baptiste.
 
@@ -2818,7 +2808,7 @@ It doesn’t seem they are trying to do mass arrests. At least not yet. They’r
 
 The Flag of Many Nations and a few black anarchist flags are by now at the bottom of the hill, along St. Jean, and the only possible game left was to delay the police advance. Where the Black Bloc is is anybody’s guess. Same with the Red Bloc: nobody in this crowd was even thinking about throwing rocks. It had become a matter of sitting in the streets, singing songs, and waiting to be assaulted. Simple stubborn civil disobedience.
 
-#### <em>**6:55PM, Avenue Turnbull**</em>
+#### **6:55PM, Avenue Turnbull**
 
 There are about ten to twenty Darth Vaders occupying the heights at the top of the street, looming out of an anxious mist of their own creation, preparing to descend on us. Gradually a group of us assemble along Lockwell Street, and decide to march up to oppose them. We wade up through the mist—partly led by me, since I’m one of the few with a gas mask—and sit down on a stretch of street, with Shawn and Lyn following behind with minidisks to make sure every sound is recorded. A young woman carrying a bullhorn asks if anyone has a copy of the “Charter of Rights and Freedoms” from the Canadian constitution (legal observers had been handing them out before the action).
 
@@ -2848,7 +2838,7 @@ Before long, we’re back on the Côte, where the Flag of Many Nations waves. So
 
 Shawn and Lyn, still sputtering from the gas, head off to find their car, which they think they left somewhere in walking distance the night before. We’re all going to be meeting in an hour or two anyway, back in Laval.
 
-#### <em>**7:27PM, Along St. Jean**</em>
+#### **7:27PM, Along St. Jean**
 
 By this time there’s a strong feeling that things are winding down. We hear the opening ceremony has been delayed until 10PM (this turns out to be untrue: it actually began ten minutes later, at 7:30, but nonetheless hours behind schedule).
 
@@ -2864,7 +2854,7 @@ After a while, another CLAC person—a tall fellow with long, brown, shaggy hair
 
 I head off with the CLAC team, one man and two women, but before we get there, they decide to stop first for a beer. Would I like to come along? I consider it, it occurs to me that I’m completely exhausted. So they direct me to the bus stop, and after a pleasant chat with a friendly *LA Times* reporter in the next seat, I arrive in Laval.
 
-#### <em>**8:07PM, Stupid Little Spokes**</em>
+#### **8:07PM, Stupid Little Spokes**
 
 The room, which has every sort of banner draped all over the walls, contains maybe two hundred people, but only half, at best, are taking part in the meeting. I soon see why. The conversation has degenerated into yet another argument about diversity of tactics. There are people complaining bitterly about rock-throwing, others insisting it was the only way to deal with indiscriminate attacks by the police. Nobody seems to be listening to anybody else, or talking about plans for the next day (or maybe that’s later? I don’t see an agenda on the wall). The whole spokescouncil just seems to be a chance for people to sound off.
 
@@ -2950,7 +2940,7 @@ Sam is looking dubious, as if trying not to mutter something cynical into his co
 
 “Maybe we should make a sign to carry to the park,” I say: “‘We Know Which Way the Wind Is Blowing.’”
 
-#### <em>**11:00AM, Orsainville**</em>
+#### **11:00AM, Orsainville**
 
 Still worried about Karen, I end up wasting the rest of the morning and early afternoon on some scheme planned by Heidi and her friend, a *Frontline* producer named Claudia, to visit the local prison, in a forest some miles out of town. Claudia has a car. There are already a handful of activists doing jail solidarity in front on the prison, but they have only a limited list of who’s inside, and no one has heard word of any IMC or other freelance videographers being held there.
 
@@ -2958,7 +2948,7 @@ Later, that handful is to expand to a veritable “Solidarity Village,” as peo
 
 Everything takes longer than it ought to. Finally, after a marathon cell phone session, Claudia says she wants to catch the tail end of the People’s Summit—which the organizers had intentionally placed far, far from the action, near the port several kilometers away. The parade was supposed to set out at noon, marching to the summit; we’ve definitely missed that. Anyway, I’m reluctant to head that far from the city without knowing how I’m going to get back. She offers to drop us both off at the IMC, where Heidi has to do a radio show. We agree to meet with the rest of our group at the party under the highway in the Green Zone that evening, and I head up toward the park to see if I can find La Resistance.
 
-#### <em>**3:20PM, Finally Back in the City**</em>
+#### **3:20PM, Finally Back in the City**
 
 There’s graffiti everywhere: a thousand Circle-As, “FUCK THE COPS,” “NO CHOICE,” “*MURS BLANCS, PEUPLE MUET*,” gas masks painted onto the faces of every half-dressed model on a bus-stop advertisement, not a billboard anywhere left unaltered or undefaced. By the side of the highway, at various spots:
 
@@ -2978,7 +2968,7 @@ At the café, it’s still all activists. Within five minutes, I have most of th
 
 By Saturday afternoon, half the houses are hanging out some sort of banner or sign: “We are with you!,” “No FTAA!,” or even, once, “We support the Black Bloc” (except, of course, in French). Many have also brought garden hoses out to their stoops or are dangling them from windows to provide free water for protesters. Grandmas wave and smile from porches. Children giggle and follow us around. It’s like some crazy anarchist fantasy. The one exception, as I pass, is a stocky, middle-aged man who is throwing some kind of tantrum at a handful of Black Bloc kids in front of his building, right at the end of the steep street leading to the park. “Why are you still here?” he’s shouting, “I understand yesterday, you tore down the wall, you made your statement. That’s good, I support you. But enough now! Still you have to fight the cops, still they’re gassing, my home is full of tear gas, for two days it has been full of gas, I’ve had to send my infant son away to an aunt in the suburbs because he was choking on it. My mother has had to abandon her apartment. Enough! Right now there is a labor march in the Lower City, it says on TV there are 60,000 people marching. Why aren’t you marching with them? Why are you still here bringing the gas on us?” The Black Bloc kids seem flustered; they appear to know enough French to understand him, but not enough to make any kind of articulate reply. Finally, three or four neighbors gather and try to calm him down. “It’s not their fault, they just want to make sure the heads of state hear their message.” “You can’t expect them all to march away from where the delegates are actually meeting.” “It’s not the kids who are gassing us,” one woman insists, “it’s the police.”
 
-#### <em>**3:35PM, Ground Zero**</em>
+#### **3:35PM, Ground Zero**
 
 The park is ours again, with scattered collections of people in the square sitting on the ground, putting on performances. Gas explosions are periodic, but nowhere near the same intensity as the day before (they’re landing approximately once every three minutes now, says someone with a pocket watch).
 
@@ -3006,7 +2996,7 @@ But the spot turns out to be better defended than it appeared. Tear gas canister
 
 By this time, though, the Bloc, still only about forty people, is masking up and about to move out. La Resistance is not among them, but I do spot two friends from yesterday, who suggest I come along. We can always do lookout, they say. Anyway, apparently, there’s a plan. I zip up my hoodie, rendering myself entirely dressed in black, mask myself, and follow.
 
-#### <em>**4:00PM, Canadian Imperial Bank of Commerce**</em>
+#### **4:00PM, Canadian Imperial Bank of Commerce**
 
 What follows is one of only three major instances of targeted property destruction during the Summit. The target is the local headquarters of one of Canada’s major banks, the CIBC—one of the main forces lobbying for passage of the FTAA, along with profiting from government student loan programs while pushing for massive cuts in health and education funding.
 
@@ -3046,7 +3036,7 @@ For many of the Black Bloc, this must be a moment of ultimate moral confusion. A
 
 After brief exchange, we turn around and march back towards the park, to the usual loud cheers and applause. Someone shouts: “It’s the People’s Riot Police!”
 
-#### <em>**4:20PM, Jean Baptiste**</em>
+#### **4:20PM, Jean Baptiste**
 
 The park is all celebration: “We won! Summit closed for tear gas!”
 
@@ -3058,7 +3048,7 @@ The Refugees are nowhere to be seen, so I figure I’m La Resistance for the res
 
 Kitty explains they’ve been paying particular attention to the churchyard because it’s directly behind the Congress Center where the Summit is taking place.
 
-#### <em>**Notebook Entry, written the next day, 4/22/01**</em>
+#### **Notebook Entry, written the next day, 4/22/01**
 
 The Black Bloc was never large that day, rarely more than thirty or forty people, actually, though it would occasionally reconverge at fifty or sixty. People would get scattered, affinity groups of normally six or eight get reduced to two or three people, due to injuries or exhaustion. Though, occasionally, we’d also get reinforcements from people who just arrived in town: like the three Connecticut Yabbas who showed up Saturday morning and joined La Resistance. Just about everyone had been hit by something at some point—often feet or ankles, mostly by tear gas canisters. But plastic bullets were being used increasingly, and from guns with laser sights so at night people could often see that the cops were intentionally aiming for heads or groins. “I got hit in the groin. But I was wearing a cup!” declared one of our new arrivals, triumphantly.
 
@@ -3070,7 +3060,7 @@ In part, too, the attacks on the wall are meant to keep the police off balance, 
 
 Not far away from the cemetery, at Rue St. Genevieve, was a huge press of people, a kind of focus of intensity, where the Bloc had earlier been attacking a section of the wall. Apparently, they’d set fire to a dumpster, and rolled it into the fence. It crashed through and flipped over inside the perimeter. Cops then tried to block the breach with a bulldozer, but the Bloc had managed to disable it—by the time we saw it, it looked thoroughly trashed, with revolutionary slogans spray-painted all over it—and escaped just as a squad of maybe thirty riot cops marched up in formation to secure the area. When we arrived, the dumpster was still smoldering, the tractor broken and askew, and the thirty police standing absolutely motionless, surrounded by hundreds of pacifists. The alley was tight enough they had managed to completely cut them off. The police had maybe a couple yards clear in front of and behind them, after that, it was an impenetrable wall of human beings. Someone told us the standoff had now been going on for almost an hour. There was a sizeable band of drummers and other musicians a little bit up the slope, playing slow rhythmic music—actually, it was extremely good, with all sorts of intricate syncopation—and people dancing in hypnotic style. Occasionally someone would leave the human wall and join the dancing, or vice versa. Entranced, I fell away from the Bloc for a moment, promising I’d rendezvous later.
 
-#### <em>**5:25PM, The Park**</em>
+#### **5:25PM, The Park**
 
 Now the story is the Summit is delayed because the tear gas has gotten in the ventilation system. Or, alternately, that the Brazilian delegation have used this as an excuse to refuse to go in. (Everybody has been counting on the Brazilians to spearhead opposition to the treaty.)
 
@@ -3092,7 +3082,7 @@ Finally, the pieces started to fall together: Montréal Ya Basta! explaining abo
 
 A bearded guy on stilts, in an elaborate green-sequined costume, strides up to the fence with an enormous peace sign. The cops turn on the water cannon and blast him square in the chest. He flies backwards about twenty feet. Medics run up, make sure his spine isn’t broken, then turn the stilts into splints and quickly, keeping their heads low, whisk him away.
 
-#### <em>**5:53PM**</em>
+#### **5:53PM**
 
 A huge plume rises over the park. Helicopters rattle overhead.
 
@@ -3104,7 +3094,7 @@ Someone else: “Is there anyone who might be pregnant? They’re using CS gas!�
 
 A police squad starts nabbing activists at the edge of the park. It’s perhaps the first time I’ve actually witnessed an arrest. I leave the park and head downhill again.
 
-#### <em>**6:00PM, Jean Baptiste**</em>
+#### **6:00PM, Jean Baptiste**
 
 What follows is something of a blur. I completely gave up on taking notes. I somehow wind up with a column of about twenty-five or thirty Black Bloc’ers who attempt a charge on a fenced position… I think it was along St. Jean again, where a flaming shopping cart had almost collapsed the wall an hour or two before. About halfway through the charge, we’re pepper-bombed; at least, it’s the same blinding sensation I had experienced at the wall, going right through my gas mask. I stumble back a ways. By chance, there’s a medic on a nearby stoop, a young man of eighteen or twenty who looks like he’s from Senegal or Cameroon, with spiked hair and a hefty plastic first aid kit. He offers me the full anti-pepper treatment, and we find a sheltered space where he carefully washes my eyes and face with some kind of antacid solution, then scrubs and washes it out with mineral oil. I feel considerably better.
 
@@ -3142,7 +3132,7 @@ Myself, I have no interest in helping anyone try to set someone else on fire— 
 
 A few minutes later, I’m passing under a highway ramp where Food Not Bombs is rolling out vast tureens for an upcoming free kitchen. There’s a small tent village, and punk-rockers setting up a sound system from the back of a truck. This must be the Ile Fleuriot. It’s kind of a grimy, clammy space, but there are already a few hundred people starting to gather for the party. I make a note: I’m supposed to be meeting people here at the party later on. Then I pass the now shuttered Army/Navy store and, finally, descend into the IMC.
 
-#### <em>**7:15PM, I enter the IMC**</em>
+#### **7:15PM, I enter the IMC**
 
 At the IMC, everything is different. For one thing, there’s security now. No one is allowed inside without an Indymedia ID. There’s a big fellow at the door, who seems to belong to the building. Downstairs, where once there had been a handful of drowsy, happy activists, the space is now crammed and full of grim efficiency. On the tables are rows of computers and video cameras; there are laptops all over the floor. Wires cover everything. Every electric socket has an extension cord and seven or eight devices plugged into it. Near the door is an enormous pile of gear, gas masks, raincoats, water bottles, every sort of protective equipment. On the walls, lists of rules, work shifts, teams, phone numbers, events. Next to the door is an improvised security desk where you show your ID a second time; behind it, a girl with dark curly hair who looks like a high school student. I flash my IMC card. It turns out she is, in fact, a high school student: part of a small group from another province who are in the city on some sort of alternative media grant. She looks more than a little overwhelmed.
 
@@ -3168,7 +3158,7 @@ Nothing.
 
 Is it possible she just went home and didn’t tell anyone? For an activist, that would have been incredibly irresponsible. But of course, Karen is not an activist.
 
-#### <em>**7:30PM, still in the IMC**</em>
+#### **7:30PM, still in the IMC**
 
 Independent Media Centers are another institution born of the WTO protests in Seattle: they are meant to be a way for activist journalists to provide their own account of events, and actually convey the protesters’ message, which the corporate media almost never does. By 2001, there were permanent IMCs in most major North American cities and, increasingly, across the world. Huge ones would also come into being temporarily during every major mobilization. IMCs ran on essentially anarchist principles. Everything was done collectively: people edited each other’s stories; there was no hierarchy of editors and reporters; all decisions were made by consensus. The IMC would host live radio shows, prepare videos, and during the key days of action, release a daily newspaper reporting on events. Most immediately, though, it maintained a web page, where one could find up-to-the-minute information on the actions as they happened. One side of the page was open—anyone could post—and, therefore, it largely resembled the rumor mill on the streets; but the center of the page was all dispatches from IMC reporters, who prided themselves on maintaining more exacting standards of accuracy than the corporate press.
 
@@ -3182,7 +3172,7 @@ Everyone is worrying the IMC will be the next target. This is not just because o
 
 The worst news, however, is that it now looks like one protester has actually been shot dead. It’s not completely certain. The report first comes in by phone, from an IMC reporter by the highway. This creates a major crisis, because the question now becomes what to report. A meeting is called. It starts with maybe a dozen people huddled around a desk and ends up including almost everyone:
 
-#### <em>**(From notebook, 4/21/01, 7:50PM, emergency meeting, Québec IMC)**</em>
+#### **(From notebook, 4/21/01, 7:50PM, emergency meeting, Québec IMC)**
 
 Chuck: Well, let me present this as a formal proposal then. We have an eye-witness report that a protester has been killed after being shot in the throat with a plastic bullet near the highway. Apparently some medics tried CPR, and when he didn’t come around, they eventually managed to get him to an ambulance and that’s the last anyone’s seen of him. So I’m proposing we put the information we have on the web page. Bearing in mind that, in doing so, we’d also be effectively releasing it to the corporate media.
 
@@ -3306,7 +3296,7 @@ Half an hour later, I’m still waiting. I spend some time futzing around the of
 
 With nothing better to do, I started to scribble:
 
-#### <em>**(From my notes again)**</em>
+#### **(From my notes again)**
 
 The problem with the IMC is it’s a bubble—not just in the literal sense (no one wishing to open doors or windows and risk the tear gas getting in), but also because it’s sealed off from the sense of immediacy, fellowship, and spontaneous intimacy you have on the streets where you’re facing continual, tangible danger. Here, everything is mediated. You’re in a florescent room full of screens and monitors, you see nothing for yourself but still you know each and every one of the worst things that are happening: every arrest, every grievous injury, every new police outrage. The resulting mood isn’t exactly one of hysteria; it is more a kind of manic jumpiness that comes from having far too much information.
 
@@ -3322,7 +3312,7 @@ Upstairs, the building security guy is only allowing people out in groups, for f
 
 I tell him I’ll take my chances. Finally, after about five minutes, someone is rapping on the glass door from the outside, and I’m back on the streets.
 
-#### <em>**8:50PM, Outside**</em>
+#### **8:50PM, Outside**
 
 Free at last! At least, oddly, that’s what it feels like to be back in the war zone.
 
@@ -3354,7 +3344,7 @@ As we scout the police positions around the IMC, we keep running into old friend
 
 It’s not a moment too soon, as buses and vans full of police reinforcements are beginning to concentrate just a block or two up the road. Battles ensue. We’re driven from our positions, disperse, return, build the barricades again. We make endless phone calls trying to get reporters from the corporate press to witness the scene, hoping their presence will keep the police from invading the building. They never respond. Nonetheless, despite a few tear gas shells lobbed in windows on the stairwell, police never end up entering the building itself.
 
-#### <em>**10:45PM, Côte D’Abraham**</em>
+#### **10:45PM, Côte D’Abraham**
 
 We finally get a chance to pay back our work commitment to the IMC. Shawn has a radio and agrees to do street reports for the 11—4 shift. This also gives the Refugees a new raison d’etre, and an excuse to more or less follow the action in this part of the city.
 
@@ -3408,7 +3398,7 @@ By noon we were back to yet another CLAC spokescouncil, somewhere on the Côte d
 
 Wind-down days of an action are always the most dangerous. In big mobilizations, activist numbers tend to peak at the beginning and then decline steadily, owing to injuries, arrests, and before long, people simply returning to their lives or jobs. Police numbers, on the other hand, remain constant. As soon as the balance of forces begins to tilt significantly, they will usually start to take revenge for perceived humiliations of the days before. Actions of any sort become increasingly dangerous; so, often, does walking down the street, as the cops will often begin the sort of random mass arrests they weren’t able to earlier. Anyone walking alone in gear, or even in green hair, piercings, or tattoos, might be a target; but small groups are not necessarily safe either. At the same time, it’s only during the wind-down that those who participated in the actions begin to get a clear picture of what happened—are able to sort the good information from the bad and, above all, start constructing some overall picture of the event as a whole. The result is a combination of increasing paranoia on the ground and an enormous flow of new and retrospective information. It was as if the sense I’d had at the IMC—the combination of sweeping panoramic view, and claustrophobic terror—had now expanded to fill the entire city, or at least, those parts that activists inhabited.
 
-#### <em>**2:15PM**</em>
+#### **2:15PM**
 
 Back at Laval, Mac was hard at work answering phones and going through lists of arrestees at the legal office. Shawn carried out an interview with a CASA organizer from the Comité Populaire du St. Jean-Baptiste, who emphasized the need to move away from summit hopping and do work within communities. Rumor had it more people had just got in from New York. I returned to the gym, now largely empty except for endless piles of backpacks, to find them. There were at most a hundred people left. Montréal Ya Basta! were performing a little improvisation on the drums. I spent a while chatting with them, taking notes on gear and tactics to bring back to New York Ya Basta!, if, indeed, one still existed.
 
@@ -3426,7 +3416,7 @@ There is a long line of buses on the main road through campus; every hour, four 
 
 We pull together a little group: Rufus, Kitty and Lee, Janna, a couple more.
 
-#### <em>**4:25PM**</em>
+#### **4:25PM**
 
 A march is passing by Des Jardins, maybe two-hundred people, led by red and black flags. I think they’re heading down to the Ministry of Justice. Kitty, who’s going to join us in jail support, has somehow acquired a black flag and banner for us too.
 
@@ -3434,7 +3424,7 @@ By some miracle, the legal office has a compatible cell phone recharger. With ab
 
 I haven’t talked to her for more than a minute or two when Rufus comes to tell me we’re going to miss our bus. Then, of course, the phone dies. The next day in Montréal I pick up the paper and find an article with a brief quote from me, explaining it was cut off by my having to high-tail it out of town.
 
-#### <em>**6:25PM, Bus to Montréal**</em>
+#### **6:25PM, Bus to Montréal**
 
 On the bus, everyone is exchanging war stories. A couple of Montréal Yabbas are already heading home. Greg is listing the three corporate targets that got hit: the CIBC, a Shell Oil station that got trashed (the attackers spray-painted the words “Viva Ken Saro Wiwa!”), and a Subway sandwich shop. Not a McDonald’s, as some people were saying. Subway was chosen because it was the second-largest fast food chain in North America, and Canadian owned. Also, some people trashed one of the TV news trucks left in the middle of the park to protest the coverage on the corporate media. He’s pretty dubious though about the “little riot that night. That was pretty lame. I didn’t see it, but I heard a bunch of Québécois nationalists went crazy and ended up wreaking havoc all over the Old City. I heard they even broke the windows of our clinic!”
 
@@ -3470,11 +3460,11 @@ Since this is a book about direct action, it might be best to begin by explainin
 
 Over the years, hundreds of anarchists have tried to answer this question, in pamphlets and broadsides and speeches. Here’s a sampling:
 
-<quote>
+
 Direct action implies one’s acting for one’s self, in a fashion in which one may weigh directly the problem with which you are confronted, and without needing the mediation of politicians or bureaucrats. If you see some bulldozers about to wreck your house, you engage in direct action to directly intervene to try to stop them. Direct action places moral conscience up against the official law… It is the expression of the individual’s readiness to fight, to take control of his life, and to try, directly, to act on the world that surrounds us, to take responsibility for one’s actions.
 
 —*Sans Titres Bulletin*, “What is Direct Action?”
-</quote>
+
 
 > 
 To take a homely example. If the butcher weighs one’s meat with his thumb on the scale, one may complain about it and tell him he is a bandit who robs the poor, and if he persists and one does nothing else, this is mere talk; one may call the Department of Weights and Measures, and this is indirect action; or one may, talk failing, insist on weighing one’s own meat, bring along a scale to check the butcher’s weight, take one’s business somewhere else, help open a cooperative store, etc., and these are direct actions.
@@ -3772,7 +3762,7 @@ The hippies of the 1960s, and then the punk movement of the late 1970s and 1980s
 
 **Extract from notebooks, Winter 2001**
 
-<em>**Brief excursus on the terms “punk” and “hippie”**</em>
+**Brief excursus on the terms “punk” and “hippie”**
 
 No one would ever use these terms to describe themselves. I’ve never heard anyone say “I am a punk” or “I am a hippie.” They are terms you use to describe someone else. In East Coast circles, to call someone a hippie is always to make fun of them, at least slightly: this despite the fact that half the time, the speaker herself might so be considered from another point of view—i.e., Brooke’s comment about the new Santa Cruz chapter of DAN, “probably a bunch of hippies and deadheads but we love them anyway.” Or: “when you’re proposing we organize a drum circle, are we talking *good* drumming, or just bad hippie drumming?” The term “punk” in contrast is almost never pejorative, It tends to be used in a more simply descriptive fashion: i.e., “I’m talking about Laura. You know, that kind of punky girl with the green hair?”
 
@@ -3802,10 +3792,10 @@ Still, this formulation remains more than a little crude. Probably, the real opp
 
 ### **RANDOM OBSERVATIONS ON ACTIVIST CULTURE**
 
-<quote>
+
 A society that denies us every adventure makes its own abolition the only possible adventure.
 *—*Reclaim the Streets slogan
-</quote>
+
 
 If one sees capitalism as a gigantic meaningless engine of endless expansion that reduces the majority of the planet’s inhabitants to hopeless poverty, that reduces even its beneficiaries to lonely isolated atoms doomed by fear and insecurity to lives of mind-numbing work and meaningless consumerism, even as it threatens the destruction of the planet—but if at the same time, one does not wish to, or does not believe it possible to simply flee the system, but rather wishes to stay and fight—then what precisely can one do? What sort of social relations is it possible to create among those who wish to make their lives a refusal of the very logic of capitalism, even as they necessarily remain inside it?
 
@@ -3815,7 +3805,7 @@ Consider again the idea of a mosh pit, in which dancers hurl themselves into one
 
 ### **Notebook extracts: June 2000, with some later jotted additions**
 
-#### <em>**Frailty:**</em>
+#### **Frailty:**
 
 Most activists do not seem incredibly physically fit—certainly not athletes. They tend to be wiry, occasionally fat, but almost never muscular. “Scrawny vegans” as the stereotype goes. (Famous LA newspaper comment during the DNC protests in 2000: “There were twice as many police as demonstrators; or if you count by weight, four times as many.” Similarly from the other side in the “anarchist guide to LA,” published at the same time: “the athletic-looking guy dressed like a Hollywood version of a punk rocker who’s urging you to attack the cops—he *is* a cop.” In other words, one way to detect an infiltrator is sheer physical fitness. This despite the fact that many have, as one might expect, plenty of outdoorsy skills and experience, climbing trees and walls and that sort of thing. Hippies with their hiking boots and trail mixes tend to be more fit than punks: they are at least wiry and resilient. This is especially surprising at first when you first get to know Black Bloc kids, who in the press are supposed to be the “violent” ones and who, even among activists, have been called “the marines of our movement,” and discover they’re mostly a bunch of shy, ectomorphic teenagers. They, of course, are also the most likely to be vegans. I suspect this is one thing that must really complicate relations with the police, since they are probably exactly the kind of kids that those grade school kids who were later to become cops used to bully.[46]
 
@@ -3833,7 +3823,7 @@ The play of desire and mutual dependence reappears on all sorts of subtle levels
 
 ### **Notebook extract, July 2000**
 
-#### <em>**Cigarettes:**</em>
+#### **Cigarettes:**
 
 A lot of activists smoke. Most older ones seem to have smoked at some time in their lives. I always found it a bit incongruous, at A16, to see all these idealistic kids blockading the streets with cigarettes hanging out of their mouths; especially, teenage girls sitting around bumming cigarettes from each other. But this is actually rather appropriate, because it creates a constant mobilization of feelings of need, discipline, sharing, and desire (the “community of addiction,” as I used to call it, that binds all smokers). Usually for every three or four activists who smoke, or might, there’s one who actually has a pack. Kevin was cast in this role with Scully et al. last week. The distribution of cigarettes, lighting them off others, etc., becomes a constant willed collapse of autonomy—me, when I used to smoke, it was a matter of principle *never* to allow myself to be trapped in a situation where I’d run out and wasn’t in a position to buy more, but here it’s the opposite. One is dependent on communal good will and sharing for what one *really* desires most urgently in the world, at least at that moment.
 
@@ -3843,7 +3833,7 @@ It rather reminds me of a story I heard about Martin Luther King. He was actuall
 
 Other drugs seem to play a less prominent role because they aren’t so addictive. Therefore, the whole dynamic of desire and community doesn’t enter in. My notes in this case continued:
 
-#### <em>**Other drugs:**</em>
+#### **Other drugs:**
 
 This varies by scene. Pot is occasional, but surprisingly infrequent. It’s used roughly to the degree one would expect from any young people of the same class or socioeconomic background. Beer is quite a bit, often at bars. Ecstasy is popular among the raver types with which there’s a definite overlap with certain parts of the activist scene. Of course, during street actions, drugs are totally bad news and you’re always reminded not to bring any: “Even if you ditch a joint the moment the cops appear, someone’s going to get it pinned on them.” So bringing drugs to an action would be an act of total lack of solidarity. For an activist to show up completely drunk, or completely stoned, at an action is taken as either a sign no one would possibly want to be in an affinity group with them or, in my experience, most often, as a sign that activist in question is personally falling apart and needs help. As for drug paranoia, there are all sorts of levels of context and historical experience: I am reminded of the time I made a beverage run while showing a film with some former Black Panthers. When I suggested I pick up some Coke, one startled woman immediately corrected me: “Please! Say ‘Coca Cola!’” These were, obviously people used to constant surveillance at a time when drug busts commonly landed activists in jail. I’ve never heard anything like that amongst anarchists nowadays: paranoia is directed at other things. In fact, at minor events, or street party-style actions that are halfway to raves anyway, attitudes towards drugs can be very relaxed. One friend told me a long story about being searched and locked in jail overnight after the RTS Times Square event only to discover, after he got out, that he’d forgotten he’d had a joint in his shoe the whole time. But these are “Temporary Autonomous Zones” of a rather different sort.
 
@@ -3984,7 +3974,7 @@ This is all the first half of the chapter, which maps out how consensus ought to
 
 ### **SECTION I: BACKGROUND**
 
-#### <em>**AFFINITY GROUPS**</em>
+#### **AFFINITY GROUPS**
 
 I start with affinity groups since these might be considered the elementary particles of voluntary association. Essentially, they are just small groups of people who feel they share something important in common, and decide to work together on a common project. The term itself derives from the Spanish grupos de afinidad which again, originally referred to clusters of friends (a common synonym was tertulias, groups of drinking buddies or young people used to hanging out together in cafés), but which in the 1920s became the basic organizational unit of the Spanish anarchist confederation, the FAI. When the first large-scale consensus-based groups came together during the antinuclear campaigns of the early 1980s, the base unit was always assumed to be affinity groups.
 
@@ -4000,7 +3990,7 @@ When affinity groups endure from action to action, they become hard to distingui
 
 In this chapter, I am not going to be talking much about meetings of such relatively small and intimate groups, often seen as more informal and “organic” than groups like DAN. But neither am I going to dwell much on spokescouncils—the reader has already got a sense of those in Part I. Rather, I will be focusing on DAN, an attempt to create a more permanent structure along the same lines. From the very beginning, DAN was wracked by uncertainties as to exactly how that could be done. Should DAN take the form of a permanent spokescouncil for existing collectives and affinity groups (the “convergence model”), or should it have meetings open to everyone, and its own working groups? Was it a network of groups or a group in its own right? None of these questions were definitively resolved. DAN always remained a little bit of both, and therefore, its structure was always something of a problem.
 
-#### <em>**THE RISE AND FALL OF CONTINENTAL DAN**</em>
+#### **THE RISE AND FALL OF CONTINENTAL DAN**
 
 On the face of it, the attempt to create a continental Direct Action Network seems an obvious failure. The idea of creating a continental network of direct action groups arose in a heady burst of enthusiasm, after the startling success of the WTO actions in Seattle in November 1999. Over the course of the next year or so, the network grew apace. But DAN quickly began losing many of its most enthusiastic early members after a frustrating series of less-successful actions; and, within a few years, it had effectively dissolved. This is the obvious way to tell the story. There is, however, another one. When I first got involved with DAN, almost everyone emphasized that they didn’t expect the group to be around forever. DAN was not, itself, going to bring about a revolution. Rather, most insisted that DAN existed to disseminate a certain vision of direct democracy, to provide a model of egalitarian decision-making processes that would eventually become standard practice for everyone interested in directly confronting the state and capitalism. Once it had done so, there would be no reason for DAN to exist. In a sense, this is precisely what happened, and much more rapidly than anyone anticipated. Within two or three years, DAN, as a formal entity, was gone, but in another sense it was everywhere, since at least among direct action-oriented group, some version of its model of organization had become pretty much universal.
 
@@ -4010,7 +4000,7 @@ The big question, at first, was whether this would be a means of communication, 
 
 We are a continental network committed to overcoming corporate globalization and all forms of oppression. We are part of a growing movement united in common concern for justice, freedom, peace, and sustainability of all life, and a commitment to take direct action to realize radical visionary change.
 
-#### <em>**CONTINENTAL DAN PRINCIPLES OF UNITY**</em>
+#### **CONTINENTAL DAN PRINCIPLES OF UNITY**
 
 DAN adopts the following Principles of Unity inspired by and derived from those of the international People’s Global Action Network:
 
@@ -4044,7 +4034,7 @@ Similar things were happening on the West Coast. While groups like Global Exchan
 
 This was the real danger, I think, with trying to put a name on informal networks. In direct action circles, named groups have a tendency to accumulate bad associations. Many see any effort to formalize networks or coalitions as attempts to create a de facto leadership structure, to put certain individuals in a position to “speak for the group” and take credit for other’s actions or achievements. Even those who don’t see things this way tend to adopt a system of moral accounting whereby it’s extremely difficult for groups to accumulate credits, and easy to accumulate debits. The same thing happened when DAN tried to establish alliances with radical groups based in communities of color: insensitive, obnoxious, or racist behavior by individual members tended to be angrily remembered, and identified with DAN as a group; dramatic acts of solidarity and self-sacrifice tended to be remembered as acts of particular individuals. Over time, then, the name became a liability. Since there was little reason to maintain the network, by late 2001, CDAN effectively collapsed. Most of the local DANs were to follow suit soon after or, more often, go back to being the largely informal networks from which they arose.
 
-#### <em>**ABOUT NEW YORK DAN SPECIFICALLY**</em>
+#### **ABOUT NEW YORK DAN SPECIFICALLY**
 
 For most of the 1980s and 1990s, the greatest energy in the direct action scene in New York City was around the AIDS crisis. By the end of the Reagan years, ACT UP was holding weekly meetings with hundreds of participants, and engaging in a whole range of actions across the city: protests, sit-ins, lockdowns, banner-drops, and so on. In the 1990s New York also saw one of the major national chapters of Love and Rage, a project to create a nationwide revolutionary anarchist network, built up largely around a weekly newspaper of the same name. Like so many such groups, Love & Rage fell into internal conflicts and eventually dissolved over issues of white privilege in 1998.
 
@@ -4056,7 +4046,7 @@ Jan 31, 2000 20:45 PST
 
 [here’s an email announcement to copy & forward to your lists]
 
-#### <em>**PLEASE FORWARD FAR & WIDE**</em>
+#### **PLEASE FORWARD FAR & WIDE**
 
 Building on the successes of the World Trade Organization protests in Seattle, a diverse coalition of New York City activist groups are coming together in mutual aid. We are creating a network to support each other’s movements and facilitate mass mobilizations on a diversity of issues, beginning with actions on April 16-17 against the World Bank and International Monetary Fund…
 
@@ -4093,7 +4083,7 @@ Things grew trickier when CDAN decided, soon afterwards, to plan symmetrical act
 Québec led to problems too—while the actions in Québec itself were a spectacular success, very few New Yorkers got to them, and Akwesasne was a disaster that left all sorts of recriminations over what had gone wrong. At this point, DAN was no longer a network, it was a group that initiated coalitions. Then came September 11, It, of course, shocked the activist community in New York itself more than anywhere: activists had to deal with the same grief and paranoia that other New Yorkers did, with the added fear that their movements were about to be systematically suppressed by a new national security state. By the time of the actions hastily thrown together against the World Economic Forum, held in the Waldorf Astoria in midtown Manhattan a few months later, there were, in fact, two different coalitions initiated largely by DAN members: one called Another World Is Possible (AWIP), which ended up organizing the march, and the Anti-Capitalist Convergence (ACC), the more radical group which planned the largely abortive direct actions. At this point, DAN, much shrunk in size, had become essentially a hub of activists who knew how to create larger coalitions, and didn’t even aspire to be a network embracing every aspect of organizing in the city. It soon fell into kind of terminal crisis over its status. Was DAN a group? Was it a more limited network? Should it return to its original vision? There were some groups—CLAC, in Montréal, for example—who weathered the crisis by returning to the spokescouncil model that DAN had rejected at the very beginning. Many members of NYC DAN were pushing for something along these lines, but ultimately, their arguments did not carry the day: in part because the real core of DAN was, at that point, not in the working groups but in DAN General, which became a kind of pool of activist resources, legal, organizational, media skills, and so on. In late 2002, first Police & Prisons, then Labor, fell into crisis and dissolved themselves, and, by early the next year, DAN itself no longer formally existed: though it was, essentially, the same people who played the key roles in putting together almost all of the most radical peace coalitions, international solidarity groups, and radical protest groups in the years that followed. DAN, as a model, had indeed spread everywhere.
 
 ### **SECTION II: PROCESS**
-#### <em>**CONSENSUS AND FACILITATION**</em>
+#### **CONSENSUS AND FACILITATION**
 
 Let me turn now to some of the ethnographic baselines: meeting dynamics, consensus, and the art of facilitation. As promised, I will begin with the first facilitation training I myself attended, in the spring of 2000. This was a DAN training: since DAN continually rotated facilitators, it was felt everyone in DAN should at least be capable of playing that role. The crew consisted of three trainers, Mac and Lesley, the two Toronto natives who had been with NYC DAN since its inception, and Jim, a fortyish activist then working with Hudson Valley DAN, along with about a dozen activist trainees. All were relatively recent DAN recruits, ranging from Chris, a seventeen-year-old punk guitarist, to Nat, a woman in her seventies, long active in Marxist groups, who had become increasingly involved in anarchist ones over the last few years. Everyone had at least some experience with consensus process, and was familiar with at least some of the theory behind it.
 
@@ -4425,7 +4415,7 @@ Different groups demand different styles of facilitation. If people are too pass
 
 You’ll often hear, in fact, certain activists referred to as “strong facilitators” in that sense; ones capable of aggressive intervention, especially in large groups. It’s considered an essentially admirable quality. In my experience, interestingly, strong facilitators are almost invariably women. In part, this is probably because men who behave this way very quickly tend to get on someone’s nerves. But it is also common wisdom that most of the best facilitators are women.
 
-#### <em>** CONSENSUS DEFINED BY ITS OPPOSITES **</em>
+#### ** CONSENSUS DEFINED BY ITS OPPOSITES **
 
 I: American Democracy
 
@@ -4445,7 +4435,7 @@ Understanding this might also help explain some gaping holes in political theory
 
 The gulf that separates common American conceptions of democracy and anarchist practice is so great that some anarchists reject the term “democracy” entirely, preferring to limit it to representative government and majority rule. Democracy, they argue, is a form of government. They want create something else: anarchy. Primitivists and hardcore anti-organizational types are particularly likely to make this move, and they are, significantly, those most likely to reject experiments like DAN as themselves oppressive—though, among small-A’s at least, they seem very much the minority. Most anarchists committed to creating broader alliances recognize that, in the words of the CrimethInc collective (2003) “most people hate the government and love democracy. Anarchy: that’s just democracy without the government.”
 
-#### <em>**CONSENSUS DEFINED BY ITS OPPOSITES**</em>
+#### **CONSENSUS DEFINED BY ITS OPPOSITES**
 
 II: Three Points of Contrast
 
@@ -4491,7 +4481,7 @@ Ever since shortly after Seattle, when Naomi Klein (2001) described the decentra
 
 So we are back to the same question posed in the section on sectarianism: if one’s movement does not emerge from theory, or intellectual debate, from a prior analysis of the world situation—then from what, exactly, does it emerge?
 
-#### <em>**UNDERSTANDINGS EMERGENT FROM PRACTICE**</em>
+#### **UNDERSTANDINGS EMERGENT FROM PRACTICE**
 
 Let me map out what I take to be the salient features of consensus-based decision-making.
 
@@ -4547,7 +4537,7 @@ The reason seemed to be that, especially in lull periods, women came to see the 
 
 There soon developed a sense that DAN meetings were not, in fact, an entirely comfortable space for women activists. Many did complain, and some began dropping out in frustration. Several organized a DAN women’s caucus as a way to discuss the problem, and propose solutions. After meeting several times in Tompkins Square park, participants in the women’s caucus decided to propose DAN use a “vibes watcher.” This is a role quite familiar in activist circles on the West Coast; the main task of vibes watchers is to assist the facilitators by monitoring the general emotional feeling of the room, but in this case, the real emphasis was to have someone capable of monitoring gender dynamics and calling out sexist behavior. The account that follows—the ethnographic core of this section—is drawn from the DAN meeting on June 19, 2000; the second meeting at which this proposal was discussed.
 
-#### <em>**THE SAGA OF THE THIRD FACILITATOR**</em>
+#### **THE SAGA OF THE THIRD FACILITATOR**
 
 Let me reproduce some bits, reconstructed from my notes, of what was probably the rowdiest DAN meeting I ever attended. In designing this chapter I was at first a bit hesitant to give it so much prominence, since it will mean that the only DAN meeting I’m reproducing in anything like its entirety was also an uniquely divisive one, full of accusations of sexism, class bias, and at least one participant who seemed to be a total lunatic. Still, it serves very nicely to bring out the tensions I’ve been describing, and to give the reader a sense of how they can—in worst-case scenario—play out in an actual meeting.
 
@@ -4899,7 +4889,7 @@ Still, the damage had been done. Dennis had managed to put a very ugly face on a
 
 The measure was finally consensed on, and DAN got a third facilitator. Once the role was created, it proved completely unremarkable. As far as I know, that third facilitator never did call a time-out on any individual and was never accused of censorship. But such fault lines, once exposed, are hard to cover up.
 
-#### <em>**INTERNALIZED OPPRESSION**</em>
+#### **INTERNALIZED OPPRESSION**
 
 Consensus operates on a principle of trust. By giving every member the power to block, one is giving them the power to throw the group into a crisis at any point. The idea is to ensure that everyone is conscious of the trust the group has placed in them, to use the power responsibly, and this is, indeed, what does tend to happen. The reason racism, sexism, and other forms of what activists like to call “internalized forms of oppression” are so difficult to deal with is precisely because one is not conscious of them. They are simultaneously absolute evils, and so fundamental to the nature of our society that they form inescapable aspects of the subjectivity of anyone who grew up within it. They cannot be defeated just by trust in others’ good intentions.
 
@@ -4907,7 +4897,7 @@ Let’s put this another way. Back in the 1880s, Peter Kropotkin (1927:135–36)
 
 There are other techniques for getting around this problem, even if none are entirely reliable. One is to encourage constant introspection. Hence, the insistence in the meeting that we should all be doing vibes work all the time. The danger of dealing with deeply internalized forms of privilege is that one can fall into endless psychologism—“touchy-feely race discourse,” some activists would call it—that everything becomes profoundly personalized. In the absence of any authoritative, overarching ideology, one ends up with a kind of endless encounter group of personal narratives and subjectivities. To avoid this, some anarchists insisted on constantly bringing matters back to practical, action terms. Some, for example, preferred not to use the terms “racism” or “sexism” at all. Rather than trying to combat abstractions like racism, they reframed the problem as one of “white supremacy,” as an immediate practical problem: how do we ensure that white people don’t dominate this group? Like male dominance, white supremacy was not an ideology that comes to shape consciousness, but an outcome. The assumption is that by working in groups that do not operate on principles of white supremacy, racism itself can be unlearned. This seems the solution most in keeping with the overall principles of the movement, but it does sometimes seem to present one with the problem of the chicken and the egg.
 
-#### <em>**FINAL NOTE: ENGAGING WITH HIERARCHICAL GROUPS**</em>
+#### **FINAL NOTE: ENGAGING WITH HIERARCHICAL GROUPS**
 
 To sum up then: most American anarchists, and most of those involved in the direct action movement, feel that some version of consensus decision-making is the only form entirely consistent with a society free of systematic physical coercion. There are a lot of reasons to believe they are right. Very few Americans who are not anarchists, or involved in direct action, have much experience with consensus, or with participatory decision-making of any sort. As a result, everything has to be learned; new customs, habits, and attitudes invented. The history of DAN, for example, can be seen either as an abortive effort to create a continental network of activists, or as an extraordinarily successful effort to disseminate this new democratic culture—at least within activist circles.
 

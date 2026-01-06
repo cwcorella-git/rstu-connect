@@ -1,3 +1,8 @@
+---
+title: "## **Union Members Don't Oppose Environmental Protections: They're Actually More Likely To Support T"
+category: "labor"
+---
+
 ## **Union Members Don't Oppose Environmental Protections: They're Actually More Likely To Support Them**
 
 ## **Date:** Thu, 05/26/2016 - 13:39

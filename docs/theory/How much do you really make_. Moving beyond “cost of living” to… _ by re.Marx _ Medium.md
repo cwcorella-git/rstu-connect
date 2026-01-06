@@ -1,3 +1,8 @@
+---
+title: "**How much do you really make?**"
+category: "theory"
+---
+
 #### [medium.com](https://medium.com/@re. Marx/how-much-do-you-really-make-86d070f63919)
 
 # **How much do you really make?**

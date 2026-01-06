@@ -1,3 +1,8 @@
+---
+title: "**Anti State, Anti Capital, Anti Psychiatry**"
+category: "theory"
+---
+
 # **Anti State, Anti Capital, Anti Psychiatry**
 
 ## **Date:** Unknown

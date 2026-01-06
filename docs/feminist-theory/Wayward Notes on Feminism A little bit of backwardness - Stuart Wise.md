@@ -1,3 +1,8 @@
+---
+title: "## **Wayward Notes on Feminism: A little bit of backwardness? - Stuart Wise**"
+category: "feminist-theory"
+---
+
 ## **Wayward Notes on Feminism: A little bit of backwardness? - Stuart Wise**
 
 ## **Date:** Unknown

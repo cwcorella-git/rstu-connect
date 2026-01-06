@@ -1,3 +1,8 @@
+---
+title: "## [pcwrede.com](https://pcwrede.com/pcw-wp/first-novels-part-5-finish-and-revise/)"
+category: "arts-culture-music"
+---
+
 ## [pcwrede.com](https://pcwrede.com/pcw-wp/first-novels-part-5-finish-and-revise/)
 
 ## **First Novels, Part 5-Finish and revise – Patricia C. Wrede**

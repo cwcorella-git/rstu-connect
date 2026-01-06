@@ -1,3 +1,8 @@
+---
+title: "## **A Message to the Membership of ILWU Local 10**"
+category: "contemporary-analysis"
+---
+
 ## **A Message to the Membership of ILWU Local 10**
 
 ## **Date:** Sun, 08/07/2016 - 13:52

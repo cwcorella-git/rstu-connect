@@ -1,21 +1,8 @@
 ---
-title: Punching the Clock
-author: David Graeber
-date: June 2018
-pubdate: '2021-11-28T18:17:03'
-language: en
-source_url: >-
-  Retrieved on 28<sup>th</sup> November 2021 from
-  [[https://harpers.org/archive/2018/06/punching-the-clock/][harpers.org]]
-notes: Excerpt from <em>Bullshit Jobs</em>.
-topics:
-  - bullshit jobs
-  - anti-work
-original_format: muse
-converted_date: '2025-11-08T11:25:03.190345'
-tags:
-  - Bullshit Jobs
-  - Anti Work
+title: "Punching the Clock"
+author: "David Graeber"
+date: "June 2018"
+category: "contemporary-analysis"
 ---
 
 Everyone is familiar with the sorts of jobs whose purpose is difficult to discern: HR consultants, PR researchers, communications coordinators, financial strategists, logistics managers. The list is endless.

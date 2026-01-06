@@ -1,3 +1,8 @@
+---
+title: "**Got Subtext? Writing Better Dialogue**"
+category: "contemporary-analysis"
+---
+
 [jerryjenkins.com](https://jerryjenkins.com/subtext-examples/)
 
 # **Got Subtext? Writing Better Dialogue**

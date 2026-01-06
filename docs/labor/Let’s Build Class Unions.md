@@ -1,3 +1,8 @@
+---
+title: "## **Let's Build Class Unions**"
+category: "labor"
+---
+
 ## **Let's Build Class Unions**
 
 ## **Date:** Unknown

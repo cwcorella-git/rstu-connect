@@ -1,3 +1,8 @@
+---
+title: "## **a prelude: "blessed," meaning washed with blood.**"
+category: "contemporary-analysis"
+---
+
 ## **a prelude: "blessed," meaning washed with blood.**
 
 | Date: 2023-11-04 |
@@ -5,13 +10,16 @@
 | Source: https://www.threadings.io/a-prelude-blessed-meaning-washed/|
 | a digital journal entry once entitled, "rip the band-aid off, ismatu" |
 | So. |
-| I have found you all dangling on the end of my pen today because not being able to write feels<br>very similar to when you can't cry. You know? Like, it's different than— or. It's not "different<br>than." But these words feel too small— there's a |
+| I have found you all dangling on the end of my pen today because not being able to write feels
+very similar to when you can't cry. You know? Like, it's different than— or. It's not "different
+than." But these words feel too small— there's a |
 | clog |
 | , a |
 | block |
 | , |
 | stoppage |
-| . All those things feel too small. What I'm feeling is the seed of grief. Yet another seed of<br>grief that has found its way directly into my marrow. And it's incredibly heavy. It feels like when |
+| . All those things feel too small. What I'm feeling is the seed of grief. Yet another seed of
+grief that has found its way directly into my marrow. And it's incredibly heavy. It feels like when |
 
 I lost so much family to Ebola and then COVID concurrently, that I couldn't cry, that my body— I was storing these seeds of grief that I didn't know how to feel. So it was just,
 
@@ -22,10 +30,18 @@ I lost so much family to Ebola and then COVID concurrently, that I couldn't cry,
 | you |
 | know, |
 | we |
-| know how COVID has gone in the United States, the blanket of denial. I kept asking for mercy<br>and for understanding when I wasn't performing well in school, because I am a part of the<br>Tens Club. |
-| Tens Club: when there's an event, a genocidal event that has taken Tens of your family<br>members at a time. |
+| know how COVID has gone in the United States, the blanket of denial. I kept asking for mercy
+and for understanding when I wasn't performing well in school, because I am a part of the
+Tens Club. |
+| Tens Club: when there's an event, a genocidal event that has taken Tens of your family
+members at a time. |
 | And COVID-19 is not the first Tens event that my family has survived. |
-| When it was happening, you know— when I was a child and the Sierra Leonean Civil War was<br>happening; when I was a child and Ebola was blooming in my country; then the mudslide;<br>when I was a new adult, a child-like adult moving through COVID and looking like the weights<br>of police brutality really directly in the face— not that none of these things were new, right?<br>The idea of disease discourse and disease as a weapon of a government who has<br>extermination intents. genocidal fantasies. who really like, they |
+| When it was happening, you know— when I was a child and the Sierra Leonean Civil War was
+happening; when I was a child and Ebola was blooming in my country; then the mudslide;
+when I was a new adult, a child-like adult moving through COVID and looking like the weights
+of police brutality really directly in the face— not that none of these things were new, right?
+The idea of disease discourse and disease as a weapon of a government who has
+extermination intents. genocidal fantasies. who really like, they |
 
 really cheer and riot when people of certain demographics die en masse. not new.
 
@@ -48,13 +64,17 @@ If A equals B.
 | And yours. Yours or someone else's highest good. |
 | And |
 | love is the action itself. |
-| It's two prong, right? The double edged sword of what it is that blooms within you that compels<br>you to act in the highest good, |
+| It's two prong, right? The double edged sword of what it is that blooms within you that compels
+you to act in the highest good, |
 | and |
 | the action that follows. I also say that |
 | grief and love are synonymous. |
 | So my grief for me, which is the same thing, |
 | the same thing as love, |
-| is also something that roots and blooms inside of me. That takes my flesh. Grief is something<br>that lives in almost a parasitic manner because I'm giving it my bone marrow. The grief sucks<br>the marrow from my bones to bloom itself and it compels me to act in someone else's highest<br>good. In the good of the dead. |
+| is also something that roots and blooms inside of me. That takes my flesh. Grief is something
+that lives in almost a parasitic manner because I'm giving it my bone marrow. The grief sucks
+the marrow from my bones to bloom itself and it compels me to act in someone else's highest
+good. In the good of the dead. |
 | If you're listening to this and you feel seeds of grief, I would really love to know what you think |
 
 that they might bloom for you. What feelings and what actions might bloom from the grief that you're holding. Do you have space to bloom the seeds yet? It's okay if you don't.

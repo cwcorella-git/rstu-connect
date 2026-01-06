@@ -1,3 +1,8 @@
+---
+title: "## [sciencefocus.com](https://www.sciencefocus.com/the-human-body/comas-conscious-communicate)"
+category: "environmental-justice"
+---
+
 ## [sciencefocus.com](https://www.sciencefocus.com/the-human-body/comas-conscious-communicate)
 
 ## Thousands of coma patients may be conscious but we're ignoring them, says pioneering neuroscientist

@@ -1,3 +1,8 @@
+---
+title: "**Episode 23: Romanticism/**"
+category: "contemporary-analysis"
+---
+
 # **Episode 23: Romanticism/**
 
 **Source:** https://www.meaningcrisis.co/ep-23-awakening-from-the-meaning-crisis-romanticism/

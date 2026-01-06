@@ -1,3 +1,8 @@
+---
+title: "Why the world needs viruses to function"
+category: "contemporary-analysis"
+---
+
 #### [bbc.com](https://www.bbc.com/future/article/20200617-what-if-all-viruses-disappeared)
 
 # Why the world needs viruses to function

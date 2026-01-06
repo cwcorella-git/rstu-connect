@@ -1,19 +1,10 @@
 ---
-title: >-
-  Staff At Anti Mountaintop Removal Nonprofit Coal River Mountain Watch Unionize
-  W
-slug: >-
-  Staff at Anti-Mountaintop Removal Nonprofit Coal River Mountain Watch Unionize
-  with IWW
-reconversion_status: ready_for_reconversion
-date: 2021
-author: Industrial Workers of the World
-tags:
-  - labor
-  - strikes
-  - unions
-  - organizing
+title: ">-"
+author: "Industrial Workers of the World"
+date: "2021"
+category: "labor"
 ---
+
 ## **Staff at Anti-Mountaintop Removal Nonprofit Coal River Mountain Watch Unionize with IWW**
 
 ## **Date:** Tue, 09/07/2021 - 00:00

@@ -1,3 +1,8 @@
+---
+title: "## 0:00"
+category: "contemporary-analysis"
+---
+
 ## 0:00
 
 It feels like everything is falling apart. The planet is simultaneously flooded and on fire, wars are raging, prices are hiking,

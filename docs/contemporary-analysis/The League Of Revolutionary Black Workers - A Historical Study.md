@@ -1,3 +1,8 @@
+---
+title: "**The League of Revolutionary Black Workers: A Historical Study**"
+category: "contemporary-analysis"
+---
+
 # **The League of Revolutionary Black Workers: A Historical Study**
 
 ## By A. Muhammad Ahmad

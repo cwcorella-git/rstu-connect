@@ -1,3 +1,8 @@
+---
+title: "**TRUE LEARNING**"
+category: "theory"
+---
+
 #### **THE UNDERACHIEVING SCHOOL**
 
 John Holt was born in New York City on 14 April 1923. He was educated at a number of schools in the States and at Le Posey in Switzerland (1935-6), after which he attended the Phillips Exeter Academy, graduating in 1939. He took a B. S. degree in Industrial Administration at Yale from 1940 to 1943. Following this he served in the Submarine service of the U. S. Navy until 1946. He then worked in various parts of the world government movement, finally as Executive Director of the New York State branch of the United Work Federalists. On returning to the States in 1953 after traveling in Europe for a year he caught in various schools in Colorado and Massachusetts. His publications include *How Children Fail* and *How Children Learn*, both available in Penguins. He has also published articles and reviews in such magazines and journals as the New York Review of Books, Book Week and Peace News (London).

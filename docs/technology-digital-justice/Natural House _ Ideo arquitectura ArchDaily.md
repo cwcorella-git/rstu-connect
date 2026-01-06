@@ -1,3 +1,8 @@
+---
+title: "Natural House / Ideo arquitectura"
+category: "technology-digital-justice"
+---
+
 #### [archdaily.com](https://www.archdaily.com/977508/natural-house-ideo-arquitectura)
 
 # Natural House / Ideo arquitectura
@@ -160,7 +165,7 @@ Lime revoke. Lime construction is an ancient technique in Mallorca. Until now, i
 
 ## Published on March 01, 2022
 
-Cite: "Natural House / Ideo arquitectura" [Cáñamo, cal y marés, una casa natural / Ideo arquitectura] 01 Mar 2022. Arch Daily. Accessed 18 Sep 2023. <https://www.archdaily.com/977508/natural-house-ideo-arquitectura> ISSN 0719-8884
+Cite: "Natural House / Ideo arquitectura" [Cáñamo, cal y marés, una casa natural / Ideo arquitectura] 01 Mar 2022. Arch Daily. Accessed 18 Sep 2023.  ISSN 0719-8884
 
 # 世界上最受欢迎的建筑⽹站现已推出你的⺟语版本!
 

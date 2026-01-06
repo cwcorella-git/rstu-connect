@@ -1,16 +1,10 @@
 ---
-title: Anarchism And Revolutionary Defeatism Kc Sinclair
-slug: Anarchism and revolutionary defeatism – K.C. Sinclair
-reconversion_status: ready_for_reconversion
-date: 1909
-author: Peter Kropotkin
-tags:
-  - theory
-  - anarchism
-  - strikes
-  - unions
-  - rent
+title: "Anarchism And Revolutionary Defeatism Kc Sinclair"
+author: "Peter Kropotkin"
+date: "1909"
+category: "theory"
 ---
+
 ## **Anarchism and revolutionary defeatism – K. C. Sinclair**
 
 ## **Date:** Unknown

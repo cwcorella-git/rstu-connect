@@ -1,3 +1,8 @@
+---
+title: "## **Anarchy #30 1980**"
+category: "contemporary-analysis"
+---
+
 ## **Anarchy #30 1980**
 
 ## **Date:** Unknown

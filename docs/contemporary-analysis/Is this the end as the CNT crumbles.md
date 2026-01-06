@@ -1,3 +1,8 @@
+---
+title: "## **Is this the end?: as the CNT crumbles**"
+category: "contemporary-analysis"
+---
+
 ## **Is this the end?: as the CNT crumbles**
 
 ## **Date:** Unknown
@@ -75,18 +80,25 @@ Some lessons to be drawn from the disarray of the CNT are that:
 | Oh wow, what a coincidence! What do think about this stuff now, years later? |
 | asn |
 | 3 months ago |
-| check out the below book and RW review looks at CNT resurgence in post Franco Era Spain<br>& Decline following cycle devastating splits |
-| rebel worker Dec-Jan 2020.pdf Rebel Workerhttp://www.rebelworker.org›<br>archivePDFAnarchism and Political Change in Spain: Schism, Polarisation and Recon<br>struction of the Confederacion Nacional del Trabajo, 1939-1979 by Maggie. Torres |
+| check out the below book and RW review looks at CNT resurgence in post Franco Era Spain
+& Decline following cycle devastating splits |
+| rebel worker Dec-Jan 2020.pdf Rebel Workerhttp://www.rebelworker.org›
+archivePDFAnarchism and Political Change in Spain: Schism, Polarisation and Recon
+struction of the Confederacion Nacional del Trabajo, 1939-1979 by Maggie. Torres |
 | Steven. |
 | 3 months ago |
 | In reply to Billy Williams was one of my…by Battlescarred |
-| Battlescarred wrote:Billy Williams was one of my pseudonyms when I wrote for Libertarian<br>Communist. |
+| Battlescarred wrote:Billy Williams was one of my pseudonyms when I wrote for Libertarian
+Communist. |
 
-| Should we just update the author of this piece to be your real name then? Or would you prefer<br>your BW articles to be stored in a separate archive, effectively? |
+| Should we just update the author of this piece to be your real name then? Or would you prefer
+your BW articles to be stored in a separate archive, effectively? |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Battlescarred |
 | 3 months ago |
-| I'd prefer the latter, especially as I now have a more nuanced approach to what happened in<br>the CNT then. |
+| I'd prefer the latter, especially as I now have a more nuanced approach to what happened in
+the CNT then. |
 | Steven. |
 | 3 months ago |
-| Okay no problem! Actually looks like this is the only BW article we have, at least as a<br>stand-alone text |
+| Okay no problem! Actually looks like this is the only BW article we have, at least as a
+stand-alone text |

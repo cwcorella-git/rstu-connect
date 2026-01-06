@@ -1,13 +1,8 @@
 ---
-title: Non Cooperation Movement 2024 Wikipedia
-date: 2025
-author: Wikipedia
-tags:
-  - organizing
-  - strikes
-  - unions
-  - rent
-  - police
+title: "Non Cooperation Movement 2024 Wikipedia"
+author: "Wikipedia"
+date: "2025"
+category: "organizing"
 ---
 
 # Non Cooperation Movement 2024 Wikipedia
@@ -29,7 +24,7 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
           government jobs, it snowballed into a mass antigovernment uprising after the mass killings against People cheering in front of the Prime Minister's
           civilians. The movement was also fueled by Oﬃce after Sheikh Hasina's resignation
           ongoing socio-economic and political issues,
-                                                                  Date 4–5 August 2024 (1 day)[1]
+                                                                  Date 4-5 August 2024 (1 day)[1]
           including the government's mismanagement of the
 ## Location Bangladesh
           national economy, rampant corruption by
@@ -86,8 +81,8 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
               "The legacy of Fath-e-Makkah, Fath-e-Bangala, and Fath-e-Kustuntiniyya has led us to achieve
               Fath-e-Ganabhaban."[31][32]
           Background
-          During the quota reform movement in 2024, participants—
-          particularly students—faced resistance, mass arrests, and
+          During the quota reform movement in 2024, participants--
+          particularly students--faced resistance, mass arrests, and
           massacre and severe injuries at the hands of police and other
           security forces. Six coordinators of the Anti-discrimination
           Students Movement, who were leading the initial quota reform
@@ -162,7 +157,7 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
           internet inaccessibility.[46] The government ordered the closure of
           Facebook, Messenger, WhatsApp, Instagram, and all other Metaowned services, directing internet service providers to comply after
 ## A protester is seen holding a
-          1:00 p.m.[47] Later, the Minister of Information and Broadcasting sign that reads রে�তর দাগ �কায় নাই
+          1:00 p.m.[47] Later, the Minister of Information and Broadcasting sign that reads রেতর দাগ কায় নাই
           Mohammad A. Arafat conﬁrmed that some social media platforms ("The marks of blood have not
           were temporarily blocked to prevent the spread of rumors amid yet dried"), featuring a demonprotests.[48] An indeﬁnite nationwide curfew was imposed starting at like depiction of Sheikh Hasina,
           6:00 p.m.[49][50] Additionally, all courts were also ordered to close a ﬁgure reminiscent of a similar
@@ -291,8 +286,8 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
           Rahman's residence in Dhanmondi, where he and his family were The Awami League central oﬃce on
           assassinated by military personnel in 1975, known as Bangabandhu Avenue after being
           Bangabandhu Memorial Museum, were burnt and ransacked by burnt, with protesters hanging a
-          the demonstrators.[116][117][118] Two pro-government television signboard reading সাধারণ ছা�র ও জনতার
-          stations were also forced oﬀ-air after being torched by কায�ালয় ("General students' and
+          the demonstrators.[116][117][118] Two pro-government television signboard reading সাধারণ ছার ও জনতার
+          stations were also forced oﬀ-air after being torched by কাযালয় ("General students' and
           demonstrators,[119] including ATN Bangla.[120] The Jatiya people's oﬃce")
           Sangsad Bhaban, which houses the Parliament of Bangladesh,
           was also stormed by protesters,[121] who took 40 weapons from
@@ -341,7 +336,7 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
           collapse of governmental law enforcement agencies.[148] Haradhan Roy, a Hindu councilor from the Awami
           League in Rangpur, and Mrinal Kanti Chatterjee, a Hindu school teacher in Dhaka were killed.[148][149][150]
           According to the Investigation conducted by Prothom Alo correspondents across 64 districts and 67 upazilas
-          between 5–20 August 2024, 1,068 attacks on the minority community occurred in 49 districts. Two members
+          between 5-20 August 2024, 1,068 attacks on the minority community occurred in 49 districts. Two members
           of the Hindu community were killed in the violence, and a total of 912 attacks were documented. Of these, in
           at least 506 cases, the victims were aﬃliated with Awami League.[151] The Hindu Buddhist Christian Unity
           Council reported that from August 4 to August 20, a total of 2,010 incidents (including 69 temples) of attacks
@@ -535,8 +530,8 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
             ▪ 2022 Sri Lankan protests
             ▪ 2011 Egyptian revolution
            Notes
-           a. Bengali: অসহেযাগ আে�দালন, romanized: Ôsôhôjōg Āndōlôn
-           b. Bengali: এক দফা আে�দালন, romanized: Ēk Dôphā Āndōlôn
+           a. Bengali: অসহেযাগ আেদালন, romanized: Ôsôhôjōg Āndōlôn
+           b. Bengali: এক দফা আেদালন, romanized: Ēk Dôphā Āndōlôn
            c. including Former President of Bangladesh Mohammad Abdul Hamid,[96]
               Asaduzzaman Khan,[97] Rezaul Haque Chowdhury, Mashrafe Mortaza,[98][99] Zunaid
               Ahmed Palak, MP Shaﬁqul Islam Shimul,[100] Sadhan Chandra Majumder and MP in
@@ -604,13 +599,13 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
            original on 24 August 2024. Retrieved 25 August 2024.
 15 of 39 8/20/25, 8:49 PM Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-cooperation_moveme...
 
-       12. Protidiner Bangladesh (4 August 2024). 'কথা �শােনিন' পুিলশ, িনয়�ৎরেণ রাখেত �সনাবািহনীর গু িল | Army |
+       12. Protidiner Bangladesh (4 August 2024). 'কথা শােনিন' পুিলশ, িনয়ৎরেণ রাখেত সনাবািহনীর গু িল | Army |
            Police | PB (https://www.youtube.com/watch?app=desktop&v=nXezufuHD80).
-           Retrieved 15 February 2025 – via YouTube.
+           Retrieved 15 February 2025 - via YouTube.
        13. Preliminary Analysis of Recent Protests and Unrest in Bangladesh (https://www.ohch
            r.org/en/documents/country-reports/preliminary-analysis-recent-protests-and-unres
            t-bangladesh) (Report). Oﬃce of the United Nations High Commissioner for Human
-           Rights. 16 August 2024. pp. 6–7. Archived (https://web.archive.org/web/202409210
+           Rights. 16 August 2024. pp. 6-7. Archived (https://web.archive.org/web/202409210
            22745/https://www.ohchr.org/en/documents/country-reports/preliminary-analysis-re
            cent-protests-and-unrest-bangladesh) from the original on 21 September 2024.
            Retrieved 16 August 2024. "According to available public reports by media and the
@@ -631,11 +626,11 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
            2025.
        16. "Three killed in Rangpur amid non-cooperation violence" (https://bdnews24.com/ba
            ngladesh/76db0fec0823). bdnews24.com. 4 August 2024. Retrieved 8 March 2025.
-       17. "২৭িট থানায় হামলা, ১৪ পুিলশ সদ�য িনহত, ৩০০ জেনর �বিশ আহত" (https://www.prothomalo.com/banglad
+       17. "২৭িট থানায় হামলা, ১৪ পুিলশ সদয িনহত, ৩০০ জেনর বিশ আহত" (https://www.prothomalo.com/banglad
            esh/1ua7ybncib). Prothom Alo (in Bengali). Archived (https://web.archive.org/web/2
            0240804181148/https://www.prothomalo.com/bangladesh/1ua7ybncib) from the
            original on 4 August 2024. Retrieved 4 August 2024.
-       18. "একজন সাংবািদক িনহত, অ�তত ২৩ জন আহত" (https://www.prothomalo.com/bangladesh/eyu6jstk
+       18. "একজন সাংবািদক িনহত, অতত ২৩ জন আহত" (https://www.prothomalo.com/bangladesh/eyu6jstk
            po). Prothom Alo (in Bengali). 4 August 2024. Archived (https://web.archive.org/we
            b/20240804181125/https://www.prothomalo.com/bangladesh/eyu6jstkpo) from the
            original on 4 August 2024. Retrieved 4 August 2024.
@@ -645,7 +640,7 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
            (https://web.archive.org/web/20240804074341/https://www.nytimes.com/2024/0
            8/03/world/asia/bangladesh-protests-students.html) from the original on 4 August
            2024. Retrieved 4 August 2024.
-       20. শহীদ িমনার �থেক এক দফা �ঘাষণা (https://mzamin.com/news.php?news=121182). Manab Zamin
+       20. শহীদ িমনার থেক এক দফা ঘাষণা (https://mzamin.com/news.php?news=121182). Manab Zamin
            (in Bengali). 3 August 2024. Archived (https://web.archive.org/web/2024080312415
            4/https://mzamin.com/news.php?news=121182) from the original on 3 August
            2024. Retrieved 3 August 2024.
@@ -698,7 +693,7 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
            from the original on 12 August 2024. Retrieved 9 August 2024.
 17 of 39 8/20/25, 8:49 PM Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-cooperation_moveme...
 
-       29. "বাংলােদেশ িহ��েদর ওপর হামলা িনেয় ভারেত অপতে�যর �রচার" (https://www.prothomalo.com/bangladesh/
+       29. "বাংলােদেশ িহেদর ওপর হামলা িনেয় ভারেত অপতেযর রচার" (https://www.prothomalo.com/bangladesh/
            n583q95nsq). Prothom Alo (in Bengali). 11 August 2024. Archived (https://web.arch
            ive.org/web/20240811194004/https://www.prothomalo.com/bangladesh/n583q95ns
            q) from the original on 11 August 2024. Retrieved 11 August 2024.
@@ -708,7 +703,7 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
            133). Bhorer Kagoj. 23 September 2024.
        32. "The Victory of 36th July Was a Result of Collective Contribution: Shadik Kayem" (ht
            tps://banglahour.com/article/7711). Bangla Hour. 24 September 2024.
-       33. "অসহেযাগ আে�দালন িনেয় িশ�াথ�ীেদর ১৫িট িনেদ�শনা" (https://www.bbc.com/bengali/live/cgrlrjlj9drt?pos
+       33. "অসহেযাগ আেদালন িনেয় িশাথীেদর ১৫িট িনেদশনা" (https://www.bbc.com/bengali/live/cgrlrjlj9drt?pos
            t=asset%3A42c956f7-9785-43f6-bfe7-41016b7562cd#asset:42c956f7-9785-43f6-b
            fe7-41016b7562cd). BBC Bangla (in Bengali). 3 August 2024. Archived (https://we
            b.archive.org/web/20240803075022/https://www.bbc.com/bengali/live/cgrlrjlj9drt?p
@@ -721,11 +716,11 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
            240805155112/https://www.ﬁnancialexpress.com/world-news/18-killed-dozens-injur
            ed-as-protestors-and-awami-league-supporters-clash-in-bangladesh/3573428/)
            from the original on 5 August 2024. Retrieved 5 August 2024.
-       35. "��লাগােন উ�তাল �ক��রীয় শহীদ িমনার এলাকা" (https://www.prothomalo.com/bangladesh/hz1crrbp5
+       35. "লাগােন উতাল করীয় শহীদ িমনার এলাকা" (https://www.prothomalo.com/bangladesh/hz1crrbp5
            u). Prothom Alo (in Bengali). 3 August 2024. Archived (https://web.archive.org/we
            b/20240803121958/https://www.prothomalo.com/bangladesh/hz1crrbp5u) from the
            original on 3 August 2024. Retrieved 4 August 2024.
-       36. "শহীদ িমনার �থেক এক দফা �ঘাষণা িশ�াথ�ীেদর" (https://www.banglanews24.com/national/news/bd/1
+       36. "শহীদ িমনার থেক এক দফা ঘাষণা িশাথীেদর" (https://www.banglanews24.com/national/news/bd/1
            370638.details). banglanews24.com (in Bengali). 3 August 2024. Archived (https://
            web.archive.org/web/20240803121958/https://www.banglanews24.com/national/ne
            ws/bd/1370638.details) from the original on 3 August 2024. Retrieved 4 August
@@ -735,7 +730,7 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
            rchive.org/web/20240803122001/https://www.thedailystar.net/news/bangladesh/ne
            ws/its-now-one-point-demand-3668751) from the original on 3 August 2024.
            Retrieved 3 August 2024.
-       38. "শহীদ িমনার �থেক এক দফা দািব" (https://bangla.thedailystar.net/news/bangladesh/news-6024
+       38. "শহীদ িমনার থেক এক দফা দািব" (https://bangla.thedailystar.net/news/bangladesh/news-6024
            21). The Daily Star (in Bengali). 3 August 2024. Archived (https://web.archive.org/w
            eb/20240807133545/https://bangla.thedailystar.net/news/bangladesh/news-60242
            1) from the original on 7 August 2024. Retrieved 4 August 2024.
@@ -744,12 +739,12 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
            o). Dhaka Tribune. 3 August 2024.
 18 of 39 8/20/25, 8:49 PM Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-cooperation_moveme...
 
-       40. "সরকােরর সে� আেলাচনায় বসার পিরক�পনা �নই: আে�দালেনর অ�যতম সম�বয়ক নািহদ" (https://bangla.thedailysta
+       40. "সরকােরর সে আেলাচনায় বসার পিরকপনা নই: আেদালেনর অযতম সমবয়ক নািহদ" (https://bangla.thedailysta
            r.net/news/bangladesh/quota-protest/news-602226). The Daily Star (in Bengali). 3
            August 2024. Archived (https://web.archive.org/web/20240803081730/https://bangl
            a.thedailystar.net/news/bangladesh/quota-protest/news-602226) from the original
            on 3 August 2024. Retrieved 3 August 2024.
-       41. "সব�া�মক অসহেযাগ আে�দালন ��" (https://mzamin.com/news.php?news=121278). Manab
+       41. "সবামক অসহেযাগ আেদালন " (https://mzamin.com/news.php?news=121278). Manab
            Zamin. 4 August 2024. Archived (https://web.archive.org/web/20240804043406/htt
            ps://mzamin.com/news.php?news=121278) from the original on 4 August 2024.
            Retrieved 16 August 2024.
@@ -771,11 +766,11 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
            2024.
        45. Hossain, Mansura (13 August 2024). "Naﬁz was still alive on the way to hospital
            after being shot" (https://en.prothomalo.com/bangladesh/deq62xtoct). Prothom Alo.
-       46. "কতপৃ� ে�র িনেদ�েশ �মাবাইল ই�টারেনট ব�ধ: অপােরটরেদর িববৃিত" (https://www.prothomalo.com/banglades
+       46. "কতপৃ ের িনেদেশ মাবাইল ইটারেনট বধ: অপােরটরেদর িববৃিত" (https://www.prothomalo.com/banglades
            h/5h6t8ay1rl). Prothom Alo (in Bengali). Archived (https://web.archive.org/web/202
            40805012026/https://www.prothomalo.com/bangladesh/5h6t8ay1rl) from the
            original on 5 August 2024. Retrieved 4 August 2024.
-       47. �রিতেবদক, িনজ�ব (4 August 2024). "�ফসবুক, �মেস�ার, �হায়াটসঅ্যাপ ও ইন�া�রাম বে�ধর িনেদ�শ" (https://ww
+       47. রিতেবদক, িনজব (4 August 2024). "ফসবুক, মেসার, হায়াটসঅ্যাপ ও ইনারাম বেধর িনেদশ" (https://ww
            w.prothomalo.com/bangladesh/glx4sc1frw). Prothom Alo (in Bengali). Archived (http
            s://web.archive.org/web/20240807142949/https://www.prothomalo.com/banglades
            h/glx4sc1frw) from the original on 7 August 2024. Retrieved 4 August 2024.
@@ -790,7 +785,7 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
            original on 4 August 2024. Retrieved 4 August 2024.
 19 of 39 8/20/25, 8:49 PM Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-cooperation_moveme...
 
-       50. "�কাটা আে�দালন: 'সব�া�মক অসহেযাগ আে�দালেনর' �রথম িদন" (https://www.bbc.com/bengali/live/cz5rryvz6
+       50. "কাটা আেদালন: 'সবামক অসহেযাগ আেদালেনর' রথম িদন" (https://www.bbc.com/bengali/live/cz5rryvz6
            3lt). BBC News বাংলা (in Bengali). 4 August 2024. Archived (https://web.archive.org/w
            eb/20240804101337/https://www.bbc.com/bengali/live/cz5rryvz63lt) from the
            original on 4 August 2024. Retrieved 4 August 2024.
@@ -818,7 +813,7 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
            malo.com/bangladesh/xlv47rs3c3). Prothom Alo. 4 August 2024. Archived (https://w
            eb.archive.org/web/20240804174539/https://en.prothomalo.com/bangladesh/xlv47r
            s3c3) from the original on 4 August 2024. Retrieved 4 August 2024.
-       56. �রিতিনিধ, িবেশষ (4 August 2024). "সামিরক বািহনীেক ছাউিনেত িফিরেয় �নওয়ার আ�বান সােবক �সনা কম�কত�ােদর" (http
+       56. রিতিনিধ, িবেশষ (4 August 2024). "সামিরক বািহনীেক ছাউিনেত িফিরেয় নওয়ার আবান সােবক সনা কমকতােদর" (http
            s://www.prothomalo.com/bangladesh/g77bbharbn). Prothom Alo (in Bengali).
            Archived (https://web.archive.org/web/20240804182748/https://www.prothomalo.co
            m/bangladesh/g77bbharbn) from the original on 4 August 2024. Retrieved 4 August
@@ -1011,7 +1006,7 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
            ue-6267746). NDTV.com. Archived (https://web.archive.org/web/20240805102822/
            https://www.ndtv.com/world-news/bangladeshi-protesters-vandalise-sheikh-mujiburrahmans-statue-6267746) from the original on 5 August 2024. Retrieved 5 August
            2024.
-       96. "িকেশারগে� সােবক রা�্রপিত আব�ল হািমেদর বাসায় ভাঙচুর-লুটপাট" (https://www.prothomalo.com/banglade
+       96. "িকেশারগে সােবক রা্রপিত আবল হািমেদর বাসায় ভাঙচুর-লুটপাট" (https://www.prothomalo.com/banglade
            sh/district/oqwae91250). Prothom Alo. 5 August 2024. Archived (https://web.archiv
            e.org/web/20240806033521/https://www.prothomalo.com/bangladesh/district/oqwa
            e91250) from the original on 6 August 2024. Retrieved 6 August 2024.
@@ -1040,68 +1035,68 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
            0240805172228/https://www.freepressjournal.in/sports/viral-pics-former-banglades
            h-captain-mashrafe-mortazas-house-set-on-ﬁre-by-protesters-amid-nationwide-unre
            st) from the original on 5 August 2024. Retrieved 5 August 2024.
-      100. "�রিতম��রী পলক ও এমিপ িশমুেলর বািড়েত িব�ু�ধ জনতার আ�ন" (https://www.prothomalo.com/banglades
+      100. "রিতমরী পলক ও এমিপ িশমুেলর বািড়েত িবুধ জনতার আন" (https://www.prothomalo.com/banglades
            h/district/v190k47wpq). Prothom Alo. 5 August 2024. Archived (https://web.archiv
            e.org/web/20240805183631/https://www.prothomalo.com/bangladesh/district/v190
            k47wpq) from the original on 5 August 2024. Retrieved 5 August 2024.
-      101. "নওগাঁয় আওয়ামী লীগ কায�ালয়, খা�যম��রী ও এমিপর বাসায় হামলা, অি�নসংেযাগ" (https://www.prothomalo.com/b
+      101. "নওগাঁয় আওয়ামী লীগ কাযালয়, খাযমরী ও এমিপর বাসায় হামলা, অিনসংেযাগ" (https://www.prothomalo.com/b
            angladesh/district/7jzzrawyd8). Prothom Alo. 5 August 2024. Archived (https://we
            b.archive.org/web/20240806013230/https://www.prothomalo.com/bangladesh/distri
            ct/7jzzrawyd8) from the original on 6 August 2024. Retrieved 6 August 2024.
-      102. "শামীম ওসমােনর ভািতজা আজেমরী ওসমােনর বািড়েত হামলা ও ভাঙচুর, অি�নসংেযাগ" (https://www.prothomalo.co
+      102. "শামীম ওসমােনর ভািতজা আজেমরী ওসমােনর বািড়েত হামলা ও ভাঙচুর, অিনসংেযাগ" (https://www.prothomalo.co
            m/bangladesh/district/hmti46bsat). Prothom Alo. 5 August 2024. Archived (https://
            web.archive.org/web/20240806014243/https://www.prothomalo.com/bangladesh/di
            strict/hmti46bsat) from the original on 6 August 2024. Retrieved 6 August 2024.
-      103. "কুিম�লায় এমিপ বাহােরর বািড়েত হামলা" (https://www.prothomalo.com/bangladesh/district/7gej5o
+      103. "কুিমলায় এমিপ বাহােরর বািড়েত হামলা" (https://www.prothomalo.com/bangladesh/district/7gej5o
            y5mn). Prothom Alo. 5 August 2024. Archived (https://web.archive.org/web/202408
            05183625/https://www.prothomalo.com/bangladesh/district/7gej5oy5mn) from the
            original on 5 August 2024. Retrieved 6 August 2024.
-      104. "কসবায় আইনম��রীর বািড়েত হামলা, ভাঙচুর ও আ�ন" (https://www.prothomalo.com/bangladesh/distric
+      104. "কসবায় আইনমরীর বািড়েত হামলা, ভাঙচুর ও আন" (https://www.prothomalo.com/bangladesh/distric
            t/opb1m3j1sm). Prothom Alo (in Bengali). 5 August 2024. Archived (https://web.arc
            hive.org/web/20240806044501/https://www.prothomalo.com/bangladesh/district/op
            b1m3j1sm) from the original on 6 August 2024. Retrieved 6 August 2024.
 25 of 39 8/20/25, 8:49 PM Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-cooperation_moveme...
 
-      105. অিফস, যেশার (5 August 2024). "যেশাের শাহীন চাকলাদােরর �হােটেল ভাঙচুর–আ�ন, ৬ জেনর মৃতু্য" (https://ww
+      105. অিফস, যেশার (5 August 2024). "যেশাের শাহীন চাকলাদােরর হােটেল ভাঙচুর-আন, ৬ জেনর মৃতু্য" (https://ww
            w.prothomalo.com/bangladesh/district/zlhxe06oh5). Prothomalo (in Bengali).
            Archived (https://web.archive.org/web/20240806040929/https://www.prothomalo.co
            m/bangladesh/district/zlhxe06oh5) from the original on 6 August 2024. Retrieved
            6 August 2024.
-      106. "�ভরেব ম��রী পাপেনর বাসভবেন, আওয়ামী লীেগর কায�ালেয় ভাঙচুর" (https://www.prothomalo.com/banglades
+      106. "ভরেব মরী পাপেনর বাসভবেন, আওয়ামী লীেগর কাযালেয় ভাঙচুর" (https://www.prothomalo.com/banglades
            h/district/353e666rke). Prothom Alo. 5 August 2024. Archived (https://web.archiv
            e.org/web/20240806041354/https://www.prothomalo.com/bangladesh/district/353e
            666rke) from the original on 6 August 2024. Retrieved 6 August 2024.
-      107. "িঝনাইদেহ জনতার হামলা-আ�েন ইউিপ �চয়ার�যানসহ িনহত ৪" (https://www.prothomalo.com/bangladesh/
+      107. "িঝনাইদেহ জনতার হামলা-আেন ইউিপ চয়ারযানসহ িনহত ৪" (https://www.prothomalo.com/bangladesh/
            district/ns94nnm8q7). Prothom Alo. 5 August 2024. Archived (https://web.archive.o
            rg/web/20240806010259/https://www.prothomalo.com/bangladesh/district/ns94nn
            m8q7) from the original on 6 August 2024. Retrieved 6 August 2024.
-      108. "চুয়াডা�ায় যুবলীগ �নতার বািড়েত আ�ন, চারিট লাশ উ�ধার" (https://www.prothomalo.com/bangladesh/dis
+      108. "চুয়াডাায় যুবলীগ নতার বািড়েত আন, চারিট লাশ উধার" (https://www.prothomalo.com/bangladesh/dis
            trict/iq69e6yokc). Prothom Alo. 5 August 2024. Archived (https://web.archive.org/w
            eb/20240806035748/https://www.prothomalo.com/bangladesh/district/iq69e6yokc)
            from the original on 6 August 2024. Retrieved 6 August 2024.
-      109. "চলি��র �রেযাজক �সিলম খান ও অিভেনতা �ছেলেক িপিটেয় হ�যা" (https://bangla.bdnews24.com/samagra
+      109. "চলির রেযাজক সিলম খান ও অিভেনতা ছেলেক িপিটেয় হযা" (https://bangla.bdnews24.com/samagra
            bangladesh/14a194f25f58). bdnews24. Archived (https://web.archive.org/web/2024
            0806085730/https://bangla.bdnews24.com/samagrabangladesh/14a194f25f58)
            from the original on 6 August 2024. Retrieved 6 August 2024.
-      110. "বিরশােল সােবক �ময়র সািদেকর বািড়েত আ�ন, ৩ �পাড়া লাশ উ�ধার" (https://www.prothomalo.com/banglad
+      110. "বিরশােল সােবক ময়র সািদেকর বািড়েত আন, ৩ পাড়া লাশ উধার" (https://www.prothomalo.com/banglad
            esh/district/ppl4o9ayh3). Prothom Alo. 5 August 2024. Archived (https://web.archiv
            e.org/web/20240806014242/https://www.prothomalo.com/bangladesh/district/ppl4o
            9ayh3) from the original on 6 August 2024. Retrieved 6 August 2024.
-      111. "মাদারীপুের শাজাহান খান ও বাহাউি�ন নািছেমর বাসভবেন হামলা–লুটপাট" (https://www.prothomalo.com/bangla
+      111. "মাদারীপুের শাজাহান খান ও বাহাউিন নািছেমর বাসভবেন হামলা-লুটপাট" (https://www.prothomalo.com/bangla
            desh/district/2b91qrt8w5). Prothom Alo. 5 August 2024. Archived (https://web.archi
            ve.org/web/20240806030129/https://www.prothomalo.com/bangladesh/district/2b9
            1qrt8w5) from the original on 6 August 2024. Retrieved 6 August 2024.
-      112. "�লশােন �শখ �রহানার বাসায় আ�ন, মালামাল লুট" (https://dailyinqilab.com/national/news/675718).
+      112. "লশােন শখ রহানার বাসায় আন, মালামাল লুট" (https://dailyinqilab.com/national/news/675718).
            Daily Inqilab. Retrieved 7 August 2024.
-      113. "সাঁিথয়ায় আওয়ামী লীগ কায�ালয়, �বড়ায় �ডপুিট ি�কােরর বাসায় অি�নসংেযাগ" (https://www.prothomalo.com/ban
+      113. "সাঁিথয়ায় আওয়ামী লীগ কাযালয়, বড়ায় ডপুিট িকােরর বাসায় অিনসংেযাগ" (https://www.prothomalo.com/ban
            gladesh/district/mk3re1rlo8). Prothom Alo. Archived (https://web.archive.org/web/2
            0240806044343/https://www.prothomalo.com/bangladesh/district/mk3re1rlo8) from
            the original on 6 August 2024. Retrieved 7 August 2024.
-      114. "মা�রায় সােবক �ই এমিপর বািড় ও অেনক �রিত�ােন হামলা" (https://www.prothomalo.com/bangladesh/di
+      114. "মারায় সােবক ই এমিপর বািড় ও অেনক রিতােন হামলা" (https://www.prothomalo.com/bangladesh/di
            strict/nkm5ti3fz9). Prothom Alo. Archived (https://web.archive.org/web/2024080603
            1306/https://www.prothomalo.com/bangladesh/district/nkm5ti3fz9) from the
            original on 6 August 2024. Retrieved 7 August 2024.
-      115. "ঝালকািঠেত আমুর বািড়েত অি�নসংেযাগ" (https://www.bd-pratidin.com/country/2024/08/05/10156
+      115. "ঝালকািঠেত আমুর বািড়েত অিনসংেযাগ" (https://www.bd-pratidin.com/country/2024/08/05/10156
            68). BD Pratidin. Archived (https://web.archive.org/web/20240806014005/https://w
            ww.bd-pratidin.com/country/2024/08/05/1015668) from the original on 6 August
            2024. Retrieved 7 August 2024.
@@ -1157,16 +1152,16 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
            y-members). Dhaka Tribune. 7 August 2024. Retrieved 7 August 2024.
 27 of 39 8/20/25, 8:49 PM Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-cooperation_moveme...
 
-      127. "�রীপুের িবিজিবর সদ�য বহনকারী �ই গািড়েত আ�ন, হাসপাতােল ৫ লাশ" (https://www.prothomalo.com/bangl
+      127. "রীপুের িবিজিবর সদয বহনকারী ই গািড়েত আন, হাসপাতােল ৫ লাশ" (https://www.prothomalo.com/bangl
            adesh/district/6v7d8qi09x). Prothom Alo. 5 August 2024. Archived (https://web.arch
            ive.org/web/20240805184307/https://www.prothomalo.com/amp/story/bangladesh/
            district/6v7d8qi09x) from the original on 5 August 2024. Retrieved 5 August 2024.
-      128. �রিতেবদক, িনজ�ব (5 August 2024). "সাত�ীরা �জলা কারাগাের হামলা, তালা �ভেঙ সব ব�দীেক িনেয় �গেলন িব�ু�ধ জনতা"
+      128. রিতেবদক, িনজব (5 August 2024). "সাতীরা জলা কারাগাের হামলা, তালা ভেঙ সব বদীেক িনেয় গেলন িবুধ জনতা"
            (https://www.prothomalo.com/bangladesh/district/yen95tdc2a). Prothomalo (in
            Bengali). Archived (https://web.archive.org/web/20240806032243/https://www.prot
            homalo.com/bangladesh/district/yen95tdc2a) from the original on 6 August 2024.
            Retrieved 6 August 2024.
-      129. �রিতিনিধ (5 August 2024). "�শরপুর কারাগাের ছা�র-জনতার ভাঙচুর-আ�ন, সব ব�দী পািলেয়েছন" (https://www.pro
+      129. রিতিনিধ (5 August 2024). "শরপুর কারাগাের ছার-জনতার ভাঙচুর-আন, সব বদী পািলেয়েছন" (https://www.pro
            thomalo.com/bangladesh/district/tdc22d3ra2). Prothomalo (in Bengali). Archived (h
            ttps://web.archive.org/web/20240806024515/https://www.prothomalo.com/banglad
            esh/district/tdc22d3ra2) from the original on 6 August 2024. Retrieved 6 August
@@ -1177,34 +1172,34 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
       131. "Satkhira ex-chairman shoots 3 dead, mob lynches him, associates" (https://www.d
            hakatribune.com/bangladesh/353885/satkhira-ex-chairman-shoots-3-dead-mob-lyn
            ches). Dhaka Tribune. 6 August 2024. Retrieved 6 August 2024.
-      132. "গাজীপুের আনসার একােডিমেত হামলা, �িলেত িনহত �ই" (https://www.prothomalo.com/bangladesh/dist
+      132. "গাজীপুের আনসার একােডিমেত হামলা, িলেত িনহত ই" (https://www.prothomalo.com/bangladesh/dist
            rict/u2e46tm69i). Prothom Alo. 5 August 2024. Archived (https://web.archive.org/w
            eb/20240806030131/https://www.prothomalo.com/bangladesh/district/u2e46tm69i)
            from the original on 6 August 2024. Retrieved 6 August 2024.
-      133. "ব�ড়ায় থানায় হামলা, আওয়ামী লীগ কায�ালেয় আ�ন" (https://www.prothomalo.com/bangladesh/distric
+      133. "বড়ায় থানায় হামলা, আওয়ামী লীগ কাযালেয় আন" (https://www.prothomalo.com/bangladesh/distric
            t/eo7cofje0c). Prothom Alo (in Bengali). 5 August 2024. Archived (https://web.archiv
            e.org/web/20240806014244/https://www.prothomalo.com/bangladesh/district/eo7c
            ofje0c) from the original on 6 August 2024. Retrieved 6 August 2024.
-      134. "হিবগে�র বািনয়াচংেয় পুিলেশর �িলেত িনহত ৬, থানা �ঘরাও কের আ�ন" (https://www.prothomalo.com/bangla
+      134. "হিবগের বািনয়াচংেয় পুিলেশর িলেত িনহত ৬, থানা ঘরাও কের আন" (https://www.prothomalo.com/bangla
            desh/district/yj9fcjahn0). Prothom Alo (in Bengali). 5 August 2024. Archived (http
            s://web.archive.org/web/20240806014042/https://www.prothomalo.com/banglades
            h/district/yj9fcjahn0) from the original on 6 August 2024. Retrieved 6 August 2024.
-      135. "আে�দালেনর �শষ মুহেূ ত� কুি�য়ায় পুিলেশর �িলেত িশ�সহ ছয়জন িনহত, শতািধক �িলিব�ধ" (https://www.prothomalo.c
+      135. "আেদালেনর শষ মুহেূ ত কুিয়ায় পুিলেশর িলেত িশসহ ছয়জন িনহত, শতািধক িলিবধ" (https://www.prothomalo.c
            om/bangladesh/district/mcsptbxz51). Prothom Alo (in Bengali). 5 August 2024.
            Archived (https://web.archive.org/web/20240806045854/https://www.prothomalo.co
            m/bangladesh/district/mcsptbxz51) from the original on 6 August 2024. Retrieved
            6 August 2024.
-      136. "চ��রােম সাত থানায় আ�ন, ভাঙচুর" (https://www.prothomalo.com/bangladesh/district/jmml0zv
+      136. "চরােম সাত থানায় আন, ভাঙচুর" (https://www.prothomalo.com/bangladesh/district/jmml0zv
            e8t). Prothom Alo. 5 August 2024. Archived (https://web.archive.org/web/20240806
            014444/https://www.prothomalo.com/bangladesh/district/jmml0zve8t) from the
            original on 6 August 2024. Retrieved 6 August 2024.
-      137. "মািনকগে� �িলেত কেলজছা�র িনহত, থানা ভাঙচুর" (https://www.prothomalo.com/bangladesh/district/
+      137. "মািনকগে িলেত কেলজছার িনহত, থানা ভাঙচুর" (https://www.prothomalo.com/bangladesh/district/
            ojv2ksnq3e). Prothom Alo (in Bengali). 5 August 2024. Archived (https://web.archiv
            e.org/web/20240806034158/https://www.prothomalo.com/bangladesh/district/ojv2k
            snq3e) from the original on 6 August 2024. Retrieved 6 August 2024.
 28 of 39 8/20/25, 8:49 PM Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-cooperation_moveme...
 
-      138. "�রীম�েল িবজয় িমিছেল পুিলেশর �িলেত আহত শতািধক" (https://mzamin.com/news.php?news=12152
+      138. "রীমেল িবজয় িমিছেল পুিলেশর িলেত আহত শতািধক" (https://mzamin.com/news.php?news=12152
            1). M Zamin. 5 August 2024. Archived (https://web.archive.org/web/202408060245
            16/https://mzamin.com/news.php?news=121521) from the original on 6 August
            2024. Retrieved 6 August 2024.
@@ -1217,14 +1212,14 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
       141. "3 including Koyra Awami League president beaten to death" (https://www.dhakatri
            bune.com/bangladesh/353764/3-including-koyra-awami-league-president-beaten-t
            o). Dhaka Tribune. 6 August 2024. Retrieved 6 August 2024.
-      142. "গাজীপুের িবিজিবর গািড় অবেরাধ-�িল, এক িবিজিব সদ�যসহ িনহত ৬" (https://www.kalerkantho.com/online/c
+      142. "গাজীপুের িবিজিবর গািড় অবেরাধ-িল, এক িবিজিব সদযসহ িনহত ৬" (https://www.kalerkantho.com/online/c
            ountry-news/2024/08/05/1412013). Karel kanth. 5 August 2024. Archived (https://w
            eb.archive.org/web/20240806073325/https://www.kalerkantho.com/online/countrynews/2024/08/05/1412013) from the original on 6 August 2024. Retrieved 6 August
            2024.
       143. "209 prisoners escape from Kashimpur jail, 6 killed" (https://www.dhakatribune.co
            m/bangladesh/354004/209-prisoners-escape-from-kashimpur-jail-6-killed). Dhaka
            Tribune. 7 August 2024. Retrieved 7 August 2024.
-      144. আে�দালনকারীেদর িমিছেল আ.লীেগর ধাওয়া-সংঘষ� (https://samakal.com/dhaka/article/249226/%E0%A
+      144. আেদালনকারীেদর িমিছেল আ.লীেগর ধাওয়া-সংঘষ (https://samakal.com/dhaka/article/249226/%E0%A
            6%86%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8B%E0%A6%B2%E0%A
            6%A8%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%E0%A6%A6%E0%A
            7%87%E0%A6%B0-%E0%A6%AE%E0%A6%BF%E0%A6%9B%E0%A6%BF%E0%A
@@ -1259,7 +1254,7 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
            4/https://www.telegraph.co.uk/world-news/2024/08/10/bangladesh-hindus-face-atta
            cks-after-fall-of-prime-minister/) from the original on 10 August 2024. Retrieved
            10 August 2024.
-      150. রা�তায় ৭ ঘ�টা পেড়িছল কাউি�সলর হারাধেনর লাশ (https://www.ittefaq.com.bd/695456/%E0%A6%B
+      150. রাতায় ৭ ঘটা পেড়িছল কাউিসলর হারাধেনর লাশ (https://www.ittefaq.com.bd/695456/%E0%A6%B
            0%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A7%9F-
            %E0%A7%AD-%E0%A6%98%E0%A6%A3%E0%A7%8D%E0%A6%9F%E0%A6%BE-
            %E0%A6%AA%E0%A7%9C%E0%A7%87%E0%A6%9B%E0%A6%BF%E0%A6%B2-
@@ -1297,10 +1292,10 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
            Voice of America. Archived (https://web.archive.org/web/20240812121442/https://w
            ww.voanews.com/a/india-blocks-bangladeshis-ﬂeeing-chaotic-regime-change-/7738
            952.html) from the original on 12 August 2024. Retrieved 7 August 2024.
-      158. "৩ শতািধক মানুষেক সীমাে�ত জেড়া করেলন আওয়ামী লীগ �নতা | কালেবলা" (https://www.kalbela.com/countrynews/110238). Daily Kalbela (in Bengali). Archived (https://web.archive.org/web/20
+      158. "৩ শতািধক মানুষেক সীমােত জেড়া করেলন আওয়ামী লীগ নতা | কালেবলা" (https://www.kalbela.com/countrynews/110238). Daily Kalbela (in Bengali). Archived (https://web.archive.org/web/20
            240811192548/https://www.kalbela.com/country-news/110238) from the original on
            11 August 2024. Retrieved 11 August 2024.
-      159. "�ফসবুেক �জব, ভারতীয় কাঁটাতােরর কােছ হাজার হাজার িহ�� স�্রদােয়র মানুষ" (https://www.jugantor.com/count
+      159. "ফসবুেক জব, ভারতীয় কাঁটাতােরর কােছ হাজার হাজার িহ স্রদােয়র মানুষ" (https://www.jugantor.com/count
            ry-news/835971/%E0%A6%AB%E0%A7%87%E0%A6%B8%E0%A6%AC%E0%A7%8
            1%E0%A6%95%E0%A7%87-%E0%A6%97%E0%A7%81%E0%A6%9C%E0%A6%AC-
            %E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A6%A4%E0%A7%80%E0%A7%9F-
@@ -1328,7 +1323,7 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
 
 31 of 39 8/20/25, 8:49 PM Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-cooperation_moveme...
 
-      160. "�জব ছিড়েয় সীমাে�ত 'অেচনা' �লাকজন জমােয়ত" (https://www.deshrupantor.com/527693/%E0%A
+      160. "জব ছিড়েয় সীমােত 'অেচনা' লাকজন জমােয়ত" (https://www.deshrupantor.com/527693/%E0%A
            6%97%E0%A7%81%E0%A6%9C%E0%A6%AC-%E0%A6%9B%E0%A7%9C%E0%A
            6%BF%E0%A7%9F%E0%A7%87-%E0%A6%B8%E0%A7%80%E0%A6%AE%E0%A
            6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%87-%E2%80%98%E0%A
@@ -1360,7 +1355,7 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
            b.archive.org/web/20240811203237/https://www.aljazeera.com/news/2024/8/11/ne
            w-bangladesh-government-says-working-to-resolve-attacks-on-minorities) from the
            original on 11 August 2024. Retrieved 11 August 2024.
-      164. " "Drive out the Christians from Bangladesh" – the hidden impact of the country's
+      164. " "Drive out the Christians from Bangladesh" - the hidden impact of the country's
            ongoing crisis" (https://www.opendoorsuk.org/news/latest-news/bangladesh-unrestchristians/). Open Doors UK & Ireland. Retrieved 21 February 2025.
       165. "Ahmadiyas face attacks in Bangladesh" (https://www.newagebd.net/post/country/2
            41831/ahmadiyas-face-attacks-in-bangladesh). New Age. 6 August 2024. Archived
@@ -1375,17 +1370,17 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
            19 September 2024.
 32 of 39 8/20/25, 8:49 PM Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-cooperation_moveme...
 
-      167. "�দেশর িবিভ�ন জায়গায় মাজার ভা�ার ঘটনা�েলা �কন ঘটেছ? কারা ঘটাে�?" (https://www.bbc.com/bengali/arti
+      167. "দেশর িবিভন জায়গায় মাজার ভাার ঘটনােলা কন ঘটেছ? কারা ঘটাে?" (https://www.bbc.com/bengali/arti
            cles/ckg2xygly1no). BBC NEWS BANGLA (in Bengali). 7 September 2024. Archived
            (https://web.archive.org/web/20240914090233/https://www.bbc.com/bengali/article
            s/ckg2xygly1no) from the original on 14 September 2024. Retrieved 14 September
            2024.
-      168. "মাজার খুঁেড় �দহাবেশষ িনল হামলাকারীরা" (https://www.kalerkantho.com/online/country-news/202
+      168. "মাজার খুঁেড় দহাবেশষ িনল হামলাকারীরা" (https://www.kalerkantho.com/online/country-news/202
            4/09/10/1424074). Kalerkantho BANGLA (in Bengali). 10 September 2024. Archived
            (https://web.archive.org/web/20240914090634/https://www.kalerkantho.com/onlin
            e/country-news/2024/09/10/1424074) from the original on 14 September 2024.
            Retrieved 14 September 2024.
-      169. Hossain, Anwar (26 August 2024). " 'হামরা িক এ �যােশর নাগিরক না? িবচার পাব না?' " (https://www.p
+      169. Hossain, Anwar (26 August 2024). " 'হামরা িক এ যােশর নাগিরক না? িবচার পাব না?' " (https://www.p
            rothomalo.com/bangladesh/district/golnohvsv7?utm_source=facebook&utm_mediu
            m=social&utm_campaign&utm_content=ap_yq93jhhgll). Prothom Alo (in Bengali).
            Archived (https://web.archive.org/web/20240902235146/https://www.prothomalo.co
@@ -1599,7 +1594,7 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
            n-us-role). 12 August 2024. Retrieved 11 August 2024.
 37 of 39 8/20/25, 8:49 PM Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-cooperation_moveme...
 
-      217. "�মতাচু্যিত িনেয় �শখ হািসনার �লখা দািবেত ভুয়া �খালা িচিঠ ভাইরাল" (https://rumorscanner.com/fact-check/f
+      217. "মতাচু্যিত িনেয় শখ হািসনার লখা দািবেত ভুয়া খালা িচিঠ ভাইরাল" (https://rumorscanner.com/fact-check/f
            ake-open-letter-on-the-demand-written-by-sheikh-hasina-is-viral/120089). Rumour
            Scanner Bangladesh (in Bengali). 12 August 2024. Archived (https://web.archive.or
            g/web/20240812093406/https://rumorscanner.com/fact-check/fake-open-letter-on-t

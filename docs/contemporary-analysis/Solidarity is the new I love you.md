@@ -1,3 +1,8 @@
+---
+title: "## **Solidarity is the new I love you**"
+category: "contemporary-analysis"
+---
+
 ## **Solidarity is the new I love you**
 
 ## **Date:** Sun, 12/13/2015 - 15:01
@@ -40,15 +45,23 @@ So, how do we make it stop? Activists in Oakland are doing a great job pressurin
 
 ## largest inland port in the U. S
 
-| ., due mostly to coal being shipped in via train and out via barges, the environmental and<br>health impacts are no good. If you wanna look at why |
+| ., due mostly to coal being shipped in via train and out via barges, the environmental and
+health impacts are no good. If you wanna look at why |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | air quality in the Huntington, West Virginia area |
-| has been so bad until more recently (downturn in coal being shipped to power plants), and<br>why the |
+| has been so bad until more recently (downturn in coal being shipped to power plants), and
+why the |
 | Ohio River is the single most polluted river in America |
-| , look no further than coal! A key component in the steelmaking process via coking, as well as<br>burned in coal fired power plants up and down the river for generations, coal has quite literally<br>ravaged this ecosystem and its people. Want some health impact data? Check out these |
+| , look no further than coal! A key component in the steelmaking process via coking, as well as
+burned in coal fired power plants up and down the river for generations, coal has quite literally
+ravaged this ecosystem and its people. Want some health impact data? Check out these |
 | disgusting numbers |
 | |
-| So, there are many reason that this coal export terminal is a bad idea for West Oakland.<br>Beyond health and environmental impacts, there is also just the straight up economic<br>argument against it. Frankly, this is a terrible economy plan for the Port of Oakland and the<br>city This would be the largest coal export facility on the West Coast, which not much coal is<br>shipped out of in general. And it would be built now, in 2015, when |
+| So, there are many reason that this coal export terminal is a bad idea for West Oakland.
+Beyond health and environmental impacts, there is also just the straight up economic
+argument against it. Frankly, this is a terrible economy plan for the Port of Oakland and the
+city This would be the largest coal export facility on the West Coast, which not much coal is
+shipped out of in general. And it would be built now, in 2015, when |
 | coal is a rapidly dying commodity |
 | and built in one of the most |
 | environmentally progressive states in the U. S. |
@@ -59,12 +72,15 @@ So, how do we make it stop? Activists in Oakland are doing a great job pressurin
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | . After |
 | the failure of the Paris climate talks |
-| to adequately address combating climate change, we will have to ramp up our efforts to fight<br>these battles locally, as is the case with this coal export terminal project. |
-| But, we will need everyone fighting together, from Louisville to Oakland and beyond. In the<br>beautiful words of Shonda Roberts, |
+| to adequately address combating climate change, we will have to ramp up our efforts to fight
+these battles locally, as is the case with this coal export terminal project. |
+| But, we will need everyone fighting together, from Louisville to Oakland and beyond. In the
+beautiful words of Shonda Roberts, |
 | #blacklivesmatter |
 | organizer and fired worker/organizer as part of the |
 | Fight for \$15 campaign |
 | , "Solidarity is the new I love you." |
 | Disclaimer: |
-| The views expressed here are not the official position of the IWW (or even the IWW's EUC)<br>and do not necessarily represent the views of anyone but the author's. |
+| The views expressed here are not the official position of the IWW (or even the IWW's EUC)
+and do not necessarily represent the views of anyone but the author's. |
 ## | |

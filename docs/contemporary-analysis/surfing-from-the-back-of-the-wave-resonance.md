@@ -1,3 +1,8 @@
+---
+title: "**[What Games Are](https://web.archive.org/web/20250915112307/https://www.whatgamesare.com/)**"
+category: "contemporary-analysis"
+---
+
 The Wayback Machine - https://web.archive.org/web/20250915112307/https://www.whatgamesare.com/2011/01/surfing-from-the-back-of-the-wa…
 
 # **[What Games Are](https://web.archive.org/web/20250915112307/https://www.whatgamesare.com/)**

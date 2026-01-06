@@ -1,3 +1,8 @@
+---
+title: "## [en.wikipedia.org](https://en.wikipedia.org/wiki/Pronoia_(psychology))"
+category: "contemporary-analysis"
+---
+
 ## [en.wikipedia.org](https://en.wikipedia.org/wiki/Pronoia_(psychology))
 
 ## **Pronoia (psychology)**

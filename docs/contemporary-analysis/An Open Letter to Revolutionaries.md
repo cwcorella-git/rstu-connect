@@ -1,3 +1,8 @@
+---
+title: "**An Open Letter to Revolutionaries**"
+category: "contemporary-analysis"
+---
+
 # **An Open Letter to Revolutionaries**
 
 ## **Date:** Unknown

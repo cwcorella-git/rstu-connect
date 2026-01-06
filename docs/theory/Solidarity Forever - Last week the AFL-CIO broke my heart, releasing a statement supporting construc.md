@@ -1,3 +1,8 @@
+---
+title: "## **Solidarity Forever? - Last week the AFL-CIO broke my heart, releasing a statement supporting co"
+category: "theory"
+---
+
 ## **Solidarity Forever? - Last week the AFL-CIO broke my heart, releasing a statement supporting construction of the Dakota Access Pipeline**
 
 ## **Date:** Sun, 09/25/2016 - 16:35
@@ -108,7 +113,8 @@ When the union of all unions loses sight of it's mission and let's one affiliate
 
 "We resolve to fulfill the yearning of the human spirit for liberty, justice and community; to advance individual and associational freedom; to vanquish oppression, privation and cruelty in all their forms; and to join with all persons, of whatever nationality or faith, who cherish the cause of democracy and the call of solidarity, to grace the planet with these achievements."
 
-| You must change your statement of support for this pipeline — or change your Mission<br>Statement & Union Constitution. Choose one. |
+| You must change your statement of support for this pipeline — or change your Mission
+Statement & Union Constitution. Choose one. |
 |-------------------------------------------------------------------------------------------------------------------------------------|
 | Thank goodness though, there are still other AFL-CIO affiliated unions like Mommy Rose's |
 | IWW |

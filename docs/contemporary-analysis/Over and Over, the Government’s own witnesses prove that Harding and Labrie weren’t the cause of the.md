@@ -1,3 +1,8 @@
+---
+title: "## **Over and Over, the Government's own witnesses prove that Harding and Labrie weren't the cause o"
+category: "contemporary-analysis"
+---
+
 ## **Over and Over, the Government's own witnesses prove that Harding and Labrie weren't the cause of the Lac-Mégantic Wreck**
 
 ## **Date:** Thu, 11/02/2017 - 14:58

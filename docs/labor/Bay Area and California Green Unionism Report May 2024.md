@@ -1,15 +1,10 @@
 ---
-title: Bay Area And California Green Unionism Report
-author: May 2024
-slug: Bay Area and California Green Unionism Report May 2024
-reconversion_status: ready_for_reconversion
-date: 2024
-tags:
-  - labor
-  - strikes
-  - unions
-  - organizing
+title: "Bay Area And California Green Unionism Report"
+author: "May 2024"
+date: "2024"
+category: "labor"
 ---
+
 ## **Bay Area and California Green Unionism Report: May 2024**
 
 ## **Date:** Mon, 05/20/2024 - 00:00
@@ -64,22 +59,28 @@ https://www.labor4sustainability.org/
 
 ## ![](_page_2_Figure_0.jpeg)
 
-| https://insideclimatenews.org/news/06052024/san-francisco-bay-kayaktivists-confront-chevro<br>n/ |
+| https://insideclimatenews.org/news/06052024/san-francisco-bay-kayaktivists-confront-chevro
+n/ |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | East Palestine Ohio: |
-| A new coalition of union members and environmental activists has formed in East Palestine,<br>Ohio, in the wake of the Northfolk Southern derailment last year; this coalition is being<br>assisted by members of Railroad Workers United and Bay Area labor activists; |
+| A new coalition of union members and environmental activists has formed in East Palestine,
+Ohio, in the wake of the Northfolk Southern derailment last year; this coalition is being
+assisted by members of Railroad Workers United and Bay Area labor activists; |
 | The coalition's website is here: |
 | https://www.eastpalestinejustice.com/|
 | For more details and news, see the articles compiled here: |
 | East Palestine |
-| Of Note - staff employees at the Audubon Society have organized a union and are in a<br>running dispute with management: |
+| Of Note - staff employees at the Audubon Society have organized a union and are in a
+running dispute with management: |
 | They're now calling themselves the "Bird Union" and their website is |
 | https://www.birdunion.org/|
 | Background: Bird Union Workers Tell Audubon Union Busting Won't Fly - |
-| https://inthesetimes.com/article/bird-union-workers-audubon-union-busting-contract-negotiatio<br>ns |
+| https://inthesetimes.com/article/bird-union-workers-audubon-union-busting-contract-negotiatio
+ns |
 ## | Web links |
 
-| - stay abreast of these developments by routinely checking the following sites (in addition to<br>those previously mentioned): |
+| - stay abreast of these developments by routinely checking the following sites (in addition to
+those previously mentioned): |
 |--------------------------------------------------------------------------------------------------------------------------------|
 | California Labor for Climate Jobs - |
 | https://calaborforclimatejobs.org/|

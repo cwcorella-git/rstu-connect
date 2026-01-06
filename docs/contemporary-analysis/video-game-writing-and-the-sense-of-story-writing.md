@@ -1,3 +1,8 @@
+---
+title: "**[What Games Are](https://web.archive.org/web/20250915021344/https://www.whatgamesare.com/)**"
+category: "contemporary-analysis"
+---
+
 The Wayback Machine - https://web.archive.org/web/20250915021344/https://www.whatgamesare.com/2011/02/video-game-writing-and-the-sen…
 
 # **[What Games Are](https://web.archive.org/web/20250915021344/https://www.whatgamesare.com/)**

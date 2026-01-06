@@ -1,3 +1,8 @@
+---
+title: "*Town of Castle Rock v. Gonzales*"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_2.jpeg)
 
 # *Town of Castle Rock v. Gonzales*

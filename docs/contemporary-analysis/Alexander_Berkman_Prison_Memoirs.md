@@ -1,3 +1,8 @@
+---
+title: "Prison Memoirs of an Anarchist"
+category: "contemporary-analysis"
+---
+
 ## Alexander Berkman
 
 # Prison Memoirs of an Anarchist
@@ -143,27 +148,27 @@
 | Ι. | | 339 |
 | II | | 340 |
 | III | | 341 |
-| <b>40</b> . | Done to Death | 345 |
+| 40 . | Done to Death | 345 |
 | Ι. | | 345 |
 | II | | 346 |
 | 41. | THe Shock at Buffalo | 351 |
 | Ι. | | 351 |
 | II | | 352 |
 | III | | 354 |
-| <b>42</b> . | Marred Lives | 361 |
+| 42 . | Marred Lives | 361 |
 | Ι. | | 361 |
 | II | | 361 |
 | III | | 363 |
 | IV | | 365 |
 | 43. | "Passing the Love of a Woman" | 371 |
 | | Love's Daring | 379 |
-| <b>4</b> 5. | The Bloom of "The Barren Staff" | 385 |
+| 4 5. | The Bloom of "The Barren Staff" | 385 |
 | Ι. | | 385 |
 | II | | 387 |
 | 46. | A Child's Heart-Hunger | 391 |
 | | | 391 |
 | II | | 392 |
-| <b>4</b> 7. | Chum | 395 |
+| 4 7. | Chum | 395 |
 ## | | | 395 |
 
 | II | 396 |
@@ -3957,17 +3962,17 @@ I feel more lonesome at the boy's departure. The silence grows more oppressive, 
 
 Seven days I remain in the dungeon. At the expiration of the week, feeling stiff and feeble, I totter behind the guards, on the way to the bathroom. My body looks strangely emaciated, reduced almost to a skeleton. The pangs of hunger revive sharply with the shock of the cold shower, and the craving for tobacco is overpowering at the sight of the chewing officers. I look forward to being placed in a cell, quietly exulting at my victory as I am led to the North Wing. But, in the cell-house, the Deputy assigns me to the lower end of Range A, insane department. Exasperated by the terrible suggestion, my nerves on with the dungeon experience, I storm in furious protest, demanding to be returned to "the hole." The Deputy, startled violence, attempts to soothe me, and finally yields. I am placed in Number 35, the "crank row" beginning several cells further.
 
-<sup>&</sup>quot;Cross your hand over your heart. Got it, Sasha?"
+&quot;Cross your hand over your heart. Got it, Sasha?"
 
-## <sup>&</sup>quot;Yes."
+## &quot;Yes."
 
-## <sup>&</sup>quot;You are laughing at me."
+## &quot;You are laughing at me."
 
-<sup>&</sup>quot;No, dear; I feel just as you do."
+&quot;No, dear; I feel just as you do."
 
-## <sup>&</sup>quot;Really?"
+## &quot;Really?"
 
-## <sup>&</sup>quot;Yes."
+## &quot;Yes."
 
 Upon the heels of the departing officers, the rangeman is at my door, bursting with the latest news. The investigation is over, the Warden whitewashed! For an instant I am aghast, failing to grasp the astounding situation. Slowly its full significance dawns on me, as Bill excitedly relates the story. It's the talk of the prison. The Board of Charities had chosen its Secretary, J. Francis Torrance, an intimate friend of the Warden, to conduct the investigation. As a precautionary measure, I was kept several additional days in the dungeon. Mr. Torrance has privately interviewed "Dutch" Adams, Young Smithy, and Bob Runyon, promising them their full commutation time, notwithstanding their bad records, and irrespective of their future behavior. They were instructed by the Secretary to corroborate the management, placing all blame upon me! No other witnesses were heard. The "investigation" was over within an hour, the committee of one retiring for dinner to the adjoining residence of the Warden.
 
@@ -4027,11 +4032,11 @@ Philadelphia, severely censures the administration of the Eastern Penitentiary, 
 
 The breath of spring is in the cell-house. My two comrades are jubilant. The sweet odor of May wafts resurrection! But the threshold of life is guarded by the throes of new birth. A tone of nervous excitement permeates their correspondence. Anxiety tortures the sleepless nights; approaching return to the living is tinged with the disquietude of the unknown, the dread of the renewed struggle for existence. But the joy of coming emancipation, the wine of sunshine and liberty tingles in every fiber, and hope flutters its disguised wings.
 
-Our plans are complete. Carl is to visit the Girl, explain my project, and serve as the medium of communication by means of our prearranged system, investing apparently innocent official letters with sub rosa meaning. The initial step will require time. Meanwhile "K" and "G" are to make the necessary arrangements for the publication of our book. The security of our manuscripts is a source of deep satisfaction and much merriment at the expense of the administration. The repeated searches have failed to unearth them. With characteristic daring, the faithful Bob had secreted them in a hole in the floor of his shop, almost under the very seat of the guard. One by one they have been smuggled outside by a friendly officer, whom lave christened "Schrauhe."<sup>1</sup> By degrees Nold has gained the confidence of the former mill-worker, with the result that sixty precious booklets now repose safely with a comrade in Allegheny. I am to supply the final chapters of the book through Mr. Schraube, whose friendship Carl is about to bequeath to me.
+Our plans are complete. Carl is to visit the Girl, explain my project, and serve as the medium of communication by means of our prearranged system, investing apparently innocent official letters with sub rosa meaning. The initial step will require time. Meanwhile "K" and "G" are to make the necessary arrangements for the publication of our book. The security of our manuscripts is a source of deep satisfaction and much merriment at the expense of the administration. The repeated searches have failed to unearth them. With characteristic daring, the faithful Bob had secreted them in a hole in the floor of his shop, almost under the very seat of the guard. One by one they have been smuggled outside by a friendly officer, whom lave christened "Schrauhe."1 By degrees Nold has gained the confidence of the former mill-worker, with the result that sixty precious booklets now repose safely with a comrade in Allegheny. I am to supply the final chapters of the book through Mr. Schraube, whose friendship Carl is about to bequeath to me.
 
 The month of May is on the wane. The last note is exchanged with my comrades. Dear Bob was not able to reach me in the morning, and
 
-## <sup>1</sup> German for "screw"
+## 1 German for "screw"
 
 now I read the lines quivering with the last pangs of release, while Nold and Bauer are already beyond the walls. How I yearned for a glance at Carl, to touch hands, even in silence! But the customary privilege was refused us. Only once in the long years of our common suffering have I looked into the eyes of my devoted friend, and stealthily pressed his hand, like a thief in the night. No last greeting was vouchsafed me today. The loneliness seems heavier, the void more painful.
 
@@ -4051,13 +4056,13 @@ You know that Tony and his nephew are here. We are just getting acquainted. He w
 
 I am still in solitary, with no prospect of relief. You know the policy of the Warden to use me as a scapegoat for everything that happens here. It has become a mania with him. Think of it, he blames me for Johnny Davis' cutting "Dutch." He laid everything at my door when the legislative investigation took place. It was a worse sham than the previous whitewash. Several members called to see me at the cell, unofficially, they said. They got a hint of the evidence I was prepared to give, and one of them suggested to me that it is not advisable for one in my position to antagonize the Warden. I replied that I was no toady. He hinted that the authorities of the prison might help me to procure freedom, if I would act "discreetly." I insisted that I wanted to be heard by the committee. They departed, promising to call me as a witness. One Senator remarked, as he left: "You are too intelligent a man to be at large."
 
-When the hearing opened, several officers were the first to take the stand. The testimony was not entirely favorable to the Warden. Then Mr. Sawhill was called. You know him; he is an independent sort of man, with an eye upon the wardenship. His evidence came like a bomb: he charged the management with corruption and fraud, and so forth. The investigators took fright. They closed the sessions and departed for Harrisburg, announcing through the press that they would visit Moyamensing<sup>1</sup> and then return to Riverside. But they did not return. The report they submitted to the Governor exonerated the Warden.
+When the hearing opened, several officers were the first to take the stand. The testimony was not entirely favorable to the Warden. Then Mr. Sawhill was called. You know him; he is an independent sort of man, with an eye upon the wardenship. His evidence came like a bomb: he charged the management with corruption and fraud, and so forth. The investigators took fright. They closed the sessions and departed for Harrisburg, announcing through the press that they would visit Moyamensing1 and then return to Riverside. But they did not return. The report they submitted to the Governor exonerated the Warden.
 
 The men were gloomy over the state of affairs. A hundred prisoners were prepared to testify, and much was expected from the committee. I had all my facts on hand: Bob had fished out for me the bundle of material from its hiding place. It was in good condition, in spite of the long soaking. (I am enclosing some new data in this letter, for use in our book.)
 
 Now that he is "cleared," the Warden has grown even more arrogant and despotic. Yet some good the agitation in the press has accomplished:
 
-<sup>1</sup> The Eastern Penitentiary at Philadelphia, Pa.
+1 The Eastern Penitentiary at Philadelphia, Pa.
 
 clubbings are less frequent, and the bull ring is temporarily abolished. But his hatred of me has grown venomous. He holds us responsible (together with Dempsey and Beatty) for organizing the opposition to convict labor, which has culminated in the Muehlbronner law. It is to take effect on the first of the year. The prison administration is very bitter, because the statute, which permits only thirty-five per cent of the inmates to be employed in productive labor, will considerably minimize opportunities for graft. But the men are rejoicing: the terrible slavery in the shops has driven many to insanity and death. The law is one of the rare instances of rational legislation. Its benefit to labor in general is nullified, however, by limiting convict competition only within the State. The Inspectors are already seeking a market for the prison products in other States, while the convict manufactures of New York, Ohio, Illinois, etc., are disposed of in Pennsylvania. The irony of beneficent legislation! On the other hand, the inmates need not suffer for lack of employment. The new law allows the unlimited manufacture, within the prison, of products for local consumption. If the whine of the management regarding the "detrimental effect of idleness on the convict" is sincere, they could employ five times the population of the prison in the production of articles for our own needs.
 
@@ -4239,13 +4244,13 @@ The adverse decision of the Board of Pardons terminates all hope of release by l
 
 My position as rangeman is of utmost advantage. I have access to every part of the cell-house, excepting the "crank row." The incident of feeding the insane has put an embargo upon my communication with them, a special hallboy having been assigned to care for the deranged. But within my area on the range are the recent arrivals and the sane solitaries; the division of my duties with the new man merely facilitates my task, and affords me more leisure.
 
-The longing for liberty constantly besets my mind, suggesting various projects. The idea of escape daily strengthens into the determination born of despair. It possesses me with an exclusive passion, shaping every thought, molding every action. By degrees I curtail correspondence with my prison chums, that I may devote the solitude of the evening to the development of my plans. The underground tunnel masters my mind with the boldness of its conception, its tremendous possibilities. But the execution! Why do my friends regard the matter so indifferently? Their tepidity irritates me. Often I lash myself into wild anger with Carl for having failed to impress my comrades with the feasibility of the plan, to fire them with the enthusiasm of activity. My sub rosa route is sporadic and uncertain. Repeatedly I have hinted to my friends the bitter surprise I feel at their provoking indifference; but my reproaches have been studiously ignored. I cannot believe that conditions in the movement preclude the realization of my suggestion. These things have been accomplished in Russia. Why not in America? The attempt should be made, if only for its propagandistic effect. True, the project will require considerable outlay, and the work of skilled and trustworthy men. Have we no such in our ranks? In Parsons and Lum, this country has produced her Zheliabovs; is the genius of America not equal to a Hartman? <sup>1</sup> The tacit skepticism of my correspondents pains me, and rouses my resentment. They evidently lack faith in the judgment of "one who has been so long separated" from their world, from the interests and struggles of the living. The consciousness of my helplessness without aid from the outside gnaws at me, filling my days with bitterness. But I will persevere: I will compel their attention and their activity; aye, their enthusiasm!
+The longing for liberty constantly besets my mind, suggesting various projects. The idea of escape daily strengthens into the determination born of despair. It possesses me with an exclusive passion, shaping every thought, molding every action. By degrees I curtail correspondence with my prison chums, that I may devote the solitude of the evening to the development of my plans. The underground tunnel masters my mind with the boldness of its conception, its tremendous possibilities. But the execution! Why do my friends regard the matter so indifferently? Their tepidity irritates me. Often I lash myself into wild anger with Carl for having failed to impress my comrades with the feasibility of the plan, to fire them with the enthusiasm of activity. My sub rosa route is sporadic and uncertain. Repeatedly I have hinted to my friends the bitter surprise I feel at their provoking indifference; but my reproaches have been studiously ignored. I cannot believe that conditions in the movement preclude the realization of my suggestion. These things have been accomplished in Russia. Why not in America? The attempt should be made, if only for its propagandistic effect. True, the project will require considerable outlay, and the work of skilled and trustworthy men. Have we no such in our ranks? In Parsons and Lum, this country has produced her Zheliabovs; is the genius of America not equal to a Hartman? 1 The tacit skepticism of my correspondents pains me, and rouses my resentment. They evidently lack faith in the judgment of "one who has been so long separated" from their world, from the interests and struggles of the living. The consciousness of my helplessness without aid from the outside gnaws at me, filling my days with bitterness. But I will persevere: I will compel their attention and their activity; aye, their enthusiasm!
 
 With utmost zeal I cultivate the acquaintance of Tony. The months of frequent correspondence and occasional personal meetings have developed a spirit of congeniality and good will. I exert my ingenuity to create opportunities for stolen interviews and closer comradeship. Through the aid of a friendly of ficer, I procure for Tony the privilege of assisting his rangeman after shop hours, thus enabling him to communicate with me to greater advantage. Gradually we become intimate, and I learn the story of his life, rich in adventure and experience. An Alsatian, small and wiry, Tony is a man of quick wit, with a considerable dash of the Frenchman about him. He is intelli gent and daring — the very man to carry out my plan.
 
 For days I debate in my mind the momentous question: shall I confide the project to Tony? It would be placing myself in his power, jeopardizing
 
-<sup>1</sup> Hartman engineered the tunnel beneath the Moscow railway, undermined in an unsuccessful attempt to kill Alexander II., in 1880.
+1 Hartman engineered the tunnel beneath the Moscow railway, undermined in an unsuccessful attempt to kill Alexander II., in 1880.
 
 the sole hope of my Life. Yet it isthe only way; I must rely on my intuition of the man's worth. My nights are sleepless, excruciating with the agony of indecision. But my friend's sentence is nearing completion. We shall need time for discussion and preparation, for thorough consideration of every detail. At last I resolve to take the decisive step, and next day I reveal the secret to Tony.
 
@@ -4723,7 +4728,7 @@ The new Warden, himself a physician, introduces hygienic rules, abolishes the "h
 
 The change of diet, better hygiene, and the abolition of the dungeon, produce a noticeable improvement in the life of the prison. The gloom of the cell-house perceptibly lifts, and presently the men are surprised at music hour, between six and seven in the evening, with the strains of merry ragtime by the newly organized penitentiary band.
 
-<sup>1</sup> The process of whitening stone floors by pulverizing sand into their surfaces.
+1 The process of whitening stone floors by pulverizing sand into their surfaces.
 
 ### III
 
@@ -5032,19 +5037,19 @@ A. B.
 
 ## \* \* \*
 
-## <sup>&</sup>quot;No."
+## &quot;No."
 
-## <sup>&</sup>quot;Who, then?"
+## &quot;Who, then?"
 
-## <sup>&</sup>quot;He is a fine fellow, Aleck."
+## &quot;He is a fine fellow, Aleck."
 
-## <sup>&</sup>quot;Come now, tell me."
+## &quot;Come now, tell me."
 
-<sup>&</sup>quot;He is a citizen. The foreman of the new shop."
+&quot;He is a citizen. The foreman of the new shop."
 
-## <sup>&</sup>quot;The weaving department?"
+## &quot;The weaving department?"
 
-<sup>&</sup>quot;That's the man. Here's another stiff from him. Answer at once."
+&quot;That's the man. Here's another stiff from him. Answer at once."
 
 Dear Mr. M.:
 

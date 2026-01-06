@@ -1,3 +1,8 @@
+---
+title: "**Battle Cry of Freedom**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Battle_Cry_of_Freedom)
 
 # **Battle Cry of Freedom**

@@ -1,3 +1,8 @@
+---
+title: "**Animal Liberation Is Climate Justice**"
+category: "environmental-justice"
+---
+
 # **Animal Liberation Is Climate Justice**
 
 ## **Date:** Sun, 10/15/2023 - 00:00
@@ -338,11 +343,13 @@ We can also learn from Indigenous ways of understanding nature and our role with
 
 ## By striving for the total liberation of all species, we work toward dismantling systems and tools of oppression and creating a sustainable, even regenerative, future. The apparent alternative is increasing suffering, injustice, and ultimately the extinction of life on earth. Which side are you on?
 
-| 1. Oliver Milman, "Climate Denial is Waning on the Right. What's Replacing It Might Be Just<br>as Scary," |
+| 1. Oliver Milman, "Climate Denial is Waning on the Right. What's Replacing It Might Be Just
+as Scary," |
 |---------------------------------------------------------------------------------------------------------------------|
 | Guardian |
 | , Nov. 21, 2021. |
-| 2. Phoebe Weston and Jonathan Watts, "The Cow in the Room: Why Is No One Talking about<br>Farming at Cop26?," 2021. |
+| 2. Phoebe Weston and Jonathan Watts, "The Cow in the Room: Why Is No One Talking about
+Farming at Cop26?," 2021. |
 | 3. Matthew N. Hayek, Helen Harwatt, William J. Ripple, and Nathaniel D. Mueller, " |
 | The Carbon Opportunity Cost of Animal-Sourced Food Production on Land |
 | ," |
@@ -354,7 +361,8 @@ We can also learn from Indigenous ways of understanding nature and our role with
 
 ## Notes
 
-| 5. Alex Lockwood, "Animal Agriculture Was Critically Ignored at COP26—But Why?," Sentient<br>Media, Nov. 16, 2021. |
+| 5. Alex Lockwood, "Animal Agriculture Was Critically Ignored at COP26—But Why?," Sentient
+Media, Nov. 16, 2021. |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 6. Navin Singh Khadka, " |
 | COP26: Rich Countries 'Pushing Back' on Paying for Climate Loss |
@@ -362,11 +370,15 @@ We can also learn from Indigenous ways of understanding nature and our role with
 | 7. See Nancy Leong, |
 | Identity Capitalists: The Powerful Insiders Who Exploit Diversity to Maintain Inequality |
 | (Stanford University Press, 2021). |
-| 8. This argument has been widely put forward, for example by the anarchist Peter Gelderloos<br>and the ecosocialist Max Ajl. |
-| 9. Joseph Whitmeyer and Rosemary Hopcroft, "Community, Capitalism, and Rebellion in<br>Chiapas," |
+| 8. This argument has been widely put forward, for example by the anarchist Peter Gelderloos
+and the ecosocialist Max Ajl. |
+| 9. Joseph Whitmeyer and Rosemary Hopcroft, "Community, Capitalism, and Rebellion in
+Chiapas," |
 | Sociological Perspectives |
 | 39, no. 4 (1996), 523. |
-| 10. David Nibert, "Cows, Profits and Genocide: The Oppressive Side of 'Beef' Consumption,"<br>paper presented at Brock University's "Thinking about Animals: Domination, Captivity,<br>Liberation" conference, St. Catherines, Ontario, Canada, March 15–16, 2007. |
+| 10. David Nibert, "Cows, Profits and Genocide: The Oppressive Side of 'Beef' Consumption,"
+paper presented at Brock University's "Thinking about Animals: Domination, Captivity,
+Liberation" conference, St. Catherines, Ontario, Canada, March 15–16, 2007. |
 
 ## ![](_page_26_Figure_0.jpeg)
 
@@ -376,13 +388,17 @@ We can also learn from Indigenous ways of understanding nature and our role with
 |-----------------------------------------------------------------------------------------------------------------------|
 | This Former Slaughterhouse Worker's Story Will Make You Go Vegan, |
 | " Live Kindly, Dec. 15, 2020. |
-| 20. Sarah Kaplan, "Air Pollution from Farms Leads to 17,900 U. S. Deaths Per Year, Study<br>Finds," |
+| 20. Sarah Kaplan, "Air Pollution from Farms Leads to 17,900 U. S. Deaths Per Year, Study
+Finds," |
 | Washington Post |
 | , May 10, 2021. |
-| 21. Rachel Tepper, "Waste Lagoon At Cattle Feedlot Captured on Satellite Photo," Huffington<br>Post, Aug. 21, 2013. |
-| 22. Gary Robertson, "Court Upholds Hog Verdict; Smithfield Announces Settlement,"<br>Associated Press, Nov. 19, 2020. |
+| 21. Rachel Tepper, "Waste Lagoon At Cattle Feedlot Captured on Satellite Photo," Huffington
+Post, Aug. 21, 2013. |
+| 22. Gary Robertson, "Court Upholds Hog Verdict; Smithfield Announces Settlement,"
+Associated Press, Nov. 19, 2020. |
 | 23. Olga Naidenko, " |
-| Duke University Study: N. C. Residents Living Near Large Hog Farms Have Elevated Disease,<br>Death Risks, |
+| Duke University Study: N. C. Residents Living Near Large Hog Farms Have Elevated Disease,
+Death Risks, |
 | " Environmental Working Group, Dec. 16, 2021. |
 | 24. Interfaith Center on Corporate Responsibility, |
 ## | "Factory Farms & Water Pollution |
@@ -403,7 +419,8 @@ We can also learn from Indigenous ways of understanding nature and our role with
 | . Academic Press, Oct. 9, 2021. |
 | 42. Sarah Marsh, " |
 | The rise of vegan teenagers: 'More people are into it because of Instagram', |
-| " Guardian, May 27, 2016. Michael Pellman Rowland, "Millennials Are Driving the Worldwide<br>Shift Away From Meat," |
+| " Guardian, May 27, 2016. Michael Pellman Rowland, "Millennials Are Driving the Worldwide
+Shift Away From Meat," |
 | Forbes |
 | , May 23, 2018. |
 | 43. Holly Cheever, " |

@@ -1,3 +1,8 @@
+---
+title: "## [pcwrede.com](https://pcwrede.com/pcw-wp/stakes-vs-consequences/)"
+category: "contemporary-analysis"
+---
+
 ## [pcwrede.com](https://pcwrede.com/pcw-wp/stakes-vs-consequences/)
 
 ## **Stakes vs. consequences – Patricia C. Wrede**

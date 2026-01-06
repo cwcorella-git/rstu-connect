@@ -1,3 +1,8 @@
+---
+title: "## **Wobblies and Cossacks: The 1913 great strike**"
+category: "contemporary-analysis"
+---
+
 ## **Wobblies and Cossacks: The 1913 great strike**
 
 ## **Date:** Unknown

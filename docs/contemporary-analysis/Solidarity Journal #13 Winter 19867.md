@@ -1,3 +1,8 @@
+---
+title: "## **Solidarity Journal #13 Winter 1986/7**"
+category: "contemporary-analysis"
+---
+
 ## **Solidarity Journal #13 Winter 1986/7**
 
 ## **Date:** Unknown

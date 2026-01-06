@@ -1,13 +1,8 @@
 ---
-title: Planning Article Urbanization Without Cities the Anarchist Library
-date: 2025
-author: Murray Bookchin
-tags:
-  - organizing
-  - strikes
-  - unions
-  - tenants
-  - housing
+title: "Planning Article Urbanization Without Cities the Anarchist Library"
+author: "Murray Bookchin"
+date: "2025"
+category: "theory"
 ---
 
 # Planning Article Urbanization Without Cities the Anarchist Library

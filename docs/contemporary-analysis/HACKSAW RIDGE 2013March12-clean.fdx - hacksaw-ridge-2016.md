@@ -1,3 +1,8 @@
+---
+title: "*Lynchburg, Virginia*"
+category: "contemporary-analysis"
+---
+
 ## HACKSAW RIDGE
 
 ## By

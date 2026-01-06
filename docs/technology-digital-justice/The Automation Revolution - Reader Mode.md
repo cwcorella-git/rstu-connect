@@ -1,3 +1,8 @@
+---
+title: "Dire Forecasts"
+category: "technology-digital-justice"
+---
+
 ### The Automation Revolution
 
 ## ![](_page_0_Picture_4.jpeg)

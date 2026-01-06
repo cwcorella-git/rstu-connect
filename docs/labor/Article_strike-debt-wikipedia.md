@@ -1,13 +1,8 @@
 ---
-title: Strike Debt Wikipedia
-date: 2025
-author: David Graeber
-tags:
-  - organizing
-  - strikes
-  - unions
-  - rent
-  - anarchism
+title: "Strike Debt Wikipedia"
+author: "David Graeber"
+date: "2025"
+category: "labor"
 ---
 
 # Strike Debt Wikipedia

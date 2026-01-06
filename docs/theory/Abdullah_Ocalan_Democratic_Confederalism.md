@@ -1,3 +1,8 @@
+---
+title: "**Democratic Confederalism**"
+category: "theory"
+---
+
 However, the foundation of a state does not of the United Nations that is based on nation-states has remained inefficient. Meanwhile, nation-states have become serious obstacles for any social development. Democratic confederalism is the contrasting paradigm of the oppressed people. Democratic It is not controlled by a state. At the same al organizational blueprint of a democratic nation. Democratic confederalism is based making processes lie with the communities. Higher levels only serve the coordination and implementation of the will of the communi-However, the basic power of decision rests Démocratic Confederalisms.
 
 Abdullah Ocalan
@@ -34,9 +39,12 @@ www.freedom-for-ocalan.com
 
 #### **Inhalt**
 
-| I. Prefac<br>e                                                    | 7  |
+| I. Prefac
+e                                                    | 7  |
 |-------------------------------------------------------------------|----|
-| II. The Nation<br>-Stat<br>e                                      | 9  |
+| II. The Nation
+-Stat
+e                                      | 9  |
 | A. Basics                                                         | 9  |
 | 1. Nation-state and Power                                         | 9  |
 | 2. The State and its Religious Roots                              | 10 |
@@ -49,7 +57,11 @@ www.freedom-for-ocalan.com
 | 3. Sexism                                                         | 16 |
 | 4. Religiousness                                                  | 17 |
 | C. The Kurds and the Nation-State                                 | 19 |
-| III. Democ<br>ratic<br>Con<br>federalis<br>m                      | 21 |
+| III. Democ
+ratic
+Con
+federalis
+m                      | 21 |
 | A. Participation and the Diversity of the Political Landscape     | 22 |
 | B. The Heritage of the Society and the                            |    |
 | Accumulation of Historical Knowledge                              | 23 |
@@ -60,9 +72,27 @@ www.freedom-for-ocalan.com
 | F. Democratic Confederalism Versus Strive for Hegemony            | 30 |
 | G. Democratic Confederate Structures at a Global scale            | 31 |
 | H. Conclusion                                                     | 32 |
-| IV. Princip<br>les<br>of Democ<br>ratic<br>Con<br>federalis<br>m  | 33 |
-| V. Problems<br>of t<br>he Peop<br>les<br>in<br>t<br>he Midd<br>le |    |
-| East<br>and<br>Possi<br>ble Ways<br>to<br>a Solution              | 35 |
+| IV. Princip
+les
+of Democ
+ratic
+Con
+federalis
+m  | 33 |
+| V. Problems
+of t
+he Peop
+les
+in
+t
+he Midd
+le |    |
+| East
+and
+Possi
+ble Ways
+to
+a Solution              | 35 |
 | Writings by Abdullah Öcalan                                       | 45 |
 
 ### **I. Preface**
@@ -300,6 +330,6 @@ War and Peace in Kurdistan, Cologne, 2009, PDF http://www.freedom-for-ocalan.com
 
 The Road Map for Democratization of Turkey and Solution to the Kurdish Question (Summary), Cologne, 2011, PDF http://www.freedom-for-ocalan.com/english/download/Abdullah\_Ocalan\_-\_The\_Road\_Map\_-\_Summary.pdf
 
-Published by: Transmedia Publishing Ltd. – London, Cologne International Initiative Edition <sup>9</sup> <sup>780956</sup> <sup>751423</sup>
+Published by: Transmedia Publishing Ltd. – London, Cologne International Initiative Edition 9 780956 751423
 
 ![](_page_47_Picture_1.jpeg)

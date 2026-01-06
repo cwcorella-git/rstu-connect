@@ -1,3 +1,8 @@
+---
+title: "## **Ismatu Gwendolyn: Class Traitor**"
+category: "technology-digital-justice"
+---
+
 ## **Ismatu Gwendolyn: Class Traitor**
 
 **Date:** 2025-02-26 **Source:** https://www.threadings.io/ismatu-gwendolyn-class-traitor-2/Ig class traitor audio 0:00 / 2296.398367346939 1× Show Notes: Twenty Enemies by James Forman twenty enemies james forman twenty enemies james forman.pdf 4 MB download-circle the role of the artist is to load the gun
@@ -6,15 +11,21 @@
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Information Anarchy: The Case Against Sponsorships |
 | hello and welcome to Threadings! |
-| …the newsletter-podcast where I explore the seams on this world, and where I fit into these<br>systems. This is the first iteration of Threadings that is a video essay and I think that that's<br>fitting; do let the record show I never, ever re ally wanted to become a video essayist. But you<br>all, witnessing me, change me all the time, whether I am ready to change or not. |
-| Do grab your tea; I have here a rooibos loaded with dried fruit and florals. I'm here to answer a<br>question from a member of my constituency. |
+| …the newsletter-podcast where I explore the seams on this world, and where I fit into these
+systems. This is the first iteration of Threadings that is a video essay and I think that that's
+fitting; do let the record show I never, ever re ally wanted to become a video essayist. But you
+all, witnessing me, change me all the time, whether I am ready to change or not. |
+| Do grab your tea; I have here a rooibos loaded with dried fruit and florals. I'm here to answer a
+question from a member of my constituency. |
 | Short answer: of course they don't lose the ability to be radical . Every artist has the |
 | ability |
-| to be radical at any point in time. It's never really a question of whether people are able, it's a<br>question of whether people are |
+| to be radical at any point in time. It's never really a question of whether people are able, it's a
+question of whether people are |
 | willing |
 | |
 | a brief introduction |
-| My name is ismatu; I am a very specific person in a very specific circumstance. Two things I<br>am |
+| My name is ismatu; I am a very specific person in a very specific circumstance. Two things I
+am |
 
 : (A) cultural critic (B) stand-in for the general public. I am not performing a persuasive piece. I am here because I am a young revolutionary, and I am an artist. You and I are in a particular rhythm here, where you trust me with your mind for a small and invaluable loop of time and I do my best to be useful to you within that trust. With this time, I am here to talk to you about the contradictions of liberalism within contemporary art-making, and over the course of this essay, I will explain to you how I have made myself into a class traitor. And then, we will renegotiate our social contract.
 
@@ -34,9 +45,15 @@ One of the guiding resources I used to construct these arguments is
 | Radical |
 | in political use means |
 | to depart significantly from the systems we have in place. |
-| It means you have the intent to transform or replace fundamental elements in society and<br>position yourself to do so— much like a radical electron, in science, can change the basic<br>composition of an atom by adhering to a different system. You can tell pretty easily if<br>something is radical because it will meet significant institutional pushback. The systems we<br>have in place are engrained because everyone participates; someone refusing to participate<br>and |
+| It means you have the intent to transform or replace fundamental elements in society and
+position yourself to do so— much like a radical electron, in science, can change the basic
+composition of an atom by adhering to a different system. You can tell pretty easily if
+something is radical because it will meet significant institutional pushback. The systems we
+have in place are engrained because everyone participates; someone refusing to participate
+and |
 | actively creating a new thing |
-| also creates an open threat to the system we have in place. Radicalism that's detected by our<br>overarching system is met with pushback. |
+| also creates an open threat to the system we have in place. Radicalism that's detected by our
+overarching system is met with pushback. |
 | Then, as defined by the text, you have revolutionary and liberalism. |
 | Revolutionary action seeks and works towards seizing the power of the state. |
 ## | That's on page one, sentence one. |
@@ -105,15 +122,20 @@ The original question is: where is the line for you? What happens if you follow 
 
 Creation of a new society is also something you invest in; you stake your power, your various capital, and your time in the construction of new things. Meaningful radical action also requires understanding of geopolitics and willingness to accept risk. We know they understand geopolitics (and I refer to these artists in the plural because each artist is actually a multi-national company of people producing their performance). Particularly for our seasoned Black Mega Stars, we know their teams study Black traditions and history such that
 
-| they produce deep, decadent art. You don't have access to this much knowledge and capital<br>and remain politically |
+| they produce deep, decadent art. You don't have access to this much knowledge and capital
+and remain politically |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | illiterate |
-| . They do not practice liberalism because they don't know any better. They practice liberalism<br>because |
-| what member of the US-born and made ultra-rich class member do you know that actively<br>seeks the fall of the US empire? What? |
+| . They do not practice liberalism because they don't know any better. They practice liberalism
+because |
+| what member of the US-born and made ultra-rich class member do you know that actively
+seeks the fall of the US empire? What? |
 | Girl yes they are making propaganda!! Why do we continue to discuss this!! |
 | They |
 | could |
-| be radical; they have no desire to assume that risk, the guaranteed blowback. Whatever<br>personal desire they may or may not have to invest in a revolutionary future become<br>overshadowed by the interests of their multi-national businesses. So they |
+| be radical; they have no desire to assume that risk, the guaranteed blowback. Whatever
+personal desire they may or may not have to invest in a revolutionary future become
+overshadowed by the interests of their multi-national businesses. So they |
 | are |
 | liberal and yet they |
 | dress |
@@ -128,9 +150,14 @@ If this essay is not about these artists, why are you discussing them?
 
 Because in discussing them, I discuss us. I can take a pulse on our greater culture by understanding how much liberalism we celebrate, and if not celebrate, tolerate. How many of us still leap to defend the class that oppresses us actively today because we still wish, one day, to become them. How even if we don't want to defend them, many of us still associate freedom and peace with US dollar bills instead of associating freedom and peace with a day where US dollar bills don't exist at all. That's why I care! I'm talking about
 
-| . I want us to stop settling for the cosplay of revolution, but I know we only do so because we<br>find comfort in that excellent, excellent escapism. So I have two tasks: |
+| . I want us to stop settling for the cosplay of revolution, but I know we only do so because we
+find comfort in that excellent, excellent escapism. So I have two tasks: |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| (1) As a revolutionary, my job is to make sure that we are well equipped to believe that<br>revolution is not just possible, but probable. That we have systems that will support you<br>through the backlash should you choose or need to deviate. That we, in February of 2025, are<br>living through another wave of worldwide uprisings. Don't we remember the largest organized<br>strike in history, the |
+| (1) As a revolutionary, my job is to make sure that we are well equipped to believe that
+revolution is not just possible, but probable. That we have systems that will support you
+through the backlash should you choose or need to deviate. That we, in February of 2025, are
+living through another wave of worldwide uprisings. Don't we remember the largest organized
+strike in history, the |
 | farmers in India that brought their country to a halt? |
 | That was just four years ago. |
 | They're protesting again. |
@@ -139,13 +166,16 @@ Because in discussing them, I discuss us. I can take a pulse on our greater cult
 | popular uprising |
 | that took place in Bangladesh? |
 | Led by the students and the people? |
-| That was July! Just eight months ago! Did you know their interim government was installed?<br>That they continue to move forward? |
+| That was July! Just eight months ago! Did you know their interim government was installed?
+That they continue to move forward? |
 ## | Did you see that |
 
 | Khartoum was seized back from the RSF in Sudan? |
 |--------------------------------------------------------------------------------------------------------------------------|
-| The Sudanese popular uprising was only in 2019. God will see them through to the next<br>people's government, insh Allah. |
-| These are the events that soak me in hope. These are the events that turn me towards the<br>music of |
+| The Sudanese popular uprising was only in 2019. God will see them through to the next
+people's government, insh Allah. |
+| These are the events that soak me in hope. These are the events that turn me towards the
+music of |
 | Rhita Nattah, |
 | of |
 | Dead Prez |
@@ -164,12 +194,20 @@ fundamentally achievable within my lifetime. As a revolutionary, my job is to te
 | rather than |
 | this |
 | world that we see. |
-| (2) As an artist, it is my job to tell us useful truths. Everyone always misquotes Toni Cade<br>Bambara; what she said was, "As a culture worker who belongs to an oppressed people, my<br>job is to make revolution irresistible." As an artist, my job is to make art so excellent and<br>expansive and truly loving— art as a love song to the way I feel about us, we, the masses—<br>that you |
+| (2) As an artist, it is my job to tell us useful truths. Everyone always misquotes Toni Cade
+Bambara; what she said was, "As a culture worker who belongs to an oppressed people, my
+job is to make revolution irresistible." As an artist, my job is to make art so excellent and
+expansive and truly loving— art as a love song to the way I feel about us, we, the masses—
+that you |
 | want |
 | to begin looking for and making with your hands that which you cannot see. |
-| I start with the recognition that we are at war and that war is not simply a hot debate between<br>the capitalist camp and the socialist camp on which economic, political, social arrangement<br>will have hegemony in the world. It's not just the battle over turf and who has the right to utilize<br>resources for whomever's benefit. |
+| I start with the recognition that we are at war and that war is not simply a hot debate between
+the capitalist camp and the socialist camp on which economic, political, social arrangement
+will have hegemony in the world. It's not just the battle over turf and who has the right to utilize
+resources for whomever's benefit. |
 | The war is also being fought over the truth. |
-| What is the truth about human nature, about the human potential? My responsibility to myself,<br>my neighbors, my family, and the human family is to try to tell the truth. And that ain't easy. |
+| What is the truth about human nature, about the human potential? My responsibility to myself,
+my neighbors, my family, and the human family is to try to tell the truth. And that ain't easy. |
 ## | There are so few truth speaking traditions |
 
 in this society in which the myth of Western civilization has claimed the allegiance of so many. We have rarely been encouraged and equipped to appreciate the fact that the truth works, that the truth works, that it releases the spirit and that it is a joyous thing. —Toni Cade Bambara, 1983
@@ -262,8 +300,14 @@ I dream of fruit trees!! Thinking of little ismatu, who assumed that by 26 I wou
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Conclusions |
 | We, the masses, lack radical imagination. |
-| Liberation is still something that we conceive of in US dollar bills, in American styles of<br>comfort. We imagine freedom and what we see is comfort, which is how you know that these<br>world-makers are absolutely winning their never-ending war. They manufacture what we think<br>is possible, such that it never occurs to us to want something more than or beyond what we<br>see. |
-| And so, both culturally and economically, I am tasked with living out an answer to the question<br>of the revolutionary artist. The question is never really about ability, is it? The question is<br>always: what are you willing to |
+| Liberation is still something that we conceive of in US dollar bills, in American styles of
+comfort. We imagine freedom and what we see is comfort, which is how you know that these
+world-makers are absolutely winning their never-ending war. They manufacture what we think
+is possible, such that it never occurs to us to want something more than or beyond what we
+see. |
+| And so, both culturally and economically, I am tasked with living out an answer to the question
+of the revolutionary artist. The question is never really about ability, is it? The question is
+always: what are you willing to |
 | do |
 | ? |
 | I hope the work of your day allows you to take comfort in the work of your hands tomorrow. |

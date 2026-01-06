@@ -1,3 +1,8 @@
+---
+title: "## **Free cities: communalism and the left**"
+category: "contemporary-analysis"
+---
+
 ## **Free cities: communalism and the left**
 
 ## **Date:** Unknown

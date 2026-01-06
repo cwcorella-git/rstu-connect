@@ -1,12 +1,8 @@
 ---
-title: Precarious Labor a Feminist Viewpoint
-date: 2025
-author: Unknown
-tags:
-  - organizing
-  - rent
-  - prisons
-  - labor
+title: "Precarious Labor a Feminist Viewpoint"
+author: "Unknown"
+date: "2025"
+category: "labor"
 ---
 
 # Precarious Labor a Feminist Viewpoint

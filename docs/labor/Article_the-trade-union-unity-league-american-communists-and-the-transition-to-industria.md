@@ -1,15 +1,8 @@
 ---
-title: >-
-  The Trade Union Unity League American Communists and the Transition To
-  Industria
-date: 2025
-author: Industrial Workers of the World
-tags:
-  - organizing
-  - strikes
-  - unions
-  - rent
-  - labor
+title: ">-"
+author: "Industrial Workers of the World"
+date: "2025"
+category: "labor"
 ---
 
 # The Trade Union Unity League American Communists and the Transition To Industria

@@ -1,3 +1,8 @@
+---
+title: "**[What Games Are](https://web.archive.org/web/20250914133216/https://www.whatgamesare.com/)**"
+category: "contemporary-analysis"
+---
+
 The Wayback Machine - https://web.archive.org/web/20250914133216/https://www.whatgamesare.com/2011/01/you-need-a-marketing-story-mar…
 
 # **[What Games Are](https://web.archive.org/web/20250914133216/https://www.whatgamesare.com/)**

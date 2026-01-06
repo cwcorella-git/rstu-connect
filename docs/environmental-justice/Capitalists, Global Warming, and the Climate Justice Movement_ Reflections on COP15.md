@@ -1,3 +1,8 @@
+---
+title: "Capitalists, Global Warming, and the Climate Justice Movement: Reflections on COP15"
+category: "environmental-justice"
+---
+
 ## James Herod
 
 # Capitalists, Global Warming, and the Climate Justice Movement: Reflections on COP15
@@ -148,7 +153,7 @@ Christianson, Gale E., Greenhouse: The 200-Year Story of Global Warming. New Yor
 - Shiva, Vandana, Soil Not Oil: Environmental Justice in an Age of Climate Crisis. Cambridge, Massachusetts: South End Press, 2008, 145 pages.
 - Weart, Spencer R., The Discovery of Global Warming. Cambridge, Massachusetts: Harvard University Press, 2003, 228 pages.
 
-[<sup>\[1\]</sup>](#page-1-0) David F. Noble, "The Corporate Climate Coup," posted on Global Research website on May 4, 2007. [www.globalresearch.ca.](http://www.globalresearch.ca/Print Article.php?article Id=5568) I have since learned that David Noble doesn't believe in global warming, mainly because he doesn't trust peer reviewed science. It is a weird, and I believe mistaken, position, at least for the case of global warming. See "Peer Review as Censorship: An Interview with David Noble," by Suzan Mazur. Posted on Counterpunch on the weekend edition for February 26–28, 2010, at: [www.counterpunch.org.](http://www.counterpunch.org/mazur02262010.html)
+[\[1\]](#page-1-0) David F. Noble, "The Corporate Climate Coup," posted on Global Research website on May 4, 2007. [www.globalresearch.ca.](http://www.globalresearch.ca/Print Article.php?article Id=5568) I have since learned that David Noble doesn't believe in global warming, mainly because he doesn't trust peer reviewed science. It is a weird, and I believe mistaken, position, at least for the case of global warming. See "Peer Review as Censorship: An Interview with David Noble," by Suzan Mazur. Posted on Counterpunch on the weekend edition for February 26–28, 2010, at: [www.counterpunch.org.](http://www.counterpunch.org/mazur02262010.html)
 
 - [\[2\]](#page-1-1) See for example Tamra Gilbertson and Oscar Reyes, Carbon Trading: How It Works and Why It Fails (Critical Currents, No. 7, November 2009). There is a rare (on the left) dissenting view about "Cap and Trade" by the well-known radical scholar Robin Hahnel. He believes that Cap and Trade could work if a few changes were made in the system, and he believes the left should support this because whether we like it or not the world is presently organized through the market and is likely to remain so for some time. So this is our best chance to get carbon emissions reduced, he argues. See his three part-essay on "The Left and Climate Change" posted on Znet on December 24–26, 2009 at: [www.zcommunications.org](http://www.zcommunications.org/zspace/view Commentary Print/4806) By the way, there is a competing mainstream proposal to Cap and Trade, namely, Fee and Dividend. This proposal is supported by James Hansen, one of the first scientists to raise the alarm about global warming. He is the director of NASA's Goddard Institute of Space Studies. For a description of the proposal see James Hansen, "Cap and Fade," at: [www.commondreams.org.](http://www.commondreams.org/prnt/50274)
 - [\[3\]](#page-2-0) One of the most uncompromising statements of the link between capitalism and the environmental crisis is the book by Joel Kovel, Enemy of Nature: The End of Capitalism or the End of the World? (Zed Books, 2007, second edition, 354 pages).

@@ -1,18 +1,27 @@
+---
+title: "## **Florida Gears-Up to Offer Solidarity to #Operation Push**"
+category: "contemporary-analysis"
+---
+
 ## **Florida Gears-Up to Offer Solidarity to #Operation Push**
 
 | Date: Wed, 01/10/2018 - 18:53 |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Source: https://ecology.iww.org/node/2746|
-| Tags: IWOC, toxics, Prison Ecology Project, green unionism, green syndicalism, Florida, prison labor,<br>class war prisoners, Operation Push |
+| Tags: IWOC, toxics, Prison Ecology Project, green unionism, green syndicalism, Florida, prison labor,
+class war prisoners, Operation Push |
 | By staff - |
 | It's Going Down |
 | , |
 | January 8, 2018 |
-| On January 15th, prisoners in Florida are set to take action against prison slavery across the<br>state. |
+| On January 15th, prisoners in Florida are set to take action against prison slavery across the
+state. |
 | According to |
 | Fight Toxic Prisons |
 | : |
-| [T]hese prisoners plan to initiate a work stoppage or "laydown" beginning Monday, January<br>15th, coinciding with MLK Day, in nonviolent protest of conditions in FL prisons. They are<br>calling it Operation PUSH. |
+| [T]hese prisoners plan to initiate a work stoppage or "laydown" beginning Monday, January
+15th, coinciding with MLK Day, in nonviolent protest of conditions in FL prisons. They are
+calling it Operation PUSH. |
 
 Their primary demands are clear and concise: end prison slavery, stop price gouging, and fully return parole. They believe these issues have directly created the overcrowding that is responsible for the deplorable conditions in Florida prisons.
 
@@ -32,18 +41,25 @@ We are calling on all organized groups as well as religious systems to come toge
 
 Along with these primary demands, we are also expressing our support for the following goals:
 
-| • Stop the overcrowding and acts of brutality committed by officers throughout FDOC which<br>have resulted in the highest death rates in prison history. |
+| • Stop the overcrowding and acts of brutality committed by officers throughout FDOC which
+have resulted in the highest death rates in prison history. |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| • Expose the environmental conditions we face, including extreme temperatures, mold,<br>contaminated water, and being placed next to toxic sites such as landfills, military bases and<br>phosphate mines (including a proposed mine which would surround the Reception and<br>Medical Center prison in Lake Butler). |
-| • Honor the moratorium on state executions, as a court-ordered the state to do, without the<br>legal loophole now being used to kill prisoners on death row. |
-| • Restore voting rights as a basic human right to all, not a privilege, regardless of criminal<br>convictions. |
+| • Expose the environmental conditions we face, including extreme temperatures, mold,
+contaminated water, and being placed next to toxic sites such as landfills, military bases and
+phosphate mines (including a proposed mine which would surround the Reception and
+Medical Center prison in Lake Butler). |
+| • Honor the moratorium on state executions, as a court-ordered the state to do, without the
+legal loophole now being used to kill prisoners on death row. |
+| • Restore voting rights as a basic human right to all, not a privilege, regardless of criminal
+convictions. |
 | Also, |
 | Haitian prisoners in Florida |
 | have issued a statement in support of Operation PUSH, both the |
 | Final Straw |
 | and |
 | Kine Line |
-| have released interviews with organizers involved with the Incarcerated Workers Organizing<br>Committee (IWOC) about supporting the strike, and |
+| have released interviews with organizers involved with the Incarcerated Workers Organizing
+Committee (IWOC) about supporting the strike, and |
 ## | IGD's |
 
 ## ![](_page_3_Figure_0.jpeg)
@@ -148,8 +164,7 @@ https://
 fighttoxicprisons.wordpress
 .com/2017/12/06/
 fl-prisoners-announce-opera
-tion-push-starting-jan-15-
-to-cripple-prison-system/
+tion-push-starting-jan-15to-cripple-prison-system/
 Details on Angela Davis event:
 https://www.facebook.com/
 events/1741210299519279

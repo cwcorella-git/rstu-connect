@@ -1,3 +1,8 @@
+---
+title: "**carla bergman and Nick Montgomery Joyful Militancy**"
+category: "contemporary-analysis"
+---
+
 # **carla bergman and Nick Montgomery Joyful Militancy**
 
 # **Building Thriving Resistance in Toxic Times**
@@ -2004,7 +2009,7 @@ Simpson, Leanne. Dancing On Our Turtle's Back: Stories of Nishnaabeg Re-Creation
 - ———, ed. Horizontalism: Voices of Popular Power in Argentina. Oakland: AK Press, 2006.
 - ———. Interview with Marina Sitrin. Interview by Nick Montgomery and carla bergman. Email, February 4, 2016.
 - ———. "Occupy Trust: The Role of Emotion in the New Movements." Cultural Anthropology, February 14, 2013. https://culanth.org/fieldsights/75occupy-trust-the-role-of-emotion-in-the-new-movements.
-- Situaciones, Colectivo. 19&20: Notes for <sup>a</sup> New Social Protagonism. Translated by Nate Holdren and Sebastian Touza. New York: Minor Compositions, 2012.
+- Situaciones, Colectivo. 19&20: Notes for a New Social Protagonism. Translated by Nate Holdren and Sebastian Touza. New York: Minor Compositions, 2012.
 - Smith, Andrea. Conquest: Sexual Violence and American Indian Genocide. Cambridge, MA: South End Press, 2010.
 - ———. "Heteropatriarchy and the Three Pillars of White Supremacy: Rethinking Women of Colour Organizing." In The Color of Violence: The Incite! Anthology, edited by INCITE! Women of Colour Against Violence, 66– 73. Oakland: South End Press, 2006.
 - Solnit, Rebecca. A Paradise Built in Hell: The Extraordinary Communities That Arise in Disaster. Reprint edition. New York: Penguin Books, 2010.
@@ -2047,7 +2052,7 @@ Walia, Harsha. "Decolonizing Together: Moving beyond a Politics of Solidarity to
 
 Wang, Jackie. "Against Innocence: Race, Gender and the Politics of Safety." LIES Journal 1 (2012): 1–13.
 
-Wilkerson, Cathy. Flying Close to the Sun: My Life and Times as <sup>a</sup> Weatherman. New York: Seven Stories Press, 2007.
+Wilkerson, Cathy. Flying Close to the Sun: My Life and Times as a Weatherman. New York: Seven Stories Press, 2007.
 
 Zellars, Rachel, and Naava Smolash. "If Black Women Were Free: Part 1." Briarpatch, August 16, 2016. http://briarpatchmagazine.com/articles/view/ifblack-women-were-free.
 
@@ -2309,7 +2314,7 @@ Resurgence, and a New Emergence (Winnipeg: Arbeiter Ring Press, 2011), 32.
 - [\[144\]](#page-84-1) Esteva, interview by Nick Montgomery and carla bergman.
 - [\[145\]](#page-85-1) Sitrin, interview by Nick Montgomery and carla bergman.
 - [\[146\]](#page-86-0) Emma Goldman, Living My Life (New York: Dover Publications, 1970), 54.
-- [\[147\]](#page-86-1) amory starr, "Grumpywarriorcool: What Makes Our Movements White?," in Igniting <sup>a</sup> Revolution: Voices in Defense of the Earth (Oakland: AK Press, 2006), 379.
+- [\[147\]](#page-86-1) amory starr, "Grumpywarriorcool: What Makes Our Movements White?," in Igniting a Revolution: Voices in Defense of the Earth (Oakland: AK Press, 2006), 379.
  - [\[148\]](#page-87-1) Idem, 383.
  - [\[149\]](#page-87-2) crow, Black Flags and Windmills, 81.
  - [\[150\]](#page-87-3) Alston, interview by Nick Montgomery and carla bergman.

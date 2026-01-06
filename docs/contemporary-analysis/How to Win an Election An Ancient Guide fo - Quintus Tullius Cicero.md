@@ -1,3 +1,8 @@
+---
+title: "HOW TO WIN An election"
+category: "contemporary-analysis"
+---
+
 # HOW TO WIN An election
 
 . . . . . . . . . . . . . . . . . . . .

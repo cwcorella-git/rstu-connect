@@ -1,3 +1,8 @@
+---
+title: "**What is open source AI?**"
+category: "technology-digital-justice"
+---
+
 #### [github.com](https://github.com/resources/articles/what-is-open-source-ai)
 
 # **What is open source AI?**
@@ -81,13 +86,25 @@ Choosing between open and closed source or proprietary AI depends on what matter
 
 ### **Key differences at a glance**
 
-| Feature | Open source AI | Closed source<br>AI |
+| Feature | Open source AI | Closed source
+AI |
 |----------------------|-----------------------------------------------|-------------------------------------------|
-| Code access | Public and<br>inspectable | Private and<br>restricted |
-| Customizability | High—models can<br>be adapted or<br>retrained | Limited—<br>changes rely on<br>the vendor |
-| Transparency | Open to see how it<br>works | Often a black box |
-| Community<br>support | Built with open<br>contributions | Developed in<br>house |
-| Cost | Often free to use | Subscription or<br>license required |
+| Code access | Public and
+inspectable | Private and
+restricted |
+| Customizability | High—models can
+be adapted or
+retrained | Limited—
+changes rely on
+the vendor |
+| Transparency | Open to see how it
+works | Often a black box |
+| Community
+support | Built with open
+contributions | Developed in
+house |
+| Cost | Often free to use | Subscription or
+license required |
 
 | Examples | Py Torch, Hugging | GPT-4, Gemini, |
 |----------|------------------|----------------|

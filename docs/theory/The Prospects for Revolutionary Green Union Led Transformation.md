@@ -1,3 +1,8 @@
+---
+title: "## **The Prospects for Revolutionary Green Union Led Transformation**"
+category: "theory"
+---
+
 ## **The Prospects for Revolutionary Green Union Led Transformation**
 
 ## **Date:** Sat, 08/08/2020 - 00:00
@@ -29,12 +34,17 @@ The decline of climate change denialism;
 | Persistently high levels of support for transformative frameworks, like the |
 | Green New Deal |
 | , limited and reformist though it may ultimately prove to be; |
-| And, notable among these trends are growing levels of class consciousness among the<br>climate justice and ecological movements, as shown by the rapid growth and widespread calls<br>for |
+| And, notable among these trends are growing levels of class consciousness among the
+climate justice and ecological movements, as shown by the rapid growth and widespread calls
+for |
 | just transition |
 | for workers affected by the transitions and transformations the current crises demand. |
-| These developments are welcome, and they point to both the broadening and deepening of<br>an anti-capitalist green transformational movement. However, no transformation can occur |
+| These developments are welcome, and they point to both the broadening and deepening of
+an anti-capitalist green transformational movement. However, no transformation can occur |
 | without |
-| the active support of the working class, and such support is but the beginning of what is<br>needed to motivate the transformation. No revolutionary green transformation can occur<br>without the participation of workers organized at the points of production and/or destruction, |
+| the active support of the working class, and such support is but the beginning of what is
+needed to motivate the transformation. No revolutionary green transformation can occur
+without the participation of workers organized at the points of production and/or destruction, |
 
 because it is precisely there where the capitalist class maintains its economic stranglehold of power over our civilization. Is achieving such organized power even remotely possible? The good news is the answer is "yes"; the not so good news is that getting to "yes" will be challenging. The capitalist media paints a bleak picture of organized labor's stances on ecology and climate in the United States of America. For example, after the Green New Deal became a viral sensation, following the Sunrise Movement's sit-in of Democratic Congressional Majority Leader Nancy Pelosi's office in December 2018, the AFL-CIO's Energy Commission published a statement in opposition to it. However, this commission is composed of unions that represent less than 20% of the AFL-CIO's total membership, and it's entirely likely that many of the rank and file members of the represented unions disagree with their elected leadership. In fact, support for the Green New Deal consistently polls higher than 67% among union members, which is slightly higher than the support among people in general. Similarly, the capitalist media makes a huge noise about union support for fossil fuel capitalist megaprojects, including pipelines, export terminals, and mining projects, and to some extent, that support exists especially among the more conservative, male dominated Building Trades unions, but this fails to present the entire picture. For example, almost two dozen unions opposed coal exports in Oakland, California, and well over 30,000 union members opposed the Dakota Access Pipeline. It's a logical assumption that support for climate and ecological causes is actually very high among union workers and the working class in general.
 
@@ -50,17 +60,22 @@ This is all well and good, but experienced organizers know that there is a stark
 
 ## Green New Deal
 
-| , and the like, and to be certain, there has been a great deal of such actions taken by workers<br>and their unions in recent years, and the number continues to grow. These developments<br>should be welcome and seen as a positive barometer, but they're not enough. What would |
+| , and the like, and to be certain, there has been a great deal of such actions taken by workers
+and their unions in recent years, and the number continues to grow. These developments
+should be welcome and seen as a positive barometer, but they're not enough. What would |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | really |
-| make the difference is workers at the point of production collectively taking action in the<br>workplace to use their leverage to bring about the transformation. |
+| make the difference is workers at the point of production collectively taking action in the
+workplace to use their leverage to bring about the transformation. |
 | Have workers ever taken such actions? |
 | Again, the answer is "yes". However, until recently, they've been very few and far between. |
 | While there has been no shortage of |
 | green unionism |
 | (support) among the labor movement, actual instances of |
 | green syndicalism |
-| (action), i.e. workers acting collectively at the point of production for ecological demands and<br>green transformations, has been limited. In fact, prior to the last few years, there have only<br>been |
+| (action), i.e. workers acting collectively at the point of production for ecological demands and
+green transformations, has been limited. In fact, prior to the last few years, there have only
+been |
 | two |
 | significant examples: |
 ## | The Australian |
@@ -71,11 +86,15 @@ This is all well and good, but experienced organizers know that there is a stark
 | and the |
 | Lucas Aerospace Workers Strike |
 | in 1976. |
-| That such examples are rare shouldn't discourage anyone. There have been many more<br>stirrings that, had the conditions been better and the organizing more strategic and thorough,<br>may well developed into additional examples. One example in particular from the IWW's own<br>history comes to mind, and that is the efforts of |
+| That such examples are rare shouldn't discourage anyone. There have been many more
+stirrings that, had the conditions been better and the organizing more strategic and thorough,
+may well developed into additional examples. One example in particular from the IWW's own
+history comes to mind, and that is the efforts of |
 | Judi Bari |
 | and what is known as " |
 | Earth First! - IWW Local #1 |
-| " in northwestern California, which involved workers in the timber industry. While these efforts<br>failed to achieve the levels of militancy seen in the |
+| " in northwestern California, which involved workers in the timber industry. While these efforts
+failed to achieve the levels of militancy seen in the |
 | Green Bans |
 | or |
 ## | Lucas Aerospace Strike |
@@ -100,22 +119,30 @@ Increased awareness of the impossibility of maintaining the status quo, not just
 
 A growing realization that capitalism not only cannot be reformed, it cannot even be repaired even if just enough to maintain it's legitimacy, and that only a sustainable green transformation can replace it, if humanity is to survive.
 
-| Such conditions do not make revolutionary change inevitable. Nothing is guaranteed, and<br>everything must be |
+| Such conditions do not make revolutionary change inevitable. Nothing is guaranteed, and
+everything must be |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | organized |
 | , but conditions |
 | do |
-| play a role in making people, including workers, of course, more or less receptive to new,<br>transformative ideas. Given the body of evidence, it is highly likely that a revolutionary green<br>transformation is |
+| play a role in making people, including workers, of course, more or less receptive to new,
+transformative ideas. Given the body of evidence, it is highly likely that a revolutionary green
+transformation is |
 | precisely |
-| what the majority of the workers of the world desire. Certainly, the abolition of wage slavery<br>cannot happen |
+| what the majority of the workers of the world desire. Certainly, the abolition of wage slavery
+cannot happen |
 | without |
 | it (nor, for that matter, can a truly revolutionary green transformation be fully realized |
 | without the abolition of wage slavery! |
-| Given the low rate of union representation among the working class and the even lower rate<br>of unionization among workers in so-called "green" jobs, how can we hope to achieve these<br>goals? How do we, as workers, build the organization possible to make these things happen?<br>These are problems that the IWW Environmental Union Caucus exists to try and solve, and |
+| Given the low rate of union representation among the working class and the even lower rate
+of unionization among workers in so-called "green" jobs, how can we hope to achieve these
+goals? How do we, as workers, build the organization possible to make these things happen?
+These are problems that the IWW Environmental Union Caucus exists to try and solve, and |
 
 questions we shall attempt to answer in future texts. We have ideas of our own, but we also welcome your contributions as well.
 
 | Let's get to work and organize! |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Disclaimer: |
-| The views expressed here are not the official position of the IWW (or even the IWW's EUC)<br>and do not necessarily represent the views of anyone but the author. |
+| The views expressed here are not the official position of the IWW (or even the IWW's EUC)
+and do not necessarily represent the views of anyone but the author. |

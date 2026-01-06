@@ -1,3 +1,8 @@
+---
+title: "## **Class War's guide to the Seventies – John Casey**"
+category: "anti-war-peace"
+---
+
 ## **Class War's guide to the Seventies – John Casey**
 
 ## **Date:** Unknown

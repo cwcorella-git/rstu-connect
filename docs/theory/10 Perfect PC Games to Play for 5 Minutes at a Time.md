@@ -1,3 +1,8 @@
+---
+title: "**10 Perfect PC Games to Play for 5 Minutes at a Time**"
+category: "theory"
+---
+
 [makeuseof.com](https://www.makeuseof.com/tag/perfect-pc-games-play-5-minutes/)
 
 # **10 Perfect PC Games to Play for 5 Minutes at a Time**

@@ -1,3 +1,8 @@
+---
+title: "## **Episode 18: Plotinus And Neoplatonism/**"
+category: "contemporary-analysis"
+---
+
 ## **Episode 18: Plotinus And Neoplatonism/**
 
 ## **Source:**

@@ -1,3 +1,8 @@
+---
+title: "YOU ARE DEAD!"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 This book includes personal discussion and depiction of suicide and self harm. While I hope this book may serve as a comfort to some, its content may be triggering. Make sure you are in a comfortable place before reading, and remember that the sun always rises on a new day. Thank you.
@@ -554,7 +559,7 @@ ZOE skids to a stand still.
 
 ZOE (INNER): Fast forward a little bit and somehow I haven't been in a social setting in three years.
 
-1 . . . | . . . . <del>- . . . | . . . 1 . . . | . . . 2 . . . | . . . 3 . . . | . . . 4 . . . | . . . 5 . . . | . . . 6 . . . . . . . . . . . .</del>
+1 . . . | . . . . - . . . | . . . 1 . . . | . . . 2 . . . | . . . 3 . . . | . . . 4 . . . | . . . 5 . . . | . . . 6 . . . . . . . . . . . .
 
 ### PANEL 5:
 
@@ -1709,7 +1714,7 @@ SHE'S WRITING,
 
 HEY, THIS ONE'S ABOUT YOU!
 
-And it was. BUT YOU'RE CAUGHT, IN YOUR OWN GLORY, **YOU ARE BELIEVING** YOUR OWN NG YOUR OWN HEAD<sub>LINES</sub>, IGNORING YOUR OWN DEADLINES,
+And it was. BUT YOU'RE CAUGHT, IN YOUR OWN GLORY, **YOU ARE BELIEVING** YOUR OWN NG YOUR OWN HEADLINES, IGNORING YOUR OWN DEADLINES,
 
 YOU BON'T KNOW WHICH
 PAGE TO TURN TO:

@@ -1,3 +1,8 @@
+---
+title: "## **Burgerville Fast Food Workers Walk Off Job, Launch Strike**"
+category: "food-justice"
+---
+
 ## **Burgerville Fast Food Workers Walk Off Job, Launch Strike**
 
 ## **Date:** Unknown

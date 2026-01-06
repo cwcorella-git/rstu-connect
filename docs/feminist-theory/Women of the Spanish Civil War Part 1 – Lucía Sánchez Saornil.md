@@ -1,3 +1,8 @@
+---
+title: "## **Women of the Spanish Civil War: Part 1 – Lucía Sánchez Saornil**"
+category: "feminist-theory"
+---
+
 ## **Women of the Spanish Civil War: Part 1 – Lucía Sánchez Saornil**
 
 ## **Date:** Unknown

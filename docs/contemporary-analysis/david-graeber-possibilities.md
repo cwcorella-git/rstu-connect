@@ -1,20 +1,8 @@
 ---
-title: Possibilities
-author: David Graeber
-date: '2007'
-language: en
-topics:
-  - essays
-  - hierarchy
-  - rebellion
-  - desire
-original_format: muse
-converted_date: '2025-11-08T11:25:03.187385'
-tags:
-  - Essays
-  - Hierarchy
-  - Rebellion
-  - Desire
+title: "Possibilities"
+author: "David Graeber"
+date: "2007"
+category: "contemporary-analysis"
 ---
 
 ## Introduction
@@ -31,7 +19,7 @@ The problem, it soon turned out, was that it proved very difficult to shorten (i
 
 I eventually published a truncated version of the manners essay in Comparative Studies in Society and History, more than a decade later. Few seem to have noticed it—largely, I think, since it fell between the cracks, being neither quite anthropology, nor history. I had by then fallen out of contact with Bourdieu. But then, four years later, in the heyday of the global justice movement, we suddenly came very close to establishing contact once again.
 
-Bourdieu had by this time become involved in a project called Raisons d’Agir, aimed at creating alliances between scholars, activists, and radical labor unions. Apparently, Bourdieu had been for some time trying to locate scholars in the US engaged in analogous projects, without much success, and had just got word about my work with the New York City Direct Action Network. I had received a message from an intermediary that I was to prepare for a phone call from Bourdieu on September 11<sup>th</sup>. Unfortunately, that was September 11<sup>th</sup> 2001. I was living in Manhattan at the time, and, of course, owing to the destruction of the Towers, phone lines were down. I was a little confused as to why Bourdieu never ended up calling later on, but eventually learned that he was already quite ill. He died of cancer not long thereafter.
+Bourdieu had by this time become involved in a project called Raisons d’Agir, aimed at creating alliances between scholars, activists, and radical labor unions. Apparently, Bourdieu had been for some time trying to locate scholars in the US engaged in analogous projects, without much success, and had just got word about my work with the New York City Direct Action Network. I had received a message from an intermediary that I was to prepare for a phone call from Bourdieu on September 11th. Unfortunately, that was September 11th 2001. I was living in Manhattan at the time, and, of course, owing to the destruction of the Towers, phone lines were down. I was a little confused as to why Bourdieu never ended up calling later on, but eventually learned that he was already quite ill. He died of cancer not long thereafter.
 
 But here I jump ahead.
 
@@ -63,7 +51,7 @@ For the first two years or so I was working with the Direct Action Network, I di
 
 The intellectual shock was the result of two near-simultaneous realizations. The first was that the consensus process I was learning in anarchist circles was really an extremely formal, self-conscious version of the very form of decision-making I had witnessed on a day-to-day basis in Madagascar. It had to be formal and self-conscious, of course, because everything was being reinvented—patched together from bits and pieces learned from Quakers and Native Americans, read about in books, or simply invented by trial and error from thirty years of activist experience of trying to organize networks and collectives on anti-authoritarian lines, a tradition that harkened back at least to the days of early feminism. None of it came at all naturally to us. None of us were very good at it, at least at first. But it was obvious that, if we were going to invent a decision-making process that would actually work for a community in which no one had the power to force anyone else to do anything, it was going to have to look like something like the techniques employed by communities that had been living that way for thousands of years. I was trying, then, to actually do what I had observed everyone do in rural Madagascar, and finding it extremely difficult. The second shock, though, was the realization that one reason I found it so difficult was that my intellectual training had inculcated in me habits of thought and argument far more similar to the idiotic sectarian squabbling of Marxist sects than to anything consistent with these new (for us) forms of democracy.
 
-The essays in Part III, starting with the “Twilight of Vanguardism,” in which I first began to try to piece together the dimensions of the problem, all grow out of that rather disturbing realization. What would an intellectual practice look like, I began wondering, that would be consonant with genuine democracy? Was “democracy” even the right word to be using? If revolutionary intellectuals were not supposed to come up with the proper grand strategic analysis, the proper definition of reality, in order to lead the masses on the correct path, then what precisely was our role to be? Was it possible to move from the kind of strategic debates in which I actually did find myself embroiled while working with the global justice movement to theoretical reflections of general import? I’ve wrestled with questions like these at least to some degree in almost everything I’ve written since: from the diminutive Fragments of an Anarchist Anthropology in 2003, to the gargantuan Direct Action: An Ethnography, scheduled to appear next year—and even in my ostensibly more conventional work on value theory and theories of debt. I certainly don’t claim to have come up with any definitive answers. The final three essays, none of which have previously appeared in English, all represent attempts to engage with one or another aspect of this dilemma, by examining, in turn, the history of social theory, the history of the notion of democracy, and the war of images between police and activists in the early days of the global justice movement. Each is a reflection and an experiment. But most of all, each is meant as a gift and an invitation, and attempt to spark the kind of dialogue between scholars, anyone involved in radical social movements, anyone passionately concerned about the human condition, that Pierre Bourdieu had wanted to discuss with me almost six years ago on September 11<sup>th</sup>.
+The essays in Part III, starting with the “Twilight of Vanguardism,” in which I first began to try to piece together the dimensions of the problem, all grow out of that rather disturbing realization. What would an intellectual practice look like, I began wondering, that would be consonant with genuine democracy? Was “democracy” even the right word to be using? If revolutionary intellectuals were not supposed to come up with the proper grand strategic analysis, the proper definition of reality, in order to lead the masses on the correct path, then what precisely was our role to be? Was it possible to move from the kind of strategic debates in which I actually did find myself embroiled while working with the global justice movement to theoretical reflections of general import? I’ve wrestled with questions like these at least to some degree in almost everything I’ve written since: from the diminutive Fragments of an Anarchist Anthropology in 2003, to the gargantuan Direct Action: An Ethnography, scheduled to appear next year—and even in my ostensibly more conventional work on value theory and theories of debt. I certainly don’t claim to have come up with any definitive answers. The final three essays, none of which have previously appeared in English, all represent attempts to engage with one or another aspect of this dilemma, by examining, in turn, the history of social theory, the history of the notion of democracy, and the war of images between police and activists in the early days of the global justice movement. Each is a reflection and an experiment. But most of all, each is meant as a gift and an invitation, and attempt to spark the kind of dialogue between scholars, anyone involved in radical social movements, anyone passionately concerned about the human condition, that Pierre Bourdieu had wanted to discuss with me almost six years ago on September 11th.
 
 That particular conversation never happened. As is so often the case, realities unacknowledged in our description of the situation came and hit us on the head. Still, I like to think this book, written in such a way as to (I hope) be accessible to anyone who finds such questions interesting and important, published outside of the usual academic ghetto, is itself one small step to opening such a dialogue today.
 
@@ -352,7 +340,7 @@ Allow me a final word on those hierarchical possibilities. One of the dangers of
 
 ### Bibliography
 
-<biblio>
+
 Aries, Philippe
 
 1962 Centuries of Childhood. New York: Vintage Press.
@@ -465,7 +453,7 @@ Hill, Christopher
 
 1972 The World Turned Upside Down. New York: Penguin Press.
 
-1975 Change and Continuity in 17<sup>th</sup> Century England. Cambridge: Harvard University Press.
+1975 Change and Continuity in 17th Century England. Cambridge: Harvard University Press.
 
 Hobbes, Thomas
 
@@ -487,7 +475,7 @@ Kroeber, Alfred
 
 1925 Handbook of the Indians of California. Washington D.C.: Bureau of American Ethnology 78.
 
-1928 “The Law of the Yurok Indians.” Proceedings of the 22<sup>nd</sup> International Congress of Americanists: 511–516.
+1928 “The Law of the Yurok Indians.” Proceedings of the 22nd International Congress of Americanists: 511–516.
 
 Kussmaul, Ann
 
@@ -636,7 +624,7 @@ Wright, A.R., and T. E. Lones
 Wrightson, Keith, and David Levine
 
 1979 Poverty and Piety in an English Village. Cambridge: Cambridge University Press.
-</biblio>
+
 
 ## 2 — The Very Idea of Consumption: Desire, Phantasms, and the Aethetics of Destruction from Medieval Times to the Present
 
@@ -795,7 +783,7 @@ One thing, I think, we can certainly assert. Insofar as social life is and alway
 Even as anthropologists and other social theorists directly challenge this view of the world, the unreflective use—and indeed self-righteous propagation—of terms like “consumption” ends up completely undercutting their efforts and reproducing the very tacit ideological logic we would wish to call into question.
 
 ### Bibliography
-<biblio>
+
 Agamben, Giorgio
 
 1993a Stanzas: Word and Phantasm in Western Culture. Minneapolis: University of Minnesota Press.
@@ -992,7 +980,7 @@ Turner, Terence
 
 1980 “The Social Skin.” In Not Work Alone (Jeremy Cherfas and R. Lewas, eds.). Beverly Hills: Sage Productions.
 
-1984 “Value, Production and Exploitation in Non-Capitalist societies.” Unpublished essay based on a paper presented at the AAA 82<sup>nd</sup> Annual Meeting, Denver, Colorado. To appear in Whose Creative Energy?: Action and Reflection in the Creation of Society (ed. David Graeber and Setsuko Nakayama, Berghahn Press.)
+1984 “Value, Production and Exploitation in Non-Capitalist societies.” Unpublished essay based on a paper presented at the AAA 82nd Annual Meeting, Denver, Colorado. To appear in Whose Creative Energy?: Action and Reflection in the Creation of Society (ed. David Graeber and Setsuko Nakayama, Berghahn Press.)
 
 Valeri, Valerio
 
@@ -1019,7 +1007,7 @@ Yates, Frances
 Yovel, Yirmiyahu (ed.)
 
 1999 Desire and Affect: Spinoza as Psychologist. New York: Little Room Press.
-</biblio>
+
 
 ## 3 — Turning Modes of Production Inside Out: or, Why Capitalism Is A Transformation of Slavery (Short Version)
 
@@ -1174,7 +1162,7 @@ This one, though, I will have to leave as a possible direction for future resear
 
 ### Bibliography
 
-<biblio>
+
 Abu-Lughod, Janet
 
 1989 Before European Hegemony: The World System AD 1250–1350. New York: Oxford University Press.
@@ -1353,7 +1341,7 @@ Laslett, Peter
 
 Lovejoy, Paul E.
 
-2000 Transformations in Slavery: A History of Slavery in Africa. 2<sup>nd</sup> edition. Cambridge: Cambridge University Press.
+2000 Transformations in Slavery: A History of Slavery in Africa. 2nd edition. Cambridge: Cambridge University Press.
 
 Marx, Karl
 
@@ -1435,7 +1423,7 @@ Turner, Terence
 
 1979c “Anthropology and the Politics of Indigenous Peoples’ Struggles.” Cambridge Anthropology 5: 1–43.
 
-1984 “Value, Production and Exploitation in Non-Capitalist societies.” Unpublished essay based on a paper presented at the AAA 82<sup>nd</sup> Annual Meeting, Denver, Colorado. To appear in Critique of Pure Culture. New York: Berg Press [forthcoming].
+1984 “Value, Production and Exploitation in Non-Capitalist societies.” Unpublished essay based on a paper presented at the AAA 82nd Annual Meeting, Denver, Colorado. To appear in Critique of Pure Culture. New York: Berg Press [forthcoming].
 
 1987 The Kayapo of Southeastern Para. Unpublished monograph prepared for CEDI, Povos Indigenas do Brasil, Vol. VIII, Sul do Para, Part II.
 
@@ -1482,7 +1470,7 @@ Wolf, Eric
 Wood, Ellen Meiskins
 
 2002 The Origin of Capitalism: A Larger View. London: Verso.
-</biblio>
+
 
 ## 4 — Fetishism As Social Creativity: or, Fetishes Are Gods In The Process of Construction
 
@@ -1694,7 +1682,7 @@ What does all this teach us about the grand theoretical issues raised at the beg
 
 ### Bibliography
 
-<biblio>
+
 Abrahamsson, Hans
 
 1952 The Origin of Death: Studies in African Mythology. Studia ethnographica Upsaliensia; III. Uppsala : Almquist.
@@ -1981,7 +1969,7 @@ Turner, Terence
 
 1979 “Anthropology and the Politics of Indigenous Peoples’ Struggles.” Cambridge Anthropology 5: 1–43.
 
-1984 “Value, Production and Exploitation in Non-Capitalist societies.” Unpublished essay based on a paper presented at the AAA 82<sup>nd</sup> Annual Meeting, Denver, Colorado. To appear in Whose Creative Energy?: Action and Reflection in the Creation of Society (ed. David Graeber and Setsuko Nakayama, Berghahn Press.)
+1984 “Value, Production and Exploitation in Non-Capitalist societies.” Unpublished essay based on a paper presented at the AAA 82nd Annual Meeting, Denver, Colorado. To appear in Whose Creative Energy?: Action and Reflection in the Creation of Society (ed. David Graeber and Setsuko Nakayama, Berghahn Press.)
 
 1987 The Kayapo of Southeastern Para. Unpublished monograph prepared for CEDI, Povos Indigenas do Brasil, Vol. VIII, Sul do Para, Part II.
 
@@ -2002,7 +1990,7 @@ Vansina, Jan
 1973 The Tio Kingdom of the Middle Congo 1880–1892. Oxford: Oxford University Press.
 
 1990 Paths in the Rainforests: Toward a History of Political Tradition in Equatorial Africa. Madison: University of Wisconsin Press.
-</biblio>
+
 
 # Part II — Provisional Autonomous Zone: Dilemmas of Authority in Rural Madagascar
 
@@ -2165,7 +2153,7 @@ Of course, the institutional structure did remain: there were schools, banks, ho
 
 ### Bibliography
 
-<biblio>
+
 Althabe, Gérard
 
 1969 Oppression et Libération dans l’Imaginaire: les communautés villageoises de la côte orientale de Madagascar. Paris: Maspero.
@@ -2219,7 +2207,7 @@ Turner, Stephen, and Regis Factor
 Weber, Max
 
 1968 Economy and Society: An Outline of Interpretive Sociology. 2 vols. (Guenther Roth and Claus Wittich, eds.; Ephraim Fischoff, trans.). New York: Bedminster Press.
-</biblio>
+
 
 ## 6 — Dancing With Corpses Reconsidered: An Interpretation of Famadihana (In Arivonimamo, Madagascar)
 
@@ -2491,7 +2479,7 @@ This is not to say that famadihana were not also memorials to the dead, just as 
 
 ### Bibliography
 
-<biblio>
+
 Astuti, Rita
 
 1995 People of the Sea: Identity and Descent Among the Vezo of Madagascar. Cambridge: Cambridge University Press.
@@ -2599,7 +2587,7 @@ Wilson, Peter
 1977 “The Problem with Primitive Folk.” Natural History 81: 26–35.
 
 1991 Freedom by a Hair’s Breadth: Tsimihety in Madagascar. Ann Arbor: University of Michigan Press.
-</biblio>
+
 
 ## 7 — Love Magic and Political Morality in Central Madagascar, 1875–1990
 
@@ -2775,7 +2763,7 @@ This was a game in which Merina women were certainly as much players as were men
 
 ### Bibliography
 
-<biblio>
+
 Althabe, Gerard
 
 1969 Oppression et libération dans l’imaginaire: les communautés villageoises de la côte orientale de Madagascar. Paris: Maspero.
@@ -2893,7 +2881,7 @@ Skeat, Walter
 Vig, Lars
 
 1969 Charmes: Spécimens de Magie Malgache. Oslo: Universitetsforlagets Trykningssentral.
-</biblio>
+
 
 ## 8 — Oppression
 
@@ -3169,7 +3157,7 @@ One might refer to this as “dialogic relativism”—a mutual recognition of, 
 
 ### Bibliography
 
-<biblio>
+
 Althabe, Gerard
 
 1969 Oppression et libération dans l’imaginaire: les communautés villageoises de la côte orientale de Madagascar. Paris: Maspero.
@@ -3365,7 +3353,7 @@ Toulmin, Stephen
 Whitaker, Mark P.
 
 1996 “Relativism.” In Encyclopedia of Social and Cultural Anthropology (Alan Barnard & Jonathan Spencer eds.). London: Routledge.
-</biblio>
+
 
 # Part III — Direct Action, Direct Democracy, and Social Theory
 
@@ -3423,7 +3411,7 @@ The role of indigenous peoples, in turn, leads us back to the role of ethnograph
 
 ### Bibliography
 
-<biblio>
+
 Bonald, Louis-Gabriel-Ambroise
 
 1864 Œuvres complètes de M. de Bonald. Paris : J.P. Migne
@@ -3469,7 +3457,7 @@ Poggioli, Renato
 Saint-Simon, Henri, comte de
 
 1825 Nouveau Christianisme: dialogues entre un conservateur et un novateur, primier dialogue. Paris: Bossange.
-</biblio>
+
 
 ## 10 — Social Theory As Science and Utopia: or, Does The Prosect of a General Sociological Theory Still Mean Anything in an Age of Globalization?
 
@@ -3798,7 +3786,7 @@ It is in this context that I might suggest that the anarchist solution—that th
 
 ### Bibliography
 
-<biblio>
+
 Adams, John
 
 1797 Defense of the Constitutions of Government of the United States of America, Against the Attack of M. Turgot in his Letter to Dr. Price, Dated the Twenty-Second Day of March, 1778. Philadelphia: W. Cobbet.
@@ -4001,7 +3989,7 @@ Pietz, William
 
 Rediker, Marcus
 
-1981 “‘Under the Banner of King Death’: The Social World of Anglo-American Pirates, 1716–1726.” William & Mary Quarterly, 3<sup>rd</sup> series, 38(2): 203–227.
+1981 “‘Under the Banner of King Death’: The Social World of Anglo-American Pirates, 1716–1726.” William & Mary Quarterly, 3rd series, 38(2): 203–227.
 
 1987 Between the Devil and the Deep Blue Sea: Merchant Seamen, Pirates, and the Anglo-American Maritime World, 1700–1750. Cambridge: Cambridge University Press.
 
@@ -4056,7 +4044,7 @@ Wilkinson, David
 Žižek, Slavoj
 
 1998 “A Leftist Plea for Eurocentrism.” Critical Inquiry 24: 989–1009.
-</biblio>
+
 
 ## 12 — On The Phenomenology of Giant Puppets: Broken Windows, Imaginary Jars of Urine, and the Cosmolgical Role of the Police in American Culture
 
@@ -4138,7 +4126,7 @@ Puppets simply push this logic to a kind of extreme. The sacred here is, ultimat
 
 Anarchists, as I’ve said, avoid designing their strategies around the media. The same cannot be said of the police.
 
-It’s obvious that the events of N30 in Seattle came as a surprise to most in the American government. The Seattle police were clearly unprepared for the sophisticated tactics adopted by the hundreds of affinity groups that surrounded the hotel and, at least for the first day, effectively shut down the meetings. The first impulse of many commanders appears to have been to respect the non-violence of the actions.[237] It was only after 1 pm on the 30<sup>th</sup>, after Madeleine Albright called the governor from inside the hotel demanding that he tell them to do whatever they had to do to break the blockade, that police began a full-blown assault with tear gas, pepper spray, and concussion grenades.[238] Even then, many seemed to hesitate, while others, when they did enter the fray, descended into wild rampages, attacking and arresting scores of ordinary shoppers in Seattle’s commercial district. In the end, the governor was forced to call in the National Guard. While the media pitched in by representing police actions as a response to Black Bloc actions that began much later, having to bring in federal troops was an undeniable spectacular symbolic defeat.
+It’s obvious that the events of N30 in Seattle came as a surprise to most in the American government. The Seattle police were clearly unprepared for the sophisticated tactics adopted by the hundreds of affinity groups that surrounded the hotel and, at least for the first day, effectively shut down the meetings. The first impulse of many commanders appears to have been to respect the non-violence of the actions.[237] It was only after 1 pm on the 30th, after Madeleine Albright called the governor from inside the hotel demanding that he tell them to do whatever they had to do to break the blockade, that police began a full-blown assault with tear gas, pepper spray, and concussion grenades.[238] Even then, many seemed to hesitate, while others, when they did enter the fray, descended into wild rampages, attacking and arresting scores of ordinary shoppers in Seattle’s commercial district. In the end, the governor was forced to call in the National Guard. While the media pitched in by representing police actions as a response to Black Bloc actions that began much later, having to bring in federal troops was an undeniable spectacular symbolic defeat.
 
 In the immediate aftermath of Seattle, law enforcement officials—on the national and international level—appear to have begun a concerted effort to develop a new strategy. The details of such deliberations are, obviously, not available to the public. Nonetheless, judging by subsequent events, it seems that their conclusion (unsurprisingly) was that the Seattle police had not resorted to violence quickly or efficiently enough. The new strategy—soon put into practice during subsequent actions in Washington, Windsor, Philadelphia, Los Angeles, and Québec—appears to have been one of aggressive preemption. The problem of course was how to justify this against a movement that was overwhelmingly non-violent, engaged in actions that for the most part could not even be defined as criminal, and whose message appeared to have at least potentially strong public appeal.[239]
 
@@ -4321,7 +4309,7 @@ Like any ideological formula, however, this one is extraordinarily unstable, rid
 
 ### Bibliography
 
-<biblio>
+
 Bitner, Egon
 
 1990 Aspects of Police Work. Boston: Northeastern University Press.
@@ -4415,7 +4403,7 @@ Virno, Paolo, and Michael Hardt, eds.
 Wise Fool Puppet Intervention
 
 n.d. “History of Radical Puppetry,” www.zeitgeist.net/wfca/radpup.htm. Accessed July 15, 2007.
-</biblio>
+
 
 [1] Failure to recognize this is the weakness, I think, of much of the existing theoretical literature on the subject. Mary Douglas’ essay on “jokes” for instance starts out as an analysis of joking relations. The result is a brilliant reflection on the nature of humor, but, it seems to me, is of little use in understanding the nature of joking relations in the traditional anthropological sense of the term.
 
@@ -4657,7 +4645,7 @@ Some famadihana did concentrate on a particular tomb rather than on a particular
 
 [118] In Imerina, in fact, I could find no popular interest in a cosmological time of origins at all; tany gasy, or “Malagasy times,” which is the time of historical origins in which the ancestors lived and demes were founded, is seen as differing from the present mainly in a political sense.
 
-[119] While most of the demes and deme-territories in the area around Arivonimamo do not seem to have changed in any dramatic way since the last century, archival documents reveal the existence, in Ambohibe (a town near Ambohibeloma, seven or eight kilometers north of Arivonimamo) of an enormously rich man with the appropriate name of Andriampenovola—“lord full of money”—who, throughout the 1880s and 1890s seems to have gone about accumulating descendants through adoptions: each adoptee was guaranteed a portion of his land, slaves, and other property as long as he or she remain on the ancestral territory. When I passed through Ambohibe in 1990 no one remembered the name of the 19<sup>th</sup> century deme (the Zanak’Andriandoria) but instead gave Andriampenovola as the name of the local razambe.
+[119] While most of the demes and deme-territories in the area around Arivonimamo do not seem to have changed in any dramatic way since the last century, archival documents reveal the existence, in Ambohibe (a town near Ambohibeloma, seven or eight kilometers north of Arivonimamo) of an enormously rich man with the appropriate name of Andriampenovola—“lord full of money”—who, throughout the 1880s and 1890s seems to have gone about accumulating descendants through adoptions: each adoptee was guaranteed a portion of his land, slaves, and other property as long as he or she remain on the ancestral territory. When I passed through Ambohibe in 1990 no one remembered the name of the 19th century deme (the Zanak’Andriandoria) but instead gave Andriampenovola as the name of the local razambe.
 
 [120] While there is again no generic term in Malagasy for such groups, people usually would refer to particular local families after their founders; as, e.g., “the offspring of Ranaivo” (ny terad-Ranaivo). Vogel (1982) for this reason calls such groups teraka, or “offsprings,” but the term would never be so used by a native speaker.
 
@@ -4871,7 +4859,7 @@ Several mediums were eager to hear my tape-recordings of their sessions, claimin
 
 [209] One might think of this as the Tom Franks version of history.
 
-[210] This paper was originally presented at a conference in Paris between the 12<sup>th</sup> and 14<sup>th</sup> of June 2003, entitled Perspectives d’une théorie sociologique générale à l’ère de la mondialisation (Perspectives on a General Sociological Theory in the Era of Globalization), sponsored by Alain Caillé of the MAUSS group. The conference was intended as a kind of summit of social theorists, attended by such luminaries as Margaret Archer, Raymond Boudon, Shmuel Eisenstadt, Bruno Latour, Hans Joas, Anne Rawls, Saskia Sassen, and Alain Touraine. Inviting me was very much an act of generosity on Caillé’s part and I still greatly appreciate it. The essays from the conference were later published in Revue du MAUSS Semestrielle, all without footnotes or bibliography. I have decided here to preserve it in its original published form. The first part of the title is the one chosen for the piece by the French editors (Alain Caillé and Stephane Dufois). The second half is the original question the organizers posed to all participants in the conference.
+[210] This paper was originally presented at a conference in Paris between the 12th and 14th of June 2003, entitled Perspectives d’une théorie sociologique générale à l’ère de la mondialisation (Perspectives on a General Sociological Theory in the Era of Globalization), sponsored by Alain Caillé of the MAUSS group. The conference was intended as a kind of summit of social theorists, attended by such luminaries as Margaret Archer, Raymond Boudon, Shmuel Eisenstadt, Bruno Latour, Hans Joas, Anne Rawls, Saskia Sassen, and Alain Touraine. Inviting me was very much an act of generosity on Caillé’s part and I still greatly appreciate it. The essays from the conference were later published in Revue du MAUSS Semestrielle, all without footnotes or bibliography. I have decided here to preserve it in its original published form. The first part of the title is the one chosen for the piece by the French editors (Alain Caillé and Stephane Dufois). The second half is the original question the organizers posed to all participants in the conference.
 
 [211] But not those that speak Spanish or Portuguese. It is not clear if Huntington has passed judgment on the Boers.
 
@@ -4899,7 +4887,7 @@ Several mediums were eager to hear my tape-recordings of their sessions, claimin
 
 [223] Obviously the Chinese state was profoundly different in some ways as well: first of all it was a universalistic empire. But, Tooker to the contrary, one can borrow an idea without embracing every element.
 
-[224] Rather than pretend to be an expert on early-twentieth-century Indian scholarship, I’ll just reproduce Muhlenberger’s footnote: “K.P. Jayaswal, Hindu Polity: A Constitutional History of India in Hindu Times 2<sup>nd</sup> and enl. edn. (Bangalore, 1943), published first in article form in 1911–13; D.R. Bhandarkar, Lectures on the Ancient History of India on the Period from 650 to 325 B.C., The Carmichael Lectures, 1918 (Calcutta, 1919); R.C. Majumdar. Corporate Life in Ancient India, (orig. written in 1918; cited here from the 3<sup>rd</sup> ed., Calcutta, 1969, as Corporate Life).”
+[224] Rather than pretend to be an expert on early-twentieth-century Indian scholarship, I’ll just reproduce Muhlenberger’s footnote: “K.P. Jayaswal, Hindu Polity: A Constitutional History of India in Hindu Times 2nd and enl. edn. (Bangalore, 1943), published first in article form in 1911–13; D.R. Bhandarkar, Lectures on the Ancient History of India on the Period from 650 to 325 B.C., The Carmichael Lectures, 1918 (Calcutta, 1919); R.C. Majumdar. Corporate Life in Ancient India, (orig. written in 1918; cited here from the 3rd ed., Calcutta, 1969, as Corporate Life).”
 
 [225] I say “almost.” Early Buddhism was quite sympathetic: particularly the Buddha himself. The Brahamanical tradition however is as one might expect uniformly hostile.
 

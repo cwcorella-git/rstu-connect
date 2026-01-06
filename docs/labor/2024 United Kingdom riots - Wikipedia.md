@@ -1,16 +1,10 @@
 ---
-title: 2024 United Kingdom
-author: Riots Wikipedia
-slug: 2024 United Kingdom riots - Wikipedia
-reconversion_status: ready_for_reconversion
-date: 2011
-tags:
-  - labor
-  - strikes
-  - unions
-  - housing
-  - rent
+title: "2024 United Kingdom"
+author: "Riots Wikipedia"
+date: "2011"
+category: "labor"
 ---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/2024_United_Kingdom_riots)
 
 # **2024 United Kingdom riots**
@@ -29,7 +23,8 @@ A police van on fire during the 30 July riots in [Southport](https://en.wikipedi
 
 | Date | 30 July – 5 August 2024 |
 |----------|-----------------------------------------|
-| | days)[a]<br>(6 |
+| | days)[a]
+(6 |
 | Location | Various towns and cities in England and |
 | | Northern Ireland[b] |
 | | Caused by• 2024 Southport stabbings |
@@ -54,7 +49,8 @@ A police van on fire during the 30 July riots in [Southport](https://en.wikipedi
 | Far-right anti | Government of | Counter |
 |--------------------|---------------------|------------------|
 | immigration | the United | protesters: |
-| protesters: | [21]<br>Kingdom: | • Unaffiliated |
+| protesters: | [21]
+Kingdom: | • Unaffiliated |
 | • English Defence | • Various police | local residents |
 | League | forces[c] | • Stand Up to |
 | supporters[1] | Northern Ireland | Racism |
@@ -69,9 +65,30 @@ A police van on fire during the 30 July riots in [Southport](https://en.wikipedi
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|------------------------------------------------------|
 | • Ulster Defence | Scotland[28][29] | • Pro-Palestinian |
 | Association[5][6][7] | • Various local and | activists[34] |
-| • Unidentified<br>groups from the<br>Republic of<br>Ireland[7][5] | regional<br>authorities of<br>England[30] | • Northern Ireland<br>Public Service<br>Alliance[35] |
+| • Unidentified
+groups from the
+Republic of
+Ireland[7][5] | regional
+authorities of
+England[30] | • Northern Ireland
+Public Service
+Alliance[35] |
 | Supported by: | | |
-| • National Front[8]<br>• UK Independence<br>Party[9][10][11]<br>• British<br>Movement[12]<br>• Terrorgram<br>affiliates[13][14][15]<br>• Democratic<br>Football Lads<br>Alliance[16]<br>• Active Club<br>England[17][18]<br>• Various football<br>hooligan firms[19]<br>[20] | | |
+| • National Front[8]
+• UK Independence
+Party[9][10][11]
+• British
+Movement[12]
+• Terrorgram
+affiliates[13][14][15]
+• Democratic
+Football Lads
+Alliance[16]
+• Active Club
+England[17][18]
+• Various football
+hooligan firms[19]
+[20] | | |
 
 | Casualties | | |
 |------------|-----------------------------|--|
@@ -400,11 +417,11 @@ The [National Police Chiefs' Council](https://en.wikipedia.org/wiki/National_Pol
 
 ### **Notes**
 
-- 1. ^ <u>Jump up to: <sup>a</sup> <sup>b</sup></u> Counter-protests and minor unrest continued until 10 August.
-- 2. ^ Jump up to: <sup>a</sup> <sup>b</sup> Aldershot, Belfast, Birmingham, Blackpool, Bolton, Bristol, Hartlepool, Hull, Leeds, Liverpool, London, Manchester, Middlesbrough, Nottingham, Plymouth, Rotherham, Solihull, Southport, Stoke-on-Trent, Sunderland, Tamworth and Weymouth
+- 1. ^ Jump up to: a b Counter-protests and minor unrest continued until 10 August.
+- 2. ^ Jump up to: a b Aldershot, Belfast, Birmingham, Blackpool, Bolton, Bristol, Hartlepool, Hull, Leeds, Liverpool, London, Manchester, Middlesbrough, Nottingham, Plymouth, Rotherham, Solihull, Southport, Stoke-on-Trent, Sunderland, Tamworth and Weymouth
 - 3. ^ Avon and Somerset Police, Cheshire Constabulary, Cleveland Police, Devon and Cornwall Police, Dorset Police, Greater Manchester Police, Hampshire and Isle of Wight Constabulary, Lancashire Constabulary, Merseyside Police, Metropolitan Police, Northumbria Police, North Wales Police, South Yorkshire Police, Staffordshire Police, West Midlands Police, and additional police forces providing support. Including those in Wales, such as North Wales Police, [22] South Wales Police, [23] and Dyfed-Powys Police. [25][26]
 - 4. \(^\) Southport: 3, Tamworth: 3, Rotherham: >1
-- 5. <u>^</u> Rotherham: >1
+- 5. ^ Rotherham: >1
 - 6. 
 ## Sheffield: 1
 

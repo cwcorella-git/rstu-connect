@@ -1,12 +1,8 @@
 ---
-title: In This Moment Labor Must Become a Movement
-date: 2025
-author: Industrial Workers of the World
-tags:
-  - organizing
-  - strikes
-  - unions
-  - labor
+title: "In This Moment Labor Must Become a Movement"
+author: "Industrial Workers of the World"
+date: "2025"
+category: "labor"
 ---
 
 # In This Moment Labor Must Become a Movement

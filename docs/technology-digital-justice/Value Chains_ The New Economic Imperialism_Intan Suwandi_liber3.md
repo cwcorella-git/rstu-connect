@@ -1,3 +1,8 @@
+---
+title: "Value Chains"
+category: "technology-digital-justice"
+---
+
 ## ![](_page_0_Figure_0.jpeg)
 
 #### **WINNER OF THE PAUL A. BARAN – PAUL M. SWEEZY MEMORIAL AWARD**
@@ -196,7 +201,7 @@ e rst task is, then, to create a critical framework that provides an analysis of
 
 Laying the Groundwork for the Labor-Value Commodity Chains Framework
 
-In the next chapter I attempt to lay a theoretical and methodological groundwork for the formulation of a perspective on global commodity chains that puts labor and class relations at the center namely, labor-value commodity chains. is analysis is based on an article I co-authored with R. Jamil Jonna and John Bellamy Foster, "Global Commodity Chains and the New Imperialism," published in the March 2019 issue of Monthly Review.<sup>64</sup> e labor-value commodity chains framework is an analysis of global commodity chains that incorporates the main point that was missed by its predecessors: an examination of the extraction of surplus from the Global South within a Marxist perspective. I argue that this is the most useful means with which to analyze the processes of globalized production, since this approach allows us to see the power relations between capital and labor that underlie our present-day world economy.
+In the next chapter I attempt to lay a theoretical and methodological groundwork for the formulation of a perspective on global commodity chains that puts labor and class relations at the center namely, labor-value commodity chains. is analysis is based on an article I co-authored with R. Jamil Jonna and John Bellamy Foster, "Global Commodity Chains and the New Imperialism," published in the March 2019 issue of Monthly Review.64 e labor-value commodity chains framework is an analysis of global commodity chains that incorporates the main point that was missed by its predecessors: an examination of the extraction of surplus from the Global South within a Marxist perspective. I argue that this is the most useful means with which to analyze the processes of globalized production, since this approach allows us to see the power relations between capital and labor that underlie our present-day world economy.
 
 To develop this framework, it is necessary to examine the following and include in the formulation of the theory (1) the development of monopoly capitalism dominated today by multinational oligopolies with considerable global reach and wielding signicant monopoly power, as discussed above; and (2) the process of proting from international wage dierentials through global labor arbitrage, taking advantage of the much lower unit labor costs in emerging economies (which will be elaborated in chapter 2). While the former is especially powerful in helping us to examine the current stage of capitalism with strategic positions still held by multinational corporations, the latter is a useful lens because it looks directly through the eyes of capital. Global labor arbitrage is a creation of capital. e term itself is widely used in corporate-nancial analyses. Although other more nebulous terms, such as Low-Cost Country Strategy, abbreviated as LCCS, are sometimes adopted in order to rationalize (in the Weberian sense) the inequalities that characterize the globalization of production, treating them as mere market phenomena. For example, global labor arbitrage is frequently presented as corporations' "new imperatives of cost control," which are necessary to deal with unfortunate macroeconomic factors such as excess supply and the lack of pricing leverage.65
 
@@ -240,7 +245,7 @@ It is worth highlighting that the case studies do not aim to focus on details of
 
 #### Labor-Value Chains and the New Economic Imperialism
 
-Smith argues that we need to apply value theory in our examination of the imperialist world economy in order to nd a systematic theory of imperialism that does not neglect the issues of "the exploitation of labor by capital and the exploitation of poor nations by rich nations."86 As he writes, analyses of contemporary imperialism must proceed from, and attempt to explain, "the systematic international divergence in the rate of exploitation between nations," particularly between the imperialist nations in the Global North and the peripheral nations in the Global South. He contends that there is nothing new about international dierences in the value of labor-power, or about what he refers to as "superexploitation." What is new, Smith writes, is the "centrality these phenomena have attained during the past three decades of 'neoliberal globalization.'" <sup>87</sup>
+Smith argues that we need to apply value theory in our examination of the imperialist world economy in order to nd a systematic theory of imperialism that does not neglect the issues of "the exploitation of labor by capital and the exploitation of poor nations by rich nations."86 As he writes, analyses of contemporary imperialism must proceed from, and attempt to explain, "the systematic international divergence in the rate of exploitation between nations," particularly between the imperialist nations in the Global North and the peripheral nations in the Global South. He contends that there is nothing new about international dierences in the value of labor-power, or about what he refers to as "superexploitation." What is new, Smith writes, is the "centrality these phenomena have attained during the past three decades of 'neoliberal globalization.'" 87
 
 e labor-value chains framework is an attempt to provide yet another window through which to view the centrality of the phenomenon of globalized production as a new form of economic imperialism, especially as represented by the practice of global labor arbitrage. It is not meant to be in itself a complete theory of imperialism, but it helps examine the imperialistic characteristics of labor-value chains based on approaches that incorporate Marx's value theory.
 
@@ -284,11 +289,16 @@ Examination of unit labor costs of key countries in both the center and the peri
 
 | | 2008 | | 2013 | |
 |-----------------------|--------------------------|-------------------------------|--------------------------|-------------------------------|
-| Country | Share of All<br>GSC Jobs | Primary Export<br>Destination | Share of All<br>GSC Jobs | Primary Export<br>Destination |
+| Country | Share of All
+GSC Jobs | Primary Export
+Destination | Share of All
+GSC Jobs | Primary Export
+Destination |
 | China | 43.4% | United States | 39.2% | United States |
 | India | 15.8% | United States | 16.8% | United States |
 | Indonesia | 4.6% | Japan | 4.6% | China |
-| Russian<br>Federation | 4.1% | Germany | 4.1% | China |
+| Russian
+Federation | 4.1% | Germany | 4.1% | China |
 | Brazil | 3.5% | United States | 4.1% | China |
 | Germany | 3.4% | France | 3.6% | China |
 | United States | 3.3% | Canada | 3.6% | China |
@@ -336,7 +346,7 @@ Viewed through a critical political-economy perspective, then, global labor arbi
 
 In the context of the Marxist labor theory of value, global labor arbitrage is a quest for valorization. It is a strategy for both reducing socially necessary labor costs and maximizing the appropriation of surplus value. It extracts more out of workers through various means, including repressive work environments in periphery-economy factories, state-enforced bans on unionization, and quota systems or piece-rate work.
 
-Global labor arbitrage is made possible in part by what Marx refers to as the industrial reserve army of the unemployed, which in this case is on a global scale and thus a global reserve army of labor. <sup>51</sup> e creation over the last few decades of a much larger global reserve army is partly connected to the "great doubling" phenomenon, which refers to the integration of the workforce of former socialist countries (including China) and formerly heavily protectionist countries (such as India) into the global economy, with the resulting expansion of the size of both the global labor force and its reserve army.52 Also central to the creation of this reserve army is the depeasantization of a large portion of the global periphery through the spread of agribusiness.53 is forced movement of peasants from the land has resulted in the growth of urban slum populations.54 Marx connected the "freeing" of peasants (the "latent" part of the reserve army) from the land to the process of "so-called primitive accumulation."55
+Global labor arbitrage is made possible in part by what Marx refers to as the industrial reserve army of the unemployed, which in this case is on a global scale and thus a global reserve army of labor. 51 e creation over the last few decades of a much larger global reserve army is partly connected to the "great doubling" phenomenon, which refers to the integration of the workforce of former socialist countries (including China) and formerly heavily protectionist countries (such as India) into the global economy, with the resulting expansion of the size of both the global labor force and its reserve army.52 Also central to the creation of this reserve army is the depeasantization of a large portion of the global periphery through the spread of agribusiness.53 is forced movement of peasants from the land has resulted in the growth of urban slum populations.54 Marx connected the "freeing" of peasants (the "latent" part of the reserve army) from the land to the process of "so-called primitive accumulation."55
 
 Reproducing the global reserve army of labor not only serves to increase shorter-term prots; it serves as a divide-and-rule approach to labor on a global scale in the interest of long-term accumulation by multinationals and the state structures aligned with them.56 Although competition among corporations is limited to oligopolistic rivalry, competition among workers of the world (especially those in the Global South) is greatly intensied by increasing the relative surplus population. is divide-and-rule strategy serves to integrate "disparate labor surpluses, ensuring a constant and growing supply of recruits to the global reserve army" who are "made less recalcitrant by insecure employment and the continual threat of unemployment."57
 
@@ -446,7 +456,7 @@ Lastly, I try to strengthen some of the main assumptions used in the theories of
 
 #### Control and the Commodity Chains
 
-While a global commodity-chain or global value-chain (GCC/ GVC) framework is popular in the United States, German industrial sociologists use the concept of systemic rationalization to refer to the technological and organizational changes by corporations that began in the 1970s (some argue mid-1980s). ese changes are enabled and continuously maintained by new information technologies, and they are a form of new corporate strategies aimed at establishing production, administration, and distribution processes that are "more exible and economical."<sup>1</sup> In many ways, this theory is similar to the GCC/GVC approach, especially in its focus on the rise of decentralized production throughout the globe, one that includes, as two of the main proponents of the theory, Norbert Altmann and Manfred Deiß, write, the "decentralization of the entire production chain through segmentation of the individual processes."<sup>2</sup>
+While a global commodity-chain or global value-chain (GCC/ GVC) framework is popular in the United States, German industrial sociologists use the concept of systemic rationalization to refer to the technological and organizational changes by corporations that began in the 1970s (some argue mid-1980s). ese changes are enabled and continuously maintained by new information technologies, and they are a form of new corporate strategies aimed at establishing production, administration, and distribution processes that are "more exible and economical."1 In many ways, this theory is similar to the GCC/GVC approach, especially in its focus on the rise of decentralized production throughout the globe, one that includes, as two of the main proponents of the theory, Norbert Altmann and Manfred Deiß, write, the "decentralization of the entire production chain through segmentation of the individual processes."2
 
 If capital representatives such as Stephen Roach see the implementation of global labor arbitrage as an "urgent survival tactic" to cut costs and search for new eciencies, the discussion of systemic rationalization emphasizes that the "exibilization and economization of manufacturing," as well as R&D, logistics, and other aspects, are the main drivers forcing corporations to seek new strategies.3 Economization of manufacturing may not be much dierent than the search for new eciencies, but exible production is an important addition to the characteristics of global production processes.
 
@@ -1431,7 +1441,8 @@ Ehrenreich, Women in the Global Factory (Cambrdige, MA: South End Press, 1983); 
 
 ## Index
 
-| Agreement on Trade-Related<br>Intellectual Property Rights |
+| Agreement on Trade-Related
+Intellectual Property Rights |
 |------------------------------------------------------------|
 | (TRIPS), 163 |
 | Agreement on Trade-Related |
@@ -1442,7 +1453,8 @@ Ehrenreich, Women in the Global Factory (Cambrdige, MA: South End Press, 1983); 
 | Amin, Samir, 161, 170–71 |
 | Apple Corp., 51–52; i Phone of, 63; |
 | i Pods of, 158 |
-| arbitrage,<br>32–33 |
+| arbitrage,
+32–33 |
 | arm's length contracts (subcon |
 | tracting; Non-Equity Modes of |
 | Production), 22, 31; in China, |

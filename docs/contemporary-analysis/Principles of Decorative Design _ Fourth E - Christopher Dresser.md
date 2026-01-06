@@ -1,3 +1,8 @@
+---
+title: "**50** **CHAPTER IV.** D B G D I. $\mathbf{C}$ 73 C D II. D W 83 CHAPTER V."
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 ## ![](_page_1_Picture_0.jpeg)
@@ -32,7 +37,7 @@ from page images generously made available by
 
 Note: Images of the original pages are available through Internet
 
-Archive. See <http://archive.org/details/principlesofdeco00dres>
+Archive. See 
 
 Transcriber's Notes:
 
@@ -86,7 +91,7 @@ As the substance of this work was written as a series of lessons for the Technic
 
 That the lessons as given in the Technical Educator have not been written wholly in vain I already know, for shortly before I had completed this revision of them, I had the opportunity of visiting a provincial town hall which I had heard was being decorated, and was pleasingly surprised to see decoration of considerable merit, and evidences that much of what I saw had resulted from a consideration of my articles in the Technical Educator. The artist engaged upon the work, although having suffered the disadvantage of apprenticeship to a butcher, has established himself as a decorator while still a young man; and from the manifestation of ability which he has already given, I hope for a brighter future for one who, as a working man, must have studied hard. If these lessons as now collected into a work should lead to the development of the art-germs which doubtless lie dormant in other working men, the object which I have sought to attain in writing and collecting these together will have been accomplished.
 
-T C , N Н London, W. C P CHAPTER I. I D I. **A** -<u>1</u>
+T C , N Н London, W. C P CHAPTER I. I D I. **A** -1
 
 ## H
 
@@ -104,7 +109,7 @@ II.
 
 ,
 
-<u>14</u>
+14
 
 ## D
 
@@ -114,19 +119,19 @@ III.
 
 ## 0
 
-<u>25</u>
+25
 
 CHAPTER II.
 
 ## $\mathbf{C}$
 
-<u>30</u>
+30
 
 CHAPTER III.
 
 ## F
 
-# <u>**50**</u> **CHAPTER IV.** D B G D I. $\mathbf{C}$ <u>73</u> C D II. D W <u>83</u> CHAPTER V.
+# **50** **CHAPTER IV.** D B G D I. $\mathbf{C}$ 73 C D II. D W 83 CHAPTER V.
 
 ## $\mathbf{C}$
 
@@ -228,7 +233,7 @@ The priesthood instructed the people that this was the symbol of protection, and
 
 It was to nullify this symbol, and to show the vain character of the Egyptian gods, that Moses was commanded to have the blood of the lamb slain at the passover placed upon the lintel, in the very position of this winged globe. It was also enjoined as a further duty that the blood be sprinkled on the doorpost; but this was merely a new duty, tending further to show that even in position, as well as in nature, this winged globe was powerless to secure protection. This device, then, is of special interest, both as a symbolic ornament and as throwing light on Scripture history.
 
-Besides the two ornamental forms mentioned— *i.e.* , the lotus and the winged globe—we might notice many others also of great interest, but our space will not enable us to do so; further information may, however, be got from the South Kensington Museum library, [3] where several interesting works on Egyptian ornament may be seen;—from the "Grammar of Ornament" by Mr. Owen Jones,—the works on Egypt by Sir Gardiner Wilkinson; and, especially,—by a visit to the Egyptian Court of the Crystal Palace at Sydenham, and by a careful perusal of the hand-book to that <u>court</u>. [4] Much might also be said respecting Egyptian architecture, but on this we can say little here; yet, as the columns of the temples are of a very ornamental character, we may notice that in most cases they were formed of a bundle of <u>papyrus</u>[5]
+Besides the two ornamental forms mentioned— *i.e.* , the lotus and the winged globe—we might notice many others also of great interest, but our space will not enable us to do so; further information may, however, be got from the South Kensington Museum library, [3] where several interesting works on Egyptian ornament may be seen;—from the "Grammar of Ornament" by Mr. Owen Jones,—the works on Egypt by Sir Gardiner Wilkinson; and, especially,—by a visit to the Egyptian Court of the Crystal Palace at Sydenham, and by a careful perusal of the hand-book to that court. [4] Much might also be said respecting Egyptian architecture, but on this we can say little here; yet, as the columns of the temples are of a very ornamental character, we may notice that in most cases they were formed of a bundle of papyrus[5]
 
 ## ![](_page_22_Picture_0.jpeg)
 
@@ -537,16 +542,29 @@ Colours, when placed together, can only please and satisfy the educated when com
 
 | Primary Colours. | | | | Seco | nde | ary Co | low | Tertiary Colours. | | | | |
 |------------------|------|-------------------|---------|------------------|----------|------------|-----|---------------------|--------------|-------------------|------------|----------|
-| Blue | #0 | naeneone<br>er#oo | 8 | Purp | le | *01 | 125 | 13 | Olive | (#200 #200)<br> } | :00<br>:00 | 21 |
+| Blue | #0 | naeneone
+er#oo | 8 | Purp | le | *01 | 125 | 13 | Olive | (#200 #200)
+ } | :00
+:00 | 21 |
 | Red | *3 | 23 | 5 | Green | 1 | •10 | 38 | 11 | Russet | 20 | * | 21 |
 | Yellow | Ð | S:# | 3 | Orang | go | 100 | 89 | 8 | Citrine | | * | 19 |
 | Primar | y Co | lours. | . 1 | Secondary | Co | lours. | | | Tertiary Co | lour | e. | |
-| Red .<br>Yellow | | | ~ | ange . | | | 8 | ) | or Yellow | | 259 (59°): | 00000000 |
-| Blue .<br>Yellow | | . 8 | Gr | cen , | 01<br>34 | \$5<br>\$2 | 11 | Citrine | , or Yellow | Terti | ary | 19 |
-| Blue .<br>Red . | | . : | Pu | rple . | × | ¥0 | 13 | ) <sub>100000</sub> | , or Red Ter | | 200 | 01 |
-| Red .<br>Yellow | 03 | . ! | )<br>Or | rple .<br>ange . | * | €6 | 8 | ( russet | , or near 10 | · viar j | llioge. | |
-| Blue .<br>Yellow | | . ! | 3} Gr | een | | | 11 | Ollins | or Blue Teri | | | 24 |
-| Blue .<br>Red . | | . 1 | Pa | rple . | 8 | <b>3</b> 8 | 13 | ) | or Date Ter | шту | • | Sente |
+| Red .
+Yellow | | | ~ | ange . | | | 8 | ) | or Yellow | | 259 (59°): | 00000000 |
+| Blue .
+Yellow | | . 8 | Gr | cen , | 01
+34 | \$5
+\$2 | 11 | Citrine | , or Yellow | Terti | ary | 19 |
+| Blue .
+Red . | | . : | Pu | rple . | × | ¥0 | 13 | ) 100000 | , or Red Ter | | 200 | 01 |
+| Red .
+Yellow | 03 | . ! | )
+Or | rple .
+ange . | * | €6 | 8 | ( russet | , or near 10 | · viar j | llioge. | |
+| Blue .
+Yellow | | . ! | 3} Gr | een | | | 11 | Ollins | or Blue Teri | | | 24 |
+| Blue .
+Red . | | . 1 | Pa | rple . | 8 | 3 8 | 13 | ) | or Date Ter | шту | • | Sente |
 
 When commencing my studies both in science and art, I found great advantage from reducing all facts to a tabular form so far as possible, and this mode of study I would recommend to others. To me this method appears to have great advantages, for by it we see at a glance what otherwise is difficult to understand; if carefully done, it becomes an analysis of work; and by preparing these tabular arrangements of facts the subject becomes impressed on the mind, and the relation of one fact to another, or of one part of a scheme to another, is seen.
 
@@ -579,7 +597,7 @@ If the student will try carefully to realise these colours, and will fill up the
 
 As we shall have to refer to colours by naming pigments, and as I am constantly asked what pigments I employ, I shall enumerate the paints in my colour-box; but I shall place a dagger against those which I have in my private box, and which I do not supply in my offices; but these I seldom use. Of yellows I have [14]king's yellow (not a permanent colour), [14]very pale chrome, lemon-chrome (about the colour of a ripe lemon), middle-chrome (half-way between the lemon and orange-chrome), orange-chrome (about the colour of the rind of a ripe orange), [14]yellow-lake, [14]Indian yellow. Of reds—
 
-vermilion, carmine, crimson-lake. Of <u>blues—[14]cobalt</u>, German ultramarine, both deep and pale, Antwerp blue, indigo. Of greens—
+vermilion, carmine, crimson-lake. Of blues—[14]cobalt, German ultramarine, both deep and pale, Antwerp blue, indigo. Of greens—
 
 emerald, green-lake, pale and deep. Of browns—raw Turkey umber, vandyke, Venetian red, purple-brown, brown-lake. Besides these I have what is called celestial blue, which is a very pure and intense turquoise, vegetable black, flake white, and gold bronze. [13]
 
@@ -706,7 +724,7 @@ While this occurs (and sometimes it occurs to a marked degree, as can be shown b
 
 In Proposition 8 we showed that when blue and black are juxtaposed, the black becomes "rusty," or assumes an orange tint; and in Proposition 9 we gave the cause of this effect. Let a blue spot be placed on a black silk necktie, and however black the silk, it will yet appear rusty. This is a fact; but we sometimes desire to employ blue on black, and wish the black to look black, and not an orange-black. How can we do this? Obviously by substituting for the black a very dark blue, as indigo. The bright blue spot induces orange (the complement of blue) in the eye. This orange, when cast upon black, causes the latter to look "rusty;" but if we place in the black an amount of blue sufficient to neutralise the orange cast upon it, the effect will be that of a jet-black.
 
-We have now considered those qualities of colour, and those laws of contrast and harmony, which may be said to be of the grosser sort; but we have scarcely touched on those considerations which pertain to special refinement or tenderness of effect. But let me close the part of my subject of which I have treated, by repeating a statement already made—a statement, let me say, which first led me to perceive really harmony of colour—that those colours, and those particular hues of colour, which improve each other to the utmost, are those which perfectly harmonise. (Consider this statement in connection with <u>Propositions 8, 9, 10, and 14, pages 32 and 33.)</u>
+We have now considered those qualities of colour, and those laws of contrast and harmony, which may be said to be of the grosser sort; but we have scarcely touched on those considerations which pertain to special refinement or tenderness of effect. But let me close the part of my subject of which I have treated, by repeating a statement already made—a statement, let me say, which first led me to perceive really harmony of colour—that those colours, and those particular hues of colour, which improve each other to the utmost, are those which perfectly harmonise. (Consider this statement in connection with Propositions 8, 9, 10, and 14, pages 32 and 33.)
 
 We come now to consider delicacies and refinements in colour effects, which, although dependent upon the skilful exercise of the laws enunciated, are yet of a character, the power to produce which only results from the consideration of the works of the masters of great art-nations; but of these effects I can say little beyond pointing out what should be studied.
 
@@ -910,7 +928,7 @@ As to the block-form, let it be simple, and have the appearance of appropriatene
 
 All I can say to the student on this part of the subject is this: Carefully consider good works of furniture whenever opportunity occurs, and note their general conformation. A fine work will never have strong architectural qualities—that is, it will not look like part of a building formed of wood instead of stone. There is but small danger of committing any great error in the block-form, if it be kept simple, and to look like a work in wood, provided that the proportions of height to width and of width and height to thickness are duly cared for (see page
 
-#### <u>23).</u>
+#### 23).
 
 After the general form has been considered, the mass may be broken into primary and secondary parts. Thus, if we have to construct a cabinet, the upper part of which consists of a cupboard, and the lower portion of drawers, we should have to determine the proportion which the one part should bear to the other. This is an invariable rule—that the work must not consist of equal parts; thus, if the whole cabinet be six feet in height, the cupboards could not be three feet while the drawers occupied three feet also. The division would have to be of a subtle character—of a character which could not be readily detected.
 
@@ -2340,7 +2358,7 @@ Workmen; their Study of Decorative Laws, 1.
 
 Wrought-iron, its Qualities, 147, 148.
 
-## <sup>&</sup>quot; Advice to, 164.
+## &quot; Advice to, 164.
 
 ### MANUALS OF TECHNOLOGY.
 
@@ -2832,24 +2850,24 @@ To protect the Project Gutenberg™ mission of promoting the free distribution o
 
 #### Section 1. General Terms of Use and
 
-#### Redistributing Project Gutenberg<sup>™</sup> electronic
+#### Redistributing Project Gutenberg™ electronic
 
 #### works
 
-1. A. By reading or using any part of this Project Gutenberg<sup>TM</sup>
+1. A. By reading or using any part of this Project GutenbergTM
 
-electronic work, you indicate that you have read, understand, agree to and accept all the terms of this license and intellectual property (trademark/copyright) agreement. If you do not agree to abide by all the terms of this agreement, you must cease using and return or destroy all copies of Project Gutenberg<sup>TM</sup> electronic works in your possession. If you paid a fee for obtaining a copy of or access to a Project Gutenberg<sup>TM</sup> electronic work and you do not agree to be bound by the terms of this agreement, you may obtain a refund from the person or entity to whom you paid the fee as set forth in paragraph 1. E.8.
+electronic work, you indicate that you have read, understand, agree to and accept all the terms of this license and intellectual property (trademark/copyright) agreement. If you do not agree to abide by all the terms of this agreement, you must cease using and return or destroy all copies of Project GutenbergTM electronic works in your possession. If you paid a fee for obtaining a copy of or access to a Project GutenbergTM electronic work and you do not agree to be bound by the terms of this agreement, you may obtain a refund from the person or entity to whom you paid the fee as set forth in paragraph 1. E.8.
 
-1. B. "Project Gutenberg" is a registered trademark. It may only be used on or associated in any way with an electronic work by people who agree to be bound by the terms of this agreement. There are a few things that you can do with most Project Gutenberg<sup>TM</sup> electronic works even without complying with the full terms of this agreement.
+1. B. "Project Gutenberg" is a registered trademark. It may only be used on or associated in any way with an electronic work by people who agree to be bound by the terms of this agreement. There are a few things that you can do with most Project GutenbergTM electronic works even without complying with the full terms of this agreement.
 
-See paragraph 1. C below. There are a lot of things you can do with Project Gutenberg<sup>TM</sup> electronic works if you follow the terms of this agreement and help preserve free future access to Project Gutenberg™ electronic works. See paragraph 1. E below.
+See paragraph 1. C below. There are a lot of things you can do with Project GutenbergTM electronic works if you follow the terms of this agreement and help preserve free future access to Project Gutenberg™ electronic works. See paragraph 1. E below.
 
 1. C. The Project Gutenberg Literary Archive Foundation ("the Foundation" or PGLAF), owns a compilation copyright in the collection of Project Gutenberg™ electronic works. Nearly all the individual works in the collection are in the public domain in the United States. If an individual work is unprotected by copyright law in the United States and you are located in the United States, we do not claim a right to prevent you from copying, distributing, performing, displaying or creating derivative works based on the work as long as all references to Project Gutenberg are removed. Of course, we hope that you will support the Project Gutenberg™
 
-mission of promoting free access to electronic works by freely sharing Project Gutenberg<sup>TM</sup> works in compliance with the terms of this agreement for keeping the Project Gutenberg<sup>TM</sup> name associated with the work. You can easily comply with the terms of this agreement by keeping this work in the same format with its attached full Project Gutenberg<sup>TM</sup> License when you share it without charge with others.
+mission of promoting free access to electronic works by freely sharing Project GutenbergTM works in compliance with the terms of this agreement for keeping the Project GutenbergTM name associated with the work. You can easily comply with the terms of this agreement by keeping this work in the same format with its attached full Project GutenbergTM License when you share it without charge with others.
 
-- 1. D. The copyright laws of the place where you are located also govern what you can do with this work. Copyright laws in most countries are in a constant state of change. If you are outside the United States, check the laws of your country in addition to the terms of this agreement before downloading, copying, displaying, performing, distributing or creating derivative works based on this work or any other Project Gutenberg<sup>TM</sup> work. The Foundation makes no representations concerning the copyright status of any work in any country other than the United States.
-- 1. E. Unless you have removed all references to Project Gutenberg: 1. E.1. The following sentence, with active links to, or other immediate access to, the full Project Gutenberg<sup>TM</sup> License must appear prominently whenever any copy of a Project Gutenberg<sup>TM</sup>
+- 1. D. The copyright laws of the place where you are located also govern what you can do with this work. Copyright laws in most countries are in a constant state of change. If you are outside the United States, check the laws of your country in addition to the terms of this agreement before downloading, copying, displaying, performing, distributing or creating derivative works based on this work or any other Project GutenbergTM work. The Foundation makes no representations concerning the copyright status of any work in any country other than the United States.
+- 1. E. Unless you have removed all references to Project Gutenberg: 1. E.1. The following sentence, with active links to, or other immediate access to, the full Project GutenbergTM License must appear prominently whenever any copy of a Project GutenbergTM
 
 work (any work on which the phrase "Project Gutenberg" appears, or with which the phrase "Project Gutenberg" is associated) is accessed, displayed, performed, viewed, copied or distributed: This e Book is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this e Book or online [at www.gutenberg.org. If you](https://www.gutenberg.org/)
 
@@ -2858,25 +2876,25 @@ are not located in the United States, you will have to check the laws of the cou
 - 1. E.2. If an individual Project Gutenberg™ electronic work is derived from texts not protected by U. S. copyright law (does not contain a notice indicating that it is posted with permission of the copyright holder), the work can be copied and distributed to anyone in the United States without paying any fees or charges. If you are redistributing or providing access to a work with the phrase "Project Gutenberg" associated with or appearing on the work, you must comply either with the requirements of paragraphs 1. E.1 through 1. E.7 or obtain permission for the use of the work and the Project Gutenberg™ trademark as set forth in paragraphs 1. E.8 or 1. E.9.
 - 1. E.3. If an individual Project Gutenberg™ electronic work is posted with the permission of the copyright holder, your use and distribution must comply with both paragraphs 1. E.1 through 1. E.7 and any additional terms imposed by the copyright holder. Additional terms will be linked to the Project Gutenberg™ License for all works posted with the permission of the copyright holder found at the beginning of this work.
 - 1. E.4. Do not unlink or detach or remove the full Project Gutenberg™ License terms from this work, or any files containing a part of this work or any other work associated with Project Gutenberg™.
-- 1. E.5. Do not copy, display, perform, distribute or redistribute this electronic work, or any part of this electronic work, without prominently displaying the sentence set forth in paragraph 1. E.1 with active links or immediate access to the full terms of the Project Gutenberg<sup>TM</sup> License.
+- 1. E.5. Do not copy, display, perform, distribute or redistribute this electronic work, or any part of this electronic work, without prominently displaying the sentence set forth in paragraph 1. E.1 with active links or immediate access to the full terms of the Project GutenbergTM License.
 
-- 1. E.6. You may convert to and distribute this work in any binary, compressed, marked up, nonproprietary or proprietary form, including any word processing or hypertext form. However, if you provide access to or distribute copies of a Project Gutenberg<sup>TM</sup> work in a format other than "Plain Vanilla ASCII" or other format used in the official version posted on the official Project Gutenberg<sup>TM</sup> website (www.gutenberg.org), you must, at no additional cost, fee or expense to the user, provide a copy, a means of exporting a copy, or a means of obtaining a copy upon request, of the work in its original "Plain Vanilla ASCII" or other form. Any alternate format must include the full Project Gutenberg<sup>TM</sup> License as specified in paragraph 1. E.1.
-- 1. E.7. Do not charge a fee for access to, viewing, displaying, performing, copying or distributing any Project Gutenberg<sup>™</sup> works unless you comply with paragraph 1. E.8 or 1. E.9.
-- 1. E.8. You may charge a reasonable fee for copies of or providing access to or distributing Project Gutenberg<sup>TM</sup> electronic works provided that:
-- You pay a royalty fee of 20% of the gross profits you derive from the use of Project Gutenberg<sup>TM</sup> works calculated using the method you already use to calculate your applicable taxes. The fee is owed to the owner of the Project Gutenberg<sup>TM</sup> trademark, but he has agreed to donate royalties under this paragraph to the Project Gutenberg Literary Archive Foundation. Royalty payments must be paid within 60 days following each date on which you prepare (or are legally required to prepare) your periodic tax returns. Royalty payments should be clearly marked as such and sent to the Project Gutenberg Literary Archive Foundation at the address specified in Section
+- 1. E.6. You may convert to and distribute this work in any binary, compressed, marked up, nonproprietary or proprietary form, including any word processing or hypertext form. However, if you provide access to or distribute copies of a Project GutenbergTM work in a format other than "Plain Vanilla ASCII" or other format used in the official version posted on the official Project GutenbergTM website (www.gutenberg.org), you must, at no additional cost, fee or expense to the user, provide a copy, a means of exporting a copy, or a means of obtaining a copy upon request, of the work in its original "Plain Vanilla ASCII" or other form. Any alternate format must include the full Project GutenbergTM License as specified in paragraph 1. E.1.
+- 1. E.7. Do not charge a fee for access to, viewing, displaying, performing, copying or distributing any Project Gutenberg™ works unless you comply with paragraph 1. E.8 or 1. E.9.
+- 1. E.8. You may charge a reasonable fee for copies of or providing access to or distributing Project GutenbergTM electronic works provided that:
+- You pay a royalty fee of 20% of the gross profits you derive from the use of Project GutenbergTM works calculated using the method you already use to calculate your applicable taxes. The fee is owed to the owner of the Project GutenbergTM trademark, but he has agreed to donate royalties under this paragraph to the Project Gutenberg Literary Archive Foundation. Royalty payments must be paid within 60 days following each date on which you prepare (or are legally required to prepare) your periodic tax returns. Royalty payments should be clearly marked as such and sent to the Project Gutenberg Literary Archive Foundation at the address specified in Section
 
 - 4, "Information about donations to the Project Gutenberg Literary Archive Foundation."
-- You provide a full refund of any money paid by a user who notifies you in writing (or by e-mail) within 30 days of receipt that s/he does not agree to the terms of the full Project Gutenberg<sup>TM</sup> License. You must require such a user to return or destroy all copies of the works possessed in a physical medium and discontinue all use of and all access to other copies of Project Gutenberg<sup>TM</sup> works.
+- You provide a full refund of any money paid by a user who notifies you in writing (or by e-mail) within 30 days of receipt that s/he does not agree to the terms of the full Project GutenbergTM License. You must require such a user to return or destroy all copies of the works possessed in a physical medium and discontinue all use of and all access to other copies of Project GutenbergTM works.
 
 - You provide, in accordance with paragraph 1. F.3, a full refund of any money paid for a work or a replacement copy, if a defect in the electronic work is discovered and reported to you within 90 days of receipt of the work.
-- You comply with all other terms of this agreement for free distribution of Project Gutenberg<sup>TM</sup> works.
+- You comply with all other terms of this agreement for free distribution of Project GutenbergTM works.
 - 1. E.9. If you wish to charge a fee or distribute a Project Gutenberg™
 
-electronic work or group of works on different terms than are set forth in this agreement, you must obtain permission in writing from the Project Gutenberg Literary Archive Foundation, the manager of the Project Gutenberg<sup>TM</sup> trademark. Contact the Foundation as set forth in Section 3 below.
+electronic work or group of works on different terms than are set forth in this agreement, you must obtain permission in writing from the Project Gutenberg Literary Archive Foundation, the manager of the Project GutenbergTM trademark. Contact the Foundation as set forth in Section 3 below.
 
 #### 1. F.
 
-1. F.1. Project Gutenberg volunteers and employees expend considerable effort to identify, do copyright research on, transcribe and proofread works not protected by U. S. copyright law in creating the Project Gutenberg<sup>TM</sup> collection. Despite these efforts, Project Gutenberg<sup>TM</sup> electronic works, and the medium on which they may be stored, may contain "Defects," such as, but not limited to, incomplete, inaccurate or corrupt data, transcription errors, a copyright or other intellectual property infringement, a defective or damaged disk or other medium, a computer virus, or computer codes that damage or cannot be read by your equipment.
+1. F.1. Project Gutenberg volunteers and employees expend considerable effort to identify, do copyright research on, transcribe and proofread works not protected by U. S. copyright law in creating the Project GutenbergTM collection. Despite these efforts, Project GutenbergTM electronic works, and the medium on which they may be stored, may contain "Defects," such as, but not limited to, incomplete, inaccurate or corrupt data, transcription errors, a copyright or other intellectual property infringement, a defective or damaged disk or other medium, a computer virus, or computer codes that damage or cannot be read by your equipment.
 
 1. F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right of Replacement or Refund" described in paragraph 1. F.3, the Project Gutenberg Literary Archive Foundation, the owner of the Project Gutenberg™ trademark, and any other party distributing a Project Gutenberg™ electronic work under this agreement, disclaim all liability to you for damages, costs and expenses, including legal fees. YOU AGREE THAT YOU HAVE NO
 
@@ -2908,17 +2926,17 @@ If any disclaimer or limitation set forth in this agreement violates the law of 
 
 1. F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the trademark owner, any agent or employee of the Foundation, anyone providing copies of Project Gutenberg™
 
-electronic works in accordance with this agreement, and any volunteers associated with the production, promotion and distribution of Project Gutenberg™ electronic works, harmless from all liability, costs and expenses, including legal fees, that arise directly or indirectly from any of the following which you do or cause to occur: (a) distribution of this or any Project Gutenberg<sup>TM</sup> work, (b) alteration, modification, or additions or deletions to any Project Gutenberg<sup>TM</sup> work, and (c) any Defect you cause.
+electronic works in accordance with this agreement, and any volunteers associated with the production, promotion and distribution of Project Gutenberg™ electronic works, harmless from all liability, costs and expenses, including legal fees, that arise directly or indirectly from any of the following which you do or cause to occur: (a) distribution of this or any Project GutenbergTM work, (b) alteration, modification, or additions or deletions to any Project GutenbergTM work, and (c) any Defect you cause.
 
 #### Section 2. Information about the Mission of
 
-#### Project Gutenberg<sup>TM</sup>
+#### Project GutenbergTM
 
-Project Gutenberg<sup>TM</sup> is synonymous with the free distribution of electronic works in formats readable by the widest variety of computers including obsolete, old, middle-aged and new computers.
+Project GutenbergTM is synonymous with the free distribution of electronic works in formats readable by the widest variety of computers including obsolete, old, middle-aged and new computers.
 
 It exists because of the efforts of hundreds of volunteers and donations from people in all walks of life.
 
-Volunteers and financial support to provide volunteers with the assistance they need are critical to reaching Project Gutenberg<sup>TM</sup>'s goals and ensuring that the Project Gutenberg<sup>TM</sup> collection will remain freely available for generations to come. In 2001, the Project Gutenberg Literary Archive Foundation was created to provide a secure and permanent future for Project Gutenberg<sup>TM</sup> and future generations. To learn more about the Project Gutenberg Literary Archive Foundation and how your efforts and donations can help, see Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+Volunteers and financial support to provide volunteers with the assistance they need are critical to reaching Project GutenbergTM's goals and ensuring that the Project GutenbergTM collection will remain freely available for generations to come. In 2001, the Project Gutenberg Literary Archive Foundation was created to provide a secure and permanent future for Project GutenbergTM and future generations. To learn more about the Project Gutenberg Literary Archive Foundation and how your efforts and donations can help, see Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
 
 #### Section 3. Information about the Project
 
@@ -2996,12 +3014,21 @@ back
 | Red | | 5 | Green | 1 | | | 11 | Russet | | | 21 | |
 | Yellow | | 3 | Orang | ge | ٠ | ٠ | 8 | Citrine | • | | 19 | |
 | Primary | Color | ers. | Secondary | Col | ours. | | | Tertiary C | olours | | | |
-| Red .<br>Yellow | : | 5} | Drange . | | | 8 | ) | ** 11 | m | | | |
-| Blue .<br>Yellow | : | 8} | Orange .<br>Groen . | | | 11 | Citrine | Citrine, or Yellow Tertiary 19 | | | | |
-| Blue .<br>Red . | : | 8}<br>5} 1 | Purple .<br>Orange . | | | 13 | Russet | , or Red Te | rtiore | | 91 | |
-| Red .<br>Yellow | ٠ | 3). ( | Orange . | | ٠ | 8 | ) | | | | | |
-| Blue .<br>Yellow | : | 81 | Green | | | 11 | Oliva | or Blue Ter | tion <b>-</b> | | 91 | |
-| Blue .<br>Red . | : | 8} | Purple . | | | 13 | Olive, or Blue Tertiary . | | | | | |
+| Red .
+Yellow | : | 5} | Drange . | | | 8 | ) | ** 11 | m | | | |
+| Blue .
+Yellow | : | 8} | Orange .
+Groen . | | | 11 | Citrine | Citrine, or Yellow Tertiary 19 | | | | |
+| Blue .
+Red . | : | 8}
+5} 1 | Purple .
+Orange . | | | 13 | Russet | , or Red Te | rtiore | | 91 | |
+| Red .
+Yellow | ٠ | 3). ( | Orange . | | ٠ | 8 | ) | | | | | |
+| Blue .
+Yellow | : | 81 | Green | | | 11 | Oliva | or Blue Ter | tion - | | 91 | |
+| Blue .
+Red . | : | 8} | Purple . | | | 13 | Olive, or Blue Tertiary . | | | | | |
 
 #### back
 
@@ -3016,10 +3043,16 @@ back
 | Green. 0 0 0 0 0 0 0 0 | harmonises with | Russet. 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 |
 | Orange. 0 0 0 0 0 0 0 | harmonises with | Olive. 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 |
 
-| Red.<br>Blue. | 000 | 00 | } Crimson | harmonises with | Yellow-<br>Green- | {<br>0000 | 000 | Yellow<br>Blue. |
+| Red.
+Blue. | 000 | 00 | } Crimson | harmonises with | YellowGreen- | {
+0000 | 000 | Yellow
+Blue. |
 |-----------------|-----|----|---------------------------------------------|-----------------|-------------------|-----------|-----|------------------|
-| | | | | harmonises with | 32.4 | | 000 | Yellow.<br>Blue. |
-| Red.<br>Blue. O | 000 | 00 | $\begin{cases} Red - \\ Purple \end{cases}$ | harmonises with | Green- S | | 000 | Yellow.<br>Blue. |
+| | | | | harmonises with | 32.4 | | 000 | Yellow.
+Blue. |
+| Red.
+Blue. O | 000 | 00 | $\begin{cases} Red - \\ Purple \end{cases}$ | harmonises with | Green- S | | 000 | Yellow.
+Blue. |
 
 ## ![](_page_304_Figure_0.jpeg)
 
@@ -3716,12 +3749,12 @@ CASSELL, PETTER, GALPIN & CO.'S COMPLETE CATALOGUE, containing a List of Several
  - FOOTNOTES:
 - CHAPTER IV.
 
-- <u>DECORATION OF BUILDINGS. DIVISION I.—GENERAL</u> CONSIDERATIONS—CEILINGS.
+- DECORATION OF BUILDINGS. DIVISION I.—GENERAL CONSIDERATIONS—CEILINGS.
 - DIVISION II.—DECORATIONS OF WALLS.
 - CHAPTER V.
  - CARPETS.
 - CHAPTER VI.
- - <u>CURTAIN MATERIALS, HANGINGS, AND WOVEN</u> FABRICS GENERALLY.
+ - CURTAIN MATERIALS, HANGINGS, AND WOVEN FABRICS GENERALLY.
 - CHAPTER VII.
  - DIVISION I.
  - DIVISION II.

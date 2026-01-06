@@ -1,13 +1,8 @@
 ---
-title: Police Behavior a Sociological Perspective Police Behavior a Sociological Pers
-date: 2025
-author: Richard J. Lundman
-tags:
-  - organizing
-  - tenants
-  - rent
-  - police
-  - prisons
+title: "Police Behavior a Sociological Perspective Police Behavior a Sociological Pers"
+author: "Richard J. Lundman"
+date: "2025"
+category: "abolition"
 ---
 
 # Police Behavior a Sociological Perspective Police Behavior a Sociological Pers

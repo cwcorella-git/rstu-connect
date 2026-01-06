@@ -1,13 +1,8 @@
 ---
-title: Escape From Childhood - John Holt
-date: 2025
-author: John Holt
-tags:
-  - organizing
-  - strikes
-  - unions
-  - housing
-  - rent
+title: "Escape From Childhood - John Holt"
+author: "John Holt"
+date: "2025"
+category: "housing"
 ---
 
 # Escape From Childhood John Holt Undifferentiated John Caldwell Holt John Holt Se

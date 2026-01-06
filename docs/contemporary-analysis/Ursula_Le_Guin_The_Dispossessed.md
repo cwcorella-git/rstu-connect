@@ -1,3 +1,8 @@
+---
+title: "*Ursula K. Le Guin*"
+category: "contemporary-analysis"
+---
+
 WINNER OF THE HUGO AND NEBULA AWARDS, THE WORLD FANTASY AWARD, AND THE NATIONAL BOOK AWARD AN ASTONISHING TALE OF ONE MAN'S SEARCH FOR UTOPIA
 
 # *Ursula K. Le Guin*
@@ -10,11 +15,11 @@ WINNER OF THE HUGO AND NEBULA AWARDS, THE WORLD FANTASY AWARD, AND THE NATIONAL 
 
 ## *For the partner*
 
-### <u>anarres</u>
+### anarres
 
 ![](_page_3_Picture_1.jpeg)
 
-### <u>urras</u>
+### urras
 
 ![](_page_4_Picture_1.jpeg)
 
@@ -335,9 +340,9 @@ It was not like any human face. It was as long as his arm, and ghastly white. Br
 
 The amenities lasted several hours. He never could remember them clearly afterward. He was propelled from the small dark box of the car into a huge bright box full of people—hundreds of people, under a golden ceiling hung with crystal lights. He was introduced to all the people. They were all shorter than he was, and bald. The few women
 
-## <sup>&</sup>quot;Donkey, wasn't it?"
+## &quot;Donkey, wasn't it?"
 
-## <sup>&</sup>quot;An animal?"
+## &quot;An animal?"
 
 there were bald even on their heads; he realized at last that they must shave off all their hair, the very fine, soft, short body hair of his race, and the head hair as well. But they replaced it with marvelous clothing, gorgeous in cut and color, the women in full gowns that swept the floor, their breasts bare, their waists and necks and heads adorned with jewelry and lace and gauze, the men in trousers and coats or tunics of red, blue, violet, gold, green, with slashed sleeves and cascades of lace, or long gowns of crimson or dark green or black that parted at the knee to show the white stockings, silver-gartered. Another Iotic word floated into Shevek's head, one he had never had a referent for, though he liked the sound of it: "splendor." These people had splendor. Speeches were made. The President of the Senate of the Nation of A-Io, a man with strange, cold eyes, proposed a toast: "To the new era of brotherhood between the Twin Planets, and to the harbinger of that new era, our distinguished and most welcome guest, Dr. Shevek of Anarres!" The Chancellor of the University talked to him charmingly, the First Director of the nation talked to him seriously, he was introduced to ambassadors, astronauts, physicists, politicians, dozens of people, all of whom had long titles and honorifics both before and after their names, and they talked to him, and he answered them, but he had no memory later of what anyone had said, least of all himself. Very late at night he found himself with a small group of men walking in the warm rain across a large park or square. There was the springy feeling of live grass underfoot; he recognized it from having walked in the Triangle Park in Abbenay. That vivid memory and the cool vast touch of the night wind awakened him. His soul came out of hiding.
 
@@ -777,9 +782,9 @@ He worked now in a planting crew. The trucks had come down from Northeast full o
 
 When they were done, the fifty crews who had worked the second year of the project drove away in the flatbed trucks, and they looked back as they went. They saw what they had done. There was a mist of green, very faint, on the pallid curves and terraces of the desert. On the dead land lay, very lightly, a veil of life. They cheered, sang, shouted from truck to truck. Tears came into Shevek's eyes. He thought, *She brings the green leaf from the stone*. . . . Gimar had been posted back to Southrising a long time ago. "What are you making faces about?" Beshun asked him, squeezing next to him as the truck jounced and running her hand up and down his hard, dust-whitened arm.
 
-<sup>&</sup>quot;Women," Vokep said, in the truck depot in Tin Ore, Southwest. "Women think they own you. No woman can really be an Odonian."
+&quot;Women," Vokep said, in the truck depot in Tin Ore, Southwest. "Women think they own you. No woman can really be an Odonian."
 
-## <sup>&</sup>quot;Odo herself—?"
+## &quot;Odo herself—?"
 
 "Theory. And no sex life after Asieo was killed, right? Anyhow they're always exceptions. But most women, their only relationship to a man is *having.* Either owning or being owned." '
 
@@ -1137,7 +1142,7 @@ Shevek looked blank. "Well, we . . . I don't know. Perhaps our woes are inescapa
 
 Shevek pursued his reading. One of the journals was in a language he did not know, and one in a different alphabet altogether. The one was from Thu, Pae explained, and the other from Benbili, a nation in the western hemisphere. The paper from Thu was well printed and sober in format; Pae explained that it was a government publication. "Here in A-Io, you see, educated people get their news from the telefax, and radio and television, and the weekly reviews. These papers are read by the lower classes almost exclusively—written by semiliterates for semiliterates, as you can see. We have complete freedom of the press in A-Io, which inevitably means we get a lot of trash. The Thuvian paper is much better written, but it reports only those facts which the Thuvian Central Presidium wants reported. Censorship is absolute, in Thu. The state is all, and all for the state. Hardly the place for an Odonian, eh, sir?"
 
-## <sup>&</sup>quot;And this paper?"
+## &quot;And this paper?"
 
 "I really have no idea. Benbili's a backward sort of country. Always having revolutions."
 
@@ -1546,11 +1551,11 @@ The aide shrugged. "All right," she said, and went on.
 
 Most young Anarresti felt that it was shameful to be ill: a result of their society's very successful prophylaxy, and also perhaps a confusion arising from the analogic use of the words "healthy" and "sick." They felt illness to be a crime, if an involuntary one. To yield to the criminal impulse, to pander to it by taking pain relievers, was
 
-## <sup>&</sup>quot;What's that?"
+## &quot;What's that?"
 
-## <sup>&</sup>quot;Bring down the fever."
+## &quot;Bring down the fever."
 
-## <sup>&</sup>quot;I don't need it."
+## &quot;I don't need it."
 
 immoral. They fought shy of pills and shots. As middle age and old age came on, most of them changed their view. The pain got worse than the shame. The aide gave the old men in Ward Two their medicine, and they joked with her. Shevek watched with dull incomprehension.
 
@@ -1560,9 +1565,9 @@ Later on there was a woman who held a cup of water for him, but he shook so much
 
 A long time later, he was awake. He could breathe. He was perfectly well. Everything was all right. He felt disinclined to move. To move would disturb the perfect, stable moment, the balance of the world. The winter light along the ceiling was beautiful beyond expression. He lay and watched it. The old men down the ward were laughing together, old husky cackling laughs, a beautiful sound. The woman came in and sat down by his cot. He looked at her and smiled.
 
-## <sup>&</sup>quot;How do you feel?"
+## &quot;How do you feel?"
 
-## <sup>&</sup>quot;Newborn. Who are you?"
+## &quot;Newborn. Who are you?"
 
 ## She also smiled. "The mother."
 
@@ -2044,23 +2049,23 @@ He looked at Room 46 with ironic wonder. "Shev, you live like a rotten Urrasti p
 
 "How are your thoughts?" asked Bedap, putting a hand on the notebooks and looking at Shevek under his brows. Bedap had small, rather squinting eyes, a strong face, a thickset body. He bit his fingernails, and in years of doing so had reduced them to mere strips across his thick, sensitive fingertips.
 
-## <sup>&</sup>quot;That isn't code, it's Iotic."
+## &quot;That isn't code, it's Iotic."
 
-<sup>&</sup>quot;You've learned Iotic? Why do you write in it?"
+&quot;You've learned Iotic? Why do you write in it?"
 
-<sup>&</sup>quot;Because nobody on this planet can understand what I'm saying. Or wants to. The only one who did died three days ago."
+&quot;Because nobody on this planet can understand what I'm saying. Or wants to. The only one who did died three days ago."
 
-## <sup>&</sup>quot;Sabul's dead?"
+## &quot;Sabul's dead?"
 
-<sup>&</sup>quot;No, Gvarab. Sabul isn't dead. Fat chance!"
+&quot;No, Gvarab. Sabul isn't dead. Fat chance!"
 
-## <sup>&</sup>quot;What's the trouble?"
+## &quot;What's the trouble?"
 
-<sup>&</sup>quot;The trouble with Sabul? Half envy, the other half incompetence."
+&quot;The trouble with Sabul? Half envy, the other half incompetence."
 
-<sup>&</sup>quot;I thought his book on causality was supposed to be first-rate. You said so."
+&quot;I thought his book on causality was supposed to be first-rate. You said so."
 
-<sup>&</sup>quot;I thought so, till I read the sources. They're all Urrasti ideas. Not new ones, either. He hasn't had a thought of his own for twenty years. Or a bath."
+&quot;I thought so, till I read the sources. They're all Urrasti ideas. Not new ones, either. He hasn't had a thought of his own for twenty years. Or a bath."
 
 "No good," said Shevek, sitting down on the bed platform. "I'm in the wrong field."
 
@@ -2146,11 +2151,11 @@ Bedap seized his advantage relentlessly. "It's always easier not to think for on
 
 "But it's not government, Dap! The experts and the old hands are going to manage any crew or syndicate; they know the work best. The work has to get done, after all! As for PDC, yes, it might become a hierarchy, a power structure, if it weren't organized to prevent exactly that. Look how it's set up! Volunteers, selected by lot; a year of training; then four years as a Listing; then out. Nobody could gain power, in the archist sense, in a system like that, with only four years to do it in."
 
-<sup>&</sup>quot;Some stay on longer than four years."
+&quot;Some stay on longer than four years."
 
-<sup>&</sup>quot;Advisors? They don't keep the vote."
+&quot;Advisors? They don't keep the vote."
 
-<sup>&</sup>quot;Votes aren't important There are people behind the scenes—"
+&quot;Votes aren't important There are people behind the scenes—"
 
 "Come on! That's sheer paranoia! Behind the scenes—how? What scenes? Anybody can attend any PDC meeting, and if he's an interested syndic, he can debate and vote! Are you trying to pretend that we have *politicians* here?" Shevek was furious with Bedap; his prominent ears were scarlet, his voice had got loud. It was late, not a light showing across the quadrangle. Desar, in Room 45, knocked on the wall for quiet.
 
@@ -2371,11 +2376,11 @@ When Shevek and Takver came down from the mountains, they moved into a double ro
 
 The move was not complicated, either. Shevek brought a box of papers, his winter boots, and the orange blanket. Takver had to make three trips. One was to the district clothing depository to get them both a new suit, an act which she felt obscurely but strongly was essential to
 
-## <sup>&</sup>quot;Yes. The bond. The chance."
+## &quot;Yes. The bond. The chance."
 
-## <sup>&</sup>quot;Now—for life?"
+## &quot;Now—for life?"
 
-## <sup>&</sup>quot;Now and for life."
+## &quot;Now and for life."
 
 beginning their partnership. Then she went to her old dormitory, once for her clothes and papers, and again, with Shevek, to bring a number of curious objects: complex concentric shapes made of wire, which moved and changed slowly and inwardly when suspended from the ceiling. She had made these with scrap wire and tools from the craftsupply depot, and called them Occupations of Uninhabited Space. One of the room's two chairs was decrepit, so they took it by a repair shop, where they picked up a sound one. They were then furnished. The new room had a high ceiling, which made it airy and gave plenty of space for the Occupations. The domicile was built on one of Abbenay's low hills, and the room had a corner window that caught the afternoon sunlight and gave a view of the city, the streets and squares, the roofs, the green of parks, the plains beyond.
 
@@ -3374,15 +3379,15 @@ There was a pause.
 
 "You'll have to realize, Shevek, that a mere conviction of rightness isn't self-justifying. You worked hard on the book, I know. I worked hard editing it, too, trying to make clear that it wasn't just an irresponsible attack on Sequency theory, but had positive aspects. But if other physicists don't see value in your work, then you've got to begin looking at the values you hold and seeing where the discrepancy lies. If it means nothing to other people, what's the good of it? What's its function?"
 
-## <sup>&</sup>quot;No reviews of the *Principles?"*
+## &quot;No reviews of the *Principles?"*
 
-<sup>&</sup>quot;No." Sabul's tone was surly, more like himself.
+&quot;No." Sabul's tone was surly, more like himself.
 
-## <sup>&</sup>quot;No letters?"
+## &quot;No letters?"
 
-## <sup>&</sup>quot;No."
+## &quot;No."
 
-## <sup>&</sup>quot;That's odd."
+## &quot;That's odd."
 
 "I'm a physicist, not a functions analyst," Shevek said amiably.
 
@@ -3617,9 +3622,9 @@ Coming in with the breakfast tray, Efor found him lying half-dressed on the bed,
 
 "No!"
 ## 
-## <sup>&</sup>quot;Sure, sir?"
+## &quot;Sure, sir?"
 
-<sup>&</sup>quot;No! Don't let anybody in here. Say I am ill, Efor."
+&quot;No! Don't let anybody in here. Say I am ill, Efor."
 
 "Then they'll fetch the doctor sure. Can say you're still working, sir. They like that."
 
@@ -4005,13 +4010,13 @@ They each had a long swig from the bottle. The water had a flat, alkaline taste,
 
 "By damn, I agree with that! Now that's what some don't see. But the way I see it, if you copulate around enough in your teens, that's when you get the most out of it, and also you find out that it's all pretty much the same damn thing. And a good thing, too! But still, what's different isn't the copulating; it's the other person. And eighteen years is just a start, all right, when it comes to figuring out *that* difference. At least, if it's a woman you're trying to figure out. A woman won't let on to being so puzzled by a man, but maybe they bluff. . . . Anyhow, that's the pleasure of it. The puzzles and the bluffs and the rest of it. The variety. Variety doesn't come with just moving around. I was all over Anarres, young. Drove and loaded in every Division. Must have known a hundred girls in different towns. It got boring. I came back here, and I do this run every three decads year in year out through this same desert where you can't tell one sandhill from the next and it's all the same for three thousand kilos whichever way you look, and go home to the same partner—and I never been bored once. It isn't changing around from place to place that keeps you lively. It's getting time on your side. Working with it**,** not against it."
 
-<sup>&</sup>quot;That's it," said the passenger.
+&quot;That's it," said the passenger.
 
-## <sup>&</sup>quot;Where's the partner?"
+## &quot;Where's the partner?"
 
-## <sup>&</sup>quot;In Northeast. Four years now."
+## &quot;In Northeast. Four years now."
 
-<sup>&</sup>quot;That's too long," the driver said. "You should have been posted together."
+&quot;That's too long," the driver said. "You should have been posted together."
 
 ## "Not where I was."
 
@@ -4159,7 +4164,7 @@ They walked the child through the windy streets to the learning-center dormitory
 
 "It hasn't been so bad here, not the way it was in the south," she said, looking up into his face as they left the dormitory. "Children were fed, here. Not very well, but enough. A community here can grow food. If nothing else there's the scrub holum. You can gather wild holum seeds and pound them for meal. Nobody starved here. But I did spoil Sadik. I nursed her till she was three, of course, why not when there was nothing good to wean her to! But they disapproved, at the research station at Rolny. They wanted me to put her in the nursery there full time. They said I was being propertarian about the child and not contributing full strength to the social effort in the crisis. They were right, really. But they were so righteous. None of them understood about being lonely. They were all groupers, no characters. It was the women who nagged me about nursing. Real body profiteers. I stuck it out there because the food was good—trying out the algaes to see if they were palatable, sometimes you got quite a lot over standard rations, even if it did taste like glue—until they could replace me with somebody who fitted in better. Then I went to Fresh Start for about ten decads. That was winter, two years ago, that long time the mail didn't get through, when things were so bad where you were. At Fresh Start I saw this posting listed, and came here. Sadik stayed with me in the dom till this autumn. I still miss her. The room's so silent."
 
-## <sup>&</sup>quot;Isn't there a roommate?"
+## &quot;Isn't there a roommate?"
 
 "Sherut, she's very nice, but she works night shift at the hospital. It was time Sadik went, it's good for her living with the other children. She was getting shy. She was very good about going there, very stoical. Little children are stoical. They cry over bumps, but they take the big things as they come, they don't whine like so many adults."
 
@@ -4223,15 +4228,15 @@ When they were alone, evenings, Sadik was often the subject of their talk. Takve
 
 "Do you remember Tirin?" he asked one night. It was cold; winter had arrived, and the room, the farthest from the domicile furnace, never got very warm, even with the register wide open. They had taken the bedding from both platforms and were well cocooned together on the platform nearer the register. Shevek was wearing a very old, muchwashed shirt to keep his chest warm, as he liked to sit up in bed. Takver, wearing nothing, was under the blankets from the ears down. "What became of the orange blanket?" she said.
 
-## <sup>&</sup>quot;What a propertarian! I left it."
+## &quot;What a propertarian! I left it."
 
-<sup>&</sup>quot;To Mother Envy? How sad. I'm not a propertarian. I'm just sentimental. It was the first blanket we slept under."
+&quot;To Mother Envy? How sad. I'm not a propertarian. I'm just sentimental. It was the first blanket we slept under."
 
-<sup>&</sup>quot;No, it wasn't. We must have used a blanket up in the Ne Theras."
+&quot;No, it wasn't. We must have used a blanket up in the Ne Theras."
 
-<sup>&</sup>quot;If we did, I don't remember it." Takver laughed. "Who did you ask about?"
+&quot;If we did, I don't remember it." Takver laughed. "Who did you ask about?"
 
-## <sup>&</sup>quot;Tirin."
+## &quot;Tirin."
 
 ## "Don't remember."
 

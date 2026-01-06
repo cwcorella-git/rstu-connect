@@ -1,3 +1,8 @@
+---
+title: "**Understanding Emotion**"
+category: "contemporary-analysis"
+---
+
 ### CHAPTER 18
 
 # **Understanding Emotion**

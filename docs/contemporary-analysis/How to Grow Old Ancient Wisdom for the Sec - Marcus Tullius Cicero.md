@@ -1,3 +1,8 @@
+---
+title: "HOW TO GROW OLD"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 # HOW TO GROW OLD
@@ -349,7 +354,7 @@ He refused to put his reputation above the safety of Rome, so that now his glory
 
 #### CATO MAIOR DE SENECTUTE
 
-<sup>è</sup>E. Tarentum vero qua vigilantia, quo consilio recepit! cum quidem me audiente Salinatori, qui amisso oppido fugerat in arcem, glorianti atque ita dicenti; 'Mea opera, Quinte Fabi, Tarentum recepisti,'
+èE. Tarentum vero qua vigilantia, quo consilio recepit! cum quidem me audiente Salinatori, qui amisso oppido fugerat in arcem, glorianti atque ita dicenti; 'Mea opera, Quinte Fabi, Tarentum recepisti,'
 
 'Certe,' inquit ridens, 'nam nisi tu amisisses numquam recepissem.' Nec vero in armis praestantior quam in toga; qui consul iterum Spurio Carvilio conlega quiescente Gaio Flaminio tribuno plebis, quoad potuit res-titit agrum Picentem et Gallicum viritim contra senatus auctoritatem dividenti; au-gurque cum esset, dicere ausus est optimis auspiciis ea geri, quae pro rei publicae salute gererentur, quae contra rem publicam ferrentur, contra auspicia ferri.
 

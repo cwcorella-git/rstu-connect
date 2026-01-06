@@ -1,3 +1,8 @@
+---
+title: "## **Coal River Mountain Watch Workers Ratify First Collective Agreement**"
+category: "environmental-justice"
+---
+
 ## **Coal River Mountain Watch Workers Ratify First Collective Agreement**
 
 ## **Date:** Fri, 01/28/2022 - 00:00

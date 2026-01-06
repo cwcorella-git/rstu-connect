@@ -1,3 +1,8 @@
+---
+title: "Prince of Persia 2"
+category: "contemporary-analysis"
+---
+
 ## JEFF CHARUAT
 
 # Prince of Persia 2
@@ -662,7 +667,7 @@ The Prince leaves Persia as he arrived -- a ragged stowaway on a merchant ship: 
 
 Prince's dream: Queen speaks to Prince from a magnificent marble hall. The hall has a distinctive architectural look that is very different from the Sultan's palace.
 
-## <sup>&</sup>quot;Come to me!"
+## &quot;Come to me!"
 
 ## ![](_page_44_Picture_1.jpeg)
 

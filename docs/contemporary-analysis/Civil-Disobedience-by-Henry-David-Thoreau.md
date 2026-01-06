@@ -1,3 +1,8 @@
+---
+title: "## *Civil Disobedience*"
+category: "contemporary-analysis"
+---
+
 ## *Civil Disobedience*
 
 ## **By Henry David Thoreau**

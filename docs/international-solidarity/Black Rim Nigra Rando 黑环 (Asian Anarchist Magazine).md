@@ -1,3 +1,8 @@
+---
+title: "**Black Rim / Nigra Rando / 黑环 (Asian Anarchist Magazine)**"
+category: "international-solidarity"
+---
+
 # **Black Rim / Nigra Rando / 黑环 (Asian Anarchist Magazine)**
 
 ## **Author:** Killing King Abacus

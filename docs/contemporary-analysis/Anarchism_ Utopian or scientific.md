@@ -1,3 +1,8 @@
+---
+title: "**Anarchism: Utopian or scientific**"
+category: "contemporary-analysis"
+---
+
 ## **Wayne Price**
 
 # **Anarchism: Utopian or scientific**

@@ -1,3 +1,8 @@
+---
+title: "Copy of Answers to Devolver"
+category: "contemporary-analysis"
+---
+
 # Copy of Answers to Devolver
 
 If you were to make your dream game, what would the budget be and what would you want to include in the final game?

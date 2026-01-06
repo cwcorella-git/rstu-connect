@@ -1,3 +1,8 @@
+---
+title: "**Listen, Marxist!**"
+category: "contemporary-analysis"
+---
+
 #### **Murray Bookchin**
 
 # **Listen, Marxist!**
@@ -253,7 +258,7 @@ During periods of heightened activity, on the other hand, nothing prevents affin
 
 [\[8\\*\]](#page-8-0) The attempt to describe Marx's immiseration theory in international terms instead of national (as Marx did) is sheer subterfuge. In the first place, this theoretical legerdemain simply tries to sidestep the question of why immiseration has not occurred within the industrial strongholds of capitalism, the only areas which form a technologically adequate point of departure for a classless society. If we are to pin our hopes on the colonial world as "the proletariat," this position conceals a very real danger: genocide. America and her recent ally Russia have all the technical means to bomb the underdeveloped world into submission. A threat lurks on the historical horizon—the development of the United States into a truly fascist imperium of the nazi type. It is sheer rubbish to say that this country is a "paper tiger." It is a thermonuclear tiger and the American ruling class, lacking any cultural restraints, is capable of being even more vicious than the German.
 
-[\[9\\*\]](#page-8-1) Lenin sensed this and described "socialism" as "nothing but state capitalist monopoly made to benefi<sup>t</sup> the whole people. ["\[2\]](#page-34-8) This is an extraordinary statement if one thinks out its implications, and a mouthful of contradictions.
+[\[9\\*\]](#page-8-1) Lenin sensed this and described "socialism" as "nothing but state capitalist monopoly made to benefit the whole people. ["\[2\]](#page-34-8) This is an extraordinary statement if one thinks out its implications, and a mouthful of contradictions.
 
 [\[10\\*\]](#page-10-0) On this score, the Old Left projects its own neanderthal image on the American worker. Actually this image more closely approximates the character of the union bureaucrat or the Stalinist commissar.
 

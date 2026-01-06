@@ -1,3 +1,8 @@
+---
+title: "## **Revolution - an unfinished business**"
+category: "contemporary-analysis"
+---
+
 ## **Revolution - an unfinished business**
 
 ## **Date:** Unknown

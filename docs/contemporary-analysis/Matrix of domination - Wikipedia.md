@@ -1,3 +1,8 @@
+---
+title: "**Matrix of domination**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Matrix_of_domination)
 
 # **Matrix of domination**

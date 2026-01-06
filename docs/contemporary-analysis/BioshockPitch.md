@@ -1,3 +1,8 @@
+---
+title: "**Bio Shock will:**"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Figure_0.jpeg)
 
 This document is intended for privileged exchanges only.
@@ -146,7 +151,7 @@ In System Shock 2, Irrational allowed you to manipulate the environment in a few
 
 By hacking into special terminals distributed around the mysterious complex, players are able to gain access to the environmental controls. Using these controls, the player will be able to change the very nature of the game space. Imagine:
 
-- Increase/decrease oxygen content Increasing the O<sub>2</sub> in an area causes explosives to have larger blast radius and deal more damage.
+- Increase/decrease oxygen content Increasing the O2 in an area causes explosives to have larger blast radius and deal more damage.
 - Magnetize floor Causes robots to move more slowly and metal projectiles to be attracted to the floor. Grenades now become sticky bombs.
 - Ionize the air Increases range and damage of electrical weapons.
 - Gravitational field manipulation Increase or decrease the gravitational field in the area. Decreased gravity allows players to jump higher and projectiles fly farther before falling to the ground. Increased gravity slows down AIs and the player.
@@ -221,7 +226,7 @@ Our interface must fulfill two goals:
 
 | Change Weapons | Mouse wheel | Y button |
 |---------------------|--------------|--------------|
-| Sniper Zoom | <b>∅⊗</b> \$ | Left Trigger |
+| Sniper Zoom | ∅⊗ \$ | Left Trigger |
 ## | Display Goals/Pause | -200 | Start Button |
 
 # **The Interface Commandments**

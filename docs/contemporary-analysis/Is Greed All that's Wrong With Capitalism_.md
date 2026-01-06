@@ -1,3 +1,8 @@
+---
+title: "## James Herod"
+category: "contemporary-analysis"
+---
+
 ## James Herod
 
 ## Is Greed All that's Wrong With Capitalism?

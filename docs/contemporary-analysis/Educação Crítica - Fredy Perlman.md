@@ -1,3 +1,8 @@
+---
+title: "**Educação Crítica - Fredy Perlman**"
+category: "contemporary-analysis"
+---
+
 # **Educação Crítica - Fredy Perlman**
 
 ## **Date:** Unknown

@@ -1,3 +1,8 @@
+---
+title: "## **European syndicalism and the IWW**"
+category: "labor"
+---
+
 ## **European syndicalism and the IWW**
 
 ## **Date:** Unknown
@@ -51,10 +56,19 @@ The I. W. W. stands unqualifiedly for the abolition of the wage system and the i
 | 9 years 4 months ago |
 | In reply to Welcomebylibcom.org |
 | syndicalist |
-| It would be good to transcribe Olay's original letter. I read that many moons ago in the<br>library. Granted, I will take Chaplin with a certain grain of salt. |
-| The I. W. W. position is, and always has been, that syndicalist unions in other countries, when<br>confronted with a similarly ripe industrial and technological development, be forced to these<br>conditions in theory and practice just as the I. W. W. has been forced to conform in the U. S. A.<br>To expect us to adopt or agree with, for use in our immediate or ultimate struggle, the policies<br>of the Spanish syndicalists is almost as foolish as to ask us to adopt the policies and tactics<br>which brought Communist capitalism in Russia. Similarly a General Strike, as I clearly proved<br>in the new I. W. W. pamphlet, would require different tactics and organizational support and<br>coordinated effort than in any Continental or South American country. |
+| It would be good to transcribe Olay's original letter. I read that many moons ago in the
+library. Granted, I will take Chaplin with a certain grain of salt. |
+| The I. W. W. position is, and always has been, that syndicalist unions in other countries, when
+confronted with a similarly ripe industrial and technological development, be forced to these
+conditions in theory and practice just as the I. W. W. has been forced to conform in the U. S. A.
+To expect us to adopt or agree with, for use in our immediate or ultimate struggle, the policies
+of the Spanish syndicalists is almost as foolish as to ask us to adopt the policies and tactics
+which brought Communist capitalism in Russia. Similarly a General Strike, as I clearly proved
+in the new I. W. W. pamphlet, would require different tactics and organizational support and
+coordinated effort than in any Continental or South American country. |
 | Pamphlet under discussion: https://libcom.org/library/general-strike-ralph-chaplin|
-| Reminds me of the De Leonists predicting that one day Stalin would be taking orders from the<br>SLP. |
+| Reminds me of the De Leonists predicting that one day Stalin would be taking orders from the
+SLP. |
 | syndicalist |
 | 9 years 4 months ago |
 ## | In reply to Welcomebylibcom.org |
@@ -70,9 +84,12 @@ The I. W. W. stands unqualifiedly for the abolition of the wage system and the i
 | syndicalist |
 | 9 years 4 months ago |
 | In reply to Welcomebylibcom.org |
-| I figured Chaplin was referring to the 1933 IWMA (IWA) pamphlet The International Working<br>Mens Association I. W. M. A: Its policy, it aims, its principles See 3rd para page 6 for Chaplin's<br>referencehttps://libcom.org/files/Scan1265.pdf|
+| I figured Chaplin was referring to the 1933 IWMA (IWA) pamphlet The International Working
+Mens Association I. W. M. A: Its policy, it aims, its principles See 3rd para page 6 for Chaplin's
+referencehttps://libcom.org/files/Scan1265.pdf|
 | Chaplin wrote: |
-| According to an International Working-Men's Association's publication, (1933) the Spanish<br>syndicalists have only within the last few months changed fom the trade to the industrial form |
+| According to an International Working-Men's Association's publication, (1933) the Spanish
+syndicalists have only within the last few months changed fom the trade to the industrial form |
 
 of organisation.
 
@@ -86,7 +103,10 @@ All the Conventions of the International insist upon the necessity of reorganizi
 | Juan Conatz |
 | 9 years 4 months ago |
 | In reply to Welcomebylibcom.org |
-| So, I think that this article/editorial is a response to "The I. W. W. and anarcho-syndicalism"<br>authored by Olay under the pen name Onofre Dallas and which appeared in the January 16,<br>1933 issue of Freedom(the American one, not the UK one). I don't have access to this<br>publication and am having a hard time even finding any institutions that have it. |
+| So, I think that this article/editorial is a response to "The I. W. W. and anarcho-syndicalism"
+authored by Olay under the pen name Onofre Dallas and which appeared in the January 16,
+1933 issue of Freedom(the American one, not the UK one). I don't have access to this
+publication and am having a hard time even finding any institutions that have it. |
 
 syndicalist
 

@@ -1,3 +1,8 @@
+---
+title: "Before you get stuck in, why not sign up...?"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 # Before you get stuck in, why not sign up...?

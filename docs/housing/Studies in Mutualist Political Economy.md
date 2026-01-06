@@ -1,16 +1,10 @@
 ---
-title: Studies In Mutualist Political Economy
-slug: Studies in Mutualist Political Economy
-reconversion_status: ready_for_reconversion
-author: Kevin A. Carson
-date: '2004'
-tags:
-  - housing
-  - tenants
-  - strikes
-  - unions
-  - rent
+title: "Studies In Mutualist Political Economy"
+author: "Kevin A. Carson"
+date: "2004"
+category: "housing"
 ---
+
 # **Kevin Carson**
 
 # **Studies in Mutualist Political Economy**
@@ -588,7 +582,7 @@ One way of illustrating what is meant when one speaks of contexts in which deman
 
 To the extent, per contra, that human activity is assigned a major role in the production process and reproducible inputs... replace scarce natural objects, the essentials of the economic problem become different....
 
-But if a formal mode of determination in terms of scarcityrelations... can be constructed, and can convey some information, in a situation of naturally-determined means or inputs, why should it not be able to do so in analogous situations where any set of <sup>n</sup> means or inputs, although not dependent on natural limitations, are necessarily determined as to their supplies in some other way? .... Indeed, this is quite possible; but... subject to the restrictive condition that the set of n means or inputs is already given as datum. The restriction is a large one. It excludes from consideration all situations in which these supplies are likely to change (i.e. to change as a "feedback" effect of their prices), and analysis thus restricted can make no pronouncement as to why and how these changes occur or as to their effects—for which reason we spoke of the situations to which such a theory can apply as "quasi-shortperiod situations".[\[105\]](#page-283-38)
+But if a formal mode of determination in terms of scarcityrelations... can be constructed, and can convey some information, in a situation of naturally-determined means or inputs, why should it not be able to do so in analogous situations where any set of n means or inputs, although not dependent on natural limitations, are necessarily determined as to their supplies in some other way? .... Indeed, this is quite possible; but... subject to the restrictive condition that the set of n means or inputs is already given as datum. The restriction is a large one. It excludes from consideration all situations in which these supplies are likely to change (i.e. to change as a "feedback" effect of their prices), and analysis thus restricted can make no pronouncement as to why and how these changes occur or as to their effects—for which reason we spoke of the situations to which such a theory can apply as "quasi-shortperiod situations".[\[105\]](#page-283-38)
 
 In Political Economy and Capitalism, Dobb wrote in similar terms of the Austrian assumption that, "in any given set of conditions, the supply of such ultimate productive factors was fixed."[\[106\]](#page-283-39) He qualified this in a footnote by adding, "Strictly speaking, the Austrians did not assume, or need to assume, that the supply of basic factors of production was unchangeable: merely that the quantity of them was determined by conditions external to the market, and hence could be treated as independent."[\[107\]](#page-283-40) Nevertheless, the practical effect was that, "[b]eing limited by an unalterable (for the moment) scarcity, these factors, like any commodity, would acquire a price equal to the marginal service which they could render in production: these prices formed the constituent elements of cost."[\[108\]](#page-283-41) This required deliberately abstracting the "theory of value" of factors of production from cost, or any "characteristics affecting the supply."[\[109\]](#page-283-42)
 
@@ -3160,7 +3154,7 @@ But there is a whole cottage industry of obsessive anti-rightists devoted to pre
 
 There is, among libertarians of both left and right, a tendency to let largely aesthetic considerations stand in the way of cooperation. This is true equally of the libertarian socialists who automatically react with hostility to market anarchists, and of (for example) the right-libertarians who went ballistic over Michael Badnarik's friendly overtures to Green Party presidential candidate David Cobb.[\[778\]](#page-299-32) In my own polemical career, I have been simultaneously flamed as a "worthless commie looter" in anarcho-capitalist circles, and as a "goose-stepping, Rand-worshipping racist Nazi" in anarchist venues of the Starbucks-vandalizing circle-A variety, for expressing essentially the same ideas.
 
-Roderick Long defines libertarianism as "any political position that advocates <sup>a</sup> radical redistribution of power from the coercive state to voluntary associations of free individuals,"[\[779\]](#page-299-33) and divides libertarians into socialist, capitalist, and populist camps. In the nineteenth century, "it was fairly common for libertarians in different traditions to recognize a commonality of heritage and concern," a tendency largely lost in the twentieth century.[\[780\]](#page-299-34) He spends the rest of the article describing the onesided ideological perspective of each of the three libertarian camps, and calling for dialogue between them to correct these deficiencies.
+Roderick Long defines libertarianism as "any political position that advocates a radical redistribution of power from the coercive state to voluntary associations of free individuals,"[\[779\]](#page-299-33) and divides libertarians into socialist, capitalist, and populist camps. In the nineteenth century, "it was fairly common for libertarians in different traditions to recognize a commonality of heritage and concern," a tendency largely lost in the twentieth century.[\[780\]](#page-299-34) He spends the rest of the article describing the onesided ideological perspective of each of the three libertarian camps, and calling for dialogue between them to correct these deficiencies.
 
 One reason for the closer affinity between the libertarian traditions in the nineteenth century, perhaps, was that free market liberalism was still closer to its early radical roots. And a much larger segment of the free market movement still regarded itself, at the same time, as part of the working class movement. That Tucker, Labadie, Lum, and the rest of the Liberty circle fall into this category, goes without saying. The same goes for the Georgists. Even Herbert Spencer, who at times sounded like a modern-day vulgar apologist for capitalism, was a disciple of Thomas Hodgskin with decidedly squishy ideas on land and credit. The end of this commonality may have been hastened, as Shawn Wilbur has suggested, by the split in the anarchist movement between native American individualists and immigrant collectivists, symbolized by the polemical war between Tucker and Johann Most. In the aftermath of this split, the imported anarchism of Bakunin and Kropotkin became the anarchist mainstream, and the marginalized individualism of the Liberty group abandoned its socialist roots and fell under the sway of the capitalist Right.
 
@@ -4589,7 +4583,7 @@ Schumpeter. Translated by Heinz Norden. Introduction by Hert Hoselitz (New York:
 
 [\[695\]](#page-213-1) "Head to Head: M6 Toll Road," BBC News, December 9, 2003 [news.bbc.co.uk](http://news.bbc.co.uk/2/hi/uk_news/3303629.stm) Captured December 10, 2003
 
-[\[696\]](#page-214-0) "World Oil Supplies Running Out Faster than Expected," Oil and Gas Journal, August 12, 2002. See also George Monbiot, "Bottom of the Barrel," the Guardian, 2nd December 2003 [www.monbiot.com/](http://www.monbiot.com/) ; Colin J. Campbell and Jean H. Laherrère, "The End of Cheap Oil," Scientifi<sup>c</sup> American, March 1998. [news.bbc.co.uk](http://news.bbc.co.uk/1/hi/business/3777413.stm) Captured May 15, 2004.
+[\[696\]](#page-214-0) "World Oil Supplies Running Out Faster than Expected," Oil and Gas Journal, August 12, 2002. See also George Monbiot, "Bottom of the Barrel," the Guardian, 2nd December 2003 [www.monbiot.com/](http://www.monbiot.com/) ; Colin J. Campbell and Jean H. Laherrère, "The End of Cheap Oil," Scientific American, March 1998. [news.bbc.co.uk](http://news.bbc.co.uk/1/hi/business/3777413.stm) Captured May 15, 2004.
 
 [\[697\]](#page-214-1) Warren Johnson, Muddling Toward Frugality (San Francisco: Sierra Club Books, 1978).
 
@@ -4605,7 +4599,7 @@ Schumpeter. Translated by Heinz Norden. Introduction by Hert Hoselitz (New York:
 
 [\[703\]](#page-218-1) Ibid. 498.
 
-[\[704\]](#page-219-0) Paul Goodman, Like <sup>a</sup> Conquered Province (New York: Vintage Books, 1965) 357 (published under single cover with People or Personnel).
+[\[704\]](#page-219-0) Paul Goodman, Like a Conquered Province (New York: Vintage Books, 1965) 357 (published under single cover with People or Personnel).
 
 [\[705\]](#page-219-1) Paul Goodman, People or Personnel (New York: Vintage Books, 1963) 83–4 (published under single cover with Like a Conquered Province).
 
@@ -4661,7 +4655,7 @@ Schumpeter. Translated by Heinz Norden. Introduction by Hert Hoselitz (New York:
 
 [\[731\]](#page-226-3) Alfonso Chardy, "Reagan Aides and the 'Secret' Government" Miami Herald 5 July 1987 [www.totse.com](http://www.totse.com/en/conspiracy/the_new_world_order/scrtgovt.html) Captured April 15, 2001; see also Diana Reynolds, "The Rise of the National Security State: FEMA and the NSC" Covert Action Information Bulletin #33 (Winter 1990). Reproduced by The Public Eye [publiceye.org](http://publiceye.org/liberty/fema/Fema_1.htm) Captured April 15, 2001.
 
-[\[732\]](#page-226-4) Morales, "U. S. Military Civil Disturbance Planning"; Paul Rosenberg, The Empire Strikes Back: Police Repression of Protest From Seattle to L. A. L. A. Independent Media Center (August 13 2000) <http://www.r2kphilly.org/pdf/empire-strikes.pdf> Captured April 15, 2001; Alexander Cockburn, "The Jackboot State: The War Came Home and We're Losing It" Counterpunch (May 10 2000) [www.counterpunch.org](http://www.counterpunch.org/jackboot.html) Captured April 15, 2001.
+[\[732\]](#page-226-4) Morales, "U. S. Military Civil Disturbance Planning"; Paul Rosenberg, The Empire Strikes Back: Police Repression of Protest From Seattle to L. A. L. A. Independent Media Center (August 13 2000)  Captured April 15, 2001; Alexander Cockburn, "The Jackboot State: The War Came Home and We're Losing It" Counterpunch (May 10 2000) [www.counterpunch.org](http://www.counterpunch.org/jackboot.html) Captured April 15, 2001.
 
 [\[733\]](#page-226-5) "US Army Intel Units Spying on Activists" Intelligence Newsletter #381 (April 5, 2000)
 
@@ -4788,7 +4782,7 @@ Schumpeter. Translated by Heinz Norden. Introduction by Hert Hoselitz (New York:
  - [\[799\]](#page-262-2) Karl Hess, "Where Are the Specifics?" 2.
 - [\[800\]](#page-262-3) Roderick Long, "A Plea for Public Property" Formulations 5:3 (Spring 1998) [www.libertariannation.org](http://www.libertariannation.org/a/f53l1.html) Captured August 21, 2004.
 - [\[801\]](#page-262-4) Carlton Hobbs, "Common Property in Free Market Anarchism: A Missing Link" [http://](http://www.anti-state.com/article.php?article_id=362) [www.anti-state.com/article.php?article\\_id=362](http://www.anti-state.com/article.php?article_id=362) Captured August 21, 2004.
- - [\[802\]](#page-262-5) See his website, Mutualize!, at<http://www.geocities.com/vcmtalk/mutualize>
+ - [\[802\]](#page-262-5) See his website, Mutualize!, at
  - [\[803\]](#page-263-0) Proudhon, The Principle of Federation 45–7.
  - [\[804\]](#page-263-1) Proudhon, System of Economical Contradictions 232–3.
 - [\[805\]](#page-263-2) Benjamin Tucker, "Relation of the State to the Individual," Liberty, November 15, 1890, in Tucker, Instead of a Book 25.

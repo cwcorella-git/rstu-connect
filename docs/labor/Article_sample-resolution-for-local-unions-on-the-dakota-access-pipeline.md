@@ -1,11 +1,8 @@
 ---
-title: Sample Resolution For Local Unions On the Dakota Access Pipeline
-date: 2025
-author: Industrial Workers of the World
-tags:
-  - organizing
-  - unions
-  - labor
+title: "Sample Resolution For Local Unions On the Dakota Access Pipeline"
+author: "Industrial Workers of the World"
+date: "2025"
+category: "labor"
 ---
 
 # Sample Resolution For Local Unions On the Dakota Access Pipeline

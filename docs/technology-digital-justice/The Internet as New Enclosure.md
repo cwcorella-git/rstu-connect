@@ -1,3 +1,8 @@
+---
+title: "## **Crimeth Inc.**"
+category: "technology-digital-justice"
+---
+
 ## **Crimeth Inc.**
 
 ## **The Internet as New Enclosure**

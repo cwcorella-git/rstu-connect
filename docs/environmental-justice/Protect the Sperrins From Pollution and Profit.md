@@ -1,3 +1,8 @@
+---
+title: "## **Protect the Sperrins From Pollution and Profit**"
+category: "environmental-justice"
+---
+
 ## **Protect the Sperrins From Pollution and Profit**
 
 ## **Date:** Tue, 11/20/2018 - 20:55

@@ -1,3 +1,8 @@
+---
+title: "## **Albert Libertad**"
+category: "contemporary-analysis"
+---
+
 ## **Albert Libertad**
 
 ## **May Day**

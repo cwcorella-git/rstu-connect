@@ -1,13 +1,8 @@
 ---
-title: Police Powers Bill Preparing For Class War
-date: 2025
-author: Unknown
-tags:
-  - organizing
-  - rent
-  - police
-  - prisons
-  - labor
+title: "Police Powers Bill Preparing For Class War"
+author: "Unknown"
+date: "2025"
+category: "abolition"
 ---
 
 # Police Powers Bill Preparing For Class War

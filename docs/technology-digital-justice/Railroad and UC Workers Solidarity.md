@@ -1,17 +1,25 @@
+---
+title: "## **Railroad and UC Workers Solidarity**"
+category: "technology-digital-justice"
+---
+
 ## **Railroad and UC Workers Solidarity**
 
 ## **Date:** Tue, 12/06/2022 - 00:00
 
 | Source: https://ecology.iww.org/node/5282|
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Tags: railroad workers, Railroad Workers United (RWU), Joe Biden, union busting, class struggle,<br>green unionism, education workers, strikes, anti-capitalism, climate change |
+| Tags: railroad workers, Railroad Workers United (RWU), Joe Biden, union busting, class struggle,
+green unionism, education workers, strikes, anti-capitalism, climate change |
 | By That Green Union Guy (with suggestions from Baltimore Red)- |
 | IWW Environmental Union Caucus |
 | , December 6, 2022 |
 | I gave the following speech at a rally on the UC Berkeley Campus (a video of the rally follows) |
 | Fellow Workers, Comrades, and Friends: |
-| I am a union mariner of over a quarter century (I am a member of the IBU, an ILWU affiliate,<br>and the IWW); I grew up in a railroad family, and I graduated from UC Berkeley in 1994. |
-| I am here today to deliver a message on behalf of Railroad Workers United (of which I am a<br>solidarity member): |
+| I am a union mariner of over a quarter century (I am a member of the IBU, an ILWU affiliate,
+and the IWW); I grew up in a railroad family, and I graduated from UC Berkeley in 1994. |
+| I am here today to deliver a message on behalf of Railroad Workers United (of which I am a
+solidarity member): |
 | The Class One freight railroad bosses: |
 | Have been reaping record profits for 25 years, and yet |
 | they are moving less freight than at any time since 2006; |

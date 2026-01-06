@@ -1,3 +1,8 @@
+---
+title: "## **What are you willing to do? [from ismatu.fm]**"
+category: "contemporary-analysis"
+---
+
 ## **What are you willing to do? [from ismatu.fm]**
 
 **Date:** 2025-01-25 **Source:** https://www.threadings.io/what-are-you-willing-to-do-from-ismatu-fm/What are you willing to do 0:00 / 610.4816326530612 1× Prelude:

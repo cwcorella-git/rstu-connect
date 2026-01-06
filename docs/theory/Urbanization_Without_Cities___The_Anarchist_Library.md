@@ -1,13 +1,8 @@
 ---
-author: Murray Bookchin
-date: 1860
-title: 'Urbanization Without Cities: The Anarchist Library'
-tags:
-  - organizing
-  - strikes
-  - unions
-  - tenants
-  - housing
+title: "Urbanization Without Cities: The Anarchist Library"
+author: "Murray Bookchin"
+date: "1860"
+category: "theory"
 ---
 
 # Urbanization Without Cities _ The Anarchist Library.pdf
@@ -391,8 +386,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 confederations. I cannot stress how integrally the confederal
                 association of cities and towns is part of the development of a
                 free, ecologically oriented society. Localism, in the narrow
-                sense of a virtually autarchical locality that aspires to “self-
-13 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+                sense of a virtually autarchical locality that aspires to “self13 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 sufficiency”—in the sense so popular in the ecology movement
                 today—could easily produce a parochialism notable for such
                 evils as racism, cultural insularity, and a stagnant
@@ -839,8 +833,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 western world has traditionally imparted to some kind of
                 urbanism. Most of our utopian visions, whether heavenly or
                 earthly, take the form of a pity, a “New Jerusalem’’ to. speak in
-                sacred terms, or an idealized version of the Hellenic “city-
-28 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+                sacred terms, or an idealized version of the Hellenic “city28 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 state” to use Secular language.
                 But here we abruptly encounter the limits of the term
                 urbanization as a synonym for citification. Urbanization does
@@ -1138,8 +1131,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 presupposes and later promotes the reduction of the. citizen to
                 a “taxpayer,” “constituent,” or part of an “electorate.” We shall
                 see that urbanization yields not only a drastic colonization of
-                the countryside but also of the city’s and the citizen s very self-
-38 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+                the countryside but also of the city’s and the citizen s very self38 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 identity. Like the modern market, which has invaded every
                 sphere of personal life, we shall find that urbanization has
                 swept before it all the civic as well as agrarian institutions that
@@ -2127,8 +2119,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 koinonia. It is a koinonia that has reached the ideal form of a
                 shared commonality of purpose among men whose self-
                 realization is the “good life.”
-                The “good life,” in turn, includes a degree of material self-
-71 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+                The “good life,” in turn, includes a degree of material self71 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 sufficiency that goes beyond mere survival. But it does not
                 consist in on appetite for goods, with all its attendant excesses,
                 that clouds man’s ethical and intellectual clarity. Man
@@ -7260,8 +7251,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 rural Gemeinde from fern dal, commercial, and clerical
                 encroachment. If there is any unifying drama to the upheaval,
                 it is the peasantry’s effort to preserve its organic communal
-                ties, its traditional village universe that encompassed time-
-242 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+                ties, its traditional village universe that encompassed time242 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 honored values, institutions, and lifeways as well as
                 landholdings that were challenged by princely and baronial
                 encroachments. It is this universe, so much of a piece with the
@@ -11159,8 +11149,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 grass-roots institutions and organizations is evidence less of
                 failure than of persistence. I am no longer talking of the
                 explosive episodes that marked the’ uprisings of the 1960s,
-                such as those in black ghettos or antiwar street actions. Grass-
-372 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+                such as those in black ghettos or antiwar street actions. Grass372 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 roots politics, specifically popular municipal politics, is
                 becoming an integral part of American politics as a whole, one
                 that has yet to find a coherent voice and sense of direction. But

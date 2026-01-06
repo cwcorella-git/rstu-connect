@@ -1,13 +1,8 @@
 ---
-title: Abolish Rent How Tenants Can Solve the Housing Crisis Tracy Rosenthal Leonardo
-date: 2025
-author: Tracy Rosenthal
-tags:
-  - organizing
-  - strikes
-  - unions
-  - tenants
-  - housing
+title: "Abolish Rent How Tenants Can Solve the Housing Crisis Tracy Rosenthal Leonardo"
+author: "Tracy Rosenthal"
+date: "2025"
+category: "housing"
 ---
 
 # Abolish Rent How Tenants Can Solve the Housing Crisis Tracy Rosenthal Leonardo

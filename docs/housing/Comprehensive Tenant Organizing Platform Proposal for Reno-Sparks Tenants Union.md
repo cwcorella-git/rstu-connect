@@ -1,14 +1,10 @@
 ---
-date: 2025
-author: Sparks Tenants Union
-tags:
-  - organizing
-  - strikes
-  - unions
-  - tenants
-  - housing
 title: "Comprehensive Tenant Organizing Platform Proposal for Reno-Sparks Tenants Union"
+author: "Sparks Tenants Union"
+date: "2025"
+category: "housing"
 ---
+
 # Comprehensive Tenant Organizing Platform Proposal for Reno-Sparks Tenants Union
 
 *Converted from: `./Comprehensive Tenant Organizing Platform Proposal for Reno-Sparks Tenants Union.pdf`*  
@@ -26,8 +22,7 @@ title: "Comprehensive Tenant Organizing Platform Proposal for Reno-Sparks Tenant
 ### Extracted Text
 
 
-Comprehensive Tenant Organizing Platform Proposal for Reno-
-Sparks Tenants Union
+Comprehensive Tenant Organizing Platform Proposal for RenoSparks Tenants Union
 Building community power through collective digital infrastructure
 The Reno-Sparks Tenants Union stands at a pivotal moment as Nevada's first publicized tenant union,
  The Nevada Independent   thenevadaindependent   protected by explicit organizing rights under NRS
@@ -40,8 +35,7 @@ justice organizing in Northern Nevada. Stanford Social Innovation Re…
 Technical implementation for nonprofit infrastructure
 
 Comprehensive technical architecture
-The platform architecture prioritizes accessibility, security, and scalability while maintaining cost-
-effectiveness for nonprofit operations. The recommended technology stack combines proven open
+The platform architecture prioritizes accessibility, security, and scalability while maintaining costeffectiveness for nonprofit operations. The recommended technology stack combines proven open
 source solutions with modern development practices: Tendenci
 
 Core Technology Stack:
@@ -1193,7 +1187,6 @@ Privacy Policy Framework:
   - Never sold or commercialized
 
 
-
 Volunteer recruitment and management
 Recruitment Strategy: Kindful          Bloomerang
 
@@ -1267,4 +1260,3 @@ necessary for building a powerful, lasting tenant movement in Northern Nevada an
 Mission +2
 
 ---
-

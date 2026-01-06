@@ -1,3 +1,8 @@
+---
+title: "## **Black Feminist Anarchism & Leftist Neglect of the African Continent with Zoé Samudzi**"
+category: "feminist-theory"
+---
+
 ## **Black Feminist Anarchism & Leftist Neglect of the African Continent with Zoé Samudzi**
 
 ## **Date:** Unknown

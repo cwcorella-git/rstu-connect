@@ -1,3 +1,8 @@
+---
+title: "## **Copwatching in Chattanooga - Lorenzo Komboa Ervin**"
+category: "contemporary-analysis"
+---
+
 ## **Copwatching in Chattanooga - Lorenzo Komboa Ervin**
 
 ## **Date:** Unknown

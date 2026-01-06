@@ -1,26 +1,8 @@
 ---
-title: Can’t Stop Believing
-author: David Graeber
-date: November 2012
-language: en
-source_url: >-
-  Retrieved on 3<sup>rd</sup> September 2020 from
-  https://thebaffler.com/salvos/cant-stop-believing
-notes: >-
-  See also: David Graeber Institute [[https://davidgraeber.institute/]] &
-  [[https://davidgraeber.org/]]
-topics:
-  - magic
-  - politics
-  - belief
-  - academy
-original_format: muse
-converted_date: '2025-11-08T11:25:03.071039'
-tags:
-  - Magic
-  - Politics
-  - Belief
-  - Academy
+title: "Can’t Stop Believing"
+author: "David Graeber"
+date: "November 2012"
+category: "contemporary-analysis"
 ---
 
 ### I.

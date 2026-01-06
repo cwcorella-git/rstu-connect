@@ -1,13 +1,8 @@
 ---
-title: A Short Introduction To Anarchist Communism
-date: 2025
-author: Anarchist Federation (of Britain)
-tags:
-  - organizing
-  - strikes
-  - unions
-  - housing
-  - rent
+title: "A Short Introduction To Anarchist Communism"
+author: "Anarchist Federation (of Britain)"
+date: "2025"
+category: "theory"
 ---
 
 # A Short Introduction To Anarchist Communism

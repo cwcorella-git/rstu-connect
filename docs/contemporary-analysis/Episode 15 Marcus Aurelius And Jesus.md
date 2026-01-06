@@ -1,3 +1,8 @@
+---
+title: "**Episode 15: Marcus Aurelius And Jesus/**"
+category: "contemporary-analysis"
+---
+
 # **Episode 15: Marcus Aurelius And Jesus/**
 
 #### **Source:**

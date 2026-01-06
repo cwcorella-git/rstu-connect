@@ -1,3 +1,8 @@
+---
+title: "**Kudzu**"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 # **Kudzu**
@@ -53,19 +58,19 @@ When kudzu invades an ecosystem, it makes the [leaf litter](https://en.wikipedia
 
 #### **Americas**
 
-Kudzu is an infamous weed in the United States,[\[20\]](#page-8-8) where it can be found in 32 states.[\[21\]](#page-8-9) It is common along roadsides and other disturbed areas throughout most of the southeast,[\[22\]](#page-8-10) as far north as rural areas of [Pulaski County, Illinois,](https://en.wikipedia.org/wiki/Pulaski_County,_Illinois) and along the East Coast in sparser populations as north as the [New York City](https://en.wikipedia.org/wiki/New_York_City_Metropolitan_Area) [Metropolitan Area](https://en.wikipedia.org/wiki/New_York_City_Metropolitan_Area) and [Boston, Massachusetts.](https://en.wikipedia.org/wiki/Boston,_Massachusetts) [\[23\]](#page-8-11) The vine has become a sore point in [Southern US](https://en.wikipedia.org/wiki/Culture_of_the_Southern_United_States) <u>culture</u>. Estimates of its rate of spreading differ wildly; it has been described as spreading at the rate of 150,000 acres (610 km<sup>2</sup>) annually, [24] although in 2015 the <u>United States</u> Forest Service estimated the rate to be only 2,500 acres $(10 \text{ km}^2)$ per year. [20]
+Kudzu is an infamous weed in the United States,[\[20\]](#page-8-8) where it can be found in 32 states.[\[21\]](#page-8-9) It is common along roadsides and other disturbed areas throughout most of the southeast,[\[22\]](#page-8-10) as far north as rural areas of [Pulaski County, Illinois,](https://en.wikipedia.org/wiki/Pulaski_County,_Illinois) and along the East Coast in sparser populations as north as the [New York City](https://en.wikipedia.org/wiki/New_York_City_Metropolitan_Area) [Metropolitan Area](https://en.wikipedia.org/wiki/New_York_City_Metropolitan_Area) and [Boston, Massachusetts.](https://en.wikipedia.org/wiki/Boston,_Massachusetts) [\[23\]](#page-8-11) The vine has become a sore point in [Southern US](https://en.wikipedia.org/wiki/Culture_of_the_Southern_United_States) culture. Estimates of its rate of spreading differ wildly; it has been described as spreading at the rate of 150,000 acres (610 km2) annually, [24] although in 2015 the United States Forest Service estimated the rate to be only 2,500 acres $(10 \text{ km}^2)$ per year. [20]
 
 A small patch of kudzu was discovered in 2009 in Leamington, Ontario, the second-warmest growing region of Canada after south coastal British Columbia. [25][26]
 
-Kudzu was introduced from Japan into the United States at the Japanese pavilion in the 1876 <u>Centennial Exposition</u> in Philadelphia. [27] It was also shown at the <u>Chicago World's Fair</u>. It remained a garden plant until the <u>Dust Bowl</u> era (1930s–1940s), when the vine was marketed as a way for farmers to stop soil erosion. The new <u>Soil Conservation Service</u> grew seventy million kudzu seedlings and paid \$8 an acre (equivalent to \$180 in 2024) to anyone who would sow the vine. Road and rail builders planted kudzu to stabilize steep slopes. Farmer and journalist Channing
+Kudzu was introduced from Japan into the United States at the Japanese pavilion in the 1876 Centennial Exposition in Philadelphia. [27] It was also shown at the Chicago World's Fair. It remained a garden plant until the Dust Bowl era (1930s–1940s), when the vine was marketed as a way for farmers to stop soil erosion. The new Soil Conservation Service grew seventy million kudzu seedlings and paid \$8 an acre (equivalent to \$180 in 2024) to anyone who would sow the vine. Road and rail builders planted kudzu to stabilize steep slopes. Farmer and journalist Channing
 
-Cope, dubbed "kudzu kid" in a 1949 <u>Time</u> profile, popularised it in the South as a fix for eroded soils. He started the Kudzu Club of America, which, by 1943, had 20,000 members. The club aimed to plant 8 million acres (32,000 km²) across the South. Cultivation peaked at over one million acres (4,000 km²) by 1945. Once Soil Service payments ended, much of the kudzu was destroyed as farmers turned the land over to more profitable uses. The Soil Conservation Service stopped promoting kudzu altogether by the 1950s.
+Cope, dubbed "kudzu kid" in a 1949 Time profile, popularised it in the South as a fix for eroded soils. He started the Kudzu Club of America, which, by 1943, had 20,000 members. The club aimed to plant 8 million acres (32,000 km²) across the South. Cultivation peaked at over one million acres (4,000 km²) by 1945. Once Soil Service payments ended, much of the kudzu was destroyed as farmers turned the land over to more profitable uses. The Soil Conservation Service stopped promoting kudzu altogether by the 1950s.
 
-Kudzu's ongoing mythos as a mile-a-minute invader is likely due to its visibility coating trees at wooded roadsides, thriving in the sunshine at the forest edge. Despite kudzu's notoriety, <u>Asian privet</u> and invasive <u>roses</u> have each proved to be greater threats in the United States. [20]
+Kudzu's ongoing mythos as a mile-a-minute invader is likely due to its visibility coating trees at wooded roadsides, thriving in the sunshine at the forest edge. Despite kudzu's notoriety, Asian privet and invasive roses have each proved to be greater threats in the United States. [20]
 
 #### **Europe**
 
-In Europe, kudzu has been included on the <u>list of Invasive</u> <u>Alien Species of Union concern</u> (the Union list) since 2016. This means that this species cannot be imported, cultivated, transported, commercialized, planted, or intentionally released into the environment anywhere in the European Union. [30]
+In Europe, kudzu has been included on the list of Invasive Alien Species of Union concern (the Union list) since 2016. This means that this species cannot be imported, cultivated, transported, commercialized, planted, or intentionally released into the environment anywhere in the European Union. [30]
 
 ## ![](_page_2_Picture_8.jpeg)
 
@@ -77,55 +82,55 @@ In Europe, kudzu has been included on the <u>list of Invasive</u> <u>Alien Speci
 
 ## ![](_page_2_Picture_12.jpeg)
 
-Dairy cows grazing on kudzu in <u>Columbia</u> <u>County, Georgia, c.</u> 1950s
+Dairy cows grazing on kudzu in Columbia County, Georgia, c. 1950s
 
 ## ![](_page_2_Picture_14.jpeg)
 
 ## Almendares Park in Havana, 1983
 
-There are only some kudzu populations in certain regions of Italy and Switzerland. In Switzerland it occurs almost exclusively in <u>Ticino</u>, where it has been found in the wild since at least 1956. Most outbreaks are concentrated around <u>Lake Lugano</u> and <u>Lake Maggiore</u>, where the climate (hot summers and mild winters) encourages its growth. However, outbreaks in peripheral areas such as the Onsernone Valley and Lower Leventina are likely due to the illegal disposal of plant waste. A plan is currently in place to reduce and eventually eradicate the kudzu population in Ticino. [32]
+There are only some kudzu populations in certain regions of Italy and Switzerland. In Switzerland it occurs almost exclusively in Ticino, where it has been found in the wild since at least 1956. Most outbreaks are concentrated around Lake Lugano and Lake Maggiore, where the climate (hot summers and mild winters) encourages its growth. However, outbreaks in peripheral areas such as the Onsernone Valley and Lower Leventina are likely due to the illegal disposal of plant waste. A plan is currently in place to reduce and eventually eradicate the kudzu population in Ticino. [32]
 
 ## Other regions
 
 During World War II, kudzu was introduced to Vanuatu and Fiji by United States Armed Forces to serve as camouflage for equipment and has become a major weed. [33]
 
-In Australia, Kudzu is also becoming a problem in <u>Queensland</u>, <u>Northern Territory</u> and <u>New South</u> Wales. [34][35]
+In Australia, Kudzu is also becoming a problem in Queensland, Northern Territory and New South Wales. [34][35]
 
-In <u>New Zealand</u>, kudzu was declared an "unwanted organism" and was added to the Biosecurity New Zealand register in 2002. [36]
+In New Zealand, kudzu was declared an "unwanted organism" and was added to the Biosecurity New Zealand register in 2002. [36]
 
 ## **Control**
 
 #### **Crown removal**
 
-Destroying the full underground system, which can be extremely large and deep, is not necessary for successful long-term control of kudzu. Killing or removing the kudzu <u>root crown</u> [37] and all rooting runners is sufficient. The root crown is a fibrous knob of tissue that sits on top of the roots. Crowns form from multiple vine nodes that root to the ground, and range from pea- to basketball-sized. These crowns and attached tuberous roots can weigh 400 or 500 pounds (180 to 225 kilograms) and extend up to twenty feet (six meters) into the ground. The age of the crowns is correlated to how deep they are in the ground. Nodes and crowns are the source of all kudzu vines, and roots cannot produce vines. If any portion of a root crown remains after attempted removal, the kudzu plant may still grow back.
+Destroying the full underground system, which can be extremely large and deep, is not necessary for successful long-term control of kudzu. Killing or removing the kudzu root crown [37] and all rooting runners is sufficient. The root crown is a fibrous knob of tissue that sits on top of the roots. Crowns form from multiple vine nodes that root to the ground, and range from pea- to basketball-sized. These crowns and attached tuberous roots can weigh 400 or 500 pounds (180 to 225 kilograms) and extend up to twenty feet (six meters) into the ground. The age of the crowns is correlated to how deep they are in the ground. Nodes and crowns are the source of all kudzu vines, and roots cannot produce vines. If any portion of a root crown remains after attempted removal, the kudzu plant may still grow back.
 
 Mechanical methods of control involve cutting off crowns from roots, usually just below ground level. This immediately kills the plant. Cutting off the above-ground vines is not sufficient for an immediate kill. Destroying all removed crown material is necessary. Buried crowns can regenerate into healthy kudzu. Transporting crowns in soil removed from a kudzu infestation is one common way that kudzu unexpectedly spreads and shows up in new locations.
 
-Close mowing every week, regular heavy grazing for many successive years, or repeated <u>cultivation</u> may be effective, as this serves to deplete root reserves. [37] If done in the spring, cutting off vines must be repeated. Regrowth appears to exhaust the plant's stored <u>carbohydrate</u> reserves. Harvested kudzu can be fed to livestock, burned, or composted.
+Close mowing every week, regular heavy grazing for many successive years, or repeated cultivation may be effective, as this serves to deplete root reserves. [37] If done in the spring, cutting off vines must be repeated. Regrowth appears to exhaust the plant's stored carbohydrate reserves. Harvested kudzu can be fed to livestock, burned, or composted.
 
-In the United States, the city of <u>Chattanooga</u>, <u>Tennessee</u>, undertook a trial program in 2010 using <u>goats</u> and <u>Ilamas</u> to graze on the plant. Similar efforts to reduce widespread nuisance kudzu growth have also been undertaken in the cities of <u>Winston-Salem</u>, <u>North Carolina</u>, and <u>Tallahassee</u>, <u>Florida</u>. <u>Norfolk</u> Southern, an American railroad company, has used goats to control kudzu at its Inman Yard in Atlanta.
+In the United States, the city of Chattanooga, Tennessee, undertook a trial program in 2010 using goats and Ilamas to graze on the plant. Similar efforts to reduce widespread nuisance kudzu growth have also been undertaken in the cities of Winston-Salem, North Carolina, and Tallahassee, Florida. Norfolk Southern, an American railroad company, has used goats to control kudzu at its Inman Yard in Atlanta.
 
-<u>Prescribed burning</u> is used on old extensive infestations to remove vegetative cover and promote seed germination for removal or treatment. While fire is not an effective way to kill kudzu, [37] equipment, such as a skid loader, can later remove crowns and kill kudzu with minimal disturbance or erosion of soil. [42]
+Prescribed burning is used on old extensive infestations to remove vegetative cover and promote seed germination for removal or treatment. While fire is not an effective way to kill kudzu, [37] equipment, such as a skid loader, can later remove crowns and kill kudzu with minimal disturbance or erosion of soil. [42]
 
 #### **Herbicide**
 
-A systemic <u>herbicide</u>, for example, <u>glyphosate</u>, <u>[43]</u> <u>triclopyr</u>, <u>[43]</u> or <u>picloram</u>, <u>[44]</u> can be applied directly on cut stems, which is an effective means of transporting the herbicide into the kudzu's extensive root system. <u>[45]</u> Herbicides can be used after other methods of control, such as mowing, grazing, or burning, which can allow for an easier application of the chemical to the weakened plants. <u>[46]</u> In large-scale forestry infestations, soil-active herbicides have been shown to be highly effective.
+A systemic herbicide, for example, glyphosate, [43] triclopyr, [43] or picloram, [44] can be applied directly on cut stems, which is an effective means of transporting the herbicide into the kudzu's extensive root system. [45] Herbicides can be used after other methods of control, such as mowing, grazing, or burning, which can allow for an easier application of the chemical to the weakened plants. [46] In large-scale forestry infestations, soil-active herbicides have been shown to be highly effective.
 
 After initial herbicidal treatment, follow-up treatments and monitoring are usually necessary, depending on how long the kudzu has been growing in an area. Up to 10 years of supervision may be needed after the initial chemical placement to make sure the plant does not return. [47]
 
 #### **Fungi**
 
-Since 1998, the United States' <u>Agricultural Research Service</u> has experimented with using the fungus <u>Myrothecium verrucaria</u> as a biologically based herbicide against kudzu. [24] A <u>diacetylverrucarol</u> spray based on *M. verrucaria* works under a variety of conditions (including the absence of <u>dew</u>), causes minimal injury to many of the other woody plants in kudzu-infested habitats, and takes effect quickly enough that kudzu treated with it in the morning starts showing evidence of damage by midafternoon. [24] Initial formulations of the herbicide produced toxic levels of other <u>trichothecenes</u> as byproducts, though the ARS discovered that growing *M. verrucaria* in a <u>fermenter</u> on a liquid diet (instead of a solid) limited or eliminated the problem. [24]
+Since 1998, the United States' Agricultural Research Service has experimented with using the fungus Myrothecium verrucaria as a biologically based herbicide against kudzu. [24] A diacetylverrucarol spray based on *M. verrucaria* works under a variety of conditions (including the absence of dew), causes minimal injury to many of the other woody plants in kudzu-infested habitats, and takes effect quickly enough that kudzu treated with it in the morning starts showing evidence of damage by midafternoon. [24] Initial formulations of the herbicide produced toxic levels of other trichothecenes as byproducts, though the ARS discovered that growing *M. verrucaria* in a fermenter on a liquid diet (instead of a solid) limited or eliminated the problem. [24]
 
 ## Helium
 
-<u>Helium</u> has been used to kill kudzu in the Southern United States by drilling holes into ground infested by kudzu and saturating the soil with helium which kills the plants. Kudzu vines treated with this method exhibits 98% to 100% mortality and dies quickly without harming surrounding plants and trees. The method was discovered by Jacob Schindler, a South Georgia student. [48]
+Helium has been used to kill kudzu in the Southern United States by drilling holes into ground infested by kudzu and saturating the soil with helium which kills the plants. Kudzu vines treated with this method exhibits 98% to 100% mortality and dies quickly without harming surrounding plants and trees. The method was discovered by Jacob Schindler, a South Georgia student. [48]
 
 ## Uses
 
 ## Soil improvement and preservation
 
-Kudzu has been used as a form of <u>erosion control</u> and to enhance the soil. As a <u>legume</u>, it increases the <u>nitrogen</u> in the soil by a symbiotic relationship with <u>nitrogen-fixing bacteria</u>. Its deep taproots also transfer valuable minerals from the <u>subsoil</u> to the topsoil, thereby improving the topsoil. In the deforested section of the central <u>Amazon Basin</u> in <u>Brazil</u>, it has been used for improving the soil pore-space in clay latosols, thus freeing even more water for plants than in the soil prior to deforestation. [50]
+Kudzu has been used as a form of erosion control and to enhance the soil. As a legume, it increases the nitrogen in the soil by a symbiotic relationship with nitrogen-fixing bacteria. Its deep taproots also transfer valuable minerals from the subsoil to the topsoil, thereby improving the topsoil. In the deforested section of the central Amazon Basin in Brazil, it has been used for improving the soil pore-space in clay latosols, thus freeing even more water for plants than in the soil prior to deforestation. [50]
 
 #### **Animal feed**
 
@@ -253,7 +258,7 @@ The sliding doors on the top floor of [Kakegawa](https://en.wikipedia.org/wiki/K
 - 63. "静岡県‧葛布(くずふ)[" \(https://www.motoji.co.jp/blogs/artists-origins/kudzufu\)](https://www.motoji.co.jp/blogs/artists-origins/kudzufu).
 - 64. Richard G. Lugar, R. James Woolsey. The New Petroleum. Foreign Affairs. 1999. Vol. 78, No 1. p. 88.
 - 65. Jeffrey Collins (2003). ["If You Can't Beat Kudzu, Join It" \(https://web.archive.org/web/20240](https://web.archive.org/web/20240621013954/https://www.dukeemployees.com/offthewall2.shtml) [621013954/https://www.dukeemployees.com/offthewall2.shtml\).](https://web.archive.org/web/20240621013954/https://www.dukeemployees.com/offthewall2.shtml) *Off the Wall*. Duke Energy Employee Advocate. Archived from [the original \(http://www.dukeemployees.com/offthewall2.](http://www.dukeemployees.com/offthewall2.shtml) [shtml\)](http://www.dukeemployees.com/offthewall2.shtml) on 21 June 2024. Retrieved 20 August 2007.
-- 66. Wong, K. H., Li, G. Q., Li, K. M., Razmovski-Naumovski, V., & Chan, K. (2011). Kudzu root: Traditional uses and potential medicinal benefits in diabetes and cardiovascular diseases. Journal of Ethnopharmacology, 134(3), 584–607. <https://doi.org/10.1016/j.jep.2011.02.001>
+- 66. Wong, K. H., Li, G. Q., Li, K. M., Razmovski-Naumovski, V., & Chan, K. (2011). Kudzu root: Traditional uses and potential medicinal benefits in diabetes and cardiovascular diseases. Journal of Ethnopharmacology, 134(3), 584–607. 
  - *This article was based in part on content from [public domain](https://en.wikipedia.org/wiki/Public_domain) web pages from the [United](https://en.wikipedia.org/wiki/United_States_National_Park_Service) [States National Park Service](https://en.wikipedia.org/wiki/United_States_National_Park_Service) and the [United States Bureau of Land Management](https://en.wikipedia.org/wiki/United_States_Bureau_of_Land_Management)*
 
 ## **External links**
@@ -264,4 +269,4 @@ The sliding doors on the top floor of [Kakegawa](https://en.wikipedia.org/wiki/K
 
 [Artists and Origins, Kudzu-fu \(https://www.motoji.co.jp/blogs/artists-origins/kudzufu\)](https://www.motoji.co.jp/blogs/artists-origins/kudzufu). [Ginza](https://en.wikipedia.org/wiki/Ginza_Motoji) [Motoji](https://en.wikipedia.org/wiki/Ginza_Motoji)
 
-Retrieved from "<https://en.wikipedia.org/w/index.php?title=Kudzu&oldid=1322682557>"
+Retrieved from ""

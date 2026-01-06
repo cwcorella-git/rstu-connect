@@ -1,3 +1,8 @@
+---
+title: "## Fuck Empires!"
+category: "contemporary-analysis"
+---
+
 ## Fuck Empires!
 
 ## Date: Unknown

@@ -1,3 +1,8 @@
+---
+title: "## **A blueprint for a party of an old type**"
+category: "theory"
+---
+
 ## **A blueprint for a party of an old type**
 
 **Date:** Wed, 12/07/2016 - 18:46

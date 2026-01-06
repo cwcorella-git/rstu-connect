@@ -1,3 +1,8 @@
+---
+title: "**Wobbling to Victory: Are militant unions anarchist wreckers or the future of the labour movement?**"
+category: "labor"
+---
+
 # **Wobbling to Victory: Are militant unions anarchist wreckers or the future of the labour movement?**
 
 ## **Date:** Sun, 11/08/2015 - 11:21

@@ -1,3 +1,8 @@
+---
+title: "THE ART OF"
+category: "arts-culture-music"
+---
+
 # THE ART OF
 
 ## ![](_page_0_Picture_1.jpeg)

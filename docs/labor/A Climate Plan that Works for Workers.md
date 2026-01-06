@@ -1,3 +1,8 @@
+---
+title: "## **A Climate Plan that Works for Workers**"
+category: "labor"
+---
+
 ## **A Climate Plan that Works for Workers**
 
 **Date:** Wed, 06/15/2016 - 12:30 **Source:** https://ecology.iww.org/node/1681 **Tags:** green unionism, just transition, Iron and Earth, climate justice, green jobs, labor and environment By James Hutt - Our Times , Summer 2016

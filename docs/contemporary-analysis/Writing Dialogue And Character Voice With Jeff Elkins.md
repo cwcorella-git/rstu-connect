@@ -1,3 +1,8 @@
+---
+title: "**Writing Dialogue And Character Voice With Jeff Elkins**"
+category: "contemporary-analysis"
+---
+
 #### [thecreativepenn.com](https://www.thecreativepenn.com/2021/04/05/dialogue-character-voice/)
 
 # **Writing Dialogue And Character Voice With Jeff Elkins**

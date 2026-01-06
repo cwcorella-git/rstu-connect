@@ -1,3 +1,8 @@
+---
+title: "**Green Unionism on the Chevron Richmond Refinery Workers Picket Line**"
+category: "labor"
+---
+
 # **Green Unionism on the Chevron Richmond Refinery Workers Picket Line**
 
 ## **Date:** Fri, 04/15/2022 - 00:00
@@ -82,7 +87,9 @@ Making the Green Union Road by Walking It As I have written previously here , he
 | here |
 | , and |
 | here |
-| , it is essential for climate and/or environmental justice activists to stand in solidarity with<br>resource extraction workers when the latter are in open disputes with their employers, and<br>while the same cannot be expected to mute their opposition to these same employers' |
+| , it is essential for climate and/or environmental justice activists to stand in solidarity with
+resource extraction workers when the latter are in open disputes with their employers, and
+while the same cannot be expected to mute their opposition to these same employers' |
 
 Very often, resource extraction workers and climate justice activists who (justifiably) demand systemic change have divergent views on what just transition actually means (because they have seemingly disparate goals), but even then, it's possible for both to work together on areas where they agree (which is likely in the neighborhood of 75-90% on the relevant issues), and agree-to-disagree on the remainder. In spite of the lack of complete congruence, such coalitions can still achieve much, as has been demonstrated recently in Portugal, just to cite continued ecological destruction (even if those aforementioned workers go along with their bosses in those instances), they must give some thought to how they frame their messaging.
 
@@ -90,7 +97,8 @@ one particular example
 
 .
 
-| capitalist class opportunistically ties to milk it for increased extractivism in a blatant example of<br>disaster capitalism (See, for example |
+| capitalist class opportunistically ties to milk it for increased extractivism in a blatant example of
+disaster capitalism (See, for example |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------|
 | here |
 | |
@@ -102,7 +110,8 @@ one particular example
 | here |
 | , and |
 | here |
-| . There has been an avalanche of pessimistic and fatalistic predictions that the current conflict<br>will only hasten our dystopian end (see, for example |
+| . There has been an avalanche of pessimistic and fatalistic predictions that the current conflict
+will only hasten our dystopian end (see, for example |
 | here |
 | and |
 
@@ -110,7 +119,9 @@ The opportunities for such coalitions are increasing as the climate crisis worse
 
 | here |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ), but these pessimistic predictions overlook the fact that the fossil fuel capitalists face a huge<br>number of obstacles, including everything from supply chain constraints, to growing<br>grassroots opposition, and economic realities (see |
+| ), but these pessimistic predictions overlook the fact that the fossil fuel capitalists face a huge
+number of obstacles, including everything from supply chain constraints, to growing
+grassroots opposition, and economic realities (see |
 | here |
 | , |
 | here |
@@ -143,16 +154,27 @@ The opportunities for such coalitions are increasing as the climate crisis worse
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | here |
 | ). |
-| If these headwinds against the fossil fuel capitalists' intended disaster capitalism weren't<br>strong enough, the youth-led climate strikeswhich had been largely blunted by the<br>COVID-19 pandemichave returned with a vengeance, and those currents will no doubt be<br>reinforced by the ongoing wave of strikes and new union organizing efforts, a wave that has<br>been greatly magnified by the recent victory by the independent and militant Amazaon Labor<br>Union in New York. |
-| Of course, none of these forces guarantee either a USW Local 5 union victory at Chevron, nor<br>do they automatically mean that the aforementioned union will embrace green syndicalism,<br>even if they are joined on the picket line by supportive climate justice activists, as they have<br>been thus far. |
-| And while the first bridges of solidarity between the refinery workers and greens have been<br>successfully built (which can be all too easily burned by careless moves on either side),<br>they're still not full-blown |
+| If these headwinds against the fossil fuel capitalists' intended disaster capitalism weren't
+strong enough, the youth-led climate strikeswhich had been largely blunted by the
+COVID-19 pandemichave returned with a vengeance, and those currents will no doubt be
+reinforced by the ongoing wave of strikes and new union organizing efforts, a wave that has
+been greatly magnified by the recent victory by the independent and militant Amazaon Labor
+Union in New York. |
+| Of course, none of these forces guarantee either a USW Local 5 union victory at Chevron, nor
+do they automatically mean that the aforementioned union will embrace green syndicalism,
+even if they are joined on the picket line by supportive climate justice activists, as they have
+been thus far. |
+| And while the first bridges of solidarity between the refinery workers and greens have been
+successfully built (which can be all too easily burned by careless moves on either side),
+they're still not full-blown |
 | green syndicalism |
 | , |
 | yet |
 | . However, such first steps |
 | can |
 
-| through careful and diligent organizing can lead there, and we can point to historical examples<br>such as the |
+| through careful and diligent organizing can lead there, and we can point to historical examples
+such as the |
 |----------------------------------------------------------------------------------------------------------------|
 | Australian Green Bans |
 | , the |
@@ -160,7 +182,8 @@ The opportunities for such coalitions are increasing as the climate crisis worse
 | , the |
 | Porto Maghera Workerist Group |
 | , or |
-| Judi Bari's<br>efforts with |
+| Judi Bari's
+efforts with |
 | Earth First! - IWW Local #1 |
 | . And me mustn't forget that it was a member of the Oil Chemical and Atomic Workers Union |
 | (which has since merged with the United Steelworkers), |

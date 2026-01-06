@@ -1,3 +1,8 @@
+---
+title: "HOW TO BE A FRIEND"
+category: "contemporary-analysis"
+---
+
 # HOW TO BE A FRIEND
 
 ## 100

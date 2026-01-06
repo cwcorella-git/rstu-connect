@@ -1,3 +1,8 @@
+---
+title: "## **Extinction Rebellion: Not the Struggle we Need, Pt. 1**"
+category: "contemporary-analysis"
+---
+
 ## **Extinction Rebellion: Not the Struggle we Need, Pt. 1**
 
 ## **Date:** Unknown
@@ -97,11 +102,16 @@ eattherich
 | Dithreabhach |
 | 6 years 3 months ago |
 | In reply to Welcomebylibcom.org |
-| I've been told that I'm not welcome at local XR meetings because I pulled them about the fact<br>that several meetings were in venues not accessible to disabled people like myself and for<br>their refusal to stop the SWP handing out their placards at demos. Apparently I'm an<br>"anarchist troublemaker" - Doh! What tipped you off? |
+| I've been told that I'm not welcome at local XR meetings because I pulled them about the fact
+that several meetings were in venues not accessible to disabled people like myself and for
+their refusal to stop the SWP handing out their placards at demos. Apparently I'm an
+"anarchist troublemaker" - Doh! What tipped you off? |
 | Remote Host |
 | 6 years 3 months ago |
 | In reply to Welcomebylibcom.org |
-| A necessary piece, thanks. It does however make an unfortunate mistakegeneralising<br>Extinction Rebellion UK as Extinction Rebellion. While that might have been the case at the<br>outset, it does a disservice to reality to conflate it as such now. |
+| A necessary piece, thanks. It does however make an unfortunate mistakegeneralising
+Extinction Rebellion UK as Extinction Rebellion. While that might have been the case at the
+outset, it does a disservice to reality to conflate it as such now. |
 
 XR is now a vast global movement and one that has collectively and decidedly worked to ensureXR UK cannot and will not speak for all branches and has no authority as such. This significant and permanent shift occurred following theXR Businessscandal, which upset and angered a great many branches, none of which were consulted in the process. It was a project launched by just a few people in XR UK also, and so many of the UK branch itself were furious!
 
@@ -141,7 +151,11 @@ Why were Remote Host's posts all removed?
 | In reply to Welcomebylibcom.org |
 | Saved Remote Host's comments from the spam filter |
 | Remote Host |
-| A major international meeting was called in May, to transition all authority away from the UK<br>such that it (and future messes like it) not only cannot happen again, but that the UK branch is<br>no longer structurally at the center - from funding to press and social media. It was held in the<br>recognition that no branch can be at the center for this movement's continued success and<br>that the movement needs to restructure itself as a global organisation. |
+| A major international meeting was called in May, to transition all authority away from the UK
+such that it (and future messes like it) not only cannot happen again, but that the UK branch is
+no longer structurally at the center - from funding to press and social media. It was held in the
+recognition that no branch can be at the center for this movement's continued success and
+that the movement needs to restructure itself as a global organisation. |
 
 A lot of this piece was written prior to the XR business scandal, but it took a while to actually publish, so it's possible some bits are out of date already, but it's not been easy to find much about the relationship between international XR chapters.
 

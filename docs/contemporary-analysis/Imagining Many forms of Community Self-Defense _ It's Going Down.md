@@ -1,3 +1,8 @@
+---
+title: "## [itsgoingdown.org](https://itsgoingdown.org/imagining-many-forms-community-self-defense/)"
+category: "contemporary-analysis"
+---
+
 ## [itsgoingdown.org](https://itsgoingdown.org/imagining-many-forms-community-self-defense/)
 
 ## **Imagining Many forms of Community Self-Defense**

@@ -1,3 +1,8 @@
+---
+title: "HOW TO HAVE A LIFE"
+category: "contemporary-analysis"
+---
+
 # HOW TO HAVE A LIFE
 
 # 
@@ -463,7 +468,7 @@ What am I to do? Death is rsing me, while life ees. Teach me something to remedy
 
 #### EPISTULA XLIX
 
-saeissime eri, t qi di vixit arm vixerit. Dic mihi dormitro "otes non exergisci"; dic exerrecto "otes non dormire amlis." Dic exenti "otes non reverti"; dic redenti "otes non exire." [] Erras si in navigatione tantm existimas minimm esse qo <a> morte vita didcitr: in omni loco aeqe tene intervallm est.
+saeissime eri, t qi di vixit arm vixerit. Dic mihi dormitro "otes non exergisci"; dic exerrecto "otes non dormire amlis." Dic exenti "otes non reverti"; dic redenti "otes non exire." [] Erras si in navigatione tantm existimas minimm esse qo  morte vita didcitr: in omni loco aeqe tene intervallm est.
 
 # MORAL EPISTLE
 

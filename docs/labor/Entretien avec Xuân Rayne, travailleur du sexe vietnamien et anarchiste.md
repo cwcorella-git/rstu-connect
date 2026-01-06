@@ -1,3 +1,8 @@
+---
+title: "## **Entretien avec Xuân Rayne, travailleur du sexe vietnamien et anarchiste**"
+category: "labor"
+---
+
 ## **Entretien avec Xuân Rayne, travailleur du sexe vietnamien et anarchiste**
 
 ## **Date:** Unknown

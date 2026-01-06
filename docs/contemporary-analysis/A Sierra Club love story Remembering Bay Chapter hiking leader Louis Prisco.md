@@ -1,3 +1,8 @@
+---
+title: "## **A Sierra Club love story: Remembering Bay Chapter hiking leader Louis Prisco**"
+category: "contemporary-analysis"
+---
+
 ## **A Sierra Club love story: Remembering Bay Chapter hiking leader Louis Prisco**
 
 ## **Date:** Sun, 02/14/2016 - 11:52

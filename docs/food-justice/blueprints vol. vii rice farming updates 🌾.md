@@ -1,3 +1,8 @@
+---
+title: "**blueprints vol. vii: rice farming updates**"
+category: "food-justice"
+---
+
 # **blueprints vol. vii: rice farming updates**
 
 ## **Date:** 2025-02-04

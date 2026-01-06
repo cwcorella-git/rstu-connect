@@ -1,16 +1,10 @@
 ---
-title: Police Powers Bill Preparing For
-slug: Police Powers Bill Preparing for Class War
-reconversion_status: ready_for_reconversion
-date: 2022
-author: Unknown
-tags:
-  - abolition
-  - police
-  - rent
-  - prisons
-  - labor
+title: "Police Powers Bill Preparing For"
+author: "Unknown"
+date: "2022"
+category: "abolition"
 ---
+
 ## **Police Powers Bill: Preparing for Class War**
 
 ## **Date:** Unknown

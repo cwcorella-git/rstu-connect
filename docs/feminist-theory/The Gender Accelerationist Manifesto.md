@@ -1,3 +1,8 @@
+---
+title: "**Vikky Storm and Eme Flores**"
+category: "feminist-theory"
+---
+
 # **Vikky Storm and Eme Flores**
 
 # **The Gender Accelerationist Manifesto**

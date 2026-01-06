@@ -1,22 +1,8 @@
 ---
-title: Anthropology and the rise of the professional-managerial class
-author: David Graeber
-date: '2014'
-language: en
-source_url: >-
-  Retrieved on 3<sup>rd</sup> September 2020 from
-  https://www.journals.uchicago.edu/doi/10.14318/hau4.3.007
-notes: >-
-  See also: David Graeber Institute [[https://davidgraeber.institute/]] &
-  [[https://davidgraeber.org/]]
-topics:
-  - anthropology
-  - class
-original_format: muse
-converted_date: '2025-11-08T11:25:03.042506'
-tags:
-  - Anthropology
-  - Class
+title: "Anthropology and the rise of the professional-managerial class"
+author: "David Graeber"
+date: "2014"
+category: "contemporary-analysis"
 ---
 
 ### Abstract

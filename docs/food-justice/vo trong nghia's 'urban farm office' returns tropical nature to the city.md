@@ -1,3 +1,8 @@
+---
+title: "vo trong nghia's 'urban farm office' reintroduces tropical nature to ho chi minh city"
+category: "food-justice"
+---
+
 #### [designboom.com](https://www.designboom.com/architecture/vo-trong-nghia-vtn-urban-farm-office-vietnam-01-30-2023/)
 
 # vo trong nghia's 'urban farm office' reintroduces tropical nature to ho chi minh city

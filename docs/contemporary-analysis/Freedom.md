@@ -1,3 +1,8 @@
+---
+title: "**Freedom**"
+category: "contemporary-analysis"
+---
+
 ## **Alex Prichard**
 
 # **Freedom**
@@ -128,23 +133,23 @@ In this chapter I have focused on one prominent tradition in the history of anar
 
 [\[1\]](#page-0-2) P.-J. Proudhon, 'Solution of the Social Problem', in I. Mc Kay (Ed), *Property is Theft! A Pierre-Joseph Proudhon Anthology* (Edinburgh: AK Press, [1848] 2009), 280.
 
-[<sup>\[2\]</sup>](#page-1-0) See, for example, S. Hirsch and L. Van der Walt (Eds), *Anarchism and Syndicalism in the Colonial and Postcolonial World, 1870*–*1940: The Praxis of National Liberation, Internationalism, and Social Revolution* (Leiden: Brill, 2010); L. Van der Walt and M. Schmidt, *Black Fame: The Revolutionary Class Politics of Anarchism and Syndicalism* (Edinburgh: AK Press, 2009); C. Ward, 'The anarchist sociology of federalism', *Freedom*, June/July, 1992; C. Cahm, *Kropotkin and the Rise of Revolutionary Anarchism 1872*–*1886* (Cambridge: Cambridge University Press, 1989); M. A. Bakunin and S. Dolgoff, *Bakunin on Anarchy. Selected Works by the Activist Founder of World Anarchism. Edited, translated and with an introduction by Sam Dolgoff* (London: Allen and Unwin, 1973).
+[\[2\]](#page-1-0) See, for example, S. Hirsch and L. Van der Walt (Eds), *Anarchism and Syndicalism in the Colonial and Postcolonial World, 1870*–*1940: The Praxis of National Liberation, Internationalism, and Social Revolution* (Leiden: Brill, 2010); L. Van der Walt and M. Schmidt, *Black Fame: The Revolutionary Class Politics of Anarchism and Syndicalism* (Edinburgh: AK Press, 2009); C. Ward, 'The anarchist sociology of federalism', *Freedom*, June/July, 1992; C. Cahm, *Kropotkin and the Rise of Revolutionary Anarchism 1872*–*1886* (Cambridge: Cambridge University Press, 1989); M. A. Bakunin and S. Dolgoff, *Bakunin on Anarchy. Selected Works by the Activist Founder of World Anarchism. Edited, translated and with an introduction by Sam Dolgoff* (London: Allen and Unwin, 1973).
 
-[<sup>\[3\]</sup>](#page-1-1) Liberty is a concept more central to the Anglo-analytical tradition of moral philosophy, while freedom and emancipation are concepts used more in the history of political thought and critical theory. For the purposes of this chapter, I will use liberty, freedom and emancipation interchangeably. Freedom translates as liberty in most Romance languages (e.g., *liberté*, *liberdad*, *libertà*), and these remain the conceptual vocabularies for non-Anglo anarchists. The association of liberty with the liberal rights tradition may explain some of the preference for thinking and speaking in terms of freedom. In this chapter, I use the concepts interchangeably. For good general discussions of liberty and freedom in the Anglo-American traditions of political philosophy, see J. Filling, 'Liberty', in *The Encyclopedia of Political Thought* (John Wiley & Sons, Ltd., 2014) and N. J. Hirschmann, 'Freedom', in *The Encyclopedia of Political Thought* (John Wiley & Sons, Ltd., 2014).
+[\[3\]](#page-1-1) Liberty is a concept more central to the Anglo-analytical tradition of moral philosophy, while freedom and emancipation are concepts used more in the history of political thought and critical theory. For the purposes of this chapter, I will use liberty, freedom and emancipation interchangeably. Freedom translates as liberty in most Romance languages (e.g., *liberté*, *liberdad*, *libertà*), and these remain the conceptual vocabularies for non-Anglo anarchists. The association of liberty with the liberal rights tradition may explain some of the preference for thinking and speaking in terms of freedom. In this chapter, I use the concepts interchangeably. For good general discussions of liberty and freedom in the Anglo-American traditions of political philosophy, see J. Filling, 'Liberty', in *The Encyclopedia of Political Thought* (John Wiley & Sons, Ltd., 2014) and N. J. Hirschmann, 'Freedom', in *The Encyclopedia of Political Thought* (John Wiley & Sons, Ltd., 2014).
 
-[<sup>\[4\]</sup>](#page-1-2) On this, republicans and libertarians are remarkably close. C. List and P. Pettit, *Group agency: The possibility, design, and status of corporate agents* (Oxford: Oxford University Press, 2011), 180–185. C. Kukathas, 'Liberalism and multiculturalism: The politics of indifference', *Political Theory*, 26 (1998), 686–699.
+[\[4\]](#page-1-2) On this, republicans and libertarians are remarkably close. C. List and P. Pettit, *Group agency: The possibility, design, and status of corporate agents* (Oxford: Oxford University Press, 2011), 180–185. C. Kukathas, 'Liberalism and multiculturalism: The politics of indifference', *Political Theory*, 26 (1998), 686–699.
 
-[<sup>\[5\]</sup>](#page-2-1) A. Prichard, 'Collective Intentionality, Complex Pluralism and the Problem of Anarchy', *Journal of International Political Theory*, 13 (2017), 360–377.
+[\[5\]](#page-2-1) A. Prichard, 'Collective Intentionality, Complex Pluralism and the Problem of Anarchy', *Journal of International Political Theory*, 13 (2017), 360–377.
 
-[<sup>\[6\]</sup>](#page-2-2) For more on this, see R. Kinna and A. Prichard, 'Anarchism and Non-Domination', *Journal of Political Ideologies*, (forthcoming), and www.anarchyrules.info.
+[\[6\]](#page-2-2) For more on this, see R. Kinna and A. Prichard, 'Anarchism and Non-Domination', *Journal of Political Ideologies*, (forthcoming), and www.anarchyrules.info.
 
-[<sup>\[7\]</sup>](#page-2-3) U. Gordon, *Anarchy Alive!: Anti-Authoritarian Politics from Practice to Theory* (London: Pluto Press, 2008), 32.
+[\[7\]](#page-2-3) U. Gordon, *Anarchy Alive!: Anti-Authoritarian Politics from Practice to Theory* (London: Pluto Press, 2008), 32.
 
-[<sup>\[8\]</sup>](#page-2-4) Gordon, ibid., 33.
+[\[8\]](#page-2-4) Gordon, ibid., 33.
 
-[<sup>\[9\]</sup>](#page-3-0) For an excellent discussion of this, see A. Gourevitch, *From Slavery to the Cooperative Commonwealth: Labor and Republican Liberty in the Nineteenth Century* (Cambridge: Cambridge University Press, 2015).
+[\[9\]](#page-3-0) For an excellent discussion of this, see A. Gourevitch, *From Slavery to the Cooperative Commonwealth: Labor and Republican Liberty in the Nineteenth Century* (Cambridge: Cambridge University Press, 2015).
 
-[<sup>\[10\]</sup>](#page-3-1) For fuller discussions of each, see K. S. Vincent, *Pierre-Joseph Proudhon and the Rise of French Republican Socialism* (Oxford: Oxford University Press, 1984); J. P. Clark, *The*
+[\[10\]](#page-3-1) For fuller discussions of each, see K. S. Vincent, *Pierre-Joseph Proudhon and the Rise of French Republican Socialism* (Oxford: Oxford University Press, 1984); J. P. Clark, *The*
 
 *Philosophical Anarchism of William Godwin* (Princeton: Princeton University Press, 1977); Van der Walt and Schmidt, *Black Flame*.
 

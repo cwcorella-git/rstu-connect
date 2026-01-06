@@ -1,3 +1,8 @@
+---
+title: "**Contents**"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 ## ![](_page_1_Picture_0.jpeg)
@@ -114,21 +119,55 @@ We acknowledge for their financial support of our publishing activities: the Gov
 
 ## Chapter 3
 
-| Police<br>Use<br>of<br>Force<br>in<br>Canada |
+| Police
+Use
+of
+Force
+in
+Canada |
 |---------------------------------------------------------------------|
-| Dispelling<br>the<br>Myth<br>of<br>Difference |
-| Julius<br>Haag |
-| Chapter<br>4 |
-| Defund<br>to<br>Abolish |
-| A<br>400-Year<br>Struggle<br>against<br>Policing<br>in<br>Montreal |
-| Defund<br>the<br>Police<br>Coalition<br>(Montreal) |
-| Chapter<br>5<br>Against<br>the<br>Social<br>Harms<br>of<br>Policing |
+| Dispelling
+the
+Myth
+of
+Difference |
+| Julius
+Haag |
+| Chapter
+4 |
+| Defund
+to
+Abolish |
+| A
+400-Year
+Struggle
+against
+Policing
+in
+Montreal |
+| Defund
+the
+Police
+Coalition
+(Montreal) |
+| Chapter
+5
+Against
+the
+Social
+Harms
+of
+Policing |
 
 ## **Kevin Walby**
 
 ## **Let's Talk about Police in Our Unions**
 
-| An<br>Abolitionist | Approach | to<br>Decent | Work<br>for<br>All |
+| An
+Abolitionist | Approach | to
+Decent | Work
+for
+All |
 |--------------------|----------|--------------|--------------------|
 ## | | | | |
 
@@ -150,7 +189,8 @@ Police as Colonial Mercenaries for State and Capital
 
 **A Brief Introduction to Anti-colonial Abolition**
 
-| Free<br>Lands | Free | Peoples |
+| Free
+Lands | Free | Peoples |
 |---------------|------|---------|
 ## |---------------|------|---------|
 
@@ -174,15 +214,56 @@ Tami Starlight, Moka Dawkins, and Anonymous as told to the P4W Memorial Collecti
 
 ## Toronto Sex Workers Resisting Carceral Violence
 
-| Ellie<br>Ade<br>Kur<br>and<br>Jenny<br>Duffy<br>on<br>behalf<br>of<br>Maggie's<br>Toronto<br>Sex<br>Workers<br>Action<br>Project |
+| Ellie
+Ade
+Kur
+and
+Jenny
+Duffy
+on
+behalf
+of
+Maggie's
+Toronto
+Sex
+Workers
+Action
+Project |
 |----------------------------------------------------------------------------------------------------------------------------------|
-| Chapter<br>13 |
-| DIY<br>Defunding<br>the<br>Police |
-| How<br>Winnipeg<br>Sex<br>Workers<br>Stopped<br>the<br>Police<br>from<br>Taking<br>Drivers'<br>Money |
-| Sex<br>Workers<br>of<br>Winnipeg<br>Action<br>Coalition |
-| Chapter<br>14 |
-| Rights<br>Not<br>Rescue |
-| Defending<br>Migrant<br>Sex<br>Workers<br>from<br>Policing |
+| Chapter
+13 |
+| DIY
+Defunding
+the
+Police |
+| How
+Winnipeg
+Sex
+Workers
+Stopped
+the
+Police
+from
+Taking
+Drivers'
+Money |
+| Sex
+Workers
+of
+Winnipeg
+Action
+Coalition |
+| Chapter
+14 |
+| Rights
+Not
+Rescue |
+| Defending
+Migrant
+Sex
+Workers
+from
+Policing |
 
 ## **No Police at Overdoses**
 
@@ -1507,16 +1588,116 @@ This quickly globalizing moment of Black revolt in the context of COVID-19 deman
 - 7. T. Appleby, "OPP Will Investigate Killing of York Man by Police, Chief Says," Globe and Mail, August 12, 1988, Factiva.
 - 8. J. Hall, "The Controversial Activist behind Demonstrations," Toronto Star, AM edition, May 8, 1992, Factiva; Stephen Lewis, Report of the Advisor on Race Relations to the Premier of Ontario, Bob Rae, Ontario, June 9, 1992, siu.on.ca; Da Silva, "A Short History"; OHRC, "Timeline of Racial Discrimination"; Asha Tomlinson, "From Black Action Defense to Black Lives Matter TO: Decades Apart but the Demands Are the Same," CBC News (Toronto), February 6, 2016, cbc.ca.
 
-| 9.<br>Tomlinson,<br>"From<br>Black<br>Action<br>Defense<br>to<br>Black<br>Lives<br>Matter." |
+| 9.
+Tomlinson,
+"From
+Black
+Action
+Defense
+to
+Black
+Lives
+Matter." |
 |------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 10.<br>Special<br>Investigations<br>Unit,<br>"Frequently<br>Asked<br>Questions:<br>General<br>Information,"<br>December<br>1,<br>2010,<br>siu.on.ca. |
-| 11.<br>L.<br>Sarick,<br>"Police<br>Officers<br>Acquitted<br>in<br>Lawson<br>Shooting,"<br>Globe<br>and<br>Mail,<br>April<br>9,<br>1992,<br>Factiva. |
-| 12.<br>Hall,<br>"The<br>Controversial<br>Activist." |
-| 13.<br>"1992<br>Toronto<br>Riot"<br>[video],<br>You Tube,<br>uploaded<br>by<br>Andrew<br>Luimes,<br>2007,<br>youtube.com. |
-| 14.<br>It<br>Takes<br>a<br>Riot:<br>Race,<br>Rebellion,<br>Reform,<br>motion<br>picture,<br>dir.<br>H.<br>Grandison,<br>2017,<br>vimeo.com. |
-| 15.<br>M.<br>Maychak,<br>"Hooligans<br>to<br>Blame,<br>Not<br>Racism<br>Rae<br>Says,"<br>Toronto<br>Star,<br>May<br>6,<br>1992,<br>Factiva. |
-| 16.<br>Lewis,<br>Report<br>of<br>the<br>Advisor<br>on<br>Race<br>Relations. |
-| 17.<br>Clare<br>Lewis,<br>chair,<br>The<br>Report<br>of<br>the<br>Race<br>Relations<br>and<br>Policing<br>Task |
+| 10.
+Special
+Investigations
+Unit,
+"Frequently
+Asked
+Questions:
+General
+Information,"
+December
+1,
+2010,
+siu.on.ca. |
+| 11.
+L.
+Sarick,
+"Police
+Officers
+Acquitted
+in
+Lawson
+Shooting,"
+Globe
+and
+Mail,
+April
+9,
+1992,
+Factiva. |
+| 12.
+Hall,
+"The
+Controversial
+Activist." |
+| 13.
+"1992
+Toronto
+Riot"
+[video],
+You Tube,
+uploaded
+by
+Andrew
+Luimes,
+2007,
+youtube.com. |
+| 14.
+It
+Takes
+a
+Riot:
+Race,
+Rebellion,
+Reform,
+motion
+picture,
+dir.
+H.
+Grandison,
+2017,
+vimeo.com. |
+| 15.
+M.
+Maychak,
+"Hooligans
+to
+Blame,
+Not
+Racism
+Rae
+Says,"
+Toronto
+Star,
+May
+6,
+1992,
+Factiva. |
+| 16.
+Lewis,
+Report
+of
+the
+Advisor
+on
+Race
+Relations. |
+| 17.
+Clare
+Lewis,
+chair,
+The
+Report
+of
+the
+Race
+Relations
+and
+Policing
+Task |
 
 Force, Ontario, April 1989, archive.org.
 
@@ -1702,16 +1883,86 @@ Months-Long Investigation Reveals That at Every Step Canada's Justice System Is 
 - 6. Ka Ni Kanichihk, "Missing Persons & Persons at Risk Toolkit," kanikanichihk.ca.
 - 7. Chickadee Richard, interview, June 22, 2016.
 
-| 8.<br>Bear<br>Clan<br>Patrol,<br>bearclanpatrol.org. |
+| 8.
+Bear
+Clan
+Patrol,
+bearclanpatrol.org. |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 9.<br>Alex<br>Cooke,<br>"Recent<br>Deaths<br>Prompt<br>Questions<br>about<br>Police<br>Wellness<br>Checks,"<br>CBC<br>News,<br>June<br>23,<br>2020,<br>cbc.ca. |
-| 10.<br>Mama<br>Bear<br>Clan,<br>Facebook,<br>facebook.com. |
-| 11.<br>Brian<br>Oliver,<br>"Portage's<br>Roulette<br>on<br>the<br>Hunt<br>for<br>Ribbon<br>Skirts,"<br>North<br>Bay<br>Nugget,<br>November<br>5,<br>2018,<br>nugget.ca. |
-| 12.<br>Vancouver<br>Police<br>Department,<br>"Sister<br>Watch,"<br>vpd.ca. |
-| 13.<br>Feb<br>14th<br>Annual<br>Womens<br>Memorial<br>March,<br>womensmemorialmarch.wordpress.com. |
-| 14.<br>Tears<br>for<br>Justice,<br>Facebook,<br>facebook.com. |
-| 15.<br>Full<br>Moon<br>Memory<br>Walk,<br>Facebook,<br>facebook.com. |
-| 16.<br>Iskwewuk<br>E-wichiwitochik,<br>Facebook,<br>facebook.com. |
+| 9.
+Alex
+Cooke,
+"Recent
+Deaths
+Prompt
+Questions
+about
+Police
+Wellness
+Checks,"
+CBC
+News,
+June
+23,
+2020,
+cbc.ca. |
+| 10.
+Mama
+Bear
+Clan,
+Facebook,
+facebook.com. |
+| 11.
+Brian
+Oliver,
+"Portage's
+Roulette
+on
+the
+Hunt
+for
+Ribbon
+Skirts,"
+North
+Bay
+Nugget,
+November
+5,
+2018,
+nugget.ca. |
+| 12.
+Vancouver
+Police
+Department,
+"Sister
+Watch,"
+vpd.ca. |
+| 13.
+Feb
+14th
+Annual
+Womens
+Memorial
+March,
+womensmemorialmarch.wordpress.com. |
+| 14.
+Tears
+for
+Justice,
+Facebook,
+facebook.com. |
+| 15.
+Full
+Moon
+Memory
+Walk,
+Facebook,
+facebook.com. |
+| 16.
+Iskwewuk
+E-wichiwitochik,
+Facebook,
+facebook.com. |
 ## | |
 
 17. Kanawayhitowin: Taking Care of Each Other's Spirit, kanawayhitowin.ca. 18. Feathers for Our Women, shadesofoursisters.com. 19. Carrier Sekani Family Services, "Highway of Tears Community Safety Toolkit," highwayoftears.org. 20. The Audre Lorde Project, National Gathering on Transformative and Community Accountability, September 2010. **Chapter 11. Narratives on Carceral Abolition** 1. Brianna Jaffray, Canadian Centre for Justice and Community Safety Statistics, "Experiences of Violent Victimization and Unwanted Sexual Behaviours among Gay, Lesbian, Bisexual and Other Sexual Minority People, and the Transgender Population, in Canada, 2018," Table 10, Statistics Canada, statcan.gc.ca. 2. Barbara Perry and D. Ryan Dyck, "'I Don't Know Where It Is Safe': Trans Women's Experiences of Violence," Critical Criminology 22 (2014): 49–63, doi: 10.1007/s10612-013-9225-0. 3. Tara Lyons, Andrea Krüsi, Leslie Pierre, Thomas Kerr, Will Small, and Kate Shannon, "Negotiating Violence in the Context of Transphobia and Criminalization: The Experiences of Trans Sex Workers in Vancouver, Canada,"

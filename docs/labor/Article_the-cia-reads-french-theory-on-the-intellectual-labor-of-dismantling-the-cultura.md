@@ -1,13 +1,8 @@
 ---
-title: >-
-  The Cia Reads French Theory On the Intellectual Labor of Dismantling the
-  Cultura
-date: 2025
-author: Unknown
-tags:
-  - organizing
-  - rent
-  - anarchism
+title: ">-"
+author: "Unknown"
+date: "2025"
+category: "labor"
 ---
 
 # The Cia Reads French Theory On the Intellectual Labor of Dismantling the Cultura

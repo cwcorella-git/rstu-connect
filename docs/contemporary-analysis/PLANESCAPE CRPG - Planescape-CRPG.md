@@ -1,3 +1,8 @@
+---
+title: "PLANESCAPE CRPG LAST RITES"
+category: "contemporary-analysis"
+---
+
 # PLANESCAPE CRPG LAST RITES
 
 # TABLET OF CONTENTS PRODUCT REVIEW PACK
@@ -93,7 +98,7 @@ The brief story summary's below, followed by a list of all the cool shit we plan
 
 The player is a scarred, amnesiac immortal in search of his identity. On the way, the player character will kill a lot of people...including himself.
 
-The game begins with the character waking up on a cold stone slab in the Mortuary, a huge morgue in the city of Sigil. The player character has no idea who he is, what he is doing there, and how he died. He must escape and explore the strange world beyond the Mortuary walls to uncover the secret of his death and rebirth.<sup>1</sup>
+The game begins with the character waking up on a cold stone slab in the Mortuary, a huge morgue in the city of Sigil. The player character has no idea who he is, what he is doing there, and how he died. He must escape and explore the strange world beyond the Mortuary walls to uncover the secret of his death and rebirth.1
 
 A detailed plot summary has been provided after the vision statement. Now for a list of the cool features of this game:
 
@@ -113,7 +118,7 @@ This game engine don't tile. This one deserves special mention since it"s probab
 
 ## Last Rites Team Version 1.5
 
-<sup>1</sup> The story is set up so the player character starts out with no knowledge of the world he is in. This allows both the player and his character to be introduced to the world together as they explore it and gives the player more identification with his character.
+1 The story is set up so the player character starts out with no knowledge of the world he is in. This allows both the player and his character to be introduced to the world together as they explore it and gives the player more identification with his character.
 
 Imagine exploring a painted landscape. That"s what this game does.
 
@@ -531,29 +536,29 @@ Interplay is the only company ever to have this license. The exclusiveness could
 
 ### You are a large, fleshy puzzle box with several locks. Find the keys.
 
-You wake up from the dead with amnesia.<sup>2</sup> The point of the game is to find out where you are, who you are, how you died, and what the future holds in store for you. If it means putting a bunch of people in the dead book, so be it.
+You wake up from the dead with amnesia.2 The point of the game is to find out where you are, who you are, how you died, and what the future holds in store for you. If it means putting a bunch of people in the dead book, so be it.
 
 At its core, Last Rites is a mystery, with the character as the enigma. Throughout the game, curiosity, greed, fear, a need to escape, survival, self-defense and revenge will all take turns driving the character toward the grand finale, but ultimately all of these motivations revolve around finding the answers to the following questions:
 
 Who am I?
 
-## Who keeps trying to kill me?<sup>3</sup>
+## Who keeps trying to kill me?3
 
 Why am I immortal?
 
 Learning the answers to these questions can give the player character tremendous power over his destiny. It may also mean dying a lot. But fate is a fickle mistress…
 
-<sup>2</sup> Amnesia is also designed to give the player more identification with the character. The shock of Sigil and the outer planes would be diminished if the player character was assumed to know the workings of the multiverse. The PC"s amnesia is also used to create more character-driven puzzles than plot-driven (more of "who am I/was I" puzzles than "what should I do" puzzles).
+2 Amnesia is also designed to give the player more identification with the character. The shock of Sigil and the outer planes would be diminished if the player character was assumed to know the workings of the multiverse. The PC"s amnesia is also used to create more character-driven puzzles than plot-driven (more of "who am I/was I" puzzles than "what should I do" puzzles).
 
-<sup>3</sup> And why aren"t they doing a very good job?
+3 And why aren"t they doing a very good job?
 
 # REINCARNATION AND AMNESIA MAKE STRANGE BEDFELLOWS
 
 #### What can you say about a game with reincarnation and amnesia as plot devices?
 
-The player quickly discovers it is almost impossible for him to die.<sup>4</sup> He regenerates from traumatic damage, shrugs off stab wounds, and becomes a close friend of fast-developing scabs and blisters that harden and fall off within minutes.
+The player quickly discovers it is almost impossible for him to die.4 He regenerates from traumatic damage, shrugs off stab wounds, and becomes a close friend of fast-developing scabs and blisters that harden and fall off within minutes.
 
-The problem is that every time the player dies, he "forgets" everything his previous incarnation knew. Or thought it knew. This is extremely frustrating.<sup>5</sup>
+The problem is that every time the player dies, he "forgets" everything his previous incarnation knew. Or thought it knew. This is extremely frustrating.5
 
 Combining the character's amnesia with his ability to rise from the dead, a whole bunch of questions come to mind. What has he done in previous incarnations that affect the present? What pleasant or unpleasant events have occurred in Sigil and the outer planes that he is responsible for? And the most important question: What led him to this state? How did this happen? (Many other people are also interested in this question.)
 
@@ -563,7 +568,7 @@ As the player will discover, many have been touched by his actions in the past, 
 
 The player wakes up on a cold slab in a room piled with dead bodies. He has no memory of who he is or what he's doing there.
 
-As the player crawls off the slab, a skull<sup>6</sup> on a nearby table introduces itself. The skull, **Morte**, calmly informs the player he's in the "Mortuary," a huge morgue in the city of Sigil. He also mentions that if the Dustmen (the Mortuary caretakers) find out the player "woke up" after dying, they'll probably toss him in the crematorium. This would be bad.
+As the player crawls off the slab, a skull6 on a nearby table introduces itself. The skull, **Morte**, calmly informs the player he's in the "Mortuary," a huge morgue in the city of Sigil. He also mentions that if the Dustmen (the Mortuary caretakers) find out the player "woke up" after dying, they'll probably toss him in the crematorium. This would be bad.
 
 Morte will help the player escape...that is, as long as the player helps him. (The player cannot leave the Mortuary without Morte.) From then on, the sarcastic floating skull will be his near-constant smack-talkin' companion.
 
@@ -571,11 +576,11 @@ Morte will help the player escape...that is, as long as the player helps him. (T
 
 .
 
-<sup>&</sup>lt;sup>4</sup> Another plot device. This one allows the player to regenerate while walking around, and it also allows him to explore Sigil and the outer planes with a safety net. (The net is not foolproof – cremation/disintegration, imprisonment, and the Lady of Pain are all things that the player still needs to watch out for.) Plotwise, it presents the player with a series of puzzles involving earlier incarnations and their actions.
+&lt;sup>4 Another plot device. This one allows the player to regenerate while walking around, and it also allows him to explore Sigil and the outer planes with a safety net. (The net is not foolproof – cremation/disintegration, imprisonment, and the Lady of Pain are all things that the player still needs to watch out for.) Plotwise, it presents the player with a series of puzzles involving earlier incarnations and their actions.
 
-<sup>&</sup>lt;sup>5</sup> Anytime the player dies during *Last Rites*, however, he will not lose his memory. A previous incarnation found a means to temporarily prevent the amnesia to give the player a chance to find his adversary.
+&lt;sup>5 Anytime the player dies during *Last Rites*, however, he will not lose his memory. A previous incarnation found a means to temporarily prevent the amnesia to give the player a chance to find his adversary.
 
-<sup>&</sup>lt;sup>6</sup> The skull is the player's first "ally," **Mortimer "Morte" Rictusgrin**, a sarcastic floating skull. He floats alongside the character for most of the adventure, being a smart ass and talking a lot of smack with the PC and his allies.
+&lt;sup>6 The skull is the player's first "ally," **Mortimer "Morte" Rictusgrin**, a sarcastic floating skull. He floats alongside the character for most of the adventure, being a smart ass and talking a lot of smack with the PC and his allies.
 
 ### SIGIL'S SLUMS: THE HIVE
 
@@ -603,7 +608,7 @@ Pharod says he will help the player if the player loots one of the crypts in the
 
 ### WEEPING STONE CATACOMBS
 
-The player enters the Weeping Stone Catacombs as a "favor" for Pharod. The player enters the catacombs beneath Sigil. Here he discovers a civilization of living dead and a hive of intelligent rats that exist in a shaky truce…a truce the player"s presence could break if he is not careful. The player must either fight all the inhabitants, fight for one of the two groups, or sneak through the catacombs, get what he needs, then get out. <sup>7</sup>
+The player enters the Weeping Stone Catacombs as a "favor" for Pharod. The player enters the catacombs beneath Sigil. Here he discovers a civilization of living dead and a hive of intelligent rats that exist in a shaky truce…a truce the player"s presence could break if he is not careful. The player must either fight all the inhabitants, fight for one of the two groups, or sneak through the catacombs, get what he needs, then get out. 7
 
 It turns out that the crypt that Pharod wants the player to loot is the *player's own tomb*. If he can navigate the deathtraps one of his previous incarnations placed there, he can return the object that Pharod wants and also gain some information, weapons and clues to his immortality. He discovers that his attempted murderer is some asinine being called the **Transcendent One**, who seems to have been hunting the player across the span of several centuries.
 
@@ -623,9 +628,9 @@ Beyond the living alley the player enters Sigil's upper class district -- and st
 
 -
 
-<sup>&</sup>lt;sup>7</sup> The player's actions here may cause problems later...the player has to return to these catacombs later on in the adventure and must deal with the residents again.
+&lt;sup>7 The player's actions here may cause problems later...the player has to return to these catacombs later on in the adventure and must deal with the residents again.
 
-<sup>&</sup>lt;sup>8</sup> One of the player's previous incarnations had the tomb built to as a trap for his killer (and failing that, at least try and throw his killer off the scent). It didn't work.
+&lt;sup>8 One of the player's previous incarnations had the tomb built to as a trap for his killer (and failing that, at least try and throw his killer off the scent). It didn't work.
 
 ## ![](_page_37_Figure_3.jpeg)
 
@@ -649,13 +654,13 @@ Ravel cannot remember why the player and his mortality were split. She claims th
 
 ### PRISON GATE-TOWN OF CURST
 
-Welcome to the prison town of Curst. Once inside the gates, you're an inmate. The player arrives in Curst in search of information. While there, he becomes acquainted with the gang of criminals, politicians and backstabbers that live there. In the depths of the Curst jail, he discovers Trias the Condemned, a deva<sup>9</sup> who has been imprisoned by the Curst officials. If the player frees him, Trias tells the player there is a fiend on the Outlands that could help the player reach Baator (Forked-Tounge, below).
+Welcome to the prison town of Curst. Once inside the gates, you're an inmate. The player arrives in Curst in search of information. While there, he becomes acquainted with the gang of criminals, politicians and backstabbers that live there. In the depths of the Curst jail, he discovers Trias the Condemned, a deva9 who has been imprisoned by the Curst officials. If the player frees him, Trias tells the player there is a fiend on the Outlands that could help the player reach Baator (Forked-Tounge, below).
 
 While the player is gone from Curst, Trias (who is really quite a bastard past his angelic aura) proceeds to cause all sorts of trouble that results in the town sliding off its plane of existence. When the player returns to Curst, the city will be gone.
 
 ## Last Rites Team Version 1.5
 
-<sup>9</sup> Devas are the Planescape equivalent of angels.
+9 Devas are the Planescape equivalent of angels.
 
 ## ![](_page_40_Picture_3.jpeg)
 
@@ -667,7 +672,7 @@ Forked-Tounge (gritting his teeth as he gives something for nothing) provides th
 
 ## Last Rites Team Version 1.5
 
-<sup>10</sup> A "baatezu" is the Planescape equivalent of a devil. The reason they don"t just use "angel, devil, heaven" and "hell" is so they don"t give various religious groups any (more) ammo for lawsuits or crusades.
+10 A "baatezu" is the Planescape equivalent of a devil. The reason they don"t just use "angel, devil, heaven" and "hell" is so they don"t give various religious groups any (more) ammo for lawsuits or crusades.
 
 ## ![](_page_41_Picture_3.jpeg)
 
@@ -689,15 +694,15 @@ The player arrives back at the prison town of Curst…except it's not there anym
 
 - Track town the missing city of Curst in the harsh environment of Carceri.
 - Protect Curst from Carceri"s evil natives who are very happy for the fresh meat.
-- Rescue the town by bringing it back to its proper plane. This will involve killing the betrayers that started this whole sliding mess in the first place.<sup>11</sup>
+- Rescue the town by bringing it back to its proper plane. This will involve killing the betrayers that started this whole sliding mess in the first place.11
 
 While on this plane, the player tracks down Trias and learns the last bits of information to complete the quest: the nature of the key needed to get to the final location of the game
 
 ## Last Rites Team Version 1.5
 
-<sup>11</sup> The player must cause the banished town to slide back for his own sake…he cannot find any other portal on the plane that will take him back within the game.
+11 The player must cause the banished town to slide back for his own sake…he cannot find any other portal on the plane that will take him back within the game.
 
-(**The Fortress of Regrets**) and the location of the portal to the Fortress (the portal is located in a small niche in the Mortuary). <sup>12</sup> Trias will use the information as leverage against the player character to try and save his life.
+(**The Fortress of Regrets**) and the location of the portal to the Fortress (the portal is located in a small niche in the Mortuary). 12 Trias will use the information as leverage against the player character to try and save his life.
 
 An awesome movie plays that shows the town sliding back into its proper plane, the player, his arms outstretched as the wave of portal energy washes over him and the town (think of Soren as he summons the Nexus in *Star Trek: Generations*).
 
@@ -709,16 +714,16 @@ The adventure comes full circle. The player returns to where he started the adve
 
 - **Battle:** Defeat the horde of vengeful shadows that lurk in the halls of the Fortress.
 - ❖ **Puzzles:** Survive three trials (impulse, illusion and spiritual illumination).
-- ❖ **Final Battle:** The player confronts his adversary, the Transcendent One, and discovers the truth: his "adversary" is actually his missing mortality that has evolved into its own personality. The Transcendent One's personality depends on the character's actions over the course of *Last Rites*. <sup>13</sup>
+- ❖ **Final Battle:** The player confronts his adversary, the Transcendent One, and discovers the truth: his "adversary" is actually his missing mortality that has evolved into its own personality. The Transcendent One's personality depends on the character's actions over the course of *Last Rites*. 13
 
 Once the player learns the truth, he can:
 
 - \* ("Bad" Ending) Walk away and don't look back. The player does not have to become mortal again if he doesn't want to (immortality, even with amnesia, has its obvious benefits). The tone of this ending will leave something to be desired, but the player may choose it if they wish. If the player chooses this ending, the game basically begins again where it started, with the player awakening in the Mortuary without his memory and a (saddened) Morte greeting him back to life again.
 - ❖ ("Not Quite so Good" Ending) Perform "Last Rites," damning yourself but saving all of existence by becoming mortal and letting death take its natural course. If the player can *convince* his mortality to return to him (his mortality has no desire to return to him − it doesn't like the player and enjoys its autonomy), the player discovers why his mortality was separated from him in the first place...to avoid the penance for a lifetime of evil.
 
-<sup>&</sup>lt;sup>12</sup> The irony is that this is about five feet from where the player started the game.
+&lt;sup>12 The irony is that this is about five feet from where the player started the game.
 
-<sup>&</sup>lt;sup>13</sup> Basically, if the player was an evil asshole, his adversary is supremely good and self-righteous. If the player acted like a goody two-shoes for the entire adventure, his adversary oozes with evil. If the player was neutral, his adversary is indifferent to his fate.
+&lt;sup>13 Basically, if the player was an evil asshole, his adversary is supremely good and self-righteous. If the player acted like a goody two-shoes for the entire adventure, his adversary oozes with evil. If the player was neutral, his adversary is indifferent to his fate.
 
 (Best Ending) This is a game. I want to have my cake and eat it, too. The player learns why his mortality was separated from him, but rather than becoming mortal, he turns on it, killing it/trapping it and preventing it from interfering with his life anymore (i.e., killing him). He then wanders the planes as a happy immortal.
 

@@ -1,3 +1,8 @@
+---
+title: "## **to Columbia's undergraduates (and students everywhere): HOLD THE LINE.**"
+category: "youth-student-organizing"
+---
+
 ## **to Columbia's undergraduates (and students everywhere): HOLD THE LINE.**
 
 ## **Date:** 2024-04-23
@@ -123,13 +128,19 @@ There are high school students watching you all put skin in the game: detainment
 | I did not |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | really |
-| get involved in organizing on campus until graduate school (since my last year was stolen by<br>COVID-19 and my mother being very ill). And |
+| get involved in organizing on campus until graduate school (since my last year was stolen by
+COVID-19 and my mother being very ill). And |
 | that's |
-| a far more fickle bunch. I've also watched, over the past two years, several graduate student<br>union strikes occur across the country that all conceded their collective bargaining power<br>(withholding their labor) |
+| a far more fickle bunch. I've also watched, over the past two years, several graduate student
+union strikes occur across the country that all conceded their collective bargaining power
+(withholding their labor) |
 | before |
-| all their demands were met— meaning some of their comrades went on strike and endured<br>that precarity for zero (!!!) material gain. In my opinion, adults tend to move towards radicalism<br>to make a |
+| all their demands were met— meaning some of their comrades went on strike and endured
+that precarity for zero (!!!) material gain. In my opinion, adults tend to move towards radicalism
+to make a |
 | statement |
-| , but they do not play to win. You are already learning from our mistakes! The class solidarity I<br>am witnessing is enormous. |
+| , but they do not play to win. You are already learning from our mistakes! The class solidarity I
+am witnessing is enormous. |
 
 HOLD THE LINE!
 

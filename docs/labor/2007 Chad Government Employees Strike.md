@@ -1,3 +1,8 @@
+---
+title: "## **2007: Chad Government Employees Strike**"
+category: "labor"
+---
+
 ## **2007: Chad Government Employees Strike**
 
 **Date:** Unknown

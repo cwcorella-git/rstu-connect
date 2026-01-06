@@ -1,18 +1,8 @@
 ---
-title: Reply to Brad DeLong
-author: David Graeber
-date: '2011'
-pubdate: '2021-11-28T19:44:55'
-language: en
-source_url: >-
-  Retrieved on 28<sup>th</sup> November 2021 from
-  [[https://davidgraeber.org/articles/brad-delong-reply/][davidgraeber.org]]
-topics:
-  - a response
-original_format: muse
-converted_date: '2025-11-08T11:25:03.198054'
-tags:
-  - A Response
+title: "Reply to Brad DeLong"
+author: "David Graeber"
+date: "2011"
+category: "contemporary-analysis"
 ---
 
 In late 2011, around the time of Occupy Wall Street, he for some reason known only to himself, decided to go gunning for me despite my never having met him or interacted with him in my life. He started with outright personal slander that had nothing to do with my work (or anything else I could figure out) until my publishers encouraged me to point out that false personal aspersions were actionable

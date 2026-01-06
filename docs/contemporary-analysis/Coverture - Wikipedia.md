@@ -1,3 +1,8 @@
+---
+title: "**Coverture**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Coverture)
 
 # **Coverture**

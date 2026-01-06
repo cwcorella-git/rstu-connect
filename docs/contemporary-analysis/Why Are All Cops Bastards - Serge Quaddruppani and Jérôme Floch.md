@@ -1,3 +1,8 @@
+---
+title: "## **Why Are All Cops Bastards? - Serge Quaddruppani and Jérôme Floch**"
+category: "contemporary-analysis"
+---
+
 ## **Why Are All Cops Bastards? - Serge Quaddruppani and Jérôme Floch**
 
 ## **Date:** Unknown

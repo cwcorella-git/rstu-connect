@@ -1,3 +1,8 @@
+---
+title: "## **Oilpatch workers have a plan, but Ottawa needs to act: Four-point plan would get tradespeople r"
+category: "environmental-justice"
+---
+
 ## **Oilpatch workers have a plan, but Ottawa needs to act: Four-point plan would get tradespeople retrained and back to work in clean energy**
 
 ## **Date:** Wed, 11/02/2016 - 18:02
@@ -43,11 +48,15 @@ Iron & Earth has also submitted the Solar Skills proposal to upskill 1,000 trade
 | Energy workers and their families have been hit hard by economic forces, with an |
 | estimated |
 | 43,000 jobs lost due to the recent downturn |
-| Of the energy sector workers surveyed for the Workers' Climate Plan, 63 per cent said they<br>could shift to renewable projects "directly with some training" and another 16 per cent said<br>they could shift without any need for retraining |
+| Of the energy sector workers surveyed for the Workers' Climate Plan, 63 per cent said they
+could shift to renewable projects "directly with some training" and another 16 per cent said
+they could shift without any need for retraining |
 | Siemens Canada |
 | estimates |
-| that in Alberta and Saskatchewan alone, new policies will generate up to \$50 billion in<br>renewable energy investments over the next 14 years |
-| Alberta is on track to add 2,000 megawatts of solar energy to its grid by 2025, which is roughly<br>200 times what exists today |
+| that in Alberta and Saskatchewan alone, new policies will generate up to \$50 billion in
+renewable energy investments over the next 14 years |
+| Alberta is on track to add 2,000 megawatts of solar energy to its grid by 2025, which is roughly
+200 times what exists today |
 | Clean energy has already |
 | created |
 | more than 27,000 jobs in Canada and has the potential to create many more |

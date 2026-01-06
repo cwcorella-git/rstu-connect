@@ -1,16 +1,10 @@
 ---
-title: Antifa  The Anti Fascist Handbook
-slug: Antifa_ the Anti-fascist Handbook
-reconversion_status: ready_for_reconversion
-date: 1913
-author: Mark Bray
-tags:
-  - theory
-  - anarchism
-  - strikes
-  - unions
-  - tenants
+title: "Antifa  The Anti Fascist Handbook"
+author: "Mark Bray"
+date: "1913"
+category: "theory"
 ---
+
 # **Mark Bray**
 
 # **Antifa: the Anti-fascist Handbook**
@@ -1641,17 +1635,17 @@ Arm the Spirit Archive, [http://kersplebedeb.com/posts/arm-the-spirit-archive/](
 
 Three Way Fight, http://threewayfi[ght.blogspot.com/](http://threewayfight.blogspot.com/)
 
-## It's Going Down,<https://itsgoingdown.org/>(U. S.)
+## It's Going Down,(U. S.)
 
-## La Horde,<http://lahorde.samizdat.net/>(France)
+## La Horde,(France)
 
 REFLEXes, http://refl[exes.samizdat.net/](http://reflexes.samizdat.net/) (France)
 
-Antifaschistisches Info Blatt,<https://www.antifainfoblatt.de/>(Germany)
+Antifaschistisches Info Blatt,(Germany)
 
-## REDOX,<https://redox.dk/>(Denmark)
+## REDOX,(Denmark)
 
-Antifa International,<https://antifainternational.tumblr.com/>
+Antifa International,
 
 ## **About the Author**
 

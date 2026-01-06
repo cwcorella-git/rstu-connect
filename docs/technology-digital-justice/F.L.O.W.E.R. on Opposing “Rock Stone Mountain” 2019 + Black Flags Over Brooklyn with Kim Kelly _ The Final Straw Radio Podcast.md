@@ -1,3 +1,8 @@
+---
+title: "**F. L. O. W. E. R. on Opposing "Rock Stone Mountain" 2019 + Black Flags Over Brooklyn with Kim Kelly**"
+category: "technology-digital-justice"
+---
+
 #### [thefinalstrawradio.noblogs.org](https://thefinalstrawradio.noblogs.org/post/2019/01/13/f-l-o-w-e-r-on-opposing-rock-stone-mountain-2019-black-flags-over-brooklyn-with-kim-kelly/)
 
 # **F. L. O. W. E. R. on Opposing "Rock Stone Mountain" 2019 + Black Flags Over Brooklyn with Kim Kelly**
@@ -10,7 +15,7 @@ Firstly we're presenting a conversation that William had with an organizer with 
 
 ## 1 of 6 11/11/25, 10:16 PM
 
-This group is @flowerunited on Twitter, and that's a great way to get rapid updates as February 2nd draws nearer. Also a great way to keep updated and read more about the history of this event, plus to see a long list of endorsing groups, you can go to <https://flowerunited.org/>
+This group is @flowerunited on Twitter, and that's a great way to get rapid updates as February 2nd draws nearer. Also a great way to keep updated and read more about the history of this event, plus to see a long list of endorsing groups, you can go to 
 
 ## Audio Player
 

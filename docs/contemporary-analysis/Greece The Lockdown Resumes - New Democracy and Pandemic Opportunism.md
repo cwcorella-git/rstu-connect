@@ -1,3 +1,8 @@
+---
+title: "**Greece: The Lockdown Resumes - New Democracy and Pandemic Opportunism**"
+category: "contemporary-analysis"
+---
+
 # **Greece: The Lockdown Resumes - New Democracy and Pandemic Opportunism**
 
 ## **Date:** Unknown

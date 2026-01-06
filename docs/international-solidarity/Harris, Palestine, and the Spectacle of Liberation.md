@@ -1,3 +1,8 @@
+---
+title: "## **Harris, Palestine, and the Spectacle of Liberation.**"
+category: "international-solidarity"
+---
+
 ## **Harris, Palestine, and the Spectacle of Liberation.**
 
 ## **Date:** 2024-08-01
@@ -20,15 +25,19 @@ The thesis of today's musings are that we want the fiction of a happy ending mor
 
 We thrive off spectacle.
 
-| Women's March, Washington DC, USA 2017 Did this ensure our continued reproductive<br>rights and accessible healthcare for wombs? |
+| Women's March, Washington DC, USA 2017 Did this ensure our continued reproductive
+rights and accessible healthcare for wombs? |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| March for Our Lives, Washington DC, USA 2020 Did this successfully drop the amount of<br>extrajudicial killings of police officers upon Black and Brown communities? |
-| National March for Palestine on Washington DC, USA 2023 Has this stopped the bombs<br>from falling? Does the United States feel pressure to cease its arming of the Israeli regime? |
+| March for Our Lives, Washington DC, USA 2020 Did this successfully drop the amount of
+extrajudicial killings of police officers upon Black and Brown communities? |
+| National March for Palestine on Washington DC, USA 2023 Has this stopped the bombs
+from falling? Does the United States feel pressure to cease its arming of the Israeli regime? |
 | I try not to be furious on the internet but some moments, it cannot be helped. |
 | What are we doing here? |
 | These balloon moments where people care— it always feels like we're |
 | so close. |
-| I have been naive enough, especially as a new college graduate in 2020, to believe that we<br>were so |
+| I have been naive enough, especially as a new college graduate in 2020, to believe that we
+were so |
 | close. |
 | I believed that with the right kind of education, the right timing, the |
 | right |
@@ -67,32 +76,46 @@ I think we love the spectacle and the ceremony of it all. I would argue, in fact
 
 I was there on the right side of history and took a picture for the textbooks spectacle.
 
-| Then we return to our house cubicles to sit on our cushions and share the footage of<br>massacres in Palestine. |
+| Then we return to our house cubicles to sit on our cushions and share the footage of
+massacres in Palestine. |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Media does not |
 | humanize |
 | these people flashing on our screens. It makes them |
 | icons |
 | |
-| Hind Rajab, who was killed six months ago by the end of July when the Israeli military fired<br>355 bullets at her while she was trapped in a car surrounded by her dead loved ones calling<br>for help. She was six years old. |
+| Hind Rajab, who was killed six months ago by the end of July when the Israeli military fired
+355 bullets at her while she was trapped in a car surrounded by her dead loved ones calling
+for help. She was six years old. |
 | Iconography |
-| happens on either side of the same coin: you are either made into a devil or an angel. You are<br>a villain to be defeated or you are a cause to rally around. These polar points often happen at<br>the same time, flip sides of the same coin. None of the above is in the normal protocol for How<br>We Treat a Human Being. Human beings are not symbols, and they are often not causes to<br>rally around. |
-| You can tell that slain Palestinians are symbols and not humans because we do not dissent<br>like this |
+| happens on either side of the same coin: you are either made into a devil or an angel. You are
+a villain to be defeated or you are a cause to rally around. These polar points often happen at
+the same time, flip sides of the same coin. None of the above is in the normal protocol for How
+We Treat a Human Being. Human beings are not symbols, and they are often not causes to
+rally around. |
+| You can tell that slain Palestinians are symbols and not humans because we do not dissent
+like this |
 | until they die. We save the worst of our dissent for |
 
 | when they perish. |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Instead of fighting for their lives, we |
 | wait for the grief |
-| mobilize us into action. That's true of this particular genocide as a whole. 75 years of crying<br>out unto deaf international ears, then everybody cares once the bombs drop. |
+| mobilize us into action. That's true of this particular genocide as a whole. 75 years of crying
+out unto deaf international ears, then everybody cares once the bombs drop. |
 | What happens when a genocide falls out of the news cycle? |
-| For those of us in the West? …Relief. Don't shy away from these thoughts. It's my job, as an<br>artist, to force us to be honest. |
+| For those of us in the West? …Relief. Don't shy away from these thoughts. It's my job, as an
+artist, to force us to be honest. |
 | We silently feel relieved. |
 | We feel exhausted by the weight of having to care about people we ultimately |
 | feel |
 | we can do |
 | nothing for |
-| . True radicalization, the kind of change of thought that translates into changed action, only<br>happens for a precious few. The vast majority of onlookers never really wanted to move from<br>their position as spectator; they just fervently wished for a happier ending. So when there is<br>less to look at (because the news cycle needs fresh blood; because the people providing live,<br>on the ground coverage have been killed; when there's less to look at because we have seen |
+| . True radicalization, the kind of change of thought that translates into changed action, only
+happens for a precious few. The vast majority of onlookers never really wanted to move from
+their position as spectator; they just fervently wished for a happier ending. So when there is
+less to look at (because the news cycle needs fresh blood; because the people providing live,
+on the ground coverage have been killed; when there's less to look at because we have seen |
 
 so many clips and photographs and accounts of visceral deaths that looking only makes us numb anyhow), we turn our eyes to the easiest narrative of hope that our screens can provide. We accept a manufactured happy ending.
 
@@ -126,7 +149,8 @@ Speech and Debate made way more than we needed, and we laughed at the ad for a g
 
 | Kamala "The Meme Queen" Harris: An Icon |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Vice President Kamala Harris announced her bid for the United States presidency on July 21,<br>2024, which means that she has further solidifed her place in the American psyche as |
+| Vice President Kamala Harris announced her bid for the United States presidency on July 21,
+2024, which means that she has further solidifed her place in the American psyche as |
 | icon |
 | and |
 | symbol |
@@ -134,20 +158,31 @@ Speech and Debate made way more than we needed, and we laughed at the ad for a g
 | human worthy of critique |
 | . She has already been explicit that continues to ensure |
 | Israel's right to defend itself |
-| , the same genocidal talking point we have been fed over Anglophone media for nearly a year.<br>The clips of her or about her I find most viral are not about her policy. They make no mention<br>of her tenure as her state's attorney general. They're about the silly, memeable things she<br>says during speeches. Or her slipping around her silk press. Or her laugh, which has a way of<br>humanizing her. |
+| , the same genocidal talking point we have been fed over Anglophone media for nearly a year.
+The clips of her or about her I find most viral are not about her policy. They make no mention
+of her tenure as her state's attorney general. They're about the silly, memeable things she
+says during speeches. Or her slipping around her silk press. Or her laugh, which has a way of
+humanizing her. |
 | This is advertising. |
 | Making people laugh is a phenomenal way to build one-sided rapport. |
 
-| Familiarity breeds trust. Watching the rebrand over the past four years from Harris being<br>shrewd, sharp, and wildly competent prosecutor to her being a head empty, hair flipping, out<br>of the box, auntie-esque orator has been… sobering, to say the least. At first, it was<br>outrageous. It felt silly and that angered me and I didn't know why. Then, I saw how |
+| Familiarity breeds trust. Watching the rebrand over the past four years from Harris being
+shrewd, sharp, and wildly competent prosecutor to her being a head empty, hair flipping, out
+of the box, auntie-esque orator has been… sobering, to say the least. At first, it was
+outrageous. It felt silly and that angered me and I didn't know why. Then, I saw how |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | effective |
 | it was. |
 | She's a media queen. |
-| We share clips of her talking and "funny" audios of her speeches and not the policy decisions<br>being handled under her administration. Even as many of us were |
+| We share clips of her talking and "funny" audios of her speeches and not the policy decisions
+being handled under her administration. Even as many of us were |
 | primed |
-| to know better. At the beginning of the election in 2020 when she was running for President<br>against Biden, I saw post after post on Twitter reminding us of her previous policy decisions in<br>law enforcement (most recurrently a crackdown on truancy laws that leads to |
+| to know better. At the beginning of the election in 2020 when she was running for President
+against Biden, I saw post after post on Twitter reminding us of her previous policy decisions in
+law enforcement (most recurrently a crackdown on truancy laws that leads to |
 | parents being charged with misdemeanors for not taking their child to school |
-| , punishable with up to a year in jail). I myself almost did not graduate high school and went to<br>jail at 17 for "criminal truancy" when what I was experiencing was poverty. |
+| , punishable with up to a year in jail). I myself almost did not graduate high school and went to
+jail at 17 for "criminal truancy" when what I was experiencing was poverty. |
 ## | Cheree Peoples was arrested in her pajamas |
 
 and paraded in front of cameras for her daughter (who has sickle cell) having two many absences from school.
@@ -184,13 +219,21 @@ He has a flagrant disregard of the rules of presidential diplomacy that disgrace
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | . She doesn't |
 | embarrass |
-| us. We are willing to trade liberation for spectacle, but it must be a spectacle that makes us<br>feel good at the end of the day. |
+| us. We are willing to trade liberation for spectacle, but it must be a spectacle that makes us
+feel good at the end of the day. |
 | Do you know how I know? |
 | We should be outraged |
-| that the Vice President of an administration aiding an abetting the most documented genocide<br>in human history can peacefully run for office. That is a sham. |
+| that the Vice President of an administration aiding an abetting the most documented genocide
+in human history can peacefully run for office. That is a sham. |
 | That |
 | is embarrassing. |
-| Especially when that person has stated they do not plan on enforcing any sort of concession<br>from the murderous Israeli regime. There has been absolutely no mention of the other human<br>rights crises and violations happening elsewhere amongst the colonized world— the ongoing<br>conflicts in across Black and Indigenous nations that we tend to tack onto Free Palestine to<br>show we absolutely do care about Black people outside of Western imperial cores. haha. We<br>have made no demands because we, the masses, have no demands outside of feeling like<br>everything will be okay again. We don't actually care | about these people as people. We care about them as symbols of liberation and as litmus tests to prove we, in the hard times, would "do the right thing." If we cared about them as people, submitting to someone still pleased to orchestrate their deaths, which VP Harris is doing right now, would be unthinkable. We would be using this time of mass disillusionment to destabilize the empire's business as usual.
+| Especially when that person has stated they do not plan on enforcing any sort of concession
+from the murderous Israeli regime. There has been absolutely no mention of the other human
+rights crises and violations happening elsewhere amongst the colonized world— the ongoing
+conflicts in across Black and Indigenous nations that we tend to tack onto Free Palestine to
+show we absolutely do care about Black people outside of Western imperial cores. haha. We
+have made no demands because we, the masses, have no demands outside of feeling like
+everything will be okay again. We don't actually care | about these people as people. We care about them as symbols of liberation and as litmus tests to prove we, in the hard times, would "do the right thing." If we cared about them as people, submitting to someone still pleased to orchestrate their deaths, which VP Harris is doing right now, would be unthinkable. We would be using this time of mass disillusionment to destabilize the empire's business as usual.
 
 We want spectacle more than we want actual liberation for ourselves or for the people that we say we are in solidarity with.
 
@@ -221,12 +264,16 @@ So when we discuss revolution in the United States, it's way too many people quo
 | against their government are usually doing so because they are chronically starving. |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | That's not us. |
-| If we rebel against US hegemony and orchestrate the fall of imperialism, we are doing so as<br>class traitors. Not as part of the worldwide vanguard— that's not us. |
+| If we rebel against US hegemony and orchestrate the fall of imperialism, we are doing so as
+class traitors. Not as part of the worldwide vanguard— that's not us. |
 | We are |
 | supposed to, |
 | we are |
 | primed |
-| to want to accept whatever happy ending the empire orchestrates, because most of us believe<br>in the ability to be comfortable as a divine right. If we're powerless except for the vote, and we<br>usher in somebody that does the spectacle better, that brings us back to a state of<br>psychological comfort: even if we |
+| to want to accept whatever happy ending the empire orchestrates, because most of us believe
+in the ability to be comfortable as a divine right. If we're powerless except for the vote, and we
+usher in somebody that does the spectacle better, that brings us back to a state of
+psychological comfort: even if we |
 | know |
 | that everything's not all right, we can |
 | feel |

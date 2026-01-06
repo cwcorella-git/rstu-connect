@@ -1,10 +1,15 @@
+---
+title: "## [en.wikipedia.org](https://en.wikipedia.org/wiki/Bone-rank_system)"
+category: "contemporary-analysis"
+---
+
 ## [en.wikipedia.org](https://en.wikipedia.org/wiki/Bone-rank_system)
 
 ## **Bone-rank system**
 
 ## Contributors to Wikimedia projects
 
-7–9 minutes
+7-9 minutes
 
 ## From Wikipedia, the free encyclopedia
 
@@ -12,7 +17,7 @@ For the Asian "bone" system outside Korea, see [seok \(clan\).](https://en.wikip
 
 | Bone-rank system | |
 |------------------|---------------|
-| Hangul | 골품�제도 |
+| Hangul | 골품제도 |
 | Hanja | 骨品制度 |
 | RR | golpum jedo |
 ## | MR | kolp'um chedo |
@@ -52,10 +57,10 @@ The bone rank system's extreme rigidity certainly helped to weaken Silla toward 
 - 1. ^ Adapted from: Lee, Ki-baik. A New History of Korea (Translated by Edward W. Wagner with Edward J. Shultz), (Cambridge, MA:Harvard University Press, 1984), p. 51. [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier)) [0-674-61576-X](https://en.wikipedia.org/wiki/Special:Book Sources/0-674-61576-X)
 - 2. ^ "[國⼈謂始祖赫居世⾄眞德⼆十⼋王](http://db.history.go.kr/item/compare Viewer.do?level Id=sg_005r_0030_0280) 謂之聖⻣ ⾃武烈⾄末王 謂之眞 [⻣](http://db.history.go.kr/item/compare Viewer.do?level Id=sg_005r_0030_0280)". 三國史記. 654. Retrieved 2019-06-14.
 - 3. ^ Horowitz, S. (2022). "9. The Three Kingdoms and Social Hierarchies". In D'Haeseleer, T. (ed.). [Korean History.](https://open.muhlenberg.pub/koreanhistory/chapter/social-class-early-korea/) Muhlenberg College.
-- 4. ^ Mc Bride II, R. D. (2020). "Making and Remaking Silla Origins". Journal of the American Oriental Society. **140** (3): 531–548. [doi](https://en.wikipedia.org/wiki/Doi_(identifier))[:10.7817/jameroriesoci.140.3.0531.](https://doi.org/10.7817%2Fjameroriesoci.140.3.0531)
+- 4. ^ Mc Bride II, R. D. (2020). "Making and Remaking Silla Origins". Journal of the American Oriental Society. **140** (3): 531-548. [doi](https://en.wikipedia.org/wiki/Doi_(identifier))[:10.7817/jameroriesoci.140.3.0531.](https://doi.org/10.7817%2Fjameroriesoci.140.3.0531)
 - 5. ^ Mc Bride II, R. D. (2016). "Can the Samguk sagi Be
 
-- Corroborated through Epigraphy?: An Analysis of the Capital-Rank System and Councils of Nobles". Seoul Journal of Korean Studies. **29** (1): 65–91. [doi](https://en.wikipedia.org/wiki/Doi_(identifier))[:10.1353/seo.2016.0007.](https://doi.org/10.1353%2Fseo.2016.0007)
-- 6. ^ Mc Bride II, R. D. (2020). "Blaming the Victim: Reconsidering Queen Chinsŏng and the Decline of Silla". Tongguk sahak 東國 史學. **69**: 603–649. [doi](https://en.wikipedia.org/wiki/Doi_(identifier))[:10.22912/dgsh.2020..69.603.](https://doi.org/10.22912%2Fdgsh.2020..69.603)
+- Corroborated through Epigraphy?: An Analysis of the Capital-Rank System and Councils of Nobles". Seoul Journal of Korean Studies. **29** (1): 65-91. [doi](https://en.wikipedia.org/wiki/Doi_(identifier))[:10.1353/seo.2016.0007.](https://doi.org/10.1353%2Fseo.2016.0007)
+- 6. ^ Mc Bride II, R. D. (2020). "Blaming the Victim: Reconsidering Queen Chinsŏng and the Decline of Silla". Tongguk sahak 東國 史學. **69**: 603-649. [doi](https://en.wikipedia.org/wiki/Doi_(identifier))[:10.22912/dgsh.2020..69.603.](https://doi.org/10.22912%2Fdgsh.2020..69.603)
 - 7. ^ Lee, Ki-baik. A New History of Korea (Translated by Edward W. Wagner with Edward J. Shultz), (Cambridge, MA:Harvard University Press, 1984), p. 50.
-- 8. ^ 이, 정신 (2000). "신라하대 [농민항쟁의](https://ijkh.khistory.org/journal/view.php?number=293) 특징". International Journal of Korean History. **1** (1): 113–148. Retrieved 19 December 2023.
+- 8. ^ 이, 정신 (2000). "신라하대 [농민항쟁의](https://ijkh.khistory.org/journal/view.php?number=293) 특징". International Journal of Korean History. **1** (1): 113-148. Retrieved 19 December 2023.

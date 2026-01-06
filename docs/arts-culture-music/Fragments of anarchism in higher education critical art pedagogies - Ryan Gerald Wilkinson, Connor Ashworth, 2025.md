@@ -1,3 +1,8 @@
+---
+title: "**Fragments of anarchism in higher education critical art pedagogies**"
+category: "arts-culture-music"
+---
+
 #### [journals.sagepub.com](https://journals.sagepub.com/doi/full/10.1177/14740222241313303)
 
 # **Fragments of anarchism in higher education critical art pedagogies**
@@ -134,7 +139,7 @@ The communal two-way exchanges between student and tutor and peer-learning strat
 
 Participants also detailed how the sense of co-operation and community extended beyond traditional academic spaces and into the spaces in and around the institution:
 
-You come into somewhere, say it's a studio, like <location> you come in every day you make a cup of tea you chat to the person who, I don't know they might have an estates man… you see the receptionist every day. You see other artists every day you might chat about your practice, you might chat about politics. P006
+You come into somewhere, say it's a studio, like  you come in every day you make a cup of tea you chat to the person who, I don't know they might have an estates man… you see the receptionist every day. You see other artists every day you might chat about your practice, you might chat about politics. P006
 
 Again, themes of limited hierarchy and dynamic, fluid pedagogies are expressed in this quotation, as arts practitioners operate in an inclusive exploratory way to develop a community of practice in and out of teaching spaces. It also speaks more broadly to a type of holistic, interconnected pedagogy that arts practitioners considered vital to their work, which encourages students to situate their learning in their own context and draw on their own experiences. In this we see co-operative, relational exchanges which sit outside standardised educational HE norms.
 

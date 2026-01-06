@@ -1,3 +1,8 @@
+---
+title: "John Rawls and the History of Political Thought"
+category: "contemporary-analysis"
+---
+
 # John Rawls and the History of Political Thought
 
 The Rousseauvian and Hegelian Heritage of Justice as Fairness
@@ -186,11 +191,32 @@ Typeset in Sabon by Apex Co Vantage, LLC For JMW and my parents
 | | Acknowledgments | xiii |
 |---|----------------------------------------------------------------------|------|
 | | Introduction | 1 |
-| 1 | Beyond<br>Kant | 9 |
-| 2 | The<br>Hegelian<br>Dimensions<br>of<br>Justice<br>as<br>Fairness | 30 |
-| 3 | The<br>Rousseauvian<br>Dimensions<br>of<br>Justice<br>as<br>Fairness | 62 |
-| 4 | Bringing<br>Robust<br>Reasonableness<br>into<br>View | 89 |
-| 5 | The<br>Width<br>of<br>Public<br>Reason | 110 |
+| 1 | Beyond
+Kant | 9 |
+| 2 | The
+Hegelian
+Dimensions
+of
+Justice
+as
+Fairness | 30 |
+| 3 | The
+Rousseauvian
+Dimensions
+of
+Justice
+as
+Fairness | 62 |
+| 4 | Bringing
+Robust
+Reasonableness
+into
+View | 89 |
+| 5 | The
+Width
+of
+Public
+Reason | 110 |
 | | Conclusion | 135 |
 ## | | Index | 147 |
 
@@ -214,7 +240,7 @@ What follows is a re-evaluation of the moral and political philosophy of John Ra
 
 This new, richer image of Rawls's political philosophy is captured by what I call in later chapters robust reasonableness: my aim is to show that Rawls's notion of reasonableness—of the kind and extent of our obligations to those fellows with whom we are engaged in social cooperation—is conspicuously more demanding and therefore more attractive than most interpreters and critics assume. Indeed, Rawls's political philosophy is best characterized by a quite demanding morality of citizenship, and this is precisely what he sees as missing from Kant's ethical philosophy. And so he turns to Rousseau and to Hegel, both of whom provide (at least on Rawls's view) attractive images of engaged citizenship worthy of emulation. For Rawls, each of the political philosophies of Rousseau and Hegel offers a persuasive solution to the pathologies of social and political life, many of which he incorporates into the normative and practical landscape of justice as fairness. This helps to clarify my present ambitions: what follows is not primarily an intellectual history. Rather, it is an attempt to better understand Rawls's normative thought in light of his views on the history of political thought.
 
-Despite that specific substantive aim, in the chapters that follow there are brief excursions into the thought of Kant, Rousseau and Hegel: once we see the extent to which Rawls, Rousseau and Hegel are animated by similar concerns and offer similar solutions to social and political problems, we get a clearer image of the Rousseauvian and Hegelian heritage of justice as fairness. But it must be noted here at the outset that the primary source for these discussions of past thinkers is Rawls himself. Indeed, the original idea for this book came with the (relatively) recent publication of Rawls's Lectures on the History of Moral Philosophy 1 and his Lectures on the History of Political Philosophy.<sup>2</sup> It is my view that these texts represent an invaluable resource for better understanding Rawls's thought: he often makes reference to his own normative political doctrine—justice as fairness (and eventually political liberalism)—and to the way in which that doctrine was fundamentally shaped by his interpretations of the canonical thinkers included in his Lectures.
+Despite that specific substantive aim, in the chapters that follow there are brief excursions into the thought of Kant, Rousseau and Hegel: once we see the extent to which Rawls, Rousseau and Hegel are animated by similar concerns and offer similar solutions to social and political problems, we get a clearer image of the Rousseauvian and Hegelian heritage of justice as fairness. But it must be noted here at the outset that the primary source for these discussions of past thinkers is Rawls himself. Indeed, the original idea for this book came with the (relatively) recent publication of Rawls's Lectures on the History of Moral Philosophy 1 and his Lectures on the History of Political Philosophy.2 It is my view that these texts represent an invaluable resource for better understanding Rawls's thought: he often makes reference to his own normative political doctrine—justice as fairness (and eventually political liberalism)—and to the way in which that doctrine was fundamentally shaped by his interpretations of the canonical thinkers included in his Lectures.
 
 This raises another important point worth emphasizing at the outset: many readers will be struck by the peculiar, idiosyncratic nature of Rawls's interpretations of Rousseau, Kant and Hegel (and of the first two in particular). Indeed, Rawls's Lectures are often characterized by their rejection of some popular academic consensuses. This is an important methodological moment: it is not my purpose here to arbitrate interpretive controversies about Rousseau, Kant and Hegel. We are not, in other words, concerned with certain kinds of questions. Is Rawls's interpretation a good interpretation? Why did Rawls endorse such a peculiar or idiosyncratic or (less generously) narrow image of the thinker in question? Instead, we accept Rawls's interpretations as his own genuine, thoughtful understandings of complex texts. Once again, our ambition is not to better understand the history of political philosophy. Our purpose is to better understand Rawls's normative thought in light of his unique engagement with some of the canonical thinkers in the history of political thought.
 
@@ -939,7 +965,7 @@ In the remaining two chapters, then, I hope to show that robust reasonableness i
 
 There are, according to the narrow Kantian view, two main virtues associated with the reasonable: first, the willingness to propose and honour fair terms of cooperation and, second, the willingness to recognize the burdens of judgment and to accept their consequences (i.e. to accept the fact of irreconcilable and permanent comprehensive pluralism). Reasonableness, in other words, satisfies the criterion of basic reciprocity: citizenship is about living with others—others who subscribe to plural value systems and existential commitments—on terms that are acceptable to all persons (conceived as free and equal). The idea of public reason captures both dimensions: citizens in a democracy are to defend fundamental (i.e. constitutional) laws and policies by exclusive reference to reasons suited to the equality of citizens (see e.g. Rawls 1993, §II.3.3 and §IX.6; see also Gutmann 2003, 185). Political liberalism is thus a doctrine best characterized by its concern with a particular conception of *legitimacy* in the plural milieu: it is a form of self-government in that all citizens must be thought capable of offering their *seemingly implicit* consent to the laws and policies that make up society's basic structure.
 
-But the idea of reasonableness as involving a form of implied or implicit consent is simply not satisfactory: an engaged, vigorous democratic regime is on Rawls's view a requirement of justice—"and not simply for [the] instrumental reason" of protecting the personal liberties (or individual autonomy) (Cohen 2003, 87; see also Forst 2001, 347 and Gutmann 2003, 175). Indeed, it is clear that, based on *Political Liberalism*, Rawls endorses a distinctly deliberative (and not merely constitutional<sup>1</sup>) image of democracy: according to Joshua Cohen, Rawls does regard politics as an "arena of argument, rather than a tamed competition for power, fair aggregation of interests, or expression of shared cultural commitments" (ibid., 102; see also Hart 1989, 252, Habermas 1996, §7.1.2 and Dombrowski 2001, 9). Reasonableness is not merely the isolated contemplation (by what Kant would call "active" citizens) of what is required by the idea of reciprocity. Reasonable citizens, rather, are "ready to discuss [and to argue about] the fair terms that others propose" (Rawls 1993, §II.1.1, italics added). Political autonomy (as distinguished from comprehensive accounts of moral autonomy2) is therefore conceived as the "sharing with other citizens equally in the exercise of political power" (ibid., xlii; see also ibid., \$II.1.4 and \$II.3.4). Says Rawls: "I am concerned only with a well-ordered constitutional democracy [...] understood also as a deliberative democracy" (Rawls 1999a, 138). But, despite these (and various other similar) assertions, "remarkably little has been written about the relationship between liberalism and democracy in [Rawls's] theory" (Gutmann 2003, 168).3 Our purpose, here, is to address this lacuna, with particular reference to our earlier claims about Rawls's intellectual debts to Rousseau and Hegel.
+But the idea of reasonableness as involving a form of implied or implicit consent is simply not satisfactory: an engaged, vigorous democratic regime is on Rawls's view a requirement of justice—"and not simply for [the] instrumental reason" of protecting the personal liberties (or individual autonomy) (Cohen 2003, 87; see also Forst 2001, 347 and Gutmann 2003, 175). Indeed, it is clear that, based on *Political Liberalism*, Rawls endorses a distinctly deliberative (and not merely constitutional1) image of democracy: according to Joshua Cohen, Rawls does regard politics as an "arena of argument, rather than a tamed competition for power, fair aggregation of interests, or expression of shared cultural commitments" (ibid., 102; see also Hart 1989, 252, Habermas 1996, §7.1.2 and Dombrowski 2001, 9). Reasonableness is not merely the isolated contemplation (by what Kant would call "active" citizens) of what is required by the idea of reciprocity. Reasonable citizens, rather, are "ready to discuss [and to argue about] the fair terms that others propose" (Rawls 1993, §II.1.1, italics added). Political autonomy (as distinguished from comprehensive accounts of moral autonomy2) is therefore conceived as the "sharing with other citizens equally in the exercise of political power" (ibid., xlii; see also ibid., \$II.1.4 and \$II.3.4). Says Rawls: "I am concerned only with a well-ordered constitutional democracy [...] understood also as a deliberative democracy" (Rawls 1999a, 138). But, despite these (and various other similar) assertions, "remarkably little has been written about the relationship between liberalism and democracy in [Rawls's] theory" (Gutmann 2003, 168).3 Our purpose, here, is to address this lacuna, with particular reference to our earlier claims about Rawls's intellectual debts to Rousseau and Hegel.
 
 In this spirit, it is obvious that Rawls is not merely speaking of a democratic *regime* (i.e. a set of democratic *institutions* designed to legislate policy outcomes in line with the principle of justice and the constraints of public reason). Rather, Rawls uses "democratic" to refer to society's prevailing *ethos*—to an idea of "society as a system of social cooperation among equal persons" (Rawls 1971, \$59, italics added; see also Rawls 1999c, 246 and Forst 2001, 350–351). This entails two further basic ideas: first, all members are understood to be entitled to be treated with equal respect regardless of their social or economic position, and, second, the basis of equality is the capacity for a sense of justice; that is, we owe equal justice to those capable of understanding, and acting upon, an idea of mutually beneficial and fair cooperation (Rawls 1993, \$VIII.3). And so *a constitution with universal rights of participation is a requirement of justice*.
 
@@ -1397,7 +1423,7 @@ Our reconsideration of Rawls's normative theory in light of its underappreciated
 | | difference principle 7, 51, 84n10, 100, | |
 | Cassirer, Ernst 83n6 | 137–42, 143n3 | |
 | categorical imperative 2, 11, 14–17, | distributive justice 7, 20, 66–7, 80, | |
-| 21, 26n2; the <i>a priori</i> status of | 84n10, 95, 137–9, 141; on | |
+| 21, 26n2; the a priori status of | 84n10, 95, 137–9, 141; on | |
 | 3, 12–13, 36, 38; the foundation | a global scale 96–101 | |
 | of 18 | Doyle, Michael 104n11 | |
 | Catholicism 120, 125-6 | Dreben, Burton 7n3 | |
@@ -1408,7 +1434,8 @@ Our reconsideration of Rawls's normative theory in light of its underappreciated
 | | Estlund, David 144n8 | |
 | 63, 79–80, 93, 100–2, 105n14, | | |
 | 63, 79–80, 93, 100–2, 105n14, 121, 127; morality of 1, 3, 5, 7, | Forst, Rainer 103n7 | |
-| 63, 79–80, 93, 100–2, 105n14, 121, 127; morality of 1, 3, 5, 7, 89–90, 114, 136–7, 139, 142; | Forst, Rainer 103n7<br>Freeman, Samuel 27n13 | |
+| 63, 79–80, 93, 100–2, 105n14, 121, 127; morality of 1, 3, 5, 7, 89–90, 114, 136–7, 139, 142; | Forst, Rainer 103n7
+Freeman, Samuel 27n13 | |
 | 63, 79–80, 93, 100–2, 105n14, 121, 127; morality of 1, 3, 5, 7, | Forst, Rainer 103n7 | |
 
 Gaus, Gerald 117, 130n9 Gutmann Amy 93, 103n8 Guyer, Paul 27n10, 57n8

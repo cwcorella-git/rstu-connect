@@ -1,3 +1,8 @@
+---
+title: "## **A Revolutionary Proposal: Invisible Insurrection of a Million Minds - Alexander Trocchi**"
+category: "contemporary-analysis"
+---
+
 ## **A Revolutionary Proposal: Invisible Insurrection of a Million Minds - Alexander Trocchi**
 
 ## **Date:** Unknown

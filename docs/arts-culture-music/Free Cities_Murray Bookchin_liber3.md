@@ -1,3 +1,8 @@
+---
+title: "**MURRAY BOOKCHIN**"
+category: "arts-culture-music"
+---
+
 # **MURRAY BOOKCHIN**
 
 # **FREE CITIES**
@@ -12,19 +17,51 @@ Murray Bookchin FREE CITIES: Communalism and the Left Edited by Eirik Eiglad
 
 # **Contents**
 
-| Editor's preace: Creating Free Cities<br>•<br>3 |
+| Editor's preace: Creating Free Cities
+•
+3 |
 |------------------------------------------------------------------|
-| Introduction, by Murray Bookchin<br>•<br>9 |
-| e Ecological Crisis and the Need to Remake Society<br>•<br>13 |
-| Nationalism<br>and<br>the<br>"National<br>Question"<br>•<br>17 |
-| Nationalism and the Great Revolutions<br>•<br>28 |
-| e Historical Importance o the City<br>•<br>29 |
-| Anarchism as Individualism<br>•<br>34 |
-| Anarchism, Power, and Government<br>•<br>38 |
-| e Revolutionary Politics o Libertarian Municipalism<br>•<br>43 |
-| e<br>Future<br>o<br>the<br>Lef<br>•<br>51 |
-| Toward a Communalist Approach<br>•<br>71 |
-## | Endnotes<br>•<br>79 |
+| Introduction, by Murray Bookchin
+•
+9 |
+| e Ecological Crisis and the Need to Remake Society
+•
+13 |
+| Nationalism
+and
+the
+"National
+Question"
+•
+17 |
+| Nationalism and the Great Revolutions
+•
+28 |
+| e Historical Importance o the City
+•
+29 |
+| Anarchism as Individualism
+•
+34 |
+| Anarchism, Power, and Government
+•
+38 |
+| e Revolutionary Politics o Libertarian Municipalism
+•
+43 |
+| e
+Future
+o
+the
+Lef
+•
+51 |
+| Toward a Communalist Approach
+•
+71 |
+## | Endnotes
+•
+79 |
 
 # **Creating Free Cities**
 
@@ -34,7 +71,7 @@ By advancing libertarian municipalism, Bookchin hoped to see new civic movements
 
 A lifelong radical and a fertile thinker, Murray Bookchin had been politically active since the 1930s; first in Communist parties, trade unions, and Trotskyist groups, then during the 1960s in the civil rights movement, urban ecology projects, anarchist groups, the radical student movement, and community groups; and later in the 1970s and 1980s in anti-nuclear movements and the early Green movement. Only in the early 1990s did his health preclude further involvement in practical political affairs, but he continued to write until the last years of his life. Bookchin's works spanned a broad range of issues, including ecology, anthropology, technology, history, politics, and philosophy. He started to write about ecology and urban issues in the 1950s, and in 1964 wrote his seminal "Ecology and Revolutionary Thought," the first definitive essay on radical social ecology. Later he was to refine his theories - through a corpus of more than 20 books – into a coherent body of ideas. Murray Bookchin died at the age of 85, on July 30, 2006. With his passing we lost one of the most challenging and innovative radical thinkers of the twentieth century.
 
-Bookchin expressed his ideas on libertarian municipalism in a number of essays and articles, and advocated it in his lectures and talks. But no book has yet appeared that collects his essays on the subject. This collection of his late political essays, I am proud to say, helps fill that gap.1 It should be seen, however, in relation to Bookchin's full-length book on civic development, citizenship, and politics; From Urbanization to Cities.<sup>2</sup> When he republished this monumental work in 1992 he added the essay "The Meaning of Confederalism," and in a later edition, in 1995, further added "Confederal Municipalism: An Overview" as well as a new prologue. Bookchin was no academic, and he did not write for purely scholarly purposes; his aim with this work "was to formulate a new politics" and by appending these essays he showed how he meant to inspire a movement to give his ideas concrete reality.
+Bookchin expressed his ideas on libertarian municipalism in a number of essays and articles, and advocated it in his lectures and talks. But no book has yet appeared that collects his essays on the subject. This collection of his late political essays, I am proud to say, helps fill that gap.1 It should be seen, however, in relation to Bookchin's full-length book on civic development, citizenship, and politics; From Urbanization to Cities.2 When he republished this monumental work in 1992 he added the essay "The Meaning of Confederalism," and in a later edition, in 1995, further added "Confederal Municipalism: An Overview" as well as a new prologue. Bookchin was no academic, and he did not write for purely scholarly purposes; his aim with this work "was to formulate a new politics" and by appending these essays he showed how he meant to inspire a movement to give his ideas concrete reality.
 
 In light of this, I initially intended this book to be an expanded appendix to From Urbanization to Cities, so that both together would constitute an overview of his political thinking. In my view his late essays, collected here, make his earlier works on urbanization, ecology, and revolutionary history even more relevant and tangible. Bookchin's essays from the 1980s and 1990s had tried to advance libertarian municipalism as an anarchist alternative, an effort that turned out to be problematical. Although for many years Bookchin called himself an anarchist, pioneering its concerns with ecology and with hierarchy, he had long had a troubled relationship with the anarchist tradition. After a bitter polemical struggle to defend what he considered to be its highest social ideals against individualists, workerists, mystics, primitivists, and autonomists, he got tired of "defending anarchism against anarchists," as he put it, and publicly disassociated himself from anarchism as such. He had spent much time and effort formulating and presenting libertarian municipalism as an anarchist politics, but anarchists, it turned out, were not interested in these ideas, and in fact the political idea of democracy is actually alien to anarchism. Several notions in anarchism inspired Bookchin, but his ideas about municipal government, direct democracy, and confederation could not be contained within an anarchist framework. Breaking with anarchism, he urged left libertarian radicals to embrace a new set of ideas, indeed a new ideology – he called it *communalism* – that could transcend all classical radical theories, both Marxist and anarchist. As an attempt to revive Enlightenment radicalism, Bookchin intended communalism to be a coherent ideological platform upon which we might develop libertarian ideas today and provide the Left with a politics.
 
@@ -48,7 +85,7 @@ My choice of subtitle, Communalism and the Left, expresses Bookchin's wish to fr
 
 The idea for this book germinated when I last saw Murray, a few months before his death. At the end of November 2005 Sveinung Legard and I visited Murray and Janet Biehl, his long-time partner and collaborator, in Burlington. During our stay we had lengthy political discussions and undertook a substantial interview with Murray, which turned out to be the last one he ever gave. At one point in our discussions, Bookchin mentioned that he hoped to see his writings on libertarian municipalism collected and published. I had already given this possibility some serious thought and had specific ideas about how to put together anthologies of his writings. For some time I had been translating his works into Norwegian, and had edited, anthologized, and published his political writings here in Scandinavia. But I had hesitated to suggest an English-language anthology, since English is my second language - an obvious shortcoming. Moreover, Murray had long benefited from the support of Janet's superior editing skills; for many years, she had carefully helped prepare his manuscripts for publication. Hence I was reluctant to offer my assistance. But at that time Janet was exhausted from the intense work of editing The Third Revolution and was in no position to undertake any new obligation of the sort proposed. I fervently wanted to see the anthologies materialize, and, emboldened by Murray's expressed wish, I offered to assist.
 
-My specific suggestions were twofold. First, I would put together a small book consisting of some four essays that gave a rounded yet accessible presentation of social ecology, to be called *Social Ecology and Communalism*.<sup>3</sup> Then I would collect the more directly political essays in a second book that would comprise a comprehensive overview. Murray and I discussed these book projects in detail, and he gave me some manuscripts and notes for my work.<sup>4</sup> I assured him that I would do my very best to see that these books were edited according to his wishes, and he expressed his condence by putting me in charge o their publication. As soon as I returned to Norway, I began to work on the books.
+My specific suggestions were twofold. First, I would put together a small book consisting of some four essays that gave a rounded yet accessible presentation of social ecology, to be called *Social Ecology and Communalism*.3 Then I would collect the more directly political essays in a second book that would comprise a comprehensive overview. Murray and I discussed these book projects in detail, and he gave me some manuscripts and notes for my work.4 I assured him that I would do my very best to see that these books were edited according to his wishes, and he expressed his condence by putting me in charge o their publication. As soon as I returned to Norway, I began to work on the books.
 
 My own qualications or preparing these books may not be obvious to the reader, as I not only live on the other side o the Atlantic rom Murray but am not a native English speaker. But I have been involved with the ideas o social ecology and libertarian municipalism since the early 1990s. I rst met Murray in 1996 and visited him many times thereaer, staying in Burlington or weeks and months, experiencing both his generosity and that o his amily. Murray and I regularly had long telephone conversations throughout our ten years o riendship and cooperation. Whenever I made a decision to translate his works into Norwegian or publication, I always inormed him o my choices, and I consulted him when I encountered problems. He thus became amiliar with my editorial approach and abilities. When I started writing my own essays, he always read them careully and gave me his comments. He was sometimes a stern critic, sometimes encouraging, but always his perspectives were challenging.
 

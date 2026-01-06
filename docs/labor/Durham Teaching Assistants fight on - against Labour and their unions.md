@@ -1,3 +1,8 @@
+---
+title: "## **Durham Teaching Assistants fight on against Labour and their unions**"
+category: "labor"
+---
+
 ## **Durham Teaching Assistants fight on against Labour and their unions**
 
 ## **Date:** Unknown

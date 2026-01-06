@@ -1,3 +1,8 @@
+---
+title: "HOST CITY CONTRACT FOR THE GAMES OF THE XXXII OLYMPIAD IN THE YEAR 2020"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 ## HOST CITY CONTRACT
@@ -119,17 +124,61 @@
 | | |
 | 75. Languages | |
 | | 77 |
-| <sup>7</sup> 6. Olympic Charter | |
+| 7 6. Olympic Charter | |
 | 76. Olympic Charter77. Authorisation of Signatories | 77 |
-| | 77<br>77 |
-| 77. Authorisation of Signatories | 77<br>77<br>77 |
-| 77. Authorisation of Signatories<br>78. Headings | 77<br>77<br>77<br>78 |
-| 77. Authorisation of Signatories | 77<br>77<br>77<br>78<br>78 |
-| 77. Authorisation of Signatories 78. Headings 79. Counterparts 80. Interpretation | 77<br>77<br>77<br>78<br>78<br>78 |
-| 77. Authorisation of Signatories 78. Headings 79. Counterparts 80. Interpretation 81. Precedence | 77<br>77<br>78<br>78<br>78<br>78 |
-| 77. Authorisation of Signatories 78. Headings 79. Counterparts 80. Interpretation 81. Precedence 82. Non-Waiver | 77<br>77<br>78<br>78<br>78<br>78<br>78 |
-| 77. Authorisation of Signatories 78. Headings 79. Counterparts 80. Interpretation 81. Precedence 82. Non-Waiver 83. Unenforceability of a Provision | 77<br>77<br>78<br>78<br>78<br>78<br>78<br>78<br>78 |
-| 77. Authorisation of Signatories 78. Headings 79. Counterparts 80. Interpretation 81. Precedence 82. Non-Waiver 83. Unenforceability of a Provision 84. No Third Party Beneficiaries | 77<br>77<br>78<br>78<br>78<br>78<br>78<br>78<br>79<br>79 |
+| | 77
+77 |
+| 77. Authorisation of Signatories | 77
+77
+77 |
+| 77. Authorisation of Signatories
+78. Headings | 77
+77
+77
+78 |
+| 77. Authorisation of Signatories | 77
+77
+77
+78
+78 |
+| 77. Authorisation of Signatories 78. Headings 79. Counterparts 80. Interpretation | 77
+77
+77
+78
+78
+78 |
+| 77. Authorisation of Signatories 78. Headings 79. Counterparts 80. Interpretation 81. Precedence | 77
+77
+78
+78
+78
+78 |
+| 77. Authorisation of Signatories 78. Headings 79. Counterparts 80. Interpretation 81. Precedence 82. Non-Waiver | 77
+77
+78
+78
+78
+78
+78 |
+| 77. Authorisation of Signatories 78. Headings 79. Counterparts 80. Interpretation 81. Precedence 82. Non-Waiver 83. Unenforceability of a Provision | 77
+77
+78
+78
+78
+78
+78
+78
+78 |
+| 77. Authorisation of Signatories 78. Headings 79. Counterparts 80. Interpretation 81. Precedence 82. Non-Waiver 83. Unenforceability of a Provision 84. No Third Party Beneficiaries | 77
+77
+78
+78
+78
+78
+78
+78
+79
+79 |
 | | 67. Internet and Mobile Platform 68. All Other Forms of Media or Communication 69. Issue of Press Releases by the City, the NOC or the OCOG. 60. Insurance 61. Betting 62. Rate Card Prices 63. Paralympic Games 64. Technology 65. Olympic Results and Information Services 66. Termination 66. Termination of Contract Miscellaneous 67. Summary of Technical Manuals Forming Integral Part of this Contract 68. Obligations at the Expense of the City, the NOC and/or the OCOG. 69. Delegation by the IOC. 60. Assignment by the City, the NOC or the OCOG. 61. Unforeseen or Undue Hardship 62. Enactment, Amendment or Entering into Force of Law 63. Relationship of the Parties 64. Resolution of Disputes between OCOG and the Olympic Family. |
 
 ## ![](_page_5_Picture_1.jpeg)
@@ -168,7 +217,7 @@ hereinafter represented by Mr Tsunekazu TAKEDA, duly authorised for all purposes
 - B. WHEREAS, according to the Olympic Charter, the IOC is the supreme authority of and leads the Olympic Movement, and the Olympic Games are the exclusive property of the IOC which owns all rights and data relating thereto, in particular, and without limitation, all rights relating to their organisation, staging, exploitation, broadcasting, recording, representation, reproduction, access and dissemination in any form and by any means or mechanism whatsoever, whether now existing or developed in the future, throughout the world in perpetuity;
 - C. WHEREAS the Olympic Symbol, flag, motto, anthem, identifications (including but not limited to "Olympic", "Olympic Games" and "Games of the Olympiad"), designations, emblems, flame and torches, as defined in the Olympic Charter, are collectively or individually referred to as "Olympic properties" and whereas all rights to any and all Olympic properties, as well as all rights to the use thereof, belong exclusively to the IOC, including but not limited to the use for any profit making, commercial or advertising purposes, and whereas the IOC may, in its sole discretion, license all or part of its rights to one or more parties on terms and conditions set forth by the IOC;
 - D. WHEREAS the City and the NOC have requested, and the IOC has accepted, that the City be a candidate city to host Games of the XXXII Olympiad in the year 2020 (hereinafter the "Games");
-- E. WHEREAS the IOC, at its 125<sup>th</sup> Session in Buenos Aires, has carefully considered the candidature of the City and the NOC, together with the candidatures of the other Candidate Cities, and has received the advice and comments of the Evaluation Commission for Candidate Cities, which Commission includes representatives of the IOC, the International Federations (hereinafter the "IFs"), the National Olympic Committees, Organising Committees for Olympic Games
+- E. WHEREAS the IOC, at its 125th Session in Buenos Aires, has carefully considered the candidature of the City and the NOC, together with the candidatures of the other Candidate Cities, and has received the advice and comments of the Evaluation Commission for Candidate Cities, which Commission includes representatives of the IOC, the International Federations (hereinafter the "IFs"), the National Olympic Committees, Organising Committees for Olympic Games
 
 ## ![](_page_7_Picture_1.jpeg)
 
@@ -1023,7 +1072,8 @@ In case of withdrawal of the Games by the IOC, or termination of this Contract b
 
 | Technical Manuals | Referred to in Section(s) |
 |---------------------------------------------------|---------------------------|
-| Accommodation | 29, 30, 31 and<br>36 |
+| Accommodation | 29, 30, 31 and
+36 |
 | Accreditation at the Olympic Games – User's Guide | 11, 20 and 31 |
 | Arrivals & Departures | 20 |
 | Brand, Identity and Look of the Games | 22 |
@@ -1035,7 +1085,8 @@ In case of withdrawal of the Games by the IOC, or termination of this Contract b
 | Digital Media | 57 and 58 |
 | Finance | 24 and 60 |
 | Food and Beverage Services | |
-| Games Management | 16, 25, 26 and<br>27 |
+| Games Management | 16, 25, 26 and
+27 |
 | Information and Knowledge Management | 27, 28 and 56 |
 ## | Marketing Partner Services | 49 |
 

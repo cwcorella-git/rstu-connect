@@ -1,3 +1,8 @@
+---
+title: "MEDIA GUIDE OLYMPIC GAMES TOKYO 2020"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 # MEDIA GUIDE OLYMPIC GAMES TOKYO 2020
@@ -96,13 +101,18 @@ The Olympic Rings have been installed in the Tokyo bay, with the iconic Rainbow 
 | 08 | The strength of experience | |
 | 09 | How OBS was created | |
 | 10 | OBS as host broadcaster | |
-| 11 | The complexity behind the host<br>broadcast of the Olympic Games | |
-| 12 | OBS is at the service of the<br>Rights Holding Broadcasters | |
+| 11 | The complexity behind the host
+broadcast of the Olympic Games | |
+| 12 | OBS is at the service of the
+Rights Holding Broadcasters | |
 | 13 | The RHB Journey | |
 | 14 | Interview with Yiannis Exarchos | |
-| 18 | Tech is changing the face of<br>Olympic broadcasting | |
-| 19 | Delivering the first UHD HDR<br>Olympic experience | |
-| 20 | Inside theend-to-end UHD HDR<br>production workflow | |
+| 18 | Tech is changing the face of
+Olympic broadcasting | |
+| 19 | Delivering the first UHD HDR
+Olympic experience | |
+| 20 | Inside theend-to-end UHD HDR
+production workflow | |
 
 On the road to digital transformation and remote production 5G stands to transform live sports
 
@@ -110,25 +120,38 @@ AI: The power to automate workflows and streamline searches Interview with Sotir
 
 | 29 | Behind-the-scenes at the | | |
 |----|-------------------------------------------------------------|--|--|
-| 30 | International Broadcast Centre<br>IBC location | | |
+| 30 | International Broadcast Centre
+IBC location | | |
 | 31 | The heart of the broadcast operation | | |
 | 32 | Tailor-made for every purpose | | |
-| 34 | How the world watches the Olympic<br>Games | | |
-| 35 | Increasing content, expanding<br>engagement | | |
-| 36 | Planning and set-up behind the<br>world feed | | |
+| 34 | How the world watches the Olympic
+Games | | |
+| 35 | Increasing content, expanding
+engagement | | |
+| 36 | Planning and set-up behind the
+world feed | | |
 | 37 | Creation and delivery of the world feed | | |
 | 38 | How RHBs tailor the world feed | | |
 | 39 | An à la carte approach | | |
 | 40 | Focus on digital | | |
-| 41 | Enhancing the viewing experience<br>through tech | | |
+| 41 | Enhancing the viewing experience
+through tech | | |
 | 44 | Immersive storytelling | | |
-| 45 | Digitally connecting with Olympic fans<br>worldwide | | |
+| 45 | Digitally connecting with Olympic fans
+worldwide | | |
 | 46 | Interview with Mark Wallace | | |
-| 49 | Creative teams break new ground<br>around pre-Games content | | |
+| 49 | Creative teams break new ground
+around pre-Games content | | |
 
-| 50<br>51<br>52 | Towards a more sustainable<br>production | | |
+| 50
+51
+52 | Towards a more sustainable
+production | | |
 |----------------|----------------------------------------------------------------------------------------------------------------------------------------|----|-------------------------------------|
-| | Sustainability is core to the Planning of<br>the host broadcast operation<br>Digital transformation as an enabler of<br>sustainability | | |
+| | Sustainability is core to the Planning of
+the host broadcast operation
+Digital transformation as an enabler of
+sustainability | | |
 | | | 53 | A much reduced footprint at the IBC |
 | 54 | More coverage with less | | |
 | 55 | Legacy use of the TV Towers | | |

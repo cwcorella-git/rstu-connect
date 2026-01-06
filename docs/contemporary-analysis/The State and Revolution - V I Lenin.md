@@ -1,3 +1,8 @@
+---
+title: "State and Revolution"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 ## PENGUIN
@@ -136,7 +141,7 @@ Engel's words regarding the "withering away" of the state are so widely known, t
 
 "The proletariat seizes from state power and turns the means of production into state property to begin with. But thereby it abolishes itself as the proletariat, abolishes all class distinctions and class antagonisms, and abolishes also the state as state. Society thus far, operating amid class antagonisms, needed the state, that is, an organization of the particular exploiting class, for the maintenance of its external conditions of production, and, therefore, especially, for the purpose of forcibly keeping the exploited class in the conditions of oppression determined by the given mode of production (slavery, serfdom or bondage, wage-labor). The state was the official representative of society as a whole, its concentration in a visible corporation. But it was this only insofar as it was the state of that class which itself represented, for its own time, society as a whole: in ancient times, the state of slave-owning citizens; in the Middle Ages, of the feudal nobility; in our own time, of the bourgeoisie. When at last it becomes the real representative of the whole of society, it renders itself unnecessary. As soon as there is no longer any social class to be held in subjection, as soon as class rule, and the individual struggle for existence based upon the present anarchy in production, with the collisions and excesses arising from this struggle, are removed, nothing more remains to be held in subjection nothing necessitating a special coercive force, a state. The first act by which the state really comes forward as the representative of the whole of society — the taking possession of the means of production in the name of society — is also its last independent act as a state. State interference in social relations becomes, in one domain after another, superfluous, and then dies down of itself. The government of persons is replaced by the administration of things, and by the conduct of processes of production. The state is not 'abolished'. It withers away. This gives the measure of the value of the phrase 'a free people's state', both as to its justifiable use for a long time from an agitational point of view, and as to its ultimate scientific insufficiency; and also of the so-called anarchists' demand that the state be abolished overnight."
 
-(<u>Herr Eugen Duhring's Revolution in Science [Anti-Duhring]</u>, pp.301-03, third German edition.)
+(Herr Eugen Duhring's Revolution in Science [Anti-Duhring], pp.301-03, third German edition.)
 
 It is safe to say that of this argument of Engels', which is so remarkably rich in ideas, only one point has become an integral part of socialist thought among modern socialist parties, namely, that according to Marx that state "withers away" — as distinct from the anarchist doctrine of the "abolition" of the state. To prune Marxism to such an extent means reducing it to opportunism, for this "interpretation" only leaves a vague notion of a slow, even, gradual change, of absence of leaps and storms, of absence of revolution. The current, widespread, popular, if one may say so, conception of the "withering away" of the state undoubtedly means obscuring, if not repudiating, revolution.
 

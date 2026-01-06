@@ -1,3 +1,8 @@
+---
+title: "## **Albert Jensen**"
+category: "technology-digital-justice"
+---
+
 ## **Albert Jensen**
 
 ## **The CNT-FAI, the State and Government (1938)**

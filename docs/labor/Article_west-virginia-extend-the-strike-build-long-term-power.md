@@ -1,13 +1,8 @@
 ---
-title: West Virginia Extend the Strike Build Long Term Power
-date: 2025
-author: It's Going Down
-tags:
-  - organizing
-  - strikes
-  - unions
-  - rent
-  - police
+title: "West Virginia Extend the Strike Build Long Term Power"
+author: "It's Going Down"
+date: "2025"
+category: "labor"
 ---
 
 # West Virginia Extend the Strike Build Long Term Power

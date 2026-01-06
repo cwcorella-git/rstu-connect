@@ -1,13 +1,8 @@
 ---
-title: Community Democracy and Mutual Aid
-date: 2025
-author: Symbiosis Research Collective
-tags:
-  - organizing
-  - strikes
-  - unions
-  - tenants
-  - housing
+title: "Community Democracy and Mutual Aid"
+author: "Symbiosis Research Collective"
+date: "2025"
+category: "organizing"
 ---
 
 # Community Democracy and Mutual Aid

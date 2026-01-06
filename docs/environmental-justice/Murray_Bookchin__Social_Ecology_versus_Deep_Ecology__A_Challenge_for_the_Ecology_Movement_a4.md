@@ -1,14 +1,24 @@
+---
+title: "**Social Ecology versus Deep Ecology: A Challenge for the Ecology Movement**"
+category: "environmental-justice"
+---
+
 # **Social Ecology versus Deep Ecology: A Challenge for the Ecology Movement**
 
 #### **Contents**
 
 | Two Conflicting Tendencies | 4 |
 |-----------------------------------|---|
-| What Is Deep Ecology?<br> | 5 |
+| What Is Deep Ecology?
+ | 5 |
 | The Art of Evading Society | 8 |
-| On Selfhood and Viruses<br><br>10 | |
-| The Deep Malthusians<br>13 | |
-## | What Is Social Ecology?<br>17 | |
+| On Selfhood and Viruses
+
+10 | |
+| The Deep Malthusians
+13 | |
+## | What Is Social Ecology?
+17 | |
 
 The environmental movement has traveled a long way since those early Earth Day festivals when millions of school kids were ritualistically mobilized to clean up streets, while Arthur Godfrey, Barry Commoner, Paul Ehrlich, and a bouquet of manipulative legislators scolded their parents for littering the landscape with cans, newspapers, and bottles.
 

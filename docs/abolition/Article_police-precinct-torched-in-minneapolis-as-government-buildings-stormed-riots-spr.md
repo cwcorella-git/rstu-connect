@@ -1,15 +1,8 @@
 ---
-title: >-
-  Police Precinct Torched in Minneapolis As Government Buildings Stormed Riots
-  Spr
-date: 2025
-author: It's Going Down
-tags:
-  - organizing
-  - strikes
-  - unions
-  - rent
-  - police
+title: ">-"
+author: "It's Going Down"
+date: "2025"
+category: "abolition"
 ---
 
 # Police Precinct Torched in Minneapolis As Government Buildings Stormed Riots Spr

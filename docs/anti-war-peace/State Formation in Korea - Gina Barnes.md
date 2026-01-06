@@ -1,3 +1,8 @@
+---
+title: "CHAPTER TWO Thoughts on Pre-state Cultural Development on the Korean Peninsula from an Archaeological Point of View"
+category: "anti-war-peace"
+---
+
 ## ![](_page_0_Figure_0.jpeg)
 
 #### **Durham East Asia Series**
@@ -46,11 +51,19 @@ British Library Cataloguing in Publication Data A catalogue record of this book 
 
 ## **Contents**
 
-| Foreword by<br>Colin<br>Renfrew |
+| Foreword by
+Colin
+Renfrew |
 |------------------------------------------------------------------------|
 | Preface |
-| History<br>of<br>the<br>research |
-| Temporal<br>and<br>geographical<br>context |
+| History
+of
+the
+research |
+| Temporal
+and
+geographical
+context |
 | Conventions |
 | Acknowledgements |
 | List of Tables |
@@ -58,20 +71,36 @@ British Library Cataloguing in Publication Data A catalogue record of this book 
 | CHAPTER ONE Early Korean States: A Review of Historical Interpretation |
 | Introduction |
 | Issues in Korean state formation |
-| Developmental<br>status |
-| State<br>origins<br>and<br>ethnogenesis |
-| Organizational<br>stimuli |
+| Developmental
+status |
+| State
+origins
+and
+ethnogenesis |
+| Organizational
+stimuli |
 | Seven candidates for statehood, and the Chinese commanderies |
 | Chosen |
 | Chin |
 | The Chinese commanderies |
 | Koguryo |
-| Brief<br>history |
-| Developmental<br>stages |
+| Brief
+history |
+| Developmental
+stages |
 | Samhan |
 | Paekche |
-| The<br>founding<br>of<br>Paekche |
-| The<br>mature<br>Paekche<br>state<br>and<br>material<br>culture |
+| The
+founding
+of
+Paekche |
+| The
+mature
+Paekche
+state
+and
+material
+culture |
 | Kaya |
 | Silla |
 | Discussion |
@@ -80,7 +109,7 @@ British Library Cataloguing in Publication Data A catalogue record of this book 
 | Appendix 1B |
 | Early Korean States: A Western-Language Bibliography |
 
-# <u>CHAPTER TWO Thoughts on Pre-state Cultural Development on the Korean Peninsula from an Archaeological Point of View</u>
+# CHAPTER TWO Thoughts on Pre-state Cultural Development on the Korean Peninsula from an Archaeological Point of View
 
 The study of Korean states
 
@@ -118,7 +147,7 @@ Korean kiln excavations
 
 ## Conclusions
 
-# <u>CHAPTER FOUR A Technological Study of Earthenware and Stoneware from Southern Korea</u> <u>by M. S. Tite, G. L. Barnes, and C. Doherty</u>
+# CHAPTER FOUR A Technological Study of Earthenware and Stoneware from Southern Korea by M. S. Tite, G. L. Barnes, and C. Doherty
 
 ## Introduction
 
@@ -128,7 +157,7 @@ Results and discussion
 
 #### **CHAPTER FIVE Discoveries of Iron Armour on the Korean Peninsula**
 
-## <u>Introduction</u>
+## Introduction
 
 ## Chinese precedents
 
@@ -150,7 +179,7 @@ High- and low-status Kaya warriors
 
 #### **CHAPTER SIX Walled Sites in Three Kingdoms Society**
 
-## <u>Introduction</u>
+## Introduction
 
 Functional variation among walled sites
 
@@ -176,7 +205,7 @@ Three Kingdoms settlement patterns
 
 #### **CHAPTER SEVEN Introducing Kaya History and Archaeology**
 
-#### <u>Introduction</u>
+#### Introduction
 
 The Samguk Yusa account of Kaya origins
 
@@ -210,7 +239,7 @@ Silla expansion through archaeology
 
 Silla's capital development
 
-## <u>Index</u>
+## Index
 
 # **Foreword**
 
@@ -256,7 +285,7 @@ Thus throughout history, the Korean peninsula has hosted multiple states – oft
 
 #### **Conventions**
 
-Each of the following chapters has an abstract which places the article in the research trajectory. Bibliographies for the chapters are included with them rather than compiled at the back of the book. Please note that <a href="Chapter 1">Chapter 1</a> is keyed to both Appendices which appear immediately after it, as well as having its own reference list.
+Each of the following chapters has an abstract which places the article in the research trajectory. Bibliographies for the chapters are included with them rather than compiled at the back of the book. Please note that Chapter 1 is keyed to both Appendices which appear immediately after it, as well as having its own reference list.
 
 East Asian names in the text appear surname first followed by initials. Full personal names are given as much as possible in the bibliographies, but differing spelling conventions make it extremely difficult to unify references. A unique referencing system has been adopted in Appendix 1B to cater to this difficulty, and the format of that bibliography differs from the rest in several respects due to its special function.
 
@@ -273,7 +302,7 @@ Support for the research for each of the various projects undertaken is acknowle
 - 4.1Analytical results of mullite and vitrification in Korean sherds
 - 5.1Chronology of transformations in East Asian armour types relevant to cuirass development
 - 5.2Comparison of grave goods in main and accessory burials at Pokch'ŏn-dong
-- <u>6.1Typology of wall remains on the Korean Peninsula</u>
+- 6.1Typology of wall remains on the Korean Peninsula
 - 6.2Artifacts excavated from seven Three Kingdoms walled sites
 - 6.3Building remains excavated at Three Kingdoms walled sites
 - 7.1List of old and revised Kaya names
@@ -334,9 +363,9 @@ Support for the research for each of the various projects undertaken is acknowle
 - 6.7The walled site of Mongch'on T'osŏng
 - 6.8a The walled site of Isong Sansong
 - 6.8b Excavation of Isong Sansong Location E
-- <u>6.9Building reconstructions for the foundations at Location E, Isŏng</u>
-<u>Sansŏng</u>
-- <u>6.10The fortress remains at the Paekche capital of Puso</u>
+- 6.9Building reconstructions for the foundations at Location E, Isŏng
+Sansŏng
+- 6.10The fortress remains at the Paekche capital of Puso
 - 7.1Distribution of the classical "Five Kaya" and Karak
 - 7.2Distribution of the Pyŏnhan *guo*, including Kuya, and Samhan-Early Kaya cemeteries
 - 7.3Distribution of modern towns and cemeteries
@@ -413,7 +442,7 @@ This opening chapter lays out the chronology and processes of state formation on
 
 ## **Introduction**
 
-Instances of state formation on the Korean peninsula between 500 bc and ad 500 (see Table 1) were multiple and varied in character. All, however, were secondary states which formed at the periphery of the more powerful large states of China. References to some of the earlier of the Korean entities occur in the Chinese dynastic histories, where the character guo is used to describe them. <sup>1</sup> Guo was the term applied to the Zhou-period polities in China (1st millennium bc) and is usually translated as "state"; many of these Zhou polities became "principalities" under the succeeding Han Dynasty (206 bcad 220). The character guo as applied in Chinese works to early Korean polities has been conceptualized in a similar manner by Korean and Japanese scholars: all but a few dissenters translate it into English specifically as "state".
+Instances of state formation on the Korean peninsula between 500 bc and ad 500 (see Table 1) were multiple and varied in character. All, however, were secondary states which formed at the periphery of the more powerful large states of China. References to some of the earlier of the Korean entities occur in the Chinese dynastic histories, where the character guo is used to describe them. 1 Guo was the term applied to the Zhou-period polities in China (1st millennium bc) and is usually translated as "state"; many of these Zhou polities became "principalities" under the succeeding Han Dynasty (206 bcad 220). The character guo as applied in Chinese works to early Korean polities has been conceptualized in a similar manner by Korean and Japanese scholars: all but a few dissenters translate it into English specifically as "state".
 
 Thus, some of the earlier members of the universe of Korean "states" studied by historians are assigned to that category by virtue of the use of guo in describing them, not by any internal criteria of organization or archaeological evidence of developmental status. Others are included by virtue of the fact that they are known from Korean, Chinese and Japanese historical sources as well as archaeological evidence to have become powerful, centralized polities which played crucial roles in the political relations of 5th- and 6th-century East Asia. In two cases, the origins of these states are traced back to particular guo mentioned in the Chinese histories, so some sort of developmental continuity through time is assumed.
 
@@ -422,7 +451,7 @@ Much of the basic data on Korean state formation resides in the Chinese dynastic
 - 1.the Shiji, written by Sima Qian (145–c. 90 bc) during the Han Dynasty (206 bc–ad 220) but covering Zhou-period China (1027–221 bc) and its peripheral relations;
 - 2.the Weizhi (Chronicles of the Wei Dynasty), compiled by Zhen Shou (233– 297) as a record of events during the Wei Dynasty (ad 220–265). The Weizhi exists as part of the Sanguozhi (Chronicles of the Three Kingdoms), the official histories of the Chinese dynasties of Wei (220- 265), Shu Han (221–263), and Wu (222–258) which comprised the Chinese Three Kingdoms period (220–280).
 
-The original Korean accounts of the states' early histories, however, have not survived, and only later works incorporating this material cover these periods retrospectively. These works are the 12th-century Samguk Sagi (Kim P. S. 1145 [in Ref. List]; Yi H. D. 1962; Gardiner 1970; Ch'oe J. S. 1987 [in Ref. List]) <sup>2</sup> and the Samguk Yusa, written by the monk Iryon (1206–89) in the 13th century. The latter has been translated into English (Ha & Mintz 1972; Yi P. D. 1975); and the flavour of the former can be known from Rufus (1946) and Gardiner (1982b) and from translations or paraphrases of Yi Dynasty (1392–1910) histories based on the Samguk Sagi, published serially in the earliest volumes of the journals Korean Repository (from 1892) and The Korean Review (from 1901). All of these basic historical sources are reviewed briefly by Gardiner (1966), and research problems deriving from these sources are discussed by Yi H. J. (1987) and Yi P. D. (1985).
+The original Korean accounts of the states' early histories, however, have not survived, and only later works incorporating this material cover these periods retrospectively. These works are the 12th-century Samguk Sagi (Kim P. S. 1145 [in Ref. List]; Yi H. D. 1962; Gardiner 1970; Ch'oe J. S. 1987 [in Ref. List]) 2 and the Samguk Yusa, written by the monk Iryon (1206–89) in the 13th century. The latter has been translated into English (Ha & Mintz 1972; Yi P. D. 1975); and the flavour of the former can be known from Rufus (1946) and Gardiner (1982b) and from translations or paraphrases of Yi Dynasty (1392–1910) histories based on the Samguk Sagi, published serially in the earliest volumes of the journals Korean Repository (from 1892) and The Korean Review (from 1901). All of these basic historical sources are reviewed briefly by Gardiner (1966), and research problems deriving from these sources are discussed by Yi H. J. (1987) and Yi P. D. (1985).
 
 3.the Houhanshu (Chronicles of the Later Han Dynasty, ad 23–220), compiled between 398 and 445 and based on the Weizhi despite the Han Dynasty having occurred earlier than the Wei. These records were all written approximately contemporaneously with the phenomena on the Korean peninsula which they describe.
 
@@ -440,7 +469,7 @@ The Samguk Sagi, relied upon by many Korean scholars as a true version of histor
 
 **Figure 1.1** Hypothetical territories of the Three Kingdoms and Kaya at the height of Koguryŏ power in the late 5th century ad with modern city and river names (after Han W. K. 1970)
 
-Following the Samguk Sagi, some scholars attribute full-fledged state status to these Three Kingdoms from their designated founding dates. Recently, some efforts have been made to define developmental stages within these societies; in particular, the notion of "tribe" (K. pujok) <sup>4</sup> has been employed in contrast to or in conjunction with "state". In most ofthese cases, however, the word "tribe" is left undefined (e.g. Henthorn 1971); the same is true of the term "tribal state" (K. pujok kukka), which is in common use among historians (Hatada 1969; Sohn et al. 1970).
+Following the Samguk Sagi, some scholars attribute full-fledged state status to these Three Kingdoms from their designated founding dates. Recently, some efforts have been made to define developmental stages within these societies; in particular, the notion of "tribe" (K. pujok) 4 has been employed in contrast to or in conjunction with "state". In most ofthese cases, however, the word "tribe" is left undefined (e.g. Henthorn 1971); the same is true of the term "tribal state" (K. pujok kukka), which is in common use among historians (Hatada 1969; Sohn et al. 1970).
 
 According to the Treatise on Period Divisions in Korean History, published by the Society for Korean Economic History (1970 [in Ref. List]), the term "tribal state" was introduced into the scholarly literature by Paek N. M. in 1933. It did not come into regular usage until 1948 when employed by Son C. T. in his Outline of Korean Ethnic History. In this and subsequent works, the designation "tribal state" was generally applied to Korean Bronze Age society (ca. 1st millennium bc), whose dolmens were thought to be tangible indications of status enjoyed by Bronze Age rulers.
 
@@ -458,13 +487,13 @@ The work of Choi M. L. embodies the most extensive application of Western evolut
 
 The second issue in Korean state formation studies concerns the question of whether the states in question were created by foreign refugee populations or whether they developed as native institutions. The traditional tendency to assign all political and cultural development in Korea to Chinese sources has been well reviewed by Kang & Macmillan (1980). However, the current swing of the theoretical pendulum encourages efforts to assign indigenous origins to these societies; in fact, it has even led to the denial of the existence of the historically documented Chinese administrative units on the peninsula. Archaeological remains and historical accounts traditionally attributed to the Chinese commandaries are now viewed as native phenomena, particularly by North Korean scholars (cf. Pearson 1979).
 
-This shift in ideological preference seems to stem from two causes: on the one hand, rising national consciousness, and on the other, the adoption of anthropological viewpoints according to which the demonstration of indigenous rather than imposed origins seems to bestow more scholarly value and native prestige on the society being studied. As a result, there is a growing body of literature which resuscitates earlier work treating state formation and the emergence of a Korean ethnic identity as part and parcel of the same phenomenon, <sup>5</sup> a trend which is deplored by Kim J. B. (1987). In these works, and also in current textbooks (cf. Korea Herald, 9 June 1987), the mythical founder of the first Korean state named Tan'gun<sup>6</sup> who was born of a bear and a heavenly prince, has been elevated to historical status (Ryu S. G. 1987 [in Ref. List]), giving unwarranted time depth to the state he represents and obscuring the complicated mixing of peoples throughout the turbulent periods of peninsular history. The recurrent phrase "5000 years of Korean history" derives directly from this use of Tan'gun – nothing more.
+This shift in ideological preference seems to stem from two causes: on the one hand, rising national consciousness, and on the other, the adoption of anthropological viewpoints according to which the demonstration of indigenous rather than imposed origins seems to bestow more scholarly value and native prestige on the society being studied. As a result, there is a growing body of literature which resuscitates earlier work treating state formation and the emergence of a Korean ethnic identity as part and parcel of the same phenomenon, 5 a trend which is deplored by Kim J. B. (1987). In these works, and also in current textbooks (cf. Korea Herald, 9 June 1987), the mythical founder of the first Korean state named Tan'gun6 who was born of a bear and a heavenly prince, has been elevated to historical status (Ryu S. G. 1987 [in Ref. List]), giving unwarranted time depth to the state he represents and obscuring the complicated mixing of peoples throughout the turbulent periods of peninsular history. The recurrent phrase "5000 years of Korean history" derives directly from this use of Tan'gun – nothing more.
 
 #### **Organizational stimuli**
 
-The third issue in Korean state formation concerns the differing opinions among scholars as to the main factors in the emergence and development of these societies. Han W. K., for example, places primary stress on the catalytic effects of metals: first bronze, which "stimulated the development of tribes, and subsequently of tribal leagues" (Han W. K. 1970: 12); then iron, which stimulated the "tribal communities ... to develop into integrated political units" (Han W. K. 1970: 22). Apparently these "integrated political units" are to be understood as "tribal leagues" (Lee J. W. pers. comm.). In contrast to the use of metals as technological stimuli to socio-political development by these authors, <sup>7</sup> Choi M. L. (1983b, 1984) assigns important roles to trade and military force in at least one case of state formation. His study utilizes the flow diagrams of systems theory in postulating multivariate causation of state formation while also utilizing the Renfrewian concept of the "multiplier effect" (Renfrew 1986 [in Ref. List]).
+The third issue in Korean state formation concerns the differing opinions among scholars as to the main factors in the emergence and development of these societies. Han W. K., for example, places primary stress on the catalytic effects of metals: first bronze, which "stimulated the development of tribes, and subsequently of tribal leagues" (Han W. K. 1970: 12); then iron, which stimulated the "tribal communities ... to develop into integrated political units" (Han W. K. 1970: 22). Apparently these "integrated political units" are to be understood as "tribal leagues" (Lee J. W. pers. comm.). In contrast to the use of metals as technological stimuli to socio-political development by these authors, 7 Choi M. L. (1983b, 1984) assigns important roles to trade and military force in at least one case of state formation. His study utilizes the flow diagrams of systems theory in postulating multivariate causation of state formation while also utilizing the Renfrewian concept of the "multiplier effect" (Renfrew 1986 [in Ref. List]).
 
-In contrast to the above studies, which focus mainly on individual causes, Hatada (1969: 7) develops a more generalized but very consistent thesis that societies dominated by the Chinese had their native social organization destroyed and were therefore handicapped in further development, whereas those on the periphery of Chinese control kept their native tribal organizations intact and were thus able to strengthen and "develop to maturity". This thesis is exactly the opposite of the traditional view that all social and political development occurred because of Chinese presence and influence, <sup>8</sup> and it seems to be particularly relevant to the individual cases of state formation on the Korean peninsula – although it might not be universally applicable.
+In contrast to the above studies, which focus mainly on individual causes, Hatada (1969: 7) develops a more generalized but very consistent thesis that societies dominated by the Chinese had their native social organization destroyed and were therefore handicapped in further development, whereas those on the periphery of Chinese control kept their native tribal organizations intact and were thus able to strengthen and "develop to maturity". This thesis is exactly the opposite of the traditional view that all social and political development occurred because of Chinese presence and influence, 8 and it seems to be particularly relevant to the individual cases of state formation on the Korean peninsula – although it might not be universally applicable.
 
 ## **Seven candidates for statehood, and the Chinese commanderies**
 
@@ -472,7 +501,7 @@ There are seven protohistoric societies in Korea which can be evaluated in terms
 
 Before proceeding, let us note that these protohistoric societies span the millennium from approximately 500 bc to ad 500 (Table 1). The crucial historical event affecting peninsular development during this period was the occupation of the northwestern part of the Korean peninsula by the Chinese between 108 bc and ad 313. This Chinese presence is now being questioned, as mentioned above, but there is no doubt that the economy and political organization of the peninsula was greatly affected by close intercourse with successive Chinese states during the millennium under consideration.
 
-Let us also note that this millennium coincides approximately with what can tentatively be called the Korean "Iron Age". There are many difficulties in using this term because of differential regional development on the peninsula as well as the problem of social status in metal usage (Barnes 1983a see [Chapter 2, this volume]). Nevertheless, iron is hypothesized to have appeared on the peninsula around the 4th century bc. Thus the latter half of the 1st millennium bc is called both the Early Iron Age (IA-I) and the Late Bronze Age (BA-II). The period between ad 0 and 300 also has several names: the Proto-Three Kingdoms period, the Late Iron Age (IA-II), the Samhan Period and the Lelang period.<sup>9</sup> The Three Kingdoms period, 10 beginning in ad 300, takes its name from the states of Silla, Paekche and Koguryŏ as known from the chronicles; the starting date for this period, however, is not historically but archaeologically determined by the advent of the mounded tomb culture (Kim W. Y. 1983a).
+Let us also note that this millennium coincides approximately with what can tentatively be called the Korean "Iron Age". There are many difficulties in using this term because of differential regional development on the peninsula as well as the problem of social status in metal usage (Barnes 1983a see [Chapter 2, this volume]). Nevertheless, iron is hypothesized to have appeared on the peninsula around the 4th century bc. Thus the latter half of the 1st millennium bc is called both the Early Iron Age (IA-I) and the Late Bronze Age (BA-II). The period between ad 0 and 300 also has several names: the Proto-Three Kingdoms period, the Late Iron Age (IA-II), the Samhan Period and the Lelang period.9 The Three Kingdoms period, 10 beginning in ad 300, takes its name from the states of Silla, Paekche and Koguryŏ as known from the chronicles; the starting date for this period, however, is not historically but archaeologically determined by the advent of the mounded tomb culture (Kim W. Y. 1983a).
 
 The mounded tomb culture is one of two aspects of early Korean state society (the other being Buddhist culture) that has had repeated exposure in the Western literature. 11 It is beyond the scope of this essay to provide detailed descriptions of material cuture, but in general it can be stated that the tombs fall into the easily recognized tradition of royal burials: monumental earthen mounds covering stone-built or stone-enclosed chambers in which a variety of sumptuous prestige goods were deposited with the dead. These goods include bronze mirrors, gilt-bronze horse trappings and other ornaments, gold jewelry, jade beads, rare gold and glass cups, iron armour and weapons, etc. The labour invested in the tomb construction, the isolation and general individualization of the tombs from other contemporaneous burials, and the access to both precious resources and specialized labour embodied in the grave goods all signify a highly stratified society in which the elite participated in a distinct material subculture not accessible to the general population. Unfortunately, the archaeological data from the tombs is not well integrated with perspectives on Korean state formation, which are mainly based on historical texts. This problem of integration between the two forms of data will be returned to in the Discussion below, after we have examined the individual case histories of state formation on the Korean peninsula.
 
@@ -480,7 +509,7 @@ The mounded tomb culture is one of two aspects of early Korean state society (th
 
 Chosŏn might be most easily characterized as a border polity which developed to the east of the Zhou states of China (Figure 1.2). It is thought to have attained a specific identity by at least the 2nd century bc, and it was destroyed by the Chinese Han Dynasty invasion of the peninsula in 108 bc. Thus, it is the only example among the seven cases considered here that completely pre-dates the traditionally recognized formal Chinese presence on the peninsula.
 
-Very little is known about Chosŏn, but care must be taken to distinguish between two possible aspects of it as recorded in the Chinese histories: firstly as a place name (Cbaoxìan in Chinese; this spelling will be retained here when referring to the geographical area) and secondly as a polity. The early references in the Zhanguoce (Crump 1979), Shanhaijing (Henderson 1959) and Shiji (Watson 1961; Choi M. L. 1983c), works of the late Zhou (475–221 bc) and Han (206 bc–ad 220) periods respectively, seem to treat Chaoxian as a region until 195 bc, from which point it is referred to indirectly in the text and notes of the latter work as a guo. The region of Chaoxian is described in Zhou times as lying east of the state of Yan (Crump 1979: 506), then in the next two periods as bordering on the Liaodong commandery of the Qin and Han states (Watson 1961: 258). From these descriptions, Chaoxian might be understood to have included at one time the lower Liao River basin in Manchuria, <sup>12</sup> but most commentators place it east of the Yalu River, the current boundary between China and North Korea. The interpretation of the name Chaoxian as a place name is in concordance with the meaning of its characters: "dawn-fresh", that is, the region in the east where the sun rises from the perspective of north China. This interpretation is confirmed for ad
+Very little is known about Chosŏn, but care must be taken to distinguish between two possible aspects of it as recorded in the Chinese histories: firstly as a place name (Cbaoxìan in Chinese; this spelling will be retained here when referring to the geographical area) and secondly as a polity. The early references in the Zhanguoce (Crump 1979), Shanhaijing (Henderson 1959) and Shiji (Watson 1961; Choi M. L. 1983c), works of the late Zhou (475–221 bc) and Han (206 bc–ad 220) periods respectively, seem to treat Chaoxian as a region until 195 bc, from which point it is referred to indirectly in the text and notes of the latter work as a guo. The region of Chaoxian is described in Zhou times as lying east of the state of Yan (Crump 1979: 506), then in the next two periods as bordering on the Liaodong commandery of the Qin and Han states (Watson 1961: 258). From these descriptions, Chaoxian might be understood to have included at one time the lower Liao River basin in Manchuria, 12 but most commentators place it east of the Yalu River, the current boundary between China and North Korea. The interpretation of the name Chaoxian as a place name is in concordance with the meaning of its characters: "dawn-fresh", that is, the region in the east where the sun rises from the perspective of north China. This interpretation is confirmed for ad
 
 325 when a native leader received the rank of Duke of Chaoxian, long after the demise of the Chosŏn polity (Ledyard 1977: 14). From 300 bc until 195 bc the northeastern state of Yan reportedly exerted great influence in the Chaoxian region (Watson 1961: 258):
 
@@ -498,7 +527,7 @@ The second founding myth concerns Tan'gun, the son of a union between a heavenly
 
 The third "myth" concerns Weiman, a military officer of the Zhou state of Yan who is said to have fled to the northern Korean peninsula around 195 bc and "founded a principality with its capital at Wang-hsien [Wangxian], a town which apparently occupied the site of modern P'yŏngyang" (Gardiner 1969a: 9). The Weilue, a mid-third-century text quoted in the preface to the Sanguozhi, records that Weiman (K. Wiman) actually usurped the rulership of the existing Qi [Qizi] Dynasty from a king named Zhun (K. Chun) and thus took over the kingship of the state of Chosŏn; but Gardiner has questioned the authenticity of this report, saying, "... it contains so much [information] that is additional for which no earlier sources are known that it seems somewhat suspect" (1969a: 10). Gardiner nevertheless mentions that "As early as 203 bc, a group of socalled Northern Maek [inhabitants of eastern Manchuria/northern Korea] had campaigned on behalf of the founder of the Han dynasty" (1979: 71), illustrating that there was both Han-Chosŏn interaction and social unrest in that time and place. Kim C. W. dismisses Tan'gun and Kija as legendary but speculates that the immigration of Weiman and his followers initiated the Iron Age in the northern Korean peninsula (Kim C. W. 1966). This is not entirely fanciful, as Yan was the largest northern producer of iron in late 1st millennium bc.
 
-Chosŏn history is therefore often divided into three phases, each named after one of the legendary founders: Tan'gun Chosŏn or Old/Ancient/Ko-/ Chosŏn, then Qizi/Kija Chosŏn, and thereafter as Weiman/Wiman Chosŏn.<sup>13</sup>
+Chosŏn history is therefore often divided into three phases, each named after one of the legendary founders: Tan'gun Chosŏn or Old/Ancient/Ko-/ Chosŏn, then Qizi/Kija Chosŏn, and thereafter as Weiman/Wiman Chosŏn.13
 
 There is incontrovertible evidence of the existence of the Chosŏn polity by 109 bc, when the alleged grandson of Weiman, Youqu (K. Ugo), came into conflict with the Han Dynasty and precipitated the Han invasion of the peninsula. The relations leading up to the invasion are detailed in the Shiji (Watson 1961: 258–63). In historical terms, then, the examination of the Chosŏn polity must begin here with an evaluation of the structure of that polity as recorded in the documents, and then work backwards with archaeological data to understand the development of the polity in socioeconomic terms. Although such a task is beyond the scope of the current paper, let us review how other authors have dealt with Chosŏn origins and used archaeological data to support their arguments.
 
@@ -524,7 +553,7 @@ Choi M. L. (1983a, 1983b, 1985 [in Ref. List], 1989) goes further than these doc
 
 In assessing the developmental status of Ko-Chosŏn, it is all too apparent that we are dealing here with a non-pristine border situation in which there was much interaction and exchange of objects, ideas and people with the Zhou states to the northwest. This interaction seems to have extended to at least the Han River basin of the central Korean peninsula prior to 108 bc. Knife-coins of the Zhou states, however, are also found in western Japan, so direct or down-the-line trading could have extended even further.
 
-At any rate, within the region demarcated by the Liao and Han Rivers – that is, the region containing Chaoxian – at least one historically attested polity having a ruling hierarchy had emerged by the 2nd century bc. Whether the ruling families themselves were natives or immigrants from the Zhou states is a highly sensitive question not easily resolved in today's political climate. <sup>14</sup> But regardless of the exact ethnic identity of these people, it is clear from the Shiji that there was considerable population movement from the Zhou states into the region, so that the elite group probably ruled over a culturally if not also an ethnically mixed population.
+At any rate, within the region demarcated by the Liao and Han Rivers – that is, the region containing Chaoxian – at least one historically attested polity having a ruling hierarchy had emerged by the 2nd century bc. Whether the ruling families themselves were natives or immigrants from the Zhou states is a highly sensitive question not easily resolved in today's political climate. 14 But regardless of the exact ethnic identity of these people, it is clear from the Shiji that there was considerable population movement from the Zhou states into the region, so that the elite group probably ruled over a culturally if not also an ethnically mixed population.
 
 It is also fairly clear that the ruler, stated in the Shiji to have been located in the the walled town called Wangxian, derived much of his power from dealings with the Zhou and Han states. If his territory was large enough by 108 bc to have been divided into four commanderies upon the conquest of Wangxian, then this maximal territory was the culmination of trends in political development through interaction and cannot be projected backwards into the 1st millennium bc without a corresponding contraction in size. It is possible that there were several Early Iron Age polities in the Chaoxian region in the 1st millennium bc; probably organized as centralized but simple chiefdoms, these are easily envisioned as having been dominated by a fellow ruler whose own polity became known as Chosŏn. In all likelihood, this ruler's power derived partially from his ability to deny his rivals access to the Han court – an obstructive activity which brought on the Han conquest of 108 bc. That Chosŏn was not entirely successful in its attempted hegemony is shown by the rebellion of a "tribal leader" called (K.) Namnyo who changed his allegiance – and that of 280,000 of his people, so it is said – to Han China in 128 bc. This realignment is recorded in the Chinese histories as the establishment of the first of their commanderies on the peninsula, but that commandery only lasted two years (cf. Gardiner 1979:
 
@@ -576,9 +605,9 @@ The strength and influence of Lelang varied through time, fluctuating with the f
 
 ## **Brief history**
 
-The polity of Koguryŏ developed among the peoples of the eastern Manchurian massif during the first few centuries after Han China established its commanderies on the peninsula (Rhee S. N. 1992a, b). With the weakening of Lelang in the late 3rd century, Koguryŏ grew stronger; and in ad 313, Koguryŏ forces attacked and destroyed the commandery (Figure 1.4). Koguryŏ was the first Korean state to accept Buddhism; though known as early as 313, it was officially adopted in ad 372.<sup>16</sup> The 4th century also saw the importation from China of the technology of writing, Confucianism, astronomy, medicine and the system of state education for the sons of nobles (cf. Watson 1959). The earliest extant written material from the Korean peninsula consists of a stone monument erected near the Kungnaesŏng capital on the occasion of the death of the nineteenth king of Koguryŏ,
+The polity of Koguryŏ developed among the peoples of the eastern Manchurian massif during the first few centuries after Han China established its commanderies on the peninsula (Rhee S. N. 1992a, b). With the weakening of Lelang in the late 3rd century, Koguryŏ grew stronger; and in ad 313, Koguryŏ forces attacked and destroyed the commandery (Figure 1.4). Koguryŏ was the first Korean state to accept Buddhism; though known as early as 313, it was officially adopted in ad 372.16 The 4th century also saw the importation from China of the technology of writing, Confucianism, astronomy, medicine and the system of state education for the sons of nobles (cf. Watson 1959). The earliest extant written material from the Korean peninsula consists of a stone monument erected near the Kungnaesŏng capital on the occasion of the death of the nineteenth king of Koguryŏ,
 
-Kwanggaet'o, in ad 414. Now located in the northeastern Chinese province of Jilin this monument has engendered heated debate over its contents due to accusations of Japanese defacement during the colonial period (Kim J. Y. 1996). <sup>17</sup> Throughout the 5th and 6th centuries, Koguryŏ was in constant interaction with other states in Korea, China and Japan – as partially attested to by this inscription (Szczesniak 1946). In 427, the Koguryŏ moved their capital from Kungnaesŏng in the Donggou region of the Yalu river to the former Lelang commandery headquarters, naming their new capital P'yŏngyang. The several Koguryŏ capitals (Sekino et al. 1929 [in Ref. List]; Barnes 1991 see [Chapter 6, this volume]) are marked by the presence of mounded tombs, many with painted murals in their chambers. 18
+Kwanggaet'o, in ad 414. Now located in the northeastern Chinese province of Jilin this monument has engendered heated debate over its contents due to accusations of Japanese defacement during the colonial period (Kim J. Y. 1996). 17 Throughout the 5th and 6th centuries, Koguryŏ was in constant interaction with other states in Korea, China and Japan – as partially attested to by this inscription (Szczesniak 1946). In 427, the Koguryŏ moved their capital from Kungnaesŏng in the Donggou region of the Yalu river to the former Lelang commandery headquarters, naming their new capital P'yŏngyang. The several Koguryŏ capitals (Sekino et al. 1929 [in Ref. List]; Barnes 1991 see [Chapter 6, this volume]) are marked by the presence of mounded tombs, many with painted murals in their chambers. 18
 
 The mature Koguryŏ state is thought by Han W. K. (1970: 52–3) to have taken shape during the reign of King Sosurim (371–84) and reached maturity after the move to P'yŏngyang. Han sees the state administration as having developed through three stages. At first there were twelve grades of nonspecialized officials. These officials were later divided into two groups, the (K.) Hyŏng ("Elder brothers") taking over "the powers formerly exercised by the various tribes", the (K.) Saja ("Messengers") being concerned with communications and tax collecting. Finally fourteen governmental posts were established, each of which had its own rank and title and the top five of which handled the important affairs of state. Li O. has written at length on Koguryŏ myths and social customs in addition to political and administrative matters (1980, 1988). The historical and archaeological materials upon which such studies are based have been recently compiled into two volumes by Yonsei University's Research Institute of National Learning (Yonsei Taehakkyo 1987–8 [in Ref. List]). Lee K. B. furthermore discusses the formation of the Koguryŏ state with regards to ethnicity, territory and politics, evaluating the utility of the concepts "wall-town state" and "tribal state" (1985 [in Ref. List]). The Koguryŏ military system and martial arts have also come under scrutiny (Asmolov 1992; Anon. 1971b). In 598, Koguryŏ was attached by the newly centralized Sui dynasty in China (Wong 1980) and a later alliance between Tang China and Silla finally overcame and destroyed Koguryŏ in ad 668. Upon its defeat, the southern part of Koguryŏ was incorporated into United Silla and the northern part emerged as the state of Parhae. 19
 
@@ -588,13 +617,13 @@ The mature Koguryŏ state is thought by Han W. K. (1970: 52–3) to have taken s
 
 #### **Developmental stages**
 
-At least four stages in the development of Koguryŏ can be ascertained from research based on the Chinese dynastic histories. <sup>20</sup> During the earliest stage, between 75 bc and ad 12, the Koguryŏ are known only as a branch of the Fuyu peoples of the northern Manchurian Basin (K. Puyŏ) (cf. Ikeuchi 1932; Lee K. B. 1963). The Koguryŏ branch was under the administration of the Kaogouli (K. Koguryŏ) prefecture of the Xuantu commandery in southeastern Manchuria (Gardiner 1979). It is not known whether the prefecture took its name from the people, or whether the people came to be known by the place name of the prefecture. Although the Koguryŏ had a leader who was titled "marquis" (C. hou) (Gardiner 1964: 101) they do not appear to have comprised a territorial polity in their homeland, the Hun River drainage. Gardiner sees them as mere "clients of the Han empire who were recruited to fight in the border conflicts against the steppe nomads. In ad 12, the Koguryŏ rebelled against the Han and in 32/33 sent an embassy to the Han court under a chieftain" who styled himself "king for the first time" (Gardiner 1979: 67). Han W. K. attributes much more power to Koguryŏ in this first stage than does Gardiner: he sees the Koguryŏ as the agents of the fall of an earlier "Chinese colony" in the area in 128 bc and also states that Koguryŏ insurgency was responsible for the collapse of the original Xuantu commandery in 75 bc (1970: 38–9).
+At least four stages in the development of Koguryŏ can be ascertained from research based on the Chinese dynastic histories. 20 During the earliest stage, between 75 bc and ad 12, the Koguryŏ are known only as a branch of the Fuyu peoples of the northern Manchurian Basin (K. Puyŏ) (cf. Ikeuchi 1932; Lee K. B. 1963). The Koguryŏ branch was under the administration of the Kaogouli (K. Koguryŏ) prefecture of the Xuantu commandery in southeastern Manchuria (Gardiner 1979). It is not known whether the prefecture took its name from the people, or whether the people came to be known by the place name of the prefecture. Although the Koguryŏ had a leader who was titled "marquis" (C. hou) (Gardiner 1964: 101) they do not appear to have comprised a territorial polity in their homeland, the Hun River drainage. Gardiner sees them as mere "clients of the Han empire who were recruited to fight in the border conflicts against the steppe nomads. In ad 12, the Koguryŏ rebelled against the Han and in 32/33 sent an embassy to the Han court under a chieftain" who styled himself "king for the first time" (Gardiner 1979: 67). Han W. K. attributes much more power to Koguryŏ in this first stage than does Gardiner: he sees the Koguryŏ as the agents of the fall of an earlier "Chinese colony" in the area in 128 bc and also states that Koguryŏ insurgency was responsible for the collapse of the original Xuantu commandery in 75 bc (1970: 38–9).
 
 The second stage of Koguryŏ development (ad 12–207) covers the period after they established themselves independently of Han China in the Hun River drainage. They were reportedly unable to eke out a satisfactory living in the steep mountains and thus resorted to raids on surrounding tribes and lowland settlements (Sanguozhi, quoted in Gardiner 1964: 162). Some scholars postulate that by the mid-1st century ad the Koguryŏ may have advanced from periodic raiding to demanding regular tribute from their peninsular neighbors, thus dominating them politically and economically. Tribute is said to have been collected by "tribal nobles of [Koguryŏ] families [that] were stationed amongst the ... Okjo communities of northeastern Korea" (ibid.: 172). Koguryŏ attacked the Chinese commandaries of Xuantu and Liaodong in ad 105–6, 121 and 167–9, although it also sent tribute to the Chinese court in 109. Sohn et al. treat Koguryŏ as a coherent power from ad 12 when, they state, it "attacked Han China"; and the raiding activities of ad 47 they portray as Koguryŏ having again "attacked Han and advanced deep into mainland China to occupy Peking" (1970: 38–9).
 
 The third stage (ad 207–45) begins with the removal of the Koguryŏ capital from the Hun River valley to the Yalu River valley near Mt. Wandu (K. Hwando) after retaliatory attacks by the Liaodong commandery. Their stone-walled capital city in the Donggou region of China's Jilin province has tentatively been identified by Japanese archaeologists near the modern town of Jian (Sekino et al. 1929). Koguryŏ may have sent tribute to the Chinese court in 220; but it again attacked the Xuantu commandery from this new base, and it also gained access to the sea by establishing dominance over the settlements at the mouth of the Yalu sometime before 233. In 238 an alliance between Koguryŏ and the Wei Dynasty effected the overthrow of the Liaodong commandery, which had been run as a warlord's fief for half a century (Gardiner 1972). But with Liaodong now occupied by Wei, Koguryŏ's plundering of the western edge of the Yalu estuary in 242 incited a Wei counterattack in 244. On this occasion, Wei reached and destroyed the Koguryŏ capital at Wandu and sent the king fleeing. This account of the routing of Koguryŏ (cf. Ikeuchi 1929) represents the end of direct Chinese information on Koguryŏ development until the 6th century, and the ethnography of Koguryŏ recorded in the Sanguozhi must depict the society as it was organized just prior to the invasion of 244–5.
 
-The Sanguozhi and the Houhan-shu <sup>21</sup> suggest that Koguryŏ was undergoing moderate sinicization in the mid-2nd century. They describe the internal organization of Koguryŏ as consisting of five "tribes" (C. bu), including a royal one which supplied the kings and a formerly royal one which still retained the rights of the king's ancestral "tribe". Cross-cutting these "tribes" were two social classes, the "upper orders" (C. dajia) and the "lower orders" (C. xiagu). The upper orders did not work in the fields and ate at raised seats. Moreover, those of the royal tribe and the tribe supplying the queen held both the title of (C.) guzoujia – a translation equivalent of which might be "aristocrats" (cf. Shiratori 1926; Gardiner 1964) – and the rights to build ancestral temples and to worship the spirits of stars and the national gods of earth and harvest. Each tribe had its own officials, but these were of lower rank than the same officials for the royal tribe. In addition, there were six other ranks or titles: court minister, tribal elder, deputy tribal elder, keeper of records, clan head and assistant. Of all these various ranks and titles, three were of Chinese derivation; Gardiner (1979) notes that despite the existence of these terms, no native word for ruler has survived, suggesting that the ruler position was a Chinese creation for purposes of border administration.
+The Sanguozhi and the Houhan-shu 21 suggest that Koguryŏ was undergoing moderate sinicization in the mid-2nd century. They describe the internal organization of Koguryŏ as consisting of five "tribes" (C. bu), including a royal one which supplied the kings and a formerly royal one which still retained the rights of the king's ancestral "tribe". Cross-cutting these "tribes" were two social classes, the "upper orders" (C. dajia) and the "lower orders" (C. xiagu). The upper orders did not work in the fields and ate at raised seats. Moreover, those of the royal tribe and the tribe supplying the queen held both the title of (C.) guzoujia – a translation equivalent of which might be "aristocrats" (cf. Shiratori 1926; Gardiner 1964) – and the rights to build ancestral temples and to worship the spirits of stars and the national gods of earth and harvest. Each tribe had its own officials, but these were of lower rank than the same officials for the royal tribe. In addition, there were six other ranks or titles: court minister, tribal elder, deputy tribal elder, keeper of records, clan head and assistant. Of all these various ranks and titles, three were of Chinese derivation; Gardiner (1979) notes that despite the existence of these terms, no native word for ruler has survived, suggesting that the ruler position was a Chinese creation for purposes of border administration.
 
 Gardiner states that the greatest change in Koguryŏ structure during this time implied in the Sanguozhi is that of an increase in kingly power from primus inter pares to a central ruler no longer relying on a hierarchy of clan nobles but on a nexus of appointed officials subject to his word alone (1964: 200–2). Gardiner himself divides up the phases of Koguryŏ somewhat differently, seeing ad 12–100 as a transitional phase leading into the positive leadership which characterized Early Koguryŏ (100–245); such positive leadership came into being with the succession of the (K.) Kyeru tribe to the monarchy (1979: 80). In connection with questions of organization within Koguryŏ at this time, there is considerable scholarly disagreement whether the five Koguryŏ tribes (bu) were purely social groups or whether they also occupied specific territories (Gardiner 1964: 187, 1979: 75).
 
@@ -616,7 +645,7 @@ Another factor of potential importance in Koguryŏ state development was the exp
 
 Given the traditional hostilities between the Puyŏ and Koguryŏ, it is all the more curious that the Koguryŏ historically claimed descent from the Puyŏ and that the two groups shared a state-founding myth. The myth is first recorded in the Chinese chronicles and ascribed to Puyŏ (Ikeuchi 1932; Shiratori 1938); the Koguryŏ myth can be viewed as a transformed variant.
 
-The Puyŏ myth concerns a man named Dongming (K. Tongmyŏng) who migrates in from a country further north and founds the country of Puyŏ; in the Koguryŏ version, the man is a Puyŏ youth named Chumong, who is urged by his mother to go south to her homeland and found his own country in order to avoid ostracization by his peers because of his miraculous birth from an egg. <sup>22</sup> Most scholars assume that the Koguryŏ founding myth relates to the settlement of the Hun River valley and is appropriately linked to the traditional founding date for Koguryŏ at 37 bc. Gardiner, however, believes that the Puyŏ myth was adopted only in the 4th century as part of the strategy in for glorifying the Koguryŏ royal family (Gardiner 1979, 1988).
+The Puyŏ myth concerns a man named Dongming (K. Tongmyŏng) who migrates in from a country further north and founds the country of Puyŏ; in the Koguryŏ version, the man is a Puyŏ youth named Chumong, who is urged by his mother to go south to her homeland and found his own country in order to avoid ostracization by his peers because of his miraculous birth from an egg. 22 Most scholars assume that the Koguryŏ founding myth relates to the settlement of the Hun River valley and is appropriately linked to the traditional founding date for Koguryŏ at 37 bc. Gardiner, however, believes that the Puyŏ myth was adopted only in the 4th century as part of the strategy in for glorifying the Koguryŏ royal family (Gardiner 1979, 1988).
 
 The equation of archaeological materials with the various phases of Koguryŏ development is rendered difficult by inaccessibility of data and a lack of a secure archaeological chronology. Almost all references to Koguryŏ archaeological materials in Western-language sources are quite out of date or misleading (cf. Hatada 1969; Gardiner 1969). In a 1974 survey, Li O. presents data on Bronze Age archaeology in the northern peninsula and examines ethnographic references to Tungusic peoples called the Ye and Maek in search of Koguryŏ origins. Kim J. B., on the other hand, conforms more to the time scale for Koguryŏ known from the Chinese chronicles, attributing four pit-graves containing horse bits to the Koguryŏ at ad 0 (1978: 42). Koguryŏ archaeology is in great need of systematic elucidation (cf. Rhee 1992a, b), and Korean-language texts are beginning to address this need based on Chinese excavations (cf. Ch'oe MJ. 1982 [in Ref. List]).
 
@@ -638,7 +667,7 @@ As for the internal organization of the guo, Lee K. B. (1984: 28) assumes that e
 
 The internal organization of the Samhan guo focused on the ruler, called (K.) shinji in the larger polities and (K.) upch'a in the smaller polities (Lee K. B. 1984: 28) or (K.) shinji, kanji, upch'i, (Sohn et al. 1970: 30), or (K.) shinji (great chief) and (K.) upch'a, hopch'ik, punye, sarhae (lesser chiefs) (Hatada 1969: 11). Members of the ruling class are said to have worn silk garments and leather shoes instead of hemp clothes and straw sandals, and they decorated their bodies with necklaces and earrings (Han W. K. 1970: 36). In Mahan at least, priestly duties were entrusted to a second independent figure, interpreted as a shamanic figure surviving from earlier in the society's development (Sohn et al. 1970: 29). Lee K. B. calls this figure a "Heaven prince" (K. ch'ŏn'gun), one who contributed to the separation of political and religious power at that time (1984: 33). This priestly figure oversaw rites at a designated sanctuary or "political asylum" (Sohn et al. 1970: 29). Kim T. J. called a (K.) sodo, which is referred to as a "secondary capital" (Kim J. B. 1970: 29) or a "separate settlement" (Kim T. J. 1985a [in Ref. List]) but which Han W. K. describes as taking the form of "groves of trees" (1970: 36).
 
-As for the nature of the Three Han themselves, nothing is very clear. One early Western scholar has proposed that there were at least dialectical differences between these groups (Hulbert 1895). The names, on the other hand, may have originally been geographical designations; but there is a tendency among historians to treat them as social or political entities. Hatada (1969: 10) refers to them as three branches of the "Han tribes", while Han W. K. calls them "tribal leagues" (1970: 33). Lee J. W. (1982a) treats each of the Samhan as a "league of small states". Han W. K. (1970: 33) extends Samhan political development back to the 3rd or 4th century bc and attributes it to the "chieftains of the southern tribes ... importing and adopting the bronze and iron cultures of the north as a means of consolidating their power". This brings his Samhan polities into contemporaneity with his postulated state of Chin, but he does not deal with this contradiction. Lee C. W. agrees with this postulated early existence of Samhan (Lee C. W. 1978: 36). Several historians find causes for southern social developments not only in the diffusion of metal-working but in the actual migration of peoples with experience in polity organization.<sup>23</sup> Among the stimuli for movement cited are the Weiman usurpation of Chosŏn in 194 bc and Chosŏn's subsequent conquest by the Han Dynasty in 108 bc.
+As for the nature of the Three Han themselves, nothing is very clear. One early Western scholar has proposed that there were at least dialectical differences between these groups (Hulbert 1895). The names, on the other hand, may have originally been geographical designations; but there is a tendency among historians to treat them as social or political entities. Hatada (1969: 10) refers to them as three branches of the "Han tribes", while Han W. K. calls them "tribal leagues" (1970: 33). Lee J. W. (1982a) treats each of the Samhan as a "league of small states". Han W. K. (1970: 33) extends Samhan political development back to the 3rd or 4th century bc and attributes it to the "chieftains of the southern tribes ... importing and adopting the bronze and iron cultures of the north as a means of consolidating their power". This brings his Samhan polities into contemporaneity with his postulated state of Chin, but he does not deal with this contradiction. Lee C. W. agrees with this postulated early existence of Samhan (Lee C. W. 1978: 36). Several historians find causes for southern social developments not only in the diffusion of metal-working but in the actual migration of peoples with experience in polity organization.23 Among the stimuli for movement cited are the Weiman usurpation of Chosŏn in 194 bc and Chosŏn's subsequent conquest by the Han Dynasty in 108 bc.
 
 There is some suggestion of unification or agglomeration of the guo among the Three Han through time. Lee J. W. (1982b) believes that (K.) Saro began to subjugate the other Chinhan "states" as early as the middle 1st century ad [see Silla section below]; while Lee K. B. writes (1984: 29), without giving specific evidence, that:
 
@@ -650,15 +679,15 @@ If the "divide and rule" policy followed by Lelang was successful, then perhaps 
 
 It is significant on a broader scale to note that there were so many polities documented for the relatively small area of the southern Korean peninsula. This situation mirrors the organization of the western Japanese islands at the same time, for which the *Sanguozhi* also refers to the existence of over a hundred *guo*. In the case of Japan, the Chinese also documented the grouping of these *guo* into a larger confederation under the hegemony of one particular *guo* called Yamatai (cf. Tsunoda & Goodrich 1951). Complex social development on the Korean peninsula was thus part of a larger regional process that also included the Japanese islands (Barnes 1986, 1988c).
 
-Much of the stimulus for such development has been seen in economic terms (Barnes 1992 [see <u>Chapter 3</u>, this volume]). The *Weizhi* specifies that the Samhan *guo* produced iron which was traded to Lelang and Japan, and archaeological work gives credence to these documentary claims. Ironworking sites of the 1st and 2nd centuries ad are known from excavations at Majang-ri<sup>24</sup> and Chungdo. And many shellmound sites yielding evidence of iron-working such as Kimhae (Hamada & Umehara 1923 [in Ref. List]) and Chodo (National Museum of Korea 1976 [in Ref. List]) dot the southeastern Korean coast around Pusan. On balance, importation of Chinese goods from the Chinese commanderies into the Samhan is apparent at the recent Choyang-dong and Taho-ri excavations [as mentioned above in the Lelang section].
+Much of the stimulus for such development has been seen in economic terms (Barnes 1992 [see Chapter 3, this volume]). The *Weizhi* specifies that the Samhan *guo* produced iron which was traded to Lelang and Japan, and archaeological work gives credence to these documentary claims. Ironworking sites of the 1st and 2nd centuries ad are known from excavations at Majang-ri24 and Chungdo. And many shellmound sites yielding evidence of iron-working such as Kimhae (Hamada & Umehara 1923 [in Ref. List]) and Chodo (National Museum of Korea 1976 [in Ref. List]) dot the southeastern Korean coast around Pusan. On balance, importation of Chinese goods from the Chinese commanderies into the Samhan is apparent at the recent Choyang-dong and Taho-ri excavations [as mentioned above in the Lelang section].
 
 The similarities of the names Samhan (Three Han), described in the Chinese sources, and the Samguk (Three Kingdoms), described in the Samguk Sagi and Samguk Yusa, caused Yi Dynasty scholars to equate the two developmentally, saying that the Three Kingdoms of Koguryŏ, Paekche and Silla emerged from the Samhan: Koguryŏ from Mahan, Paekche from Pyŏnhan, and Silla from Chinhan (Kim J. B. 1974: 5). These conclusions are now recognized to be totally erroneous, but there is a corresponding trend among present-day scholars to derive the early state societies of the southern peninsula from the Three Han – to wit: Paekche from Mahan, Silla from Chinhan, and the Kaya confederation from Pyŏnhan. This trend means that the Samhan data are often incorporated into the developmental sequences of the later state societies, being treated in a teleological sense as early manifestations of the state. Whether this is an appropriate approach is examined in the Discussion below.
 
 ## **Paekche**
 
-The state of Paekche occupied the southwestern portion of the peninsula until ad 660, when it was defeated by an alliance between its eastern neighbor, Silla and Tang China. Its first capital is commonly recognized as having been at (K.) Hansŏng, where Buddhism was allegedly received in 384. <sup>26</sup> Hansŏng, meaning "Han walled site", might refer to one among several walled sites known in the lower Han River basin near present-day Seoul (Barnes 1988d, 1991 see [Chapter 6, this volume]), but it is not clear which one. As Koguryŏ expanded in the 5th century, however, Paekche was forced to move its capital southwards \(Figure 1.6): to Ungjin (modern Kongju) in 474 and then in 538 to Sabi (modern Puyŏ – not to be confused with the name of the Manchurian polity/ethnic group). The 6th century marked Paekche's cultural and political florescence, with contacts to China and Central Asia. 27
+The state of Paekche occupied the southwestern portion of the peninsula until ad 660, when it was defeated by an alliance between its eastern neighbor, Silla and Tang China. Its first capital is commonly recognized as having been at (K.) Hansŏng, where Buddhism was allegedly received in 384. 26 Hansŏng, meaning "Han walled site", might refer to one among several walled sites known in the lower Han River basin near present-day Seoul (Barnes 1988d, 1991 see [Chapter 6, this volume]), but it is not clear which one. As Koguryŏ expanded in the 5th century, however, Paekche was forced to move its capital southwards \(Figure 1.6): to Ungjin (modern Kongju) in 474 and then in 538 to Sabi (modern Puyŏ – not to be confused with the name of the Manchurian polity/ethnic group). The 6th century marked Paekche's cultural and political florescence, with contacts to China and Central Asia. 27
 
-Lee C. W. (1978: 35) sees two schools of thought concerning the formation of Paekche: archaeologically-minded scholars date Paekche presence to the 1st century bc, based on settlement and iron-working remains in the Han River basin; but certain historians pinpoint the political reforms of King Koi (r. ad 234–85) as marking the establishment of the Paekche state proper. <sup>29</sup> A third opinion declares that the "structuring of Paekche into a centralized, aristocratic state appears to have been completed in the reign of King Kŭn (346–75)" (Lee K. B. 1984: 37). History records that at the end of King Kun's reign, a Chinese scholar introduced the Chinese writing system to Paekche on which a developing bureaucracy could be based (Inoue 1989: 33; Renondeau 1959).
+Lee C. W. (1978: 35) sees two schools of thought concerning the formation of Paekche: archaeologically-minded scholars date Paekche presence to the 1st century bc, based on settlement and iron-working remains in the Han River basin; but certain historians pinpoint the political reforms of King Koi (r. ad 234–85) as marking the establishment of the Paekche state proper. 29 A third opinion declares that the "structuring of Paekche into a centralized, aristocratic state appears to have been completed in the reign of King Kŭn (346–75)" (Lee K. B. 1984: 37). History records that at the end of King Kun's reign, a Chinese scholar introduced the Chinese writing system to Paekche on which a developing bureaucracy could be based (Inoue 1989: 33; Renondeau 1959).
 
 ![](_page_61_Picture_1.jpeg)
 
@@ -674,7 +703,7 @@ Nevertheless, if there was a Puyŏ migration via Okcho lands [as described above
 
 The name Piryu appears in various historical sources in association with at least three possibly distinct figures with different chronological implications. Firstly, Onjo and Piryu are portrayed as sons of the Koguryŏ founder Chumo (K. Chumong); Gardiner (1969c) has presented very convincing evidence that the Paekche founding date was fixed as early as it was merely to allow the linkage between these personages. Secondly, the eleventh king of Paekche is named King Piryu; Gardiner identifies this Piryu as probably the true founder of the Paekche state (1969a: 45). King Piryu is also known as the father of the first king of Paekche who is historically attested in the Chinese and Japanese chronicles; and he may be identical with the Piryu said (in only one source) to be a direct descendant of the royal family of Puyŏ. Gardiner (1969c) proposes that it may have been his name that was borrowed to create the traditional founding myth, and at the same time, that the reigns of his next two descendants were duplicated earlier in the imperial genealogy as fillers.
 
-In addition to the Puyŏ migration of 286, Ledyard suggests documentary evidence that there was a second, later Puyŏ migration which he believes was more instrumental in the establishment of the Paekche state. <sup>30</sup> He notes the fate of a King Hyŏn of Puyŏ who is stated in the Sanguozhi and Houhanshu to have been captured in Murong raids at an unspecified date, taken back to Murong territory in the southwestern Manchurian basin, invested with the title of General and given the chief's daughter in marriage. In 352 this former Puyŏ king, now a Murong general, was apparently sent to be a governor of an area in eastern Manchuria recently taken over by the Murong. It is after this date, in the 350s, that Ledyard postulates a southward movement of Puyŏ peoples from the General's territory into the Han River basin, where they would ostensibly have met the Puyŏ of the first migration via Okcho lands. Ledyard notes that the first appearance of the name Paekche is in the Chinese chronicles associated with the land held by the Murong west of the Liao River in Manchuria – not in the Han River basin – and so dovetails nicely with the story of the captured Puyŏ king.
+In addition to the Puyŏ migration of 286, Ledyard suggests documentary evidence that there was a second, later Puyŏ migration which he believes was more instrumental in the establishment of the Paekche state. 30 He notes the fate of a King Hyŏn of Puyŏ who is stated in the Sanguozhi and Houhanshu to have been captured in Murong raids at an unspecified date, taken back to Murong territory in the southwestern Manchurian basin, invested with the title of General and given the chief's daughter in marriage. In 352 this former Puyŏ king, now a Murong general, was apparently sent to be a governor of an area in eastern Manchuria recently taken over by the Murong. It is after this date, in the 350s, that Ledyard postulates a southward movement of Puyŏ peoples from the General's territory into the Han River basin, where they would ostensibly have met the Puyŏ of the first migration via Okcho lands. Ledyard notes that the first appearance of the name Paekche is in the Chinese chronicles associated with the land held by the Murong west of the Liao River in Manchuria – not in the Han River basin – and so dovetails nicely with the story of the captured Puyŏ king.
 
 That such a second migration could have occurred in the mid-4th century could have been due to the weakening of the Koguryŏ after the Murong attack on their Yalu capital in 341. Nevertheless, by 355, Koguryŏ is said to have made peace with the Murong; and in 369 it began its attacks on Paekche, finally causing Paekche to move its capital southwards out of the Han basin in 474 (Gardiner 1969a: 46, 71). That Paekche was able to do this without severe disruption was due to the fact that it had completed its conquest and incorporation of Mahan between 366–9, dates which are attested in the Japanese chronicles but which are given as ad 6–9 in the Samguk Sagi.
 
@@ -691,11 +720,11 @@ The northern affinities of the stepped stone tombs in the Han River basin fit in
 
 #### The mature Paekche state and material culture
 
-As with all Three Kingdoms polities, mounded tombs provide copious information on the material culture and status systems of the early state (Kim W. Y. 1961). King Muryŏng's 6th-century tomb was one of the few in Korea to have been discovered and excavated intact.<sup>31</sup> The Paekche capitals have been mapped out in art historical and urban studies.<sup>32</sup> Buddhism in Paekche (Lancaster & Yu 1989) is a well-researched topic, particularly from the art historical point of view. Temples and stone Buddha sculptures have received considerable attention,<sup>33</sup> ceramics and metalwork somewhat less.<sup>34</sup> Finally, the relationship between Paekche and the Yamato state (in the Japanese islands) has engendered much, often controversial, research. These studies concentrate on two areas: 1) political relations including the 4th-century Yamato-Paekche alliance and the 5th-century "horsender theory" proposing the Paekche conquest of Yamato;<sup>35</sup> and 2) the transmission of Buddhism from Paekche to Yamato and the Paekche contribution to Buddhist material culture in Japan.<sup>36</sup>
+As with all Three Kingdoms polities, mounded tombs provide copious information on the material culture and status systems of the early state (Kim W. Y. 1961). King Muryŏng's 6th-century tomb was one of the few in Korea to have been discovered and excavated intact.31 The Paekche capitals have been mapped out in art historical and urban studies.32 Buddhism in Paekche (Lancaster & Yu 1989) is a well-researched topic, particularly from the art historical point of view. Temples and stone Buddha sculptures have received considerable attention,33 ceramics and metalwork somewhat less.34 Finally, the relationship between Paekche and the Yamato state (in the Japanese islands) has engendered much, often controversial, research. These studies concentrate on two areas: 1) political relations including the 4th-century Yamato-Paekche alliance and the 5th-century "horsender theory" proposing the Paekche conquest of Yamato;35 and 2) the transmission of Buddhism from Paekche to Yamato and the Paekche contribution to Buddhist material culture in Japan.36
 
 #### **Kaya**
 
-Kaya is the collective name for a federation (*nyŏnbang* or *nyŏnmaengcbe*) (Grayson 1976; Kim T. S. 1987 [in Ref. List]) of small states or a "six-tribal union"<sup>37</sup> in the Naktong River basin of the southeastern peninsula (Figure 1.7). Contemporaneous with the other three great Korean kingdoms of Koguryŏ, Silla and Paekche, Kaya is believed not to have consolidated itself into one great state before it was overtaken in ad 532 by Silla. Six small "states" comprised the federation, for which a founding date of 42 ad is usually given; these were: (K.) Kŭmkwan-Kaya (or Pon-Kaya); Tae-Kaya;
+Kaya is the collective name for a federation (*nyŏnbang* or *nyŏnmaengcbe*) (Grayson 1976; Kim T. S. 1987 [in Ref. List]) of small states or a "six-tribal union"37 in the Naktong River basin of the southeastern peninsula (Figure 1.7). Contemporaneous with the other three great Korean kingdoms of Koguryŏ, Silla and Paekche, Kaya is believed not to have consolidated itself into one great state before it was overtaken in ad 532 by Silla. Six small "states" comprised the federation, for which a founding date of 42 ad is usually given; these were: (K.) Kŭmkwan-Kaya (or Pon-Kaya); Tae-Kaya;
 
 So-Kaya; Sŏngsan-Kaya; and Konyong-Kaya. Of these Pon-Kaya (Main Kaya) in the lower Naktong basin and Tae-Kaya (Great Kaya) in the middle Naktong basin are identified as the most powerful by modern scholars (Sohn et al. 1970: 41; Han W. K. 1970: 34).
 
@@ -743,17 +772,17 @@ Stage three was marked by the emergence of the Saro state and its ascendance to 
 
 Lee's proposed five-stage scheme of development derives its chronology from the entries in the Korean histories, the Samguk Sagi and Samguk Yusa, leaning especially heavily on the the idea of immigrants from the Han conquest of Chosŏn in 108 bc. His scheme ends just before the advent of the mounded tomb culture in the Kyŏngju Basin (4th century ad). This telescopic chronology, however, is not necessarily warranted by the data, especially since another source of immigrants, if needed, can be found in the fall of Lelang to Koguryŏ in ad 313. Silla tombs and elite material culture are known to have slight Koguryŏ affiliations – although founding myths are not shared between these two polities as between Koguryŏ and Paekche – so there may have been some transfer of communication, people or organizational principles as well as craft technology from the late 4th century onwards. Silla mounded tomb culture is the latest to have developed on the peninsula, dated by some as beginning in the early 5th century (cf. Pearson 1985); thus the archaeological evidence for social stratification postdates Lee's postulated emergence of Saro by a full five centuries (Pearson et al. 1989). Archaeologically, Silla cannot be distinguished from Kaya in its early stages of development see [Chapter 8, this volume].
 
-In the middle of the 5th century, occult Buddhism was first introduced to Silla by four monkish missionaries, but the cult was resisted by the aristocracy. <sup>39</sup> The beginning of the 6th century, however, saw many reforms along Chinese lines, with Silla adopted as the official name of the country, the Chinese title of wang (king) introducted, and the reign-year system adopted. By mid-century, a new capital near the old walled capital site began to be laid out following the Chinese gid-city pattern, modeled on Chang'an (Kim C. W. 1966: 5; Barnes 1988d, 1991 [see <u>Chapter 6</u>, this volume]). Perhaps these changes helped breakdown the resistence to foreign influences since in 527, King Pŏphŭng officially instituted Buddhism as the state religion (Kim J. M. 1992; Mc Clung 1978; Rhi K. Y. 1989); Lee K. B. (1989) recalculates the official date as 535. From this time onwards, Silla pursued expansionist policies, gradually absorbing the Kaya polities (Pon-Kaya in 532 and Tae-Kaya in 562) and occupying the Han River basin in the mid-6th century (Figure 1.8). Conversely, in the late 6th and early 7th centuries, it suffered hostile intentions from Paekche and Yamato in the Japanese archipelago (Wong 1980). Finally, an alliance with Tang China enabled Silla to conquer Paekche in 660 and Koguryŏ in 668 (cf. Jamieson 1969, 1970), finally unifying the Korean peninsula below the Taedong River into one state, United Silla, 40 which lasted until 935.
+In the middle of the 5th century, occult Buddhism was first introduced to Silla by four monkish missionaries, but the cult was resisted by the aristocracy. 39 The beginning of the 6th century, however, saw many reforms along Chinese lines, with Silla adopted as the official name of the country, the Chinese title of wang (king) introducted, and the reign-year system adopted. By mid-century, a new capital near the old walled capital site began to be laid out following the Chinese gid-city pattern, modeled on Chang'an (Kim C. W. 1966: 5; Barnes 1988d, 1991 [see Chapter 6, this volume]). Perhaps these changes helped breakdown the resistence to foreign influences since in 527, King Pŏphŭng officially instituted Buddhism as the state religion (Kim J. M. 1992; Mc Clung 1978; Rhi K. Y. 1989); Lee K. B. (1989) recalculates the official date as 535. From this time onwards, Silla pursued expansionist policies, gradually absorbing the Kaya polities (Pon-Kaya in 532 and Tae-Kaya in 562) and occupying the Han River basin in the mid-6th century (Figure 1.8). Conversely, in the late 6th and early 7th centuries, it suffered hostile intentions from Paekche and Yamato in the Japanese archipelago (Wong 1980). Finally, an alliance with Tang China enabled Silla to conquer Paekche in 660 and Koguryŏ in 668 (cf. Jamieson 1969, 1970), finally unifying the Korean peninsula below the Taedong River into one state, United Silla, 40 which lasted until 935.
 
 ![](_page_75_Figure_0.jpeg)
 
 **Figure 1.8** Expansion of Silla from its capital at Kŭmsŏng, 6th and 7th centuries ad (after Sohn et al. 1970)
 
-Much of the early historical research on Silla has concerned royal genealogies (cf. Kim T. J. 1983), and kingly matters continue to be of interest to scholars (Li O. 1986; Rodgers 1960; Grayson 1976). An important exercise in redating some of the events in Silla history has brought the relationships between Silla and Paekche especially into focus (Best 1996); the chronological chart in Appendix 1A incorporates Best's redatings. And new inscriptional material has been discovered (Sasse 1991). Detailed work on organizational aspects of mature Silla society and politics have been undertaken by numerous scholars. <sup>41</sup> New areas of research are gender studies and the use of archaeological materials to reconstruct status hierarchies (Nelson 1991, 1993; Pearson et al. 1989).
+Much of the early historical research on Silla has concerned royal genealogies (cf. Kim T. J. 1983), and kingly matters continue to be of interest to scholars (Li O. 1986; Rodgers 1960; Grayson 1976). An important exercise in redating some of the events in Silla history has brought the relationships between Silla and Paekche especially into focus (Best 1996); the chronological chart in Appendix 1A incorporates Best's redatings. And new inscriptional material has been discovered (Sasse 1991). Detailed work on organizational aspects of mature Silla society and politics have been undertaken by numerous scholars. 41 New areas of research are gender studies and the use of archaeological materials to reconstruct status hierarchies (Nelson 1991, 1993; Pearson et al. 1989).
 
-The material remains of the Old Silla (of the Three Kingdoms, 300–668) and United Silla (668–935) periods in Kyŏngju are especially well represented in the literature. <sup>42</sup> Particularly popular subjects have been the ancient observatory and Silla astronomy <sup>43</sup> and Buddhist relics and monuments. <sup>44</sup> Silla pottery has also attracted much art historical attention.<sup>45</sup> Of course, the spectacular tombs of Silla have also been rather extensively presented, <sup>46</sup> and the Kyŏngju capital area itself is the subject of many discussions and guidebooks, often beautifully photographed (Adams 1979, 1991; Ban Y. H. 1995; Kim C. 1966).
+The material remains of the Old Silla (of the Three Kingdoms, 300–668) and United Silla (668–935) periods in Kyŏngju are especially well represented in the literature. 42 Particularly popular subjects have been the ancient observatory and Silla astronomy 43 and Buddhist relics and monuments. 44 Silla pottery has also attracted much art historical attention.45 Of course, the spectacular tombs of Silla have also been rather extensively presented, 46 and the Kyŏngju capital area itself is the subject of many discussions and guidebooks, often beautifully photographed (Adams 1979, 1991; Ban Y. H. 1995; Kim C. 1966).
 
-The United Silla period came to an end in the early 10th century (Unruh 1975) with the establishment of the Koryŏ Dynasty (935–1392). However, the northern part of the peninsula, which had belonged to Koguryŏ before unification by Silla, was not incorporated into Koryŏ at this time but became the separate state of Parhae (Figure 1.9) which consisted of a ruling class of Koguryŏ refugee aristocrats and commoners of Malgal extraction.<sup>47</sup>
+The United Silla period came to an end in the early 10th century (Unruh 1975) with the establishment of the Koryŏ Dynasty (935–1392). However, the northern part of the peninsula, which had belonged to Koguryŏ before unification by Silla, was not incorporated into Koryŏ at this time but became the separate state of Parhae (Figure 1.9) which consisted of a ruling class of Koguryŏ refugee aristocrats and commoners of Malgal extraction.47
 
 ## **Discussion**
 
@@ -994,7 +1023,8 @@ General references in English and Asian language works are listed below, indicat
 | 554-98 | Reign of Paekche King Widŏk |
 | 554 | Paekche invades Silla through Tae-Kaya; Yamato's Nihon Shoki records hostilitic |
 | 553 | Paekche sends concubine to Silla king [derived from 493 entry?] |
-| 553 | Silla captures Han river & Tanghang fort; initiates communication<br>with China |
+| 553 | Silla captures Han river & Tanghang fort; initiates communication
+with China |
 | ca550 | Paekche invades Silla territory |
 | ca550 | Koguryŏ attacks Paekche; Silla captures Koguryŏ fortress |
 | 550-77 | Northern Qi Dynasty |
@@ -1089,7 +1119,8 @@ General references in English and Asian language works are listed below, indicat
 | | 400 | Koguryŏ attack Wa in Silla and Kaya |
 | | 399 | Silla envoy to Koguryŏ bemoaning Wa attacks |
 | | 398-445 | Compilation of Houhanshu |
-| | 397 | Paekche sends Crown Prince as hostage to Yamato court<br>to secure ally against Koguryŏ |
+| | 397 | Paekche sends Crown Prince as hostage to Yamato court
+to secure ally against Koguryŏ |
 | | 393 | Yamato attacks Silla capital |
 | | 392-405 | Reign of Paekche King Asin (Ahwa) |
 | | 392 | Koguryŏ embassy to Silla; Silla prince sends hostage to Kwanggaet'o's court |
@@ -1238,17 +1269,153 @@ The references in this list are reviewed in Chapter 1, and any letter designatio
 - —— 1986. Jiehao, tonghao: peer relations in East Asia. In A. C. Renfrew & J. Cherry Peer Polity Interaction. Cambidge University Press, 79–92.
 - —— 1988a. Japanese-like remains in Korea: what do they signify? Paper presented at 53rd meeting of the Society for American Archaeology, Phoenix, Arizona.
 
-| ——<br>1988b. Koguryŏ:<br>subsistence<br>of<br>an early Korean society. Association<br>for Korean Studies in Europe Newsletter 11: 4. |
+| ——
+1988b. Koguryŏ:
+subsistence
+of
+an early Korean society. Association
+for Korean Studies in Europe Newsletter 11: 4. |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ——<br>1988c. Protohistoηc<br>Yamato:<br>archaeology<br>of<br>the<br>first<br>Japanese<br>state.<br>Ann<br>Arbor:<br>Center<br>for<br>Japanese<br>Studies<br>and Museum<br>of<br>Anthropology,<br>University of Michigan. |
-| ——<br>1988d. Walled<br>sites<br>in<br>Three<br>Kingdoms settlement<br>patterns. Papers<br>of<br>Sŏngnam:<br>Academy<br>the<br>5th<br>International<br>Conference<br>on Korean Studies.<br>Studies, 436–54. [revised and included in Chapter<br>of<br>Korean<br>6<br>of<br>this<br>volume] |
-| ——<br>1989. Mahan, Paekche<br>and state<br>formation on the<br>Korean Peninsula. In<br>Anon.<br>(ed.)<br>Iri:<br>Wongwang<br>Mahan<br>Munhwa<br>Yŏngu<br>ui<br>chemunje.<br>University, 69–89. [Revised<br>and<br>included as<br>Paekche<br>section in Chapter<br>1, this volume] |
-| ——<br>1991. Korean<br>capital<br>cities. University<br>of<br>Sheffi<br>eld, School<br>of<br>East<br>8–24. [revised<br>1:<br>and<br>included in<br>Asian<br>Studies, Occasional<br>Papers<br>Chapter 6 of this volume] |
-| ——<br>1992. The<br>development<br>of<br>stoneware<br>technology in<br>southern Korea. In<br>C. M. Aikens<br>&<br>S. N. Rhee<br>(eds.)<br>Pacific<br>Northeast<br>Asia<br>in<br>Prehistory.<br>Press, 197–208. [reproduced<br>Pullman, WA:<br>Washington<br>State<br>University<br>in this volume as<br>Chapter 3] |
-| ——<br>1994. Discoveries<br>of<br>iron<br>armour<br>on the<br>Korean peninsula. British<br>105–30. [reproduced<br>Association<br>for<br>Korean<br>Studies, Papers<br>5:<br>in<br>this<br>volume as<br>Chapter 5] |
+| ——
+1988c. Protohistoηc
+Yamato:
+archaeology
+of
+the
+first
+Japanese
+state.
+Ann
+Arbor:
+Center
+for
+Japanese
+Studies
+and Museum
+of
+Anthropology,
+University of Michigan. |
+| ——
+1988d. Walled
+sites
+in
+Three
+Kingdoms settlement
+patterns. Papers
+of
+Sŏngnam:
+Academy
+the
+5th
+International
+Conference
+on Korean Studies.
+Studies, 436–54. [revised and included in Chapter
+of
+Korean
+6
+of
+this
+volume] |
+| ——
+1989. Mahan, Paekche
+and state
+formation on the
+Korean Peninsula. In
+Anon.
+(ed.)
+Iri:
+Wongwang
+Mahan
+Munhwa
+Yŏngu
+ui
+chemunje.
+University, 69–89. [Revised
+and
+included as
+Paekche
+section in Chapter
+1, this volume] |
+| ——
+1991. Korean
+capital
+cities. University
+of
+Sheffi
+eld, School
+of
+East
+8–24. [revised
+1:
+and
+included in
+Asian
+Studies, Occasional
+Papers
+Chapter 6 of this volume] |
+| ——
+1992. The
+development
+of
+stoneware
+technology in
+southern Korea. In
+C. M. Aikens
+&
+S. N. Rhee
+(eds.)
+Pacific
+Northeast
+Asia
+in
+Prehistory.
+Press, 197–208. [reproduced
+Pullman, WA:
+Washington
+State
+University
+in this volume as
+Chapter 3] |
+| ——
+1994. Discoveries
+of
+iron
+armour
+on the
+Korean peninsula. British
+105–30. [reproduced
+Association
+for
+Korean
+Studies, Papers
+5:
+in
+this
+volume as
+Chapter 5] |
 | Best, J. W. |
-| ——<br>1979. Research<br>notes:<br>notes<br>and questions concerning the<br>Samguk<br>Sagi's<br>Paekche's<br>kings Chŏngji, Kuisin, and Puju. Korean<br>chronology<br>of<br>Studies 3: 125–34. |
-| ——<br>1980. The<br>Sosan<br>triad:<br>an early Korean Buddhist<br>relief<br>sculpture<br>from<br>Paekche. Archives of Asian Art 33: 89–108 |
+| ——
+1979. Research
+notes:
+notes
+and questions concerning the
+Samguk
+Sagi's
+Paekche's
+kings Chŏngji, Kuisin, and Puju. Korean
+chronology
+of
+Studies 3: 125–34. |
+| ——
+1980. The
+Sosan
+triad:
+an early Korean Buddhist
+relief
+sculpture
+from
+Paekche. Archives of Asian Art 33: 89–108 |
 
 —— 1982. Diplomatic and cultural contacts between Paekche and China.
 
@@ -1689,7 +1856,7 @@ If we allow for the development of intra-regional differentiation in terms of re
 
 One such problem is an apparent absence, as Kim notes, of "tombs of the ruling class, either in structure or contents" in Iron Age II; the "small stone-lined pit-tombs that replaced dolmens of the preceding period as the main burial system are furnished very poorly" (Kim W. Y. 1977b: 13). Such poorly furnished burials are represented by the Oryundae and Yean-ri excavations near Pusan (Archaeology in Korea 1, 4; Kim J. R. 1977). The latter cemetery was located on the alluvial flats within an area of shell deposits. Many stone-lined graves, cists and jar burials were discovered, with skeletal remains preserved by the high calcium content of the soil. Little other than rough Kimhae pottery accompanied them.
 
-Since Kim's 1977 comments, however, new pit-burials without stone chamber facilities but with relatively rich goods have been discovered at Choyang-dong in Kyŏngju (Korea Newsreview <sup>2</sup> Jan 1982: 22). This burial(s) [the number was unclear] consisted of earthen pits containing: iron weapons and tools, iron shields similar to those from Japan, Early Han Dynasty mirrors, a lacquered knife sheath and bronzes (dated to ad 100). This kind of pit-burial has been hailed as the representative tomb construction of the early centuries ad.
+Since Kim's 1977 comments, however, new pit-burials without stone chamber facilities but with relatively rich goods have been discovered at Choyang-dong in Kyŏngju (Korea Newsreview 2 Jan 1982: 22). This burial(s) [the number was unclear] consisted of earthen pits containing: iron weapons and tools, iron shields similar to those from Japan, Early Han Dynasty mirrors, a lacquered knife sheath and bronzes (dated to ad 100). This kind of pit-burial has been hailed as the representative tomb construction of the early centuries ad.
 
 Gradually, an evolutionary scheme of dolmen> stone-lined graves> pitburials> stone-lined chamber tombs> wooden double chamber tombs is being constructed for the southern Korea coast. However, it will be noted that not all pit-burials are richly furnished and represent higher-status deceased; earthen pit-burials with no grave goods have recently been excavated again at Yean-ri (Archaeology in Korea 8). Moreover, there seem to be certain continuities between the early dolmens and stone-lined graves with the later stone-chamber tombs, so that perhaps the pit-burials and the exotic Han Dynasty grave goods represent an evolutionary sideline that never fully developed.
 
@@ -1816,15 +1983,29 @@ Table 3.1 Differential dating schemes for Kimhae, Wajil and Three Kingdoms ceram
 
 | | | | Traditional scheme | | Kim Wön-yöng | Ch'oe Chong-kyu 1983 | | | | | | | | | |
 |------------|------------------|----------------|--------------------|------------------|-------------------------------------|--------------------------------------|--------|---------------|--|--|--|------------------|------------------------|-----------------------------|---------------------------------|
-| 600 | s | | | doms | | Phase III<br>United Shilla Stoneware | | | | | | | | | |
-| 500<br>400 | Three Kingdoms | | | | | | | | | | | Shilla, Paekche, | Initial Three Kingdoms | Three Kingdoms<br>Stoneware | Phase II<br>Regional Stonewares |
-| 350 | Three | | Kaya Stonewares | Stonewares | | Phase I<br>Old Stoneware, | | | | | | | | | |
-| 300 | | | | Ē | Puwöndong<br>Transitional | 3 Kingdoms Wajil | | | | | | | | | |
-| 250 | | | | | Loc A I-III<br>(Kimhae + stoneware) | New Wajil,<br>Plain Pottery | | | | | | | | | |
+| 600 | s | | | doms | | Phase III
+United Shilla Stoneware | | | | | | | | | |
+| 500
+400 | Three Kingdoms | | | | | | | | | | | Shilla, Paekche, | Initial Three Kingdoms | Three Kingdoms
+Stoneware | Phase II
+Regional Stonewares |
+| 350 | Three | | Kaya Stonewares | Stonewares | | Phase I
+Old Stoneware, | | | | | | | | | |
+| 300 | | | | Ē | Puwöndong
+Transitional | 3 Kingdoms Wajil | | | | | | | | | |
+| 250 | | | | | Loc A I-III
+(Kimhae + stoneware) | New Wajil,
+Plain Pottery | | | | | | | | | |
 | 200 | doms | 8 | 96 | | | K - late | Kimhae | Plant Pottery | | | | | | | |
-| 100 | Proto-3 Kingdoms | Late Iron Age | Kimhae | early - Proto-3K | Puwŏndong<br>Loc A IV-V<br>Loc B, C | Old Wajil,<br>Plain Pottery | | | | | | | | | |
+| 100 | Proto-3 Kingdoms | Late Iron Age | Kimhae | early - Proto-3K | Puwŏndong
+Loc A IV-V
+Loc B, C | Old Wajil,
+Plain Pottery | | | | | | | | | |
 | A. D.0 | | | | | | | | | | | | | | | |
-| | Late Bronze Age | Early Iron Age | Plain<br>Pottery | | Plain<br>Pottery | Plain<br>Pottery | | | | | | | | | |
+| | Late Bronze Age | Early Iron Age | Plain
+Pottery | | Plain
+Pottery | Plain
+Pottery | | | | | | | | | |
 
 Both Traditionalists and Revisionists view 300 ad as a watershed in ceramic development on the peninsula, but they do so for different reasons. Kim's emphasis on the Puwŏn-dong phase as transitional – between Kimhae and Three Kingdoms stoneware – refers only to the shape repertoire since he believes stoneware technology was common to both. Shin, on the other hand, postulates the introduction of stoneware technology itself at this time with accompanying changes in shape. In either case, it is necessary to enquire where the new shape repertoire came from. At least for the southeastern coast, it does not seem to be an indigenous transformation for the following reasons:
 
@@ -1848,7 +2029,7 @@ Recent ceramic research, however, has demonstrated that even this old-fashioned 
 
 As earthenware clays are heated, the iron in the clay begins to act as a flux and contributes to the hardening and strengthening of the body. However, when the temperature reaches a threshold of 1100°C, the iron has the reverse effect on the clay body and begins to melt it. Thus, because of their chemical composition containing a lot of iron, most earthenware clays cannot be fired above 1100°C without melting, although fairly hard ceramic bodies can be produced up to that temperature. Earthenwares made of earthenware clays come in a continuum of hardness, from very soft to a hardness that rivals stoneware.
 
-Stoneware clays do not melt but undergo a chemical transformation when fired above 1000°C. This transformation used to be referred to as "vitrification" or the formation of glassy phase within the ceramic body. According to the Brussels Nomenclature (Fournier 1973), stoneware was defined as exhibiting vitrification resulting in a porosity of less than 5 per cent. With new research on ceramic body microstructure, it is now recognized that vitrification *per se* is not the crucial transformation but that the critical event is actual formation of a new mineral called mullite within the clay body (Kingery & Vandiver 1986: 229). Mullite crystals begin to grow when the temperature exceeds 1000°C, their chemical composition consisting of silicate and aluminum oxides (3A1<sup>2</sup>O<sub>3</sub> + 2SiO<sub>2</sub>) (Fournier 1973: 156). It is obvious that in order for mullite to form, aluminum and silica must be present in the clay body, and this is what distinguishes stoneware clays from earthenware clays.
+Stoneware clays do not melt but undergo a chemical transformation when fired above 1000°C. This transformation used to be referred to as "vitrification" or the formation of glassy phase within the ceramic body. According to the Brussels Nomenclature (Fournier 1973), stoneware was defined as exhibiting vitrification resulting in a porosity of less than 5 per cent. With new research on ceramic body microstructure, it is now recognized that vitrification *per se* is not the crucial transformation but that the critical event is actual formation of a new mineral called mullite within the clay body (Kingery & Vandiver 1986: 229). Mullite crystals begin to grow when the temperature exceeds 1000°C, their chemical composition consisting of silicate and aluminum oxides (3A12O3 + 2SiO2) (Fournier 1973: 156). It is obvious that in order for mullite to form, aluminum and silica must be present in the clay body, and this is what distinguishes stoneware clays from earthenware clays.
 
 Table 3.2 Wares resulting from different clays fired at high and low temperatures
 
@@ -1915,7 +2096,7 @@ A. Taegok-ri kiln near Kwangju, Chŏlla-namdo, ca. late 3rd century ad; horizont
 
 B. Sansu-ri #8 kiln, Chinch'on, Ch'ungch'ŏng-bukdo, ca. 4th century ad; horizontal plan (upper) and vertical cross-section (lower) (after Ch'oe B. H. 1988)
 
-Artifacts from the kiln include greyish white earthenware with lattice and cord-paddled surfaces – that is, typical Wajil pottery – as well as reddish earthenware. Of interest are a ceramic anvil for holding inside the pot during paddling, a pottery spindle whorl, and a horn-shaped pot handle. Many pottery sherds were also found in an area 7–8m<sup>2</sup> to the south of the kiln. The pottery types from within the kiln match those from Phase III houses (ad 1– 300) on the later end, especially house no. 56, and are therefore Proto-Three Kingdoms in date.
+Artifacts from the kiln include greyish white earthenware with lattice and cord-paddled surfaces – that is, typical Wajil pottery – as well as reddish earthenware. Of interest are a ceramic anvil for holding inside the pot during paddling, a pottery spindle whorl, and a horn-shaped pot handle. Many pottery sherds were also found in an area 7–8m2 to the south of the kiln. The pottery types from within the kiln match those from Phase III houses (ad 1– 300) on the later end, especially house no. 56, and are therefore Proto-Three Kingdoms in date.
 
 The excavator states that he sees more similarities between this kiln and what he calls the "round" kiln of the Chinese Warring States and Qin period (Choi, Kwŏn & Kim 1988: 17, 24) than between it and later sloped kilns. The reasons for this evaluation are unstated, but they might have something to do with the "waisted" character of the Warring States cross-draught kiln shown in this figure. They comment that the Taegok-ri kiln was used only to produce earthenware, which was all that was found in the kiln chamber and most of the house-pits (Choi, Kwŏn & Kim 1988: 25). However, among the eight sherds from the kiln they submitted for mineralogical analysis, one was determined to have been fired at 975°C and two others are noted as containing mullite (Choi, Lee & Yun 1988: 47, 149–50).
 
@@ -1929,7 +2110,10 @@ On a hillside now terraced with paddy fields in the southwestern peninsula, elev
 
 Table 3.3 Dimensions of excavated kilns in southern Korea
 
-| Site | Kiln No. | Total $W \times L(m)$ | Floor<br>Slope | Firebox W×L(m) | Step Ht(m) | Chamber<br>Lgth(m) | Struc. | Wares<br>Type |
+| Site | Kiln No. | Total $W \times L(m)$ | Floor
+Slope | Firebox W×L(m) | Step Ht(m) | Chamber
+Lgth(m) | Struc. | Wares
+Type |
 |-------------|----------|-----------------------|----------------|-------------------|-------------|--------------------|--------|---------------|
 | Samnyong-ri | 1 | 3.3×7.7 | 11.1° | 0.75 × 2.15 | 0.67 | 5.2 | - | YWK |
 | | 2 | $3.0 \times 6.4$ | 17° | $1.6 \times 2.07$ | 0.23 | 3.7 | - | K |
@@ -1989,7 +2173,7 @@ This paper has benefited greatly from personal discussions with Shin Kyung Cheol
 #### References
 
 - Barnes, G. L. (1978) "The Yamato state: steps toward a developmental understanding." *IFF A Bulletin* 1: 103–28.
-- —— (1978) (1990) "Early Korean states: a review of historical interpretation." In G. L. Barnes (ed.) *Bibliographic Reviews of Far Eastern Archaeology*, 113–62. Oxford: Oxbow Books. [see <u>Chapter 1</u>, this volume]
+- —— (1978) (1990) "Early Korean states: a review of historical interpretation." In G. L. Barnes (ed.) *Bibliographic Reviews of Far Eastern Archaeology*, 113–62. Oxford: Oxbow Books. [see Chapter 1, this volume]
 - Chang, K. C. (ed.) (1986) *Studies of Shang Archaeology*. Yale University Press.
 - Ch'oe, B. H. (Byŏng-hyŏn) (1988) "Paekche pottery kiln remains in the Chinch'on region, Chungbuk." In Choi, M. L. & Ch'oe, B. H. (eds.) *Research on Kilns of the Paekche Period*, 33–95. n.p. (in Korean)
 - Ch'oe, C. G. (Chŏng-gyu) (1982a) "The eve of stoneware emergence and its development." *Han'guk Kogohakbo* 12: 213–43. (in Korean)
@@ -2051,81 +2235,24 @@ Polished sections through the bodies were examined in a SEM in order to assess t
 
 #### **Results and discussion**
 
-Analytical data for the Korean sherds $[SiO_2 - Al_2O3$ -fluxes (i.e. $\Sigma$ Na<sub>2</sub>, K<sub>2</sub>O, MgO, CaO, Tio<sub>2</sub>, Fe<sub>2</sub>O<sub>3</sub>)] are presented in Table 4.1. From comparison with published data for Chinese stonewares/porcelains (Li & Zhang 1985; Li & Gao 1986) and European stonewares (Tite 1990), it is seen that the majority of the Korean sherds contain higher concentrations of fluxes (10–17 per cent as compared to 5–10 per cent for the Chinese and European ceramics), the exception being sherd no. 28 with a flux content of less than 9 per cent. Therefore, the clays used for the Korean pottery are less refractory than those normally used for stonewares and porcelains. Instead, the observed range of flux contents overlaps, but it is at the lower end of that associated with earthenware and brick clays (typically flux contents greater than 15 per cent). Within the composition range observed for the Korean ceramics, there are no systematic differences between those ceramics classified as earthenwares and those classified as stonewares.
+Analytical data for the Korean sherds $[SiO_2 - Al_2O3$ -fluxes (i.e. $\Sigma$ Na2, K2O, MgO, CaO, Tio2, Fe2O3)] are presented in Table 4.1. From comparison with published data for Chinese stonewares/porcelains (Li & Zhang 1985; Li & Gao 1986) and European stonewares (Tite 1990), it is seen that the majority of the Korean sherds contain higher concentrations of fluxes (10–17 per cent as compared to 5–10 per cent for the Chinese and European ceramics), the exception being sherd no. 28 with a flux content of less than 9 per cent. Therefore, the clays used for the Korean pottery are less refractory than those normally used for stonewares and porcelains. Instead, the observed range of flux contents overlaps, but it is at the lower end of that associated with earthenware and brick clays (typically flux contents greater than 15 per cent). Within the composition range observed for the Korean ceramics, there are no systematic differences between those ceramics classified as earthenwares and those classified as stonewares.
 
 At low firing temperatures, prior to the onset of vitrification, the bodies as observed in the SEM consist of quartz and feldspar particles set in a very fine textured, somewhat impenetrable amorphous matrix (Figure 4.1: NV, no vitrification). At higher firing temperatures, as vitrification begins, the matrix reacts and breaks up to form a fine network of relict-clay glass phases interconnecting the quartz and feldspar particles (Figure 4.2: V, initial vitrification). Subsequently, the areas of inter-connecting glass increase in extent so that the network becomes coarser (Figure 4.3: V+, extensive vitrification). Finally, a more or less continuous glass matrix containing unreacted quartz and medium bloating pores (10–40μm diameter) develops (Figure 4.4: CV [MB], continuous vitrification with medium bloating). Also, depending on the chemical composition and mineralogy of the clay, the crystalline phase, mullite, begins to form, typically at temperatures in excess of about 1100°C.
 
 Table 4.1 Analytical results of mullite and vitrification in Korean sherds
 
-| Sherd number-<br>site | Pottery type | Century<br>AD | SiO <sub>2</sub><br>% b | Al <sub>2</sub> O₃<br>% <sup>b</sup> | Fluxes <sup>a</sup> | Vitrification<br>Stage <sup>c</sup> | Firing<br>Temp. °C | Mullite <sup>d</sup> –<br>ASR <sup>e</sup> | Mullite -<br>r1150 <sup>e</sup> |
+| Sherd numbersite | Pottery type | Century
+AD | SiO 2
+% b | Al 2 O₃
+% b | Fluxes a | Vitrification
+Stage c | Firing
+Temp. °C | Mullite d –
+ASR e | Mullite -
+r1150 e |
 |-----------------------|------------------|---------------|-------------------------|--------------------------------------|---------------------|-------------------------------------|--------------------|--------------------------------------------|---------------------------------|
 | 2-Hach'on | Wajil | 1 | 59.3 | 24.3 | 16.4 | NV+ | 900–950 | | |
 | 1-Hach'on | hard Mumun | 1 | 59.9 | 23.9 | 16.2 | NV+ | 900-950 | | |
-| 4-Nŭngdo-dong | hard Mumun | 1 | 69.4 | 18.3 | 12.3 | NV | < 900 | nd | М |
-| 10-Nae-dong | Wajil | 1-3 | 61.3 | 21.7 | 17.0 | NV | < 900 | | |
-| 11-Nae-dong | Wajil-type | 1-3 | 66.5 | 22.1 | 11.4 | V/V+ | 1000-1100 | | |
-| 7-Hadae-ri | Wajil | 3 | 66.5 | 21.4 | 12.1 | ٧ | 950-1000 | | |
-| 17-Nop'o-dong | Wajil | 3 | 65.5 | 20.5 | 14.0 | V+ | 1050-1150 | nd | М |
-| 15-Taho-ri | stoneware | 3 | 60.7 | 24.0 | 15.3 | V/V+ | 1000-1100 | | |
-| 22-Chop'o-ri | Wajil | 4 | 57.4 | 26.6 | 16.0 | NV | < 900 | | М |
-| 19-Yean-ri | Wajil-type | 4 | 67.1 | 22.1 | 10.8 | V | 950-1000 | nd | М |
-| 26-Togye-dong | stoneware (grey) | 4 | 66.2 | 22.1 | 11.7 | V/V+ | 1000-1100 | nd | М |
-| 28-Togye-dong | stoneware (grey) | 5 | 74.1 | 17.3 | 8.6 | V | 950-1000 | М | М |
-| 30-Yean-ri | stoneware (grey) | 6 | 62.5 | 22.9 | 14.6 | CV (MB) | 1150-1200 | M+ | |
-| 31-Yean-ri | earthenware | 6 | 65.3 | 21.5 | 13.2 | NV | < 900 | | М |
-
-![](_page_180_Picture_0.jpeg)
-
-**Figure 4.1** SEM photomicrograph of sherd no. 10 (Wajil pottery from Nae-dong) showing quartz and feldspar particle in very fine textured matrix associated with no vitrification stage (NV).
-
-![](_page_180_Picture_2.jpeg)
-
-**Figure 4.2** SEM photomicrograph of sherd no. 7 (Wajil pottery from Hadae-ri) showing quartz and feldspar particles in a fine network of relict-clay/glass phases associated with initial vitrification stage (V)
-
-On the basis of the microstructures observed in sherd fragments refired at known temperatures in the laboratory, it was established that the various stages in the development of vitrification were reached at more-or-less the same firing temperatures for all the sherds under investigation: that is, 950–1000°C for V, 1000–1100°C for V/V+, 1050–1150°C for V+ and 1150–1200°C for (CV[MB]). Similarly, mullite was observed in all the sherds analyzed by x-ray diffraction after refiring to 1150°C. Hence, the firing or refractory properties of the clays used to produce both the Korean earthenwares and stonewares were similar throughout the period under consideration.
-
-Data on the vitrification stages and mullite formation observed in the asreceived state together with the estimated firing temperatures are also presented in <u>Table 4.1</u>. During the 1st century ad, both the Wajil and hard Mumun pottery were fired at comparatively low temperatures (<950°C) such that no significant vitrification was produced. During the lst–3rd centuries ad, higher firing temperatures, up to about 1100°C, were employed for both the Wajil and Wajil-type pottery and for the stonewares; however, low firing temperatures (<900°C) were also used for Wajil pottery during this period. Finally, during 4th–6th centuries ad, high firing temperatures (<950°C) were consistently used for the stonewares, whereas low temperatures (<900°C) were again sometimes used for the Wajil pottery and earthenware. It should be noted that the stoneware from Yean-ri, sherd no. 30, which was fired in excess of 1150°C has suffered fairly severe distortion in shape and therefore should perhaps be regarded as a kiln waster.
-
-Mullite was not detected in any of the as-received hard Mumun, Wajil and Wajil-type sherds tested; and although it was detected in two of the three stoneware sherds tested, these were both atypical. One, in which extensive mullite was observed, was the possible kiln waster, sherd no. 30. The other was sherd no. 28, referred to above, which had a flux content of less than 9 per cent.
-
-#### **Conclusions**
-
-In summary, the results presented above indicate that the clays used to make all types of protohistoric Korean pottery seem to have been much the same for the sites tested. The refiring tests demonstrated that these clays all had the potential of producing stoneware (i.e. continuous vitrification and the presence of mullite) if fired to a high enough temperature; thus, the clays traditionally in use for making the sherds tested were stoneware clays. However, they contained higher concentrations of fluxes (9–17 per cent) and were therefore less refractory than the stoneware/porcelain clays used in China and Europe. The relative homogeneity and unchanging nature of the clays utilised through time suggests that there was no special effort to change clay sources in order to make stoneware; thus, the production of stoneware probably entailed only changes in firing temperature, dependent on changes in kiln structure.
-
-![](_page_182_Picture_1.jpeg)
-
-**Figure 4.3** SEM photomicrograph of sherd no. 17 (Wajil pottery from Nop'o-dong) showing quartz particles in coarse network of relict-clay/glass phases associated with extensive vitrification stage (V+)
-
-![](_page_183_Picture_0.jpeg)
-
-Figure 4.4 SEM photomicrograph of sherd no. 30 (stoneware from Yean-ri) showing quartz particles in continuous glass matrix with medium bloating pores associated with continuous vitrification (medium bloating) stage (CV[MB])
-
-Although the firing temperatures employed in the production of the Korean stonewares from the 3rd century ad onwards tend to be higher than those used for the earthenwares, they are still normally less than those employed in the production of Chinese and European stonewares. Further, even though the clays used for the Korean stonewares are less refractory, these lower firing temperatures still result in the Korean stonewares generally being less vitrified and more porous than Chinese and European stonewares. Of all the sherds examined, only sherd no. 30, the possible kiln waster, was clearly a stoneware, with both continuous vitrification and the presence of mullite. It was also the most highly fired sherd (1150–1200°C). Dating to the 6th century, it suggests that the transitional phase to true stoneware production was much longer than formerly expected. Moreover, it appears that many of the earlier hard-fired wares belonging to either Wajil or 4th–5th century Kaya/Silla pottery were not yet true stonewares despite their emic classification as such.
-
-Finally, these analytical results imply that the various types of protohistoric pottery in Korea are cultural categorisations which do not correspond to the scientific distinction between earthenware and stoneware, even though approximations of these terms are generally applied and argued over. Thus, continuing research on stoneware development on the peninsula will require monitoring of vitrification and mullite formation, regardless of type of ware, correlated with observed improvements in kiln technology.
-
-#### **Acknowledgements**
-
-These analyses could not have been performed without the sherds, which were carefully chosen and generously donated by Mr. Youn-sik Choo and his archaeological colleagues in Korea. We are also especially grateful to Miss Mary Tregear, recently retired as Keeper of Eastern Art at the Ashmolean Museum, who agreed to accept the sample sherds into the Ashmolean collections and arrange the analyses as part of the ongoing cooperative research between the Ashmolean Museum and the Research Laboratory for Archaeology and the History of Art, Oxford.
-
-#### References
-
-- Li, Guozhen & Zhang, Xiqiu (1985) "The development of Chinese white porcelain." In W. D. Kingery (ed.) *Ceramics and Civilization*, Vol. 2: 217–36. Columbus, OH: American Ceramic Society.
-- Li, Guozhen & Gao, Lingxiang (1986) "Development of Chinese celadon and its influences." In W. D. Kingery (ed.) *Ceramics and Civilization*, Vol. 3: 129–51. Columbus, OH: American Ceramic Society.
-- Tite, M. S. (1990) "Technology of Rhenish stoneware." In E. Penicka & G. A. Wagner (eds.) *Archaeometry* 90, 337–43. Basel: Birkhauser.
- - \*This chapter was originally published as "Stoneware identification among protohistoric potteries of South Korea" in Li, Jiazhi and Chen, Xiangiu (eds.) *Proceedings of the 2nd International Symposium on Science and Technology of Ancient Ceramics*. Shanghai: Shanghai Research Society of Science and Technology of Ancient Ceramics, pp. 64–9.
-
-## **Chapter Five**
-
-# Discoveries of Iron Armour on the Korean Peninsula\*
-
-#### **Abstract**
-
-In addition to ceramic production, the southern Korean peninsula was noted for iron production during the period of state formation. One of the major products was iron armour, which has been excavated in quantity from Kaya tombs since the mid-1980s. These armour discoveries have radically changed the picture of the nature of elite rule during state formation. This chapter analyses the types of armour found in the Korean tombs and initiates a sociological study of their occurrence in ranked burials.
-
-#### **Introduction**
-
-The spectacular recent finds of iron armour in South Korean protohistoric tombs have renewed debate over the relationship of the Korean Peninsula and the Japanese Islands in the period of early state formation. Since the immediate post-World War II period, two theses have been vying for acceptance: that there was a Horseider conquest of Yamato by Puyŏ/ Paekche peoples in the late 4th century ad (Egami 1964; Ledyard 1975) or that the Yamato state had a colony on the southern Korean Peninsula named Mimana (Suematsu 1958). Much ink has been spilled on both sides of the question but especially in rejecting the Horseider Theory (Kirkland 1981; Edwards 1983; Kidder 1985). The new finds of iron armour in the Kaya region – many of which types are already known from Japanese tombs – reopen the question of the role of military aggression during state formation. While these larger questions go unanswered here in this brief chapter, the recent discoveries are introduced followed by commentary on their political significance, and a proposal is made for the origins of the early Pen/Insular<sup>1</sup> armour with reference to data from Mainland China.
+| 4-Nŭngdo-dong | hard Mumun | 1 | 69.4 | 18.3 | 12.3 | NV | Table 4.1. During the 1st century ad, both the Wajil and hard Mumun pottery were fired at comparatively low temperatures (1 armour with reference to data from Mainland China.
 
 #### **Chinese precedents**
 
@@ -2137,7 +2264,7 @@ All the body armour depicted on the Qin sculptures was made of rectangular plate
 
 Flexible lamellar armour was carried forward into Han Dynasty times, when jade body suits of similar construction were made for certain deceased persons such as Liu Sheng and his wife, buried in the rock-cut tombs at Mancheng, Hebei (Ku 1973; Institute of Archaeology 1981; Kao & Yang 1983). Only for the Han period has iron armour begun to be recovered through excavation, such as the lamellar jacket from Huhehot (Dien 1982/82: fig. 15); but other types are known through tomb murals.
 
-Figurines and tomb paintings from the Northern Wei Dynasty show the development of lamellar armour suitable for mounted warfare. Some of the figure representations, however, are wearing what look to be solid or fixedplate chest protectors (Figure 5.1). The solid type was probably transformed into a type of chest armour known as liangtai in the Tang period, as depicted on tomb figurines (cf. Yang 1985: 54–5). Among the Northern Wei fixed-plate chest protectors, some are clearly shown as composed of long vertical strips, and vertical-strip chest armour is also depicted in the tomb of Dong Shou (d. 357) on the Korean peninsula (Figure 5.2). <sup>2</sup> As we shall see below, vertical-plate cuirasses are the earliest known form of body armour in the Pen/Insular region. Thus, Northern Wei might be the immediate source of inspiration for the development of the fixed-plate cuirass in the 4th-century Yamato and Kaya areas.
+Figurines and tomb paintings from the Northern Wei Dynasty show the development of lamellar armour suitable for mounted warfare. Some of the figure representations, however, are wearing what look to be solid or fixedplate chest protectors (Figure 5.1). The solid type was probably transformed into a type of chest armour known as liangtai in the Tang period, as depicted on tomb figurines (cf. Yang 1985: 54–5). Among the Northern Wei fixed-plate chest protectors, some are clearly shown as composed of long vertical strips, and vertical-strip chest armour is also depicted in the tomb of Dong Shou (d. 357) on the Korean peninsula (Figure 5.2). 2 As we shall see below, vertical-plate cuirasses are the earliest known form of body armour in the Pen/Insular region. Thus, Northern Wei might be the immediate source of inspiration for the development of the fixed-plate cuirass in the 4th-century Yamato and Kaya areas.
 
 ![](_page_189_Picture_0.jpeg)
 
@@ -2185,9 +2312,10 @@ Table 5.1 Chronology of transformations in East Asian armour types relevant to c
 | AD | | |
 |---------|------|-------------------------------|
 | AD 618– | Tang | liangtaichest plates depicted |
-| 907 | | on tomb<br>figurines |
+| 907 | | on tomb
+figurines |
 
-Iron armour was first discovered in southeastern Korea (the Yŏngnam area) during the Japanese occupation. Most of these finds belong to the Ōkura collection of the Tokyo National Museum, but the whereabouts of some of the actual objects are unknown and only their drawings remain (Anazawa & Manome 1991). Other early finds, lacking exact provenance, are kept in the Sungjŏn and Korea University museums (ibid.: 252–3). Since the mid-1980s, several new sites – mostly cemeteries consisting primarily of pit-chamber stone-lined graves – have been excavated in the Yŏngnam region by Korean universities and museums. These sites have yielded many different varieties and combinations of armour. If the graves once had mounds, they were very low and small – thus very different from the large round and keyhole-shaped mounded tombs which have yielded iron armour in Japan. <sup>3</sup> As of February 1993, pieces of armour had been recovered from 33 graves in Kaya territory and 9 in Silla territory, with material known from another eleven localities where the depositional context is unclear (Shin K. C. 1993, pers. comm.). It is significant that these sites are mainly in the southeastern Kaya region, and that no iron armour finds have yet been made in central Paekche or Koguryŏ territory. It is thought that these states simply did not have the custom of burying armour with the deceased, although its apparent absence might be caused by previous looting of the above-ground Koguryŏ stone pyramid tombs or insufficient excavation of Paekche tombs.
+Iron armour was first discovered in southeastern Korea (the Yŏngnam area) during the Japanese occupation. Most of these finds belong to the Ōkura collection of the Tokyo National Museum, but the whereabouts of some of the actual objects are unknown and only their drawings remain (Anazawa & Manome 1991). Other early finds, lacking exact provenance, are kept in the Sungjŏn and Korea University museums (ibid.: 252–3). Since the mid-1980s, several new sites – mostly cemeteries consisting primarily of pit-chamber stone-lined graves – have been excavated in the Yŏngnam region by Korean universities and museums. These sites have yielded many different varieties and combinations of armour. If the graves once had mounds, they were very low and small – thus very different from the large round and keyhole-shaped mounded tombs which have yielded iron armour in Japan. 3 As of February 1993, pieces of armour had been recovered from 33 graves in Kaya territory and 9 in Silla territory, with material known from another eleven localities where the depositional context is unclear (Shin K. C. 1993, pers. comm.). It is significant that these sites are mainly in the southeastern Kaya region, and that no iron armour finds have yet been made in central Paekche or Koguryŏ territory. It is thought that these states simply did not have the custom of burying armour with the deceased, although its apparent absence might be caused by previous looting of the above-ground Koguryŏ stone pyramid tombs or insufficient excavation of Paekche tombs.
 
 ![](_page_193_Picture_0.jpeg)
 
@@ -2313,13 +2441,13 @@ Shoulder guards, neck guards, belts and gauntlets are some of the small pieces o
 
 #### 5. Horse armour:
 
-a Chamfron (face plate) (<u>Figure 5.17</u>; made of wide iron plates moulded to horse-head morphology, with eye perforations and standup crest. [Pokch'ŏndong #10, 5c; two from Okch'ŏn #M–3, 5–6c; Okch'ŏn #28, 5c]
+a Chamfron (face plate) (Figure 5.17; made of wide iron plates moulded to horse-head morphology, with eye perforations and standup crest. [Pokch'ŏndong #10, 5c; two from Okch'ŏn #M–3, 5–6c; Okch'ŏn #28, 5c]
 
 b Bardings; thonged square-plated armour draped over horse's body. [Okch'ŏn #28, 5c]
 
 Miscellaneous plates from these various forms of armour are often found isolated or disarticulated in the burials. It is rarely easy to determine from which type of armour they came.
 
-Shin (1991) has divided these armour types into two main groups: local (helmet types 1-A,B,C; and cuirass type 2) and foreign (Mongolian helmet type 1-D; lamellar suit type 3; accessory type 4a). However, there are problems with this divisioning. Even the "local" types might have originated elsewhere on the continent; and some of the types are shared with Japan - engendering dissenting opinions as to their locus of manufacture. Nevertheless, all researchers agree that a whole new type of armour was introduced into the southern peninsula and islands in the early 5th century by Koguryŏ. This armour consisted of so-called Mongolian helmets (1-D) and long lamellar suits (3) with various accoutrements (4a) as well as horse bardings. Indigenous 4th century armour is considered to have belonged to warriors conducting foot warfare, while the foreign, Koguryŏtype armour is assessed as horseider equipment. Despite the adoption of lamellar suits by the southern elite in the 5th century, cuirasses, the "local" body armour, did not disappear. Instead, this older type of armour was relegated to lower ranks in the political hierarchy, as evidenced by its occurring in small, subsidiary tombs or being worn by "followers in death"<sup>6</sup> (Shin 1992: 139).
+Shin (1991) has divided these armour types into two main groups: local (helmet types 1-A,B,C; and cuirass type 2) and foreign (Mongolian helmet type 1-D; lamellar suit type 3; accessory type 4a). However, there are problems with this divisioning. Even the "local" types might have originated elsewhere on the continent; and some of the types are shared with Japan - engendering dissenting opinions as to their locus of manufacture. Nevertheless, all researchers agree that a whole new type of armour was introduced into the southern peninsula and islands in the early 5th century by Koguryŏ. This armour consisted of so-called Mongolian helmets (1-D) and long lamellar suits (3) with various accoutrements (4a) as well as horse bardings. Indigenous 4th century armour is considered to have belonged to warriors conducting foot warfare, while the foreign, Koguryŏtype armour is assessed as horseider equipment. Despite the adoption of lamellar suits by the southern elite in the 5th century, cuirasses, the "local" body armour, did not disappear. Instead, this older type of armour was relegated to lower ranks in the political hierarchy, as evidenced by its occurring in small, subsidiary tombs or being worn by "followers in death"6 (Shin 1992: 139).
 
 ![](_page_207_Picture_0.jpeg)
 
@@ -2331,7 +2459,7 @@ Shin (1991) has divided these armour types into two main groups: local (helmet t
 
 ## **Peninsular armour in Yamato**
 
-The oldest examples of vertical-plate cuirasses were actually found in Japan and are thonged, <sup>7</sup> while most of the peninsular vertical-plate cuirasses are of the newer, riveted type. Nogami concludes rightly that the peninsular riveted examples cannot be the prototypes of the insular thonged ones (1991: pl. 29 caption), implying that the vertical-plate cuirass originated in Yamato. But Fujita argues that the thonged examples found in Yamato were probably imports from the peninsula (1991: 397–8). The mechanisms by which cuirasses of Yŏngnam manufacture might have come to rest in Yamato tombs must be investigated in the context of a Paekche-Yamato alliance of the late 4th and early 5th centuries (cf. Hirano 1977). 8
+The oldest examples of vertical-plate cuirasses were actually found in Japan and are thonged, 7 while most of the peninsular vertical-plate cuirasses are of the newer, riveted type. Nogami concludes rightly that the peninsular riveted examples cannot be the prototypes of the insular thonged ones (1991: pl. 29 caption), implying that the vertical-plate cuirass originated in Yamato. But Fujita argues that the thonged examples found in Yamato were probably imports from the peninsula (1991: 397–8). The mechanisms by which cuirasses of Yŏngnam manufacture might have come to rest in Yamato tombs must be investigated in the context of a Paekche-Yamato alliance of the late 4th and early 5th centuries (cf. Hirano 1977). 8
 
 In the late 4th century, Paekche was busy defending itself from Koguryŏ incursions from the north, which forced Paekche to move its capital from the Han River valley south to the Kŭm River drainage in 375. Paekche tried to bolster its position vis-à-vis Koguryŏ by developing alliances with the Chinese dynasties (sending tribute to Eastern Jin in 372 [Shin 1992]) as well as placating Yamato – a prince was sent to Yamato in 397 (Hirano 1977: 55). The seven-branched sword, manufactured in Paekche in 369 but housed at the Isonokami Shrine in Nara, is believed to have been presented to Yamato as part of the alliance in 372 (cf. Shinpō 1975; Hirano 1977: 56). In these relations between Paekche and Yamato, "Kara [Kaya] apparently acted as an intermediary" (Hirano 1977: 59); thus avenues and opportunities were evidently available for the transfer of small numbers of material objects, including Yŏngnam iron, from the peninsula to the islands in the 4th century.
 
@@ -2339,7 +2467,7 @@ In the late 4th century, Paekche was busy defending itself from Koguryŏ incursi
 
 Again, several examples of similar helmets and horizontal-plate cuirasses are known from both Korea and Japan. Among those discovered on the peninsula, some (three visored helmets in the Korea University and Sungjŏn University Museum collections) are determined to have been made by entirely different techniques than those in Japan, while others (one visored helmet from the Yŏnsang-dong tomb in the Okura collection and two triangular-plated cuirasses, one in the Tokyo National Museum and one excavated in 1972 from the Sangpaeng-ri tomb) are identical to the Japanese examples (Anazawa & Manome 1991: 235–6).
 
-Initially, when the latter, Yamato, types of armour were discovered in Korea, Japanese scholars claimed this constituted proof of the Mimana hypothesis – that the southern peninsula was under Yamato military control in the 4th century as written in the Nihon Shoki. <sup>9</sup> This interpretation is now disputed by both Korean and Japanese scholars on the basis of minute typological work on the armour finds. Firstly, the triangular-plated cuirasses and visored helmets of Yamato type found on the peninsula are late 5thcentury products, not 4th century, and so are too late to support the Mimana hypothesis. Secondly, they are so few in number among other local armour types that they can hardly be indicative of a military occupation (Shin 1992). Thirdly, Shin notes that the cuirasses and helmets, even if made in Yamato, were buried with political subordinates, while the Yŏngnam 5thcentury elite were wearing Koguryŏ-style lamellar suits and Mongolian helmets (Shin 1992).
+Initially, when the latter, Yamato, types of armour were discovered in Korea, Japanese scholars claimed this constituted proof of the Mimana hypothesis – that the southern peninsula was under Yamato military control in the 4th century as written in the Nihon Shoki. 9 This interpretation is now disputed by both Korean and Japanese scholars on the basis of minute typological work on the armour finds. Firstly, the triangular-plated cuirasses and visored helmets of Yamato type found on the peninsula are late 5thcentury products, not 4th century, and so are too late to support the Mimana hypothesis. Secondly, they are so few in number among other local armour types that they can hardly be indicative of a military occupation (Shin 1992). Thirdly, Shin notes that the cuirasses and helmets, even if made in Yamato, were buried with political subordinates, while the Yŏngnam 5thcentury elite were wearing Koguryŏ-style lamellar suits and Mongolian helmets (Shin 1992).
 
 Nevertheless, it is still possible that the Yamato-type examples excavated in Korea were actually made in Yamato, since they so closely resemble Japanese examples; 10 in any case, it must be explained how they got to Korea. Anazawa and Manome (1991: 263–4) have developed two main hypotheses: 1) they were traded or gifted from Yamato to Kaya; or 2) they belonged to Yamato militarists who invaded Kaya territory, died, and were buried on the peninsula; or the armour was captured from Yamato soldiers by Kaya warriors and buried with the latter instead.
 
@@ -2357,7 +2485,8 @@ In area Ta, there were two large tombs, Ta-A and Ta-B; neither, however, was as 
 
 **Table 5.2** Comparison of grave goods in main and accessory burials at Pokchãon-dong
 
-| Main chamber(#11) | Accessory<br>chamber(#10) |
+| Main chamber(#11) | Accessory
+chamber(#10) |
 |-------------------------------------------------------------------------------|---------------------------------------------------------------|
 | Lamellar suit with standup neck-guard | Vertical-plate cuirass |
 | Mongolian helmet, thonged | Mongolian helmet, |
@@ -2368,24 +2497,60 @@ In area Ta, there were two large tombs, Ta-A and Ta-B; neither, however, was as 
 | Quiver fixings: buckles, rivets, edgings | _ |
 | Iron ingots | |
 | _ | Chamfron |
-| _ | Horse trappings;<br>saddlery, bit, stirrups,<br>buckles, bell |
+| _ | Horse trappings;
+saddlery, bit, stirrups,
+buckles, bell |
 
 ## Stoneware Stoneware
 
 Iron tools: knives, curl-end knives, socketed axe/adzes, sickles, point planes, bracket nails Iron tools: chisel, knives
 
-| Main chamber(# 22)<br>– | Accessory chamber(#<br>21) |
+| Main chamber(# 22)
+– | Accessory chamber(#
+21) |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|
-| – | Lamellar armour<br>waist-plates |
-| – | Mongolian<br>helmet<br>with<br>vertical<br>neck-plates |
+| – | Lamellar armour
+waist-plates |
+| – | Mongolian
+helmet
+with
+vertical
+neck-plates |
 | | Standup neck-guard |
-| Horse<br>trappings:<br>stirrups,<br>bells,<br>saddlery,Horse<br>trappings:<br>bit,<br>stirrups,<br>buckles bit | |
-| Iron<br>weapons:<br>arrowheads, edge-curled Iron<br>weapons:<br>arrowheads,<br>edge-curled<br>spearheads,<br>socketed<br>spearheads,<br>socketed spearheads, swords | |
-| Quiver<br>fixings: buckles, edging, plaques- | – |
+| Horse
+trappings:
+stirrups,
+bells,
+saddlery,Horse
+trappings:
+bit,
+stirrups,
+buckles bit | |
+| Iron
+weapons:
+arrowheads, edge-curled Iron
+weapons:
+arrowheads,
+edge-curled
+spearheads,
+socketed
+spearheads,
+socketed spearheads, swords | |
+| Quiver
+fixings: buckles, edging, plaques- | – |
 | Iron ingots | – |
 | Personal ornaments: beads, earrings | – |
 | Stoneware | Stoneware |
-| Iron<br>tools:<br>knives, curl-end<br>knives, socketed<br>spade shoe, bracket nails | Iron<br>tools:<br>sickles,<br>knives,<br>socketed<br>axe/ adze |
+| Iron
+tools:
+knives, curl-end
+knives, socketed
+spade shoe, bracket nails | Iron
+tools:
+sickles,
+knives,
+socketed
+axe/ adze |
 
 ![](_page_213_Figure_0.jpeg)
 
@@ -2507,7 +2672,7 @@ Table 6.1 Typology of wall remains on the Korean Peninsula (based on Yi Y. T. 19
 | SPACE: | in mountains or on plains |
 | FORM: | earthen walls or mixed earth and stone |
 | 3. Tpsŏng, lit "capital walls" | |
-| <i>Ŭpsŏng</i> , lit "village walls" | |
+| Ŭpsŏng , lit "village walls" | |
 | TIME: | mainly after the Koryŏ period |
 | SPACE: | cities and towns on the plains |
 | FORM: | walled enclosures, 4 main gates, gate- |
@@ -2638,14 +2803,21 @@ Table 6.3 Building remains excavated at Three Kingdoms walled sites (sources: Sh
 | | Ε | | 3×? (1.76m) | | 10 | + | US-? |
 | Ch'ŏngpung | | Stone line | | | | | 3K |
 | Chŏksŏng | | Stone line | | 7 × 7.5m | | | 3K(S) |
-| | C1 | Pill B | 5×10-18<br>(2.1m) | 7.8 × 37m<br>(288.6m <sup>2</sup> ) | natural rocks | + | 3K(P) |
-| | C2 | Pill B | 5×11 (2.1m) | 1.05 × 22.1<br>(23.2m <sup>2</sup> ) | natural rocks | + | 3K(P) |
-| | E1 | Pill B | 5×16 (2m) | 8.5 × 30.6m<br>(260.1m <sup>2</sup> ) | split rocks | + | 3K(P) |
+| | C1 | Pill B | 5×10-18
+(2.1m) | 7.8 × 37m
+(288.6m 2 ) | natural rocks | + | 3K(P) |
+| | C2 | Pill B | 5×11 (2.1m) | 1.05 × 22.1
+(23.2m 2 ) | natural rocks | + | 3K(P) |
+| | E1 | Pill B | 5×16 (2m) | 8.5 × 30.6m
+(260.1m 2 ) | split rocks | + | 3K(P) |
 | | E2 | Pill B | 9 sides | 10.3m DM | 9 stones, 4 in center | + | |
-| Isŏng Sansŏng | North | Pill B | 18×3 | 7.8 × 54.2<br>(422.8m <sup>2</sup> ) | + stone barrier | + | 3K(P)-Ch |
+| Isŏng Sansŏng | North | Pill B | 18×3 | 7.8 × 54.2
+(422.8m 2 ) | + stone barrier | + | 3K(P)-Ch |
 | | South | Pill B | >9 | | | | |
-| | West | Pill B | 3×10 | 6.1 × 32.5<br>(198.25m <sup>2</sup> ) | stone lines | + | 3K(P)-Ch |
-| | East | Pill B | 3×10 | 6.1 × 30.5<br>(186.05m <sup>2</sup> ) | | + | 3K(P)-Ch |
+| | West | Pill B | 3×10 | 6.1 × 32.5
+(198.25m 2 ) | stone lines | + | 3K(P)-Ch |
+| | East | Pill B | 3×10 | 6.1 × 30.5
+(186.05m 2 ) | | + | 3K(P)-Ch |
 | | 1 | PtB-rec | | 4×4 | | | 3K(P) |
 | | 2 | PtB-rec | | 4×4 | | | 3K(P) |
 | | 3 | PtB-rec | | 4 × 4 | stone flue | | 3K(P) |
@@ -2654,9 +2826,12 @@ Table 6.3 Building remains excavated at Three Kingdoms walled sites (sources: Sh
 |-----------|------|----------|------------------|----------------------------|-------|
 | | 85-2 | PtB-oval | $4.4 \times 8.1$ | | 3K(P) |
 | | 85-3 | PtB-rec | $4.5 \times 5.5$ | central hearth | 3K(P) |
-| | 87-1 | PtB-rec? | 12×>16 | hearth near<br>north wall | 3K(P) |
-| | 87-2 | PtB-rec? | 6.6 × 8.5 | hearth near<br>east wall | 3K(P) |
-| | 87-3 | PtB-oval | 6×10 | hearth in<br>mid-east wall | 3K(P) |
+| | 87-1 | PtB-rec? | 12×>16 | hearth near
+north wall | 3K(P) |
+| | 87-2 | PtB-rec? | 6.6 × 8.5 | hearth near
+east wall | 3K(P) |
+| | 87-3 | PtB-oval | 6×10 | hearth in
+mid-east wall | 3K(P) |
 | | 87-4 | PtB-sq | $2.2 \times 2.6$ | | 3K(P) |
 | | 87-5 | PtB-rec | 2.2 × 3.2 | outside hearth | 3K(P) |
 
@@ -2804,7 +2979,7 @@ Support for research on Korean walled sites is gratefully acknowledged from St J
 - Chang, K. C. (1977) *The Achaeology of Ancient China*, 3rd ed. Yale University Press. (in English)
 - Chang, K. H. (Kyŏng-ho) & Hong, S. P. (Sŏng-pin) (1984) "Brief report on the excavation of buildings within Puso Sansŏng." *Munhwajae* 17: 115–26.
 - Ch'im, K. J. (Kwang-ju) (1988) "Isŏng Sansŏng-e taehan Yŏn'gu" [Research on Isŏng Sansŏng]. M. A. thesis, Hanyang University. (in Korean with English summary)
-- Chōsen Koseki Kenkyūkai (1938) "Lelang compound." In *Showa 12 nendo koseki chosa hokoku*, <u>Chapter 8</u>. Keijō (Seoul): Chōsen Sōtokufu. (in Japanese)
+- Chōsen Koseki Kenkyūkai (1938) "Lelang compound." In *Showa 12 nendo koseki chosa hokoku*, Chapter 8. Keijō (Seoul): Chōsen Sōtokufu. (in Japanese)
 - Government General of Chōsen (1915) Notes on the Chōsen Koseki Zufu (Pictorial Album of Ancient Remains of Chōsen), Vols. 1 and 2. Seoul: Chōsen Sōtokufu. (in English)
 - Han, W. K. (Woo Keun) (1987) Korean History. Seoul: ūryu Munhwasa.
 - Han'guk Kogohak Yŏn'guhoe (1984) *Archaeological Maps of Korea*. Han'guk Kogo-hakpo Special Issue 1. Seoul National University Museum.
@@ -2848,7 +3023,7 @@ Support for research on Korean walled sites is gratefully acknowledged from St J
 
 Kaya is an enigma in Korean state formation since the Kaya chiefdoms never seemed to coalesce into a strong, centralised state. Nevertheless, the economic position of the early Kaya polities in stoneware and iron production meant they were alternately courted and fought over by the more powerful states surrounding them. This chapter examines the origins of the Kaya from historical and archaeological sources, and provides the context for viewing the industrial data.
 
-#### <u>Introduction</u>
+#### Introduction
 
 As with all the early states on the Korean peninsula, one of the major problems in reviewing Kaya history is knowing when it began. This problem derives from Kaya being "protohistoric", that is, overlapping the boundary between prehistory and history. The very word "Kaya" comes from a historical source, and it is not clear how far back into prehistory it can be extended. Of course, the Naktong river valley and the southern coastal region around modern Pusan – the historical locus of Kaya in the southeastern peninsula – have an archaeological history going back thousands of years; however, when and how the Kaya emerged from this prehistorical background is a matter for conjecture.
 
@@ -2860,9 +3035,9 @@ As outlined in an earlier chapter, the southern Korean peninsula had a rather di
 
 ## The "Karak Kukki" chapter
 
-The main historical source on Kaya is the *Karak Kukki*, "Karak State Record", an 11th-century document presumably written by a magistrate of Kumgwan County (near Kimhae, just west of modern Pusan) during the reign of the Koryo King Munjong (r. 1046–83).<sup>2</sup> The original text of the *Karak Kukki* no longer exists, but its content was partially incorporated as a separate chapter into the 13th-century *Samguk Yusa* by Ilyon.<sup>3</sup> The *Karak Kukki* chapter contains two versions of the legendary establishment of the Karak State: one brief version quoted from a stone stele inscription, and another longer more elaborate version. The stele inscription possibly dates to the mid-5th century, and the stele itself appears to have been still extant in the 11th century for the inscription to be read by the magistrate and incorporated into his text. The more detailed version was recorded by the magistrate in the 11th century and probably contains many historical elaborations on the Karak legends. It is not clear how much of an editorial hand Ilyŏn exerted 200 years later within the *Karak Kukki* chapter; he states at the beginning that the text is given in an abbreviated form, and some annotations appear in the running text. The text itself, however, gives some alternatives, for example, stating that the first Karak king was called Suro or Suryŏng and that Karak was also called Kaya. By the 11th century, then, it seems that Karak and Kaya were used interchangeably.
+The main historical source on Kaya is the *Karak Kukki*, "Karak State Record", an 11th-century document presumably written by a magistrate of Kumgwan County (near Kimhae, just west of modern Pusan) during the reign of the Koryo King Munjong (r. 1046–83).2 The original text of the *Karak Kukki* no longer exists, but its content was partially incorporated as a separate chapter into the 13th-century *Samguk Yusa* by Ilyon.3 The *Karak Kukki* chapter contains two versions of the legendary establishment of the Karak State: one brief version quoted from a stone stele inscription, and another longer more elaborate version. The stele inscription possibly dates to the mid-5th century, and the stele itself appears to have been still extant in the 11th century for the inscription to be read by the magistrate and incorporated into his text. The more detailed version was recorded by the magistrate in the 11th century and probably contains many historical elaborations on the Karak legends. It is not clear how much of an editorial hand Ilyŏn exerted 200 years later within the *Karak Kukki* chapter; he states at the beginning that the text is given in an abbreviated form, and some annotations appear in the running text. The text itself, however, gives some alternatives, for example, stating that the first Karak king was called Suro or Suryŏng and that Karak was also called Kaya. By the 11th century, then, it seems that Karak and Kaya were used interchangeably.
 
-The majority of the Karak Kukki chapter is devoted to the miraculous birth of King Suro and another five Kaya kings (hatched from six golden eggs delivered from heaven in a golden basket on a purple rope), and the affairs of King Suro and his obtaining of a wife. Thereafter, the text relates United Silla and Koryŏ-period events concerning the upkeep of King Suro's tomb, and it tells of the festival (continuing into the 11th-century in the old Kaya region of Kimhae) commemorating the arrival of King Suro's future wife by ship. The region's change of name through the centuries is also recorded: from being called Kümgwan-kyŏng in 681, to Imhae-hyŏn in ca. 940, to Imhae-gun or Kimhae-pu in ca. 988. During the Koryŏ period, the area served intermittently as navy and army headquarters. Very little is written about the events of King Suro's successors except that in 453 the eighth King Kimchil<sup>4</sup> had a temple erected to the memory of King Suro's Queen, and the stele on which the inscription mentioned above was written apparently stood on the abandoned site of that temple. A king list is appended to the Karak Kukki, giving reign dates, genealogies and alternative names and some historical information for the nine kings succeeding Suro. In this list, some information is incorporated from the Chinese Kaihuangli.<sup>5</sup> Finally, the document ends by quoting two Chinese sources, the Kaibuanglu<sup>6</sup> and the Sanguozhi, 7 on the Silla conquest of Karak.
+The majority of the Karak Kukki chapter is devoted to the miraculous birth of King Suro and another five Kaya kings (hatched from six golden eggs delivered from heaven in a golden basket on a purple rope), and the affairs of King Suro and his obtaining of a wife. Thereafter, the text relates United Silla and Koryŏ-period events concerning the upkeep of King Suro's tomb, and it tells of the festival (continuing into the 11th-century in the old Kaya region of Kimhae) commemorating the arrival of King Suro's future wife by ship. The region's change of name through the centuries is also recorded: from being called Kümgwan-kyŏng in 681, to Imhae-hyŏn in ca. 940, to Imhae-gun or Kimhae-pu in ca. 988. During the Koryŏ period, the area served intermittently as navy and army headquarters. Very little is written about the events of King Suro's successors except that in 453 the eighth King Kimchil4 had a temple erected to the memory of King Suro's Queen, and the stele on which the inscription mentioned above was written apparently stood on the abandoned site of that temple. A king list is appended to the Karak Kukki, giving reign dates, genealogies and alternative names and some historical information for the nine kings succeeding Suro. In this list, some information is incorporated from the Chinese Kaihuangli.5 Finally, the document ends by quoting two Chinese sources, the Kaibuanglu6 and the Sanguozhi, 7 on the Silla conquest of Karak.
 
 Some things to note about the *Karak Kukki* chapter are that:
 
@@ -2883,7 +3058,7 @@ Kaya kings. It thus appears that Kaya might have been a local place name and eth
 
 #### The "Five Kaya" chapter
 
-Interestingly, the *Karak Kukki* chapter itself does not give the names of any other Kaya entities, even though there were five other Kaya kings mentioned in another short chapter elsewhere in the *Samguk Yusa* entitled "The Five Kaya"; this chapter gives two different versions of the names and annotations on their supposed locations (cf. <u>Table 7.1</u>).
+Interestingly, the *Karak Kukki* chapter itself does not give the names of any other Kaya entities, even though there were five other Kaya kings mentioned in another short chapter elsewhere in the *Samguk Yusa* entitled "The Five Kaya"; this chapter gives two different versions of the names and annotations on their supposed locations (cf. Table 7.1).
 
 ![](_page_260_Figure_0.jpeg)
 
@@ -2897,17 +3072,23 @@ Table 7.1 List of old and revised Kaya names (Main and Revised names according t
 
 | Main Samguk Yusa list | Revised in Chŏnpok 5 (ad | Nihon |
 |-----------------------|-----------------------------|------------|
-| | 940) | a<br>Shoki |
-| –<br>(1) | Kŭmgwan-Kaya (Kimhae<br>pu) | Nam-Kaya |
+| | 940) | a
+Shoki |
+| –
+(1) | Kŭmgwan-Kaya (Kimhae
+pu) | Nam-Kaya |
 | 2 Ara- (or Ana-) Kaya | Ara-SAKaya | Ara-Kaya |
 | (Haman) | | |
 | 3 Koryŏng-Kaya | Koryŏng-Kaya (Kari | – |
 | (Hamnyŏng) | county) | |
 | 4 Tae-Kaya (Koryŏng) | – | Kaya |
 | 5 Sŏngsan-Kaya | Sŏngsan- (or Pyokjin-) | – |
-| b<br>(Kyŏngsan) | Kaya | |
+| b
+(Kyŏngsan) | Kaya | |
 | 6 So-Kaya (Kosŏng) | – | Koja-Kaya |
-| –<br>(7) | c<br>Pihwa-Kaya | Pijahwa |
+| –
+(7) | c
+Pihwa-Kaya | Pijahwa |
 ## | | (Changnyŏng) | |
 
 a an 8th century document from Japan (cf. Aston 1972)
@@ -2916,7 +3097,7 @@ Ha & Mintz include as an appendix to their translation of the Samguk Yusa the Ka
 
 ## b Kyŏngsan is listed as "formerly Pyŏkjin"
 
-<sup>C</sup> said to be the same as Koryŏnq, but treated as separate by later scholars from the *Karak Kukkì* and has been incorporated into the general dynastic chronological chart (1972: 394–5, 400–11). That chronological chart has less information on each king than the list in the *Karak Kukki* chapter, but an entry has been added on King Suro himself for the chart. The new entry on King Suro places him in Kaya at Kŭmju (Kimhae), suggesting a different 13th-century name for that area. A simplistic rendition of the six Kaya can be seen in Figure 7.1, although the scholastic situation is much more complicated and will be discussed again below.
+C said to be the same as Koryŏnq, but treated as separate by later scholars from the *Karak Kukkì* and has been incorporated into the general dynastic chronological chart (1972: 394–5, 400–11). That chronological chart has less information on each king than the list in the *Karak Kukki* chapter, but an entry has been added on King Suro himself for the chart. The new entry on King Suro places him in Kaya at Kŭmju (Kimhae), suggesting a different 13th-century name for that area. A simplistic rendition of the six Kaya can be seen in Figure 7.1, although the scholastic situation is much more complicated and will be discussed again below.
 
 ## A critique of King Suro's Queen
 
@@ -2924,7 +3105,7 @@ Archaeologist Kim Byung-mo has offered a proposal for the origin for King Suro's
 
 When Kim travelled to Chinju, he met members of the Xu/Hu families who guided him to the ancestral tomb and was told of the yearly ceremonies carried out there. Moreover, he documented the distribution of the twin-fish motif throughout the Yangtze basin and postulates that the Xu/Hu clan was originally a Brahmin family from India which took refuge to the northeast when Kosala was attacked by Kushan in the 1st century ad. Finally, he cites two rebellions in Jinzhou recorded for ad 47 and 101 in the Late Han period. One of the leaders of the rebellion was a holy man of the Xu/Hu; and, judging on the expulsion of the rebels in 101, Kim postulates that the earlier Brahman leader was also banished.
 
-From here he speculates that the family moved down the Yangtze to the Shanghai delta region, whence they might have departed on a trading ship that deposited them on the southern Korean coast. It must be remembered at this time, as described by the later Weizhi, the Pyŏnhan area was <sup>a</sup> large trading centre for iron with many ships coming and going from all directions, so it would not have been impossible to arrive from the Yangtze delta in time for the daughter to marry King Suro in ad 48. The name chosen by Suro for his kingdom, Karak, is said to be an old Dravidian word for "fish", with Kaya as the new Dravidian form (Kim. B. Y. 1987, 1992, 1994).
+From here he speculates that the family moved down the Yangtze to the Shanghai delta region, whence they might have departed on a trading ship that deposited them on the southern Korean coast. It must be remembered at this time, as described by the later Weizhi, the Pyŏnhan area was a large trading centre for iron with many ships coming and going from all directions, so it would not have been impossible to arrive from the Yangtze delta in time for the daughter to marry King Suro in ad 48. The name chosen by Suro for his kingdom, Karak, is said to be an old Dravidian word for "fish", with Kaya as the new Dravidian form (Kim. B. Y. 1987, 1992, 1994).
 
 This incredible coincidence of data might well reflect the reality of a high status foreign family arriving in the Kimhae region at the date described. If so, foreign beads and ornaments might be expected to be discovered from Pyŏnhan burials in future. It is also possible that the daughter's presence was remembered through myth and legend. However, whether or not this woman married the man to become King Suro is still conjectural. It should be noted that the twin-fish motif is at present only known from historical monuments in the Kimhae region and it has yet to be found on any archaeological materials dating to the Kaya period. Also, the tomb that is maintained as belonging to the queen of King Suro is a late construction (as is likely for King Suro's tomb), located in a 6–7th century tomb cluster (Nishitani 1992a: 2). It is possible that after the Silla conquest of Kaya in 532, the Silla Court honoured the ancestors of the Kaya Crown Prince who joined the Kim royal line by building new a new tomb for the queen; and a tombstone with the twin-fish motif could have been added any time thereafter. Fish forms are known in Silla goldwork, which is also thought to have roots in Indian gold-working technology. Thus, there is more than one route for the "twin-fish" motif to have entered the Korean peninsula.
 
@@ -2936,7 +3117,7 @@ Before delving into further historical references to Kaya, let us look at the em
 
 Most archaeologists working on the protohistoric cultures of the peninsula accept and work within the ethnic names and social concepts derived from the early documents. They do not insist on the anonymity of the protohistoric record even though there are, for example, no inscriptions found during excavation that declare "this is a Kaya site". Nevertheless, the assignment of material remains to ethnic groups is done at the discretion of the individual archaeologist, and interpretations do vary.
 
-Even if one accepts the transformation of the Samhan-period Kuya-guk into the Three Kingdoms-period Kaya, it is difficult to accept the *Karak Kukki* foundation date and the ascension of King Suro in the mid-1st century ad because there are no archaeological remains from that time in the Kaya region that indicate the emergence of an elite ruling class capable of producing a king. Not until the late–3rd century does such evidence appear, and archaeologist Shin Kyung Cheol has argued for the emergence of Kümgwan-Kaya at that time (1992a, b). The evidence consists of the appearance of a certain type of wooden chamber burial in the Kimhae region, as known at the Taesŏng-ri, Pokchŏn-dong and Yangnae-ri cemeteries excavated in the 1990s. These new chambers differ from the earlier wooden chamber burials not only in construction but size, location and richness of grave goods. For the first time, status distinctions can be seen in the interment of individuals, including the deposition of sacrificed persons.<sup>8</sup>
+Even if one accepts the transformation of the Samhan-period Kuya-guk into the Three Kingdoms-period Kaya, it is difficult to accept the *Karak Kukki* foundation date and the ascension of King Suro in the mid-1st century ad because there are no archaeological remains from that time in the Kaya region that indicate the emergence of an elite ruling class capable of producing a king. Not until the late–3rd century does such evidence appear, and archaeologist Shin Kyung Cheol has argued for the emergence of Kümgwan-Kaya at that time (1992a, b). The evidence consists of the appearance of a certain type of wooden chamber burial in the Kimhae region, as known at the Taesŏng-ri, Pokchŏn-dong and Yangnae-ri cemeteries excavated in the 1990s. These new chambers differ from the earlier wooden chamber burials not only in construction but size, location and richness of grave goods. For the first time, status distinctions can be seen in the interment of individuals, including the deposition of sacrificed persons.8
 
 To construct his view of Kaya emergence, Shin relies on his excavations at Taesŏng-dong in Kimhae, which is considered the royal cemetery of Kŭmgwan-Kaya (1995). He distinguishes between wooden-board burial chamber construction of the Lelang style, which he assigns to Pyŏnhan peoples, and the round-timber chamber construction, which he recognises as a northern type. The former, Type I wooden chamber burials yield Chinese and Kyūshū-made mirrors and date at the earliest to the late 2nd century ad. The latter, Type II wooden chamber burials contain both human and horse sacrifices, horseider equipment and armour. Moreover, when Type II burials were constructed in the various cemeteries around Kimhae, many Type I burials were intentionally destroyed. From the northern-type two-handled pots appearing at this time, Shin dates the appearance of Type II burials to no earlier than ad 280. He goes so far to identify the source of this northern culture as the Fuyu (K. Puyŏ) in the northern Manchurian basin (modern Jilin Province). Furthermore, he argues for the migration of peoples rather than the spread of material culture through trade. Specifically, he notes that the new culture arrives suddenly in the Kimhae area and is not the product of a gradual transmission overland. He equates the initiation of Type II burials with the emergence of Kaya, and consciously gives a northern derivation to the Kŭmgwan-Kaya ruling line.
 
@@ -2956,7 +3137,7 @@ Among these various names, Nam-Kaya and Imna deserve special mention. In the *Ni
 
 The fruits of Kim's labour can be seen in Figures 7.2 and 7.3, showing the distributions of polity names and sites. The first map, including the Samhan period names of the Pyŏnhan and Chin-han areas includes Kaya under the Samhan name of Kuya in Kimhae. Only 9 of the 13 Samhan names are locatable in the Yŏngnam region, but 18 cemeteries dating from the 1st to 4th centuries ad are seen to be distributed in several of these polity areas. Kim's data for Late Kaya are set out in Figure 7.3; here all 13 Late Kaya (5–6th c. ad) polities are mapped against 26 cemeteries known of this date. Many of the cemeteries are assigned to particular Kaya polities on the basis of geographical coherence, but these affiliations should be tested or thoroughly scrutinised rather than taken at face value.
 
-It should be noted that the number of Late Kaya polity names far exceed the original Five Kaya recorded in the *Samguk Yusa*. Four of the original names are now listed under their original or new names (see <u>Table 7.1</u>, right-hand column): Ara-Kaya, Kŭmgwan-Kaya became Nam-Kaya; Tae-Kaya became Kaya; So-Kaya became Koja-Kaya. Also, Pihwa-Kaya has been elevated to independent status as Pijahwa; and Koryŏng-Kaya and Songsan-Kaya have disappeared. Beyond these, 9 new names have been added. It is apparent that many of these new names are drawn from the Japanese chronicles, the *Nihon Shoki*, compiled in the 8th century. Although these chronicles postdated the Late Kaya period by two to three centuries, records of interaction between the Late Kaya polities and Yamato have been preserved therein. The role of the Chinese court documents, so important for earlier windows onto Samhan and Early Kaya society, had ended by this time; and the indigenous Korean documents of the early historical period (Samguk Sagi, Samguk Yusa, Poncho Sarak, and Koryŏsa) tended to continue the use of traditional names in opposition to the Japanese tendency for re-naming. Kim draws upon the Nihon Shoki to provide the broadest, most varying view of Late Kaya polity distribution.
+It should be noted that the number of Late Kaya polity names far exceed the original Five Kaya recorded in the *Samguk Yusa*. Four of the original names are now listed under their original or new names (see Table 7.1, right-hand column): Ara-Kaya, Kŭmgwan-Kaya became Nam-Kaya; Tae-Kaya became Kaya; So-Kaya became Koja-Kaya. Also, Pihwa-Kaya has been elevated to independent status as Pijahwa; and Koryŏng-Kaya and Songsan-Kaya have disappeared. Beyond these, 9 new names have been added. It is apparent that many of these new names are drawn from the Japanese chronicles, the *Nihon Shoki*, compiled in the 8th century. Although these chronicles postdated the Late Kaya period by two to three centuries, records of interaction between the Late Kaya polities and Yamato have been preserved therein. The role of the Chinese court documents, so important for earlier windows onto Samhan and Early Kaya society, had ended by this time; and the indigenous Korean documents of the early historical period (Samguk Sagi, Samguk Yusa, Poncho Sarak, and Koryŏsa) tended to continue the use of traditional names in opposition to the Japanese tendency for re-naming. Kim draws upon the Nihon Shoki to provide the broadest, most varying view of Late Kaya polity distribution.
 
 ![](_page_270_Figure_0.jpeg)
 
@@ -2965,26 +3146,44 @@ It should be noted that the number of Late Kaya polity names far exceed the orig
 | Modern city | Cemetery site | Types of | |
 |-------------|---------------|------------------|----------------------------|
 | locations: | name: | burials: | |
-| 1 | Pusan | Nop'o-dong | Pits with wood<br>chambers |
-| 2 | Pusan | Kusŏ-dong | Pits with wood<br>chambers |
-| 3 | Pusan | Hwamyŏng<br>dong | Stone-lined pit<br>burials |
-| 4 | Iryang | Naei-dong | Pits with wood<br>chambers |
-| 5 | Kimhae | Yean-ri | Pits with wood<br>chambers |
-| 6 | Kimhae | Taesŏng-dong | Pits with wood<br>chambers |
-| 7 | Kimhae | Oirae-ri | Pits with wood<br>chambers |
-| 8 | Kimhae | Yangdong-ri | Pits with wood<br>chambers |
-| 9 | Kimhae | Ch'ilsan-dong | Pits with wood<br>chambers |
-| 10 | Uich'ang | Taho-ri | Pits with wood<br>chamber |
-| 11 | Ch'angwŏn | Togye-dong | Pits with wood<br>chambers |
+| 1 | Pusan | Nop'o-dong | Pits with wood
+chambers |
+| 2 | Pusan | Kusŏ-dong | Pits with wood
+chambers |
+| 3 | Pusan | Hwamyŏng
+dong | Stone-lined pit
+burials |
+| 4 | Iryang | Naei-dong | Pits with wood
+chambers |
+| 5 | Kimhae | Yean-ri | Pits with wood
+chambers |
+| 6 | Kimhae | Taesŏng-dong | Pits with wood
+chambers |
+| 7 | Kimhae | Oirae-ri | Pits with wood
+chambers |
+| 8 | Kimhae | Yangdong-ri | Pits with wood
+chambers |
+| 9 | Kimhae | Ch'ilsan-dong | Pits with wood
+chambers |
+| 10 | Uich'ang | Taho-ri | Pits with wood
+chamber |
+| 11 | Ch'angwŏn | Togye-dong | Pits with wood
+chambers |
 | 12 | Ch'angwŏn | Samdong-dong | Jar burials |
-| 13 | Haman | Sanae-ri | Pits with wood<br>chambers |
-| 14 | Kosŏng | Songch'ŏn-ri | Stone-lined pit<br>burials |
+| 13 | Haman | Sanae-ri | Pits with wood
+chambers |
+| 14 | Kosŏng | Songch'ŏn-ri | Stone-lined pit
+burials |
 
-| 15 | Hamch'ŏn | Okchŏn | Pits with wood<br>chambers |
+| 15 | Hamch'ŏn | Okchŏn | Pits with wood
+chambers |
 |----|----------|-------------|----------------------------|
-| 16 | Hamch'ŏn | Chŏp'o-ri | Pits with wood<br>chambers |
-| 17 | Hamch'ŏn | P'onggye-ri | Pits with wood<br>chambers |
-| 18 | Sŏngju | Yesan-dong | Pits with wood<br>chambers |
+| 16 | Hamch'ŏn | Chŏp'o-ri | Pits with wood
+chambers |
+| 17 | Hamch'ŏn | P'onggye-ri | Pits with wood
+chambers |
+| 18 | Sŏngju | Yesan-dong | Pits with wood
+chambers |
 
 ## **Refinements on Early" and "Late" Kaya**
 
@@ -3077,7 +3276,9 @@ It can be seen from the above discussion of the Taesŏng-dong cemetery compositi
 | ф | Chi'ilgok | φ | Yangmok † | |
 | ф | Chi'ilgok | φ | Kuam-dong † | |
 | M | Hapch'ŏn | 3 | Okchŏn* | Continued from Early Kaya |
-| M | Hapch'ŏn | 4 | Chŏp'o-ri* | Continued<br>from Early<br>Kaya |
+| M | Hapch'ŏn | 4 | Chŏp'o-ri* | Continued
+from Early
+Kaya |
 | M | Hapch'ŏn | 5 | Songnim-ri* | |
 | M | Hapch'ŏn | 6 | Ponggye-ri* | Continued from Early Kaya |
 | M | Hapch'ŏn | 7 | Ch'ang-ri* | |
@@ -3126,9 +3327,9 @@ It can be seen from the above discussion of the Taesŏng-dong cemetery compositi
 | X | Pusan | ϕ | Yŏnsan-donq † | |
 | * Late Kaya cemeteries from Kim T. S. (1991) | | | | |
 
-<sup>\*</sup> Late Kaya cemeteries from Kim T. S. (1991)
+\* Late Kaya cemeteries from Kim T. S. (1991)
 
-<sup>†</sup> pit-style stone chamber cemeteries from Kang H. S. (1990)
+† pit-style stone chamber cemeteries from Kang H. S. (1990)
 
 #### ϕ unmapped
 
@@ -3138,7 +3339,7 @@ The advent of stoneware production in the Kaya region is based on the excavation
 
 There is also debate concerning the stimulus for Kaya-type stonechamber construction. These chambers can be built in a variety of ways, with upright stone slabs to form a stone box (a cist), or with horizontally laid stone slabs in a dry-wall construction, or with boulders serving as wall stones and infilled with smaller stones. Studies of these types of burial structures in Yŏngnam find a surprising unity of construction (Kang H. S. 1990). Despite different floor treatment (paved or unpaved) and wall construction (slabstone or cist-style), 4th- and 5th-century stone chambers are of a kind quite distinct than that used after the beginning of the 6th century (with plastered walls and pitched roofs). In any case, the walls in pit-style stone chambers are intentionally constructed (Figure 7.4) and therefore differ greatly from the Silla tradition of mounded-stone burial see [Chapter 8, this volume]. Early burials in the Silla tradition are constructed as a pit in which a wooden chamber is placed, and then the pit is filled with stones and the whole burial mounded over with stones. Later burials have only a shallow depression in which the wooden chamber is placed or it is placed on level ground; then the chamber is mounded over with stones and then earth.
 
-Choi B. H. postulates that Kaya-type stone-chamber construction results from the Silla influence of mounded-stone construction (1990, 1994). Here a northeastern Chinese derivation is proposed (Hong 1994). In none of these discussions has Japan been cited as a possible source even though pitstyle stone chamber tombs were widespread in the western Japanese Islands in the 4th century. Conversely, Yŏngnam archaeologists believe the Silla tradition to post-date the Kaya tradition by up to a century, and Shin K. C. (1993) postulates that the Silla burial type actually receives the influence of contemporary Yŏngnam wooden chamber construction for use in its stonepiled tombs. The different dating schemes for the Silla burials have been reviewed by Lee C. S. (1991), resulting in three different groupings of archaeological dating. The earliest stone-mounded wood-chamber burial in the Kyŏngju region is universally agreed to be Hwangnam-dong #109, which happens to be designated a royal tomb. Early chronologies made no distinctions between the different graves in #109, but recent datings distinguish between #109–1, 2 (late) and #109–3, 4 (early). <sup>10</sup> Current dating estimates for the early graves, based purely on relative and intuitive chronologies, vary between ca. 320 (Group 1 dating); ca. 410–20 (Group 2), and ca. 350–410 (Group 3). Thus, the early graves can be dated anywhere between ad 320 and 410 see [Chapter 8, this volume]. In the following discussion, a date of early 5th century will be adopted, based on other evidence that the emergence of a Silla elite in the visible archaeological record did not occur until the early 5th century. In contrast, the appearance of Kaya-type stone burials happened earlier, in the mid-4th century.
+Choi B. H. postulates that Kaya-type stone-chamber construction results from the Silla influence of mounded-stone construction (1990, 1994). Here a northeastern Chinese derivation is proposed (Hong 1994). In none of these discussions has Japan been cited as a possible source even though pitstyle stone chamber tombs were widespread in the western Japanese Islands in the 4th century. Conversely, Yŏngnam archaeologists believe the Silla tradition to post-date the Kaya tradition by up to a century, and Shin K. C. (1993) postulates that the Silla burial type actually receives the influence of contemporary Yŏngnam wooden chamber construction for use in its stonepiled tombs. The different dating schemes for the Silla burials have been reviewed by Lee C. S. (1991), resulting in three different groupings of archaeological dating. The earliest stone-mounded wood-chamber burial in the Kyŏngju region is universally agreed to be Hwangnam-dong #109, which happens to be designated a royal tomb. Early chronologies made no distinctions between the different graves in #109, but recent datings distinguish between #109–1, 2 (late) and #109–3, 4 (early). 10 Current dating estimates for the early graves, based purely on relative and intuitive chronologies, vary between ca. 320 (Group 1 dating); ca. 410–20 (Group 2), and ca. 350–410 (Group 3). Thus, the early graves can be dated anywhere between ad 320 and 410 see [Chapter 8, this volume]. In the following discussion, a date of early 5th century will be adopted, based on other evidence that the emergence of a Silla elite in the visible archaeological record did not occur until the early 5th century. In contrast, the appearance of Kaya-type stone burials happened earlier, in the mid-4th century.
 
 ![](_page_280_Figure_0.jpeg)
 
@@ -3170,7 +3371,7 @@ All the traditional founding dates for the early states of Silla, Koguryŏ, Paek
 
 those who use the dates at face value and those who reject them as being approximately two and a half to three centuries too early. In the case of Kaya, if ad 42 is used as is, then the six traditional Kaya entities would have existed in the Samhan period and we would expect them to be named in the Chinese chronicles. Instead, the Weizhi speaks of the twelve states of Pyŏnhan region of Samhan, including the one named (K.) Kuya. Many scholars consider that the Samhan polity of Kuya is an early manifestation of Kŭmgwan-Kaya, with supposed continuity in name and place (near modern Kimhae) (e.g. Kim D. S. 1993). A parallel situation exists in Silla historical studies where the Samhan polity of Saro is considered the forerunner of Silla (Lee J. W. 1982) see [Chapter 8, this volume]. Thus, a general chronology of Kaya history can be compiled from the above archaeological sources that does not rely on the early foundation date or Karak king list as given in the Karak Kukki chapter or the traditional founding date. If, as seems likely from archaeology, Kaya political development actually took off in the mid-3rd century or even early 4th century, the Karak king list can be compressed between ad 250/300–532, giving an average of approximately 30 years for each of ten kings.
 
-From the 5th century, Shin believes, the Kaya polities can be divided into three groups: those which affiliated with Silla, those which affiliated with Paekche, and those that remained independent (Shin K. C. 1992b). 11 In particular, it was the lower Naktong valley Kaya groups which came under the cultural influence of Silla, as shown from the sudden spread of Sillatype stoneware through the Pusan and Kimhae regions to Changnyŏn, Taegu, Kyŏngsan, and Sŏngju – as especially apparent at the Pokch'ŏn-dong and Chilsan-dong tomb excavations. By the mid-5th century, Shin postulates that the lower Naktong Kaya also came under the political influence of Silla, though he maintains that regional leaders were recognised and left in place by the Silla rulers in Kyŏngju as attested by continued Kaya tomb building. The independent Kaya region consisted of Haman, Hapch'ŏn, Kosŏng, Chinju, Kochŏng and Koryŏng – stretching along the southern Korean coast to the west. <sup>12</sup> According to Shin, the Tae-Kaya polity, located in the region of Koryŏng, became the dominant actor in this region in the mid-5th century, and Koryŏng-type pottery spread throughout the independent Kaya areas except for Haman by the end of the century. At this time, the region split into two, with Tae-Kaya and its dependents following Paekche but the Anra-Kaya polity in Haman, which had been the strongest Kaya polity in Yŏngnam in the 4th century, remaining untouched.
+From the 5th century, Shin believes, the Kaya polities can be divided into three groups: those which affiliated with Silla, those which affiliated with Paekche, and those that remained independent (Shin K. C. 1992b). 11 In particular, it was the lower Naktong valley Kaya groups which came under the cultural influence of Silla, as shown from the sudden spread of Sillatype stoneware through the Pusan and Kimhae regions to Changnyŏn, Taegu, Kyŏngsan, and Sŏngju – as especially apparent at the Pokch'ŏn-dong and Chilsan-dong tomb excavations. By the mid-5th century, Shin postulates that the lower Naktong Kaya also came under the political influence of Silla, though he maintains that regional leaders were recognised and left in place by the Silla rulers in Kyŏngju as attested by continued Kaya tomb building. The independent Kaya region consisted of Haman, Hapch'ŏn, Kosŏng, Chinju, Kochŏng and Koryŏng – stretching along the southern Korean coast to the west. 12 According to Shin, the Tae-Kaya polity, located in the region of Koryŏng, became the dominant actor in this region in the mid-5th century, and Koryŏng-type pottery spread throughout the independent Kaya areas except for Haman by the end of the century. At this time, the region split into two, with Tae-Kaya and its dependents following Paekche but the Anra-Kaya polity in Haman, which had been the strongest Kaya polity in Yŏngnam in the 4th century, remaining untouched.
 
 Kŭmgwan-Kaya was conquered by Silla during the reign of King Pŏphŭng in 532, and the Tae-Kaya was conquered under the Silla King Chinhŭng in 562. Thus by the late 6th century, Kaya had ceased to exist, although the royal house of Kŭmgwan-Kaya was apparently absorbed into the Kim line of Silla kings, known as the "new Kim line" with true-bone rank (Lee K. B. 1984: 50).
 
@@ -3227,7 +3428,7 @@ Kŭmgwan-Kaya was conquered by Silla during the reign of King Pŏphŭng in 532, 
 
 8The Chinese characters used for these sacrifices means "followers in death" and it is not clear whether they were voluntary or not; for an overview of sacrificial burials, see Kwŏn O. H. 1992.
 
-9See <u>Chapter 1</u> (this volume) the section on Kaya, for a discussion of the name "Mimana" as applied to the Kaya area.
+9See Chapter 1 (this volume) the section on Kaya, for a discussion of the name "Mimana" as applied to the Kaya area.
 
 10Cf. Lee C. S. 1991: chronological chart.
 
@@ -3267,9 +3468,9 @@ Bronze Age (BA) = 1st millennium bc
 
 #### **Pre-Silla Kyŏngju**
 
-In the Late Iron Age (1st to 3rd centuries ad) the archaeology of the Kyŏngju basin is virtually indistinguishable from the rest of the Yŏngnam region (southeastern Korea). This means that on the basis of material culture, we cannot see a major distinction between the areas that later become Kaya and Silla. The burial record of Yŏngnam in the Late Iron Age is characterised first by wooden coffin (mokkan) burial, then by wooden coffins contained within wooden outer chambers (mokkwak).<sup>2</sup> The more elaborate double wooden structures yield narrow bronze swords and iron materials plus Wajil pottery (a hard-fired, grey earthenware). The inclusion of Han Dynasty prestige goods from China and fine, locally made bronze swords in some of the graves suggests that social hierarchies enabled certain persons to gain access to specially made objects either through trade or local production. However, the cemeteries of this time do not show any spatial separation or elaborate facilities for those persons buried with such goods. Therefore, it is difficult to see the kind of social stratification postulated by Lee J. W. for the emergence of a strong and predatory Sarŏ state at this time.
+In the Late Iron Age (1st to 3rd centuries ad) the archaeology of the Kyŏngju basin is virtually indistinguishable from the rest of the Yŏngnam region (southeastern Korea). This means that on the basis of material culture, we cannot see a major distinction between the areas that later become Kaya and Silla. The burial record of Yŏngnam in the Late Iron Age is characterised first by wooden coffin (mokkan) burial, then by wooden coffins contained within wooden outer chambers (mokkwak).2 The more elaborate double wooden structures yield narrow bronze swords and iron materials plus Wajil pottery (a hard-fired, grey earthenware). The inclusion of Han Dynasty prestige goods from China and fine, locally made bronze swords in some of the graves suggests that social hierarchies enabled certain persons to gain access to specially made objects either through trade or local production. However, the cemeteries of this time do not show any spatial separation or elaborate facilities for those persons buried with such goods. Therefore, it is difficult to see the kind of social stratification postulated by Lee J. W. for the emergence of a strong and predatory Sarŏ state at this time.
 
-Among the important pre-Silla sites in Kyŏngju, Choyang-dong serves as the type site for Wajil pottery, which now is recognized as the major chronological marker of the Late Iron Age in Yŏngnam. Prior to the Choyang-dong excavations between 1979–81, Wajil was subsumed under the former category of "Kimhae ware", and no distinction was made between high-fired grey earthenwares and stonewares [see <u>Chapter 3</u>, this volume]. The identification of Wajil allows a more accurate separation of Late Iron Age remains from proper Three Kingdoms-period remains and thus allows a more accurate assessment of the stages of Kyŏngju area development. Two Wajil dating schemes are available: a relatively detailed six-phase division (Ch'ŏi C. K. 1982), and a grosser two phase division which is more generally useful (Figure 8.1) (Shin K. C. 1989). Early Wajil overlaps with Plain pottery of the Bronze Age tradition, and Late Wajil pottery occurs together with early Kaya-type stoneware, which appeared in the 3rd century and marks the beginning of the Three Kingdoms pottery tradition.
+Among the important pre-Silla sites in Kyŏngju, Choyang-dong serves as the type site for Wajil pottery, which now is recognized as the major chronological marker of the Late Iron Age in Yŏngnam. Prior to the Choyang-dong excavations between 1979–81, Wajil was subsumed under the former category of "Kimhae ware", and no distinction was made between high-fired grey earthenwares and stonewares [see Chapter 3, this volume]. The identification of Wajil allows a more accurate separation of Late Iron Age remains from proper Three Kingdoms-period remains and thus allows a more accurate assessment of the stages of Kyŏngju area development. Two Wajil dating schemes are available: a relatively detailed six-phase division (Ch'ŏi C. K. 1982), and a grosser two phase division which is more generally useful (Figure 8.1) (Shin K. C. 1989). Early Wajil overlaps with Plain pottery of the Bronze Age tradition, and Late Wajil pottery occurs together with early Kaya-type stoneware, which appeared in the 3rd century and marks the beginning of the Three Kingdoms pottery tradition.
 
 ![](_page_292_Picture_1.jpeg)
 
@@ -3291,7 +3492,7 @@ The wooden chamber burials at Kujŏng-dong are part of a indigenous trend in cha
 
 These long graves contain the most iron of any Kyŏngju burials and the beginning of stoneware deposition. This trend has been interpreted as indicative of the hierarchization of Kyŏngju area society (Lee H. R. 1993). Particularly, Kujŏng-dong is viewed by some Kyŏngju archaeologists as a high-ranking burial in contrast to the lower ranks at nearby Choyang-dong. Many long wooden chamber burials have recently been excavated in the valleys surrounding the Kyŏngju basin (see Figure 8.3\).
 
-However, this indigenous trend appears to have been transcended by the adoption of a completely different burial structure using stone in the Three Kingdoms period. The addition of stone to Yŏngnam burial construction is somewhat of a throw-back to Bronze Age traditions.<sup>4</sup> Many of the stone cist and stone-lined burials of the Bronze Age produced elegant examples of decorated and unusually shaped bronze objects. The bronze tradition itself and stone-constructed burials are thought by many scholars to have been introduced through a migration of Tungus language speakers from Northeast Asia in the early 1st millennium bc. With the subjugation of the northern peninsula by the Han Dynasty court in 108 bc, these Bronze Age traditions seemed to have died out and were replaced by wood coffin and wooden chamber burial, as discussed above, under Chinese influence. Then, with the destruction of the Lelang commandery in 313 by Koguryŏ, a second wave of northeast Asian traditions can be seen on the southern peninsula. The institution of stone-piled burials, imported styles of horse trappings, and gold-working are the main manifestations of that influence in the Kyŏngju region.
+However, this indigenous trend appears to have been transcended by the adoption of a completely different burial structure using stone in the Three Kingdoms period. The addition of stone to Yŏngnam burial construction is somewhat of a throw-back to Bronze Age traditions.4 Many of the stone cist and stone-lined burials of the Bronze Age produced elegant examples of decorated and unusually shaped bronze objects. The bronze tradition itself and stone-constructed burials are thought by many scholars to have been introduced through a migration of Tungus language speakers from Northeast Asia in the early 1st millennium bc. With the subjugation of the northern peninsula by the Han Dynasty court in 108 bc, these Bronze Age traditions seemed to have died out and were replaced by wood coffin and wooden chamber burial, as discussed above, under Chinese influence. Then, with the destruction of the Lelang commandery in 313 by Koguryŏ, a second wave of northeast Asian traditions can be seen on the southern peninsula. The institution of stone-piled burials, imported styles of horse trappings, and gold-working are the main manifestations of that influence in the Kyŏngju region.
 
 ![](_page_296_Figure_0.jpeg)
 
@@ -3326,18 +3527,29 @@ However, this indigenous trend appears to have been transcended by the adoption 
 
 The typologies of stone burials in Yŏngnam used by East Asian scholars are extremely difficult to work with; there is no standard classification scheme, with a multitude of types and even different names used for the same type in the literature. The major distinction is between "pit-style stone chamber" burials and "stone-piled wood chamber" burials (Table 8.2). These constructions show significant differences in regional and status attributions (Figure 8.4). It is significant that the "stone-piled wood-chamber" burial is only present in the Kyŏngju region and it is completely different from the "pit-style stone chamber" in the rest of Yŏngnam. There is also some variation in the literature whether these are termed "tombs" (*pun* or *koburi*) or "graves" (*myo*). Logically it seems there should be a concomitant difference in size, with "tombs" having a large mound and graves not; however, there does not appear to be such a regular and strict distinction in the Korean terminology.
 
-The general Yŏngnam pit-style stone chamber is intentionally and carefully constructed of stones in a variety of ways: by placing flagstones on edge to form a box-shaped chamber, by laying slabstones flat in dry-wall construction, by using boulders as walls and filling the intertices with drywall stone construction, etc. Finally, the chamber is capped with wooden boards (early) or ceiling rocks (late). It is termed pit-style because the chamber is always built in a pit, never above ground.<sup>7</sup> Sometimes that pit might be filled with stones, but the distinctive aspect of this type is that the stone chamber itself is an architectural construction.
+The general Yŏngnam pit-style stone chamber is intentionally and carefully constructed of stones in a variety of ways: by placing flagstones on edge to form a box-shaped chamber, by laying slabstones flat in dry-wall construction, by using boulders as walls and filling the intertices with drywall stone construction, etc. Finally, the chamber is capped with wooden boards (early) or ceiling rocks (late). It is termed pit-style because the chamber is always built in a pit, never above ground.7 Sometimes that pit might be filled with stones, but the distinctive aspect of this type is that the stone chamber itself is an architectural construction.
 
-In contrast, the stone-piled burial uses stone in a less architectural manner. Early burials are constructed as a pit in which a wooden chamber is placed, and then the pit is filled with stones. Later burials have only a shallow depression in which the wooden chamber is placed or it is placed on level ground; then the chamber is mounded over with stones. In 1990, Ch'oi Byŏng-hyŏn published a definitive thesis on the appearance of Silla tombs, and he determined that the piled-stone burial style was adopted from Kurgan cultures in north Central Asia (Ch'oi B. H. 1990). His assessment, reaffirmed in 1994, is that the features of wooden chamber, piled stones, high earthen mound and outer kerb stones were adopted together as a set from a foreign culture (Ch'oi B. H. 1994). This view is currently being challenged by Lee Sung-ju, excavator of the Chungsan-ri site southeast of Kyŏngju, who has proposed an evolutionary scheme from wooden-chamber burial through a newly identified type of "stone-surround wood-chamber burial" to what he calls a "wood-chamber piled-stone burial" (in an inversion of Ch'oi's term) (Lee S. J. 1992a). 8 In his most recent research, Lee S. J. proposes that two types of stone-piled burial should be recognized (Lee S. J. 1996; Kim H. G. 1996). Type A (wooden chamber in a stone-filled pit) appears in the terminal 3rd century, for example at Chungsan-ri in Ulsan (Lee S. J. 1992b), and continues throughout the Three Kingdoms period; <sup>9</sup> and Type B (stone-mounded wooden chamber covered with a high earthen mound) is the type of the royal Silla tombs and only occurs in central Kyŏngju (Lee S. J., pers. comm., Aug. 1996).
+In contrast, the stone-piled burial uses stone in a less architectural manner. Early burials are constructed as a pit in which a wooden chamber is placed, and then the pit is filled with stones. Later burials have only a shallow depression in which the wooden chamber is placed or it is placed on level ground; then the chamber is mounded over with stones. In 1990, Ch'oi Byŏng-hyŏn published a definitive thesis on the appearance of Silla tombs, and he determined that the piled-stone burial style was adopted from Kurgan cultures in north Central Asia (Ch'oi B. H. 1990). His assessment, reaffirmed in 1994, is that the features of wooden chamber, piled stones, high earthen mound and outer kerb stones were adopted together as a set from a foreign culture (Ch'oi B. H. 1994). This view is currently being challenged by Lee Sung-ju, excavator of the Chungsan-ri site southeast of Kyŏngju, who has proposed an evolutionary scheme from wooden-chamber burial through a newly identified type of "stone-surround wood-chamber burial" to what he calls a "wood-chamber piled-stone burial" (in an inversion of Ch'oi's term) (Lee S. J. 1992a). 8 In his most recent research, Lee S. J. proposes that two types of stone-piled burial should be recognized (Lee S. J. 1996; Kim H. G. 1996). Type A (wooden chamber in a stone-filled pit) appears in the terminal 3rd century, for example at Chungsan-ri in Ulsan (Lee S. J. 1992b), and continues throughout the Three Kingdoms period; 9 and Type B (stone-mounded wooden chamber covered with a high earthen mound) is the type of the royal Silla tombs and only occurs in central Kyŏngju (Lee S. J., pers. comm., Aug. 1996).
 
 Table 8.2 Major types of Yŏngnam burials using stone
 
 | | 3c | 4c | 5c | 6c |
 |------------------------------------------------------------------------------------------------|----|----|----|----|
-| (chŏksŏk mokkwak-pun)<br>stone-piled wood chamber burials | t~ | + | + | ~e |
-| (suhyŏl-sik sŏkkwak-pun)<br>pit-style stone chamber burials | | t~ | + | + |
-| (hoenghyŏl-sik sŏksil-pun)<br>coridor-chamber tombs | | | | m~ |
-| Key:<br>t<br>=terminal, e<br>=early, m<br>=middle<br>part<br>of<br>the<br>century, =from/to, + | | | | |
+| (chŏksŏk mokkwak-pun)
+stone-piled wood chamber burials | t~ | + | + | ~e |
+| (suhyŏl-sik sŏkkwak-pun)
+pit-style stone chamber burials | | t~ | + | + |
+| (hoenghyŏl-sik sŏksil-pun)
+coridor-chamber tombs | | | | m~ |
+| Key:
+t
+=terminal, e
+=early, m
+=middle
+part
+of
+the
+century, =from/to, + | | | | |
 
 =continues in.
 
@@ -3359,7 +3571,7 @@ Figure 8.4b Ch'onma-chŏng royal stone-piled wooden chamber: a wooden coffin and
 
 (above) vertical cross-section; (below) horizontal plan
 
-Such is the current debate over the definition of stone-piled burials. This is an important debate since Ch'oi B. H. has framed his definition as applying only to the royal Silla tombs and the intentional imitation of or even migration from the Kurgan culture of Kazakhstan and the Altai. Whether stone-piled burials existed in a lesser form and earlier in time than the royal tombs, and whether they are continuous with or just reflective of the royal tomb construction is the substance of that debate. The definition of a stone-piled wooden chamber also affects the dating of its appearance, as we shall see below, and assessments of its distribution. Everyone agrees that the royal Silla tombs, as defined by Ch'oi B. H., occur only in the Kyŏngju Basin; and earlier identifications of them far afield are now rejected.<sup>10</sup> But the lesser stone-piled burials defined by Lee S. J., as they appear in Kyŏngju's only access points to the ocean – in P'ohang in the north and Ulsan in the south – are no less interesting; they represent the maximum territorial distribution of the stonepiling custom which did not spread into greater Yŏngnam during the Three Kingdoms period despite the expansion of Silla political territory. 11
+Such is the current debate over the definition of stone-piled burials. This is an important debate since Ch'oi B. H. has framed his definition as applying only to the royal Silla tombs and the intentional imitation of or even migration from the Kurgan culture of Kazakhstan and the Altai. Whether stone-piled burials existed in a lesser form and earlier in time than the royal tombs, and whether they are continuous with or just reflective of the royal tomb construction is the substance of that debate. The definition of a stone-piled wooden chamber also affects the dating of its appearance, as we shall see below, and assessments of its distribution. Everyone agrees that the royal Silla tombs, as defined by Ch'oi B. H., occur only in the Kyŏngju Basin; and earlier identifications of them far afield are now rejected.10 But the lesser stone-piled burials defined by Lee S. J., as they appear in Kyŏngju's only access points to the ocean – in P'ohang in the north and Ulsan in the south – are no less interesting; they represent the maximum territorial distribution of the stonepiling custom which did not spread into greater Yŏngnam during the Three Kingdoms period despite the expansion of Silla political territory. 11
 
 It should be emphasised that such stone-piled burials, royal or lesser, did not exist in isolation but co-existed within Silla territory during the Three Kingdoms period with the more traditional burial structures of woodenchamber burials, jar burials, pit-chamber burials, and plain pit burials used by various levels of society. However, studies have yet to be done on how all these burial styles integrate into territorial, social, and political hierarchies for the emerging Silla state.
 
@@ -3369,15 +3581,15 @@ Towards the end of Three Kingdoms, an entirely different kind of tomb chamber is
 
 In addition to typology, a second difficulty in assessing Silla archaeology is that different schools of archaeologists disagree in their dating of the Silla tombs, varying by nearly a century. In the past, this disagreement has centred around the position of the Japanese-excavated tomb of Hwangnam #109 (chambers 3/4) (Saito 1937). Lee Chong-sŏn has described the disagreement as based on the use of different artifacts and/or constructions and the chronologies derived from these limited materials (Lee C. S. 1992).
 
-In his review of opinions on the datings of the Silla tombs, scholars in Group 1 base their chronological evaluations on the inner construction of the tomb as well as the grave goods; scholars in Group 2 place primary emphasis on the grave goods alone; while scholars in Group 3 utilize just the pottery. <sup>13</sup> Recent datings of Hwangnam #109–3/4 put it between ca. ad 320 (Group 1 dating); ca. ad 350–410 (Group 3), and ca. ad 410–20 (Group 2). It would be easier to deal with these schemes if the datings could be simply shifted back and forth 100 years or so, but the situation is more complex than that. Not all scholars give datings for every tomb, and even among those who give the same dating for Hwangnam #109–3/4 (e.g. Haraguchi, Fujii, Satome), other tombs are reversed in chronological order in their individual schemes.
+In his review of opinions on the datings of the Silla tombs, scholars in Group 1 base their chronological evaluations on the inner construction of the tomb as well as the grave goods; scholars in Group 2 place primary emphasis on the grave goods alone; while scholars in Group 3 utilize just the pottery. 13 Recent datings of Hwangnam #109–3/4 put it between ca. ad 320 (Group 1 dating); ca. ad 350–410 (Group 3), and ca. ad 410–20 (Group 2). It would be easier to deal with these schemes if the datings could be simply shifted back and forth 100 years or so, but the situation is more complex than that. Not all scholars give datings for every tomb, and even among those who give the same dating for Hwangnam #109–3/4 (e.g. Haraguchi, Fujii, Satome), other tombs are reversed in chronological order in their individual schemes.
 
 New shifts in the basis of the chronology have included the discovery of stone-piled tombs thought to be earlier than Hwangnam #109–3/4 in the Wŏlsŏng-no cemetery, located in Hwang'o-dong, Kyŏngju (KNM 1990). Burials Ka–6 and Ka–13 both yielded Kaya-type stoneware; Ka–29, a wooden coffin burial without stones, yielded a green tuff radial bracelet from the Japanese Islands, iron ingots possibly from Kaya, and armour lamellae possibly from Koguryŏ; and Ka–31 contained several mini-jar and stand combinations seemingly copied from Japanese-style Haji ware. These burials date from the 4th century and show not only the transition in Kyŏngju proper from wooden chamber burial (in Ka–29) to stone-piled burial (in Ka–6) but also the establishment of contact with other states in the region at this time. The utilization of the central Kyŏngju plains represents a new trend, suggesting both geographical centralization and spatial distancing from commoners in the burial of elites. This is the beginning of the process of social stratification, which is completed in the late 4th or early 5th century with the addition of large earthen mounds to the stone-piled tombs as known in Tumulus Park, the royal cemetery popular with present-day tourists located just 500m west of the Wŏlsŏng-no excavations.
 
 In terms of accommodations in the dating, Ch'oi Byŏng-hyŏn, the foremost advocate of 4th-century royal tomb dates, thinks Wŏlsŏng-no Ka– 6 is now the earliest royal stone-piled tomb, earlier than the more common candidate of Hwangnam #109–3/4 (Ch'oi B. H. 1990: 344; Ch'oi B. H.
 
-1993). In contrast, Lee Sung-ju does not consider #109–3/4 to be a royal tomb but a lesser stone-piled burial; he instead believes the earliest example of a royal Silla tomb to be Hwangnam #98 South Mound (pers. comm. Aug. 1996). The shift of focus from Hwangnam #109–3/4 to Hwangnam #98 is due to interest in the fabulous goldworking and other exotic artifacts excavated from the Hwangnam #98 North and South Mounds in 1974–5 (KMY 1985, 1996). <sup>14</sup> This shift is somewhat welcome since this is a tomb excavated recently with modern techniques, as opposed to the Japanese excavations of #109–3/4 in the early 20th century. Since #98 South Mound is the first in the chronological sequence to display Silla goldwork, the controversy over its dating is fierce, ranging between the middle 4th and the late 5th century. 15
+1993). In contrast, Lee Sung-ju does not consider #109–3/4 to be a royal tomb but a lesser stone-piled burial; he instead believes the earliest example of a royal Silla tomb to be Hwangnam #98 South Mound (pers. comm. Aug. 1996). The shift of focus from Hwangnam #109–3/4 to Hwangnam #98 is due to interest in the fabulous goldworking and other exotic artifacts excavated from the Hwangnam #98 North and South Mounds in 1974–5 (KMY 1985, 1996). 14 This shift is somewhat welcome since this is a tomb excavated recently with modern techniques, as opposed to the Japanese excavations of #109–3/4 in the early 20th century. Since #98 South Mound is the first in the chronological sequence to display Silla goldwork, the controversy over its dating is fierce, ranging between the middle 4th and the late 5th century. 15
 
-The controversy between Early and Late schools involves the dating of certain types of stirrups – those with long shanks versus those with short shanks (Ch'oi B. H. 1990: part 2, Chapter 4). Previous research identified the short-shanked version as an Old type and the long-shanked version as a New type (Onoyama 1966). <sup>16</sup> Shin Kyung Cheol, leader of the Late school of dating, believes in the evolution of short to long and a corresponding time lapse; since the Hwangnam #98 South Mound contains both, the tomb can only be the second half of the 5th century by his reckoning.
+The controversy between Early and Late schools involves the dating of certain types of stirrups – those with long shanks versus those with short shanks (Ch'oi B. H. 1990: part 2, Chapter 4). Previous research identified the short-shanked version as an Old type and the long-shanked version as a New type (Onoyama 1966). 16 Shin Kyung Cheol, leader of the Late school of dating, believes in the evolution of short to long and a corresponding time lapse; since the Hwangnam #98 South Mound contains both, the tomb can only be the second half of the 5th century by his reckoning.
 
 However, new discoveries particularly from northern Chinese tombs have scholars dividing into two groups: 1) those who date the stirrup to the 5th century with reference to the chronology of horse trappings and Sue stoneware occurring in the Japanese Kofun-period tombs, as correlated with the discoveries of the same object categories from the Kaya tombs on the south Korean coast (e.g. Lee H. J. 1995, Kim D. C. 1996); and 2) those scholars who date the stirrup to the 4th century by utilizing only the Kyŏngju burial data, with reference to excavations of horse trappings from northeastern Chinese tombs (Ch'oi B. H. 1990: Chapter 4). Kim D. C. (1996) has accused the latter group of totally ignoring the Kaya data and basing their chronology on unsubstantiated relative dating schemes for the poorly known Chinese materials. In this criticism, he has a valid point, since the Japanese scheme is extremely well developed and reliable in comparison to the sparsely excavated and sparely constructed Chinese artifact chronologies for this period.
 
@@ -3403,7 +3615,7 @@ Such is the state of controversy over the emergence of the earliest royal Silla 
 
 The royal Silla cemeteries (kobun-gun) with stone-piled burial construction are limited to the Kyŏngju Basin. Ch'oi Byŏng-hyŏn notes that most of these cemeteries are built on the central flat plains, with the notable exceptions of Pomun-dong tomb cluster (in a hilly area at the eastern basin edge), and Kŭmchok-ri tomb cluster (in the valley leading out of the basin to the west) (Ch'oi B. H. 1990: 93–6). The central Silla cemeteries are named after their current administrative addresses within Kyŏngju City: Kyo-dong, Inwangdong, Onung, Hwangnam-dong, Hwang'o-dong, Nosŏdong and Nodongdong. But these different names give a misleading impression that they were once coherent groupings. If one looks at the early map of the tomb distributions, one can see that the tombs spread out from the foot of Mt. Namsan in the south across the high ground to the northwest (cf. Figure 8.7\). This wide grouping includes the famous named tombs excavated by the Japanese in the decade between 1916 and 1926: Kŭmgwan-ch'ong (Gold Crown Tomb), Kŭmryŏng-ch'ong (Gold Bell Tomb), Sik-i-ch'ong (Ornamental Shoe Tomb), Sŏbong-ch'ong (Swedish Phoenix Tomb) and Kŏm-ch'ong (Sword Tomb), etc., as well as the fabulous discoveries from the recent Korean excavations at Hwangnam #98 discussed above and Ch'ŏnma-ch'ong (Flying Horse Tomb) (MK 1975).
 
-Within these royal cemeteries, scholars distinguish several types of structures (Figure 8.5; see Lee J. W. 1986 for some details). The first division is between large and small tombs; thereafter, they focus on the number and independence of the individual burial chambers. Many typological schemes have been presented,<sup>19</sup> but in general, tombs built with single chambers (with or without a separate accessory chamber for grave goods) are distinguished from others with multiple burials. Within the latter category are 1) those seemingly designed with adjacent multiple chambers (such as those found in Mich'u Locality 12 – Figure 8.5b), and 2) those which simply show successive burials through time like Hwangnam #109 itself (Figure 8.5c), which has two different layers of burials: the original early set of burial and accessory chambers at the base of the mound (chambers 3–4) and a later set of burial and accessory chambers higher up in the mound (chambers 1–2). Regardless of whether single or multiple, many of these burials show overlap and reuse of the space available, a situation that has social implications beyond the scope of this chapter.
+Within these royal cemeteries, scholars distinguish several types of structures (Figure 8.5; see Lee J. W. 1986 for some details). The first division is between large and small tombs; thereafter, they focus on the number and independence of the individual burial chambers. Many typological schemes have been presented,19 but in general, tombs built with single chambers (with or without a separate accessory chamber for grave goods) are distinguished from others with multiple burials. Within the latter category are 1) those seemingly designed with adjacent multiple chambers (such as those found in Mich'u Locality 12 – Figure 8.5b), and 2) those which simply show successive burials through time like Hwangnam #109 itself (Figure 8.5c), which has two different layers of burials: the original early set of burial and accessory chambers at the base of the mound (chambers 3–4) and a later set of burial and accessory chambers higher up in the mound (chambers 1–2). Regardless of whether single or multiple, many of these burials show overlap and reuse of the space available, a situation that has social implications beyond the scope of this chapter.
 
 In 1976 Kim Wŏn-yŏng attempted to identify the Sarŏ "six villages" with six mounded tomb groupings within the Kyŏngju basin (Kim W. Y. 1976). Lee J. W. has subsequently attempted to identify the tomb clusters of the Silla clans by assessing "the description of clans and their important members in historical accounts" (Lee J. W. 1986).
 
@@ -3465,7 +3677,7 @@ Archaeological theory for assessing the evidence of migrations is especially wea
 
 Without acceding to conquest theories, what can be said about the historical circumstances that might have encouraged the possible presence of Northeast and Central Asians in Kyŏngju or Kimhae (the respective heartlands of Silla and Kaya emergence)? The obvious answer is iron. As stated above, we know that the Pyŏn-Chin area of 3rd-century Yŏngnam was famous for its iron products and many peoples from the surrounding regions came to obtain them. With the fall of Lelang in 313 and the opening up of trading possibilities further afield in the 4th century, it is not surprising to find evidence – on the south coast first (in Kaya) and later inland in Kyŏngju – of contact with Inner Asians. A large question looms as to how horse-iding peoples might have arrived at the coastal outlets to trade: was their shipping technology adequate for overseas routes? Or did they arrive overland? Or were their traditional objects and ideas passed on through Koguryŏ? Regardless, the sudden availability of horseider goods and practices must have been very attractive to the Yŏngnam peoples after losing the Lelang buffer that had interceded between them and Northeast Asia in the previous centuries.
 
-The positioning of the Hwangsŏng-dong iron works in the northern Kyŏngju Basin must have been crucial to the economic underpinning of the emerging Silla polity. As mentioned above, some of the 4th-century Wŏlsŏng-no tombs yielded materials from the Japanese Islands, indicating possible trade of iron in that direction as well. Therefore, as with Kaya, the emergence of a strong and centralized Silla was probably predicated on the iron trade. In such a scenario, the appearance of foreign traders was probably capitalized on by the central basin Sarŏ in terms of adopting elements of exotic foreign material culture and possibly even the foreigners themselves into their social system in order to differentiate themselves from the other Sarŏ "villages". <sup>21</sup> Such a material and ethnic differentiation increased their status and power, leading to the emergence of the Kim clan as the first Silla rulers. In this scenario, indigenous continuity accompanied by gradual change through the 3rd century is capped with radical transformation in the late 4th century.
+The positioning of the Hwangsŏng-dong iron works in the northern Kyŏngju Basin must have been crucial to the economic underpinning of the emerging Silla polity. As mentioned above, some of the 4th-century Wŏlsŏng-no tombs yielded materials from the Japanese Islands, indicating possible trade of iron in that direction as well. Therefore, as with Kaya, the emergence of a strong and centralized Silla was probably predicated on the iron trade. In such a scenario, the appearance of foreign traders was probably capitalized on by the central basin Sarŏ in terms of adopting elements of exotic foreign material culture and possibly even the foreigners themselves into their social system in order to differentiate themselves from the other Sarŏ "villages". 21 Such a material and ethnic differentiation increased their status and power, leading to the emergence of the Kim clan as the first Silla rulers. In this scenario, indigenous continuity accompanied by gradual change through the 3rd century is capped with radical transformation in the late 4th century.
 
 In summary, during the 1st to 3rd centuries, the special nature of the Kyŏngju region is virtually invisible in the generalized Late Iron Age culture of Yŏngnam. Traditions such as wooden coffin burial and Wajil pottery were used throughout the region. The first aspect of Silla's separation from Kaya and the rest of Yŏngnam occurs in the development of the long wooden coffin burial. Second is the appearance of the lesser stonepiled burial, third is the development of a particular style of stoneware out of the Kaya style, and fourth is the adoption of the royal tomb style and gold-working tradition from Inner Asia. The first three currently occur across the temporal boundary between the late 3rd and mid-4th centuries, and the fourth somewhere between the mid-4th and mid-5th centuries.
 
@@ -3479,7 +3691,7 @@ In the art historical literature, the stoneware of the Three Kingdoms period is 
 
 **Figure 8.6** 5th-century Kaya and Silla stoneware compared: note the perforations offset from vertical in the Silla pedestals and their straight angle of flare as opposed to the curved flare of Kaya pedestals. From the early 6th century, Silla stoneware was adopted in the Tae-Kaya region in Naktong-west following the conquest of 562 (after Sadamori 1992: fig. 3)
 
-The Kaya shapes are undecorated, and pedestaled bowls have perforations that are arranged vertically in tiers. The defining characteristics of later Silla ware, in contrast, are a profusion of comb-marked and incised decoration; pedestal perforations that are offset from the vertical between tiers; and a long-necked jar that has a banded shoulder and straight projecting flared rim. <sup>23</sup> The appearance of Silla-type stoneware and its spread outwards from Kyŏngju have traditionally been interpreted respectively as reflecting the formation of the Silla state and its political expansion.
+The Kaya shapes are undecorated, and pedestaled bowls have perforations that are arranged vertically in tiers. The defining characteristics of later Silla ware, in contrast, are a profusion of comb-marked and incised decoration; pedestal perforations that are offset from the vertical between tiers; and a long-necked jar that has a banded shoulder and straight projecting flared rim. 23 The appearance of Silla-type stoneware and its spread outwards from Kyŏngju have traditionally been interpreted respectively as reflecting the formation of the Silla state and its political expansion.
 
 A particular problem in this expansion has been the status of the east bank of the Naktong River, especially the Pusan region. Since this area displays Silla-type stoneware from the beginning of the 5th century, many archaeologists (e.g. Takesue 1992) have postulated that Silla expanded its administrative territory first into this region. In fact, the Pokchŏn-dong tombs in Pusan are a source of great friction between Silla and Kaya scholars who each want to claim them for their own area. Typical of the tug of war is Lee Hee-Joon's recent reassessment of the cultural and political significance of the emergence of Silla-type pottery in Naktong-east (Lee H. J. 1996). Out of a general background of Kaya-type pottery which reaches all the way to Kyongju in the 4th century, Naktong-east shows the incremental appearance of unstandardized forms of Silla-type pottery in the late 4th century. From these conditions, Lee H. J. postulates that this area was part of the locus of development for this pottery style, which occurred without implications of political administration. By the time Silla pottery became standardized in the early 5th century, he describes the Pusan region as leaning more towards Silla culturally but remaining Kaya in affiliation until the 6th century.
 
@@ -3509,7 +3721,7 @@ Surrounding the Kyŏngju Basin are several fortress sites which protected the em
 
 ## **Silla's capital development**
 
-According to the specifications laid out above, Panwŏl-sŏng,<sup>25</sup> the most obvious walled fortress in the Kyŏngju Basin \(Figure 8.3F, 8.7), can be seen as a very early construction: it is located at low altitude near a river and has simple earth-mounded walls. It presumably functioned as the palace (Pak P. L. 1992; Tanaka 1995; Kim C. H. 1995) of the 4th–5th century Sarŏ-Silla entity until a gidded city was built modelled on the Tang Chinese plan on the plains just north of the fortress. Excavations have been recently conducted at both, showing Panwŏl-sŏng to have had a water access point on its northern side and revealing many large buildings with pillar foundation stones in the gidded city beyond (KKPC 1985). The Silla capital has traditionally been referred to as Kŭmsŏng, but it is not clear whether this name applied to Panwŏl-sŏng, the gidded capital or both.<sup>26</sup> The moat itself yielded 30 new wooden tablets, one of which was inscribed with "eighth street" (Cho YJ. & Nan SJ. 1990).
+According to the specifications laid out above, Panwŏl-sŏng,25 the most obvious walled fortress in the Kyŏngju Basin \(Figure 8.3F, 8.7), can be seen as a very early construction: it is located at low altitude near a river and has simple earth-mounded walls. It presumably functioned as the palace (Pak P. L. 1992; Tanaka 1995; Kim C. H. 1995) of the 4th–5th century Sarŏ-Silla entity until a gidded city was built modelled on the Tang Chinese plan on the plains just north of the fortress. Excavations have been recently conducted at both, showing Panwŏl-sŏng to have had a water access point on its northern side and revealing many large buildings with pillar foundation stones in the gidded city beyond (KKPC 1985). The Silla capital has traditionally been referred to as Kŭmsŏng, but it is not clear whether this name applied to Panwŏl-sŏng, the gidded capital or both.26 The moat itself yielded 30 new wooden tablets, one of which was inscribed with "eighth street" (Cho YJ. & Nan SJ. 1990).
 
 ![](_page_319_Figure_0.jpeg)
 
@@ -3530,9 +3742,9 @@ According to the specifications laid out above, Panwŏl-sŏng,<sup>25</sup> the 
 
 Unfortunately, the interior of Panwŏl-sŏng has not been excavated to any meaningful extent. The name of Chae-sŏng was inscribed on a roof tile discovered at the site, and the location of the "East Gate" was excavated in 1979–80 (Pak P. L. 1992: 67–9). However, this gate faces northeast, due to the fortress walls following the irregular, crescent-shaped hillock on which it is situated. Thus, it is likely that many references to directional gates in the Samguk Sagi refer instead to the later gidded city and palace on the plain rather than this earlier structure.
 
-As known from the Samguk Sagi, construction of the gided capital (Figure 8.7) proceeded apace during the reign of King Munmu (r. 661–681). One of the first things built was Anap-chi Pond in 674, suggesting that the canal system for supplying water to the capital and also draining the mud flats was a basic pre-requisite. The actual positioning of the gid has been reconstructed by Yun Mu-byŏng on the basis of limited excavations by the Kyŏngju Museum and Institute. <sup>27</sup> The size of the gid square has been determined as 140m NS x 160m EW, with 36 gid squares making up the capital; this differs greatly from the figures given in the Samguk Yusa ranging from 360 to 1360 gid squares (Kim C. H. 1995: 86).
+As known from the Samguk Sagi, construction of the gided capital (Figure 8.7) proceeded apace during the reign of King Munmu (r. 661–681). One of the first things built was Anap-chi Pond in 674, suggesting that the canal system for supplying water to the capital and also draining the mud flats was a basic pre-requisite. The actual positioning of the gid has been reconstructed by Yun Mu-byŏng on the basis of limited excavations by the Kyŏngju Museum and Institute. 27 The size of the gid square has been determined as 140m NS x 160m EW, with 36 gid squares making up the capital; this differs greatly from the figures given in the Samguk Yusa ranging from 360 to 1360 gid squares (Kim C. H. 1995: 86).
 
-The central avenue (Phoenix Boulevard?) is positioned as running from the centre of Panwŏl-sŏng in the south directly north to the palace quadrant. <sup>28</sup> The modern road corresponding to this avenue is not directly oriented true north-south; the east-west cross-streets conforming to it, which form the city streets of Kyŏngju today, are also tilted a bit to the northwest. In Tanaka Toshiaki's imposition of Yun's gid onto the plains topography (Tanaka 1995) this tilt has been ignored and the gid imposed with polar north-south referents (Figure 8.7). However, the tilt might indicate that magnetic north was used to lay out the gid, and magnetic north might have been different then than today. The palace quadrant at the north center of the gid unfortunately overlaps with the current North Tributary river bed. Whether the river had a different course at that time or the palace only utilized the available southwest corner of the quadrant is unknown. The archaeological site of Sŏngdong-dong is thought to equate with the palace from the terminal 7th century. The stone bidge that crossed the South Tributary just west of Panwŏl-sŏng, whose footings are still present today, conforms to this gid and was built at the time of the gid capital.
+The central avenue (Phoenix Boulevard?) is positioned as running from the centre of Panwŏl-sŏng in the south directly north to the palace quadrant. 28 The modern road corresponding to this avenue is not directly oriented true north-south; the east-west cross-streets conforming to it, which form the city streets of Kyŏngju today, are also tilted a bit to the northwest. In Tanaka Toshiaki's imposition of Yun's gid onto the plains topography (Tanaka 1995) this tilt has been ignored and the gid imposed with polar north-south referents (Figure 8.7). However, the tilt might indicate that magnetic north was used to lay out the gid, and magnetic north might have been different then than today. The palace quadrant at the north center of the gid unfortunately overlaps with the current North Tributary river bed. Whether the river had a different course at that time or the palace only utilized the available southwest corner of the quadrant is unknown. The archaeological site of Sŏngdong-dong is thought to equate with the palace from the terminal 7th century. The stone bidge that crossed the South Tributary just west of Panwŏl-sŏng, whose footings are still present today, conforms to this gid and was built at the time of the gid capital.
 
 The administrative system of the Six Divisions was established in the early 6th century, and as Tanaka Toshiaki writes, "to be a resident of the Six Divisions was to be a resident of the Capital." (Tanaka 1995: 139–40). He emphasizes that the distinction between Capital residents and outsiders was the basis for Silla's social status system and deeply connected with the kolp'um ranking system. If it was indeed the case that the Sarŏ villages in the adjoining valleys, whether originally six or not, were incorporated into the Silla conception of "central place", it is possible that we should not expect to see nuclear urbanization of the Kyŏngju plain before the establishment of the gidded city. In a decentralized "central place", the Kim clan palace at Panwŏl-sŏng would have formed the political focus, with the aristocracy scattered in their traditional settlements. The Kyŏngju plain to the northwest of Panwŏl-sŏng was already being used as a royal cemetery, leaving little stable land for permanent urbanization. However, there was plenty of open space for the gathering of the military forces that Silla needed for its unification expeditions. With a decentralized aristocracy, communication routes would have been of utmost importance to link the Silla king at Panwŏl-sŏng with his advisors and generals.
 
@@ -3930,25 +4142,25 @@ QUEEN: Anne 232; Aryŏng 41; Chindŏk 180–181, 184; Elizabeth II 232 RITUAL 5,
 RIVERS (including their basins): Ch'ong 4; Han 4, 15–16, 27, 32, 34–36, 42, 47, 59, 93, 99, 128, 132, 142, 164, 166, 168, 170, 223; Hun 4, 22– 23, 26; Hwangsan 182; Hyŏngsan 217, 227; Imjin 4; Kŭm 4, 85, 132, 142, 169, 172, 175; Liao 10, 12–15, 35, 61; Naktong 4, 28, 37–40, 81, 132, 143, [179](https://calibre-pdf-anchor.a/#a413), 182–183, 188, 196–198, 221–223; Paengma 175; Pei 10; Sungari 4, 26, 36; Taedong xv, 4, 13–14, 16, 18, 24–25, 43, 165; Tumen 4; Yalu 4, 10, 20, 23–25, 60, 155, 157, 165; Yangtze 185
 
 - SAMHAN (Three Han) 7, 16, 18, 19, 27–31, 37–38, 40, 46–48, 155, 190–191, 196–197, 203
-- SETTLEMENTS (including villages) <u>22–23</u>, <u>29</u>, <u>32</u>, <u>41</u>, <u>89</u>, <u>109</u>, <u>205</u>, <u>215–216</u>; *burgh* <u>x</u>; *oppidum* <u>x</u>; central places <u>227</u>; ceremonial centre <u>158</u>; primary centres <u>x</u>; secondary centres <u>x</u>; settlement pattern <u>89</u>, <u>152</u>, <u>158</u>, <u>175</u>; elite settlements <u>152</u>; settlement systems <u>159</u>, <u>172</u>; [see also walled sites, fortresses, archaeological sites]
-- SHIPS <u>181</u>, <u>185</u>; shipping technology 220 siLLA/Shilla/Old Silla [Xinluo] <u>xiv-xv</u>, <u>xxi</u>, <u>3-4</u>, <u>7-8</u>, <u>22</u>, <u>30-31</u>, <u>37</u>, <u>39</u>, <u>40-44</u>, <u>46-48</u>, <u>54-61</u>, <u>80-82</u>, <u>87</u>, <u>129</u>, <u>131-132</u>, <u>143</u>, <u>148</u>, <u>153-154</u>, <u>162-169-170</u>, <u>172</u>, <u>175-176</u>, <u>180</u>, <u>182-183</u>, <u>185</u>, <u>187-189</u>, <u>194</u>, <u>196-198</u>, <u>200</u>, **201-227**; *kolp'um* ranking system <u>226</u>; 'true-bone' rank <u>198</u>; [see also ceramic types: Silla; tombs]
+- SETTLEMENTS (including villages) 22–23, 29, 32, 41, 89, 109, 205, 215–216; *burgh* x; *oppidum* x; central places 227; ceremonial centre 158; primary centres x; secondary centres x; settlement pattern 89, 152, 158, 175; elite settlements 152; settlement systems 159, 172; [see also walled sites, fortresses, archaeological sites]
+- SHIPS 181, 185; shipping technology 220 siLLA/Shilla/Old Silla [Xinluo] xiv-xv, xxi, 3-4, 7-8, 22, 30-31, 37, 39, 40-44, 46-48, 54-61, 80-82, 87, 129, 131-132, 143, 148, 153-154, 162-169-170, 172, 175-176, 180, 182-183, 185, 187-189, 194, 196-198, 200, **201-227**; *kolp'um* ranking system 226; 'true-bone' rank 198; [see also ceramic types: Silla; tombs]
 - SOCIAL: change $\underline{x}$ , $\underline{xii}$ ; development $\underline{xiii}$ ; organization $\underline{x}$ , $\underline{7}$ , $\underline{88}$ , $\underline{148}$ ; processes $\underline{xv}$ ; relations $\underline{113}$ ; structure $\underline{82}$ , $\underline{89}$ ; system $\underline{xiv}$ , $\underline{82}$ , $\underline{86}$
-- SOCIAL EVOLUTION <u>xii</u>, <u>3–5</u>, <u>13</u>; chiefdom (*kunjang*, *chokjang*) [including chief] <u>xi</u>, <u>xiii–xiv</u>, <u>1</u>, <u>6</u>, <u>13</u>, <u>15–19</u>, <u>22</u>, <u>26</u>, <u>29–30</u>, <u>34</u>, <u>37</u>, <u>41</u>, <u>44</u>, <u>46</u>, <u>48</u>, <u>165</u>, <u>179</u>, <u>181–182</u>, <u>223</u>; complex society <u>ix–xi</u>; complex social development/formation <u>xii</u>, <u>xiv</u>, <u>31</u>, <u>89</u>; conical clan <u>41</u>; *developmental stages:* of Koguryŏ <u>21–22</u>; of Paekche <u>13</u>; [see also tribe]
+- SOCIAL EVOLUTION xii, 3–5, 13; chiefdom (*kunjang*, *chokjang*) [including chief] xi, xiii–xiv, 1, 6, 13, 15–19, 22, 26, 29–30, 34, 37, 41, 44, 46, 48, 165, 179, 181–182, 223; complex society ix–xi; complex social development/formation xii, xiv, 31, 89; conical clan 41; *developmental stages:* of Koguryŏ 21–22; of Paekche 13; [see also tribe]
 - SOCIAL STRATIFICATION 3, 6, 8, 27, 36, 42, 44, 46–48, 87–88, 113, 202–203, 211–212, 220; aristocracy xv, 5, 23, 33, 39, 42, 44, 81, 174; class society 14, 23, 87, 202, 220; commoners 5, 44, 46, 88, 158, 168–169, 197, 212; elites x, 5, 8, 14–15, 20, 35–36, 47–48, 88, 125, 128, 132, 142, 148, 152, 158, 160, 168–169, 174, 176, 186, 188, 196–197, 201, 232; royalty 23–24, 26, 33, 35, 43, 133, 176, 182, 186, 196–198, 211–212, 218, 232; social status 5, 8, 14, 16, 18–19, 27, 36, 44, 46, 81, 86–89, 126, 131, 144, 148, 185–186, 188, 218–220, 226
-- STATE <u>xiii</u>; attribution/definition <u>x</u>, <u>2</u>, <u>4</u>, <u>6</u>, <u>13</u>, <u>16</u>, <u>28</u>, <u>30</u>, <u>44</u>, <u>46–47</u>, <u>89</u>; archaic state (*kodae kukka*) <u>5</u>; city-state <u>15</u>; confederated kingdoms (*nyŏnmaeng wangguk*) <u>5</u>; empire <u>xiii</u>, <u>xiv</u>; *guo* [*guk*] <u>x</u>, <u>1</u>, <u>2</u>, <u>10</u>, <u>27–29</u>, <u>31</u>, <u>33</u>, <u>37–38</u>, <u>40</u>, <u>42</u>, <u>44</u>, <u>48</u>, <u>182</u>, <u>188–190</u>; Japanese <u>xiv</u>, <u>152</u>; kingdom <u>xiv–xv</u>, <u>5</u>, <u>24</u>, <u>28</u>, <u>83</u>, <u>152</u>, <u>186</u>; Korean <u>xiv–xv</u>; nation-states <u>xiv</u>; *polis* <u>x</u>; primitive state (*gensbi kokka*) <u>46</u>; regional state (*nyŏngyŏk*
+- STATE xiii; attribution/definition x, 2, 4, 6, 13, 16, 28, 30, 44, 46–47, 89; archaic state (*kodae kukka*) 5; city-state 15; confederated kingdoms (*nyŏnmaeng wangguk*) 5; empire xiii, xiv; *guo* [*guk*] x, 1, 2, 10, 27–29, 31, 33, 37–38, 40, 42, 44, 48, 182, 188–190; Japanese xiv, 152; kingdom xiv–xv, 5, 24, 28, 83, 152, 186; Korean xiv–xv; nation-states xiv; *polis* x; primitive state (*gensbi kokka*) 46; regional state (*nyŏngyŏk*
 
 
 kukka) 5; secondary states \underline{xiii}, 1; tribal state 5, 13, 22, 153; village state 41; walled-town state (s\breve{o}ng\bar{u}p\ kukka) 5, 13, 22, 29–30, 41, 153
 ## 
-STATE FORMATION/origins <u>xi</u>, <u>xv</u>; in Japan <u>xiii</u>; in Korea <u>xii–xiii</u>, <u>2</u>, <u>6–9</u>, <u>13</u>, <u>33</u>, <u>35</u>, <u>44</u>, <u>80</u>, <u>82</u>, <u>125</u>, <u>169</u>, <u>179</u>; causes <u>7</u>, <u>12</u>; organization <u>153</u>; processes <u>1</u>, <u>92</u>; theory <u>xii–xiii</u>, <u>1</u>, <u>6–7</u>
+STATE FORMATION/origins xi, xv; in Japan xiii; in Korea xii–xiii, 2, 6–9, 13, 33, 35, 44, 80, 82, 125, 169, 179; causes 7, 12; organization 153; processes 1, 92; theory xii–xiii, 1, 6–7
 
-STONE ARTEFACTS: adzes <u>144</u>; missiles <u>158</u>, <u>161</u>; sculptures <u>211</u>; whetstone <u>168</u>, <u>170</u>; [see also beadstone]
+STONE ARTEFACTS: adzes 144; missiles 158, 161; sculptures 211; whetstone 168, 170; [see also beadstone]
 
 STONEWARE (*kyŏngjil*) 92–124, 144–145, 201, 203, 220, 223, 232; production x, xii, xv, 112, 179; technology 92, 95, 106; reduction firing 93, 95, 97, 105; vitrification 101, 118–123; mullite 101–103, 109, 114, 118–119, 121, 123; Long kiln 99, 104–109, 112; Mantou kiln 103–106, 111; [see Ceramic types: Kaya, proto-porcelain, Silla, Sué, United Silla]
 
-SUBSISTENCE <u>xiv</u>, <u>25</u>, <u>88</u>, <u>164</u>, <u>169–170</u>, <u>176</u>; fishing <u>25</u>; hunting <u>25</u>, <u>22</u>, <u>24</u>, <u>26</u>; tools <u>161</u>, <u>168</u>; [see also agriculture, horse-breeding]
+SUBSISTENCE xiv, 25, 88, 164, 169–170, 176; fishing 25; hunting 25, 22, 24, 26; tools 161, 168; [see also agriculture, horse-breeding]
 
-TERRITORY: administration <u>15</u>, <u>222</u>, <u>226</u>; extent <u>12</u>, <u>21</u>, <u>34</u>, <u>45</u>, <u>156</u>, <u>176</u>, <u>182</u>, <u>188</u>; governance <u>5</u>, <u>24</u>, <u>34</u>, <u>151</u>, <u>223</u>; hierarchy <u>15</u>, <u>40</u>, <u>211</u>, <u>216</u>; *jun-xian* system <u>17</u>; land allocation <u>5</u>, <u>33–34</u>; prefecture <u>17</u>, <u>19</u>, <u>22</u>, <u>42</u>; principality <u>2</u>, <u>11</u>; six *bu* system <u>215</u>, <u>226</u>; territorial polity <u>22</u>, <u>24</u>; structure <u>40</u>; [see also border]
+TERRITORY: administration 15, 222, 226; extent 12, 21, 34, 45, 156, 176, 182, 188; governance 5, 24, 34, 151, 223; hierarchy 15, 40, 211, 216; *jun-xian* system 17; land allocation 5, 33–34; prefecture 17, 19, 22, 42; principality 2, 11; six *bu* system 215, 226; territorial polity 22, 24; structure 40; [see also border]
 
 ## Three Han [see Samhan]
 
@@ -3956,14 +4168,14 @@ TERRITORY: administration <u>15</u>, <u>222</u>, <u>226</u>; extent <u>12</u>, <
 
 ## Three Kingdoms states of Korea 3, 31, 36, 46
 
-TOMBS <u>x</u>, <u>3</u>, <u>20</u>, <u>27</u>, <u>42</u>, <u>44</u>, <u>80</u>, <u>86–87</u>, <u>125–149</u>, <u>201</u>, <u>224</u>; horizontal-entry chamber tombs <u>20</u>, <u>87</u>, <u>131</u>, <u>196</u>, <u>208</u>, <u>210–211</u>, <u>213</u>, <u>223</u>, <u>231</u>; keyhole-shaped <u>129</u>; Koguryŏ-type pyramidal <u>36</u>, <u>47</u>, <u>130</u>; mounded tomb culture <u>8</u>, <u>42</u>, <u>46</u>; mounded tombs <u>36</u>, <u>40</u>, <u>44</u>, <u>46–47</u>, <u>89</u>, <u>128–129</u>, <u>131–132</u>, <u>151</u>, <u>188</u>, <u>208</u>, <u>215</u>, <u>218</u>; multiple-chamber tombs <u>82</u>; mural tombs <u>20</u>, <u>126–128</u>, <u>130</u>, <u>138</u>; royal <u>8</u>, <u>38</u>, <u>197</u>, <u>209–212</u>, <u>214</u>, <u>216</u>, <u>220</u>; Silla-type stone/earth-mounded <u>195</u>, <u>209–211</u>, <u>216</u>, <u>223</u>, <u>231</u>; 'spirit paths' <u>211</u>; *named tombs:* **Chinju** <u>184–185</u>; **Ch'ŏnma-ch'ong** (Heavenly Horse, #155) <u>81</u>, <u>209</u>, <u>214</u>; **Dong Shou** <u>127–128</u>; **First Emperor of Qin** <u>126</u>; **Kŏm-ch'ong** (Sword) <u>214</u>; **Kümgwan-ch'ong** (Gold Crown) <u>214</u>; **Kumryŏngch'ong** (Gold Bell) <u>214</u>; **Kurohimeyama** 
+TOMBS x, 3, 20, 27, 42, 44, 80, 86–87, 125–149, 201, 224; horizontal-entry chamber tombs 20, 87, 131, 196, 208, 210–211, 213, 223, 231; keyhole-shaped 129; Koguryŏ-type pyramidal 36, 47, 130; mounded tomb culture 8, 42, 46; mounded tombs 36, 40, 44, 46–47, 89, 128–129, 131–132, 151, 188, 208, 215, 218; multiple-chamber tombs 82; mural tombs 20, 126–128, 130, 138; royal 8, 38, 197, 209–212, 214, 216, 220; Silla-type stone/earth-mounded 195, 209–211, 216, 223, 231; 'spirit paths' 211; *named tombs:* **Chinju** 184–185; **Ch'ŏnma-ch'ong** (Heavenly Horse, #155) 81, 209, 214; **Dong Shou** 127–128; **First Emperor of Qin** 126; **Kŏm-ch'ong** (Sword) 214; **Kümgwan-ch'ong** (Gold Crown) 214; **Kumryŏngch'ong** (Gold Bell) 214; **Kurohimeyama** 
 
 - 151; Mancheng 126, 129; Mesuriyama 148; Mich'u 81; Muryŏng 36; Omaruyama 151; Sik-i-ch'ong (Ornamental Shoe) 214; Shikinzan 151; Sŏbong-ch'ong (Swedish Phoenix) 214; Ssangsang-chŏng (Twin Tomb, Hwangnam Taech'ŏng #98) 81, 210, 212–214, 231; Suro 181; Three-Chambered 130; Wu Liang 11; Yuantaizi 232; [see also cemeteries]
-- TRADE <u>xiii-xiv</u>, <u>7</u>, <u>12</u>, <u>14</u>, <u>18-20</u>, <u>25-26</u>, <u>31</u>, <u>40</u>, <u>42</u>; <u>84</u>, <u>168</u>, <u>170</u>, <u>185</u>, <u>187-188</u>, <u>203-204</u>, <u>220</u>; exchange <u>14</u>; diplomatic <u>18</u>; direct <u>15</u>; down-the-line <u>15</u>; imports <u>31</u>, <u>188</u>; Yellow Sea trading network <u>89</u>
-- TRADE GOODS: beads <u>84</u>; brocade <u>18</u>; bronze mirrors <u>18</u>; ceramics <u>84</u>, <u>168–169</u>; iron <u>86</u>; jade <u>18</u>; lacquerware <u>18</u>; seals (gold, bronze, silver) <u>18</u>; silk <u>18</u>; timber <u>18–19</u>; vermilion <u>18</u>; weapons <u>19</u>; armour <u>143</u>
+- TRADE xiii-xiv, 7, 12, 14, 18-20, 25-26, 31, 40, 42; 84, 168, 170, 185, 187-188, 203-204, 220; exchange 14; diplomatic 18; direct 15; down-the-line 15; imports 31, 188; Yellow Sea trading network 89
+- TRADE GOODS: beads 84; brocade 18; bronze mirrors 18; ceramics 84, 168–169; iron 86; jade 18; lacquerware 18; seals (gold, bronze, silver) 18; silk 18; timber 18–19; vermilion 18; weapons 19; armour 143
 - TRIBE (pujŏk) 4–7, 13, 16, 21–25, 28, 41; tribal chiefs 19; tribal group 12; tribal leader 15; tribal leagues (pujŏk nyŏnmaeng wangguk) 5, 7, 29; tribal society (pujŏk sahoe) xi, 5, 28–29, 44; tribal state (pujŏk kukka) 5, 13, 22, 29; tribal units 28; tribal union 37, 41
 - UNIFICATION: by Silla (AD 668) $\underline{x}$ , $\underline{xv}$ , $\underline{3}$ , $\underline{43}$ , $\underline{201}$ , $\underline{223-224}$ , $\underline{231}$ ; of Germany $\underline{xiv}$ ; by Qin $\underline{10}$ ; of Samhan $\underline{30}$ ; of Mahan $\underline{35}$ ; not of Kaya $\underline{39}$ , of Saro villages $\underline{41}$
-- URBAN <u>x</u>, <u>30</u>, <u>36</u>, <u>89</u>, <u>153–154</u>, <u>158–159</u>, <u>164–169</u>, <u>176</u>, <u>227</u>; functional differentiation <u>152</u>, <u>156</u>, <u>158</u>, <u>160</u>, <u>169–174</u>; gidded cities <u>42</u>, <u>174–175</u>, <u>218</u>, <u>224–226</u>
+- URBAN x, 30, 36, 89, 153–154, 158–159, 164–169, 176, 227; functional differentiation 152, 156, 158, 160, 169–174; gidded cities 42, 174–175, 218, 224–226
 - WALLED SITES x, 1, 5, 15, 18, 29, 31, 36, 42, 152–177, 182; typology 155–156; walled town (cheng; song) 153; Chaesŏng [=Panwŏl-sŏng] 226, 232; Chinhae Kwisan 158–161; Chŏksŏng 160–162, 164, 232; Ch'ŏngpung T'osŏng 160–162, 164; Ch'ŏnsaeng Sansóng 232; Great Wall of China 175; Hwajang-sŏng 224; Hwandosŏng [=Shanchengzi?] 21, 23–24, 60, 165–166; Isŏng Sansŏng 160–162, 164, 169–172, 176, 223–224; Kanmun-sŏng 207; Kohŏ-sŏng 207; Könchŏnchak-sŏng 207; Kümchŏng Sansŏng 159–160; Kümdol Sansŏng 232; Kungnae-sŏng 20, 165; Kungwŏn-sŏng 224; Kwanmun Changsŏng 157; Kwanmun Shindaeri 162; Kwisan Sansŏng 232; Masan Sansŏng 169–170; Mongch'on T'osŏng [=Wirye-sŏng?] 32, 36, 128–129, 131, 160–161, 164, 166–170, 172, 175–176; Myŏnghwa Sansŏng 207; Namsan Sansŏng 224;
 
 Namsan Shinsŏng 207; Namsan T'osŏng 207; Nong'o-ri Sansŏng 132, 137; Onori Sansŏng 232; Panwŏl-sŏng 175, 207, 217, 224–227, 232; Poksan-sŏng 224; Pukhyŏng Sansŏng 207, 224; Pusan-sŏng 207; Pusŏ Sansŏng [Sabi-sŏng] 160–161, 164, 172–174, 176; Samnyŏn Sansŏng 156, 160–161, 232; Shimpung-ri 153; Shindaeri-sŏng 207; Sinwŏl-sŏng [=Panwŏl-sŏng] 232; Sŏhyŏng Sansŏng 207; Sŏngnyŏng Sansŏng 232; Sunji-ri T'ośŏng 232; Talsŏng 153, 232; Todangsan T'osŏng 207; T'osŏng-ri 164–165; Upsŏng 225; Wŏl-sŏng [=Panwŏl-sŏng] 232; [see also fortifications, capitals]

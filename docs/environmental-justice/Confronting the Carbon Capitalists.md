@@ -1,3 +1,8 @@
+---
+title: "## **Confronting the Carbon Capitalists**"
+category: "environmental-justice"
+---
+
 ## **Confronting the Carbon Capitalists**
 
 ## **Date:** Tue, 11/20/2018 - 20:42
@@ -51,4 +56,5 @@ The fiercest resistance to these plans has come from the frontlines: Indigenous 
 | facebook.com/IWWEnvironmental Unionist Caucus |
 | twitter.com/IWWEUC |
 | Disclaimer: |
-| The views expressed here are not the official position of the IWW (or even the IWW's EUC)<br>and do not necessarily represent the views of anyone but the author's. |
+| The views expressed here are not the official position of the IWW (or even the IWW's EUC)
+and do not necessarily represent the views of anyone but the author's. |

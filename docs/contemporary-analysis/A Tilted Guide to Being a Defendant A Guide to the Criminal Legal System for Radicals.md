@@ -1,3 +1,8 @@
+---
+title: "## **A Tilted Guide to Being a Defendant: A Guide to the Criminal Legal System for Radicals**"
+category: "contemporary-analysis"
+---
+
 ## **A Tilted Guide to Being a Defendant: A Guide to the Criminal Legal System for Radicals**
 
 ## **Date:** Unknown

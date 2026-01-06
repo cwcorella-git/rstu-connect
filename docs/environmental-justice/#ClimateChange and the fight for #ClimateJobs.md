@@ -1,3 +1,8 @@
+---
+title: "## **#Climate Change and the fight for #Climate Jobs**"
+category: "environmental-justice"
+---
+
 ## **#Climate Change and the fight for #Climate Jobs**
 
 **Date:** Fri, 12/04/2015 - 16:08 **Source:** https://ecology.iww.org/node/1411**Tags:** green unionism, climate justice, just transition, renewable energy, green jobs, jobs versus environment, labor and environment By the Admin - A Green Trade Unionist in Bristol , December 1, 2015 Author's Note:

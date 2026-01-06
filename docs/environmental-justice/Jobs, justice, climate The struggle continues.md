@@ -1,3 +1,8 @@
+---
+title: "## **Jobs, justice, climate: The struggle continues**"
+category: "environmental-justice"
+---
+
 ## **Jobs, justice, climate: The struggle continues**
 
 ## **Date:** Sun, 01/17/2016 - 18:16
@@ -89,4 +94,5 @@ This book shows that there is enormous potential within the unions for a movemen
 | , April 2015, available at |
 | www.ecomodernism.org |
 | Disclaimer: |
-| The views expressed here are not the official position of the IWW (or even the IWW's EUC)<br>and do not necessarily represent the views of anyone but the author's. |
+| The views expressed here are not the official position of the IWW (or even the IWW's EUC)
+and do not necessarily represent the views of anyone but the author's. |

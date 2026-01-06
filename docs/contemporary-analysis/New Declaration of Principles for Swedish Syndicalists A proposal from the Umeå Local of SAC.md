@@ -1,3 +1,8 @@
+---
+title: "## **New Declaration of Principles for Swedish Syndicalists? A proposal from the Umeå Local of SAC**"
+category: "contemporary-analysis"
+---
+
 ## **New Declaration of Principles for Swedish Syndicalists? A proposal from the Umeå Local of SAC**
 
 ## **Date:** Unknown
@@ -44,7 +49,8 @@ https://www.sac.se/Insidan/Centralorganisationen/SAC-s-kongresser/Kongressen-202
 | Joakim |
 | 3 years 9 months ago |
 | In reply to Welcomebylibcom.org |
-| Sorry, must admit I haven't checked out the style guide. Will do and try to follow it. For some<br>reason I cannot edit and change the title above. |
+| Sorry, must admit I haven't checked out the style guide. Will do and try to follow it. For some
+reason I cannot edit and change the title above. |
 | R Totale |
 | 3 years 9 months ago |
 | In reply to Welcomebylibcom.org |
@@ -54,12 +60,14 @@ https://www.sac.se/Insidan/Centralorganisationen/SAC-s-kongresser/Kongressen-202
 
 | http://libcom.org/library/notes/content-guidelines/howto-article-submissions|
 |-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| There is a beautiful irony in that "HOWTO: article submissions" actually follows the exact<br>same format, mind. |
+| There is a beautiful irony in that "HOWTO: article submissions" actually follows the exact
+same format, mind. |
 | Fozzie |
 | 3 years 9 months ago |
 | In reply to Welcomebylibcom.org |
 | Joakim |
-| Sorry, must admit I haven't checked out the style guide. Will do and try to follow it. For some<br>reason I cannot edit and change the title above. |
+| Sorry, must admit I haven't checked out the style guide. Will do and try to follow it. For some
+reason I cannot edit and change the title above. |
 | No worries, Joakim, sorry to be such a pain in the arse :) |
 | Joakim |
 | 3 years 9 months ago |

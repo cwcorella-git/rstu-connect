@@ -1,3 +1,8 @@
+---
+title: "Torin's Passage"
+category: "contemporary-analysis"
+---
+
 # Torin's Passage
 
 ## "The Sky Above, The Sky Below"
@@ -776,27 +781,66 @@ A fast-moving, dramatic, scary scene showing the attempted murder of Torin and t
 
 | Time | Camera | Action |
 |------|---------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 22 | 8000: Shot of incense<br>burner | Open on close-up of incense burner peacefully smoking inside Royal Bedroom.<br>While we hold on this shot, we hear the first faint sounds of a storm brewing. |
-| 9 | Dolly shot | As we hear the first rumble, we rack focus to the bed, begin a slow dolly around<br>the incense burner, past it, and toward the bed. We hear a baby awakened by the<br>storm. The camera continues over the royal bed, revealing our King and Queen,<br>ending on the opposite side of the bed with the Queen in the foreground, where<br>we pause on her face, with her nearby hand showing us her royal ring. Her eyelids<br>flutter as she hears the child, but she does not fully awaken. |
-| 5 | Close up Pecand | Cut from Queen's hand to Pecand's hand, with rings aligned. Pecand opens his<br>royal ring, loads it with green powder. The camera zooms out from over Pecand's<br>shoulder as we again hear the storm and the now-distant cry of the baby in the<br>other room. Pecand turns slightly as he hears the cry, but his face remains in<br>shadow. |
-| 7 | Back to dolly shot | We cut back to the royal bedroom as the camera passes the end of the bed and<br>sweeps by the hallway door. We see Lycentia enter through the doorway. The<br>camera continues its move, taking her out of frame as it sweeps toward the crib.<br>As the camera finishes its move, we see Lycentia bend over the crib and pick up<br>the child. |
-| 5 | Reverse wide angle | Cut to a reverse wide angle shot from over the Queen's shoulder. Lycentia walks<br>towards the terrace as the Queen goes back to sleep. |
-| 6 | Wide angle terrace | Lycentia exits bedroom, enters terrace and sits on the terrace railing. The baby's<br>cries weaken, even though the storm continues to build. |
+| 22 | 8000: Shot of incense
+burner | Open on close-up of incense burner peacefully smoking inside Royal Bedroom.
+While we hold on this shot, we hear the first faint sounds of a storm brewing. |
+| 9 | Dolly shot | As we hear the first rumble, we rack focus to the bed, begin a slow dolly around
+the incense burner, past it, and toward the bed. We hear a baby awakened by the
+storm. The camera continues over the royal bed, revealing our King and Queen,
+ending on the opposite side of the bed with the Queen in the foreground, where
+we pause on her face, with her nearby hand showing us her royal ring. Her eyelids
+flutter as she hears the child, but she does not fully awaken. |
+| 5 | Close up Pecand | Cut from Queen's hand to Pecand's hand, with rings aligned. Pecand opens his
+royal ring, loads it with green powder. The camera zooms out from over Pecand's
+shoulder as we again hear the storm and the now-distant cry of the baby in the
+other room. Pecand turns slightly as he hears the cry, but his face remains in
+shadow. |
+| 7 | Back to dolly shot | We cut back to the royal bedroom as the camera passes the end of the bed and
+sweeps by the hallway door. We see Lycentia enter through the doorway. The
+camera continues its move, taking her out of frame as it sweeps toward the crib.
+As the camera finishes its move, we see Lycentia bend over the crib and pick up
+the child. |
+| 5 | Reverse wide angle | Cut to a reverse wide angle shot from over the Queen's shoulder. Lycentia walks
+towards the terrace as the Queen goes back to sleep. |
+| 6 | Wide angle terrace | Lycentia exits bedroom, enters terrace and sits on the terrace railing. The baby's
+cries weaken, even though the storm continues to build. |
 | 7 | Sky shot | The storm clouds suffocate the two moons. (Symbolism warning!!) |
-| 5 | Pecand's room | Pecand pulls his robe's hood up and over his head as he walks into the camera,<br>his body eventually filling the screen. |
+| 5 | Pecand's room | Pecand pulls his robe's hood up and over his head as he walks into the camera,
+his body eventually filling the screen. |
 
-| 5 | Reverse of Pecand's<br>room | Pecand walks out of the camera, exits his room, and heads down the main hallway<br>to the royal bedroom. |
+| 5 | Reverse of Pecand's
+room | Pecand walks out of the camera, exits his room, and heads down the main hallway
+to the royal bedroom. |
 |-----|-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 6 | High angle bedroom | Pecand enters the royal bedroom. He looks at the bed, then the crib, then heads<br>toward the incense burner. |
-| 9 | CU incense burner | Pecand's hand opens the incense burner, and in a matching move, opens his ring.<br>He pours in the green powder. The thunder churns, growing nearer. |
-| 7 | Zoom out | Lightning flashes and thunder booms simultaneously, as our camera zooms out to<br>reveal Pecand's evil smile for the first time. He watches the green smoke snakes<br>form, then turns and quickly exits frame. |
+| 6 | High angle bedroom | Pecand enters the royal bedroom. He looks at the bed, then the crib, then heads
+toward the incense burner. |
+| 9 | CU incense burner | Pecand's hand opens the incense burner, and in a matching move, opens his ring.
+He pours in the green powder. The thunder churns, growing nearer. |
+| 7 | Zoom out | Lightning flashes and thunder booms simultaneously, as our camera zooms out to
+reveal Pecand's evil smile for the first time. He watches the green smoke snakes
+form, then turns and quickly exits frame. |
 | 8 | High angle bedroom | Pecand exits to the hallway as the smoke snakes grow ever more powerful. |
-| 6 | Low angle on snakes | Cut to medium shot of the incense burner with the snakes growing out and head<br>ing right for the camera. Our camera pulls back toward the King's POV, backing<br>away from the snakes, but they're too fast. They overtake the camera, filling the<br>frame, implying the King's suffocation. |
-| 7 | CU Queen's hand | The frame begins to clear as the camera spins and turns to reveal the royal ring of<br>the Queen dropping lifeless off the side of the bed. |
-| 7 | wide angle terrace | Cut to terrace. Fat raindrops pour down now. Lycentia reacts to the rain and<br>heads back inside. |
-| 12 | High angle bedroom<br>camera move | Cut to high wide angle shot of royal bedroom as the smoke snakes regroup and<br>head for the cradle. Our camera zooms and twists in on the snakes at work, stop<br>ping on Lycentia in the distance reentering the bedroom from the terrace. Quick<br>rack focus to Lycentia. She sees what's happened and freezes in the doorway. |
-| 3 | Zoom in on Lycentia | Quick zoom to Lycentia's horror-stricken reaction. As she glances down at the<br>child, the camera pulls out to show her instinctively shield the child. |
-| 9 | End of high angle<br>move, new camera<br>move | Cut back to the previous shot of the snakes at work as the camera assumes the<br>snakes' POV. It quickly dollies along inside the bedroom wall, shooting out the<br>bedroom windows, following Lycentia as she runs across the terrace and down<br>the stairs. The camera stops as Lycentia disappears behind distant object. |
+| 6 | Low angle on snakes | Cut to medium shot of the incense burner with the snakes growing out and head
+ing right for the camera. Our camera pulls back toward the King's POV, backing
+away from the snakes, but they're too fast. They overtake the camera, filling the
+frame, implying the King's suffocation. |
+| 7 | CU Queen's hand | The frame begins to clear as the camera spins and turns to reveal the royal ring of
+the Queen dropping lifeless off the side of the bed. |
+| 7 | wide angle terrace | Cut to terrace. Fat raindrops pour down now. Lycentia reacts to the rain and
+heads back inside. |
+| 12 | High angle bedroom
+camera move | Cut to high wide angle shot of royal bedroom as the smoke snakes regroup and
+head for the cradle. Our camera zooms and twists in on the snakes at work, stop
+ping on Lycentia in the distance reentering the bedroom from the terrace. Quick
+rack focus to Lycentia. She sees what's happened and freezes in the doorway. |
+| 3 | Zoom in on Lycentia | Quick zoom to Lycentia's horror-stricken reaction. As she glances down at the
+child, the camera pulls out to show her instinctively shield the child. |
+| 9 | End of high angle
+move, new camera
+move | Cut back to the previous shot of the snakes at work as the camera assumes the
+snakes' POV. It quickly dollies along inside the bedroom wall, shooting out the
+bedroom windows, following Lycentia as she runs across the terrace and down
+the stairs. The camera stops as Lycentia disappears behind distant object. |
 ## | 145 | Total Time | Fade to black |
 
 ## \$\$" & '
@@ -805,27 +849,57 @@ A quick, light-hearted, amusing scene leading up to Torin's first big problem. A
 
 | Time | Camera | Action |
 |------|------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 10 | 9000: long shot from the<br>hill (medium shot for a<br>character on the hill) | Fade in on Fahrmans' farm in the distance. It's a beautiful spring evening,<br>foreground birds are singing, the sun is low. As we hold on this scene, a<br>beggar (Pecand in disguise) walks on-screen, then down the hill to the farm.<br>We can't see his face. As he passes, the singing birds scatter… |
-| 11 | 9001: Medium shot farm<br>(like existing game screen,<br>but showing roofs of barn<br>& house) | Torin's father calls from behind the barn, "Torin… Touring?" As he rounds<br>the corner of the barn, he mutters, "NOW where is he?" Torin enters over<br>the roof of the house. He does some fancy acrobatics, landing in the front<br>yard with a grin. |
+| 10 | 9000: long shot from the
+hill (medium shot for a
+character on the hill) | Fade in on Fahrmans' farm in the distance. It's a beautiful spring evening,
+foreground birds are singing, the sun is low. As we hold on this scene, a
+beggar (Pecand in disguise) walks on-screen, then down the hill to the farm.
+We can't see his face. As he passes, the singing birds scatter… |
+| 11 | 9001: Medium shot farm
+(like existing game screen,
+but showing roofs of barn
+& house) | Torin's father calls from behind the barn, "Torin… Touring?" As he rounds
+the corner of the barn, he mutters, "NOW where is he?" Torin enters over
+the roof of the house. He does some fancy acrobatics, landing in the front
+yard with a grin. |
 | 3 | 9002: C. U. of Father | His father sighs, "Torin, when are you going to grow up?" |
-| 10 | 9003: 2-shot of Father and<br>Torin | Torin looks dejected as his father continues: "Did you pick up those tools<br>from town like I told you?" |
+| 10 | 9003: 2-shot of Father and
+Torin | Torin looks dejected as his father continues: "Did you pick up those tools
+from town like I told you?" |
 | | | Torin, covering: "Uh, I thought I'd do that…tomorrow." |
 | | | Father: "No, I need 'em by mornin'." |
-| 8 | 9004: C. U. of Torin look<br>ing sheepish | Father continues, VO: "You get to town right now and be sure you're home<br>by dark! And don't fool around!" |
+| 8 | 9004: C. U. of Torin look
+ing sheepish | Father continues, VO: "You get to town right now and be sure you're home
+by dark! And don't fool around!" |
 | | | Torin, deferentially: "Yes, sir." |
-| 9 | 11000: Medium shot,<br>farmhouse exterior (exist<br>ing game shot) | As Torin heads off to town, his mother comes out the front door, while his<br>father heads back behind the barn. Mother: "Hurry home, Torin. Don't be<br>late for dinner!" |
+| 9 | 11000: Medium shot,
+farmhouse exterior (exist
+ing game shot) | As Torin heads off to town, his mother comes out the front door, while his
+father heads back behind the barn. Mother: "Hurry home, Torin. Don't be
+late for dinner!" |
 | | | Torin: "Okay, Mom. Bye." |
-| 18 | 9005: Medium shot from<br>past the Bridge looking | Torin heads up the trail onto the bridge and directly into the camera. He<br>appears to be talking to himself. "This is not what I want in life." |
-| | back down path towards<br>farmhouse | A pause, then, "I should be a hero." |
+| 18 | 9005: Medium shot from
+past the Bridge looking | Torin heads up the trail onto the bridge and directly into the camera. He
+appears to be talking to himself. "This is not what I want in life." |
+| | back down path towards
+farmhouse | A pause, then, "I should be a hero." |
 | | | Another pause, and again, "Heroes don't run errands!" |
 | | | Now he's on the bridge. Another pause. "Right, Boogle?" |
 | | | No response. He stops walking. "Boogle?" he asks questioningly. |
 | 5 | 9006: two shot for | He pokes in his pack. "BOOGLE!" he shouts. "Asleep again?" |
-| | Boogle's appearance | Boogle pokes his head out of Torin's pack, half in the bag. Torin and<br>Boogle exit shot. |
-| 13 | 9000: Return to long shot<br>of the farm from the hill | Torin walks up the hill with Boogle half in the bag, discouraged: "Oh,<br>Boogle. Is this all my life will ever be? Running errands to this little town?" |
-| | (same as Pecand's entrance<br>scene) | Torin comes into C. U. over the hill. Torin, disgusted: "I just don't want to<br>live my life without ever having lived my life!" |
-| 2 | | Suddenly, the sky lights up with a flash of light, and Boogle dives back into<br>the pouch. Torin spins around to face home. |
-| 3 | 9007: reverse C. U. of<br>Torin's face, green lighting | Cut to CU reverse. We see a look of terror on his face, lit with the green<br>glow. |
+| | Boogle's appearance | Boogle pokes his head out of Torin's pack, half in the bag. Torin and
+Boogle exit shot. |
+| 13 | 9000: Return to long shot
+of the farm from the hill | Torin walks up the hill with Boogle half in the bag, discouraged: "Oh,
+Boogle. Is this all my life will ever be? Running errands to this little town?" |
+| | (same as Pecand's entrance
+scene) | Torin comes into C. U. over the hill. Torin, disgusted: "I just don't want to
+live my life without ever having lived my life!" |
+| 2 | | Suddenly, the sky lights up with a flash of light, and Boogle dives back into
+the pouch. Torin spins around to face home. |
+| 3 | 9007: reverse C. U. of
+Torin's face, green lighting | Cut to CU reverse. We see a look of terror on his face, lit with the green
+glow. |
 
 5 9008: Medium shot, farmhouse (not existing game shot)
 
@@ -841,22 +915,39 @@ Torin returns home filled with horror. Pecand tricks Torin into searching The La
 
 | Time | Camera | Action |
 |------|-----------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 3 | 11000: Medium shot,<br>farmhouse (Existing game<br>shot) | Pecand is barely visible behind barrel. Scene and music calm down slightly. |
-| 6 | | Torin enters scene, crosses to door, enters house, cries out in disbelief:<br>"NO! They never hurt anyone! What happened?" |
-| 5 | | Pecand, in disguise, rises from behind the barrel, crosses to left of front<br>door, his voice shaking with phony fear: "I saw it. I saw everything!" |
-| 3 | | Torin exits house, looks at Pecand: "Who are you? What are you doing<br>here?" |
-| 8 | | Pecand: "I was just passing by when all that started. I was so scared, I hid<br>behind that barrel." |
-| 17 | 10000: tight 2-shot Torin's<br>face & Pecand's shrouded<br>face | Torin, ignoring Pecand: "Who could have done this?" |
+| 3 | 11000: Medium shot,
+farmhouse (Existing game
+shot) | Pecand is barely visible behind barrel. Scene and music calm down slightly. |
+| 6 | | Torin enters scene, crosses to door, enters house, cries out in disbelief:
+"NO! They never hurt anyone! What happened?" |
+| 5 | | Pecand, in disguise, rises from behind the barrel, crosses to left of front
+door, his voice shaking with phony fear: "I saw it. I saw everything!" |
+| 3 | | Torin exits house, looks at Pecand: "Who are you? What are you doing
+here?" |
+| 8 | | Pecand: "I was just passing by when all that started. I was so scared, I hid
+behind that barrel." |
+| 17 | 10000: tight 2-shot Torin's
+face & Pecand's shrouded
+face | Torin, ignoring Pecand: "Who could have done this?" |
 | 8 | | Pecand: "It must have been one powerful sorcerer." Softer: "Or sorceress!" |
 | 6 | | Torin, ignoring Pecand: "Why? And who around here has such power?" |
-| 10 | 10001: C. U. of Pecand's<br>shrouded face | Pecand: "No one I know." Pauses, then: "But once there was such a per<br>son…but, no, Lycentia's been gone for years." |
+| 10 | 10001: C. U. of Pecand's
+shrouded face | Pecand: "No one I know." Pauses, then: "But once there was such a per
+son…but, no, Lycentia's been gone for years." |
 | 3 | 10002: C. U. of Torin | Now Pecand has his attention. Torin: "Lycentia? Who's Lycentia?" |
-| 7 | 10001: C. U. of Pecand | Pecand: "Oh, I don't think it could possibly be her. She was banished to The<br>Lands Below years ago!" |
+| 7 | 10001: C. U. of Pecand | Pecand: "Oh, I don't think it could possibly be her. She was banished to The
+Lands Below years ago!" |
 | 5 | 10002: C. U. of Torin | Torin: "The Lands Below! She must have been evil to be sent there!" |
 | 5 | 10001: C. U. of Pecand | Pecand: "Yes. And there's no way you could ever find her down there!" |
-| 11 | 10003: medium 2-shot<br>Torin & Pecand | Torin pauses, then sets his resolve. "I know what I'll do. I'll find this Lycen<br>tia and force her to release my parents!" He turns away and exits frame to<br>right. |
-| 3 | | Pecand turns left finally revealing evil face and exits frame toward camera.<br>Pecand, under his breath, sarcastically: "I'm sure you will." |
-| 4 | 11000: Fahrman Ext (exist<br>ing game pic) | Pecand is gone. Torin is standing near the woodpile, at the starting point of<br>game. |
+| 11 | 10003: medium 2-shot
+Torin & Pecand | Torin pauses, then sets his resolve. "I know what I'll do. I'll find this Lycen
+tia and force her to release my parents!" He turns away and exits frame to
+right. |
+| 3 | | Pecand turns left finally revealing evil face and exits frame toward camera.
+Pecand, under his breath, sarcastically: "I'm sure you will." |
+| 4 | 11000: Fahrman Ext (exist
+ing game pic) | Pecand is gone. Torin is standing near the woodpile, at the starting point of
+game. |
 ## | 104 | Total Time | And thus the game begins… |
 
 ## ! "0 %/
@@ -1218,10 +1309,12 @@ The Eressdy Font is like a baptism or holy water font, except it contains a yell
 | | Green | 2 3 4 |
 | | Blue | 1 2 |
 | | White | changes to Pattern C below |
-| | Red | 1<br>4 |
+| | Red | 1
+4 |
 | | | |
 | Pattern C | Hole | Toggles stone # |
-| | Blue | 1<br>4 |
+| | Blue | 1
+4 |
 | | White | changes to Pattern D below |
 | | Red | 3 4 |
 | | Green | 1 2 3 |
@@ -1239,7 +1332,10 @@ The Eressdy Font is like a baptism or holy water font, except it contains a yell
 
 | Time | Camera | Action |
 |------|-------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 8 | 20000: L. S. of grand<br>royal hall | In a grandiose meeting room, men and women in robes stand by a long table<br>all are in turmoil, agitated, disarray. a soldier hurries in, walks to the Arch<br>Authority, Kurtzwell, the obvious authority figure. |
+| 8 | 20000: L. S. of grand
+royal hall | In a grandiose meeting room, men and women in robes stand by a long table
+all are in turmoil, agitated, disarray. a soldier hurries in, walks to the Arch
+Authority, Kurtzwell, the obvious authority figure. |
 | 3 | 20001: 2-shot | Soldier, quietly: "Sir, they were both there." |
 | 2 | | Room hushes. Kurtzwell: "And?" |
 | 3 | 20002: C. U. of soldier | Soldier, hushed: "They're gone." |
@@ -1257,7 +1353,8 @@ This is an SGI/VMD movie sequence.
 | Time | Camera | Action |
 |------|--------------------------|-----------------------------------------------------------------------------------|
 | 5 | 20100: POV of soldier | Soldiers search through woods. We see a small structure through leaves. |
-| 3 | Cut to C. U. of Lycentia | Lycentia huddles inside barn, holding the baby. VO of soldiers growing<br>closer. |
+| 3 | Cut to C. U. of Lycentia | Lycentia huddles inside barn, holding the baby. VO of soldiers growing
+closer. |
 | 3 | | VO of orders, sounds of soldiers searching |
 | 4 | C. U. of Lycentia | Baby fusses. Lycentia, fearful, tries to quiet baby |
 | 4 | | Door opens. Light from outside falls across Lycentia's body. |
@@ -1553,18 +1650,32 @@ All you can do in here is assume the position, throw up (the powder, that is), a
 | Time | Camera | Action |
 |------|-------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 6 | 30000: L. S. of grand chamber, with | He points down at a woman before him. |
-| | much echo. Arch-Authority Kurtzwell<br>sits behind a tall judge's bench | Kurtzwell: "Before I pass judgment, have you anything to say?" |
-| 4 | 30001: C. U. of Lycentia, submissive,<br>cowering, scared | Lycentia: "The child? Is he safe?" |
+| | much echo. Arch-Authority Kurtzwell
+sits behind a tall judge's bench | Kurtzwell: "Before I pass judgment, have you anything to say?" |
+| 4 | 30001: C. U. of Lycentia, submissive,
+cowering, scared | Lycentia: "The child? Is he safe?" |
 | 5 | 30002: C. U. of Kurtzwell at podium | Kurtzwell: "Far away, where he will come to no harm!" |
-| 10 | | Kurtzwell: "Although we suspect your involvement in the mur<br>der of our beloved royal couple, we could not find enough evi<br>dence to convict you." |
-| 13 | 30001: C. U. of Lycentia | Kurtzwell: "But since you were clearly guilty of kidnapping the<br>crown prince, you are hereby sentenced to spend the rest of your<br>life… in The Lands Below!" |
-| 3 | 30001: stay on Lycentia's face for hor<br>rified reaction | We hear the crowd gasp. |
-| 7 | 15200: Establishing shot of phenocryst<br>chamber | Kurtzwell: "I therefore order an Ostracizing Collar be fabricated<br>for you…" Kurtzwell's VO continues to pronounce sentence: |
-| 9 | 30004: C. U. of collar. | Kurtzwell VO: "…and placed around your neck…never to be<br>removed!" Collar snaps closed on the word "removed!" |
-| 13 | 15201: M. S. of Lycentia in phenocryst<br>chamber | Kurtzwell continues: "And should you ever attempt to return to<br>The Lands Above, the Collar will tighten until it chokes you…to<br>death!" |
+| 10 | | Kurtzwell: "Although we suspect your involvement in the mur
+der of our beloved royal couple, we could not find enough evi
+dence to convict you." |
+| 13 | 30001: C. U. of Lycentia | Kurtzwell: "But since you were clearly guilty of kidnapping the
+crown prince, you are hereby sentenced to spend the rest of your
+life… in The Lands Below!" |
+| 3 | 30001: stay on Lycentia's face for hor
+rified reaction | We hear the crowd gasp. |
+| 7 | 15200: Establishing shot of phenocryst
+chamber | Kurtzwell: "I therefore order an Ostracizing Collar be fabricated
+for you…" Kurtzwell's VO continues to pronounce sentence: |
+| 9 | 30004: C. U. of collar. | Kurtzwell VO: "…and placed around your neck…never to be
+removed!" Collar snaps closed on the word "removed!" |
+| 13 | 15201: M. S. of Lycentia in phenocryst
+chamber | Kurtzwell continues: "And should you ever attempt to return to
+The Lands Above, the Collar will tighten until it chokes you…to
+death!" |
 | | | Crowd sounds. |
 | | | Guards back away from Lycentia. |
-| 8 | 15201: M. S. of Lycentia X-porting out | Lycentia stands on the podium before the phenocryst. A guard<br>tosses the erresdy powder and she vanishes into the crystal. |
+| 8 | 15201: M. S. of Lycentia X-porting out | Lycentia stands on the podium before the phenocryst. A guard
+tosses the erresdy powder and she vanishes into the crystal. |
 ## | 78 | Total Time | Fade to black |
 
 ## ![](_page_45_Picture_2.jpeg)
@@ -1759,22 +1870,36 @@ Then you both walk to the focal point of the phenocrysts at the center of the ro
 
 | Time | Camera | Action |
 |------|-----------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 15 | 57002: Camera 2 from<br>ending establishes Pe | Each stands before a vidcryst portal and is able to see the other in the crystal.<br>Pecand: "I always felt you were innocent. Kurtzwell needed a scapegoat." |
+| 15 | 57002: Camera 2 from
+ending establishes Pe | Each stands before a vidcryst portal and is able to see the other in the crystal.
+Pecand: "I always felt you were innocent. Kurtzwell needed a scapegoat." |
 | | cand and Lycentia | He continues, syrupy sweet: "All these years away from your home…" |
-| | 40000: 2-shot favoring<br>Pecand | "…your family, your friends. You must be so bitter." |
+| | 40000: 2-shot favoring
+Pecand | "…your family, your friends. You must be so bitter." |
 | 5 | | Lycentia: "Perhaps. I've learned to use the darkness to get what I want." |
 | 4 | | Pecand: "I've heard you've become quite the powerful sorceress." |
 | 1 | | Lycentia: "Oh?" |
-| 5 | 40001: C. U. of Pecand | Pecand, continues, twisting the knife: "But, not quite powerful enough to<br>overcome the magic of that collar." |
-| 6 | 40002: C. U. of Lycentia | Lycentia, fingering collar: "Not yet, but perhaps soon. And when I do, I prom<br>ise revenge!" |
-| 5 | 40000: return to previous<br>2-shot | Pecand, unimpressed: "I'm sure." He dangles the lure, "But what if you could<br>return sooner?" |
+| 5 | 40001: C. U. of Pecand | Pecand, continues, twisting the knife: "But, not quite powerful enough to
+overcome the magic of that collar." |
+| 6 | 40002: C. U. of Lycentia | Lycentia, fingering collar: "Not yet, but perhaps soon. And when I do, I prom
+ise revenge!" |
+| 5 | 40000: return to previous
+2-shot | Pecand, unimpressed: "I'm sure." He dangles the lure, "But what if you could
+return sooner?" |
 | 4 | | Lycentia, disgustedly: "What? Hah! The collar will not be denied." |
 | 4 | | Pecand, casting the bait: "I…could release it for you." |
-| 12 | 40002: C. U. of Lycentia | Lycentia, laughs sarcastically: "Ha, ha, ha. Oh, Pecand. You know its spell<br>can only be broken by royalty." |
-| | | Now she can dig him: "And no matter how much you scheme, you'll never be<br>king as long as the boy lives!" |
-| 6 | stay on Lycentia for her<br>reaction | Pecand, unabashed, waits a beat, then continues: "Yes…but think, Lycentia!<br>Who sealed the collar?" |
-| 8 | C. U. of Lycentia | Lycentia, disgusted: "Kurtzwell! That…" Slowly realizing Pecand's drift:<br>"…Wait. Are you suggesting you could become Arch-Authority?" |
-| 7 | 40000: return to previous<br>2-shot | Pecand, setting the hook: "Let's just say if you'll do a small favor for me, I'll<br>do a large favor for you!" |
+| 12 | 40002: C. U. of Lycentia | Lycentia, laughs sarcastically: "Ha, ha, ha. Oh, Pecand. You know its spell
+can only be broken by royalty." |
+| | | Now she can dig him: "And no matter how much you scheme, you'll never be
+king as long as the boy lives!" |
+| 6 | stay on Lycentia for her
+reaction | Pecand, unabashed, waits a beat, then continues: "Yes…but think, Lycentia!
+Who sealed the collar?" |
+| 8 | C. U. of Lycentia | Lycentia, disgusted: "Kurtzwell! That…" Slowly realizing Pecand's drift:
+"…Wait. Are you suggesting you could become Arch-Authority?" |
+| 7 | 40000: return to previous
+2-shot | Pecand, setting the hook: "Let's just say if you'll do a small favor for me, I'll
+do a large favor for you!" |
 | 4 | | Lycentia, pauses: "And just what would that small favor be?" |
 | 5 | | Pecand chuckles. "Nothing, much. Just a little magic spell…" |
 ## | 76 | Total Time | Fade to black |
@@ -1913,148 +2038,7 @@ Assume the position, throw up the powder, and whisk away to Tenebrous.
 
 ## , & ! \$
 
-## &" <5 . %=
-
-| Time | Camera | Action |
-|------|-------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 7 | 40000: M. S. of Lycentia,<br>standing before the wall crys<br>tal | Pecand on screen: "…he's about to reach Tenebrous. I'm sure there's no<br>way he'll ever find you, but I just thought you'd want to…" |
-| 6 | | Lycentia, her voice rising throughout: "You old fool! 'No complications,'<br>you said. 'Simple,' you said!" |
-| 10 | | Lycentia becomes angry, starts to grow. As she grows, the collars tighten,<br>she chokes, grows dizzy, weakens. |
-| 9 | 40002: C. U. of Lycentia | Controlling herself, she recovers and continues: "I should have known<br>better! All right, I'll take care of it. I'll make sure he doesn't find me…or<br>his parents!" |
-| 4 | | Lycentia's voice lowers: "Now, when do finish the other half of our bar<br>gain?" |
-| 5 | 40001: C. U. of Pecand | Pecand: "In time, my dear. All in due time." |
-| 2 | 40000: First M. S., above | Pecand vanishes from screen. Crystal clears. |
-| 2 | | Lycentia turns off-screen and shouts: "DREEP!" |
-| 8 | 57002: Lycentia's lair estab<br>lishing shot | Dreep enters from off-screen. Lycentia: "Dreep, my 'pretty,' I have<br>someone I'd like you to meet." Dreep grunts with pleasure. |
-## | 53 | Total Time | Fade to black |
-
-## ![](_page_56_Picture_2.jpeg)
-
-#### Map of Region 5, Tenebrous tèn´e-bres is the dark zone surrounding the very center of the planet, with little natural light, and a dramatic Blade Runner look and feel, made of smooth, almost metallic, stone that's shiny damp with moisture, with strong horizontal directional light casting deep shadows everywhere. The sky here is very near the surface. Water drips everywhere. The people live in high-rise stalactites.
-
-Everything is dark and gloomy…except the people. They are near albinos, tall, thin, with large heads and skinny fingers, rather weak, with wispy thin blondish-white hair, or even no hair at all. They're also hilarious, full of oneliners and puns. Everyone has a smart-ass answer to everything, which is their way of over-compensating for their cimmerian environment.
-
-Your goal here is to get arrested and thrown out of their world into the Null Void, the absolute center of the planet Strata, where there is no gravity whatsoever. Cross the Void and on the other side you'll find at last, the entrance to Lycentia's Lair.
-
-## ()\*
-
-We see the phenocryst column but no ego. There is a huge explosion as your body reforms—in the same space as a large pipe! You drop to the floor, unconscious.
-
-Switch to Boogletory, select the Boogle-nurse icon and click it on Torin to see Boogle humorously administer first aid. Instead of mouth-to-mouth, he reaches through the interface, presses the Inventory button, selects the ammonia you picked up in Asthenia, and administers it to you. You awaken, none the worse for wear.
-
-If you climb the stack of boxes and crates in the corner, you find a heat vent in the upper-left corner of the screen. Use Leenah's knife to remove the grill on the heat vent. Crawl inside to safety.
-
-Now there's not much to do but crawl through the next three screens. As you near the far left edge of the third screen, you "bump your head" on the menu bar. Boogle fixes it for you, and you continue crawling. As soon as you enter the next scene, you take the world's longest fall through darkness. As you fall, you see the leg-O'-meat and the buzzard go by. You scream, "Boogle! Save us!!"
-
-Fortunately, you "achieve a soft landing"—in a flower bed near a phenocryst column, one of the few gardens in this otherwise dark world! Unfortunately, Boogle misunderstood your "save us" as "safe us," and so has transformed himself into a safe. He lands on your head, not hurting you, of course, since he's still only Boogle weight. You reach up, open his "safe-door" to reveal your face, and say, "Save us. I said, 'Save us!'" Upon which, Boogle turns red, then back to a Boogle.
-
-A nearby beat cop arrests for "cruelty to plants!" and hauls you off to jail. You are placed in a holding cell, pending your arraignment before the magistrate. Your knife is removed from Inventory and Boogle is not allowed to go in with you. Out your jail cell window, you helplessly watch as Dreep captures Boogle and carries him back to Lycentia's Lair.
-
-You appear before the judge and tell him of your fall from the phenocryst. He's sure that's impossible, as no one has used any phenocryst column for years. He warns you not to get arrested again, ("two strikes and you're out!") then orders the cop to return you to where he found you. He does and leaves you standing there, this time well outside the planter.
-
-Mrs. Plant strikes up a conversation with you. She tells you about R. Kyvest and the amphitheater.
-
-She complains about how "those chameleon silkworms are killing me and my friends here. If you would help us, my friends will help you ascend the Slippery Slope."
-
-So you look at the plants by her "roots" and we see a C. U. of the leaves. If you try to pluck a silkworm from a half-eaten leaf, it quickly scoots around to the backside of the leaf and stays there until you move the cursor. Back in the long shot there is a hot spot that reveals a C. U. of some "dawburr" plants. In the C. U., you take a dawburr, walk to the tree growing beside the Slippery Slope, talk to the "sentimental tree" until you make it "cry sap," then collect the sap that oozes from the tree with your dawburr, return to the silkworm C. U. and paint any silkworm's leaf with the sap. When it returns to the front of the leaf, the sticky sap slows it so much you are able to grab them before they can get to the back of the leaf. You only need to paint one. We'll do the others for you. Add four chameleon silkworms to Inventory.
-
-Return to the Slippery Slope. Now when you slowly move your cursor around over the grass you can hear the grass squeak "yea" or "nay." When you hear "yea," click the mouse without moving the cursor and you'll walk safely to that spot.
-
-Eventually you'll reach the top, where you see Tenebrous spread out before you. A large Hollywood Bowl-shaped amphitheater lies between you and the rest of the towns reminding you of the game's Table of Contents screen. The only available path leads backstage. You walk to the stage door and enter.
-
-Backstage you find an old set of bagpipes from high atop some storage shelves. Behind the magician is a colorful poster advertising another magician, but it's hanging upside down. You can take them both.
-
-Soon after you arrive, the tap-dancing centipede walks past, tossing his top hat and cane onto a table before exiting out the stage door. Once he's gone, you can take them both anytime.
-
-When you see the rabbit quit the archery act because he was nearly hit by the drunken archer again, the archer throws his bow against the back wall in disgust, grabs his jug and walks off-screen, never to be seen again. Once he's gone, you can take it anytime.
-
-If you talk to the blind magician practicing backstage, he shows you a card trick. After it fails, he bemoans how he "needs a better act." After watching it, you agree.
-
-After you've talked to the magician, you can talk to the rabbit, suggesting a new partner. The rabbit agrees to work with the magician, if you can assure him of better working conditions. After that, if you click the top hat on him, we watch you set down the top hat so the rabbit can climb inside. Congratulations. You now have a top hat with a rabbit inside. You can Give it to the Magician, but it's not enough.
-
-Combine the silkworms and the magician's poster in Inventory and the worms will create a beautiful paisley silk kerchief. You can give it to the Magician, but it's only enough if you've given him all the other items too.
-
-Manipulate the cane in Inventory to break it into a wand, plus a bunch of splinters, which you discard. You can give it to the Magician, but it's only enough if you've given him all the other items too.
-
-You can't combine all the magic trick ingredients in Inventory. But after you give the entire collection to the blind magician, he's so appreciative, he gives you his "Book of Magic Spells, Volume 7." ("I cain't read it anyways!") He says it should be enough to get you past any tough sorcerers you may find "in these parts!" The assistant director summons him on-stage to friendly reviews.
-
-At any time backstage, you can talk to the archivist, an old man with an crystcorder set up in a corner to record tonight's talent. Talk to him; trade him your voice for a shard with a recording of Lycentia's voice "so you'll know what she sounds like when you see her!"
-
-Once you have the bow and the Book of Magic Spells, the assistant director summons the acrobat on stage to perform. She leaves her rosin. Once she's gone, you can take it anytime.
-
-If you talk to the assistant director, he asks about your talent and says "we need musicians, but no more bagpipers! Come up with something different! I don't care if it's a musical saw, just get ready. You're on soon!"
-
-The whole time you were here, a carpenter has been building a set, sawing boards, then nailing them together. Once you have Lycentia's shard and the bagpipes, and have talked thoroughly to the carpenter, he's done. Now when you return to his location, you find him gone, his set gone, but his crosscut saw is still leaning against the wall. Once he's gone, you can take it anytime.
-
-If you combine the archer's bow and the saw in Inventory, you get a few scratchy, bad-sounding notes, with a clue about "your bow needs rosin."
-
-Combine the bow and the rosin in Inventory to create a better-sounding bow. Now if you combine the rosined bow and the saw in Inventory, you get a few lovely notes, with a clue about waiting your turn to go on.
-
-When you finally have the Book, the shard, the saw, and the rosined bow, the assistant director summons you to the stage to give your performance. Now you can walk behind the curtains. We see you from upstage as you cross and sit on a stool facing the empty house. If you click the saw on yourself, you announce "a medley of selections from The Lands Above," and you play until the show's director has you arrested again. Why? For impersonating a musician! ("Officer! You have tears in your eyes. Are you from The Lands Above too?" "No, I'm a musician!")
-
-The cop hauls you off to the same judge again, but without a stop in the jail cell this time. The judge is not very understanding! He sentences you to immediate ostracization: "Into the Null Void with him!" he cries.
-
-We cut to a scene showing the heavily locked vault door leading to the Null Void. The cop roughs you up a little this time, slamming you against the wall beside the door. We hear the sound of breaking glass as Lycentia's audcryst is shattered. Then, it's into the Null Void you go.
-
-Fortunately, you have the bagpipes to maneuver through the asteroids. As you float, you see the leg-O'-meat and the vulture one last time.
-
-Use the crystcorder to place the pieces of the broken shard back together in random ways to produce original voice snippets using actual audio samples. You want something like, "Mr. Watson, come here. I need you."
-
-But to confuse Dreep, you must arrange the correct shard pattern in the shard player: "Dreep. Come here. I need you!" Then you start the crystcorder playing, place it on an asteroid out in the Void, then ring Lycentia's doorbell and, during the short pause before Dreep opens the door, walk around the porch to the bottom side (upside down) spaceship-style. Dreep opens the door, hears Lycentia's voice, is obviously confused, but floats off towards Lycentia's voice, never to bother you again. You then slip around to the top of the porch and enter Lycentia's Lair and you're off to Chapter 6.
-
-## 0) 0)
-
-This old phenocryst column transportation chamber has been unused for years, so it's now serving as a locked storeroom to some unmentioned business. As you appear from the dusty phenocryst column, you reform partially inside a water pipe, causing it to explode and you to be rendered unconscious. Boogle jumps from your pouch and stands there, looking worried.
-
-No Inventory objects are active. No cursors are live except the Nurse icon in Boogletory.
-
-Your only course of action is to switch to the Boogletory, select the Nurse icon, and click it on Torin. Boogle then slaps your face, gives you CPR, and starts to give you mouth-to-mouth but does a "no way" take to the camera. He looks around in fear, then "breaks the fourth wall" by reaching way out over the interface, pressing the Inventory button, and selecting the ammonia from Inventory. He does a take, winks at the player, then holds it under ego's nose, finally tosses the ammonia away. At last Torin revives!
-
-If you use Leenah's Knife on the heat duct's grill in the upper-left corner, we see you climb up the boxes until you are near the ceiling (if you're not there already), pry the vent open, and crawl inside. Boogle goes in after you. And we change to…
-
-## -
-
-On this screen, your position is at first not readily apparent. You are inside a heat duct above a room. The only way for you to maneuver is to use the cursor. We occasionally see you through some small air vents as you crawl past on your belly, but you can't remove those vents—and besides, they're too small for you to pass through.
-
-Inside the air duct, as you work your way West, the surrounding interiors grow darker and more foreboding. As you pass through these "duct" screens, the background music rises in volume and intensity, as if something big is about to happen.
-
-There's not much to do here but crawl through the duct. You can't exit back to the previous room. All you can do is go west.
-
-## -
-
-Ditto, except you can exit East…but why would you want to? Scary music builds in intensity with each room.
-
-## -
-
-Now the duct in which you are crawling is almost off the top of the screen. As you near the far left edge, you "bump your head" on the menu bar. SoundFX. The scary music stops. We lower a fake File Menu with a loud soundFX. You grunt in pain. After a beat, Boogle pokes his head out the nearest vent, squawks and rolls up the menu bar like a window shade. Flap, flap, flap, etc. You continue crawling west. The music resumes where it was.
-
-## '
-
-As soon as you enter this pic, you crawl out of the open end of the air duct, hang in space for a beat, Boogle's head pops out of the bag to do a camera "take," then you both plummet downward. You yell the standard, I'm-falling, "Ahhhh!", but you eventually run out of air, have to take another breath, then start it again until you have no more low register left. Finally you cry, "Boogle! Save us!!"
-
-As you fall, we see a dark screen with occasional upward-bound points of light screaming past, the leg-O'-meat and the buzzard, but little other detail, just a bird's-eye view looking straight down as ego shrinks to a pixel. Go to Planter Violation, below.
-
-## ,
-
-First time in scene:
-
-You land here on your back in a soft bed of landscaped plants, leaving a Torin-shaped depression in the plants. After a beat, you sit up. Then another falling sound makes you look up just as Boogle enters the screen in the shape of a safe. He lands on your head with a loud clang, but doesn't hurt you because he's still only Boogle weight, remember? You reach up, open his safe door to show us your face, then say, "Save us. I said, 'Save us!'" Upon which, Boogle turns red with embarrassment, then back into a Boogle wrapped around Torin's head. He unwraps and slithers back into the pouch.
-
-As Boogle is slithering, a cop enters and arrests you for "cruelty to plants!" Go to Judge Cartoon 1, below.
-
-Second time in scene:
-
-We fade in from black after returning from Jail Cartoon 1 to find you standing on the sidewalk beside the flower bed you originally landed in. The cop is gone for good. Now, you can walk South from this scene to the Slippery Slope, but no other direction.
-
-If you talk to Mrs. Plant, we go to the Mrs. Plant C. U. below.
-
-If you look at the low-lying growth here (to see the silkworms), we see you get down on your knees, bend over, then we go to the Silkworm C. U. below.
-
-If you look at the bushy growth here, we go to the Dawburr C. U. below.
-
-That's all there is to do here.
-
-## &" 5 > 0
+## &"  0
 
 Remove the knife from Inventory. Remove the Boogletory and both its icon and the Inventory icon from the interface.
 
@@ -2248,67 +2232,120 @@ Camera number, type, and description of shot:
 
 | Time | Camera | Action |
 |------|-----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 5 | Camera 1, wide angle | Torin sneaks into the room and stops well behind Lycentia where she doesn't<br>see him. |
+| 5 | Camera 1, wide angle | Torin sneaks into the room and stops well behind Lycentia where she doesn't
+see him. |
 | 1 | | Wait until player clicks the magic spell book on Lycentia… |
 | 8 | | …upon which, Lycentia & Torin instantly exchange places. |
-| | | Lycentia: "What? You dare enter my home and attempt your little magic<br>spells on me?!" |
-| 2 | | She waves her hand and they exchange places again, back to the original loca<br>tions. |
-| 13 | Camera 2, reverse<br>wide angle | She starts to laugh, more and more, grows angry, then grows in size, and the<br>collar begins to tighten again. She gags and falls to the floor, unconscious, at<br>the perfect spot for camera 5's upcoming C. U. |
+| | | Lycentia: "What? You dare enter my home and attempt your little magic
+spells on me?!" |
+| 2 | | She waves her hand and they exchange places again, back to the original loca
+tions. |
+| 13 | Camera 2, reverse
+wide angle | She starts to laugh, more and more, grows angry, then grows in size, and the
+collar begins to tighten again. She gags and falls to the floor, unconscious, at
+the perfect spot for camera 5's upcoming C. U. |
 | 1 | | Wait until player clicks on Lycentia, then… |
 | 1 | | …we see Torin start to cross towards Lycentia. |
-| 1 | Camera 5, C. U. of<br>Lycentia's collar | Wait until player clicks on the collar, then… |
-| 3 | | …we see Torin's hand enter the frame, brushing the now ultra-tight collar. It<br>opens at his touch and falls to the floor. |
-| 6 | Camera 2 again | Lycentia slowly regains her strength, again growing in size as her anger<br>builds, only now nothing restrains her. Music builds. |
-| | | Pecand appears in the vidcryst monitor on the far wall, starts to speak, but<br>decides to listen instead. |
-| 6 | | Lycentia cries, "Foolish boy. I have more power in my little finger than you'll<br>ever possess!" |
-| 8 | | To demonstrate, she zaps Torin with a mere toss of her wrist and flick of her<br>little finger, but the effect is devastating! Torin is hurled backwards, across<br>the room, slamming into the far wall with a groan. He slides to the floor onto<br>his butt, nearly unconscious, his shirt torn open, exposing the birthmark on his<br>shoulder. Lycentia heads for Torin. |
+| 1 | Camera 5, C. U. of
+Lycentia's collar | Wait until player clicks on the collar, then… |
+| 3 | | …we see Torin's hand enter the frame, brushing the now ultra-tight collar. It
+opens at his touch and falls to the floor. |
+| 6 | Camera 2 again | Lycentia slowly regains her strength, again growing in size as her anger
+builds, only now nothing restrains her. Music builds. |
+| | | Pecand appears in the vidcryst monitor on the far wall, starts to speak, but
+decides to listen instead. |
+| 6 | | Lycentia cries, "Foolish boy. I have more power in my little finger than you'll
+ever possess!" |
+| 8 | | To demonstrate, she zaps Torin with a mere toss of her wrist and flick of her
+little finger, but the effect is devastating! Torin is hurled backwards, across
+the room, slamming into the far wall with a groan. He slides to the floor onto
+his butt, nearly unconscious, his shirt torn open, exposing the birthmark on his
+shoulder. Lycentia heads for Torin. |
 | | | Pecand smiles in the vidcryst monitor. |
 | 2 | Camera 6, X. C. U. | We see an X. C. U. of the birthmark on Torin's shoulder & birthmark. |
 
 ## at Lycentia
 
-| 15 | Camera 7 (Similar to 2<br>but more of a medium<br>shot) | We see Lycentia notice his birthmark. She suddenly realizes the collar is gone,<br>feels her throat, and stops dead in her tracks. We see her anger soften, her face<br>relax. She shrinks in size. |
+| 15 | Camera 7 (Similar to 2
+but more of a medium
+shot) | We see Lycentia notice his birthmark. She suddenly realizes the collar is gone,
+feels her throat, and stops dead in her tracks. We see her anger soften, her face
+relax. She shrinks in size. |
 |----|---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | | | Lycentia: "Torin!! Of course. Who else could remove the collar?" |
 | | | She crosses to him. |
 | 4 | | Torin, confused. "What? How do you know my name?" |
-| 5 | | Lycentia kneels near Torin, lifts his head, and gently cradles him in her lap at<br>such an angle that neither will be able to see Pecand's forthcoming entrance. |
+| 5 | | Lycentia kneels near Torin, lifts his head, and gently cradles him in her lap at
+such an angle that neither will be able to see Pecand's forthcoming entrance. |
 | | | Lycentia, gently: "I was your nanny." |
-| | | Pecand realizes he's in trouble and exits the vidcryst monitor. It flickers to<br>black. |
-| 2 | Camera 6, 2-shot fa<br>voring Torin | Torin, confused. "What? Nanny?" |
+| | | Pecand realizes he's in trouble and exits the vidcryst monitor. It flickers to
+black. |
+| 2 | Camera 6, 2-shot fa
+voring Torin | Torin, confused. "What? Nanny?" |
 | 5 | | Her anger is gone: "I saved your life the night your parents were murdered!" |
-| 6 | | Torin, pulls away, aghast: "Murdered? No! How could you? I thought you<br>held them in a magic spell." |
-| 10 | | Lycentia, reassuringly: "No, Torin, the Fahrmans are safe. But they're not<br>your real parents. Your real parents were the King and Queen of The Lands<br>Above!" |
+| 6 | | Torin, pulls away, aghast: "Murdered? No! How could you? I thought you
+held them in a magic spell." |
+| 10 | | Lycentia, reassuringly: "No, Torin, the Fahrmans are safe. But they're not
+your real parents. Your real parents were the King and Queen of The Lands
+Above!" |
 | 8 | | Torin: "What?" Realization sinks in. "Then… I'm…" |
 | 3 | | Lycentia: "That's right. You're the next king!" |
-| 6 | Camera 7 again | Pecand teleports into room, with dagger drawn, on the move as he material<br>izes: "No, that's wrong. I'm the next king!" |
-| 5 | | Pecand stabs Lycentia in the back (where we can't see it go in). As she stag<br>gers back, he pulls out the knife, tossing her into position for her later spell<br>casting. Pecand heads for Torin. Torin rises to standing position. |
-| 14 | Camera 10, X. C. U.<br>Pecand's face | Pecand, bloody knife in hand, with much sarcasm: "You should have died in<br>your cradle that night, little nephew! After searching for you all these years,<br>you won't escape me now!" |
-| | | He pauses a beat before the punch line: "I killed your parents…and now I'll<br>kill you!" |
-| 6 | Camera 7 again | As Pecand reaches out with the dagger, Torin sidesteps the blade, grabs Pe<br>cand's head, and slams it into the wall. Pecand staggers back, giving Torin<br>enough time to do a fancy kick to the chest. Pecand falls backward, almost on<br>top of Lycentia. He grabs her by the hair and places the dagger on her throat. |
-| 4 | | Pecand, holding the dagger at Lycentia's throat: "One step closer, boy, and I'll<br>finish her." |
+| 6 | Camera 7 again | Pecand teleports into room, with dagger drawn, on the move as he material
+izes: "No, that's wrong. I'm the next king!" |
+| 5 | | Pecand stabs Lycentia in the back (where we can't see it go in). As she stag
+gers back, he pulls out the knife, tossing her into position for her later spell
+casting. Pecand heads for Torin. Torin rises to standing position. |
+| 14 | Camera 10, X. C. U.
+Pecand's face | Pecand, bloody knife in hand, with much sarcasm: "You should have died in
+your cradle that night, little nephew! After searching for you all these years,
+you won't escape me now!" |
+| | | He pauses a beat before the punch line: "I killed your parents…and now I'll
+kill you!" |
+| 6 | Camera 7 again | As Pecand reaches out with the dagger, Torin sidesteps the blade, grabs Pe
+cand's head, and slams it into the wall. Pecand staggers back, giving Torin
+enough time to do a fancy kick to the chest. Pecand falls backward, almost on
+top of Lycentia. He grabs her by the hair and places the dagger on her throat. |
+| 4 | | Pecand, holding the dagger at Lycentia's throat: "One step closer, boy, and I'll
+finish her." |
 | 1 | | Torin puts up his hands trying to calm Pecand down: "No, don't!" |
 | 1 | | Wait until player clicks on the lava pit… |
-| 3 | | … upon which Torin slowly edges sideways towards it. He steps up on the<br>edge of the pit and teeters there, unstable. |
+| 3 | | … upon which Torin slowly edges sideways towards it. He steps up on the
+edge of the pit and teeters there, unstable. |
 | 1 | | Wait until player clicks the magic spell book on Pecand… |
-| 5 | | …upon which they instantly switch places. Now Pecand teeters on the edge of<br>the pit a couple of times, then quickly falls in. |
-| 4 | Camera 8 (Looking<br>over Torin's shoulder | Torin: "Lycentia? Lycentia, are you okay?" Her eyes barely flutter open. |
+| 5 | | …upon which they instantly switch places. Now Pecand teeters on the edge of
+the pit a couple of times, then quickly falls in. |
+| 4 | Camera 8 (Looking
+over Torin's shoulder | Torin: "Lycentia? Lycentia, are you okay?" Her eyes barely flutter open. |
 
-| 7 | Camera 9 | We see Pecand coming out of the pit, covered with yellow goo, while we hear<br>Torin continue on in the background: "That was a close one. I thought he had<br>you there for a second. Lycentia??" | |
+| 7 | Camera 9 | We see Pecand coming out of the pit, covered with yellow goo, while we hear
+Torin continue on in the background: "That was a close one. I thought he had
+you there for a second. Lycentia??" | |
 |-----|--------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
-| 8 | Camera 8 | We see Lycentia awake now. We see in her eyes that she's about to do some<br>thing. She winds up for a magic spell. It looks like she's going to zap Torin.<br>She fires, but it goes right past him (and us). | |
-| 4 | Camera 7 | We see Pecand is now out of the pit, behind Torin and about to stab him in the<br>back. Lycentia's spell hits him, turns him into green crystal and sends him<br>flying down her front hallway toward the Null Void. | |
-| 3 | Null Void Camera | Pecand flies out the door, then into the Null Void straight for the camera, con<br>tinues right past us, then disappears into the distance. | |
-| 12 | Camera 10 2-shot<br>Torin & Lycentia with<br>Fahrmans & Boogle<br>behind | Torin asks: "But the lava?" | |
+| 8 | Camera 8 | We see Lycentia awake now. We see in her eyes that she's about to do some
+thing. She winds up for a magic spell. It looks like she's going to zap Torin.
+She fires, but it goes right past him (and us). | |
+| 4 | Camera 7 | We see Pecand is now out of the pit, behind Torin and about to stab him in the
+back. Lycentia's spell hits him, turns him into green crystal and sends him
+flying down her front hallway toward the Null Void. | |
+| 3 | Null Void Camera | Pecand flies out the door, then into the Null Void straight for the camera, con
+tinues right past us, then disappears into the distance. | |
+| 12 | Camera 10 2-shot
+Torin & Lycentia with
+Fahrmans & Boogle
+behind | Torin asks: "But the lava?" | |
 | | | Lycentia laughs: "Torin, that's not lava! That's Dreep's supper dish!" | |
 | | | Torin: "But what about my parents? And Boogle?" | |
-| | | Lycentia: "Torin, I think it's time for us all to go back hometo The Lands<br>Above." | |
-| 2 | | Lycentia sprinkles pixie dust, etc. causing another green flash. We see all five<br>disappear from her lair. | |
-| 5 | Fahrmans' ext. | Cut to farmhouse exterior, with no people. We hold a couple of seconds and<br>then see the Fahrmans, Torin, and Lycentia appear. | |
+| | | Lycentia: "Torin, I think it's time for us all to go back hometo The Lands
+Above." | |
+| 2 | | Lycentia sprinkles pixie dust, etc. causing another green flash. We see all five
+disappear from her lair. | |
+| 5 | Fahrmans' ext. | Cut to farmhouse exterior, with no people. We hold a couple of seconds and
+then see the Fahrmans, Torin, and Lycentia appear. | |
 | | | Mr. Fahrman: "Torin! Where's my tools? From town? Remember?" | |
 | | | Mrs. Fahrman: "Son!? Who's this lady? And is she gonna stay for dinner?" | |
 | | | Torin: "Mom! Dad! It's so great to be home again!?" | |
-| 206 | Total Time | Group hug, with Lycentia smiling on from outside the circle. Hold a beat before<br>Boogle pops up in the middle with Torin. Freeze. | |
+| 206 | Total Time | Group hug, with Lycentia smiling on from outside the circle. Hold a beat before
+Boogle pops up in the middle with Torin. Freeze. | |
 | | | Roll major credits. Fade to black. | |
 | | | Roll minor credits. | |
 | | | Return to WWW screen. Player must exit himself. No "toss you out" ending. | |
@@ -2335,13 +2372,23 @@ multi-plane scrolling adds depth and realism to game play the ease of use of Kin
 
 | Run | Segment | | |
 |--------------|--------------------------------|---------------------------------------------------------------------|----------------------------------------------------------------------|
-| Time<br>0:00 | Time<br>4 | Voice Over<br>Coming this holiday season, a gift | Visual, Dialogue<br>Sierra logo |
-| | | from the Sierra family to your fam<br>ily — | on a gift wrapped box that transforms into Boogle |
-| | 4.4 | the first in a new fully animated<br>adventure game series… | scroll the level 1 multi-plane scroller |
+| Time
+0:00 | Time
+4 | Voice Over
+Coming this holiday season, a gift | Visual, Dialogue
+Sierra logo |
+| | | from the Sierra family to your fam
+ily — | on a gift wrapped box that transforms into Boogle |
+| | 4.4 | the first in a new fully animated
+adventure game series… | scroll the level 1 multi-plane scroller |
 | | 5 | Torin's Passage! | Logo over as multi-plane scroller continues to scroll |
-| | 4 | Combining the hand-drawn, classic<br>animation of King's Quest VII, | Video of guys drawing, painting, flipping cells, computer<br>screens |
-| | 2<br>and the humor of Al Lowe, | | video clip from AVI |
-| | 3.4 | Sierra takes you to new levels of<br>entertainment. | dissolves between backgrounds |
+| | 4 | Combining the hand-drawn, classic
+animation of King's Quest VII, | Video of guys drawing, painting, flipping cells, computer
+screens |
+| | 2
+and the humor of Al Lowe, | | video clip from AVI |
+| | 3.4 | Sierra takes you to new levels of
+entertainment. | dissolves between backgrounds |
 | | 2.5 | Explore worlds within worlds, | more backgrounds |
 | | 2 | filled with magic, | Torin poofs into phenocryst column |
 | | 4 | fascinating new characters, | Torin beside tree: "Boogle, can you be an ax?" |
@@ -2353,13 +2400,15 @@ multi-plane scrolling adds depth and realism to game play the ease of use of Kin
 | | 2 | from the evil | magic spell cocoon glistens |
 | | 2 | sorceress, Lycentia | Lycentia laughs |
 | | 2 | and her "able" assistant, Dreep. | Dreep looks at camera & walks through doorway. |
-| | 3 | Match wits with the diabolical Pe<br>cand, | raises head, shadow reveals face, lightning flashes |
+| | 3 | Match wits with the diabolical Pe
+cand, | raises head, shadow reveals face, lightning flashes |
 | | 3 | and discover the lovely Leenah, | smiles fetchingly |
 | | 3 | plus much, much more | Torin air-guitars Johnny B. Goode on Boogle |
 | | 2 | to make you | "pick a shard, any shard" |
 | | 2 | and your child | Slim & Slime: " |
 | | 3 | laugh out loud. | Torin smiles & Boogle giggles. |
-| | 2 | Enchant your family this holiday<br>season | Torin's family reunion |
+| | 2 | Enchant your family this holiday
+season | Torin's family reunion |
 | | 3 | with Torin's Passage! | Logo with enhancements |
 | total: | 71.3 | | |
 

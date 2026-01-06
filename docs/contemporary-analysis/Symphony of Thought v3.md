@@ -1,3 +1,8 @@
+---
+title: "Symphony of Thought Orchestrating Artificial Cognition"
+category: "contemporary-analysis"
+---
+
 # Symphony of Thought Orchestrating Artificial Cognition
 
 # **David K Shapiro**

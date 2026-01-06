@@ -1,12 +1,8 @@
 ---
-title: Afa and the Police Whatever You Say Say Nothing
-date: 2025
-author: Unknown
-tags:
-  - organizing
-  - rent
-  - police
-  - prisons
+title: "Afa and the Police Whatever You Say Say Nothing"
+author: "Unknown"
+date: "2025"
+category: "abolition"
 ---
 
 # Afa and the Police Whatever You Say Say Nothing

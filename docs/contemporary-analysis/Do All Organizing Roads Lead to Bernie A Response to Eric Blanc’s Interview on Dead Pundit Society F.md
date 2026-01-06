@@ -1,3 +1,8 @@
+---
+title: "## **Do All Organizing Roads Lead to Bernie? A Response to Eric Blanc's Interview on Dead Pundit Soc"
+category: "contemporary-analysis"
+---
+
 ## **Do All Organizing Roads Lead to Bernie? A Response to Eric Blanc's Interview on Dead Pundit Society From a West Virginia Teacher and Strike Leader**
 
 ## **Date:** Unknown

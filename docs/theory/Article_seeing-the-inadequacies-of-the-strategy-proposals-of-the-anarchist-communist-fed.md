@@ -1,15 +1,8 @@
 ---
-title: >-
-  Seeing the Inadequacies of the Strategy Proposals of the Anarchist Communist
-  Fed
-date: 2025
-author: James Herod
-tags:
-  - organizing
-  - unions
-  - tenants
-  - housing
-  - rent
+title: ">-"
+author: "James Herod"
+date: "2025"
+category: "theory"
 ---
 
 # Seeing the Inadequacies of the Strategy Proposals of the Anarchist Communist Fed

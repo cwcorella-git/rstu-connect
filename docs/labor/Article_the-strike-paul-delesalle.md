@@ -1,13 +1,8 @@
 ---
-title: The Strike Paul Delesalle
-date: 2025
-author: Unknown
-tags:
-  - organizing
-  - strikes
-  - rent
-  - labor
-  - anarchism
+title: "The Strike Paul Delesalle"
+author: "Unknown"
+date: "2025"
+category: "labor"
 ---
 
 # The Strike Paul Delesalle

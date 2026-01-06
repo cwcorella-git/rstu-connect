@@ -1,3 +1,8 @@
+---
+title: "Towards a PEOPLE'S PEACE"
+category: "anti-war-peace"
+---
+
 # Towards a PEOPLE'S PEACE
 
 ## A Task, for Activists, Peacebuilders, and Affies
@@ -58,7 +63,8 @@ International Center on Nonviolent Conict 600 New Hampshire Ave NW, Suite 1010 W
 | Shaping Peace During and After War in Sri Lanka | |
 |-----------------------------------------------------------------------|--|
 | by Shreen Saroor | |
-| Lessons for the International Community<br>by Dr Véronique Dudouet | |
+| Lessons for the International Community
+by Dr Véronique Dudouet | |
 
 ### **Foreword**
 
@@ -96,9 +102,9 @@ Success is often followed by heightened expectations and the unavoidable questio
 
 The answer soon came as a decisive yes but then on which issues should the next conference focus? There is no shortage of problems in the world that merit attention. AADK boldly chose to look more deeply at ways that movements can advance just peace and security—how organized and mobilized civilians can reduce the likelihood of violent conflict, decrease its intensity, and contribute to fair and sustainable resolution.
 
-This topic is vital and urgent. Violent conflict has risen in myriad forms in recent years. By the beginning of 2024, evidence showed that 2021–2023 were the three most deadly years for state-based conflict globally since 1989.<sup>2</sup> In addition, deaths from conflict between non-state actors has risen sharply worldwide since 2013 and now appears to be stabilizing at a much higher level than at any time in the prior three decades.<sup>3</sup> During this same time, incidents of one-sided violence against civilians by state and non-state actors have also followed an overall upward trend.<sup>4</sup>
+This topic is vital and urgent. Violent conflict has risen in myriad forms in recent years. By the beginning of 2024, evidence showed that 2021–2023 were the three most deadly years for state-based conflict globally since 1989.2 In addition, deaths from conflict between non-state actors has risen sharply worldwide since 2013 and now appears to be stabilizing at a much higher level than at any time in the prior three decades.3 During this same time, incidents of one-sided violence against civilians by state and non-state actors have also followed an overall upward trend.4
 
-2024 showed little likelihood of reprieve. With several ongoing wars, the annual death toll from state-based conflicts is expected to be high, and data is still being analyzed.<sup>5</sup> It is further estimated that at least 1 in 8 people in 2024 were exposed to violent conflict globally, and by mid-year, the number of people forced to flee their homes due to violence and persecution reached nearly 123 million.<sup>6</sup> Political violence also rose by 25% worldwide, and was concentrated in the more than 70 countries holding elections in 2024, which saw an average increase of 63%.<sup>7</sup>
+2024 showed little likelihood of reprieve. With several ongoing wars, the annual death toll from state-based conflicts is expected to be high, and data is still being analyzed.5 It is further estimated that at least 1 in 8 people in 2024 were exposed to violent conflict globally, and by mid-year, the number of people forced to flee their homes due to violence and persecution reached nearly 123 million.6 Political violence also rose by 25% worldwide, and was concentrated in the more than 70 countries holding elections in 2024, which saw an average increase of 63%.7
 
 Violent conict is one of the most challenging human problems to address Yet it demands a tireless response because it is so destructive Its impacts are never conned to just one country—they are always regional and often global The tentacles of conict extend both geographically and temporally aecting people's lives governance and levels of corruption during periods of ghting as well as long after one side surrenders or peace agreements are signed
 
@@ -138,9 +144,9 @@ Selected ndings on each of these are outlined below
 
 Movements also can prevent violent conflict by demonstrating an eective alternative form of power **10** When communities feel that their fundamental inter ests are threatened too often people conclude that joining violent groups is their only viable option Yet people power movements are consistently far more eective at defeating authoritarianism than violent insurgency Accordingly movements can help under cut the emergence and recruitment eorts of armed groups by sharing knowledge about nonviolent methods of change fostering a sense of empowerment organiz ing community service groups and engaging in acts of nonviolent resistance against oppression **11**
 
-When a conict is ongoing **movements can also take actions to decrease its intensity <sup>12</sup>** For example research from civil wars in Africa from to nds that civilian noncooperation tactics such as strikes and boycotts can signicantly reduce conict deaths **13** Other studies have found that selforganizing among communities to represent themselves in local talks with armed groups can have similar eects **<sup>14</sup>** Cases in Colombia and Syria also suggest that organized civilians in conict zones may be in a better position than large international organizations such as the United Nations or the International Committee of the Red Cross to transmit norms of respect for life and international humanitarian law to armed actors **15**
+When a conict is ongoing **movements can also take actions to decrease its intensity 12** For example research from civil wars in Africa from to nds that civilian noncooperation tactics such as strikes and boycotts can signicantly reduce conict deaths **13** Other studies have found that selforganizing among communities to represent themselves in local talks with armed groups can have similar eects **14** Cases in Colombia and Syria also suggest that organized civilians in conict zones may be in a better position than large international organizations such as the United Nations or the International Committee of the Red Cross to transmit norms of respect for life and international humanitarian law to armed actors **15**
 
-Movements can also **increase the likelihood that violent conflicts result in a durable and equitable peace** An analysis of nearly sixty years of data to on civil wars finds that when nonviolent movements are active amid armed conict the conict is more likely to result in a negotiated settlement as well as postconict democratization **<sup>16</sup>** In particular protests and political engagement by civil society have been eective at driving parties to start peace talks and disruptive acts such as sitins and blockades have been impactful in moving these talks to a peaceful conclu sion **<sup>17</sup>** An illustrative example of this is when Liberian women from diverse backgrounds organized vigils and protests to drive peace talks in and then sent a delegation that organized sitins and a nonviolent blockade at the negotiation site when the talks seemed to be stalling **18**
+Movements can also **increase the likelihood that violent conflicts result in a durable and equitable peace** An analysis of nearly sixty years of data to on civil wars finds that when nonviolent movements are active amid armed conict the conict is more likely to result in a negotiated settlement as well as postconict democratization **16** In particular protests and political engagement by civil society have been eective at driving parties to start peace talks and disruptive acts such as sitins and blockades have been impactful in moving these talks to a peaceful conclu sion **17** An illustrative example of this is when Liberian women from diverse backgrounds organized vigils and protests to drive peace talks in and then sent a delegation that organized sitins and a nonviolent blockade at the negotiation site when the talks seemed to be stalling **18**
 
 A growing body of scholarship further recognizes that direct civil society inclusion in peace negotiations leads to better conict outcomes To this end acts of nonviolent protest by civil society have been found to increase the probability that civil society groups will be included—and given substantive roles such as full participants or mediators—in peace negotiations **19**
 
@@ -238,7 +244,7 @@ In posing some critical questions on building peoples' solidarity movements in v
 
 During an evening of the MOVE workshop at the MSTCDC in Arusha delegates from Haiti Sudan Pales tine the Democratic Republic of the Congo DRC Lebanon and Ukraine\* came together at dusk in the garden to reect and share their insights and experi ences on the topic "What does a grassrootsbased
 
-<sup>\*</sup> Participant names withheld for privacy and security global peopletopeople solidarity movement look like to you and your community?"
+\* Participant names withheld for privacy and security global peopletopeople solidarity movement look like to you and your community?"
 
 We sought the wisdom of activists operating on the frontlines of war and struggles against injustice on what must or might be done to build a connected movement This conversation went deep into the night Using our cellphone torches for lights we took notes around the table as the conversation evolved into a serious sombre reection of the urgency to stop the global slide into geopolitical power struggles and wars of the few on the one hand and on the other uniting the broadest possi ble front of people and peoples' organisations yearning and working for a just sustainable and peaceful world
 
@@ -418,7 +424,7 @@ Almaz a yearold student lives with her mother a yearold widow whose name is with
 
 Generously funded by Plan International Ethiopia the project aims to improve women's and girls' partic ipation and decisionmaking roles at Dessie Zuria Woreda\* while specically providing comprehensive
 
-<sup>\*</sup> A woreda is an administrative division between a zone and a regional state in Ethiopia psychosocial and economic support after sexual and genderbased violence brought on by the conflicts and residual violence In partnership with the local government and a grassroots community organization BWCBD introduced psychosocial aid and trauma coun seling to assist those aected by genderbased violence They provided a training of trainers TOT program for fty youth volunteers community leaders and media professionals Twenty female victims of SGBV were given training and assistance in setting up a livelihood
+\* A woreda is an administrative division between a zone and a regional state in Ethiopia psychosocial and economic support after sexual and genderbased violence brought on by the conflicts and residual violence In partnership with the local government and a grassroots community organization BWCBD introduced psychosocial aid and trauma coun seling to assist those aected by genderbased violence They provided a training of trainers TOT program for fty youth volunteers community leaders and media professionals Twenty female victims of SGBV were given training and assistance in setting up a livelihood
 
 Almaz and her mother attended the trauma counsel ing for three days Furthermore her mother received nancial assistance to start a small business The train ing helped her lessen the eects of posttraumatic stress disorder PTSD and allowed her to resume her regular life Almaz and her mother have beneted greatly from this program having gone from living scared and alone to being able to connect with and help the community again BWCBD and its donor Plan International Ethi opia have worked hard to provide a safe environment assistance and support to Almaz her mother and all survivors of genderbased violence and sexual assault
 
@@ -436,7 +442,7 @@ This experience has shaped my commitment to supporting my community through reco
 
 I n I was a rstyear student at the University of Colombo far from my home in Mannar a coastal town in Northern Sri Lanka Though my family were Muslim\* we had always been closely tied to the Tamil community and I had grown up surrounded by Tamil culture I had originally been selected to study at Jana University but after losing a relative studying there to the Indian Peacekeeping Force IPKF massacre in my father insisted I study in Colombo instead fearing for my safety We were already seven years into a civil war that would continue until May when
 
-<sup>\*</sup> In the Sri Lankan context Muslims are a separate ethnic group This demographic category that ignores any actual ethnic or lingual groupings is a vestige of the colonial period
+\* In the Sri Lankan context Muslims are a separate ethnic group This demographic category that ignores any actual ethnic or lingual groupings is a vestige of the colonial period
 
 ## *Shreen Saroor is a peacebuilder from Sri Lanka*
 

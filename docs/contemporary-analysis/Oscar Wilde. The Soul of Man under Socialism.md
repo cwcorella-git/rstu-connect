@@ -1,3 +1,8 @@
+---
+title: "## Oscar Wilde 1891"
+category: "contemporary-analysis"
+---
+
 ## Oscar Wilde 1891
 
 ## The Soul of Man under Socialism

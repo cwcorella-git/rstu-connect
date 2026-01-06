@@ -1,3 +1,8 @@
+---
+title: "**Gill Sans**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Gill_Sans)
 
 # **Gill Sans**
@@ -14,7 +19,8 @@
 | Designer | Eric Gill |
 | Foundry | Monotype |
 | Date created | 1926 |
-| Date released | 1928; 97<br>years ago |
+| Date released | 1928; 97
+years ago |
 ## | Design based on | Johnston |
 
 | Variations | Gill Kayo |
@@ -31,7 +37,8 @@ Gill Sans was an immediate success; a year after its release, the [London and No
 
 Monotype rapidly expanded the original regular or medium weight into a large family of styles, which it continues to sell. A basic set is included with some [Microsoft](https://en.wikipedia.org/wiki/Microsoft) software and [macOS](https://en.wikipedia.org/wiki/List_of_fonts_in_Mac_OS_X#System_fonts) [fonts.](https://en.wikipedia.org/wiki/List_of_fonts_in_Mac_OS_X#System_fonts)
 
-| Akzidenz<br>Grotesk | а | g | t |
+| Akzidenz
+Grotesk | а | g | t |
 |---------------------|---|---|---|
 | Futura | а | g | t |
 | Johnston | а | g | t |
@@ -64,13 +71,13 @@ In the light weights, the slanting cut at top left of the regular "t" is replace
 
 ![](_page_6_Picture_4.jpeg)
 
-An early version of <u>Johnston</u> on a <u>London Underground</u> metal sign.
+An early version of Johnston on a London Underground metal sign.
 
 Johnston's design was rendered variably on some older signs; this uses a condensed "R" and four-terminal "W". [23]
 
 ![](_page_6_Picture_6.jpeg)
 
-The ultra-bold sans-serifs of the <u>Figgins foundry</u>. [24] Gill and Johnston sought to create sans-serif designs that were modern and not as bold as these. Gill argued in his <u>Essay on Typography</u> that such closed-up forms were counterproductively bold and less legible than lighter fonts of normal proportions[.\[25\]](#page-41-7)
+The ultra-bold sans-serifs of the Figgins foundry. [24] Gill and Johnston sought to create sans-serif designs that were modern and not as bold as these. Gill argued in his Essay on Typography that such closed-up forms were counterproductively bold and less legible than lighter fonts of normal proportions[.\[25\]](#page-41-7)
 
 Morison commissioned Gill to develop Gill Sans after they had begun to work together (often by post since Gill lived in Wales) on Gill's serif design [Perpetua](https://en.wikipedia.org/wiki/Perpetua_(typeface)) in 1925; they had known each other since about 1913. In 1927, Morison visited Cleverdon's bookshop in Bristol, where he was impressed by Gill's fascia and alphabet[.\[26\]](#page-41-8) Gill wrote that "it was as a consequence of seeing these letters" that Morison commissioned him to develop a sans-serif family[.\[27\]](#page-42-0)[\[21\]](#page-41-3)[\[28\]](#page-42-1)[\[e\]](#page-36-2)
 

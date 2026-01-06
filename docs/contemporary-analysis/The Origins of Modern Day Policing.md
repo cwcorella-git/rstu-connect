@@ -1,3 +1,8 @@
+---
+title: "**The Origins of Modern Day Policing**"
+category: "contemporary-analysis"
+---
+
 [naacp.org](https://naacp.org/find-resources/history-explained/origins-modern-day-policing)
 
 # **The Origins of Modern Day Policing**

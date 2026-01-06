@@ -1,3 +1,8 @@
+---
+title: "## **The first strikes of the mobilized with hundreds of arrests, ongoing rail war and other subvers"
+category: "technology-digital-justice"
+---
+
 ## **The first strikes of the mobilized with hundreds of arrests, ongoing rail war and other subversive news. Part 16**
 
 ## **Date:** Unknown

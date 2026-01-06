@@ -1,3 +1,8 @@
+---
+title: "**Making a Change**"
+category: "contemporary-analysis"
+---
+
 ## **SESSION 2 HANDOUT – PYRAMID OF DISCRIMINATION AND VIOLENCE**
 
 In our culture sometimes both men and women can assume that sexual harassment or even sexual violence are a fact of life, inevitable as death or taxes. However, much of what we accept as inevitable is in fact the expression of values and attitudes that can evolve.

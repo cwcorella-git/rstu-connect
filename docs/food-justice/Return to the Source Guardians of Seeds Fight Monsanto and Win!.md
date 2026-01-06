@@ -1,3 +1,8 @@
+---
+title: "**Return to the Source: Guardians of Seeds Fight Monsanto and Win!**"
+category: "food-justice"
+---
+
 # **Return to the Source: Guardians of Seeds Fight Monsanto and Win!**
 
 | Date: Sun, 10/16/2016 - 15:04 |
@@ -9,8 +14,13 @@
 | Ecosocialist Horizons |
 | , October 12, 2016 |
 | October 29: Day of the Campesino Seed |
-| "Nature will always prevail," says Angel Moreno, a campesino and leader in the National<br>Network of Popular Agroecological Schools, as he points to the grass sprouting through the<br>sidewalk in the mountain village of Monte Carmelo in Venezuela. "But if we're going to fight<br>imperialism, we need seeds." |
-| It is October 29, 2015, the 10th anniversary of the Day of the Campesino seed, and over a<br>thousand people from around the country and around the world have gathered in this humble<br>village, described by the |
+| "Nature will always prevail," says Angel Moreno, a campesino and leader in the National
+Network of Popular Agroecological Schools, as he points to the grass sprouting through the
+sidewalk in the mountain village of Monte Carmelo in Venezuela. "But if we're going to fight
+imperialism, we need seeds." |
+| It is October 29, 2015, the 10th anniversary of the Day of the Campesino seed, and over a
+thousand people from around the country and around the world have gathered in this humble
+village, described by the |
 | Agujero Negro media collective |
 ## | as "the ecosocialist capital of Venezuela." |
 

@@ -1,3 +1,8 @@
+---
+title: "## **Unions Prepare for UN Climate Talks in Marrakesh**"
+category: "environmental-justice"
+---
+
 ## **Unions Prepare for UN Climate Talks in Marrakesh**
 
 ## **Date:** Tue, 11/08/2016 - 10:43

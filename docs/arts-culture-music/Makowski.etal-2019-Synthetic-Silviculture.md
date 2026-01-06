@@ -1,3 +1,8 @@
+---
+title: "Synthetic Silviculture: Multi-scale Modeling of Plant Ecosystems"
+category: "arts-culture-music"
+---
+
 # Synthetic Silviculture: Multi-scale Modeling of Plant Ecosystems
 
 MIŁOSZ MAKOWSKI, Adam Mickiewicz University TORSTEN HÄDRICH, KAUST JAN SCHEFFCZYK, KAUST DOMINIK L. MICHELS, KAUST SÖREN PIRK, Google Brain WOJTEK PAŁUBICKI, Adam Mickiewicz University
@@ -14,11 +19,11 @@ Additional Key Words and Phrases: Botanical Tree Models, Ecosystem Design, Natur
 
 #### ACM Reference Format:
 
-Miłosz Makowski, Torsten Hädrich, Jan Scheffczyk, Dominik L. Michels, Sören Pirk, and Wojtek Pałubicki. 2019. Synthetic Silviculture: Multi-scale Modeling of Plant Ecosystems. ACM Trans. Graph. 38, 4, Article 131 (July 2019), 14 pages.<https://doi.org/10.1145/3306346.3323039>
+Miłosz Makowski, Torsten Hädrich, Jan Scheffczyk, Dominik L. Michels, Sören Pirk, and Wojtek Pałubicki. 2019. Synthetic Silviculture: Multi-scale Modeling of Plant Ecosystems. ACM Trans. Graph. 38, 4, Article 131 (July 2019), 14 pages.
 
 Permission to make digital or hard copies of all or part of this work for personal or classroom use is granted without fee provided that copies are not made or distributed for profit or commercial advantage and that copies bear this notice and the full citation on the first page. Copyrights for components of this work owned by others than ACM must be honored. Abstracting with credit is permitted. To copy otherwise, or republish, to post on servers or to redistribute to lists, requires prior specific permission and/or a fee. Request permissions from permissions@acm.org.
 
-© 2019 Association for Computing Machinery. 0730-0301/2019/7-ART131 \$15.00 <https://doi.org/10.1145/3306346.3323039>
+© 2019 Association for Computing Machinery. 0730-0301/2019/7-ART131 \$15.00 
 
 ## 1 INTRODUCTION
 
@@ -125,47 +130,7 @@ $$\bar{v}(u_m) = \bar{v}(u) \cdot \frac{\lambda Q(u_m)}{\lambda Q(u_m) + (1 - \l
 
 Values of $\lambda > 0.5$ result in excurrent architectures, whereas $\lambda \leq 0.5$ in decurrent architectures [Palubicki et al. 2009]. We assume that each plant is limited in growth potential by a maximum value of vigor $\bar{v}_{rootmax}$ , i.e. we never allocate more than this amount of vigor to the root module $u_{\text{root}}$ .
 
-Branch modules can also be removed from the plant architecture. We define a shedding threshold ( $\bar{v}_{min}$ ) that defines when a module is shed ( $\bar{v} < \bar{v}_{min}$ ). Additionally, we define the age of a plant for each plant model as $p_t$ (initially $p_t = 0$ ). When $p_t \ge p_{max}$ we linearly interpolate $\bar{v}_{\rm rootmax}$ to zero using a constant step size. Hence, the vigor allocated in each simulation step to the plant model is decreased until all modules are shed from the architecture, representing gradual plant senescence.
-
-5.2.2 Selecting Modules. To attach a new module to a terminal node of an existing fully developed module, we create a new module instance $u_{new}$ selected from the set of module prototypes S
-
-(Sec. 5.1). The module prototypes contained in S are positioned in a special parameter space referred here as the morphospace that is spanned by plant type parameters apical control $\lambda$ and determinacy D. The concept of a theoretical morphospace was discussed by Mc Ghee [1999] and in our case describes the variations of self-similar branching structures due to flowering and apical control. We define nine regions of prototype modules in the morphospace. Regions are calculated using Voronoi partitioning where points of cells are given by
-
-## ![](_page_4_Picture_14.jpeg)
-
-prototype positions (chosen arbitrarily; see inset figure for an illustration). In order to generate a new branch module, we determine its position in the morphospace as $\lambda$ and $D' = \bar{v}(u_{\text{parent}}) \cdot D/\bar{v}_{\text{max}}$ . This means that new modules attached to vigorous parent modules tend to express more deterministic module prototypes providing a means for intra-architectural variation.
-
-5.2.3 Orienting Modules. Due to the exponential growth of the module architecture, modules and their associated branching segments could eventually collide. However, natural branches tend to avoid collisions while also exhibiting tendencies of growing in certain directions [Digby and Firn 1995]. Hence, there seems to be a balancing mechanism between different branch orientation strategies. To capture this important phenomenon we propose an optimization process for determining module orientations that takes into account both, the constraints of space and the effects of tropisms.
-
-We apply several optimization steps of the iterative gradient descent method to find an optimal orientation for a new module. A module's orientation is represented using three Euler angles. A default starting orientation (i.e. orientation of the parent module) is chosen as the first step of the optimization process. We define $f_{\text{distribution}}$ as a weighted sum
-
-$$f_{\text{distribution}}(u) := \omega_1 \cdot f_{\text{collisions}}(u) + \omega_2 \cdot f_{\text{tronism}}(u),$$
-## (3)
-
-in which $\omega_{1,2} \in \mathbb{R}_+$ are weights controlling the impact of the optimization criteria. We optimize for spatial constraints using $f_{\text{collisions}}$ 
-
-Fig. 5. Self-similar plant models: we define plant architectures as collections of branch modules exploiting the self-similarity of plant structure (a). Branch modules are represented as graphs of nodes and edges (b) and structural parameters (thickness, length). We construct the geometry and develop them in time by interpolating structural parameters (c). The geometry of individual modules is adapted to model environmental effects, such as gravi- and phototropism (d).
-
-according to Eq. 1 and constraints emerging from tropisms using
-
-$$f_{\text{tropism}}(u_{\alpha}) = \left\| \cos(\alpha_{\text{tropism}}) - \cos(u_{\alpha}) \right\|$$
-## (4)
-
-with tropism angle $\alpha$ . We refer to the appendix A.1 for details.
-
-#### 5.3 Module Development
-
-Once we have calculated a vigor value for each branch module, we determine structural changes to the module architecture. Each module u is assigned a growth rate $\Upsilon(u)$ specifying how quickly a module is developed:
-
-$$\Upsilon(u) = S((\bar{v}(u) - \bar{v}_{\min})/(\bar{v}_{\max} - \bar{v}_{\min})) \cdot q_{p}, \qquad (5)$$
-
-in which the vigor $\bar{v}(u)$ is smoothly interpolated by a sigmoid-like function $S: x \mapsto 3x^2 - 2x^3$ , and $g_p$ denotes the growth rate of the whole plant. This means, Eq. 2 describes how apical control determines vigor values of modules, which are used to determine growth rates (Eq. 5). Consequently, modules may develop at different rates, taking into account the availability of light and apical control. We clamp $\bar{v}(u)$ to $\bar{v}_{\text{max}}$ . The rate of change of the physiological age (Sec. 4.1) over time of a newly created module u is defined by
-
-## $$da_{u}/dt = \Upsilon(u), \tag{6}$$
-
-which is a measure of how well a branch module is functioning. It is initially set to $a_u=0$ . As simulation time proceeds, $a_u$ is increased until a maximal value $a_{\rm mature}$ is reached (Fig. 5, c). Any subsequent growth is expressed via the attachment of new modules to the fully developed one. Please note that the physiological age $(a_u)$ is not in units of time. We approximate Eq.6 with forward Euler integration.
-
-For any module u where $a_u > a_{\text{mature}}$ , we calculate the light exposure q for all terminal nodes $n_i$ by $q(n_i) = Q(u)/\#n$ , in which #n denotes the number of terminal nodes of module u. Next, we calculate vigor values v for all terminal nodes of the module u using the extended Borchert-Honda model. Here v denotes vigor at module scale as opposed to $\bar{v}(u)$ at plant scale. At each terminal node n with vigor $v > \bar{v}_{\min}$ , we attach a new branch module. The diameter of the terminal nodes with the attached modules is set to the diameter of the root node of the child module.
+Branch modules can also be removed from the plant architecture. We define a shedding threshold ( $\bar{v}_{min}$ ) that defines when a module is shed ( $\bar{v}  a_{\text{mature}}$ , we calculate the light exposure q for all terminal nodes $n_i$ by $q(n_i) = Q(u)/\#n$ , in which #n denotes the number of terminal nodes of module u. Next, we calculate vigor values v for all terminal nodes of the module u using the extended Borchert-Honda model. Here v denotes vigor at module scale as opposed to $\bar{v}(u)$ at plant scale. At each terminal node n with vigor $v > \bar{v}_{\min}$ , we attach a new branch module. The diameter of the terminal nodes with the attached modules is set to the diameter of the root node of the child module.
 
 To obtain a geometric representation of a module during the growth process, we simulate its physiological age. Unlike the self-organizing development of the module architecture (Sec. 5.2), the development of branch modules is expressed deterministically. We calculate intermediate growth stages by interpolating branch diameters and branch lengths. For a branch segment b, its physiological age $a_b$ is defined by
 
@@ -242,98 +207,7 @@ Seeding enables the representation of spatial forest patterns in our method. *Ov
 
 #### 6.4 Climatic Adaptation
 
-We define the climate of an environment to model different biomes (climate space). We assume a constant temperature T and precipitation P across the simulation. While precipitation is defined as a constant for the whole virtual environment, the temperature T is given by a linear function $h \mapsto T(h) = T(0) + \gamma \cdot h$ of the elevation h with a constant negative slope parameter $\gamma < 0$ . Appropriate measurements for $\gamma$ can be found in the literature [Salzmann et al. 2015]. A sensitivity towards temperature and precipitation is defined for each plant type as $T_A$ and $P_A$ . We compute the probability of a plant appearing in a biome by 2D Gaussian kernel (adaptation) functions in the climate space. This is analogous to a Gaussian mixture model by setting up corresponding parameter values:
-
-$$o = \frac{\mathcal{N}_T(T) \cdot \mathcal{N}_P(P)}{\mathcal{N}_T(T_A) \cdot \mathcal{N}_P(P_A)},$$
-## (11)
-
-where $N_T(\cdot)$ and $N_P(\cdot)$ denote the normal distributions of temperature (mean is $T_A$ ) and precipitation (mean is $P_A$ ); see Table 1. Fig. 20 (b) illustrates the design of climatic adaptation by setting the mean and variance values for the adaptation functions of a plant type. For each plant type in the virtual environment we use the difference of the adaptation function and the position in climate space to linearly scale the $\bar{v}_{\text{rootmax}}$ and seeding frequency parameter with probability o.
-
-Plant types with high values for climatic adaptation express their full $\bar{v}_{\text{rootmax}}$ and seeding frequency parameter values in a virtual environment, whereas plants with lower adaptation value receive only a portion of their parameter values during simulation time. Well adapted plant types, therefore, grow more vigorously and reproduce at a faster rate, whereas less adapted species might not grow at all or at a very slow rate. This allows capturing anisotropic, spatial interactions between plants mentioned in Sec. 4.2. Fig. 19 illustrates how temperature changes (due to elevation increase) reduce vigor and seeding frequency. This results in the gradual segregation of the three plant types at different levels of elevation. Moreover, individual plant model architectures adapt to changes of temperature.
-
-## 7 IMPLEMENTATION AND RESULTS
-
-We implemented our interactive framework in C++ and DirectX. To generate the results shown in the paper we used an Intel(R) Core i5, $4 \times 2.5$ GHz with 8GB RAM, and a NVIDIA Geforce GTX 1050 GPU (4 GB RAM). We employ the instancing capabilities of DirectX to generate several instances of the same module and to transform and render them. Furthermore, we use a common shader pipeline of Vertex-, Geometry-, and Fragment Shaders along with the provided attributes of the nodes in the skeletal graph (branch thickness) to build and render intermediate branch geometry to provide users with visual feedback of the scene configuration. We used the *L3DT Terrain Editor* to generate a terrain mesh and a soil map for Fig. 19. Furthermore, we render the majority of the results shown throughout the paper with Houdini. Table 2 reports the simulation times for the different components of our framework.
-
-We implemented a framework to effortlessly generate ecosystems with plant interactions and realistic branching structures at interactive rates. Thereby, the framework allows users to efficiently explore the parameter space of the simulation. This allows for both, exploring natural phenomena related to plant ecosystem development as well as to generate complex forest geometry with high visual fidelity. Details of our framework and a screenshot of the developed user interface can be found in the Appendix A.2.
-
-The polygonal mesh for the whole plant model is generated by computing cylinders for the individual branch segments based on
-
-![](_page_8_Picture_2.jpeg)
-
-## ![](_page_8_Picture_3.jpeg)
-
-## ![](_page_8_Picture_4.jpeg)
-
-## ![](_page_8_Picture_5.jpeg)
-
-Fig. 9. Close-up renderings of articulated branching structures. As our method relies on modeling plants based on individual branch skeletons we can produce complex in-forest renderings of the various biome types: temperate seasonal forest, savanna, desert, and boreal forest (left to right).
-
-## ![](_page_8_Picture_7.jpeg)
-
-## ![](_page_8_Picture_8.jpeg)
-
-## ![](_page_8_Picture_9.jpeg)
-
-## ![](_page_8_Picture_10.jpeg)
-
-## ![](_page_8_Picture_11.jpeg)
-
-Fig. 10. Gap dynamics: starting from a fully grown plant population (a), a few plants are abruptly removed from the population and cause gaps in the ecosystem (b). This yields space to faster growing plants (palm trees) that quickly conquer the gaps (c), (d). Eventually, the well-adapted climax species (deciduous tree) establishes itself as the dominant species (e). The sequence shows the development over a period of 150 years.
-
-Table 2. Performance settings and parameter values for figures in the paper. P=Num. Plants, PT=Plant Types, M=Modules (K), MP=Module Prototypes, B=Branches (K), N=Nodes (K), TS=Time Simulation Step (ms), TR=Time Rendering (ms), TRO=Time Rendering Offline (min), TEMP=Temperature (°C), PREC=Precipitation, AGE=Simulation Age (years).
-
-| Fig. # | P | PT | M | MP | В | N | TS | TR | TRO | TEMP | PREC | AGE |
-|--------|---------|----|-------|----|--------|--------|--------|------|-----|------|--------|------|
-| 1 a | 218 | 3 | 4.6 | 8 | 57.05 | 61.64 | 7 | 4 | 21 | 29.8 | 224.5 | 164 |
-| 1 b | 87 | 3 | 14.0 | 7 | 182.80 | 196.83 | 11 | 5 | 24 | -2.1 | 267.4 | 273 |
-| 1 c | 611 | 3 | 34.4 | 4 | 392.45 | 435.50 | 14 | 19 | 32 | 6.0 | 940.1 | 382 |
-| 1 d | 1,248 | 6 | 18.9 | 7 | 215.97 | 113.89 | 45 | 12 | 36 | 28.0 | 3770.9 | 452 |
-| 10 a | 938 | 7 | 8.4 | 10 | 123.30 | 131.48 | 43 | 15 | 54 | 26.9 | 3055.9 | 389 |
-| 10 b | 926 | 7 | 7.40 | 10 | 111.78 | 118.89 | 43 | 15 | 52 | 26.9 | 3055.9 | 389 |
-| 10 c | 984 | 7 | 8.0 | 10 | 112.29 | 120.00 | 42 | 15 | 53 | 26.9 | 3055.9 | 423 |
-| 10 d | 950 | 7 | 7.6 | 9 | 97.13 | 104.60 | 42 | 15 | 53 | 26.9 | 3055.9 | 487 |
-| 10 e | 848 | 7 | 7.5 | 9 | 94.26 | 101.58 | 41 | 15 | 51 | 26.9 | 3055.9 | 543 |
-| 11 a | 147 | 2 | 2.9 | 3 | 30.39 | 33.35 | 4 | 3 | 19 | -8.1 | 153 | 42 |
-| 11 b | 205 | 2 | 3.8 | 5 | 49.73 | 53.58 | 11 | 5 | 20 | -2.6 | 310.3 | 145 |
-| 11 c | 264 | 3 | 4.1 | 4 | 48.16 | 52.23 | 10 | 4 | 22 | -0.2 | 510.5 | 138 |
-| 11 d | 428 | 3 | 20.40 | 4 | 188.72 | 208.98 | 35 | 9 | 27 | 1.7 | 639.2 | 249 |
-| 11 e | 640 | 5 | 37.49 | 8 | 412.22 | 449.52 | 87 | 18 | 30 | 5.6 | 939.5 | 432 |
-| 11 f | 330 | 3 | 4.2 | 7 | 45.96 | 50.15 | 15 | 6 | 21 | 17.0 | 439.0 | 228 |
-| 11 g | 423 | 4 | 14.38 | 11 | 191.15 | 205.39 | 30 | 8 | 21 | 17.5 | 667.8 | 134 |
-| 11 h | 776 | 4 | 19.8 | 11 | 273.21 | 292.67 | 34 | 8 | 23 | 18.3 | 939.5 | 201 |
-| 11 i | 967 | 4 | 6.68 | 8 | 56.48 | 62.27 | 17 | 4 | 24 | 18.3 | 1239.8 | 223 |
-| 11 j | 1,404 | 3 | 9.23 | 4 | 103.45 | 112.47 | 20 | 7 | 24 | 18.3 | 1239.8 | 272 |
-| 12 a | 463 | 10 | 8.5 | 9 | 105.47 | 113.89 | 18 | 5 | 22 | 18.1 | 739.3 | 121 |
-| 12 b | 168 | 2 | 2.6 | 5 | 38.83 | 41.39 | 6 | 4 | 25 | 30.2 | 396.1 | 73 |
-| 12 c | 767 | 5 | 13.6 | 5 | 148.70 | 162.13 | 20 | 8 | 29 | 17.7 | 2526.8 | 486 |
-| 19 g | 468,199 | 3 | 2,271 | 15 | 23,283 | 26,776 | 18,796 | 3620 | N/A | 15.2 | 672.6 | 1400 |
-
-their diameter and length. In our interactive tool foliage is represented as textured quads; we do not render grass. For the offline rendered results we generate foliage and grass procedurally with Houdini (particle strands).
-
-#### 7.1 Results
-
-In Fig. 1, 11, and 12 we show the final results produced with our modeling pipeline. The simulated plant populations show the characteristic features of the corresponding ecosystem types, ranging from small bushes and forbs in the Savanna, to tall growing pine trees for the Boreal Forest and densely populated plants in a Rain Forest. Altogether, our method is able to capture the properties of the nine biome types, introduced by the temperature-precipitation diagram (Fig. 2). As our method relies on representing branching structures as individual plants we can also produce realistic close-up renderings of the generated ecosystems, shown in Fig. 9.
-
-We capture a variety of biological phenomena including successions, climatic adaptation, and gap dynamics. Moreover, our method is able to generate unique branching structures for each plant and the whole ecosystem. Fig. 3 and Fig. 10 show the successional stages of a developing ecosystem. During the simulation, plants die and decay, which opens space for existing and new plants. After an occurring disturbance of a plant ecosystem, new plants, such as grasses, forbs, and shrubs develop.
-
-The results in Fig. 11 show transitions through the temperature precipitation diagram. Our method is able to capture the variations of the different biome types, which allows to simulate plausible plant ecosystems. We show transitions from Tundra to Boreal Forest (a)-(e), as well as from Temperate Grassland to Temperate Forest (f)-(j).
-
-The adaptation of branching structures according to varying distances to other plants is shown in Fig. 13. A plant growing together with surrounding plants develops a different branching structure compared to solitary grown plants. When growing in more densely populated environments, it grows taller but less vigorous and develops an asymmetric architecture due to the competition for light with neighboring plants.
-
-In Fig. 19 we show a large-scale plant ecosystem developed on an initially empty terrain (e.g. the period of time just after an ice age). As we use instancing for the branch modules, we can model and render plant populations with up to 500K plants. Each plant is modeled with a unique branching structure interacting with neighboring plants and the terrain.
-
-### EVALUATION, DISCUSSION, AND LIMITATIONS
-
-To validate the module orientation optimization algorithm, we calculate the intersection volume ratio of the bounding spheres of each module. We define it as the sum of volumes of intersections between modules divided by the total volume of all modules in the ecosystem. Fig. 15 (a) shows a comparison of ecosystem development with and without module orientation optimization. The naive approach increases quickly to a high percentage of volume intersection ratios indicating a high overlap of modules. Conversely, the approach with orientation optimization maintains volume intersection ratios below 5% throughout the simulation, indicating a
-
-![](_page_9_Figure_1.jpeg)
-
-Fig. 11. Biome transitions: by selecting temperature and precipitation our framework allows us to transition from one biome to another and thereby to generate a large variety of plausible ecosystems. The top row shows the transition from tundra to boreal forest (a)-(e), while the bottom row (f )-(j) shows the transition from temperate grassland to shrubland, and then to temperate forest. The diagrams show the locations of the corresponding biomes types in the temperature-precipitation diagram (Fig. 2\). Each biome was simulated for a period of several hundred years.
-
-very small overlap of module bounding volumes. We conclude that the optimization process successfully prevents most collisions of branches in the ecosystem. Usually, no more than 3 optimization steps are necessary to converge.
-
-A known biological law in forest development is the self-thinning of plant populations. To evaluate self-thinning, we compare our results to the logistic growth function [\[Vanclay 1995\]](#page-12-37). We simulate the growth of 1,000 pine trees and measured the total biomass of the ecosystem (assuming a homogeneous wood density). Fig. 15 (b) illustrates that the curve resembles the logistic growth function. We also evaluate self-thinning through comparison of simulation data for the ecosystem shown in Fig. 19 (d) to the 3/2 power law \[Zeide [1987\]](#page-12-38). Results are shown in Fig. 14 and indicate a high-degree of correlation of the regression line (for plants with a diameter > 5 cm) and the 3/2 power law. Tree structure is known to vary in branch lengths and diameters within the architecture. Therefore, we measured emerging allometries of tree height and trunk diameter as well as leaf dry mass and trunk diameter for a growing stand of simulated pine trees (Fig. 16\). The results are in agreement to simulated and real data reported by other sources \[Eloy et al. [2017\]](#page-11-27).
+We define the climate of an environment to model different biomes (climate space). We assume a constant temperature T and precipitation P across the simulation. While precipitation is defined as a constant for the whole virtual environment, the temperature T is given by a linear function $h \mapsto T(h) = T(0) + \gamma \cdot h$ of the elevation h with a constant negative slope parameter $\gamma  5 cm) and the 3/2 power law. Tree structure is known to vary in branch lengths and diameters within the architecture. Therefore, we measured emerging allometries of tree height and trunk diameter as well as leaf dry mass and trunk diameter for a growing stand of simulated pine trees (Fig. 16\). The results are in agreement to simulated and real data reported by other sources \[Eloy et al. [2017\]](#page-11-27).
 
 In Fig. 17 we report the results of modeling a single tree with variable numbers of branch modules as well as module prototypes with different complexity. Examples of instantiated module prototypes are shown in the circles. Our multiscale method allows balancing the deterministic development at module scale and self-organizing development at plant scale. Model (a) was generated with a few (99), but complex branch modules (deterministic development), while model (c) was simulated with many (1204)
 

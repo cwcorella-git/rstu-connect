@@ -1,3 +1,8 @@
+---
+title: "## **A new Lucas Plan for the future**"
+category: "contemporary-analysis"
+---
+
 ## **A new Lucas Plan for the future**
 
 ## **Date:** Sat, 11/26/2016 - 18:13

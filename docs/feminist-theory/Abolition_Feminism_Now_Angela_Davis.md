@@ -1,3 +1,8 @@
+---
+title: "ABOLITION. FEMINISM. NOW."
+category: "feminist-theory"
+---
+
 # ABOLITION. FEMINISM. NOW.
 
 Angela Y. Davis
@@ -1188,35 +1193,163 @@ Tukufu Zuberi, Center for Africana Studies, University of Pennsylvania
 
 This poster is a tool to assess and understand differences between reforms that strengthen imprisonment and abolitionist steps that reduce its overall impact and grow other possibilities for well-being. As we work to dismantle incarceration in all its forms, we must resist common reforms that create or expand cages anywhere, including under the guise of "addressing needs" or as "updated" replacements. Jails and prisons deprive communities of resources like medical and mental health care, transportation, food, and housing. In our fights, it is critical to uplift and strategically contribute to movements led by imprisoned people, both to address pressing conditions and for abolition. In all decarceration strategies, we must utilize tactics that will improve life for those most affected and make space to build the worlds we need.
 
-| DOES<br>THIS | Reduce the number of people imprisoned, under surveillance, or under other forms of state control? | Reduce the<br>reach of jails,<br>prisons, and<br>surveillance in<br>our everyday<br>lives? | Create resources and infrastructures that are steady, preventative, and accessible without police and prison guard contact? | Strengthen<br>capacities to<br>prevent or<br>address harm<br>and create<br>processes for<br>community<br>accountability? |
+| DOES
+THIS | Reduce the number of people imprisoned, under surveillance, or under other forms of state control? | Reduce the
+reach of jails,
+prisons, and
+surveillance in
+our everyday
+lives? | Create resources and infrastructures that are steady, preventative, and accessible without police and prison guard contact? | Strengthen
+capacities to
+prevent or
+address harm
+and create
+processes for
+community
+accountability? |
 |--------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
-| Building jails<br>or prisons to<br>address over-<br>crowding or<br>rising num-<br>bers of "new"<br>prisoners<br>(for example,<br>migrants) | NO. If they build it, they will fill it! Building more jails and pris- ons creates more cages, period! | NO. Building more jails and prisons increases the reach of the PIC and prison and jail infrastructures. Creating more cages means building something we have to tear down later. | NO. Adding cages takes away state and local funding and resources that could be directed to community-led infrastructures. | NO. Building more prisons and jails entrenches the carceral logic of accountability. They are sites that perpetuate violence and harm. |
+| Building jails
+or prisons to
+address overcrowding or
+rising numbers of "new"
+prisoners
+(for example,
+migrants) | NO. If they build it, they will fill it! Building more jails and pris- ons creates more cages, period! | NO. Building more jails and prisons increases the reach of the PIC and prison and jail infrastructures. Creating more cages means building something we have to tear down later. | NO. Adding cages takes away state and local funding and resources that could be directed to community-led infrastructures. | NO. Building more prisons and jails entrenches the carceral logic of accountability. They are sites that perpetuate violence and harm. |
 
-| DOES<br>THIS | Reduce<br>the number<br>of people<br>imprisoned,<br>etc? | Reduce the reach of jails, in our every-day lives? | Create<br>resources<br>without police<br>and prison<br>guard contact? | Strengthen<br>capacities to<br>prevent or<br>address harm? |
+| DOES
+THIS | Reduce
+the number
+of people
+imprisoned,
+etc? | Reduce the reach of jails, in our every-day lives? | Create
+resources
+without police
+and prison
+guard contact? | Strengthen
+capacities to
+prevent or
+address harm? |
 |------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Building "closer to home," or as "nicer," "modern," "rehabilitative" alternatives to existing jails or prisons | NO. The history of the prison is a history of reform. New jails and prisons that are proposed as improvements on existing sites or buildings expand the arguments for and lengthen the life of imprisonment. | NO. There is no such thing as a "humane" cage. Construction under the pretense of addressing the harms that imprisonment reinforces the logics of using cages as a solution for social, economic, and political issues. | NO. Arguments for jails "closer to home" reinforce the idea that jails and police create "safety" and take away the capacity to build resources that can create well-being. | NO. Prisons and jails do not enable accountability. They are sites that perpetuate violence and harm. |
-| Building<br>jails/prisons<br>that focus on<br>"providing<br>services" to<br>address the<br>needs of<br>specific "pop-<br>ulations" | NO. Life- affirming re- sources cannot be provided in spaces of imprison- ment. These "services" do not decrease numbers of imprisoned people—they keep specific populations of people imprisoned. | NO. Building jails and prisons that lock up specific populations expands the reach of imprisonment by normalizing the idea that care can and should be coupled with policing and imprisonment. | NO. The argument for these jails and prisons is that they provide specialized services through policing, imprisonment, and control. Environments of control and violence cannot provide care. | NO. Prisons and jails do not enable accountability. They are sites that perpetuate violence and harm, and solidify oppressive social expectations around gender, sexuality, and mental health. |
+| Building
+jails/prisons
+that focus on
+"providing
+services" to
+address the
+needs of
+specific "populations" | NO. Life- affirming re- sources cannot be provided in spaces of imprison- ment. These "services" do not decrease numbers of imprisoned people—they keep specific populations of people imprisoned. | NO. Building jails and prisons that lock up specific populations expands the reach of imprisonment by normalizing the idea that care can and should be coupled with policing and imprisonment. | NO. The argument for these jails and prisons is that they provide specialized services through policing, imprisonment, and control. Environments of control and violence cannot provide care. | NO. Prisons and jails do not enable accountability. They are sites that perpetuate violence and harm, and solidify oppressive social expectations around gender, sexuality, and mental health. |
 
-| DOES<br>THIS | Reduce<br>the number<br>of people<br>imprisoned,<br>etc? | Reduce the reach of jails, in our every-day lives? | Create<br>resources<br>without police<br>and prison<br>guard contact? | Strengthen<br>capacities to<br>prevent or<br>address harm? |
+| DOES
+THIS | Reduce
+the number
+of people
+imprisoned,
+etc? | Reduce the reach of jails, in our every-day lives? | Create
+resources
+without police
+and prison
+guard contact? | Strengthen
+capacities to
+prevent or
+address harm? |
 |---------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Legislative<br>and other<br>efforts to sin-<br>gle out some<br>conviction<br>categories as<br>"exceptions" | NO. This strategy entrenches the idea that anybody "deserves" or "needs" to be locked up. Prioritizing only some people for release justifies expansion. | NO. By dou-<br>bling-down<br>on the "need"<br>for some<br>people to be<br>locked up,<br>these efforts<br>strengthen<br>and expand<br>the reach of<br>prisons, jails,<br>and the PIC. | NO. Manufacturing divisions between imprisoned people, as more or less "dangerous," limits our ability to create real supports and resources that sustain all people. | NO. These efforts reinscribe the idea that some people are "risks" to society and others "deserve another chance," strengthening logics of punishment without engaging the context of how harms happen. |
+| Legislative
+and other
+efforts to single out some
+conviction
+categories as
+"exceptions" | NO. This strategy entrenches the idea that anybody "deserves" or "needs" to be locked up. Prioritizing only some people for release justifies expansion. | NO. By doubling-down
+on the "need"
+for some
+people to be
+locked up,
+these efforts
+strengthen
+and expand
+the reach of
+prisons, jails,
+and the PIC. | NO. Manufacturing divisions between imprisoned people, as more or less "dangerous," limits our ability to create real supports and resources that sustain all people. | NO. These efforts reinscribe the idea that some people are "risks" to society and others "deserve another chance," strengthening logics of punishment without engaging the context of how harms happen. |
 | Use of electronic monitoring (home arrest) and other law enforcement-led "alternatives" to jails and prisons. | NO. Electronic monitoring is a form of state control. It escalates the frequency of contact with the PIC for all members of a household, increasing the vulnerability of people already subject to policing and surveillance. | NO. Monitoring brings the prison, jail, or detention center into a person's home, turning it into a space of incarceration, which takes both a psychological and a financial toll. | NO. E-carceration means that regular daily movements are constantly linked to threats of arrest. This does not allow people to build and maintain community. | NO. E-carceration extends the violence and harm of imprisonment into people's homes and everyday lives. Nothing about electronic monitoring creates systems of accountability or healing. |
 
-| DOES<br>THIS | Reduce<br>the number<br>of people<br>imprisoned,<br>etc? | Reduce the<br>reach of jails,<br>in our every-<br>day lives? | Create<br>resources<br>without police<br>and prison<br>guard contact? | Strengthen<br>capacities to<br>prevent or<br>address harm? |
+| DOES
+THIS | Reduce
+the number
+of people
+imprisoned,
+etc? | Reduce the
+reach of jails,
+in our everyday lives? | Create
+resources
+without police
+and prison
+guard contact? | Strengthen
+capacities to
+prevent or
+address harm? |
 |------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Public / private "partnerships" to contract services that replicate conditions of imprisonment | NO. These services move people from one locked facility into another facility often with similar rules and with the threat of jail or prison looming. | NO. This expands the reach of imprisonment, by adding to the larger system. This is particularly the case where the partnerships replicate and expand logics and rules of jails and prisons, as opposed to intentionally challenging them. | NO. These programs require moving through the policing and court systems to access any services that might be available there. | NO. Court mandated / police-run "justice" processes hold similar threats for participants as the broader PIC. They do not necessarily include meaningful processes for creating accountability or tools for preventing future harm. |
-| Decarceration —or reducing the number of people in prisons and jails | YES. De-<br>carceration<br>takes people<br>out of prisons<br>and jails, and<br>out of direct<br>state control,<br>with the aim<br>of supporting<br>people to stay<br>outside. | YES. By de-prioritizing and de- legitimizing jails, prisons, and related systems we reduce the common- sense idea that they are necessary and/or "effective" | YES. As part of abolitionist organizing we must focus on getting people out while building strong infrastructures of support. | YES. When we work to diminish carceral logic, we can pair our work to- ward decarcer- ation with other ways of responding to and pre- venting harm. Investing in one will grow our capacities for the other. |
+| Decarceration —or reducing the number of people in prisons and jails | YES. Decarceration
+takes people
+out of prisons
+and jails, and
+out of direct
+state control,
+with the aim
+of supporting
+people to stay
+outside. | YES. By de-prioritizing and de- legitimizing jails, prisons, and related systems we reduce the common- sense idea that they are necessary and/or "effective" | YES. As part of abolitionist organizing we must focus on getting people out while building strong infrastructures of support. | YES. When we work to diminish carceral logic, we can pair our work to- ward decarcer- ation with other ways of responding to and pre- venting harm. Investing in one will grow our capacities for the other. |
 
-| DOES<br>THIS | Reduce<br>the number<br>of people<br>imprisoned,<br>etc? | Reduce the<br>reach of jails,<br>in our every-<br>day lives? | Create<br>resources<br>without police<br>and prison<br>guard contact? | Strengthen<br>capacities to<br>prevent or<br>address harm? |
+| DOES
+THIS | Reduce
+the number
+of people
+imprisoned,
+etc? | Reduce the
+reach of jails,
+in our everyday lives? | Create
+resources
+without police
+and prison
+guard contact? | Strengthen
+capacities to
+prevent or
+address harm? |
 |---------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Shutting down existing jails and prisons and not replacing them | YES. By reducing the number of cages, we can reduce the number of people inside. | YES. When we close a jail or prison and do not replace it with other carceral systems, we chip away at the idea that cages address social, political, and economic problems. | YES, when we organize for it. When we fight to close jails and prisons we can open the way to defund imprisonment and invest in infrastructures locally that support and sustain people. Abolition is also a BUILDING strategy. | YES. Our work to close prisons and jails and keep them closed is one step toward shifting the focus to addressing and preventing harm without violence and putting resources into that work. |
-| Rejecting<br>government<br>spending for<br>jail and prison<br>construction,<br>renovation,<br>expansion | YES. Nearly all spending projects include enhancements that support arguments for the "benefits" of incarceration. | YES. By rejecting spending on jails and prisons, we counter the commonsense argument that they are necessary and reduce the system's reach. | YES. When we reject funding for jails and prisons this can create opportunities to defund imprisonment and invest in infrastructures locally that support and sustain people. | YES. When we reject funding for jails and prisons this can create opportunities to defund imprisonment and invest in infrastructures locally that support and sustain people. |
+| Rejecting
+government
+spending for
+jail and prison
+construction,
+renovation,
+expansion | YES. Nearly all spending projects include enhancements that support arguments for the "benefits" of incarceration. | YES. By rejecting spending on jails and prisons, we counter the commonsense argument that they are necessary and reduce the system's reach. | YES. When we reject funding for jails and prisons this can create opportunities to defund imprisonment and invest in infrastructures locally that support and sustain people. | YES. When we reject funding for jails and prisons this can create opportunities to defund imprisonment and invest in infrastructures locally that support and sustain people. |
 
-| DOES<br>THIS | Reduce<br>the number<br>of people<br>imprisoned,<br>etc? | Reduce the<br>reach of jails,<br>in our every-<br>day lives? | Create resources without police and prison guard contact? | Strengthen<br>capacities to<br>prevent or<br>address harm? |
+| DOES
+THIS | Reduce
+the number
+of people
+imprisoned,
+etc? | Reduce the
+reach of jails,
+in our everyday lives? | Create resources without police and prison guard contact? | Strengthen
+capacities to
+prevent or
+address harm? |
 |-----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Reducing policing and police contact in general, and "quality of life" policing, specifically | YES. Policing feeds imprisonment, and is an important part of systems of control. Reducing police contact reduces the number of people caught in the criminal legal system. | YES. Policing is a justification for imprisonment. By reducing police contact, the legitimacy and power of jails and prisons can be reduced. | YES. When we fight to reduce police contact and funding, we can free up state resources. We can organize allocation to community-led infrastructures that are decoupled from policing. We must eliminate all forms of policing from social and community services. | YES. Policing does not prevent harm, but actually causes it. Fighting to reduce policing provides opportunities for communities to invest in systems that prevent harm and create accountability. |
 
-| DOES<br>THIS | Reduce<br>the number<br>of people<br>imprisoned,<br>etc? | Reduce the<br>reach of jails,<br>in our every-<br>day lives? | Create resources without police and prison guard contact? | Strengthen<br>capacities to<br>prevent or<br>address harm? |
+| DOES
+THIS | Reduce
+the number
+of people
+imprisoned,
+etc? | Reduce the
+reach of jails,
+in our everyday lives? | Create resources without police and prison guard contact? | Strengthen
+capacities to
+prevent or
+address harm? |
 |-----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Creating voluntary, accessible, community-run services and infra-structures | YES. Access to services that address needs people articulate for themselves can reduce vulnerability to police contact and prevent harm, while building sites for self-determi- nation. | YES. Voluntary services that are community-led and -informed take power away from jails and prisons by removing the focus on imprisonment as a solution to social, economic, and political issues. | YES. When we create services and infrastructures that are de-coupled from policing and imprisonment we develop systems with the potential to engage with people's complex needs in consistent and trust-building ways. | YES. People getting their needs met in community-determined and -led ways prevents harm. By bolstering resources that address harm, without replicating harm, we create opportunities for community accountability, not punishment and isolation. |
 
@@ -1285,7 +1418,7 @@ S[urvivors for Divestment, http://www.defendsurvivorsnow.org/survivors](http://w
 - Chen, Ching-In, Jai Dulani, and Leah Lakshmi Piepzna-Samarasinha. T*he Revolution Starts at Home: Confronting Intimate Violence Within Activist Communities*. Brooklyn, NY: South End Press, 2016.
 - Cherone, Heather. "Pritzker Unveils Plan to 'Transform' Juvenile Justice in Illinois by Closing Large Facilities." WTTW News. July 31, 2020. [https://news.wttw.com/2020/07/31/pritzker-unveils-plan-transform](https://news.wttw.com/2020/07/31/pritzker-unveils-plan-transform-juvenile-justice-illinois-closing-large-facilities)juvenile-justice-illinois-closing-large-facilities.
 - Combahee River Collective. "Combahee River Collective Statement." In *Let Nobody Turn Us Around: Voices of Resistance, Reform, and Renewal*, edited by Manning Marable and Leith Mullings, 501–506. New York: Rowman and Littlefield, 2000.
-- Committee on Domestic Violence and Incarcerated Women. "Battered Women and Criminal Justice: A Report of the Committee on Domestic Violence and Incarcerated Women." June 1987. <https://www.ojp.gov/pdffiles1/Digitization/107516NCJRS.pdf>.
+- Committee on Domestic Violence and Incarcerated Women. "Battered Women and Criminal Justice: A Report of the Committee on Domestic Violence and Incarcerated Women." June 1987. .
 - Community Organizing and Family Issues. "Parent-to-Parent Guide: Restorative Justice in Chicago Public Schools." Power-Pac Elementary [Justice Campaign. December 2015, https://cofionline.org/COFI/cofi](https://cofionline.org/COFI/cofi-reports/parent-to-parent-guide-restorative-justice/)reports/parent-to-parent-guide-restorative-justice/.
 - Congressional Research Service. "The Violence Against Women Act (VAWA): Historical Overview, Funding, and Reauthorization." April 23, 2019. [https://fas.org/sgp/crs/misc/R45410.pdf.](https://fas.org/sgp/crs/misc/R45410.pdf)
 - Cordoso, Tom and Molly Hayes. "Canadian Cities' Police Spending Ranges from One-10th to Nearly a Third of Total Budgets, Globe Analysis Finds." *Globe and Mail*. August 16, 2020.
@@ -1363,8 +1496,8 @@ S[urvivors for Divestment, http://www.defendsurvivorsnow.org/survivors](http://w
 - Patterson, Orlando. *Slavery and Social Death: A Comparative Study*. Cambridge, MA: Harvard University Press, 1982.
 - People Against Prisons Aotearoa in Aoteroa/New Zealand. "Transformative Justice Workshop: Practical Ways of Solving Interpersonal Harm and Conflict in our Communities." https://papa-site[assets.ams3.cdn.digitaloceanspaces.com/publications/transformative](https://papa-site-assets.ams3.cdn.digitaloceanspaces.com/publications/transformative-justice-workshop-v2.pdf)justice-workshop-v2.pdf.
 - Perkinson, Robert. *Texas Tough: The Rise of America's Prison Empire*. New York: Henry Holt, 2010.
-- Piercy, Marge. "To Be of Use." From *Circles in the Water: Selected Poems of Marge Piercy*. New York: Alfred A. Knopf. (1982), <https://www.poetryfoundation.org/poems/57673/to-be-of-use>.
-- Prison Policy Institute. "The Most Significant Criminal Justice Policy Changes from the COVID-19 Pandemic." May 18, 2021. <https://www.prisonpolicy.org/virus/virusresponse.html>.
+- Piercy, Marge. "To Be of Use." From *Circles in the Water: Selected Poems of Marge Piercy*. New York: Alfred A. Knopf. (1982), .
+- Prison Policy Institute. "The Most Significant Criminal Justice Policy Changes from the COVID-19 Pandemic." May 18, 2021. .
 
 - Prison Research Education Action Project. *Instead of Prisons: A Handbook for Abolitionists*. Syracuse: Prison Research Education Action Project, 1976.
 - Quinn, Therese and Erica R. Meiners. "Good Cop? Bad Cop? No Cop! Queer Resistance to Policing." *Windy City Times*. July 29, 2015.
@@ -1445,7 +1578,7 @@ S[urvivors for Divestment, http://www.defendsurvivorsnow.org/survivors](http://w
 - 7. See also *Abolition for the People: The Movement for a Future without Policing & Prisons*, ed. Colin Kaepernick (Kaepernick Publishing, 2021).
 - 8. Nicole Fleetwood, *Marking Time: Art in the Age of Mass Incarceration* (Cambridge: Harvard University Press, 2020).
 - 9. For more on the Fund Black Futures demand of organizations such as the Black Youth Project 100, see David Turner, "#Resist Capitalism to #Fund Black Futures: Black Youth, Political Economy, and the 21st Century Black Radical Imagination" in Abolition Journal (12/8/2016), [https://abolitionjournal.org/resistcapitalism-to-fundblackfutures.](https://abolitionjournal.org/resistcapitalism-to-fundblackfutures)
-- 10. See Papel Machete's performance: <https://www.youtube.com/watch?v=qtAPHtG0hLQ>.
+- 10. See Papel Machete's performance: .
 - 11. See Avery F. Gordon's work, especially *The Hawthorne Archive: Letters from the Utopian Margins* (New York: Fordham University Press, 2013).
 - 12. On "evangelical zeal," see Roger Lancaster, "How to End Mass Incarceration," *Jacobin*, August 18, 2017, [https://jacobinmag.com/2017/08/mass-incarceration-prison](https://jacobinmag.com/2017/08/mass-incarceration-prison-abolition-policing)abolition-policing. On "extremism," see Darren Walker, "In Defense of Nuance," Ford Foundation September 19, 2019, [https://www.fordfoundation.org/ideas/equals-change](https://www.fordfoundation.org/ideas/equals-change-blog/posts/in-defense-of-nuance)blog/posts/in-defense-of-nuance.
 - 13. Harsha Walia, *Undoing Border Imperialism* (Chico, CA: AK Press, 2013).
@@ -1468,7 +1601,7 @@ S[urvivors for Divestment, http://www.defendsurvivorsnow.org/survivors](http://w
 - 8. American Friends Service Committee Working Party, *Struggle for Justice: A Report on Crime and Punishment in America* (New York: Hill and Wang, 1971), 173.
 - 9. Prison Research Education Action Project, *Instead of Prisons: A Handbook for Abolitionists* (Syracuse: Prison Research Education Action Project, 1976), 19.
 - 10. Fay Honey Knopp, "Radical Feminism and Abolition," *Peace Review* 6, no. 2 (1994): 203–208.
-- 11. See the archives of the Santa Cruz Women's Prison Project at Freedom Archives, <https://www.ncjrs.gov/pdffiles1/Digitization/107516NCJRS.pdf>.
+- 11. See the archives of the Santa Cruz Women's Prison Project at Freedom Archives, .
 - 12. As the conversation continued, it was joined by radical philanthropist Gita Drury, who introduced the emergent organizing committee to Edwin Cohen and his Blessing Way Foundation, which provided the seed funds for the conference. For more context on Critical Resistance and this initial convening, see the 2000 special edition of *Social Justice* (volume 27, no. 3), edited by the Critical Resistance Publications Collective ("Critical Resistance to the Prison-Industrial Complex").
 - 13. See *Captive Genders: Trans Embodiment and the Prison Industrial Complex* edited by Eric Stanley and Nat Smith (2011).
 - 14. This thesis is elaborated in Kaaryn S. Gustafson's *Cheating Welfare: Public Assistance and the Criminalization of Poverty* (New York: New York University Press, 2011).
@@ -1476,7 +1609,7 @@ S[urvivors for Divestment, http://www.defendsurvivorsnow.org/survivors](http://w
 - 15. Dorothy Roberts, *Killing the Black Body: Race, Reproduction, and the Meaning of Liberty* (New York: Vintage, 1997). See also Roberts's most recent work, *Torn Apart: How the Child Welfare System Destroys Black Families—And How Abolition Can Build a Safer World* (New York: Basic Books, 2022).
 - 16. "'Abolition Is the Only Answer': A Conversation with Dorothy Roberts," *Rise*, October 20, 2020, [https://www.risemagazine.org/2020/10/conversation-with](https://www.risemagazine.org/2020/10/conversation-with-dorothy-roberts)dorothy-roberts.
 - 17. Mike Davis, "Hell Factories in the Field: A Prison-Industrial Complex, *Nation*, February 20, 1995. See also Angela Y. Davis, "Masked Racism: Reflections on the Prison Industrial Complex," Colorlines, September 10, 1998.
-- 18. Critical Resistance, "What Is the PIC? What Is Abolition?" <http://criticalresistance.org/about/not-so-common-language/>.
+- 18. Critical Resistance, "What Is the PIC? What Is Abolition?" .
 - 19. In 1974 the North Carolina Prisoners Labor Union, one of many vibrant attempts to form a labor union in prison in the 1970s, demanded an end to "the judicial-prison-parole-industrial complex." See Dan Berger and Emily K. Hobson, *Remaking Radicalism: A Grassroots Documentary Reader of the United States, 1973–2001* (Athens: University of Georgia Press, 2020).
 - 20. See Angela Davis and Gina Dent, "Prison as a Border: A Conversation on Gender, Globalization, and Punishment," *Signs* 26, no. 4 "Globalization and Gender" (Summer 2001): 1235–41.
 - 21. Stuart Hall, et al., *Policing the Crisis: Mugging, the State, and Law and Order* (London: Macmillan, 1978).
@@ -1486,7 +1619,7 @@ S[urvivors for Divestment, http://www.defendsurvivorsnow.org/survivors](http://w
 - ways in which it exploited and built upon regimes of racism and heteropatriarchy.
 - 24. See the Sisters Inside website at [https://sistersinside.com.au](https://sistersinside.com.au/).
 - 25. "What We Do," Canadian Association of Elizabeth Fry Societies, [https://www.caefs.ca/what-we-do.](https://www.caefs.ca/what-we-do)
-- 26. See this Amnesty International Report on the campaign against F-type prisons organized by Kurdish revolutionaries: <https://www.refworld.org/pdfid/3b83b70ae.pdf>.
+- 26. See this Amnesty International Report on the campaign against F-type prisons organized by Kurdish revolutionaries: .
 - 27. Critical Resistance, "What Is the PIC? What Is Abolition?"
 - 28. André Gorz, *Strategy for Labor: A Radical Proposal* (Boston: Beacon Press, 1967) and Thomas Mathiesen, *The Politics of Abolition* (London: Martin Robertson and Company, 1974).
 - 29. Ruth Wilson Gilmore, "Making and Unmaking Mass Incarceration Conference," University of Mississippi, December 2019.
@@ -1501,7 +1634,7 @@ S[urvivors for Divestment, http://www.defendsurvivorsnow.org/survivors](http://w
 - 37. Michelle Alexander, *The New Jim Crow: Mass Incarceration in the Age of Colorblindness* (New York: New Press, 2010); *13th*, directed by Ava Du Vernay (2016, Oakland, CA: Forward Movement).
 - 38. See Anna Mae Duane and Erica Meiners, "Working Analogies: Slavery Now and Then," in *Fighting Modern Slavery and Human Trafficking: History and Contemporary Policy*, edited by Jessica Pliley, Genevieve Le Baron, and David W. Blight (Cambridge, UK: Cambridge University Press, 2021).
 - 39. Robert Perkinson, *Texas Tough: The Rise of America's Prison Empire* (New York: Henry Holt, 2010).
-- 40. See the Polaris Project (<https://polarisproject.org/>) and Julie Bindel, *The Pimping of Prostitution: Abolishing the Sex Work Myth* (London: Palgrave, 2017).
+- 40. See the Polaris Project () and Julie Bindel, *The Pimping of Prostitution: Abolishing the Sex Work Myth* (London: Palgrave, 2017).
 - 41. See Aja Romano, "A New Law Intended to Curb Sex Trafficking Threatens the Future of the Internet as We Know It," Vox, July 2, [2018, https://www.vox.com/culture/2018/4/13/17172762/fosta](https://www.vox.com/culture/2018/4/13/17172762/fosta-sesta-backpage-230-internet-freedom)sesta-backpage-230-internet-freedom; and Liz Tung, "FOSTA-SESTA Was Supposed to Thwart Sex Trafficking. Instead, It's Sparked a Movement," PBS, July 10, 2020,
 
 - [https://whyy.org/segments/fosta-sesta-was-supposed-to-thwart](https://whyy.org/segments/fosta-sesta-was-supposed-to-thwart-sex-trafficking-instead-its-sparked-a-movement/)sex-trafficking-instead-its-sparked-a-movement/.
@@ -1522,7 +1655,7 @@ S[urvivors for Divestment, http://www.defendsurvivorsnow.org/survivors](http://w
 
 #### **II. Feminism.**
 
-- 1. "Moment of Truth: Statement of Commitment to Black Lives," June 30, 2020,<https://wscadv.org/news/moment-of-truth>.
+- 1. "Moment of Truth: Statement of Commitment to Black Lives," June 30, 2020,.
 - 2. Tommy Simmons, "Law Enforcement Groups Withdraw Support of Idaho Coalition Over Letter Calling for Racial Justice," *Idaho State Journal*, October 21, 2020, [https://www.idahostatejournal.com/news/local/law-enforcement](https://www.idahostatejournal.com/news/local/law-enforcement-groups-withdraw-support-of-idaho-coalition-over-letter-calling-for-racial-justice/article_cef47a44-5de3-55f7-9998-3f17ef458777.html)groups-withdraw-support-of-idaho-coalition-over-letter-callingfor-racial-justice/article\_cef47a44-5de3-55f7-9998- 3f17ef458777.html.
 - 3. Embrace, "Embrace Supports Communities of Color," [https://www.documentcloud.org/documents/20398151-embrace-](https://www.documentcloud.org/documents/20398151-embrace-statement-on-supporting-communities-of-color)
 
@@ -1534,7 +1667,6 @@ S[urvivors for Divestment, http://www.defendsurvivorsnow.org/survivors](http://w
 - 8. Beth E. Richie, *Arrested Justice: Black Women, Violence, and America's Prison Nation* (New York: New York University Press, 2016); Susan Schechter, *Women and Male Violence: The Visions and Struggles of the Battered Women's Movement* (Boston: South End Press, 1982).
 - 9. Lisa Levenstein, *They Didn't See Us Coming: The Hidden History of Feminism in the Nineties* (New York: New York: Basic Books, 2020); Ann Russo, *Feminist Accountability: Disrupting Violence and Transforming Power* (New York University Press, 2018); Beth Richie, Val Kalei Kanuha, and Kayla Martensen, "Colluding With and Resisting the State: Organizing Against Gender Violence in the U. S.," *Feminist Criminology*, January 19, 2021,
 
-<https://journals.sagepub.com/doi/full/10.1177/1557085120987607>
 
 .
 
@@ -1547,7 +1679,7 @@ S[urvivors for Divestment, http://www.defendsurvivorsnow.org/survivors](http://w
 - 16. Committee on Domestic Violence and Incarcerated Women, "Battered Women and Criminal Justice: A Report of the
 
 - Committee on Domestic Violence and Incarcerated Women," June 1987,
-- <https://www.ojp.gov/pdffiles1/Digitization/107516NCJRS.pdf>.
+- .
 - 17. See the Santa Cruz Women's Prison Project Newsletter, February 1974, at [http://freedomarchives.org/Documents/Finder/DOC70\\_scans/70S](http://freedomarchives.org/Documents/Finder/DOC70_scans/70. SCWPP. Newsletter. Feb1974.pdf) CWPP. Newsletter. Feb1974.pdf..
 - 18. These organizations were (and are) supported by abolition feminists like Alisa Bierria, Kathy Boudin, Rachel Caidor, Monica Cosby, Andrea James, Mariame Kaba, Mimi Kim, Colby Lenz, Miss Major, Colette Payne, Cassandra Shaylor, Gail Smith, and Dean Spade.
 - 19. Beth E. Richie, *Compelled to Crime: The Gender Entrapment of Battered Black Women* (New York: Routledge, 1996); Karlene Faith, *Unruly Women: The Politics of Confinement & Resistance* (New York: Seven Stories Press, 2011 [1993]); Paula Johnson, *Inner Lives: Voices of African American Women in Prison* (New York: NYU Press, 2004).
@@ -1570,7 +1702,7 @@ S[urvivors for Divestment, http://www.defendsurvivorsnow.org/survivors](http://w
 - 34. The 2021 version, which was being considered as this book was going to press, included a provision for restorative justice, which many mainstream organizations supported, thereby fortifying carceral expansion and commitment to the criminal legal system.
 - 35. Connor Friedersdorf, "Police Have a Much Bigger Domestic-Abuse Problem Than the NFL Does," *Atlantic*, September 19, 2014, [https://www.theatlantic.com/national/archive/2014/09/police](https://www.theatlantic.com/national/archive/2014/09/police-officers-who-hit-theirwives-or-girlfriends/380329)officers-who-hit-theirwives-or-girlfriends/380329. And Leigh Goodmark, "Hands up at Home: Militarized Masculinity and Police Officers Who Commit Intimate Partner Abuse," *BYU Law Review 2015 (5)*.
 - 36. As cited in Melissa Jeltsen, "Don't Use Domestic Violence Victims to Derail Police Reform," July 20, 2020, [domesticshelters.org](http://domesticshelters.org/), [https://www.domesticshelters.org/articles/in-the-news/don-t-use](https://www.domesticshelters.org/articles/in-the-news/don-t-use-domestic-violence-victims-to-derail-police-reform)domestic-violence-victims-to-derail-police-reform.
-- 37. Congressional Research Service, "The Violence Against Women Act (VAWA): Historical Overview, Funding, and Reauthorization," April 23, 2019, <https://fas.org/sgp/crs/misc/R45410.pdf>.
+- 37. Congressional Research Service, "The Violence Against Women Act (VAWA): Historical Overview, Funding, and Reauthorization," April 23, 2019, .
 - 38. See the She Safe, We Safe campaign at [https://www.shesafewesafe.org](https://www.shesafewesafe.org/).
 - 39. Dorothy Roberts, *Torn Apart: How the Child Welfare System Destroys Black Families—and How Abolition Can Build a Safer World*, forthcoming from New York: Basic Books, 2022, page 40.
 - 40. See Flat Out, [http://www.flatout.org.au.](http://www.flatout.org.au/)
@@ -1617,7 +1749,7 @@ S[urvivors for Divestment, http://www.defendsurvivorsnow.org/survivors](http://w
 - 26. Key organizers of Visible Voices included Colette Payne and Joanne Archibald.
 - 27. Andrea J. Ritchie and Joey L. Mogul, "In the Shadows of the War on Terror: Persistent Police Brutality and Abuse of People of Color in the United States: A Report Prepared for the United Nations Committee on the Elimination of Racial Discrimination," *De Paul Journal for Social Justice* 1, no. 2 (2008): 175–250.
 - 28. See the Love & Protect website for more on their mission and practice: [https://loveprotect.org/misson.](https://loveprotect.org/misson)
-- 29. Survivors for Divestment, <http://www.defendsurvivorsnow.org/survivors-for-divestment>.
+- 29. Survivors for Divestment, .
 - 30. N. W. A's 1988 song "Fuck tha Police" on the album *Straight Outta Compton* was an indictment of the violence of policing, and it reemerged in 2014 as an anthem to accompany the murder of Michael Brown in Ferguson.
 - 31. Laura Moser, "The Awkward Radicalization of the Chicago [Teacher's Union," Slate, April 7, 2016, https://slate.com/human](https://slate.com/human-interest/2016/04/chicago-teachers-union-is-going-through-an-awkward-radicalization.html)interest/2016/04/chicago-teachers-union-is-going-through-anawkward-radicalization.html.
 
@@ -1675,7 +1807,7 @@ S[urvivors for Divestment, http://www.defendsurvivorsnow.org/survivors](http://w
 - 9. *Free Our Queens* published by permission of Melanie Cervantes. More info at: [www.peoplespaperco-op.com](http://www.peoplespaperco-op.com/) and [https://dignidadrebelde.com.](https://dignidadrebelde.com/)
 - 10. *Building Freedom Behind Bars* poster by Alexander Dwinell and Sanya Hyland, National Prisoners Reform Association, Celebrate People's History Poster Series no. 68, December 2010. Published by
 
-- permission of the artists. Available at <https://justseeds.org/product/national-prisoners-reform-association>.
+- permission of the artists. Available at .
 - 11. *Stop the Raids* poster by Jesus Barraza. Published by permission of the artist. Available at [https://dignidadrebelde.com/stop-the-raids.](https://dignidadrebelde.com/stop-the-raids)
 - 12. Reformist Reforms vs. Abolitionist Steps to End Imprisonment poster is part of the Abolitionist Steps poster series available at: [http://criticalresistance.org/resources/abolitionist-tools.](http://criticalresistance.org/resources/abolitionist-tools) Published by permission of Critical Resistance.
 - 13. INCITE! illustration © Cristy C. Road. Published by permission of the artist. [https://www.croadcore.org](https://www.croadcore.org/).

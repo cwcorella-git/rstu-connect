@@ -1,13 +1,8 @@
 ---
-title: Wildcat Roars in West Virginia Teachers To Stay Out On Strike
-date: 2025
-author: It's Going Down
-tags:
-  - organizing
-  - strikes
-  - unions
-  - rent
-  - labor
+title: "Wildcat Roars in West Virginia Teachers To Stay Out On Strike"
+author: "It's Going Down"
+date: "2025"
+category: "labor"
 ---
 
 # Wildcat Roars in West Virginia Teachers To Stay Out On Strike

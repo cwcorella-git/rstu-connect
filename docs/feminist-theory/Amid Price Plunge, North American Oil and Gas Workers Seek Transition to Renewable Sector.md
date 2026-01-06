@@ -1,3 +1,8 @@
+---
+title: "## **Amid Price Plunge, North American Oil and Gas Workers Seek Transition to Renewable Sector**"
+category: "feminist-theory"
+---
+
 ## **Amid Price Plunge, North American Oil and Gas Workers Seek Transition to Renewable Sector**
 
 ## **Date:** Sun, 04/03/2016 - 20:42

@@ -1,3 +1,8 @@
+---
+title: "## **I. W. W. Convention - S. W. (Sam Dolgoff)**"
+category: "contemporary-analysis"
+---
+
 ## **I. W. W. Convention - S. W. (Sam Dolgoff)**
 
 ## **Date:** Unknown

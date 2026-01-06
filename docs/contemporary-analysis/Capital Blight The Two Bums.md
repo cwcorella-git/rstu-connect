@@ -1,3 +1,8 @@
+---
+title: "## **Capital Blight: The Two Bums**"
+category: "contemporary-analysis"
+---
+
 ## **Capital Blight: The Two Bums**
 
 ## **Date:** Wed, 04/13/2016 - 18:53
@@ -44,7 +49,8 @@ Donald Blankenship Sentenced to a Year in Prison in Mine Safety Case
 
 | , April 6, 2016 |
 |----------------------------------------------------------------------------------------------------------------------------|
-| 6 Years After Coal Blast Killed 29, Former Coal Baron Heads To Jail For Workplace Safety<br>Convictions |
+| 6 Years After Coal Blast Killed 29, Former Coal Baron Heads To Jail For Workplace Safety
+Convictions |
 | - By Ryan Koronowski, |
 | Think Progress |
 | , April 6, 2016 |
@@ -52,7 +58,8 @@ Donald Blankenship Sentenced to a Year in Prison in Mine Safety Case
 | - By staff, |
 | Charleston Gazette-Mail |
 | , April 5, 2016 |
-| News of Blankenship's sentence has since been overshadowed by the bombshell dropped by<br>Peabody Energy. According to the |
+| News of Blankenship's sentence has since been overshadowed by the bombshell dropped by
+Peabody Energy. According to the |
 | Washington Post |
 | : |
 | In the starkest sign yet of declining fortunes in the coal industry, St. Louis-based Peabody |
@@ -107,7 +114,10 @@ Coal Companies' Secret Funding of Climate Science Denial Exposed
 | - By Bryan Dewan, |
 | Think Progress |
 | , April 13, 2016 |
-| The hypocrisy of these capitalists couldn't be more blatant. While they funnel money into<br>"libertarian" think tanks whose role it is to serve as ministries of truth for the capitalist class,<br>claiming that unions are protection rackets for "lazy, overpaid workers" and that climate<br>change is "a liberal (or communist?) hoax", the |
+| The hypocrisy of these capitalists couldn't be more blatant. While they funnel money into
+"libertarian" think tanks whose role it is to serve as ministries of truth for the capitalist class,
+claiming that unions are protection rackets for "lazy, overpaid workers" and that climate
+change is "a liberal (or communist?) hoax", the |
 | real |
 | bums are murdering workers and frying our planet. In |
 | neither |

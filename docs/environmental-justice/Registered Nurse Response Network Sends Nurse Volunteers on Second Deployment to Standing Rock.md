@@ -1,3 +1,8 @@
+---
+title: "## **Registered Nurse Response Network Sends Nurse Volunteers on Second Deployment to Standing Rock*"
+category: "environmental-justice"
+---
+
 ## **Registered Nurse Response Network Sends Nurse Volunteers on Second Deployment to Standing Rock**
 
 ## **Date:** Mon, 11/14/2016 - 19:25

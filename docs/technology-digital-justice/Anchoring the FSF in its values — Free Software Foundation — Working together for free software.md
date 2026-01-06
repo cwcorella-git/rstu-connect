@@ -1,3 +1,8 @@
+---
+title: "## **Anchoring the FSF in its values**"
+category: "technology-digital-justice"
+---
+
 ## **Anchoring the FSF in its values**
 
 This article was edited on January 18, 2025 to make it clear that this article was written by the board of the FSF, not the founders.

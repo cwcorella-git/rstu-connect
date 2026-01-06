@@ -1,3 +1,8 @@
+---
+title: "## **Getting Trade Readjustment Allowance for Shalefield Workers**"
+category: "contemporary-analysis"
+---
+
 ## **Getting Trade Readjustment Allowance for Shalefield Workers**
 
 **Date:** Sun, 04/24/2016 - 12:04 **Source:** https://ecology.iww.org/node/1622**Tags:** Alex Lotorto, Industrial Workers of the World (IWW), green unionism, green syndicalism, just transition, fracking, tar sands By Alex Lotorto - IWW Local 570 , April 22, 2016 In 1974, The Trade Adjustment Act was passed, establishing a benefit for workers separated from their jobs due to foreign trade, Trade Readjustment Allowance (TRA). Here is a brochure from the Department of Labor with an overview of the program (Link) . The TRA benefit has been modified over the years, but currently includes extended unemployment benefits (normal unemployment compensation only extends 26 weeks), free retraining, relocation assistance if workers find jobs outside of their area, an Obamacare credit to purchase health insurance, and assistance to workers over 50.

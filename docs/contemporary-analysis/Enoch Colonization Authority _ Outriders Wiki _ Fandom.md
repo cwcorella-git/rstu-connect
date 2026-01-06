@@ -1,3 +1,8 @@
+---
+title: "[outriders.fandom.com](https://outriders.fandom.com/wiki/Enoch_Colonization_Authority)"
+category: "contemporary-analysis"
+---
+
 [outriders.fandom.com](https://outriders.fandom.com/wiki/Enoch_Colonization_Authority)
 
 ## **Enoch Colonization Authority**
@@ -39,6 +44,7 @@ single axiom. "The enemy must be eliminated".
 | Classes |
 | Devastator • Pyromancer • Technomancer • Trickster |
 | Mechanics |
-| Crafting • Customization • Status Effects • World Tier •<br>Challenge Tiers |
+| Crafting • Customization • Status Effects • World Tier •
+Challenge Tiers |
 
 ## 3 of 3 7/19/25, 6:49 PM

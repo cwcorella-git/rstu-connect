@@ -1,3 +1,8 @@
+---
+title: "## **Errico Malatesta (1853-1932) - Jeff Shantz**"
+category: "contemporary-analysis"
+---
+
 ## **Errico Malatesta (1853-1932) - Jeff Shantz**
 
 ## **Date:** Unknown

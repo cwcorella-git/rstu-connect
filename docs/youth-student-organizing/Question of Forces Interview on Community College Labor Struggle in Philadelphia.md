@@ -1,3 +1,8 @@
+---
+title: "## **Question of Forces: Interview on Community College Labor Struggle in Philadelphia**"
+category: "youth-student-organizing"
+---
+
 ## **Question of Forces: Interview on Community College Labor Struggle in Philadelphia**
 
 ## **Date:** Unknown

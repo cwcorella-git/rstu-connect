@@ -1,13 +1,8 @@
 ---
-title: Interview With an Earth Strike Organiser
-date: 2025
-author: Industrial Workers of the World
-tags:
-  - organizing
-  - strikes
-  - unions
-  - rent
-  - police
+title: "Interview With an Earth Strike Organiser"
+author: "Industrial Workers of the World"
+date: "2025"
+category: "labor"
 ---
 
 # Interview With an Earth Strike Organiser

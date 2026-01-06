@@ -1,3 +1,8 @@
+---
+title: "**Ken Robinson (educationalist)**"
+category: "youth-student-organizing"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Ken_Robinson_(educationalist))
 
 # **Ken Robinson (educationalist)**
@@ -16,18 +21,52 @@
 
 | Born | Kenneth Robinson |
 |------|------------------------------------------------|
-| | 4 March 1950<br>Liverpool, England |
-| Died | 21 August 2020 (aged<br>70)<br>London, England |
+| | 4 March 1950
+Liverpool, England |
+| Died | 21 August 2020 (aged
+70)
+London, England |
 
-| Occupation(s) | Author, speaker, expert on education,<br>education reformer, creativity and<br>innovation |
+| Occupation(s) | Author, speaker, expert on education,
+education reformer, creativity and
+innovation |
 |---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Spouse | Marie-Therese "Terry" Watts |
-| | (m.<br>1982) |
+| | (m.
+1982) |
 | Children | 2 |
 | Academic background | |
-| Education | Liverpool Collegiate School<br>Wade Deacon Grammar School |
-| Alma mater | Bretton Hall College of Education (BEd)<br>University of London (PhD)[1] |
-| Thesis | revaluation<br>of<br>the<br>role<br>and<br>functions<br>of<br>A<br>drama<br>teaching<br>in<br>secondary<br>education<br>,<br>with<br>reference<br>of<br>curricular<br>to<br>a<br>survey<br>(1981)<br>drama<br>in<br>secondary<br>schools<br>259 |
+| Education | Liverpool Collegiate School
+Wade Deacon Grammar School |
+| Alma mater | Bretton Hall College of Education (BEd)
+University of London (PhD)[1] |
+| Thesis | revaluation
+of
+the
+role
+and
+functions
+of
+A
+drama
+teaching
+in
+secondary
+education
+,
+with
+reference
+of
+curricular
+to
+a
+survey
+(1981)
+drama
+in
+secondary
+schools
+259 |
 ## | Website | sirkenrobinson.com |
 
 **Sir Kenneth Robinson** (4 March 1950 – 21 August 2020[\)\[2\]](#page-8-1) was a British author, speaker and international advisor on education in the arts to government, non-profits, education and arts bodies. He was director of the Arts in Schools Project (1985–1989) and Professor of Arts Education at the [University](https://en.wikipedia.org/wiki/University_of_Warwick) [of Warwick](https://en.wikipedia.org/wiki/University_of_Warwick) (1989–2001), and professor emeritus after leaving the university[.\[3\]](#page-9-0) In 2003, he was knighted for services to the arts[.\[4\]](#page-9-1)

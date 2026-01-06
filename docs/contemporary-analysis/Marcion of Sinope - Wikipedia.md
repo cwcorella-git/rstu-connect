@@ -1,3 +1,8 @@
+---
+title: "**Marcion of Sinope**"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_2.jpeg)
 
 # **Marcion of Sinope**

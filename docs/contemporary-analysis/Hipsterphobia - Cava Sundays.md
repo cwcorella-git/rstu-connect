@@ -1,3 +1,8 @@
+---
+title: "## **Hipsterphobia - Cava Sundays**"
+category: "contemporary-analysis"
+---
+
 ## **Hipsterphobia - Cava Sundays**
 
 ## **Date:** Unknown
@@ -80,17 +85,26 @@ This dysfunctional little bubble can sometimes feel like the only place where we
 
 [1] There is footage of this online, but I chose not to link out of respect tbh.
 
-| [2] Xenophobia emerges in failing to identify homophobia within London's working class,<br>except when the perpetrators are religious fascists. |
+| [2] Xenophobia emerges in failing to identify homophobia within London's working class,
+except when the perpetrators are religious fascists. |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Reproduced with kind permission from Cava Sundays. |
 | Serge Forward |
 | 10 years ago |
 | In reply to Welcomebylibcom.org |
-| Just had a quick skim and this looks very interesting and I'll give it a proper read later. One<br>thing though, I'd be careful of seeing Class War as being in any way representative of the<br>'anarchist scene'. What they are is a small populist grouping based on another form of identity<br>politics, where the notion of 'working class' has little to do with your relation to the means of<br>production. |
+| Just had a quick skim and this looks very interesting and I'll give it a proper read later. One
+thing though, I'd be careful of seeing Class War as being in any way representative of the
+'anarchist scene'. What they are is a small populist grouping based on another form of identity
+politics, where the notion of 'working class' has little to do with your relation to the means of
+production. |
 | Croy |
 | 9 years 11 months ago |
 | In reply to Welcomebylibcom.org |
-| how does one mobilise against an aesthetic? Granted, I am not gay, so I can't really speak<br>about the experience of being queer and living in london but I don't think citing hair styles and<br>certain clothes being in common between hipster and old gay fashion really enough to equate<br>the two enough to say any anti hipsterism is inherently homophobic. Other than that I largely<br>agree with this piece. |
+| how does one mobilise against an aesthetic? Granted, I am not gay, so I can't really speak
+about the experience of being queer and living in london but I don't think citing hair styles and
+certain clothes being in common between hipster and old gay fashion really enough to equate
+the two enough to say any anti hipsterism is inherently homophobic. Other than that I largely
+agree with this piece. |
 ## | Croy |
 
 9 years 11 months ago

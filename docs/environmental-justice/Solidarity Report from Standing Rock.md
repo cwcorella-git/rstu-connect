@@ -1,16 +1,26 @@
+---
+title: "## **Solidarity Report from Standing Rock**"
+category: "environmental-justice"
+---
+
 ## **Solidarity Report from Standing Rock**
 
 | Date: Fri, 02/17/2017 - 15:46 |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Source: https://ecology.iww.org/node/2086|
-| Tags: Labor for Standing Rock (L4SR), NoDAPL, Labor Union Camp, green unionism, indigenous,<br>Dakota Access Pipeline (DAPL), pipelines, direct action, Energy Transfer, North Dakota |
+| Tags: Labor for Standing Rock (L4SR), NoDAPL, Labor Union Camp, green unionism, indigenous,
+Dakota Access Pipeline (DAPL), pipelines, direct action, Energy Transfer, North Dakota |
 | By Nancy Romer - |
 | New Politics |
 | , Winter 2017 |
-| The struggle at Standing Rock against the Dakota Access Pipeline (DAPL) was one of the<br>major political mobilizations of 2016, combining the demand for Native rights with the call for<br>environmental justice. |
+| The struggle at Standing Rock against the Dakota Access Pipeline (DAPL) was one of the
+major political mobilizations of 2016, combining the demand for Native rights with the call for
+environmental justice. |
 | New Politics |
-| asked Nancy Romer to cover these events for us. She was at Standing Rock from November<br>10-15. |
-| Her initial report and her article on the meaning of the victory achieved on December 5—and<br>the struggle that still remains—have been posted on the |
+| asked Nancy Romer to cover these events for us. She was at Standing Rock from November
+10-15. |
+| Her initial report and her article on the meaning of the victory achieved on December 5—and
+the struggle that still remains—have been posted on the |
 ## | New Politics |
 
 website. Here we print two more of her dispatches from the scene, showing some of the day-to-day dynamics of standing with Standing Rock.

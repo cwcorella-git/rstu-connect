@@ -1,3 +1,8 @@
+---
+title: "## **How a Railway Workers Union Won New Technology That Improves Jobs and Reduces Greenhouse Gases*"
+category: "environmental-justice"
+---
+
 ## **How a Railway Workers Union Won New Technology That Improves Jobs and Reduces Greenhouse Gases**
 
 ## **Date:** Mon, 12/19/2016 - 13:35
@@ -41,4 +46,5 @@ The reward we get for being the proactive and aggressive driver of this effort i
 | workers are going to have good jobs in the future. |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Disclaimer: |
-| The views expressed here are not the official position of the IWW (or even the IWW's EUC)<br>and do not necessarily represent the views of anyone but the author's. |
+| The views expressed here are not the official position of the IWW (or even the IWW's EUC)
+and do not necessarily represent the views of anyone but the author's. |

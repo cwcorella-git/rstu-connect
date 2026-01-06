@@ -1,13 +1,8 @@
 ---
-title: The General Strike Ecologyiwworg
-date: 2025
-author: Industrial Workers of the World
-tags:
-  - organizing
-  - strikes
-  - unions
-  - rent
-  - labor
+title: "The General Strike Ecologyiwworg"
+author: "Industrial Workers of the World"
+date: "2025"
+category: "labor"
 ---
 
 # The General Strike Ecologyiwworg

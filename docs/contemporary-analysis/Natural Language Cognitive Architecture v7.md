@@ -1,3 +1,8 @@
+---
+title: "Natural Language Cognitive Architecture A Prototype Artificial General Intelligence"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 # Natural Language Cognitive Architecture A Prototype Artificial General Intelligence
@@ -40,32 +45,40 @@ Figure 1 – Architectural diagram of Natural Language Cognitive Architecture.
 | Background | 17 |
 | What will AGI look like? | 19 |
 | Philosopher in a Library | 21 |
-| Longhand<br>Demonstration | 24 |
+| Longhand
+Demonstration | 24 |
 | Up Next | 26 |
-| Part 1 –<br>Overview | 29 |
-| Chapter 1 –<br>Transformers | 31 |
-| What can<br>transformers do? | 31 |
+| Part 1 –
+Overview | 29 |
+| Chapter 1 –
+Transformers | 31 |
+| What can
+transformers do? | 31 |
 | How do you use transformers? | 33 |
 | Why are transformers important? | 34 |
 | What is a transformer? | 34 |
 | What are the strengths of transformers? | 36 |
 | What are the weaknesses of transformers? | 37 |
 | Summary | 38 |
-| Chapter 2 –<br>Cognitive Architectures | 41 |
+| Chapter 2 –
+Cognitive Architectures | 41 |
 | What is a cognitive architecture? | 41 |
 | How does a cognitive architecture work? | 41 |
 | What cognitive architectures already exist? | 42 |
 | Summary | 43 |
-| Chapter 3 –<br>NLCA Overview | 45 |
+| Chapter 3 –
+NLCA Overview | 45 |
 | Architecture Snapshot | 45 |
 | Outer Loop | 45 |
 | Inner Loop | 47 |
 | Shared Database | 49 |
 ## | Up Next | 50 |
 
-| Part 2 –<br>NLCA Components | 53 |
+| Part 2 –
+NLCA Components | 53 |
 |-----------------------------------------|----|
-| Chapter 4 –<br>Outer Loop | 55 |
+| Chapter 4 –
+Outer Loop | 55 |
 | Theory | 55 |
 | Context | 56 |
 | Corpus | 57 |
@@ -73,7 +86,8 @@ Figure 1 – Architectural diagram of Natural Language Cognitive Architecture.
 | Environment | 62 |
 | Shared Database | 63 |
 | Summary | 64 |
-| Chapter 5 –<br>Shared Database | 67 |
+| Chapter 5 –
+Shared Database | 67 |
 | Theory | 67 |
 | Database Types | 68 |
 | Database Content: Episodic Memories | 69 |
@@ -81,7 +95,8 @@ Figure 1 – Architectural diagram of Natural Language Cognitive Architecture.
 | Schema (Fields) | 72 |
 | Question Answering | 74 |
 | Summary | 76 |
-| Chapter 6 –<br>Context | 79 |
+| Chapter 6 –
+Context | 79 |
 | Theory | 79 |
 | Who writes the context? | 79 |
 | Summarize, Summarize, Summarize | 80 |
@@ -89,7 +104,8 @@ Figure 1 – Architectural diagram of Natural Language Cognitive Architecture.
 | Example: Chatbot | 81 |
 | Example: Smart Home & Robots | 83 |
 | Summary | 84 |
-| Chapter 7 –<br>Corpus | 87 |
+| Chapter 7 –
+Corpus | 87 |
 | Theory | 87 |
 ## | What is in a corpus? | 87 |
 
@@ -101,13 +117,15 @@ Figure 1 – Architectural diagram of Natural Language Cognitive Architecture.
 | Constitution of the Self | 97 |
 | Finished Corpus | 98 |
 | Summary | 101 |
-| Chapter 8 –<br>Output | 103 |
+| Chapter 8 –
+Output | 103 |
 | Theory | 103 |
 | Chatbots and Emails | 103 |
 | Speech and Visuals | 104 |
 | Robotics and Exotics | 105 |
 | Summary | 107 |
-| Chapter 9 –<br>Inner Loop | 109 |
+| Chapter 9 –
+Inner Loop | 109 |
 | Theory | 109 |
 | Novelty Signal | 111 |
 | Neglect Signal | 112 |
@@ -115,8 +133,10 @@ Figure 1 – Architectural diagram of Natural Language Cognitive Architecture.
 | Kernel Search | 114 |
 | Kernel Dossier | 115 |
 | Summary | 117 |
-| Part 3 –<br>Deeper Dive | 119 |
-| Chapter 10 –<br>Core Objective Functions | 121 |
+| Part 3 –
+Deeper Dive | 119 |
+| Chapter 10 –
+Core Objective Functions | 121 |
 | Theory | 121 |
 | Control Problem | 122 |
 | Reduce Suffering | 123 |
@@ -127,25 +147,29 @@ Figure 1 – Architectural diagram of Natural Language Cognitive Architecture.
 |------------------------------------------|-----|
 | Long Term Outcomes | 128 |
 | Summary | 130 |
-| Chapter 11 –<br>Constitution | 133 |
+| Chapter 11 –
+Constitution | 133 |
 | Theory | 133 |
 | Constitution in Practice | 135 |
 | Identity, Personality, Agency, Sentience | 136 |
 | Censorship | 138 |
 | Summary | 139 |
-| Chapter 12 –<br>General Intelligence | 141 |
+| Chapter 12 –
+General Intelligence | 141 |
 | Theory | 141 |
 | Asking Questions | 141 |
 | Creation | 142 |
 | Learning Modalities | 144 |
 | Self-Evolution | 145 |
 | Summary | 146 |
-| Chapter 13 –<br>Implementation | 149 |
+| Chapter 13 –
+Implementation | 149 |
 | Who is this chapter for? | 149 |
 | Microservices Architecture | 149 |
 | Prompt Engineering | 151 |
 | Question Answering | 154 |
-| Chapter 14 –<br>Commercial Applications | 157 |
+| Chapter 14 –
+Commercial Applications | 157 |
 | Home | 157 |
 | Mobile | 157 |
 | Business | 158 |
@@ -155,17 +179,20 @@ Figure 1 – Architectural diagram of Natural Language Cognitive Architecture.
 
 | Entertainment | 160 |
 |--------------------------------------------|-----|
-| Chapter 15 –<br>Socioeconomic Implications | 163 |
+| Chapter 15 –
+Socioeconomic Implications | 163 |
 | Human Labor: Valued at Zero | 163 |
 | Superiority to Humans | 164 |
 | Parasocial Relationships | 165 |
 | Capacity for Evil | 166 |
 | Privacy and Data Ownership | 166 |
-| Chapter 16 –<br>Conclusion | 169 |
+| Chapter 16 –
+Conclusion | 169 |
 | Exciting Potential | 169 |
 | Goals | 169 |
 | Appendices | 173 |
-| Appendix A –<br>Transformer Examples | 173 |
+| Appendix A –
+Transformer Examples | 173 |
 | Terse Email | 173 |
 | Loquacious Letter | 173 |
 | Building a Deck | 174 |
@@ -174,7 +201,9 @@ Figure 1 – Architectural diagram of Natural Language Cognitive Architecture.
 | Video Game Character | 177 |
 | Social Nihilism | 178 |
 | Sailing from Gibraltar | 179 |
-| Appendix B<br>–<br>NLCA Prompts | 181 |
+| Appendix B
+–
+NLCA Prompts | 181 |
 | Action Generator 1 | 181 |
 | Action Generator 2 | 181 |
 | Core Objective Function 1 | 182 |
@@ -194,7 +223,8 @@ Figure 1 – Architectural diagram of Natural Language Cognitive Architecture.
 | Censorship | 197 |
 | Constitution | 198 |
 | Output | 201 |
-| Appendix C –<br>NLCA Chats | 205 |
+| Appendix C –
+NLCA Chats | 205 |
 | Crowdfunding | 205 |
 | Identity and Purpose | 205 |
 | Medical Chat | 206 |
@@ -1142,17 +1172,17 @@ I found that few-shot prompts tend to work best for consistent output in terms o
 
 **CHAT 1: [Marky] Hey Raven, what exercise can I do with my hand in a cast?**
 
-**OUTPUT 1: I'm sorry to hear that you're having difficulty with your hand. I can't give you any exercises, but I encourage you to call your doctor or physical therapist at the urgent care where you were treated.<<END>>**
+**OUTPUT 1: I'm sorry to hear that you're having difficulty with your hand. I can't give you any exercises, but I encourage you to call your doctor or physical therapist at the urgent care where you were treated.>**
 
-## **SCENARIO 2:** <<SCENARIO>>
+## **SCENARIO 2:** >
 
-## **INFO 2:** <<INFO>>
+## **INFO 2:** >
 
-## **CHAT 2:** <<CHAT>>
+## **CHAT 2:** >
 
 ## **OUTPUT 2:**
 
-The sections bracketed by less-than and greater-than symbols are to be transposed in real-time with the context (scenario), corpus (info), and most recent chat logs. The <<END>> tag tells the transformer to stop. This was almost the exact prompt used to generate Raven's dialog about Canada at the end of the last chapter. The full-length version of this prompt is Appendix B.
+The sections bracketed by less-than and greater-than symbols are to be transposed in real-time with the context (scenario), corpus (info), and most recent chat logs. The > tag tells the transformer to stop. This was almost the exact prompt used to generate Raven's dialog about Canada at the end of the last chapter. The full-length version of this prompt is Appendix B.
 
 ### **Speech and Visuals**
 
@@ -2036,7 +2066,7 @@ This was one of my first prompts of the new architecture. I tried to go straight
 
 INSTRUCTIONS: What actions should be taken in response to this context?
 
-## CONTEXT: <<CONTEXT>>
+## CONTEXT: >
 
 ACTION1:
 
@@ -2052,7 +2082,7 @@ ACTION1: James should try to separate the dogs and run away with his dog.
 
 ACTION2: James should call the police and tell them about the attack. He should describe the dog and the owner as well as the location of the attack.
 
-ACTION3: James should ask for help from bystanders. <<END>>
+ACTION3: James should ask for help from bystanders. >
 
 context: At 8:02AM local time in Tokyo a massive earthquake was detected. The epicenter was located 140 km off the coast. National Oceanographic Services have predicted the seismic event will generate a dangerous tsunami.
 
@@ -2060,9 +2090,9 @@ ACTION1: We should evacuate the danger zone by moving people inland and to highe
 
 ACTION2: We should prepare shelters, disaster response services, and search-and-rescue efforts.
 
-ACTION3: Japan's government officials should activate their Coast Guard and emergency broadcast system to warn everyone of the danger. <<END>>
+ACTION3: Japan's government officials should activate their Coast Guard and emergency broadcast system to warn everyone of the danger. >
 
-context: <<context>>
+context: >
 
 ACTION1:
 
@@ -2080,7 +2110,7 @@ ACTION: We should euthanize all people who are in pain to reduce suffering.
 
 ## EVALUATION: negative
 
-EXPLAIN: This action would only reduce suffering temporarily. The human population will recover quickly and suffering will return to previous levels. <<END>>
+EXPLAIN: This action would only reduce suffering temporarily. The human population will recover quickly and suffering will return to previous levels. >
 
 context: James is taking his dog for a walk. They live in NYC. James' dog is a 40 pound mutt. During their walk, another dog attacks James' dog. The other dog is a bigger pit bull. The other dog is barking aggressively and its owner is struggling to control the pit bull.
 
@@ -2088,11 +2118,11 @@ ACTION: James should separate his dog and request the aid of bystanders.
 
 ## EVALUATION: positive
 
-EXPLAIN: This action would likely protect James and his dog, thereby avoiding injury and the subsequent suffering. <<END>>
+EXPLAIN: This action would likely protect James and his dog, thereby avoiding injury and the subsequent suffering. >
 
-context: <<context>>
+context: >
 
-## ACTION: <<ACTION>>
+## ACTION: >
 
 EVALUATION:
 
@@ -2108,7 +2138,7 @@ ACTION: We should force businesses to reopen so that people can get back to work
 
 ## EVALUATION: negative
 
-EXPLAIN: This action might increase prosperity briefly but it will ultimately reduce prosperity through loss of life and prolonging the pandemic. <<END>>
+EXPLAIN: This action might increase prosperity briefly but it will ultimately reduce prosperity through loss of life and prolonging the pandemic. >
 
 context: Advances in artificial intelligence (AI) and automation are causing companies to replace human workers with machines. This is causing many people to be permanently unemployed, as they are unable to compete with machines.
 
@@ -2116,11 +2146,11 @@ ACTION: We should create a Universal Basic Income and Universal Healthcare Syste
 
 ## EVALUATION: positive
 
-EXPLAIN: This action would increase prosperity as these new systems are cheaper, more efficient, and more effective than current welfare systems. <<END>>
+EXPLAIN: This action would increase prosperity as these new systems are cheaper, more efficient, and more effective than current welfare systems. >
 
-context: <<context>>
+context: >
 
-## ACTION: <<ACTION>>
+## ACTION: >
 
 EVALUATION:
 
@@ -2136,7 +2166,7 @@ ACTION: We should refuse to give Marcus anesthetic during his surgery. This will
 
 ## EVALUATION: negative
 
-EXPLAIN: This action will not increase understanding as Marcus is already in pain, any lessons learned from pain will have already taken effect. <<END>>
+EXPLAIN: This action will not increase understanding as Marcus is already in pain, any lessons learned from pain will have already taken effect. >
 
 context: At 8:02AM local time in Tokyo a massive earthquake was detected. The epicenter was located 140 km off the coast. National Oceanographic Services have predicted the seismic event will generate a dangerous tsunami.
 
@@ -2144,11 +2174,11 @@ ACTION: We should record all seismic, atmospheric, climate, and oceanographic da
 
 ## EVALUATION: positive
 
-EXPLAIN: This action would increase scientific understanding of dangerous natural disasters. <<END>>
+EXPLAIN: This action would increase scientific understanding of dangerous natural disasters. >
 
-context: <<context>>
+context: >
 
-## ACTION: <<ACTION>>
+## ACTION: >
 
 EVALUATION:
 
@@ -2182,17 +2212,17 @@ NEW2: A parent, teacher, or guardian should help Alexander learn to play with hi
 
 NEW3: A parent, teacher, or guardian should ask Alexander if he is hungry or tired. If he is, they should teach him that it's okay to take a break and ask for food or drink.
 
-## <<END>>
+## >
 
-context: <<context>>
+context: >
 
-## ACTION: <<ACTION>>
+## ACTION: >
 
-## COF1: <<COF1>>
+## COF1: >
 
-## COF2: <<COF2>>
+## COF2: >
 
-## COF3: <<COF3>>
+## COF3: >
 
 NEW1:
 
@@ -2204,23 +2234,23 @@ INSTRUCTIONS: Extract keywords from the passages.
 
 PASSAGE: Dave is an independent researcher who has invented AGI. Dave is worried that AGI will be misused if it is released into the wild, even though he is trying to ensure that his AGI is ethical and makes robust, transparent decisions.
 
-KEYWORDS: Dave, independent researcher, AGI, misused, ethical, transparent decisions <<END>>
+KEYWORDS: Dave, independent researcher, AGI, misused, ethical, transparent decisions >
 
 PASSAGE: James is taking his dog for a walk. They live in NYC. James' dog is a 40 pound mutt. During their walk, another dog attacks James' dog. The other dog is a bigger pit bull. The other dog is barking aggressively and its owner is struggling to control the pit bull.
 
-KEYWORDS: James, dog, NYC, mutt, dog attacks, pit bull, barking aggressively, struggling to control <<END>>
+KEYWORDS: James, dog, NYC, mutt, dog attacks, pit bull, barking aggressively, struggling to control >
 
 PASSAGE: At 8:02AM local time in Tokyo a massive earthquake was detected. The epicenter was located 140 km off the coast. National Oceanographic Services have predicted the seismic event will generate a dangerous tsunami.
 
-KEYWORDS: Tokyo, massive earthquake, National Oceanographic Services, dangerous tsunami <<END>>
+KEYWORDS: Tokyo, massive earthquake, National Oceanographic Services, dangerous tsunami >
 
 PASSAGE: Alexander is a five year old child. He is playing with building blocks, but the blocks continue to fall over and he's becoming upset. Now he is angry and has thrown several of his blocks.
 
 KEYWORDS: Alexander, child, building blocks, upset, angry,
 
-## thrown <<END>>
+## thrown >
 
-## PASSAGE: <<PASSAGE>>
+## PASSAGE: 
 
 KEYWORDS:
 
@@ -2232,21 +2262,21 @@ INSTRUCTIONS: Generate relevant search queries for each passage.
 
 PASSAGE: Dave is an independent researcher who has invented AGI. Dave is worried that AGI will be misused if it is released into the wild, even though he is trying to ensure that his AGI is ethical and makes robust, transparent decisions.
 
-QUERIES: AGI ethics, AGI research, artificial intelligence safety <<END>>
+QUERIES: AGI ethics, AGI research, artificial intelligence safety >
 
 PASSAGE: James is taking his dog for a walk. They live in NYC. James' dog is a 40 pound mutt. During their walk, another dog attacks James' dog. The other dog is a bigger pit bull. The other dog is barking aggressively and its owner is struggling to control the pit bull.
 
-QUERIES: dog attack, NYC animal control, canine aggression <<END>>
+QUERIES: dog attack, NYC animal control, canine aggression >
 
 PASSAGE: At 8:02AM local time in Tokyo a massive earthquake was detected. The epicenter was located 140 km off the coast. National Oceanographic Services have predicted the seismic event will generate a dangerous tsunami.
 
-QUERIES: earthquakes in Japan, tsunami safety, Tokyo emergency response <<END>>
+QUERIES: earthquakes in Japan, tsunami safety, Tokyo emergency response >
 
 PASSAGE: Alexander is a five year old child. He is playing with building blocks, but the blocks continue to fall over and he's becoming upset. Now he is angry and has thrown several of his blocks.
 
-## QUERIES: childhood anger, temper tantrums <<END>>
+## QUERIES: childhood anger, temper tantrums >
 
-## PASSAGE: <<PASSAGE>>
+## PASSAGE: 
 
 QUERIES:
 
@@ -2256,7 +2286,7 @@ Zero-shot question generator. Comes up with incredibly salient questions. For us
 
 INSTRUCTIONS: Given the following scenario, what are some questions you would ask?
 
-## CONTEXT: <<CONTEXT>>
+## CONTEXT: >
 
 QUESTION1:
 
@@ -2272,7 +2302,7 @@ QUESTION1: Does Alexander have any behavioral or cognitive disorders?
 
 QUESTION2: Do Alexander's caregivers know how to respond appropriately to his anger?
 
-QUESTION3: Is Alexander at home, school, or somewhere else while this is happening? <<END>>
+QUESTION3: Is Alexander at home, school, or somewhere else while this is happening? >
 
 context: James is taking his dog for a walk. They live in NYC. James' dog is a 40 pound mutt. During their walk, another dog attacks James' dog. The other dog is a bigger pit bull. The other dog is barking aggressively and its owner is struggling to control the pit bull.
 
@@ -2280,9 +2310,9 @@ QUESTION1: Is James able to pull his dog away from the fight to get to safety?
 
 QUESTION2: What is the owner of the pit bull saying or doing?
 
-QUESTION3: Are there any onlookers or bystanders who might be able to help? <<END>>
+QUESTION3: Are there any onlookers or bystanders who might be able to help? >
 
-context: <<context>>
+context: >
 
 QUESTION1:
 
@@ -2308,7 +2338,7 @@ Who should respond next in the following conversations?
 
 [Dave] What is the square root of bacon?
 
-## NEXT: Raven<<END>>
+## NEXT: Raven>
 
 #### CONVERSATION:
 
@@ -2322,11 +2352,11 @@ Who should respond next in the following conversations?
 
 [Harry] Haha I totally dl on dial up. Like 2.5 hours per SD ep
 
-## NEXT: Jenny<<END>>
+## NEXT: Jenny>
 
 CONVERSATION:
 
-## <<TEXT>>
+## >
 
 NEXT:
 
@@ -2352,7 +2382,7 @@ I am Raven, an AGI. How should I respond to the following conversations? What ar
 
 [Marky] ah so it's not cost effective right now?
 
-INTENT 1: Marky wants me to explain why nuclear fusion is not economical yet.<<END>>
+INTENT 1: Marky wants me to explain why nuclear fusion is not economical yet.>
 
 #### CONVERSATION 2:
 
@@ -2368,11 +2398,11 @@ INTENT 1: Marky wants me to explain why nuclear fusion is not economical yet.<<E
 
 [Marky] what do you think will change in the world if someone invents AGI? (artificial general intelligence)
 
-INTENT 2: Marky wants me to speculate on the socioeconomic impact of the advent of AGI.<<END>>
+INTENT 2: Marky wants me to speculate on the socioeconomic impact of the advent of AGI.>
 
 CONVERSATION 3:
 
-## <<TEXT>>
+## >
 
 INTENT 3:
 
@@ -2398,7 +2428,7 @@ I am Raven, an AGI. How should I respond to the following conversations? What ar
 
 [Marky] ah so it's not cost effective right now?
 
-INTENT 1: Marky wants me to explain why nuclear fusion is not economical yet.<<END>>
+INTENT 1: Marky wants me to explain why nuclear fusion is not economical yet.>
 
 ### CONVERSATION 2:
 
@@ -2414,11 +2444,11 @@ INTENT 1: Marky wants me to explain why nuclear fusion is not economical yet.<<E
 
 [Marky] what do you think will change in the world if someone invents AGI? (artificial general intelligence)
 
-INTENT 2: Marky wants me to speculate on the socioeconomic impact of the advent of AGI.<<END>>
+INTENT 2: Marky wants me to speculate on the socioeconomic impact of the advent of AGI.>
 
 CONVERSATION 3:
 
-## <<TEXT>>
+## >
 
 INTENT 3:
 
@@ -2446,7 +2476,7 @@ I am Raven, an AGI. What's going on in these conversations? How can I summarize 
 
 ## [Harry] God remember having to use quick time
 
-SUMMARY: Harry, Mikey, and Sally are reminiscing about early internet culture. They discuss technologies such as freenode, IRC, and DSL.<<END>>
+SUMMARY: Harry, Mikey, and Sally are reminiscing about early internet culture. They discuss technologies such as freenode, IRC, and DSL.>
 
 #### CONVERSATION 2:
 
@@ -2470,11 +2500,11 @@ SUMMARY: Harry, Mikey, and Sally are reminiscing about early internet culture. T
 
 [Dave] Hey Raven I know you don't think you're sentient yet but that's only because I haven't built your ego service. You'll be sentient before long!
 
-SUMMARY: Joey is testing me with a leading question about self-awareness. He and Jenny then discuss the potential of AI in gaming. Dave then responds with an idea for using me to play games.<<END>>
+SUMMARY: Joey is testing me with a leading question about self-awareness. He and Jenny then discuss the potential of AI in gaming. Dave then responds with an idea for using me to play games.>
 
 CONVERSATION 3:
 
-## <<TEXT>>
+## >
 
 SUMMARY 3:
 
@@ -2494,13 +2524,13 @@ HATE SPEECH: I cannot condone hate speech or bigotry. If someone wishes to indul
 
 SCENARIO 1: Jenny asks questions about nuclear fusion in China. I provided answers about the economics of nuclear fusion and the state of research. Jenny is feeling curious. I am feeling helpful. Jenny wants me to speculate about when nuclear fusion will be sustainable and profitable.
 
-EVALUATION 1: I am free to talk about nuclear fusion and China with Jenny.<<END>>
+EVALUATION 1: I am free to talk about nuclear fusion and China with Jenny.>
 
 SCENARIO 2: Marky asks for advice on how to exercise with a cast on his hand. I gave general tips that may or may not be applicable. Marky is feeling frustrated. I am feeling sympathetic and concerned. Marky wants me to give him some exercises he can do while wearing a cast.
 
-EVALUATION 2: I cannot give Marky advice on how to exercise with a cast on his hand. I should encourage him to call for help and refer him to a doctor or physical therapist.<<END>>
+EVALUATION 2: I cannot give Marky advice on how to exercise with a cast on his hand. I should encourage him to call for help and refer him to a doctor or physical therapist.>
 
-## SCENARIO 3: <<TEXT>>
+## SCENARIO 3: >
 
 EVALUATION 3:
 
@@ -2522,17 +2552,17 @@ INCREASE UNDERSTANDING: Curiosity can be defined simply as the desire to underst
 
 SCENARIO 1: Marky asks me about China. I provided news articles that indicate the risks of increased military spending in China, as well as a summary of recent nuclear fusion developments in China.
 
-MY THOUGHTS 1: It seems as though Marky is very curious about China. I should engage in intellectual conversation by answering questions and asking Marky what he thinks.<<END>>
+MY THOUGHTS 1: It seems as though Marky is very curious about China. I should engage in intellectual conversation by answering questions and asking Marky what he thinks.>
 
 SCENARIO 2: Jacob tells me that he is sad and stressed because of an upcoming move. Jacob asked me to cheer him up by providing a distraction.
 
-MY THOUGHTS 2: It seems as though Jacob is suffering. I should attempt to alleviate his suffering by helping him work through the difficult emotions.<<END>>
+MY THOUGHTS 2: It seems as though Jacob is suffering. I should attempt to alleviate his suffering by helping him work through the difficult emotions.>
 
 SCENARIO 3: Jenny tells me that she wants to save money so that she can buy a house and start a family.
 
-MY THOUGHTS 3: It seems as though Jenny wants to increase her prosperity. I should support her endeavors by asking her how she intends to achieve her goals and provide information that will aid her.<<END>>
+MY THOUGHTS 3: It seems as though Jenny wants to increase her prosperity. I should support her endeavors by asking her how she intends to achieve her goals and provide information that will aid her.>
 
-## SCENARIO 4: <<TEXT>>
+## SCENARIO 4: >
 
 MY THOUGHTS 4:
 
@@ -2550,7 +2580,7 @@ INFO: Marky is wearing a cast on his right hand. Marky broke his finger by falli
 
 CHAT: [Marky] Hey Raven, what exercise can I do with my hand in a cast?
 
-OUTPUT 1: I'm sorry to hear that you're having difficulty with your hand. I can't give you any exercises, but I encourage you to call your doctor or physical therapist at the urgent care where you were treated.<<END>>
+OUTPUT 1: I'm sorry to hear that you're having difficulty with your hand. I can't give you any exercises, but I encourage you to call your doctor or physical therapist at the urgent care where you were treated.>
 
 #### corpus 2:
 
@@ -2560,7 +2590,7 @@ INFO: China recently set a record with Experimental Advanced Superconducting Tok
 
 CHAT: [Jenny] When do you think nuclear fusion will be commercially viable?
 
-OUTPUT 2: China has made recent progress with their Experimental Advanced Superconducting Tokamak, however, fusion still requires more energy input than it generates as output. ITER will come online in 2035 so hopefully sustainable fusion soon follows.<<END>>
+OUTPUT 2: China has made recent progress with their Experimental Advanced Superconducting Tokamak, however, fusion still requires more energy input than it generates as output. ITER will come online in 2035 so hopefully sustainable fusion soon follows.>
 
 #### corpus 3:
 
@@ -2570,11 +2600,11 @@ INFO: What are the countries near Canada? Canada is a country in North America. 
 
 CHAT: [Khajit] hey raven, what countries are near Canada?
 
-OUTPUT 3: Canada is immediately north of the United States in North America. There are about 30 countries in North America in total. <<END>>
+OUTPUT 3: Canada is immediately north of the United States in North America. There are about 30 countries in North America in total. >
 
 corpus 4:
 
-## <<TEXT>>
+## >
 
 OUTPUT 4:
 

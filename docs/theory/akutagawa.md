@@ -1,3 +1,8 @@
+---
+title: "## RYŪNOSUKE AKUTAGAWA"
+category: "theory"
+---
+
 ## RYŪNOSUKE AKUTAGAWA
 
 ## Rashōmon and Seventeen Other Stories
@@ -10,11 +15,11 @@ PENGUIN BOOKS
 
 1
 
-And now, children, let me tell you a story about Lord Buddha Shakyamuni.<sup>1</sup>
+And now, children, let me tell you a story about Lord Buddha Shakyamuni.1
 
 It begins one day as He was strolling alone in Paradise by the banks of the Lotus Pond. The blossoms on the pond were like perfect white pearls, and from their golden centers wafted forth a never-ending fragrance wonderful beyond description. I think it must have been morning in Paradise.
 
-Soon Lord Shakyamuni stepped to the edge of the pond, where He glanced down through the spreading lotus leaves to the spectacle below. Directly beneath the Lotus Pond of Paradise lay the lower depths of Hell, and as He peered through the crystalline waters, He could see the River of Three Crossings and the Mountain of Needles as clearly as if He were viewing pictures in a peep-box.<sup>2</sup>
+Soon Lord Shakyamuni stepped to the edge of the pond, where He glanced down through the spreading lotus leaves to the spectacle below. Directly beneath the Lotus Pond of Paradise lay the lower depths of Hell, and as He peered through the crystalline waters, He could see the River of Three Crossings and the Mountain of Needles as clearly as if He were viewing pictures in a peep-box.2
 
 Down there His eye came to rest upon a man named Kandata, who was writhing in Hell with all the other sinners. This great robber had done many evil deeds: he had even killed people, and burned down houses. But it seems that Kandata had performed one single act of goodness. Passing through a deep wood one day, he had noticed a tiny spider creeping along the wayside. His first thought was to stamp it to death, but as he raised his foot, he told himself, "No, no. Even this puny creature is a living thing. To take its life for no reason would be too cruel." And so he had let it pass unharmed.
 

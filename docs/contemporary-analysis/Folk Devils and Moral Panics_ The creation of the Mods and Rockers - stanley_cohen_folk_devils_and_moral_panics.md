@@ -1,3 +1,8 @@
+---
+title: "**1**"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Figure_0.jpeg)
 
 ### Folk Devils and Moral Panics
@@ -526,7 +531,7 @@ The evidence for the ten elements in this composite picture is summarized below:
 - 6. *Classless* Indices such as accent and area of residence, gathered from court reports and observation, suggest that both the crowds and the offenders were predominantly working class. In the Barker–Little sample, the typical Rocker was an unskilled manual worker, the typical Mod a semi-skilled manual worker. All but two had left school at 15. At Clacton, out of the twenty-four charged, twenty-three had left school at 15, and twenty-two had been to secondary moderns. All were unskilled; there were no apprentices or anyone receiving any kind of training.
 - 7. *Deliberate intent* The bulk of young people present at the resorts came down not so much to make trouble as in the hope that there would be some trouble to watch. Their very presence, their readiness to be drawn into a situation of trouble and the
 
-<sup>\*</sup> This research sample will be referred to subsequently as the 'Barker–Little sample'.
+\* This research sample will be referred to subsequently as the 'Barker–Little sample'.
 
 sheer accretion of relatively trivial incidents were found in convenient and offensive; but if there really had been great numbers deliberately intent on causing trouble, then much more trouble would have resulted. I will make this point clearer when analysing the impact. The proportion of those whom the police would term 'troublemakers' was always small. This hard core was more evident at Clacton than at any of the subsequent events: twenty-three out of the twenty-four charged (ninety-seven were originally arrested) had previous convictions.
 
@@ -540,7 +545,9 @@ It must be remembered also that a certain amount of damage to local authority pr
 
 *Table 1* Cost of Damage to Four Resorts: Easter and Whitsun, 1964
 
-| Place | Date | No. of<br>arrests | Estimated cost<br>of damage |
+| Place | Date | No. of
+arrests | Estimated cost
+of damage |
 |-------------|---------------|-------------------|-----------------------------|
 | Clacton | Easter, 1964 | 97 | £513 |
 | Bournemouth | Whitsun, 1964 | 56 | £100 |
@@ -573,7 +580,7 @@ There appear to be three processes in such symbolization: a word (Mod) becomes s
 
 In their case study, Turner and Surace refer to this process as the creation of 'unambiguously unfavourable symbols'. Newspaper headlines and interpersonal communication following the initial incidents in Los Angeles, reiterated the phobia and hatred towards Mexican American youth. References to this group were made in such a way as to strip key symbols (differences in fashion, life style and entertainment) from their favourable or neutral connotations until they came to evoke unambiguously unfavourable feelings. Content analysis showed a switch in the references to Mexicans to the 'Zooter theme', which identifi ed this particular clothing style as the 'badge of delinquency' and coupled such references with mention of zoot-suiter attacks and orgies. Invariably the zooter was
 
-<sup>\*</sup> These riots took place in Los Angeles in 1943. Sailors indiscriminately beat up Mexicans and the 'zoot suit' – the long coat and trousers pegged at the cuffs worn by boys with long, greased hair – became the symbol around which the rioters rallied. In the decade preceding the riots, the treatment of Mexicans in the media gradually became less favourable and the concept of 'zoot-suiter' had been built up as a negative symbol, associated with all sorts of crime and deviance. See Turner and Surace.
+\* These riots took place in Los Angeles in 1943. Sailors indiscriminately beat up Mexicans and the 'zoot suit' – the long coat and trousers pegged at the cuffs worn by boys with long, greased hair – became the symbol around which the rioters rallied. In the decade preceding the riots, the treatment of Mexicans in the media gradually became less favourable and the concept of 'zoot-suiter' had been built up as a negative symbol, associated with all sorts of crime and deviance. See Turner and Surace.
 
 identifi ed with the generalized Mexican group. In the same way, the Mod and Rocker status traits were, in later stages of the reaction, to wash off on the generalized adolescent group. Their 'badge of delinquency' emerged as symbols, such as the fur-collared anorak and the scooter, which became suffi cient in themselves to stimulate hostile and punitive reactions. \*
 
@@ -581,7 +588,7 @@ Symbols and labels eventually acquire their own descriptive and explanatory pote
 
 Such symbolization is partly the consequence of the same standard mass communication processes which give rise to exaggeration and distortion. Thus, for example, misleading and inappropriate headlines were used to create unambiguously negative symbols where the actual event did not warrant this at all or at least was ambiguous. Accounts of certain events in Whitsun 1964, for example, were coupled with a report of a 'Mod' falling to his death from a cliff outside Brighton. Similarly, in August 1964 there were headlines 'Mod Dead In Sea'. In neither case had these deaths anything to do with the disturbances; they were both pure accidents. A reading of the headlines only, or of early reports not mentioning police statements about
 
-<sup>\*</sup> During the inventory period, scooter owners and manufacturers frequently complained about the bad publicity that they were getting. After Clacton, the general secretaries of the Vespa and Lambretta Scooter Clubs issued a statement dissociating their clubs from the disturbances.
+\* During the inventory period, scooter owners and manufacturers frequently complained about the bad publicity that they were getting. After Clacton, the general secretaries of the Vespa and Lambretta Scooter Clubs issued a statement dissociating their clubs from the disturbances.
 
 the accidents, might have led to a misleading connection. This sort of effect reached its bizarre heights in a headline in the *Dublin Evening Press* (18 May 1964) 'Terror Comes to English Resorts. Mutilated Mod Dead In Park'. The 'mutilated Mod' was, in fact, a man between 21 and 25 wearing a 'mod jacket'(?) who was found stabbed on the Saturday morning (the day *before* the incidents at the resorts) in a Birmingham park. \*
 
@@ -589,7 +596,7 @@ Another highly effective technique of symbolization was the use of dramatized an
 
 It is diffi cult to establish how authentic these interviews are. In some cases they ring so patently absurd a note that they cannot be an accurate transcription of what was actually said; the *Daily Telegraph* (31 March 1964), for example, carried an interview
 
-<sup>\*</sup> Newspapers farthest away from the source invariably carried the greatest distortions and inaccuracies. The *Glasgow Daily Record and Mail* (20 May 1964), for example, described Mods as being dressed in short-jacketed suits, with bell bottoms, high boots, bowler or top hats and carrying rolled-up umbrellas.
+\* Newspapers farthest away from the source invariably carried the greatest distortions and inaccuracies. The *Glasgow Daily Record and Mail* (20 May 1964), for example, described Mods as being dressed in short-jacketed suits, with bell bottoms, high boots, bowler or top hats and carrying rolled-up umbrellas.
 
 with a Rocker who said, 'We are known as the Rockers and are much more with it.' If any group had a 'with-it' self-image and would even contemplate using such a term, it certainly was not the Rockers. It would be fair to describe these interviews and reports as being composite, not necessarily in the sense of being wilfully faked, but as being infl uenced by the reporter's (or subeditor's) conception of how anyone labelled as a thug or a hooligan *should* speak, dress and act. This effect may have occasionally been heightened by a certain gullibility about the fantasies of self-styled gang leaders. 16
 
@@ -695,7 +702,7 @@ The process of spurious attribution is not, of course, random. The audience has 
 
 *Affluent Youth – The £75 Cheque* – Attitudes and opinions are often bolstered up by legends and myths. The uncivilized nature of immigrants is illustrated by the story of empty tins of cat meat found in dustbins of Indian restaurants. Teenage sexual promiscuity is illustrated by the story of schools where girls who have lost their virginity wear a badge.
 
-<sup>\*</sup> Not for the fi rst time, the only two national papers to use this sort of story were the *Telegraph* and the *Daily Sketch* .
+\* Not for the fi rst time, the only two national papers to use this sort of story were the *Telegraph* and the *Daily Sketch* .
 
 Perhaps the most recurrent of the Mods and Rockers stories was the one about the boy who said he would sign a cheque for a £75 fi ne (see p. 28). Although it took some time to circulate, this story was still being quoted as long as four years after the 'event'. The affl uence theme is one of the most powerful and persuasive components in the Mods and Rockers image, based as it is on the more general stereotype of teenage affl uence and serving itself as a rationalization for the widely held belief that 'fi nes won't hurt them'. Even if the mythical elements in the £75 cheque story and its variants were exposed, this attitude theme would persist.
 
@@ -743,7 +750,7 @@ The witnesses must appreciate the characteristics of the typed person and event 
 
 Moral panics depend on the generation of diffuse normative concerns, while the successful creation of folk devils rests on their stereotypical portrayal as atypical actors against a background that is overtypical. \*
 
-<sup>\*</sup> I am indebted to Jock Young for this notion of levels of typicality which he uses in his analysis of the mass media imagery of drug-takers.
+\* I am indebted to Jock Young for this notion of levels of typicality which he uses in his analysis of the mass media imagery of drug-takers.
 
 #### CAUSATION
 
@@ -795,7 +802,7 @@ In regard to the prediction factor in the inventory, while the media were sure t
 
 It won't die out as long as there are enough yobs with money who thrive on publicity. ( *Social Worker* )
 
-<sup>\*</sup> Research on some other forms of deviance has pointed to a similar tendency. One analysis of mass media reports on mental illness showed that they present ideas further removed from the opinions of experts than the opinions held by the 'average man'. 27
+\* Research on some other forms of deviance has pointed to a similar tendency. One analysis of mass media reports on mental illness showed that they present ideas further removed from the opinions of experts than the opinions held by the 'average man'. 27
 
 You can expect it every weekend now – it will go on just like the marchers. ( *Councillor* )
 
@@ -916,7 +923,7 @@ There is a further type of sensitization worth noting: what may be termed the 'w
 
 When the general cueing effect produced by sensitization is combined with the type of free association in the 'It's Not Only This' theme, the result is that a number of other deviants are drawn into the same sensitizing net. In the phase after the inventory, other targets became more visible and, hence, candidates for social control. These targets are not, of course, chosen randomly but from groups already structurally vulnerable to social control.
 
-<sup>\*</sup> This process is, of course, facilitated by the invariable publication of Identikit compositions, out-of-date photos and artists' impressions.
+\* This process is, of course, facilitated by the invariable publication of Identikit compositions, out-of-date photos and artists' impressions.
 
 One such target was the practice of sleeping rough on the beaches which is usually tacitly condoned in seaside resorts. During the summer holidays after the hooliganism publicity, however, towns like Brighton and Margate began to take a stricter line towards this activity. In Brighton, in August 1965, the police rounded up 15-year-old girls sleeping on the beach and took them to the police station. No charges were made, but parents were contacted to come and fetch their daughters. This was '. . . part of the town's new policy to make parents responsible for their daughters' safety' ( *Evening Standard* , 30 August 1965). The *Daily Mirror* (31 August 1965) referred approvingly to the 'morals patrols'. Other groups caught in the net were more puzzling; for example, all teenage weekend campers were banned from a camping ground outside Brighton. This type of teenager perhaps shares nothing more with the Mods and Rockers than the status of being adolescent.
 
@@ -964,18 +971,26 @@ The true innovators either listed several solutions in different permutations or
 | Number not proposing specifi c solutions | 160 |
 | Number proposing specifi c solutions | 140 |
 | Non-Specifi c Solutions: | |
-| % 'Hard' (stiff sentences, clamp down hard, more<br>discipline, tighten up,<br>etc.) | 81% |
-| % 'Soft' (strengthen home life, build up citizenship,<br>creative outlets, etc.) | 19% |
-| Specifi c Solutions (Single most important solution<br>proposed in each statement): | |
-| More powers to police (road blocks,<br>tear gas, dogs,<br>commando equipment, fi re hoses, etc.) | 28% |
+| % 'Hard' (stiff sentences, clamp down hard, more
+discipline, tighten up,
+etc.) | 81% |
+| % 'Soft' (strengthen home life, build up citizenship,
+creative outlets, etc.) | 19% |
+| Specifi c Solutions (Single most important solution
+proposed in each statement): | |
+| More powers to police (road blocks,
+tear gas, dogs,
+commando equipment, fi re hoses, etc.) | 28% |
 | Corporal punishment | 14% |
 | Longer prison or detention centre sentences | 9% |
 | Heavy fi nes or compensation | 9% |
 | National Service | 9% |
-| Non-military National Service (building roads, digging<br>the Channel tunnel, etc.) | 8% |
+| Non-military National Service (building roads, digging
+the Channel tunnel, etc.) | 8% |
 | Disqualify from driving or confi scate bikes | 7% |
 | Cut out all publicity | 7% |
-| Attendance centre type schemes (especially work in<br>public, like mending deckchairs) | 3% |
+| Attendance centre type schemes (especially work in
+public, like mending deckchairs) | 3% |
 ## | Others | 6% |
 
 convicted yob' to associate with others convicted, forbid them to drink, to leave home on the next Bank Holiday or to stay out after 9 p.m.
@@ -990,7 +1005,8 @@ Tables 3 and 4 show the extent to which innovatory responses occurred in groups 
 
 | Solution | Number | Percentage |
 |-------------------------------------------------------------------------------------------|--------|------------|
-| On-the-spot measures such as fi re hoses;<br>'instant justice'; more powers to the police | 15 | 23.1 |
+| On-the-spot measures such as fi re hoses;
+'instant justice'; more powers to the police | 15 | 23.1 |
 | Detention centres | 14 | 21.5 |
 | Fines, compensation | 13 | 20.0 |
 | Army, National Service | 9 | 13.8 |
@@ -1037,10 +1053,15 @@ Not only was leave cancelled for the local force, but reinforcements were used f
 
 | Bank Holiday | | Cost of Police Overtime |
 |-----------------------------------------------------------------|------------|-------------------------|
-| Easter 1965<br>Whitsun 1965 | | £5,600<br>£3,700 |
+| Easter 1965
+Whitsun 1965 | | £5,600
+£3,700 |
 | August 1965 | | £2,700 |
 | Easter 1966 | | £5,000 |
-| Minus £1,000 normally<br>spent on overtime each<br>Bank Holiday | Total | £17,000<br>£4,000 |
+| Minus £1,000 normally
+spent on overtime each
+Bank Holiday | Total | £17,000
+£4,000 |
 ## | | Extra cost | £13,000 |
 
 (Information supplied by the Chairman of the Watch Committee at meeting of Brighton Council, 28 April 1966.)
@@ -1075,7 +1096,7 @@ It is clear that besides the innovatory component, these sorts of techniques als
 
 At the initial incident at Clacton, the police provided a striking example of this public dramatization. Following an incident in which twenty to thirty youths were refused service at a cafeteria, the police frogmarched two youths to the police station, with about one hundred others following behind, jeering and shouting. At 7.30 on the last evening of the Whitsun 1964 weekend, the Brighton police rounded up all the Mods and Rockers in the vicinity of the beach and marched them in a cordon through the streets to the station. This 'sullen army' ( *Evening Argus* , 19 May 1964) was watched along the route by a crowd of onlookers. They were then escorted on to the train. Care was taken that no one would turn back from
 
-<sup>\*</sup> In 1970 Southend police were still using the same technique, this time to cope with skin-heads. The bootlaces, belts and braces of 'likely looking troublemakers' were confi scated and local shopkeepers were 'requested' not to sell replacements to young people. Leaving aside its dubious legal status, there is no evidence that this tactic has the slightest deterrent effect. It says much for the persistence of the Southend police that it continues to be used and widely supported.
+\* In 1970 Southend police were still using the same technique, this time to cope with skin-heads. The bootlaces, belts and braces of 'likely looking troublemakers' were confi scated and local shopkeepers were 'requested' not to sell replacements to young people. Leaving aside its dubious legal status, there is no evidence that this tactic has the slightest deterrent effect. It says much for the persistence of the Southend police that it continues to be used and widely supported.
 
 the fi rst station out of Brighton: any young person with long hair or jeans had to convince the police that he lived in Brighton or Hove before being allowed out of the station. Successful symbolization provided the basis for these – and other – innovatory and dramatizing measures and ensured their support.
 
@@ -1089,7 +1110,7 @@ Nine separate allegations of wrongful arrest were made in letters to the NCCL. �
 
 . . . a friend came up and greeted us perhaps a little louder than he should have, and was pulled aside by a police sergeant and reprimanded for doing so. While waiting for him, my friends
 
-<sup>\*</sup> I was informed from unoffi cial sources that the police had been reprimanded after the weekend for being too enthusiastic. This might have been in response to a report in *The Times* critical of the police, the high number of appeals involving allegations of wrongful arrest and the publicity generated by the NCCL. In any event there appeared to be a change in policy by Whitsun, when, although there were just as many police present, they were considerably less active. † The original copies of these letters and other documents were studied. Initials only are used, and other identifying information altered in all quotations from these sources.
+\* I was informed from unoffi cial sources that the police had been reprimanded after the weekend for being too enthusiastic. This might have been in response to a report in *The Times* critical of the police, the high number of appeals involving allegations of wrongful arrest and the publicity generated by the NCCL. In any event there appeared to be a change in policy by Whitsun, when, although there were just as many police present, they were considerably less active. † The original copies of these letters and other documents were studied. Initials only are used, and other identifying information altered in all quotations from these sources.
 
 and I were told to 'move on' by a police offi cer who, as he said this, pushed my friend Dave. He replied to this statement that he was waiting for our friend who was still talking to the police sergeant. The policeman then said the same thing again, still pushing Dave. 'Move on.' My friend Dave replied that he was moving on, which of course he was. The policeman told my friend not to give him any lip, my friend then asked what he had said to be lippy, the policeman then shoved my friend against a beacon by a zebra crossing saying that he had told him to move on and he was to get across there; my friend was just about to go across the crossing when a car pulled out in front of him, stopping him from crossing; the car was only there for a few seconds and within that time the policeman said to Dave, 'I told you to move, you're under arrest . . .' A police van pulled up and my friend was literally thrown into the van.
 
@@ -1115,7 +1136,7 @@ They were refused water or washing facilities and in one case (T. M.) given only
 
 It should be stressed that such allegations represented very much a minority view. One of the most unambiguous of public attitudes – and one that was fed back to reinforce the actions of the police – was of support and admiration for the police. The foundation for this attitude was laid in inventory reports about 'How the Police Won the Battle of Brighton'. These reports
 
-<sup>\*</sup> The Brighton police denied a NCCL charge that sixty youths had shared a cell. Because of lack of space 'they were put in the cell corridor' ( *Guardian* , 28 April 1965).
+\* The Brighton police denied a NCCL charge that sixty youths had shared a cell. Because of lack of space 'they were put in the cell corridor' ( *Guardian* , 28 April 1965).
 
 polarized the images of the good, brave policemen with the evil, cowardly mob. The *Daily Mirror* (19 May 1964), for example, reported on how two hundred Mods advancing on the Margate Town Hall were routed by one brave policeman. In fact, the Mods were milling around, rather than advancing and there were at least four policemen. But the counter-conceptions had to be stressed between 'The Hoodlums and the Real Heroes'; the police, self-controlled and patient, had to meet a provocative jeering mob, hundreds of whom were '. . . turned away by a handful of men in blue'.\*
 
@@ -1123,7 +1144,7 @@ These images were defi nitely absorbed by the public. Of the total number of pos
 
 Additional signs of public support for the police could be seen in the courts, where prolonged applause from the public benches followed statements by the Chairman complimenting the police. The same reaction occurred during parliamentary debates. Letters to local papers in the resorts were mainly in praise of the police, 'this gallant bulwark of society' ( *Brighton and* 
 
-<sup>\*</sup> This sort of imagery is identical to that used in covering crowd clashes between political demonstrators and the police: 'Police Win Battle of Grosvenor Square', 'The Day the Police Were Wonderful', 'Fringe Fanatics Foiled at Big Demonstration: What the Bullies Faced', etc. For a detailed analysis of the media portrayal of the police in one such case, the 1968 Vietnam demonstrations in London, see Halloran *et al* . 20
+\* This sort of imagery is identical to that used in covering crowd clashes between political demonstrators and the police: 'Police Win Battle of Grosvenor Square', 'The Day the Police Were Wonderful', 'Fringe Fanatics Foiled at Big Demonstration: What the Bullies Faced', etc. For a detailed analysis of the media portrayal of the police in one such case, the 1968 Vietnam demonstrations in London, see Halloran *et al* . 20
 
 *Hove Herald* , 23 March 1964). The *Hastings and St Leonards Observer* (8 August 1964) published fi fteen letters about the Mods and Rockers: thirteen expressed gratitude to the police, one did not mention them and one writer complained about his son and daughter being unjustifi ably harassed by the police. This last letter resulted in ten letters in the next issue denouncing the writer's attitude and accusing him of being emotional, unbalanced and waging a private vendetta against the police. These letters again expressed gratitude to the policeman '. . . and his allies [sic] the magistrates'. One writer said: 'If I had a thousand pounds, I would give it to the police. What would we do without them?', and another called for money to be sent to the Police Convalescent Home '. . . as tangible appreciation for the police winning the Battle of Hastings, 1964'. Such calls did not go unheeded: besides the hundreds of letters sent to them directly, the Brighton police received over £100 for the Police Benevolent Fund and, according to a local journalist, were embarrassed by the sheer volume of congratulations that poured in.
 
@@ -1137,11 +1158,17 @@ In the case of Brighton, Easter 1965, so many were arrested (between 110 and 120
 
 | Charges | | Sentences | |
 |------------------------------------------------|----|-----------------------------|---------|
-| Threatening behaviour<br>or threatening words | 37 | Conditional discharge | 1 |
-| Threatening behaviour<br>plus offensive weapon | 3 | £25 fi ne | 1 |
-| Offensive weapon | 5 | £50 fi ne<br>£75 fine | 30<br>6 |
-| Malicious damage or<br>wilful damage | – | Detention centre (3 months) | 6 |
-| Assault plus offensive<br>weapon | 1 | Detention centre (6 months) | 1 |
+| Threatening behaviour
+or threatening words | 37 | Conditional discharge | 1 |
+| Threatening behaviour
+plus offensive weapon | 3 | £25 fi ne | 1 |
+| Offensive weapon | 5 | £50 fi ne
+£75 fine | 30
+6 |
+| Malicious damage or
+wilful damage | – | Detention centre (3 months) | 6 |
+| Assault plus offensive
+weapon | 1 | Detention centre (6 months) | 1 |
 | Assaulting police | – | | |
 | Obstructing police | – | Jail (3 months) | 1 |
 | | – | | – |
@@ -1159,7 +1186,8 @@ In the case of Brighton, Easter 1965, so many were arrested (between 110 and 120
 | | £20 fi ne | 3 | |
 | | £25 fi ne | 2 | |
 | | Detention centre (3 months) | 13 | |
-| | Detention centre (3 months)<br>+ £50 fi ne | 2 | |
+| | Detention centre (3 months)
++ £50 fi ne | 2 | |
 | | | — | 23 |
 | Malicious damage | Detention centre (2 months) | 1 | |
 | Wilful damage | Detention centre (3 months) | 2 | |
@@ -1174,9 +1202,10 @@ In the case of Brighton, Easter 1965, so many were arrested (between 110 and 120
 | Assaulting police | Detention centre (6 months) | 2 | |
 | | Prison (3 months) | 1 | |
 | | | — | 3 |
-| | | | —<br>40 |
+| | | | —
+40 |
 
-<sup>\*</sup> All except this case bound over for £25 to keep the peace for two years.
+\* All except this case bound over for £25 to keep the peace for two years.
 
 unlawful possession of drugs (fi ve) and a few each of malicious damage, obscene language and stone-throwing. Because virtually every offender was remanded in custody, it is diffi cult to trace all subsequent sentences. It is only clear that greater use was made of the detention centre – a trend throughout the period – and fi nes were increased. These cases supplied the greatest proportion of successful appeals; in one case the Recorder substituted a £25 fi ne for a sentence of three months in a detention centre because it was a fi rst offence. The press reported very few of the successful appeals.
 
@@ -1184,7 +1213,7 @@ The use of the remand in custody by the Brighton magistrates at Easter 1965 warr
 
 The grounds on which bail can be refused, especially for juveniles, are fairly limited, but it was quite apparent that these grounds were not being applied to individual cases and that bail was refused as a matter of principle. The Chairman of the Magistrates, Mr H. Cushnie, was widely quoted as saying that bail would not be entertained at all, no matter what surety was offered. † While most newspaper reports of the court proceedings quoted the magistrates' reason for remand as being 'in order to enable the police to make enquiries', this, in fact, was not the reason given in court when bail was opposed. Inspector W. Tapsall, prosecuting, said that his opposition was, fi rstly, on the grounds that if the boys were allowed to go free on bail justice would not be done and, secondly, that the public must be
 
-<sup>\*</sup> Editorial comment in the *Observer* (25 April 1965). A senior magistrate in the North view sample claimed that word had gone round the magistrate's clerks at the time to make greater use of the remand in custody; he commented himself: 'Although it is not strictly legal and is rather naughty, a remand in custody for more than a week is a good idea.' A recent study has shown the general haphazard and inadequate bases for magistrates' decisions to remand defendants on bail or in custody. 21
+\* Editorial comment in the *Observer* (25 April 1965). A senior magistrate in the North view sample claimed that word had gone round the magistrate's clerks at the time to make greater use of the remand in custody; he commented himself: 'Although it is not strictly legal and is rather naughty, a remand in custody for more than a week is a good idea.' A recent study has shown the general haphazard and inadequate bases for magistrates' decisions to remand defendants on bail or in custody. 21
 
 At Whitsun 1964 the Brighton magistrates in fact granted bail to a 17-year-old arrested for insulting behaviour. The amount of bail was £1,250.
 
@@ -1202,7 +1231,7 @@ The extent to which action was infl uenced by the generalized belief system rath
 
 In considering the penalties to be imposed, we must take into account *the overall effect* on the innocent citizens of and visitors to the Borough. Though some of the offences committed by individuals may not *in themselves* seem all that serious, they form *part and parcel* of a *cumulative series* of events which ruined the pleasure of thousands \* and adversely affected the
 
-<sup>\*</sup> One of the Hastings magistrates was evidently one of these 'thousands'. During the hearing he revealed that he was in a crowd which had retreated into Woolworths for safety during an incident.
+\* One of the Hastings magistrates was evidently one of these 'thousands'. During the hearing he revealed that he was in a crowd which had retreated into Woolworths for safety during an incident.
 
 business of traders. The Hastings Bench has always taken a stern view of violent and disorderly conduct and we do not propose to alter that attitude. In pursuance of that policy we shall impose in these cases penalties – in many cases the maximum – which will punish the offenders and will effectively deter other law breakers.
 
@@ -1356,7 +1385,7 @@ It is further resolved:
 
 That copies of the foregoing resolution be forwarded to the local Members of Parliament, the Association of Municipal
 
-<sup>\*</sup> I have used the names 'Seatown' and later 'Beachside' to disguise the identities of the two resorts whose action groups I studied.
+\* I have used the names 'Seatown' and later 'Beachside' to disguise the identities of the two resorts whose action groups I studied.
 
 Corporations and the British Resorts Association with requests that they give their full support.
 
@@ -1408,9 +1437,9 @@ It is diffi cult to trace the history of the group beyond this stage. Whitsun wa
 
 What sorts of individuals are the moving forces behind such action groups? Becker distinguished two species of moral entrepreneurs – rule enforcers (control agents) and rule creators. The prototype of the rule creator is the moral crusader or crusading reformer; he is the man who, with an absolute ethic, sets out to eradicate the evil which disturbs him. Although Becker noted
 
-<sup>\*</sup> It is extremely unlikely that Blake himself made this concession; his whole enterprise was based on the perception that the authorities *had* failed.
+\* It is extremely unlikely that Blake himself made this concession; his whole enterprise was based on the perception that the authorities *had* failed.
 
-<sup>†</sup> During a conversation with Blake over this weekend, he apologized that I had to travel all the way to Beachside and not see any trouble. Moral entrepreneurs have some interest in the continuation of the deviance they object to in order to justify their own actions.
+† During a conversation with Blake over this weekend, he apologized that I had to travel all the way to Beachside and not see any trouble. Moral entrepreneurs have some interest in the continuation of the deviance they object to in order to justify their own actions.
 
 that not all supporters of moral crusades are so pure and singleminded in their motives, he did not describe these other types.
 
@@ -1594,7 +1623,7 @@ Certain Chief Constables institutionalized the practice of formal press conferen
 
 As in the cases of mass delusion described previously, the situation was ambiguous enough to allow for a number of false alarms to occur. Unfulfi lled expectations, however, did not lead to a breakdown in the warning system or the erection of psychological defences against threat; if things did not happen, this could be explained in terms of the effectiveness of the deterrent ('they know we won't stand for them in X') or a change in the invasion plan. When public interest in the Mods and Rockers died down, and there was consequently less need for such rationalizations, the warnings became less publicized – despite the fact that the behaviour itself had not considerably changed its pattern. The deviance was now a regular occurrence, so there was no need for formal warnings. One merely had to consult a calendar to fi nd out the date of the next show.
 
-<sup>\*</sup> See Withey's remarks about 'overreaction' and emotional behaviour. One might speculate that such fantasies about planning (cabalism) and spies infi ltrating coffee bars, provided control agents with a satisfaction analogous to gang-leaders' fantasies about gang life.
+\* See Withey's remarks about 'overreaction' and emotional behaviour. One might speculate that such fantasies about planning (cabalism) and spies infi ltrating coffee bars, provided control agents with a satisfaction analogous to gang-leaders' fantasies about gang life.
 
 #### THE CROWD SCENES
 
@@ -1706,11 +1735,11 @@ It is diffi cult to generalize about the motives which brought the spectators to
 
 A more convincing sociological explanation is that the Mods and Rockers events were viewed as a ceremony. This was a modern morality play, \* in which good (the police and the
 
-<sup>\*</sup> A team of researchers studying football hooliganism have noted a similar element in these public confrontations between policemen and deviants courts) met evil (the aggressive delinquent). Like all morality plays – or bull fi ghts, which the atmosphere often resembled – there was little doubt about which side would win: the devil's place was known in advance. This type of morality image was sedulously cultivated by the mass media in the interest of consensus, and the audience reaction showed that the image was absorbed. The passive fascination (which might correspond to the psychoanalytical 'vicarious satisfaction' and the afi cionado's admiration for the brave bull) was livened only when the forces of good triumphed. On a number of occasions spectators were observed cheering the police when they made an arrest and when boys were bundled into a police van, the type of remark one heard was 'that'll teach them a lesson', or 'put them in Lewes for a few nights, that'll show them'. In the courts there was applause from the public benches when the Chairman praised the police.
+\* A team of researchers studying football hooliganism have noted a similar element in these public confrontations between policemen and deviants courts) met evil (the aggressive delinquent). Like all morality plays – or bull fi ghts, which the atmosphere often resembled – there was little doubt about which side would win: the devil's place was known in advance. This type of morality image was sedulously cultivated by the mass media in the interest of consensus, and the audience reaction showed that the image was absorbed. The passive fascination (which might correspond to the psychoanalytical 'vicarious satisfaction' and the afi cionado's admiration for the brave bull) was livened only when the forces of good triumphed. On a number of occasions spectators were observed cheering the police when they made an arrest and when boys were bundled into a police van, the type of remark one heard was 'that'll teach them a lesson', or 'put them in Lewes for a few nights, that'll show them'. In the courts there was applause from the public benches when the Chairman praised the police.
 
 Whatever the reason for the spectators' presence and involvement, it is as important to observe their *effect* on the behaviour during the impact, remembering that just about everyone present – including the Mods and Rockers – played the spectator role at one time or another. One direct effect of the numbers of spectators was, in fact, to hinder the police in performing their duties of crowd control. The more important effect of the audience, though, was more subtle in that its very presence provided an encouragement to deviance. The audience is part of the crowd, and even if it may disapprove, it makes the crowd larger numerically and increases the expression of strength and support for what is being done. Turner and Killian quote the
 
-<sup>&#</sup>x27;. . . Spectators seemed to adopt the attitude that the scenes were comparable to those shown at old-fashioned music halls where villains and heroes were booed and cheered in a ritualized manner.' 19 There is a crucial difference, though, between these situations: at football matches it is often the police who are the villains, at the resorts it was always the Mods and Rockers.
+&#x27;. . . Spectators seemed to adopt the attitude that the scenes were comparable to those shown at old-fashioned music halls where villains and heroes were booed and cheered in a ritualized manner.' 19 There is a crucial difference, though, between these situations: at football matches it is often the police who are the villains, at the resorts it was always the Mods and Rockers.
 
 Southern Commission on the Study of Lynchings to show that the spectators often constituted a source of protection for the very elements of which they might disapprove. 20 In the presence of an audience, the more active members of the crowd become committed to a line of action, because to back down would be to lose face. A passive audience may also have unwittingly contributed to creating what F. H. Allport originally termed 'the impression of universality' whereby the crowd member loses some responsibility through assuming that 'everybody is doing it'. Exaggeration – by observers and participants – of the numbers involved, only heightens this effect.
 
@@ -1754,7 +1783,7 @@ The police – the main control agents operating during the impact period – ha
 
 The police (and the courts) acted on the assumption that certain forms of behaviour, although not criminal in themselves, were, under the particular circumstances, so situationally improper \* as to call for offi cial action. It must be emphasized that the majority of arrests throughout were for offences which are both potentially provocable and involve considerable police discretion. This means
 
-<sup>\*</sup> The notion of situational impropriety is derived from Goffman; his discussions of attitudes to 'lolling' and 'loitering' are particularly apposite to the situation on the beaches where the police appeared to be given a license to move people along who were doing nothing; one had to appear purposeful. 29
+\* The notion of situational impropriety is derived from Goffman; his discussions of attitudes to 'lolling' and 'loitering' are particularly apposite to the situation on the beaches where the police appeared to be given a license to move people along who were doing nothing; one had to appear purposeful. 29
 
 that the sheer number of charges could give a distorted picture of the disturbances. In Brighton, Whitsun, 1965, for example, there was little serious trouble: the weather (there was hail and sleet) had sent people home early and the Chief Constable even issued an offi cial statement that most young people had been well behaved and the police were in control. But 'in control' meant making a large number of discretionary arrests; from late Saturday to Monday there were over 110 arrests. These were not clear-cut offences, such as possessing an offensive weapon or assault, but charges which required highly subjective defi nitions of what constituted 'obstruction', 'abusive', 'threatening', 'insulting', 'disorderly' or 'unruly' behaviour. These terms could only acquire an objective and reifi ed status through the acceptance of situational logic which, in turn, was based on the belief system. The following are examples of this situational logic; the fi rst two are from statements by the Inspector prosecuting in the Brighton court, the second two are from Hastings:
 
@@ -1776,7 +1805,7 @@ The crowd situation offers, *par excellence* , the opportunity for police interv
 
 It was not just a question, though, of a nexus of mutual misunderstandings; the police did objectively act in such a way as to increase solidifi cation and polarization. In the fi rst place, their control tactics were based on the assumption that the young people present were either divided into two homogeneous groups, Mods and Rockers (the Divide and Rule theme) or constituted a single homogeneous mass. Both these assumptions were false. By emphasizing the Mods and Rockers' difference (e.g. by preventing the two groups from coming into proximity) the police might have widened the gulf between the groups. In one particular case (not in a seaside resort) the police, under full publicity, attempted to call two groups together for a peace treaty. \* By seeing the crowd as a homogeneous mass, to be
 
-<sup>\*</sup> Yablonsky comments on a similar peace treaty: 'The meeting gave a degree of offi cial recognition to the illegal activity of a disorganized connection of neighbourhood youth. Moreover the treaty may have structured a loosely developed controlled on the basis of the visible stigmata of dress, a greater sense of cohesion develops. If subject to indiscriminate harassment or even if only witnessing the innovatory use of violence by the police, the more marginal and passive sections of the crowd could quite easily develop a sense of resentment and grievance. This could be the fi rst step towards a sense of identity and common purpose with the real or imagined hard core of the crowd, with 'police brutality' as a convenient rallying point.
+\* Yablonsky comments on a similar peace treaty: 'The meeting gave a degree of offi cial recognition to the illegal activity of a disorganized connection of neighbourhood youth. Moreover the treaty may have structured a loosely developed controlled on the basis of the visible stigmata of dress, a greater sense of cohesion develops. If subject to indiscriminate harassment or even if only witnessing the innovatory use of violence by the police, the more marginal and passive sections of the crowd could quite easily develop a sense of resentment and grievance. This could be the fi rst step towards a sense of identity and common purpose with the real or imagined hard core of the crowd, with 'police brutality' as a convenient rallying point.
 
 It should be noted that feelings of persecution were particularly acute among the Rockers, who were observably discriminated against by the police. This group was more visible than the amorphous Mod crowds and also occupied in the public mind the traditional 'yobbo' status. Their existent minority group status *vis-à-vis* the Mods and their sense of fi ghting a rearguard battle against the new emancipated teenagers, was reinforced by the police who naturally enough found it easier to identify a minority group. The literature on crowd control points to this type of partiality as being particularly provocative and police are usually impressed with the necessity to avoid entering into issues that move the crowd.
 
@@ -2030,7 +2059,7 @@ Tape recordings of most national radio and television (BBC) news broadcasts over
 - (i) Two pilot questionnaires administered to a group of nineteen trainee probation offi cers in the preliminary stages of the study (December 1964). The fi rst was in open-ended form and dealt with attitudes to various aspects of the Mods and Rockers – images, causes, solutions and initial reactions. The second was in the form of a ninety item Likert-scale covering responses to a hypothetical incident of hooliganism of the Mods and Rockers type. This scale was also completed by groups of teachers and WEA students.
 - (ii) Interviews and informal discussions in Brighton, Margate and Hastings at the end of 1964, after the fi rst wave of incidents.
 
-<sup>\*</sup> Some fi ndings from the survey were reported in Paul Barker and Alan Little, 'The Margate Offenders: A Survey', *New Society* , 30 July 1964, pp. 6–10. I am grateful to Paul Barker for giving me access to the completed interview schedules.
+\* Some fi ndings from the survey were reported in Paul Barker and Alan Little, 'The Margate Offenders: A Survey', *New Society* , 30 July 1964, pp. 6–10. I am grateful to Paul Barker for giving me access to the completed interview schedules.
 
 Formal interviews were held with editors of all the local newspapers and various publicity department offi cials. Informal discussions, of the type used in the fi rst stages of a community study, were held with informants such as hotel keepers, shop assistants, bus conductors, taxi-drivers and newspaper sellers.
 
@@ -2038,7 +2067,7 @@ Formal interviews were held with editors of all the local newspapers and various
 - (iv) In the case of the Brighton Archways Ventures, I participated as a volunteer worker over three Bank Holiday weekends. This was a Brighton based youth project, eventually fi nanced by the Department of Education and Science and staffed by fulltime social workers. It was designed to provide cheap sleeping accommodation and other help for young people coming down to Brighton and catered for all the diverse groups drifting down to the beaches: initially, more the Mods and Scooter Boys and later, the beatniks.\*
 - (v) Sixty-fi ve interviews, thirty of which were tape-recorded, were carried out in Brighton over the Whitsun Bank Holiday, 1965. Members of the public standing on the promenade or pier watching the Mods and Rockers were interviewed on a quota sample basis by myself and another graduate criminology
 
-<sup>\*</sup> The history of the project has now been written up in three volumes – *Brighton Archways Ventures Report* (mimeo. 650 pages).
+\* The history of the project has now been written up in three volumes – *Brighton Archways Ventures Report* (mimeo. 650 pages).
 
 student. There were fi ve refusals out of the original seventy approached in two days.
 
@@ -2074,9 +2103,45 @@ Type of school? Social class?
 
 Would you mind giving me some information about yourself, so that we can check, like Gallup Poll do, that we've got a cross section of opinion? Don't answer any of these questions if you don't want to.
 
-| Male<br>1<br>Female<br><br>2 | Local resident<br>5<br>Out of town6 |
+| Male
+1
+Female
+
+2 | Local resident
+5
+Out of town6 |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
-| 16–20<br>3<br>21–24<br>4<br>25–29 5<br>30–34<br>6<br>35–44 7<br>45–49<br><br>8<br>50–64<br><br>9<br>65+ 10<br>Married 1<br>Single<br><br>2<br>Widowed 3<br>Divorced/Separated<br>4 | Occupation<br><br><br><br>Labour<br>1<br>Conservative<br>2<br>Liberal<br>3<br>Other4 |
+| 16–20
+3
+21–24
+4
+25–29 5
+30–34
+6
+35–44 7
+45–49
+
+8
+50–64
+
+9
+65+ 10
+Married 1
+Single
+
+2
+Widowed 3
+Divorced/Separated
+4 | Occupation
+
+
+Labour
+1
+Conservative
+2
+Liberal
+3
+Other4 |
 
 ## Others/Don't know: 6
 
@@ -2084,10 +2149,22 @@ class: 40
 
 ## class 22 Upper class 3
 
-| Social Characteristics of Brighton Sample<br>(N = 65) | | | |
+| Social Characteristics of Brighton Sample
+(N = 65) | | | |
 |-------------------------------------------------------|-------------------------------------------------------------|---------------------------|-------------------------------------------------------|
-| Sex | Male: 34<br>Female: 31 | Marital status | Married: 31<br>Single: 23<br>Widowed/<br>Divorced: 11 |
-| Age | 16–20: 9<br>21–24: 9<br>25–29: 1<br>30–34: 2<br>35–44:<br>6 | Political<br>affi liation | Labour: 31<br>Conservative: 28 |
+| Sex | Male: 34
+Female: 31 | Marital status | Married: 31
+Single: 23
+Widowed/
+Divorced: 11 |
+| Age | 16–20: 9
+21–24: 9
+25–29: 1
+30–34: 2
+35–44:
+6 | Political
+affi liation | Labour: 31
+Conservative: 28 |
 
 ## Local: 32 *Social class* Working
 
@@ -2102,7 +2179,7 @@ class: 40
 - (vii) Between summer 1965 and summer 1966, I carried out a survey of attitudes to delinquency in a London borough I called 'Northview'. The sample contained 133 'social control agents', people with key formal or informal positions in the delinquency control system or in some senses, opinion leaders in the local community. It was made up of roughly equal numbers of businessmen, councillors, doctors, headmasters, lawyers, magistrates, religious leaders, social workers and youth workers. Each member was interviewed personally, and the long list of questions (on delinquency in general, the courts, methods of prevention, etc.) contained four questions covering attitudes to the Mods and Rockers. \*
 - (viii) Twenty-fi ve essays written by third- and fourthform pupils from a school in the East End of London. The essays entitled simply 'The Mods and Rockers' were set by the English teacher as part of normal course work.
 
-<sup>\*</sup> Full details of the sample and interview schedule can be found in S. Cohen, 'Hooligans, Vandals and the Community: Studies of Social Reaction to Juvenile Delinquency' (unpublished Ph. D. thesis, University of London, 1969).
+\* Full details of the sample and interview schedule can be found in S. Cohen, 'Hooligans, Vandals and the Community: Studies of Social Reaction to Juvenile Delinquency' (unpublished Ph. D. thesis, University of London, 1969).
 
 #### **SELECTED READING LIST**
 
@@ -2605,7 +2682,52 @@ audience 172, 179–82, 199
 | belief systems 91, 114, 123, 133, 141, | Brooke, H. 153–4 |
 | 149, 154, 179, 190 | Buikhuisen, W. 197 |
 | belts 101–2 | business organizations 127 |
-| Berger, P. 77<br>Bevin Boys 150<br>birching 93, 139, 144<br>Birmingham 39<br>bishops 1, 3, 65<br>Black, C. 148<br>Blackburn 83<br>Blackpool 43, 48, 81, 87, 135, 228<br>Blake, G. 137–41, 145, 148–9, 201,<br>225<br>blame 81, 185<br>Blumer, H. 4<br>bombings 15<br>Boorstin, D. J. 44<br>boredom 55, 58, 64–6, 73, 128, 147,<br>153, 169, 171, 204, 222, 230<br>Borneo 60<br>bouncers 173–4<br>boundary crisis 219<br>bourgeoisie 202–3, 214, 230<br>Bournemouth Private Hotels and<br>Guest Houses Association 88 | Busy Bee Café 210<br>cabalism 63–6, 188<br>Calais 43<br>Canada 25<br>canon 5, 22, 227<br>Carnaby<br>Street<br>3,<br>211,<br>229<br>causation 49–50, 62–6, 76<br>cells 107<br>ceremony 180–1<br>Chambers of Commerce 127, 130,<br>139, 159<br>cheque story 28, 57<br>Chicago 40, 101, 191<br>Chinese 147<br>Churchill, W. 51<br>civil disobedience 52<br>civil liberties 144<br>Clacton 16, 23, 26; backgrounds<br>208, 215; control agents 193;<br>crowd scenes 168, 170, 176–7;<br>exclusive control 125–6, 128, |
+| Berger, P. 77
+Bevin Boys 150
+birching 93, 139, 144
+Birmingham 39
+bishops 1, 3, 65
+Black, C. 148
+Blackburn 83
+Blackpool 43, 48, 81, 87, 135, 228
+Blake, G. 137–41, 145, 148–9, 201,
+225
+blame 81, 185
+Blumer, H. 4
+bombings 15
+Boorstin, D. J. 44
+boredom 55, 58, 64–6, 73, 128, 147,
+153, 169, 171, 204, 222, 230
+Borneo 60
+bouncers 173–4
+boundary crisis 219
+bourgeoisie 202–3, 214, 230
+Bournemouth Private Hotels and
+Guest Houses Association 88 | Busy Bee Café 210
+cabalism 63–6, 188
+Calais 43
+Canada 25
+canon 5, 22, 227
+Carnaby
+Street
+3,
+211,
+229
+causation 49–50, 62–6, 76
+cells 107
+ceremony 180–1
+Chambers of Commerce 127, 130,
+139, 159
+cheque story 28, 57
+Chicago 40, 101, 191
+Chinese 147
+Churchill, W. 51
+civil disobedience 52
+civil liberties 144
+Clacton 16, 23, 26; backgrounds
+208, 215; control agents 193;
+crowd scenes 168, 170, 176–7;
+exclusive control 125–6, 128, |
 
 149–53; exploitation 158–9; impact 198; inventory 30–2, 36–7, 39, 43; media 187; process 227; reaction 50–2, 54, 62, 70, 83–4, 88–9, 97–9, 102; sociology 221; warning phase 163–6 Clark, K. B. 42 class 2, 12, 29; backgrounds 203, 205–7, 209, 211–13, 215–17; crowd scenes 171; exploitation 159; impact phase 162; inventory 31, 43; media 188; process 228–9, 233; reaction 57, 66, 69, 73–5, 141; sociology 221–3, 225 Clean Up TV Campaign 132 CND 52 coding 43, 49, 66–7, 71 coercion 107 cognitive dissonance theory 60 Cohen, A. K. 92–3, 155 Cohn, N. 214 collaboration 90 collective behaviour 3–4, 13–15 collective memory 1, 3 commercial exploitation 58, 199, 211, 223, 229 commercial interests 127–8, 142, 149, 157, 168, 188, 212, 225 common elements 90–7 computers 45, 54 conceptual machinery 77, 79 conscription 139 consensus model 78 conspiracy theory 63–4 contagion effect 13–14, 185, 199 contexts 201–33 Continent 25, 51, 223 control agents 8–9, 15, 44; backgrounds 201; crowd scenes 175, 177; culture 97–121, 124, 140; impact 162, 189–96, 200; media 184, 188; process 228, 231; reaction 72, 79, 81; sociology 218
 
@@ -2617,52 +2739,121 @@ Dallas 36 Davies, M. 114 Dean, J. 56, 209 death penalty 48 defi nitional questio
 
 early warning phase systems 18 East Anglia 30, 35 Eastbourne 75, 127, 165, 189 Easter 23, 32, 104; backgrounds 212; crowd scenes 176–7; impact 198; reaction 110, 112–13, 126, 137, 142, 144, 150, 153; warning phase 165, 195 economics 203, 212 editorials 25, 49–50, 54, 59, 129, 165, 183 editors 1, 3, 12, 40 educationalists 58 Edwardians 37–8, 114, 217 elections 149, 160, 167 embourgeoisement 202–3 England 43, 101, 162, 166, 185, 201, 206, 211, 216, 229 enterprise 123 Erikson, K. T. 10–11, 116, 156, 219 escalation 90–3, 97, 109, 160, 182, 199 Essex 30, 84 ethnography 8 Europe 43, 50, 185, 218 exaggeration 25–34, 38, 40–1; audience 182; backgrounds 208; control agents 196; crowd scenes 178; end 228; exclusive control 148, 153, 155; inventory 45; media 184; reaction 52, 71–2, 91, 126–7 exclusive control culture 121–56 experts 1 explanation modes/models 76–9 exploitation 58, 80, 156–61, 184, 188, 199–200, 203, 211, 223, 229 expressive fringe delinquency 205
 
-| fair play 91, 93<br>Goodman, P. 206 | |
+| fair play 91, 93
+Goodman, P. 206 | |
 |-------------------------------------------------------------------------------------------------|--|
-| false alarms 16<br>Gotham City 120 | |
-| fantasy 52<br>Government 24 | |
-| feedback systems 18<br>Graham, B. 157 | |
-| Feldman, J. S. 63<br>Greasers 3, 228 | |
-| female reactions 75<br>Great Train Robbery 3, 146 | |
-| Festival of Light 132<br>Great Yarmouth 23, 30, 50, 195, | |
-| festivals 45, 51<br>228 | |
-| fi nes 28, 57, 73; reaction 82, 93, 112,<br>Great Yarmouth Hotels and Guest | |
-| 117, 119–20, 133, 135, 139, 144–5,<br>Houses Association 88, 130 | |
-| 152, 154<br>Greene, G. 22–3, 169 | |
-| Finland 146<br>guilt by association 55 | |
-| First World War 148<br>Gurden, H. 52, 151–2 | |
-| folk devils 2–3, 20, 37–8; back<br>Gusfi eld, J. 3, 10, 224<br>grounds 202, 217, 221, 226, 228, | |
-| 233; inventory 41; reaction 56, 58,<br>hagiology 41 | |
-| 61, 69–70, 72, 74, 76, 80, 102,<br>Halloran, J. D. 36, 42, 44 | |
-| 149, 156–7; warning phase 166,<br>hanging 146 | |
-| 170, 178, 186<br>hard labour 133 | |
-| folklore 1, 56, 66, 85, 187–8, 222<br>hard Mods 213, 215 | |
-| football 2–3, 43, 45, 51, 124, 167,<br>Harwich 149 | |
-| 181, 195, 230<br>Hastings 26, 30, 32; control agents | |
-| formalism 228–9<br>190; exclusive control 127, 129; | |
-| Frayn, M. 45<br>inventory 34–6; reaction 75, 84, | |
-| free will 62<br>88, 98–9, 109, 113, 115–16; | |
-| French Revolution 220<br>warning phase 167 | |
-| Freud, S. 13<br>Hells Angels 2, 45, 68, 164, 188, | |
-| Friedenberg, E. Z. 58<br>194, 196 | |
-| fringe delinquency theory 171<br>heroes 4, 11, 120 | |
-| Frost, D. 3<br>Hicks, T. 205 | |
+| false alarms 16
+Gotham City 120 | |
+| fantasy 52
+Government 24 | |
+| feedback systems 18
+Graham, B. 157 | |
+| Feldman, J. S. 63
+Greasers 3, 228 | |
+| female reactions 75
+Great Train Robbery 3, 146 | |
+| Festival of Light 132
+Great Yarmouth 23, 30, 50, 195, | |
+| festivals 45, 51
+228 | |
+| fi nes 28, 57, 73; reaction 82, 93, 112,
+Great Yarmouth Hotels and Guest | |
+| 117, 119–20, 133, 135, 139, 144–5,
+Houses Association 88, 130 | |
+| 152, 154
+Greene, G. 22–3, 169 | |
+| Finland 146
+guilt by association 55 | |
+| First World War 148
+Gurden, H. 52, 151–2 | |
+| folk devils 2–3, 20, 37–8; back
+Gusfi eld, J. 3, 10, 224
+grounds 202, 217, 221, 226, 228, | |
+| 233; inventory 41; reaction 56, 58,
+hagiology 41 | |
+| 61, 69–70, 72, 74, 76, 80, 102,
+Halloran, J. D. 36, 42, 44 | |
+| 149, 156–7; warning phase 166,
+hanging 146 | |
+| 170, 178, 186
+hard labour 133 | |
+| folklore 1, 56, 66, 85, 187–8, 222
+hard Mods 213, 215 | |
+| football 2–3, 43, 45, 51, 124, 167,
+Harwich 149 | |
+| 181, 195, 230
+Hastings 26, 30, 32; control agents | |
+| formalism 228–9
+190; exclusive control 127, 129; | |
+| Frayn, M. 45
+inventory 34–6; reaction 75, 84, | |
+| free will 62
+88, 98–9, 109, 113, 115–16; | |
+| French Revolution 220
+warning phase 167 | |
+| Freud, S. 13
+Hells Angels 2, 45, 68, 164, 188, | |
+| Friedenberg, E. Z. 58
+194, 196 | |
+| fringe delinquency theory 171
+heroes 4, 11, 120 | |
+| Frost, D. 3
+Hicks, T. 205 | |
 | hippies 2–3, 45, 169, 222, 224–5, | |
-| gangs 30, 40, 43; control agents<br>227, 229 | |
-| 191–2; crowd scenes 168; media<br>Hiroshima 36 | |
-| 186, 188; reaction 48, 57–8, 64,<br>history 8 | |
-| 68–9, 86, 95, 121, 126, 140, 153;<br>hoaxes 16 | |
-| warning phase 166<br>Holdcroft, T. 54 | |
-| Garfi nkel, H. 61<br>Home Offi ce 64, 91, 99, 128, 166 | |
-| homosexuality 8, 132, 225<br>generalized beliefs 14–15, 47 | |
-| geographical position 73<br>hooliganism 2–3, 32–3, 40; | |
-| Germany 230<br>backgrounds 205, 214; exclusive | |
-| control 125, 127, 129–30, 143,<br>Ghana 147 | |
-| girls 212, 220<br>149–52, 154; football 2–3; | |
-| Goffman, E. 156, 169, 189<br>inventory 43, 45; media 186–7; | |
-| process 228, 231; reaction 52–3,<br>good stories 42 | |
+| gangs 30, 40, 43; control agents
+227, 229 | |
+| 191–2; crowd scenes 168; media
+Hiroshima 36 | |
+| 186, 188; reaction 48, 57–8, 64,
+history 8 | |
+| 68–9, 86, 95, 121, 126, 140, 153;
+hoaxes 16 | |
+| warning phase 166
+Holdcroft, T. 54 | |
+| Garfi nkel, H. 61
+Home Offi ce 64, 91, 99, 128, 166 | |
+| homosexuality 8, 132, 225
+generalized beliefs 14–15, 47 | |
+| geographical position 73
+hooliganism 2–3, 32–3, 40; | |
+| Germany 230
+backgrounds 205, 214; exclusive | |
+| control 125, 127, 129–30, 143,
+Ghana 147 | |
+| girls 212, 220
+149–52, 154; football 2–3; | |
+| Goffman, E. 156, 169, 189
+inventory 43, 45; media 186–7; | |
+| process 228, 231; reaction 52–3,
+good stories 42 | |
 
-| 55, 59–60, 62–3,<br>65, 69, 71, 81–6,<br>88, 95, 101; societal control 97,<br>119–20; sociology 221–4;<br>warning phase 165<br>horseplay 82<br>hoses 93<br>hot-blooded youth 58–61, 78, 204<br>Hove 103<br>Humperdinck, E. 205<br>hysteria 4, 14, 28; backgrounds 211,<br>215; media 184; process 232;<br>reaction 48, 63, 69–70, 81–2,<br>86–7, 125, 146; societal control<br>90 | Italy 51<br>'it's like a disease' 62–3, 91<br>'it's not only this' 52, 58, 61–2, 87,<br>120, 124, 134, 204, 220<br>'it's not so much what happened'<br>52, 61, 91<br>Jacobs, N. 86<br>Jagger, M. 187, 215<br>James, D. 50<br>Jews 56<br>Johnson, D. 81<br>Jones, P. 114–15<br>Jones, T. 205 |
+| 55, 59–60, 62–3,
+65, 69, 71, 81–6,
+88, 95, 101; societal control 97,
+119–20; sociology 221–4;
+warning phase 165
+horseplay 82
+hoses 93
+hot-blooded youth 58–61, 78, 204
+Hove 103
+Humperdinck, E. 205
+hysteria 4, 14, 28; backgrounds 211,
+215; media 184; process 232;
+reaction 48, 63, 69–70, 81–2,
+86–7, 125, 146; societal control
+90 | Italy 51
+'it's like a disease' 62–3, 91
+'it's not only this' 52, 58, 61–2, 87,
+120, 124, 134, 204, 220
+'it's not so much what happened'
+52, 61, 91
+Jacobs, N. 86
+Jagger, M. 187, 215
+James, D. 50
+Jews 56
+Johnson, D. 81
+Jones, P. 114–15
+Jones, T. 205 |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | | journalists 21–2, 25–7, 109, 134, |
 | Ibrox Park 124 | 158, 170, 178, 183 |
@@ -2674,7 +2865,9 @@ early warning phase systems 18 East Anglia 30, 35 Eastbourne 75, 127, 165, 189 E
 | impact phase 17–19, 162–200 | the Kinks 210 |
 | Indians 56 | Klapp, O. E. 4 |
 | inferential structure 44, 46 | knocking up 101 |
-| infi ltration 167<br>innovation 90, 92–3, 95–7; control | Knopf, T. A. 27<br>Krays 3 |
+| infi ltration 167
+innovation 90, 92–3, 95–7; control | Knopf, T. A. 27
+Krays 3 |
 | agents 193; exclusive control 121, | kulturgeist 2 |
 | 145; reaction 99, 101–3, 106, 112, | |
 | 120 | labelling 4–6, 8, 12; backgrounds |
@@ -2682,9 +2875,12 @@ early warning phase systems 18 East Anglia 30, 35 Eastbourne 75, 127, 165, 189 E
 | internalization 206 | exclusive control 125; explana |
 | interpretation 6, 19, 44, 48–9, 78, | tion models 76–7; inventory 41, |
 | 85–6 | 43; media 187–8; process 232; |
-| inventory 17, 19–47, 52–5; crowd | reaction 54,<br>61, 87, 102; role 18; |
+| inventory 17, 19–47, 52–5; crowd | reaction 54,
+61, 87, 102; role 18; |
 | scenes 168, 171, 178; exclusive | societal control 97, 109, 116 |
-| control 123, 125, 130, 132, 151–2,<br>154–5; explanation models 78; | labour camps 93, 134–5, 150<br>Laing, R. D. 6, 213–14, 216, 222, |
+| control 123, 125, 130, 132, 151–2,
+154–5; explanation models 78; | labour camps 93, 134–5, 150
+Laing, R. D. 6, 213–14, 216, 222, |
 | exploitation 158, 160; impact | 232 |
 | 199; media 187–8; reaction 57, | lawyers 156 |
 | 64, 66–7, 76, 82, 84, 91, 97, 107, | Le Bon 13, 51 |
@@ -2709,11 +2905,90 @@ obscenity 12, 132, 184 old people's reactions 72–4 Old Testament 52 one percen
 
 pacifi sts 160 Pakistanis 230 Palestine 147 paranoia 63 Paris 52 Parker, T. 114 Parliament 91, 129, 150, 154–5 Pascoe 113 pathology 175 Payne, E. 125 Pearl Harbor 36 penalties 109, 116, 119–20, 132, 149, 151, 154 pep pills 151 perception 16, 47, 59, 142–3, 146–7, 178, 193 persecution 193, 197 Peru 51 Phantom Anaesthetist 81–2, 86–7 Phantom Slasher 86 phobias 37 pillories 145
 
-| polarization 74<br>police 8, 24–5, 30; audience 180–2;<br>backgrounds 208; control agents<br>189–96; crowd scenes 171,<br>173–4, 176–9; exclusive control<br>121, 124–5, 128, 133, 135–6,<br>139–40, 143–5, 150, 153;<br>exploitation 156; impact 197–8;<br>inventory 32, 35–6, 39, 42–4, 46;<br>media 187; process 228, 231;<br>reaction 48, 56–7, 61, 64, 73,<br>82–4, 87–9; societal control<br>89–91, 93–5, 97–109, 112,<br>116–19, 121; warning phase<br>165–7 | psychoanalysis 180–1<br>psychology 11, 14–15, 46, 50, 62,<br>65–6, 80, 163, 167–8, 225<br>psychopathy 9, 87, 122–3<br>public opinion 8, 49, 66–7, 108,<br>122, 136, 148, 165<br>punishment 10, 12, 61; exclusive<br>control 127, 129, 131–2, 145–6,<br>148, 150–1, 153–4; impact 198;<br>process 232; reaction 70, 72, 75,<br>77, 79; societal control 90, 92,<br>95, 97, 102, 112–14, 116;<br>sociology 220, 224–5<br>Puritans 116, 148, 156, 219<br>purple hearts 211 |
+| polarization 74
+police 8, 24–5, 30; audience 180–2;
+backgrounds 208; control agents
+189–96; crowd scenes 171,
+173–4, 176–9; exclusive control
+121, 124–5, 128, 133, 135–6,
+139–40, 143–5, 150, 153;
+exploitation 156; impact 197–8;
+inventory 32, 35–6, 39, 42–4, 46;
+media 187; process 228, 231;
+reaction 48, 56–7, 61, 64, 73,
+82–4, 87–9; societal control
+89–91, 93–5, 97–109, 112,
+116–19, 121; warning phase
+165–7 | psychoanalysis 180–1
+psychology 11, 14–15, 46, 50, 62,
+65–6, 80, 163, 167–8, 225
+psychopathy 9, 87, 122–3
+public opinion 8, 49, 66–7, 108,
+122, 136, 148, 165
+punishment 10, 12, 61; exclusive
+control 127, 129, 131–2, 145–6,
+148, 150–1, 153–4; impact 198;
+process 232; reaction 70, 72, 75,
+77, 79; societal control 90, 92,
+95, 97, 102, 112–14, 116;
+sociology 220, 224–5
+Puritans 116, 148, 156, 219
+purple hearts 211 |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | | |
-| Police Benevolent Fund 109<br>political affi liations 76<br>pollution 122<br>pornography 10, 122, 132<br>Powell, E. 230<br>Powellism 3<br>power 123, 125<br>precautionary measures 91<br>precipitating factors 14<br>prediction 25, 35–6, 42, 44, 52, 68,<br>163<br>Presley, E. 209<br>the Pretty Things 210<br>primary deviation 7, 12, 17<br>prison 36, 73, 107, 112–13, 116, 119,<br>149, 152, 185<br>Private Eye 3<br>probation 93<br>profi t 156<br>Profumo, J. 3 | RAC 91<br>race 56, 148<br>race riots 14, 22, 27, 42, 45, 64, 176,<br>185<br>radio 9, 59, 212<br>Radio Caroline 212<br>RAF 91, 99, 166<br>railways 91, 99, 129, 183<br>Ramsgate 35, 53<br>Ranulf, S. 127, 224<br>razor gangs 23<br>reaction 18–20, 47–65, 92;<br>differential 66–79; rescue/<br>remedy 80–161<br>Reading 85<br>recovery 17<br>Rees-Davis, W. R. 63<br>reggae 230<br>reinforcement 48, 52, 172; control |
-| Prohibition 3, 122, 224<br>projection 148<br>promiscuity 53, 56<br>propaganda 63<br>prophecy of doom 52, 91<br>prostitution 132<br>Protestant ethic 123<br>Provos 160 | agents 193, 195; impact 199;<br>media 182–3, 188; warning phase<br>175–6, 187<br>remand 95, 105, 107, 109, 111–13,<br>195<br>remedy 17, 20, 80–161<br>rescue 17, 20, 80–161<br>research 6, 15, 48, 66, 76, 123, 143, |
+| Police Benevolent Fund 109
+political affi liations 76
+pollution 122
+pornography 10, 122, 132
+Powell, E. 230
+Powellism 3
+power 123, 125
+precautionary measures 91
+precipitating factors 14
+prediction 25, 35–6, 42, 44, 52, 68,
+163
+Presley, E. 209
+the Pretty Things 210
+primary deviation 7, 12, 17
+prison 36, 73, 107, 112–13, 116, 119,
+149, 152, 185
+Private Eye 3
+probation 93
+profi t 156
+Profumo, J. 3 | RAC 91
+race 56, 148
+race riots 14, 22, 27, 42, 45, 64, 176,
+185
+radio 9, 59, 212
+Radio Caroline 212
+RAF 91, 99, 166
+railways 91, 99, 129, 183
+Ramsgate 35, 53
+Ranulf, S. 127, 224
+razor gangs 23
+reaction 18–20, 47–65, 92;
+differential 66–79; rescue/
+remedy 80–161
+Reading 85
+recovery 17
+Rees-Davis, W. R. 63
+reggae 230
+reinforcement 48, 52, 172; control |
+| Prohibition 3, 122, 224
+projection 148
+promiscuity 53, 56
+propaganda 63
+prophecy of doom 52, 91
+prostitution 132
+Protestant ethic 123
+Provos 160 | agents 193, 195; impact 199;
+media 182–3, 188; warning phase
+175–6, 187
+remand 95, 105, 107, 109, 111–13,
+195
+remedy 17, 20, 80–161
+rescue 17, 20, 80–161
+research 6, 15, 48, 66, 76, 123, 143, |
 | psychiatry 232 | 158, 163 |
 
 resistance 48, 74 revenge battles 85 Rhodesian affair 3 rhythm and blues 229 Richard, C. 205 ridicule 102, 145, 157, 191, 194 riots 14, 22, 27; backgrounds 230; impact 196; inventory 37–8, 42; reaction 51, 64, 81, 85–6, 91, 103, 125–6, 153; warning phase 165–7, 176, 185 ritual 98, 116–17, 154–5; audience 181; backgrounds 204, 208; control agents 196; end 227; media 187; sociology 219; warning phase 164, 168, 172 road blocks 94, 129 Rock, P. 37 rock-steady 230 Rockers 2–3, 8–9, 12–38; audience 180–1; backgrounds 201; control agents 190, 192–4; crowd scenes 169, 173, 176–9; emergence 202–17; end 227–8, 230–3; exclusive control 122, 124, 127, 129–33, 137–8, 141, 145–6, 149–54; explanation models 76–7; exploitation 157–60; impact 196, 199; inventory 40–5; media 183, 185–6; reaction 49–52, 54, 57–60, 62–4, 66–75, 80–6, 88–9; societal control 90, 99, 101–2, 105, 109, 114–16, 118; sociology 217–19, 221–5; warning phase 163–5, 167 Roemer, D. V. 194, 196–7 role play 7, 186–7, 199 Rolling Stones 3, 208, 210, 214–15 rules 5–6, 10, 43; control agents 189, 191; reaction 81, 89, 121–6, 128, 132, 140; sociology 224 rumours 14, 23, 42; impact 199; media 182–4; reaction 48, 51, 64, 83; sociology 217–18; warning phase 174–7 St Ives 135, 224 saints 11 Salinger, J. D. 209 sanctions 5, 12, 79, 91, 127, 220 Saudi Arabia 146 Sawdust Caesars speech 54, 68, 118–19 scandals 10 scapegoats 124, 128, 164, 219 sceptics 5–6 schizophrenia 6, 187 scooter boys 213 scooters 13, 23–4, 29; backgrounds 220, 222; crowd scenes 173; impact 198; inventory 31, 38, 45; media 188; reaction 72, 88, 91, 93, 99–100, 120, 129 Scotland Yard 48, 91, 98, 167 screening 43 Seatown Council Group 133–4, 137 Seattle 82 Seaview 223–4 secondary deviation 7, 12, 17 secondary status 100 segregation 8, 11, 74, 188 self-fulfi lling prophecy 35, 52, 127 self-immolation 184 sensitization 80–9, 97, 108; control agents 189; crowd scenes 173, 175, 178; exploitation 160; ideological exploitation 159; media 185–6; reaction 126, 129; warning phase 163–4 sentences 73, 104, 109–13, 115, 117, 146, 149, 153 Sewell 87 sexual deviance 11 Sheatsley, P. B. 63 Shellow, R. 194, 196–7 Shibutani, T. 175
@@ -2724,13 +2999,46 @@ Steele, T. 205 stereotypes 1, 8, 11; backgrounds 202; control agents 192; crowd 
 
 Taipei 82, 86 Tannenbaum, F. 191, 194 Tapsall, W. 112 Tarde 13 Taylor, F. 150 teachers 7, 45, 70, 74
 
-| Teddy Boys 2–3, 9, 37–8;<br>backgrounds 203, 208–11,<br>214, 217–18, 220, 222, 228–30;<br>reaction 56, 69, 114; warning<br>phase 185<br>television 9, 35, 40–1, 59, 71, 183,<br>186–7, 212, 214<br>temperance movement 224<br>test cases 113, 148<br>theatres 162<br>Thompson, H. S. 164<br>Thrasher, F. M. 191–2<br>Townsend, P. 215–16<br>training 97<br>transactionalists 4–9, 18, 186, 202,<br>231<br>travel restrictions 93, 95, 120, 129, | Victorians 62<br>Vietnam 36, 184<br>vigilantes 126, 129, 165<br>villains 4, 11<br>violence 2, 11, 22; audience 182;<br>backgrounds 208, 213–14;<br>control agents 191, 193–4; crowd<br>scenes 172, 176; exclusive<br>control 143, 150; explanation<br>models 78; exploitation 159;<br>impact 198–9; inventory 26–8,<br>32–3, 36, 42–3, 45; media 185–6,<br>188; reaction 48, 51, 53, 55, 57, 62,<br>68–70, 84, 86–7; societal control<br>106, 116; sociology 218<br>Vries, B. de 160 |
+| Teddy Boys 2–3, 9, 37–8;
+backgrounds 203, 208–11,
+214, 217–18, 220, 222, 228–30;
+reaction 56, 69, 114; warning
+phase 185
+television 9, 35, 40–1, 59, 71, 183,
+186–7, 212, 214
+temperance movement 224
+test cases 113, 148
+theatres 162
+Thompson, H. S. 164
+Thrasher, F. M. 191–2
+Townsend, P. 215–16
+training 97
+transactionalists 4–9, 18, 186, 202,
+231
+travel restrictions 93, 95, 120, 129, | Victorians 62
+Vietnam 36, 184
+vigilantes 126, 129, 165
+villains 4, 11
+violence 2, 11, 22; audience 182;
+backgrounds 208, 213–14;
+control agents 191, 193–4; crowd
+scenes 172, 176; exclusive
+control 143, 150; explanation
+models 78; exploitation 159;
+impact 198–9; inventory 26–8,
+32–3, 36, 42–3, 45; media 185–6,
+188; reaction 48, 51, 53, 55, 57, 62,
+68–70, 84, 86–7; societal control
+106, 116; sociology 218
+Vries, B. de 160 |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 150 | war<br>correspondents 27 |
+| 150 | war
+correspondents 27 |
 | troops 3 | warning phase 16–19, 162–7, 183, |
 | trouble spots 189 | 188 |
 | troublemakers 91, 94, 99, 122, 136, | Washington 52 |
-| 172,<br>197, 232 | Webb, A. 125 |
+| 172,
+197, 232 | Webb, A. 125 |
 | truncheons 99 | Webb, H. 205 |
 | Turner, R. H. 4, 37, 85, 181 | Welfare State 62, 218 |
 | Twiggy 212 | West 185 |
@@ -2745,7 +3053,9 @@ Taipei 82, 86 Tannenbaum, F. 191, 194 Tapsall, W. 112 Tarde 13 Taylor, F. 150 te
 | values 1, 10, 16; backgrounds | 190; crowd scenes 177; inventory |
 | 204–6, 213; inventory 44, 46; | 38; reaction 50, 52, 55, 81, 84, |
 | reaction 47, 49, 51, 66, 77–8, 91, | 98–9, 102, 109, 115, 118, 121, 129, |
-| 123, 128, 132; role 20; warning<br>phase 186 | 140, 149, 153–5; warning phase<br>164 |
+| 123, 128, 132; role 20; warning
+phase 186 | 140, 149, 153–5; warning phase
+164 |
 | vandalism 2–3, 28, 32–3; | the Who 208, 214–16 |
 | backgrounds 205; crowd scenes | widening of the net 87, 101 |
 | 172; impact 198; inventory 43, 45; | Wilkins, L. T. 11–12 |

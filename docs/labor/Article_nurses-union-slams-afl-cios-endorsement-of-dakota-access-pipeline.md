@@ -1,10 +1,8 @@
 ---
-title: Nurses Union Slams Afl Cios Endorsement of Dakota Access Pipeline
-date: 2025
-author: Industrial Workers of the World
-tags:
-  - organizing
-  - unions
+title: "Nurses Union Slams Afl Cios Endorsement of Dakota Access Pipeline"
+author: "Industrial Workers of the World"
+date: "2025"
+category: "labor"
 ---
 
 # Nurses Union Slams Afl Cios Endorsement of Dakota Access Pipeline

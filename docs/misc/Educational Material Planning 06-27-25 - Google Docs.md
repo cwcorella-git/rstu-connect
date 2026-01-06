@@ -1,14 +1,10 @@
 ---
-date: 2025
-author: Google Docs
-tags:
-  - organizing
-  - unions
-  - tenants
-  - housing
-  - rent
 title: "Educational Material Planning 06-27-25 - Google Docs"
+author: "Google Docs"
+date: "2025"
+category: "misc"
 ---
+
 # Educational Material Planning 06-27-25 - Google Docs
 
 *Converted from: `./Educational Material Planning 06-27-25 - Google Docs.pdf`*  
@@ -132,8 +128,6 @@ Status Updates
      - Rosa can share a physical copy
 
 
-
-
 Other Business
 - Idea:    Tactics
      - Checking information on implementation of Black Panther Party
@@ -176,4 +170,3 @@ Plan Next Meeting
 - July 4 @ 5:00
 
 ---
-

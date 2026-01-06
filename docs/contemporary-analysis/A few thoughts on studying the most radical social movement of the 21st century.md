@@ -1,3 +1,8 @@
+---
+title: "## **A few thoughts on studying the most radical social movement of the 21st century**"
+category: "contemporary-analysis"
+---
+
 ## **A few thoughts on studying the most radical social movement of the 21st century**
 
 **Date:** Fri, 03/18/2016 - 17:11 **Source:** https://ecology.iww.org/node/1562**Tags:** John Foran, climate justice, System Change not Climate Change (SCnCC), Naomi Klein, This Changes Everything, Paris, COP21 By John Foran - Resilience , March 14, 2016 Introduction
@@ -86,7 +91,8 @@ Taking Power: On the Origins of Third World Revolutions
 
 .
 
-| Unfortunately, all twentieth-century and anti-colonial social revolutions fell short of the<br>achieving the dreams of those who made them. The reasons for this include: |
+| Unfortunately, all twentieth-century and anti-colonial social revolutions fell short of the
+achieving the dreams of those who made them. The reasons for this include: |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | fragmentation of the broad revolutionary alliance after it came to power |
 | intense outside pressures, usually from the First World, often from the U. S. |
@@ -94,7 +100,8 @@ Taking Power: On the Origins of Third World Revolutions
 | lack of popular participation in governing (related to the first factor) |
 | But 21 |
 | st |
-| -century movements for radical social change – recall that my definitions is not restricted to<br>revolutions – look different from their 20 |
+| -century movements for radical social change – recall that my definitions is not restricted to
+revolutions – look different from their 20 |
 | th |
 | -century counterparts because: |
 | they are mostly non-violent |
@@ -114,7 +121,8 @@ All of these movements are increasingly intersectional in terms of both their so
 
 The movements that are most likely to succeed will feature some new combination of 1) stronger social movements and political cultures of opposition and creation, and 2) new kinds of parties, joined in 3) some new kind of networked structure, and 4) operating locally, nationally, and globally.
 
-| In a nutshell, the sum of my study of revolutions and movements for radical social change in<br>the 20 |
+| In a nutshell, the sum of my study of revolutions and movements for radical social change in
+the 20 |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | th |
 | and 21 |
@@ -123,11 +131,14 @@ The movements that are most likely to succeed will feature some new combination 
 | We may need a combination of both a dense network of movements |
 | and |
 | a totally new type of political party to achieve anything like deep radical social change. |
-| These movements will have to develop both powerful political cultures of opposition, and<br>compelling political cultures of creation. |
+| These movements will have to develop both powerful political cultures of opposition, and
+compelling political cultures of creation. |
 | At least these are hypotheses for scholar-activists to debate! |
 | Conclusion: What is to be done? |
-| As for the global climate justice movement, might it prove to be the most radical social<br>movement of the twenty-first century? |
-| It could if we make it so. We need to operate on all levels: local to global, and from<br>short-range defensive action against every fossil fuel project and electoral ploy, to |
+| As for the global climate justice movement, might it prove to be the most radical social
+movement of the twenty-first century? |
+| It could if we make it so. We need to operate on all levels: local to global, and from
+short-range defensive action against every fossil fuel project and electoral ploy, to |
 
 medium-range reforms (like the Bernie Sanders campaign perhaps? Come to think of it, the
 

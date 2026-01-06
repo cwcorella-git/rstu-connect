@@ -1,3 +1,8 @@
+---
+title: "**Albert Parsons**"
+category: "labor"
+---
+
 ## ![](_page_0_Picture_2.jpeg)
 
 # **Albert Parsons**
@@ -54,13 +59,21 @@ U. S.
 
 In 1859, at the age of 11, Albert left his brother's household to go live with a sister in [Waco, Texas.](https://en.wikipedia.org/wiki/Waco,_Texas)[\[4\]](#page-7-3) Parsons attended school for about a year before leaving to become an [apprentice](https://en.wikipedia.org/wiki/Apprentice) at the [Galveston](https://en.wikipedia.org/wiki/Galveston,_Texas) *[Daily News,](https://en.wikipedia.org/wiki/The_Galveston_County_Daily_News)* a relationship that Parsons characterized as being ["indentured"](https://en.wikipedia.org/wiki/Indenture) for seven years in order to learn the printers' trade[.\[4\]](#page-7-3)
 
-| Criminal<br>penalty | Death |
+| Criminal
+penalty | Death |
 |------------------------|--------------------------------------------------------------------|
 | Military career | |
-| Allegiance | Confederate States of<br>America |
-| Branch | Confederate States<br>Army |
-| Years<br>of<br>service | 1861–1865 |
-| Unit | "Lone Star Greys"<br>(irregular)<br>12th Texas Cavalry<br>Regiment |
+| Allegiance | Confederate States of
+America |
+| Branch | Confederate States
+Army |
+| Years
+of
+service | 1861–1865 |
+| Unit | "Lone Star Greys"
+(irregular)
+12th Texas Cavalry
+Regiment |
 
 #### **Civil War and Reconstruction**
 

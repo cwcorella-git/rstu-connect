@@ -1,3 +1,8 @@
+---
+title: "## **Five Theses on the Class Struggle - Anton Pannekoek**"
+category: "economic-alternatives"
+---
+
 ## **Five Theses on the Class Struggle - Anton Pannekoek**
 
 ## **Date:** Unknown

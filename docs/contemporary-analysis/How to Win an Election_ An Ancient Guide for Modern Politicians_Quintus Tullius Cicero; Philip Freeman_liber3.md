@@ -1,3 +1,8 @@
+---
+title: "HOW TO WIN An election"
+category: "contemporary-analysis"
+---
+
 # HOW TO WIN An election
 
 ## An Ancient Guide for Modern Politicians
@@ -142,7 +147,7 @@ and "populists" since these would be the closest modern equivalents. I refer rea
 - . Etsi tibi omnia suppetunt ea quae consequi inenio aut usu homines aut dili entia possunt, tamen amore nostro non sum alienum arbitratus ad te perscribere ea quae mihi veniebant in mentem dies ac noctes de petitione tua coitanti, non ut aliquid ex his novi addisceres, sed ut ea quae in re dispersa atque infinita viderentur esse ratione et distributione sub uno aspectu ponerentur.
 - . ivitas quae sit coita, quid petas, qui sis. Prope cotidie tibi hoc ad Forum
 
-<sup>\*</sup> atin text © xord University Press. M. ulli iceronis, *Epistulae* vol. . edited by . . Purser, xord: larendon Press, .
+\* atin text © xord University Press. M. ulli iceronis, *Epistulae* vol. . edited by . . Purser, xord: larendon Press, .
 
 o my brother Marcus,
 

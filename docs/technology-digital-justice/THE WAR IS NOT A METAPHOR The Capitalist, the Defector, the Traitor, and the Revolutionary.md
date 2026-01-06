@@ -1,3 +1,8 @@
+---
+title: "**THE WAR IS NOT A METAPHOR: The Capitalist, the Defector, the Traitor, and the Revolutionary**"
+category: "technology-digital-justice"
+---
+
 # **THE WAR IS NOT A METAPHOR: The Capitalist, the Defector, the Traitor, and the Revolutionary**
 
 **Date:** 2025-05-18 **Source:** https://www.threadings.io/the-war-is-not-a-metaphor-the-capitalist-the-defector-the-traitor-andthe-revolutionary/Disclaimer: This was my first live essay, meaning that I taught it with a diagram I drew out for a live audience. If you are one that typically reads or listen to the essays, I would actually recommend giving this one a watch! While screenshots are included throughout the text, I believe it ' s also helpful to watch the board fill as we move through these ideas. Thesis upfront: I believe art making constructs worlds, both in the ways art shapes our minds and in the tokens of power art affords us as artists. I am, thus, dedicating book sales to building public infrastructure, starting with a library in Freetown, Sierra Leone. You can support this initiative in the following ways! weeeee!
@@ -37,12 +42,15 @@ When I talk about art-making as integral, necessary, crucial to the building of 
 |---------------------------------------------------------------------------------------------------------------------------------------------------|
 | They would not |
 | target and slaughter the journalists. |
-| "Meaningless" unless someone uses the art of world-making to create, bolster, or imagine<br>realities alternative to the one we are force fed. |
+| "Meaningless" unless someone uses the art of world-making to create, bolster, or imagine
+realities alternative to the one we are force fed. |
 | I. HOW DO YOU MAKE A WORLD? |
-| I argue firstly that art-making and world-making are the same things, and that both acts create<br>new sets of truths. Art has a few definitions: |
+| I argue firstly that art-making and world-making are the same things, and that both acts create
+new sets of truths. Art has a few definitions: |
 | The |
 | conscious use of the imagination |
-| in the production of objects intended to be contemplated or appreciated as beautiful, as in the<br>arrangement of forms, sounds, or words |
+| in the production of objects intended to be contemplated or appreciated as beautiful, as in the
+arrangement of forms, sounds, or words |
 | Skill |
 | that is |
 | attained |
@@ -81,26 +89,43 @@ your attention is deeply lucrative, but there's more than that: beyond capable o
 | . Not just the production of cpaital. The production of |
 | anything |
 | |
-| Where you set your eyes is also where you set your ability to attain what it is that you think of<br>or look at or want desperately. This is what you conceive of as possible and we don't do<br>anything that we fundamentally consider is impossible. |
-| Capitalism requires complete domination over the world we inhabit to continue. It cannot and<br>will not share reality. So what it does is it takes our attention. It hijacks our eyesight such that<br>we only ever look at the realm of attainment through US Dollar bills. So, from the time that we<br>are born, we are taught to cast our eyes towards the spoils of capitalism. From the moment<br>we can begin to want things, we are taught to associate our desires with the current iteration<br>of money. You want fruit? No, you want |
+| Where you set your eyes is also where you set your ability to attain what it is that you think of
+or look at or want desperately. This is what you conceive of as possible and we don't do
+anything that we fundamentally consider is impossible. |
+| Capitalism requires complete domination over the world we inhabit to continue. It cannot and
+will not share reality. So what it does is it takes our attention. It hijacks our eyesight such that
+we only ever look at the realm of attainment through US Dollar bills. So, from the time that we
+are born, we are taught to cast our eyes towards the spoils of capitalism. From the moment
+we can begin to want things, we are taught to associate our desires with the current iteration
+of money. You want fruit? No, you want |
 | money |
 | to |
 | buy |
 
-| fruit. You want your parents? You want the love and affection of your family? No, you want<br>your family to |
+| fruit. You want your parents? You want the love and affection of your family? No, you want
+your family to |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | make more money |
 | so that your parents can |
 | buy their time back |
-| and give some to you. These things that used to be free, the spoils of the earth that used to<br>come to us in mercy that did not require toiling now require an intermediary because this<br>system of belief keeps capitalism powerful. The pinnacle of life is a life that has become<br>comfortable under the social order and economic system that currently exists. |
+| and give some to you. These things that used to be free, the spoils of the earth that used to
+come to us in mercy that did not require toiling now require an intermediary because this
+system of belief keeps capitalism powerful. The pinnacle of life is a life that has become
+comfortable under the social order and economic system that currently exists. |
 | We are trained to associate sovereignty and freedom with US Dollar Bills. |
 | There are two really big issues with that: |
-| (1) neither paper money nor numbers on a screen have any intrinsic value. It's valuable<br>because we |
+| (1) neither paper money nor numbers on a screen have any intrinsic value. It's valuable
+because we |
 | believe |
-| it is, and because we believe that capitalism and it's empires will continue to have complete<br>control over the world. When our certainty of the economic stability of capitalism shifts, the<br>value of this money fluctuates wildly (which is what's happening now. As of April 12, 2025,<br>we're witnessing wild fluctuations in the stock market spurred by economic warfare). But to my<br>point: |
+| it is, and because we believe that capitalism and it's empires will continue to have complete
+control over the world. When our certainty of the economic stability of capitalism shifts, the
+value of this money fluctuates wildly (which is what's happening now. As of April 12, 2025,
+we're witnessing wild fluctuations in the stock market spurred by economic warfare). But to my
+point: |
 | you cannot eat this |
 
-| . You cannot drink it, it will not grow anything, it cannot power your home, it will not keep you<br>warm at night it will not protect your children from bombs it is l |
+| . You cannot drink it, it will not grow anything, it cannot power your home, it will not keep you
+warm at night it will not protect your children from bombs it is l |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | iterally just a piece of paper. |
 | There is no |
@@ -109,20 +134,32 @@ your attention is deeply lucrative, but there's more than that: beyond capable o
 | (2) The current economic system |
 | requires |
 | slaughter and slavery. |
-| Spoils cost blood, okay? Meaning this money that we made up requires the consistent death<br>of people within the colonized world via complete extermination as what happens to<br>indigenous people when we want to create property out of sovereign land or the constant<br>death of enslavement for resource processing and manufacturing or usually a dastardly<br>combination of the two. |
-| We will come back to this idea. These two things about why capitalism is fundamentally not<br>working for the majority of the world, we're gonna come back to this. So, on this other side,<br>what kinds of world making are there? |
+| Spoils cost blood, okay? Meaning this money that we made up requires the consistent death
+of people within the colonized world via complete extermination as what happens to
+indigenous people when we want to create property out of sovereign land or the constant
+death of enslavement for resource processing and manufacturing or usually a dastardly
+combination of the two. |
+| We will come back to this idea. These two things about why capitalism is fundamentally not
+working for the majority of the world, we're gonna come back to this. So, on this other side,
+what kinds of world making are there? |
 
 Participants of the live essay noted: infrastructure, cultural shaping, family norms and values, economic decisions, care work, science, religion, and education (among others).
 
 | To be able to shape truth in a way that is palatable for the people around you, |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| where it makes sense, where they can share it with others, to have a new way of seeing the<br>world that |
+| where it makes sense, where they can share it with others, to have a new way of seeing the
+world that |
 | you |
 | have created does not just create |
 | a |
-| world of possibility. You have created, in making a new thing, in pulling a new thing down from<br>the ether, a new way to relate to oneself, to relate to the people around you– you have<br>100,000 eyes, a set of eyes, a hundred eyes, 10 different pairs of eyes on a |
+| world of possibility. You have created, in making a new thing, in pulling a new thing down from
+the ether, a new way to relate to oneself, to relate to the people around you– you have
+100,000 eyes, a set of eyes, a hundred eyes, 10 different pairs of eyes on a |
 | new |
-| thing. The person that witnessed something drop from the ether and develop into our material<br>world– they are now capable of wondering what else is possible. To be human is to search for<br>something. Every person making art– any kind of art!– pulls a new reality into existence from<br>an infinite set of possibilities. And every person |
+| thing. The person that witnessed something drop from the ether and develop into our material
+world– they are now capable of wondering what else is possible. To be human is to search for
+something. Every person making art– any kind of art!– pulls a new reality into existence from
+an infinite set of possibilities. And every person |
 | witnessing |
 | that art now has the opportunity to ask, |
 | what else? |
@@ -160,12 +197,18 @@ when the negro was in vogue langston hughes when the negro was in vogue langston
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | She |
 | remembers |
-| when there were no dark-skinned, unambiguously Black models on the runway– and I cannot<br>express enough how much fine art shapes the mainstream. Art helps us understand what is<br>good, desirable, achievable, POSSIBLE, okay? The woman was engaging in the<br>infrastructure of thought. She was a thought architect– not just in killing it as a model in the<br>Battle of Versailles, but as a casting director making sure that the Black model, or the<br>non-white model as a whole, did not end with her. |
+| when there were no dark-skinned, unambiguously Black models on the runway– and I cannot
+express enough how much fine art shapes the mainstream. Art helps us understand what is
+good, desirable, achievable, POSSIBLE, okay? The woman was engaging in the
+infrastructure of thought. She was a thought architect– not just in killing it as a model in the
+Battle of Versailles, but as a casting director making sure that the Black model, or the
+non-white model as a whole, did not end with her. |
 | Hardison at the Battle of Versailles, making fashion history. |
 | Hardison in recent years, a walking encyclopedia of fashion history. |
 | If you have not seen |
 | Invisible Beauty, |
-| I cannot recommend it enough. I've now watched this movie several times. I've showed it to<br>my mom and |
+| I cannot recommend it enough. I've now watched this movie several times. I've showed it to
+my mom and |
 | we |
 | watched it more than once. For one: it's not easy these days to have intergenerational heroes. |
 
@@ -173,15 +216,21 @@ I am grateful to Bethann Hardison for taking the time to document herself and ho
 
 | spectrum |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| of struggle, a global spectrum of fighting off oppression in whatever ways we have access to.<br>So where I'm very hoity-toity, me and my new age thought (baby radicals always think that<br>we're the first people to ever do it), I'm sitting here like, |
+| of struggle, a global spectrum of fighting off oppression in whatever ways we have access to.
+So where I'm very hoity-toity, me and my new age thought (baby radicals always think that
+we're the first people to ever do it), I'm sitting here like, |
 | well, who cares if we have black supermodels when systems of Beauty are still violent? |
-| And while that's a good point, I realized in watching this film that I forgot I have literally never<br>lived in a world where Blackness was not |
+| And while that's a good point, I realized in watching this film that I forgot I have literally never
+lived in a world where Blackness was not |
 | the shit |
 | . I have never wondered about what the world |
 | would |
 | or |
 | could |
-| be like if unambiguous blackness was seen as beautiful without question, was seen as<br>marketable, was seen as the leading lady, was seen as the rich girl on the sitcom. Like I've<br>never ever in my life thought I wasn't pretty, ever. I have always understood myself to be the<br>prettiest girl in the world, second only and exclusively to my mom, okay? |
+| be like if unambiguous blackness was seen as beautiful without question, was seen as
+marketable, was seen as the leading lady, was seen as the rich girl on the sitcom. Like I've
+never ever in my life thought I wasn't pretty, ever. I have always understood myself to be the
+prettiest girl in the world, second only and exclusively to my mom, okay? |
 | In my questioning, |
 | what else is possible? |
 
@@ -205,16 +254,26 @@ How dare you use your art-making (in this case, the practice of religion) to pul
 
 Such a quick citation simplifies the heights and depths of this political, economic, and social decision, but I only want to say: Ali was a man that understood the power of visibility. He, a world-famous public figure at the time of the draft for the war of attrition prepared himself to face imprisonment for defecting from the war. He knew
 
-| he was not going to Vietnam with a gun in his hand, but to use the power of his celebrity as a<br>tool of propaganda for the US empire. And he |
+| he was not going to Vietnam with a gun in his hand, but to use the power of his celebrity as a
+tool of propaganda for the US empire. And he |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | still |
-| said he would rather go to prison. He still stood up on that. He went to court on that. He was<br>blacklisted in his career on that— all of it. |
-| The point of this section, okay, here's the thesis: visibility shapes possibility. Visibility shapes<br>possibility. And truly, anything is possible for humanity. The hardest part is getting us to<br>believe that it |
+| said he would rather go to prison. He still stood up on that. He went to court on that. He was
+blacklisted in his career on that— all of it. |
+| The point of this section, okay, here's the thesis: visibility shapes possibility. Visibility shapes
+possibility. And truly, anything is possible for humanity. The hardest part is getting us to
+believe that it |
 | is |
 | possible, whatever |
 | it |
-| is. Here's the hard sell at the moment, right: we, the masses, believe at the moment that<br>freedom comes from US Dollar Bills. We, the masses, the colonized Black masses in<br>particular, only have representatives that tell us that the truest freedom that can be found is in<br>these silly paper notes that are backed with OUR BLOOD! WE ARE THE ORIGINAL<br>CAPITAL. The world boils down to labor and land; we manage our constituents as best as we<br>can. |
-| Do we realize how insidious it is… that people who occasionally preach to us about<br>revolutionaries of yore (that are rotting in prison cells as prisoners of war |
+| is. Here's the hard sell at the moment, right: we, the masses, believe at the moment that
+freedom comes from US Dollar Bills. We, the masses, the colonized Black masses in
+particular, only have representatives that tell us that the truest freedom that can be found is in
+these silly paper notes that are backed with OUR BLOOD! WE ARE THE ORIGINAL
+CAPITAL. The world boils down to labor and land; we manage our constituents as best as we
+can. |
+| Do we realize how insidious it is… that people who occasionally preach to us about
+revolutionaries of yore (that are rotting in prison cells as prisoners of war |
 | today |
 | , that need to be sprung |
 
@@ -222,9 +281,15 @@ Such a quick citation simplifies the heights and depths of this political, econo
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | … are telling us that freedom is in getting rich in blood money? When it's |
 | our |
-| blood on that money? And when their fortunes get stronger with the increased belief that such<br>illusions are objective truth? |
-| We are no longer in the 1960s– and even back then, we were harddd pressed to find<br>leadership culturally, politically, economically, or militaristically that were willing to stake skin<br>and bone for the Black masses. And still today, we the masses don't actually want to be free;<br>we want to be rich. We imagine these two things as synonymous. And that is not an accident. |
-| My work as someone who shapes culture, as someone who can change the hearts and minds<br>of the masses, is to make sure that we know what it is like to make and have and hold a world<br>that does not require all this ugly awful blood sacrifice. |
+| blood on that money? And when their fortunes get stronger with the increased belief that such
+illusions are objective truth? |
+| We are no longer in the 1960s– and even back then, we were harddd pressed to find
+leadership culturally, politically, economically, or militaristically that were willing to stake skin
+and bone for the Black masses. And still today, we the masses don't actually want to be free;
+we want to be rich. We imagine these two things as synonymous. And that is not an accident. |
+| My work as someone who shapes culture, as someone who can change the hearts and minds
+of the masses, is to make sure that we know what it is like to make and have and hold a world
+that does not require all this ugly awful blood sacrifice. |
 | Representation is always powerful. Visibility is possibility. |
 | Visibility is possibility. |
 | Representation is only powerful |
@@ -251,13 +316,15 @@ Power is a metaphysical idea that I can alchemize into physical results. While p
 | concretize |
 | power, how I am willing to |
 | materialize |
-| power, how I am willing to take the metaphysical idea that people can see me and watch me<br>and believe in me and |
+| power, how I am willing to take the metaphysical idea that people can see me and watch me
+and believe in me and |
 | translate |
 | that into our physical shared world. So, the question here is: |
 | (1) How do you stake power for the collective good? |
 | ( |
 | 2) Are we (the collective) actually ready to handle something like that? |
-| Let's get into some real world examples of these kinds of art making the defector, the<br>capitalists, the traders and the revolutionaries. |
+| Let's get into some real world examples of these kinds of art making the defector, the
+capitalists, the traders and the revolutionaries. |
 
 ## I saw
 
@@ -277,7 +344,8 @@ The video goes on to say that Doechii is signed to a subsidiary of Universal Rec
 
 ## ![](_page_22_Figure_0.jpeg)
 
-| arguing that artists should strive for something 'a bit more revolutionary' when creating their<br>vision for success. |
+| arguing that artists should strive for something 'a bit more revolutionary' when creating their
+vision for success. |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | These two ideas are at odds. |
 | Which is it? |
@@ -286,7 +354,13 @@ The video goes on to say that Doechii is signed to a subsidiary of Universal Rec
 | A defector is someone who abandons the war effort, |
 | which, I want us to remember, is |
 | not a metaphor. |
-| The life of the western celebrity requires a lot of death and slavery within the colonized world<br>to maintain— not as a byproduct of, but as a direct result. We are in a stage of capitalism<br>where the onus of culture has shifted outside of white world-maker's hands, and so they pull<br>other races and ethnicities and cultures into the ideals of whiteness to hang onto and to<br>consolidate power. You note this as you follow the money behind this particular new artists'<br>successes, that she is making white men richer than she's making any sort of Black organized<br>conglomerates. |
+| The life of the western celebrity requires a lot of death and slavery within the colonized world
+to maintain— not as a byproduct of, but as a direct result. We are in a stage of capitalism
+where the onus of culture has shifted outside of white world-maker's hands, and so they pull
+other races and ethnicities and cultures into the ideals of whiteness to hang onto and to
+consolidate power. You note this as you follow the money behind this particular new artists'
+successes, that she is making white men richer than she's making any sort of Black organized
+conglomerates. |
 | Do you want defectors or do you want revolutionaries? |
 | Why |
 | don't |
@@ -295,14 +369,24 @@ you have anything against anyone who defects from the class war if you want arti
 
 | outsourced |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| and hidden so that the depravity could continue without all that inconvenient moral-based<br>pushback. Now, the slavemasters manufacture conditions of poverty and scarcity so vile and<br>degrading people are willing to subject themselves to the conditions of slavery for dollars a<br>day. The majority of the world makes less than \$10/day. |
+| and hidden so that the depravity could continue without all that inconvenient moral-based
+pushback. Now, the slavemasters manufacture conditions of poverty and scarcity so vile and
+degrading people are willing to subject themselves to the conditions of slavery for dollars a
+day. The majority of the world makes less than \$10/day. |
 | 70% of the world |
-| makes \$10/day or less. Those are conditions where premature death is rampant. Conditions<br>where people die from a lack of resources, die from overwork, or if they dare to rise up, are<br>slaughtered by the empire in mass because their own citizens do not see the impoverished as<br>human. We don't |
+| makes \$10/day or less. Those are conditions where premature death is rampant. Conditions
+where people die from a lack of resources, die from overwork, or if they dare to rise up, are
+slaughtered by the empire in mass because their own citizens do not see the impoverished as
+human. We don't |
 | see |
 | the impoverished at all. |
 | Do we know about |
 | the banana wars |
-| ? The United Fruit Company a major American corporation with financial interests in the<br>plantation model of fruit production, utilized shareholder's connections and cabinet positions<br>in the United States government to invade and/or occupy (in a non-exhaustive list): Cuba,<br>Haiti, parts of Mexico, Nicaragua, Panama, Honduras and the Dominican Republic over about<br>thirty years. US invasion was so bad that it completely undermined |
+| ? The United Fruit Company a major American corporation with financial interests in the
+plantation model of fruit production, utilized shareholder's connections and cabinet positions
+in the United States government to invade and/or occupy (in a non-exhaustive list): Cuba,
+Haiti, parts of Mexico, Nicaragua, Panama, Honduras and the Dominican Republic over about
+thirty years. US invasion was so bad that it completely undermined |
 
 ## Slavery was never outlawed, it was
 
@@ -315,12 +399,17 @@ you have anything against anyone who defects from the class war if you want arti
 | avoid |
 | being invaded by the United States. They killed three thousand o |
 | f their own citizens |
-| . The Banana Wars laid the foundation for the next era of United States warfare, a<br>methodology called |
+| . The Banana Wars laid the foundation for the next era of United States warfare, a
+methodology called |
 | Small Wars. |
-| If you are a worker that can get shot dead for refusal to participate in the production of capital,<br>what are you? What economic system is that? |
-| Do you remember when the supreme court (you know, the panel of humans that decide how<br>human you get to be at any given point in time based on the doling out or the restriction of<br>rights), said that child slavery was okay so long as |
+| If you are a worker that can get shot dead for refusal to participate in the production of capital,
+what are you? What economic system is that? |
+| Do you remember when the supreme court (you know, the panel of humans that decide how
+human you get to be at any given point in time based on the doling out or the restriction of
+rights), said that child slavery was okay so long as |
 | it wasn't happening in the United States? |
-| This was a case with Nestle, a mega-company based in the United States, brought before the<br>supreme court because the prosecution alleged they were utilizing child slavery for cocoa |
+| This was a case with Nestle, a mega-company based in the United States, brought before the
+supreme court because the prosecution alleged they were utilizing child slavery for cocoa |
 
 production. And the Supreme Court said… well, those children are less human than our children. So it's fine. If we are workers subject to whether the overseers' definitions of human… what are we? Truly? What has changed between then and now?
 
@@ -337,10 +426,15 @@ If you work for a living (as you cannot afford to retire today), you are in the 
 | Not even for access to the fruit itself– for access to the fruit |
 | so |
 | cheap |
-| that we lock the ones that don't sell in dumpsters to be forcibly thrown away. If we in the core<br>of the empire strike such that we throw wrenches in the war machines, I just saw a Tik Tok<br>today that said something to the effect of |
-| the organizers are disappointing us. How can you get a hundred thousand people to show up<br>for a march on Washington on a Saturday when no one's there, but no one is stopping the war<br>shipments? |
+| that we lock the ones that don't sell in dumpsters to be forcibly thrown away. If we in the core
+of the empire strike such that we throw wrenches in the war machines, I just saw a Tik Tok
+today that said something to the effect of |
+| the organizers are disappointing us. How can you get a hundred thousand people to show up
+for a march on Washington on a Saturday when no one's there, but no one is stopping the war
+shipments? |
 | It's because no one is prepared to die. |
-| If we in the core of the empire strike such that we throw wrenches in the war machines, we will<br>get shot where we stand. |
+| If we in the core of the empire strike such that we throw wrenches in the war machines, we will
+get shot where we stand. |
 | The war is not metaphorical. The global working class is in a |
 | compulsory |
 | relationship with labor. |
@@ -356,7 +450,9 @@ If you work for a living (as you cannot afford to retire today), you are in the 
 | compulsory |
 | relationship with labor— |
 | forced |
-| labor— at a time where human production and capacity for prosperity has never been higher.<br>There are many ways to die, but the result is the same: participate in the hoarding of capital or<br>become the blood that soaks the money. |
+| labor— at a time where human production and capacity for prosperity has never been higher.
+There are many ways to die, but the result is the same: participate in the hoarding of capital or
+become the blood that soaks the money. |
 ## | Returning to the bit about gaze: |
 
 That capitalist attention does not, will not, cannot, refuses to compete with any kind of attention that is world making, okay? Revolutionary art, art which seeks to divest from the systems that we have in place, art which seeks to grow things, which makes life, is in direct conflict with capitalist attention that teaches us that freedom and success is in US dollar blood money. This is why we see artists that we lifted up, artists that are institutionally rewarded, are the ones that talk about how badly they want money or how dollars are success or how dollars are freedom, dollars are paper.
@@ -448,13 +544,18 @@ There are more of these comments featured in the video, but these are few.
 | hope |
 | … someone even said that I make the future |
 | real |
-| . That watching me work helps cement that the future we have coming is possible and can<br>belong to us. I love that. I want this to be a contagious feeling. |
+| . That watching me work helps cement that the future we have coming is possible and can
+belong to us. I love that. I want this to be a contagious feeling. |
 | If that's what I can do with a little bit of power… what can I do with a lot? |
 | Ah. Considerations for tomorrow. For today, I am finishing my tea and going to bed. |
-| Warmest and kindest regards. I hope the work of your day passes through your hands with<br>ease. |
+| Warmest and kindest regards. I hope the work of your day passes through your hands with
+ease. |
 | ig |
 | (here's the fundraiser link for the library, in case you needed it again) |
 | Phase One: Library Infrastructure |
-| Ismatu Gwendolyn, with the help of their constituency, meets a desperate need for a<br>multi-level library accessible by community members of all ages. The bottom floor of this<br>multi-level home at SS Camp located in Freetown, Sierra Leone is a children's library, which<br>caters to young readers or |
+| Ismatu Gwendolyn, with the help of their constituency, meets a desperate need for a
+multi-level library accessible by community members of all ages. The bottom floor of this
+multi-level home at SS Camp located in Freetown, Sierra Leone is a children's library, which
+caters to young readers or |
 
 ## Go Get Funding ismatu i'd like to give you money for food

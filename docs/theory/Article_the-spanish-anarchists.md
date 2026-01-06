@@ -1,13 +1,8 @@
 ---
-title: The Spanish Anarchists
-date: 2025
-author: Murray Bookchin
-tags:
-  - organizing
-  - strikes
-  - unions
-  - tenants
-  - housing
+title: "The Spanish Anarchists"
+author: "Murray Bookchin"
+date: "2025"
+category: "theory"
 ---
 
 # The Spanish Anarchists

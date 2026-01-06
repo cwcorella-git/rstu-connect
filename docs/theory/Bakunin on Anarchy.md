@@ -1,16 +1,10 @@
 ---
-title: Bakunin On Anarchy
-author: James Guillaume
-slug: Bakunin on Anarchy
-reconversion_status: ready_for_reconversion
-date: 1971
-tags:
-  - theory
-  - anarchism
-  - strikes
-  - unions
-  - housing
+title: "Bakunin On Anarchy"
+author: "James Guillaume"
+date: "1971"
+category: "theory"
 ---
+
 # **Sam Dolgoff (ed.)**
 
 # **Bakunin on Anarchy**
@@ -2882,11 +2876,11 @@ Pyziur, Eugene. *The Doctrine of Anarchism of Michael A. Bakunin*. 2d ed., Henry
 
 Sam Dolgoff, editor and translator of *Bakunin on Anarchy*, started out in life more than half a century ago as a working "hobo" on the railroads and waterfronts, in lumber camps, canneries, steel mills. Caught up early in movements for radical social change, he published his first piece, a criticism of Gandhi, in *The Road to Freedom*, in 1919. As a member of the IWW he became a roving propagandist and lecturer for libertarian labor movements. Under the pen name Sam Weiner he has published in labor and anarchist periodicals, many of which he helped to found and edit. His articles and pamphlets have been reprinted in translation throughout the world.
 
-[<sup>\[1\]</sup>](#page-3-1) E Lamport: *Studies in Rebellion* (London; 1957), p. 118.
+[\[1\]](#page-3-1) E Lamport: *Studies in Rebellion* (London; 1957), p. 118.
 
-[<sup>\[2\]</sup>](#page-3-2) E. H. Carr: *Michael Bakunin* (New York; 1961 ), p. 196.
+[\[2\]](#page-3-2) E. H. Carr: *Michael Bakunin* (New York; 1961 ), p. 196.
 
-[<sup>\[3\]</sup>](#page-3-3) Lampert: *Studies*, p. 138.
+[\[3\]](#page-3-3) Lampert: *Studies*, p. 138.
 
 - [\[4\]](#page-3-4) Eugene Pyziur- *The Doctrine of Anarchism of Michael A. Bakunin* (Milwaukee, 1955), p. 1.
 - [\[5\]](#page-3-5) Yu. M. Steklov: *Mikhail Aleksandrovieh Bakunin* (Moscow; 1926–7), Vol. Ill, p. 112.
@@ -3196,6 +3190,6 @@ Its program was the ideological base of the libertarian wing of the First Intern
 - {3} 'For more information about the relationship between Bakunin and Nechaev, sec Notes 13 and 14 to Guillaume's "Biographical Sketch," pp. 386–9
 - {4} The reader will have noted a certain divergence, in the discussion of the preceding paragraphs, from the views expressed by Paul Avrich in his Preface. This divergence in no way reflects on the high esteem in which the editor holds Professor Avrich, both professionally and personally. After discussing our differences at some length, we decided, in the true anarchist spirit, simply to exercise mutual tolerance.
 
-Retrieved on October 23, 2022 from [<archive.org/details/](https://archive.org/details/bakuninonanarchy0000baku) [bakuninonanarchy0000baku>](https://archive.org/details/bakuninonanarchy0000baku) and [<libcom.org/library/bakunin-anarchy](https://libcom.org/library/bakunin-anarchy-selected-works-activist-founder-world-anarchism)[selected-works-activist-founder-world-anarchism>](https://libcom.org/library/bakunin-anarchy-selected-works-activist-founder-world-anarchism)
+Retrieved on October 23, 2022 from [](https://archive.org/details/bakuninonanarchy0000baku) and [- ](https://libcom.org/library/bakunin-anarchy-selected-works-activist-founder-world-anarchism)
 
 *Edited, Translated and with an Introduction by* Sam Dolgoff.

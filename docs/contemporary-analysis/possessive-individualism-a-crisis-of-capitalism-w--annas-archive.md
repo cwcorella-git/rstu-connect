@@ -1,3 +1,8 @@
+---
+title: "Possessive Individualism"
+category: "contemporary-analysis"
+---
+
 ## RISISOF
 
 ## DANIEL W. BROMLEY
@@ -37,14 +42,18 @@ Printed by Integrated Books International, United States of America
 | | Preface | ix |
 |----|---------------------------------------------|-----|
 | | Acknowledgments | xix |
-| | I.<br>THE PROBLEMATIC TRIUMPH OF CAPITALISM | |
+| | I.
+THE PROBLEMATIC TRIUMPH OF CAPITALISM | |
 | 1. | The Crisis of Capitalism | 3 |
 | 2. | Economics: The Dubious Enabler | 27 |
 | 3. | Emergence of the Isolated Household | 53 |
-| | II.<br>THE GREAT UNRAVELING | |
+| | II.
+THE GREAT UNRAVELING | |
 | 4. | The Cleaved Core | 87 |
 | 5. | The Isolated Periphery | 127 |
-| | III.<br>RECOVERING<br>HOPE | |
+| | III.
+RECOVERING
+HOPE | |
 | 6. | Escaping Possessive Individualism | 171 |
 | 7. | Reimagining the Private Firm | 207 |
 | 8. | Reimagining the Individual | 234 |
@@ -538,7 +547,7 @@ One might even note the irony here. At a moment in history when so many things s
 
 #### **Note**
 
-1. <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1116380/>(accessed September 10, 2017).
+1. (accessed September 10, 2017).
 
 #### **References**
 
@@ -954,7 +963,7 @@ The 2016 British vote to leave the European Union was driven, in the main, by th
 
 **Figure 4.1.** Union Membership as Percent of All Employees *Source*: Nation Master http://www.nationmaster.com/country-info/stats/Labor/Trade-unionmembership#, accessed December 12, 2016.
 
-Today, fewer than 12 percent of all U. S. workers are protected by unions. Comparable shares for selected other countries are seen in Figure 4.1. In the United States, the year 2015 saw public-sector union membership at 35.2 percent of the total workforce, while in the private sector, union membership had been driven down to 6.7 percent.<sup>7</sup> In 1979, there were over 20 million unionized workers, and by 2013 that number had dropped by 28 percent to 14.5 million workers.<sup>8</sup> Much of the decline is due to the precipitous drop in U. S. manufacturing employment. But the rest of the decline came from the shifting public view of unionization against the current political world-view of "free" labor markets versus those with unions. Wage stagnation over the past several decades is often attributed to this decline in the presence of unionized workers. Capitalists are pleased, while workers are increasingly sullen. It seems that possessive individualism has turned workers into their own adversaries
+Today, fewer than 12 percent of all U. S. workers are protected by unions. Comparable shares for selected other countries are seen in Figure 4.1. In the United States, the year 2015 saw public-sector union membership at 35.2 percent of the total workforce, while in the private sector, union membership had been driven down to 6.7 percent.7 In 1979, there were over 20 million unionized workers, and by 2013 that number had dropped by 28 percent to 14.5 million workers.8 Much of the decline is due to the precipitous drop in U. S. manufacturing employment. But the rest of the decline came from the shifting public view of unionization against the current political world-view of "free" labor markets versus those with unions. Wage stagnation over the past several decades is often attributed to this decline in the presence of unionized workers. Capitalists are pleased, while workers are increasingly sullen. It seems that possessive individualism has turned workers into their own adversaries
 
 With weakened worker protection and the growth in part-time work, fragmented labor markets—individuals working several jobs, each of which might entail 16–20 hours per week—now seem to be the norm in many service industries. These conditions tend to atomize the workforce, thereby making collective action even more difficult to arrange and sustain. As above, this new "world of work" keeps many workers insecure and on edge. It is especially pronounced in the services sector.
 
@@ -996,7 +1005,7 @@ By 2010, however, the ratio of population to employed persons was 2.4 (populatio
 
 If job losses of this sort endure into the future, one obvious question concerns whether or not there is relief from the appearance of new firms. Might the new economy—exemplified by the so-called disrupters (Uber, Lyft, Airbnb)—offer some relief? A moment's reflection suggests that these disrupters are not the employment engines they might seem. Airbnb is the easy case: it could even be a job killer. The model is one of homeowners renting out part or all of their dwelling. No obvious jobs are thereby created, especially if homeowners perform maid service once guests depart. And if Airbnb undermines regular lodging—hotels and motels where actual jobs exist—then this particular disrupter might actually be a job killer. As for Uber and Lyft, the evidence seems to be that most drivers are simply filling up their spare time; evidently, one-half of Uber's drivers work less than 10 hours per week.10 Notice that a city flooded by hundreds of part-time Uber/ Lyft drivers seems to pose a serious threat to established taxi drivers who tend to be full-time workers. The city of New York is now plagued by a crisis in the livery sector. Moreover, increased traffic gridlock is a related result of so many Uber and Lyft cars cruising the streets of Manhattan.
 
-This question is pertinent because many politicians express an affinity for policies that will foster the creation of new firms as a promising landscape for meaningful careers and economic recovery in areas suffering from the loss of manufacturing employment. Sadly, the staying power of start-ups is not encouraging. The U. S. Bureau of Labor Statistics reports that in March 2018, only 50.7 percent of the firms that had opened five-years earlier (March 2013) had survived. <sup>11</sup> It seems that the promise of new firms is quite problematic.
+This question is pertinent because many politicians express an affinity for policies that will foster the creation of new firms as a promising landscape for meaningful careers and economic recovery in areas suffering from the loss of manufacturing employment. Sadly, the staying power of start-ups is not encouraging. The U. S. Bureau of Labor Statistics reports that in March 2018, only 50.7 percent of the firms that had opened five-years earlier (March 2013) had survived. 11 It seems that the promise of new firms is quite problematic.
 
 For instance, in Figure 4.6 we see the number of one-year old firms from 1994 through 2015. Notice the pronounced dip starting around 2006, and the acceleration associated with the Great Recession of 2007–2009. There has been a decent recovery beginning in 2010, but a more ominous sign is seen in Figure 4.7.
 
@@ -1121,7 +1130,8 @@ Leaving judgments of the expressed *importance* of each of these aspects aside, 
 | Opportunity to use skills and abilities | 55% | 37% |
 | Career advancement opportunities | 47% | 24% |
 | Job-specific training | 42% | 25% |
-| Organization's commitment to professional<br>development | 40% | 25% |
+| Organization's commitment to professional
+development | 40% | 25% |
 | Career development opportunities | 39% | 21% |
 | Company-paid general training | 35% | 26% |
 | Networking opportunities | 31% | 23% |
@@ -1168,10 +1178,13 @@ more of the respondents, the "very satisfied" score rose to only 31percent of re
 | Trust between employees and senior management | 55% | 27% |
 | Relationship with supervisor | 53% | 40% |
 | Supervisor's respect for employee's ideas | 49% | 37% |
-| Management's recognition of employee job<br>performance | 48% | 26% |
-| Communication between employees and senior<br>management | 48% | 25% |
+| Management's recognition of employee job
+performance | 48% | 26% |
+| Communication between employees and senior
+management | 48% | 25% |
 | Autonomy and independence | 46% | 32% |
-| Management communication of goals and<br>strategies | 45% | 24% |
+| Management communication of goals and
+strategies | 45% | 24% |
 ## | Averages | 49% | 30% |
 
 *Source*: Society for Human Resource Management (2016).
@@ -1196,9 +1209,12 @@ While we cannot know what early merchant capitalists thought of their working li
 | Contribution of work to organization's goals | 39% | 30% |
 | Communication between units | 36% | 21% |
 | Variety of work | 35% | 30% |
-| Organization's commitment to corporate social<br>responsibility | 32% | 24% |
-| Organization's commitment to a diverse and<br>inclusive workforce | 30% | 25% |
-| Organization's commitment to a "green"<br>workplace | 21% | 23% |
+| Organization's commitment to corporate social
+responsibility | 32% | 24% |
+| Organization's commitment to a diverse and
+inclusive workforce | 30% | 25% |
+| Organization's commitment to a "green"
+workplace | 21% | 23% |
 ## | Averages | 33% | 25% |
 
 *Source*: Society for Human Resource Management (2016).
@@ -1268,7 +1284,7 @@ Because this new economic regime will be driven by the acknowledged need for a *
 - 1. Julie Cresswell, *The New York Times*, August 11, 2017.
 - 2. Noam Scheiber, "Nissan Workers in Mississippi Reject Union Bid by UAW," *The New York Times*, August 5, 2017.
 - 3. Patricia Cohen, "As Big Retailers Seek to Cut Their Tax Bills, Towns Bear the Brunt," *The New York Times*, January 6, 2019.
-- 4. <http://www.nytimes.com/2012/12/02/us/how-local-taxpayers-bankroll-corporations.html> (accessed September 21, 2017).
+- 4.  (accessed September 21, 2017).
 - 5. Karen Weise, "Amazon Announces New York and Virginia as HQ2 Picks," *The New York Times*, November 13, 2018.
 - 6. Bryce Covert, "Cities Should Stop Playing the Amazon HQ2 Bidding Game," *The New York Times*, November 13, 2018.
 - 7. Bureau of Labor Statistics, U. S. Department of Labor, January 28, 2016.
@@ -1291,7 +1307,7 @@ Macpherson, C. B. 1973. *Democratic Theory,* Oxford: Clarendon Press.
 - Northrop, F. S. C. 1967. *The Logic of the Sciences and the Humanities,* New York: Meridian Books.
 - Rinne, Ulf. 2014. "Anonymous Job Applications and Hiring Discrimination," *IZA World of Labor*, 48, May. [https://wol.iza.org/uploads/articles/454/pdfs/anonymous-job](https://wol.iza.org/uploads/articles/454/pdfs/anonymous-job-applications-and-hiring-discrimination.one-pager.pdf?v=1)[applications-and-hiring-discrimination.one-pager.pdf?v=1](https://wol.iza.org/uploads/articles/454/pdfs/anonymous-job-applications-and-hiring-discrimination.one-pager.pdf?v=1)
 - Sen, Amartya. 1993. "Markets and Freedoms: Achievements and Limitations of the Market Mechanism in Promoting Individual Freedoms," *Oxford Economic Papers* 45: 519–41.
-- Sivy, Michael. 2012. "The Big Winner of the Great Recession Is . . . ." *Time*, January 18. <http://business.time.com/2012/01/18/the-big-winner-of-the-great-recession-is/>
+- Sivy, Michael. 2012. "The Big Winner of the Great Recession Is . . . ." *Time*, January 18. 
 - Veblen, Thorstein. 1904. *The Theory of the Business Enterprise*. New Brunswick, NJ: Transaction Books.
 - World Development Indicators. 2018. Washington, DC: World Bank.
 
@@ -1429,7 +1445,7 @@ The resource curse must be understood as a gradual process of structural transfo
 | Total top 10 | 56.78 | 60% |
 ## | World total | 95.36 | |
 
-*Source*: U. S. Energy Information Administration, <https://www.eia.gov/tools/faqs/faq.php?id=709&t=6>, Accessed November 16, 2018.
+*Source*: U. S. Energy Information Administration, , Accessed November 16, 2018.
 
 The new country of South Sudan, born out of its liberation struggle while still part of Sudan until 2011, is suffering from the heightened exuberance of what it would be like to live with a stock of oil. When the world price of oil plummeted, South Sudan experienced the worst of two worlds. It did not have a real economy at the time of its independence, and three years of handsome oil revenue launched all manner of ill-advised government-funded activities. Paramount among them was the creation of a bloated government payroll fueled by oil earnings. With oil revenue now much below its level in 2012–2013, the economy is practically nonexistent. Government employees often go months without pay. Civil conflict has reemerged, and starvation is rampant. By mid-2017, approximately one million South Sudanese had fled to Uganda. There simply is no other economic activity to offset the negative forces of a single export activity.
 
@@ -1609,7 +1625,7 @@ Other indicators are equally grim. Public spending on women's health falls below
 
 The complete lack of a functioning economy in Iraq makes these recurring struggles a necessary activity that will deliver a plausible life—or enduring misery. With the highest rate of youth unemployment—above 45 percent among 18 Arab states in the Middle East and North Africa, the stakes could not be higher. The private sector, long stifled under Saddam's Stalinist authoritarian rule, barely exists. Livelihoods are scarce and precarious. In such an economy, most people have little to lose by chaos (they are unemployed anyway), and yet they may—if both aggressive and lucky—end up on the winning side. Iraq, as with so many countries in this vexed neighborhood, is a winner-take-all society. Those who prevail will control an enormous oil resource and access to government jobs. Those who lose—as is the regional custom—will get very little.
 
-During Saddam Hussein's rule, Iraq's economy took dysfunction to a new extreme. Oil and gas sales accounted for about 70 percent of real GDP, for more than 90 percent of government revenues, and for more than 96 percent of export earnings. Today, long after Saddam's removal, government employment as a share of total employment runs close to 45 percent. There simply is no private sector. The general degradation of manufacturing and agriculture since 1980 means that these two key sectors account for less than 10 percent of GDP. Rankings in 2017 of the Corruption Perception Index compiled by Transparency International placed Iraq near the bottom—169th out of 180 countries.<sup>5</sup>
+During Saddam Hussein's rule, Iraq's economy took dysfunction to a new extreme. Oil and gas sales accounted for about 70 percent of real GDP, for more than 90 percent of government revenues, and for more than 96 percent of export earnings. Today, long after Saddam's removal, government employment as a share of total employment runs close to 45 percent. There simply is no private sector. The general degradation of manufacturing and agriculture since 1980 means that these two key sectors account for less than 10 percent of GDP. Rankings in 2017 of the Corruption Perception Index compiled by Transparency International placed Iraq near the bottom—169th out of 180 countries.5
 
 Iraq's economy remains stifled by a multitude of impediments. Electricity supply can meet only 50 to 60 percent of load requirements, which compels businesses to rely on much more expensive generators. Fuel is both scarce and expensive. Blackout periods of 9 hours per day are common—this in a country where daytime summer temperatures can exceed 40oC (104oF). GDP per employed person is less than one-half that for other countries in the region. The trend is even more ominous, with labor productivity at just 40 percent of what it was in 1990. Living standards have continued to fall. One-third of the population resides in rural areas, and 40 percent of those persons live on less than \$2.00 per day. Approximately 16 percent of urban residents are classified as poor. Literacy rates for males, approximately 80–84 percent, are among the lowest in the region. In Baghdad, approximately 25 percent of the population lacks access to a water supply network. More than 30 percent of rural residents lack reliable and safe drinking water, and in some areas that percentage exceeds 50 percent. Only 30–35 percent of the population has access to a proper sewer system, and the continued destruction of the country's infrastructure has driven that number to new lows.
 
@@ -1687,7 +1703,7 @@ The countries listed in the Organization for Economic Cooperation and Developmen
 - 2. Data based on the authors' (Campos, 2014) calculations using GDP per capita data from Maddison (2007). Western Europe includes Austria, Belgium, Denmark, Finland, France, Germany, Italy, The Netherlands, Norway, Sweden, Switzerland, and the United Kingdom. US-CAN-NZ-AUS is Australia, Canada, New Zealand, and the United States.
 - 3. Notice that there are only three OECD countries (Canada, the United States, and Mexico) with significant oil reserves.
 - 4. See the Appendix for countries in each of these groupings.
-- 5. <https://www.transparency.org/country/IRQ>
+- 5. 
 
 #### **References**
 
@@ -2095,9 +2111,9 @@ It has recently come to light that a large number of fast-food chains—Burger K
 
 It is standard practice for employees with highly specialized knowledge of privileged firm-specific information to be required to sign noncompete contracts that prevent their being hired by competitors until after a certain period of time. The delay is intended to erode the value of their specialized knowledge, thereby making such individuals less valuable to a competitor. These restrictive clauses enjoy both ethical and legal justification.
 
-But why are unskilled workers in fast-food restaurants—the vast majority of whom work for the minimum wage—bound by "noncompete" clauses? What special skills do they possess that would advantage the hiring firm or harm the firm they might leave? Actually, there is more to the story. Unlike such clauses for highly paid corporate executives with specialized knowledge, these noncompete clauses are *not* agreed to by the affected employees. In fact, it seems they are unaware of such constraints. The restrictive clauses are contained in obscure parts of the contract that franchisees sign with corporate headquarters. The purpose of such restrictions would seem to be to preclude franchisees competing against each other for workers. Such nohire rules are in place for approximately 70,000 restaurants—more than a quarter of all fast-food outlets in the country. It is estimated that more than 4 million individuals are now working in fast-food outlets—an increase of 28 percent since 2010. Average wages are said to be about \$300 per week before taxes, an amount that is one-third of what the average worker in the private sector earns.<sup>1</sup>
+But why are unskilled workers in fast-food restaurants—the vast majority of whom work for the minimum wage—bound by "noncompete" clauses? What special skills do they possess that would advantage the hiring firm or harm the firm they might leave? Actually, there is more to the story. Unlike such clauses for highly paid corporate executives with specialized knowledge, these noncompete clauses are *not* agreed to by the affected employees. In fact, it seems they are unaware of such constraints. The restrictive clauses are contained in obscure parts of the contract that franchisees sign with corporate headquarters. The purpose of such restrictions would seem to be to preclude franchisees competing against each other for workers. Such nohire rules are in place for approximately 70,000 restaurants—more than a quarter of all fast-food outlets in the country. It is estimated that more than 4 million individuals are now working in fast-food outlets—an increase of 28 percent since 2010. Average wages are said to be about \$300 per week before taxes, an amount that is one-third of what the average worker in the private sector earns.1
 
-Do restrictions on labor mobility among franchises lead to wage stagnation? Are such noncompete contracts warranted to protect trade secrets? It is hard to see that a franchisee for Burger King has a trade secret that must be shielded from another Burger King franchisee five blocks away—and perhaps closer to the residence of an employee who seeks to switch places of employment. What is the purpose of such clauses? Perhaps it is to suppress possible wage increases that are often the reason why workers switch jobs. After all, if a particular franchisee needs to hire additional workers, attracting employees from a similar firm would save on training costs and would therefore seem to warrant a slight increase in pay. Apparently, franchisees do not want their employees looking around for a better deal. Mobility in the labor market is celebrated because it matches the best workers with the most promising employment. However, it seems that fast-food restaurants have little interest in economic theory and the alleged benefits of vibrant labor markets. The obvious question is whether or not such noncompete contracts are ethical? Or is ethics the correct way to frame this problem?<sup>2</sup>
+Do restrictions on labor mobility among franchises lead to wage stagnation? Are such noncompete contracts warranted to protect trade secrets? It is hard to see that a franchisee for Burger King has a trade secret that must be shielded from another Burger King franchisee five blocks away—and perhaps closer to the residence of an employee who seeks to switch places of employment. What is the purpose of such clauses? Perhaps it is to suppress possible wage increases that are often the reason why workers switch jobs. After all, if a particular franchisee needs to hire additional workers, attracting employees from a similar firm would save on training costs and would therefore seem to warrant a slight increase in pay. Apparently, franchisees do not want their employees looking around for a better deal. Mobility in the labor market is celebrated because it matches the best workers with the most promising employment. However, it seems that fast-food restaurants have little interest in economic theory and the alleged benefits of vibrant labor markets. The obvious question is whether or not such noncompete contracts are ethical? Or is ethics the correct way to frame this problem?2
 
 #### B. Forbidden Customers
 
@@ -2398,7 +2414,7 @@ The top decile income share rose from less than 35% of total income in the 1970s
 
 **Figure 8.2.** Share of Top Decile in National Income: United States, 1910–2010 *Source*: Piketty, 2014 (Figure 8.5).
 
-This ratio, the elite professions premium, is very highly correlated with income inequality across countries.<sup>1</sup>
+This ratio, the elite professions premium, is very highly correlated with income inequality across countries.1
 
 Consider Figure 8.2. Here we see the trajectory of the share of the top decile in total U. S. incomes since 1910. Notice that capital-gains income has never figured too prominently in this trajectory, reaching modest proportions only after the dramatic drop in inequality brought on by World War II. The rather egalitarian postwar period ended around 1980 when we begin to see a dramatic increase in inequality—even surviving the financial crisis of 2007–2009.
 
@@ -2834,7 +2850,9 @@ Kegley, Jacquelyn A. 2008. *Josiah Royce in Focus*, Bloomington: Indiana Univers
 | economic irrelevance, 162–65 | 254, 267 |
 | economic life in, 143–49 | prices and, 122–23 |
 | metropolitan core, 240 | reforms, 212 |
-| Middle East, 150–58<br>notional state, 158–62, 203–4 | technology and, 107, 111<br>trapped labor, 208–9, 211–12 |
+| Middle East, 150–58
+notional state, 158–62, 203–4 | technology and, 107, 111
+trapped labor, 208–9, 211–12 |
 | pathways of despair, 148–49 | wages and, 95, 129 |
 | Prebisch on, 241 | See also unions |
 | vulnerability, 127–43 | limited liability companies (LLCs), 77 |
@@ -2848,7 +2866,8 @@ Kegley, Jacquelyn A. 2008. *Josiah Royce in Focus*, Bloomington: Indiana Univers
 |---------------------------------------------|------------------------------------------------------------------------------|
 | community and, 269–71 | 251, 253–54, 265 |
 | Luxembourg Income Study, 242, 245 | Merkel, Angela, 144 |
-| Macfarlane, Alan, 17 | Merton, Robert, 30<br>microeconomic theory, 24, 34, 37, 174–75 |
+| Macfarlane, Alan, 17 | Merton, Robert, 30
+microeconomic theory, 24, 34, 37, 174–75 |
 | Machine Age, 107–8 | migration, 36, 56, 74, 144, 226, 240 |
 | Mac Intyre, Alasdair, 44–48 | Millennials, 113 |
 | Macpherson, C. B., 6, 14, 17–19, 22, 73, | Millennium Development Goals, 159, 162 |
@@ -2882,7 +2901,9 @@ Kegley, Jacquelyn A. 2008. *Josiah Royce in Focus*, Bloomington: Indiana Univers
 | managerial transactions, 191–92, 197 | civic, 16, 19–20, 121, 223, 228 |
 | Mao Zedong, 134, 256 | concept of, xvii, 3 |
 | See also China | economic theory and, 172 |
-| Marglin, Stephen, 22<br>marriage, 63, 156 | firms and, 106, 108, 212–13, 215–16<br>individual rights and, 7–9, 20–21, 62 |
+| Marglin, Stephen, 22
+marriage, 63, 156 | firms and, 106, 108, 212–13, 215–16
+individual rights and, 7–9, 20–21, 62 |
 | Marx, Karl, 9, 15, 19, 49, 72, 76, 94, 119, | personhood and, 21, 23 |
 | 121, 133, 154, 230, 241 | possessive individualism and, 14 |
 | mask of citizenship, xiv–xv, 160 | reciprocal relationships, 57, 238 |

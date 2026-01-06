@@ -1,3 +1,8 @@
+---
+title: "## **Survival through solidarity. A few stories from the occupied South of Ukraine**"
+category: "labor"
+---
+
 ## **Survival through solidarity. A few stories from the occupied South of Ukraine**
 
 ## **Date:** Unknown

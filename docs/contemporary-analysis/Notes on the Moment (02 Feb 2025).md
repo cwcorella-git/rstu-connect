@@ -1,3 +1,8 @@
+---
+title: "## **Notes on the Moment (02 Feb 2025)**"
+category: "contemporary-analysis"
+---
+
 ## **Notes on the Moment (02 Feb 2025)**
 
 **Date:** 2025-02-03 **Source:** https://www.threadings.io/notes-on-the-moment-02-feb-2025/Audio file, or the Spotify link if you nasty: Notes on the moment feb 2025 0:00 / 1034.0310204081632
@@ -42,9 +47,11 @@ Now extrapolate to nation states, or empires: feeding time necessitates a bit of
 
 . Get people real, real uncomfortable. Push long-standing dynamics. Remind people nothing is safe, nothing is sacred. In this world-making, note two things: (1) the fastest and most profitable way to move shit along as a capitalist with a bit of world-making money is war. War feeds (and sometimes reinvents) the machine. And (2) the people that made this world up know that they made it up.
 
-| game. They have no problem playing with our lives; would you? It's just Yahtzee. Two more<br>subnotes: |
+| game. They have no problem playing with our lives; would you? It's just Yahtzee. Two more
+subnotes: |
 |-----------------------------------------------------------------------------------------------------------------------------------|
-| I don't use "world-making" just for shits and giggles or to sound cool. I write it out every time I<br>want to say something like |
+| I don't use "world-making" just for shits and giggles or to sound cool. I write it out every time I
+want to say something like |
 | this world, |
 | or |
 | the world, |

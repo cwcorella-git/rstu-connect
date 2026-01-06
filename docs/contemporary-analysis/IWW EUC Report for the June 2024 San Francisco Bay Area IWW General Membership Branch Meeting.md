@@ -1,3 +1,8 @@
+---
+title: "**IWW EUC Report for the June 2024 San Francisco Bay Area IWW General Membership Branch Meeting**"
+category: "contemporary-analysis"
+---
+
 # **IWW EUC Report for the June 2024 San Francisco Bay Area IWW General Membership Branch Meeting**
 
 ## **Date:** Thu, 06/06/2024 - 00:00
@@ -20,17 +25,25 @@ I. May 24 (Judi Bari Day).
 
 ## B. Background
 
-| - for a detailed history of our late Fellow Worker, the following sources provide useful<br>information: |
+| - for a detailed history of our late Fellow Worker, the following sources provide useful
+information: |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | https://ecology.iww.org/term/Judi Bari|
 | https://judibari.info/|
 | https://judibari.org/|
 | https://youtu.be/HWApxv SjMKY?si=iGPkG5Zfa1aYMhMY|
 | C. WISERA IWW Convention |
-| - At the invitation of the WISERA Environmental Committee, I gave a presentation on Judi<br>Bari's IWW organizing. It was a bit scattered at first, but ultimately well received. It was<br>recorded, but I don't have a copy of the video yet, so I can't share it, but I will once it's made<br>available. |
+| - At the invitation of the WISERA Environmental Committee, I gave a presentation on Judi
+Bari's IWW organizing. It was a bit scattered at first, but ultimately well received. It was
+recorded, but I don't have a copy of the video yet, so I can't share it, but I will once it's made
+available. |
 | D. Memory Against Forgetting |
-| - Long time Bay Area Earth First!er, Karen Pickett, was interviewed by the Green and Red<br>Podcast, and she gave an excellent overview of Judi Bari's Earth First! / IWW organizing. It's<br>well worth a listen: Memory Against Forgetting: The Story of Judi Bari w/ Earth First!er Karen<br>Pickett |
-| https://greenandredpodcast.org/2024/05/22/memory-against-forgetting-the-story-of-judi-bari<br>w-earth-firster-karen-pickett/ |
+| - Long time Bay Area Earth First!er, Karen Pickett, was interviewed by the Green and Red
+Podcast, and she gave an excellent overview of Judi Bari's Earth First! / IWW organizing. It's
+well worth a listen: Memory Against Forgetting: The Story of Judi Bari w/ Earth First!er Karen
+Pickett |
+| https://greenandredpodcast.org/2024/05/22/memory-against-forgetting-the-story-of-judi-bari
+w-earth-firster-karen-pickett/ |
 ## | E. Marking the Moment |
 
 | - I attended the annual "Marking the Moment" Judi Bari Day event, where her comrades |
@@ -63,12 +76,18 @@ https://nocoalinoakland.info
 
 ## Plan" -
 
-| - This proposed legislation will require CalPERS and CalSTRS to divest from fossil fuels. It<br>has support from several unions, though the CalPERS and CalSTRS boards are resistant. |
+| - This proposed legislation will require CalPERS and CalSTRS to divest from fossil fuels. It
+has support from several unions, though the CalPERS and CalSTRS boards are resistant. |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | B. Polluter Pays (SB 1497) |
-| - This will require fossil fuel capitalists to pay reparations to communities that are adversely<br>affected by pollution and climate change. It has both union support (primarily SEIU) and<br>opposition (some Building Trades, likely due to the latter's close association to the Western<br>States Petroleum Association (WSPA), a fossil fuel capitalist lobbying group). |
+| - This will require fossil fuel capitalists to pay reparations to communities that are adversely
+affected by pollution and climate change. It has both union support (primarily SEIU) and
+opposition (some Building Trades, likely due to the latter's close association to the Western
+States Petroleum Association (WSPA), a fossil fuel capitalist lobbying group). |
 | C. Clean Up Orphan Wells (AB 1866) |
-| - this bill has gained support from the unions affiliated with California Labor for Climate Jobs<br>(see "E", below), including various United Steelworkers (USW) locals, because of its potential<br>for job creation. |
+| - this bill has gained support from the unions affiliated with California Labor for Climate Jobs
+(see "E", below), including various United Steelworkers (USW) locals, because of its potential
+for job creation. |
 | D. Save the Setbacks Law (SB 1137) |
 | - SEIU 1021 has published a web page in support of it - |
 | https://www.seiu1021.org/article/fall-vote-yes-keep-oil-wells-out-your-neighborhoods|
@@ -77,16 +96,25 @@ https://nocoalinoakland.info
 
 - This coalition formed out of the unions that initially endorsed the "California Climate Jobs
 
-| . They are mostly concerned with lobbying the California State Government at this point.<br>Details here: |
+| . They are mostly concerned with lobbying the California State Government at this point.
+Details here: |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | https://calaborforclimatejobs.org/|
 | |
 | F. Floating Offshore Wind |
-| - on May 16, I attended the Department of Energy "Windshot" summit. In short, while there's a<br>lot of back-patting by the Biden Administration, they are at least publicly acknowledging that<br>these projects cannot be built without union, environmentalist, and indigenous support. Details<br>here: |
+| - on May 16, I attended the Department of Energy "Windshot" summit. In short, while there's a
+lot of back-patting by the Biden Administration, they are at least publicly acknowledging that
+these projects cannot be built without union, environmentalist, and indigenous support. Details
+here: |
 | Biden-Harris Administration Celebrates Progress in Domestic Floating Offshore Wind - |
-| https://cleantechnica.com/2024/05/16/biden-harris-administration-celebrates-progress-in-dom<br>estic-floating-offshore-wind/ |
+| https://cleantechnica.com/2024/05/16/biden-harris-administration-celebrates-progress-in-dom
+estic-floating-offshore-wind/ |
 | G. Gaza / Student Occupations |
-| - There is growing union support for a ceasefire, the student occupations, and BDS, including<br>among workers who create, design, build, and engineer the weapons used in Israel's ongoing<br>campaign of genocide. This bodes well not only for ending decades long oppression of<br>Palestine, but workers taking a stand against ecological destruction and fossil fuel<br>extractivism: |
+| - There is growing union support for a ceasefire, the student occupations, and BDS, including
+among workers who create, design, build, and engineer the weapons used in Israel's ongoing
+campaign of genocide. This bodes well not only for ending decades long oppression of
+Palestine, but workers taking a stand against ecological destruction and fossil fuel
+extractivism: |
 
 https://www.californiaclimatejobsplan.com/
 
@@ -94,61 +122,89 @@ https://www.californiaclimatejobsplan.com/
 
 #### A. SB 252
 
-| - This proposed legislation will require CalPERS and CalSTRS to divest from fossil fuels. It<br>has support from several unions, though the CalPERS and CalSTRS boards are resistant. |
+| - This proposed legislation will require CalPERS and CalSTRS to divest from fossil fuels. It
+has support from several unions, though the CalPERS and CalSTRS boards are resistant. |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | B. Polluter Pays (SB 1497) |
-| - This will require fossil fuel capitalists to pay reparations to communities that are adversely<br>affected by pollution and climate change. It has both union support (primarily SEIU) and<br>opposition (some Building Trades, likely due to the latter's close association to the Western<br>States Petroleum Association (WSPA), a fossil fuel capitalist lobbying group). |
+| - This will require fossil fuel capitalists to pay reparations to communities that are adversely
+affected by pollution and climate change. It has both union support (primarily SEIU) and
+opposition (some Building Trades, likely due to the latter's close association to the Western
+States Petroleum Association (WSPA), a fossil fuel capitalist lobbying group). |
 | C. Clean Up Orphan Wells (AB 1866) |
-| - this bill has gained support from the unions affiliated with California Labor for Climate Jobs<br>(see "E", below), including various United Steelworkers (USW) locals, because of its potential<br>for job creation. |
+| - this bill has gained support from the unions affiliated with California Labor for Climate Jobs
+(see "E", below), including various United Steelworkers (USW) locals, because of its potential
+for job creation. |
 | D. Save the Setbacks Law (SB 1137) |
 | - SEIU 1021 has published a web page in support of it - |
 | https://www.seiu1021.org/article/fall-vote-yes-keep-oil-wells-out-your-neighborhoods|
 | E. California Labor for Climate Jobs |
-| - This coalition formed out of the unions that initially endorsed the "California Climate Jobs<br>Plan" - |
+| - This coalition formed out of the unions that initially endorsed the "California Climate Jobs
+Plan" - |
 ## | |
 
 https://www.californiaclimatejobsplan.com/
 
-| . They are mostly concerned with lobbying the California State Government at this point.<br>Details here: |
+| . They are mostly concerned with lobbying the California State Government at this point.
+Details here: |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | https://calaborforclimatejobs.org/|
 | |
 | F. Floating Offshore Wind |
-| - on May 16, I attended the Department of Energy "Windshot" summit. In short, while there's a<br>lot of back-patting by the Biden Administration, they are at least publicly acknowledging that<br>these projects cannot be built without union, environmentalist, and indigenous support. Details<br>here: |
+| - on May 16, I attended the Department of Energy "Windshot" summit. In short, while there's a
+lot of back-patting by the Biden Administration, they are at least publicly acknowledging that
+these projects cannot be built without union, environmentalist, and indigenous support. Details
+here: |
 | Biden-Harris Administration Celebrates Progress in Domestic Floating Offshore Wind - |
-| https://cleantechnica.com/2024/05/16/biden-harris-administration-celebrates-progress-in-dom<br>estic-floating-offshore-wind/ |
+| https://cleantechnica.com/2024/05/16/biden-harris-administration-celebrates-progress-in-dom
+estic-floating-offshore-wind/ |
 | G. Gaza / Student Occupations |
-| - There is growing union support for a ceasefire, the student occupations, and BDS, including<br>among workers who create, design, build, and engineer the weapons used in Israel's ongoing<br>campaign of genocide. This bodes well not only for ending decades long oppression of<br>Palestine, but workers taking a stand against ecological destruction and fossil fuel<br>extractivism: |
+| - There is growing union support for a ceasefire, the student occupations, and BDS, including
+among workers who create, design, build, and engineer the weapons used in Israel's ongoing
+campaign of genocide. This bodes well not only for ending decades long oppression of
+Palestine, but workers taking a stand against ecological destruction and fossil fuel
+extractivism: |
 | How UC Researchers Began Saying No to Military Work - |
 | https://www.labornotes.org/blogs/2024/05/how-uc-researchers-began-saying-no-military-work|
 
-| A letter from Black Rose Anarchist Militants in California Public Universities to our Classmates<br>and Colleagues - |
+| A letter from Black Rose Anarchist Militants in California Public Universities to our Classmates
+and Colleagues - |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | https://blackrosefed.org/letter-california-public-universities/|
 | Statement of Solidarity with Students, Workers, and Palestine - |
-| https://www.labor4sustainability.org/articles/statement-of-solidarity-with-students-workers-and<br>-palestine/ |
+| https://www.labor4sustainability.org/articles/statement-of-solidarity-with-students-workers-and
+-palestine/ |
 | Unions Support Student Protestors Against Campus Administrators and Police - |
-| https://www.labornotes.org/2024/05/unions-support-student-protestors-against-campus-admi<br>nistrators-and-police |
+| https://www.labornotes.org/2024/05/unions-support-student-protestors-against-campus-admi
+nistrators-and-police |
 | III. Bay Area and California Green Unionism |
 | A. SB 252 |
-| - This proposed legislation will require CalPERS and CalSTRS to divest from fossil fuels. It<br>has support from several unions, though the CalPERS and CalSTRS boards are resistant. |
+| - This proposed legislation will require CalPERS and CalSTRS to divest from fossil fuels. It
+has support from several unions, though the CalPERS and CalSTRS boards are resistant. |
 | B. Polluter Pays (SB 1497) |
-| - This will require fossil fuel capitalists to pay reparations to communities that are adversely<br>affected by pollution and climate change. It has both union support (primarily SEIU) and<br>opposition (some Building Trades, likely due to the latter's close association to the Western<br>States Petroleum Association (WSPA), a fossil fuel capitalist lobbying group). |
+| - This will require fossil fuel capitalists to pay reparations to communities that are adversely
+affected by pollution and climate change. It has both union support (primarily SEIU) and
+opposition (some Building Trades, likely due to the latter's close association to the Western
+States Petroleum Association (WSPA), a fossil fuel capitalist lobbying group). |
 
 | C. Clean Up Orphan Wells (AB 1866) |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| - this bill has gained support from the unions affiliated with California Labor for Climate Jobs<br>(see "E", below), including various United Steelworkers (USW) locals, because of its potential<br>for job creation. |
+| - this bill has gained support from the unions affiliated with California Labor for Climate Jobs
+(see "E", below), including various United Steelworkers (USW) locals, because of its potential
+for job creation. |
 | D. Save the Setbacks Law (SB 1137) |
 | - SEIU 1021 has published a web page in support of it - |
 | https://www.seiu1021.org/article/fall-vote-yes-keep-oil-wells-out-your-neighborhoods|
 | E. California Labor for Climate Jobs |
-| - This coalition formed out of the unions that initially endorsed the "California Climate Jobs<br>Plan" - |
+| - This coalition formed out of the unions that initially endorsed the "California Climate Jobs
+Plan" - |
 | https://www.californiaclimatejobsplan.com/|
-| . They are mostly concerned with lobbying the California State Government at this point.<br>Details here: |
+| . They are mostly concerned with lobbying the California State Government at this point.
+Details here: |
 | https://calaborforclimatejobs.org/|
 | |
 | F. Floating Offshore Wind |
-| - on May 16, I attended the Department of Energy "Windshot" summit. In short, while there's a<br>lot of back-patting by the Biden Administration, they are at least publicly acknowledging that |
+| - on May 16, I attended the Department of Energy "Windshot" summit. In short, while there's a
+lot of back-patting by the Biden Administration, they are at least publicly acknowledging that |
 
 these projects cannot be built without union, environmentalist, and indigenous support. Details here:
 
@@ -174,13 +230,20 @@ https://www.labor4sustainability.org/articles/statement-of-solidarity-with-stude
 
 | Unions Support Student Protestors Against Campus Administrators and Police - |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| https://www.labornotes.org/2024/05/unions-support-student-protestors-against-campus-admi<br>nistrators-and-police |
+| https://www.labornotes.org/2024/05/unions-support-student-protestors-against-campus-admi
+nistrators-and-police |
 | H. COP City |
-| - Tortuguita was a member of the IWW, and the movement against Cop City (or the many Cop<br>Cities, because these are being proposed by state governments throughout the US, as<br>opposition to carceral, surveillance, and/or police statism grows and deepens) has both<br>ecological and class concerns: |
-| Cop City: Human Rights Groups Ask International Commission to Investigate Police Killing of<br>U. S. Environmental Activist - |
-| https://globaljusticeecology.org/human-rights-groups-request-investigation-into-police-killing-o<br>f-environmental-activist-cop-city/ |
+| - Tortuguita was a member of the IWW, and the movement against Cop City (or the many Cop
+Cities, because these are being proposed by state governments throughout the US, as
+opposition to carceral, surveillance, and/or police statism grows and deepens) has both
+ecological and class concerns: |
+| Cop City: Human Rights Groups Ask International Commission to Investigate Police Killing of
+U. S. Environmental Activist - |
+| https://globaljusticeecology.org/human-rights-groups-request-investigation-into-police-killing-o
+f-environmental-activist-cop-city/ |
 | IV. Miscellaneous |
-| In a Clean Energy Future, What Happens to California's Thousands of Oil Refinery Workers?<br>- |
+| In a Clean Energy Future, What Happens to California's Thousands of Oil Refinery Workers?
+- |
 | https://www.wri.org/insights/ca-oil-refineries-just-transition|
 | As always, to get involved with the caucus, visit |
 | https://ecology.iww.org|

@@ -1,8 +1,13 @@
+---
+title: "**Table of Contents**"
+category: "contemporary-analysis"
+---
+
 ## Henry David Thoreau
 
 # **Table of Contents**
 
-| <u>LIFE WITHOUT PRINCIPLE</u> | 1 |
+| LIFE WITHOUT PRINCIPLE | 1 |
 |-------------------------------|---|
 ## | Henry David Thoreau | 2 |
 

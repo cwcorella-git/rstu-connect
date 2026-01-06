@@ -1,13 +1,10 @@
 ---
-date: 2021
-author: Assembly Bill No
-tags:
-  - legislation
-  - Nevada
-  - housing
-  - rent
 title: "assembly-bill-no-280"
+author: "Assembly Bill No"
+date: "2021"
+category: "legislation"
 ---
+
 # assembly-bill-no-280
 
 *Converted from: `./assembly-bill-no-280.pdf`*  
@@ -75,8 +72,6 @@ use; and (2) contains a single toilet or a single urinal or contains both a toil
 urinal, neither of which is separated from the other by enclosure within a stall.
 
 
-
-
    -                                                            81st Session (2021)
 
 ---
@@ -136,8 +131,6 @@ replacement signage and mounting hardware at restrooms in state parks.
  EXPLANATION – Matter in bolded italics is new; matter between brackets [omitted material] is material to be omitted.
 
 
-
-
    THE PEOPLE OF THE STATE OF NEVADA, REPRESENTED IN
       SENATE AND ASSEMBLY, DO ENACT AS FOLLOWS:
 
@@ -186,8 +179,7 @@ Rights Commission,
     4. As used in this section:
     (a) “Caregiver” has the meaning ascribed to it in
 NRS 449A.306.
-    (b) “Gendered signage” means any sign posted on a single-
-stall restroom that uses words or images of a person to denominate
+    (b) “Gendered signage” means any sign posted on a singlestall restroom that uses words or images of a person to denominate
 sex.
     (c) “Single-stall restroom” means a restroom that:
         (1) Is intended for individual use; and
@@ -202,8 +194,6 @@ establishment not in fact open to the public, except to the extent that
 the facilities of such establishment are made available to the
 customers or patrons of an establishment within the scope of
 NRS 651.050.
-
-
 
 
    -                                                81st Session (2021)
@@ -265,7 +255,6 @@ discrimination or segregation based on race, color, religion, national
 origin, disability, sexual orientation, sex or gender identity or
 
 
-
    -                                               81st Session (2021)
 
 ---
@@ -324,8 +313,6 @@ identity or expression, including, without limitation, by allowing:
 restroom with the child;
 
 
-
-
    -                                              81st Session (2021)
 
 ---
@@ -363,8 +350,7 @@ to subsection 2 of NRS 393.110.
     4. As used in this section:
     (a) “Caregiver” has the meaning ascribed to it in
 NRS 449A.306.
-    (b) “Gendered signage” means any sign posted on a single-
-stall restroom that uses words or images of a person to denominate
+    (b) “Gendered signage” means any sign posted on a singlestall restroom that uses words or images of a person to denominate
 sex.
     (c) “Single-stall restroom” means a restroom that:
         (1) Is intended for individual use; and
@@ -383,7 +369,6 @@ that:
     (a) The primary purpose of this section is to provide, subject to
 the limitations set forth in this section, for the removal and
 elimination of architectural barriers to persons with a physical
-
 
 
    -                                              81st Session (2021)
@@ -445,7 +430,6 @@ Regulations;
 Design, 36 C.F.R. §§ 1190.1 et seq.; and
 
 
-
    -                                                81st Session (2021)
 
 ---
@@ -464,8 +448,7 @@ Design, 36 C.F.R. §§ 1190.1 et seq.; and
 adopted pursuant thereto.
  The requirements of paragraph (a) of this subsection are not
 satisfied if the public body complies solely with the Uniform
-Federal Accessibility Standards set forth in Appendix A of Part 101-
-19.6 of Title 41 of the Code of Federal Regulations.
+Federal Accessibility Standards set forth in Appendix A of Part 10119.6 of Title 41 of the Code of Federal Regulations.
     4. In each public building and facility owned by a public body,
 each entrance to a corridor which leads to a toilet facility must be
 marked with a sign which:
@@ -483,8 +466,7 @@ of persons of that gender; and
            (II) Provide direction to a toilet facility that may be used
 by persons of the other gender.
     5. A public body that owns a public building or facility which
-provides a single-stall restroom to the public shall make the single-
-stall restroom as inclusive and accessible as possible to a person of
+provides a single-stall restroom to the public shall make the singlestall restroom as inclusive and accessible as possible to a person of
 any gender identity or expression, including, without limitation, by
 allowing:
     (a) A parent or guardian of a child to enter the single-stall
@@ -502,8 +484,6 @@ Bathroom” or “All-Accessible Bathroom.”
     6. The Division shall verify that all public buildings and
 facilities owned by the State of Nevada conform with the
 requirements of this section. Each political subdivision shall verify
-
-
 
 
    -                                                 81st Session (2021)
@@ -547,8 +527,7 @@ Rights Commission,
     11. As used in this section:
     (a) “Caregiver” has the meaning ascribed to it in
 NRS 449A.306.
-    (b) “Gendered signage” means any sign posted on a single-
-stall restroom that uses words or images of a person to denominate
+    (b) “Gendered signage” means any sign posted on a singlestall restroom that uses words or images of a person to denominate
 sex.
     (c) “Single-stall restroom” means a restroom that:
         (1) Is intended for individual use; and
@@ -563,7 +542,6 @@ behalf of a public body and is used primarily to provide a service
 to the public and which provides a single-stall restroom to the
 public, or such a leased area that is part of a complex of leased
 areas that provides a single-stall restroom to the public within the
-
 
 
    -                                              81st Session (2021)
@@ -611,8 +589,7 @@ Rights Commission,
     6. As used in this section:
     (a) “Caregiver” has the meaning ascribed to it in
 NRS 449A.306.
-    (b) “Gendered signage” means any sign posted on a single-
-stall restroom that uses words or images of a person to denominate
+    (b) “Gendered signage” means any sign posted on a singlestall restroom that uses words or images of a person to denominate
 sex.
     (c) “Single-stall restroom” means a restroom that:
         (1) Is intended for individual use; and
@@ -623,7 +600,6 @@ from the other by enclosure within a stall.
     Sec. 13. NRS 444.047 is hereby amended to read as follows:
     444.047 As used in this section and NRS 444.048 and 444.049
 [,] and section 12 of this act, unless the context otherwise requires,
-
 
 
    -                                               81st Session (2021)
@@ -684,8 +660,6 @@ of persons of that gender; and
 by persons of the other gender.
 
 
-
-
    -                                                 81st Session (2021)
 
 ---
@@ -744,9 +718,6 @@ February 1, 2022.
                              20   ~~~~~   21
 
 
-
-
    -                                               81st Session (2021)
 
 ---
-

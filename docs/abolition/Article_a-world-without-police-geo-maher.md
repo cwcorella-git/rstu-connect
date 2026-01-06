@@ -1,13 +1,8 @@
 ---
-title: A World Without Police Geo Maher
-date: 2025
-author: Geo Maher
-tags:
-  - organizing
-  - strikes
-  - unions
-  - tenants
-  - housing
+title: "A World Without Police Geo Maher"
+author: "Geo Maher"
+date: "2025"
+category: "abolition"
 ---
 
 # A World Without Police Geo Maher

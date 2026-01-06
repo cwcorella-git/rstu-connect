@@ -1,3 +1,8 @@
+---
+title: "## **Wages For Housework Notebooks**"
+category: "arts-culture-music"
+---
+
 ## **Wages For Housework Notebooks**
 
 ## **Date:** Unknown

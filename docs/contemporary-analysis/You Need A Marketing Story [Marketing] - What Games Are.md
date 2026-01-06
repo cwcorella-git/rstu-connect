@@ -1,3 +1,8 @@
+---
+title: "**You Need A Marketing Story [Marketing]**"
+category: "contemporary-analysis"
+---
+
 #### [web.archive.org](https://web.archive.org/web/20250114171956/https://www.whatgamesare.com/2011/01/you-need-a-marketing-story-marketing.html)
 
 # **You Need A Marketing Story [Marketing]**

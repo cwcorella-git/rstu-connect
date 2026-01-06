@@ -1,3 +1,8 @@
+---
+title: "## **Internationalism – a guide to action or an excuse for inaction? To the start of the Prague Acti"
+category: "organizing"
+---
+
 ## **Internationalism – a guide to action or an excuse for inaction? To the start of the Prague Action Week 20-26 May**
 
 ## **Date:** Unknown

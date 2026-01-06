@@ -1,3 +1,8 @@
+---
+title: "## **Message from Ferguson prisoner Josh Williams, July 2019**"
+category: "contemporary-analysis"
+---
+
 ## **Message from Ferguson prisoner Josh Williams, July 2019**
 
 ## **Date:** Unknown

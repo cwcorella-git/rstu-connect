@@ -1,3 +1,8 @@
+---
+title: "## **Bookchin on Technology**"
+category: "arts-culture-music"
+---
+
 ## **Bookchin on Technology**
 
 ## **Date:** Unknown

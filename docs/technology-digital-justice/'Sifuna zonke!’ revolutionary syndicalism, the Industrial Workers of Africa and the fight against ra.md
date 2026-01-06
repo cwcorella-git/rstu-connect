@@ -1,3 +1,8 @@
+---
+title: "## **'Sifuna zonke!': revolutionary syndicalism, the Industrial Workers of Africa and the fight agai"
+category: "technology-digital-justice"
+---
+
 ## **'Sifuna zonke!': revolutionary syndicalism, the Industrial Workers of Africa and the fight against racial capitalism, 1915-1921 - Bikisha Media Collective**
 
 ## **Date:** Unknown

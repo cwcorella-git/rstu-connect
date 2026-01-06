@@ -1,3 +1,8 @@
+---
+title: "**Episode 29: Getting To The Depths Of Relevance Realization/**"
+category: "contemporary-analysis"
+---
+
 # **Episode 29: Getting To The Depths Of Relevance Realization/**
 
 **Source:** https://www.meaningcrisis.co/ep-29-awakening-from-the-meaning-crisis-getting-to-the-depthsof-relevance-realization/

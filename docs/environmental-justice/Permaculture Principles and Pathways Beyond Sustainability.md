@@ -1,3 +1,8 @@
+---
+title: "PERMACULTURE"
+category: "environmental-justice"
+---
+
 # PERMACULTURE
 
 ## Principles & Pathways Beyond Sustainability
@@ -115,7 +120,7 @@ o Catch and Store Energy M ake hay while the su n shines
 
 ## ![](_page_9_Picture_4.jpeg)
 
-Θ Obtain <sup>a</sup> Yield You can 't work on an em pty stomach
+Θ Obtain a Yield You can 't work on an em pty stomach
 
 ## ![](_page_9_Picture_6.jpeg)
 
@@ -171,27 +176,99 @@ Vision is not seeing things as they are bu t as they will be
 
 # Contents
 
-| Foreword<br>v |
+| Foreword
+v |
 |------------------------------------------------------------------|
-| Purpose<br>of<br>this<br>Book<br>xi |
-| Preface<br>xv |
-| Introduction<br>xix |
-| Ethical<br>Principles<br>of<br>Permaculture<br>1 |
-| Observe<br>Interact<br>and<br>13 |
-| Catch<br>Store<br>Energy<br>and<br>27 |
-| Obtain<br>Yield<br>55<br>a |
-| Apply<br>Self-regulation<br>Accept<br>and<br>Feedback<br>71 |
-| Value<br>Renewable<br>Resources<br>Services<br>and<br>and<br>Use |
-| Produce<br>Waste<br>No<br>111 |
-| Design<br>from<br>Patterns<br>to<br>Details<br>127 |
-| Integrate<br>Rather<br>than<br>Segregate<br>155 |
-| Small<br>Slow<br>Solutions<br>and<br>Use<br>181 |
-| Value<br>Diversity<br>and<br>Use<br>203 |
-| Value<br>the<br>Marginal<br>Edges<br>and<br>223<br>Use |
-| Creatively<br>to<br>and<br>Respond<br>Change<br>Use<br>239 |
-| Postscript:<br>After<br>September<br>11<br>275 |
-| Selected<br>Bibliography<br>279 |
-## | Index<br>281 |
+| Purpose
+of
+this
+Book
+xi |
+| Preface
+xv |
+| Introduction
+xix |
+| Ethical
+Principles
+of
+Permaculture
+1 |
+| Observe
+Interact
+and
+13 |
+| Catch
+Store
+Energy
+and
+27 |
+| Obtain
+Yield
+55
+a |
+| Apply
+Self-regulation
+Accept
+and
+Feedback
+71 |
+| Value
+Renewable
+Resources
+Services
+and
+and
+Use |
+| Produce
+Waste
+No
+111 |
+| Design
+from
+Patterns
+to
+Details
+127 |
+| Integrate
+Rather
+than
+Segregate
+155 |
+| Small
+Slow
+Solutions
+and
+Use
+181 |
+| Value
+Diversity
+and
+Use
+203 |
+| Value
+the
+Marginal
+Edges
+and
+223
+Use |
+| Creatively
+to
+and
+Respond
+Change
+Use
+239 |
+| Postscript:
+After
+September
+11
+275 |
+| Selected
+Bibliography
+279 |
+## | Index
+281 |
 
 #### List of figures
 
@@ -392,19 +469,19 @@ Permaculture is also a worldwide network and movement of individuals and groups 
 
 Most of the people involved in this movement have com pleted a Permaculture Design Course, which for over 15 years has been the prime vehicle for Permaculture inspiration and training world wide. A curriculum was codified in 1984, but divergent evolution of both the form and the content of these courses, as presented by different permaculture teachers, has produced very varied and localised experiences and understandings of permaculture.
 
-In the early 1990s when I began to teach Design Courses regularly, I used the curriculum as a foundation but I freely adapted the format to emphasise my own understandings, experience and priorities. I also contributed to the discussion and debate within the movement about how permaculture education should develop.<sup>3</sup>
+In the early 1990s when I began to teach Design Courses regularly, I used the curriculum as a foundation but I freely adapted the format to emphasise my own understandings, experience and priorities. I also contributed to the discussion and debate within the movement about how permaculture education should develop.3
 
-The debate about the content of Permaculture Design Courses has become more intense in recent years. Bill Mollison and others<sup>4</sup> have asserted that a failure to adhere to the curriculum, the inclusion of religious beliefs outside the scope of "design science", and a lack of attention to principles and theory is diluting and devaluing some permaculture education. Although I might agree with some of these claims about some courses, I have always found the perception of dilution has to be balanced by the value of diversity even when, like weeds, it comes in forms we don't particularly like.
+The debate about the content of Permaculture Design Courses has become more intense in recent years. Bill Mollison and others4 have asserted that a failure to adhere to the curriculum, the inclusion of religious beliefs outside the scope of "design science", and a lack of attention to principles and theory is diluting and devaluing some permaculture education. Although I might agree with some of these claims about some courses, I have always found the perception of dilution has to be balanced by the value of diversity even when, like weeds, it comes in forms we don't particularly like.
 
 #### Popular conceptions of permaculture
 
-In many countries, only the relatively small numbers of people who have done Permaculture Design Courses, or been closely associated with permaculture projects, are familiar with the concept. In Australia, however, a longer history of permaculture activism and influence within large related environmental movements,<sup>5</sup> as well as extensive media exposure, have resulted in broader public appreciation of permaculture.
+In many countries, only the relatively small numbers of people who have done Permaculture Design Courses, or been closely associated with permaculture projects, are familiar with the concept. In Australia, however, a longer history of permaculture activism and influence within large related environmental movements,5 as well as extensive media exposure, have resulted in broader public appreciation of permaculture.
 
 Popular conceptions of permaculture as a system of gardening or as a counter-cultural lifestyle are both strengths and weaknesses, which provide a context for understanding and appreciation of the ideas in this book.
 
 #### Permaculture as gardening
 
-As a system of gardening, or perhaps even as commonsense, environmentally aware living, permaculture has been accepted by many people in Australian society as a benign activity. The effects of television gardening programs, easy do-it-yourself books<sup>6</sup> and videos, local school projects, community gardens, LETSystems, and its inclusion as an option in horticultural and other tertiary courses, have all contributed to enthusiasm for permaculture.
+As a system of gardening, or perhaps even as commonsense, environmentally aware living, permaculture has been accepted by many people in Australian society as a benign activity. The effects of television gardening programs, easy do-it-yourself books6 and videos, local school projects, community gardens, LETSystems, and its inclusion as an option in horticultural and other tertiary courses, have all contributed to enthusiasm for permaculture.
 
 The process of providing for people's needs in more sustainable ways requires a cultural revolution, but to propose such a step as a prerequisite can alienate people and inhibit productive steps toward personal and social change. Permaculture has avoided some of the obstacles and opposition that revolutionary ideas encounter.
 
@@ -517,17 +594,25 @@ Permaculture principles have an immediacy and relevance to day-to-day life for p
 
 One way to view sustainability is as a set of coherent system priorities. The following table gives a snapshot of a contrast between prevailing industrial culture, which is currently reaching a global climax, and a sustainable culture, which reflects long-range ecological realities. This set of polarised characteristics is inevitably artificial, but it quickly identifies the fundamental and universal nature of the cultural shift to which Permaculture is contributing.
 
-| Characteristic | Industrial<br>culture | Sustainable<br>culture |
+| Characteristic | Industrial
+culture | Sustainable
+culture |
 |-------------------|-----------------------|------------------------|
-| Energy<br>base | Non-renewable | Renewable |
-| Material<br>flows | Linear | Cyclical |
-| Natural<br>assets | Consumption | Storage |
-| Organization | Centralised | Distributed<br>Network |
+| Energy
+base | Non-renewable | Renewable |
+| Material
+flows | Linear | Cyclical |
+| Natural
+assets | Consumption | Storage |
+| Organization | Centralised | Distributed
+Network |
 | Scale | Large | Small |
 | Movement | Fast | Slow |
 | Feedback | Positive | Negative |
 | Focus | Centre | Edge |
-| Activity | Episodic<br>change | Rythmic<br>stability |
+| Activity | Episodic
+change | Rythmic
+stability |
 | Thinking | Reductionist | Wholistic |
 ## | Gender | Masculine | Feminine |
 
@@ -1455,471 +1540,7 @@ In recent years, we have been using soil testing (based on Albrecht methods), re
 - Although wild and indigenous plants are adapted to particular imbalances, all will do well in a balanced soil.
 - The most important soil mineral balance to get right is that between the alkaline mineral nutrients of calcium, magnesium, potassiu m and sodium.
 - Different ways of testing measure balance. Measuring the acidity or pH balance is of som e use but can be very misleading. A balanced soil has a pH of approximately 6.5 but a pH of 6.5 does not necessarily indicate a balanced soil.
-- The ideal soil has the following balance by percentage base saturation:37 calcium 68%, magnesium 12%, potassiu m 2-5% and sodium <1%.
-
-- In clay soils, the balance between calcium and magnesium is the m ost powerful factor in determining how friable and open the soil is to air and water, as well as the ability of the soil to store water, carbon and nutrients. These factors in turn control biological productivity, ease of management, and resistance to erosion and degradation.
-- The balance between calcium and potassiu m is the strongest soil factor in determining how lush or woody vegetation will be.
-- When calcium is relatively high, herbaceous vegetation will tend to be soft, lush, palatable to animals, and broken down rapidly to humus by bacteria. Fruits tend to be sweet and long-keeping.
-- When potassiu m is relatively high, herbaceous plants are fibrous and less palatable to animals, resist breakdown, and fungal decay dominates over bacteria. Fruits ten d to be more acid and do not keep as well; woody plants do well and wood is more durable; forest litter tends to accum ulate as dry fuel rather than rot.
-- Organic matter and com posts made in different ways and with different ingredients vary greatly in their quality as sources of soil fertility. Organic materials produced from a balanced system will maintain that system in balance if carefully recycled. Recycling within an unbalanced system will be successful to varying degrees, dependent on the nature and severity of the underlying imbalances.
-- Fertilising programs to maintain balance are quite different from those necessary to establish balance. Just because a soil fertiliser (organic, rock mineral or artificial) produces a good result does not mean that more will produce a better result.
-
-# Idealism versus Pragmatism?
-
-In practice, it is hard and maybe unwise to completely avoid using the generous energy subsidy that comes with the powerand convenience offossil fuelsfor day-to-day living. Nevertheless, in making use of coal-generated electricity, petrol in the car or lucerne hay (produced with fossilfuelsubsidy) for garden mulch, we should never take these underpriced resourcesfor granted. Instead, we should design oursystems as if these resources were much more highly priced.
-
-At Melliodora, for example, we are connected to mains electricity. Because of the design of the house and our lifestyle, our use, at less than 3 kilowatt hours a day, is less than onefifth of typical household use. The energy-demanding functions of space heating, water heating and cooking are provided with renewable energy (passive solar and wood). With an evaporative cool cupboard, a seasonal diet and low-energy food preservation methods, electricity for refrigeration is more of an extra than an essential service. By buying the slightly more expensive renewable energy tariff, we contribute to stimulating development of renewable sources of energy, but this is less important than our low consu m ption of electricity. Our power needs could be provided by photovoltaic cells and grid feedback electronics, but for the present we can make better use of the money that would be required in developing other aspects of our property. (See Principle 5: Use and Value Renewable Resources and Services for discussion of the merits of solar electric power.)
-
-At one level, this might seem to be simply balancing principle with pragmatism, but I also mention it to counter the view that use of fossil fuels is bad, inefficient and immoral. In fact, fossil fuels are very useful, but they are massively overused and most of the uses to which they are put are destructive or, at best, banal.
-
-An early realisation of the banality of our fossil fuel use occurred to me on a sunny Sunday in Hobart back in 1974. A friend who was an abalone fisherman had invited me out for a jaunt in his powerboat. As we sped down the Derwent estuary chasing seagulls, powered by twin 80-horsepower outboards, I remember thinking that our consumption of energy was far greater than that of the ancient kings. While the actions of the ancient kings had immediate consequences for people and nature, ours appeared to be of no consequence beyond momentary exhilaration (and incremental resource depletion).
-
-Although it is hard to assess the long-term effects of any particular behaviour, in many cases, it is clear that we are wasting our lives and the earth. I remember a discussion with a fellow passenger on a packed business flight from Sydney to Melbourne in 1990 that illustrates this well. I was musing on the balance of values in my air travel from Victoria to Orange NSW, for a two-day workshop of writers of the first Australian postgraduate course in sustainable agriculture.38 The woman next to me was returning from a day trip to Sydney selling desktop com puters to small businesses. Her candid admission that the equipment she was selling was little different from com peting brands made from the same com ponents underlined her perception of the trip as pointless (beyond earning her daily bread). Her master's degree in mathematics only em phasised the waste of human as well as natural resources. The com parison with her trip diverted my attention from my own ethical questions to wondering about the possible value from a whole planeload of Melboume-Sydney business day-trippers.
-
-#### Conclusion
-
-Long-term asset building for the benefit of future generations has been a focus for ethical behaviour down the ages. In a time of rapid change and short-term thinking we need to rebuild the aspect of our culture that em phasises caring for the future, as well as deciding what is worth investing in for the benefit of our grandchildren and descendants. This principle provides a framework for considering what may have value in an uncertain world. On a Permaculture Design Course I was demonstrating form-pruning of box39 eucalypt forest regrowth when I was asked whether it would not be better to let the trees grow crooked and branched so that future generations would not cut them down for timber. My reply was that we needed to consider what future generations would think of us, who, having lived high on the hog of fossil fuel affluence, decided to leave them nothing in the way of high-quality renewable resources because we didn't trust that they would use them wisely.
-
-On another course, a sceptical participant queried this focus on rebuilding stores of energy in forests and other biological resources. He referred to planting of the oak forests by the British to provide tim ber for wooden ships, which they never needed because new energy sources and technology allowed steel to replace wood in shipbuilding. My answer was that, in the unlikely event of a high-technology future where we didn't need natural resources, we would have all these beautiful forests which, like Britain's "ancient" oak forests of today, would be a home for wild nature and an inspiration to the soul. Not a bad result for getting it so wrong.
-
-- 1 See Article 10 "Develop ment of the Permaculture Concept" in David Holmgren: Collected Writings 1978-2000.
-- 2 In ecology, "niche" m eans the role of an organism within its natural environ ment that determines its relations with other organism s an d ensures its survival. The more com m on usages in relation to b usiness and personality derive from this ecological concept.
-- 3 The argu ment th at the oceans could provide vast new resources for hu manity is overstated, being based on a sim ple nu merical equation about the proportion of the earth's surface covered by the oceans. It ignores the facts that m ost of the deep oceans are ecological deserts and th at the energy cost of exploiting mineral resources in the ocean rises exponentially with the depth of water. Alm ost all of the exploitable biological an d mineral resou rces of the sea are in the shallow waters of the continental shelves, where the water is up to hundreds of m etres deep rather than thousan ds.
-- 4 A few other minor biochemical p rocesses allow so m e microbes to collect chemical energy in other ways.
-- 5 Subd uction describes the dragging down of one tectonic plate beneath another.
-- 6 Generally the last 100,000 years.
-- 7 H. Tane, 'The Case For Integrated River Catchm ent Management" Keynote Ad dress, Proceedings of the International Conference on Multiple Land Use and Integrated Catchment Management Macaulay Land Use Research Institute Aberdeen, UK, 1996.
-- 8 Including migrating birds and fish. Eels, salm on and other species of fish th at return from the sea to ancestral spawning grounds are a special case of transfer of valuable minerals from the sea to the top of catch m ent landscapes.
-- 9 Atmosp heric carbon dioxide is the raw material that plants use to create organic carbon com poun ds, starting with sim ple sugars.
-- 10 Although this might seem like sim ply a m atter of sem antics, the dominant corporate strategies for carbon sequestration show all the signs of creating more, rather than fewer, problems; they inclu de proposals for massive monocultural, short-rotation plantations and for pu mping carbon dioxide from power stations un derground.
-- 11 Som e activists within the indigenous ecological restoration m ovem ent have d ubbed perm aculturalists as "biom ass junkies" for placing so m uch im portance on woody plant growth as an ecological good. (For a discussion of a more balanced view of plant biom ass, see "Plant and Animal Biom ass as Indicators of Fertility" in Principle 7: Design from Patterns to Details.)
-- 12. W. Jackson, New Roots for Agriculture Lincoln University of Nebraska Press 1980. For more information abou t the Land Institute and research in perennial grain crops see w ebsite httpT7www.landinstitute.org
-- 13 For excellent docu mentation of "the state of the art" see T. Furuno, The Power of Duck: Integrated Rice and Duck Farming Tagari 2001.
-- 14 Fertile arable soils in the tem perate zones contain over 10% hu m us, while the majority now contain less than 5%
-- 15 Relatively recent advances in soil science are confirming and clarifying the organic principles of plant nutrition an d exposing the conventional solu ble absorption theories as sim plistic or even wrong.
-- 16 See Article 25 "Why Natural Lan dscapes Catch an d Store Water, N utrients and Carbon" in David Holmgren: Collected Writings 1978-2000.
-- 17 Acidity is well recognised as slowing the breakdown of organic matter, but this is more the sym ptom than the cause. A low ratio of calciu m to potassiu m is the more fun damental cause.
-- 18 High-sulphur brown coal is highly polluting when burnt in power stations and furnaces.
-- 19 See book downloadable from Yeom ans web site w ww.yeomansplow.com.au/
-- 20 Charles Walters Jr, (ed.), The Albrecht Papers Acres USA, 1975.
-- 21 Leaching (typically of nitrogen, potassiu m and calciu m) can be accelerated by poor soil structure and loss of nutrient-holding humus, to which mineral im balances are contributing factors.
-
-- 22 Rock p hosp hate is one of the m ost im portant, and severely depleted, mineral resources. In cou ntries where phosphate use has been widespread there are often abu n dant reserves locked up in agricultural soils, which can potentially be released by soil microbes; but in many poorer cou ntries where fertilisers have not been widely used these soil reserves do not exist.
-- 23 See Article 10 "Develop ment of the Permaculture Concept" in David Holmgren. Collected Writings 1978-2000.
-- 24 Eucalypts, casuarinas, acacias and conifers are typical of th ese tim ber trees.
-- 25 For discussion of the relative merits of hem p and trees as fibre crops and the im portance of sustainable forestry to the Permaculture agen da, see Article 17 "Hem p as a Wood Paper Pulp Substitute: Environ mental Solution or Diversion from Su stain able Forestry?" in David Holmgren. Collected Writings 1978-2000.
-- 26 Bill Mollison in the video Bill Mollison The Permaculture Concept: In Grave Danger of Falling Food, Julian Russell and Tony Gailey, ABC Video 1989.
-- 27 Biennials take two seaso n s to prod uce seed an d com plete their life cycle but may be harvested at the vegetative stage after o ne seaso n (eg carrots and cabbages).
-- 28 In Austalia Jude and Michel Fanton of the Seed Savers Network and Clive Blazey of Diggers Seed s have been some of the activist entrepreneurs at the forefront of seed-saving movement. For a valuable and practical guide to seed-saving see M. and J. Fanton, The Seed Savers Handbook The Seed Savers Network 1993. See The Diggers Club website ww w.diggers.com.au and Seed Annual for Clive Bla ze/s uniq ue blen d of environmental cam paigning and integrated marketing. Kent and Diane Whealy, who started the Seed Savers Exchange in Iowa USA, in 1973 were early and contin uing activists in this field. See w ebsite ww w.seedsavers.org
-- 29 Propogules inclu de seed, bulbs, runners, suckers, cuttings, and other vegetative parts of plants ca p able of reproduction. Plants prod uced from seed are often not true to type d ue to cross-pollination. Vegetative (clonal) reproduction is true to type.
-- 30 See L. D Pryor and J. Banks, Trees and Shrubs in Canberra Little Hills Press 1991. An excellent reference book that inclu des the species planted in every Canberra street.
-- 31 Cuttings used for grafting an d bud ding to reprod uce varieties true to type.
-- 32 Cutbacks in state Agriculture Department bu d gets and colla pse of p ublic interest in favour of corporatised goals in the 1980s led to the aban d on m ent of many collections and arboreta of fruit and nut varieties. Without action by individual departm ental officers and private growers, th ese valuable collections would have been lost. The Heritage Fruit Group of Permaculture Melbourne and Permaculture entrepreneurs Jason Alexandra and Marg Mc Neil m anage and maintain o ne of the few remaining p ublic collections of heritage ap ples in Australia at Petty's Orchard in M elbou rne. See report on "Earth beat" ABC Radio N ational http://ww w.abc.net.au/rn/science/earth/stories/s495362.htm
-- 33 The agribusiness m ultinationals, backed by govern ment legislation, have made enorm ous and innovative efforts to control seed su p plies, inclu ding plant patenting and genetic engineering. The battle contin ues.
-- 34 See B. Mollison, Permaculture: A Designers' Manual for an overview of strategies an d tech niques. See D. Holmgren, Trees on the Treeless Plains. Revegetation Manual for the Volcanic Landscapes of Central Victoria Holmgren Design Services 1994, for more detailed designs for tree system s to achieve these ends within existing farming systems.
-- 35 See Article 22 "Energy and Emergy: Revaluing Our World" in David Holmgren: Collected Writings 1978-2000.
-- 36 For further exploration of this su bject, see Article 25 "Why Natural Landscapes Catch an d Store Water, N utrients and Carbon" in David Holmgren. Collected Writings 1978-2000.
-- 37 As calibrated by the Brookside Laboratory in the USA, using percentage base saturation of Total Cation Exchange capacity allows for minor bases 5% and hydrogen 12%.
-- 38 Postgrad uate Diploma of Su stain able Agriculture at Faculty of Rural Management, University of Sydney, Orange NSW.
-- 39 Box eucalypts are slow-growing but yield very hard and d urable tim ber eminently suited to bridge construction and other heavy engineering uses.
-
-# Obtain a Yield
-
-# f a C w \ uo/k- on w ewpfo sfomach
-
-## ![](_page_88_Picture_2.jpeg)
-
-The previous principle, Catch and Store Energy, focused our attention on the need to use existing wealth to make long-term investments in natural capital. But there is no point in attempting to plant a forest for the grandchildren if we haven't got enough to eat today.
-
-This principle reminds us that we should design any system to provide for self-reliance at all levels (including ourselves) by using captured and stored energy effectively to maintain the system and capture more energy. More broadly, flexibility and creativity in finding new ways to obtain a yield will be critical in the transition from growth to descent.
-
-Without immediate and truly useful yields, whatever we design and develop will tend to wither while elements that do generate immediate yield will proliferate. Whether we attribute it to nature, market forces or human greed, systems that most effectively obtain a yield and use it most effectively to meet the needs of survival, tend to prevail over alternatives.1A yield, profit or income functions as a reward that encourages, maintains and/or replicates the system that generated the yield. In this way, successful systems spread. In systems language, these rewards are called positive feedback loops, which amplify the original process or signal. If we are serious about sustainable design solutions, then we must be aiming for rewards that encourage success, growth and replication of those solutions.
-
-The original Permaculture vision promoted by Bill Mollison of growing gardens of food and useful plants rather than useless ornamentals is still an important example of the application of this principle. The icon of the vegetable with a bite taken shows the production of something that gives us an im mediate yield but also reminds us of the other creatures who are attem pting to obtain a yield from our efforts.
-
-# Models from Nature
-
-All organisms and species obtain a yield from their environment adequate to sustain them. Those that fail in this task quickly disappear. There could hardly be a more fundamental lesson from nature, one that reinforces our basic survival instincts.
-
-Darwin's em phasis on com petition and predation as the driving forces in natural selection was based on observation of natural systems, but it was also drawn from Darwin's personal experience of the com petitive ravages of early industrial England which predisposed him to look for similar models in nature. In turn, the Victorian industrial elite used Darwinian ideas to support their social and political views. One hundred years ago the Russian geographer and anarchist, Peter Kropotkin,2 provided a refutation of the social Darwinists with very diverse exam ples of co-operative and symbiotic relationships both in nature and in human history, (see Principle 8: Integrate Rather than Segregate for exploration of this important aspect of Permaculture design.)
-
-In the last two decades of the 20th century, unbridled economic com petition again became the sacred cow of the political mainstream. The misguided and highly selective use of the capitalist ideology of economic com petition should not blind us to a balanced appreciation of the need to obtain a yield and the role of com petition in testing alternative design solutions, processes and systems.
-
-# Benefits of Competition
-
-Competition in nature helps test the vigour and fitness of individual organisms, or a species, for particular conditions. Predation, where it removes the weaker individuals, also contributes to "survival of the fittest". For example, direct seeding to produce dense stands of plants (be it radishes or oak trees) encourages the fastest-growing and most vigorous individuals to prevail. We can help that process along by thinning, as the more vigorous individuals become obvious. By doing so, we are acting as selective predators. Australian graziers who let mismothered lambs die may be seen by som e as callous or lazy, but they are also allowing a positive selection pressure for adequate mothering in their flocks. (See Principle 8: Integrate Rather than Segregate, Principle 10: Use and Value Diversity and Principle 12: Use and Respond to Change for more elaborate ways we can make use of com petition and predation.)
-
-1 n human systems, we understand that comfort and excessive protection from challenges and competition can lead to self-satisfied, lazy and eventually dysfunctional behaviour. We can see this in the raising of children, the evolution of organisations and the history of civilisations.
-
-# Maximum Power Law
-
-The entropic loss of energy as low-grade, waste heat unable to drive any further processes was explained in Principle 2. Catch and Store Energy as an inevitable outcome of energy conversion in all physical processes. This inevitable loss of energy reduces the efficiency of conversion to useful work. The rate of input energy and the efficiency of conversion determine the rate of useful work, or power, produced by any process.
-
-## ![](_page_89_Figure_7.jpeg)
-
-## Figure 10: Maximum powerfor a heat engine
-
-The classic thermodynamic exam ple of efficiency and power of energy conversion is a simple heat engine converting fuel energy to mechanical energy. Figure 10 shows power output against efficiency of conversion for a heat engine using high-quality fuel. If the engine is running free with no load, energy is being consu med but there is no useful work, thus power output and efficiency of conversion are both zero. If the engine is loaded towards the point of stalling, efficiency of conversion approaches 100%, but power output falls to zero when the engine stalls. Maximum power is achieved when maybe half of the energy is being converted into mechanical power and half is being dissipated as waste heat and noise.
-
-While the optimal efficiency for maximum power will vary greatly with the quality of energy used, all biological and self-organising systems show this same basic pattern in the conversion of energy to useful work. Everywhere in nature there is a balance between simply sucking in and dissipating energy for no real purpose, and attempting to get maximum efficiency of energy convesion by squeezing every ounce of possible value out of an energy source. Evolution in nature and innovation in society tend toward this balance between energy dissipation and efficiency of conversion that gives maximum power from any particular process or situation.
-
-#### Consumer versus conserver values
-
-The modern consu mer economy and culture encourage consu mption for its own sake, despite all the talk about efficiency and productivity. This is analogous to the engine running with no load, consu ming energy but doing little of value.
-
-The conservation ethic focuses on attem pting to get maximum efficiency out of every use of natural resources, which is necessary to correct the dysfunctional nature of consumption (see Principle 6: Produce No Waste). However, at the extreme, this approach is analogous to the engine loaded to the point of almost stalling — efficient, but not so useful either.
-
-The application of the Maximum Power Law to complex ecological, let alone human, systems is controversial. Many reasonably argue that the environmental crisis results from the excesses of humanity "obtaining a yield", and that Permaculture and other sustainability concepts are about moderating these excesses in a more long-term self-interest.
-
-The Maximum Power Law may appear to support rampant market capitalism as the most natural and functional evolutionary path for humanity. Although some systems energeticists make this assumption, I see the law as useful in framing a more down-to-earth but wholistic Permaculture design principle. By this principle we recognise that we should design systems and organise our lives so that we obtain a yield in ways that maximise the power of useful work from whatever we do.
-
-The concept of useful work or yield is central to the explanation of maximum power and Permaculture. It is easy to see that mechanical energy is the useful output of an engine and that heat, exhaust gases and noise are useless; but separating the useful from the useless in com plex biological and human systems is more difficult.
-
-Howard Odum gives a list of ways in which all successful and persisting self-organised systems maximise power to meet the needs of survival. They
-
-- develop storages of high-quality energy
-- feed back work from the storages to increase inflows
-
-- recycle materials as needed
-- organise control mechanisms that keep the system adapted and stable
-- set up exchanges with other systems to supply special energy needs
-- contribute useful work to the surrounding environmental systems that helps maintain favourable conditions.
-
-Rather than confirming som e sort of dog-eat-dog world, this list provides abundant scope for including ethical and co-operative behaviour that meets the needs of survival.
-
-It is also encouraging that quantitative analysis of com plex biological and human systems to predict states that represent maximum power is tending to support many of the values embodied in the environment movement and especially Permaculture. (See discussion below about EMERGY accounting.) On the other hand, som etim es these evaluations challenge us to question whether some apparently beneficial processes and designs may exemplify the excessive pursuit of efficiency but not achieve an outcome that is truly useful in a wider sense. (See discussion of biom ass fuels below and solar cells in Principle 5: Use and Value Renewable Resources and Services.)
-
-# Positive Feedback
-
-Positive feedback is a system mechanism that am plifies a process or effect, particularly the harvesting and use of energy. For exam ple:
-
-- in a bushfire, the heat from burning preheats green vegetation, making it more readily combustible; in extreme cases this creates massive updrafts, which suck in more oxygen to feed the conflagration
-- by the use of energy captured from sunlight, plants grow more leaves, which in turn capture more energy.
-
-Landscape change is often driven by positive feedback processes, as occurs when the growth of reeds in a billabong3 slows the water flow and increases sedimentation, leading to more plant growth and a change from creek bed to swamp.
-
-In human society, law, religion and the marketplace work (more or less) to distribute rewards to those who provide the m ost valued outcomes, thus encouraging them to provide more. For example, when we spend money we are providing a strong signal to encourage the production of more apples, cars, massages, or whatever we are buying.
-
-In systems well adapted to their energy base, positive feedback can be thought of as an accelerator to push the system towards freely available energy, while negative feedback is the brake that prevents the system falling into holes of scarcity from overuse. (See Principle 4: Apply Self-regulation and Accept Feedback.)
-
-#### Staple foods and net energy supply
-
-Even in pre-industrial times there was a natural tendency for people to focus their energy and effort on what provided them with their most important yield. Most traditional peasant societies had one or more "staples", high-yielding carbohydrate-rich crops4 which provided that important yield. In energy terms, these crops provided a clear net energy yield. Because the yield was relatively high, investing more work in selection, cultivation, protection and storage of these crops was worthwhile, and thus these areas were a focus of labour and technology. The value of these staple crops was often reflected in cultural and religious practices, such as the worship of maize as a god in pre-Columbian America and the John Barleycorn rituals of pre-industrial Britain.
-
-The net energy gain from staples provided people with the sustenance and thus allowed them to use other important resources that could not provide a net energy return. For example, detailed energy analysis of traditional New Guinea swidden agriculture5 showed very high net energy gains from food gardens, but raising pigs was a net loss in energy terms. However, pigs provided needed protein and important social functions, as well as being linked to localised warfare in an ecologically functional way. This cross-subsidising of important functions from the net energy supply can be seen at all levels in human and natural systems.
-
-Many other yields and passive functions in traditional pre-industrial societies could be obtained with relatively little work or effort from self-regulating semi-wild systems. For example, medicinal herbs, animal fodder and fuels were available from plants on common land that did not require planting, fertilising, watering or much tending except harvesting. These benefits did not require energy subsidies, but neither did they provide a high energy yield. These modest self-maintaining systems were good exam ples of obtaining a yield in ways that are neither com plex nor even obvious. Good design solutions can work so well as to be alm ost invisible.
-
-#### Hardy (self-reliant) species
-
-Hardy and self-reliant species are important in any low-energy sustainable system. By selecting hardy, locally adapted and self-reproducing plants wherever possible, the designer can minimise the resources required to maintain gardens, farms and forests.
-
-These species can be thought of as "self-reliant" or "com petent" in "obtaining a yield". In fact it is their minimal demands, relative efficiency, or associated symbiotic microbes that fix nitrogen or tap locked-up minerals that give them a competitive advantage on poor soils over fertility-dependent species.
-
-Although problems of rampancy of hardy species need to be considered, the obsession with maintaining control in gardens, farms and forests limits our ability to develop systems less dependent on en dless inputs of non-renewable energy and resources. By using only species that do not grow too much or reproduce too freely, we ignore some of the most useful species. Thus the first priority in healthy broadacre farm landscapes, rangelands and forests must be vigorous and self-reproducing plants.
-
-Farm landscapes where there is no need to remove som e tree and shrub growth are generally degrading and dying landscapes. It is easier to remove excess tree and shrub regeneration with fire, grazing animals or machines than it is to plant more trees and natural regeneration generally produces stronger, more adapted stock than planting does. The hardy nature of local indigenous and other Australian native plant species makes them ideal for providing shelter and other functions in unirrigated and unfertilised soils.
-
-The same principles apply to animal husbandry. In Europe, intensive management systems have resulted in breeds of cattle that can no longer give birth without assistance. In Australia, turkeys are bred with breasts so big that the males cannot serve the females, which have to be artificially inseminated. During energy descent, plant and animal species and breeds that require large external input will have been displaced by those more adapted to prevailing conditions.
-
-#### Increasing fertility
-
-While adapting to prevailing conditions by using hardy species is a classic Permaculture strategy, increasing and maintaining fertility in order to grow a wider range of more useful and higher-yielding species is equally important. It is relatively easy in clim ates with adequate moisture (and where grazing animals are excluded) to grow bulk biom ass in grass and trees without increasing fertility. But if our aim is to grow human food, especially on limited areas of land, then high and balanced fertility is essential. Food crops, especially annual field crops and vegetables, are much more demanding of fertility, especially if the yield potential of highly selected varieties is to be realised. Novice gardeners are often surprised that yields from vegetables can vary as much as two orders of magnitude, depending on fertility.6
-
-These apparently opposite strategies for obtaining a yield are always in dynamic tension in Permaculture design, but the conflicts between them are less than they seem at first. Firstly, the area we need to make most fertile to provide a substantial proportion of our food needs is small, so by concentrating our soil-improving activities in gardens and intensive farms we can complement large-scale areas where we adapt to prevailing conditions. (See Zoning in Principle 7. Design from Patterns to Details.)
-
-Secondly, plants that are adapted to low fertility generally grow better with higher fertility, so long as that fertility is balanced. The popular myth that native and other hardy plants dislike fertility can be attributed to cases of:
-
-- unbalanced fertiliser applications (in som e cases resulting in death of mature trees)
-- insect predation attracted by more palatable growth
-- direct competition by fertility-demanding species.
-
-So increasing and balancing soil fertility allows the widest range of species to thrive, although more fertility-demanding (and generally more useful) species will tend to dominate.
-
-## Utilityversus cosmetics in horticulture
-
-The focus in Permaculture One on the cornucopia of useful plants from which we can obtain food and other important yields is an exam ple of the great opportunities in affluent societies to refocus on what is useful. Despite their emotional association with nature, ornamental horticulture and traditional landscape design contribute to resource depletion and simply provide a cosmetic cover over the disharmony and unsustainability of industrially determined environments.
-
-Over the years I have often found visitors to Melliodora are surprised that we have some roses and even lawn, those great icons of ornamental horticulture, and som e local indigenous species that do not produce apparently useful yields. Rather than some begrudging concession to cosmetics and indigenous purity, 1 see these design elements as reflecting a more complex and contextual notion of utility than some people have interpreted from Permaculture.
-
-In the article "Lawns, Mowing and Mulch in Permaculture"7 I give my interpretation of a balanced use of lawns and pasture in Permaculture design. In "The Role of Native Vegetation in Backyard Permaculture",8 I respond to the use of native and indigenous vegetation in gardens as a perhaps more benign example of ornamental horticulture.
-
-## ![](_page_94_Picture_2.jpeg)
-
-While it is important to recognise the value of aesthetic delight and other, hard-to-quantify yields and functions in any system, the culture of affluent consumerism can lead us away from functional and effective design. For example, it may be argued that the noise of a hotted-up motorbike or car driven by a young male is an output that performs the social function of attracting attention and releasing aggression. While this argument may have some merit, a society where people meet sim ple emotional needs in ways like this will not survive long in an era of declining energy.
-
-Permaculture designers can still give priority to fundamental and resource-hungry needs such as food, clean reliable water supply and shelter, while providing complex but passive environmental services (eg. wildlife habitat) and social functions (eg recreation) as byproducts of an integrated design. This contextual and balanced understanding of utility reflects the Maximum Power Law, while acknowledging that we do not live by bread alone. The multi-functional aspect of Permaculture design is explained further in Principle 8: Integrate Rather than Segregate, while my perspective on the role of aesthetics in design is in Principle 7. Design from Patterns to Details.
-
-#### The food production strategy
-
-While the Permaculture strategy of growing our own food may be a step towards appropriate application of this principle, it is how we gain a reward or yield from the strategy that is important. Growing our food can give us aesthetic delight and relaxation, a better understanding of how nature works, a greater sense of security and well-being, and an appreciation of farmers who earn their living growing food, but it is consuming the harvest that provides us with the visceral reward. If we fail to harvest anything that gives us sustenance and enjoyment and buy all our food from the shop, then our permaculturedesigned garden won't last long as a display of ideals. On the other hand, if we enjoy abundant, high-quality harvests, this will sustain us once the novelty has worn off and through the inevitable seasonal ups and downs. If we expose very young children to the delight of foraging food in a garden, they are more likely to grow up with a deep and intuitive understanding of our dependence on nature and its abundance. Despite the distractions of youth, it is also true that those early connections lead to later interest and ease in growing food as adults.
-
-#### Social relationships
-
-If our personal and community relationships are only based on powerful but shifting emotional benefits and we lack the experience of more practical and concrete "yields" , then it is difficult to sustain and strengthen those relationships over the long term. If, on the other hand, we actually depend on our family, friends and relations to maintain the house, fix the car, supply our food and so on, we are more likely to resolve the difficulties that arise in these relationships. This truth is more obvious in rural communities where everyone understands the realities of interdependence.
-
-This principle forces us to becom e more aware of the real sources of our own sustenance and well-being. For peasant people connected to the cycles of life and death, this may be self-evident. In the modern world, complexity, scale and affluence have obscured these sources, making it hard to know if we are better or worse off, and at what cost or benefit to anyone else. In this context, Permaculture can be thought of as "remedial wholistics" that are necessary because of generations of industrial affluence. As a design system, it leads by progressive steps to regaining control over our own sustenance and a realistic rather than romantic understanding of what it means to live with and from nature.
-
-# Timing and Flexibility
-
-In obtaining a yield from any system, timing is critical.
-
-Most natural systems go through phases of growth and accumulation, leading to abundance. Outside the wet tropics, seasonal cycles of hot and cold, wet and dry determine the patterns of seasonal abundance. We need to relearn to match our harvesting activities to these phases of abundance. For the cool-climate food gardener, the autumn surplus and spring scarcity are fundamental realities that determine the organisation of the year's food supply.
-
-It can come as a shock to find that the enormous yield fruit trees can produce in good conditions can all be ripe for eating over one or two weeks and that birds may take the lot the week before you do. In less affluent societies the com petition from other people is often more of an issue.
-
-#### Drip-feed culture
-
-At another level, we can see that the drip-feed culture of weekly wages and weekly shopping is increasingly out of step with economic and social realities. Flexibility, retraining and contract work are progressively replacing the full-time job for life. These changes may be forced on people by institutions dishonestly seeking to escape their previous social responsibilities to provide secure jobs, but this should not blind us to the opportunities to break our dependence on the drip-feed culture that has little chance of surviving the transition to declining energy availability.
-
-This flexibility and openness to opportunity was one of the skills of poverty, which has been lost. In the 1970s 1 remember a friend, who did voluntary work at Hobart's first women's shelter, describing the residents' shock at her extravagance in buying a sack of potatoes for the shelter from a farmer. The residents' notion of frugality was to go the comer store and buy a packet of instant mashed potato for that night's meal. I am sure welfare agencies today are the source of many more bizarre stories about the absence of basic household skills. No-one is as disadvantaged as the poor without the skills of poverty. For many people, Permaculture has provided a framework for a personal transition from conventional, often city-based, em ployment to a more self-reliant, self-em ployed and often rural life, where the ups and downs of opportunities and income are the norm. The fluctuations of seasons, work opportunities and other sources of "income" demand that we design for a high degree of flexibility.
-
-The ability to substitute and adapt recipes to what is seasonally available is a com mon feature of peasant cuisine around the world and is essential if we are to really enjoy the benefits of home-grown food. The jokes about 101 ways to use surplus zucchini show that, although attem pts to moderate the up and downs of yields from natural systems are important, surpluses and gluts can be an incentive to find new and creative ways to obtain a yield.
-
-#### House-building
-
-Owner-builders who change and adapt their house designs as they build in order to take advantage of bargains in second-hand windows, doors and other materials are a good exam ple of the use of flexible design to obtain a yield.
-
-## ![](_page_96_Picture_2.jpeg)
-
-The professional builder buys house-lots of materials for a standard design that has been driven by efficiency in use of labour and (to a lesser extent) materials, and can turn out finished project homes at a surprisingly low cost. However, these business efficiencies depend on a constant supply of precisely specified com ponents, available at a guaranteed price and delivered on time.
-
-#### Just-in-time madness
-
-The progressive elimination of materials inventories because of the "just-in-time" manufacturing strategy shows the extreme pursuit of high efficiency at the cost to selfreliance and flexibility.
-
-In systems theory, the adage that "loose systems last longer and work better" suggests that flexibility can be more important than efficiency. Systems ecology recognises that stable conditions give advantage to highly specialised species, but that changing conditions favour species known as generalists that can adapt to different food, habitat or other factors. Specialisation com es at a cost to flexibility; generalisation comes at a cost to efficiency. In the exam ple of the builders, the owner-builder is the generalist; the professional is the specialist.
-
-Many Permaculture strategies and techniques are generalist in nature, allowing a high degree of flexibility with less em phasis on efficiency.
-
-# Efficient Use of Resources as a Trap
-
-Self-reliance is a generalist strategy, but in self-reliant lifestyle, motivated by environmental ideals, it is still easy to fall into that trap of chasing efficiency in the use of resources to an extent well beyond maximum power. I have personally fallen into this trap many times and see others doing the same.
-
-In com mercial production of fruit and vegetables, large quantities of undersized produce are left unharvested because of the fickle nature of the market and the need to maximise efficiency in the use of labour and machines, rather than the use of produce. The scale of waste on farms can shock even the most hardened economic rationalists when they see it first hand.
-
-By contrast, in the home garden we can make use of undersized produce. But there are limits beyond which more efficient use of produce does not make sense. Harvesting and washing marble-sized potatoes might be something we do once but not again.
-
-Owner-builders visiting a local sawmill often take advantage of off-cuts for all sorts of creative constructions. However, most find there are also limits to how highly we should value the efficient use of a natural resource compared with the investment of skill and time. If our creative constructions are neither functional nor durable, then this apparently efficient use of wood may be misguided.
-
-The balance of efficiency is different in the country from the city and very different in rich and poor countries. At Melliodora we know that millions of people around the world walk miles to collect fuel no better than the great piles of sticks that our goats leave after eating the leaves and bark of the tree fodder we cut for them. We use some of this material as kindling, but the rest we burn in autumn equinox and winter solstice bonfires.
-
-Permaculturalists who are used to constantly looking for creative ways to use the wasted resources of a throw-away society can easily becom e obsessed with collecting more stuff than they can use. We need to remember that degradation from weather and termites, or simply forgetting what we have and where it is stored, can prevent us obtaining a yield. "Scoring" som e amazing cast-off can be exhilarating, but it is only when we make effective use of our find that we have obtained a yield.
-
-## Numeracy
-
-The farmer or business person who keeps com plete financial records and uses them for managing the business might not be considered a typical permaculturalist, but numeracy and accounting skills are important and com plementary to the core observation and design skills (see Principle 1: Observe and Interact). Numeracy and accounting give us measures of yield which allow us to deal with complexity and quickly respond to novel situations and systems. They are critical skills if we are to build systems adapted to energy descent.
-
-Money may not be an adequate measure of value in accounting, but this should not detract from the value of accounting itself. An accountant friend once suggested that accountants were not really the enemies of sustainability, they just needed to be given appropriate numbers to add up. The plague of economic rationality of the late 20th century led to reactions calling for the "triple bottom line" (financial, social and environmental) in corporate accounting. There is a great scramble to find appropriate methods for environmental and social accounting which is likely to accelerate as limited energy supply becom es entrenched.
-
-The failure of financial accounting to effectively consider environmental and social costs has contributed to an undermining of faith in the value of numeracy. This is part of a deeper distrust of science and measuring things as processes to ascertain their value. This more fundamental criticism of numeracy is valid9 but, most of the problems relate to what is being measured and what is being ignored.
-
-Records of the measures of inputs and yields by weight, volume and/or financial cost are useful in managing any garden, farm or household because they com plement memory and qualitative evaluations and provide indicators of success and failure in com plex systems. These sim ple measures are also the base data for more com plex forms of environmental accounting discussed below. Unfortunately measuring and record-keeping take time and energy, but learning is always a costly process.
-
-With the complexity of the modem world where a myriad of cross-subsidies of energy and other factors operate at many levels, it can be hard to know whether we have obtained a yield, and if so, how much. Industrial recycling, pollution control and many other environmental sacred cows may or may not be good ideas, depending on a com plete environmental and social accounting.
-
-# Ecological footprint
-
-One interesting method of environmental accounting that is accessible and useful at the household scale is the Ecological Footprint.
-
-This method converts all consu med resources to a figure representing the area of land required to generate those resources and dispose of the wastes. Like all environmental accounting methods, it depends on calculations using regional or national data and relies on assu m ptions that simplify com plex relationships. It has gone through several cycles of refinement and is being widely applied to measuring the total environmental impact of nations and households.
-
-Comparative figures for all countries are now available. They show a global average of 2.9 hectares of productive land being used to support each person, although only 2.2 hectares are available. In other words, we are eating into natural capital to support humanity. Close to the top in consu m ption are the United States, at 12.2 hectares per person, and Australia, at 8.5 hectares per person.
-
-Using a spreadsheet for calculating household footprint,10 at Melliodora we use 3.1 hectares per person. Besides confirming that it is possible to live in an affluent country and not feel deprived while consu ming little more than one-third the Australian average, the interactive nature of the spreadsheet allowed us to identify the sensitivity of the index to various aspects of our lifestyle and consu m ption patterns.
-
-#### EMERGY accounting
-
-The EMERGY methodology referred to above is an example of a powerful accounting system that has been continuously developed by Howard Odum and colleagues around the world since its beginnings in the late 1960s. It is based on universal energy laws and uses an energy symbol language to describe natural systems. Within the field of energy accounting methodologies, it is the most wholistic but com plex to understand. Unfortunately, few in the scientific community, let alone the public policy arena, are familiar with it. The measures generated by EMERGY stu dies of natural and human systems around the world have provided a major quantitative check in my continuing development and application of Permaculture principles, but I have never developed the skills and resources to do EMERGY evaluations of our own small-scale systems.
-
-The chapter entitled Ethical Principles compared the two systems of accounting, EMERGY and Ecological Footprint, for Costa Rica. (Ecological Footprint analysis suggested the country could sustainably support 80% of its 1987 population at current levels of consumption while EMERGY analysis suggested only 53%). This example illustrates that EMERGY accounting generally provides a deeper level of challenge to current conceptions of sustainability and the im portance of the debate about how to best measure the environment.
-
-Although EMERGY accounting may provide a more severe message about environmental cost accounting than the Ecological Footprint, it also has a positive aspect in that it reorganises our understanding of benefits, redefining what we mean by wealth and work. By redesigning both sides of the ledger, it allows us to better distinguish the differences between productive use of natural resources and wasteful ones, and to identify within any system where the gains and losses are accumulating. My interpretation of EMERGY accounting is that it reinforces the proactive developmental perspective of Permaculture rather than the impact minimisation that lies behind Ecological Footprint accounting and the environmental mainstream.
-
-#### EMERGY yield ratio and replacement time
-
-One application of EMERGY accounting is the calculation of EMERGY yield ratio. This com pares the EMERGY (inherent value) of a resource with the feedback of EMERGY from the economy required to produce that resource. A value greater than 1 indicates a net gain to the economy in EMERGY. A value over 4 is a high-value source that is com parable to many current resources, both non-renewable and renewable, that are fuelling the economy.
-
-## ![](_page_99_Figure_1.jpeg)
-
-| | Biomass<br>fuel | Replacement<br>time<br>(yrs) | EMERGY<br>yield<br>ratio |
-|----|------------------------------------|------------------------------|--------------------------|
-| rf | Rainforest<br>timber,<br>Brazil | 300 | 12.00 |
-| sp | Spruce | 90 | 4.10 |
-| fp | Slash<br>pine,<br>Florida | 25 | 2.40 |
-| e | Eucalypts,<br>Brazil | 7 | 2.20 |
-| nz | Radiata<br>pine,<br>New<br>Zealand | 24 | 2.10 |
-| w | Willow,<br>Sweden | 6 | 1.34 |
-| s | Sugar<br>Cane<br>Alcohol | 1 | 1.10 |
-| c | Corn | 1 | 1.10 |
-## | P | Palm<br>Oil | 1 | 1.06 |
-
-Figure 11:EMERGY yield ratios of biomass fuels as a function of frequency of harvest (after Odum 1996)
-
-Figure 11 com pares the results from EMERGY studies of a range of existing biom ass energy sources in different parts of the world with the replacement time (that is, the time taken for the crop to grow). Annual crops have yield ratios little better than 1, while wood plantations yield 1.5 to 4, and 300-year-old rainforest yields 12.
-
-Perhaps it is not surprising that the more the work is left to nature, the greater the net yield but the longer the time required. It is unfortunate that people down the ages, from Neolithic grain farmers to forestry economists, like the proverbial dog chasing its own tail, have failed to recognise this basic pattern as they look for higher yield from shorter rotations of crops. Thus sometimes the most apparently productive and high-yielding sources of energy involve a lot of activity for little return, while long-term investments, especially in naturally grown forests, provide the greatest value for future generations. While catching and storing energy in these forests, it may be better to rely on (modest) use of fossil fuels rather than allocating fertile farmland to grow intensively managed annual and shortrotation biomass fuels.11
-
-Simple embodied energy evaluations generally show more favourable net energy evaluations for renewable biomass as sources of fuel energy. But that dispute over methods is less important than the patterns revealed by these studies, which all show greater value in slowgrowing, naturally produced biom ass energy sources.
-
-#### Environmental impact evaluation
-
-An early study (1977) of the environmental impacts of a power station on local everglade swamps in Florida illustrates the challenges to conventional environmental protection.12 A power company was using the swamp as a source of cooling water. The environmentalists wanted it to build the concrete and steel cooling towers that typify modern power stations. Odum, a world-renowned expert on the everglade ecology, was asked to consider the impact of the heated water on the lagoon. He estimated that the total biological productivity of 150 acres of swamp had been reduced by 50% (quantified as solar energy not captured). However, he also estim ated that the embodied energy cost of the cooling tower alternative was 100 times greater. This study delayed the construction of the cooling tower by a decade until it was overridden by national policy. The finding in this case may have been one of the reasons that environmentalists have not cham pioned this approach.
-
-Odum also noted that, if the flow of warm water from the power station were not so erratic, the swamp ecology would adapt to this extra energy input and actually increase in biological productivity. Criticism could be made of this approach from both a biodiversity perspective (what if a species went extinct) and a political one (who gains and who loses). More recent develop ment of EMERGY evaluation has began to quantify these factors and they do show that species extinctions, especially of what is known as keystone species, are very costly in EMERGY terms. On the political question, stu dies of development projects in poor countries typically show a gain to the donor country, a loss to the recipient country, and a huge loss to the local area and people who are the supposed beneficiaries. These may be one reason why developers, like environmentalists, have not cham pioned EMERGY evaluations.
-
-## Voluntary frugality
-
-Although an EMERGY yield ratio tells us nothing directly about the sustainability of a particular process, it certainly provides a useful quantification of whether we have obtained a yield. In a slowly evolving low-energy society, time eventually shows what works and com mon sense provides an intuitive grasp of probabilities. While EMERGY evaluations are very com plex and contentious in their implications, I find the results tend to confirm my own evolving Permaculture com mon sense which com es from decades of observing nature and operating from a basis of voluntary frugality. Unlike the real poverty that comes from a sense of no choices and constant self-com parison with the consu m ption standards of society, voluntary frugality allows us to learn to optimise allocation of resources. When we becom e Permaculture jacks-of-all-trades, building houses, gardening and self-reliant as well as being self-employed and involved in community affairs, we have more chance of developing an intuitive sense of the patterns of resource allocation that work. When we work in a personal and business economy that grows organically from its own productivity rather than reliance on substantial debt, we can see these patterns becom e clarified. This constant learning mode works as an accelerated research and development process that accum ulates integrated knowledge.
-
-After three decades of personal com mitment to voluntary frugality I am willing to concede that there are disadvantages in what some describe as a poverty mentality. My personal experience is that the biggest contradiction in this process is that the accumulated knowledge which one develops must always be given a modest value (monetary or otherwise) in smallscale self-reliant systems. Such systems are simply not wealthy enough (in money or EMERGY) to support a top-heavy design and management structure.
-
-On the other hand, those same skills can overview com plex systems and grasp the driving forces and pitfalls that characterise the current transition from growth to descent. These capabilities have im mense value in steering the huge capital and other resources in largescale economic systems towards better outcomes.
-
-Having seen a number of self-educated Permaculture colleagues move from small-scale self-reliance to relatively highly paid work informing and directing larger organisational systems, 1 am convinced that Permaculture thinking and practice are one of the most efficient ways to develop the skills to direct large-scale systems to more appropriate and humane ends.
-
-# The Problems of Success
-
-There is little doubt that obtaining a yield represents a structural dilemma for a transition to energy descent. If maximum power is an energy law governing all self-organising systems, then systems that yield the most (perhaps best measured as EMERGY) will continue to prevail. But the pattern of successful systems must shift from dependence on high and opportunistic yields from non-renewable resources to using low and sustained yields from renewable resources. The challenge to reconfigure success around declining energy is fundamental. It is tricky to determine how we (individually and collectively) can obtain a yield and reproduce our successes without creating more demand than is sustainable.
-
-In systems modelling of sustainable transition, this phenomenon is described as "rebound". Design and behaviour changes that result in energy and resource savings tend to be immediately spent or invested in other sectors of the economy which further stim ulates demand for energy and resources. This phenomenon was first pointed out to me by a colleague who had spent decades helping friends reduce their energy consu mption with the purchase, modification and construction of energy-efficient technology. He had observed that his friends now drove their energy-efficient cars further and his sister's savings on electricity and gas for her new passive solar house gave her the money for an airfare to Europe.
-
-The transition from Permaculture self-reliance and small business to large organisational roles mentioned previously presents similar structural dilem mas and pitfalls. Creative, ethically driven people in large organisations tend to be co-opted and corrupted by the large-system forces within which they must work. The roles allocated to even the most powerful allow far less wholistic and integrated action than is possible at the personal level. Quality of change is traded-in for quantity of influence. When thinking and activity are highly focused around very specific, limited and conventionally measured outcomes, the degradation in quality is greatest.
-
-# Solutions to the Problems of Success
-
-It is easy to see why systems that are under pressure to shift from high to low energy sources tend to do so by crashing and rebuilding. In order to bypass this path to the lowenergy future, we must integrate into our thinking the apparent paradox between the abundance and the limits of nature referred to in the third ethical principle. We must transform ourselves so that we are happy, healthy and comfortable without the need to consume the planet and the future. Howard and Elizabeth Odum speak of the need to conceptualise the transition to an economy and society based on declining energy as "a prosperous road down".13
-
-To some extent these problems can be dealt with by the progressively more wholistic approach embodied in the wholistic learning loop (see Principle 1: Observe and Interact). Where success in meeting one environmental objective leads to stim ulation of other networked and progressively more integrated low-energy alternatives, the rebound from those successes can reconfigure the economy and society while decreasing the total demand for resources. For example, when the money saved from the more energy-efficient car or house is put into an ethical investment or spent buying local organic produce or employing a neighbour, then the adverse rebound effects will be reduced.
-
-Further, the large-scale systems of intensive energy demand need only be starved of a small proportion of sales before they are forced to reduce production. When purchasing technology produced by large-scale systems such as cars and computers, second-hand goods are often better value and dilute the feedback of demand for new goods (also see Principle 4: Apply Self-regulation and Accept Feedback and Principle 8: Integrate Rather than Segregate).
-
-### Conclusion
-
-The early vision of Permaculture reclaiming the delusional ornamental landscapes of suburbia to create an abundant support base for its inhabitants has not eventuated to any great extent. However, that vision can also be taken as a meta-model for a larger and deeper process of change: from dependent and demanding consu mers to interdependent and responsible producers. A global consensus about the reality of energy transition and descent necessary for constructive top-down change could emerge remarkably quickly in an electronically networked world. Permaculture is for those who already understand or sense the reality of transition and descent and want to give practical and integrated expression to that reality, whether the rest of society is ready or not to do so.
-
-By paying constant attention to our successes and failures in design to obtain a yield and judging how close those designs are to maximum power for ourselves, our com m unities and the earth, we can resist both subsidised delusions of efficiency and rampant disregard for what we are consuming.
-
-- 1 This is a rephrasing of Lotka's Maximum Power Principle. Howard Od um has suggested the Maxim um Power Principle (or at least his EMERGY-based version of it) should be recognised as another Energy Law.
-- 2 P. Kropotkin, Mutual Aid Heinem ann 1902.
-- 3 Creek anabranch.
-- 4 TVpically grains or tubers, but in so m e cases tree crops such as chestn u ts or acom s. For a perspective on tree crops as staples s e e ). Russell-Smith, Tree Crops: A Permanent Agriculture Devin-Adair 1953. For my hypothesis on the reason for the decline of tree crop sta ples in favour of grains and other ann uals, see Article 6 "Historical Precedents for Permaculture" in David Holmgren: Collected Writings 1978-2000.
-- 5 R. A. Rappaport, 'The Flow of Energy in an Agricultural Society" in Biology and Culture in Modem Perspective: Readingsfrom Scientific American W. H. Freeman & Co. 1972.
-- 6 For exam ple, a to m ato plant grown in poor central Victorian bush soil with ad eq u ate water and nothing to improve the fertility may yield less than 100 grams of fruit, while high-yielding plants in perfect con ditions can bear 100 tim es this (10 kilograms).
-- 7 Article 11 in David Holmgren: Collected Writings 1978-2000.
-- 8 Article 18 in David Holmgren: Collected Writings 1978-2000.
-- 9 See J. Ralston-Saul, Voltaire's Bastards: The Dictatorship of Reason in the West for an excellent historical overview of the problems of rational m anagem ent in m odem society.
-- 10 Downloaded from Redefining Progress w ebsite http://www.rprogress.org/
-- 1 1 1 put this perspective in a submission to a 1983 draft report on bio m ass fuels by the Victorian Solar Energy Council but received no response or acknowledgement. The report suggested that Victoria could be prod ucing 10% of its liquid fuel needs by 2000 from root crops grown in northern Victorian irrigation districts. In my submission I referred to a New Zealand stu dy showing low EMERGY yield ratios for fuel alcohol crops and suggested a set of environmental im pacts of the proposed prod uction system s that ap peared to have been ignored.
-- 12 See H. T. Odum, Environmental Accounting·. EMERGY and Environmental Decision Making Wiley 1996, p. 160.
-- 13 The most recent book by Howard and Elizabeth Odum, A Prosperous Way Down: Principles and Policies Wiley 2001, is a readable and timely explanation for the lay reader of th e EMERGY concep ts and im plications of energy transition for the economy, society an d culture. It u p dates their much earlier, easily accessible text Energy Basis for Man and Nature Mc Graw-Hill 1979. Although I have never had any corresp on dence with the Od ums, and the manuscript of this book was largely com plete before the p ublication of A Prosperous Way Down, the com m on understandings informing the two are clear. The strategic difference in ou r resp onses to the reality of transition is the Odums' em p hasis on top-dow n cultural and p ublic policy change directed at a m ainstream au dience. Permaculture has historically focused on p ushing the bou n daries of innovative change at the cultural fringe and putting in place real but m o d est m odels of living from nature's abu n dance.
-
-# Apply Self-regulation and Accept Feedback
-
-'fh&.strts of ike -frihe/s ctfe i/zs/Wov Jfae- childvew ΐλτάο we seventh ^ene/\*&ion
-
-## ![](_page_104_Picture_2.jpeg)
-
-This principle deals with self-regulatory aspects of Permaculture design that limit or discourage inappropriate growth or behaviour. With better understanding of how positive and negative feedbacks work in nature, we can design systems that are more self-regulating, thus reducing the work involved in repeated and harsh corrective management.
-
-Feedback is a systems concept that came into com mon use through electronic engineering.1 Principle 3: Obtain a Yield described the feedback of energy from storages to help get more energy, an exam ple of positive feedback. This can be thought of as an accelerator to push the system towards freely available energy. Similarly, negative feedback is the brake that prevents the system falling into holes of scarcity and instability from overuse or misuse of energy. Organisms and individuals adapt to the negative feedback from large-scale systems of nature and community by developing self-regulation to pre-empt and avoid the harsher consequence of external negative feedback.
-
-Self-maintaining and regulating systems might be said to be the Holy Grail of Permaculture: an ideal that we strive for but might never fully achieve.
-
-Traditional societies recognised that external negative feedback effects are often slow to emerge. People needed explanations and warnings, such as "the sins of the fathers are visited on the children unto the seventh generation" and "laws of karma which operate in a world of reincarnated souls".
-
-In modern society, we take for granted an enormous degree of dependence on large-scale, often remote, systems for provision of our needs, while expecting a huge degree of freedom in what we do without external control. In a sense, our whole society is like a teenager who wants to have it all, have it now, without consequences.
-
-Much of the ecologically dysfunctional aspects of our systems result from this denial of the need for self-regulation and feedback systems that control inappropriate behaviour by simply delivering the consequences of that behaviour back to us. John Lennon's song "Instant Karma" suggests that we will reap what we sow much faster than we think. The speed of change and increasing connectivity of globalisation may be the realisation of this vision.
-
-The Gaia hypothesis of the earth as a self-regulating system, analogous to a living organism, makes the whole earth a suitable image to represent this principle. Scientific evidence of the Earth's remarkable homeostasis over hundreds of millions of years highlights the earth as the archetypical self-regulating whole system, which stimulated the evolution, and nurtures the continuity, of its constituent lifeforms and subsystems.2
-
-# Nurture and Control in Nature
-
-Systems theory, systems ecology and earth system science in the late 20th century provided evidence that higher-order "intelligence", in some form, is a universal characteristic of self-organising systems, even if those forms are more loose, contingent and free-flowing than those in an organism constrained by genetic inheritance.
-
-Ecosystems provide for the survival and health of their member species by maintaining an environment that is, overall, beneficial and nurturing. Specific positive feedback from species high in the food chain encourages the life of species lower in the chain. For example, birds that eat berry fruits spread the seeds, which pass through their digestive systems unaffected (in a nice package of fertiliser). Grazing by animals helps maintain many grassland plants against ecological succession to forest.
-
-Thinking of a nursing mother feeding her baby can bring home the image of nature as a nurturing mother. The baby sucking at the breast can be seen as a classic exam ple of behaviour to Obtain a Yield: the sucking stim ulates milk flow, while the mother provides both a nurturing and protective environment, as well as the essential sustenance which is a direct reward and positive feedback to the baby. In essence, this is the relationship of all organisms to earth and, to a lesser degree, to the ecosystems on which they depend. While the baby's dependence on the mother is total, over time a degree of self-reliance and eventually self-regulation emerges as the child develops.
-
-As well as the positive nurturing feedbacks, negative feedback mechanisms act to constrain or control the parts of a system. In ecosystems, predators, pests and diseases meet their own needs of survival by controlling and regulating particular species or populations, but they also provide a service to the ecosystem as a whole by contributing to a healthy and functional balance. These negative feedback control mechanisms regulate, rather than destroy, the species predated or parasitised. They are everywhere we look in the natural world. In the human world, parents exercise negative feedback controls over the behaviour of child (hopefully in the child's long-term interest).
-
-There is an inherent design tension between autonomy and higher-order system control. Each cell, organism and population is as self-reliant as possible. This self-reliance at the smallest practical scale provides benefits to the large-scale system. For instance:
-
-- internal selection for maximum power in the cellular parts contributes to the general fitness of the larger system
-- the failure of some of the cellular parts due to external stress does not adversely affect the resilience of the larger system. (For further discussion of cellular design see Principle 7: Design from Patterns to Details.)
-
-On the other hand, cells within an organism that grow and reproduce without control can be fatal for the organism. We call this cancer. Similarly, at all levels of nature, including ecosystems and the living planet, the larger system controls its constituent parts for the good of that system.
-
-We can think of a hierarchy of large-scale system controls that flow back down the energy hierarchy to constrain the exuberant and prolific life of smaller-scale systems. The largescale system controls are relatively harsh, and at times destructive. For example, natural disasters, predators and parasites control plant and animal populations.
-
-Most dramatically, the Gaia hypothesis has given us a scientific renewal of the idea of the earth as a nurturing mother who maintains favourable conditions for the diversity and renewal of life, but is ruthlessly harsh to individual species, and even whole ecosystems, in maintaining that balance. Many biologists are reluctant to accept the idea of any higherorder control beyond the organism level. I see this reluctance as reflecting the Cartesian mechanistic worldview, which most physicists have long since abandoned. Perhaps this reluctance is partly driven by a fear of the re-emergence of a spiritual wholism to explain nature.3
-
-It is ironical that the life sciences are the last to discard this view and accept that higher-order system control operates at all levels in nature. In general, I have found systems thinkers in the fields of organisational and business management, computer science and engineering regularly use biological metaphors and models to explain systems concepts and are incredulous at the idea that biologists might not accept the reality of higher-order system control.
-
-# Self-regulation
-
-One of the most important evolutionary responses of organisms to higher-order control is to develop internal self-regulation mechanisms, which control excessive growth or inappropriate behaviour before the harsher higher-order controls come into effect. For example, in a dam or pond the growth of fish and crustaceans is suppressed by their own wastes. This decreases the likelihood of disease or starvation killing all the fish. Kangaroos and other marsupial herbivores can respond to seasonal conditions by slowing the development of embryos, and so (at least partially) regulate their numbers before poor feed favours diseases and predator control.
-
-Traditional societies had social and ethical constraints on population growth and resource use, which allowed com m unities and culture to persist over long periods without destroying the environment. This is a good exam ple of self-regulation in human systems. I believe these self-controlling aspects of human culture, rather than the expansion of technology for resource exploitation and growth, represent the highest evolutionary development achieved by Homo sapiens. The ways in which we apply these abilities to controlling the excesses of growth and expansion over the next century will be the greatest test of our evolutionary sophistication.
-
-# Tripartite Altruism
-
-Another way of thinking about this issue is to look at how any organism or population divides and allocates its available energy. Howard Odum has described a "tripartite altruism" in nature: approximately one-third of captured energy is required for metabolic self-maintenance (of an individual or population); one-third is fed back to maintain lowerorder system providers; and one-third is contributed upward to higher-order system controllers. Figure 12 illustrates this using Odum's energy circuit language.
-
-The behaviour of rabbits provides a sim ple example. Rabbits eat grass to live, grow and reproduce. Their manure fertilises the grass that feeds them, and the "sacrifice" of weak rabbits to predators helps keep the population fit and in balance. If these feedback mechanisms fail, the rabbit population will suffer. For example, if the rabbits deposit most of their manure under adjacent brambles in the process of avoiding predators, they may be progressively eliminated, both by overpopulation leading to overgrazing of a declining pasture and by the growth of fertilised brambles shading out their pasture food.
-
-## ![](_page_107_Figure_1.jpeg)
-
-Figure 12: Tripartite altruism for distribution of available energy (after Odum 1983)
-
-# Nurturing, Negative Feedback and Self-Regulation in Managed Systems
-
-As designers and developers of gardens and other productive systems, we can see our role as analogous to the nursing mother in a number of ways.
-
-- In the early establishment phase, gardens are totally dependent on our care and attention. For example, newly planted trees must be protected from browsing animals and may require weed control, water and fertiliser to get started.
-- The designer/manager who appears to be all-powerful, like the nursing mother, acts without being able to control or even understand all the factors that might impact on the garden.
-- If the design is effective, the garden becomes progressively more self-reliant and less dependent on our care, although like a young child it may require intervention at times to save it from external and internal danger.
-- If our design and care are truly inspired, the garden, as well as becoming more robust, will develop a degree of self-regulation and balance analogous to children growing through adolescence to be responsible adults.
-
-As in the development of children, a myriad of circumstances, as well as the inherent potential of the site, will create a garden that is unique and differs from our plans and specific hopes.
-
-In any managed natural system, especially on a large scale, much of the work of management is not making sure that plants and animals grow and reproduce but preventing excessive and inappropriate growth and reproduction. For example, using goats to control rangeland weeds or human work to thin dense stands of forest trees provides negative feedback to keep the system balanced. Even in the garden, much of the work we do is not planting, but removing or cutting back unwanted growth.
-
-As indicated in Principle 3: Obtain a Yield, by making use of wild, hardy and self-reproducing species, we can avoid the need for high levels of inputs to maintain growth and reproduction, and so focus our intelligence and efforts on harvesting and controlling excess growth (preferably as another yield).
-
-Failures in our efforts to obtain a yield are useful if we pay attention and learn in the ways described in Principle 1: Observe and Interact. If we believe our system or strategy is sound in principle, then we may need to invest more effort or resources to ensure it does eventually yield results. However, more work (such as weeding) or more resources (such as water) are not always the best response. Failure can alert us to a flaw in what we are doing. For example, if we harvest a little from our garden in the growing season and then go to the shop for the rest of the year, we might never notice that our produce doesn't keep in storage. Seeing all your pumpkins or garlic rot can be very discouraging, but it can help you to recognise the link to im balances in soil minerals or other subtle factors and provide the spur to get it right.
-
-The process of attem pting to obtain a yield can also create long-term problems. If we have ways of responding to these problems, we can correct or adjust the system to make it more efficient or stable. For instance, if we grow a woodlot to supply our firewood, wasteful use will have an obvious negative impact. If, on the other hand, we buy firewood, we might never consider how much forest or woodlot is required to provide for our heating. If we get our heating at the flick of a switch and don't pay the real cost of power, then the impacts of our choices (such as global warming) will seem remote and abstract.
-
-If we live a typical modem urban lifestyle, where electricity, water, salary, and so on arrive in a remote way, it is often hard to know when we are making unacceptable use of or exploiting com mon resources, whether water supply, peace and quiet, or the honesty of our neighbours. The market and the law are the main mechanisms for providing negative feedback, but these are often crude or ineffective for many social and environmental issues. In smaller com m unities, particularly rural ones, more intimate social mechanisms exist for giving us the signals for an appropriate level or time for the "harvesting'' of com mon resources, be they physical or conceptual. For exam ple construction of dams on small catchment gullies can lead to conflicts between neighbouring farmers but casual social interaction in the pub, volunteer fire brigade or sporting club at least allows the neighbours to understand each other's view. The more we come to depend on our own and local resources, the more likely we are to recognise problems, and institute corrective behaviours to deal with them.
-
-The tripartite distribution of energy can be used to understand how relationships will naturally develop as a system goes through its own co-evolution, as well as to guide conscious design of systems. Perhaps most importantly, it can be used to guide our own allocation of personal, family or organisational resources.
-
-Thus the first priority is to survive (obtain a yield from captured energy), while the second is to pay for what we get in some way that helps maintain the future flow of energy. The third, is to contribute in some other way and direction, to the widersystem, rather than seeing our own survival as an end in itself. For example, food gardeners provide for themselves and their families through harvesting, while they "pay" for the harvested food with additional work to plant, weed, water, fertilise and otherwise maintain the plants to ensure future harvests. Som e of the surplus food and seed might be given away to promote goodwill, to support those in need, and to maintain a seed-saving network.
-
-In designing gardens and other food-producing systems, this principle suggests that we should, to the greatest extent possible, choose and organise elements, both plants and animals, that provide for their own needs, rather than being dependent on constant inputs. Deep-rooted plants that can draw on deep soil moisture, rather than shallowrooted ones, are an example. If these plants help break open the subsoil layers, they contribute to maintaining or improving soil moisture by allowing better infiltration of rainfall. If they also provide food or some other yield to domestic animals, or us then we have both self-regulation and methods of control and balance through harvesting. For instance, dock grown in wet clay soils and eaten by goats or daikon radish for human consu m ption both help to break up subsoils and could be said to be feeding back energy to lower-order system providers (the soil). In providing a yield, they are contributing to the maintenance of higher-order system controllers (animals or people), which in turn maintain an environment favourable for the plant.
-
-In modem economies people "earn a living" in diverse ways — salaried work, welfare, business, speculation. They use this money to pay for goods and services, since they have nothing directly useful to give the producers or suppliers; and in the process, they pay som e of that money in taxation to ensure the wider society that they depend on continues to function. All these exam ples broadly reflect Odum's tripartite altruism. The modern economy, despite its complexity, fails to provide critically important feedback signals to ensure appropriate behaviour to decide important questions. For instance:
-
-- how much is enough to consu me? (When should the rabbit stop eating? How big a house do we really need?)
-- how much work is enough? (How many vegetables is it sensible for one gardener to produce? How many hours do we really need to work?)
-- how should we pay and how do we measure it? (What should the real price be? Do markets fail to provide correct information about values?)
-- what should we contribute to the greater good? (Is paying tax, working for com munity groups etc., useful or sufficient? If not, what else should we do?)
-
-With the progressive breakdown of many traditional and institutional functions, each person needs to consider how to answer these questions, since the current social and economic structures are clearly failing to provide appropriate and credible feedback and guidance. One example of the application of these concepts is to allocate one-third of our time to providing for our material needs, one-third to self-development and reflection, and one-third to wider societal benefit.
-
-## Energy Hierarchy
-
-In nature and in low-energy pre-industrial societies, tripartite altruism is set into hierarchical structures illustrated in Figure 7. Those at the start of the energy chain (producers) are numerous but have little individual power, while those at the end of the chain (consumers) are less numerous but more powerful.
-
-The trophic (food) pyramid in Figure 13 is another way to illustrate these relationships, where each level of the pyramid is founded and dependent on the level below. All levels are functional and complementary; none is more important than another, but individual organisms and people (as opposed to the whole group) at the lower levels have less influence and power than individuals at the higher levels.
-
-## ![](_page_110_Figure_2.jpeg)
-
-Figure 13: Trophic pyramid model of ecosystems and traditional societies
-
-The saying "too many chiefs and not enough Indians" refers to an imbalance in this traditional organisational structure. Industrial energy and affluence have made this imbalance possible on a grand scale because energy slaves<sup>4</sup> (plus lots of almost-slaves in poor countries) support everyone. Transition from growth to descent requires that we rebuild the trophic pyramid to suit local energy realities and social justice.
+- The ideal soil has the following balance by percentage base saturation:37 calcium 68%, magnesium 12%, potassiu m 2-5% and sodium 4 (plus lots of almost-slaves in poor countries) support everyone. Transition from growth to descent requires that we rebuild the trophic pyramid to suit local energy realities and social justice.
 
 Figure 14 shows the energy hierarchy as a hyperbolic curve with the abundant producers on the left and the less common consumers on the right. In contrast, industrialisation has created a great bulge of middle-class consumers with manual labourers becoming almost as few as the elite. This "normal distribution curve" has come to dominate our thinking about what we believe is a natural social structure. The evidence of nature and history reveal its novelty. We can think of the middle-class as a bulge in the low-energy curve created by the pulse of fossil fuel energy moving up the hierarchy.
 
@@ -2743,10 +2364,14 @@ Although the wineglass model shows a staggering imbalance of measured economic w
 
 Figure 17: Wineglass model of (measured) global economic activity quite so extreme. Poor rural people often still have access to relatively more of these unmeasured goods and services (through subsistence agriculture, hunting, etc.), although these sources of unmeasured wealth are diminishing rapidly. EMERGY evaluations of nations give a more realistic measure of real wealth. Although it is not directly com parable to the data for the wineglass model because it measures whole countries, the following table of EMERGY use per person per year paints a more realistic picture of the real wealth circulating in selected countries.
 
-| Country | Per<br>person<br>EMERGY<br>use* |
+| Country | Per
+person
+EMERGY
+use* |
 |------------------|---------------------------------|
 | India | 1 |
-| World<br>average | 6 |
+| World
+average | 6 |
 | Brazil | 15 |
 | USA | 29 |
 ## | Australia | 59 |
@@ -3224,7 +2849,7 @@ Just because Permaculture em phasises ecological and human scale functionalism d
 
 # Integrate Rather than Segregate
 
-<sup>M</sup> <sup>a</sup> <sup>w</sup> j liM work-
+M a w j liM work-
 
 ## ![](_page_188_Picture_2.jpeg)
 
@@ -4122,7 +3747,7 @@ When an adolescent sense of immortality and values ofspeed, novelty and endless 
 
 # Use and Value Diversity
 
-# <sup>J</sup> W pwf· <sup>I</sup> you/ i n o\*\e
+# J W pwf· I you/ i n o\*\e
 
 ## ![](_page_236_Picture_2.jpeg)
 
@@ -4507,7 +4132,7 @@ In accepting this situation, we are back to the third ethic: recognising diversi
 
 # Use Edges and Value the Marginal
 
-JWf "t Wk- yotA We οιλ fb& /i «At jvax Jc-<sup>J</sup> <sup>m</sup> <sup>s</sup> <sup>+</sup> bec(\i Ai& it is \* well be\*d&np\*itk
+JWf "t Wk- yotA We οιλ fb& /i «At jvax Jc-J m s + bec(\i Ai& it is \* well be\*d&np\*itk
 
 ## ![](_page_256_Picture_2.jpeg)
 
@@ -5607,7 +5232,8 @@ Yeomans, P A Water For Every Farm Murray Books 1965. Technical details an d resu
 | Corsica, chestnut forests 132 | dingo 105 | electricity 98 |
 | counterculture, as marginal system 237 | diversity as cultural maintenance 207 | elements and functions 155 |
 | | | Emergence 265 |
-| Country Fire Authority, Victorian 88 cows, milking 196 | as form of abundance 221 | EMERGY 9, 47,<br>environmental 67 |
+| Country Fire Authority, Victorian 88 cows, milking 196 | as form of abundance 221 | EMERGY 9, 47,
+environmental 67 |
 | Criteria for Using Renewable | balance with productivity 204 genetic 206 | evaluation 45, 275 |
 | Resources 94 | herbivores and carnivores 204 | evaluation of solar cells 96 |
 | crop breeding, hardiness 208 | in communites 219 | |
@@ -5642,7 +5268,8 @@ Yeomans, P A Water For Every Farm Murray Books 1965. Technical details an d resu
 | Darwinian evolution, limitations of | Ecological Models of Succession | as a source of change 242 |
 | selection 215 | 244 | environmental |
 | Darwinists, social 55 | Economic and Social Diversity 217 | engineering 107 |
-| David Holmgren: Collected Writings | Economic and Social Succession | technology 108<br>erosion, gully 249 |
+| David Holmgren: Collected Writings | Economic and Social Succession | technology 108
+erosion, gully 249 |
 | iix | 255 | Ethical Constraints on Size 185 |
 | De Bono, Edward xxvi | economics, Keynesian 256 | ethical investment 47 |
 | deciduous and evergreen trees 134 | Ecosynthesis 261 | ethics, Care of the Earth 215 |
@@ -5680,7 +5307,7 @@ Yeomans, P A Water For Every Farm Murray Books 1965. Technical details an d resu
 | with pastures 161 food as marginal systems 233 fast 189 fermentation cultures 210 forest succession 253 gardeners 75 production strategy 61 skilled growers 212 slow 197 staple 58 waste 114 food chain 29, 205 Food Forest, bettongs 216 food forests, historical warfare 242 forestry analogue 133 long rotation 194 models of diversity and culling 215 shelterbelt 231 short rotation 194 small-scale 105 softwood growth rates 195 forests as models for agriculture 132 Barmah red gum 148 catchment 146 climax deciduous 245 deciduous 135 long-rotation mixed 42 measures of sovereign wealth 194 mixed rain and wet sclerophyll as a sagriculture 212 no-dig 253 Integration in Nature 156 Interact with Care, Creativity and Efficiency 14 interraction 216 Interaction in Nature 156 Integration in Nature 156 Interaction in Nature 156 Interaction in Nature 156 Interaction in Nature 156 Interaction in Nature 156 Interaction in Nature 156 Interaction in Nature 156 Interaction in Nature 156 Interaction in Nature 156 Interaction in Nature 156 Interaction in Nature 156 Interaction in Nature 156 Interaction in Nature 156 Interaction in Nature 156 Interaction in Nature 156 Interaction in Nature 156 Interaction in Nature 156 Interaction in Nature 156 Interaction in Nature 156 Interaction in Nature 156 Interaction in Nature 156 Interaction in Nature 156 Interaction in Nature 156 Interaction in Nature 156 Interaction in Nature 156 Interaction in Nature 156 Interaction in Nature 156 Interaction in Statey 41 interaction in Nature 156 Interaction in Nature 156 Interaction in Nature 156 Interaction in Nature 152 Interaction in Nature 156 Interaction in Nature 156 Interaction in Statey 42 Interact with Care, Creativity and Efficiency 14 interaction 194 Interaction 16 Interact with Care, Creativity and Efficiency 14 Interaction 194 Interact with Care, Creativity and Efficiency 14 Interaction 16 Interaction 194 Interact with Care, Creativity and Efficiency 14 Interaction 16 Interaction 194 Interaction 194 Interaction 17 Interaction 194 Interaction 194 I | flexibility, in the face of change 242 | | | |
 | food as marginal systems 233 fast 189 fermentation cultures 210 forest succession 253 gardeners 75 gardeners 75 groduction strategy 61 skilled growers 212 slow 197 210 food chain 29, 205 food forests, historical warfare 242 forestry analogue 133 long rotation 194 models of diversity and culling 215 shelterbelt 231 short rotation 194 small-scale 105 softwood growth rates 195 forests as models for agriculture 132 Barmah red gum 148 catchment 146 climax deciduous 245 deciduous 135 long-rotation mixed 42 measures of sovereign wealth 194 mixed rain and wet sclerophyll mixed rain and wet sclerophyll mixed rain and wet sclerophyll regulation in 163 segregation in 163 segregation in 163 sheter-mulc 253 cender Balance and Sustainability sheet-mulch 253 cender Balance and Sustainability and cender Balance and Sustainability and cender Balance and Sustainability and cender Balance and Sustainability and cender Balance and Sustainability and cender Balance and Sustainability and cender Balance and Sustainability and cender Balance and Sustainability and cender Balance and Sustainability and cender Balance and Sustainability and cender Balance and Sustainability and cender Balance and Sustainability and cender Balance and Sustainability and cender Balance and Sustainability and cender Balance and Sustainability and cender Balance and Sustainability and cender Balance and Sustainability and cender Balance and Sustainability and cender Balance and Sustainability and cender Balance and Sustainability and cender Balance and Sustainability and fefficiency 14 interrediate technology, criteria interrediate technology, criteria interrediate technology, criteria interrediate technology, criteria interrediate technology, criteria interrediate technology, criteria interrediate technology, criteria interrediate technology, criteria interrediate technology, criteria interrediate technology, criteria interrediate technology, criteria interrediate technology, criteria interrediate technology, criteria interrediate technology, criteria | | | destructive 172 | |
 | as marginal systems 233 fast 189 fermentation cultures 210 forest succession 253 gardeners 75 production strategy 61 skilled growers 212 slow 197 staple 58 waste 114 food chain 29, 205 Food Forest, bettongs 216 food forests, historical warfare 242 forestry analogue 133 long rotation 194 models of diversity and culling 215 shelterbelt 231 short rotation 194 small-scale 105 softwood growth rates 195 forests as models for agriculture 132 Barmah red gum 148 catchment 146 climax deciduous 245 deciduous 135 long-rotation mixed 42 measures of sovereign wealth 194 mixed rain and wet sclerophyll as marginal systems 233 segregation in 163 sheet-mulch 253 Gender Balance and Sustainability interact with Care, Creativity and Efficiency 14 intermediate technology, criteria 1190 Investment of Non-Renewable Energies 95 Israel 1994 visit 122, 124 kibbutzim 174 Jackson, Wes 36 Joneson, Rhys 229 Kakadu National Park and the Loss of Edge 233 Kali Yuga 270 Kangaroo Island 148 kangaroos 101 efficiency 14 intermediate technology, criteria 1190 Investment of Non-Renewable 1994 visit 122, 124 kibbutzim 174 Jackson, Wes 36 Joneson, Rhys 229 Kakadu National Park and the Loss of Edge 233 Kali Yuga 270 Kangaroo Island 148 kangaroos 101 efficiency 14 intermediate technology, criteria 190 Investment of Non-Renewable 1994 visit 122, 124 kibbutzim 174 Jackson, Wes 36 Joneson, Rhys 229 Kakadu National Park and the Loss of Edge 233 Kali Yuga 270 Kangaroo Island 148 kangaroos 101 efficiency 14 intermediate technology, criteria 190 Investment of Non-Renewable 219 Investment of Non-Renewable 220 Siowinski, Louis 22 grade 17 jone kertingines viii In Context magazine xxiii In Context magazine xxiii In Context magazine xxiii In Context magazine xxiii In Context magazine xxiii In Context magazine xxiii In Context magazine xxiii In Context magazine xxiii In Context magazine xxiii In Context magazine xxiii In Context magazine xxiii In Context magazine xxiii In Context magazine xxiii In Context magazine xxiii In Context magazine xxiii In Context magazine | - | | | |
-| fast 189 fermentation cultures 210 forest succession 253 gardeners 75 production strategy 61 skilled growers 212 slow 197 staple 58 waste 114 food chain 29, 205 Food Forest, bettongs 216 food forests, historical warfare 242 forestry analogue 133 long rotation 194 models of diversity and culling 215 shelterbelt 231 short rotation 194 small-scale 105 softwood growth rates 195 forests as models for agriculture 132 Barmah red gum 148 catchment 146 climax deciduous 245 deciduous 135 long-rotation mixed 42 measures of sovereign wealth 194 mixed rain and wet sclerophyll shelterbelt 231 measures of sovereign wealth 194 mixed rain and wet sclerophyll shelterbelt 241 mixed rain and wet sclerophyll shelterbelt 253 Gender Balance and Sustainability afonce Balance and Sustainability intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria ipou | | <del>-</del> | | |
+| fast 189 fermentation cultures 210 forest succession 253 gardeners 75 production strategy 61 skilled growers 212 slow 197 staple 58 waste 114 food chain 29, 205 Food Forest, bettongs 216 food forests, historical warfare 242 forestry analogue 133 long rotation 194 models of diversity and culling 215 shelterbelt 231 short rotation 194 small-scale 105 softwood growth rates 195 forests as models for agriculture 132 Barmah red gum 148 catchment 146 climax deciduous 245 deciduous 135 long-rotation mixed 42 measures of sovereign wealth 194 mixed rain and wet sclerophyll shelterbelt 231 measures of sovereign wealth 194 mixed rain and wet sclerophyll shelterbelt 241 mixed rain and wet sclerophyll shelterbelt 253 Gender Balance and Sustainability afonce Balance and Sustainability intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria intermediate technology, criteria ipou | | - | | |
 | fermentation cultures 210 forest succession 253 gardeners 75 gradeners 75 production strategy 61 skilled growers 212 slow 197 staple 58 waste 114 food chain 29, 205 Food Forest, bettongs 216 food forests, historical warfare 242 forestry analogue 133 long rotation 194 models of diversity and culling 215 shelterbelt 231 short rotation 194 small-scale 105 softwood growth rates 195 forests as models for agriculture 132 Barmah red gum 148 catchment 146 climax deciduous 245 deciduous 135 long-rotation mixed 42 measures of sovereign wealth 194 mixed rain and wet sclerophyll Textback 191 Gender Balance and Sustainability 267 genetic engineering 208, 266 Genuine Progress Indicator 7 Geographic and Cultural Diversity 190 linvestment of Non-Renewable Energies 95 Israel 1994 visit 122, 124 kibbutzim 174 Jackson, Wes 36 Jacobs, Jane 234 Jones, Rys 229 Jones, Rys 229 Jones, Rys 229 Gradualism in geomorphology 250 Green Revolution 208 greenhouse effect 35, 39, 42 Hare Krishna, dairy cows 196 harvest regulation in indigenous societies 99 timing of 62 hedonic treadmill 86 Hellyer, Paul 191 hemp 98 kangarios 101 Jackson, Wes 36 Jacobs, Jane 234 Jones, Rys 229 Kakadu National Park and the Loss of Edge 233 Kali Yuga 270 Kangaroo Island 148 kangaroos 101 efficiency of feed conversion 137 self-regulation 73 karma, laws of 71 keyline catchment design 146 KGB 276 knowledge, traditional reasons for devaluation 122 Kropotkin, Peter 55 Land Evaluation and Mapping 148 Jackson, Wes 36 Jacobs, Jane 234 Jones, Rys 229 Kandau National Park and the Loss of Edge 233 Kali Yuga 270 Kangaroo Island 148 kangaroos 101 efficiency of feed conversion 137 self-regulation 73 karma, laws of 71 keyline catchment design 146 KGB 276 knowledge, traditional reasons for devaluation and Mapping 148 Jackson, Wes 36 Jacobs, Jane 234 Jones, Rys 229 Kandau Yuga 270 Kangaroo Island 148 kangaroos 101 efficiency of feed conversion 137 self-regulation 73 karma, laws of 71 keyline catchment design 146 KGB 276 knowledge, traditional reasons for devaluation and Mapping 1 | | | | |
 | forest succession 253 gardeners 75 production strategy 61 skilled growers 212 slow 197 staple 58 waste 114 food chain 29, 205 Food Forest, bettongs 216 food forests, historical warfare 242 forestry analogue 133 long rotation 194 models of diversity and culling 215 shelterbelt 231 short rotation 194 small-scale 105 softwood growth rates 195 forests as models for agriculture 132 Barmah red gum 148 catchment 146 climax deciduous 245 deciduous 135 long-rotation mixed 42 measures of sovereign wealth 194 mixed rain and wet sclerophyll 5267 genetic engineering 208, 266 Genuine Progress Indicator 7 Geographic and Cultural Diversity 210 Geographic and Cultural Diversity 210 Investment of Non-Renewable Energies 95 Israel 1994 visit 122, 124 kibbutzim 174 lackson, Wes 36 logoes, Rhys 229 lones, Rhys 229 lones, Rhys 229 Kakadu National Park and the Loss of Edge 233 Kali Yuga 270 Kangaroo Island 148 kangaroos 101 efficiency of feed conversion 137 self-regulation 73 karma, laws of 71 keyline catchment design 146 KGB 276 knowledge, traditional reasons for devaluation 122 Kropotkin, Peter 55 Land Evaluation and Mapping 148 land stewardship 5 land systems 148, 225 Landcare ethics of tree planting 10 | | | | |
 | gardeners 75 production strategy 61 skilled growers 212 slow 197 staple 58 waste 114 food chain 29, 205 Food Forest, bettongs 216 food forests, historical warfare 242 forestry analogue 133 long rotation 194 models of diversity and culling 215 shelterbelt 231 short rotation 194 small-scale 105 softwood growth rates 195 forests as models for agriculture 132 Barmah red gum 148 catchment 146 climax deciduous 245 deciduous 135 long-rotation mixed 42 meassures of sovereign wealth 194 mixed rain and wet sclerophyll skilled growers 212 Geographic and Cultural Diversity Geographic and Cultural Diversity (and Cultural Diversity (and Cultural Diversity (and Cultural Diversity (and Cultural Diversity (and Cultural Diversity (and Cultural Diversity (and Cultural Diversity (and Cultural Diversity (and Cultural Diversity (and Cultural Diversity (and Cultural Diversity (and Cultural Diversity (and Cultural Diversity (and Cultural Diversity (and Cultural Diversity (and Cultural Diversity (and Cultural Diversity (and Cultural Diversity (and Cultural Diversity (and Cultural Diversity (and Cultural Diversity (and Cultural Diversity (and Cultural Diversity (and Cultural Diversity (and Cultural Diversity (and Cultural Diversity (and Cultural Diversity (and Cultural Diversity (and Cultural Diversity (and Cultural Diversity (and Cultural Diversity (and Cultural Diversity (and Cultural Diversity (and Cultural Diversity (and Cultural Diversity (and Cultural Diversity (and Cultural Diversity (and Cultural Diversity (and Cultural Diversity (and Cultural Diversity (and Cultural Diversity (and Cultural Diversity (and Cultural Diversity (and Cultural Diversity (and Cultural Diversity (and Cultural Diversity (and Cultural Diversity (and Cultural Diversity (and Cultural Diversity (and Cultural Diversity (and Cultural Diversity (and Cultural Diversity (and Cultural Diversity (and Cultural Diversity (and Cultural Diversity (and Cultural Diversity (alcunum Robert (and Cultural Diversity (alcunum Robert (and Cultural Diversity (alcunum Robert (an | | | | |
@@ -5720,8 +5347,11 @@ Yeomans, P A Water For Every Farm Murray Books 1965. Technical details an d resu
 | geologically young 32 | pest bird solutions 105 | O bservations an d Interaction in a |
 | indigenous Australian 22& | resistance to culling 214 | Post-m o dern World 22 |
 | nutrient storage 34 | salvage tim bers 195 | O bserve, Recognise Patterns and |
-| patterns 130<br>terraced 119 | stone wall building 192 | A p p reciate Details 13 |
-| traditional English 227 | use of evergreen fruits 134<br>use of goats 137 | Odum, Howard xxvi, 29, 57, 65, 67,<br>73, 97 |
+| patterns 130
+terraced 119 | stone wall building 192 | A p p reciate Details 13 |
+| traditional English 227 | use of evergreen fruits 134
+use of goats 137 | Odum, Howard xxvi, 29, 57, 65, 67,
+73, 97 |
 | water storage in 32 | use of heath land shrubs 137 | influence on Perm acultu re xvi |
 | Lan dscape Edges 223 | use of slo pe 145 | modelling of ΝΖ forest 159 |
 | Lan dscape Storages of Energy 30 | use of sm all and slow 183 | Oliphant, Sir Mark 189 |
@@ -5735,11 +5365,14 @@ Yeomans, P A Water For Every Farm Murray Books 1965. Technical details an d resu
 | Lessons for Perm acultu re Design | nutrients 35, 49 | Paradox of th e Radical an d th e |
 | and Land Management 252 | M o dels from Nature 55 | Conservative, The 199 |
 | LETSystems xxi, 173 | M o dem Context for Experiential | p arasites 157 |
-| lichen 158 | Learning 21<br>modernity, reactionary critics 200 | Pattern Language. See Alexander, |
-| life cycle analysis. See total process<br>evaluation | Mollison, Bill xvii, xix, xxii | Christopher |
-| Ufesp&tv, ccK^o\ak\c>Y <s> ¥A, W1</s> | careet T?5 | Pattern Thinking 127 |
+| lichen 158 | Learning 21
+modernity, reactionary critics 200 | Pattern Language. See Alexander, |
+| life cycle analysis. See total process
+evaluation | Mollison, Bill xvii, xix, xxii | Christopher |
+| Ufesp&tv, ccK^o\ak\c>Y  ¥A, W1 | careet T?5 | Pattern Thinking 127 |
 | Lillington, Ian xi | clim atic p atterns 134 | patterns 13,215 |
-| Lindisfame Institute. See | diversity debate 213 | clustering of settle m en t 188<br>evolutionary 19 |
+| Lindisfame Institute. See | diversity debate 213 | clustering of settle m en t 188
+evolutionary 19 |
 | Thompson, William Jrwin | functional analysis 160 | of fertility 135 |
 | Long-term Thinking 192 | mature ecosystem s 169 | proliferation and culling 215 |
 | Long-term Thinking, Large-scale | m utualism relationships 157 | Patterns of Com petition an d Co |
@@ -5747,19 +5380,23 @@ Yeomans, P A Water For Every Farm Murray Books 1965. Technical details an d resu
 | Lovelock, James 3, 237 | pollution 111 | Permacultu re 230 |
 | Lovins, Amory xvi, 19, 84, 117 | river forest relationship 158 | and information technology 198 |
 | industrial integration 164 | self-maintaining Permaculture 241 | as bottom-u p change 80 |
-| magnesium 50 | Tagari com m unity 175<br>third world expertise 122 | as cou nterculture xxi, 237 |
+| magnesium 50 | Tagari com m unity 175
+third world expertise 122 | as cou nterculture xxi, 237 |
 | maintenance 115 | monetary system reform 191 | as cultural ap propriation 22, 211 |
 | engineering 119 | money, taxation 76 | as design science 2 |
-| everyday activity 118<br>manufacturing, "just-in-tim e" 63 | m onopolisation 44 | as ecosynthesis 265 |
+| everyday activity 118
+manufacturing, "just-in-tim e" 63 | m onopolisation 44 | as ecosynthesis 265 |
 | Margulis, Lynn 3, 259 | mountain ash 196 | as p ulsing system 271 |
 | markets, niche 168, 218 | m ulti-fu nctionality 158 | as remedial w holistics 61, 248 |
-| Mason, Ian 176 | m ulticulturalism 219 | as reorganisation p hase 258<br>bettongs 217 |
+| Mason, Ian 176 | m ulticulturalism 219 | as reorganisation p hase 258
+bettongs 217 |
 | materialism 3 | Murray River flood plain 148 | com mercial berry production 214 |
 | Materialism and Spirituality 171 | natural system, managed 74 | dem onstration sites 218 |
 | matryoshka 269 | Negev desert 132 | design as top-down change 240 |
 | Maximum Power Law 56 | New Alchemy Institute, xxii | Design Course xii, xx, 51, 85, 236, |
 | Maximum Power Law 204 | New Guinea highlands 252 | 248 |
-| applied to genetic engineering | New Zealand flax 193<br>New Zealand, innovation 236 | differences with green tech |
+| applied to genetic engineering | New Zealand flax 193
+New Zealand, innovation 236 | differences with green tech |
 | 267 | Newsome, Alan 149 | optimism xvi |
 | maximum yield fallacy 159 | nitrogen fixing 104 | ethical principles xxv |
 | media technology 128 | Norfolk Island pine (Araucaria | food forests 133 |
@@ -5767,10 +5404,13 @@ Yeomans, P A Water For Every Farm Murray Books 1965. Technical details an d resu
 | Melliodora 183 | normal distrib ution curve 77 | guilds 165 |
 | Melliodora xii, 16, 45, 46, 49, 50, 60, | n uclear power 31 | Hare Krishna interpretation of |
 | 63. 246 | N u meracy 64 | zones 100 |
-| Bedouin reaction 122<br>breed of fowls 160 | nursing m other 72 | im pediments to broadacre vision |
+| Bedouin reaction 122
+breed of fowls 160 | nursing m other 72 | im pediments to broadacre vision |
 | building integration 150 | Nurture an d Control in Nature 72 | 166 |
 | container reuse 113 | Nurturing, Negative Fee d b ack and | intentional com m u nities 175 |
-| culling diversity 214 | Self-Regulation in Managed<br>System s 74 | origins in Tasmania 235<br>pattern language 127 |
+| culling diversity 214 | Self-Regulation in Managed
+System s 74 | origins in Tasmania 235
+pattern language 127 |
 ## | | | |
 
 | popular conceptions of xxi | pumps, domestic water supply 162 | Schumacher, E. F. 190 |
@@ -5811,11 +5451,13 @@ Yeomans, P A Water For Every Farm Murray Books 1965. Technical details an d resu
 | pioneers 204 | renewable services 102 | shopping mall, as enclosed edge 230 |
 | well-hardened 194 | Renewable Services from Nature | Simplification and Segregation 163 |
 | Plants Come Before Animals 247 | 102 | slope 144 |
-| politics, social democratic 257 | renewable weather boards 243 | slow and steady values 192<br>Slow Food 197 |
+| politics, social democratic 257 | renewable weather boards 243 | slow and steady values 192
+Slow Food 197 |
 | pollution | repair 115, 119 | Slow is Sane 183 |
 | attitudes 124 | resilience to change from above 241 | Slow-Growth Strategies in |
 | biological 121 | resources | Agriculture and Forestry 193 |
-| definition 111<br>polyculture 203 | fluctuating and mobile 99 | slurry quotas 38 |
+| definition 111
+polyculture 203 | fluctuating and mobile 99 | slurry quotas 38 |
 | Pompidou Centre 120 | replacement time 94 | Small is Beautiful 190 |
 | Positano, Italy 234 | reuse, limitations of 114 | snail icon 181 |
 | Positive Feedback 58 | Revegetation 231 | social change strategies 79 |

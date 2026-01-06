@@ -1,11 +1,8 @@
 ---
-title: A Swarm Of Butterflies  A Fierce Defense Of Chaos In Direct Action
-date: 2025
-author: Unknown
-tags:
-  - organizing
-  - police
-  - anarchism
+title: "A Swarm Of Butterflies  A Fierce Defense Of Chaos In Direct Action"
+author: "Unknown"
+date: "2025"
+category: "anti-war-peace"
 ---
 
 # A Swarm Of Butterflies  A Fierce Defense Of Chaos In Direct Action

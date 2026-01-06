@@ -1,3 +1,8 @@
+---
+title: "## **Committee for Academic Freedom in Africa newsletter**"
+category: "international-solidarity"
+---
+
 ## **Committee for Academic Freedom in Africa newsletter**
 
 ## **Date:** Unknown
@@ -18,7 +23,8 @@ Included as well are interviews with organizers of teacher and student movements
 
 Articles from CAFA's newsletters as well as new reflections on the group's work by those involved are collected in Ousseina Alidou, Silvia Federici and George Caffentzis eds., A Thousand Flowers: Social Struggles Against Structural Adjustment in African Universities ( Trenton and Asmara: Africa World Press, 2000).
 
-| http://africaworldpressbooks.com/a-thousand-flowers-social-struggles-against-structural-adjus<br>tment-in-african-universities-edited-by-silvia-federici-george-cafentzis-ousseina-alidou/ |
+| http://africaworldpressbooks.com/a-thousand-flowers-social-struggles-against-structural-adjus
+tment-in-african-universities-edited-by-silvia-federici-george-cafentzis-ousseina-alidou/ |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | syndicalist |
 | 9 years 4 months ago |
@@ -27,11 +33,13 @@ Articles from CAFA's newsletters as well as new reflections on the group's work 
 | perrylou |
 | 9 years 4 months ago |
 | In reply to Welcomebylibcom.org |
-| cool just scanned it from Silvia and George's collection. There is great material included.<br>Unfortunately I can't tell if the files are uploading properly yet but it will be up soon |
+| cool just scanned it from Silvia and George's collection. There is great material included.
+Unfortunately I can't tell if the files are uploading properly yet but it will be up soon |
 | Steven. |
 | 9 years 4 months ago |
 | In reply to Welcomebylibcom.org |
-| Yes that's all here! But this is fantastic, thanks for digitising and posting. Look forward to<br>seeing what else you've got! |
+| Yes that's all here! But this is fantastic, thanks for digitising and posting. Look forward to
+seeing what else you've got! |
 
 perrylou
 

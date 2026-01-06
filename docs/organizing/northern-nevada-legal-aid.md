@@ -2,10 +2,7 @@
 title: "Northern Nevada Legal Aid: Supporting Housing Security in Reno"
 author: "RSTU Team"
 date: "2025-03-15"
-category: "Legal Aid"
-tags: ["legal aid", "tenant rights", "housing security", "resources"]
-excerpt: "Legal aid organizations play a crucial role in protecting tenant rights and ensuring housing security for our community members..."
-featured: false
+category: "organizing"
 ---
 
 # Northern Nevada Legal Aid: Supporting Housing Security in Reno

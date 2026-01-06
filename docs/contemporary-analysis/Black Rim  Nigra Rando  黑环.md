@@ -1,3 +1,8 @@
+---
+title: "**Black Rim / Nigra Rando /** ■■"
+category: "contemporary-analysis"
+---
+
 # **Black Rim / Nigra Rando /** ■■
 
 ## **Date:** Unknown
@@ -513,7 +518,8 @@ While there are times when Jalan's anti-white vitriol verges on vacuity, and the
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Steven. |
 | 1 year 5 months ago |
-| Saw that this was a draft and so have published it. Apologies if you were meaning to keep it<br>as a draft for the time being if so let me know and I will set it to draft again. |
+| Saw that this was a draft and so have published it. Apologies if you were meaning to keep it
+as a draft for the time being if so let me know and I will set it to draft again. |
 | ca'canny |
 | 1 year 5 months ago |
 | [Deleted] |

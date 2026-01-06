@@ -1,3 +1,8 @@
+---
+title: "HORTICULTURE"
+category: "arts-culture-music"
+---
+
 # HORTICULTURE
 
 #### UNIVERSITY OF WASHINGTON COLLEGE OF FOREST RESOURCES
@@ -100,7 +105,7 @@ The volumes of the collection, some sturdy and others far more fragile, contain 
 
 The earliest works – Gerard's *Herball* (1636), Parkinson's *Paradisi in Sole* (1629) and *Theatrum Botanicum* (1640) are part of the great British tradition of woodcut herbals. Others document the introduction of new plant species and trace discoveries into Asia and the Americas. The rise of gardening as a popular pastime grew in the late nineteenth and early twentieth centuries and books began offering practical advice and creative ideas for home gardens.
 
-The Rare Book Collection is only available by appointment, made in advance by calling 206-543-0415. However, frequent displays of selected materials will be on view in the library's entry display cabinet. For a more in-depth preview, please come to the celebration of the Miller Library's 20<sup>th</sup> anniversary on May 22<sup>nd</sup>. See page 2 for more information.
+The Rare Book Collection is only available by appointment, made in advance by calling 206-543-0415. However, frequent displays of selected materials will be on view in the library's entry display cabinet. For a more in-depth preview, please come to the celebration of the Miller Library's 20th anniversary on May 22nd. See page 2 for more information.
 
 ## ![](_page_3_Picture_8.jpeg)
 
@@ -108,7 +113,7 @@ The Rare Book Collection is only available by appointment, made in advance by ca
 
 #### Virtual Tour of the Miller Library
 
-Take the virtual tour of the new Elisabeth C. Miller Horticultural Library from your easy chair at home by visiting the web site: http://depts.washington.edu/hortlib/LibVTour Rev.pdf. You can trace the history of the library from its founding through the opening of the new Merrill Hall this January. Learn about the design features and materials that contributed to Merrill being the first LEED<sup>TM</sup> certified "green" building on the UW Seattle campus. See pictures of the various spaces that make the new library both more flexible and efficient, and a very comfortable space to work on an assignment, do research for a project, or just relax and read from the newest books and magazines on horticulture.
+Take the virtual tour of the new Elisabeth C. Miller Horticultural Library from your easy chair at home by visiting the web site: http://depts.washington.edu/hortlib/LibVTour Rev.pdf. You can trace the history of the library from its founding through the opening of the new Merrill Hall this January. Learn about the design features and materials that contributed to Merrill being the first LEEDTM certified "green" building on the UW Seattle campus. See pictures of the various spaces that make the new library both more flexible and efficient, and a very comfortable space to work on an assignment, do research for a project, or just relax and read from the newest books and magazines on horticulture.
 
 #### Herbarium and Library Collaborate
 
@@ -118,7 +123,7 @@ The Miller Library and the Hyde Herbarium have created a display in the Library'
 
 ## CAROL ORION, MILLER LIBRARY LIBRARIAN
 
-From May through September, water use in our region nearly doubles, primarily for lawns and gardens1 . Seattle has had only 68% of normal rainfall since October, there are record low snow packs in the mountains and an abnormally dry summer is predicted for the Pacific Northwest<sup>2</sup>. Those of us who have invested countless hours (and dollars) creating gardens don't want to see our efforts shrivel up and die during the coming months. Here are a few simple tips that will help you maintain a healthy garden and also conserve water for the benefit of fish, wildlife and our community
+From May through September, water use in our region nearly doubles, primarily for lawns and gardens1 . Seattle has had only 68% of normal rainfall since October, there are record low snow packs in the mountains and an abnormally dry summer is predicted for the Pacific Northwest2. Those of us who have invested countless hours (and dollars) creating gardens don't want to see our efforts shrivel up and die during the coming months. Here are a few simple tips that will help you maintain a healthy garden and also conserve water for the benefit of fish, wildlife and our community
 
 MULCH holds moisture in the soil, smothers weeds and improves soil structure over time. Mulch is simply a layer of organic material spread over the soil to a depth of 2 to 5 inches. It can consist of wood chips, landscape fabric, grass clippings, hay, leaf mould, peanut hulls, pine needles, stone, or just about any material that is weed-and disease-free3.
 
@@ -150,7 +155,7 @@ have included a pruning workshop and future plans include nursery tours and educ
 
 #### **SERNW Regional Conference in April**
 
-"Sustainability and Restoration: A Practical Partnership for the 21st Century" is the title of the SERNW Conference which will be held April 4-8 at the Washington State Convention Center. The conference will offer field trips, workshops, over 100 presentations in concurrent sessions, a poster session and special plenary speaker Terry Tempest Williams. Additionally, dozens of exhibitors will be showcasing their products and services. Visit the website at <a href="https://www.sernw.org">www.sernw.org</a> for more information.
+"Sustainability and Restoration: A Practical Partnership for the 21st Century" is the title of the SERNW Conference which will be held April 4-8 at the Washington State Convention Center. The conference will offer field trips, workshops, over 100 presentations in concurrent sessions, a poster session and special plenary speaker Terry Tempest Williams. Additionally, dozens of exhibitors will be showcasing their products and services. Visit the website at www.sernw.org for more information.
 
 #### Duck Bay Dedication: Saturday, April 2
 
@@ -188,7 +193,7 @@ with toxic plant parts or sharp spines (barberries and nandina, for example) wer
 
 into a play room encircled by *Acer rubrum* 'Columnare'.
 
-Work continues on this project, but there is still much to be done! If you have some extra time and get the urge to dig in the dirt for a worthy cause, please call Barbara Selemon at 206-685-2613. All levels of gardening expertise and interest are welcome and appreciated. To see the entire scope of the project, visit its website at <a href="http://staff.washington.edu/tls2/EHUF\_482.htm">http://staff.washington.edu/tls2/EHUF\_482.htm</a>.
+Work continues on this project, but there is still much to be done! If you have some extra time and get the urge to dig in the dirt for a worthy cause, please call Barbara Selemon at 206-685-2613. All levels of gardening expertise and interest are welcome and appreciated. To see the entire scope of the project, visit its website at http://staff.washington.edu/tls2/EHUF\_482.htm.
 
 #### Volunteer at WPA
 

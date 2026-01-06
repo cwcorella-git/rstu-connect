@@ -1,3 +1,8 @@
+---
+title: "**Against the Logic of Submission - Wolfi Landstreicher**"
+category: "technology-digital-justice"
+---
+
 # **Against the Logic of Submission - Wolfi Landstreicher**
 
 ## **Date:** Unknown

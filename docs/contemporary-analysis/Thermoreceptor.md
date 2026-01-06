@@ -1,3 +1,8 @@
+---
+title: "**Thermoreceptor**"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 # **Thermoreceptor**
@@ -36,9 +41,9 @@ Warm and cold receptors play a part in sensing innocuous environmental temperatu
 
 ### **Mechanism of transduction**
 
-This area of research has recently received considerable attention with the identification and cloning of the [Transient Receptor Potential](https://en.wikipedia.org/wiki/Transient_Receptor_Potential) (TRP) family of proteins. The transduction of temperature in cold receptors is mediated in part by the TRPM8 channel . This channel passes a mixed inward cationic current (predominantly carried by Na<sup>+</sup> ions although the channel is also permeable to Ca2+ ) of a magnitude that is inversely proportional to temperature . The channel is sensitive over a temperature range spanning about 10-35 °C . TRPM8 can also be activated by the binding of an extracellular ligand.
+This area of research has recently received considerable attention with the identification and cloning of the [Transient Receptor Potential](https://en.wikipedia.org/wiki/Transient_Receptor_Potential) (TRP) family of proteins. The transduction of temperature in cold receptors is mediated in part by the TRPM8 channel . This channel passes a mixed inward cationic current (predominantly carried by Na+ ions although the channel is also permeable to Ca2+ ) of a magnitude that is inversely proportional to temperature . The channel is sensitive over a temperature range spanning about 10-35 °C . TRPM8 can also be activated by the binding of an extracellular ligand.
 
-Menthol can activate the TRPM8 channel in this way. Since the TRPM8 is expressed in neurons whose physiological role is to signal cooling, menthol applied to various bodily surfaces evokes a sensation of cooling. The feeling of freshness associated with the activation of cold receptors by menthol, particularly those in facial areas with axons in the <u>trigeminal (V) nerve</u>, accounts for its use in numerous toiletries including toothpaste, shaving lotions, facial creams and the like.
+Menthol can activate the TRPM8 channel in this way. Since the TRPM8 is expressed in neurons whose physiological role is to signal cooling, menthol applied to various bodily surfaces evokes a sensation of cooling. The feeling of freshness associated with the activation of cold receptors by menthol, particularly those in facial areas with axons in the trigeminal (V) nerve, accounts for its use in numerous toiletries including toothpaste, shaving lotions, facial creams and the like.
 
 Another molecular component of cold transduction is the temperature dependence of so-called leak channels which pass an outward current carried by potassium ions. Some leak channels derive from the family of two-pore (2P) domain potassium channels . Amongst the various members of the 2P-domain channels, some close quite promptly at temperatures less than about 28 °C (e.g. $\underline{KCNK4}(TRAAK)$ , TREK) . Temperature also modulates the activity of the $\underline{Na^+/K^+}$ -ATPase . The $Na^+/K^+$ -ATPase is a $\underline{P}$ -type $\underline{Pump}$ that extrudes $3Na^+$ ions in exchange for $2K^+$ ions for each hydrolytic cleavage of ATP. This results in a net movement of positive charge out of the cell, i.e. a $\underline{hyperpolarizing}$ current. The magnitude of this current is proportional to the rate of pump activity.
 
@@ -51,8 +56,8 @@ It has been suggested that it is the constellation of various thermally sensitiv
 - 3. Eliav, Eli; Gracely, Richard H (2008-01-01), Sharav, Yair; Benoliel, Rafael (eds.), "Chapter 3 - Measuring and assessing pain" (https://www.sciencedirect.com/science/article/pii/B9780723434122100033), Orofacial Pain and Headache, Edinburgh: Mosby, pp. 45–56, ISBN 978-0-7234-3412-2, retrieved 2023-09-13
 - 4. Zhang, Xuming (2015). "Molecular sensors and modulators of thermoreception" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4594430). Channels (Review). 9 (2). Taylor & Francis: 73–81. doi:10.1080/19336950.2015.1025186 (https://doi.org/10.1080%2F19336950.2015.1025186). eISSN 1933-6969 (https://search.worldcat.org/issn/1933-6969). PMC 4594430 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4594430). PMID 25868381 (https://pubmed.ncbi.nlm.nih.gov/25868381).
 - 5. "Why Does Food Taste Different When It's Cold Vs. When It's Hot?" (https://www.scienceabc.com/humans/why-does-food-taste-different-when-its-cold-vs-when-its-hot.html). *Science ABC*. 2017-04-22. Retrieved 2023-09-06.
-- 6. Viana F, de la Peña E, Belmonte C (2002). <u>"Specificity of cold thermotransduction is determined by differential ionic channel expression" (https://www.nature.com/articles/nn809). Nature Neuroscience.</u> **5** (3): 254–260. doi:10.1038/nn809 (https://doi.org/10.1038%2Fnn
+- 6. Viana F, de la Peña E, Belmonte C (2002). "Specificity of cold thermotransduction is determined by differential ionic channel expression" (https://www.nature.com/articles/nn809). Nature Neuroscience. **5** (3): 254–260. doi:10.1038/nn809 (https://doi.org/10.1038%2Fnn
 
 [809\).](https://doi.org/10.1038%2Fnn809) [PMID](https://en.wikipedia.org/wiki/PMID_(identifier)) [11836533 \(https://pubmed.ncbi.nlm.nih.gov/11836533\).](https://pubmed.ncbi.nlm.nih.gov/11836533) [S2CID](https://en.wikipedia.org/wiki/S2CID_(identifier)) [21291629 \(http](https://api.semanticscholar.org/CorpusID:21291629) [s://api.semanticscholar.org/CorpusID:21291629\).](https://api.semanticscholar.org/CorpusID:21291629)
 
-Retrieved from "<https://en.wikipedia.org/w/index.php?title=Thermoreceptor&oldid=1322973968>"
+Retrieved from ""

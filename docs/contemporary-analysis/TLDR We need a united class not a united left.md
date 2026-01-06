@@ -1,3 +1,8 @@
+---
+title: "## **TLDR: We need a united class not a united left**"
+category: "contemporary-analysis"
+---
+
 ## **TLDR: We need a united class not a united left**
 
 ## **Date:** Unknown
@@ -38,5 +43,6 @@ The syndicalist ideais the most reasonable idea concerning how workers can come 
 | 1 year 1 month ago |
 | In reply to Did you mean to leave this…by Steven. |
 | Steven. wrote:Did you mean to leave this as a draft? |
-| As you haven't replied, I have made this public. If you wanted to turn it back into a draft please<br>feel free |
+| As you haven't replied, I have made this public. If you wanted to turn it back into a draft please
+feel free |
 ## | |

@@ -1,3 +1,8 @@
+---
+title: "**Stellarator**"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 # **Stellarator**
@@ -44,21 +49,21 @@ His approach was to modify the torus' geometric layout to address Fermi's concer
 
 #### Matterhorn
 
-A secret research lab at <u>Princeton University</u> carried on theoretical work on <u>H-bombs</u> after 1951. Spitzer was invited to join this program, given his previous research in interstellar plasmas. [13]
+A secret research lab at Princeton University carried on theoretical work on H-bombs after 1951. Spitzer was invited to join this program, given his previous research in interstellar plasmas. [13]
 
 Spitzer then lost interest in bomb design, and turned his attention to fusion as a power source. [14] Spitzer produced a series of reports outlining the conceptual basis for the stellarator, as well as potential problems. The series is notable for its depth; it included a detailed analysis of the mathematics of the plasma and stability along with heating the plasma and dealing with impurities. [15]
 
-Spitzer began to lobby the <u>United States Atomic Energy Commission</u> (AEC) for funding. [15] His plan involved three stages, each relying on the success of the prior stage over the course of a decade: [16]
+Spitzer began to lobby the United States Atomic Energy Commission (AEC) for funding. [15] His plan involved three stages, each relying on the success of the prior stage over the course of a decade: [16]
 
 - Model A was tasked to demonstrate that a plasma could be created and that its confinement time was better than a torus.
 - Model B would heat the plasma to fusion temperatures.
 - Model C would attempt to create fusion reactions at a large scale. [17]
 
-Around the same time, <u>Jim Tuck</u> had been introduced to the pinch concept while working at <u>Clarendon Laboratory</u> at <u>Oxford University</u>. He eventually ended up at Los Alamos, where he acquainted the other researchers with the concept. When he heard Spitzer was promoting the stellarator, he travelled to Washington to propose building a pinch device. He considered Spitzer's plans "incredibly ambitious". Nevertheless, Spitzer was funded with \$50,000, while Tuck received nothing. [17]
+Around the same time, Jim Tuck had been introduced to the pinch concept while working at Clarendon Laboratory at Oxford University. He eventually ended up at Los Alamos, where he acquainted the other researchers with the concept. When he heard Spitzer was promoting the stellarator, he travelled to Washington to propose building a pinch device. He considered Spitzer's plans "incredibly ambitious". Nevertheless, Spitzer was funded with \$50,000, while Tuck received nothing. [17]
 
 Spitzer, an avid mountain climber, [c] proposed the name "Project Matterhorn" because he felt that "the work at hand seemed difficult, like the ascent of a mountain". [18] Two sections were initially set up, S Section working on the stellarator under Spitzer, and B Section working on bomb design under Wheeler. [d] Spitzer set up the top-secret S Section in a former rabbit hutch. [19]
 
-The other labs then began agitating for their own funding. Tuck managed to arrange some funding for his <u>Perhapsatron</u> through some discretionary budgets at LANL, but other teams at LANL, <u>Berkeley</u> and <u>Oak Ridge</u> (ORNL) also sought funds. The AEC eventually organized Project Sherwood, a new department for these projects. [20]
+The other labs then began agitating for their own funding. Tuck managed to arrange some funding for his Perhapsatron through some discretionary budgets at LANL, but other teams at LANL, Berkeley and Oak Ridge (ORNL) also sought funds. The AEC eventually organized Project Sherwood, a new department for these projects. [20]
 
 ### **Early devices**
 
@@ -100,13 +105,13 @@ The total field could be produced through independent magnets shaped like the lo
 
 ### **Tokamak surge**
 
-In 1968, scientists in the [Soviet Union](https://en.wikipedia.org/wiki/Soviet_Union) released the results of their [tokamak](https://en.wikipedia.org/wiki/Tokamak) machine experiments, notably T-3. The results were so unexpected that scepticism was widespread. To address this, the Soviets invited experts from the United Kingdom to test the machines. Their tests used a [laser](https://en.wikipedia.org/wiki/Laser) system developed for the <u>ZETA</u> reactor to verify the Soviet claims of electron temperatures of 1,000 eV. What followed was a "veritable stampede" of tokamak construction worldwide. [28]
+In 1968, scientists in the [Soviet Union](https://en.wikipedia.org/wiki/Soviet_Union) released the results of their [tokamak](https://en.wikipedia.org/wiki/Tokamak) machine experiments, notably T-3. The results were so unexpected that scepticism was widespread. To address this, the Soviets invited experts from the United Kingdom to test the machines. Their tests used a [laser](https://en.wikipedia.org/wiki/Laser) system developed for the ZETA reactor to verify the Soviet claims of electron temperatures of 1,000 eV. What followed was a "veritable stampede" of tokamak construction worldwide. [28]
 
 At first US labs ignored the news; Spitzer dismissed it as experimental error. However, as more results surfaced, especially the UK reports, Princeton defended the stellarator while other groups were clamoring for funds to build tokamaks. In July 1969 Gottlieb had a change of heart, offering to convert the Model C to a tokamak layout. In December it was shut down and reopened in May as the Symmetric Tokamak (ST).
 
-The ST immediately matched the performance of the Soviet machines, besting Model C's results by over tenfold. Thereafter, PPPL was the primary developer of the tokamak approach in the US, introducing a series of machines to test various designs. The <u>Princeton Large Torus</u> of 1975 quickly achieved several performance metrics required for a commercial machine, and it was widely believed the critical threshold of <u>breakeven</u> would be reached in the early 1980s based on larger machines and more powerful heating systems.
+The ST immediately matched the performance of the Soviet machines, besting Model C's results by over tenfold. Thereafter, PPPL was the primary developer of the tokamak approach in the US, introducing a series of machines to test various designs. The Princeton Large Torus of 1975 quickly achieved several performance metrics required for a commercial machine, and it was widely believed the critical threshold of breakeven would be reached in the early 1980s based on larger machines and more powerful heating systems.
 
-Tokamaks are a type of pinch machine, differing from earlier designs primarily in the amount of current in the plasma: above a certain threshold known as the <u>safety factor</u>, or q, the plasma is much more stable. ZETA ran at a q around $\frac{1}{3}$ , while experiments on tokamaks demonstrated it needs to be at least 1. Machines following this rule showed dramatically improved performance. However, by the mid-1980s fusion power remained out of reach; as the amount of current in the new machines began to increase, new instabilities in the plasma appeared. These could be addressed, but only by greatly increasing the power of the magnetic fields, requiring <u>superconducting</u> magnets and huge confinement volumes. The cost of such a machine was such that the involved parties banded together to begin the ITER project.
+Tokamaks are a type of pinch machine, differing from earlier designs primarily in the amount of current in the plasma: above a certain threshold known as the safety factor, or q, the plasma is much more stable. ZETA ran at a q around $\frac{1}{3}$ , while experiments on tokamaks demonstrated it needs to be at least 1. Machines following this rule showed dramatically improved performance. However, by the mid-1980s fusion power remained out of reach; as the amount of current in the new machines began to increase, new instabilities in the plasma appeared. These could be addressed, but only by greatly increasing the power of the magnetic fields, requiring superconducting magnets and huge confinement volumes. The cost of such a machine was such that the involved parties banded together to begin the ITER project.
 
 #### Stellarator returns
 
@@ -142,13 +147,13 @@ At W7-X, the island [divertor](https://en.wikipedia.org/wiki/Divertor) stabilize
 
 #### **MUSE**
 
-The MUSE device at <u>Princeton Plasma Physics Laboratory</u> uses primarily commercial parts such as 10000 <u>permanent magnets</u> to build a research stellarator. The magnets are embedded in a <u>3D printed</u> nylon matrix. It adopted the magnetic <u>surface charge</u> method. Peak internal stress was found to be less than 7 MPa. It is the first quasi--axisymmetric experiment. [45]
+The MUSE device at Princeton Plasma Physics Laboratory uses primarily commercial parts such as 10000 permanent magnets to build a research stellarator. The magnets are embedded in a 3D printed nylon matrix. It adopted the magnetic surface charge method. Peak internal stress was found to be less than 7 MPa. It is the first quasi--axisymmetric experiment. [45]
 
 #### **Private sector**
 
 Private sector stellarator projects began emerging in 2018. Participants include Renaissance Fusion, Proxima Fusion, Type One, and Thea Energy. Proxima Fusion, Type One, and Thea Energy.
 
-Proxima Fusion is a Munich-based spin-off from the <u>Max Planck Institute for Plasma Physics</u>, which steered the W7-X experiment. In February 2025, it announced plans to build a test magnet from high-temperature superconductors in 2027 and a demo unit in 2031. [50][48]
+Proxima Fusion is a Munich-based spin-off from the Max Planck Institute for Plasma Physics, which steered the W7-X experiment. In February 2025, it announced plans to build a test magnet from high-temperature superconductors in 2027 and a demo unit in 2031. [50][48]
 
 Type One is seeking \$200 million in investment to add to \$82 million raised in 2024. Its Infinity One system is intended to validate its design, with construction beginning in 2026. Infinity Two is intended to produce net power. That machine is designed to cover 14 meters and generate 800 MWt, resulting in 350 MWe. [48]
 
@@ -160,13 +165,13 @@ PPPL spinout Thea Energy plans to shape its fields with angled circular coils fi
 
 Heating a gas increases the energy of the particles within it, so by heating a gas to hundreds of millions of degrees, the majority of the particles reach the energy required to fuse.
 
-According to the <u>Maxwell–Boltzmann distribution</u>, some will reach the required energies at much lower average temperatures. Because the energy released by the fusion reaction is much greater than what it takes to start it, even a small number of reactions can heat surrounding fuel until it fuses. In 1944, Fermi calculated the D–T reaction would be self-sustaining at about 50 000 000 K. [51]
+According to the Maxwell–Boltzmann distribution, some will reach the required energies at much lower average temperatures. Because the energy released by the fusion reaction is much greater than what it takes to start it, even a small number of reactions can heat surrounding fuel until it fuses. In 1944, Fermi calculated the D–T reaction would be self-sustaining at about 50 000 000 K. [51]
 
-Materials heated beyond a few tens of thousand degrees ionize, producing plasma. According to the <u>ideal</u> gas law, like any hot gas, plasma has an internal <u>pressure</u> and thus wants to expand. For a fusion reactor, the challenge is to keep the plasma contained. In a magnetic field, the electrons and nuclei orbit the magnetic field lines, confining them to the area defined by the field. [53][54]
+Materials heated beyond a few tens of thousand degrees ionize, producing plasma. According to the ideal gas law, like any hot gas, plasma has an internal pressure and thus wants to expand. For a fusion reactor, the challenge is to keep the plasma contained. In a magnetic field, the electrons and nuclei orbit the magnetic field lines, confining them to the area defined by the field. [53][54]
 
 ### **Magnetic confinement**
 
-A simple confinement system can be made by placing a tube inside the open core of a <u>solenoid</u>. The tube can be evacuated and then filled with gas and heated until it becomes a plasma. The plasma tries to expand outwards to the walls of the tube, and move along it, towards the ends. The solenoid creates magnetic field lines running down the center of the tube, and the plasma particles orbit these lines, preventing their motion towards the sides. However, this arrangement does not confine the plasma along the *length* of the tube, and the plasma can flow out the ends.[\[55\]](#page-15-12)
+A simple confinement system can be made by placing a tube inside the open core of a solenoid. The tube can be evacuated and then filled with gas and heated until it becomes a plasma. The plasma tries to expand outwards to the walls of the tube, and move along it, towards the ends. The solenoid creates magnetic field lines running down the center of the tube, and the plasma particles orbit these lines, preventing their motion towards the sides. However, this arrangement does not confine the plasma along the *length* of the tube, and the plasma can flow out the ends.[\[55\]](#page-15-12)
 
 One solution is to bend the tube into a [torus](https://en.wikipedia.org/wiki/Torus) (a ring or donut) shape.[\[55\]](#page-15-12) Motion towards the sides remains constrained as before, and while the particles remain free to move along the lines, in this case, they circulate around the tube. But, as Fermi pointed out,[\[f\]](#page-12-12) when the solenoid is bent into a ring, the electrical windings would be closer together on the inside than the outside. This leads to an uneven field across the tube, and the fuel drifts out of the center. Since the electrons and ions drift in opposite directions, this leads to a charge separation and electrostatic forces that eventually overwhelm the magnetic force. Some additional force needs to counteract this drift, providing long-term confinement.[\[7\]](#page-12-7)[\[55\]](#page-15-12)
 

@@ -1,44 +1,80 @@
+---
+title: "**Anarchism and the Black Revolution**"
+category: "contemporary-analysis"
+---
+
 # **Anarchism and the Black Revolution**
 
 ## Lorenzo Kom'boa Ervin
 
 # **Contents**
 
-| Dedication For the second edition of Anarchism and the Black Revolution<br> | |
+| Dedication For the second edition of Anarchism and the Black Revolution
+ | |
 |-----------------------------------------------------------------------------|--|
 | Chapter 1. An Analysis of White Supremacy | |
-| How the Capitalists Use Racism<br> | |
-| Race and Class: the Combined Character of Black Oppression<br> | |
-| So What Type of Anti-Racist Group is Needed?<br> | |
-| The Myth of "Reverse Racism"<br> | |
-| Smash the right Wing!<br> | |
-| Defeat white supremacy!<br> | |
+| How the Capitalists Use Racism
+ | |
+| Race and Class: the Combined Character of Black Oppression
+ | |
+| So What Type of Anti-Racist Group is Needed?
+ | |
+| The Myth of "Reverse Racism"
+ | |
+| Smash the right Wing!
+ | |
+| Defeat white supremacy!
+ | |
 | Chapter 2. Where is the Black struggle and where should it be going? | |
-| A Call for a New Black Protest Movement<br> | |
-| What form will this movement take?<br> | |
-| Revolutionary strategy and tactics<br> | |
-| A Black Tax Boycott<br> | |
-| A National Rent Strike and Urban Squatting<br> | |
-| A Boycott of American Business<br> | |
-| A Black General Strike<br> | |
-| The Commune: Community Control of the Black Community<br> | |
-| Building A Black survival program<br> | |
-| The Need for a Black Labor Federation<br> | |
-| Unemployment and Homelessness<br> | |
-| Crimes Against the People<br> | |
-| The Drug Epidemic: A New Form of Black Genocide?<br> | |
-| African Intercommunalism<br> | |
-| Armed Defense of the Black Commune<br> | |
-| Insurrection<br> | |
+| A Call for a New Black Protest Movement
+ | |
+| What form will this movement take?
+ | |
+| Revolutionary strategy and tactics
+ | |
+| A Black Tax Boycott
+ | |
+| A National Rent Strike and Urban Squatting
+ | |
+| A Boycott of American Business
+ | |
+| A Black General Strike
+ | |
+| The Commune: Community Control of the Black Community
+ | |
+| Building A Black survival program
+ | |
+| The Need for a Black Labor Federation
+ | |
+| Unemployment and Homelessness
+ | |
+| Crimes Against the People
+ | |
+| The Drug Epidemic: A New Form of Black Genocide?
+ | |
+| African Intercommunalism
+ | |
+| Armed Defense of the Black Commune
+ | |
+| Insurrection
+ | |
 | Chapter 3. Anarchist Theory and Practice | |
-| Types of Anarchists<br> | |
-| Anarchist Versus Marxist-Leninist Thought on Organization of Society<br> | |
-| General Principles of Anarchist-Communism<br> | |
-| Capitalism, the State and Private Property<br> | |
-| Anarchism, Violence and Authority<br> | |
-| Anarchists and Revolutionary Organization<br> | |
-| Why Am I An Anarchist?<br> | |
-## | What I Believe<br> | |
+| Types of Anarchists
+ | |
+| Anarchist Versus Marxist-Leninist Thought on Organization of Society
+ | |
+| General Principles of Anarchist-Communism
+ | |
+| Capitalism, the State and Private Property
+ | |
+| Anarchism, Violence and Authority
+ | |
+| Anarchists and Revolutionary Organization
+ | |
+| Why Am I An Anarchist?
+ | |
+## | What I Believe
+ | |
 
 | Appendix | 70 |
 |--------------------------------------------|----|

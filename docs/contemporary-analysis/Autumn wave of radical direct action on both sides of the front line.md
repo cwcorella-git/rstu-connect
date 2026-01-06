@@ -1,3 +1,8 @@
+---
+title: "## **Autumn wave of radical direct action on both sides of the front line**"
+category: "contemporary-analysis"
+---
+
 ## **Autumn wave of radical direct action on both sides of the front line**
 
 ## **Date:** Unknown

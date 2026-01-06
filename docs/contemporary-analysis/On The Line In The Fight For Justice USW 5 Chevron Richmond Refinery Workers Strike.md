@@ -1,3 +1,8 @@
+---
+title: "## **On The Line In The Fight For Justice: USW 5 Chevron Richmond Refinery Workers Strike**"
+category: "contemporary-analysis"
+---
+
 ## **On The Line In The Fight For Justice: USW 5 Chevron Richmond Refinery Workers Strike**
 
 ## **Date:** Mon, 03/28/2022 - 00:00

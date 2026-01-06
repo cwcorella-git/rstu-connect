@@ -1,3 +1,8 @@
+---
+title: "**Ptolemy I Soter**"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_2.jpeg)
 
 # **Ptolemy I Soter**

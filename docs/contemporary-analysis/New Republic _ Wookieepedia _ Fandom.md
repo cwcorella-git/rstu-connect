@@ -1,3 +1,8 @@
+---
+title: "**New Republic**"
+category: "contemporary-analysis"
+---
+
 [starwars.fandom.com](https://starwars.fandom.com/wiki/New_Republic)
 
 # **New Republic**
@@ -402,7 +407,7 @@ Under Organa's leadership, the Resistance became a private military force that k
 
 ## ![](_page_46_Picture_11.jpeg)
 
-<sup>&</sup>quot;If it does, it'll be dealt with then."
+&quot;If it does, it'll be dealt with then."
 
 ## ![](_page_47_Picture_2.jpeg)
 
@@ -612,7 +617,7 @@ As the successor to the Alliance to Restore the Republic, the New Republic saw i
 
 Galactic Empire, the New Republic eased restrictions on the media. Following the liberation of Akiva, the newly unfettered Holo Net reported on Imperial atrocities, such as the wholesale massacres of native populations carried out by Imperial commanders and Imperial suicide attacks on entrenched New Republic positions. [41] Media were allowed to debate current affairs events like the aftermath of Battle of Jakku. [38]
 
-The working <u>language</u> of the New Republic was <u>Galactic Basic</u> <u>Standard</u>,<sup>[1]</sup> and was the most used in the galaxy.<sup>[84]</sup> Aside from Basic however, several other languages were spoken freely across the Republic, including <u>Shyriiwook</u>,<sup>[41]</sup> <u>Rodian</u>,<sup>[88]</sup> and <u>Sullustese</u><sup>[89]</sup>
+The working language of the New Republic was Galactic Basic Standard,[1] and was the most used in the galaxy.[84] Aside from Basic however, several other languages were spoken freely across the Republic, including Shyriiwook,[41] Rodian,[88] and Sullustese[89]
 
 ## ![](_page_70_Picture_4.jpeg)
 
@@ -650,21 +655,21 @@ The New Republic also had a policy of not allowing organized crime syndicates to
 
 ## Republic that preceded it."
 
-## —Janyor<sup>[3]</sup>
+## —Janyor[3]
 
 ## ![](_page_73_Picture_4.jpeg)
 
 The New Republic was located throughout the known galaxy, but was only a fraction of the size of the Galactic Republic and the Galactic Empire.
 
-Towards the end of the <u>Galactic Civil War</u>, the New Republic had established themselves on the planet of <u>Chandrila</u> and also it's <u>sector</u>. [41] They also took over many Imperial worlds such as <u>Kuat</u>, <u>Arkanis</u>, [9] <u>Andara</u>, and <u>Akiva</u>. [3] By the end of war, the New Republic absorbed much of Imperial Space while parts of the Core, Colonies, and Inner Rim became part of an <u>Imperial Remnant</u> which remained peaceful to the New Republic. [9] However this imperial remnant would eventually collapse and it's members such as <u>Commenor</u> became part of the New Republic. [91] By <u>9 ABY</u> the Outer Rim was said to be under the jurisdiction of the New Republic. [92]
+Towards the end of the Galactic Civil War, the New Republic had established themselves on the planet of Chandrila and also it's sector. [41] They also took over many Imperial worlds such as Kuat, Arkanis, [9] Andara, and Akiva. [3] By the end of war, the New Republic absorbed much of Imperial Space while parts of the Core, Colonies, and Inner Rim became part of an Imperial Remnant which remained peaceful to the New Republic. [9] However this imperial remnant would eventually collapse and it's members such as Commenor became part of the New Republic. [91] By 9 ABY the Outer Rim was said to be under the jurisdiction of the New Republic. [92]
 
-Thirty years after the Battle of Endor, the New Republic occupied vast swaths of space stretching from the Inner Core to the Outer Rim Territories, and at that time had its rotating capital on the Core World of Hosnian Prime. [5] While a fraction the size of both the Galactic Republic and Empire, its egalitarian practices left many neighboring star systems on friendly terms with the new government.[3] Some known Republic worlds included Chandrila, Akiva, [1] Coruscant, Taris, Naboo, [7] Hevurion, Mirrin Prime, [5] Arkanis, Kuat, Sullust, and Daxam IV. [4] After the First Order's <u>secession</u> from the Republic, a narrow region of space existed as a neutral region of systems known as the Trans-Hydian Borderlands, in which an act of aggression within would be viewed as an overt act of war. Despite this, the First Order Navy frequently crossed the Borderlands and penetrated New Republic space, which led to incidents like the <u>Suraz engagement</u>. In spite of these violations of the Galactic Concordance, the New Republic refused to take action against the First Order beyond issuing formal diplomatic protests.[5]
+Thirty years after the Battle of Endor, the New Republic occupied vast swaths of space stretching from the Inner Core to the Outer Rim Territories, and at that time had its rotating capital on the Core World of Hosnian Prime. [5] While a fraction the size of both the Galactic Republic and Empire, its egalitarian practices left many neighboring star systems on friendly terms with the new government.[3] Some known Republic worlds included Chandrila, Akiva, [1] Coruscant, Taris, Naboo, [7] Hevurion, Mirrin Prime, [5] Arkanis, Kuat, Sullust, and Daxam IV. [4] After the First Order's secession from the Republic, a narrow region of space existed as a neutral region of systems known as the Trans-Hydian Borderlands, in which an act of aggression within would be viewed as an overt act of war. Despite this, the First Order Navy frequently crossed the Borderlands and penetrated New Republic space, which led to incidents like the Suraz engagement. In spite of these violations of the Galactic Concordance, the New Republic refused to take action against the First Order beyond issuing formal diplomatic protests.[5]
 
 ### **Behind the scenes**[
 
 ## ]
 
-In the new *Star Wars* <u>canon</u>, the New Republic first appeared in the novels <u>Aftermath</u> and <u>Lost Stars</u> by <u>Chuck Wendig</u> and <u>Claudia Gray</u> respectively. [1][38] The <u>New Republic</u> was originally created for <u>Star Wars Legends</u> where it first appeared in the [1991](https://starwars.fandom.com/wiki/1991) novel [Heir to the Empire](https://starwars.fandom.com/wiki/Heir_to_the_Empire) by [Timothy Zahn.](https://starwars.fandom.com/wiki/Timothy_Zahn) [\[93\]](about:reader?url=https%3A%2F%2Fstarwars.fandom.com%2Fwiki%2FNew_Republic#cite_note-Heir_to_the_Empire-93) The idea of rebuilding the Galactic Republic which was mentioned as part of the [Star Wars](https://starwars.fandom.com/wiki/Star_Wars) [original trilogy](https://starwars.fandom.com/wiki/Original_trilogy)'s backstory traces back from [George Lucas](https://starwars.fandom.com/wiki/George_Lucas)' early comments about at that time unplanned [sequel trilogy](https://starwars.fandom.com/wiki/Sequel_trilogy) in [1980,](https://starwars.fandom.com/wiki/1980) after the release of [Star Wars](https://starwars.fandom.com/wiki/Star_Wars:_Episode_V_The_Empire_Strikes_Back)[:](https://starwars.fandom.com/wiki/Star_Wars:_Episode_V_The_Empire_Strikes_Back) [Episode V](https://starwars.fandom.com/wiki/Star_Wars:_Episode_V_The_Empire_Strikes_Back) [The Empire Strikes Back](https://starwars.fandom.com/wiki/Star_Wars:_Episode_V_The_Empire_Strikes_Back). [\[94\]](about:reader?url=https%3A%2F%2Fstarwars.fandom.com%2Fwiki%2FNew_Republic#cite_note-George)
+In the new *Star Wars* canon, the New Republic first appeared in the novels Aftermath and Lost Stars by Chuck Wendig and Claudia Gray respectively. [1][38] The New Republic was originally created for Star Wars Legends where it first appeared in the [1991](https://starwars.fandom.com/wiki/1991) novel [Heir to the Empire](https://starwars.fandom.com/wiki/Heir_to_the_Empire) by [Timothy Zahn.](https://starwars.fandom.com/wiki/Timothy_Zahn) [\[93\]](about:reader?url=https%3A%2F%2Fstarwars.fandom.com%2Fwiki%2FNew_Republic#cite_note-Heir_to_the_Empire-93) The idea of rebuilding the Galactic Republic which was mentioned as part of the [Star Wars](https://starwars.fandom.com/wiki/Star_Wars) [original trilogy](https://starwars.fandom.com/wiki/Original_trilogy)'s backstory traces back from [George Lucas](https://starwars.fandom.com/wiki/George_Lucas)' early comments about at that time unplanned [sequel trilogy](https://starwars.fandom.com/wiki/Sequel_trilogy) in [1980,](https://starwars.fandom.com/wiki/1980) after the release of [Star Wars](https://starwars.fandom.com/wiki/Star_Wars:_Episode_V_The_Empire_Strikes_Back)[:](https://starwars.fandom.com/wiki/Star_Wars:_Episode_V_The_Empire_Strikes_Back) [Episode V](https://starwars.fandom.com/wiki/Star_Wars:_Episode_V_The_Empire_Strikes_Back) [The Empire Strikes Back](https://starwars.fandom.com/wiki/Star_Wars:_Episode_V_The_Empire_Strikes_Back). [\[94\]](about:reader?url=https%3A%2F%2Fstarwars.fandom.com%2Fwiki%2FNew_Republic#cite_note-George)
 
 In the [2014](https://starwars.fandom.com/wiki/2014) [canon](https://starwars.fandom.com/wiki/Canon) mobile game [Star Wars: Galactic Defense](https://starwars.fandom.com/wiki/Star_Wars:_Galactic_Defense), [Tarfful](https://starwars.fandom.com/wiki/Tarfful) can be seen yelling "hnn-rowr yrroonn nng rarr"—text that first appeared in the Legends comic [Star Wars: Empire's](https://starwars.fandom.com/wiki/Star_Wars:_Empire%27s_End) [End](https://starwars.fandom.com/wiki/Star_Wars:_Empire%27s_End) and meant "Long live the New Republic," when translated from [Shyriiwook.](https://starwars.fandom.com/wiki/Shyriiwook) [\[95\]](about:reader?url=https%3A%2F%2Fstarwars.fandom.com%2Fwiki%2FNew_Republic#cite_note-GD-95)[\[96\]](about:reader?url=https%3A%2F%2Fstarwars.fandom.com%2Fwiki%2FNew_Republic#cite_note-Empire) However, Galactic Defense takes place during the time when the Galactic Republic was still standing and long before the New Republic arose[.\[95\]](about:reader?url=https%3A%2F%2Fstarwars.fandom.com%2Fwiki%2FNew_Republic#cite_note-GD-95) As such, this article assumes that the line has a different meaning in new canon media.
 

@@ -1,8 +1,13 @@
+---
+title: "**Cheap moving parallax cloud shader for Godot - Victor Karp**"
+category: "contemporary-analysis"
+---
+
 #### [victorkarp.com](https://victorkarp.com/godot-cloud-shader/)
 
-# **Cheap moving parallax cloud shader for Godot – Victor Karp**
+# **Cheap moving parallax cloud shader for Godot - Victor Karp**
 
-6–7 minutes
+6-7 minutes
 
 ## Last Updated on 30. May 2025
 
@@ -12,7 +17,7 @@ Let's see it in action first before diving into the shader graph. Here's what it
 
 ## 1 of 12 10/23/25, 6:58 AM
 
-## �:�� / �:��
+## : / :
 
 By using different noise textures and color ramps, various types of clouds can be produced.
 
@@ -72,7 +77,7 @@ The Wind Intensity is used for the UVFunc's Scale, the Wind Direction for the Of
 
 The top layer is a bit more complex. Because we are reusing the same cloud texture for both layers, we need to rotate the top layer so there are no obvious repetitions. We do this by rotating the layer's UVs and the Wind Direction by the same Top Rotation value. If we wouldn't rotate the Wind Direction as well, the clouds would no longer move in the same direction as the bottom layer.
 
-The UVs are also scaled by a Top Scale value – this again gives us the option to tweak the appearance. It's also helpful to break up the repeating patterns a bit more by using values like [0.9, 1.1].
+The UVs are also scaled by a Top Scale value - this again gives us the option to tweak the appearance. It's also helpful to break up the repeating patterns a bit more by using values like [0.9, 1.1].
 
 A Top Speed Factor is used to scale the layer's speed in relation to the bottom layers speed.
 

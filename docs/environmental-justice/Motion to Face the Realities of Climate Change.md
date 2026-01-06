@@ -1,3 +1,8 @@
+---
+title: "**Motion to Face the Realities of Climate Change**"
+category: "environmental-justice"
+---
+
 # **Motion to Face the Realities of Climate Change**
 
 ## **Date:** Mon, 03/14/2016 - 18:55
@@ -45,4 +50,5 @@ that we call upon the United Association to form a Climate Change Commission of 
 | our planet, and our Union. |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Disclaimer: |
-| The views expressed here are not the official position of the IWW (or even the IWW's EUC)<br>and do not necessarily represent the views of anyone but the author's. |
+| The views expressed here are not the official position of the IWW (or even the IWW's EUC)
+and do not necessarily represent the views of anyone but the author's. |

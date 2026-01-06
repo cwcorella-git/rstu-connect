@@ -1,3 +1,8 @@
+---
+title: "## [designboom.com](https://www.designboom.com/architecture/orange-concrete-blocks-residential-compl"
+category: "contemporary-analysis"
+---
+
 ## [designboom.com](https://www.designboom.com/architecture/orange-concrete-blocks-residential-complex-mexico-mta-v-01-28-2023/)
 
 ## orange-tinted concrete blocks subtly stack residential complex in mexico

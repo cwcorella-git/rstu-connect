@@ -1,3 +1,8 @@
+---
+title: "## **Jean Grave on Colonization – Jeff Shantz**"
+category: "contemporary-analysis"
+---
+
 ## **Jean Grave on Colonization – Jeff Shantz**
 
 ## **Date:** Unknown

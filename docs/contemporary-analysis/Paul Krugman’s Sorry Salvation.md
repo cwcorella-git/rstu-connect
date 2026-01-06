@@ -1,3 +1,8 @@
+---
+title: "## **Paul Krugman's Sorry Salvation**"
+category: "contemporary-analysis"
+---
+
 ## **Paul Krugman's Sorry Salvation**
 
 ## **Date:** Fri, 03/11/2016 - 14:13
@@ -18,10 +23,14 @@ Krugman dismisses the environmentalist notion, in "Salvation Gets Cheap," "that 
 
 The models Krugman cites must not be mistaken with reality. In fact, they overwhelmingly rely on speculative technologies for removing greenhouse gases out of the atmosphere and, in some cases, time travel. Yes, some of the scenarios involve a global peak of emissions
 
-| starting in 2010, which would require the invention of the time machine. According to Tyndall<br>Centre for |
+| starting in 2010, which would require the invention of the time machine. According to Tyndall
+Centre for |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Climate |
-| Change's deputy director Kevin Anderson, "the complete set of 400 IPCC scenarios for a 50%<br>chance or better of 2°C assume either an ability to travel back in time or the successful and<br>large-scale uptake of speculative negative emission technologies. A significant proportion of<br>the scenarios are dependent on both ' |
+| Change's deputy director Kevin Anderson, "the complete set of 400 IPCC scenarios for a 50%
+chance or better of 2°C assume either an ability to travel back in time or the successful and
+large-scale uptake of speculative negative emission technologies. A significant proportion of
+the scenarios are dependent on both ' |
 | time travel |
 | and |
 | geo-engineering |
@@ -30,7 +39,10 @@ The models Krugman cites must not be mistaken with reality. In fact, they overwh
 | growth is |
 | not |
 | compatible |
-| with necessary global emissions reductions. Searching the literature, they do not find a single<br>model suggesting growth is compatible with 4% or more annual emissions cuts. Anderson and<br>Bows-Larkin quote the leading climate economist Nicholas Stern (who Krugman professes to<br>" |
+| with necessary global emissions reductions. Searching the literature, they do not find a single
+model suggesting growth is compatible with 4% or more annual emissions cuts. Anderson and
+Bows-Larkin quote the leading climate economist Nicholas Stern (who Krugman professes to
+" |
 
 | deeply respect |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -38,9 +50,13 @@ The models Krugman cites must not be mistaken with reality. In fact, they overwh
 | been associated only with economic recession or upheaval |
 | ." |
 | Step 2: Pick a "practical" target |
-| Undeterred, Krugman proceeds by picking an alarming target of 2°C global warming. Even<br>the "ambitious" IPCC scenarios he cites aim for merely a "likely" (two-thirds or more) chance<br>of staying within this limit. In a book review of his mentor William Nordhaus's |
+| Undeterred, Krugman proceeds by picking an alarming target of 2°C global warming. Even
+the "ambitious" IPCC scenarios he cites aim for merely a "likely" (two-thirds or more) chance
+of staying within this limit. In a book review of his mentor William Nordhaus's |
 | The Climate Casino |
-| , Krugman offers no complaint regarding Nordhaus's choice of an even more dangerous<br>2.3°C target. "Some might consider even this policy inadequate," Krugman writes in the<br>review, "but it's far beyond anything currently on the political agenda, so |
+| , Krugman offers no complaint regarding Nordhaus's choice of an even more dangerous
+2.3°C target. "Some might consider even this policy inadequate," Krugman writes in the
+review, "but it's far beyond anything currently on the political agenda, so |
 | as a practical matter |
 | Nordhaus and the most hawkish of climate activists are entirely on the same side." |
 | The problem with this excuse is that Krugman's bi-weekly columns |
@@ -109,7 +125,8 @@ Krugman almost never bothers to look below and write about indigenous people fig
 
 (W. W. Norton & Company, 2009), Krugman proudly situates himself among the liberal tradition of "people who believed that capitalism could be made more just without being abolished.". He distances himself from "genuinely dangerous radicals" such as "communists and anarchists" (32-33). Although some radicals are certainly dangerous, Krugman fails to confront the comparable danger of his liberal climate denialism, which steers the Earth toward climate changes that have never happened throughout human civilization.
 
-| Krugman admitted a couple years ago that when he first read a 2007 book by the journalist<br>Naomi Klein, |
+| Krugman admitted a couple years ago that when he first read a 2007 book by the journalist
+Naomi Klein, |
 |-----------------------------------------------------------------------------------------------------------|
 | he |
 | " |

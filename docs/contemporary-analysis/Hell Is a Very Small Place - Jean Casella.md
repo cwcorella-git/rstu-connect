@@ -1,3 +1,8 @@
+---
+title: "Hell Is a Very Small Place"
+category: "contemporary-analysis"
+---
+
 OICES from SOLITARY CONFINEMENT Jean Casella James Ridge Word Edited Sarah Shourd
 
 # Hell Is a Very Small Place
@@ -278,11 +283,11 @@ Opponents of solitary also contend with the fact that data on the use of solitar
 
 These are the voices that make up this book. They are not meant to serve as an exhaustive or even representative cross-section of people in solitary confinement. In fact, they could never be more than a partial sampling because a large number of people in solitary are not literate, while others suffer from mental illness so severe that it impedes their ability to communicate. These are just a few among the many voices that managed to reach out from a dark and closely guarded world. For those who have left their solitary cells behind and now live in the free world, the process of remembering and recording their experiences for this book was a painful and therefore courageous one. For those who remain buried alive, it was more courageous still because by allowing themselves to be published they risk retaliation in prison. They have taken this risk so that you, their readers, may bear witness to what Charles Dickens called their "terrible endurance," and in the hope that you too will denounce this "secret punishment" that none but those who suffer it can fathom.
 
-<sup>1</sup>. Eastern State Penitentiary website, Timeline: [http://www.easternstate.org/learn/timeline.](http://www.easternstate.org/learn/timeline)
+1. Eastern State Penitentiary website, Timeline: [http://www.easternstate.org/learn/timeline.](http://www.easternstate.org/learn/timeline)
 
-<sup>2</sup>. Kaelyn E. Considine, "'The Tragedy of the Penitentiary': The Philadelphia Society for Alleviating the Miseries of Public Prisons and the Formation of the Eastern State Penitentiary," *Concept* 32 (2009), 1–14: [http://concept.journals.villanova.edu/article/view File/302/265.](http://concept.journals.villanova.edu/article/view File/302/265)
+2. Kaelyn E. Considine, "'The Tragedy of the Penitentiary': The Philadelphia Society for Alleviating the Miseries of Public Prisons and the Formation of the Eastern State Penitentiary," *Concept* 32 (2009), 1–14: [http://concept.journals.villanova.edu/article/view File/302/265.](http://concept.journals.villanova.edu/article/view File/302/265)
 
-<sup>3</sup>. On the birth of the prison reform movement, see Adam J. Hirsch, *The Rise of the Penitentiary: Prisons and Punishment in Early America* (New Haven, CT: Yale University Press,
+3. On the birth of the prison reform movement, see Adam J. Hirsch, *The Rise of the Penitentiary: Prisons and Punishment in Early America* (New Haven, CT: Yale University Press,
 
 - 1992) and Caleb Smith, *The Prison and the American Imagination* (New Haven, CT: Yale University Press, 2009).
 - 4. Michel Foucault, *Discipline and Punish: The Birth of the Prison* (New York: Random House), 73–103.
@@ -290,10 +295,10 @@ These are the voices that make up this book. They are not meant to serve as an e
 - 6. Eastern State Penitentiary website, Timeline and History: General Overview: [http://www.easternstate.org/learn/research-library/history.](http://www.easternstate.org/learn/research-library/history)
 - 7. Charles Dickens, *American Notes for General Circulation* (1842), quoted in Mary Hawthorne, "Dept. of Amplification: Charles Dickens on Solitary Confinement," *The New Yorker* online, May 29, 2009: [http://www.newyorker.com/books/page-turner/dept-of-amplification-charles](http://www.newyorker.com/books/page-turner/dept-of-amplification-charles-dickens-on-solitary-confinement)[dickens-on-solitary-confinement.](http://www.newyorker.com/books/page-turner/dept-of-amplification-charles-dickens-on-solitary-confinement)
 - 8. Even the U. S. Supreme Court noted the cruelty and inefficacy of solitary confinement in *In Re Medley* (1890), discussed in the "Perspectives" section of this volume by Stuart Grassian and Laura Rovner.
- - 9. *Alcatraz History* website, Birdman of Alcatraz: <http://www.alcatrazhistory.com/stroud.htm>.
+ - 9. *Alcatraz History* website, Birdman of Alcatraz: .
 - 10. The Committee to End the Marion Lockdown, "From Alcatraz to Marion to Florence: Control Unit Prisons in the United States" (1992): [http://people.umass.edu/~kastor/ceml\\_articles/cu\\_in\\_us.html.](http://people.umass.edu/~kastor/ceml_articles/cu_in_us.html) For more on Marion and the birth of supermax prisons, see Stephen C. Richards, *The Marion Experiment: Long-Term Solitary Confinement and the Supermax Movement* (Carbondale: Southern Illinois University Press, 2015) and Nancy Kurshan, *Out of Control: A Fifteen-Year Battle against Control Unit Prisons* (Berkeley, CA: Freedom Archives, 2013).
- - 11. Prison Policy Institute, States of Incarceration, 2014:<http://www.prisonpolicy.org/global/>.
-- 12. Deanna Pan, TIMELINE: Deinstitutionalization and Its Consequences, *Mother Jones* online, April 29, 2013: <http://www.motherjones.com/politics/2013/04/timeline-mental-health-america>.
+ - 11. Prison Policy Institute, States of Incarceration, 2014:.
+- 12. Deanna Pan, TIMELINE: Deinstitutionalization and Its Consequences, *Mother Jones* online, April 29, 2013: .
 - 13. For more of the development of and reasoning behind supermax prisons and control units, see Lorna Rhodes, *Total Confinement: Madness and Reason in the Maximum Security Prison* (Berkeley: University of California Press, 2004) and Sharon Shalev, *Supermax: Controlling Risk Through Solitary Confinement* (Cullompton, Devon, UK: Willan Publishing, 2009).
 - 14. Department of Justice, Fact Sheet, Violent Crime Control and Law Enforcement Act of 1994, October 24, 1994: [https://www.ncjrs.gov/txtfiles/billfs.txt.](https://www.ncjrs.gov/txtfiles/billfs.txt)
 - 15. Daniel P. Mears, *Evaluating the Effectiveness of Supermax Prisons,* Urban Institute Justice Policy Center Research Report, March 2006: [http://webarchive.urban.org/UploadedPDF/411326\\_supermax\\_prisons.pdf](http://webarchive.urban.org/UploadedPDF/411326_supermax_prisons.pdf).
@@ -311,11 +316,11 @@ These are the voices that make up this book. They are not meant to serve as an e
 - 24. See Margo Schlanger, "Prison Segregation: Symposium Introduction and Preliminary Data on Racial Disparities," *Michigan Journal of Race & Law* 241 (2013): [http://papers.ssrn.com/sol3/papers.cfm?abstract\\_id=2237979](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2237979). Also see Bonnie Kerness and Jamie Bissonette Lewey, "Race and the Politics of Isolation in U. S. Prisons," *Atlantic Journal of Communication* 22:1: [http://dx.doi.org/10.1080/15456870.2014.860146.](http://dx.doi.org/10.1080/15456870.2014.860146)
 - 25. See Laura L. Rovner and Jeanne Theoharis, "Preferring Order to Justice," *American University Law Review* 61 (2012): [http://papers.ssrn.com/sol3/papers.cfm?abstract\\_id=2079776](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2079776) and Human Rights Watch and Columbia Law School Human Rights Institute, *Illusion of Justice Human Rights Abuses in US Terrorism Prosecutions,* July 2014: [http://web.law.columbia.edu/sites/default/files/microsites/human-rights-institute/files/final\\_report\\_-](http://web.law.columbia.edu/sites/default/files/microsites/human-rights-institute/files/final_report_-_illusion_of_justice.pdf) [\\_illusion\\_of\\_justice.pdf.](http://web.law.columbia.edu/sites/default/files/microsites/human-rights-institute/files/final_report_-_illusion_of_justice.pdf)
 - 26. Such is the case with the Angola 3's Herman Wallace and Albert Woodfox. See Wallace's piece in this volume, and James Ridgeway and Jean Casella, "Torturous Milestone: 40 Years in Solitary," *Mother Jones* online, April 17, 2012: [http://www.motherjones.com/politics/2012/04/angola-prison-3-herman-wallace-albert-woodfox-40](http://www.motherjones.com/politics/2012/04/angola-prison-3-herman-wallace-albert-woodfox-40-years-solitary-confinement) [years-solitary-confinement](http://www.motherjones.com/politics/2012/04/angola-prison-3-herman-wallace-albert-woodfox-40-years-solitary-confinement).
-- 27. E. Fuller Torrey et al., *The Treatment of Persons with Mental Illness in Prisons and Jails: A State Survey,* Treatment Advocacy Center and National Sheriffs' Association, April 8, 2014: <http://tacreports.org/storage/documents/treatment-behind-bars/treatment-behind-bars.pdf>.
+- 27. E. Fuller Torrey et al., *The Treatment of Persons with Mental Illness in Prisons and Jails: A State Survey,* Treatment Advocacy Center and National Sheriffs' Association, April 8, 2014: .
 - 28. See, for example, James Ridgeway, "The Secret World of Deaf Prisoners," The Crime Report, September 29, 2009: [http://www.thecrimereport.org/news/inside-criminal-justice/the-secret-world-of-](http://www.thecrimereport.org/news/inside-criminal-justice/the-secret-world-of-deaf-prisoners)
 
-- [deaf-prisoners](http://www.thecrimereport.org/news/inside-criminal-justice/the-secret-world-of-deaf-prisoners), and "The Silent Treatment," *Mother Jones* online, March/April 2012: <http://www.motherjones.com/politics/2011/12/deaf-prisoners-felix-garcia>.
-- 29. Human Rights Watch, *Ill-Equipped: U. S. Prisons and Offenders with Mental Illness,* October 23, 2003:<http://www.hrw.org/reports/2003/10/21/ill-equipped>.
+- [deaf-prisoners](http://www.thecrimereport.org/news/inside-criminal-justice/the-secret-world-of-deaf-prisoners), and "The Silent Treatment," *Mother Jones* online, March/April 2012: .
+- 29. Human Rights Watch, *Ill-Equipped: U. S. Prisons and Offenders with Mental Illness,* October 23, 2003:.
 - 30. Ian Kysel, *Growing Up Locked Down: Youth in Solitary Confinement in Jails and Prisons Across the United States,* ACLU and Human Rights Watch, October 2012: [https://www.aclu.org/files/assets/us1012webwcover.pdf.](https://www.aclu.org/files/assets/us1012webwcover.pdf)
 - 31. Aviva Stahl, "Transgender Women in New York State Prisons Face Solitary Confinement and Sexual Assault," Solitary Watch, August 7, 2014: [http://solitarywatch.com/2014/08/07/transgender](http://solitarywatch.com/2014/08/07/transgender-women-in-new-york-state-prisons-face-solitary-confinement-and-sexual-assault/)[women-in-new-york-state-prisons-face-solitary-confinement-and-sexual-assault/.](http://solitarywatch.com/2014/08/07/transgender-women-in-new-york-state-prisons-face-solitary-confinement-and-sexual-assault/)
 - 32. National Immigrant Justice Center and Physicians for Human Rights, *Invisible in Isolation: The Use of Segregation and Solitary Confinement in Immigration Detention,* September 2012: [http://www.immigrantjustice.org/sites/immigrantjustice.org/files/Invisible%20in%20Isolation-](http://www.immigrantjustice.org/sites/immigrantjustice.org/files/Invisible%20in%20Isolation-The%20Use%20of%20Segregation%20and%20Solitary%20Confinement%20in%20Immigration%20Detention. September%202012_3.pdf)[The%20Use%20of%20Segregation%20and%20Solitary%20Confinement%20in%20Immigration%2](http://www.immigrantjustice.org/sites/immigrantjustice.org/files/Invisible%20in%20Isolation-The%20Use%20of%20Segregation%20and%20Solitary%20Confinement%20in%20Immigration%20Detention. September%202012_3.pdf) [0Detention. September%202012\\_3.pdf](http://www.immigrantjustice.org/sites/immigrantjustice.org/files/Invisible%20in%20Isolation-The%20Use%20of%20Segregation%20and%20Solitary%20Confinement%20in%20Immigration%20Detention. September%202012_3.pdf).
@@ -325,10 +330,10 @@ These are the voices that make up this book. They are not meant to serve as an e
 - 36. American Civil Liberties Union, *The Dangerous Overuse of Solitary Confinement in the United States* (ACLU Briefing Paper), August 2014: [https://www.aclu.org/sites/default/files/field\\_document/2014.10.30.stop\\_solitary\\_briefing\\_paper\\_upd](https://www.aclu.org/sites/default/files/field_document/2014.10.30.stop_solitary_briefing_paper_updated_august_2014.pdf) [ated\\_august\\_2014.pdf.](https://www.aclu.org/sites/default/files/field_document/2014.10.30.stop_solitary_briefing_paper_updated_august_2014.pdf)
 - 37. See American Civil Liberties Union Stop Solitary Project, Solitary Confinement: Resource Materials—Mental Health Effects of Extreme Isolation: [https://www.aclu.org/files/assets/Solitary%20Confinement%20Resource%20Materials%2012%2017](https://www.aclu.org/files/assets/Solitary%20Confinement%20Resource%20Materials%2012%2017%2013.pdf#page=4) [%2013.pdf#page=4.](https://www.aclu.org/files/assets/Solitary%20Confinement%20Resource%20Materials%2012%2017%2013.pdf#page=4) Also see Sharon Shalev, *A Sourcebook on Solitary Confinement,* Chapter 2 (London: Mannheim Centre for Criminology, London School of Economics, 2008): [http://solitaryconfinement.org/uploads/sourcebook\\_02.pdf](http://solitaryconfinement.org/uploads/sourcebook_02.pdf).
 - 38. Maclyn Willigan, "What Solitary Confinement Does to the Human Brain," Solitary Watch, August 4, 2014: [http://solitarywatch.com/2014/08/04/what-solitary-confinement-does-to-the-human](http://solitarywatch.com/2014/08/04/what-solitary-confinement-does-to-the-human-brain/)[brain/.](http://solitarywatch.com/2014/08/04/what-solitary-confinement-does-to-the-human-brain/) Also see Shruti Ravindran, "Twilight in the Box," Aeon, February 27, 2014: [http://aeon.co/magazine/society/what-solitary-confinement-does-to-the-brain/.](http://aeon.co/magazine/society/what-solitary-confinement-does-to-the-brain/)
-- 39. Fatos Kaba et al., "Solitary Confinement and Risk of Self-Harm among Jail Inmates," *American Journal of Public Health* 104:3 (2014): <http://ajph.aphapublications.org/doi/pdf/10.2105/AJPH.2013.301742>.
+- 39. Fatos Kaba et al., "Solitary Confinement and Risk of Self-Harm among Jail Inmates," *American Journal of Public Health* 104:3 (2014): .
 - 40. Susan Greene, "The Gray Box," The Ochberg Society, January 24, 2012: [http://www.ochbergsociety.org/magazine/2012/01/the-gray-box-an-original-investigation/,](http://www.ochbergsociety.org/magazine/2012/01/the-gray-box-an-original-investigation/) and Testimony of Anthony Graves before the Senate Judiciary Subcommittee on the Constitution, Civil
 
-- Rights and Human Rights, Hearing on "Reassessing Solitary Confinement: The Human Rights, Fiscal, and Public Safety Consequences," June 19, 2012: <http://www.judiciary.senate.gov/imo/media/doc/CHRG-112shrg87630.pdf>.
+- Rights and Human Rights, Hearing on "Reassessing Solitary Confinement: The Human Rights, Fiscal, and Public Safety Consequences," June 19, 2012: .
 - 41. Allegra Helena, "Momentum Building against Juvenile Solitary Confinement," ACLU of Montana, October 12, 2012: [http://aclumontana.org/momentum-building-against-juvenile-solitary](http://aclumontana.org/momentum-building-against-juvenile-solitary-confinement/)[confinement/.](http://aclumontana.org/momentum-building-against-juvenile-solitary-confinement/)
 - 42. Commission on Safety and Abuse in America's Prisons, *Confronting Confinement* (New York: Vera Institute of Justice, 2006), 55: [http://www.vera.org/sites/default/files/resources/downloads/Confronting\\_Confinement.pdf](http://www.vera.org/sites/default/files/resources/downloads/Confronting_Confinement.pdf).
 - 43. Susan Greene, "CO Prison Officials Acknowledge Chief's Murder Tied to Solitary Confinement Policies," *Colorado Independent,* July 8, 2013: [http://www.coloradoindependent.com/128438/co-prison-officials-acknowledge-chiefs-murder-tied](http://www.coloradoindependent.com/128438/co-prison-officials-acknowledge-chiefs-murder-tied-to-solitary-confinement-policies)[to-solitary-confinement-policies.](http://www.coloradoindependent.com/128438/co-prison-officials-acknowledge-chiefs-murder-tied-to-solitary-confinement-policies)
@@ -340,16 +345,16 @@ These are the voices that make up this book. They are not meant to serve as an e
 - 49. Jeffrey Ian Ross, "Is the End in Sight for Supermax?" *Forbes*, April 19, 2006: [http://www.forbes.com/2006/04/15/prison-supermax-ross\\_cx\\_jr\\_06slate\\_0418super.html](http://www.forbes.com/2006/04/15/prison-supermax-ross_cx_jr_06slate_0418super.html).
 - 50. Atul Gawande, "Hellhole," *The New Yorker,* March 30, 2009: [http://www.newyorker.com/magazine/2009/03/30/hellhole.](http://www.newyorker.com/magazine/2009/03/30/hellhole)
 - 51. They include Susan Greene and Alan Prendergast in Colorado, Lance Tapley in Maine, George Pawlaczyk and Beth Hundsdorfer in Illinois, and Mary Beth Pfeiffer in New York. See James Ridgeway, "Fortresses of Solitude," *Columbia Journalism Review,* March/April 2013: [http://www.cjr.org/cover\\_story/fortresses\\_of\\_solitude.php.](http://www.cjr.org/cover_story/fortresses_of_solitude.php)
- - 52. "About Solitary Watch":<http://solitarywatch.com/about/>.
+ - 52. "About Solitary Watch":.
 - 53. See "The California Hunger Strike Explained," *Mother Jones* online, August 27, 2013: [http://www.motherjones.com/politics/2013/08/50-days-california-prisons-hunger-strike-explainer.](http://www.motherjones.com/politics/2013/08/50-days-california-prisons-hunger-strike-explainer)
 - 54. Victoria Law, "Two Years After Hunger Strike, California Settlement May Release 2,000 Prisoners From Solitary," *Truthout,* September 2, 2015: [http://www.truth-out.org/news/item/32612-](http://www.truth-out.org/news/item/32612-two-years-after-hunger-strike-california-settlement-may-release-2000-prisoners-from-solitary)
 
 [two-years-after-hunger-strike-california-settlement-may-release-2000-prisoners-from-solitary](http://www.truth-out.org/news/item/32612-two-years-after-hunger-strike-california-settlement-may-release-2000-prisoners-from-solitary).
 
 - 55. Juan E. Méndez, *Interim Report of the Special Rapporteur of the Human Rights Council on Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment,* August 5, 2011: [http://solitaryconfinement.org/uploads/Spec Rap Torture Aug2011.pdf.](http://solitaryconfinement.org/uploads/Spec Rap Torture Aug2011.pdf) The report was presented to the UN General Assembly on October 18, 2011: [http://www.un.org/apps/news/story.asp?](http://www.un.org/apps/news/story.asp?NewsID=40097#. Uds QoT5ga Bg) [NewsID=40097#. Uds QoT5ga Bg.](http://www.un.org/apps/news/story.asp?NewsID=40097#. Uds QoT5ga Bg)
-- 56. Document Serial No. J–112–80, U. S. Washington: Government Printing Office, 2012: <http://www.judiciary.senate.gov/imo/media/doc/CHRG-112shrg87630.pdf>.
+- 56. Document Serial No. J–112–80, U. S. Washington: Government Printing Office, 2012: .
 - 57. See Jean Casella and James Ridgeway, "Audit of Solitary Confinement in Federal Prisons: An Inside Job Reaches Foregone Conclusions," Solitary Watch, March 2, 2015: [http://solitarywatch.com/2015/03/02/audit-of-solitary-confinement-in-federal-prisons-an-inside-job](http://solitarywatch.com/2015/03/02/audit-of-solitary-confinement-in-federal-prisons-an-inside-job-reaches-foregone-conclusions/)[reaches-foregone-conclusions/.](http://solitarywatch.com/2015/03/02/audit-of-solitary-confinement-in-federal-prisons-an-inside-job-reaches-foregone-conclusions/)
-- 58. Eli Hager and Gerald Rich, "Shifting Away from Solitary," The Marshall Project, December 23, 2014:<https://www.themarshallproject.org/2014/12/23/shifting-away-from-solitary>.
+- 58. Eli Hager and Gerald Rich, "Shifting Away from Solitary," The Marshall Project, December 23, 2014:.
 - 59. See Samuel Weiss and Amy Fettig, "Supreme Court Justice Kennedy Denounces 'Human Toll' of Solitary Confinement and Invites Constitutional Challenge," *Solitary Watch,* June 23, 2015: [http://solitarywatch.com/2015/06/23/supreme-court-justice-kennedy-denounces-human-toll-of](http://solitarywatch.com/2015/06/23/supreme-court-justice-kennedy-denounces-human-toll-of-solitary-confinement-and-invites-constitutional-challenge/)[solitary-confinement-and-invites-constitutional-challenge/](http://solitarywatch.com/2015/06/23/supreme-court-justice-kennedy-denounces-human-toll-of-solitary-confinement-and-invites-constitutional-challenge/) and Jean Casella, "Pope Francis Denounces Solitary Confinement, Calls for Prison Conditions That 'Respect Human Dignity,'" *Solitary Watch,* October 26, 2014: [http://solitarywatch.com/2014/10/26/pope-francis-denounces](http://solitarywatch.com/2014/10/26/pope-francis-denounces-solitary-confinement-calls-for-prison-conditions-that-respect-human-dignity/)[solitary-confinement-calls-for-prison-conditions-that-respect-human-dignity/.](http://solitarywatch.com/2014/10/26/pope-francis-denounces-solitary-confinement-calls-for-prison-conditions-that-respect-human-dignity/)
 - 60. See Jean Casella, "Way Down in the Hole," Solitary Watch, Counterpunch, March 6, 2014: [http://www.counterpunch.org/2014/03/06/way-down-in-the-hole/.](http://www.counterpunch.org/2014/03/06/way-down-in-the-hole/)
 
@@ -799,9 +804,9 @@ The next day they move an inmate across from me named Reed. I jump down on the f
 
 One day I notice Reed getting a food tray like everyone else. One of the nice officers had left the window open on our cell door that morning. I hear Reed call me to my window so I step up. It's the first time I've seen him face to face.
 
-<sup>&</sup>quot;What's going on, Reed?" I ask.
+&quot;What's going on, Reed?" I ask.
 
-<sup>&</sup>quot;You know what?" he begins.
+&quot;You know what?" he begins.
 
 "Naw, what?" I ask.
 
@@ -1628,15 +1633,15 @@ Of course, what I am outlining here in very abstract terms is what has been trie
 
 1. Erving Goffman (1962) *Asylums: Essays on the Social Situation of Mental Patients and Other Inmates.* Aldine, Chicago. Thomas J. Scheff (1966) *Being Mentally Ill.* Aldine, Chicago.
 
-<sup>2</sup>. Terry A. Kupers (1999) *Prison Madness: The Mental Health Crisis Behind Bars and What We Must Do About It.* Jossey-Bass/Wiley, San Francisco.
+2. Terry A. Kupers (1999) *Prison Madness: The Mental Health Crisis Behind Bars and What We Must Do About It.* Jossey-Bass/Wiley, San Francisco.
 
-<sup>3</sup>. Paul B. Paulus, Garvin Mc Cain, and Verne C. Cox (1978) Death Rates, Psychiatric Commitments, Blood Pressure, and Perceived Crowding as a Function of Institutional Crowding. *Environmental Psychology and Nonverbal Behavior,* 3, 107–117. Terence P. Thornberry and Jack E. Call (1983) Constitutional Challenges to Prison Overcrowding: The Scientific Evidence of Harmful Effects. *Hastings Law Journal,* 35, 313–53.
+3. Paul B. Paulus, Garvin Mc Cain, and Verne C. Cox (1978) Death Rates, Psychiatric Commitments, Blood Pressure, and Perceived Crowding as a Function of Institutional Crowding. *Environmental Psychology and Nonverbal Behavior,* 3, 107–117. Terence P. Thornberry and Jack E. Call (1983) Constitutional Challenges to Prison Overcrowding: The Scientific Evidence of Harmful Effects. *Hastings Law Journal,* 35, 313–53.
 
-<sup>4</sup>. David Garland (2001) *The Culture of Control: Crime and Social Order in Contemporary Society.* University of Chicago Press, Chicago.
+4. David Garland (2001) *The Culture of Control: Crime and Social Order in Contemporary Society.* University of Chicago Press, Chicago.
 
-<sup>5</sup>. Christopher J. Mumola (1997) *Substance Abuse and Treatment, State and Federal Prisoners, 1997.* Bureau of Justice Statistics Special Report, U. S. Department of Justice, NCJ 172871, Washington, DC.
+5. Christopher J. Mumola (1997) *Substance Abuse and Treatment, State and Federal Prisoners, 1997.* Bureau of Justice Statistics Special Report, U. S. Department of Justice, NCJ 172871, Washington, DC.
 
-<sup>6</sup>. Robert Martinson (1974) What Works? Questions and Answers about Prison Reform. *Public Interest,* 3, 5, 22–54.
+6. Robert Martinson (1974) What Works? Questions and Answers about Prison Reform. *Public Interest,* 3, 5, 22–54.
 
 - 7. Robert Martinson (1979) New Findings, New Views: A Note of Caution Regarding Sentencing Reform. *Hofstra Law Review, 7,* 2, 243–58.
 - 8. Joseph T. Hallinan (2001) *Going Up the River: Travels in a Prison Nation.* Random House, New York.
@@ -1753,9 +1758,9 @@ The disability rights laws provide a more nuanced approach to addressing the col
 
 The law governing solitary confinement is complex and, in most instances, tilts heavily in favor of prison administrators. Since the 1960s, when confronted with legal challenges to long-term isolation, the federal courts have been loath to interfere with the judgment of correctional officials, deferring to them almost universally and uncritically when they assert safety and security justifications. 59 That said, the law is evolving, and solitary confinement appears to be one of those areas in which the law follows societal attitudes, rather than the other way around. The significant progress being made toward the reduction and condemnation of prison isolation by state legislatures, correctional systems, and international human rights bodies will, I hope, result in a comparable shift in American law.
 
-<sup>1</sup>. 134 U. S. 160 (1890).
+1. 134 U. S. 160 (1890).
 
-<sup>2</sup>. Ibid. at 168.
+2. Ibid. at 168.
 
 - 3. See, for example, Sharon Shalev, *Supermax: Controlling Risk through Solitary Confinement* 28–29 (2009).
 - 4. Robert Martinson, "What Works? Questions and Answers about Prison Reform." *The Public Interest* 35 (Spring): 22–54 (1974).
@@ -1942,11 +1947,11 @@ Much like contemporary federal counterterrorism practices, Japanese internment w
 
 *In June 2014, after spending seven years—a quarter of his life—in solitary confinement, Fahad Hashmi was transferred to the Communication Management Unit in Terre Haute, Indiana. He is serving a fifteen-year sentence and is set to be released in July 2019. He is no longer in solitary confinement.*
 
-<sup>1</sup>. Julie Otsuka, *When the Emperor Was Divine* (New York: Anchor, 2003).
+1. Julie Otsuka, *When the Emperor Was Divine* (New York: Anchor, 2003).
 
-<sup>2</sup>. Mark Binelli, "Inside America's Toughest Federal Prison," *New York Times* (March 26, 2015).
+2. Mark Binelli, "Inside America's Toughest Federal Prison," *New York Times* (March 26, 2015).
 
-<sup>3</sup>. For a longer treatment of his case and the extensive rights issues involved, see Laura Rovner and Jeanne Theoharis, "Preferring Order to Justice," *American University Law Review* (2012). For the broader context of surveillance and targeting of Muslim communities in New York and Muslim students in particular, see Matt Appuzzo and Adam Goldman, *Enemies Within: Inside the NYPD's*
+3. For a longer treatment of his case and the extensive rights issues involved, see Laura Rovner and Jeanne Theoharis, "Preferring Order to Justice," *American University Law Review* (2012). For the broader context of surveillance and targeting of Muslim communities in New York and Muslim students in particular, see Matt Appuzzo and Adam Goldman, *Enemies Within: Inside the NYPD's*
 
 *Secret Spying Unit and bin Laden's Final Plot against* America (New York: Touchstone, 2013) and Chris Hawley and Matt Appuzzo, "NYPD Infiltration of Colleges Raises Privacy Fears," AP (October 11, 2011).
 
@@ -2071,9 +2076,9 @@ Political life is grounded in the possibility of conversation, on the exchange o
 
 1. Hannah Arendt, *The Promise of Politics,* ed. Jerome Kohn (New York: Schocken, 2005), 161– 62.
 
-- 5. <http://www.nytimes.com/2011/05/24/us/24scotus.html?hp>. Accessed on August 6, 2013.
+- 5. . Accessed on August 6, 2013.
 - 6. Colin Dayan, *The Story of Cruel & Unusual* (Boston: MIT Press, 2007).
-- 7. <http://solitarywatch.com/faq/>. Accessed on August 15, 2013.
+- 7. . Accessed on August 15, 2013.
 - 8. [http://opinionator.blogs.nytimes.com/2012/08/26/the-living-death-of-solitary-confinement/.](http://opinionator.blogs.nytimes.com/2012/08/26/the-living-death-of-solitary-confinement/) Accessed on August 7, 2013.
  - 9. Arendt, *Origins of Totalitarianism,* 296.
  - 10. Ibid., 296.
@@ -2085,15 +2090,15 @@ Political life is grounded in the possibility of conversation, on the exchange o
  - 16. Ibid., 2, emphasis added.
 - 17. [http://www.nytimes.com/2013/04/15/opinion/hunger-striking-at-guantanamo-bay.html?\\_r=0.](http://www.nytimes.com/2013/04/15/opinion/hunger-striking-at-guantanamo-bay.html?_r=0) Accessed on August 12, 2013.
 
-<sup>2</sup>. Hannah Arendt, *Origins of Totalitarianism* (New York: Harcourt, Brace, Jovanovich, 1973), 302.
+2. Hannah Arendt, *Origins of Totalitarianism* (New York: Harcourt, Brace, Jovanovich, 1973), 302.
 
-<sup>3</sup>. Prisoner Hunger Strike Solidarity (2011), <http://prisonerhungerstrikesolidarity.wordpress.com/>. Accessed on August 5, 2013.
+3. Prisoner Hunger Strike Solidarity (2011), . Accessed on August 5, 2013.
 
-<sup>4</sup>. California Department of Corrections and Rehabilitation. [http://www.cdcr.ca.gov/Reports\\_Research/Offender\\_Information\\_Services\\_Branch/Annual/Cal Pris/C](http://www.cdcr.ca.gov/Reports_Research/Offender_Information_Services_Branch/Annual/Cal Pris/CALPRISd2010.pdf) [ALPRISd2010.pdf.](http://www.cdcr.ca.gov/Reports_Research/Offender_Information_Services_Branch/Annual/Cal Pris/CALPRISd2010.pdf) Accessed on August 5, 2013.
+4. California Department of Corrections and Rehabilitation. [http://www.cdcr.ca.gov/Reports\\_Research/Offender\\_Information\\_Services\\_Branch/Annual/Cal Pris/C](http://www.cdcr.ca.gov/Reports_Research/Offender_Information_Services_Branch/Annual/Cal Pris/CALPRISd2010.pdf) [ALPRISd2010.pdf.](http://www.cdcr.ca.gov/Reports_Research/Offender_Information_Services_Branch/Annual/Cal Pris/CALPRISd2010.pdf) Accessed on August 5, 2013.
 
 - 18. Refeeding Order, [http://www.scribd.com/doc/161727249/Order-Granting-Joint-Request-](http://www.scribd.com/doc/161727249/Order-Granting-Joint-Request-Authorizing-Refeeding)[Authorizing-Refeeding,](http://www.scribd.com/doc/161727249/Order-Granting-Joint-Request-Authorizing-Refeeding) 4.
  - 19. Ibid., 4, emphasis added.
-- 20. CCHCS Mass Hunger Strike, Fasting, & Refeeding Care Guide, 3, <http://www.cphcs.ca.gov/docs/careguides/Mass Hunger Strike Care Guide2012-10-4.pdf>. Accessed on August 10, 2013.
+- 20. CCHCS Mass Hunger Strike, Fasting, & Refeeding Care Guide, 3, . Accessed on August 10, 2013.
  - 21. *Madrid v. Gomez.* 889 F. Supp. 1146 (N. D. Cal. 1995), at 1280.
 - 22. [http://america.aljazeera.com/articles/2013/8/21/fear-and-hunger-inpelicanbay.html.](http://america.aljazeera.com/articles/2013/8/21/fear-and-hunger-inpelicanbay.html) Accessed on August 22, 2013.
 - 23. [http://www.believermag.com/issues/201302/?read=interview\\_dayan.](http://www.believermag.com/issues/201302/?read=interview_dayan) Accessed on August 20, 2013.

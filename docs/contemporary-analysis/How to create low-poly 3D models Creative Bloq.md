@@ -1,3 +1,8 @@
+---
+title: "How to create low-poly 3D models"
+category: "contemporary-analysis"
+---
+
 ### [creativebloq.com](https://www.creativebloq.com/3d/how-create-low-poly-3d-models-121310159)
 
 # How to create low-poly 3D models

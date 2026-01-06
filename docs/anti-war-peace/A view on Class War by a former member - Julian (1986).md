@@ -1,3 +1,8 @@
+---
+title: "## **A view on "Class War" by a former member - Julian (1986)**"
+category: "anti-war-peace"
+---
+
 ## **A view on "Class War" by a former member - Julian (1986)**
 
 ## **Date:** Unknown
@@ -28,16 +33,26 @@ Class War's main fault, and it includes all the others, is to be a political org
 
 | In reply to Welcomebylibcom.org |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| A lot of spontaneist twaddle from some kid doing a bit of slumming before going back to his<br>class |
+| A lot of spontaneist twaddle from some kid doing a bit of slumming before going back to his
+class |
 | alphafunction |
 | 16 years ago |
 | In reply toA lot of spontaneist twaddleby Battlescarred |
-| A knee-jerk response - unable to respond to the argument which would require a bit of thought<br>and reflection about yourself and your own organisation, you accuse the author - who plainly<br>says he wants effective organisation instead of the useless ones that tend to exist - of being<br>against all organisation. Also with no evidence - except perhaps that he makes some<br>observant points that trouble you - you accuse him of being bourgeois. |
-| I never knew the guy, how old he was when he wrote this, or the sociological background of<br>his family. I wouldn't care if he did come from a privileged background as it wouldn't discredit<br>his arguments. What I happen to know is that he committed suicide shortly after writing this. |
+| A knee-jerk response - unable to respond to the argument which would require a bit of thought
+and reflection about yourself and your own organisation, you accuse the author - who plainly
+says he wants effective organisation instead of the useless ones that tend to exist - of being
+against all organisation. Also with no evidence - except perhaps that he makes some
+observant points that trouble you - you accuse him of being bourgeois. |
+| I never knew the guy, how old he was when he wrote this, or the sociological background of
+his family. I wouldn't care if he did come from a privileged background as it wouldn't discredit
+his arguments. What I happen to know is that he committed suicide shortly after writing this. |
 | Red Marriott |
 | 16 years ago |
 | In reply to Welcomebylibcom.org |
-| Battlescarred makes a lot of assumptions; if he knew the author so well as he claims,<br>presumably he'd know he went, not "back to his class", whatever that was - but went off a cliff<br>instead. His depression was made worse by unfair criticisms from politicos he knew (not CW)<br>- some things don't change apparently, even after death. |
+| Battlescarred makes a lot of assumptions; if he knew the author so well as he claims,
+presumably he'd know he went, not "back to his class", whatever that was - but went off a cliff
+instead. His depression was made worse by unfair criticisms from politicos he knew (not CW)
+- some things don't change apparently, even after death. |
 
 Assuming that only a 'slumming bourgeois' would make such criticisms of groups like CW is also pretty dubious.
 
@@ -111,11 +126,16 @@ At least, please let's not say that everyone who thought he was a dickhead must 
 | 15 years 8 months ago |
 | In reply to Welcomebylibcom.org |
 | I don't know how well you knew him, ret. |
-| Not very well at all - but what I said against battlescarred etc's criticisms is not dependent on<br>needing to know him well. You may well be right about his background but it's beside the point<br>as regards what I said about him. As alphfunction already said; |
-| I never knew the guy, how old he was when he wrote this, or the sociological background of<br>his family. I wouldn't care if he did come from a privileged background as it wouldn't discredit<br>his arguments. |
+| Not very well at all - but what I said against battlescarred etc's criticisms is not dependent on
+needing to know him well. You may well be right about his background but it's beside the point
+as regards what I said about him. As alphfunction already said; |
+| I never knew the guy, how old he was when he wrote this, or the sociological background of
+his family. I wouldn't care if he did come from a privileged background as it wouldn't discredit
+his arguments. |
 | |
 | I don't know why you idolise this guy, ret. |
-| Oh, stop talking inaccurate shit - where did I ever say anything remotely like that? So<br>defending what he said against shallow criticism means I idolise him? Get real. I respect the |
+| Oh, stop talking inaccurate shit - where did I ever say anything remotely like that? So
+defending what he said against shallow criticism means I idolise him? Get real. I respect the |
 
 fact that he broke with CW and that he made the valid criticisms in the above article - which is more than anyone else in CW had done at the time, even those who quietly grumbled privately about what was wrong with the group. I could've hated the guy personally and still ackowledged that. Unlike yourself, my judgement of his critique of CW is basedon his critiquerather than a judgement of his personality.
 
@@ -157,10 +177,19 @@ I note that you choose not to respond to my point that the only constructive bit
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | (my italics) |
 | Situ alert? :-) |
-| and that he made the valid criticisms in the above article - which is more than anyone else in<br>CW had done at the time, even those who quietly grumbled privately about what was wrong<br>with the group. |
-| How do you know that it was more than anyone else had done? Many people leave politico<br>groups and politics altogether and have a pretty good "critique", which comes down to "yuck,<br>the hell withthatscene of nutters and time-wasters". God, that's most people who ever go<br>through those sorry scenes - it certainly applies to most people I know who left the ACF<br>around that time. Most of them don't express their criticisms by writing articles and getting<br>them published. |
-| I could've hated the guy personally and still ackowledged that. Unlike yourself, my judgement<br>of his critique of CW is based on his critique rather than a judgement of his personality. |
-| What do you do with the thoughts you have on people's personalities and how they relate to<br>their actions?? |
+| and that he made the valid criticisms in the above article - which is more than anyone else in
+CW had done at the time, even those who quietly grumbled privately about what was wrong
+with the group. |
+| How do you know that it was more than anyone else had done? Many people leave politico
+groups and politics altogether and have a pretty good "critique", which comes down to "yuck,
+the hell withthatscene of nutters and time-wasters". God, that's most people who ever go
+through those sorry scenes - it certainly applies to most people I know who left the ACF
+around that time. Most of them don't express their criticisms by writing articles and getting
+them published. |
+| I could've hated the guy personally and still ackowledged that. Unlike yourself, my judgement
+of his critique of CW is based on his critique rather than a judgement of his personality. |
+| What do you do with the thoughts you have on people's personalities and how they relate to
+their actions?? |
 | Jon Oncha |
 ## | Red Marriott |
 
@@ -224,7 +253,8 @@ You're obviously still so stuck being obsessed with the ancient past that you fe
 
 | In reply to Welcomebylibcom.org |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Class War isn't based on any practically applicable theory, hasn't any practice to build a<br>theory on and these deficiencies |
+| Class War isn't based on any practically applicable theory, hasn't any practice to build a
+theory on and these deficiencies |
 | I think that's a bonus, not a negative. |
 | Farce |
 | 15 years 8 months ago |
@@ -233,8 +263,11 @@ You're obviously still so stuck being obsessed with the ancient past that you fe
 | oncha |
 | 15 years 8 months ago |
 | In reply to Welcomebylibcom.org |
-| Don't be silly and rude, ret. I haven't insulted you. I've said very clearly that I agree with the<br>negative criticisms of CW that Julian makes in the article. So we have that in common. |
-| I just don't agree withwhat he implies should be done instead. It's you who seems to be<br>viewing everything in black and white. If you think my interpretation is wrong, why not offer an<br>alternative one? |
+| Don't be silly and rude, ret. I haven't insulted you. I've said very clearly that I agree with the
+negative criticisms of CW that Julian makes in the article. So we have that in common. |
+| I just don't agree withwhat he implies should be done instead. It's you who seems to be
+viewing everything in black and white. If you think my interpretation is wrong, why not offer an
+alternative one? |
 
 Also I can't be burnt-out otherwise I wouldn't be saying this stuff.
 
@@ -297,7 +330,10 @@ And I'm not trying to safeguard any political past or legacy. What are you actua
 | gypsy |
 | 15 years 8 months ago |
 | In reply to Welcomebylibcom.org |
-| Jon from someone who was a baby in the period of time you are talking about. I was<br>wondering what political movement you were in? What was the anarchist/left communist<br>scene like when you were in London? And I would also like to know what it is like now in<br>Germany? |
+| Jon from someone who was a baby in the period of time you are talking about. I was
+wondering what political movement you were in? What was the anarchist/left communist
+scene like when you were in London? And I would also like to know what it is like now in
+Germany? |
 | Steven. |
 | 15 years 8 months ago |
 ## | In reply to Welcomebylibcom.org |
@@ -327,23 +363,31 @@ So it's the same old mix of pointless bitchy gossip, inaccuracies, fantasy, half
 | 15 years 8 months ago |
 | In reply to Welcomebylibcom.org |
 | they must be overjoyed. |
-| Jason: they asked me for my archive and I was happy to give it to them. I wrote probably less<br>than 0.1% of the material in it. |
+| Jason: they asked me for my archive and I was happy to give it to them. I wrote probably less
+than 0.1% of the material in it. |
 | [Admin; personal details removed] |
 | Red Marriott |
 | 15 years 8 months ago |
 | In reply to Welcomebylibcom.org |
-| Frankly, I know myself that some of your claims are wrong and I'm more inclined to believe<br>those I've asked than someone who acts like you. One of your most obvious errors is that "the<br>older guy" had a falling out with those who founded CW years before - he would've been the<br>last person they'd ask to be involved. |
-| But your releasing of info on people from a position on the net where you know more about<br>them than they do about you seems to give you a real buzz - which looks a little sad and<br>desperate for attention. |
+| Frankly, I know myself that some of your claims are wrong and I'm more inclined to believe
+those I've asked than someone who acts like you. One of your most obvious errors is that "the
+older guy" had a falling out with those who founded CW years before - he would've been the
+last person they'd ask to be involved. |
+| But your releasing of info on people from a position on the net where you know more about
+them than they do about you seems to give you a real buzz - which looks a little sad and
+desperate for attention. |
 
 oncha
 
 | 15 years 8 months ago |
 |------------------------------------------------------------------------------------------------------------------------------------------|
 | In reply to Welcomebylibcom.org |
-| "the older guy" had a falling out with those who founded CW years before - he would've been<br>the last person they'd ask to be involved |
+| "the older guy" had a falling out with those who founded CW years before - he would've been
+the last person they'd ask to be involved |
 | You're getting confused, ret. |
 | [Admin; details removed] |
-| Alternatively of course, maybe I'm a twisting smearing disinformationist, but let's be serious<br>shall we? |
+| Alternatively of course, maybe I'm a twisting smearing disinformationist, but let's be serious
+shall we? |
 | Jon |
 | Jason Cortez |
 | 15 years 8 months ago |

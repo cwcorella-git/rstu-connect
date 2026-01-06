@@ -1,3 +1,8 @@
+---
+title: "**Zoe Baker**"
+category: "contemporary-analysis"
+---
+
 # **Zoe Baker**
 
 # **Means and Ends**
@@ -1047,7 +1052,7 @@ Anarchists responded to the wave of assassinations and bombings that began in th
 
 These sorts of statements were part of a broader trend in which the memory of anarchist assassins and bombers were incorporated into anarchist counterculture and took their place alongside other key events of remembrance, such as the anniversary of the Paris Commune. An Italian anarchist group in the United States, for example, named themselves "The Twenty-Ninth of July," after the day Bresci assassinated Umberto.[\[786\]](#page-262-12) This trend was not universal or always long-lasting. In Spain, several anarchist papers initially praised anarchist assassins and bombers as martyrs, but from 1898 onward, their names rarely appeared in print media.[\[787\]](#page-262-13)
 
-Anarchists, regardless of what they thought about the individuals who carried out assassinations and bombings, disagreed with one another about whether or not such acts were an effective means of contributing toward positive social change. Galleani wrote articles defending Pallás and Vaillant in December 1893, and publicly recommended a bomb-making manual in 1906 that featured an image of Ravachol on the front cover.[\[788\]](#page-262-14) Several years later, in 1925, Galleani argued that a wave of individual acts of violence was "<sup>a</sup> necessarily intermediary phenomenon between the sheer ideal or theoretical <sup>a</sup>ffirmation and the insurrectionary movement which follows it and kindles the torch of the victorious revolution."[\[789\]](#page-262-15) Just as Brousse had previously thought that anarchist-led insurrections transmitted lessons to the people, so too did Galleani think that assassinating monarchs was a powerful means of communication. It taught the oppressed classes that a monarch, who is believed to be picked by God and wields a vast amount of power, can be killed and so is just like any other person. Above all, such individual acts of violence taught workers that they could, if they wanted, free themselves and overthrow their oppressors. For Galleani, no act of rebellion was useless or harmful to the cause.[\[790\]](#page-262-16)
+Anarchists, regardless of what they thought about the individuals who carried out assassinations and bombings, disagreed with one another about whether or not such acts were an effective means of contributing toward positive social change. Galleani wrote articles defending Pallás and Vaillant in December 1893, and publicly recommended a bomb-making manual in 1906 that featured an image of Ravachol on the front cover.[\[788\]](#page-262-14) Several years later, in 1925, Galleani argued that a wave of individual acts of violence was "a necessarily intermediary phenomenon between the sheer ideal or theoretical affirmation and the insurrectionary movement which follows it and kindles the torch of the victorious revolution."[\[789\]](#page-262-15) Just as Brousse had previously thought that anarchist-led insurrections transmitted lessons to the people, so too did Galleani think that assassinating monarchs was a powerful means of communication. It taught the oppressed classes that a monarch, who is believed to be picked by God and wields a vast amount of power, can be killed and so is just like any other person. Above all, such individual acts of violence taught workers that they could, if they wanted, free themselves and overthrow their oppressors. For Galleani, no act of rebellion was useless or harmful to the cause.[\[790\]](#page-262-16)
 
 Other anarchists disagreed and argued that such actions were tactically misguided and immoral when they targeted innocent people. Malatesta opposed Henry's bombing of the Café Terminus as "unjust, vicious, and senseless,"[\[791\]](#page-262-17) and described Salvador's bombing of the Liceu Opera theater as an act which killed and wounded "needless victims" while achieving "no possible benefit to the cause."[\[792\]](#page-262-18) In the case of Michele Angiolillo's assassination of the Spanish Prime minister, an act that did not harm any innocent people, Malatesta thought that although the act was morally justifiable, "it is doubtful that his deed served the freedom of Spaniards… it is for reasons of usefulness that, generally speaking, we are not in favor of individual attacks, which have been very common throughout history but almost always have not helped, and have very often harmed, the cause they were intended to serve."[\[793\]](#page-262-19)
 
@@ -1912,7 +1917,7 @@ Davide Turcato. Oakland, CA: AK Press, 2014.
 - Pisacane, Carlo. "Political Testament." Translated by Davide Turcato. Robert Graham's Anarchism Weblog, September 22, 2011. [https://](https://robertgraham.wordpress.com/2011/09/22/carlo-pisacane-propaganda-by-the-deed-1857) [robertgraham.wordpress.com/2011/09/22/carlo-pisacane-propaganda-by](https://robertgraham.wordpress.com/2011/09/22/carlo-pisacane-propaganda-by-the-deed-1857)[the-deed-1857.](https://robertgraham.wordpress.com/2011/09/22/carlo-pisacane-propaganda-by-the-deed-1857)
 - Plechanoff, George. Anarchism and Socialism. Chicago: Charles H. Kerr, 1912.
 - Postgate, Raymond W., ed. "Debates and Resolutions of the First International on The Control of Industry." In Revolution from 1789 to 1906, 392–94. Boston: Houghton Mifflin Company, 1921.
-- Pouget, Émile. "The Basis of Trade Unionism." Libcom website, November 19, 2010.<https://libcom.org/article/basis-trade-unionism-emile-pouget>
+- Pouget, Émile. "The Basis of Trade Unionism." Libcom website, November 19, 2010.
 - ———. Direct Action. London: Kate Sharpley Library, 2003.
 - ———. "The Party of Labour." Libcom website, November 19, 2010. [https://](https://libcom.org/article/party-labour-emile-pouget) [libcom.org/article/party-labour-emile-pouget.](https://libcom.org/article/party-labour-emile-pouget)
 - ———. "What Is the Trade Union?" In No Gods, No Masters: An Anthology of Anarchism, edited by Daniel Guérin, 427–35. Oakland, CA: AK Press, 2005.
@@ -2184,12 +2189,12 @@ Davide Turcato. Oakland, CA: AK Press, 2014.
 
 [\[10\]](#page-7-0) For discussions of women's participation in historical anarchist movements see David Berry, A History of the French Anarchist Movement: 1917 to 1945 (Oakland, CA: AK Press, 2009), 313–
 
-[<sup>\[1\]</sup>](#page-2-0) Benedict Anderson, The Age of Globalization: Anarchists and the Anti-Colonial Imagination (London: Verso 2013), 54.
+[\[1\]](#page-2-0) Benedict Anderson, The Age of Globalization: Anarchists and the Anti-Colonial Imagination (London: Verso 2013), 54.
 
 - 17; Jennifer Guglielmo, Living the Revolution: Italian Women's Resistance and Radicalism in New York City, 1880–1945 (Chapel Hill: University of North Carolina Press, 2010), 139–75; Martha Ackelsberg, Free Women of Spain: Anarchism and the Struggle for the Emancipation of Women (Oakland, CA: AK Press, 2005); Goyens, Beer and Revolution, 155–8; Kenyon Zimmer, Immigrants Against the State: Yiddish and Italian Anarchism in America (Urbana: University of Illinois Press, 2015), 43–47, 66–70; Ferretti, Anarchy and Geography, 91–111.
 - [\[11\]](#page-7-1) Lydia H. Liu, Rebecca E. Karl, and Dorothy Ko, eds., The Birth of Chinese Feminism: Essential Texts in Transnational Theory (New York: Columbia University Press, 2013); Zimmer, Immigrants, 21, 44.
  - [\[12\]](#page-7-2) Ackelsberg, Free Women, 93–95.
-- [\[13\]](#page-8-1) For example Peter Marshall, Demanding the Impossible: A History of Anarchism (London: Harper Perennial, 2008), 3; David Miller, Anarchism (London: J. M. Dent and Sons, 1984), 2–3; George Woodcock, Anarchism: <sup>A</sup> History of Libertarian Ideas and Movements, 2nd ed. (Harmondsworth: Penguin Books, 1986), 17–18.
+- [\[13\]](#page-8-1) For example Peter Marshall, Demanding the Impossible: A History of Anarchism (London: Harper Perennial, 2008), 3; David Miller, Anarchism (London: J. M. Dent and Sons, 1984), 2–3; George Woodcock, Anarchism: A History of Libertarian Ideas and Movements, 2nd ed. (Harmondsworth: Penguin Books, 1986), 17–18.
 - [\[14\]](#page-8-2) Friedrich Nietzsche, On the Genealogy of Morality (Cambridge: Cambridge University Press, 2006), 53. For discussions of Nietzsche's views on definitions, see Lawrence J. Hatab, Nietzsche's 'On the Genealogy of Morality': An Introduction (Cambridge: Cambridge University Press, 2008), 97–99; Raymond Geuss, History and Illusion in Politics (Cambridge: Cambridge University Press, 2001), 6–8, 69–72; Morality, Culture and History: Essays on German Philosophy (Cambridge: Cambridge University Press, 1999), 9–14.
 - [\[15\]](#page-9-0) Marshall, Demanding the Impossible, xiii–xiv, 3–5, 96–99; John A. Rapp, Daoism and Anarchism: Critiques of State Autonomy in Ancient and Modern China (London: Continuum Books, 2012), 3–5; Robert Graham, We Do Not Fear Anarchy, We Invoke It: The First International and the Origins of the Anarchist Movement (Oakland, CA: AK Press, 2015), 2–3.
 - [\[16\]](#page-9-1) Marie Fleming, The Anarchist Way to Socialism: Élisée Reclus and Nineteenth-Century European Anarchism (London: Croom Helm Ltd, 1979), 15–23; Steven Hirsch and Lucien van der Walt, eds., Anarchism and Syndicalism in the Colonial and Postcolonial World, 1870–1940: The Praxis of National Liberation, Internationalism, and Social Revolution (Leiden: Brill, 2010), xxxvi– lv; Lucien van der Walt, "Anarchism and Marxism," in Brill's Companion to Anarchist Philosophy, ed. Nathan Jun (Leiden: Brill Academic Publishers, 2017), 510–15.
@@ -2370,7 +2375,7 @@ Davide Turcato. Oakland, CA: AK Press, 2014.
 - [\[136\]](#page-26-2) Malatesta, Life and Ideas, 23.
 - [\[137\]](#page-26-3) Malatesta, Life and Ideas, 24. Chapter 2: Theoretical Framework
 - [\[138\]](#page-26-4) For previous reconstructions of the theory of practice, see Laurence Cox and Alf Gunvald Nilsen, We Make Our Own History: Marxism and Social Movements in the Twilight of Neoliberalism (London: Pluto Press, 2014), 21–59; Paul Raekstad and Sofa Saio Gradin, Prefigurative Politics: Building Tomorrow Today (Cambridge: Polity Press, 2020), 40–59.
-- [\[139\]](#page-27-1) Michael Bakunin, The Political Philosophy of Bakunin: Scientifi<sup>c</sup> Anarchism, ed. G. P. Maximoff (New York: The Free Press of Glencoe, 1964), 57, 60–68; Peter Kropotkin, Modern Science and Anarchy, ed. Iain Mc Kay (Chico, CA: AK Press, 2018), 89–92, 100–101, 125; Peter Kropotkin, Ethics: Origin and Development (London: George G. Harrap & Co, 1924), 1, 3–4; Lucy Parsons, Freedom, Equality and Solidarity: Writings and Speeches, 1878–1937, ed. Gale Ahrens (Chicago: Charles H. Kerr, 2004), 137; Errico Malatesta, The Method of Freedom: An Errico Malatesta Reader, ed. Davide Turcato (Oakland, CA: AK Press 2014), 38, 132. For examples of Christian anarchists who rejected materialism, see Peter Ryley, Making Another World Possible: Anarchism, Anti-Capitalism and Ecology in Late Nineteenth- and Early Twentieth-Century Britain (New York: Bloomsbury Academic, 2013), 135–47.
+- [\[139\]](#page-27-1) Michael Bakunin, The Political Philosophy of Bakunin: Scientific Anarchism, ed. G. P. Maximoff (New York: The Free Press of Glencoe, 1964), 57, 60–68; Peter Kropotkin, Modern Science and Anarchy, ed. Iain Mc Kay (Chico, CA: AK Press, 2018), 89–92, 100–101, 125; Peter Kropotkin, Ethics: Origin and Development (London: George G. Harrap & Co, 1924), 1, 3–4; Lucy Parsons, Freedom, Equality and Solidarity: Writings and Speeches, 1878–1937, ed. Gale Ahrens (Chicago: Charles H. Kerr, 2004), 137; Errico Malatesta, The Method of Freedom: An Errico Malatesta Reader, ed. Davide Turcato (Oakland, CA: AK Press 2014), 38, 132. For examples of Christian anarchists who rejected materialism, see Peter Ryley, Making Another World Possible: Anarchism, Anti-Capitalism and Ecology in Late Nineteenth- and Early Twentieth-Century Britain (New York: Bloomsbury Academic, 2013), 135–47.
  - [\[140\]](#page-27-2) Bakunin, Political Philosophy, 54.
 - [\[141\]](#page-27-3) Carlo Cafiero, Revolution (Edmonton, AB: Black Cat Press, 2012), 3. See also Peter Kropotkin, Direct Struggle Against Capital: A Peter Kropotkin Anthology, ed. Iain Mc Kay (Oakland, CA: AK Press, 2014), 163; Peter Kropotkin, Fugitive Writings, ed. George Woodcock (Montréal: Black Rose Books, 1993), 100–104; Ricardo Mella, Anarchist Socialism in Early Twentieth-Century Spain: A Ricardo Mella Anthology, ed. Stephen Luis Vilaseca (London: Palgrave Macmillan, 2020), 3–4.
 - [\[142\]](#page-27-4) Malatesta, Method of Freedom, 39. See also Bakunin, Political Philosophy, 57, 69, 83–91; Kropotkin, Modern Science, 125.
@@ -2555,7 +2560,7 @@ Woodcock (Montréal: Black Rose Books, 1993), 119; Peter Kropotkin, Direct Strug
 - [\[277\]](#page-44-5) Élisée Reclus, Anarchy, Geography, Modernity: Selected Writings of Élisée Reclus, ed. John Clark and Camille Martin (Oakland, CA: PM Press, 2013), 147. See also Bakunin, Basic Bakunin, 140; Rocker, Anarcho-Syndicalism, 11–15.
  - [\[278\]](#page-44-6) Malatesta, Café, 45.
 - [\[279\]](#page-44-7) Kropotkin, Modern Science, 306. See also, 313–17, 234 and, for anarchist critiques of the police and prisons, 499–508; Berkman, Anarchism, 42–59; Goldman, Red Emma, 332–46; Voltairine de Cleyre, The Voltairine de Cleyre Reader ed. A. J. Brigati (Oakland, CA: AK Press, 2004), 151–72.
-- [\[280\]](#page-44-8) Michael Bakunin, The Political Philosophy of Bakunin: Scientifi<sup>c</sup> Anarchism, ed. G. P. Maximoff (New York: The Free Press of Glencoe, 1964), 210–11; Bakunin on Anarchism, 317–20; Makhno, Struggle, 56.
+- [\[280\]](#page-44-8) Michael Bakunin, The Political Philosophy of Bakunin: Scientific Anarchism, ed. G. P. Maximoff (New York: The Free Press of Glencoe, 1964), 210–11; Bakunin on Anarchism, 317–20; Makhno, Struggle, 56.
  - [\[281\]](#page-45-0) Kropotkin, Modern Science, 234.
 - [\[282\]](#page-45-1) Kropotkin, Modern Science, 226–27. Kropotkin claims that the state is necessarily centralized and hierarchical multiple times in this text and others. See ibid., 199, 275, 310; Kropotkin, Direct Struggle, 566.
  - [\[283\]](#page-45-2) Malatesta, Method of Freedom, 113. See also, 136.
@@ -2730,7 +2735,7 @@ Guillaume, "Ideas on Social Organization," 253, 264–66; Rocker, Anarcho-Syndic
 - [\[393\]](#page-60-3) Quoted in Caroline Cahm, Kropotkin and the Rise of Revolutionary Anarchism, 1872–1886 (Cambridge: Cambridge University Press, 1989), 104.
  - [\[394\]](#page-60-4) Woodcock and Avakumović, From Prince to Rebel, 365–66.
 - [\[395\]](#page-60-5) For example Bakunin, Statism and Anarchy, 171; Carlo Cafiero, Revolution (Edmonton, AB: Black Cat Press, 2012), 24–25, 36–37, 47; Nestor Makhno, The Struggle Against the State and Other Essays, ed. Alexandre Skirda (San Francisco: AK Press, 1996), 86–7; Luigi Galleani, The End of Anarchism? (London: Elephant Editions, 2012), 76–77.
-- [\[396\]](#page-60-6) Quoted in Albert Parsons, Anarchism: Its Philosophy and Scientifi<sup>c</sup> Basis (Honolulu: University Press of the Pacific, 2003), 83, 82, 78.
+- [\[396\]](#page-60-6) Quoted in Albert Parsons, Anarchism: Its Philosophy and Scientific Basis (Honolulu: University Press of the Pacific, 2003), 83, 82, 78.
 - [\[397\]](#page-60-7) Rocker, "The Soviet System or the Dictatorship of the Proletariat," in Bloodstained: One Hundred Years of Leninist Counterrevolution, ed. Friends of Aron Baron (Chico, CA: AK Press, 2017), 56.
 - [\[398\]](#page-60-8) Rocker, "The Soviet System or the Dictatorship of the Proletariat," 56.
 - [\[399\]](#page-60-9) Andrew R. Carlson, Anarchism in Germany, vol. 1, The Early Movement (Metuchen, NJ: The Scarecrow Press, 1972), 253–55.
@@ -3118,7 +3123,7 @@ Pittsburgh Press, 1984).
  - [\[640\]](#page-99-9) Bakunin, Political Philosophy, 313.
  - [\[641\]](#page-100-0) Quoted in Berthier, Social Democracy and Anarchism, 59.
  - [\[642\]](#page-100-1) Bakunin, Selected Texts, 22, 53, 225.
-- [\[643\]](#page-100-2) Michael Bakunin, The Political Philosophy of Bakunin: Scientifi<sup>c</sup> Anarchism, ed. G. P. Maximoff (New York: The Free Press of Glencoe, 1964), 313.
+- [\[643\]](#page-100-2) Michael Bakunin, The Political Philosophy of Bakunin: Scientific Anarchism, ed. G. P. Maximoff (New York: The Free Press of Glencoe, 1964), 313.
 - [\[644\]](#page-100-3) Quoted in Wolfgang Eckhardt, The First Socialist Schism: Bakunin vs. Marx in the International Working Men's Association (Oakland, CA: PM Press, 2016), 341.
 - [\[645\]](#page-100-4) Quoted in T. R. Ravindranathan, Bakunin and the Italians (Kingston and Montréal: Mc Gill-Queen's University Press, 1988), 183.
  - [\[646\]](#page-100-5) Malatesta, Patient Work, 20–21.
@@ -3239,7 +3244,7 @@ Pittsburgh Press, 1984).
 
 [\[710\]](#page-109-7) Quoted in Cahm, Kropotkin, 76–77.
 
-[\[711\]](#page-109-8) Paul Brousse, "Propaganda by the Deed," in Anarchism: <sup>A</sup> Documentary History of Libertarian Ideas, vol. 1, From Anarchy to Anarchism (300 CE to 1939), ed. Robert Graham (Montréal: Black Rose Books, 2005), 150.
+[\[711\]](#page-109-8) Paul Brousse, "Propaganda by the Deed," in Anarchism: A Documentary History of Libertarian Ideas, vol. 1, From Anarchy to Anarchism (300 CE to 1939), ed. Robert Graham (Montréal: Black Rose Books, 2005), 150.
 
 [\[712\]](#page-109-9) Paul Brousse, "Propaganda by the Deed," 151.
 
@@ -3273,7 +3278,7 @@ Black Rose Books, 1992), 32, 34–35, 205–6; Kropotkin, Direct Struggle, 119, 
 
 [\[728\]](#page-112-0) The unsuccessful insurrections of 1874 were in part launched in order to out-compete Italian republican revolutionaries. See Pernicone, Italian Anarchism, 84–85.
 
-[\[729\]](#page-112-1) Giuseppe Mazzini, <sup>A</sup> Cosmopolitanism of Nations: Giuseppe Mazzini's Writings on Democracy, Nation Building, and International Relations, ed. Stefano Recchia and Nadia Urbinati (Princeton: Princeton University Press, 2009), 111.
+[\[729\]](#page-112-1) Giuseppe Mazzini, A Cosmopolitanism of Nations: Giuseppe Mazzini's Writings on Democracy, Nation Building, and International Relations, ed. Stefano Recchia and Nadia Urbinati (Princeton: Princeton University Press, 2009), 111.
 
 [\[730\]](#page-112-2) Quoted in Denis Mack Smith, Mazzini (New Haven: Yale University Press, 1994), 100.
 
@@ -3809,7 +3814,7 @@ Workers Themselves, 238–44.
 
 [\[1019\]](#page-160-4) Thorpe, Workers Themselves, chapters 3–7. For overviews of the congresses of the Comintern and RILU, see ibid., 100–106, 132–45, 181–94.
 
-[\[1020\]](#page-160-5) IWA, "Declaration of the Principles of Revolutionary Syndicalism," in Anarchism: <sup>A</sup> Documentary History of Libertarian Ideas, vol. 1, From Anarchy to Anarchism (300 CE to 1939), ed. Robert Graham (Montréal: Black Rose Books, 2005), 418, 416. This version of the text refers to "libertarian communism." I have altered the translation because Rocker in fact used the term "free communism" in the 1922 declaration, the 1920 Berlin declaration, and the 1919 speech at the founding of the FAUD it was based on. This is significant because "libertarian" means anarchist, while "free communism" could potentially be supported by people who identified as syndicalists but not anarchists. See Thorpe, Workers Themselves, 321, 322; Rocker, "Declaration of the Principles of Syndicalism," 2.
+[\[1020\]](#page-160-5) IWA, "Declaration of the Principles of Revolutionary Syndicalism," in Anarchism: A Documentary History of Libertarian Ideas, vol. 1, From Anarchy to Anarchism (300 CE to 1939), ed. Robert Graham (Montréal: Black Rose Books, 2005), 418, 416. This version of the text refers to "libertarian communism." I have altered the translation because Rocker in fact used the term "free communism" in the 1922 declaration, the 1920 Berlin declaration, and the 1919 speech at the founding of the FAUD it was based on. This is significant because "libertarian" means anarchist, while "free communism" could potentially be supported by people who identified as syndicalists but not anarchists. See Thorpe, Workers Themselves, 321, 322; Rocker, "Declaration of the Principles of Syndicalism," 2.
 
 [\[1021\]](#page-161-0) IWA, "Declaration of the Principles of Revolutionary Syndicalism (1922)," 416–17.
 
@@ -3985,7 +3990,7 @@ Gale Ahrens (Chicago: Charles H. Kerr, 2004), 82–83.
 
 [\[1103\]](#page-176-8) CNT, "The First Congress of the National Confederation of Labor," Libcom website, January 17, 2017, https://libcom.org/article/fi[rst-congress-national-confederation-labor-cnt](https://libcom.org/article/first-congress-national-confederation-labor-cnt-barcelona-september-8-10-1911)[barcelona-september-8-10-1911.](https://libcom.org/article/first-congress-national-confederation-labor-cnt-barcelona-september-8-10-1911)
 
-[\[1104\]](#page-176-9) IWA, "Declaration of the Principles of Revolutionary Syndicalism," in Anarchism: <sup>A</sup> Documentary History of Libertarian Ideas, vol. 1, From Anarchy to Anarchism (300 CE to 1939), ed. Robert Graham (Montréal: Black Rose Books, 2005), 418.
+[\[1104\]](#page-176-9) IWA, "Declaration of the Principles of Revolutionary Syndicalism," in Anarchism: A Documentary History of Libertarian Ideas, vol. 1, From Anarchy to Anarchism (300 CE to 1939), ed. Robert Graham (Montréal: Black Rose Books, 2005), 418.
 
 [\[1105\]](#page-176-10) Rocker, Anarcho-Syndicalism, 81; Peter Kropotkin, Direct Struggle Against Capital: A Peter Kropotkin Anthology, ed. Iain Mc Kay (Oakland, CA: AK Press, 2014), 477.
 

@@ -1,16 +1,26 @@
+---
+title: "## **Bay Area IWW General Membership Branch Endorses Resolution in Support of Public Ownership of th"
+category: "technology-digital-justice"
+---
+
 ## **Bay Area IWW General Membership Branch Endorses Resolution in Support of Public Ownership of the Railroads**
 
 | Date: Thu, 03/02/2023 - 00:00 |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Source: https://ecology.iww.org/node/5441|
-| Tags: Industrial Workers of the World (IWW), Bay Area IWW, Railroad Workers United (RWU), railroad<br>workers, class struggle, transportation, transportation workers, transportation infrastructure, green<br>unionism, nationalization |
+| Tags: Industrial Workers of the World (IWW), Bay Area IWW, Railroad Workers United (RWU), railroad
+workers, class struggle, transportation, transportation workers, transportation infrastructure, green
+unionism, nationalization |
 | Adopted unanimously - |
 | Bay Area IWW General Membership Branch |
 | , March 2, 2023 |
 | Whereas, |
-| rail infrastructure the world over is held publicly, as are the roads, bridges, canals, harbors,<br>airports, and other transportation infrastructure; and |
+| rail infrastructure the world over is held publicly, as are the roads, bridges, canals, harbors,
+airports, and other transportation infrastructure; and |
 | Whereas, |
-| numerous examples of rail infrastructure held publicly have operated successfully across<br>North America for decades, usually in the form of local/ regional commuter operations and<br>state-owned freight trackage; and |
+| numerous examples of rail infrastructure held publicly have operated successfully across
+North America for decades, usually in the form of local/ regional commuter operations and
+state-owned freight trackage; and |
 ## | Whereas |
 
 ## ![](_page_1_Figure_0.jpeg)
@@ -18,15 +28,24 @@
 | social ills and problems; and |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Whereas |
-| , the rail industry today however is contracting – rather than expanding – at a time when we<br>need more trains, trackage, rail workers, and carloads, not fewer; and |
+| , the rail industry today however is contracting – rather than expanding – at a time when we
+need more trains, trackage, rail workers, and carloads, not fewer; and |
 | Whereas |
-| , the private rail industry is moving 5 to 10% less freight than it did 16 years ago, and in recent<br>years has shuttered diesel shops and classification yards, and has drastically reduced the<br>number of employees; and |
+| , the private rail industry is moving 5 to 10% less freight than it did 16 years ago, and in recent
+years has shuttered diesel shops and classification yards, and has drastically reduced the
+number of employees; and |
 | Whereas |
-| , the private rail freight industry is generally hostile to proposals to run any additional<br>passenger trains on their tracks – despite having legal common carrier obligations to do so -<br>making it difficult if not impossible to expand the nations' passenger rail network; and |
+| , the private rail freight industry is generally hostile to proposals to run any additional
+passenger trains on their tracks – despite having legal common carrier obligations to do so -
+making it difficult if not impossible to expand the nations' passenger rail network; and |
 | Whereas |
-| , the rail industry has come to focus solely on the "Operating Ratio" as a measure of their<br>success, and in doing so have engaged in massive stock buybacks and other measures that<br>deliver short-term gains for stockholders but at the expense of the long-term health and vitality<br>of the industry; and |
+| , the rail industry has come to focus solely on the "Operating Ratio" as a measure of their
+success, and in doing so have engaged in massive stock buybacks and other measures that
+deliver short-term gains for stockholders but at the expense of the long-term health and vitality
+of the industry; and |
 | Whereas |
-| , the Class One carriers' failures to move freight effectively have contributed greatly to the<br>ongoing supply chain crisis, resulting in some of the highest inflation rates in many years; and |
+| , the Class One carriers' failures to move freight effectively have contributed greatly to the
+ongoing supply chain crisis, resulting in some of the highest inflation rates in many years; and |
 
 ## Whereas
 

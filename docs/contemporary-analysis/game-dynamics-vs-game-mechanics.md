@@ -1,3 +1,8 @@
+---
+title: "**[What Games Are](https://web.archive.org/web/20250913082940/https://www.whatgamesare.com/)**"
+category: "contemporary-analysis"
+---
+
 The Wayback Machine - https://web.archive.org/web/20250913082940/https://www.whatgamesare.com/2010/12/game-dynamics-vs-game-mecha…
 
 # **[What Games Are](https://web.archive.org/web/20250913082940/https://www.whatgamesare.com/)**

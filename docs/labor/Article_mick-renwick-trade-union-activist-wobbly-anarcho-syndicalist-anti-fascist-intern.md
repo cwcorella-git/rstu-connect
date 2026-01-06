@@ -1,15 +1,8 @@
 ---
-title: >-
-  Mick Renwick Trade Union Activist Wobbly Anarcho Syndicalist Anti Fascist
-  Intern
-date: 2025
-author: Industrial Workers of the World
-tags:
-  - organizing
-  - strikes
-  - unions
-  - rent
-  - labor
+title: ">-"
+author: "Industrial Workers of the World"
+date: "2025"
+category: "labor"
 ---
 
 # Mick Renwick Trade Union Activist Wobbly Anarcho Syndicalist Anti Fascist Intern

@@ -1,3 +1,8 @@
+---
+title: "NATURE, CULTURE, AND INEQUALITY"
+category: "arts-culture-music"
+---
+
 # NATURE, CULTURE, AND INEQUALITY
 
 A COMPARATIVE AND
@@ -63,7 +68,7 @@ This book was set in Chaparral Pro by Alpha Design & Composition of Pittsfield, 
 
 All rights reserved. No part of this publication may be reproduced or transmitted in any form or by any means, electronic or mechanical, including photocopying, recording, or by any information storage and retrieval system, without written permission from Other Press LLC, except in the case of brief quotations in reviews for inclusion in a magazine, newspaper, or broadcast. For information write to Other Press LLC, 267 Fifth Avenue, 6th Floor, New York, NY 10016.
 
-## Or visit our Web site: <u>www.otherpress.com</u>
+## Or visit our Web site: www.otherpress.com
 
 The Library of Congress has cataloged the printed edition as follows: Names: Piketty, Thomas, 1971- author. | Wood, Willard, translator.
 
@@ -81,7 +86,7 @@ Subjects: LCSH: Equality—Cross-cultural studies. | Equality—History. | Socia
 
 Classification: LCC HM821 . P552313 2023 (print) | LCC HM821 (ebook) | DDC 305—dc23/eng/20240220
 
-LC record available at <a href="https://lccn.loc.gov/2024002605">https://lccn.loc.gov/2024002605</a> LC ebook record available at <a href="https://lccn.loc.gov/2024002606">https://lccn.loc.gov/2024002606</a>
+LC record available at https://lccn.loc.gov/2024002605 LC ebook record available at https://lccn.loc.gov/2024002606
 
 ### Ebook ISBN 9781635424577 a\_prh\_7.0\_148118688\_c0\_r0
 
@@ -131,21 +136,21 @@ The Rise of the Welfare State: Education Spending as an Example
 
 - Fig. 1—Share of income going to the top 10 percent globally, 2022
 - Fig. 2—Share of income going to the bottom 50 percent globally, 2022
-- <u>Fig. 3—The extreme concentration of capital—global wealth inequality by region, 2021</u>
+- Fig. 3—The extreme concentration of capital—global wealth inequality by region, 2021
 - Fig. 4—Share of income from work received by women in different regions of the world, 1990–2020
-- <u>Fig. 5—Distribution of income in France, 1800–2020: The start of a long-term movement toward equality?</u>
-- <u>Fig. 6—The distribution of property in France, 1780–2020: The gradual emergence of a propertied middle class</u>
+- Fig. 5—Distribution of income in France, 1800–2020: The start of a long-term movement toward equality?
+- Fig. 6—The distribution of property in France, 1780–2020: The gradual emergence of a propertied middle class
 - Fig. 7—The persistence of highly concentrated property ownership
-- <u>Fig. 8—Extreme inequality of wealth: European property-owner societies in the Belle Epoque (1880–1914)</u>
+- Fig. 8—Extreme inequality of wealth: European property-owner societies in the Belle Epoque (1880–1914)
 - Fig. 9—The rise of the welfare state in Europe, 1870–2020
 - Fig. 10—The inequality of education investment in France
-- <u>Fig. 11—Colonies for the colonizers: Inequalities in education spending in historical perspective</u>
+- Fig. 11—Colonies for the colonizers: Inequalities in education spending in historical perspective
 - Table 1—Proposals for a progressive tax in France in the eighteenth century
-- <u>Fig. 12—The invention of progressive taxation: The top tax rates on income, 1900–2020</u>
-- <u>Fig. 13—The invention of progressive taxation: The top tax rates on inheritance, 1900–2020</u>
+- Fig. 12—The invention of progressive taxation: The top tax rates on income, 1900–2020
+- Fig. 13—The invention of progressive taxation: The top tax rates on inheritance, 1900–2020
 
-- <u>Fig. 14</u>—<u>Effective tax rates and progressiveness of taxes in the United States, 1910–2020</u>
-- <u>Fig. 15—Foreign assets in historical perspective: The height of colonial ownership in France and Britain</u>
+- Fig. 14—Effective tax rates and progressiveness of taxes in the United States, 1910–2020
+- Fig. 15—Foreign assets in historical perspective: The height of colonial ownership in France and Britain
 - Fig. 16—Public debt: Alternating between accumulation and cancellation
 - Fig. 17—Carbon emissions worldwide, 2010–18
 - Fig. 18—Emissions per person per region across the world, 2019
@@ -166,7 +171,7 @@ Limited in extent, this gradual movement toward equality has been a halting, cha
 
 These two central questions—borders and property—are thus sources of conflict and directional change, with each country trying to learn from its own trajectory and all too often forgetting the trajectories of other countries. Each country follows its apprenticeship trajectory, which in the long term tends toward greater equality, even if the motion is hesitant and punctuated by retrograde phases.
 
-Finally, overarching the diversity of inegalitarian systems and the limited trend toward equality, there exists another type of relationship between nature, culture, and inequality that I'd like to examine here and that I'll address in the last part of this text: global warming, CO<sub>2</sub> emissions, and the destruction of nature and biodiversity. This issue will occupy an evermore-central place in the decades ahead. It may lead to a greater demand for equality than we've recently seen: there can be no resolution to the global warming crisis, no possible reconciliation between man and nature, without a drastic reduction in inequality and without a new economic system that is radically different from the current capitalist one. In describing this system, I refer to "a participatory, democratic, and ecological socialism," but other terms could clearly be devised—and no doubt will be. At all events, I consider it imperative to reopen the discussion on changing the economic system and reimagining its long-term development.
+Finally, overarching the diversity of inegalitarian systems and the limited trend toward equality, there exists another type of relationship between nature, culture, and inequality that I'd like to examine here and that I'll address in the last part of this text: global warming, CO2 emissions, and the destruction of nature and biodiversity. This issue will occupy an evermore-central place in the decades ahead. It may lead to a greater demand for equality than we've recently seen: there can be no resolution to the global warming crisis, no possible reconciliation between man and nature, without a drastic reduction in inequality and without a new economic system that is radically different from the current capitalist one. In describing this system, I refer to "a participatory, democratic, and ecological socialism," but other terms could clearly be devised—and no doubt will be. At all events, I consider it imperative to reopen the discussion on changing the economic system and reimagining its long-term development.
 
 # THE EVOLUTION OF INEQUALITY AND INEGALITARIAN SYSTEMS
 
@@ -214,7 +219,7 @@ Basically, the poorest 50 percent never own anything, or just about. In Europe, 
 
 FIG. 3 The extreme concentration of capital—global wealth inequality by region, 2021
 
-In Latin America, the richest 10 percent own 77 percent of household wealth, while the poorest 50 percent own just 1 percent. Net household wealth equals the sum of all financial assets (e.g., stocks and bonds) and nonfinancial assets (e.g., housing stock and land) owned by individuals, minus any debts. See: <a href="wir2022.wid.world/methodology">wir2022.wid.world/methodology</a>.
+In Latin America, the richest 10 percent own 77 percent of household wealth, while the poorest 50 percent own just 1 percent. Net household wealth equals the sum of all financial assets (e.g., stocks and bonds) and nonfinancial assets (e.g., housing stock and land) owned by individuals, minus any debts. See: wir2022.wid.world/methodology.
 
 It's important to keep these figures in mind. When drawing up a global picture of inequality, we Europeans tend to rhapsodize (the French particularly) over how egalitarian our countries are. These figures help us keep things in perspective. Yes, there has historically been a stronger movement toward equality in France and Europe than in other parts of the world, but first, it didn't happen by itself—the movement was the result of hard-fought social and political battles; and second, it mainly affects the distribution of income, which has certainly been equalized somewhat in the past century. When it comes to the distribution of wealth, however, things have changed very little. In France a century ago, the share owned by the poorest 50 percent was 2 percent, the same as in Latin America today. It has risen to 4 percent today, which is certainly an improvement, but a trivial one that doesn't change the basic reality: property as a whole (financial, business, and real estate) is concentrated among an extreme few. If we look only at business capital, at the means of production, the picture is even more extreme. The share of the top 10 percent stands at 80 to 90 percent or more, and the share of the bottom 50 percent at practically zero. The welfare state itself has always been marked by an extreme concentration of economic power. The "great redistribution" of property that occurred largely between 1914 and 1980 has had a significant impact on reducing the disparity between the richest 10 percent and the next 40 percent, but it has had practically no effect on the bottom 50 percent.
 
@@ -228,7 +233,7 @@ In developing our methods and sources at the World Inequality Database, we gener
 
 FIG. 4 Share of income from work received by women in different regions of the world, 1990–2020
 
-From 1990 to 2020, the share of income from work that went to women in North America rose from 34 percent to 38 percent. See: <a href="wir2022.wid.world/methodology">wir2022.wid.world/methodology</a>; and Theresa Neef and Anne-Sophie Robilliard, "Half the Sky? The Female Labor Income Share in a Global Perspective," World Inequality Lab—Working Paper No. 2021/22, December 2021.
+From 1990 to 2020, the share of income from work that went to women in North America rose from 34 percent to 38 percent. See: wir2022.wid.world/methodology; and Theresa Neef and Anne-Sophie Robilliard, "Half the Sky? The Female Labor Income Share in a Global Perspective," World Inequality Lab—Working Paper No. 2021/22, December 2021.
 
 The metric we use has the advantage of giving a more accurate picture of the vast economic disparity between men and women than some others, which tend to sugarcoat reality: too often, we look simply at the salary gap for a given position, when the problem is that men and women actually don't have access to the same positions. What we measure here is women's share of total income. Obviously, this brings together many different factors: the pay disparity for any given position, which is on the order of 10 to 20 percent, but also the disparity between the kinds of jobs men and women can attain, the amount of part-time work they receive, the dearth of women in better-paying jobs, the low rate of promotions for women, et cetera.
 
@@ -310,7 +315,7 @@ This increase in education spending has been a factor in promoting individual fr
 
 FIG. 9 The rise of the welfare state in Europe, 1870–2020
 
-In 2020, the average total tax levy in Western Europe amounted to 47 percent of national income and was spent as follows: 10 percent of national income on state expenditures (army, police, judicial system, general administration, roads and other basic infrastructure, etc.); 6 percent on education; 11 percent on pensions; 9 percent on healthcare; 5 percent on social welfare benefits (excluding pensions); 6 percent on other welfare costs (housing, etc.). Before 1914, virtually all the money provided by taxation went to state expenditures. Source: See <a href="mailto:piketty.pse.ens.fr/egalite">piketty.pse.ens.fr/egalite</a>
+In 2020, the average total tax levy in Western Europe amounted to 47 percent of national income and was spent as follows: 10 percent of national income on state expenditures (army, police, judicial system, general administration, roads and other basic infrastructure, etc.); 6 percent on education; 11 percent on pensions; 9 percent on healthcare; 5 percent on social welfare benefits (excluding pensions); 6 percent on other welfare costs (housing, etc.). Before 1914, virtually all the money provided by taxation went to state expenditures. Source: See piketty.pse.ens.fr/egalite
 
 This phenomenon—fairly paradoxical in nature and running counter to the developments of the past century—is rooted in a system of political beliefs that since the 1980s and 1990s has maintained that the overall level of public spending and taxation must absolutely be held steady with respect to national income. Given that the share going to healthcare and retirement benefits has been increasing—not enough to keep pace with the public's needs, but increasing nonetheless—other spending has had to be reduced, and that's what has happened with education over the long run. Expanding the size of the welfare state could remedy these contradictions, but it would call for new milestones in tax justice and progressive taxation, on both a national and an international level.
 
@@ -326,7 +331,7 @@ On average, students reaching age twenty in 2020 received (from preschool to pos
 
 **FIG. 11** Colonies for the colonizers: Inequalities in education spending in historical perspective
 
-In Algeria in 1950, the 10 percent of students benefiting from the most public spending on primary, secondary, and higher education received 82 percent of total education funds. In comparison, the share going to the 10 percent benefiting most in France in 1910 was 38 percent, and, in France in 2020, 20 percent (which is still twice as high as their share of student numbers). See: <a href="mailto:piketty.pse.ens.fr/egalite">piketty.pse.ens.fr/egalite</a>
+In Algeria in 1950, the 10 percent of students benefiting from the most public spending on primary, secondary, and higher education received 82 percent of total education funds. In comparison, the share going to the 10 percent benefiting most in France in 1910 was 38 percent, and, in France in 2020, 20 percent (which is still twice as high as their share of student numbers). See: piketty.pse.ens.fr/egalite
 
 The individuals on whom the least was spent received 60,000 to 70,000 euros in education funds, while those on whom the most was spent received 250,000 or 300,000 euros, and those in the middle about 100,000 euros. Briefly, we see a disparity in public spending of 200,000 euros between those who received the least and those who received the most. Unfortunately, those who receive the most tend to come from a more privileged social setting than the others. Public spending therefore reinforces existing inequalities in quite a substantial way. This 200,000-euro differential is about the size of the average inheritance: it's as if the most privileged classes receive an additional average inheritance, this one a gift to them from the public coffers.
 
@@ -360,9 +365,19 @@ The whole question of progressive taxation is extremely important. In the first 
 
 **TABLE 1** Proposals for a progressive tax in France in the eighteenth century
 
-| Gras<br>progressive ta | | Lacoste**:<br>progressive tax on inheritance | | |
+| Gras
+progressive ta | | Lacoste**:
+progressive tax on inheritance | | |
 |----------------------------------|--------------------------|----------------------------------------------|--------------------------|--|
-| multiple<br>of average<br>income | effective<br>tax<br>rate | multiple<br>of average<br>estate | effective<br>tax<br>rate | |
+| multiple
+of average
+income | effective
+tax
+rate | multiple
+of average
+estate | effective
+tax
+rate | |
 | 0.5 | 5 % | 0.3 | 6 % | |
 | 20 | 15 % | 8 | 14 % | |
 | 200 | 50 % | 500 | 40 % | |
@@ -418,7 +433,7 @@ There remains one important point about the historic reduction in inequality dur
 
 FIG. 15 Foreign assets in historical perspective: The height of colonial ownership in France and Britain
 
-Net foreign assets—the assets held abroad by owners residing in a particular country (including those owned by the government) minus the assets held in that country by owners in the rest of the world—amounted to 191 percent of the national income in the United Kingdom in 1914 and 125 percent of the national income in France. In 2020, net foreign assets came to 82 percent of the national revenue in Japan, 61 percent in Germany, and 19 percent in China. See: <a href="mailto:piketty.pse.ens.fr/egalite">piketty.pse.ens.fr/egalite</a>
+Net foreign assets—the assets held abroad by owners residing in a particular country (including those owned by the government) minus the assets held in that country by owners in the rest of the world—amounted to 191 percent of the national income in the United Kingdom in 1914 and 125 percent of the national income in France. In 2020, net foreign assets came to 82 percent of the national revenue in Japan, 61 percent in Germany, and 19 percent in China. See: piketty.pse.ens.fr/egalite
 
 These were highly charged and volatile situations, and they were only kept stable thanks to colonial governments and military force. The system fell apart with the outbreak of World War I. The new international circumstances were partly responsible: outright expropriations, the repudiation of Russian treasury bonds when the Bolsheviks came to power, the nationalization of the Suez Canal, et cetera. Partly responsible, too, was the cost of the war: French and British property owners were forced to sell a large share of their foreign debt to lend their governments the funds to pursue their wars—wars that were destroying the remainder of their nations' industrial capital. This slightly absurd process of self-destruction is at the heart of the history of Europe from 1914 to 1945.
 
@@ -432,7 +447,7 @@ Germany passed through a first period of high inflation in the 1920s, which allo
 
 ![](_page_58_Figure_0.jpeg)
 
-FIG. 16 Public debt: alternating between accumulation and cancellation Public debt increased greatly in the wake of the two world wars, reaching 150 percent to 300 percent of national income in 1945–50 before plunging abruptly in Germany and France (cancellations of debt, special taxes on private wealth, high inflation), and more gradually in the United Kingdom and the United States. Public debt again increased sharply following the 2008 financial crisis and the 2020 epidemic. NB: not included is the debt imposed on Germany by the Treaty of Versailles (1919), amounting to more than 300 percent of the country's national income and which never even began to be repaid. See: <a href="mailto:piketty.pse.ens.fr/egalite">piketty.pse.ens.fr/egalite</a>
+FIG. 16 Public debt: alternating between accumulation and cancellation Public debt increased greatly in the wake of the two world wars, reaching 150 percent to 300 percent of national income in 1945–50 before plunging abruptly in Germany and France (cancellations of debt, special taxes on private wealth, high inflation), and more gradually in the United Kingdom and the United States. Public debt again increased sharply following the 2008 financial crisis and the 2020 epidemic. NB: not included is the debt imposed on Germany by the Treaty of Versailles (1919), amounting to more than 300 percent of the country's national income and which never even began to be repaid. See: piketty.pse.ens.fr/egalite
 
 When we hear Germans speaking on the subject of economics today and saying how absolutely essential it is for Greece to repay its debt down to the last euro, these events seem very far in the past ... It's often the way of things: history's major players have a short memory, especially when it works to their advantage. I think we should resist this historical amnesia, however. It's worth recalling that the problem of public debt has been dealt with in different ways over the course of history; there's no right way. We could look back, for instance, to the French Revolution, when the Directory simply declared bankruptcy on two-thirds of France's public debt.
 
@@ -456,7 +471,7 @@ No credible solution to the challenge of global warming is imaginable without a 
 
 ![](_page_62_Figure_0.jpeg)
 
-From <sup>2010</sup> to 2018, North America's share of total carbon emissions (direct and indirect) was 21 percent on average. The United States and Canada also accounted for 36 percent of individual emissions above the global average (which is 6.2 tons of CO<sup>2</sup> per year), 46 percent of emissions greater than 2.3 times the global average (that is, the top 10 percent of individual emissions worldwide, responsible for 45 percent of total emissions, as against 13 percent for the bottom 50 percent of emitters), and 57 percent of emissions greater than 9.1 times the average (that is, the top 1 percent of individual emissions worldwide, responsible for 14 percent of total emissions). See: [piketty.pse.ens.fr/egalite](http://piketty.pse.ens.fr/egalite)
+From 2010 to 2018, North America's share of total carbon emissions (direct and indirect) was 21 percent on average. The United States and Canada also accounted for 36 percent of individual emissions above the global average (which is 6.2 tons of CO2 per year), 46 percent of emissions greater than 2.3 times the global average (that is, the top 10 percent of individual emissions worldwide, responsible for 45 percent of total emissions, as against 13 percent for the bottom 50 percent of emitters), and 57 percent of emissions greater than 9.1 times the average (that is, the top 1 percent of individual emissions worldwide, responsible for 14 percent of total emissions). See: [piketty.pse.ens.fr/egalite](http://piketty.pse.ens.fr/egalite)
 
 The graph above (fig. 17), which focuses on disparities between countries, is based on research conducted with Lucas Chancel in our research lab on world inequality. The distribution of total carbon emissions, in the aggregate, is shown in purple: we can see that North America, Europe, and China emit carbon at roughly comparable levels. Yet their populations are very different in size and very different in their emission levels. I should point out that this data has been corrected for the emissions embedded in imports: all too often, we account only for the emissions generated domestically, ignoring emissions that are subcontracted for outside the country and are then consumed when those goods are imported.
 
@@ -472,7 +487,7 @@ The second aspect concerns the disparities within given countries. This graph (f
 
 FIG. 18 Emissions per person per region across the world, 2019
 
-An individual carbon footprint is composed of emissions from domestic consumption, public and private investments, and the net import of goods and services from other parts of the world. These estimates are based on a combination of tax data, household studies, and import-export tables. Emissions are divided equally among household members. See: <a href="wir2022.wid.world/methodology">wir2022.wid.world/methodology</a> and Chancel (2021).
+An individual carbon footprint is composed of emissions from domestic consumption, public and private investments, and the net import of goods and services from other parts of the world. These estimates are based on a combination of tax data, household studies, and import-export tables. Emissions are divided equally among household members. See: wir2022.wid.world/methodology and Chancel (2021).
 
 An emission-reduction policy, therefore, that proposed a fixed cut across the entire population would inevitably run into difficulties. It would be hard to convince people who are emitting four or five tons per year that they should reduce their emissions by the same proportion as people emitting thirty or even seventy tons. A strategy that increased energy costs at the same rate for everyone would never be accepted. On the contrary, such a policy would inevitably provoke, in the years and decades ahead, a tax revolt of the kind that the *gilets jaunes* (yellow vests) recently spearheaded in France. All the more so as these solutions often spare the energy consumed by the richest group—jet fuel in particular.
 

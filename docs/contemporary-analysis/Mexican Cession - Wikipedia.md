@@ -1,3 +1,8 @@
+---
+title: "**Mexican Cession**"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_2.jpeg)
 
 # **Mexican Cession**

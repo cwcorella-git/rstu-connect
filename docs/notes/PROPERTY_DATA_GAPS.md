@@ -1,11 +1,10 @@
 ---
-date: 2025
-author: Reno Sparks Tenants Union
-tags:
-  - RSTU
-  - organizing
 title: "Property Data Gaps"
+author: "Reno Sparks Tenants Union"
+date: "2025"
+category: "notes"
 ---
+
 # Property Data Gaps
 
 Data fields organizers are tracking manually that the app doesn't support yet.

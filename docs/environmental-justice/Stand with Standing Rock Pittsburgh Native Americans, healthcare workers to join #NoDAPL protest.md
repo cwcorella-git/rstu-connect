@@ -1,3 +1,8 @@
+---
+title: "## **Stand with Standing Rock: Pittsburgh Native Americans, healthcare workers to join #NoDAPL prote"
+category: "environmental-justice"
+---
+
 ## **Stand with Standing Rock: Pittsburgh Native Americans, healthcare workers to join #NoDAPL protest**
 
 **Date:** Wed, 11/02/2016 - 17:52 **Source:** https://ecology.iww.org/node/1891
@@ -22,19 +27,25 @@ Mc Cray can't make the trip to Standing Rock, but he started a
 
 ## Go Fund Me page to help get others there. The delegation — which includes members of Pittsburgh's Council of Three Rivers American Indian Center — has raised about half of its goal: \$5,000 for transportation and shelter costs. "We're raising money to get them there to represent workers and the Native community in Pittsburgh and to show solidarity with Standing Rock," Mc Cray said. In September, hundreds of activists gathered in Downtown Pittsburgh to protest the pipeline, which the Texas-based corporation Energy Transfer Partners wants to send under the Missouri River — the Standing Rock Sioux's main drinking water source — as well as through sacred land and burial sites. The tribe says the pipeline's planned course puts its water at risk, and hundreds of indigenous people and allies have been camped for months near Standing Rock to block construction. Police have arrested more than 400 protesters, referred to as water protectors, since August; 141 people were arrested
 
-| Oct. 27 alone, as law enforcement in riot gear shot people with beanbags and rubber bullets<br>and deployed pepper spray and concussion grenades. Some of those arrested said they were<br>kept in " | |
+| Oct. 27 alone, as law enforcement in riot gear shot people with beanbags and rubber bullets
+and deployed pepper spray and concussion grenades. Some of those arrested said they were
+kept in " | |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
 | dog kennels | |
 | | |
-| UPMC workers like Mc Cray are locked in a struggle of their own in Pittsburgh. Service<br>Employees International Union has been trying to | |
+| UPMC workers like Mc Cray are locked in a struggle of their own in Pittsburgh. Service
+Employees International Union has been trying to | |
 | organize | |
 | UPMC workers for several years, as the National Labor Relations Board has | |
 | accused | |
 | the hospital chain of | |
 | violating | |
 | workers' rights. | |
-| Some of those who plan to go to Standing Rock, Mc Cray said, are workers who are fighting to<br>unionize and for a \$15 minimum wage. Mc Cray and his friend reached out to SEIU for support<br>when organizing the trip, he said. | |
-| As a person who works in healthcare, Mc Cray said the risk of a ruptured pipeline is a health<br>concern. | |
+| Some of those who plan to go to Standing Rock, Mc Cray said, are workers who are fighting to
+unionize and for a \$15 minimum wage. Mc Cray and his friend reached out to SEIU for support
+when organizing the trip, he said. | |
+| As a person who works in healthcare, Mc Cray said the risk of a ruptured pipeline is a health
+concern. | |
 
 "If that were to happen here, that would have a drastic impact," he said.
 

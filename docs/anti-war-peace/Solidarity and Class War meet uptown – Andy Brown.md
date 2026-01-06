@@ -1,3 +1,8 @@
+---
+title: "## **Solidarity and Class War meet uptown – Andy Brown**"
+category: "anti-war-peace"
+---
+
 ## **Solidarity and Class War meet uptown – Andy Brown**
 
 ## **Date:** Unknown

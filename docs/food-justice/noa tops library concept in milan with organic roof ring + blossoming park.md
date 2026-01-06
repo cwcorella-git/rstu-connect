@@ -1,3 +1,8 @@
+---
+title: "noa\* tops library concept in milan with organic roof ring + blossoming park"
+category: "food-justice"
+---
+
 #### [designboom.com](https://www.designboom.com/architecture/noa-library-concept-milan-organic-roof-ring-blossoming-park-07-15-2022/)
 
 # noa\* tops library concept in milan with organic roof ring + blossoming park

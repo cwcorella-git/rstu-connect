@@ -1,3 +1,8 @@
+---
+title: "## [ecology.iww.org](https://ecology.iww.org/taxonomy/term/1788)"
+category: "organizing"
+---
+
 ## [ecology.iww.org](https://ecology.iww.org/taxonomy/term/1788)
 
 ## **strategy and tactics | ecology.iww.org**

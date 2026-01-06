@@ -1,3 +1,8 @@
+---
+title: "## **The Murder of George Floyd: The End of Racism Starts with the Death of Capitalism**"
+category: "arts-culture-music"
+---
+
 ## **The Murder of George Floyd: The End of Racism Starts with the Death of Capitalism**
 
 ## **Date:** Unknown

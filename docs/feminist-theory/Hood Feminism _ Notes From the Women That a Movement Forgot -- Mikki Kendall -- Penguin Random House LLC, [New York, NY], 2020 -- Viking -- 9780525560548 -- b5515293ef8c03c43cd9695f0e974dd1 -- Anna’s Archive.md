@@ -1,3 +1,8 @@
+---
+title: "HOOD FEMINISM"
+category: "feminist-theory"
+---
+
 # HOOD FEMINISM
 
 ## NOTES FROM THE WOMEN THAT
@@ -1398,7 +1403,7 @@ Mikki Kendall is a writer, speaker, and blogger whose work has appeared in The W
 
 # What's next on your reading list?
 
-## <u>Discover your next</u> <u>great read!</u>
+## Discover your next great read!
 
 Get personalized book picks and up-to-date news about this author.
 

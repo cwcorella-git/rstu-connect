@@ -1,3 +1,8 @@
+---
+title: "## **Vincent St. John in Chicago**"
+category: "contemporary-analysis"
+---
+
 ## **Vincent St. John in Chicago**
 
 ## **Date:** Unknown

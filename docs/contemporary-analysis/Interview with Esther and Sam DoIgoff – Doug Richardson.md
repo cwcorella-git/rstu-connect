@@ -1,3 +1,8 @@
+---
+title: "## **Interview with Esther and Sam Do Igoff – Doug Richardson**"
+category: "contemporary-analysis"
+---
+
 ## **Interview with Esther and Sam Do Igoff – Doug Richardson**
 
 ## **Date:** Unknown

@@ -1,3 +1,8 @@
+---
+title: "ABSOPS Fables"
+category: "contemporary-analysis"
+---
+
 # ABSOPS Fables
 
 ## ![](_page_0_Picture_1.jpeg)
@@ -95,7 +100,8 @@ But by using animals in this austere and arbitrary style as they are used on the
 | MERCURY AND THE WOODMAN | 14 |
 | THE ASS, THE FOX, AND THE LION | 15 |
 | THE LION AND THE MOUSE | 16 |
-## | | ***<br>VIII |
+## | | ***
+VIII |
 
 | | PAGE |
 |-----------------------------------------|------|
@@ -124,7 +130,8 @@ But by using animals in this austere and arbitrary style as they are used on the
 | THE BLIND MAN AND THE CUB | 30 |
 | xiv | |
 
-| THE BOY AND THE SNAILS | PAGE<br>39 |
+| THE BOY AND THE SNAILS | PAGE
+39 |
 |---------------------------------|------------|
 | THE APES AND THE TWO TRAVELLERS | 39 |
 | THE ASS AND HIS BURDENS | 40 |
@@ -150,7 +157,8 @@ But by using animals in this austere and arbitrary style as they are used on the
 | THE QUACK FROG | 56 |
 ## | c | xV |
 
-| THE SWOLLEN FOX | PAGI<br>56 |
+| THE SWOLLEN FOX | PAGI
+56 |
 |-----------------------------------|------------|
 | THE MOUSE, THE FROG, AND THE HAWK | 57 |
 | THE BOY AND THE NETTLES | 57 |
@@ -203,7 +211,8 @@ But by using animals in this austere and arbitrary style as they are used on the
 | THE EAGLE AND THE ARROW | 88 |
 | | xvii |
 
-| THE RICH MAN AND THE TANNER | PAGE<br>89 |
+| THE RICH MAN AND THE TANNER | PAGE
+89 |
 |-------------------------------------|------------|
 | THE WOLF, THE MOTHER, AND HER CHILD | 89 |
 | THE OLD WOMAN AND THE WINE-JAR | 90 |
@@ -229,7 +238,8 @@ But by using animals in this austere and arbitrary style as they are used on the
 | THE TRUMPETER TAKEN PRISONER | 105 |
 | xviii | |
 
-| THE WOLF AND THE CRANE | PAGE<br>106 |
+| THE WOLF AND THE CRANE | PAGE
+106 |
 |--------------------------------------|-------------|
 | | |
 | THE EAGLE, THE CAT, AND THE WILD SOW | 106 |
@@ -257,7 +267,8 @@ But by using animals in this austere and arbitrary style as they are used on the
 | | xix |
 ## | | |
 
-| THE FARMER AND THE VIPER | PAGE<br>126 |
+| THE FARMER AND THE VIPER | PAGE
+126 |
 |------------------------------------------|-------------|
 | | |
 | THE TWO FROGS | 126 |
@@ -311,7 +322,8 @@ But by using animals in this austere and arbitrary style as they are used on the
 | | | xxi |
 ## | | | |
 
-| THE FROGS AND THE WELL | PAGE<br>160 |
+| THE FROGS AND THE WELL | PAGE
+160 |
 |---------------------------------------|-------------|
 | THE CRAB AND THE FOX | 160 |
 | THE FOX AND THE GRASSHOPPER | 163 |
@@ -337,7 +349,8 @@ But by using animals in this austere and arbitrary style as they are used on the
 | THE FISHERMAN PIPING | 180 |
 | xxii | |
 
-| THE WEASEL AND THE MAN | PAGE<br>180 |
+| THE WEASEL AND THE MAN | PAGE
+180 |
 |-----------------------------------------|-------------|
 | THE PLOUGHMAN, THE ASS, AND THE OX | 183 |
 | DEMADES AND HIS FABLE | 183 |
@@ -364,7 +377,8 @@ But by using animals in this austere and arbitrary style as they are used on the
 | THE GNAT AND THE LION | 198 |
 | đ | xxiii |
 
-| THE FARMER AND HIS DOGS | PAGE<br>199 |
+| THE FARMER AND HIS DOGS | PAGE
+199 |
 |---------------------------------|-------------|
 | THE EAGLE AND THE FOX | 199 |
 | THE BUTCHER AND HIS CUSTOMERS | 200 |
@@ -411,7 +425,8 @@ But by using animals in this austere and arbitrary style as they are used on the
 
 # LIST OF ILLUSTRATIONS
 
-| IN COLOUR | t acing<br>page |
+| IN COLOUR | t acing
+page |
 |-------------------------------------|-----------------|
 | The Hare and the Tortoise | Frontispiece |
 | The Moon and her Mother | 14 |
@@ -427,14 +442,16 @@ But by using animals in this austere and arbitrary style as they are used on the
 | The Lion, Jupiter, and the Elephant | 170 |
 | The Gnat and the Lion | 198 |
 | IN BLACK AND WHITE | |
-| THE FOX AND THE GRAPES | PAGE<br>1 |
+| THE FOX AND THE GRAPES | PAGE
+1 |
 | THE FOX AND THE CROW | 7 |
 | The Cat and the Birds | 11 |
 | THE CROW AND THE PITCHER | 17 |
 | The North Wind and the Sun | 19 |
 | | xxvii |
 
-| THE FOX AND THE STORK | PAGE<br>23 |
+| THE FOX AND THE STORK | PAGE
+23 |
 |--------------------------------------|------------|
 | THE GNAT AND THE BULL | 30 |
 | THE FLEA AND THE MAN | 33 |
@@ -448,8 +465,8 @@ But by using animals in this austere and arbitrary style as they are used on the
 | King Log | 63 |
 | THE FOX WITHOUT A TAIL | 68 |
 | The Fox and the Lion | 72 |
-| The Dog and the Shadow | <b>7</b> 5 |
-| The Bear and the Fox | <b>7</b> 9 |
+| The Dog and the Shadow | 7 5 |
+| The Bear and the Fox | 7 9 |
 | The Ox and the Frog | 81 |
 | The Man and the Satyr | 86, 87 |
 | THE OLD WOMAN AND THE WINE-JAR | 90 |
@@ -463,7 +480,8 @@ But by using animals in this austere and arbitrary style as they are used on the
 | The Cock and the Jewel | 121 |
 | xxviii | |
 
-| Тне | Grasshopper and the Ants | PAGE<br>125 |
+| Тне | Grasshopper and the Ants | PAGE
+125 |
 |-----|--------------------------------|-------------|
 | Тне | BALD MAN AND THE FLY | 129 |
 | Тне | Monkey and the Camel | 131 |

@@ -1,3 +1,8 @@
+---
+title: "**Embeddedness**"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 # **Embeddedness**

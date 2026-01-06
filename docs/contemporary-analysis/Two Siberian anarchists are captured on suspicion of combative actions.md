@@ -1,3 +1,8 @@
+---
+title: "## **Two Siberian anarchists are captured on suspicion of combative actions**"
+category: "contemporary-analysis"
+---
+
 ## **Two Siberian anarchists are captured on suspicion of combative actions**
 
 ## **Date:** Unknown

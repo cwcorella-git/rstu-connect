@@ -1,3 +1,8 @@
+---
+title: "**Pëtr Kropotkin Law and Authority 1886**"
+category: "contemporary-analysis"
+---
+
 # **Pëtr Kropotkin Law and Authority 1886**
 
 I II III IV

@@ -1,3 +1,8 @@
+---
+title: "## **The Chinese revolution 1925-1927**"
+category: "contemporary-analysis"
+---
+
 ## **The Chinese revolution 1925-1927**
 
 ## **Date:** Unknown

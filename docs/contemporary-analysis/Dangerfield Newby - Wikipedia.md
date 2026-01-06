@@ -1,3 +1,8 @@
+---
+title: "**Dangerfield Newby**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Dangerfield_Newby)
 
 # **Dangerfield Newby**
@@ -10,7 +15,8 @@
 
 # **Dangerfield Newby Born** c. 1820 [Culpeper County, Virginia](https://en.wikipedia.org/wiki/Culpeper_County,_Virginia) **Died** October 17, 1859 (aged 43–44) [Harpers Ferry,](https://en.wikipedia.org/wiki/Harpers_Ferry,_West_Virginia) [Virginia](https://en.wikipedia.org/wiki/Virginia)
 
-| Known<br>for | Raid on Harpers Ferry |
+| Known
+for | Raid on Harpers Ferry |
 |--------------|-----------------------|
 | Spouse | Harriet Vincent Newby |
 ## | Children | 7 |

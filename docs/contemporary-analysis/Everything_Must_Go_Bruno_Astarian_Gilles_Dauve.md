@@ -1,3 +1,8 @@
+---
+title: "Everything Must Go!"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 # Everything Must Go!
@@ -34,74 +39,161 @@ licensed under creative commons
 
 | Part One: CRISIS ACTIVITY AND COMMUNISATION |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Bruno Astarian<br>Introduction |
-| I. Crisis and Crisis Activity<br>3 |
-| 1.1 With the crisis of the reciprocal presupposition of the classes,<br>3<br>automatic social reproduction disappears<br>l.2 Proletarian individualisation in crisis activity<br>6<br>l.3 Taking possession of capital elements, but not to work<br>8 |
-| 10<br>Conclusion |
-| II. The Current Crisis<br>11 |
-| 11.1 Periodization<br>11 |
-| 11.2 The conditions for communism at the outset of the 21st c. 11<br>11.2.1 Anti-work is back<br>12<br>Case of the textile workers, Bangladesh<br>15<br>17<br>Case of public transportation<br>11.2.2 Demassification of the proletariat<br>19<br>Case of Greece, December 2008<br>20<br>21<br>Conclusion |
-| Ill. Communisation<br>23 |
-| 111.1 Communisation and transitional society<br>23<br>111.2 The issue of gratuity<br>24<br>111.3 Production without Productivity<br>26<br>111.3.1 The struggle for totalizing activity<br>27<br>111.3.2 The end of separation of needs<br>29<br>111.3.3 The issue of the individual<br>32<br>111.4 Consumption without necessity<br>34<br>35<br>Conclusion |
+| Bruno Astarian
+Introduction |
+| I. Crisis and Crisis Activity
+3 |
+| 1.1 With the crisis of the reciprocal presupposition of the classes,
+3
+automatic social reproduction disappears
+l.2 Proletarian individualisation in crisis activity
+6
+l.3 Taking possession of capital elements, but not to work
+8 |
+| 10
+Conclusion |
+| II. The Current Crisis
+11 |
+| 11.1 Periodization
+11 |
+| 11.2 The conditions for communism at the outset of the 21st c. 11
+11.2.1 Anti-work is back
+12
+Case of the textile workers, Bangladesh
+15
+17
+Case of public transportation
+11.2.2 Demassification of the proletariat
+19
+Case of Greece, December 2008
+20
+21
+Conclusion |
+| Ill. Communisation
+23 |
+| 111.1 Communisation and transitional society
+23
+111.2 The issue of gratuity
+24
+111.3 Production without Productivity
+26
+111.3.1 The struggle for totalizing activity
+27
+111.3.2 The end of separation of needs
+29
+111.3.3 The issue of the individual
+32
+111.4 Consumption without necessity
+34
+35
+Conclusion |
 
 ### Bruno Astarian
 
-| 1 Marx's vision of the abolition of value<br>37 |
+| 1 Marx's vision of the abolition of value
+37 |
 |----------------------------------------------------------------|
-| 1.1 The Critique of the Gotha Program<br>37 |
+| 1.1 The Critique of the Gotha Program
+37 |
 | 1.1.1 Distribution of the social product and rate of |
-| 38<br>exploitation of "free men" |
-| 1.1.2 Abolition of the market and abolition of value<br>40 |
-| 1.1.3 Work certificates, the law, and the police<br>41 |
-| 1.1-4 Father Enfantin's benediction<br>43 |
-| 1.2 GIK and labor-time accounting<br>47 |
-| 2 Marx's theory of value, per chapter 1 of Capital<br>51 |
-| 2.1 The starting point: the commodity<br>51 |
-| 2.1.1 Use value<br>51 |
-| 2.1.2 Exchange value, value<br>52 |
-| 2.1.3 Rubin on abstract labour<br>54 |
-| 2.2 The substance of value: the issue of abstract labour<br>55 |
-| 2.2.1<br>55<br>- From commodity to labour-substance of value |
-| 2.2.2 -<br>56<br>The two approaches to abstract labour |
-| 2.2.2.1 -<br>56<br>Social approach |
-| 2.2.2.2 -<br>The physiological approach: |
-| 58<br>the expenditure of human labour power |
-| 2.3 Measure of value<br>60 |
-| 2-4 Value and society in the first chapter of Capital<br>61 |
-| 2.4.1 Which producers?<br>61 |
-| 2.4.2 Which exchanges?<br>64 |
-| 2.4.2.1 Selling<br>65 |
-| 2.4.2.2 Buying<br>66 |
-## | 2.5 Commodity fetishism<br>69 |
+| 38
+exploitation of "free men" |
+| 1.1.2 Abolition of the market and abolition of value
+40 |
+| 1.1.3 Work certificates, the law, and the police
+41 |
+| 1.1-4 Father Enfantin's benediction
+43 |
+| 1.2 GIK and labor-time accounting
+47 |
+| 2 Marx's theory of value, per chapter 1 of Capital
+51 |
+| 2.1 The starting point: the commodity
+51 |
+| 2.1.1 Use value
+51 |
+| 2.1.2 Exchange value, value
+52 |
+| 2.1.3 Rubin on abstract labour
+54 |
+| 2.2 The substance of value: the issue of abstract labour
+55 |
+| 2.2.1
+55
+- From commodity to labour-substance of value |
+| 2.2.2 -
+56
+The two approaches to abstract labour |
+| 2.2.2.1 -
+56
+Social approach |
+| 2.2.2.2 -
+The physiological approach: |
+| 58
+the expenditure of human labour power |
+| 2.3 Measure of value
+60 |
+| 2-4 Value and society in the first chapter of Capital
+61 |
+| 2.4.1 Which producers?
+61 |
+| 2.4.2 Which exchanges?
+64 |
+| 2.4.2.1 Selling
+65 |
+| 2.4.2.2 Buying
+66 |
+## | 2.5 Commodity fetishism
+69 |
 
-| 3 Marx's theory of value revisited<br>72 |
+| 3 Marx's theory of value revisited
+72 |
 |-------------------------------------------------------------------|
-| 3.1 The starting point: capital resting on its own basis<br>72 |
-| 3.2 Interdependence and multiplication of capitals<br>74 |
-| 3.3 Value-producing labour (abstract labour?)<br>78 |
-| 3.3.1 Productivity<br>80 |
+| 3.1 The starting point: capital resting on its own basis
+72 |
+| 3.2 Interdependence and multiplication of capitals
+74 |
+| 3.3 Value-producing labour (abstract labour?)
+78 |
+| 3.3.1 Productivity
+80 |
 | 3.3.1.1 Productivity and socially necessary |
-| 80<br>Jabour time |
-| 3.3.1.2 Competition and monopoly<br>82 |
-| 3.3.2 Standardization<br>84 |
+| 80
+Jabour time |
+| 3.3.1.2 Competition and monopoly
+82 |
+| 3.3.2 Standardization
+84 |
 | 3.3.2.1 Usefulness of objects and utility value of |
-| 84<br>commodities |
-| 3.3.2.2 Labour standardization<br>88 |
-| 3.3.3 Valorizing labour<br>92 |
-| 3.4 Substance and magnitude of value; value realization<br>92 |
-| 3-4·1 Time, the substance of value<br>93 |
+| 84
+commodities |
+| 3.3.2.2 Labour standardization
+88 |
+| 3.3.3 Valorizing labour
+92 |
+| 3.4 Substance and magnitude of value; value realization
+92 |
+| 3-4·1 Time, the substance of value
+93 |
 | 3.4.1.1 Embodiment of valorizing Jabour in the |
-| 93<br>commodity |
+| 93
+commodity |
 | 3.4.1.2 The substance of value, that which |
-| 94<br>circulates |
+| 94
+circulates |
 | 3.4.1.3 The substance of value, that which is |
-| 97<br>measured |
-| 3.4.2 Exchange of commodities, realization of value<br>98 |
-| 3.5 Provisional conclusion<br>100 |
+| 97
+measured |
+| 3.4.2 Exchange of commodities, realization of value
+98 |
+| 3.5 Provisional conclusion
+100 |
 | |
 | 4 What is at stake in casting the theory of value concretely? 101 |
-| 4.1 Doing away with abstract labour<br>101 |
-| 4.2 The false threat of life's commoditization<br>104 |
+| 4.1 Doing away with abstract labour
+101 |
+| 4.2 The false threat of life's commoditization
+104 |
 
 4.3 Is the proletariat's struggle against value or capital? 107
 
@@ -178,7 +270,7 @@ The crisis has to be considered as a social phenomenon, not an economic one, as 
 
 In the capitalist mode of production as in the other modes of production, the classes of labour and property presuppose each other. With the capitalist mode of production, this reciprocal presupposition is immediately stronger due to the fact that the
 
-<sup>\*</sup>All quotations are from Marx's Critique of the Gotha Program proletariat, as soon as it stops working, is totally separated from the means of production. In the precapitalist modes of production, this is not the case, or is only partially. The reciprocal presupposition of the classes is even more tightly knit when capital has established its real domination over labour, for then the entirety of the proletariat's life is directly controlled by capital. For example, capital has stripped labour of its skills, and handicraft is no solution for all those proletarians that the crisis has left out of work. In farming the situation is the same. In the industrialized countries, agriculture is purely capitalistic, and only the most marginal proletarians will attempt going back to the country, ending up close to a situation of slum life. Likewise in the developing countries, the transformation of the countryside prevents those who left it to find a job in towns from returning when they are unemployed. This is what happened with the Asian crisis in 1 998 and in China today.
+\*All quotations are from Marx's Critique of the Gotha Program proletariat, as soon as it stops working, is totally separated from the means of production. In the precapitalist modes of production, this is not the case, or is only partially. The reciprocal presupposition of the classes is even more tightly knit when capital has established its real domination over labour, for then the entirety of the proletariat's life is directly controlled by capital. For example, capital has stripped labour of its skills, and handicraft is no solution for all those proletarians that the crisis has left out of work. In farming the situation is the same. In the industrialized countries, agriculture is purely capitalistic, and only the most marginal proletarians will attempt going back to the country, ending up close to a situation of slum life. Likewise in the developing countries, the transformation of the countryside prevents those who left it to find a job in towns from returning when they are unemployed. This is what happened with the Asian crisis in 1 998 and in China today.
 
 The interdependance of the two classes is today tighter than it has ever been. This is another way of saying that the proletariat cannot save the jobs imperiled by capital without saving capital itself, i.e. working harder for less pay. As skilled work left its hands to become incorporated into fixed capital, the proletariat can no longer claim, as under the formal domination, that it could simply take over the means of production and produce without the capitalists. This claim was illusory even at the time of skilled trades. Today, even skilled workers know that most of the technicalmaterial conditions of their activity are incorporated into the machines, computers, or vehicles that are their means of labour. In other words, the function of property today is no longer-assuming it ever was-to enjoy the resulting income, but to manage a system of production and reproduction that developed precisely to escape the control of the working class, completely and definitively. Even after eliminating all the dividend-cashing capitalists, a working class revolution that envisions only the reappropriation of the means of production could not avoid entrusting the management of those means to a particular category of workers who would become the collective capitalist. Today, self-management is a pipe dream for middle managers. The reciprocal presupposition of the classes tightly links them together around an enormous mass of fixed capital. This preempts any notion of a revolutionary outcome of the crisis that would affirm the working class and work against the capitalists, who would be eliminated. If the proletariat is to abolish capital, this will only be possible by abolishing wage labour, the fixed capital that dictates its content to work and work itself.
 
@@ -188,7 +280,7 @@ All these automatisms\* in the social reproduction disappear when the crisis exp
 
 1This does not imply that there is no struggle any more between capital and the proletariat. This struggle is constant and is part of the continuous adjustment of the relationship of exploitation. The insurrectional phases of struggle differ from this continuum by the fact that the proletariat posits itself as a revolutionary subject.
 
-<sup>\*&</sup>quot;Automatism" or "Automatic reproduction" means that, in periods of economic prosperity, the successive phases of capital's reproduction (production, realization, and re-investment of surplus-value) follow each other smoothly. This means especially that the proletariat doesn't encounter problems selling his labor force in the labor market.
+\*&quot;Automatism" or "Automatic reproduction" means that, in periods of economic prosperity, the successive phases of capital's reproduction (production, realization, and re-investment of surplus-value) follow each other smoothly. This means especially that the proletariat doesn't encounter problems selling his labor force in the labor market.
 
 work for a reduced wage, whereas the proletarians seek to impose a standard of living higher than the one they rejected when they rose up against capital. This insurrectional moment-we will come back to it-is the moment of the greatest subjective intensity of the proletariat's activity. History shows us how the crisis activity of the proletariat has been able, in each period, to invent previously unthought of social forms in order to confront the danger it has to face in the crisis.
 
@@ -212,11 +304,11 @@ It is a general rule that an uprising never seizes elements of capitalist proper
 
 Actually, we only see here insurgents adapting lorries for the struggle and bakers occupying their boss' shop to bake the flour available in them. It is doubtful that real production circuits were in place during the first days of the insurrection. Concerning transportation, as soon as July 27 (only a week after the victory of the workers in Barcelona), the main CNT paper "called for workers both to return confiscated cars and return to work"3 What were the rebels doing with their cars? Fun, maybe: they "painted the initials of their organization on them and drove around Barcelona at dangerously high speeds ... these militants caused numerous accidents"4• The same paper had to warn workers of sanctions if they were "illegitimately absent."What we see here is the painful return from insurrection to work. The fact that insurrections don't work is meaningful because insurrections are not simple fights against the police. They constitute a proper social relationship among proletarian seizing components of capital-the means of production-but not to work. Precapitalist insurrections attacked the landlord's belongings, not the means of production. With the massive accumulation of fixed capital, the current conditions of capitalist production reinforce the general
 
-<sup>2</sup> Against the myth of self-management, project, July 2009.
+2 Against the myth of self-management, project, July 2009.
 
-<sup>3</sup> Michael Seidman, Workers Against Work, Insubordinate Editions, sd, p. 91
+3 Michael Seidman, Workers Against Work, Insubordinate Editions, sd, p. 91
 
-## <sup>4</sup> Ibid. p. I
+## 4 Ibid. p. I
 
 rule: taking possession of elements of capital in the insurrections of our times obviously won't aim at reappropriating the means of production and at relaunching production by the workers involved. A complete transformation of production and the rest of life is required.
 
@@ -236,9 +328,9 @@ Compared to the general conditions of a communist revolution such as we have see
 
 It seems to me that two main elements should be underlined
 
-<sup>5</sup> Elements sur la periodisation du capital; histoire du capital, histoire des crises, histoire du communisme, Hie Salta, 1998. http://www.hicsalta-communisation.com/hicsalta-98/elements-sur-la-periodisation-du-mpc-histoire-du-capital-histoire-des-criseshistoire-du-communisme
+5 Elements sur la periodisation du capital; histoire du capital, histoire des crises, histoire du communisme, Hie Salta, 1998. http://www.hicsalta-communisation.com/hicsalta-98/elements-sur-la-periodisation-du-mpc-histoire-du-capital-histoire-des-criseshistoire-du-communisme
 
-<sup>\*</sup>Al l quotations are from the first chapter of Marx's Capital (unless otherwise specified)
+\*Al l quotations are from the first chapter of Marx's Capital (unless otherwise specified)
 
 if we want to analyse the subjective conditions of a communist revolution in our times: the return of anti-work after a period of eclipse, and the demassification of the proletariat in post-Fordism.
 
@@ -260,17 +352,17 @@ Another aspect of the current class struggle in developed countries seems to me 
 
 In just thirty years, China, the "global workshop," concentrated tens of millions of overexploited proletarians in factories that are not at the cusp of global progress. The workers' revolt took the "anti-work" forms seen in the West in the 60s-70s. Referring to a wave of strikes in Japanese factories in the Dalian special economic zone (summer 2005), a businessmen's magazine representing the major multinationals operating in Asia worried
 
-Although the workers apparently do not have leaders, they develop an organizing strategy without a head. Because the workers have widely-shared interests and a sense of shared suffering, they react to subtle signs. Workers explained that, when they are dissati.ified, it just takes a hanijul standing up and shouting 'Strike!' for all the workers on the line to rise up as if in ovation and stop working. <sup>7</sup>
+Although the workers apparently do not have leaders, they develop an organizing strategy without a head. Because the workers have widely-shared interests and a sense of shared suffering, they react to subtle signs. Workers explained that, when they are dissati.ified, it just takes a hanijul standing up and shouting 'Strike!' for all the workers on the line to rise up as if in ovation and stop working. 7
 
 This is reminiscent of the wild atmosphere in the Italian factories in 1 969. Except that now, the atmosphere is without doubt more serious. Killings of bosses are frequent in China and destruction occurs almost daily. There are numerous examples recalling certain features of the anti-work of the 60s-70, but to a higher degree: lack of discipline, destructive fury, few or no demands, and indifference to the consequences of violence to plant and equipment or to jobs. These characteristics are strongly present in the recent struggles in Bangladesh.
 
-<sup>7</sup> Corporate Social Responsibility Asia, vol. 2, #4, 2006.
+7 Corporate Social Responsibility Asia, vol. 2, #4, 2006.
 
 #### Textile workers in Bangladesh
 
 This under-industrialized country has experienced accelerated growth in the textile industry since 1 970. It counts some four thousand companies today, from only eight in 1 977, which employ two million workers, primarily young women. Bangladesh exports eighty percent of its textile output.
 
-In May 2006, the violent repression of workers protesting wage cuts triggered a series of movements of fury that rapidly escalated beyond the company that was originally concerned. At the peak of the violence, on May 22, a protest broke out at a plant where the boss hadn't paid wages for some time. The same day, the strike movement fanned out to a number of other factories, two of which were torched and a hundred ransacked. The entire population, not just the women textile workers, took part. In the most violent battles, the women workers apparently let the men take over. The following day, the revolt widened, reaching the capital, Dhaka. Looting and destruction spread to the center of city. That is when the demands appeared according to the account in Echanges et Mouvement. <sup>8</sup>
+In May 2006, the violent repression of workers protesting wage cuts triggered a series of movements of fury that rapidly escalated beyond the company that was originally concerned. At the peak of the violence, on May 22, a protest broke out at a plant where the boss hadn't paid wages for some time. The same day, the strike movement fanned out to a number of other factories, two of which were torched and a hundred ransacked. The entire population, not just the women textile workers, took part. In the most violent battles, the women workers apparently let the men take over. The following day, the revolt widened, reaching the capital, Dhaka. Looting and destruction spread to the center of city. That is when the demands appeared according to the account in Echanges et Mouvement. 8
 
 An agreement was finally signed between the bosses and the Textile Workers Federation. It was revised several times but rarely implemented, so the movement began again in the fall. It is remarkable that a movement defeated in a shaky collective bargaining agreement found the strength to resume a few months later, with the same fury and the same violence. As in the spring, the movement spread very quickly around a local conflict and gained ground with looting and destruction of factories. That is the striking aspect: workers in a struggle to defend their wages and working conditions destroy the factories they work in, even though the jobs those factories propose are rare and considered attractive. Most of the employees in those companies come from neighboring slums.
 
@@ -290,7 +382,7 @@ Although the deteriorating quality of public transportation doesn't date from th
 
 As the standard of living declines and working and living conditions deteriorate, the proletariat's struggles demonstrate that anti-work is back. In each of its manifestations, anti-work says that when the proletariat clashes with capital, the aim is not to restore or install the conditions of the Fordist compromise, but something else. That "something else" is totally absent from the landscape, it has no existence in society. We cannot organize ourselves around the
 
-<sup>9</sup> From a colleague at work who travels on that line. I've never seen incidents like this mentioned in newspapers.
+9 From a colleague at work who travels on that line. I've never seen incidents like this mentioned in newspapers.
 
 embryo of a future society to develop it. All we can do is observe that the most combative struggles are those that take one or several forms of anti-work. It can be deduced that when the proletariat in capital's major urban centers rise up massively, they won't follow the proletarian program model, whatever the variant. For its most advanced sectors in any case, it will not occupy factories, will not form workers' councils to manage them or manage other aspects of its own reproduction (neighborhood councils, etc.), it will not have as its principle the generalization of work throughout society. And it will oppose any attempts at planning, at a return to workers' association as the basis of society. And all of this because, right now, what proletarians are saying to whomever is willing to see and understand is that they are workers only under constraint, without pride and without a future, and even though their work is directly destructive of their being.
 
@@ -354,7 +446,7 @@ In a general way, one can say that communisation replaces the circulation of goo
 - that, at least in a first phase, communisation will develop locally, not as autarchic communities, but as initiatives controlled entirely by the participants. Communisation will take place as nebulae of local initiatives. In my opinion, the local level is the only level at which communisation can prove its ability to immediately improve the life of proletarians by transforming it radically-by abolishing the class. And this is fundamental: proletarians make a revolution for a better life, not for ideals
 - that the "sites of production" will actually be places of life, because any production will build itself as a totalizing activity, not for the sake of the beauty of totality, but because this will correspond to the needs of the struggle against capital. This totalizing tendency is lacking in current rebellions, not only because the proletariat remains circumscribed by its original place or faction, but also in the sense that it cannot broaden its scope (for example, passing from the looting of supermarkets to requisitioning apartments, not to mention production) .
 
-Entering into too much detail means the risk of outlining a noneconomy just as restrictively as a transitional society. At the same time, how can we not give examples (and show the poverty of our imagination) to make clear that all the solutions brought by the communist revolution have as their principle and their end the absolute priority given to the relationship between individuals and to the activity rather than its results? This is another way of saying that the m�in result aimed at by the activity is the activity itself. Individuals will circulate between activities according to their affinities, and every step of this circulation will be a moment of reproduction. Products will circulate along with these individuals, but without exchange.
+Entering into too much detail means the risk of outlining a noneconomy just as restrictively as a transitional society. At the same time, how can we not give examples (and show the poverty of our imagination) to make clear that all the solutions brought by the communist revolution have as their principle and their end the absolute priority given to the relationship between individuals and to the activity rather than its results? This is another way of saying that the min result aimed at by the activity is the activity itself. Individuals will circulate between activities according to their affinities, and every step of this circulation will be a moment of reproduction. Products will circulate along with these individuals, but without exchange.
 
 ## 111.3 .2 The end of separation of needs
 
@@ -383,7 +475,7 @@ In all the important insurrectionary moments of the proletariat's history, those
 
 The realm of necessity is not where the productive forces are insufficient to ensure abundance (abundance is a notion that is hard to define exactly) . The realm of necessity is where the existence of property is a constant threat of lack for those who are not owners. This is why, in the present society, gratuity or low prices provoke reactions of stockpiling or overconsumption. And this why looting without a view to trade wares later, without preparing for a return to capitalist normality, will be a sign that insurrections are evolving from the "ordinary riot" towards something more significant. In communism, the fear of want disappears at the same time as property. Property positively abolished is also the guarantee that gratuity doesn't mean simply "price = zero." Rather, gratuity is gratuity of the activity (in the sense that its productive result is secondary). It is freedom of access to one's living conditions (including the means of production and consumption).
 
-Consumption without necessity and production without productivity are identical when taken as totalizing activities. The producer doesn't leave his needs in the cloakroom. He includes <sup>m</sup>his productive activity his choices, his personality, and the satisfaction of his needs. And vice versa: the consumer is not sent back to a life deprived of sociality to assume the functions of his immediate reproduction.
+Consumption without necessity and production without productivity are identical when taken as totalizing activities. The producer doesn't leave his needs in the cloakroom. He includes mhis productive activity his choices, his personality, and the satisfaction of his needs. And vice versa: the consumer is not sent back to a life deprived of sociality to assume the functions of his immediate reproduction.
 
 #### Conclusion
 
@@ -499,7 +591,7 @@ Although the link is tenuous between work-time accounting and the power of the r
 
 The enterprises place their products at the disposal of society. Society supplies the enterprise with new means of production, new raw materials, new labor forces ... Each enterprise computes how much social
 
-<sup>\*</sup>Al l translations from GIK texts are my translation from the French.
+\*Al l translations from GIK texts are my translation from the French.
 
 product it has consumed in its diff erent forms (chapter 1).
 
@@ -526,7 +618,7 @@ In conclusion, three main points can be drawn from Fundamental Principles ...
 
 GIK's claim to be true to Marx's Capital Vol. I is only partially verified. GIK's Fundamental Principles... diverge from Marx in rejecting central planning and putting the enterprise in the forefront. Nevertheless, the claim is verified in the sense that GIK described the many intricacies of time accounting only mentioned by Marx. In doing so, however, GIK shows that the abolition of the market as we know it is far from sufficient to abolish value. It is very striking that its Fundamental Principles ... actually promote a utopian self-conscious value, and call it communism.
 
-# <sup>2</sup>Marx's theory of value, per chapter 1 of Capital
+# 2Marx's theory of value, per chapter 1 of Capital
 
 #### 2.1 The starting point: the commodity
 
@@ -681,7 +773,7 @@ On the whole, Marx considers the selling side of the exchange mainly for the pro
 
 On the other hand, Marx doesn't dwell long on the risks the buyer is facing when investing his money into new means of production.
 
-<sup>\*</sup>Essays on Marx's Theory of Value, Black and Red, 1 972
+\*Essays on Marx's Theory of Value, Black and Red, 1 972
 
 Is the buyer inserting himself into the social division of labour? Marx doesn't seem to care much, Is it by chance that, the two times when we see a producer in a buyer's position, Marx ridicules him? One producer-as-buyer shown by Marx is someone buying a bible, and the other buys brandy. Now, the weaver buying a bible after having sold his linen actually needs new yarn, and the bible seller needs paper or new books. Why does Marx neglect this side of the market? From the beginning of Capital, the exchanges we see are exchanges between producers, who need working means and subsistence to go on with their activity as producers. But Marx presents the weaver and the book seller as frivolous consumers.
 
@@ -691,7 +783,7 @@ Did Marx anticipate this objection? Yes and no. He writes
 
 #### (chapter 1, section 4)
 
-This division of a product into a useful thing and a value becomes practically important, only when . exchange has acquired such an extension that useful articles are produced for the purpose of being exchanged, and their character as values has therefore to be taken into account, beforehand, during production. From this moment the labour of the individual producer acquires socially a twofold character. On the one hand, it must, as a definite useful kind of labour, satiify a d�finite social want, and thus hold its place as part and parcel of the collective labour ef all, as a branch of a social division ef labour that has sprung up spontaneously. On the other hand, it can satisfy the manifold wants ef the individual producer himself, only in so far as the mutual exchangeability of all kinds ef useful private labour is an established social fact, and therefore the private useful labour ef each producer ranks on an equality with that of all others. The equalisation of the most diff erent kinds ef labour can be the result only of an abstraction from their inequalities, or of reducing them to their common denominator, viz. , expenditure ef human labour power or human labour in the abstract.
+This division of a product into a useful thing and a value becomes practically important, only when . exchange has acquired such an extension that useful articles are produced for the purpose of being exchanged, and their character as values has therefore to be taken into account, beforehand, during production. From this moment the labour of the individual producer acquires socially a twofold character. On the one hand, it must, as a definite useful kind of labour, satiify a dfinite social want, and thus hold its place as part and parcel of the collective labour ef all, as a branch of a social division ef labour that has sprung up spontaneously. On the other hand, it can satisfy the manifold wants ef the individual producer himself, only in so far as the mutual exchangeability of all kinds ef useful private labour is an established social fact, and therefore the private useful labour ef each producer ranks on an equality with that of all others. The equalisation of the most diff erent kinds ef labour can be the result only of an abstraction from their inequalities, or of reducing them to their common denominator, viz. , expenditure ef human labour power or human labour in the abstract.
 
 There, Marx added in the Roy translation: "... and only exchange can realize this reduction, by bringing together on an equal foot the products of various kind of labour."
 
@@ -743,7 +835,7 @@ Besides, this aspect of producing symbolic and useless subsistences is marginal 
 
 Let's now move on to what Marx doesn't say in the passage. He
 
-<sup>\*</sup>http://www.hicsalta-communisation.com/valeur/chapitre-5-lechange-et-la-sphereimproductive75
+\*http://www.hicsalta-communisation.com/valeur/chapitre-5-lechange-et-la-sphereimproductive75
 
 doesn't tell us, or at least not completely, how the new producer finds his place in the social division of labour. For his introduction into total production to be successful, we have already noted a necessary condition, namely that the new product be useful to other capitals as either a means of production or a subsistence. This is the fundamental rule of the conservation and growth of value: the new products must be capable of functioning as capital. We will look later at the other conditions under which our new producer can assert his legitimacy in the community of capitalists.
 
@@ -963,7 +1055,7 @@ My purpose is to show that the law of value doesn't do anything except distribut
 
 Does value impose a domination on the proletariat that could be considered the source of its misery and its revolts? It is true that the proletariat has an intimate knowledge of value. It is important, however, to understand that the proletariat encounters value solely
 
-<sup>\*</sup> as Marx categorizes them, i.e. industries specializing in consumer goods, vs. section <sup>1</sup>industries, which specialize in production goods. 107
+\* as Marx categorizes them, i.e. industries specializing in consumer goods, vs. section 1industries, which specialize in production goods. 107
 
 in the form of capital. This is verified in the three moments of its reproduction: labour market, production, and private life.
 
@@ -1033,7 +1125,7 @@ Value is essentially a form: the form of exchangeability that the valorizing lab
 
 If we consider a productive activity that does not seek productivity, the first thing that strikes us is a completely different relationship to time. The fact that time is no longer measured doesn't mean it no longer exists. However, when it is negated as the criterion for evaluating productive activity, time's inexorable flow ceases to be a constraint on production. The commodity-based society accepts or rejects the participation of a producer by evaluating the time he spent producing his commodities. The resulting constraint on the producer is to constantly check that he produces at maximum efficiency. Failure to observe this rule leads to his exclusion from the society of producers by excluding his commodities from the mar-
 
-<sup>1</sup> See B. Astarian, The French strikes of May-June 1968, http:/lwww.hicsaltacommunjsatjon.com/accueillthe-french-strikes-of-may-june-1968-5
+1 See B. Astarian, The French strikes of May-June 1968, http:/lwww.hicsaltacommunjsatjon.com/accueillthe-french-strikes-of-may-june-1968-5
 
 ket. The negation of productivity replaces this quantitative timebased appreciation of the legitimacy of a productive activity with a qualitative evaluation. We lack words to describe the relationship that humans will have with their production in a valueless society. "Appreciation" derives from price, "evaluation" from value. These are words of the commodity world, of quantity. Neither is suitable to define the qualitative satisfaction that, in communism, is generated (or not) by a productive activity, for those who produce or who use the product. One of the reasons is that the activity we are considering won 't only be productive.
 
@@ -1103,7 +1195,7 @@ Eli Friedman, Insurgency Trap: Labor Politics in Postsocialist China, Cornell U.
 
 A Contribution to the Critique ef Political Autonomy, troploin site, 2008
 
-#### See INSURRECTION, c�ss, �BOUR
+#### See INSURRECTION, css, BOUR
 
 #### BLUE COLLAR
 
@@ -1185,7 +1277,7 @@ Both for the production on a mass scale ef this communist consciousness, and for
 
 Yet capitalism also rids "itself of all the muck of ages," so much so that it seems endlessly flexible and regenerative. In the current sliding scale of values, it is often the upholders of the norm that invite ridicule. Capitalism is endowed with a fertile imagination, market universalism is anything but feeble, and the ruling classes are experienced artful dodgers. Communisation cannot avoid navigating shifting sands. Only when we do away with the social division of labour, and with all sorts of separation, will daily life reach a point of universality unmediated by commodities.
 
-## P. Storm, Battl�field Indonesia, 2013, libcom
+## P. Storm, Battlfield Indonesia, 2013, libcom
 
 A. Breton, Introduction to the Discourse on the Paucity ef Reality, 1 924
 
@@ -1279,7 +1371,7 @@ That being said, insurrectionary times are also fertile ground for stereotyped r
 
 The ebbing of revolution goes with expression that functions as a substitute for action, with a twofold outcome. From the bottom, folk art and a simplistic depiction of the people and its archetypal
 
-<sup>\*</sup>Globish is a trademarked name for a subset of the English language formalized by Jean-Paul Nerriere. It uses a subset of standard Engl ish grammar, and a list of 1500 English words.
+\*Globish is a trademarked name for a subset of the English language formalized by Jean-Paul Nerriere. It uses a subset of standard Engl ish grammar, and a list of 1500 English words.
 
 enemies (the bourgeois are always fat) . From the top, propagandist pomposity: grandiose educational French revolution paintings, post-1917 Russian agitprop posters, Mexican murals in the 1 930s. When the social movement fails to change the mode oflife, it loses its autonomy, therefore its own language, which sooner or later is taken back by specialists.
 

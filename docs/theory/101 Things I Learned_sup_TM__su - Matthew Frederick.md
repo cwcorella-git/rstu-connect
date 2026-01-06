@@ -1,12 +1,17 @@
+---
+title: "101 Things I Learned™ in Film School"
+category: "theory"
+---
+
 ![](_page_0_Picture_0.jpeg)
 
-# 101 Things I Learned<sup>™</sup> in Film School
+# 101 Things I Learned™ in Film School
 
 Neil Landau with Matthew Frederick
 
 #### [Copyright](#page-2-0)
 
-<span id="page-1-0"></span>Copyright © 2010 by Matthew Frederick
+Copyright © 2010 by Matthew Frederick
 
 All rights reserved. Except as permitted under the U.S. Copyright Act of 1976, no part of this publication may be reproduced, distributed, or transmitted in any form or by any means, or stored in a database or retrieval system, without the prior written permission of the publisher.
 
@@ -24,221 +29,221 @@ ISBN: 978-0-446-56958-3
 
 #### Contents
 
-<span id="page-2-1"></span><span id="page-2-0"></span>
 
 | Copyright        |  |  |
 |------------------|--|--|
-| Author's<br>Note |  |  |
+| Author's
+Note |  |  |
 
-<span id="page-2-2"></span>[Acknowledgments](#page-9-0)
+[Acknowledgments](#page-9-0)
 
-<span id="page-2-3"></span>[Chapter](#page-10-0) 1: Start strong.
+[Chapter](#page-10-0) 1: Start strong.
 
-<span id="page-2-4"></span>[Chapter](#page-11-0) 2: Start late.
+[Chapter](#page-11-0) 2: Start late.
 
-<span id="page-2-5"></span>[Chapter](#page-12-0) 3: Show, don't tell.
+[Chapter](#page-12-0) 3: Show, don't tell.
 
-<span id="page-2-6"></span>Chapter 4: Three stages of [filmmaking](#page-13-0)
+Chapter 4: Three stages of [filmmaking](#page-13-0)
 
-<span id="page-2-7"></span>Chapter 5: [Filmspeak](#page-15-0)
+Chapter 5: [Filmspeak](#page-15-0)
 
-<span id="page-2-8"></span>Chapter 6: [Above-the-line](#page-17-0) versus below-the-line costs
+Chapter 6: [Above-the-line](#page-17-0) versus below-the-line costs
 
-<span id="page-2-9"></span>[Chapter](#page-19-0) 7: Follow the action.
+[Chapter](#page-19-0) 7: Follow the action.
 
-<span id="page-2-10"></span>Chapter 8: [Conceal](#page-20-0) the action.
+Chapter 8: [Conceal](#page-20-0) the action.
 
-<span id="page-2-11"></span>Chapter 9: [Discover](#page-21-0) the action.
+Chapter 9: [Discover](#page-21-0) the action.
 
-<span id="page-2-12"></span>Chapter 10: Make [psychology](#page-23-0) visual.
+Chapter 10: Make [psychology](#page-23-0) visual.
 
-<span id="page-2-13"></span>Chapter 11: Control the [back-story.](#page-25-0)
+Chapter 11: Control the [back-story.](#page-25-0)
 
-<span id="page-2-14"></span>Chapter 12: A flawed protagonist is more compelling than a perfect [protagonist.](#page-26-0)
+Chapter 12: A flawed protagonist is more compelling than a perfect [protagonist.](#page-26-0)
 
-<span id="page-2-15"></span>Chapter 13: The [antagonist](#page-27-0) subverts the truth.
+Chapter 13: The [antagonist](#page-27-0) subverts the truth.
 
-<span id="page-2-16"></span>Chapter 14: [Beginning,](#page-28-0) middle, end.
+Chapter 14: [Beginning,](#page-28-0) middle, end.
 
-<span id="page-2-17"></span>Chapter 15: 1 [screenplay](#page-30-0) page = 1 minute of screen time.
+Chapter 15: 1 [screenplay](#page-30-0) page = 1 minute of screen time.
 
-<span id="page-2-18"></span>[Chapter](#page-31-0) 16: What's at stake?
+[Chapter](#page-31-0) 16: What's at stake?
 
-<span id="page-2-19"></span>[Chapter](#page-32-0) 17: Create tangible objects of desire.
+[Chapter](#page-32-0) 17: Create tangible objects of desire.
 
-<span id="page-2-20"></span>Chapter 18: [Practice](#page-33-0) perfect pitch.
+Chapter 18: [Practice](#page-33-0) perfect pitch.
 
-<span id="page-2-21"></span>Chapter 19: A high concept movie can be explained in one [sentence.](#page-35-0)
+Chapter 19: A high concept movie can be explained in one [sentence.](#page-35-0)
 
-<span id="page-2-22"></span>[Chapter](#page-36-0) 20: Have a strong but.
+[Chapter](#page-36-0) 20: Have a strong but.
 
-<span id="page-2-23"></span>[Chapter](#page-37-0) 21: A good title says what a movie is.
+[Chapter](#page-37-0) 21: A good title says what a movie is.
 
-<span id="page-2-24"></span>Chapter 22: Plot is physical events; story is [emotional](#page-38-0) events.
+Chapter 22: Plot is physical events; story is [emotional](#page-38-0) events.
 
-<span id="page-2-25"></span>Chapter 23: Story concerns the specific [characters](#page-39-0) in a film; theme concerns the universal human condition.
+Chapter 23: Story concerns the specific [characters](#page-39-0) in a film; theme concerns the universal human condition.
 
-<span id="page-2-26"></span>[Chapter](#page-40-0) 24: Whose story is it?
+[Chapter](#page-40-0) 24: Whose story is it?
 
-<span id="page-3-0"></span>Chapter 25: Create [memorable](#page-42-0) entrances.
+Chapter 25: Create [memorable](#page-42-0) entrances.
 
-<span id="page-3-1"></span>[Chapter](#page-43-0) 26
+[Chapter](#page-43-0) 26
 
-<span id="page-3-2"></span>Chapter 27: Tell a story at [different](#page-44-0) scales.
+Chapter 27: Tell a story at [different](#page-44-0) scales.
 
-<span id="page-3-3"></span>Chapter 28: Beware the passive [protagonist.](#page-46-0)
+Chapter 28: Beware the passive [protagonist.](#page-46-0)
 
-<span id="page-3-4"></span>Chapter 29: Props reveal [character.](#page-47-0)
+Chapter 29: Props reveal [character.](#page-47-0)
 
-<span id="page-3-5"></span>Chapter 30: The human eye can [distinctly](#page-48-0) process about 20 images per second.
+Chapter 30: The human eye can [distinctly](#page-48-0) process about 20 images per second.
 
-<span id="page-3-6"></span>Chapter 31: Act 2 is where a poorly [structured](#page-50-0) film goes to die.
+Chapter 31: Act 2 is where a poorly [structured](#page-50-0) film goes to die.
 
-<span id="page-3-7"></span>Chapter 32: The best story [structure](#page-51-0) is invisible.
+Chapter 32: The best story [structure](#page-51-0) is invisible.
 
-<span id="page-3-8"></span>Chapter 33: Every scene must reveal new [information.](#page-52-0)
+Chapter 33: Every scene must reveal new [information.](#page-52-0)
 
-<span id="page-3-9"></span>[Chapter](#page-53-0) 34: Every scene must contain conflict.
+[Chapter](#page-53-0) 34: Every scene must contain conflict.
 
-<span id="page-3-10"></span>[Chapter](#page-54-0) 35: In fantasy stories, set the rules early, clearly, and simply.
+[Chapter](#page-54-0) 35: In fantasy stories, set the rules early, clearly, and simply.
 
-<span id="page-3-11"></span>Chapter 36: Animation provides an opportunity to think [expansively,](#page-55-0) not expensively.
+Chapter 36: Animation provides an opportunity to think [expansively,](#page-55-0) not expensively.
 
-<span id="page-3-12"></span>Chapter 37: Make setting a [character.](#page-56-0)
+Chapter 37: Make setting a [character.](#page-56-0)
 
-<span id="page-3-13"></span>Chapter 38: In film noir, [everyone](#page-57-0) is corrupt.
+Chapter 38: In film noir, [everyone](#page-57-0) is corrupt.
 
-<span id="page-3-14"></span>[Chapter](#page-58-0) 39: The fourth wall
+[Chapter](#page-58-0) 39: The fourth wall
 
-<span id="page-3-15"></span>Chapter 40: [Dialogue](#page-59-0) is not real speech.
+Chapter 40: [Dialogue](#page-59-0) is not real speech.
 
-<span id="page-3-16"></span>Chapter 41: Give your [characters](#page-60-0) the anonymity test.
+Chapter 41: Give your [characters](#page-60-0) the anonymity test.
 
-<span id="page-3-17"></span>Chapter 42: [Mise-en-scène](#page-61-0)
+Chapter 42: [Mise-en-scène](#page-61-0)
 
-<span id="page-3-18"></span>Chapter 43: Beware [children,](#page-62-0) animals, and liquids!
+Chapter 43: Beware [children,](#page-62-0) animals, and liquids!
 
-<span id="page-3-19"></span>Chapter 44: Save [time—and](#page-63-0) money.
+Chapter 44: Save [time—and](#page-63-0) money.
 
-<span id="page-3-20"></span>Chapter 45: Studio or [remote?](#page-65-0)
+Chapter 45: Studio or [remote?](#page-65-0)
 
-<span id="page-3-21"></span>[Chapter](#page-67-0) 46: Lighting
+[Chapter](#page-67-0) 46: Lighting
 
-<span id="page-3-22"></span>[Chapter](#page-69-0) 47: Clear the eye line.
+[Chapter](#page-69-0) 47: Clear the eye line.
 
-<span id="page-3-23"></span>[Chapter](#page-70-0) 48: Call "Action" in the mood of the scene.
+[Chapter](#page-70-0) 48: Call "Action" in the mood of the scene.
 
-<span id="page-3-24"></span>[Chapter](#page-71-0) 49: Shoot it again.
+[Chapter](#page-71-0) 49: Shoot it again.
 
-<span id="page-3-25"></span>Chapter 50: Have a plan, but enjoy the [detours.](#page-72-0)
+Chapter 50: Have a plan, but enjoy the [detours.](#page-72-0)
 
-<span id="page-3-26"></span>[Chapter](#page-73-0) 51
+[Chapter](#page-73-0) 51
 
-<span id="page-3-27"></span>Chapter 52: Signs of a novice [filmmaker](#page-74-0)
+Chapter 52: Signs of a novice [filmmaker](#page-74-0)
 
-<span id="page-3-28"></span>Chapter 53: The [180-degree](#page-76-0) rule
+Chapter 53: The [180-degree](#page-76-0) rule
 
-<span id="page-3-29"></span>[Chapter](#page-77-0) 54: The rule of thirds
+[Chapter](#page-77-0) 54: The rule of thirds
 
-<span id="page-3-30"></span>Chapter 55: Leave [breathing](#page-78-0) room.
+Chapter 55: Leave [breathing](#page-78-0) room.
 
-<span id="page-3-31"></span>Chapter 56: Place figures in [uncomfortable](#page-80-0) proximity.
+Chapter 56: Place figures in [uncomfortable](#page-80-0) proximity.
 
-<span id="page-3-32"></span>Chapter 57: Film is [three-dimensional.](#page-81-0)
+Chapter 57: Film is [three-dimensional.](#page-81-0)
 
-<span id="page-3-33"></span>Chapter 58: Make sure [everyone](#page-82-0) is making the same movie.
+Chapter 58: Make sure [everyone](#page-82-0) is making the same movie.
 
-<span id="page-4-0"></span>Chapter 59: Have some [showstoppers.](#page-83-0)
+Chapter 59: Have some [showstoppers.](#page-83-0)
 
-<span id="page-4-1"></span>Chapter 60: Every movie is a [suspense](#page-84-0) movie.
+Chapter 60: Every movie is a [suspense](#page-84-0) movie.
 
-<span id="page-4-2"></span>Chapter 61: Random [hypothesis](#page-85-0)
+Chapter 61: Random [hypothesis](#page-85-0)
 
-<span id="page-4-3"></span>Chapter 62: Make the conflict [existential.](#page-86-0)
+Chapter 62: Make the conflict [existential.](#page-86-0)
 
-<span id="page-4-4"></span>Chapter 63: Help the audience keep track of your [characters.](#page-87-0)
+Chapter 63: Help the audience keep track of your [characters.](#page-87-0)
 
-<span id="page-4-5"></span>[Chapter](#page-89-0) 64: Dig deeper.
+[Chapter](#page-89-0) 64: Dig deeper.
 
-<span id="page-4-6"></span>Chapter 65: Film, novel, [television,](#page-90-0) or stage?
+Chapter 65: Film, novel, [television,](#page-90-0) or stage?
 
-<span id="page-4-7"></span>Chapter 66: Film is a director's medium; [television](#page-92-0) is a writer's medium.
+Chapter 66: Film is a director's medium; [television](#page-92-0) is a writer's medium.
 
-<span id="page-4-8"></span>[Chapter](#page-94-0) 67: A movie is a novel turned inside out.
+[Chapter](#page-94-0) 67: A movie is a novel turned inside out.
 
-<span id="page-4-9"></span>[Chapter](#page-95-0) 68: A comedy isn't just about jokes.
+[Chapter](#page-95-0) 68: A comedy isn't just about jokes.
 
-<span id="page-4-10"></span>Chapter 69: Good writing is good [rewriting.](#page-96-0)
+Chapter 69: Good writing is good [rewriting.](#page-96-0)
 
-<span id="page-4-11"></span>Chapter 70: Make [rejection](#page-97-0) a process.
+Chapter 70: Make [rejection](#page-97-0) a process.
 
-<span id="page-4-12"></span>Chapter 71: Who is the [intersection?](#page-98-0)
+Chapter 71: Who is the [intersection?](#page-98-0)
 
-<span id="page-4-13"></span>Chapter 72: [Montage](#page-99-0)
+Chapter 72: [Montage](#page-99-0)
 
-<span id="page-4-14"></span>Chapter 73: [Different](#page-100-0) lenses tell different stories.
+Chapter 73: [Different](#page-100-0) lenses tell different stories.
 
-<span id="page-4-15"></span>Chapter 74: The plotlines of [ensemble](#page-101-0) movies share a single theme.
+Chapter 74: The plotlines of [ensemble](#page-101-0) movies share a single theme.
 
-<span id="page-4-16"></span>Chapter 75: Make visual motifs [specific.](#page-102-0)
+Chapter 75: Make visual motifs [specific.](#page-102-0)
 
-<span id="page-4-17"></span>[Chapter](#page-103-0) 76: Rhythm and tempo
+[Chapter](#page-103-0) 76: Rhythm and tempo
 
-<span id="page-4-18"></span>[Chapter](#page-105-0) 77: Tell the story in the cut.
+[Chapter](#page-105-0) 77: Tell the story in the cut.
 
-<span id="page-4-19"></span>Chapter 78: Augment action scenes with clean [cutaways.](#page-106-0)
+Chapter 78: Augment action scenes with clean [cutaways.](#page-106-0)
 
-<span id="page-4-20"></span>Chapter 79: The music you hear in your head during filming is [probably](#page-108-0) not the right music for the film.
+Chapter 79: The music you hear in your head during filming is [probably](#page-108-0) not the right music for the film.
 
-<span id="page-4-21"></span>Chapter 80: Burn your [characters'](#page-109-0) bridges.
+Chapter 80: Burn your [characters'](#page-109-0) bridges.
 
-<span id="page-4-22"></span>[Chapter](#page-110-0) 81
+[Chapter](#page-110-0) 81
 
-<span id="page-4-23"></span>[Chapter](#page-111-0) 82: Set the clock ticking.
+[Chapter](#page-111-0) 82: Set the clock ticking.
 
-<span id="page-4-24"></span>[Chapter](#page-112-0) 83: Read it aloud.
+[Chapter](#page-112-0) 83: Read it aloud.
 
-<span id="page-4-25"></span>[Chapter](#page-113-0) 84: Don't cast solely by looks.
+[Chapter](#page-113-0) 84: Don't cast solely by looks.
 
-<span id="page-4-26"></span>Chapter 85: [Rehearsal](#page-114-0) isn't just for the actors.
+Chapter 85: [Rehearsal](#page-114-0) isn't just for the actors.
 
-<span id="page-4-27"></span>Chapter 86: Give actors [something](#page-115-0) to do.
+Chapter 86: Give actors [something](#page-115-0) to do.
 
-<span id="page-4-28"></span>[Chapter](#page-116-0) 87: Acting speaks louder than words.
+[Chapter](#page-116-0) 87: Acting speaks louder than words.
 
-<span id="page-4-29"></span>[Chapter](#page-117-0) 88: If you want to write, read. If you want to make films, see films.
+[Chapter](#page-117-0) 88: If you want to write, read. If you want to make films, see films.
 
-<span id="page-4-30"></span>Chapter 89: Work in the [trenches.](#page-118-0)
+Chapter 89: Work in the [trenches.](#page-118-0)
 
-<span id="page-4-31"></span>[Chapter](#page-120-0) 90: Let it go, already.
+[Chapter](#page-120-0) 90: Let it go, already.
 
-<span id="page-4-32"></span>[Chapter](#page-121-0) 91: Play well with others.
+[Chapter](#page-121-0) 91: Play well with others.
 
-<span id="page-5-0"></span>[Chapter](#page-122-0) 92: Make it shorter.
+[Chapter](#page-122-0) 92: Make it shorter.
 
-<span id="page-5-1"></span>[Chapter](#page-123-0) 93
+[Chapter](#page-123-0) 93
 
-<span id="page-5-2"></span>Chapter 94: Convenient versus inconvenient [coincidences](#page-124-0)
+Chapter 94: Convenient versus inconvenient [coincidences](#page-124-0)
 
-<span id="page-5-3"></span>[Chapter](#page-125-0) 95: Hang a lantern.
+[Chapter](#page-125-0) 95: Hang a lantern.
 
-<span id="page-5-4"></span>Chapter 96: Don't overtax an [audience's](#page-126-0) good will.
+Chapter 96: Don't overtax an [audience's](#page-126-0) good will.
 
-<span id="page-5-5"></span>Chapter 97: Deus ex [machina](#page-127-0)
+Chapter 97: Deus ex [machina](#page-127-0)
 
-<span id="page-5-6"></span>[Chapter](#page-128-0) 98: The climax is the truth.
+[Chapter](#page-128-0) 98: The climax is the truth.
 
-<span id="page-5-7"></span>[Chapter](#page-129-0) 99: After the climax, get out fast.
+[Chapter](#page-129-0) 99: After the climax, get out fast.
 
-<span id="page-5-8"></span>Chapter 100: [Catharsis](#page-130-0)
+Chapter 100: [Catharsis](#page-130-0)
 
-<span id="page-5-9"></span>Chapter 101: You are your [protagonist.](#page-131-0)
+Chapter 101: You are your [protagonist.](#page-131-0)
 
 #### **From Neil**
 
 To my mentors Pamela Long, Carolyn See, and Cynthia Whitcomb, and to my mother, who taught me the art of survival.
 
-#### <span id="page-7-0"></span>**[Author's](#page-2-1) Note**
+#### **[Author's](#page-2-1) Note**
 
 When I graduated from high school, I thought I already knew everything there was to know about movies. But by the end of my first week at UCLA film school, I faced a sobering reality: I was a complete neophyte. Overwhelmed and intimidated by all that was suddenly swirling around me, I wanted to drop out.
 
@@ -250,7 +255,7 @@ In my subsequent twenty years of teaching, screenwriting, and filmmaking, I have
 
 #### Neil Landau
 
-#### <span id="page-9-0"></span>**[Acknowledgments](#page-2-2)**
+#### **[Acknowledgments](#page-2-2)**
 
 #### **From Neil**
 
@@ -260,7 +265,7 @@ Thanks to Hal Ackerman, Alexander Akopov, Jane Anderson, Jon Bernstein, Ross Bro
 
 Thanks to Karen Andrews, David Blaisdell, Sorche Fairbank, Ethan Gilsdorf, Paul Gulino, Jessica Handler, Tracy Martin, Camille O'Garro, Janet Reid, Kallie Shimek, Tim Stout, Flag Tonuzi, Tom Whatley, and Rick Wolff.
 
-# <span id="page-10-0"></span>**Start [strong.](#page-2-3)**
+# **Start [strong.](#page-2-3)**
 
 ![](_page_10_Picture_2.jpeg)
 
@@ -270,7 +275,7 @@ The opening image should suggest a movie's central theme and prompt intrigue as 
 
 The opening image not only points forward to the theme and story to unfold, it can reveal back-story: An opening shot of a boarded-up, tumbleweed-strewn town may depict desolation, while a flower on a cactus at the edge of the frame suggests the possibility of renewal.
 
-#### <span id="page-11-0"></span>**[Start](#page-2-4) late.**
+#### **[Start](#page-2-4) late.**
 
 ![](_page_11_Picture_2.jpeg)
 
@@ -278,13 +283,13 @@ A movie story should start as late as possible and occur over the shortest reaso
 
 In individual scenes, don't waste valuable time on unnecessary entrances and hellos. See if a scene can be started in the middle. A screenwriter or director who is willing to self-edit will often find that a scene is strengthened by cutting the first two, and often last two, lines of dialogue.
 
-## <span id="page-12-0"></span>**[Show,](#page-2-5) don't tell.**
+## **[Show,](#page-2-5) don't tell.**
 
 ![](_page_12_Picture_2.jpeg)
 
 Film is primarily a visual medium; almost everything that needs to be communicated about a story and its characters is better shown than explained. Visual cues, when well conceived, will demonstrate the unseen—inner psychology, hidden histories, and emotional conflicts —far better than direct explication will. And if you show it rather than tell it, you will leave more screen time for more important things.
 
-## <span id="page-13-0"></span>**Three stages of [filmmaking](#page-2-6)**
+## **Three stages of [filmmaking](#page-2-6)**
 
 ![](_page_13_Picture_2.jpeg)
 
@@ -296,7 +301,7 @@ Film is primarily a visual medium; almost everything that needs to be communicat
 
 "Post" lasts several months, with the director's first cut usually ready about ten weeks after the last day of shooting.
 
-#### <span id="page-15-0"></span>**[Filmspeak](#page-2-7)**
+#### **[Filmspeak](#page-2-7)**
 
 ![](_page_15_Picture_2.jpeg)
 
@@ -324,41 +329,62 @@ Film is primarily a visual medium; almost everything that needs to be communicat
 
 **Martini:** the last shot of the day
 
-#### <span id="page-17-0"></span>**[Above-the-line](#page-2-8) versus below-the-line costs**
+#### **[Above-the-line](#page-2-8) versus below-the-line costs**
 
 #### "Revenge" Project Budget
 
-| Category                               | Est.<br>Cost |
+| Category                               | Est.
+Cost |
 |----------------------------------------|--------------|
 | Script/rights                          | 500,000      |
 | Producers                              | 450,000      |
-| Prelim.<br>legal                       | 15,000       |
+| Prelim.
+legal                       | 15,000       |
 | Director                               | 250,000      |
 | Cast                                   | 840,000      |
-| Total<br>Above<br>the<br>Line<br>Costs | \$2,055,000  |
-| Production<br>staff                    | 325,000      |
-| Art<br>direction                       | 80,000       |
-| Set<br>construction                    | 250,000      |
-| Set<br>operations                      | 200,000      |
+| Total
+Above
+the
+Line
+Costs | \$2,055,000  |
+| Production
+staff                    | 325,000      |
+| Art
+direction                       | 80,000       |
+| Set
+construction                    | 250,000      |
+| Set
+operations                      | 200,000      |
 | Permissions/licenses                   | 10,000       |
 | Location                               | 50,000       |
-| Studio<br>rentals                      | 25,000       |
+| Studio
+rentals                      | 25,000       |
 | Transportation                         | 40,000       |
 | Editing/lab                            | 180,000      |
 | Music                                  | 80,000       |
 | Sound                                  | 110,000      |
 | Insurance/taxes/fees                   | 65,000       |
 
-| Additional<br>legal                    | 25,000      |
+| Additional
+legal                    | 25,000      |
 |----------------------------------------|-------------|
 | Publicity                              | 100,000     |
 | Overhead                               | 100,000     |
-| Total<br>Below<br>the<br>Line<br>Costs | \$1,640,000 |
+| Total
+Below
+the
+Line
+Costs | \$1,640,000 |
 |                                        |             |
-| Total<br>Prelim.<br>Estimate           | \$3,695,000 |
-| 15%<br>Contingency                     | 554,250     |
+| Total
+Prelim.
+Estimate           | \$3,695,000 |
+| 15%
+Contingency                     | 554,250     |
 |                                        |             |
-| Total<br>Project<br>Estimate           | \$4,249,250 |
+| Total
+Project
+Estimate           | \$4,249,250 |
 
 Movies are budgeted according to "above-the-line" and "below-theline" costs.
 
@@ -368,13 +394,13 @@ Movies are budgeted according to "above-the-line" and "below-theline" costs.
 
 Major studio films invariably spend much more above the line than below.
 
-## <span id="page-19-0"></span>**Follow the [action.](#page-2-9)**
+## **Follow the [action.](#page-2-9)**
 
 ![](_page_19_Picture_2.jpeg)
 
 The camera is the eyes of the audience. Audiences usually want to be as close as possible to the action and not feel like they're observing from the cheap seats. Give them an optimal view by placing, moving, and zooming the camera as needed.
 
-#### <span id="page-20-0"></span>**[Conceal](#page-2-10) the action.**
+#### **[Conceal](#page-2-10) the action.**
 
 ![](_page_20_Picture_2.jpeg)
 
@@ -382,7 +408,7 @@ Occasionally, curiosity and intrigue are best provoked by keeping the audience a
 
 The *judicious reveal* primes the audience's desire to see and know more, building suspense and leading to a greater impact when a full reveal is later made.
 
-#### <span id="page-21-0"></span>**[Discover](#page-2-11) the action.**
+#### **[Discover](#page-2-11) the action.**
 
 ![](_page_21_Picture_2.jpeg)
 
@@ -396,7 +422,7 @@ hand-held camera can lend additional immediacy and suspense by suggesting that s
 
 **Fixed discovery shots** lend a sense of eavesdropping, of witnessing the characters' lives from an unobtrusive vantage point within. It uses a stationary camera with the characters moving in and out of the frame; the camera "discovers" the characters from its fixed position.
 
-## <span id="page-23-0"></span>**Make [psychology](#page-2-12) visual.**
+## **Make [psychology](#page-2-12) visual.**
 
 ![](_page_23_Picture_2.jpeg)
 
@@ -412,7 +438,7 @@ hand-held camera can lend additional immediacy and suspense by suggesting that s
 
 **Jitter/hand-held shot:** can project a sense of being overwhelmed while at the center of turmoil, such as a busy emergency room or crime scene.
 
-#### <span id="page-25-0"></span>**Control the [back-story.](#page-2-13)**
+#### **Control the [back-story.](#page-2-13)**
 
 ![](_page_25_Picture_2.jpeg)
 
@@ -420,7 +446,7 @@ Back-story consists of events that occurred prior to the start of a film: childh
 
 When having difficulty developing or resolving a narrative, look to the back-story, as poor back-story exposition can shadow an entire film.
 
-# <span id="page-26-0"></span>**A flawed protagonist is more compelling than a perfect [protagonist.](#page-2-14)**
+# **A flawed protagonist is more compelling than a perfect [protagonist.](#page-2-14)**
 
 ![](_page_26_Picture_2.jpeg)
 
@@ -428,7 +454,7 @@ Inexperienced filmmakers may fail to imbue a protagonist with undesirable traits
 
 Audiences are usually fascinated by contradictions and shortcomings in a film's characters. The idiosyncrasies and failings we all have are even more compelling in a character that is otherwise heroic.
 
-#### <span id="page-27-0"></span>**The [antagonist](#page-2-15) subverts the truth.**
+#### **The [antagonist](#page-2-15) subverts the truth.**
 
 ![](_page_27_Picture_2.jpeg)
 
@@ -436,7 +462,7 @@ Audiences are usually fascinated by contradictions and shortcomings in a film's 
 
 A true "hero" has truth on his or her side. Knowing this, the antagonist usually seeks to subvert the truth. Often, the protagonist and antagonist fear the same truth. In a romantic comedy, where the antagonist—the protagonist's romantic interest—is typically friendly, the truth being subverted is a realization or admission of love.
 
-## <span id="page-28-0"></span>**[Beginning,](#page-2-16) middle, end.**
+## **[Beginning,](#page-2-16) middle, end.**
 
 ![](_page_28_Figure_2.jpeg)
 
@@ -450,13 +476,13 @@ Whether working out the broad concept of a new story, figuring out the particula
 
 **Act 3: Resolve the problem**. Events reach their inevitable climax and resolution.
 
-## <span id="page-30-0"></span>**1 [screenplay](#page-2-17) page = 1 minute of screen time.**
+## **1 [screenplay](#page-2-17) page = 1 minute of screen time.**
 
 ![](_page_30_Picture_2.jpeg)
 
 A screenplay is typically 90 to 120 pages long, which equates with an average movie time of 90 minutes to two hours. Comedy, horror, animated, and family films tend to be on the shorter end of this range because of the audience's more limited attention span and the difficulty of sustaining thrills, chills, and belly laughs for two full hours. Character-based dramas tend to be the longest films, because the revelation of back-story, exploration of inner psychology, and nuances of character development require subtle, protracted exposition.
 
-#### <span id="page-31-0"></span>**[What's](#page-2-18) at stake?**
+#### **[What's](#page-2-18) at stake?**
 
 ![](_page_31_Picture_2.jpeg)
 
@@ -464,7 +490,7 @@ A screenplay is typically 90 to 120 pages long, which equates with an average mo
 
 Show viewers early and clearly what the stakes are—what the protagonist most values in his or her ordinary world and what will be lost if the antagonist prevails. The protagonist's effort to retain the positives of his or her ordinary world while fending off the negative intrusion on it provides the central tension of a movie. When a story lacks tension, it is usually because (a) the stakes were poorly defined; (b) the stakes were not set high enough; or (c) the antagonist is not sufficiently threatening.
 
-## <span id="page-32-0"></span>**Create [tangible](#page-2-19) objects of desire.**
+## **Create [tangible](#page-2-19) objects of desire.**
 
 ![](_page_32_Picture_2.jpeg)
 
@@ -480,7 +506,7 @@ A protagonist's goals can be initially abstract, but must become more concrete a
 
 A *MacGuffin*—a term popularized by Alfred Hitchcock—is a specific goal deemed important by the characters early on but that turns out to be irrelevant or worthless to the larger cause.
 
-## <span id="page-33-0"></span>**[Practice](#page-2-20) perfect pitch.**
+## **[Practice](#page-2-20) perfect pitch.**
 
 ![](_page_33_Picture_2.jpeg)
 
@@ -499,7 +525,7 @@ A pitch is a brief summary (ten minutes or less) of a screenplay or film idea, g
 
 Also prepare an elevator pitch, a twenty to thirty second description of your movie, which will come in handy the day you unexpectedly run into a famous filmmaker.
 
-# <span id="page-35-0"></span>**A high concept movie can be explained in one [sentence.](#page-2-21)**
+# **A high concept movie can be explained in one [sentence.](#page-2-21)**
 
 ![](_page_35_Picture_2.jpeg)
 
@@ -512,13 +538,13 @@ Selling a movie or TV idea is difficult, but it's far easier when you can articu
 - A man ages backward while his beloved ages forward. (*The Curious Case of Benjamin Button*)
 - A curmudgeonly weatherman keeps waking up on the same day. (*Groundhog Day*).
 
-## <span id="page-36-0"></span>**Have a [strong](#page-2-22)** *but***.**
+## **Have a [strong](#page-2-22)** *but***.**
 
 ![](_page_36_Picture_2.jpeg)
 
 A clear *but* in a movie's premise is essential to a successful Act 2. For example, "Mamie promises the mob she will deliver a drug shipment from Colombia to Italy, but she's afraid of flying." A premise without a strong *but* will lack sufficient tension, conflict, irony, or humor to carry the middle of the film, while a strong *but* will lead to an Act 2 in which the essential conflict of the film plays out naturally.
 
-# <span id="page-37-0"></span>**A good title says what a [movie](#page-2-23)** *is***.**
+# **A good title says what a [movie](#page-2-23)** *is***.**
 
 ![](_page_37_Picture_2.jpeg)
 
@@ -526,13 +552,13 @@ A clear *but* in a movie's premise is essential to a successful Act 2. For examp
 
 An effective title conveys what a movie is actually about: its central story, the protagonist's quest, the setting, theme, genre—and sometimes all these things. Strong titles are often one or two words that explain a lot (*Speed*, *Jaws*), evoke setting (*Wall Street*, *Fargo*), or suggest danger (*Lethal Weapon*, *Panic Room*). They can provoke intrigue (*The Silence of the Lambs*, *The Curious Case of Benjamin Button*), a sense of risk (*Dressed to Kill*, *Indecent Proposal*), mystery (*What Lies Beneath*, *Suspicion*), and humor (*The 40-Year-Old Virgin*, *Ace Ventura: Pet Detective*). Some are just plain catchy (*Lock, Stock, and Two Smoking Barrels*) or punny (*The Santa Clause*, *Legally Blonde*).
 
-#### <span id="page-38-0"></span>*Plot* **is physical events;** *story* **is [emotional](#page-2-24) events.**
+#### *Plot* **is physical events;** *story* **is [emotional](#page-2-24) events.**
 
 ![](_page_38_Picture_2.jpeg)
 
 Plot is what happens in a movie; story is how the characters feel about what happens. In *The Dark Knight*, the plot sets good guy against bad guy, as Batman seeks to protect Gotham City from the deranged Joker. But the story of *The Dark Knight* is the moral crisis Batman faces in risking his reputation for a greater good.
 
-# <span id="page-39-0"></span>*Story* **concerns the specific [characters](#page-2-25) in a film;** *theme* **concerns the universal human condition.**
+# *Story* **concerns the specific [characters](#page-2-25) in a film;** *theme* **concerns the universal human condition.**
 
 ![](_page_39_Picture_2.jpeg)
 
@@ -540,7 +566,7 @@ A theme is a truth about life that is embedded in and emerges from the experienc
 
 A film may have more than one theme; in fact, a film's maker and its viewers may differ on which is the essential one.
 
-#### <span id="page-40-0"></span>**[Whose](#page-2-26) story is it?**
+#### **[Whose](#page-2-26) story is it?**
 
 ![](_page_40_Picture_2.jpeg)
 
@@ -552,19 +578,19 @@ A point of view, typically that of the protagonist, presides over a film. POV ca
 
 low camera angle for a person confined to a wheelchair) or feels (blurring or tilting to convey precarious psychology). Variations in sound, color, and light may also be used.
 
-#### <span id="page-42-0"></span>**Create [memorable](#page-3-0) entrances.**
+#### **Create [memorable](#page-3-0) entrances.**
 
 ![](_page_42_Picture_2.jpeg)
 
 Your protagonist's character, style, and behavior must be distinctive from the moment we first lay eyes on him or her. Does she trip on a carpet snag? Did she forget to remove a hair curler? Is he carrying a not-quite-concealed weapon? Is he a debonair smoothie amid a hubbub of confusion and crudity? Is she a lone, effervescent figure in a gray London gloom?
 
-<span id="page-43-0"></span>![](_page_43_Picture_1.jpeg)
+![](_page_43_Picture_1.jpeg)
 
 **"An actor entering through the door, you've got nothing. But if he enters through the window, you've got a situation."**
 
 **—BILLY WILDER**
 
-## <span id="page-44-0"></span>**Tell a story at [different](#page-3-2) scales.**
+## **Tell a story at [different](#page-3-2) scales.**
 
 ![](_page_44_Picture_2.jpeg)
 
@@ -582,13 +608,13 @@ A full range of shots (called "coverage") conveys a variety of information and e
 
 **Extreme Close-up (ECU):** shows a character (or object) in great detail, usually the eyes and nose; can show subtext, irony, dishonesty, or detailed activity such as putting on makeup.
 
-## <span id="page-46-0"></span>**Beware the passive [protagonist.](#page-3-3)**
+## **Beware the passive [protagonist.](#page-3-3)**
 
 ![](_page_46_Picture_2.jpeg)
 
 Make your protagonist stand for something, not merely against something. He or she can at first be reluctant; an initially fearful protagonist can increase dramatic tension. But the protagonist ultimately must make a clear choice to act; his or her course cannot be chosen for him or her.
 
-## <span id="page-47-0"></span>**Props reveal [character.](#page-3-4)**
+## **Props reveal [character.](#page-3-4)**
 
 ![](_page_47_Picture_2.jpeg)
 
@@ -598,7 +624,7 @@ A prop is any object physically handled by an actor, including elements of wardr
 
 In *Seven*, Morgan Freeman's character has a metronome beside his bed. Its ticking rhythm comforted him and helped him drift off to sleep. But more significantly, the prop conveyed his desire, as an overworked city police detective, to control one noise in a cacophonous city.
 
-# <span id="page-48-0"></span>**The human eye can [distinctly](#page-3-5) process about 20 images per second.**
+# **The human eye can [distinctly](#page-3-5) process about 20 images per second.**
 
 ![](_page_48_Picture_2.jpeg)
 
@@ -610,7 +636,7 @@ Slow and fast motion are created by altering the frame rate during filming. Perh
 
 to run too fast: They were filmed when a slower rate was the norm, and thereby run too fast on today's projection equipment.
 
-# <span id="page-50-0"></span>**Act 2 is where a poorly [structured](#page-3-6) film goes to die.**
+# **Act 2 is where a poorly [structured](#page-3-6) film goes to die.**
 
 ![](_page_50_Picture_2.jpeg)
 
@@ -620,37 +646,37 @@ Because Act 2 is usually twice as long as Acts 1 and 3, it can seem interminable
 
 Theorist Paul Gulino favors an eight-sequence structure to guard against an amorphous Act 2. Each sequence is about fifteen minutes long with its own internal three-act structure. This model doesn't necessarily negate three-act structure, but can be overlaid on it.
 
-## <span id="page-51-0"></span>**The best story [structure](#page-3-7) is invisible.**
+## **The best story [structure](#page-3-7) is invisible.**
 
 ![](_page_51_Picture_2.jpeg)
 
 The audience should never be made consciously aware of structure, which should be camouflaged within dramatic events. When a story is filled with effective emotional stakes, exciting revelation, deepening dilemma, conflict, and suspense, viewers won't try to explicate structure; they'll be riveted to the unfolding narrative.
 
-# <span id="page-52-0"></span>**Every scene must reveal new [information.](#page-3-8)**
+# **Every scene must reveal new [information.](#page-3-8)**
 
 ![](_page_52_Picture_2.jpeg)
 
 A movie presents a problem; its eventual solution requires that new information be made available to both characters and viewers. Every scene consequently must contain a revelation of previously unknown information. It need not be a bombshell, but should be specific; and if not pure, objective information, it can be about how different characters perceive or react to the same information.
 
-## <span id="page-53-0"></span>**Every scene must contain [conflict.](#page-3-9)**
+## **Every scene must contain [conflict.](#page-3-9)**
 
 ![](_page_53_Picture_2.jpeg)
 
 Movies exist because of conflicts and the opportunities for drama, resolution, new understandings, humor, and tragedy. Every scene in a movie—even apparently innocuous ones of blissful courtship or innocent childhood play—needs to contribute to the building and intensifying of conflict. The discord can be modest, overt, embedded in the subtext, sweet, or funny.
 
-# <span id="page-54-0"></span>**In fantasy [stories,](#page-3-10) set the rules early, clearly, and simply.**
+# **In fantasy [stories,](#page-3-10) set the rules early, clearly, and simply.**
 
 ![](_page_54_Picture_2.jpeg)
 
 Fantasy films allow escapism, but that doesn't mean the audience will accept any suppositions they put forth. If the rules of supernatural worlds or powers are not clear, or if new ones are introduced too late, the audience will likely feel that the story they initially invested in has turned into one they are indifferent to.
 
-# <span id="page-55-0"></span>**Animation provides an opportunity to think** *expansively***, not [expensively.](#page-3-11)**
+# **Animation provides an opportunity to think** *expansively***, not [expensively.](#page-3-11)**
 
 ![](_page_55_Picture_2.jpeg)
 
 Animation writers can tell any story or have their characters do anything imaginable without the budgetary and physical constraints of live-action movies, in which set construction, special effects, and stunts cost millions of dollars. For this reason, one should be careful about having animated characters do things that can be done in an ordinary, live-action movie, unless it's for humor: If it can be done in real life, why animate it?
 
-## <span id="page-56-0"></span>**Make setting a** *[character](#page-3-12)***.**
+## **Make setting a** *[character](#page-3-12)***.**
 
 ![](_page_56_Picture_2.jpeg)
 
@@ -658,13 +684,13 @@ Characters might seem the essential objects of a film, portrayed against a neutr
 
 Because setting is large, one might be inclined to portray it through broad vistas, such as a savannah, beachfront, cityscape, or desert. But details—a rusty fishing vessel, a wizened fisherman, a loon taking flight, a weather-beaten street sign—are crucial, too.
 
-## <span id="page-57-0"></span>**In film noir, [everyone](#page-3-13) is corrupt.**
+## **In film noir, [everyone](#page-3-13) is corrupt.**
 
 ![](_page_57_Picture_2.jpeg)
 
 Film noir is a subgenre of the crime/drama/mystery genre. It features opportunistic, morally bankrupt characters full of despair. They act only in self-interest; altruism and playing by the rules are for suckers. There is little hope for these characters, little or no chance for redemption or a happy ending.
 
-#### <span id="page-58-0"></span>**The [fourth](#page-3-14) wall**
+#### **The [fourth](#page-3-14) wall**
 
 ![](_page_58_Picture_2.jpeg)
 
@@ -672,7 +698,7 @@ The fourth wall is the imaginary plane separating a stage or film production fro
 
 Onscreen events and dialogue must be presented with an understanding of their relationship to the fourth wall. If, for example, a character too overtly states the movie's message, the audience will feel that the fourth wall has been uncomfortably broken. Voiceover, in which an off-screen narrator provides insights and information on a film's proceedings, often serves as a gentle negotiation of the fourth wall.
 
-## <span id="page-59-0"></span>**[Dialogue](#page-3-15) is not real speech.**
+## **[Dialogue](#page-3-15) is not real speech.**
 
 ![](_page_59_Picture_2.jpeg)
 
@@ -680,13 +706,13 @@ Onscreen events and dialogue must be presented with an understanding of their re
 
 Dialogue must sound authentic, but it needs to be much more colorful, compact, and on-point than natural speech. Real-life speech is full of asides and non sequiturs that—unless intended for a specific effect—can be tedious to listen to in a film. Effective movie dialogue propels the plot forward, informs on character, and is structured with a beginning, middle, and end—even when the dialogue begins in the middle of a scene.
 
-#### <span id="page-60-0"></span>**Give your [characters](#page-3-16) the anonymity test.**
+#### **Give your [characters](#page-3-16) the anonymity test.**
 
 ![](_page_60_Picture_2.jpeg)
 
 Each character's voice should be distinctive and idiosyncratic. When writing or reviewing a script, cover up the characters' names to see if you can tell who is speaking. If the lines are interchangeable, the characters are too similar.
 
-#### <span id="page-61-0"></span>*[Mise-en-scène](#page-3-17)*
+#### *[Mise-en-scène](#page-3-17)*
 
 ![](_page_61_Picture_2.jpeg)
 
@@ -694,7 +720,7 @@ Each character's voice should be distinctive and idiosyncratic. When writing or 
 
 French for "what's put into the scene," *mise-en-scène* is the sum of factors affecting the visual aesthetic or feel of a shot, scene, or movie, including the interplay of objects, characters, color, depth, shadow, light, shot selection, composition, production design, set decoration, and even the type of film used.
 
-#### <span id="page-62-0"></span>**Beware [children,](#page-3-18) animals, and liquids!**
+#### **Beware [children,](#page-3-18) animals, and liquids!**
 
 ![](_page_62_Picture_2.jpeg)
 
@@ -704,7 +730,7 @@ French for "what's put into the scene," *mise-en-scène* is the sum of factors a
 - When casting children, try to find identical twins or triplets. This will compensate for the unpredictability of children and increase available shooting time, as labor laws and union rules restrict their working hours.
 - Avoid extensive sequences involving boats or water, which drive up production costs and make camera movement difficult.
 
-# <span id="page-63-0"></span>**Save [time—and](#page-3-19) money.**
+# **Save [time—and](#page-3-19) money.**
 
 ![](_page_63_Picture_2.jpeg)
 
@@ -722,7 +748,7 @@ French for "what's put into the scene," *mise-en-scène* is the sum of factors a
 
 **Minimize master shots**. If most of a scene is to be presented in close-up, don't burn out the actors by having them sit through multiple takes of wide shots.
 
-# <span id="page-65-0"></span>**Studio or [remote?](#page-3-20)**
+# **Studio or [remote?](#page-3-20)**
 
 ![](_page_65_Picture_2.jpeg)
 
@@ -736,7 +762,7 @@ Scenes are filmed in either a studio (indoor or outdoor set) or remote (real-wor
 
 **Permissions:** Remote locations may require special permits from the city and clearances from neighbors.
 
-# <span id="page-67-0"></span>**[Lighting](#page-3-21)**
+# **[Lighting](#page-3-21)**
 
 ![](_page_67_Picture_2.jpeg)
 
@@ -748,13 +774,13 @@ A successful lighting philosophy enhances setting, augments character point of v
 
 **A back light** is placed behind the primary subjects of a scene, facing the camera. It is used to place the subjects in silhouette or provide a glamorous, luminescent, halo effect. It may be softened by a frontal fill light. The sun is a common back light.
 
-## <span id="page-69-0"></span>**[Clear](#page-3-22) the eye line.**
+## **[Clear](#page-3-22) the eye line.**
 
 ![](_page_69_Picture_2.jpeg)
 
 When actors look off camera, considerable clutter may be visible: crew, lighting, sound equipment, more cameras, and much else. For this reason, the assistant director will often say "Clear the eye line" before a take, calling for the removal of all extraneous elements which may distract the actors.
 
-#### <span id="page-70-0"></span>**Call ["Action"](#page-3-23) in the mood of the scene.**
+#### **Call ["Action"](#page-3-23) in the mood of the scene.**
 
 ![](_page_70_Picture_2.jpeg)
 
@@ -762,25 +788,25 @@ It takes time and effort for actors to discover and inhabit the desired mood of 
 
 Sometimes the slate clapped at the beginning of a scene presents potential for distraction. The director might call instead for "end sticks," meaning that the slate will be clapped at the end.
 
-# <span id="page-71-0"></span>**Shoot it [again.](#page-3-24)**
+# **Shoot it [again.](#page-3-24)**
 
 ![](_page_71_Picture_2.jpeg)
 
 Even if the first take seems perfect, always shoot one or two more as the actors might offer additional subtleties. Shoot different coverage as well; a variety of shots will maximize choices in the editing room.
 
-## <span id="page-72-0"></span>**Have a plan, but enjoy the [detours.](#page-3-25)**
+## **Have a plan, but enjoy the [detours.](#page-3-25)**
 
 ![](_page_72_Picture_2.jpeg)
 
 Filmmaking is a complex endeavor calling for detailed plans outlines, storyboards, shot lists, location scouting, rehearsals, and more. It is too complex for even the best conceived plan to hold up the whole way through. So remain fluid. Engage in trial and error. Make room for unexpected interpretations by actors and crew. Turn accidents into possibilities.
 
-<span id="page-73-0"></span>![](_page_73_Picture_1.jpeg)
+![](_page_73_Picture_1.jpeg)
 
 "All great work is preparing yourself for the accident waiting to happen."
 
 -SIDNEY LUMET
 
-## <span id="page-74-0"></span>**Signs of a novice [filmmaker](#page-3-27)**
+## **Signs of a novice [filmmaker](#page-3-27)**
 
 ![](_page_74_Picture_2.jpeg)
 
@@ -801,7 +827,7 @@ Filmmaking is a complex endeavor calling for detailed plans outlines, storyboard
 - Inattention to continuity, resulting in simple transition errors
 - An ending that doesn't grow naturally or inevitably out of previous events
 
-#### <span id="page-76-0"></span>**The [180-degree](#page-3-28) rule**
+#### **The [180-degree](#page-3-28) rule**
 
 ![](_page_76_Picture_2.jpeg)
 
@@ -809,7 +835,7 @@ In a given scene, keep the camera(s) on the same side of the actors to preserve 
 
 The 180-degree rule can be broken for artistic effect, but only with full awareness of the confusion that may be caused.
 
-## <span id="page-77-0"></span>**The rule of [thirds](#page-3-29)**
+## **The rule of [thirds](#page-3-29)**
 
 ![](_page_77_Picture_2.jpeg)
 
@@ -819,7 +845,7 @@ For broad vistas, the horizon line is usually at the lower third. Primary object
 
 An exception to the rule of thirds is when conveying a character's isolation or inertia, when a dead-center placement might work best.
 
-#### <span id="page-78-0"></span>**Leave [breathing](#page-3-30) room.**
+#### **Leave [breathing](#page-3-30) room.**
 
 ![](_page_78_Picture_2.jpeg)
 
@@ -831,13 +857,13 @@ Traditional framing seeks to create balance by placing actors and objects comfor
 
 **Cutoff lines:** Avoid framing actors such that the edge of the frame aligns with the body's natural cutoff lines (neck, waist, knees, ankles), in order to not make them appear amputated.
 
-## <span id="page-80-0"></span>**Place figures in [uncomfortable](#page-3-31) proximity.**
+## **Place figures in [uncomfortable](#page-3-31) proximity.**
 
 ![](_page_80_Picture_2.jpeg)
 
 In Western cultures, the personal space between two persons in face-to-face dialogue is typically over two feet. Onscreen, this distance will usually look too wide, as viewers will become aware of the void in the middle of the frame.
 
-## <span id="page-81-0"></span>**Film is [three-dimensional.](#page-3-32)**
+## **Film is [three-dimensional.](#page-3-32)**
 
 ![](_page_81_Picture_2.jpeg)
 
@@ -845,13 +871,13 @@ It's an easy mistake to limit one's thinking to the literal twodimensionality of
 
 Don't create unnecessarily busy backgrounds, however. If two characters are in conversation on a visually chaotic city street, try softening the background focus or have the characters, during an important part of a conversation, pass in front of a screening element. Lighting the foreground while obscuring the background can also help reduce background clutter.
 
-## <span id="page-82-0"></span>**Make sure [everyone](#page-3-33) is making the same movie.**
+## **Make sure [everyone](#page-3-33) is making the same movie.**
 
 ![](_page_82_Picture_2.jpeg)
 
 A movie requires not only an artistic vision, but a practical one. Production staff need to get to the set on time, work hard, and take disciplined breaks. Staff can't work at cross purposes, and must always understand the bigger picture into which their work fits. Where interpretation is called for, it must be performed within the context of a larger vision. If this vision has not been explicitly defined, don't assume it's okay to do whatever you want; instead, look for the bigger theme, story, or reason your work answers to.
 
-## <span id="page-83-0"></span>**Have some [showstoppers.](#page-4-0)**
+## **Have some [showstoppers.](#page-4-0)**
 
 ![](_page_83_Picture_2.jpeg)
 
@@ -859,25 +885,25 @@ A movie requires not only an artistic vision, but a practical one. Production st
 
 Successful mainstream movies always include several memorable high points, or *set pieces*. These are heightened visual scenes, snippets of which are typically shown in promotional trailers. In a comedy, the set pieces are usually the funniest jokes or squirmiest gags. In action-adventure films, they might show the boldest special effects, chase scenes, or fight sequences. In a horror movie, the set pieces are those that force viewers to cover their eyes.
 
-## <span id="page-84-0"></span>**Every movie is a [suspense](#page-4-1) movie.**
+## **Every movie is a [suspense](#page-4-1) movie.**
 
 ![](_page_84_Picture_2.jpeg)
 
 Regardless of genre, a film should continually fuel the viewer's desire to "get to the next page" to see how things turn out. As new information and developments are revealed, the protagonist's dilemma should also deepen. Suspense is the product of the interplay between revelation and deepening dilemma: Will the accumulating discoveries and successes be sufficient for the protagonist to overcome her accumulating difficulties? Will the protagonist ever fully grasp the nature of her struggle? Will she resolve it before it destroys her? Will the next scene be the one in which we find out?
 
-## <span id="page-85-0"></span>**Random [hypothesis](#page-4-2)**
+## **Random [hypothesis](#page-4-2)**
 
 ![](_page_85_Picture_2.jpeg)
 
 Suspense doesn't come from speeding things up; it comes from slowing things down.
 
-#### <span id="page-86-0"></span>**Make the conflict [existential.](#page-4-3)**
+#### **Make the conflict [existential.](#page-4-3)**
 
 ![](_page_86_Picture_2.jpeg)
 
 In a complex story, the central conflict should become existential in nature. At the midpoint, make the protagonist's Plan A prove inadequate. Turn the initial crisis into one that is broader, deeper, and darker, and that forces the protagonist to reexamine his or her values and core identity. A memorable conflict not only impels a protagonist to act, but to evolve.
 
-## <span id="page-87-0"></span>**Help the audience keep track of your [characters.](#page-4-4)**
+## **Help the audience keep track of your [characters.](#page-4-4)**
 
 ![](_page_87_Picture_2.jpeg)
 
@@ -891,13 +917,13 @@ In a complex story, the central conflict should become existential in nature. At
 
 bar." Onscreen, have characters reference other characters by name rather than pronoun when it sounds natural to do so.
 
-## <span id="page-89-0"></span>**Dig [deeper.](#page-4-5)**
+## **Dig [deeper.](#page-4-5)**
 
 ![](_page_89_Picture_2.jpeg)
 
 Good movies are often—or even usually—about simple things explored with depth, nuance, and attention to detail and meaning. Resist the urge to needlessly clutter a film with more and more plot events, hidden agendas, shoot-em-ups, illicit acts, and quirky characters that don't contribute to a central narrative. Instead, dig deeper into the murky gray areas of the events, themes, and emotions already present in the story. Do fewer things, but do them better.
 
-#### <span id="page-90-0"></span>**Film, novel, [television,](#page-4-6) or stage?**
+#### **Film, novel, [television,](#page-4-6) or stage?**
 
 ![](_page_90_Picture_2.jpeg)
 
@@ -911,7 +937,7 @@ Good movies are often—or even usually—about simple things explored with dept
 
 **Stage plays** are suited to complex ideas that can be effectively dramatized via dialogue and a limited number of characters and sets.
 
-# <span id="page-92-0"></span>**Film is a director's medium; [television](#page-4-7) is a writer's medium.**
+# **Film is a director's medium; [television](#page-4-7) is a writer's medium.**
 
 ![](_page_92_Picture_2.jpeg)
 
@@ -921,13 +947,13 @@ A movie is a one-of-a-kind undertaking: The production team and actors come toge
 
 A successful television series, by comparison, is long running, and production becomes rather standardized during its first season. The greatest challenge becomes the generation of new material each week, giving the gifted writer a proportionally greater opportunity to shine.
 
-#### <span id="page-94-0"></span>**A movie is a novel [turned](#page-4-8) inside out.**
+#### **A movie is a novel [turned](#page-4-8) inside out.**
 
 ![](_page_94_Picture_2.jpeg)
 
 A novel directly describes the invisible inner motives and emotions of characters, and leaves it to the reader to formulate a mental picture of the physical world. A movie, conversely, depicts the visible and implies the unseen. Adapting a book to a screenplay thereby calls for a very difficult inversion: The explicit must be made implicit, and the invisible visible.
 
-# <span id="page-95-0"></span>**A [comedy](#page-4-9) isn't just about jokes.**
+# **A [comedy](#page-4-9) isn't just about jokes.**
 
 ![](_page_95_Picture_2.jpeg)
 
@@ -935,13 +961,13 @@ A novel directly describes the invisible inner motives and emotions of character
 
 Perhaps no genre offers the clear rewards of comedy, as audience laughter provides immediate proof of success. But the screenwriter or filmmaker who depends solely on gags and one-liners to carry a comedy is unlikely to please an audience for long. A comedy may be experienced at the surface, but it still demands good storytelling, structure, and characters. Good comedy ultimately grows out of its underpinnings—from creating interesting situations and playing with expectations of how they should turn out.
 
-# <span id="page-96-0"></span>**Good writing is good [rewriting.](#page-4-10)**
+# **Good writing is good [rewriting.](#page-4-10)**
 
 ![](_page_96_Picture_2.jpeg)
 
 A screenplay typically undergoes ten or more full rewrites before it is ready for the marketplace. After finishing a script draft, put it aside for several days or weeks. During that time, give it to several trusted advisors knowledgable in film and writing to get honest, constructive feedback. Then, after revising the draft, find new readers to provide a fresh, objective read. If you use the same readers every time, they, like you, will become enured to the script's strengths and weaknesses.
 
-## <span id="page-97-0"></span>**Make [rejection](#page-4-11) a process.**
+## **Make [rejection](#page-4-11) a process.**
 
 ![](_page_97_Picture_2.jpeg)
 
@@ -951,13 +977,13 @@ Consider all criticisms to be inherently valid; there's usually a kernel of trut
 
 When an agent or studio head sends you a rejection, always respond with a thank you note. This may increase the chances that their "no" was a starting point, and that they will want to work with you in the future should you deliver a more viable project.
 
-#### <span id="page-98-0"></span>**Who is the [intersection?](#page-4-12)**
+#### **Who is the [intersection?](#page-4-12)**
 
 ![](_page_98_Picture_2.jpeg)
 
 A protagonist typically needs to choose between or reconcile two seemingly irreconcilable situations. A *pivotal character* often provides the crucial connection between the two. It can be a mentor, lover, stranger, marginal relation, or other character who straddles the worlds in conflict. When the protagonist's path intersects with that of the pivotal character, usually in Act 2, the pivotal character provides advice that causes the protagonist to reevaluate his or her understanding of the central dilemma, catalyzing the protagonist's eventual catharsis.
 
-# <span id="page-99-0"></span>**[Montage](#page-4-13)**
+# **[Montage](#page-4-13)**
 
 ![](_page_99_Picture_2.jpeg)
 
@@ -965,7 +991,7 @@ Cinematic montage (French for "putting together") is the juxtaposing, colliding,
 
 A montage expresses the passage of time and the development of character by economically showing the change of seasons, progression of a relationship, pursuit of a new skill, or physical transformation. Montage is particularly effective in revealing a protagonist's point of reckoning, in which an epiphany is achieved regarding one's priorities, values, and necessary course of action.
 
-#### <span id="page-100-0"></span>**[Different](#page-4-14) lenses tell different stories.**
+#### **[Different](#page-4-14) lenses tell different stories.**
 
 ![](_page_100_Picture_2.jpeg)
 
@@ -975,7 +1001,7 @@ Telephoto and wide angle lenses produce obviously different effects: telephotos 
 
 These lenses also have specific effects on movement along the camera's axis of vision. Wide angle lenses tend to exaggerate or accelerate movement to and away from the camera, while a telephoto retards it. For example, an actor moving from the far side of a room toward the camera will appear to move very quickly or abruptly when filmed through a wide angle lens, while an actor moving toward or away from a telephoto lens will appear to be moving more slowly.
 
-# <span id="page-101-0"></span>**The plotlines of [ensemble](#page-4-15) movies share a single theme.**
+# **The plotlines of [ensemble](#page-4-15) movies share a single theme.**
 
 ![](_page_101_Picture_2.jpeg)
 
@@ -983,7 +1009,7 @@ Ensemble films feature multiple protagonists with separate plotlines, goals, and
 
 One of the protagonists should be somewhat dominant over the others to give the film a center and a point of view. The dominant protagonist is usually the one first encountered in the film, and who gives the film its final punctuation mark.
 
-## <span id="page-102-0"></span>**Make visual motifs [specific.](#page-4-16)**
+## **Make visual motifs [specific.](#page-4-16)**
 
 ![](_page_102_Picture_2.jpeg)
 
@@ -991,7 +1017,7 @@ Motifs are visually evocative elements placed strategically throughout a film to
 
 Themes are broad and universal to human experience, but motifs should be specific to the story and directly relevant to the experiences of the characters.
 
-## <span id="page-103-0"></span>**[Rhythm](#page-4-17) and tempo**
+## **[Rhythm](#page-4-17) and tempo**
 
 ![](_page_103_Picture_2.jpeg)
 
@@ -1003,7 +1029,7 @@ Rhythm and tempo should be coordinated to create a symphony of counterpoints and
 
 playing off each other.
 
-## <span id="page-105-0"></span>**Tell the [story](#page-4-18) in the cut.**
+## **Tell the [story](#page-4-18) in the cut.**
 
 ![](_page_105_Picture_2.jpeg)
 
@@ -1011,7 +1037,7 @@ playing off each other.
 
 Good storytelling is often elliptical or oblique in nature; it doesn't always need to show how a character literally gets from A to B to C.
 
-## <span id="page-106-0"></span>**Augment action scenes with clean [cutaways.](#page-4-19)**
+## **Augment action scenes with clean [cutaways.](#page-4-19)**
 
 ![](_page_106_Picture_2.jpeg)
 
@@ -1023,7 +1049,7 @@ Always shoot extra cutaways during filming, particularly for action scenes, to p
 
 dramatic tension during editing.
 
-# <span id="page-108-0"></span>**The music you hear in your head during filming is [probably](#page-4-20) not the right music for the film.**
+# **The music you hear in your head during filming is [probably](#page-4-20) not the right music for the film.**
 
 ![](_page_108_Picture_2.jpeg)
 
@@ -1031,7 +1057,7 @@ dramatic tension during editing.
 
 If you have a "perfect" song or score in mind while writing a script, prepping, or filming, the moment you match it to the edited footage you are likely to be disappointed. The image and the story want what they want, not what you want.
 
-# <span id="page-109-0"></span>**Burn your [characters'](#page-4-21) bridges.**
+# **Burn your [characters'](#page-4-21) bridges.**
 
 ![](_page_109_Picture_2.jpeg)
 
@@ -1039,13 +1065,13 @@ If you have a "perfect" song or score in mind while writing a script, prepping, 
 
 It's almost always stronger dramatically to prevent your characters from returning comfortably to their ordinary worlds. Limit their options so they remain trapped in the central dilemma, and their only real course is to keep forging into the unknown.
 
-<span id="page-110-0"></span>![](_page_110_Picture_1.jpeg)
+![](_page_110_Picture_1.jpeg)
 
 "I would never write about someone who is not at the end of his rope."
 
 **—STANLEY ELKIN** 
 
-## <span id="page-111-0"></span>**Set the clock [ticking.](#page-4-23)**
+## **Set the clock [ticking.](#page-4-23)**
 
 ![](_page_111_Picture_2.jpeg)
 
@@ -1059,7 +1085,7 @@ Give your protagonist a deadline to achieve his or her goal. The deadline can be
 
 *When Harry Met Sally…***:** It's New Year's Eve and Harry must find Sally and declare his love for her before midnight, or risk losing her forever.
 
-# <span id="page-112-0"></span>**Read it [aloud.](#page-4-24)**
+# **Read it [aloud.](#page-4-24)**
 
 ![](_page_112_Picture_2.jpeg)
 
@@ -1067,7 +1093,7 @@ When editing a script, don't rely solely on the voice in your head. Read the scr
 
 Afterward, ask for feedback. How did the actors feel about their roles? What rang true and what didn't? Did anyone become confused or bored at any point? Could some things have been left out entirely?
 
-## <span id="page-113-0"></span>**Don't cast solely by [looks.](#page-4-25)**
+## **Don't cast solely by [looks.](#page-4-25)**
 
 ![](_page_113_Picture_2.jpeg)
 
@@ -1075,7 +1101,7 @@ Don't assume an auditioner who looks perfect for a role will be perfect. Often t
 
 Don't necessarily reject a candidate because of an initial bad choice in a reading. After all, he or she won't be directing him- or herself in the film. Instead, give direction to the auditioner and gauge his or her adjustments to it. The auditioner's reaction during an audition is *part* of the audition.
 
-#### <span id="page-114-0"></span>**[Rehearsal](#page-4-26) isn't just for the actors.**
+#### **[Rehearsal](#page-4-26) isn't just for the actors.**
 
 ![](_page_114_Picture_2.jpeg)
 
@@ -1083,25 +1109,25 @@ Because a set is usually not available in pre-production, initial rehearsals mus
 
 When the set becomes available, initiate the process of blocking, by determining the precise movements of actors and cameras. Mark the spots each actor needs to hit with a different color tape on the floor. This will keep the actors from stepping out of the frame, landing out of focus, missing the lighting, or falling beyond the range of the microphone. Save the full dress rehearsal for when you are sure everything has been worked out, which is of course the best way to see what has *not* been worked out.
 
-## <span id="page-115-0"></span>**Give actors [something](#page-4-27) to do.**
+## **Give actors [something](#page-4-27) to do.**
 
 ![](_page_115_Picture_2.jpeg)
 
 A director should always give an actor an activity in a scene—ironing clothes, painting toenails, or fixing a carburetor—even if not in the script. The doing should be specific, inform on character, complement or contrast the dialogue, and reveal subtext.
 
-# <span id="page-116-0"></span>**Acting [speaks](#page-4-28) louder than words.**
+# **Acting [speaks](#page-4-28) louder than words.**
 
 ![](_page_116_Picture_2.jpeg)
 
 People are defined more by what they do than say; indeed, our words often belie our true intent and feelings. Contradictions in human behavior can be used to enhance a story: a strong character with receding body language, an "accommodating" person with her arms folded, and a truth teller who blinks a lot can all gently reveal crucial subtext.
 
-# <span id="page-117-0"></span>**If you want to [write,](#page-4-29)** *read***. If you want to make films,** *see* **films.**
+# **If you want to [write,](#page-4-29)** *read***. If you want to make films,** *see* **films.**
 
 ![](_page_117_Picture_2.jpeg)
 
 The best filmmakers are students of film and literature; their films demonstrate an understanding of, and even make a commentary on, those that have come before. They scrupulously research physical settings, the vocations of their characters, the history of world events surrounding an historical plot, the workings of equipment and props used on set, and more.
 
-#### <span id="page-118-0"></span>**Work in the [trenches.](#page-4-30)**
+#### **Work in the [trenches.](#page-4-30)**
 
 ![](_page_118_Picture_2.jpeg)
 
@@ -1117,13 +1143,13 @@ Great filmmakers are not born; they are made through years of research, learning
 
 **Do unglamorous work.** Big breaks can be followed by years of setbacks. Be pragmatic. Some gigs you take to pay the bills, and others to feed your soul. Most fall somewhere in between.
 
-# <span id="page-120-0"></span>**Let it go, [already.](#page-4-31)**
+# **Let it go, [already.](#page-4-31)**
 
 ![](_page_120_Picture_2.jpeg)
 
 Everyone has a script sitting in a drawer that has been waiting for five years for its genius to be recognized. Move on. Genuinely creative people aren't creative once; they constantly come up with new ideas. The masterpiece of a career is rarely the only piece.
 
-# <span id="page-121-0"></span>**Play well with [others.](#page-4-32)**
+# **Play well with [others.](#page-4-32)**
 
 ![](_page_121_Picture_2.jpeg)
 
@@ -1133,7 +1159,7 @@ Everyone has a script sitting in a drawer that has been waiting for five years f
 - If you're awful to someone in reacting to their script or rough cut, you increase the chance they will be awful to you when they read or watch yours.
 - A director should never be afraid to take a suggestion because of a fear of looking weak. Crews respect a director who is open to suggestions, and will work more happily—and harder—for him or her.
 
-#### <span id="page-122-0"></span>**Make it [shorter.](#page-5-0)**
+#### **Make it [shorter.](#page-5-0)**
 
 ![](_page_122_Picture_2.jpeg)
 
@@ -1141,37 +1167,37 @@ No matter how clever or insightful you think a scene, setting, camera angle, or 
 
 Ultimately, everything must serve to advance the plot and inform on character. Words and actions that do not serve these ends, not matter how clever, funny, or insightful, should usually be excised.
 
-<span id="page-123-0"></span>![](_page_123_Picture_1.jpeg)
+![](_page_123_Picture_1.jpeg)
 
 "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away."
 
 **—ANTOINE DE SAINT-EXUPÉRY** 
 
-#### <span id="page-124-0"></span>**Convenient versus inconvenient [coincidences](#page-5-2)**
+#### **Convenient versus inconvenient [coincidences](#page-5-2)**
 
 ![](_page_124_Picture_2.jpeg)
 
 Make your protagonist earn every triumph and piece of information; don't use plot conveniences like eavesdropping or accidental discovery of crucial data to help the protagonist solve his or her dilemma. If you do introduce a coincidence, it will be more acceptable to the audience if it makes the protagonist's quest more difficult rather than easier.
 
-## <span id="page-125-0"></span>**Hang a [lantern.](#page-5-3)**
+## **Hang a [lantern.](#page-5-3)**
 
 ![](_page_125_Picture_2.jpeg)
 
 Resolving a complex story in two hours is difficult; the introduction of plot contrivances may at times seem unavoidable. A way out of this problem is to "hang a lantern"—to have an on-screen character question the same logic an audience is likely to question. When a character is willing to acknowledge the improbable, the audience may be more willing to go along with it.
 
-#### <span id="page-126-0"></span>**Don't overtax an [audience's](#page-5-4) good will.**
+#### **Don't overtax an [audience's](#page-5-4) good will.**
 
 ![](_page_126_Picture_2.jpeg)
 
 Audiences go to movies to be entertained—to laugh, cry, or even be afraid—and will usually accept cheerfully an initial contrivance or extreme coincidence to get a story going. However, their "willing suspension of disbelief" can easily evaporate if they are asked to accept too many contrivances. They will roll their eyes at too much cliché and predictability, groan at excessive coincidences, and heckle when the ingénue goes down to the dark basement to investigate an intruder. When taken out of the moment, an audience will often find that the actor's fame eclipses his or her believability as a character.
 
-#### <span id="page-127-0"></span>*Deus ex [machina](#page-5-5)*
+#### *Deus ex [machina](#page-5-5)*
 
 ![](_page_127_Picture_2.jpeg)
 
 In less successful examples of classical Greek theatre, an intractable problem was sometimes resolved by the appearance of a god via a mechanical armature or other device. *Deus ex machina*—literally, "god from the machine"—has since come to refer to any plot contrivance that miraculously emerges to resolve an intractable dilemma. It invariably disappoints viewers, who prefer to see a character in whom they are invested become empowered to solve his or her own problem.
 
-#### <span id="page-128-0"></span>**The [climax](#page-5-6) is the** *truth***.**
+#### **The [climax](#page-5-6) is the** *truth***.**
 
 ![](_page_128_Picture_2.jpeg)
 
@@ -1181,19 +1207,19 @@ A climax is more than the point of highest action or plot revelation; it is the 
 
 A hero accepts and evolves in the face of the truth, except in a tragedy, where the protagonist's inability to evolve leads to a tragic outcome.
 
-#### <span id="page-129-0"></span>**After the [climax,](#page-5-7) get out fast.**
+#### **After the [climax,](#page-5-7) get out fast.**
 
 ![](_page_129_Picture_2.jpeg)
 
 After the plot reaches its climax, there are few places for a film to go that won't feel superfluous. Resolve the plot and primary subplots satisfyingly, but don't feel obligated to tie up every loose end. Leave the audience wanting more. Often, a *suggestion* of how the characters end up is more powerful than showing exactly how they *do* end up. Nonetheless, when creating an ambiguous ending, have a clear point-of-view with which the viewer may agree or disagree.
 
-#### <span id="page-130-0"></span>**[Catharsis](#page-5-8)**
+#### **[Catharsis](#page-5-8)**
 
 ![](_page_130_Picture_2.jpeg)
 
 Upon the climax and denouement, the characters and audience should undergo *catharsis*, an emotional release that Aristotle defined as "the purging or cleansing of pity and fear." It may also evoke sadness, anger, sorrow, laughter, or other emotional responses; ultimately catharsis serves to restore or re-center one's emotions or understanding. It is virtually impossible for an audience to experience catharsis unless the protagonist faces and releases his or her greatest fear.
 
-## <span id="page-131-0"></span>*You* **are your [protagonist.](#page-5-9)**
+## *You* **are your [protagonist.](#page-5-9)**
 
 ![](_page_131_Picture_2.jpeg)
 

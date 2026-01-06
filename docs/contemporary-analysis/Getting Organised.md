@@ -1,3 +1,8 @@
+---
+title: "## **Getting Organised**"
+category: "contemporary-analysis"
+---
+
 ## **Getting Organised**
 
 ## **Date:** Unknown

@@ -1,11 +1,8 @@
 ---
-title: Jessica Moran To Spread the Revolution Anarchist Archives and Libraries
-date: 2025
-author: Jessica Moran
-tags:
-  - organizing
-  - labor
-  - anarchism
+title: "Jessica Moran To Spread the Revolution Anarchist Archives and Libraries"
+author: "Jessica Moran"
+date: "2025"
+category: "theory"
 ---
 
 # Jessica Moran To Spread the Revolution Anarchist Archives and Libraries

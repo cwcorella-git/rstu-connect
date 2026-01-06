@@ -1,3 +1,8 @@
+---
+title: "**Instant-runoff voting**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Instant-runoff_voting)
 
 # **Instant-runoff voting**
@@ -121,20 +126,103 @@ After conducting a demonstration STV election in 1881, [William](https://en.wiki
 
 ### [\[edit\]](https://en.wikipedia.org/w/index.php?title=Instant-runoff_voting&action=edit§ion=17)
 
-| Country | Body or office | Type of<br>body or<br>office | Electoral<br>system | Total<br>seats |
+| Country | Body or office | Type of
+body or
+office | Electoral
+system | Total
+seats |
 |-----------|-----------------------------|------------------------------------|-----------------------------------------------------------------------------------------|----------------|
-| Australia | House of<br>Representatives | Lower<br>chamber of<br>legislature | Instant-runoff<br>voting | 151 |
-| Ireland | President | Head of<br>State | Instant-runoff<br>voting | |
-| | Dáil Éireann | Lower<br>chamber of<br>legislature | Single<br>transferable<br>vote (STV),<br>by-elections<br>using Instant<br>runoff voting | 174 |
+| Australia | House of
+Representatives | Lower
+chamber of
+legislature | Instant-runoff
+voting | 151 |
+| Ireland | President | Head of
+State | Instant-runoff
+voting | |
+| | Dáil Éireann | Lower
+chamber of
+legislature | Single
+transferable
+vote (STV),
+by-elections
+using Instant
+runoff voting | 174 |
 
-| Papua<br>New<br>Guinea | National<br>Parliament | Unicameral<br>legislature | Instant-runoff<br>voting | 109 |
+| Papua
+New
+Guinea | National
+Parliament | Unicameral
+legislature | Instant-runoff
+voting | 109 |
 |------------------------|-----------------------------------------|------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
-| United<br>States | President (via<br>Electoral<br>College) | Head of<br>State and<br>Government | Alaska and<br>Maine use<br>instant-runoff<br>voting to<br>select the<br>state's<br>electoral<br>college seat<br>winner or<br>winners. In<br>Maine, 2<br>electors are<br>allocated to<br>the winner of<br>the state<br>vote plurality<br>and the<br>others<br>(currently 2)<br>are allocated<br>by plurality in<br>each<br>congressional<br>district. In<br>Alaska, the<br>winner | 7<br>EVs<br>(out of<br>538) |
+| United
+States | President (via
+Electoral
+College) | Head of
+State and
+Government | Alaska and
+Maine use
+instant-runoff
+voting to
+select the
+state's
+electoral
+college seat
+winner or
+winners. In
+Maine, 2
+electors are
+allocated to
+the winner of
+the state
+vote plurality
+and the
+others
+(currently 2)
+are allocated
+by plurality in
+each
+congressional
+district. In
+Alaska, the
+winner | 7
+EVs
+(out of
+538) |
 
-| | | receives all<br>Electoral<br>College<br>electors of<br>the state (as<br>Alaska has<br>only one at<br>large district,<br>the effect is<br>the same). | |
+| | | receives all
+Electoral
+College
+electors of
+the state (as
+Alaska has
+only one at
+large district,
+the effect is
+the same). | |
 |-----------------------------|------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|
-| House of<br>Representatives | Lower<br>chamber of<br>legislature | Instant-runoff<br>voting in<br>Maine<br>Nonpartisan<br>primary<br>system with<br>instant-runoff | 3 (out<br>of 435) |
-| Senate | Upper<br>chamber of<br>legislature | voting in the<br>second round<br>(among top<br>four<br>candidates)<br>in Alaska.[68]<br>[69][70][71] | 4 (out<br>of 100) |
+| House of
+Representatives | Lower
+chamber of
+legislature | Instant-runoff
+voting in
+Maine
+Nonpartisan
+primary
+system with
+instant-runoff | 3 (out
+of 435) |
+| Senate | Upper
+chamber of
+legislature | voting in the
+second round
+(among top
+four
+candidates)
+in Alaska.[68]
+[69][70][71] | 4 (out
+of 100) |
 
 #### **Robert's Rules of Order**
 
@@ -291,7 +379,15 @@ Suppose that [Tennessee](https://en.wikipedia.org/wiki/Tennessee) is holding an 
 
 The preferences of each region's voters are:
 
-| 42% of<br>voters<br>Far-West | 26% of<br>voters<br>Center | 15% of<br>voters<br>Center-East | 17% of<br>voters<br>Far-East |
+| 42% of
+voters
+Far-West | 26% of
+voters
+Center | 15% of
+voters
+Center-East | 17% of
+voters
+Far-East |
 |------------------------------|----------------------------|---------------------------------|------------------------------|
 | 1. Memphis | 1. Nashville | 1. Chattanooga | 1. Knoxville |
 | 2. Nashville | 2. Chattanooga | 2. Knoxville | 2. Chattanooga |
@@ -302,7 +398,8 @@ It takes three rounds to determine a winner in this election.
 
 **Round 1** – In the first round no city receives a majority:
 
-| Votes in round/<br>City Choice | 1st |
+| Votes in round/
+City Choice | 1st |
 |--------------------------------|-----|
 | Memphis | 42% |
 | Nashville | 26% |
@@ -317,7 +414,8 @@ If one of the cities had achieved a majority vote (more than half), the election
 
 **Round 2** – In the second round of tabulation, Chattanooga's 15% of the total votes have been added to the second choices selected by the voters for whom that city was first-choice (in this example Knoxville):
 
-| Votes in round/<br>City Choice | 1st | 2nd |
+| Votes in round/
+City Choice | 1st | 2nd |
 |--------------------------------|-----|-----|
 | Memphis | 42% | 42% |
 | Nashville | 26% | 26% |
@@ -334,7 +432,8 @@ In the first round, Memphis was first, Nashville was second and Knoxville was th
 
 As Memphis and Knoxville are the only two cities remaining in the contest, this round will be the final round. In this example the second-choice of the Nashville voters is Chattanooga, which is already eliminated. Therefore, the votes are added to their third-choice: Knoxville. The third round of tabulation yields the following result:
 
-| Votes in round/<br>City Choice | 1st | 2nd | 3rd |
+| Votes in round/
+City Choice | 1st | 2nd | 3rd |
 |--------------------------------|-----|-----|-----|
 | Memphis | 42% | 42% | 42% |
 | Nashville | 26% | 26% | |
@@ -358,7 +457,8 @@ Irish presidential election, 199[0\[89\]](#page-47-0)
 | Mary Robinson | 612,265 | 38.9% | 817,830 | 51.6% |
 | Brian Lenihan | 694,484 | 43.8% | 731,273 | 46.2% |
 | Austin Currie | 267,902 | 16.9% | Eliminated | |
-| Exhausted<br>ballots | 9,444 | 0.6% | 34,992 | 2.2% |
+| Exhausted
+ballots | 9,444 | 0.6% | 34,992 | 2.2% |
 ## | Total | 1,584,095 | 100% | 1,584,095 | 100% |
 
 # **2014 Prahran election (Victoria)**
@@ -369,17 +469,27 @@ Another real-life example of instant-runoff voting producing results different f
 
 | Candidate | | 1st | 2nd | 3rd | 4th |
 |---------------------------------|-------|--------|--------|------------|------------|
-| Clem Newton<br>Brown (LIB) | 44.8% | 16,582 | 16,592 | 16,644 | 16,726 |
-| Neil Pharaoh<br>(ALP) | 25.9% | 9,586 | 9,593 | 9,639 | 9,690 |
-| Sam Hibbins<br>(GRN) | 24.8% | 9,160 | 9,171 | 9,218 | 9,310 |
-| Eleonora<br>Gullone (AJP) | 2.3% | 837 | 860 | 891 | 928 |
-| Alan Walker<br>(FFP) | 0.8% | 282 | 283 | 295 | Eliminated |
-| Jason<br>Goldsmith<br>(IND) | 0.7% | 247 | 263 | 316 | 349 |
-| Steve<br>Stefanopoulos<br>(IND) | 0.6% | 227 | 241 | Eliminated | |
+| Clem Newton
+Brown (LIB) | 44.8% | 16,582 | 16,592 | 16,644 | 16,726 |
+| Neil Pharaoh
+(ALP) | 25.9% | 9,586 | 9,593 | 9,639 | 9,690 |
+| Sam Hibbins
+(GRN) | 24.8% | 9,160 | 9,171 | 9,218 | 9,310 |
+| Eleonora
+Gullone (AJP) | 2.3% | 837 | 860 | 891 | 928 |
+| Alan Walker
+(FFP) | 0.8% | 282 | 283 | 295 | Eliminated |
+| Jason
+Goldsmith
+(IND) | 0.7% | 247 | 263 | 316 | 349 |
+| Steve
+Stefanopoulos
+(IND) | 0.6% | 227 | 241 | Eliminated | |
 
 | Candidate | | 1st | 2nd | 3rd | 4th |
 |-----------------------|------|--------|------------|-----|-----|
-| Alan Menadue<br>(IND) | 0.2% | 82 | Eliminated | | |
+| Alan Menadue
+(IND) | 0.2% | 82 | Eliminated | | |
 ## | Total | 100% | 37,003 | | | |
 
 # **2009 Burlington mayoral election**
@@ -420,7 +530,7 @@ Several [electoral reform](https://en.wikipedia.org/wiki/Electoral_reform) advoc
 - 2. ^ Aubin, Jean-Baptiste; Gannaz, Irène; Leoni-Aubin, Samuela; Rolland, Antoine (July 2024). [A simulation-based study of](https://hal.science/hal-04631154/) [proximity between voting rules](https://hal.science/hal-04631154/).
 - 3. ^ Hyman, Ross; Otis, Deb; Allen, Seamus; Dennis, Greg (1 September 2024). ["A majority rule philosophy for instant runoff](https://link.springer.com/article/10.1007/s10602-024-09442-3) [voting"](https://link.springer.com/article/10.1007/s10602-024-09442-3). Constitutional Political Economy. **35** (3): 425–436. [ar Xiv](https://en.wikipedia.org/wiki/Ar Xiv_(identifier))[:2308.08430](https://arxiv.org/abs/2308.08430). [doi](https://en.wikipedia.org/wiki/Doi_(identifier))[:10.1007/s10602-024-09442-3](https://doi.org/10.1007%2Fs10602-024-09442-3). [ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier)) [1572-9966](https://search.worldcat.org/issn/1572-9966).
 - 4. ^ Gladyshev, Vulnerability of Voting Paradoxes. [https://](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3471868) [papers.ssrn.com/sol3/papers.cfm?abstract\\_id=3471868](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3471868)
-- 5. ^ Condorcet, Jean-Antoine-Nicolas de Caritat (1788). ["On the](https://books.google.com/books?id=d0cwAAAAYAAJ&q=Oeuvres%20de%20Condorcet,%20Volume%2013&pg=PA243) [Constitution and the Functions of Provincial Assemblies"](https://books.google.com/books?id=d0cwAAAAYAAJ&q=Oeuvres%20de%20Condorcet,%20Volume%2013&pg=PA243). Complete Works of Condorcet (in French). Vol. 13 (published 1804). p. 243. "En effet, lorsqu'il y a plus de trois concurrents, le véritable vœu de la pluralité peut être pour un candidat qui <sup>n</sup>'ait eu aucune des voix dans le premier scrutin."
+- 5. ^ Condorcet, Jean-Antoine-Nicolas de Caritat (1788). ["On the](https://books.google.com/books?id=d0cwAAAAYAAJ&q=Oeuvres%20de%20Condorcet,%20Volume%2013&pg=PA243) [Constitution and the Functions of Provincial Assemblies"](https://books.google.com/books?id=d0cwAAAAYAAJ&q=Oeuvres%20de%20Condorcet,%20Volume%2013&pg=PA243). Complete Works of Condorcet (in French). Vol. 13 (published 1804). p. 243. "En effet, lorsqu'il y a plus de trois concurrents, le véritable vœu de la pluralité peut être pour un candidat qui n'ait eu aucune des voix dans le premier scrutin."
 - 6. ^ Nanson, E. J. (1882). ["Methods of election: Ware's Method"](https://archive.org/details/transactionsproc1719roya/page/206). Transactions and Proceedings of the Royal Society of Victoria. **17**: 206. "The method was, however, mentioned by Condorcet, but only to be condemned."
 
 - 7. ^ Campbell, D. E.; Kelly, J. S. (2000). "A simple characterization of majority rule". [Economic Theory](https://en.wikipedia.org/wiki/Economic_Theory_(journal)). **15** (3): 689–700. [doi](https://en.wikipedia.org/wiki/Doi_(identifier))[:10.1007/s001990050318](https://doi.org/10.1007%2Fs001990050318). [JSTOR](https://en.wikipedia.org/wiki/JSTOR_(identifier)) [25055296](https://www.jstor.org/stable/25055296). [S2CID](https://en.wikipedia.org/wiki/S2CID_(identifier)) [122290254](https://api.semanticscholar.org/CorpusID:122290254).
@@ -490,7 +600,7 @@ Several [electoral reform](https://en.wikipedia.org/wiki/Electoral_reform) advoc
 - 60. ^ ["South Carolina General Assembly](http://www.scstatehouse.gov/sess116_2005-2006/bills/3720.doc) : 116th Session, 2005– [2006"](http://www.scstatehouse.gov/sess116_2005-2006/bills/3720.doc). Scstatehouse.gov. Retrieved 1 March 2015.
 - 61. ^ ["Bill Information"](http://www.arkleg.state.ar.us/assembly/2005/R/Pages/Bill Information.aspx?measureno=HB1770). Arkleg.state.ar.us. Retrieved 28 January 2015.
 - 62. ^ Nanson, E. J. (1882). ["Methods of election: Ware's Method"](https://archive.org/details/transactionsproc1719roya/page/206). Transactions and Proceedings of the Royal Society of Victoria. **17**: 206. "The method was, however, mentioned by Condorcet, but only to be condemned."
-- 63. ^ Condorcet, Jean-Antoine-Nicolas de Caritat (1788). ["On the](https://books.google.com/books?id=d0cwAAAAYAAJ&q=Oeuvres%20de%20Condorcet,%20Volume%2013&pg=PA243) [Constitution and the Functions of Provincial Assemblies"](https://books.google.com/books?id=d0cwAAAAYAAJ&q=Oeuvres%20de%20Condorcet,%20Volume%2013&pg=PA243). Complete Works of Condorcet (in French). Vol. 13 (published 1804). p. 243. "En effet, lorsqu'il y a plus de trois concurrents, le véritable vœu de la pluralité peut être pour un candidat qui <sup>n</sup>'ait eu aucune des voix dans le premier scrutin."
+- 63. ^ Condorcet, Jean-Antoine-Nicolas de Caritat (1788). ["On the](https://books.google.com/books?id=d0cwAAAAYAAJ&q=Oeuvres%20de%20Condorcet,%20Volume%2013&pg=PA243) [Constitution and the Functions of Provincial Assemblies"](https://books.google.com/books?id=d0cwAAAAYAAJ&q=Oeuvres%20de%20Condorcet,%20Volume%2013&pg=PA243). Complete Works of Condorcet (in French). Vol. 13 (published 1804). p. 243. "En effet, lorsqu'il y a plus de trois concurrents, le véritable vœu de la pluralité peut être pour un candidat qui n'ait eu aucune des voix dans le premier scrutin."
 - 64. ^ Droop, H. R. (1881). ["On Methods of Electing](http://www.jstor.org/stable/2339223) [Representatives"](http://www.jstor.org/stable/2339223). Journal of the Statistical Society of London. **44** (2). [Royal Statistical Society, Oxford University Press]: 141– 202. [ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier)) [0959-5341](https://search.worldcat.org/issn/0959-5341). [JSTOR](https://en.wikipedia.org/wiki/JSTOR_(identifier)) [2339223](https://www.jstor.org/stable/2339223). Retrieved 1 March 2025.
 - 65. ^ ["The History of IRV"](http://archive.fairvote.org/irv/vt_lite/history.htm). Fair Vote archives. Retrieved 19 June 2019.
 - 66. [^](about:reader?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FInstant-runoff_voting#cite_ref-fn_22_68-0) The [Ceann Comhairle](https://en.wikipedia.org/wiki/Ceann_Comhairle) or Speaker of [Dáil Éireann](https://en.wikipedia.org/wiki/D%C3%A1il_%C3%89ireann) is returned automatically for whichever constituency s/he was elected if they wish to seek re-election, reducing the number of seats contested in that constituency by one. (In that case, should the Ceann Comhairle be from a three-seater, only two seats are contested in the general election from there.) As a result, if the Ceann Comhairle wishes to be in the next Dáil, only 165 seats are actually contested in a general election.

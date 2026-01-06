@@ -1,3 +1,8 @@
+---
+title: "## **French Women Insurgents**"
+category: "feminist-theory"
+---
+
 ## **French Women Insurgents**
 
 ## **Date:** Unknown

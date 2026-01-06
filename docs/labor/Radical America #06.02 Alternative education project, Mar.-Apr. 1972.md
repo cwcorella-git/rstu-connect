@@ -1,3 +1,8 @@
+---
+title: "## **Radical America #06.02: Alternative education project, Mar.-Apr. 1972**"
+category: "labor"
+---
+
 ## **Radical America #06.02: Alternative education project, Mar.-Apr. 1972**
 
 ## **Date:** Unknown

@@ -1,3 +1,8 @@
+---
+title: "## **Review: Can neuroscience change our minds? - Hilary and Steven Rose**"
+category: "contemporary-analysis"
+---
+
 ## **Review: Can neuroscience change our minds? - Hilary and Steven Rose**
 
 ## **Date:** Unknown

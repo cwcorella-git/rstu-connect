@@ -1,3 +1,8 @@
+---
+title: "## **Restoring the Heartland and Rustbelt through Clean Energy Democracy: an Organizing Proposal**"
+category: "environmental-justice"
+---
+
 ## **Restoring the Heartland and Rustbelt through Clean Energy Democracy: an Organizing Proposal**
 
 ## **Date:** Sat, 04/29/2017 - 17:27

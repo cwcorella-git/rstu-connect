@@ -1,3 +1,8 @@
+---
+title: "**Roman consul**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Roman_consul)
 
 # **Roman consul**

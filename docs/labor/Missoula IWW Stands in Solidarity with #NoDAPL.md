@@ -1,3 +1,8 @@
+---
+title: "## **Missoula IWW Stands in Solidarity with #NoDAPL**"
+category: "labor"
+---
+
 ## **Missoula IWW Stands in Solidarity with #NoDAPL**
 
 ## **Date:** Tue, 09/06/2016 - 22:53

@@ -1,3 +1,8 @@
+---
+title: "**妇女与社会颠覆 (Women and Social Subversion)**"
+category: "feminist-theory"
+---
+
 # **妇女与社会颠覆 (Women and Social Subversion)**
 
 ## **Author:** Mariarosa Dalla Costa

@@ -1,3 +1,8 @@
+---
+title: "Contents"
+category: "contemporary-analysis"
+---
+
 ## **The Revolution of Everyday Life**
 
 ## Raoul Vaneigem
@@ -86,11 +91,15 @@
 | 1 | . 104 |
 ## | 2 | . 107 |
 
-| Chapter 24. The Interworld And The New Innocence<br> | 108 |
+| Chapter 24. The Interworld And The New Innocence
+ | 108 |
 |----------------------------------------------------------------|-----|
-| 1<br> | 108 |
-| 2<br> | 109 |
-| Chapter 25. You're Fucking Around With Us? — Not For Long!<br> | 110 |
+| 1
+ | 108 |
+| 2
+ | 109 |
+| Chapter 25. You're Fucking Around With Us? — Not For Long!
+ | 110 |
 
 #### *Dedication*
 
@@ -394,7 +403,7 @@ Most of the proletariat at the beginning of the nineteenth century had been phys
 
 Statistics published in 1938 indicated that the use of the most modern technology then available would reduce necessary working time to three hours a day. Not only are we a long way off with our seven hours, but after wearing out generations of workers by promising them the happiness which is sold today on the installment plan, the bourgeoisie (and its Soviet equivalent) pursue man's destruction outside the workshop. Tomorrow they will deck out their five hours of necessary wear and tear with a time of 'creativity' which will grow just as fast as they can fill it with the impossibility of creating anything (the famous 'leisure explosion').
 
-It has been quite correctly written: &quot China faces gigantic economic problems; for her, productivity is a matter of life and death." Nobody would dream of denying it. What seems important to me is not the economic imperatives, but the manner of responding to them. The Red Army in 1917 was a new kind of organization. The Red Army in 1960 is an army such as is found in capitalist countries. Circumstances have shown that its effectiveness has been far below the potential of a revolutionary militia. In the same way, the planned Chinese economy, by refusing to allow federated groups to organize their work autonomously, condemns itself to become another example of the perfected form of capitalism called socialism. Has anyone bothered to study the modes of work of primitive peoples, the importance of play and creativity, the incredible yield obtained by methods which the application of modern technology would make a hundred times more efficient? Obviously not. Every appeal for productivity comes from above. But only creativity is spontaneously rich. It is not from 'productivity' that a full life is to be expected, it is not 'productivity' that will produce an enthusiastic collective response to economic needs. But what can we say when we know how the cult of work is honoured from Cuba to China, and how well the virtuous pages of Guizot would sound in a May Day speech?
+It has been quite correctly written: " China faces gigantic economic problems; for her, productivity is a matter of life and death." Nobody would dream of denying it. What seems important to me is not the economic imperatives, but the manner of responding to them. The Red Army in 1917 was a new kind of organization. The Red Army in 1960 is an army such as is found in capitalist countries. Circumstances have shown that its effectiveness has been far below the potential of a revolutionary militia. In the same way, the planned Chinese economy, by refusing to allow federated groups to organize their work autonomously, condemns itself to become another example of the perfected form of capitalism called socialism. Has anyone bothered to study the modes of work of primitive peoples, the importance of play and creativity, the incredible yield obtained by methods which the application of modern technology would make a hundred times more efficient? Obviously not. Every appeal for productivity comes from above. But only creativity is spontaneously rich. It is not from 'productivity' that a full life is to be expected, it is not 'productivity' that will produce an enthusiastic collective response to economic needs. But what can we say when we know how the cult of work is honoured from Cuba to China, and how well the virtuous pages of Guizot would sound in a May Day speech?
 
 To the extent that automation and cybernetics foreshadow the massive replacement of workers by mechanical slaves, forced labour is revealed as belonging purely to the barbaric practices needed to maintain order. Thus power manufactures the dose of fatigue necessary for the passive assimilation of its televised diktats. What carrot is worth working for, after this? The game is up; there is nothing to lose anymore, not even an illusion. The organization of work and the organization of leisure are the blades of the castrating shears whose job is to improve the race of fawning dogs. One day, will we see strikers, demanding automation and a ten-hour week, choosing, instead of picketing, to make love in the factories, the offices and the culture centres? Only the planners, the managers, the union bosses and the sociologists would be surprised and worried. Not without reason; after all, their skin is at stake.
 
@@ -410,7 +419,7 @@ The consciousness of our time oscillates between that of the walled-up man and t
 
 The man who is walled up alive has nothing to lose; the prisoner still has hope. Hope is the leash of submission. When power's boiler is in danger of exploding, it uses its safety-valve to lower the pressure. It seems to change; in fact it only adapts itself and resolves its difficulties.
 
-There is no authority which does not see, rising against it, an authority which is similar but which passes for its opposite. But nothing is more dangerous for the principle of hierarchical government than the merciless confrontation of two powers driven by a rage for total annihilation. In such a conflict, the tidal wave of fanaticism carries away the most stable values; no-mans-land eats up the whole map, establishing everywhere the inter-regnum of &quotnothing is true. everything is permitted". History, however, offers not one example of a titanic conflict which has not opportunely defused and turned into a comic-opera battle. What is the source of this decompression? The agreement on matters of principle which is implicitly reached by the warring powers.
+There is no authority which does not see, rising against it, an authority which is similar but which passes for its opposite. But nothing is more dangerous for the principle of hierarchical government than the merciless confrontation of two powers driven by a rage for total annihilation. In such a conflict, the tidal wave of fanaticism carries away the most stable values; no-mans-land eats up the whole map, establishing everywhere the inter-regnum of "nothing is true. everything is permitted". History, however, offers not one example of a titanic conflict which has not opportunely defused and turned into a comic-opera battle. What is the source of this decompression? The agreement on matters of principle which is implicitly reached by the warring powers.
 
 The hierarchical principle remains common to the fanatics of both sides: opposite the capitalism of Lloyd George and Krupp appears the anticapitalism of Lenin and Trotsky. From the mirrors of the masters of the present the masters of the future are already smiling back. Heinrich Heine writes:
 
@@ -426,7 +435,7 @@ The professional revolutionary measures the state of his forces in quantitative 
 
 Never, and for good reason, has an absolute confrontation been carried through. So far the last fight has only had false starts. Everything must be resumed from scratch. History's only justification is to help us do it.
 
-Under the process of decompression, antagonists who seemed irreconcilable at first sight grow old together, become frozen in purely formal opposition, lose their substance, neutralize and moulder into each other. Who would recognize the Bolshevik with his knife between his teeth in the Gagarinism of doting Moscow? Today, by the grace of the Ïcumenical miracle, the slogan &quot Workers of the World, unite" celebrates the union of the world's bosses. A touching scene. The common element in the antagonism, the seed of power, which a radical struggle would have rooted out, has grown up to reconcile the estranged brothers.
+Under the process of decompression, antagonists who seemed irreconcilable at first sight grow old together, become frozen in purely formal opposition, lose their substance, neutralize and moulder into each other. Who would recognize the Bolshevik with his knife between his teeth in the Gagarinism of doting Moscow? Today, by the grace of the Ïcumenical miracle, the slogan " Workers of the World, unite" celebrates the union of the world's bosses. A touching scene. The common element in the antagonism, the seed of power, which a radical struggle would have rooted out, has grown up to reconcile the estranged brothers.
 
 Is it as simple as this? Of course not; the farce would lose its entertainment value. On the international stage, those two old hams, capitalism and anticapitalism, carry on their lovers' banter. How the spectators tremble when they begin to quarrel, how they stamp with glee when peace blesses the loving couple! Is interest flagging? A brick is added to the Berlin wall; the bloodthirsty Mao gnashes his paper teeth, while in the background a choir of little Chinese nitwits sings paeons to fatherland, family and work. Patched up like this, the old melodrama is ready to hit the road. The ideological spectacle keeps up with the times by bringing out harmless plastic antagonisms; are you for or against Brigitte Bardot, the Beatles, mini-cars, hippies, nationalization, spaghetti, old people, the TUC, mini-skirts, pop art, thermonuclear war, hitch-hiking? There is no one who is not accosted at every moment of the day by posters, news flashes, stereotypes, summoned to take sides over each of the prefabricated trifles that conscientiously stop up all the sources of everyday creativity. In the hands of power these particles of antagonism are moulded into a magnetic ring whose function is to make everybody lose their bearings, to pull everyone out of himself and to scramble lines of force.
 

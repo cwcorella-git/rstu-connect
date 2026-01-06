@@ -1,27 +1,37 @@
+---
+title: "## **If it's jobs they want, Labour and the unions must back renewables, not Hinkley C!**"
+category: "environmental-justice"
+---
+
 ## **If it's jobs they want, Labour and the unions must back renewables, not Hinkley C!**
 
 | Date: Tue, 08/30/2016 - 18:53 |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Source: https://ecology.iww.org/node/1767|
-| Tags: nuclear power, nuclear power workers, green unionism, renewable energy, renewable energy<br>workers, labor and environment, trade unions, green jobs, just transition |
+| Tags: nuclear power, nuclear power workers, green unionism, renewable energy, renewable energy
+workers, labor and environment, trade unions, green jobs, just transition |
 | By Ian Fairlie - |
 | The Ecologist |
 | , August 30, 2016 |
-| On July 28, the Prime Minister's Office announced a delay until the autumn to allow a review<br>to take place re the nuclear power station at Hinkley Point C proposed by the previous<br>Government. |
+| On July 28, the Prime Minister's Office announced a delay until the autumn to allow a review
+to take place re the nuclear power station at Hinkley Point C proposed by the previous
+Government. |
 | Since then, press criticisms of the mooted Hinkley C have continued unabated led by flagship |
 | editorials from the FT |
 | and |
 | The Economist |
 ## | |
 
-| These echo widespread concerns by the National Audit Office (NAO) in its recent preliminary<br>report - |
+| These echo widespread concerns by the National Audit Office (NAO) in its recent preliminary
+report - |
 |--------------------------------------------------------------------------------------------------------------|
 | Nuclear Power in the UK |
 | |
 | A detailed reading reveals serious question marks about the proposed project. According to |
 | The Times |
 | of July 31 |
-| , the NAO will publish another damning report on Hinkley as soon as the Government has<br>made its decision. |
+| , the NAO will publish another damning report on Hinkley as soon as the Government has
+made its decision. |
 | It would be infinitely preferable for the NAO's considerations to be made available to the |
 
 This is not a minor matter: the Government is understood to have ready a draft Investor Agreement - essentially an irrevocable contract for electricity from Hinkley C for 35 years at a cost of £29.7 billion to British energy consumers, as estimated in the above NAO report. This is a discounted sum: economists consider an undiscounted sum of about £37 billion should really be applied. Whichever figure is used, this is an unconscionable sum.

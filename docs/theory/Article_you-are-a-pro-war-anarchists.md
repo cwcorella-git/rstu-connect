@@ -1,13 +1,8 @@
 ---
-title: You Are a Pro War Anarchists
-date: 2025
-author: Unknown
-tags:
-  - organizing
-  - unions
-  - rent
-  - prisons
-  - anarchism
+title: "You Are a Pro War Anarchists"
+author: "Unknown"
+date: "2025"
+category: "theory"
 ---
 
 # You Are a Pro War Anarchists

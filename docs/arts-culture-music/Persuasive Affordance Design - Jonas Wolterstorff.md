@@ -1,3 +1,8 @@
+---
+title: "TABLE 1: COMMON PSYCHOLOGICAL FACTORS LINKED TO GAMES (HA-"
+category: "arts-culture-music"
+---
+
 ## Persuasive Affordance Design in "Mindful Meerkats"
 
 An interdisciplinary exploration of a smartphone game as a potential instrument for behavioural change towards happiness-inducing lifestyles
@@ -77,17 +82,26 @@ Grounding the argumentation on these schools of thought, this work argues that a
 | in turn have considerable impacts with regards to many of Sus |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | tainable Development's core issues such as Climate Change, |
-| economic, ecological and<br>financial crises. |
+| economic, ecological and
+financial crises. |
 | With an approach that focuses on personal well-being, playful |
-| ness and intrinsic motivation, individuals shall be excited for an in-game<br>narrative that incentivises them to fulfil real-life challenges that will kick off<br>positive, beneficial feedback. |
-| – Thesis for Master<br>– Sustainable<br>Wolterstorff<br>of Science<br>Development/Utrecht University |
+| ness and intrinsic motivation, individuals shall be excited for an in-game
+narrative that incentivises them to fulfil real-life challenges that will kick off
+positive, beneficial feedback. |
+| – Thesis for Master
+– Sustainable
+Wolterstorff
+of Science
+Development/Utrecht University |
 | ~III~ |
-| A Smartphone Game as an instrument for behavioural change towards<br>sustainable lifestyless Outline |
+| A Smartphone Game as an instrument for behavioural change towards
+sustainable lifestyless Outline |
 | 1 |
 | INTRODUCTION |
 | 1 |
 | 2 |
-| METHODOLOGY<br>7 |
+| METHODOLOGY
+7 |
 | 3 |
 | CONCEPTS & THEORIES |
 ## | 15 |
@@ -97,7 +111,8 @@ Grounding the argumentation on these schools of thought, this work argues that a
 | 5 |
 | MOTIVATIONAL AFFORDANCES: COMPILING LESSONS FROM CASE STUDIES 46 |
 | 6 |
-| DESIGN & APPLICATION – APPLYING<br>LESSONS |
+| DESIGN & APPLICATION – APPLYING
+LESSONS |
 | 7 |
 | CONCLUSION |
 | |
@@ -155,17 +170,21 @@ Grounding the argumentation on these schools of thought, this work argues that a
 | Literature bodies 9 |
 ## | 2.2 |
 
-| Writing conduct: The Scientific<br>Iteration Method<br>10 |
+| Writing conduct: The Scientific
+Iteration Method
+10 |
 |-------------------------------------------------------------------------------------------|
 | 2.3 |
-| –<br>Mental Model |
+| –
+Mental Model |
 | Assumed |
 | 11 |
 | 3 |
 | CONCEPTS & THEORIES |
 | 15 |
 | 3.1 |
-| Persuasive Technology & Motivational Psychology: How does Behavioural<br>Change occur? 15 |
+| Persuasive Technology & Motivational Psychology: How does Behavioural
+Change occur? 15 |
 | 3.1.1 |
 | Action/Behaviour/Habit |
 | 16 |
@@ -173,7 +192,8 @@ Grounding the argumentation on these schools of thought, this work argues that a
 | Motivation and other Psychological States |
 | 23 |
 | 3.2 |
-| Conceptual Synthesis: An extended Behavioural Chain<br>25 |
+| Conceptual Synthesis: An extended Behavioural Chain
+25 |
 ## | |
 
 ## 3.2.1
@@ -198,33 +218,52 @@ Grounding the argumentation on these schools of thought, this work argues that a
 
 | Data Collection and Feedback towards Mindfulness |
 |-------------------------------------------------------------------------------------------|
-| 40<br>4.3.4 |
-| Lookout Master Board and Best Burrow Board<br>44 |
+| 40
+4.3.4 |
+| Lookout Master Board and Best Burrow Board
+44 |
 | 4.3.5 |
-| Other Motivational Affordances in Mindful Meerkats to examine in Further<br>Research 45 |
+| Other Motivational Affordances in Mindful Meerkats to examine in Further
+Research 45 |
 | 5 |
-| MOTIVATIONAL AFFORDANCES: COMPILING LESSONS FROM<br>CASE STUDIES 46 |
+| MOTIVATIONAL AFFORDANCES: COMPILING LESSONS FROM
+CASE STUDIES 46 |
 | 5.1 |
-| – Finding Research to Scrutinise Meeka as Motivational<br>Virtual Agents<br>Affordance 46 |
+| – Finding Research to Scrutinise Meeka as Motivational
+Virtual Agents
+Affordance 46 |
 | 5.1.1 |
-| Analysis: Virtual Agent<br>47 |
+| Analysis: Virtual Agent
+47 |
 | 5.1.2 |
-| Effectiveness for Behavioural Change: Studies of Cases of Virtual Agents<br>53 |
+| Effectiveness for Behavioural Change: Studies of Cases of Virtual Agents
+53 |
 ## | 5.1.3 |
 
 | 5.2 |
 |--------------------------------------------------------------------------------------------------------------------------|
-| – Finding Research to Scrutinise Meekas & Meecats in<br>An Online Society<br>Online Clans as Motivational Affordance<br> |
+| – Finding Research to Scrutinise Meekas & Meecats in
+An Online Society
+Online Clans as Motivational Affordance
+ |
 | 57 |
 | 5.2.1 |
-| Analysis: Online<br>Communities<br>57 |
+| Analysis: Online
+Communities
+57 |
 | 5.2.2 |
-| Effectiveness for Behavioural Change<br>59 |
+| Effectiveness for Behavioural Change
+59 |
 | 5.2.3 |
-| Applying Lessons from Psychology and Human-Computer-Interaction to<br>Decipher Online Networks &<br>Communities<br>73 |
+| Applying Lessons from Psychology and Human-Computer-Interaction to
+Decipher Online Networks &
+Communities
+73 |
 | 5.3 |
-| Diary Elements and Personal Tracking – Finding Research to Scrutinise<br>Feedback as Motivational Affordance |
-| <br>75 |
+| Diary Elements and Personal Tracking – Finding Research to Scrutinise
+Feedback as Motivational Affordance |
+| 
+75 |
 
 Applying Lessons from Psychology and Human-Computer-Interaction to
 
@@ -236,16 +275,24 @@ Applying Lessons from Psychology and Human-Computer-Interaction to
 |-------------------------------------------------------------------------------------------------------------------------------|
 | Data 75 |
 | 5.3.2 |
-| Effectiveness for Behavioural Change: Quantified Self Case Studies<br>80 |
+| Effectiveness for Behavioural Change: Quantified Self Case Studies
+80 |
 | 5.4 |
-| – Finding Research to Scrutinise Lookout Master Board<br>Visualised Ranking<br>& Best Burrow Board as Motivational Affordance |
-| <br>84 |
+| – Finding Research to Scrutinise Lookout Master Board
+Visualised Ranking
+& Best Burrow Board as Motivational Affordance |
+| 
+84 |
 | 5.4.1 |
-| Analysis:<br>Leaderboards<br>84 |
+| Analysis:
+Leaderboards
+84 |
 | 5.4.2 |
-| Effectiveness for Behavioural Change: An exemplary Leaderboard Case<br>Study 86 |
+| Effectiveness for Behavioural Change: An exemplary Leaderboard Case
+Study 86 |
 | 5.4.3 |
-| Leaderboards As Persuasive Affordance<br>87 |
+| Leaderboards As Persuasive Affordance
+87 |
 ## | |
 
 ## 5.5
@@ -254,17 +301,24 @@ Applying Lessons from Psychology and Human-Computer-Interaction to
 |-------------------------------------------------------------------|
 | Insights 88 |
 | 6 |
-| – APPLYING<br>DESIGN & APPLICATION<br>LESSONS 91 |
+| – APPLYING
+DESIGN & APPLICATION
+LESSONS 91 |
 | 6.1 |
-| Insights for Mindful Meerkats from Motivational Affordances<br>91 |
+| Insights for Mindful Meerkats from Motivational Affordances
+91 |
 | 6.1.1 |
-| Meeka as Virtual Agent<br>91 |
+| Meeka as Virtual Agent
+91 |
 | 6.1.2 |
-| Mindful Meerkats as Online Community & Network<br>99 |
+| Mindful Meerkats as Online Community & Network
+99 |
 | 6.1.3 |
-| Quantified Self & Quantified Environment for Mindfulness<br>102 |
+| Quantified Self & Quantified Environment for Mindfulness
+102 |
 | 6.1.4 |
-| Lookout Master and Best Burrow as Leaderboards<br>103 |
+| Lookout Master and Best Burrow as Leaderboards
+103 |
 ## | |
 
 ## 6.2
@@ -273,17 +327,20 @@ Applying Lessons from Psychology and Human-Computer-Interaction to
 |--------------------------------------------------------------------------------------------------------------------|
 | Meerkats 104 |
 | 7 |
-| CONCLUSION<br>10 |
+| CONCLUSION
+10 |
 | 5 |
 | 7.1 |
 | Design |
 | Insights |
 | 105 |
 | 7.2 |
-| Justification, Falsification, Deduction – Assumptions meet Research<br>106 |
+| Justification, Falsification, Deduction – Assumptions meet Research
+106 |
 | Master Thesis |
 | ~VI~ |
-| Mindful Meerkats - A Smartphone Game as an instrument for behavioural<br>change towards sustainable lifestyles 7.3 |
+| Mindful Meerkats - A Smartphone Game as an instrument for behavioural
+change towards sustainable lifestyles 7.3 |
 | Linearity vs. |
 | Complexity |
 | 114 |
@@ -291,50 +348,82 @@ Applying Lessons from Psychology and Human-Computer-Interaction to
 | DISCUSSION |
 ## | 115 |
 
-| Novelty and Innovation<br>115 |
+| Novelty and Innovation
+115 |
 |--------------------------------------------------------------------------------------------------------------|
 | 8.2 |
-| Further possible Research with and about Mindful<br>Meerkats 117 |
+| Further possible Research with and about Mindful
+Meerkats 117 |
 | 8.3 |
-| Boundaries and Limitations<br>119 |
-| BIBLIOGRAPHY<br> |
+| Boundaries and Limitations
+119 |
+| BIBLIOGRAPHY
+ |
 | 122 |
 | ANNEX |
-| <br>128 |
-| – Thesis for Master<br>– Sustainable<br>Wolterstorff<br>of Science<br>Development/Utrecht University |
+| 
+128 |
+| – Thesis for Master
+– Sustainable
+Wolterstorff
+of Science
+Development/Utrecht University |
 | ~VII~ |
-| A Smartphone Game as an instrument for behavioural change towards<br>sustainable lifestyless LIST OF FIGURES |
-| "Mindful Meerkats"<br>Figure 1: Mental Model of |
+| A Smartphone Game as an instrument for behavioural change towards
+sustainable lifestyless LIST OF FIGURES |
+| "Mindful Meerkats"
+Figure 1: Mental Model of |
 ## | (HCI |
 
 | Human-Computer-Interaction; |
 |-----------------------------------------------------------------------------------------------------------------------|
 | SEP = Social and Environmental Psychology) |
 | 12 |
-| –<br>Figure 2: How a single action can evolve to be Societal Change<br>Conceptual Progression (Created by Author)<br> |
+| –
+Figure 2: How a single action can evolve to be Societal Change
+Conceptual Progression (Created by Author)
+ |
 | 15 |
-| Figure 3: Fogg Behavior Model (Fogg<br>2014)17 |
-| Figure 4: Abstracted elements from the Definitions of Gamification (Hamari<br>2015)27 |
-| Figure 5: Situated Motivational Affordances (Deterding<br>2011)28 |
-| Figure 6: Action-Norm-Proggression (Created by Author)<br>32 |
-| Figure 7: Behavioural Chain (Created by Author)<br>33 |
-| Figure 8: Research Framework<br>35 |
+| Figure 3: Fogg Behavior Model (Fogg
+2014)17 |
+| Figure 4: Abstracted elements from the Definitions of Gamification (Hamari
+2015)27 |
+| Figure 5: Situated Motivational Affordances (Deterding
+2011)28 |
+| Figure 6: Action-Norm-Proggression (Created by Author)
+32 |
+| Figure 7: Behavioural Chain (Created by Author)
+33 |
+| Figure 8: Research Framework
+35 |
 | Figure 9: Logo Of Mindful Meerkats |
 ## | 36 |
 
-| Figure 10: Mascott of Mindful Meerkats<br>38 |
+| Figure 10: Mascott of Mindful Meerkats
+38 |
 |------------------------------------------------------------------------------------|
-| Figure 11: Preliminary, outdated Mockup of Interaction Interface<br>41 |
-| Figure 12: Most Recent Avatar Designs ((c) Mindful<br>Meerkats)97 |
-| Figure 13: Mental Model + Behavioural<br>Chain106 |
+| Figure 11: Preliminary, outdated Mockup of Interaction Interface
+41 |
+| Figure 12: Most Recent Avatar Designs ((c) Mindful
+Meerkats)97 |
+| Figure 13: Mental Model + Behavioural
+Chain106 |
 | LIST OF TABLES |
-| Table 1: Common psychological Factors linked to Games (Hamari 2015)<br>29 |
-| Table 2: Psychological Outcomes & Motivational Needs<br>30 |
-| Table 3: Virtual Agent Typology (By<br>Author)53 |
-| Table 4: Emotions & Motivations reported by research on Selected<br>Cases69 |
-| Table 5: Behavioural Insights in<br>Case Studies<br>73 |
-| Table 6: Virtual Agent Typology - Extended (By<br>Author)94 |
-| Table 7: Assumptions, Verifications, Falsification, Deductions - An<br>Overview112 |
+| Table 1: Common psychological Factors linked to Games (Hamari 2015)
+29 |
+| Table 2: Psychological Outcomes & Motivational Needs
+30 |
+| Table 3: Virtual Agent Typology (By
+Author)53 |
+| Table 4: Emotions & Motivations reported by research on Selected
+Cases69 |
+| Table 5: Behavioural Insights in
+Case Studies
+73 |
+| Table 6: Virtual Agent Typology - Extended (By
+Author)94 |
+| Table 7: Assumptions, Verifications, Falsification, Deductions - An
+Overview112 |
 
 ## Master Thesis
 
@@ -904,7 +993,7 @@ Another valuable Design approach is Lewis' Design Patterns. Departing from Reiss
 
 Mindful Meerkats - A Smartphone Game as an instrument for behavioural change towards sustainable lifestyles
 
-Zhang. There are internal motivational drivers that make us behave in a certain way. When setting up what he calls Motivational User Stories, a Reiss Desire is formulated into "As a User, I want <Something>, so that" (p.
+Zhang. There are internal motivational drivers that make us behave in a certain way. When setting up what he calls Motivational User Stories, a Reiss Desire is formulated into "As a User, I want , so that" (p.
 
 24). Being aware of these desires, a designer can make sure to cater to one of them to increase motivation. It is important to note that these behavioural patterns are mostly subconscious, so knowledge alone cannot change the behaviour ( See Attitude-Behaviour-Gap, Kollmuss and Agyeman 2002). He for example formulates the User Story for Power as "I can feel powerful and meet my goals". With respect to SDT, he states
 
@@ -960,11 +1049,17 @@ Wolterstorff – Thesis for Master of Science – Sustainable Development/Utrech
 
 | Factor | Definition |
 |------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
-| Autonomy / Voluntariness | a sense that the activity is<br>taken up by the actor herself<br>and is free of outside pressures |
-| Flow | an optimal experience charac-<br>terized as a state of being fully<br>focused and engaged in an ac-<br>tivity |
-| Suspense / uncertain outcomes that are dependent on the actions of the actor | a positive sense of uncertainty<br>of the outcomes (that promotes<br>the sense of agency of the ac-<br>tors) |
+| Autonomy / Voluntariness | a sense that the activity is
+taken up by the actor herself
+and is free of outside pressures |
+| Flow | an optimal experience characterized as a state of being fully
+focused and engaged in an activity |
+| Suspense / uncertain outcomes that are dependent on the actions of the actor | a positive sense of uncertainty
+of the outcomes (that promotes
+the sense of agency of the actors) |
 | Relatedness | a sense of belonging, being connected with other people |
-| Immersion | a feeling of being sub-<br>merged/absorbed/engaged (in<br>a virtual/game reality) |
+| Immersion | a feeling of being submerged/absorbed/engaged (in
+a virtual/game reality) |
 | Competence / mastery / achievement | a sense of achieving, being competent |
 | Playfulness | an exploratory curious attitude toward a task |
 
@@ -1040,7 +1135,10 @@ TABLE 2: PSYCHOLOGICAL OUTCOMES & MOTIVATIONAL NEEDS
 | Playfulness |
 | Affect & Emotion |
 | FLOW |
-| Coined by psychologist Mihaly Csikszentmihalyi (1990), it describes the<br>phenomenon of creative potential and intrinsic drive for focus and con<br>centration. He argues that in this moment of full focus, we are most joyful<br>and productive at the same time. Most of the time this is experienced in |
+| Coined by psychologist Mihaly Csikszentmihalyi (1990), it describes the
+phenomenon of creative potential and intrinsic drive for focus and con
+centration. He argues that in this moment of full focus, we are most joyful
+and productive at the same time. Most of the time this is experienced in |
 
 artistic activity and creative ecstasies like painting, writing or playing music. It balances the elements of skill and challenge, both at high levels. I
 
@@ -2111,7 +2209,9 @@ A Smartphone Game as an instrument for behavioural change towards sustainable li
 
 | ' |
 |----------------------------------------------------------------------------------------------|
-| Caon<br>s narrative is hard to imagine becoming real. A lack of Immersion can<br>be assumed. |
+| Caon
+s narrative is hard to imagine becoming real. A lack of Immersion can
+be assumed. |
 | ~~~ |
 | TABLE 5: BEHAVIOURAL INSIGHTS IN CASE STUDIES |
 | # |
@@ -2656,8 +2756,7 @@ Virtual Agent Typology
 + = strong
 o = medium
 - = weak )
-c) Incorpora-
-a) In-Game
+c) Incorporaa) In-Game
 b) Immersion
 tion
 d) Customisation
@@ -3584,11 +3683,15 @@ ura
 | vio |
 | |
 | boardser |
-| boardser<br>1Sta |
+| boardser
+1Sta |
 | |
 | l Sta |
-| 1Sta<br>m |
-## | l Sta<br>m<br>E |
+| 1Sta
+m |
+## | l Sta
+m
+E |
 
 om cia om atar Init L Behavio C ead C L So TAB Av ber (1) (2) (3)
 
@@ -3745,12 +3848,18 @@ Sense e m such stesy ass ofth ough , m , m , m 1) Ga ns th ( discard er
 | Identifica | |
 | | |
 | borativ | |
-| borativ<br>e | |
+| borativ
+e | |
 | | |
 | e | |
-| e<br>m | |
-| e<br>m<br>urth | |
-| e<br>m<br>urth | |
+| e
+m | |
+| e
+m
+urth | |
+| e
+m
+urth | |
 
 er
 
@@ -4029,7 +4138,8 @@ dge
 | (12) |
 | (13) |
 | ~114~ |
-| A Smartphone Game as an instrument for behavioural change towards<br>sustainable lifestyles |
+| A Smartphone Game as an instrument for behavioural change towards
+sustainable lifestyles |
 ## | 7.3 LINEARITY VS. COMPLEXITY |
 
 Looking at the compiled insights, deductions and corrections of initial assumption, it becomes strongly visible and apparent, that the linear approach was oversimplified. Behavioural Change and the factors determining human decision-making are manifold, interdependent and adaptive. A change in one of the Affordances has impacts on all other elements and a Psychological Outcome can or cannot lead to a Behavioural Outcome. It is extremely difficult to make separated and laboratory-like assumptions or predictions. The laws of human behaviour cannot be estimated to follow similar rules of clarity as physical laws. Therefore, the first Mental Model fails to provide a complete overview. The inherent complex-adaptive nature of all, individuals, human systems and 90% of all systems in general, poses a great impediment for the predictive capacities of analytical research (Poli 2013).
@@ -4121,7 +4231,8 @@ Wolterstorff – Thesis for Master of Science – Sustainable Development/Utrech
 | sustainable lifestyles Master Thesis |
 |----------------------------------------------------------------------------------------------------------|
 | ~122~ |
-| A Smartphone Game as an instrument for behavioural change towards<br>sustainable lifestyles BIBLIOGRAPHY |
+| A Smartphone Game as an instrument for behavioural change towards
+sustainable lifestyles BIBLIOGRAPHY |
 | Acaroglu, |
 | Leyla. |
 | 2013. |
@@ -4575,7 +4686,8 @@ A Smartphone Game as an instrument for behavioural change towards sustainable li
 | Perspectives |
 | and |
 | Practices. |
-| http://books.google.de/books?<br>hl=de&lr=&id=TYVqxs YkgEMC&oi=fnd&pg=PA35&dq=har- |
+| http://books.google.de/books?
+hl=de&lr=&id=TYVqxs YkgEMC&oi=fnd&pg=PA35&dq=har- |
 
 $old+glasser\&ots=4Y\_5XFt-RT\&sig=f5ZTy9D5tyY2NU-Tpfqu3fHAu Vs.$ 
 
@@ -4595,13 +4707,25 @@ Zhang, Ping. 2008. "Technical Opinion Motivational Affordances: Reasons for ICT 
 
 ## **Master Thesis**
 
-| Motivational Sources<br>and Needs | Design Principles | Some Existing Design Examples |
+| Motivational Sources
+and Needs | Design Principles | Some Existing Design Examples |
 |-----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Psychological:<br>Autonomy and the Self | Principle 1. Support autonomy. Principle 2. Promote creation and representation of self-identity. | Desktop skins, cell phone ring tones, online avatars, application toolbar customization. |
+| Psychological:
+Autonomy and the Self | Principle 1. Support autonomy. Principle 2. Promote creation and representation of self-identity. | Desktop skins, cell phone ring tones, online avatars, application toolbar customization. |
 | Cognitive: Competence and Achievement | Principle 3. Design for optimal challenge. Principle 4. Provide timely and positive feedback. | Games and learning systems with various challenge levels and immediate performance feedback. |
-| Social & Psychological:<br>Relatedness | Principle 5. Facilitate human-human interaction. Principle 6. Represent human social bond. | Group based games (e.g. online<br>Bridge) with a chat section,<br>visualizations of email exchanges<br>over a period of time to show both<br>tasks and social related messages. |
-| Social & Psychological:<br>Leadership and<br>Followership | Principle 7. Facilitate one's desire to influence others. Principle 8. Facilitate one's desire to be influenced by others. | Blogs (satisfy one's desire to influence by authoring, and to be influenced by reading), virtual communities where leaders sometimes emerge. |
-| Emotional: Affect and<br>Emotion | Principle 9. Induce intended emotions via initial exposure to ICT. Principle 10. Induce intended emotions via intensive interaction with ICT. | Slick/attractive look of i Pod or cell<br>phones, engaging games, ICT that<br>induce optimal flow experience. |
+| Social & Psychological:
+Relatedness | Principle 5. Facilitate human-human interaction. Principle 6. Represent human social bond. | Group based games (e.g. online
+Bridge) with a chat section,
+visualizations of email exchanges
+over a period of time to show both
+tasks and social related messages. |
+| Social & Psychological:
+Leadership and
+Followership | Principle 7. Facilitate one's desire to influence others. Principle 8. Facilitate one's desire to be influenced by others. | Blogs (satisfy one's desire to influence by authoring, and to be influenced by reading), virtual communities where leaders sometimes emerge. |
+| Emotional: Affect and
+Emotion | Principle 9. Induce intended emotions via initial exposure to ICT. Principle 10. Induce intended emotions via intensive interaction with ICT. | Slick/attractive look of i Pod or cell
+phones, engaging games, ICT that
+induce optimal flow experience. |
 
 ## ~128~
 
@@ -4614,12 +4738,19 @@ Wolterstorff – Thesis for Master of Science – Sustainable Development/Utrech
 | Concept | Definition | Emphasis |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
 | Gamification | 'A process of enhancing services with (motivational) affordances for gameful experiences in order to support the user's overall value creation' — Huotari & Hamari (2012). | Invoking intrinsic motivations |
-| Games (see also<br>Table 1) | Free, no material interest, voluntary, uncertain, governed by rules, interesting choices, mastery, flow — Huizinga (1944), Caillois (1961), Avedon & Sutton-Smith (1971) | Invoking intrinsic motivations |
-| Loyalty program | 'Marketing efforts which reward, and therefore, encourage loyal customer behaviour in order to increase the profitability of stable customer relationships' — Sharp & Sharp (1997) | To increase cus-<br>tomer loyalty<br>(mainly via mone-<br>tary rewards) |
-| Persuasive tech-<br>nology | Interactive information technology designed to change users' attitudes or behaviour — Fogg (2003), Oinas-Kukkonen & Harjumaa (2009) | Attitude & behav-<br>iour change (via<br>communicative<br>persuasion) |
-| Behaviour change support system (BCSS) is a socio-technical information system with psychological and behavioural outcomes designed to form, alter or reinforce attitudes, behaviours or an act of complying without using coercion or deception." - Oinas-Kukkonen (2013) | | Attitude and be-<br>haviour change |
-| Choice architec-<br>ture | 'To nudge people towards the right choices [to make their lives better]' — Thaler & Sunstein (2008) | To help people make better decisions |
-| Decision support<br>systems | 'A computer based system to aid decision-making [for running organisations more efficiently]' — Sol et al. (1987) | Support decision<br>making by making<br>it more efficient |
+| Games (see also
+Table 1) | Free, no material interest, voluntary, uncertain, governed by rules, interesting choices, mastery, flow — Huizinga (1944), Caillois (1961), Avedon & Sutton-Smith (1971) | Invoking intrinsic motivations |
+| Loyalty program | 'Marketing efforts which reward, and therefore, encourage loyal customer behaviour in order to increase the profitability of stable customer relationships' — Sharp & Sharp (1997) | To increase customer loyalty
+(mainly via monetary rewards) |
+| Persuasive technology | Interactive information technology designed to change users' attitudes or behaviour — Fogg (2003), Oinas-Kukkonen & Harjumaa (2009) | Attitude & behaviour change (via
+communicative
+persuasion) |
+| Behaviour change support system (BCSS) is a socio-technical information system with psychological and behavioural outcomes designed to form, alter or reinforce attitudes, behaviours or an act of complying without using coercion or deception." - Oinas-Kukkonen (2013) | | Attitude and behaviour change |
+| Choice architecture | 'To nudge people towards the right choices [to make their lives better]' — Thaler & Sunstein (2008) | To help people make better decisions |
+| Decision support
+systems | 'A computer based system to aid decision-making [for running organisations more efficiently]' — Sol et al. (1987) | Support decision
+making by making
+it more efficient |
 
 | Affordance | Included in the study |
 |---------------|--------------------------------|

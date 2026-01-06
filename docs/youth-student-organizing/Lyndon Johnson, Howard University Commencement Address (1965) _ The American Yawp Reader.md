@@ -1,3 +1,8 @@
+---
+title: "## [americanyawp.com](https://www.americanyawp.com/reader/27-the-sixties/lyndon-johnson-howard-unive"
+category: "youth-student-organizing"
+---
+
 ## [americanyawp.com](https://www.americanyawp.com/reader/27-the-sixties/lyndon-johnson-howard-university-commencement-address-1965/)
 
 ## **Lyndon Johnson, Howard University Commencement Address (1965)**

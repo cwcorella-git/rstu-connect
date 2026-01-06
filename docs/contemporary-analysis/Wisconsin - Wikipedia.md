@@ -1,3 +1,8 @@
+---
+title: "**Wisconsin**"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_2.jpeg)
 
 # **Wisconsin**
@@ -30,15 +35,40 @@ Wisconsin has been home to a wide variety of cultures over the past 14,000 years
 
 | States | |
 |---------------------------------------------------------|----------------------------------------------------------------|
-| Country<br>Before statehood<br>Admitted to the<br>Union | United States<br>Wisconsin Territory<br>May 29, 1848<br>(30th) |
-| Capital<br>Largest city<br>Largest county or | Madison<br>Milwaukee<br>Milwaukee County |
-| equivalent<br>Largest metro and<br>urban areas | Milwaukee |
-| Government<br>• Governor<br>• Lieutenant<br>Governor | Tony Evers (D)<br>Sara Rodriguez (D) |
-| Legislature | Wisconsin<br>Legislature |
+| Country
+Before statehood
+Admitted to the
+Union | United States
+Wisconsin Territory
+May 29, 1848
+(30th) |
+| Capital
+Largest city
+Largest county or | Madison
+Milwaukee
+Milwaukee County |
+| equivalent
+Largest metro and
+urban areas | Milwaukee |
+| Government
+• Governor
+• Lieutenant
+Governor | Tony Evers (D)
+Sara Rodriguez (D) |
+| Legislature | Wisconsin
+Legislature |
 | • Upper house | Senate |
-| • Lower house<br>Judiciary | Assembly<br>Wisconsin<br>Supreme Court |
-| U. S. senators | Ron Johnson (R)<br>Tammy Baldwin<br>(D) |
-| U. S. House<br>delegation | 6 Republicans<br>2 Democrats<br>(list) |
+| • Lower house
+Judiciary | Assembly
+Wisconsin
+Supreme Court |
+| U. S. senators | Ron Johnson (R)
+Tammy Baldwin
+(D) |
+| U. S. House
+delegation | 6 Republicans
+2 Democrats
+(list) |
 
 ## **• Total** 65,498.37 sq mi
 
@@ -62,40 +92,95 @@ Wisconsin in 1718, [Guillaume](https://en.wikipedia.org/wiki/Guillaume_de_L%27Is
 
 ## **U. S. territory**
 
-| | Indians, hunted now-extinct ice age animals such as the Boaz<br>mastodon, a prehistoric mastodon skeleton unearthed along | • Length<br>• Width | 311 mi (507 km)<br>260 mi (427 km) |
+| | Indians, hunted now-extinct ice age animals such as the Boaz
+mastodon, a prehistoric mastodon skeleton unearthed along | • Length
+• Width | 311 mi (507 km)
+260 mi (427 km) |
 |--------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------|-------------------------------------------------------|
-| | with spear points in southwest Wisconsin.[31] After the ice age<br>ended around 8000 BCE, people in the subsequent Archaic<br>period lived by hunting, fishing, and gathering food from wild | Elevation<br>Highest elevation<br>(Timms Hill[7][8]) | 1,050 ft (320 m)<br>1,951 ft (595 m) |
-| | plants. Agricultural societies emerged gradually over the<br>Woodland period between 1000 BCE to 1000 CE. Toward the | Lowest elevation<br>(Lake Michigan[7][8]) | 579 ft (176 m) |
-| Wisconsin in 1718, Guillaume | end of this period, Wisconsin was the heartland of the "Effigy<br>Mound culture", which built thousands of animal-shaped | Population (2024)<br>• Total | 5,960,975[9] |
-| de L'Isle map, with the<br>approximate state area | mounds across the landscape.[32] Later, between 1000 and<br>1500 CE, the Mississippian and Oneota cultures built | • Rank<br>• Density | 20th<br>108.8/sq mi (42.0/<br>km2) |
-| highlighted | substantial settlements including the fortified village at Aztalan<br>in southeast Wisconsin.[33] The Oneota may be the ancestors of<br>the modern Iowa and Ho-Chunk nations who shared the | • Median<br>household income | \$74,600 (2023)[10] |
+| | with spear points in southwest Wisconsin.[31] After the ice age
+ended around 8000 BCE, people in the subsequent Archaic
+period lived by hunting, fishing, and gathering food from wild | Elevation
+Highest elevation
+(Timms Hill[7][8]) | 1,050 ft (320 m)
+1,951 ft (595 m) |
+| | plants. Agricultural societies emerged gradually over the
+Woodland period between 1000 BCE to 1000 CE. Toward the | Lowest elevation
+(Lake Michigan[7][8]) | 579 ft (176 m) |
+| Wisconsin in 1718, Guillaume | end of this period, Wisconsin was the heartland of the "Effigy
+Mound culture", which built thousands of animal-shaped | Population (2024)
+• Total | 5,960,975[9] |
+| de L'Isle map, with the
+approximate state area | mounds across the landscape.[32] Later, between 1000 and
+1500 CE, the Mississippian and Oneota cultures built | • Rank
+• Density | 20th
+108.8/sq mi (42.0/
+km2) |
+| highlighted | substantial settlements including the fortified village at Aztalan
+in southeast Wisconsin.[33] The Oneota may be the ancestors of
+the modern Iowa and Ho-Chunk nations who shared the | • Median
+household income | \$74,600 (2023)[10] |
 | | Wisconsin region with the Menominee at the time of European contact.[34] Other Native American | • Income rank | 26th |
-| | groups living in Wisconsin when Europeans first settled included the Ojibwe, Sauk, Meskwaki,<br>Kickapoo, and Potawatomi, who migrated to Wisconsin from the east between 1500 and 1700.[35] | Demonyms | Wisconsinite,<br>Cheesehead<br>(colloquial) |
-| European settlements | | Language<br>• Official language | None |
-| | The first European to visit what became Wisconsin was probably the French explorer Jean Nicolet. He | • Spoken<br>language | ▪ English 91.32% |
-| | canoed west from Georgian Bay through the Great Lakes in 1634, and it is traditionally assumed that<br>he came ashore near Green Bay at Red Banks.[36] Pierre Radisson and Médard des Groseilliers visited | | ▪ Spanish 4.64%<br>▪ Other 8.68 |
-| | Green Bay again in 1654–1666 and Chequamegon Bay in 1659–1660, where they traded for fur with<br>local Native Americans.[37] In 1673, Jacques Marquette and Louis Jolliet became the first to record a | Time zone | UTC– 06:00<br>(Central) |
+| | groups living in Wisconsin when Europeans first settled included the Ojibwe, Sauk, Meskwaki,
+Kickapoo, and Potawatomi, who migrated to Wisconsin from the east between 1500 and 1700.[35] | Demonyms | Wisconsinite,
+Cheesehead
+(colloquial) |
+| European settlements | | Language
+• Official language | None |
+| | The first European to visit what became Wisconsin was probably the French explorer Jean Nicolet. He | • Spoken
+language | ▪ English 91.32% |
+| | canoed west from Georgian Bay through the Great Lakes in 1634, and it is traditionally assumed that
+he came ashore near Green Bay at Red Banks.[36] Pierre Radisson and Médard des Groseilliers visited | | ▪ Spanish 4.64%
+▪ Other 8.68 |
+| | Green Bay again in 1654–1666 and Chequamegon Bay in 1659–1660, where they traded for fur with
+local Native Americans.[37] In 1673, Jacques Marquette and Louis Jolliet became the first to record a | Time zone | UTC– 06:00
+(Central) |
 | | journey on the Fox-Wisconsin Waterway all the way to the Mississippi River near Prairie du Chien.[38] | • Summer (DST) | UTC– 05:00 (CDT) |
-| | Frenchmen like Nicholas Perrot continued to ply the fur trade across Wisconsin through the 17th and<br>18th centuries, but the French made no permanent settlements in Wisconsin before Great Britain won | USPS abbreviation<br>ISO 3166 code | WI<br>US-WI |
-| | control of the region following the French and Indian War in 1763. Even so, French traders continued<br>to work in the region after the war, and some, beginning with Charles de Langlade in 1764, settled in | Traditional<br>abbreviation | Wis., Wisc. |
-| | Wisconsin permanently, rather than returning to British-controlled Canada.[39] | Latitude | 42°30' N to 47°05′<br>N |
-| | The British gradually took over Wisconsin during the French and Indian War, taking control of Green<br>Bay in 1761 and gaining control of all of Wisconsin in 1763. Like the French, the British were | Longitude | 86°46′ W to 92°<br>54′ W |
-| | interested in little but the fur trade. One notable event in the fur trading industry in Wisconsin<br>occurred in 1791, when two free African Americans set up a fur trading post among the Menominee at<br>present-day Marinette. The first permanent settlers, mostly French Canadians, some Anglo-New | Website | www.wisconsin<br>.gov (https://ww<br>w.wisconsin.gov) |
+| | Frenchmen like Nicholas Perrot continued to ply the fur trade across Wisconsin through the 17th and
+18th centuries, but the French made no permanent settlements in Wisconsin before Great Britain won | USPS abbreviation
+ISO 3166 code | WI
+US-WI |
+| | control of the region following the French and Indian War in 1763. Even so, French traders continued
+to work in the region after the war, and some, beginning with Charles de Langlade in 1764, settled in | Traditional
+abbreviation | Wis., Wisc. |
+| | Wisconsin permanently, rather than returning to British-controlled Canada.[39] | Latitude | 42°30' N to 47°05′
+N |
+| | The British gradually took over Wisconsin during the French and Indian War, taking control of Green
+Bay in 1761 and gaining control of all of Wisconsin in 1763. Like the French, the British were | Longitude | 86°46′ W to 92°
+54′ W |
+| | interested in little but the fur trade. One notable event in the fur trading industry in Wisconsin
+occurred in 1791, when two free African Americans set up a fur trading post among the Menominee at
+present-day Marinette. The first permanent settlers, mostly French Canadians, some Anglo-New | Website | www.wisconsin
+.gov (https://ww
+w.wisconsin.gov) |
 | | Englanders and a few African American freedmen, arrived in Wisconsin while it was under British | Symbols of Wisconsin | |
-| | control. Charles de Langlade is generally recognized as the first settler, establishing a trading post at<br>Green Bay in 1745, and moving there permanently in 1764.[39] Settlement began at Prairie du Chien | Bird | American robin<br>Turdus migratorius |
-| | around 1781. The French residents at the trading post in what is now Green Bay, referred to the town<br>as "La Baye". However, British fur traders referred to it as "Green Bay", because the water and the | Fish | Muskellunge<br>Esox masquinongy |
+| | control. Charles de Langlade is generally recognized as the first settler, establishing a trading post at
+Green Bay in 1745, and moving there permanently in 1764.[39] Settlement began at Prairie du Chien | Bird | American robin
+Turdus migratorius |
+| | around 1781. The French residents at the trading post in what is now Green Bay, referred to the town
+as "La Baye". However, British fur traders referred to it as "Green Bay", because the water and the | Fish | Muskellunge
+Esox masquinongy |
 | | shore assumed green tints in early spring. The old French title was gradually dropped, and the British | Flower | Wood violet |
-| | name of "Green Bay" eventually stuck. The region coming under British rule had virtually no adverse<br>effect on the French residents as the British needed the cooperation of the French fur traders and the | | Viola sororia |
-| | French fur traders needed the goodwill of the British. During the French occupation of the region | Insect | Western honey<br>bee |
+| | name of "Green Bay" eventually stuck. The region coming under British rule had virtually no adverse
+effect on the French residents as the British needed the cooperation of the French fur traders and the | | Viola sororia |
+| | French fur traders needed the goodwill of the British. During the French occupation of the region | Insect | Western honey
+bee |
 | | licenses for fur trading had been issued scarcely and only to select groups of traders, whereas the | | Apis mellifera |
-| | British, in an effort to make as much money as possible from the region, issued licenses for fur trading<br>freely, both to British and to French residents. The fur trade in what is now Wisconsin reached its | Tree | Sugar maple<br>Acer saccharum |
-| | height under British rule, and the first self-sustaining farms in the state were established as well. From<br>1763 to 1780, Green Bay was a prosperous community which produced its own foodstuff, built | Beverage | Milk (state drink) |
-| graceful cottages and held dances and festivities.[40] | | | Brandy old<br>fashioned (state<br>cocktail) |
+| | British, in an effort to make as much money as possible from the region, issued licenses for fur trading
+freely, both to British and to French residents. The fur trade in what is now Wisconsin reached its | Tree | Sugar maple
+Acer saccharum |
+| | height under British rule, and the first self-sustaining farms in the state were established as well. From
+1763 to 1780, Green Bay was a prosperous community which produced its own foodstuff, built | Beverage | Milk (state drink) |
+| graceful cottages and held dances and festivities.[40] | | | Brandy old
+fashioned (state
+cocktail) |
 | | Joseph Roi built the Tank Cottage in Green Bay in 1776. Located in Heritage Hill State Historical | Dance | Polka |
 | Register of Historic Places.[41] | Park, it is the oldest standing building from Wisconsin's early years and is listed on the National | Food | Corn |
 | | | | Zea mays |
-| U. S. territory | | Fossil | Trilobite<br>Calymene celebra |
-| | Wisconsin became a territorial possession of the United States in 1783 after the American | Mineral<br>Rock | Galena<br>Red granite |
+| U. S. territory | | Fossil | Trilobite
+Calymene celebra |
+| | Wisconsin became a territorial possession of the United States in 1783 after the American | Mineral
+Rock | Galena
+Red granite |
 | | Revolutionary War. In 1787, it became part of the Northwest Territory. As territorial boundaries | Tartan | Wisconsin tartan |
 | | subsequently developed, it was then part of Indiana Territory from 1800 to 1809, Illinois Territory | | |
 
@@ -257,7 +342,8 @@ Medium-size cities dot the state. The largest of these is [Green Bay](https://en
 
 [Wisconsin Municipalities](https://en.wikipedia.org/wiki/Administrative_divisions_of_Wisconsin) map of [counties,](https://en.wikipedia.org/wiki/List_of_counties_in_Wisconsin) [cities,](https://en.wikipedia.org/wiki/List_of_cities_in_Wisconsin) [villages,](https://en.wikipedia.org/wiki/List_of_villages_in_Wisconsin) and [towns.](https://en.wikipedia.org/wiki/List_of_towns_in_Wisconsin)
 
-| | Largest cities or towns in Wisconsin<br>[99] | | | | | | | | | | |
+| | Largest cities or towns in Wisconsin
+[99] | | | | | | | | | | |
 |-----------|----------------------------------------------|------------|------------|---------|------|-----------------|-------------|--------|-----------|--|--|
 | | Rank | Name | County | Pop. | Rank | Name | County | Pop. | | | |
 | | 1 | Milwaukee | Milwaukee | 577,222 | 11 | West Allis | Milwaukee | 60,325 | | | |
@@ -296,7 +382,8 @@ Ethnic composition as of the [2020 census](https://en.wikipedia.org/wiki/2020_Un
 |------------------------------------|-------|-------|-------|--|--|--|
 | White (non-Hispanic) | 78.6% | | 81.9% | | | |
 | Hispanic or Latino[a] | — | | 7.6% | | | |
-| African American (non<br>Hispanic) | 6.2% | | 7.3% | | | |
+| African American (non
+Hispanic) | 6.2% | | 7.3% | | | |
 | Asian | 3.0% | | 3.6% | | | |
 | Native American | 0.8% | | 2.0% | | | |
 | Pacific Islander | 0.03% | | 0.1% | | | |
@@ -310,10 +397,12 @@ Ethnic composition as of the [2020 census](https://en.wikipedia.org/wiki/2020_Un
 | Black | 5.0% | 5.7% | 6.3% | 6.4% |
 | Asian | 1.1% | 1.7% | 2.3% | 3.0% |
 | Native | 0.8% | 0.9% | 1.0% | 1.0% |
-| Native Hawaiian and<br>other Pacific Islander | – | – | – | – |
+| Native Hawaiian and
+other Pacific Islander | – | – | – | – |
 | Other race | 0.9% | 1.6% | 2.4% | 3.1% |
 | Two or more races | – | 1.3% | 1.8% | 6.1% |
-| Hispanic or Latino<br>(of any race) | 1.9% | 3.6% | 5.9% | 7.6% |
+| Hispanic or Latino
+(of any race) | 1.9% | 3.6% | 5.9% | 7.6% |
 | Non-Hispanic white | 91.3% | 87.3% | 83.3% | 78.6% |
 
 In 2022, the five largest European ancestry groups were: [German](https://en.wikipedia.org/wiki/German_American) (36%), [Irish](https://en.wikipedia.org/wiki/Irish_American) (10.2%), [Polish](https://en.wikipedia.org/wiki/Polish_American) (7.9%), [English](https://en.wikipedia.org/wiki/English_American) (6.7%), and [Norwegian](https://en.wikipedia.org/wiki/Norwegian_American) (6.3%).[\[111\]](#page-20-8) German is the most common ancestry in every county in the state, except Menominee, Trempealeau, and Vernon[.\[112\]](#page-20-9) Wisconsin has the highest percentage of residents of Polish ancestry of any state[.\[113\]](#page-20-10) According to the 2022 [American Community Survey,](https://en.wikipedia.org/wiki/American_Community_Survey) 7.6% of Wisconsin's population were of [Hispanic or Latino](https://en.wikipedia.org/wiki/Hispanic_and_Latino_Americans) origin (of any race). The largest Hispanic ancestry groups were [Mexican](https://en.wikipedia.org/wiki/Mexican_American) (5.1%), [Puerto Rican](https://en.wikipedia.org/wiki/Puerto_Ricans) (1.1%), [Central American](https://en.wikipedia.org/wiki/Central_America) (0.4%), and [Cuban](https://en.wikipedia.org/wiki/Cuban_American) (0.1%), with 0.9% reporting other Hispanic or Latino origins[.\[114\]](#page-20-11)
@@ -352,13 +441,82 @@ In 2018, the countries of origin for Wisconsin's immigrants came from Mexico, In
 
 | Race | 2013[121] | 2014[122] | 2015[123] | 2016[124] | 2017[125] | 2018[126] | 2019[127] | 2020[128] | 2021[129] | 2022[130] | |
 |------------------------------|-------------------|-------------------|-------------------|-------------------|-------------------|-------------------|-------------------|-------------------|-------------------|-------------------|--|
-| White: | 55,485<br>(83.2%) | 55,520<br>(82.7%) | 55,350<br>(82.6%) | | | | | | | | |
-| > Non<br>Hispanic<br>White | 49,357<br>(74.0%) | 49,440<br>(73.6%) | 49,024<br>(73.1%) | 47,994<br>(72.0%) | 46,309<br>(71.3%) | 45,654<br>(71.2%) | 44,784<br>(70.8%) | 42,715<br>(70.5%) | 43,991<br>(71.2%) | 42,455<br>(70.7%) | |
-| Black | 6,956<br>(10.4%) | 7,328<br>(10.9%) | 7,386<br>(11.0%) | 6,569<br>(9.9%) | 6,864<br>(10.6%) | 6,622<br>(10.3%) | 6,859<br>(10.8%) | 6,429<br>(10.6%) | 5,964<br>(9.6%) | 5,688<br>(9.5%) | |
-| Asian | 3,197<br>(4.8%) | 3,333<br>(5.0%) | 3,276<br>(4.9%) | 3,220<br>(4.8%) | 3,017<br>(4.6%) | 3,155<br>(4.9%) | 2,942<br>(4.6%) | 2,870<br>(4.7%) | 2,692<br>(4.3%) | 2,661<br>(4.4%) | |
-| American<br>Indian | 1,011<br>(1.5%) | 980<br>(1.5%) | 1,029<br>(1.5%) | 689<br>(1.0%) | 745<br>(1.1%) | 707<br>(1.1%) | 664<br>(1.0%) | 573<br>(0.9%) | 546<br>(0.9%) | 533<br>(0.9%) | |
-| Hispanic<br>(of any<br>race) | 6,398<br>(9.6%) | 6,375<br>(9.5%) | 6,604<br>(9.9%) | 6,504<br>(9.8%) | 6,368<br>(9.8%) | 6,365<br>(9.9%) | 6,463<br>(10.2%) | 6,438<br>(10.6%) | 6,923<br>(11.2%) | 6,971<br>(11.6%) | |
-| Total<br>Wisconsin | 66,649<br>(100%) | 67,161<br>(100%) | 67,041<br>(100%) | 66,615<br>(100%) | 64,975<br>(100%) | 64,098<br>(100%) | 63,270<br>(100%) | 60,594<br>(100%) | 61,781<br>(100%) | 60,049<br>(100%) | |
+| White: | 55,485
+(83.2%) | 55,520
+(82.7%) | 55,350
+(82.6%) | | | | | | | | |
+| > Non
+Hispanic
+White | 49,357
+(74.0%) | 49,440
+(73.6%) | 49,024
+(73.1%) | 47,994
+(72.0%) | 46,309
+(71.3%) | 45,654
+(71.2%) | 44,784
+(70.8%) | 42,715
+(70.5%) | 43,991
+(71.2%) | 42,455
+(70.7%) | |
+| Black | 6,956
+(10.4%) | 7,328
+(10.9%) | 7,386
+(11.0%) | 6,569
+(9.9%) | 6,864
+(10.6%) | 6,622
+(10.3%) | 6,859
+(10.8%) | 6,429
+(10.6%) | 5,964
+(9.6%) | 5,688
+(9.5%) | |
+| Asian | 3,197
+(4.8%) | 3,333
+(5.0%) | 3,276
+(4.9%) | 3,220
+(4.8%) | 3,017
+(4.6%) | 3,155
+(4.9%) | 2,942
+(4.6%) | 2,870
+(4.7%) | 2,692
+(4.3%) | 2,661
+(4.4%) | |
+| American
+Indian | 1,011
+(1.5%) | 980
+(1.5%) | 1,029
+(1.5%) | 689
+(1.0%) | 745
+(1.1%) | 707
+(1.1%) | 664
+(1.0%) | 573
+(0.9%) | 546
+(0.9%) | 533
+(0.9%) | |
+| Hispanic
+(of any
+race) | 6,398
+(9.6%) | 6,375
+(9.5%) | 6,604
+(9.9%) | 6,504
+(9.8%) | 6,368
+(9.8%) | 6,365
+(9.9%) | 6,463
+(10.2%) | 6,438
+(10.6%) | 6,923
+(11.2%) | 6,971
+(11.6%) | |
+| Total
+Wisconsin | 66,649
+(100%) | 67,161
+(100%) | 67,041
+(100%) | 66,615
+(100%) | 64,975
+(100%) | 64,098
+(100%) | 63,270
+(100%) | 60,594
+(100%) | 61,781
+(100%) | 60,049
+(100%) | |
 
 ▪ Since 2016, data for births of [White Hispanic](https://en.wikipedia.org/wiki/White_Hispanic_and_Latino_Americans) origin are not collected, but included in one Hispanic group; persons of Hispanic origin may be of any race.
 

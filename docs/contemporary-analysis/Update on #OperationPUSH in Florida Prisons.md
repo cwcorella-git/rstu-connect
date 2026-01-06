@@ -1,9 +1,15 @@
+---
+title: "## **Update on #OperationPUSH in Florida Prisons**"
+category: "contemporary-analysis"
+---
+
 ## **Update on #OperationPUSH in Florida Prisons**
 
 | Date: Mon, 01/22/2018 - 16:10 |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Source: https://ecology.iww.org/node/2760|
-| Tags: IWOC, toxics, Prison Ecology Project, green unionism, green syndicalism, Florida, prison labor,<br>class war prisoners, Operation Push |
+| Tags: IWOC, toxics, Prison Ecology Project, green unionism, green syndicalism, Florida, prison labor,
+class war prisoners, Operation Push |
 | By IWOC - |
 | It's Going Down |
 | , January 19, 2018 |
@@ -12,7 +18,9 @@
 | , features banner that was put up at solidarity demonstration at facility where |
 | two ex-prison Florida guards who were found guilty of belonging to the Ku-Klux-Klan |
 | , and were plotting to kill a black inmate after his release. |
-| It's been a hard silence for the past 5 days since Operation PUSH launched a statewide<br>prisoner strike in the FL Department of Corrections prison system (FDOC or FDC) coinciding<br>with Martin Luther King Day. |
+| It's been a hard silence for the past 5 days since Operation PUSH launched a statewide
+prisoner strike in the FL Department of Corrections prison system (FDOC or FDC) coinciding
+with Martin Luther King Day. |
 
 Information from prisoners is coming in at a much slower pace than people on the outside had anticipated, but reports are slowly and steadily making their way through the walls, despite many obstacles.
 

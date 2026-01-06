@@ -1,3 +1,8 @@
+---
+title: "## **Sorel's reflections on violence and the poverty of voluntarism - Donald Parkinson**"
+category: "contemporary-analysis"
+---
+
 ## **Sorel's reflections on violence and the poverty of voluntarism - Donald Parkinson**
 
 ## **Date:** Unknown

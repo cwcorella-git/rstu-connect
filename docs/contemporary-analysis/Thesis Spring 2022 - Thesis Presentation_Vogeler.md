@@ -1,3 +1,8 @@
+---
+title: "## The New and The Old Church"
+category: "contemporary-analysis"
+---
+
 ## The New and The Old Church
 
 ## Greta Vogeler | Spring 2022

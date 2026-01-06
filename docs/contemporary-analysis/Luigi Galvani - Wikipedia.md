@@ -1,3 +1,8 @@
+---
+title: "[Luigi Galvani](https://en.wikipedia.org/wiki/Main_Page)"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_2.jpeg)
 
 # [Luigi Galvani](https://en.wikipedia.org/wiki/Main_Page)
@@ -28,7 +33,8 @@ Portrait of Galvani at the [Palazzo Poggi](https://en.wikipedia.org/wiki/Palazzo
 | | Bologna, Papal |
 | | States |
 | Died | 4 December 1798 |
-| | (aged<br>61) |
+| | (aged
+61) |
 | | Bologna, |
 | | Cisalpine |
 ## | | Republic |

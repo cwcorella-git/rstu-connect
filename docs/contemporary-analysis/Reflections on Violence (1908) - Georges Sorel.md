@@ -1,3 +1,8 @@
+---
+title: "## **Reflections on Violence (1908) - Georges Sorel**"
+category: "contemporary-analysis"
+---
+
 ## **Reflections on Violence (1908) - Georges Sorel**
 
 ## **Date:** Unknown

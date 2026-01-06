@@ -1,3 +1,8 @@
+---
+title: "Utopian and Scientific (Chpt. 3)"
+category: "contemporary-analysis"
+---
+
 #### [marxists.org](https://www.marxists.org/archive/marx/works/1880/soc-utop/ch03.htm)
 
 # Utopian and Scientific (Chpt. 3)

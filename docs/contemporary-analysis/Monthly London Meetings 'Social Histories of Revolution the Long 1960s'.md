@@ -1,3 +1,8 @@
+---
+title: "## **Monthly London Meetings: 'Social Histories of Revolution: the Long 1960s'**"
+category: "contemporary-analysis"
+---
+
 ## **Monthly London Meetings: 'Social Histories of Revolution: the Long 1960s'**
 
 ## **Date:** Unknown

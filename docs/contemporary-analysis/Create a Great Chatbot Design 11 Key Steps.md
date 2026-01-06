@@ -1,3 +1,8 @@
+---
+title: "11 Step Process for a Great Chatbot Design"
+category: "contemporary-analysis"
+---
+
 #### [userlike.com](https://www.userlike.com/en/blog/chatbot-design)
 
 # 11 Step Process for a Great Chatbot Design
@@ -300,7 +305,9 @@ The hub also has a Smart FAQ and Contact Form Suggestions module, which automati
 | - Your message | AB |
 | Hi! | ( १३) |
 | I would like to switch my supplie | er and |
-| If the contract with the previo<br>specify a term or period of no<br>usually take place within the r | tice, the switch will |
+| If the contract with the previo
+specify a term or period of no
+usually take place within the r | tice, the switch will |
 | + What info do I need to swi | tch to Green Energy? |
 | + How does the switch work | if I build a new house? |
 | Sond mossage | |

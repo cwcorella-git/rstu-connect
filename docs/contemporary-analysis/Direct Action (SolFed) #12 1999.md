@@ -1,3 +1,8 @@
+---
+title: "## **Direct Action (Sol Fed) #12 1999**"
+category: "contemporary-analysis"
+---
+
 ## **Direct Action (Sol Fed) #12 1999**
 
 ## **Date:** Unknown

@@ -1,15 +1,8 @@
 ---
-title: >-
-  The South African Wobblies the Origins of Industrial Unions in South Africa
-  John
-date: 2025
-author: Industrial Workers of the World
-tags:
-  - organizing
-  - strikes
-  - unions
-  - rent
-  - police
+title: ">-"
+author: "Industrial Workers of the World"
+date: "2025"
+category: "labor"
 ---
 
 # The South African Wobblies the Origins of Industrial Unions in South Africa John

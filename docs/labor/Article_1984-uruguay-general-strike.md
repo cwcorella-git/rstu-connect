@@ -1,13 +1,8 @@
 ---
-title: 1984 Uruguay General Strike
-date: 2025
-author: Global Nonviolent Action Database
-tags:
-  - organizing
-  - strikes
-  - unions
-  - police
-  - prisons
+title: "1984 Uruguay General Strike"
+author: "Global Nonviolent Action Database"
+date: "2025"
+category: "labor"
 ---
 
 # 1984 Uruguay General Strike

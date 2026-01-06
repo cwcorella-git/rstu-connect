@@ -1,3 +1,8 @@
+---
+title: "ANARCHISM **From Theory to** Practice **by Daniel** Guerin I ntroduction by Noam Chomsky Translated by Mary Klopper o"
+category: "theory"
+---
+
 # ANARCHISM **From Theory to** Practice **by Daniel** Guerin I ntroduction by Noam Chomsky Translated by Mary Klopper o
 
 ## Monthly Review Press New York
@@ -41,7 +46,8 @@ Monthly Review Press 122 West 27th Street, New York, NY 10001
 
 #### VI *Contents*
 
-| 3:<br>Anarchism in Revolutionary Practice | 71 |
+| 3:
+Anarchism in Revolutionary Practice | 71 |
 |---------------------------------------------|-----|
 | 1880-1914 | 73 |
 | Anarchism Becomes Isolated | |
@@ -98,63 +104,13 @@ I do not pretend to know the answer to this question. But it seems tolerably cle
 
 If one were to seek a single dominant idea, within the anarchist tradition, that might be defined as "libertarian socialist," it should, I believe, be that expressed by Bakunin when in writing on the Paris Commune, he identified himself as follows:
 
-I am a fanatic lover of liberty, considering it as the unique condition under which intelligence, dignity, and human happiness can develop and grow; not the purely formal liberty conceded, measured out, and regulated by the State, an etemallie which in reality represents nothing more than the privilege of some founded on the slavery of the rest; not the individualistic, egoistic, shabby, and fictitious liberty extolled by the school of J-J. Rousseau and the other schools of bourgeois liberalism, which considers the would-be rights of all men, represented by the State which limits the rights of each-an idea that leads inevitably to the reduction of the rights of each to zero. No, I mean the only kind of liberty that is worthy of the name, liberty that consists in the full development of all the material, intellectual, and moral powers that are latent in each person; liberty that recognizes no restrictions other than those detennined by the laws of our own individual nature, which cannot properly be regarded as restrictions since these laws are not imposed by any outside legislator beside or above us, but are immanent and inherent, forming the very basis of our material, intellectual, and moral being-they do not limit us but are the real and immediate conditions of our freedom. <sup>4</sup>
+I am a fanatic lover of liberty, considering it as the unique condition under which intelligence, dignity, and human happiness can develop and grow; not the purely formal liberty conceded, measured out, and regulated by the State, an etemallie which in reality represents nothing more than the privilege of some founded on the slavery of the rest; not the individualistic, egoistic, shabby, and fictitious liberty extolled by the school of J-J. Rousseau and the other schools of bourgeois liberalism, which considers the would-be rights of all men, represented by the State which limits the rights of each-an idea that leads inevitably to the reduction of the rights of each to zero. No, I mean the only kind of liberty that is worthy of the name, liberty that consists in the full development of all the material, intellectual, and moral powers that are latent in each person; liberty that recognizes no restrictions other than those detennined by the laws of our own individual nature, which cannot properly be regarded as restrictions since these laws are not imposed by any outside legislator beside or above us, but are immanent and inherent, forming the very basis of our material, intellectual, and moral being-they do not limit us but are the real and immediate conditions of our freedom. 4
 
 These ideas grow out of the Enlightenment; their roots are in Rousseau's *Discourse* on *Inequality,* Humboldt's *Limits of State Action,* Kant's insistence, in his defense of the French Revolution, that freedom is the precondition for acquiring the maturity for freedom, not a gift to be granted when such maturity is achieved. With the development of industrial capitalism, a new and unanticipated system of injustice, it is libertarian socialism that has preserved and extended the radical humanist message of the enlightenment and the classical liberal ideals that were perverted into an ideology to sustain the emerging social order.
 
-. In fact, on the very same assumption that led classical liberalism to oppose the intervention of the State in social life, capitalist social relations are also intolerable. Humboldt, for example, in work which anticipated and perhaps inspired Mill, objects to state action because the State tends to "make man an instrument to serve its arbitrary ends, overlooking his individual purposes." He insists that "whatever does not spring from a man's free choice . . . does not enter into his very being, but remains alien to his true nature; he do<:s not perform it with truly human energies, but mechanical exactness." Under the conditions of freepeasants and craftsmen might be elevated into artists; is, men who love their own labor for its own sake, improve it by their own plastic genius and inventive skill, and thereby cultivate their intellect, ennoble their character, and exalt and refine their pleasures," When a man merely reacts to external demands and authority, "we may admire what he does, but we despise what he is." Humboldt is, furthermore, no primitive individualist. He summarizes his leading ideas as follows: "While they would break all fetters in human society, they would attempt to find as many new social bonds as possible. The isolated man is no more able to develop than the one who is fettered." TIlis classic of liberal thought, completed in 1792, is in its essence profoundly, though prematurely, anti-capitalist. Its ideas must be attenuated beyond recognition to be transmuted into an ideology of industrial capitalism.
+. In fact, on the very same assumption that led classical liberalism to oppose the intervention of the State in social life, capitalist social relations are also intolerable. Humboldt, for example, in work which anticipated and perhaps inspired Mill, objects to state action because the State tends to "make man an instrument to serve its arbitrary ends, overlooking his individual purposes." He insists that "whatever does not spring from a man's free choice . . . does not enter into his very being, but remains alien to his true nature; he do16 This natural struggle for liberation runs counter to the prevailing tendency toward centralization in economic and political life. A century ago Marx wrote that the workers of Paris "felt there was but one alternativethe Commune, or the empire—under whatever name it might reappear."
 
-The vision of a society in which social fetters are replaced by social bonds and labor is freely undertaken suggests the early Marx, with his discussion of the "alienation of labor when work is external to the worker . . . not part of his nature . . . [so that he does not fulfill himself in his work but denies himself . . . [and is] . . . physically exhausted and mentally debased," that alienated labor that "casts some of the workers back into a barbarous kind of work and turns others into machines," thus depriving man of his "species character" of "free conscious activity" and "productive life." It is true that classical libertarian thought is opposed to state intervention in social life, as a consequence of deeper assumptions about human nature and the need for liberty, diversity, and free association. On the same assumptions, capitalist relations of production, wage-slavery, alienated labor, competitiveness, the ideology of "possessive individualism"—all must be regarded as fundamentally anti-human. Libertarian socialism is properly to be regarded as the inheritor of the liberal ideals of the Enlightenment.
-
-Rudolf Rocker describes modern anarchism as "the confluence of the two great currents which during and since the French Revolution have found such characteristic expression in the intellectual life of Europe: Socialism and Liberalism." The classical liberal ideals, he argues, were wrecked on the realities of capitalist economic forms. Anarchism is necessarily anti-capitalist in that it "opposes the exploitation of man by man." But anarchism also opposes "the dominion of man over man." It insists that "socialism will be free or it will not be at all. In its recognition of this lies the genuine and profound justification for the existence of anarchism." From this point of view, anarchism may be regarded as the libertarian wing of socialism. It is in this spirit that Daniel Guérin has approached the study of anarchism in this and other works.5
-
-Guérin quotes Adolph Fischer, who said that "every anarchist is a socialist but not every socialist is necessarily an anarchist." Similarly Bakunin, in his "anarchist manifesto" of 1865, the program of his projected international revolutionary fraternity, laid down the principle that each member must be, to begin with, a socialist.
-
-Any consistent anarchist must oppose private ownership of the means of production and the wage-slavery which is a component of this system, as incompatible with the principle that labor must be freely undertaken and under the control of the producer. As Marx put it, socialists look forward to a society in which labor will "become not only a means of life, but also the highest want in life," an impossibility when the worker is driven by external authority or need rather than inner impulse. A consistent anarchist must oppose not only alienated labor but also the stupefying specialization of labor that takes place when the means for developing production mutilate the worker into a fragment of a human being, degrade him to become a mere appurtenance of the machine, make his work such a torment that its essential meaning is destroyed; estrange from him the intellectual potentialities of the labor process in very proportion to the extent to which science is incorporated into it as an independent power . . . 6
-
-Private ownership of the means of production is, in Proudhon's often-quoted phrase, merely a form of "theft"; it is "the exploitation of the weak by the strong."
-
-In his inevitable attack on the right of private ownership of the means of production, the anarchist takes his stand with those who struggle to bring about "the third and last emancipatory phase of history," the first having made slaves out of serfs, the second having made wage earners out of serfs, and the third which abolishes the proletariat in a final act of liberation that creates free and voluntary associations of producers (Fourier, 1848).7 The imminent danger to "civilization" was noted by that perceptive observer, de Tocqueville, also in 1848:
-
-As long as the right of property was the origin and groundwork of many other rights, it was easily defended-or rather it was not attacked; it was then the citadel of society while all the other rights were its outworks; it did not bear the brunt of attack and, indeed, there was no serious attempt to assail it. But today, when the right of property is regarded as the last undestroyed remnant of the aristocratic world, when it alone is left standing, the sole privilege in an equalized society, it is a different matter. Consider what is happening in the hearts of the working-classes, although I admit they are quiet as yet. It is true that they are less inflamed than formerly by political passions properly speaking; but do you not see that their passions, far from being political, have become social? Do you not see that, little by little, ideas and opinions are spreading amongst them which aim not merely at removing such and such laws, such a ministry or such a government, but a breaking up the very foundations of society itself? 8
-
-The workers of Paris, in 1870, broke the silence, and proceeded to abolish property, the basis of all civilization! Yes, gentlemen, the Commune intended to abolish that class property which makes the labor of the many the wealth of the few. It aimed at the expropriation of the expropriators. It wanted to make individual property a truth by transforming the means of production, land and capital, now chiefly the means of enslaving and exploiting labor, into mere instruments of free and associated labor.
-
-The Commune, of course, was drowned in blood. The nature of the "civilization" that the workers of Paris sought to overcome in their attack on "the very foundations of society itself" was revealed, once again, when the troops of the Versailles government reconquered Paris from its population. As Marx wrote, bitterly but accurately:
-
-The civilization and justice of bourgeois order comes out in its lurid light whenever the slaves and drudges of that order rise against their masters. Then this civilization and justice stand forth as undisguised savagery and lawless revenge . . . the infernal deeds of the soldiery reflect the innate spirit of that civilization of which they are the mercenary vindicators . . . The bourgeoisie of the whole world, which looks complacently upon the wholesale massacre after the battle, is convulsed by horror at the desceration of brick and mortar.9
-
-Despite the violent destruction of the Commune, Bakunin wrote that Paris opens a new era, "that of the definitive and complete emancipation of the popular masses and their future true solidarity, across and despite state boundaries . . . the next revolution of man, international and in solidarity, will be the resurrection of Paris"—a revolution that the world still awaits.
-
-The consistent anarchist, then, will be a socialist, but a socialist of a particular sort. He will not only oppose alienated and specialized labor and look forward to the appropriation of capital by the whole body of workers, but he will also insist that this appropriation be direct, not exercised by some élite force acting in the name of the proletariat. He will, in short, oppose the organization of production by the government. It means state socialism, the command of the State officials over production and the command of managers, scientists, shop officials in the shop . . . The goal of the working class is liberation from exploitation. This goal is not reached and cannot be reached by a new directing and governing class substituting itself for the bourgeoisie. It is only realized by the workers themselves being master over production.
-
-These remarks are taken from "Five Theses on the Class Struggle" by the left-wing Marxist Anton Pannekoek, one of the outstanding theorists of the Council Communist movement. And in fact, radical Marxism merges with anarchist currents.
-
-As a further illustration, consider the following characterization of "revolutionary socialism":
-
-The revolutionary Socialist denies that State ownership can end in anything other than a bureaucratic despotism. We have seen why the State cannot democratically control industry. Industry can only be democratically owned and controlled by the workers electing directly from their own ranks industrial administrative committees. Socialism will be fundamentally an industrial system; its constituencies will be of an industrial character. Thus those carrying on the social activities and industries of society will be directly represented in the local and central councils of social administration. In this way the powers of such delegates will flow upwards from those carrying on the work and conversant with the needs of the community. When the central administrative industrial committee meets it will represent every phase of social activity. Hence the capitalist political or geographical state will be replaced by the industrial administrative committee of Socialism. The transition from the one social system to the other will be the social revolution.
-
-## I
-
-The political State throughout history has meant the government of *men* by ruling classes; the Republic of Socialism will be the government of *industry* administered on behalf of the whole com-The former meant the economic and political subjection many; the latter will mean the economic freedom of all-it will be, therefore, a true democracy.
-
-These remarks are taken from William Paul's *The State, its Origins and Function,* written in early 1917 1°-shortly before Lenin's *State and Revolution,* perhaps his most libertarian work. Paul was a member of the Marxist-De Leonist Socialist Labor Party, and was later one of the founders of the British Communist Party,11 His critique of state socialism resembles the libertarian doctrine of the anarchists in its principle that since state ownership and management will lead to bureaucratic despotism, the social revolution must replace it by the industrial organization of society with direct workers' control. Many similar statements can be cited.
-
-What is far more important is that these ideas have been realized in spontaneous revolutionary action, for example in Germany and Italy after World War I and in Spain (specifically, industrial Barcelona) in 1936. One might argue that some form of council communism is the natural form of revolutionary *so*cialism in an industrial society. It reflects the intuitive understanding that democracy is largely a sham when the industrial system is controlled by any form of autocratic elite, whether of owners, managers and technocrats, a "vanguard" party, or a state bureaucracy. r Under these conditions of authoritarian domination the classical liberal ideals developed further by Marx and Bakunin and all true revolutionaries cannot be realized; man will not be free to develop his own potentialities to their fullest, and the producer will remain "a fragment of a human being," degraded, a tool in the productive process directed from above.
-
-The ideas of libertarian socialism, in this sense, have been submerged in the industrial societies of the past half-century. The dominant ideologies have been those of state socialism or state capitalism (in the United States, of an increasingly militarized character, for reasons that are not obscure12 ). But there has been a resurgence in the past few years. The theses I quoted by Anton Pannekoek were taken from a recent pamphlet of a radical French workers' group *(Informations Correspondance Ouvriere).* The quotation from William Paul on revolutionary socialism appears in a paper by Walter Kendall given at the National Conference on Workers' Control in Sheffield, England, in March 1969. The workers' control movement has become a significant force in England in the past few years. It has organized several conferences, has produced a substantial pamphlet literature, and counts among its active adherents representatives of some of the most important trade unions. The Amalgamated Engineering and Foundryworkers' Union, for example, has adopted, as official policy, the program of nationalization of basic industries under "workers' control at all levels." 13 On the continent, there are similar developments. May 1968, of course accelerated the growing interest in council communism and related ideas in France and Germany, as it did in England.
-
-Given the general conservative cast of our highly ideological society, it is not too surprising that the United States has been relatively untouched by these developments, but that too may change. The erosion of the Cold War mythology at least makes it possible to raise these questions in fairly broad circles. If the present wave of repression can be beaten back, if the Left can overcome its more suicidal tendencies and build upon what has been accomplished in the past decade, then the problem of how to organize industrial society on truly democratic lines, with democratic control in the work place and in the community, should become a dominant intellectual issue for those who are alive to the problems of contemporary society, and, as a mass movement for libertarian socialism develops, speculation should proceed to action.
-
-In his manifesto of 1865, Bakunin predicted that one element in the social revolution will be "that intelligent and truly noble part of the youth which, though belonging by birth to the privileged classes, in its generous convictions and ardent aspirations, adopts the cause of the people." Perhaps in the rise of the student movement of the 1960's one sees the beginnings of a fulfillment of this prophecy.
-
-## \_\_\_\_
-
-Daniel Guérin has undertaken what he describes elsewhere as a "process of rehabilitation" of anarchism. He argues, convincingly I believe, that "the constructive ideas of anarchism retain their vitality, that they may, when re-examined and sifted, assist contemporary socialist thought to undertake a new departure ... [and] ... contribute to enriching Marxism." 14 From the "broad back" of anarchism he has selected for more intensive scrutiny those ideas and actions that can be described as libertarian socialist. This is natural and proper. This framework accommodates the major anarchist spokesmen as well as the mass actions that have been animated by anarchist sentiments and ideals. Guérin is concerned not only with anarchist thought but also with the spontaneous actions of popular forces that actually create new social forms in the course of revolutionary struggle. He is concerned with social as well as intellectual creativity. Furthermore, he attempts to draw from the constructive achievements of the past lessons that will enrich the theory of social liberation. For those who wish not only to understand the world, but also to change it, this is the proper way to study the history of anarchism.
-
-Guérin describes the anarchism of the nineteenth century as essentially doctrinal, while the twentieth century, for the anarchists, has been a time of "revolutionary practice." 15 The present work reflects that judgment. His interpretation of anarchism consciously points toward the future. Arthur Rosenberg once noted that popular revolutions characteristically seek to replace "a feudal or centralized authority ruling by force" with some form of communal system which "implies the destruction and disappearance of the old form of State." Such a system will either be socialist or an "extreme form of democracy . . . [which is] . . . the preliminary condition for Socialism inasmuch as Socialism can only be realized in a world enjoying the highest possible measure of individual freedom." This ideal, he notes, was common to Marx and the anarchists.<sup>16</sup> This natural struggle for liberation runs counter to the prevailing tendency toward centralization in economic and political life. A century ago Marx wrote that the workers of Paris "felt there was but one alternativethe Commune, or the empire—under whatever name it might reappear."
-
-The empire had ruined them economically by the havoc it made of public wealth, by the wholesale financial swindling it fostered, by the props it lent to the artificially accelerated centralization of capital, and the concomitant expropriation of their own ranks. It had suppressed them politically, it had shocked them morally by its orgies, it had insulted their Voltarianism by handing over the education of their children to the *frères Ignorantins*, it had revolted their national feeling as Frenchmen by precipitating them headlong into a war which left only one equivalent for the ruins it made—the disappearance of the empire.<sup>17</sup>
+The empire had ruined them economically by the havoc it made of public wealth, by the wholesale financial swindling it fostered, by the props it lent to the artificially accelerated centralization of capital, and the concomitant expropriation of their own ranks. It had suppressed them politically, it had shocked them morally by its orgies, it had insulted their Voltarianism by handing over the education of their children to the *frères Ignorantins*, it had revolted their national feeling as Frenchmen by precipitating them headlong into a war which left only one equivalent for the ruins it made—the disappearance of the empire.17
 
 The miserable Second Empire "was the only form of government possible at a time when the bourgeoisie had already lost, and the working class had not yet acquired, the faculty of ruling the nation."
 
@@ -206,7 +162,7 @@ Rejection of authority and stress on the priority of individual judgment make it
 
 Just before he was sent to the guillotine, the terrorist Emile Henry wrote a letter to the governor of the prison where he was awaiting execution explaining: "Beware of believing anarchy to be a dogma, a doctrine above question or debate, to be venerated by its adepts as is the Koran by devout Moslems. No! the absolute freedom which we demand constantly develops our thinking and
 
-<sup>\* &</sup>quot;Authoritarian" was an epithet used by the libertarian anarchists and denoted those socialists whom they considered less libertarian than themselves and who they therefore presumed were in favor of authority.
+\* &quot;Authoritarian" was an epithet used by the libertarian anarchists and denoted those socialists whom they considered less libertarian than themselves and who they therefore presumed were in favor of authority.
 
 raises it toward new horizons (according to the turn of mind of various individuals), takes it out of the narrow framework of regulation and codification. We are not 'believers'!" The condemned man went on to reject the "blind faith" of the French Marxists of his period: "They believe something because Guesde\* has said one must believe it, they have a catechism and it would be sacrilege to question any of its clauses."
 
@@ -220,13 +176,13 @@ The anarchist terrorism of the end of the nineteenth century had dramatic and an
 
 This small book does not seek to duplicate the histories and bibliographies of anarchism already published. Their authors were scholars, mainly concerned with omitting no names and, fascinated by superficial similarities, they discovered numerous forerunners of anarchism. They gave almost equal weight to the genius and to his most minor follower, and presented an excess of biographical details rather than making a profound study of ideas. Their learned tomes leave the reader with a feeling of diffusion,
 
-<sup>\*</sup> Jules Guesde (1845-1922) in 1879 introduced Marxist ideas to the French workers' movement. (Translator's note.)
+\* Jules Guesde (1845-1922) in 1879 introduced Marxist ideas to the French workers' movement. (Translator's note.)
 
-<sup>†</sup> The term sociétaire is used to define a form of anarchism which repudiates individualism and aims at integration into society. (Translator's note.)
+† The term sociétaire is used to define a form of anarchism which repudiates individualism and aims at integration into society. (Translator's note.)
 
-<sup>\* &</sup>quot;Voline" was the pseudonym of V. M. Eichenbaum, author of La Révolution Inconnue 1917–1921, the third volume of which is in English as The Unknown Revolution (1955). Another partial translation is Nineteen-seventeen: The Russian Revolution Betrayed (1954). (Translator's note.)
+\* &quot;Voline" was the pseudonym of V. M. Eichenbaum, author of La Révolution Inconnue 1917–1921, the third volume of which is in English as The Unknown Revolution (1955). Another partial translation is Nineteen-seventeen: The Russian Revolution Betrayed (1954). (Translator's note.)
 
-<sup>†</sup> Alias of the French terrorist François-Claudius Koenigstein (1859–1892) who committed many acts of violent terrorism and was eventually executed. (Translator's note.)
+† Alias of the French terrorist François-Claudius Koenigstein (1859–1892) who committed many acts of violent terrorism and was eventually executed. (Translator's note.)
 
 almost incoherence, still asking himself what anarchism really is. I have tried a somewhat different approach. I assume that the lives of the masters of libertarian thought are known. In any case, they are often much less illuminating for our purpose than some writers imagine. Many of these masters were not anarchists throughout their lives and their complete works include passages which have nothing to do with anarchism.
 
@@ -292,7 +248,7 @@ Some anarchists consider themselves to be the best and most logical socialists, 
 
 Anarchism can be described first and foremost as a visceral revolt. The anarchist is above all a man in revolt. He rejects society as a whole along with its guardians. Max Stirner declared that the anarchist frees himself of all that is sacred, and carries out a vast operation of deconseera Hon. These "vagabonds of the intellect," these "bad characters," "refuse to treat as intangible truths things the influence of the International Anarchist Congress, held in London in 1881, and also of Johann Most, a social democrat turned anarchist, who reached America in 1882. Albert R. Parsons and Adolph Fischer were the in the. association, which took the lead in a huge mass move· ment concentrated on winning an eight·hour day. The campaign for this was launched by the trade unions and the Knights of Labor, and May 1, 1886, was fixed as the deadline for bringing the eight·hour day into force. During the first half of a nationwide strike involved 190,000 workers, of whom 80,000 were in Impressive mass demonstrations occurred in that city on May 1 and for several days thereafter. Panic·stricken and terrified by this wave of rebellion, the bourgeoisie resolved to crush the m Ovement at its source, to bloody provocation if need be. street meeting on May 4, in Haymarket Square, a bomb thrown at legs of the police in an unexplained manner provided the necessary Eight leaders of the revolutionary and libertarian socialist movement were arrested, seven of them sentenced to death, and four subsequently hanged (a fifth comlllitted suicide in his cell the day before the execution). Since then the Chicago martyrs-Parsons, Fischer, Engel, Spies, and Lingg-have be· longed to the international proletariat, and the universal celebration of May Day (May 1) still commemorates the atrocious crime committed in the United States.
 
-<sup>..</sup> In 1883 an active nucleus of revolutionary socialists founded an International Working Men's Association in the United States. They were under that give respite and consolation to thousands and instead leap over the barriers of tradition to indulge without restraint the fantasies of their impudent critique." \*
+.. In 1883 an active nucleus of revolutionary socialists founded an International Working Men's Association in the United States. They were under that give respite and consolation to thousands and instead leap over the barriers of tradition to indulge without restraint the fantasies of their impudent critique." \*
 
 Proudhon rejected all and any "official persons"—philosophers, priests, magistrates, academicians, journalists, parliamentarians, etc.—for whom "the people is always a monster to be fought, muzzled, and chained down; which must be led by trickery like the elephant or the rhinoceros; or cowed by famine, and which is bled by colonization and war." Elisée Reclust explained why society seems, to these well-heeled gentlemen, worth preserving: "Since there are rich and poor, rulers and subjects, masters and servants, Caesars who give orders for combat and gladiators who go and die, the prudent need only place themselves on the side of the rich and the masters, and make themselves into courtiers to the emperors."
 
@@ -316,9 +272,9 @@ Proudhon wrote in the same vein: "The government of man by man is servitude." "W
 
 To be governed is to be watched over, inspected, spied on, directed, legislated, regimented, closed in, indoctrinated, preached at, controlled, assessed, evaluated, censored, commanded; all by creatures that have neither the right, nor wisdom, nor virtue. . . . To be governed means that at every move, operation, or transaction one
 
-<sup>\*</sup> All quotations have been translated into English by the translator.
+\* All quotations have been translated into English by the translator.
 
-<sup>†</sup> French writer (1830-1905) known principally as a geographer. His brother Elie played an active part during the Commune of 1871. (Translator's note.)
+† French writer (1830-1905) known principally as a geographer. His brother Elie played an active part during the Commune of 1871. (Translator's note.)
 
 is noted, registered, entered in a census, taxed, stamped, priced, assessed, patented, licensed, authorized, recommended, admonished. prevented, reformed, set right, corrected. Government means to be subjected to tribute, trained, ransomed, exploited, monopolized, extorted, pressured, mystified, robbed; all in the name of public utility and the general good. Then, at the first sign of resistance or word of complaint, one is repressed, fined, despised, vexed, pursued, hustled, beaten up, garroted, imprisoned, shot, machinegunned, judged, sentenced, deported, sacrificed, sold, betrayed, and to cap it all, ridiculed, mocked, outraged, and dishonored. That is government, that is its justice and its morality! . . . O human personality! How can it be that you have cowered in such subjection for sixty centuries?"
 
@@ -370,7 +326,7 @@ By abolishing all private property communism makes me even more dependent on oth
 
 Proudhon was just as dissatisfied with the "governmental, dictatorial, authoritarian, doctrinaire communist system" which "starts from the principle that the individual is entirely subordinate to the collectivity." The communist idea of the State is exactly the same as that of the former masters and much less liberal: "Like an army that has captured the enemy's guns, com-
 
-<sup>\*</sup> Wilhelm Weitling (1808-1871), German utopian communist writer and founder of Communist Workers' Clubs during the 1830's and 1840's. (Translator's note.)
+\* Wilhelm Weitling (1808-1871), German utopian communist writer and founder of Communist Workers' Clubs during the 1830's and 1840's. (Translator's note.)
 
 munism has simply turned property's artillery against the army of property. The slave always apes his master." And Proudhon describes in the following terms the political system which he attributes to the communists:
 
@@ -400,9 +356,9 @@ Bakunin maliciously attributed to Marx and Engels ideas which these two men neve
 
 But, it will be said all the workers . . . cannot become scholars; and is it not enough that with this organization [the International] there is a group of men who have mastered the science, philosophy, and politics of socialism as completely as is possible in our day, so that the majority . . . can be certain of remaining on the right
 
-<sup>\*</sup> Guizot, a minister under Louis Philippe, was known for his extreme conservative views. (Translator's note.)
+\* Guizot, a minister under Louis Philippe, was known for his extreme conservative views. (Translator's note.)
 
-<sup>\*</sup> Followers of Auguste Blanqui (1805-1881), French socialist and revolutionary, advocate of insurrection by minorities. (Translator's note.)
+\* Followers of Auguste Blanqui (1805-1881), French socialist and revolutionary, advocate of insurrection by minorities. (Translator's note.)
 
 road to the final emancipation of the proletariat . . . simply by faithfully obeying their directions? . . . We have heard this line of reasoning developed by innuendo with all sorts of subtle and skillful qualifications but never openly expressed—they are not brave enough or frank enough for that.
 
@@ -438,7 +394,7 @@ Stirner exalted the intrinsic value of the unique individual, that is to say, on
 
 He wrote in a lively style, crackling with aphorisms: "Do not
 
-<sup>\*</sup> In his book The Ego and His Own.
+\* In his book The Ego and His Own.
 
 seek in self-renunciation a freedom which denies your very selves, but seek your own selves. . . . Let each of you be an all-powerful I." There is no freedom but that which the individual conquers for himself. Freedom given or conceded is not freedom but "stolen goods." "There is no judge but myself who can decide whether I am right or wrong." "The only things I have no right to do are those I do not do with a free mind." "You have the right to be whatever you have the strength to be." Whatever you accomplish you accomplish as a unique individual: "Neither the State, society, nor humanity can master this devil."
 
@@ -466,7 +422,7 @@ On the other hand, Proudhon rejected the individualistic utopianism that agglome
 
 Bakunin, also, was both an individualist and a socialist. He kept reiterating that a society could only reach a higher level by starting from the free individual. Whenever he enunciated rights which must be guaranteed to groups, such as the right to selfdetermination or secession, he was careful to state that the individual should be the first to benefit from them. The individual owes duties to society only in so far as he has freely consented to become part of it. Everyone is free to associate or not to associate, and, if he so desires, "to go and live in the deserts or the forests among the wild beasts." "Freedom is the absolute right of every human being to seek no other sanction for his actions but his own conscience, to determine these actions solely by his own will, and consequently to owe his first responsibility to himself alone." The society which the individual has freely chosen to join as a member appears only as a secondary factor in the above list of responsibil-
 
-<sup>\*</sup> Without direct mention of Stirner, whose work he may not, therefore, have read.
+\* Without direct mention of Stirner, whose work he may not, therefore, have read.
 
 ities. It has more duties to the individual than rights over him, and, provided he has reached his majority, should exercise "neither surveillance nor authority" over him, but owe him "the protection of his liberty."
 
@@ -580,7 +536,7 @@ It should be stressed that in the congresses of the First International the libe
 
 However, the optimism which Proudhon had expressed in 1848 with regard to self-management was to prove unjustified. Not many years later, in 1857, he severely criticized the existing workers' associations; inspired by naïve, utopian illusions, they had paid the price of their lack of experience. They had become narrow and exclusive, had functioned as collective employers, and had been carried away by hierarchical and managerial concepts. All the abuses of capitalist companies "were exaggerated further in these so-called brotherhoods." They had been torn by discord, rivalry, defections, and betrayals. Once their managers had learned the business concerned, they retired to "set up as bourgeois employers on their own account." In other instances, the members
 
-<sup>\*</sup> Cf. the 1963 decrees by which the Algerian Republic institutionalized the self-management which had been originated spontaneously by the peasants. The apportionment—if not the actual percentages—is very similar, and the last quarter, "to be divided among the workers," is the same as the "balance" over which there was controversy in Algeria.
+\* Cf. the 1963 decrees by which the Algerian Republic institutionalized the self-management which had been originated spontaneously by the peasants. The apportionment—if not the actual percentages—is very similar, and the last quarter, "to be divided among the workers," is the same as the "balance" over which there was controversy in Algeria.
 
 had insisted on dividing up the resources. In 1848 several hundred workers' associations had been set up; nine years later only twenty remained.
 
@@ -598,9 +554,9 @@ This so-called mutuelliste scheme was rather utopian and certainly difficult to 
 
 The idea of wages based on the number of hours worked is debatable on many grounds. The libertarian communists of the Kropotkin school-Malatesta, Elisée Reclus, Carlo Cafiero-did not fail to criticize it. In the first place, they thought it unjust. Cafiero argued that "three hours of Peter's work may be worth five of Paul's." Other factors than duration must be considered in determining the value of labor: intensity, professional and intellectual training, etc. The family commitments of the workers must also be taken into account.\* Moreover, in a collectivist regime the worker remains a wage slave of the community that
 
-<sup>\*</sup> Alleu is a feudal term for heritable inalienable property. The Germains were a German tribe in which individual freedom was highly developed. (Translator's note.)
+\* Alleu is a feudal term for heritable inalienable property. The Germains were a German tribe in which individual freedom was highly developed. (Translator's note.)
 
-<sup>\*</sup> Cf. a similar discussion in the Critique of the Gotha Programme, drafted by Karl Marx in 1875 though not published until 1891.
+\* Cf. a similar discussion in the Critique of the Gotha Programme, drafted by Karl Marx in 1875 though not published until 1891.
 
 buys and supervises his labor. Payment by hours of work performed cannot be an ideal solution; at best it would be a temporary expedient. We must put an end to the morality of account books, to the philosophy of "credit and debit." This method of remuneration, derived from modified individualism, is in contradiction to collective ownership of the means of production, and cannot bring about a profound revolutionary change in man. It is incompatible with anarchism; a new form of ownership requires a new form of remuneration. Service to the community cannot be measured in units of money. Needs will have to be given precedence over services, and all the products of the labor of all must belong to all, each to take his share of them freely. To *each according to his need* should be the motto of libertarian communism.
 
@@ -628,9 +584,9 @@ In Proudhon's view, however, the absence of competition would be no less pernici
 
 It is obvious that there was something utopian in this idea. Com-
 
-<sup>\*</sup> Cuba is today gropingly and prematurely trying to find the way to integral communism.
+\* Cuba is today gropingly and prematurely trying to find the way to integral communism.
 
-<sup>\*</sup> A state monopoly in France. (Translator's note.)
+\* A state monopoly in France. (Translator's note.)
 
 ## 54 *Anarchism*
 
@@ -684,7 +640,7 @@ In order to avoid falling back into the errors of centralized and bureaucratic a
 
 The followers of Bakunin showed no such balanced judgment of the necessary stages of historical development. In the 1880's they took the collectivist anarchists to task. In a critique of the precedent set by the Paris Commune of 1871, Kropotkin scolded
 
-<sup>\*</sup> A Swiss branch of the International which had adopted Bakunin's ideas.
+\* A Swiss branch of the International which had adopted Bakunin's ideas.
 
 the people for having "once more made use of the representative system within the Commune," for having "abdicated their own initiative in favor of an assembly of people elected more or less by chance," and he lamented that some reformers "always try to preserve this government by proxy at any price." He held that the representative system had had its day. It was the organized domination of the bourgeoisie and must disappear with it. "For the new economic era which is coming, we must seek a new form of political organization based on a principle quite different from representation." Society must find forms of political relations closer to the people than representative government, "nearer to self-government, to government of oneself by oneself."
 
@@ -706,51 +662,7 @@ The compromise which had been worked out was a long way from eliminating ambigui
 
 Since such public services are national in scale, it is obvious that they cannot be managed by the workers' associations alone, nor by the communes alone. Proudhon tried to solve the problem by "balancing" workers' management by some form of "public initiative," which he did not explain fully. Who was to administer the public services? The federation of the communes, answered the libertarians; the State, the authoritarians were tempted to reply.
 
-At the Brussels Congress of the International in 1874, the Belgian socialist Cesar de Paepe tried to bring about a compromise between the two conflicting views. Local public services would go to the communes to be run under the direction of the local administrative < ' services on a larger scale would be tra tion consisting of nominees of supervised by a regional chamber of labor, while those on a national scale would come under the "Workers' State," that is, a State "based on a combination of free workers' communes." The anarchists were suspicious of this ambiguous organization but de Paepe preferred to take this suspicion as a misunderstanding: was it not after all a verbal quarrel? If that was so he would be content to put the word "State" aside while keeping and even extending the actual thing "under the more pleasant disguise of some other term."
-
-Most of the libertarians thought that the report from the Brussels Congress amounted to a restoration of the State: they saw the "\Vorkers' State" turning inevitably into an "authoritarian State." If it was only a verbal quarrel they could not see why they should christen the new society without government by the very name used to describe the organization which was to be abolished. At a subsequent congress at Berne, in 1876, Malatesta admitted that the public services required a unique, centralized form of organization; but he refused to have them administered from above by a State. His adversaries seemed to him to confuse the State society, that "living organic body." In the following year, at the Universal Socialist Congress in Ghent, Cesar de Paepe admitted that his precious Workers' State or People's State "might for a period be no more than a State of wage earners," but that "must be no more than a transitional phase imposed by circumstances," after which the nameless, urgent masses would not to take over the means of production and put them in the of the workers' associations. The anarchists were not appeased this uncertain and distant perspective: what the State took over it would never give up.
-
-### FEDERALISM
-
-To sum up: the future libertarian society was to be endowed with a dual structure: economic, in the form of a federation of selfmanaging workers' associations; administrative, in the form of a federation of the communes. The final requirement was to crown and articulate this edifice with a concept of wider scope, which be extended to apply to the whole world: federalism.
-
-Proudhon's thought matured, the federalist idea was clarified and became predominant. One of his last writings bore the title Du *Principe Federatif et de la Necessite de Reconstituer de Parti de la Revolution* (1863) and, as previously mentioned, toward the end of his life he was more inclined to call himself a federalist than an anarchist. We no longer live in the age of small, ancient cities which, moreover, even in their time, sometimes came together on a federal basis. The problem of our time is that of administering large countries. Pr Olidhon commented: "If the State were never to extend beyond the area of a city or commune I would leave everyone to make his own judgment, and say no more. But we must not forget that it is a matter of vast conglomer ations of territory within which cities, towns, and villages can be counted by the thousand." No question of fragmenting society into microcosms. Unity is essential.
-
-It was, however, the intention of the authoritarians to rule these local groups by the laws of "conquest," to which Proudhon retorted: "I declare to them that this is completely impossible, by virtue of the very law of unity."
-
-All these groups . . . are indestructible organisms . . . which can no more divest themselves of their sovereign independence than a member of the city can lose his citizenship or prerogatives as a free man . . . . All that would be achieved . . . would be the creation of an irreconcilable antagonism between the general sovereignty and each of the separate sovereignties, setting authority against authority; in other words, while supposedly developing unity one would be organizing division.
-
-In such a system of "unitary absorption" the cities or natural groups "would always be condemned to lose their identity in the superior agglomeration, which one might call artificial." Centralization means "retaining in governmental relationship groups which are autonomous by their nature"; ". . . that is, for modern society, the true tyranny." It is a system of imperialism, communism, absolutism, thundered Proudhon, adding in one of those amalgamations of which he was a master: "All these words are synonyms."
-
-On the other hand, unity, real unity, centralization, real centralization, would be indestructible if a bond of law, a contract of mutuality, a pact of federation were concluded between the various territorial units:
-
-What really centralizes a society of free men . . . is the contract. Social unity . . . is the product of the free union of citizens . . . . For a nation to manifest itself in unity, this unity must be centralized . . . in all its functions and faculties; centralization must be created from the bottom up, from the periphery to the center, and all functions must be independent and self-governing. The more numerous its foci, the stronger the centralization will be.
-
-The federal system is the opposite of governmental centralization. The two principles of libertarianism and authoritarianism which are in perpetual conflict are destined to come to terms: "Federation resolves all the problems which arise from the need to combine liberty and authority. The French Revolution provided the foundations for a new order, the secret of which lies with its heir, the working class. This is the new order: to unite all the people in a 'federation of federations.'" This expression was not used carelessly: a universal federation would be too big; the large units must be federated between themselves. In his favorite prophetic style Proudhon declared: "The twentieth century will open the era of federations."
-
-Bakunin merely developed and strengthened the federalist ideas of Proudhon. Like Proudhon, he acclaimed the superiority of federal unity over authoritarian unity: "When the accursed power of the State is no longer there to constrain individuals, associations, communes, provinces, or regions to live together, they will be much more closely bound, will constitute a far more viable, real, and powerful whole than what they are at present forced into by the power of the State, equally oppressive to them all." The authoritarians "are always confusing . . . formal, dogmatic, and governmental unity with a real and living unity which can only derive from the freest development of all individuals and groups, and from a federal and absolutely voluntary alliance . . . of the workers' associations in the communes and, beyond the communes, in the regions, beyond the regions, in the nations."
-
-Bakunin stressed the need for an intermediate body between the commune and the national federal organ: the province or region, a free federation of autonomous communes. It must not, however, be thought that federalism would lead to egoism or isolation. Solidarity is inseparable from freedom: "While the communes remain absolutely autonomous, they feel . . . solidarity among themselves and unite closely without losing any of their freedom." In the modern world, moral, material, and intellectual interests have created real and powerful unity between the different parts of one nation, and between the different nations; that unity will outlive the State.
-
-Federalism, however, is a two-edged weapon. During the French Revolution the "federalism" of the Girondins was reactionary, and the royalist school of Charles Maurras advocated it under the name of "regionalism." In some countries, like the United States, the federal constitution is exploited by those who deprive men of color of their civil rights. Bakunin thought that socialism alone could give federalism a revolutionary content. For this reason his Spanish followers showed little enthusiasm for the bourgeois federalist party of Pi y Margall, which called itself Proudhonist, and even for its "cantonalist" left wing during the brief, and abortive, episode of the republic of 1873.\*
-
-#### INTERNATIONALISM
-
-The federalist idea leads logically to internationalism, that is to say, the organization of nations on a federal basis into the "large, fraternal union of mankind." Here again Bakunin showed up the bourgeois utopianism of a federal idea not based on international and revolutionary socialism. Far ahead of his time, he was a "European," as people say today; he called for and desired a United States of Europe, the only way "of making a civil war between the different peoples in the European family impossible." He was careful, however, to issue a warning against any European federation based on states "as they are at present constituted."
-
-"No centralized, bureaucratic, and hence military State, albeit caned a republic, could enter seriously and sincerely into an international federation. By its very constitution, such a State will always be an overt or covert denial of internal liberty, and hence, necessarily, a permanent declaration of war, a menace to the existence of neighboring countries." Any a11iance with a reactionary State would be a "betrayal of the revolution." The United States of Europe, first, and later, of the world, can only be set up after the overthrow of the old order which rests from top to bottom on violence and the principle of authority. On the other hand, if the social revolution takes place in anyone country, any foreign country which has made a revolution on the same principles should be received into a revolutionary federation regardless of existing state frontiers.
-
-True internationalism rests on self-determination, which implies the right of secession. Following Proudhon, Bakunin propounded that "each individual, each association, commune, or province, each region and nation, has the absolute right to determine its own fate, to assoc:;iate with others or not, to ally itself with whomever it will, or break any alliance, without regard to so-called historical claims or the convenience of its neighbors." "The right to unite freely and separate with the same freedom is the most important of all political rights, without which confederation will always be disguised centralization."
-
-Anarchists, however, did not regard this principle as leading to secession or isolation. On the contrary, they held "the conviction that once the right to secede is recognized, secession will, in fact, become impossible because national units will be freely established and no longer the product of violence and historical falsehood." Then, and then only, will they become "truly strong, fruitful, and perman en t."
-
-Later, Lenin, and the early congresses of the Third International, adopted this concept from Bakunin, and the Bolsheviks made it the foundation of their policy on nationalities and of their anticolonialist strategy-until they eventually belied it to turn to authoritarian centralization and disguised imperialism.
-
-## DECOLONIZATION
-
-It is noteworthy that logical deduction led the originators of federalism to a prophetic anticipation of the problems of decolonization. Proudhon distinguished the unit "based on conquest" from the "rational" unit and saw that "every organization that exceeds its true limits and tends to invade or annex other organizations loses in strength what it gains in size, and moves toward dissolution." The more a city (Le., a nation) extends its
-
-<sup>\*</sup> Pi Y Margall was a minister in the period between 1873 and 1874 when a republic was briefly established in Spain. (Translator's note.) When, in January 1937, Federica Montseny, a woman anarchist who had become a minister, praised the regionalism of Pi y MargalI, Gaston Leval replied that he was far from a faithful follower of Bakunin.
+At the Brussels Congress of the International in 1874, the Belgian socialist Cesar de Paepe tried to bring about a compromise between the two conflicting views. Local public services would go to the communes to be run under the direction of the local administrative \* Pi Y Margall was a minister in the period between 1873 and 1874 when a republic was briefly established in Spain. (Translator's note.) When, in January 1937, Federica Montseny, a woman anarchist who had become a minister, praised the regionalism of Pi y MargalI, Gaston Leval replied that he was far from a faithful follower of Bakunin.
 
 population or its territory, the nearer it comes to tyranny and, finally, disruption:
 
@@ -798,9 +710,9 @@ The social democrats were not slow to use the weapons against the anarchists fur
 
 For many years the socialist working-class movement was divided into irreconcilable segments: while anarchism slid into terrorism combined with passive waiting for the millennium, the political
 
-<sup>\*</sup> La Révolution Prolétarienne is a French monthly; Robert Louzon a veteran revolutionary syndicalist. (Translator's note.)
+\* La Révolution Prolétarienne is a French monthly; Robert Louzon a veteran revolutionary syndicalist. (Translator's note.)
 
-<sup>†</sup> Robert Louzon pointed out to the author that from a dialectic point of view this statement and that of Pelloutier are in no way mutually exclusive: terrorism had contradictory effects on the working-class movement.
+† Robert Louzon pointed out to the author that from a dialectic point of view this statement and that of Pelloutier are in no way mutually exclusive: terrorism had contradictory effects on the working-class movement.
 
 movement, more or less dishonestly claiming to be Marxist, became bogged down in "parliamentary cretinism." Pierre Monatte,. an anarchist who turned syndicalist, later recalled: "The revolutionary spirit in France was dying out . . . year by year. The revolutionary ideas of Guesde were now only verbal or, worse, electoral and parliamentary; those of Jaures simply, and very frankly, ministerial and governmental." In France, the divorce between anarchists and socialists was completed at the Le Havre Congress of 1880, when the newborn workers' party threw itself into electoral politics.
 
@@ -870,7 +782,7 @@ As early as October 20, 1917, at the first Congress of Factory Councils, a motio
 
 Workers' control in effect soon showed itself to be a half measure, halting and inefficient. The employers sabotaged it, concealed their stocks, removed tools, challenged or locked out the workers; sometimes they used the factory committees as simple
 
-<sup>\*</sup> A Bolshevik historian who later became a Stalinist.
+\* A Bolshevik historian who later became a Stalinist.
 
 factory committees, etc.); the abolition of officials in charge of manual trades, of the police and the army; the equality of salaries and remuneration; the participation of all members of the soviets in management and administration of the State; the complete elimination by stages of the said State and of the use of money. At the Trade-Union Congress (spring 1918), Lenin described the factories as "self-governing communes of producers and consumers." The anarcho-syndicalist Maximoff goes so far as to maintain that "the Bolsheviks had not only abandoned the theory of the gradual withering away of the State, but Marxist ideology in general. They had become some kind of anarchists."
 
@@ -886,7 +798,7 @@ The most clear-minded Russian anarchists were not misled by this view. At the pe
 
 Once they have consolidated and legalized their power, the Bolsheviks—who are socialists, politicians, and believers in the State, that is to say, centralist and authoritarian men of action-will begin to arrange the life of the country and the people by governmental and dictatorial means imposed from the centers . . . . Your soviets . . . will gradually become simply executive organs of the will of the central government. . . . An authoritarian political state apparatus will be set up and, acting from above, it will seek
 
-<sup>\*</sup> See page 77.
+\* See page 77.
 
 to crush everything with its iron fist ... Woe betide anyone who is not in agreement with the central authority.
 
@@ -964,7 +876,7 @@ When, in 1920, Makhno's men were brought to negotiate with the Bolsheviks, they 
 
 One of the relative weaknesses of the Makhnovist movement was its lack of libertarian intellectuals, but it did receive some in-
 
-<sup>\*</sup> Jacquerie was the name given to the French peasant revolt of 1358 (from Jacques, the nickname of the French peasant). (Translator's note.)
+\* Jacquerie was the name given to the French peasant revolt of 1358 (from Jacques, the nickname of the French peasant). (Translator's note.)
 
 termittent aid from outside. This carne first from Kharkov and Kursk where the anarchists, inspired by Voline, had in 1918 formed a union called N *abat* (the tocsin). In 1919 they held a congress at which they declared themselves "categorically and definitely opposed to any form of participation in the soviets, which have become purely political bodies, organized on an authoritarian, centralized, statist basis." The Bolshevik government regarded this statement as a declaration of war and the Nabat was forced to give up all its activities. Later, in July, Voline got through to Makhno's headquarters and joined with Peter Archinoff to take charge of the cultural and educational side of the movement. He presided at the congress held in October at Alexandrovsk, where the "General Theses" setting out the doctrine of the "free soviets" were adopted.
 
@@ -1040,7 +952,7 @@ Lastly, and most important, the anarchists were somewhat uneasy about the ambigu
 
 The Italian anarchists had begun by welcoming the Russian soviets with uncritical enthusiasm. On June 1, 1919, Camillo Bemeri, one of their number, had published an article entitled "Auto-Democracy" hailing the Bolshevik regime as "the most practical experiment in integral democracy on the largest scale yet attempted," and "the antithesis of centralizing state socialism."
 
-<sup>\*</sup> Debate among anarcho-syndicalists on the relative merits of factory councils and trade unions was, moreover, nothing new; it had recently divided the anarchists in Russia and even caused a split in the ranks of the editorial team in charge of the libertarian paper *Golos Truda,* some members remaining faithful to classical syndicalism while others, including G. P. Maximoff, opted for the councils.
+\* Debate among anarcho-syndicalists on the relative merits of factory councils and trade unions was, moreover, nothing new; it had recently divided the anarchists in Russia and even caused a split in the ranks of the editorial team in charge of the libertarian paper *Golos Truda,* some members remaining faithful to classical syndicalism while others, including G. P. Maximoff, opted for the councils.
 
 However, a year later, at the congress of the Italian Anarchist Union, Maurizio Garino was talking quite differently: the soviets which had been set up in Russia by the Bolsheviks were materially different from workers' self-management as conceived by the anarchists. They formed the "basis of a new State, inevitably centralized and authoritarian."
 
@@ -1066,7 +978,7 @@ Similarly, in Spain the anarcho-syndicalists were dazzled by the October Revolut
 
 By then, however, the love match was already on the way to breaking up. The delegate representing Spanish anarcho-syndicalism was pressed to take part in establishing an international revolu
 
-<sup>\*</sup> In April 1922, the KAPD set up a "Communist Workers International" with Dutch and Belgian opposition groups.
+\* In April 1922, the KAPD set up a "Communist Workers International" with Dutch and Belgian opposition groups.
 
 t The Spanish National Confederation of Labor.
 
@@ -1106,9 +1018,9 @@ This double base, both industrial and rural, had turned the libertarian communis
 
 Some had given their hearts to Kropotkin and his erudite but simplistic idealization of the communes of the Middle Ages which they identified with the Spanish tradition of the primitive peasant community. Their favorite slogan was the "free commune." Vari
 
-<sup>,.</sup> In France, for example, the trade unionists who followed Pierre Besnard were expelled from the ConU:deration Generale dll Travail Unitaire (obedient to the Communists) and, in 1924, founded the Confederation Generale du Travail Syndicaliste Revolutionnaire.
+,. In France, for example, the trade unionists who followed Pierre Besnard were expelled from the ConU:deration Generale dll Travail Unitaire (obedient to the Communists) and, in 1924, founded the Confederation Generale du Travail Syndicaliste Revolutionnaire.
 
-<sup>.. &#</sup>x27;Whereas in Castile and in the Asturias, etc., the social-democratic tradeunion center, the General Union of Workers (UGT) was predominant.
+.. &#x27;Whereas in Castile and in the Asturias, etc., the social-democratic tradeunion center, the General Union of Workers (UGT) was predominant.
 
 ous practical experiments in libertarian communism took place during the peasant insurrections which followed the foundation of the Republic in 1931. By free mutual agreement some groups of small-peasant proprietors decided to work together, to divide the profits into equal parts, and to provide for their own consumption by "drawing from the common poo1." They dismissed the municipal administrations and replaced them by elected committees, naively believing that they could free themselves from the surrounding society, taxation, and military service.
 
@@ -1128,7 +1040,7 @@ The proclamation of the Spanish Republic, in 1931, led to an outburst of "antici
 
 In 1932, the country doctor Isaac Puente published a rather naive and idealistic outline of libertarian communism; its ideas
 
-<sup>\*</sup> The CNT only agreed to the creation of industrial federations in 1931. In 1919 this had been rejected by the "pure" anarchists as leading toward centralism and bureaucracy; but it had become essential to reply to the concentration of capitalism by the concentration of the unions in a single industry. The large industrial federations were only really stabilized in 1937.
+\* The CNT only agreed to the creation of industrial federations in 1931. In 1919 this had been rejected by the "pure" anarchists as leading toward centralism and bureaucracy; but it had become essential to reply to the concentration of capitalism by the concentration of the unions in a single industry. The large industrial federations were only really stabilized in 1937.
 
 were taken up by the Saragossa congress of the CNT in May 1936. Puente himself had become the moving spirit of an insurrectionary committee in Aragon in 1933.
 
@@ -1172,7 +1084,7 @@ Thanks to this popular fury the military *putsch* was checked within the first t
 
 In Barcelona especially, there was nothing to prevent the workers' committees from seizing *de jure* the power which they were already exercising *de facto.* But they did not do so. For decades, Spanish anarchism had been warning the people against the deceptions of "politics" and emphasizing the primacy of the "economic." It had constantly sought to divert the people from
 
-<sup>&</sup>quot;Not to be confused with intermediate *political* forms, which the anarunlike the Marxists, reject.
+&quot;Not to be confused with intermediate *political* forms, which the anarunlike the Marxists, reject.
 
 a bourgeois democratic revolution in order to lead them to the social revolution through direct action. On the brink of the Revolution, the anarchists argued something like this: let the politicians do what they will; we, the "apolitical," will lay hands on the economy. On September 3, 1936, the CNT-FAI *Information Bulletin* published an article entitled "The Futility of Government," suggesting that the economic expropriation which was taking place would lead *ipso facto* to the "liquidation of the bourgeois State, which would die of asphyxiation."
 
@@ -1186,7 +1098,7 @@ Spanish anarchists had agreed to become integrated remained a bourgeois State wh
 
 The Spanish Revolution had taken place as the consequence of a proletarian counterattack against a counter-revolutionary *coup d'etat.* From the beginning the Revolution took on the character of self-defense, a military character, because of the necessity to oppose the cohorts of Colonel Franco with anti-fascist militia. Faced by a common danger, the anarchists thought that they had no choice but to join with all the other trade-union forces, and even political parties, which were ready to stand against the Franco rebellion. As the fascist powers increased their support for Franco, the anti-fascist struggle degenerated into a real war, a total war of the classical type. The libertarians could only take part in it by abandoning more and more of their principles, both political and military\_ They reasoned, falsely, that the victory of the Revolution could only be assured by first winning the war and, as Santillan was to admit, they "sacrificed everything" to the war. Berneri argued in vain against the priority of the war as such, and maintained that the defeat of Franco could only be insured a *revolutionary* war. To put a brake on the Revolution was, in fact, to weaken the strongest arm of the Republic: the active participation of the masses. An even more serious aspect of the matter was that Republican Spain, blockaded by the Western democracies and in grave danger from the advancing fascist troups, needed Russian military aid in order to survive. This aid was given on a two-fold condition: 1) the Communist Party must profit from it as much as possible, and the anarchists as little as possible; 2) Stalin wanted at any price to prevent the victory of a social revolution in Spain, not only because it would have been libertarian, but because it would have expropriated capital investments belonging to Britain which was presumed to
 
-<sup>\*</sup> The International Workers' Association to which the CNT was affiliated held a special congress in Paris, June II-B, 1937, at which the anarcho-syndicalist trade-union center was reproached for participating in government and for the concessions it had made in consequence. With this back-
+\* The International Workers' Association to which the CNT was affiliated held a special congress in Paris, June II-B, 1937, at which the anarcho-syndicalist trade-union center was reproached for participating in government and for the concessions it had made in consequence. With this back-
 
 ing, Sebastien Faure decided to publish a series of articles in the July 8, 15, and 22 issues of Le *Libertaire,* entitled "The Fatal Slope." These were severely critical of the decision of the Spanish anarchists to take part in government. The CNT was enraged and brought about the resignation of the secretary of the International Workers' Association, Pierre Besnard.
 
@@ -1212,7 +1124,7 @@ The communes were united into cantonal federations, above which were regional fe
 
 The extent of rural socialization was different in different provinces. As already said, Catalonia was an area of small- and mediumsized farms, and the peasantry had a strong individualistic tradition, so that here there were no more than a few pilot collectives. In Aragon, on the other hand, more than three-quarters of the land was socialized. The creative initiative of the agricultural workers in this region had been stimulated by a libertarian militia
 
-<sup>,. &</sup>quot;In theory," because there was some litigation between villages on this subject.
+,. &quot;In theory," because there was some litigation between villages on this subject.
 
 unit, the Durruti Column, passing through on its way to the northern front to fight the Franco troops, and by the subsequent establishment of a revolutionary authority created at the base, which was unique of its kind in Republican Spain. About 450 collectives were set up, with some half a million members. In the Levant region (five provinces, capital Valencia), the richest in Spain, some 900 collectives were established, covering 43 percent of the geographical area, 50 percent of citrus production, and 70 percent of the citrus trade. In Castile, about 300 collectives were created, with around 100,000 members. Socialization also made headway in Estremadura and part of Andalusia, while a few early attempts were quickly repressed in the Asturias.
 
@@ -1256,19 +1168,7 @@ It was the Stalinist minister of agriculture, Vicente Uribe, who had established
 
 Uribe discouraged the peasants from joining the collectives and fomented discontent against them. In December 1936 he made a speech directed to the individualist small proprietors, declaring that the guns of the Communist Party and the government were at their disposal. He gave them imported fertilizer which he was refusing to the collectives. Together with his Stalinist colleague, Juan Comorera, in charge of the economy of Catalonia, he brought the small- and medium-scale landowners together into a reactionary union, subsequently adding the traders and even some owners of large estates disguised as smallholders. They took the organization of food supplies for Barcelona away from the workers' unions and handed it over to private trade.
 
-Finally, when the advance guard of the Revolution in Barcelona· been crushed in May 1937,>1< the coalition government went so far as to liquidate agricultural self-management by military means. On the pretext that it had remained "outside the current of centralization," the Aragon "regional defense council" was dissolved by a decree of August 10, 1937. Its founder, Joaquin Ascaso, was charged with "selling jewelry," which was actually an attempt to get funds for the collectivcs. Soon after this, the II th Mobile Division of Commander Lister (a Stalinist), supported by tanks, went into action against the collectives. Aragon was invaded likc an enemy' country, those in charge of socialized enterprises wcre arrested, their premises occupicd, then closed; management committees were dissolved, communal shops emptied, furniture broken up, and flocks disbanded. The Communist press denounced "the crimes of forced collectivization." Thirty percent of the Aragon collectives were completely destroyed.
-
-Even by this brutality, however, Stalinism was not generally successful in forcing the peasants of Aragon to become private owners. Peasants had been forced at pistol point to sign decds of ownership, but as soon as the Lister Division had gone, these were destroyed and the collectives rebuilt. As C. Munis, the Spanish Trotskyist, wrote: "This was one of the most inspiring episodes of the Spanish Revolution. The peasants reaffirmed their socialist beliefs in spite of governmental terror and the economic boycott to which they were subjected."
-
-There was another, less heroic, reason for the restoration of the Aragon eollectives: the Communist Party had realized, after the event, that it had injured the life force of the rural economy, endangered the crops from lack of manpower, demoralized the fighters on the Aragon front, and dangerously reinforced the middle class of landed proprietors. The Party, therefore, tried to repair the damage it had itself done, and to revive some of the collectives. The new collectives, however, never regained the extent or quality of land of their predecessors, nor the original manpower, since many militants had been imprisoned or had sought shelter from persecution in the anarchist divisions at the front.
-
-Republicans carried out armed attacks of the same kind against agricultural self-management in the Levant, in Castile, and in the provinces of Huesca and Teruel. However, it survived, by hook or by crook, in many areas which had not yet fallen into the hands of the Franco troops, especially in the Levant.
-
-The ambiguous attitude, to put it mildly, of the Valencia government to rural socialism contributed to the defeat of the Spanish Republic: the poor peasants were not always clearly aware that it was in their interests to fight for the Republic.
-
-In spite of its successes, industrial self-management was sabotaged by the administrative bureaucracy and the authoritarian socialists. The radio and press launched a formidable preparatory campaign of denigration and calumny, questioning the honesty of the factory management councils. The Republican central government refused to grant any credit to Catalonian self-management even when the libertarian minister of the Catalonian economy, Fabregas, offered the billion pesetas of savings bank deposits as security. In June 1937, the Stalinist Comorera took over the portfolio of the economy, and deprived the self-managed factories of raw materials which he lavished on the private sector. He also failed to deliver to the socialist enterprises supplies which had been ordered for them by the Catalan administration.
-
-<sup>\*</sup> This refers to the time when the POUM (Partido Obrero Unido Marxista) together with rank·and·file anarchists came into armed conflict with the police and were defeated and crushed. (Translator's note.)
+Finally, when the advance guard of the Revolution in Barcelona· been crushed in May 1937,>1\* This refers to the time when the POUM (Partido Obrero Unido Marxista) together with rank·and·file anarchists came into armed conflict with the police and were defeated and crushed. (Translator's note.)
 
 The central government had a stranglehold over the collectives; the nationalization of transport made it possible for it to supply some and cut off all deliveries to others. Moreover, it imported Republican army uniforms instead of turning to the Catalonian textile collectives. On August 22, 1937, it passed a decree suspending the application of the Catalonian October 1936 socialization decree to the metal and mining industries. This was done on pretext of the necessities of nationat defense; and the Catalonian decree was said to be "contrary to the spirit of the Constitution." Foremen and managers who had been driven out by self-management, or rather, those who had been unwilling to accept technical posts in the self-managed enterprises, were brought back, fun of a desire for revenge.
 
@@ -1334,7 +1234,7 @@ The late Georges Gurvitch, a left-wing sociologist, came to a similar conclusion
 
 In Cuba the late state socialist Che Guevara had to quit the direction of industry, which he had run unsuccessfully owing to overcentralization. In *Cuba: Socialism and Development,* Rene Dumont, a French specialist in the Castro economy, deplores its
 
-<sup>\*</sup> As of July 1969.
+\* As of July 1969.
 
 "hypercentralization" and bureaucratization. He particularly emphasized the "authoritarian" errors of a ministerial department which tries to manage the factories itself and ends up with exactly the opposite results: "By trying to bring about a strongly centralized organization one ends up in practice . . . by letting any kind of thing be done, because one cannot maintain control over what is essential." He makes the same criticism of the state monopoly of distribution: the paralysis which it produces could have been avoided "if each production unit had preserved the function of supplying itself directly." "Cuba is beginning all over again the useless cycle of economic errors of the socialist countries," a Polish colleague in a very good position to know confided to Rene Dumont. The author concludes by abjuring the Cuban regime to turn to autonomous production units and, in agriculture, to federations of small farm-production cooperatives. He is not afraid to give the remedy a name, self-management, which could perfectly well be reconciled with planning. Unfortunately, the voice of Rene Dumont has not yet been heard in Havana.
 
@@ -1348,27 +1248,7 @@ The French historian of anarchism, Jean Maitron, simply confused "anarchy" and d
 
 In the preceding pages I have tried to show that this is not a true picture of anarchism. Bakunin's works best express the nature of constructive anarchism, which depends on organization, on selfdiscipline, on integration, on federalist and noncoercive centraliza
 
-<sup>&</sup>gt;I< James Joll recently wrote to the author that after reading this book he had to some extent revised his views.
-
-#### 154 *Anarchism*
-
-tion. It rests upon large-scale modern industry, up-to-date techniques, the modern proletariat, and internationalism on a world scale. In this regard it is of our times, and belongs to the twentieth century. It may well be state communism, and not anarchism, which is out of step with the needs of the contemporary world.
-
-In 1924 Joaquin Maurin reluctantly admitted that throughout the history of anarchism "symptoms of decline" had been "followed by sudden revival." The future may show that only in this reluctant admission was the Spanish Marxist a good prophet.
-
-## Postscript: **May 1968**
-
-It is some years since I first thought I had observed the beginning of a libertarian revolt among the youth of France. I was among those who watched with interest and, I must admit, with sympathy, the antics of young workers in conflict with society, at odds with the police and with all adults: the famous "black jackets," organized gangs of the working-class areas.
-
-Apart from these antisocial young people, I observed that our youth, in general, had no allegiance to anyone. Its obvious skepticism was neither detachment nor dilettantism, still less nihilism, but a comprehensive rejection of the false values of all its elders, be they bourgeois enamored of hierarchy and authority, or Stalinists, new Jesuits, obeying blindly the blindly obedient.
-
-In 1958, in a debate on youth on the French radio I sta ted: "Socialism is still alive in the hearts of the young but, if it is to attract them, it must break with the tragic terrors of Stalinism, it must appear in libertarian guise." The following year I published a collection of essays entitled *Jeunesse du Socialisme Libertaire,* '" and prefaced it with the following dedication to youth:
-
-"I dedicate these essays to you, youth of today.
-
-"I know that you turn your back on ideologies and 'isms: which have been made hollow by the failures of your elders. I know that you are deeply suspicious (and alas with much justification) about evcrything connected with 'politics: I know that the grand men who thought about the problem of society in the nineteenth century seem old bores to you. I know that you are justly skeptical of 'socialism,' which has been so often betrayed, so
-
-<sup>\*</sup> (Libertarian Socia1ist Youth), Paris, 1969.
+&gt;I\* (Libertarian Socia1ist Youth), Paris, 1969.
 
 brazenly botched up by its supporters. In replies made to an inquiry by the magazine *Nouvelle Vague* you gave the answer: 'A socialist future is not desirable because of the absolute subordination of the individual to a political idea, to the State.'
 
@@ -1388,7 +1268,7 @@ It drank greedily from the fountain of liberty. In all its meetings and forums o
 
 The libertarians took advantage of this situation of freedom to abandon their former insularity. They fought side by side with the revolutionary Marxists of authoritarian tendency, almost without animosity on either side, temporarily forgetting the frictions of the past. The black flag flew alongside the red flag, without competition or conflict, at least during the sharpest phase of the struggle when everything was subordinated to fraternal unity against the common enemy.
 
-<sup>\*</sup> "Wretched Conditions of Student Life"-title of a pamphlet published in France in 1967 by students of the University of Strasbourg.
+\* "Wretched Conditions of Student Life"-title of a pamphlet published in France in 1967 by students of the University of Strasbourg.
 
 All authority was repudiated or even derided. The myth of the providential old man of the Elysee was not so much undermined by serious argument as blown sky high by caricature and satire. The parliamentary talk-shop was negated by the mortal weapon of indifference: one of the long marches of the students through the capital happened to pass in front of the Palais Bourbon without even condescending to notice its existence.
 
@@ -1398,7 +1278,7 @@ Finally, this revolution so profoundly libertarian in spirit had the good fortun
 
 One last word. This short book which is now to be published in the United States, in English, became a best-seller in its country of origin during those weeks of regeneration, and has been, or is going to be, translated into ten languages. The author claims no credit for this; but is it not one of many signs of the renaissance of anarchism in France and the world, through a revolution which has only begun?
 
-<sup>\*</sup> Cohn-Bend it, being a German citizen, though born in France, was expelled from the country by the Gaullist regime (May 1968) and has not since been allowed to return to France.
+\* Cohn-Bend it, being a German citizen, though born in France, was expelled from the country by the Gaullist regime (May 1968) and has not since been allowed to return to France.
 
 ## Bibliography
 

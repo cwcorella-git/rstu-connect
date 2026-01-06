@@ -1,3 +1,8 @@
+---
+title: "MAN'S SEARCH FOR MEANING VIKTOR E. FRANKL"
+category: "contemporary-analysis"
+---
+
 # MAN'S SEARCH FOR MEANING VIKTOR E. FRANKL
 
 ## OAROLES, KUSHNER

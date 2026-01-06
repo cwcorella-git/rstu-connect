@@ -1,3 +1,8 @@
+---
+title: "## **Strike at a military airfield and other refusals to fight in Russia and Ukraine. Mid-autumn 202"
+category: "technology-digital-justice"
+---
+
 ## **Strike at a military airfield and other refusals to fight in Russia and Ukraine. Mid-autumn 2023**
 
 ## **Date:** Unknown

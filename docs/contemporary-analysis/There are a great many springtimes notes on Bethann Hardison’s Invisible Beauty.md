@@ -1,3 +1,8 @@
+---
+title: "## **There are a great many springtimes: notes on Bethann Hardison's Invisible Beauty**"
+category: "contemporary-analysis"
+---
+
 ## **There are a great many springtimes: notes on Bethann Hardison's Invisible Beauty**
 
 ## **Date:** 2024-09-12
@@ -35,20 +40,33 @@ After being scouted by Willie Smith while working in the garment district in New
 | Ugh |
 | . I spoil nothing. You simply must |
 | go and watch the movie. |
-| My first watch filled me with stars, the way she transitions from model to agent, and then<br>agency owner to continued and determined table-shaker within the world of high fashion.<br>While I so |
+| My first watch filled me with stars, the way she transitions from model to agent, and then
+agency owner to continued and determined table-shaker within the world of high fashion.
+While I so |
 | rarely |
-| have heroes, Hardison is far outside our typical Black success story. We feign surprise when<br>Black people with a desire to change systems "from the inside out" become comfortable. They<br>get bought out. A cool life of access quells their own fiery thirst for widespread, widely sown<br>freedom. We yawn and change the channel. The exact opposite happens with Bethann<br>Hardison. The world gives her more and with it, she pushes back more on the world. Thrilling<br>to watch. I'm especially glad |
+| have heroes, Hardison is far outside our typical Black success story. We feign surprise when
+Black people with a desire to change systems "from the inside out" become comfortable. They
+get bought out. A cool life of access quells their own fiery thirst for widespread, widely sown
+freedom. We yawn and change the channel. The exact opposite happens with Bethann
+Hardison. The world gives her more and with it, she pushes back more on the world. Thrilling
+to watch. I'm especially glad |
 | she |
-| told the story, rather than me finding out through various Instagram captions trending on<br>Twitter when she dies. |
-| My first viewing left me considering how little I think of Black representation in media as<br>something to strive for. Aurora James, designer and founder of the 15 % Pledge, is featured in<br>the film stating that generational distinction. |
+| told the story, rather than me finding out through various Instagram captions trending on
+Twitter when she dies. |
+| My first viewing left me considering how little I think of Black representation in media as
+something to strive for. Aurora James, designer and founder of the 15 % Pledge, is featured in
+the film stating that generational distinction. |
 
 | " |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | I mean, there |
 | ' |
-| s a lot of generational differences between us. I have a lot more leeway now than she had. To<br>some degree, like, she had to color within the lines. And now things have changed a little bit,<br>right? |
+| s a lot of generational differences between us. I have a lot more leeway now than she had. To
+some degree, like, she had to color within the lines. And now things have changed a little bit,
+right? |
 | … |
-| Like, representation when Bethann started was really about the runways and, you know, the<br>magazine covers and the advertising campaigns and to me, like, if you don |
+| Like, representation when Bethann started was really about the runways and, you know, the
+magazine covers and the advertising campaigns and to me, like, if you don |
 | ' |
 | t have a Black woman on your |
 | board |
@@ -60,27 +78,38 @@ After being scouted by Willie Smith while working in the garment district in New
 | Her memoir, Wildflower, |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | is also phenomenal. |
-| I wholeheartedly agree. It is not a true relay race if I turn around and run the same stretch my<br>predecessor just finished. If I am to push us forward, then the race I run looks more like<br>expanding |
+| I wholeheartedly agree. It is not a true relay race if I turn around and run the same stretch my
+predecessor just finished. If I am to push us forward, then the race I run looks more like
+expanding |
 | sovereignty |
-| rather than to expand access– but that's not to dismiss the previous work. Hardison didn't<br>quite know how the messaging of her advocacy work would be received, in saying "I'm not<br>trying to |
+| rather than to expand access– but that's not to dismiss the previous work. Hardison didn't
+quite know how the messaging of her advocacy work would be received, in saying "I'm not
+trying to |
 | help |
-| Black people, I am trying to educate white people," since white folks are the ones in charge<br>(and, truly, the ones actually in need of the help). Sure, now today that might be a bit cliché.<br>And: it's only cliché because she |
+| Black people, I am trying to educate white people," since white folks are the ones in charge
+(and, truly, the ones actually in need of the help). Sure, now today that might be a bit cliché.
+And: it's only cliché because she |
 | already did it. |
 | I, in all my youthful glory, can make grand declarations about representation falling short |
 | only |
-| because someone called Bethann checked that box off the to-do list. She made the Black<br>model a necessity and an expectation rather than a luxury or one happenstance occurrence.<br>The bar of representation has been cleared, and |
+| because someone called Bethann checked that box off the to-do list. She made the Black
+model a necessity and an expectation rather than a luxury or one happenstance occurrence.
+The bar of representation has been cleared, and |
 
-| well that I have never once imagined what it would be like to see Black people on runways. It<br>did not |
+| well that I have never once imagined what it would be like to see Black people on runways. It
+did not |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | occur |
 | to me to imagine that because there was |
 | nothing to imagine; |
-| this reality already exists in my plain sight (and always has, for my lifetime). Further, we take<br>up space in elite fashion not just because of people |
+| this reality already exists in my plain sight (and always has, for my lifetime). Further, we take
+up space in elite fashion not just because of people |
 | like |
 | her, but |
 | because |
 | of her. As she says in her own film, "There's not gonna be another Bethann." |
-| To be fair, I do believe my job as a young visionary pushes our politics forward. I have been<br>openly critical of representation politics because, as Dr. Ruha Benjamin said in her |
+| To be fair, I do believe my job as a young visionary pushes our politics forward. I have been
+openly critical of representation politics because, as Dr. Ruha Benjamin said in her |
 | viral Spelman commencement speech |
 | , "Black faces in high places will not save us." Such critiques notch, aim and fire themselves at |
 
@@ -117,29 +146,41 @@ The intergenerational beauty of the film comes out when I understand just how
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | of a career Hardison has. My mother helps me see how significant it is for |
 | her |
-| to witness someone like this. She currently heals from multiple myeloma, a cancer of the<br>plasma that has ushered her into early retirement. |
+| to witness someone like this. She currently heals from multiple myeloma, a cancer of the
+plasma that has ushered her into early retirement. |
 | The |
-| Miss Gwen (Miss Gwen tha Baddest as I so call her) at the moment… she sits down a lot. She<br>who is accustomed to frequent travel and hosting soirees and taking often delusional<br>adventures, now stays home most every day, except to go to her infusions. It's a huge change<br>for all of us. |
-| This weekend, we'd been talking about some projects she needs to hang up for a while in<br>order to focus on her healing. I could not understand her anxieties about working less,<br>especially as a young person who has the next forty years of laboring to look forward to.<br>Mummy has been working hard her whole life– I thought if there was ever a time she would<br>relish a break, it would be now. Watching |
+| Miss Gwen (Miss Gwen tha Baddest as I so call her) at the moment… she sits down a lot. She
+who is accustomed to frequent travel and hosting soirees and taking often delusional
+adventures, now stays home most every day, except to go to her infusions. It's a huge change
+for all of us. |
+| This weekend, we'd been talking about some projects she needs to hang up for a while in
+order to focus on her healing. I could not understand her anxieties about working less,
+especially as a young person who has the next forty years of laboring to look forward to.
+Mummy has been working hard her whole life– I thought if there was ever a time she would
+relish a break, it would be now. Watching |
 | Invisible Beauty |
 | allowed her to point and say, "That! |
 | That's |
 | what I want. I don't want to just shrivel up and die." |
 
-| I pause the movie and ask what she meant. "Bethann isn't dead, Mummy, I explain. "She's<br>alive and still |
+| I pause the movie and ask what she meant. "Bethann isn't dead, Mummy, I explain. "She's
+alive and still |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | so |
 | active. I think she's around Grandma's age now." |
 | "Yes, that's what I |
 | mean |
-| ." She gestures emphatically towards the screen again. "I don't want to just retire and then do<br>nothing and then get all old and small. I want to do |
+| ." She gestures emphatically towards the screen again. "I don't want to just retire and then do
+nothing and then get all old and small. I want to do |
 | that |
 | . How she just lives and lives. I still have so much life left in me." |
-| I didn't even think of that. I am twenty six years old, meaning: I am at once the oldest I have<br>ever thought I would be and excited to get |
+| I didn't even think of that. I am twenty six years old, meaning: I am at once the oldest I have
+ever thought I would be and excited to get |
 | older |
 | for the first time in my life. Little Ismatu was convinced and resigned to a fate of dying young. |
 | Invisible Beauty |
-| helps me comprehend just how vast and wide a life is, and how many times you have the<br>opportunity to make yourself new and beautiful in infinite iterations. |
+| helps me comprehend just how vast and wide a life is, and how many times you have the
+opportunity to make yourself new and beautiful in infinite iterations. |
 
 Watching this movie with my mum, who has said goodbye to pre-cancer Gwen and wades through this new life, helps me see the other central plot of the film: a girl who becomes a woman, who then becomes a matriarch. Bethann Hardison is the chief of her tribe and she loves us, the youth, such that she gave us the blueprints to archive her career within her life. She's a legendary fashion pillar. She could have made
 

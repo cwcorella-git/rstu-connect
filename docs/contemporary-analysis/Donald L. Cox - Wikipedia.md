@@ -1,3 +1,8 @@
+---
+title: "## [en.wikipedia.org](https://en.wikipedia.org/wiki/Donald_L._Cox)"
+category: "contemporary-analysis"
+---
+
 ## [en.wikipedia.org](https://en.wikipedia.org/wiki/Donald_L._Cox)
 
 ## **Donald L. Cox**
@@ -16,13 +21,19 @@ This article is about the 1960s Black Panther Party leader. For other people wit
 
 Cox (upper right) appearing on the cover of Newsweek on February 23, 1970. [Elbert "Big Man" Howard](https://en.wikipedia.org/wiki/Elbert_Howard) occupies the lower right.
 
-| Born | April 16, 1936<br>Appleton City, Missouri, United States |
+| Born | April 16, 1936
+Appleton City, Missouri, United States |
 |----------------|------------------------------------------------------------|
-| Died | February 19, 2011 (aged<br>74)<br>Camps-sur-l'Agly, France |
-| Other<br>names | DC |
+| Died | February 19, 2011 (aged
+74)
+Camps-sur-l'Agly, France |
+| Other
+names | DC |
 | Occupation | Political organizer |
 | Organization | Black Panther Party |
-| Known<br>for | Field Marshal of the Black Panther<br>Party, 1967–71 |
+| Known
+for | Field Marshal of the Black Panther
+Party, 1967–71 |
 ## | Spouse | Barbara Easley-Cox |
 
 **Donald Lee Cox** (April 16, 1936 – February 19, 2011), known as Field Marshal DC, was an early member of the leadership of the [African American](https://en.wikipedia.org/wiki/African_American) [revolutionary leftist](https://en.wikipedia.org/wiki/Far-left_politics) organization the [Black Panther Party,](https://en.wikipedia.org/wiki/Black_Panther_Party) joining the group in 1967. Cox was titled the [Field Marshal](https://en.wikipedia.org/wiki/Field_Marshal) of the group during the years he actively participated in its leadership, due to his familiarity with and writing about [guns.](https://en.wikipedia.org/wiki/Gun) [\[1\]](#page-5-0)

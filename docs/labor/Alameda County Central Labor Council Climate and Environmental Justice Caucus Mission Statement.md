@@ -1,3 +1,8 @@
+---
+title: "## **Alameda County Central Labor Council Climate and Environmental Justice Caucus Mission Statement"
+category: "labor"
+---
+
 ## **Alameda County Central Labor Council Climate and Environmental Justice Caucus Mission Statement**
 
 ## **Date:** Wed, 06/29/2016 - 18:37

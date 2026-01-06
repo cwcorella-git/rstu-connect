@@ -1,3 +1,8 @@
+---
+title: "**Green Union Organizing: Avoiding the "Jobs versus Environment" Trap**"
+category: "labor"
+---
+
 # **Green Union Organizing: Avoiding the "Jobs versus Environment" Trap**
 
 ## **Date:** Mon, 02/07/2022 - 00:00
@@ -32,14 +37,18 @@ The advice offered here is loosely based upon the spirit of one key part of the 
 | - building the forces to achieve our goals and build our collective power; |
 | Unionization |
 | - acheiveing and deepening our intended objectives. |
-| In the generalized scenario, discussed above, the front line communities opposing (continued,<br>expanded, or new) capitalist extractivism have likely already completed much of the general<br>overall (1) agitation and (2) education steps. |
+| In the generalized scenario, discussed above, the front line communities opposing (continued,
+expanded, or new) capitalist extractivism have likely already completed much of the general
+overall (1) agitation and (2) education steps. |
 | The focus of this piece is specifically |
 | (3) Inoculation |
 | |
 | Step 0: Proactively Build Solidarity with the Potentially Adversely Affected Workers [3] |
-| This may seem like a tall order, but fortunately history has provided a number of working<br>models. That's one of the purposes of the |
+| This may seem like a tall order, but fortunately history has provided a number of working
+models. That's one of the purposes of the |
 | IWW Environmental Union Caucus website |
-| : to provide examples of such things. The most extensively documented case we know of is<br>the work done by our late comrade |
+| : to provide examples of such things. The most extensively documented case we know of is
+the work done by our late comrade |
 
 #### Judi Bari
 
@@ -72,14 +81,20 @@ For example:
 | Renewable energy jobs |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | are |
-| often nonunion and pay less than unionized fossil fuel jobs (however, at one time all fossil fuel<br>jobs were low paying and non-union, until the fossil fuel workers organized unions); |
+| often nonunion and pay less than unionized fossil fuel jobs (however, at one time all fossil fuel
+jobs were low paying and non-union, until the fossil fuel workers organized unions); |
 | Carelessly planned alternatives often |
 | are |
-| worse than the status quo. Capitalist controlled, market based so-called "green" energy<br>projects are often just as bad as conventional fossil fuel energy projectsin different ways, of<br>course; |
+| worse than the status quo. Capitalist controlled, market based so-called "green" energy
+projects are often just as bad as conventional fossil fuel energy projectsin different ways, of
+course; |
 | Historically past transitions have rarely been |
 | just |
 | transitions |
-| (usually this is because labor costs are the first to be cut in order to maintain capitalist profits,<br>and elected officials often sacrifice workers issues in the horse-trading that goes on in the<br>complex legislative sausage making factories that comprise so-called "democratic" state<br>assemblies, congresses, parliaments, and/or senates); |
+| (usually this is because labor costs are the first to be cut in order to maintain capitalist profits,
+and elected officials often sacrifice workers issues in the horse-trading that goes on in the
+complex legislative sausage making factories that comprise so-called "democratic" state
+assemblies, congresses, parliaments, and/or senates); |
 
 No matter how well-intentioned, community activists cannot guarantee a just transition or speak it into existence. Such things have to be fought for and won through organizing, and that organizing must include at least some of the potentially affected union workers, otherwise its just pie-in-the-sky (and we all know that pie-in-the-sky is a lie).
 

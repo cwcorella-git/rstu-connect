@@ -1,3 +1,8 @@
+---
+title: "[prisonpolicy.org](https://www.prisonpolicy.org/blog/2017/04/10/wages/)"
+category: "contemporary-analysis"
+---
+
 [prisonpolicy.org](https://www.prisonpolicy.org/blog/2017/04/10/wages/)
 
 ## **How much do incarcerated people earn in each state?**
@@ -14,7 +19,13 @@ How much do incarcerated people earn? For this update, we combed through the [po
 
 Wages are per hour. Some states publish wage policies differently. For states that calculate wages on daily, weekly, monthly, and annual bases, I calculated the hourly rates based on work hours per day and work days per month, according to the written policies or what was reported in the 2001 Corrections Yearbook survey. For states where I could find no information on work hours, I assumed 22 work days per month and an average workday of 6.35 hours (for regular jobs) or 6.79 hours (for industry jobs) per day. I included all non-industry jobs paid by correctional agencies as "regular prison jobs" for the table, including rare and off-site jobs that pay more. In many states, most regular prison jobs pay well below the highest rates stated here. See the [Appendix](https://www.prisonpolicy.org/reports/wage_policies.html) for policy details.
 
-| | Regular<br>jobs<br>(non<br>industry) | | Jobs in state-owned<br>businesses<br>("Correctional<br>Industries") | |
+| | Regular
+jobs
+(non
+industry) | | Jobs in state-owned
+businesses
+("Correctional
+Industries") | |
 |-------------|--------------------------------------|------|---------------------------------------------------------------------|------|
 | | Low | High | Low | High |
 | Alabama | 0.00 | 0.00 | 0.25 | 0.75 |
@@ -25,7 +36,12 @@ Wages are per hour. Some states publish wage policies differently. For states th
 | Colorado | 0.13 | 0.38 | n/a | n/a |
 ## | Connecticut | 0.13 | 1.00 | 0.30 | 1.50 |
 
-| | Regular jobs<br>(non<br>industry) | | Jobs in state-owned<br>businesses<br>("Correctional<br>Industries") | | |
+| | Regular jobs
+(non
+industry) | | Jobs in state-owned
+businesses
+("Correctional
+Industries") | | |
 |---------------------------|-----------------------------------|------|---------------------------------------------------------------------|------|--|
 | Delaware | n/a | n/a | 0.25 | 2.00 | |
 | Florida | 0.00 | 0.32 | 0.20 | 0.55 | |
@@ -34,7 +50,9 @@ Wages are per hour. Some states publish wage policies differently. For states th
 | Idaho | 0.10 | 0.90 | n/a | n/a | |
 | Illinois | 0.09 | 0.89 | 0.30 | 2.25 | |
 | Indiana | 0.12 | 0.25 | n/a | n/a | |
-| ⇡<br>Show all states<br>⇣ | | | | | |
+| ⇡
+Show all states
+⇣ | | | | | |
 | Iowa | 0.27 | 0.68 | 0.58 | 0.87 | |
 | Kansas | 0.09 | 0.16 | 0.25 | 3.00 | |
 | Kentucky | 0.13 | 0.33 | n/a | n/a | |
@@ -44,7 +62,12 @@ Wages are per hour. Some states publish wage policies differently. For states th
 | Massachusetts | 0.14 | 1.00 | n/a | n/a | |
 ## | Michigan | 0.14 | 0.56 | n/a | n/a | |
 
-| | Regular jobs<br>(non<br>industry) | | Jobs in state-owned<br>businesses<br>("Correctional<br>Industries") | |
+| | Regular jobs
+(non
+industry) | | Jobs in state-owned
+businesses
+("Correctional
+Industries") | |
 |------------------|-----------------------------------|------|---------------------------------------------------------------------|------|
 | Minnesota | 0.25 | 2.00 | 0.50 | 2.00 |
 | Mississippi | 0.00 | n/a | 0.20 | 1.30 |
@@ -52,7 +75,8 @@ Wages are per hour. Some states publish wage policies differently. For states th
 | Montana | 0.16 | 1.25 | n/a | n/a |
 | Nebraska | 0.16 | 1.08 | 0.38 | 1.08 |
 | Nevada | n/a | n/a | 0.25 | 5.15 |
-| New<br>Hampshire | 0.25 | 1.50 | 0.50 | 1.50 |
+| New
+Hampshire | 0.25 | 1.50 | 0.50 | 1.50 |
 | New Jersey | 0.26 | 2.00 | 0.38 | 2.00 |
 | New Mexico | 0.10 | 1.00 | 0.30 | 1.10 |
 | New York | 0.10 | 0.33 | Average 0.62 | |
@@ -64,7 +88,12 @@ Wages are per hour. Some states publish wage policies differently. For states th
 | Pennsylvania | 0.19 | 1.00 | 0.19 | 0.42 |
 ## | Rhode Island | 0.29 | 0.86 | n/a | n/a |
 
-| | Regular jobs<br>(non<br>industry) | | Jobs in state-owned<br>businesses<br>("Correctional<br>Industries") | |
+| | Regular jobs
+(non
+industry) | | Jobs in state-owned
+businesses
+("Correctional
+Industries") | |
 |-----------------|-----------------------------------|------|---------------------------------------------------------------------|------|
 | South Carolina | 0.00 | 0.00 | 0.35 | 1.80 |
 | South Dakota | 0.25 | 0.38 | 0.25 | 0.25 |

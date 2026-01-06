@@ -1,3 +1,8 @@
+---
+title: "**Episode 35: The Symbol Sacredness And The Sacred/**"
+category: "contemporary-analysis"
+---
+
 # **Episode 35: The Symbol Sacredness And The Sacred/**
 
 **Source:** https://www.meaningcrisis.co/ep-35-awakening-from-the-meaning-crisis-the-symbol-sacredness-and-the-sacred/

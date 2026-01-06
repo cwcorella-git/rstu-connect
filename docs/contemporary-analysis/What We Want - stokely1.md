@@ -1,3 +1,8 @@
+---
+title: "What We Want"
+category: "contemporary-analysis"
+---
+
 ## SNCC
 
 # What We Want

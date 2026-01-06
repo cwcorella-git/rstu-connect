@@ -1,3 +1,8 @@
+---
+title: "## **Episode 24: Hegel/**"
+category: "contemporary-analysis"
+---
+
 ## **Episode 24: Hegel/**
 
 **Source:** https://www.meaningcrisis.co/ep-24-awakening-from-the-meaning-crisis-hegel/

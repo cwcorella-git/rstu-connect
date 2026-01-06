@@ -1,3 +1,8 @@
+---
+title: "## **Eco Wobbles: the Lesser Known Story about the Delta 5 Case**"
+category: "contemporary-analysis"
+---
+
 ## **Eco Wobbles: the Lesser Known Story about the Delta 5 Case**
 
 ## **Date:** Wed, 01/20/2016 - 21:59
@@ -80,7 +85,9 @@ Climate Activists on Trial: the Verdict is In, and it's a Near-Win
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Truthout |
 | , January 14, 2016 |
-| One of the Most Important Climate Change Trials in the Country Is Happening in Lynnwood<br>Right Now |
+| One of the Most Important Climate Change Trials in the Country Is Happening in Lynnwood
+Right Now |
 | - By Sydney Brownstone, The Stranger, January 14, 2016 |
 | Disclaimer: |
-| The views expressed here are not the official position of the IWW (or even the IWW's EUC)<br>and do not necessarily represent the views of anyone but the author's. |
+| The views expressed here are not the official position of the IWW (or even the IWW's EUC)
+and do not necessarily represent the views of anyone but the author's. |

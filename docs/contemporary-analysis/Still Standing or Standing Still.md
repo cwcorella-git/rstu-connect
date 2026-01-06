@@ -1,3 +1,8 @@
+---
+title: "**Still Standing or Standing Still?**"
+category: "contemporary-analysis"
+---
+
 # **Still Standing or Standing Still?**
 
 ## **Date:** Thu, 09/08/2016 - 11:12

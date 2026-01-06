@@ -1,3 +1,8 @@
+---
+title: "**Stasi**"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_2.jpeg)
 
 # **Stasi**
@@ -168,12 +173,29 @@ The MfS was organized into more than 40 different departments and branches, know
 
 ### **Directors**
 
-| No. | Portrait | Director | Took<br>office | Left<br>office | Time in office | Party |
+| No. | Portrait | Director | Took
+office | Left
+office | Time in office | Party |
 |-----|----------|----------------------------------------------------------------------------|------------------------|-----------------------------------|-----------------------|------------|
-| 1 | | <b>Wilhelm Zaisser</b><br>(1893-1958) | 8 February<br>1950 | 18 July 1953 | 3 years,<br>160 days | SED |
-| 2 | | <u>Ernst Wollweber</u><br>(1898-1967) | 18 July 1953 | 24<br>November<br>1955 | 2 years,<br>129 days | <u>SED</u> |
-| 3 | | <u>Erich Mielke</u><br>(1907-2000) | 11<br>December<br>1957 | 7 November<br>1989 | 31 years,<br>331 days | <u>SED</u> |
-| 4 | | Wolfgang Schwanitz (1930-2022) As Head of the Office for National Security | 18<br>November<br>1989 | 11 January<br>1990 <sup>[a]</sup> | 54 days | SED |
+| 1 | | Wilhelm Zaisser
+(1893-1958) | 8 February
+1950 | 18 July 1953 | 3 years,
+160 days | SED |
+| 2 | | Ernst Wollweber
+(1898-1967) | 18 July 1953 | 24
+November
+1955 | 2 years,
+129 days | SED |
+| 3 | | Erich Mielke
+(1907-2000) | 11
+December
+1957 | 7 November
+1989 | 31 years,
+331 days | SED |
+| 4 | | Wolfgang Schwanitz (1930-2022) As Head of the Office for National Security | 18
+November
+1989 | 11 January
+1990 [a] | 54 days | SED |
 
 #### **Timeline**
 

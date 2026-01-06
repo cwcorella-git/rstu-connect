@@ -1,3 +1,8 @@
+---
+title: "**Judea**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Judea)
 
 # **Judea**
@@ -18,12 +23,17 @@
 
 [Wikimedia](https://foundation.wikimedia.org/wiki/Maps_Terms_of_Use) | © [Open Street Map](https://www.openstreetmap.org/copyright)
 
-| Coordinates:<br>31°40′N<br>35°00′E / 31.667°N 35.000°E | | | | | |
+| Coordinates:
+31°40′N
+35°00′E / 31.667°N 35.000°E | | | | | |
 |--------------------------------------------------------|---------------------------|--|--|--|--|
 | Location | Southern Levant | | | | |
 | Part of | • Palestine | | | | |
 | | • Israel | | | | |
-| Highest<br>elevation | 1,020<br>m or 3,350<br>ft | | | | |
+| Highest
+elevation | 1,020
+m or 3,350
+ft | | | | |
 ## | | (Mount Hebron) | | | | |
 
 **Judea** or **Judaea** ([;\[1\]](#page-18-0) [Hebrew:](https://en.wikipedia.org/wiki/Hebrew_language) הדוהי , [Modern:](https://en.wikipedia.org/wiki/Modern_Hebrew) Yəhūda,
@@ -34,13 +44,13 @@ The term *Judea* was used by English speakers for the hilly internal part of Man
 
 # **Etymology**
 
-The name *Judea* is a Greek and <u>Roman</u> adaptation of the Hebrew name Yehudah (Hebrew יהודה, '<u>Judah</u>'), which originally encompassed the territory of the <u>Israelite</u> tribe of that name and later of the ancient <u>Kingdom of Judah</u>. <u>Nimrud Tablet</u> <u>K.3751</u>, dated <u>c.</u> 733 BCE, is the earliest known extra-biblical record of the name Judah (written in <u>Assyrian cuneiform</u> as Yaudaya or KUR.ia-ú-da-a-a).
+The name *Judea* is a Greek and Roman adaptation of the Hebrew name Yehudah (Hebrew יהודה, 'Judah'), which originally encompassed the territory of the Israelite tribe of that name and later of the ancient Kingdom of Judah. Nimrud Tablet K.3751, dated c. 733 BCE, is the earliest known extra-biblical record of the name Judah (written in Assyrian cuneiform as Yaudaya or KUR.ia-ú-da-a-a).
 
 Judea was sometimes used as the name for the entire region, including parts beyond the river Jordan. [12] In 200 CE Sextus Julius Africanus, cited by Eusebius (Church History 1.7.14), described "Nazara" (Nazareth) as a village in Judea. [13] The King James Version of the Bible refers to the region as "Jewry". [14]
 
 'Judea' was a name used by English speakers for the hilly internal part of Mandatory Palestine until the Jordanian rule of the area in 1948. For example, the borders of the two states to be established according to the UN's 1947 partition scheme [6]
 
-were officially described using the terms 'Judea' and 'Samaria' and in its reports to the League of Nations Mandatory Committee, as in 1937, the geographical terms employed were 'Samaria and Judea.'[7] Jordan called the area aq-qiffa algharbiya (الضِفَّة الغَرْبيَّة translated into English as 'the West Bank').[8] 'Yehuda' (יהודה) is the Hebrew term used for the area in modern <u>Israel</u> since the region was captured and occupied by Israel in the 1967 Six Day War. [9] According to Britannica, referring to this region as 'Judea and Samaria' (יהודה ושומרון, Yehuda Ve Shomron) has been associated with the right wing in Israeli politics, which does not support a two state solution to the Israeli-Palestinian conflict.[11] The term 'West Bank' is what appears on international treaties such as the Oslo Accords established between the <u>Palestine Liberation Organization</u> and the Israeli government.[11] The names "West Bank" (הַגַּדַה ָהַמֵּעַרַבִּית, *Ha Gadah Ha Ma ʿaravit*) or, alternatively, "<u>the</u> Territories" (השטחים, *Ha Shtahim*) are also current in Israeli usage. Generally, preference for one term over the other indicates the speaker's position on the Israeli political spectrum.
+were officially described using the terms 'Judea' and 'Samaria' and in its reports to the League of Nations Mandatory Committee, as in 1937, the geographical terms employed were 'Samaria and Judea.'[7] Jordan called the area aq-qiffa algharbiya (الضِفَّة الغَرْبيَّة translated into English as 'the West Bank').[8] 'Yehuda' (יהודה) is the Hebrew term used for the area in modern Israel since the region was captured and occupied by Israel in the 1967 Six Day War. [9] According to Britannica, referring to this region as 'Judea and Samaria' (יהודה ושומרון, Yehuda Ve Shomron) has been associated with the right wing in Israeli politics, which does not support a two state solution to the Israeli-Palestinian conflict.[11] The term 'West Bank' is what appears on international treaties such as the Oslo Accords established between the Palestine Liberation Organization and the Israeli government.[11] The names "West Bank" (הַגַּדַה ָהַמֵּעַרַבִּית, *Ha Gadah Ha Ma ʿaravit*) or, alternatively, "the Territories" (השטחים, *Ha Shtahim*) are also current in Israeli usage. Generally, preference for one term over the other indicates the speaker's position on the Israeli political spectrum.
 
 ### **Historical boundaries**
 
@@ -182,27 +192,80 @@ Judea, in the generic sense, also incorporates places in Galilee and in Samaria.
 
 | Place Names of Judea | | | |
 |----------------------|-----------------------------------------------------|------------------------------------------------------------------------|---------------------|
-| English | Hebrew<br>(Masoretic,<br>7th–10th<br>century<br>CE) | Greek<br>(Josephus,<br>LXX, 3rd<br>century BCE –<br>1st century<br>CE) | Latin |
-| Jerusalem | םלשורי | Ιερουσαλήμ | Herusalem<br>(Aelia |
+| English | Hebrew
+(Masoretic,
+7th–10th
+century
+CE) | Greek
+(Josephus,
+LXX, 3rd
+century BCE –
+1st century
+CE) | Latin |
+| Jerusalem | םלשורי | Ιερουσαλήμ | Herusalem
+(Aelia |
 
 | | | | Capitolina) | |
 |----------------------------------|-------------------------------|------------------------------------------------------|--------------------------|------------------------|
-| Jericho | וחירי | Ίεριχω | Hiericho /<br>Herichonte | احيرأ |
-| Shechem<br>/ Nablus | םכש | Νεάπολις<br>(Neapolis) | Neapoli | سلبان<br>(Nablus) |
-| Jaffa | ופי | Ἰόππῃ | Ioppe | َا<br>فا |
-| Ascalon | ןולקשא | Ἀσκάλων<br>(Askálōn) | Ascalone | لاَقَن<br>(Asqalān) |
-| Beit<br>Shean | ןאש<br>תיב | Σκυθόπολις<br>(Scythopolis)<br>Βαιθσάν<br>(Beithsan) | Scytopoli | ناسيب<br>(Beisan) |
-| Beth<br>Gubrin /<br>Maresha | ןירבוג<br>תיב | Ἐλευθερόπολις<br>(Eleutheropolis) | Betogabri | نيربج<br>(Bayt Jibrin) |
-| Kefar<br>Othnai | )<br>ןויגל<br>רפכ (<br>יאנתוע | xxx | Caporcotani<br>(Legio) | نو<br>Lajjûn) |
-| Peki'in | ןיעיקפ | Βακὰ[55] | xxx | ةعيقبلا<br>Buqei'a) |
+| Jericho | וחירי | Ίεριχω | Hiericho /
+Herichonte | احيرأ |
+| Shechem
+/ Nablus | םכש | Νεάπολις
+(Neapolis) | Neapoli | سلبان
+(Nablus) |
+| Jaffa | ופי | Ἰόππῃ | Ioppe | َا
+فا |
+| Ascalon | ןולקשא | Ἀσκάλων
+(Askálōn) | Ascalone | لاَقَن
+(Asqalān) |
+| Beit
+Shean | ןאש
+תיב | Σκυθόπολις
+(Scythopolis)
+Βαιθσάν
+(Beithsan) | Scytopoli | ناسيب
+(Beisan) |
+| Beth
+Gubrin /
+Maresha | ןירבוג
+תיב | Ἐλευθερόπολις
+(Eleutheropolis) | Betogabri | نيربج
+(Bayt Jibrin) |
+| Kefar
+Othnai | )
+ןויגל
+רפכ (
+יאנתוע | xxx | Caporcotani
+(Legio) | نو
+Lajjûn) |
+| Peki'in | ןיעיקפ | Βακὰ[55] | xxx | ةعيقبلا
+Buqei'a) |
 | Jamnia | הנבי | Ιαμνεία | Iamnia | ىنبي |
-| Samaria /<br>Sebaste | יטסבס<br>/<br>ןורמוש | Σαμάρεια<br>/<br>Σεβαστή | Sebaste | ةيطسبس<br>(Sabastiyah) |
-| Paneas /<br>Caesarea<br>Philippi | סיינפ | Πάνειον<br>(Καισαρεία<br>Φιλίππεια) | Cesareapaneas | سايناب<br>(Banias) |
+| Samaria /
+Sebaste | יטסבס
+/
+ןורמוש | Σαμάρεια
+/
+Σεβαστή | Sebaste | ةيطسبس
+(Sabastiyah) |
+| Paneas /
+Caesarea
+Philippi | סיינפ | Πάνειον
+(Καισαρεία
+Φιλίππεια) | Cesareapaneas | سايناب
+(Banias) |
 
 | | | (Paneion) | | |
 |---------------------|-------|------------------------------------------|----------|-------------------|
-| Acre /<br>Ptolemais | וכע | Πτολεμαΐς<br>(Ptolemais)<br>Ἀκχώ (Akchó) | Ptoloma | ا<br>كع |
-| Emmaus | סואמא | Ἀμμαοῦς<br>(Νικορολις)<br>(Nicopolis) | Nicopoli | ساومع<br>('Imwas) |
+| Acre /
+Ptolemais | וכע | Πτολεμαΐς
+(Ptolemais)
+Ἀκχώ (Akchó) | Ptoloma | ا
+كع |
+| Emmaus | סואמא | Ἀμμαοῦς
+(Νικορολις)
+(Nicopolis) | Nicopoli | ساومع
+('Imwas) |
 
 # **See also**
 

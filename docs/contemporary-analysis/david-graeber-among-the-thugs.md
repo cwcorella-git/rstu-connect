@@ -1,21 +1,8 @@
 ---
-title: Among the Thugs
-author: David Graeber
-date: Sept. 3rd 2001
-pubdate: '2022-09-30T04:42:11'
-language: en
-source_url: '9/30/22 from https://inthesetimes.com/article/among-the-thugs'
-notes: >-
-  See also: David Graeber Institute [[https://davidgraeber.institute/]] &
-  [[https://davidgraeber.org/]]
-original_format: muse
-converted_date: '2025-11-08T11:25:02.995443'
-tags:
-  - theory
-  - contemporary
-  - unions
-  - rent
-  - police
+title: "Among the Thugs"
+author: "David Graeber"
+date: "Sept. 3rd 2001"
+category: "contemporary-analysis"
 ---
 
 SEPTEMBER 3, 2001

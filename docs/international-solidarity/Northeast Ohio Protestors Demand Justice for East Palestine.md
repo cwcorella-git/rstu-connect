@@ -1,15 +1,27 @@
+---
+title: "## **Northeast Ohio Protestors Demand Justice for East Palestine**"
+category: "international-solidarity"
+---
+
 ## **Northeast Ohio Protestors Demand Justice for East Palestine**
 
 | Date: Tue, 06/20/2023 - 00:00 |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Source: https://ecology.iww.org/node/5809|
-| Tags: Class I Railroads, transportation infrastructure, nationalization, toxics, health and safety,<br>Railroad Workers United (RWU), Ohio, green unionism, capital blight, Norfolk Southern (NS) |
+| Tags: Class I Railroads, transportation infrastructure, nationalization, toxics, health and safety,
+Railroad Workers United (RWU), Ohio, green unionism, capital blight, Norfolk Southern (NS) |
 | By x409232 - |
 | Industrial Worker |
 | , June 20, 2023 |
-| At about one o'clock on Saturday, March 11, at least 40 local residents and activists gathered<br>in Lisbon, Ohio to demand justice for East Palestine. They focused their protest on rail giant<br>Norfolk Southern and its role in the derailing of the train on Feb. 3, 2023. |
-| The seat of Columbiana County, Lisbon is less than 20 miles from the now infamous East<br>Palestine. The afternoon air was cold but not biting – typical March weather here in the<br>Mahoning Valley. But the atmosphere was tense. |
-| People had joined together to show their anger at Norfolk Southern and determination to<br>make them pay for damages. They held signs and distributed info about community actions to<br>get more people involved. They also |
+| At about one o'clock on Saturday, March 11, at least 40 local residents and activists gathered
+in Lisbon, Ohio to demand justice for East Palestine. They focused their protest on rail giant
+Norfolk Southern and its role in the derailing of the train on Feb. 3, 2023. |
+| The seat of Columbiana County, Lisbon is less than 20 miles from the now infamous East
+Palestine. The afternoon air was cold but not biting – typical March weather here in the
+Mahoning Valley. But the atmosphere was tense. |
+| People had joined together to show their anger at Norfolk Southern and determination to
+make them pay for damages. They held signs and distributed info about community actions to
+get more people involved. They also |
 | gave testimony |
 | for the news cameras. |
 
@@ -58,12 +70,15 @@ Nothing has changed since. Just days after the tracks were cleared, my wife repo
 | . The danger has not passed. The company and the government clearly do not care. |
 | Property values have bottomed out, leading to |
 | calls for Norfolk Southern to compensate locals |
-| with billions of dollars in damages. The Ohio Peace Council has put out a petition calling for<br>Norfolk Southern to buy properties from anyone who wants to move. (Yours truly has signed<br>it, and I |
+| with billions of dollars in damages. The Ohio Peace Council has put out a petition calling for
+Norfolk Southern to buy properties from anyone who wants to move. (Yours truly has signed
+it, and I |
 | encourage you to sign it |
 | , too.) Costs to residents |
 | continue to mount |
 | in the meantime and at least 100 students have opted to return to school remotely. |
-| Even that may work in the company's favor, a local has pointed out to me, if it sells or rents<br>the land for more industrial use. Of course, that doesn't mean it shouldn't be done. There are |
+| Even that may work in the company's favor, a local has pointed out to me, if it sells or rents
+the land for more industrial use. Of course, that doesn't mean it shouldn't be done. There are |
 
 real people enduring real trauma and suffering, and they must be helped even if a corporation takes advantage of it. But under capitalism, even public restitution is profitable!
 
@@ -117,5 +132,6 @@ River Valley Organizing is handling much of the organizing and relief efforts on
 | |
 | Add your name to |
 | the Ohio Peace Council's petition |
-| to pressure Norfolk Southern to pay for properties and relocations for any locals who want to<br>move. |
+| to pressure Norfolk Southern to pay for properties and relocations for any locals who want to
+move. |
 ## | |

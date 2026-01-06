@@ -1,13 +1,8 @@
 ---
-title: History of Union Busting in the United States Wikipedia
-date: 2025
-author: Wikipedia
-tags:
-  - organizing
-  - strikes
-  - unions
-  - rent
-  - police
+title: "History of Union Busting in the United States Wikipedia"
+author: "Wikipedia"
+date: "2025"
+category: "labor"
 ---
 
 # History of Union Busting in the United States Wikipedia

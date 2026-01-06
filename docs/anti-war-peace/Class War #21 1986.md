@@ -1,3 +1,8 @@
+---
+title: "## **Class War #21 1986**"
+category: "anti-war-peace"
+---
+
 ## **Class War #21 1986**
 
 ## **Date:** Unknown

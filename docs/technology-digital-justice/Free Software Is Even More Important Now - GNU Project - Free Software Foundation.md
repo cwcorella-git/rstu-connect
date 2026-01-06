@@ -1,24 +1,29 @@
+---
+title: "**Free Software Is Even More Important Now**"
+category: "technology-digital-justice"
+---
+
 # **Free Software Is Even More Important Now**
 
-*by [Richard Stallman <https://www.stallman.org/>](https://www.stallman.org/)*
+*by [Richard Stallman ](https://www.stallman.org/)*
 
 Since 1983, the Free Software Movement has campaigned for computer users' freedom—for users to control the software they use, rather than vice versa. When a program respects users' freedom and community, we call it "free software."
 
 We also sometimes call it "libre software" to emphasize that we're talking about liberty, not price. Some proprietary (nonfree) programs, such as Photoshop, are very expensive; others, such as the Uber app, are available gratis—but that's a minor detail. Either way, they give the program's developer power over the users, power that no one should have.
 
-*Watch a [14-min video presentation <https://www.fsf.org/blogs/rms/20140407-geneva-tedx-talk-free-software-free](https://www.fsf.org/blogs/rms/20140407-geneva-tedx-talk-free-software-free-society/)[society/>](https://www.fsf.org/blogs/rms/20140407-geneva-tedx-talk-free-software-free-society/) of these ideas.*
+*Watch a [14-min video presentation ](https://www.fsf.org/blogs/rms/20140407-geneva-tedx-talk-free-software-free-society/) of these ideas.*
 
-Those two nonfree programs have something else in common: they are both *malware*. That is, both have functionalities designed to mistreat the user. Proprietary software nowadays is often malware because [the](https://www.gnu.org/malware) [developers' power corrupts them </malware>.](https://www.gnu.org/malware) That directory lists around 650 different malicious functionalities (as of March 2025), but it is surely just the tip of the iceberg.
+Those two nonfree programs have something else in common: they are both *malware*. That is, both have functionalities designed to mistreat the user. Proprietary software nowadays is often malware because [the](https://www.gnu.org/malware) [developers' power corrupts them .](https://www.gnu.org/malware) That directory lists around 650 different malicious functionalities (as of March 2025), but it is surely just the tip of the iceberg.
 
-With free software, the users control the program, both individually and collectively. So they control what their computers do (assuming those computers are [loyal </philosophy/loyal-computers.html>](https://www.gnu.org/philosophy/loyal-computers.html) and do what the users' programs tell them to do).
+With free software, the users control the program, both individually and collectively. So they control what their computers do (assuming those computers are [loyal ](https://www.gnu.org/philosophy/loyal-computers.html) and do what the users' programs tell them to do).
 
 With proprietary software, the program controls the users, and some other entity (the developer or "owner") controls the program. So the proprietary program gives its developer power over its users. That is unjust in itself; moreover, it tempts the developer to mistreat the users in other ways.
 
-Even when proprietary software isn't downright malicious, its developers have an incentive to make it [addictive, controlling and manipulative <https://observer.com/2016/06/how-technology-hijacks-peoples](https://observer.com/2016/06/how-technology-hijacks-peoples-minds%E2%80%8A-%E2%80%8Afrom-a-magician-and-googles-design-ethicist/)[minds%E2%80%8A-%E2%80%8Afrom-a-magician-and-googles-design-ethicist/>.](https://observer.com/2016/06/how-technology-hijacks-peoples-minds%E2%80%8A-%E2%80%8Afrom-a-magician-and-googles-design-ethicist/) You can say, as does the author of that article, that the developers have an ethical obligation not to do that, but generally they follow their interests. If you want this not to happen, make sure the program is controlled by its users.
+Even when proprietary software isn't downright malicious, its developers have an incentive to make it [addictive, controlling and manipulative .](https://observer.com/2016/06/how-technology-hijacks-peoples-minds%E2%80%8A-%E2%80%8Afrom-a-magician-and-googles-design-ethicist/) You can say, as does the author of that article, that the developers have an ethical obligation not to do that, but generally they follow their interests. If you want this not to happen, make sure the program is controlled by its users.
 
 Freedom means having control over your own life. If you use a program to carry out activities in your life, your freedom depends on your having control over the program. You deserve to have control over the programs you use, and all the more so when you use them for something important in your life.
 
-Users' control over the program requires four [essential freedoms </philosophy/free-sw.html>.](https://www.gnu.org/philosophy/free-sw.html)
+Users' control over the program requires four [essential freedoms .](https://www.gnu.org/philosophy/free-sw.html)
 
 - (0) The freedom to run the program as you wish, for whatever purpose.
 - (1) The freedom to study the program's "source code," and change it, so the program does your computing as you wish. Programs are written by programmers in a programming language—like English combined with algebra—and that form of the program is the "source code." Anyone who knows programming, and has the program in source code form, can read the source code, understand its functioning, and change it too. When all you get is the executable form, a series of numbers that are efficient for the computer to run but extremely hard for a human being to understand, understanding and changing the program in that form are forbiddingly hard.
@@ -36,11 +41,11 @@ A free program allows you to tinker with it to make it do what you want (or ceas
 
 If the users don't control the program, the program controls the users. With proprietary software, there is always some entity, the developer or "owner" of the program, that controls the program—and through it, exercises power over its users. A nonfree program is a yoke, an instrument of unjust power.
 
-In outrageous cases (though this outrage has become quite usual) [proprietary programs are designed to spy on](https://www.gnu.org/malware) [the users, restrict them, censor them, and abuse them </malware>.](https://www.gnu.org/malware) For instance, the operating system of Apple [i Things </philosophy/why-call-it-the-swindle.html>](https://www.gnu.org/philosophy/why-call-it-the-swindle.html) does all of these, and so does Windows on mobile devices with ARM chips. Windows, mobile phone firmware, and Google Chrome for Windows include a universal back door that allows some company to change the program remotely without asking permission. The Amazon Kindle has a back door that can erase books.
+In outrageous cases (though this outrage has become quite usual) [proprietary programs are designed to spy on](https://www.gnu.org/malware) [the users, restrict them, censor them, and abuse them .](https://www.gnu.org/malware) For instance, the operating system of Apple [i Things ](https://www.gnu.org/philosophy/why-call-it-the-swindle.html) does all of these, and so does Windows on mobile devices with ARM chips. Windows, mobile phone firmware, and Google Chrome for Windows include a universal back door that allows some company to change the program remotely without asking permission. The Amazon Kindle has a back door that can erase books.
 
-The use of nonfree software in the "internet of things" would turn it into the ["internet of telemarketers"](https://archive.ieet.org/articles/rinesi20150806.html) [<https://archive.ieet.org/articles/rinesi20150806.html>](https://archive.ieet.org/articles/rinesi20150806.html) as well as the "internet of snoopers."
+The use of nonfree software in the "internet of things" would turn it into the ["internet of telemarketers"](https://archive.ieet.org/articles/rinesi20150806.html) [](https://archive.ieet.org/articles/rinesi20150806.html) as well as the "internet of snoopers."
 
-With the goal of ending the injustice of nonfree software, the free software movement develops free programs so users can free themselves. We began in 1984 by developing the free operating system [GNU </gnu/](https://www.gnu.org/gnu/thegnuproject.html) [thegnuproject.html>.](https://www.gnu.org/gnu/thegnuproject.html) Today, millions of computers run GNU, mainly in the [GNU/Linux combination </gnu/gnu](https://www.gnu.org/gnu/gnu-linux-faq.html)[linux-faq.html>.](https://www.gnu.org/gnu/gnu-linux-faq.html)
+With the goal of ending the injustice of nonfree software, the free software movement develops free programs so users can free themselves. We began in 1984 by developing the free operating system [GNU .](https://www.gnu.org/gnu/thegnuproject.html) Today, millions of computers run GNU, mainly in the [GNU/Linux combination .](https://www.gnu.org/gnu/gnu-linux-faq.html)
 
 Distributing a program to users without freedom mistreats those users; however, choosing not to distribute the program does not mistreat anyone. If you write a program and use it privately, that does no wrong to others. (You do miss an opportunity to do good, but that's not the same as doing wrong.) Thus, when we say all software must be free, we mean that every copy must come with the four freedoms, but we don't mean that someone has an obligation to offer you a copy.
 
@@ -50,7 +55,7 @@ Nonfree software was the first way for companies to take control of people's com
 
 SaaSS doesn't mean the programs on the server are nonfree (though they often are). Rather, using SaaSS causes the same injustices as using a nonfree program: they are two paths to the same bad place. Take the example of a SaaSS translation service: The user sends text to the server, and the server translates it (from English to Spanish, say) and sends the translation back to the user. Now the job of translating is under the control of the server operator rather than the user.
 
-If you use SaaSS, the server operator controls your computing. It requires entrusting all the pertinent data to the server operator, which will be forced to show it to the state as well[—who does that server really serve,](https://www.gnu.org/philosophy/who-does-that-server-really-serve.html) [after all? </philosophy/who-does-that-server-really-serve.html>](https://www.gnu.org/philosophy/who-does-that-server-really-serve.html)
+If you use SaaSS, the server operator controls your computing. It requires entrusting all the pertinent data to the server operator, which will be forced to show it to the state as well[—who does that server really serve,](https://www.gnu.org/philosophy/who-does-that-server-really-serve.html) [after all? ](https://www.gnu.org/philosophy/who-does-that-server-really-serve.html)
 
 ### **Primary And Secondary Injustices**
 
@@ -68,7 +73,7 @@ Public agencies exist for the people, not for themselves. When they do computing
 
 To maintain control of the people's computing, public agencies must not do it with proprietary software (software under the control of an entity other than the state). And they must not entrust it to a service programmed and run by an entity other than the state, since this would be SaaSS.
 
-Proprietary software has no security at all in one crucial case—against its developer. And the developer may help others attack. [Microsoft shows Windows bugs to the NSA <https://arstechnica.com/information](https://arstechnica.com/information-technology/2013/06/nsa-gets-early-access-to-zero-day-data-from-microsoft-others/)[technology/2013/06/nsa-gets-early-access-to-zero-day-data-from-microsoft-others/>](https://arstechnica.com/information-technology/2013/06/nsa-gets-early-access-to-zero-day-data-from-microsoft-others/) (the US government digital spying agency) before fixing them. We do not know whether Apple does likewise, but it is under the same government pressure as Microsoft. If the government of any other country uses such software, it endangers national security. Do you want the NSA to break into your government's computers? See our [suggested](https://www.gnu.org/philosophy/government-free-software.html) [policies for governments to promote free software </philosophy/government-free-software.html>.](https://www.gnu.org/philosophy/government-free-software.html)
+Proprietary software has no security at all in one crucial case—against its developer. And the developer may help others attack. [Microsoft shows Windows bugs to the NSA ](https://arstechnica.com/information-technology/2013/06/nsa-gets-early-access-to-zero-day-data-from-microsoft-others/) (the US government digital spying agency) before fixing them. We do not know whether Apple does likewise, but it is under the same government pressure as Microsoft. If the government of any other country uses such software, it endangers national security. Do you want the NSA to break into your government's computers? See our [suggested](https://www.gnu.org/philosophy/government-free-software.html) [policies for governments to promote free software .](https://www.gnu.org/philosophy/government-free-software.html)
 
 ## **Free Software and Education**
 
@@ -76,7 +81,7 @@ Schools (and this includes all educational activities) influence the future of s
 
 They will also teach students the habit of cooperating, helping other people. Each class should have this rule: "Students, this class is a place where we share our knowledge. If you bring software to class, you may not keep it for yourself. Rather, you must share copies with the rest of the class—including the program's source code, in case someone else wants to learn. Therefore, bringing proprietary software to class is not permitted except to reverse engineer it."
 
-Proprietary developers would have us punish students who are good enough at heart to share software and thwart those curious enough to want to change it. This means a bad education. See more discussion about [the](https://www.gnu.org/education/education.html) [use of free software in schools </education/education.html>.](https://www.gnu.org/education/education.html)
+Proprietary developers would have us punish students who are good enough at heart to share software and thwart those curious enough to want to change it. This means a bad education. See more discussion about [the](https://www.gnu.org/education/education.html) [use of free software in schools .](https://www.gnu.org/education/education.html)
 
 #### **Free Software: More Than "Advantages"**
 
@@ -92,17 +97,17 @@ We deserve to have control of our own computing. How can we win this control?
 
 ▪ By rejecting nonfree software on the computers we own or regularly use, and rejecting SaaSS.
 
-- By [developing free software </licenses/license-recommendations.html>](https://www.gnu.org/licenses/license-recommendations.html) (for those of us who are programmers.)
+- By [developing free software ](https://www.gnu.org/licenses/license-recommendations.html) (for those of us who are programmers.)
 - By refusing to develop or promote nonfree software or SaaSS.
-- By [spreading these ideas to others </help/help.html>.](https://www.gnu.org/help/help.html)
-- By [saying no and stating our reasons </philosophy/saying-no-even-once.html>](https://www.gnu.org/philosophy/saying-no-even-once.html) when we are invited to run a nonfree program.
+- By [spreading these ideas to others .](https://www.gnu.org/help/help.html)
+- By [saying no and stating our reasons ](https://www.gnu.org/philosophy/saying-no-even-once.html) when we are invited to run a nonfree program.
 
 We and thousands of users have done this since 1984, which is how we now have the free GNU/Linux operating system that anyone—programmer or not—can use. Join our cause, as a programmer or an activist. Let's make all computer users free.
 
-[Suggested ways you can help the free software movement </help/help.html>](https://www.gnu.org/help/help.html)
+[Suggested ways you can help the free software movement ](https://www.gnu.org/help/help.html)
 
-A substantially edited version of this article was published in *[Wired](https://www.wired.com/2013/09/why-free-software-is-more-important-now-than-ever-before/)* [<https://www.wired.com/2013/09/why-free](https://www.wired.com/2013/09/why-free-software-is-more-important-now-than-ever-before/)[software-is-more-important-now-than-ever-before/>.](https://www.wired.com/2013/09/why-free-software-is-more-important-now-than-ever-before/)
+A substantially edited version of this article was published in *[Wired](https://www.wired.com/2013/09/why-free-software-is-more-important-now-than-ever-before/)* [.](https://www.wired.com/2013/09/why-free-software-is-more-important-now-than-ever-before/)
 
 Copyright © 2013-2015, 2017, 2021, 2023, 2024, 2025 Richard Stallman
 
-This page is licensed under a [Creative Commons Attribution-No Derivatives 4.0 International License <http://](http://creativecommons.org/licenses/by-nd/4.0/) [creativecommons.org/licenses/by-nd/4.0/>.](http://creativecommons.org/licenses/by-nd/4.0/)
+This page is licensed under a [Creative Commons Attribution-No Derivatives 4.0 International License .](http://creativecommons.org/licenses/by-nd/4.0/)

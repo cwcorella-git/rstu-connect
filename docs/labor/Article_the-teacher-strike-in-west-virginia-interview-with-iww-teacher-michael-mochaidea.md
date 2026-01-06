@@ -1,15 +1,8 @@
 ---
-title: >-
-  The Teacher Strike in West Virginia Interview With Iww Teacher Michael
-  Mochaidea
-date: 2025
-author: It's Going Down
-tags:
-  - organizing
-  - strikes
-  - unions
-  - rent
-  - police
+title: ">-"
+author: "It's Going Down"
+date: "2025"
+category: "labor"
 ---
 
 # The Teacher Strike in West Virginia Interview With Iww Teacher Michael Mochaidea

@@ -1,3 +1,8 @@
+---
+title: "Unity 5.x By Example"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 # Unity 5.x By Example
@@ -1086,74 +1091,7 @@ void On Destroy()
 //Decrement coin count
 --Coin. Coin Count;
 //Check remaining coins
-if(Coin. Coin Count <= 0)
-{
-//We have won
-}
-}
-//-------------------------
-## 
-## } //------------------------- [ 70 ]
-
-## Chapter 2
-
-## Comments on Code Sample 2-3
-
-- 
-
-The Coin class maintains a static member variable Coin Count, which, in being static, is shared across all instances o the class. This variable keeps count o the total number o coins in the scene, and each instance has access to it.
-
-- 
-
-The Start unction is called once per Coin instance when the object is created in the scene. For Coins that are present when the scene begins, the Start event is called at scene startup. This unction increments the Coin Count variable by 1 per instance, thus keeping count o all coins.
-
-- 
-
-The On Destroy unction is called once per instance when the object is destroyed. This decrements the Coin Count variable, reducing the count or each coin destroyed.
-
-Altogether Code Sample 2-3 maintains a Coin Count variable. In short, this variable allows us to always keep track o the total coin count. We can query it easily to determine how many coins remain. This is good, but is only the rst step towards completing the coin collection unctionality.
-
-### Collecting Coins
-
-Previously, we developed a coin counting variable, telling us how many coins are in the scene. But regardless o the count, the player still can't collect the coins during gameplay. Let's x that now. To start, we need to think about Collisions. Thinking careully, we know that a coin is considered collected whenever the player walks into it. That is, a coin is collected when the player and the coin intersect, or collide.
-
-### [ 71 ]
-
-## ![](_page_110_Picture_3.jpeg)
-
-## Project A: The Collection Game Continued
-
-To determine when a Collision happens like that, we must approximate the volume o both the player and a coin, to determine when the two volumes overlap in space. This is achieved in Unity through Colliders. Colliders are special physics objects attached to meshes. They tell us when two meshes intersect. The FPSController object (First Person Controller) already has a Collider on it, through its Character Controller component.
-
-This approximates the physical body o a generic person. This can be conrmed by selecting the FPSController in the Scene and examining the green wirerame-cage surrounding the main camera. It is capsule-shaped. See Figure 2.15.
-
-The Character Controller features a Collider to approximate the Player Body The FPSController eatures a Character Controller component attached, which is congured by deault with Radius, Height and Center settings, dening the physical extents o the character in the scene. See Figure 2.16. These settings can be let unchanged or our game.
-
-### [ 72 ]
-
-## ![](_page_111_Figure_3.jpeg)
-
-## ![](_page_112_Figure_0.jpeg)
-
-The FPSController features a character controller The Coin Object, in contrast, eatures only a Capsule Collider component, which was added automatically when we created the Cylinder primitive earlier to resemble a coin. This approximates the Coin's physical volume in the scene, without adding any additional eatures specic to characters and motion as ound in the Character Controller component. This is ne, because the coin is a static object as opposed to a moving and dynamic object, like the FPS Controller. See Figure 2.17.
-
-Cylinder Primitives feature a Capsule Collider Component
-
-#### [ 73 ]
-
-## ![](_page_113_Figure_4.jpeg)
-
-## ![](_page_114_Picture_0.jpeg)
-
-## Project A: The Collection Game Continued
-
-For this project, I'll stick to using a Capsule Collider component or the coin object.
-
-However, i you wanted to change the attached collider to a dierent shape instead, like a box or a sphere, you can do that by rst removing any existing collider components on the Coin: click the Cog icon o the component in the Object Inspector, and then select Remove Component rom the context menu. See Figure 2.18.
-
-### Removing a Component from an Object
-
-You may then add a new Collider Component to the selected object, by choosing Component > Physics rom the application menu, and then choose a suitable shaped collider. See Figure 2.19.
+if(Coin. Coin Count  Physics rom the application menu, and then choose a suitable shaped collider. See Figure 2.19.
 
 ## Adding a Component to the selected object
 
@@ -1200,131 +1138,7 @@ void On Destroy()
 //Decrement coin count
 --Coin. Coin Count;
 //Check remaining coins
-if(Coin. Coin Count <= 0)
-{
-//We have won
-}
-}
-//-------------------------
-}
-//-------------------------
-[ 76 ]
-## 
-## ![](_page_119_Figure_0.jpeg)
-
-More inormation on the On Trigger Enter unction can be ound at the online Unity documentation here: http://docs.unity3d.com/
-
-Script Reference/Mono Behaviour. On Trigger Enter.html Test the code in Sample 2.4 by pressing Play on the toolbar. When you run into a coin, the On Trigger Enter unction will be executed and the message displayed.
-
-However, the question remains as to what object initiated this unction in the rst place. It's true that something collided with the coin, but what exactly? Was it the player, an enemy, a alling brick, or something else? To check this, we'll use Tags.
-
-The Tag eature lets you mark specic objects in the scene with specic tags or labels, allowing those objects to be easily identied in code so we can quickly check that the player, rather than other objects, are colliding with the coins. Ater all, it should only be the player that can collect coins. So, rstly, we'll tag the player object with a tag called 'Player'. To do this, select the FPSController object in the scene, and then click the tag dropdown box in the Object Inspector. From here, select the Player tag. This marks the FPSController as the Player object. See Figure 2.21.
-
-## Tagging the FPSController as 'Player'
-
-## [ 77 ]
-
-Project A: The Collection Game Continued With the FPSController now tagged as Player, we can rene the Coin.cs le as shown in Code Sample 2.5. This handles coin collection, making the coin disappear on touch and decreasing the coin count. Comments ollow.
-
-
-//-------------------------
-using Unity Engine;
-using System. Collections;
-//-------------------------
-public class Coin : Mono Behaviour
-{
-//-------------------------
-public static int Coin Count = 0;
-//-------------------------
-// Use this for initialization
-void Start () {
-//Object created, increment coin count
-++Coin. Coin Count;
-}
-//-------------------------
-void On Trigger Enter(Collider Col)
-{
-//If player collected coin, then destroy object if(Col. Compare Tag("Player"))
-## 
-
-Destroy(game Object);
-}
-//-------------------------
-//Called when object is destroyed
-void On Destroy()
-{
-//Decrement coin count
---Coin. Coin Count;
-//Check remaining coins
-if(Coin. Coin Count <= 0)
-{
-//We have won
-}
-}
-//-------------------------
-}
-//-------------------------
-[ 78 ]
-## 
-## Comments on Code Sample 2-5
-
-- 
-
-On Trigger Enter is called once automatically by Unity each time the FPSController intersects the Coin collider
-
-- 
-
-When On Trigger Enter is called, the argument Col contains inormation about the object that entered the collider on this occasion
-
-- 
-
-The Compare Tag unction is used to determine i the colliding object is the Player, as opposed to a dierent object
-
-- 
-
-The Destroy unction is called to destroy the coin object itsel, represented internally by the inherited member variable game Object
-
-- 
-
-When the Destroy unction is called, the On Destroy event is invoked automatically. This decrements the Coin Count.
-
-Excellent work! You've just created your rst working coin. The player can now run into the coin, collecting it and removing it rom the scene. This is a great beginning, but the scene should contain more than one coin. We could solve this by duplicating the existing coin many times and repositioning each duplicate to a dierent place.
-
-## But there's a better way, as we'll see next…
-
-#### Coins and Prefabs
-
-The basic coin unctionality is now created. But the scene needs more than one coin.
-
-The problem with simply duplicating a coin and scattering the duplicates is that, i we make a change later to one coin and need to propagate that change to all other coins, we'd need to delete the ormer duplicates and manually replace those with newer and amended duplicates. To avoid this tedious repetition, we can use Prefabs.
-
-#### [ 79 ]
-
-## ![](_page_124_Picture_6.jpeg)
-
-## Project A: The Collection Game Continued
-
-Preabs let you convert an object in the scene to an Asset in the Project Panel. This can be instantiated in the scene as requently as needed, as though it were a mesh asset. The advantage is that changes made to the asset are automatically applied to all instances automatically, even across multiple scenes. This makes it easier to work with custom assets; so let's Preab the coin right now. To do this, select the coin object in the scene, and then drag and drop it into the Project Panel. When this happens, a new Preab is created. The object in the scene is automatically updated to be an Instance o the Preab. This means that, i the Asset is deleted rom the Project Panel, the instance will become invalidated. See Figure 2.22.
-
-### Creating a Coin Prefab
-
-### [ 80 ]
-
-## ![](_page_125_Picture_4.jpeg)
-
-Ater the preab is created, you can add more instances o the coin easily to the level, by dragging and dropping the Preab rom the Project Panel into the scene. Each instance is linked to the original preab asset, which means that all changes made to the asset will immediately be made to all instances. With this in mind, go ahead now and add as many coin preabs to the level as suitable or your coin collection game.
-
-See gure 2.23 below or my arrangement.
-
-## Adding coins prefabs to the level…
-
-### [ 81 ]
-
-## ![](_page_127_Picture_5.jpeg)
-
-## Project A: The Collection Game Continued
-
-One question that naturally arises is how you can transorm a preab back into an independent Game Object that is no longer connected to the Preab asset. This is useul to do i you want some objects to be based on the preab but to deviate rom it slightly. To achieve this, select a Preab instance in the scene, and then choose Game Object > Break Prefab Instance rom the application menu. See Figure 2.24.
+if(Coin. Coin Count  Break Prefab Instance rom the application menu. See Figure 2.24.
 
 #### Breaking the prefab instance
 
@@ -1404,80 +1218,7 @@ void Update ()
 //Reduce time
 Count Down -= Time.delta Time;
 //Restart level if time runs out
-if(Count Down <= 0)
-{
-//Reset coin count
-Coin. Coin Count=0;
-Application. Load Level(Application.loaded Level);
-}
-}
-//-------------------------
-}
-//-------------------------
-Comments on Code Sample 2-6
-- 
-On Trigger Enter is called once automatically by Unity each time the
-FPSController intersects the Coin collider
-## 
-- 
-
-In Unity, class variables declared as public (such as public float Max Time) are displayed as editable elds inside the Object Inspector o the editor. This applies only to a range o supported data types, however, but it's a highly useul eature. It means developers can monitor and set public variables or classes directly rom the inspector, as opposed to changing and recompiling code every time a change is needed. Private variables, in contrast, are hidden rom the Inspector by deault. However, you can orce them to be visible, i needed, by using the Serialize Field attribute. Private variables prexed with this attribute, such as variable Count Down, will display in the Object Inspector just like a public variable, even though the variable's scope still remains private.
-
-## [ 86 ]
-
-## Chapter 2
-
-- 
-
-The Update unction is a Unity native Event supported or all classes derived rom Mono Behaviour. Update is invoked automatically once per frame or all active Game Objects in the scene. This means that all active game objects are notied about rame change events. In short, Update is thereore called many times per second; the game FPS is a general indicator as to how many times on each second. The actual number o calls will vary in practice, rom second to second. In any case, Update is especially useul or animating, updating and changing objects over time. In the case o a
-
-Count Down class, it'll be useul or keeping track o time as it passes away, second by second.
-
-More inormation on the Update unction can be ound at the online Unity documentation here: https://unity3d.com/learn/tutorials/modules/
-
-beginner/scripting/update-and-fixedupdate
-
-In addition to the Update function, called on each frame, Unity also supports two other related functions, namely Fixed Update and Late Update.
-
-Fixed Update is used when coding with Physics, as we'll see later, and is called a xed number o times per rame. Late Update is called once per frame for each active object, but the Late Update call will always happen after every object has received an Update event. Thus it happens after the Update cycle; making it a late update. There are reasons for this late update, and we'll see them later in the book. More information on Fixed Update can be found in the Online Unity Documentation here: http://docs.unity3d.
-
-com/Script Reference/Mono Behaviour. Fixed Update.
-
-html. More information on the Late Update function can be found in the Online Unity Documentation here: http://docs.unity3d.com/
-
-## Script Reference/Mono Behaviour. Late Update.html
-
-- 
-
-When scripting, the static Time.delta Time variable is constantly available and is updated automatically by Unity. It always describes the amount o time (in seconds) that has passed since the previous rame ended. For example, i your game has a rame rate o 2 FPS (a very low rame rate!) then delta Time will be 0.5. This is because, in each second, there would be two rames, and thus each rame would be hal a second. delta Time is useul because, i added over time, it tells you how much time in total has elapsed or passed since the game began. For this reason, delta Time is used heavily inside the Update unction or the Timer, to subtract the elapsed time rom the countdown total. More inormation can be ound on delta Time at the online documentation here: http://docs.unity3d.com/Script Reference/Timedelta Time.html
-
-### [ 87 ]
-
-## ![](_page_137_Picture_3.jpeg)
-
-## Project A: The Collection Game Continued
-
-- 
-
-The static unction Application. Load Level may be called anywhere in code to change the active scene at run time. Thus, this unction is useul or moving the gamer rom one level to another. It causes Unity to terminate the active, destroying all its contents, and to load in a new scene. It can also be used to restart the active scene, simply by loading the active level again.
-
-Application. Load Level is most appropriate or games with clearly dened levels that a separate rom each other and have clearly dened beginnings and endings. It is not, however, suitable or large open-world games in which large sprawling environments stretch on, seemingly without any breakage or disconnection. More inormation on Application. Load Level can be ound at the online Unity Documentation here: http://docs.unity3d.com/
-
-Script Reference/Application. Load Level.html Ater the timer script is created, select the Level Timer object in the scene. From the Object Inspector, you can set the maximum time (in seconds) the player is allowed or completing the level. See Figure 2.28. I've set the total time to 60 seconds. This means all coins must be completed within 60 seconds rom the level start. I the timer expires, the level is restarted.
-
-## Setting the level total time
-
-Great work! You should now have a completed level with a countdown that works.
-
-You can collect coins, and the timer can expire. There is a urther problem, however, which we'll address next. But overall, the game is taking shape.
-
-## [ 88 ]
-
-## ![](_page_139_Figure_0.jpeg)
-
-#### Celebrations and Fireworks!
-
-The coin collection game is nearly unished. Coins can be collected and a timer expires, but the win condition itselő is not truly handled. That is, when all coins are collected beőore time expiry, nothing actually happens to show the player they've won. The countdown still proceeds and even restarts the level as though the win condition hadn't been satisued at all. Let's ux that now. Speciucally, when the win scenario happens, we should delete the timer object to prevent ourther countdown, and show visual oeedback to signioy that the level has been completed. In this case, I'll add some ureworks! So, let's start by creating the ureworks. You can add these easily orom the Unity 5 Particle System packages. Open the oolder Standard Assets > Particle Systems > Prefabs. Then drag and drop the Fireworks Particle System into the scene. Add a second, or even a third one io you want.
+if(Count Down  Particle Systems > Prefabs. Then drag and drop the Fireworks Particle System into the scene. Add a second, or even a third one io you want.
 
 ## Adding two Fireworks Prefabs
 
@@ -1532,49 +1273,7 @@ void On Destroy()
 {
 --Coin. Coin Count;
 //Check remaining coins
-if(Coin. Coin Count <= 0)
-{
-//Game is won. Collected all coins
-## 
-
-//Destroy Timer and launch fireworks
-Game Object Timer = Game Object. Find("Level Timer"); Destroy(Timer);
-Game Object[] Firework Systems = Game Object. Find Game Obj
-ects With Tag("Fireworks");
-foreach(Game Object GO in Firework Systems)
-GO. Get Component<Particle System>(). Play();
-}
-}
-//-------------------------
-}
-//-------------------------
-Comments on Code Sample 2-7
-## 
-The On Destroy unction is critical. It occurs when a coin is collected, and it eatures an if statement to determine when all coins are collected (the win scenario).
-
-- 
-
-- 
-
-When a win scenario happens, the unction Game Object. Find is called to search the complete scene hierarchy or any active object named "Level Timer".
-
-I ound, the object is deleted. This happens to delete the timer and prevent any urther count down when the level is won. I the scene contains multiple objects o matching name, then only the rst object is returned. This is one reason why the scene should contain one and only one timer.
-
-## [ 92 ]
-
-### Chapter 2
-
-TIP. Avoid using the Game Object. Find function wherever possible.
-
-It's slow for performance. Instead, use Find Game Objects With Tag instead. It's been used here only to demonstrate its existence and purpose.
-
-Sometimes, you'll need to use it or nding a single, miscellaneous object that has no specic tag.
-
-- 
-
-In addition to deleting the Level Timer object, the On Destroy unction all nds all rework objects in the scene and initiates them. It nds all objects o a matching tag by using the Game Object. Find Game Objects With Tag unction. This unction returns an array o all objects with the "Fireworks" tag, and the Particle System is initiated or each object by calling the Play unction.
-
-As mentioned, each Game Object in Unity is really made from a collection of attached and related components. An object is the sum of its components. For example, a standard cube (created using Game Object > 3D Object > Cube) is made from a Transform Component, a Mesh Filter Component, a Mesh Renderer Component, and a Box Collider Component. These components together make the cube what it is and behave how it does. The Get Component function can be called in script to retrieve a reference to any specified component, giving you direct access to its public properties. The On Destroy function in Code Sample 2.7 uses Get Component to retrieve a reference to the Particle System component attached to the object. Get Component is a highly useful and important function. More information on Get Component can be found at the online Unity Documentation here: http://docs.unity3d.
+if(Coin. Coin Count  3D Object > Cube) is made from a Transform Component, a Mesh Filter Component, a Mesh Renderer Component, and a Box Collider Component. These components together make the cube what it is and behave how it does. The Get Component function can be called in script to retrieve a reference to any specified component, giving you direct access to its public properties. The On Destroy function in Code Sample 2.7 uses Get Component to retrieve a reference to the Particle System component attached to the object. Get Component is a highly useful and important function. More information on Get Component can be found at the online Unity Documentation here: http://docs.unity3d.
 
 ## com/Script Reference/Game Object. Get Component.html
 
@@ -1957,8 +1656,8 @@ public string Fire Axis = "Fire1"; public float Max Speed = 5f;
 // Use this for initialization
 void Awake ()
 {
-This Body = Get Component<Rigidbody>(); This Transform =
-Get Component<Transform>();
+This Body = Get Component(); This Transform =
+Get Component();
 }
 //------------------------------
 // Update is called once per frame
@@ -2142,7 +1841,7 @@ Chapter 3
 // Use this for initialization
 void Awake ()
 {
-This Transform = Get Component<Transform>();
+This Transform = Get Component();
 }
 //------------------------------
 // Update is called once per frame
@@ -2206,7 +1905,7 @@ public bool Should Destroy OnDeath = true;
 //------------------------------
 void Start()
 {
-This Transform = Get Component<Transform>();
+This Transform = Get Component();
 }
 //------------------------------
 public float Health Points
@@ -2220,79 +1919,7 @@ set
 
 {
 _Health Points = value;
-if(_Health Points <= 0)
-{
-Send Message("Die", Send Message Options.
-Dont Require Receiver);
-if(Death Particles Prefab != null)
-[ 137 ]
-Project B: The Space Shooter Instantiate(Death Particles Prefab,
-This Transform.position, This Transform.rotation);
-if(Should Destroy OnDeath)Destroy(game Object);
-}
-}
-}
-//------------------------------
-[Serialize Field]
-private float _Health Points = 100f;
-}
-//------------------------------
-## 
-### Comments on Code Sample 3-3
-
-- 
-
-The health class maintains object health through a private variable \_
-
-Health Points, which is accessed through a C# Property Health Points.
-
-This property eatures both Get and Set accessor, to return and set the health variable.
-
-- 
-
-The \_Health Points variable is declared as a Serialized Field, allowing its value to be visible in the Object Inspector.
-
-- 
-
-The Health class is an example o Event Driven Programming. This is because the class could have continually checked the status o object health during an Update unction; checking to see i the object had died by its health alling below 0. But instead, the check or death is made during the C# Property Set method. This makes sense because Set is the only place where health will ever change. This means Unity is saved rom a lot o work each rame. That's a great perormance saving!
-
-- 
-
-This class uses the Send Message unction. This unction lets you call any other public function on any component attached to the object by speciying the unction name as a string. In this case, a unction called Die will be executed on every component attached to the object (i such a unction
-
-### exists). I no unction o matching name exists, then nothing happens or that component.
-
-This is a quick and easy way to run customized behavior on an object in a type-agnostic way without using any polymorphism. The disadvantage is that Send Message internally uses a process called Refection, which is slow and perormance prohibitive. For this reason, Send Message should be used only inrequently or death events and similar events, but not requently, such as every rame. More inormation on Send Message can be ound at the online Unity documentation here:
-
-http://docs.unity3d.com/Script Reference/
-
-### Game Object. Send Message.html
-
-### [ 138 ]
-
-## ![](_page_208_Picture_6.jpeg)
-
-- 
-
-When health oalls below 0, triggering a death condition, the code will instantiate a death particle system, to show an eooet on death, io a particle system is specified (more on this shortly).
-
-When the Health script is attached to the player space ship it appears as a component in the Object Inspector. It contains a weld oor a Death Particle System. This is an optional weld (it can be null), specioying a particle system to be spawned when the object dies. This lets you easily create explosion or blood splatter eooects when objects die. See Figure 3.26.
-
-#### Attaching the Health Script
-
-#### Death and Particles
-
-In this twin stick shooter game both the player and enemies are space ships. When they're destroyed they should explode in a yery ball. This is really the only kind oổ
-
-eổểct that would be believable. To achieve explosions we can use a Particle System.
-
-This simply reoers to a special kind oo object that oeatures two main parts, namely a Hose (or Emitter) and Particles. The Emitter reoers to the part which spawns or generates new Particles into the world, and the Particles are many small objects or pieces that, once spawned, move and travel along their own trajectories. In short, Particle Systems are ideal of creating rain, snow, oog, sparkles, and explosions.
-
-## ![](_page_210_Picture_1.jpeg)
-
-## Project B: The Space Shooter
-
-We can create our own Particle Systems orom scratch, using the menu option Game Object > Particle System, or we can use any pre-made particle system included with Unity. Let's use some of the pre-made particle systems. To do this, import the Particle System package into the Project, by selecting Assets > Import Package > Particle Systems orom the application menu. See Figure 3.27.
+if(_Health Points  Particle System, or we can use any pre-made particle system included with Unity. Let's use some of the pre-made particle systems. To do this, import the Particle System package into the Project, by selecting Assets > Import Package > Particle Systems orom the application menu. See Figure 3.27.
 
 Importing Particle Systems into the Project Aổter the Import Dialog appears, leave all settings at their deổaults, and simply click Import to import the complete package, including all particle systems. The Particle Systems will be added to the Project Panel, in the ổolder Standard Assets > Particle Systems > Prefabs. See Figure 3.28. You can test each oổ the Particle Systems by simply dragging and dropping each Preổab into the scene. Note, you can only preview a Particle System in the Scene viewport while it is selected.
 
@@ -2410,7 +2037,7 @@ void Start()
 
 [ 146 ]
 Chapter 3
-This Transform = Get Component<Transform>();
+This Transform = Get Component();
 }
 //------------------------------
 public float Health Points
@@ -2422,89 +2049,7 @@ return _Health Points;
 set
 {
 _Health Points = value;
-if(_Health Points <= 0)
-{
-Send Message("Die", Send Message Options.
-Dont Require Receiver);
-## 
-
-if(Death Particles Prefab != null)
-Instantiate(Death Particles Prefab,
-This Transform.position, This Transform.rotation);
-if(Should Destroy OnDeath)Destroy(game Object);
-}
-}
-}
-//------------------------------
-void Update()
-{
-if(Input. Get Key Down(Key Code. Space))
-Health Points = 0;
-}
-//------------------------------
-[Serialize Field]
-private float _Health Points = 100f;
-}
-//------------------------------
-[ 147 ]
-## 
-## ![](_page_222_Picture_0.jpeg)
-
-## Project B: The Space Shooter
-
-On running the game now, with the modied health script, you can trigger an instant player death by pressing the space bar key on the keyboard. When you do this, the player object is destroyed and the particle system is generated until the timer destroys that too. Excellent work. We now have a playable, controllable player character that supports health and death unctionality. Things are looking good. See Figure 3.33.
-
-## Trigger the Explosion Particle System…
-
-#### Enemies
-
-The next step is to create something or the player to shoot and destroy, and which can also destroy us- namely enemy characters. These take the orm o roaming space ships that will be spawned into the scene at regular intervals and will ollow the player, drawing nearer and nearer. Essentially, each enemy represents a complex o multiple behaviors working together, and these should be implemented as separate scripts. Let's consider them in turn.
-
-- 
-
-#### Health
-
-- 
-
-Each enemy supports health unctionality. They begin the scene with a specied amount o health and will be destroyed when that health alls below 0. We already have a health script created to handle this behavior.
-
-- 
-
-#### Movement
-
-#### [ 148 ]
-
-## ![](_page_223_Picture_7.jpeg)
-
-- 
-
-Each enemy will constantly be in motion, travelling in a straight line along a dorward trajectory. That is, each enemy will continually travel dorwards in the direction it is looking.
-
-- 
-
-### Turning
-
-- 
-
-Each enemy will rotate and turn towards the player, even when the player moves. This ensures the enemy always oaces the player and, in combination with the movement ounctionality, will always be travelling towards the player.
-
-- 
-
-#### Scoring
-
-- 
-
-Each enemy rewards the player with a score value when destroyed.
-
-Thus, the death oổ an enemy will increase the player score.
-
-- 
-
-### Damage
-
-Each enemy causes damage to the player on collision. Enemies cannot shoot, but will harm the player on proximity.
-
-Now we've identied the range o behaviors applicable to an enemy, let's create an enemy in the scene. We'll make one specic enemy, create a preab rom that, and use it as the basis or instantiating many enemies. Start by selecting the player character in the scene and duplicate the object with Ctrl + D, or select Edit > Duplicate rom the application menu. This initially creates a second player. See Figure 3.34.
+if(_Health Points  Duplicate rom the application menu. This initially creates a second player. See Figure 3.34.
 
 ## Duplicating the Player Object
 
@@ -2558,7 +2103,7 @@ public float Max Speed = 10f;
 // Use this for initialization
 void Awake ()
 {
-This Transform = Get Component<Transform>();
+This Transform = Get Component();
 }
 //------------------------------
 // Update is called once per frame
@@ -2616,13 +2161,13 @@ private Transform This Transform = null;
 void Awake ()
 {
 //Get local transform
-This Transform = Get Component<Transform>();
+This Transform = Get Component();
 //Should face player?
 if(!Follow Player)return;
 //Get player transform
 Game Object Player Obj = Game Object. Find Game Object With Tag("Pla yer");
 if(Player Obj != null) Obj ToFollow = Player Obj.
-Get Component<Transform>();
+Get Component();
 ## 
 
 }
@@ -2703,7 +2248,7 @@ public float Damage Rate = 10f;
 //------------------------------
 void On Trigger Stay(Collider Col)
 {
-Health H = Col.game Object. Get Component<Health>(); if(H == null)return;
+Health H = Col.game Object. Get Component(); if(H == null)return;
 H. Health Points -= Damage Rate * Time.delta Time;
 }
 //------------------------------
@@ -2767,7 +2312,7 @@ private Transform Origin = null;
 void Awake()
 {
 Origin = Game Object. Find Game Object With Tag("Player").
-Get Component<Transform>();
+Get Component();
 }
 //------------------------------
 // Use this for initialization
@@ -2987,7 +2532,7 @@ Invoke("Die", Life Time);
 void On Trigger Enter(Collider Col)
 {
 //Get health component
-Health H = Col.game Object. Get Component<Health>(); if(H == null)return;
+Health H = Col.game Object. Get Component(); if(H == null)return;
 H. Health Points -= Damage;
 ## 
 
@@ -3063,7 +2608,7 @@ public Game Object Ammo Prefab = null;
 Chapter 4
 //Ammo pool count
 public int Pool Size = 100;
-public Queue<Transform> Ammo Queue = new Queue<Transform>();
+public Queue Ammo Queue = new Queue();
 //Array of ammo objects to generate
 private Game Object[] Ammo Array;
 public static Ammo Manager Ammo Manager Singleton = null;
@@ -3075,17 +2620,14 @@ void Awake ()
 
 if(Ammo Manager Singleton != null)
 {
-Destroy(Get Component<Ammo Manager>()); return;
+Destroy(Get Component()); return;
 }
 Ammo Manager Singleton = this;
 Ammo Array = new Game Object[Pool Size];
-for(int i=0; i<Pool Size; i++)
-{
-Ammo Array[i] = Instantiate(Ammo Prefab, Vector3.zero,
-Quaternion.identity) as Game Object;
-Transform Obj Transform = Ammo Array[i].
-Get Component<Transform>();
-Obj Transform.parent = Get Component<Transform>();
+for(int i=0; i
+
+();
+Obj Transform.parent = Get Component();
 Ammo Queue. Enqueue(Obj Transform);
 Ammo Array[i]. Set Active(false);
 }
@@ -3184,8 +2726,8 @@ public Transform[] Turret Transforms;
 // Use this for initialization
 void Awake ()
 {
-This Body = Get Component<Rigidbody>(); This Transform =
-Get Component<Transform>();
+This Body = Get Component(); This Transform =
+Get Component();
 ## 
 
 }

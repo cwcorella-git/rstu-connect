@@ -1,3 +1,8 @@
+---
+title: "## **Why We Withdrew Sponsorship from the Sierra Club's Rally in Hartford, CT: Comfort Letter, Censo"
+category: "arts-culture-music"
+---
+
 ## **Why We Withdrew Sponsorship from the Sierra Club's Rally in Hartford, CT: Comfort Letter, Censorship, and Compromise!**
 
 ## **Date:** Sun, 04/24/2016 - 11:35
@@ -61,20 +66,30 @@ Real solutions will not come from alliances with the richest 1%, no matter how m
 | http://www.sierraclub.org/connecticut|
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | |
-| [2] Capitalism vs. the Climate, "'Fracked Gas is Environmental Racism' Balloon Banner<br>Released at Bridgeport, CT City Hall," |
+| [2] Capitalism vs. the Climate, "'Fracked Gas is Environmental Racism' Balloon Banner
+Released at Bridgeport, CT City Hall," |
 | Earth First! Newswire |
 | , 2 February 2016, |
-| http://earthfirstjournal.org/newswire/2016/02/02/fracked-gas-is-environmental-racism-balloon<br>banner-released-at-bridgeport-ct-city-hall/ |
+| http://earthfirstjournal.org/newswire/2016/02/02/fracked-gas-is-environmental-racism-balloon
+banner-released-at-bridgeport-ct-city-hall/ |
 | |
-| An email on 2 February 2016 from Martha Klein to the "CT Fracked Gas Pipeline Group"<br>reported, "After nearly 20 Bridgeport residents spoke unanimously against the coal plant and<br>the proposed gas plant, and were cut off immediately after two minutes, the City Council<br>allowed two people to speak at length in favor of PSEG's plan. One was Pastor [Mc Cluster] of<br>Bridgeport, an open advocate for more fracked gas, and the other was Sharon Lewis of<br>CCEJ". |
-| [3] Phone call between representatives of the Sierra Club, Healthy CT Alliance, and<br>Capitalism vs. the Climate, 12 April 2016. |
-| [4] Email on 27 March 2016. Although there appears to have been a vote at the chapter level,<br>this member later explained that the national Sierra Club presented the arrangement as a " |
+| An email on 2 February 2016 from Martha Klein to the "CT Fracked Gas Pipeline Group"
+reported, "After nearly 20 Bridgeport residents spoke unanimously against the coal plant and
+the proposed gas plant, and were cut off immediately after two minutes, the City Council
+allowed two people to speak at length in favor of PSEG's plan. One was Pastor [Mc Cluster] of
+Bridgeport, an open advocate for more fracked gas, and the other was Sharon Lewis of
+CCEJ". |
+| [3] Phone call between representatives of the Sierra Club, Healthy CT Alliance, and
+Capitalism vs. the Climate, 12 April 2016. |
+| [4] Email on 27 March 2016. Although there appears to have been a vote at the chapter level,
+this member later explained that the national Sierra Club presented the arrangement as a " |
 | fait accompli" |
 
 | . Email on 17 April 2016. |
 |------------------------------------------------------------------------------------------------------------------------------------------|
 | [5] Post on facebook.com/groups/207011239513, 30 March 2016. |
-| For an account of the rally, see Capitalism vs. the Climate, "70 People Rally for Environmental<br>Justice in Bridgeport," 4 April 2016, |
+| For an account of the rally, see Capitalism vs. the Climate, "70 People Rally for Environmental
+Justice in Bridgeport," 4 April 2016, |
 | http://capitalismvsclimate.org/2016/04/70-people-rally-for-environmental-justice-in-bridgeport/|
 | |
 | [6] Capitalism vs. the Climate, "Fracked Gas is Environmental Racism." |
@@ -96,7 +111,8 @@ Real solutions will not come from alliances with the richest 1%, no matter how m
 | [10] "Brick by Brick: An Interview with scott crow," |
 | Earth First! N |
 | ewswire, 26 June 2014, |
-| http://earthfirstjournal.org/newswire/2014/06/26/beltane-2014-feature-brick-by-brick-an-intervi<br>ew-with-scott-crow/ |
+| http://earthfirstjournal.org/newswire/2014/06/26/beltane-2014-feature-brick-by-brick-an-intervi
+ew-with-scott-crow/ |
 | |
 | "The SHAC Model: A Critical Assessment," |
 | Crimethinc |
@@ -104,13 +120,17 @@ Real solutions will not come from alliances with the richest 1%, no matter how m
 | http://www.crimethinc.com/texts/rollingthunder/shac.php|
 ## | |
 
-| [11] Robert Howarth, "A bridge to nowhere: methane emissions and the greenhouse gas<br>footprint of natural gas", |
+| [11] Robert Howarth, "A bridge to nowhere: methane emissions and the greenhouse gas
+footprint of natural gas", |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Energy Science & Engineering |
 | , 22 April 2014, |
-| http://www.eeb.cornell.edu/howarth/publications/Howarth_2014_ESE_methane_emissions.pd<br>f |
+| http://www.eeb.cornell.edu/howarth/publications/Howarth_2014_ESE_methane_emissions.pd
+f |
 | |
-| Elizabeth Ridlington, Kim Norman, and Rachel Richardson, "Fracking by the Numbers: The<br>Damage to Our Water, Land and Climate from a Decade of Dirty Drilling," Environment<br>America, April 2016, |
+| Elizabeth Ridlington, Kim Norman, and Rachel Richardson, "Fracking by the Numbers: The
+Damage to Our Water, Land and Climate from a Decade of Dirty Drilling," Environment
+America, April 2016, |
 | http://www.environmentamerica.org/reports/ame/fracking-numbers|
 | |
 | [12] Russell Mokhiber, "The Sierra Club Took Millions from Fracking Industry," |
@@ -129,4 +149,5 @@ Real solutions will not come from alliances with the richest 1%, no matter how m
 | This Changes Everything |
 | (New York: Simon & Schuster, 2014), 216, 235. |
 | Disclaimer: |
-| The views expressed here are not the official position of the IWW (or even the IWW's EUC)<br>and do not necessarily represent the views of anyone but the author's. |
+| The views expressed here are not the official position of the IWW (or even the IWW's EUC)
+and do not necessarily represent the views of anyone but the author's. |

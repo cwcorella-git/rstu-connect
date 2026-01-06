@@ -1,10 +1,16 @@
+---
+title: "## **An Ambiguous Paradise Built in Hell**"
+category: "contemporary-analysis"
+---
+
 ## **An Ambiguous Paradise Built in Hell**
 
 ## **Date:** Sat, 01/07/2023 - 00:00
 
 | Source: https://ecology.iww.org/node/5283|
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Tags: Kurdistan, libertarian-socialism, libertarian municipalism, social ecology, Murray Bookchin, book<br>reviews, books, United States of America (USA), Turkey, Syria |
+| Tags: Kurdistan, libertarian-socialism, libertarian municipalism, social ecology, Murray Bookchin, book
+reviews, books, United States of America (USA), Turkey, Syria |
 | By Dan Fischer - |
 | New Politics |
 | , January 7, 2023 |
@@ -27,10 +33,12 @@
 | a shooter |
 | murder |
 | ed |
-| three Kurds in a disturbing echo of the city's 2013 shooting that killed the Kurdistan Workers<br>Party (PKK)'s co-founder Sakine Cans■z and two other women. |
+| three Kurds in a disturbing echo of the city's 2013 shooting that killed the Kurdistan Workers
+Party (PKK)'s co-founder Sakine Cans■z and two other women. |
 | While the Kurdish-led Syrian Democratic Forces (SDF) |
 | suspended military cooperation |
-| with Washington, not for the first time, in protest of the assaults that the United States has<br>allowed fellow NATO member Turkey to carry out, Parisian Kurds have also protested |
+| with Washington, not for the first time, in protest of the assaults that the United States has
+allowed fellow NATO member Turkey to carry out, Parisian Kurds have also protested |
 | en masse |
 
 | against Western complicity in their people's extermination. Some youths have set |
@@ -38,15 +46,18 @@
 | cars and garbage bins aflame |
 | , echoing the city's yellow vests insurrections of recent years as well as the ongoing |
 | feminist uprisings in Iran |
-| where protesters, including non-Kurds, have adopted the Kurdish slogan of "Woman, Life,<br>Freedom." |
+| where protesters, including non-Kurds, have adopted the Kurdish slogan of "Woman, Life,
+Freedom." |
 | Just as world leaders |
 | abandoned Jews |
-| during the Holocaust, and have kept Bashar al-Assad's genocidal regime in power (as my<br>co-author Javier Sethness and I previously |
+| during the Holocaust, and have kept Bashar al-Assad's genocidal regime in power (as my
+co-author Javier Sethness and I previously |
 | argued in |
 | News and Letters, |
 | and as |
 | Omar Sabbour |
-| argued in these pages), they've also systematically approached the Kurds, the world's largest<br>stateless nation, |
+| argued in these pages), they've also systematically approached the Kurds, the world's largest
+stateless nation, |
 
 ## with Ankara and has entertained talks about
 
@@ -78,10 +89,16 @@ hevalti
 | jiyan |
 | means life; both are at the root of |
 | jineolojî |
-| , an emerging "science of woman and life." Jineolojî seems to largely describe Dirik's own<br>approach, which goes beyond narrower academic disciplines such as the sociology in which<br>she was trained. |
-| Dirik rightly opposes Western imperialism (earning her a supportive blurb from steadfast<br>anti-imperialist Harsha Walia) and acknowledges that "the US strategy towards the Kurdish<br>question is marked by a carrot-and-stick approach" (308). She also finds this acknowledgment<br>at the local level, when for example |
+| , an emerging "science of woman and life." Jineolojî seems to largely describe Dirik's own
+approach, which goes beyond narrower academic disciplines such as the sociology in which
+she was trained. |
+| Dirik rightly opposes Western imperialism (earning her a supportive blurb from steadfast
+anti-imperialist Harsha Walia) and acknowledges that "the US strategy towards the Kurdish
+question is marked by a carrot-and-stick approach" (308). She also finds this acknowledgment
+at the local level, when for example |
 | grassroots |
-| fighters in Kobane "categorically refused to express gratefulness to the Obama<br>administration" (278-9). This may not satisfy condescending tankies who will point to |
+| fighters in Kobane "categorically refused to express gratefulness to the Obama
+administration" (278-9). This may not satisfy condescending tankies who will point to |
 | official |
 
 ## SDF leaders making s
@@ -103,12 +120,19 @@ If there's really anything I want to say critically in public at this moment abo
 | lesser extent |
 | , Leon Trotsky. After reading |
 | The Dispossessed |
-| , I could really close my eyes and picture what an egalitarian society would actually "look like."<br>And this is the sense that I've gotten from some accounts that don't seek to mythologize the<br>region's Kurdish and Arab uprisings or gloss over their contradictions. |
+| , I could really close my eyes and picture what an egalitarian society would actually "look like."
+And this is the sense that I've gotten from some accounts that don't seek to mythologize the
+region's Kurdish and Arab uprisings or gloss over their contradictions. |
 | When I read |
 | The Kurdish Women's Movement |
-| , could I close my eyes and picture Kurdistan's endangered revolution? A historic fight against<br>fascism and patriarchy that, for all its faults, needs concrete support and solidarity from below<br>right now? Well, I could picture it closely |
+| , could I close my eyes and picture Kurdistan's endangered revolution? A historic fight against
+fascism and patriarchy that, for all its faults, needs concrete support and solidarity from below
+right now? Well, I could picture it closely |
 | enough |
-| to get excited about writing something with the message of "Read this book, and also others<br>that paradoxically contradict it at certain points, but more importantly go to the streets NOW to<br>stop the Erdo■an-Assad counter-revolution that is crushing the ambiguous and permanent<br>revolutions of Kurdistan!" |
+| to get excited about writing something with the message of "Read this book, and also others
+that paradoxically contradict it at certain points, but more importantly go to the streets NOW to
+stop the Erdo■an-Assad counter-revolution that is crushing the ambiguous and permanent
+revolutions of Kurdistan!" |
 ## | History |
 
 Appropriately for a struggle located in the Fertile Crescent, feminist Kurds celebrate the region's Neolithic period beginning around 12,000 years ago. If in 1973, Erich Fromm, based on admittedly "suggestive" data, assessed the Neolithic to be "relatively egalitarian, without hierarchy, exploitation, or marked aggression,"
@@ -206,10 +230,15 @@ On the other hand, there remain areas for further communal discussion and grassr
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
 | aren't quite as on-target as the sort of | |
 | anti-oppression policies | |
-| that I recommend organizations adopt in more sheltered social contexts. I also wonder about<br>the thoughts of Kurdistan's Jews, given some | |
+| that I recommend organizations adopt in more sheltered social contexts. I also wonder about
+the thoughts of Kurdistan's Jews, given some | |
 | antisemitic passages | |
 | in Öcalan's writing. | |
-| Moreover, in an absence of consistent solidarity from the international grassroots and from the<br>region's Arab populations, Kurdish leaders have had tragically few choices regarding who to<br>ally with against imminent war crimes from Turkey, the Turkish-backed Free Syrian Army<br>(tFSA), and ISIS. At times, it has appeared from the outside that the PYD has benefited from a<br>"tacit agreement" | |
+| Moreover, in an absence of consistent solidarity from the international grassroots and from the
+region's Arab populations, Kurdish leaders have had tragically few choices regarding who to
+ally with against imminent war crimes from Turkey, the Turkish-backed Free Syrian Army
+(tFSA), and ISIS. At times, it has appeared from the outside that the PYD has benefited from a
+"tacit agreement" | |
 | 12 | |
 | with Bashar al-Assad's regime with all its " | |
 | fascistic trends | |
@@ -287,10 +316,19 @@ I do wish Dirik had more to say on the fact that "Arabs I spoke to were not shy 
 | strongly support |
 | Democratic Confederalism. For instance, as Khawla Diad told |
 | Haaretz |
-| , using Öcalan's nickname "Apo" which means "uncle" in Kurdish: "At first we thought it was a<br>nationalist revolution for the Kurds, not a revolution for peoples' brotherhood and democracy.<br>But Apo's ideology was far-reaching. Slowly we saw that this ideology was not only for Kurds,<br>but also for Arabs and Assyrians, and especially for women." Moreover, the Middle East<br>Research and Information Project (MERIP) profiles a number of Arabs who joined the SDF<br>because, apart from the practical reasons of needing salaries and wanting to fight ISIS and<br>Turkey, they " |
+| , using Öcalan's nickname "Apo" which means "uncle" in Kurdish: "At first we thought it was a
+nationalist revolution for the Kurds, not a revolution for peoples' brotherhood and democracy.
+But Apo's ideology was far-reaching. Slowly we saw that this ideology was not only for Kurds,
+but also for Arabs and Assyrians, and especially for women." Moreover, the Middle East
+Research and Information Project (MERIP) profiles a number of Arabs who joined the SDF
+because, apart from the practical reasons of needing salaries and wanting to fight ISIS and
+Turkey, they " |
 | support at least some, if not all |
-| , of the basic political principles upon which the SDF and the Autonomous Administration of<br>North and East Syria (AANES) are based." |
-| Given Dirik's frequent citations of freedom struggles around the world, it feels like a missed<br>opportunity when she (like a number of other pro-Rojava sources) doesn't mention Syria's<br>anarchist theorist |
+| , of the basic political principles upon which the SDF and the Autonomous Administration of
+North and East Syria (AANES) are based." |
+| Given Dirik's frequent citations of freedom struggles around the world, it feels like a missed
+opportunity when she (like a number of other pro-Rojava sources) doesn't mention Syria's
+anarchist theorist |
 ## | Omar Aziz |
 
 whose writings influenced the incomplete though exciting development of hundreds of self-governing councils across the Arab-majority parts of Syria. Although Dirik cites al-Haj Saleh's fine book
@@ -336,7 +374,10 @@ Despite the messiness of the Kurdish women's movement and various states' coordi
 | There's an open letter titled " |
 | Stop Turkish Aggression Against North and East Syria |
 | ." |
-| As a total liberationist, I have to put in an obnoxious footnote saying I'm speaking only about<br>human nations, as opposed to, say, the Hoof Nation or Fish Nation that the indigenous<br>Nishnaabeg, on whose land I reside, traditionally dealt with to maintain long-term<br>sustainability. Leanne Betasamosake Simpson, |
+| As a total liberationist, I have to put in an obnoxious footnote saying I'm speaking only about
+human nations, as opposed to, say, the Hoof Nation or Fish Nation that the indigenous
+Nishnaabeg, on whose land I reside, traditionally dealt with to maintain long-term
+sustainability. Leanne Betasamosake Simpson, |
 | As We Have Always Done: Indigenous Freedom Through Radical Resistance |
 | (Minneapolis: University of Minnesota Press, 2017). |
 | Erich Fromm, |
@@ -391,9 +432,11 @@ Clark,
 | Clark, |
 | Between Earth and Empire |
 | , 135. |
-| Rojava Information Center "Beyond Rojava: North and East Syria's Arab Regions," June<br>2021, 3. |
+| Rojava Information Center "Beyond Rojava: North and East Syria's Arab Regions," June
+2021, 3. |
 | Yassin al-Haj Saleh, |
 | The Impossible Revolution: Making Sense of the Syrian Tragedy |
 | (Chicago: Haymarket, 2017), 132. |
 | Disclaimer: |
-| The views expressed here are not the official position of the IWW (or even the IWW's EUC)<br>and do not necessarily represent the views of anyone but the author. |
+| The views expressed here are not the official position of the IWW (or even the IWW's EUC)
+and do not necessarily represent the views of anyone but the author. |

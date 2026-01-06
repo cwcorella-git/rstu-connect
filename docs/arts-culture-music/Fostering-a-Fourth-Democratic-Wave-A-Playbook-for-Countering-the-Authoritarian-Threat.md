@@ -1,3 +1,8 @@
+---
+title: "Fostering a Fourth Democratic Wave:"
+category: "arts-culture-music"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 ## ![](_page_0_Picture_1.jpeg)
@@ -60,9 +65,11 @@ Cover: Opposition supporters rally against Venezuela's President Nicolas Maduro 
 | PART II: A THREE-PILLAR STRATEGY TO FOSTER A FOURTH DEMOCRATIC WAVE | 36 |
 | 3. PILLAR I: BROADENING OPTIONS TO ENABLE AND SUPPORT CIVIL RESISTANCE | 37 |
 | Pillar I: Policy Recommendations | 51 |
-| 4. PILLAR II: DEVELOPING A NEW NORMATIVE FRAMEWORK—<br>THE RIGHT TO ASSISTANCE (R2A) | 53 |
+| 4. PILLAR II: DEVELOPING A NEW NORMATIVE FRAMEWORK—
+THE RIGHT TO ASSISTANCE (R2A) | 53 |
 | Pillar II: Policy Recommendations | 59 |
-| 5. PILLAR III: STRENGTHENING DEMOCRATIC SOLIDARITY TO<br>PRESSURE AND CONSTRAIN REPRESSIVE REGIMES | 60 |
+| 5. PILLAR III: STRENGTHENING DEMOCRATIC SOLIDARITY TO
+PRESSURE AND CONSTRAIN REPRESSIVE REGIMES | 60 |
 | Pillar III: Policy Recommendations | 69 |
 | PART III: WEIGHING RISKS AND OPPORTUNITIES | 70 |
 | 6. ADDRESSING QUESTIONS ABOUT IMPLEMENTATION | 71 |
@@ -433,7 +440,7 @@ External actors can monitor developments, draw attention to regime abuses, and c
 
 #### WITHDRAWING SUPPORT
 
-Research finds that withdrawal of state support from autocrats can be "pivotal" to the success of civil resistance movements.<sup>4</sup> This is logical, since it signals an autocrat's declining international support, challenges the legitimacy of the regime's recent actions, denies it practical material or other assistance, and can cause people within a regime's domestic pillars of support to question the regime's sustainability. Examples of this include France's withdrawal of support for the Ben Ali government in Tunisia, and the United States' ultimate withdrawals of support from the Mubarak regime in Egypt, the Pinochet regime in Chile, and the Marcos regime in the Philippines.
+Research finds that withdrawal of state support from autocrats can be "pivotal" to the success of civil resistance movements.4 This is logical, since it signals an autocrat's declining international support, challenges the legitimacy of the regime's recent actions, denies it practical material or other assistance, and can cause people within a regime's domestic pillars of support to question the regime's sustainability. Examples of this include France's withdrawal of support for the Ben Ali government in Tunisia, and the United States' ultimate withdrawals of support from the Mubarak regime in Egypt, the Pinochet regime in Chile, and the Marcos regime in the Philippines.
 
 #### **COORDINATING SANCTIONS**
 
@@ -479,12 +486,52 @@ The following table provides a starting point for further discussion.
 
 | | Framework for Tiered Response | |
 |---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Repression<br>Level | Repression Characteristics<br>(some or all listed<br>characteristics may apply) | Potential Actions |
-| Level<br>One | • Disruption of movement operations.<br>• Jailing movement members. | • Warning of reevaluation of security<br>cooperation, trade, and aid<br>relationships.<br>• Strong diplomatic statements,<br>including threats of personal (i.e.<br>Magnitsky) sanctions against regime<br>ocials. |
-| Level<br>Two | • Sustained disruption of movement<br>operations.<br>• Broader jailing of movement<br>members.<br>• Credible reports of torture to<br>movement members in jails.<br>• Deaths of several movement<br>members. | • Revaluation of security cooperation<br>and restrictions on technology<br>exports.<br>• Pressure on other regimes to<br>withdraw support, and restrict security<br>cooperation.<br>• Economic sanctions on regime<br>members and enablers.<br>• Consideration of broader economic<br>sanctions. |
-| Level<br>Three | • Widespread jailing of<br>movement<br>members.<br>• Widespread killing of movement<br>members. | • Broaden and deepen sanctions.<br>• Secondary pressures against allies of<br>the perpetrating regimes.<br>• Removal from SWIFT network.*<br>• Cyberattacks to disrupt regime<br>coercive apparatus.<br>• Derecognition.<br>• Arrest and jail regime authorities. |
+| Repression
+Level | Repression Characteristics
+(some or all listed
+characteristics may apply) | Potential Actions |
+| Level
+One | • Disruption of movement operations.
+• Jailing movement members. | • Warning of reevaluation of security
+cooperation, trade, and aid
+relationships.
+• Strong diplomatic statements,
+including threats of personal (i.e.
+Magnitsky) sanctions against regime
+ocials. |
+| Level
+Two | • Sustained disruption of movement
+operations.
+• Broader jailing of movement
+members.
+• Credible reports of torture to
+movement members in jails.
+• Deaths of several movement
+members. | • Revaluation of security cooperation
+and restrictions on technology
+exports.
+• Pressure on other regimes to
+withdraw support, and restrict security
+cooperation.
+• Economic sanctions on regime
+members and enablers.
+• Consideration of broader economic
+sanctions. |
+| Level
+Three | • Widespread jailing of
+movement
+members.
+• Widespread killing of movement
+members. | • Broaden and deepen sanctions.
+• Secondary pressures against allies of
+the perpetrating regimes.
+• Removal from SWIFT network.*
+• Cyberattacks to disrupt regime
+coercive apparatus.
+• Derecognition.
+• Arrest and jail regime authorities. |
 
-<sup>\*</sup>SWIFT STANDS FOR SOCIETY FOR WORLDWIDE INTERBANK FINANCIAL TELECOMMUNICATION.
+\*SWIFT STANDS FOR SOCIETY FOR WORLDWIDE INTERBANK FINANCIAL TELECOMMUNICATION.
 
 ### **Policy Recommendations**
 
@@ -584,7 +631,7 @@ The United States should scale up funding dedicated to countering foreign malign
 
 Civil resistance also plays a critical role in building democratic strength. It has expanded democratic rights and freedoms in countries like the United States (i.e., the Civil Rights Movement, the labor movement, and women's suffrage movement), and countered corruption and backsliding in countries like North Macedonia (2014-16), Slovakia (2017), South Korea (2017), Armenia (2018), Ecuador (2015-17), and Sri Lanka (2022).
 
-To varying degrees, people in these and other countries self-organized, fostered unity, strategized, and exerted powerful pressure through a range of nonviolent actions. Hundreds of civil resistance tactics exist, and the concept is defined by three kinds of acts:<sup>5</sup>
+To varying degrees, people in these and other countries self-organized, fostered unity, strategized, and exerted powerful pressure through a range of nonviolent actions. Hundreds of civil resistance tactics exist, and the concept is defined by three kinds of acts:5
 
 - Acts of commission, in which people deliberately engage in behaviors that are unexpected or forbidden. Examples include mass demonstrations, displaying symbols or messages, certain acts of civil disobedience, occupying buildings, and blockades.
 - Acts of omission (sometimes referred to as "noncooperation"), in which people refuse to act in ways that are expected or government mandated. Examples of such acts include consumer boycotts, labor strikes, withdrawal of bank deposits, tax refusal, divestment, social boycotts, and election boycotts.
@@ -685,7 +732,7 @@ Faced with such compelling data and ndings, some may assume that structural fact
 
 Compared to the use of civil resistance against authoritarian rule, civil resistance against democratic backsliding has received relatively less scholarly attention, and much of it has been qualitative.
 
-Yet here, existing cases studies from multiple regions of the world, as well as recent research, also point to a similar democratizing inuence. Broadly speaking, three kinds of domestic actors—institutions, opposition parties, and a wide array of civil society—have been identied as critical checks against backsliding. <sup>23</sup> Each has their function, and they can be most powerful when they exert simultaneous pressures on aspiring autocrats.24 As backsliding continues over time, civil society in particular has often proven to be more durable than institutions, and hence plays a central role in countering many aspiring autocrats. Consistent with this, active civil society has been identi ed as a critical factor in reestablishing democracy once after a period of democratic breakdown.25
+Yet here, existing cases studies from multiple regions of the world, as well as recent research, also point to a similar democratizing inuence. Broadly speaking, three kinds of domestic actors—institutions, opposition parties, and a wide array of civil society—have been identied as critical checks against backsliding. 23 Each has their function, and they can be most powerful when they exert simultaneous pressures on aspiring autocrats.24 As backsliding continues over time, civil society in particular has often proven to be more durable than institutions, and hence plays a central role in countering many aspiring autocrats. Consistent with this, active civil society has been identi ed as a critical factor in reestablishing democracy once after a period of democratic breakdown.25
 
 Numerous scholars also cite civil society, and particularly civic mobilization and civil resistance, as a safeguard of democracy. For example, in their sweeping study of polit-
 
@@ -711,21 +758,21 @@ Thus, from examples of popular mobilization countering corruption and power grab
 
 #### The First Waves
 
-Political scientist Samuel Huntington identified the first democratic wave as occurring from 1828 to 1926, and it can be seen in the context of advancing support for democratic governance in lieu of monarchical rule.<sup>28</sup> Culminating in the collapse of European empires following World War I, emerging nations such as Lithuania, Estonia, Ukraine, Finland, Poland, Czechoslovakia, Yugoslavia, Romania, and others sought to legitimize themselves as sovereign nations and adopt democratic constitutions.<sup>29</sup> Countries like Argentina, Colombia, Uruguay, Japan, and New Zealand also moved toward democracy during this time period. By Huntington's count, the first wave brought into being about thirty governments that had "established at least minimal national democratic institutions" worldwide.30 While many of these would be judged as nondemocracies by today's standards, they contained relatively more democratic institutions than other governments at the time.
+Political scientist Samuel Huntington identified the first democratic wave as occurring from 1828 to 1926, and it can be seen in the context of advancing support for democratic governance in lieu of monarchical rule.28 Culminating in the collapse of European empires following World War I, emerging nations such as Lithuania, Estonia, Ukraine, Finland, Poland, Czechoslovakia, Yugoslavia, Romania, and others sought to legitimize themselves as sovereign nations and adopt democratic constitutions.29 Countries like Argentina, Colombia, Uruguay, Japan, and New Zealand also moved toward democracy during this time period. By Huntington's count, the first wave brought into being about thirty governments that had "established at least minimal national democratic institutions" worldwide.30 While many of these would be judged as nondemocracies by today's standards, they contained relatively more democratic institutions than other governments at the time.
 
-However, this democratic wave came to an end by 1926 and began to recede. Commenting on the aftermath of World War I, Huntington writes: "The war that had been fought to make the world safe for democracy had instead unleashed movements of both the Right and the Left that were intent on destroying it." Over the ensuing autocratic wave, attempts to accommodate extremists in government enabled them to grow stronger, and many of the nascent democratic institutions that emerged in Europe were overtaken by fascism and communism. This authoritarian reversal lasted through World War II, and left only twelve relatively democratic governments standing in its wake.<sup>33</sup>
+However, this democratic wave came to an end by 1926 and began to recede. Commenting on the aftermath of World War I, Huntington writes: "The war that had been fought to make the world safe for democracy had instead unleashed movements of both the Right and the Left that were intent on destroying it." Over the ensuing autocratic wave, attempts to accommodate extremists in government enabled them to grow stronger, and many of the nascent democratic institutions that emerged in Europe were overtaken by fascism and communism. This authoritarian reversal lasted through World War II, and left only twelve relatively democratic governments standing in its wake.33
 
 #### The Second Waves
 
-The second democratic wave began after the 1945 allied victory in World War II. The military defeat of fascist regimes cemented the ascent of democratic institutions and values, and led to campaigns of decolonization in numerous countries in Asia, Latin America, and Africa. People across the world rebelled against colonial rulers and declared independence, in part on the basis of democratic liberties that the allies had championed elsewhere.<sup>34</sup> At the high point of this wave, there were approximately fifty relatively democratic governments worldwide.<sup>35</sup>
+The second democratic wave began after the 1945 allied victory in World War II. The military defeat of fascist regimes cemented the ascent of democratic institutions and values, and led to campaigns of decolonization in numerous countries in Asia, Latin America, and Africa. People across the world rebelled against colonial rulers and declared independence, in part on the basis of democratic liberties that the allies had championed elsewhere.34 At the high point of this wave, there were approximately fifty relatively democratic governments worldwide.35
 
-This trend turned in 1962 and ushered in a twelve-year wave of autocratization, during which a number of electoral democracies in newly independent states backslid towards authoritarianism. Military coups also derailed dozens of democracies. At the low point of the second autocratic wave, the number of nominal democracies had decreased to approximately thirty.<sup>36</sup>
+This trend turned in 1962 and ushered in a twelve-year wave of autocratization, during which a number of electoral democracies in newly independent states backslid towards authoritarianism. Military coups also derailed dozens of democracies. At the low point of the second autocratic wave, the number of nominal democracies had decreased to approximately thirty.36
 
 #### The Third Waves
 
 The third democratic wave took place between 1974 and 2006, beginning with the Carnation revolution in Portugal, and followed by a host of democratic transitions in southern Europe, Latin America, Africa, and the Indo-Pacific region. With the collapse of communism and the fall of the Soviet Union in 1991, democratic diffusion across Eastern Europe and other parts of the world expanded further, particularly in countries that bordered existing democracies.
 
-However, by the mid-1990s, this wave showed signs of weakening.<sup>37</sup> In the ensuing ten years, some states such as Serbia (2000), Georgia (2003), Ukraine (2004), and Nepal (2006) continued to democratize while other states began to autocratize. On balance, the rising democratic trend continued to 2006, by which point 58 percent of countries with populations over one million were classified as democratic.<sup>38</sup>
+However, by the mid-1990s, this wave showed signs of weakening.37 In the ensuing ten years, some states such as Serbia (2000), Georgia (2003), Ukraine (2004), and Nepal (2006) continued to democratize while other states began to autocratize. On balance, the rising democratic trend continued to 2006, by which point 58 percent of countries with populations over one million were classified as democratic.38
 
 #### **Dening and Labeling Democratic and Authoritarian Governments**
 
@@ -956,7 +1003,7 @@ The rest of the playbook oers a strategy to contend on this front.
 
 ## 3. Pillar I: Broadening Options to Enable and Support Civil Resistance civil resistance movements.
 
-The first relates to development of an overall foreign policy that conveys greater recognition and weight to democracy as a key national interest, and incorporates democracy support and countering authoritarianism into decisions across all elements of state power.<sup>87</sup>
+The first relates to development of an overall foreign policy that conveys greater recognition and weight to democracy as a key national interest, and incorporates democracy support and countering authoritarianism into decisions across all elements of state power.87
 
 here are two aspects to government support to
 
@@ -972,7 +1019,7 @@ The backbone of movement support is a democracy-centered foreign policy. Well-or
 
 Such a policy would recognize that protecting and supporting democracy is a key national interest, and also that our definition of democracy *must* be bound with human rights. As Huntington observes:
 
-Liberal democracies not only have elections. They also have restrictions on the power of the executive; independent judiciaries to uphold the rule of law; protection for individual rights and liberties of expression, association, belief, and participation; consideration for the right of minorities; limits on the ability of the party in power to bias the electoral process; effective guarantees against arbitrary arrest and police brutality; no censorship; and minimal government control of the media.<sup>88</sup>
+Liberal democracies not only have elections. They also have restrictions on the power of the executive; independent judiciaries to uphold the rule of law; protection for individual rights and liberties of expression, association, belief, and participation; consideration for the right of minorities; limits on the ability of the party in power to bias the electoral process; effective guarantees against arbitrary arrest and police brutality; no censorship; and minimal government control of the media.88
 
 Accordingly, governments that hold elections but antagonize civil society should not be given a pass, since closing civic space is synonymous with democratic backsliding. On this point, Diamond remarks that "we cannot win the struggle for democracy unless we also wage a vigorous struggle for liberty and human rights."
 
@@ -1010,7 +1057,7 @@ Among the wide range of possible forms of external support—from training, to o
 
 Based on these findings, seeking to impose external agendas on movements, or even providing well-intentioned support without consultation with local groups, can risk unintended negative consequences. If a movement starts carrying the agenda of a foreign supporter, for example, it may become a target for heightened regime repression, lead to inghting, or result in domestic supporters no longer mobilizing on its behalf.
 
-**A third insight from research and past experience is that the impact of movement support can be strengthened when external parties coordinate.**<sup>97</sup>
+**A third insight from research and past experience is that the impact of movement support can be strengthened when external parties coordinate.**97
 
 Movements have a wide range of needs that may change over time. Governments, international nongovernmental organizations (advocacy and philanthropy), diaspora groups, multilateral organizations, and transnational solidarity networks can all play support roles, and each has comparative advantages in respective areas**.** Therefore, as governments consider options to better collaborate among themselves, they should also consider partnerships with other allies in their movement support eorts.
 
@@ -1344,9 +1391,9 @@ This status quo cannot stand: the unspoken end point of authoritarian claims is 
 
 International law is becoming both a shield and a sword, insulating authoritarians from criticism while also increasingly allowing them to affect developments beyond their borders. Democracies ought to be vigilant, and must contest these norms on the international plane or risk steepening the slope of democratic decline
 
-To confront authoritarian international law, there is no substitute for active engagement by democracies, as democracies. <sup>153</sup>
+To confront authoritarian international law, there is no substitute for active engagement by democracies, as democracies. 153
 
-Rising to this competition, the right to assistance would be grounded in international law, but would not depend on the UN for formal invocation.<sup>154</sup> Rather, it would be developed and embraced by a group of democracies (such as the G7; a new D-10; or a broader new coalition or alliance of democracies), and its initial formulation would have three goals:<sup>155</sup>
+Rising to this competition, the right to assistance would be grounded in international law, but would not depend on the UN for formal invocation.154 Rather, it would be developed and embraced by a group of democracies (such as the G7; a new D-10; or a broader new coalition or alliance of democracies), and its initial formulation would have three goals:155
 
 - Establish baseline forms of assistance that can be requested by populations in countries throughout the world.
 - Contextualize acts of civil resistance within international human rights law.
@@ -1356,7 +1403,7 @@ Ultimately, R2A will only be as strong as the unity of those who stand behind it
 
 #### The right to assistance is an extension of existing, internationally recognized human rights.
 
-The foundation of R2A is that it is legitimate for people to request and receive various forms of support, subject to certain limitations. On this issue, numerous relevant international and regional treaties, UN General Assembly resolutions, and statements and practices of other international institutions (such as the Human Rights Committee and other treaty-established entities) provide support for such a right.<sup>156</sup>
+The foundation of R2A is that it is legitimate for people to request and receive various forms of support, subject to certain limitations. On this issue, numerous relevant international and regional treaties, UN General Assembly resolutions, and statements and practices of other international institutions (such as the Human Rights Committee and other treaty-established entities) provide support for such a right.156
 
 In particular, R2A emerges from the right to freedom of association, which is recognized in a range of international declarations and legal instruments, including the Universal Declaration of Human Rights (article 20), the International Covenant on Civil and Political Rights (article 22), the Convention on the Elimination of All Forms of Discrimination against Women (article 7), the Declaration on Human Rights Defenders (article 5), as well as several regional conventions covering Africa, Europe, the Americas, and the Middle East.157
 
@@ -1498,15 +1545,15 @@ To achieve this, we first discuss possibilities for new alliances to increase co
 
 #### **Building Democratic Solidarity**
 
-Democracies stand a better chance of pressuring autocrats if they can align policies and actions. The G7 provides an existing platform for influential democracies to act, and its members constitute over fifty percent of global gross domestic product.<sup>187</sup> However, the G7 is limited to major transatlantic democracies plus Japan, and in the face of common threats, there are opportunities to form wider coalitions.
+Democracies stand a better chance of pressuring autocrats if they can align policies and actions. The G7 provides an existing platform for influential democracies to act, and its members constitute over fifty percent of global gross domestic product.187 However, the G7 is limited to major transatlantic democracies plus Japan, and in the face of common threats, there are opportunities to form wider coalitions.
 
 One option is the establishment of an informal working group that consists of leading democracies. Alternatively, the United States and its allies could establish a new standing body, such as a D-10 or a broader coalition of democracies with a mandate to develop strategy and coordinate execution of joint democracy support and counterauthoritarian efforts. The informal working group, or new standing body, would engage perspectives from every major region to identify threats and develop solutions to address them.
 
 Whatever its form, an alliance of influential democracies could impose costs on autocratic regimes, incentivize their behavior change, and develop mechanisms to provide assistance to targeted democracies. As a core func-
 
-tion, it could use its economic influence to defend against external attacks. For example, if one or more members of the alliance was subject to economic coercion by an authoritarian state (as China in the past has attempted against Australia and Lithuania), a mutual defense provision could be activated that would trigger economic support to the targeted state(s). This "Economic Article V" (to draw an analogy from NATO) could serve as a significant deterrent to authoritarian efforts to bully democracies, and enable greater resilience as democracies go on offense.<sup>189</sup>
+tion, it could use its economic influence to defend against external attacks. For example, if one or more members of the alliance was subject to economic coercion by an authoritarian state (as China in the past has attempted against Australia and Lithuania), a mutual defense provision could be activated that would trigger economic support to the targeted state(s). This "Economic Article V" (to draw an analogy from NATO) could serve as a significant deterrent to authoritarian efforts to bully democracies, and enable greater resilience as democracies go on offense.189
 
-The alliance could also help invigorate support for pro-democracy movements around the world by advancing the norm of a right to assistance, and adopt coordinated approaches and tools to support civil resistance movements through all phases of development. More broadly, it could orchestrate impactful public engagement efforts to highlight the dangers of authoritarianism, and the instrumental value and tangible benefits of democracy, aimed at influencing audiences around the world.<sup>190</sup>
+The alliance could also help invigorate support for pro-democracy movements around the world by advancing the norm of a right to assistance, and adopt coordinated approaches and tools to support civil resistance movements through all phases of development. More broadly, it could orchestrate impactful public engagement efforts to highlight the dangers of authoritarianism, and the instrumental value and tangible benefits of democracy, aimed at influencing audiences around the world.190
 
 ### Raising the Cost of Autocratic Repression and Subversion
 
@@ -1630,12 +1677,51 @@ In addition to the above factors, democracies inevitably will weigh potential es
 
 | | Framework for Tiered Response | |
 |---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Repression<br>Level | Repression Characteristics<br>(some or all listed<br>characteristics may apply) | Potential Actions |
-| Level<br>One | • Disruption of movement operations.<br>• Jailing movement members. | • Warning of reevaluation of security<br>cooperation, trade, and aid<br>relationships.<br>• Strong diplomatic statements,<br>including threats of personal (i.e.<br>Magnitsky) sanctions against regime<br>ocials. |
-| Level<br>Two | • Sustained disruption of movement<br>operations.<br>• Broader jailing of movement<br>members.<br>• Credible reports of torture to<br>movement members in jails.<br>• Deaths of several movement<br>members. | • Revaluation of security cooperation<br>and restrictions on technology<br>exports.<br>• Pressure on other regimes to<br>withdraw support, and restrict security<br>cooperation.<br>• Economic sanctions on regime<br>members and enablers.<br>• Consideration of broader economic<br>sanctions. |
-| Level<br>Three | • Widespread jailing of movement<br>members.<br>• Widespread killing of movement<br>members. | • Broaden and deepen sanctions.<br>• Secondary pressures against allies of<br>the perpetrating regimes.<br>• Removal from SWIFT network.*<br>• Cyberattacks to disrupt regime<br>coercive apparatus.<br>• Derecognition.<br>• Arrest and jail regime authorities. |
+| Repression
+Level | Repression Characteristics
+(some or all listed
+characteristics may apply) | Potential Actions |
+| Level
+One | • Disruption of movement operations.
+• Jailing movement members. | • Warning of reevaluation of security
+cooperation, trade, and aid
+relationships.
+• Strong diplomatic statements,
+including threats of personal (i.e.
+Magnitsky) sanctions against regime
+ocials. |
+| Level
+Two | • Sustained disruption of movement
+operations.
+• Broader jailing of movement
+members.
+• Credible reports of torture to
+movement members in jails.
+• Deaths of several movement
+members. | • Revaluation of security cooperation
+and restrictions on technology
+exports.
+• Pressure on other regimes to
+withdraw support, and restrict security
+cooperation.
+• Economic sanctions on regime
+members and enablers.
+• Consideration of broader economic
+sanctions. |
+| Level
+Three | • Widespread jailing of movement
+members.
+• Widespread killing of movement
+members. | • Broaden and deepen sanctions.
+• Secondary pressures against allies of
+the perpetrating regimes.
+• Removal from SWIFT network.*
+• Cyberattacks to disrupt regime
+coercive apparatus.
+• Derecognition.
+• Arrest and jail regime authorities. |
 
-<sup>\*</sup>SWIFT STANDS FOR SOCIETY FOR WORLDWIDE INTERBANK FINANCIAL TELECOMMUNICATION.
+\*SWIFT STANDS FOR SOCIETY FOR WORLDWIDE INTERBANK FINANCIAL TELECOMMUNICATION.
 
 #### **LEVEL ONE: REGIME DISRUPTING MOVEMENT ORGANIZING, DETAINING SEVERAL MOVEMENT MEMBERS**
 
@@ -1726,7 +1812,7 @@ Democracies may also consider using cyber tools, applying general principles to 
 
 Much of the substance of responding to these concerns is included in this playbook already, but here we conclude by addressing these concerns directly.
 
-#### 1. IS SUPPORT FOR CIVIL RESISTANCE SYNONYMOUS WITH SUPPORTING REGIME CHANGE?<sup>218</sup>
+#### 1. IS SUPPORT FOR CIVIL RESISTANCE SYNONYMOUS WITH SUPPORTING REGIME CHANGE?218
 
 Supporting civil resistance movements seeking democracy and human rights is a policy of human rights and democracy support, not a policy of externally driven regime change. This is so for three reasons:
 
@@ -1741,7 +1827,7 @@ In civil resistance movements, decisions about what objectives to pursue and wha
 
 That said, some movements seek democratic transitions, and it is their right to do so. Often these movements start by trying to achieve reformist goals, but when their efforts are met by an autocrat's brutality, corruption, and incompetence, they start to seek a change of government altogether. In such circumstances, the choice is made by the movement itself, not a foreign actor. The choice is also shaped by the actions of an autocrat—reforms and compromises may have preserved the autocrat's rule, but obstinacy and abuse instead led to a transformation of popular demands.
 
-### 2. CAN EXTERNAL SUPPORT UNDERMINE CIVIL RESISTANCE MOVEMENTS?<sup>219</sup>
+### 2. CAN EXTERNAL SUPPORT UNDERMINE CIVIL RESISTANCE MOVEMENTS?219
 
 It can be challenging for well-intentioned external actors to discern what exact support to provide to a movement, as well as where, when, how, and to which particular groups to provide it. Movements are generally less structured than traditional nongovernmental organizations, may have unclear lines of leadership and accountability, and depend on popular voluntary mobilization in order to succeed. There is always a possibility that external support could damage a movement, for example by reducing its legitimacy, increasing the risk of repression, or causing internal divisions among groups within it. For precisely this reason, in chapter 3 we emphasize that external actors need to develop a movement mindset to navigate local contexts.
 
@@ -1773,7 +1859,7 @@ In consultation with trusted local groups, external actors should consider the r
 
 In other cases, if multiple trusted groups are actively waging civil resistance and ask for support, external actors should consider responding favorably, even if the request is unexpected or on short notice. Local actors can determine what level of risk they are willing to tolerate, and sometimes failure by external actors to respond assertively to their requests can result in harm.
 
-#### **3. WHAT IF EXTERNAL SUPPORT CONTRIBUTES TO SOCIETAL INSTABILITY?**<sup>220</sup>
+#### **3. WHAT IF EXTERNAL SUPPORT CONTRIBUTES TO SOCIETAL INSTABILITY?**220
 
 Concerns may be raised that support for civil resistance can increase societal instability, and therefore the risk of civil war. For example, two countries—Syria and Yemen experienced nonviolent movements in 2011 and subsequently succumbed to violent conict. In Syria, the nonviolent opposition was overcome by a violent ank that rapidly developed into an insurgency; in Yemen, civil resis-
 

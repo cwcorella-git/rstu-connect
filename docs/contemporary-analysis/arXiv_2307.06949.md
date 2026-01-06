@@ -1,3 +1,8 @@
+---
+title: "Hyper Dream Booth: Hyper Networks for Fast Personalization of Text-to-Image Models"
+category: "contemporary-analysis"
+---
+
 # Hyper Dream Booth: Hyper Networks for Fast Personalization of Text-to-Image Models
 
 Nataniel Ruiz Yuanzhen Li Varun Jampani Wei Wei Tingbo Hou Yael Pritch Neal Wadhwa Michael Rubinstein Kfir Aberman Google Research

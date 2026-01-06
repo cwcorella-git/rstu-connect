@@ -1,13 +1,8 @@
 ---
-title: Some Thoughts On the Iww Union Debate in the Us
-date: 2025
-author: Industrial Workers of the World
-tags:
-  - organizing
-  - strikes
-  - unions
-  - housing
-  - rent
+title: "Some Thoughts On the Iww Union Debate in the Us"
+author: "Industrial Workers of the World"
+date: "2025"
+category: "labor"
 ---
 
 # Some Thoughts On the Iww Union Debate in the Us

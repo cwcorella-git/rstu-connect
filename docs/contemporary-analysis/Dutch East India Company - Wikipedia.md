@@ -1,3 +1,8 @@
+---
+title: "**Dutch East India Company**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Dutch_East_India_Company)
 
 # **Dutch East India Company**
@@ -8,21 +13,36 @@
 
 ## ![](_page_0_Figure_6.jpeg)
 
-| Company<br>type | Partially state-owned enterprise |
+| Company
+type | Partially state-owned enterprise |
 |-----------------|-----------------------------------------------------------------------------------------------------------------------|
 | Industry | Proto-conglomerate |
-| Predecessor | Voorcompagnieën<br>/ Pre-companies<br>(1594–1602)[b] |
-| Founded | March 1602; 423 years ago,[2] by a<br>20<br>government-directed consolidation of the<br>voorcompagnieën/pre-companies |
-| Founder | Johan van Oldenbarnevelt and the States<br>General |
-| Defunct | 31<br>December<br>1799 |
-| Fate | Dissolved and nationalised as Dutch East<br>Indies |
-| | Headquarters• Amsterdam, Dutch Republic (global<br>headquarters)<br>• Batavia, Dutch East Indies (second |
-| | headquarters or overseas administrative<br>center) |
+| Predecessor | Voorcompagnieën
+/ Pre-companies
+(1594–1602)[b] |
+| Founded | March 1602; 423 years ago,[2] by a
+20
+government-directed consolidation of the
+voorcompagnieën/pre-companies |
+| Founder | Johan van Oldenbarnevelt and the States
+General |
+| Defunct | 31
+December
+1799 |
+| Fate | Dissolved and nationalised as Dutch East
+Indies |
+| | Headquarters• Amsterdam, Dutch Republic (global
+headquarters)
+• Batavia, Dutch East Indies (second |
+| | headquarters or overseas administrative
+center) |
 | Area served | • South East Asia |
 | | • South Asia |
 | | • Asia–Pacific |
 | | • Southern Africa |
-| Key people | / Lords Seventeen[c]<br>• Heeren XVII<br>[nl] |
+| Key people | / Lords Seventeen[c]
+• Heeren XVII
+[nl] |
 
 | | (Dutch Republic, 1602–1799) |
 |----------|---------------------------------------------|

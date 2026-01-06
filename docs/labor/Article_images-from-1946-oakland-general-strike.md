@@ -1,10 +1,8 @@
 ---
-title: Images From 1946 Oakland General Strike
-date: 2025
-author: Global Nonviolent Action Database
-tags:
-  - organizing
-  - strikes
+title: "Images From 1946 Oakland General Strike"
+author: "Global Nonviolent Action Database"
+date: "2025"
+category: "labor"
 ---
 
 # Images From 1946 Oakland General Strike

@@ -1,3 +1,8 @@
+---
+title: "## **Björklund, Carl Johan (1884-1971)**"
+category: "contemporary-analysis"
+---
+
 ## **Björklund, Carl Johan (1884-1971)**
 
 ## **Date:** Unknown

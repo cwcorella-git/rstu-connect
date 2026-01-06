@@ -1,3 +1,8 @@
+---
+title: "## **Episode 28: Convergence To Relevance Realization/**"
+category: "contemporary-analysis"
+---
+
 ## **Episode 28: Convergence To Relevance Realization/**
 
 **Source:** https://www.meaningcrisis.co/ep-28-awakening-from-the-meaning-crisis-convergence-to-relevance-realization/

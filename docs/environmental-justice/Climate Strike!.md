@@ -1,3 +1,8 @@
+---
+title: "## **Climate Strike!**"
+category: "environmental-justice"
+---
+
 ## **Climate Strike!**
 
 ## **Date:** Wed, 04/13/2022 - 00:00

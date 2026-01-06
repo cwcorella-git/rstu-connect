@@ -1,3 +1,8 @@
+---
+title: "**Proclamation 80**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Proclamation_80)
 
 # **Proclamation 80**
@@ -21,9 +26,13 @@ A Proclamation by the President of the United States, April 15, 1861
 | President | Abraham Lincoln |
 | Signed | April 15, 1861 |
 | Federal Register details | |
-| Publication<br>date | April 15, 1861 |
+| Publication
+date | April 15, 1861 |
 | Summary | |
-| Responds to the Confederate<br>attack on Fort Sumter, South<br>[1][2]<br>Carolina by calling forth 75,000 militiamen. | |
+| Responds to the Confederate
+attack on Fort Sumter, South
+[1][2]
+Carolina by calling forth 75,000 militiamen. | |
 
 **Proclamation 80**, titled "**A Proclamation by the President of the United States, April 15, 1861**," was a [presidential](https://en.wikipedia.org/wiki/Presidential_proclamation) [proclamation](https://en.wikipedia.org/wiki/Presidential_proclamation) signed by [Abraham Lincoln,](https://en.wikipedia.org/wiki/Abraham_Lincoln) [\[2\]](#page-8-1) the 16th president of the United States. It called for 75,000 [militiamen](https://en.wikipedia.org/wiki/Militia_(United_States)) to suppress the rebellion in the states that had formed the [Confederacy.](https://en.wikipedia.org/wiki/Confederate_States_of_America) [\[1\]](#page-8-0) In April 1861 Confederate forces [attacked U. S. troops at Fort](https://en.wikipedia.org/wiki/Battle_of_Fort_Sumter) [Sumter](https://en.wikipedia.org/wiki/Battle_of_Fort_Sumter) in [South Carolina,](https://en.wikipedia.org/wiki/South_Carolina) plunging the country into [civil war.](https://en.wikipedia.org/wiki/American_Civil_War) Moving quickly against the insurrection, President Abraham Lincoln called up the militia and suspended the writ of [habeas](https://en.wikipedia.org/wiki/Habeas_corpus) [corpus—](https://en.wikipedia.org/wiki/Habeas_corpus)a legal order enabling an individual to seek release from unlawful detention. In suspending that privilege, he exercised an authority that Chief Justice [Roger Taney](https://en.wikipedia.org/wiki/Roger_Taney) then found, in [Ex parte Merryman](https://en.wikipedia.org/wiki/Ex_parte_Merryman), constitutionally reserved for [Congress.](https://en.wikipedia.org/wiki/United_States_Congress) Lincoln then called the entire [Congress](https://en.wikipedia.org/wiki/37th_United_States_Congress) into extraordinary session, where he sought congressional approval of his actions[.\[1\]](#page-8-0)
 

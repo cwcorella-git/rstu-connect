@@ -1,3 +1,8 @@
+---
+title: "SNAPSHOTS OF AGENT PROVOCATEURS AROUND THE WORLD"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Figure_0.jpeg)
 
 ## ![](_page_2_Picture_0.jpeg)
@@ -58,7 +63,7 @@ Steele originally became interested in the problem of agent provocateurs—fake 
 
 ## Photo: Occupy Wall Street demonstration
 
-<sup>1</sup> Note: Some activists and scholars spell the plural term as agents provocateurs, which is a direct derivation of the original French term. Others use an anglicized version of the French term and refer to agent provocateurs. This article uses the anglicized version throughout, except when directly quoting someone who uses the French-derived spelling.
+1 Note: Some activists and scholars spell the plural term as agents provocateurs, which is a direct derivation of the original French term. Others use an anglicized version of the French term and refer to agent provocateurs. This article uses the anglicized version throughout, except when directly quoting someone who uses the French-derived spelling.
 
 moved in, attacking the entire encampment, knocking down tents, beating protesters, making arrests, and ultimately evicting all the activists from the public square by force.
 

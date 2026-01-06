@@ -1,12 +1,8 @@
 ---
-title: Know the Union Steve Ongerth
-date: 2025
-author: Industrial Workers of the World
-tags:
-  - organizing
-  - unions
-  - rent
-  - labor
+title: "Know the Union Steve Ongerth"
+author: "Industrial Workers of the World"
+date: "2025"
+category: "labor"
 ---
 
 # Know the Union Steve Ongerth

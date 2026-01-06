@@ -1,3 +1,8 @@
+---
+title: "## **A New Economic System for a World in Rapid Disintegration**"
+category: "economic-alternatives"
+---
+
 ## **A New Economic System for a World in Rapid Disintegration**
 
 ## **Date:** Thu, 09/08/2016 - 00:00

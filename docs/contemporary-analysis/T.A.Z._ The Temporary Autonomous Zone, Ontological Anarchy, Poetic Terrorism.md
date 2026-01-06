@@ -1,3 +1,8 @@
+---
+title: "**Hakim Bey**"
+category: "contemporary-analysis"
+---
+
 # **Hakim Bey**
 
 # **T. A. Z.: The Temporary Autonomous Zone, Ontological Anarchy, Poetic Terrorism**
@@ -783,7 +788,7 @@ The bottle may now be carefully packaged & sent by mail to the target institutio
 
 ## Malay Black Djinn Curse
 
-These premises have been cursed by black sorcery. The curse has been activated according to correct rituals. This institution is cursed because it has oppressed the Imagination & defiled the Intellect, degraded the arts toward stupefaction, spiritual slavery, propaganda for State & Capital, puritanical reaction, unjust profits, lies & aesthetic blight. The employees of this institution are now in danger. No ind ividual has been cursed, but the place itself has been infec ted with ill fortune & malignancy. Those who do not wake up & quit, or begin sabotaging the workplace, will gradually fa ll under the <sup>e</sup>ffect of this sorcery. Removing or destroying the implement of sorcery will do no good. It has been seen i n this place, & this place is cursed. Reclaim your humanity & revolt in the name of the Imagination — or else be judged (in the mirror of this charm) an enemy of the human race.
+These premises have been cursed by black sorcery. The curse has been activated according to correct rituals. This institution is cursed because it has oppressed the Imagination & defiled the Intellect, degraded the arts toward stupefaction, spiritual slavery, propaganda for State & Capital, puritanical reaction, unjust profits, lies & aesthetic blight. The employees of this institution are now in danger. No ind ividual has been cursed, but the place itself has been infec ted with ill fortune & malignancy. Those who do not wake up & quit, or begin sabotaging the workplace, will gradually fa ll under the effect of this sorcery. Removing or destroying the implement of sorcery will do no good. It has been seen i n this place, & this place is cursed. Reclaim your humanity & revolt in the name of the Imagination — or else be judged (in the mirror of this charm) an enemy of the human race.
 
 We suggest "taking credit" for this action in the name of some other offensive cultural institution, such as the American Poetry Society or the Women's Anti-Porn Crusade (give full address).
 

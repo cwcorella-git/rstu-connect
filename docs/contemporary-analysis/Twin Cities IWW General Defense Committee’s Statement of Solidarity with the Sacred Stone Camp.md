@@ -1,3 +1,8 @@
+---
+title: "## **Twin Cities IWW General Defense Committee's Statement of Solidarity with the Sacred Stone Camp*"
+category: "contemporary-analysis"
+---
+
 ## **Twin Cities IWW General Defense Committee's Statement of Solidarity with the Sacred Stone Camp**
 
 ## **Date:** Tue, 09/06/2016 - 22:47

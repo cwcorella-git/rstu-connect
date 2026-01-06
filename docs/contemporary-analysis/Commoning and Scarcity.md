@@ -1,3 +1,8 @@
+---
+title: "## **Peter Gelderloos Commoning and Scarcity a manifesto against capitalism June 2012**"
+category: "contemporary-analysis"
+---
+
 ## **Peter Gelderloos Commoning and Scarcity a manifesto against capitalism June 2012**
 
 The commons are a world apart from capitalism. They are a source of livelihood that people share. Before the spread of capitalism, most of the planet was commons. Cultures that treated the commons as a gift from nature that had to be treated with respect, tended to have the most bountiful commons and therefore the fewest problems of survival. Cultures that treated the commons as property or an exploitable resource generally exhausted them, and either brought about their own collapse or had to resort to warfare and conquest to survive. Some of these cultures would eventually form capitalism.

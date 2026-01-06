@@ -1,3 +1,8 @@
+---
+title: "## **A Reply to Death of a Paper Tiger by Animal**"
+category: "contemporary-analysis"
+---
+
 ## **A Reply to Death of a Paper Tiger by Animal**
 
 ## **Date:** Unknown

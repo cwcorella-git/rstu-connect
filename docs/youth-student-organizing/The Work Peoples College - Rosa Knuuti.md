@@ -1,3 +1,8 @@
+---
+title: "**The Work Peoples College - Rosa Knuuti**"
+category: "youth-student-organizing"
+---
+
 # **The Work Peoples College - Rosa Knuuti**
 
 ## **Date:** Unknown

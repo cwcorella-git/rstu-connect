@@ -1,3 +1,8 @@
+---
+title: "SPENS DOCUMENT"
+category: "contemporary-analysis"
+---
+
 # SPENS DOCUMENT
 
 ## ![](_page_0_Picture_1.jpeg)
@@ -18,17 +23,96 @@ I hope you enjoy this document.
 
 # Contents
 
-| Game<br>Concept | P4 | Art<br>and<br>Video | P33 |
+| Game
+Concept | P4 | Art
+and
+Video | P33 |
 |-----------------------------------------------------------------------|----------------------------|----------------------------------------------------------------------------|--------------------------|
-| Introduction<br>Background<br>Description<br>Key<br>Features<br>Genre | P4<br>P4<br>P4<br>P5<br>P5 | Overall<br>Goals<br>2D<br>Art<br>3D<br>Art<br>&<br>Animation<br>Cinematics | P33<br>P34<br>P34<br>P34 |
-| Platform<br>Concept<br>Art | P6<br>P6 | Sound<br>and<br>Music | P35 |
-| Game<br>Mechanics | P11 | Overall<br>Goals<br>Sound<br>Effects<br>&<br>Music | P35<br>P35 |
-| Core<br>Game<br>Play<br>Game<br>Flow | P11<br>P12 | Story | P36 |
-| Characters<br>Monsters<br>Game<br>Play<br>Elements | P13<br>P15<br>P20 | Story<br>Overview<br>Multiple<br>Endings | P36<br>P40 |
-| Weapon<br>Properties<br>Game<br>Physics<br>and<br>Statistics | P24<br>P25 | Level<br>Overview | P42 |
-| Artificial<br>Intelligence<br>Player<br>Controls | P25<br>P26 | Location<br>Overviews<br>Puzzles | P42<br>P52 |
-| Interface | P27 | Market<br>Analysis | P58 |
-| Flowcharts<br>Functional<br>Requirements<br>Mock<br>Up<br>Screens | P27<br>P30<br>P32 | Target<br>Market<br>Top<br>Performers<br>Feature<br>Comparison | P58<br>P58<br>P59 |
+| Introduction
+Background
+Description
+Key
+Features
+Genre | P4
+P4
+P4
+P5
+P5 | Overall
+Goals
+2D
+Art
+3D
+Art
+&
+Animation
+Cinematics | P33
+P34
+P34
+P34 |
+| Platform
+Concept
+Art | P6
+P6 | Sound
+and
+Music | P35 |
+| Game
+Mechanics | P11 | Overall
+Goals
+Sound
+Effects
+&
+Music | P35
+P35 |
+| Core
+Game
+Play
+Game
+Flow | P11
+P12 | Story | P36 |
+| Characters
+Monsters
+Game
+Play
+Elements | P13
+P15
+P20 | Story
+Overview
+Multiple
+Endings | P36
+P40 |
+| Weapon
+Properties
+Game
+Physics
+and
+Statistics | P24
+P25 | Level
+Overview | P42 |
+| Artificial
+Intelligence
+Player
+Controls | P25
+P26 | Location
+Overviews
+Puzzles | P42
+P52 |
+| Interface | P27 | Market
+Analysis | P58 |
+| Flowcharts
+Functional
+Requirements
+Mock
+Up
+Screens | P27
+P30
+P32 | Target
+Market
+Top
+Performers
+Feature
+Comparison | P58
+P58
+P59 |
 | | | Bibliography | P60 |
 | | | | |
 ## | | | | |
@@ -229,12 +313,16 @@ This monster ears a straight jacket and is extremely quick when it is on the flo
 
 | Weapon | Beginner | Easy | Normal | Hard |
 |------------------|----------|------|--------|-------|
-| Wooden<br>Plank | 2-8 | 5-11 | 9-15 | 16-24 |
-| Steel<br>Pipe | 2-8 | 4-10 | 6-14 | 15-22 |
-| Great<br>Knife | 1 | 1 | 1 | 1-3 |
+| Wooden
+Plank | 2-8 | 5-11 | 9-15 | 16-24 |
+| Steel
+Pipe | 2-8 | 4-10 | 6-14 | 15-22 |
+| Great
+Knife | 1 | 1 | 1 | 1-3 |
 | Handgun | 3-6 | 4-10 | 8-14 | 16-24 |
 | Shotgun | 1-2 | 1-3 | 1-4 | 4-7 |
-## | Hunting<br>Rifle | 2 | 2 | 1-3 | 5-6 |
+## | Hunting
+Rifle | 2 | 2 | 1-3 | 5-6 |
 
 ## Creeper
 
@@ -244,12 +332,16 @@ The creeper is a small insect that normally travel in groups. They will only att
 
 | Weapon | Beginner | Easy | Normal | Hard |
 |------------------|----------|------|--------|------|
-| Wooden<br>Plank | 1 | 1-2 | 1-2 | 2-3 |
-| Steel<br>Pipe | 1 | 1 | 1 | 1-2 |
-| Great<br>Knife | 0 | 0 | 0 | 0 |
+| Wooden
+Plank | 1 | 1-2 | 1-2 | 2-3 |
+| Steel
+Pipe | 1 | 1 | 1 | 1-2 |
+| Great
+Knife | 0 | 0 | 0 | 0 |
 | Handgun | 1 | 1-3 | 1-4 | 3-8 |
 | Shotgun | 1 | 1-3 | 1-3 | 2-4 |
-## | Hunting<br>Rifle | 0 | 0 | 0 | 0 |
+## | Hunting
+Rifle | 0 | 0 | 0 | 0 |
 
 ## ![](_page_14_Picture_13.jpeg)
 
@@ -263,12 +355,16 @@ The mannequin is essentially two sets of legs joined together. It has no sensory
 
 | Weapon | Beginner | Easy | Normal | Hard |
 |------------------|----------|------|--------|-------|
-| Wooden<br>Plank | 2-8 | 5-11 | 8-14 | 16-22 |
-| Steel<br>Pipe | 2-8 | 4-10 | 6-13 | 14-20 |
-| Great<br>Knife | 1 | 1 | 1 | 2-3 |
+| Wooden
+Plank | 2-8 | 5-11 | 8-14 | 16-22 |
+| Steel
+Pipe | 2-8 | 4-10 | 6-13 | 14-20 |
+| Great
+Knife | 1 | 1 | 1 | 2-3 |
 | Handgun | 3-6 | 4-9 | 8-12 | 16-22 |
 | Shotgun | 1-2 | 1-3 | 1-3 | 2-7 |
-## | Hunting<br>Rifle | 2 | 2 | 1 | 5-7 |
+## | Hunting
+Rifle | 2 | 2 | 1 | 5-7 |
 
 ## Bubble Head Nurse
 
@@ -278,12 +374,16 @@ The ascetic characteristics of the nurse are far from its intentions, donning a 
 
 | Weapon | Beginner | Easy | Normal | Hard |
 |------------------|----------|------|--------|-------|
-| Wooden<br>Plank | 1-3 | 9-16 | 14-20 | 30-36 |
-| Steel<br>Pipe | 1-8 | 5-12 | 8-15 | 18-25 |
-| Great<br>Knife | 0 | 0 | 0 | 0 |
+| Wooden
+Plank | 1-3 | 9-16 | 14-20 | 30-36 |
+| Steel
+Pipe | 1-8 | 5-12 | 8-15 | 18-25 |
+| Great
+Knife | 0 | 0 | 0 | 0 |
 | Handgun | 1-10 | 8-10 | 16-24 | 24-38 |
 | Shotgun | 1-2 | 1-3 | 1-4 | 3-8 |
-## | Hunting<br>Rifle | 0 | 0 | 0 | 0 |
+## | Hunting
+Rifle | 0 | 0 | 0 | 0 |
 
 ## ![](_page_15_Picture_11.jpeg)
 
@@ -297,12 +397,16 @@ This monster is rare to find. They shimmy along grilles that James walks over, i
 
 | Weapon | Beginner | Easy | Normal | Hard |
 |------------------|----------|------|--------|-------|
-| Wooden<br>Plank | ! | ! | ! | ! |
-| Steel<br>Pipe | ! | ! | ! | ! |
-| Great<br>Knife | ! | ! | ! | ! |
+| Wooden
+Plank | ! | ! | ! | ! |
+| Steel
+Pipe | ! | ! | ! | ! |
+| Great
+Knife | ! | ! | ! | ! |
 | Handgun | 2-3 | 7-8 | 10-12 | 16-20 |
 | Shotgun | 1 | 2-3 | 4-5 | 7-8 |
-## | Hunting<br>Rifle | 1 | 1 | 1-2 | 4-5 |
+## | Hunting
+Rifle | 1 | 1 | 1-2 | 4-5 |
 
 ## Abstract Daddy
 
@@ -312,12 +416,16 @@ This monster is a manifestation of Angela's Father, but appears in slightly modi
 
 | Weapon | Beginner | Easy | Normal | Hard |
 |------------------|----------|------|--------|------|
-| Wooden<br>Plank | 2-4 | 8-12 | X | X |
-| Steel<br>Pipe | 2-5 | 7-12 | X | X |
-| Great<br>Knife | 1 | 1 | 1 | 1-2 |
+| Wooden
+Plank | 2-4 | 8-12 | X | X |
+| Steel
+Pipe | 2-5 | 7-12 | X | X |
+| Great
+Knife | 1 | 1 | 1 | 1-2 |
 | Handgun | 2-6 | 4-10 | 16-20 | X |
 | Shotgun | 2-3 | 2-3 | 2-5 | 2-7 |
-## | Hunting<br>Rifle | 2 | 2-3 | 3-5 | 5-7 |
+## | Hunting
+Rifle | 2 | 2-3 | 3-5 | 5-7 |
 
 ## ![](_page_16_Picture_11.jpeg)
 
@@ -331,12 +439,16 @@ This monster is encountered when Laura locks James in a room looking for Mary's 
 
 | Weapon | Beginner | Easy | Normal | Hard |
 |------------------|----------|-------|--------|-------|
-| Wooden<br>Plank | 6-10 | X | X | X |
-| Steel<br>Pipe | 18-21 | 75-78 | X | X |
-| Great<br>Knife | 0 | 0 | 0 | 0 |
+| Wooden
+Plank | 6-10 | X | X | X |
+| Steel
+Pipe | 18-21 | 75-78 | X | X |
+| Great
+Knife | 0 | 0 | 0 | 0 |
 | Handgun | 15 | 54 | 75 | 126 |
 | Shotgun | 3-6 | 12-15 | 12-15 | 18-24 |
-## | Hunting<br>Rifle | 0 | 0 | 0 | 0 |
+## | Hunting
+Rifle | 0 | 0 | 0 | 0 |
 
 ## Pyramid Headed Monster
 
@@ -346,12 +458,33 @@ The pyramid headed monster confronts James numerous times throughout the game, l
 
 | Weapon | Beginner | Easy | Normal | Hard |
 |------------------|-----------|-----------|------------|-----------|
-| Wooden<br>Plank | Max<br>18 | X | X | X |
-| Steel<br>Pipe | Max<br>4 | Max<br>15 | X | X |
-| Great<br>Knife | Max<br>3 | Max<br>5 | Max<br>13 | Max<br>36 |
-| Handgun | Max<br>24 | Max<br>86 | Max<br>135 | X |
-| Shotgun | Max<br>9 | Max<br>26 | Max<br>50 | X |
-| Hunting<br>Rifle | Max<br>4 | Max<br>13 | Max<br>20 | Max<br>50 |
+| Wooden
+Plank | Max
+18 | X | X | X |
+| Steel
+Pipe | Max
+4 | Max
+15 | X | X |
+| Great
+Knife | Max
+3 | Max
+5 | Max
+13 | Max
+36 |
+| Handgun | Max
+24 | Max
+86 | Max
+135 | X |
+| Shotgun | Max
+9 | Max
+26 | Max
+50 | X |
+| Hunting
+Rifle | Max
+4 | Max
+13 | Max
+20 | Max
+50 |
 
 ## ![](_page_17_Picture_11.jpeg)
 
@@ -365,12 +498,16 @@ This is the final incarnation of Maria / Mary (depending on which ending you att
 
 | Weapon | Beginner | Easy | Normal | Hard |
 |------------------|----------|-------|--------|---------|
-| Wooden<br>Plank | 2-3 | 5-7 | 13-15 | X |
-| Steel<br>Pipe | 2 | 5 | 10 | X |
-| Great<br>Knife | 1 | 2 | 3 | 7 |
+| Wooden
+Plank | 2-3 | 5-7 | 13-15 | X |
+| Steel
+Pipe | 2 | 5 | 10 | X |
+| Great
+Knife | 1 | 2 | 3 | 7 |
 | Handgun | 10-12 | 36-40 | 50-54 | 176-184 |
 | Shotgun | 3-4 | 5-16 | 12-26 | 26-48 |
-## | Hunting<br>Rifle | 3 | 8 | 16 | 44 |
+## | Hunting
+Rifle | 3 | 8 | 16 | 44 |
 
 ## Eddie
 
@@ -380,12 +517,16 @@ Eddie breaks after the pressures of Silent Hill and his own past get to him. Edd
 
 | Weapon | Beginner | Easy | Normal | Hard |
 |------------------|----------|-------|--------|-------|
-| Wooden<br>Plank | 1 | 12 | X | X |
-| Steel<br>Pipe | 1 | 6-7 | 8 | 12-14 |
-| Great<br>Knife | 1 | 1 | 1 | 2 |
+| Wooden
+Plank | 1 | 12 | X | X |
+| Steel
+Pipe | 1 | 6-7 | 8 | 12-14 |
+| Great
+Knife | 1 | 1 | 1 | 2 |
 | Handgun | 1 | 15-16 | 32-34 | 42-46 |
 | Shotgun | 1 | 3-4 | 4-10 | 7-14 |
-## | Hunting<br>Rifle | 1 | 4-8 | 7 | 8 |
+## | Hunting
+Rifle | 1 | 4-8 | 7 | 8 |
 
 ## ![](_page_18_Picture_11.jpeg)
 
@@ -449,32 +590,112 @@ These puzzle items will be used in order to unlock new items needed to progress 
 
 ## Blunt and Special Weapons
 
-| Weapon | Wooden<br>Plank | Steel<br>Pipe | Great<br>Knife | Chainsaw |
+| Weapon | Wooden
+Plank | Steel
+Pipe | Great
+Knife | Chainsaw |
 |-----------------------------|-------------------------------------------------------------|-----------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
-| Possible<br>to<br>move | Yes | Yes | No | Yes |
-| whilst<br>holding<br>weapon | | | | |
-| Light<br>attack | Side<br>swipe<br>with<br>limited<br>radius | Blow | Side<br>swipe<br>with<br>large<br>radius | Side<br>swipe<br>with<br>medium<br>radius |
+| Possible
+to
+move | Yes | Yes | No | Yes |
+| whilst
+holding
+weapon | | | | |
+| Light
+attack | Side
+swipe
+with
+limited
+radius | Blow | Side
+swipe
+with
+large
+radius | Side
+swipe
+with
+medium
+radius |
 | Range | Slight | Large | Large | Medium |
-| Sequence<br>of<br>Blows | Rapid | Rapid | Very<br>slow | Rapid |
-| Special<br>Feature | Two<br>hits<br>in<br>quick<br>succession<br>are<br>possible | James<br>takes<br>a<br>small<br>step<br>forward<br>at<br>each<br>blow | Even<br>when<br>your<br>weapon<br>is<br>lowered,<br>only<br>very<br>slow<br>movements<br>are<br>possible | Motor<br>needs<br>to<br>be<br>started<br>before<br>use |
-| Heavy<br>Attack | Overhead<br>blow | Overhead<br>blow | Overhead<br>blow | Stab |
+| Sequence
+of
+Blows | Rapid | Rapid | Very
+slow | Rapid |
+| Special
+Feature | Two
+hits
+in
+quick
+succession
+are
+possible | James
+takes
+a
+small
+step
+forward
+at
+each
+blow | Even
+when
+your
+weapon
+is
+lowered,
+only
+very
+slow
+movements
+are
+possible | Motor
+needs
+to
+be
+started
+before
+use |
+| Heavy
+Attack | Overhead
+blow | Overhead
+blow | Overhead
+blow | Stab |
 | Range | Medium | Medium | Medium | Medium |
-| Sequence<br>of<br>Blows | Rapid/medium | Rapid | Very<br>slow | Rapid |
+| Sequence
+of
+Blows | Rapid/medium | Rapid | Very
+slow | Rapid |
 
 ## Firearms
 
-| Weapon | Handgun | Shotgun | Hunting<br>Rifle |
+| Weapon | Handgun | Shotgun | Hunting
+Rifle |
 |--------------------------------|---------|---------|------------------|
-| Possible<br>to<br>move | Yes | Yes | No |
-| while<br>holding<br>the | | | |
-| weapon<br>at<br>ready | | | |
-| Possible<br>to<br>move | Yes | No | No |
-| while<br>shooting | | | |
-| Bullets<br>or<br>shells<br>per | 10 | 6 | 4 |
+| Possible
+to
+move | Yes | Yes | No |
+| while
+holding
+the | | | |
+| weapon
+at
+ready | | | |
+| Possible
+to
+move | Yes | No | No |
+| while
+shooting | | | |
+| Bullets
+or
+shells
+per | 10 | 6 | 4 |
 | magazine | | | |
-| 1<br>shot<br>every<br> | 0.5 | 2 | 1.5 |
+| 1
+shot
+every
+ | 0.5 | 2 | 1.5 |
 | seconds | | | |
-| Total<br>quantity<br>of | High | Medium | Low |
+| Total
+quantity
+of | High | Medium | Low |
 | ammo | | | |
 
 ## ![](_page_23_Picture_8.jpeg)

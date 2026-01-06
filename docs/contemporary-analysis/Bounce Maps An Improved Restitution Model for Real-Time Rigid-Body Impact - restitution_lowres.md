@@ -1,3 +1,8 @@
+---
+title: "Bounce Maps: An Improved Restitution Model for Real-Time Rigid-Body Impact"
+category: "contemporary-analysis"
+---
+
 # Bounce Maps: An Improved Restitution Model for Real-Time Rigid-Body Impact
 
 JUI-HSIEN WANG, Stanford University RAJSEKHAR SETALURI, Stanford University DOUG L. JAMES, Stanford University DINESH K. PAI, University of British Columbia
@@ -102,7 +107,7 @@ where the Jacobian is $J = J(X, q) \in \mathbb{R}^{3 \times (m+6)}$ , and $[\bol
 
 $$M = \begin{bmatrix} M_{tot} I_3 & 0 & 0 \\ 0 & \mathbb{I} & 0 \\ 0 & 0 & I_m \end{bmatrix} \in \mathbb{R}^{(m+6) \times (m+6)}, \tag{6}$$
 
-denote the diagonal mass matrix in body coordinates<sup>1</sup>. We simulate the body without gravity, and will neglect internal damping forces initially. Therefore, in the absence of contact forces, we only integrate the internal forces, $f_{int}(q,\dot{q})$ : the quadratic velocity vector [Shabana 2013], and the modal oscillator force, $\ddot{q}_i = -\omega_i^2 q_i$ .
+denote the diagonal mass matrix in body coordinates1. We simulate the body without gravity, and will neglect internal damping forces initially. Therefore, in the absence of contact forces, we only integrate the internal forces, $f_{int}(q,\dot{q})$ : the quadratic velocity vector [Shabana 2013], and the modal oscillator force, $\ddot{q}_i = -\omega_i^2 q_i$ .
 
 #### 3.2 Proxy Contact Problem
 
@@ -122,9 +127,7 @@ Finally, to estimate the coefficient of restitution of this sequence of impact e
 
 # 3.3 Frictionless Point-Contact Solver
 
-Regarding the single-point frictionless contact problem, we use the predictor-corrector scheme of [Kaufman et al. 2008] to advance the velocity from $\dot{\mathbf{q}}^t$ to $\dot{\mathbf{q}}^{t+1}$ . The predictor simply integrates the internal forces ignoring contact, $\dot{\mathbf{q}}^p = \dot{\mathbf{q}}^t + \Delta t M^{-1} \mathbf{f}_{int}$ . Next, if the point is in contact $(C(\mathbf{x}) \leq 0)$ and not separating $(\mathbf{v}^T \mathbf{n} < 0)$ we apply an inelastic impulse $\lambda \mathbf{n}$ to resolve contact. The final generalized velocity is $\dot{\mathbf{q}}^{t+1} = \dot{\mathbf{q}}^p + \lambda M^{-1}\mathbf{n}$ where $\mathbf{n} = \mathbf{J}^T \mathbf{n}$ is the generalized contact normal. The Signorini-Fischera condition requires that $0 \leq \mathbf{n}^T \dot{\mathbf{q}}^{t+1} \perp \lambda \geq 0$ , from which it follows that, when the point is not already separating
-
-$<sup>^1\</sup>mathrm{Here}$ the inertia tensor $\mathbb I$ is diagonal (due to body-frame alignment with the principal axes of inertia), off-diagonal M terms disappear for small deformations and center-of-mass c at origin, and mass-normalized eigenmodes U make the modal mass matrix the identity, $I_m$ .
+Regarding the single-point frictionless contact problem, we use the predictor-corrector scheme of [Kaufman et al. 2008] to advance the velocity from $\dot{\mathbf{q}}^t$ to $\dot{\mathbf{q}}^{t+1}$ . The predictor simply integrates the internal forces ignoring contact, $\dot{\mathbf{q}}^p = \dot{\mathbf{q}}^t + \Delta t M^{-1} \mathbf{f}_{int}$ . Next, if the point is in contact $(C(\mathbf{x}) \leq 0)$ and not separating $(\mathbf{v}^T \mathbf{n} ^1\mathrm{Here}$ the inertia tensor $\mathbb I$ is diagonal (due to body-frame alignment with the principal axes of inertia), off-diagonal M terms disappear for small deformations and center-of-mass c at origin, and mass-normalized eigenmodes U make the modal mass matrix the identity, $I_m$ .
 
 the contact impulse is $\lambda = -\mathbf{n}^T \dot{\mathbf{q}}^p / \mathbf{n}^T \mathbf{M}^{-1} \mathbf{n}$ . Since the mass matrix is diagonal, this frictionless contact solve/integration step takes O(m) flops for m modes.
 
@@ -159,114 +162,7 @@ $$R_{bound} = 1$$
 
 \* Time-step collisions while BD-bound overlaps:
 
-4 while $C(x_{rigid}) < R_{bound}$ do /\* potentially in contact
-
-5 $\dot{q} += \Delta t M^{-1} f_{int}(q, \dot{q})$ 
-
-## 6 if $C(x) \le 0$ then /\* in contact
-
-7 $\dot{t} = \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i) + \frac{1}{2} (x_i + x_i)$ 
-
-9 $\dot{\mathbf{q}} += \lambda \mathbf{M}^{-1}\mathbf{n}$ /\* Apply contact impulse \*/
-10 $v_n^+ = \mathbf{n}^T \mathbf{J} \dot{\mathbf{q}}_{rigid}$ /\* Cache post-impact speed \*/
-11 $R_{bound} = \sum_{i=1}^{m} \Delta R_i \sqrt{E_i}$ /\* Update BD bound \*/
-12 $\mathbf{q} \leftarrow \text{update Position}(\mathbf{q}, \dot{\mathbf{q}}, \Delta t)$ 
-
-13 return $\varepsilon = -v_n^+/v_n^-$ 
-
-## ![](_page_4_Figure_16.jpeg)
-
-Fig. 8. **Restitution analysis time-series** reveal micro-collision events: (Top) $C(\mathbf{x})$ normal distance; (Bottom) $v_n^{rigid}$ rigid-component normal velocities. Dynamics are integrated until the bounded-deformation separation distance is achieved.
-
-#### 4 SAMPLING AND RUNTIME EVALUATION
-
-Now that we can perform one-body restitution analyses to evaluate, $\varepsilon(X, N)$ , for a specified contact point X and normal N, we briefly consider how to sample $\varepsilon$ over an object's surface.
-
-Smooth surfaces: When the normal is uniquely defined everywhere as a function of X, so that N = N(X), we can simply tabulate restitution as a spatially varying function on the surface, $\varepsilon = \varepsilon(X)$ . Far from being a global constant, $\varepsilon(X)$ is spatially varying, and we find that it exhibits highly nonsmooth behavior even on flat surfaces (see Figure 9).
-
-## ![](_page_5_Figure_4.jpeg)
-
-Fig. 9. **Bounce Maps are not smooth:** A high-res sampling of $\varepsilon(X)$ values on the side (N=const) of a 20 cm steel rod (shown inset) reveals a highly nonsmooth function due to complex micro-collisions in the restitution analysis (m=140 modes).
-
-Without loss of generality, we densely sample $\varepsilon$ at a suitably fine mesh resolution, sampling X at triangle centroids with N the triangle normal. At runtime, we use the piecewise constant $\varepsilon$ value on the contact triangle, or locally interpolate to a vertex. Even smooth surfaces can exhibit significant $\varepsilon$ variations due to highly varying normals (see Figure 10).
-
-## ![](_page_5_Figure_7.jpeg)
-
-Fig. 10. **Strong normal dependence** of restitution values are demonstrated by bounce-mapped Dragon and Buddha models.
-
-*Non-smooth surfaces*, such as a cube, complicate sampling because potential contact normals are not uniquely defined everywhere, and $\varepsilon$ is strongly dependent on the direction of the contact normal (see Figure 11). The possible contact normals at a point X lie in a cone, $N(X) \in \mathcal{N}(X)$ that defines a family of possible contact planes. For non-smooth surfaces, we must therefore parameterize restitution using both contact position and normal variables, $\varepsilon = \varepsilon(X, N)$ . We generate samples of this function on triangle meshes by sampling three separate subspaces (illustrated in Figure 12)
-
-- Faces are sampled using the single normal (as with smooth surfaces),
-- Edges are sampled at multiple directions by interpolating edge-flap normals,
-- (3) Vertices are sampled at multiple directions that lie inside the cone of possible contact normals.
-
-In our examples, we interpolated edge samples at 9 degree intervals, and vertex samples were selected from 2562 uniformly sampled spherical directions restricted to the contact cone.
-
-## ![](_page_5_Picture_14.jpeg)
-
-Fig. 11. **Sampling normal variations:** Restitution values can be strongly dependent on N, and vary rapidly at sharp features, as demonstrated here for two steel bars (20 cm long) with different end caps. Normal-dependent $\varepsilon$ variations occur (Left) spatially along the smooth spherical end cap, and (Right) at different normals for a single nonsmooth-edge vertex on the rectangular bar. Notice the pronounced (blue) dip in $\varepsilon$ values in both cases.
-
-## ![](_page_5_Picture_16.jpeg)
-
-Fig. 12. **Sampling nonsmooth mesh features:** (Left) *faces* are sampled using a single normal, (Middle) *sharp edges* are sampled using interpolated edge-flap normals, and (Right) *sharp vertices* are sampled using normals inside the cone of possible contact normals.
-
-Runtime Lookup: Given a runtime query for $\varepsilon(X,N)$ on a non-smooth mesh, we require a way to identify, and potentially combine, nearby samples. We use a simple Euclidean distance metric between normals by exploiting the fact that unit normals differing by an angle $\theta$ satisfy
-
-$$\|\mathbf{N} - \mathbf{N}'\|_2 = 2\sin(\theta/2) \stackrel{\theta \to 0}{\approx} \theta,$$
-## (9)
-
-and so provides a useful measure of angular variation for nearby normals. We measure joint position/normal distance using
-
-$$dist^{2}((X,N),(X',N')) = ||X - X'||_{2}^{2} + \gamma^{2}||N - N'||_{2}^{2},$$
-## (10)
-
-where $\gamma = h_X/h_\theta$ , and $h_X$ is the sampling length scale compatible with the angular length scale, $h_\theta$ , used during sampling. Then, given a runtime query for $\varepsilon(X,N)$ on a nonsmooth mesh, we first identify all samples near X (in a geodesic sense) using the mesh data structure. We can then generate a piecewise constant approximation to $\varepsilon$ using the value associated with the nearest neighbor using (10). Alternately we can generate a linear-degree moving least squares (MLS) approximation [Jin et al. 2009] to more smoothly interpolate $\varepsilon$ values in (X,N) space.
-
-# 5 TWO-BODY RESTITUTION MODEL
-
-We have considered an idealized one-body contact scenario, and now we address the problem of estimating restitution coefficients for the more complex two-body vibro-impact problem. In this section, we describe how to compute two-body restitution values (EPS2) in §5.1, and, justified by numerical experiments, we show in §5.2 how to approximate EPS2 values using one-body restitution values (EPS1) available in Bounce Maps.
-
-### 5.1 Two-body Point-Contact Solver
-
-It is straightforward to generalize the single-point plane contact solver from §3 to the two-body case. Given two bodies, A and B, and two proxy contact points, $x_A$ and $x_B$ , we replace the one-body unilateral contact condition (7) by
-
-$$C(\mathbf{x}_A, \mathbf{x}_B) = \mathbf{n}^T (\mathbf{x}_A - \mathbf{x}_B) \ge 0, \tag{11}$$
-
-where n is the fixed contact normal, and the bodies are oriented to be in contact, e.g., with opposing contact point normals. Following standard notation for the flexible multibody problem [Kaufman et al. 2008], the same equations from before apply with suitable substitutions, e.g., the generalized velocity vector is the concatenation of each body's velocity vector, $\dot{\mathbf{q}}=(\dot{\mathbf{q}}_A,\dot{\mathbf{q}}_B)\in\mathbb{R}^{(m_A+m_B+12)}$ , the Jacobian matrix is $J=[J_A-J_B]\in\mathbb{R}^{3\times(m_A+m_B+12)}$ , the mass matrix is the block-diagonal extension, the generalized normal is still $\mathbf{n}=J^T\mathbf{n}$ , etc. The BD bound is now the sum of each body's $R_{bound}$ value.
-
-Discussion: The two-body contact solver (direct generalization of Algorithm 1) can used to compute restitution values between any pair of points, and we use it to explore this interesting function. However, for precomputation strategies, since EPS2 mapping would have to be performed pairwise, between each pair of points, on each pair objects, it has an undesirable quadratic precomputation cost and runtime storage. Furthermore, it requires all object pairs be processed ahead of time, which can be expensive for many objects. We therefore propose two practical alternatives:
-
-- On-the-fly COR evaluation using fast two-body restitution analysis can provide accurate estimates, but requires special runtime data structures and is not real time.
-- EPS Combiners: Approximate EPS2 values can be obtained by combining EPS1 values, as is common practice;
-
-some possibilities include max, min, arithmetic mean, harmonic mean, etc. In the following section, we investigate how Bounce-Mapped EPS1 values should be combined for best results.
-
-# 5.2 EPS-Combiner Investigation
-
-In this section, we explore mathematical models for combining two one-body EPS1 values, $\varepsilon_i$ and $\varepsilon_j$ , to approximate the true two-body EPS2 value,
-
-$$\varepsilon_{ij} \approx \mathcal{F}(\varepsilon_i, \varepsilon_j),$$
-## (12)
-
-where we refer to the function, $\mathcal{F}$ , as an "EPS combiner." Such a model is a huge simplification of the underlying contact dynamics, but is useful in practice because it enables real-time evaluation using precomputed Bounce Maps.
-
-Candidate EPS combiners: We consider all combiners satisfying the following design criteria:
-
-Unity: $\mathcal{F}:[0,1]\times[0,1]\to[0,1]$ Symmetry: $\mathcal{F}(\varepsilon_i,\varepsilon_j)=\mathcal{F}(\varepsilon_j,\varepsilon_i)$ Monotonicity: $\partial_i\mathcal{F}\geq 0, \quad \partial_j\mathcal{F}\geq 0$ Identity: $\varepsilon=\mathcal{F}(\varepsilon,\varepsilon),$ 
-
-where the last IDENTITY follows by considering mirror contact problems (see Figure 13). In addition, we only consider *non-parametric* models, so as to not introduce additional object-specific parameters that must be determined. We consider seven candidate models: max, min, means (arithmetic, geometric, harmonic), and "flipped" combiners $1 - \mathcal{F}(\bar{\epsilon}_i, \bar{\epsilon}_j)$ (where $\bar{\epsilon} \equiv 1 - \epsilon$ ) which yield flipped geometric and harmonic means (see equations in Table 1).
-
-## ![](_page_6_Picture_21.jpeg)
-
-Fig. 13. **Mirrored restitution problems:** Our one-body restitution analysis with a rigid planar surface can be interpreted as a two-body problem for a perfectly symmetric configuration. Both the virtual (Left) and real (Right) objects see one-body EPS1 values of $\varepsilon$ , and the simultaneous two-body EPS2 simulation will also result in $\varepsilon$ . Consequently, EPS combiners should satisfy the IDENTITY relationship, $\varepsilon = \mathcal{F}(\varepsilon, \varepsilon)$ .
-
-*EPS2 Dataset:* Using the two-body point-contact solver from §5.1, we numerically investigate the candidate EPS combiners for several models. Specifically, we computed self-collisions between an object and a copy of itself. For each object, we generated 200 sample locations that provided an approximately uniform sampling of Bounce Map $\varepsilon$ values. For each pair of selected contact points, i and j, we perform a two-body restitution analysis to obtain $\varepsilon_{ij}$ (exploiting symmetry); in our dataset, we compute 40000 two-body COR values per object. We plot $\varepsilon_{ij}$ as a function of $\varepsilon_i$ and $\varepsilon_j$ in Figure 14.
-
-## ![](_page_7_Figure_1.jpeg)
-
-Fig. 14. **Two-body restitution coefficients**, $\varepsilon_{ij}$ , plotted as a function of $\varepsilon_i$ and $\varepsilon_j$ values, reveal complicated distributions ( $\varepsilon$ jet colormap identical to previous plots). Each two-body restitution coefficient was computed by colliding each object with a copy of itself at 40000 (i, j) vertex pairs, with known $\varepsilon_i$ and $\varepsilon_j$ values spanning the available range.
-
-| Model Name | $\mathcal{F}(\varepsilon_i, \varepsilon_j)$ | Dragon | Buddha | Rect Bar | Rod | French Curve | Bunny | <error></error> |
+4 while $C(x_{rigid})  |
 |------------------|-----------------------------------------------------|--------|--------|---------|-------|-------------|-------|-----------------|
 | Arithmetic mean | $(\varepsilon_i + \varepsilon_j)/2$ | 0.096 | 0.106 | 0.114 | 0.108 | 0.092 | 0.174 | 0.115 |
 | Geometric Flipped | $1-\sqrt{\bar{\varepsilon}_i\bar{\varepsilon}_j}$ | 0.067 | 0.109 | 0.124 | 0.119 | 0.084 | 0.221 | 0.121 |

@@ -1,25 +1,8 @@
 ---
-title: At long last
-author: David Graeber
-date: '2017'
-pubdate: '2023-02-20T00:36:36'
-language: en
-source_url: >-
-  Foreword to <em>The Fire of the Jaguar</em> by Terence S. Turner (HAU Books
-  edition, 2017), pp. xix-xl
-notes: >-
-  Available online at
-  [[https://haubooks.org/the-fire-of-the-jaguar/][haubooks.org]] (open access).
-  | See also: David Graeber Institute [[https://davidgraeber.institute/]] &
-  [[https://davidgraeber.org/]]
-original_format: muse
-converted_date: '2025-11-08T11:25:03.047996'
-tags:
-  - theory
-  - contemporary
-  - rent
-  - prisons
-  - organizing
+title: "At long last"
+author: "David Graeber"
+date: "2017"
+category: "contemporary-analysis"
 ---
 
 For anyone in the Chicago anthropology department in the 1970s,’80s, and ’90s, *The fire of the jaguar* holds a legendary status. I mean this in the almost literal sense: it was wondrous; it had strange and awesome powers; no one was entirely sure if it really existed. Terry refused to publish it. Or even to show it around. Yet the very fact of its hiddenness made it a kind of talisman of secret potency.
@@ -179,14 +162,13 @@ Well, pendulums do swing. It’s possible that the current adamant hostility to 
 
 ### REFERENCES CITED
 
-<biblio>
+
 Latour, Bruno. 2007. *Reassembling the social*. Oxford: Clarendon.
 
 Piaget, Jean. 1970. *Structuralism*. Translated and edited by Chaninah Maschler. New York: Basic Books.
 
 Turner, Terence S. 1977. “Narrative structure and mythopoiesis: A critique and reformulation of structuralist concepts of myth narrative and poetics.” *Arethusa* 10 (11): 103–64.
 
-</biblio>
 
 [1] I know three definitely existed: *The fire of the jaguar*, a collection called *Critique of pure culture* contracted to Berg but endlessly delayed, and *The Kayapó of eastern Para*, a manuscript prepared for “Cedi, Povos Indigenas do Brasil, Volume VIII” of which I still have a copy of the first 56 pages—I can’t for the life of me figure out what happened to the rest of it. Other rumored volumes may or may not be mythical.
 

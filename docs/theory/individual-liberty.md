@@ -1,13 +1,8 @@
 ---
-author: Economic Rent
-date: 1893
-title: Individual Liberty
-tags:
-  - theory
-  - anarchism
-  - strikes
-  - unions
-  - tenants
+title: "Individual Liberty"
+author: "Economic Rent"
+date: "1893"
+category: "theory"
 ---
 
 # Individual Liberty
@@ -25,10 +20,6 @@ tags:
 ![Page 1 Complete](images/page_001_full.png)
 
 ### Extracted Text
-
-
-
-
 
 
              Benjamin Tucker
@@ -76,7 +67,6 @@ tags:
                  Liberty, Land, and Labor
 
 
-
 1 of 194                                                                                               10/23/25, 1:37 PM 
 ---
 
@@ -86,8 +76,6 @@ tags:
 ![Page 2 Complete](images/page_002_full.png)
 
 ### Extracted Text
-
-
 
 
                  Property Under Anarchism
@@ -106,7 +94,6 @@ tags:
                  Liberty and the Boycott
                  Anarchism and Copyright
                Bibliography
-
 
 
              Publisher’s Note
@@ -150,8 +137,6 @@ tags:
 ![Page 3 Complete](images/page_003_full.png)
 
 ### Extracted Text
-
-
 
 
                For a number of years practically all of the literature of Individualist
@@ -216,8 +201,6 @@ tags:
 ### Extracted Text
 
 
-
-
              Radical Review in New Bedford. In the same year he joined the editorial staﬀ
              of the Boston Daily Globe, remaining for eleven years.
                In 1881 he founded Liberty, which he continued to publish, with some
@@ -269,7 +252,6 @@ tags:
                      Los Angeles, California.
 
 
-
 4 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
@@ -279,8 +261,6 @@ tags:
 ![Page 5 Complete](images/page_005_full.png)
 
 ### Extracted Text
-
-
 
 
                      August, 1926.
@@ -331,7 +311,6 @@ tags:
                 For it is a curious fact that the two extremes of the vast army now under
 
 
-
 5 of 194                                                                                            10/23/25, 1:37 PM 
 ---
 
@@ -341,8 +320,6 @@ tags:
 ![Page 6 Complete](images/page_006_full.png)
 
 ### Extracted Text
-
-
 
 
              consideration, though united, as has been hinted above, by the common claim
@@ -407,8 +384,6 @@ tags:
 ### Extracted Text
 
 
-
-
                 This seems to have been done independently by three diﬀerent men, of
              three diﬀerent nationalities, in three diﬀerent languages: Josiah Warren, an
              American; Pierre J. Proudhon, a Frenchman; Karl Marx, a German Jew. That
@@ -469,8 +444,6 @@ tags:
 ![Page 8 Complete](images/page_008_full.png)
 
 ### Extracted Text
-
-
 
 
              individual choice.
@@ -535,8 +508,6 @@ tags:
 ### Extracted Text
 
 
-
-
              his rights, individuality gradually disappears and the government or State
              becomes the all-in-all. Control naturally accompanies responsibility. Under the
              system of State Socialism, therefore, which holds the community responsible
@@ -597,8 +568,6 @@ tags:
 ![Page 10 Complete](images/page_010_full.png)
 
 ### Extracted Text
-
-
 
 
              and of house-rent and ground-rent at as high a point as the necessities of the
@@ -663,8 +632,6 @@ tags:
 ### Extracted Text
 
 
-
-
              notes as currency. It is claimed that the holders of this privilege control the
              rate of interest, the rate of rent of houses and buildings, and the prices of
              goods, — the ﬁrst directly, and the second and third indirectly. For, say
@@ -725,8 +692,6 @@ tags:
 ![Page 12 Complete](images/page_012_full.png)
 
 ### Extracted Text
-
-
 
 
              conditions of freedom. But the inequality of soils which gives rise to the
@@ -791,8 +756,6 @@ tags:
 ### Extracted Text
 
 
-
-
              government is tyranny. Hence the necessity of abolishing the State. This was
              the logical conclusion to which Warren and Proudhon were forced, and it
              became the fundamental article of their political philosophy. it is the doctrine
@@ -855,8 +818,6 @@ tags:
 ### Extracted Text
 
 
-
-
                In the matter of the maintenance and rearing of children the Anarchists
              would neither institute the communistic nursery which the State Socialists
              favor nor keep the communistic school system which now prevails. The nurse
@@ -908,7 +869,6 @@ tags:
                      One is dogmatic, the other scientiﬁc.
 
 
-
 14 of 194                                                                                          10/23/25, 1:37 PM 
 ---
 
@@ -918,8 +878,6 @@ tags:
 ![Page 15 Complete](images/page_015_full.png)
 
 ### Extracted Text
-
-
 
 
                      One is emotional, the other reﬂective.
@@ -976,7 +934,6 @@ tags:
                      The second says: ‘Do as you wish yourself.’
 
 
-
 15 of 194                                                                                          10/23/25, 1:37 PM 
 ---
 
@@ -986,8 +943,6 @@ tags:
 ![Page 16 Complete](images/page_016_full.png)
 
 ### Extracted Text
-
-
 
 
                      The former threatens with despotism.
@@ -1044,8 +999,6 @@ tags:
                      One says:
 
 
-
-
 16 of 194                                                                                             10/23/25, 1:37 PM 
 ---
 
@@ -1055,8 +1008,6 @@ tags:
 ![Page 17 Complete](images/page_017_full.png)
 
 ### Extracted Text
-
-
 
 
                      The land to the State
@@ -1123,8 +1074,6 @@ tags:
 ### Extracted Text
 
 
-
-
              have abolished the concentrations that monopoly has created, the economic
              solution proposed by Anarchism and outlined in the forgoing pages — and
              there is no other solution — will remain a thing to be taught to the rising
@@ -1184,8 +1133,6 @@ tags:
 ![Page 19 Complete](images/page_019_full.png)
 
 ### Extracted Text
-
-
 
 
              make me somewhat conspicuous as an exponent of the theory of Modern
@@ -1250,8 +1197,6 @@ tags:
 ### Extracted Text
 
 
-
-
              the same area by two States is a contradiction. That the ﬁrst element,
              aggression, has been and is common to all States will probably be less
              generally admitted. Nevertheless, I shall not attempt to re-enforce here the
@@ -1312,8 +1257,6 @@ tags:
 ![Page 21 Complete](images/page_021_full.png)
 
 ### Extracted Text
-
-
 
 
              with men, the latter may combine to hold him to his agreement; but, in the
@@ -1378,8 +1321,6 @@ tags:
 ### Extracted Text
 
 
-
-
              no longer on a compulsory but on a voluntary basis, which will restrain
              invaders by any means that may prove necessary. “But that is what we have
              now,” is the rejoinder. “You really want, then, only a change of name?” Not so
@@ -1430,8 +1371,6 @@ tags:
              inscription written for a certain charitable institution:
 
 
-
-
 22 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
@@ -1441,8 +1380,6 @@ tags:
 ![Page 23 Complete](images/page_023_full.png)
 
 ### Extracted Text
-
-
 
 
                      “This hospital a pious person built,
@@ -1508,8 +1445,6 @@ tags:
 ### Extracted Text
 
 
-
-
              punishes and rewards. It is in the power of the Eternal to render you happy or
              unhappy at his will.
                 “All legislations have adopted this style; all, speaking to man, employ the
@@ -1570,8 +1505,6 @@ tags:
 ![Page 25 Complete](images/page_025_full.png)
 
 ### Extracted Text
-
-
 
 
              communion of the human race, you become an object of suspicion. Nothing
@@ -1636,8 +1569,6 @@ tags:
 ### Extracted Text
 
 
-
-
              achieved. Last century Voltaire brought the authority of the supernatural into
              disrepute. The Church has been declining ever since. Her teeth are drawn,
              and though she seems still to show here and there vigorous signs of life, she
@@ -1698,8 +1629,6 @@ tags:
 ![Page 27 Complete](images/page_027_full.png)
 
 ### Extracted Text
-
-
 
 
              though as progressive beings we have plenty of it. But, if we had perfect
@@ -1764,8 +1693,6 @@ tags:
 ### Extracted Text
 
 
-
-
              point against himself in instancing the Protestant sects that it is really
              laughable to see him try to use it against me. However it may be with the
              Protestant sects, the one great Protestant body itself was born of protest,
@@ -1826,8 +1753,6 @@ tags:
 ![Page 29 Complete](images/page_029_full.png)
 
 ### Extracted Text
-
-
 
 
              State cannot disappear until the individual is perfected. In saying which, Mr.
@@ -1892,8 +1817,6 @@ tags:
 ### Extracted Text
 
 
-
-
              no longer is that it is necessarily un-Anarchistic to use violence, but that other
              inﬂuences than violence are more potent to overcome invasion. Exactly; that
              is the gospel which Liberty has always preached. I have never said anything
@@ -1954,8 +1877,6 @@ tags:
 ![Page 31 Complete](images/page_031_full.png)
 
 ### Extracted Text
-
-
 
 
              the word blame. I charge them with committing gross outrage upon the
@@ -2020,8 +1941,6 @@ tags:
 ### Extracted Text
 
 
-
-
              State originated in aggression Herbert Spencer has proved. If it now pretends
              to exist for purposes of defence, it is because the advance of sociology has
              made such a pretense necessary to its preservation. Mistaking this pretense
@@ -2084,8 +2003,6 @@ tags:
 ### Extracted Text
 
 
-
-
              have told Mr. Pentecost, that the believers in equal liberty ask nothing better
              than that all men should voluntarily act in accordance with the principle. But
              it is a melancholy fact that many men are not willing so to act. So far as our
@@ -2135,7 +2052,6 @@ tags:
              Liberty and Organization
 
 
-
 33 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
@@ -2145,8 +2061,6 @@ tags:
 ![Page 34 Complete](images/page_034_full.png)
 
 ### Extracted Text
-
-
 
 
                      Thirty-ﬁve years ago the Personal Rights Journal of London, at that
@@ -2200,7 +2114,6 @@ tags:
              Individualism, on the other hand, would not only restrain the active invader
 
 
-
 34 of 194                                                                                        10/23/25, 1:37 PM 
 ---
 
@@ -2210,8 +2123,6 @@ tags:
 ![Page 35 Complete](images/page_035_full.png)
 
 ### Extracted Text
-
-
 
 
              up to the point necessary to restore freedom to others, but would also coerce
@@ -2276,8 +2187,6 @@ tags:
 ### Extracted Text
 
 
-
-
              liberty compatible with the equality of liberty. But this maximum of liberty is a
              very diﬀerent thing from that which is to be attained, according to the
              hypothesis, only by violating equality of liberty. For, certainly, to coerce the
@@ -2328,7 +2237,6 @@ tags:
                      Read, in London Jus, attacked the position of Anarchism on this
 
 
-
 36 of 194                                                                                        10/23/25, 1:37 PM 
 ---
 
@@ -2338,8 +2246,6 @@ tags:
 ![Page 37 Complete](images/page_037_full.png)
 
 ### Extracted Text
-
-
 
 
                      point and was thus answered by Mr. Tucker:
@@ -2393,7 +2299,6 @@ tags:
              security at a reasonable price. And what is more; the better their services, the
 
 
-
 37 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
@@ -2403,8 +2308,6 @@ tags:
 ![Page 38 Complete](images/page_038_full.png)
 
 ### Extracted Text
-
-
 
 
              less they would be needed; so that the multiplication of “States” involves the
@@ -2469,8 +2372,6 @@ tags:
 ### Extracted Text
 
 
-
-
              organism. If it should be destroyed tomorrow, individuals would still continue
              to exist. Production, exchange, and association would go on as before, but
              much more freely, and all those social functions upon which the individual is
@@ -2531,8 +2432,6 @@ tags:
 ![Page 40 Complete](images/page_040_full.png)
 
 ### Extracted Text
-
-
 
 
              seemed the diﬀiculties of freedom of thought two centuries ago. What does he
@@ -2598,8 +2497,6 @@ tags:
 ### Extracted Text
 
 
-
-
              or divisions of territory, had been brought into the association by these parties
              as individual occupiers thereof, and no non-contracting party would have a
              right to enter or remain in this domain except upon such terms as the
@@ -2660,8 +2557,6 @@ tags:
 ![Page 42 Complete](images/page_042_full.png)
 
 ### Extracted Text
-
-
 
 
              will “compromise with existing circumstances” when we have to; but at all
@@ -2726,8 +2621,6 @@ tags:
 ### Extracted Text
 
 
-
-
              evolution in the path of economy. Evolution left to itself will sooner or later
              eliminate every other social form and leave us Anarchy. But evolution guided
              will try to discover the common element in its past failures, summarily reject
@@ -2788,8 +2681,6 @@ tags:
 ![Page 44 Complete](images/page_044_full.png)
 
 ### Extracted Text
-
-
 
 
              exists, force must exist to repress it. Who denies it? Certainly not Liberty;
@@ -2854,8 +2745,6 @@ tags:
 ### Extracted Text
 
 
-
-
              better than to pay them. We can fancy him replying with pardonable
              indignation: “Cunning knaves, you know very well that it is your Church that
              saturates the people with superstition, and that to justify its existence on the
@@ -2918,8 +2807,6 @@ tags:
 ### Extracted Text
 
 
-
-
              they shall not gamble or swear; that they shall not sell certain articles at all,
              or buy certain others without paying a tax for the privilege, and that they
              shall not mail, own, or read any obscene literature except the Bible. That is to
@@ -2970,7 +2857,6 @@ tags:
              rolling up majorities at the polls, they can teach the members of the Boston
 
 
-
 46 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
@@ -2980,8 +2866,6 @@ tags:
 ![Page 47 Complete](images/page_047_full.png)
 
 ### Extracted Text
-
-
 
 
              Political Class a trick or two by which they can gain numerical supremacy,
@@ -3046,8 +2930,6 @@ tags:
 ### Extracted Text
 
 
-
-
              completion of self-conscious intelligence or individuality. Each of these
              objects, in the view of the lecturer, is necessary to the existence of any society
              worthy of the name, and the omission of any one of them disastrous. The State
@@ -3108,8 +2990,6 @@ tags:
 ![Page 49 Complete](images/page_049_full.png)
 
 ### Extracted Text
-
-
 
 
              without which all other freedoms are of little or no avail, — the freedom of
@@ -3174,8 +3054,6 @@ tags:
 ### Extracted Text
 
 
-
-
              the true way of salvation. Why, then, does he not steadily follow it?
                 Mr. Pinney combats prohibition in the name of Liberty. Thereupon I showed
              him that his argument was equally good against his own advocacy of a tariﬀ
@@ -3236,8 +3114,6 @@ tags:
 ![Page 51 Complete](images/page_051_full.png)
 
 ### Extracted Text
-
-
 
 
              haven’t. To say nothing of the fact that the governmental prohibition here
@@ -3302,8 +3178,6 @@ tags:
 ### Extracted Text
 
 
-
-
              analogy between a prohibitory liquor law and a revenue tariﬀ (which I do not
              grant, but deny), it would still remain for him to show that there is no analogy
              between a prohibitory liquor law and such a tariﬀ as he favors, all, — or else
@@ -3354,7 +3228,6 @@ tags:
              argument, well sustained by facts, is pertinent and valid. This position also I
 
 
-
 52 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
@@ -3364,8 +3237,6 @@ tags:
 ![Page 53 Complete](images/page_053_full.png)
 
 ### Extracted Text
-
-
 
 
              can understand, and with it, if not laid down as too absolute a rule, I
@@ -3430,8 +3301,6 @@ tags:
 ### Extracted Text
 
 
-
-
              thing by a person which will receive either social sanction, or else unanimous
              individual sanction, when the laws of social expediency shall have been ﬁnally
              discovered. (Of course I might go farther and explain that Anarchism
@@ -3482,7 +3351,6 @@ tags:
              theory to attempt to frame any rational view of society or life without
 
 
-
 54 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
@@ -3492,8 +3360,6 @@ tags:
 ![Page 55 Complete](images/page_055_full.png)
 
 ### Extracted Text
-
-
 
 
              recognition of these tests, by which, broadly speaking, distinctions have been
@@ -3555,8 +3421,6 @@ tags:
 ![Page 56 Complete](images/page_056_full.png)
 
 ### Extracted Text
-
-
 
 
              Uncle Sam’s treasury,” he would like to inquire “how any minority, however
@@ -3621,8 +3485,6 @@ tags:
 ### Extracted Text
 
 
-
-
              the abolition of rent, but were willing to temporarily exploit any sentiment or
              policy that would ﬂoat them into power and inﬂuence. But it was pursued far
              enough to show that the British government was utterly powerless before it;
@@ -3683,8 +3545,6 @@ tags:
 ![Page 58 Complete](images/page_058_full.png)
 
 ### Extracted Text
-
-
 
 
              informers), simply dropped their tools, briefs, documents, and what not, and
@@ -3748,8 +3608,6 @@ tags:
 ### Extracted Text
 
 
-
-
                      No superstition was so tirelessly and so mercilessly attacked by the
                      editor of Liberty as that of the ballot. To those who defended it and
                      advocated it as a means of securing liberty he was always ready
@@ -3801,7 +3659,6 @@ tags:
              useful work. He already accepts Anarchy as an ultimate, and the whole tenor
 
 
-
 59 of 194                                                                                        10/23/25, 1:37 PM 
 ---
 
@@ -3811,8 +3668,6 @@ tags:
 ![Page 60 Complete](images/page_060_full.png)
 
 ### Extracted Text
-
-
 
 
              of his writings is leading him on, it seems to me, to a casting-oﬀ of his
@@ -3865,7 +3720,6 @@ tags:
                      Liberty, setting forth his woes as a citizen beset with various
 
 
-
 60 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
@@ -3875,8 +3729,6 @@ tags:
 ![Page 61 Complete](images/page_061_full.png)
 
 ### Extracted Text
-
-
 
 
                      diﬀiculties. He wished to be informed if Anarchism could free him
@@ -3930,7 +3782,6 @@ tags:
              assumption as absurd. Anarchists work for the abolition of the State, but by
 
 
-
 61 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
@@ -3940,8 +3791,6 @@ tags:
 ![Page 62 Complete](images/page_062_full.png)
 
 ### Extracted Text
-
-
 
 
              this they mean not its overthrow, but, as Proudhon put it, its dissolution in the
@@ -4004,8 +3853,6 @@ tags:
 ### Extracted Text
 
 
-
-
              impression.
                What are the ways by which men gain possession of property? Not many.
              Let us name them: work, gift, discovery, gaming, the various forms of illegal
@@ -4066,8 +3913,6 @@ tags:
 ![Page 64 Complete](images/page_064_full.png)
 
 ### Extracted Text
-
-
 
 
              he, stripped of his power to steal, must either join their ranks or starve.
@@ -4133,8 +3978,6 @@ tags:
 ### Extracted Text
 
 
-
-
                “James makes a plane, lends it to William on 1st of January for a year.
              William gives him a plank for the loan of it, wears it out, and makes another
              for James, which he gives him on 31st December. On 1st January he again
@@ -4195,8 +4038,6 @@ tags:
 ![Page 66 Complete](images/page_066_full.png)
 
 ### Extracted Text
-
-
 
 
              contract the volume of the currency, could they not, and would they not, raise
@@ -4261,8 +4102,6 @@ tags:
 ### Extracted Text
 
 
-
-
              labor notes were rarely redeemed in corn. If he had made corn his exclusive
              basis, there would be no distinction in principle between him and the specie
              men. Perhaps the central point in his monetary theory was his denial of the
@@ -4313,7 +4152,6 @@ tags:
              not best that any more of us should become farmers, even if every homestead
 
 
-
 67 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
@@ -4323,8 +4161,6 @@ tags:
 ![Page 68 Complete](images/page_068_full.png)
 
 ### Extracted Text
-
-
 
 
              could be made an Arcadia. The plough is very well in its way, and Arcadia was
@@ -4389,8 +4225,6 @@ tags:
 ### Extracted Text
 
 
-
-
              abolish only ground-rent. Therefore, unless labor pays more in ground-rent
              than in interest, proﬁt, and rent of buildings combined, the money question is
              of more importance than the land question. There are countries where this is
@@ -4451,8 +4285,6 @@ tags:
 ![Page 70 Complete](images/page_070_full.png)
 
 ### Extracted Text
-
-
 
 
                Mr. Bilgram, if I understand him, prefers government banking to mutual
@@ -4518,8 +4350,6 @@ tags:
 ### Extracted Text
 
 
-
-
              exacting this cost? If they should, they would be working for others for
              nothing, very diﬀerent thing from “receiving pay for work they had not
              performed.” No man can lend money unless he either issues it himself and
@@ -4581,8 +4411,6 @@ tags:
 ![Page 72 Complete](images/page_072_full.png)
 
 ### Extracted Text
-
-
 
 
              transferred are frequently of the greatest advantage, as they enable men to
@@ -4647,8 +4475,6 @@ tags:
 ### Extracted Text
 
 
-
-
              the word “primarily” introduces an element of error. If we are to inquire upon
              what interest primarily depends, we shall start upon an endless journey into
              the realm of metaphysics. But without entering that realm we certainly can go
@@ -4709,8 +4535,6 @@ tags:
 ![Page 74 Complete](images/page_074_full.png)
 
 ### Extracted Text
-
-
 
 
              change the wording of the phrase. Let it be stated thus: “The abolition of
@@ -4775,8 +4599,6 @@ tags:
 ### Extracted Text
 
 
-
-
              I am not so good-natured. I admit that, as a clown, I ﬁnd the editor
              interesting, but his performance, appropriate enough in a Barnum circus ring,
              is out of place in the economic area. So I propose to ignore his three pages of
@@ -4828,7 +4650,6 @@ tags:
                      “An Enquirer” wrote to the editor of Liberty confessing her
 
 
-
 75 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
@@ -4838,8 +4659,6 @@ tags:
 ![Page 76 Complete](images/page_076_full.png)
 
 ### Extracted Text
-
-
 
 
                      incapacity to understand why he advocated the abolition of rent and
@@ -4893,7 +4712,6 @@ tags:
              persons are equally free to comply with the provisions of the national
 
 
-
 76 of 194                                                                                        10/23/25, 1:37 PM 
 ---
 
@@ -4903,8 +4721,6 @@ tags:
 ![Page 77 Complete](images/page_077_full.png)
 
 ### Extracted Text
-
-
 
 
              banking, act; for these provisions by their very nature, limiting the basis of
@@ -4970,8 +4786,6 @@ tags:
 ### Extracted Text
 
 
-
-
                But, once this necessary term is found or devised, the old question recurs:
              will free and mutual banking make it possible to procure capital without
              paying for its use?
@@ -5023,7 +4837,6 @@ tags:
                      as follows:
 
 
-
 78 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
@@ -5033,8 +4846,6 @@ tags:
 ![Page 79 Complete](images/page_079_full.png)
 
 ### Extracted Text
-
-
 
 
                To my ﬁrst question Mr. Ingalls answers that the bank of my hypothesis
@@ -5097,8 +4908,6 @@ tags:
 ![Page 80 Complete](images/page_080_full.png)
 
 ### Extracted Text
-
-
 
 
              cent. is a suﬀicient motive to business men as borrowers to induce them to
@@ -5164,8 +4973,6 @@ tags:
 ### Extracted Text
 
 
-
-
              competition would have a tendency of the same strength as that which it has
              in other businesses similarly free from physical limitations, — in other words,
              that the tendency would be strong enough to cause the price to hover around
@@ -5225,8 +5032,6 @@ tags:
 ![Page 82 Complete](images/page_082_full.png)
 
 ### Extracted Text
-
-
 
 
                      In the early 90’s, the Galveston News had on its staﬀ an
@@ -5292,8 +5097,6 @@ tags:
 ### Extracted Text
 
 
-
-
              value, precisely as the man who buys cloth with a short yardstick and sells it
              with a long one is a suﬀerer from the variation in the standard of length? The
              claim that a standard of value varies, and inﬂicts damage by its variations, is
@@ -5355,8 +5158,6 @@ tags:
 ![Page 84 Complete](images/page_084_full.png)
 
 ### Extracted Text
-
-
 
 
              disavow the calculations of a man who should begin an attempt to solve a
@@ -5422,8 +5223,6 @@ tags:
 ### Extracted Text
 
 
-
-
              will be redeemed, in the vast majority of cases, by a re-exchange of it for the
              borrowers’ notes against which it was originally issued. That is, the borrower
              himself will present at the bank notes equivalent to those which he received
@@ -5485,8 +5284,6 @@ tags:
 ![Page 86 Complete](images/page_086_full.png)
 
 ### Extracted Text
-
-
 
 
              turn upon their knowledge that the notes will ultimately command their face
@@ -5551,8 +5348,6 @@ tags:
 ### Extracted Text
 
 
-
-
              supply of the kinds of property upon which the paper dollars rest. And, unless
              these kinds of property themselves depreciate suﬀiciently to endanger the
              notes, each paper dollar is worth a standard dollar, neither more or less. Mr.
@@ -5604,7 +5399,6 @@ tags:
                      them at par?” and “In the present world, what will maintain the
 
 
-
 87 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
@@ -5614,8 +5408,6 @@ tags:
 ![Page 88 Complete](images/page_088_full.png)
 
 ### Extracted Text
-
-
 
 
                      value of a mutual-bank note which has good collateral, if ‘all the
@@ -5681,8 +5473,6 @@ tags:
 ### Extracted Text
 
 
-
-
              associating it with, and even basing it upon, a professed solution of the
              perpetual motion problem, I could not feel a deeper sense of humiliation for
              my cause than I feel when I receive a new book, written by an earnest
@@ -5743,8 +5533,6 @@ tags:
 ![Page 90 Complete](images/page_090_full.png)
 
 ### Extracted Text
-
-
 
 
              banking. But no work could be better calculated to ﬁll the mind of a beginner
@@ -5810,8 +5598,6 @@ tags:
 ### Extracted Text
 
 
-
-
              metal as a standard of value,” does not thereby antagonize the theory of a
              standard of value. The most that can be gathered from it is a hint that
              Proudhon considered that, when all values should be “constituted,” to use his
@@ -5872,8 +5658,6 @@ tags:
 ![Page 92 Complete](images/page_092_full.png)
 
 ### Extracted Text
-
-
 
 
              exclude any other explanation. This is suﬀicient in itself. Even if a passage
@@ -5938,8 +5722,6 @@ tags:
 ### Extracted Text
 
 
-
-
              the question, and in the little that he did say, instead of always taking pains to
              make his language clear and unmistakable, sometimes expressed himself
              carelessly, as one is apt to do when speaking upon a matter where he does not
@@ -6002,8 +5784,6 @@ tags:
 ### Extracted Text
 
 
-
-
              informing the public. Mr. Wright’s mistake probably arises from adherence to
              the old notion that a bank of issue needs capital of its own, and that this
              capital constitutes the security of the note-holders. The real fact is that the
@@ -6064,8 +5844,6 @@ tags:
 ![Page 95 Complete](images/page_095_full.png)
 
 ### Extracted Text
-
-
 
 
              lien” privilege, unwarrantable invasions of individual and associative liberty,
@@ -6131,8 +5909,6 @@ tags:
 ### Extracted Text
 
 
-
-
              that all new banks of issue have been forbidden since 1845. I do not deny that
              under such conditions demand notes can hold their solvency without a full
              coin reserve; but certainly Mr. Wright must withdraw his assertion that free
@@ -6193,8 +5969,6 @@ tags:
 ![Page 97 Complete](images/page_097_full.png)
 
 ### Extracted Text
-
-
 
 
                Mr. Wright’s paper is admirably brave and earnest, and presents the case
@@ -6260,8 +6034,6 @@ tags:
 ### Extracted Text
 
 
-
-
              seeing the letters in the Conservator, promptly wrote to me, calling my
              attention to the fact that, of the seven provisions constituting Greene’s plan
              for a mutual bank, the seventh is that “the bank shall never redeem any of its
@@ -6322,8 +6094,6 @@ tags:
 ![Page 99 Complete](images/page_099_full.png)
 
 ### Extracted Text
-
-
 
 
              his credit after satisfaction of the bank’s claim, — both of which, in my view,
@@ -6389,8 +6159,6 @@ tags:
 ### Extracted Text
 
 
-
-
              other currency in the people’s mind, he had not to guard against other ideas.
              Consequently he declared the mutual bank-notes independence of hard money
              in language so absolute and unqualiﬁed as to give some color to the latter-day
@@ -6453,8 +6221,6 @@ tags:
 ### Extracted Text
 
 
-
-
              of circulating currency would be constantly passing through their hands, as a
              result of which they would be able, not only by their individual eﬀorts, but by
              their associative eﬀorts taking eﬀect through the clearing-house, to call in
@@ -6505,7 +6271,6 @@ tags:
              logic.
 
 
-
 101 of 194                                                                                     10/23/25, 1:37 PM 
 ---
 
@@ -6515,8 +6280,6 @@ tags:
 ![Page 102 Complete](images/page_102_full.png)
 
 ### Extracted Text
-
-
 
 
                      Mr. Fisher replied, in a letter to Liberty, so Mr. Tucker continued:
@@ -6570,7 +6333,6 @@ tags:
              privilege given it by government. It may be true, as Mr. Fisher says, that just
 
 
-
 102 of 194                                                                                        10/23/25, 1:37 PM 
 ---
 
@@ -6580,8 +6342,6 @@ tags:
 ![Page 103 Complete](images/page_103_full.png)
 
 ### Extracted Text
-
-
 
 
              as much gold would be used if it did not possess this monopoly. But that has
@@ -6647,8 +6407,6 @@ tags:
 ### Extracted Text
 
 
-
-
              necessity of borrowing additional capital from others would decrease the
              borrowing demand, and therefore the rate of interest. And if, as the
              Anarchists claim, this freedom to use capital as a basis of credit should give
@@ -6709,8 +6467,6 @@ tags:
 ![Page 105 Complete](images/page_105_full.png)
 
 ### Extracted Text
-
-
 
 
              existing in the vaults of the bank, no mere issue or withdrawal of them could
@@ -6775,8 +6531,6 @@ tags:
 ### Extracted Text
 
 
-
-
              have them for sale, because all these customers are pledged to take the
              bank’s notes; to say nothing of the fact that the bank, though not bound to
              redeem on demand, is bound to redeem as fast as the mortgage notes mature.
@@ -6837,8 +6591,6 @@ tags:
 ![Page 107 Complete](images/page_107_full.png)
 
 ### Extracted Text
-
-
 
 
              millions each month, it thereby creates an artiﬁcial market.
@@ -6904,8 +6656,6 @@ tags:
 ### Extracted Text
 
 
-
-
              by any supposed beneﬁt conferred by the use of the tool over and above its
              wear and tear. In other words, the tool-maker would simply sell that portion of
              the tool destroyed in the act of manufacture instead of lending the tool and
@@ -6966,8 +6716,6 @@ tags:
 ![Page 109 Complete](images/page_109_full.png)
 
 ### Extracted Text
-
-
 
 
              crime for which pro to clap him into jail in order to save the Bank of France
@@ -7032,8 +6780,6 @@ tags:
 ### Extracted Text
 
 
-
-
              to New England to pay for cotton cloth, and thus goes back and forth as
              constantly as the railway car and facilitates exchange equally with the railway
              car and wears out in the process just as the railway car wears out, is in my
@@ -7094,8 +6840,6 @@ tags:
 ![Page 111 Complete](images/page_111_full.png)
 
 ### Extracted Text
-
-
 
 
              Where there is free competition in the manufacture and sale of spades, the
@@ -7160,8 +6904,6 @@ tags:
 ### Extracted Text
 
 
-
-
              production, and thus increases his productive power very much as greater
              skill would? And if Podge gives to Hodge more than a pail of cold water for
              the pot of boiling water, does Podge lose anything that he had, or Hodge gain
@@ -7222,8 +6964,6 @@ tags:
 ![Page 113 Complete](images/page_113_full.png)
 
 ### Extracted Text
-
-
 
 
              capital imply because he continually loses sight of the fact that competition
@@ -7288,8 +7028,6 @@ tags:
 ### Extracted Text
 
 
-
-
              applied to them, and even on money itself. Hodge’s grain, after it has been
              growing for a month, is worth more than when it was ﬁrst sown; therefore
              Podge, the shovel-maker, who supplies a market which it takes a month to
@@ -7350,8 +7088,6 @@ tags:
 ![Page 115 Complete](images/page_115_full.png)
 
 ### Extracted Text
-
-
 
 
              impose arbitrary conditions upon producers who must immediately use that
@@ -7416,8 +7152,6 @@ tags:
 ### Extracted Text
 
 
-
-
              place, this deﬁnition is not correct, for that is money which performs the
              functions of money, no matter who issues it. But even if it were correct, of
              what earthly consequence could it be? Names are nothing. Who cares
@@ -7478,8 +7212,6 @@ tags:
 ![Page 117 Complete](images/page_117_full.png)
 
 ### Extracted Text
-
-
 
 
              nothing left to be bought, and that it will require an inﬁnite number of
@@ -7544,8 +7276,6 @@ tags:
 ### Extracted Text
 
 
-
-
              advance, of the vitalizing power of free competition. If the experiment should
              be tried, the net result would probably be evil. It would fail, disastrously fail,
              and the failure and disaster would be falsely and stupidly attributed to its real
@@ -7606,8 +7336,6 @@ tags:
 ![Page 119 Complete](images/page_119_full.png)
 
 ### Extracted Text
-
-
 
 
              Stanford’s land bill, more scientiﬁc and workable, but incomplete, andx
@@ -7673,8 +7401,6 @@ tags:
 ### Extracted Text
 
 
-
-
              transactions B’s notes based on A’s farm, — that is, a currency based on some
              security “other than its inherent function and non-discountableness.” They
              were able to perform them only because they all knew that the notes were
@@ -7736,8 +7462,6 @@ tags:
 ![Page 121 Complete](images/page_121_full.png)
 
 ### Extracted Text
-
-
 
 
              of getting capital, proﬁts fall to the level of the manufacturer’s or merchants
@@ -7803,8 +7527,6 @@ tags:
 ### Extracted Text
 
 
-
-
              which pay annually in salaries and wages $811,936,170, and to capital, which
              Mr. Denslow deﬁnes as the “labor previously done in constructing and
              equipping the roads,” $81,720,265. Then he remarks:
@@ -7867,8 +7589,6 @@ tags:
 ### Extracted Text
 
 
-
-
              When the money monopolists through their privilege have bled the producers
              nearly all they can, hard times set in, business becomes very insecure, no one
              dares to venture in new directions or proceed much further in old directions,
@@ -7928,8 +7648,6 @@ tags:
 ![Page 124 Complete](images/page_124_full.png)
 
 ### Extracted Text
-
-
 
 
              appears to mean a change of the whole agricultural population into tenants of
@@ -7994,8 +7712,6 @@ tags:
 ### Extracted Text
 
 
-
-
              good, say I; no one denies that. But this is not what is ordinarily meant by the
              “productivity of capital”; and Edgeworth, by his own rule, is bound to use
              words in their usual sense. The usual sense of this phrase, and the sense in
@@ -8056,8 +7772,6 @@ tags:
 ![Page 126 Complete](images/page_126_full.png)
 
 ### Extracted Text
-
-
 
 
              tenant) has destroyed in appropriating it to his own use. If the tenant does not
@@ -8123,8 +7837,6 @@ tags:
 ### Extracted Text
 
 
-
-
              is usually a mere pretext made to deceive the people into paying exorbitant
              prices, and will not bear analysis for a moment.
                On the contrary, the employee, the one who does the work, is naturally and
@@ -8185,8 +7897,6 @@ tags:
 ![Page 128 Complete](images/page_128_full.png)
 
 ### Extracted Text
-
-
 
 
              country, partly because of this mobility of labor and partly because of the
@@ -8251,8 +7961,6 @@ tags:
 ### Extracted Text
 
 
-
-
              after conﬁscating this economic rent, has no right to devote it to any so-called
              public purposes, but should distribute it to the people. Supposing the people
              to be entitled to the economic rent, this certainly looks on its face like a much
@@ -8313,8 +8021,6 @@ tags:
 ![Page 130 Complete](images/page_130_full.png)
 
 ### Extracted Text
-
-
 
 
              equally free, is richer. Liberty will ultimately make all men rich; it will not
@@ -8379,8 +8085,6 @@ tags:
 ### Extracted Text
 
 
-
-
              a free ride whenever we want to go anywhere, or we will make any use of it,
              wise or foolish, that may come into our heads.”
                The reader who compares these two positions will need no comment of mine
@@ -8443,8 +8147,6 @@ tags:
 ### Extracted Text
 
 
-
-
                 In trying to answer the argument that land is practically useless to labor
              unprovided with capital, Henry George declares that “labor and land, even in
              the absence of secondary factors obtained from their produce, have in their
@@ -8505,8 +8207,6 @@ tags:
 ![Page 133 Complete](images/page_133_full.png)
 
 ### Extracted Text
-
-
 
 
              either by the State Socialistic method of concentrating the titles to them in
@@ -8572,8 +8272,6 @@ tags:
 ### Extracted Text
 
 
-
-
              primitive to substantiate my assertion, Mr. Curtis? Tell Mr. George that the
              laborer can do nothing without capital, and he will answer you substantially
              as follows: Originally there was nothing but a naked man and the naked land;
@@ -8635,8 +8333,6 @@ tags:
 ![Page 135 Complete](images/page_135_full.png)
 
 ### Extracted Text
-
-
 
 
              disputed that, under the system of land monopoly, certain individuals get, in
@@ -8701,8 +8397,6 @@ tags:
 ### Extracted Text
 
 
-
-
              association’s treasury, and in which all the members should agree to settle the
              method of its disposition by ballot, would be equitable enough, but would be a
              short-sighted, wasteful, and useless complication. A system of occupying
@@ -8763,8 +8457,6 @@ tags:
 ![Page 137 Complete](images/page_137_full.png)
 
 ### Extracted Text
-
-
 
 
              protection, but I will myself invade you and annually conﬁscate a portion of
@@ -8829,8 +8521,6 @@ tags:
 ### Extracted Text
 
 
-
-
              necessarily equal to economic rent. Which is the contrary of Egoist’s
              proposition.
                 Egoist’s deﬁnition of the right of possession of land rests on an assumption
@@ -8882,7 +8572,6 @@ tags:
                      his land that would be in excess of what, with an equal application
 
 
-
 138 of 194                                                                                        10/23/25, 1:37 PM 
 ---
 
@@ -8892,8 +8581,6 @@ tags:
 ![Page 139 Complete](images/page_139_full.png)
 
 ### Extracted Text
-
-
 
 
                      of labor, could be produced from inferior land. Mr. Tucker replied:
@@ -8947,7 +8634,6 @@ tags:
              above mentioned will decrease to a minimum. Probably it will never disappear
 
 
-
 139 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
@@ -8957,8 +8643,6 @@ tags:
 ![Page 140 Complete](images/page_140_full.png)
 
 ### Extracted Text
-
-
 
 
              entirely; on the other hand, it can never become intolerable. It must always
@@ -9024,8 +8708,6 @@ tags:
 ### Extracted Text
 
 
-
-
              of liberty; and if the contract places the former equality before the latter, it
              will lead to serious results, for it logically necessitates the arbitrary leveling
              of all material inequalities, whether these arise from diﬀerences of soil or
@@ -9086,8 +8768,6 @@ tags:
 ![Page 142 Complete](images/page_142_full.png)
 
 ### Extracted Text
-
-
 
 
              the monopoly) can only be directly achieved in one of two ways, — mutual
@@ -9152,8 +8832,6 @@ tags:
 ### Extracted Text
 
 
-
-
              restricting the liberty of the would-be competitors. To the Anarchist, who
              believes in the minimum of restriction upon liberty, this diﬀerence is a vital
              one, — quite suﬀicient to warrant him in refusing to prevent the one while
@@ -9214,8 +8892,6 @@ tags:
 ![Page 144 Complete](images/page_144_full.png)
 
 ### Extracted Text
-
-
 
 
              of all inequalities, — the inequality of liberty, or perhaps it would be more
@@ -9280,8 +8956,6 @@ tags:
 ### Extracted Text
 
 
-
-
              to show him that the fear of scramble and rigidity with which Anarchism
              inspires him has little or no foundation.
                 Mr. Herbert, as I understand him, believes in voluntary association,
@@ -9342,8 +9016,6 @@ tags:
 ![Page 146 Complete](images/page_146_full.png)
 
 ### Extracted Text
-
-
 
 
              proportion to its ﬂexibility, instead of as now in proportion to its rigidity.
@@ -9408,8 +9080,6 @@ tags:
 ### Extracted Text
 
 
-
-
                And further: it is assuming too much to say that a fair interpretation of the
              terms occupancy and use could exclude all but 100 men from the mine in
              question. Here the economic problem becomes complicated with engineering
@@ -9470,8 +9140,6 @@ tags:
 ![Page 148 Complete](images/page_148_full.png)
 
 ### Extracted Text
-
-
 
 
              their land to others wishing to do so, in either case there would be an
@@ -9536,8 +9204,6 @@ tags:
 ### Extracted Text
 
 
-
-
              be ﬂowing into the pockets of their customers. The proﬁts of the downtown
              druggist doing a large business at low prices could be little or no more than
              normal wages, and those of the uptown druggist doing a small business at
@@ -9598,8 +9264,6 @@ tags:
 ![Page 150 Complete](images/page_150_full.png)
 
 ### Extracted Text
-
-
 
 
              This would be a matter entirely for the jury. If I were on a jury to try the case
@@ -9664,8 +9328,6 @@ tags:
 ### Extracted Text
 
 
-
-
              can be saved from total destruction only by blowing up the houses on a strip
              of territory inhabited by non-invasive persons who refuse their consent to
              such disposition of their property. If Mr. Byington thinks that these houses
@@ -9726,8 +9388,6 @@ tags:
 ![Page 152 Complete](images/page_152_full.png)
 
 ### Extracted Text
-
-
 
 
              become one simply because, afterward, somebody else wishes to make a
@@ -9792,8 +9452,6 @@ tags:
 ### Extracted Text
 
 
-
-
                The collection of rent by each individual from all land-users on earth, which
              Mr. Byington accepts so complacently, is an absurdity which Miss Musson
              cannot stand. So she attempts to dispute my conclusion. I am not debating
@@ -9856,8 +9514,6 @@ tags:
 ### Extracted Text
 
 
-
-
              rightful becomes another’s, he must, upon the demand of the subsequent
              occupant, remove from this land the results of his self-exertion, or, failing so
              to do, sacriﬁce his property right therein. The man who persists in storing his
@@ -9909,7 +9565,6 @@ tags:
                      Liberty:
 
 
-
 154 of 194                                                                                        10/23/25, 1:37 PM 
 ---
 
@@ -9919,8 +9574,6 @@ tags:
 ![Page 155 Complete](images/page_155_full.png)
 
 ### Extracted Text
-
-
 
 
                 Mr Post admits the utterances attributed to him, and then proceeds to
@@ -9985,8 +9638,6 @@ tags:
 ### Extracted Text
 
 
-
-
              respectable empiricism deserve to be considered with care?
                 Mr. Horr complains of the indeﬁniteness with which the advocates of the
              occupancy-and-use theory explain it. My opinion is that the larger share of the
@@ -10047,8 +9698,6 @@ tags:
 ![Page 157 Complete](images/page_157_full.png)
 
 ### Extracted Text
-
-
 
 
              to do so. Yet Mr. Horr takes it to mean that force should not be used to collect
@@ -10112,8 +9761,6 @@ tags:
 ### Extracted Text
 
 
-
-
                      Following are some fragmentary paragraphs relating to diﬀerent
                      phases of the Single Tax and to Henry George’s perplexities
                      concerning his economic theories. The editor of Liberty took great
@@ -10165,7 +9812,6 @@ tags:
              obliged to sell his house at a sacriﬁce. That this method has some advantages
 
 
-
 158 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
@@ -10175,8 +9821,6 @@ tags:
 ![Page 159 Complete](images/page_159_full.png)
 
 ### Extracted Text
-
-
 
 
              over the “nigger” argument I am not prepared to deny, but I am tempted to
@@ -10241,8 +9885,6 @@ tags:
 ### Extracted Text
 
 
-
-
                 Henry George was recently reminded in these columns that his own logic
              would compel him to lay a tax not only on land values, but on all values
              growing out of increase of population, and newspaper properties were cited in
@@ -10303,8 +9945,6 @@ tags:
 ![Page 161 Complete](images/page_161_full.png)
 
 ### Extracted Text
-
-
 
 
              unreason.
@@ -10369,8 +10009,6 @@ tags:
 ### Extracted Text
 
 
-
-
              me. Since the Single Taxer proposes to sell it without even asking what I am
              willing to take for it, the Single Taxer is an advocate of robbery.
                If my just claim to a particular piece of land is sold, the proceeds of the sale
@@ -10433,8 +10071,6 @@ tags:
 ### Extracted Text
 
 
-
-
                So much for the charge of worry, which Mr. Hall used as an introduction to
              a complaint against me for printing, and against Mr. Yarros for writing, an
              article containing the following passages: “Wherever it is proﬁtable to
@@ -10484,7 +10120,6 @@ tags:
                      results, as he here pointed out:
 
 
-
 163 of 194                                                                                        10/23/25, 1:37 PM 
 ---
 
@@ -10494,8 +10129,6 @@ tags:
 ![Page 164 Complete](images/page_164_full.png)
 
 ### Extracted Text
-
-
 
 
                Ireland’s chief danger: the liability of her people — besotted with
@@ -10560,8 +10193,6 @@ tags:
 ### Extracted Text
 
 
-
-
              unsettled or attempting one of three ineﬀectual means of settling it, I think I
              should leave it unsettled. It would seem the wiser course to accept the
              situation. But the situation is not so hopeless. There is a fourth method of
@@ -10622,8 +10253,6 @@ tags:
 ### Extracted Text
 
 
-
-
                      From September 13 to 16, 1899, the Civic Federation held a
                      Conference on Trusts, in Chicago, before which it invited about one
                      hundred individuals from every walk of life and of various political
@@ -10675,7 +10304,6 @@ tags:
              stores should aﬀord him a sure foundation for a proﬁtable business. But, if
 
 
-
 166 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
@@ -10685,8 +10313,6 @@ tags:
 ![Page 167 Complete](images/page_167_full.png)
 
 ### Extracted Text
-
-
 
 
              Rockefeller’s possession of ﬁve hundred millions is not a good ground for the
@@ -10751,8 +10377,6 @@ tags:
 ### Extracted Text
 
 
-
-
              by the diﬀiculty of competition, only by the obstacles placed in the way of
              competition, — only, in short, by those arbitrary limitations of competition
              which we ﬁnd in those law created privileges and monopolies of which I have
@@ -10813,8 +10437,6 @@ tags:
 ![Page 169 Complete](images/page_169_full.png)
 
 ### Extracted Text
-
-
 
 
              of unoccupied land as freely as he takes possession of unoccupied water or
@@ -10879,8 +10501,6 @@ tags:
 ### Extracted Text
 
 
-
-
              individuals, including the creator or adapter, the realization, or impending
              realization, of this possibility, far from being seized upon as an excuse for a
              law to prevent the use of this concrete thing without the consent of its creator
@@ -10941,8 +10561,6 @@ tags:
 ![Page 171 Complete](images/page_171_full.png)
 
 ### Extracted Text
-
-
 
 
                Furthermore, were the conditions the same in both cases, and concrete
@@ -11007,8 +10625,6 @@ tags:
 ### Extracted Text
 
 
-
-
              the trust question, but the ﬁrst step that should be taken, and the greatest
              single step that can be taken, in economic and social reform.
                I have tried, in the few minutes allotted to me, to state concisely the
@@ -11069,8 +10685,6 @@ tags:
 ![Page 173 Complete](images/page_173_full.png)
 
 ### Extracted Text
-
-
 
 
              important truth that, if a man has labor to sell, he has a right to a free market
@@ -11135,8 +10749,6 @@ tags:
 ### Extracted Text
 
 
-
-
              broom! Still, while my sympathies thus go with the under dog, I shall never
              cease to proclaim my conviction that the annihilation of neither party can
              secure justice, and that the only eﬀective sweeping will be that which clears
@@ -11197,8 +10809,6 @@ tags:
 ![Page 175 Complete](images/page_175_full.png)
 
 ### Extracted Text
-
-
 
 
              through its external representative, the State, with privileges which enable
@@ -11263,8 +10873,6 @@ tags:
 ### Extracted Text
 
 
-
-
              “Unpaid labor” has been the chief complaint of all Socialists, and that labor
              should get its reward has been their chief contention. Suppose I had said to
              Kropotkine that the real question is whether Communism will permit
@@ -11325,8 +10933,6 @@ tags:
 ![Page 177 Complete](images/page_177_full.png)
 
 ### Extracted Text
-
-
 
 
              whereas the ways of Science, however devious and diﬀicult to tread, lead to
@@ -11391,8 +10997,6 @@ tags:
 ### Extracted Text
 
 
-
-
              Winsted Press presents the following ghost of an answer, which may be as
              convincing to the victims of political superstition as most materializations are
              to the victims of religious superstition, but which, like those materializations,
@@ -11455,8 +11059,6 @@ tags:
 ### Extracted Text
 
 
-
-
              voluntary associations, even government competition is unfair, because an
              association supported by compulsory taxation could always, if it chose, carry
              the mails at less than cost and tax the deﬁcit out of the people.
@@ -11517,8 +11119,6 @@ tags:
 ![Page 180 Complete](images/page_180_full.png)
 
 ### Extracted Text
-
-
 
 
              not possibly succeed unless its work was of such a nature as to admit the
@@ -11584,8 +11184,6 @@ tags:
 ### Extracted Text
 
 
-
-
              referred to “meant business” and was entitled to serious consideration. But
              suppose a like oﬀer to be made by a known and entirely competent and
              responsible or corporation; would congress and Teddy [President Roosevelt]
@@ -11648,8 +11246,6 @@ tags:
 ### Extracted Text
 
 
-
-
              indeed recommend the time dishonored virtues of industry and economy as a
              means of getting capital, but every observing person knows that the most
              industrious and economical persons are precisely the ones who have no
@@ -11710,8 +11306,6 @@ tags:
 ![Page 183 Complete](images/page_183_full.png)
 
 ### Extracted Text
-
-
 
 
              consistency. But I am not so sure what it will be in this case as I was in the
@@ -11777,8 +11371,6 @@ tags:
 ### Extracted Text
 
 
-
-
              misleading in what they fail to say. Mr. Spencer convicts legislators of
              undeniable and enormous sins in meddling with and curtailing and destroying
              the people’s rights. Their sins are sins of commission. But Mr. Spencer’s sin of
@@ -11839,8 +11431,6 @@ tags:
 ![Page 185 Complete](images/page_185_full.png)
 
 ### Extracted Text
-
-
 
 
              capitalistic privilege in any form.
@@ -11905,8 +11495,6 @@ tags:
 ### Extracted Text
 
 
-
-
              majority idea, a searching exposure of the inherent evil of State systems, and
              a glorious assertion of the inestimable beneﬁts of voluntary action and free
              competition, reaching its climax in the emphatic declaration that “this
@@ -11967,8 +11555,6 @@ tags:
 ![Page 187 Complete](images/page_187_full.png)
 
 ### Extracted Text
-
-
 
 
              world. It is a righteous determination, and in it is to be found the true
@@ -12033,8 +11619,6 @@ tags:
 ### Extracted Text
 
 
-
-
              and unrestricted, competition means the most perfect peace and the truest
              cooperation; for then it becomes simply a test of forces resulting in their most
              advantageous utilization. As soon as the demand for labor begins to exceed
@@ -12095,8 +11679,6 @@ tags:
 ![Page 189 Complete](images/page_189_full.png)
 
 ### Extracted Text
-
-
 
 
              hare. So in Mr. Horn’s recipe for the solution of economic forms in ethical
@@ -12161,8 +11743,6 @@ tags:
 ### Extracted Text
 
 
-
-
                Jus still thinks, however, that something may be said on the other side, and
              declares that there are some things that one person may rightfully do which
              become illegal and immoral when done by a crowd. I should like to have Jus
@@ -12213,7 +11793,6 @@ tags:
                      Not alone on the land question did Mr. Tucker ﬁnd himself in
 
 
-
 190 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
@@ -12223,8 +11802,6 @@ tags:
 ![Page 191 Complete](images/page_191_full.png)
 
 ### Extracted Text
-
-
 
 
                      disagreement with Henry George. In his newspaper, the Standard of
@@ -12278,7 +11855,6 @@ tags:
              common law. And if all human laws were abolished, men would still hold that,
 
 
-
 191 of 194                                                                                     10/23/25, 1:37 PM 
 ---
 
@@ -12288,8 +11864,6 @@ tags:
 ![Page 192 Complete](images/page_192_full.png)
 
 ### Extracted Text
-
-
 
 
              whether it were a wheelbarrow or a phonograph, the concrete thing belonged
@@ -12351,8 +11925,6 @@ tags:
 ![Page 193 Complete](images/page_193_full.png)
 
 ### Extracted Text
-
-
 
 
              Nineteenth Century” (Freedom Press, 127 Ossulston Street, London, N. W. 1,
@@ -12417,8 +11989,6 @@ tags:
 ### Extracted Text
 
 
-
-
              Political Institutions,” but this too can no longer be had from booksellers. If it
              can be borrowed or found on second-hand book counters, it should be studied.
                 “Josiah Warren,” by William Bailie (Small, Maynard & Company. Boston), is
@@ -12438,17 +12008,11 @@ tags:
              banking.
 
 
-
-             Retrieved on February 19th, 2009 from <http://ﬂag.blackened.net/daver/
-             anarchism/tucker/tucker.html> [now dead]. <web.archive.org/.../
-             ﬂag.blackened.net/daver/anarchism/tucker/tucker.html>
+             Retrieved on February 19th, 2009 from  [now dead]. 
 
              Selections From the Writings of Benjamin R. Tucker Vanguard Press, New
              York, 1926, Kraus Reprint Co., Millwood, NY, 1973.
 
 
-
-
 194 of 194                                                                                      10/23/25, 1:37 PM 
 ---
-

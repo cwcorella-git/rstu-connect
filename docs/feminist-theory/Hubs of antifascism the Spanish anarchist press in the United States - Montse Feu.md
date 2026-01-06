@@ -1,3 +1,8 @@
+---
+title: "## **Hubs of antifascism: the Spanish anarchist press in the United States - Montse Feu**"
+category: "feminist-theory"
+---
+
 ## **Hubs of antifascism: the Spanish anarchist press in the United States - Montse Feu**
 
 ## **Date:** Unknown

@@ -1,3 +1,8 @@
+---
+title: "## **You There, Lift Your Skinny Fists!**"
+category: "contemporary-analysis"
+---
+
 ## **You There, Lift Your Skinny Fists!**
 
 ## **Date:** Unknown

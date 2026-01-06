@@ -1,12 +1,17 @@
+---
+title: "**Chandra**"
+category: "contemporary-analysis"
+---
+
 #### [en.m.wikipedia.org](https://en.m.wikipedia.org/wiki/Chandra)
 
 # **Chandra**
 
 ## Contributors to Wikimedia projects
 
-16–21 minutes
+16-21 minutes
 
-**Chandra** [\(Sanskrit:](https://en.m.wikipedia.org/wiki/Sanskrit_language) च�दर्, [romanized:](https://en.m.wikipedia.org/wiki/Romanization_of_Sanskrit)Chandra, [lit.](https://en.m.wikipedia.org/wiki/Literal_translation)'shining' or 'moon'), also known as **Soma** [\(Sanskrit:](https://en.m.wikipedia.org/wiki/Sanskrit_language) सोम), is the [Hindu god](https://en.m.wikipedia.org/wiki/Hindu_god) [of the Moon,](https://en.m.wikipedia.org/wiki/Lunar_deity) and is associated with the night, plants and vegetation. He is one of the [Navagraha](https://en.m.wikipedia.org/wiki/Navagraha) (nine planets of Hinduism) and [Dikpala](https://en.m.wikipedia.org/wiki/Dikpala) (guardians of the directions)[.\[5\]](#page-11-0)
+**Chandra** [\(Sanskrit:](https://en.m.wikipedia.org/wiki/Sanskrit_language) चदर्, [romanized:](https://en.m.wikipedia.org/wiki/Romanization_of_Sanskrit)Chandra, [lit.](https://en.m.wikipedia.org/wiki/Literal_translation)'shining' or 'moon'), also known as **Soma** [\(Sanskrit:](https://en.m.wikipedia.org/wiki/Sanskrit_language) सोम), is the [Hindu god](https://en.m.wikipedia.org/wiki/Hindu_god) [of the Moon,](https://en.m.wikipedia.org/wiki/Lunar_deity) and is associated with the night, plants and vegetation. He is one of the [Navagraha](https://en.m.wikipedia.org/wiki/Navagraha) (nine planets of Hinduism) and [Dikpala](https://en.m.wikipedia.org/wiki/Dikpala) (guardians of the directions)[.\[5\]](#page-11-0)
 
 ### **Chandra**
 
@@ -18,14 +23,18 @@ Member of [Navagraha](https://en.m.wikipedia.org/wiki/Navagraha)
 
 A painting of Chandra from [Mewar,](https://en.m.wikipedia.org/wiki/Mewar) [Rajasthan,](https://en.m.wikipedia.org/wiki/Rajasthan) c. 18th century CE
 
-| Other names | Soma, Chandrama, Shashank,<br>Nishakara, Shashi, Mayank, Vidhu |
+| Other names | Soma, Chandrama, Shashank,
+Nishakara, Shashi, Mayank, Vidhu |
 |-----------------------------|----------------------------------------------------------------|
-| Devanagari | च�दर् |
-| Sanskrit<br>transliteration | Candra |
+| Devanagari | चदर् |
+| Sanskrit
+transliteration | Candra |
 | Affiliation | Deva, Graha, Dikpala |
 | Abode | Chandraloka |
 | Planet | Moon |
-| Mantra | Om<br>Chandramasē<br>Namaha |
+| Mantra | Om
+Chandramasē
+Namaha |
 | Weapon | Rope |
 | Day | Monday |
 | Color | Pale white[3] |
@@ -36,9 +45,11 @@ A painting of Chandra from [Mewar,](https://en.m.wikipedia.org/wiki/Mewar) [Raja
 | Parents | • Atri (father) |
 | | • Anasuya (mother) |
 | Siblings | Durvasa and Dattatreya |
-| Consort | Rohini (chief consort), and other 26<br>Nakshatra goddesses |
+| Consort | Rohini (chief consort), and other 26
+Nakshatra goddesses |
 
-| Children | Budha, Varchas, Bhadra, Jyotsnakali[4]<br>and other children |
+| Children | Budha, Varchas, Bhadra, Jyotsnakali[4]
+and other children |
 |-------------|--------------------------------------------------------------|
 | Equivalents | |
 | Greek | Selene |
@@ -80,7 +91,7 @@ One of the most prominent narratives involving Chandra centers on his illicit re
 
 In the mythological narrative of the [Samudra Manthan](https://en.m.wikipedia.org/wiki/Samudra_Manthan) (Churning of the Ocean), the Devas and [Asuras](https://en.m.wikipedia.org/wiki/Asura) sought the [Amrita](https://en.m.wikipedia.org/wiki/Amrita) (nectar of immortality). A demon named [Rahu](https://en.m.wikipedia.org/wiki/Rahu) disguised himself as a Brahmin and attempted to drink the nectar. [Surya](https://en.m.wikipedia.org/wiki/Surya) (the Sun) and Chandra recognized the deception and alerted [Vishnu,](https://en.m.wikipedia.org/wiki/Vishnu) who severed Rahu's head with his [Sudarshana Chakra.](https://en.m.wikipedia.org/wiki/Sudarshana_Chakra) However, because Rahu had consumed the nectar, his head and body became immortal, forming the entities Rahu and [Ketu.](https://en.m.wikipedia.org/wiki/Ketu_(mythology)) Rahu and Ketu, bearing enmity toward Surya and Chandra for revealing their deception, periodically "swallow" the moon and the sun, leading to solar and lunar eclipses. This myth provides a symbolic representation of eclipses as moments of cosmic tension and conflict. During the reign of Emperor [Prithu,](https://en.m.wikipedia.org/wiki/Prithu) [Bhumidevi](https://en.m.wikipedia.org/wiki/Bhumidevi) (Earth) was transformed into a cow to provide nourishment to all beings. When the sages milked Bhumidevi, Chandra served as the calf, an act which pleased [Brahma.](https://en.m.wikipedia.org/wiki/Brahma) In recognition, Brahma crowned Chandra as the king of stars and medicines. This role signifies Chandra's influence over medicinal plants and the healing arts, linking his cycles to the growth and potency of herbs.[\[8\]](#page-11-7)
 
-Chandra is one of the Ashta-vasus, a group of eight elemental deities. He had four sons[—Varchas,](https://en.m.wikipedia.org/wiki/Varchas) Shishira, Prana, and Ramana—with his wife [Manohara.](https://en.m.wikipedia.org/wiki/Manohara) Notably, his son Varchas was later reborn as [Abhimanyu,](https://en.m.wikipedia.org/wiki/Abhimanyu) the heroic son of [Arjuna](https://en.m.wikipedia.org/wiki/Arjuna) in the Mahabharata. [\[8\]](#page-11-7)
+Chandra is one of the Ashta-vasus, a group of eight elemental deities. He had four sons[--Varchas,](https://en.m.wikipedia.org/wiki/Varchas) Shishira, Prana, and Ramana--with his wife [Manohara.](https://en.m.wikipedia.org/wiki/Manohara) Notably, his son Varchas was later reborn as [Abhimanyu,](https://en.m.wikipedia.org/wiki/Abhimanyu) the heroic son of [Arjuna](https://en.m.wikipedia.org/wiki/Arjuna) in the Mahabharata. [\[8\]](#page-11-7)
 
 According to another legend, [Ganesha](https://en.m.wikipedia.org/wiki/Ganesha) was returning home on his mount Krauncha (a shrew) late on a full moon night after a mighty feast given by [Kubera.](https://en.m.wikipedia.org/wiki/Kubera) On the journey back, a snake crossed their path and frightened by it, his mount ran away dislodging Ganesha in the process. An overstuffed Ganesha fell to the ground on his stomach, vomiting out all the [Modaks](https://en.m.wikipedia.org/wiki/Modak) he had eaten. On observing this, Chandra laughed at Ganesha. Ganesha lost his temper and broke off one of his tusks and flung it straight at the Moon, hurting him, and cursed him so that he would never be whole again. Therefore, It is forbidden to behold Chandra on [Ganesh Chaturthi.](https://en.m.wikipedia.org/wiki/Ganesh_Chaturthi) This legend accounts for the Moon's waxing and waning including a big crater on the Moon, a dark spot, visible even from Earth[.\[21\]](#page-12-10)
 
@@ -100,7 +111,7 @@ Soma was presumed to be a planet in Hindu astronomical texts[.\[26\]](#page-13-1
 
 The longitude of Moon =
 
-– Surya Siddhanta II.39.4[3\[28\]](#page-13-3) where m is the Moon's mean longitude, a is the longitude at apogee, P is epicycle of apsis, R=3438'.
+- Surya Siddhanta II.39.4[3\[28\]](#page-13-3) where m is the Moon's mean longitude, a is the longitude at apogee, P is epicycle of apsis, R=3438'.
 
 Besides worship in [Navagraha temples,](https://en.m.wikipedia.org/wiki/Navagraha_temples) Chandra is also worshipped in the following temples (please help expand this partial list)
 
@@ -109,7 +120,7 @@ Besides worship in [Navagraha temples,](https://en.m.wikipedia.org/wiki/Navagrah
 - [Chandramoulisvarar Temple, Arichandrapuram:](https://en.m.wikipedia.org/wiki/Chandramoulisvarar_Temple,_Arichandrapuram) Shiva temple with shrine for Chandra
 - [Thiru Varagunamangai Perumal Temple:](https://en.m.wikipedia.org/wiki/Thiru Varagunamangai_Perumal_Temple) [Nava Tirupathi](https://en.m.wikipedia.org/wiki/Nava_Tirupathi) Vishnu temple associated with Chandra
 
-Chandra plays an important role in one of the first novel-length mystery stories in English, [The Moonstone](https://en.m.wikipedia.org/wiki/The_Moonstone) (1868). The Sanskrit word [Chandray](https://en.m.wikipedia.org/wiki/Chandrayaan)āna [\(Sanskrit:](https://en.m.wikipedia.org/wiki/Sanskrit_language) च�दरयान ् , Moon Vehicle) is used to refer to India's lunar orbiters.
+Chandra plays an important role in one of the first novel-length mystery stories in English, [The Moonstone](https://en.m.wikipedia.org/wiki/The_Moonstone) (1868). The Sanskrit word [Chandray](https://en.m.wikipedia.org/wiki/Chandrayaan)āna [\(Sanskrit:](https://en.m.wikipedia.org/wiki/Sanskrit_language) चदरयान ् , Moon Vehicle) is used to refer to India's lunar orbiters.
 
 - [Ardha chandrasana,](https://en.m.wikipedia.org/wiki/Ardha_chandrasana) half-moon pose in yoga
 - [Navagraha](https://en.m.wikipedia.org/wiki/Navagraha)
@@ -117,7 +128,7 @@ Chandra plays an important role in one of the first novel-length mystery stories
 - [Somalamma](https://en.m.wikipedia.org/wiki/Somalamma)
 - [List of lunar deities](https://en.m.wikipedia.org/wiki/List_of_lunar_deities)
 - [List of Hindu deities](https://en.m.wikipedia.org/wiki/List_of_Hindu_deities)
-- 1. ^ Wilkins states, "In the following passage Soma seems to be used in both senses—as god of the intoxicating juice, and as the moon ruling through the night. "By Soma the Adityas are strong; by Soma the earth is great; and Soma is placed in the midst of the stars. When they crush the plant, he who drinks regards it as Soma. Of him whom the priests regard as Soma (the moon) no one drinks." In another passage this prayer is found: "May the god Soma, he whom they call the Moon, free me.... Soma is the moon, the food of the gods. The sun has the nature of Agni, the moon of Soma."
+- 1. ^ Wilkins states, "In the following passage Soma seems to be used in both senses--as god of the intoxicating juice, and as the moon ruling through the night. "By Soma the Adityas are strong; by Soma the earth is great; and Soma is placed in the midst of the stars. When they crush the plant, he who drinks regards it as Soma. Of him whom the priests regard as Soma (the moon) no one drinks." In another passage this prayer is found: "May the god Soma, he whom they call the Moon, free me.... Soma is the moon, the food of the gods. The sun has the nature of Agni, the moon of Soma."
 
 - 1. ^ Vinod Chandraa Srivastava (2008). [History of Agriculture in](https://books.google.com/books?id=FvjZVwYVm NcC&pg=PA557) [India, Up to C. 1200 A. D.](https://books.google.com/books?id=FvjZVwYVm NcC&pg=PA557) Concept Publishing. p. 557. [ISBN](https://en.m.wikipedia.org/wiki/ISBN_(identifier)) [978-81-8069-521-6](https://en.m.wikipedia.org/wiki/Special:Book Sources/978-81-8069-521-6).
 - 2. ^ Jump up to: **a b c** Edward Washburn Hopkins 1968, p. 90.
@@ -145,19 +156,19 @@ Chandra plays an important role in one of the first novel-length mystery stories
 - 23. ^ R. T. Vyas; Umakant Premanand Shah (1995). [Studies in](https://books.google.com/books?id=fETeb HcHKogC&pg=PA23) [Jaina Art and Iconography](https://books.google.com/books?id=fETeb HcHKogC&pg=PA23). Abhinav Publications. p. 23. [ISBN](https://en.m.wikipedia.org/wiki/ISBN_(identifier)) [978-81-7017-316-8](https://en.m.wikipedia.org/wiki/Special:Book Sources/978-81-7017-316-8).
 - 24. ^ Dalal 2010a, p. 89.
 
-- 25. ^ Lionel D. Barnett (1994). [Antiquities of India: An Account of](https://books.google.com/books?id=x40mw FwgK44C&pg=PA190) [the History and Culture of Ancient Hindustan](https://books.google.com/books?id=x40mw FwgK44C&pg=PA190). [Asian](https://en.m.wikipedia.org/wiki/Asian_Educational_Services) [Educational Services](https://en.m.wikipedia.org/wiki/Asian_Educational_Services). pp. 188–192 with footnotes. [ISBN](https://en.m.wikipedia.org/wiki/ISBN_(identifier)) [978-81-206-0530-5](https://en.m.wikipedia.org/wiki/Special:Book Sources/978-81-206-0530-5).
+- 25. ^ Lionel D. Barnett (1994). [Antiquities of India: An Account of](https://books.google.com/books?id=x40mw FwgK44C&pg=PA190) [the History and Culture of Ancient Hindustan](https://books.google.com/books?id=x40mw FwgK44C&pg=PA190). [Asian](https://en.m.wikipedia.org/wiki/Asian_Educational_Services) [Educational Services](https://en.m.wikipedia.org/wiki/Asian_Educational_Services). pp. 188-192 with footnotes. [ISBN](https://en.m.wikipedia.org/wiki/ISBN_(identifier)) [978-81-206-0530-5](https://en.m.wikipedia.org/wiki/Special:Book Sources/978-81-206-0530-5).
 - 26. ^
-- 27. ^ Jump up to: **a b** Ebenezer Burgess (1989). P Ganguly, P Sengupta (ed.). [Sûrya-Siddhânta: A Text-book of Hindu](https://books.google.com/books?id=W0Uo_-_iizwC) [Astronomy](https://books.google.com/books?id=W0Uo_-_iizwC). Motilal Banarsidass (Reprint), Original: Yale University Press, American Oriental Society. pp. vii–xi. [ISBN](https://en.m.wikipedia.org/wiki/ISBN_(identifier)) [978-81-208-0612-2](https://en.m.wikipedia.org/wiki/Special:Book Sources/978-81-208-0612-2).
+- 27. ^ Jump up to: **a b** Ebenezer Burgess (1989). P Ganguly, P Sengupta (ed.). [Sûrya-Siddhânta: A Text-book of Hindu](https://books.google.com/books?id=W0Uo_-_iizwC) [Astronomy](https://books.google.com/books?id=W0Uo_-_iizwC). Motilal Banarsidass (Reprint), Original: Yale University Press, American Oriental Society. pp. vii-xi. [ISBN](https://en.m.wikipedia.org/wiki/ISBN_(identifier)) [978-81-208-0612-2](https://en.m.wikipedia.org/wiki/Special:Book Sources/978-81-208-0612-2).
 - 28. ^ Jump up to: **a b** Ebenezer Burgess (1989). P Ganguly, P Sengupta (ed.). [Sûrya-Siddhânta: A Text-book of Hindu](https://books.google.com/books?id=W0Uo_-_iizwC) [Astronomy](https://books.google.com/books?id=W0Uo_-_iizwC). Motilal Banarsidass (Reprint), Original: Yale University Press, American Oriental Society. pp. xx. [ISBN](https://en.m.wikipedia.org/wiki/ISBN_(identifier)) [978-81-208-0612-2](https://en.m.wikipedia.org/wiki/Special:Book Sources/978-81-208-0612-2).
  - Dalal, Roshen (2010a). [Hinduism: An Alphabetical Guide](https://books.google.com/books?id=DH0vmD8ghdMC&pg=PA393). Penguin Books India. p. 394. [ISBN](https://en.m.wikipedia.org/wiki/ISBN_(identifier)) [978-0-14-341421-6](https://en.m.wikipedia.org/wiki/Special:Book Sources/978-0-14-341421-6).
  - Monier-Williams, Monier (1872). [A Sanskrit-English Dictionary](https://books.google.com/books?id=_3NWAAAAcAAJ&q=Candra). Clarendon. p. 315.
  - Mani, Vettam (1975). [Puranic Encyclopaedia: a Comprehensive](https://archive.org/details/puranicencyclopa00maniuoft/page/171/mode/1up) [Dictionary with Special Reference to the Epic and Puranic](https://archive.org/details/puranicencyclopa00maniuoft/page/171/mode/1up) [Literature](https://archive.org/details/puranicencyclopa00maniuoft/page/171/mode/1up). Motilal Banarsidass Publishers. [ISBN](https://en.m.wikipedia.org/wiki/ISBN_(identifier)) [978-0-8426-0822-0](https://en.m.wikipedia.org/wiki/Special:Book Sources/978-0-8426-0822-0).
  - Edward Washburn Hopkins (1968). [Epic Mythology](https://books.google.com/books?id=-H0eiuvcG5IC&pg=PA90). Biblo & Tannen Publishers. p. 90. [ISBN](https://en.m.wikipedia.org/wiki/ISBN_(identifier)) [978-0-8196-0228-2](https://en.m.wikipedia.org/wiki/Special:Book Sources/978-0-8196-0228-2).
- - Stephanie Jamison (2015). [The Rigveda –– Earliest Religious](https://books.google.com/books?id=1LTRDwAAQBAJ&q=Soma) [Poetry of India](https://books.google.com/books?id=1LTRDwAAQBAJ&q=Soma). Oxford University Press.
+ - Stephanie Jamison (2015). [The Rigveda -- Earliest Religious](https://books.google.com/books?id=1LTRDwAAQBAJ&q=Soma) [Poetry of India](https://books.google.com/books?id=1LTRDwAAQBAJ&q=Soma). Oxford University Press.
 
 #### [ISBN](https://en.m.wikipedia.org/wiki/ISBN_(identifier)) [978-0190633394](https://en.m.wikipedia.org/wiki/Special:Book Sources/978-0190633394).
 
-- • Wilkins, William J. (1913). ["Soma"](https://archive.org/details/hindumythologyve00inwilk/page/69/mode/1up?view=theater&q=Soma). Hindu Mythology – Vedic and Puranic. Thacker Spink London.
+- • Wilkins, William J. (1913). ["Soma"](https://archive.org/details/hindumythologyve00inwilk/page/69/mode/1up?view=theater&q=Soma). Hindu Mythology - Vedic and Puranic. Thacker Spink London.
 - • Jones, Constance; Ryan, James D. (2006). [Encyclopedia of](https://books.google.com/books?id=Og MmceadQ3gC&q=Chandra+soma) [Hinduism](https://books.google.com/books?id=Og MmceadQ3gC&q=Chandra+soma). Infobase Publishing. [ISBN](https://en.m.wikipedia.org/wiki/ISBN_(identifier)) [978-0-8160-7564-5](https://en.m.wikipedia.org/wiki/Special:Book Sources/978-0-8160-7564-5).
 - • Dowson, John (1870). [A Classical Dictionary of Hindu](https://books.google.com/books?id=PwsYAAAAYAAJ&q=Soma) [Mythology and Religion, Geography, History, and Literature](https://books.google.com/books?id=PwsYAAAAYAAJ&q=Soma). Trübner & Company.
 - Media related to [Chandra](https://commons.wikimedia.org/wiki/Category:Chandra) at Wikimedia Commons

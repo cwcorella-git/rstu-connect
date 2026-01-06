@@ -1,3 +1,8 @@
+---
+title: "**James C. Scott**"
+category: "contemporary-analysis"
+---
+
 # **James C. Scott**
 
 # **Two Cheers for Anarchism**
@@ -872,9 +877,9 @@ The condensation of history, our desire for clean narratives, and the need for e
 
 At Princeton University Press, Fred Appel, with exemplary patience, aided and abetted my freestyle experiment with form here, and exercised the kind of editorial care and advice I thought had disappeared from contemporary publishing. His colleagues Sarah David and Deborah Tegarden generously
 
-[<sup>\[1\]</sup>](#page-6-0) Once in a great while one encounters an organization that combines some level of voluntary coordination while respecting and even encouraging local initiative. Solidarnosc in Poland under martial law and the Student Non-Violent Coordinating Committee during the civil rights movement in the United States are rare examples. Both came into existence only in the course of protest and struggle.
+[\[1\]](#page-6-0) Once in a great while one encounters an organization that combines some level of voluntary coordination while respecting and even encouraging local initiative. Solidarnosc in Poland under martial law and the Student Non-Violent Coordinating Committee during the civil rights movement in the United States are rare examples. Both came into existence only in the course of protest and struggle.
 
-[<sup>\[2\]</sup>](#page-6-1) Frances Fox Piven and Richard A. Cloward, Poor People's Movements: Why They Succeed, How They Fail (New York: Vintage, 1978).
+[\[2\]](#page-6-1) Frances Fox Piven and Richard A. Cloward, Poor People's Movements: Why They Succeed, How They Fail (New York: Vintage, 1978).
 
 - [\[3\]](#page-7-0) Milovan Djilas, The New Class (New York: Praeger, 1957).
 - [\[4\]](#page-8-1) Colin Ward, Anarchy in Action (London: Freedom Press, 1988), 14.
@@ -893,7 +898,7 @@ At Princeton University Press, Fred Appel, with exemplary patience, aided and ab
 - [\[17\]](#page-53-1) See, for example, http://www.telegraph.co.uk/news/uknews/1533248/Is-this-the-end-of-theroad-for-traffic-lights.html.
 - [\[18\]](#page-54-2) R. H. Tawney, Religion and the Rise of Capitalism (Harmondsworth: Penguin, 1969), 28.
  - [\[19\]](#page-56-1) Paul Averich, Kronstadt 1921 (Princeton, NJ: Princeton University Press, 1970), 66.
-- [\[20\]](#page-56-2) Vaisberg, speaking in 1929, and quoted in R. W. Davies, The Socialist <sup>O</sup>ffensive: The Collectivization of Russian Agriculture, 1929–1930 (London: Macmillan, 1980), 175.
+- [\[20\]](#page-56-2) Vaisberg, speaking in 1929, and quoted in R. W. Davies, The Socialist Offensive: The Collectivization of Russian Agriculture, 1929–1930 (London: Macmillan, 1980), 175.
 - [\[21\]](#page-56-3) A. V. Chayanov, The Theory of Peasant Economy, ed. Daniel Thorner, trans. Basile Kerblay and R. E. F. Smith (Homewood, IL: Richard Irwin for the American Economic Association, 1966, originally published in Russian in 1926).
  - [\[22\]](#page-57-0) Henry Stephens Randall, "Cultivators," in The Life of Thomas Jefferson, vol. 1, 1858, p. 437.
 - [\[23\]](#page-58-0) Barrington Moore, Jr., Injustice: The Social Basis of Obedience (Armonk, NY: M. E. Sharpe, 1978).

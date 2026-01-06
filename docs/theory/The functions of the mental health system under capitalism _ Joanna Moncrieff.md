@@ -1,3 +1,8 @@
+---
+title: "The functions of the mental health system under capitalism"
+category: "theory"
+---
+
 ## [Joanna Moncrieff](https://joannamoncrieff.com/)
 
 ## Books, papers and blogs by Joanna Moncrieff
@@ -64,7 +69,7 @@ The organisation of production under capitalism generates many of the problems w
 
 #### References:
 
-- 1. Moncrieff J. The Political Economy of the Mental Health System: A Marxist Analysis. Front Sociol. 2022;6:771875.<https://www.ncbi.nlm.nih.gov/pubmed/35242843>
+- 1. Moncrieff J. The Political Economy of the Mental Health System: A Marxist Analysis. Front Sociol. 2022;6:771875.
 - 2. Rose N. Becoming neurochemical selves. In: Stehr N, editor. Biotechnology, Commerce and Civil Society. New Brunswick, New Jersey: Transaction Publishers; 2004. p. 89-128.
 
 [March 28, 2022](https://joannamoncrieff.com/2022/03/28/the-functions-of-the-mental-health-system-under-capitalism/) in [History,](https://joannamoncrieff.com/category/history/) [Philosophy](https://joannamoncrieff.com/category/politics/philosophy/), [Politics,](https://joannamoncrieff.com/category/politics/) [Services.](https://joannamoncrieff.com/category/services/)

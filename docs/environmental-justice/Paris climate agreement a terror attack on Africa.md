@@ -1,3 +1,8 @@
+---
+title: "## **Paris climate agreement: a terror attack on Africa**"
+category: "environmental-justice"
+---
+
 ## **Paris climate agreement: a terror attack on Africa**
 
 ## **Date:** Mon, 12/21/2015 - 16:20

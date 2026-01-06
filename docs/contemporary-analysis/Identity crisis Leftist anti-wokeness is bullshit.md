@@ -1,3 +1,8 @@
+---
+title: "**Identity crisis: Leftist anti-wokeness is bullshit**"
+category: "contemporary-analysis"
+---
+
 # **Identity crisis: Leftist anti-wokeness is bullshit**
 
 ## **Date:** Unknown
@@ -123,13 +128,22 @@ Class unity against capitalism cannot come from abstract appeals to it, which mo
 | capital via the state. |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Note: |
-| Uday Jain's recently published White Marxism, a Critique of Jacobin Magazineidentifies a<br>strand of anti-ID politics arguments promoted in the magazine from figures such as Vivek<br>Chibber, Walter Benn Michaels, Nivedita Majumdar, and Adolph Reed. This reminded me of<br>some critical reading I'd done of Reedearlierthis year. However while Jain deals mostly with<br>the racial politics of these arguments, my main criticism of Reed had been his understanding<br>of class, which doesn't seem to have much to do with either Marx or the history of class<br>struggle. Since this had only been expressed in a couple of twitter threads, it was time to write<br>it up finally after several months. This piece is not a direct response to Jain's article at all. |
+| Uday Jain's recently published White Marxism, a Critique of Jacobin Magazineidentifies a
+strand of anti-ID politics arguments promoted in the magazine from figures such as Vivek
+Chibber, Walter Benn Michaels, Nivedita Majumdar, and Adolph Reed. This reminded me of
+some critical reading I'd done of Reedearlierthis year. However while Jain deals mostly with
+the racial politics of these arguments, my main criticism of Reed had been his understanding
+of class, which doesn't seem to have much to do with either Marx or the history of class
+struggle. Since this had only been expressed in a couple of twitter threads, it was time to write
+it up finally after several months. This piece is not a direct response to Jain's article at all. |
 | Lead photograph by Tony Webster |
 | Steven. |
 | 8 years 2 months ago |
 | In reply to Welcomebylibcom.org |
 | Great piece. This is a particularly good point: |
-| The scrutiny and attention to detail that Reed applies to the recuperation of black struggle is<br>unfortunately nowhere to be seen when he starts talking about trade unions or Bernie<br>Sanders. |
+| The scrutiny and attention to detail that Reed applies to the recuperation of black struggle is
+unfortunately nowhere to be seen when he starts talking about trade unions or Bernie
+Sanders. |
 ## | |
 
 Even more so than the civil rights and black power movements, trade union officials and Parliamentary "socialists" have been entirely recuperated by the capitalist system. This is more obvious in Europe, where "socialist" parties have run much of it for much of the last 100 years, but should also be apparent in the US, which has a long enough history of (white) union officials and radicals being sucked into the Democratic party machine and turning against their
@@ -139,13 +153,22 @@ Even more so than the civil rights and black power movements, trade union offici
 | gram negative |
 | 8 years 2 months ago |
 | In reply to Welcomebylibcom.org |
-| Thank you for this! I can't believe I keep seeing references online to Mark Fisher's Exiting the<br>Vampires' Castlefrom years ago, and your critique of Reed et al. is very relevant to Fisher as<br>well (though Fisher lacks Reed's precision and insight). The vociferous critique of identity<br>politics oftens covers for an endorsement of the same old failed socdem/trade union politics. |
+| Thank you for this! I can't believe I keep seeing references online to Mark Fisher's Exiting the
+Vampires' Castlefrom years ago, and your critique of Reed et al. is very relevant to Fisher as
+well (though Fisher lacks Reed's precision and insight). The vociferous critique of identity
+politics oftens covers for an endorsement of the same old failed socdem/trade union politics. |
 | Will Shetterly |
 | 8 years 2 months ago |
 | In reply to Welcomebylibcom.org |
-| I give you credit for addressing Reed, but your ideological filter is keeping you from seeing<br>many things. Here's a hasty response: |
-| 1. When Reed says, "I'm increasingly convinced that a likely reason is that the race line is<br>itself a class line" he's pointing to a truth: The class system provides a structure for racism.<br>In the US today, we do not have a racial system that's separate from the class system as<br>existed during Jim Crow or in apartheid South Africa. Instead, racism affects Americans within<br>the class system like an extra weight that some members must bear. |
-| 2. The Black Panthers were working in the black community, but they rejected identity politics<br>while fighting racism, just as Malcolm X did after he left the Nation of Islam. For example: |
+| I give you credit for addressing Reed, but your ideological filter is keeping you from seeing
+many things. Here's a hasty response: |
+| 1. When Reed says, "I'm increasingly convinced that a likely reason is that the race line is
+itself a class line" he's pointing to a truth: The class system provides a structure for racism.
+In the US today, we do not have a racial system that's separate from the class system as
+existed during Jim Crow or in apartheid South Africa. Instead, racism affects Americans within
+the class system like an extra weight that some members must bear. |
+| 2. The Black Panthers were working in the black community, but they rejected identity politics
+while fighting racism, just as Malcolm X did after he left the Nation of Islam. For example: |
 
 "Working class people of all colors must unite against the exploitative, oppressive ruling class. Let me emphasize again — we believe our fight is a class struggle, not a race struggle." — Bobby Seale, co-founder Black Panther Party
 
@@ -293,14 +316,22 @@ radicalgraffiti
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | teh |
 | Khawaga |
-| While I have my critiques of liberal intersectionality and its ontological foundation, this is just<br>an ad hominem. Intersectionality has clearly taken on a life of its own after Crenshaw and<br>means many things to different people. In short, this argument is not an argument, but a<br>logical fallacy. |
-| There was this one dude, Marx or something, that took a lot of concepts from the bourgeoisie;<br>indeed most of his concepts come from them, although he subjected them to critique and<br>injected new content into these concepts. Kinda like how intersectionality has been critiqued<br>and given new content by many different stripes of radicals. |
-| Where has intersectionality taken on the a life of its own? It a major ideological component of<br>large parts of the American oligarchy. |
+| While I have my critiques of liberal intersectionality and its ontological foundation, this is just
+an ad hominem. Intersectionality has clearly taken on a life of its own after Crenshaw and
+means many things to different people. In short, this argument is not an argument, but a
+logical fallacy. |
+| There was this one dude, Marx or something, that took a lot of concepts from the bourgeoisie;
+indeed most of his concepts come from them, although he subjected them to critique and
+injected new content into these concepts. Kinda like how intersectionality has been critiqued
+and given new content by many different stripes of radicals. |
+| Where has intersectionality taken on the a life of its own? It a major ideological component of
+large parts of the American oligarchy. |
 | citation needed |
 | Rad Black Love |
 | 8 years 2 months ago |
 | In reply to Welcomebylibcom.org |
-| Yooooo. This piece was right on time!The goalposts of the "identity politics" debate are<br>definitely not anywhere where they should be. Where intersectionality began as a way to put |
+| Yooooo. This piece was right on time!The goalposts of the "identity politics" debate are
+definitely not anywhere where they should be. Where intersectionality began as a way to put |
 
 new language in place that could help people navigate multiple oppressions has been taken in by higher ed and other institutions and turned into these representational identity politics that are a huge problem. And what follows is the situation we're in now....where a lot of valid critiques of the mostly white left can and are easily dismissed as liberal identity politics, even when that's not the case. The other goalpost has moved to this point where protest movements built around oppressed identities are seen as synonymous with class struggle. Your point about Adolph's failure to contend with all relevant viewpoints is important (and I'm super disappointed to learn of his trade union and Bernie analyses......damn.). We started the African People's Caucus of the IWW studying and learning the very struggles of DRUM, LRBW, Mujeres, George Jackson Brigade, women of the PKK, and the New Afrikan Anarchist positions that developed far after the BPP. We also have done enough political study to understand that black union (especially trade union) "representation" doesn't translate to workers' power. Indeed it can have the exact effect that black police officers, politicians, and professional activists can have which is as a pacifying effect. We started that caucus knowing that the IWW is a brilliant union with a very checkered radical history, but a union that has trouble diversifying and pulling in people from across the entire working class. That difficulty is a question of strategy- and the growth of the General Defense Committee and Incarcerated Workers Organizing Cmte has created a serious challenge to the IWW- one that is certainly diversifying not only union membership but also organizing campaigns. The new Wobblies' Revolutionary Union Movement (WRUM) caucus came about with a serious critique of the power of the General Executive Board, union decision-making structure, the handling of patriarchal behaviour within the union, and newfound understandings of what issues \*everyone\* in the working class is dealing with (not just the conditions of the overwhelmingly white rank-and-file within the IWW). With those critiques came a lot of backlash- accusations of pandering to activists or liberals, that we're just 'dividing the union', even the suggestion that we need to just kick the racist individuals out of the union- as if we were talking about some microaggressions instead of an inclusive, possibly archaic organizing strategy. Those of us in APC are working to understand these pitfalls. We don't adhere to liberal identity politics based on representation, but definitely won't go without a solid understanding of our position in the left, in the labor movement, and the development of anti-authoritarian politics that our black elders are helping forge before and alongside us. Thanks again for posting.
 
@@ -335,9 +366,17 @@ I am not saying Crenshaw should be ignored because she's bourgeois. I'm saying i
 | Will Shetterly |
 | Khawaga |
 | The difference is Marx was rejecting his class; Crenshaw was embracing hers. |
-| That's got nothing to do with anything in terms of argumentation. What you are doing with this<br>comment is just to double down on your logical fallacy. Deal with the arguments, not the<br>person. |
-| I am not saying Crenshaw should be ignored because she's bourgeois. I'm saying<br>intersectionality is a bourgeois ideology. When neoliberals like Hillary Clinton cite it, you<br>should suspect it's not a concept that's on our side. It is an approach to justice that focuses on<br>identity proportionality, so to an intersectionalist, if the classes were equally representative,<br>they would be fair. Whereas I would say the problem is not proportionality; it's the existence of<br>a class system that must be ended no matter what form it takes. |
-| capitalists talk about the working class, capitalists call themselfs socialists communists or<br>anarchists |
+| That's got nothing to do with anything in terms of argumentation. What you are doing with this
+comment is just to double down on your logical fallacy. Deal with the arguments, not the
+person. |
+| I am not saying Crenshaw should be ignored because she's bourgeois. I'm saying
+intersectionality is a bourgeois ideology. When neoliberals like Hillary Clinton cite it, you
+should suspect it's not a concept that's on our side. It is an approach to justice that focuses on
+identity proportionality, so to an intersectionalist, if the classes were equally representative,
+they would be fair. Whereas I would say the problem is not proportionality; it's the existence of
+a class system that must be ended no matter what form it takes. |
+| capitalists talk about the working class, capitalists call themselfs socialists communists or
+anarchists |
 | Khawaga |
 | 8 years 2 months ago |
 
@@ -482,13 +521,21 @@ https://libcom.org/files/Marx,%20Race%20and%20Neoliberalism%20-%20Adolph%20Reed.
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 8 years 2 months ago |
 | In reply to Welcomebylibcom.org |
-| Mike, I suspect you're misreading Reed's take on the Panthers. You quoted him saying, "The<br>Civil Rights and Black Power movements prefigured the coming of this new age; the feminist<br>photocopy of the black road to nowhere was its farcical re-run." That's not necessarily a<br>judgement of the Panthers. It's talking about the Black Power movement in general and<br>pointing to the roots of contemporary left-identitarianism. |
-| But I grant he may have meant what you inferred. The Panthers said and did some admirable<br>things as well as some not-at-all admirable things and ended up nowhere. Do you have<br>anything else by Reed that criticizes the Panthers? |
+| Mike, I suspect you're misreading Reed's take on the Panthers. You quoted him saying, "The
+Civil Rights and Black Power movements prefigured the coming of this new age; the feminist
+photocopy of the black road to nowhere was its farcical re-run." That's not necessarily a
+judgement of the Panthers. It's talking about the Black Power movement in general and
+pointing to the roots of contemporary left-identitarianism. |
+| But I grant he may have meant what you inferred. The Panthers said and did some admirable
+things as well as some not-at-all admirable things and ended up nowhere. Do you have
+anything else by Reed that criticizes the Panthers? |
 | Mike Harman |
 | 8 years 2 months ago |
 | In reply to Welcomebylibcom.org |
 | Will Shetterly |
-| But I grant he may have meant what you inferred. The Panthers said and did some admirable<br>things as well as some not-at-all admirable things and ended up nowhere. Do you have<br>anything else by Reed that criticizes the Panthers? |
+| But I grant he may have meant what you inferred. The Panthers said and did some admirable
+things as well as some not-at-all admirable things and ended up nowhere. Do you have
+anything else by Reed that criticizes the Panthers? |
 | The issue I have with it isn't that it's critical - all in favour of people being critical of past |
 
 movements and most of the stuff we host on the site about the Panthers is critical in one way or another - it's that it's dismissive. He specifically goes against the '"revolutionary" turn' in the late '60s seeing this as responsible for the integration of particular figures into neoliberalism later on while failing to engage with elements that weren't co-opted (although they might still have been short-lived or faded out, but that's hardly unique).
@@ -867,22 +914,45 @@ Reed solution might be insufficient, but that doesn't devalue his underlying arg
 | Angry Workers World |
 | 5 years 5 months ago |
 | In reply to Welcomebylibcom.org |
-| R Totale wrote: "For anyone interested in thinking about this stuff further, the recent Angry<br>Workers book is a really excellent illustration of how, once you move beyond just abstract<br>appeals to class unity against capitalism and start to get actually involved in the real struggle<br>of actual workers in a specific workplace, getting a full understanding of that situation<br>inevitably means talking about "the particular" - i.e. stuff that could be described as "identity".<br>(I promise this post is not actually sponsored content.)" |
-| We appreciate that you like the book! - but while focussing a lot on the concrete divisions<br>within the class we really tried to make clear that framing the issue of racism or sexism in<br>terms of identity politics ('the Asian community', 'the women') is counterproductive. You don't<br>fight racism with anti-racism, but with class politics that understand divisions historically and<br>materialistically. This is not just semantic juggling |
+| R Totale wrote: "For anyone interested in thinking about this stuff further, the recent Angry
+Workers book is a really excellent illustration of how, once you move beyond just abstract
+appeals to class unity against capitalism and start to get actually involved in the real struggle
+of actual workers in a specific workplace, getting a full understanding of that situation
+inevitably means talking about "the particular" - i.e. stuff that could be described as "identity".
+(I promise this post is not actually sponsored content.)" |
+| We appreciate that you like the book! - but while focussing a lot on the concrete divisions
+within the class we really tried to make clear that framing the issue of racism or sexism in
+terms of identity politics ('the Asian community', 'the women') is counterproductive. You don't
+fight racism with anti-racism, but with class politics that understand divisions historically and
+materialistically. This is not just semantic juggling |
 | R Totale |
 | 5 years 5 months ago |
 | In reply to Welcomebylibcom.org |
-| Point taken, but I think the point of pushing back against the "anti-idpol" left is less to defend<br>"identity politics" (whatever that is), and more to show the weakness of positions that use a<br>sweeping critique of "identity politics" in a way that dismisses actual class struggles against<br>division - e.g. people who just (rightly) criticise the politics of the activist layer who speak in the |
+| Point taken, but I think the point of pushing back against the "anti-idpol" left is less to defend
+"identity politics" (whatever that is), and more to show the weakness of positions that use a
+sweeping critique of "identity politics" in a way that dismisses actual class struggles against
+division - e.g. people who just (rightly) criticise the politics of the activist layer who speak in the |
 
 name of "Black Lives Matter" and then stop there without analysing the actual anti-police
 
-| violence movements beyond that. Or, at best, who admit the need for "class politics that<br>understand divisions historically and materialistically", but seem to get stuck at the stage of<br>endlessly calling for such class politics, without ever moving on to actually producing that kind<br>of analysis themselves. Sorry if that's a bit of tangled post, hopefully people can see what I<br>mean. |
+| violence movements beyond that. Or, at best, who admit the need for "class politics that
+understand divisions historically and materialistically", but seem to get stuck at the stage of
+endlessly calling for such class politics, without ever moving on to actually producing that kind
+of analysis themselves. Sorry if that's a bit of tangled post, hopefully people can see what I
+mean. |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Khawaga |
 | 5 years 5 months ago |
 | In reply to Welcomebylibcom.org |
-| R Totale, it makes perfect sense and is precisely what the anti-idpol lot completely misses.<br>Ffs, there are people (some who post here even) that shift the cause from dividing the class<br>away from racism and sexism and to the women and POC who dare to say or do something<br>about their experiences. |
-| while focussing a lot on the concrete divisions within the class we really tried to make clear<br>that framing the issue of racism or sexism in terms of identity politics ('the Asian community',<br>'the women') is counterproductive. You don't fight racism with anti-racism, but with class<br>politics that understand divisions historically and materialistically. This is not just semantic<br>juggling |
+| R Totale, it makes perfect sense and is precisely what the anti-idpol lot completely misses.
+Ffs, there are people (some who post here even) that shift the cause from dividing the class
+away from racism and sexism and to the women and POC who dare to say or do something
+about their experiences. |
+| while focussing a lot on the concrete divisions within the class we really tried to make clear
+that framing the issue of racism or sexism in terms of identity politics ('the Asian community',
+'the women') is counterproductive. You don't fight racism with anti-racism, but with class
+politics that understand divisions historically and materialistically. This is not just semantic
+juggling |
 | Hear, hear. |
 | Spikymike |
 | 5 years 4 months ago |

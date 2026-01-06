@@ -1,3 +1,8 @@
+---
+title: "**Queer Anarcho Communism: An Atemporal Approach**"
+category: "feminist-theory"
+---
+
 # **Queer Anarcho Communism: An Atemporal Approach**
 
 ## **Date:** Unknown

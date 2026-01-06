@@ -1,3 +1,8 @@
+---
+title: "## **Rebel Peripheries**"
+category: "contemporary-analysis"
+---
+
 ## **Rebel Peripheries**
 
 ## **Date:** Unknown

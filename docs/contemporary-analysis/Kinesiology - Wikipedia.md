@@ -1,3 +1,8 @@
+---
+title: "[Kinesiology](https://en.wikipedia.org/wiki/Main_Page)"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_2.jpeg)
 
 # [Kinesiology](https://en.wikipedia.org/wiki/Main_Page)
@@ -426,7 +431,7 @@ Adapted Physical Activity in the rehabilitation process of people with disabilit
 - 114. ["ASAPE" \(https://www.asape.net/\).](https://www.asape.net/) www.asape.net. Retrieved 2024-03-24.
 - 115. ["European Federation of Adapted Physical Activity" \(https://eufapa.eu/\).](https://eufapa.eu/) European Federation of Adapted Physical Activity.
 - 116. ["ABOUT NAFAPA" \(https://www.nafapa.net/\).](https://www.nafapa.net/) nafapa.
-- 117.<https://fesafa.net/>
+- 117.
 - 118. Pérez, J.; Reina, R.; Sanz, D. (2012). ["Adapted Physical Activity for people with disability in Spain: scienti](https://doi.org/10.12800%2Fccd.v7i21.86)fic [perspectives and current issues" \(https://doi.org/10.12800%2Fccd.v7i21.86\).](https://doi.org/10.12800%2Fccd.v7i21.86) CCD. Cultura\_Ciencia\_Deporte. 72 (21): 213–224. [doi](https://en.wikipedia.org/wiki/Doi_(identifier))[:10.12800/ccd.v7i21.86 \(https://doi.org/10.12800%2Fccd.v7i21.86\).](https://doi.org/10.12800%2Fccd.v7i21.86)
 - 119. ["APE de](https://ifapa.net/ape/)fi[nition" \(https://ifapa.net/ape/\).](https://ifapa.net/ape/) Retrieved 23 January 2021.
 - 120. Dunn, J.; Leitschuh, C. (2010). Special physical education. Kendall Hunt Publishing.

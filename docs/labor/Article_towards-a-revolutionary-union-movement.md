@@ -1,13 +1,8 @@
 ---
-title: Towards a Revolutionary Union Movement
-date: 2025
-author: Angry Education Workers
-tags:
-  - organizing
-  - strikes
-  - unions
-  - tenants
-  - housing
+title: "Towards a Revolutionary Union Movement"
+author: "Angry Education Workers"
+date: "2025"
+category: "labor"
 ---
 
 # Towards a Revolutionary Union Movement
@@ -1781,6 +1776,5 @@ Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/a
              Whatever you choose, remain an active and engaged member. Together, we
            can address our shortcomings as an organization and herald a new age of
            revolutionary unionism that brings capital to its knees once and for all.
-           Retrieved on 2025-09-23 from <angryeducationworkers.substack.com/p/
-           towards-a-revolutionary-union-movement-5e5>
+           Retrieved on 2025-09-23 from 
 37 of 37 10/11/25, 1:03 PM

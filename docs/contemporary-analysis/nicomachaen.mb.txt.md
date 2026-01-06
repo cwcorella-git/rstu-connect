@@ -1,3 +1,8 @@
+---
+title: "BOOK VII"
+category: "contemporary-analysis"
+---
+
 Provided by The Internet Classics Archive. See bottom for copyright. Available online at http://classics.mit.edu//Aristotle/nicomachaen.html
 
 ## Nicomachean Ethics By Aristotle

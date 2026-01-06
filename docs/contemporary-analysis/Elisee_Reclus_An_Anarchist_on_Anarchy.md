@@ -1,3 +1,8 @@
+---
+title: "## **An Anarchist on Anarchy**"
+category: "contemporary-analysis"
+---
+
 ## **An Anarchist on Anarchy**
 
 ## *by Elisée Reclus*

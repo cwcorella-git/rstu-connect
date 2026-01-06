@@ -1,3 +1,8 @@
+---
+title: "## **Buddhism and the Coming Revolution - Gary Snyder**"
+category: "contemporary-analysis"
+---
+
 ## **Buddhism and the Coming Revolution - Gary Snyder**
 
 ## **Date:** Unknown

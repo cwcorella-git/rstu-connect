@@ -1,30 +1,28 @@
 ---
-title: In This Moment Labor Must Become
-slug: 'In This Moment, Labor Must Become a Movement'
-reconversion_status: ready_for_reconversion
-date: 2016
-author: Industrial Workers of the World
-tags:
-  - theory
-  - anarchism
-  - strikes
-  - unions
-  - labor
+title: "In This Moment Labor Must Become"
+author: "Industrial Workers of the World"
+date: "2016"
+category: "theory"
 ---
+
 ## **In This Moment, Labor Must Become a Movement**
 
 | Date: Sun, 11/27/2016 - 19:47 |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Source: https://ecology.iww.org/node/1942|
-| Tags: Donald Trump, movement politics, green unionism, green syndicalism, NoDAPL, Dakota Access<br>Pipeline (DAPL) |
+| Tags: Donald Trump, movement politics, green unionism, green syndicalism, NoDAPL, Dakota Access
+Pipeline (DAPL) |
 | By Moshe Marvit - |
 | On Labor |
 | , November 21, 2016 |
-| Moshe Z. Marvit is an attorney and fellow with The Century Foundation, focusing on labor and<br>employment law and policy. He is the co-author (with Rick Kahlenberg) of the book, "Why<br>Labor Organizing Should be a Civil Right." |
+| Moshe Z. Marvit is an attorney and fellow with The Century Foundation, focusing on labor and
+employment law and policy. He is the co-author (with Rick Kahlenberg) of the book, "Why
+Labor Organizing Should be a Civil Right." |
 | This post is part of a series on |
 | Labor in the Trump Years |
 | |
-| With the election of President-elect Donald Trump, labor faces a unique opportunity. Yes, it<br>will face hostility in all branches of the federal government, and will have to maintain a |
+| With the election of President-elect Donald Trump, labor faces a unique opportunity. Yes, it
+will face hostility in all branches of the federal government, and will have to maintain a |
 | multi-pronged |
 
 fight. Yes, union density numbers are at historically low levels, and the bulwark of public-sector unionism may suffer a major blow at the Supreme Court through a case challenging the constitutionality of fair-share fees in the public sector. Yes, it will face unprecedented challenges to expand, let alone stay afloat. But in the midst of all this, labor has the opportunity to reform itself so that it can not only survive a Trump administration, but grow as well. Perhaps "opportunity" is the wrong word to describe the moment; labor has the existential imperative to reform itself, harness the existing energy, and lead a movement.

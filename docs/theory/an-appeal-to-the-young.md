@@ -1,13 +1,8 @@
 ---
-author: Peter Kropotkin
-date: 1880
-title: An Appeal to the Young
-tags:
-  - theory
-  - anarchism
-  - strikes
-  - tenants
-  - rent
+title: "An Appeal to the Young"
+author: "Peter Kropotkin"
+date: "1880"
+category: "theory"
 ---
 
 # An Appeal to the Young
@@ -27,16 +22,11 @@ tags:
 ### Extracted Text
 
 
-
-
-
-
               Pëtr Kropotkin
               An Appeal to the Young
               1880
                    Revolt!
                    An Appeal to the Young
-
 
 
                      “Peter Kropotkin...was recognized by friend and foe as one of the greatest minds...of
@@ -84,8 +74,6 @@ tags:
 ![Page 2 Complete](images/page_002_full.png)
 
 ### Extracted Text
-
-
 
 
               fear the devil, and that you do not go to hear parsons and ministers rant. More, that you are not one
@@ -152,8 +140,6 @@ tags:
 ### Extracted Text
 
 
-
-
                  If you are one of those miserable natures who adapt themselves to anything, who at the sight of
               the most revolting spectacles console themselves with a gentle sigh and a glass of sherry, then you
               wilt gradually become used to these contrasts, and the nature of the beast favoring your endeavors,
@@ -216,8 +202,6 @@ tags:
 ![Page 4 Complete](images/page_004_full.png)
 
 ### Extracted Text
-
-
 
 
                  It is now no longer a question of accumulating scientific truths and discoveries. We need above
@@ -284,8 +268,6 @@ tags:
 ### Extracted Text
 
 
-
-
               yet been stifled by legal fictions, what will you do? Will you contend that the farmer ought to be
               turned out upon the high road? — for that is what the law ordains — or will you urge that the
               landlord should pay back to the farmer the whole of the increase of value in his property which is
@@ -350,8 +332,6 @@ tags:
 ### Extracted Text
 
 
-
-
               valuable discovery. You make use of it and the result surpasses your expectations. Ten, twenty
               thousand “hands” are thrown out upon the streets! Those who remain, most of them children, will
               be reduced to mere machines! Three, four, ten masters will make their fortunes and will drink deep
@@ -405,7 +385,6 @@ tags:
               age. You will wish to have wide, human education for all, in school and out of school; and seeing
 
 
-
 6 of 12                                                                                                                     10/2/25, 10:16 PM 
 ---
 
@@ -415,8 +394,6 @@ tags:
 ![Page 7 Complete](images/page_007_full.png)
 
 ### Extracted Text
-
-
 
 
               that this is impossible in existing conditions, you will attack the very foundations of bourgeois
@@ -483,8 +460,6 @@ tags:
 ### Extracted Text
 
 
-
-
                  You will see that everywhere, in England as well as in France, in Germany as well as in Italy, in
               Russia as welt as in the United States, everywhere where there is a privileged and an oppressed
               class, there is a tremendous work going on in the midst of the working class, whose object is to
@@ -547,8 +522,6 @@ tags:
 ![Page 9 Complete](images/page_009_full.png)
 
 ### Extracted Text
-
-
 
 
                  Why, some are taking their ease with the most cowardly indifference; others, the majority,
@@ -615,8 +588,6 @@ tags:
 ### Extracted Text
 
 
-
-
               interests of art itself, come with us. Place your pen, your pencil, your chisel, your ideas at the
               service of the revolution. Figure forth to us, in your eloquent style, or your impressive pictures, the
               heroic struggles of the people against their oppressors; fire the hearts of our youth with that
@@ -679,8 +650,6 @@ tags:
 ![Page 11 Complete](images/page_011_full.png)
 
 ### Extracted Text
-
-
 
 
               knowledge, of art, and keep for yourself only the eternal anxiety as to whether you can get a bit of
@@ -747,8 +716,6 @@ tags:
 ### Extracted Text
 
 
-
-
               place, yourself among the Socialists.
                  And you, woman of the people, has this left you cold and unmoved? While caressing the pretty
               head of that child who nestles close to you, do you never think about the lot that awaits him, if the
@@ -795,14 +762,10 @@ tags:
               tyrants of the Earth shall bite the dust.
 
 
-
               Retrieved on February 16th, 2009 from dwardmac.pitzer.edu
 
               First appeared in French, 1880. “Aux Jeunes Gens”. Le Révolté, June 25; July 10; August 7, 21
 
 
-
-
 12 of 12                                                                                                                    10/2/25, 10:16 PM 
 ---
-

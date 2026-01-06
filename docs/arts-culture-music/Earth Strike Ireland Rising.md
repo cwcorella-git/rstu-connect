@@ -1,3 +1,8 @@
+---
+title: "## **Earth Strike Ireland Rising**"
+category: "arts-culture-music"
+---
+
 ## **Earth Strike Ireland Rising**
 
 ## **Date:** Sun, 09/22/2019 - 19:19

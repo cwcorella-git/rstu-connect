@@ -1,3 +1,8 @@
+---
+title: "## [social-ecology.org](https://social-ecology.org/wp/2008/09/social-ecology-and-the-greening-of-our"
+category: "environmental-justice"
+---
+
 ## [social-ecology.org](https://social-ecology.org/wp/2008/09/social-ecology-and-the-greening-of-our-cities/)
 
 ## **Social Ecology and The Greening of Our Cities**

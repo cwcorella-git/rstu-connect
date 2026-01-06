@@ -1,3 +1,8 @@
+---
+title: "**Episode 38: Agape And 4e Cognitive Science/**"
+category: "contemporary-analysis"
+---
+
 # **Episode 38: Agape And 4e Cognitive Science/**
 
 **Source:** https://www.meaningcrisis.co/ep-38-awakening-from-the-meaning-crisis-agape-and-4e-cognitive-science/

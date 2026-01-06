@@ -1,3 +1,8 @@
+---
+title: "## **1922: Guayaquil General Strike**"
+category: "labor"
+---
+
 ## **1922: Guayaquil General Strike**
 
 **Date:** Unknown

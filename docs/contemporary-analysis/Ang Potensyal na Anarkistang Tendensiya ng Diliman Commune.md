@@ -1,3 +1,8 @@
+---
+title: "## **Ang Potensyal na Anarkistang Tendensiya ng Diliman Commune**"
+category: "contemporary-analysis"
+---
+
 ## **Ang Potensyal na Anarkistang Tendensiya ng Diliman Commune**
 
 ## **Date:** Unknown
@@ -146,7 +151,8 @@ All in all there were 11 known casualties during the eight-day "coccupation," in
 
 ## Special Collection
 
-| Talasanggunian/Bibliography is lifted from an earlier version of the article entitled "anarki in<br>UP." |
+| Talasanggunian/Bibliography is lifted from an earlier version of the article entitled "anarki in
+UP." |
 |----------------------------------------------------------------------------------------------------------|
 | |
 | |

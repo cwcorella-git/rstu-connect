@@ -1,3 +1,8 @@
+---
+title: "## **Direct Action #14 (1983)**"
+category: "contemporary-analysis"
+---
+
 ## **Direct Action #14 (1983)**
 
 ## **Date:** Unknown

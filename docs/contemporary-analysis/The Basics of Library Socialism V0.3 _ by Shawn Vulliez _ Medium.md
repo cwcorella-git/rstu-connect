@@ -1,3 +1,8 @@
+---
+title: "The Basics of Library Socialism V0.3"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_3.jpeg)
 
 ## ![](_page_0_Picture_4.jpeg)
@@ -240,7 +245,9 @@ In by Wall Street Gradient [Shubhransh Rai](https://medium.com/@shubhranshrai?so
 
 [The Economic Illusion is Breaking—Are You Ready?](https://medium.com/wall-street-gradient/did-trump-just-crash-the-american-economy-671f0d27af5b?source=post_page---read_next_recirc--1c3f00a7c94f----2---------------------dd7fd21c_42d8_47a0_bc2b_9ae42e55f2de--------------)
 
-| Mar 5<br>865<br>32 | |
+| Mar 5
+865
+32 | |
 |--------------------|--|
 | | |
 | | |

@@ -1,3 +1,8 @@
+---
+title: "**Episode 44: Theories Of Wisdom/**"
+category: "contemporary-analysis"
+---
+
 # **Episode 44: Theories Of Wisdom/**
 
 **Source:** https://www.meaningcrisis.co/ep-44-awakening-from-the-meaning-crisis-theories-of-wisdom/

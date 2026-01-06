@@ -1,12 +1,8 @@
 ---
-author: Yoshiharu Hashimoto
-date: 1921
-title: 'The Facts of Anarchy: The Anarchist Library'
-tags:
-  - organizing
-  - rent
-  - police
-  - anarchism
+title: "The Facts of Anarchy: The Anarchist Library"
+author: "Yoshiharu Hashimoto"
+date: "1921"
+category: "theory"
 ---
 
 # The Facts of Anarchy _ The Anarchist Library.pdf

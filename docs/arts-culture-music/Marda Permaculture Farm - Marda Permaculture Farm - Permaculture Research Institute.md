@@ -1,3 +1,8 @@
+---
+title: "Marda Permaculture Farm"
+category: "arts-culture-music"
+---
+
 # Marda Permaculture Farm
 
 #### Planting Seeds of Hope in the Occupied Territories

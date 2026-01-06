@@ -1,15 +1,10 @@
 ---
-title: The Police Are Not Required To Protect You
-slug: The Police are Not Required to Protect You — Barnes Law
-reconversion_status: ready_for_reconversion
-date: 2005
-author: Unknown
-tags:
-  - abolition
-  - police
-  - rent
-  - labor
+title: "The Police Are Not Required To Protect You"
+author: "Unknown"
+date: "2005"
+category: "abolition"
 ---
+
 ## [barneslawllp.com](https://www.barneslawllp.com/blog/police-not-required-protect/)
 
 ## **The Police are Not Required to Protect You — Barnes Law**
@@ -40,9 +35,7 @@ The opinions expressed are those of the author and do not necessarily reflect th
 
 - [\[1\]](#page-0-0) [http://www.lapdonline.org/history\\_of\\_the\\_lapd/](http://www.lapdonline.org/history_of_the_lapd/content_basic_view/1128) [content\\_basic\\_view/1128](http://www.lapdonline.org/history_of_the_lapd/content_basic_view/1128)
 - [\[2\]](#page-0-1) There are a few narrow exceptions to the "no duty to protect" rule. Due to their limited application, the exceptions are not discussed here.
-- [\[3\]](#page-0-2) De Shaney v. Winnebago County Department of Social Services, 489 U. S. 189 (1989). [<https://www.law.cornell.edu/](https://www.law.cornell.edu/supremecourt/text/489/189)
-
-## [supremecourt/text/489/189>](https://www.law.cornell.edu/supremecourt/text/489/189)
+- [\[3\]](#page-0-2) De Shaney v. Winnebago County Department of Social Services, 489 U. S. 189 (1989). [](https://www.law.cornell.edu/supremecourt/text/489/189)
 
 - [\[4\]](#page-1-0) Ibid.
 - [\[5\]](#page-1-1) Ibid.

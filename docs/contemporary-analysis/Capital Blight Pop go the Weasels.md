@@ -1,3 +1,8 @@
+---
+title: "## **Capital Blight: Pop go the Weasels**"
+category: "contemporary-analysis"
+---
+
 ## **Capital Blight: Pop go the Weasels**
 
 ## **Date:** Tue, 04/05/2016 - 18:09

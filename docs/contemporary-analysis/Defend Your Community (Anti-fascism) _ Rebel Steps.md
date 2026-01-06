@@ -1,3 +1,8 @@
+---
+title: "## **Defend Your Community (Antifascism) | Rebel Steps**"
+category: "contemporary-analysis"
+---
+
 ## **Defend Your Community (Antifascism) | Rebel Steps**
 
 27–35 minutes

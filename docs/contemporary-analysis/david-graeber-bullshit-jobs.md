@@ -1,27 +1,8 @@
 ---
-title: Bullshit Jobs
-author: David Graeber
-date: 'May 15, 2018, originally published.'
-pubdate: '2018-06-02T15:12:51'
-language: en
-notes: >-
-  ISBN 978-1-5011-4331-1, ISBN 978-1-5011-4334-2 (ebook); Most names and many
-  identifying | See also: David Graeber Institute
-  [[https://davidgraeber.institute/]] & [[https://davidgraeber.org/]]
-topics:
-  - work
-  - anti-work
-  - jobs
-  - bullshit jobs
-  - labour
-original_format: muse
-converted_date: '2025-11-08T11:25:03.068641'
-tags:
-  - Work
-  - Anti Work
-  - Jobs
-  - Bullshit Jobs
-  - Labour
+title: "Bullshit Jobs"
+author: "David Graeber"
+date: "May 15, 2018, originally published."
+category: "contemporary-analysis"
 ---
 
 characteristics have been changed.; Interior design by Carly Loman; Jacket design by David L Itman
@@ -43,7 +24,7 @@ It was plausible, but I didn’t really know. In a way, I wrote the piece as a k
 
 This is what I wrote for the August 2013 issue:
 
-<quote>
+
 **On the Phenomenon of Bullshit Jobs**
 
 In the year 1930, John Maynard Keynes predicted that, by century’s end, technology would have advanced sufficiently that countries like Great Britain or the United States would have achieved a fifteen-hour work week. There’s every reason to believe he was right. In technological terms, we are quite capable of this. And yet it didn’t happen. Instead, technology has been marshaled, if anything, to figure out ways to make us all work more. In order to achieve this, jobs have had to be created that are, effectively, pointless. Huge swathes of people, in Europe and North America in particular, spend their entire working lives performing tasks they secretly believe do not really need to be performed. The moral and spiritual damage that comes from this situation is profound. It is a scar across our collective soul. Yet virtually no one talks about it.
@@ -77,7 +58,7 @@ This is a profound psychological violence here. How can one even begin to speak 
 Even more perverse, there seems to be a broad sense that this is the way things should be. This is one of the secret strengths of right-wing populism. You can see it when tabloids whip up resentment against tube workers for paralyzing London during contract disputes: the very fact that tube workers can paralyze London shows that their work is actually necessary, but this seems to be precisely what annoys people. It’s even clearer in the United States, where Republicans have had remarkable success mobilizing resentment against schoolteachers and autoworkers (and not, significantly, against the school administrators or auto industry executives who actually cause the problems) for their supposedly bloated wages and benefits. It’s as if they are being told “But you get to teach children! Or make cars! You get to have real jobs! And on top of that, you have the nerve to also expect middle-class pensions and health care?”
 
 If someone had designed a work regime perfectly suited to maintaining the power of finance capital, it’s hard to see how he or she could have done a better job. Real, productive workers are relentlessly squeezed and exploited. The remainder are divided between a terrorized stratum of the universally reviled unemployed and a larger stratum who are basically paid to do nothing, in positions designed to make them identify with the perspectives and sensibilities of the ruling class (managers, administrators, etc.)—and particularly its financial avatars—but, at the same time, foster a simmering resentment against anyone whose work has clear and undeniable social value. Clearly, the system was never consciously designed. It emerged from almost a century of trial and error. But it is the only explanation for why, despite our technological capacities, we are not all working three- to four-hour days.
-</quote>
+
 
 If ever an essay’s hypothesis was confirmed by its reception, this was it. “On the Phenomenon of Bullshit Jobs” produced an explosion.
 
@@ -589,7 +570,7 @@ The man didn’t know the first thing about statistics, and he struggled to prod
 
 There is, it seems, a whole genre of jobs that involve correcting the damage done by a superior who holds his position for reasons unrelated to ability to do the work. (This overlaps somewhat with flunky positions where the jobholder has to do the superior’s work, but it’s not exactly the same thing.) Here’s another example, of a programmer who got a job for a firm run by a Viennese psychologist who fancied himself an old-style scientific revolutionary, and who had invented what was, in the company, referred to simply as “the algorithm.” The algorithm aimed to reproduce human speech. The company sold it to pharmacists to use on their websites. Except it didn’t work:
 
-<quote>
+
 Nouri: The company’s founding “genius” was this Viennese research psychologist, who claimed to have discovered the Algorithm. For many months, I was never allowed to see it. I just wrote stuff that used it.
 
 The psychologist’s code kept failing to give sensible results. Typical cycle:
@@ -603,7 +584,7 @@ The psychologist’s code kept failing to give sensible results. Typical cycle:
  - Triumphantly emerges with bug fix—now it’s perfect!
 
  - Go to step one.
-</quote>
+
 
 In the end, the programmer was reduced to writing very primitive Eliza scripts[51] to mimic speech for the Web pages just to cover up the fact that the Algorithm was basically gibberish, and the company, it turned out, was a pure vanity project run by a rented CEO who used to manage a gym.
 
@@ -945,9 +926,9 @@ Eric: A colleague from the Edinburgh office, to whom I had poured out my woes wh
 
 After heroic efforts, Eric did finally manage to get himself replaced:
 
-<quote>
+
 Eric: Eventually, responding to pressure, my boss hired a junior fresh out of a computer science degree to see if some improvements could be made to our graphical user interface. On this kid’s first day at work, I wrote him a list of what needed to be done—and then immediately wrote my resignation letter, which I posted under my boss’s door when he took his next vacation, surrendering my last paycheck over the telephone in lieu of the statutory notice period. I flew that same week to Morocco to do very little in the coastal town of Essaouira. When I came back, I spent the next six months living in a squat, growing my own vegetables on three acres of land. I read your *Strike!* piece when it first came out. It might have been a revelation for some that capitalism creates unnecessary jobs in order for the wheels to merely keep on turning, but it wasn’t to me.
-</quote>
+
 
 The remarkable thing about this story is that many would consider Eric’s a dream job. He was being paid good money to do nothing. He was also almost completely unsupervised. He was given respect and every opportunity to game the system. Yet despite all that, it gradually destroyed him.
 
@@ -1068,7 +1049,7 @@ If this is so, then it begins to give us a sense of why being trapped in a job w
 
 ### a brief excursus on the history of make-work and particularly of the concept of buying other people’s time
 
-<quote>
+
 **Boss:** How come you’re not working?
 
 **Worker:** There’s nothing to do.
@@ -1076,7 +1057,7 @@ If this is so, then it begins to give us a sense of why being trapped in a job w
 **Boss:** Well, you’re supposed to pretend like you’re working.
 
 **Worker:** Hey, I got a better idea. Why don’t *you* pretend like I’m working? You get paid more than me.
-</quote>
+
 —Bill Hicks comedy routine
 
 Groos’s theory of “the pleasure at being the cause” led him to devise a theory of play as make-believe: humans invent games and diversions, he proposed, for the exact same reason the infant takes delight in his ability to move a pencil. We wish to exercise our powers as an end in themselves. The fact that the situation is made up doesn’t detract from this; in fact, it adds another level of contrivance. This, Groos suggested—and here he was falling back on the ideas of Romantic German philosopher Friedrich Schiller—is really all that freedom is. (Schiller argued that the desire to create art is simply a manifestation of the urge to play as the exercise of freedom for its own sake as well.[75]) Freedom is our ability to make things up just for the sake of being able to do so.
@@ -1335,13 +1316,13 @@ Robert: The weirdest thing about this job is how, in a twisted way, it was kind 
 
 At the very least, there can be a conspiracy of silence on such shirking strategies; sometimes, active cooperation. In other cases, one can be lucky enough to find a supervisor who is both willing to be fairly honest and agreeable enough to set almost explicit parameters for loafing. The emphasis here is on “almost.” One can never simply ask. Here’s someone who has an on-call job at a travel insurance company. He’s basically a duct taper, there to straighten out things once every month or two when something goes predictably awry in their relation to their partner company. Otherwise:
 
-<quote>
+
 **Calvin:** Any given week, there will be a few situations where [our partner company] is supposed to reach out to my team for advisory. So for up to twenty minutes a week, we have actual work to do. Ordinarily, though, I send five or eight fifteen-word emails a day, and every few days, there’s a ten-minute team meeting. The rest of the workweek is functionally mine, though not in any way I can flaunt. So I flit through social media, RSS aggregation, and coursework in a wide but short browser window I keep discreetly on the second of my two monitors. And every few hours, I’ll remember I’m at a workplace and respond to my one waiting email with something like: “We agree with the thing you said. Please proceed with the thing.” Then I only have to pretend to be visibly overworked for seven more hours each day.
 
 **David:** So if you didn’t look busy, who would notice? Does that person know there’s nothing really to do and just wants you to look busy, do you think, or do they actually believe it’s a real full-time job?
 
 **Calvin:** Our team manager seems to know what’s up, but she’s never let on to having problems with it. Occasionally, I will have days with zero work at all, so I’ll let her know that and volunteer to help out another department if they’re bogged down in some way. That help is never needed, it seems, so my letting her know is my way of declaring, “I’m going to be on Twitter a full eight hours, but I told you in advance, so it’s actually extremely noble of me.” She schedules hourlong weekly meetings that haven’t once had ten minutes of content—we spend the rest of them chatting casually. And since her bosses, up however high, are aware of the genuine problems the other company can cause, I think it’s presumed we’re wrangling their nonsense, or at least might have to at any given second.
-</quote>
+
 
 Not all supervisors, then, subscribe to the ideology of “You’re on my time.” Particularly in large organizations where managers don’t have much of a proprietary feeling anyway and don’t have reason to believe they’ll get in much trouble with their own superiors if they notice one of their subordinates slacking off, they might well let matters take their own course.[100] This kind of polite, coded, mutual consideration is perhaps about as close to honesty in such situations as one is likely to get. But even in such maximally benevolent circumstances, there is a taboo on being too explicit. The one thing that could never, apparently, happen, is for anyone to actually say, “Basically, you’re just here in case of emergencies. Otherwise, do what you like and try not to get in anybody’s way.” And even Calvin feels obliged to pretend to be overworked, just as a reciprocal gesture of appreciation and respect.
 
@@ -1466,13 +1447,13 @@ Annie: I did this for six months before deciding I’d rather die than continue.
 
 This leads us to another issue: the effects of such situations on employees’ physical health. While I lack statistical evidence, if the testimonials are anything to go by, stress-related ailments seem a frequent consequence of bullshit jobs. I’ve read multiple reports of depression, anxiety overlapping with physical symptoms of every sort, from carpal tunnel syndrome that mysteriously vanishes when the job ends, to what appears, while it’s happening, like autoimmune breakdown. Annie, too, became increasingly ill. Part of the reason, she felt in retrospect, was the extreme contrast between the work environments of her previous job and this one:
 
-<quote>
+
 **David:** I’m trying to imagine what it must have been like to move from a real job, teaching and taking care of children, to something so entirely pointless and humiliating, just to pay the rent. Do you think there are a lot of people in that situation?
 
 **Annie:** I imagine it has to be pretty common! Low-paying childcare jobs have really high turnover. Some people get additional training and can move on to something more sustaining, but a lot of the ones I’ve watched leave (mostly women) end up in some office or retail management.
 
 One part of the experience I think about a lot is that I went from an environment where I was touched and touching all day long—picking kids up, getting hugs, giving piggybacks, rocking to sleep—into an environment where nobody talked to each other, let alone touched each other. I didn’t recognize the effect this had on my body while it was happening, but now in retrospect I see what a *huge* impact it had on my physical and mental health.
-</quote>
+
 
 I suspect that not only is Annie right, but she is describing an unusually dramatic example of what is, in fact, a very common dynamic. Annie was convinced that not only was her particular job pointless but also that the entire enterprise shouldn’t really exist: at best, it was a giant exercise in duct taping, making up for some bits of the damage caused by the notoriously dysfunctional American health care system, of which it was an intrinsic part. But of course, no one was allowed to discuss such matters in the office. No one was allowed to discuss anything in the office. The physical isolation was continuous with the social isolation. Everyone there was forced to become a little bubble unto himself or herself.
 
@@ -1484,7 +1465,7 @@ I am suggesting, then, that the very meaninglessness of bullshit employment tend
 
 Many, like, Annie, were terrified by the health effects. Just as a prisoner in solitary confinement inevitably begins to experience brain damage, the worker deprived of any sense of purpose often experiences mental and physical atrophy. Nouri, whom we met in chapter 2, repairing code for an incompetent Viennese psychologist, kept something of a diary of each of his successive bullshit jobs and their effects upon his mind and body:
 
-<quote>
+
 **Nouri:**
 
 **Job 1:** Programmer, (pointless) start-up.
@@ -1502,7 +1483,7 @@ Many, like, Annie, were terrified by the health effects. Just as a prisoner in s
 **Job 4:** Software developer, (doomed, dysfunctional) ex-start-up.
 
 **Effect on me:** relentless mediocrity and fear due to my inability to focus crippled my mind; I got a cold every month; warping my consciousness to motivate myself killed my immune system. PTSD. My thoughts were thoroughly mediocre…
-</quote>
+
 
 Nouri had the misfortune to stumble through a series of relentlessly absurd and/or abusive corporate environments. He managed to keep himself sane—at least to the degree of fending off complete mental and physical breakdown—by finding a different sense of purpose: he began to carry out a detailed analysis of the social and institutional dynamics that lie behind failed corporate projects. Effectively, he became an anthropologist. (This has been very useful to me. Thanks, Nouri!) Then he discovered politics, and began diverting time and resources toward plotting to destroy the very system that created such ridiculous jobs. At this point, he reports, his health began to markedly improve.
 
@@ -1588,7 +1569,7 @@ From thinking a “crap office job” was hardly the end of the world, Rachel wa
 
 There is one other, slightly different form of social suffering that ought to be acknowledged: the misery of having to pretend you’re providing some kind of benefit to humanity, when you know the exact opposite is in fact the case. For obvious reasons, this is most common among social service providers who work for government or nongovernmental organizations (NGOs). Most are engaged in box-ticking rituals, at least to a certain degree, but many are aware that what they’re doing is worse than useless: they are harming the people they are supposedly there to help. Shihi is now an artist, but she was once a community therapist in New York City:
 
-<quote>
+
 Sh*Í*hi: I used to work as a therapist in a community mental health center in the Bronx in the 1990s and 2000s. I have a social work degree.
 
 My clients ended up either being mandated to “treatment” after being incarcerated for minor stuff (Clinton’s crime bill), lost their jobs and apartments after being jailed, or just needed to prove to welfare-to-work or Social Security offices that they need SSI [Supplemental Security Income] or other food/rent subsidies because they were mentally ill.
@@ -1600,7 +1581,7 @@ My job was to do therapy to essentially tell them it was their own fault and the
 I had groups to run like “anger management,” “coping skills” .~~.~~. They were so insulting and irrelevant! How do you cope with lack of decent food or control your rage toward the police when they abuse you?
 
 My job was useless and harmful. So many NGOs profit from the misery created by inequality. I made a very poor living doing what I did, but it still pains me deeply that I was a poverty pimp.
-</quote>
+
 
 It is interesting and important to note that many of the petty officials who do absurd and terrible things in the name of paperwork are keenly aware of what they are doing and of the human damage that is likely to result—even if they usually feel they must remain stone-faced when dealing with the public. Some rationalize it. A few take sadistic pleasure. But any victim of the system who has ever asked herself, “How can such people live with themselves?” might take some comfort in the fact that, in many cases, they can’t. Meena’s job for a local government council in an English town sometimes referred to as “Little Skidrow-by-the-Sea” was represented to her, when she took it, as working with the homeless. She found this was true in a sense:
 
@@ -1659,7 +1640,7 @@ He still manages to keep up a political life as an anarchist determined to destr
 
 Finally, a British psychologist who, owing to Prime Minister Tony Blair’s higher education reforms of the 1990s, was laid off as a teacher and rehired as a “Project Assessor” to determine the effects of laying off teachers:
 
-<quote>
+
 **Harry:** What surprises me is that it’s astonishingly difficult to repurpose time for which one is being paid. I’d have felt guilty if I’d dodged the BS work and, say, used the time to have a go at writing a novel. I felt obliged to do my best to carry out the activities I was contracted to carry out—even if I knew those activities were entirely futile.
 
 **David:** You know, that’s one theme that keeps cropping up in the testimonies I’ve been reading: jobs that should be wonderful, since they pay you lots of money to do little or nothing and often don’t even insist you pretend to work, somehow drive people crazy anyway because they can’t figure out a way to channel the time and energy into anything else.
@@ -1669,7 +1650,7 @@ Finally, a British psychologist who, owing to Prime Minister Tony Blair’s high
 **David:** Maybe we’re onto something here!
 
 **Harry:** Yes, it’s really interesting.
-</quote>
+
 
 So utilizing a bullshit job to pursue other projects isn’t easy. It requires ingenuity and determination to take time that’s been first flattened and homogenized—as all work time tends to be in what James calls “sterile office environment[s]”—then broken randomly into often unpredictably large fragments, and use that time for projects requiring thought and creativity. Those who manage to do so have already sunk a great deal of their—presumably finite—creative energies just into putting themselves in a position where they can use their time for anything more ambitious than cat memes. Not that there’s anything wrong with cat memes. I’ve seen some very good ones. But one would like to think our youth are meant for greater things.
 
@@ -1936,7 +1917,7 @@ Elliot: The senior management had to be aware of this, but it was never explicit
 
 This is actually a fairly common story in the testimonies I received: I heard about similar things going on in law firms involved with asbestos compensation payments as well. Whenever a very large sum of money, in the hundreds of millions, is set aside to compensate an entire class of people, a bureaucracy must be set up to locate claimants, process claims, and portion out the money. This bureaucracy may often involve hundreds or even thousands of people. Since the money that pays their salaries is ultimately coming from the same pot, they have no particular incentive to distribute the spoils efficiently. That would be killing the goose that laid the golden egg! According to Elliot, this often led to “crazy, surreal stuff” like intentionally placing offices in different cities and forcing people to commute between them, or printing and destroying the same documents a half dozen times—all the while threatening legal action against anyone who revealed such practices to outsiders.[137] Clearly, the point was to siphon off as much of the money as possible before it got to the claimants; the longer the lower-level people took, the more the company would earn; but owing to the peculiar dynamic discussed in the last chapter, the very pointlessness of the exercise seemed to exacerbate levels of stress and abusive behavior.
 
-<quote>
+
 Elliot: The cynicism involved was remarkable. I guess it works out to a form of parasitism. As it happens, the job was also extremely difficult and stressful: it appeared that part of their business model was placing impossible targets which would increase all the time so that turnover was high and more staff would regularly have to be brought in and mis-trained, so that, I imagine, the firm could plausibly ask their client that the contract be extended further.
 
 This was demoralizing, of course. I’m now working as a cleaner, which is the least bullshit/alienated job I have ever had.
@@ -1948,7 +1929,7 @@ This was demoralizing, of course. I’m now working as a cleaner, which is the l
 **David:** Well, I see how one could make the argument that in any system where you are basically dealing with the distribution of spoils, it makes sense to create as many layers of parasites in between as possible. But who were they ultimately milking? Their clients? Or who?
 
 **Elliot:** I’m not sure who was ultimately paying for this. The bank? An insurance company that insured the bank against losses on fraud activities in the first place? Of course, ultimately it would be the consumer and taxpayer who pay; all these companies need to know is how to milk it.
-</quote>
+
 
 As long ago as 1852, Charles Dickens, in *Bleak House*, was already making fun of the legal profession with the case of *Jarndyce and Jarndyce—*in which two teams of barristers keep the battle over a huge estate alive for more than a lifetime, until they’ve devoured the whole thing, whereupon they simply declare the matter moot and move on. The moral of the story is that when a profit-seeking enterprise is in the business of distributing a very large sum of money, the most profitable thing for it to do is to be as inefficient as possible.
 
@@ -2114,7 +2095,7 @@ Then you go, and they forget about you… and you have to follow up, and the loo
 
 The game, then, is to keep the ball in the air as long as possible. Just to option an idea, which involves a mere token payment, typically requires approval from three other branches of the company. Once the option papers are signed, a new process of stalling begins:
 
-<quote>
+
 Oscar: They will tell me the document they optioned is too long to send around; they need a shorter pitch document. Or suddenly they also want some changes to the concept. So we have a meeting, we talk it over, brainstorm.
 
 A lot of this process is just them justifying their jobs. Everybody in the room will have a different opinion just for the sake of having a reason to be there. It’s a cacophony of ideas, and they talk in the loosest, most conceptual terms possible. They pride themselves on being savvy marketers and incisive thinkers, but it’s all generalities.
@@ -2124,13 +2105,13 @@ The executive loves to talk in metaphors, and he loves to expose his theories ab
 Or they’ll say “I’m not saying you should do *X*, but maybe you should do *X*”; both tell you to do something and not to do it at the same time. The more you press for details, the blurrier it gets. I try to decipher their gibberish and tell them what I think they mean.
 
 Alternately, the executive will totally, wholeheartedly agree with everything the writer proposes; then as soon as the meeting is over, he’ll send out an email instructing her to do the opposite. Or wait a few weeks and inform her the entire project must be reconceived. After all, if all he did was shake the writer’s hand and allow her to get to work, there’d be little point of having an Executive Creative Vice President to begin with—let alone five or six of them.
-</quote>
+
 
 In other words, film and TV production is now not all that entirely different from the accountancy companies mis-training employees to stall the distribution of PPI payments, or Dickens’s case of *Jarndyce and Jarndyce*. The longer the process takes, the greater the excuse for the endless multiplication of intermediary positions, and the more money is siphoned off before it has any chance to get to those doing the actual work.
 
-<quote>
+
 Oscar: And *all this* for a (now) fifteen-page document. Now, extrapolate that to more people, a script, a director, producers, even more executives, the shoot, the edit—and you have a picture of the insanity of the industry.
-</quote>
+
 
 At this point, we are entering into what might be termed the airy reaches of the bullshit economy, and therefore, that part least accessible to study. We cannot know what Executive Creative Vice Presidents are really thinking. Even those who are secretly convinced their jobs are pointless—and for all we know, that’s pretty much all of them—are unlikely to admit this to an anthropologist. So one can only guess.
 
@@ -2350,9 +2331,9 @@ Now, “social value” of this sort clearly can’t be measured, and undoubtedl
 
 ### concerning the inverse relationship between the social value of work and the amount of money one is likely to be paid for it
 
-<quote>
+
 *Virtutum omnium pretium in ipsis est.*
-</quote>
+
 —Epictetus
 
 I made this point in the original bullshit jobs article in 2013 because it had struck me during my experience with Occupy Wall Street two years earlier. One of the most frequently heard complaints from supporters of the movement—particularly the ones working too much to spend much time in the camps, but who could only show up for marches or to express support on the Web—ran along the lines of: “I wanted to do something useful with my life; work that had a positive effect on other people or, at the very least, wasn’t hurting anyone. But the way this economy works, if you spend your working life caring for others, you’ll end up so underpaid and so deeply in debt you won’t be able to care for your own family.” There was a deep and abiding sense of rage at the injustice of such arrangements.[158] I began to refer to it, mostly to myself, as the “revolt of the caring classes.” At the same time, occupiers in Manhattan’s Zuccotti Park regularly reported conversations with young Wall Street traders who’d drop by and say things to the effect of: “Look, I know you guys are right; I’m not contributing anything positive to the world, the system is corrupt, and I’m probably part of the problem. I’d quit tomorrow if you could show me how to live in New York on a less-than-six-figure salary.”
@@ -2458,9 +2439,9 @@ This certainly resonates with my own experience. Most academics are first drawn 
 
 Academics aren’t paid for writing or reviewing research articles, but at least the universities that do pay them acknowledge, however reluctantly, that research is part of their job description. In the business world, it’s worse. For instance, Geoff Shullenberger, a writing professor at New York University, reacted to my original 2013 essay with a blog pointing out that many businesses now feel that if there’s work that’s gratifying in any way at all, they really shouldn’t have to pay for it:
 
-<quote>
+
 For Graeber, bullshit jobs carry with them a moral imperative: “If you’re not busy all the time doing something, anything—doesn’t really matter what it is—you’re a bad person.” But the flipside of that logic seems to be: if you actually like doing *X* activity, if it is valuable, meaningful, and carries intrinsic rewards for you, it is wrong for you to expect to be paid (well) for it; you should give it freely, even (especially) if by doing so you are allowing others to profit. In other words, we’ll make a living from you doing what you love (for free), but we’ll keep you in check by making sure you have to make a living doing what you hate.
-</quote>
+
 
 Shullenberger gave the example of translation work. Translating a paragraph or document from one language to another—particularly from a dry business document—is not a task that many people would do for fun; still, one can imagine some reasons people might do it other than the money. (They are trying to perfect their language abilities, for example.) Therefore, most executives’ first instinct, upon hearing that translation work is required, is to try to see if they can’t find some way to make someone do it for free. Yet these very same executives are willing to shell out handsome salaries for “Vice Presidents for Creative Development” and the like, who do absolutely nothing. (In fact, such executives might themselves *be* Vice Presidents for Creative Development, and do nothing at all other than trying to figure out how to get others to do work for free.)
 
@@ -2826,9 +2807,9 @@ One reason American autoworkers had such relatively generous plans, compared wit
 
 It’s quite the same with the otherwise inexplicable drum-beat of animosity directed, in the United States, against primary and secondary school teachers. Schoolteachers, of course, are the very definition of those who chose a socially important and high-minded vocation in the full knowledge that it would involve low pay and stressful conditions. One becomes a teacher because one wants to have a positive impact on others’ lives. (As a New York subway recruiting ad used to say, “No one ever called someone up twenty years later to thank them for being such an aspiring insurance claims adjuster.”) Yet again, this seems to be what makes them fair game in the eyes of all those who denounce them as spoiled, entitled, overpaid spouters of secular humanist anti-Americanism. Granted, one can understand why Republican activists target teachers’ unions. Teachers’ unions are one of the mainstays of support for the Democratic Party. But teachers’ unions include both teachers and school administrators, the latter being those actually responsible for most of the policies most Republican activists object to. So why not focus on them? It would have been much easier for them to make a case that the school administrators are overpaid parasites than that teachers are coddled and spoiled. As Eli Horowitz noted:
 
-<quote>
+
 What’s remarkable about this is that Republicans and other conservatives actually *did* complain about school administrators—but then they stopped. For whatever reason, those voices (which were few and quiet to begin with) dwindled to nonexistence almost as soon as the conversation began. In the end, *the teachers themselves* turned out to be the more valid political targets, even though they do the more valuable work.[209]
-</quote>
+
 
 Again, I think this can only be put down to moral envy. Teachers are seen as people who have ostentatiously put themselves forward as self-sacrificing and public-spirited, as wanting to be the sort of person who gets a call twenty years later saying “Thank you, thank you for all you did for me.” For people like that to form unions, threaten strikes, and demand better working conditions is considered almost hypocritical.
 
@@ -2981,7 +2962,7 @@ Leslie knew this better than anyone because she’d spent time on both sides of 
 
 Candi, a fellow Basic Income activist—who also held a useless job in the system whose details she preferred not to disclose—told me she originally became interested in such issues when she first moved to London in the 1980s and became part of the International Wages for Housework Movement:
 
-<quote>
+
 **Candi:** I got involved in Wages for Housework because I felt that my mother needed it. She was trapped in a bad marriage, and she would have left my dad a lot earlier if she’d had her own money. That’s something really important for anyone in an abusive or even just boring relationship: to be able to get out of it without being financially impacted.
 
 I’d just been in London for a year. I’d been trying to get involved in some form of feminism back in the States. One of my formative memories was my mother taking me to a consciousness raising group in Ohio when I was nine. We ripped out pages from St. Paul’s Gospel where he was talking about how terrible women are and made a pile of them. And because I was the youngest member of the group they told me to light the pile. I remember I wouldn’t do it at first because I’d been taught not to play with matches.
@@ -2989,13 +2970,13 @@ I’d just been in London for a year. I’d been trying to get involved in some 
 **David:** But you did eventually light it?
 
 **Candi:** I did. My mother gave me permission. Not long after that she got a job that paid enough to live on, and immediately, she left my dad. That was kind of proof in the pudding for me.
-</quote>
+
 
 In London, Candi found herself drawn to Wages for Housework—then widely seen by most other feminists as an annoying if not dangerous fringe group—because she saw it as providing an alternative to sterile debates between liberals and separatists. Here at least was an economic analysis of the real-life problems women faced. Some at the time were beginning to speak of a “global work machine,” a planetwide wage-labor system designed to pump more and more effort out of more and more people, but what feminist critics had begun pointing out was that same system also defined what was to be considered “real” labor—the kind that could be reduced to “time” and could thus be bought and sold—and what wasn’t. Most women’s labor was placed in the latter category, despite the fact that without it, the very machine that stamped it as “not really work” would grind to a halt immediately.
 
 Wages for Housework was essentially an attempt to call capitalism’s bluff, to say, “Most work, even factory work, is done for a variety of motives; but if you want to insist that work is only valuable as a marketable commodity, then at least you can be consistent about the matter!” If women were to be compensated in the same way as men then a huge proportion of the world’s wealth would instantly have to be handed over to them; and wealth, of course, is power. What follows is from a conversation with both of them:
 
-<quote>
+
 **David:** So inside Wages for Housework, were there many debates about the policy implications—you know, the mechanisms through which the wages would actually be paid?
 
 **Candi:** Oh, no, it was much more a perspective—a way to expose the unpaid work that was being done that nobody was supposed to talk about. And for that it did a really good job. Few were talking about the work women were already doing for free in the 1960s, but it became an issue when Wages for Housework was established in the 1970s—and now it’s standard to take it into account when working out divorce settlements, for example.
@@ -3009,7 +2990,7 @@ So we certainly targeted where the money was. But we never much got into the mec
 **David:** Wait, “wage caring not killing”—whose slogan is that?
 
 **Leslie:** Global Women’s Strike. That’s the contemporary successor to Wages for Housework. When we came out with the first European UBI [Universal Basic Income] petition back in 2013, that was Global Women’s Strike’s response: two months later, they put out a petition to wage carers instead. Which myself, I wouldn’t have a problem with, if they were willing to admit that everyone is a carer in one form or another. If you’re not looking after someone else then at the very least you’re looking after yourself, and this takes time and energy the system is less and less willing to afford people. But then recognizing that would just lead back to UBI again: if everyone’s a carer, then you might as well just fund everybody, and let them decide for themselves who they want to care for at any given time.
-</quote>
+
 
 Candi had come around from Wages for Housework to UBI for similar reasons. She and some of her fellow activists started asking themselves: Say we did want to promote a real, practical program, what would that be?
 
@@ -3018,7 +2999,7 @@ Candi: The reaction we used to get on the street when we leafleted for Wages for
 
 Candi was particularly moved by the arguments of the French Socialist thinker André Gorz. When I offered my own analysis on the inherently unquantifiable nature of caring, she told me Gorz had anticipated it forty years ago:
 
-<quote>
+
 **Candi:** Gorz’s critique of Wages for Housework was that if you kept emphasizing the importance of care to the global economy in strictly financial terms, then there was the danger that you’d end up putting a dollar value on different forms of caring, and saying, that’s its real “value.” But in that case, you are running the risk of more and more of that caring becoming monetized, quantified, and therefore, kind of fucked up, because monetizing those activities often decreases the qualitative value of the care, especially if it’s done, as it is usually, as a list of specific tasks with set time limits. He was already saying that in the seventies, and now, of course, that’s exactly what’s transpired. Even in teaching, nursing.[223]
 
 **Leslie:** Let alone what I do.
@@ -3028,7 +3009,7 @@ Candi was particularly moved by the arguments of the French Socialist thinker An
 **Candi:** Yes, it’s been bullshitized, absolutely.
 
 **Leslie:** Whereas UBI … Didn’t Silvia [Federici] write or talk in an interview recently about how the UN and then all sorts of world bodies kind of glommed onto feminism as a way to resolve the capitalist crisis of the seventies? They said, sure, let’s bring women and carers into the paid workforce (most working-class women were already doing a “double day”), not to empower women~~but as a way of disciplining men. Because insofar as you see an equalization of wages since then, it’s mainly because in real terms, working-class men’s wages have gone *down*, not because women are necessarily getting that much more. They’re always trying to set us against each other. And that’s what all these mechanisms for assessing the relative value of different kinds of work are necessarily going to be about.
-</quote>
+
 
 That’s why for me, the pilot study of Basic Income carried out in India is so exciting. Well a lot of things are exciting about it—for instance, domestic violence goes way down. (This makes sense because I think some 80 percent of domestic disputes that lead to violence turn out to be about money.) But the main thing is, it starts to make social inequalities dissolve. You start by giving everyone an equal amount of money. That in itself is important, because money has a certain symbolic power: it’s something that’s the same for everyone, and when you give everyone, men, women, old, young, high caste, low caste, exactly the same amount, those differences start to dissolve. This happened in the Indian pilot where they observed that the girls were given the same amount of food as boys unlike before, disabled people were more accepted in village activities, and young women dropped the social convention that said they were supposed to be shy and modest and started hanging around in public like boys… Girls started participating in public life.[224]
 
@@ -3088,7 +3069,7 @@ This is a powerful argument for human freedom. Most of us like to talk about fre
 
 [214] The most likely at #702 is Telemarketer; the least, at #1, Recreational Therapist; Anthropologists such as myself are fairly safe at #32. See Frey and Osborne (2017)—the original, online version of the paper appeared in 2013, and received a good deal of news coverage at the time.
 
-[215] Stanislaw Lem, *Memoirs of a Space Traveler: The Further Reminiscences of Ijon Tich*y (Evanston, IL: Northwestern University Press), 1981 <verbatim>[1971]</verbatim> 19–20.
+[215] Stanislaw Lem, *Memoirs of a Space Traveler: The Further Reminiscences of Ijon Tich*y (Evanston, IL: Northwestern University Press), 1981 [1971] 19–20.
 
 [216] Lem was writing in still-Socialist Poland in the 1970s; but for what it’s worth, his satire of Stalinism is just as merciless. On another journey, Ijon Tichy finds himself in a planet governed by a vast irrigation bureaucracy that has become so caught up in their mission that they have developed the ideology that humans are naturally evolving into fish. The inhabitants are forced to practice “breathing water” for increasing numbers of hours every day.
 
@@ -3142,7 +3123,7 @@ David Graeber is a Professor of Anthropology at the London School of Economics. 
 
 ## Bibliography
 
-<biblio>
+
 Ackroyd, Stephen, and Paul Thompson. *Organizational Misbehaviour*. London: Sage, 1999.
 
 Anderson, Perry. *Passages from Antiquity to Feudalism*. London: Verso Press, 1974.
@@ -3313,7 +3294,7 @@ Ray, Benjamin C. *Myth, Ritual and Kingship in Buganda*. London: Oxford Universi
 
 Rediker, Marcus. *The Slave Ship: A Human History*. London: Penguin, 2004.
 
-Reich, Robert. <em>The Work of Nations: Preparing Ourselves for 21<sup>st</sup> Century Capitalism</em>. New York: Alfred A. Knopf, 1992.
+Reich, Robert. The Work of Nations: Preparing Ourselves for 21st Century Capitalism. New York: Alfred A. Knopf, 1992.
 
 Russell, Bertrand. *In Praise of Idleness*. London: Unwin Hyman, 1935.
 
@@ -3370,4 +3351,3 @@ White, R. “Motivation Reconsidered: The Concept of Competence.” *Psychologic
 Williams, Eric. *Capitalism and Slavery*. New York: Capricorn Books, 1966.
 
 Wood, Ellen Meiksins. *The Origins of Capitalism: A Longer View*. London: Verso, 2002.
-</biblio>

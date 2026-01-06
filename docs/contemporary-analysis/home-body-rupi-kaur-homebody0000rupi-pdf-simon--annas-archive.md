@@ -1,3 +1,8 @@
+---
+title: "home body rupi kaur"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 Digitized by the Internet Archive in 2022 with funding from Kahle/Austin Foundation
@@ -130,7 +135,7 @@ i'm breathing aren't i that's gotta be a sign that the universe is on my side if
 
 most of my life has been spent with the two of us touching skin to skin our nights together and sometimes our days you carried me when my limbs refused to when i was so sick 1 could not move not once did you tire of my weight not once did you complain you've witnessed all my dreams my sex my writing my weeping every vulnerable act of my life has been with you the two of us knee-deep in laughter and when i've been a fool to trust a fool made love on top of you left for days only to return empty-handed you always took me back when sleep abandoned me we lay awake together you are the embrace of my life my confessional my altar 1 went from girl to woman on top of you and in the end it will be you—old friend delivering me to death well rested
 
-<sup>-</sup> there is no place more intimate than a bed you didn't lose it happiness has always been here
+- there is no place more intimate than a bed you didn't lose it happiness has always been here
 
 - you just lost perspective
 
@@ -188,7 +193,7 @@ if someone doesn't have a heart you can't go around offering them yours
 
 each time i showed you a piece of heaven it was a warning every stroll we took through the garden of my life all the flowers that bloomed for you the peacocks that sang your name were a sign yet after seeing all my magic you hit your head and lost it went and scattered yourself across this town thinking if you were lucky enough to taste me you'd get your hands on something better everything dulled in comparison now you're back body spilling all over my floor begging me to crush you with my thighs pull you into my hips transcend you to heaven with my pussy i had you on the greatest trip of your life i had you seeing visions each time i showed you a piece of heaven every stroll we took through the garden of my life all the flowers that bloomed for you the peacocks that sang your name were a sign of all you'd lose if you betrayed me
 
-## <sup>-</sup> consequences P
+## - consequences P
 
 if you're waiting for them to make you feel like you're enough you'll be waiting a long time
 
@@ -319,7 +324,7 @@ climbed into his truck
 finished the delivery
 and spent three days driving back home why would you put yourself through that i ask he shrugs his shoulders and tells me my boss wouldn't get me a flight home where would i leave my truck i couldn't drive back with a trailer full of undelivered car parts and risk losing my job while listening to him all i can think is that no one should have to work to the bone like that it breaks me into pieces to hear about every person who grinds for less than what they're worth how do we sleep at night knowing the systems we uphold treat the foundations of our society as second-class citizens when they are the reason the wheels of this world stay turning
 
-## Peed ek- <dd> €eedr
+## Peed ek-  €eedr
 
 ## ee a ce<ih Jib i want to give my dad a lifetime of peace for the lifetime he spent on the road to feed us i want him to know what comfort feels like i want him to see he's done enough
 

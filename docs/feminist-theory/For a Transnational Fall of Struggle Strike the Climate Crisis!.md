@@ -1,3 +1,8 @@
+---
+title: "## **For a Transnational Fall of Struggle: Strike the Climate Crisis!**"
+category: "feminist-theory"
+---
+
 ## **For a Transnational Fall of Struggle: Strike the Climate Crisis!**
 
 ## **Date:** Thu, 09/01/2022 - 01:00

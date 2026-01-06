@@ -1,3 +1,8 @@
+---
+title: "## **Wobblies Continue Lawsuits Against Texas Prison Authorities, Despite Retaliation**"
+category: "labor"
+---
+
 ## **Wobblies Continue Lawsuits Against Texas Prison Authorities, Despite Retaliation**
 
 ## **Date:** Unknown
@@ -44,7 +49,8 @@ Both lawsuits are in the same jurisdiction.
 
 Comrade Z requests that any letters of support be sent to his parole attorney at[email protected]. Relief donations for Comrade Z can be coordinated through Matt Brodnax at[email protected].
 
-| Interested in learning more?Follow the latest news from the Incarcerated Workers Organizing<br>Committee here. |
+| Interested in learning more?Follow the latest news from the Incarcerated Workers Organizing
+Committee here. |
 |----------------------------------------------------------------------------------------------------------------|
 | |
 | |

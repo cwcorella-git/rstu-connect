@@ -1,3 +1,8 @@
+---
+title: "## [time.com](https://time.com/6199353/air-conditioning-will-not-save-us/)"
+category: "technology-digital-justice"
+---
+
 ## [time.com](https://time.com/6199353/air-conditioning-will-not-save-us/)
 
 ## Air Conditioning Will Not Save Us

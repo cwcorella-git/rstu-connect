@@ -1,13 +1,8 @@
 ---
-title: The Unique and Its Property
-date: 2025
-author: 'Max Stirner, Wolfi Landstreicher'
-tags:
-  - organizing
-  - strikes
-  - unions
-  - rent
-  - police
+title: "The Unique and Its Property"
+author: "Max Stirner, Wolfi Landstreicher"
+date: "2025"
+category: "theory"
 ---
 
 # The Unique and Its Property

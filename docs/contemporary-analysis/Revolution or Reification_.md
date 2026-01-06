@@ -1,3 +1,8 @@
+---
+title: "**Revolution or Reification? A Critique of FRSO's Political Program 2024**"
+category: "contemporary-analysis"
+---
+
 ## **08**
 
 # **Revolution or Reification? A Critique of FRSO's Political Program 2024**

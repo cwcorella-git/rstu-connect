@@ -1,3 +1,8 @@
+---
+title: "## **Ohio Valley Environmental Coalition Staff Joins the IWW**"
+category: "environmental-justice"
+---
+
 ## **Ohio Valley Environmental Coalition Staff Joins the IWW**
 
 ## **Date:** Tue, 03/16/2021 - 19:27

@@ -1,3 +1,8 @@
+---
+title: "Conversation Clusters: Grouping Conversation Topics through Human-Computer Dialog"
+category: "contemporary-analysis"
+---
+
 # Conversation Clusters: Grouping Conversation Topics through Human-Computer Dialog
 
 # **Tony Bergstrom and Karrie Karahalios**
@@ -50,9 +55,9 @@ Written language complements oral discourse as a means to exchange ideas [14]. T
 
 With the onset of near real-time speech recognition, researchers have explored storing days and weeks of personal transcripts generated with mobile wearable microphones that continuously record. Integrated into daily life, the microphone produced an extensive database that could be stored and searched [17]. With no specific query in mind, a cursory understanding of a transcript relies on personally skimming exact text. To date, methods such as highlighting words based on speech recognition confidence or TFIDF scores have been used to aid in exploring these transcripts [2, 16].
 
-In meeting archival systems, researchers have automated detection of visual and audio cues to summarize and index video [8, 9]. These environments are focused on reexperiencing the raw captured media to review events. Students have benefited from similar automated capture when reviewing lectures with the e Class system [5]. Other systems, such as Google's Audio Indexing<sup>1</sup>, have applied speech recognition to automatically create searchable indices for a video recording.
+In meeting archival systems, researchers have automated detection of visual and audio cues to summarize and index video [8, 9]. These environments are focused on reexperiencing the raw captured media to review events. Students have benefited from similar automated capture when reviewing lectures with the e Class system [5]. Other systems, such as Google's Audio Indexing1, have applied speech recognition to automatically create searchable indices for a video recording.
 
-Many applications try to mitigate human involvement in computational tasks such as parsing and object recognition. More recently, popular websites like del.icio.us<sup>2</sup> utilize human knowledge to tag, label, and classify the web. Smaller groups use indices within a single document or video to easily locate useful content[10]. All of these systems rely on user participation. Some, like peekaboom.org, have built games to entertain participants while capturing this information [18]. Our goal with this work is to combine the com-
+Many applications try to mitigate human involvement in computational tasks such as parsing and object recognition. More recently, popular websites like del.icio.us2 utilize human knowledge to tag, label, and classify the web. Smaller groups use indices within a single document or video to easily locate useful content[10]. All of these systems rely on user participation. Some, like peekaboom.org, have built games to entertain participants while capturing this information [18]. Our goal with this work is to combine the com-
 
 puted topics with human interpretation to provide a topic labeled image of conversation.
 
@@ -74,9 +79,9 @@ The first visualization demonstrates a clustering of current and recent topics (
 
 As the visualization occupies public conversation space, it draws attention from the participants to the up-to-date depiction of salient topics. Though there is potential for distraction, previous work indicates conversation develops naturally as speakers prioritize their attention to conversation and listeners examine the visualization when convenient [3, 6]. We further mitigate accidental distraction by using slow fading transitions and reusing visual elements in the display. If a word is being replaced in a cluster, the visualization will fade from one word to another rather than add one word and subtract another. However, clusters themselves are reused only in cases where the new topic is sufficiently close to the old (we discuss the distance metric in a later section). Emerging topics in conversation that cannot be paired appear as a new cluster. As a group moves into new topic areas,
 
-<sup>&</sup>lt;sup>1</sup>http://labs.google.com/gaudi
+&lt;sup>1http://labs.google.com/gaudi
 
-<sup>&</sup>lt;sup>2</sup>http://del.icio.us
+&lt;sup>2http://del.icio.us
 
 ## CHI 2009 ~ Computer Mediated Communication 2
 
@@ -98,7 +103,7 @@ The timeline visualization creates an abstracted view summary to aid recall by f
 
 ## Implementation
 
-Before detecting topics, we must be able to extract words from a conversation. Our initial design calls for a dedicated microphone for each speaker. We use an off the shelf copy of Dragon's Naturally Speaking<sup>3</sup> to provide a general transcript before clustering meaningful word topics.
+Before detecting topics, we must be able to extract words from a conversation. Our initial design calls for a dedicated microphone for each speaker. We use an off the shelf copy of Dragon's Naturally Speaking3 to provide a general transcript before clustering meaningful word topics.
 
 Both the clusters and timeline visualizations use a sliding window of the conversation transcript to generate topical words. A short window in the cluster visualization ensures only recent words appear. The timeline visualization window varies: a longer window shows more general trends while a smaller window captures shorter lived topics. The initial topic clusters are generated from the first utterances of a group and are prone to fluctuation while the conversation fills the first sliding window.
 
@@ -132,7 +137,7 @@ The ESA results form the basis of the topic detection that feeds our visualizati
 
 Even with groups of related words, we must combine and prune our results to avoid overwhelming participants in the shared visualization space. As seen in Figure 3, the query returns a list of Wikipedia articles with overlapping sets of supportive words and an overall score of relevance to the query. To avoid redundancy we combine topics using a weighted sum of supporting words (Figure 4). We limit inclusion in the visualization to results that are in the top
 
-<sup>3</sup>http://www.nuance.com/naturallyspeaking
+3http://www.nuance.com/naturallyspeaking
 
 
 200 red (25) white (19) blue (3)

@@ -1,13 +1,26 @@
+---
+title: "## **Going Slowly to 100% Renewables … by 2025?**"
+category: "environmental-justice"
+---
+
 ## **Going Slowly to 100% Renewables … by 2025?**
 
-| Date: Sun, 04/05/2020 - 18:41<br>Source: https://ecology.iww.org/node/3409<br>Tags: Dan Fischer, energy transition, energy democracy, solar communism, solar power, wind power,<br>renewable energy, renewable energy workers, degrowth, ecosocialism |
+| Date: Sun, 04/05/2020 - 18:41
+Source: https://ecology.iww.org/node/3409
+Tags: Dan Fischer, energy transition, energy democracy, solar communism, solar power, wind power,
+renewable energy, renewable energy workers, degrowth, ecosocialism |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | By Dan Fischer - |
 | Peace News |
 | , April 5, 2020 |
 | It has been 55 years since the social ecologist Murray Bookchin |
 | argued that |
-| "wind, water, and solar power" (hereafter, WWS) could "amply meet the needs of a<br>decentralized society" and eventually replace all fossil, nuclear, and bioenergy sources. The<br>alternative, he warned, would be a future of "radioactive wastes," "lethal air pollution," "rising<br>atmospheric temperatures," "more destructive storm patterns," and "rising sea levels." Having<br>declined to tear down its smokestacks, society has entered Bookchin's dreaded scenario and,<br>according to today's scientists, accelerates toward " |
+| "wind, water, and solar power" (hereafter, WWS) could "amply meet the needs of a
+decentralized society" and eventually replace all fossil, nuclear, and bioenergy sources. The
+alternative, he warned, would be a future of "radioactive wastes," "lethal air pollution," "rising
+atmospheric temperatures," "more destructive storm patterns," and "rising sea levels." Having
+declined to tear down its smokestacks, society has entered Bookchin's dreaded scenario and,
+according to today's scientists, accelerates toward " |
 
 doomsday
 
@@ -24,7 +37,8 @@ doomsday
 | United States |
 | and the |
 | United Kingdom |
-| are calling for zero emissions nationally by 2025, a stringent deadline that requires a very<br>rapid phase-out of fossil and |
+| are calling for zero emissions nationally by 2025, a stringent deadline that requires a very
+rapid phase-out of fossil and |
 | bioenergies |
 | and that necessarily excludes the |
 | lengthy |
@@ -37,10 +51,25 @@ doomsday
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | worldwide |
 | by 2025 |
-| . To be sure, these targets are mind-bogglingly ambitious compared to, say, Joe Biden's<br>mid-century target. But if anything, 2025 is already pushing our luck from a climate and<br>ecological perspective. |
-| Wondering about the potential for rapidly reaching 100% renewable energy, I reached out to<br>two of the most optimistic and two of the most pessimistic scholars on the technologies.<br>Based on these conversations, I offer the following suggestion. Achieving 100% WWS within<br>five to ten years, if it can be done at all, would likely require slowing down the industrialized<br>world. It would mean abandoning what Michelle Boulous Walker calls today's "culture of<br>haste" and "relentless demand to decide, respond and act." Instead of a frantic construction of<br>hydrogen-powered airplanes and concrete-intensive high-speed rail, it would mean making<br>most production local and most travel leisurely-paced. It would mean switching from full-time<br>jobs to part-time crafts and hobbies, from patenting technology to sharing it, and from GDP to<br>something like the Indigenous Environmental Network's proposed "Index for Living Well."<br>While it's common to read of "roadmaps" to WWS, we would probably get to the destination<br>sooner with maps of biking trails and bus routes. |
+| . To be sure, these targets are mind-bogglingly ambitious compared to, say, Joe Biden's
+mid-century target. But if anything, 2025 is already pushing our luck from a climate and
+ecological perspective. |
+| Wondering about the potential for rapidly reaching 100% renewable energy, I reached out to
+two of the most optimistic and two of the most pessimistic scholars on the technologies.
+Based on these conversations, I offer the following suggestion. Achieving 100% WWS within
+five to ten years, if it can be done at all, would likely require slowing down the industrialized
+world. It would mean abandoning what Michelle Boulous Walker calls today's "culture of
+haste" and "relentless demand to decide, respond and act." Instead of a frantic construction of
+hydrogen-powered airplanes and concrete-intensive high-speed rail, it would mean making
+most production local and most travel leisurely-paced. It would mean switching from full-time
+jobs to part-time crafts and hobbies, from patenting technology to sharing it, and from GDP to
+something like the Indigenous Environmental Network's proposed "Index for Living Well."
+While it's common to read of "roadmaps" to WWS, we would probably get to the destination
+sooner with maps of biking trails and bus routes. |
 | The Solar Optimists |
-| Probably the most well-known roadmap author is Stanford University's engineer Mark<br>Jacobson. I asked Jacobson when is the soonest he thinks 100% can be reached within the<br>United States. "Ideally 2040 to 2045," he told me. "Here's how." He sent me |
+| Probably the most well-known roadmap author is Stanford University's engineer Mark
+Jacobson. I asked Jacobson when is the soonest he thinks 100% can be reached within the
+United States. "Ideally 2040 to 2045," he told me. "Here's how." He sent me |
 | his article |
 ## | published in December in |
 
@@ -117,11 +146,16 @@ Fortunately, evidence suggests that a very high quality of life can be achieved 
 | Low Tech Magazine |
 | editor Kris De Decker, "smaller TVs or lighter and slower cars, or |
 | less TV watching and car driving |
-| ." Going further, it might mean that a neighborhood shares a few televisions and cars so that<br>not every household needs one. |
-| Despite consuming only 15% of the per-person energy that the United States does, Costa<br>Rica's citizens report |
+| ." Going further, it might mean that a neighborhood shares a few televisions and cars so that
+not every household needs one. |
+| Despite consuming only 15% of the per-person energy that the United States does, Costa
+Rica's citizens report |
 | higher well-being and life expectancy |
-| . Costa Rica's energy use levels are only half of the world's average. But maybe even that's<br>too much. |
-| Based on energy sufficiency and energy efficiency measures envisioned by German<br>researchers, De Decker calculates the living standards of today's frugal First Worlder can be<br>achieved with |
+| . Costa Rica's energy use levels are only half of the world's average. But maybe even that's
+too much. |
+| Based on energy sufficiency and energy efficiency measures envisioned by German
+researchers, De Decker calculates the living standards of today's frugal First Worlder can be
+achieved with |
 | only |
 ## | 4 |
 
@@ -136,16 +170,22 @@ Fortunately, evidence suggests that a very high quality of life can be achieved 
 | 7.5% as much electricity |
 | and 7% as much motor fuel as average Americans, report having much |
 | more meaningful and satisfying |
-| lives. Their per-person energy consumption amounts to 25% of the world's average. Maybe<br>this amount would drop even further if some of the energy efficiency measures referenced by<br>De Decker were implemented. |
+| lives. Their per-person energy consumption amounts to 25% of the world's average. Maybe
+this amount would drop even further if some of the energy efficiency measures referenced by
+De Decker were implemented. |
 
 If everyone agreed to live like a frugal German, or a Costa Rican, or a Dancing Rabbit, then we wouldn't need to repower 100% of today's energy supply with renewables. We'd only need to repower 25 to 50%. The technical barriers to doing so would be far lower than powering the entirety of today's supply.
 
-| Regardless of which assumptions we accept, it seems the transition could be achieved very<br>rapidly if everyone agreed to live like the solar pessimists are prescribing. By Mark Jacobson's<br>timeline, WWS can power |
+| Regardless of which assumptions we accept, it seems the transition could be achieved very
+rapidly if everyone agreed to live like the solar pessimists are prescribing. By Mark Jacobson's
+timeline, WWS can power |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 40% of the world's current energy supply by 2025 |
-| . And recall that Jacobson wrote that even faster growth of renewable energy would be<br>"technically and economically feasible |
+| . And recall that Jacobson wrote that even faster growth of renewable energy would be
+"technically and economically feasible |
 | ." |
-| Even if the solar pessimists are right, and we accept Clack's assumptions, then WWS in the<br>United States would nonetheless be able to power |
+| Even if the solar pessimists are right, and we accept Clack's assumptions, then WWS in the
+United States would nonetheless be able to power |
 | some |
 | 29 |
 | 0 |
@@ -194,11 +234,20 @@ What Should We Demand?
 | People's Agreement of Cochabamba |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ." |
-| [1] According to Trainer, we in industrialized societies work about three times too much, "and<br>the rest can be converted into enjoyable activity." This claim, which accounts for the fact that a<br>Simpler Way society would give up some labor-saving technologies for the sake of<br>sustainability, is actually fairly conservative compared to, say, Ken Smith's 1988 research<br>showing that |
+| [1] According to Trainer, we in industrialized societies work about three times too much, "and
+the rest can be converted into enjoyable activity." This claim, which accounts for the fact that a
+Simpler Way society would give up some labor-saving technologies for the sake of
+sustainability, is actually fairly conservative compared to, say, Ken Smith's 1988 research
+showing that |
 | only a tenth |
-| of the United Kingdom's labor was necessary to provide food, clothing, shelter, medicine,<br>education, and entertainment. Earlier in 1947, Paul and Percival Goodman estimated that a<br>tenth of America's labor was sufficient to locally produce basic needs, and by 1960 Paul<br>revised the figure down to |
+| of the United Kingdom's labor was necessary to provide food, clothing, shelter, medicine,
+education, and entertainment. Earlier in 1947, Paul and Percival Goodman estimated that a
+tenth of America's labor was sufficient to locally produce basic needs, and by 1960 Paul
+revised the figure down to |
 | a twentieth |
-| . Most recently, David Graeber has pointed out, based on survey and polling data, that<br>workers themselves consider the majority of their labor to be "bullsh*t," and that,<br>consequently, "we could probably get the |
+| . Most recently, David Graeber has pointed out, based on survey and polling data, that
+workers themselves consider the majority of their labor to be "bullsh*t," and that,
+consequently, "we could probably get the |
 | real |
 | workweek down to fifteen hours— |
 | or even twelve |

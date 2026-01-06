@@ -1,3 +1,8 @@
+---
+title: "## **Revisiting Sex and Class**"
+category: "contemporary-analysis"
+---
+
 ## **Revisiting Sex and Class**
 
 ## **Date:** Unknown

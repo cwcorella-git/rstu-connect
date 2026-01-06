@@ -1,3 +1,8 @@
+---
+title: "**Bayard Rustin**"
+category: "labor"
+---
+
 ## ![](_page_0_Picture_2.jpeg)
 
 # **Bayard Rustin**
@@ -50,11 +55,23 @@ Rustin was a member of the executive committee of the Writers and Artists for Pe
 
 Rustin was born in 1912 in [West Chester, Pennsylvania,](https://en.wikipedia.org/wiki/West_Chester,_Pennsylvania) to Florence Rustin and Archie Hopkins, who were unmarried. As Florence was a single mother, Rustin was raised by his maternal grandparents, Julia (Davis) and Janifer Rustin, wealthy local caterers, as the ninth of their twelve children; growing up he believed his biological mother was his older sister[.\[9\]](#page-16-8)[\[10\]](#page-16-9)[\[11\]](#page-17-0) Julia Rustin was a [Quaker,](https://en.wikipedia.org/wiki/Religious_Society_of_Friends) although she attended her husband's [African](https://en.wikipedia.org/wiki/African_Methodist_Episcopal_Church) [Methodist Episcopal Church.](https://en.wikipedia.org/wiki/African_Methodist_Episcopal_Church) She was also a member of the [National Association for the Advancement of Colored](https://en.wikipedia.org/wiki/National_Association_for_the_Advancement_of_Colored_People)
 
-| | A. Philip Randolph<br>Institute (President)<br>Committee on the<br>Present Danger<br>Omega Psi Phi |
+| | A. Philip Randolph
+Institute (President)
+Committee on the
+Present Danger
+Omega Psi Phi |
 |------------|-------------------------------------------------------------------------------------------------------|
-| Movement | Civil Rights Movement,<br>Peace Movement,<br>Socialism, Gay<br>Rights<br>Movement,<br>Neoconservatism |
-| Partner(s) | Davis Platt (1940s)<br>Walter Naegle (1977–<br>1987; Rustin's death) |
-## | Awards | Presidential Medal of<br>Freedom |
+| Movement | Civil Rights Movement,
+Peace Movement,
+Socialism, Gay
+Rights
+Movement,
+Neoconservatism |
+| Partner(s) | Davis Platt (1940s)
+Walter Naegle (1977–
+1987; Rustin's death) |
+## | Awards | Presidential Medal of
+Freedom |
 
 [People](https://en.wikipedia.org/wiki/National_Association_for_the_Advancement_of_Colored_People) (NAACP). NAACP leaders such as [W. E. B. Du Bois](https://en.wikipedia.org/wiki/W._E._B._Du_Bois) and [James Weldon Johnson](https://en.wikipedia.org/wiki/James_Weldon_Johnson) were frequent guests in the Rustin home. With these influences in his early life, in his youth Rustin campaigned against racially discriminatory [Jim Crow laws.](https://en.wikipedia.org/wiki/Jim_Crow_laws)[\[12\]](#page-17-1)
 

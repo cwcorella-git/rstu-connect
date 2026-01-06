@@ -1,3 +1,8 @@
+---
+title: "## **Class War #57 1992**"
+category: "anti-war-peace"
+---
+
 ## **Class War #57 1992**
 
 ## **Date:** Unknown

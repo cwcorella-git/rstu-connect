@@ -1,3 +1,8 @@
+---
+title: "**Black Rose Anarchist Federation**"
+category: "contemporary-analysis"
+---
+
 # **Black Rose Anarchist Federation**
 
 # **Role of the Revolutionary Organization**

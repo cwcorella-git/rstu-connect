@@ -1,14 +1,10 @@
 ---
-title: Ecology And Revolutionary Thought Audiobook Murray Bookchin
-slug: Ecology and Revolutionary Thought Audiobook - Murray Bookchin
-reconversion_status: ready_for_reconversion
-author: Murray Bookchin
-date: 2006
-tags:
-  - theory
-  - anarchism
-  - rent
+title: "Ecology And Revolutionary Thought Audiobook Murray Bookchin"
+author: "Murray Bookchin"
+date: "2006"
+category: "theory"
 ---
+
 ## **Ecology and Revolutionary Thought Audiobook - Murray Bookchin**
 
 ## **Date:** Unknown
@@ -41,7 +37,8 @@ In part 2, Bookchin discusses how the increased centralization of society has le
 | Podcast |
 | Link https://www.podbean.com/eu/pb-5a7fg-b27541|
 | Part 3 |
-| In part 3, Bookchin discusses how classical libertarian principles can be combined with<br>ecological thought in order to address the crises inherent to late-stage capitalism. |
+| In part 3, Bookchin discusses how classical libertarian principles can be combined with
+ecological thought in order to address the crises inherent to late-stage capitalism. |
 | Youtube |
 | Link https://youtu.be/DQ7bp XuadVY|
 | Podcast |

@@ -1,20 +1,10 @@
 ---
-title: >-
-  Helge Döhring With Dc Anarcho Syndicalism Under And Against The Nazis An
-  Intervi
-slug: >-
-  Helge Döhring with DC Anarcho-Syndicalism Under and Against the Nazis, an
-  Interview
-reconversion_status: ready_for_reconversion
-date: 2013
-author: Rudolf Rocker
-tags:
-  - labor
-  - strikes
-  - unions
-  - rent
-  - police
+title: ">-"
+author: "Rudolf Rocker"
+date: "2013"
+category: "labor"
 ---
+
 ## **Helge Döhring with DC: Anarcho-Syndicalism Under and Against the Nazis, an Interview**
 
 ## **Date:** Unknown

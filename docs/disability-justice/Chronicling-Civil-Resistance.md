@@ -1,3 +1,8 @@
+---
+title: "CHRONICLING CIVIL RESISTANCE"
+category: "disability-justice"
+---
+
 ## ![](_page_0_Figure_0.jpeg)
 
 ## ![](_page_1_Picture_0.jpeg)
@@ -32,7 +37,8 @@ AND REPORTING NONVIOLENT STRUGGLES
 
 ## 1 Introduction
 
-| 4 | Defining Civil Resistance:<br>What It Is and Is Not |
+| 4 | Defining Civil Resistance:
+What It Is and Is Not |
 |----|----------------------------------------------------------|
 | 7 | The Logic of Civil Resistance |
 | 9 | Dive Deeper: What Lies Beneath |
@@ -41,8 +47,10 @@ AND REPORTING NONVIOLENT STRUGGLES
 | 18 | Critique of Sample News Articles |
 | 20 | Examples of Civil Resistance Coverage |
 | 23 | A Glossary of Civil Resistance Terms |
-| 28 | Clarifying Some Key Civil<br>Resistance Terms |
-| 31 | Recommended Reading and<br>Resources on Civil Resistance |
+| 28 | Clarifying Some Key Civil
+Resistance Terms |
+| 31 | Recommended Reading and
+Resources on Civil Resistance |
 ## | 34 | Endnotes / Photo Credits |
 
 ## ![](_page_6_Picture_0.jpeg)
@@ -99,7 +107,7 @@ VIOLENCE IS COMMONLY assumed to be the strongest force by which a population can
 
 Underscoring this break with conventional wisdom, a groundbreaking and comprehensive assessment of 565 nonviolent and violent campaigns between 1900 and 2019 from around the world found that nonviolent campaigns had more than twice the success rate of armed insurrections, even against militarized authoritarian regimes. As noted by Harvard University's Erica Chenoweth:
 
-Contrary to popular belief, it is not the case that nonviolent campaigns emerge or win out mainly when the regimes they confront are politically weak, incompetent, or unwilling to employ mass violence. Once a mass movement arises and unsettles the status quo, most regimes confront unarmed protesters with brute force, only to see even larger numbers of demonstrators turn out to protest the brutality.<sup>3</sup>
+Contrary to popular belief, it is not the case that nonviolent campaigns emerge or win out mainly when the regimes they confront are politically weak, incompetent, or unwilling to employ mass violence. Once a mass movement arises and unsettles the status quo, most regimes confront unarmed protesters with brute force, only to see even larger numbers of demonstrators turn out to protest the brutality.3
 
 As recognition of its potency grows—from Sudan to India and Belarus to Hong Kong—civil resistance has become the strategy of choice for populations who understand that their strongest option is to fight through nonviolent means. Protests in these and many other places are the most visible surface of what is going on, but journalists should also take note of the organizing and coalition building that undergirds these mobilizations, as well as less conspicuous or photogenic acts of omission, which can force concessions by powerholders who are often ill-equipped to handle the collective withdrawal of obedience.
 
@@ -123,7 +131,7 @@ For example, the dramatic nonviolent occupation of Tahrir Square in Cairo, as we
 
 of the public mobilization and broader pro-democracy movement were deliberately planned and the outgrowth of years of experience and skill-building among activists. Egyptian activists had staged a litany of civil resistance campaigns long before they took to the streets in such numbers. These earlier organizing efforts included the *Kefaya* ["Enough"] campaign that began in 2003, mobilizing against corruption, and the April 6 movement that began in 2008. Furthermore, activists had prepared for the demonstration against President Hosni Mubarak's government by studying civil resistance literature, sharing knowledge with activists in Tunisia — progenitors of the Arab Spring — and learning from others, such as former members of the Serbian *Otpor* ("Resistance") movement that toppled Serbian President Slobodan Milosevic in 2000. Egyptian activists even developed their own detailed organizing plan to build a mass demonstration in Tahrir Square and overcome the regime's extensive use of riot police.
 
-Many were drawn to the demonstration by social media or word-of-mouth, but it was not mere happenstance, impulse, or raw anger that filled Tahrir Square. Journalists were generally good about reporting the backstory of the long-term abuses, constraints, corruption, and injustices behind the uprising, but few seemed to know about the organizers' commitment to and preparation for nonviolent conflict. As civil resistance expert Hardy Merriman has emphasized, protests and other actions such as we saw in Egypt are not just the work of activism but also the work of specific activists and planning. If such activists can be identified by journalists, assuming they are willing to speak publicly, they can provide deep insight into how the organizing happened and what may come next.<sup>4</sup>
+Many were drawn to the demonstration by social media or word-of-mouth, but it was not mere happenstance, impulse, or raw anger that filled Tahrir Square. Journalists were generally good about reporting the backstory of the long-term abuses, constraints, corruption, and injustices behind the uprising, but few seemed to know about the organizers' commitment to and preparation for nonviolent conflict. As civil resistance expert Hardy Merriman has emphasized, protests and other actions such as we saw in Egypt are not just the work of activism but also the work of specific activists and planning. If such activists can be identified by journalists, assuming they are willing to speak publicly, they can provide deep insight into how the organizing happened and what may come next.4
 
 # WHEN THINGS GO AWRY
 
@@ -241,17 +249,57 @@ Poor movement reporting situates the movement solely against the existing power 
 
 | EXCELLENT | AVERAGE | POOR |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| https://www.nytimes.<br>com/2020/07/19/us/port<br>land-protests.html | | https://www.cnn.<br>com/2020/09/27/us/port<br>land-protests-proud-boys<br>antifa-blm/index.html |
-| https://www.vox.com/<br>energy-and-environ<br>ment/2019/4/24/18511491/<br>climate-change-pro<br>tests-london-extinction-re<br>bellion | https://www.theguard<br>ian.com/environ<br>ment/2019/apr/23/<br>labour-extinction-rebel<br>lion-climate-change | https://www.reuters.com/<br>article/us-britain-pro<br>tests-climate-change/<br>climate-change-protesters<br>target-london-stock-ex<br>change-and-canary-wharf<br>idUSKCN1S10J5 |
-| | | https://www.theguardian.<br>com/world/2019/feb/25/<br>algerian-rally-against-pres<br>ident-abdelaziz-bouteika<br>plan-seek-fth-term |
-| https://www.washing<br>tonpost.com/news/mon<br>key-cage/wp/2018/04/30/<br>armenian-protesters<br>brought-down-a-prime-min<br>ister-heres-why-theyre-in<br>the-streets | https://www.<br>bbc.com/news/<br>world-europe-43948181 | https://www.egypttoday.<br>com/Article/1/49160/<br>Protesters-block-roads<br>across-Armenia-in-stand<br>o-with-authorities |
-| https://www.nytimes.<br>com/2016/11/29/us/veter<br>ans-to-serve-as-human<br>shields-for-pipeline-protest<br>ers.html | | |
+| https://www.nytimes.
+com/2020/07/19/us/port
+land-protests.html | | https://www.cnn.
+com/2020/09/27/us/port
+land-protests-proud-boys
+antifa-blm/index.html |
+| https://www.vox.com/
+energy-and-environ
+ment/2019/4/24/18511491/
+climate-change-pro
+tests-london-extinction-re
+bellion | https://www.theguard
+ian.com/environ
+ment/2019/apr/23/
+labour-extinction-rebel
+lion-climate-change | https://www.reuters.com/
+article/us-britain-pro
+tests-climate-change/
+climate-change-protesters
+target-london-stock-ex
+change-and-canary-wharf
+idUSKCN1S10J5 |
+| | | https://www.theguardian.
+com/world/2019/feb/25/
+algerian-rally-against-pres
+ident-abdelaziz-bouteika
+plan-seek-fth-term |
+| https://www.washing
+tonpost.com/news/mon
+key-cage/wp/2018/04/30/
+armenian-protesters
+brought-down-a-prime-min
+ister-heres-why-theyre-in
+the-streets | https://www.
+bbc.com/news/
+world-europe-43948181 | https://www.egypttoday.
+com/Article/1/49160/
+Protesters-block-roads
+across-Armenia-in-stand
+o-with-authorities |
+| https://www.nytimes.
+com/2016/11/29/us/veter
+ans-to-serve-as-human
+shields-for-pipeline-protest
+ers.html | | |
 
 ## ![](_page_28_Figure_0.jpeg)
 
 # A GLOSSARY OF CIVIL RESISTANCE TERMS
 
-THE FOLLOWING ARE TERMS commonly used in the field of civil resistance. The definitions in the following three subsections are either directly excerpted from or based upon the *Glossary of Civil Resistance:* A Resource for Study and Translation of Key Terms by Hardy Merriman and Nicola Barrach-Yousefi, which is freely available on the ICNC website as a reference for more than 150 key terms.<sup>7</sup>
+THE FOLLOWING ARE TERMS commonly used in the field of civil resistance. The definitions in the following three subsections are either directly excerpted from or based upon the *Glossary of Civil Resistance:* A Resource for Study and Translation of Key Terms by Hardy Merriman and Nicola Barrach-Yousefi, which is freely available on the ICNC website as a reference for more than 150 key terms.7
 
 **Backfire**: The concept that a smaller, weaker person can successfully defend against a bigger, stronger assailant by using proper technique and leverage to defeat the opponent (such as using the opponent's weight against him). Although scholar Gene Sharp referred to this phenomenon as "political jiu-jitsu," backfire is the more commonly used term in the field of civil resistance, as popularized by the work of Brian Martin, who developed a five-step process by which movements can cause repression to backfire.
 

@@ -1,3 +1,8 @@
+---
+title: "**Mondragon Corporation**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Mondragon_Corporation)
 
 # **Mondragon Corporation**
@@ -14,12 +19,15 @@ This article needs to be **updated**. The reason given is: The numbers are obsol
 
 | Headquarters | Mondragón |
 |------------------------|--------------------------------------------------|
-| | ,<br>Basque Country, Spain |
+| | ,
+Basque Country, Spain |
 | Area served | International |
-| Key people | Iñigo Ucín (president of the General<br>Council) |
+| Key people | Iñigo Ucín (president of the General
+Council) |
 | Revenue | €12.110 billion (2015)[1] |
 | Total assets | €24.725 billion (2014)[2] |
-| Number of<br>employees | Over 70,000 (2024)[3] |
+| Number of
+employees | Over 70,000 (2024)[3] |
 | Divisions | Finance, Industry, Retail, Knowledge |
 ## | Website | mondragon-corporation.com |
 

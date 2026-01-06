@@ -1,3 +1,8 @@
+---
+title: "## **'An injury to one is an injury to all'**"
+category: "contemporary-analysis"
+---
+
 ## **'An injury to one is an injury to all'**
 
 ## **Date:** Mon, 12/19/2016 - 14:23

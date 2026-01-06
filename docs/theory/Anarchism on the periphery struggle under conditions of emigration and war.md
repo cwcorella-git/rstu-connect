@@ -1,16 +1,10 @@
 ---
-title: Anarchism On The Periphery Struggle Under Conditions Of Emigration And War
-author: Alexander Herzen
-slug: Anarchism on the periphery struggle under conditions of emigration and war
-reconversion_status: ready_for_reconversion
-date: 2020
-tags:
-  - theory
-  - anarchism
-  - housing
-  - rent
-  - prisons
+title: "Anarchism On The Periphery Struggle Under Conditions Of Emigration And War"
+author: "Alexander Herzen"
+date: "2020"
+category: "theory"
 ---
+
 ## **Anarchism on the periphery: struggle under conditions of emigration and war**
 
 ## **Date:** Unknown

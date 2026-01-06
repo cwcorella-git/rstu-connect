@@ -1,15 +1,8 @@
 ---
-title: >-
-  Long Hours Sleepless Nights Nonprofit Workers Unionize in the Appalachian
-  Coalfi
-date: 2025
-author: Industrial Workers of the World
-tags:
-  - organizing
-  - strikes
-  - unions
-  - rent
-  - labor
+title: ">-"
+author: "Industrial Workers of the World"
+date: "2025"
+category: "labor"
 ---
 
 # Long Hours Sleepless Nights Nonprofit Workers Unionize in the Appalachian Coalfi

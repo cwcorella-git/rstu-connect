@@ -1,16 +1,26 @@
+---
+title: "## **Union Advocates for Socialist Rifle Association Workers, Volunteers and Members**"
+category: "contemporary-analysis"
+---
+
 ## **Union Advocates for Socialist Rifle Association Workers, Volunteers and Members**
 
-| Date: Fri, 03/04/2022 - 00:00<br>Source: https://ecology.iww.org/node/4884<br>Tags: Industrial Workers of the World (IWW), movements, unions, and organizations |
+| Date: Fri, 03/04/2022 - 00:00
+Source: https://ecology.iww.org/node/4884
+Tags: Industrial Workers of the World (IWW), movements, unions, and organizations |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | By Meggie Kessler - |
 | Industrial Worker |
 | , March 4, 2022 |
-| Members of the Industrial Workers of the World's Socialist Rifle Association Workers United<br>are experiencing increased productivity and better working conditions less than a year after<br>forming their union. |
+| Members of the Industrial Workers of the World's Socialist Rifle Association Workers United
+are experiencing increased productivity and better working conditions less than a year after
+forming their union. |
 | Since workers at the Socialist Rifle Association organized as |
 | the Socialist Rifle Association Workers United |
 | with |
 | the IWW |
-| , they are seeing positive results from a union contract — also known as a "Collective<br>Bargaining Agreement" — that has provided them with more rights and better representation. |
+| , they are seeing positive results from a union contract — also known as a "Collective
+Bargaining Agreement" — that has provided them with more rights and better representation. |
 
 "We're guaranteed a seat at the table within the assembly to give our side of the issue, and that's definitely a win for us," says Lucas Hubbard, the Socialist Rifle Association's communications director. "Without a union, we don't get that right."
 

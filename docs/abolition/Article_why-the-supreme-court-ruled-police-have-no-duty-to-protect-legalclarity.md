@@ -1,10 +1,8 @@
 ---
-title: Why the Supreme Court Ruled Police Have No Duty To Protect Legalclarity
-date: 2025
-author: Unknown
-tags:
-  - organizing
-  - police
+title: "Why the Supreme Court Ruled Police Have No Duty To Protect Legalclarity"
+author: "Unknown"
+date: "2025"
+category: "abolition"
 ---
 
 # Why the Supreme Court Ruled Police Have No Duty To Protect Legalclarity

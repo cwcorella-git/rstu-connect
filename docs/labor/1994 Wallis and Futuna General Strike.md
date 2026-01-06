@@ -1,3 +1,8 @@
+---
+title: "## **1994: Wallis and Futuna General Strike**"
+category: "labor"
+---
+
 ## **1994: Wallis and Futuna General Strike**
 
 **Date:** Unknown

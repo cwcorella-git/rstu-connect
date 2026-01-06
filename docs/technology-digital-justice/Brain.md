@@ -1,3 +1,8 @@
+---
+title: "**Brain**"
+category: "technology-digital-justice"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 # **Brain**
@@ -12,21 +17,27 @@ In [humans](https://en.wikipedia.org/wiki/Human), the [cerebral cortex](https://
 
 | Details | | | | |
 |-------------|---------------------------------------|--|--|--|
-| Part<br>of | Nervous<br>system | | | |
+| Part
+of | Nervous
+system | | | |
 | Identifiers | | | | |
 | Latin | cerebrum | | | |
 | Greek | encephalon | | | |
-| MeSH | D001921<br>(https://meshb.nlm.ni| | | |
+| MeSH | D001921
+(https://meshb.nlm.ni| | | |
 | | h.gov/record/ui?ui=D001921) | | | |
-| Neuro Names | 21<br>(http://braininfo.rprc.washing| | | |
+| Neuro Names | 21
+(http://braininfo.rprc.washing| | | |
 | | ton.edu/centraldirectory.aspx?I | | | |
 | | D=21) | | | |
-| TA98 | A14.1.03.001<br>(https://ifaa.unifr.c| | | |
+| TA98 | A14.1.03.001
+(https://ifaa.unifr.c| | | |
 | | h/Public/Entry Page/TA98%20Tr | | | |
 | | ee/Entity%20TA98%20EN/14.1. | | | |
 | | 03.001%20Entity%20TA98%20 | | | |
 | | EN.htm) | | | |
-| TA2 | 5415<br>(https://ta2viewer.openan| | | |
+| TA2 | 5415
+(https://ta2viewer.openan| | | |
 | | atomy.org/?id=5415) | | | |
 
 Anatomical [terminology](https://en.wikipedia.org/wiki/Anatomical_terminology)
@@ -195,13 +206,16 @@ Most of the enlargement of the primate brain comes from a massive expansion of t
 
 ## Encephalization Quotient
 
-| Species | [64]<br>EQ |
+| Species | [64]
+EQ |
 |--------------------|-------------------|
 | Human | 7.4–7.8 |
 | Common chimpanzee | 2.2–2.5 |
 | Rhesus monkey | 2.1 |
-| Bottlenose dolphin | [65]<br>4.14 |
-| Elephant | [66]<br>1.13–2.36 |
+| Bottlenose dolphin | [65]
+4.14 |
+| Elephant | [66]
+1.13–2.36 |
 | Dog | 1.2 |
 | Horse | 0.9 |
 ## | Rat | 0.4 |
@@ -252,19 +266,19 @@ Brain electrical activity recorded from a human patient during an epileptic seiz
 
 #### Metabolism
 
-All vertebrates have a <u>blood–brain barrier</u> that allows metabolism inside the brain to operate differently from metabolism in other parts of the body. The <u>neurovascular unit</u> regulates cerebral blood flow so that activated neurons can be supplied with energy. <u>Glial cells</u> play a major role in brain metabolism by controlling the chemical composition of the fluid that surrounds neurons, including levels of ions and nutrients. [85]
+All vertebrates have a blood–brain barrier that allows metabolism inside the brain to operate differently from metabolism in other parts of the body. The neurovascular unit regulates cerebral blood flow so that activated neurons can be supplied with energy. Glial cells play a major role in brain metabolism by controlling the chemical composition of the fluid that surrounds neurons, including levels of ions and nutrients. [85]
 
-Brain tissue consumes a large amount of energy in proportion to its volume, hence large brains place severe metabolic demands on animals. The need to limit body weight in order, for example, to fly, has apparently led to selection for a reduction of brain size in some species, such as <u>bats</u>. Most of the brain's energy consumption goes into sustaining the electric charge (membrane potential) of neurons. Most vertebrate species devote between 2% and 8% of basal metabolism to the brain. In primates, however, the percentage is much higher—in humans it rises to 20–25%. The energy consumption of the brain does not vary greatly over time, but active regions of the cerebral cortex consume somewhat more energy than inactive regions; this forms the basis for the functional brain imaging methods of <u>PET</u>, fMRI, and NIRS. The brain typically gets most of its energy from oxygen-dependent metabolism of <u>glucose</u> (i.e., blood sugar), <u>[85]</u> but <u>ketones</u> provide a major alternative source, together with contributions from medium chain <u>fatty acids</u> (<u>caprylic</u> and <u>heptanoic</u> acids), <u>[90][91]</u> <u>lactate</u>, <u>[92]</u> <u>acetate</u>, and possibly amino acids.
+Brain tissue consumes a large amount of energy in proportion to its volume, hence large brains place severe metabolic demands on animals. The need to limit body weight in order, for example, to fly, has apparently led to selection for a reduction of brain size in some species, such as bats. Most of the brain's energy consumption goes into sustaining the electric charge (membrane potential) of neurons. Most vertebrate species devote between 2% and 8% of basal metabolism to the brain. In primates, however, the percentage is much higher—in humans it rises to 20–25%. The energy consumption of the brain does not vary greatly over time, but active regions of the cerebral cortex consume somewhat more energy than inactive regions; this forms the basis for the functional brain imaging methods of PET, fMRI, and NIRS. The brain typically gets most of its energy from oxygen-dependent metabolism of glucose (i.e., blood sugar), [85] but ketones provide a major alternative source, together with contributions from medium chain fatty acids (caprylic and heptanoic acids), [90][91] lactate, [92] acetate, and possibly amino acids.
 
 ### **Function**
 
-Information from the sense organs is collected in the brain. There it is used to determine what actions the organism is to take. The brain <u>processes</u> the raw data to extract information about the structure of the environment. Next it combines the processed information with information about the current needs of the animal and with memory of past circumstances. Finally, on the basis of the results, it generates motor response patterns. These signal-processing tasks require intricate interplay between a variety of functional subsystems. [95]
+Information from the sense organs is collected in the brain. There it is used to determine what actions the organism is to take. The brain processes the raw data to extract information about the structure of the environment. Next it combines the processed information with information about the current needs of the animal and with memory of past circumstances. Finally, on the basis of the results, it generates motor response patterns. These signal-processing tasks require intricate interplay between a variety of functional subsystems. [95]
 
 The function of the brain is to provide coherent control over the actions of an animal. A centralized brain allows groups of muscles to be co-activated in complex patterns; it also allows stimuli impinging on one part of the body to evoke responses in other parts, and it can prevent different parts of the body from acting at cross-purposes to each other. [95]
 
 ## ![](_page_14_Picture_4.jpeg)
 
-Model of a neural circuit in the cerebellum, as proposed by <u>James S.</u> Albus
+Model of a neural circuit in the cerebellum, as proposed by James S. Albus
 
 #### **Perception**
 
@@ -276,7 +290,7 @@ Each sensory system begins with specialized receptor cells, [8] such as photorec
 
 Diagram of signal processing in the auditory system
 
-<u>sensory</u> <u>nucleus</u> dedicated to one specific <u>sensory</u> <u>modality</u>. This primary sensory nucleus sends information to higher-order sensory areas that are dedicated to the same modality. Eventually, via a way-station in the <u>thalamus</u>, the signals are sent to the cerebral cortex, where they are processed to extract the relevant features, and integrated with signals coming from other sensory systems. [8]
+sensory nucleus dedicated to one specific sensory modality. This primary sensory nucleus sends information to higher-order sensory areas that are dedicated to the same modality. Eventually, via a way-station in the thalamus, the signals are sent to the cerebral cortex, where they are processed to extract the relevant features, and integrated with signals coming from other sensory systems. [8]
 
 #### **Motor control**
 
@@ -286,14 +300,25 @@ The brain contains several motor areas that project directly to the spinal cord.
 
 | Area | Location | Function |
 |-----------------------------|--------------|--------------------------------------------------------------------------|
-| Ventral horn | Spinal cord | [96]<br>Contains motor neurons that directly activate muscles |
-| Oculomotor nuclei | Midbrain | Contains motor neurons that directly activate the eye<br>[97]<br>muscles |
-| Cerebellum | Hindbrain | [8]<br>Calibrates precision and timing of movements |
-| Basal ganglia | Forebrain | [98]<br>Action selection on the basis of motivation |
-| Motor cortex | Frontal lobe | [99]<br>Direct cortical activation of spinal motor circuits |
-| Premotor cortex | Frontal lobe | [8]<br>Groups elementary movements into coordinated patterns |
-| Supplementary motor<br>area | Frontal lobe | [100]<br>Sequences movements into temporal patterns |
-| Prefrontal cortex | Frontal lobe | [101]<br>Planning and other executive<br>functions |
+| Ventral horn | Spinal cord | [96]
+Contains motor neurons that directly activate muscles |
+| Oculomotor nuclei | Midbrain | Contains motor neurons that directly activate the eye
+[97]
+muscles |
+| Cerebellum | Hindbrain | [8]
+Calibrates precision and timing of movements |
+| Basal ganglia | Forebrain | [98]
+Action selection on the basis of motivation |
+| Motor cortex | Frontal lobe | [99]
+Direct cortical activation of spinal motor circuits |
+| Premotor cortex | Frontal lobe | [8]
+Groups elementary movements into coordinated patterns |
+| Supplementary motor
+area | Frontal lobe | [100]
+Sequences movements into temporal patterns |
+| Prefrontal cortex | Frontal lobe | [101]
+Planning and other executive
+functions |
 
 ### **Sleep**
 
@@ -462,7 +487,7 @@ The [Fore](https://en.wikipedia.org/wiki/Fore_(people)) people of [Papua New Gui
 
 - 17. Kristan, WB Jr.; Calabrese, RL; Friesen, WO (2005). "Neuronal control of leech behavior". *Prog Neurobiol*. **76** (5): 279–327. [doi](https://en.wikipedia.org/wiki/Doi_(identifier))[:10.1016/j.pneurobio.2005.09.004 \(https://doi.org/10.10](https://doi.org/10.1016%2Fj.pneurobio.2005.09.004) [16%2Fj.pneurobio.2005.09.004\)](https://doi.org/10.1016%2Fj.pneurobio.2005.09.004). [PMID](https://en.wikipedia.org/wiki/PMID_(identifier)) [16260077 \(https://pubmed.ncbi.nlm.nih.gov/162600](https://pubmed.ncbi.nlm.nih.gov/16260077) [77\)](https://pubmed.ncbi.nlm.nih.gov/16260077). [S2CID](https://en.wikipedia.org/wiki/S2CID_(identifier)) [15773361 \(https://api.semanticscholar.org/CorpusID:15773361\).](https://api.semanticscholar.org/CorpusID:15773361)
 - 18. Barnes, RD (1987). *Invertebrate Zoology* (5th ed.). Saunders College Pub. p. 1. [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier)) [978-](https://en.wikipedia.org/wiki/Special:Book Sources/978-0-03-008914-5) [0-03-008914-5.](https://en.wikipedia.org/wiki/Special:Book Sources/978-0-03-008914-5)
-- 19. Butler, AB (2000). ["Chordate Evolution and the Origin of Craniates: An Old Brain in a New](https://doi.org/10.1002%2F1097-0185%2820000615%29261%3A3%3C111%3A%3AAID-AR6%3E3.0. CO%3B2-F) [Head" \(https://doi.org/10.1002%2F1097-0185%2820000615%29261%3A3%3C111%3A%3](https://doi.org/10.1002%2F1097-0185%2820000615%29261%3A3%3C111%3A%3AAID-AR6%3E3.0. CO%3B2-F) [AAID-AR6%3E3.0. CO%3B2-F\).](https://doi.org/10.1002%2F1097-0185%2820000615%29261%3A3%3C111%3A%3AAID-AR6%3E3.0. CO%3B2-F) *Anatomical Record*. **261** (3): 111–125. [doi:](https://en.wikipedia.org/wiki/Doi_(identifier))[10.1002/1097-](https://doi.org/10.1002%2F1097-0185%2820000615%29261%3A3%3C111%3A%3AAID-AR6%3E3.0. CO%3B2-F) [0185\(20000615\)261:3<111::AID-AR6>3.0. CO;2-F \(https://doi.org/10.1002%2F1097-0185%](https://doi.org/10.1002%2F1097-0185%2820000615%29261%3A3%3C111%3A%3AAID-AR6%3E3.0. CO%3B2-F) [2820000615%29261%3A3%3C111%3A%3AAID-AR6%3E3.0. CO%3B2-F\)](https://doi.org/10.1002%2F1097-0185%2820000615%29261%3A3%3C111%3A%3AAID-AR6%3E3.0. CO%3B2-F). [PMID](https://en.wikipedia.org/wiki/PMID_(identifier)) [10867629 \(https://pubmed.ncbi.nlm.nih.gov/10867629\).](https://pubmed.ncbi.nlm.nih.gov/10867629)
+- 19. Butler, AB (2000). ["Chordate Evolution and the Origin of Craniates: An Old Brain in a New](https://doi.org/10.1002%2F1097-0185%2820000615%29261%3A3%3C111%3A%3AAID-AR6%3E3.0. CO%3B2-F) [Head" \(https://doi.org/10.1002%2F1097-0185%2820000615%29261%3A3%3C111%3A%3](https://doi.org/10.1002%2F1097-0185%2820000615%29261%3A3%3C111%3A%3AAID-AR6%3E3.0. CO%3B2-F) [AAID-AR6%3E3.0. CO%3B2-F\).](https://doi.org/10.1002%2F1097-0185%2820000615%29261%3A3%3C111%3A%3AAID-AR6%3E3.0. CO%3B2-F) *Anatomical Record*. **261** (3): 111–125. [doi:](https://en.wikipedia.org/wiki/Doi_(identifier))[10.1002/1097-](https://doi.org/10.1002%2F1097-0185%2820000615%29261%3A3%3C111%3A%3AAID-AR6%3E3.0. CO%3B2-F) [0185\(20000615\)261:33.0. CO;2-F \(https://doi.org/10.1002%2F1097-0185%](https://doi.org/10.1002%2F1097-0185%2820000615%29261%3A3%3C111%3A%3AAID-AR6%3E3.0. CO%3B2-F) [2820000615%29261%3A3%3C111%3A%3AAID-AR6%3E3.0. CO%3B2-F\)](https://doi.org/10.1002%2F1097-0185%2820000615%29261%3A3%3C111%3A%3AAID-AR6%3E3.0. CO%3B2-F). [PMID](https://en.wikipedia.org/wiki/PMID_(identifier)) [10867629 \(https://pubmed.ncbi.nlm.nih.gov/10867629\).](https://pubmed.ncbi.nlm.nih.gov/10867629)
 - 20. Bulloch, TH; Kutch, W (1995). ["Are the main grades of brains different principally in numbers](https://books.google.com/books?id=dW5e6FHOH-4C&pg=PA439) [of connections or also in quality?" \(https://books.google.com/books?id=dW5e6FHOH-4C&p](https://books.google.com/books?id=dW5e6FHOH-4C&pg=PA439) [g=PA439\).](https://books.google.com/books?id=dW5e6FHOH-4C&pg=PA439) In Breidbach O (ed.). *The nervous systems of invertebrates: an evolutionary and comparative approach*. Birkhäuser. p. 439. [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier)) [978-3-7643-5076-5](https://en.wikipedia.org/wiki/Special:Book Sources/978-3-7643-5076-5).
 - 21. ["Flybrain: An online atlas and database of the](https://web.archive.org/web/19980109184708/http://flybrain.neurobio.arizona.edu/) *drosophila* nervous system" (https://web.archi[ve.org/web/19980109184708/http://flybrain.neurobio.arizona.edu/\)](https://web.archive.org/web/19980109184708/http://flybrain.neurobio.arizona.edu/). Archived from [the](http://flybrain.neurobio.arizona.edu/) [original \(http://flybrain.neurobio.arizona.edu\)](http://flybrain.neurobio.arizona.edu/) on 1998-01-09. Retrieved 2011-10-14.
 - 22. Konopka, RJ; Benzer, S (1971). ["Clock Mutants of Drosophila melanogaster" \(https://www.n](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC389363) [cbi.nlm.nih.gov/pmc/articles/PMC389363\)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC389363). *Proc. Natl. Acad. Sci. U. S. A*. **68** (9): 2112–2116. [Bibcode](https://en.wikipedia.org/wiki/Bibcode_(identifier)):[1971PNAS...68.2112K \(https://ui.adsabs.harvard.edu/abs/1971PNAS...68.2112K\)](https://ui.adsabs.harvard.edu/abs/1971PNAS...68.2112K). [doi:](https://en.wikipedia.org/wiki/Doi_(identifier))[10.1073/pnas.68.9.2112 \(https://doi.org/10.1073%2Fpnas.68.9.2112\).](https://doi.org/10.1073%2Fpnas.68.9.2112) [PMC](https://en.wikipedia.org/wiki/PMC_(identifier)) [389363 \(htt](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC389363) [ps://www.ncbi.nlm.nih.gov/pmc/articles/PMC389363\)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC389363). [PMID](https://en.wikipedia.org/wiki/PMID_(identifier)) [5002428 \(https://pubmed.ncbi.n](https://pubmed.ncbi.nlm.nih.gov/5002428) [lm.nih.gov/5002428\).](https://pubmed.ncbi.nlm.nih.gov/5002428)
@@ -567,7 +592,7 @@ The [Fore](https://en.wikipedia.org/wiki/Fore_(people)) people of [Papua New Gui
 - 113. Malenka, R; Bear, M (2004). ["LTP and LTD: an embarrassment of riches" \(https://doi.org/10.](https://doi.org/10.1016%2Fj.neuron.2004.09.012) [1016%2Fj.neuron.2004.09.012\).](https://doi.org/10.1016%2Fj.neuron.2004.09.012) *Neuron*. **44** (1): 5–21. [doi](https://en.wikipedia.org/wiki/Doi_(identifier)):[10.1016/j.neuron.2004.09.012 \(ht](https://doi.org/10.1016%2Fj.neuron.2004.09.012) [tps://doi.org/10.1016%2Fj.neuron.2004.09.012\)](https://doi.org/10.1016%2Fj.neuron.2004.09.012). [PMID](https://en.wikipedia.org/wiki/PMID_(identifier)) [15450156 \(https://pubmed.ncbi.nlm.n](https://pubmed.ncbi.nlm.nih.gov/15450156) [ih.gov/15450156\)](https://pubmed.ncbi.nlm.nih.gov/15450156). [S2CID](https://en.wikipedia.org/wiki/S2CID_(identifier)) [79844 \(https://api.semanticscholar.org/CorpusID:79844\)](https://api.semanticscholar.org/CorpusID:79844).
 - 114. Bos, I; De Boever, P; Int Panis, L; Meeusen, R (2004). ["Physical Activity, Air Pollution and](https://www.researchgate.net/publication/264793941) [the Brain" \(https://www.researchgate.net/publication/264793941\)](https://www.researchgate.net/publication/264793941). *Sports Medicine*. **44** (11): 1505–1518. [doi](https://en.wikipedia.org/wiki/Doi_(identifier))[:10.1007/s40279-014-0222-6 \(https://doi.org/10.1007%2Fs40279-014-0222-](https://doi.org/10.1007%2Fs40279-014-0222-6) [6\).](https://doi.org/10.1007%2Fs40279-014-0222-6) [PMID](https://en.wikipedia.org/wiki/PMID_(identifier)) [25119155 \(https://pubmed.ncbi.nlm.nih.gov/25119155\)](https://pubmed.ncbi.nlm.nih.gov/25119155). [S2CID](https://en.wikipedia.org/wiki/S2CID_(identifier)) [207493297 \(http](https://api.semanticscholar.org/CorpusID:207493297) [s://api.semanticscholar.org/CorpusID:207493297\)](https://api.semanticscholar.org/CorpusID:207493297).
 - 115. Curtis, CE; D'Esposito, M (2003). "Persistent activity in the prefrontal cortex during working memory". *Trends in Cognitive Sciences*. **7** (9): 415–423. [Cite SeerX](https://en.wikipedia.org/wiki/Cite SeerX_(identifier)) [10.1.1.457.9723 \(https://](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.457.9723) [citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.457.9723\).](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.457.9723) [doi:](https://en.wikipedia.org/wiki/Doi_(identifier))[10.1016/S1364-](https://doi.org/10.1016%2FS1364-6613%2803%2900197-9) [6613\(03\)00197-9 \(https://doi.org/10.1016%2FS1364-6613%2803%2900197-9\)](https://doi.org/10.1016%2FS1364-6613%2803%2900197-9). [PMID](https://en.wikipedia.org/wiki/PMID_(identifier)) [12963473 \(https://pubmed.ncbi.nlm.nih.gov/12963473\).](https://pubmed.ncbi.nlm.nih.gov/12963473) [S2CID](https://en.wikipedia.org/wiki/S2CID_(identifier)) [15763406 \(https://api.](https://api.semanticscholar.org/CorpusID:15763406) [semanticscholar.org/CorpusID:15763406\)](https://api.semanticscholar.org/CorpusID:15763406).
-- 116. Tulving, E; Markowitsch, HJ (1998). ["Episodic and declarative memory: role of the](https://doi.org/10.1002%2F%28SICI%291098-1063%281998%298%3A3%3C198%3A%3AAID-HIPO2%3E3.0. CO%3B2-G) [hippocampus" \(https://doi.org/10.1002%2F%28SICI%291098-1063%281998%298%3A3%3](https://doi.org/10.1002%2F%28SICI%291098-1063%281998%298%3A3%3C198%3A%3AAID-HIPO2%3E3.0. CO%3B2-G) [C198%3A%3AAID-HIPO2%3E3.0. CO%3B2-G\).](https://doi.org/10.1002%2F%28SICI%291098-1063%281998%298%3A3%3C198%3A%3AAID-HIPO2%3E3.0. CO%3B2-G) *Hippocampus*. **8** (3): 198–204. [doi:](https://en.wikipedia.org/wiki/Doi_(identifier))[10.1002/\(SICI\)1098-1063\(1998\)8:3<198::AID-HIPO2>3.0. CO;2-G \(https://doi.org/10.100](https://doi.org/10.1002%2F%28SICI%291098-1063%281998%298%3A3%3C198%3A%3AAID-HIPO2%3E3.0. CO%3B2-G) [2%2F%28SICI%291098-1063%281998%298%3A3%3C198%3A%3AAID-HIPO2%3E3.0. C](https://doi.org/10.1002%2F%28SICI%291098-1063%281998%298%3A3%3C198%3A%3AAID-HIPO2%3E3.0. CO%3B2-G) [O%3B2-G\).](https://doi.org/10.1002%2F%28SICI%291098-1063%281998%298%3A3%3C198%3A%3AAID-HIPO2%3E3.0. CO%3B2-G) [PMID](https://en.wikipedia.org/wiki/PMID_(identifier)) [9662134 \(https://pubmed.ncbi.nlm.nih.gov/9662134\).](https://pubmed.ncbi.nlm.nih.gov/9662134) [S2CID](https://en.wikipedia.org/wiki/S2CID_(identifier)) [18634842 \(h](https://api.semanticscholar.org/CorpusID:18634842) [ttps://api.semanticscholar.org/CorpusID:18634842\).](https://api.semanticscholar.org/CorpusID:18634842)
+- 116. Tulving, E; Markowitsch, HJ (1998). ["Episodic and declarative memory: role of the](https://doi.org/10.1002%2F%28SICI%291098-1063%281998%298%3A3%3C198%3A%3AAID-HIPO2%3E3.0. CO%3B2-G) [hippocampus" \(https://doi.org/10.1002%2F%28SICI%291098-1063%281998%298%3A3%3](https://doi.org/10.1002%2F%28SICI%291098-1063%281998%298%3A3%3C198%3A%3AAID-HIPO2%3E3.0. CO%3B2-G) [C198%3A%3AAID-HIPO2%3E3.0. CO%3B2-G\).](https://doi.org/10.1002%2F%28SICI%291098-1063%281998%298%3A3%3C198%3A%3AAID-HIPO2%3E3.0. CO%3B2-G) *Hippocampus*. **8** (3): 198–204. [doi:](https://en.wikipedia.org/wiki/Doi_(identifier))[10.1002/\(SICI\)1098-1063\(1998\)8:33.0. CO;2-G \(https://doi.org/10.100](https://doi.org/10.1002%2F%28SICI%291098-1063%281998%298%3A3%3C198%3A%3AAID-HIPO2%3E3.0. CO%3B2-G) [2%2F%28SICI%291098-1063%281998%298%3A3%3C198%3A%3AAID-HIPO2%3E3.0. C](https://doi.org/10.1002%2F%28SICI%291098-1063%281998%298%3A3%3C198%3A%3AAID-HIPO2%3E3.0. CO%3B2-G) [O%3B2-G\).](https://doi.org/10.1002%2F%28SICI%291098-1063%281998%298%3A3%3C198%3A%3AAID-HIPO2%3E3.0. CO%3B2-G) [PMID](https://en.wikipedia.org/wiki/PMID_(identifier)) [9662134 \(https://pubmed.ncbi.nlm.nih.gov/9662134\).](https://pubmed.ncbi.nlm.nih.gov/9662134) [S2CID](https://en.wikipedia.org/wiki/S2CID_(identifier)) [18634842 \(h](https://api.semanticscholar.org/CorpusID:18634842) [ttps://api.semanticscholar.org/CorpusID:18634842\).](https://api.semanticscholar.org/CorpusID:18634842)
 - 117. Martin, A; Chao, LL (2001). "Semantic memory and the brain: structures and processes". *Current Opinion in Neurobiology*. **11** (2): 194–201. [doi](https://en.wikipedia.org/wiki/Doi_(identifier)):[10.1016/S0959-4388\(00\)00196-3 \(htt](https://doi.org/10.1016%2FS0959-4388%2800%2900196-3) [ps://doi.org/10.1016%2FS0959-4388%2800%2900196-3\)](https://doi.org/10.1016%2FS0959-4388%2800%2900196-3). [PMID](https://en.wikipedia.org/wiki/PMID_(identifier)) [11301239 \(https://pubmed.](https://pubmed.ncbi.nlm.nih.gov/11301239) [ncbi.nlm.nih.gov/11301239\)](https://pubmed.ncbi.nlm.nih.gov/11301239). [S2CID](https://en.wikipedia.org/wiki/S2CID_(identifier)) [3700874 \(https://api.semanticscholar.org/CorpusID:370](https://api.semanticscholar.org/CorpusID:3700874) [0874\).](https://api.semanticscholar.org/CorpusID:3700874)
 - 118. Balleine, BW; Liljeholm, Mimi; Ostlund, SB (2009). "The integrative function of the basal ganglia in instrumental learning". *Behavioural Brain Research*. **199** (1): 43–52. [doi:](https://en.wikipedia.org/wiki/Doi_(identifier))[10.1016/j.bbr.2008.10.034 \(https://doi.org/10.1016%2Fj.bbr.2008.10.034\).](https://doi.org/10.1016%2Fj.bbr.2008.10.034) [PMID](https://en.wikipedia.org/wiki/PMID_(identifier)) [19027797 \(https://pubmed.ncbi.nlm.nih.gov/19027797\).](https://pubmed.ncbi.nlm.nih.gov/19027797) [S2CID](https://en.wikipedia.org/wiki/S2CID_(identifier)) [36521958 \(https://api.](https://api.semanticscholar.org/CorpusID:36521958) [semanticscholar.org/CorpusID:36521958\)](https://api.semanticscholar.org/CorpusID:36521958).
 - 119. Doya, K (2000). "Complementary roles of basal ganglia and cerebellum in learning and motor control". *Current Opinion in Neurobiology*. **10** (6): 732–739. [doi](https://en.wikipedia.org/wiki/Doi_(identifier)):[10.1016/S0959-](https://doi.org/10.1016%2FS0959-4388%2800%2900153-7) [4388\(00\)00153-7 \(https://doi.org/10.1016%2FS0959-4388%2800%2900153-7\)](https://doi.org/10.1016%2FS0959-4388%2800%2900153-7). [PMID](https://en.wikipedia.org/wiki/PMID_(identifier)) [11240282 \(https://pubmed.ncbi.nlm.nih.gov/11240282\).](https://pubmed.ncbi.nlm.nih.gov/11240282) [S2CID](https://en.wikipedia.org/wiki/S2CID_(identifier)) [10962570 \(https://api.](https://api.semanticscholar.org/CorpusID:10962570) [semanticscholar.org/CorpusID:10962570\)](https://api.semanticscholar.org/CorpusID:10962570).
@@ -613,4 +638,4 @@ The [Fore](https://en.wikipedia.org/wiki/Fore_(people)) people of [Papua New Gui
 - ["The Brain" \(https://www.bbc.co.uk/programmes/b00b54yx\)](https://www.bbc.co.uk/programmes/b00b54yx), [BBC Radio 4](https://en.wikipedia.org/wiki/BBC_Radio_4) discussion with Vivian Nutton, Jonathan Sawday & Marina Wallace (*[In Our Time](https://en.wikipedia.org/wiki/In_Our_Time_(radio_series))*, May 8, 2008)
 - [Our Quest to Understand the Brain with Matthew Cobb \(https://www.youtube.com/watch?v](https://www.youtube.com/watch?v=Nif Nfkli Cos) [=Nif Nfkli Cos\)](https://www.youtube.com/watch?v=Nif Nfkli Cos) Royal Institution lecture. Archived at [Ghostarchive \(https://ghostarchive.org/va](https://ghostarchive.org/varchive/Nif Nfkli Cos) [rchive/Nif Nfkli Cos\)](https://ghostarchive.org/varchive/Nif Nfkli Cos).
 
-Retrieved from "<https://en.wikipedia.org/w/index.php?title=Brain&oldid=1323589124>"
+Retrieved from ""

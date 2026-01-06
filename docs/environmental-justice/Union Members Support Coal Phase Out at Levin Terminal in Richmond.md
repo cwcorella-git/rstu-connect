@@ -1,3 +1,8 @@
+---
+title: "## **Union Members Support Coal Phase Out at Levin Terminal in Richmond**"
+category: "environmental-justice"
+---
+
 ## **Union Members Support Coal Phase Out at Levin Terminal in Richmond**
 
 ## **Date:** Wed, 01/29/2020 - 16:07

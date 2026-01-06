@@ -1,3 +1,8 @@
+---
+title: "## **Climate change and the summit smokescreen**"
+category: "environmental-justice"
+---
+
 ## **Climate change and the summit smokescreen**
 
 ## **Date:** Fri, 12/04/2015 - 17:16
@@ -31,8 +36,10 @@ President Barack Obama joined world leaders at the UN climate summit--officially
 | |
 | He talked to |
 | Phil Gasper |
-| about what to expect from the Paris summit and what the climate justice movement will need<br>to take up next. |
-| THE COP 21 talks are starting in Paris. What can we expect from these? Is there any chance<br>there will be a significant agreement that comes out of them? |
+| about what to expect from the Paris summit and what the climate justice movement will need
+to take up next. |
+| THE COP 21 talks are starting in Paris. What can we expect from these? Is there any chance
+there will be a significant agreement that comes out of them? |
 ## | |
 
 All of the major countries have announced targets for emissions reductions. But as many people have pointed out, first of all, even if every single one of those targets is achieved--and we know we won't be--the temperature increase will still be way over two degrees Celsius. In addition, most of the countries that have put in those submissions haven't actually made
@@ -83,10 +90,15 @@ Think of all the different variations of socialism you've heard of, and then add
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | |
 | goal |
-| a society in which capitalism no longer dominates and which places a high priority on<br>repairing the ecological damage that has been done and ensuring that we don't do any more. |
+| a society in which capitalism no longer dominates and which places a high priority on
+repairing the ecological damage that has been done and ensuring that we don't do any more. |
 | Second, it's a |
 | body of ideas |
-| . In that respect, John Bellamy Foster talks about first-stage and second-stage ecosocialism.<br>The first wave, in the 1990s, attempted to combine green political thought and Marxism. Some<br>very important analysis resulted, but also a lot that was politically incoherent, because there<br>are areas in which Marxism and traditional green political thought are not, ultimately,<br>compatible. |
+| . In that respect, John Bellamy Foster talks about first-stage and second-stage ecosocialism.
+The first wave, in the 1990s, attempted to combine green political thought and Marxism. Some
+very important analysis resulted, but also a lot that was politically incoherent, because there
+are areas in which Marxism and traditional green political thought are not, ultimately,
+compatible. |
 | The second wave really began with two books published in 1999 and 2000 Paul Burkett's |
 | Marx and Nature |
 | and John Bellamy Foster's |

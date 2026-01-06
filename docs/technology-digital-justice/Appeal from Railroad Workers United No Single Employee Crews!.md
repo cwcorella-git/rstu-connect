@@ -1,3 +1,8 @@
+---
+title: "## **Appeal from Railroad Workers United: No Single Employee Crews!**"
+category: "technology-digital-justice"
+---
+
 ## **Appeal from Railroad Workers United: No Single Employee Crews!**
 
 ## **Date:** Mon, 05/30/2016 - 08:31
@@ -38,46 +43,61 @@ We continue to agree with the joint statement from nearly 7 years ago that the B
 | To view the RWU Editorial on the Proposed Rule Click |
 ## | HERE |
 
-| To view a comprehensive article entitled "What's Wrong with Single Employee Train<br>Operations?" with 21 reasons why they are unsafe and unworkable, click |
+| To view a comprehensive article entitled "What's Wrong with Single Employee Train
+Operations?" with 21 reasons why they are unsafe and unworkable, click |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | HERE |
 | |
-| To view the most recent RWU Resolution to Oppose Single Employe Operating Crews from<br>March 2nd, 2015, see below or click |
+| To view the most recent RWU Resolution to Oppose Single Employe Operating Crews from
+March 2nd, 2015, see below or click |
 | HERE |
 | |
-| To view the original RWU Resolution on Single Employee Train crews from January 5th,<br>2010, click |
+| To view the original RWU Resolution on Single Employee Train crews from January 5th,
+2010, click |
 | HERE |
 | RWU Resolution to Oppose Single Employee Operating Crews |
 | Whereas, |
-| the major rail carriers have made it clear in their words and actions that they wish to conduct<br>operations to the extent possible, "conductor only" in RCL yard operations, and "engineer<br>only" on road trains; and |
+| the major rail carriers have made it clear in their words and actions that they wish to conduct
+operations to the extent possible, "conductor only" in RCL yard operations, and "engineer
+only" on road trains; and |
 
 | Whereas, |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| the rail carriers have long stated their intentions to operate road trains with a single employee,<br>when more than decade ago they made their intentions known to both unions of the operating<br>crafts through a "Section 6" notice addressed to the unions dated 11/1/04; and |
+| the rail carriers have long stated their intentions to operate road trains with a single employee,
+when more than decade ago they made their intentions known to both unions of the operating
+crafts through a "Section 6" notice addressed to the unions dated 11/1/04; and |
 | Whereas, |
-| in the words of a Joint Petition filed with Federal Railroad Administration (FRA) in June 2009<br>by both unions of the operating crafts, |
+| in the words of a Joint Petition filed with Federal Railroad Administration (FRA) in June 2009
+by both unions of the operating crafts, |
 | " |
 | No conditions exist where one-person operations are safe" |
 | ; |
 | and |
 | Whereas, |
-| both unions of the operating crafts support a bill before Congress known as "The Safe Freight<br>Act" (HR #3040), that would outlaw single employee train operations in the U. S.; and |
+| both unions of the operating crafts support a bill before Congress known as "The Safe Freight
+Act" (HR #3040), that would outlaw single employee train operations in the U. S.; and |
 | Whereas, |
 | the FRA itself proclaimed on 4/9/14 that |
-| "safety is enhanced with the use of a multiple person crew — safety dictates that you never<br>allow a single point of failure." |
+| "safety is enhanced with the use of a multiple person crew — safety dictates that you never
+allow a single point of failure." |
 
 | and |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Whereas, |
-| the implementation of single employee operations will invariably result in a serious degrading<br>of worker safety, security, and quality of work life; and |
+| the implementation of single employee operations will invariably result in a serious degrading
+of worker safety, security, and quality of work life; and |
 | Whereas, |
-| these unsafe working conditions referenced above would pose a danger to shippers,<br>pedestrians, motorists, trackside communities, the environment and the general public; |
+| these unsafe working conditions referenced above would pose a danger to shippers,
+pedestrians, motorists, trackside communities, the environment and the general public; |
 | Therefore, Be it Resolved, |
-| that RWU opposes any current use, and any further expansion of, single employee operations<br>anywhere in North America, in the yard or on the road; and |
+| that RWU opposes any current use, and any further expansion of, single employee operations
+anywhere in North America, in the yard or on the road; and |
 | Be in Further Resolved |
-| that RWU is committed to an ongoing continent-wide Campaign for a two employee minimum<br>on every train crew; and |
+| that RWU is committed to an ongoing continent-wide Campaign for a two employee minimum
+on every train crew; and |
 | Be it Further Resolved |
-| that RWU once again calls upon the BLET and SMART-TD to redouble their efforts and<br>launch an all-out rank-&-file campaign to put and end to the practice of single employee |
+| that RWU once again calls upon the BLET and SMART-TD to redouble their efforts and
+launch an all-out rank-&-file campaign to put and end to the practice of single employee |
 
 operations; and
 

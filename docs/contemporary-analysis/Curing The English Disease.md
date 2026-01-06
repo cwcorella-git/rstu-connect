@@ -1,3 +1,8 @@
+---
+title: "## **Curing The English Disease**"
+category: "contemporary-analysis"
+---
+
 ## **Curing The English Disease**
 
 ## **Date:** Unknown

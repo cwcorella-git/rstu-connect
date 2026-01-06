@@ -1,14 +1,8 @@
 ---
-title: >-
-  Reuse Recycle Unionize Urban Ore Workers Win Union Election Get Ready To
-  Negotia
-date: 2025
-author: Industrial Workers of the World
-tags:
-  - organizing
-  - unions
-  - rent
-  - labor
+title: ">-"
+author: "Industrial Workers of the World"
+date: "2025"
+category: "labor"
 ---
 
 # Reuse Recycle Unionize Urban Ore Workers Win Union Election Get Ready To Negotia

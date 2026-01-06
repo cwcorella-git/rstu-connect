@@ -1,3 +1,8 @@
+---
+title: "## **Railroad Workers United calls for Just Transition**"
+category: "feminist-theory"
+---
+
 ## **Railroad Workers United calls for Just Transition**
 
 | Date: Mon, 04/04/2016 - 16:12 |
@@ -9,11 +14,14 @@
 | , April 1, 2016 |
 | Whereas |
 | , |
-| the continued extraction and combustion of fossil fuels such as coal and oil has been<br>scientifically proven to represent a threat to the environment and the future of the planet; and |
+| the continued extraction and combustion of fossil fuels such as coal and oil has been
+scientifically proven to represent a threat to the environment and the future of the planet; and |
 | Whereas |
-| , there is a mass movement domestically and globally to radically reduce the continued use of<br>such fuels to power economic development; and |
+| , there is a mass movement domestically and globally to radically reduce the continued use of
+such fuels to power economic development; and |
 | Whereas |
-| , other alternative energy sources – wind, solar, geothermal, hydroelectric–are developing<br>rapidly and appear to be the wave of the future; and |
+| , other alternative energy sources – wind, solar, geothermal, hydroelectric–are developing
+rapidly and appear to be the wave of the future; and |
 
 ## Whereas
 

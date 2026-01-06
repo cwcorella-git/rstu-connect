@@ -1,3 +1,8 @@
+---
+title: "**Episode 45: The Nature Of Wisdom/**"
+category: "contemporary-analysis"
+---
+
 # **Episode 45: The Nature Of Wisdom/**
 
 #### **Source:**

@@ -1,3 +1,8 @@
+---
+title: "SELF-RESTRAINT SELF-INDULGENCE"
+category: "technology-digital-justice"
+---
+
 # SELF-RESTRAINT SELF-INDULGENCE
 
 ## M. K. GANDHI
@@ -69,7 +74,7 @@ You will eat not to satisfy your palate but your hunger. A selfindulgent man liv
 - 6. When your passions threaten to get the better of you, go down on your knees and cry out to God for help. Ramanama is my infallible help. As extraneous aid take a hip-bath, i.e., sit in a tub full of cold water with your legs out of it, and you will find your passions have immediately cooled. Sit in it for a few minutes unless you are weak and there is danger of a chill.
 - 7. Take brisk walking exercise in the open air early in the morning and at night before going to bed.
 
-- 8. 'Early to bed and early to rise, makes a man healthy, wealthy and wise,' is <sup>a</sup> sound proverb. <sup>9</sup> <sup>o</sup>'clock to bed and 4 o'clock to rise is a good rule. Go to bed on an empty stomach. Therefore, your last meal must not be after 6 p.m.
+- 8. 'Early to bed and early to rise, makes a man healthy, wealthy and wise,' is a sound proverb. 9 o'clock to bed and 4 o'clock to rise is a good rule. Go to bed on an empty stomach. Therefore, your last meal must not be after 6 p.m.
 - 9. Remember that man is a representative of God to serve all that lives and thus to express God's dignity and love. Let service be your sole joy, and you will need no other enjoyment in life.
 
 ## M. K. G
@@ -434,7 +439,7 @@ I urge the advocates of artificial methods to consider the consequences. Any lar
 
 ## But says another correspondent:
 
-"With respect to your article on birth control in <sup>a</sup> recent issue, may <sup>I</sup> respectfully point out that you start by begging the whole question when you assert that artificial methods are injurious? In the Contraceptive Section of the last International Birth Control Conference (London, 1922) attended by members of the medical profession only, the following resolution was passed with 3 dissentients out of 184 present: 'That this meeting of the medical members of the fifth International Birth Control Conference wishes to point out that birth control by hygienic contraceptive devices is absolutely distinct from abortion in its physiological, legal and moral aspects. It further records its opinion, that there is no evidence that the best contraceptive methods are injurious to health or conducive to sterility.'
+"With respect to your article on birth control in a recent issue, may I respectfully point out that you start by begging the whole question when you assert that artificial methods are injurious? In the Contraceptive Section of the last International Birth Control Conference (London, 1922) attended by members of the medical profession only, the following resolution was passed with 3 dissentients out of 184 present: 'That this meeting of the medical members of the fifth International Birth Control Conference wishes to point out that birth control by hygienic contraceptive devices is absolutely distinct from abortion in its physiological, legal and moral aspects. It further records its opinion, that there is no evidence that the best contraceptive methods are injurious to health or conducive to sterility.'
 
 "Now it seems to me that the opinion of such a large body of medical men and women including some of the most eminent names in the profession can hardly be set aside with a stroke of the pen. You say: 'Adoption of artificial methods must lead to imbecility and nervous prostration.' Why 'must'? I venture to submit that modern scientific methods do not lead to anything of the kind, through the use of harmful methods through ignorance may. This is only one more argument why proper methods should be taught to all who are likely to need them, i.e., to all adults capable of reproduction. You blame these methods for being artificial, and still want medical men to find out 'means of self-control'. I do not quite understand what you mean, but as you refer to medical men, would not any 'means of self-control' devised by them be equally artificial? You say: 'Union is meant not for pleasure, but for bringing forth progeny'. Meant by whom? By God? In that case, what did he create the sexual instinct for? You further say: 'Nature is relentless and will have full revenge for any such violation of her laws.' But nature at any rate is not a person as God is supposed to be, and does not issue orders to anybody. It is not possible to violate Nature's laws. The consequences of actions are inevitable in Nature. Good and bad are words that we apply to them. The people who use artificial methods do take the consequences of them acts like those who don't. Your argument, therefore, does not mean anything unless you can prove that artificial methods are injurious. I assert from observation and experiment that they are not, provided proper methods are used. Actions must be judged moral or immoral according to their results and not by a priori assumptions as to their morality.
 
@@ -486,7 +491,7 @@ When so strict is the law of *Brahmacharya* what shall we say of those guilty of
 
 In concluding this chapter which has grown longer than I expected, let me briefly point out how married people can observe Brahmacharya. It is not enough to observe the laws of health as regards air, water and food. The husband should avoid privacy with his wife. Little reflection is needed to show that the only possible motive for privacy between husband and wife is the desire for sexual enjoyment. They should occupy separate rooms at night, and be constantly engaged in good work during the day. They should read such books as fill them with noble thoughts and meditate over the lives of great men, and live in the constant realization of the fact that sensual enjoyment is the root of much misery. Whenever they feel a craving for sexual indulgence, they should bathe in cold water, so that the heat of passion may be cooled down, and be refined into the energy of virtuous activity. This is a difficult thing to do, but we have been born to wrestle with difficulties and conquer them; and he who has not the will to do so can never enjoy the supreme blessing of true health.
 
-Translation of <sup>a</sup> chapter in the author's Gujarati book on health (Part I, chapter IX).
+Translation of a chapter in the author's Gujarati book on health (Part I, chapter IX).
 
 # 5. SELF-CONTROL
 
@@ -969,7 +974,7 @@ It is the philanthropic motive that no doubt impels many birth control reformers
 
 ## Harijan, 12-9-1936
 
-<sup>1.</sup> See Chapters XXX and XXXI of this book.
+1. See Chapters XXX and XXXI of this book.
 
 ## 26. A WITNESS FROM AMERICA
 
@@ -1656,7 +1661,7 @@ Gandhiji next dwelt on a topic on which he had spoken in the Subjects Committee,
 
 # **Appendix I**
 
-## GENERATION AND REGENERATION<sup>1</sup>
+## GENERATION AND REGENERATION1
 
 ## (By William Loftus Hare)
 
@@ -1736,11 +1741,11 @@ Ethic in general is derived from facts given in the experience of life whether o
 
 In attempting to formulate a personal sexual ethic for these times, one would draw from all known facts and probabilities, especially when these are confirmed by the experience of reliable observers. I am not assuming too much when I say that the facts adduced in my sections I to V suggest immediately to the mind of a candid and intelligent reader a number of logical and inevitable conclusions. From the point of view of bodily, mental and spiritual welfare, sexual continence would appear to be the irrefutable law deduced from the facts. But immediately another law springs up to challenge it—"the law in our members" as the Christian apostle calls it. We are in the presence of an antinomy— law contradicting law. The older law is that of Nature, whence we have sexual impulse: the newer law is that of intuition, of science, of experience of conviction, of ideal. Obedience to the older law tends to decay and premature death (speaking relatively): the path of the newer law is beset with difficulties so great that one hardly listens seriously to its voice. People cannot get themselves to believe the statement of the case. They begin at once to say: But, but, but? It is worthy of remark here that the formulation of the strictest ethic by *yogin*, *bhikkhu* and monk does not, as is so often believed, rest on mythologic fables or superstitions, but on an intuition of the physiological facts described in this essay.
 
-I know of no modern writer who has stated the case for the sexual ethic for the Christian more forcibly or clearly than Leo Tolstoy, the now discredited idealist of what once was Russia. I print it here as an illustration of the old<sup>2</sup> philosopher's views:
+I know of no modern writer who has stated the case for the sexual ethic for the Christian more forcibly or clearly than Leo Tolstoy, the now discredited idealist of what once was Russia. I print it here as an illustration of the old2 philosopher's views:
 
 - 102. The instinct of the continuation of the race—the sexual instinct—is innate in man. In the animal condition he fulfills his destiny by satisfying this instinct, and in so fulfilling it finds welfare.
 - 103. But with the awakening of consciousness, it appears to man that the gratification of this instinct may increase the welfare of his separate being, and he enters into sexual intercourse, -not with the object of continuing the race, but to increase his personal welfare. This constitutes the sexual sin...
-- 107. In the first case, when man desires to keep chaste<sup>3</sup> and to consecrate all his powers to the service of God, sexual sin will consist in any sexual intercourse whatever, even though it has for its object the birth and rearing of children. The purest marriage state will be such an innate sin for the man who has chosen the alternative of chastity.
+- 107. In the first case, when man desires to keep chaste3 and to consecrate all his powers to the service of God, sexual sin will consist in any sexual intercourse whatever, even though it has for its object the birth and rearing of children. The purest marriage state will be such an innate sin for the man who has chosen the alternative of chastity.
 - 113. The sexual sin, *i.e.*, mistake, for the man who has chosen the service of chastity, consists in this: he might have chosen the highest vocation and used all his powers in service of God, and consequently, for the spread of love and towards the attainment of the highest welfare, instead of which he descends to a lower plane of life and deprives himself of his welfare.
 - 114. The sexual sin or mistake for the man who has chosen to continue the race will consist in the fact that, by depriving himself of having children or, at all events, of family relationships, he deprives himself of the highest welfare of sexual life.
 
@@ -1783,7 +1788,7 @@ Like the seed cast by the sower, this essay will fall into the hands of some who
 
 # **Appendix II**
 
-# CHASTITY AND SENSUALITY<sup>1</sup>
+# CHASTITY AND SENSUALITY1
 
 The subject of sex is a remarkable one, since, though its phenomena concern us so much, both directly and indirectly, and, sooner or later, it occupies the thoughts of all, yet all mankind, as it were, agree to be silent about it, at least the sexes commonly one to another. One of the most interesting of all human facts is veiled more completely than any mystery. It is treated with such secrecy and awe as surely do not go to any religion. I believe that it is unusual even for the most intimate friends to communicate the pleasures and anxieties connected with this fact, much as the external affair of love, its comings and goings are bruited. The Shakers do not exaggerate it so much by their manner of speaking of it as all mankind by their manner of keeping silence about it. Not that men should speak on this or any subject without having anything worthy to say; but it is plain that the education of man has hardly commenced—there is so little genuine intercommunication.
 

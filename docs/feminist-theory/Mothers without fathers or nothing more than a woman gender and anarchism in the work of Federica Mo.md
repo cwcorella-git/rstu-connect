@@ -1,3 +1,8 @@
+---
+title: "## **Mothers without fathers or nothing more than a woman: gender and anarchism in the work of Feder"
+category: "feminist-theory"
+---
+
 ## **Mothers without fathers or nothing more than a woman: gender and anarchism in the work of Federica Montseny, 1923–1929 - Andrew Hamilton Lee**
 
 ## **Date:** Unknown

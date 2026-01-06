@@ -1,3 +1,8 @@
+---
+title: "## **COP26: We Only Want the Earth**"
+category: "arts-culture-music"
+---
+
 ## **COP26: We Only Want the Earth**
 
 ## **Date:** Sun, 11/07/2021 - 00:00

@@ -1,3 +1,8 @@
+---
+title: "**Ferrer movement**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Ferrer_movement)
 
 # **Ferrer movement**

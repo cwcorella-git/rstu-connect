@@ -1,3 +1,8 @@
+---
+title: "## **Middle Class? Fuck Off!**"
+category: "contemporary-analysis"
+---
+
 ## **Middle Class? Fuck Off!**
 
 ## **Date:** Unknown

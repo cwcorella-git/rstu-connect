@@ -1,3 +1,8 @@
+---
+title: "**Jeff Shantz**"
+category: "contemporary-analysis"
+---
+
 # **Jeff Shantz**
 
 # **An Anarchy of Everyday Life**

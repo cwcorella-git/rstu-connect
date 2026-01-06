@@ -1,3 +1,8 @@
+---
+title: "BLOOD, SWEAT, AND PIXELS"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Figure_0.jpeg)
 
 ## ![](_page_1_Figure_0.jpeg)
@@ -1013,7 +1018,9 @@ Back at E3 2008, just a few months before Ensemble closed its doors for good, th
 
 A group of Covenant forces descended from the sky, taking out marine after marine in what quickly became a bloody massacre. The narrator continued: "Then setback after setback, loss after loss,
 
-| made what was going to be a quick and decisive win into<br>five years<br>of hell." |
+| made what was going to be a quick and decisive win into
+five years
+of hell." |
 |------------------------------------------------------------------------------------|
 | |
 | |
@@ -1919,7 +1926,7 @@ May need to make it required reading for the developers at my studio."
 
 ## ![](_page_241_Picture_0.jpeg)
 
-<u>Sign up for Bookperk</u> and get e-book bargains, sneak peeks, special offers, and more—delivered straight to your inbox.
+Sign up for Bookperk and get e-book bargains, sneak peeks, special offers, and more—delivered straight to your inbox.
 
 ## **SIGN UP NOW**
 

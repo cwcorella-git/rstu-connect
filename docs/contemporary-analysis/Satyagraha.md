@@ -1,3 +1,8 @@
+---
+title: "**Satyagraha**"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 # **Satyagraha**
@@ -150,10 +155,10 @@ In a similar vein, anticipating a possible attack on India by Japan during [Worl
 
 # **References**
 
-- 1. <http://www.gandhifoundation.net/about%20gandhi6.htm>"Truth (satya) implies love, and firmness (agraha) engenders and therefore serves as a synonym for force. I thus began to call the Indian movement Satyagraha, that the is to say, the Force which is born of Truth and Love or nonviolence, peace, and gave up the use of the phrase 'passive resistance', in connection with it, so much so that even in English writing we often avoided it and used instead the word 'satyagraha' itself or some other equivalent English phrase."
+- 1. "Truth (satya) implies love, and firmness (agraha) engenders and therefore serves as a synonym for force. I thus began to call the Indian movement Satyagraha, that the is to say, the Force which is born of Truth and Love or nonviolence, peace, and gave up the use of the phrase 'passive resistance', in connection with it, so much so that even in English writing we often avoided it and used instead the word 'satyagraha' itself or some other equivalent English phrase."
 - 2. Uma Majmudar (2005). *[Gandhi's pilgrimage of faith: from darkness to light](https://books.google.com/books?id=xM4paHEq5oQC&pg=PA138)* (https://books.go[ogle.com/books?id=xM4paHEq5oQC&pg=PA138\).](https://books.google.com/books?id=xM4paHEq5oQC&pg=PA138) SUNY Press. p. 138. [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier)) [9780791464052.](https://en.wikipedia.org/wiki/Special:Book Sources/9780791464052)
 - 3. ["satyagraha" \(https://www.oed.com/search/dictionary/?q=satyagraha\).](https://www.oed.com/search/dictionary/?q=satyagraha) *[Oxford English](https://en.wikipedia.org/wiki/Oxford_English_Dictionary) [Dictionary](https://en.wikipedia.org/wiki/Oxford_English_Dictionary)* (Online ed.). Oxford University Press. (Subscription or [participating](https://www.oed.com/public/login/loggingin#withyourlibrary) institution membership [\(https://www.oed.com/public/login/loggingin#withyourlibrary\)](https://www.oed.com/public/login/loggingin#withyourlibrary) required.)
-- 4. <http://www.britannica.com/EBchecked/topic/525247/satyagraha> "Gandhi's *satyagraha* became a major tool in the Indian struggle against British imperialism and has since been adopted by protest groups in other countries." Date accessed: 14 September 2010.
+- 4.  "Gandhi's *satyagraha* became a major tool in the Indian struggle against British imperialism and has since been adopted by protest groups in other countries." Date accessed: 14 September 2010.
 - 5. [\[1\] \(https://www.questia.com/PM.qst?a=o&d=9165422\)](https://www.questia.com/PM.qst?a=o&d=9165422) [Archived \(https://web.archive.org/we](https://web.archive.org/web/20110605011107/http://www.questia.com/PM.qst?a=o&d=9165422) [b/20110605011107/http://www.questia.com/PM.qst?a=o&d=9165422\)](https://web.archive.org/web/20110605011107/http://www.questia.com/PM.qst?a=o&d=9165422) 5 June 2011 at the [Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine) "In this respect *Satyagraha* or non-violent resistance, as conceived by Gandhi, has an important lesson for pacifists and war-resisters of the West. Western pacifists have so far proved ineffective because they have thought that war can be resisted by mere propaganda, conscientious objection, and organization for settling disputes." Date accessed: 14 September 2010.
 
 - 6. Gandhi, M. K. "Some Rules of Satyagraha" *Young India (Navajivan)* 23 February 1930 (*The Collected Works of Mahatma Gandhi* vol. 48, p. 340)
@@ -188,4 +193,4 @@ In a similar vein, anticipating a possible attack on India by Japan during [Worl
 - [Gandhi Poetics.com \(https://web.archive.org/web/20100917113458/http://www.gandhipoetic](https://web.archive.org/web/20100917113458/http://www.gandhipoetics.com/) [s.com/\)](https://web.archive.org/web/20100917113458/http://www.gandhipoetics.com/) – a site that analyzes and previews the poetry associated with Gandhi's Satyagraha movement.
 - [Satyagraha in South Africa \(https://www.gandhiheritageportal.org/mahatma-gandhi-books/sa](https://www.gandhiheritageportal.org/mahatma-gandhi-books/satyagraha-in-south-africa) [tyagraha-in-south-africa\)](https://www.gandhiheritageportal.org/mahatma-gandhi-books/satyagraha-in-south-africa)
 
-Retrieved from "<https://en.wikipedia.org/w/index.php?title=Satyagraha&oldid=1322730360>"
+Retrieved from ""

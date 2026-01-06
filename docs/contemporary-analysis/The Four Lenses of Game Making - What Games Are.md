@@ -1,3 +1,8 @@
+---
+title: "**The Four Lenses of Game Making**"
+category: "contemporary-analysis"
+---
+
 #### [web.archive.org](https://web.archive.org/web/20240713091643/https://www.whatgamesare.com/2011/12/the-four-lenses-of-game-making.html)
 
 # **The Four Lenses of Game Making**

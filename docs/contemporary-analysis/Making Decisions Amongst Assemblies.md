@@ -1,3 +1,8 @@
+---
+title: "James Herod"
+category: "contemporary-analysis"
+---
+
 # James Herod
 
 # Making Decisions Amongst Assemblies

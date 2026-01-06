@@ -1,13 +1,21 @@
+---
+title: "## **Ambition and Smoke, Love and Courage: What to Expect from the Climate Treaty Negotiations in Pa"
+category: "environmental-justice"
+---
+
 ## **Ambition and Smoke, Love and Courage: What to Expect from the Climate Treaty Negotiations in Paris**
 
 | Date: Sat, 11/28/2015 - 17:50 |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Source: https://ecology.iww.org/node/1405|
-| Tags: John Foran, System Change not Climate Change (SCnCC), COP21, Paris, greenwashing,<br>climate justice, movement politics |
+| Tags: John Foran, System Change not Climate Change (SCnCC), COP21, Paris, greenwashing,
+climate justice, movement politics |
 | By John Foran - |
 | System Change not Climate Change |
 | , November 26, 2015 |
-| The most important question raised by the climate summit may be: Does the power to change<br>the world belong to the people in the conference rooms of Le Bourget or to the people in the<br>streets of Paris?" |
+| The most important question raised by the climate summit may be: Does the power to change
+the world belong to the people in the conference rooms of Le Bourget or to the people in the
+streets of Paris?" |
 | – Rebecca Solnit, " |
 | Power in Paris |
 ## | " |
@@ -158,9 +166,16 @@ Creative ideas abound in this movement, and there will be many thousands of imag
 | looms even larger than before. |
 | Organized by the |
 | Laboratory of Insurrectional Imagination |
-| (le Labofii) as an open call to anyone who feels moved to do express their views about the<br>COP and the larger forces behind it, conceived as |
+| (le Labofii) as an open call to anyone who feels moved to do express their views about the
+COP and the larger forces behind it, conceived as |
 | the Mesh |
-| – "austerity-dictating politicians, fossil fuel corporations, industry lobbyists, peddlers of false<br>solutions and greenwashers," it anticipates a joyful chaos that will bring together "artists,<br>activists, designers, scientists, hackers, architects, gamers, performers and other citizens<br>together to conceptualise, and build and rehearse effective new tools and tactics of resistance<br>to be used during the COP21." Teams of activists will form to engage in "a mass participation<br>transmedia action framework that merges the street, disobedient bodies and cyberspace, and<br>turns the city into a total resistance performance event open to all." |
+| – "austerity-dictating politicians, fossil fuel corporations, industry lobbyists, peddlers of false
+solutions and greenwashers," it anticipates a joyful chaos that will bring together "artists,
+activists, designers, scientists, hackers, architects, gamers, performers and other citizens
+together to conceptualise, and build and rehearse effective new tools and tactics of resistance
+to be used during the COP21." Teams of activists will form to engage in "a mass participation
+transmedia action framework that merges the street, disobedient bodies and cyberspace, and
+turns the city into a total resistance performance event open to all." |
 | The Climate Games organizers' eloquent |
 | response |
 | to November 13 merits quoting in full: |
@@ -183,11 +198,13 @@ The decentralised creative nature of the Climate Games could become the alternat
 | here |
 | |
 | A People's Climate Strike Builds Out from Paris |
-| Another intriguing and promising new strategy for the movement that will have its premiere in<br>Paris is that of a global or |
+| Another intriguing and promising new strategy for the movement that will have its premiere in
+Paris is that of a global or |
 | people's climate strike |
 | . As Ben Manski and Jill Stein |
 | explain |
-| : "What makes a strike different from mere protest? A strike is an economic stoppage. A strike<br>does not plead. It does not demand. It simply |
+| : "What makes a strike different from mere protest? A strike is an economic stoppage. A strike
+does not plead. It does not demand. It simply |
 | does |
 | ." |
 | A People's Climate Strike |
@@ -199,13 +216,16 @@ halt, demonstrate our growing power, and promote community-controlled, just, and
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | In Paris, there is a |
 | call for students |
-| (including children) to skip classes or turn their schools into sites of climate action on<br>November 30, the day the COP opens. There are actions planned for seventy countries on<br>that day. In the eyes of the organizers, "The adult generations have |
+| (including children) to skip classes or turn their schools into sites of climate action on
+November 30, the day the COP opens. There are actions planned for seventy countries on
+that day. In the eyes of the organizers, "The adult generations have |
 | promised |
 | to stop the climate crisis, but they have |
 | skipped their homework year after year |
 | |
 | Climate strike |
-| is a wake-up call to our own generation. And it is the start of a network that will solve the<br>greatest challenge in human history. |
+| is a wake-up call to our own generation. And it is the start of a network that will solve the
+greatest challenge in human history. |
 | Together |
 | . We need your |
 | hands |
@@ -219,9 +239,12 @@ halt, demonstrate our growing power, and promote community-controlled, just, and
 | raise their hands |
 | : "The open hand is the symbol of Climate Strike. |
 | If you agree to the three demands of Climate Strike |
-| : 1) fossils should stay in the ground, 2) transition to 100% clean energy, 3) help people<br>impacted by climate change then show the world your hand." |
+| : 1) fossils should stay in the ground, 2) transition to 100% clean energy, 3) help people
+impacted by climate change then show the world your hand." |
 | Creating a People's Alternative to the COP |
-| At every COP, movements seek to create strong counter-spaces and projects, whose impact<br>on countless activists over the years would be hard to overestimate. In Paris, the network of<br>French and global organizers who have come together as |
+| At every COP, movements seek to create strong counter-spaces and projects, whose impact
+on countless activists over the years would be hard to overestimate. In Paris, the network of
+French and global organizers who have come together as |
 | Coalition Climat21 |
 | has shown an astonishing capacity to make it possible to share insights, teach skills, |
 

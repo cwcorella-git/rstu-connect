@@ -1,3 +1,8 @@
+---
+title: "BROOKS"
+category: "contemporary-analysis"
+---
+
 ## Bestselling author of The Road to Character
 
 # BROOKS
@@ -683,15 +688,15 @@ While doing the research for this book, I interviewed many people seminar leader
 
 Over the course of my career as a journalist I, too, have found that if you respectfully ask people about themselves, they will answer with a candor that takes your breath away. Studs Terkel was a journalist who collected oral histories over his long career in Chicago. He'd ask people big questions and then sit back and let their answers unfold. "Listen, listen,
 
-<sup>&</sup>quot;What's working really well in your life?"
+&quot;What's working really well in your life?"
 
-<sup>&</sup>quot;What are you most self-confident about?"
+&quot;What are you most self-confident about?"
 
-<sup>&</sup>quot;Which of your five senses is strongest?"
+&quot;Which of your five senses is strongest?"
 
-<sup>&</sup>quot;Have you ever been solitary without feeling lonely?" or
+&quot;Have you ever been solitary without feeling lonely?" or
 
-<sup>&</sup>quot;What has become clearer to you as you have aged?"
+&quot;What has become clearer to you as you have aged?"
 
 listen, listen, and if you do, people will talk," he once observed. "They always talk. Why? Because no one has ever listened to them before in all their lives. Perhaps they've not ever even listened to themselves."
 
@@ -3624,7 +3629,7 @@ DAVID BROOKS is one of the nation's leading writers and commentators. An op-ed c
 
 # What's next on your reading list?
 
-## <u>Discover your next</u> <u>great read!</u>
+## Discover your next great read!
 
 Get personalized book picks and up-to-date news about this author.
 

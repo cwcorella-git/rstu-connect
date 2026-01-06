@@ -1,3 +1,8 @@
+---
+title: "**CASTLE ROCK v. GONZALES**"
+category: "contemporary-analysis"
+---
+
 #### [law.cornell.edu](https://www.law.cornell.edu/supremecourt/text/04-278)
 
 # **CASTLE ROCK v. GONZALES**

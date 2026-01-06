@@ -1,3 +1,8 @@
+---
+title: "**Our 9 Sound Design Tips to Improve your Game's Audio — Game Analytics**"
+category: "contemporary-analysis"
+---
+
 [gameanalytics.com](https://www.gameanalytics.com/blog/9-sound-design-tips-to-improve-your-games-audio)
 
 # **Our 9 Sound Design Tips to Improve your Game's Audio — Game Analytics**

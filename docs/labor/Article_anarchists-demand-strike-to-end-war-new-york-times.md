@@ -1,13 +1,8 @@
 ---
-title: Anarchists Demand Strike To End War New York Times
-date: 2025
-author: Emma Goldman
-tags:
-  - organizing
-  - strikes
-  - police
-  - prisons
-  - labor
+title: "Anarchists Demand Strike To End War New York Times"
+author: "Emma Goldman"
+date: "2025"
+category: "labor"
 ---
 
 # Anarchists Demand Strike To End War New York Times

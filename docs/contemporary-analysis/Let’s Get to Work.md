@@ -1,3 +1,8 @@
+---
+title: "## **Let's Get to Work**"
+category: "contemporary-analysis"
+---
+
 ## **Let's Get to Work**
 
 | Date: Wed, 02/08/2017 - 14:24 |
@@ -32,20 +37,24 @@
 | " issue examined one of our more urgent contemporary questions: what is to be done to |
 | revitalize the labor movement? |
 
-| Contributors offered up numerous diagnoses and prescriptions. Charlie Post pointed out the<br>crucial role the |
+| Contributors offered up numerous diagnoses and prescriptions. Charlie Post pointed out the
+crucial role the |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | militant minority |
-| played in labor's twentieth-century successes; Jane Mc Alevey called for "whole worker<br>organizing," Joe Mc Cartin |
+| played in labor's twentieth-century successes; Jane Mc Alevey called for "whole worker
+organizing," Joe Mc Cartin |
 | urged unions not to squander |
 | the brief window between the |
 | Friedrichs |
 | decision and the next attack on collective bargaining rights; and Sam Gindin proposed the " |
 | class-based left |
 | " as an alternative to social movement unionism. |
-| Since publication of these articles, labor's crisis has deepened. The right wing now controls all<br>three branches of the federal government and the majority of states. The sequel to |
+| Since publication of these articles, labor's crisis has deepened. The right wing now controls all
+three branches of the federal government and the majority of states. The sequel to |
 | Friedrichs, |
 | Janus v. AFSCME |
-| , is headed for the Supreme Court, threatening to decimate public-sector unions nationwide.<br>Talk of a |
+| , is headed for the Supreme Court, threatening to decimate public-sector unions nationwide.
+Talk of a |
 
 national right-to-work law is spreading.
 
@@ -134,15 +143,22 @@ The League's successes were possible because of the complementary relationship b
 | The Turn to the Working Class |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | M |
-| arxists dubbed Detroit the "American Petrograd." Former student activists began arriving in<br>the city in droves, taking factory jobs and hoping to help form a working-class subject that<br>could finish the revolution the previous decade's social movements had started. |
-| It was a global phenomenon. In France, many radicals located the failure of the 1968 general<br>strike in the weak connections between workers and student radicals. Espousing the classic<br>Marxist view of the industrial proletariat as the revolutionary subject |
+| arxists dubbed Detroit the "American Petrograd." Former student activists began arriving in
+the city in droves, taking factory jobs and hoping to help form a working-class subject that
+could finish the revolution the previous decade's social movements had started. |
+| It was a global phenomenon. In France, many radicals located the failure of the 1968 general
+strike in the weak connections between workers and student radicals. Espousing the classic
+Marxist view of the industrial proletariat as the revolutionary subject |
 | par excellence |
-| , a small number of radicals entered factories and worked to understand and overcome<br>workers' lack of revolutionary impulse — a story told in Robert Linhart's gripping first-person<br>narrative |
+| , a small number of radicals entered factories and worked to understand and overcome
+workers' lack of revolutionary impulse — a story told in Robert Linhart's gripping first-person
+narrative |
 | The Assembly Line |
 | (aptly titled |
 | L'Établi |
 | in French). |
-| In Italy, the '68 rebellion lasted a full decade. Scores of independent worker organizations<br>sprung up in factories under the banners of |
+| In Italy, the '68 rebellion lasted a full decade. Scores of independent worker organizations
+sprung up in factories under the banners of |
 | autonomia |
 
 , coming closer than any other movement to creating a lasting organization through which the militant minority could influence national politics.
@@ -187,7 +203,8 @@ For over thirty years, Labor Notes has sought to build rank-and-file power withi
 
 ## "The Rank and File Strategy"
 
-| Union, responsible for the 1997 UPS strike, and the 2012 Chicago Teachers Strike, organized<br>by a |
+| Union, responsible for the 1997 UPS strike, and the 2012 Chicago Teachers Strike, organized
+by a |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | caucus of radicals |
 | using a similar model. |
@@ -195,9 +212,12 @@ For over thirty years, Labor Notes has sought to build rank-and-file power withi
 | Labor Notes |
 | rolled off the presses in 1979, its publishers had no way of knowing that it would become |
 | the chronicle of rank-and-file revolt |
-| against the concessionary bargaining that marked the 1980s labor movement. More than a<br>keeper of the flame, |
+| against the concessionary bargaining that marked the 1980s labor movement. More than a
+keeper of the flame, |
 | Labor Notes |
-| stoked a resurgence of militant unionism. It represents a modern take on the Trade Union<br>Educational League, a network of AFL members who tried to "bore from within" the<br>conservative union and transform it into a radical organization. |
+| stoked a resurgence of militant unionism. It represents a modern take on the Trade Union
+Educational League, a network of AFL members who tried to "bore from within" the
+conservative union and transform it into a radical organization. |
 | Business Unionism |
 ## | L |
 
@@ -331,14 +351,23 @@ Salting can also help resolve the labor movement's crisis of power in unionized 
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | but not |
 | organized |
-| . To rebuild the solidarity and militancy that would make these campaigns around class-wide<br>demands possible, unions could develop current or future members as rank-and-file<br>organizers — in effect, salting already-unionized shops. |
-| History shows that salting massively contributed to labor's greatest triumphs — from the<br>breakthroughs of the 1930s, to the rebel rank-and-file movements of the 1970s, to the |
+| . To rebuild the solidarity and militancy that would make these campaigns around class-wide
+demands possible, unions could develop current or future members as rank-and-file
+organizers — in effect, salting already-unionized shops. |
+| History shows that salting massively contributed to labor's greatest triumphs — from the
+breakthroughs of the 1930s, to the rebel rank-and-file movements of the 1970s, to the |
 | Labor Notes |
-| -inspired reform struggles of the 1980s to today's dynamic independent and union-led<br>organizing. But the question remains — who is going to do what needs to be done? |
+| -inspired reform struggles of the 1980s to today's dynamic independent and union-led
+organizing. But the question remains — who is going to do what needs to be done? |
 | A Working Class Hero Is Something to Be |
 | S |
-| ince Election Day, thousands of people in the United States have streamed into left<br>organizations in shock at the dystopian reality our country is descending into. They came<br>looking for answers to the perennial question "What should I do?" |
-| The anti-Trump movement increasingly has turned to economic forms of direct action: a<br>women's strike, taxi strike, bodega strike, tech worker walkouts, and now calls for a general<br>strike. That can't happen without massive organization at the point of production. To escalate<br>to win, we need bring our politics to work. |
+| ince Election Day, thousands of people in the United States have streamed into left
+organizations in shock at the dystopian reality our country is descending into. They came
+looking for answers to the perennial question "What should I do?" |
+| The anti-Trump movement increasingly has turned to economic forms of direct action: a
+women's strike, taxi strike, bodega strike, tech worker walkouts, and now calls for a general
+strike. That can't happen without massive organization at the point of production. To escalate
+to win, we need bring our politics to work. |
 
 A turn to the workplace is the logical step for the thousands of people who have turned to socialism in the past year. Salting offers a meaningful and accessible point of entry to activism, because almost all of us have to sell our labor for a living. Millennials especially are experiencing historic downward mobility. We may have not have gone looking for the class struggle, but the class struggle has come looking for us.
 

@@ -1,12 +1,8 @@
 ---
-title: Non Cooperation Movement 19191922 Wikipedia
-date: 2025
-author: Wikipedia
-tags:
-  - organizing
-  - strikes
-  - police
-  - prisons
+title: "Non Cooperation Movement 19191922 Wikipedia"
+author: "Wikipedia"
+date: "2025"
+category: "organizing"
 ---
 
 # Non Cooperation Movement 19191922 Wikipedia

@@ -1,15 +1,8 @@
 ---
-title: >-
-  Against Capital in the Twenty First Century a Reader of Radical Undercurrents
-  a
-date: 2025
-author: 'John Asimakopoulos (editor), Richard Gilman-Opalsky (Editor)'
-tags:
-  - organizing
-  - strikes
-  - unions
-  - tenants
-  - housing
+title: ">-"
+author: "John Asimakopoulos (editor), Richard Gilman-Opalsky (Editor)"
+date: "2025"
+category: "housing"
 ---
 
 # Against Capital in the Twenty First Century a Reader of Radical Undercurrents a

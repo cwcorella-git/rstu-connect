@@ -1,3 +1,8 @@
+---
+title: "## **Are Refinery Workers Climate Enemies? - Part 2**"
+category: "environmental-justice"
+---
+
 ## **Are Refinery Workers Climate Enemies? - Part 2**
 
 ## **Date:** Wed, 05/25/2022 - 00:00
@@ -56,13 +61,20 @@ But let's not stop there. As stated in the above demands, the refinery could con
 
 . Some suggestions include retooling the facility to process biofuels (though these are, in many cases, almost as problematic, but more about that later) or hydrogen (again, not without a great many pitfalls, and the devil is in the details), or still something else. Ultimately, if it's
 
-| realistically possible to convert the facility to genuinely green purposes, it still has to be<br>methodically decommissioned, and doing |
+| realistically possible to convert the facility to genuinely green purposes, it still has to be
+methodically decommissioned, and doing |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | that |
 | will take |
 | years |
-| (or even decades), even if it doesn't process so much as a single additional drop of oil. Either<br>way, who better to do that work than the already skilled and employed refinery workers? |
-| The key point here is that these workers skills are transferable. While I'm no expert, it's well<br>known that many refinery workers could be retrained (without too much effort) to work in water<br>filtration or sanitation facilities or geothermal plants, just as building trades workers building<br>fracked gas pipelines can be employed repairing fresh water, sewage, and storm water<br>pipelines, or offshore oil workers can instead work as offshore wind workers. The skill is the<br>important thing, not necessarily the application of that skill. |
+| (or even decades), even if it doesn't process so much as a single additional drop of oil. Either
+way, who better to do that work than the already skilled and employed refinery workers? |
+| The key point here is that these workers skills are transferable. While I'm no expert, it's well
+known that many refinery workers could be retrained (without too much effort) to work in water
+filtration or sanitation facilities or geothermal plants, just as building trades workers building
+fracked gas pipelines can be employed repairing fresh water, sewage, and storm water
+pipelines, or offshore oil workers can instead work as offshore wind workers. The skill is the
+important thing, not necessarily the application of that skill. |
 | Further, the union in question is not the "United Oilworkers Union", it's the " |
 | United |
 | Steelworkers |
@@ -77,11 +89,14 @@ But let's not stop there. As stated in the above demands, the refinery could con
 | just |
 | transition |
 | |
-| And lest anyone think that even workers in the oil, gas, shale, and tar sands fields (etc.) are all<br>completely complicit in the ongoing destruction of our Earth, I assure that this belief is |
+| And lest anyone think that even workers in the oil, gas, shale, and tar sands fields (etc.) are all
+completely complicit in the ongoing destruction of our Earth, I assure that this belief is |
 | also |
-| mistaken. On the IWW EUC website is a link to a Canadian based, union worker run<br>organization called |
+| mistaken. On the IWW EUC website is a link to a Canadian based, union worker run
+organization called |
 | Iron & Earth |
-| , whose mission it is to push for decarbonization, retooling, and worker retraining in the fossil<br>fuel industry (particularly tar sands) to a genuinely green alternative. |
+| , whose mission it is to push for decarbonization, retooling, and worker retraining in the fossil
+fuel industry (particularly tar sands) to a genuinely green alternative. |
 | Closer to home, |
 ## | USW Local 675 |
 
@@ -142,28 +157,46 @@ Judi Bari had a very difficult set of circumstances to work with, too. A half de
 | been some attempts by greens |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | and |
-| Earth First!ers like Darryl Cherney to show solidarity with timber workers wherever possible,<br>their lack of union backgrounds made that much more difficult (Judi had a substantial union<br>background prior to her moving to California in the early 1980s). Furthermore, the messages<br>and attitudes shown towards the timber workers by radical ecologists (inside and outside of<br>Earth First!) in northwestern California (and Southern Oregon) was mixed, and elsewhere<br>mostly hostile. |
+| Earth First!ers like Darryl Cherney to show solidarity with timber workers wherever possible,
+their lack of union backgrounds made that much more difficult (Judi had a substantial union
+background prior to her moving to California in the early 1980s). Furthermore, the messages
+and attitudes shown towards the timber workers by radical ecologists (inside and outside of
+Earth First!) in northwestern California (and Southern Oregon) was mixed, and elsewhere
+mostly hostile. |
 | In spite of that, |
 | Judi was actually quite successful at winning a sizable number of them over |
 | . While none of that led to (re)unionization, much less open green syndicalist revolution, it |
 | was |
-| effective in shattering the environmentalists versus job myth, to a point. It resulted in a great<br>many timber workers feeding information to Earth First! (including effective blockade targets)<br>on the sly. While it didn't save every parcel of old growth forest intended, it probably |
+| effective in shattering the environmentalists versus job myth, to a point. It resulted in a great
+many timber workers feeding information to Earth First! (including effective blockade targets)
+on the sly. While it didn't save every parcel of old growth forest intended, it probably |
 | did |
-| save Headwaters, Cahto, and Enchanted Meadow. Had Judi lived (instead of succumbing to<br>cancer in 1997), the efforts might've enjoyed greater success. Had so many Earth First!ers<br>not been so stubbornly against her strategy, it very likely |
+| save Headwaters, Cahto, and Enchanted Meadow. Had Judi lived (instead of succumbing to
+cancer in 1997), the efforts might've enjoyed greater success. Had so many Earth First!ers
+not been so stubbornly against her strategy, it very likely |
 | would |
 
 | have yielded much better results. |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | I've written an entire book about this |
 | , you know! |
-| And, I emphasize, at no point did Judi Bari argue against continued and sustained direct<br>action in the forests while attempting to build trust among timber workers. Yes, she called for<br>renouncing |
+| And, I emphasize, at no point did Judi Bari argue against continued and sustained direct
+action in the forests while attempting to build trust among timber workers. Yes, she called for
+renouncing |
 | tree spiking |
-| (which doesn't work anyway) and argued that monkeywrenching should only ever be done on<br>the sly—but not towards the timber worker's equipment (because it didn't effect the corporate<br>pocketbook anyway, given that the timber workers were contract labor who has to purchase<br>their own equipment and bid for timber harvests), and she argued that the targets should be |
+| (which doesn't work anyway) and argued that monkeywrenching should only ever be done on
+the sly—but not towards the timber worker's equipment (because it didn't effect the corporate
+pocketbook anyway, given that the timber workers were contract labor who has to purchase
+their own equipment and bid for timber harvests), and she argued that the targets should be |
 | strategic |
 | , but at |
 | no time |
-| did she attempt to deradicalize or demobilize the movement (in spite of the claims to the<br>contrary made by her detractors). |
-| You see, there's a widely believed myth, held primarily by insurrectionist ecologists, that if<br>"militant direct action" was allowed to occur "without constraints imposed by the peace cops,<br>NGOs, and the non-violence cultists" the blockades would win easily. That view is deeply<br>mistaken. Not a single long term, large scale blockadia type campaign doesn't go down |
+| did she attempt to deradicalize or demobilize the movement (in spite of the claims to the
+contrary made by her detractors). |
+| You see, there's a widely believed myth, held primarily by insurrectionist ecologists, that if
+"militant direct action" was allowed to occur "without constraints imposed by the peace cops,
+NGOs, and the non-violence cultists" the blockades would win easily. That view is deeply
+mistaken. Not a single long term, large scale blockadia type campaign doesn't go down |
 
 without at least
 
@@ -193,10 +226,19 @@ still lies at the point of production (or destruction). Without a large movement
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Industrial Worker |
 | in the 1990s on that very subject. |
-| You will note that he, too, argued some industrial unions would need to be phased out, but at<br>no time did he argue against workers from those industries joining the OBU in order to make<br>the transformation. |
-| We shouldn't either, any more than we should turn our backs on the striking Chevron refinery<br>workers. |
+| You will note that he, too, argued some industrial unions would need to be phased out, but at
+no time did he argue against workers from those industries joining the OBU in order to make
+the transformation. |
+| We shouldn't either, any more than we should turn our backs on the striking Chevron refinery
+workers. |
 | Epilogue: |
-| Anti-Chevron Day in Richmond went as planned, with many EJ and Climate Justice activists<br>speaking on Chevron's atrocities. Every speaker, including keynote speaker, Steven<br>Donzinger, emphasized the need to show solidarity with the refinery workers and excoriated<br>Chevron for their greed and refusal to agree to the workers demands. David Solnit designed<br>the chalk painting seen in the image at the beginning of the article. Following the rally, when<br>Chevron management tried to powerwash the street mural away, striking USW Local 5<br>workers stopped them from doing so. |
+| Anti-Chevron Day in Richmond went as planned, with many EJ and Climate Justice activists
+speaking on Chevron's atrocities. Every speaker, including keynote speaker, Steven
+Donzinger, emphasized the need to show solidarity with the refinery workers and excoriated
+Chevron for their greed and refusal to agree to the workers demands. David Solnit designed
+the chalk painting seen in the image at the beginning of the article. Following the rally, when
+Chevron management tried to powerwash the street mural away, striking USW Local 5
+workers stopped them from doing so. |
 | This is what |
 | green unionism |
 | looks like! |

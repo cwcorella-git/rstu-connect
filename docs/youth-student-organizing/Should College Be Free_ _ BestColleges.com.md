@@ -1,3 +1,8 @@
+---
+title: "**Should College Be Free?**"
+category: "youth-student-organizing"
+---
+
 #### [bestcolleges.com](https://www.bestcolleges.com/news/analysis/should-college-be-free/)
 
 # **Should College Be Free?**

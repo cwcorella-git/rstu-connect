@@ -1,3 +1,8 @@
+---
+title: "**The Party's Over: The State of the Left in the 1990s**"
+category: "arts-culture-music"
+---
+
 # **The Party's Over: The State of the Left in the 1990s**
 
 ## **Date:** Unknown

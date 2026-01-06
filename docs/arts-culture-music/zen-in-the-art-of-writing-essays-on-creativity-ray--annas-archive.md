@@ -1,3 +1,8 @@
+---
+title: "**A NOTE ABOUT THE AUTHOR**"
+category: "arts-culture-music"
+---
+
 ears these words used. How rarely do we see people living.
 
 #### BRADBURY RAY
@@ -909,7 +914,7 @@ I see my grandfather there looking up at that strange drifting light, thinking h
 
 No one said anything. We all just looked up at the sky and we breathed out and in and we all thought the same things, but
 
-#### **Z E N I N TH E AR T O F WRITIN <sup>G</sup>**
+#### **Z E N I N TH E AR T O F WRITIN G**
 
 nobody said. Someone finally had to say, though, didn't they? And that one is me.
 
@@ -1957,7 +1962,7 @@ For I had learned when I was eight:
 
 Doom was my Fate, they said. The world would end!
 
-#### **Z E N I N TH E AR T O F WRITIN <sup>G</sup>**
+#### **Z E N I N TH E AR T O F WRITIN G**
 
 That day I panicked, thought it true,
 
@@ -2017,7 +2022,7 @@ Will teem —so travel then with joys. Or else in ruins consummate A death that 
 
 Poor world that does not know its doom, the day I die. Two hundred million pass within my hour of passing, I take this continent with me into the grave. They are most brave, all-innocent, and do not know That if I sink then they are next to go. So in the hour of death the Good Times cheer While I, mad egotist, ring in their Bad New Year. The lands beyond my land are vast and bright, Yet I with one sure hand put out their light. I snuff Alaska, doubt Sun King's France, slit Britain's throat, Promote old Mother Russia out of mind with one fell blink, Shove China off a marble quarry brink, Knock far Australia down and place its stone, Kick Japan in my stride. Greece? quickly flown. I'll make it fly and fall, as will green Eire, Turned in my sweating dream, I'll Spain despair, Shoot Goya's children dead, rack Sweden's sons, Crack flowers and farms and towns with sunset guns. When my heart stops, the great Ra drowns in sleep, I bury all the stars in Cosmic Deep. So, listen, world, be warned, know honest dread.
 
-#### **Z E N I N TH E AR T O F WRITIN <sup>G</sup>**
+#### **Z E N I N TH E AR T O F WRITIN G**
 
 When I grow sick, that day your blood is dead. Behave yourself, I'll stick and let you live. But misbehave, I'll take what now I give. That is the end and all. Your flags are furled . . . If I am shot and dropped? So ends your world.
 

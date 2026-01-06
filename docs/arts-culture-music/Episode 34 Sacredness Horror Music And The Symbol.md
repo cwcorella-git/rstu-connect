@@ -1,3 +1,8 @@
+---
+title: "**Episode 34: Sacredness Horror Music And The Symbol/**"
+category: "arts-culture-music"
+---
+
 # **Episode 34: Sacredness Horror Music And The Symbol/**
 
 **Source:** https://www.meaningcrisis.co/ep-34-awakening-from-the-meaning-crisis-sacredness-horror-music-and-the-symbol/

@@ -1,3 +1,8 @@
+---
+title: "**Ho Chi Minh**"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_2.jpeg)
 
 # **Ho Chi Minh**
@@ -206,7 +211,10 @@ While working as the cook's helper on a ship in 1912, Thành (Hồ) traveled to 
 | Signature | |
 | | Ho Chi Minh's voice |
 | | 6:56 |
-| | Ho Chi Minh declaring the<br>independence of Vietnam from<br>colonial powers and to be a free<br>nation |
+| | Ho Chi Minh declaring the
+independence of Vietnam from
+colonial powers and to be a free
+nation |
 
 ## Recorded 2 September 1945
 
@@ -258,11 +266,11 @@ n.org/video/?16022
 4-1/ho-chi-minh-life)
 ## , C-SPAN
 
-In 1923, Quốc (Hồ) left Paris for Moscow carrying a passport with the name Chen Vang, a Chinese merchant,[12]:86 where he was employed by the Comintern, studied at the Communist University of the Toilers of the East<sup>[12]</sup>:92<sup>[42]</sup> and in January 1924, attended Lenin's funeral. [43]:96 Ho participated in the Fifth Comintern Congress in June 1924 before arriving in Canton (present-day Guangzhou), China in
+In 1923, Quốc (Hồ) left Paris for Moscow carrying a passport with the name Chen Vang, a Chinese merchant,[12]:86 where he was employed by the Comintern, studied at the Communist University of the Toilers of the East[12]:92[42] and in January 1924, attended Lenin's funeral. [43]:96 Ho participated in the Fifth Comintern Congress in June 1924 before arriving in Canton (present-day Guangzhou), China in
 
 ## ![](_page_5_Picture_7.jpeg)
 
-A plaque in <u>Compoint Lane</u>, District 17, Paris indicates where Hồ Chí Minh lived from 1921 to 1923
+A plaque in Compoint Lane, District 17, Paris indicates where Hồ Chí Minh lived from 1921 to 1923
 
 November 1924 using the name Ly Thuy. The Comintern assigned him to assist and interpret for Mikhail Borodin, who was the Comintern envoy to the Kuomintang Revolutionary Committee there. [43]
 

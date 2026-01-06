@@ -1,24 +1,8 @@
 ---
-title: Neoliberalism
-author: David Graeber
-date: '2009'
-pubdate: '2021-11-28T18:51:52'
-language: en
-source_url: >-
-  Retrieved on 28<sup>th</sup> November 2021 from
-  [[https://davidgraeber.org/articles/neoveralism-or-the-beuracratizatiom-of-the-world/][davidgraeber.org]]
-notes: >-
-  Chapter 4 of <em>The Insecure American: How We Got Here and What We Should Do
-  about It</em>, edited by Hugh Gusterson and Catherine Besteman, University of
-  California Press, 2009.
-topics:
-  - neoliberalism
-  - bureaucracy
-original_format: muse
-converted_date: '2025-11-08T11:25:03.147916'
-tags:
-  - Neoliberalism
-  - Bureaucracy
+title: "Neoliberalism"
+author: "David Graeber"
+date: "2009"
+category: "contemporary-analysis"
 ---
 
 Americans often find it difficult to talk about politics with people from other parts of the world. Consider three quotes culled, more or less at random, from world newswires around the end of December 2005. In Bolivia, newly elected president Evo Morales declared that in his victory “the people have defeated the neoliberals.” “We want to change the neoliberal model,” he added. In Germany, Lothar Bisky announced the creation of a new political party that, he hoped, would “contribute to creating a democratic alternative to oppose the damage caused by neoliberalism to social cohesion.” Around the same time, a pan-African Web journal announced a special issue whose articles “reflect a growing debate on economic alternatives to neoliberalism from countries as far afield as Mauritius, Swaziland and Mali.”[1]

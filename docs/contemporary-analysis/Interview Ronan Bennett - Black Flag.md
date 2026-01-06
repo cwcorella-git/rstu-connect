@@ -1,3 +1,8 @@
+---
+title: "## **Interview: Ronan Bennett - Black Flag**"
+category: "contemporary-analysis"
+---
+
 ## **Interview: Ronan Bennett - Black Flag**
 
 ## **Date:** Unknown

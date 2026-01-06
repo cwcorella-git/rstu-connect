@@ -1,3 +1,8 @@
+---
+title: "## **Subscribe to Anarcho Agony Aunts**"
+category: "contemporary-analysis"
+---
+
 ## **Subscribe to Anarcho Agony Aunts**
 
 ## **Date:** Unknown
@@ -92,13 +97,18 @@ Um, did you actually watch the video? They literally open (in response to the jo
 
 | really not about you" |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| So what? The video is still directed to how johns to teach them how they should go about<br>buying sex from women. |
-| I'm a socialist-feminist, and post revolution, as long as sex work exists, then yes - johns would<br>invariably be in socialist spaces |
-| Why should they be allowed though? These are men who think sexual consent can be bought<br>for money. |
+| So what? The video is still directed to how johns to teach them how they should go about
+buying sex from women. |
+| I'm a socialist-feminist, and post revolution, as long as sex work exists, then yes - johns would
+invariably be in socialist spaces |
+| Why should they be allowed though? These are men who think sexual consent can be bought
+for money. |
 | Iktomi |
 | 6 years 4 months ago |
 | In reply to Welcomebylibcom.org |
-| What exactly is the difference between a construction worker who sells their body and a sex<br>worker? Are they not both consenting? At least as far as it is possible to consent in a capitalist<br>society? |
+| What exactly is the difference between a construction worker who sells their body and a sex
+worker? Are they not both consenting? At least as far as it is possible to consent in a capitalist
+society? |
 | comrade Emma |
 | 6 years 4 months ago |
 | In reply to Welcomebylibcom.org |
@@ -159,12 +169,15 @@ That's a fascinating post, it's good to get a least a little understanding of th
 | Konsequent |
 | I think it would be fair enough to call it that) |
 | Is it fair though? |
-| Can we equate someone getting their jollies off by being whipped or beaten by a woman in<br>black leather to forceful, non-consensual sex acts? What about pornographers? Or cam<br>girls/boys/people? There's more to sex work than penetration. |
+| Can we equate someone getting their jollies off by being whipped or beaten by a woman in
+black leather to forceful, non-consensual sex acts? What about pornographers? Or cam
+girls/boys/people? There's more to sex work than penetration. |
 | Edited for grammar. |
 | Ed |
 | 6 years 4 months ago |
 | In reply to Welcomebylibcom.org |
-| Yeah, just to echo Noah: that was a really interesting perspective, Konsequent. Much<br>appreciated. |
+| Yeah, just to echo Noah: that was a really interesting perspective, Konsequent. Much
+appreciated. |
 | Konsequent |
 | 6 years 4 months ago |
 
@@ -175,9 +188,13 @@ That's a fascinating post, it's good to get a least a little understanding of th
 | Konsequent |
 | I think it would be fair enough to call it that) |
 | Is it fair though? |
-| Can we equate someone who gets their jollies off by being whipped or beaten by a woman in<br>black leather to forceful, non-consensual sex acts? What about pornographers? Or cam<br>girls/boys/people? There's more to sex work than penetration. |
-| We could list endless scenarios and discuss their similarities and differences if you like. Some<br>examples: |
-| If someone who doesn't feel like whipping and beating someone else while wearing black<br>leather does so for the money, then that is not them enthusiastically consenting to beat and |
+| Can we equate someone who gets their jollies off by being whipped or beaten by a woman in
+black leather to forceful, non-consensual sex acts? What about pornographers? Or cam
+girls/boys/people? There's more to sex work than penetration. |
+| We could list endless scenarios and discuss their similarities and differences if you like. Some
+examples: |
+| If someone who doesn't feel like whipping and beating someone else while wearing black
+leather does so for the money, then that is not them enthusiastically consenting to beat and |
 
 If someone beats and whips someone while wearing black leather and they're excited about it to and no money changes hands, then that is unmistakably consensual activity.
 
@@ -204,14 +221,21 @@ Things I'm more sure about:If someone says their consent was undermined I trust 
 | 6 years 4 months ago |
 | In reply to Welcomebylibcom.org |
 | rosasoros |
-| It strikes me odd that someone can stretch their minds to believe in a post-capaitalist, socialist<br>utopia, but can't imagine a socialist utopia where people sell and pay for sex in an ethical<br>manner because sex work won't exist in a capitalist system. |
-| Very odd comment. In a socialist society, there won't and can't be buying and selling because<br>wage labour won't be a thing. If there's wage labour and people are dependent on market<br>relations for their survival it's not socialism, period. |
+| It strikes me odd that someone can stretch their minds to believe in a post-capaitalist, socialist
+utopia, but can't imagine a socialist utopia where people sell and pay for sex in an ethical
+manner because sex work won't exist in a capitalist system. |
+| Very odd comment. In a socialist society, there won't and can't be buying and selling because
+wage labour won't be a thing. If there's wage labour and people are dependent on market
+relations for their survival it's not socialism, period. |
 | jef costello |
 | 6 years 4 months ago |
 | In reply to Welcomebylibcom.org |
-| Sorry in advance, this is a very confused post, I am trying to get my head round something<br>and failing. |
-| I don't get it. I watched the flirting video and I couldn't see who was supposed to be the<br>audience and what they were supposed to be getting out of it. |
-| I couldn't tell if they were pretending to be drunk, but waving around empty beer cans just<br>seemed a bit pointless and the posh accent on one of the hosts made me roll my eyes. |
+| Sorry in advance, this is a very confused post, I am trying to get my head round something
+and failing. |
+| I don't get it. I watched the flirting video and I couldn't see who was supposed to be the
+audience and what they were supposed to be getting out of it. |
+| I couldn't tell if they were pretending to be drunk, but waving around empty beer cans just
+seemed a bit pointless and the posh accent on one of the hosts made me roll my eyes. |
 
 It made me think of being younger and not really knowing how to approach people and to be honest I think what they said is pretty much what any bog standard magazine would tell you and equally useless. It's not so much about having the confidence to throw out a chat up line or "flant" (hate made up words, hate 'banter') it's about realising that if you go out and meet people then some of them will fancy you, you will fancy some of them and then things might happen.
 
@@ -332,7 +356,10 @@ I still have a plan to get a few more of those covering some of the usual questi
 | 6 years 3 months ago |
 | In reply to Welcomebylibcom.org |
 | Rob Ray |
-| This is part of a response I wrote 6 years ago to Rob Ray's call out for a series called "Your<br>job after the revolution". |
-| I still have a plan to get a few more of those covering some of the usual questions (though<br>God knows where I'm gonna find an anarchist ex-cop) and collate it into a book of some kind<br>one of these days. |
+| This is part of a response I wrote 6 years ago to Rob Ray's call out for a series called "Your
+job after the revolution". |
+| I still have a plan to get a few more of those covering some of the usual questions (though
+God knows where I'm gonna find an anarchist ex-cop) and collate it into a book of some kind
+one of these days. |
 
 I remember a thread on that, seemd like almost everyone worked in education or healthcare.

@@ -1,3 +1,8 @@
+---
+title: "Viglostasi Residence / block722"
+category: "technology-digital-justice"
+---
+
 #### [archdaily.com](https://www.archdaily.com/1004405/viglostasi-residence-block722)
 
 # Viglostasi Residence / block722
@@ -108,4 +113,4 @@ It all perfectly fits the client's vision for a home that feels like a family of
 
 ## [© Ana Santl](https://www.archdaily.com/1004405/viglostasi-residence-block722/64ba9306edf169582e782b79-viglostasi-residence-block722-photo)
 
-Cite: "Viglostasi Residence / block722" 24 Jul 2023. Arch Daily. Accessed 18 Sep 2023. <https://www.archdaily.com/1004405/viglostasi-residence-block722> ISSN 0719-8884
+Cite: "Viglostasi Residence / block722" 24 Jul 2023. Arch Daily. Accessed 18 Sep 2023.  ISSN 0719-8884

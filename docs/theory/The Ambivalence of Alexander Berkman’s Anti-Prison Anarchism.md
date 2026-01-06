@@ -1,16 +1,10 @@
 ---
-title: The Ambivalence Of Alexander Berkmans Anti Prison Anarchism
-slug: The Ambivalence of Alexander Berkman’s Anti-Prison Anarchism
-reconversion_status: ready_for_reconversion
-author: Noam Chomsky
-date: '2013'
-tags:
-  - theory
-  - anarchism
-  - strikes
-  - unions
-  - rent
+title: "The Ambivalence Of Alexander Berkmans Anti Prison Anarchism"
+author: "Noam Chomsky"
+date: "2013"
+category: "theory"
 ---
+
 ## **Nolan Bennett**
 
 # **The Ambivalence of Alexander Berkman's Anti-Prison Anarchism**
@@ -257,11 +251,11 @@ Alexander Berkman Social Club. 2010. "Introduction." In The Tragic
 - Zunz, Olivier. 2022. The Man Who Understood Democracy. Princeton, NJ: Princeton University Press.
 - Zurn, Perry, and Dilts, Andrew. 2016. Active Intolerance: Michel Foucault, the Prisons Information Group, and the Future of Abolition. New York: Palgrave Macmillan.
 
-[<sup>\[1\]</sup>](#page-1-0) Berkman also received assistance from Voltairine de Cleyre, who had campaigned for his release and later became a close comrade (Avrich and Avrich 2012, 207–10). Berkman (1906) first planned his memoirs with Carl Nold while imprisoned.
+[\[1\]](#page-1-0) Berkman also received assistance from Voltairine de Cleyre, who had campaigned for his release and later became a close comrade (Avrich and Avrich 2012, 207–10). Berkman (1906) first planned his memoirs with Carl Nold while imprisoned.
 
-[<sup>\[2\]</sup>](#page-1-1) For example, see reviews from A Stuffed Club or Evening Transcript ("Clippings of Reviews of Prison Memoirs of an Anarchist. With an Announcement of a Lecture on the Book by Alexander Berkman" 1912).
+[\[2\]](#page-1-1) For example, see reviews from A Stuffed Club or Evening Transcript ("Clippings of Reviews of Prison Memoirs of an Anarchist. With an Announcement of a Lecture on the Book by Alexander Berkman" 1912).
 
-[<sup>\[3\]</sup>](#page-3-1) Tocqueville noted by letter his intention to visit Pittsburgh where supposedly the "experiment" of a system "of complete solitary confinement without labor" had failed (Tocqueville and Beaumont 2010, 464).
+[\[3\]](#page-3-1) Tocqueville noted by letter his intention to visit Pittsburgh where supposedly the "experiment" of a system "of complete solitary confinement without labor" had failed (Tocqueville and Beaumont 2010, 464).
 
 [\[4\]](#page-3-2) Berkman (2011a, 84) quotes this line from Faust in an essay written while imprisoned.
 

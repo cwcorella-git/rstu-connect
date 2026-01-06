@@ -1,3 +1,8 @@
+---
+title: "## [tomshardware.com](https://www.tomshardware.com/news/openai-shap-e-creates-3d-models)"
+category: "technology-digital-justice"
+---
+
 ## [tomshardware.com](https://www.tomshardware.com/news/openai-shap-e-creates-3d-models)
 
 ## **OpenAI's Shap-E Model Makes 3D Objects From Text or Images**

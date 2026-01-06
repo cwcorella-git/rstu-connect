@@ -1,13 +1,8 @@
 ---
-title: For an Anti Fascist Revolutionary Unionism
-date: 2025
-author: It's Going Down
-tags:
-  - organizing
-  - unions
-  - rent
-  - police
-  - prisons
+title: "For an Anti Fascist Revolutionary Unionism"
+author: "It's Going Down"
+date: "2025"
+category: "labor"
 ---
 
 # For an Anti Fascist Revolutionary Unionism

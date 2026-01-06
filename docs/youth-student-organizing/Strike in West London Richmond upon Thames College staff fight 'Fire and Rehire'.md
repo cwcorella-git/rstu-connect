@@ -1,3 +1,8 @@
+---
+title: "## **Strike in West London: Richmond upon Thames College staff fight 'Fire and Rehire'**"
+category: "youth-student-organizing"
+---
+
 ## **Strike in West London: Richmond upon Thames College staff fight 'Fire and Rehire'**
 
 ## **Date:** Unknown
@@ -66,10 +71,13 @@ We also insist on the necessity of building solidarity between education workers
 
 | [9] https://www.bbc.com/news/business-57670287|
 |--------------------------------------------------------------------------------------------------------------------------------------------------|
-| [10] https://www.londonlibdems.org.uk/munira_wilson_mp_urges_govt_to_ban_fire_and_rehir<br>e_policy |
-| [11]<br>https://www.theatlantic.com/business/archive/2017/07/japan-mystery-low-birth-rate/534291/|
+| [10] https://www.londonlibdems.org.uk/munira_wilson_mp_urges_govt_to_ban_fire_and_rehir
+e_policy |
+| [11]
+https://www.theatlantic.com/business/archive/2017/07/japan-mystery-low-birth-rate/534291/|
 | [12] https://en.internationalism.org/icconline/2007/kamagasaki|
-| [13] https://www.lse.ac.uk/News/Latest-news-from-LSE/2021/k-November-21/Wages-of-typic<br>al-UK-employee-have-become-decoupled-from-productivity |
+| [13] https://www.lse.ac.uk/News/Latest-news-from-LSE/2021/k-November-21/Wages-of-typic
+al-UK-employee-have-become-decoupled-from-productivity |
 | [14] https://www.newstatesman.com/politics/2021/05/how-uk-house-prices-have-soared-ahea|
 
 d-average-wages

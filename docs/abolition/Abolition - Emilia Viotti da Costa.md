@@ -1,16 +1,10 @@
 ---
-title: Abolition Emilia Viotti
-author: Emilia Viotti da Costa
-slug: Abolition - Emilia Viotti da Costa
-reconversion_status: ready_for_reconversion
-date: 2008
-tags:
-  - abolition
-  - police
-  - unions
-  - rent
-  - prisons
+title: "Abolition Emilia Viotti"
+author: "Emilia Viotti da Costa"
+date: "2008"
+category: "abolition"
 ---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 ## ![](_page_0_Picture_2.jpeg)
@@ -207,7 +201,7 @@ With this declaration, the Chamber of Deputies considered its obligations to the
 
 When we examine the events that led up to abolition, a number of questions arise: why, for instance, was an institution that had been accepted without serious objection suddenly repudiated in 1888? Why was the project of abolition set in motion with such sudden urgency? How can we explain why so many members of the legislature, including those who had been elected with the support of slaveowners, approved the law almost without debate? Why did the slaves' masters not try to prevent, with arms in their hands, this attack on their property, which was actually guaranteed by the Constitution? What role did the slaves and free blacks play in this process? Why did abolition take so long in Brazil? These are some of the questions that will be addressed in the chapters that follow.
 
-<sup>1</sup> Falas do Trono, desde o ano 1823 até o ano de 1889 [Speeches from the Throne, from the Year 1823 to the Year 1889]. São Paulo, 1977.
+1 Falas do Trono, desde o ano 1823 até o ano de 1889 [Speeches from the Throne, from the Year 1823 to the Year 1889]. São Paulo, 1977.
 
 #### [13] CHAPTER 1
 
@@ -275,9 +269,22 @@ These kinds of Jacobin writings appear to have given voice to the social visions
 
 This advocacy of emancipation did not coalesce into an organized movement during the first half of the nineteenth century. During this period, the theme of slavery and the slave [22] trade was still a subdued note in the orchestration of the multiple discontents that found expression in the political battles of this agitated period of the history of the Empire. One by one, the insurrections of the Regency were steadily repressed by a government that, after yielding in the Additional Act of 1834 to demands for increased provincial autonomy, became more and more concerned with maintaining the "social order". The popular revolts of the 1830s and 1840s stunned the elites and prodded them toward increasingly conservative positions. Balaios, cabanos, farrapos, praieros, and many other participants of popular revolts that dared to challenge the hegemony of the elites were silenced. The second half of the century began under the aegis of a prosperous elite and an apparently stable government of political conciliation. But prosperity and stability continued to depend on slave labor. And the elite continued to be dependent on the institution of slavery.
 
-<sup>1</sup> *Balaios*, basketweavers, who lent the name of their craft to a bloody rising in Maranhão that began in 1838; *cabanos*, a violent insurrection of "shack-dwellers" which erupted in Pará in 1835; *farrapos*, a ten-year armed, separatist struggle in Rio Grande do Sul, 1835-
+1 *Balaios*, basketweavers, who lent the name of their craft to a bloody rising in Maranhão that began in 1838; *cabanos*, a violent insurrection of "shack-dwellers" which erupted in Pará in 1835; *farrapos*, a ten-year armed, separatist struggle in Rio Grande do Sul, 1835-
 
-| 45,<br>informally<br>know<br>as<br>the<br>War<br>of<br>the<br>Praieira<br>[The<br>Beach<br>Revolution]<br>of<br>1848-50. | Ragamuffins; | and | the | Pernambucan | Revolução |
+| 45,
+informally
+know
+as
+the
+War
+of
+the
+Praieira
+[The
+Beach
+Revolution]
+of
+1848-50. | Ragamuffins; | and | the | Pernambucan | Revolução |
 |--------------------------------------------------------------------------------------------------------------------------|--------------|-----|-----|-------------|-----------|
 | | | | | | |
 | | | | | | |
@@ -400,7 +407,7 @@ In sixty years, from the 1820s to the 1880s, there was a massive concentration o
 
 The continuous expansion of the coffee plantations, fueled by the steady increase in international demand, caused the problem of labor supply to be particularly acute in those areas. However, if the great plantations continued to be dependent on slave labor, in the cities the free worker was replacing the slave. And it was exactly among the urban population, less and less dependent on slave labor, that the abolitionists would find their main support.
 
-<sup>1</sup> The currency of the Brazilian Empire was the real (plural réis). A thousand réis was one mil-réis. A conto was one thousand mil-réis, or one million réis.
+1 The currency of the Brazilian Empire was the real (plural réis). A thousand réis was one mil-réis. A conto was one thousand mil-réis, or one million réis.
 
 #### [39] CHAPTER 4
 
@@ -905,7 +912,7 @@ History would consecrate the names of Joaquim Nabuco, Luiz Gama, José do Patroc
 
 Comparing the lives of Joaquim Nabuco, Luiz Gama, André Rebouças, and many other abolitionist leaders recruited among the elites, to which they belonged either by birthright like Nabuco or by acquired right like Gama, it is clear that, despite the many individual differences, they had much in common, even if their origins were diverse. They all belonged to more or less the same age group, beginning their public lives in the 1870s, during the period of the ostracism of the Liberal Party, when the reformist movement began. All of them, one way or another, were affected by the reformist discourse that took [108] shape during that time, in response to the social and economic transformations of the second half of the nineteenth century, but also in response to the political crisis set in motion by the fall of the Zacarias ministry and the ascension of the Conservatives. They all were tossed about by the dizzying ups and downs of politics. Their successes and failures depended heavily on the patronage they received or failed to receive — from the figures of the oligarchy who moved in and out of power. They all maintained an ambiguous relationship with those oligarchs, finding in abolitionism not just a form of political identity but a way of criticizing the elites. For some, abolitionism was a matter of inspiration, for others, it was a political instrument. For some, abolition brought them an audience, for others, it provided a supporting electorate. But for all of them it was a mode of condemning the "backwardness and ignorance" of Brazilian society and of identifying themselves with the "progress and civilization" of Europe. By becoming abolitionists, they made themselves the standard-bearers of "progress" in Brazil. But if their role in the movement for abolition was important, perhaps more important still was the part played by innumerable others, black and white, free and slave, who fought anonymously for the cause of liberation.
 
-<sup>1</sup> The Portuguese word is "bode", a male goat. In Brazil, during this period, it was a slang expression that referred rudely to a person of mixed race.
+1 The Portuguese word is "bode", a male goat. In Brazil, during this period, it was a slang expression that referred rudely to a person of mixed race.
 
 #### [109] CHAPTER 9
 
@@ -997,7 +1004,7 @@ manumissions — not counting many others that had not been formalized. Runaway 
 
 In spite of everything, some planters still hoped to be able to deter the march of the process by resorting to police coercion and repression. They insisted that the government take measures to suppress the agitation. Others, however, came to the conclusion that emancipation was the best option. During 1887, planters came together everywhere to discuss the situation and to propose solutions.
 
-More than a hundred planters of Campinas and Itu signed a statement expressing their concern, and sent it to a known spokesman of the interests of the slaveholders in the Chamber of Deputies, Andrade Figueira. So severe was the unrest, they said, that they could no longer trust in the diligence of the provincial government, let alone in its shrinking legal capabilities. After voicing their shock at the provincial government — which they [120] believed was doing nothing to prevent fugitive slaves from settling in Cubatão — they asked that "prompt and energetic steps" be taken to restore these fugitives to their rightful owners. They also wanted something done to contain the "criminal excesses of the anarchists and orators at *meetings*".<sup>1</sup>
+More than a hundred planters of Campinas and Itu signed a statement expressing their concern, and sent it to a known spokesman of the interests of the slaveholders in the Chamber of Deputies, Andrade Figueira. So severe was the unrest, they said, that they could no longer trust in the diligence of the provincial government, let alone in its shrinking legal capabilities. After voicing their shock at the provincial government — which they [120] believed was doing nothing to prevent fugitive slaves from settling in Cubatão — they asked that "prompt and energetic steps" be taken to restore these fugitives to their rightful owners. They also wanted something done to contain the "criminal excesses of the anarchists and orators at *meetings*".1
 
 At the same time that Andrade Figueira laid this statement before the Chamber of Deputies, Afonso Celso brought before the chamber another representation written under a quite different impulse. It recognized that the authorities were impotent in face of the current abuses. The people who owned slaves were an insignificant minority, and the large majority was indifferent to the violation of slaveowners' property rights. Thus, governmental authority felt itself too weak to maintain an odious institution "that only the needs of one class justified". This representation pointed out that resistance to the idea of abolition was producing only opposite effects, and that the planters were, little by little, losing the moral support of the rest of the population. It recommended that concessions be made, since whatever was not spontaneously conceded would probably be taken by the slavers, and at the cost of popular conflict and delirium. The statement ended by suggesting that all the slaveholders grant freedom to their slaves, providing that they continue working on their plantations until December 31, 1890.
 
@@ -1099,7 +1106,7 @@ After abolition, the freed people were forgotten. Except for a few isolated voic
 
 In the years that followed abolition, the freed people's dreams of liberation were transformed into nightmares because of the miseries they had to confront. They soon recognized that their struggle had only begun. It would be up to them to organize to reach their objectives. Emancipation was only the first step toward liberty. Many years after the end of slavery, the echo of its frustration could still be heard. In 1972, a workers' leader interviewed in Pernambuco by the social scientist Leite Lopes commented that the enslavement of blacks had ended, "but that of the worker, of the poor, still continues".
 
-<sup>1</sup> Batuques cateretês were communal dances to drums; congos or congadas were traditional dramatic dances representing a Congolese coronation ceremony.
+1 Batuques cateretês were communal dances to drums; congos or congadas were traditional dramatic dances representing a Congolese coronation ceremony.
 
 ## [137] CHRONOLOGY
 
@@ -1174,7 +1181,7 @@ STEIN, Stanley. Grandeza e decadência do café no Vale do Paraíba. [Grandeur a
 
 #### ABOUT THE BOOK [Printed Version]
 
-Format: 14 x 21 cm Full measure: 23 x 42 paicas Type style: Goudy Old Style 11/13 Paper: Pólen Soft 80 g/m<sup>2</sup> Cartão Supremo 250 g/m<sup>2</sup> (cover) 1st edition Editora Unesp: 2013 1st edition Editora Unesp Digital: 2017
+Format: 14 x 21 cm Full measure: 23 x 42 paicas Type style: Goudy Old Style 11/13 Paper: Pólen Soft 80 g/m2 Cartão Supremo 250 g/m2 (cover) 1st edition Editora Unesp: 2013 1st edition Editora Unesp Digital: 2017
 
 #### THE STAFF
 

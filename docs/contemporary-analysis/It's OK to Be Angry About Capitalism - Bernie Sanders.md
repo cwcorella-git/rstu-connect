@@ -1,3 +1,8 @@
+---
+title: "ITSOK TOBE ANGRY ABOUNT"
+category: "contemporary-analysis"
+---
+
 # ITSOK TOBE ANGRY ABOUNT
 
 # CAPITALISM
@@ -12,7 +17,7 @@
 
 Bernie Sanders is serving his third term in the U. S. Senate and is the longest-serving Independent member of Congress in American history. As Chairman of the Budget Committee, he helped write the \$1.9 trillion American Rescue Plan, one of the most significant pieces of legislation in modern American history. Now, as the newly elected Chairman of the Health, Education, Labor and Pensions Committee (HELP), Sanders will be in an even stronger position to continue his leadership on the fight for Medicare for All, for combating climate change, and for making public colleges and universities tuition free.
 
-#### B<sup>Y</sup> BERNIE SANDERS
+#### BY BERNIE SANDERS
 
 *Our Revolution Where We Go from Here It's OK to Be Angry About Capitalism*
 
@@ -2015,7 +2020,7 @@ In order to avoid duplication and turf wars, we should create a new cabinet-leve
 
 I share the view of Annette Bernhardt, the director of the Low-Wage Work Program at the UC-Berkeley Center for Labor Research and Education, who argues that "our collective task is to develop a transparent public policy framework for assessing the impact of emerging technologies, mitigating negative effects where they occur, and prioritizing innovation that truly contributes to the social good. Of particular importance will be to include the interests of workers and their communities—especially low-income communities and communities of color—in the development of that framework. A public policy response to new technologies need not be antiinnovation; automation and displacement are not the only path and our goal should be to leverage technology to build an economy that works for everyone."
 
-#### **2. BREAK 'E<sup>M</sup> UP!**
+#### **2. BREAK 'EM UP!**
 
 In order to assure that public health, public safety, and consumer and environmental protections are not just retained but adapted to a new economy, and that workers are protected in that economy, we have to step up anti-trust regulation and prosecution. Law professor Zephyr Teachout, an expert on corporate monopolies and the author of the book *Break 'Em Up,* told the House Judiciary Committee's Subcommittee on Antitrust, Commercial and Administrative Law in 2020 that "Amazon, Google, and Facebook play a grossly outsized role in the basic public functions of our society and have become unelected, unaccountable, and self-serving heads of a planned economy—planned by them."
 
@@ -2063,7 +2068,7 @@ The world is not quite where John Maynard Keynes imagined in his 1930 essay "Eco
 
 which predicted that economic and technological progress would by the early twenty-first century lead to a fifteen-hour week. But if we make the right choices and investments, we might get to the place where, as Keynes suggested, "for the first time since his creation, man will be faced with his real, his permanent problem—how to use his freedom from pressing economic cares, how to occupy the leisure, which science and compound interest will have won for him, to live wisely and agreeably and well."
 
-#### **5. MEDICARE FOR ALL, FREE COLLEGE EDUCATION, AND EXPANDED SOCIAL SECURITY MUST B<sup>E</sup> GUARANTEED**
+#### **5. MEDICARE FOR ALL, FREE COLLEGE EDUCATION, AND EXPANDED SOCIAL SECURITY MUST BE GUARANTEED**
 
 European countries, which have far better developed social-welfare states than the United States, are already developing plans for how to expand and enhance programs that provide health care, education, and pensions so that they can keep up with the new economy. In the United States, this time of economic transition can also be a time for catching up—and perhaps even getting ahead of the rest of the world when it comes to providing for basic needs.
 

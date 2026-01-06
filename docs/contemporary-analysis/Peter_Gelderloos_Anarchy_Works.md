@@ -1,3 +1,8 @@
+---
+title: "Anarchy Works"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 # Anarchy Works
@@ -63,38 +68,691 @@ Although this book started out as an individual project, in the end a great many
 | What about technology? | 102 |
 ## | How will exchange work? | 108 |
 
-| h<br>b<br>l<br>h<br>l<br>l<br>t<br>t<br>t<br>i<br>t<br>W<br>a<br>a<br>o<br>u<br>p<br>e<br>o<br>p<br>e<br>o<br>s<br>a<br>n<br>a<br>w<br>w | |
+| h
+b
+l
+h
+l
+l
+t
+t
+t
+i
+t
+W
+a
+a
+o
+u
+p
+e
+o
+p
+e
+o
+s
+a
+n
+a
+w
+w | |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
-| l<br>f<br>l<br>?<br>i<br>t<br>i<br>t<br>c<br>o<br>n<br>s<br>u<br>m<br>e<br>r<br>s<br>e<br>s<br>e<br>y | 1<br>1<br>1 |
-| h<br>b<br>b<br>l<br>d<br>d<br>l<br>i<br>i<br>i<br>i<br>W<br>t<br>t<br>a<br>a<br>o<br>u<br>u<br>n<br>g<br>a<br>n<br>o<br>r<br>g<br>a<br>n<br>z<br>n<br>g<br>a<br>r<br>g<br>e<br>, | |
-| d<br>f<br>?<br>i<br>t<br>t<br>t<br>s<br>p<br>r<br>e<br>a<br>o<br>u<br>n<br>r<br>a<br>s<br>r<br>u<br>c<br>u<br>r<br>e<br>- | 1<br>1<br>2 |
-| l<br>l<br>k<br>?<br>i<br>i<br>i<br>H<br>t<br>o<br>w<br>w<br>c<br>e<br>s<br>w<br>o<br>r | 1<br>1<br>8 |
-| h<br>b<br>d<br>h<br>f<br>i<br>W<br>t<br>t<br>t<br>a<br>a<br>o<br>u<br>r<br>o<br>u<br>g<br>a<br>m<br>n<br>e<br>,<br>, | |
-| h<br>h<br>?<br>t<br>t<br>t<br>o<br>r<br>o<br>e<br>r<br>c<br>a<br>a<br>s<br>r<br>o<br>p<br>e<br>s | 1<br>2<br>8 |
-| d<br>h<br>k<br>i<br>i<br>i<br>M<br>t<br>t<br>t<br>t<br>e<br>e<br>n<br>g<br>o<br>u<br>r<br>n<br>e<br>e<br>s<br>w<br>o<br>u<br>e<br>e<br>p<br>n<br>g<br>c<br>o<br>u<br>n | 1<br>2<br>9 |
-| 4<br>E<br>i<br>t<br>n<br>v<br>r<br>o<br>n<br>m<br>e<br>n | |
-| h<br>f<br>d<br>'<br>i<br>W<br>t<br>t<br>t<br>t<br>a<br>s<br>o<br>s<br>o<br>p<br>s<br>o<br>m<br>e<br>o<br>n<br>e<br>r<br>o<br>m<br>e<br>s<br>r<br>o<br>y<br>n<br>g | |
-| h<br>?<br>i<br>t<br>t<br>e<br>e<br>n<br>v<br>r<br>o<br>n<br>m<br>e<br>n | 1<br>3<br>4 |
-| h<br>b<br>l<br>b<br>l<br>l<br>i<br>W<br>t<br>t<br>t<br>a<br>a<br>o<br>u<br>g<br>o<br>a<br>e<br>n<br>v<br>r<br>o<br>n<br>m<br>e<br>n<br>a | |
-| b<br>l<br>l<br>k<br>l<br>h<br>?<br>i<br>i<br>t<br>p<br>r<br>o<br>e<br>m<br>s<br>e<br>c<br>m<br>a<br>e<br>c<br>a<br>n<br>g<br>e<br>, | 1<br>4<br>3 |
-| h<br>l<br>h<br>l<br>T<br>t<br>t<br>t<br>e<br>o<br>n<br>y<br>w<br>a<br>y<br>o<br>s<br>a<br>v<br>e<br>e<br>p<br>a<br>n<br>e | 1<br>4<br>8 |
-| 5<br>C<br>i<br>r<br>m<br>e | |
-| h<br>l<br>l<br>h<br>l<br>?<br>i<br>i<br>i<br>W<br>t<br>t<br>t<br>t<br>o<br>w<br>p<br>r<br>o<br>e<br>c<br>u<br>s<br>w<br>o<br>u<br>p<br>o<br>c<br>e | 1<br>5<br>2 |
-| h<br>b<br>d<br>b<br>l<br>l<br>?<br>i<br>W<br>t<br>t<br>a<br>a<br>o<br>u<br>g<br>a<br>n<br>g<br>s<br>a<br>n<br>u<br>e<br>s | 1<br>6<br>5 |
-| h<br>f<br>k<br>l<br>l<br>l<br>?<br>'<br>i<br>i<br>W<br>t<br>t<br>t<br>a<br>s<br>o<br>s<br>o<br>p<br>s<br>o<br>m<br>e<br>o<br>n<br>e<br>r<br>o<br>m<br>n<br>g<br>p<br>e<br>o<br>p<br>e | 6<br>1<br>8 |
-| h<br>b<br>d<br>l<br>d<br>h<br>W<br>t<br>t<br>t<br>i<br>i<br>t<br>a<br>a<br>o<br>u<br>r<br>a<br>p<br>e<br>o<br>m<br>e<br>s<br>c<br>o<br>e<br>n<br>c<br>e<br>a<br>n<br>o<br>e<br>r<br>v<br>,<br>, | |
-| f<br>f<br>l<br>h<br>?<br>i<br>o<br>r<br>m<br>s<br>o<br>s<br>o<br>c<br>a<br>a<br>r<br>m | 1<br>7<br>0 |
-| d<br>d<br>d<br>l<br>B<br>i<br>i<br>i<br>j<br>t<br>i<br>e<br>o<br>n<br>n<br>u<br>a<br>u<br>s<br>c<br>e<br>y<br>v | 1<br>7<br>8 |
-| 6<br>R<br>l<br>i<br>t<br>e<br>o<br>o<br>n<br>v<br>u | |
-| l<br>d<br>l<br>d<br>h<br>l<br>l<br>b<br>l<br>i<br>i<br>t<br>i<br>H<br>o<br>c<br>o<br>u<br>p<br>e<br>o<br>p<br>e<br>o<br>r<br>g<br>a<br>n<br>e<br>o<br>r<br>o<br>n<br>a<br>p<br>o<br>s<br>s<br>w<br>z<br>z<br>y<br>y | |
-| h<br>?<br>t<br>t<br>t<br>o<br>e<br>r<br>c<br>o<br>m<br>e<br>e<br>s<br>a<br>e<br>v | 1<br>8<br>4 |
-| d<br>k<br>l<br>b<br>'<br>i<br>i<br>H<br>t<br>t<br>o<br>w<br>o<br>w<br>e<br>n<br>o<br>w<br>r<br>e<br>v<br>o<br>u<br>o<br>n<br>a<br>r<br>e<br>s<br>w<br>o<br>n<br>e<br>c<br>o<br>m<br>e | |
-| h<br>?<br>i<br>i<br>t<br>t<br>n<br>e<br>w<br>a<br>u<br>o<br>r<br>e<br>s | 2<br>0<br>3 |
+| l
+f
+l
+?
+i
+t
+i
+t
+c
+o
+n
+s
+u
+m
+e
+r
+s
+e
+s
+e
+y | 1
+1
+1 |
+| h
+b
+b
+l
+d
+d
+l
+i
+i
+i
+i
+W
+t
+t
+a
+a
+o
+u
+u
+n
+g
+a
+n
+o
+r
+g
+a
+n
+z
+n
+g
+a
+r
+g
+e
+, | |
+| d
+f
+?
+i
+t
+t
+t
+s
+p
+r
+e
+a
+o
+u
+n
+r
+a
+s
+r
+u
+c
+u
+r
+e
+- | 1
+1
+2 |
+| l
+l
+k
+?
+i
+i
+i
+H
+t
+o
+w
+w
+c
+e
+s
+w
+o
+r | 1
+1
+8 |
+| h
+b
+d
+h
+f
+i
+W
+t
+t
+t
+a
+a
+o
+u
+r
+o
+u
+g
+a
+m
+n
+e
+,
+, | |
+| h
+h
+?
+t
+t
+t
+o
+r
+o
+e
+r
+c
+a
+a
+s
+r
+o
+p
+e
+s | 1
+2
+8 |
+| d
+h
+k
+i
+i
+i
+M
+t
+t
+t
+t
+e
+e
+n
+g
+o
+u
+r
+n
+e
+e
+s
+w
+o
+u
+e
+e
+p
+n
+g
+c
+o
+u
+n | 1
+2
+9 |
+| 4
+E
+i
+t
+n
+v
+r
+o
+n
+m
+e
+n | |
+| h
+f
+d
+'
+i
+W
+t
+t
+t
+t
+a
+s
+o
+s
+o
+p
+s
+o
+m
+e
+o
+n
+e
+r
+o
+m
+e
+s
+r
+o
+y
+n
+g | |
+| h
+?
+i
+t
+t
+e
+e
+n
+v
+r
+o
+n
+m
+e
+n | 1
+3
+4 |
+| h
+b
+l
+b
+l
+l
+i
+W
+t
+t
+t
+a
+a
+o
+u
+g
+o
+a
+e
+n
+v
+r
+o
+n
+m
+e
+n
+a | |
+| b
+l
+l
+k
+l
+h
+?
+i
+i
+t
+p
+r
+o
+e
+m
+s
+e
+c
+m
+a
+e
+c
+a
+n
+g
+e
+, | 1
+4
+3 |
+| h
+l
+h
+l
+T
+t
+t
+t
+e
+o
+n
+y
+w
+a
+y
+o
+s
+a
+v
+e
+e
+p
+a
+n
+e | 1
+4
+8 |
+| 5
+C
+i
+r
+m
+e | |
+| h
+l
+l
+h
+l
+?
+i
+i
+i
+W
+t
+t
+t
+t
+o
+w
+p
+r
+o
+e
+c
+u
+s
+w
+o
+u
+p
+o
+c
+e | 1
+5
+2 |
+| h
+b
+d
+b
+l
+l
+?
+i
+W
+t
+t
+a
+a
+o
+u
+g
+a
+n
+g
+s
+a
+n
+u
+e
+s | 1
+6
+5 |
+| h
+f
+k
+l
+l
+l
+?
+'
+i
+i
+W
+t
+t
+t
+a
+s
+o
+s
+o
+p
+s
+o
+m
+e
+o
+n
+e
+r
+o
+m
+n
+g
+p
+e
+o
+p
+e | 6
+1
+8 |
+| h
+b
+d
+l
+d
+h
+W
+t
+t
+t
+i
+i
+t
+a
+a
+o
+u
+r
+a
+p
+e
+o
+m
+e
+s
+c
+o
+e
+n
+c
+e
+a
+n
+o
+e
+r
+v
+,
+, | |
+| f
+f
+l
+h
+?
+i
+o
+r
+m
+s
+o
+s
+o
+c
+a
+a
+r
+m | 1
+7
+0 |
+| d
+d
+d
+l
+B
+i
+i
+i
+j
+t
+i
+e
+o
+n
+n
+u
+a
+u
+s
+c
+e
+y
+v | 1
+7
+8 |
+| 6
+R
+l
+i
+t
+e
+o
+o
+n
+v
+u | |
+| l
+d
+l
+d
+h
+l
+l
+b
+l
+i
+i
+t
+i
+H
+o
+c
+o
+u
+p
+e
+o
+p
+e
+o
+r
+g
+a
+n
+e
+o
+r
+o
+n
+a
+p
+o
+s
+s
+w
+z
+z
+y
+y | |
+| h
+?
+t
+t
+t
+o
+e
+r
+c
+o
+m
+e
+e
+s
+a
+e
+v | 1
+8
+4 |
+| d
+k
+l
+b
+'
+i
+i
+H
+t
+t
+o
+w
+o
+w
+e
+n
+o
+w
+r
+e
+v
+o
+u
+o
+n
+a
+r
+e
+s
+w
+o
+n
+e
+c
+o
+m
+e | |
+| h
+?
+i
+i
+t
+t
+n
+e
+w
+a
+u
+o
+r
+e
+s | 2
+0
+3 |
 
-| How will communities decide to organize<br>themselves at first? | |
+| How will communities decide to organize
+themselves at first? | |
 |-----------------------------------------------------------------|-----|
 | 218 | |
-| How will reparations for past oppressions be<br>worked out? | 223 |
+| How will reparations for past oppressions be
+worked out? | 223 |
 | How will a common, anti-authoritarian, | |
 | ecological ethos come about? | 226 |
 | A revolution that is many revolutions | 238 |
@@ -248,9 +906,9 @@ The traditional society of the Semai, in Malaya, is based on giftgiving rather t
 
 Many other societies have also distributed and exchanged surpluses as gifts. Aside from the social cohesion and joy that is gained from sharing with your community without greedily keeping
 
-<sup>2</sup>"The Really Really Free Market: Instituting the Gift Economy," *Rolling Thunder*, No. 4 Spring 2007, p. 34.
+2"The Really Really Free Market: Instituting the Gift Economy," *Rolling Thunder*, No. 4 Spring 2007, p. 34.
 
-<sup>3</sup> Robert K. Dentan, *The Semai: A Nonviolent People of Malaya*. New York: Holt, Rinehart and Winston, 1979, p. 48.
+3 Robert K. Dentan, *The Semai: A Nonviolent People of Malaya*. New York: Holt, Rinehart and Winston, 1979, p. 48.
 
 accounts, a gift economy can also be justified in terms of personal interests. Often, a person cannot consume what they produce all by themselves. The meat from a day's hunt will go bad before you can eat it all. A tool, like a saw, will lay unused most of the time if it is the property of a single person. It makes more sense to give away most of the meat or share your saw with your neighbors, because you are ensuring that in the future they will give extra food to you and share their tools with you—thus ensuring that you have access to more food and a wider range of tools, and you and your neighbors become richer without having to exploit anybody.
 
@@ -288,7 +946,7 @@ The Mbuti also underwent a sort of fission and fusion throughout the year. Often
 
 Unfortunately for us, neither the economic, political, or social structures of Western society are conducive to cooperation. When our jobs and social status depend on outperforming our peers, with the "losers" being fired or ostracized without regard to how it hurts their dignity or their ability to feed themselves, it's not surprising that competitive behaviors come to outnumber cooperative behaviors. But the ability to live cooperatively is not lost to people who live under the destructive influences of state and capitalism. Social cooperation is not restricted to societies like the Mbuti who inhabit one of the few remaining pockets of autonomy in the world. Living cooperatively is a possibility for all of us right now.
 
-Earlier this decade, in one of the most individualistic and competitive societies in human history, state authority collapsed for a time in one city. Yet in this period of catastrophe, with hundreds of people dying and resources necessary for survival sorely limited, strangers came together to assist one another in a spirit of mutual aid. The city in question is New Orleans, after Hurricane Katrina struck in 2005. Initially, the corporate media spread racist stories of savagery committed by the mostly black survivors, and police and national guard troops performing heroic rescues while fighting off roving bands of looters. It was later admitted that these stories were false. In fact, the vast majority of rescues were carried out not by police and professionals, but by common New Orleans residents, often in defiance of the orders of authorities.<sup>5</sup> The police, meanwhile, were murdering people who were salvaging drinking water, diapers, and other living supplies from abandoned grocery stores, supplies that would otherwise have been ultimately thrown away because contamination from floodwaters had made them unsalable.
+Earlier this decade, in one of the most individualistic and competitive societies in human history, state authority collapsed for a time in one city. Yet in this period of catastrophe, with hundreds of people dying and resources necessary for survival sorely limited, strangers came together to assist one another in a spirit of mutual aid. The city in question is New Orleans, after Hurricane Katrina struck in 2005. Initially, the corporate media spread racist stories of savagery committed by the mostly black survivors, and police and national guard troops performing heroic rescues while fighting off roving bands of looters. It was later admitted that these stories were false. In fact, the vast majority of rescues were carried out not by police and professionals, but by common New Orleans residents, often in defiance of the orders of authorities.5 The police, meanwhile, were murdering people who were salvaging drinking water, diapers, and other living supplies from abandoned grocery stores, supplies that would otherwise have been ultimately thrown away because contamination from floodwaters had made them unsalable.
 
 5 Amy Goodman, "Louisiana Official: Federal Gov't Abandoned New Orleans," Democracy Now, September 7, 2005. Fox News, CNN, and The New York Times all falsely reported murders and roving gangs of rapists in the Superdome, where refugees gathered during the storm. (Aaron Kinney, "Hurricane Horror Stories," Salon.com)
 
@@ -316,7 +974,7 @@ Initially, Pocasset was organized through elected councils and the people refuse
 
 Outside of Western civilization we can find many examples of non-patriarchal societies. Some stateless societies intentionally preserve gender fluidity, like the Mbuti described previously. Many societies accept fixed genders and division of roles between men and women, but seek to preserve equality between these roles. Several of these societies allow transgender expressions individuals changing their gender or adopting a unique gender identity. In hunter-gatherer societies "a sharp and hard division of labor between the sexes is not universal… [and in the case of one particular society] virtually every subsistence activity can be, and often is, performed by either men or women".7
 
-<sup>7</sup> Roger M. Keesing, Andrew J. Strathern, *Cultural Anthropology: A Contemporary Perspective*, 3rd Edition, New York: Harcourt Brace &
+7 Roger M. Keesing, Andrew J. Strathern, *Cultural Anthropology: A Contemporary Perspective*, 3rd Edition, New York: Harcourt Brace &
 
 The Igbo of western Africa had separate spheres of activity for men and women. Women were responsible for certain economic tasks and men for others, and each group held power autonomously over their sphere. These spheres designated who produced which goods, domesticated which animals, and took which responsibilities in the garden and market. If a man interfered in the women's sphere of activity or abused his wife, the women had a ritual of collective solidarity that preserved the balance and punished the offender, called "sitting on a man." All the women would assemble outside the man's house, yelling at him and insulting him in order to cause him shame. If he did not come out to apologize the mob of women might destroy the fence around his house and his outlying storage buildings. If his offense were grievous enough, the women might even storm into his house, drag him out, and beat him up. When the British colonized the Igbo, they recognized men's institutions and economic roles, but ignored or were blind to the corresponding women's sphere of social life. When Igbo women responded to British indecency with the traditional practice of "sitting on a man," the British, possibly mistaking it for a women's insurrection, opened fire, putting an end to the gender-balancing ritual and cementing the institution of patriarchy in the society they had colonized.8
 
@@ -324,7 +982,7 @@ The Haudennosaunne, called the Iroquois by Europeans, are a matrilineal egalitar
 
 Company, 1998, p 83.
 
-<sup>8</sup> Judith Van Allen " 'Sitting On a Man': Colonialism and the Lost Political Institutions of Igbo Women." *Canadian Journal of African Studies*. Vol. ii, 1972, pp. 211-219.
+8 Judith Van Allen " 'Sitting On a Man': Colonialism and the Lost Political Institutions of Igbo Women." *Canadian Journal of African Studies*. Vol. ii, 1972, pp. 211-219.
 
 Haudennosaunne functions to preserve a balance, assigning each group autonomous niches and powers, and allowing a greater degree of movement between genders than is considered possible in Western society. For hundreds of years the Haudennosaunne have coordinated between multiple nations using a federative structure, and at each level of organization there were women's councils and men's councils. At what might be called the national level, which concerned itself with matters of war and peace, the men's council made the decisions, though the women held a veto power. At the local level, women held more influence. The basic socio-economic unit, the longhouse, was considered to belong to the women, and men had no council at this level. When a man married a woman, he moved into her house. Any man who did not behave could ultimately be kicked out of the longhouse by the women.
 
@@ -348,9 +1006,9 @@ The Catholic Worker movement began in the United States in 1933 as a response to
 
 How peaceful a society could we create if we overcame the belligerence of governments and fostered new norms in our culture? The Semai, agriculturalists in Malaya, offer one indication. Their murder rate is only 0.56/100,000 per year, compared with 0.86 in Norway, 6.26 in the US, and 20.20 in Russia.11 This may be
 
-<sup>10 &</sup>quot;The Aims and Means of the Catholic Worker," *The Catholic Worker*, May 2008.
+10 &quot;The Aims and Means of the Catholic Worker," *The Catholic Worker*, May 2008.
 
-<sup>11</sup> Graham Kemp and Douglas P. Fry (eds.), *Keeping the Peace: Conflict Resolution and Peaceful Societies around the World*, New York: Routledge, 2004. Semai murder rate, p. 191, other murder rates p. 149. The low Norwegian murder rate shows that industrial societies can also be peaceful. It should be noted that Norway has one of the lowest wealth gaps of any capitalist country, and also a low reliance on police and prisons. The majority of civil disputes and many criminal cases in Norway are settled through mediation (p. 163).
+11 Graham Kemp and Douglas P. Fry (eds.), *Keeping the Peace: Conflict Resolution and Peaceful Societies around the World*, New York: Routledge, 2004. Semai murder rate, p. 191, other murder rates p. 149. The low Norwegian murder rate shows that industrial societies can also be peaceful. It should be noted that Norway has one of the lowest wealth gaps of any capitalist country, and also a low reliance on police and prisons. The majority of civil disputes and many criminal cases in Norway are settled through mediation (p. 163).
 
 related to their childrearing strategy: traditionally the Semai do not hit their children, and respect for their children's autonomy is a normalized value in their society. One of the few occasions in which Semai adults will typically intervene is when children lose their tempers or fight one another, in which case nearby adults will snatch up the children and take them to their respective houses. The major forces that uphold Semai peacefulness seem to be an emphasis on learning self-control and the great importance accorded to public opinion in a cooperative society.
 
@@ -360,7 +1018,7 @@ According to Robert Dentan, a Western anthropologist who lived with them, "littl
 
 Nowadays, it is harder to make ideological justifications for the state. A massive body of research demonstrates that many human societies have been staunchly egalitarian, and that even within capitalism many people continue to form egalitarian networks and communities. In order to reconcile this with their view that evolution is a matter of fierce competition, some scientists have
 
-<sup>12</sup> Robert K. Dentan, *The Semai: A Nonviolent People of Malaya*. New York: Holt, Rinehart and Winston, 1979, p. 59.
+12 Robert K. Dentan, *The Semai: A Nonviolent People of Malaya*. New York: Holt, Rinehart and Winston, 1979, p. 59.
 
 postulated a "human egalitarian syndrome," theorizing that humans evolved to live in close-knit, homogenous groups, in which the passing on of members' genes was not assured by the survival of the individual but by the survival of the group.
 
@@ -370,7 +1028,7 @@ This is not to say that domination and authority were unnatural, and that techno
 
 Humans are capable of both authoritarian and anti-authoritarian behavior. Horizontal societies that were not intentionally anti-
 
-<sup>13</sup> Dmitri M. Bondarenko and Andrey V. Korotayev, *Civilizational Models of Politogenesis*, Moscow: Russian Academy of Sciences, 2000.
+13 Dmitri M. Bondarenko and Andrey V. Korotayev, *Civilizational Models of Politogenesis*, Moscow: Russian Academy of Sciences, 2000.
 
 authoritarian could easily have developed coercive hierarchies when new technologies made that possible, and even without a lot of technology they could make life hell for groups considered inferior. It seems that the most common forms of inequality among otherwise egalitarian societies were gender and age discrimination, which could accustom a society to inequality and create the prototype for a power structure—rule by male elders. This structure could become more powerful over time with the development of metal tools and weapons, surpluses, cities, and the like.
 
@@ -378,7 +1036,7 @@ The point, though, is that these forms of inequality were not inevitable. Societ
 
 What are the factors that allow societies to avoid domination and coercive authority? A study by Christopher Boehm, surveying dozens of egalitarian societies on all continents, including peoples who lived as foragers, horticulturalists, agriculturalists, and pastoralists, found that the common factor is a conscious desire to remain egalitarian: an anti-authoritarian culture. "The primary and most immediate cause of egalitarian behavior is a moralistic determination on the part of a local group's main political actors that no one of its members should be allowed to dominate the
 
-<sup>14</sup> Harold Barclay, *People without Government: An Anthropology of Anarchy*, London: Kahn and Averill, 1982, p. 98.
+14 Harold Barclay, *People without Government: An Anthropology of Anarchy*, London: Kahn and Averill, 1982, p. 98.
 
 others."15 Rather than culture being determined by material conditions, it seems that culture shapes the social structures that reproduce a people's material conditions.
 
@@ -386,7 +1044,7 @@ In certain situations some form of leadership is inevitable, as some people have
 
 If these social pressures do not work, the sanctions escalate, and in many egalitarian societies they will eventually kick out or kill a leader who is incurably authoritarian, long before that leader is able to assume coercive powers. These "reverse dominance hierarchies," in which the leaders must obey popular will because they are powerless to maintain their positions of leadership without support, have appeared in many different societies and functioned over long periods of time. Some of the egalitarian societies documented in Boehm's survey have a chief or a shaman who plays a ritual role or acts as an impartial mediator in disputes; others appoint a leader
 
-<sup>15</sup> Christopher Boehm, "Egalitarian Behavior and Reverse Dominance Hierarchy," *Current Anthropology*, Vol. 34, No. 3, June 1993.
+15 Christopher Boehm, "Egalitarian Behavior and Reverse Dominance Hierarchy," *Current Anthropology*, Vol. 34, No. 3, June 1993.
 
 in times of trouble, or have a peace chief and a war chief. But these positions of leadership are not coercive, and over hundreds of years have not developed into authoritarian roles. Often the people who fill these roles see them as a temporary social responsibility, which they wish to hand off swiftly because of the higher level of criticism and responsibility they face while occupying them.
 
@@ -418,7 +1076,7 @@ The anti-globalization movement can be contrasted with the anti-war movement tha
 
 The anti-war movement could not stop the occupation of Iraq, or even sustain itself, because people are neither empowered nor fulfilled by passively participating in symbolic spectacles. In contrast, the effectiveness of decentralized networks can be seen in the many victories of the anti-globalization movement: the summits shut down, the collapse of the WTO and FTAA, the dramatic scaling back of the IMF and World Bank.16 This non-hierarchical
 
-<sup>16</sup> The victories of the movement and the failure of the IMF and World Bank are argued by David Graeber in "The Shock of Victory," *Rolling* 
+16 The victories of the movement and the failure of the IMF and World Bank are argued by David Graeber in "The Shock of Victory," *Rolling* 
 
 movement demonstrated that people desire to free themselves from domination, and that they have the ability to cooperate in an anti-authoritarian manner even in large groups of strangers from different nations and cultures.
 
@@ -434,7 +1092,7 @@ The Hill People have an interesting relationship with the surrounding states. Th
 
 Far from being a necessary social advancement that people readily accept, the state is an imposition that many people try to flee. A proverb from the Burmese encapsulates this: "It is easy for a subject to find a lord, but hard for a lord to find a subject." In Southeast Asia, until recently, the primary goal of warfare was not to capture territory but to capture subjects, as people frequently ran for the hills to create egalitarian societies.17 It is ironic that so many of us are convinced we have an essential need for the state, when in fact it is the state that needs us.
 
-<sup>17</sup> The paragraphs regarding the Hill People and Southeast Asia are based on James C. Scott, "Civilizations Can't Climb Hills: A Political History of Statelessness in Southeast Asia," lecture at Brown University, Providence, Rhode Island, February 2, 2005.
+17 The paragraphs regarding the Hill People and Southeast Asia are based on James C. Scott, "Civilizations Can't Climb Hills: A Political History of Statelessness in Southeast Asia," lecture at Brown University, Providence, Rhode Island, February 2, 2005.
 
 #### A broader sense of self
 
@@ -490,7 +1148,7 @@ One of the most well known anarchist histories is that of the Spanish Civil War.
 
 In these stateless areas of the Spanish countryside in 1936, peasants organized themselves according to principles of communism, collectivism, or mutualism according to their preferences and local conditions. They formed thousands of
 
-<sup>18</sup> Alan Mac Simoin, "The Korean Anarchist Movement," a talk in Dublin, September 1991. Mac Simoin references *Ha Ki-Rak, A History of the Korean Anarchist Movement*, 1986.
+18 Alan Mac Simoin, "The Korean Anarchist Movement," a talk in Dublin, September 1991. Mac Simoin references *Ha Ki-Rak, A History of the Korean Anarchist Movement*, 1986.
 
 collectives, especially in Aragon, Catalunya, and Valencia. Some abolished all money and private property; some organized quota systems to ensure that everyone's needs were met. The diversity of forms they developed is a testament to the freedom they created themselves. Where once all these villages were mired in the same stifling context of feudalism and developing capitalism, within months of overthrowing government authority and coming together in village assemblies, they gave birth to hundreds of different systems, united by common values like solidarity and selforganization. And they developed these different forms by holding open assemblies and making decisions in common.
 
@@ -498,7 +1156,7 @@ The town of Magdalena de Pulpis, for example, abolished money completely. One in
 
 Other collectives worked out their own systems of exchange. They issued local money in the form of vouchers, tokens, rationing booklets, certificates, and coupons which carried no interest and were not negotiable outside of the issuing collective. Communities that had suppressed money paid workers in coupons according to the size of the family—a "family wage" based on the needs of the family rather than the productivity of its working members. Abundant local goods like bread, wine, and olive oil were distributed freely, while other items "could be obtained by means of coupons at the communal depot. Surplus goods were exchanged
 
-<sup>19</sup> Sam Dolgoff, *The Anarchist Collectives*, New York: Free Life Editions, 1974, p. 73.
+19 Sam Dolgoff, *The Anarchist Collectives*, New York: Free Life Editions, 1974, p. 73.
 
 with other anarchist towns and villages."20 There was much experimentation with new monetary systems. In Aragon, there were hundreds of different kinds of coupon and money systems, so the Aragon Federation of Peasant Collectives unanimously decided to replace local currencies with a standard ration booklet—though each collective retained the power to decide how goods would be distributed and the amount of coupons workers would receive.
 
@@ -506,7 +1164,7 @@ All the collectives, once they had taken control of their villages, organized op
 
 At assemblies, collectives discussed problems and proposals. Many collectives elected administrative committees, generally consisting of half a dozen people, to manage affairs until the next meeting. The open assemblies allowed the inhabitants to know, to so understand, and to feel so mentally integrated in society, to so participate in the management of public affairs, in the responsibilities, that the recriminations, the tensions which always occur when the power of decision is entrusted to a few individuals… did not happen there. The assemblies were
 
-<sup>20</sup> Ditto, p. 73. The statistic on Graus comes from p. 140.
+20 Ditto, p. 73. The statistic on Graus comes from p. 140.
 
 public, the objections, the proposals publicly discussed, everybody being free, as in the syndical assemblies, to participate in the discussions, to criticize, propose, etc. Democracy extended to the whole of social life. In most cases even the individualists [locals who had not joined the collective] could take part in the deliberations. They were given the same hearing as the collectivists.21
 
@@ -516,7 +1174,7 @@ In many collectives they agreed that if a member violated a collective rule once
 
 Gaston Leval described a general assembly in the village of Tamarite de Litera, in Huesca province, which the non-collective peasants were also allowed to attend. One problem brought up at the meeting was that several peasants who had not joined the collective left their elderly parents in the care of the collective while taking their parents' land to farm as their own. The entire
 
-<sup>21</sup> Gaston Leval, *Collectives in the Spanish Revolution*, London: Freedom Press, 1975, pp. 206-207.
+21 Gaston Leval, *Collectives in the Spanish Revolution*, London: Freedom Press, 1975, pp. 206-207.
 
 group discussed the matter, and eventually decided to adopt a specific proposal: they would not kick the elderly parents out of the collective, but they wanted to hold those peasants accountable, so they decided that the latter had to take care of their parents or else receive neither solidarity nor land from the collective. In the end, a resolution agreed to by an entire community will carry more legitimacy, and is more likely to be followed, than one handed down by a specialist or a government official.
 
@@ -526,7 +1184,7 @@ The work of the collectives was conducted by teams of workers, headed by a deleg
 
 Many areas also had District Committees that pooled the resources of all the collectives in a district—basically acting as a clearinghouse to circulate surplus from the collectives that had it to other collectives that needed it. Hundreds of collectives joined federations organized through the CNT or UGT (the socialist labor union). The federations provided economic coordination, pooling resources to allow peasants to build their own fruit and vegetable canneries, gathering information about which items were in
 
-<sup>22</sup> Sam Dolgoff, *The Anarchist Collectives*, New York: Free Life Editions, 1974, p. 113.
+22 Sam Dolgoff, *The Anarchist Collectives*, New York: Free Life Editions, 1974, p. 113.
 
 abundance and which were in short supply, and organizing uniform exchange systems. This collective form of decision-making proved effective for the approximately seven to eight million peasants involved in this movement. Half the land in anti-fascist Spain three-quarters of the land in Aragon—was collectivized and selforganized.
 
@@ -548,7 +1206,7 @@ According to an MST member who worked for several years in one of the most dange
 
 The context for this watershed in the MST was the election of President Lula of the Workers Party (PT) in 2003. Previously, the MST had been autonomous: they did not cooperate with political parties or allow politicians into the organization, although many organizers used the MST to launch political careers. But with the unprecedented victory of the progressive, socialist Workers Party, the leadership of the MST tried to forbid anyone in the organization from publicly speaking out against the government's new agrarian policy. At the same time, the MST began receiving huge amounts of money from the government. Lula had promised to give land to a certain number of families and the MST leadership rushed to fill this quota and engorge their own organization, abandoning their base and their principles. Many influential MST organizers and leaders, backed by the more radical settlements, criticized this collaboration with the government and pushed for a more antiauthoritarian stance, and in fact by 2005, when the PT's agrarian
 
-<sup>23</sup> The criticisms of this and the following paragraphs are based on an interview with Marcello, "Criticisms of the MST," February 17, 2009, Barcelona.
+23 The criticisms of this and the following paragraphs are based on an interview with Marcello, "Criticisms of the MST," February 17, 2009, Barcelona.
 
 program proved to be a disappointment, the MST began fiercely challenging the government again.
 
@@ -576,15 +1234,15 @@ The APPO was born without a formal structure, but soon developed impressive orga
 
 The Provisional Coordination was created to facilitate the operation of the APPO through different commissions. A variety of commissions were established: judicial, finance, communications, human rights, gender equity, defense of natural resources, and many more.
 
-<sup>24</sup> Wikipedia, "Asamblea Popular de los Pueblos de Oaxaca," [viewed November 6, 2006]
+24 Wikipedia, "Asamblea Popular de los Pueblos de Oaxaca," [viewed November 6, 2006]
 
-Proposals are generated in smaller assemblies of each sector of the APPO and then brought to the general assembly where they are debated further or ratified.<sup>25</sup>
+Proposals are generated in smaller assemblies of each sector of the APPO and then brought to the general assembly where they are debated further or ratified.25
 
 Time and again, spontaneous popular assemblies such as the one created in Oaxaca have proved capable of making sound decisions and coordinating the activities of an entire population. Naturally, they also attract people who want to take over social movements and people who consider themselves natural leaders. In many revolutions, what begins as a horizontal, libertarian rebellion becomes authoritarian as political parties or self-appointed leaders co-opt and shut down popular decision-making structures. Highly visible participants in popular assemblies can also be pushed towards conservatism by government repression, since they are the most visible targets.
 
 This is one way to interpret dynamics that developed in the APPO after the federal invasion of Oaxaca in late October, 2006. As the repression intensified, some of the more vocal participants in the assembly began calling for moderation, to the dismay of the segments of the movement that were still in the streets. Many APPO members and movement participants complain that the group was taken over by Stalinists and other parasites who use popular movements as tools for their political ambitions. Though the APPO had always taken a stand against political parties, the self-appointed leadership took advantage of the difficult situation to call for participation in the upcoming elections as the only pragmatic course of action. Many people felt betrayed. Support for collaboration was far from universal within APPO; it was controversial even within the APPO Council (the provisional decision-making group that
 
-<sup>25</sup> Diana Denham and C. A S. A. Collective (eds.), *Teaching Rebellion: Stories from the Grassroots Mobilization in Oaxaca*, Oakland: PM Press, 2008, interview with Marcos.
+25 Diana Denham and C. A S. A. Collective (eds.), *Teaching Rebellion: Stories from the Grassroots Mobilization in Oaxaca*, Oakland: PM Press, 2008, interview with Marcos.
 
 was emerging as a leadership body). Some people within the APPO created other formations to disseminate anarchist, indigenist, or other anti-authoritarian perspectives, and many just went on with their work and ignored the calls to flock to the voting booths. In the end, the anti-authoritarian ethic that constituted the backbone of the movement and the basis of its formal structures proved stronger. The vast majority of Oaxacans boycotted the elections, and the PRI, the conservative party that already held power, dominated among the few people who came out to cast ballots. The attempt to transform the powerful, liberatory social movements of Oaxaca into a bid for political power was an absolute failure.
 
@@ -594,7 +1252,7 @@ Men, women, children, and city council members joined together to take over the 
 
 The seizing of the municipal building was totally spontaneous. The activists from before played a role and initially directed things, but the popular assembly structure was developed little by little…
 
-Neighborhood assemblies, comprised of a rotating body of five people, were also formed in each section of town and together they would form the permanent popular assembly, the People's Council of Zaachila. The people from neighborhood assemblies may not be activists at all, but little by little, as they follow their obligation to bring information back and forth from the Council, they develop their capacity for leadership. All the agreements made in the Council are studied by these five people and then brought back to the neighborhoods for review. These assemblies are completely open; anyone can attend and have their voice heard. Decisions always go to a general vote, and all the adults present can vote. For example, if some people think a bridge needs to be built, and others think we need to focus on improving electricity, we vote on what the priority should be. The simple majority wins, fifty percent plus one.<sup>26</sup>
+Neighborhood assemblies, comprised of a rotating body of five people, were also formed in each section of town and together they would form the permanent popular assembly, the People's Council of Zaachila. The people from neighborhood assemblies may not be activists at all, but little by little, as they follow their obligation to bring information back and forth from the Council, they develop their capacity for leadership. All the agreements made in the Council are studied by these five people and then brought back to the neighborhoods for review. These assemblies are completely open; anyone can attend and have their voice heard. Decisions always go to a general vote, and all the adults present can vote. For example, if some people think a bridge needs to be built, and others think we need to focus on improving electricity, we vote on what the priority should be. The simple majority wins, fifty percent plus one.26
 
 The townsfolk kicked out the mayor while maintaining public services, and also established a community radio station. Dozens of other municipalities throughout the state soon proclaimed their autonomy, and used Zaachila as a model.
 
@@ -622,7 +1280,7 @@ In the newly created state of Israel, Jews who had participated in socialist mov
 
 No one in the kibbutz had coercive authority. Neither were there police in the kibbutz, though it was common for everyone to leave their doors unlocked. Public opinion was the most important factor ensuring social cohesion. If there was a problem with a member of the commune, it was discussed at the general meeting, but most of the time even the threat of it being brought up at the general meeting motivated people to work out their differences. In the worst case scenario, if a member refused to accept group decisions, the rest of the collective could vote to kick her out. But this ultimate sanction differs from the coercive tactics used by the state in a key respect: voluntary groups only exist because everyone involved wants to work with everyone else. A person who
 
-<sup>27</sup> Melford E. Spiro, *Kibbutz: Venture in Utopia*, New York: Schocken Books, 1963, pp. 90-91.
+27 Melford E. Spiro, *Kibbutz: Venture in Utopia*, New York: Schocken Books, 1963, pp. 90-91.
 
 is excluded is not deprived of the ability to survive or maintain relationships, as there are many other groups she can join. More importantly, she is not forced to abide by collective decisions. In a society based on this principle, people would enjoy a social mobility that is denied to people in statist contexts, in which laws are enforced upon an individual whether she approves of them or not. In any case, expulsion was not common in the kibbutzim, because public opinion and group discussion were sufficient to solve most conflicts.
 
@@ -644,9 +1302,9 @@ Nubians, property such as waterwheels, cattle, and palm trees have traditionally
 
 The Hopi offer an example of a society that gave up feuding and developed rituals to cultivate a more peaceful disposition.29 Factions still exist within Hopi villages, but they overcome conflict through cooperation in rituals, and they use shame and leveling mechanisms with people who are boastful or domineering. When disputes get out of hand, they use ritual clown skits at *kachina* dances to mock the people involved. The image of clowns and dances being used to solve disputes gives a tantalizing glimpse of humor and art as means for responding to common problems. There is a world of possibilities that are more interesting than general assemblies
 
-<sup>28</sup>Robert Fernea, "Putting a Stone in the Middle: the Nubians of Northern Africa," in Graham Kemp and Douglas P. Fry (eds.), *Keeping the Peace: Conflict Resolution and Peaceful Societies around the World*, New York: Routledge, 2004, p. 111.
+28Robert Fernea, "Putting a Stone in the Middle: the Nubians of Northern Africa," in Graham Kemp and Douglas P. Fry (eds.), *Keeping the Peace: Conflict Resolution and Peaceful Societies around the World*, New York: Routledge, 2004, p. 111.
 
-<sup>29</sup>Alice Schlegel, "Contentious But Not Violent: The Hopi of Northern Arizona" in Graham Kemp and Douglas P. Fry (eds.), *Keeping the Peace: Conflict Resolution and Peaceful Societies around the World*, New York: Routledge, 2004.
+29Alice Schlegel, "Contentious But Not Violent: The Hopi of Northern Arizona" in Graham Kemp and Douglas P. Fry (eds.), *Keeping the Peace: Conflict Resolution and Peaceful Societies around the World*, New York: Routledge, 2004.
 
 or mediation processes! Artistic conflict resolution encourages new ways of looking at problems, and subverts the possibility of permanent mediators or of meeting facilitators gaining power by monopolizing the role of arbiter.
 
@@ -698,7 +1356,7 @@ Anti-capitalist societies with greater economic specialization have developed a 
 
 Many anarchists suggest that the germs of capitalism are contained in the mentality of production itself. Whether a given type of economy can survive, much less grow, within capitalism is a poor measure of its liberatory potential. But anarchists propose and debate many different forms of economy, some of which can only be practiced to a limited extent because they are wholly illegal within today's world. In the European squatter's movement, some cities have had or continue to have so many squatted social centers and houses that they constitute a shadow society. In Barcelona, for example, as recently as 2008 there were over forty occupied social centers and at least two hundred squatted houses. The collectives of people who inhabit these squats generally use consensus and group assemblies, and most are explicitly anarchist or intentionally anti-authoritarian. To a large extent, work and exchange have been abolished from these people's lives, whose networks run into the thousands. Many do not have waged jobs, or they work only seasonally or sporadically, as they do not need to pay rent. For example the author of this book, who has lived within this network for two years, has survived for much of that time on less than one euro a day. Moreover, the great amount of activity they carry out within the autonomous movement is completely unwaged. But they do not need wages: they work for themselves. They occupy abandoned buildings left to rot by speculators, as a protest against gentrification and as anti-capitalist direct action to
 
-<sup>1963,</sup> pp. 83-85.
+1963, pp. 83-85.
 
 provide themselves with housing. Teaching themselves the skills they need along the way, they fix up their new houses, cleaning, patching roofs, installing windows, toilets, showers, light, kitchens, and anything else they need. They often pirate electricity, water, and internet, and much of their food comes from dumpster-diving, stealing, and squatted gardens.
 
@@ -712,7 +1370,7 @@ In a trend that seems common to the total abolition of work, the social and the 
 
 One potential pitfall of any movement that is powerful enough to create an alternative to capitalism is that its participants can become complacent living in their bubble of autonomy, and lose the will to fight for the total abolition of capitalism. Squatting itself can
 
-<sup>31</sup>Gemma Aguilar, "Els okupes fan la feina que oblida el Districte," *Avui*, Saturday 15 December 2007, p. 43. Author's translation.
+31Gemma Aguilar, "Els okupes fan la feina que oblida el Districte," *Avui*, Saturday 15 December 2007, p. 43. Author's translation.
 
 easily become a ritual, and in Barcelona the movement as a whole has not applied the same creativity to resistance and attack as it has to many of the practical aspects of fixing up houses and finding subsistence with little or no money. The self-sustaining nature of the network of squatters, the immediate presence of freedom, initiative, pleasure, independence, and community in their lives have by no means destroyed capitalism, but they do reveal it to be a walking corpse, with nothing but the police, in the end, preventing its extinction and replacement by better ways to live.
 
@@ -756,13 +1414,13 @@ Skeptics often dismiss the anarchistic example of small-scale socalled primitive
 
 Of course, the example of a factory producing successfully within the capitalist system leaves much to be desired. Most anarchists would sooner see all factories burned to the ground than anti-authoritarian forms of organization used to sugarcoat capitalism. But this example should at least demonstrate that even within a large and complex society, self-organization works.
 
-<sup>34</sup>Malcolm Gladwell, *The Tipping Point: How Little Things Can Make a Big Difference*. New York: Little, Brown, and Company, 2002, pp. 183-187.
+34Malcolm Gladwell, *The Tipping Point: How Little Things Can Make a Big Difference*. New York: Little, Brown, and Company, 2002, pp. 183-187.
 
 Some of the ways that the example of Gore is still problematic include the lack of ownership by the workers, and the fact that formal management could be reimposed at any time by the company owners. Anarchists theorize that the problems of capitalism do not exist only in the relationship between workers and owners, but also between workers and managers, and that as long as the manager-worker relationship persists, capitalism can reemerge. This theory is certainly born out by the Mondragón example, where over time managers gained more pay and power and renewed the unequal, profit-focused dynamics typical of capitalism. Taking this into account, several anarchists have designed an outline (called parecon) for a "participatory economy," though no one has yet had the opportunity to set up such an economy on any considerable scale. Among other things, parecon emphasizes the importance of empowering all workers by mixing tasks that are creative and rote, mental and manual, thus creating "balanced job complexes" that will prevent the emergence of a managerial class.35
 
 During the rebellion in Oaxaca in 2006, people without prior experience organized themselves to run occupied radio and television stations. They were motivated by the social need for free means of communication. The March of Pots and Pans, the legendary women's march on August 1, 2006, culminated with thousands of women spontaneously taking over the state-run television station. Inspired by the sudden sense of power they had won by rebelling against a traditionally patriarchal society, they took over Channel 9, which continuously slandered the social movements while claiming to be the channel of the people. At first, they made the engineers help them run the station, but soon they were learning how to do it themselves. One woman recounted
 
-<sup>35</sup>Michael Albert, *Parecon: Life After Capitalism*, New York: Verso, 2003, pp. 104-105.
+35Michael Albert, *Parecon: Life After Capitalism*, New York: Verso, 2003, pp. 104-105.
 
 I went daily to the channel to stand guard and help out. The women were organized into different commissions: food, hygiene, production, and security. One thing I liked is that there were no individual leaders. For each task there was a group of several women in charge. We learned everything from the beginning. I remember somebody asking who could use a computer. Then many of the younger girls stepped forward, saying, "me, me, I can!" In Radio Universidad, they announced that we needed people with technical skills, and more people came to help. In the beginning, they were filming headless people, you know. But the experience at Channel 9 showed us that where there's a will, there's a way. Things got done, and they got done well.
 
@@ -772,9 +1430,9 @@ After the occupied television station was taken off the air, the movement respon
 
 > After the takeover, I read an article that said that the intellectual and material authors of the takeovers of the radios weren't Oaxacan, that they came from somewhere else, and that they received very specialized support. It said that it would have been impossible for anyone without previous training to operate the radios in such a short amount of time, because the equipment is too sophisticated for just anyone to use. They were wrong.37
 
-<sup>36</sup> Diana Denham and C. A S. A. Collective (eds.), *Teaching Rebellion: Stories from the Grassroots Mobilization in Oaxaca*, Oakland: PM Press, 2008, interview with Tonia.
+36 Diana Denham and C. A S. A. Collective (eds.), *Teaching Rebellion: Stories from the Grassroots Mobilization in Oaxaca*, Oakland: PM Press, 2008, interview with Tonia.
 
-<sup>37</sup>Ditto, interview with Francisco.
+37Ditto, interview with Francisco.
 
 ## Who will take out the trash?
 
@@ -794,7 +1452,7 @@ Different people interviewed had different conceptions of how Christiania was ke
 
 Only in a society with what is euphemistically termed a "highly competitive market" are elderly people and disabled people so marginalized. In order to increase profit margins, employers avoid hiring people with disabilities and force older workers into early retirement. When workers are compelled to move frequently in search of jobs, in a culture in which the rite of passage to adulthood
 
-<sup>38</sup>Cahal Milmo, "On the Barricades: Trouble in a Hippie Paradise," *The Independent*, May 31, 2007.
+38Cahal Milmo, "On the Barricades: Trouble in a Hippie Paradise," *The Independent*, May 31, 2007.
 
 is moving into your own house, parents are left alone as they age. Most eventually move into whatever kind of retirement facility they can afford; many die neglected, alone, and indignant, perhaps with bed sores and diapers that have not been changed in days.
 
@@ -818,7 +1476,7 @@ During the Spanish Civil War, Barcelona's Medical Syndicate, organized largely b
 
 Even in the nascent anarchist movement in the US today, anarchists are taking steps to learn about and provide healthcare. In some communities anarchists are learning alternative medicine
 
-<sup>40</sup>Gaston Leval, *Collectives in the Spanish Revolution*, London: Freedom Press, 1975, p. 270.
+40Gaston Leval, *Collectives in the Spanish Revolution*, London: Freedom Press, 1975, p. 270.
 
 and providing it for their communities. And at major protests, where there is the likelihood of police violence, anarchists organize networks of volunteer medics who set up first aid stations and organize roving medics to provide first aid for thousands of demonstrators. These medics, often self-trained, treat injuries from pepper spray, tear gas, clubs, tasers, rubber bullets, police horses, and more, as well as shock and trauma. The Boston Area Liberation Medic Squad (BALM Squad) is an example of a medic group that organizes on a permanent basis. Formed in 2001, they travel to major protests in other cities as well, and hold trainings for emergency first aid. They run a website, share information, and link to other initiatives, such as the Common Ground clinic described below. They are nonhierarchical and use consensus decision making, as does the Bay Area Radical Health Collective, a similar group on the West Coast.
 
@@ -846,7 +1504,7 @@ Our reputation with students that are struggling academically and/or behaviorall
 
 The MST, the Landless Workers' Movement in Brazil, has focused ardently on education in the settlements they have created on occupied land. Between 2002 and 2005, the MST claims to have taught over fifty thousand landless workers how to read; one hundred fifty thousand children are enrolled in twelve hundred different schools they have built on their settlements, and they have also trained over one thousand educators. The MST schools are free from state control,
 
-<sup>42</sup>Albany Free School website (viewed November 24, 2006) http://www.albanyfreeschool.com/overview.shtml so communities have the power to decide what their children are taught and can develop alternative methods of education as well as curricula free of the racist, patriotic, and capitalist values that are part and parcel of public education. The Brazilian government complains that children in the settlements are taught that genetically modified crops pose a risk to human health and the environment, which suggests that they get a much more relevant and accurate education than their peers in the state-run schools. MST schools in the settlements focus on literacy and use the methods of Paulo Freire, who developed a "pedagogy of the oppressed." In São Paulo the MST has built itself an autonomous university that trains farmers who have been nominated by the individual settlements. Rather than teaching, for example, agribusiness, as a capitalist university would, they teach family agriculture with a critique of the exploitative and environmentally destructive techniques prevalent in contemporary agriculture. For other technical courses the MST also helps people get educations in public universities, though they often win the collaboration of leftwing professors to offer more critical lessons of a higher caliber, even enabling them to design their own courses. They emphasize in all these forms of education that it is the responsibility of the students to use what they learn for their community and not for individual profit.
+42Albany Free School website (viewed November 24, 2006) http://www.albanyfreeschool.com/overview.shtml so communities have the power to decide what their children are taught and can develop alternative methods of education as well as curricula free of the racist, patriotic, and capitalist values that are part and parcel of public education. The Brazilian government complains that children in the settlements are taught that genetically modified crops pose a risk to human health and the environment, which suggests that they get a much more relevant and accurate education than their peers in the state-run schools. MST schools in the settlements focus on literacy and use the methods of Paulo Freire, who developed a "pedagogy of the oppressed." In São Paulo the MST has built itself an autonomous university that trains farmers who have been nominated by the individual settlements. Rather than teaching, for example, agribusiness, as a capitalist university would, they teach family agriculture with a critique of the exploitative and environmentally destructive techniques prevalent in contemporary agriculture. For other technical courses the MST also helps people get educations in public universities, though they often win the collaboration of leftwing professors to offer more critical lessons of a higher caliber, even enabling them to design their own courses. They emphasize in all these forms of education that it is the responsibility of the students to use what they learn for their community and not for individual profit.
 
 The Movimiento Campesino de Santiago de Estero, MOCASE, is a group of farmers, many of them indigenous Quechua, with similarities and connections to the MST. Beginning as a group of farmers fighting for land in the face of expansion by forestry companies from the Global North, they now number eight thousand families in fifty eight communities active in a broad range of struggles. Working together with the Universidad Transhumante, they set up a Farmers School that helps farmers learn the skills necessary for self-management. The students also learn to teach, so they can help train other farmers. The Universidad Transhumante is interesting in its own right. It is a popular education university
 
@@ -854,7 +1512,7 @@ The Movimiento Campesino de Santiago de Estero, MOCASE, is a group of farmers, m
 
 In 1969, Native American activists, organizing under the name "Indians of All Nations," occupied the abandoned Alcatraz island, citing an ignored US law guaranteeing that indigenous people had a right to occupy any land the settler nation abandoned. For six months, the occupation numbered in the hundreds, and though most left because of a government blockade, the occupation ultimately lasted for 19 months, revitalizing indigenous culture and rejecting colonial control. During the early period, the Indian occupiers organized a school that taught indigenous history and culture from their own perspective, without the racist propaganda that fills the textbooks of the government's schools. For the duration of their occupation, they used education as a means of cultural renewal, whereas it had previously been used against them to destroy their identity and conscript the survivors of the genocide into the civilization that had colonized them.
 
-<sup>43</sup>Natasha Gordon and Paul Chatterton, *Taking Back Control: A Journey through Argentina's Popular Uprising*, Leeds (UK): University of Leeds, 2004, pp. 43-44.
+43Natasha Gordon and Paul Chatterton, *Taking Back Control: A Journey through Argentina's Popular Uprising*, Leeds (UK): University of Leeds, 2004, pp. 43-44.
 
 #### What about technology?
 
@@ -890,7 +1548,7 @@ Still, there are plenty of anarchistic examples for the impressedby-blinking-lig
 
 people working openly, voluntarily, and cooperatively have created some of the better forms of the complicated software on which the Information Age economy depends. The usual approach of major corporations is to keep the source, or code, for their software secret and patented, but Open Source software code is shared, so anyone can review it and improve it. As a result it is often much better, and generally easier to fix. Traditional patented software is more vulnerable to crashing and to viruses, because a smaller pool of brains is able to check for weaknesses, and very few specialists are available to fix problems. Those technical support people you call on the phone when your computer operating system crashes don't get to see the code either, and beyond a little troubleshooting all they can do is direct you to a cumbersome partial solution, or advise you to erase your hard drive and reinstall the operating system. Users of Microsoft products, for example, are no doubt familiar with their frequent glitches, and privacy advocates also warn of spyware and the cooperation between technology corporations and the government. Says one anti-authoritarian geek involved in the creation of Open Source software, "The best advertisement for Linux is Microsoft."
 
-Traditionally, much Open Source software has not been especially user-friendly, though generally this has to do with the fact that Open Source resides within, with all due respect, a geek subculture, and its typical users are highly computer literate. However, Open Source and participatory technology are steadily becoming accessible to an extent unprecedented by proprietary software. Wikipedia exemplifies this. Started in 2001, on Open Source Linux software, Wikipedia is already the largest and most accessed encyclopedia in the world, with over ten million articles in more than two hundred fifty languages. Rather than being the exclusive domain of paid experts from a particular academic subculture, Wikipedia is written by everyone. Anyone can author an article or edit an existing article, and by allowing this openness and trust it provides a forum for instantaneous, multiple-peer review. The interests of the broader Wikipedia community of millions provide a self-regulating function, so vandalism—false editing and bogus articles—are quickly cleaned up, and facts lacking citations are challenged. Wikipedia articles avail themselves of a vastly greater body of knowledge than the small and generally elitist circle represented by academia. In a blind, peer-reviewed study it was judged to be as accurate as *Encyclopedia Britannica.*<sup>46</sup>
+Traditionally, much Open Source software has not been especially user-friendly, though generally this has to do with the fact that Open Source resides within, with all due respect, a geek subculture, and its typical users are highly computer literate. However, Open Source and participatory technology are steadily becoming accessible to an extent unprecedented by proprietary software. Wikipedia exemplifies this. Started in 2001, on Open Source Linux software, Wikipedia is already the largest and most accessed encyclopedia in the world, with over ten million articles in more than two hundred fifty languages. Rather than being the exclusive domain of paid experts from a particular academic subculture, Wikipedia is written by everyone. Anyone can author an article or edit an existing article, and by allowing this openness and trust it provides a forum for instantaneous, multiple-peer review. The interests of the broader Wikipedia community of millions provide a self-regulating function, so vandalism—false editing and bogus articles—are quickly cleaned up, and facts lacking citations are challenged. Wikipedia articles avail themselves of a vastly greater body of knowledge than the small and generally elitist circle represented by academia. In a blind, peer-reviewed study it was judged to be as accurate as *Encyclopedia Britannica.*46
 
 Wikipedia is self-organizing and edited by an open body of peer-elected administrators.47 There have been a few publicized cases of intentional sabotage, such as when the televised news comedy show *The Colbert Report* rewrote history in one Wikipedia article as a gag for their show; but the prank was quickly fixed, as is most false information on the site. A more challenging problem is posed by corporations who use Wikipedia for public relations purposes, tasking paid personnel to maintain a clean image in the articles about them. However, contradicting interpretations of the facts can be registered in the same article, and Wikipedia contains much more information on corporate misdeeds than any traditional encyclopedia.
 
@@ -898,9 +1556,9 @@ Wikipedia is self-organizing and edited by an open body of peer-elected administ
 
 There are many different ways exchange could work in a stateless, anti-capitalist society, depending on the size, complexity, and preferences of the society. Many of these are far more effective than capitalism at ensuring a fair distribution of goods and keeping people from taking more than their fair share. Capitalism has created a greater inequality in access to resources than any other
 
-<sup>46</sup>"Wikipedia survives research test," BBC News 15 December 2005 http:// news.bbc.co.uk/2/hi/technology/4530930.stm
+46"Wikipedia survives research test," BBC News 15 December 2005 http:// news.bbc.co.uk/2/hi/technology/4530930.stm
 
-<sup>47</sup>"Editorial administration, oversight and management" Wikipedia, http:// en.wikipedia.org/wiki/Wikipedia:About economic system in human history. But the principles of capitalism that economists have indoctrinated the public to accept as laws are not universal.
+47"Editorial administration, oversight and management" Wikipedia, http:// en.wikipedia.org/wiki/Wikipedia:About economic system in human history. But the principles of capitalism that economists have indoctrinated the public to accept as laws are not universal.
 
 Many societies have traditionally used gift economies, which can take many different forms. In societies with a modest amount of social stratification, the wealthier families maintain their status by giving gifts, holding lavish feasts, and spreading their wealth; in some cases, they risk the wrath of the others if they are not generous enough. Other gift economies are barely or not at all stratified; the participants simply disown the concept of property and give and take social wealth freely. In his diary, Columbus remarked with amazement that the first indigenous people he encountered in the Caribbean had no sense of property, and gave willingly of all they had; indeed, they came bearing gifts to greet their strange visitors. In such a society, no one could be poor. Now, after hundreds of years of genocide and capitalist development, many parts of the Americas have some of the starkest wealth gaps in the world.
 
@@ -930,9 +1588,9 @@ When the British colonized the region, they assumed they knew better than the lo
 
 During the Spanish Civil War, workers in occupied factories coordinated an entire wartime economy. Anarchist organizations that had been instrumental in bringing about the revolution, namely the CNT labor union, often provided the foundations for the new society. Especially in the industrial city of Barcelona, the CNT lent the structure for running a worker-controlled economy—a task for which it had been preparing years in advance. Each factory organized itself with its own chosen technical and administrative workers; factories in the same industry in every locality organized into the Local Federation of their particular industry; all the Local Federations of a locality organized themselves into a Local Economic Council "in which all the centers of production and services were represented"; and the local Federations and Councils organized into parallel National Federations of Industry and National Economic Federations.49
 
-<sup>48</sup>Patrick Fleuret, "The Social Organization of Water Control in the Taita Hills, Kenya," *American Ethnologist,* Vol. 12, 1985.
+48Patrick Fleuret, "The Social Organization of Water Control in the Taita Hills, Kenya," *American Ethnologist,* Vol. 12, 1985.
 
-<sup>49</sup>Sam Dolgoff, *The Anarchist Collectives*, New York: Free Life Editions, 1974, p. 66.
+49Sam Dolgoff, *The Anarchist Collectives*, New York: Free Life Editions, 1974, p. 66.
 
 The Barcelona congress of all Catalan collectives, on August 28, 1937, provides an example of their coordinating activities and decisions. The collectivized shoe factories needed two million pesetas credit. Because of a shortage of leather, they had to cut down on hours, though they still paid all their workers full time salaries. The Economic Council studied the situation, and reported that there was no surplus of shoes. The congress agreed to grant credit to purchase leather and to modernize the factories in order to lower the prices of the shoes. Later, the Economic Council outlined plans to build an aluminum factory, which was necessary for the war effort. They had located available materials, secured the cooperation of chemists, engineers, and technicians, and decided to raise the money through the collectives. The congress also decided to mitigate urban unemployment by working out a plan with agricultural workers to bring new areas into cultivation with the help of unemployed workers from the cities.
 
@@ -948,7 +1606,7 @@ The engineers and technicians, rather than comprising an elite group, were integ
 
 For better or worse, the Spanish revolutionaries also experimented with Peasant Banks, Labor Banks, and Councils of Credit and Exchange. The Levant Federation of Peasant Collectives started a bank organized by the Bank Workers Union to help farmers draw from a broad pool of social resources needed for certain infrastructure- or resource-intensive types of farming. The Central Labor Bank of Barcelona moved credit from more prosperous collectives to socially useful collectives in need. Cash transactions were kept to a minimum, and credit was transferred
 
-<sup>51</sup>All the quotes and statistics in the paragraph come from Sam Dolgoff, *The Anarchist Collectives*, New York: Free Life Editions, 1974, pp. 88-92.
+51All the quotes and statistics in the paragraph come from Sam Dolgoff, *The Anarchist Collectives*, New York: Free Life Editions, 1974, pp. 88-92.
 
 as credit. The Labor Bank also arranged foreign exchange, and importation and purchase of raw materials. Where possible, payment was made in commodities, not in cash. The bank was not a for-profit enterprise; it charged only one percent interest to defray expenses. Diego Abad de Santillan, the anarchist economist, said in 1936: "Credit will be a social function and not a private speculation or usury… Credit will be based on the economic possibilities of society and not on interests or profit… The Council of Credit and Exchange will be like a thermometer of the products and needs of the country."52 In this experiment, money functioned as a symbol of social support and not as a symbol of ownership—it signified resources being transferred between unions of producers rather than investments by speculators. Within a complex industrial economy such banks make exchange and production more efficient, though they also present the risk of centralization or the reemergence of capital as a social force. Furthermore, *efficient production and exchange* as a value should be viewed with suspicion, at the least, by people interested in liberation.
 
@@ -964,15 +1622,15 @@ Anarchists have some experience maintaining large cities; the solution seems to 
 
 In such a period, it might be necessary to make new social arrangements in a hurry, but it won't be the first time anarchists have made a town or city from scratch. In May 2003, as envoys of the eight leading world governments prepared for the "G8" summit in Evian, France, the anti-capitalist movement set up a series of connected villages to serve as a foundation for protest and an example of collective, anti-capitalist living; these took the name VAAAG (Village Alternatif, Anticapitalist et Anti Guerres). For the duration of the mobilization, thousands of people lived in these villages, organizing food, housing, childcare, debate forums, media, and legal services, and making decisions communally. The project was widely regarded as a success. The VAAAG also exhibited the dual form of organization suggested above. Specific "neighborhoods," each with fewer than two hundred people, organized around a community kitchen, while village-wide services—"inter-neighborhood collective spaces" such as the legal and medical space—were organized by those involved in providing those services. This experience was replicated during the 2005 mobilizations against the G8 in Scotland, and the 2007 mobilizations in northern Germany, when nearly six thousand people lived together in Camp Reddelich.
 
-These protest villages had precedents in the German antinuclear movement of the previous generation. When the state wanted to build a massive nuclear waste storage complex at Gorleben in 1977, local farmers began to protest. In May 1980, five thousand people set up an encampment on the site, building a small city from trees cut for construction and naming their new home The Free Republic of Wendland. They issued their own passports, set up illegal radio shows and printed newspapers, and held common debates to decide how to run the camp and respond to police aggression. People shared food and did away with money in their daily lives. One month later, eight thousand police assaulted the protestors, who had decided to resist nonviolently. They were brutally beaten and cleared out. Subsequent manifestations of the antinuclear movement were less inclined to pacifism.<sup>53</sup>
+These protest villages had precedents in the German antinuclear movement of the previous generation. When the state wanted to build a massive nuclear waste storage complex at Gorleben in 1977, local farmers began to protest. In May 1980, five thousand people set up an encampment on the site, building a small city from trees cut for construction and naming their new home The Free Republic of Wendland. They issued their own passports, set up illegal radio shows and printed newspapers, and held common debates to decide how to run the camp and respond to police aggression. People shared food and did away with money in their daily lives. One month later, eight thousand police assaulted the protestors, who had decided to resist nonviolently. They were brutally beaten and cleared out. Subsequent manifestations of the antinuclear movement were less inclined to pacifism.53
 
 In England, a yearly festival of travelers and hippies that converged at Stonehenge to mark the summer solstice became a major counter-cultural autonomous zone and an experiment in "collective anarchy." Beginning in 1972, the Stonehenge Free Festival was a gathering that lasted for the month of June until the solstice. More than a music festival, it was a non-hierarchical space for the creation of music, art, and new relationships, as well as spiritual and psychedelic exploration. It became an essential ritual and social event in England's growing traveler culture. By 1984, it drew thirty thousand participants who created a self-organized village for the month. In the words of one participant, it was "Anarchy. And it worked."54 The Thatcher regime saw it as a threat; in 1985 they banned the 14th annual Stonehenge Free Festival, brutally attacking the several hundred people who came to set it up in an assault known as the Battle of the Beanfield.
 
 These examples of impromptu camps are not as marginal as they might seem at first. Hundreds of millions of people throughout the world live in informally organized cities, sometimes called shantytowns or *favelas*, which are self-organizing, self-created, and self-sustaining. The social issues posed by these shantytowns are very complex. Millions of farmers are forced off their land yearly and have to move to the cities, where the peripheral shantytowns are the only place they can afford to settle; but a great many people also move to the city voluntarily to escape the more culturally rigid rural areas and build a new life. Many shantytowns are plagued by health problems caused by poor access to clean water, healthcare, and nutrition. However, many of these problems are peculiar to
 
-<sup>53</sup>George Katsiaficas, *The Subversion of Politics: European Autonomous Social Movements and the Decolonization of Everyday Life*. Oakland: AK Press, 2006, pp. 84-85
+53George Katsiaficas, *The Subversion of Politics: European Autonomous Social Movements and the Decolonization of Everyday Life*. Oakland: AK Press, 2006, pp. 84-85
 
-<sup>54</sup>The Stonehenge Free Festivals, 1972-1985. http://wwwukrockfestivals. com/henge-menu.html Viewed 8 May 2008.
+54The Stonehenge Free Festivals, 1972-1985. http://wwwukrockfestivals. com/henge-menu.html Viewed 8 May 2008.
 
 capitalism rather than the structure of the shantytowns, as the inhabitants are often ingenious in providing for themselves in spite of artificially limited resources.
 
@@ -982,9 +1640,9 @@ In addition to mutual aid, the anarchist objectives of decentralization, volunta
 
 One inspiring example of an informal city is El Alto, Bolivia. El Alto sits on the Altiplano, the plateau overlooking La Paz, the capital. A few decades ago El Alto was just a small town, but as global economic changes caused the shutting down of mines and small farms, huge numbers of people came here. Unable to reside in La Paz, they built settlements up on the plateau, changing the town into a major urban area with eight hundred fifty thousand residents. Seventy percent of the people who have jobs here make their living through family businesses in an informal economy. Land use is unregulated, and the state provides little or no infrastructure: most neighborhoods do not have paved roads, garbage removal services, or indoor plumbing, seventy five percent of the population lacks basic health care, and forty percent are illiterate.56 Faced with this situation, the residents of the informal city took their self-organization to the next step, by creating neighborhood councils, or juntas. The first juntas in El Alto go back to the '50s. In 1979 these juntas started to coordinate through a new
 
-<sup>55</sup>The Curious George Brigade, *Anarchy In the Age of Dinosaurs*, Crimeth Inc. 2003, pp. 106-120. The statistic from Ghana appears on page 115.
+55The Curious George Brigade, *Anarchy In the Age of Dinosaurs*, Crimeth Inc. 2003, pp. 106-120. The statistic from Ghana appears on page 115.
 
-<sup>56</sup>Emily Achtenberg, "Community Organizing and Rebellion: Neighborhood Councils in El Alto, Bolivia," *Progressive Planning*, No.172, Summer 2007.
+56Emily Achtenberg, "Community Organizing and Rebellion: Neighborhood Councils in El Alto, Bolivia," *Progressive Planning*, No.172, Summer 2007.
 
 organization, the Federation of Neighborhood Councils, FEJUVE. Now there are nearly six hundred juntas in El Alto. The juntas allow neighbors to pool resources to create and maintain necessary infrastructure, like schools, parks, and basic utilities. They also mediate disputes and levy sanctions in cases of conflict and social harm. The federation, FEJUVE, pools the resources of the juntas to coordinate protests and blockades and constitute the slum dwellers as a social force. In just the first five years of the new millennium, FEJUVE took a lead role in establishing a public university in El Alto, blocking new municipal taxes, and deprivatizing the water services. FEJUVE also was instrumental in the popular movement that forced the government to nationalize the natural gas resources.
 
@@ -1032,7 +1690,7 @@ Spain in 1936 again provides a good example. In Mas de las Matas, as in other pa
 
 For example: this year the principal crops of Mas de las Matas, Seno, and La Ginebrosa were destroyed by hailstorms. In a capitalist regime, such natural disasters would have meant endless privations, heavy debts, foreclosures, and even emigration of some workers for several years. But in the regime of libertarian solidarity, these difficulties were overcome by the efforts of the whole district. Provisions, seeds, [...] everything needed to repair the damage, were furnished in the spirit of brotherhood and solidarity—without conditions, without contracting debts. The Revolution has created a new civilization!61
 
-<sup>61</sup>Sam Dolgoff, *The Anarchist Collectives*, New York: Free Life Editions, 1974, pp. 163-164.
+61Sam Dolgoff, *The Anarchist Collectives*, New York: Free Life Editions, 1974, pp. 163-164.
 
 Anarchism is one of the few revolutionary ideas that does not require modernization; anarchist societies are free to organize themselves at any sustainable level of technology. This means that societies currently existing as hunter-gatherers, or groups of people who choose to adopt such a lifestyle, can practice this most efficient and ecological form of subsistence, the most conducive to a resilient ecosystem that is less vulnerable to natural disasters.
 
@@ -1076,7 +1734,7 @@ Gonzalo Casanova, *Armarse Sobre Las Ruinas: Historia del movimiento autónomo e
 
 VV. AA *Colectividades y Ocupación Rural,* Madrid: Traficantes de Sueños, 1999.
 
-Marcel Mauss, *The Gift: forms and functions of exchange in archaic societies.* <sup>1924</sup> (English version London: Routledge Press, 1990).
+Marcel Mauss, *The Gift: forms and functions of exchange in archaic societies.* 1924 (English version London: Routledge Press, 1990).
 
 p.m. *Bolo'Bolo.* Zurich: Paranoia City Verlag, 1983.
 
@@ -1114,9 +1772,9 @@ that mimic the natural rainforests. At first sight, most of the island appears t
 
 Before colonization and the disastrous arrival of missionaries, population control methods on Tikopia included natural contraception, abortion, and abstinence for younger people—though this was a compassionate celibacy that amounted to a prohibition on reproduction rather than on sex. Tikopians also used other forms of population control, such as infanticide, that many people in other societies would find impermissible, but Tikopia can still provide us
 
-<sup>65</sup>Jared Diamond, *Collapse: How Societies Choose to Fail or Succeed*, New York: Viking, 2005, pp. 292-293
+65Jared Diamond, *Collapse: How Societies Choose to Fail or Succeed*, New York: Viking, 2005, pp. 292-293
 
-<sup>66</sup>For example, the United States and Western Europe, responsible for most of the world's greenhouse gases, are currently forcing hundreds of millions of people to die every year rather than curtailing their car cultures and reducing their emissions.
+66For example, the United States and Western Europe, responsible for most of the world's greenhouse gases, are currently forcing hundreds of millions of people to die every year rather than curtailing their car cultures and reducing their emissions.
 
 with a perfectly valid example because with the effectiveness of modern contraception and abortion techniques, no other methods are necessary for a decentralized approach to population control. The most important feature of the Tikopian example is their ethos: their recognition that they lived on an island and resources were limited, so that increasing their population was tantamount to suicide. Other Polynesian island societies ignored that fact and subsequently died off. The planet Earth, in this sense, is also an island; accordingly, we need to develop both global consciousness and localized economies, so we can avoid exceeding the capacity of the land and stay aware of the other living things with whom we share this island.
 
@@ -1144,7 +1802,7 @@ Anarchists also coordinate resistance globally. They organize international prot
 
 For example, major protests, boycotts, and acts of sabotage against Shell Oil were coordinated among people in Nigeria, Europe, and the North America throughout the 1980s and '90s. In 1986, autonomists in Denmark carried out multiple simultaneous fire bombings of Shell stations across the country during a worldwide boycott to punish Shell for supporting the government responsible for apartheid in South Africa. In the Netherlands, the clandestine anti-authoritarian group RARA (Revolutionary Anti-Racist Action) carried out a campaign of nonlethal bombings against Shell Oil, playing a crucial role in forcing Shell to pull out of South Africa. In 1995, when Shell wanted to dump an old oil rig in the North Sea, it was forced to abandon its plans by protests in Denmark and the UK, an occupation of the oil rig by Greenpeace activists, and a fire bombing and a shooting attack against Shell stations in two different cities in Germany as well as a boycott that lowered sales by ten percent in that country.67 Efforts such as these prefigure the
 
-<sup>67</sup>The ten percent figure and mention of the two attacks in Germany come from Nathaniel C. Nash, "Oil Companies Face Boycott Over Sinking of Rig," *The New York Times*, June 17, 1995.
+67The ten percent figure and mention of the two attacks in Germany come from Nathaniel C. Nash, "Oil Companies Face Boycott Over Sinking of Rig," *The New York Times*, June 17, 1995.
 
 decentralized global networks that could protect the environment in an anarchist future. If we succeed in abolishing capitalism and the state, we will have removed the greatest systemic ravagers of the environment as well as the structural barriers that currently impede popular action in defense of nature.
 
@@ -1154,7 +1812,7 @@ Tonga is a Pacific archipelago settled by Polynesian peoples. Before colonizatio
 
 The fact that a large population can protect the environment in a diffuse or decentralized manner, without leadership, is amply
 
-<sup>68</sup>Jared Diamond, *Collapse: How Societies Choose to Fail or Succeed*, New York: Viking, 2005, p. 277.
+68Jared Diamond, *Collapse: How Societies Choose to Fail or Succeed*, New York: Viking, 2005, p. 277.
 
 demonstrated by the aforementioned New Guinea highlanders [see *What about technology?*]. Agriculture usually leads to deforestation as land is cleared for fields, and deforestation can kill the soil. Many societies try to compensate for lower soil productivity by clearing more land, thus aggravating the problem. Numerous civilizations have collapsed because they destroyed their soil through deforestation. The danger of soil erosion is accentuated in mountainous terrain, such as the New Guinea highlands, where heavy rains can wash away denuded soil in huge amounts. A more intelligent practice, which the farmers in New Guinea perfected, is silvaculture: integrating trees with the other crops, combining orchard, field, and forest to protect the soil and create symbiotic chemical cycles between the various cultivated plants.
 
@@ -1243,7 +1901,7 @@ Some of the worst attacks happened in front of the occupied buildings. We were g
 
 We didn't have any guns. At the Office of the Economy, we defended ourselves with stones. As time went on and we found ourselves under attack by gunfire more and more frequently, so we started making things to defend ourselves with: firecrackers, homemade bottle-rocket launchers, molotov cocktails; all of us had something. And if we didn't have any of those things, we defended people with our bodies or bare hands.74
 
-<sup>74</sup>Diana Denham and C. A. S. A. Collective (eds.), *Teaching Rebellion: Stories from the Grassroots Mobilization in Oaxaca*, Oakland: PM Press, 2008, interview
+74Diana Denham and C. A. S. A. Collective (eds.), *Teaching Rebellion: Stories from the Grassroots Mobilization in Oaxaca*, Oakland: PM Press, 2008, interview
 
 After such attacks, the *topiles* would help take the wounded to first aid centers.
 
@@ -1261,7 +1919,7 @@ The Rotuman are a traditionally stateless people who live on the island of Rotum
 
 Though the Rotuman currently exist under an imposed government, they avoid contact with it and dependence on it. It is probably no coincidence that the Rotuman murder rate stands at the low level of 2.02 per 100,000 people per year, three times lower than in the US. Howard describe the Rotuman view of crime as being similar to that of many other stateless peoples: not as the violation of a code or statute, but as something causing harm or hurting social bonds. Accordingly, mediation is important to solving disputes peacefully. Chiefs and sub-chiefs act as mediators, though distinguished elders may intervene in that role as well. Chiefs are not judges, and if they do not appear impartial they will lose their followers, as households are free to switch between groups. The most important conflict resolution mechanism is the public apology. The public apology has great weight attached to it; depending on the seriousness of the offense, it may be accompanied by ritual peace offerings as well. Apologizing properly is honorable, while denying an apology is dishonorable. Members maintain their standing and status in the group by being accountable, being sensitive to group opinion, and resolving conflicts. If some people acted in a way that we might expect in a society based on police and punishment, they would isolate themselves and thus limit their harmful influence.
 
-<sup>75</sup>Alan Howard, "Restraint and Ritual Apology: the Rotumans of the South Pacific," in Graham Kemp and Douglas P. Fry (eds.), *Keeping the Peace: Conflict Resolution and Peaceful Societies around the World*, New York: Routledge, 2004, p. 42.
+75Alan Howard, "Restraint and Ritual Apology: the Rotumans of the South Pacific," in Graham Kemp and Douglas P. Fry (eds.), *Keeping the Peace: Conflict Resolution and Peaceful Societies around the World*, New York: Routledge, 2004, p. 42.
 
 For two months in 1973, maximum-security prisoners in Massachusetts showed that supposed criminals may be less responsible for the violence in our society than their guards. After the prison massacre at Attica in 1971 focused national attention on the dramatic failure of the prison system to correct or rehabilitate people convicted of crimes, the governor of Massachusetts appointed a reformist commissioner to the Department of Corrections. Meanwhile, the inmates of Walpole state prison had formed a prisoners' union. Their goals included protecting themselves from the guards, blocking the attempts of prison administrators to institute behavioral modification programs, and organizing prisoners' programs for education, empowerment, and healing. They sought more visitation rights, work or volunteer assignments outside the prison, and the ability to earn money to send to their families. Ultimately, they hoped to end recidivism—exprisoners getting convicted again and returning to prison—and to abolish the prison system itself.
 
@@ -1297,7 +1955,7 @@ The worst bullying has come from the police, who recently resumed entering Chris
 
 In Christiania as elsewhere, the state presents the greatest danger to the community. Unlike the individual bullies one imagines terrorizing a lawless society, the state cannot be easily defeated. Typically, the state seeks a monopoly on force on
 
-<sup>77</sup>One can't help but compare this to the British spreading opium in China or the US government spreading whiskey among indigenous people and, later, heroin in ghettos.
+77One can't help but compare this to the British spreading opium in China or the US government spreading whiskey among indigenous people and, later, heroin in ghettos.
 
 the pretext of protecting citizens from other bullies; this is the justification for prohibiting anyone outside the state apparatus from using force, especially in self-defense against the government. In return for relinquishing this power, citizens are directed to the court system as a means of defending their interests; but of course, the court system is part of the state, and protects its interests above all others. When the government comes to seize your land to build a shopping mall, for example, you can take the matter to court or even bring it before the city council, but you might find yourself talking to someone who stands to profit from the shopping mall. The bully's courts will not be fair to the bully's victims, and they will not sympathize with you if you defend yourself against the eviction. Instead, they will lock you up.
 
@@ -1309,19 +1967,19 @@ When a participant in the Dirty War is located, activists put up posters through
 
 Much violent crime can be traced back to cultural factors. Violent crime, such as murder, would probably decrease dramatically in an anarchist society because most of its causes poverty, televised glorification of violence, prisons and police, warfare, sexism, and the normalization of individualistic and antisocial behaviors—would disappear or decrease.
 
-The differences between two Zapotec communities illustrates that peace is a choice. The Zapotec are a sedentary agrarian indigenous nation living on land that is now claimed by the state of Mexico. One Zapotec community, La Paz, has a yearly homicide rate of 3.4/100,000. A neighboring Zapotec community has the much higher homicide rate of 18.1/100,000. What social attributes go along with the more peaceful way of life? Unlike their more violent neighbors, the La Paz Zapotec do not beat children; accordingly, children see less violence and use less violence in their play. Similarly, wife-beating is rare and not considered acceptable; women are considered equal to men, and enjoy an autonomous economic activity that is important to the life of the community so they are not dependent on men. Regarding child-rearing, the implications of this particular comparison are corroborated by at least one cross-cultural study on socialization, which found that warm, affectionate socialization techniques correlate with low levels of conflict in society.<sup>79</sup>
+The differences between two Zapotec communities illustrates that peace is a choice. The Zapotec are a sedentary agrarian indigenous nation living on land that is now claimed by the state of Mexico. One Zapotec community, La Paz, has a yearly homicide rate of 3.4/100,000. A neighboring Zapotec community has the much higher homicide rate of 18.1/100,000. What social attributes go along with the more peaceful way of life? Unlike their more violent neighbors, the La Paz Zapotec do not beat children; accordingly, children see less violence and use less violence in their play. Similarly, wife-beating is rare and not considered acceptable; women are considered equal to men, and enjoy an autonomous economic activity that is important to the life of the community so they are not dependent on men. Regarding child-rearing, the implications of this particular comparison are corroborated by at least one cross-cultural study on socialization, which found that warm, affectionate socialization techniques correlate with low levels of conflict in society.79
 
-<sup>78</sup>Natasha Gordon and Paul Chatterton, *Taking Back Control: A Journey through Argentina's Popular Uprising*, Leeds (UK): University of Leeds, 2004, pp. 66-68.
+78Natasha Gordon and Paul Chatterton, *Taking Back Control: A Journey through Argentina's Popular Uprising*, Leeds (UK): University of Leeds, 2004, pp. 66-68.
 
-<sup>79</sup>Graham Kemp and Douglas P. Fry (eds.), *Keeping the Peace: Conflict Resolution and Peaceful Societies around the World*, New York: Routledge, 2004, pp.
+79Graham Kemp and Douglas P. Fry (eds.), *Keeping the Peace: Conflict Resolution and Peaceful Societies around the World*, New York: Routledge, 2004, pp.
 
 The Semai and the Norwegians were both previously mentioned as societies with low homicide rates. Until colonialism, the Semai were stateless, whereas Norway is ruled by a government. Socialization is relatively peaceful among the Semai and the Norwegians alike. The Semai use a gift economy so wealth is evenly distributed, while Norway has one of the lowest wealth gaps of any capitalist country on account of its socialistic domestic policies. A further similarity is a reliance on mediation rather than punishment, police, or prisons to solve disputes. Norway does have police and a prison system, but compared with most states there is a high reliance on conflict mediation mechanisms not unlike those that flourish in peaceful, stateless societies. Most civil disputes in Norway must be brought before mediators before they can be taken to court, and thousands of criminal cases are taken to mediators as well. In 2001, agreement was reached in 89% of the mediations.80
 
 So in an anarchist society, violent crime would be less common. But when it did occur, would society be more vulnerable? After all, one might argue, even when violence is no longer a rational social response, psychopathic killers might still occasionally appear. Let it suffice to say that any society capable of overthrowing a government would hardly be at the mercy of lone psychopathic killers. And societies that do not come about from a revolution but enjoy a strong sense of community and solidarity are capable of protecting themselves as well. The Inuit, hunter-gatherers indigenous to the arctic regions of North America, provide an example of what a stateless society can do in the worst-case scenario. According to their traditions, if a person committed a murder, the community would forgive him and make him reconcile
 
-<sup>73-79.</sup> The cross-cultural study is M. H. Ross, *The Culture of Conflict*, New Haven: Yale University Press, 1993.
+73-79. The cross-cultural study is M. H. Ross, *The Culture of Conflict*, New Haven: Yale University Press, 1993.
 
-<sup>80</sup>Graham Kemp and Douglas P. Fry (eds.), *Keeping the Peace: Conflict Resolution and Peaceful Societies around the World*, New York: Routledge, 2004, p. 163.
+80Graham Kemp and Douglas P. Fry (eds.), *Keeping the Peace: Conflict Resolution and Peaceful Societies around the World*, New York: Routledge, 2004, p. 163.
 
 with the family of the victim. If that person commits another murder, he would be killed—usually by members of his own family group, so there would be no bad blood or cause for feud.
 
@@ -1347,15 +2005,15 @@ The purpose of the Navajo process is to meet the needs of those who come to the 
 
 To this end, the peacemaking process involves the family and friends of those involved. People present their stories, their perspectives on the problem, and their feelings. The ultimate goal is to find a practical solution that restores people's relationships. To aid this, the peacemaker delivers a homily that often draws on Navajo creation stories to show how traditional figures have dealt with the same problems in the past. In cases where there is clearly someone who acted wrongly and harmed another person, at the end of the process the offender often pays an agreed amount of restitution, or *nalyeeh*. However, *nalyeeh* is not a form of punishment in the spirit of "an eye for an eye," but rather a way to "make things right for the person who has suffered a loss." 104 of the 110
 
-chapters, or semi-autonomous communities, of the Navajo Nation currently have designated peacemakers, and in many instances in the past respected family members have been called on to settle disputes in an unofficial capacity.<sup>81</sup>
+chapters, or semi-autonomous communities, of the Navajo Nation currently have designated peacemakers, and in many instances in the past respected family members have been called on to settle disputes in an unofficial capacity.81
 
 Critical Resistance is an anti-authoritarian organization in the US formed by ex-prisoners and family members of prisoners with the purpose of abolishing the prison system and its causes. As of this writing, the group is working on setting up "harm free zones." The purpose of a harm free zone is to provide "tools and trainings to local communities to strengthen and develop their ability to resolve conflicts without the need for the police, court system, or prison industry. The harm free zone practices an abolitionist approach to developing communities, which means building models today that can represent how we want to live now and in the future."82 By building stronger relationships among neighbors and intentionally creating common resources, people in a neighborhood can keep out drug dealers, provide support for those suffering from addiction, intervene in abusive family situations, set up childcare and alternatives to joining gangs, and increase face to face communication.
 
 Other anti-authoritarian groups, some inspired by this model, have begun the hard work of setting up harm free zones in their own cities. Of course, even if there were no violent crime at all, a racist, capitalist government would still find excuses to lock people up: creating internal enemies and punishing rebels have always been functions of the government, and nowadays so many private companies are invested in the prison system that it has become a growth-based industry. But when people are no longer dependent
 
-<sup>81</sup>All quotes and statistics on the Navajo come from Dennis Sullivan and Larry Tifft, *Restorative Justice: Healing the Foundations of Our Everyday Lives*, Monsey, NY: Willow Tree Press, 2001, pp. 53-59.
+81All quotes and statistics on the Navajo come from Dennis Sullivan and Larry Tifft, *Restorative Justice: Healing the Foundations of Our Everyday Lives*, Monsey, NY: Willow Tree Press, 2001, pp. 53-59.
 
-<sup>82</sup>http://www.harmfreezone.org/wiki/index.php/Harm Free Zone:About(viewed November 24, 2006)
+82http://www.harmfreezone.org/wiki/index.php/Harm Free Zone:About(viewed November 24, 2006)
 
 on police and prisons, when communities are no longer crippled by self-inflicted social harm, it is much easier to organize resistance.
 
@@ -1397,7 +2055,7 @@ What do the police do with this power? They arrest and intimidate the most power
 
 Countless studies have found that treating drug addiction and other psychological problems as criminal matters is ineffective and inhumane; mistreating prisoners and depriving them of human contact and educational opportunities has been proven to increase recidivism.84 But for every study that showed how to end crime and reduce prison populations, the government has gone and done the exact opposite: they cut educational programs, increased the use of solitary confinement, lengthened sentences, and curtailed visiting rights. Why? Because in addition to a control mechanism, prison is an industry. It funnels billions of dollars of public money to institutions that strengthen state control, such as the police, the courts, surveillance and private security companies, and it provides a slave labor force that produces goods for the government and private corporations. Forced labor is still legal in the prison system, and most prisons contain factories where prisoners have to work for a few cents an hour. Prisons also have the modern equivalent of the company store, where prisoners have to spend all the money they make and the money their families send them, buying
 
-<sup>84</sup>George R. Edison, MD, "The Drug Laws: Are They Effective and Safe?" T*he Journal of the American Medial Association*. Vol. 239 No.24, June 16, 1978. A. W. Mac Leod, *Recidivism: a Deficiency Disease*, Philadelphia: University of Pennsylvania Press, 1965.
+84George R. Edison, MD, "The Drug Laws: Are They Effective and Safe?" T*he Journal of the American Medial Association*. Vol. 239 No.24, June 16, 1978. A. W. Mac Leod, *Recidivism: a Deficiency Disease*, Philadelphia: University of Pennsylvania Press, 1965.
 
 clothing, food, or phone calls, all at inflated prices.
 
@@ -1411,7 +2069,7 @@ Often, people who live in a statist society assume that without a centralized ju
 
 An important leveling mechanism in stateless societies is that people sometimes *do* take justice into their own hands, especially in dealing with those in leadership positions who are acting
 
-<sup>85</sup>Jamie Bissonette, *When the Prisoners Ran Walpole: A True Story in the Movement for Prison Abolition*, Cambridge: South End Press, 2008, p. 201. Also consider the stories of John Boone and other bureaucrats presented in this book.
+85Jamie Bissonette, *When the Prisoners Ran Walpole: A True Story in the Movement for Prison Abolition*, Cambridge: South End Press, 2008, p. 201. Also consider the stories of John Boone and other bureaucrats presented in this book.
 
 authoritarian. Anyone can abide by her conscience and take action against a person she perceives to be harming the community. At best, this can push others to acknowledge and confront a problem they had tried to ignore. At worst, it can divide the community between those who think such action was justified and those who think it was harmful. Even this, though, is better than institutionalizing imbalances of power; in a community in which everyone has the power to take things into their own hands, in which everyone is equal, people will find it is much easier to talk things out and try to change the opinions of their peers than to do whatever they want or cause conflicts by acting as a vigilante. The reason this method is not used in democratic, capitalist societies is not because it does not work, but because there are certain opinions that must not be changed, certain contradictions that must not be addressed, and certain privileges that can never be challenged.
 
@@ -1479,9 +2137,9 @@ Grossly outnumbered and outgunned volunteer anarchist militias successfully defe
 
 Even more impressive than the example provided by the
 
-<sup>88</sup>Makhno hoped that Lenin and Trotsky were motivated by a personal vendetta against him rather than an absolute desire to crush the free soviets, and would call off the repression if he left.
+88Makhno hoped that Lenin and Trotsky were motivated by a personal vendetta against him rather than an absolute desire to crush the free soviets, and would call off the repression if he left.
 
-<sup>89</sup>Alexandre Skirda, *Nestor Makhno, Anarchy's Cossack: The Struggle for Free Soviets in the Ukraine* 1917-1921, London: AK Press, 2005, p. 314.
+89Alexandre Skirda, *Nestor Makhno, Anarchy's Cossack: The Struggle for Free Soviets in the Ukraine* 1917-1921, London: AK Press, 2005, p. 314.
 
 Makhnovists is the victory won by several indigenous nations in 1868. In a two year war, thousands of warriors from the Lakota and Cheyenne nations defeated the US military and destroyed several army forts during what became known as Red Cloud's War. In 1866, the Lakota met with the US government at Fort Laramie because the latter wanted permission to build a military trail through the Powder River country to facilitate the influx of white settlers who were seeking gold. The US military had already defeated the Arapaho in its attempt to open the area for white settlers, but they had been unable to defeat the Lakota. During the negotiations it became apparent that the US government had already started the process of building military forts along this trail, without even having secured permission for the trail itself. The Oglala Lakota war chief Red Cloud promised to resist any white attempts to occupy the area. Nonetheless in the summer of 1866 the US military began sending more troops to the region and constructing new forts. Lakota, Cheyenne, and Arapaho warriors following the direction of Red Cloud began a campaign of guerrilla resistance, effectively closing down the Bozeman trail and harassing the troops stationed in the forts. The military sent down the order for an aggressive winter campaign, and on December 21, when their wood train was attacked yet again, an army of about one hundred US soldiers decided to pursue. They met a decoy party including the Oglala warrior Crazy Horse and took the bait. The entire force was defeated and killed by a force of 1,000- 3,000 warriors that waited in ambush. The commanding officer of the white soldiers was knifed to death in hand to hand combat. The Lakota left a young bugle boy who fought with just his bugle covered in a buffalo robe as a sign of honor—with such acts the indigenous warriors demonstrated the possibility of a much more respectful form of warfare, in contrast with the white soldiers and settlers who often cut out fetuses from pregnant women and used the amputated genitals of unarmed victims as tobacco pouches.
 
@@ -1515,7 +2173,7 @@ At the end of the '90s, the World Bank threatened not to renew a major loan on w
 
 In April people again seized the central plaza of Cochabamba, and when the government began arresting organizers, protests spread to the cities of La Paz, Oruro, and Potosí, as well as many rural villages. Most major highways throughout the country were blockaded. On April 8, the Bolivian president declared a ninety day state of siege, banning meetings of more than four people, restricting political activity, allowing arbitrary arrests, establishing curfews, and putting the radio stations under military control. Police occasionally joined the demonstrators to demand higher pay, even participating in some riots. Once the government raised their salaries, they returned to work and continued beating and arresting their erstwhile comrades. Across the country people fought against
 
-<sup>91</sup>From an anonymous illustrated pamphlet, "The 'Oka Crisis' "
+91From an anonymous illustrated pamphlet, "The 'Oka Crisis' "
 
 the police and military with stones and molotov cocktails, suffering many injuries and multiple deaths. On April 9, soldiers trying to remove a roadblock encountered resistance and shot two protestors to death, injuring several others. Neighbors attacked the soldiers, seized their weapons, and opened fire. Later they stormed a hospital and seized an army captain they had wounded, and lynched him.
 
@@ -1523,7 +2181,7 @@ As violent protests only showed signs of growing despite, and often because of, 
 
 The complaints of the protestors moved far beyond water privatization in one city. The resistance had generalized to a social rebellion that included socialist rejections of neoliberalism, anarchist rejections of capitalism, farmers' rejections of their debts, poor people's demands for lower fuel prices and the end of multinational ownership of Bolivia's gas, and indigenous demands for sovereignty. Similarly fierce resistance in subsequent years defeated Bolivia's political elite on a number of occasions. Farmers and anarchists armed with dynamite took over banks to win the forgiveness of their debts. Under intense popular pressure, the government nationalized the extraction of gas, and a powerful union of indigenous farmers defeated the US-backed program of coca eradication. The coca farmers even got their leader, Evo Morales, elected president, giving Bolivia its first indigenous head
 
-<sup>92</sup>Oscar Olivera, *Cochabamba! Water War in Bolivia,* Cambridge: South End Press, 2004.
+92Oscar Olivera, *Cochabamba! Water War in Bolivia,* Cambridge: South End Press, 2004.
 
 of state. Because of this, Bolivia is currently facing a political crisis the government may be incapable of resolving, as the traditional elite, located in the white, eastern areas of the country, refuse to submit to the progressive policies of the Morales government. In the rural areas, indigenous communities used more direct means to preserve their autonomy. They continued blockading highways, and sabotaged attempts of government control of their villages through daily acts of resistance. On no fewer than a dozen occasions when a particular mayor or other government official proved especially intrusive or abusive, he would be lynched by the villagers.
 
@@ -1543,7 +2201,7 @@ Where did the BZers [Occupation Brigaders] go when they left? What did the town 
 
 In 2002, Barcelona police attempted to evict Can Masdeu, a large squatted social center on a mountainside just outside the city. Can Masdeu was connected to the squatters' movement, the environmental movement, and the local tradition of resistance. The surrounding hillside was covered in gardens, many of them used by older neighbors who remembered the dictatorship and the struggle against it, and understood that this struggle still continued in the present day despite the veneer of democracy. Accordingly, the center received support from many corners of society. When the police came, the residents barricaded and locked down, and for days eleven people hung in harnesses on the outside of the building,
 
-<sup>93</sup>George Katsiaficas, *The Subversion of Politics: European Autonomous Social Movements and the Decolonization of Everyday Life*. Oakland: AK Press, 2006, p. 123
+93George Katsiaficas, *The Subversion of Politics: European Autonomous Social Movements and the Decolonization of Everyday Life*. Oakland: AK Press, 2006, p. 123
 
 dangling over the hillside, high above the ground. Supporters streamed in and challenged the police; others took action throughout the city, blocking traffic and attacking banks, real estate offices, a Mc Donalds, and other stores. Police tried to starve out the ones hanging from the building and used psychological torture tactics against them, but ultimately failed. The resistance defeated the eviction attempt and the autonomous zone survives to this day, with active community gardens and a social center.
 
@@ -1579,7 +2237,7 @@ Starting from April 20th, delegates from forty three cities in the subprefecture
 
 Delegates from the aaruch kept meeting and created an interwilaya coordination. On the 11th of June they met in El Kseur:
 
-<sup>94</sup>Jaime Semprun, *Apología por la Insurrección Argelina*, Bilbao: Muturreko Burutazioak, 2002, p.34 (translated from French to Spanish by Javier Rodriguez Hidalgo; the translation to English is my own). The quotes in the next paragraphs are from p.18 and p.20.
+94Jaime Semprun, *Apología por la Insurrección Argelina*, Bilbao: Muturreko Burutazioak, 2002, p.34 (translated from French to Spanish by Javier Rodriguez Hidalgo; the translation to English is my own). The quotes in the next paragraphs are from p.18 and p.20.
 
 *We, representatives of the wilayas of Sétis, Bordj-Bu-Arreridj, Buira, Bumerdes, Bejaia, Tizi Uzu, Algiers, as well as the Collective Committee of Universities of Algiers, meeting today Monday the 11th of June 2001, in the Youth House "Mouloud Feraoun" in El Kseur (Bejaia), have adopted the following table of demands:*
 
@@ -1621,7 +2279,7 @@ Delegates from the aaruch kept meeting and created an interwilaya coordination. 
 
 On June 14th, hundreds of thousands went to march on Algiers to present these demands but they were preemptively waylaid and dispersed through heavy police action. Although the movement was always strongest in Kabylia, it never limited itself to national/ cultural boundaries and enjoyed support throughout the country; nonetheless opposition political parties tried to water down the movement by reducing it to simple demands for measures against police brutality and the official recognition of the Berber language. But the defeat of the march in Algiers did effectively demonstrate the movement's weakness outside of Kabylia. Said one resident of Algiers, regarding the difficulty of resistance in the capital in contrast to the Berber regions: "They're lucky. In Kabylia they're never alone. They have all their culture, their structures. We live in between snitches and Rambo posters."
 
-<sup>95</sup>Jaime Semprun, *Apología por la Insurrección Argelina*, Bilbao: Muturreko Burutazioak, 2002, pp.73-74 (translated from French to Spanish by Javier Rodriguez Hidalgo; the translation to English is my own).
+95Jaime Semprun, *Apología por la Insurrección Argelina*, Bilbao: Muturreko Burutazioak, 2002, pp.73-74 (translated from French to Spanish by Javier Rodriguez Hidalgo; the translation to English is my own).
 
 In July and August, the movement set itself the task of reflecting strategically on their structure: they adopted a system of coordination between the aaruch, dairas and communes within a wilaya, and the election of delegates within towns and neighborhoods; these delegates would form a municipal coordination that enjoyed full autonomy of action. A coordination for the whole wilaya would be composed of two delegates from each of the municipal coordinations. In a typical case in Bejaia, the coordination kicked out the trade unionists and leftists that had infiltrated it, and launched a general strike on their own initiative. At the culmination of this process of reflection, the movement identified as one of its major weaknesses the relative lack of participation by women within the coordinations (although women played a large role in the insurrection and other parts of the movement). The delegates resolved to encourage more participation by women.
 
@@ -1657,7 +2315,7 @@ From the very beginning, the political parties were threatened by the self-organ
 
 *Give effective solidarity to any person who has suffered any injury due to activity as a delegate of the movement.*
 
-*Note: Any delegate who violates this Code of Honor will be publicly denounced.*<sup>96</sup>
+*Note: Any delegate who violates this Code of Honor will be publicly denounced.*96
 
 96Ditto, p.80 . Regarding the fourth point, in contrast to Western society
 
@@ -1687,7 +2345,7 @@ Orwell revealed that the militias were being deliberately starved of the weaponr
 
 The conflict was long and bloody, full of grave dangers, unprecedented opportunities, and difficult choices. Throughout it the anarchists had to prove the feasibility of their ideal of a truly anti-authoritarian revolution. They experienced a number of successes and failures, which, taken together, show what is possible
 
-<sup>98</sup>George Orwell, *Homage to Catalonia*, London: Martin Secker & Warburg Ltd., 1938, pp.26-28.
+98George Orwell, *Homage to Catalonia*, London: Martin Secker & Warburg Ltd., 1938, pp.26-28.
 
 and what dangers revolutionaries must avoid to resist becoming new authorities.
 
@@ -1721,7 +2379,7 @@ The 2001 popular rebellion in Argentina saw people take an unprecedented level o
 
 People formed over 200 neighborhood assemblies in Buenos Aires alone, involving thousands of people; according to one poll, one in three residents of the capital had attended an assembly.
 
-<sup>101</sup>John Jordan and Jennifer Whitney, *Que Se Vayan Todos: Argentina's Popular Rebellion*, Montreal: Kersplebedeb, 2003, p. 56.
+101John Jordan and Jennifer Whitney, *Que Se Vayan Todos: Argentina's Popular Rebellion*, Montreal: Kersplebedeb, 2003, p. 56.
 
 People began by meeting in their neighborhoods, often over a common meal, or *olla popular.* Next they would occupy a space to serve as a social center—in many cases, an abandoned bank. Soon the neighborhood assembly would be holding weekly meetings "on community issues but also on topics such as the external debt, war, and free trade" as well as "how they could work together and how they saw the future." Many social centers would eventually offer:
 
@@ -1737,13 +2395,13 @@ Soon the neighborhood assemblies were coordinating at a citywide level. Once a w
 
 The asamblea structure quickly expanded to the provincial and national levels. Within two months of the beginning of the uprising, the national "Assembly of Assemblies" was calling for the government to be replaced by the assemblies. That did not occur, but in the end the government of Argentina was forced to make popular concessions—it announced it would default on its international debt, an unprecedented occurrence. The International Monetary Fund was so scared by the popular rebellion and its worldwide support in the anti-globalization movement, and so embarrassed by the collapse of its poster child, that it had to accept this stunning loss. The movement in Argentina played a pivotal role in accomplishing one of the major goals of the anti-globalization movement, which was the defeat of the IMF and World Bank.
 
-<sup>103</sup>John Jordan and Jennifer Whitney, *Que Se Vayan Todos: Argentina's Popular Rebellion*, Montreal: Kersplebedeb, 2003, p. 9.
+103John Jordan and Jennifer Whitney, *Que Se Vayan Todos: Argentina's Popular Rebellion*, Montreal: Kersplebedeb, 2003, p. 9.
 
 As of this writing, these institutions are discredited and facing bankruptcy. Meanwhile, the Argentine economy has stabilized and much of the popular outrage has subsided. Still, some of the assemblies that made a vital niche in the uprising continue to operate seven years later. The next time the conflict comes to the surface, these assemblies will remain in the collective memory as the seeds of a future society.
 
 The city of Gwangju (or Kwangju), in South Korea, liberated itself for six days in May, 1980, after student and worker protests against the military dictatorship escalated in response to declarations of martial law. Protestors burned down the government television station and seized weapons, quickly organizing a "Citizen Army" that forced out the police and military. As in other urban rebellions, including those in Paris in 1848 and 1968, in Budapest in 1919, and in Beijing in 1989, students and workers in Gwangju quickly formed open assemblies to organize life in the city and communicate with the outside world. Participants in the uprising tell of a complex organizational system developed spontaneously in a short period of time—and without the leaders of the main student groups and protest organizations, who had already been arrested. Their system included a Citizen's Army, a Situation Center, a Citizen-Student Committee, a Planning Board, and departments for local defense, investigation, information, public services, burial of the dead, and other services.104 It took a full-scale invasion by special units of the Korean military with US support to crush the rebellion and prevent it from spreading. Several hundred people were killed in the process. Even its enemies described the armed resistance as "fierce and wellorganized." The combination of spontaneous organization, open
 
-<sup>104</sup> George Katsiaficas, "Comparing the Paris Commune and the Kwangju Uprising," www.eroseffect.com. That the resistance was "wellorganized" comes from a report from the conservative Heritage Foundation, Daryl M. Plunk's "South Korea's Kwangju Incident Revisited," *The Heritage Foundation*, No. 35, September 16, 1985.
+104 George Katsiaficas, "Comparing the Paris Commune and the Kwangju Uprising," www.eroseffect.com. That the resistance was "wellorganized" comes from a report from the conservative Heritage Foundation, Daryl M. Plunk's "South Korea's Kwangju Incident Revisited," *The Heritage Foundation*, No. 35, September 16, 1985.
 
 assemblies, and committees with a specific organizational focus left a deep impression, showing how quickly a society can change itself once it breaks with the habit of obedience to the government.
 
@@ -1783,7 +2441,7 @@ In the uprising spurred by Argentina's economic collapse in 2001, participation 
 
 Two Indymedia volunteers who traveled to Argentina from the US and Britain to document the rebellion for English-speaking countries spent time with a group in the Admiralte Brown neighborhood south of Buenos Aires.108 The members of this particular group, similar to many of the *piqueteros* in the MTD,
 
-<sup>108</sup>John Jordan and Jennifer Whitney, *Que Se Vayan Todos: Argentina's Popular Rebellion*, Montreal: Kersplebedeb, 2003, pp. 42-52.
+108John Jordan and Jennifer Whitney, *Que Se Vayan Todos: Argentina's Popular Rebellion*, Montreal: Kersplebedeb, 2003, pp. 42-52.
 
 had been driven to activism only recently, by unemployment. But their motivations were not purely material; for example, they frequently held cultural and educational events. The two Indymedia activists recounted a workshop held in an MTD bakery, in which the collective members discussed the differences between a capitalist bakery and an anti-capitalist one. "We produce for our neighbors… and to teach ourselves to do new things, to learn to produce for ourselves," explained a woman in her fifties. A young man in an Iron Maiden sweatshirt added, "We produce so that everyone can live better."109 The same group operated a *Ropero*, a clothing shop, and many other projects as well. It was run by volunteers and depended on donations, even though everyone in the area was poor. Despite these challenges, it opened twice a month to give out free clothes to people who could not afford them. The rest of the time, the volunteers mended old clothes that were dropped off. In the absence of the motives that drive the capitalist system, the people there clearly took pride in their work, showing off to visitors how well restored the clothes were despite the scarcity of materials. The shared ideal among the *piqueteros* included a firm commitment to non-hierarchical forms of organization and participation by all members, young and old, in their discussions and activities. Women were often the first to go to the picket lines, and came to hold considerable power within the *piquetero* movement. Within these autonomous organizations, many women gained the opportunity to participate in large-scale decision-making or take on other maledominated roles for the first time in their lives. At the particular bakery holding the workshop described above, a young woman was in charge of security, another traditionally male role.
 
@@ -1845,7 +2503,7 @@ The call-out for the cooperative network, drafted in Basel in 1972, reads in par
 
 As capitalist agriculture becomes increasingly incapable of feeding the world in the wake of catastrophes related to climate and pollution, it seems almost inevitable that a large number of people must move back to the land to create sustainable and localized forms
 
-<sup>112&</sup>quot;Longo Maï," *Buiten de Orde*, Summer 2008, p.38. Author's translation.
+112&quot;Longo Maï," *Buiten de Orde*, Summer 2008, p.38. Author's translation.
 
 of agriculture. At the same time, city dwellers need to cultivate consciousness of where their food and water come from, and one way they can do this is by visiting and helping out in the villages.
 
@@ -1877,7 +2535,7 @@ Alfredo Bonanno, *From Riot to Insurrection: analysis for an anarchist perspecti
 
 John Jordan and Jennifer Whitney, *Que Se Vayan Todos: Argentina's Popular Rebellion*, Montreal: Kersplebedeb, 2003.
 
-Jaime Semprun, *Apologie pour l'Insurrection Algérienne,* Paris: Editions de <sup>L</sup>'Encyclopédie des Nuisances, 2001.114
+Jaime Semprun, *Apologie pour l'Insurrection Algérienne,* Paris: Editions de L'Encyclopédie des Nuisances, 2001.114
 
 George Orwell, *Homage to Catalonia,* London: Martin Secker & Warburg Ltd., 1938.
 
@@ -1917,7 +2575,7 @@ In parts of pre-colonial Africa, anarchic societies were able to exist side-by-s
 
 The inclusivity of the Seminole demonstrates how indigenous Americans viewed tribe and nation as matters of voluntary association and acceptance within a community, rather than the restrictive ethnic/hereditary categories they are assumed to be in Western civilization. The Seminole call themselves the "unconquered people" because they never signed a peace treaty with the colonizers. They survived a series of wars waged against them by the United
 
-<sup>116</sup> Harold Barclay, *People without Government: An Anthropology of Anarchy*, London: Kahn and Averill, 1982, p. 57.
+116 Harold Barclay, *People without Government: An Anthropology of Anarchy*, London: Kahn and Averill, 1982, p. 57.
 
 States and managed to kill fifteen hundred US soldiers and an unknown number of militiamen. During the Second Seminole War, from 1835 to 1842, the one thousand Seminole warriors in the Everglades employed guerrilla tactics to devastating effect, even though they faced nine thousand professional, well-equipped soldiers. The war cost the US government twenty million dollars, a huge sum at the time. By the end of the war, the US government had managed to force most of the Seminole into exile in Oklahoma, but gave up on conquering the remaining group, who never surrendered and continued to live free of government control for decades.
 
@@ -1931,7 +2589,7 @@ The authorities were often shocked by their libertarian tendencies; the Dutch Go
 
 Pirate societies cultivated greater gender equality as well, and a number of pirate captains were women. Many pirates thought of themselves as Robin Hoods, and few considered themselves subjects of any state. While numerous other pirates engaged in mercantilism, selling their stolen goods to the highest bidders, or even participated in the slave trade, another current in piracy constituted an early force for abolitionism, aiding slave rebellions and involving many ex-slaves. Authorities in North American colonies like Virginia were concerned about connections between piracy and slave insurrections. Fear of slaves running away to join the pirates and rob their former masters, and of racially mixed uprisings, encouraged the development of laws in the colonies to punish racial mixing. These were some of the first juridical attempts to institutionalize segregation and generalize racism among the white lower class. Throughout the Caribbean and other parts of the world, liberated pirate enclaves thrived for years, though they are shrouded in mystery. It is a documented fact that these pirate societies were a widespread and long-lasting problem
 
-<sup>117&</sup>quot;Pirate Utopias," *Do or Die*, No. 8, 1999, pp. 63-78.
+117&quot;Pirate Utopias," *Do or Die*, No. 8, 1999, pp. 63-78.
 
 for the imperial powers, and that many of them were shockingly libertarian, but other information is lacking. This is not surprising, given that they existed at war with the writers of history. It is telling that the best described pirate utopia, Libertalia or alternately Libertatia, is heavily disputed. Many parts of its history are generally recognized to be fictitious, but some sources allege that Libertatia in its entirety never existed while others maintain that its legendary founder, Captain James Misson, was just a literary invention but the pirate settlement itself did exist.
 
@@ -1951,7 +2609,7 @@ The Anarchist Black Cross, originally called the Anarchist Red Cross, formed in 
 
 prisoners alive, and enabled others to escape. The result was that in 1917, the revolutionary movement in Russia was stronger, enjoyed more international connections, and was better equipped to overthrow the tsarist government.
 
-The Revolutionary Association of Women of Afghanistan (RAWA), founded in Kabul in 1977, has struggled for women's liberation against the violence of Islamic fundamentalists as well as against occupation by regimes like the USSR, which was responsible for assassinating the founder of RAWA in Pakistan in 1987. After fighting the Soviet occupation and the Taliban, they went on to oppose the Northern Alliance that came into power with US backing. Through a series of desperate situations, they remained steadfast in their conviction that liberation can only come from within. Even amidst the oppression of the Taliban, they opposed the US invasion in 2001, arguing that if Westerners really wanted to help liberate Afghanistan they had to support the Afghan groups that were fighting to liberate themselves. Their predictions have proved sound, as Afghan women faced many of the same oppressions under the US occupation as they did under the Taliban. According to the RAWA website: "RAWA believes that freedom and democracy can't be donated; it is the duty of the people of a country to fight and achieve these values."<sup>119</sup>
+The Revolutionary Association of Women of Afghanistan (RAWA), founded in Kabul in 1977, has struggled for women's liberation against the violence of Islamic fundamentalists as well as against occupation by regimes like the USSR, which was responsible for assassinating the founder of RAWA in Pakistan in 1987. After fighting the Soviet occupation and the Taliban, they went on to oppose the Northern Alliance that came into power with US backing. Through a series of desperate situations, they remained steadfast in their conviction that liberation can only come from within. Even amidst the oppression of the Taliban, they opposed the US invasion in 2001, arguing that if Westerners really wanted to help liberate Afghanistan they had to support the Afghan groups that were fighting to liberate themselves. Their predictions have proved sound, as Afghan women faced many of the same oppressions under the US occupation as they did under the Taliban. According to the RAWA website: "RAWA believes that freedom and democracy can't be donated; it is the duty of the people of a country to fight and achieve these values."119
 
 #### What will prevent constant warfare and feuding?
 
@@ -1977,7 +2635,7 @@ In addition to this self-balancing property of cooperative societies, some state
 
 The anarchist movement today continues to fight against the borders that divide a capitalist world. The anti-authoritarian No Border Network, formed in western Europe in 1999, has since become active throughout Europe and in Turkey, North America, and Australia. No Border efforts include support for illegal immigrants, education about the racism encouraged by government immigration policies, protests against government officials, actions against airlines to halt deportations, and No Border camps spanning the borders of two countries. In the course of the campaign, participants have forcibly opened border crossings between Spain and Morocco, broken into a children's detention facility in the Netherlands to bring aid and open up communication, partially destroyed a detention facility and sabotaged the
 
-<sup>121</sup>Harold Barclay, *People without Government: An Anthropology of Anarchy*, London: Kahn and Averill, 1982, p. 122.
+121Harold Barclay, *People without Government: An Anthropology of Anarchy*, London: Kahn and Averill, 1982, p. 122.
 
 companies involved in deportations in Italy, shut down a detention facility in Greece, and freed dozens of immigrants from a detention facility in Australia. No Border camps bring people from many countries together to develop strategies and carry out actions. They often take place on the periphery of expanding "First World" zones—for example, in Ukraine, between Greece and Bulgaria, or between the US and Mexico. Common slogans at No Borders protests include: "No Border, No Nation, Stop Deportations!" "Freedom of Movement, Freedom of Residence: Right to Come, Right to Go, Right to Stay!"
 
@@ -2031,7 +2689,7 @@ Another misconception is that stateless societies are vulnerable to being hijack
 
 It seems that states developed gradually out of culturally accepted kinship systems that coupled gerontocracy with patriarchy—over a period of generations, older men were accorded more respect and given greater exclusivity as the mediators of disputes and the dispensers of gifts. Not until very late in this process did they possess anything resembling a power to enforce their will. We must remember that as people gradually surrendered more of their responsibilities and afforded certain members of the community more respect, they had no way of knowing the outcomes of their actions—no way of knowing just how bad
 
-<sup>124</sup>See, for example, Dmitri M. Bondarenko and Andrey V. Korotayev, *Civilizational Models of Politogenesis,* Moscow: Russian Academy of Sciences, 2000.
+124See, for example, Dmitri M. Bondarenko and Andrey V. Korotayev, *Civilizational Models of Politogenesis,* Moscow: Russian Academy of Sciences, 2000.
 
 hierarchical society could become. Once social elites obtained coercive powers, a new dialectic of social development emerged, and at this point the creation of the state was likely, though still not inevitable because the majority remained a social force with the power to dispossess the elite or stop the process.
 
@@ -2323,7 +2981,7 @@ Judith Van Allen " 'Sitting On a Man': Colonialism and the Lost Political Instit
 
 Johan M. G. van der Dennen, "Ritualized 'Primitive' Warfare and Rituals in War: Phenocopy, Homology, or...?" http://rechten.eldoc.ubrug.nl/FILES/root/ Algemeen/overigepublicaties/2005enouder/RITUAL/RITUAL.pdf
 
-H. Van Der Linden, "Een nieuwe overheidsinstelling: het waterschap circa 1100- <sup>1400</sup>" in D. P. Blok, *Algemene Geschiednis der Nederlanden, deel III.* Haarlem: Fibula van Dishoeck, 1982, pp. 60-76
+H. Van Der Linden, "Een nieuwe overheidsinstelling: het waterschap circa 1100- 1400" in D. P. Blok, *Algemene Geschiednis der Nederlanden, deel III.* Haarlem: Fibula van Dishoeck, 1982, pp. 60-76
 
 Wikipedia, "Asamblea Popular de los Pueblos de Oaxaca," http://en.wikipedia.org/wiki/APPO [viewed November 6, 2006]
 
@@ -2345,7 +3003,7 @@ Howard Zinn, *A People's History of the United States*. New York: Perennial Clas
 
 ## ![](_page_291_Picture_0.jpeg)
 
-Anarchism is the boldest of revolutionary social movements <sup>10</sup> emerge from the struggle against capitalism-it aims for a world free from all forms of domination and exploitation. But al its heart is a simple and convincing proposition: people know how lo live their own lives and organize themselves better than any expert could. Others cynically claim that we need a government to protect us. They claim anarchy is impractical and utopian: it would never work. On the contrary, anarchist practice already has a long record, and has often worked quite well. The histories in this book show that an anarchist society can succeed at enabling all its members to meet their needs and desires.
+Anarchism is the boldest of revolutionary social movements 10 emerge from the struggle against capitalism-it aims for a world free from all forms of domination and exploitation. But al its heart is a simple and convincing proposition: people know how lo live their own lives and organize themselves better than any expert could. Others cynically claim that we need a government to protect us. They claim anarchy is impractical and utopian: it would never work. On the contrary, anarchist practice already has a long record, and has often worked quite well. The histories in this book show that an anarchist society can succeed at enabling all its members to meet their needs and desires.
 
 ## Ardent Press
 

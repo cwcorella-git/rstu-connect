@@ -1,3 +1,8 @@
+---
+title: "## **Work Week Radio: AFL-CIO and Opposition To Pipeline and Brazilian Workers Strike**"
+category: "labor"
+---
+
 ## **Work Week Radio: AFL-CIO and Opposition To Pipeline and Brazilian Workers Strike**
 
 ## **Date:** Wed, 09/28/2016 - 19:21

@@ -1,26 +1,8 @@
 ---
-title: Despair Fatigue
-author: David Graeber
-date: March 2016
-language: en
-source_url: >-
-  Retrieved on 3<sup>rd</sup> September 2020 from
-  https://thebaffler.com/salvos/despair-fatigue-david-graeber
-notes: Published in Issue No.30 of The Baffler
-topics:
-  - boredom
-  - hope
-  - UK
-  - austerity
-  - Corbyn
-original_format: muse
-converted_date: '2025-11-08T11:25:03.093726'
-tags:
-  - Boredom
-  - Hope
-  - UK
-  - Austerity
-  - Corbyn
+title: "Despair Fatigue"
+author: "David Graeber"
+date: "March 2016"
+category: "technology-digital-justice"
 ---
 
 Is it possible to become bored with hopelessness?

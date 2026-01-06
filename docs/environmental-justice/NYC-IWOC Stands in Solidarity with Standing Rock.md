@@ -1,3 +1,8 @@
+---
+title: "## **NYC-IWOC Stands in Solidarity with Standing Rock**"
+category: "environmental-justice"
+---
+
 ## **NYC-IWOC Stands in Solidarity with Standing Rock**
 
 ## **Date:** Wed, 09/14/2016 - 18:37

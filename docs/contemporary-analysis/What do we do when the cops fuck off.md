@@ -1,3 +1,8 @@
+---
+title: "**What do we do when the cops fuck off?**"
+category: "contemporary-analysis"
+---
+
 # **What do we do when the cops fuck off?**
 
 ## **Date:** Unknown

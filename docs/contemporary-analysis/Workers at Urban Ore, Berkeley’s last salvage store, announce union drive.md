@@ -1,3 +1,8 @@
+---
+title: "## **Workers at Urban Ore, Berkeley's last salvage store, announce union drive**"
+category: "contemporary-analysis"
+---
+
 ## **Workers at Urban Ore, Berkeley's last salvage store, announce union drive**
 
 ## **Date:** Thu, 02/02/2023 - 00:00

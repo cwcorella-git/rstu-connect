@@ -1,3 +1,8 @@
+---
+title: "**George Barrett, anarchists and the Great Unrest**"
+category: "contemporary-analysis"
+---
+
 # **George Barrett, anarchists and the Great Unrest**
 
 ## **Date:** Unknown

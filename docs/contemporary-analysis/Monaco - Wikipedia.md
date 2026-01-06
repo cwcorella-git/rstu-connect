@@ -1,10 +1,15 @@
+---
+title: "**Monaco**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Monaco)
 
 # **Monaco**
 
 ## Contributors to Wikimedia projects
 
-94–119 minutes
+94-119 minutes
 
 #### **Principality of Monaco**
 
@@ -26,17 +31,31 @@
 
 ## (English: "Monégasque Hymn")
 
-| �:�� / �:�� | |
+| : / : | |
 |----------------------------------|------------------------------------------------------------------------------|
 | | |
-| Location of<br>Monaco<br>(green) | |
-| in Europe<br>(dark grey) | |
-| Capital | Monaco<br>(city-state)<br>43°43′52″N<br>07°25′12″E /<br>43.73111°N 7.42000°E |
+| Location of
+Monaco
+(green) | |
+| in Europe
+(dark grey) | |
+| Capital | Monaco
+(city-state)
+43°43′52″N
+07°25′12″E /
+43.73111°N 7.42000°E |
 | Largest quarter | Monte Carlo |
-| Official<br>languages | French[1] |
-| Common languages | • Italian<br>• Ligurian |
-| Ethnic<br>groups | • Monégasques<br>• French<br>• Italians<br>• Occitans |
-| Religion | • 86.0% Christianity<br>• 80.9% Catholicism |
+| Official
+languages | French[1] |
+| Common languages | • Italian
+• Ligurian |
+| Ethnic
+groups | • Monégasques
+• French
+• Italians
+• Occitans |
+| Religion | • 86.0% Christianity
+• 80.9% Catholicism |
 
 | | (official)[2] |
 |-------------------------------------------------------------------------------|------------------------|
@@ -49,47 +68,80 @@
 | Government | Unitary parliamentary |
 | | semi-constitutional |
 | | monarchy |
-| •<br>Monarch | Albert II |
-| •<br>Minister of State | Christophe Mirmand |
+| •
+Monarch | Albert II |
+| •
+Minister of State | Christophe Mirmand |
 | Legislature | National Council |
 | Independence | |
-| •<br>House of Grimaldi (under the<br>sovereignty of the Republic of<br>Genoa) | 8 January 1297 |
-| •<br>from the French Empire | 17 May 1814 |
-| •<br>from occupation of the Sixth<br>Coalition | 17 June 1814 |
+| •
+House of Grimaldi (under the
+sovereignty of the Republic of
+Genoa) | 8 January 1297 |
+| •
+from the French Empire | 17 May 1814 |
+| •
+from occupation of the Sixth
+Coalition | 17 June 1814 |
 
-| •<br>Franco-Monégasque Treaty | 11 February 1861 | |
+| •
+Franco-Monégasque Treaty | 11 February 1861 | |
 |-------------------------------|------------------------------------------------|--|
-| •<br>Constitution | 5 January 1911 | |
+| •
+Constitution | 5 January 1911 | |
 | Area | | |
-| •<br>Total | 2.084[5]<br>km2<br>(0.805<br>sq<br>mi) (194th) | |
-| •<br>Water<br>(%) | negligible[6] | |
+| •
+Total | 2.084[5]
+km2
+(0.805
+sq
+mi) (194th) | |
+| •
+Water
+(%) | negligible[6] | |
 | Population | | |
-| •<br>2024<br>census | 38,423[7] (190th) | |
-| •<br>Density | 18,446/km2 (47,774.9/<br>sq<br>mi) (1st) | |
-| GDP<br>(PPP) | 2024<br>estimate | |
-| •<br>Total | \$8.924 billion[8]<br>(165th) | |
-| •<br>Per capita | \$270,100[8] | |
-| GDP<br>(nominal) | 2024<br>estimate | |
-| •<br>Total | \$10.434 billion[8] | |
-| •<br>Per capita | \$315,800[8] | |
+| •
+2024
+census | 38,423[7] (190th) | |
+| •
+Density | 18,446/km2 (47,774.9/
+sq
+mi) (1st) | |
+| GDP
+(PPP) | 2024
+estimate | |
+| •
+Total | \$8.924 billion[8]
+(165th) | |
+| •
+Per capita | \$270,100[8] | |
+| GDP
+(nominal) | 2024
+estimate | |
+| •
+Total | \$10.434 billion[8] | |
+| •
+Per capita | \$315,800[8] | |
 | Currency | Euro (€) (EUR) | |
 | Time zone | UTC+1 (CET) | |
-## | •<br>Summer<br>(DST) | UTC+2 (CEST) | |
+## | •
+Summer
+(DST) | UTC+2 (CEST) | |
 
 | Date format | dd/mm/yyyy |
 |---------------------|------------|
-| <u>Calling code</u> | +377 |
+| Calling code | +377 |
 | ISO 3166 code | MC |
-## | Internet TLD | <u>.mc</u> |
+## | Internet TLD | .mc |
 
-- <u>^</u> Government offices are located in the <u>Monaco-Ville</u> quarter.
-- <u>^</u> GDP per capita calculations include non-resident workers from France and Italy.
+- ^ Government offices are located in the Monaco-Ville quarter.
+- ^ GDP per capita calculations include non-resident workers from France and Italy.
 
 Monaco, [a] officially the Principality of Monaco, [b] is a sovereign city-state and microstate in Western Europe.
 
 Situated on the French Riviera, it is a semi-enclave bordered by France to the north, east, and west, with the Mediterranean Sea to the south; the Italian region of Liguria is about 15 km (9.3 mi) east. [10] With a population of 38,423 living in an area of 2.08 km² (0.80 sq mi), Monaco is the second smallest sovereign state in the world, after Vatican City, as well as the most densely populated. It also has the world's shortest national coastline of any non-landlocked nation, at 3.83 km (2.38 mi). [11] Fewer than 10,000 of its residents are Monégasque nationals. [12] While the official language of Monaco is French, Italian and Monégasque are also widely spoken and understood. [C]
 
-Monaco is governed under a form of <u>semi-constitutional</u> <u>monarchy</u>, with <u>Prince Albert II</u> as <u>head of state</u>, who holds substantial political powers. The <u>prime minister</u>, who is the
+Monaco is governed under a form of semi-constitutional monarchy, with Prince Albert II as head of state, who holds substantial political powers. The prime minister, who is the
 
 [head of government,](https://en.wikipedia.org/wiki/Head_of_government) can be either a Monégasque or French citizen; the monarch consults with the [Government of France](https://en.wikipedia.org/wiki/Government_of_France) before an appointment. Key members of the judiciary are detached French magistrates[.\[13\]](#page-62-3) The [House of Grimaldi](https://en.wikipedia.org/wiki/House_of_Grimaldi) has ruled Monaco, with brief interruptions, since 1297.[\[14\]](#page-62-4) The state's sovereignty was officially recognised by the [Franco-](https://en.wikipedia.org/wiki/Franco-Mon%C3%A9gasque_Treaties)[Monégasque Treaty of 1861](https://en.wikipedia.org/wiki/Franco-Mon%C3%A9gasque_Treaties), with Monaco becoming a full [United Nations](https://en.wikipedia.org/wiki/United_Nations) voting member in 1993. Despite Monaco's independence and separate foreign policy, its defence is the responsibility of France, notwithstanding two [small military](https://en.wikipedia.org/wiki/Military_of_Monaco) [units.](https://en.wikipedia.org/wiki/Military_of_Monaco)
 
@@ -111,11 +163,11 @@ In the 19th century, when [Sardinia](https://en.wikipedia.org/wiki/Sardinia) bec
 
 [Rainier I,](https://en.wikipedia.org/wiki/Rainier_I_of_Monaco,_Lord_of_Cagnes) victor of the naval battle at [Zierikzee](https://en.wikipedia.org/wiki/Battle_of_Zierikzee) and first sovereign Grimaldi ruler of Monaco
 
-Following a grant of land from Emperor [Henry VI](https://en.wikipedia.org/wiki/Henry_VI,_Holy_Roman_Emperor) in 1191, Monaco was refounded in 1215 as a colony of Genoa.[\[27\]](#page-64-1)[\[28\]](#page-64-2) Monaco was first ruled by a member of the House of Grimaldi in 1297, when [Francesco Grimaldi,](https://en.wikipedia.org/wiki/Fran%C3%A7ois_Grimaldi) known as "Malizia" (translated from Italian either as "The Malicious One" or "The Cunning One"), and his men captured the fortress protecting the [Rock of Monaco](https://en.wikipedia.org/wiki/Rock_of_Monaco) while dressed as [Franciscan](https://en.wikipedia.org/wiki/Franciscans) [friars](https://en.wikipedia.org/wiki/Friar) – a monaco in Italian – although this is a coincidence as the area was already known by this name[.\[29\]](#page-64-3)
+Following a grant of land from Emperor [Henry VI](https://en.wikipedia.org/wiki/Henry_VI,_Holy_Roman_Emperor) in 1191, Monaco was refounded in 1215 as a colony of Genoa.[\[27\]](#page-64-1)[\[28\]](#page-64-2) Monaco was first ruled by a member of the House of Grimaldi in 1297, when [Francesco Grimaldi,](https://en.wikipedia.org/wiki/Fran%C3%A7ois_Grimaldi) known as "Malizia" (translated from Italian either as "The Malicious One" or "The Cunning One"), and his men captured the fortress protecting the [Rock of Monaco](https://en.wikipedia.org/wiki/Rock_of_Monaco) while dressed as [Franciscan](https://en.wikipedia.org/wiki/Franciscans) [friars](https://en.wikipedia.org/wiki/Friar) - a monaco in Italian - although this is a coincidence as the area was already known by this name[.\[29\]](#page-64-3)
 
 Francesco was evicted a few years later by the Genoese forces, and the struggle over "the Rock" continued for another century[.\[30\]](#page-64-4) The Grimaldi family was Genoese and the struggle was something of a family feud. The Genoese engaged in other conflicts, and in the late 1300s Genoa lost Monaco after fighting the [Crown of Aragon](https://en.wikipedia.org/wiki/Crown_of_Aragon) over [Corsica.](https://en.wikipedia.org/wiki/Corsica) [\[31\]](#page-64-5) [Aragon](https://en.wikipedia.org/wiki/Aragon) eventually became part of a united Spain, and other parts of the land grant came to be integrated piecemeal into other states. Between 1346 and 1355, Monaco annexed the towns of [Menton](https://en.wikipedia.org/wiki/Menton) and [Roquebrune,](https://en.wikipedia.org/wiki/Roquebrune-Cap-Martin) increasing its territory by almost ten times[.\[31\]](#page-64-5)
 
-#### **1400–1800**
+#### **1400-1800**
 
 ## ![](_page_9_Picture_4.jpeg)
 
@@ -135,7 +187,7 @@ In 1793, Revolutionary forces captured Monaco and until 1814 it was occupied by 
 
 Before this time there was unrest in [Menton](https://en.wikipedia.org/wiki/Menton) and [Roquebrune,](https://en.wikipedia.org/wiki/Roquebrune-Cap-Martin) where the townspeople had become weary of heavy taxation by the Grimaldi family. They declared their independence as the [Free Cities of Menton and Roquebrune,](https://en.wikipedia.org/wiki/Free_Cities_of_Menton_and_Roquebrune) hoping for annexation by Sardinia. France protested. The unrest continued until [Charles III of Monaco](https://en.wikipedia.org/wiki/Charles_III,_Prince_of_Monaco) gave up his claim to the two mainland towns (some 95% of the principality at the time) that had been ruled by the Grimaldi family for over 500 years. [\[38\]](#page-65-2)
 
-These were ceded to France in return for 4,100,000 francs.[\[39\]](#page-65-3) The transfer and Monaco's sovereignty were recognised by the [Franco-Monégasque Treaty](https://en.wikipedia.org/wiki/Franco-Mon%C3%A9gasque_Treaties) of 1861. In 1869, the principality stopped collecting income tax from its residents — an indulgence the Grimaldi family could afford to entertain thanks solely to the extraordinary success of the casino.[\[40\]](#page-65-4) This made Monaco a playground for the rich and a favoured place for them to live[.\[41\]](#page-65-5)
+These were ceded to France in return for 4,100,000 francs.[\[39\]](#page-65-3) The transfer and Monaco's sovereignty were recognised by the [Franco-Monégasque Treaty](https://en.wikipedia.org/wiki/Franco-Mon%C3%A9gasque_Treaties) of 1861. In 1869, the principality stopped collecting income tax from its residents -- an indulgence the Grimaldi family could afford to entertain thanks solely to the extraordinary success of the casino.[\[40\]](#page-65-4) This made Monaco a playground for the rich and a favoured place for them to live[.\[41\]](#page-65-5)
 
 #### **20th century**
 
@@ -226,7 +278,7 @@ Monaco's participation in the Council of Europe helps align its legal framework 
 
 ## ![](_page_20_Picture_4.jpeg)
 
-Satellite view of Monaco, with the France–Monaco border shown in yellow
+Satellite view of Monaco, with the France-Monaco border shown in yellow
 
 Monaco is a sovereign [city-state,](https://en.wikipedia.org/wiki/City-state) with five quarters and ten wards[,\[84\]](#page-70-1) located on the [French Riviera](https://en.wikipedia.org/wiki/French_Riviera) in [Western Europe.](https://en.wikipedia.org/wiki/Western_Europe) It is bordered by France's [Alpes-Maritimes](https://en.wikipedia.org/wiki/Alpes-Maritimes) department on three sides, with one side bordering the [Mediterranean Sea.](https://en.wikipedia.org/wiki/Mediterranean_Sea) Its centre is about 16 km (9.9 mi) from [Italy](https://en.wikipedia.org/wiki/Italy) and only 13 km (8.1 mi) northeast of [Nice.](https://en.wikipedia.org/wiki/Nice) [\[48\]](#page-66-2)
 
@@ -295,23 +347,45 @@ For town planning purposes, a sovereign ordinance in 1966 divided the principali
 
 | Wards | Area | | | | | |
 |------------------|-----------------|---------|----------|--|--|--|
-| | in ha | in<br>% | | | | |
+| | in ha | in
+% | | | | |
 | Reserved Sectors | | | | | | |
-| Monaco-Ville | Secteur réservé | 19.6 | 9.4<br>% | | | |
-| Ravin de Sainte- | Secteur réservé | 2.3 | 1.1<br>% | | | |
+| Monaco-Ville | Secteur réservé | 19.6 | 9.4
+% | | | |
+| Ravin de Sainte- | Secteur réservé | 2.3 | 1.1
+% | | | |
 
 | Dévote | | | | | | | |
 |-----------------------------------------------------------------------------------------------|----------------------------|-----------|-----------|--|--|--|--|
 | Wards | | | | | | | |
-| Monte-Carlo | Quartier<br>ordonnancé | 43.7 | 21.0<br>% | | | | |
-| Fontvieille | Quartier<br>ordonnancé | 33.0 | 15.8<br>% | | | | |
-| La Condamine | Quartier<br>ordonnancé | 29.6 | 14.2<br>% | | | | |
-| Larvotto | Quartier<br>ordonnancé | 27.5 | 13.2<br>% | | | | |
-| Jardin Exotique | 23.5 | 11.3<br>% | | | | | |
-| La Rousse | Quartier<br>ordonnancé | | | | | | |
-| Les Moneghetti | Quartier<br>ordonnancé | 11.5 | 5.5<br>% | | | | |
-| | Total<br>208.4<br>100<br>% | | | | | | |
-| Source: "Chapitre<br>1<br>– Territoire et Environnement"<br>(PDF). Monaco en<br>Chiffre 2025. | | | | | | | |
+| Monte-Carlo | Quartier
+ordonnancé | 43.7 | 21.0
+% | | | | |
+| Fontvieille | Quartier
+ordonnancé | 33.0 | 15.8
+% | | | | |
+| La Condamine | Quartier
+ordonnancé | 29.6 | 14.2
+% | | | | |
+| Larvotto | Quartier
+ordonnancé | 27.5 | 13.2
+% | | | | |
+| Jardin Exotique | 23.5 | 11.3
+% | | | | | |
+| La Rousse | Quartier
+ordonnancé | | | | | | |
+| Les Moneghetti | Quartier
+ordonnancé | 11.5 | 5.5
+% | | | | |
+| | Total
+208.4
+100
+% | | | | | | |
+| Source: "Chapitre
+1
+- Territoire et Environnement"
+(PDF). Monaco en
+Chiffre 2025. | | | | | | | |
 
 Note: for statistical purposes, the Wards of Monaco are further subdivided into 178 [city blocks](https://en.wikipedia.org/wiki/City_block) (îlots), which are comparable to the [census blocks](https://en.wikipedia.org/wiki/Census_block) in the United States. [\[92\]](#page-70-9)
 
@@ -327,7 +401,7 @@ Note: for statistical purposes, the Wards of Monaco are further subdivided into 
 
 ## Ville ruelle in Monaco
 
-Monaco exhibits a wide range of architecture, but the principality's signature style, particularly in Monte Carlo, is that of the [Belle Époque.](https://en.wikipedia.org/wiki/Belle_%C3%89poque) It finds its most florid expression in the 1878–9 [Casino](https://en.wikipedia.org/wiki/Monte_Carlo_Casino) and the [Salle Garnier](https://en.wikipedia.org/wiki/Op%C3%A9ra_de_Monte-Carlo) created by [Charles](https://en.wikipedia.org/wiki/Charles_Garnier_(architect)) [Garnier](https://en.wikipedia.org/wiki/Charles_Garnier_(architect)) and Jules Dutrou. Decorative elements include turrets, balconies, pinnacles, multi-coloured ceramics, and caryatids. These were blended to create a picturesque fantasy of pleasure and luxury, and an alluring expression of how Monaco sought and still seeks, to portray itself[.\[115\]](#page-73-5) This [capriccio](https://en.wikipedia.org/wiki/Capriccio_(art)) of French, Italian, and Spanish elements were incorporated into hacienda villas and apartments. Following major development in the 1970s, [Prince Rainier III](https://en.wikipedia.org/wiki/Rainier_III,_Prince_of_Monaco) banned high-rise development in the principality. His successor, [Prince Albert II,](https://en.wikipedia.org/wiki/Albert_II,_Prince_of_Monaco) overturned this Sovereign Order[.\[116\]](#page-73-6) In recent years[[when?](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Chronological_items)] the accelerating demolition of Monaco's [architectural heritage,](https://en.wikipedia.org/wiki/Architectural_Heritage) including its single-family villas, has created dismay[.\[117\]](#page-73-7) The principality has no heritage protection legislation[.\[118\]](#page-73-8)
+Monaco exhibits a wide range of architecture, but the principality's signature style, particularly in Monte Carlo, is that of the [Belle Époque.](https://en.wikipedia.org/wiki/Belle_%C3%89poque) It finds its most florid expression in the 1878-9 [Casino](https://en.wikipedia.org/wiki/Monte_Carlo_Casino) and the [Salle Garnier](https://en.wikipedia.org/wiki/Op%C3%A9ra_de_Monte-Carlo) created by [Charles](https://en.wikipedia.org/wiki/Charles_Garnier_(architect)) [Garnier](https://en.wikipedia.org/wiki/Charles_Garnier_(architect)) and Jules Dutrou. Decorative elements include turrets, balconies, pinnacles, multi-coloured ceramics, and caryatids. These were blended to create a picturesque fantasy of pleasure and luxury, and an alluring expression of how Monaco sought and still seeks, to portray itself[.\[115\]](#page-73-5) This [capriccio](https://en.wikipedia.org/wiki/Capriccio_(art)) of French, Italian, and Spanish elements were incorporated into hacienda villas and apartments. Following major development in the 1970s, [Prince Rainier III](https://en.wikipedia.org/wiki/Rainier_III,_Prince_of_Monaco) banned high-rise development in the principality. His successor, [Prince Albert II,](https://en.wikipedia.org/wiki/Albert_II,_Prince_of_Monaco) overturned this Sovereign Order[.\[116\]](#page-73-6) In recent years[[when?](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Chronological_items)] the accelerating demolition of Monaco's [architectural heritage,](https://en.wikipedia.org/wiki/Architectural_Heritage) including its single-family villas, has created dismay[.\[117\]](#page-73-7) The principality has no heritage protection legislation[.\[118\]](#page-73-8)
 
 ### **Climate**
 
@@ -335,13 +409,14 @@ Monaco has a [hot-summer Mediterranean climate](https://en.wikipedia.org/wiki/Ho
 
 # snowfall[.\[122\]](#page-74-3)
 
-| Climate data for Monaco (1981–2010 averages, extremes 1 | | | | | | | |
+| Climate data for Monaco (1981-2010 averages, extremes 1 | | | | | | | |
 |---------------------------------------------------------|--------|--------|--------|--------|--------|--------|--|
 | Month | Jan | Feb | Mar | Apr | May | Jun | |
 | Record high | 19.9 | 23.2 | 25.6 | 26.2 | 30.3 | 32.5 | |
 | °C (°F) | (67.8) | (73.8) | (78.1) | (79.2) | (86.5) | (90.5) | |
 | Mean daily | 13.0 | 13.0 | 14.9 | 16.7 | 20.4 | 23.7 | |
-| maximum °C<br>(°F) | (55.4) | (55.4) | (58.8) | (62.1) | (68.7) | (74.7) | |
+| maximum °C
+(°F) | (55.4) | (55.4) | (58.8) | (62.1) | (68.7) | (74.7) | |
 | Daily mean | 10.2 | 10.2 | 12.0 | 13.8 | 17.5 | 20.9 | |
 | °C (°F) | (50.4) | (50.4) | (53.6) | (56.8) | (63.5) | (69.6) | |
 | Mean daily | 7.4 | 7.4 | 9.1 | 10.9 | 14.6 | 18.0 | |
@@ -431,7 +506,7 @@ The Blancs had already set up a highly successful casino (in fact the largest in
 
 ## ![](_page_35_Picture_2.jpeg)
 
-The Blancs opened [Le Grand Casino de Monte Carlo](https://en.wikipedia.org/wiki/Le_Grand_Casino_de_Monte_Carlo) in 1858 and the casino benefited from the tourist traffic the newly built French railway system created[.\[146\]](#page-76-8) Due to the combination of the casino and the railroads, Monaco finally recovered from the previous half-century of economic slump and the principality's success attracted other businesses[.\[147\]](#page-77-0) In the years following the casino's opening, Monaco founded its [Oceanographic](https://en.wikipedia.org/wiki/Oceanographic_Museum) [Museum](https://en.wikipedia.org/wiki/Oceanographic_Museum) and the [Monte Carlo Opera House,](https://en.wikipedia.org/wiki/Monte_Carlo_Opera_House) 46 hotels were built and the number of jewellers operating in Monaco increased by nearly five-fold. In an apparent effort not to overtax citizens, it was decreed that the Monégasque citizens were prohibited from entering the casino unless they were employees[.\[148\]](#page-77-1) By 1869, the casino was making such a vast sum of money that the principality could afford to end tax collection from the Monegasques—a masterstroke that was to attract affluent residents from all over Europe in a policy that still exists today.
+The Blancs opened [Le Grand Casino de Monte Carlo](https://en.wikipedia.org/wiki/Le_Grand_Casino_de_Monte_Carlo) in 1858 and the casino benefited from the tourist traffic the newly built French railway system created[.\[146\]](#page-76-8) Due to the combination of the casino and the railroads, Monaco finally recovered from the previous half-century of economic slump and the principality's success attracted other businesses[.\[147\]](#page-77-0) In the years following the casino's opening, Monaco founded its [Oceanographic](https://en.wikipedia.org/wiki/Oceanographic_Museum) [Museum](https://en.wikipedia.org/wiki/Oceanographic_Museum) and the [Monte Carlo Opera House,](https://en.wikipedia.org/wiki/Monte_Carlo_Opera_House) 46 hotels were built and the number of jewellers operating in Monaco increased by nearly five-fold. In an apparent effort not to overtax citizens, it was decreed that the Monégasque citizens were prohibited from entering the casino unless they were employees[.\[148\]](#page-77-1) By 1869, the casino was making such a vast sum of money that the principality could afford to end tax collection from the Monegasques--a masterstroke that was to attract affluent residents from all over Europe in a policy that still exists today.
 
 ![](_page_35_Picture_4.jpeg)
 
@@ -564,9 +639,9 @@ Monaco has sometimes been part of [Tour de France](https://en.wikipedia.org/wiki
 
 ## Stade Louis II, home of AS Monaco FC
 
-Monaco has two major football teams, both of which play in the [French football league system:](https://en.wikipedia.org/wiki/French_football_league_system) [AS Monaco FC](https://en.wikipedia.org/wiki/AS_Monaco_FC) (Men), and OS Monaco [Women.](https://en.wikipedia.org/wiki/Women) AS Monaco plays at the [Stade Louis II](https://en.wikipedia.org/wiki/Stade_Louis_II) and competes in [Ligue 1.](https://en.wikipedia.org/wiki/Ligue_1) The club is historically one of the most successful clubs in the French league, having won Ligue 1 eight times (most recently in [2016–17\)](https://en.wikipedia.org/wiki/2016%E2%80%9317_Ligue_1) and competed at the top level for all but six seasons since 1953. The club reached the [2004 UEFA Champions League Final,](https://en.wikipedia.org/wiki/2004_UEFA_Champions_League_Final) but lost 3–0 to Portuguese team [FC Porto.](https://en.wikipedia.org/wiki/FC_Porto) French World Cup-winners [Thierry Henry,](https://en.wikipedia.org/wiki/Thierry_Henry) [Fabien Barthez,](https://en.wikipedia.org/wiki/Fabien_Barthez) [David Trezeguet,](https://en.wikipedia.org/wiki/David_Trezeguet) and [Kylian Mbappe](https://en.wikipedia.org/wiki/Kylian_Mbappe) have played for the club. The Stade Louis II also played host to the annual [UEFA Super Cup](https://en.wikipedia.org/wiki/UEFA_Super_Cup) from 1998 to 2012 between the winners of the [UEFA Champions League](https://en.wikipedia.org/wiki/UEFA_Champions_League) and the [UEFA Europa](https://en.wikipedia.org/wiki/UEFA_Europa_League) [League.](https://en.wikipedia.org/wiki/UEFA_Europa_League)
+Monaco has two major football teams, both of which play in the [French football league system:](https://en.wikipedia.org/wiki/French_football_league_system) [AS Monaco FC](https://en.wikipedia.org/wiki/AS_Monaco_FC) (Men), and OS Monaco [Women.](https://en.wikipedia.org/wiki/Women) AS Monaco plays at the [Stade Louis II](https://en.wikipedia.org/wiki/Stade_Louis_II) and competes in [Ligue 1.](https://en.wikipedia.org/wiki/Ligue_1) The club is historically one of the most successful clubs in the French league, having won Ligue 1 eight times (most recently in [2016-17\)](https://en.wikipedia.org/wiki/2016%E2%80%9317_Ligue_1) and competed at the top level for all but six seasons since 1953. The club reached the [2004 UEFA Champions League Final,](https://en.wikipedia.org/wiki/2004_UEFA_Champions_League_Final) but lost 3-0 to Portuguese team [FC Porto.](https://en.wikipedia.org/wiki/FC_Porto) French World Cup-winners [Thierry Henry,](https://en.wikipedia.org/wiki/Thierry_Henry) [Fabien Barthez,](https://en.wikipedia.org/wiki/Fabien_Barthez) [David Trezeguet,](https://en.wikipedia.org/wiki/David_Trezeguet) and [Kylian Mbappe](https://en.wikipedia.org/wiki/Kylian_Mbappe) have played for the club. The Stade Louis II also played host to the annual [UEFA Super Cup](https://en.wikipedia.org/wiki/UEFA_Super_Cup) from 1998 to 2012 between the winners of the [UEFA Champions League](https://en.wikipedia.org/wiki/UEFA_Champions_League) and the [UEFA Europa](https://en.wikipedia.org/wiki/UEFA_Europa_League) [League.](https://en.wikipedia.org/wiki/UEFA_Europa_League)
 
-OS Monaco plays in the French local regional leagues, deep down in the league system. It once played in the [Division 1](https://en.wikipedia.org/wiki/Division_1_F%C3%A9minine) [Féminine,](https://en.wikipedia.org/wiki/Division_1_F%C3%A9minine) in the 1994–95 season, but was quickly relegated. [[citation needed](https://en.wikipedia.org/wiki/Wikipedia:Citation_needed)]
+OS Monaco plays in the French local regional leagues, deep down in the league system. It once played in the [Division 1](https://en.wikipedia.org/wiki/Division_1_F%C3%A9minine) [Féminine,](https://en.wikipedia.org/wiki/Division_1_F%C3%A9minine) in the 1994-95 season, but was quickly relegated. [[citation needed](https://en.wikipedia.org/wiki/Wikipedia:Citation_needed)]
 
 The [Monaco national football team](https://en.wikipedia.org/wiki/Monaco_national_football_team) represented the nation in minor [association football](https://en.wikipedia.org/wiki/Association_football) events and was controlled by the [Monégasque Football Federation,](https://en.wikipedia.org/wiki/Mon%C3%A9gasque_Football_Federation) the governing body for [football in Monaco.](https://en.wikipedia.org/wiki/Football_in_Monaco) As of October 2025, they last played a known match in 2017. The federation continues to manage the national amateur tournament [Challenge Prince Rainier III.](https://en.wikipedia.org/wiki/Challenge_Prince_Rainier_III) Monaco is one of two sovereign states in Europe (along with the [Vatican City\)](https://en.wikipedia.org/wiki/Vatican_City) that is not a member of [UEFA](https://en.wikipedia.org/wiki/UEFA) and so does not take part in any UEFA or [FIFA](https://en.wikipedia.org/wiki/FIFA) competitions.
 
@@ -618,7 +693,7 @@ Two famous restaurants in Monaco include the [Le Louis XV,](https://en.wikipedia
 
 Seaside façade of the Salle Garnier, home of the [Opéra de Monte-Carlo](https://en.wikipedia.org/wiki/Op%C3%A9ra_de_Monte-Carlo)
 
-Monaco has an [opera house,](https://en.wikipedia.org/wiki/Op%C3%A9ra_de_Monte-Carlo) a [symphony orchestra](https://en.wikipedia.org/wiki/Monte-Carlo_Philharmonic_Orchestra) and a [classical ballet company.](https://en.wikipedia.org/wiki/Les_Ballets_de_Monte_Carlo) Monaco participated regularly in the [Eurovision Song Contest](https://en.wikipedia.org/wiki/Monaco_in_the_Eurovision_Song_Contest) between 1959–1979 and 2004–2006, winning in [1971,](https://en.wikipedia.org/wiki/Eurovision_Song_Contest_1971) although none of the artists participating for the principality was originally Monegasque. French-born
+Monaco has an [opera house,](https://en.wikipedia.org/wiki/Op%C3%A9ra_de_Monte-Carlo) a [symphony orchestra](https://en.wikipedia.org/wiki/Monte-Carlo_Philharmonic_Orchestra) and a [classical ballet company.](https://en.wikipedia.org/wiki/Les_Ballets_de_Monte_Carlo) Monaco participated regularly in the [Eurovision Song Contest](https://en.wikipedia.org/wiki/Monaco_in_the_Eurovision_Song_Contest) between 1959-1979 and 2004-2006, winning in [1971,](https://en.wikipedia.org/wiki/Eurovision_Song_Contest_1971) although none of the artists participating for the principality was originally Monegasque. French-born
 
 [Minouche Barelli,](https://en.wikipedia.org/wiki/Minouche_Barelli) however, acquired Monegasque citizenship in 2002, 35 years after her representing the principality in [1967.](https://en.wikipedia.org/wiki/Eurovision_Song_Contest_1967) [\[209\]](#page-83-3)
 
@@ -701,7 +776,7 @@ One of the most important modes of local transportation is walking, and the city
 
 #### Wurtemberg [footbridge.](https://en.wikipedia.org/wiki/Footbridge) [\[221\]](#page-84-5)[\[222\]](#page-84-6)
 
-The [Monaco-Monte Carlo station](https://en.wikipedia.org/wiki/Monaco-Monte-Carlo_station) on the [Marseille–Ventimiglia](https://en.wikipedia.org/wiki/Marseille%E2%80%93Ventimiglia_railway) [railway](https://en.wikipedia.org/wiki/Marseille%E2%80%93Ventimiglia_railway) is served by the [SNCF,](https://en.wikipedia.org/wiki/SNCF) the French national rail system. The train station is the only one in Monaco, and connects the City-State by rail to French cities along the Riveria such as [Nice](https://en.wikipedia.org/wiki/Nice,_France) (and its [Nice Côte d'Azur Airport](https://en.wikipedia.org/wiki/Nice_C%C3%B4te_d%27Azur_Airport) a little under an hour away from Monaco), [Cannes,](https://en.wikipedia.org/wiki/Cannes) and [Marseille](https://en.wikipedia.org/wiki/Marseille) (and to a transit point just east of the [France-Italy border](https://en.wikipedia.org/wiki/France-Italy_border) at [Ventimiglia\)](https://en.wikipedia.org/wiki/Ventimiglia) and high-speed [TGV](https://en.wikipedia.org/wiki/TGV) trains connect to more distant locations such as [Paris:](https://en.wikipedia.org/wiki/Paris) a gateway to the rest of Europe. The current station is built partly underground and was opened in 1999[.\[223\]](#page-84-7)
+The [Monaco-Monte Carlo station](https://en.wikipedia.org/wiki/Monaco-Monte-Carlo_station) on the [Marseille-Ventimiglia](https://en.wikipedia.org/wiki/Marseille%E2%80%93Ventimiglia_railway) [railway](https://en.wikipedia.org/wiki/Marseille%E2%80%93Ventimiglia_railway) is served by the [SNCF,](https://en.wikipedia.org/wiki/SNCF) the French national rail system. The train station is the only one in Monaco, and connects the City-State by rail to French cities along the Riveria such as [Nice](https://en.wikipedia.org/wiki/Nice,_France) (and its [Nice Côte d'Azur Airport](https://en.wikipedia.org/wiki/Nice_C%C3%B4te_d%27Azur_Airport) a little under an hour away from Monaco), [Cannes,](https://en.wikipedia.org/wiki/Cannes) and [Marseille](https://en.wikipedia.org/wiki/Marseille) (and to a transit point just east of the [France-Italy border](https://en.wikipedia.org/wiki/France-Italy_border) at [Ventimiglia\)](https://en.wikipedia.org/wiki/Ventimiglia) and high-speed [TGV](https://en.wikipedia.org/wiki/TGV) trains connect to more distant locations such as [Paris:](https://en.wikipedia.org/wiki/Paris) a gateway to the rest of Europe. The current station is built partly underground and was opened in 1999[.\[223\]](#page-84-7)
 
 The [Monaco Heliport](https://en.wikipedia.org/wiki/Monaco_Heliport) provides helicopter service to the closest airport, Côte d'Azur Airport in Nice, France. The heliport its located in the southwestern edge of Monaco.
 
@@ -727,21 +802,31 @@ France and Italy have embassies within Monaco, while most other nations represen
 
 There are about another 30 or so [consulates.](https://en.wikipedia.org/wiki/Consulates) [\[227\]](#page-85-0) By the 21st century Monaco maintained embassies in Belgium (Brussels), France (Paris), Germany (Berlin), the Vatican, Italy (Rome), Portugal (Lisbon)[,\[229\]](#page-85-2) Spain (Madrid), Switzerland (Bern), United Kingdom (London) and the United States (Washington). [\[227\]](#page-85-0)
 
-As of 2000, nearly two-thirds of the residents of Monaco were foreigners[.\[230\]](#page-85-3) In 2015, the immigrant population was estimated at 60[%\[226\]](#page-84-10) It is reported to be difficult to gain citizenship in Monaco, or at least in relative number there are not many people who do so. In 2015, an immigration rate of about 4 people per 1,000 was noted, or about 100–150 people a year[.\[231\]](#page-85-4) The population of Monaco went from 35,000 in 2008 to 36,000 in 2013, and of that about 20 per cent were native Monegasqu[e\[232\]](#page-85-5) (see also [Nationality law of Monaco\)](https://en.wikipedia.org/wiki/Nationality_law_of_Monaco).
+As of 2000, nearly two-thirds of the residents of Monaco were foreigners[.\[230\]](#page-85-3) In 2015, the immigrant population was estimated at 60[%\[226\]](#page-84-10) It is reported to be difficult to gain citizenship in Monaco, or at least in relative number there are not many people who do so. In 2015, an immigration rate of about 4 people per 1,000 was noted, or about 100-150 people a year[.\[231\]](#page-85-4) The population of Monaco went from 35,000 in 2008 to 36,000 in 2013, and of that about 20 per cent were native Monegasqu[e\[232\]](#page-85-5) (see also [Nationality law of Monaco\)](https://en.wikipedia.org/wiki/Nationality_law_of_Monaco).
 
 A recurring issue Monaco encounters with other countries is the attempt by foreign nationals to use Monaco to avoid paying taxes in their own country[.\[226\]](#page-84-10) Monaco actually collects a number of taxes including a 20% VAT and 33% on companies unless they make over 75% of their income inside Monaco.[\[226\]](#page-84-10) Monaco does not allow dual citizenship but does have multiple paths to citizenship including by declaration and naturalisation. [\[233\]](#page-85-6) In many cases the key issue for obtaining citizenship, rather than attaining residency in Monaco, is the person's ties to their departure country[.\[233\]](#page-85-6) For example, French citizens must still pay taxes to France even if they live full-time in Monaco unless they resided in the country before 1962 for at least 5 years[.\[233\]](#page-85-6) In the early 1960s there was some tension between France and Monaco over taxation[.\[234\]](#page-85-7)
 
 There are no border formalities entering or leaving France. For visitors, a souvenir [passport](https://en.wikipedia.org/wiki/Passport) stamp is available on request at Monaco's tourist office. This is located on the far side of the gardens that face the Casino.
 
-| Microstate | Association<br>Agreement | Eurozone[235] | Schengen<br>Area | EU<br>single<br>market |
+| Microstate | Association
+Agreement | Eurozone[235] | Schengen
+Area | EU
+single
+market |
 |-----------------------|--------------------------|---------------|------------------|------------------------|
-| Monaco<br>(relations) | Negotiating[238] | Yes[d] | De<br>facto[e] | Partial |
+| Monaco
+(relations) | Negotiating[238] | Yes[d] | De
+facto[e] | Partial |
 
 #### **Twin cities**
 
 #### Monaco's [twin cities](https://en.wikipedia.org/wiki/Twin_towns_and_sister_cities) are:
 
-| •<br>Ostend, | •<br>•<br>Macau, | •<br>Lucciana, | Campagna, |
+| •
+Ostend, | •
+•
+Macau, | •
+Lucciana, | Campagna, |
 |--------------|------------------|----------------|-----------------|
 | Belgium | China | Corsica, | Campania, Italy |
 | since | since | France since | since 2015 |
@@ -778,17 +863,17 @@ There are no border formalities entering or leaving France. For visitors, a souv
 - 2. ^ Jump up to: **a b** .["Constitution de la Principaute".](https://web.archive.org/web/20110927091747/http://www.gouv.mc/devwww/wwwnew.nsf/1909$/036c62fe5f92f2efc1256f5b0054fa42gb?Open Document&3Gb) Principaute De Monaco: Ministère d'Etat (in French). Archived from [the](http://www.gouv.mc/devwww/wwwnew.nsf/1909$/036c62fe5f92f2efc1256f5b0054fa42gb?Open Document&3Gb) [original](http://www.gouv.mc/devwww/wwwnew.nsf/1909$/036c62fe5f92f2efc1256f5b0054fa42gb?Open Document&3Gb) on 27 September 2011. "Art. 9. - La religion catholique, apostolique et romaine est religion d'Etat."
 - 3. ^ Jump up to: **a b c** ["The Global Religious Landscape"](https://web.archive.org/web/20170125173538/https://www.pewforum.org/files/2014/01/global-religion-full.pdf) (PDF). Pewforum.org. Archived from [the original](https://www.pewforum.org/files/2014/01/global-religion-full.pdf) (PDF) on 25 January 2017. Retrieved 2 October 2015.
 - 4. ^ ["Frequently Asked Questions".](https://monacodc.org/faqusa.html#spoken) Embassy of Monaco in Washington D. C. Retrieved 9 August 2024.
-- 5. ^ "Chapitre 1 [– Territoire et Environnement"](https://en.gouv.mc/content/download/527825/6060305/file/Monaco%20en%20Chiffres%202025%20-%201.%20Territoire%20et%20Environnement.pdf) (PDF). Monaco en Chiffre 2025 (in French). Institut Monégasque de la Statistique et des Études Économiques. Retrieved 30 July 2025.
+- 5. ^ "Chapitre 1 [- Territoire et Environnement"](https://en.gouv.mc/content/download/527825/6060305/file/Monaco%20en%20Chiffres%202025%20-%201.%20Territoire%20et%20Environnement.pdf) (PDF). Monaco en Chiffre 2025 (in French). Institut Monégasque de la Statistique et des Études Économiques. Retrieved 30 July 2025.
 - 6. ^ ["Monaco in Figures 2024".](https://www.monacostatistics.mc/Publications/Monaco-in-Figures-2024) monacostatistics.mc. [Monaco](https://en.wikipedia.org/wiki/Monaco_Statistics) [Statistics.](https://en.wikipedia.org/wiki/Monaco_Statistics) Retrieved 12 October 2024.
 - 7. ^ ["Population census".](https://www.monacostatistics.mc/Population-and-employment/Population-census) monacostatistics.mc. [Monaco](https://en.wikipedia.org/wiki/Monaco_Statistics) [Statistics.](https://en.wikipedia.org/wiki/Monaco_Statistics) Retrieved 16 April 2025.
 - 8. ^ Jump up to: **a b c d** "EUROPE [:: MONACO".](https://www.cia.gov/the-world-factbook/countries/monaco/) [The World](https://en.wikipedia.org/wiki/The_World_Factbook) [Factbook.](https://en.wikipedia.org/wiki/The_World_Factbook) Central Intelligence Agency. 2 September 2025.
 - 9. [^](about:reader?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FMonaco#cite_ref-9) ["What side of the road do people drive on?".](http://whatsideoftheroad.com/) Whatsideoftheroad.com. [Archived](https://web.archive.org/web/20120413182951/http://whatsideoftheroad.com/) from the original on 13 April 2012. Retrieved 28 May 2012.
 
 - 10. ^ ["Ventimiglia - Principato di Monaco".](https://www.distanza.org/Ventimiglia/Principato%20di%20Monaco) www.distanza.org. [Archived](https://web.archive.org/web/20190506080655/https://www.distanza.org/Ventimiglia/Principato%2520di%2520Monaco) from the original on 6 May 2019. Retrieved 8 April 2020.
-- 11. ^ ["Monaco Statistics / IMSEE](http://www.monacostatistics.mc/IMSEE/Publications/monaco-statistics-pocket) — Monaco IMSEE". Imsee.mc (in French). [Archived](https://web.archive.org/web/20160304130422/http://www.monacostatistics.mc/IMSEE/Publications/monaco-statistics-pocket) from the original on 4 March 2016. Retrieved 3 August 2016.
+- 11. ^ ["Monaco Statistics / IMSEE](http://www.monacostatistics.mc/IMSEE/Publications/monaco-statistics-pocket) -- Monaco IMSEE". Imsee.mc (in French). [Archived](https://web.archive.org/web/20160304130422/http://www.monacostatistics.mc/IMSEE/Publications/monaco-statistics-pocket) from the original on 4 March 2016. Retrieved 3 August 2016.
 - 12. ^ ["Demography / Population and employment / IMSEE -](https://www.monacostatistics.mc/Population-and-employment/Demography) [Monaco IMSEE".](https://www.monacostatistics.mc/Population-and-employment/Demography) www.monacostatistics.mc. [Archived](https://web.archive.org/web/20201030095126/https://www.monacostatistics.mc/Population-and-employment/Demography) from the original on 30 October 2020. Retrieved 25 September 2020.
 - 13. ^ ["Communiqué de la Direction des Services Judiciaires".](https://www.gouv.mc/Actualites/Communique-de-la-Direction-des-Services-Judiciaires) Government of Monaco (in French). 26 June 2019. [Archived](https://web.archive.org/web/20220217012051/https://www.gouv.mc/Actualites/Communique-de-la-Direction-des-Services-Judiciaires) from the original on 17 February 2022. Retrieved 7 June 2024.
-- 14. ^ In fact [Francesco Grimaldi,](https://en.wikipedia.org/wiki/Fran%C3%A7ois_Grimaldi) who captured [the Rock](https://en.wikipedia.org/wiki/Monaco-Ville) on the night of 8 January 1297, was forced to flee Monaco only four years after the fabled raid, never to come back. The Grimaldi family was not able to permanently secure their holding until 1419 when they purchased Monaco, along with two neighbouring villages, [Menton](https://en.wikipedia.org/wiki/Menton) and [Roquebrune.](https://en.wikipedia.org/wiki/Roquebrune-Cap-Martin) Source: [Edwards, Anne](https://en.wikipedia.org/wiki/Anne_Edwards) (1992). The Grimaldis of Monaco: The Centuries of Scandal – The Years of Grace. [William Morrow.](https://en.wikipedia.org/wiki/William_Morrow_and_Company) [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier)) [978-0-688-08837-8.](https://en.wikipedia.org/wiki/Special:Book Sources/978-0-688-08837-8)
+- 14. ^ In fact [Francesco Grimaldi,](https://en.wikipedia.org/wiki/Fran%C3%A7ois_Grimaldi) who captured [the Rock](https://en.wikipedia.org/wiki/Monaco-Ville) on the night of 8 January 1297, was forced to flee Monaco only four years after the fabled raid, never to come back. The Grimaldi family was not able to permanently secure their holding until 1419 when they purchased Monaco, along with two neighbouring villages, [Menton](https://en.wikipedia.org/wiki/Menton) and [Roquebrune.](https://en.wikipedia.org/wiki/Roquebrune-Cap-Martin) Source: [Edwards, Anne](https://en.wikipedia.org/wiki/Anne_Edwards) (1992). The Grimaldis of Monaco: The Centuries of Scandal - The Years of Grace. [William Morrow.](https://en.wikipedia.org/wiki/William_Morrow_and_Company) [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier)) [978-0-688-08837-8.](https://en.wikipedia.org/wiki/Special:Book Sources/978-0-688-08837-8)
 - 15. ^ ["The 1.25-mile waterfront stretch in Monaco that used to be](https://www.businessinsider.com/most-expensive-street-in-monaco-avenue-princesse-grace-2020-1) [the world's most expensive street looks no different from the](https://www.businessinsider.com/most-expensive-street-in-monaco-avenue-princesse-grace-2020-1) [rest of the city".](https://www.businessinsider.com/most-expensive-street-in-monaco-avenue-princesse-grace-2020-1) [Business Insider.](https://en.wikipedia.org/wiki/Business_Insider) [Archived](https://web.archive.org/web/20200112200105/https://www.businessinsider.com/most-expensive-street-in-monaco-avenue-princesse-grace-2020) from the original on 12 January 2020. Retrieved 21 July 2022.
 - 16. ^ ["Monaco Is The Most Expensive Place To Buy Property In The](https://forbes.mc/article/monaco-is-the-most-expensive-place-to-buy-property-in-the-world) [World".](https://forbes.mc/article/monaco-is-the-most-expensive-place-to-buy-property-in-the-world) [Archived](https://web.archive.org/web/20220529225530/https://forbes.mc/article/monaco-is-the-most-expensive-place-to-buy-property-in-the-world) from the original on 29 May 2022. Retrieved 21 July 2022.
 
@@ -799,7 +884,7 @@ There are no border formalities entering or leaving France. For visitors, a souv
 - 21. ^ ["Monaco's Prince Albert II: Oceans are a 'family heritage,'](https://www.latimes.com/environment/story/2020-02-13/an-interview-with-prince-albert-ii-of-monaco-on-the-state-of-the-planet) [with little time to save them".](https://www.latimes.com/environment/story/2020-02-13/an-interview-with-prince-albert-ii-of-monaco-on-the-state-of-the-planet) Los Angeles Times. 13 February 2020. [Archived](https://web.archive.org/web/20200925235323/https://www.latimes.com/environment/story/2020-02-13/an-interview-with-prince-albert-ii-of-monaco-on-the-state-of-the-planet) from the original on 25 September 2020. Retrieved 26 September 2020.
 - 22. ^ ["Ocean Acidification International Coordination Centre \(OA-](https://www.un.org/Depts/los/consultative_process/icp20presentations/Swarzenski.pdf)[ICC\)"](https://www.un.org/Depts/los/consultative_process/icp20presentations/Swarzenski.pdf) (PDF). United Nations. [Archived](https://web.archive.org/web/20210411083152/https://www.un.org/Depts/los/consultative_process/icp20presentations/Swarzenski.pdf) (PDF) from the original on 11 April 2021. Retrieved 26 September 2020.
 - 23. ^ ["Division of IAEA Marine Environment Laboratories \(NAML\)".](https://www.iaea.org/about/organizational-structure/department-of-nuclear-sciences-and-applications/division-of-iaea-marine-environment-laboratories) www.iaea.org. 8 June 2016. Retrieved 18 July 2024.
-- 24. ^ Jump up to: **a b** Reinach, Salomon (1912). ["Le nom de](https://www.persee.fr/doc/crai_0065-0536_1912_num_56_2_72984) [Monaco".](https://www.persee.fr/doc/crai_0065-0536_1912_num_56_2_72984) Comptes rendus des séances de l'Académie des Inscriptions et Belles-Lettres. **56** (2): 98–100.
+- 24. ^ Jump up to: **a b** Reinach, Salomon (1912). ["Le nom de](https://www.persee.fr/doc/crai_0065-0536_1912_num_56_2_72984) [Monaco".](https://www.persee.fr/doc/crai_0065-0536_1912_num_56_2_72984) Comptes rendus des séances de l'Académie des Inscriptions et Belles-Lettres. **56** (2): 98-100.
 - 25. ^ Müller, Karl (1841). [Fragmenta Historicorum Graecorum.](https://archive.org/details/bub_gb_y5pxAAAAIAAJ/page/n96) Vol. 1. Paris: Ambroise Firmin Didot. p. 2.
 
 - 26. ^ [Strabo, Geography.](https://archive.org/details/Strabo08Geography17And Index/Strabo%2002%20Geography%203-5/page/266) Vol. 2. Translated by Jones, Horace Leonard. Cambridge, MA: Harvard University Press. 2006 [1923]. pp. 266 f. [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier)) [0-674-99056-0.](https://en.wikipedia.org/wiki/Special:Book Sources/0-674-99056-0)
@@ -808,24 +893,24 @@ There are no border formalities entering or leaving France. For visitors, a souv
 - 29. ^ ["Monaco history".](http://www.visitmonaco.com/us/About-Monaco/History) Visitmonaco.com. [Archived](https://web.archive.org/web/20180429091104/http://www.visitmonaco.com/us/About-Monaco/History) from the original on 29 April 2018. Retrieved 28 May 2012.
 - 30. ^ ["Histoire de Monaco, famille Grimaldi | Monte-Carlo SBM".](http://fr.montecarlosbm.com/sejour-luxe-monaco/monte-carlo/histoire/) Fr.montecarlosbm.com. [Archived](https://web.archive.org/web/20120609075355/http://fr.montecarlosbm.com/sejour-luxe-monaco/monte-carlo/histoire/) from the original on 9 June 2012. Retrieved 28 May 2012.
 - 31. ^ Jump up to: **a b** ["The Mediterranean Empire of the Crown of](http://explorethemed.com/Aragon Med.asp?c=1) [Aragon".](http://explorethemed.com/Aragon Med.asp?c=1) explorethemed.com. [Archived](https://web.archive.org/web/20161204061004/http://explorethemed.com/Aragon Med.asp?c=1) from the original on 4 December 2016. Retrieved 8 August 2015.
-- 32. ^ ["Monaco – The Principality of Monaco".](http://monaco.me/) Monaco.me. [Archived](https://web.archive.org/web/20200721155700/https://monaco.me/) from the original on 21 July 2020. Retrieved 28 May 2012.
+- 32. ^ ["Monaco - The Principality of Monaco".](http://monaco.me/) Monaco.me. [Archived](https://web.archive.org/web/20200721155700/https://monaco.me/) from the original on 21 July 2020. Retrieved 28 May 2012.
 - 33. ^ Jump up to: **a b** ["The History Of Monaco".](https://web.archive.org/web/20130116210501/http://www.monacoangebote.de/index.php?q=en%2Fhistory) Monacoangebote.de. Archived from [the original](http://www.monacoangebote.de/index.php?q=en/history) on 16 January 2013. Retrieved 28 May 2012.
 - 34. ^ ["Monaco: History".](https://web.archive.org/web/20120629221745/http://www3.monaco.mc/monaco/info/history1.html) monaco.mc. Archived from [the original](http://www3.monaco.mc/monaco/info/history1.html) on 29 June 2012. Retrieved 28 May 2012.
-- 35. ^ Jump up to: **a b** ["Important dates – Monaco Monte-Carlo".](http://www.monte-carlo.mc/en/general/important-dates/) Monte-carlo.mc. [Archived](https://web.archive.org/web/20120501230623/http://www.monte-carlo.mc/en/general/important-dates/) from the original on 1 May 2012. Retrieved 28 May 2012.
+- 35. ^ Jump up to: **a b** ["Important dates - Monaco Monte-Carlo".](http://www.monte-carlo.mc/en/general/important-dates/) Monte-carlo.mc. [Archived](https://web.archive.org/web/20120501230623/http://www.monte-carlo.mc/en/general/important-dates/) from the original on 1 May 2012. Retrieved 28 May 2012.
 
 - 36. ^ Jump up to: **a b** ["24 X 7".](http://www.infoplease.com/ce6/world/A0859729.html) Infoplease.com. [Archived](https://web.archive.org/web/20120119091320/http://www.infoplease.com/ce6/world/A0859729.html) from the original on 19 January 2012. Retrieved 28 May 2012.
 - 37. ^ Jump up to: **a b c** ["Il monegasco, una lingua che si studia a](https://www.miglioverde.eu/monegasco-lingua-si-studia-scuola-ed-obbligatoria/) [scuola ed è obbligatoria"](https://www.miglioverde.eu/monegasco-lingua-si-studia-scuola-ed-obbligatoria/) (in Italian). 15 September 2014. [Archived](https://web.archive.org/web/20220817073845/https://www.miglioverde.eu/monegasco-lingua-si-studia-scuola-ed-obbligatoria/) from the original on 17 August 2022. Retrieved 6 June 2022.
-- 38. ^ ["History of the Principality of Monaco – Access Properties](http://www.accesspropertiesmonaco.com/en/histoire) [Monaco – Real-estate Agency Monaco".](http://www.accesspropertiesmonaco.com/en/histoire) Access Properties Monaco. [Archived](https://web.archive.org/web/20120809043450/http://www.accesspropertiesmonaco.com/en/histoire) from the original on 9 August 2012. Retrieved 28 May 2012.
+- 38. ^ ["History of the Principality of Monaco - Access Properties](http://www.accesspropertiesmonaco.com/en/histoire) [Monaco - Real-estate Agency Monaco".](http://www.accesspropertiesmonaco.com/en/histoire) Access Properties Monaco. [Archived](https://web.archive.org/web/20120809043450/http://www.accesspropertiesmonaco.com/en/histoire) from the original on 9 August 2012. Retrieved 28 May 2012.
 - 39. ^ ["History of Monaco".](http://monacodc.org/monhistory.html) Monacodc.org. [Archived](https://web.archive.org/web/20120424212758/http://monacodc.org/monhistory.html) from the original on 24 April 2012. Retrieved 28 May 2012.
-- 40. ^ ["Histoire de la Principauté – Monaco – Mairie de Monaco".](https://web.archive.org/web/20120603055329/http://www.monaco-mairie.mc/principaute-monaco-monte-carlo) Monaco-mairie.mc. Archived from [the original](http://www.monaco-mairie.mc/principaute-monaco-monte-carlo/) on 3 June 2012. Retrieved 28 May 2012.
+- 40. ^ ["Histoire de la Principauté - Monaco - Mairie de Monaco".](https://web.archive.org/web/20120603055329/http://www.monaco-mairie.mc/principaute-monaco-monte-carlo) Monaco-mairie.mc. Archived from [the original](http://www.monaco-mairie.mc/principaute-monaco-monte-carlo/) on 3 June 2012. Retrieved 28 May 2012.
 - 41. ^ ["MONACO".](https://web.archive.org/web/20120610183922/http://www.tlfq.ulaval.ca/axl/europe/monaco.htm) Tlfq.ulaval.ca. Archived from [the original](http://www.tlfq.ulaval.ca/axl/europe/monaco.htm) on 10 June 2012. Retrieved 28 May 2012.
 - 42. ^ ["Monaco timeline".](http://news.bbc.co.uk/2/hi/europe/country_profiles/2530539.stm) BBC News. 28 March 2012. [Archived](https://web.archive.org/web/20120527123632/http://news.bbc.co.uk/2/hi/europe/country_profiles/2530539.stm) from the original on 27 May 2012. Retrieved 28 May 2012.
-- 43. ^ ["Monaco History, History of Monaco – Allo' Expat Monaco -](https://web.archive.org/web/20120527162437/http://www.monaco.alloexpat.com/monaco_information/history_of_monaco.php) [World War II".](https://web.archive.org/web/20120527162437/http://www.monaco.alloexpat.com/monaco_information/history_of_monaco.php) Monaco.alloexpat.com. Archived from the original on 27 May 2012. Retrieved 28 May 2012.
-- 44. ^ Abramovici P. Un rocher bien occupé : Monaco pendant la guerre 1939–1945 Editions Seuil, Paris 2001, [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier)) [2-02-037211-8](https://en.wikipedia.org/wiki/Special:Book Sources/2-02-037211-8)
+- 43. ^ ["Monaco History, History of Monaco - Allo' Expat Monaco -](https://web.archive.org/web/20120527162437/http://www.monaco.alloexpat.com/monaco_information/history_of_monaco.php) [World War II".](https://web.archive.org/web/20120527162437/http://www.monaco.alloexpat.com/monaco_information/history_of_monaco.php) Monaco.alloexpat.com. Archived from the original on 27 May 2012. Retrieved 28 May 2012.
+- 44. ^ Abramovici P. Un rocher bien occupé : Monaco pendant la guerre 1939-1945 Editions Seuil, Paris 2001, [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier)) [2-02-037211-8](https://en.wikipedia.org/wiki/Special:Book Sources/2-02-037211-8)
 - 45. ^ ["Monaco histoire".](http://tmeheust.free.fr/monacohistoire2.html) Tmeheust.free.fr. [Archived](https://web.archive.org/web/20110518004243/http://tmeheust.free.fr/monacohistoire2.html) from the
 
 - original on 18 May 2011. Retrieved 28 May 2012.
-- 46. ^ ["Monaco Principality of Monaco Principauté de Monaco –](http://www.nationsonline.org/oneworld/monaco.htm) [French Riviera Travel and Tourism".](http://www.nationsonline.org/oneworld/monaco.htm) Nationsonline.org. [Archived](https://web.archive.org/web/20120518103134/http://www.nationsonline.org/oneworld/monaco.htm) from the original on 18 May 2012. Retrieved 28 May 2012.
+- 46. ^ ["Monaco Principality of Monaco Principauté de Monaco -](http://www.nationsonline.org/oneworld/monaco.htm) [French Riviera Travel and Tourism".](http://www.nationsonline.org/oneworld/monaco.htm) Nationsonline.org. [Archived](https://web.archive.org/web/20120518103134/http://www.nationsonline.org/oneworld/monaco.htm) from the original on 18 May 2012. Retrieved 28 May 2012.
 - 47. ^ ["The 1963 Franco-Monegasque tax treaty".](https://www.valeri-agency.com/en/pages/1963-franco-monegasque-tax-treaty.html) [Archived](https://web.archive.org/web/20240312175647/https://www.valeri-agency.com/en/pages/1963-franco-monegasque-tax-treaty.html) from the original on 12 March 2024. Retrieved 12 March 2024.
 - 48. ^ Jump up to: **a b c** ["Monaco".](https://www.cia.gov/the-world-factbook/countries/monaco/) The World Factbook. CIA. [Archived](https://web.archive.org/web/20211230233800/https://www.cia.gov/the-world-factbook/countries/monaco/) from the original on 30 December 2021. Retrieved 22 March 2012.
 - 49. ^ ["History of Monaco. Monaco chronology".](https://web.archive.org/web/20130116210452/http://www.europe-cities.com/en/657/monaco/history/chronology/) Europe-cities.com. Archived from [the original](http://www.europe-cities.com/en/657/monaco/history/chronology/) on 16 January 2013. Retrieved 28 May 2012.
@@ -840,7 +925,7 @@ There are no border formalities entering or leaving France. For visitors, a souv
 - 56. ^ Jump up to: **a b** Colin Randall (23 May 2013). ["Monaco €1](http://www.thenational.ae/business/industry-insights/property/monaco-1-billion-reclamation-plan-for-luxury-homes-district) [billion reclamation plan for luxury homes district".](http://www.thenational.ae/business/industry-insights/property/monaco-1-billion-reclamation-plan-for-luxury-homes-district) thenational.ae. [Archived](https://web.archive.org/web/20160925142503/http://www.thenational.ae/business/industry-insights/property/monaco-1-billion-reclamation-plan-for-luxury-homes-district) from the original on 25 September 2016. Retrieved 8 August 2015.
 - 57. ^ Jump up to: **a b** ["Monaco's New Marina, in 10 Years from](https://web.archive.org/web/20150904002029/http://www.mooringspot.com/anse-portier-marina-monaco-monte-carlo-new-berths) [now".](https://web.archive.org/web/20150904002029/http://www.mooringspot.com/anse-portier-marina-monaco-monte-carlo-new-berths) mooringspot.com. Archived from [the original](http://www.mooringspot.com/anse-portier-marina-monaco-monte-carlo-new-berths) on 4 September 2015. Retrieved 8 August 2015.
 - 58. ^ ["Forbes Life".](https://www.forbes.com/sites/jimdobson/2015/06/25/the-future-of-monaco-man-made-island-and-floating-formula-one-race-track/) forbes.com. [Archived](https://web.archive.org/web/20171011022948/https://www.forbes.com/sites/jimdobson/2015/06/25/the-future-of-monaco-man-made-island-and-floating-formula-one-race-track/) from the original on 11 October 2017. Retrieved 18 September 2017.
-- 59. ^ Gouvernement Monaco [@Gvt Monaco] (28 February 2020). ["\[#Coronavirus\] Les autorités sanitaires de la Principauté ont](https://x.com/Gvt Monaco/status/1233513588884676611) [été informées qu'une personne prise en charge dans la](https://x.com/Gvt Monaco/status/1233513588884676611) [matinée et conduite au Centre Hospitalier Princesse Grace](https://x.com/Gvt Monaco/status/1233513588884676611) [était positive au COVID 19. Son état de santé n'inspire pas](https://x.com/Gvt Monaco/status/1233513588884676611) [d'inquiétude"](https://x.com/Gvt Monaco/status/1233513588884676611) [\(Tweet\)](https://en.wikipedia.org/wiki/Tweet_(social_media)) – via [Twitter.](https://en.wikipedia.org/wiki/Twitter)
+- 59. ^ Gouvernement Monaco [@Gvt Monaco] (28 February 2020). ["\[#Coronavirus\] Les autorités sanitaires de la Principauté ont](https://x.com/Gvt Monaco/status/1233513588884676611) [été informées qu'une personne prise en charge dans la](https://x.com/Gvt Monaco/status/1233513588884676611) [matinée et conduite au Centre Hospitalier Princesse Grace](https://x.com/Gvt Monaco/status/1233513588884676611) [était positive au COVID 19. Son état de santé n'inspire pas](https://x.com/Gvt Monaco/status/1233513588884676611) [d'inquiétude"](https://x.com/Gvt Monaco/status/1233513588884676611) [\(Tweet\)](https://en.wikipedia.org/wiki/Tweet_(social_media)) - via [Twitter.](https://en.wikipedia.org/wiki/Twitter)
 - 60. ^ Bulant, Jeanne (29 February 2020). ["Coronavirus: un premier](https://www.bfmtv.com/sante/coronavirus-un-premier-cas-de-contamination-detecte-a-monaco-et-transfere-au-chu-de-nice-1866392.html) [cas de contamination détecté à Monaco et transféré au CHU de](https://www.bfmtv.com/sante/coronavirus-un-premier-cas-de-contamination-detecte-a-monaco-et-transfere-au-chu-de-nice-1866392.html) [Nice".](https://www.bfmtv.com/sante/coronavirus-un-premier-cas-de-contamination-detecte-a-monaco-et-transfere-au-chu-de-nice-1866392.html) BFMTV (in French). Agence France-Presse. [Archived](https://web.archive.org/web/20200229112259/https://www.bfmtv.com/sante/coronavirus-un-premier-cas-de-contamination-detecte-a-monaco-et-transfere-au-chu-de-nice-1866392.html) from the original on 29 February 2020. Retrieved 29 February 2020.
 - 61. ^ Bongiovanni, Francesco M. (5 September 2020). ["Historical](https://www.orbitalsolutions.mc/post/historical-launch-on-sept-2nd-2020-the-first-satellite-from-monaco-is-now-orbiting-the-earth) [launch on Sept. 2nd, 2020: The first satellite from Monaco is](https://www.orbitalsolutions.mc/post/historical-launch-on-sept-2nd-2020-the-first-satellite-from-monaco-is-now-orbiting-the-earth) [now orbiting the earth".](https://www.orbitalsolutions.mc/post/historical-launch-on-sept-2nd-2020-the-first-satellite-from-monaco-is-now-orbiting-the-earth) Orbital Solutions. [Archived](https://web.archive.org/web/20201024003753/https://www.orbitalsolutions.mc/post/historical-launch-on-sept-2nd-2020-the-first-satellite-from-monaco-is-now-orbiting-the-earth) from the
 
@@ -853,19 +938,19 @@ There are no border formalities entering or leaving France. For visitors, a souv
 - 67. ^ ["Monaco - Freedom in the World 2024 Country Report".](https://freedomhouse.org/country/monaco/freedom-world/2024) [Freedom House.](https://en.wikipedia.org/wiki/Freedom_House) Retrieved 3 October 2025.
 - 68. ^ Jump up to: **a b** ["Deux listes pour une mairie".](https://web.archive.org/web/20130510034909/http://www.monacohebdo.mc/4786-deux-listes-pour-une-mairie) Monaco Hebdo. Archived from [the original](http://www.monacohebdo.mc/4786-deux-listes-pour-une-mairie) on 10 May 2013. Retrieved 15 April 2013.
 - 69. ^ Mairie de Monaco. ["Les élus".](https://web.archive.org/web/20130515063156/http://www.monaco-mairie.mc/elus-monaco/) La Mairie de Monaco. Archived from [the original](http://www.monaco-mairie.mc/elus-monaco/) on 15 May 2013. Retrieved 15 April 2013.
-- 70. ^ ["Le Conseil Communal – Mairie de Monaco".](https://web.archive.org/web/20130116232740/http://www.monaco-mairie.mc/mairie-monaco/le-conseil-communal/) La Mairie de Monaco. Archived from [the original](http://www.monaco-mairie.mc/mairie-monaco/le-conseil-communal/) on 16 January 2013. Retrieved 15 April 2013.
+- 70. ^ ["Le Conseil Communal - Mairie de Monaco".](https://web.archive.org/web/20130116232740/http://www.monaco-mairie.mc/mairie-monaco/le-conseil-communal/) La Mairie de Monaco. Archived from [the original](http://www.monaco-mairie.mc/mairie-monaco/le-conseil-communal/) on 16 January 2013. Retrieved 15 April 2013.
 - 71. ^ ["Élections communales à Monaco: vingt-quatre candidats en](http://www.nicematin.com/article/actualites/elections-communales-a-monaco-vingt-quatre-candidats-en-lice.460784.html) [lice".](http://www.nicematin.com/article/actualites/elections-communales-a-monaco-vingt-quatre-candidats-en-lice.460784.html) nicematin.com. [Archived](https://web.archive.org/web/20130606193455/http://www.nicematin.com/article/actualites/elections-communales-a-monaco-vingt-quatre-candidats-en-lice.460784.html) from the original on 6 June
 
 - 2013. Retrieved 15 April 2013.
 - 72. ^ [La justice à Monaco](http://www.justice.gouv.fr/organisation-de-la-justice-10031/la-justice-a-monaco-23315.html) [Archived](https://web.archive.org/web/20211202233638/http://www.justice.gouv.fr/organisation-de-la-justice-10031/la-justice-a-monaco-23315.html) 2 December 2021 at the [Wayback Machine:](https://en.wikipedia.org/wiki/Wayback_Machine) "Les deux chefs de la cour d'appel, le premier président et le procureur général, sont des magistrats français."
 - 73. ^ ["Security in Monaco".](http://www.monte-carlo.mc/en/information/safety/) Monte-carlo.mc. 13 May 2012. [Archived](https://web.archive.org/web/20120506013905/http://www.monte-carlo.mc/en/information/safety/) from the original on 6 May 2012. Retrieved 28 May 2012.
 - 74. ^ ["Division de Police Maritime et Aéroportuaire".](http://www.gouv.mc/Gouvernement-et-Institutions/Le-Gouvernement/Departement-de-l-Interieur/Direction-de-la-Surete-Publique/Division-de-Police-Maritime-et-Aeroportuaire) Gouv.mc (in French). 16 August 1960. [Archived](https://web.archive.org/web/20120717001240/http://www.gouv.mc/Gouvernement-et-Institutions/Le-Gouvernement/Departement-de-l-Interieur/Direction-de-la-Surete-Publique/Division-de-Police-Maritime-et-Aeroportuaire) from the original on 17 July 2012. Retrieved 28 May 2012.
-- 75. ^ ["The Palace Guards – Prince's Palace of Monaco".](https://web.archive.org/web/20120423061945/http://www.palais.mc/monaco/palais-princier/english/sovereign-house/the-palace-guards/the-palace-guards.453.html) Palais.mc. 27 January 2011. Archived from [the original](http://www.palais.mc/monaco/palais-princier/english/sovereign-house/the-palace-guards/the-palace-guards.453.html) on 23 April 2012. Retrieved 28 May 2012.
+- 75. ^ ["The Palace Guards - Prince's Palace of Monaco".](https://web.archive.org/web/20120423061945/http://www.palais.mc/monaco/palais-princier/english/sovereign-house/the-palace-guards/the-palace-guards.453.html) Palais.mc. 27 January 2011. Archived from [the original](http://www.palais.mc/monaco/palais-princier/english/sovereign-house/the-palace-guards/the-palace-guards.453.html) on 23 April 2012. Retrieved 28 May 2012.
 - 76. ^ ["Présentation".](https://web.archive.org/web/20131206010807/http://www.pompiers.gouv.mc/321/wwwnew.nsf/1909!/x1Fr?Open Document&1Fr) Corps des sapeurs-pompiers de Monaco. Archived from [the original](http://www.pompiers.gouv.mc/321/wwwnew.nsf/1909!/x1Fr?Open Document%261Fr) on 6 December 2013. Retrieved 22 May 2012.
 - 77. ^ ["Compagnie des Carabiniers du Prince".](http://www.gouv.mc/Gouvernement-et-Institutions/Le-Gouvernement/Departement-de-l-Interieur/Compagnie-des-Carabiniers-du-Prince) Gouv.mc (in French). [Archived](https://web.archive.org/web/20120205223110/http://www.gouv.mc/Gouvernement-et-Institutions/Le-Gouvernement/Departement-de-l-Interieur/Compagnie-des-Carabiniers-du-Prince) from the original on 5 February 2012. Retrieved 12 March 2013.
 - 78. ^ ["Department of External Relations \(Monaco\)".](https://en.wikipedia.org/wiki/Department_of_External_Relations_%28Monaco%29)
 - 79. ^ ["Foreign relations of Monaco".](https://en.wikipedia.org/wiki/Foreign_relations_of_Monaco)
-- 80. ^ Jump up to: **a b** ["Monaco–European Union relations".](https://en.wikipedia.org/wiki/Monaco%E2%80%93European_Union_relations)
+- 80. ^ Jump up to: **a b** ["Monaco-European Union relations".](https://en.wikipedia.org/wiki/Monaco%E2%80%93European_Union_relations)
 - 81. ^ ["Foreign relations of Monaco".](https://en.wikipedia.org/wiki/Foreign_relations_of_Monaco)
 - 82. ^ Jump up to: **a b** ["Monaco and the Council of Europe".](https://monaco-coe.gouv.mc/en/monaco-and-the-council-of-europe)
 
@@ -875,7 +960,7 @@ There are no border formalities entering or leaving France. For visitors, a souv
 - 86. ^ ["Geography and Map of Monaco".](http://mapofeurope.com/monaco/) mapofeurope.com. [Archived](https://web.archive.org/web/20140911223740/http://mapofeurope.com/monaco/) from the original on 11 September 2014. Retrieved 11 September 2014.
 - 87. ^ Jump up to: **a b** ["Monaco's Areas / Monaco Official Site".](https://web.archive.org/web/20130116210456/http://visitmonaco.com/us/About-Monaco/Geography/Monaco%27s-Areas) Visitmonaco.com. Archived from [the original](http://visitmonaco.com/us/About-Monaco/Geography/Monaco%27s-Areas) on 16 January 2013. Retrieved 12 March 2013.
 - 88. ^ ["Observatoire Cave, Monaco".](https://www.mindat.org/loc-263819.html) Mindat.org. Hudson Institute of Mineralogy. [Archived](https://web.archive.org/web/20240515035613/https://www.mindat.org/loc-263819.html) from the original on 15 May 2024.
-- 89. ^ Highest point at ground level (Access to Patio Palace on D6007) ["Monaco Statistics pocket – Edition 2014"](http://www.gouv.mc/content/download/175997/2030403/file/monaco%20statistics%20pocket%202014.pdf) (PDF). Monaco Statistics – Principality of Monaco. [Archived](https://web.archive.org/web/20141217010344/http://www.gouv.mc/content/download/175997/2030403/file/monaco%20statistics%20pocket%202014.pdf) (PDF) from the original on 17 December 2014. Retrieved 30 March 2015.
+- 89. ^ Highest point at ground level (Access to Patio Palace on D6007) ["Monaco Statistics pocket - Edition 2014"](http://www.gouv.mc/content/download/175997/2030403/file/monaco%20statistics%20pocket%202014.pdf) (PDF). Monaco Statistics - Principality of Monaco. [Archived](https://web.archive.org/web/20141217010344/http://www.gouv.mc/content/download/175997/2030403/file/monaco%20statistics%20pocket%202014.pdf) (PDF) from the original on 17 December 2014. Retrieved 30 March 2015.
 - 90. ^ ["Highest and lowest points in countries islands oceans of the](http://www.worldatlas.com/aatlas/infopage/highlow.htm) [world".](http://www.worldatlas.com/aatlas/infopage/highlow.htm) Worldatlas.com. [Archived](https://web.archive.org/web/20110824111026/http://www.worldatlas.com/aatlas/infopage/highlow.htm) from the original on 24 August 2011. Retrieved 6 September 2012.
 - 91. ^ ["Monaco".](https://maps.google.com/maps?hl=en&cp=5&gs_id=28&xhr=t&q=monaco&safe=off&bav=on.2, or.r_gc.r_pw.r_qf., cf.osb&biw=1366&bih=704&um=1&ie=UTF-8&sa=N&tab=wl) Google Maps. [Archived](https://web.archive.org/web/20220427104442/https://www.google.com/gen_204?v=3&s=tactile&action=vtworker&srt=743&tbsrt=809&tran=15&conn=onchange&ei=lB5p YsXKBMOdkPIPh-mgs Ac&cad=vws:3797.9049999266863, cr:wccf10, ct:2, jsv:20220424.0, cz:14, w:1055, h:19555, sc:0, drv:m&e=10202786,10202788,10203448,10203487,10203489,10203509,10203568,10203575,10204034,10204121,10204178,10204258,10204417,10204423,10204507,10204517,10204520,10204567,10204686,10204729,10204732,10204743,10204811,10205027,10205070,10205123,10205201,10205262,10205270,10205334,10205340,1381033,1368782,1368785,4592408,45359068,1375050,4536287&atyp=csi&rt=noop.0) from the original on 27 April 2022. Retrieved 6 September 2012.
 - 92. ^ Jump up to: **a b c d** ["Plan General De La Principaute De](https://www.webcitation.org/67zk5DtcP?url=http://cloud.gouv.mc/devwww/wwwnew.nsf/e89a6190e96cbd1fc1256f7f005dbe6e/64a1643c86f9f661c12575ae004cc473/$FILE/ATTW9ZI8/Recensement2008_p8-9.pdf)
@@ -883,8 +968,8 @@ There are no border formalities entering or leaving France. For visitors, a souv
 - [Monaco"](https://www.webcitation.org/67zk5DtcP?url=http://cloud.gouv.mc/devwww/wwwnew.nsf/e89a6190e96cbd1fc1256f7f005dbe6e/64a1643c86f9f661c12575ae004cc473/$FILE/ATTW9ZI8/Recensement2008_p8-9.pdf) (PDF). Archived from [the original](http://cloud.gouv.mc/devwww/wwwnew.nsf/e89a6190e96cbd1fc1256f7f005dbe6e/64a1643c86f9f661c12575ae004cc473/$FILE/ATTW9ZI8/Recensement2008_p8-9.pdf) (PDF) on 28 May 2012. Retrieved 28 May 2012.
 - 93. ^ Jump up to: **a b c d** Samuel, Henry (28 December 2009). ["Monaco to build into the sea to create more space".](https://www.telegraph.co.uk/news/worldnews/europe/monaco/6894991/Monaco-to-build-into-the-sea-to-create-more-space.html) The Daily Telegraph. London. [Archived](https://web.archive.org/web/20180710014335/https://www.telegraph.co.uk/news/worldnews/europe/monaco/6894991/Monaco-to-build-into-the-sea-to-create-more-space.html) from the original on 10 July 2018. Retrieved 22 March 2012.
 - 94. ^ Robert Bouhnik (19 October 2010). ["Home > Files and](https://archive.today/20121220003236/http://cloud.gouv.mc/devwww/wwwnew.nsf/1909$/3952ae296ac3807cc1256f73002bd426gb?Open Document&6Gb&Count=10000) [Reports > Public works\(Gb\)".](https://archive.today/20121220003236/http://cloud.gouv.mc/devwww/wwwnew.nsf/1909$/3952ae296ac3807cc1256f73002bd426gb?Open Document&6Gb&Count=10000) Cloud.gouv.mc. Archived from [the original](http://cloud.gouv.mc/devwww/wwwnew.nsf/1909$/3952ae296ac3807cc1256f73002bd426gb?Open Document&6Gb&Count=10000) on 20 December 2012. Retrieved 22 March 2012.
-- 95. ^ ["Royal Opinions – Social, Political, & Economical Affairs of](http://royalopinions.proboards.com/index.cgi?action=display&board=currentmonaco&thread=192&page=5) [Monaco".](http://royalopinions.proboards.com/index.cgi?action=display&board=currentmonaco&thread=192&page=5) Royalopinions.proboards.com. [Archived](https://web.archive.org/web/20121127134633/http://royalopinions.proboards.com/index.cgi?action=display&board=currentmonaco&thread=192&page=5) from the original on 27 November 2012. Retrieved 22 March 2012.
-- 96. ^ Robert BOUHNIK (19 October 2010). ["Home > Files and](http://cloud.gouv.mc/devwww/wwwnew.nsf/1909$/1ddf179c1910b5fbc1256fc60036dcc6gb?Open Document&Count=10000&Info Chap=%20Files%20and%20Reports&Info Sujet=2002%20Archives%20-%20Extension%20of%20%22La%20Condamine%20Port%22&6Gb) [Reports > Public works > 2002 Archives](http://cloud.gouv.mc/devwww/wwwnew.nsf/1909$/1ddf179c1910b5fbc1256fc60036dcc6gb?Open Document&Count=10000&Info Chap=%20Files%20and%20Reports&Info Sujet=2002%20Archives%20-%20Extension%20of%20%22La%20Condamine%20Port%22&6Gb) — Extension of "La [Condamine Port"\(Gb\)".](http://cloud.gouv.mc/devwww/wwwnew.nsf/1909$/1ddf179c1910b5fbc1256fc60036dcc6gb?Open Document&Count=10000&Info Chap=%20Files%20and%20Reports&Info Sujet=2002%20Archives%20-%20Extension%20of%20%22La%20Condamine%20Port%22&6Gb) Cloud.gouv.mc. Retrieved 22 March 2012.[[permanent dead link](https://en.wikipedia.org/wiki/Wikipedia:Link_rot)]
+- 95. ^ ["Royal Opinions - Social, Political, & Economical Affairs of](http://royalopinions.proboards.com/index.cgi?action=display&board=currentmonaco&thread=192&page=5) [Monaco".](http://royalopinions.proboards.com/index.cgi?action=display&board=currentmonaco&thread=192&page=5) Royalopinions.proboards.com. [Archived](https://web.archive.org/web/20121127134633/http://royalopinions.proboards.com/index.cgi?action=display&board=currentmonaco&thread=192&page=5) from the original on 27 November 2012. Retrieved 22 March 2012.
+- 96. ^ Robert BOUHNIK (19 October 2010). ["Home > Files and](http://cloud.gouv.mc/devwww/wwwnew.nsf/1909$/1ddf179c1910b5fbc1256fc60036dcc6gb?Open Document&Count=10000&Info Chap=%20Files%20and%20Reports&Info Sujet=2002%20Archives%20-%20Extension%20of%20%22La%20Condamine%20Port%22&6Gb) [Reports > Public works > 2002 Archives](http://cloud.gouv.mc/devwww/wwwnew.nsf/1909$/1ddf179c1910b5fbc1256fc60036dcc6gb?Open Document&Count=10000&Info Chap=%20Files%20and%20Reports&Info Sujet=2002%20Archives%20-%20Extension%20of%20%22La%20Condamine%20Port%22&6Gb) -- Extension of "La [Condamine Port"\(Gb\)".](http://cloud.gouv.mc/devwww/wwwnew.nsf/1909$/1ddf179c1910b5fbc1256fc60036dcc6gb?Open Document&Count=10000&Info Chap=%20Files%20and%20Reports&Info Sujet=2002%20Archives%20-%20Extension%20of%20%22La%20Condamine%20Port%22&6Gb) Cloud.gouv.mc. Retrieved 22 March 2012.[[permanent dead link](https://en.wikipedia.org/wiki/Wikipedia:Link_rot)]
 - 97. ^ ["Monaco remet sur le tapis le projet d'extension en mer".](http://www.econostrum.info/Monaco-remet-sur-le-tapis-le-projet-d-extension-en-mer_a9166.html) Econostrum.info. [Archived](https://web.archive.org/web/20120306070020/http://www.econostrum.info/Monaco-remet-sur-le-tapis-le-projet-d-extension-en-mer_a9166.html) from the original on 6 March 2012. Retrieved 22 March 2012.
 - 98. ^ Jump up to: **a b** ["Presentation".](https://web.archive.org/web/20120620235447/http://www.ports-monaco.com/lang-en.html) Ports-monaco.com. 1 January 2006. Archived from [the original](http://www.ports-monaco.com/lang-en.html) on 20 June 2012. Retrieved 22 March 2012.
 - 99. ^ Archived at [Ghostarchive](https://ghostarchive.org/varchive/youtube/20211211/nyIYViMSlOE) and the [Wayback Machine:](https://web.archive.org/web/20130706120331/http://www.youtube.com/watch?v=nyIYViMSlOE) ["Prince](https://www.youtube.com/watch?v=nyIYViMSlOE) [Albert of Monaco interview on fishing issues".](https://www.youtube.com/watch?v=nyIYViMSlOE) You Tube. 30 June 2011. Retrieved 22 March 2012.
@@ -901,21 +986,21 @@ There are no border formalities entering or leaving France. For visitors, a souv
 - 108. ^ Samuel, Henry (28 December 2009). ["Monaco to build into](https://www.telegraph.co.uk/news/worldnews/europe/monaco/6894991/Monaco-to-build-into-the-sea-to-create-more-space.html) [the sea to create more space".](https://www.telegraph.co.uk/news/worldnews/europe/monaco/6894991/Monaco-to-build-into-the-sea-to-create-more-space.html) The Daily Telegraph. London. [Archived](https://web.archive.org/web/20180710014335/https://www.telegraph.co.uk/news/worldnews/europe/monaco/6894991/Monaco-to-build-into-the-sea-to-create-more-space.html) from the original on 10 July 2018. Retrieved 28 May 2012.
 - 109. ^ ["Prince speaks of future developments".](https://web.archive.org/web/20111011043404/http://cityoutmonaco.com/monaco-property/articles/monacoprince) City Out Monaco. 29 December 2009. Archived from [the original](http://www.cityoutmonaco.com/monaco-property/articles/monacoprince) on 11 October 2011. Retrieved 28 May 2012.
 
-- 110. ^ ["Dictionary – Definition of Larvotto".](https://web.archive.org/web/20130530230643/http://www.websters-online-dictionary.org/definitions/Larvotto) Websters-Online-Dictionary.org. 1 March 2008. Archived from [the original](http://www.websters-online-dictionary.org/definitions/Larvotto) on 30 May 2013. Retrieved 28 May 2012.
+- 110. ^ ["Dictionary - Definition of Larvotto".](https://web.archive.org/web/20130530230643/http://www.websters-online-dictionary.org/definitions/Larvotto) Websters-Online-Dictionary.org. 1 March 2008. Archived from [the original](http://www.websters-online-dictionary.org/definitions/Larvotto) on 30 May 2013. Retrieved 28 May 2012.
 - 111. ^ ["Tourist Board Official Website".](http://www.visitmonaco.com/index.cfm?fuseaction=Page.view Page&page Id=16) Visitmonaco.com. [Archived](https://web.archive.org/web/20100114152614/http://www.visitmonaco.com/index.cfm?fuseaction=Page.view Page&page Id=16) from the original on 14 January 2010. Retrieved 28 May 2012.
-- 112. ^ "Chapitre 1 [– Territoire et Environnement"](https://en.gouv.mc/content/download/527825/6060305/file/Monaco%20en%20Chiffres%202025%20-%201.%20Territoire%20et%20Environnement.pdf) (PDF). Monaco en Chiffre 2025 (in French). Institut Monégasque de la Statistique et des Études Économiques. Retrieved 30 July 2025.
+- 112. ^ "Chapitre 1 [- Territoire et Environnement"](https://en.gouv.mc/content/download/527825/6060305/file/Monaco%20en%20Chiffres%202025%20-%201.%20Territoire%20et%20Environnement.pdf) (PDF). Monaco en Chiffre 2025 (in French). Institut Monégasque de la Statistique et des Études Économiques. Retrieved 30 July 2025.
 - 113. ^ Nom (obligatoire). ["Extension en mer: Fontvieille ou](https://web.archive.org/web/20151016011101/http://www.monacohebdo.mc/9156-extension-en-mer-fontvieille-ou-larvotto) [Larvotto](https://web.archive.org/web/20151016011101/http://www.monacohebdo.mc/9156-extension-en-mer-fontvieille-ou-larvotto) ?". Monacohebdo.mc. Archived from [the original](http://www.monacohebdo.mc/9156-extension-en-mer-fontvieille-ou-larvotto) on 16 October 2015. Retrieved 12 March 2013.
 - 114. ^ Zey, Michael G. (1994). [Seizing the Future.](https://books.google.com/books?id=UORSzFBv1tAC&q=%22Fontvieille+II%22&pg=PA51) Transaction Publishers. [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier)) [9781412833851.](https://en.wikipedia.org/wiki/Special:Book Sources/9781412833851) [Archived](https://web.archive.org/web/20210814104018/https://books.google.com/books?id=UORSzFBv1tAC&q=%22Fontvieille+II%22&pg=PA51) from the original on 14 August 2021. Retrieved 17 November 2020.
 - 115. ^ Novella, René; Sassi, Luca (2015), Monaco : eight centuries of art and architecture, Epi Communication
 - 116. ^ ["La tour Odéon, l'histoire d'un chantier dont les malheurs ont](https://web.archive.org/web/20170813111930/http://www.vanityfair.fr/actualites/france/articles/monaco-la-tour-odeon-un-chantier-malheureux/23582) [atteint des sommets".](https://web.archive.org/web/20170813111930/http://www.vanityfair.fr/actualites/france/articles/monaco-la-tour-odeon-un-chantier-malheureux/23582) Vanity Fair (in French). 17 February 2015. Archived from [the original](http://www.vanityfair.fr/actualites/france/articles/monaco-la-tour-odeon-un-chantier-malheureux/23582) on 13 August 2017. Retrieved 7 August 2016.
 - 117. ^ Lyall, Sarah; Baume, Maïa de la (11 December 2013). ["Development Blitz Provokes a Murmur of Dissent in Monaco".](https://www.nytimes.com/2013/12/12/world/europe/development-blitz-provokes-a-murmur-of-dissent-in-monaco.html) The New York Times. [Archived](https://web.archive.org/web/20170813111832/http://www.nytimes.com/2013/12/12/world/europe/development-blitz-provokes-a-murmur-of-dissent-in-monaco.html) from the original on 13 August 2017. Retrieved 26 July 2021.
-- 118. ^ ["Monaco's Heritage In Danger?"](http://www.lobservateurdemonaco.mc/wp-content/uploads/2015/09/Obs141.pdf) (PDF). L'Observateur de Monaco. April 2015. pp. 60–67. [Archived](https://web.archive.org/web/20160812002637/http://www.lobservateurdemonaco.mc/wp-content/uploads/2015/09/Obs141.pdf) (PDF) from the original on 12 August 2016. Retrieved 26 July 2021.
+- 118. ^ ["Monaco's Heritage In Danger?"](http://www.lobservateurdemonaco.mc/wp-content/uploads/2015/09/Obs141.pdf) (PDF). L'Observateur de Monaco. April 2015. pp. 60-67. [Archived](https://web.archive.org/web/20160812002637/http://www.lobservateurdemonaco.mc/wp-content/uploads/2015/09/Obs141.pdf) (PDF) from the original on 12 August 2016. Retrieved 26 July 2021.
 
 - 119. ^ ["Monaco weather, climate and geography".](https://web.archive.org/web/20120821004256/http://www.worldtravelguide.net/monaco/weather-climate-geography) Worldtravelguide.net. Archived from [the original](http://www.worldtravelguide.net/monaco/weather-climate-geography) on 21 August 2012. Retrieved 6 September 2012.
 - 120. ^ ["Snow in Casino Square!".](http://www.montecarlodailyphoto.com/2009/12/snow-in-casino-square.html) Monte Carlo Daily Photo. 19 December 2009. [Archived](https://web.archive.org/web/20130116210455/http://www.montecarlodailyphoto.com/2009/12/snow-in-casino-square.html) from the original on 16 January 2013. Retrieved 6 September 2012.
-- 121. ^ ["Monaco – Weather / Monaco Official Site".](http://www.visitmonaco.com/us/About-Monaco/Weather) Visitmonaco.com. [Archived](https://web.archive.org/web/20120616130146/http://www.visitmonaco.com/us/About-Monaco/Weather) from the original on 16 June 2012. Retrieved 6 September 2012.
+- 121. ^ ["Monaco - Weather / Monaco Official Site".](http://www.visitmonaco.com/us/About-Monaco/Weather) Visitmonaco.com. [Archived](https://web.archive.org/web/20120616130146/http://www.visitmonaco.com/us/About-Monaco/Weather) from the original on 16 June 2012. Retrieved 6 September 2012.
 - 122. ^ ["In Pictures: French Riviera hit by snowfall".](https://www.thelocal.fr/20180226/in-pictures-french-riviera-in-the-snow) The Local France. 26 February 2018. [Archived](https://web.archive.org/web/20180812150347/https://www.thelocal.fr/20180226/in-pictures-french-riviera-in-the-snow) from the original on 12 August 2018. Retrieved 7 November 2018.
-- 123. ^ ["Monaco \(99\)"](https://web.archive.org/web/20180227004241/https://donneespubliques.meteofrance.fr/Fiches Clim/FICHECLIM_99138001.pdf) (PDF). Fiche Climatologique: Statistiques 1981–2010 et records (in French). Meteo France. Archived from [the original](https://donneespubliques.meteofrance.fr/Fiches Clim/FICHECLIM_99138001.pdf) (PDF) on 27 February 2018. Retrieved 26 February 2018.
+- 123. ^ ["Monaco \(99\)"](https://web.archive.org/web/20180227004241/https://donneespubliques.meteofrance.fr/Fiches Clim/FICHECLIM_99138001.pdf) (PDF). Fiche Climatologique: Statistiques 1981-2010 et records (in French). Meteo France. Archived from [the original](https://donneespubliques.meteofrance.fr/Fiches Clim/FICHECLIM_99138001.pdf) (PDF) on 27 February 2018. Retrieved 26 February 2018.
 - 124. ^ ["Climatological information for Monaco"](https://web.archive.org/web/20180302082530/http://www.visitmonaco.com/fr/Pratique/Climat) (in French). Monaco Tourist Authority. Archived from [the original](http://www.visitmonaco.com/fr/Monaco-Pratique/Climat) on 2 March 2018. Retrieved 2 March 2018.
 - 125. [^](about:reader?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FMonaco#cite_ref-Weather. Directory_128-0) ["Monaco Weather & Climate Guide".](https://weather.directory/mc/monaco) Weather. Directory. Retrieved 9 September 2025.
 - 126. [^](about:reader?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FMonaco#cite_ref-Weather_Atlas_129-0) ["Monaco, Monaco Climate data".](https://www.weather-atlas.com/en/monaco/monaco-climate) Weather Atlas. [Archived](https://web.archive.org/web/20170316024246/http://www.weather-atlas.com/en/monaco/monaco-climate) from the original on 16 March 2017. Retrieved 15 March 2017.
@@ -936,7 +1021,7 @@ There are no border formalities entering or leaving France. For visitors, a souv
 
 - [Travel and Tour World".](https://www.travelandtourworld.com/news/article/monaco-is-surging-the-tourism-industry-with-new-visa-free-travel-for-86-countries-including-south-korea-uk-and-usa/) 20 July 2024.
 - 138. ^ Martin, Guy. ["Inside the World's Most Expensive Apartment:](https://www.forbes.com/sites/guymartin/2016/10/11/yours-for-335-million-in-monaco-the-five-floor-31500-square-foot-penthouse-atop-la-tour-odeon/) [A \\$335 Million Penthouse in Monaco's Tour Odeon".](https://www.forbes.com/sites/guymartin/2016/10/11/yours-for-335-million-in-monaco-the-five-floor-31500-square-foot-penthouse-atop-la-tour-odeon/) Forbes. [Archived](https://web.archive.org/web/20201106181557/https://www.forbes.com/sites/guymartin/2016/10/11/yours-for-335-million-in-monaco-the-five-floor-31500-square-foot-penthouse-atop-la-tour-odeon/) from the original on 6 November 2020. Retrieved 25 September 2020.
-- 139. ^ ["CIA – The World Factbook".](https://www.cia.gov/the-world-factbook/countries/monaco/) Cia.gov. [Archived](https://web.archive.org/web/20211230233800/https://www.cia.gov/the-world-factbook/countries/monaco/) from the original on 30 December 2021. Retrieved 28 May 2012.
+- 139. ^ ["CIA - The World Factbook".](https://www.cia.gov/the-world-factbook/countries/monaco/) Cia.gov. [Archived](https://web.archive.org/web/20211230233800/https://www.cia.gov/the-world-factbook/countries/monaco/) from the original on 30 December 2021. Retrieved 28 May 2012.
 - 140. ^ Robert BOUHNIK (19 December 2011). ["Home > Files and](https://archive.today/20120711135421/http://cloud.gouv.mc/devwww/wwwnew.nsf/1909$/607f54a31a14184fc1256a130075eb71gb?Open Document&6Gb) [Reports > Economy\(Gb\)".](https://archive.today/20120711135421/http://cloud.gouv.mc/devwww/wwwnew.nsf/1909$/607f54a31a14184fc1256a130075eb71gb?Open Document&6Gb) Cloud.gouv.mc. Archived from [the](http://cloud.gouv.mc/devwww/wwwnew.nsf/1909$/607f54a31a14184fc1256a130075eb71gb?Open Document&6Gb) [original](http://cloud.gouv.mc/devwww/wwwnew.nsf/1909$/607f54a31a14184fc1256a130075eb71gb?Open Document&6Gb) on 11 July 2012. Retrieved 22 March 2012.
 - 141. ^ ["Banks in Monaco".](https://thebanks.eu/articles/banks-in-Monaco) Thebanks.eu. 30 September 2017. [Archived](https://web.archive.org/web/20171001031114/https://thebanks.eu/articles/banks-in-Monaco) from the original on 1 October 2017. Retrieved 30 September 2017.
 - 142. ^ ["UN Tourism Data Dashboard".](https://www.unwto.org/tourism-data/un-tourism-tourism-dashboard) www.unwto.org. Retrieved 5 August 2025.
@@ -967,14 +1052,14 @@ There are no border formalities entering or leaving France. For visitors, a souv
 
 - [Archived](https://web.archive.org/web/20190720084154/https://www.eurocoins.co.uk/monaco.html) from the original on 20 July 2019. Retrieved 11 May 2017.
 - 165. ^ ["ECB: Monaco".](http://www.ecb.int/euro/coins/html/mo.en.html) Ecb.int. [Archived](https://web.archive.org/web/20120327025024/http://www.ecb.int/euro/coins/html/mo.en.html) from the original on 27 March 2012. Retrieved 22 March 2012.
-- 166. ^ Jump up to: **a b** ["Monaco – The Museum of Stamps and](http://www.visitmonaco.com/en/Places-to-visit/Museums/The-Museum-of-Stamps-and-Coins) [Coins".](http://www.visitmonaco.com/en/Places-to-visit/Museums/The-Museum-of-Stamps-and-Coins) Visitmonaco.com. [Archived](https://web.archive.org/web/20111230073408/http://www.visitmonaco.com/en/Places-to-visit/Museums/The-Museum-of-Stamps-and-Coins) from the original on 30 December 2011. Retrieved 22 March 2012.
+- 166. ^ Jump up to: **a b** ["Monaco - The Museum of Stamps and](http://www.visitmonaco.com/en/Places-to-visit/Museums/The-Museum-of-Stamps-and-Coins) [Coins".](http://www.visitmonaco.com/en/Places-to-visit/Museums/The-Museum-of-Stamps-and-Coins) Visitmonaco.com. [Archived](https://web.archive.org/web/20111230073408/http://www.visitmonaco.com/en/Places-to-visit/Museums/The-Museum-of-Stamps-and-Coins) from the original on 30 December 2011. Retrieved 22 March 2012.
 - 167. ^ ["Monaco Statistics office".](http://www.monacostatistics.mc/IMSEE/Publications/monaco-statistics-pocket) Monacostatistics.mc. [Archived](https://web.archive.org/web/20160304130422/http://www.monacostatistics.mc/IMSEE/Publications/monaco-statistics-pocket) from the original on 4 March 2016. Retrieved 3 August 2017.
 - 168. ^ ["Monaco Population 2023 \(Live\)".](https://worldpopulationreview.com/countries/monaco-population) [Archived](https://web.archive.org/web/20211019192707/https://worldpopulationreview.com/countries/monaco-population) from the original on 19 October 2021. Retrieved 22 April 2023.
 - 169. ^ ["Residents in 2024"](https://www.monacostatistics.mc/content/download/527360/6053460/file/Infographie%20R2024_EN.pdf) (PDF). Government of the Principality of Monaco. 2025. [Archived](https://web.archive.org/web/20110614212422/http://www.gouv.mc/devwww/wwwnew.nsf/e89a6190e96cbd1fc1256f7f005dbe6e/64a1643c86f9f661c12575ae004cc473/$FILE/Recensement2008_Ch1.pdf) (PDF) from the original on 14 June 2011. Retrieved 17 April 2025.
 - 170. ^ ["CIA World Factbook, Monaco".](https://www.cia.gov/the-world-factbook/countries/monaco/) Cia.gov. [Archived](https://web.archive.org/web/20211230233800/https://www.cia.gov/the-world-factbook/countries/monaco/) from the original on 30 December 2021. Retrieved 28 May 2012.
 - 171. ^ ["International Rankings of Monaco - 2018".](https://theodora.com/wfbcurrent/monaco/monaco_international_rankings_2018.html) Theodora.com. [Archived](https://web.archive.org/web/20180704122955/https://theodora.com/wfbcurrent/monaco/monaco_international_rankings_2018.html) from the original on 4 July 2018. Retrieved 4 July 2018.
 - 172. ^ ["Society".](http://www.monaco-iq.com/society) Monaco-IQ. [Archived](https://web.archive.org/web/20190915143940/http://www.monaco-iq.com/society) from the original on 15 September 2019. Retrieved 6 September 2012.
-- 173. ^ ["Principality of Monaco – Monaco Monte-Carlo".](http://www.monte-carlo.mc/en/general/principality-of-monaco/) Montecarlo.mc. [Archived](https://web.archive.org/web/20120913232837/http://www.monte-carlo.mc/en/general/principality-of-monaco) from the original on 13 September 2012. Retrieved 6 September 2012.
+- 173. ^ ["Principality of Monaco - Monaco Monte-Carlo".](http://www.monte-carlo.mc/en/general/principality-of-monaco/) Montecarlo.mc. [Archived](https://web.archive.org/web/20120913232837/http://www.monte-carlo.mc/en/general/principality-of-monaco) from the original on 13 September 2012. Retrieved 6 September 2012.
 - 174. ^ ["Traditions".](https://web.archive.org/web/20250123212505/https://www.visitmonaco.com/en/event/traditions-church-services/17982/traditions) www.visitmonaco.com. Archived from [the](https://www.visitmonaco.com/en/event/traditions-church-services/17982/traditions) [original](https://www.visitmonaco.com/en/event/traditions-church-services/17982/traditions) on 23 January 2025. Retrieved 22 January 2025.
 
 - 175. ^ ["Saint Paul's Church, Monte-Carlo".](http://www.stpaulsmonaco.com/) stpaulsmonaco.com. [Archived](https://web.archive.org/web/20180120210451/http://stpaulsmonaco.com/) from the original on 20 January 2018. Retrieved 28 May 2012.
@@ -982,7 +1067,7 @@ There are no border formalities entering or leaving France. For visitors, a souv
 - 177. ^ ["Islam in Monaco".](http://www.muslimpopulation.com/Europe/MONACO/Islam%20in%20Monaco.php) muslimpopulation.com. [Archived](https://web.archive.org/web/20170629233503/http://www.muslimpopulation.com/Europe/MONACO/Islam%20in%20Monaco.php) from the original on 29 June 2017. Retrieved 11 March 2015.
 - 178. ^ ["Islam in Monaco".](http://www.islamicpopulation.com/Europe/MONACO/Islam%20in%20Monaco.htm) islamicpopulation.com. [Archived](https://web.archive.org/web/20160305060556/http://www.islamicpopulation.com/Europe/MONACO/Islam%20in%20Monaco.htm) from the original on 5 March 2016. Retrieved 11 March 2015.
 - 179. ^ ["Statistical tables / Population census / Population and](https://www.monacostatistics.mc/Population-and-employment/Population-census/Statistical-tables) [employment / IMSEE - Monaco IMSEE".](https://www.monacostatistics.mc/Population-and-employment/Population-census/Statistical-tables) www.monacostatistics.mc. [Archived](https://web.archive.org/web/20231212234127/https://www.monacostatistics.mc/Population-and-employment/Population-census/Statistical-tables) from the original on 12 December 2023. Retrieved 12 December 2023.
-- 180. ^ ["Synagogues in Monte Carlo – Shuls in Monte Carlo – Jewish](http://www.mavensearch.com/synagogues/C3414Y41808RX) [Temples in Monte Carlo".](http://www.mavensearch.com/synagogues/C3414Y41808RX) Mavensearch.com. 6 July 2007. [Archived](https://web.archive.org/web/20121024102946/http://www.mavensearch.com/synagogues/C3414Y41808RX) from the original on 24 October 2012. Retrieved 28 May 2012.
+- 180. ^ ["Synagogues in Monte Carlo - Shuls in Monte Carlo - Jewish](http://www.mavensearch.com/synagogues/C3414Y41808RX) [Temples in Monte Carlo".](http://www.mavensearch.com/synagogues/C3414Y41808RX) Mavensearch.com. 6 July 2007. [Archived](https://web.archive.org/web/20121024102946/http://www.mavensearch.com/synagogues/C3414Y41808RX) from the original on 24 October 2012. Retrieved 28 May 2012.
 - 181. ^ Details at [Jewish Virtual Library](https://www.jewishvirtuallibrary.org/jsource/vjw/monaco.html) [Archived](https://web.archive.org/web/20140715071206/http://www.jewishvirtuallibrary.org/jsource/vjw/monaco.html) 15 July 2014 at the [Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine)
 - 182. ^ Jump up to: **a b** ["Monaco Grand Prix".](https://web.archive.org/web/20120303200854/http://www.monaco-grand-prix-ticket.com/Monaco-Grand-Prix.aspx) 3 March 2012. Archived from [the original](http://www.monaco-grand-prix-ticket.com/Monaco-Grand-Prix.aspx) on 3 March 2012.
 - 183. ^ Watkins, Gary. ["Formula E set to race on shorter version of](https://www.autosport.com/fe/news/115918/fe-set-to-use-shorter-monaco-circuit) [Monaco circuit".](https://www.autosport.com/fe/news/115918/fe-set-to-use-shorter-monaco-circuit) Autosport.com. [Archived](https://web.archive.org/web/20190512224633/https://www.autosport.com/fe/news/115918/fe-set-to-use-shorter-monaco-circuit) from the original on 12 May 2019. Retrieved 12 May 2019.
@@ -995,7 +1080,7 @@ There are no border formalities entering or leaving France. For visitors, a souv
 - 189. ^ Smith, Topher. ["VENTURI ANNOUNCES MASSA FOR SEASON](https://www.e-racing.net/2018/05/15/venturi-announces-massa-for-season-five/) [FIVE".](https://www.e-racing.net/2018/05/15/venturi-announces-massa-for-season-five/) e-racing.net. [Archived](https://web.archive.org/web/20210426113505/https://www.e-racing.net/2018/05/15/venturi-announces-massa-for-season-five/) from the original on 26 April 2021. Retrieved 26 April 2021.
 - 190. ^ The Riviera Times, Issue 148, July 2014
 - 191. ^ ["Monte-Carlo Cup"](https://web.archive.org/web/20171010190230/http://www.solar1races.com/wp-content/uploads/Solar1Magazine.pdf) (PDF). Solar1races.com. Archived from [the original](http://www.solar1races.com/wp-content/uploads/Solar1Magazine.pdf) (PDF) on 10 October 2017. Retrieved 3 August 2017.
-- 192. ^ ["Tour de France 2008 – Grand start 2009".](https://web.archive.org/web/20130116210455/http://www.letour.com/2008/TDF/COURSE/us/grand_depart_2009.html) Letour.com. Archived from [the original](http://www.letour.com/2008/TDF/COURSE/us/grand_depart_2009.html) on 16 January 2013. Retrieved 28 May 2012.
+- 192. ^ ["Tour de France 2008 - Grand start 2009".](https://web.archive.org/web/20130116210455/http://www.letour.com/2008/TDF/COURSE/us/grand_depart_2009.html) Letour.com. Archived from [the original](http://www.letour.com/2008/TDF/COURSE/us/grand_depart_2009.html) on 16 January 2013. Retrieved 28 May 2012.
 - 193. ^ ["A time trial from Monaco to Nice to wrap up the 2024 Tour](https://www.letour.fr/en/news/2023/a-time-trial-from-monaco-to-nice-to-wrap-up-the-2024-tour-de-france/1308971)
 
 - [de France".](https://www.letour.fr/en/news/2023/a-time-trial-from-monaco-to-nice-to-wrap-up-the-2024-tour-de-france/1308971) www.letour.fr. 3 December 2022. Retrieved 9 June 2025.
@@ -1013,7 +1098,7 @@ There are no border formalities entering or leaving France. For visitors, a souv
 - 205. ^ ["Monte-Carlo".](https://web.archive.org/web/20120920002331/http://globalchampionstour.com/events/2012/monte-carlo/) Global Champions Tour. Archived from [the](http://www.globalchampionstour.com/events/2012/monte-carlo/)
 
 - [original](http://www.globalchampionstour.com/events/2012/monte-carlo/) on 20 September 2012. Retrieved 6 September 2012.
-- 206. ^ Jump up to: **a b** ["Rainer III Nautical Stadium".](https://web.archive.org/web/20130517044436/http://www.monaco-mairie.mc/en/langues-etrangeres/events-entertainment/rainier-iii-nautical-stadium/) Marie de Monaco – Rainier III Nautical Stadium. Marie de Monaco. Archived from [the original](http://www.monaco-mairie.mc/en/langues-etrangeres/events-entertainment/rainier-iii-nautical-stadium/) on 17 May 2013. Retrieved 25 May 2013.
+- 206. ^ Jump up to: **a b** ["Rainer III Nautical Stadium".](https://web.archive.org/web/20130517044436/http://www.monaco-mairie.mc/en/langues-etrangeres/events-entertainment/rainier-iii-nautical-stadium/) Marie de Monaco - Rainier III Nautical Stadium. Marie de Monaco. Archived from [the original](http://www.monaco-mairie.mc/en/langues-etrangeres/events-entertainment/rainier-iii-nautical-stadium/) on 17 May 2013. Retrieved 25 May 2013.
 - 207. ^ ["CE Monte Carlo eying fifth European title".](https://chessdailynews.com/ce-monte-carlo-eying-fifth-european-title/) Chess Daily News by Susan Polgar. 10 October 2013. Retrieved 10 March 2025.[[permanent dead link](https://en.wikipedia.org/wiki/Wikipedia:Link_rot)]
 - 208. ^ John J. B. Anderson and Marilyn C. Sparling, The Mediterranean Way of Eating: Evidence for Chronic Disease Prevention and Weight Management (Florida: CRC Press, 2015) 16.
 - 209. ^ ["Minouche Barelli, chanteuse"](https://www.lemonde.fr/archives/article/2004/02/27/minouche-barelli-chanteuse_354714_1819218.html) [Archived](https://web.archive.org/web/20221125173024/https://www.lemonde.fr/archives/article/2004/02/27/minouche-barelli-chanteuse_354714_1819218.html) 25 November 2022 at the [Wayback Machine,](https://en.wikipedia.org/wiki/Wayback_Machine) Le Monde 27. February 2004.
@@ -1037,23 +1122,23 @@ There are no border formalities entering or leaving France. For visitors, a souv
 - 225. ^ [Infrastructure of Monaco](https://www.confiduss.com/en/jurisdictions/monaco/infrastructure/)
 - 226. ^ Jump up to: **a b c d e** ["The World Factbook".](https://www.cia.gov/the-world-factbook/countries/monaco/) cia.gov. 22 September 2021. [Archived](https://web.archive.org/web/20211230233800/https://www.cia.gov/the-world-factbook/countries/monaco/) from the original on 30 December 2021. Retrieved 24 January 2021.
 
-- 227. ^ Jump up to: **a b c** ["Monaco – Embassies and Consulates".](http://www.embassypages.com/monaco) embassypages.com. [Archived](https://web.archive.org/web/20150715235200/http://www.embassypages.com/monaco) from the original on 15 July 2015. Retrieved 8 August 2015.
+- 227. ^ Jump up to: **a b c** ["Monaco - Embassies and Consulates".](http://www.embassypages.com/monaco) embassypages.com. [Archived](https://web.archive.org/web/20150715235200/http://www.embassypages.com/monaco) from the original on 15 July 2015. Retrieved 8 August 2015.
 - 228. ^ Privacy And Power: A year In The Life Of Prince Albert Of Monaco. France: Java Films.
 - 229. ^ ["Portugal: Représentation de la Principauté de Monaco](https://www.gouv.mc/Action-Gouvernementale/Monaco-a-l-International/La-Diplomatie-et-la-Presence-Internationale/Relations-bilaterales/Tous-les-Pays/Portugal) [auprès de la République portugaise"](https://www.gouv.mc/Action-Gouvernementale/Monaco-a-l-International/La-Diplomatie-et-la-Presence-Internationale/Relations-bilaterales/Tous-les-Pays/Portugal) (in French). Government of Monaco. [Archived](https://web.archive.org/web/20220308042340/https://www.gouv.mc/Action-Gouvernementale/Monaco-a-l-International/La-Diplomatie-et-la-Presence-Internationale/Relations-bilaterales/Tous-les-Pays/Portugal) from the original on 8 March 2022. Retrieved 19 April 2022.
 - 230. ^ ["Monaco".](http://www.encyclopedia.com/topic/Monaco.aspx) encyclopedia.com. [Archived](https://web.archive.org/web/20150721072424/http://www.encyclopedia.com/topic/Monaco.aspx) from the original on 21 July 2015. Retrieved 8 August 2015.
 - 231. ^ ["The World Factbook".](https://web.archive.org/web/20150905103734/https://www.cia.gov/library/publications/the-world-factbook/fields/2112.html) cia.gov. Archived from [the original](https://www.cia.gov/library/publications/the-world-factbook/fields/2112.html) on 5 September 2015. Retrieved 8 August 2015.
 - 232. ^ ["Monaco".](http://www.populationfun.com/monaco-population/) populationfun.com. 19 September 2013. [Archived](https://web.archive.org/web/20151016011101/http://www.populationfun.com/monaco-population/) from the original on 16 October 2015. Retrieved 8 August 2015.
 - 233. ^ Jump up to: **a b c** ["Principality of Monaco".](http://flagtheory.com/monaco-residency/) flagtheory.com. 27 March 2013. [Archived](https://web.archive.org/web/20150819092553/http://flagtheory.com/monaco-residency/) from the original on 19 August 2015. Retrieved 8 August 2015.
-- 234. ^ Charlotte Geiger (27 April 2015). ["Lessons from history – The](http://www.finance-watch.org/hot-topics/blog/1074-lesson-from-history-monaco-crisis) [Monaco crisis from 1962–1963 and the emancipation of tax](http://www.finance-watch.org/hot-topics/blog/1074-lesson-from-history-monaco-crisis) [havens".](http://www.finance-watch.org/hot-topics/blog/1074-lesson-from-history-monaco-crisis) finance-watch.org. [Archived](https://web.archive.org/web/20151016011100/http://www.finance-watch.org/hot-topics/blog/1074-lesson-from-history-monaco-crisis) from the original on 16 October 2015. Retrieved 8 August 2015.
+- 234. ^ Charlotte Geiger (27 April 2015). ["Lessons from history - The](http://www.finance-watch.org/hot-topics/blog/1074-lesson-from-history-monaco-crisis) [Monaco crisis from 1962-1963 and the emancipation of tax](http://www.finance-watch.org/hot-topics/blog/1074-lesson-from-history-monaco-crisis) [havens".](http://www.finance-watch.org/hot-topics/blog/1074-lesson-from-history-monaco-crisis) finance-watch.org. [Archived](https://web.archive.org/web/20151016011100/http://www.finance-watch.org/hot-topics/blog/1074-lesson-from-history-monaco-crisis) from the original on 16 October 2015. Retrieved 8 August 2015.
 - 235. ^ ["The euro outside the euro area".](http://ec.europa.eu/economy_finance/euro/world/outside_euro_area/index_en.htm) [Europa \(web portal\).](https://en.wikipedia.org/wiki/Europa_(web_portal)) [Archived](https://web.archive.org/web/20140707110725/http://ec.europa.eu/economy_finance/euro/world/outside_euro_area/index_en.htm) from the original on 7 July 2014. Retrieved 26 February 2011.
 
 - 236. [^](about:reader?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FMonaco#cite_ref-239) ["EU Customs Union".](https://web.archive.org/web/20150619052718/http://exporthelp.europa.eu/thdapp/display.htm?page=rt%2Frt_EUCustoms Union.html&doc Type=main&language Id=EN) [European Commission.](https://en.wikipedia.org/wiki/European_Commission) Archived from [the original](http://exporthelp.europa.eu/thdapp/display.htm?page=rt/rt_EUCustoms Union.html&doc Type=main&language Id=EN) on 19 June 2015. Retrieved 18 June 2015.
-- 237. ^ [Jump up to:](about:reader?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FMonaco#cite_ref-VAT_240-0) **[a](about:reader?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FMonaco#cite_ref-VAT_240-0) b** ["Taxation and Customs Union – Within the](https://web.archive.org/web/20121111165632/http://ec.europa.eu/taxation_customs/common/travellers/within_eu/faq_1179_en.htm) [EU"](https://web.archive.org/web/20121111165632/http://ec.europa.eu/taxation_customs/common/travellers/within_eu/faq_1179_en.htm). [European Commission.](https://en.wikipedia.org/wiki/European_Commission) Archived from [the original](http://ec.europa.eu/taxation_customs/common/travellers/within_eu/faq_1179_en.htm) on 11 November 2012. Retrieved 9 September 2012.
+- 237. ^ [Jump up to:](about:reader?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FMonaco#cite_ref-VAT_240-0) **[a](about:reader?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FMonaco#cite_ref-VAT_240-0) b** ["Taxation and Customs Union - Within the](https://web.archive.org/web/20121111165632/http://ec.europa.eu/taxation_customs/common/travellers/within_eu/faq_1179_en.htm) [EU"](https://web.archive.org/web/20121111165632/http://ec.europa.eu/taxation_customs/common/travellers/within_eu/faq_1179_en.htm). [European Commission.](https://en.wikipedia.org/wiki/European_Commission) Archived from [the original](http://ec.europa.eu/taxation_customs/common/travellers/within_eu/faq_1179_en.htm) on 11 November 2012. Retrieved 9 September 2012.
 - 238. ^ ["RECORDED HRVP Federica MOGHERINI host the ceremony](http://ec.europa.eu/avservices/video/player.cfm?ref=I100473) [on the occasion of the launching of the Association](http://ec.europa.eu/avservices/video/player.cfm?ref=I100473) [Agreement\(s\) negotiations with the Principality of Andorra, the](http://ec.europa.eu/avservices/video/player.cfm?ref=I100473) [Principality of Monaco and the Republic of San Marino".](http://ec.europa.eu/avservices/video/player.cfm?ref=I100473) [European Commission.](https://en.wikipedia.org/wiki/European_Commission) 18 March 2015. [Archived](https://web.archive.org/web/20201028044928/https://audiovisual.ec.europa.eu/en/video/I-100473) from the original on 28 October 2020. Retrieved 18 March 2015.
 - 239. ^ Jump up to: **a b c** ["Obstacles to access by Andorra, Monaco](http://eur-lex.europa.eu/Lex Uri Serv/Lex Uri Serv.do?uri=SWD:2012:0388:FIN:EN:HTML) [and San Marino to the EU's Internal Market and Cooperation in](http://eur-lex.europa.eu/Lex Uri Serv/Lex Uri Serv.do?uri=SWD:2012:0388:FIN:EN:HTML) [other Areas".](http://eur-lex.europa.eu/Lex Uri Serv/Lex Uri Serv.do?uri=SWD:2012:0388:FIN:EN:HTML) 2012. [Archived](https://web.archive.org/web/20210225000800/https://eur-lex.europa.eu/Lex Uri Serv/Lex Uri Serv.do?uri=SWD:2012:0388:FIN:EN:HTML) from the original on 25 February 2021. Retrieved 30 March 2013.
-- 240. ^ ["The Schengen acquis – Decision of the Executive](http://eur-lex.europa.eu/Lex Uri Serv/Lex Uri Serv.do?uri=CELEX:41998D0019:EN:HTML) [Committee of 23 June 1998 on Monegasque residence](http://eur-lex.europa.eu/Lex Uri Serv/Lex Uri Serv.do?uri=CELEX:41998D0019:EN:HTML) [permits".](http://eur-lex.europa.eu/Lex Uri Serv/Lex Uri Serv.do?uri=CELEX:41998D0019:EN:HTML) [Official Journal of the European Union.](https://en.wikipedia.org/wiki/Official_Journal_of_the_European_Union) 22 September 2000. [Archived](https://web.archive.org/web/20150904002029/http://eur-lex.europa.eu/Lex Uri Serv/Lex Uri Serv.do?uri=CELEX:41998D0019:EN:HTML) from the original on 4 September 2015. Retrieved 9 September 2012.
+- 240. ^ ["The Schengen acquis - Decision of the Executive](http://eur-lex.europa.eu/Lex Uri Serv/Lex Uri Serv.do?uri=CELEX:41998D0019:EN:HTML) [Committee of 23 June 1998 on Monegasque residence](http://eur-lex.europa.eu/Lex Uri Serv/Lex Uri Serv.do?uri=CELEX:41998D0019:EN:HTML) [permits".](http://eur-lex.europa.eu/Lex Uri Serv/Lex Uri Serv.do?uri=CELEX:41998D0019:EN:HTML) [Official Journal of the European Union.](https://en.wikipedia.org/wiki/Official_Journal_of_the_European_Union) 22 September 2000. [Archived](https://web.archive.org/web/20150904002029/http://eur-lex.europa.eu/Lex Uri Serv/Lex Uri Serv.do?uri=CELEX:41998D0019:EN:HTML) from the original on 4 September 2015. Retrieved 9 September 2012.
 - 241. ^ [EU relations with the Principality of Andorra, the Republic of](http://register.consilium.europa.eu/pdf/en/11/st11/st11466.en11.pdf) [San Marino and the Principality of Monaco](http://register.consilium.europa.eu/pdf/en/11/st11/st11466.en11.pdf) [Archived](https://web.archive.org/web/20131031072159/http://register.consilium.europa.eu/pdf/en/11/st11/st11466.en11.pdf) 31 October 2013 at the [Wayback Machine:](https://en.wikipedia.org/wiki/Wayback_Machine) "If France adopts internal legislation transposing EU directives in certain areas covered by bilateral Agreements with Monaco, the Principality directly applies the French legislation in certain areas"
-- 242. ^ ["Taxation and Customs – FAQ".](https://web.archive.org/web/20120608000239/http://ec.europa.eu/taxation_customs/common/faq/faq_1178_en.htm) [European Commission.](https://en.wikipedia.org/wiki/European_Commission)
+- 242. ^ ["Taxation and Customs - FAQ".](https://web.archive.org/web/20120608000239/http://ec.europa.eu/taxation_customs/common/faq/faq_1178_en.htm) [European Commission.](https://en.wikipedia.org/wiki/European_Commission)
 
 - Archived from [the original](http://ec.europa.eu/taxation_customs/common/faq/faq_1178_en.htm) on 8 June 2012. Retrieved 12 September 2012.
 - 243. ^ ["Council Regulation \(EEC\) No 2913/92 of 12 October 1992](http://eur-lex.europa.eu/Lex Uri Serv/Lex Uri Serv.do?uri=OJ:L:1992:302:0001:0050:EN:PDF) [establishing the Community Customs Code".](http://eur-lex.europa.eu/Lex Uri Serv/Lex Uri Serv.do?uri=OJ:L:1992:302:0001:0050:EN:PDF) [Official Journal of](https://en.wikipedia.org/wiki/Official_Journal_of_the_European_Union) [the European Union.](https://en.wikipedia.org/wiki/Official_Journal_of_the_European_Union) 19 October 1992. [Archived](https://web.archive.org/web/20170729113232/http://eur-lex.europa.eu/Lex Uri Serv/Lex Uri Serv.do?uri=OJ:L:1992:302:0001:0050:EN:PDF) from the original on 29 July 2017. Retrieved 12 September 2012.
@@ -1083,7 +1168,7 @@ There are no border formalities entering or leaving France. For visitors, a souv
 - [Monaco](https://www.bbc.co.uk/news/world-europe-17615784) [Archived](https://web.archive.org/web/20180721064420/https://www.bbc.co.uk/news/world-europe-17615784) 21 July 2018 at the [Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine) from the [BBC News](https://en.wikipedia.org/wiki/BBC_News)
 - [NEWS. MC](https://news.mc/) [Archived](https://web.archive.org/web/20230415212922/https://news.mc/) 15 April 2023 at the [Wayback Machine.](https://en.wikipedia.org/wiki/Wayback_Machine) English-language Monaco news source and publisher of daily newsletter [Good Morning Monaco](https://news.mc/newsletter).
 - [Monacolife.net](http://www.monacolife.net/) [Archived](https://web.archive.org/web/20120415114519/http://www.monacolife.net/) 15 April 2012 at the [Wayback](https://en.wikipedia.org/wiki/Wayback_Machine) [Machine.](https://en.wikipedia.org/wiki/Wayback_Machine) English news portal.
-- [The Monaco Times](http://www.monacotimes.com/) [Archived](https://web.archive.org/web/20120425231634/http://monacotimes.com/) 25 April 2012 at the [Wayback](https://en.wikipedia.org/wiki/Wayback_Machine) [Machine](https://en.wikipedia.org/wiki/Wayback_Machine) – A regular feature in The Riviera Times is the English language newspaper for the French–Italian Riviera and the Principality of Monaco provides monthly local news and information about the business, art and culture, people and lifestyle, events and also the real estate market.
+- [The Monaco Times](http://www.monacotimes.com/) [Archived](https://web.archive.org/web/20120425231634/http://monacotimes.com/) 25 April 2012 at the [Wayback](https://en.wikipedia.org/wiki/Wayback_Machine) [Machine](https://en.wikipedia.org/wiki/Wayback_Machine) - A regular feature in The Riviera Times is the English language newspaper for the French-Italian Riviera and the Principality of Monaco provides monthly local news and information about the business, art and culture, people and lifestyle, events and also the real estate market.
 - [Monaco-IQ](http://www.monaco-iq.com/) [Archived](https://web.archive.org/web/20110202104519/http://monaco-iq.com/) 2 February 2011 at the [Wayback Machine.](https://en.wikipedia.org/wiki/Wayback_Machine) Monaco information and news aggregator.
 
 ## Other

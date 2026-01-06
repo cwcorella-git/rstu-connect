@@ -1,3 +1,8 @@
+---
+title: "## James Herod"
+category: "indigenous-solidarity"
+---
+
 ## James Herod
 
 ## Review: Lebowitz, The Socialist Alternative
@@ -50,32 +55,32 @@ Second, Lebowitz has a strong tendency to write from the stance of a social engi
 
 Third, when oh when will Marxists stop claiming the Paris Commune as their own (see p.115), when in fact they had almost nothing to do with it? If there was a dominant political tendency among the eighty-one delegates who made up the Paris Commune of 1871, it was anarchism, in the mutualist tradition of Pierre-Joseph Proudhon. Michael Bakunin wrote more insightfully about the Paris Commune than Marx did, but I doubt if Lebowitz is even aware of the essay, or of the other numerous anarchist accounts of the event.
 
-Now back to the Venezuelan anarchists. They call themselves the Commission of Anarchist Relations. They have been publishing El Libertario (The Libertarian) since 1995, with 61 issues so far. The web site for this periodical is [<http://www.nodo50.org/ellibertario/>](http://www.nodo50.org/ellibertario/). I urge you to check it out. For those who don't read Spanish, there are more than sixty articles in English dating from 2005. There are also translations into French, Italian, Portuguese, and German. In general, they are critical of both the Hugo Chavez government and the US-backed opposition, as well as orthodox leftist parties. They call attention to the deals Chavez is making with transnational corporations, to the inherent contradiction between top-down, state-sponsored initiatives and genuine, autonomous self-government at the grassroots level, to the gap between the regime's rhetoric and the reality on the ground, and so forth. But I can't possibly give here even a sketch of their perspective on Chavez and the Bolivarian Revolution. I urge you to check it out for yourselves. The critiques are just a click away. I've provided a list of the more substantive articles in a footnote.[\[3\]](#page-3-2)
+Now back to the Venezuelan anarchists. They call themselves the Commission of Anarchist Relations. They have been publishing El Libertario (The Libertarian) since 1995, with 61 issues so far. The web site for this periodical is [](http://www.nodo50.org/ellibertario/). I urge you to check it out. For those who don't read Spanish, there are more than sixty articles in English dating from 2005. There are also translations into French, Italian, Portuguese, and German. In general, they are critical of both the Hugo Chavez government and the US-backed opposition, as well as orthodox leftist parties. They call attention to the deals Chavez is making with transnational corporations, to the inherent contradiction between top-down, state-sponsored initiatives and genuine, autonomous self-government at the grassroots level, to the gap between the regime's rhetoric and the reality on the ground, and so forth. But I can't possibly give here even a sketch of their perspective on Chavez and the Bolivarian Revolution. I urge you to check it out for yourselves. The critiques are just a click away. I've provided a list of the more substantive articles in a footnote.[\[3\]](#page-3-2)
 
 In closing, I am bothered and saddened to trash a man's work like this. There are so few anticapitalists left in the world. I'm sure Michael Lebowitz is a sincere revolutionary and wants to get out of capitalism and into a better world. It's just that the strategy he is pushing is a proven failure and has done and continues to do enormous damage to the anti-capitalist struggle. It is way past time it was buried and put to rest. We must, at long last, as anarchists have always insisted, simply bypass the state in our fight against capitalists and for a free society.
 
-[<sup>\[1\]</sup>](#page-1-0) There is a curious sentence on page 132. "Marx understood that you cannot change the world without taking power." This can't be a coincidence, I thought. It's got to be an allusion to John Holloway's book, Change the World Without Taking Power. My suspicion was confirmed when I came across a footnote on page 183 (#18) where Lebowitz writes: "One can only laugh at those who think that this is possible without taking the power of the state away from capitalists." He laughs because for him Marx is God and Marx admonished workers to seize political power (see p.112). Holloway's book provoked a storm of protest from orthodox Marxists, so Lebowitz could hardly have missed it. He can laugh all he wants, but it is the laughter of a deluded man. Holloway's book is brilliant, cutting edge, important. It resonates with the living anti-capitalist movement. Whereas Lebowitz's book is antiquated, and speaks only to the dead past, to the moribund remnants of sectarian Marxism-Leninism.
+[\[1\]](#page-1-0) There is a curious sentence on page 132. "Marx understood that you cannot change the world without taking power." This can't be a coincidence, I thought. It's got to be an allusion to John Holloway's book, Change the World Without Taking Power. My suspicion was confirmed when I came across a footnote on page 183 (#18) where Lebowitz writes: "One can only laugh at those who think that this is possible without taking the power of the state away from capitalists." He laughs because for him Marx is God and Marx admonished workers to seize political power (see p.112). Holloway's book provoked a storm of protest from orthodox Marxists, so Lebowitz could hardly have missed it. He can laugh all he wants, but it is the laughter of a deluded man. Holloway's book is brilliant, cutting edge, important. It resonates with the living anti-capitalist movement. Whereas Lebowitz's book is antiquated, and speaks only to the dead past, to the moribund remnants of sectarian Marxism-Leninism.
 
-[<sup>\[2\]</sup>](#page-2-0) Vladimir Lenin, "…the working class, exclusively by its own effort, is able to develop only trade-union consciousness…" from What is to be done? [1902], Collected Works of V. I. Lenin, Volume IV, Book II, page 115, New York: International Publishers.
+[\[2\]](#page-2-0) Vladimir Lenin, "…the working class, exclusively by its own effort, is able to develop only trade-union consciousness…" from What is to be done? [1902], Collected Works of V. I. Lenin, Volume IV, Book II, page 115, New York: International Publishers.
 
-[<sup>\[3\]</sup>](#page-3-3) "Introducing El Libertario," online at:
+[\[3\]](#page-3-3) "Introducing El Libertario," online at:
 
-[<sup>&</sup>lt;http://www.anarkismo.net/article/14405?print\\_page=true>](http://www.anarkismo.net/article/14405?print_page=true).
+[&lt;http://www.anarkismo.net/article/14405?print\\_page=true>](http://www.anarkismo.net/article/14405?print_page=true).
 
-<sup>&</sup>quot;The Revolution Delayed: 10 years of Hugo Chavez's Rule," online at:
+&quot;The Revolution Delayed: 10 years of Hugo Chavez's Rule," online at:
 
-<sup>&</sup>lt;http://thecommune.co.uk/2009/02/09/the-revolution-delayed-10-years-of-hugo-chavezs-rule/>.
+&lt;http://thecommune.co.uk/2009/02/09/the-revolution-delayed-10-years-of-hugo-chavezs-rule/>.
 
-<sup>&</sup>quot;An Antiautoritarian-anarchist perspective about Venezuela's situation," online at:
+&quot;An Antiautoritarian-anarchist perspective about Venezuela's situation," online at:
 
-<sup>&</sup>lt;http://www.nodo50.org/ellibertario/english/venezuelasituation.pdf>.
+&lt;http://www.nodo50.org/ellibertario/english/venezuelasituation.pdf>.
 
 Michael Staudenmaier, with Anne Carlson, "Of Chavistas and Anarquistas: Brief Sketch of a Visit to Venezuela," online at:
 
-<sup>&</sup>lt;http://www.anarkismo.net/article/839?print\_page=true>.
+&lt;http://www.anarkismo.net/article/839?print\_page=true>.
 
-<sup>&</sup>quot;Refuting the deaf: Chavism and anarchism in Venezuela," online at:
+&quot;Refuting the deaf: Chavism and anarchism in Venezuela," online at:
 
-[<sup>&</sup>lt;http://libcom.org/library/refuting-deaf-chavism-anarchism-venezuela>](http://libcom.org/library/refuting-deaf-chavism-anarchism-venezuela).
+[&lt;http://libcom.org/library/refuting-deaf-chavism-anarchism-venezuela>](http://libcom.org/library/refuting-deaf-chavism-anarchism-venezuela).
 
 Published in the Anarcho-Syndicalist Review, #56, Spring 2011

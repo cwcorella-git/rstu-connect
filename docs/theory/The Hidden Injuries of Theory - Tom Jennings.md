@@ -1,3 +1,8 @@
+---
+title: "## **The Hidden Injuries of Theory - Tom Jennings**"
+category: "theory"
+---
+
 ## **The Hidden Injuries of Theory - Tom Jennings**
 
 ## **Date:** Unknown
@@ -88,7 +93,8 @@ Splits and Fusions has turned up a copy of Analysis magazine with some info:http
 
 ## ![](_page_11_Figure_0.jpeg)
 
-| purposes or something?This seems like it's people replying to that thread, although not very<br>helpful without the original:https://twitter.com/hackneyglyn/status/1454047709032288260|
+| purposes or something?This seems like it's people replying to that thread, although not very
+helpful without the original:https://twitter.com/hackneyglyn/status/1454047709032288260|
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Fozzie |
 | 3 years 12 months ago |

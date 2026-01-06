@@ -1,3 +1,8 @@
+---
+title: "HOW TO GIVE"
+category: "contemporary-analysis"
+---
+
 # HOW TO GIVE
 
 ## 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0

@@ -1,16 +1,10 @@
 ---
-title: International Day Against Police Brutality
-slug: International Day Against Police Brutality March 15
-reconversion_status: ready_for_reconversion
-author: Federazione dei Comunisti Anarchici
-date: 2022
-tags:
-  - abolition
-  - police
-  - unions
-  - tenants
-  - rent
+title: "International Day Against Police Brutality"
+author: "Federazione dei Comunisti Anarchici"
+date: "2022"
+category: "abolition"
 ---
+
 ## **International Day Against Police Brutality: March 15**
 
 ## **Date:** Unknown

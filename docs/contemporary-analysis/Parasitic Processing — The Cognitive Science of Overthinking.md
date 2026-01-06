@@ -1,3 +1,8 @@
+---
+title: "Parasitic Processing — The Cognitive Science of Overthinking"
+category: "contemporary-analysis"
+---
+
 #### [dismantledmind.com](https://dismantledmind.com/parasitic-processing/)
 
 # Parasitic Processing — The Cognitive Science of Overthinking

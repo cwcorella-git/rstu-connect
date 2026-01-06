@@ -1,3 +1,8 @@
+---
+title: "## **The French government told us a big lie, and we believed it**"
+category: "international-solidarity"
+---
+
 ## **The French government told us a big lie, and we believed it**
 
 ## **Date:** Thu, 12/10/2015 - 13:43

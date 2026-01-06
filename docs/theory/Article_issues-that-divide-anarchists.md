@@ -1,13 +1,8 @@
 ---
-title: Issues That Divide Anarchists
-date: 2025
-author: James Herod
-tags:
-  - organizing
-  - unions
-  - tenants
-  - housing
-  - rent
+title: "Issues That Divide Anarchists"
+author: "James Herod"
+date: "2025"
+category: "theory"
 ---
 
 # Issues That Divide Anarchists

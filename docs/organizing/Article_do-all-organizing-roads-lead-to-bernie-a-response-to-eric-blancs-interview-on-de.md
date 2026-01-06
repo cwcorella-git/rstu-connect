@@ -1,13 +1,8 @@
 ---
-title: Do All Organizing Roads Lead To Bernie? A Response To Eric Blanc's Interview
-date: 2025
-author: Black Rose
-tags:
-  - organizing
-  - strikes
-  - unions
-  - rent
-  - labor
+title: "Do All Organizing Roads Lead To Bernie? A Response To Eric Blanc's Interview"
+author: "Black Rose"
+date: "2025"
+category: "organizing"
 ---
 
 # Do All Organizing Roads Lead To Bernie a Response To Eric Blancs Interview On De

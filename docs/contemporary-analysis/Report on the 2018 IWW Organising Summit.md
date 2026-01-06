@@ -1,3 +1,8 @@
+---
+title: "## **Report on the 2018 IWW Organising Summit**"
+category: "contemporary-analysis"
+---
+
 ## **Report on the 2018 IWW Organising Summit**
 
 ## **Date:** Unknown
@@ -108,9 +113,19 @@ In order to avoid falling into the trap of most other union formation we need a 
 | 7 years ago |
 | In reply to Welcomebylibcom.org |
 | Angry Workers World |
-| Most of the left groups were celebrating the 'fast food workers'-revolt and made no difference<br>between the wildcat action of the Uber Eats workers, the self-organised IWW support and the<br>Mc Donalds 'strike' organised by the Bakers' Union. The currently most celebrated examples<br>of 'precarious workers' organising' - Mc Donalds and Picture House/Rizzy - are cases where<br>the interest of the union organisation relegates the interests of workers to the second row. |
-| Yes this is a real problem. The Mc Donalds campaign seems to be following almost exactly the<br>same model as Fight For 15 - essentially an NGO campaign for a higher minimum wage,<br>collecting membership fees along the way, made to look like an organising effort. SEIU<br>union-busted its own outsourced full time organisers: https://libcom.org/news/outsourced-seiu<br>-union-organizer-wrongfully-terminated-organizing-work-25082017 |
-| Also nearly all the left/alternative media is extremely Corbyn focused, so they're more than<br>happy to get vox pops from union full-timers and will lead on John Mc Donnell sending words<br>of support or whatever. |
+| Most of the left groups were celebrating the 'fast food workers'-revolt and made no difference
+between the wildcat action of the Uber Eats workers, the self-organised IWW support and the
+Mc Donalds 'strike' organised by the Bakers' Union. The currently most celebrated examples
+of 'precarious workers' organising' - Mc Donalds and Picture House/Rizzy - are cases where
+the interest of the union organisation relegates the interests of workers to the second row. |
+| Yes this is a real problem. The Mc Donalds campaign seems to be following almost exactly the
+same model as Fight For 15 - essentially an NGO campaign for a higher minimum wage,
+collecting membership fees along the way, made to look like an organising effort. SEIU
+union-busted its own outsourced full time organisers: https://libcom.org/news/outsourced-seiu
+-union-organizer-wrongfully-terminated-organizing-work-25082017 |
+| Also nearly all the left/alternative media is extremely Corbyn focused, so they're more than
+happy to get vox pops from union full-timers and will lead on John Mc Donnell sending words
+of support or whatever. |
 
 Then beyond that, a lot of people who aren't involved or following too closely won't pick up on these differences, so will repeat this smushing together of completely different things.
 

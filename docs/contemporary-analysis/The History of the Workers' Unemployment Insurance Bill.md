@@ -1,3 +1,8 @@
+---
+title: "## **The History of the Workers' Unemployment Insurance Bill**"
+category: "contemporary-analysis"
+---
+
 ## **The History of the Workers' Unemployment Insurance Bill**
 
 ## **Date:** Unknown

@@ -1,3 +1,8 @@
+---
+title: "## **Special Anti-Patriotic Issue of the Industrial Worker (March 1912)**"
+category: "labor"
+---
+
 ## **Special Anti-Patriotic Issue of the Industrial Worker (March 1912)**
 
 ## **Date:** Unknown
@@ -24,13 +29,18 @@ Thousands of Lawrence strikers and hundreds in the crowd at San Diego will have 
 | |
 | Special Anti-Patriotic Issue Next Week. Order now |
 | |
-| Text taken from the Industrial Worker, Vol. 3 No. 52, 21 March 1912. Spelling and punctuation<br>have been slightly modified. |
+| Text taken from the Industrial Worker, Vol. 3 No. 52, 21 March 1912. Spelling and punctuation
+have been slightly modified. |
 | |
-| To be truly patriotic one should have a country for which to fight. We want the World for the<br>Workers and we are willing to fight for it. |
+| To be truly patriotic one should have a country for which to fight. We want the World for the
+Workers and we are willing to fight for it. |
 | |
-| There is nothing inherently sacred about a bedaubed bit of rag hitched to a pole, whether the<br>cloth be striped, barred or star spangled. |
+| There is nothing inherently sacred about a bedaubed bit of rag hitched to a pole, whether the
+cloth be striped, barred or star spangled. |
 | |
-| Patriot—from the Irish word "Pat" meaning a desire to fight without provocation, and "Riot"<br>meaning frantic; hence, a man who is crazy enough to fight another over a country of which<br>he owns not an inch. Synonym—Plain damn fool. |
+| Patriot—from the Irish word "Pat" meaning a desire to fight without provocation, and "Riot"
+meaning frantic; hence, a man who is crazy enough to fight another over a country of which
+he owns not an inch. Synonym—Plain damn fool. |
 
 the hundreds of thousands who read and are told of the affairs will see the true meaning of
 
@@ -86,11 +96,17 @@ Love of country? They have no country. Love of flag? None floats for them. Love 
 
 That species of patriotism that masquerades beneath the name of religion cannot snare the feet of the modern proletariat—the propertyless worker. He alone is the true anti-patriot. On him the blighting curse of patriotism does not rest save as it is used upon the balance of the workers to keep him down. Directly, it causes him no concern.
 
-| Not until patriotism has been expelled from the minds of our class shall we see reared a<br>society which will be worthy of the name of civilization.<br> |
+| Not until patriotism has been expelled from the minds of our class shall we see reared a
+society which will be worthy of the name of civilization.
+ |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Try wrapping a flag around your belly as a cure for hunger.<br> |
-| Here's to the noble patriot,Away he'll never roam—He loudly yells for war and gore,But safely<br>stays at home. |
-| <br>The working men have no country. We cannot take from them that which they have not. By<br>freedom is meant free buying and selling.—Communist Manifesto |
+| Try wrapping a flag around your belly as a cure for hunger.
+ |
+| Here's to the noble patriot,Away he'll never roam—He loudly yells for war and gore,But safely
+stays at home. |
+| 
+The working men have no country. We cannot take from them that which they have not. By
+freedom is meant free buying and selling.—Communist Manifesto |
 ## | |
 
 To End Militarism, End Capitalism, Via Industrialism. (By Justus Ebert).

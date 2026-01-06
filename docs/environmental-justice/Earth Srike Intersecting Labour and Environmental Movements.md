@@ -1,3 +1,8 @@
+---
+title: "## **Earth Srike: Intersecting Labour and Environmental Movements**"
+category: "environmental-justice"
+---
+
 ## **Earth Srike: Intersecting Labour and Environmental Movements**
 
 ## **Date:** Mon, 07/01/2019 - 16:08

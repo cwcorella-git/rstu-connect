@@ -1,3 +1,8 @@
+---
+title: "Concerning Violence"
+category: "arts-culture-music"
+---
+
 ## ![](_page_0_Figure_0.jpeg)
 
 ## ![](_page_1_Picture_0.jpeg)
@@ -40,13 +45,15 @@ Library of Congress Cataloging-in-Publication data is available.
 |----------------------------------------------------------|-----|
 | Sophie Vuković, and Joslyn Barnes | 1 |
 | Preface by Professor Gayatri Chakravorty Spivak | 13 |
-| 1. Decolonization<br>With the MPLA in Angola, 1973 | 27 |
+| 1. Decolonization
+With the MPLA in Angola, 1973 | 27 |
 | 2. Indifference | 37 |
 | 3. Rhodesia | 43 |
 | 4. A World Cut in Two | 49 |
 | 5. LAMCO, Liberia, 1966 | 57 |
 | 6. That Poverty of Spirit | 69 |
-| 7. The Fiat G.91<br>With the FRELIMO in Mozambique, 1972 | 93 |
+| 7. The Fiat G.91
+With the FRELIMO in Mozambique, 1972 | 93 |
 | 8. Defeat | 103 |
 | 9. Raw Materials | 109 |
 | Conclusion | 127 |
@@ -136,15 +143,15 @@ Fanon died at thirty-six, and we would have gained greatly if this man of fire a
 
 Göran Olsson's film is nested as a moment in The Wretched of the Earth, the book Fanon wrote in the last ten weeks of his life, knowing that he was marked for death by acute leukemia, even as he was being hounded by the colonizing government of France. The French philosopher Jean-Paul Sartre, himself a strong anticolonialist among the colonizers, probably only read the powerful first chapter, and read it as an endorsement of violence itself-not reading between the lines. We are acquainted with the well-meaning hyperbole of reverse ethnocentrism, where Fanon insists that the tragedy is that the very poor—among the peasantry untamed by bourgeois socialization—is reduced to violence, because there is no other response possible to an absolute absence of response and an absolute exercise of legitimized violence from the colonizers. Their lives count as nothing against the death of the colonizers: unacknowledged Hiroshimas over against sentimentalized 9/11s. Here the lesson of Gandhi regarding the power of passive resistance and the contrastive lesson of Israel in the exercise of state-legitimized violence drawing forth violence in extremism is useful today. It captures the tragedy of the moment when the very poor are convinced, in the name of a nation that is going to reject it once it is established on its own two feet, to offer themselves up for a violent killing.
 
-<sup>1.</sup> Frantz Fanon, *The Wretched of the Earth*, trans. Richard Philcox (New York: Grove, 2004). Quotations in text marked with page numbers in parentheses.
+1. Frantz Fanon, *The Wretched of the Earth*, trans. Richard Philcox (New York: Grove, 2004). Quotations in text marked with page numbers in parentheses.
 
 Indeed, if one reads the book carefully to the end, one sees that Fanon's discussion of violence is drawn from the cases that he encounters in his clinic. He understands the reason with sympathy, but does not give an endorsement. His role is to investigate the difficulties of the cure.
 
 It is in this context that we remember that after the struggle against Portugal, the new nations of Angola and Mozambique fell into civil war and disproved the dream of the very poor that decolonization would bring a new day. Mozambique has joined forces with capitalist globalization. This is the rule rather than the exception. Fanon's own warning is contained in A Dying Colonialism. Against the grain of his optimism of the will, he writes: "It is no longer the age of little vanguards," an unintended description of the guerrilla warfare we will watch on the screen.2 Working within the problems created by a postcolonial nation (which bring back the precolonial problems that the great historian Fernand Braudel called longue durée or long term): "structures which lie invisible below the surface of social activities." many of us think that the real disaster in colonialism lies in destroying the minds of the colonized and forcing them to accept mere violence-allowing no practice of freedom, so that these minds cannot build when apparent decolonization has been achieved.3 From the example of mature leaders such as Du Bois and Mandela, we know or can at least have the feeling that Fanon would have gone in that direction. Unlike Gandhi, the early Du Bois, or even Mandela, who worked for their own nation-states-Fanon was not himself an Algerian, not a member of the country which he helped. This is an important lesson for those of us who want to think the world rather than
 
-<sup>2.</sup> Frantz Fanon, A Dying Colonialism, trans. Haakon Chevalier (New York: Grove, 1965), 1.
+2. Frantz Fanon, A Dying Colonialism, trans. Haakon Chevalier (New York: Grove, 1965), 1.
 
-<sup>3.</sup> This is the accessible summary of Braudel's argument offered by one of his best pupils, Kirti N. Chaudhuri, in Asia Before Europe: Economy and Civilisation of the Indian Ocean from the Rise of Islam to 1750 (New York: Cambridge University Press, 1990), 5.
+3. This is the accessible summary of Braudel's argument offered by one of his best pupils, Kirti N. Chaudhuri, in Asia Before Europe: Economy and Civilisation of the Indian Ocean from the Rise of Islam to 1750 (New York: Cambridge University Press, 1990), 5.
 
 thinking from within a nation-state, argue from identity, learning the lesson that mere national liberation without the practice of freedom cannot in fact bring a socially just world for the very poor. Fanon did not know the language of the common people of Algeria—Arabic; he was not himself a Muslim, the majority religion of Algeria. He could not know the power of religion as a discourse of political mobilization in today's world, particularly after so-called independence in what is today called "the Islamic world." I was working the election booths in Wahran (Algeria) in 1991. It is within the context of the aftermath of colonialism—that Fanon could not know but predicted with great accuracy—that the tragedy of what we watch in this film must be carefully considered. This is a teaching text.
 
@@ -162,7 +169,7 @@ It is our task to reinscribe this innocent anti-imperialist gendered auto-critic
 
 Du Bois should be mentioned here as well because he was sentient enough to distinguish between the various kinds of imperialisms that were affoat at the time, in an essay published in the year of Fanon's birth (1925).4 I do a work that can be situated within the thinking of
 
-<sup>4.</sup> W. E. B. Du Bois, "The Negro Mind Looks Out," in Alain Locke, ed., The New the Fanon-Du Bois style of Pan-Africanism that also wanted to bring within its embrace the vision of a postcolonial world at large, Fanon looking forward into globality.
+4. W. E. B. Du Bois, "The Negro Mind Looks Out," in Alain Locke, ed., The New the Fanon-Du Bois style of Pan-Africanism that also wanted to bring within its embrace the vision of a postcolonial world at large, Fanon looking forward into globality.
 
 Preparing to finish my piece on the film for publication, I have been reading a history of Mozambique in connection with the fact that the archives represented in the film are Angola and Mozambique. What do I find but India's involvement, by way of Portuguese Goa, in the development of Mozambique as a part of new Iberia, negotiating with the older Arab presence and the constant subaltern movement, and finally into a neo-patrimonial postcoloniality. A certain work of cultural gendering has to be confronted here as Chinese women from the Portuguese possession of Macao were being brought in since European and Indian women were refusing to come and settle in this wild country.
 
@@ -174,21 +181,21 @@ We remember that Fanon wanted very much to consider the rep-
 
 Negro (New York: Touchstone, 1925), 385-414.
 
-<sup>5.</sup> Eduardo Mondiane, The Struggle for Mozambique (Baltimore, MD: Penguin, 1969), 16.
+5. Eduardo Mondiane, The Struggle for Mozambique (Baltimore, MD: Penguin, 1969), 16.
 
 resentation of the veiled woman and the revolutionary unveiled woman in his Sociologie d'une revolution, translated as A Dying Colonialism. Because he was doing this in connection with the kinds of patients he saw as a psychiatrist trying for a new anticolonial psychiatry, singleissue feminists have often misunderstood him. However, it is also true that his sexual politics were marked by time and place. But the words of this wild boy from Martinique can still find an echo because, in the radiation of globality, below a certain class, rape-culture is still taken to be as normal as bribe-culture. In the classes above they are mostly hidden by benevolent sexism with a smile. And the response to no-response in certain parts of the world has been gender-envy, an insistence on women as culture-bearers—even as we speak, groups want to bind women in Sharia, which must not be translated as "law," as Wael Hallag explains in his "What Is Sharia?" but rather classed with this gender-envy.6
 
 This film reminds us that, although liberation struggles force women into an apparent equality—starting with the nineteenth century or even earlier-when the dust settles, the so-called postcolonial nation goes back to the invisible long-term structures of gendering. The most moving shot of this film is the black Venus, reminding us of the Venus of Milo with her arm gone, who is also a black Madonna, suckling a child with bare breasts. This icon must remind us all that the endorsement of rape continues not only in war but also, irrespective of whether a nation is developing or developed—in women fighting in legitimized armies. Colonizer and colonized are united in the violence of gendering, which often celebrates motherhood with genuine pathos. Here we have to promote our brother Fanon into a changed mindset, but he, who would have been in his eighties today, is not there for us. What I can recommend is that you also watch a video made by Algerian women active in the revolution called Barberousse ma soeur, if you can get your hands on it; or read Assia Djebar's
 
-<sup>6.</sup> Wael Hallaq, Shari'a: Theory, Practice, Transformations (New York: Cambridge University Press, 2009).
+6. Wael Hallaq, Shari'a: Theory, Practice, Transformations (New York: Cambridge University Press, 2009).
 
-representation of the glorification of the mother in *Regard interdit*, son coupé, translated as "Forbidden Gaze, Severed Sound."<sup>7</sup>
+representation of the glorification of the mother in *Regard interdit*, son coupé, translated as "Forbidden Gaze, Severed Sound."7
 
 Here now is our film, a tribute to and an illustration of Frantz Fanon's Wretched of the Earth. I end this preface in Fanon's own way. turning around for our own use what a European philosopher wrote for the use of Europe over two hundred years ago; turning Kant around for our purposes as he did Hegel: "Anything which the people (i.e., the entire mass of subjects) cannot decide for themselves and their fellows cannot be decided for the people by the sovereign either." The people under colonization have had no practice of freedom. You cannot decide without practice. The ones you see on the screen are a small part of the people, the poorest of the poor, mobilized into violence by sovereign leaders: cannon fodder. This practice goes on in all armies, all resistance movements, in the name of nation and religion. Here Fanon would have been useful today. As for gendering, we must ourselves gender "the people." Our brothers Kant and Fanon are not useful here, although we must keep in mind that Fanon put his finger on the fact that, even in contemporary globalization, gender justice produces the alibi for development as exploitation. When we look at negotiations between imperial systems, this particular feature is often not noticed.
 
 I thank Göran Olsson for setting us these tasks.
 
-<sup>7.</sup> Assia Djebar, "Forbidden Gaze, Severed Sound," in *Women of Algiers in Their Apartment*, trans. Marjolijn de Jager (Charlottesville: University Press of Virginia, 1992), 133–52.
+7. Assia Djebar, "Forbidden Gaze, Severed Sound," in *Women of Algiers in Their Apartment*, trans. Marjolijn de Jager (Charlottesville: University Press of Virginia, 1992), 133–52.
 
 ## ![](_page_29_Picture_0.jpeg)
 
@@ -218,7 +225,7 @@ After liberation from Portugal in 1975, Angola was thrown into Africa's longest 
 
 -Editors' Note
 
-<sup>1.</sup> Nelson Mandela, address for the opening of the National Moncada Barracks, Havana, July 26, 1991, Latin American Network Information Center, Castro Speech Data Base, http://lanic.utexas.edu/project/castro/db/1991/19910726-1.html.
+1. Nelson Mandela, address for the opening of the National Moncada Barracks, Havana, July 26, 1991, Latin American Network Information Center, Castro Speech Data Base, http://lanic.utexas.edu/project/castro/db/1991/19910726-1.html.
 
 ## ![](_page_35_Picture_0.jpeg)
 

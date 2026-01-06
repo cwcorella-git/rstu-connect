@@ -1,3 +1,8 @@
+---
+title: "## **Mary Wollstonecraft: Two sexes, yet one truth - Liz Willis**"
+category: "contemporary-analysis"
+---
+
 ## **Mary Wollstonecraft: Two sexes, yet one truth - Liz Willis**
 
 ## **Date:** Unknown

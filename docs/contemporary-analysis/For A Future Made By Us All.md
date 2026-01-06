@@ -1,3 +1,8 @@
+---
+title: "**Rebel City London**"
+category: "contemporary-analysis"
+---
+
 # **Rebel City London**
 
 # **For A Future Made By Us All**

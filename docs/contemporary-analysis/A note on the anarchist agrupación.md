@@ -1,3 +1,8 @@
+---
+title: "**A note on the anarchist agrupación**"
+category: "contemporary-analysis"
+---
+
 # **A note on the anarchist agrupación**
 
 ## **Date:** Unknown

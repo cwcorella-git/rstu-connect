@@ -1,3 +1,8 @@
+---
+title: "HOW TO RUN A COUNTRY"
+category: "contemporary-analysis"
+---
+
 # HOW TO RUN A COUNTRY
 
 ## An Ancient Guide for Modern Leaders

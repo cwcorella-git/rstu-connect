@@ -1,3 +1,8 @@
+---
+title: "James Herod"
+category: "theory"
+---
+
 # James Herod
 
 # Abolish the Stock Market
@@ -42,7 +47,7 @@ Anarchists can use this crisis to discredit capitalism and organize campaigns to
 
 good beginning is the emerging Boycott Banks campaign. (See information at:
 
-[<http://www.bankstrike.net/organizing-financial-crisis>](http://www.bankstrike.net/organizing-financial-crisis).
+[](http://www.bankstrike.net/organizing-financial-crisis).
 
 #### Recommended Reading
 
@@ -50,41 +55,43 @@ good beginning is the emerging Boycott Banks campaign. (See information at:
 
 Foster, John Bellamy, and Fred Magdoff, The Great Financial Crisis (Monthly Review Press, February 2009, 160 pages). This is the best radical analysis of the crisis so far.
 
-Immanuel Wallerstein, "The Depression: A Long-Term View," October 8, 2008, at: [<www.binghamton.edu>](http://www.binghamton.edu/fbc/243en.htm). See also the long interview with Wallerstein by Jae-Jung Suh, "Capitalism's Demise?" January 10, 2009, online at: [<http://english.hani.co.kr/popups/print.hani?](http://english.hani.co.kr/popups/print.hani?ksn=332037) [ksn=332037>](http://english.hani.co.kr/popups/print.hani?ksn=332037).
+Immanuel Wallerstein, "The Depression: A Long-Term View," October 8, 2008, at: [](http://www.binghamton.edu/fbc/243en.htm). See also the long interview with Wallerstein by Jae-Jung Suh, "Capitalism's Demise?" January 10, 2009, online at: [](http://english.hani.co.kr/popups/print.hani?ksn=332037).
 
-Michael Hudson. A convenient archive of Hudson's essays on the crisis can be found at: [<http://](http://www.globalresearch.ca/) [www.globalresearch.ca/>](http://www.globalresearch.ca/). Go to their author index, click on H, and scroll down to Hudson.
+Michael Hudson. A convenient archive of Hudson's essays on the crisis can be found at: [](http://www.globalresearch.ca/). Go to their author index, click on H, and scroll down to Hudson.
 
 Michel Chossudovsky, "America's Fiscal Collapse," March 2, 2009, online at:
 
-[<http://www.globalresearch.ca/index.php?context=va&aid=12517>](http://www.globalresearch.ca/index.php?context=va&aid=12517).
+[](http://www.globalresearch.ca/index.php?context=va&aid=12517).
 
-Doug Henwood, "Reflections on the Current Crisis – Part Two," Left Business Observer #118, April 2008, online at: <[www.leftbusinessobserver.com>](http://www.leftbusinessobserver.com/Turmoil2.html).
+Doug Henwood, "Reflections on the Current Crisis – Part Two," Left Business Observer #118, April 2008, online at: ](http://www.leftbusinessobserver.com/Turmoil2.html).
 
 There is a link to Part One.
 
-Silvia Federici and George Caffentzis, "Notes on the Wall Street Meltdown," October 10, 2008, online at: [<freeofstate.org>](http://freeofstate.org/new/?p=4208).
+Silvia Federici and George Caffentzis, "Notes on the Wall Street Meltdown," October 10, 2008, online at: [](http://freeofstate.org/new/?p=4208).
 
-Peter Gowan, "Crisis in the Heartland," New Left Review, #55, January-February 2009, online at: [<www.newleftreview.org>](http://www.newleftreview.org/?page=article&view=2759).
+Peter Gowan, "Crisis in the Heartland," New Left Review, #55, January-February 2009, online at: [](http://www.newleftreview.org/?page=article&view=2759).
 
-David Harvey, "Why the U.S. Stimulus Package is Bound to Fail," February 13, 2009, online at: < [http://www.zmag.org/znet/viewArticle/20559>](http://www.zmag.org/znet/viewArticle/20559). See also Harvey's March 13/15, 2009 essay on Counterpunch, "The Crisis and the Consolidation of Class Power: Is This Really the End of Neoliberalism?" online at: [<www.counterpunch.org>](http://www.counterpunch.org/harvey03132009.html).
+David Harvey, "Why the U.S. Stimulus Package is Bound to Fail," February 13, 2009, online at: ](http://www.zmag.org/znet/viewArticle/20559). See also Harvey's March 13/15, 2009 essay on Counterpunch, "The Crisis and the Consolidation of Class Power: Is This Really the End of Neoliberalism?" online at: [](http://www.counterpunch.org/harvey03132009.html).
 
 Leo Panitch and Sam Gindin, "From Global Finance to the Nationalization of the Banks: Eight Theses on the Economic Crisis," February 25, 2009 online at:
 
-[<www.globalresearch.ca>](http://www.globalresearch.ca/index.php?context=va&aid=12463).
+[](http://www.globalresearch.ca/index.php?context=va&aid=12463).
 
 See also an interview with Panitch, February 18, 2009, at:
 
-[<zcommunications.org>](http://zcommunications.org/znet/viewArticlePrint/20602).
+[](http://zcommunications.org/znet/viewArticlePrint/20602).
 
 Paul Bowman, "Financial Weapons of Mass Destruction," September 2008, online at:
 
-[<www.anarkismo.net>](http://www.anarkismo.net/article/9850?print_page=true).
+[](http://www.anarkismo.net/article/9850?print_page=true).
 
-Matt Taibbi, "The Big Takeover," Rolling Stone, issue #1075, April 2, 2009. Also online at: [<www.informationclearinghouse.info>](http://www.informationclearinghouse.info/article22276.htm).
+Matt Taibbi, "The Big Takeover," Rolling Stone, issue #1075, April 2, 2009. Also online at: [](http://www.informationclearinghouse.info/article22276.htm).
 
 James Petras, "Latin America: Perspectives for Socialism in a time of a World Capitalist Recession/Depression," online at:
 
-[<petras.lahaine.org>](http://petras.lahaine.org/articulo.php?p=1772&more=1&c=1).
+[
+
+](http://petras.lahaine.org/articulo.php?p=1772&more=1&c=1).
 
 ### More Generally
 

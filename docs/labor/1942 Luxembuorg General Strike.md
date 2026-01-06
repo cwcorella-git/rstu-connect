@@ -1,3 +1,8 @@
+---
+title: "## **1942: Luxembuorg General Strike**"
+category: "labor"
+---
+
 ## **1942: Luxembuorg General Strike**
 
 **Date:** Unknown

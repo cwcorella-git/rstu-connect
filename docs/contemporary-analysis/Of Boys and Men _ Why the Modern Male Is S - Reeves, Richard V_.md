@@ -1,3 +1,8 @@
+---
+title: "OF"
+category: "contemporary-analysis"
+---
+
 Why the Modern Male is Struggling,
 
 Why It Matters,
@@ -891,7 +896,7 @@ One of the primary functions of human culture is to help young people to become 
 
 My sons attended a school with a "culture of toxic masculinity." It was perhaps not the first place you would look for it. Bethesda-Chevy Chase High School serves an affluent, liberal, highly educated suburban community just outside Washington, D. C. A third of the adults in the county have a graduate degree. Four out of five voted for Joe Biden. In 2019, the school district added a third option for student gender. If there is a liberal bubble, this is the bubble inside that bubble.
 
-But in 2018 an incident occurred at the school that generated widespread media coverage, including CBS's *This Morning*, ABC's *Good Morning America*, and NBC's *Today* show ("a reckoning on sexual harassment"), as well as in the *Washingtonian* magazine and *Washington Post*.<sup>4</sup> The *Daily Mail*, a British newspaper, picked up the story.<sup>5</sup> Here's what happened. A boy at the school created a list of his female classmates, ranked in terms of their attractiveness, and shared it with a number of his friends, some of whom added their own opinions. Months later, one of the girls saw the list on another boy's laptop. A number of girls complained to the school administration. The boy who created the list was reprimanded and given detention. A protest ensued. "It was the last straw, for us girls, of this 'boys will be boys' culture," one of the young women involved told the *Washington Post*. 6
+But in 2018 an incident occurred at the school that generated widespread media coverage, including CBS's *This Morning*, ABC's *Good Morning America*, and NBC's *Today* show ("a reckoning on sexual harassment"), as well as in the *Washingtonian* magazine and *Washington Post*.4 The *Daily Mail*, a British newspaper, picked up the story.5 Here's what happened. A boy at the school created a list of his female classmates, ranked in terms of their attractiveness, and shared it with a number of his friends, some of whom added their own opinions. Months later, one of the girls saw the list on another boy's laptop. A number of girls complained to the school administration. The boy who created the list was reprimanded and given detention. A protest ensued. "It was the last straw, for us girls, of this 'boys will be boys' culture," one of the young women involved told the *Washington Post*. 6
 
 Part of a statement read out at a protest outside the principal's office was the following demand: "We should be able to learn in an environment without the constant presence of objectification and misogyny." Large meetings were held in the school to discuss culture. The boy who created the list apologized personally to the girls in question, and to the *Washington Post*. The school principal and two of the female students later participated in a panel discussion of the issue aired on C-SPAN.7
 
@@ -2244,7 +2249,7 @@ Above all, I can't say enough to express my love and appreciation for Erica Hauv
 - 50. Edin and Nelson, *Doing the Best I Can*, p. 227.
 - 51. Michael Young and Peter Willmott, *The Symmetrical Family* (New York: Pantheon, 1973), p. 278.
 - 52. Alexander Bick, Bettina Brüggemann, and Nicola Fuchs-Schündeln, "Hours Worked in Europe and the United States: New Data, New Answers," *Scandinavian Journal of Economics* (October 2019), pp. 1381–1416.
-- 53. Julie Sullivan, "Comparing Characteristics and Selected Expenditures of Dual-and Single-Income Households with Children," *Monthly Labor Review*, U. S. Bureau of Labor Statistics, September 2020, <https://doi.org/10.21916/mlr.2020.19>.
+- 53. Julie Sullivan, "Comparing Characteristics and Selected Expenditures of Dual-and Single-Income Households with Children," *Monthly Labor Review*, U. S. Bureau of Labor Statistics, September 2020, .
 - 54. Richard V. Reeves and Isabel V. Sawhill, *A New Contract with the Middle Class* (Brookings Institution, 2020), pp. 46–56.
 - 55. Goldin, *Career and Family*, p. 17.
 - 56. Kim Parker and Wendy Wang, *Modern Parenthood: Roles of Moms and Dads Converge as They Balance Work and Family*, report prepared for the Pew Research Center, March 2013.

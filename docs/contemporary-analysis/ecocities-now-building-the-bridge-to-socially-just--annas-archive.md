@@ -1,3 +1,8 @@
+---
+title: "I COCITIES NOW"
+category: "contemporary-analysis"
+---
+
 Jennie Moore · Sahar Attia · Adel Abdel-Kader · Aparajithan Narasimhan Editors
 
 # I COCITIES NOW
@@ -24,7 +29,7 @@ Adel Abdel-Kader Trend Green Knowledge Toronto, ON, Canada
 
 Aparajithan Narasimhan AN Design, Habitat Studio Chennai, India
 
-ISBN 978-3-030-58398-9 ISBN 978-3-030-58399-6 (e Book) <https://doi.org/10.1007/978-3-030-58399-6>
+ISBN 978-3-030-58398-9 ISBN 978-3-030-58399-6 (e Book) 
 
 © The Editor(s) (if applicable) and The Author(s), under exclusive license to Springer Nature Switzerland AG 2020
 
@@ -64,27 +69,247 @@ This book arose from the desire to publish information about the state of practi
 
 ## **Contents**
 
-| 1 | Introduction<br><br>Jennie<br>Moore | 1 |
+| 1 | Introduction
+
+Jennie
+Moore | 1 |
 |------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|
-| Part | I<br>Socially<br>Just<br>and<br>Ecologically<br>Sustainable<br>Cities | |
-| 2 | Supporting<br>Informal<br>Areas<br>Resilience:<br>Reinforcing<br>Hidden<br>Green<br>Potentials<br>for<br>a<br>Better<br>Quality<br>of<br>Life<br>Heba<br>Allah<br>Essam<br>E.<br>Khalil<br>and<br>Sherin<br>Gammaz | 11 |
-| 3 | Developing<br>a<br>Decentralized<br>and<br>Integrated<br>Water<br>Management<br>System<br>for<br>Neighborhood<br>Communities<br>Within<br>Indonesia's<br>Informal<br>Urban<br>Settlements<br>Armin<br>Fuchs,<br>Nico<br>N.<br>M.<br>J.<br>D.<br>Tillie,<br>and<br>Mo<br>Smit | 41 |
-| Part | II<br>Climate<br>Action | |
-| 4 | Re-thinking<br>the<br>Territory<br>of<br>Concepción,<br>Chile:<br>A<br>Resilient<br>and<br>Strategic<br>Planning<br>for<br>a<br>Vulnerable<br>Urban<br>Coastal<br>System<br>Catalina<br>Rey<br>Hernández<br>and<br>Nico<br>Tillie | 63 |
-| 5 | Willingness<br>to<br>Use<br>Non-motorized<br>Transport<br>is<br>Under-Estimated<br>John<br>Zacharias | 79 |
-| 6 | Informal<br>Solutions<br>Towards<br>Personal<br>Net<br>Zero<br>Joey<br>Dabell<br>and<br>Mark<br>Dabell | 91 |
-| Part | III<br>Circular<br>Economy | |
-| 7 | Making<br>Cement<br>from<br>Demolished<br>Concrete:<br>A<br>Potential<br>Circular<br>Economy<br>Through<br>Geopolymer<br>Chemistry<br>D.<br>J.<br>Lake | 107 |
+| Part | I
+Socially
+Just
+and
+Ecologically
+Sustainable
+Cities | |
+| 2 | Supporting
+Informal
+Areas
+Resilience:
+Reinforcing
+Hidden
+Green
+Potentials
+for
+a
+Better
+Quality
+of
+Life
+Heba
+Allah
+Essam
+E.
+Khalil
+and
+Sherin
+Gammaz | 11 |
+| 3 | Developing
+a
+Decentralized
+and
+Integrated
+Water
+Management
+System
+for
+Neighborhood
+Communities
+Within
+Indonesia's
+Informal
+Urban
+Settlements
+Armin
+Fuchs,
+Nico
+N.
+M.
+J.
+D.
+Tillie,
+and
+Mo
+Smit | 41 |
+| Part | II
+Climate
+Action | |
+| 4 | Re-thinking
+the
+Territory
+of
+Concepción,
+Chile:
+A
+Resilient
+and
+Strategic
+Planning
+for
+a
+Vulnerable
+Urban
+Coastal
+System
+Catalina
+Rey
+Hernández
+and
+Nico
+Tillie | 63 |
+| 5 | Willingness
+to
+Use
+Non-motorized
+Transport
+is
+Under-Estimated
+John
+Zacharias | 79 |
+| 6 | Informal
+Solutions
+Towards
+Personal
+Net
+Zero
+Joey
+Dabell
+and
+Mark
+Dabell | 91 |
+| Part | III
+Circular
+Economy | |
+| 7 | Making
+Cement
+from
+Demolished
+Concrete:
+A
+Potential
+Circular
+Economy
+Through
+Geopolymer
+Chemistry
+D.
+J.
+Lake | 107 |
 
 ## xii Contents
 
-| 8 | A<br>Hybrid<br>Model<br>for<br>Sustainable<br>Urban<br>Metabolism<br>in<br>Metropolitan<br>Communities<br>Carson<br>Xu,<br>Son<br>Nguyen,<br>John<br>Whangbo,<br>and<br>Michal<br>Aibin | 119 |
+| 8 | A
+Hybrid
+Model
+for
+Sustainable
+Urban
+Metabolism
+in
+Metropolitan
+Communities
+Carson
+Xu,
+Son
+Nguyen,
+John
+Whangbo,
+and
+Michal
+Aibin | 119 |
 |-------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|
-| Part | IV<br>Informal<br>Solutions<br>for<br>Sustainable<br>Development | |
-| 9 | Capacity<br>Building<br>of<br>Rural<br>Communities<br>in<br>Post-Earthquake<br>Reconstruction<br>in<br>Nepal<br>Bishnu<br>Pandey,<br>Ranjan<br>Dhungel,<br>Surya<br>Narayan<br>Shrestha,<br>and<br>Sushil<br>Gyewali | 133 |
-| 10 | Seeing<br>the<br>Forest<br>Through<br>the<br>Trees:<br>Assessing<br>Urban<br>Forest<br>Values<br>Using<br>a<br>Combination<br>of<br>LiDAR,<br>Timber<br>Species<br>Identifier,<br>i-Tree<br>Eco<br>and<br>GPS<br>Ground<br>Surveys<br>Julia<br>Alards-Tomalin,<br>Laurie<br>Stott,<br>Jace<br>Standish,<br>Mike<br>Parlow,<br>and<br>D'Laine<br>Robertson-Hooper | 149 |
-| 11 | Restoration<br>of<br>an<br>Urban<br>Creek<br>Water<br>Quality<br>Using<br>Sand<br>and<br>Biochar<br>Filtration<br>Galleries<br>Samira<br>Jalizi,<br>Ken<br>Ashley,<br>and<br>Colleen<br>C.<br>V.<br>Chan | 161 |
-| 12 | Conclusion<br>Jennie<br>Moore,<br>Sahar<br>Attia,<br>Adel<br>Abdel-Kader,<br>and<br>Aparajithan<br>Narasimhan | 175 |
+| Part | IV
+Informal
+Solutions
+for
+Sustainable
+Development | |
+| 9 | Capacity
+Building
+of
+Rural
+Communities
+in
+Post-Earthquake
+Reconstruction
+in
+Nepal
+Bishnu
+Pandey,
+Ranjan
+Dhungel,
+Surya
+Narayan
+Shrestha,
+and
+Sushil
+Gyewali | 133 |
+| 10 | Seeing
+the
+Forest
+Through
+the
+Trees:
+Assessing
+Urban
+Forest
+Values
+Using
+a
+Combination
+of
+LiDAR,
+Timber
+Species
+Identifier,
+i-Tree
+Eco
+and
+GPS
+Ground
+Surveys
+Julia
+Alards-Tomalin,
+Laurie
+Stott,
+Jace
+Standish,
+Mike
+Parlow,
+and
+D'Laine
+Robertson-Hooper | 149 |
+| 11 | Restoration
+of
+an
+Urban
+Creek
+Water
+Quality
+Using
+Sand
+and
+Biochar
+Filtration
+Galleries
+Samira
+Jalizi,
+Ken
+Ashley,
+and
+Colleen
+C.
+V.
+Chan | 161 |
+| 12 | Conclusion
+Jennie
+Moore,
+Sahar
+Attia,
+Adel
+Abdel-Kader,
+and
+Aparajithan
+Narasimhan | 175 |
 ## | Index | | 179 |
 
 # **Chapter 1 Introduction**
@@ -99,7 +324,7 @@ An "ecocity" is an ecologically healthy city. According to the two founding pion
 
 British Columbia Institute of Technology, 3700 Willingdon Avenue, Burnaby, BC V5G 3H2, Canada e-mail: [Jennie\\_Moore@bcit.ca](mailto:Jennie_Moore@bcit.ca)
 
-<sup>1</sup>Richard Register, pioneer of the ecocity movement and co-creator of the Ecocity World Summit conference series, is credited with this observation which he often makes at the beginning of presentations and conversations.
+1Richard Register, pioneer of the ecocity movement and co-creator of the Ecocity World Summit conference series, is credited with this observation which he often makes at the beginning of presentations and conversations.
 
 ## J. Moore (B)
 
@@ -252,9 +477,9 @@ Fig. 2.1 Sustainable Urbanism Principles, adopted from (Farr 2008) and (Khalil 2
 
 For the past few decades, there has been a growing movement toward sustainable urbanism in both theory and formal practice away from preceding trends and practices of the Functional City. Many urbanists have compiled sets of principles that guide sustainable urban development; for example, "New Urbanism" (Hasic 2000), "Transit-oriented Development" (Boarnet and Crane 2001), "Smart Growth" (Stoel 1999), "Decentralized Concentration" (Breheny 1996; Høyer and Holden 2003; Holden 2004), and "Sustainable Urbanism" (Farr 2008). These principles and theories have dominated urban debates and guided many cities' efforts to improve livability. Moreover, these principles have been the base for many indices to assess the performance of urban settlements toward their sustainability as exemplified by the Green City Index and Your Better Life initiatives among many others. Figure 2.1 summarizes the extracted principles for sustainable urbanism based on the above literature and summarized in Khalil (2010).
 
-As energy is the primary driver for sustainability, it would be logical to assess the ecological performance of informal areas focusing on energy. In that sense, the paper utilizes the indicators of the Green City Index that are related to energy efficiency and policies for green energy (The Economist Intelligence Unit 2009, 2010, 2011a, b, c). The paper adopts the indicators extracted by Khalil (2012b)<sup>1</sup> as a base to analyze the performance of the informal area under study as shown in the next part. These are, namely: electricity consumption, access to electricity, clean and efficient energy policies, climate change action plan, eco buildings policy, green spaces per capita, population density, land use policy, population living in informal settlements, waste recycling and re-use policy, length of mass transport network, urban mass transport policy, and congestion reduction policy. Although there could be additional indicators related to energy efficiency, availability of data falls short in many countries (Khalil 2012b). For better relevance to informal areas in
+As energy is the primary driver for sustainability, it would be logical to assess the ecological performance of informal areas focusing on energy. In that sense, the paper utilizes the indicators of the Green City Index that are related to energy efficiency and policies for green energy (The Economist Intelligence Unit 2009, 2010, 2011a, b, c). The paper adopts the indicators extracted by Khalil (2012b)1 as a base to analyze the performance of the informal area under study as shown in the next part. These are, namely: electricity consumption, access to electricity, clean and efficient energy policies, climate change action plan, eco buildings policy, green spaces per capita, population density, land use policy, population living in informal settlements, waste recycling and re-use policy, length of mass transport network, urban mass transport policy, and congestion reduction policy. Although there could be additional indicators related to energy efficiency, availability of data falls short in many countries (Khalil 2012b). For better relevance to informal areas in
 
-<sup>&</sup>lt;sup>1</sup>Khalil (2012b) provides an extensive survey of sustainability indicators.
+&lt;sup>1Khalil (2012b) provides an extensive survey of sustainability indicators.
 
 Egypt, the extracted indicators represent those used in the Green City Index reports of either all continents or specifically Africa, Asia, and Latin America. Furthermore, these indicators could be classified into two categories: first, indicators related to energy required for achieving good quality of life (in the short term) and second, indicators related to energy policies required for sustaining this quality of life over the long term within an energy-efficient approach as shown in Table 2.1. The main aim for this categorizing is to differentiate between two things. First, the energy consumption needed to provide a good quality of life within an energy-efficient strategy. Second, the energy consumption that can sustain this quality of life within a resource-constrained environment. Hence indicators of the first group affect shortterm pursuit of good quality of life such as energy consumption, access to electricity, green spaces per capita, population density, length of mass transport network, and congestion reduction policy. Indicators of the second group have direct relevance to sustaining a good quality of life while reducing the associated negative impacts of energy consumption such as clean and efficient energy policies, climate change action plan, eco buildings policy, land use policy, waste recycling and re-use policy, and urban mass transport policy.
 
@@ -269,17 +494,56 @@ Examples of widely used indices in recent years include quality of living by Mer
 | Energy efficiency indicators | |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
 | Achieving good quality of life | Sustaining good quality of life |
-| Energy consumption: Total final<br>energy consumption, in gigajoules<br>per head | Same |
-| Electricity consumption per unit of<br>GDP: Total final energy consumption,<br>in megajoules per unit of real GDP | Same |
-| Access to electricity: Percentage of<br>households with access to electricity | Clean and efficient energy policies:<br>An assessment of the extensiveness of<br>policies promoting the use of clean<br>and efficient energy |
-| | Climate change action plan: Measure<br>of a city's strategy to combat its<br>contribution to climate change |
-| Energy consumption in buildings (not<br>within the Green City Index for<br>Africa) | Eco buildings policy: Measure of a<br>city's efforts to minimize the<br>environmental impact of buildings |
-| Green spaces per capita: Sum of all<br>public parks, recreation areas,<br>greenways, waterways, and other<br>protected areas accessible to the<br>public, in m2 per<br>inhabitant | Land use policy: Measure of a city's<br>efforts to minimize the environmental<br>and ecological impact of urban<br>development |
-| Population density: Population<br>density, in persons per km2 | Same but it has a two-sided effect |
-| Population living in informal<br>settlements: Percentage of the<br>population living in informal<br>settlements | |
-| Waste collection is not necessarily<br>concerned with energy consumption | Waste recycling and re-use policy:<br>Measure of a city's efforts to reduce,<br>recycle, and re-use waste |
-| Length of mass transport network:<br>total length of all train, tram, subway,<br>bus and other mass transport routes<br>within the city's boundaries,<br>measured in terms of the area of the<br>city (in km/km2) | Urban mass transport policy: Measure<br>of a city's efforts to create a viable<br>mass transport system as an<br>alternative to private vehicles |
-| Congestion reduction policy:<br>Measure of a city's efforts to reduce<br>congestion | |
+| Energy consumption: Total final
+energy consumption, in gigajoules
+per head | Same |
+| Electricity consumption per unit of
+GDP: Total final energy consumption,
+in megajoules per unit of real GDP | Same |
+| Access to electricity: Percentage of
+households with access to electricity | Clean and efficient energy policies:
+An assessment of the extensiveness of
+policies promoting the use of clean
+and efficient energy |
+| | Climate change action plan: Measure
+of a city's strategy to combat its
+contribution to climate change |
+| Energy consumption in buildings (not
+within the Green City Index for
+Africa) | Eco buildings policy: Measure of a
+city's efforts to minimize the
+environmental impact of buildings |
+| Green spaces per capita: Sum of all
+public parks, recreation areas,
+greenways, waterways, and other
+protected areas accessible to the
+public, in m2 per
+inhabitant | Land use policy: Measure of a city's
+efforts to minimize the environmental
+and ecological impact of urban
+development |
+| Population density: Population
+density, in persons per km2 | Same but it has a two-sided effect |
+| Population living in informal
+settlements: Percentage of the
+population living in informal
+settlements | |
+| Waste collection is not necessarily
+concerned with energy consumption | Waste recycling and re-use policy:
+Measure of a city's efforts to reduce,
+recycle, and re-use waste |
+| Length of mass transport network:
+total length of all train, tram, subway,
+bus and other mass transport routes
+within the city's boundaries,
+measured in terms of the area of the
+city (in km/km2) | Urban mass transport policy: Measure
+of a city's efforts to create a viable
+mass transport system as an
+alternative to private vehicles |
+| Congestion reduction policy:
+Measure of a city's efforts to reduce
+congestion | |
 ## | | |
 
 indices that focus on the environmental performance of the city (and its neighborhoods) or its sustainability in general, namely CASBEE for Urban Development, CASBEE for Cities, and LEED for Neighborhood Development. In addition, there are some more locally tailored indices, such as megacity sustainability indicators in Brazil (Leite and Tello 2011\), The Sustainability Cities Index in the UK (Forum for The Future; General Electric GE 2010\), and The Freiburg Charter for Sustainable Urbanism (The Academy of Urbanism 2010\). A widely used index on the city level is the Green City Index that acknowledges the performance regarding CO2 emissions, energy, buildings, transport, waste and land use, water, air quality, and environmental governance through 30 indicators (The Economist Intelligence Unit 2009\).
@@ -300,38 +564,238 @@ Worldwide, informal areas are of two main categories: squatting or illegal subdi
 
 **Table 2.2** Different indicators measuring QOL, adopted from Mercer 2011, The Economist Intelligence Unit EIU 2007, Organization for Economic Cooperation and Development OECD 2011, UN-HABITAT 2012 and their relevance to assessing QOL in informal areas
 
-| Sector | Mercer | EIU | OECD | City Prosperity In<br>dex | Relevant indicators<br>within informal areas |
+| Sector | Mercer | EIU | OECD | City Prosperity In
+dex | Relevant indicators
+within informal areas |
 |------------------|-------------------------------------------------------------------------------|----------------------------------------------------|---------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
-| | Political &<br>Social Envi<br>ronment: law<br>enforcement | Political stability<br>& security: civil<br>unrest | | laws, regulations<br>and institutions, ur<br>ban planning, | Informal areas usually<br>depend on informality<br>where laws are not en<br>forced |
-| | Ease of entry<br>& exit | Political free<br>dom: civil liber<br>ties | | | This is on the national<br>level and not exclu<br>sive to informality |
-| Political & Gov. | Internal sta<br>bility | Level of corrup<br>tion | Governance:<br>voter turnout,<br>consultation<br>on rule mak<br>ing | Civil society, trade<br>associations, special<br>agencies | Since areas are infor<br>mally governed<br>through existing so<br>cial networks, civil<br>society strength is im<br>portant |
-| | Economic<br>Environment:<br>Currency,<br>regulations,<br>banking ser<br>vices | Material wellbe<br>ing: GDP/ per<br>son | Income:<br>wealth &<br>disposable<br>income/<br>household | Productivity: city<br>product represents<br>the total output of<br>goods and services<br>(value added) pro<br>duced by a city's<br>population during a<br>specific year | -Local economic fa<br>cilities<br>-Mixed uses |
-| mic<br>Econo | Consumer<br>Goods: daily<br>consumption,<br>availability | Job security: un<br>employment rate | Jobs: em<br>ployment rate | Capital investment,<br>formal/informal<br>employment, infla<br>tion, trade, savings, | -Total employment/<br>unemployment<br>-Average household<br>income |
+| | Political &
+Social Envi
+ronment: law
+enforcement | Political stability
+& security: civil
+unrest | | laws, regulations
+and institutions, ur
+ban planning, | Informal areas usually
+depend on informality
+where laws are not en
+forced |
+| | Ease of entry
+& exit | Political free
+dom: civil liber
+ties | | | This is on the national
+level and not exclu
+sive to informality |
+| Political & Gov. | Internal sta
+bility | Level of corrup
+tion | Governance:
+voter turnout,
+consultation
+on rule mak
+ing | Civil society, trade
+associations, special
+agencies | Since areas are infor
+mally governed
+through existing so
+cial networks, civil
+society strength is im
+portant |
+| | Economic
+Environment:
+Currency,
+regulations,
+banking ser
+vices | Material wellbe
+ing: GDP/ per
+son | Income:
+wealth &
+disposable
+income/
+household | Productivity: city
+product represents
+the total output of
+goods and services
+(value added) pro
+duced by a city's
+population during a
+specific year | -Local economic fa
+cilities
+-Mixed uses |
+| mic
+Econo | Consumer
+Goods: daily
+consumption,
+availability | Job security: un
+employment rate | Jobs: em
+ployment rate | Capital investment,
+formal/informal
+employment, infla
+tion, trade, savings, | -Total employment/
+unemployment
+-Average household
+income |
 
 (continued)
 
 ## **Table 2.2** (continued)
 
-| Sector | Mercer | EIU | OECD | City Prosperity In<br>dex | Relevant indicators<br>within informal areas |
+| Sector | Mercer | EIU | OECD | City Prosperity In
+dex | Relevant indicators
+within informal areas |
 |--------------------------|---------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|------------------------------------------------------------------|----------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
-| | of goods | | | export/import and<br>household income/<br>consumption. | |
-| | Public Ser<br>vices and<br>Transport:<br>water, elec<br>tricity, tele<br>phones | Infrastructure:<br>water, energy,<br>telecommunica<br>tion, road, public<br>transportation | Water, sani<br>tation within<br>housing | Infrastructure: wa<br>ter, sanitation,<br>roads, transportation<br>& ICT | -Water and sanitation<br>network<br>-Road network/ walk<br>ability<br>-Transportation choic<br>es |
-| Infrastructure & Housing | Housing:<br>units, appli<br>ances,<br>maintenance | Quality of hous<br>ing | Housing:<br>units with<br>basic ser<br>vices,<br>rooms/person | Housing | -Housing choices<br>-Quality of built envi<br>ronment |
-| | Medical &<br>Health Con<br>siderations:<br>Hospital,<br>supplies | Health: life ex<br>pectancy<br>Quality of public<br>& private health<br>care | Health: life<br>expectancy | health sub-index. | Health facilities |
-| Social Serv. | Schools &<br>Education | Education: pub<br>lic & private ed<br>ucation | Education:<br>reading<br>skills, at<br>tainment | Education, | -Education facilities<br>(illiteracy rate)<br>- Class capacity |
-| | Socio<br>Cultural En<br>vironment:<br>personal<br>freedom, me<br>dia & censor<br>ship | Social freedom<br>& censorship<br>Family life: di<br>vorce rate | Community:<br>quality of<br>support net<br>work | Public space: in<br>crease community<br>cohesion, identity &<br>guarantee safety | Public space/ca |
-| | Recreation:<br>restaurants,<br>cultural &<br>sports facili<br>ties | Cultural &<br>sports facilities | Work-life<br>balance: time<br>for personal<br>care & lei<br>sure | | Recreational facilities |
-| | | Community life:<br>membership in<br>civil society | Life Satisfac<br>tion | | |
-| Socio- Cultural | Crime | Petty & violent<br>crime, threat of<br>terror | Safety: hom<br>icide rate, as<br>sault rate | | Crime rates |
+| | of goods | | | export/import and
+household income/
+consumption. | |
+| | Public Ser
+vices and
+Transport:
+water, elec
+tricity, tele
+phones | Infrastructure:
+water, energy,
+telecommunica
+tion, road, public
+transportation | Water, sani
+tation within
+housing | Infrastructure: wa
+ter, sanitation,
+roads, transportation
+& ICT | -Water and sanitation
+network
+-Road network/ walk
+ability
+-Transportation choic
+es |
+| Infrastructure & Housing | Housing:
+units, appli
+ances,
+maintenance | Quality of hous
+ing | Housing:
+units with
+basic ser
+vices,
+rooms/person | Housing | -Housing choices
+-Quality of built envi
+ronment |
+| | Medical &
+Health Con
+siderations:
+Hospital,
+supplies | Health: life ex
+pectancy
+Quality of public
+& private health
+care | Health: life
+expectancy | health sub-index. | Health facilities |
+| Social Serv. | Schools &
+Education | Education: pub
+lic & private ed
+ucation | Education:
+reading
+skills, at
+tainment | Education, | -Education facilities
+(illiteracy rate)
+- Class capacity |
+| | Socio
+Cultural En
+vironment:
+personal
+freedom, me
+dia & censor
+ship | Social freedom
+& censorship
+Family life: di
+vorce rate | Community:
+quality of
+support net
+work | Public space: in
+crease community
+cohesion, identity &
+guarantee safety | Public space/ca |
+| | Recreation:
+restaurants,
+cultural &
+sports facili
+ties | Cultural &
+sports facilities | Work-life
+balance: time
+for personal
+care & lei
+sure | | Recreational facilities |
+| | | Community life:
+membership in
+civil society | Life Satisfac
+tion | | |
+| Socio- Cultural | Crime | Petty & violent
+crime, threat of
+terror | Safety: hom
+icide rate, as
+sault rate | | Crime rates |
 
 (continued)
 
 **Table 2.2** (continued)
 
-| Sector | Mercer | EIU | OECD | City Prosperity In<br>dex | Relevant indicators<br>within informal areas |
+| Sector | Mercer | EIU | OECD | City Prosperity In
+dex | Relevant indicators
+within informal areas |
 |-------------|------------------------------------------------------------|------------------------------------------------|-----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Environment | Natural Envi<br>ronment:<br>climate, natu<br>ral disasters | Climate and ge<br>ography | Environment:<br>air pollution | Environmental Sus<br>tainability:<br>protection of urban<br>environment and<br>natural assets, ener<br>gy efficiency, min<br>imize pressure on<br>surrounding land<br>and natural re<br>sources, minimize<br>environmental loss<br>es.<br>Main indicators: air<br>quality (PM10),<br>CO2<br>emissions and<br>indoor pollution | -Protection of remain<br>ing agro-land<br>-Energy efficiency<br>-Recycling and waste<br>management<br>-Air Pollution |
-| Equity | | Gender equality:<br>male to female<br>earnings | Employment<br>of women<br>with children | Equity: reduces<br>poverty and the in<br>cidence of slums,<br>rights of minority<br>and vulnerable<br>groups, gender<br>equality, civic par<br>ticipation<br>Main indicators:<br>inequality of in<br>come/consumption,<br>(Gini coefficient)<br>and inequality of<br>access to services<br>and infrastructure. | As most residents are<br>low to lower middle<br>income, hence there is<br>minimal inequality<br>within informal areas<br>themselves.<br>More relevant indica<br>tors are:<br>-Poverty rate<br>-Gender Equality (if<br>available)<br>-Civic participation |
+| Environment | Natural Envi
+ronment:
+climate, natu
+ral disasters | Climate and ge
+ography | Environment:
+air pollution | Environmental Sus
+tainability:
+protection of urban
+environment and
+natural assets, ener
+gy efficiency, min
+imize pressure on
+surrounding land
+and natural re
+sources, minimize
+environmental loss
+es.
+Main indicators: air
+quality (PM10),
+CO2
+emissions and
+indoor pollution | -Protection of remain
+ing agro-land
+-Energy efficiency
+-Recycling and waste
+management
+-Air Pollution |
+| Equity | | Gender equality:
+male to female
+earnings | Employment
+of women
+with children | Equity: reduces
+poverty and the in
+cidence of slums,
+rights of minority
+and vulnerable
+groups, gender
+equality, civic par
+ticipation
+Main indicators:
+inequality of in
+come/consumption,
+(Gini coefficient)
+and inequality of
+access to services
+and infrastructure. | As most residents are
+low to lower middle
+income, hence there is
+minimal inequality
+within informal areas
+themselves.
+More relevant indica
+tors are:
+-Poverty rate
+-Gender Equality (if
+available)
+-Civic participation |
 
 As argued by Khalil \(2010\), informal areas in Egypt can be said to have green aspects that resemble some of the principles highlighted in sustainable urbanism and its related theories. She discussed their compactness, although it could be over compact in many cases, defined edges with distinct urban pattern, increased walkability and energy efficiency, domination of mixed uses and mixed housing driven by actual needs, completeness with many daily needs satisfied for a diverse group of residents, and high participation in decision-making as they were mainly self-built by the community through the informal sector. However, they lack other aspects such as connectivity, green transportation, open and green spaces. It is also vital to note that in some instances over-crowdedness becomes a problem exceeding the UN-Habitat threshold of two persons/room. In addition, they may lack an overall vision of development as they are developed incrementally with no pre-planning. Thus, there is a need for a more comprehensive approach that recognizes the positive green aspects of people's way of development but in a better environmentally responsive approach. Accordingly, it is useful to assess informal areas in relation to the various eco-rating indices.
 
@@ -353,13 +817,98 @@ Ezbet Allam, Al-Khosous (108,000 inhabitants, 48.6 ha) and Manshiet Abdelmonem R
 
 The case study investigation is done through several steps. First, each area is analyzed according to the sustainable urbanism principles discussed and highlighted in Fig. 2.1. Second, the indicators of energy efficiency extracted in Table 2.1 are measured in each area according to available information. Third, QOL in each area is assessed quantitatively and qualitatively upon availability of data according to the proposed indicators highlighted in Table 2.2. This analysis is based on the available data collected from the strategic plan documents for the cities where the areas are located, census data 2017 (CAPMAS 2017\), as well as available field survey data collected in 2018/2019. According to these assessments, the paper addresses the following raised questions and proposes relevant recommendations.
 
-| Table 2.3 | The adopted sustainable urbanis | m principles in the four case study areas. | | Authors' analysis<br>Source | | |
+| Table 2.3 | The adopted sustainable urbanis | m principles in the four case study areas. | | Authors' analysis
+Source | | |
 |---------------------------------------|---------------------------------|--------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| | | | Markaz Alabhath,<br>Warrak | Masaken Geziret<br>Aldahab | Ezbet Allam,<br>Al-Khosous | m Reyad,<br>ma<br>Shubra Alkhai<br>mone<br>Abdle |
-| m Principle<br>Sustainable<br>Urbanis | mpactness<br>Co | Walkability | Pedestrian-friendly<br>walking distances<br>mmunity-built<br>services within<br>streets with<br>co | Pedestrian-friendly<br>walking distances<br>mmunity-built<br>services within<br>streets with<br>co | Pedestrian-friendly<br>walking distances<br>mmunity-built<br>services within<br>streets with<br>co | Pedestrian-friendly<br>walking distances<br>mmunity-built<br>services within<br>streets with<br>co |
-| | | Connectivity | advocate pedestrians<br>effectively operating<br>to vehicles as they<br>are narrow. Road<br>interconnected;<br>network is not<br>however, they<br>Streets are | Low connectivity with<br>narrow street network<br>operating for vehicles<br>interconnected which<br>facilitates pedestrian<br>especially the Nile<br>surrounding areas,<br>internal streets are<br>ment. Very<br>frontage, while<br>not effectively<br>move | advocate pedestrians<br>effectively operating<br>to vehicles as they<br>are narrow. Road<br>interconnected;<br>network is not<br>however, they<br>Streets are | advocate pedestrians<br>effectively operating<br>to vehicles as they<br>are narrow. Road<br>interconnected;<br>network is not<br>however, they<br>Streets are |
-| | | Increase density | Very high densities<br>with up to 1900<br>persons/ha | High densities with up<br>to 1600 persons/ha | Very high density of<br>1840 persons/ha | Very high density of<br>1485 persons/ha |
-| | | mpact building<br>design<br>Co | Buildings are mainly<br>average height of 6<br>mpact with<br>floors<br>co | mpact with average<br>Buildings are mainly<br>height of 5 floors<br>co | average height of 10<br>Buildings are very<br>mpact with<br>floors<br>co | Buildings are very<br>average height of<br>mpact with<br>6–7 floors<br>co |
+| | | | Markaz Alabhath,
+Warrak | Masaken Geziret
+Aldahab | Ezbet Allam,
+Al-Khosous | m Reyad,
+ma
+Shubra Alkhai
+mone
+Abdle |
+| m Principle
+Sustainable
+Urbanis | mpactness
+Co | Walkability | Pedestrian-friendly
+walking distances
+mmunity-built
+services within
+streets with
+co | Pedestrian-friendly
+walking distances
+mmunity-built
+services within
+streets with
+co | Pedestrian-friendly
+walking distances
+mmunity-built
+services within
+streets with
+co | Pedestrian-friendly
+walking distances
+mmunity-built
+services within
+streets with
+co |
+| | | Connectivity | advocate pedestrians
+effectively operating
+to vehicles as they
+are narrow. Road
+interconnected;
+network is not
+however, they
+Streets are | Low connectivity with
+narrow street network
+operating for vehicles
+interconnected which
+facilitates pedestrian
+especially the Nile
+surrounding areas,
+internal streets are
+ment. Very
+frontage, while
+not effectively
+move | advocate pedestrians
+effectively operating
+to vehicles as they
+are narrow. Road
+interconnected;
+network is not
+however, they
+Streets are | advocate pedestrians
+effectively operating
+to vehicles as they
+are narrow. Road
+interconnected;
+network is not
+however, they
+Streets are |
+| | | Increase density | Very high densities
+with up to 1900
+persons/ha | High densities with up
+to 1600 persons/ha | Very high density of
+1840 persons/ha | Very high density of
+1485 persons/ha |
+| | | mpact building
+design
+Co | Buildings are mainly
+average height of 6
+mpact with
+floors
+co | mpact with average
+Buildings are mainly
+height of 5 floors
+co | average height of 10
+Buildings are very
+mpact with
+floors
+co | Buildings are very
+average height of
+mpact with
+6–7 floors
+co |
 | | | | | | | (continued) |
 
 | | _ |
@@ -373,20 +922,117 @@ The case study investigation is done through several steps. First, each area is 
 | ٠, | |
 | | |
 | | |
-| ,<br>, | 3 |
-| ,<br>, | 3 |
+| ,
+, | 3 |
+| ,
+, | 3 |
 | C | (1 7 2) |
 | ( | 2721 |
 | ( | 01e 4.5 |
 | ( | anie 4.5 |
 | ( | anie 23 |
 
-| (continued)<br>Table 2.3 | | | | | | |
+| (continued)
+Table 2.3 | | | | | | |
 |--------------------------|------------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| | | | Markaz Alabhath,<br>Warrak | Masaken Geziret<br>Aldahab | Ezbet Allam,<br>Al-Khosous | m Reyad,<br>ma<br>Shubra Alkhai<br>mone<br>Abdle |
-| | mpleteness<br>Co | Mixed-uses | Uses are mixed | widespread in the area<br>mmercial<br>uses with residential<br>Mixed uses are<br>especially co | mmercial and<br>Uses are mixed<br>crafts with<br>residential<br>especially<br>co | and industrial with<br>mmercial, crafts<br>Uses are mixed<br>residential<br>especially<br>co |
-| | | Mixed housing | me areas, there is a<br>mmunity-built and<br>variety of standards<br>Different sizes are<br>available, and, in<br>needs-driven.<br>Housing is<br>co<br>so | me<br>areas, there is a variety<br>mmunity-built and<br>available, and, in so<br>Different sizes are<br>needs-driven.<br>of standards<br>Housing is<br>co | me areas, there is a<br>mmunity-built and<br>variety of standards<br>Different sizes are<br>available, and, in<br>needs-driven.<br>Housing is<br>co<br>so | me areas, there is a<br>mmunity-built and<br>variety of standards<br>Different sizes are<br>available, and, in<br>needs-driven.<br>Housing is<br>co<br>so |
-| | | Sense of place | ment pattern<br>A sense of harmony<br>publicly developed<br>since diversity and<br>mmunity-driven<br>identical blocks in<br>adds to the area's<br>sense of place, as<br>opposed to the<br>develop<br>projects<br>co | ment pattern<br>A sense of harmony<br>since diversity and<br>mmunity-driven<br>adds to the area's<br>sense of place<br>develop<br>co | ment pattern<br>A sense of harmony<br>publicly developed<br>since diversity and<br>mmunity-driven<br>identical blocks in<br>adds to the area's<br>sense of place, as<br>opposed to the<br>projects<br>develop<br>co | ment pattern<br>A sense of harmony<br>publicly developed<br>since diversity and<br>mmunity-driven<br>identical blocks in<br>adds to the area's<br>sense of place, as<br>opposed to the<br>develop<br>projects<br>co |
+| | | | Markaz Alabhath,
+Warrak | Masaken Geziret
+Aldahab | Ezbet Allam,
+Al-Khosous | m Reyad,
+ma
+Shubra Alkhai
+mone
+Abdle |
+| | mpleteness
+Co | Mixed-uses | Uses are mixed | widespread in the area
+mmercial
+uses with residential
+Mixed uses are
+especially co | mmercial and
+Uses are mixed
+crafts with
+residential
+especially
+co | and industrial with
+mmercial, crafts
+Uses are mixed
+residential
+especially
+co |
+| | | Mixed housing | me areas, there is a
+mmunity-built and
+variety of standards
+Different sizes are
+available, and, in
+needs-driven.
+Housing is
+co
+so | me
+areas, there is a variety
+mmunity-built and
+available, and, in so
+Different sizes are
+needs-driven.
+of standards
+Housing is
+co | me areas, there is a
+mmunity-built and
+variety of standards
+Different sizes are
+available, and, in
+needs-driven.
+Housing is
+co
+so | me areas, there is a
+mmunity-built and
+variety of standards
+Different sizes are
+available, and, in
+needs-driven.
+Housing is
+co
+so |
+| | | Sense of place | ment pattern
+A sense of harmony
+publicly developed
+since diversity and
+mmunity-driven
+identical blocks in
+adds to the area's
+sense of place, as
+opposed to the
+develop
+projects
+co | ment pattern
+A sense of harmony
+since diversity and
+mmunity-driven
+adds to the area's
+sense of place
+develop
+co | ment pattern
+A sense of harmony
+publicly developed
+since diversity and
+mmunity-driven
+identical blocks in
+adds to the area's
+sense of place, as
+opposed to the
+projects
+develop
+co | ment pattern
+A sense of harmony
+publicly developed
+since diversity and
+mmunity-driven
+identical blocks in
+adds to the area's
+sense of place, as
+opposed to the
+develop
+projects
+co |
 | | | | | | | (continued) |
 
 | _ |
@@ -406,13 +1052,68 @@ The case study investigation is done through several steps. First, each area is 
 | ਕ |
 ## | |
 
-| (continued)<br>Table 2.3 | | | | | | |
+| (continued)
+Table 2.3 | | | | | | |
 |--------------------------|---------------|---------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
-| | | | Markaz Alabhath,<br>Warrak | Masaken Geziret<br>Aldahab | Ezbet Allam,<br>Al-Khosous | m Reyad,<br>ma<br>Shubra Alkhai<br>mone<br>Abdle |
-| | Connectedness | transportation & land<br>Integrating<br>use | with an underground<br>operated microbuses<br>Privately owned and<br>and autorickshaws<br>construction<br>metro under | adjacent ring road and<br>operated microbuses<br>Privately owned and<br>nearby underground<br>and autorickshaws<br>connected to the<br>metro station | connected to the city<br>operated microbuses<br>Privately owned and<br>and autorickshaws<br>ring road | operated microbuses<br>Privately owned and<br>underground metro<br>and autorickshaws<br>adjacent ring road<br>connected to the<br>and nearby<br>station |
+| | | | Markaz Alabhath,
+Warrak | Masaken Geziret
+Aldahab | Ezbet Allam,
+Al-Khosous | m Reyad,
+ma
+Shubra Alkhai
+mone
+Abdle |
+| | Connectedness | transportation & land
+Integrating
+use | with an underground
+operated microbuses
+Privately owned and
+and autorickshaws
+construction
+metro under | adjacent ring road and
+operated microbuses
+Privately owned and
+nearby underground
+and autorickshaws
+connected to the
+metro station | connected to the city
+operated microbuses
+Privately owned and
+and autorickshaws
+ring road | operated microbuses
+Privately owned and
+underground metro
+and autorickshaws
+adjacent ring road
+connected to the
+and nearby
+station |
 | | | Green transport | Not present | Not present | Not present | Not present |
-| | | Variety of transport<br>choices | Microbuses and<br>(three-wheeler)<br>autorickshaw | and underground<br>(three-wheeler)<br>autorickshaw<br>Microbuses,<br>metro | Microbuses and<br>(three-wheeler)<br>autorickshaw | underground metro<br>(three-wheeler),<br>autorickshaw<br>Microbuses,<br>pickups and |
-| | QOL | Preserving open &<br>natural areas | Agro-pockets are<br>minishing<br>di | No open spaces | minishing, no open<br>Agro-pockets are<br>spaces<br>di | on the boundaries of<br>agro-pockets are left<br>spaces are scarce<br>the area. Open<br>Very few |
+| | | Variety of transport
+choices | Microbuses and
+(three-wheeler)
+autorickshaw | and underground
+(three-wheeler)
+autorickshaw
+Microbuses,
+metro | Microbuses and
+(three-wheeler)
+autorickshaw | underground metro
+(three-wheeler),
+autorickshaw
+Microbuses,
+pickups and |
+| | QOL | Preserving open &
+natural areas | Agro-pockets are
+minishing
+di | No open spaces | minishing, no open
+Agro-pockets are
+spaces
+di | on the boundaries of
+agro-pockets are left
+spaces are scarce
+the area. Open
+Very few |
 
 ## *2.5.1 What Hidden Green Characteristics Do Informal Areas Have and What Is Their Energy Performance? Are They Efficient?*
 
@@ -426,69 +1127,94 @@ Table 2.5 shows how the four case study areas perform according to the criteria 
 
 **Table 2.4** Energy efficiency performance and related sustainable urbanism principles\* for the four study areas. *Source* Authors' analysis
 
-| | | 2 Authors analysis | Co | mp | actness | Con | mple<br>ss | ete- | Conn | ecte | dness | QOL |
+| | | 2 Authors analysis | Co | mp | actness | Con | mple
+ss | ete- | Conn | ecte | dness | QOL |
 |-------------------------------------------------------------|----------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|--------------|--------------------------------------|------------|---------------|----------------|----------------------------|----------------------|---------------------------|-------------------|
-| Indicator | City | Value | Walkability | Connectivity | Increase density<br>Compact building | Mixed-uses | Mixed housing | Sense of place | Integrating transportation | Green transportation | Variety of transportation | Preserving open & |
-| ctricity consumption | Markaz<br>Alabhath<br>Masaken<br>Ezbet Allam<br>Abdel-<br>monem Re-<br>yad | Numbers for district inhabitants are not available however, while the world average electricity consumption for 2016 is 2,840.12 k Wh/ca or 10,224.45 megajoules/ca out of which 772.56 k Wh/ca (2016) 2,781.23 megajoules/ ca are for residential. In Egypt the average electricity consumption for 2016 was 1,695.46 k Wh/ca, 6103.65 megajoules/ca out of which 782.7 k Wh/ca (2016) 2,817.74 megajoules/ ca | | | | | | | | | | |
-| y policies Ele | Markaz<br>Alabhath | was for residential. (IEA 2016) No renewable energy or liquefied gas | | | | | | | | _ | - | |
+| Indicator | City | Value | Walkability | Connectivity | Increase density
+Compact building | Mixed-uses | Mixed housing | Sense of place | Integrating transportation | Green transportation | Variety of transportation | Preserving open & |
+| ctricity consumption | Markaz
+Alabhath
+Masaken
+Ezbet Allam
+Abdelmonem Reyad | Numbers for district inhabitants are not available however, while the world average electricity consumption for 2016 is 2,840.12 k Wh/ca or 10,224.45 megajoules/ca out of which 772.56 k Wh/ca (2016) 2,781.23 megajoules/ ca are for residential. In Egypt the average electricity consumption for 2016 was 1,695.46 k Wh/ca, 6103.65 megajoules/ca out of which 782.7 k Wh/ca (2016) 2,817.74 megajoules/ ca | | | | | | | | | | |
+| y policies Ele | Markaz
+Alabhath | was for residential. (IEA 2016) No renewable energy or liquefied gas | | | | | | | | _ | - | |
 | Clean & efficient energy policies Electricity consumption | Masaken | No renewable energy while availability of liquefied gas | | | | | | | | - | - | |
-| | Ezbet Allam<br>Abdel-<br>monem Re-<br>yad | No renewable energy or liquefied gas No renewable energy while availability of liquefied gas | | | | | | | | - | | |
-| olan | Markaz<br>Alabhath | Although there is a climate change strategy for the city, no action is taken, also no action is taken to stop encroachment on surrounding agro land | | | | | | | | | | - |
+| | Ezbet Allam
+Abdelmonem Reyad | No renewable energy or liquefied gas No renewable energy while availability of liquefied gas | | | | | | | | - | | |
+| olan | Markaz
+Alabhath | Although there is a climate change strategy for the city, no action is taken, also no action is taken to stop encroachment on surrounding agro land | | | | | | | | | | - |
 | Climate change action plan | Masaken | There is a climate change strategy for the city and a small project for climate change adaptation | | | | | | | | - | | - |
 | ; chan | | No concern to climate change | | | | | | | | _ | | - |
-| Climate | Abdel-<br>monem Re-<br>yad | No concern to climate change or re-<br>sponsiveness to district encroachment<br>on agro land | | | | | | | | - | | - |
+| Climate | Abdelmonem Reyad | No concern to climate change or responsiveness to district encroachment
+on agro land | | | | | | | | - | | - |
 | Eco buildings policy | | Although there is an Egyptian building energy code, but it is not enforced even in formally planned areas. Within the area there is no official concern with eco-buildings or improving environmental performance except for addi- | | | | | | | | | | |
 
 (continued)
 
 ## Table 2.4 (continued)
 
-| | | | Co | mp | actno | ess | Cor<br>ness | nple | te- | Conn | ecte | dness | QOL |
+| | | | Co | mp | actno | ess | Cor
+ness | nple | te- | Conn | ecte | dness | QOL |
 |-------------------------|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|--------------|------------------|------------------|-------------|--------------|----------------|------------------------------------------|----------------------|---------------------------|---------------------------------|
-| Indicator | City | Value | Walkability | Connectivity | Increase density | Compact building | Mixed-uses | Mixedhousing | Sense of place | Integrating transportation<br>& land use | Green transportation | Variety of transportation | Preserving open & natural areas |
+| Indicator | City | Value | Walkability | Connectivity | Increase density | Compact building | Mixed-uses | Mixedhousing | Sense of place | Integrating transportation
+& land use | Green transportation | Variety of transportation | Preserving open & natural areas |
 | | | tions done by residents. However, the compactness of the area provides better microclimate especially in narrow streets and hence reduces energy demand within the buildings. | | | | | | | | | | | |
 | | | Although there is an Egyptian building energy code, but it is not enforced even in formally planned areas. Within the area there is no official concern with eco-buildings or improving environmental performance except for additions done by residents, and very few projects related to climate adaptation supported by international organizations. However, the compactness of the area provides better microclimate especially in narrow streets and hence reduces energy demand within the buildings. | | | | | | | | | | | |
-| | Abdel-<br>monem Re-<br>yad | Although there is an Egyptian building energy code, but it is not enforced even in formally planned areas. Within the area there is no official concern with eco-buildings or improving environmental performance except for additions done by residents. However, the compactness of the area provides better microclimate especially in narrow streets and hence reduces energy demand within the buildings. | | | | | | | | | | | |
-| a | Markaz<br>Alabhath | Almost no green spaces within the area and only 0.05 m2/ca of open spaces | - | | | | | | | | | | - |
+| | Abdelmonem Reyad | Although there is an Egyptian building energy code, but it is not enforced even in formally planned areas. Within the area there is no official concern with eco-buildings or improving environmental performance except for additions done by residents. However, the compactness of the area provides better microclimate especially in narrow streets and hence reduces energy demand within the buildings. | | | | | | | | | | | |
+| a | Markaz
+Alabhath | Almost no green spaces within the area and only 0.05 m2/ca of open spaces | - | | | | | | | | | | - |
 | r capit | Masaken | Almost no green spaces within the area and only 0.07 m2/ca of open spaces | - | | | | | | - | | | | - |
 | aces pe | Ezbet Allam | Almost no green spaces within the area and only 0.1 m2/ca of open spaces | - | | | | | | - | | | | - |
-| Green spaces per capita | Abdel-<br>monem Re-<br>yad | No green spaces within the area and only 0.01 m2/ca of open spaces | _ | | | | | | - | | | | - |
+| Green spaces per capita | Abdelmonem Reyad | No green spaces within the area and only 0.01 m2/ca of open spaces | _ | | | | | | - | | | | - |
 
 (continued)
 
 ## Table 2.4 (continued)
 
-| | | | Co | mpa | actnes | S | Comp<br>ess | lete | Conn | ecte | dness | QOL |
+| | | | Co | mpa | actnes | S | Comp
+ess | lete | Conn | ecte | dness | QOL |
 |--------------------------------|------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|--------------|--------------------------------------|-------|-------------|---------------|----------------------------|----------------------|---------------------------|---------------------------------|
-| Population density Indicator | City | Value | Walkability | Connectivity | Increase density<br>Compact building | · · · | Mixed-uses | Mixed nousing | Integrating transportation | Green transportation | Variety of transportation | Preserving open & natural areas |
-| sity | Markaz<br>Alabhath | 1965 person/ ha | | | | | | | | | | |
+| Population density Indicator | City | Value | Walkability | Connectivity | Increase density
+Compact building | · · · | Mixed-uses | Mixed nousing | Integrating transportation | Green transportation | Variety of transportation | Preserving open & natural areas |
+| sity | Markaz
+Alabhath | 1965 person/ ha | | | | | | | | | | |
 | ı der | Masaken | 1787 person / ha | | | | | | | | | | |
 | atior | Ezbet Allam | 2222 persons/ha | | | | | | | | | | |
-| Popula | Abdel-<br>monem Re-<br>yad | 1343 persons/ha | | | | | | | | | | |
-| | Markaz<br>Alabhath | The district is informally built advocating walkability, mixed use and mixed | | | | | | | | | | - |
+| Popula | Abdelmonem Reyad | 1343 persons/ha | | | | | | | | | | |
+| | Markaz
+Alabhath | The district is informally built advocating walkability, mixed use and mixed | | | | | | | | | | - |
 | olicy | E 1. 4 All | ing walkability, mixed use and mixed | | | | | | | | | | - |
 | se po | Abdel- with land use. monem Re- yad | | | | | | | | | | | |
 | Land u | | | | | | | | | | | - | |
 | I | Alabhath | Although generated waste is minimal 0.5kg/ca, where inhabitants have a high reusing rate, but the residual waste is of lower value and hence doesn't attract waste pickers to recycle resulting in accumulation especially given the high concentration of people. The municipality is currently considering a more efficient system. | | | | | | | | | | - |
 | policy | | Rate of wastes 0.5 kg/ca, the residual waste is of lower value and hence doesn't attract waste pickers to recycle resulting in accumulation especially given the high concentration of people in the area. | | | | | | | | | | - |
 | -use | | Although the generated waste is mini- | | | | | | | | | | - |
-| Waste recycling | monem Re-<br>yad | mal (0.6kg/ca), where inhabitants have a high reusing rate, but the residual waste is of lower value and hence doesn't attract waste pickers to recycle resulting in accumulation especially given the high concentration of people. The municipality is currently considering a more efficient system. | | | | | | | | | | - |
-| Length of<br>mass<br>transport | Alabhath | No available data on district level, with only public buses and extensive network of informal private microbuses. | | | | | | | | - | | |
+| Waste recycling | monem Reyad | mal (0.6kg/ca), where inhabitants have a high reusing rate, but the residual waste is of lower value and hence doesn't attract waste pickers to recycle resulting in accumulation especially given the high concentration of people. The municipality is currently considering a more efficient system. | | | | | | | | | | - |
+| Length of
+mass
+transport | Alabhath | No available data on district level, with only public buses and extensive network of informal private microbuses. | | | | | | | | - | | |
 
 ## Table 2.4 (continued)
 
-| | | | Co | mpa | actness | Con<br>ness | nple | te- | Conn | ecte | dness | QOL |
+| | | | Co | mpa | actness | Con
+ness | nple | te- | Conn | ecte | dness | QOL |
 |-----------------------|-------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|--------------|--------------------------------------|-------------|---------------|----------------|----------------------------|----------------------|---------------------------|-------------------|
-| Indicator | City | Value | Walkability | Connectivity | Increase density<br>Compact building | Mixed-uses | Mixed housing | Sense of place | Integrating transportation | Green transportation | Variety of transportation | Preserving open & |
-| | Ezbet Allam<br>Abdel-<br>monem Re-<br>yad | | | | | | | | | - | | |
-| | Markaz<br>Alabhath | A new underground metro line is planned to link the district to the rest of Cairo | | | | | | | | | | |
+| Indicator | City | Value | Walkability | Connectivity | Increase density
+Compact building | Mixed-uses | Mixed housing | Sense of place | Integrating transportation | Green transportation | Variety of transportation | Preserving open & |
+| | Ezbet Allam
+Abdelmonem Reyad | | | | | | | | | - | | |
+| | Markaz
+Alabhath | A new underground metro line is planned to link the district to the rest of Cairo | | | | | | | | | | |
 | iass transport policy | | The area is adjacent to one underground metro station, and one public regional bus station. Currently there is a local development plan to improve integration of formal and informal transportation choices at the area boundaries. | | | | | | | | | | |
 | | | Currently there is a plan to improve integration of formal and informal transportation choices | | | | | | | | | | |
-| | monem Re-<br>yad | The area is adjacent to 2 underground metro stations and a bus station. Currently there is a plan to improve integration of formal and informal transportation choices | | | | | | | | | | |
-| | Alabhath | The strategic plan and a local develop-<br>ment plan aim to improve connectivity<br>in the area and decrease congestion | | | | | | | | | | |
-| ngestion rec | Abdel- | A local development plan aims to im-<br>prove mobility, connectivity and reduce<br>congestion | | | | | | | | | | |
+| | monem Reyad | The area is adjacent to 2 underground metro stations and a bus station. Currently there is a plan to improve integration of formal and informal transportation choices | | | | | | | | | | |
+| | Alabhath | The strategic plan and a local development plan aim to improve connectivity
+in the area and decrease congestion | | | | | | | | | | |
+| ngestion rec | Abdel- | A local development plan aims to improve mobility, connectivity and reduce
+congestion | | | | | | | | | | |
 
-<sup>\*</sup>For each energy efficiency indicator, related sustainable (SU) urbanism principles are marked as follows:
+\*For each energy efficiency indicator, related sustainable (SU) urbanism principles are marked as follows:
 
 - Dark cell if SU principle is related and present,
 - Dash if SU principle is related but not present,
@@ -496,9 +1222,102 @@ Table 2.5 shows how the four case study areas perform according to the criteria 
 
 | Table 2.5 | Study areas' QOL performance according to the derived indicators. | | Source | Author's analysis | |
 |------------------|------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Sector | Relevant indicators within<br>informal areas | Markaz Alabhath,<br>Warrak | Masaken Geziret<br>Aldahab | Ezbet Allam, Khosous | m Reyad, Shubra<br>mone<br>ma<br>Alkhai<br>Abdle |
-| Political & Gov. | mportant<br>Since areas are informally<br>governed through existing<br>social networks, civil<br>society strength is i | Strong social ties due<br>to extended families<br>Eight active NGOs<br>are located in and<br>around the area. | Five active NGOs are<br>located in and around<br>Strong social ties due<br>to extended families<br>the area. | around the area, 10 of which<br>are active NGOs with only 3<br>35 NGO are located in and<br>located inside the area | around the area, 9 of which<br>47 NGO are located in and<br>are active |
-| mic<br>Econo | mic facilities<br>Local econo<br>Mixed uses | ments are<br>% of workers in<br>%<br>retail and crafts.<br>residential, 2.68<br>retail and crafts<br>health services<br>% mixed<br>residential,<br>uses with<br>establish<br>%<br>% of<br>– 46.37<br>15.45<br>– 46<br>42 | adjacent to the area<br>% residential<br>wholesale markets<br>services, 2 official<br>%<br>% in<br>residential, 2.21<br>retail and crafts<br>ments,<br>% retail and<br>% mixed<br>crafts. 55,500<br>mental<br>workers, 33<br>educational<br>uses with<br>establish<br>– 14,400<br>govern<br>– 48.43<br>11.03<br>50 | % in<br>housing 51,000 workers;<br>%<br>mmercial/residential,<br>ments<br>% residential, 2.2<br>% in retail; and 22<br>industries and crafts<br>– 18,100 establish<br>mmercial<br>%<br>– 55.9<br>12.5<br>38<br>co<br>co | %<br>% in<br>housing 84,800 workers;<br>% residential, 8.52<br>mmercial/residential,<br>ments<br>% in retail; and 37<br>industries and crafts<br>– 24,000 establish<br>industrial<br>%<br>– 34.34<br>20.99<br>38<br>co |
+| Sector | Relevant indicators within
+informal areas | Markaz Alabhath,
+Warrak | Masaken Geziret
+Aldahab | Ezbet Allam, Khosous | m Reyad, Shubra
+mone
+ma
+Alkhai
+Abdle |
+| Political & Gov. | mportant
+Since areas are informally
+governed through existing
+social networks, civil
+society strength is i | Strong social ties due
+to extended families
+Eight active NGOs
+are located in and
+around the area. | Five active NGOs are
+located in and around
+Strong social ties due
+to extended families
+the area. | around the area, 10 of which
+are active NGOs with only 3
+35 NGO are located in and
+located inside the area | around the area, 9 of which
+47 NGO are located in and
+are active |
+| mic
+Econo | mic facilities
+Local econo
+Mixed uses | ments are
+% of workers in
+%
+retail and crafts.
+residential, 2.68
+retail and crafts
+health services
+% mixed
+residential,
+uses with
+establish
+%
+% of
+– 46.37
+15.45
+– 46
+42 | adjacent to the area
+% residential
+wholesale markets
+services, 2 official
+%
+% in
+residential, 2.21
+retail and crafts
+ments,
+% retail and
+% mixed
+crafts. 55,500
+mental
+workers, 33
+educational
+uses with
+establish
+– 14,400
+govern
+– 48.43
+11.03
+50 | % in
+housing 51,000 workers;
+%
+mmercial/residential,
+ments
+% residential, 2.2
+% in retail; and 22
+industries and crafts
+– 18,100 establish
+mmercial
+%
+– 55.9
+12.5
+38
+co
+co | %
+% in
+housing 84,800 workers;
+% residential, 8.52
+mmercial/residential,
+ments
+% in retail; and 37
+industries and crafts
+– 24,000 establish
+industrial
+%
+– 34.34
+20.99
+38
+co |
 | | | | | | (continued) |
 
 | _ |
@@ -508,7 +1327,7 @@ Table 2.5 shows how the four case study areas perform according to the criteria 
 | eq |
 | = |
 | = |
-| <u>.</u> |
+| . |
 | -,⊟ |
 | + |
 | con |
@@ -523,11 +1342,111 @@ Table 2.5 shows how the four case study areas perform according to the criteria 
 | 2.5 |
 | ιν |
 
-| (continued)<br>Table 2.5 | | | | | |
+| (continued)
+Table 2.5 | | | | | |
 |-----------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Sector | Relevant indicators within<br>informal areas | Markaz Alabhath,<br>Warrak | Masaken Geziret<br>Aldahab | Ezbet Allam, Khosous | m Reyad, Shubra<br>mone<br>ma<br>Alkhai<br>Abdle |
-| | ment<br>me<br>Average household inco<br>mploy<br>ment/une<br>mploy<br>Total<br>e | ment rate<br>depend on daily or<br>me<br>LE/month, most<br>are unstable and<br>sources of inco<br>weekly wages<br>%, 3000<br>mploy<br>Une<br>10 | ment rate<br>depend on daily or<br>me<br>LE/month, most<br>are unstable and<br>sources of inco<br>weekly wages<br>%, 4500<br>mploy<br>Une<br>13 | me data not available<br>%,<br>ment 4.95<br>mploy<br>inco<br>Une | me data not available<br>%,<br>ment 11.8<br>mploy<br>inco<br>Une |
-| Infrastructure &<br>Housing | Road network/walkability<br>Transportation choices<br>Water and sanitation<br>network | % coverage but<br>– Road network is<br>autorickshaws)<br>– Narrow streets<br>transportation<br>deteriorating<br>microbuses,<br>walkability<br>advocating<br>– Integrated<br>moderate<br>quality is<br>informal<br>modes<br>– 100<br>( | % coverage but<br>– Road network is<br>autorickshaws)<br>– Narrow streets<br>transportation<br>deteriorating<br>microbuses,<br>walkability<br>advocating<br>– Integrated<br>moderate<br>quality is<br>informal<br>modes<br>– 100<br>( | % coverage but quality<br>– Road network is moderate<br>– Narrow streets advocating<br>transportation modes<br>– Integrated informal<br>is deteriorating<br>autorickshaws)<br>microbuses,<br>walkability<br>– 100<br>( | – Narrow streets advocating<br>% coverage but quality<br>transportation modes<br>– Integrated informal<br>– Road network is<br>is deteriorating<br>autorickshaws)<br>microbuses,<br>deteriorated<br>walkability<br>– 95<br>( |
+| Sector | Relevant indicators within
+informal areas | Markaz Alabhath,
+Warrak | Masaken Geziret
+Aldahab | Ezbet Allam, Khosous | m Reyad, Shubra
+mone
+ma
+Alkhai
+Abdle |
+| | ment
+me
+Average household inco
+mploy
+ment/une
+mploy
+Total
+e | ment rate
+depend on daily or
+me
+LE/month, most
+are unstable and
+sources of inco
+weekly wages
+%, 3000
+mploy
+Une
+10 | ment rate
+depend on daily or
+me
+LE/month, most
+are unstable and
+sources of inco
+weekly wages
+%, 4500
+mploy
+Une
+13 | me data not available
+%,
+ment 4.95
+mploy
+inco
+Une | me data not available
+%,
+ment 11.8
+mploy
+inco
+Une |
+| Infrastructure &
+Housing | Road network/walkability
+Transportation choices
+Water and sanitation
+network | % coverage but
+– Road network is
+autorickshaws)
+– Narrow streets
+transportation
+deteriorating
+microbuses,
+walkability
+advocating
+– Integrated
+moderate
+quality is
+informal
+modes
+– 100
+( | % coverage but
+– Road network is
+autorickshaws)
+– Narrow streets
+transportation
+deteriorating
+microbuses,
+walkability
+advocating
+– Integrated
+moderate
+quality is
+informal
+modes
+– 100
+( | % coverage but quality
+– Road network is moderate
+– Narrow streets advocating
+transportation modes
+– Integrated informal
+is deteriorating
+autorickshaws)
+microbuses,
+walkability
+– 100
+( | – Narrow streets advocating
+% coverage but quality
+transportation modes
+– Integrated informal
+– Road network is
+is deteriorating
+autorickshaws)
+microbuses,
+deteriorated
+walkability
+– 95
+( |
 | | | | | | (continued) |
 
 | _ |
@@ -541,22 +1460,182 @@ Table 2.5 shows how the four case study areas perform according to the criteria 
 | e 2 |
 ## | |
 
-| (continued)<br>Table 2.5 | | | | | |
+| (continued)
+Table 2.5 | | | | | |
 |--------------------------|-------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Sector | Relevant indicators within<br>informal areas | Markaz Alabhath,<br>Warrak | Masaken Geziret<br>Aldahab | Ezbet Allam, Khosous | m Reyad, Shubra<br>mone<br>ma<br>Alkhai<br>Abdle |
-| | ment<br>Quality of built environ<br>Housing choices | choices available<br>and serving local<br>% of buildings<br>m quality<br>– Mixed housing<br>are very good<br>affordability<br>% are of<br>mediu<br>– 86<br>– 7 | choices available<br>and serving local<br>% of buildings<br>m quality<br>– Mixed housing<br>are very good<br>affordability<br>% are of<br>mediu<br>– 88<br>– 2 | available and serving local<br>– Mixed housing choices<br>% of buildings are<br>m<br>% are of mediu<br>affordability<br>very good<br>quality<br>– 86.4<br>– 13.3 | available and serving local<br>% of buildings are<br>– Mixed housing choices<br>m<br>% are of mediu<br>affordability<br>very good<br>quality<br>– 21.19<br>– 77.76 |
-| Social Serv. | Health facilities | 3 hospitals and 4<br>medical centers | hospital near the area<br>more medical centers<br>residential building.<br>One general public<br>There is a need for<br>area, in addition to<br>clinics mixed with<br>mber of private<br>and one medical<br>center inside the<br>nu | medical centers but there is a<br>need for 2 more medical<br>mall hospitals and 2<br>centers<br>3 s | medical centers but there is a<br>need for 18 more medical<br>centers and 2 hospitals<br>mall hospital and 2<br>1 s |
-| | Education facilities<br>(illiteracy rate)<br>Class capacity | % illiteracy<br>– Average class<br>capacity is 47<br>students/class<br>– 23.3 | while it reached 57<br>capacity is 43.5<br>% illiteracy<br>– Average class<br>students/class<br>students<br>– 21 | max<br>– Average class capacity is<br>43.6 students while it<br>reached 60 students (<br>% illiteracy<br>allowed is 40)<br>– 26 | reached 81 students in one<br>– Average class capacity is<br>51 students while it<br>% illiteracy<br>school<br>– 23.3 |
+| Sector | Relevant indicators within
+informal areas | Markaz Alabhath,
+Warrak | Masaken Geziret
+Aldahab | Ezbet Allam, Khosous | m Reyad, Shubra
+mone
+ma
+Alkhai
+Abdle |
+| | ment
+Quality of built environ
+Housing choices | choices available
+and serving local
+% of buildings
+m quality
+– Mixed housing
+are very good
+affordability
+% are of
+mediu
+– 86
+– 7 | choices available
+and serving local
+% of buildings
+m quality
+– Mixed housing
+are very good
+affordability
+% are of
+mediu
+– 88
+– 2 | available and serving local
+– Mixed housing choices
+% of buildings are
+m
+% are of mediu
+affordability
+very good
+quality
+– 86.4
+– 13.3 | available and serving local
+% of buildings are
+– Mixed housing choices
+m
+% are of mediu
+affordability
+very good
+quality
+– 21.19
+– 77.76 |
+| Social Serv. | Health facilities | 3 hospitals and 4
+medical centers | hospital near the area
+more medical centers
+residential building.
+One general public
+There is a need for
+area, in addition to
+clinics mixed with
+mber of private
+and one medical
+center inside the
+nu | medical centers but there is a
+need for 2 more medical
+mall hospitals and 2
+centers
+3 s | medical centers but there is a
+need for 18 more medical
+centers and 2 hospitals
+mall hospital and 2
+1 s |
+| | Education facilities
+(illiteracy rate)
+Class capacity | % illiteracy
+– Average class
+capacity is 47
+students/class
+– 23.3 | while it reached 57
+capacity is 43.5
+% illiteracy
+– Average class
+students/class
+students
+– 21 | max
+– Average class capacity is
+43.6 students while it
+reached 60 students (
+% illiteracy
+allowed is 40)
+– 26 | reached 81 students in one
+– Average class capacity is
+51 students while it
+% illiteracy
+school
+– 23.3 |
 | | | | | | (continued) |
 
-| (continued)<br>Table 2.5 | | | | | |
+| (continued)
+Table 2.5 | | | | | |
 |--------------------------|---------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Sector | Relevant indicators within<br>informal areas | Markaz Alabhath,<br>Warrak | Masaken Geziret<br>Aldahab | Ezbet Allam, Khosous | m Reyad, Shubra<br>mone<br>ma<br>Alkhai<br>Abdle |
-| Socio- Cultural | Public space/ca | 0.3 m2/ca of open<br>spaces | 0.07 m2/ca of open<br>spaces | only 0.1 m2/ca of open<br>spaces | only 0.01 m2/ca of open<br>spaces |
+| Sector | Relevant indicators within
+informal areas | Markaz Alabhath,
+Warrak | Masaken Geziret
+Aldahab | Ezbet Allam, Khosous | m Reyad, Shubra
+mone
+ma
+Alkhai
+Abdle |
+| Socio- Cultural | Public space/ca | 0.3 m2/ca of open
+spaces | 0.07 m2/ca of open
+spaces | only 0.1 m2/ca of open
+spaces | only 0.01 m2/ca of open
+spaces |
 | | Recreational facilities | 0.1 m2/ca | 0.05 m2/ca | 0.08 m2/ca | None |
-| | Cultural facilities | None | functioning but under<br>library not currently<br>Only one public<br>ment.<br>mprove<br>i | None | None |
-| | me rates<br>Cri | Drugs are a main<br>issue | Drugs and kidnaping<br>are main issues | Drugs are a main issue | Drugs are a main issue |
-| ment<br>Environ | maining<br>– Recycling and waste<br>– Energy efficiency<br>– Protection of re<br>– Air pollution<br>ment<br>agro-land<br>manage | – Refer to Table 2.4<br>0.5 kg/person but<br>– No available data<br>recycling rate is<br>for air pollution<br>– Low generated<br>maining<br>agro-land<br>%<br>only 20<br>– No re<br>waste | – Refer to Table 2.4<br>0.5 kg/person but<br>– No available data<br>recycling rate is<br>for air pollution<br>– Low generated<br>maining<br>agro-land<br>%<br>only 21<br>– No re<br>waste | %<br>maining agro-land<br>recycling rate is only 20<br>– No available info for air<br>– Low generated waste<br>– Refer to Table 2.4<br>0.6 kg/person but<br>pollution<br>– No re | (continued)<br>m pollution<br>%<br>– The current city boundary<br>recycling rate is only 20<br>– No available info for air<br>pollution but industrial<br>surrounding agro-land<br>– Low generated waste<br>prohibits building on<br>0.62 kg/person but<br>– Refer to Table 2.4<br>area suffers fro |
+| | Cultural facilities | None | functioning but under
+library not currently
+Only one public
+ment.
+mprove
+i | None | None |
+| | me rates
+Cri | Drugs are a main
+issue | Drugs and kidnaping
+are main issues | Drugs are a main issue | Drugs are a main issue |
+| ment
+Environ | maining
+– Recycling and waste
+– Energy efficiency
+– Protection of re
+– Air pollution
+ment
+agro-land
+manage | – Refer to Table 2.4
+0.5 kg/person but
+– No available data
+recycling rate is
+for air pollution
+– Low generated
+maining
+agro-land
+%
+only 20
+– No re
+waste | – Refer to Table 2.4
+0.5 kg/person but
+– No available data
+recycling rate is
+for air pollution
+– Low generated
+maining
+agro-land
+%
+only 21
+– No re
+waste | %
+maining agro-land
+recycling rate is only 20
+– No available info for air
+– Low generated waste
+– Refer to Table 2.4
+0.6 kg/person but
+pollution
+– No re | (continued)
+m pollution
+%
+– The current city boundary
+recycling rate is only 20
+– No available info for air
+pollution but industrial
+surrounding agro-land
+– Low generated waste
+prohibits building on
+0.62 kg/person but
+– Refer to Table 2.4
+area suffers fro |
 ## | | | | | | |
 
 | continued) |
@@ -568,10 +1647,97 @@ Table 2.5 shows how the four case study areas perform according to the criteria 
 | ₹ |
 ## | Table |
 
-| (continued)<br>Table 2.5 | | | | | |
+| (continued)
+Table 2.5 | | | | | |
 |--------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Sector | Relevant indicators within<br>informal areas | Markaz Alabhath,<br>Warrak | Masaken Geziret<br>Aldahab | Ezbet Allam, Khosous | m Reyad, Shubra<br>mone<br>ma<br>Alkhai<br>Abdle |
-| Equity | More relevant indicators are:<br>As most residents are low to<br>me, hence<br>mal inequality<br>within informal areas<br>– Civic participation<br>– Gender equality<br>lower middle inco<br>– Poverty rate<br>there is mini<br>mselves<br>the | municipal decision<br>– Most residents are<br>build/govern the<br>me and<br>gender equality,<br>participation in<br>information on<br>networks help<br>percentage of<br>breadwinners<br>lower middle<br>area but very<br>being family<br>– No available<br>– Local social<br>but there is<br>significant<br>low inco<br>mal<br>making<br>me<br>man<br>mini<br>inco<br>wo | municipal decision<br>– Most residents are<br>build/govern the<br>me and<br>gender equality,<br>participation in<br>information on<br>networks help<br>percentage of<br>man being<br>breadwinners<br>lower middle<br>area but very<br>– No available<br>– Local social<br>but there is<br>significant<br>low inco<br>mal<br>making<br>me<br>family<br>mini<br>inco<br>wo | – Local social networks help<br>mal participation<br>– No available information<br>build/govern the area but<br>– Most residents are lower<br>in municipal decision<br>on gender equality<br>me<br>middle inco<br>very mini<br>making | – Local social networks help<br>mal participation<br>– No available information<br>build/govern the area but<br>– Most residents are lower<br>in municipal decision<br>on gender equality<br>me.<br>middle inco<br>very mini<br>making |
+| Sector | Relevant indicators within
+informal areas | Markaz Alabhath,
+Warrak | Masaken Geziret
+Aldahab | Ezbet Allam, Khosous | m Reyad, Shubra
+mone
+ma
+Alkhai
+Abdle |
+| Equity | More relevant indicators are:
+As most residents are low to
+me, hence
+mal inequality
+within informal areas
+– Civic participation
+– Gender equality
+lower middle inco
+– Poverty rate
+there is mini
+mselves
+the | municipal decision
+– Most residents are
+build/govern the
+me and
+gender equality,
+participation in
+information on
+networks help
+percentage of
+breadwinners
+lower middle
+area but very
+being family
+– No available
+– Local social
+but there is
+significant
+low inco
+mal
+making
+me
+man
+mini
+inco
+wo | municipal decision
+– Most residents are
+build/govern the
+me and
+gender equality,
+participation in
+information on
+networks help
+percentage of
+man being
+breadwinners
+lower middle
+area but very
+– No available
+– Local social
+but there is
+significant
+low inco
+mal
+making
+me
+family
+mini
+inco
+wo | – Local social networks help
+mal participation
+– No available information
+build/govern the area but
+– Most residents are lower
+in municipal decision
+on gender equality
+me
+middle inco
+very mini
+making | – Local social networks help
+mal participation
+– No available information
+build/govern the area but
+– Most residents are lower
+in municipal decision
+on gender equality
+me.
+middle inco
+very mini
+making |
 
 similar low-middle income of lower density districts. However, compactness and lack of green spaces increase the magnitude of urban heat island phenomenon accentuated by the extensive use of low albedo materials as bricks, concrete, and asphalt (Khalil et al. 2018\). This in turn, increases heat stress, reducing thermal comfort in outdoor spaces and a subsequent increase in the demand for cooling.
 
@@ -721,30 +1887,131 @@ Tamansari's organization, through community institutions, is strict but often no
 
 **Table 3.1** Potential of Tamansari's available water sources for a decentralized integrated water management system (DIWMS), based on data from Irda Sari et al. \(2018, 3–4)
 
-| Water<br>source | Uses | Users<br>[%] | Aesthetic<br>perception | Contamination | availability | Potential for a<br>DIWMS |
+| Water
+source | Uses | Users
+[%] | Aesthetic
+perception | Contamination | availability | Potential for a
+DIWMS |
 |-----------------------------|-------------------------------------------------|--------------|-------------------------|---------------|---------------------------|--------------------------------|
-| Branded<br>bottled<br>water | Potable<br>water | 38.2 | ++ | No | Very<br>expensive | Too expensive<br>unsustainable |
-| Refill<br>bottled<br>water | Potable<br>water | 28.6 | ++ | Yes | Relatively<br>expensive | Health risk<br>unsustainable |
-| PDAM* tap<br>water | Non potable<br>and potable<br>water<br>(boiled) | 51.7 | – | No | Unreliable | Includable |
-| wells | Non-potable<br>and potable<br>water<br>(boiled) | 23.9 | – | Yes | Available | Health risk |
-| Borehole | Non-potable<br>and potable<br>water<br>(boiled) | 13.8 | + | No | Decreasingly<br>available | Environmental<br>risk |
-| Unprotected<br>spring | Non-potable<br>and potable<br>water<br>(boiled) | 3.5 | / | Yes | Uncommon | Health risk<br>unavailable |
-| Sewage | Treatment in<br>septic tanks | 3.5 | – | Yes | Overflow | Yes |
-| River | Open<br>sewage fish<br>breeding | 91.5 | – | Yes | Available | Yes |
+| Branded
+bottled
+water | Potable
+water | 38.2 | ++ | No | Very
+expensive | Too expensive
+unsustainable |
+| Refill
+bottled
+water | Potable
+water | 28.6 | ++ | Yes | Relatively
+expensive | Health risk
+unsustainable |
+| PDAM* tap
+water | Non potable
+and potable
+water
+(boiled) | 51.7 | – | No | Unreliable | Includable |
+| wells | Non-potable
+and potable
+water
+(boiled) | 23.9 | – | Yes | Available | Health risk |
+| Borehole | Non-potable
+and potable
+water
+(boiled) | 13.8 | + | No | Decreasingly
+available | Environmental
+risk |
+| Unprotected
+spring | Non-potable
+and potable
+water
+(boiled) | 3.5 | / | Yes | Uncommon | Health risk
+unavailable |
+| Sewage | Treatment in
+septic tanks | 3.5 | – | Yes | Overflow | Yes |
+| River | Open
+sewage fish
+breeding | 91.5 | – | Yes | Available | Yes |
 ## | Rainwater | / | / | ++ | No | Available | Yes |
 
-## <sup>\*</sup>Regional drinking water company on voluntary work and include the management and funding of educational facilities such as childcare and primary schools, a solidary tax for waste management, elderly care and funerals, cultural activities such as dancing, sports, cleaning the streets, and the river as well as funding of public facilities and beautification of the environment (Rahmat 2018\). The social cohesion of neighborhoods differs and has a visible effect on the environment and living comfort of the residents. So does the engagement and personal interest of Rukun Tetangga (RT) neighborhood and/or RW leaders.1 Since they are locals as well, they have a clear view of the needs of their people. Both wish for more public spaces and greenery, parking lots, educational opportunities
+## \*Regional drinking water company on voluntary work and include the management and funding of educational facilities such as childcare and primary schools, a solidary tax for waste management, elderly care and funerals, cultural activities such as dancing, sports, cleaning the streets, and the river as well as funding of public facilities and beautification of the environment (Rahmat 2018\). The social cohesion of neighborhoods differs and has a visible effect on the environment and living comfort of the residents. So does the engagement and personal interest of Rukun Tetangga (RT) neighborhood and/or RW leaders.1 Since they are locals as well, they have a clear view of the needs of their people. Both wish for more public spaces and greenery, parking lots, educational opportunities
 
-<sup>1</sup>For example, one RW leader's fascination in botany resulted in a lot of vertical greenery and medical plants. Another one's interest in painting led to many colorful murals and collaborations with artists.
+1For example, one RW leader's fascination in botany resulted in a lot of vertical greenery and medical plants. Another one's interest in painting led to many colorful murals and collaborations with artists.
 
 **Table 3.2** Communal institutions, stakeholders, and their needs
 
-| Community institution | Description | Stakeholder's interests and<br>needs |
+| Community institution | Description | Stakeholder's interests and
+needs |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Kelurahan Tamansari<br>– Official Subdistrict<br>– Head: Lurah<br>– 20 RWs | – Lurah = Civil servant<br>appointed by the<br>government | No data |
-| Rukun Warga (RW)<br>– Division subdistrict<br>– Head: Ketua RW<br>– Av. 7.5 RTs<br>= 1250 people<br>Rukun Tetangga (RT)<br>– Neighborhood<br>– Head: Ketua TW<br>– Av. 51 households | – Ketua RW/RT is<br>democratically elected<br>– Resident of public trust<br>– Head of weekly to monthly<br>hearings<br>– Low trust in governmental<br>initiatives<br>– Voluntary work for the<br>neighborhood is very<br>common | – Solving the sewage problem<br>– Improving water supply<br>– More public space<br>– More green space s<br>– More parking for motorbikes<br>– Replacement of<br>old/malfunctioning water<br>infrastructure such as<br>drainage channels |
-| = 210 people<br>Household<br>– Head: husband<br>– Av. 4.1 members | – Long-time residents (10<br>years +)<br>– Very low - low income<br>– Strong social cohesion<br>within their neighborhood<br>– Low trust in governmental<br>initiatives | – To stay in the neighborhood<br>– Clean, affordable and<br>reliable drinking water<br>– More public space<br>– More green space<br>– More educational<br>opportunities for children<br>– Save places for their<br>children to play |
-| Mosque<br>– Head: Imam<br>– Av. 1<br>mosque/neighborhood | – Financed, maintained, and<br>owned by the community<br>– 1 to 2 floors including<br>prayer room and<br>multipurpose room<br>– Used for religious and<br>educational activities,<br>childcare, and workshops<br>– Imam is chosen by<br>community | – More space for prayers<br>especially during Friday<br>prayers and Ramadan<br>– Reliable water connection to<br>assure Wud.<br>u (ritual ¯<br>cleansing) ritual can always<br>be performed |
+| Kelurahan Tamansari
+– Official Subdistrict
+– Head: Lurah
+– 20 RWs | – Lurah = Civil servant
+appointed by the
+government | No data |
+| Rukun Warga (RW)
+– Division subdistrict
+– Head: Ketua RW
+– Av. 7.5 RTs
+= 1250 people
+Rukun Tetangga (RT)
+– Neighborhood
+– Head: Ketua TW
+– Av. 51 households | – Ketua RW/RT is
+democratically elected
+– Resident of public trust
+– Head of weekly to monthly
+hearings
+– Low trust in governmental
+initiatives
+– Voluntary work for the
+neighborhood is very
+common | – Solving the sewage problem
+– Improving water supply
+– More public space
+– More green space s
+– More parking for motorbikes
+– Replacement of
+old/malfunctioning water
+infrastructure such as
+drainage channels |
+| = 210 people
+Household
+– Head: husband
+– Av. 4.1 members | – Long-time residents (10
+years +)
+– Very low - low income
+– Strong social cohesion
+within their neighborhood
+– Low trust in governmental
+initiatives | – To stay in the neighborhood
+– Clean, affordable and
+reliable drinking water
+– More public space
+– More green space
+– More educational
+opportunities for children
+– Save places for their
+children to play |
+| Mosque
+– Head: Imam
+– Av. 1
+mosque/neighborhood | – Financed, maintained, and
+owned by the community
+– 1 to 2 floors including
+prayer room and
+multipurpose room
+– Used for religious and
+educational activities,
+childcare, and workshops
+– Imam is chosen by
+community | – More space for prayers
+especially during Friday
+prayers and Ramadan
+– Reliable water connection to
+assure Wud.
+u (ritual ¯
+cleansing) ritual can always
+be performed |
 
 for the children, and safe places to play. None of the interviewed wanted to move away, many families have been living in Tamansari for generations, and the social cohesion is very strong.
 
@@ -776,18 +2043,100 @@ toward a more sustainable lifestyle and their understanding of the local problem
 
 The role of reaching and educating people can best be done by Imams. The DIWMS's success depends on the people's willingness for participation and sustainable behavior, even though the cluster system prevents the wrong usage on a household level, they must be willing to connect to the piping system and to handle different water sources appropriately. The weekly Friday prayer will be far more efficient than any governmental attempt of education. A good example of this is the case study in Dijkot, Pakistan (Faruqui et al. 2001, 61–67), where education through Friday prayers and religious schools reduced water scarcity by around 50%.2 Women, as the most important target group, can be addressed separately. Mosques can be useful
 
-<sup>2</sup>This case study was done in 1991 in Dijkot, a small town in Pakistan by a local NGO. The town suffered from water scarcity, and the only fresh water source was a central basin. The study analyzes the water consumption habits and how to influence them positively through existing community institutions such as mosques and religious schools. The aim is the reduction of water wastage, illegal pumping, and a more just distribution of water. The approach was chosen after all governmental initiatives for water conservation had failed. Instead of adding technical or spatial components, a new purpose is added to the existing religious infrastructure. The program went on for 10 months but a second surveil after 2 months already revealed a 50% reduction of water scarcity (Faruqui et al. 2001, 61–67).
+2This case study was done in 1991 in Dijkot, a small town in Pakistan by a local NGO. The town suffered from water scarcity, and the only fresh water source was a central basin. The study analyzes the water consumption habits and how to influence them positively through existing community institutions such as mosques and religious schools. The aim is the reduction of water wastage, illegal pumping, and a more just distribution of water. The approach was chosen after all governmental initiatives for water conservation had failed. Instead of adding technical or spatial components, a new purpose is added to the existing religious infrastructure. The program went on for 10 months but a second surveil after 2 months already revealed a 50% reduction of water scarcity (Faruqui et al. 2001, 61–67).
 
 **Table 3.3** Technical components of the decentralized water management system (DIWMS)
 
 | Component | Description | Sizing (for p = 500) | Advantages/Synergetic Value |
 |--------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Rainwater<br>collection | – Roof collection,<br>preferably corrugated<br>steel roofs for<br>hygienic reasons<br>(Boulware 2011, 90)<br>– Distribution to storage<br>with closed pipe<br>system | 2.2 m2/p<br>= 1100 m2<br>(incl. 18% loss<br>compensation) | – Re-use of existing<br>gravity-based drainage<br>system = lower initial costs<br>– Using existing roofs as<br>collector lowers the initial<br>costs<br>– No pump needed = less<br>maintenance costs<br>– Integration of residents |
-| Gray and<br>blackwater<br>collection | – Household collection<br>in separate pipes<br>– Distribution to<br>SVFCVs and septic<br>tanks | extendible | – Re-use of existing<br>gravity-based drainage<br>system<br>– Separating waste streams<br>makes re-use of graywater<br>possible |
-| Septic tanks | – Pretreatment of<br>blackwater<br>– Should be emptied<br>every 3 years | 2 × 49 m3 | – Known technology that can<br>be improved by SVFCWs<br>– Fecal sludge has a high<br>nutritional value that can be<br>monetized, e.g., by<br>producing a substitute for<br>fish powder (Diener et al.<br>2010, 11) |
-| Syphon | – Even water<br>distribution to<br>constructed wetlands | 12 m3 | – Replaces pumps = less<br>maintenance and costs |
-| Subsurface<br>vertical flow<br>constructed<br>wetlands<br>(SVFCVs) | – Wetlands that filter<br>greywater and<br>pretreated blackwater<br>efficiently<br>– Using space next to<br>the river benches that<br>will be cleared as part<br>of the eco city plan of<br>Bandung (PSUD<br>2018) | 490 m2 | – Produces cheap, available,<br>low turbidity & safe water<br>for non-potable uses<br>– Combinable with public<br>park, save public spaces and<br>other leisure functions<br>– Ornamental plants work as<br>filters and can be sold<br>(Sandoval-Heraz et al. 2018)<br>– Surplus water can be sold<br>down the river |
-| Potable<br>water<br>seasonal<br>Storage | – Buffer storage for<br>potable water during<br>dry season<br>– Preferably placed<br>underground with<br>modular cisterns<br>– Rationing or extended<br>collector surfaces and<br>storage necessary to<br>ensure supply over the<br>whole year | 420 m3 | – Potable water autonomy<br>over the whole year<br>– Dig out earth usable for<br>flood protection |
+| Rainwater
+collection | – Roof collection,
+preferably corrugated
+steel roofs for
+hygienic reasons
+(Boulware 2011, 90)
+– Distribution to storage
+with closed pipe
+system | 2.2 m2/p
+= 1100 m2
+(incl. 18% loss
+compensation) | – Re-use of existing
+gravity-based drainage
+system = lower initial costs
+– Using existing roofs as
+collector lowers the initial
+costs
+– No pump needed = less
+maintenance costs
+– Integration of residents |
+| Gray and
+blackwater
+collection | – Household collection
+in separate pipes
+– Distribution to
+SVFCVs and septic
+tanks | extendible | – Re-use of existing
+gravity-based drainage
+system
+– Separating waste streams
+makes re-use of graywater
+possible |
+| Septic tanks | – Pretreatment of
+blackwater
+– Should be emptied
+every 3 years | 2 × 49 m3 | – Known technology that can
+be improved by SVFCWs
+– Fecal sludge has a high
+nutritional value that can be
+monetized, e.g., by
+producing a substitute for
+fish powder (Diener et al.
+2010, 11) |
+| Syphon | – Even water
+distribution to
+constructed wetlands | 12 m3 | – Replaces pumps = less
+maintenance and costs |
+| Subsurface
+vertical flow
+constructed
+wetlands
+(SVFCVs) | – Wetlands that filter
+greywater and
+pretreated blackwater
+efficiently
+– Using space next to
+the river benches that
+will be cleared as part
+of the eco city plan of
+Bandung (PSUD
+2018) | 490 m2 | – Produces cheap, available,
+low turbidity & safe water
+for non-potable uses
+– Combinable with public
+park, save public spaces and
+other leisure functions
+– Ornamental plants work as
+filters and can be sold
+(Sandoval-Heraz et al. 2018)
+– Surplus water can be sold
+down the river |
+| Potable
+water
+seasonal
+Storage | – Buffer storage for
+potable water during
+dry season
+– Preferably placed
+underground with
+modular cisterns
+– Rationing or extended
+collector surfaces and
+storage necessary to
+ensure supply over the
+whole year | 420 m3 | – Potable water autonomy
+over the whole year
+– Dig out earth usable for
+flood protection |
 
 (continued)
 
@@ -795,9 +2144,34 @@ The role of reaching and educating people can best be done by Imams. The DIWMS's
 
 | Component | Description | Sizing (for p = 500) | Advantages/Synergetic Value |
 |---------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|--------------------------------------------------------------------------------------------------------------------|
-| Non-potable<br>water<br>storage | – Preferably a water<br>tower to ensure supply<br>in case of power<br>failure, to buffer peak<br>times of demand,<br>create enough water<br>pressure for household<br>connections | 51–68 m3 | – Non-potable water<br>autonomy over the whole<br>year<br>– Public attractor, emergency<br>storage in case of fire |
-| UV light<br>disinfection | – Water disinfection<br>with a UV crystal tube<br>– Should be replaced<br>every year when<br>running 24/7<br>(Boulware 2011, 141) | 1 tube/year | – Cheaper than chlorine<br>treatment<br>– Less complicated than ozone<br>treatment |
-| Distribution<br>pipes | – Optional house<br>connection from water<br>tower | Extendible | – Optional, time-saving |
+| Non-potable
+water
+storage | – Preferably a water
+tower to ensure supply
+in case of power
+failure, to buffer peak
+times of demand,
+create enough water
+pressure for household
+connections | 51–68 m3 | – Non-potable water
+autonomy over the whole
+year
+– Public attractor, emergency
+storage in case of fire |
+| UV light
+disinfection | – Water disinfection
+with a UV crystal tube
+– Should be replaced
+every year when
+running 24/7
+(Boulware 2011, 141) | 1 tube/year | – Cheaper than chlorine
+treatment
+– Less complicated than ozone
+treatment |
+| Distribution
+pipes | – Optional house
+connection from water
+tower | Extendible | – Optional, time-saving |
 
 ## ![](_page_58_Figure_4.jpeg)
 
@@ -825,7 +2199,7 @@ cover the costs for observation and maintenance. Rainwater is free and the sewag
 
 The exemplary design shown in Figs. 3.5 and 3.6 combines the Kampung mosque and supply center of the DIWM in one building ensemble. That way, all the discussed key aspects are brought together for a successful implementation and to create synergies. The mosque is used for education, the minaret as a water tower; besides, there is a water supply and administration center where people can pick up water after their prayers. Green and public spaces combined with the wetlands spread along the water.
 
-<sup>3</sup>The growing island community of Koh Phi Phi had a malfunctioning public sewage system and a working privately owned system before the 2004 Tsunami destroyed most of the existing infrastructure. Danish funding provided the opportunity to build a new wastewater system that would serve the whole community for the first time. Besides, the system should be cheap to operate and maintain, without bad smelling and aesthetically pleasing because of the tourists in the area. All stakeholders agreed to cooperate and come up with a communal system with the help of international and local specialists. The heard of the cluster water management system are constructed wetlands that are placed within the settlement and function as a public park (Laugesen 2010, 114–151).
+3The growing island community of Koh Phi Phi had a malfunctioning public sewage system and a working privately owned system before the 2004 Tsunami destroyed most of the existing infrastructure. Danish funding provided the opportunity to build a new wastewater system that would serve the whole community for the first time. Besides, the system should be cheap to operate and maintain, without bad smelling and aesthetically pleasing because of the tourists in the area. All stakeholders agreed to cooperate and come up with a communal system with the help of international and local specialists. The heard of the cluster water management system are constructed wetlands that are placed within the settlement and function as a public park (Laugesen 2010, 114–151).
 
 ![](_page_61_Figure_2.jpeg)
 
@@ -839,7 +2213,7 @@ The authors think that the results could be useful on two levels: in informal se
 
 Comparable areas can be found all over Bandung. Being the least desirable places to settle, river benches are often squatted by the poor. This holds the chance to apply the same principles elsewhere. The system's bottom-up approach allows the Kampung neighborhoods to take action themselves, a capacity they have proven on many other fields already. Those two aspects could lead to a gradual extension of the DIWM system, not only along Cikapundung River but many other places in Bandung and other Javanese metropoles. The proposed system should be seen as a prototype that can be copied and adapted to related areas along the many rivers of Bandung. Examples such as the Aqua Carioca project in Rio de Janeiro (Ooze Architects 2017\) show that such an approach could have a positive effect on both, living quality on the smallest household scale and water improvement of a whole region.4
 
-<sup>4</sup>Rio de Janeiro suffers from fresh water scarcity, competing with São Paolo for the same limited sources. Besides, only 30% of the households has a domestic sewage treatment which is why the 263 small rivers of the city are used as a sewage system. This causes serious health issues and heavy pollution of the environment, especially the Guanabara bay. The municipal water company has not been able to solve these problems with a centralized system. The case study has its focus on one of the typical squatted housing areas which releases all their sewage into the river Carioca. An integral water system on household level that releases only clean water into the river is proposed by the architecture and urbanism office Ooze. A pilot project with educational purpose has been built. The concept includes the possible extension to neighborhood, district, and even city scale (Ooze Architects 2017\).
+4Rio de Janeiro suffers from fresh water scarcity, competing with São Paolo for the same limited sources. Besides, only 30% of the households has a domestic sewage treatment which is why the 263 small rivers of the city are used as a sewage system. This causes serious health issues and heavy pollution of the environment, especially the Guanabara bay. The municipal water company has not been able to solve these problems with a centralized system. The case study has its focus on one of the typical squatted housing areas which releases all their sewage into the river Carioca. An integral water system on household level that releases only clean water into the river is proposed by the architecture and urbanism office Ooze. A pilot project with educational purpose has been built. The concept includes the possible extension to neighborhood, district, and even city scale (Ooze Architects 2017\).
 
 ![](_page_62_Figure_2.jpeg)
 
@@ -891,7 +2265,12 @@ Finally, the bottom-up approach allows a gradual extension in similar areas in B
 
 #### *Calculation: Rainwater Storage*
 
-| Month | Precipitation<br>[mm] | Collected<br>[m3] | Efficiency<br>factor | Consumed<br>[m3] | End of month<br>inventory [m3] |
+| Month | Precipitation
+[mm] | Collected
+[m3] | Efficiency
+factor | Consumed
+[m3] | End of month
+inventory [m3] |
 |--------------------------------------------------|-----------------------|-------------------|----------------------|------------------|--------------------------------|
 | November | 272 | 300.2 | 0.85 | 168.7 | 86.5 |
 | December | 291 | 321.2 | 0.85 | 168.7 | 190.8 |
@@ -906,7 +2285,9 @@ Finally, the bottom-up approach allows a gradual extension in similar areas in B
 | September | 83 | 91.6 | 0.85 | 168.7 | 11.3 |
 | October | 174 | 192.1 | 0.85 | 168.7 | 5.9 |
 | Total | 2164 | 2196.4 | | 1855.7 | |
-| Max. Storage<br>Inventory [m3]<br>= Storage Size | 419.5 | | | | |
+| Max. Storage
+Inventory [m3]
+= Storage Size | 419.5 | | | | |
 
 ## *Calculation: Volume Septic Tank*
 
@@ -938,10 +2319,14 @@ Based on "Constructed Wetlands Manual" (UN-Habitat 2008, 18)
 | Bodc | Bod concentration before treatment [mg/l] | 250 | |
 | Bodc | Bod contribution [mg/pers/day] | 40 | |
 | Qd | Daily flow rate [m3/day] | p*q | 34.2956 |
-| Ci | Influent BOD5<br>concentration[mg/l] | 408.2 | |
-| Ce | Effluent BOD5<br>concentration[mg/l] | 30 | |
-| KBOD | Rate constant [m/d] | Kt<br>*d*n | 0.2 |
-| Kt | | (1.06)(T−20)<br>K20 | |
+| Ci | Influent BOD5
+concentration[mg/l] | 408.2 | |
+| Ce | Effluent BOD5
+concentration[mg/l] | 30 | |
+| KBOD | Rate constant [m/d] | Kt
+*d*n | 0.2 |
+| Kt | | (1.06)(T−20)
+K20 | |
 | K20 | Rate constant at 20 °C | 20 °C (d−1) | |
 | d | Depth of water column [m] | | |
 | n | Porosity of substrate [percentage expressed as fraction] | 0.3 | |
@@ -1396,7 +2781,7 @@ BTRC. Beijing Transportation Research Center. 2017. *Beijing transport annual re
 - Zacharias, John, and Desmond Bliek. 2008. Planning and the market in the transformation of Huaqiangbei, Shenzhen. *Journal of Urban Design* 13: 347–362.
 - Zacharias, John, and Ben Ma. 2015. Industrial zone development policy related to real estate and transport outcomes in Shenzhen, China. *Land Use Policy* 47: 382–393.
 - Zacharias, John, and Xuwen Li. 2016. Shifting from metro to sustainable surface modes for short distance travel. *Transportation Research Record* 2541: 38–45. [https://doi.org/10.3141/2541-05.](https://doi.org/10.3141/2541-05)
-- Zacharias, John and Qi Zhao. 2017. Local environmental factors in metro patronage. *Journal of Public Transport* 10: 91–106. <https://doi.org/10.1007/s12469-017-0174-y>
+- Zacharias, John and Qi Zhao. 2017. Local environmental factors in metro patronage. *Journal of Public Transport* 10: 91–106. 
 - Zacharias, John and Qiang Sheng. 2019. Why cycling in 2007 was faster than being driven in 2017 in Tianjin. *[Journal of Traffic and Transportation Engineering](https://doi.org/10.17265/2328-2142/2019.01.001)* 7: 1–12. https://doi.org/10.17265/2328-2142/2019.01.001
 - Zhao, Pengjun. 2014. The impact of the built environment on bicycle commuting: Evidence from Beijing. *Urban Studies* 51: 1019–1037.
 - Zhang, H., S. Shaheen, and X. Chen. 2014. Bicycle evolution in China: From the 1900s to the present. *International Journal of Sustainable Transportation* 8: 317–335.
@@ -1480,7 +2865,7 @@ Reducing consumption is possible through energy-savings strategies such as:
 - eliminating phantom loads, and
 - using occupancy sensors.
 
-We estimate that electricity demand could be reduced by 60% utilizing these strategies. The Canadian baseline demand would then become 12 k Wh/day. This is a significant improvement, but we can do better. The authors own experience is relevant, taking the perspective of two motivated individuals living in a 60 m<sup>2</sup> apartment, with average electricity consumption of 3.8 k Wh/day. This is without full adoption of LED lighting, with an older model refrigerator, with less than efficient electronics, and also without an electric stove or without washer and dryer. We adjust the consumption as follows:
+We estimate that electricity demand could be reduced by 60% utilizing these strategies. The Canadian baseline demand would then become 12 k Wh/day. This is a significant improvement, but we can do better. The authors own experience is relevant, taking the perspective of two motivated individuals living in a 60 m2 apartment, with average electricity consumption of 3.8 k Wh/day. This is without full adoption of LED lighting, with an older model refrigerator, with less than efficient electronics, and also without an electric stove or without washer and dryer. We adjust the consumption as follows:
 
 - add an induction cook-top electric stove,
 - add ENERGYSTAR® washer and dryer,
@@ -1708,852 +3093,27 @@ This paper describes the production of a glassy cementitious reagent from waste 
 
 Structural concrete core samples were used as feedstock material for this study. The concrete was originally poured at a Vancouver low-rise building in early 2019 and sampled about 4 months later.
 
-Mineralogy of the bulk concrete was determined from a 5 kg sample that was crushed, pulverized, homogenized, and reduced to the optimum grain-size range for quantitative X-ray analysis (<10 μm) by grinding under ethanol in a vibratory Mc Crone Micronizing Mill (10 min). X-ray powder-diffraction data were collected from 3 to 80° 2θ using CoKα radiation on a Bruker D8 Advance Bragg-Brentano diffractometer equipped with Fe monochromator foil, 0.6 mm (0.3°) divergence slit, incident- and diffracted-beam Soller slits and a Lynx Eye-XE detector. The Co X-ray tube was operated at 35 kV and 40 mA, with take-off angle of 6°.
-
-Chemistry of the sample was determined from a split using XRF followed by ICP-MS at ALS in North Vancouver.
-
-## *7.2.2 Recycling Process*
-
-A glassy reagent was produced from the concrete by heating the material to approximately 1400 °C in a custom-built furnace at Terra CO2 Technologies' lab. The melt was quenched in water, dried, and pulverized in a ball mill until the material completely passed a 45 μm sieve.
-
-## 110 D. J. Lake
-
-## *7.2.3 Mix Designs*
-
-The glassy reagent made from concrete was used in both Portland cement mix designs, and geopolymer mix designs to produce cement pastes as follows:
-
-**SCM**. Type GU Portland cement conforming with CSA A-3001 was replaced with 30 wt% of the glassy reagent. Water ratio was 0.35 for mortar samples, and 0.26 for setting time measurements.
-
-**Geopolymer Reagent**. Na, K–Ca poly(sialate-multisiloxo) geopolymer was synthesized by mixing seven parts glassy reagent with one part potassium silicate hardener (molar ratio of 1.45), and 1 part water.
-
-## *7.2.4 Cement/Mortar Test Methods*
-
-Test methods were modified from ASTM methods, or rapid tests were developed for this preliminary study as described below. For tests that specify mortar, cement paste mix designs (given above) were added in equal proportion to graded sand (1:1 w/w).
-
-The sample naming convention was OPC100 for control samples with 100% Portland cement, OPC70-SCM30 denoting 30% substitution of OPC with glassy reagent, and GP for geopolymer samples made with glassy reagent.
-
-Setting time was determined by ASTM C191 Vicat needle penetration test. Both OPC and geopolymer samples had approximately normal consistency; however, the rheology of geopolymer mixes (not quantified) was qualitatively prone to shear thickening.
-
-The compressive strength for the SCM and OPC control samples was determined for one pair of samples provided to Metro Testing and Engineering in Burnaby, BC. The rest of the OPC and geopolymer (GP) samples were tested for compressive strength using a Forney concrete test machine at Terra CO2 Technologies.
-
-Acid resistance was estimated by immersing OPC, and geopolymer paste samples (34 g each) in a 10% HCl (w/w) solution (25 g each) for 24 h at 25 °C. Prior to immersion in acid, the samples were dried at 80 °C for 1 h and weighed using a milligram balance. After immersion in acid, the samples were rinsed in deionized water, dried for 1 h at 80 °C, and weighed again. Beginning and ending sample masses were compared to determine mass loss.
-
-The effect of heating on compressive strength was assessed using a non-standard test. Four 1 cm cube samples each of OPC and GP mortar were subjected to 750 °C for 2 h (one-hour ramp up, and 2 h cooling to 25 °C), then tested for compressive strength along with four unheated control samples of each type.
-
-## **7.3 Results**
-
-## *7.3.1 Concrete Characterization*
-
-Concrete mineralogy is dominated by the aggregate composition as can be seen in a core sample of the concrete used for this study (Fig. 7.1\).
-
-This local (Vancouver, BC) fluvial aggregate contains more than 75% common rock forming minerals (Table 7.1\).
-
-**Fig. 7.1** Local aggregate composition has an important effect on bulk concrete chemistry as shown by this slabbed core from the batch of concrete used in this study
-
-## ![](_page_116_Picture_7.jpeg)
-
-**Table 7.1** Mineralogy of the
-
-| Phase | Weight % |
-|----------------------------|----------|
-| Albite-low (calcian) | 31 |
-| Quartz-low | 21 |
-| Albite-low | 11 |
-| Orthoclase | 8 |
-| Calcite | 8 |
-| CSH (est. from Ca-content) | 6 |
-| Clinozoisite | 3 |
-| Actinolite | 3 |
-| Clinochlore II | 3 |
-| Biotite 1M | 2 |
-| Ettringite | 2 |
-| C2S beta | 2 |
-| Brownmillerite (Al) | 1 |
-| Gypsum | 1 |
-## | | |
-
-## 112 D. J. Lake
-
-## **Table 7.2** Oxide chemistry
-
-| Table 7.2<br>Oxide chemistry<br>of the concrete sample (XRF) | Oxide | Weight % |
-|--------------------------------------------------------------|---------------|----------|
-| | SiO2 | 56.61 |
-| | Al2O3 | 13.94 |
-| | Fe2O3 | 5.15 |
-| | MnO | 0.08 |
-| | MgO | 1.42 |
-| | CaO | 12.55 |
-| | Na2O | 3.55 |
-| | K2O | 1.48 |
-## | | LOI (1000 °C) | 3.91 |
-
-The oxide chemistry of the bulk concrete (Table 7.2\) approximates the aggregate composition, except for the rather high calcium content which is probably associated with characteristic Portland cement phases: calcite, ettringite, C2S, brownmillerite, and gypsum (Mindess and Young 1981\).
-
-## *7.3.2 SCM and Geopolymer Cement Performance*
-
-Initial and final setting times for the geopolymer cement (51 and 195 min), SCM blended cement (180 and 330 min), and ordinary Portland cement (165 and 315 min) (Fig. 7.2\) all met the set time requirements for ASTM C1157 Type GU cement (initial set time of at least 45 min, and final set less than 420 min).
-
-## ![](_page_117_Figure_6.jpeg)
-
-**Fig. 7.2** Setting times of the cements were all in an acceptable range for Type GU cement. The green 45-minute line represents the lower boundary of acceptable setting time in ASTM C1157
-
-Compressive strength for mortar cubes was high after 21 days (~60 MPa). All samples were in a "useful" range for commercial cements (Neville 2015b\). Only one sample each was tested for the OPC and OPC + SCM samples, so it is not known if the apparent higher strength of the 30% SCM sample (65 vs. 57 MPa) is significant. Although the geopolymer (GP) mix design hardened at ambient temperature (see Fig. 7.3\), the geopolymer samples subjected for compressive strength tests were steam-cured at 80 °C to more rapidly reach approximate final strengths. Ideally, all the samples would have been allowed to cure at ambient temperature for a full 28 days.
-
-Acid immersion had a particularly severe effect on Portland cement paste samples (Fig. 7.4\) causing significant mass loss and visible corrosion. Geopolymer paste samples were nearly unaffected (~5% mass loss). The samples used in the acid test were cured at ambient temperature for 28 days to ensure that acid-resistance was unequivocally achievable in ambient-cured samples.
-
-OPC cubes lost about 31% compressive strength after a 750 °C heat treatment (Fig. 7.5\). Surprisingly, the same treatment caused a significant increase in the strength of geopolymer cement. Note that the samples used in the heat resistance test were steam cured at 80 °C for 24 h due to time constraints. That is why both OPC and GP control sample strengths are lower than other tests. Although these
-
-**Fig. 7.3** Useable 21-day strength was demonstrated by the 30% SCM-replaced mortar cube. The mean GP strength result was 50 MPa (*n* = 8) and the bars provide the range between minimum and maximum results (24 and 70 MPa). "Most concrete" range indicates the range of the most common structural concrete strengths in use (Neville 2015)
-
-![](_page_118_Figure_6.jpeg)
-
-## ![](_page_118_Figure_7.jpeg)
-
-## ![](_page_118_Figure_8.jpeg)
-
-## 114 D. J. Lake
-
-## ![](_page_119_Figure_1.jpeg)
-
-**Fig. 7.5** 2 h of exposure to 750 °C degraded strength of OPC mortar cubes by 31% (7.0% standard error, *n*=4); however, geopolymer strength increased 144% under the same heat treatment compared to unheated controls (9.3% standard error, *n* = 4). Error bars show standard error results are indicative, future heating studies should employ an ambient-temperature cure which may provide a more representative estimate of real-world performance.
-
-#### **7.4 Discussion**
-
-## *7.4.1 SCM Application*
-
-Although geopolymer cement production was the primary motivation of this work, the use of recycled concrete glassy cementitious material as a simple SCM was also important to establish as a proof-of-concept. OPC with 30% substitution of SCM performed similarly to 100% OPC in several key tests and did not cause any obvious adverse effects. To measure expected pozzolanic effects such as improved sulfate resistance, and decreased alkali-silica reaction, longer duration curing (90 days or more) will be necessary (Mindess and Young 1981\).
-
-Whether it will prove effective and economic to recycle concrete into an SCM is the topic of ongoing study, however, with increasing shortages of fly ash SCM supply in many markets (Sheikh 2018\), it is a promising area of research.
-
-## *7.4.2 Geopolymer Application*
-
-Upcycling of waste concrete into geopolymer cement by the glassy cementitious reagent route is an exciting development. From this simple proof-of-concept study, it is clear that completely unoptimized geopolymer cement mixes made from glassy cementitious reagent performed in a satisfactory range for setting time and strength gain. Acid and heat resistance of upcycled geopolymer cement was significantly improved in comparison to OPC.
-
-## *7.4.3 CO2 Impact*
-
-The current lab-scale production process is not realistic enough to accurately quantify the energy use and CO2 impact of recycling concrete into cementitious materials; however, some useful approximations can be made. First, even if the concrete melting process uses a high-CO2 fossil fuel (i.e., coal) for heat energy and is similarly energy intensive as Portland cement production (a reasonable approximation), specific emissions will still be about 60% lower than OPC because limestone is not being calcined (CSI Cement Sustainability Initiative (CSI) 2016\). With 30% SCM substitution this worst-case scenario using coal energy would achieve about 12% lower CO2 cement with no apparent adverse effects, whereas a carbon-neutral fuel source could achieve nearly 30% CO2 reduction at the same replacement ratio. Given increasing local shortages of "no-CO2" by-product SCM (e.g., fly ash, Sheikh 2018\) it would make sense to replace as much CO2-intensive OPC as is practical with low CO2-intensity manufactured SCM for blended cements.
-
-For geopolymer cements, CO2-intensity can be about 80% lower than equivalent Portland cement, even if the geopolymer reagent has to be manufactured at high temperature (Davidovits 2015).
-
-## *7.4.4 Regulatory Environment*
-
-Concrete is a highly regulated material (for good reason) and new alternative cementitious materials must either conform to existing specifications, or lobby for new regulations to be written. Fortunately, the regulatory approval process for new alternative SCM materials is well developed in Canada and the United States (ASTM C1709-18, CSA A3000-18). However, the approval process of alternative general use cements for structural concrete (e.g., geopolymer) is not as clear. In the USA, some jurisdictions have adopted the progressive performance-based standard ASTM C1157 which does not mandate the use of Portland cement in concrete. The concept of a non-Portland cement is still radical enough that it is not clear how a hopeful commercial geopolymer concrete would be treated in Canada, but one imagines approval might proceed similarly to the staged trial process for certifying alternative SCM (CSA A3000-18) or the gradual approval shown for Portland Limestone Cement (PLC) in recent years (i.e., CSA A3000 "Type GUL" cements). PLC has had significant industry support (e.g., Thomas et al. 2010\); hopefully, geopolymer and other viable alternative cements including novel cements made with recycled concrete will receive similar regulatory support and consideration in the near future. 116 D. J. Lake
-
-## **7.5 Conclusions**
-
-Demolished concrete can be recycled into a glassy cementitious reagent when the aggregate chemistry is appropriate. Recycled concrete glassy reagent was tested as a partial replacement for Portland cement to 30% substitution with no observed decrease in performance. Geopolymer cement was also successfully prepared (ambient- and heat-cured) using the reagent. Converting demolished OPC concrete into geopolymer cement should tentatively be considered upcycling because this study demonstrated significantly improved resistance to acid corrosion and high temperature performance (in addition to satisfactory setting time and strength) at the proof-of-concept scale.
-
-These results suggest that a circular economy for concrete is possible by converting suitable construction and demolition waste into a relatively low-CO2 glassy cementitious reagent that can be re-used as an alternative SCM or as geopolymer cement reagent.
-
-**Acknowledgements** Compressive strength tests performed by Metro Testing and Engineering are gratefully acknowledged. Thank you to Tiera Naber for laboratory assistance.
-
-## **References**
-
-- Ackerman, C. (ed.). 2018. *This is concrete—Ten Years, ten insights*. Lond: The Concrete Centre. Aïtcin, P. C., and S. Mindess. 2011. *Sustainability of concrete*, 1st ed. London: CRC Press.
-- ASTM Standard C191. 2018. Time of Setting of Hydraulic Cement by Vicat Needle. West Conshohocken, USA: ASTM International.
-- ASTM Standard C1157. 2017. Standard Performance Specification for Hydraulic Cement. West Conshohocken, USA: ASTM International.
-- ASTM Standard C1709-18. 2018. Standard Guide for Evaluation of Alternative Supplementary Cementitious Materials (ASCM) for Use in Concrete. West Conshohocken, USA: ASTM International.
-- Boden, T., B. Andres, and G. Marland. 2016. *Global CO2 Emissions from Fossil-Fuel Burning, Cement Manufacture, and Gas Flaring: 1751–2013*. Oak Ridge, USA: Oak Ridge National Laboratory.
-- Cement Sustainability Initiative (CSI). 2009. Recycling Concrete. Geneva, Switzerland: World Business Council for Sustainable Development (WBCSD).
-- Cement Sustainability Initiative (CSI). 2016. Getting the Numbers Right, Project Emissions Report [2014. World Business Council for Sustainable Development \(WBCSD\).](https://www.wbcsdcement.org/GNR-2016/) https://www.wbcsdcement.org/GNR-2016/. Accessed 03 September 2019.
-- CSA Standard A3000-18. 2018. Cementitious Materials Compendium. Toronto, Canada: CSA Group.
-- Davidovits, J. 2017. Geopolymers: Ceramic-like inorganic polymers. *Journal of Ceramic Science and Technology* 8 (3): 335–350.
-- Davidovits J. 2015. The manufacture of geopolymer cements. In: Geopolymer chemistry and applications. 4th edn, 499–521. Saint Quentin, France: Geopolymer Institute.
-- Lord, M. 2017. *Rethinking cement: Zero carbon industry plan*. Victoria, Australia: Beyond Zero Emissions Incorporated.
-
-- Mehta, P. K., and H. Meryman. 2009. Tools for reducing carbon emissions due to cement consumption. *Structure* 1 (1): 11–15.
-- Metz B, Davidson O, Bosch P, Dave R, and Meyer L. 2007. Mitigation of climate change. Contribution of Working Group III to the Fourth assessment report of the Intergovernmental Panel on Climate Change (IPCC), Cambridge; New York: Cambridge University Press.
-- Mindess S, Young JF, 1981. Concrete, p. 671, New Jersey.
-- Neville G. 2015. The Strength of Concrete. In: Concrete Manual: Based on the 2015 IBC and ACI 318-14. International Code Council Publications.
-- Ren, X., and L. Zhang. 2019. Experimental study of concrete geopolymer produced from waste concrete. *Journal of Materials in Civil Engineering* 31 (7): 04019114.
-- Scrivener, K. L., V. M. John, and E. M. Gartner. 2016. *Eco-efficient cements: Potential economically viable solutions for a low-CO2 cement-based materials industry*. Paris, France: United Nations Environment Programme.
-- Sheikh, V. 2018. Limited availability of cementitious materials could impact the value chain. *Ash at Work* 2018 (1): 34–36.
-- Thomas, M. D., D. Hooton, K. Cail, B. A. Smith, J. de Wal, and K. G. Kazanis. 2010. Field trials of concrete produced with Portland limestone cement. *Concrete International* 32 (1): 35–41.
-- Tomosawa, F., T. Noguchi, and M. Tamura. 2005. The way concrete recycling should be. *Journal of Advanced Concrete Technology* 3 (1): 3–16.
-- Tomosawa, F., and T. Noguchi. 1996. Towards completely recyclable concrete. In *Integrated design and environmental issues in concrete technology*, ed. K. Sakai, 263–273. Milton UK: Taylor & Francis.
-- Xie, T., A. Gholampour, and T. Ozbakkaloglu. 2018. Toward the development of sustainable concretes with recycled concrete aggregates: Comprehensive review of studies on mechanical properties. *Journal of Materials in Civil Engineering* 30 (9): 04018211.
-- Yeheyis, M., K. Hewage, M. S. Alam, C. Eskicioglu, and R. Sadiq. 2013. An overview of construction and demolition waste management in Canada: A lifecycle analysis approach to sustainability. *Clean Technologies and Environmental Policy* 15 (1): 81–91.
-
-# **Chapter 8 A Hybrid Model for Sustainable Urban Metabolism in Metropolitan Communities**
-
-## ![](_page_123_Picture_1.jpeg)
-
-**Carson Xu, Son Nguyen, John Whangbo, and Michal Aibin**
-
-**Abstract** Climate change, and its disturbing implications, increases interest in sustainable living and development of ecocities. Intending to re-build society using ecological solutions, various governments and organizations are challenging themselves to produce ecocity models and evaluation systems. Urban metabolism, measuring a city's resource flows, is a common evaluation approach. This research project uses urban metabolism to assess waste reduction, reinforcing resilience of circular metabolisms, by two ecocities. Key performance indicators, planning principles, and adherence to international green building guidelines are used to quantitatively calculate the effectiveness of the Sino-Singapore Tianjin Ecocity flagship cooperation project between the governments of Singapore and China and the Dockside Green project in Canada. Qualitative data, including reviews from prominent sustainability researchers, are also evaluated. Findings suggest that the effectiveness of both ecocity models were inhibited by the practicality and feasibility of their master plans; in particular, several quantitative goals for bending the urban metabolism were unsuccessful. A hybrid model is introduced with principles and guidelines for optimizing previous prototypes and proposing feasible solutions to create a flexible template for achieving circular metabolism. It utilizes the quantitative indicators that were shown to be effective across both case studies and takes into account their viability by applying qualitative feedback.
-
-**Keywords** Ecocity · Urban metabolism · Sustainability · Hybrid mode
-
-#### **8.1 Introduction**
-
-With the turn of the twenty-first century, many countries around the world have implemented various government programs with the ultimate goal of addressing the consequences that come with climate change (IPCC2014\). Defined as a "human settlement
-
-Department of Computing, British Columbia Institute of Technology, Burnaby, BC, Canada e-mail: [maibin@bcit.ca](mailto:maibin@bcit.ca)
-
-## C. Xu · S. Nguyen · J. Whangbo · M. Aibin (B)
-
-120 C. Xu et al.
-
-modelled on the self-sustaining resilient structure and function of natural ecosystems" (Register 1987\), ecocities, in particular, became an internationally prominent topic during this time. Countries such as China, Singapore, United Arab Emirates, and Sweden led the race to discover the most sustainable yet applicable ecocity design (Roseland 1997\). One key metric to measure the effectiveness of an ecocity design was to compare the raw amount of resources inputted and outputted by an ecocity called urban metabolism (Smith and Miller 2013\). This research project will use urban metabolism to analyze the designs of two prominent ecocities, which will then be used to construct a template hybrid model for achieving circular metabolism.
-
-In Sects. 8.2 and 8.3, we investigate case studies for Sino-Singapore Tianjin Ecocity in China and Dockside Green in Victoria, BC, Canada, respectively. The key factors such as the ecocity design and performance indicators are discussed; we then analyze the benefits and drawbacks of the design in regards to urban metabolism. Section 8.4 covers our proposal for a hybrid model for urban metabolism based on the previous analyses and will conclude with a short discussion of our proposed model's future direction in Sect. 8.5.
-
-#### **8.2 Case Study 1—Sino Singapore Tianjin, Ecocity, China**
-
-After the political controversy regarding Suzhou Industrial Park, Singapore and China's first flagship joint ecocity collaboration, the two nations found an opportunity to fix their past mistakes in 2007 (Caprotti 2014\). With the Framework Agreement finalizing their target location as Tianjin, the Sino-Singapore Tianjin Ecocity project shortly commenced in early 2008. The project has a land area of 30 km2 and is planned for a population of over 300,000 residents (Geroe 2017\).
-
-## *8.2.1 Ecocity Design*
-
-As the Ecocity strives to strike a balance between social, economic, and environmental needs, the design has put a strong emphasis on giving high priority for each need using three planning principles.
-
-- 1. Land use planning
-- 2. Transport planning
-- 3. Green and blue network planning.
-
-The master plan for the Sino-Singapore Tianjin Ecocity could be summarized as "1 Axis—3 Centres—4 Districts," as displayed in Fig. 8.1. When broken down, the Ecocity's design revolves around the Eco Cell, a 400 m by 400 m cell that is used as the primary building block for the city. Four Eco Cells can be combined to form an Eco Community, and four Eco Communities can be connected to form an Eco District, as seen in Fig. 8.2. The summary above refers to four Eco Districts, with
-
-**Fig. 8.1** Interpretation of Tianjin Ecocity Plan (author's creation based on Urban Form and Density Gradient for Tianjin Ecocity Master Plan (World Bank 2009\))
-
-## ![](_page_125_Picture_3.jpeg)
-
-each district composed of both residential housing and commercial services. The "3 Centres" will be the connecting points for the "4 Districts," consisting of one main center and two secondary centers. Finally, the "1 Axis" is a reference to the Eco Valley that runs across the entire city acting as a bridge for both the Centres and the Districts; the Axis services as the "green spine" while alternatively operating as a tram service route and a scenic pedestrian trail (Geroe 2017\).
-
-## *8.2.2 Key Performance Indicators*
-
-The Key Performance Indicators (KPIs) of the Sino-Singapore Tianjin Ecocity were a joint effort between the experts of Singapore and China (Geroe 2017\). By comparing and contrasting the different national standards of Singapore and China and choosing the higher of the two, a comprehensive set of indicators were formed. Other factors, such as the adherence of local Tianjin principles, were also taken into account 122 C. Xu et al.
-
-**Fig. 8.2** Deconstruction of an Eco District (author's creation based on Spatial Structure of Tianjin Ecocity (World Bank 2009\))
-
-## ![](_page_126_Figure_2.jpeg)
-
-during this process (WB 2009). As this research project focuses primarily on urban metabolism and the overall reduction in emissions, waste, and resource demands, a selected few relevant KPIs were chosen to be analyzed.
-
-#### **8.2.2.1 Carbon Emission Per Unit GDP**
-
-The carbon emission per unit GDP in the Ecocity should not exceed 150 tonnes-C per US\$1 million. The timeframe is set to be achieved immediately, with no domestic standards or benchmarks for comparison.
-
-#### **8.2.2.2 Per Capita Daily Water Consumption**
-
-The daily water consumption per day that each person should not exceed is 120 L. The timeframe is set to be achieved by 2013, with the local Tianjin domestic benchmark listed at 130.4 L/person/day.
-
-#### **8.2.2.3 Waste Treatment**
-
-All hazardous and domestic waste in the Ecocity should be rendered non-toxic through treatment. The timeframe is set to be achieved immediately, with the local Tianjin internal benchmark listed at 81% and Beijing at 93% of hazardous and domestic waste treated.
-
-#### **8.2.2.4 Usage of Renewable Energy**
-
-The proportion of energy utilized in the Ecocity, which will be in the form of renewable energy, such as solar and geothermal energy, should be at least 20%. The timeframe is set to be achieved by 2020, with the national China benchmark listed at 7%.
-
-#### **8.2.2.5 Usage of Water from Non-traditional Sources**
-
-At least 50% of the Ecocity's water supply will be from non-traditional sources such as desalination and recycled water. The timeframe is set to be achieved by 2020, with both the benchmarks for Beijing and Singapore listed at 50%.
-
-#### **8.2.2.6 Analysis**
-
-While the completion date draws near, the Sino-Singapore Tianjin Ecocity project has managed to achieve the majority of goals set by their KPIs successfully. However, some of the KPIs proved themselves to be insufficient in nature. One notable example would be the carbon emission per unit GDP. As it is challenging and often unfeasible to measure carbon emissions on a municipality level, this KPI did not fully represent the effectiveness of carbon emission reduction within the Ecocity. Moreover, the usage of renewable energy KPI, which set the renewable energy standard for the Sino-Singapore Tianjin Ecocity to be 20%, was notably lower than the other existing countries around the world. For instance, both Sweden and Finland set their international benchmarks to be 33.3 and 25%, respectively. This suggests that the KPI may not be designed for the sake of ecological sustainability and be more focused toward reaching easily attainable milestones to create the impression of progression.
-
-By extension, the master plan and the KPIs seemingly lack cohesiveness; for instance, none of the KPIs reference the Ecocity design itself. This creates a sense of discordance in the master plan itself. By tying essential KPIs to the infrastructure of the Ecocity, not only would the measurement methodologies be more practical, but it also creates levels in scope, allowing for the more manageable process of troubleshooting if goals are not met. For example, water consumption can be tracked from the Eco Cell and go up to the Eco District, with stricter guidelines for each iteration; this allows designers to observe bottlenecks in performance.
-
-124 C. Xu et al.
-
-**Fig. 8.3** Dockside performance measurement system
-
-## ![](_page_128_Picture_2.jpeg)
-
-#### **8.3 Case Study 2—Dockside Green, Victoria, BC**
-
-On the other side of the globe, Dockside Green in Victoria, BC has steadily gained a reputation of a practical ecocity. With their first and second phases already complete, Dockside Green's strict adherence to global principles of sustainable architecture has proven to the world that an Ecocity does not need to have a sophisticated design to be functional. Anticipated to be completed by 2027, the project will contain over 1300 housing units and several community facilities (Bott et al. 2018\).
-
-#### *8.3.1 Ecocity Design*
-
-Unlike the Sino-Singapore Tianjin Ecocity project, the Dockside Green project does not offer a new and innovative urban ecocity design (DG 2014\). Instead, the Dockside Green focuses on using a traditional urban layout and optimizing it to their values and commitments. In their 2014 annual report, the updated neighborhood report showed seven precincts, defined as large building blocks that define the characteristics and land use requirements of each site. The precincts are then surrounded by 15 places, defined as the public realm that interconnects the city. Finally, a linkage and connectivity map highlights the internal and external routes around the premises. The connections aim to combat the challenges of the geographic limitations regarding the slopes and cross street limitations in the area. Dockside Green uses a simple pyramid diagram that lists the hierarchy of the relationships between each factor of the design, as seen in Fig. 8.3.
-
-## *8.3.2 Key Performance Indicators*
-
-Instead of formulating a customized collection of indicators, Dockside Green uses the Leadership in Energy and Environmental Design (LEED) rating system for their buildings (Lagally 2013\). Specifically, Dockside Green was initially set to achieve Platinum for both the LEED New (Building) Construction (NC) and the LEED Neighbourhood Development (ND) program. However, they changed to re-affirm their focus to only LEED-ND in 2014 (DG 2014\). As the LEED-ND documentation and requirements for Platinum cover a broad scope of factors, the research paper has selected the relevant ones.
-
-#### **8.3.2.1 On-Site Renewable Energy Sources**
-
-Incorporate on-site non-polluting renewable energy generation, such as solar, wind, geothermal, small-scale or micro-hydroelectric, and/or biomass, with the production capacity of at least 5% of the projects annual electrical and thermal energy cost (exclusive of existing buildings).
-
-#### **8.3.2.2 Infrastructure Energy Efficiency**
-
-Design, purchase, or work with the local government to install all new infrastructure, including but not limited to traffic lights, street lights, and water and wastewater pumps, to achieve a 15% annual energy reduction below an estimated baseline energy use for this infrastructure. The baseline is calculated with the accepted method of lowest first-cost infrastructure items.
-
-#### **8.3.2.3 Wastewater Management**
-
-Design and construct the project to retain on-site at least 25% of the average annual wastewater generated by the project (exclusive of existing buildings), and re-use that wastewater to replace potable water. An additional point may be awarded for retaining and re-using 50%. Provide on-site treatment to a quality required by the state (provincial/territorial) and local regulations for the proposed re-use. The percentage of wastewater diverted and re-used is calculated by determining the total wastewater flow using the design case after the GIB prerequisite 3 calculations, and learning how much of that volume is re-used on-site.
-
-#### **8.3.2.4 Recycled Content in Infrastructure**
-
-Use materials for new infrastructure such that the sum of post-consumer recycled content, in-place reclaimed materials, and one-half of the pre-consumer recycled content constitutes at least 50% of the total mass of infrastructure materials.
-
-## *8.3.3 Analysis*
-
-While the LEED rating system serves as an excellent set of metrics to observe the efficiency of buildings and communities, this methodology is not applicable on a global scale. The main concern lies in the process of attaining the certification; the three-stage process to receive the LEED-ND certification has proven itself to be lengthy and meticulous. A review must be done for all buildings within the project neighborhood upon completion to receive a pre-certification, which will eventually become a LEED-ND certification once all buildings have been rated to be eligible. Furthermore, the reliance on a third-party organization seemingly goes against the identity of an ecocity. It lacks the organic nature of an ecocity design as seen for the Sino-Singapore Tianjin Ecocity. Finally, by using a fixed set of numbers to measure the metrics of various aspects of a building or city, it lacks the scalability and flexibility that ecocities desire. For example, for a rainier region around the world, such as Vancouver, BC, it would be far more difficult to reach the 25% threshold for retaining wastewater than an arid environment, such as Dubai or Doha. Similar to how the Sino-Singapore Tianjin Ecocity chose their values based on their home countries, we found that quantitative indicators should ideally be adaptive to its environment to be effective.
-
-#### **8.4 Proposal—Circular Metabolism Hybrid Model**
-
-Based on the analyses done for both case studies, we propose a hybrid model which highlights the process of bending the urban metabolism of an ecocity. The model highlights the value of using our reduce–re-use–recycle framework in conjunction with our six-step phase cycle.
-
-## *8.4.1 Design*
-
-The model deconstructs the inputs of urban metabolism into two categories: core resources and subsidiary resources. Core resources are those that are essential to human life, such as water, food, and shelter. Subsidiary resources are the supplemental resources that enhance the well-being of humans, such as electricity and fossil fuels. This distinction allows an ecocity design to prioritize the reduction of resource demands; while core resources can never be fully eliminated, it is entirely possible to eliminate the usage of specific subsidiary resources, such as fossil fuels. Both core and supplemental resources act as the performance indicators, similar to the ones seen in the case studies. However, unlike the case studies, the indicators for this model are not used as milestones, but as a component of a feedback loop. This avoids the issue discussed in the analysis for Dockside Green, as there is no need to set numbers as goals for the indicators. Instead, the hybrid model uses both its reduce– re-use–recycle framework (Fig. 8.4\) and its six-step phase cycle to continually bend the urban metabolism from a linear relationship to a circular one (Fig. 8.5\).
-
-An additional aspect of this framework is the cooperation of the residents of the project. As ecocities are, by definition, the development of the symbiotic relationship between people and their surrounding environment, we included the willingness and
-
-## ![](_page_131_Figure_4.jpeg)
-
-**Fig. 8.4** The reduce–re-use–recycle (3Rs) framework
-
-## ![](_page_131_Figure_6.jpeg)
-
-**Fig. 8.5** Visual interpretation of the 3Rs framework desire of the residents contributing to the ecocity as a significant factor in the model. Each resident will be given an option to participate in a project to actively bend the urban metabolism; by agreeing to the terms, the residents would then offer their usage data to analysts using the various internet of things (IoT) devices to measure and track resource consumption. This effectively implements a stronger qualitative indicator setting, as the residents of the ecocity will have a direct connection to the project itself.
-
-Finally, as we found that having a standard set of principles created a stronger ecocity design, an overarching objective was included in the model: to find a trinity balance between social, environmental, and cultural ties to the ecocity. By embracing the lifestyle of circular metabolism, residents can establish a strong sense of coexistence and harmony with their surrounding nature and reinforce their symbiosis.
-
-## *8.4.2 Reduce–Re-Use–Recycle Framework*
-
-The reduce–re-use–recycle (3Rs) framework serves as the backbone for the cyclical metabolism approach. The order of the words is crucial to the framework, as they have been listed in order of priority and importance, seen in Fig. 8.4. Reduction of resource consumption creates the most robust cyclical metabolism between the three, as there are no preliminary steps to take the output back to the input stage. However, both the acts of re-using and recycling resources require unique processes to render the outputs back to a usable state for the input stage. As recycling requires multiple steps and procedures, it is typically seen as less capable than re-using in terms of urban metabolism. With each phase in the framework, the residents optimize their lifestyles with every iteration. This is displayed in Fig. 8.5, where the thickness of the circles become thinner with each ring.
-
-## *8.4.3 Phase Cycle*
-
-The hex diagram of the six-stage phase cycle, as seen in Fig. 8.6, acts as both a symbolic gesture to urban metabolism and as the methodology for achieving the standards set by the objective of the model. With each phase, the Collect stage initiates the process by gathering the essential information needed for the following step, Analyze. This leads to the creation of the Design stage, which capitalizes on the potential benefits seen from the preceding stage. The Test stage ensures that the design applies to the ecocity, and is quickly followed by the Implement stage. Finally, the Reflect stage acts as an opportunity for creating a retrospective while also gathering feedback from the stakeholders and residents to improve the cycle for the next iteration. The cycle can then be repeated several times until the target phase goals have been met.
-
-![](_page_133_Picture_2.jpeg)
-
-## **Fig. 8.6** Hex diagram of the phase cycle
-
-#### **8.5 Conclusion**
-
-In this paper, we examined the design of the world's leading ecocities to discover how they can bend their urban metabolism. We found that the static indicators and vague descriptions of the end goals weakened the integrity of the designs, and often hindered their pursuit of achieving circular metabolism. To counter this, we proposed a hybrid model that took full advantage of the strong points of the analyzed ecocities. The model defined critical factors for urban metabolism and introduced a framework and phase cycle set. We avoided the pitfalls found in the case studies and demonstrated a new approach in reaching cyclical metabolism. We hope that the flexibility and simplistic nature of the model allow other ecocities to quickly integrate it into their own designs.
-
-130 C. Xu et al.
-
-## **References**
-
-Bott, H., S. Anders, and G. C. Grassl. 2018. *Nachhaltige Stadtplanung: Lebendige Quartiere, smart Cities*. DETAIL: Resilienz.
-
-Caprotti, F. 2014. Critical research on eco-cities? A walk through the Sino-Singapore Tianjin Eco-City, China. *Cities* 36: 10–17.
-
-Dockside Green. 2014. Dockside Green 2014 Annual Report.
-
-Geroe, S. J. W. 2017. The sino-singapore tianjin eco-city: A case study of Chinese experimental regulatory and institutional development. *International Journal of Sustainable Development and Planning* 12 (6): 987–994.
-
-IPCC (Intergovernmental Panel on Climate Change). 2014. Climate Change 2014 Synthesis Report. Lagally, M. G. 2013. LEED. Encyclopedia of Materials Characterization.
-
-Register, R. 1987. What is an Ecocity? *Earth Island Journal* 2 (4): 31–33.
-
-Roseland, M. 1997. Dimensions of the eco-city. *Cities* 14 (4): 197–202.
-
-Smith, R., and K. Miller. 2013. Ecocity mapping using GIS: Introducing a planning method for assessing and improving neighborhood vitality. *Progress in community health partnerships: research, education, and action* 7 (1): 95–106.
-
-World Bank. 2009. Sino-Singapore Tianjin Eco-City: A Case Study of an Emerging Eco-City in China.
-
-# **Part IV Informal Solutions for Sustainable Development**
-
-Part 4, Informal Solutions for Sustainable Development, explores innovative ways of restoring natural and human environments despite limited governmental funding and administrative capacity. The three chapters in Part 4 illustrate how communities can pursue sustainability by coordinating scarce resources, employing cutting-edge technology, and recycling the commonly found materials as a cost-effective way of rehabilitating essential ecosystems. These chapters describe the advancements toward various goals incorporated within the Ecocity Standards, which is the diagnostic tool that helps communities assess their progress on the path to becoming ecocities (Ecocity Builders 2020).
-
-Chapter [9](https://doi.org/10.1007/978-3-030-58399-6_9) explains how government and a professional organization supported the re-building of 750,000 homes that were damaged or destroyed by the 2015 earthquake in Nepal. The government issued a catalog of template designs for simple rural houses that could be constructed in build-it-yourself mode, yet were capable of withstanding the severe seismic activity of this region. Mobile team experts visited construction sites to offer technical advice and perform inspections to ensure that the work was being done correctly whether by trained masons or the homeowners themselves. Consistent with the Ecocity Standard for safe and affordable housing, Nepal and its partners facilitated the construction of structurally sound homes at minimum expense. Also, in keeping with the socio-cultural pillar of the Standards, this massive reconstruction project advanced public inclusiveness, health, and well-being while respecting the region's cultural heritage.
-
-Chapter [10](https://doi.org/10.1007/978-3-030-58399-6_10) reveals promising results from a combination of technologies used for inventory and to assess the ecological services provided by specific forests, including carbon sequestration, pollution removal, and runoff avoidance. This hightech approach provides a low-cost way for developing or developed countries to demonstrate the value of preserving, managing, and restoring forests for global as well as local benefits. The techniques tested and evaluated by the authors of this study will ultimately help communities make progress toward multiple Ecocity Standards, including clean air and mitigation of the greenhouse gases responsible for climate change as well as the protection of forests to support healthy biodiversity and ecological integrity.
-
-Informal solutions can also address essential environmental problems using inexpensive materials that are commonly found in developing or developed countries. In Chap. [11,](https://doi.org/10.1007/978-3-030-58399-6_11) researchers demonstrate that biochar can effectively serve as a sorption media in infiltration swales and rain gardens to successfully remove pollutants from storm waterrunoff that are harmful to aquatic life. Unlike expensive pipes and pumps often found in the costly floodwater management systems of developed countries, this application of green infrastructure in low-impact designs is affordable and sustainable since biochar can be made from organic waste, including wood by-products, manure and agricultural residues. With this informal solution, communities can make progress toward multiple Ecocity Standards goals such as clean and safe water through protecting water quality, restoring aquatic ecosystems that help achieve healthy biodiversity, and recycling to support responsible use of resources and materials.
-
-#### **Reference**
-
-Ecocity Builders. 2020. What is an ecocity? [https://ecocitybuilders.org/what-is-an-ecocity/.](https://ecocitybuilders.org/what-is-an-ecocity/) Accessed 9 April 2020.
-
-# **Chapter 9 Capacity Building of Rural Communities in Post-Earthquake Reconstruction in Nepal**
-
-## ![](_page_137_Picture_1.jpeg)
-
-**Bishnu Pandey, Ranjan Dhungel, Surya Narayan Shrestha, and Sushil Gyewali**
-
-**Abstract** The devastating earthquake of April 25, 2015 and its aftershocks caused widespread destruction of houses, school buildings, health clinics, and heritage structures in hilly regions of central Nepal. The disaster impacts were unprecedented and the scale of need for the recovery was not experienced in the recent past. On the other side, the opportunities the disaster created to build better for the future would only be materialized when essential components of sustainable development are well integrated into the reconstruction process. The post-earthquake reconstruction required a massive scale training of engineers, technologists, masons, and social mobilisers. This was met with urgency of the reconstruction process where several hundred thousands of houses belonging to individuals in villages needed to be constructed within a short time with direct involvement of state. This paper looks into the aspects of capacity building in the reconstruction process and examines the factors that had significant influences. Factors accounted for are the socio-cultural context of the country, availability and distribution of resources, pre-disaster status of community capacity building efforts, and subsequent transition for reconstruction. Elements of end-user training for reconstruction, which served as a community capacity-building measure, were presented and discussed in their role in reconstruction progress.
-
-## B. Pandey (B)
-
-British Columbia Institute of Technology, British Columbia Institute of Technology (BCIT) Burnaby British Columbia, Burnaby, Canada e-mail: [bpandey@bcit.ca](mailto:bpandey@bcit.ca)
-
-## R. Dhungel · S. N. Shrestha
-
-National Society for Earthquake Technology-Nepal, Lalitpur, Nepal
-
-## S. Gyewali
-
-National Reconstruction Authority, Kathmandu, Nepal
-
-© The Editor(s) (if applicable) and The Author(s), under exclusive license to Springer Nature Switzerland AG 2020
-
-J. Moore et al. (eds.), *Ecocities Now*,
-
-134 B. Pandey et al.
-
-## **9.1 Introduction**
-
-Nepal was hit by a large earthquake (Mw 7.8) with the epicenter in Gorkha, located about 80 km northwest of Kathmandu on April 25, 2015. The main event was followed by several large aftershocks including a severe one on May 12, 2015, with the epicenter about 100 km northeast of Kathmandu. The earthquake caused 9256 deaths and another 22,300 injuries in Nepal. The earthquake collapsed a total of 510,762 private dwellings and about 3000 public buildings. Figure 9.1 shows the distribution of damage to private residential houses across the affected 31 districts, as observed in the damage assessment survey. Similarly, a very large number of residential houses, public buildings, schools, and community health clinics suffered significant damage (GON 2015a, b\). According to the Post Disaster Need Assessment (PDNA) report by the Government of Nepal, at least 500,000 buildings require reconstruction, and another 250,000 buildings require retrofitting and/or repair.
-
-Building typologies that were most severely impacted by the earthquake were low-rise unreinforced masonry buildings, including adobe buildings and rural stone
-
-## ![](_page_138_Figure_4.jpeg)
-
-**Fig. 9.1** Damage distribution of private houses in the 2015 Gorkha earthquake (HRRP 2016)
-
-masonry buildings constructed using mud mortar. Most of the affected areas were remote rural areas with stone masonry dwellings that were either severely damaged or collapsed due to the earthquake. Stone masonry, a weak form of construction material, has been used extensively for housing in the remote hilly region of Nepal where the earthquake hit the hardest. This is partly due to the fact that the stone is the only readily available building material, and access to other materials is severely limited in those communities.
-
-For an effective recovery from the earthquake damage, the country needs not only significant resources but also a comprehensive program of capacity building to mobilize the resources at different levels of government as well as at the grassroots level including in remote rural villages. One of the important factors that shapes effective recovery is a communities' capacity to absorb the large-scale intervention brought for the reconstruction that comes with new forms of knowledge, skills, and practice of housing construction. This resulted in an unprecedented interface between technology and society in the field. While engineers who work in villages become the vehicle of the techno-legal regime established by the state through building codes and construction compliance guidelines, communities never subjected to such regulation and technological prescriptions in the past have a hard time integrating them into their lifestyles. Here comes the need of capacity building in different forms: (i) developing technical expertise and preparing groups of technical experts in safe housing construction, who also possess knowledge of the local context including construction practices, resource constraints, community mobilization, and adaptation of standards for local needs; (ii) developing local human resources in the form of craftsmanship that can be mobilized to translate the expertise into actual construction; (iii) raising awareness of public and individual households on the need for safe and sustainable construction solutions that encompass a building-back-better approach.
-
-The characteristics of the need for capacity-building elements stem from the historical context of the hazard, physical vulnerabilities, construction practice, prior efforts of earthquake preparedness, and mitigation s and, in particular, the existing capacity of communities to implement safe and sustainable housing.
-
-We looked into the aspect of risk and resiliency to earthquake hazards from a community capacity point of view. This included accounting for efforts from state and non-state actors in the past two decades prior to the earthquake followed by evaluation of what was needed to raise the community capacity in the aftermath and the actual delivery of capacity-building measures in the process of reconstruction. The main objective of this paper is to look at the community-level capacity-building measures taken for reconstruction in light of the pre-earthquake initiatives. It was observed that the progress of housing reconstruction in rural areas of Nepal has a close correlation with the measures taken before and after the earthquake.
-
-136 B. Pandey et al.
-
-## **9.2 Capacity Building Measures for Safer Housing**
-
-## *9.2.1 Background*
-
-Nepal witnessed several large-scale earthquakes in the past. The last major earthquake was in 1934 with an estimated magnitude of 8.0, which reportedly killed more than 8000 people in Kathmandu alone along with catastrophic destruction to houses (Dunn et al. 1939\). The mode of response to that earthquake was mainly to focus on relief and recovery with very limited regard due to lessons on safe housing practice. Later, the country experienced a moderate earthquake of magnitude 6.6 on August 21, 1988 when the eastern part of Nepal was badly hit. It was the last significant earthquake Nepal faced before 2015. The 1988 earthquake caused 721 deaths and injured more than 6000 people. The earthquake also caused more than 20,000 buildings to collapse and another 40,000 were severely damaged (Thapa 1989\). Unlike earlier, this earthquake left a couple of major lessons in respect to hazards and safe housing practice. The earthquake clearly demonstrated the seismic risk to masonry buildings made with brick or stone in mud mortar. It generated significant interest in seismic mitigation through safe housing to the government and civil society.
-
-In 1993, the government commissioned a building code development project that produced a set of code documents for engineered buildings, mandatory rules of construction for semi-engineered houses, and a number of guidelines for rural dwellings. Although it took more than 10 years for the government to promulgate the Building Code Act to enforce them, the development of code documents instigated professional groups to actively work in the seismic safety of houses. Around the same time, engineers, geoscientists, and other professionals engaged in building code development or interested in the larger cause of earthquake safety set up a technical professional organization named National Society for Earthquake Technology-Nepal (NSET). NSET came to the forefront in promoting earthquake awareness, bringing appropriate technology to the communities and developing necessary adaptation for the local context. Since the late 1990s, NSET played a central role in delivering capacity-building programs for communities and local governments for earthquake-safe housing through their signature programs like Kathmandu Valley Earthquake Risk Management Project Programme (KVERMP), School Earthquake Safety Program (SESP), Nepal Earthquake Risk Management Program (NERMP), Building Code Implementation Program of Nepal (BCIPN), and so on (Dixit et al. 2012\). The focus of all of these programs was community-based capacity building for safer housing along with advocating and supporting government agencies for its institutionalization. NSET was instrumental to push the government for communitybased earthquake safe construction of schools, training of masons, exhibitions of earthquake safe housing construction, and for expanding building code enforcement to a larger number of cities and towns. There were obvious limitations of a non-for-profit professional organization to scale-up the activities to cover the entire communities on its own. One example of such limitations is well presented in the works of Dixit et al. \(2012\) where it was reported that NSET could make seismic upgrading of only 50 schools in 12 years. However, their strong advocacy campaign and support of institutionalization for safe schools resulted in the Department of Education adopting a program of school seismic upgrading of about 300 schools in three years. All of those schools stood very well in the 2015 earthquake (Pandey et al. 2017\). One can argue that this number is still insignificant against about 30,000 public schools in the country, most of which require seismic upgrades.
-
-Proceeding section describes some selective community capacity-building elements for safer housing adopted in the country prior to the 2015 earthquake.
-
-## *9.2.2 Pre-Earthquake Community Capacity-Building Elements for Safer Housing*
-
-#### **9.2.2.1 Mobile Earthquake Clinics**
-
-NSET devised and implemented the program of mobile earthquake clinics, an element of technical awareness of homeowners, for safe housing in major cities and in their program area of BCIPN (Shrestha Gurung et al. 2015\). Teams of structural engineers, technicians, and skilled masons visited building construction sites in the communities voluntarily and offered technical advice on earthquake-resistant construction to homeowners and crafts persons engaged in the construction. Among others, the technical team provided information and technical know-how on the reinforcement of masonry walls, detailing of reinforcement bar for seismic resistance, protection of non-structural walls, and so on.
-
-#### **9.2.2.2 Simple Shakteable Demonstration**
-
-Demonstration of a physical model of a house under shaking to the community is an effective method of technological awareness toward safer housing. These demonstrations were extensively used in Nepal to convince the public about the effectiveness of simple measures in construction for enhanced seismic resistance. In a public demonstration, a pair of scaled model buildings made of local material like brick and stone were placed on top of an improvised shaketable. Twin building models that look alike but are different, one was constructed in a conventional method without using any reinforcement and another with reinforcement, were shaken with the use of a spring system. Upon the shaking, as the performance of both models were observed at the same time, the show revealed the weaknesses of conventional construction and improved performance of the reinforced model. These demonstrations were carried out in several communities in conjunction with mason training, community-based school seismic upgrades, and building code implementation activities.
-
-138 B. Pandey et al.
-
-#### **9.2.2.3 Homeowners' Orientation**
-
-In Nepal, awareness raising on safer housing technology included orientation of homeowners on earthquake hazards, risks and safety measures through the use of multimedia, exhibits and full-scale demonstration of construction features in predesignated sites. Safe housing orientation programs were announced for potential homeowners in conjunction with information on the building permit process provided by city officials. Simple layouts of wall reinforcing, steel detailing, connections, and so on were presented by experts to homeowners.
-
-#### **9.2.2.4 End-User Trainings on Safe Construction in Communities**
-
-To support the building code implantation in rapidly urbanizing areas and cities, NSET and the Department of Urban Development and Building Construction (DUDBC) of Nepal carried out training programs for masons and homeowners in the communities (Figs. 9.2 and 9.3\). The concept of mason training was developed in the late 1990s when NSET started a community-based seismic retrofitting program for schools. A need for skilled local manpower was soon realized to roll out the seismic upgrade work in schools.
-
-In-class and field trainings were introduced to upgrade skills of existing masons for proper seismic detailing. On-the-job-training was established while carrying out seismic upgrades and new construction of schools with proper reinforcements for seismic resistance. The construction also offered opportunities to develop new masons. Later, a proper mason training curriculum was developed in collaboration with government agencies and international organizations. The experience of post-earthquake reconstruction of Kashmir, Pakistan after the 2005 Kashmir Earthquake also helped to shape the training content and format (Dixit and Shrestha
-
-![](_page_142_Picture_6.jpeg)
-
-**Fig. 9.2** Engineers offering technical advice to homeowners and masons through mobile earthquake clinics (Photo: NSET)
-
-![](_page_143_Picture_2.jpeg)
-
-## ![](_page_143_Picture_3.jpeg)
-
-**Fig. 9.3** Demonstration of simple shaketable and exhibit of reinforcement detailing to homeowners (Photo: NSET)
-
-**Table 9.1** Types of training in the field for communities during pre-earthquake period
-
-| End-user trainings at community level | Participants |
-|---------------------------------------|-------------------------------------------------------------------------------------------|
-| Mason trainings | Local artisans, carpenters, bar benders |
-| Social mobilizers trainings | Community volunteers, social mobilisers, community<br>workers |
-| Owner-builder orientations | Potential homeowners who will engage directly in the<br>construction decision and process |
-
-2008\). Basic technical training for technologists, training of trainers and training for social mobilizers were also developed to complement the mason training (Table 9.1\). Later, mason training became a major component of building code implementation programs in cities that started enforcement of the code.
-
-A main focus of the trainings at the community level was the capacity enhancement of local skilled persons and technicians on safer construction. The technical solutions offered in those trainings were mainly guided by the principles of promoting the use of local material, respecting positive elements of local practice, and emphasizing hands-on and on-the-job practice.
-
-## **9.3 Post-Earthquake Reconstruction of Rural Houses**
-
-With support from national organizations and international agencies, the Government of Nepal commissioned an assessment of needs in the aftermath of the earthquake. In June 2015, a team of professional and policy experts came up with a Post Disaster Needs Assessment (PDNA) report, which also formed the planning basis for the recovery. In August 2015, the government established the National Reconstruction
-
-![](_page_144_Picture_1.jpeg)
-
-**Fig. 9.4** Mason training at community level for brick laying and bar bending [Photo: NSET]
-
-Authority, the central coordinating body to steer the reconstruction work. The immediate priority of the NRA was to carryout damage assessment throughout the hard-hit area of the earthquake and set up an institutional mechanism to support the communities' need for recovery. It took almost a year for the government to fully establish guidelines and set up an inspection system combined with provision of housing grants for more than 700,000 homes to be reconstructed. The government issued the first volume of a design catalogue that included template designs for simple rural houses, targeting the post-earthquake reconstruction six months following the earthquake. During the first year, the government and other development agencies focused on capacity building with training of engineers, technicians, and masons required for the reconstruction (Fig. 9.4\). It took more than a year to set up a housing grant system combined with inspection mechanism to ensure that newly built homes were in compliance with newly developed guidelines (Fig. 9.5\) (Pandey and Ventura 2019\).
-
-The approach of reconstruction was to take an owner-built system, in which house owners need to construct houses by themselves. At the same time, however, the structural safety of reconstructed houses is the priority as reconstruction is taken as an opportunity to build-back-better. By the time, the system of grant and inspection was in place, almost 20,000 houses were already built by homeowners, not necessarily following any directives. Under the housing grant, the government facilitated the reconstruction of private houses with a grant of USD3000 for each household to be disbursed in three installments subjected to inspection by an engineer for earthquake resistant compliance. Figure 9.5 shows three milestones of construction stages of individual house construction for grant installment (YRP 2018).
-
-Homeowners need to follow the minimum technical requirement of house reconstruction set by the government guidelines to receive the housing grant. It is also the homeowners' responsibility to find trained masons and laborers for the construction. The inspection guidelines have check sheets that a field engineer appointed by the government should verify at three stages of construction: at plinth level, at lintel level, and upon completion. It was found that very few houses passed (less than 5%) the
-
-![](_page_145_Picture_2.jpeg)
-
-**Fig. 9.5** Schematic illustration of construction phase of rural houses that receive government support grant provisioned with technical inspection for compliance to the standard first and second inspections even after second anniversary of the earthquake in 2017. To address the problem, the government increased technical support systems and issued a correction manual to help households fix the deficiencies and proceed with the rest of the construction. Significant progress was achieved in rural housing reconstruction in the fourth quarter of 2017 when additional support had been provided to the communities.
-
-## **9.4 Capacity Building of Communities for Reconstruction**
-
-The required resources for the community to commence the reconstruction included financial support, manuals, technical guidelines, and expertise which ensured that guidelines were properly followed. However, another important resource required in the field is skilled manpower to execute the construction. NRA established the institutional framework to disburse the housing grants to households through local agencies. It also developed the guidelines, manuals, inspection procedures, and so on, with support and collaboration with other government agencies and partner organizations. NRA also managed to send government engineers in the field for support and inspection purposes. Other national and international partner organizations like JICA, NSET, and so on also deployed their engineers and technologists in the field for technical assistance. To make skilled masons available at the community level throughout the reconstruction areas, masons trainings needed to be carried out first in a big scale. Homeowners themselves also should have been educated and informed about the need and provisions of the reconstruction of their houses in the owner-built system adopted in the reconstruction.
-
-142 B. Pandey et al.
-
-The pre-earthquake end-user capacity-building programs through trainings served the model for post-disaster reconstruction too. Accordingly, the following capacitybuilding training and other elements were put in place at each rural community:
-
-- 1. House-to-house technical support
-- 2. Seven-days training to existing masons to upgrade their skills for earthquakeresistant construction
-- 3. 50 days on-the-job-training (OJT) to develop new masons
-- 4. Training for social mobilizers
-- 5. Homeowners orientations
-- 6. Demonstration of safe housing technology through physical model
-- 7. Community mobilization program (CMP).
-
-## *9.4.1 House-to-House Technical Support*
-
-This support was provided by the mobile team experts consisting of engineer/technologist and a senior trained mason. A team covers a number of neighboring communities. The team visits the construction sites with or without prior request and voluntarily offers technical advice interacting with masons involved in the construction as well as homeowners (Fig. 9.6\). Sometimes, a social mobilizer is also included
-
-![](_page_146_Picture_11.jpeg)
-
-**Fig. 9.6** House-to-house technical support (Photo: NSET)
-
-in the need as needed to cater to the needs of homeowners from a social perspective. This set of arrangements is analogous to mobile earthquake clinics that NSET used to run in pre-earthquake time in municipalities.
-
-#### *9.4.2 Mason Training*
-
-Two types of mason training are carried out throughout the earthquake-hit communities: Seven days training targeting existing masons and 50 days on-the-job training (OJT) to develop new masons with necessary skillsets for safe housing construction. The first training includes class teaching as well as a hands-on exercise in showcase prototypes of foundation, plinth, wall, and bands. The training covers some fundamentals of how buildings behave in an earthquake, causes of typical failure, configuration, material quality, workmanship, techniques to set up and layout in the ground, construction techniques for components, detailing, and connection. All the trainees will have the opportunity to have hands-on practice of each work of housing construction.
-
-The 50 days training includes similar content of earthquake resisting construction in addition to the basics of artesian techniques of masonry laying, carpentry, band bending, and so on. The hands-on exercise in this training is given through the actual construction of a house owned by an earthquake victim in the community (Fig. 9.7\). In a learning by doing approach, construction trainees will get hands-on teaching from senior trained masons.
-
-![](_page_147_Picture_6.jpeg)
-
-**Fig. 9.7** Hands-on work during training for existing and new masons (Photo: NSET)
-
-144 B. Pandey et al.
-
-## ![](_page_148_Picture_1.jpeg)
-
-## ![](_page_148_Picture_2.jpeg)
-
-**Fig. 9.8** Homeowners orientations on reconstruction with safe housing technology (Photo: NSET)
-
-## *9.4.3 Homeowner Orientations and Model Demonstration*
-
-A team comprising a social mobilizer and a technologist or an engineer carries out orientation programs in each community from time to time (Fig. 9.8\). The objective of such orientations to homeowners is to make them aware of new construction practice for safe housing, the importance of configuration, workmanship, inspection of work, and so on. Some audio–visual materials, a sample of construction material, flip chart work with home sketches are presented in the program. In addition to these orientations, homeowners are also invited to a site where model constructions are being erected. Engineers explain the features of those model constructions to them.
-
-## *9.4.4 Community Mobilization Program*
-
-The government also started a community mobilization program (CMP) in several communities where homeowner user groups are established that facilitate sharing of experience with each other (Fig. 9.9\). They are not only a mutual support group but play a role in advocating government support on reconstruction issues in the communities.
-
-## *9.4.5 Impacts of Trainings to Progress of Reconstruction in Rural Housing*
-
-Major milestone work toward reconstruction was analyzed along with timeline and spatial distribution of end-user training at the community level (Fig. 9.10\). It was
-
-## ![](_page_149_Picture_2.jpeg)
-
-**Fig. 9.9** Community meeting on reconstruction through CMP program (Photo: NRA)
-
-![](_page_149_Figure_4.jpeg)
-
-**Fig. 9.10** Timelines of mason training and housing construction progress in earthquake-hit communities found that there is a direct correlation between the community capacity-building activities and progress of housing reconstruction at each earthquake-hit district. Despite the desperation, most of the owners of collapsed houses looked for technology, expertise and human resource that ensure safe house construction for almost two years. This was evident throughout the earthquake hard-hit 14 districts. Even after provisions are made with design templates, masons are trained and households started reconstruction; there was stagnant in housing progress in early 2017 mainly due to lack of technical support at community level.
-
-The government and partner organizations dispatched more technical experts and necessary guidelines like the correction manual. With about 40,000 masons trained, about half of the total estimated need, the construction progress picked up quickly. With larger than expected retention of trained masons in work, the need for additional training was diminished after about 70,000 masons get trained. The role of social mobilisers was also evident in the progress of housing construction as well as rate compliance to the standard (Dhungel 2019). Figure 9.10 illustrates the housing progress in shared timelines of total mason trained in the country after the earthquake. The delivery of standards, guidelines, and provisions of technical manpower to the community also affected the progress.
-
-#### **9.5 Conclusion**
-
-The first two years after the 2015 Gorkha (Nepal) Earthquake were spent developing the necessary tools and building capacity of communities to deliver safe and effective reconstruction. The lack of community capacity to understand the new construction practice, scarcity of skilled craftsperson, and lack of necessary technical and social support system were major hindrances to start the reconstruction in the immediate aftermath. While the housing grant distribution system and other institutional setups took significant time to be in place, the technical capacity-building work was geared up smoothly as the concept, method, and tools for community capacity building were developed in pre-earthquake period albeit in actual implementation was not scaled up. The reconstruction campaign led by NRA borrowed those concepts, methods, and tools for community capacity building in safer housing spearheaded by NSET. As the reconstruction adopted the owner-built system, training of mason, orientation of homeowners, demonstration, and exhibits of model houses and technologies, creating the interface between technical experts and communities are all instrumental in the good progress of reconstruction of houses run in build-back-better concept. This lesson of community support system is useful not only for recovery after the next earthquake but to mitigate the risk and preparedness where earthquakes do occur. If the applications of community capacity-building elements were made successfully before the earthquake event, the reconstruction would have progressed earlier, and more importantly, the destruction and casualty could have been well reduced.
-
-**Acknowledgements** The study was supported by the British Columbia Institute of Technology (BCIT) and the National Society for Earthquake Technology-Nepal (NSET). Data on housing and training were provided by the Housing Reconstruction and Recovery Platform of Nepal (HRRP). Their support is highly acknowledged.
-
-## **References**
-
-- Dixit, AM, Shrestha SN, Parajuli YK, Thapa MB (2012) Preparing for a Major Earthquake in Nepal: Achievements and Lessons, Conference Proceedings, 12th World Conference on Earthquake Engineering, Lisbon.
-- Dhungel R, Shrestha S, Guragain R, Gouli M, Baskota A, Hadkhale B. 2019. Socio-technical module in assistance: Promoting resilient reconstruction in the wake of a disaster, Journal of Nepal Geological Society, 2019, vol. 58 (Sp. Issue), pp. 139–144.
-- Dunn, J. A., J. B. Auden, A. M. H. Gosh, S. C. Roy, and D. N. Wadia. 1939. *The Bihar-Nepal earthquake of 1934*, vol. 73. Geological Survey of India: Memoirs of the geological survey of India.
-- GON (2015- 1). Nepal earthquake 2015 – Post Disaster Needs Assessment – Volume A: Key Findings. Government of Nepal, National Planning Commission, Retrieved from http://www.worldb[ank.org/content/dam/Worldbank/docment/SAR/nepal/PDNA%20Volume%20A%20Final.pdf.](http://www.worldbank.org/content/dam/Worldbank/docment/SAR/nepal/PDNA%20Volume%20A%20Final.pdf)
-- GON (2015-2) Nepal Earthquake 2015 Post Disaster Needs Assessment – Volume B: Sector [Reports". Government of Nepal, National Planning Commission, Retrieved from](https://www.gfdrr.org/sites/gfdrr/files/WB_UNDP_PDNA%20Community_SP_FINAL.pdf) https://www.gfdrr.org/sites/gfdrr/files/WB\_UNDP\_PDNA%20Community\_SP\_FINAL.pdf.
-- Pandey B, Paci-Green R, Ventura C. 2017. Comparative Assessment of Performance of School Buildings in the 2015 Gorkha (Nepal) Earthquakes". Proceedings of the 16th World Conference on Earthquake Engineering, Santiago, Chile.
-- Pandey B, Ventura C. 2019. Lessons learned from Nepal Earthquake from damages observed in buildings with low-strength masonry and non-ductile RC construction, Confrence proceeding, 12th Canadian conference on earthqauke enginering, Quebec, Canada.
-- Shrestha Gurung S, Pradhan S, Shrestha S. 2015. Status of Building Code Compliance: A case study in Karyavinayak Municipality. Conference Proceeding, International Symposium on New Technologies for Urban Safety of Mega Cities in Asia (USMCA).
-- Shrestha S, Dixit A. 2008. A hierarchical system for training and awareness raising at grass roots level: experiences of nset from earthquake-resistant housing reconstruction in Pakistan, Proceedings of 14th World Conference on Earthquake Engineering, Beijing, China.
-- Thapa N. 1989. Bhadau Panchko Bhukampa 2045 [Earthquake of 21 August 1988].
-
-# **Chapter 10 Seeing the Forest Through the Trees: Assessing Urban Forest Values Using a Combination of LiDAR, Timber Species Identifier, i-Tree Eco and GPS Ground Surveys**
-
-## ![](_page_152_Picture_1.jpeg)
-
-**Julia Alards-Tomalin, Laurie Stott, Jace Standish, Mike Parlow, and D'Laine Robertson-Hooper**
-
-**Abstract** The goal of the study was to test the efficacy and efficiency of LiDARderived models based on ground survey observations, and the Forsite Timber Species Identifier (TSI) system for the assessment of urban forest stands and associated ecological services as defined by the US Forest Service i-Tree Eco application tool. Students and faculty from the British Columbia Institute of Technology conducted field surveys across eight urban forest areas from 2015 to 2018 in the City of Maple Ridge, a municipality located in the Pacific Northwest of British Columbia, Canada. Two models were created and applied at each site. The first, referred to as the local model, was created using tree samples from the local site. The second, the all-ground truth or AGT model, was created using all trees from all areas. Both models generated an attributed tree layer compatible with the input required for i-Tree Eco. Species composition and total compensatory value for the local, AGT, and field samples were used to generate i-Tree Eco ecosystem services reports for each of the eight study areas. Results were compared to assess variation between field data and the local and AGT models.
-
-#### **10.1 Introduction**
-
-The main focus of this study was to develop and assess a method for utilizing GNSS survey-grade technology, i-Tree Eco field methods, and the Timber Species Identifier (TSI) LiDAR analysis to locate, identify, and measure urban trees with the intent of
-
-J. Alards-Tomalin (B) · L. Stott · J. Standish British Columbia Institute of Technology, Burnaby, Canada e-mail: [jalardstomalin@bcit.ca](mailto:jalardstomalin@bcit.ca)
-
-M. Parlow · D. Robertson-Hooper Forsite Consultants Ltd, Salmon Arm, BC, Canada 150 J. Alards-Tomalin et al.
-
-using the resultant data with the US Forest Service i-Tree Eco application to calculate the ecological values of urban forest areas.
-
-This study required the development of field methodology for data capture and a pilot process to refine and assess the method to ensure efficacy, repeatability, and accuracy. Several coordinated field days over 4 years were organized and executed with students from the BCIT Renewable Resource Diploma programs to collect tree data using survey-grade GNSS equipment.
-
-Observations were made at eight sites; 7 publicly owned plus an area within a private woodlot. All sites were located in the City of Maple Ridge, British Columbia, Canada. The sites varied in size and tree cover type. Sites included parkland, undeveloped municipal forest, and a section of a local city street. The GNSS tree data was processed and exported to a geographic information system format and then shared with industry partner Forsite, a firm specializing in LiDAR data analysis for forestry applications.
-
-Forsite used the field data dataset to develop and train several TSI models for forest canopy analysis of the eight study area sites. The TSI models and LiDAR data generated a complete survey of all trees within each study area and this data was then used—as was the data generated in field data surveys—as input data for i-Tree Eco projects and the generation of a series of i-Tree reports and analysis of ecological services of trees for each area.
-
-The primary goal of this project was to determine if LiDAR technology paired with GNSS and i-Tree technology provided a viable tool for municipalities and urban land managers to determine the values and ecosystem services of urban forest areas for the purpose of assessment, monitoring, and management of these resources. The study team developed a method for data acquisition, data processing, and analysis that produced data compatible for use with the i-Tree application. The method needed to be such that it could be repeated and implemented in other areas of BC.
-
-The initial stages of this project began in 2015. Under the supervision of Laurie Stott, students in the FWR and FNAM programs conducted initial data collection in the Silver Valley area of Maple Ridge. In 2016, six new sites in addition to the Silver Valley area were sampled: 224th Street, Albion, Maple Ridge Park, North Alouette Regional Greenway, Horseman Park, and Woodlot 0007. The sites were selected for their diversity in characteristics such as tree species, density, and development. In 2018, a municipal-owned portion of Thornhill area was added and sampled.
-
-The combined survey data accumulated over the course of this project was submitted to Forsite for analysis using their TSI system and the LiDAR data provided by the City of Maple Ridge. The data went through a multiphase process to create, train, and check the TSI model being developed (Fig. 10.1\). The sample survey field data was used to train the program to identify trees and segment or "draw" their crown boundaries. From 628 trees collected in field surveys, 47,958 trees were identified using the TSI model. TSI also provides tree metrics such as the height, diameter at breast height of 1.3 m (DBH), and crown dimensions of each tree it identified (Forsite Technology 2019\). The TSI generated tree canopy, as a complete census of the forest area within each study site, could then be run through the i-Tree Eco application using the complete inventory option.
-
-## ![](_page_154_Picture_3.jpeg)
-
-![](_page_154_Picture_4.jpeg)
-
-**Fig. 10.1** Forsite's Timber Species Identifier (TSI) model creation process (AOI = Area of Interest; QC = Quality Control)
-
-#### **10.2 Methods and Materials**
-
-The ESRI GIS digital mapping software Arc Map Desktop was used to create the eight study area boundaries and to create an area grid. As per the instructions in the i-Tree Eco manual for sample studies, a fixed grid and sample areas with dimensions 20 × 20 m spacing was created within each study area (i-Tree Eco Users Manual v 6.0, 2018). The grids were randomly sampled without stratification and used to create maps for navigation and coordination of work by field crews (Fig. 10.2\). Students received training in the i-Tree Eco method before each field session and completed the studies as part of their regular classwork.
-
-Upon navigation to their assigned sample grid, crews marked the center of the grid in 2015 and 2016 with a recorded GNSS point. In 2018, this method was modified and crews recorded the position for the NE corner and measured out the grid with compass and chain and then marked the four corners of the grid with pin flags. This was done to improve the accuracy of the grid area and to provide a better reference for observations of trees within each grid.
-
-Each tree was measured with a DBH tape and laser for height-class determination. Distance and bearing to the tree from a grid corner were recorded as well as i-Tree Eco attributes listed below (i-Tree Eco Field Guide v 6.0, 2018). Note that while Crown Light Exposure and percent dieback were collected in the field, they were not included in the i-Tree Eco analysis as LiDAR and TSI data did not include this data and could thus not be compared to field data results.
-
-152 J. Alards-Tomalin et al.
-
-## ![](_page_155_Picture_1.jpeg)
-
-**Fig. 10.2** Randomly selected 20×20 m grids laid over an unstratified area of interest were surveyed by student crews
-
-- • Species
-- DBH (diameter breast height)
-- Total height
-- Height to live crown
-- Height to crown base
-- Crown width North–South
-- Crown width East–West
-- Crown light exposure (CLE)\*
-- Percent dieback\*
-
-The forest consulting firm "Forsite" was hired to provide an independent review of project field data and to conduct a quality assessment field test. The Forsite crew tested student data results at 10 plots across all sample sites. Their results indicate that student data accomplished an 80% or higher degree of accuracy. Issues identified included two plots where trees were missing or the grid location identified by Forsite may not have aligned with the grid completed by student groups. The effect of this on the overall result is in part mitigated by the TSI LiDAR analysis process where trees not matched from the ground data to LiDAR canopy were discarded from the model.
-
-GNSS position accuracy can be negatively affected when standing close to tree stems and under canopy due to multipath and signal attenuation. To increase accuracy and mitigate these errors, the receiver operator stood several meters away from the tree stem and used an offset function to set distance and bearing to the tree stems within the grid. Crew members recorded tree measurements and called observations to receiver operator who recorded values and tree positions.
-
-Field observations for individual trees, referred to as "ground truth points" by Forsite LiDAR analysts, and were processed for use in TSI for all study sites. A total of 628 points were provided and 378 trees were identified in the LiDAR data by the analyst. The ratio of trees surveyed to the number of trees identified computes to a quality control (QC) retention rate of 60.2%. Field collection points were not used if the analyst at Forsite could not find a tree near the point or did not have a high enough confidence that a given point belonged to a specific tree. The processing of the ground truth data was difficult. Some of the issues may be related to the diversity of species, the challenges associated with accurately measuring tree heights in dense stands of trees, the error in GNSS tree locations, accurate navigation to grid sites caused by multipath propagation, and access to satellite coverage.
-
-The study also assessed whether or not a TSI-derived model trained with trees from all study sites would have a higher success rate of species prediction than a model trained with trees from specific local sites. For this reason, the study used two different TSI model methods to assess species, the coniferous–deciduous split, and ecosystem values across all eight areas. Each area was tested with both a local and global model. Eight "local" models were created (one for each park) and one "all ground truth" (AGT) global model based on all the trees surveyed across all sites.
-
-#### **10.3 Results**
-
-Local models were trained with tree ground-truth points specific to each of the eight areas. When a local model was run with the TSI LiDAR analysis, the result included a much lower species diversity than the AGT model and represented only species present at the site. In most cases, the species diversity in the model was less than the species diversity in the ground study because species with few ground sample observations were not represented in the TSI generated model, which requires a minimum number of replicates to recognize species in a LiDAR cloud. Conversely, the AGT model, which included all ten species recorded in all eight sites, often found more diversity than existed in the local site as it tended to "see" species that were not present. That said, the AGT model was also often able to identify the singular or rare tree species missed in the local model.
-
-To evaluate results produced by both the local and AGT models, a ground truth calibration test was completed. In this test, the accuracy of the species selection by each model for a given tree point is compared to the original data from the ground sample data. As the trees used in this test were used to train the TSI model, the model should be able to identify these trees with a high degree of accuracy.
-
-154 J. Alards-Tomalin et al.
-
-In a future analysis, a set of 30 control points (trees) not used to train and create the model will be used to test and assess results. The research team intends to work with Forsite to evaluate the effectiveness of the models generated in this study to accurately predict tree species at these 30 control points. In addition to these 30 points, 10 additional grids adjacent to one of the study areas were completed in 2019 and this additional data will assist in the assessment of LiDAR-derived models' ability to accurately assess species in urban forest areas.
-
-Ground and LiDAR models, as they are presented here, were used to compare ecosystem values for two study areas: 224th street and Thornhill. Due to time constraints and the large amount of data collected and generated during the course of this project, the study team decided to focus on these two areas to present preliminary results. The first area, 224th Street, represents a complete survey and a developed, urban, street-tree example of an urban forest site. The area is one km long and encompasses street trees along both sides of a two-lane urban street lined with sidewalks and a mix of residential and commercial buildings. A total of 114 trees were collected in the ground survey for this area and the study was conducted in 2016. The second area, Thornhill, is located in a rural location and the study site is an 8.26 hectare urban forest with old-growth attributes. This area was sampled with randomly selected grids, and data on 175 trees were recorded in 2018.
-
-At the 224th Street site, the local model marginally outperformed the AGT model in correctly identifying tree species when tested against itself (81.6 vs. 80.6%). However, the AGT model was able to correctly identify the single cedar tree on site, where the local model missed or ignored this tree species type. At the Thornhill site, both the local model and the AGT model had a high accuracy rate for distinguishing conifer from deciduous trees (98.8 and 99%). Both models were less successful at identifying Douglas fir trees for which there were few sample replicates. The local model completely failed to identify Douglas fir trees in the area while the AGT model was only able to identify Douglas fir trees correctly 40% of the time (Fig. 10.3\). More field testing is required to understand the reason for the error and minimum sample numbers needed for a more accurate assessment of tree species in Pacific Northwest stands.
-
-Preliminary results indicate that local models have a tendency to exclude species with few samples in the field data surveys. The AGT models have a contrary tendency and tend to overestimate species diversity and predict trees not present on the site but which are present in the field sampling set for all field samples. The local models are often closer to being correct, despite missing the species that exist in limited numbers (Fig. 10.4\). Both the local and AGT models also tend to over-predict the number of deciduous trees as the TSI tool often assumes that clumps of branches on deciduous trees are separate trees rather than the different parts of one large tree.
-
-## ![](_page_158_Figure_2.jpeg)
-
-**Fig. 10.3** Comparison of all ground truth and local models at Thornhill, Maple Ridge, BC, Canada. Douglas fir, shown in red, was predicted by the AGT model but missed in the local model
-
-156 J. Alards-Tomalin et al.
-
-## ![](_page_159_Figure_1.jpeg)
-
-**Fig. 10.4** Species comparison across field sampling, local models, and AGT models. Local models tended to simplify the results and would miss out on species that occurred in small amounts. However, the AGT model tended to over-predict certain species, which meant that the local models often achieved better overall results
-
-#### **10.4 Discussion**
-
-Several factors impacted the comparison of the AGT and local model predictions. At the 224th Street site, the LiDAR-TSI identified trees at the boundary of the study area and picked up trees along the outside or non-street edge of the street. The additional trees captured by the LiDAR-TSI analysis caused the models to generate a higher number of trees in the 224th Street area for both local and AGT models than existed in the complete survey completed by the field crew.
-
-Predictions in the Thornhill area were impacted by other factors. During the field sampling phase, the site was not stratified into timber types. While this was consistent with the method employed across the other site locations, stratification at this site with aerial imagery interpretation would have ensured that large stands of deciduous and maple tree areas were included in field surveys. The random selection of field survey plots at Thornhill did not fall within areas dominated by deciduous trees; as a result, the field survey data has a low representation or ratio of these trees in the species composition and i-Tree calculations. The percentage of deciduous trees, such as maple and alder, had a much higher representation in both the local and AGT models and the LiDAR-TSI analysis. Aerial imagery and comparison to the LiDAR-TSI results was used to confirm the presence and extent of the deciduous stands within the Thornhill study area (Figs. 10.3 and 10.4\).
-
-Another potential source of error exists in species identification in both the field and the TSI analysis. Most urban greenbelt tree species in Maple Ridge are native to BC and are limited to some species types. It was fairly easy for the model to identify trees in these stands. However, greenbelt and larger forested areas are less common in many urban and developed areas, and it may be that the LiDAR-TSI method will find it more difficult to identify a highly variable canopy with unfamiliar and uncommon exotic species. Even if properly identified by the field observer, the few and often highly variable instances of replicates in a sample for an exotic species may not be sufficient for the TSI analysis.
-
-The TSI system requires a minimum number of replicates to identify a given species. The system will identify a tree and give a species ranking based on the most likely species type when compared with replicate field samples and LiDAR-TSIderived models. The system also gives a second and third likely species rank with lower percentile probabilities. For example, a tree may be identified as a Douglas fir with 87% probability, followed by a 63% probability for western hemlock, and a 50% probability for western red cedar.
-
-In this study, the models created with TSI identified coniferous and deciduous species with a 90% + accuracy. Based on a preliminary analysis of the data and spot checks of TSI result data tested against itself and verified with the field observations used to train the model, the results present an 80% + level of accuracy overall for species identification.
-
-As to the significance and requirement for species identification accuracy, initial testing of data from a site located in Silver Valley, a stand with mainly native species and mixed and mature coniferous and deciduous second-growth trees, indicates that the effect of different tree species on i-Tree Eco derived ecological and economic values is not statistically significant. LiDAR-TSI data provides three potential species, ranked by percentage probability, for each tree. The results of the comparison between species probabilities (P1, P2, P3) provided in the LiDAR-TSI data for trees in the Silver Valley indicate that the crown dimension and type (deciduous or coniferous) are the determinant factors in the calculation of ecosystem values for a tree (Fig. 10.5\).
-
-While incorrect species identification with the TSI tool would affect considerations like pest management for a stand, incorrect species information from LiDAR-TSI-derived data may not result in a significant difference in estimating the economic and ecosystem value of, for example, a red alder versus a paper birch. This is a theory that could be tested in future studies using data collected from this project and from other areas. If proven true, it may be a significant factor in the employment and use of LiDAR for urban canopy assessment. This type of data is increasingly available 158 J. Alards-Tomalin et al.
-
-## ![](_page_161_Figure_1.jpeg)
-
-**Fig. 10.5** Ecosystem values comparison across species probabilities generated in LiDAR-TSI local model for Silver Valley area in Maple Ridge, BC, Canada. Initial analysis indicates that crown dimension and type may be more significant for calculation of ecosystem values than species to many urban areas and is a dataset that can be employed for multiple uses. The cost and time required for an urban canopy survey could be greatly decreased if the number of ground samples required to complete an i-Tree Eco analysis can be diminished and LiDAR can be used to generate a full attributed tree layer for a given area or local region.
-
-The resultant data could provide a valuable tool for the assessment and management of urban forests. That said, LiDAR data is not without some significant challenges. Depending on what time of year (even what time of day) and the type of scanner used for a flight, LiDAR imaging of trees can and do record different wavelengths and signatures for trees. This means that the same tree species can appear and present very differently in the same dataset if the flight took place over several days or weeks. Trees grow and are affected by pest and weather events, and thus, older LiDAR data is less useful, and it will become increasingly difficult to match aging LiDAR data to ground survey data with the TSI system. Small trees and shrubs in the sub-dominant canopy layer can also be difficult to detect (Richardson and Moskal 2011\). Crown diameter and vertical crown dimensions have a tendency to be underestimated as well (Roberts et al. 2005). In this study, LiDAR-TSI-derived canopy misrepresented large deciduous trees by assuming a greater stem count by incorrectly segmenting a broad crown for a single tree into several crowns with multiple stems.
-
-The use of LiDAR for forest assessment has been limited in the past due to the difficulty and cost associated with acquiring and processing LiDAR data (Shojanoori and Shafri 2016\). However, as costs decrease and large-scale acquisition of LiDAR for multiple purpose use by government and private agencies occurs, coupled with advances in LiDAR acquisition and processing, this technology offers an increasingly economical, efficient and accurate assessment tool for forest inventory and management (Evans et al. 2009; Galik 2016\). This is particularly true in urban areas where LiDAR data for engineering and flooding mitigation now exists for many communities.
-
-In British Columbia, the provincial government commissioned a large-scale acquisition of LiDAR data for the lower mainland and southern interior region in 2016 with the intention of completing the province over the next several years. Many urban communities in BC have commissioned their LiDAR datasets, many of which are available upon request or through open data portals. The acquisition and availability of LiDAR data in BC support the use of TSI for the inventory of urban forest canopy and assessment of ecosystem services provided by trees with the i-Tree Eco application.
-
-#### **10.5 Conclusion**
-
-Preliminary results indicate that the use of GNSS, LiDAR, TSI, and i-Tree is an efficient and accurate method for the inventory and assessment of urban forests. Further study is needed to confirm and test the results found here. But, if proven to be in line with the results from other regions and field studies, this method could provide local governments with the means to limit the cost and time required to complete a tree canopy survey, assess the ecosystem and economic benefit of trees in their community, predict effects of storm events, develop planting plans, and identify trees vulnerable to pest outbreaks.
-
-**Acknowledgements** This project was made possible by funding from BCIT's Advancing Green Value Strategies in Development—Applied Research Endowment, in partnerships with Forsite Consultants Ltd, Davey Tree, City of Maple Ridge, i-Tree Eco application and resources and the Renewable Resource Department at BCIT. Students from the Forest and Natural Areas Management (FNAM) program and Fish, Wildlife and Recreation (FWR) program at BCIT participated in data collection and were invaluable in the completion of this study.
-
-#### **References**
-
-Evans, J., A. Hudak, R. Faux, and A. M. Smith. 2009. Discrete Return Lidar in Natural Resources: Recommendations for Project Planning, Data Processing, and Deliverables. *Remote Sensing* 1 (4): 776–794. [https://doi.org/10.3390/rs1040776.](https://doi.org/10.3390/rs1040776)
-
-Forsite Technology (2019) Timber species identifier: Use TSI to accurately identify timber species from LiDAR data. [http://www.objectraku.com/products\\_and\\_services/tsi/.](http://www.objectraku.com/products_and_services/tsi/) Accessed 5 January 2019.
-
-Galik, C. S. (2016). Contributions of LiDAR to Ecosystem Service Planning and Markets: Assessing the Costs and Benefits of Investment. NI WP 16-06. Durham, NC: Duke University. https://pdfs.[semanticscholar.org/8346/02b551e59786cf6f79772d1d6dfabd814905.pdf. Accessed 15 January](https://pdfs.semanticscholar.org/8346/02b551e59786cf6f79772d1d6dfabd814905.pdf) 2018.
-
-i-Tree Eco Users Manual v 6.0 (2018) [https://www.itreetools.org/resources/manuals/Ecov6\\_Man](https://www.itreetools.org/resources/manuals/Ecov6_Manuals Guides/Ecov6_Users Manual.pdf) uals Guides/Ecov6\_Users Manual.pdf. Accessed 10 January 2018.
-
-160 J. Alards-Tomalin et al.
-
-i-Tree Eco Field Guide v 6.0 (2 018) https://www.itreetools.org/resources/manuals/Ecov6\_Manual[s Guides/Ecov6\\_Field Manual.pdf. Accessed 10 January 2018.](https://www.itreetools.org/resources/manuals/Ecov6_Manuals Guides/Ecov6_Field Manual.pdf)
-
-- Richardson J J, & Moskal, M (2011) Strengths and limitations of assessing forest density and spatial configuration with aerial LiDAR. Remote Sensing of Environment, 115(10), 2640–2651. [https://www.sciencedirect.com/science/article/pii/S0034425711002033?via%3Dihub.](https://www.sciencedirect.com/science/article/pii/S0034425711002033%3fvia%253Dihub) Accessed 16 September 2018.
-- Roberts, S. D., Dean, T. J., Evans, D. L., Mc Combs, J. W., Harrington, R. L., & Glass, P. A. (2005) Estimating individual tree leaf area in loblolly pine plantations using LiDAR-derived measurements of height and crown dimensions. Forest Ecology and Management, 213, 54–70. [https://www.srs.fs.usda.gov/pubs/ja/ja\\_roberts003.pdf.](https://www.srs.fs.usda.gov/pubs/ja/ja_roberts003.pdf) Accessed 16 September 2018.
-- Shojanoori R, & Shafri H Z (2016) Review on the use of remote sensing for urban forest monitoring. Arboriculture & Urban Forestry, 42(6), 400–417. https://www.researchgate.net/publication/310[491586\\_Review\\_on\\_the\\_use\\_of\\_remote\\_sensing\\_for\\_urban\\_forest\\_monitoring. Accessed 16](https://www.researchgate.net/publication/310491586_Review_on_the_use_of_remote_sensing_for_urban_forest_monitoring) September 2018.
-
-# **Chapter 11 Restoration of an Urban Creek Water Quality Using Sand and Biochar Filtration Galleries**
-
-## ![](_page_164_Picture_1.jpeg)
-
-**Samira Jalizi, Ken Ashley, and Colleen C. V. Chan**
-
-**Abstract** Stormwater runoff from roads and parking lots often contains toxic pollutants which may pose risks to biota in receiving aquatic systems. Low impact development (LID) designs such as rain gardens and infiltration swales can improve stormwater quality. Adding biochar as a soil amendment or standalone filtration layer can enhance pollutant removal. Biochar exhibits surface properties, allowing for high sorption of inorganic and organic toxic pollutants such as heavy metals, petroleum hydrocarbons, and pesticides. Biochar production is cost-effective and can be an environmentally sustainable technology. The objective of this paper is to investigate the efficacy of biochar as a filtration media for removing naphthalene, copper, and zinc found in a heavy use parking lot in Burnaby, BC, Canada. A commercially available biochar was used as the filtration media, while sand was used as a benchmark filtration media. Effects of runoff pH, contaminant concentrations, total organic carbon concentration, and biochar size on removal efficiency were examined. Filtration experiments using biochar showed high copper and zinc removal similar to sand. However, biochar filters showed a higher naphthalene removal efficiency compared to sand. Results from the study showed that biochar is a promising filtration media for LIDs in storm water source control designs.
-
-**Keywords** Biochar · Parking lot stormwater · Naphthalene · Stormwater management · Heavy metals · Stream restoration
-
-#### **11.1 Introduction**
-
-Alteration in land use due to urbanization has drastically changed the local environment, influencing the quantity and quality of aquatic ecosystems (Goonetilleke et al. 2005\). Urban stormwater is believed to result in 15% of all impaired river miles (61,338.5 km), 18% of all impaired lakes (3838.1 km2), and 32% of all impaired estuaries (7101.7 km2) in the United States (Erickson et al. 2013; Sivora 2015\). The
-
-## S. Jalizi (B) · K. Ashley · C. C. V. Chan
-
-British Columbia Institute of Technology, Burnaby, Canada e-mail: [samira.jalizi.s@gmail.com](mailto:samira.jalizi.s@gmail.com)
-
-deleterious effects of urbanization on aquatic ecosystems include biological (e.g., decreased biotic richness, with increased dominance of tolerant species), chemical (e.g., elevated concentrations of contaminants and nutrients), and physical changes (e.g., a flashier hydrograph and altered channel morphology) (Klein 1979; Walsh et al. 2005, 2012; Erickson et al. 2013\). Nowadays, it is accepted that an effective green infrastructure is the essential component of the responsible rainwater management which has resulted in a transition from pipe and convey solution to the solutions that incorporate "designing with nature" to protect our streams and fishery resource before degradation takes place. Science-based approaches for designing with nature and implementing green infrastructure in early stages of development, provide an effective solution in protecting watershed and urban stream health, cutting the needs for subsequent expensive and intrusive restoration treatments and making land development and stream health compatible. The use of decentralized systems by municipalities for the treatment, utilization, and detention of stormwater is increasing due to water shortages, flooding, and the costs associated with the combined treatment of storm and wastewater. Structural best management practices (BMPs) or low impact designs (LIDs) are increasingly used to reduce urban runoff peak flows as well as the amount of stormwater-based pollutants entering the receiving water environment (Eriksson et al. 2007\). BMPs and LIDs for reducing stormwater pollutants typically involve filtration through sand or soil, and/or uptake of contaminants by vegetation (i.e., infiltration swales, rain gardens).
-
-Heavy metals including zinc (Zn) and copper (Cu), and polycyclic aromatic hydrocarbons (PAH) are two main groups of priority pollutants found in parking lots that are prevalent, toxic to aquatic organisms, and are persistent in the environment (Borchardt and Sperling 1997; Brown and Peake 2006\). Cu is a common olfactory toxicant, even at lower concentrations, and has been identified as an information disrupting chemical (IDC) for more than three decades (Kennedy et al. 2012\). Zn has low toxicity to people while having high toxicity to fish. It can be easily bioaccumulated in stream invertebrates which are a crucial food source for juvenile salmonids during rearing in freshwater systems. Reduced growth and survival, as well as increased rate of disease are some of the fish symptoms in Zn-contaminated waters (Bowen et al. 2006\). PAHs are potentially carcinogenic chemicals which are ubiquitous in the urban environment. Impervious surfaces in urbanized areas usually contain high amounts of PAH (Murakami et al. 2004; Lau and Stenstrom 2005; Zhao et al. 2009; Wang et al. 2010\). Naphthalene (NAP) is a low-molecule weight (LMW) hydrocarbon and is one of the 16 PAHs that has been identified as primary pollutants by United States Environmental Protection Agency (USEPA 2013\). It is one of the most detected PAHs in urban environments (Heintzman et al. 2015\).
-
-Having a high amount of carbon, biochar is derived from diverse biomass residues such as wood by-products, manure, and agricultural residues. It is produced through a process called pyrolysis or charring (Sohi 2012\). Biochar is traditionally applied to soil to enhance agricultural gains and carbon sequestration (Tan et al. 2015\). Recently, there has been increased interest in using biochar to remove chemical contaminants from water, wastewater, and stormwater due to its distinct physico-chemical characteristics such as porous structure, mineral constituents, large specific surface area, and enriched surface functional groups. Biochar is cost-effective to produce and can potentially be an environmentally sustainable, cost-effective technology for the removal of toxic pollutants in stormwater.
-
-The foremost goal of this study was to investigate the feasibility of using biochar as a new, sustainable, and inexpensive absorption media in infiltration galleries for the removal of heavy metals including Cu and Zn, and a representative PAH (i.e., NAP) from stormwater discharging into Guichon Creek at a college student parking lot. To reach this goal, the following objectives were pursued: (1) Determining environment relevant concentrations of target heavy metals and NAP in stormwater runoff from the above-mentioned parking lots using current literature review, and implementing water sampling on site. (2) Investigating the ability of a commercially available biochar in removing Cu, Zn, and NAP through laboratory column filtration treatments. This research focused on the following question: Is biochar more efficient than sand in removing pollutants including Cu, Zn, and NAP from stormwater?
-
-#### **11.2 Materials and Methods**
-
-#### *11.2.1 Water Sampling*
-
-To determine environmentally relevant concentrations found typically in a parking lot, parking lot runoff samples were collected from five rain events at six storm drains at two college (BCIT) student parking lots located in Burnaby, British Columbia, Canada (parking lots D and F, as shown in Fig. 11.1\). Water quality parameters including temperature and pH were measured using YSI Professional Plus multiparameter meter on site. La Motte 2020 we Portable Turbidity Meter Kit was used to measure turbidity of water samples on site. Water samples were preserved and transferred to the lab for heavy metals (Cu and Zn) and total organic carbon (TOC) analysis (methodology described later).
-
-## *11.2.2 Biochar Characteristics and Absorbent Media Preparation*
-
-A commercially available biochar (derived from pine wood chips) from Biochar Now (LLC), Colorado, USA was used in this experiment. Prior to use the biochar, sand, and pea gravel were prepared by washing with distilled water and drying overnight in an oven at 120 °C.
-
-![](_page_167_Picture_2.jpeg)
-
-**Fig. 11.1** BCIT Parking Lot Stormwater Sampling Location, Burnaby, BC
-
-## *11.2.3 Experimental Design*
-
-The relevant range of desired water quality parameters and pollutant concentration were determined through a comprehensive literature review and stormwater sampling on site. Two ranges of pollutant concentration (low and high range, i.e., 50 and 800 μg/l Cu, 200 and 1800 μg/l Zn, 10 and 1000 μg/l NAP), two levels of TOC concentration (zero and 25 mg/L), two levels of pH (6.5 and 8.5) were chosen to be added to 80 L of deionized water to prepare the synthetic stormwater for column filtration experiments. Three levels of particle size (i.e., small biochar < 0.3 mm, medium biochar, 0.3–0.7 mm and river sand as control) were used as absorbent media. A full factorial design was used as the experimental design.
-
-#### *11.2.4 Column Filtration Treatments*
-
-Ten PVC pipes (100 cm length and 10 cm diameter) were used for the column filtration treatments. They were filled with the prepared biochar or sand depending on the treatment. Five centimeters of pea gravel were used at each end of the columns to help with drainage. Synthetic stormwater was prepared using Cu reference standard solution (1,000 ppm ± 1%) from Fisher Scientific, Zn reference standard solution (1,000 ppm±1%) from Fisher Scientific, and NAP crystals (99% purity) from Sigma-Aldrich. Humic acid sodium salt (70% purity) from Fisher Scientific was used as TOC representative in synthetic stormwater. During each treatment application, 80 L of synthetic stormwater was continuously discharged to the column and water sampling was performed after each 10 L until all water was out of the column. A total of eight samples of the column effluent was collected for analysis. 300 mL air tight glass amber bottles were used for collecting samples, each samples had two replicates. All treatments were conducted at room temperature.
-
-#### *11.2.5 Sample Analysis*
-
-The concentration of heavy metals in water samples from the parking lot and also from column treatments were determined using graphite furnace (EPA method 7010) and atomic absorption spectroscopy (AA) (EPA method 7000B). To define NAP concentration in water samples, gas chromatography mass spectrometry (GC–MS) was used (EPA method 5021). For TOC analysis, TOC TNT plus vial test kit (1.5– 30.0 mg/L C) (UEPA method 10267) from Hach, and the DR6000 spectrophotometer from Hach were used. External standards were used in the analysis, as well as blanks and duplicate samples as a quality control measure. The pore volume of the biochar and sand used in these treatments was measured through a tracer test and found to be 10 L for these filters. To test the heavy metal and NAP contribution of biochar and sand, a blank filtration experiment using deionized water was conducted.
-
-#### *11.2.6 Statistical Analysis*
-
-Concentration difference of pollutants in influent and effluent water samples was used as the indicator of the removal capability of the absorbent media (Komkiene and Baltrenaite 2015\) (Eq. 11.1\):
-
-$$RE = \frac{C_{Influent} - C_{Effluent}}{C_{Influent}} *100$$
-## (11.1)
-
-## where RE = the removal efficiency in percentage
-
-## C Influent = concentration at the influent
-
-## C Effluent = concentration at the effluent
-
-Factorial ANOVA was performed for statistical analysis of the results using SPSS 20 software at 95% confidence (α = 0.05). A factorial ANOVA compares means across two or more independent variables simultaneously. In factorial ANOVA, each level and factor are paired up with each other. This helps to discover what kind of 166 S. Jalizi et al.
-
-interactions exist among different levels and factors. Tukey's post-hoc tests were used for comparing means. Tukey's post-hoc tests are run to confirm where the differences occurred between groups. They are used when ANOVA shows that there is a statistically significant difference in group means.
-
-## **11.3 Results**
-
-## *11.3.1 Physico-Chemical Characterization of Campus Parking Lot Stormwater*
-
-Stormwater samples of BCIT parking lot were collected from September 2017 through March 2018. General water chemistry was analyzed from a total of 20 samples for parking lot D and 22 samples for parking lot F collected during five storm events (Table 11.1\). 24-h rainfall for each event were obtained from the Weather Network (Source: [www.theweathernetwork.com\)](http://www.theweathernetwork.com).
-
-Result from general water chemistry analysis of stormwater samples are summarized in Table 11.2.
-
-**Table 11.1** Characteristics of stormwater sampling events from BCIT parking lot F and D, 2017– 2018. Antecedent days represent number of days between two subsequent rainfalls
-
-| Event | Sample dates | Sample<br>duration<br>(Hours) | Start–End time | 24 h rainfall<br>(mm) | Antecedent<br>days |
-|-------|--------------|-------------------------------|-------------------|-----------------------|--------------------|
-| 1 | 08/09/2017 | 1.00 | 9:00 am–10:00 am | 3.4 | 25 |
-| 2 | 09/09/2017 | 0.50 | 10:40 am–11:30 am | 5.4 | 0 |
-| 3 | 12/10/2017 | 3.15 | 10:30 am–1:45 pm | 31.4 | 0 |
-| 4 | 08/03/2018 | 6.05 | 8:10 am–2:15 pm | 16.8 | 3 |
-| 5 | 13/03/2018 | 3.25 | 11:50 am–3:15 pm | 9.1 | 4 |
-
-**Table 11.2** Overall range of different water parameters from all rain events from BCIT parking lot F and D, 2017–2018
-
-| Parameter | Temperature<br>(°C) | pH | Turbidity<br>(NTU) | Pb<br>(μg/L) | Zn<br>(μg/L) | Cu<br>(μg/L) | TOC<br>(μg/L) |
-|-----------|---------------------|---------|--------------------|--------------|--------------|--------------|---------------|
-| Range | 8.3–20.5 | 6.3–7.7 | 3–37 | 1–15 | 14–450 | 4–117 | 13–50 |
-
-![](_page_170_Figure_2.jpeg)
-
-Fig. 11.2 Overall Cu removal percentage by three different absorbent media. Error bars represents deviation based on two replicates
-
-#### 11.3.2 Column Filtration Experiments
-
-A factorial ANOVA was conducted to compare the main effect of concentration, pH, TOC, and particle size and the interaction effect between them on Cu, Zn, and NAP removal by biochar and sand. From the results, only the overall percentage removal of heavy metals and NAP are presented in this paper.
-
-#### 11.3.2.1 Cu Removal
-
-The main effect for absorbent media (i.e., sand, medium biochar, small biochar) resulted in an F ratio of F (2, 24) = 7.2 and p = 0.003, indicating statistically significant difference in Cu removal among medium size biochar (M = 48.5%, SD = 44.5), small biochar (M = 59.2%, SD = 41.6), and sand (M = 54.7%, SD = 46.3) (Fig. 11.2). Post-hoc comparisons using the Tukey's HSD test indicated that the mean Cu removal for medium biochar (M = 48.5%, SD = 44.5) was significantly different than small biochar (M = 59.2%, SD = 41.6) (Fig. 11.2). However, the sand's ability to remove Cu (M = 54.7%, SD = 46.3) did not significantly differ from the medium biochar and small biochar.
-
-#### 11.3.2.2 Zn Removal
-
-There was a significant main effect of absorbent media type on Zn removal (F (1, 24) = 35.6), p < 0.05, meaning that three different absorbent media (medium biochar (M = 52.7, SD = 30.8), small biochar (M = 78.0%, SD = 23.4), and sand (M = 88.4%, SD = 18.5) absorbed different amounts of Zn from synthetic storm water (Fig. 11.3). Post-hoc comparisons using the Tukey's HSD test indicated that the mean Zn removal for medium biochar (M = 52.7%, SD = 30.8) was significantly different
-
-168 S. Jalizi et al.
-
-## ![](_page_171_Figure_1.jpeg)
-
-Fig. 11.3 Overall Zn removal by different absorbent media. Error bars represents deviation based on two replicates than small biochar (M = 78.0%, SD = 23.4) and sand (M = 88.4%, SD = 18.5) (Fig. 11.3). However, the small biochar ability to remove Zn did not significantly differ from sand
-
-#### 11.3.2.3 NAP Removal
-
-The main effect for absorbent media resulted in a F ratio of F (2, 24) = 57.8, p < 0.05, indicating statistically significant difference in NAP removal among medium size biochar (M = 81.8%, SD = 15.1), small biochar (M = 76.5%, SD = 21.5), and sand (M = 15.1%, SD = 21.1). Post-hoc comparisons using the Tukey's HSD test indicated that the mean NAP removal for medium biochar (M = 81.8%, SD = 15.1), was significantly different from sand (M = 15.1, SD = 21.1). However, the medium biochar's ability to remove NAP did not significantly differ from the small biochar (M = 76.5%, SD = 21.5) (Fig. 11.4).
-
-#### 11.4 Discussion
-
-## 11.4.1 Constituents of Concern
-
-A constituent of concern is defined as a physical or chemical component in water at adequate concentration to pose potential risks to receiving water biota. To identify the constituents of concern in campus parking lot stormwater, the provincial government water quality guidelines were used: British Columbia Approved Water Quality Guidelines for Aquatic Life, Wildlife and Agriculture (Ministry of Environment and Climate Change Strategy 2018) (Table 11.3). Based on the guidelines, both
-
-![](_page_172_Figure_2.jpeg)
-
-**Fig. 11.4** The overall NAP removal percentage by different absorbent media. Error bars represent deviation based on two replicates
-
-**Table 11.3** Water quality guidelines (WQGs) for total Cu and Zn (*Source* Ministry of Environment and Climate Change Strategy 2018\)
-
-| | Water use | Long-term average<br>(μg/L) | Short-term maximum<br>(μg/l) |
-|----|---------------------------------------------------------------------|--------------------------------------------------|---------------------------------------|
-| Cu | Freshwater Aquatic Life<br>(When Water Hardness ≤<br>50 mg/L CaCO3) | ≤ 2 | WQG = 0.094*<br>hardness + 2 |
-| | Freshwater Aquatic Life<br>(When Water Hardness ><br>50 mg/L CaCO3) | ≤ 3 | WQG = 0.094<br>*hardness + 2 |
-| | Marine and Estuarine<br>Aquatic Life | ≤ 2 | 3 |
-| Zn | Freshwater aquatic life- water<br>hardness ≤ 90 mg/L | 7.5 | 33 |
-| | Freshwater aquatic life- water<br>hardness > 90 mg/L | WQG = 7.5 + 0.75<br>(hardness−90) | WQG = 33 + 0.75<br>(hardness−90) |
+Mineralogy of the bulk concrete was determined from a 5 kg sample that was crushed, pulverized, homogenized, and reduced to the optimum grain-size range for quantitative X-ray analysis (
+50 mg/L CaCO3) | ≤ 3 | WQG = 0.094
+*hardness + 2 |
+| | Marine and Estuarine
+Aquatic Life | ≤ 2 | 3 |
+| Zn | Freshwater aquatic life- water
+hardness ≤ 90 mg/L | 7.5 | 33 |
+| | Freshwater aquatic life- water
+hardness > 90 mg/L | WQG = 7.5 + 0.75
+(hardness−90) | WQG = 33 + 0.75
+(hardness−90) |
 | | Marin life | 10 | 55 |
-| Pb | Freshwater aquatic life (water<br>hardness ≤ 8 mg/L CaCO3) | – | 3 |
-| | Freshwater aquatic life (water<br>hardness > 8 mg/L CaCO3) | WQG ≤ 3.31 + e[1.273 ln<br>(hardness)−4.704] | WQG = e[1.273 ln<br>(hardness)−1.460] |
-| | Marine and estuarine aquatic<br>life | ≤ 2 total lead (80% of values<br>≤ 2 total lead) | 140 |
+| Pb | Freshwater aquatic life (water
+hardness ≤ 8 mg/L CaCO3) | – | 3 |
+| | Freshwater aquatic life (water
+hardness > 8 mg/L CaCO3) | WQG ≤ 3.31 + e[1.273 ln
+(hardness)−4.704] | WQG = e[1.273 ln
+(hardness)−1.460] |
+| | Marine and estuarine aquatic
+life | ≤ 2 total lead (80% of values
+≤ 2 total lead) | 140 |
 
 Cu concentration (4–117 μg/L) and Zn concentration (14–450 μg/L) in the storm samples collected from the parking lots exceeded the permitted concentrations which may pose risk to the aquatic life, specifically salmon, in Guichon Creek (for ranges of concentrations refer to Table 11.2\).
 
@@ -2721,7 +3281,6 @@ We invite you, dear reader, to continue to engage in the movement to build socia
 | to Springer Nature Switzerland AG 2020 | |
 ## | J. Moore et al. (eds.), Ecocities Now, | |
 
-<https://doi.org/10.1007/978-3-030-58399-6>
 
 | Concepción, 61, 63, 77 | Economic growth, 104, 176 |
 |---------------------------------------------------|------------------------------------------------|
@@ -2793,7 +3352,8 @@ We invite you, dear reader, to continue to engage in the movement to build socia
 | Hawken, Paul, 103 | Livable density, 3 |
 | Health, 3, 4, 9, 14, 16, 41, 42, 55, 61, 79, | Lovins, Amory, 103 |
 | 131, 133, 134, 176 | Lovins, Hunter, 103 |
-| Healthy communities, 2 | Low-CO2<br>cement, 107 |
+| Healthy communities, 2 | Low-CO2
+cement, 107 |
 | | Low impact designs, 67, 70, 77, 99, 103, 104, |
 | Healthy culture, 4 | 110, 113, 120, 123, 125, 126, 132, |
 | Healthy soil, 4, 16 | 161, 162, 164 |
@@ -2915,7 +3475,8 @@ We invite you, dear reader, to continue to engage in the movement to build socia
 | Urban communities, 9, 159 | Web of life, 4 |
 | Urban design, vii, viii, 2, 5, 13, 16, 26, 36, | Well-being, 5, 14, 126 |
 | 41, 52, 54, 55, 67, 69, 70, 76, 77, 81, | Wetlands, 41, 47, 51, 55, 57, 67, 71, 72, 76, |
-| 120, 123, 124, 126, 128, 129<br>Urban ecology, vii, 2 | 131 |
+| 120, 123, 124, 126, 128, 129
+Urban ecology, vii, 2 | 131 |
 | Urban environment, 65, 82, 86, 89, 162 | Whole systems, 2 |
 | Urban forest, 150 | Wood by-products, 162 |
 | Urban greenbelt, 157 | |

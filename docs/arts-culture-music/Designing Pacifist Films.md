@@ -1,3 +1,8 @@
+---
+title: "**Paul Goodman**"
+category: "arts-culture-music"
+---
+
 # **Paul Goodman**
 
 ## **Designing Pacifist Films**

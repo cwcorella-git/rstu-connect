@@ -1,3 +1,8 @@
+---
+title: "## **Preaching to the Converted?**"
+category: "contemporary-analysis"
+---
+
 ## **Preaching to the Converted?**
 
 ## **Date:** Unknown

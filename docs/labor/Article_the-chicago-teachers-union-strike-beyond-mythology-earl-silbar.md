@@ -1,13 +1,8 @@
 ---
-title: The Chicago Teachers Union Strike Beyond Mythology Earl Silbar
-date: 2025
-author: Unknown
-tags:
-  - organizing
-  - strikes
-  - unions
-  - rent
-  - labor
+title: "The Chicago Teachers Union Strike Beyond Mythology Earl Silbar"
+author: "Unknown"
+date: "2025"
+category: "labor"
 ---
 
 # The Chicago Teachers Union Strike Beyond Mythology Earl Silbar

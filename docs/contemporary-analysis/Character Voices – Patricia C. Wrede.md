@@ -1,3 +1,8 @@
+---
+title: "## [pcwrede.com](https://pcwrede.com/pcw-wp/character-voices-2/)"
+category: "contemporary-analysis"
+---
+
 ## [pcwrede.com](https://pcwrede.com/pcw-wp/character-voices-2/)
 
 ## **Character Voices – Patricia C. Wrede**

@@ -1,26 +1,8 @@
 ---
-title: >-
-  Book review: <em>Ethnohistory: Emerging Histories in Madagascar.</em> Jeffrey
-  C. Kaufmann
-author: David Graeber
-date: '2004'
-pubdate: '2021-11-28T22:58:57'
-language: en
-source_url: >-
-  Retrieved on 28<sup>th</sup> November 2021 from
-  [[https://www.journals.uchicago.edu/doi/10.1086/jar.60.1.3631029][www.journals.uchicago.edu]]
-notes: >-
-  Published in the <em>Journal of Anthropological Research</em>, 60(1), 145–147.
-  doi:10.1086/jar.60.1.3631029 | See also: David Graeber Institute
-  [[https://davidgraeber.institute/]] & [[https://davidgraeber.org/]]
-topics:
-  - book review
-  - anthropology
-original_format: muse
-converted_date: '2025-11-08T11:25:03.053572'
-tags:
-  - Book Review
-  - Anthropology
+title: ">-"
+author: "David Graeber"
+date: "2004"
+category: "environmental-justice"
 ---
 
 **Ethnohistory: Emerging Histories in Madagascar.** Jeffrey C. Kaufinann, ed. *Ethnohistory*, special issue, vol. 48, nos. 1–2. Durham, N.C., Duke University Press, 2001, 379 pp. $15.00, paper.

@@ -1,26 +1,8 @@
 ---
-title: Re-Thinking Resistance
-author: David Graeber
-date: '2017'
-pubdate: '2023-02-08T17:10:10'
-language: en
-source_url: >-
-  <em>Challenging Capitalist Modernity III: Uncovering Democratic Modernity —
-  Resistance, Rebellion and Building the New</em> (published by Network for an
-  Alternative Quest, 2020), Section 3.2, pp. 113-119
-notes: >-
-  PDF available online at
-  [[https://ocalanbooks.com/downloads/ENG-book_Challenging-Capitalist-Modernity-III.pdf][ocalanbooks.com]].
-  Original video with transcript available at
-  [[https://www.kontext-tv.de/en/broadcasts/david-graeber-occupy-wall-street-revolution-rojava][kontext-tv.de]].
-original_format: muse
-converted_date: '2025-11-08T11:25:03.194084'
-tags:
-  - theory
-  - contemporary
-  - rent
-  - police
-  - organizing
+title: "Re-Thinking Resistance"
+author: "David Graeber"
+date: "2017"
+category: "contemporary-analysis"
 ---
 
 I will be talking about bureaucracy and class, and dangers threatening the revolution in Rojava. I think this is very, very important, because if we’re talking about beacons of historical hope, the revolution in Rojava is probably the most important thing that’s happened on this planet since Spain in the 1930’s. This is a magnificent opportunity, and in fact the revolution in Rojava has now lasted longer than the Spanish revolution; it’s managed to maintain itself. I think that as the embargo is lifted, certain problems are going to occur that have to be dealt with, and I think people are thinking about this, but I think it’s really important for us to understand exactly what the danger that we’re facing is, or its most insidious forms.

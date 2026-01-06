@@ -1,12 +1,10 @@
 ---
-date: 2025
-author: Reno Sparks Tenants Union
-tags:
-  - organizing
-  - tenants
-  - housing
 title: "RSTU-General-Meeting-1-22-25"
+author: "Reno Sparks Tenants Union"
+date: "2025"
+category: "misc"
 ---
+
 # RSTU-General-Meeting-1-22-25
 
 *Converted from: `./RSTU-General-Meeting-1-22-25.pdf`*  
@@ -44,8 +42,6 @@ title: "RSTU-General-Meeting-1-22-25"
         ○ Website Stats:
 
 
-
-
                ■
        ○    Start a campaign calling out city council members?
                ■
@@ -56,4 +52,3 @@ title: "RSTU-General-Meeting-1-22-25"
 ●   Got any good landlords?
 
 ---
-

@@ -1,3 +1,8 @@
+---
+title: "Expressive Order"
+category: "contemporary-analysis"
+---
+
 ## Expressive Order Confirming Sentiments in Social Actions
 
 ## David R. Heise
@@ -59,7 +64,7 @@ Herman Smith read a draft of Part 1 and offered many useful suggestions, for whi
 | | | Consensus | |
 | | | 3.1.1 Individuality Versus Norms | |
 | | | 3.1.2 Measurement Implications | |
-| | 3.2 | <u> •</u> | |
+| | 3.2 |  • | |
 | | ٠ | 3.2.1 Instability or Unreliability? | |
 | | 3.3 | | |
 | | 3.4 | | |
@@ -83,7 +88,7 @@ Herman Smith read a draft of Part 1 and offered many useful suggestions, for whi
 | | 3.2 | 5.2.1 | Cues to Institutions | |
 | | 5.3 | | S | |
 | | 5.4 | | ple Identities | |
-| | J. <b>T</b> | 5.4.1 | · | |
+| | J. T | 5.4.1 | · | |
 | | 5.5 | | er Readings | |
 | | 5.5 | 1 urun | i Redunigs | |
 | 6. | Inte | rpretin | ng Actions | 35 |
@@ -1185,7 +1190,7 @@ Table 8-1. Sample emotions organized in terms of evaluation, potency, and activi
 | | ashamed, embarrassed, worried, frightened, |
 | | terrified, horrified, agitated, panicked |
 
-<sup>\*</sup> English provides no names for pleasant emotions that involve vulnerability.
+\* English provides no names for pleasant emotions that involve vulnerability.
 
 #### 8.2 Impressions and Emotions
 
@@ -1344,11 +1349,61 @@ Table 9-1. Some identities that were negatively evaluated in 1970s U. S. A.
 
 | | Inactive | Neutral | Active |
 |----------|----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Potent | stepfather* | mafioso ogre vam<br>pire witch | assassin bandit<br>bouncer brute bully<br>cutthroat fiend gang<br>ster gunman lady<br>killer loan-shark<br>mobster pimp pusher<br>racketeer rival<br>roughneck safe<br>cracker tough vigi |
-| Neutral | miser scrooge tight<br>wad | cynic glutton goon<br>informer killjoy<br>shrew sluggard snob<br>snoop stuffed-shirt<br>traitor wrongdoer | lante villain<br>adulterer blabber<br>mouth brat busybody<br>criminal fanatic<br>fugitive gambler<br>gigolo gossip heel<br>hooker hotshot<br>lesbian pickpocket<br>porno-star psycho<br>path rat tease thief<br>troublemaker vandal |
-| Impotent | beggar coward crone<br>deadbeat deadhead<br>drudge dullard<br>fuddy-duddy hag<br>hermit hobo hypo<br>chondriac loafer<br>shut-in wino zombie | captive clod degen<br>erate dope drunkard<br>faultfinder flunky<br>halfwit homosexual<br>hypocrite imbecile<br>neurotic paranoid<br>phony prisoner<br>scapegoat sissy slave<br>slob stoolpigeon<br>sucker tramp weirdo<br>windbag | bisexual braggart<br>crybaby delinquent<br>dropout drug-addict<br>fink jackass jerk<br>junkie lunatic peep<br>ing-tom pothead<br>prostitute punk<br>scatterbrain shop<br>lifter sinner slut<br>smart-aleck sorehead<br>whore |
+| Potent | stepfather* | mafioso ogre vam
+pire witch | assassin bandit
+bouncer brute bully
+cutthroat fiend gang
+ster gunman lady
+killer loan-shark
+mobster pimp pusher
+racketeer rival
+roughneck safe
+cracker tough vigi |
+| Neutral | miser scrooge tight
+wad | cynic glutton goon
+informer killjoy
+shrew sluggard snob
+snoop stuffed-shirt
+traitor wrongdoer | lante villain
+adulterer blabber
+mouth brat busybody
+criminal fanatic
+fugitive gambler
+gigolo gossip heel
+hooker hotshot
+lesbian pickpocket
+porno-star psycho
+path rat tease thief
+troublemaker vandal |
+| Impotent | beggar coward crone
+deadbeat deadhead
+drudge dullard
+fuddy-duddy hag
+hermit hobo hypo
+chondriac loafer
+shut-in wino zombie | captive clod degen
+erate dope drunkard
+faultfinder flunky
+halfwit homosexual
+hypocrite imbecile
+neurotic paranoid
+phony prisoner
+scapegoat sissy slave
+slob stoolpigeon
+sucker tramp weirdo
+windbag | bisexual braggart
+crybaby delinquent
+dropout drug-addict
+fink jackass jerk
+junkie lunatic peep
+ing-tom pothead
+prostitute punk
+scatterbrain shop
+lifter sinner slut
+smart-aleck sorehead
+whore |
 
-<sup>\*</sup> Stepfather is not a quiet identity for females, but it is close and gives a sense of what contents the cell could have with a larger sample of identities.
+\* Stepfather is not a quiet identity for females, but it is close and gives a sense of what contents the cell could have with a larger sample of identities.
 
 ## 9.1.3 Attribution
 
@@ -2006,7 +2061,7 @@ More generally, nine interactions might be involved in the formation of a combin
 $$\overline{E}_{e}\overline{R}_{e}, \overline{E}_{p}\overline{R}_{e}, \overline{E}_{a}\overline{R}_{e}, \overline{E}_{e}\overline{R}_{p}, \overline{E}_{p}\overline{R}_{p}, \overline{E}_{a}\overline{R}_{p}, \overline{E}_{e}\overline{R}_{a}, \overline{E}_{p}\overline{R}_{a}, \overline{E}_{a}\overline{R}_{a}$$
 ## (14.8)
 
-These can be incorporated into Eq. (14.7) as follows. Construct a 3x3 diagonal matrix, IRe, that has the role evaluation R<sup>e</sup> in each diagonal cell and zeros elsewhere; construct a similar matrix, IRp, with R<sup>p</sup> in the diagonal entries; and a third diagonal matrix, IRa, with R<sup>a</sup> in the diagonal entries. Construct a 3x3 matrix, Qe, that gives the coefficients for predicting E, P, and A outcomes from the interaction terms $\overline{E}_{\mathrm{e}}\overline{R}_{\mathrm{e}}$ , $\overline{E}_{\mathrm{p}}\overline{R}_{\mathrm{e}}$ , and $\overline{E}_{\mathrm{a}}\overline{R}_{\mathrm{e}}$ . Construct a matrix, $\mathbf{Q}_{\mathrm{p}}$ , that gives the coefficients for predicting E, P, and A outcomes from the interaction terms $\overline{E}_{\mathrm{e}}\overline{R}_{\mathrm{p}}$ , $\overline{E}_{\mathrm{p}}\overline{R}_{\mathrm{p}}$ , and $\overline{E}_{\mathrm{a}}\overline{R}_{\mathrm{p}}$ . And construct a matrix, $\mathbf{Q}_{\mathrm{a}}$ , that gives the coefficients for predicting E, P, and A outcomes from the interaction terms $\overline{E}_{\mathrm{e}}\overline{R}_{\mathrm{a}}$ , $\overline{E}_{\mathrm{p}}\overline{R}_{\mathrm{a}}$ , and $\overline{E}_{\mathrm{a}}\overline{R}_{\mathrm{a}}$ . Now the prediction equation can be represented as follows.
+These can be incorporated into Eq. (14.7) as follows. Construct a 3x3 diagonal matrix, IRe, that has the role evaluation Re in each diagonal cell and zeros elsewhere; construct a similar matrix, IRp, with Rp in the diagonal entries; and a third diagonal matrix, IRa, with Ra in the diagonal entries. Construct a 3x3 matrix, Qe, that gives the coefficients for predicting E, P, and A outcomes from the interaction terms $\overline{E}_{\mathrm{e}}\overline{R}_{\mathrm{e}}$ , $\overline{E}_{\mathrm{p}}\overline{R}_{\mathrm{e}}$ , and $\overline{E}_{\mathrm{a}}\overline{R}_{\mathrm{e}}$ . Construct a matrix, $\mathbf{Q}_{\mathrm{p}}$ , that gives the coefficients for predicting E, P, and A outcomes from the interaction terms $\overline{E}_{\mathrm{e}}\overline{R}_{\mathrm{p}}$ , $\overline{E}_{\mathrm{p}}\overline{R}_{\mathrm{p}}$ , and $\overline{E}_{\mathrm{a}}\overline{R}_{\mathrm{p}}$ . And construct a matrix, $\mathbf{Q}_{\mathrm{a}}$ , that gives the coefficients for predicting E, P, and A outcomes from the interaction terms $\overline{E}_{\mathrm{e}}\overline{R}_{\mathrm{a}}$ , $\overline{E}_{\mathrm{p}}\overline{R}_{\mathrm{a}}$ , and $\overline{E}_{\mathrm{a}}\overline{R}_{\mathrm{a}}$ . Now the prediction equation can be represented as follows.
 
 $$\rho = \mathbf{d} + \mathbf{E}\boldsymbol{\varepsilon} + \mathbf{R}\mathbf{r} + \mathbf{I}_{Re}\mathbf{Q}_{e}\boldsymbol{\varepsilon} + \mathbf{I}_{Rn}\mathbf{Q}_{n}\boldsymbol{\varepsilon} + \mathbf{I}_{Ra}\mathbf{Q}_{a}\boldsymbol{\varepsilon}$$
 ## (14.9)
@@ -2255,264 +2310,9 @@ $$\mathcal{A}_{\mathcal{S}} = \frac{1}{1 + \|\mathcal{S}\|} > \lambda \tag{16.5}
 
 or
 
-$$\|\mathcal{S}\| < \frac{1}{\lambda} - 1 \tag{16.6}$$
-
-For example, if $\lambda$ is 0.5, then the recently-experienced-self is self-actualizing as long as it is no further than one unit from the self-sentiment.
-
-The weights, w, determine whether the system is stable or oscillatory. If the weights are all equal, then an enacted identity, $\iota$ , that drops out of the recently-experienced-self at time n+1 creates an inauthenticity $\|\iota\|$ that could be corrected by enacting $\iota$ again, and the system tends to be oscillatory. If weights decline for enactments further in the past, then little inauthenticity is created when an enactment drops out of the recently-experienced-self, and the system tends to be stable.
-
-## **Illustrative Analyses**
-
-#### 17.1 Optimal Behavior
-
-In this section, I show how the equations are applied by presenting a simplified version of the model dealing with evaluation alone. In this simple model the vector of fundamentals corresponding to Eq. (11.8) is merely
-
-$$\mathbf{f}_{e}^{\prime} = \begin{pmatrix} \overline{A}_{e} & \overline{B}_{e} & \overline{O}_{e} \end{pmatrix} \tag{17.1}$$
-
-and the vector of post-event transients, $\tau$ , in Eq. (11.9) is
-
-$$\mathbf{\tau}' = \begin{pmatrix} \hat{A}_{\mathbf{e}} & \hat{B}_{\mathbf{e}} & \hat{O}_{\mathbf{e}} \end{pmatrix} \tag{17.1}$$
-
-Impression-formation equations estimated only for the evaluation dimension, ignoring potency and activity effects and some interaction terms, are as follows.
-
-$$\hat{A}_{e} = -.34 + .39A_{e} + .41B_{e} + .12B_{e}O_{e}$$
-
-$$\hat{B}_{e} = -.27 + .12A_{e} + .55B_{e} + .11B_{e}O_{e}$$
-
-$$\hat{O}_{e} = .11 + .61O_{e} + .05B_{e}O_{e}$$
-## (17.2)
-
-Despite their simplicity, these equations explain a substantial portion of variance in post-event transients,— $R^2$ is 0.76 for actor evaluation, 0.81 for behavior evaluation, and 0.87 for object evaluation.
-
-## The M matrix in Eq. (11.15) is
-
-$$\mathbf{M}_{\mathbf{e}}' = \begin{pmatrix} -.34 & .39 & .41 & .00 & .12 \\ -.27 & .12 & .55 & .00 & .11 \\ .11 & .00 & .00 & .61 & .05 \end{pmatrix}$$
-## (17.3)
-
-## and the vector t in Eq. (11.16) is
-
-$$\mathbf{t}_{e}' = \begin{pmatrix} 1 & A_{e} & B_{e} & O_{e} & B_{e}O_{e} \end{pmatrix} \tag{17.4}$$
-
-## The vector $\mathbf{z}_{\beta}$ in Eq. (12.2) is
-
-$$\mathbf{z}_{\text{ge}}' = \begin{pmatrix} 1 & \overline{B}_{\text{e}} & 1 & 1 & 1 & \overline{B}_{\text{e}} & 1 & \overline{B}_{\text{e}} \end{pmatrix} \tag{17.5}$$
-
-The diagonal of matrix $I_{\beta}$ in Eq. (12.3) is diagonal 
-$$\mathbf{I}_{\beta e} = (\overline{A}_e \quad 1 \quad \overline{O}_e \quad 1 \quad A_e \quad 1 \quad O_e \quad O_e)$$
-## (17.6)
-
-## The selection matrix $S_B$ in Eq. (12.7) becomes
-
-$$\mathbf{S}_{\beta e} = \begin{pmatrix} 0 & 1 & 0 & 0 & 0 & 1 & 0 & 1 \end{pmatrix} \tag{17.7}$$
-
-while the $\mathbf{g}_{\beta}$ vector in Eq. (12.8) is
-
-$$\mathbf{g}_{\beta e} = \begin{pmatrix} 1 & 0 & 1 & 1 & 1 & 0 & 1 & 0 \end{pmatrix} \tag{17.8}$$
-
-Let $\mathbf{H}_{I}$ have the structure given in Eq. (12.18). Then its numerical value is the following.
-
-$$\mathbf{H_{Ie}} = \begin{pmatrix} 1 & 0 & 0 & .34 & -.39 & -.41 & .00 & -.12 \\ 0 & 1 & 0 & .27 & -.12 & -.55 & .00 & -.11 \\ 0 & 0 & 1 & -.11 & .00 & .00 & -.61 & -.05 \\ .34 & .27 & -.11 & .20 & -.17 & -.29 & .07 & -.07 \\ -.39 & -.12 & .00 & -.17 & .17 & .23 & .00 & .06 \\ -.41 & -.55 & .00 & -.29 & .23 & .47 & .00 & .11 \\ .00 & .00 & -.61 & .07 & .00 & .00 & .37 & .03 \\ -.12 & -.11 & -.05 & -.07 & .06 & .11 & .03 & .03 \end{pmatrix}$$
-## (17.9)
-
-Substituting these vectors and matricies into the solution for an optimal behavior defined by equation (12.19), and reducing, we get
-
-$$\overline{B}_{e} = \frac{-.11A_{e} + .12\overline{A}_{e}O_{e} + .05\overline{O}_{e}O_{e}}{37 + .03O_{e}^{2} - .06A_{e}O_{e} - .03O_{e}^{2}}$$
-## (17.10)
-
-Detailed examination of Eq. (17.10) indicates the following.
-
-- The goodness or badness of predicted acts is dependent mainly on the actor's fundamental goodness or badness. Good actors engage in good behaviors, neutral actors engage in neutral or slightly good behaviors, and bad actors engage in bad behaviors.
-- The actor's transient modulates these tendencies. Transient neutralization of a
-good actor exaggerates the goodness of the actor's actions when dealing with a
-positively evaluated object; this particular feature of the predictions was confirmed in a laboratory experiment (Wiggins and Heise 1987). Transient neutralization of a bad actor exaggerates the badness of behavior when dealing with a
-good object.
-- Stigmatized object persons elicit behaviors that are evaluatively less extreme than behaviors toward valued object persons.
-- Transient neutralization of an object relative to the object's fundamental causes behavior to be more extreme than it is when the object's transient and fundamental match
-
-#### 17.2 Optimal Re-identifications
-
-By a similar derivation, the solution corresponding to Eq. (13.11) for an optimal actor is
-
-$$\overline{A}_{e} = \frac{-.17 + .12\overline{B}_{e} + .18B_{e} + .06B_{e}O_{e}}{.39}$$
-## (17.11)
-
-Equation (17.11) indicates that object fundamentals are not a consideration in actor re-identification. For example, an actor who engaged in a given behavior on another theoretically would be judged the same, regardless if the other were a hero who has been made to seem neither good nor bad, or if the other were a villain who has been made to seem neither good nor bad. However, *Interact* simulations of actor re-identifications set transients equal to fundamentals for both behaviors and objects, as shown in Eq. (13.5).
-
-When transients are set equal to fundamentals, Eq. (17.11) becomes
-
-$$\overline{A}_{e} = -.44 + .15\overline{B}_{e} \left( 5 + \overline{O}_{e} \right)$$
-## (17.12)
-
-This reveals that object evaluations (ranging between $\pm 4.3$ ) never can reverse the judgment of an actor's character generated by the actor's behavior. However, the re-
-
-identification of an actor is more extreme with a good object and less extreme with a bad object.
-
-The solution for an optimal object person as given in Eq. (13.18) reduces to
-
-$$\overline{O}_{e} = \frac{.04 + .12\overline{A}_{e}B_{e} - .06A_{e}B_{e} + .11\overline{B}_{e}B_{e} - .11B_{e}^{2} + .07B_{e}}{.15 - .04B_{e} + .03B_{e}^{2}}$$
-## (17.13)
-
-Here again transients are distinguished from fundamentals. If transients are set equal to fundamentals, as is done in *Interact*, Eq. (17.13) becomes
-
-$$\overline{O}_{e} = \frac{.04 + .12\overline{A}_{e}\overline{B}_{e} - .06\overline{A}_{e}\overline{B}_{e} + .11\overline{B}_{e}\overline{B}_{e} - .11B_{e}^{2} + .07\overline{B}_{e}}{.15 - .04\overline{B}_{e} + .03\overline{B}_{e}^{2}}$$
-
-$$= \frac{.04 + .06\overline{A}_{e}\overline{B}_{e} + .07\overline{B}_{e}}{.15 - .04\overline{B}_{e} + .03\overline{B}_{e}^{2}}$$
-## (17.14)
-
-Equation (17.14) indicates that for a nice behavior, re-identification of the object depends directly on the evaluation of the actor: good actors acting nicely suggest a positively evaluated object; evil actors acting nicely suggest a bad object person. For bad behaviors the opposite is true: a bad behavior by a good actor implies an evil object person, and a bad behavior by an evil actor implies a good object person. The denominator makes effects more extreme with moderately good behaviors.
-
-#### 17.3 Emotions And Re-Identification
-
-I turn now to the matter of re-identification that accounts for emotion displays, applying Eqs. (13.10), (15.17), and (15.18) to just the evaluation dimension.
-
-Equation (17.15) reproduces Eq. (15.1) for predicting the profile of an identity modified by a mood, except that Eq. (17.15) has a single interaction, of modifier evaluation and identity evaluation.
-
-$$\mathbf{f}_{ru} = \mathbf{d} + \mathbf{E}\mathbf{\mu}_{\varepsilon} + \mathbf{R}\mathbf{r} + \mathbf{I}_{ue}\mathbf{Q}_{e}\mathbf{r}$$
-## (17.15)
-
-An empirically derived equation corresponding to Eq. (17.15), with no involvement of the potency and activity dimensions, is
-
-$$\rho_{e} = -.50 + .42\overline{\mu}_{e} + .46\overline{R}_{e} + .11\overline{\mu}_{e}\overline{R}_{e} \tag{17.16}$$
-
-where $\bar{\mu}_{\rm e}$ is the evaluation of the mood.
-
-In Eq. (17.16), the arrays of Eq. (17.15) reduce to the following: vector d is (-0.50), matrix $\mathbf{E}$ is (0.42), matrix $\mathbf{R}$ is (0.46), and matrix $\mathbf{Q}_e$ is (0.11). Substituting the one-dimension estimates of $\mathbf{R}$ and $\mathbf{Q}_e$ , Eq. (15.6) becomes
-
-$$\mathbf{\Phi} = \begin{pmatrix} (.46 + .11\overline{\mu}_e) & 0 & 0 \\ 0 & 1 & 0 \\ 0 & 0 & 1 \end{pmatrix}$$
-## (17.17)
-
-Substituting the one-dimension estimates of **d** and **E**, Eq. (15.7) becomes
-
-$$\mathbf{\phi}' = \begin{bmatrix} \left( -.50 + .42\overline{\mu}_e \right) & 0 & 0 \end{bmatrix} \tag{17.18}$$
-
-Combining these with the one-dimension **M** defined above in Eq. (17.3) allows **H** and **h** to be defined in terms of numbers and the variable, $\bar{\mu}_e$ . The results are too unwieldy to display here.
-
-Additional matricies are required to compute the solution for the optimal actor in Eq. (13.10).
-
-diagonal 
-$$\mathbf{I}_{\alpha e} = \begin{pmatrix} 1 & \overline{B}_{e} & \overline{O}_{e} & 1 & 1 & \overline{B}_{e} & \overline{O}_{e} & \overline{B}_{e} O_{e} \end{pmatrix}$$
-
-$$\mathbf{S}_{\alpha e} = \begin{pmatrix} 1 & 0 & 0 & 0 & 1 & 0 & 0 & 0 \end{pmatrix}$$
-
-$$\mathbf{g}_{\alpha e} = \begin{pmatrix} 0 & 1 & 1 & 1 & 0 & 1 & 1 & 1 \end{pmatrix}$$
-## (17.19)
-
-Now substituting quantities into Eq. (13.10) and reducing, we get the formula for predicting the evaluation of the re-identified actor when taking account of displayed mood.
-
-$$.031 + .120\overline{B}_{e} - .041B_{e} - .005B_{e}O_{e} - .024\overline{\mu}_{e}$$
-
-$$\overline{A}_{e} = \frac{-.023\overline{\mu}_{e}^{2} + .045B_{e}\overline{\mu}_{e} + .013B_{e}O_{e}\overline{\mu}_{e}}{.024 + .015\overline{\mu}_{e} + .012\overline{\mu}_{e}^{2}}$$
-## (17.20)
-
-or, assuming behaviors are processed with transients equal to fundamentals
-
-$$.031 + .079\overline{B}_{e} - .005\overline{B}_{e}O_{e} - .024\overline{\mu}_{e}$$
-
-$$\overline{A}_{e} = \frac{-.023\overline{\mu}_{e}^{2} + .045B_{e}\overline{\mu}_{e} + .013\overline{B}_{e}O_{e}\overline{\mu}_{e}}{.024 + .015\overline{\mu}_{e} + .012\overline{\mu}_{e}^{2}}$$
-## (17.21)
-
-The sign of the predicted $\overline{A}_{\rm e}$ is more important than the actual value, since many of the predictions obtained with Eq. (17.21) are beyond the possible range of actual measurements: -4.3 to +4.3, even with inputs within the $\pm 4.3$ range. (However, the worst cases of blow-up involve mood-emotion evaluations between zero and -1, and most real mood-emotion evaluations are above or below this range.)
-
-#### 118 David R. Heise
-
-A pronounced consistency effect between mood and behavior occurs, when Oe is positive. An actor is re-identified positively when behaving agreeably while displaying pleasant emotionality, and an actor also is re-identified positively when behaving disagreeably while displaying unpleasant emotionality. On the other hand, an actor is re-identified negatively when behaving agreeably while displaying unpleasant emotionality, and an actor also is re-identified negatively when behaving disagreeably while displaying pleasant emotionality.
-
-When Oe is negative, an actor is re-identified positively only when behaving agreeably and not displaying extremely unpleasant emotionality. An actor is reidentified negatively if behaving disagreeably or if displaying extremely unpleasant emotionality.
-
-Thus this one-dimension analysis suggests that appropriate or inappropriate emotionality affects re-identification mainly if an actor is behaving toward a good person.
-
-## Programming the Model
-
-A computer program, Interact, applies affect control theory's mathematical model to specific problems. The current version of the program consists of about 21,000 lines of Java code, mostly dealing with database management and the graphic user interface.
-
-#### 18.1 Organization of Analyses
-
-An analyst begins Interact analyses of an interaction by choosing from lists of words the identities and the modifying characteristics of interactants and, optionally, the setting where the interaction occurs. Then the analyst identifies the actor and object in the initial event, with specification of a behavior being optional.
-
-EPA profiles for the verbal inputs are retrieved from dictionaries to serve as sentiment measurements, and current impressions of actor and object are set equal to sentiments.
-
-If a behavior was not specified for the initial action, an optimal behavior is obtained with Eq. (12.19), in order to complete the first action. Then impressions resulting from the action are computed with impression formation equations, as shown in Eq. (11.15), and the overall deflection produced by the event is computed with Eq. (11.18) with k = 0, identity matricies substituted for the W matricies, and zero matricies substituted for the V matricies. The impressions and the deflection are recorded in the simulation log.
-
-Using Eq. (14.13), emotion profiles for an interactant are computed from the sentiment for the interactant along with the impression of the interactant that results from the current action. Emotion words with a similar profile are retrieved from the modifier dictionary, and these words are displayed. Additionally a face with an expression conveying the emotion is drawn on the screen.
-
-The program predicts what interactants will do next by applying the equation for an optimal behavior—Eq. (12.19)—to the case of the current actor behaving again toward the current object, and to the reverse case of the current object behaving toward the current actor. Behaviors are reported whose profiles are close to the computed optimal profiles for each of these cases.
-
-Re-identifications to explain the current action are obtained with the optimization equation for an unknown actor—Eq. (13.11)—and the optimization equation for an unknown object person—Eq. (13.18). Identities are reported whose profiles are close to the computed optimal profiles for each of these cases. Additionally, the reidentification profile for an interactant and the fundamental sentiment for the interactant's current identity are entered into the attribution equation—Eq. (14.19)—in order to define a modifier that explains the interactant's participation in the current action, and traits are reported whose profiles are close to the computed profile.
-
-At that point, the analyst inputs a new action based on the displayed outputs, and the program computes the next round of interaction.
-
-#### 18.1.1 Emotionality Constraints
-
-Analyses involving observed moods and emotions are conducted on a separate form in Interact. The form offers the following options:
-
-- x Find the optimal behavior when identities and specific emotions are specified for actor and object. This solution uses Eq. (12.19), after converting emotions to transients with Eq. (14.10).
-- x Find the optimal actor identity when the actor's mood is specified, the behavior is specified, and the object's identity and emotion are specified. This solution uses Eqs. (13.10), (15.17), and (15.18).
-- x Find the optimal object identity when the actor's identity and emotion are specified, the behavior is specified, and the object's mood is specified. This solution uses Eqs. (13.10), (15.17), and (15.18).
-- x Find the characteristic emotion for an identity. This solution uses Eq. (14.17).
-
-## 18.2 Impression-Formation Equations
-
-Impression formation equations are Interact's means of determining how an action changes feelings about interactants, the behavior involved in the action, and the setting of the action. Equations also are available for predicting impressions created by combining an emotion, trait, or other personal attribute with an identity.
-
-- x ABO equations deal with actions specified in terms of actor, behavior, and object person;
-- x ABOS equations deal with actions specified in terms of actor, behavior, object person, and setting.
-- x AB equations deal with self-directed actions specified in terms of actor and behavior.
-- x MI equations predict the outcomes of combining a modifier with an individual's identity. In some cultures, different equations apply for emotions as opposed to personal attributes.
-
-Program Interact reads impression formation equations in a tabular format that facilitates mathematical analysis. To illustrate, Table 18-1 shows Interact's impression-formation equations for self-directed actions, based on data from U. S. A. males.
-
-Each column of decimal numbers in Table 18-1 represents a different equation. For example, the first column of decimal numbers defines an equation for predicting how an actor will be evaluated after directing an action toward the self. The second column gives an equation for predicting how powerful the actor will seem after the self-directed action.
-
-In the case of AB equations, there are six columns of decimal numbers, defining equations for predicting the evaluation-potency-activity (EPA) outcomes for the actor and the behavior. In the case of ABO equations, there are nine columns for predicting the EPA outcomes for the actor, behavior, and object person. In the case of ABOS equations, there are twelve columns defining how to predict the EPA outcomes for the actor, behavior, object person, and setting. MI equations have three columns defining the equations for predicting EPA impressions created by combining a modifier and identity.
-
-| Table 18-1. Tabular representation of equations for predicting evaluation, potency, and activ |
-|-----------------------------------------------------------------------------------------------|
-| ity outcomes for the actor and behavior in a self-directed action. |
-
-| | Post-Event Transient for | | | | | |
-|---------|--------------------------|-----|-----|-----|-----|-----|
-| Z-term | Ae | Ap | Aa | Be | Bp | Ba |
-| Z000000 | 31 | 57 | 19 | 45 | 53 | 26 |
-| Z100000 | .47 | .00 | .00 | .31 | .07 | .00 |
-| Z010000 | .00 | .37 | 07 | .00 | .22 | 06 |
-| Z001000 | .00 | .00 | .57 | .00 | .00 | .43 |
-| Z000100 | .24 | .16 | .10 | .29 | .07 | .07 |
-| Z000010 | .00 | .00 | 18 | .00 | .16 | 14 |
-| Z000001 | .00 | .21 | .37 | .00 | .13 | .45 |
-| Z100100 | .08 | .00 | .00 | .07 | .00 | .02 |
-| Z100010 | 06 | .00 | .00 | 08 | .00 | .00 |
-| Z010100 | .00 | .00 | .02 | .00 | .00 | .00 |
-## | Z010001 | 07 | .00 | .00 | .00 | .00 | .00 |
-
-Each row in Table 18-1 corresponds to one predictor term in the equations, and the decimal numbers in that row are the coefficients for that variable in the different equations. Predictor terms may consist of a constant (the first row in Table 18-1), a single EPA variable (rows 2 through 7), or of products of EPA variables.
-
-The column of zero-one numbers, preceded by "Z" identifies which EPA variables are in the term associated with a row, as follows.
-
-- x if the first digit has the value 1, then the term defined on that line involves the pre-event evaluation of the actor, Ae;
-- x if the second digit has the value 1, then the term involves the pre-event potency of the actor, Ap;
-- x if the third digit has the value 1, then the term involves the pre-event activity of the actor, Aa;
-
-- x if the fourth digit has the value 1, then the term involves the pre-event evaluation of the behavior, Be;
-- x if the fifth digit has the value 1, then the term involves the pre-event potency of the behavior, Bp;
-- x if the sixth digit has the value 1, then the term involves the pre-event activity of the behavior, Ba;
-- x if the seventh digit has the value 1, then the term involves the pre-event evaluation of the object, Oe;
-- x if the eighth digit has the value 1, then the term involves the pre-event potency of the object, Op;
-- x if the ninth digit has the value 1, then the term involves the pre-event activity of the object, Oa;
-- x if the tenth digit has the value 1, then the term involves the pre-event evaluation of the setting, Se;
-- x if the eleventh digit has the value 1, then the term involves the pre-event potency of the setting, Sp;
-- x if the twelfth digit has the value 1, then the term involves the pre-event activity of the setting, Sa.
-
-For modifier-identity equations, the rules are the same, with the substitution of "modifier" for "actor," and "identity" for "behavior" in the above rules.
-
-To illustrate, the equation for predicting the outcome evaluation of an actor involved in a self-directed action is assembled from the materials in Table 18-1 as follows.
-
-- x The first column of decimal numbers contains the coefficients to be used in constructing the equation for predicting actor evaluation.
-- x The Z-expression on the first row consists entirely of zeros, indicating that coefficients in that row are equation constants. Thus the constant of the equation being constructed is -.31.
-- x The Z-expression on the second row has a one in the first digit followed by all zeros, indicating that the term represented in that row is the pre-event evaluation of the actor, Ae. Multiplying the term by its coefficient and adding to prior results, we get -.31 + .47Ae so far.
+$$\|\mathcal{S}\| e + .24Be so far.
 - x Coefficients in the next two rows are zero, so the corresponding terms can be ignored.
-- x In the fifth row, the Z-expression has a one in the fourth position only, indicating that the term for that row is the pre-event evaluation of the behavior, Be. Multiplying this term by its coefficient and adding to prior results, we get -.31 + .47A<sup>e</sup> + .24Be so far.
-- x Coefficients in the next two rows are zero, so the corresponding terms can be ignored.
-- x In the eighth row the Z-expression has ones in the first position and in the fourth position, indicating that the term for that row is the product of the pre-event actor evaluation and the pre-event behavior evaluation, Ae Be. Multiplying this term by its coefficient and adding to prior results, we get -.31 + .47Ae + .24 Be + .08AeB<sup>e</sup> so far.
+- x In the eighth row the Z-expression has ones in the first position and in the fourth position, indicating that the term for that row is the product of the pre-event actor evaluation and the pre-event behavior evaluation, Ae Be. Multiplying this term by its coefficient and adding to prior results, we get -.31 + .47Ae + .24 Be + .08AeBe so far.
 
 - x In the ninth row the Z-expression has ones in the first position and in the fifth position, indicating that the term for that row is the product of the pre-event actor evaluation and the pre-event behavior potency, Ae Bp. Multiplying this term by its coefficient and adding to prior results, we get -.31 + .47Ae + .24 Be + .08Ae Be - .06Ae Bp so far.
 - x The tenth row is skipped because the coefficient is zero.
@@ -2540,8 +2340,8 @@ $$\mathbf{Z} = \begin{pmatrix} 1 & 0 & 0 & 0 & 0 & 0 \\ 0 & 1 & 0 & 0 & 0 & 0 \\
 Selection matricies are constructed by copying sub-matricies of **Z**.
 
 - The selection matrix for defining the optimal behavior, $S_{\beta}$ , consists of columns 4-6 of Z;
-- The selection matrix for defining the optimal actor, S<sub>α</sub>, consists of columns 1-3 of Z;
-- The selection matrix for defining the optimal object, S<sub>o</sub>, consists of columns 7-9 of **Z**. (This is not a defined operation in the case of self-directed actions.)
+- The selection matrix for defining the optimal actor, Sα, consists of columns 1-3 of Z;
+- The selection matrix for defining the optimal object, So, consists of columns 7-9 of **Z**. (This is not a defined operation in the case of self-directed actions.)
 
 The $\mathbf{g}$ matrix that is required for obtaining solutions with Eqs. (12.19), (13.11), and (13.18) is obtained from the selection matrix, as indicated in Eq. (12.8).
 
@@ -2551,22 +2351,12 @@ The diagonal matricies $I_{\alpha}$ , $I_{\beta}$ , and $I_{o}$ in Eqs. (13.5), 
 
 Standard computational algorithms are used in *Interact* for matrix algebra. However, multiplications involving zero-one matricies are computed with the zero-one matrix in Boolean form, and computations are skipped when the value is zero. The final two lines of text in Table 18-2, above the closing brackets, show the method.
 
-Table 18-2. Segment of Java Code From Interact for Computing Diagonals of Matricies ID, IE, and I<sup>R</sup>
+Table 18-2. Segment of Java Code From Interact for Computing Diagonals of Matricies ID, IE, and IR
 
 
 // Fill I_diagonal with ones. 
 I_diagonal = new double[full Size]; 
-for (int i = 0; i < full Size; i++ ) { 
- I_diagonal[i] = 1; 
-}
-// Loop through actor, behavior, object, and setting. 
-// Number of slots is 2 for AB event, 3 for ABO event, 4 for ABOS event. 
-for (int slot = 0; slot < number OfSlots; slot ++ ) { 
- // Loop through the EPA dimensions. 
- for (int epa = 0; epa < 3; epa++ ) { 
- col = (3 * slot) + epa;{ 
- // Skip over the unknown variables in the problem. 
- if ((col < desired Solution) | (col > (desired Solution + 2))) { 
+for (int i = 0; i  (desired Solution + 2))) { 
  // Deal with the section of I_diagonal associated with fundamentals. 
  I_diagonal[col] = this Event.abos Fundamentals[slot][epa]; 
  // Now deal with the transient section of I_diagonal. 

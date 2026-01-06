@@ -1,3 +1,8 @@
+---
+title: "e Books"
+category: "economic-alternatives"
+---
+
 ## Crises of Global Economies and the Future of Capitalism
 
 ## Reviving Marxian crisis theory
@@ -12,7 +17,7 @@ Recent events in the global financial markets and macroeconomies have served as 
 
 The book is a thoughtful collaboration between Japanese heterodox economists of the Japan Society of Political Economy (JSPE) and non-Japanese scholars. It provides a unique immersion in different, sophisticated approaches to political economy and to the crisis. The book illustrates how an understanding of Marx's crisis theory can serve as a powerful framework for analyzing the contemporary subprime world crisis. The book explains the subprime loan crisis as a crisis in a specific phase of the capitalist world system and concludes that it is a structural one which destroys the existing capital accumulation regime. It pays attention to structural changes and to how these changes beget profound and controversial consequences.
 
-The result is a must-read – one which truly contributes to the resurgence of radical analyses of the political economy, free from the market optimism of main-stream economics.
+The result is a must-read - one which truly contributes to the resurgence of radical analyses of the political economy, free from the market optimism of main-stream economics.
 
 **Kiichiro Yagi** is Vice President and Professor in Economics at Setsunan University, Japan. He was educated in the University of Tokyo and Nagoya University. He received his PhD from Kyoto University. He is Chief Representative of the JSPE.
 
@@ -388,7 +393,7 @@ Capitalist, cooperative and government firms *Kazuhiko Mikami*
 
 ### **97 Knowledge Transfer in the Automobile Industry**
 
-## Global–local production networks *Dessy Irawati*
+## Global-local production networks *Dessy Irawati*
 
 ### **98 Exchange Rates and Foreign Direct Investment in Emerging Asia**
 
@@ -396,9 +401,9 @@ Selected issues and policy options *Ramkishen S. Rajan*
 
 ### **99 Singapore, the Energy Economy**
 
-From the first refinery to the end of cheap oil, 1960–2010 *Ng Weng Hoong*
+From the first refinery to the end of cheap oil, 1960-2010 *Ng Weng Hoong*
 
-### **100 China–India Economics**
+### **100 China-India Economics**
 
 Challenges, competition and collaboration *Amitendu Palit*
 
@@ -470,15 +475,15 @@ A catalogue record for this book is available from the British Library
 
 Crises of Global Economies and the Future of Capitalism : reviving Marxian crisis theory / Edited by Kiichiro Yagi, Nobuharu Yokokawa, Shinjiro Hagiwara and Gary A. Dymski.
 
-pages cm. – (Routledge Studies in the Modern World Economy ; 110) Includes bibliographical references and index.
+pages cm. - (Routledge Studies in the Modern World Economy ; 110) Includes bibliographical references and index.
 
-1. Global Financial Crisis, 2008–2009. 2. Economic policy. 3. Marxian economics. 4. Globalization–Economic aspects. I. Yagi, Kiichiro,
+1. Global Financial Crisis, 2008-2009. 2. Economic policy. 3. Marxian economics. 4. Globalization-Economic aspects. I. Yagi, Kiichiro,
 
-1947–, editor of compilation.
+1947-, editor of compilation.
 
 ## HB3722. C73345 2013
 
-335.4'12–dc23 2012027483
+335.4'12-dc23 2012027483
 
 ISBN: 978-0-415-68733-1 (hbk) ISBN: 978-0-203-07295-0 (ebk)
 
@@ -486,199 +491,1052 @@ Typeset in Times New Roman by Wearset Ltd, Boldon, Tyne and Wear
 
 ## **Contents**
 
-| | List<br>of<br>figures | xiv |
+| | List
+of
+figures | xiv |
 |------|------------------------------------------------------------------------------------------------------------------------------|-------|
-| | List<br>of<br>tables | xvii |
-| | Notes<br>on<br>contributors | xviii |
+| | List
+of
+tables | xvii |
+| | Notes
+on
+contributors | xviii |
 | | Preface | xxii |
 | | Introduction | 1 |
-| | N O B U H A R U<br>Y O K O K A W A<br>A N D<br>G A R Y<br>A .<br>D Y M S K I | |
+| | N O B U H A R U
+Y O K O K A W A
+A N D
+G A R Y
+A .
+D Y M S K I | |
 | PART | I | |
-| | Mechanisms<br>of<br>the<br>2008<br>crisis<br>and<br>their<br>consequences | 9 |
-| 1 | From<br>the<br>subprime<br>to<br>the<br>great<br>earthquake<br>crisis<br>in<br>Japan<br>M A K O T O<br>I T O H | 11 |
-| 2 | The<br>global<br>financial<br>crisis:<br>the<br>instability<br>of<br>U. Scentered<br>global<br>capitalism | 26 |
-| | T E T S U J I<br>K A W A M U R A | |
-| 3 | Financialization<br>and<br>capitalist<br>accumulation:<br>a<br>structural<br>account<br>of<br>the<br>crisis<br>of<br>2007–09 | 55 |
-| | C O S T A S<br>L A P A V I T S A S | |
-| 4 | The<br>global<br>financial<br>crisis<br>as<br>a<br>world<br>great<br>depression: | |
-| | an<br>analysis<br>using<br>Marxian<br>economics | 75 |
-| | M A S A Y O S H I<br>T A T E B E | |
-| 5 | The<br>demise<br>of<br>the<br>Keynesian<br>regime,<br>financial<br>crisis,<br>and | |
-| | Marx's<br>theory | 91 |
-## | | S H I N J I R O<br>H A G I W A R A | |
+| | Mechanisms
+of
+the
+2008
+crisis
+and
+their
+consequences | 9 |
+| 1 | From
+the
+subprime
+to
+the
+great
+earthquake
+crisis
+in
+Japan
+M A K O T O
+I T O H | 11 |
+| 2 | The
+global
+financial
+crisis:
+the
+instability
+of
+U. Scentered
+global
+capitalism | 26 |
+| | T E T S U J I
+K A W A M U R A | |
+| 3 | Financialization
+and
+capitalist
+accumulation:
+a
+structural
+account
+of
+the
+crisis
+of
+2007-09 | 55 |
+| | C O S T A S
+L A P A V I T S A S | |
+| 4 | The
+global
+financial
+crisis
+as
+a
+world
+great
+depression: | |
+| | an
+analysis
+using
+Marxian
+economics | 75 |
+| | M A S A Y O S H I
+T A T E B E | |
+| 5 | The
+demise
+of
+the
+Keynesian
+regime,
+financial
+crisis,
+and | |
+| | Marx's
+theory | 91 |
+## | | S H I N J I R O
+H A G I W A R A | |
 
 | xii | Contents | | | | | |
 |------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|--|--|--|--|
-| 6 | The<br>2008<br>economic<br>crisis<br>from<br>the<br>perspective<br>of<br>changes<br>in<br>prices<br>movements<br>A K I R A<br>M A T S U M O T O | | | | | |
-| PART | II<br>Regimes<br>of<br>capitalism | 125 | | | | |
-| 7 | Cyclical<br>crisis,<br>structural<br>crisis,<br>systemic<br>crisis,<br>and<br>future<br>of<br>capitalism<br>N O B U H A R U<br>Y O K O K A W A | 127 | | | | |
-| 8 | Financial<br>innovations,<br>growth<br>and<br>crisis:<br>the<br>subprime<br>collapse<br>in<br>perspective<br>R O B E R T<br>B O Y E R | 151 | | | | |
-| 9 | The<br>crisis<br>of<br>2008<br>and<br>the<br>dynamics<br>of<br>capitalism<br>in<br>time<br>and<br>space<br>T O S H I O<br>Y A M A D A | 174 | | | | |
-| 10 | Neoliberalism<br>and<br>its<br>crisis<br>G  R A R D<br>D U M  N I L<br>A N D<br>D O M I N I  U E<br>L  V Y | 191 | | | | |
-| 11 | Fiat<br>money<br>and<br>how<br>to<br>combat<br>debt<br>deflation<br>T H O M A S<br>S E K I N E | 208 | | | | |
-| PART | III<br>Global<br>reconfiguration<br>of<br>capitalism | 227 | | | | |
-| 12 | Can<br>the<br>U. S.<br>economy<br>escape<br>the<br>law<br>of<br>gravity?<br>A<br>Minsky–Kalecki<br>approach<br>to<br>the<br>crisis<br>of<br>neoliberalism<br>G A R Y<br>A .<br>D Y M S K I | 229 | | | | |
-| 13 | The<br>political<br>economy<br>of<br>global<br>imbalances<br>and<br>the<br>global<br>financial<br>crisis<br>K A N G - K O O K<br>L E E | 254 | | | | |
-| 14 | East<br>Asia's<br>integration<br>and<br>structural<br>shift:<br>the<br>shift<br>from<br>newly<br>industrializing<br>economies<br>to<br>potentially<br>bigger<br>market<br>economies<br>under<br>the<br>global<br>economy | 272 | | | | |
+| 6 | The
+2008
+economic
+crisis
+from
+the
+perspective
+of
+changes
+in
+prices
+movements
+A K I R A
+M A T S U M O T O | | | | | |
+| PART | II
+Regimes
+of
+capitalism | 125 | | | | |
+| 7 | Cyclical
+crisis,
+structural
+crisis,
+systemic
+crisis,
+and
+future
+of
+capitalism
+N O B U H A R U
+Y O K O K A W A | 127 | | | | |
+| 8 | Financial
+innovations,
+growth
+and
+crisis:
+the
+subprime
+collapse
+in
+perspective
+R O B E R T
+B O Y E R | 151 | | | | |
+| 9 | The
+crisis
+of
+2008
+and
+the
+dynamics
+of
+capitalism
+in
+time
+and
+space
+T O S H I O
+Y A M A D A | 174 | | | | |
+| 10 | Neoliberalism
+and
+its
+crisis
+G  R A R D
+D U M  N I L
+A N D
+D O M I N I  U E
+L  V Y | 191 | | | | |
+| 11 | Fiat
+money
+and
+how
+to
+combat
+debt
+deflation
+T H O M A S
+S E K I N E | 208 | | | | |
+| PART | III
+Global
+reconfiguration
+of
+capitalism | 227 | | | | |
+| 12 | Can
+the
+U. S.
+economy
+escape
+the
+law
+of
+gravity?
+A
+Minsky-Kalecki
+approach
+to
+the
+crisis
+of
+neoliberalism
+G A R Y
+A .
+D Y M S K I | 229 | | | | |
+| 13 | The
+political
+economy
+of
+global
+imbalances
+and
+the
+global
+financial
+crisis
+K A N G - K O O K
+L E E | 254 | | | | |
+| 14 | East
+Asia's
+integration
+and
+structural
+shift:
+the
+shift
+from
+newly
+industrializing
+economies
+to
+potentially
+bigger
+market
+economies
+under
+the
+global
+economy | 272 | | | | |
 
 ## H I T O S H I H I R A K A W A
 
 | | | Contents | xiii |
 |----|-----------------------------------------------------------------------|----------|------|
-| 15 | Financialization,<br>structural<br>change,<br>and<br>employment<br>in | the | |
-| | U. S.<br>and<br>Japan | | 288 |
-| | J A M E S<br>H E I N T  | | |
-| 16 | Overconsumption,<br>household<br>debt,<br>and<br>dollar-privilege: | | |
-| | the<br>causes<br>of<br>the<br>U. S.<br>subprime<br>crisis | | 305 |
-| | A K I<br>A N E H A | | |
+| 15 | Financialization,
+structural
+change,
+and
+employment
+in | the | |
+| | U. S.
+and
+Japan | | 288 |
+| | J A M E S
+H E I N T  | | |
+| 16 | Overconsumption,
+household
+debt,
+and
+dollar-privilege: | | |
+| | the
+causes
+of
+the
+U. S.
+subprime
+crisis | | 305 |
+| | A K I
+A N E H A | | |
 | | Index | | 320 |
 ## | | | | |
 
 ## **Figures**
 
-| 2.1 | Residential<br>mortgage<br>loans<br>and<br>their<br>composition, | |
+| 2.1 | Residential
+mortgage
+loans
+and
+their
+composition, | |
 |-----|-----------------------------------------------------------------------------------|-------|
-| | 2001–07 | 27 |
-| 2.2 | Prices<br>of<br>U. S.<br>mortgage-related<br>securities | 29 |
-| 2.3 | Venture<br>capital<br>investment:<br>quarterly,<br>1995–2004 | 32 |
-| 2.4 | S&P/Case-Shiller<br>home<br>price<br>indices:<br>monthly, | |
-| | 1987–2011 | 33 |
-| 2.5 | Mortgage<br>refinance,<br>cash-out<br>and<br>home<br>equity<br>loan | |
-| | volumes,<br>1995–2007 | 34 |
-| 2.6 | Mortgage<br>debt<br>outstanding<br>by<br>type<br>of<br>property<br>and<br>holder, | |
-| | 1979<br>to<br>2006 | 36 |
-| 2.7 | Financialization<br>of<br>the<br>U. S.<br>economy:<br>dollar<br>value<br>of | |
-| | trading<br>in<br>the<br>U. S.<br>financial<br>markets | 38 |
-| 2.8 | The<br>U. Scentered<br>global<br>growth<br>nexus | 42–43 |
-| 3.1 | Mortgage<br>lending,<br>U. S.,<br>percentage<br>of<br>GDP | 57 |
-| 3.2 | Bank<br>assets<br>as<br>percentage<br>of<br>GDP | 58 |
-| 3.3 | Commercial<br>bank<br>equity<br>as<br>percentage<br>of<br>assets | 58 |
-| 3.4 | Leverage<br>of<br>non-bank<br>corporations | 59 |
-| 3.5 | Aggregate<br>investment<br>as<br>percentage<br>of<br>GDP | 60 |
-| 3.6 | Public<br>debt<br>as<br>percentage<br>of<br>GDP | 60 |
-| 3.7 | Household<br>debt<br>as<br>percentage<br>of<br>GDP | 61 |
-| 3.8 | Consumption<br>as<br>percentage<br>of<br>GDP | 62 |
-| 6.1 | Price<br>fluctuation,<br>1971–2008 | 112 |
-| 6.2 | Increasing<br>rate<br>of<br>industrial<br>production<br>index<br>in<br>the | |
-| | advanced<br>country<br>relative<br>to<br>previous<br>year | 113 |
-| 6.3 | Net<br>private<br>non-residential<br>fixed<br>investment<br>as<br>percentage | |
-| | of<br>GDP | 114 |
-| 6.4 | Five-year<br>moving<br>average<br>of<br>manufacturing<br>and<br>financial | |
-| | sectors<br>as<br>percentage<br>of<br>domestic<br>profits | 116 |
-| 6.5 | Ratio<br>of<br>wage<br>and<br>salary<br>to<br>GDP,<br>U. S. | 117 |
-| 6.6 | Labor<br>share<br>of<br>income<br>in<br>Japan | 117 |
-| 7.1 | Dynamic<br>industries<br>and<br>VAL | 131 |
-| 7.2 | Basic<br>Minsky<br>cycle | 132 |
-## | 7.3 | Super<br>Minsky<br>cycle | 133 |
+| | 2001-07 | 27 |
+| 2.2 | Prices
+of
+U. S.
+mortgage-related
+securities | 29 |
+| 2.3 | Venture
+capital
+investment:
+quarterly,
+1995-2004 | 32 |
+| 2.4 | S&P/Case-Shiller
+home
+price
+indices:
+monthly, | |
+| | 1987-2011 | 33 |
+| 2.5 | Mortgage
+refinance,
+cash-out
+and
+home
+equity
+loan | |
+| | volumes,
+1995-2007 | 34 |
+| 2.6 | Mortgage
+debt
+outstanding
+by
+type
+of
+property
+and
+holder, | |
+| | 1979
+to
+2006 | 36 |
+| 2.7 | Financialization
+of
+the
+U. S.
+economy:
+dollar
+value
+of | |
+| | trading
+in
+the
+U. S.
+financial
+markets | 38 |
+| 2.8 | The
+U. Scentered
+global
+growth
+nexus | 42-43 |
+| 3.1 | Mortgage
+lending,
+U. S.,
+percentage
+of
+GDP | 57 |
+| 3.2 | Bank
+assets
+as
+percentage
+of
+GDP | 58 |
+| 3.3 | Commercial
+bank
+equity
+as
+percentage
+of
+assets | 58 |
+| 3.4 | Leverage
+of
+non-bank
+corporations | 59 |
+| 3.5 | Aggregate
+investment
+as
+percentage
+of
+GDP | 60 |
+| 3.6 | Public
+debt
+as
+percentage
+of
+GDP | 60 |
+| 3.7 | Household
+debt
+as
+percentage
+of
+GDP | 61 |
+| 3.8 | Consumption
+as
+percentage
+of
+GDP | 62 |
+| 6.1 | Price
+fluctuation,
+1971-2008 | 112 |
+| 6.2 | Increasing
+rate
+of
+industrial
+production
+index
+in
+the | |
+| | advanced
+country
+relative
+to
+previous
+year | 113 |
+| 6.3 | Net
+private
+non-residential
+fixed
+investment
+as
+percentage | |
+| | of
+GDP | 114 |
+| 6.4 | Five-year
+moving
+average
+of
+manufacturing
+and
+financial | |
+| | sectors
+as
+percentage
+of
+domestic
+profits | 116 |
+| 6.5 | Ratio
+of
+wage
+and
+salary
+to
+GDP,
+U. S. | 117 |
+| 6.6 | Labor
+share
+of
+income
+in
+Japan | 117 |
+| 7.1 | Dynamic
+industries
+and
+VAL | 131 |
+| 7.2 | Basic
+Minsky
+cycle | 132 |
+## | 7.3 | Super
+Minsky
+cycle | 133 |
 
 | | | Figures | xv |
 |-------|------------------------------------------------------------------------------------------|---------|-----|
-| 7. A1 | Formal<br>model<br>of<br>accumulation<br>structure<br>in<br>bureaucratic | | |
+| 7. A1 | Formal
+model
+of
+accumulation
+structure
+in
+bureaucratic | | |
 | | capitalism | | 147 |
-| 8.1 | The<br>cycle<br>from<br>major<br>innovation<br>to<br>crash | | 157 |
-| 8.2 | The<br>collapse<br>of<br>long<br>term<br>capital<br>management:<br>an<br>ad<br>hoc | | |
-| | solution<br>brokered<br>by<br>the<br>Fed,<br>with<br>no<br>review<br>of<br>public | | |
+| 8.1 | The
+cycle
+from
+major
+innovation
+to
+crash | | 157 |
+| 8.2 | The
+collapse
+of
+long
+term
+capital
+management:
+an
+ad
+hoc | | |
+| | solution
+brokered
+by
+the
+Fed,
+with
+no
+review
+of
+public | | |
 | | control | | 162 |
-| 8.3 | The<br>fall<br>of<br>Enron:<br>increase<br>in<br>accountability<br>of<br>senior | | |
-| | managers,<br>without<br>reform<br>of<br>accounting<br>practices<br>or | | |
-| | supervision<br>of<br>new<br>derivatives | | 164 |
-| 8.4 | An<br>innovation<br>that<br>was<br>a<br>priori<br>dangerous<br>but<br>in<br>line<br>with | | |
-| | policy<br>of<br>widening<br>access<br>to<br>home<br>ownership | | 165 |
-| 8.5 | The<br>subprime<br>crisis<br>results<br>from<br>conjunction<br>of<br>financial | | |
-| | innovations<br>since<br>the<br>1980s:<br>widespread<br>underestimation | | |
-| | and<br>transfer<br>of<br>risk | | 167 |
-| 8.6 | Chronicle<br>of<br>a<br>crisis<br>foretold:<br>the<br>subprime<br>episode | | 168 |
-| 9.1 | World<br>history<br>of<br>growth<br>and<br>crisis | | 176 |
-| 9.2 | Fordist<br>type<br>of<br>capitalism | | 177 |
-| 9.3 | Finance-led<br>type<br>of<br>capitalism | | 179 |
-| 9.4 | Diversity<br>of<br>advanced<br>capitalist<br>countries | | 183 |
-| 9.5 | Seven<br>types<br>of<br>economic<br>models<br>in<br>the<br>contemporary | | |
+| 8.3 | The
+fall
+of
+Enron:
+increase
+in
+accountability
+of
+senior | | |
+| | managers,
+without
+reform
+of
+accounting
+practices
+or | | |
+| | supervision
+of
+new
+derivatives | | 164 |
+| 8.4 | An
+innovation
+that
+was
+a
+priori
+dangerous
+but
+in
+line
+with | | |
+| | policy
+of
+widening
+access
+to
+home
+ownership | | 165 |
+| 8.5 | The
+subprime
+crisis
+results
+from
+conjunction
+of
+financial | | |
+| | innovations
+since
+the
+1980s:
+widespread
+underestimation | | |
+| | and
+transfer
+of
+risk | | 167 |
+| 8.6 | Chronicle
+of
+a
+crisis
+foretold:
+the
+subprime
+episode | | 168 |
+| 9.1 | World
+history
+of
+growth
+and
+crisis | | 176 |
+| 9.2 | Fordist
+type
+of
+capitalism | | 177 |
+| 9.3 | Finance-led
+type
+of
+capitalism | | 179 |
+| 9.4 | Diversity
+of
+advanced
+capitalist
+countries | | 183 |
+| 9.5 | Seven
+types
+of
+economic
+models
+in
+the
+contemporary | | |
 | | world | | 187 |
-| 10.1 | NYSE<br>indices,<br>corrected<br>for<br>inflation | | 196 |
-| 10.2 | Neoliberalism<br>under<br>U. S.<br>hegemony | | 198 |
-| 10.3 | Net<br>debts:<br>U. S.<br>households<br>and<br>government<br>considered | | |
-| | jointly,<br>and<br>U. S.<br>economy<br>toward<br>rest<br>of<br>world | | 200 |
-| 11.1 | Comparison<br>of<br>managed<br>currency<br>system<br>and<br>gold | | |
-| | standard<br>system | | 219 |
-| 12.1A | uarterly<br>U. S.<br>real<br>GDP<br>growth<br>in<br>longer<br>postwar | | |
-| | expansions,<br>trough<br>to<br>peak<br>(truncated<br>at<br>25<br>quarters) | | 235 |
-| 12.1b | uarterly<br>U. S.<br>real<br>GDP<br>change<br>in<br>longer<br>postwar | | |
-| | contractions,<br>peak<br>to<br>trough | | 236 |
-| 12.2A | uarterly<br>U. S.<br>price-deflator<br>growth<br>in<br>longer<br>postwar | | |
-| | expansions,<br>trough<br>to<br>peak<br>(truncated<br>at<br>25<br>quarters) | | 237 |
-| 12.2B | uarterly<br>U. S.<br>price-deflator<br>growth<br>in<br>longer<br>postwar | | |
-| | contractions,<br>peak<br>to<br>trough | | 238 |
-| 12.3 | Mandatory<br>and<br>discretionary<br>U. S.<br>Federal-Government | | |
-| | expenditures<br>(excluding<br>military<br>sector),<br>1962–2010 | | 238 |
-| 12.4A | uarterly<br>U. S.<br>unemployment<br>rate<br>(adults<br>24–54<br>years | | |
-| | old)<br>in<br>longer<br>postwar<br>expansions,<br>trough<br>to<br>peak | | |
-| | (truncated<br>at<br>25<br>quarters) | | 239 |
-| 12.4B | uarterly<br>U. S.<br>unemployment<br>rate<br>(adults<br>24–54<br>years | | |
-| | old)<br>in<br>longer<br>postwar<br>contractions,<br>peak<br>to<br>trough | | 240 |
-| 12.5 | uarterly<br>U. S.<br>labor-force<br>participation<br>rates<br>in<br>longer | | |
-| | postwar<br>expansions,<br>trough<br>to<br>peak<br>(truncated<br>at | | |
-| | 25<br>quarters) | | 241 |
+| 10.1 | NYSE
+indices,
+corrected
+for
+inflation | | 196 |
+| 10.2 | Neoliberalism
+under
+U. S.
+hegemony | | 198 |
+| 10.3 | Net
+debts:
+U. S.
+households
+and
+government
+considered | | |
+| | jointly,
+and
+U. S.
+economy
+toward
+rest
+of
+world | | 200 |
+| 11.1 | Comparison
+of
+managed
+currency
+system
+and
+gold | | |
+| | standard
+system | | 219 |
+| 12.1A | uarterly
+U. S.
+real
+GDP
+growth
+in
+longer
+postwar | | |
+| | expansions,
+trough
+to
+peak
+(truncated
+at
+25
+quarters) | | 235 |
+| 12.1b | uarterly
+U. S.
+real
+GDP
+change
+in
+longer
+postwar | | |
+| | contractions,
+peak
+to
+trough | | 236 |
+| 12.2A | uarterly
+U. S.
+price-deflator
+growth
+in
+longer
+postwar | | |
+| | expansions,
+trough
+to
+peak
+(truncated
+at
+25
+quarters) | | 237 |
+| 12.2B | uarterly
+U. S.
+price-deflator
+growth
+in
+longer
+postwar | | |
+| | contractions,
+peak
+to
+trough | | 238 |
+| 12.3 | Mandatory
+and
+discretionary
+U. S.
+Federal-Government | | |
+| | expenditures
+(excluding
+military
+sector),
+1962-2010 | | 238 |
+| 12.4A | uarterly
+U. S.
+unemployment
+rate
+(adults
+24-54
+years | | |
+| | old)
+in
+longer
+postwar
+expansions,
+trough
+to
+peak | | |
+| | (truncated
+at
+25
+quarters) | | 239 |
+| 12.4B | uarterly
+U. S.
+unemployment
+rate
+(adults
+24-54
+years | | |
+| | old)
+in
+longer
+postwar
+contractions,
+peak
+to
+trough | | 240 |
+| 12.5 | uarterly
+U. S.
+labor-force
+participation
+rates
+in
+longer | | |
+| | postwar
+expansions,
+trough
+to
+peak
+(truncated
+at | | |
+| | 25
+quarters) | | 241 |
 
 ### xvi *Figures*
 
-| 12.6A | uarterly<br>U. S.<br>average<br>duration<br>of<br>unemployment<br>in | |
+| 12.6A | uarterly
+U. S.
+average
+duration
+of
+unemployment
+in | |
 |-------|-----------------------------------------------------------------------------------------|-----|
-| | longer<br>postwar<br>expansions,<br>trough<br>to<br>peak<br>(truncated<br>at | |
-| | 25<br>quarters) | 242 |
-| 12.6B | uarterly<br>U. S.<br>average<br>duration<br>of<br>unemployment<br>in | |
-| | longer<br>postwar<br>contractions,<br>peak<br>to<br>trough | 243 |
-| 12.7 | Sources<br>of<br>U. S.<br>GDP<br>growth,<br>by<br>decade,<br>1950–2010 | 244 |
-| 13.1 | Current<br>account<br>deficit/GDP<br>in<br>U. S. | 257 |
-| 13.2 | Investment<br>and<br>saving<br>in<br>U. S. | 258 |
-| 13.3 | Global<br>dimension<br>of<br>global<br>imbalances | 258 |
-| 13.4 | Changes<br>in<br>U. S.<br>securities<br>outstanding,<br>2003<br>and<br>2007<br>by | |
-| | country<br>group | 262 |
-| 13.5 | Recent<br>changes<br>in<br>current<br>account<br>deficit<br>of<br>U. S. | 265 |
-| 14.1 | Intraregional<br>export<br>ratio<br>by<br>region,<br>1970–2009 | 274 |
-| 14.2 | Composition<br>of<br>each<br>country<br>or<br>group<br>in<br>total<br>GDP<br>of | |
-| | East<br>Asia<br>+<br>India,<br>1980–2015 | 275 |
-| 14.3 | GDP<br>catch-up<br>ratio<br>of<br>country<br>or<br>group<br>with<br>respect<br>to | |
-| | Japan,<br>1980–2012 | 276 |
-| 14.4 | Per<br>capita<br>GDP<br>catch-up<br>ratio<br>of<br>East<br>Asia<br>and<br>India<br>with | |
-| | respect<br>to<br>Japan,<br>1980–2015 | 276 |
-| 14.5 | Transition<br>of<br>spatial<br>relationships<br>of<br>capital,<br>labor,<br>and | |
-| | markets:<br>conceptual<br>chart | 283 |
-| 15.1 | Rate<br>of<br>growth<br>of<br>real<br>gross<br>fixed<br>capital<br>investment, | |
-| | Japan,<br>1966–2010 | 299 |
-| 15.2 | Rate<br>of<br>growth<br>of<br>real<br>gross<br>fixed<br>capital<br>investment, | |
-| | United<br>States,<br>1966–2010 | 300 |
-| 16.1 | Percent<br>homeowner<br>with<br>mortgage | 306 |
-| 16.2 | Output<br>per<br>hour,<br>real<br>hourly<br>wage<br>and<br>real<br>hourly | |
+| | longer
+postwar
+expansions,
+trough
+to
+peak
+(truncated
+at | |
+| | 25
+quarters) | 242 |
+| 12.6B | uarterly
+U. S.
+average
+duration
+of
+unemployment
+in | |
+| | longer
+postwar
+contractions,
+peak
+to
+trough | 243 |
+| 12.7 | Sources
+of
+U. S.
+GDP
+growth,
+by
+decade,
+1950-2010 | 244 |
+| 13.1 | Current
+account
+deficit/GDP
+in
+U. S. | 257 |
+| 13.2 | Investment
+and
+saving
+in
+U. S. | 258 |
+| 13.3 | Global
+dimension
+of
+global
+imbalances | 258 |
+| 13.4 | Changes
+in
+U. S.
+securities
+outstanding,
+2003
+and
+2007
+by | |
+| | country
+group | 262 |
+| 13.5 | Recent
+changes
+in
+current
+account
+deficit
+of
+U. S. | 265 |
+| 14.1 | Intraregional
+export
+ratio
+by
+region,
+1970-2009 | 274 |
+| 14.2 | Composition
+of
+each
+country
+or
+group
+in
+total
+GDP
+of | |
+| | East
+Asia
++
+India,
+1980-2015 | 275 |
+| 14.3 | GDP
+catch-up
+ratio
+of
+country
+or
+group
+with
+respect
+to | |
+| | Japan,
+1980-2012 | 276 |
+| 14.4 | Per
+capita
+GDP
+catch-up
+ratio
+of
+East
+Asia
+and
+India
+with | |
+| | respect
+to
+Japan,
+1980-2015 | 276 |
+| 14.5 | Transition
+of
+spatial
+relationships
+of
+capital,
+labor,
+and | |
+| | markets:
+conceptual
+chart | 283 |
+| 15.1 | Rate
+of
+growth
+of
+real
+gross
+fixed
+capital
+investment, | |
+| | Japan,
+1966-2010 | 299 |
+| 15.2 | Rate
+of
+growth
+of
+real
+gross
+fixed
+capital
+investment, | |
+| | United
+States,
+1966-2010 | 300 |
+| 16.1 | Percent
+homeowner
+with
+mortgage | 306 |
+| 16.2 | Output
+per
+hour,
+real
+hourly
+wage
+and
+real
+hourly | |
 | | compensation | 310 |
-| 16.3 | Monthly<br>necessary<br>payment<br>and<br>disposable<br>income<br>in | |
-| | narrow<br>sense<br>(Japan) | 312 |
-| 16.4 | Annual<br>necessary<br>payment<br>and<br>disposable<br>income<br>in | |
-| | narrow<br>sense | 313 |
+| 16.3 | Monthly
+necessary
+payment
+and
+disposable
+income
+in | |
+| | narrow
+sense
+(Japan) | 312 |
+| 16.4 | Annual
+necessary
+payment
+and
+disposable
+income
+in | |
+| | narrow
+sense | 313 |
 
 ## **Tables**
 
-| 1.1 | IMF<br>world<br>economic<br>outlook,<br>2007–12 | 18 |
+| 1.1 | IMF
+world
+economic
+outlook,
+2007-12 | 18 |
 |------|---------------------------------------------------------------------------------------------|---------|
-| 2.1 | Sub-prime<br>home<br>mortgage<br>loans<br>and<br>their<br>securitization, | |
-| | 2001–04 | 28 |
-| 2.2 | Base<br>case<br>estimates<br>of<br>writedowns<br>on<br>U. S.<br>loans | 46 |
-| 6.1 | Average<br>fluctuation<br>rate<br>of<br>price | 121 |
-| 7.1 | Periodization<br>of<br>capitalist<br>world<br>systems | 128 |
-| 8.1 | Financial<br>innovations:<br>sources<br>of<br>growth<br>or<br>of<br>crisis | 154 |
-| 8.2 | Comparison<br>of<br>four<br>crises<br>in<br>the<br>United<br>States<br>and<br>the<br>crisis | |
-| | in<br>Japan:<br>the<br>decisive<br>role<br>of<br>banks | 160–161 |
-| 8.3 | Financial<br>innovations<br>are<br>one<br>of<br>the<br>components<br>of<br>the | |
-| | process<br>of<br>growth | 169 |
-| 8.4 | Most<br>innovations<br>are<br>regulated<br>collectively | 170 |
-| 8.5 | Reducing<br>gravity<br>of<br>financial<br>crises,<br>instead<br>of<br>simply | |
-| | surmounting<br>them | 171 |
-| 9.1 | Economic<br>growth<br>models<br>in<br>major<br>countries | 185 |
-| 9.2 | Differentiated<br>world<br>economic<br>space<br>in<br>historical<br>changes | 188 |
-| 14.1 | Intraregional<br>export<br>ratio<br>of<br>IT-related<br>goods<br>(total,<br>parts, | |
-| | and<br>final<br>goods)<br>by<br>East<br>Asian<br>main<br>country/region<br>2000, | |
+| 2.1 | Sub-prime
+home
+mortgage
+loans
+and
+their
+securitization, | |
+| | 2001-04 | 28 |
+| 2.2 | Base
+case
+estimates
+of
+writedowns
+on
+U. S.
+loans | 46 |
+| 6.1 | Average
+fluctuation
+rate
+of
+price | 121 |
+| 7.1 | Periodization
+of
+capitalist
+world
+systems | 128 |
+| 8.1 | Financial
+innovations:
+sources
+of
+growth
+or
+of
+crisis | 154 |
+| 8.2 | Comparison
+of
+four
+crises
+in
+the
+United
+States
+and
+the
+crisis | |
+| | in
+Japan:
+the
+decisive
+role
+of
+banks | 160-161 |
+| 8.3 | Financial
+innovations
+are
+one
+of
+the
+components
+of
+the | |
+| | process
+of
+growth | 169 |
+| 8.4 | Most
+innovations
+are
+regulated
+collectively | 170 |
+| 8.5 | Reducing
+gravity
+of
+financial
+crises,
+instead
+of
+simply | |
+| | surmounting
+them | 171 |
+| 9.1 | Economic
+growth
+models
+in
+major
+countries | 185 |
+| 9.2 | Differentiated
+world
+economic
+space
+in
+historical
+changes | 188 |
+| 14.1 | Intraregional
+export
+ratio
+of
+IT-related
+goods
+(total,
+parts, | |
+| | and
+final
+goods)
+by
+East
+Asian
+main
+country/region
+2000, | |
 | | 2007 | 278 |
-| 14.2 | Comparison<br>of<br>NIEs<br>and<br>BRICs:<br>population,<br>trade<br>ratio, | |
-| | share<br>of<br>manufactured<br>goods<br>and<br>share<br>of<br>export<br>of<br>services | 282 |
+| 14.2 | Comparison
+of
+NIEs
+and
+BRICs:
+population,
+trade
+ratio, | |
+| | share
+of
+manufactured
+goods
+and
+share
+of
+export
+of
+services | 282 |
 
 ## **Contributors**
 
@@ -711,7 +1569,7 @@ Typeset in Times New Roman by Wearset Ltd, Boldon, Tyne and Wear
 - **Kang-Kook Lee** is Professor of College of Economics at Ritsumeikan University in Japan. He received his PhD at the University of Massachusetts, Amherst; his doctoral thesis explored capital account liberalization and economic growth. He specializes in international finance, development economics, and East Asia. His recent research interests include the effects of financial globalization on growth and inequality, financial crises and restructuring, and the East Asian economy.
 - **Dominique Lévy** is Research Director at the *Centre National de la Recherche Scientifique* (CNRS), in France. His publications with Gérard Duménil include *La dynamique du capital: Un siècle d'économie américaine*, 1996; *Au-delà du capitalisme*, 1998; and *Crise et sortie de crise: Ordres et désordres néolibéraux*, 2000. A translated version of this latter volume is available from Harvard University Press, under the title *Capital Resurgent: Roots of the Neoliberal Revolution.* These authors' latest joint book, also published by Harvard University Press, is *The Crisis of Neoliberalism*, 2011.
 - **Akira Matsumoto** is Professor at Ritsumeikan University, Japan. He received his doctorate in economics from Kokugakuin University, Tokyo, in 2002. He specializes in political economy, and money and credit theory. He has published articles on these subjects in the United States and Japan.
-- **Thomas Sekine** is formerly Professor of Economics, York University, Canada. He received his BA degree in economics from Hitotsubashi University in Japan, his MA from Mc Gill University in Canada, and his PhD from the London School of Economics in the UK. He taught at Simon Fraser University, York University (1966–94) and Aichi-Gakuin University (1994–2004). Now retired, he continues to work on the critique of bourgeois economics from the Unoist point of view
+- **Thomas Sekine** is formerly Professor of Economics, York University, Canada. He received his BA degree in economics from Hitotsubashi University in Japan, his MA from Mc Gill University in Canada, and his PhD from the London School of Economics in the UK. He taught at Simon Fraser University, York University (1966-94) and Aichi-Gakuin University (1994-2004). Now retired, he continues to work on the critique of bourgeois economics from the Unoist point of view
 - **Masayoshi Tatebe** is Professor of Money and Banking at Chuo University. He was educated at Osaka City University and Chuo University. His publications include *Managed Currency and Contemporary Economy* (Shin Hyoron, 1980, in Japanese) and *Contemporary Issues in the Theory of Money and Finance* (Ohtsuki, 1997, in Japanese).
 
 **Toshio Yamada** is Emeritus Professor at Nagoya University, having previously served as Professor of Economics at Osaka City University and Nagoya University, Japan. His works in English include *Japanese Capitalism in Crisis* (co-edited with R. Boyer), Routledge, 2000; "How has the Japanese Mode of *Régulation* Changed?" (co-authored with Y. Hirano), in R. Boyer *et al.* (eds) *Diversity and Transformations of Asian Capitalisms*, Routledge, 2012.
@@ -738,15 +1596,15 @@ First, many books describe the current crisis of capitalism from the viewpoint o
 
 ### 2 *Introduction*
 
-In a second approach, some books view crisis as resulting from regulatory flaws and myopia. For example, for analysts relying on a neoliberal vision of market equilibrium as a yardstick for economic outcomes, events such as the subprime crisis can be traced to regulatory flaws or government interference in markets. Some Keynesians also focus on mistakes in government intervention in markets; but for them, the problem is typically too little intervention, not too much as in the neoliberal perspective. Some historical approaches see landmark events such as asset bubbles (and their bursting) or currency crises as instances of behaviors that affect humans recurrently because of their fallibility and myopia. While writers emphasizing these perspectives are sometimes critical of neoclassical theory, they very rarely investigate the possibility that there exist multiple reference points that lead to the terrain beyond the neoclassical. Books describing the institutional mechanics and background of the 2008–09 financial crisis rarely engage deeply with the core questions of how the economy breaks down.
+In a second approach, some books view crisis as resulting from regulatory flaws and myopia. For example, for analysts relying on a neoliberal vision of market equilibrium as a yardstick for economic outcomes, events such as the subprime crisis can be traced to regulatory flaws or government interference in markets. Some Keynesians also focus on mistakes in government intervention in markets; but for them, the problem is typically too little intervention, not too much as in the neoliberal perspective. Some historical approaches see landmark events such as asset bubbles (and their bursting) or currency crises as instances of behaviors that affect humans recurrently because of their fallibility and myopia. While writers emphasizing these perspectives are sometimes critical of neoclassical theory, they very rarely investigate the possibility that there exist multiple reference points that lead to the terrain beyond the neoclassical. Books describing the institutional mechanics and background of the 2008-09 financial crisis rarely engage deeply with the core questions of how the economy breaks down.
 
-A third approach has been constructed on the basis of analyses rooted in Keynesian and post-Keynesian, Marxian and neo-Marxian, Régulation, and historical and evolutionary views. These views provide the elements needed to envision crises as systematic outcomes of capitalist dynamics. Events in global financial markets and macroeconomies in the past four years have been a strong reminder, if one was needed, of the need for a coherent theory of capitalist crisis as a guide to understanding unfolding events. These reinforce the need for well grounded alternative articulations of the forces that move economic dynamics today, of how they interact, and of how the ideas of foundational figures in economic theory – Marx, Keynes, Kalecki, and others – can be used to make sense of things today. And Minsky's financial instability hypothesis is especially important, because it generates an alternative vision of how financial markets work, one which begins from skepticism of neoclassical theory and then goes to an alternative theoretical framework built on some of Keynes' ideas.
+A third approach has been constructed on the basis of analyses rooted in Keynesian and post-Keynesian, Marxian and neo-Marxian, Régulation, and historical and evolutionary views. These views provide the elements needed to envision crises as systematic outcomes of capitalist dynamics. Events in global financial markets and macroeconomies in the past four years have been a strong reminder, if one was needed, of the need for a coherent theory of capitalist crisis as a guide to understanding unfolding events. These reinforce the need for well grounded alternative articulations of the forces that move economic dynamics today, of how they interact, and of how the ideas of foundational figures in economic theory - Marx, Keynes, Kalecki, and others - can be used to make sense of things today. And Minsky's financial instability hypothesis is especially important, because it generates an alternative vision of how financial markets work, one which begins from skepticism of neoclassical theory and then goes to an alternative theoretical framework built on some of Keynes' ideas.
 
 The power of these thinkers' ideas, when applied to the problems of today, is evident; but this does not mean that all debate ceases once those ideas begin to ground our thinking. For one thing, as noted above, neoclassical ideas can be readily used to explain any financial crisis, even the most severe. Debates among economists from different viewpoints will continue, as ever, in a thick exchange of cross-cutting views on this and other topics. For another thing, while neo-Marxian views of the crisis are compelling and generally well known, they are not sufficient in themselves to constitute an adequate explanation. Constructing a coherent theory of capitalist crisis as a guide to understanding unfolding events requires sorting out "pure" economic dynamics from historically conjectural circumstances, and distinguishing among institutional and regulatory mechanisms that facilitate and that block growth. These requirements are exactly what are provided in this book.
 
-### **Why a book based on presentations in Japan and scholarship by Japanese scholars – and specifically by JSPE members?**
+### **Why a book based on presentations in Japan and scholarship by Japanese scholars - and specifically by JSPE members?**
 
-Japan has been an important laboratory for developing and debating ideas about capitalism and its dynamics. Japan has given rise to several distinct strands of Marxian political economy. Foremost among them is the Uno School, which is well represented in this volume. The Japanese political economist Kozo Uno developed an approach to understanding capitalism (and appropriating Marx's ideas) that contains three levels of analysis: the general theory of capitalism; the stages of capitalist developments; and detailed studies of particular countries and time-periods. This differentiation permits analysts to conceptualize and debate, separately, the economic dynamics of unadulterated capitalism, the behavioral modifications that arise because of the imposition of some defining rules that pertain to one or more capitalist economies for a period of time (that is, because of the creation or destruction of "regimes" of capitalist accumulation), and the specific institutional characteristics of given markets at particular points in time. Further, many political economists in Japan have chosen to work with diverse approaches to political economy – the French Régulation school, the Cambridge Keynesian models, institutionalism and historical schools, and so on.
+Japan has been an important laboratory for developing and debating ideas about capitalism and its dynamics. Japan has given rise to several distinct strands of Marxian political economy. Foremost among them is the Uno School, which is well represented in this volume. The Japanese political economist Kozo Uno developed an approach to understanding capitalism (and appropriating Marx's ideas) that contains three levels of analysis: the general theory of capitalism; the stages of capitalist developments; and detailed studies of particular countries and time-periods. This differentiation permits analysts to conceptualize and debate, separately, the economic dynamics of unadulterated capitalism, the behavioral modifications that arise because of the imposition of some defining rules that pertain to one or more capitalist economies for a period of time (that is, because of the creation or destruction of "regimes" of capitalist accumulation), and the specific institutional characteristics of given markets at particular points in time. Further, many political economists in Japan have chosen to work with diverse approaches to political economy - the French Régulation school, the Cambridge Keynesian models, institutionalism and historical schools, and so on.
 
 The Japan Society of Political Economy has been the largest organization of heterodox economists in Japan since its founding in 1959; its annual meetings have provided important occasions for debate among diverse points of view. Beginning in October 2001, the JSPE began inviting non-Japanese economists to make presentations and engage in debates at these annual meetings. This book represents an encounter between Japanese and non-Japanese scholars, focused on the common problem of how to understand the current economic situation. The contributors represented here have all participated in the JSPE annual meeting.
 
@@ -768,11 +1626,11 @@ This book pays special attention to structural changes such as those involving l
 
 The first part of the book considers the mechanism of the crisis of 2008 and its consequences. The six chapters argue that an understanding of Marx's crisis theory can serve as a powerful and useful framework in the analysis of this contemporary subprime world crisis. Financialization is the common concept of these chapters.
 
-Makoto Itoh (Chapter 1) argues that the understanding of Marx's monetary and crisis theory in the Japanese Uno-school can powerfully serve as a framework in the analysis of the contemporary subprime world crisis. He focuses on financial exploitation of workers, which he calls the financialization of laborpower, as a basic cause of the subprime crisis. The U. S. subprime crisis spread across the world since the global financial market was mobilized to pour idle money into U. S. speculative housing loans. He argues that the Japanese economy was deeply shaken by the subprime loan crisis, since the Japanese economic recovery in 2002–07 mostly depended on the increase in exports, which was strongly damaged by the crisis. The great earthquake, the resultant giant Tsunami, and nuclear disaster deepened the structural crises in Japanese economy. He analyzes them in view of fundamental problems in the capitalist market economy together with their contemporary features.
+Makoto Itoh (Chapter 1) argues that the understanding of Marx's monetary and crisis theory in the Japanese Uno-school can powerfully serve as a framework in the analysis of the contemporary subprime world crisis. He focuses on financial exploitation of workers, which he calls the financialization of laborpower, as a basic cause of the subprime crisis. The U. S. subprime crisis spread across the world since the global financial market was mobilized to pour idle money into U. S. speculative housing loans. He argues that the Japanese economy was deeply shaken by the subprime loan crisis, since the Japanese economic recovery in 2002-07 mostly depended on the increase in exports, which was strongly damaged by the crisis. The great earthquake, the resultant giant Tsunami, and nuclear disaster deepened the structural crises in Japanese economy. He analyzes them in view of fundamental problems in the capitalist market economy together with their contemporary features.
 
 Tetsuji Kawamura (Chapter 2) argues that the postwar corporate structure of the United States revealed its own limits in the late 1960s and that its restructuring and transformation created a new nexus of capital accumulation system. The emergence of this nexus represents an integrated consequence of the globalization of American corporate activity, finance, and information and of the neoliberal transformation of government functions touched off by Reaganomics. He examines American economic cycles in terms of the emergence of this new nexus of capital accumulation system. He emphasizes the collapse of the institutionally flawed mechanisms that linked the U. S. and global financial systems, and argues that the financial engineering that created securitization gave way to casinoization and has revealed the transitional nature of the current U. S.-centered global regime.
 
-Costas Lapavitsas (Chapter 3) focuses on some of the structural dimensions of financialization as key causes of the crisis of 2007–09. He points out three main features of financialization: first, less reliance of large corporations on banks; second, banks shifting their activities toward mediating in open markets and transacting with individuals; third, increasing implication of individuals in the operations of finance. He argues that financialization represents the transformation of capitalist production and finance which is systemic and that these structural factors ultimately account for the crisis of 2007–09.
+Costas Lapavitsas (Chapter 3) focuses on some of the structural dimensions of financialization as key causes of the crisis of 2007-09. He points out three main features of financialization: first, less reliance of large corporations on banks; second, banks shifting their activities toward mediating in open markets and transacting with individuals; third, increasing implication of individuals in the operations of finance. He argues that financialization represents the transformation of capitalist production and finance which is systemic and that these structural factors ultimately account for the crisis of 2007-09.
 
 Masayoshi Tatebe (Chapter 4) defines surplus capital as money capital not used for productive investment because of the low expected profit rate and concern about the financial market pursuing financial gain. He argues that surplus capital has been generated since the 1990s and developed into "casinotype financial capital," which has controlled the destiny of the real economy and led to a crisis.
 
@@ -818,7 +1676,7 @@ The chapters presented in this book provide continuing and essential analyses of
 
 ## *Makoto Itoh*
 
-### **The historical character of the subprime crisis**<sup>1</sup>
+### **The historical character of the subprime crisis**1
 
 The historical character of any economic crisis is always determined by the nature of the preceding economic boom. The worldwide economic boom preceding the subprime crisis was led mainly by the U. S. economic recovery and growth from 2002 onward. As about 40 percent of U. S. economic growth in this period is estimated to have depended on the housing sector, the housing boom and the associated financial expansion to mobilize idle global funds into U. S. consumer credit obviously formed the major source of prosperity.2
 
@@ -826,7 +1684,7 @@ The housing boom in the U. S. started anew in 1996, along with the New Economy (
 
 U. S. housing loans are divided into prime and subprime; the latter is typically loans to people of lower income with low creditworthiness. More concretely, subprime loans are made to people with a record of delayed repayment on past loans, or an estimated FICO credit score of under 660 (in a credit scoring system initiated by Fair Isaac Co., with a maximum score of 900), or even debt repayments comprising more than 50 percent of their income.
 
-In the past people classed as subprime were mostly excluded from housing loans. But after 2001 there was a rapid growth of housing loans, and especially of subprime loans in the U. S. The growth of lending promoted, and was also facilitated by, steadily rising house prices, until by 2006 their level was on average double that of 1996. Total outstanding U. S. housing loans reached \$13 trillion (almost equivalent to GDP) at the end of 2006. The proportion of subprime loans increased continuously to 20 percent of the flow – and 13 percent of the entire stock (\$1.7 trillion in real terms) – of housing loans.3
+In the past people classed as subprime were mostly excluded from housing loans. But after 2001 there was a rapid growth of housing loans, and especially of subprime loans in the U. S. The growth of lending promoted, and was also facilitated by, steadily rising house prices, until by 2006 their level was on average double that of 1996. Total outstanding U. S. housing loans reached \$13 trillion (almost equivalent to GDP) at the end of 2006. The proportion of subprime loans increased continuously to 20 percent of the flow - and 13 percent of the entire stock (\$1.7 trillion in real terms) - of housing loans.3
 
 Since the typical size of subprime loans is around \$200,000, they have been obtained by roughly 8.5 million households (comprising more than 25 million people).4 Assuming that the average size of housing loans is about \$300,000, the total stock of U. S. housing loans at the end of 2006 was taken up by roughly 43.3 million households, or about 43 percent of the U. S. population. Thus, an unprecedentedly large proportion of the population was involved in housing credit in this period.
 
@@ -834,29 +1692,29 @@ In retrospect, during the long historical process of capitalist development, the
 
 These mechanisms of consumer credit have been relatively small and marginal to the modern banking and financial systems. However, as large nonfinancial business enterprises became increasingly reliant on self-finance, formal financial institutions have had fewer opportunities to lend to non-financial enterprises. Thus, major banks and other financial institutions began to expand consumer credit, and especially housing loans, to working people, gradually advancing toward lower income layers. In this sense, the commodity of laborpower has become increasingly financialized. This tendency can be called financialization of labor-power.5 It was clearly present already in the course of the Japanese bubble in the late 1980s, but has been enormously exacerbated during the recent U. S. housing boom. Banks and related real estate agencies have aggressively tempted workers to borrow by dangling the prospect of capital gains in the course of the U. S. housing boom.
 
-For instance, a hybrid type of housing loan which allows much lower teaser rates of interest for the initial 2–5 years was broadly recommended by suggesting a possibility of capital gain through a rise in the price of the purchased house during these teaser rate years, as well as an expectation of resetting the housing loan favorably again based on the elevated market price of housing. Home equity loans also made housing loans more attractive, by enabling borrowers to utilize appreciation in the market value of their houses, captured in a mortgage instrument, as an additional basis for their (consumer) card loans. Financial institutions mobilized IT to flexibly design and sell these kinds of housing loans. Historically, actions that had led to the democratization of the financial system as a result of the civil rights movement, such as the Community Reinvestment Act (1977) and Alternative Mortgage Transaction Parity Act (1982), and that had induced banks and other financial enterprises to lend more to local areas without discrimination against poor people and their residential district, ironically served to promote sales of housing loans more and more broadly – including loans to subprime borrowers – subsequently causing so many tragic foreclosures.
+For instance, a hybrid type of housing loan which allows much lower teaser rates of interest for the initial 2-5 years was broadly recommended by suggesting a possibility of capital gain through a rise in the price of the purchased house during these teaser rate years, as well as an expectation of resetting the housing loan favorably again based on the elevated market price of housing. Home equity loans also made housing loans more attractive, by enabling borrowers to utilize appreciation in the market value of their houses, captured in a mortgage instrument, as an additional basis for their (consumer) card loans. Financial institutions mobilized IT to flexibly design and sell these kinds of housing loans. Historically, actions that had led to the democratization of the financial system as a result of the civil rights movement, such as the Community Reinvestment Act (1977) and Alternative Mortgage Transaction Parity Act (1982), and that had induced banks and other financial enterprises to lend more to local areas without discrimination against poor people and their residential district, ironically served to promote sales of housing loans more and more broadly - including loans to subprime borrowers - subsequently causing so many tragic foreclosures.
 
 In contrast to the Japanese bubble economy in the late 1990s, wherein speculative trading of real estate and shares was financed domestically, depending on the traditionally high rate of household saving of about 15 percent of annual GDP, the huge amount of housing finance in this U. S. boom had to be supplied globally from abroad, since the U. S. saving rate was as low as 2 percent in this period. To suit this necessity, a new system of housing finance was formed. This system was structurally doubled. In the first layer, original lenders, typically mortgage companies, lend housing loans to individual households. In the second they immediately resell mortgage housing loans to other financial companies such as Special Purpose Vehicles (SPV) owned by big investment banks. SPVs then combined large number of mortgage loans into mortgage-backed securities (MBS) to sell to various other financial institutions in the world market. Furthermore, Collateralized Debt Obligations (CDOs) were created by combining MBS with other Asset Backed Securities (ABSs), such as those based on automobile loans; further, various kinds of financial insurance policies in the form of securities were also sold globally. This multiple-layered loan securitization functioned as a financial mechanism to mobilize the global financial market for the U. S. housing boom.
 
-This system was called "originate-to-distribute," against the older practice of "originate-to-hold" in housing finance, which was common to Japanese banks and the U. S. Saving & Loan Associations (S&Ls) until the 1980s. The older "originate-to-hold" loan type was a sort of indirect finance, for originators of mortgage loans used to hold them until due by utilizing deposit funds they received. In the new "originate-to-distribute" loan type, originators do not receive deposits, but instead rely on direct finance based upon loan securitization, which could be set up outside of banking regulations. It is broadly believed that the new type of housing finance is more efficient and rational than the older type as a mechanism for mobilizing global financial resource for use by promising users via the capital market. While the older type of indirect banking credit often relies on personal relationships, with tendencies leading toward crony capitalism, the new system of securitizing loans is assumed to be more transparent and rational. It is also assumed that the risks contained in individual housing loans – including subprime loans – could be dispersed and reduced by binding them into MBSs and CDOs.
+This system was called "originate-to-distribute," against the older practice of "originate-to-hold" in housing finance, which was common to Japanese banks and the U. S. Saving & Loan Associations (S&Ls) until the 1980s. The older "originate-to-hold" loan type was a sort of indirect finance, for originators of mortgage loans used to hold them until due by utilizing deposit funds they received. In the new "originate-to-distribute" loan type, originators do not receive deposits, but instead rely on direct finance based upon loan securitization, which could be set up outside of banking regulations. It is broadly believed that the new type of housing finance is more efficient and rational than the older type as a mechanism for mobilizing global financial resource for use by promising users via the capital market. While the older type of indirect banking credit often relies on personal relationships, with tendencies leading toward crony capitalism, the new system of securitizing loans is assumed to be more transparent and rational. It is also assumed that the risks contained in individual housing loans - including subprime loans - could be dispersed and reduced by binding them into MBSs and CDOs.
 
-So long as house prices continued to rise, this theory and these assumptions seemed sound. However house prices could not move upward forever; they actually peaked toward the end of 2006 and then began to fall. Then, mortgage debtors could no longer realize the expected capital gain by their houses purchased, nor reset mortgage debts advantageously on the basis of increased house prices; instead they suffered from a sharp rise in repayment after 2–5 years of initial "teaser" rates of interest. For example, the amount of monthly return payment for a typical 2/28 hybrid type of housing loan of \$200,000 (fixed teaser rate of interest for the initial two years, and floating interest rates for the remaining 28 years) would increase from \$1,531 in the initial two years to \$2,152 in the fourth year (even without any change in the market rate of interest) and possibly to \$2,370 in the fifth year (when the market interest rate rises by 2 percent).6 Such a rise in return payment was called repayment shock. The number of foreclosures thereby increased rapidly in the U. S. in 2007 as house prices declined, reaching more than two million by the end of 2008. For the debtors thrown out of their houses, as vividly presented in the initial scene of Michael Moore's movie "Capitalism," past payments on loans as well as expenditures on house durables had been totally lost. These losses spread from low income borrowers in the subprime category to others. Even for borrowers who escaped foreclosure, the market value of their houses often declined to below the remaining mortgage debt, which remained to be repaid for long years to come, in addition to the capital loss. Housing finance thus really worked by stealing from tens of millions of mortgage debtors.
+So long as house prices continued to rise, this theory and these assumptions seemed sound. However house prices could not move upward forever; they actually peaked toward the end of 2006 and then began to fall. Then, mortgage debtors could no longer realize the expected capital gain by their houses purchased, nor reset mortgage debts advantageously on the basis of increased house prices; instead they suffered from a sharp rise in repayment after 2-5 years of initial "teaser" rates of interest. For example, the amount of monthly return payment for a typical 2/28 hybrid type of housing loan of \$200,000 (fixed teaser rate of interest for the initial two years, and floating interest rates for the remaining 28 years) would increase from \$1,531 in the initial two years to \$2,152 in the fourth year (even without any change in the market rate of interest) and possibly to \$2,370 in the fifth year (when the market interest rate rises by 2 percent).6 Such a rise in return payment was called repayment shock. The number of foreclosures thereby increased rapidly in the U. S. in 2007 as house prices declined, reaching more than two million by the end of 2008. For the debtors thrown out of their houses, as vividly presented in the initial scene of Michael Moore's movie "Capitalism," past payments on loans as well as expenditures on house durables had been totally lost. These losses spread from low income borrowers in the subprime category to others. Even for borrowers who escaped foreclosure, the market value of their houses often declined to below the remaining mortgage debt, which remained to be repaid for long years to come, in addition to the capital loss. Housing finance thus really worked by stealing from tens of millions of mortgage debtors.
 
 As difficulties of repayment spread from subprime housing loans, the prices of MBSs and CDOs had to deteriorate. The subprime financial crisis started when two hedge funds attached to Bear Sterns investment bank failed due to losses in subprime mortgage-backed securities in June 2007. The financial crisis deepened globally, especially following the failure of Lehman Brothers in September 2008 (the Lehman shock), as American MBSs and related securities such as CDOs, as well as financial insurance policy securities, had to be sold with falling prices in the world market. In some European countries, such as the UK and Spain, a similar housing bubble burst in the process of the subprime financial crisis. Most European banks and many other financial institutions were hit seriously as they had purchased a large portion of the American MBS and the related securities.
 
-The financial crisis destroyed the market value of many forms of real estate and financial securities and caused the destruction of many investment banks and other financial firms. It also forced reductions in real (non-financial) business activities both directly and indirectly, through a decline in investment, employment, and consumer demand, through an increase in unemployment, and through business failures in advanced economies (such as the Big Three – GM, Chrysler, and Ford). The subprime economic crisis was characterized as "a tsunami once in a hundred years" by Alan Greenspan, the former Chairman of the Federal Reserve Board. However, it was not an economic disaster caused by an external shock like a tsunami, but clearly an outcome of the endogenous working of the capitalist market economy itself, unleashed by neoliberal deregulation of social controls.
+The financial crisis destroyed the market value of many forms of real estate and financial securities and caused the destruction of many investment banks and other financial firms. It also forced reductions in real (non-financial) business activities both directly and indirectly, through a decline in investment, employment, and consumer demand, through an increase in unemployment, and through business failures in advanced economies (such as the Big Three - GM, Chrysler, and Ford). The subprime economic crisis was characterized as "a tsunami once in a hundred years" by Alan Greenspan, the former Chairman of the Federal Reserve Board. However, it was not an economic disaster caused by an external shock like a tsunami, but clearly an outcome of the endogenous working of the capitalist market economy itself, unleashed by neoliberal deregulation of social controls.
 
 The neoclassical microeconomics which served as a foundation of neoliberal economic policies since the 1980s was unable theoretically to understand such an enormous irrational economic disaster as a consequence of liberalization of the market economy, as this school believed that the most efficient and rational utilization of economic resources must be realized through free and competitive markets encompassing the financial security market. Thus, a disastrous economic crisis such as the subprime had to be attributed to an external shock like a tsunami from outside the mechanism of the market.
 
 In comparison, post-Keynesians such as Minsky presented a deeper theoretical model of financial instability, including the tendency toward a growing proportion of speculative Ponzi finance in the course of a boom, in accord with the Keynesian tradition of underlining the role of expectations in financial markets.7 Minsky's model of financial instability is much superior to the orthodox neoclassical microeconomics in its insight into the inevitability of repetitive financial bubbles and their outbursts in the age of neoliberalism, as experienced in Japan at the end of the 1980s, in the Asian crisis in 1997, and in the collapse of the U. S. New Economy in 2001, culminating in the subprime crisis.
 
-However, in the tradition of Keynesian theory as an ahistorical and psychological analysis, Minsky's model tends to over-generalize its logic and miss a series of historically crucial problems. First, why must financial crises appear repeatedly as an objective result of the working of the capitalist market economy in relation to the industrial accumulation of capital? Was not financial instability once the result of an over-accumulation of industrial capital in the classic business cycles? Second, why have hypertrophied financial bubbles become so conspicuous since the 1980s, in comparison with the period of high economic growth that lasted until the beginning of 1970s? Third, why has neoliberalism became so dominant as a policy tide in this period as to promote deregulation that included the financial market and its speculative activities? Fourth, why was the financialization of labor-power – the role of consumer credit such as housing loans – incorporated as the central driving mechanism in the recent processes that caused the subprime crisis, contrary to Minsky's model?
+However, in the tradition of Keynesian theory as an ahistorical and psychological analysis, Minsky's model tends to over-generalize its logic and miss a series of historically crucial problems. First, why must financial crises appear repeatedly as an objective result of the working of the capitalist market economy in relation to the industrial accumulation of capital? Was not financial instability once the result of an over-accumulation of industrial capital in the classic business cycles? Second, why have hypertrophied financial bubbles become so conspicuous since the 1980s, in comparison with the period of high economic growth that lasted until the beginning of 1970s? Third, why has neoliberalism became so dominant as a policy tide in this period as to promote deregulation that included the financial market and its speculative activities? Fourth, why was the financialization of labor-power - the role of consumer credit such as housing loans - incorporated as the central driving mechanism in the recent processes that caused the subprime crisis, contrary to Minsky's model?
 
 In order to solve these problems, Marxian historical and objective approaches are useful. Prior to Keynes, Marx powerfully demonstrated that the credit mechanism plays its objective roles in the changing phases of business cycles.8 The positive and rational function of the credit system in the process of prosperity is to socially mobilize the idle money fund so as to distribute it to industrial capitalists, who need it to expand their production. This process continues so long as industrial accumulation goes on without internal difficulty as a whole. When over-accumulation occurs, however, in relation to the limit of the working population, the price adjustment mechanism is widely distorted in the final phase of prosperity, as a result of the inevitable rise of wages due to labor shortage. Speculative trading and stockpiling change the role of the credit system, and increase the proportion of speculative borrowers. As a result, the shortage of supply of idle funds in the face of an increasing demand for credit tightens banking credit, and pushes the rate of interest up even while the profit rate is falling due to a rise in wages. Tightening banking credit with a higher interest rate forces an end to speculative trading and stockpiling as typical initial phenomena of cyclical economic crisis. The financial, commercial, and industrial crises combine to destroy capital values in various forms, and increase unemployment with a reduction of wages. In the phase of depression after the crisis, industrial capital in the form of productive capacity, labor-power, and loanable money capital, tend to be idle together and cannot easily be mobilized under the conditions of depressed consumer and industrial demand. Stagnation has to be overcome toward the end of depression as fixed capitals are generally replaced so as to enable a renovation in relation of production between capitals and workers for positive industrial accumulation.
 
 We can read and complete this sort of theory of typical cyclical economic crises in Marx's *Capital* as an essential part of the basic principles of political economy, and utilize it as a frame of reference in more concrete analyses of contemporary capitalism.
 
-Actually, industrial accumulation of capital in major advanced countries became excessive toward the beginning of the 1970s in relation to domestic reserves of the working population and to the supply capacity of primary products in the world market. As a result, a labor shortage – with a rapid rise in real wages together with rising prices of primary products – reduced profit rates9 and simultaneously promoted the speculative trading and stockpiling of primary products, just as in the last phase of prosperity in Marx's basic theory of business cycles (summarized above). However, the appearance of economic crisis took the form of an inflationary crisis at that time, as the supply of money and credit was (unlike in the classic model of business cycles and crises) not tightened but continuously expanded. These policies were pursued because this period coincided with the period of the breakdown in the Bretton Woods international monetary system and a transition to a floating exchange rate system, still under the strong influence of Keynesian belief in the use of inflationary fiscal and monetary policies to cope with economic crisis. Vicious inflation – including the first oil shock in 1973–74, resulting in rising prices for other primary products and for labor-power – caused a serious disaster in advanced capitalist economies, and kicked off a long downturn that involved a large-scale and prolonged process of industrial depression among those economies.
+Actually, industrial accumulation of capital in major advanced countries became excessive toward the beginning of the 1970s in relation to domestic reserves of the working population and to the supply capacity of primary products in the world market. As a result, a labor shortage - with a rapid rise in real wages together with rising prices of primary products - reduced profit rates9 and simultaneously promoted the speculative trading and stockpiling of primary products, just as in the last phase of prosperity in Marx's basic theory of business cycles (summarized above). However, the appearance of economic crisis took the form of an inflationary crisis at that time, as the supply of money and credit was (unlike in the classic model of business cycles and crises) not tightened but continuously expanded. These policies were pursued because this period coincided with the period of the breakdown in the Bretton Woods international monetary system and a transition to a floating exchange rate system, still under the strong influence of Keynesian belief in the use of inflationary fiscal and monetary policies to cope with economic crisis. Vicious inflation - including the first oil shock in 1973-74, resulting in rising prices for other primary products and for labor-power - caused a serious disaster in advanced capitalist economies, and kicked off a long downturn that involved a large-scale and prolonged process of industrial depression among those economies.
 
 Just as in the phase of depression after cyclical crisis, this long downturn forced severe competition for survival among capitalists. Brenner, for instance, emphasizes the increased international competitive pressure in the world market as a fundamental cause of a long downturn with a continuous depression in industrial profit rates.10 He intends to explain why speculative bubbles and their bursting have become intermittently repetitive in the context of continuous difficulty in industrial accumulation, in contrast to Minsky's over-generalized model of financial instability. We should note that behind the increased horizontal international industrial competitive pressure, a large-scale vertical restructuring of the relations of production also took place between capitalists and workers in advanced countries in the prolonged downturn (essentially as in the phase of depression in the classic model of business cycles).
 
@@ -870,28 +1728,35 @@ At the same time, the structural impact of the subprime crisis could not easily 
 
 ### **The serious impact on Japanese capitalism**
 
-As we see in Table 1.1, among advanced economies the Japanese economy descended early into negative growth, in 2008, and declined more deeply in 2009, by –6.3 percent. Why was the Japanese economy so vulnerable to the subprime world crisis? This problem contains a paradox. When this world crisis originated in the U. S. financial bubble and its bursting in relation to the housing boom, the Japanese financial sector remained relatively stable. Japanese banks and other financial institutions were nervous about speculative risk after the bitter experience of their continuous difficulties in coping with bad loans in the 1990s, which resulted from the bursting of a huge domestic bubble in the late 1980s. Thus the share of Japan in total U. S. MBSs held abroad was just 6 percent, and relatively small in comparison with the 13 percent share of the UK or the Dutch share of 8 percent.
+As we see in Table 1.1, among advanced economies the Japanese economy descended early into negative growth, in 2008, and declined more deeply in 2009, by -6.3 percent. Why was the Japanese economy so vulnerable to the subprime world crisis? This problem contains a paradox. When this world crisis originated in the U. S. financial bubble and its bursting in relation to the housing boom, the Japanese financial sector remained relatively stable. Japanese banks and other financial institutions were nervous about speculative risk after the bitter experience of their continuous difficulties in coping with bad loans in the 1990s, which resulted from the bursting of a huge domestic bubble in the late 1980s. Thus the share of Japan in total U. S. MBSs held abroad was just 6 percent, and relatively small in comparison with the 13 percent share of the UK or the Dutch share of 8 percent.
 
 The U. S. and European economies spread the destructive impact of the subprime crisis from the financial sector to the non-financial business sectors. The Japanese real economy, by contrast, suffered most among the major advanced economies despite the relative stability in its financial sector. Why?
 
 The reason must lie in the preceding structural weaknesses in the Japanese real economy. According to the *White Paper on the Economy and Public Finance (2008)* (Japanese Cabinet Office, 2008), the contribution to increases in demand for Japanese real GDP growth in the recovery period from the first quarter of 2002 to 2007 were 1.08 times from domestic demand, 1.08 times from consumer demand, 1.29 times from investment in plant and equipment, and 1.81 times from exports. Therefore, the Japanese economic recovery in this boom period overwhelmingly depended upon the increase in exports. While domestic demand remained quite stagnant and weak, Japanese growth was pulled along largely by the U. S. consumer boom together with the rapid economic growth in China and in other Asian economies.
 
-## *Table 1.1* IMF world economic outlook, 2007–12
+## *Table 1.1* IMF world economic outlook, 2007-12
 
-| | Annual | output: | growth | rate<br>(%) | | |
+| | Annual | output: | growth | rate
+(%) | | |
 |--------------------------------------------|--------|---------|--------|-------------|------|------|
 | | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 |
-| World | 5.4 | 2.8 | –0.7 | 5.2 | 3.8 | 3.3 |
-| Advanced<br>economies | 2.8 | 0.1 | –3.7 | 3.2 | 1.6 | 1.2 |
-| USA | 1.9 | –0.3 | –3.5 | 3.0 | 1.8 | 1.8 |
-| Euro<br>Area | 3.0 | 0.4 | –4.3 | 1.9 | 1.6 | –0.5 |
-| Japan | 2.4 | –1.2 | –6.3 | 4.4 | –0.9 | 1.7 |
-| Emerging<br>and<br>developing<br>economies | 8.9 | 6.0 | 2.8 | 7.3 | 6.2 | 5.4 |
-| Developing<br>Asia | 11.5 | 7.7 | 7.2 | 9.5 | 7.9 | 7.3 |
+| World | 5.4 | 2.8 | -0.7 | 5.2 | 3.8 | 3.3 |
+| Advanced
+economies | 2.8 | 0.1 | -3.7 | 3.2 | 1.6 | 1.2 |
+| USA | 1.9 | -0.3 | -3.5 | 3.0 | 1.8 | 1.8 |
+| Euro
+Area | 3.0 | 0.4 | -4.3 | 1.9 | 1.6 | -0.5 |
+| Japan | 2.4 | -1.2 | -6.3 | 4.4 | -0.9 | 1.7 |
+| Emerging
+and
+developing
+economies | 8.9 | 6.0 | 2.8 | 7.3 | 6.2 | 5.4 |
+| Developing
+Asia | 11.5 | 7.7 | 7.2 | 9.5 | 7.9 | 7.3 |
 | China | 14.2 | 9.6 | 9.2 | 10.4 | 9.2 | 9.2 |
 ## | India | 10.0 | 6.2 | 6.8 | 9.9 | 7.4 | 7.3 |
 
-Source: IMF *World Economic Outlook*, September 2011 (for 2007–09) and January 2012 (for 2010–12).
+Source: IMF *World Economic Outlook*, September 2011 (for 2007-09) and January 2012 (for 2010-12).
 
 By increasing exports, Japanese business corporations enjoyed widely distributed rising profits. The total current profit of business corporations as a whole increased by 1.8 times between 2002 and 2007, from 33.2 trillion yen to 60.5 trillion yen.11 Toyota's current profit reached a historic peak of 2.2 trillion yen in both 2006 and 2007.
 
@@ -899,33 +1764,33 @@ In contrast, average monthly cash earnings per worker continued to decline from 
 
 Such contrasting trends in income between capitalist firms and the mass of working people were a result of the neoliberal globalization of Japanese capitalism since the 1980s. In the period of high economic growth until the beginning of the 1970s, the Japanese style of the Fordist regime of accumulation expanded domestic consumer demand through more cooperative social relations between capitalists and workers (or trade union organizations): employment expanded, and real wages increased roughly in proportion to the rise in productivity and profit. After the 1980s, the continuous and repetitive economic crises depressed the Japanese growth trend, neoliberal policies weakened the social power of trade unions through privatization of public enterprises, and the impact of IT enabled capitalist firms to use more and more irregular cheap labor, especially that of women. The global competition with other Asian countries, as well as a multi-nationalization of Japanese business activities that included a tendency toward industrial hollowing out, also worked unfavorably against workers.
 
-As a consequence, Japanese economic recovery since the 1980s had to resort either to a domestic speculative bubble economy to boost domestic demand unstably, as in the late 1980s, or to an increase in exports due to stagnant and weak domestic demand, as in 2002–07. Beside the downward trend in wages and other labor conditions, the weakness in Japanese domestic demand was aggravated also by anxiety among people in general about future economic life due both to a rapid shift toward an aging society with a diminishing younger working population, and to the fiscal crisis of the state. As the proportion of outstanding Japanese government bonds against GDP increased steadily from 28.4 percent in 1980 to 36.8 percent in 1990, to 86.0 percent in 2002, and further to 105.0 percent in 2007 – a ratio that is clearly among the worst for major advanced countries – fears about the future of pension schemes and about increases in the individual burden of medical costs (and of taxes) in an aging society tended to restrict consumer expenditure.
+As a consequence, Japanese economic recovery since the 1980s had to resort either to a domestic speculative bubble economy to boost domestic demand unstably, as in the late 1980s, or to an increase in exports due to stagnant and weak domestic demand, as in 2002-07. Beside the downward trend in wages and other labor conditions, the weakness in Japanese domestic demand was aggravated also by anxiety among people in general about future economic life due both to a rapid shift toward an aging society with a diminishing younger working population, and to the fiscal crisis of the state. As the proportion of outstanding Japanese government bonds against GDP increased steadily from 28.4 percent in 1980 to 36.8 percent in 1990, to 86.0 percent in 2002, and further to 105.0 percent in 2007 - a ratio that is clearly among the worst for major advanced countries - fears about the future of pension schemes and about increases in the individual burden of medical costs (and of taxes) in an aging society tended to restrict consumer expenditure.
 
-So long as the Japanese economic recovery in 2002–07 mostly depended on the increase in exports under these circumstances, the Japanese economy was inevitably deeply shaken by the decline of exports during the subprime world economic crisis to the U. S., to the EU, and to other Asian countries, even without much damage in its financial sector. So although the direct shock of the crisis surely arose abroad, originating in the U. S. subprime financial crisis, the main reasons why its workings were the worst for the Japanese real economy among the major advanced economies are to be found in socio-economic weaknesses that exist in Japan.
+So long as the Japanese economic recovery in 2002-07 mostly depended on the increase in exports under these circumstances, the Japanese economy was inevitably deeply shaken by the decline of exports during the subprime world economic crisis to the U. S., to the EU, and to other Asian countries, even without much damage in its financial sector. So although the direct shock of the crisis surely arose abroad, originating in the U. S. subprime financial crisis, the main reasons why its workings were the worst for the Japanese real economy among the major advanced economies are to be found in socio-economic weaknesses that exist in Japan.
 
 The majority of Japanese people naturally opted for a change of government from the Liberal Democratic Party (LDP) to Democratic Party (DP) in the August 2009 general election, which followed the change to the Democratic Obama administration in the U. S. at the beginning of the same year. This electoral majority expected the election manifesto of the DP to promise more favorable policies for common people, as well as solutions addressing the fear of depopulation and ecological crisis, such as the child allowance policy and the eco-point system supporting consumer expenditures on ecologically desirable electric appliances and cars.
 
-Actually these policies, combined with other emergency monetary and fiscal policies, worked to a considerable extent. The Japanese economic growth rate recovered from –6.3 percent in 2009 to 4.4 percent in 2010 – a considerable turnaround of 10.7 percent, which however did not yet represent a full recovery from the decline of the previous two years (Table 1.1).
+Actually these policies, combined with other emergency monetary and fiscal policies, worked to a considerable extent. The Japanese economic growth rate recovered from -6.3 percent in 2009 to 4.4 percent in 2010 - a considerable turnaround of 10.7 percent, which however did not yet represent a full recovery from the decline of the previous two years (Table 1.1).
 
 However, the economic recovery in 2010 could not continue at a strong pace. The growth in output was achieved mainly by mobilizing idle capacity and idle workers in corporations and was insufficient in igniting either an expansion of employment or much investment in plant and equipment. As tax revenue did not recover much, the expansion in fiscal policy continuously increased the amount of outstanding government bonds and thus further aggravated the fiscal crisis of the state. The proportion of government bonds against GDP reached 134 percent in 2010. If the public long-term debt of local government is factored in, Japanese total long-term public debt amounted to 862 trillion yen, or 181 percent against GDP at the end of 2010. The aggravated fiscal crisis of the State did not permit the Japanese DP government to extend the time schedule of a series of pumppriming policies, including the eco-point system toward the end of 2010.
 
-As a result, the official Japanese rate of unemployment surged back to 5.1 percent in October 2010. For younger generation workers, 15–24 years old, it reached 9.1 percent. The difficulties of new university and high school graduates in finding proper jobs became a social problem again. Thus, generally lower Japanese economic growth was predicted for 2011. For instance, already in October 2010, the IMF predicted 1.5 percent for Japan in the next year. Not a few Japanese economists even worried about the possibility of a double-dip Japanese recession in 2011.
+As a result, the official Japanese rate of unemployment surged back to 5.1 percent in October 2010. For younger generation workers, 15-24 years old, it reached 9.1 percent. The difficulties of new university and high school graduates in finding proper jobs became a social problem again. Thus, generally lower Japanese economic growth was predicted for 2011. For instance, already in October 2010, the IMF predicted 1.5 percent for Japan in the next year. Not a few Japanese economists even worried about the possibility of a double-dip Japanese recession in 2011.
 
 ### **The structural crises of the great earthquake**
 
-The great earthquake and the resulting giant tsunami on March 11, 2011 devastated a large area in the northeastern part of Japan. The magnitude of the earthquake was 9.0. It caused a giant tsunami of 10–20 meters in height, which washed away houses, factories, public buildings, cars, and fishermens' boats along a five-kilometer wide, 500-kilometer long stretch of Japan's northeastern Pacific coast.
+The great earthquake and the resulting giant tsunami on March 11, 2011 devastated a large area in the northeastern part of Japan. The magnitude of the earthquake was 9.0. It caused a giant tsunami of 10-20 meters in height, which washed away houses, factories, public buildings, cars, and fishermens' boats along a five-kilometer wide, 500-kilometer long stretch of Japan's northeastern Pacific coast.
 
-According to the Japan Cabinet Office's *White Paper on Economy and Finance*, the total number of resulting deaths and missing persons reached 22,626, while the direct economic damage amounts to 16–25 trillion yen.13 This is obviously a natural disaster of a size unprecedented in modern advanced countries.
+According to the Japan Cabinet Office's *White Paper on Economy and Finance*, the total number of resulting deaths and missing persons reached 22,626, while the direct economic damage amounts to 16-25 trillion yen.13 This is obviously a natural disaster of a size unprecedented in modern advanced countries.
 
-The disastrous damage to the Fukushima No. 1 nuclear power plant occurred simultaneously. The cooling systems for four nuclear power generators among six in the plant were destroyed by the unexpected height of the tsunami, causing a meltdown in reactors and a serious radiation leak. Inhabitants in a 20–30 kilometer range of the power plant were evacuated so that they could escape radioactive damage. Agricultural and marine products from the surrounding areas are blocked from shipment due to radioactive pollution. The government appealed for electricity-saving of 25 percent in the metropolitan area served by Tokyo Electric Power Company, so as to cope with the severe shortage of electric power supply.
+The disastrous damage to the Fukushima No. 1 nuclear power plant occurred simultaneously. The cooling systems for four nuclear power generators among six in the plant were destroyed by the unexpected height of the tsunami, causing a meltdown in reactors and a serious radiation leak. Inhabitants in a 20-30 kilometer range of the power plant were evacuated so that they could escape radioactive damage. Agricultural and marine products from the surrounding areas are blocked from shipment due to radioactive pollution. The government appealed for electricity-saving of 25 percent in the metropolitan area served by Tokyo Electric Power Company, so as to cope with the severe shortage of electric power supply.
 
 The number of nuclear power generators in Japan is now 54, a total that comes in third globally behind 104 in the U. S. and 59 in France. These generators supplied 29 percent of total Japanese electric power in 2009. In August 2011, only a quarter of the 54 nuclear power generators were working, with the others being either destroyed by the earthquake or stopped for regular inspection. Further, by the beginning of May 2012, all the nuclear power generators stopped for inspection. After the Fukushima nuclear accident, the government has had to be much more concerned with worry about safety among the inhabitants near these plants than the feasibility of reopening them.
 
-The economic damage from the great earthquake and giant tsunami is thus combined also with the serious disaster of the Fukushima nuclear accident. As the disaster-stricken area contained many components factories in automobile, electric appliance and other industries, the shredded supply-chain badly affected Japanese industrial activity as a whole. Added to this is the severe reduction in electric power supply. In the first quarter (January–March) of 2011, investment in plant and equipment has already declined by 0.9 percent, consumer spending by 0.6 percent, and thus Japanese real GDP fell by –0.9 percent, or by –3.7 percent on an annual basis. In the second quarter (April–June), it continued to fall by –0.3 percent, or a –1.3 percent annual rate, which resulted in –0.9 percent decline in annual average in Table 1.1.
+The economic damage from the great earthquake and giant tsunami is thus combined also with the serious disaster of the Fukushima nuclear accident. As the disaster-stricken area contained many components factories in automobile, electric appliance and other industries, the shredded supply-chain badly affected Japanese industrial activity as a whole. Added to this is the severe reduction in electric power supply. In the first quarter (January-March) of 2011, investment in plant and equipment has already declined by 0.9 percent, consumer spending by 0.6 percent, and thus Japanese real GDP fell by -0.9 percent, or by -3.7 percent on an annual basis. In the second quarter (April-June), it continued to fall by -0.3 percent, or a -1.3 percent annual rate, which resulted in -0.9 percent decline in annual average in Table 1.1.
 
-The predicted double-dip recession after the subprime crisis thus appeared not only as a reaction to the termination of emergency policies such as the eco-point system, but as a reaction to the more severe impacts of an unexpected natural disaster. The IMF, reflecting the view of the Japanese government, reduced the outlook for the 2011 Japanese annual real growth rate from 1.4 percent in April, to –0.9 percent in January 2012 – a 5.3 percent of deduction from the growth rate in 2010 (Table 1.1).
+The predicted double-dip recession after the subprime crisis thus appeared not only as a reaction to the termination of emergency policies such as the eco-point system, but as a reaction to the more severe impacts of an unexpected natural disaster. The IMF, reflecting the view of the Japanese government, reduced the outlook for the 2011 Japanese annual real growth rate from 1.4 percent in April, to -0.9 percent in January 2012 - a 5.3 percent of deduction from the growth rate in 2010 (Table 1.1).
 
-The structural crises in Japanese economy have thus surely deepened. Another factor contributing to this growth reversal results from the fiscal crisis that has affected states caught in the subprime crisis: the decline in the state bonds of some European countries, along with similar dangers for the U. S., has weakened the exchange rates of the euro and dollar anew, resulting in a soaring yen. Japanese exporting industries are losing their competitive power and profits as the yen undergoes a huge appreciation to less than 76 yen against the dollar, a historically unprecedented high. This actually led the Japanese annual growth rate for 2011 to a wide decline to –0.9 percent as we have seen, and continues to depress the Japanese economy in 2012.
+The structural crises in Japanese economy have thus surely deepened. Another factor contributing to this growth reversal results from the fiscal crisis that has affected states caught in the subprime crisis: the decline in the state bonds of some European countries, along with similar dangers for the U. S., has weakened the exchange rates of the euro and dollar anew, resulting in a soaring yen. Japanese exporting industries are losing their competitive power and profits as the yen undergoes a huge appreciation to less than 76 yen against the dollar, a historically unprecedented high. This actually led the Japanese annual growth rate for 2011 to a wide decline to -0.9 percent as we have seen, and continues to depress the Japanese economy in 2012.
 
 It is paradoxical to see such an appreciation of the Japanese yen in these years of the subprime and great earthquake crisis, at a time when Japan has the highest proportion of state debt against GDP and the worst fall in GDP among the major advanced economies. This puzzle can be deciphered to a certain extent by observing two factors: the high savings rate of Japanese households, which has enabled Japan to absorb its cumulative state debt domestically; and the competitive strength of exporting industries, which has permitted Japan (thus far) to maintain a continuous trade surplus.
 
@@ -937,7 +1802,7 @@ Here are a series of serious problems for us to reconsider. Is the Keynesianorie
 
 In any case, the process of moving from the subprime to the great earthquake crisis in Japan, has given renewed strength to a structurally vicious circle among more severe and unstable working conditions, depressed domestic demand, a shift of business investment to abroad, and a deepening fiscal crisis of the state. And as long as it remains seriously aggravated by the current appreciation of the yen, the Japanese crisis is still much affected by the continuous afterbirth-like disastrous impact of the fiscal crisis of the states in EU countries and the U. S. that resulted from the global subprime crisis.
 
-In comparison with the subprime crisis, which clearly stems from the contradictory self-destruction of a capitalist market economy unleashed from social controls, the great earthquake crisis is apparently a natural economic disaster. However, it also contains certain social problems stemming from marketoriented economic development under capitalism. In so far as a capitalist society naturally tends to give business profit-making the highest priority, we have to doubt anew if its economic order and technological path of development would, on its own, realize a truly safe and secure basis for the general population. Japan was proud of having the most advanced industrial technologies in defensive measures against tsunamis and earthquakes, as well as having reliable security systems in nuclear power stations – all promising businesses with prospects for being salable in the global market.
+In comparison with the subprime crisis, which clearly stems from the contradictory self-destruction of a capitalist market economy unleashed from social controls, the great earthquake crisis is apparently a natural economic disaster. However, it also contains certain social problems stemming from marketoriented economic development under capitalism. In so far as a capitalist society naturally tends to give business profit-making the highest priority, we have to doubt anew if its economic order and technological path of development would, on its own, realize a truly safe and secure basis for the general population. Japan was proud of having the most advanced industrial technologies in defensive measures against tsunamis and earthquakes, as well as having reliable security systems in nuclear power stations - all promising businesses with prospects for being salable in the global market.
 
 Confidence in Japanese advancement in industrial technologies for utilizing or controlling great natural disaster events has been much shaken and destroyed by the current natural disaster. Though this natural disaster, unlike the subprime crisis, is directly an exogenous calamity, its destructive effects have been aggravated by elements endogenous to the capitalist economy. For one thing, throughout the historical development of Japanese capitalism, there has been a strong tendency to concentrate more and more business sites, work places, inhabitants and houses into harbors and coastal towns without investing sufficient public money for defensive measures against tsunamis and earthquakes. Especially under the capitalist private ownership of land, it is very difficult to know how to plan to reconstruct a really safe society from a geo-economic point of view.
 
@@ -952,7 +1817,7 @@ We are forced to reflect on the whole process from the subprime to the great ear
 - 3 Mizuho Research Institute (2007), pp. 69, 77.
 - 4 Japan Cabinet Office, Policy Planning Room (2007), p. 7.
 - 5 This notion is similar to Lapavitsas (2012), for whom financial expropriation of wage workers generally characterizes the financialization of contemporary capitalism.
-- 6 Japan Cabinet Office, Policy Planning Room (2007), pp. 7–8.
+- 6 Japan Cabinet Office, Policy Planning Room (2007), pp. 7-8.
 - 7 See Minsky (1982) on this theoretical model.
 - 8 K. Uno (1953) and his followers in Japan have underlined this aspect of Marx's contributions to the basic principles of political economy. They have also attempted to complete Marx's basic theory of cyclical crises in accord with Marx's notion of overaccumulation of capital in relation to the working population, as summarized below, taking into account that there remained in *Capital* different types of crisis theory in mutually inconsistent and unfinished models. See Itoh (1980, 1988, 1999) more in detail.
 - 9 According to A. Glyn (1988), by 1973, prior to the effect of the first oil shock, the aggregate profit rate in seven major capitalist countries fell by 20 percent from the precedent peak. Three-fourths of that fall is explained by the profit squeeze due to rising prices of labor-power and raw materials, while one quarter is attributable to the fall in output/capital ratio.
@@ -1019,7 +1884,7 @@ The dominant view had it that the global financial crisis came about because spe
 
 However, while its origin was in the United States, the global financial crisis cannot simply be attributed to the growth and collapse of financial bubbles within that nation. Key linkages of the new nexus of global capital accumulation that emerged in, and have centered on, the United States have started to go into reverse on a grand scale, triggered by the paralysis of financial functions. This is shown by the fact that the rapid and mutual acceleration in the contraction of the real economy has developed into a chain reaction not only within the United States but across the world. Alan Greenspan alluded to this in his statement about a "once in a century event."
 
-Thus, the financial crisis should be understood as a global crisis of American origin caused by key linkages within the new nexus of capital accumulation itself. This chapter addresses the current financial crisis from this perspective, by focusing on the United States, which is the seismic center both of this crisis and of the current historical phase of modern capitalism.<sup>2</sup>
+Thus, the financial crisis should be understood as a global crisis of American origin caused by key linkages within the new nexus of capital accumulation itself. This chapter addresses the current financial crisis from this perspective, by focusing on the United States, which is the seismic center both of this crisis and of the current historical phase of modern capitalism.2
 
 ### An outline of the subprime crisis
 
@@ -1031,13 +1896,36 @@ Subprime mortgage loans in the United States began to expand in the early 1990s 
 
 ## ![](_page_49_Figure_7.jpeg)
 
-Figure 2.1 Residential mortgage loans and their composition, 2001–07 (source: prepared from Mortgage Market Statistical Annual 2008, www.insidemortgagefinance. com; Joint Center for Housing Studies, Harvard University, State of the Nation's Housing 2008, Appendix, Table A-6).
+Figure 2.1 Residential mortgage loans and their composition, 2001-07 (source: prepared from Mortgage Market Statistical Annual 2008, www.insidemortgagefinance. com; Joint Center for Housing Studies, Harvard University, State of the Nation's Housing 2008, Appendix, Table A-6).
 
 Note CPI adjusted dollar values.
 
-*Table 2.1* Subprime home mortgage loans and their securitization, 2001–04
+*Table 2.1* Subprime home mortgage loans and their securitization, 2001-04
 
-| | Total<br>home<br>mortgage<br>loans<br>(US\$<br>billion) | Subprime<br>mortgage<br>loans<br>(US\$<br>billion) | Share<br>of<br>subprime<br>loans<br>(%) | Subprime<br>MBS<br>(US\$<br>billion) | Ratio<br>of<br>securitization<br>of<br>subprime<br>mortgage<br>loan<br>(%)s |
+| | Total
+home
+mortgage
+loans
+(US\$
+billion) | Subprime
+mortgage
+loans
+(US\$
+billion) | Share
+of
+subprime
+loans
+(%) | Subprime
+MBS
+(US\$
+billion) | Ratio
+of
+securitization
+of
+subprime
+mortgage
+loan
+(%)s |
 |------|---------------------------------------------------------|----------------------------------------------------|-----------------------------------------|--------------------------------------|-----------------------------------------------------------------------------|
 | 2001 | 2,215 | 190 | 8.6 | 95 | 50.4 |
 | 2002 | 2,885 | 231 | 8.0 | 121 | 52.7 |
@@ -1050,9 +1938,9 @@ Sources: Inside Mortgage Finance, *The 2007 Mortgage Market Statistical Annual, 
 
 mechanism, through such instruments as residential mortgage-backed securities (RMBS), asset-backed securities (ABS) and collateralized debt obligations (CDO, a kind of ABS backed by a pool of bonds, loans and other assets), provided an important means of diversifying risks, and attracted massive speculative and other investment funds both at home and from abroad, including hedge funds and investment money from Europe. This stimulated mortgage loans (as described below). In this process, the quality of lending deteriorated markedly, and predatory lending expanded.3
 
-Rising interest rates (which began to increase in the latter half of 2004) and falling house prices after mid-2006 led to loan delinquencies, particularly on hybrid adjustable rate mortgages (ARMs). "Hybrid" ARMs, approved by regulators in 1979, involve interest and principal repayments that typically rise substantially two to three years after they are initiated. The volume of ARMs, especially hybrid ARMs, expanded sharply in 2003–04, accounting for the bulk of mortgage loans in that period.
+Rising interest rates (which began to increase in the latter half of 2004) and falling house prices after mid-2006 led to loan delinquencies, particularly on hybrid adjustable rate mortgages (ARMs). "Hybrid" ARMs, approved by regulators in 1979, involve interest and principal repayments that typically rise substantially two to three years after they are initiated. The volume of ARMs, especially hybrid ARMs, expanded sharply in 2003-04, accounting for the bulk of mortgage loans in that period.
 
-Consequently, when the bubble began to burst, homes with ARM loans experienced a rapid increase in foreclosures; and from early 2007, prices of RMBS backed by degrading subprime loans began to plummet (see Figure 2.2). These sharp price decreases soon spread to ABS and other securitized instruments, bringing about massive losses to American and then European banks, investment banks, securities firms and hedge funds4 – and culminating in the liquidity crisis. Monoline insurance firms that provide guarantees to bond issuers also suffered deep financial troubles, and these spread credit uncertainty to engulf the entire securitized products market. Major financial failures ensued and further aggravated the turmoil, especially the bailout merger in March 2008 of Bear Stearns, the fifth largest securities firm in the United States, following its huge subprime-related losses.
+Consequently, when the bubble began to burst, homes with ARM loans experienced a rapid increase in foreclosures; and from early 2007, prices of RMBS backed by degrading subprime loans began to plummet (see Figure 2.2). These sharp price decreases soon spread to ABS and other securitized instruments, bringing about massive losses to American and then European banks, investment banks, securities firms and hedge funds4 - and culminating in the liquidity crisis. Monoline insurance firms that provide guarantees to bond issuers also suffered deep financial troubles, and these spread credit uncertainty to engulf the entire securitized products market. Major financial failures ensued and further aggravated the turmoil, especially the bailout merger in March 2008 of Bear Stearns, the fifth largest securities firm in the United States, following its huge subprime-related losses.
 
 Beyond the specific dynamics of the subprime crisis itself, the United States in the summer of 2008 was caught up in the wider negative spiral of a deteriorating
 
@@ -1070,13 +1958,13 @@ What followed was the dysfunction of the entire securitization market and the fi
 
 ### *A basic perspective on the global financial crisis*
 
-The development of the global financial crisis can be interpreted in terms of three broad processes. First was the subprime crisis and its immediate cause, the growth and subsequent collapse of the "housing bubble" in the United States. The housing bubble itself developed because of the massive inflows of hot money and other domestic and overseas investment funds into the housingfinancing market via securitization mechanisms, including risk transfers, after the bursting of the "IT bubble" of the late 1990s. These flows and the housing bubble reached a peak in the 2003–05 period. Second was the expansion of subprime loans, particularly to ethnic minorities. These loans fed the "housing boom" and, because of their especially precarious contractual terms, created the conditions for the subprime crisis.
+The development of the global financial crisis can be interpreted in terms of three broad processes. First was the subprime crisis and its immediate cause, the growth and subsequent collapse of the "housing bubble" in the United States. The housing bubble itself developed because of the massive inflows of hot money and other domestic and overseas investment funds into the housingfinancing market via securitization mechanisms, including risk transfers, after the bursting of the "IT bubble" of the late 1990s. These flows and the housing bubble reached a peak in the 2003-05 period. Second was the expansion of subprime loans, particularly to ethnic minorities. These loans fed the "housing boom" and, because of their especially precarious contractual terms, created the conditions for the subprime crisis.
 
 Subprime lending itself demonstrates how this financial crisis was "made in America." It was one of the forms of "predatory lending," various credit vehicles provided primarily to ethnic minorities at higher interest rates, for higher fees, and at worse terms and conditions than were "mainstream" loans. From lenders' perspective, these loans responded to the Community Reinvestment Act (CRA), which aimed at reversing the "redlining" of minority areas and the discriminatory treatment of ethnic minorities in mortgage-backed lending (and other credit markets). The CRA, together with the Civil Rights Act, represented an effort to overturn the federal policies and "restrictive covenants" that both generated the American pattern of residential racial segregation and compromised minority areas' successful development.5 From the viewpoint of the community activists whose efforts had secured the CRA, however, subprime lending (and other forms of predatory lending) only demonstrated that when minorities and minority areas did receive access to housing finance, it would only be on discriminatory terms.6
 
 Third, however, the bubble-like development and collapse of the U. S. "housing boom" is a direct extension of the long economic boom of the 1990s, in particular the development and collapse of the "IT bubble." We will argue below that both of these trends have to be seen in the context of the new linkages and mechanisms of U. S. economic expansion (that is, the capital accumulation system) that developed during the period of the decline and transformation of postwar Pax Americana after the 1970s.
 
-In the meantime, a new phase of economic expansion on a global scale emerged through a set of linkages involving the globalization of companies, finance and information as well as the neo-liberal transformation of government functions in the United States. These linkages revolve around the key currency role of the U. S. dollar and the financial facility of the New York global financial center. This combination links, as node and intermediary, the "global city" function and the "new empire circuit" of capital flow centered in the U. S. The nexus created by these linkages has defined the sequence of U. S. economic cycles since the 1990s, including the unusually long boom, the formation and collapse of the "IT bubble" toward the end of that boom, and the subsequent "housing bubble" and its bursting. The latest global financial crisis emerged from this nexus. In this sense, that crisis has to be analyzed not just as a simple case of a financial bubble, but as a result of the decline and transformation of postwar Pax Americana – and specifically of the movement of the United States toward global capitalism after the mid-1970s. This latter has been a key feature of the present phase of the transformation of the global capital accumulation system, denoted here as "modern capitalism," both in the United States and in the financial world that centers on the United States.
+In the meantime, a new phase of economic expansion on a global scale emerged through a set of linkages involving the globalization of companies, finance and information as well as the neo-liberal transformation of government functions in the United States. These linkages revolve around the key currency role of the U. S. dollar and the financial facility of the New York global financial center. This combination links, as node and intermediary, the "global city" function and the "new empire circuit" of capital flow centered in the U. S. The nexus created by these linkages has defined the sequence of U. S. economic cycles since the 1990s, including the unusually long boom, the formation and collapse of the "IT bubble" toward the end of that boom, and the subsequent "housing bubble" and its bursting. The latest global financial crisis emerged from this nexus. In this sense, that crisis has to be analyzed not just as a simple case of a financial bubble, but as a result of the decline and transformation of postwar Pax Americana - and specifically of the movement of the United States toward global capitalism after the mid-1970s. This latter has been a key feature of the present phase of the transformation of the global capital accumulation system, denoted here as "modern capitalism," both in the United States and in the financial world that centers on the United States.
 
 ### **The long boom, the 1990s IT bubble, and the subprime loan problem**
 
@@ -1084,27 +1972,27 @@ In the meantime, a new phase of economic expansion on a global scale emerged thr
 
 How is the long economic boom of the 1990s linked to the "housing boom" of the 2000s? As elaborated in Kawamura (2008a), two factors made the long post-1991 American boom possible. The first was improved corporate earnings, which stemmed from cost reductions resulting from the post-1980 restructuring of the postwar corporate system. This business restructuring was accomplished via offshoring and outsourcing (globalization), via management innovations such as business process innovation, and via the introduction of "lean" production systems and the reorganization of rigid traditional labor-management relations. The second factor was low interest rates, helped by narrower budget deficits, which resulted from fiscal reform and the "peace dividend" following the end of the Cold War. Low interest rates and improved corporate earnings brought about a substantial expansion in corporate capital spending. This was the dynamic of the economic expansion of the early 1990s.
 
-The "IT boom" from the mid-1990s onward added to this dynamic and led to an unusually lengthy economic boom. The "IT boom" in the latter half of the 1990s came about as newly established companies and venture firms, notably "dot.com" companies emerged amidst a venture capital boom as flag-bearers of the "IT revolution." The initial public offering (IPO) craze and the zooming share prices on the high-tech stock-dominated NASDAQ exchange drew massive amounts of investment and speculative funds to Silicon Valley and other IT clusters (see Figure 2.3). This generated a major phase of economic expansion, with the New York securities market – and NASDAQ in particular – and New York's global-city financial facilities acting as the main nexus.
+The "IT boom" from the mid-1990s onward added to this dynamic and led to an unusually lengthy economic boom. The "IT boom" in the latter half of the 1990s came about as newly established companies and venture firms, notably "dot.com" companies emerged amidst a venture capital boom as flag-bearers of the "IT revolution." The initial public offering (IPO) craze and the zooming share prices on the high-tech stock-dominated NASDAQ exchange drew massive amounts of investment and speculative funds to Silicon Valley and other IT clusters (see Figure 2.3). This generated a major phase of economic expansion, with the New York securities market - and NASDAQ in particular - and New York's global-city financial facilities acting as the main nexus.
 
 The "flight to quality" after the 1997 Asian currency crisis increased the flow of investment funds, including hot money, into the IT-related sector, resulting in a bubble-like expansion of the "IT boom." These developments led to sharp rises in the IT-related capital spending that drove the economic expansion forward; meanwhile, the strong earnings performance of major IT companies spread to the "old economy" and led to an upward trend in its firms' share prices. Thus growth in the "new economy" and "old economy" alike combined to accelerate the economic expansion, which increasingly took on the nature of a boom linked
 
 ## ![](_page_54_Figure_1.jpeg)
 
-*Figure 2.3* Venture capital investment: quarterly, 1995–2004 (source: Prepared from data from Pricewaterhouse Coopers/National Association of Venture Capital (www.pwcmoneytree.com/MTPublic/ns/)).
+*Figure 2.3* Venture capital investment: quarterly, 1995-2004 (source: Prepared from data from Pricewaterhouse Coopers/National Association of Venture Capital (www.pwcmoneytree.com/MTPublic/ns/)).
 
 to stock and other asset prices. Such, in outline, are the real circumstances of the "new economy" phenomenon.7
 
 What is noteworthy in relation to the subprime problem that triggered the latest financial crisis is that the housing sector also perked up toward the end of the 1990s and further spurred sustained U. S. expansion. Backed by stability in interest rates and steady income growth, the baby boomers who had become first-time home buyers in the 1980s showed strong replacement demand for more expensive, larger houses, providing a boost to a robust housing market. Facilitated by rising home prices (see Figure 2.4) and the relative stability of interest rates, and by new housing financing mechanisms established after the 1980s savings and loan (S&L) crisis, including the expansion of jumbo loans, issues of new home mortgage loans grew robustly, as did refinancing and home-equity loans (see Figures 2.1 and 2.5). The additional income derived from cashing in on rising house prices supported robust consumer spending, further fueling a sustained boom.
 
-Particularly noteworthy was the rapid growth of adjustable rate mortgages (ARMs, approved in 1979), which, coupled with the securitization mechanism, helped expand mortgage-backed loans to non-white borrowers. A conspicuous feature of the home ownership rate, which grew by almost 70 percent in April– June 1999, was the rise in ownership among non-whites. This in part resulted from a number of measures to help expand home-financing opportunities for minority people on low incomes, including the Community Reinvestment Act
+Particularly noteworthy was the rapid growth of adjustable rate mortgages (ARMs, approved in 1979), which, coupled with the securitization mechanism, helped expand mortgage-backed loans to non-white borrowers. A conspicuous feature of the home ownership rate, which grew by almost 70 percent in April- June 1999, was the rise in ownership among non-whites. This in part resulted from a number of measures to help expand home-financing opportunities for minority people on low incomes, including the Community Reinvestment Act
 
 ## ![](_page_55_Figure_2.jpeg)
 
-*Figure 2.4* S&P/Case-Shiller home price indices: monthly, 1987–2011 (source: Prepared from S&P/Case-Shiller Home Price Indices, May 2008 (published July 29, www2.standardandpoors.com)).
+*Figure 2.4* S&P/Case-Shiller home price indices: monthly, 1987-2011 (source: Prepared from S&P/Case-Shiller Home Price Indices, May 2008 (published July 29, www2.standardandpoors.com)).
 
 Note Three-month moving average. Including two-month lag.
 
-(CRA) and disclosure of credit information and borrower information (Dymski 2007, pp. 8–9). Then Federal Reserve Chairman Alan Greenspan described this as progress in the "democratization of credit" (Greenspan 1997). In reality, however, the basic conditions for the subprime loan crisis were gradually being formed. Federal financial regulators, as early as the late 1990s and up to 2001, expressed concern over unscrupulous subprime loans and sounded a warning to those who were prepared to listen.8
+(CRA) and disclosure of credit information and borrower information (Dymski 2007, pp. 8-9). Then Federal Reserve Chairman Alan Greenspan described this as progress in the "democratization of credit" (Greenspan 1997). In reality, however, the basic conditions for the subprime loan crisis were gradually being formed. Federal financial regulators, as early as the late 1990s and up to 2001, expressed concern over unscrupulous subprime loans and sounded a warning to those who were prepared to listen.8
 
 ### *Responses to the collapse of the IT bubble and the housing boom*
 
@@ -1112,7 +2000,7 @@ The "IT boom" was a speculative boom based on expectations that in fact overplay
 
 ## ![](_page_56_Figure_1.jpeg)
 
-*Figure 2.5* Mortgage refinance, cash-out and home equity loan volumes, 1995–2007 (source: Freddie Mac, Cash Out and Refinance data; Freddie Mac, Economic and Housing Market Outlook, February 2008; Federal Home Loan Mortgage Corporation).
+*Figure 2.5* Mortgage refinance, cash-out and home equity loan volumes, 1995-2007 (source: Freddie Mac, Cash Out and Refinance data; Freddie Mac, Economic and Housing Market Outlook, February 2008; Federal Home Loan Mortgage Corporation).
 
 ### Notes
 
@@ -1120,23 +2008,23 @@ Dollar values adjusted for inflation using the CPI-U for all items. Home equity 
 
 The NASDAQ Composite Index plunged from a peak of over 5,000 in March 2000 to one-third that level in early September 2001 (just before the 9/11 terrorist attacks), falling further to 1,100 by autumn 2002. IT investment declined sharply after the first quarter of 2001. Sluggish IT-related demand, shrinking capital spending after the stock market plunge, as well as the "negative wealth effect" of the plunge on consumer spending, set off a downturn in economic activities. The unemployment rate climbed from less than 4 percent in early 2001 to nearly 6 percent by January 2002. New York Stock Exchange (NYSE) prices, which had been moving sideways, turned down as of spring 2000; the shock of the 9/11 terrorist attacks in autumn 2001 sent the Dow Jones Industrial Average spiraling down to 7,600 by March 2003.
 
-However, the FRB's credit easing and the administration's expansionary policy, including the Bush tax cuts and spending on both homeland security and the Afghanistan and Iraq wars, averted a major downturn in the growth of the American economy.11 Particularly important was the adoption of an extremely easy credit policy. The FRB already began to ease its grip on credit in January 2001. In response to the financial-market paralysis induced by the shock of the 9/11 terrorists attacks, the FRB made emergency rate reductions in the Fed discount federal funds rates, cutting them by 0.5 points in early October and again in early November. These key interest rates ultimately declined to the extremely low levels of 2.0 percent and 1.0 percent respectively, by late January 2002 (the peak level before the easing cycle set in was 6.0 percent for the discount rate and 6.5 percent for the target federal funds rate in late May 2000). This extremely easy credit policy can be seen as an attempt to avert asset deflation in the wake of the collapse of the "IT bubble," which had increasingly taken on the nature of a "boom linked to stock and asset prices" (see Greenspan 2007, translation, pp. 331–335).
+However, the FRB's credit easing and the administration's expansionary policy, including the Bush tax cuts and spending on both homeland security and the Afghanistan and Iraq wars, averted a major downturn in the growth of the American economy.11 Particularly important was the adoption of an extremely easy credit policy. The FRB already began to ease its grip on credit in January 2001. In response to the financial-market paralysis induced by the shock of the 9/11 terrorists attacks, the FRB made emergency rate reductions in the Fed discount federal funds rates, cutting them by 0.5 points in early October and again in early November. These key interest rates ultimately declined to the extremely low levels of 2.0 percent and 1.0 percent respectively, by late January 2002 (the peak level before the easing cycle set in was 6.0 percent for the discount rate and 6.5 percent for the target federal funds rate in late May 2000). This extremely easy credit policy can be seen as an attempt to avert asset deflation in the wake of the collapse of the "IT bubble," which had increasingly taken on the nature of a "boom linked to stock and asset prices" (see Greenspan 2007, translation, pp. 331-335).
 
 In fact, by the end of 2003, NYSE prices recovered to the levels of the late 1990s. The NASDAQ Composite Index regained the 2,000 mark in early 2004 and continued to rise thereafter. What should be emphasized in relation to the latest financial crisis is that extremely easy credit conditions caused a major shift in the flow of volatile investment money from the "IT bubble" to housing finance, and helped sustain and expand the "housing boom" while expanding speculative financial operations through the securitization mechanism. In this sense, the "housing bubble" and its collapse, which triggered the latest financial crisis, can be understood as an extension of the "IT bubble" and *its* collapse.
 
-The record-setting decline in mortgage loan rates led to an expansion of new mortgage lending and refinancing (see Figures 2.1 and 2.5); this facilitated further increases in housing prices, while at the same time boosting consumer spending. In the first three quarters of 2002, a period that encompassed a high point in the refinancing boom, \$59 billion was cashed out from conventional housing loans. This cash was used primarily to support consumption expenditure, thus pushing up GDP in this same time-frame by an estimated 0.4 percentage point (CEA 2003, translation, pp. 40–41). In 2003 and 2004, subprime loans increased substantially in the context of an American economy registering a particularly strong recovery (see Figure 2.1 and Table 2.1).
+The record-setting decline in mortgage loan rates led to an expansion of new mortgage lending and refinancing (see Figures 2.1 and 2.5); this facilitated further increases in housing prices, while at the same time boosting consumer spending. In the first three quarters of 2002, a period that encompassed a high point in the refinancing boom, \$59 billion was cashed out from conventional housing loans. This cash was used primarily to support consumption expenditure, thus pushing up GDP in this same time-frame by an estimated 0.4 percentage point (CEA 2003, translation, pp. 40-41). In 2003 and 2004, subprime loans increased substantially in the context of an American economy registering a particularly strong recovery (see Figure 2.1 and Table 2.1).
 
 ### *The expansion of housing finance and the "housing boom"*
 
-Government-sponsored enterprises (GSEs), especially Fannie Mae (Federal National Mortgage Association) and Freddie Mac (Federal Home Loan Mortgage Corporation), have been central components in the U. S. housing finance system throughout the postwar period. They have underwritten a large share of "conforming" loans – that is, loans below a predetermined ceiling level that "conform" to loan/income requirements.
+Government-sponsored enterprises (GSEs), especially Fannie Mae (Federal National Mortgage Association) and Freddie Mac (Federal Home Loan Mortgage Corporation), have been central components in the U. S. housing finance system throughout the postwar period. They have underwritten a large share of "conforming" loans - that is, loans below a predetermined ceiling level that "conform" to loan/income requirements.
 
-During the late 1990s and early 2000s, the ratio of GSE-underwritten loans to total housing loans increased, reaching as high as 47.1 percent in 2003. Since housing prices were rising, the GSEs – especially Fannie Mae and Freddie Mac – maintained their share of the market by raising the ceilings on conforming loans. The ceiling level for conforming single-family homes was raised from \$252,700 in 2000 to \$275,000 in 2001 and to \$359,650 in 2005. Securitization programs by GSEs expanded as well (see Table 2.1). At the same time, there was a marked expansion in jumbo loans – those whose level exceeded conforming loan ceilings – and in home equity loans. The weight of subprime mortgage loans in the overall market also increased rapidly (see Figure 2.1).
+During the late 1990s and early 2000s, the ratio of GSE-underwritten loans to total housing loans increased, reaching as high as 47.1 percent in 2003. Since housing prices were rising, the GSEs - especially Fannie Mae and Freddie Mac - maintained their share of the market by raising the ceilings on conforming loans. The ceiling level for conforming single-family homes was raised from \$252,700 in 2000 to \$275,000 in 2001 and to \$359,650 in 2005. Securitization programs by GSEs expanded as well (see Table 2.1). At the same time, there was a marked expansion in jumbo loans - those whose level exceeded conforming loan ceilings - and in home equity loans. The weight of subprime mortgage loans in the overall market also increased rapidly (see Figure 2.1).
 
-From 2004 onward, housing finance by private-sector lenders other than GSEs and commercial bank and other traditional home loan providers expanded (see Figure 2.6), putting into place one of the immediate causes of the subprime crisis. This shift involved a massive inflow of volatile investment funds – especially from hedge funds and other sources of hot money – into housing finance, primarily through the securitization mechanism.
+From 2004 onward, housing finance by private-sector lenders other than GSEs and commercial bank and other traditional home loan providers expanded (see Figure 2.6), putting into place one of the immediate causes of the subprime crisis. This shift involved a massive inflow of volatile investment funds - especially from hedge funds and other sources of hot money - into housing finance, primarily through the securitization mechanism.
 
 These developments are centrally important to the argument advanced here. First, housing mortgage loan originators were able to transfer risks by selling those mortgages to investment banks and other buyers through securitization. Second, financial institutions, because they could readily avoid risk-bearing, were able to expand high-risk loans. This made it easier to extend loans to borrowers with low credit standings. Subprime housing mortgage loans almost doubled between 2002 and 2004; these loans' securitization ratio reached 70 percent in 2004 and topped 80 percent in 2005 and beyond (see Table 2.1).
 
-Third, the investment banks and securities firms that bought these loans so as to structure them into instruments such as MBS and ABS were regarded as being capable of broadly diversifying the risks of the loans they bought – even when they were purchasing subprime and other high-risk loans. It was commonly believed that these large firms would maintain financial soundness, in part by keeping these loans off their balance sheets through the use of structured
+Third, the investment banks and securities firms that bought these loans so as to structure them into instruments such as MBS and ABS were regarded as being capable of broadly diversifying the risks of the loans they bought - even when they were purchasing subprime and other high-risk loans. It was commonly believed that these large firms would maintain financial soundness, in part by keeping these loans off their balance sheets through the use of structured
 
 ## ![](_page_58_Figure_4.jpeg)
 
@@ -1151,7 +2039,7 @@ Third, the investment banks and securities firms that bought these loans so as t
 
 investment vehicles (SIVs). Similar mechanisms were used to expand the issuance of collateralized loan, bond, and debt obligations (known respectively as CLOs, CBOs, and CDOs). Thus, through multiple stages of increasingly complex operations, banks and securities firms drew investment funds from a wide range of sources, domestic and overseas, into securitization processes entailing broad risk diversification and multilayered risk premiums.
 
-Securitization as established in this period built in a mechanism for accelerating the inflow of hot money. Each securitization and re-securitization process, when originated, involved carving the underlying assets and risks into tranches on a stratified basis, using financial engineering techniques. This stratification of assets by risk-class ensured high credit ratings for a large share – if not all – of the paper originated, and thus represented a mechanism for embedding high credit ratings in a wide range of securitized products.
+Securitization as established in this period built in a mechanism for accelerating the inflow of hot money. Each securitization and re-securitization process, when originated, involved carving the underlying assets and risks into tranches on a stratified basis, using financial engineering techniques. This stratification of assets by risk-class ensured high credit ratings for a large share - if not all - of the paper originated, and thus represented a mechanism for embedding high credit ratings in a wide range of securitized products.
 
 Generally speaking, the senior/subordinate structure divides securitized assets into low-risk and low-return senior tranches, middle-risk and middle-return mezzanine tranches, and high-risk and high-return equity tranches. The last are the first to incur losses in the event of default. Even when BBB-rated (the lowest investment-grade rating) RMBS are included, senior tranches were given the top rating of AAA. The overall risk distortion brought about by the structuring of AAA-rated senior tranches was tucked into equity tranches. Various hedge funds came forward as the primary risk-takers, purchasing high-risk, high-return CDOs and other securitized instruments. Leveraged loans (syndicated loans with low credit ratings) for hedge funds, investment funds and real estate funds expanded substantially, fueled by banks' credit extension.
 
@@ -1175,9 +2063,9 @@ The changing role of postwar Pax Americana in the arenas of international curren
 
 Note Logarithmic scale except for ratio to GDP.
 
-The trigger for the explosion of financialization in the 1980s was financial liberalization under Reaganomics, which in turn resulted from inflation rates that had grown higher in the 1960s and brought about disintermediation from the U. S.'s New Deal-era banking system. The loosening of financial regulation led to significantly expanded cross-market, cross-border financial operations and financial transactions, including the development of new financial products and financial operations on the strength of financial engineering techniques. Among these were the use of junk bonds and leveraged-buyout loans to finance mergers and acquisitions, program trading, portfolio management and the development of derivatives. Freed from domestic financial regulation, the leading players in the latest financial crisis – including American banks, investment banks, securities firms, institutional investors (including pension funds), and hedge funds – developed global networks of financial business and financial operations and pressed forward with the globalization of finance, turning the financial markets into "casinos."14
+The trigger for the explosion of financialization in the 1980s was financial liberalization under Reaganomics, which in turn resulted from inflation rates that had grown higher in the 1960s and brought about disintermediation from the U. S.'s New Deal-era banking system. The loosening of financial regulation led to significantly expanded cross-market, cross-border financial operations and financial transactions, including the development of new financial products and financial operations on the strength of financial engineering techniques. Among these were the use of junk bonds and leveraged-buyout loans to finance mergers and acquisitions, program trading, portfolio management and the development of derivatives. Freed from domestic financial regulation, the leading players in the latest financial crisis - including American banks, investment banks, securities firms, institutional investors (including pension funds), and hedge funds - developed global networks of financial business and financial operations and pressed forward with the globalization of finance, turning the financial markets into "casinos."14
 
-The financial boom in the latter half of the 1980s, based on the restructuring and transformation of postwar corporate structure, constituted the first visible phase of the above process. This financial boom turned into a "money game" and drew to a close, albeit temporarily, with the collapse of the junk bond market and the debacle of the savings and loan crisis. However, the financialization phenomenon carried through into the 1990s (see Figure 2.7). Many authors – including Epstein and the authors included in Epstein (2006) – have cited continued financialization, coupled both with institutional distortions of national and regional currency and financial markets and with structural frailties in international balances of payments, as the fundamental cause of the string of currency and financial crises that arose frequently in the 1990s, particularly outside the United States.
+The financial boom in the latter half of the 1980s, based on the restructuring and transformation of postwar corporate structure, constituted the first visible phase of the above process. This financial boom turned into a "money game" and drew to a close, albeit temporarily, with the collapse of the junk bond market and the debacle of the savings and loan crisis. However, the financialization phenomenon carried through into the 1990s (see Figure 2.7). Many authors - including Epstein and the authors included in Epstein (2006) - have cited continued financialization, coupled both with institutional distortions of national and regional currency and financial markets and with structural frailties in international balances of payments, as the fundamental cause of the string of currency and financial crises that arose frequently in the 1990s, particularly outside the United States.
 
 The bubble that accompanied the "IT boom" was caused largely by the inflow of hot money into IT-related and other venture businesses due to the "flight to quality" that followed the Asian currency crisis of 1997 and the Russian currency and financial crisis of 1998, which in turn caused the failure of the American hedge fund Long-Term Capital Management. Similarly, the latest America-based global financial crisis may also be explained as a direct result of the U. S. housing finance market turning into a "casino" due to problems inherent in the securitization mechanism.
 
@@ -1189,7 +2077,7 @@ The global capitalism/global city/new empire circuit nexus represented the essen
 
 Together with the globalization of financial services, the process by which major American firms turned into global companies constituted the core of the global capitalism led by the United States. Major American corporations, in varying degrees and forms by industry, sector, and company, built up business networks on a global scale. This involved expanding global outsourcing and offshoring related operations and specialized services in many business areas, from manufacturing, research, and development to supply chains in sales and distribution. These firms also resorted to expedient alliances and partnerships with other companies, a development that often involved cross-border mergers and acquisitions (M&A). Meanwhile, they shifted to strategies designed to secure high profitability globally by integrating and managing global networks that linked business bases in each country and region with affiliated companies subject to head office functions.
 
-From the broader perspective of the drivers of the transformation of postwar modern capitalism, this strategic globalization by leading American corporations represented an effort to reorganize the postwar corporate structure. The capital accumulation system of the United States in the 1950s and 1960s, which constituted the core of the Pax Americana political and economic systems that governed postwar modern capitalism, aimed at achieving "sustained growth" by integrating three elements: a postwar corporate structure with large and mega corporations in leading American industries (characterized by the "mature oligopolistic system") at its core; a set of governmental policies that facilitated managerial capitalism ("Keynesianism"); and the global, political, and economic institutions of postwar Pax Americana (the International Monetary Fund (IMF) and the associated dollar regime – the international managed money system – the General Agreement on Tariffs and Trade (GATT) regime, the "Cold War," and the global military regime). This system began to malfunction and break down in the 1960s, due mainly to problems inherent in the postwar corporate structure. Caught between a burdensome cost structure stemming from high labor and energy costs, and intensifying mega-competition amidst the shift to low rates of growth, America's leading corporations attempted to cope with the serious dysfunction of the postwar corporate structure in the latter half of the 1970s. The severe decline in these corporations' international competitiveness provided a fundamental driver for the dynamism of the United States' global capitalism.
+From the broader perspective of the drivers of the transformation of postwar modern capitalism, this strategic globalization by leading American corporations represented an effort to reorganize the postwar corporate structure. The capital accumulation system of the United States in the 1950s and 1960s, which constituted the core of the Pax Americana political and economic systems that governed postwar modern capitalism, aimed at achieving "sustained growth" by integrating three elements: a postwar corporate structure with large and mega corporations in leading American industries (characterized by the "mature oligopolistic system") at its core; a set of governmental policies that facilitated managerial capitalism ("Keynesianism"); and the global, political, and economic institutions of postwar Pax Americana (the International Monetary Fund (IMF) and the associated dollar regime - the international managed money system - the General Agreement on Tariffs and Trade (GATT) regime, the "Cold War," and the global military regime). This system began to malfunction and break down in the 1960s, due mainly to problems inherent in the postwar corporate structure. Caught between a burdensome cost structure stemming from high labor and energy costs, and intensifying mega-competition amidst the shift to low rates of growth, America's leading corporations attempted to cope with the serious dysfunction of the postwar corporate structure in the latter half of the 1970s. The severe decline in these corporations' international competitiveness provided a fundamental driver for the dynamism of the United States' global capitalism.
 
 In essence, the true nature of this dynamism lay in the search for a new system of capital accumulation, accompanied by changes in the existing institutional structures that underpinned postwar Pax Americana. This gave rise to a systemic transformation of American corporate activity, finance, and governmental functions. In the United States, the postwar capital accumulation system became dysfunctional and its systemic interrelationships broke down. The "basic logic of capital" (basically, the profit principle expressed by the formula M . . . M′) was severed from the existing institutional linkage, and became manifest in a "bare" form. In that sense, the American system underwent a "stage of transition" in capitalism.17 In sum, this dynamism prompted the globalization of companies, finance, and information in a mutually accelerating manner beyond the realm of domestic institutional changes and restructuring; and in response to this globalization, it facilitated the neo-liberalistic transformation of government functions (from the "managerial state" exemplified by Keynesianism to the "competition-based state" initiated under Reaganomics).
 
@@ -1211,21 +2099,21 @@ The point that needs emphasis here is that the global city serves as a central "
 
 In the United States, global cities have developed in a multilayered way, and have come to form the axis of the new economic expansion of American global capitalism. New York tops the list as the American global financial center *par excellence* on the strength of the role of the dollar as the world's key currency and because of its concentration of global settlement functions and international financial facilities. Multilayered global city domains have emerged outside the U. S. as well. London and Tokyo are examples, as are Shanghai, Bangkok, and several other cities in emerging economies. These global cities form a network of important intermediaries and nodes of global capitalism.
 
-The archetype of the global city structure can be found in California (where the author conducted an on-site field survey in September 2007 and August– September 2009). Areas surrounding Silicon Valley and Los Angeles and its vicinity are home to head offices and sales firm functions that grew up during the IT boom, and accommodate R&D laboratories and the design footholds of IT venture businesses and IT-related R&D firms. The same complex is home not just to American firms, but contains the offices and factories of foreign global corporations, including those with close ties to China, Taiwan, and other Asian emerging economies. The IT-based region of Southern California is supported by a well-developed port, and by distribution, commercial, and other specialized business services, which have significantly expanded employment opportunities ranging from business management, professional, senior engineering, legal affairs, accounting, and other specialist business service jobs to various fairly simple jobs involving uncomplicated work. This dynamism has facilitated the influx of a varied population, including immigrants.
+The archetype of the global city structure can be found in California (where the author conducted an on-site field survey in September 2007 and August- September 2009). Areas surrounding Silicon Valley and Los Angeles and its vicinity are home to head offices and sales firm functions that grew up during the IT boom, and accommodate R&D laboratories and the design footholds of IT venture businesses and IT-related R&D firms. The same complex is home not just to American firms, but contains the offices and factories of foreign global corporations, including those with close ties to China, Taiwan, and other Asian emerging economies. The IT-based region of Southern California is supported by a well-developed port, and by distribution, commercial, and other specialized business services, which have significantly expanded employment opportunities ranging from business management, professional, senior engineering, legal affairs, accounting, and other specialist business service jobs to various fairly simple jobs involving uncomplicated work. This dynamism has facilitated the influx of a varied population, including immigrants.
 
 Of course, this dynamism can cut both ways. As the housing bubble proceeded in the 2000s, new residential construction expanded even in parts of California cities that had previously been "redlined" by mortgage lenders. These areas typically had concentrations of subprime loans, and thus were profoundly and adversely affected in the latest financial crisis.18
 
-The third element of the global city/new empire circuit/global capitalism nexus consists of a new emerging structure of flows of funds, centering on the United States – or what might be called the "new empire circuit" of capital flows. At the level of the national economy, the globalization of companies and the axis of the "global city" function in the American economy have given rise to a structure that constantly generates huge current account deficits for the United States by massive worldwide outsourcing and offshoring systems, regardless of cross-border internal transactions of global corporations or market transactions. These deficits are partially offset by profits from investments overseas and revenues from financial, commercial, and information services, and earnings derived from intellectual property rights. Overall, however, they are financed by very substantial inflows of funds into the United States on a global scale on the back of the dollar as the international key currency and the ample and deep financial facilities of New York. This is the "new empire circuit" of the global capital flow with the United States as the pivot.19
+The third element of the global city/new empire circuit/global capitalism nexus consists of a new emerging structure of flows of funds, centering on the United States - or what might be called the "new empire circuit" of capital flows. At the level of the national economy, the globalization of companies and the axis of the "global city" function in the American economy have given rise to a structure that constantly generates huge current account deficits for the United States by massive worldwide outsourcing and offshoring systems, regardless of cross-border internal transactions of global corporations or market transactions. These deficits are partially offset by profits from investments overseas and revenues from financial, commercial, and information services, and earnings derived from intellectual property rights. Overall, however, they are financed by very substantial inflows of funds into the United States on a global scale on the back of the dollar as the international key currency and the ample and deep financial facilities of New York. This is the "new empire circuit" of the global capital flow with the United States as the pivot.19
 
 Another point that should be emphasized in this connection is the phenomenon of the financial markets turning into "casinos" in the context of financialization and of the globalization of financial services. Dollar funds were accumulated in the global financial center in New York City due to the dollar's position as the international key currency. This burgeoning of financial activity, including the expansion of credit with those accumulated dollars as resources, helped to expand the entire "new empire circuit." This played the role of an "engine of growth" for the United States and the rest of the world, and facilitated economic expansion globally in an inflated manner. At the same time, however, this process spread the financial instability and systemic risks of financial markets globally, and was accompanied by the formation of massive amounts of investment funds such as hedge funds and cross-border speculative financial operations.
 
 ### *U. S.-centered global capitalism and the global financial crisis*
 
-The shifts described above transformed the relationship between the American and global economies. Capital accumulation in the U. S. economy came to require – and depend on – expansion, a situation very different from the reliance on sustained domestic growth that characterized the heyday of the postwar Pax Americana. Understanding the intertwined elements of this new nexus makes it possible to capture the development of U. S. economic cycles during this period, including the long boom of the 1990s, the development and collapse of the "IT bubble," and the subsequent development and collapse of the "housing bubble."
+The shifts described above transformed the relationship between the American and global economies. Capital accumulation in the U. S. economy came to require - and depend on - expansion, a situation very different from the reliance on sustained domestic growth that characterized the heyday of the postwar Pax Americana. Understanding the intertwined elements of this new nexus makes it possible to capture the development of U. S. economic cycles during this period, including the long boom of the 1990s, the development and collapse of the "IT bubble," and the subsequent development and collapse of the "housing bubble."
 
 First, the formation of new capital ventures and the "IT bubble" and its overheated development were the first phenomena to be deeply affected by this new nexus. Rapid growth in these sectors brought about a great economic expansion, which spread to the "old economy," by linking three factors: (1) the development of core urban areas, with Silicon Valley heading the list, on the strength of progress in new technological innovations such as IT and biotechnology and the emergence of new business models; (2) the expansion of IT-related capital spending, with the New York securities markets, the NASDAQ market in particular, and their financial facilities combining to attract massive amounts of investment funds at home and abroad; and (3) the development of various specialized business-related and other services, including housing construction and related urban public services, entertainment and commercial facilities and miscellaneous services (see Kawamura 2008a, 2008b).
 
-Second, the serious global financial and economic crises that were triggered by the subprime problem came about because the development of the bubblelike housing boom, which emerged after the collapse of the IT bubble, depended on an expansion of subprime loans – and thus, of subprime loan problems, in the context of particular socioeconomic features of the United States. This boom went into reverse from mid-2006 and by doing so exposed "institutional" defects20 of the "securitization mechanism," such as the unreliability of schemes for risk sterilization. Prices of securitized products fell steeply causing market paralysis through extensive downgrades.
+Second, the serious global financial and economic crises that were triggered by the subprime problem came about because the development of the bubblelike housing boom, which emerged after the collapse of the IT bubble, depended on an expansion of subprime loans - and thus, of subprime loan problems, in the context of particular socioeconomic features of the United States. This boom went into reverse from mid-2006 and by doing so exposed "institutional" defects20 of the "securitization mechanism," such as the unreliability of schemes for risk sterilization. Prices of securitized products fell steeply causing market paralysis through extensive downgrades.
 
 To a large extent, the mechanisms for expanding credit with dollar funds accumulated in New York via the "new empire circuit" operated through highly leveraged hedge fund investments. The dependence of the securitization mechanism on structured investment vehicles (SIVs) funded by asset-backed commercial paper (ABCP) and characterized by inflated margins of collateral, overpricing, and multiple-stage securitization accelerated the speculative expansion of credit.21 The spurious nature of that mechanism was revealed as delinquencies in subprime loans interacted synergistically with declining house prices and rising foreclosure levels. This caused sharp price declines for all securitized products, resulting in extensive downgrades that paralyzed the markets.
 
@@ -1233,28 +2121,47 @@ The credit collapse spread to real estate finance, credit cards, loans for lever
 
 *Table 2.2* Base case estimates of writedowns on U. S. loans (US\$ billion)
 
-| | Outstanding | estimated<br>losses<br>April | estimated<br>October<br>losses | distribution<br>Percentage | Banks | Insurance | Pensions/<br>savings | government<br>GSEs and | funds, etc.)<br>(hedge<br>Other |
+| | Outstanding | estimated
+losses
+April | estimated
+October
+losses | distribution
+Percentage | Banks | Insurance | Pensions/
+savings | government
+GSEs and | funds, etc.)
+(hedge
+Other |
 |--------------------------------------------------------------------|-------------|------------------------------|--------------------------------|----------------------------|---------|-----------|----------------------|------------------------|---------------------------------|
 | Base case estimates of writedowns on | U. S. loans | | | | | | | | |
-| me<br>Subpri | 300 | 45 | 50 | 3.56 | 35–40 | 0–5 | 0–5 | | 10–15 |
-| A<br>Alt- | 600 | 30 | 35 | 2.49 | 20–25 | 0–5 | 0–5 | | 5–10 |
-| me<br>Pri | 3,800 | 40 | 85 | 6.05 | 25–30 | 0–5 | 0–5 | 45–55 | 0–5 |
-| mercial real estate<br>m<br>Co | 2,400 | 30 | 90 | 6.41 | 60–65 | 5–10 | 0–5 | | 10–20 |
-| mer loans<br>Consu | 1,400 | 20 | 45 | 3.20 | 30–35 | 0–5 | 0–5 | | 10–15 |
-| Corporate loans | 3,700 | 50 | 110 | 7.83 | 80–85 | 0–5 | 0–5 | | 25–30 |
-| Leveraged loans | 170 | 10 | 10 | 0.71 | 5–10 | 0–5 | 0–5 | | 0–5 |
-| Total for loans | 12,370 | 225 | 425 | 30.25 | 255–290 | 5–40 | 0–35 | 45–55 | 60–100 |
+| me
+Subpri | 300 | 45 | 50 | 3.56 | 35-40 | 0-5 | 0-5 | | 10-15 |
+| A
+Alt- | 600 | 30 | 35 | 2.49 | 20-25 | 0-5 | 0-5 | | 5-10 |
+| me
+Pri | 3,800 | 40 | 85 | 6.05 | 25-30 | 0-5 | 0-5 | 45-55 | 0-5 |
+| mercial real estate
+m
+Co | 2,400 | 30 | 90 | 6.41 | 60-65 | 5-10 | 0-5 | | 10-20 |
+| mer loans
+Consu | 1,400 | 20 | 45 | 3.20 | 30-35 | 0-5 | 0-5 | | 10-15 |
+| Corporate loans | 3,700 | 50 | 110 | 7.83 | 80-85 | 0-5 | 0-5 | | 25-30 |
+| Leveraged loans | 170 | 10 | 10 | 0.71 | 5-10 | 0-5 | 0-5 | | 0-5 |
+| Total for loans | 12,370 | 225 | 425 | 30.25 | 255-290 | 5-40 | 0-35 | 45-55 | 60-100 |
 | Base case estimates of mark-to-market losses on related securities | | | | | | | | | |
-| ABS | 1,100 | 210 | 210 | 14.95 | 100–110 | 40–45 | 35–55 | 39,736 | 39,746 |
-| ABS CDOs | 400 | 240 | 290 | 20.64 | 145–160 | 55–75 | 30–45 | 15–20 | 15–30 |
-| MBS<br>me<br>Pri | 3,800 | 0 | 80 | 5.69 | 20–25 | 39,736 | 39,741 | 20–25 | 0–5 |
-| MBS<br>C | 940 | 210 | 160 | 11.39 | 80–90 | 20–25 | 15–35 | 39,741 | 15–20 |
-| mer ABS<br>Consu | 650 | 0 | 0 | 0.00 | | | | | |
-| High-grade corporate debt | 3,000 | 0 | 130 | 9.25 | 65–75 | 20–30 | 20–35 | 5–20 | |
-| High-yield corporate debt | 600 | 30 | 80 | 5.69 | 45–50 | 39,736 | 15–20 | 5–15 | |
-| CLOs | 350 | 30 | 30 | 2.14 | 15–20 | 0–5 | 0–5 | 5–10 | |
-| Total for securities | 10,840 | 720 | 980 | 69.75 | 470–530 | 155–210 | 125–215 | 55–80 | 55–125 |
-| Total for loans and securities 23,210 | | 945 | 1,405 | 100.00 | 725–820 | 160–250 | 125–250 | 100–135 | 115–225 |
+| ABS | 1,100 | 210 | 210 | 14.95 | 100-110 | 40-45 | 35-55 | 39,736 | 39,746 |
+| ABS CDOs | 400 | 240 | 290 | 20.64 | 145-160 | 55-75 | 30-45 | 15-20 | 15-30 |
+| MBS
+me
+Pri | 3,800 | 0 | 80 | 5.69 | 20-25 | 39,736 | 39,741 | 20-25 | 0-5 |
+| MBS
+C | 940 | 210 | 160 | 11.39 | 80-90 | 20-25 | 15-35 | 39,741 | 15-20 |
+| mer ABS
+Consu | 650 | 0 | 0 | 0.00 | | | | | |
+| High-grade corporate debt | 3,000 | 0 | 130 | 9.25 | 65-75 | 20-30 | 20-35 | 5-20 | |
+| High-yield corporate debt | 600 | 30 | 80 | 5.69 | 45-50 | 39,736 | 15-20 | 5-15 | |
+| CLOs | 350 | 30 | 30 | 2.14 | 15-20 | 0-5 | 0-5 | 5-10 | |
+| Total for securities | 10,840 | 720 | 980 | 69.75 | 470-530 | 155-210 | 125-215 | 55-80 | 55-125 |
+| Total for loans and securities 23,210 | | 945 | 1,405 | 100.00 | 725-820 | 160-250 | 125-250 | 100-135 | 115-225 |
 ## | | | | | | | | | | |
 
 *Global Financial Stability Report Financial Stress and Deleveraging Macro-Financial Implications and Policy*, October 2008, Table 1.1 (www.imf.org/external/pubs/ ft/gfsr/2008/02/index.htm#tablesc1). Notes ABS = asset-backed securities; CDO = collateralized debt obligation; CLO = collateralized loan obligation; GSE = government-sponsored enterprises; CMBS = com-
@@ -1267,7 +2174,7 @@ The latest global financial crisis is a clear manifestation of the inherent inst
 
 However, the crisis cannot be attributed solely to the development and collapse of a speculative bubble economy. It should be viewed, rather, as the surfacing of significant institutional defects in the U. S.-centered "global growth nexus" that emerged after the decline of the postwar Pax Americana.22 The seriousness of the current situation becomes clear only when it is viewed in the context of this broader structural change in modern capitalism.
 
-The current crisis involves the *global growth nexus* itself, that is, the system that emerged from trends in globalized capital in the 1990s. Expansion in this *global growth nexus* was propelled by a huge increase in the size of financial markets. These markets' casino-like operations arose via highly leveraged finance based on dollar balances accumulated in the New York global financial center. The focal point is the U. S. dollar position as the key international currency. The new *global growth nexus* ultimately failed because it generated a financial bubble which collapsed through its inherent systemic defects, thereby giving rise to a full-blown financial and economic crisis on a global scale (Kawamura 2009). In this sense, the essence of the crisis – which is now entering its second phase with recent developments in the Eurozone – involves the core relationships in global capital.
+The current crisis involves the *global growth nexus* itself, that is, the system that emerged from trends in globalized capital in the 1990s. Expansion in this *global growth nexus* was propelled by a huge increase in the size of financial markets. These markets' casino-like operations arose via highly leveraged finance based on dollar balances accumulated in the New York global financial center. The focal point is the U. S. dollar position as the key international currency. The new *global growth nexus* ultimately failed because it generated a financial bubble which collapsed through its inherent systemic defects, thereby giving rise to a full-blown financial and economic crisis on a global scale (Kawamura 2009). In this sense, the essence of the crisis - which is now entering its second phase with recent developments in the Eurozone - involves the core relationships in global capital.
 
 Central banks in the United States, Japan, and European countries, among others, have addressed the first phase of the global financial crisis by unconventional methods: virtually unlimited quantitative easing and emergency government expenditures on an unprecedented scale (especially after the G20 communiqué of November 2008). These measures narrowly staved off financial failure and prevented economic panic from causing a cumulative downward spiral as in the Great Depression. While the situation appeared to have improved as of early 2010, subsequent events have revealed the limitations of these governmental interventions.
 
@@ -1275,9 +2182,9 @@ In the United States, almost "all possible measures" (see G20 2008) have been ta
 
 With these governmental emergency measures, states have taken over the burden of "market failure." This continues the characteristic state role in postwar modern capitalism, which was developed through the experiences of the Great Depression and the World War II war economy. However, the market crisis has now grown into a crisis in state finances, even while the original crisis itself continues. The consequence of these ineffective state interventions is that the idea of the sustainability of contemporary capitalism is itself losing credibility. This is evident in the most recent developments, which have involved the Eurozone and some of the emerging economies.
 
-Emergency measures to resolve national deficit problems that triggered the Eurozone crisis have actually worsened the already huge financial deficit and exacerbated national debt. The second phase of the crisis has come to a head in the Eurozone's weakest countries – Portugal, Ireland, Italy, Greece, and Spain. The crisis in Greece has not abated, despite support from the larger EU countries via the European Financial Stability Facility and despite commitments by the ECB and the IMF. The European crisis itself has exposed a fundamental contradiction inherent in the European unification framework, between the Eurozone's currency integration and member states' national sovereignty. In the United States, too, a deficit of over \$1 trillion dollars has existed since 2009, leading to an intensification of partisan political conflict when the federal government reached its maximum legal borrowing limit in 2011. The issue of Japan's national debt is equally serious. After the "lost decades," it has reached an historic level of almost 1,000 trillion yen (over \$8 trillion dollars), or twice GDP – the highest ratio of any developed country. The situation, already worse than during World War II, is now exacerbated by the devastating "once a millennium" earthquake and tsunami disaster and ensuing nuclear crisis in northeast Japan.
+Emergency measures to resolve national deficit problems that triggered the Eurozone crisis have actually worsened the already huge financial deficit and exacerbated national debt. The second phase of the crisis has come to a head in the Eurozone's weakest countries - Portugal, Ireland, Italy, Greece, and Spain. The crisis in Greece has not abated, despite support from the larger EU countries via the European Financial Stability Facility and despite commitments by the ECB and the IMF. The European crisis itself has exposed a fundamental contradiction inherent in the European unification framework, between the Eurozone's currency integration and member states' national sovereignty. In the United States, too, a deficit of over \$1 trillion dollars has existed since 2009, leading to an intensification of partisan political conflict when the federal government reached its maximum legal borrowing limit in 2011. The issue of Japan's national debt is equally serious. After the "lost decades," it has reached an historic level of almost 1,000 trillion yen (over \$8 trillion dollars), or twice GDP - the highest ratio of any developed country. The situation, already worse than during World War II, is now exacerbated by the devastating "once a millennium" earthquake and tsunami disaster and ensuing nuclear crisis in northeast Japan.
 
-Further, the unconventional and emergency financial measures taken by large nations' central banks – zero interest rates, purchasing schemes, and large-scale quantitative easing – have led to excessive funds in global markets, whose side effects have included the speculative rise in crude oil, food, and raw materials prices, as well as a bubble economy in the Chinese littoral and in Vietnam. Rising food prices were a central cause of the uprisings in Egypt and other Middle Eastern countries. In this sense, those events are also part of the financial and economic crisis triggered by the failure of global expansion.
+Further, the unconventional and emergency financial measures taken by large nations' central banks - zero interest rates, purchasing schemes, and large-scale quantitative easing - have led to excessive funds in global markets, whose side effects have included the speculative rise in crude oil, food, and raw materials prices, as well as a bubble economy in the Chinese littoral and in Vietnam. Rising food prices were a central cause of the uprisings in Egypt and other Middle Eastern countries. In this sense, those events are also part of the financial and economic crisis triggered by the failure of global expansion.
 
 These situations where states have to shoulder market failure clearly show that the limit has been reached. It has also become obvious that there is a limit to the contemporary capitalist state's role as moderator of the global market economy. States are not always able to prevent global markets from running amok, or stabilizing the economy and rehabilitating society when they do. In this sense, the requisites for recovery from the global crisis cannot now be addressed by the logic of "state *vs* market." The essence of global capitalist dynamics lies in antagonism between *markets* and *communities*; so it has become apparent that socio-economic systems' true recovery must lie in an autonomic rehabilitation of private and local (regional) constituents beyond market-economy dynamics. In short, the current global crisis has made it clear that communities must be the base for true socio-economic rejuvenation of the current world. The nation state system has to be reorganized on that basis.
 
@@ -1288,26 +2195,26 @@ The current global financial and economic crisis has revealed that global capita
 - 1 This view is shared by the authors of the statement of the G-20 Summit on Financial Markets and the World Economy (November 15, 2008) (G20 2008).
 - 2 See Kawamura (2009) for a similar discussion of the latest global financial crisis.
 - 3 For a definition and reference to the problems of "predatory lending," see U. S. Department of Housing and Urban Development (2001), p. 16.
-- 4 What made the subprime crisis come to the surface was the spread of market rumors that two Bear Stearns-affiliated hedge funds investing in subprime MBS incurred huge losses and were about to sell off \$3.8 billion worth of bonds to raise funds to meet margin calls between June 14 and June 22, 2007 (new capital was injected into one hedge fund, while the other was liquidated). During the period October 11–23, 2007, Moody's Investors Service downgraded a total of 2,500 subprime bonds, and then Standard and Poor's downgraded 590 CDOs as well as 145 CDO tranches worth \$3.7 billion and placed them on the Monitoring list. In the same week, Moody's downgraded 117 CDO tranches, while Fitch Ratings announced it would review ratings of some \$37 billion worth of CDOs. The announcements of extensive downgrades caused sharp falls in the prices not only of RMBS but also of other securitized products, aggravating the subprime crisis (BIS 2007, p. 96).
-- 5 The basic framework of the U. S. housing loan market of today that incorporates government sponsored enterprises (GSEs) goes back to the late 1930s when the Federal National Mortgage Association (FNMA, Fannie Mae) was established as part of the New Deal program. For many years subsequently, restrictions on housing finance remained in place through racial segregation of resident areas by "restrictive covenants" (covenants not to sell houses to non-whites) and overlapping "redlining" (refusal to grant mortgages in the form of secured loans and insurance coverage in specific "troubled" areas). These measures helped sustain discrimination in mortgage lending to non-white people in red-lined districts with concentrations of non-white populations, resulting in a shortage of rental housing, high rents, and low-quality housing. A number of remedial measures were taken following the enactment of the Civil Rights Act of 1964. Following the Fair Housing Act (Title VIII of the amended Civil Rights Act of 1968), the Equal Credit Opportunity Act of 1974, Federal Reserve Board (FRB) Regulation B and the Home Mortgage Disclosure Act (HMDA) of 1975, the Community Reinvestment Act of 1977 was enacted. Thereafter, the FRB substantially reformed the methods for CRA-based inspection and supervision, clarifying and streamlining inspection criteria and extending coverage to loans to small businesses. These measures helped improve the situation greatly. See Yamamoto (2002) and Dymski (2007), pp. 8–9.
+- 4 What made the subprime crisis come to the surface was the spread of market rumors that two Bear Stearns-affiliated hedge funds investing in subprime MBS incurred huge losses and were about to sell off \$3.8 billion worth of bonds to raise funds to meet margin calls between June 14 and June 22, 2007 (new capital was injected into one hedge fund, while the other was liquidated). During the period October 11-23, 2007, Moody's Investors Service downgraded a total of 2,500 subprime bonds, and then Standard and Poor's downgraded 590 CDOs as well as 145 CDO tranches worth \$3.7 billion and placed them on the Monitoring list. In the same week, Moody's downgraded 117 CDO tranches, while Fitch Ratings announced it would review ratings of some \$37 billion worth of CDOs. The announcements of extensive downgrades caused sharp falls in the prices not only of RMBS but also of other securitized products, aggravating the subprime crisis (BIS 2007, p. 96).
+- 5 The basic framework of the U. S. housing loan market of today that incorporates government sponsored enterprises (GSEs) goes back to the late 1930s when the Federal National Mortgage Association (FNMA, Fannie Mae) was established as part of the New Deal program. For many years subsequently, restrictions on housing finance remained in place through racial segregation of resident areas by "restrictive covenants" (covenants not to sell houses to non-whites) and overlapping "redlining" (refusal to grant mortgages in the form of secured loans and insurance coverage in specific "troubled" areas). These measures helped sustain discrimination in mortgage lending to non-white people in red-lined districts with concentrations of non-white populations, resulting in a shortage of rental housing, high rents, and low-quality housing. A number of remedial measures were taken following the enactment of the Civil Rights Act of 1964. Following the Fair Housing Act (Title VIII of the amended Civil Rights Act of 1968), the Equal Credit Opportunity Act of 1974, Federal Reserve Board (FRB) Regulation B and the Home Mortgage Disclosure Act (HMDA) of 1975, the Community Reinvestment Act of 1977 was enacted. Thereafter, the FRB substantially reformed the methods for CRA-based inspection and supervision, clarifying and streamlining inspection criteria and extending coverage to loans to small businesses. These measures helped improve the situation greatly. See Yamamoto (2002) and Dymski (2007), pp. 8-9.
 
 - 6 The fact that some analysts later attempted to blame the subprime crisis as the result of banks being "forced" by the CRA to make subprime loans that, from the perspective of civil-rights activists, undercut the purposes of the CRA itself, further shows the complex intersections between racial inequality and lending markets in the United States.
 - 7 See Kawamura (2003a) and (2008a) for the unusually long boom and the "IT bubble" and the "new economy" of the 1990s.
 - 8 "Interagency Guidance on Subprime Lending" (March 1, 1999) and "Expanded Guidance for Subprime Lending Programs" (January 31, 2001). These statements of guidance pressed financial institutions to develop risk management systems to specify, monitor, and manage risks inherent in subprime loans and to fatten out capital bases and bad debt reserves. From the standpoint of consumer protection, the guidance documents established criteria to make acts of lending with either one of the following as unfair or predatory lending and urged firms to refrain from such lending practices: (a) lending based on collateral value rather than on repayment capacity; (b) demand for frequent refinancing with exorbitant fees; and (c) fraudulent marketing to camouflage the structure of loans. See also Mizuho Research Institute (2007), p. 22.
 - 9 Many business models of Internet-related venture businesses (the so-called "dot.com" firms) were hyper-optimistic, confusing the potential for the IT revolution with shortterm earnings prospects. The formation of dot.com stock prices factored in earnings several decades into the future and in that sense were "bubble" ingredients pure and simple. For details, see Kawamura (2003a), Chapter 7 and (2008a).
-- 10 The series of credit tightening moves was described as "taking out 'a little bit of insurance' against the possibilities of a tightening of the domestic labor market and economic overheating" and "prepared the system for making another try at soft landing when the economy ultimately started declining," but it was presumably intended to avert a general collapse in stock prices. See Greenspan (2007), translated, pp. 286–294.
-- 11 The direct contractionary effect of the collapse of the "IT bubble" boils down to the following two points: (a) the shift to the "stock adjustment" phase following the unusually long boom. The collapse of the "IT bubble" turned capital spending that followed the overly ascending demand curve into excess capacity, leading to a substantial cutback of IT-related investment, which formed the core of robust capital spending; and (b) the "negative wealth effect" of the general decline in stock prices. The sharp rise in the household share holding ratio during the 1990s (by 1999 the ratio reached 47.9 percent, almost half of the number of households, U. S. Department of Commerce (2006), Table 1187) helped broaden the "negative wealth effect" of the stock market falls. The loss of asset value for stockholders between the first quarter of 2000 and the second quarter of 2002 amounted to \$7 trillion, which is believed to have reduced consumption by some \$280 billion, equivalent to about 3 percent of gross domestic product (GDP) (CEA (2003), translation, p. 39). This significant "negative wealth effect" was offset by (a) direct and indirect military spending linked to the war in Afghanistan (from October 2001) and the Iraq War (from March 2003), and fiscal expenditure on counterterrorism measures at home and abroad; (b) largescale tax cuts by the Bush administration; and (c) maintenance and expansion of the housing boom fueled by easy credit. For details, see Kawamura (2008a), pp. 46–48. Regarding spending on the Afghan and Iraq wars, Stiglitz and Bilmes (2008) point to the overall negative effect, including the "social cost."
+- 10 The series of credit tightening moves was described as "taking out 'a little bit of insurance' against the possibilities of a tightening of the domestic labor market and economic overheating" and "prepared the system for making another try at soft landing when the economy ultimately started declining," but it was presumably intended to avert a general collapse in stock prices. See Greenspan (2007), translated, pp. 286-294.
+- 11 The direct contractionary effect of the collapse of the "IT bubble" boils down to the following two points: (a) the shift to the "stock adjustment" phase following the unusually long boom. The collapse of the "IT bubble" turned capital spending that followed the overly ascending demand curve into excess capacity, leading to a substantial cutback of IT-related investment, which formed the core of robust capital spending; and (b) the "negative wealth effect" of the general decline in stock prices. The sharp rise in the household share holding ratio during the 1990s (by 1999 the ratio reached 47.9 percent, almost half of the number of households, U. S. Department of Commerce (2006), Table 1187) helped broaden the "negative wealth effect" of the stock market falls. The loss of asset value for stockholders between the first quarter of 2000 and the second quarter of 2002 amounted to \$7 trillion, which is believed to have reduced consumption by some \$280 billion, equivalent to about 3 percent of gross domestic product (GDP) (CEA (2003), translation, p. 39). This significant "negative wealth effect" was offset by (a) direct and indirect military spending linked to the war in Afghanistan (from October 2001) and the Iraq War (from March 2003), and fiscal expenditure on counterterrorism measures at home and abroad; (b) largescale tax cuts by the Bush administration; and (c) maintenance and expansion of the housing boom fueled by easy credit. For details, see Kawamura (2008a), pp. 46-48. Regarding spending on the Afghan and Iraq wars, Stiglitz and Bilmes (2008) point to the overall negative effect, including the "social cost."
 - 12 See Epstein (2006) for the concept of "financialization" and the problem of financial instability. Imura (2008) also views financialization as "financial activities independent of the real economy," and addresses the subprime problem, along with its cause, as a crisis generated by speculative financial activities.
 - 13 See BIS (2000, 2007). These figures do not include over-the-counter (OTC) transactions such as derivatives and swaps.
 
 - 14 Strange (1986) and many others have addressed this issue. See Kawamura (2008a).
 - 15 For the "new economy" theory on the long boom of the 1990s, see Kawamura (2008a).
-- 16 Because of the limited space available, these cannot be discussed at length. See Kawamura (2003a, 2003b, 2006, 2008a) for details. The basic developments in the restructuring and transformation of the American economy since the 1970s are discussed in Kawamura (2003a), particularly in Chapters 5–7. Kawamura (2006) focuses on the problem of the transformation of the postwar corporate structure, and discusses its development and the nature of American companies transforming themselves into global firms as well as the significance of this development for shedding light on the historical phase of modern capitalism. This chapter's basic perspective, that finds the emergence of the new capital accumulation system of global capitalism in the United States in the combination of the "global city" function and the "new empire circuit," is outlined in Kawamura (2006), Section 4, pp. 155–158, and is discussed in more detail in Kawamura (2008a), particularly Section 4, pp. 49–58.
-- 17 See Kawamura (2006), pp. 149–154 and Kawamura (2008b) for the significance of the formation of "institutions" and the formation of "systems" in the shift within the capital accumulation system.
-- 18 Regarding this point, on-site field surveys were conducted under the author's direction on the "global city" structure of a region comprising the Bay Area of California (including San Francisco and Silicon Valley), on Los Angeles and its surrounding areas and on Tijuana, Mexico, as well as on the subprime housing loan situation in Sacramento. The field work was done in September 2007 under the open research center project of the Musashi University Research Center (with Tetsuji Kawamura as FY2003–04 research leader and FY2005–07 research supervisor). This chapter is based on the results of these field surveys. In Sacramento, 70 percent of the non-white population reside in "redlining" areas, which overlap areas where delinquencies and foreclosures were concentrated in the latest subprime problem. See also Hernandez (2007).
+- 16 Because of the limited space available, these cannot be discussed at length. See Kawamura (2003a, 2003b, 2006, 2008a) for details. The basic developments in the restructuring and transformation of the American economy since the 1970s are discussed in Kawamura (2003a), particularly in Chapters 5-7. Kawamura (2006) focuses on the problem of the transformation of the postwar corporate structure, and discusses its development and the nature of American companies transforming themselves into global firms as well as the significance of this development for shedding light on the historical phase of modern capitalism. This chapter's basic perspective, that finds the emergence of the new capital accumulation system of global capitalism in the United States in the combination of the "global city" function and the "new empire circuit," is outlined in Kawamura (2006), Section 4, pp. 155-158, and is discussed in more detail in Kawamura (2008a), particularly Section 4, pp. 49-58.
+- 17 See Kawamura (2006), pp. 149-154 and Kawamura (2008b) for the significance of the formation of "institutions" and the formation of "systems" in the shift within the capital accumulation system.
+- 18 Regarding this point, on-site field surveys were conducted under the author's direction on the "global city" structure of a region comprising the Bay Area of California (including San Francisco and Silicon Valley), on Los Angeles and its surrounding areas and on Tijuana, Mexico, as well as on the subprime housing loan situation in Sacramento. The field work was done in September 2007 under the open research center project of the Musashi University Research Center (with Tetsuji Kawamura as FY2003-04 research leader and FY2005-07 research supervisor). This chapter is based on the results of these field surveys. In Sacramento, 70 percent of the non-white population reside in "redlining" areas, which overlap areas where delinquencies and foreclosures were concentrated in the latest subprime problem. See also Hernandez (2007).
 - 19 Here, the "new empire circuit" differs from the "empire circuit" during the heyday of postwar Pax Americana and is also different from the "new empire circuit" under the "dollar standard system" that emerged in the 1980s. See Ikeda (2003) for the global flow of funds centering on the United States and its structural characteristics, and see Ikeda (2003) and note 1 for the term "empire circuit." See also Kawamura (2008a).
 - 20 See Epstein (2005) for the concept of "financialization" and the problem of financial instability.
-- 21 What can be cited as defects of the "securitization mechanism" include (a) "risk transfer" and "risk dispersion" problems of "structured bonds" – the spuriousness of taking assets off balance sheets via SIVs, carving out assets by the senior/subordinate relationship, and so on; (b) negotiation transactions – "equity" tranches, CDSs and CDOs incorporating them; and (c) problems related to the pricing of securitized instruments – problems with margins of collateral, default probability distribution assumptions by approximate measurements by market participants in disregard of the nature of risks (rather than "Knightian uncertainty"), and disregard of linkages among various variables. These defects tend to expand their problems cumulatively as securitization and re-securitization processes become multilayered.
+- 21 What can be cited as defects of the "securitization mechanism" include (a) "risk transfer" and "risk dispersion" problems of "structured bonds" - the spuriousness of taking assets off balance sheets via SIVs, carving out assets by the senior/subordinate relationship, and so on; (b) negotiation transactions - "equity" tranches, CDSs and CDOs incorporating them; and (c) problems related to the pricing of securitized instruments - problems with margins of collateral, default probability distribution assumptions by approximate measurements by market participants in disregard of the nature of risks (rather than "Knightian uncertainty"), and disregard of linkages among various variables. These defects tend to expand their problems cumulatively as securitization and re-securitization processes become multilayered.
 - 22 Many business models of Internet-related venture businesses (the so-called "dot.com" firms) were hyper-optimistic, confusing the potential for the IT revolution with shortterm earnings prospects. The formation of dot.com stock prices factored in earnings several decades into the future and in that sense were "bubble" ingredients pure and simple. For details, see Kawamura (2003a), Chapter 7 and (2008a).
 
 ### **References**
@@ -1351,13 +2258,13 @@ The current global financial and economic crisis has revealed that global capita
 - New York Times (2008), *Times Topics: Economic Stimulus*, January 9, 2008 (http:// topics.nytimes.com).
 - OECD (2002), *Economic Outlook*, No. 71, June 2002.
 
-### **Reich (1991), <<<info to come>>>**
+### **Reich (1991), >>**
 
 Sassen, Saskia (2001), *The Global City: New York, London, Tokyo*, 2nd edition, Princeton University Press.
 
 - Stiglitz, Joseph E. and Linda J. Bilmes (2008), *Three Trillion Dollar War: The True Cost of the Iraq Conflict*, W. W. Norton.
 - Strange, Susan (1986), *Casino Capitalism*, Basil Blackwell.
-- U. S. Congressional Budget Office (2007), *Estimated Appropriations Provided for Iraq and the War on Terrorism, 2001–2006* (www.cbo.gov).
+- U. S. Congressional Budget Office (2007), *Estimated Appropriations Provided for Iraq and the War on Terrorism, 2001-2006* (www.cbo.gov).
 - U. S. Congressional Budget Office (2009), *The Budget and Economic Outlook: Fiscal Years 2009 to 2019*, January 2009 (www.cbo.gov).
 - U. S. Councils for Economic Advisors (2003), *The Annual Report of the Councils for Economic Advisors*, 2003, USGPO.
 - U. S. Department of Commerce, Bureau of the Census (2006), *Statistical Abstract of the United States: 2006* (www.census.gov/compendia/statab/2006).
@@ -1367,27 +2274,27 @@ Sassen, Saskia (2001), *The Global City: New York, London, Tokyo*, 2nd edition, 
 
 ## **3 Financialization and capitalist accumulation**
 
-## A structural account of the crisis of 2007–09
+## A structural account of the crisis of 2007-09
 
 ## *Costas Lapavitsas*
 
-### **Introduction**<sup>1</sup>
+### **Introduction**1
 
-The upheaval of 2007–09 is replete with historical peculiarities. It emanated in finance and spread to production partly through financial mechanisms. Its global character was largely due to securitization, which encouraged adoption of investment banking practices among commercial banks. Above all, its proximate causes lay in mortgage lending to the poorest sections of the U. S. working class.
+The upheaval of 2007-09 is replete with historical peculiarities. It emanated in finance and spread to production partly through financial mechanisms. Its global character was largely due to securitization, which encouraged adoption of investment banking practices among commercial banks. Above all, its proximate causes lay in mortgage lending to the poorest sections of the U. S. working class.
 
 Not surprisingly there has been a flood of writings on the crisis from a heterodox and critical perspective. Some have relied on traditional arguments of Marxist political economy, typically emphasizing over-accumulation and falling profit rates. Others have stressed the financialization of capitalism, and therefore the exceptional role of finance in causing the crisis. These approaches are far from mutually exclusive, indeed use of the term "financialization" is becoming commonplace. But they reveal an underlying concern that traditional explanations have fared poorly in explaining the current crisis.
 
 The concept of financialization is one of the few innovative ideas to come out of radical political economy in recent years. It holds considerable theoretical promise because it is capable of relating the unusual features of the current crisis to the secular growth of finance. Moreover, it can give insight into the structural transformation of capitalist economies with its attendant social implications. To be sure the concept is still raw and undeveloped, as is shown below. But there is no denying its power.
 
-This chapter reviews some of the literature on financialization and subsequently puts forth a particular theoretical analysis that is situated within Marxist political economy. Financialization is defined as a systemic transformation of mature capitalist economies comprising, first, increasing distance between banks and non-financial corporations, second, the turning of banks toward mediating in financial markets and lending to individuals, and, third, increasing involvement of individuals in the realm of finance both as debtors and as asset holders. The crisis of 2007–09 is a crisis of financialization because it is directly related to these developments.
+This chapter reviews some of the literature on financialization and subsequently puts forth a particular theoretical analysis that is situated within Marxist political economy. Financialization is defined as a systemic transformation of mature capitalist economies comprising, first, increasing distance between banks and non-financial corporations, second, the turning of banks toward mediating in financial markets and lending to individuals, and, third, increasing involvement of individuals in the realm of finance both as debtors and as asset holders. The crisis of 2007-09 is a crisis of financialization because it is directly related to these developments.
 
 The second section of this chapter offers an empirical account of the crisis focusing, above all, on the role of finance. The third section discusses several approaches to financialization and the crisis, paying particular attention to Marxist, post-Keynesian and other heterodox work that has significant overlaps with economic sociology. The fourth section then develops a theoretical view of financialization treated as systemic transformation by drawing on the methodological approach of classical Marxism. Correspondence with the empirical account of the crisis in the second section is also established. The final section concludes.
 
-### **A crisis of financialization, 2007–09**
+### **A crisis of financialization, 2007-09**
 
-The crisis of 2007–09 reflects the ascendancy of finance in contemporary economies or, more accurately, of financialization. To demonstrate this point, as well as to navigate among contesting theoretical accounts of financialization, it is necessary to start with some key empirical aspects of the upheaval.
+The crisis of 2007-09 reflects the ascendancy of finance in contemporary economies or, more accurately, of financialization. To demonstrate this point, as well as to navigate among contesting theoretical accounts of financialization, it is necessary to start with some key empirical aspects of the upheaval.
 
-The crisis broke out in the financial sector of the U. S. and other leading developed countries, subsequently spreading across the world economy. Consequently, analysis in this section focuses on the U. S., Japan, Germany, and the UK during 2001–07, using primarily flow of funds statistics. There are problems of comparability and consistency with this data, and it should be used with caution in cross-country analysis. But it is more than adequate for capturing the underlying processes that led to the crisis.
+The crisis broke out in the financial sector of the U. S. and other leading developed countries, subsequently spreading across the world economy. Consequently, analysis in this section focuses on the U. S., Japan, Germany, and the UK during 2001-07, using primarily flow of funds statistics. There are problems of comparability and consistency with this data, and it should be used with caution in cross-country analysis. But it is more than adequate for capturing the underlying processes that led to the crisis.
 
 It should be stressed that the focus of this section lies entirely on the domestic economy of these four countries. The international dimension of the crisis (and of financialization) is left out of account. This omission, far from being a weakness, makes it possible to pay closer attention to the chief mechanisms of crisis (and of financialization) which are domestic. The financial bubble preceding the crisis undoubtedly had an international dimension that resulted from the flow of capital into U. S. financial markets. After 2004, these flows originated heavily in developing countries, mostly China but also the Gulf states, Russia, and so on. The underlying cause of this development was not a "savings surplus" in developing countries which was selflessly absorbed by the U. S. through high domestic consumption. As has been discussed elsewhere (Painceira 2009; Lapavitsas 2009a and 2009b) a "reverse flow" of capital from poor to rich countries took place during the last decade, which arose because poor countries accumulated extraordinary foreign currency reserves (mostly dollars). The exorbitant size of reserves was dictated by the structure of the international financial system, which has shifted the onus of confronting international financial crises onto developing countries. Consequently, capital flowed from developing countries into the U. S. to buy dollar-denominated public bonds. But foreign flows were of secondary importance to the over-expansion of credit in U. S. markets during the last decade. The bubble in the U. S. was primarily due to the growth of domestic credit. By the same token, the underlying causes of financialization are domestic, even if the process also has an integral international dimension. Thus, the proximate roots of the upheaval lie in the expansion of U. S. mortgage lending after 2001 (see Figure 3.1).
 
@@ -1435,9 +2342,9 @@ Figure 3.6 Public debt as percentage of GDP (source: Flow of funds accounts (Fed
 
 debt in the U. S., the UK and Germany. Public debt escalated even further in Japan, but the causes were clearly associated with the country's internal travails since the early 1990s. Since the relevant debt accumulation occurred neither in the corporate, nor in the public sector, inevitably household debt rose to support bank profits (see Figure 3.7).
 
-The four countries present a very different picture with regard to household debt. While indebtedness among German and Japanese households fell, that among U. S. and UK households rose steeply. The bulk of this debt – up to 80 percent – was due to mortgages. Bank profitability was supported by mortgaged household incomes as workers and other social layers were caught in a housing bubble. Indeed, the weight of unsecured consumer debt fell in the late 2000s, especially in the UK. This is consistent with the performance of consumption during the bubble. Contrary to what has often been asserted in public debate, consumption relative to GDP remained at best stable, or even fell in Germany and the UK, as shown in Figure 3.8. At the root of this phenomenon lay stagnant real wages.
+The four countries present a very different picture with regard to household debt. While indebtedness among German and Japanese households fell, that among U. S. and UK households rose steeply. The bulk of this debt - up to 80 percent - was due to mortgages. Bank profitability was supported by mortgaged household incomes as workers and other social layers were caught in a housing bubble. Indeed, the weight of unsecured consumer debt fell in the late 2000s, especially in the UK. This is consistent with the performance of consumption during the bubble. Contrary to what has often been asserted in public debate, consumption relative to GDP remained at best stable, or even fell in Germany and the UK, as shown in Figure 3.8. At the root of this phenomenon lay stagnant real wages.
 
-To recap, a pure financial bubble occurred in 2001–07, fed by mortgage credit and sustained by securitization. Banks and other financial institutions grew rapidly in the U. S. and the UK, sustaining profitability through higher leverage. During this period the real sector performed indifferently, and investment even fell in the U. S. This is a notable difference with the Japanese real estate and stock market bubble of the 1980s, during which private investment rose significantly.
+To recap, a pure financial bubble occurred in 2001-07, fed by mortgage credit and sustained by securitization. Banks and other financial institutions grew rapidly in the U. S. and the UK, sustaining profitability through higher leverage. During this period the real sector performed indifferently, and investment even fell in the U. S. This is a notable difference with the Japanese real estate and stock market bubble of the 1980s, during which private investment rose significantly.
 
 Furthermore, corporate and public indebtedness did not escalate. Rather, the debt that supported bank profits was accumulated by the household sector, primarily in the U. S. and the UK. Much of this debt was acquired by the least
 
@@ -1449,11 +2356,11 @@ Furthermore, corporate and public indebtedness did not escalate. Rather, the deb
 
 *Figure 3.8* Consumption as percentage of GDP (source: Flow of funds accounts (Fed, Bank of Japan, Bundesbank), ONS).
 
-creditworthy layers of the working class as subprime lending surged. When repayment difficulties materialized among the poorest workers, the bubble came to an end, and banks were prostrate. The world recession that followed in 2008–09 was in large measure rendered by shrinkage of credit and collapsing demand.
+creditworthy layers of the working class as subprime lending surged. When repayment difficulties materialized among the poorest workers, the bubble came to an end, and banks were prostrate. The world recession that followed in 2008-09 was in large measure rendered by shrinkage of credit and collapsing demand.
 
 It is historically unprecedented for a global crisis to be precipitated by debt default among the poorest workers. The global dimension of the crisis, moreover, is largely due to securitization that spread problematic mortgage debt across the world. This is a further vital difference with the Japanese bubble of the 1980s, which remained a local occurrence. In these respects, the crisis reflects the transformation of mature capitalist economies in recent decades, and more specifically the advance of financialization. Consider now some of the theoretical responses to the issues posed by financialization in general, and by the crisis in particular.
 
-### **Radical approaches to financialization and the crisis of 2007–09**
+### **Radical approaches to financialization and the crisis of 2007-09**
 
 ### *Marxist political economy of financial expansion*
 
@@ -1461,7 +2368,7 @@ The Marxist current of *Monthly Review* already published original insights on t
 
 Specifically, monopolies generate an ever expanding surplus, which cannot be absorbed by the sphere of production, resulting in stagnation. To relieve stagnation, unproductive consumption (including pure waste) inexorably rises in mature capitalism. This argument was put to use when economic turmoil took hold in the 1970s.3 For the *Monthly Review* current, as production stagnated under the weight of the surplus, capital began to seek refuge in circulation, and above all in the speculative activities of finance. Financialization emerged as the sphere of production became inundated by the investible surplus.
 
-The gist of this argument has proven extremely influential among Marxist and other heterodox theories. Political economy explanations of the crisis of 2007–09 typically stress the contrast between stagnating or declining production and thriving finance. There is a presumption that capital has attempted to deal with problematic profitability in production by seeking financial profits. However, at some point the potency of the financial escape declined and crisis manifested itself.
+The gist of this argument has proven extremely influential among Marxist and other heterodox theories. Political economy explanations of the crisis of 2007-09 typically stress the contrast between stagnating or declining production and thriving finance. There is a presumption that capital has attempted to deal with problematic profitability in production by seeking financial profits. However, at some point the potency of the financial escape declined and crisis manifested itself.
 
 The most sophisticated and influential variant of this argument has been offered by Brenner (2002, 2006, 2009), for whom stagnation in the sphere of production is related to Marx's theory of the tendency of the rate of profit to fall. To be specific, since the late 1960s there has been sustained overcapacity in production that has exacerbated competition, thus lowering profit rates. Actual crisis has been evaded by palliatives, such as boosting demand through exchange rate manipulation and encouraging cheap credit. When credit creation spurred by the Federal Reserve in 2001 had run its course, the underlying reality of problematic production manifested itself and the world was plunged into crisis.
 
@@ -1473,7 +2380,7 @@ The strand of Marxist writing that aims to show the applicability of (some versi
 
 Post-Keynesian analysis of financialization also stresses the putative link between stagnating production and booming finance, for instance, Epstein (2005). Unlike the Marxist approaches, however, post-Keynesians typically ascribe the stagnation of production to the deleterious role of booming finance. The poor performance of the real sector in mature capitalist countries is caused in large measure by the expansion of the financial sector.
 
-Post-Keynesian analysis of financialization does not derive from Minsky, who did not generally discuss the long-term balance between finance and the rest of the economy, except in some very late output (Minsky 1996; Minsky and Whalen 1996). Rather, post-Keynesian analysis is based on the concept of the rentier, and in particular on the money lender as rentier. This is clear in several influential works, such as Crotty (1990), Pollin (2007), and Epstein (2005). The re-emergence of the rentier as a result of neoliberal economic policy has induced poor performance in investment, output and growth in developed countries. Policy intervention is required to regulate finance – for instance, liquidity reserves of banks, direction of credit, limits on investment banking activities, and so on – resulting in improved output, employment, and income (Crotty 2008, 2009; Crotty and Epstein 2008, 2009).
+Post-Keynesian analysis of financialization does not derive from Minsky, who did not generally discuss the long-term balance between finance and the rest of the economy, except in some very late output (Minsky 1996; Minsky and Whalen 1996). Rather, post-Keynesian analysis is based on the concept of the rentier, and in particular on the money lender as rentier. This is clear in several influential works, such as Crotty (1990), Pollin (2007), and Epstein (2005). The re-emergence of the rentier as a result of neoliberal economic policy has induced poor performance in investment, output and growth in developed countries. Policy intervention is required to regulate finance - for instance, liquidity reserves of banks, direction of credit, limits on investment banking activities, and so on - resulting in improved output, employment, and income (Crotty 2008, 2009; Crotty and Epstein 2008, 2009).
 
 In Keynes' (1973: ch. 24) analysis of mature capitalism the rentier is a parasitical economic entity that extracts profits due to the scarcity of capital, and which might thus depress investment and profitability. Successful capitalism requires the "euthanasia of the rentier" effected through low interest rates. In some of Marx's (1981: chs. 21, 22, 23, 24) writings the analysis of "monied" capitalists is certainly reminiscent of the rentier. "Monied" capitalists are a section of the capitalist class that does not invest its capital in production but prefers to lend it to others. Thus, money capital available for loans is owned by the "monied" section, but is put to use by the productive section, the latter paying a part of the resulting surplus value as interest to the former.
 
@@ -1501,7 +2408,7 @@ The analysis of financialization, therefore, must specify the mediations through
 
 A distinct social layer of rentiers, for instance, is far from evident in contemporary capitalism. Financial institutions are, of course, intermediaries that mobilize idle money across social classes, they are not a rentier social layer. Furthermore, the presumed social tension between rentier and industrialist has been far from visible in the course of the recent crisis. Indeed, there has been remarkable commonality of response to the crisis by corporate and financial interests.
 
-Similar problems hold for the "crisis-in-suspension" view of contemporary capitalism, exemplified by Brenner, according to which crises are due to underlying over-accumulation, but are postponed or delayed through financial expansion. This is a reversal of classical Marxism, for which restructuring is an inevitable response to over-accumulation, while crises are temporary and sharp upheavals that prepare the ground for the restoration of profitability. Moreover, there is little evidence of over-accumulation in the U. S., Japan or across Europe in the 2000s, as was shown in the second section of this chapter. And nor was there a decline in profit rates on the approach to crisis commensurate with the gigantic nature of the upheaval that commenced in 2007. To be sure, average profitability in developed countries has been consistently below the levels of the 1960s, despite recovering from the trough of the early 1980s.8 But the crisis of 2007–09 has little in common with a crisis of profitability, such as 1973–75.
+Similar problems hold for the "crisis-in-suspension" view of contemporary capitalism, exemplified by Brenner, according to which crises are due to underlying over-accumulation, but are postponed or delayed through financial expansion. This is a reversal of classical Marxism, for which restructuring is an inevitable response to over-accumulation, while crises are temporary and sharp upheavals that prepare the ground for the restoration of profitability. Moreover, there is little evidence of over-accumulation in the U. S., Japan or across Europe in the 2000s, as was shown in the second section of this chapter. And nor was there a decline in profit rates on the approach to crisis commensurate with the gigantic nature of the upheaval that commenced in 2007. To be sure, average profitability in developed countries has been consistently below the levels of the 1960s, despite recovering from the trough of the early 1980s.8 But the crisis of 2007-09 has little in common with a crisis of profitability, such as 1973-75.
 
 There is no doubt that the rise of finance in recent decades has been accompanied by indifferent performance of real accumulation.9 But for a theory of financialization it is necessary to focus analysis on the transformation of the conduct of industrial and commercial capital, banks, and workers. In this respect there is broadly Marxist work that can be of considerable help. There is, for instance, path-breaking work on derivative markets by Bryan and Rafferty (2007), even though they interpret derivatives as a new type of money. There is also recent writing on the international political economy of the current crisis, undertaken from a variety of standpoints, for instance, Gowan (2009), Panitch and Gindin (2009), and Wade (2008). Even more significantly, Blackburn (2006) has put forth several insights regarding the operations of financial markets and associated financial institutions. Finally, Chesnais (1997) has long studied financialization, stressing the role of the rentier while remaining fully aware of the international aspect of financial flows.
 
@@ -1521,27 +2428,27 @@ Consequently, banks have restructured themselves in several ways since the 1970s
 
 Workers' consumption has become increasingly privatized and mediated by the financial system. Banks and other financial institutions have been able to extract profit directly out of wages and salaries, rather than surplus value. They have also been able to make profits out of workers' assets, particularly as public provision of pensions has retreated, encouraging the channelling of workers' savings to pension funds, insurance companies, money funds, and thus to the stock market.
 
-The "financialization" of workers' income, savings, consumption, and assets characterizes the current period. It has also stamped the crisis of 2007–09, as was shown in section 2. But relations between banks and households are qualitatively different from relations between banks and industrial capitalists. The former involve finance that is not directly involved in generating surplus value in accumulation. Furthermore, the aim of workers, generally speaking, is to acquire use values, while financial institutions and industrial capitalists share a similar aim, i.e., profit extraction. By the same token, there are systematic differences in information as well as economic and social power between banks and workers.
+The "financialization" of workers' income, savings, consumption, and assets characterizes the current period. It has also stamped the crisis of 2007-09, as was shown in section 2. But relations between banks and households are qualitatively different from relations between banks and industrial capitalists. The former involve finance that is not directly involved in generating surplus value in accumulation. Furthermore, the aim of workers, generally speaking, is to acquire use values, while financial institutions and industrial capitalists share a similar aim, i.e., profit extraction. By the same token, there are systematic differences in information as well as economic and social power between banks and workers.
 
 The emergence of financial profits out of wages and salaries as a systematic social phenomenon has been called financial expropriation (Lapavitsas 2009b).13 Given the specific features of relations between workers and financial institutions, it is not surprising that predatory and usurious practices have proliferated, both in lending and in the handling of workers' assets.14 In these respects financialization represents the revival of the ancient predatory outlook of the financial system toward both economy and society.
 
-The turn of banks toward investment banking, on the other hand, has been fostered by the growth of open financial markets. Investment banking typically borrows in wholesale money markets to invest in securities, thus earning profits through fees, commissions, and proprietary trading. The rise of these banking activities was given formal status with the abolition of the Glass–Steagall Act in the U. S. in 1999, and similar legislation elsewhere. Investment banking has been fuelled by successive waves of mergers and acquisitions among monopoly capitals during the last three decades. It has also benefited from the channelling of personal savings to stock markets at the behest of the state. Finally, it has found room for growth in the new markets that have emerged in derivatives, particularly as exchange rate instability set in.
+The turn of banks toward investment banking, on the other hand, has been fostered by the growth of open financial markets. Investment banking typically borrows in wholesale money markets to invest in securities, thus earning profits through fees, commissions, and proprietary trading. The rise of these banking activities was given formal status with the abolition of the Glass-Steagall Act in the U. S. in 1999, and similar legislation elsewhere. Investment banking has been fuelled by successive waves of mergers and acquisitions among monopoly capitals during the last three decades. It has also benefited from the channelling of personal savings to stock markets at the behest of the state. Finally, it has found room for growth in the new markets that have emerged in derivatives, particularly as exchange rate instability set in.
 
-The crisis of 2007–09 represents a particularly acute combination of bank lending to individuals with investment banking, summed up in the second section. Large commercial banks borrowed in the money markets, used the funds to finance lending to workers for mortgages, and made profits out of trading mortgage-based securities. In effect banks "churned" their capital to create offbalance sheet items, drawing profits from fees or capital gains. By implication banks came to rely on money markets to obtain liquidity, while weakening their solvency. These two effects combined to produce the most acute phenomena of the crisis.15
+The crisis of 2007-09 represents a particularly acute combination of bank lending to individuals with investment banking, summed up in the second section. Large commercial banks borrowed in the money markets, used the funds to finance lending to workers for mortgages, and made profits out of trading mortgage-based securities. In effect banks "churned" their capital to create offbalance sheet items, drawing profits from fees or capital gains. By implication banks came to rely on money markets to obtain liquidity, while weakening their solvency. These two effects combined to produce the most acute phenomena of the crisis.15
 
 The transformation of commercial banks was inevitably accompanied by profound changes in information-gathering and risk management. Dealing with individuals normally has prohibitive informational costs due to large numbers and small size of transactions. But the technological revolution in information and telecommunications in recent decades has allowed banks to adopt "credit scoring" and associated statistical manipulation of risk.16 Similarly, banks have adopted essentially investment banking techniques to manage the risk attached to their balance sheets in general. The dominant practices of Value at Risk rely on computationally intensive statistically-based techniques, which rest on markto-market accounting.
 
-In short, "relational" have been replaced by "hard" methods of ascertaining creditworthiness. Banks relied less on personal visits, the placement of bank employees within corporation structures, and the management of corporate accounts and monetary transactions, and more on computationally intensive statistical methods. Furthermore, due diligence on marketed loans has often been subcontracted to other institutions, such as credit rating agencies. The net result appears to have been a net loss of ability of banks to judge creditworthiness. This, again, was a notable feature of the crisis of 2007–09, marked by explosive growth of self-evidently problematic subprime loans.
+In short, "relational" have been replaced by "hard" methods of ascertaining creditworthiness. Banks relied less on personal visits, the placement of bank employees within corporation structures, and the management of corporate accounts and monetary transactions, and more on computationally intensive statistical methods. Furthermore, due diligence on marketed loans has often been subcontracted to other institutions, such as credit rating agencies. The net result appears to have been a net loss of ability of banks to judge creditworthiness. This, again, was a notable feature of the crisis of 2007-09, marked by explosive growth of self-evidently problematic subprime loans.
 
 ### **Conclusion**
 
-The upheaval of 2007–09 emerged at the end of a bubble sustained by housing credit and financial innovation. A striking feature of the bubble was rapid growth of financial institutions on the back of investment banking activities. Such growth was matched by household indebtedness in the U. S. and the UK. Meanwhile, the bubble had a modest impact on production – and even consumption – in mature countries.
+The upheaval of 2007-09 emerged at the end of a bubble sustained by housing credit and financial innovation. A striking feature of the bubble was rapid growth of financial institutions on the back of investment banking activities. Such growth was matched by household indebtedness in the U. S. and the UK. Meanwhile, the bubble had a modest impact on production - and even consumption - in mature countries.
 
-The crisis of 2001–07 was thus systemic and reflected the rise of finance relative to production in recent years, a trend that political economists have increasingly captured through the term financialization. The origins of this concept lie within Marxist political economy, but it has been deployed in complex ways by other social scientists, including sociologists.
+The crisis of 2001-07 was thus systemic and reflected the rise of finance relative to production in recent years, a trend that political economists have increasingly captured through the term financialization. The origins of this concept lie within Marxist political economy, but it has been deployed in complex ways by other social scientists, including sociologists.
 
 The literature on financialization relates the concurrent phenomena of expanding finance and poorly performing production. The point is, however, that there is no direct causation between finance and production, in either direction. Rather, complex mediating processes exist between the two, which have to be analyzed in their own right, if the concept of financialization is to have explanatory power.
 
-It was argued in this chapter that financialization is a systemic transformation of capitalist economies with three distinguishing features, all of which are important in explaining the crisis of 2007–09. First, relations between large nonfinancial corporations and banks have been altered, as the former have come to rely heavily on internal finance, while seeking external finance in open markets. Large corporations have acquired independent financial skills – they have become financialized.
+It was argued in this chapter that financialization is a systemic transformation of capitalist economies with three distinguishing features, all of which are important in explaining the crisis of 2007-09. First, relations between large nonfinancial corporations and banks have been altered, as the former have come to rely heavily on internal finance, while seeking external finance in open markets. Large corporations have acquired independent financial skills - they have become financialized.
 
 Second, banks have consequently transformed themselves. Specifically, banks have turned toward mediating transactions in open markets, thus earning fees, commissions, and trading profits. They have also turned toward individuals in terms of lending and handling financial assets. The transformation of banks has relied on technological development, which has encouraged "hard" as opposed to "soft" practices of risk management.
 
@@ -1568,9 +2475,9 @@ Third, individual workers and households have been led into the financial system
 
 ### **References**
 
-Aglietta, M. 2000. "Shareholder value and corporate governance: some tricky questions," *Economy and Society*, 29(1): 146–159.
+Aglietta, M. 2000. "Shareholder value and corporate governance: some tricky questions," *Economy and Society*, 29(1): 146-159.
 
-Aglietta, M. and R. Breton. 2001. "Financial systems, corporate control and capital accumulation," *Economy and Society*, 30(4): 433–466.
+Aglietta, M. and R. Breton. 2001. "Financial systems, corporate control and capital accumulation," *Economy and Society*, 30(4): 433-466.
 
 Arrighi, G. 1994. *The Long Twentieth Century: Money, Power, and the Origins of Our Times*, London and New York: Verso.
 
@@ -1580,30 +2487,30 @@ Bellamy Foster, J. 2007. "The financialization of capitalism," *Monthly Review*,
 
 - Bellamy Foster, J. 2008. "The financialization of capital and the crisis," *Monthly Review*, 59(11), www.monthlyreview.org.
 - Bellamy Foster, J. and F. Magdoff. 2009. *The Great Financial Crisis: Causes and Consequences*, New York: Monthly Review Press.
-- Blackburn, R. 2006. "Finance and the fourth dimension," *New Left Review*, 39: 39–70.
+- Blackburn, R. 2006. "Finance and the fourth dimension," *New Left Review*, 39: 39-70.
 - Brenner, R. 2002. *The Boom and the Bubble: The US in the World Economy*, London: Verso.
 - Brenner, R. 2006. *The Economics of Global Turbulence*, London: Verso.
 - Brenner, R. 2009. "What is good for Goldman Sachs: the origins of the current crisis," New Introduction for Brenner, R. 2006. *The Economics of Global Turbulence*, www. sscnet.ucla.edu/issr/cstch/papers/Brenner Crisis Today October2009.pdf.
-- Boyer, R. 2000. "Is a finance-led growth regime a viable alternative to Fordism? A preliminary analysis," *Economy and Society*, 29(1): 111–145.
-- Bryan, D. and M. Rafferty. 2007. "Financial derivatives and the theory of money," *Economy and Society*, 36(1): 134–158.
+- Boyer, R. 2000. "Is a finance-led growth regime a viable alternative to Fordism? A preliminary analysis," *Economy and Society*, 29(1): 111-145.
+- Bryan, D. and M. Rafferty. 2007. "Financial derivatives and the theory of money," *Economy and Society*, 36(1): 134-158.
 - Callinicos, A. 2010. *Bonfire of Illusions*, New York: John Wiley.
 - Chesnais, F. 1997. *La mondalisation financière*, Paris: Syros.
-- Clark, I. 2009. "Owners and managers: disconnecting managerial capitalism? Understanding the private-equity business model," *Work, Employment and Society*, 23: 775–786.
-- Crotty, J. 1990. "Owner-manager conflict and financial theory of investment stability: a critical assessment of Keynes, Tobin, and Minsky," *Journal of Post Keynesian Economics*, 12(4): 519–542.
+- Clark, I. 2009. "Owners and managers: disconnecting managerial capitalism? Understanding the private-equity business model," *Work, Employment and Society*, 23: 775-786.
+- Crotty, J. 1990. "Owner-manager conflict and financial theory of investment stability: a critical assessment of Keynes, Tobin, and Minsky," *Journal of Post Keynesian Economics*, 12(4): 519-542.
 - Crotty, J. 2008. "Structural causes of the global financial crisis: a critical assessment of the 'New Financial Architecture'," Political Economy Research Institute, Working Paper 180.
-- Crotty, J. 2009. "Profound structural flaws in the US financial system that helped cause the financial crisis," *Economic and Political Weekly*, XLIV(13): 127–135.
+- Crotty, J. 2009. "Profound structural flaws in the US financial system that helped cause the financial crisis," *Economic and Political Weekly*, XLIV(13): 127-135.
 - Crotty, J. and G. Epstein. 2008. "Proposals for effectively regulating the US financial system to avoid yet another meltdown," Political Economy Research Institute, Working Paper 181.
-- Crotty, J. and G. Epstein. 2009. "Regulating the US financial system to avoid another meltdown," *Economic and Political Weekly*, XLIV(13): 87–93.
-- Dore, R. 2008. "Financialisation of the global economy," *Industrial and Corporate Change*, 16(6): 1097–1112.
-- Dos Santos, P. 2009. "On the content of banking in contemporary capitalism," *Historical Materialism*, 17(2): 180–213.
+- Crotty, J. and G. Epstein. 2009. "Regulating the US financial system to avoid another meltdown," *Economic and Political Weekly*, XLIV(13): 87-93.
+- Dore, R. 2008. "Financialisation of the global economy," *Industrial and Corporate Change*, 16(6): 1097-1112.
+- Dos Santos, P. 2009. "On the content of banking in contemporary capitalism," *Historical Materialism*, 17(2): 180-213.
 - Dumenil, G. and D. Levy. 2004. *Capital Resurgent: Roots of the Neoliberal Revolution*, Cambridge, MA: Harvard University Press.
-- Dumenil, G. and D. Levy. 2005. "The profit rate: where and how much did it fall? Did it recover? (USA 1948–1997)," CEPREMAP-ENS, www.jourdan.ens.fr/levy/dle2004y. pdf.
-- Dymski, G. 2009. "Racial exclusion and the political economy of the subprime crisis," *Historical Materialism*, 17(2): 149–179.
+- Dumenil, G. and D. Levy. 2005. "The profit rate: where and how much did it fall? Did it recover? (USA 1948-1997)," CEPREMAP-ENS, www.jourdan.ens.fr/levy/dle2004y. pdf.
+- Dymski, G. 2009. "Racial exclusion and the political economy of the subprime crisis," *Historical Materialism*, 17(2): 149-179.
 - Epstein, J. (ed.) 2005. *Financialization and the World Economy*, Northampton, MA: Edward Elgar.
-- Evans, T. 2009. "The 2002–7 of US economic expansion and limits of finance-led capitalism," *Studies in Political Economy*, 83: 33–59.
-- Gowan, P. 2009. "Crisis in the Heartland," *New Left Review*, 55: 5–29.
+- Evans, T. 2009. "The 2002-7 of US economic expansion and limits of finance-led capitalism," *Studies in Political Economy*, 83: 33-59.
+- Gowan, P. 2009. "Crisis in the Heartland," *New Left Review*, 55: 5-29.
 
-- Grahl, J. and P. Teague. 2000. "The *Régulation* School, the employment relation and financialization," *Economy and Society*, 29(1): 160–178.
+- Grahl, J. and P. Teague. 2000. "The *Régulation* School, the employment relation and financialization," *Economy and Society*, 29(1): 160-178.
 - Glyn, A. 2006. *Capitalism Unleashed*, Oxford: Oxford University Press.
 - Harman, C. 2009. *Zombie Capitalism*, London: Bookmarks.
 - Harman, C. 2010. "Not all Marxism is dogmatism: a reply to Michel Husson," *International Socialism Journal*, 125, www.isj.org.uk/index.php4?id=613&issue=125.
@@ -1611,37 +2518,37 @@ Bellamy Foster, J. 2007. "The financialization of capitalism," *Monthly Review*,
 - Hilferding, R. 1981[1910]. *Finance Capital*, London: Routledge & Kegan Paul.
 - Itoh, M. and C. Lapavitsas. 1999. *Political Economy of Money and Finance*, London: Macmillan.
 - Keynes, J. M. 1973[1936]. *The General Theory of Employment, Interest and Money*, London: Macmillan/Palgrave.
-- Krippner, G. 2005. "The financialization of the American economy," *Socio-Economic Review*, 3: 173–208.
+- Krippner, G. 2005. "The financialization of the American economy," *Socio-Economic Review*, 3: 173-208.
 - Langley, P. 2008. *The Everyday Life of Global Finance*, Oxford: Oxford University Press.
-- Lapavitsas, C. 1997. "Two Approaches to the concept of interest-bearing capital," *International Journal of Political Economy*, 27(1), Spring: 85–106.
+- Lapavitsas, C. 1997. "Two Approaches to the concept of interest-bearing capital," *International Journal of Political Economy*, 27(1), Spring: 85-106.
 - Lapavitsas, C. 2003. *Social Foundations of Markets, Money and Credit*, London: Routledge.
-- Lapavitsas, C. 2009a. "Financialisation embroils developing countries," *Papeles de Europa*, Special issue on financialisation, 19: 108–139.
-- Lapavitsas, C. 2009b. "Financialised capitalism: crisis and financial expropriation," *Historical Materialism*, 17(2): 114–148.
-- Lapavitsas, C. and P. Dos Santos. 2008. "Globalization and contemporary banking: on the impact of new technology," *Contributions to Political Economy*, 27: 31–56.
-- Lapavitsas, C. 2011. "Theorizing financialisation," *Work, Employment and Society*, 25(4): 611–626.
-- Lazonick, W. and M. O'Sullivan. 2000. "Maximizing shareholder value: a new ideology for corporate governance," *Economy and Society*, 29(1): 13–35.
+- Lapavitsas, C. 2009a. "Financialisation embroils developing countries," *Papeles de Europa*, Special issue on financialisation, 19: 108-139.
+- Lapavitsas, C. 2009b. "Financialised capitalism: crisis and financial expropriation," *Historical Materialism*, 17(2): 114-148.
+- Lapavitsas, C. and P. Dos Santos. 2008. "Globalization and contemporary banking: on the impact of new technology," *Contributions to Political Economy*, 27: 31-56.
+- Lapavitsas, C. 2011. "Theorizing financialisation," *Work, Employment and Society*, 25(4): 611-626.
+- Lazonick, W. and M. O'Sullivan. 2000. "Maximizing shareholder value: a new ideology for corporate governance," *Economy and Society*, 29(1): 13-35.
 - Lenin, V. 1964 [1916]. "Imperialism, the Highest Stage of Capitalism," in *Collected Works*, Vol. 22, Moscow: Progress.
-- Leyshon, A. and N. Thrift. 2009. "The capitalization of almost everything: the future of finance and capitalism," *Theory Culture Society*, 24: 97–115.
+- Leyshon, A. and N. Thrift. 2009. "The capitalization of almost everything: the future of finance and capitalism," *Theory Culture Society*, 24: 97-115.
 - Magdoff, H. and P. Sweezy. 1987. *Stagnation and the Financial Explosion*, New York: Monthly Review Press.
 - Marx, K. 1981 [1894]. *Capital*, Vol. III, London: Penguin/NLR.
 - Minsky, H. 1996. "Uncertainty and the institutional structure of capitalist economies," Working Paper 155, Levy Economics Institute of Bard College.
 - Minsky, H. and C. Whalen. 1996. "Economic insecurity and the institutional prerequisites for successful capitalism," Working Paper 165, Levy Economics Institute of Bard College.
-- Morera, C. and J. A. Rojas. 2009. "The globalisation of financial capital, 1997–2008," RMF Discussion Paper 6, www.soas.ac.uk/rmf.
-- Orhangazi, Ozgür. 2008. "Financialization and capital accumulation in the non-financial corporate sector: a theoretical and empirical investigation of the US economy, 1973–2004," *Cambridge Journal of Economics*, 32: 863–886.
+- Morera, C. and J. A. Rojas. 2009. "The globalisation of financial capital, 1997-2008," RMF Discussion Paper 6, www.soas.ac.uk/rmf.
+- Orhangazi, Ozgür. 2008. "Financialization and capital accumulation in the non-financial corporate sector: a theoretical and empirical investigation of the US economy, 1973-2004," *Cambridge Journal of Economics*, 32: 863-886.
 - Painceira, J. P. 2009. "Developing countries in the era of financialisation: from deficit accumulation to reserve accumulation," RMF Discussion Papers No. 4, February.
 
 ### 74 *C. Lapavitsas*
 
-- Panitch, L. and S. Gindin. 2009. "The current crisis: a socialist perspective," *Studies in Political Economy*, 83: 7–31.
+- Panitch, L. and S. Gindin. 2009. "The current crisis: a socialist perspective," *Studies in Political Economy*, 83: 7-31.
 - Pollin, R. 2004. "Remembering Paul Sweezy," *Counterpunch*, March 6/7, www.counterpunch.org.
-- Pollin, R. 2007. "The resurrection of the rentier," *New Left Review*, 46, July–August: 140–153.
-- Pryke, M. and P. Du Gay. 2007. "Take an issue: cultural economy and finance," *Economy and Society*, (36)3: 339–354.
+- Pollin, R. 2007. "The resurrection of the rentier," *New Left Review*, 46, July-August: 140-153.
+- Pryke, M. and P. Du Gay. 2007. "Take an issue: cultural economy and finance," *Economy and Society*, (36)3: 339-354.
 - Savage, M. and K. Williams (eds). 2008. *Remembering Elites*, London: John Wiley.
-- Stockhammer, E. 2004. "Financialization and the slowdown of accumulation," *Cambridge Journal of Economics*, 28: 719–741.
+- Stockhammer, E. 2004. "Financialization and the slowdown of accumulation," *Cambridge Journal of Economics*, 28: 719-741.
 - Sweezy, P. 1942. *The Theory of Capitalist Development*, New York and London: Monthly Review.
 - Sweezy, P. 1997. "More (or less) on globalization," *Monthly Review*, 49(4), www.monthlyreview.org.
-- Thompson, P. 2003. "Disconnected capitalism: or why employers can't keep their side of the bargain," *Work, Employment and Society*, 17: 359–378.
-- Wade, R. 2008. "Financial regime change," *New Left Review*, 53: 5–21.
+- Thompson, P. 2003. "Disconnected capitalism: or why employers can't keep their side of the bargain," *Work, Employment and Society*, 17: 359-378.
+- Wade, R. 2008. "Financial regime change," *New Left Review*, 53: 5-21.
 
 ## **4 The global financial crisis as a world great depression**
 
@@ -1655,7 +2562,7 @@ The current global financial crisis constitutes a great depression that is ragin
 
 Since the 1990s, the world economy has been experiencing the phenomena of surplus money and surplus capital. What has emerged from these twin phenomena is a very conspicuous case of the tail wagging the dog: that is, the financial economy (the tail) is seen to be wagging the real economy (the dog).
 
-Some thought has to be given at this point to the meaning of "surplus." For our purposes, let us adopt the following definitions. First, "surplus funds" refers to funds for which new fields of investment are difficult to find. By implication then, surplus funds are funds for which investment opportunities that would yield a certain expected profit rate cannot be found (Suzuki 2008: 5). On the other hand, "surplus money capital" is generated when the accumulation of money capital proceeds on a global market scale at a pace that exceeds the accumulation of real capital, such that money capital cannot readily be converted into real capital – that is, money capital that cannot participate in generating the expected profit rate (Koni 2008: 10). In other words, surplus funds and surplus money capital are not directed toward productive investments because of the very low expected profit rate. Instead, in pursuit of financial gain, surplus funds and surplus money capital remain in the financial market (or, in certain cases, in the commodities market) where they roam about in the form of money capital. Of course, this does not imply that the companies themselves are being transformed into money capitalists. On this particular point, it should be understood that the lion's share of corporate profits are absorbed by the very high levels of executive remuneration, the buyback of the company's own shares, and merger and acquisition (M&A) activities.
+Some thought has to be given at this point to the meaning of "surplus." For our purposes, let us adopt the following definitions. First, "surplus funds" refers to funds for which new fields of investment are difficult to find. By implication then, surplus funds are funds for which investment opportunities that would yield a certain expected profit rate cannot be found (Suzuki 2008: 5). On the other hand, "surplus money capital" is generated when the accumulation of money capital proceeds on a global market scale at a pace that exceeds the accumulation of real capital, such that money capital cannot readily be converted into real capital - that is, money capital that cannot participate in generating the expected profit rate (Koni 2008: 10). In other words, surplus funds and surplus money capital are not directed toward productive investments because of the very low expected profit rate. Instead, in pursuit of financial gain, surplus funds and surplus money capital remain in the financial market (or, in certain cases, in the commodities market) where they roam about in the form of money capital. Of course, this does not imply that the companies themselves are being transformed into money capitalists. On this particular point, it should be understood that the lion's share of corporate profits are absorbed by the very high levels of executive remuneration, the buyback of the company's own shares, and merger and acquisition (M&A) activities.
 
 In discussing surplus funds and surplus capital, the following three facts should be pointed out:
 
@@ -1672,7 +2579,7 @@ Thus far, we have looked only at the side of nonfinancial corporations. However,
 
 To begin with, commercial banks have shifted the focus of their lending from the productive sphere to non-productive, personal, and financial spheres. The latter group includes lending to LBOs (a form of lending that does not lead to an increase in investment or production from the perspective of the national economy), hedge funds, and households. As commercial banks continue to shift their focus, their primary source of revenue has also begun to shift from earnings on interest margins to earnings on fee-based business, a part of which originates in the securitization of loans to households and LBOs. Looking at this situation from a different vantage point, one can say that commercial banks have found that they have no alternative but to turn to these types of activities to fill in as their primary revenue source. This must be seen as the collapse of the existing business model, which is based on interest margins derived from lending to productive corporations, and the transition to new models.
 
-We turn next to investment banks. When we exclude revenues derived from proprietary trading, the revenue source of investment banks can be seen to be shifting from fees earned on the underwriting of stocks and corporate bonds to fees earned on M&A advisory services, the securitization of housing loans, and the management of surplus money and surplus money capital held by investors. One of the reasons for this shift can be found in the enactment of the Gramm–Leach–Bliley Act of 1999, which abolished Section 20 of the Glass–Steagall Act of 1933 (that banned banks from entering into corporate affiliations with companies principally engaged in securities underwriting). The abolition of Section 20 effectively opened the way for bank holding companies and national banks to enter the securities business through the formation of sister companies and subsidiaries. (This, however, does not mean that the Gramm–Leach–Bliley Act allowed investment banks to accept deposits.) The crucial point under the new legislation was that investment banks were left with no other way than the above-mentioned activities to earn substantial revenues. With competition from commercial banks, where else could the investment banks turn for revenue? This change must also be seen as a transition to new business models following the collapse of the traditional business model that was based on fees earned on the underwriting of stocks and corporate bonds.
+We turn next to investment banks. When we exclude revenues derived from proprietary trading, the revenue source of investment banks can be seen to be shifting from fees earned on the underwriting of stocks and corporate bonds to fees earned on M&A advisory services, the securitization of housing loans, and the management of surplus money and surplus money capital held by investors. One of the reasons for this shift can be found in the enactment of the Gramm-Leach-Bliley Act of 1999, which abolished Section 20 of the Glass-Steagall Act of 1933 (that banned banks from entering into corporate affiliations with companies principally engaged in securities underwriting). The abolition of Section 20 effectively opened the way for bank holding companies and national banks to enter the securities business through the formation of sister companies and subsidiaries. (This, however, does not mean that the Gramm-Leach-Bliley Act allowed investment banks to accept deposits.) The crucial point under the new legislation was that investment banks were left with no other way than the above-mentioned activities to earn substantial revenues. With competition from commercial banks, where else could the investment banks turn for revenue? This change must also be seen as a transition to new business models following the collapse of the traditional business model that was based on fees earned on the underwriting of stocks and corporate bonds.
 
 In a well known passage, Lenin (1934: 44) states: "The concentration of production, the monopolies arising therefrom, the merging or concrescence of banks with industry: this is the history of the rise of finance capital and the content of this concept." Furthermore, Hilferding (1981: 225) presents the following argument*.*
 
@@ -1731,13 +2638,13 @@ Effective demand consists of consumption demand and investment demand. The size 
 
 As for the size of investment demand, this is determined by the marginal efficiency of capital (approximately equal to the rate of prospective profit) and the rate of interest. Regarding the former, Keynes (ibid.) argues that the marginal efficiency of capital was significantly lower during the twentieth century as compared to the nineteenth century. To explain the nineteenth century's higher level, he cites such reasons as "the growth of population and of invention, the openingup of new lands, the state of confidence and the frequency of war over the average of (say) each decade." Next, increased investment in any given type of capital asset will tend to lower the marginal efficiency of that type of capital asset. In the short term, due to the law of diminishing returns, marginal efficiency declines as supply prices rise. In the long term, marginal efficiency declines as the prospective yield falls due to the increase in that type of capital asset and the intensification of competition. Thus, insofar as the marginal efficiency of capital is determined by economic datum (the state of confidence of entrepreneurs, the conditions of competition) and various non-economic factors (population growth, the law of diminishing returns, etc.), marginal efficiency of capital can be generally treated as a given.
 
-Turning next to the rate of interest, this variable is determined by the quantity of money and the level of liquidity preference (the propensity of people to hold savings in the form of money, i.e., liquidity, not in the form of debts). In an economy that is under the gold standard, it is also basically possible to treat the quantity of money as a given. Thus, what remains at the end is the level of liquidity preference. However, in reality the level of liquidity preference generally remains higher than the marginal efficiency of capital. This happens because the special characteristics of money (gold) – elasticities of production and substitution are nearly zero, and carrying cost is low – combine with the love of money on the part of the possessors of assets (as differentiated from entrepreneurs) and their desire to hold assets in money form. ("John Bull can stand many things, but he cannot stand 2 per cent.")
+Turning next to the rate of interest, this variable is determined by the quantity of money and the level of liquidity preference (the propensity of people to hold savings in the form of money, i.e., liquidity, not in the form of debts). In an economy that is under the gold standard, it is also basically possible to treat the quantity of money as a given. Thus, what remains at the end is the level of liquidity preference. However, in reality the level of liquidity preference generally remains higher than the marginal efficiency of capital. This happens because the special characteristics of money (gold) - elasticities of production and substitution are nearly zero, and carrying cost is low - combine with the love of money on the part of the possessors of assets (as differentiated from entrepreneurs) and their desire to hold assets in money form. ("John Bull can stand many things, but he cannot stand 2 per cent.")
 
 Therefore, the ultimate reason for involuntary unemployment can be found in the combination of the special characteristics of money and the asset possessors' love of money and their desire to hold assets in money form. Accordingly, the direct path to remedying involuntary unemployment lies in abolishing the gold standard and transitioning to a managed currency system, which will lead to an increase in the quantity of money (the quantity of inconvertible paper money) and thus to a decline in the rate of interest. This conclusion of the *General Theory* can be easily and directly identified in the words of Keynes himself.
 
-Regarding the ultimate cause of unemployment, Keynes (ibid.: 235) states: "Unemployment develops, that is to say, because people want the moon; — men cannot be employed when the object of desire (*i.e.,* money) is something which cannot be produced and the demand for which cannot be readily choked off." Next, regarding the remedy for unemployment and depression, Keynes (ibid.: 235, 234) writes:
+Regarding the ultimate cause of unemployment, Keynes (ibid.: 235) states: "Unemployment develops, that is to say, because people want the moon; -- men cannot be employed when the object of desire (*i.e.,* money) is something which cannot be produced and the demand for which cannot be readily choked off." Next, regarding the remedy for unemployment and depression, Keynes (ibid.: 235, 234) writes:
 
-There is no remedy but to persuade the public that green cheese is practically the same thing and to have a green cheese factory (*i.e.,* a central bank) under public control. [...] The only relief – apart from changes in the marginal efficiency of capital – can come (so long as the propensity towards liquidity is unchanged) from an increase in the quantity of money.
+There is no remedy but to persuade the public that green cheese is practically the same thing and to have a green cheese factory (*i.e.,* a central bank) under public control. [...] The only relief - apart from changes in the marginal efficiency of capital - can come (so long as the propensity towards liquidity is unchanged) from an increase in the quantity of money.
 
 However, what happens when the marginal efficiency of capital declines very precipitously? Under such a condition, it suddenly becomes possible to imagine a situation in which it would prove very difficult to maintain an appropriate quantity of investment by merely manipulating the rate of interest. This brings us to Keynes's trump card, which is none other than the state.
 
@@ -1771,7 +2678,7 @@ What conclusion can be drawn concerning the future course of the modern capitali
 
 The current global financial crisis started with the collapse of the housing bubble in the United States. It is well known that as asset prices continued to rise, a sharp clash in thinking emerged between the FRB (Federal Reserve Board) view and the BIS (Bank for International Settlements) view on how central bank monetary policies should respond to the situation.
 
-The FRB view is generally described as comprising the following (Shirakawa 2008: 400–401):
+The FRB view is generally described as comprising the following (Shirakawa 2008: 400-401):
 
 - 1 Monetary policies should target price stability, not asset-price stability.
 - 2 Whether or not rising asset prices represent a bubble can only be determined after the fact. Asset prices reflect the knowledge and information available to large numbers of market participants, and it is unlikely that the central bank is capable of making better judgments than the market participants. Even assuming that the central bank does have such a capability, short-term interest rates would have to rise very dramatically in order to squelch the bubble, and there is no way to know in advance how far interest rates would have to be raised to achieve this purpose. Therefore, it is inappropriate to respond to rising asset prices by raising short-term interest rates.
@@ -1830,7 +2737,7 @@ Mizuno, K. (2007) *Hitobito wa naze gurobaru keizai no honshitsu o miayamaru nok
 
 ### **Introduction**
 
-The most recent world economic crisis started in Europe in the summer of 2007, and the U. S. economy plunged into a recession at the end of 2007. The latter in particular turned into a state of serious financial chaos following the bankruptcy of Lehman Brothers on September 15, 2008. The world's securities markets were thrown into very serious confusion for the first time since the stock market crash of October 1929. The financial crisis had a serious effect on real sectors worldwide, and the level of world trade was dramatically reduced in the first half of 2009. The world economy – and especially the economies of the United States and Europe – has not completely recovered from the crisis or undergone an altogether strong recovery process.
+The most recent world economic crisis started in Europe in the summer of 2007, and the U. S. economy plunged into a recession at the end of 2007. The latter in particular turned into a state of serious financial chaos following the bankruptcy of Lehman Brothers on September 15, 2008. The world's securities markets were thrown into very serious confusion for the first time since the stock market crash of October 1929. The financial crisis had a serious effect on real sectors worldwide, and the level of world trade was dramatically reduced in the first half of 2009. The world economy - and especially the economies of the United States and Europe - has not completely recovered from the crisis or undergone an altogether strong recovery process.
 
 In this chapter, we will present the theoretical viewpoints needed to understand the financial crisis, as extolled by Karl Marx. Because Marx's theory was created in the middle of the nineteenth century, most scholars claim it is impossible to apply it to any financial crisis in the twenty-first century. However, we are adamant that the basic viewpoints concerning the contemporary financial crisis should be constructed by way of Marx's theory; we will show how his viewpoints are valuable in understanding contemporary financial crisis by studying the three historical stages of economic crisis in Europe and the United States. First, we will highlight some crucial viewpoints in Volume 3 of Marx's *Capital*; these viewpoints will help us understand not only the basic characteristics of a financial crisis in the mid-nineteenth century, but also those of one in the twentyfirst century. Second, we will focus specifically on the economic situation in the period following World War II, when financial crisis was defused through the application of Keynesian policy. Finally, we will focus on financial crisis in the period of neo-liberalism after the collapse of the Keynesian regime. We will also apply Marx's theory to the analysis of financial crisis in the twenty-first century.
 
@@ -1838,7 +2745,7 @@ In this chapter, we will present the theoretical viewpoints needed to understand
 
 ### *The role of credit in causing an economic crisis*
 
-Volume 3 of *Capital* is not a work that pertains to economic crisis, nor does it fully outline the viewpoints by which one can evaluate a financial crisis. However, it is possible to highlight some crucial phrases that assist in understanding financial crisis, as found in Chapter 27, "The Role of Credit in Capitalist Production." In that chapter, Marx makes general observations about the credit system, and pays particular attention to the three ways in which credit leads to a reduction in circulation costs. First, when credit is in generally heavy use, in a large proportion of transactions, no currency is used. Second, the circulation of the circulating medium is accelerated. Third, gold money is replaced by paper (Marx 1981: 566–567). Therefore, the capitalistic credit system – based on commercial credit and developed into bank credit – economizes money, accelerates circulation speed, and creates a system in which there is no need for gold money; instead, money bears only the *concept* of value. The provision of credit allows the acts of buying and selling to take place over a longer time-frame, and it thus serves as a basis for speculation (Marx 1981: 567).
+Volume 3 of *Capital* is not a work that pertains to economic crisis, nor does it fully outline the viewpoints by which one can evaluate a financial crisis. However, it is possible to highlight some crucial phrases that assist in understanding financial crisis, as found in Chapter 27, "The Role of Credit in Capitalist Production." In that chapter, Marx makes general observations about the credit system, and pays particular attention to the three ways in which credit leads to a reduction in circulation costs. First, when credit is in generally heavy use, in a large proportion of transactions, no currency is used. Second, the circulation of the circulating medium is accelerated. Third, gold money is replaced by paper (Marx 1981: 566-567). Therefore, the capitalistic credit system - based on commercial credit and developed into bank credit - economizes money, accelerates circulation speed, and creates a system in which there is no need for gold money; instead, money bears only the *concept* of value. The provision of credit allows the acts of buying and selling to take place over a longer time-frame, and it thus serves as a basis for speculation (Marx 1981: 567).
 
 ### *Joint-stock system and speculation*
 
@@ -1850,7 +2757,7 @@ The credit system hence accelerates the material development of the productive f
 
 ## (Marx 1981: 572)
 
-How does the credit system – especially the joint-stock system – drive the capitalists to partake in excessively speculative behavior? To answer this question, we must first research the formation of fictitious capital, as capital created by the joint-stock system. Marx argues that
+How does the credit system - especially the joint-stock system - drive the capitalists to partake in excessively speculative behavior? To answer this question, we must first research the formation of fictitious capital, as capital created by the joint-stock system. Marx argues that
 
 The formation of fictitious capital is known as capitalization. Any regular periodic income can be capitalized by reckoning it up, on the basis of the average rate of interest, as the sum that a capital lent out at this interest rate would yield.
 
@@ -1872,7 +2779,7 @@ The rapid development of the joint-stock system accelerates the accumulation of 
 
 As material wealth increases, the class of money capitalists grows. On the other hand there is an increase in the number and wealth of the retired capitalists, the rentiers; and secondly the credit system must be further developed, which means an increase in the number of bankers, moneylenders, financiers, etc. With the expansion of available money capital, the volume of interest-bearing paper, government paper, shares, etc. also expands, as explained already. At the same time, however, so does the demand for available money capital, since the jobbers who speculate in this paper play a major role in the money market.
 
-## (Marx 1981: 642–643)
+## (Marx 1981: 642-643)
 
 Commercial banks respond to the jobber's demand for available money capital; therefore "With the development of the credit system, large and concentrated money markets are created as in London, which are at the same time the major seats of dealings in these securities;" eventually "The bankers put the public's money capital at the disposal of this gang of dealers on a massive scale, and so the brood of gamblers multiplies" (Marx 1981: 644).
 
@@ -1880,9 +2787,9 @@ The development of the British capitalist system, in institutional terms, create
 
 However, financiers capitalized on high interest rates the most in the money market. The high interest rates created by the 1844 Banking Act constituted, in an economic crisis, great opportunities for them to be great financiers in London by making considerable profits and centralizing capital. On this very issue, Marx exclaims:
 
-Talk about centralization! The credit system, which has its focal point in the allegedly national banks and the big money-lenders and usurers that surround them, is one enormous centralization and gives this class of parasites a fabulous power not only to decimate the industrial capitalists periodically but also to interfere in actual production in the most dangerous manner – and this crew know nothing of production and have nothing at all to do with it. The Acts of 1844 and 1845 are proof of the growing power of these bandits, added to whom are the financiers and stock-jobbers.
+Talk about centralization! The credit system, which has its focal point in the allegedly national banks and the big money-lenders and usurers that surround them, is one enormous centralization and gives this class of parasites a fabulous power not only to decimate the industrial capitalists periodically but also to interfere in actual production in the most dangerous manner - and this crew know nothing of production and have nothing at all to do with it. The Acts of 1844 and 1845 are proof of the growing power of these bandits, added to whom are the financiers and stock-jobbers.
 
-## (Marx 1981: 648–649)
+## (Marx 1981: 648-649)
 
 ### *The gold standard and the world economic crisis*
 
@@ -1890,7 +2797,7 @@ The worldwide economic crisis broke out because so many countries had overextend
 
 As soon as the general crisis has burned itself out, and we again have a state of equilibrium, the gold and silver (leaving aside the influx of fresh precious metal from the producing countries) is again distributed in the proportions in which it previously existed as hoards in the various countries.
 
-## (Marx 1981: 703–704)
+## (Marx 1981: 703-704)
 
 This chain of events shows us that a considerable amount of wealth must be sacrificed in the name of surmounting an economic crisis and retaining enough precious metals for the business world. It is inevitable in a capitalist society that the credit system will turn into a monetary system, and that "The utmost sacrifice of real wealth is necessary at the critical moment in order to maintain the metal basis" (Marx 1981: 707).
 
@@ -1898,9 +2805,9 @@ This chain of events shows us that a considerable amount of wealth must be sacri
 
 ### *Why did the financial crisis disappear from the capitalist world?*
 
-As Marx discusses in *Capital*, financial crises recurred cyclically in the capitalist world in the nineteenth century. However, they were defused and averted after World War II, in fact, the likes of the financial crisis discussed in the first section did not return until 1971–73. Why did they disappear from the capitalist world?
+As Marx discusses in *Capital*, financial crises recurred cyclically in the capitalist world in the nineteenth century. However, they were defused and averted after World War II, in fact, the likes of the financial crisis discussed in the first section did not return until 1971-73. Why did they disappear from the capitalist world?
 
-First, let us point out that the power of "the great financiers and stockjobbers" – to which Marx alludes in Volume 3 of *Capital* – was successfully contained after World War II. In the United States, the power of stockholders was lost to big business, the power of bankers was also weakened, and the power of industrial management increased. Investment bankers were needed to provide external financing to large corporations; however, those large corporations gradually turned to internal financing, because they were able to earn considerable monopoly profits after World War II. Therefore, large corporations in the United States were independent of bankers and powerful stockholders and their business policies related to their own interests. In this way, the behavior of giant corporations was freed from the interests of financing institutions.1
+First, let us point out that the power of "the great financiers and stockjobbers" - to which Marx alludes in Volume 3 of *Capital* - was successfully contained after World War II. In the United States, the power of stockholders was lost to big business, the power of bankers was also weakened, and the power of industrial management increased. Investment bankers were needed to provide external financing to large corporations; however, those large corporations gradually turned to internal financing, because they were able to earn considerable monopoly profits after World War II. Therefore, large corporations in the United States were independent of bankers and powerful stockholders and their business policies related to their own interests. In this way, the behavior of giant corporations was freed from the interests of financing institutions.1
 
 Second, we would like to point out that the power of international speculative capital was successfully contained after World War II. The international trade and monetary system just after World War II was created along with Keynesian policy. According to this policy, if all nations were able, through the development of fiscal and monetary policies, to independently encourage investment and consumption and thus achieve full-employment, world trade would expand and reduce worldwide unemployment with a concomitant increase in gross domestic product (GDP) levels worldwide. Keynes claims that if nations can learn to provide themselves with full employment by their domestic policy (and, we must add, if they can also attain equilibrium in the trend of their population), there need be no important economic forces calculated to set the interest of one country against that of its neighbors. There would still be room for the international division of labor and for international lending in appropriate conditions. But there would no longer be a pressing motive why one country need force its wares on another or repulse the offerings of its neighbor, not because this was necessary to enable it to pay for what it wished to purchase, but with the express object of upsetting the equilibrium of payments so as to develop a balance of trade in its own favor.
 
@@ -1920,7 +2827,7 @@ Speculators may do no harm as bubbles on a steady stream of enterprise. But the 
 
 ### **Financial crisis in the age of neo-liberalism: why do financial crises break out so frequently?**
 
-We have experienced financial crises very frequently: the U. S. crisis involving savings and loan associations, in 1991; the Asian Currency Crisis, in 1997; the Russian Rouble Crisis, in 1998; and the serious financial crisis of Japan in 1997–78. In addition, the U. S. stock market collapsed in June 2002 owing to unscrupulous account-rigging by large corporations in the United States. Most recently, of course, we have had an international financial crisis, which broke out in the summer of 2007 in Europe, and exploded into U. S. financial institutions and businesses in 2008–09. Each time a crisis has occurred, governments create policy to address it, and the economy recovers from these crises. However, as the saying goes, *Danger past, God forgotten*, another financial crisis is soon upon us. Why have we met with financial crises so frequently?
+We have experienced financial crises very frequently: the U. S. crisis involving savings and loan associations, in 1991; the Asian Currency Crisis, in 1997; the Russian Rouble Crisis, in 1998; and the serious financial crisis of Japan in 1997-78. In addition, the U. S. stock market collapsed in June 2002 owing to unscrupulous account-rigging by large corporations in the United States. Most recently, of course, we have had an international financial crisis, which broke out in the summer of 2007 in Europe, and exploded into U. S. financial institutions and businesses in 2008-09. Each time a crisis has occurred, governments create policy to address it, and the economy recovers from these crises. However, as the saying goes, *Danger past, God forgotten*, another financial crisis is soon upon us. Why have we met with financial crises so frequently?
 
 ### *Domestic factors in the financial crisis*
 
@@ -1928,19 +2835,19 @@ First, we would like to point out that "great financiers and stock jobbers" have
 
 ### *Regulations in the banking business*
 
-As Marx points out, Sir Robert Peel's Bank Acts of 1844–45 served the great financiers in the latter half of the nineteenth century in England. More recent financial crises, however, have been defused and averted on account of the successful containment of financiers' interests after World War II. It is therefore necessary to discuss how banking regulations established in the 1930s in the United States became more relaxed between the 1980s and the present. Historically, American banking regulations were carried out in the 1930s under the Roosevelt Administration. Henry Morgenthau, Jr., Secretary of Finance within the Roosevelt Administration, tried to construct a Keynesian financial system based on the Ministry of Finance. One of the objectives of the New Deal policy was to change the role of finance capital from "Master of the Economy" to "Servant for the Economy." This policy was carried out with the passage of the Glass-Steagall Act of 1933 and the Banking Act of 1935: the former separated investment banks from commercial banking institutions, and the latter strengthened the function of the Federal Reserve System and the relationship between the Ministry of Finance and the Federal Reserve Bank. The Roosevelt Administration brought U. S. financial institutions under the auspices of strict rules with regard to interest rates and their sphere of activity (Gardner 1969: 76).
+As Marx points out, Sir Robert Peel's Bank Acts of 1844-45 served the great financiers in the latter half of the nineteenth century in England. More recent financial crises, however, have been defused and averted on account of the successful containment of financiers' interests after World War II. It is therefore necessary to discuss how banking regulations established in the 1930s in the United States became more relaxed between the 1980s and the present. Historically, American banking regulations were carried out in the 1930s under the Roosevelt Administration. Henry Morgenthau, Jr., Secretary of Finance within the Roosevelt Administration, tried to construct a Keynesian financial system based on the Ministry of Finance. One of the objectives of the New Deal policy was to change the role of finance capital from "Master of the Economy" to "Servant for the Economy." This policy was carried out with the passage of the Glass-Steagall Act of 1933 and the Banking Act of 1935: the former separated investment banks from commercial banking institutions, and the latter strengthened the function of the Federal Reserve System and the relationship between the Ministry of Finance and the Federal Reserve Bank. The Roosevelt Administration brought U. S. financial institutions under the auspices of strict rules with regard to interest rates and their sphere of activity (Gardner 1969: 76).
 
 ### *Deregulations in the banking business*
 
-However, these aforementioned restrictions were dramatically undone in the 1980s. The Depositary Institution Deregulation and Monetary Control Act of 1980 abolished strict rules relating to interest rates, permitted the issuance of checks on the savings accounts, and extended the business sphere of savings institutions. The Garn–St Germain Depositary Institutions Act of 1982 also extended the business sphere of savings and loan associations, facilitating what could later only be termed as "risky business." The collapse of U. S. savings and loan associations occurred in the late 1980s.
+However, these aforementioned restrictions were dramatically undone in the 1980s. The Depositary Institution Deregulation and Monetary Control Act of 1980 abolished strict rules relating to interest rates, permitted the issuance of checks on the savings accounts, and extended the business sphere of savings institutions. The Garn-St Germain Depositary Institutions Act of 1982 also extended the business sphere of savings and loan associations, facilitating what could later only be termed as "risky business." The collapse of U. S. savings and loan associations occurred in the late 1980s.
 
-The Federal Deposit Insurance Corporation Improvement Act of 1991 was enacted after the financial crisis of the late 1980s; this legislation underpinned the reconstruction of the FDIC. This financial crisis of the late 1980s led to the FDIC's bankruptcy, and considerable volumes of public funds were used to rescue it. According to this new rule of law, financial institutions whose ratio of net worth exceeds 10 percent are exceptionally permitted to undertake new business that resembles securities. The Financial Modernization Act – also known as the Gramm–Leach–Bliley Act – of 1999 finally completed the deregulation of the U. S. financial system; this law allows for the creation of financial holding companies that control the sphere of financial institutions. Securitization by U. S. financial institutions, particularly commercial banks, proceeded dramatically in the twenty-first century. When banks make a loan, they hold loan assets on their balance sheets until the term of lending has finished; however, securitization starts when they sell their loan assets to investors and earn fees from those sales.
+The Federal Deposit Insurance Corporation Improvement Act of 1991 was enacted after the financial crisis of the late 1980s; this legislation underpinned the reconstruction of the FDIC. This financial crisis of the late 1980s led to the FDIC's bankruptcy, and considerable volumes of public funds were used to rescue it. According to this new rule of law, financial institutions whose ratio of net worth exceeds 10 percent are exceptionally permitted to undertake new business that resembles securities. The Financial Modernization Act - also known as the Gramm-Leach-Bliley Act - of 1999 finally completed the deregulation of the U. S. financial system; this law allows for the creation of financial holding companies that control the sphere of financial institutions. Securitization by U. S. financial institutions, particularly commercial banks, proceeded dramatically in the twenty-first century. When banks make a loan, they hold loan assets on their balance sheets until the term of lending has finished; however, securitization starts when they sell their loan assets to investors and earn fees from those sales.
 
 ### *The securitization of banking assets*
 
-The securitization of banking loans has typically proceeded in the home-loan business, but we can see that almost all of the loans for cars, leases on computers, trucks, and the like have been securitized. In former times, U. S. commercial banks bolstered profit margins by lending; however, a large proportion of their profits are now fed by fees from securitization business; in 1999, for example, over 43 percent of the revenues earned by U. S. commercial banks came from non-interest fees. Non-interest fees are charged on the credit cards, mortgageservice, refinance, mutual fund, and the securitized banking loans. In addition, the securitization of consumer credits is rapidly expanding, and commercial banks have business linkage with securitized markets (Bassett and Zakrajsek 2000: 379–380).
+The securitization of banking loans has typically proceeded in the home-loan business, but we can see that almost all of the loans for cars, leases on computers, trucks, and the like have been securitized. In former times, U. S. commercial banks bolstered profit margins by lending; however, a large proportion of their profits are now fed by fees from securitization business; in 1999, for example, over 43 percent of the revenues earned by U. S. commercial banks came from non-interest fees. Non-interest fees are charged on the credit cards, mortgageservice, refinance, mutual fund, and the securitized banking loans. In addition, the securitization of consumer credits is rapidly expanding, and commercial banks have business linkage with securitized markets (Bassett and Zakrajsek 2000: 379-380).
 
-The economic crisis – whose roots can be traced to Europe in 2007, and which worsened in 2008–09 – is predicated on the securitization of the economy in both the United States and the world system, following the break-down of the Keynesian regime. The nexus of this crisis in 2007 was defaults on subprime loan. In the United States, a subprime loan is a home-loan made to the lowestincome and most credit-risky citizens. Weakening housing markets led to a dramatic reduction in the prices of houses, and subprime loan-owners could not pay back their lending institutions, because the repayment cost of the debt was rapidly rising. The number of home foreclosures rose and eventually reached an all-time high.
+The economic crisis - whose roots can be traced to Europe in 2007, and which worsened in 2008-09 - is predicated on the securitization of the economy in both the United States and the world system, following the break-down of the Keynesian regime. The nexus of this crisis in 2007 was defaults on subprime loan. In the United States, a subprime loan is a home-loan made to the lowestincome and most credit-risky citizens. Weakening housing markets led to a dramatic reduction in the prices of houses, and subprime loan-owners could not pay back their lending institutions, because the repayment cost of the debt was rapidly rising. The number of home foreclosures rose and eventually reached an all-time high.
 
 The most recent financial crisis spread worldwide because many financial institutions in Europe and Japan invested in the mortgage-backed-securities (MBS) that were based on subprime loans. The value of MBS decreased rapidly, and several financial institutions worldwide were plunged into grave economic circumstances as a result. In the times of Marx, the world economic crises mostly started in England; the roots of those crises could generally be traced back to excessive international trade (i.e., both imports and exports); few economic crises occurred because of excessive international investments. Today, however, excessive international investments are now found to be the cause of financial crises, and they thus have a very serious effect on the real economic world.
 
@@ -1948,7 +2855,7 @@ The most recent financial crisis spread worldwide because many financial institu
 
 ### *Formation of the worldwide financial hegemony*
 
-The contemporary financial crises spread worldwide because activity relating to international speculative capital has increased enormously, especially with the liberalization of international capital transactions. The Nixon Administration declared that the United State would cease to exchange the dollar for gold as of August 15, 1971, changing the fixed exchange system to a flexible one in 1973. The U. S. liberalization of international capital transactions led to the breakdown of the Bretton Woods System and started a period of neo-liberalism in the world economy. The U. S. role in the world economy has transformed from "bank of the world" into "investment bank of the world," and liberalization dramatically increased the volume of international capital transactions. Vladimir Ilyich Lenin wrote that in the age of imperialism "the export of capital as distinguished from the export of commodities acquires exceptional importance" (Lenin 1970: 86). By analogy, we could also say that the export of capital – as distinguished from the export of commodities – has acquired exceptional importance in the age of neo-liberalism.
+The contemporary financial crises spread worldwide because activity relating to international speculative capital has increased enormously, especially with the liberalization of international capital transactions. The Nixon Administration declared that the United State would cease to exchange the dollar for gold as of August 15, 1971, changing the fixed exchange system to a flexible one in 1973. The U. S. liberalization of international capital transactions led to the breakdown of the Bretton Woods System and started a period of neo-liberalism in the world economy. The U. S. role in the world economy has transformed from "bank of the world" into "investment bank of the world," and liberalization dramatically increased the volume of international capital transactions. Vladimir Ilyich Lenin wrote that in the age of imperialism "the export of capital as distinguished from the export of commodities acquires exceptional importance" (Lenin 1970: 86). By analogy, we could also say that the export of capital - as distinguished from the export of commodities - has acquired exceptional importance in the age of neo-liberalism.
 
 In the 1980s, the power of political economic hegemony in the United States was transferred from the *Keynesian coalition*, formed by large industrial corporations and organized labor, into the *world-wide financial hegemony*, formed by multinational corporations and banks. The United States started to become a giant super-power of economic hegemony, through the liberalization of international capital flow; it insisted that other, foreign countries take part in the liberalization of international capital transactions. As a result, many countries liberalized their international capital accounts in the latter half of the 1980s and into the 1990s.
 
@@ -1972,9 +2879,9 @@ For most of these persons are, in fact, largely concerned, not with making super
 
 "Thus" explains Keynes, "the professional investor is forced to concern himself with the anticipation of impending changes, in the news or in the atmosphere, of the kind by which experience shows that the mass psychology of the market is most influenced" (Keynes 1953: 155). In essence, professional investors try to anticipate the basis of conventional valuation a few months hence, rather than the prospective yield of an investment over a longer term comprising several years.
 
-Keynes writes that "As the organization of investment markets improves, the risk of the predominance of speculation does, however, increase" (Keynes 1953: 158). Today, as the internationally liberalized investment system continues to develop, speculative capital predominates in investment markets worldwide. The United States has been compelled to develop this system because the market price of its dollar must be maintained by investment funds entering U. S. securities markets. The United States exports enormous amounts of capital, but it also imports capital – much more than it exports, in fact. It is only for this reason that it has been able to maintain the dollar system since the 1980s.
+Keynes writes that "As the organization of investment markets improves, the risk of the predominance of speculation does, however, increase" (Keynes 1953: 158). Today, as the internationally liberalized investment system continues to develop, speculative capital predominates in investment markets worldwide. The United States has been compelled to develop this system because the market price of its dollar must be maintained by investment funds entering U. S. securities markets. The United States exports enormous amounts of capital, but it also imports capital - much more than it exports, in fact. It is only for this reason that it has been able to maintain the dollar system since the 1980s.
 
-### **The economic crisis of 2008–09**
+### **The economic crisis of 2008-09**
 
 ### *Fraudulent formation of fictitious capital: subprime mortgage loans*
 
@@ -1982,7 +2889,7 @@ As discussed in the first section, the formation of fictitious capital has playe
 
 Lehman Brothers announced its bankruptcy on September 15, 2008 and the U. S. plunged into a serious crisis with a breathtaking moment of economic freefall. Not only the U. S. economy but also that of the entire world became stagnant, because of the rapid fall in U. S. imports. The economic crisis in the U. S. bottomed out in July 2009 and has been gradually recovering even at the time of writing.
 
-Here, we will review the economic process that took place after the 2000–01 recession and led to the financial crisis of 2008. The U. S. economy entered a phase of economic recovery in mid-2003 due to tax reductions and monetary ease afforded by the Bush Administration. The Federal Reserve, which took on an easy monetary policy so as to get out of the 2000–01 recession, gradually changed and starting adhering to tighter policy. Since World War II, residential prices in the U. S. have continuously increased. However, the increases in housing prices gradually became more moderate, making it difficult for homeowners to take home equity loans or receive mortgage refinancing.
+Here, we will review the economic process that took place after the 2000-01 recession and led to the financial crisis of 2008. The U. S. economy entered a phase of economic recovery in mid-2003 due to tax reductions and monetary ease afforded by the Bush Administration. The Federal Reserve, which took on an easy monetary policy so as to get out of the 2000-01 recession, gradually changed and starting adhering to tighter policy. Since World War II, residential prices in the U. S. have continuously increased. However, the increases in housing prices gradually became more moderate, making it difficult for homeowners to take home equity loans or receive mortgage refinancing.
 
 With the leveling off of prime loans, major financial institutions tended to provide subprime loans to borrowers who had little or no history of income and a Financing Corporation credit score below a certain threshold, typically below 620. Financial institutions that provided such subprime loan mortgage sold them to Fannie Mae, Freddie Mac, and private financial institutions; these institutions in turn pooled mortgages and issued MBS. Baily *et al.* write that
 
@@ -1990,7 +2897,7 @@ In this fashion, Wall Street investors were providing the credit to finance home
 
 ## (Baily *et al*. 2010: 80)
 
-In comparison to commercial credit, banking credit, and the joint-stock system, the formation of fictitious capital through securitization in the United States has occurred on a much larger scale. Originators loan to homebuyers, sell their mortgages to buyers, and have a big incentive to extend credit, while mortgage buyers – who try to create new securities like MBS – issue and sell these new securities to investors worldwide. Fictitious capital through securitization is thus increased two-or three-fold by virtue of financial institutions' fraudulent practices.
+In comparison to commercial credit, banking credit, and the joint-stock system, the formation of fictitious capital through securitization in the United States has occurred on a much larger scale. Originators loan to homebuyers, sell their mortgages to buyers, and have a big incentive to extend credit, while mortgage buyers - who try to create new securities like MBS - issue and sell these new securities to investors worldwide. Fictitious capital through securitization is thus increased two-or three-fold by virtue of financial institutions' fraudulent practices.
 
 What are the limits of economic prosperity in relation to subprime mortgage loans? Eventually, the income of homebuyers must reach a limit; the amount of money that they should pay back on subprime loans will rise two or three years later in line with their contracts. If the housing price were rising, this payingback would be possible, because homeowners could sell their houses immediately and easily pay back their debt; however, this is impossible if housing prices are leveling off or dropping. The number of foreclosures was rising and values on the housing market started to decline by the end of 2006; by this time, subprime mortgages accounted for 20 percent of all mortgages, compared to only 6 percent in 2002 (Bardhan 2010: 18).
 
@@ -2008,11 +2915,11 @@ During the subprime loan crisis, the antithesis between securitized commodities 
 
 Today, the world financial system is not based on the gold standard, as it has been suspended in the United States since 1934. The Federal Reserve and the Administration implemented an aggressive financial rescue plan and bailed out financial institutions that had been plunged into problems due to a severe lack of money, due in turn to holding many worthless financial assets.
 
-The Federal Reserve aggressively used an interest-rate policy in 2007 because there were significant increases in the number of defaults and foreclosures, and a number of financial companies had started filing for bankruptcy. However, another policy was needed in 2008, because the Federal Reserve had cut the funds rate target and brought it to the level of 0 to 0.25 percent. The Federal Reserve started to undertake large-scale assets purchases – including the debt of Fannie Mae, Freddie Mac, and the Federal Home Loan Banks – to reduce longterm interest rates. On September 16, 2008, the Federal Reserve extended AIG an \$85 billion line of credit. This unconventional move by the Federal Reserve wrought an enormous expansion of the Federal Reserve's balance sheet. In the latter half of 2008, the assets of the Federal Reserve's balance sheet rose to over \$2,000 billion; and this number has continued to grow (Council of Economic Advisers 2010: 47–49).
+The Federal Reserve aggressively used an interest-rate policy in 2007 because there were significant increases in the number of defaults and foreclosures, and a number of financial companies had started filing for bankruptcy. However, another policy was needed in 2008, because the Federal Reserve had cut the funds rate target and brought it to the level of 0 to 0.25 percent. The Federal Reserve started to undertake large-scale assets purchases - including the debt of Fannie Mae, Freddie Mac, and the Federal Home Loan Banks - to reduce longterm interest rates. On September 16, 2008, the Federal Reserve extended AIG an \$85 billion line of credit. This unconventional move by the Federal Reserve wrought an enormous expansion of the Federal Reserve's balance sheet. In the latter half of 2008, the assets of the Federal Reserve's balance sheet rose to over \$2,000 billion; and this number has continued to grow (Council of Economic Advisers 2010: 47-49).
 
-The Emergency Economic Stabilization Act of 2008 was passed by Congress and signed by President Bush on 3 October; it provided up to \$700 billion for the Troubled Asset Relief Program (TARP) for the purchase of distressed assets and for capital injections into financial institutions. These funds provided policymakers with the critical resources needed to ensure financial stability. Eventually, these funds were used to restructure General Motors, which filed for bankruptcy on June 1, and Chrysler, which filed on April 30, 2009 (Council of Economic Advisers 2010: 49–51).
+The Emergency Economic Stabilization Act of 2008 was passed by Congress and signed by President Bush on 3 October; it provided up to \$700 billion for the Troubled Asset Relief Program (TARP) for the purchase of distressed assets and for capital injections into financial institutions. These funds provided policymakers with the critical resources needed to ensure financial stability. Eventually, these funds were used to restructure General Motors, which filed for bankruptcy on June 1, and Chrysler, which filed on April 30, 2009 (Council of Economic Advisers 2010: 49-51).
 
-Fiscal stimulus was a crucial component of the Obama Administration's tackling of the economic crisis of 2008–09. If there had not been effective policies, the downturn in the fall of 2008 and the winter of 2009 could have turned into a second Great Depression. During the Great Depression, the Hoover Administration had sought to establish a balanced budget during a deepening crisis, because a balanced budget was thought to be the keystone of the recovery (Kimmel 1959: 48). A balanced budget was sought in order to stabilize the dollar under the gold standard.
+Fiscal stimulus was a crucial component of the Obama Administration's tackling of the economic crisis of 2008-09. If there had not been effective policies, the downturn in the fall of 2008 and the winter of 2009 could have turned into a second Great Depression. During the Great Depression, the Hoover Administration had sought to establish a balanced budget during a deepening crisis, because a balanced budget was thought to be the keystone of the recovery (Kimmel 1959: 48). A balanced budget was sought in order to stabilize the dollar under the gold standard.
 
 However, President Obama signed the American Recovery and Reinvestment Act of 2009 (ARRA) on February 17, 2009, just 28 days after taking office. This Act was the largest countercyclical fiscal action taken in American history. The estimated cost of this Act was \$787 billion; it provided tax cuts and increases in government spending, together equivalent to roughly 2 percent of GDP in 2009 and 2.25 percent of GDP in 2010. The Council of Economic Advisers writes that
 
@@ -2026,7 +2933,7 @@ Economic circumstances are very different today when compared with those of the 
 
 First, we do not live in an economic society based on the international gold standard. It is clear that rampant international speculative activities were reduced in the age of the IMF's fixed exchange system. However, speculative capital moves around the world today, given that we are now in an age that features a flexible exchange system, and this sometimes creates financial crises. Therefore, change from a credit system to a monetary system happens during the occurrence of financial crisis, as discussed by Marx. The U. S. central bank, however, can supply emergency monetary support to financial institutions, because it is free from the constraints inherent in the gold standard.
 
-Second, we live now in an economic society whose budgetary scale is beyond comparison to anything in history. In the case of a financial emergency, the government – even if it is organized according to neo-liberalist thought – can invest huge amounts of public funds in troubled financial institutions. They may thus be saved, but financial instability never fully subsides, and a rapid and cyclical increase and decrease in the price of financial assets continues to recur forever. Today, oscillations in the price of financial assets can become very strong, thus bearing effects on the real economic sectors. A rapid increase in the price of financial assets can create remarkable profits, and a sudden decrease therein can create considerable loss in real sectors. We call this "an assets effect on real sectors;" typical examples involve the large U. S. automakers, General Motors and Chrysler, which were bankrupt in 2009 because of the financial crisis.
+Second, we live now in an economic society whose budgetary scale is beyond comparison to anything in history. In the case of a financial emergency, the government - even if it is organized according to neo-liberalist thought - can invest huge amounts of public funds in troubled financial institutions. They may thus be saved, but financial instability never fully subsides, and a rapid and cyclical increase and decrease in the price of financial assets continues to recur forever. Today, oscillations in the price of financial assets can become very strong, thus bearing effects on the real economic sectors. A rapid increase in the price of financial assets can create remarkable profits, and a sudden decrease therein can create considerable loss in real sectors. We call this "an assets effect on real sectors;" typical examples involve the large U. S. automakers, General Motors and Chrysler, which were bankrupt in 2009 because of the financial crisis.
 
 Worldwide, we should take a policy of containment with regard to speculative capital. Reckless activities involving speculative capital will prompt financial crises and lead the world economy into depression. We must understand that inefficient economic activities have taken place in liberalized international investment markets, following the breakdown of the Keynesian regime. By no means is it simple to change this system immediately; however, it *is* time that we move away from an inefficient and liberalized international investment system to construct instead a more stable one.
 
@@ -2043,7 +2950,7 @@ Worldwide, we should take a policy of containment with regard to speculative cap
 - Council of Economic Advisers (2010) *2010 Economic Report of the President*, Washington, D. C.: G. P. O.
 - Gardner, R. N. (1969) *Sterling-Dollar Diplomacy: The Origins of Our International Economic Order*, New York: Mc Graw Hill.
 - Keynes, J. M. (1953) *The General Theory of Employment, Interest and Money*, London: Harcourt Brace Javanovich.
-- Kimmel, L. H. (1959) *Federal Budget and Fiscal Policy: 1789–1958*, Washington, D. C.: Brookings Institution.
+- Kimmel, L. H. (1959) *Federal Budget and Fiscal Policy: 1789-1958*, Washington, D. C.: Brookings Institution.
 - Lenin, V. I. (1970) *Imperialism, the Highest Stage of Capitalism*, Moscow: Progress.
 - Marx, K. (1977) *Capital*, Vol. 1. trans. Ben Fowkes, New York: Vintage.
 - Marx, K. (1981) *Capital*, Vol. 3. trans. David Fernbach, London: Penguin.
@@ -2076,11 +2983,11 @@ After World War II, capitalist countries tried to overcome economic crises by im
 
 Under the managed currency system of the postwar period, inflation was built into the economic system. This was because of the suspension of gold conversion and the introduction of fiscal policy. From the perspective of Keynesian effective demand policy, the state began to intrude on the national economy by means of its fiscal policy. The policy created an effective demand to overcome the overproduction that had resulted from shortages in the aggregate demand to the aggregate supply ratio. Government spending was financed by deficit bonds, which were absorbed in the City or undertaken by the central bank through its market operations.
 
-Moreover, the central bank was free from the restrictions of gold conversion and so it was able to supply additional money in the form of relief loans. Such loans offered temporary relief, offsetting the sudden tightness of the money market – that is, the monetary crisis – that often occurs as an economic crisis unfolds.
+Moreover, the central bank was free from the restrictions of gold conversion and so it was able to supply additional money in the form of relief loans. Such loans offered temporary relief, offsetting the sudden tightness of the money market - that is, the monetary crisis - that often occurs as an economic crisis unfolds.
 
 The additional government spending and the relief loans from the central bank further propped up prices, permitting them to remain at higher-than-par values. Most capitalist economies with a managed currency system seemed to no longer experience an economic crisis involving serious price declines and the destruction of commodity values, as they would have with classical crises under the gold standard.
 
-The money supply, through the twin routes of state spending and bank loans, appeared to successfully prevent destructive deflation – that is, falling prices of commodities or capital, leading to the destruction of values. Instead of an economic crisis with a hard shrinking of the economy, however, this resulted in constant inflation in the postwar period. Note that for purposes of this chapter, the notion of a money supply that causes inflation refers to a ratio, with the denominator given by the quantity of money required in circulation, and the numerator given by the supply of excess money (money not required in circulation). Though the periodic economic contractions that formerly accompanied economic crisis appeared to have disappeared, the de facto standard price remained volatile, and the value of currency stayed vulnerable to depreciation. Overall, inflation – in lieu of a shrinking economy – appeared as the contradiction to the smooth growth of the modern capitalist economy. In other words, the economic adjustments to capitalistic overproduction that are made under the managed currency system appear to have the objective of preserving the value of capital, while destroying the value of currency and causing inflation at the same time (Yamada 1977).
+The money supply, through the twin routes of state spending and bank loans, appeared to successfully prevent destructive deflation - that is, falling prices of commodities or capital, leading to the destruction of values. Instead of an economic crisis with a hard shrinking of the economy, however, this resulted in constant inflation in the postwar period. Note that for purposes of this chapter, the notion of a money supply that causes inflation refers to a ratio, with the denominator given by the quantity of money required in circulation, and the numerator given by the supply of excess money (money not required in circulation). Though the periodic economic contractions that formerly accompanied economic crisis appeared to have disappeared, the de facto standard price remained volatile, and the value of currency stayed vulnerable to depreciation. Overall, inflation - in lieu of a shrinking economy - appeared as the contradiction to the smooth growth of the modern capitalist economy. In other words, the economic adjustments to capitalistic overproduction that are made under the managed currency system appear to have the objective of preserving the value of capital, while destroying the value of currency and causing inflation at the same time (Yamada 1977).
 
 State-monopolistic economic policies were not always able to resolve the basic contradictions of capitalist systems. The inevitable destruction of asset values by overproduction occurred in the process of inflation. This was because the effects of inflation spread sequentially, from big monopolistic companies supported by the government to ordinary households. The monopolistic company, which had been supplied with depreciated currency, in turn shifted this depreciation in worth onto its commodity price, thus earning back a part of the value and preventing a total loss. The destruction of value that appears as inflation, that is, depreciation of currency value, involves the redistribution process of income, by which the rising nominal price proceeds or spreads out, in order, from monopoly capital and the rich to the low-income class.
 
@@ -2098,7 +3005,7 @@ It should be noted that, since the 1980s, the world has seen the rise and bust o
 
 ## ![](_page_134_Figure_1.jpeg)
 
-*Figure 6.1* Price fluctuation, 1971–2008 (source: IMF, IFS Database).
+*Figure 6.1* Price fluctuation, 1971-2008 (source: IMF, IFS Database).
 
 ### **The economic slowdown and fall in prices: the first characteristic feature of the 2008 economic crisis**
 
@@ -2118,13 +3025,13 @@ This brings us back to the issue of the economy's long-term tendency to stagnate
 
 The first factor behind the slowdown of the capitalist economy, especially since the 1970s, is the tendency toward stagnation in the stage of monopolistic capitalism. As an economy develops, so does its production power. A certain section of the population can come to produce more than before, so that the national economy enjoys a surplus. On the one hand, this situation implies that monopolistic capitalism is the highest stage of capitalism. Therefore, at this stage, the economy has the most surplus in its economic history. On the other hand, however, this means that capital has lost its opportunity for profitability and there is a shortage of investment opportunities in this stage of monopolistic capitalism (see Figure 6.3). Monopolistic capital is able to flood the market, as there is no room for expansion in the economy.
 
-This situation typically finds expression in falling profits. Baran and Sweezy (1996) asserted that monopoly capitalism has a tendency toward economic slowdown. This stage lacks the investment opportunities that ensure enough profitability to absorb the surplus produced by increasing the productive forces. Actually, in the 1960s, channels other than capital accumulation – such as an expansion of the market and government spending – had prevented economic slackening. Historically, however, such channels had their limitations, and the overcapacity of monopolistic capital reduced the expected rate of earnings for new investments. This dampened the willingness to invest and initiated the longterm economic slowdown.
+This situation typically finds expression in falling profits. Baran and Sweezy (1996) asserted that monopoly capitalism has a tendency toward economic slowdown. This stage lacks the investment opportunities that ensure enough profitability to absorb the surplus produced by increasing the productive forces. Actually, in the 1960s, channels other than capital accumulation - such as an expansion of the market and government spending - had prevented economic slackening. Historically, however, such channels had their limitations, and the overcapacity of monopolistic capital reduced the expected rate of earnings for new investments. This dampened the willingness to invest and initiated the longterm economic slowdown.
 
-This theory found resonance with Brenner (2002: 40–41), who argued "the impasse of the international manufacturing sector at the end of the 1970s, resulting from the deepening of the crisis of profitability throughout the previous decade." Moreover, the Japanese economist Mizuno (2008) also asserted the
+This theory found resonance with Brenner (2002: 40-41), who argued "the impasse of the international manufacturing sector at the end of the 1970s, resulting from the deepening of the crisis of profitability throughout the previous decade." Moreover, the Japanese economist Mizuno (2008) also asserted the
 
 ## ![](_page_136_Figure_1.jpeg)
 
-*Figure 6.3* Net private non-residential fixed investment as percentage of GDP (source: Bureau of Economic Analysis, National Income and Product Accounts, "Gross and Net Domestic Investment by Major Type," Last revised on August 8, 2011, Table 5–2–5; Economic Report of the President, 2011, "Gross Domestic Product, 1962–2010," Table B).
+*Figure 6.3* Net private non-residential fixed investment as percentage of GDP (source: Bureau of Economic Analysis, National Income and Product Accounts, "Gross and Net Domestic Investment by Major Type," Last revised on August 8, 2011, Table 5-2-5; Economic Report of the President, 2011, "Gross Domestic Product, 1962-2010," Table B).
 
 same long-term trends of economic slackening and falling profit rate in developing countries. He demonstrated the tendency of the long-term interest rate (and of long-term bond yields) to fall, indicating a falling profit rate.
 
@@ -2160,7 +3067,7 @@ The second characteristic feature of the 2008 economic crisis is that the crisis
 
 ## ![](_page_139_Figure_2.jpeg)
 
-*Figure 6.5* Ratio of wage and salary to GDP, U. S. (source: Economic Report of the President, 2011, "Gross Domestic Product, 1962–2010," Table B-1 and "Sources of personal income, 1962–2010," Table B-29).
+*Figure 6.5* Ratio of wage and salary to GDP, U. S. (source: Economic Report of the President, 2011, "Gross Domestic Product, 1962-2010," Table B-1 and "Sources of personal income, 1962-2010," Table B-29).
 
 ## ![](_page_139_Figure_4.jpeg)
 
@@ -2194,7 +3101,7 @@ Globally, in the 1980s, both market fundamentalism and deregulation grew rapidly
 
 ### **The important role of the international currency system: the third characteristic of the economic crisis of 2008**
 
-Fully understanding the characteristics of the 2008 crisis also requires that we observe the role of the international currency system – and specifically, the role of the U. S. dollar as the key currency. This section thus presents the international currency system as the third characteristic feature of the 2008 economic crisis.
+Fully understanding the characteristics of the 2008 crisis also requires that we observe the role of the international currency system - and specifically, the role of the U. S. dollar as the key currency. This section thus presents the international currency system as the third characteristic feature of the 2008 economic crisis.
 
 The bubble economy mentioned in the previous sections had temporarily propped up the capitalist economy, which had been stuck in an economic slowdown since the 1980s. In fact, that is the role of a bubble economy in modern capitalism. The bubble economy, which was born from financial capital, gained power in the 1980s as debts accumulated. This was due to the fact that a bubble economy accrues earnings as a result of the loan transactions of financial capital, especially those involving credit creation. However, no country can consistently accumulate financial debt while keeping its production equilibrium intact, because countries have restrictions on their balance of international payments and foreign reserves. Even as the movement of financial capital in a country becomes brisk and domestic demand is stimulated, financial debt is accumulated, leading to a deficit in the balance of international payments, a shortage of foreign reserves, and a sudden fall in the value of its own currency. These are all results of a bubble economy. At such times, the government should tighten its financial policies, thereby decelerating the economy and encouraging industrial overproduction. Then the country is faced with an export-dependent policy. It seeks a foreign outlet for the overproduction.
 
@@ -2206,22 +3113,25 @@ The countries that have a surplus in their current balances and hold a large amo
 
 This shows that peripheral countries in the international currency system, which own large dollar assets, must adopt a cooperative international policy to maintain the dollar and protect the value of their own assets against the dollar. These countries have been conscious of the relation between their own currency and the dollar, both before the 1980s and following the recent shifts in U. S. monetary policy. After all, this process recognizes the necessity of foreign exchange reserves and the stability of the exchange rate even in the floating exchange rate system. In 1980, countries such as those in the European Union aimed at price stability and fiscal discipline, while Japan and others aimed for external equilibrium, and especially for the stability of the dollar. The cooperative financial policy adopted by these countries can be regarded as a quasi, or de facto, equilibrium exchange rate policy with international cooperation in stabilizing exchange rates relative to the dollar and to price movements (Table 6.1). The question that arises here is this: what is the relevance of this foreign exchange policy and cooperative international monetary policy for price stability since the 1980s?
 
-The dollar, which was born from the deficit in the U. S. balance of payments, has returned to its home country. In other words, the dollar as a debt has been reinvested in the U. S. financial markets. This was a condition for credit creation in the American financial markets. The dollar was born as debt on the balance sheets of banks when banks made loans to firms. Dollar deposits – as banks' debt – originate when banks make loans – as banks' assets. This is the process of credit creation. This process explains the origins of the dollars that have prevailed as a financial capital resource, and permitted the dollar to maintain its position as a global money capital instrument. At the same time, as the value of currency stabilized with the decline in the worldwide rate of price inflation, financial capital has moved freely between the global financial markets, facilitating the performance of their speculative function. The structure mentioned above has been a condition for the global frequency of bubble economies since the 1980s.
+The dollar, which was born from the deficit in the U. S. balance of payments, has returned to its home country. In other words, the dollar as a debt has been reinvested in the U. S. financial markets. This was a condition for credit creation in the American financial markets. The dollar was born as debt on the balance sheets of banks when banks made loans to firms. Dollar deposits - as banks' debt - originate when banks make loans - as banks' assets. This is the process of credit creation. This process explains the origins of the dollars that have prevailed as a financial capital resource, and permitted the dollar to maintain its position as a global money capital instrument. At the same time, as the value of currency stabilized with the decline in the worldwide rate of price inflation, financial capital has moved freely between the global financial markets, facilitating the performance of their speculative function. The structure mentioned above has been a condition for the global frequency of bubble economies since the 1980s.
 
 ### **Concluding remarks**
 
 Contradictions in the modern capitalist system have appeared as stagflation since the late 1970s. In the 1980s, the contradictions appeared to be resolved. But in reality, old contradicitions were being transformed into new ones. The excessive money capital, born from deficits in the U. S. balance of payments, was rerouted to "the confined space" of the asset market. It became a condition for credit creation, expanding loan transactions, and producing excess demand, which led to the huge deficit in the U. S. balance of payments. This excess demand appeared
 
-| | 1951–70 | 1971–89 | 1990–2008 | 1971–85 | 1986–2008 |
+| | 1951-70 | 1971-89 | 1990-2008 | 1971-85 | 1986-2008 |
 |-----------------------|---------|---------|-----------|---------|-----------|
 | World | 5.40 | 13.51 | 10.07 | 13.41 | 10.73 |
-| Eurozone | – | – | 2.07 | – | 2.07 |
+| Eurozone | - | - | 2.07 | - | 2.07 |
 | Japan | 4.93 | 5.71 | 0.57 | 6.99 | 0.63 |
-| Germany | – | – | 2.03 | – | 2.03 |
+| Germany | - | - | 2.03 | - | 2.03 |
 | France | 4.91 | 8.27 | 1.90 | 9.67 | 2.09 |
-| United<br>Kingdom | 3.72 | 10.23 | 3.35 | 11.60 | 3.65 |
-| United<br>States | 2.44 | 6.35 | 2.95 | 7.08 | 3.07 |
-| Advanced<br>Economies | – | 7.81 | 2.61 | 8.87 | 2.82 |
+| United
+Kingdom | 3.72 | 10.23 | 3.35 | 11.60 | 3.65 |
+| United
+States | 2.44 | 6.35 | 2.95 | 7.08 | 3.07 |
+| Advanced
+Economies | - | 7.81 | 2.61 | 8.87 | 2.82 |
 ## | | | | | | |
 
 *Table 6.1* Average fluctuation rate of price (percent)
@@ -2243,7 +3153,7 @@ In the Asian country the value of the product = 16c + 84v + 21s = 121; rate of p
 
 The rate of profit in the Asian country is thus more than 25 percent higher than in the European country, although the rate of surplus-value in the former is onefourth that of the latter.
 
-## (Marx 1967: 148–151)
+## (Marx 1967: 148-151)
 
 3 For example, Lenin wrote about the monopoly capital in the following manner:
 
@@ -2258,7 +3168,7 @@ As banking develops and becomes concentrated in a small number of establishments
 ## (Lenin 1964: 210)
 
 - 5 The banks have to invest an ever-increasing part of their capital in industry, and in this way they become to a greater and greater extent industrial capitalists. I call bank capital, that is, capital in money form which is actually transformed in this way into industrial capital, finance capital (Hilferding 1981: 225).
-- 6 In response to the impasse of the international manufacturing sector at the end of 1970s . . . governments across the advanced capitalist economies sought to ease into financial activities and pave the way for higher returns. To do so, they initiated not only a permanent war against inflation, but also a far-reaching process of financial deregulation (Brenner 2002: 40–41).
+- 6 In response to the impasse of the international manufacturing sector at the end of 1970s . . . governments across the advanced capitalist economies sought to ease into financial activities and pave the way for higher returns. To do so, they initiated not only a permanent war against inflation, but also a far-reaching process of financial deregulation (Brenner 2002: 40-41).
 - 7 See the Bank for International Settlements reports on the transaction of foreign exchange market.
 
 ### **References**
@@ -2271,7 +3181,7 @@ As banking develops and becomes concentrated in a small number of establishments
 - Greenspan, A. (2008) "Greenspan Testimony on Sources of Financial Crisis," *Wall Street Journal*, October 23.
 - Hilferding, R. (1981) *Finance Capital: A Study of the Latest Phase of Capitalist Development*, edited with an Introduction by Tom Bottomore, Routledge & Kegan Paul.
 - Itoh, M. (2009) "A Crisis Once in a Hundred Years: 1929 and 2008," in *Subprime to the World Economic Crisis: The End of Neoliberalism and the Future World*, Tokyo: Seidosya (in Japanese).
-- Jastram, R. W. (2009) *The Golden Constant: The English and American Experience 1560–2007*, 2nd edn, with updated material by J. Leyland (1st edn, 1977), London: Edward Elgar.
+- Jastram, R. W. (2009) *The Golden Constant: The English and American Experience 1560-2007*, 2nd edn, with updated material by J. Leyland (1st edn, 1977), London: Edward Elgar.
 - Kato, I. (2008) "What Can Be Learned from the '70s? Lessons from the Oil Crisis and Inflation: 'An Expectation of Inflation' Warned by the Central Bank," *Weekly Diamond*, July 19, Tokyo: Diamond (in Japanese).
 - Lenin, V. I. (1964) *Imperialism: The Highest Stage of Capitalism*, Vol. 22, *Collected Works*, Moscow: Progress Publishers.
 - Marx, K. (1967) *Das Kapital III*, New York: International Publisher.
@@ -2287,7 +3197,7 @@ As banking develops and becomes concentrated in a small number of establishments
 
 ## **7 Cyclical crisis, structural crisis, systemic crisis, and future of capitalism**
 
-## *Nobuharu Yokokawa*<sup>1</sup>
+## *Nobuharu Yokokawa*1
 
 ### **Introduction**
 
@@ -2307,10 +3217,24 @@ The capitalist world system was first established when the British variety of ca
 
 After the structural crisis of the capital accumulation regime of liberalism in the late nineteenth century, dynamic industries shifted to heavy and chemical industries and the centre of economic growth shifted from the UK to the U. S. and Germany. A new capital accumulation regime, imperialism, was created with two challengers and one old hegemon. The dynamic advantage of heavy and chemical industries was not fully developed under imperialism due to
 
-| | Formation | Establishment<br>(golden<br>age) | Diversification<br>(globalization) | Systemic<br>crisis |
+| | Formation | Establishment
+(golden
+age) | Diversification
+(globalization) | Systemic
+crisis |
 |----------------------------|-------------------------------|----------------------------------|------------------------------------|----------------------------|
-| Market<br>Capitalism | Mercantilism<br>(1750s–1810s) | Liberalism<br>(1820s–70s) | Imperialism<br>(1870s–1910s) | Interregnum<br>(1920s–40s) |
-| Bureaucratic<br>Capitalism | Interregnum<br>(1920s–40s) | Welfare<br>State<br>(1950s–70s) | Neo-Liberalism<br>(1980s–90s) | 2000– |
+| Market
+Capitalism | Mercantilism
+(1750s-1810s) | Liberalism
+(1820s-70s) | Imperialism
+(1870s-1910s) | Interregnum
+(1920s-40s) |
+| Bureaucratic
+Capitalism | Interregnum
+(1920s-40s) | Welfare
+State
+(1950s-70s) | Neo-Liberalism
+(1980s-90s) | 2000- |
 
 *Table 7.1* Periodization of capitalist world systems demand constraints. Market capitalism finally collapsed under the systemic crisis of the great depression in the 1930s, and was replaced by "bureaucratic capitalism" after World War II.
 
@@ -2392,7 +3316,7 @@ The Bretton Woods system was designed to decrease the external constraint that t
 
 The U. S. opposition, which aimed at attaining its own hegemony in the international monetary system, reduced the transnational and public character of the international monetary system. This union materialized as the International Monetary Fund, which does not create credit money. Instead the U. S. dollar, fixed at the rate of 35 dollars per gold ounce, was chosen as the key currency. All member countries were obliged to fix their exchange rate to the dollar. International balances of payments were to be settled by multilateral payment systems of private banks and central banks.
 
-At first, the Bretton Woods regime was intended to be an egalitarian and symmetric international monetary regime, with all currencies ultimately pegged to gold, and with international organizations such as the IMF and World Bank performing coordinating roles. However, the multilateral international payment system did not function in the postwar era, since no currencies except the dollar were convertible. It was the commitment of the U. S. as the hegemon of the capitalist world system that sustained the Bretton Wood regime, offering international means of payment by public capital export such as the Marshall Plan (Panic, 1988, p. 280). Thus the Bretton Woods system had to depend on an abundant supply of U. S. dollars, and changed into a hierarchical and asymmetric international monetary regime – the fixed dollar standard system – during the Cold War.
+At first, the Bretton Woods regime was intended to be an egalitarian and symmetric international monetary regime, with all currencies ultimately pegged to gold, and with international organizations such as the IMF and World Bank performing coordinating roles. However, the multilateral international payment system did not function in the postwar era, since no currencies except the dollar were convertible. It was the commitment of the U. S. as the hegemon of the capitalist world system that sustained the Bretton Wood regime, offering international means of payment by public capital export such as the Marshall Plan (Panic, 1988, p. 280). Thus the Bretton Woods system had to depend on an abundant supply of U. S. dollars, and changed into a hierarchical and asymmetric international monetary regime - the fixed dollar standard system - during the Cold War.
 
 ### *International trade*
 
@@ -2400,7 +3324,7 @@ To accelerate the re-industrialization of the capitalist economies, the U. S. ch
 
 ### **Cyclical crises and the law of value in bureaucratic capitalism**
 
-With strong support from the state and international institutions, bureaucratic capitalism successfully reversed the pattern of capital accumulation from dependence on foreign demand to dependence on domestic demand, with wages as the engine of demand growth; and it established the mutually reinforcing mechanism between productivity growth and domestic economic growth, resulting in the long-lasting prosperity of the 1950s–1960s with occasional recessions. There were six business cycles with mild recessions in the U. S. (recessions in 1949, 1954, 1958, 1961, 1970, and 1973), and among catching-up countries (for example, in Japan), there were seven business cycles (recessions in 1949, 1954, 1958, 1962, 1965, 1971, and 1973). In the golden age we observe two modes of accumulation of capital: profit-led accumulation in prosperity and wage-led accumulation in depression.7
+With strong support from the state and international institutions, bureaucratic capitalism successfully reversed the pattern of capital accumulation from dependence on foreign demand to dependence on domestic demand, with wages as the engine of demand growth; and it established the mutually reinforcing mechanism between productivity growth and domestic economic growth, resulting in the long-lasting prosperity of the 1950s-1960s with occasional recessions. There were six business cycles with mild recessions in the U. S. (recessions in 1949, 1954, 1958, 1961, 1970, and 1973), and among catching-up countries (for example, in Japan), there were seven business cycles (recessions in 1949, 1954, 1958, 1962, 1965, 1971, and 1973). In the golden age we observe two modes of accumulation of capital: profit-led accumulation in prosperity and wage-led accumulation in depression.7
 
 ### *Prosperity*
 
@@ -2496,7 +3420,7 @@ Tight monetary policy stopped investment and the crisis began. Both investment a
 
 When Japan lost dynamic comparative advantage in the heavy and chemical industries, it shifted its dynamic industry to machinery industry from the mid-1970s. Japan adopted an export-led industrialization strategy, increasing its trade dependency from 10 percent of GDP in the golden age to 15 percent from the mid-1970s to mid-1985. It became the engine of demand growth. The development of Japanese industries left room for less-developed East Asian NIEs to industrialize in the flying-geese pattern (namely with declining industries in leading countries allowing following countries to develop sequentially, as per Akamatsu 1962).
 
-In the first half of the 1980s, the U. S. dollar was hugely overvalued against the Japanese, Korean and Taiwanese currency. After the Plaza accord of 1985, these currencies appreciated rapidly, and Japanese trade dependency reduced to 10 percent of its GDP between 1985 and 2003. These economies had to replace foreign demand by domestic demand. Japan did not restore the link between wages and productivity growth. Instead these three countries adopted a neo-liberal accumulation regime. First, they increased foreign direct investment initially to ASEAN and then to China to reallocate lower value added section of the value chain. Second, they compensated for the reduction in the domestic production of tradable by increasing the domestic production of non-tradable, such as services and construction. Third, these nations – especially Japan – chose neo-liberal financial relaxation to increase investment and consumption demand. The Japanese bubble in the late 1980s, which burst in the early 1990s, was a typical boom-andbust pattern in the neo-liberal accumulation regime, and the first serious one.
+In the first half of the 1980s, the U. S. dollar was hugely overvalued against the Japanese, Korean and Taiwanese currency. After the Plaza accord of 1985, these currencies appreciated rapidly, and Japanese trade dependency reduced to 10 percent of its GDP between 1985 and 2003. These economies had to replace foreign demand by domestic demand. Japan did not restore the link between wages and productivity growth. Instead these three countries adopted a neo-liberal accumulation regime. First, they increased foreign direct investment initially to ASEAN and then to China to reallocate lower value added section of the value chain. Second, they compensated for the reduction in the domestic production of tradable by increasing the domestic production of non-tradable, such as services and construction. Third, these nations - especially Japan - chose neo-liberal financial relaxation to increase investment and consumption demand. The Japanese bubble in the late 1980s, which burst in the early 1990s, was a typical boom-andbust pattern in the neo-liberal accumulation regime, and the first serious one.
 
 The Japanese share of world commodity exports peaked in 1990 (Glyn 2006). In this period, Japan built a Pacific Rim triangle trade regime whereby Japan (later Korea and Taiwan) exported capital goods to the ASEAN and China, and the ASEAN and China exported completed products to the U. S. Japanese FDI to the ASEAN4 and China for these nations' cheap wages, followed by Korean and Taiwan FDI, accelerated industrialization in the ASEAN4 and China. In this process Chinese wages have been increasing dramatically in yuan, but the devaluation of the yuan from 1.5 yuan to U. S.\$1 in 1980 to 8.6 yuan to U. S.\$1 in 1994 concealed wage increases, and kept Chinese wage levels at 5 percent of U. S. levels at current exchange rates for the 20 years of its catching-up process. Therefore, the Chinese industrial structure was not upgraded sufficiently in the 1990s. It blocked the flying-geese-type industrialization of less developed countries.
 
@@ -2518,7 +3442,7 @@ Asian Economic Crisis in 1997, increasing international imbalance. Most signific
 
 The subprime loan crisis is the most severe world crisis since the structural crisis in the 1970s. The historical process of the crisis may be summarized as follows. A housing market bubble began in the late 1990s and accelerated in the early 2000s. Banks earned large fees by securitizing mortgages and selling them to capital markets. Institutional investors all over the world bought these securities because they had higher returns than equivalently rated corporate bonds. Banks began to offer mortgages to those who could not afford them when the housing price bubble evaporated and/or interest rates rose. Home sales peaked in late 2005, and housing prices peaked in early 2006. Then the subprime loan crisis erupted in mid-2007. The crisis began in the U. S., and spread all over the world.
 
-The question is what kind of crisis is the subprime loan crisis. Is it a cyclical crisis, a structural crisis, or an even more serious crisis that may abolish the present capitalist world system, as did the 1929 world crisis and the following great depression – that is, a systemic crisis? We have three scenarios.
+The question is what kind of crisis is the subprime loan crisis. Is it a cyclical crisis, a structural crisis, or an even more serious crisis that may abolish the present capitalist world system, as did the 1929 world crisis and the following great depression - that is, a systemic crisis? We have three scenarios.
 
 ### *First scenario*
 
@@ -2582,7 +3506,7 @@ $$r = \{i_u/(s_r - i_r)\}u + (i_o + b + x)/(s_r - i_r)$$
 
 The economy must lie on the profit curve and the realization curve to be in equilibrium. Changes in parameters concerned with savings and investment (iu, sr , ir , b, and x) shift the slope and position of the realization curve. A Kaldorian profitled accumulation mechanism is explained as follows. Larger iu, ir , b, x and smaller sr , shift the realization curve upwards, which "will increase the equilibrium rate of profit and cause the economy to grow faster" (ibid., p. 22).
 
-Changes in parameters concerned with the cost structure of firms (p, k, d, t) shift the profits curve. A Kaleckian wage-led accumulation mechanism is explained as follows. Larger k, d, t, and smaller p increase the costs of firms (profit curve 1 to 2), and initially reduce the rate of profit. In the case of a stable economy, since ir< sr , this reduction in profits will cause excess demand. At full capacity, firms will raise their prices, and the economy will return to its previous equilibrium. Below full capacity, firms respond to greater demand by producing more output. "If there is no accelerator effect (iu= 0), expansion will come to a halt once profits have reached their old level . . . if the accelerator effect is positive (iu> 0) . . . both profits and investment will be higher in the new equilibrium than they were in the old" (Rowthorn, 1982, pp. 24–25).
+Changes in parameters concerned with the cost structure of firms (p, k, d, t) shift the profits curve. A Kaleckian wage-led accumulation mechanism is explained as follows. Larger k, d, t, and smaller p increase the costs of firms (profit curve 1 to 2), and initially reduce the rate of profit. In the case of a stable economy, since ir 0) . . . both profits and investment will be higher in the new equilibrium than they were in the old" (Rowthorn, 1982, pp. 24-25).
 
 ### **Notes**
 
@@ -2602,9 +3526,9 @@ Changes in parameters concerned with the cost structure of firms (p, k, d, t) sh
 
 ### **References**
 
-Akamatsu, K. (1962) "A Historical Pattern of Economic Growth in Developing Countries," *The Developing Economies*, Institute of Asian Economic Affairs, Preliminary Issue No. 1, pp. 3–25.
+Akamatsu, K. (1962) "A Historical Pattern of Economic Growth in Developing Countries," *The Developing Economies*, Institute of Asian Economic Affairs, Preliminary Issue No. 1, pp. 3-25.
 
-Baumol, W. J. (1967) "Macroeconomics of Unbalanced Growth: The Anatomy of Urban Crisis," *American Economic Review*, Vol. 57, pp. 426–451.
+Baumol, W. J. (1967) "Macroeconomics of Unbalanced Growth: The Anatomy of Urban Crisis," *American Economic Review*, Vol. 57, pp. 426-451.
 
 Bernstein, E. (1911) *Evolutionary Socialism: Criticism and Affirmation*, New York: B. W. Huebsch.
 
@@ -2620,7 +3544,7 @@ Hilferding, R. (1980) *Finance Capital*, translated by Morris Watnick and Sam Go
 
 Hodgson, Geoff (2001) *How Economics Forgot History: The Problem of Historical Specificity in Social Science*, London: Routledge.
 
-Hodgson G. M., Itoh, M. and Yokokawa, N., (eds) (2001) *Capitalism in Evolution: Global Contentions – East and West*, Cheltenham: Edward Elgar.
+Hodgson G. M., Itoh, M. and Yokokawa, N., (eds) (2001) *Capitalism in Evolution: Global Contentions - East and West*, Cheltenham: Edward Elgar.
 
 Kaldor, N. (1960) *Essays on Economic Stability and Growth*, London: Duckworth.
 
@@ -2636,12 +3560,12 @@ Kalecki, M. (1971) *Selected Essays on the Dynamics of the Capitalist Economy*, 
 - Minsky, H. P. (1978) *The Financial Instability Hypothesis: A Restatement*, London: Thames Polytechnic.
 - Minsky, H. P. (1982) *Can It Happen Again?* New York: M. E. Sharpe.
 - Palley, Thomas (2010) "The Limits of Minsky's Financial Instability Hypothesis as an Explanation of the Crisis," *Monthly Review*, 61(11).
-- Palley, Thomas (2011) "A Theory of Minsky Super-Cycles and Financial Crises," *Contributions to Political Economy*, 30(1), pp. 31–46.
+- Palley, Thomas (2011) "A Theory of Minsky Super-Cycles and Financial Crises," *Contributions to Political Economy*, 30(1), pp. 31-46.
 - Panic, M. (1988) *National Management of the International Economy*, London: Macmillan.
 - RIETI (Research Institute of Economy, Trade and Industry) (2011) RIETI-TID (www. rieti-tid.com/).
 - Rowthorn, R. E. (1982) "Demand, Real Wages and Economic Growth," *Studi economici*, No. 18.
 - Rowthorn, R. E. and Wells, J. R. (1987), *De-industrialisation and Foreign Trade*, Cambridge: Cambridge University Press.
-- Sekine, Thomas T. (1975) Uno-Riron: "A Japanese Contribution to Marxian Political Economy," *Journal of Economic Literature*, 8, pp. 847–877.
+- Sekine, Thomas T. (1975) Uno-Riron: "A Japanese Contribution to Marxian Political Economy," *Journal of Economic Literature*, 8, pp. 847-877.
 - Uno, K. (1980) *Principles of Political Economy*, translated by Thomas T. Sekine, Brighton: Harvester.
 - Veblen, Thorstein B. (2007) "The Socialist Economics of Karl Marx and His followers," in *The Place of Science in Modern Civilization*, originally published 1919, New York: Cosimo.
 
@@ -2686,14 +3610,109 @@ This observation is in keeping with the main conclusion of a review of the liter
 
 *Table 8.1* Financial innovations: sources of growth or of crisis
 
-| | Function | Impact<br>on: | |
+| | Function | Impact
+on: | |
 |---|-------------------------------------------------------|----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
 | | | Growth | Crises |
-| 1 | Transfer<br>of<br>wealth<br>over<br>time | Favors<br>investment<br>by<br>eliminating<br>the<br>irreversibility<br>of<br>choice | Makes<br>possible<br>the<br>creation<br>of<br>rights<br>in<br>excess<br>of<br>future<br>wealth |
-| 2 | Risk<br>management | Allows<br>investment<br>through<br>the<br>separation<br>of<br>financing<br>and<br>risk | Accentuates<br>risk,<br>because<br>of<br>poor<br>evaluation<br>resulting<br>from<br>the<br>division<br>of<br>labor<br>among<br>financial<br>actors |
-| 3 | Pooling<br>wealth | Better<br>allocation<br>of<br>capital | Favors<br>the<br>emergence<br>of<br>bubbles<br>and<br>poor<br>allocation<br>of<br>capital<br>because<br>of<br>liquidity |
-| 4 | Creation<br>and<br>dissemination<br>of<br>information | Socializes<br>views<br>of<br>the<br>future | Nurtures<br>mimicry,<br>however<br>rational<br>it<br>may<br>be |
-| 5 | Organization<br>of<br>payments | An<br>efficient<br>banking<br>system<br>favors<br>growth | Constitutes<br>a<br>resonance<br>chamber,<br>amplifying<br>the<br>financial<br>disorders<br>at<br>the<br>heart<br>of<br>systemic<br>crises |
+| 1 | Transfer
+of
+wealth
+over
+time | Favors
+investment
+by
+eliminating
+the
+irreversibility
+of
+choice | Makes
+possible
+the
+creation
+of
+rights
+in
+excess
+of
+future
+wealth |
+| 2 | Risk
+management | Allows
+investment
+through
+the
+separation
+of
+financing
+and
+risk | Accentuates
+risk,
+because
+of
+poor
+evaluation
+resulting
+from
+the
+division
+of
+labor
+among
+financial
+actors |
+| 3 | Pooling
+wealth | Better
+allocation
+of
+capital | Favors
+the
+emergence
+of
+bubbles
+and
+poor
+allocation
+of
+capital
+because
+of
+liquidity |
+| 4 | Creation
+and
+dissemination
+of
+information | Socializes
+views
+of
+the
+future | Nurtures
+mimicry,
+however
+rational
+it
+may
+be |
+| 5 | Organization
+of
+payments | An
+efficient
+banking
+system
+favors
+growth | Constitutes
+a
+resonance
+chamber,
+amplifying
+the
+financial
+disorders
+at
+the
+heart
+of
+systemic
+crises |
 
 Source: after Rajan and Zingales (2003).
 
@@ -2713,7 +3732,7 @@ The problems of uncertainty that weigh on the use of all financial instruments a
 
 The horizon of the actors involved does not exceed a few years, while the effort of information search and analysis focuses on the most recent developments. Thus, through the formation of the market price, a belief emerges in the dawning of a new epoch marked by returns without precedent in terms of their magnitude and/or stability. Financial history has the great merit of detecting the repetition of the same sequence of speculative fervor. Such works are numerous: isolated to begin with (Kindleberger 1978), they have increased with the growing frequency of crises since the mid-1980s (Garber 2000; Eichengreen 2003; Roubini 2008). The novelty is that macroeconomic and financial theorists themselves refer to the series of phases of runaway speculation when constructing models to explain the inefficiency of markets, by means of more or less substantial modifications to either the hypothesis of rationality (Shiller 2000), or the organization of markets.
 
-Adopting this perspective helps to shed light on the current situation: it is not the first time that a technical innovation has been considered radical and capable of permanently raising profit levels. So, for instance, the restructuring of firms and changes in the frontiers between sectors under the impact of information and communication technologies in the 1990s were compared to advances in the scientific organization of labor in the United States in the 1920s. The fast rise in liquidity on the stock market itself provoked a rash of mergers and acquisitions that corresponded in its own way to the increase in liquidity observed during the 1960s in the United States (Shleifer 2002: 170–171).
+Adopting this perspective helps to shed light on the current situation: it is not the first time that a technical innovation has been considered radical and capable of permanently raising profit levels. So, for instance, the restructuring of firms and changes in the frontiers between sectors under the impact of information and communication technologies in the 1990s were compared to advances in the scientific organization of labor in the United States in the 1920s. The fast rise in liquidity on the stock market itself provoked a rash of mergers and acquisitions that corresponded in its own way to the increase in liquidity observed during the 1960s in the United States (Shleifer 2002: 170-171).
 
 ### **A chain of events leading to the return of public control**
 
@@ -2748,7 +3767,7 @@ Thus, stock market crises follow but do not resemble each other. It was the conj
 
 - The widespread adoption of the strategy of *risk coverage* precipitated the event against which the agents had sought to protect themselves on a microeconomic level: the conjunction of rational microeconomic strategies blocked the market. This feature can be found in most other crises, including that of subprime mortgages.
 - The central role of the Fed was confirmed by this episode: faced with a liquidity crisis, and whatever the responsibilities of the other actors or the risks of moral hazard, the central bank is the lender of last resort with the task of restoring continuity in the system of payments. This characteristic is present in most of the crises mentioned in this text.
-- The institution of circuit breakers, by request of the political authorities but not by the professionals, who think that the mechanisms of the market should be allowed to operate freely – suspends trading in the event of prices moving too far, too fast. Thus, the financial markets record the sedimentation of rules instituted to prevent the repetition of past crises. When the political authorities go back on some of these rules, such as the separation between commercial banks and investment banks, a return to old forms of crisis becomes possible, as certain of the developments in the 2008 crisis have shown.
+- The institution of circuit breakers, by request of the political authorities but not by the professionals, who think that the mechanisms of the market should be allowed to operate freely - suspends trading in the event of prices moving too far, too fast. Thus, the financial markets record the sedimentation of rules instituted to prevent the repetition of past crises. When the political authorities go back on some of these rules, such as the separation between commercial banks and investment banks, a return to old forms of crisis becomes possible, as certain of the developments in the 2008 crisis have shown.
 
 The first of these lessons, though not the other two, was demonstrated in the United States in the following crisis.
 
@@ -2761,13 +3780,15 @@ This mastery of the measurement of risk led many to believe that all possibility
 | | United States 2007 |
 |---------------------------------------------------------|--------------------|
 | of banks | United States |
-| oan: the decisive role | Japan 1991–2003 |
+| oan: the decisive role | Japan 1991-2003 |
 | es and the crisis in Ja | United States 1987 |
 | Table 8.2 Comparison of four crises in the United State | United States |
 
-| | 1929–39 | | | 2000-03 | |
+| | 1929-39 | | | 2000-03 | |
 |-------------------------------|------------------------------|-----------------------------------------------------------|---------------------------------|---------------------------------|------|
-| "Real" origin of the bubble | Method of mass<br>production | Recovery of growth | An original<br>production model | Boom in ICT and the new economy | J 22 |
+| "Real" origin of the bubble | Method of mass
+production | Recovery of growth | An original
+production model | Boom in ICT and the new economy | J 22 |
 | Pre-crisis economic situation | Strong growth | No financial bubble Period of structural Regime of growth | Regime of growth | Strong, non- | 01 |
 | | | adjustments | decelerate | mnationary growin | _ |
 
@@ -2797,10 +3818,75 @@ This mastery of the measurement of risk led many to believe that all possibility
 
 ## housing market and easy Speculative boom in the access to credit
 
-| ment banks<br>• Quick cut in interest rates<br>Pull out of a systemic crisis<br>• Creation of an institution<br>and lender of last resort,<br>of defeasance and plans<br>merous<br>• Take over control or<br>financial institutions<br>w regulations<br>mulus<br>even for invest<br>nationalize nu<br>• Budget sti<br>for ne<br>mulus,<br>consequences of<br>the 9/11 attacks<br>including the<br>interest rates<br>Guard against<br>• Quick cut in<br>• Budget sti<br>deflation<br>• No restructuring<br>• Tardy action by<br>flow<br>Japan and the<br>the Bank of<br>Ministry of<br>Go with the<br>of banks<br>Finance<br>• Rapid reaction of<br>Not to repeat 1929<br>liquidities to the<br>financial market<br>• Supply of<br>the Fed<br>mpt<br>figuration | mercial banks, collapse<br>ment banks<br>Initial resilience of<br>of invest<br>m<br>co<br>No<br>*<br>No | mic and structural<br>financial crisis<br>Syste<br>*<br>No<br>* |
+| ment banks
+• Quick cut in interest rates
+Pull out of a systemic crisis
+• Creation of an institution
+and lender of last resort,
+of defeasance and plans
+merous
+• Take over control or
+financial institutions
+w regulations
+mulus
+even for invest
+nationalize nu
+• Budget sti
+for ne
+mulus,
+consequences of
+the 9/11 attacks
+including the
+interest rates
+Guard against
+• Quick cut in
+• Budget sti
+deflation
+• No restructuring
+• Tardy action by
+flow
+Japan and the
+the Bank of
+Ministry of
+Go with the
+of banks
+Finance
+• Rapid reaction of
+Not to repeat 1929
+liquidities to the
+financial market
+• Supply of
+the Fed
+mpt
+figuration | mercial banks, collapse
+ment banks
+Initial resilience of
+of invest
+m
+co
+No
+*
+No | mic and structural
+financial crisis
+Syste
+*
+No
+* |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|
-| • Initially laissez<br>at institutional<br>• Then an atte<br>w Deal)<br>orthodox line<br>Follow the<br>recon<br>faire<br>(Ne | | No |
-| Policy | *<br>• Gravity of the crisis/fragility of<br>banks<br>Link | • Absence of crisis/resilience of<br>banks |
+| • Initially laissez
+at institutional
+• Then an atte
+w Deal)
+orthodox line
+Follow the
+recon
+faire
+(Ne | | No |
+| Policy | *
+• Gravity of the crisis/fragility of
+banks
+Link | • Absence of crisis/resilience of
+banks |
 
 ## ![](_page_184_Figure_1.jpeg)
 
@@ -2828,7 +3914,7 @@ The various regulatory authorities were not worried by these risks, and imposed 
 
 Setting aside the exact characteristics of the derivative, the same sequence can be observed, *mutatis mutandis*, for the energy derivatives proposed by Enron. This was the epoch of the "new economy," and of hopes for a dematerialization of economic activity: why invest irreversibly in facilities to produce and transport energy when one can organize the futures market of the corresponding contracts to make substantial profits, from a modest capital investment, guaranteeing greater flexibility in its allocation? Just as with LTCM, Enron was so successful, the returns it posed so exceptional, that it became the flagship to which many others aspired.
 
-In 2000, it turned out that these results were obtained essentially through legal accounting practices, consisting of discounting its existing contracts to present value(s). The corresponding costs were hidden away in satellite accounts that were not consolidated with those of the parent company (Mistral *et al.* 2003). Essentially, this was therefore a problem of the information available to the financial market. It was followed by calls for greater transparency and for the accountability, including penal, of CEOs and financial directors, which gave rise to the Sarbanes–Oxley Act (see Figure 8.3).
+In 2000, it turned out that these results were obtained essentially through legal accounting practices, consisting of discounting its existing contracts to present value(s). The corresponding costs were hidden away in satellite accounts that were not consolidated with those of the parent company (Mistral *et al.* 2003). Essentially, this was therefore a problem of the information available to the financial market. It was followed by calls for greater transparency and for the accountability, including penal, of CEOs and financial directors, which gave rise to the Sarbanes-Oxley Act (see Figure 8.3).
 
 Other problems remain, despite the new legislation:
 
@@ -2847,7 +3933,7 @@ It introduced strong procyclicity in the results posted, which remained virtual 
 
 The role played by the central bank in fixing low interest rates is another factor in the genesis of bubbles associated with financial innovations. One illustration can be found in the United States after the bursting of the Internet bubble, when the Fed kept interest rates down to relieve financial institutions and indebted households, and to accompany a program of fiscal stimulus. The Republican administration also announced a program of access to home ownership for minorities and disadvantaged groups. Mortgage establishments leapt at the new opportunities for profit that this opened up: they offered loans without bothering to make any request for collateral or for information about income, in the hope that the continuing surge in real estate prices would be the best guarantee. Thanks to particularly active lobbying of public authorities by the financial companies, the corresponding financial products and their securitization were not covered by any regulation. Thus, all the ingredients were brought together for the typical development of a high-risk financial innovation (see Figure 8.4).
 
-There was a sharp downturn in the market. The classification of tranches of credit proved to be hopelessly over-optimistic when the rate of defaults started to rise and the price of real estate started to fall in 2007. The subprime market disappeared. As it figured prominently in the books of a number of banks, this triggered a liquidity crisis, to which the Fed responded initially by providing easier access to liquidity, at modest levels. Given the scale of the assets involved – a sum in the order of 3,000 billion dollars – it soon became apparent that defaults were still rising and that the banks were incapable of evaluating a growing number of assets. Since the subprime market was closed, and since the ad hoc models drawn up by each bank assumed constant access to liquidity and low correlations among risks, no longer provided any relevant information. The systemic crisis had started, and it was the very principle of the valuation of assets that was the root of discord. Interbank credit, in particular, dried up completely.
+There was a sharp downturn in the market. The classification of tranches of credit proved to be hopelessly over-optimistic when the rate of defaults started to rise and the price of real estate started to fall in 2007. The subprime market disappeared. As it figured prominently in the books of a number of banks, this triggered a liquidity crisis, to which the Fed responded initially by providing easier access to liquidity, at modest levels. Given the scale of the assets involved - a sum in the order of 3,000 billion dollars - it soon became apparent that defaults were still rising and that the banks were incapable of evaluating a growing number of assets. Since the subprime market was closed, and since the ad hoc models drawn up by each bank assumed constant access to liquidity and low correlations among risks, no longer provided any relevant information. The systemic crisis had started, and it was the very principle of the valuation of assets that was the root of discord. Interbank credit, in particular, dried up completely.
 
 ## ![](_page_187_Figure_4.jpeg)
 
@@ -2880,57 +3966,85 @@ Among the many different derivatives, becoming ever more varied, derivatives of 
 
 ### *Insert finance into the theory of innovations*
 
-In fact, financial innovations occupy a singular place in the dynamic of growth: they have the property of destabilizing the existing growth regime before facilitating the emergence of a new one (Table 8.3). That is not the case for innovations resulting from scientific progress or technological know-how. Nor should we overlook organizational innovations, since some of them – e.g., manufacturing, assembly chains, clusters – end up shaping the institutional configuration and the implementation of technological advances, as was the case in the Fordist model of growth. The institutional innovation of the collective agreement linking wages to productivity, for example, played a decisive role in the viability of that macroeconomic regime. At the end of the 1930s depression and after World War II, moreover, finance was strictly regulated by state intervention and yet the allocation of capital was relatively efficient and favorable to growth.
+In fact, financial innovations occupy a singular place in the dynamic of growth: they have the property of destabilizing the existing growth regime before facilitating the emergence of a new one (Table 8.3). That is not the case for innovations resulting from scientific progress or technological know-how. Nor should we overlook organizational innovations, since some of them - e.g., manufacturing, assembly chains, clusters - end up shaping the institutional configuration and the implementation of technological advances, as was the case in the Fordist model of growth. The institutional innovation of the collective agreement linking wages to productivity, for example, played a decisive role in the viability of that macroeconomic regime. At the end of the 1930s depression and after World War II, moreover, finance was strictly regulated by state intervention and yet the allocation of capital was relatively efficient and favorable to growth.
 
-| | Reaction to crises and means of<br>control |
+| | Reaction to crises and means of
+control |
 |-----------------------------------------|--------------------------------------------|
-| wth | of crisis<br>Type |
+| wth | of crisis
+Type |
 | mponents of the process of gro | Impact on growth |
 | Financial innovations are one of the co | Characteristics |
-## | Table 8.3 | Type of innovation<br>impact |
+## | Table 8.3 | Type of innovation
+impact |
 
-| c<br>fi<br>Scienti | Pure public good | Potentially high | ment of an outdated<br>m<br>• Abandon<br>paradig | • Public character of basic research<br>munity<br>m<br>• Validation by a co |
+| c
+fi
+Scienti | Pure public good | Potentially high | ment of an outdated
+m
+• Abandon
+paradig | • Public character of basic research
+munity
+m
+• Validation by a co |
 |--------------------|-------------------------|------------------|--------------------------------------------------|-----------------------------------------------------------------------------|
-| Technological | Appropriable but strong | mportant<br>I | • Fall in return on R&D | mental<br>• Technical and environ |
+| Technological | Appropriable but strong | mportant
+I | • Fall in return on R&D | mental
+• Technical and environ |
 | | externalities | | Gradual erosion of rents | standards |
 
-| | mportant<br>I | • Fall in return on R&D | |
+| | mportant
+I | • Fall in return on R&D | |
 |---------------|---------------|--------------------------|-----------|
 | externalities | | Gradual erosion of rents | standards |
 ## | | | | |
 
-| • Fall in return on R&D | standards<br>Gradual erosion of rents | |
+| • Fall in return on R&D | standards
+Gradual erosion of rents | |
 |-------------------------|---------------------------------------|--|
-| mportant<br>I | | |
+| mportant
+I | | |
 | | externalities | |
 ## | | | |
 
-| | m innovation<br>fro | | | |
+| | m innovation
+fro | | | |
 |-----------------------------------|--------------------------|---------------|---------------|--|
 | standards | Gradual erosion of rents | | externalities | |
-| mental<br>• Technical and environ | • Fall in return on R&D | mportant<br>I | | |
+| mental
+• Technical and environ | • Fall in return on R&D | mportant
+I | | |
 
-| • Public control of certain facilities | m innovation<br>fro | | | |
+| • Public control of certain facilities | m innovation
+fro | | | |
 |----------------------------------------|--------------------------|---------------|---------------|--|
 | standards | Gradual erosion of rents | | externalities | |
-| mental<br>• Technical and environ | • Fall in return on R&D | mportant<br>I | | |
+| mental
+• Technical and environ | • Fall in return on R&D | mportant
+I | | |
 
-| | m innovation<br>fro | | | |
+| | m innovation
+fro | | | |
 |-----------|--------------------------|---------------|---------------|--|
 | standards | Gradual erosion of rents | | externalities | |
-## | | • Fall in return on R&D | mportant<br>I | | |
+## | | • Fall in return on R&D | mportant
+I | | |
 
 | standards | • Public control of certain facilities |
 |--------------------------|----------------------------------------|
-| Gradual erosion of rents | m innovation<br>fro |
+| Gradual erosion of rents | m innovation
+fro |
 | | |
 | externalities | |
 ## | | |
 
-| mportant<br>I | • Fall in return on R&D | mental<br>• Technical and environ |
+| mportant
+I | • Fall in return on R&D | mental
+• Technical and environ |
 |---------------|--------------------------|-----------------------------------|
 | | Gradual erosion of rents | standards |
-| | m innovation<br>fro | |
+| | m innovation
+fro | |
 ## | | | |
 
 externalities Slow and marginal except Growing inaptness in relation • Role of consultants, management schools
@@ -2952,14 +4066,96 @@ Likewise, the law forbids certain contracts (which could, however, be mutually b
 
 *Table 8.4* Most innovations are regulated collectively
 
-| Innovation | Type<br>of<br>control |
+| Innovation | Type
+of
+control |
 |-----------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Scientific | •<br>Methodology<br>specific<br>to<br>each<br>discipline<br>•<br>Deontology |
-| Technical | •<br>Multiple<br>safety<br>standards,<br>prior<br>to<br>marketing<br>•<br>Quality<br>certification<br>by<br>agencies |
-| Organizational | •<br>Banning<br>of<br>certain<br>forms<br>of<br>organization<br>(forced<br>labour)<br>•<br>and<br>transactions<br>(organs) |
-| Institutional | •<br>Political<br>control<br>•<br>Control<br>by<br>law,<br>citizenship |
-| Finance<br>•<br>Traditional<br>products<br>•<br>New<br>products | •<br>Rules<br>governing<br>issuing,<br>disclosure<br>of<br>information,<br>prevention<br>of<br>insider<br>trading,<br>accounting<br>•<br>None,<br>to<br>begin<br>with |
-| Health | •<br>Ex<br>ante<br>on<br>the<br>effects<br>of<br>drugs<br>•<br>Ex<br>ante<br>via<br>professional<br>specialization<br>•<br>Deontology<br>•<br>Public<br>approval<br>of<br>care<br>establishments |
+| Scientific | •
+Methodology
+specific
+to
+each
+discipline
+•
+Deontology |
+| Technical | •
+Multiple
+safety
+standards,
+prior
+to
+marketing
+•
+Quality
+certification
+by
+agencies |
+| Organizational | •
+Banning
+of
+certain
+forms
+of
+organization
+(forced
+labour)
+•
+and
+transactions
+(organs) |
+| Institutional | •
+Political
+control
+•
+Control
+by
+law,
+citizenship |
+| Finance
+•
+Traditional
+products
+•
+New
+products | •
+Rules
+governing
+issuing,
+disclosure
+of
+information,
+prevention
+of
+insider
+trading,
+accounting
+•
+None,
+to
+begin
+with |
+| Health | •
+Ex
+ante
+on
+the
+effects
+of
+drugs
+•
+Ex
+ante
+via
+professional
+specialization
+•
+Deontology
+•
+Public
+approval
+of
+care
+establishments |
 
 ### **Conclusion: some steps toward more resilient financial systems**
 
@@ -2976,49 +4172,165 @@ Among a multiplicity of possible strategies in order to prevent the repetition o
 
 *Table 8.5* Reducing gravity of financial crises, instead of simply surmounting them
 
-| Approach | Ex<br>post | Ex<br>ante |
+| Approach | Ex
+post | Ex
+ante |
 |---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Advantages | •<br>Legitimacy<br>due<br>to<br>need<br>to<br>restore<br>financial<br>stability<br>•<br>No<br>interference<br>during<br>the<br>boom<br>period | •<br>Reduction<br>in<br>the<br>cost<br>of<br>a<br>possible<br>residual<br>crisis<br>•<br>Less<br>volatility<br>favorable<br>to<br>growth<br>and<br>the<br>reduction<br>of<br>inequalities |
-| Disadvantages | •<br>Gravity<br>of<br>the<br>crisis<br>proportional<br>to<br>prior<br>inaction<br>•<br>Cost<br>in<br>terms<br>of<br>growth<br>and<br>living<br>standards<br>•<br>Moral<br>hazard | •<br>Interference<br>with<br>private<br>initiative<br>•<br>Possible<br>errors<br>of<br>diagnosis<br>•<br>Lack<br>of<br>instruments |
-| Methods | •<br>Lender<br>of<br>last<br>resort<br>•<br>Defeasance<br>structure<br>using<br>public<br>funds<br>•<br>Nationalizations<br>•<br>Restructuring<br>on<br>the<br>initiative<br>of<br>the<br>profession | •<br>Monetary<br>policy<br>taking<br>into<br>account<br>the<br>objective<br>of<br>financial<br>stability<br>•<br>Uniform<br>regulations,<br>limitation<br>of<br>leverage<br>•<br>Banning<br>of<br>certain<br>innovations<br>that<br>are<br>dangerous<br>for<br>stability |
+| Advantages | •
+Legitimacy
+due
+to
+need
+to
+restore
+financial
+stability
+•
+No
+interference
+during
+the
+boom
+period | •
+Reduction
+in
+the
+cost
+of
+a
+possible
+residual
+crisis
+•
+Less
+volatility
+favorable
+to
+growth
+and
+the
+reduction
+of
+inequalities |
+| Disadvantages | •
+Gravity
+of
+the
+crisis
+proportional
+to
+prior
+inaction
+•
+Cost
+in
+terms
+of
+growth
+and
+living
+standards
+•
+Moral
+hazard | •
+Interference
+with
+private
+initiative
+•
+Possible
+errors
+of
+diagnosis
+•
+Lack
+of
+instruments |
+| Methods | •
+Lender
+of
+last
+resort
+•
+Defeasance
+structure
+using
+public
+funds
+•
+Nationalizations
+•
+Restructuring
+on
+the
+initiative
+of
+the
+profession | •
+Monetary
+policy
+taking
+into
+account
+the
+objective
+of
+financial
+stability
+•
+Uniform
+regulations,
+limitation
+of
+leverage
+•
+Banning
+of
+certain
+innovations
+that
+are
+dangerous
+for
+stability |
 
 7 Reaffirm, following Károly Polanyi (1944), that the role of finance is not to control and organize society to its own benefit; instead, it is up to collective processes, essentially of a political nature, to align the direction and intensity of innovation, including financial innovation, with the pursuit of society's well-being.
 
 ### **Note**
 
-1 The inventors of new financial products act solely with a view to the profits they can capture, without taking into account the unfavorable consequences for macroeconomic stability – in this case, the outbreak of a financial crisis directly linked to the very success these new instruments.
+1 The inventors of new financial products act solely with a view to the profits they can capture, without taking into account the unfavorable consequences for macroeconomic stability - in this case, the outbreak of a financial crisis directly linked to the very success these new instruments.
 
 ### **References**
 
-- Artus, P. (1990), "Quand la création d'un marché à terme peut-elle déstabiliser le cours au comptant?" *Revue Économique*, Vol. 41, No. 1, pp. 71–93.
+- Artus, P. (1990), "Quand la création d'un marché à terme peut-elle déstabiliser le cours au comptant?" *Revue Économique*, Vol. 41, No. 1, pp. 71-93.
 - BIS (Bank for International Settlements) (2002), *72nd Annual Report*, Basel.
 - BIS (Bank for International Settlements) (2003), *73rd Annual Report*, Basel.
 - Bignon, V., Y. Biondi, and X. Ragot (2004), *An Economic Analysis of Fair Value: The Evolution of Accounting Principles in European Legislation*, Prisme No. 4, March, Cournot Centre for Economic Research, Paris.
-- Black, F. and M. Scholes (1973), "The pricing of options and corporate liabilities," *Journal of Political Economy*, Vol. 81, pp. 637–654.
+- Black, F. and M. Scholes (1973), "The pricing of options and corporate liabilities," *Journal of Political Economy*, Vol. 81, pp. 637-654.
 - Boyer, R. (2004), *The Future of Economic Growth*, Edward Elgar Publishing, Cheltenham, UK.
-- Boyer, R. (2007), "Assessing the impact of fair value upon financial crisis," *Socio Economic Review*, Vol. 5, No. 4, October, pp. 779–807.
+- Boyer, R. (2007), "Assessing the impact of fair value upon financial crisis," *Socio Economic Review*, Vol. 5, No. 4, October, pp. 779-807.
 - Boyer, R. (2009) "Feu le régime d'accumulation tiré par la finance: La crise des subprimes en perspective historique," *Revue de la régulation*, No. 5, 1st semester 2009, http://regulation.revues.org/index7367.html.
-- Boyer, R. (2010) "The rise of CEO pay and the contemporary social structure of accumulation in the United States," in Terrence Mc Donough, Michael Reich, and David M. Kotz, *Contemporary Capitalism and Its Crises: Social structure of accumulation theory for the 21st century*, Cambridge University Press, New York, 2010, pp. 215–238.
+- Boyer, R. (2010) "The rise of CEO pay and the contemporary social structure of accumulation in the United States," in Terrence Mc Donough, Michael Reich, and David M. Kotz, *Contemporary Capitalism and Its Crises: Social structure of accumulation theory for the 21st century*, Cambridge University Press, New York, 2010, pp. 215-238.
 - Boyer, R. (2011) *Les capitalismes face à la financiarisation et sa crise*, Fujiwara Shoten, Tokyo (in Japanese). See also "Les financiers détruiront-ils le capitalisme", Editions Economica, Paris.
 - Brock, W., C. Hommes, and F. Wagener (2006), "More hedging instruments may destabilize markets," Tinbergen Institute Discussion Paper, 080/1.
 - Debreu, G. (1959), *Théorie de la valeur*, 2nd edition, Dunod, Paris.
-- Eichengreen, B. (2003), "Les crises récentes en Turquie et en Argentine sont-elles les dernières d'une espèce en voie de disparition?" *Revue d'économie financière*, No. 70, January, pp. 51–64.
+- Eichengreen, B. (2003), "Les crises récentes en Turquie et en Argentine sont-elles les dernières d'une espèce en voie de disparition?" *Revue d'économie financière*, No. 70, January, pp. 51-64.
 - Erturk, I., J. Froud, S. Johal, A. Leaver, and K. Wiiliams (2008), *Financialization at work*, Routledge, London.
 - Garber, P. (2000), *Famous First Bubbles: The Fundamental of Early Mania*, MIT Press, Cambridge.
 
-- Gurley, J. and E. Shaw (1956), "Financial intermediaries and the saving-investment process," in M. Lewis (ed.), *Financial Intermediaries*, Edward Elgar, Reference Collection, Aldershot, UK and Brookfield, U. S., pp. 28–47.
+- Gurley, J. and E. Shaw (1956), "Financial intermediaries and the saving-investment process," in M. Lewis (ed.), *Financial Intermediaries*, Edward Elgar, Reference Collection, Aldershot, UK and Brookfield, U. S., pp. 28-47.
 - Kindleberger, C. (1978), *Manias, Panics and Crashes*, Basic Books, New York.
 - Kindleberger, C. (1994), *Histoire mondiale de la spéculation financière*, Éditions P. A. U, Paris.
-- Li, H. and B. Rosser (2001), "Emergent volatility in asset markets with heterogeneous agents," *Discrete Dynamics in Nature and Society*, Vol. 6, No. 3, pp. 171–180.
-- Mac Kenzie, D. and Y. Millo (2003), "Constructing a market, performing theory: the historical sociology of a financial derivatives exchange," *American Journal of Sociology*, Vol. 109, pp. 107–145.
-- Merton, R. (1973), "Theory of rational option pricing," *Bell Journal of Economics and Management Science*, Vol. 4, pp. 141–183.
+- Li, H. and B. Rosser (2001), "Emergent volatility in asset markets with heterogeneous agents," *Discrete Dynamics in Nature and Society*, Vol. 6, No. 3, pp. 171-180.
+- Mac Kenzie, D. and Y. Millo (2003), "Constructing a market, performing theory: the historical sociology of a financial derivatives exchange," *American Journal of Sociology*, Vol. 109, pp. 107-145.
+- Merton, R. (1973), "Theory of rational option pricing," *Bell Journal of Economics and Management Science*, Vol. 4, pp. 141-183.
 - Mistral, J., C. de Boissieu, and J.-H. Lorenzi (2003), "Les normes comptables et le monde post-Enron," *Rapport du Conseil d'Analyse Economique*, No. 42, Documentation Française, Paris.
-- Orléan, A. (1990), "Le rôle des influences interpersonnelles dans la détermination des cours boursiers," *Revue économique*, Vol. 41, pp. 839–868.
+- Orléan, A. (1990), "Le rôle des influences interpersonnelles dans la détermination des cours boursiers," *Revue économique*, Vol. 41, pp. 839-868.
 - Perkins, A. and M. Perkins (1999), *The Internet Bubble*, Harper Business, New York.
 - Polanyi, K. (1944), *The Great Transformation*, Beacon Press, Boston.
 - Rajan, R. and L. Zingales (2003), *Saving Capitalism from the Capitalists*, Random House, London.
 - Roubini, N., (2008), "Les déséquilibres planétaires précurseurs d'une nouvelle crise financière: une saga *Rashomon* contemporaine," in J.-P. Touffut (ed.), *Les banques centrales sont-elles légitimes?* Albin Michel.
-- Sapir, J. (1989), *Les fluctuations économiques en URSS, 1941–1985*, L'Ecole des hautes études en sciences sociales, Paris.
+- Sapir, J. (1989), *Les fluctuations économiques en URSS, 1941-1985*, L'Ecole des hautes études en sciences sociales, Paris.
 - Schumpeter, J. (1911), *Théorie de l'évolution économique. Recherche sur le profit, le crédit, l'intérêt et le cycle de la conjoncture*, French translation (1983), Dalloz, Paris.
 - Shefrin, H. (2000), *Beyond Greed and Fear: Understanding behavioral finance and the psychology of investing*, Boston, Harvard Business School Press.
 - Shiller, R. (2000), *Irrational Exuberance*, Princeton University Press, Princeton, NJ.
@@ -3050,7 +4362,7 @@ In order to properly contextualize the crisis of 2008 in the history of capitali
 
 When we use the word "crisis" to indicate all sorts of difficult phases in the capitalist economy, we can identify at least two types of crisis according to their degree and character. One is the *cyclical crisis*, which corresponds to the troughs of Kitchin cycles or Juglar cycles. This type of crisis is a temporary downswing phase where tensions and disequilibria accumulated during periods of expansion are wiped out. After a period of reckoning, the economy will recover quasiautomatically, and soon re-enter the prosperity phase.
 
-Another type is the *structural crisis*. In contrast with the cyclical crisis, this type of crisis imposes structural changes on the conventional economy. It is a crisis in which an economy encounters difficulties in its fundamental structure and cannot re-establish a stable growth trajectory unless the old socio-economic structure is transformed into a new one. The crisis emerges as a dysfunction of the preceding macroeconomic framework (growth regime) and/or the ensemble of complementary institutions (mode of *régulation*). The economy cannot heal itself or recover by the so-called logic of the market, and it requires a radical reformation of existing institutions and policies. In the history of capitalism, we typically observe structural crises of 10–20 years after sustainable growth of 20–30 years.
+Another type is the *structural crisis*. In contrast with the cyclical crisis, this type of crisis imposes structural changes on the conventional economy. It is a crisis in which an economy encounters difficulties in its fundamental structure and cannot re-establish a stable growth trajectory unless the old socio-economic structure is transformed into a new one. The crisis emerges as a dysfunction of the preceding macroeconomic framework (growth regime) and/or the ensemble of complementary institutions (mode of *régulation*). The economy cannot heal itself or recover by the so-called logic of the market, and it requires a radical reformation of existing institutions and policies. In the history of capitalism, we typically observe structural crises of 10-20 years after sustainable growth of 20-30 years.
 
 Thus, we can identify two types of crisis: cyclical and structural. The latter is far more important for the comprehension of historical dynamics of capitalism. In fact, capitalism has changed its growth regime and mode of *régulation* repeatedly through structural crises; it could be posited that structural crises determine the historical changes of capitalism. Unfortunately, traditional economics does not address the structural crisis at all, even if it does address the cyclical crisis.
 
@@ -3058,7 +4370,7 @@ Thus, we can identify two types of crisis: cyclical and structural. The latter i
 
 The Great Depression of the 1930s is often juxtaposed with the financial crisis of 2008. Taking these two events into account, one may say that major crises occurred twice in the past 100 years. This account, however, would not be complete, in that modern capitalism also suffered from another major crisis: the Stagflation Crisis in the 1970s. Capitalism has thus experienced three major crises in a century. Major and structural crises are never exceptional. We must therefore properly situate the contemporary crisis in the historical context of the succession of structural crises. Or, we must grasp the world history of capitalism as the alternation of growth and crisis, which will lead to a clear schematization of the historical dynamics of capitalism.
 
-Figure 9.1 focuses on "hegemonic powers" in the history of capitalism during the most recent 150–200 years, divided into four periods (Yamada 2011). Hegemonic power refers to the UK in the nineteenth century and the U. S. since the second half of the twentieth century. The first half of the twentieth century reflects a period of hegemonic transition from the UK to the U. S. (represented by U. S. in Figure 9.1). If we mention Kondratieff's long waves, each period has an upswing wave (period of durable growth) followed by a downswing wave (period of structural crisis). There are four periods of durable growth: the Victorian Prosperity (UK, in the middle of the nineteenth century), the Roaring Twenties (U. S., in the 1920s), the Golden Age of Capitalism (U. S., after World War II), and the New Economy (U. S., since the 1990s). In turn, the four periods of structural crisis are called the Great Depression *fin de siècle*, the Great Depression in the 1930s, the Stagflation Crisis in the 1970s, and the World Financial Crisis of 2008.
+Figure 9.1 focuses on "hegemonic powers" in the history of capitalism during the most recent 150-200 years, divided into four periods (Yamada 2011). Hegemonic power refers to the UK in the nineteenth century and the U. S. since the second half of the twentieth century. The first half of the twentieth century reflects a period of hegemonic transition from the UK to the U. S. (represented by U. S. in Figure 9.1). If we mention Kondratieff's long waves, each period has an upswing wave (period of durable growth) followed by a downswing wave (period of structural crisis). There are four periods of durable growth: the Victorian Prosperity (UK, in the middle of the nineteenth century), the Roaring Twenties (U. S., in the 1920s), the Golden Age of Capitalism (U. S., after World War II), and the New Economy (U. S., since the 1990s). In turn, the four periods of structural crisis are called the Great Depression *fin de siècle*, the Great Depression in the 1930s, the Stagflation Crisis in the 1970s, and the World Financial Crisis of 2008.
 
 Interpreting history through the lens of *régulation* theory, the four periods represent four development models (growth regimes and modes of *régulation*), upswing and downswing waves corresponding to the rising and declining periods of each development model. The four development models can be labeled in
 
@@ -3068,7 +4380,7 @@ Interpreting history through the lens of *régulation* theory, the four periods 
 
 chronological order: the English, Transitory, Fordist, and Finance-led Type. In short, capitalism has developed by changing its growth regime and mode of *régulation* almost every half a century. This forms the essence of the historical dynamics of capitalism.
 
-In this chapter, we focus only on the periods after World War II; discussions about the English Type and Transitory Period are skipped (cf. Boyer 1979, 2004). As shown in Figure 9.1, during the postwar period in the U. S., an economy called Fordism with mass production–mass consumption was established under a wage (and consumption)-led growth regime and a mode of *régulation* based on the capital-labor compromise. Under the new growth regime, high productivity gains in the manufacturing sector were the driving force of the economy (Figure 9.2). Productivity gains were distributed not only as profits but also in the form of real wage hikes. Real wage hikes, in turn, stimulate individual consumption demand for products such as electrical appliances, cars, and houses. Increased levels of consumption also lead to more investment. The increased level of investment, coupled with consumption, leads to an increase in aggregate demand, that is, to economic growth on the one hand and productivity gains on the other. The resulting growth of GDP leads to further productivity gains via improved economies of scale. This chain of events, often referred to as a macroeconomic virtuous causation circle (productivity–wages–consumption– investment–demand–productivity), codified a growth regime characterized by mass production–mass consumption. A growth regime that is led not by profit and investment but by wages and consumption was established for the first time in the history of capitalism. This growth model not only continued for nearly 30 years in the U. S. but also spread, more or less, to other advanced capitalist countries. This macroeconomic configuration of postwar durable growth is often referred to as "Fordism" (Aglietta 1979) or the "Golden Age of Capitalism" (Marglin and Schor 1990).
+In this chapter, we focus only on the periods after World War II; discussions about the English Type and Transitory Period are skipped (cf. Boyer 1979, 2004). As shown in Figure 9.1, during the postwar period in the U. S., an economy called Fordism with mass production-mass consumption was established under a wage (and consumption)-led growth regime and a mode of *régulation* based on the capital-labor compromise. Under the new growth regime, high productivity gains in the manufacturing sector were the driving force of the economy (Figure 9.2). Productivity gains were distributed not only as profits but also in the form of real wage hikes. Real wage hikes, in turn, stimulate individual consumption demand for products such as electrical appliances, cars, and houses. Increased levels of consumption also lead to more investment. The increased level of investment, coupled with consumption, leads to an increase in aggregate demand, that is, to economic growth on the one hand and productivity gains on the other. The resulting growth of GDP leads to further productivity gains via improved economies of scale. This chain of events, often referred to as a macroeconomic virtuous causation circle (productivity-wages-consumption- investment-demand-productivity), codified a growth regime characterized by mass production-mass consumption. A growth regime that is led not by profit and investment but by wages and consumption was established for the first time in the history of capitalism. This growth model not only continued for nearly 30 years in the U. S. but also spread, more or less, to other advanced capitalist countries. This macroeconomic configuration of postwar durable growth is often referred to as "Fordism" (Aglietta 1979) or the "Golden Age of Capitalism" (Marglin and Schor 1990).
 
 This growth regime could continue by setting up new institutions and a new mode of *régulation.* In the postwar era, many new institutions were set up:
 
@@ -3078,7 +4390,7 @@ This growth regime could continue by setting up new institutions and a new mode 
 
 collective bargaining system, minimum wage system, social security system, managed currency system, consumer loan system, and stable international economic system like the IMF and GATT. Among these institutions, the most decisive moment was the establishment of a capital-labor compromise through collective bargaining: a compromise between the acceptance of Taylorist simple labor by workers and the provision of productivity-indexed wages by managers. Capital and labor, even if traditionally antagonistic in nature, became allies on this crucial point. Workers accepted Taylorism to embrace the Fordist mass production system; in exchange, managers did not monopolize productivity gains but allocated them to wage hikes. Thus, the capital-labor alliance consisted of *the acceptance of Taylorism in exchange for the provision of productivityindexed wages* coordinated and navigated an economy led by wages and consumption. This "grand bargain" between labor and management piloted a new development model called Fordism.
 
-Fordism, however, soon found itself embroiled in a structural crisis. After the onset of numerous events – the Nixon Shock (Nixon's decision to take the U. S. off the gold standard), oil shocks, and Stagflation in the 1970s – governments began to adopt neo-liberal policies in the 1980s. Behind those events, there was a falling down of the Fordist growth regime and mode of *régulation.* First, the workers no longer accepted the Taylorist production method that imposed on them an increased intensification and fragmentation of labor. Workers, having gained access to mass production goods, demanded more diversified consumption goods and services. These are impossible to produce under the Fordist technology that focuses on a single kind of product. This resulted in a dysfunction of the productivity gain mechanism. Second, the success of Fordist industries catalyzed higher levels of urbanization; that, in turn, drove higher demand for services and benefits in education, medical care, retirement, etc., that were impossible to cope with via Fordist wages indexed to productivity. This represented a dysfunction of the productivity distribution mechanism. The mode of *régulation* based on the capital-labor alliance collapsed, as did the growth regime led by wages and consumption.
+Fordism, however, soon found itself embroiled in a structural crisis. After the onset of numerous events - the Nixon Shock (Nixon's decision to take the U. S. off the gold standard), oil shocks, and Stagflation in the 1970s - governments began to adopt neo-liberal policies in the 1980s. Behind those events, there was a falling down of the Fordist growth regime and mode of *régulation.* First, the workers no longer accepted the Taylorist production method that imposed on them an increased intensification and fragmentation of labor. Workers, having gained access to mass production goods, demanded more diversified consumption goods and services. These are impossible to produce under the Fordist technology that focuses on a single kind of product. This resulted in a dysfunction of the productivity gain mechanism. Second, the success of Fordist industries catalyzed higher levels of urbanization; that, in turn, drove higher demand for services and benefits in education, medical care, retirement, etc., that were impossible to cope with via Fordist wages indexed to productivity. This represented a dysfunction of the productivity distribution mechanism. The mode of *régulation* based on the capital-labor alliance collapsed, as did the growth regime led by wages and consumption.
 
 ### *Growth and crisis of the finance-led model*
 
@@ -3086,7 +4398,7 @@ In the midst of the Fordist crisis since the 1970s, the U. S. initially adopted 
 
 Figure 9.3 shows a stylized schematization of the finance-led development model (Aglietta 1998; Boyer 2000; Yamada 2008). As a growth regime, the model's driving force is the increase of asset prices (stock and housing prices) that leads to an increase of financial returns (income and capital gains). Increased financial returns, through the asset effect and facilitated with easy accessibility to credit by households (e.g., subprime loans), stimulate consumption. Firm investment is driven by decreased financing costs that follow from high stock prices. At the same time, it must be noted that the high return requirements of financial circles may lead to limited investment. If aggregate demand consists of only two components, consumption and investment, the increase of consumption and investment means that of aggregate demand (i.e., economic growth), and it leads to higher profits for firms. Higher profit levels bring a self-fulfilling expectation of further profits that drives higher asset prices.
 
-By thus establishing a virtuous loop (asset prices – financial returns/investment – consumption – demand – profits – asset prices), the American economy experienced a revival for about 20 years centered on the year 2000. In this finance-led model, compared with the previous Fordist one, higher asset prices served as the main driving force rather than productivity gains. The growth regime is no longer led by wages, but by financial returns.
+By thus establishing a virtuous loop (asset prices - financial returns/investment - consumption - demand - profits - asset prices), the American economy experienced a revival for about 20 years centered on the year 2000. In this finance-led model, compared with the previous Fordist one, higher asset prices served as the main driving force rather than productivity gains. The growth regime is no longer led by wages, but by financial returns.
 
 A new macroeconomic loop requires an original mode of *régulation* that has to navigate and coordinate the loop. In Figures 9.1 and 9.3, the new mode of *régulation* is marked as "stockholder sovereignty type." It is equivalent to socalled corporate governance, particularly by stockholders. Under this keyword "corporate governance," one has established an institutional apparatus that connects the increase of asset prices to the increase of financial returns, leading to a domination of management by finance. Moreover, the formation of a stock
 
@@ -3122,7 +4434,7 @@ The Varieties of Capitalism (VOC) is a well-known comparative analytical approac
 
 The VOC approach had a strong impact in that it proposed, based on the comparative approach, a spatial configuration of advanced capitalist countries in a simple two-type classification. This is why the approach has wielded sharp criticism against the convergence view. However, this analytical framework also has numerous problems. First, do Germany, Sweden, and Japan, which were grouped in the same category, really have identical economic systems? Second, given that France and Italy are classified as neither LMEs nor CMEs, is the typology that regards these two powers as exceptions or intermediate cases sound and valid? To respond to these questions, Amable (2003) presented a full analysis from a point of view of the *régulation* approach.
 
-Here, we summarize only his core conclusions. Concerning the main OECD countries at the end of the 1990s, he distinguishes five types of capitalism: the Market-based, Asian, Continental European, Social-democratic and Mediterranean models. After qualitative analyses of each model's institutional characteristicsandtheinstitutionalcomplementaritybetweenfiveinstitutionalareas–product market, labor market, finance, welfare, and education – he proceeds to a quantitative analyses, represented in Figure 9.4. This figure shows that countries that
+Here, we summarize only his core conclusions. Concerning the main OECD countries at the end of the 1990s, he distinguishes five types of capitalism: the Market-based, Asian, Continental European, Social-democratic and Mediterranean models. After qualitative analyses of each model's institutional characteristicsandtheinstitutionalcomplementaritybetweenfiveinstitutionalareas-product market, labor market, finance, welfare, and education - he proceeds to a quantitative analyses, represented in Figure 9.4. This figure shows that countries that
 
 ## ![](_page_205_Figure_2.jpeg)
 
@@ -3147,24 +4459,302 @@ According to Amable, these five types of capitalism did not substantially change
 
 We have hitherto analyzed typologies focusing on advanced capitalist economies as well as the configurations of economic diversity previous to the world financial crisis of 2008. The crisis spread from the LMEs to the CMEs, if we use the VOC's concepts; or from the Market-based capitalism to the Asian, Continental European, Social-democratic, and Mediterranean ones in Amable's terminology, thus developing into a literal socio-economic crisis. The crisis spread not only to almost all advanced countries, but also to the middle and less developed ones, that is, all over the world.
 
-Through the crisis, one can discern not a little sign of the changes in the configuration of the world economy. First, U. S. President Barack Obama, with the help of Congress, eschewed financial liberalization in favor of a more robust regulatory framework by signing the Dodd–Frank Wall Street Reform and Consumer Protection Act of 2010. Second, the sovereign debt crisis of Greece, and of other southern European countries in recent years, brings into focus the fragile nature of the Mediterranean type of capitalism, while Ireland, Iceland, and some central-east European countries that have a great deal of debt in foreign currency have acceded to crisis. All these have resulted in the difficulties of the Eurozone economy. Third, the relative position of the advanced capitalist countries has declined; none can cope alone with economic crises any more without cooperation from the emerging and main petroleum exporting countries (e.g., of the BRICs). This new dynamic was seen in the expansion of global economic organizations to include emerging economies, as well as the traditional industrialized economies to include emerging economies, as in the case where the G7 was expanded to the G20.
+Through the crisis, one can discern not a little sign of the changes in the configuration of the world economy. First, U. S. President Barack Obama, with the help of Congress, eschewed financial liberalization in favor of a more robust regulatory framework by signing the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010. Second, the sovereign debt crisis of Greece, and of other southern European countries in recent years, brings into focus the fragile nature of the Mediterranean type of capitalism, while Ireland, Iceland, and some central-east European countries that have a great deal of debt in foreign currency have acceded to crisis. All these have resulted in the difficulties of the Eurozone economy. Third, the relative position of the advanced capitalist countries has declined; none can cope alone with economic crises any more without cooperation from the emerging and main petroleum exporting countries (e.g., of the BRICs). This new dynamic was seen in the expansion of global economic organizations to include emerging economies, as well as the traditional industrialized economies to include emerging economies, as in the case where the G7 was expanded to the G20.
 
 With these challenges, the world economy is now seemingly more and more diversified. One can easily grasp the remarkable diversity of each country's growth strategy by simply glancing over METI (2010). From Table 9.1, especially in the right-hand column, we can easily identify the leading sector or the strategic factor of demand. Finance is the main driver of the UK economy (and, needless to say, the U. S. economy). Exports are the main driver of Germany, Sweden, Korea, and Singapore (not to mention Japan). France and the U. S. are
 
 *Table 9.1* Economic growth models in major countries
 
-| Country | Economic<br>growth<br>model | Leading<br>factor |
+| Country | Economic
+growth
+model | Leading
+factor |
 |----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------|
-| UK | It<br>grows<br>while<br>gathering<br>enterprise,<br>money,<br>and<br>people<br>from<br>around<br>the<br>world.<br>It<br>has<br>a<br>background<br>in<br>the<br>additional<br>value<br>of<br>a<br>financial<br>system<br>that<br>grows<br>high-level<br>investment. | Finance |
-| USA | The<br>US<br>economy<br>has<br>developed<br>and<br>activated<br>innovation<br>by<br>bringing<br>in<br>people<br>and<br>money<br>from<br>around<br>the<br>world,<br>because<br>its<br>economy<br>is<br>led<br>by<br>domestic<br>demand<br>and<br>personal<br>consumption.<br>This<br>is<br>supported<br>in<br>order<br>to<br>continue<br>to<br>grow<br>the<br>US<br>population. | (Finance)<br>Consumption |
-| France | It<br>achieves<br>growth<br>through<br>a<br>balanced<br>industrial<br>structure<br>that<br>it<br>is<br>supported<br>by<br>reliable<br>domestic<br>demand<br>based<br>mainly<br>on<br>personal<br>consumption. | Consumption |
-| Germany | It<br>grows<br>as<br>a<br>part<br>of<br>the<br>EU<br>market<br>because<br>of<br>the<br>stimulus<br>to<br>export<br>through<br>decreases<br>in<br>labor<br>cost<br>and<br>productivity<br>enhancement. | Export |
-| Sweden | This<br>is<br>society<br>of<br>high<br>welfare<br>and<br>high<br>load<br>that<br>achieves<br>high-level<br>education<br>and<br>political<br>transparency,<br>a<br>flexible<br>labor<br>market,<br>technological<br>innovations<br>and<br>growth<br>by<br>foreign<br>capital. | Export |
-| South<br>Korea | Export-led<br>growth<br>by<br>concentrating<br>technological<br>development<br>and<br>marketing<br>aimed<br>at<br>the<br>overseas<br>market,<br>mainly<br>in<br>IT,<br>vehicles<br>and<br>the<br>steel<br>industry. | Export |
-| Singapore | The<br>connection<br>with<br>the<br>world<br>economy<br>is<br>widely<br>secured<br>by<br>a<br>multi-directional<br>free<br>trade<br>system,<br>and<br>it<br>grows<br>through<br>external<br>demand<br>for<br>its<br>added-profit<br>trade. | Export |
-| China | It<br>has<br>stimulated<br>growth<br>and<br>investment<br>through<br>high<br>savings<br>and<br>the<br>expansion<br>of<br>technology<br>transfer<br>and<br>trade,<br>and<br>the<br>introduction<br>of<br>foreign<br>capital<br>by<br>a<br>policy<br>of<br>gradually<br>opening<br>up<br>to<br>foreign<br>business. | Investment<br>Export |
-| India | Steady<br>domestic<br>demand<br>through<br>a<br>huge<br>population,<br>and<br>growth<br>through<br>the<br>export<br>of<br>the<br>IT<br>service<br>industry<br>that<br>it<br>is<br>supported<br>by<br>high-level<br>education. | Domestic<br>demand<br>Export |
-| Brazil | Good<br>domestic<br>demand<br>through<br>the<br>control<br>of<br>inflation<br>and<br>rising<br>disposable<br>income,<br>and<br>it<br>grows<br>with<br>a<br>diverse<br>industrial<br>structure<br>through<br>investment<br>in<br>a<br>wide<br>field,<br>including<br>export<br>and<br>service<br>industries,<br>resources,<br>and<br>industrial<br>goods. | Domestic<br>demand<br>Export |
+| UK | It
+grows
+while
+gathering
+enterprise,
+money,
+and
+people
+from
+around
+the
+world.
+It
+has
+a
+background
+in
+the
+additional
+value
+of
+a
+financial
+system
+that
+grows
+high-level
+investment. | Finance |
+| USA | The
+US
+economy
+has
+developed
+and
+activated
+innovation
+by
+bringing
+in
+people
+and
+money
+from
+around
+the
+world,
+because
+its
+economy
+is
+led
+by
+domestic
+demand
+and
+personal
+consumption.
+This
+is
+supported
+in
+order
+to
+continue
+to
+grow
+the
+US
+population. | (Finance)
+Consumption |
+| France | It
+achieves
+growth
+through
+a
+balanced
+industrial
+structure
+that
+it
+is
+supported
+by
+reliable
+domestic
+demand
+based
+mainly
+on
+personal
+consumption. | Consumption |
+| Germany | It
+grows
+as
+a
+part
+of
+the
+EU
+market
+because
+of
+the
+stimulus
+to
+export
+through
+decreases
+in
+labor
+cost
+and
+productivity
+enhancement. | Export |
+| Sweden | This
+is
+society
+of
+high
+welfare
+and
+high
+load
+that
+achieves
+high-level
+education
+and
+political
+transparency,
+a
+flexible
+labor
+market,
+technological
+innovations
+and
+growth
+by
+foreign
+capital. | Export |
+| South
+Korea | Export-led
+growth
+by
+concentrating
+technological
+development
+and
+marketing
+aimed
+at
+the
+overseas
+market,
+mainly
+in
+IT,
+vehicles
+and
+the
+steel
+industry. | Export |
+| Singapore | The
+connection
+with
+the
+world
+economy
+is
+widely
+secured
+by
+a
+multi-directional
+free
+trade
+system,
+and
+it
+grows
+through
+external
+demand
+for
+its
+added-profit
+trade. | Export |
+| China | It
+has
+stimulated
+growth
+and
+investment
+through
+high
+savings
+and
+the
+expansion
+of
+technology
+transfer
+and
+trade,
+and
+the
+introduction
+of
+foreign
+capital
+by
+a
+policy
+of
+gradually
+opening
+up
+to
+foreign
+business. | Investment
+Export |
+| India | Steady
+domestic
+demand
+through
+a
+huge
+population,
+and
+growth
+through
+the
+export
+of
+the
+IT
+service
+industry
+that
+it
+is
+supported
+by
+high-level
+education. | Domestic
+demand
+Export |
+| Brazil | Good
+domestic
+demand
+through
+the
+control
+of
+inflation
+and
+rising
+disposable
+income,
+and
+it
+grows
+with
+a
+diverse
+industrial
+structure
+through
+investment
+in
+a
+wide
+field,
+including
+export
+and
+service
+industries,
+resources,
+and
+industrial
+goods. | Domestic
+demand
+Export |
 
 Source: Extracted from METI (2010); right-hand column added by author.
 
@@ -3172,7 +4762,7 @@ led by individual consumption, China by investment and export, India by domestic
 
 However, Table 9.1 shows only the variety in each country's growth strategy. It does not show the opposition and correlation among strategies, or the spatial structure of the world economy. In this respect, Boyer (2011) proposes seven types of economic model as the main components of the world economic space: dominant financier, industrialist, developmentalist, rentier, hybrid/disarticulated, dependent financier, and pre-industrial economies (Figure 9.5). From Figure 9.5, one can conceive the spatial configuration of today's world economy as confrontation and complementarity between the seven types of growth model through finance, investment, trade, migration, and geopolitics. Each economic model has its proper policy targets and concerns, and thus has different and opposing interests. For example, the dominant financier type, providing global financial intermediation, promotes its interests through greater financial liberalization/ innovation and the least-possible level of regulation. The industrialist type relies on technological innovation and exports, supplying high quality manufactured products to the world. The industrialist demands a more open economy and greater financial stability. The rentier type also exports raw materials (such as petroleum) and invests the rent (savings) in other countries; financial stability is also a concern. The developmentalist type of continental economies exports commodities and invests savings in foreign countries; this type attaches the most importance to national growth and industrial specialization. The hybrid/disarticulated, dependent financier, and pre-industrial types are sub-players; they are more or less subordinated to the other four types.
 
-As suggested by Figure 9.5, the contemporary world economic space is not merely characterized by relations of confrontation and complementarity between and among different types of growth models; it is also subsumed in a hierarchical structure or a world domination–subordination structure. Concerning these differentiated structures, one has often understood them as being synonymous with the concepts of "core–semiperiphery–periphery" (Wallerstein 2004). However, these concepts may ultimately lead to a static and fixed picture of world history, which fails to grasp an underlying geopolitical dynamism from periphery to semiperiphery, from semiperiphery to core, and vice versa. To overcome this defect and understand the dynamics in space of the world economy, the concept of "strategic area" (Mistral 1986), once proposed by the *régulation* school, should be used in place of the concept of "semiperiphery."
+As suggested by Figure 9.5, the contemporary world economic space is not merely characterized by relations of confrontation and complementarity between and among different types of growth models; it is also subsumed in a hierarchical structure or a world domination-subordination structure. Concerning these differentiated structures, one has often understood them as being synonymous with the concepts of "core-semiperiphery-periphery" (Wallerstein 2004). However, these concepts may ultimately lead to a static and fixed picture of world history, which fails to grasp an underlying geopolitical dynamism from periphery to semiperiphery, from semiperiphery to core, and vice versa. To overcome this defect and understand the dynamics in space of the world economy, the concept of "strategic area" (Mistral 1986), once proposed by the *régulation* school, should be used in place of the concept of "semiperiphery."
 
 According to Mistral, for a particular "international regime" to prevail, a strong, hegemonic power is needed so that many countries adhere to the regime and will be incorporated complementarily into "differentiated economic spaces." The dominant economy, then, does not simply subordinate other countries to it, but provides opportunities to the rest of the world for dynamism in capital accumulation. The question is whether the rest of the world can make better use of the possibility of dynamic accumulation or not; it also depends on the historical conditions unique to each country. Mistral refers to the "strategic area" as an
 
@@ -3182,19 +4772,79 @@ According to Mistral, for a particular "international regime" to prevail, a stro
 
 area that transforms this possibility into actuality and extracts substantial profit from the development of the core economy. For classical examples of the strategic area, he cites Germany in the age of Bismarck and Meiji Japan. Strategic area countries often emerge on the scene during the era of structural crisis of the development model of hegemonic power.
 
-It will be convenient to insert this concept of strategic area into the core– periphery framework to understand the spatial dynamics of capitalism. In current parlance, the strategic area is sometimes referred to as "newly industrializing economies" or "emerging market economies." It may become a "challenging country" in respect to (or against) the hegemonic country. As countries that constitute the core change throughout history, countries constituting the strategic area also change. In this sense, strategic area countries obey not only the "logic of adhesion" to the map of the international division of labor, but also the "logic of eviction" from it. Though this is only a preliminary hypothesis, we can obtain Table 9.2 if we sketch the spatial configuration of each period of capitalism from this point of view.
+It will be convenient to insert this concept of strategic area into the core- periphery framework to understand the spatial dynamics of capitalism. In current parlance, the strategic area is sometimes referred to as "newly industrializing economies" or "emerging market economies." It may become a "challenging country" in respect to (or against) the hegemonic country. As countries that constitute the core change throughout history, countries constituting the strategic area also change. In this sense, strategic area countries obey not only the "logic of adhesion" to the map of the international division of labor, but also the "logic of eviction" from it. Though this is only a preliminary hypothesis, we can obtain Table 9.2 if we sketch the spatial configuration of each period of capitalism from this point of view.
 
-As shown in Table 9.2, capitalism has changed over the past 150–200 years, with the alternation of development models, constituent strategic area countries, and the dynamics in space of the world economy. At the beginning of the twenty-first century, the "core" of the world economic space is occupied by North America, Western Europe, and Japan. The development models of many of these countries are finance-led and/or export-led. Or, if we use Boyer's terms, these are dominant financier and industrialist types. Countries that constitute the
+As shown in Table 9.2, capitalism has changed over the past 150-200 years, with the alternation of development models, constituent strategic area countries, and the dynamics in space of the world economy. At the beginning of the twenty-first century, the "core" of the world economic space is occupied by North America, Western Europe, and Japan. The development models of many of these countries are finance-led and/or export-led. Or, if we use Boyer's terms, these are dominant financier and industrialist types. Countries that constitute the
 
 *Table 9.2* Differentiated world economic space in historical changes
 
-| Emblematic<br>year<br>Peak | 1873 | 1929 | 1973 | 2008 |
+| Emblematic
+year
+Peak | 1873 | 1929 | 1973 | 2008 |
 |-----------------------------------------------|--------------------------------------|-------------------------------------------------|------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | | | 1896 | 1939 | 1991 |
-| Hegemon<br>and<br>its<br>development<br>model | UK<br>English<br>type | UK→USA<br>(Transitory<br>type) | USA<br>Fordist<br>type | USA<br>Finance-led<br>type |
-| Core | UK,<br>France,<br>USA | UK,<br>USA,<br>France,<br>Germany | North<br>America,<br>Western<br>Europe,<br>Japan | North<br>America,<br>EU15,<br>Japan |
-| Strategic<br>area | Germany,<br>Japan | | NIES,<br>ASEAN | BRICs<br>(esp.<br>China) |
-| Periphery | Asia,<br>Africa,<br>Latin<br>America | Asia,<br>Africa,<br>LA<br>(except<br>Argentina) | Asia<br>(except<br>NIES<br>and<br>ASEAN),<br>Africa,<br>LA | Asia<br>(except<br>NIES,<br>ASEAN,<br>India<br>and<br>China),<br>Africa<br>(except<br>South<br>Africa),<br>LA<br>(except<br>Brazil),<br>CIS<br>(except<br>Russia) |
+| Hegemon
+and
+its
+development
+model | UK
+English
+type | UK→USA
+(Transitory
+type) | USA
+Fordist
+type | USA
+Finance-led
+type |
+| Core | UK,
+France,
+USA | UK,
+USA,
+France,
+Germany | North
+America,
+Western
+Europe,
+Japan | North
+America,
+EU15,
+Japan |
+| Strategic
+area | Germany,
+Japan | | NIES,
+ASEAN | BRICs
+(esp.
+China) |
+| Periphery | Asia,
+Africa,
+Latin
+America | Asia,
+Africa,
+LA
+(except
+Argentina) | Asia
+(except
+NIES
+and
+ASEAN),
+Africa,
+LA | Asia
+(except
+NIES,
+ASEAN,
+India
+and
+China),
+Africa
+(except
+South
+Africa),
+LA
+(except
+Brazil),
+CIS
+(except
+Russia) |
 
 Emblematic years and development models correspond to those of Figure 9.1.
 
@@ -3204,11 +4854,11 @@ Emblematic years and development models correspond to those of Figure 9.1.
 
 We have examined above the dynamic of capitalism from the perspective of the dimensions of time and space. This dynamic was understood via a synthesis of two angles: the *structural change* of the socio-economy that is made up of an epoch by the structural crisis, and the *diversity* of the world economy that is elucidated by the comparative approach. As mentioned at the beginning of this chapter, the *régulation* school has established the core question to be solved as the "variability of economic and social dynamics in time and space" (Boyer 1990). This question is answered first by the above analysis of the socioeconomy from the viewpoint of its *structural change* and *diversity*.
 
-However, these two angles alone are not sufficient to understand the basic movement of world history. In fact, the analysis of structural change is apt to end in a depiction of only one country, insofar as it is an analysis of growth regimes and development models. On the other hand, the analysis of diversity, insofar as it remains an attempt at typology and the comparison of types of growth, does not address the dynamics between numerous different economic types: relationships between hegemonic and challenging countries, core– periphery relationships and their changes, and relationships of confrontation and complementarity among economic types.
+However, these two angles alone are not sufficient to understand the basic movement of world history. In fact, the analysis of structural change is apt to end in a depiction of only one country, insofar as it is an analysis of growth regimes and development models. On the other hand, the analysis of diversity, insofar as it remains an attempt at typology and the comparison of types of growth, does not address the dynamics between numerous different economic types: relationships between hegemonic and challenging countries, core- periphery relationships and their changes, and relationships of confrontation and complementarity among economic types.
 
-Here, we must note that the ensemble of structural change and dynamics among different economic types gives a particular rhythmic movement to each epoch of world history. That is, through the intermediation of structural change, dynamics among economic types, and also economic policy thought – including the ideological current of the times – there emerges in world history a sort of *trend* (and its swing) of a preferred economic model (Yamada 2008). Not to mention the classical pattern observed by Pirenne (1914), that in historical capitalism since the twelfth century, a surprising regularity has occurred, in which "the phases of economic freedom and of economic regulation have succeeded each other." Arrighi (1994) also pointed out the trend alternation of epochs of material expansion with those of financial rebirth and expansion. Thus, the trend and its historical swing are a widely acknowledged phenomenon.
+Here, we must note that the ensemble of structural change and dynamics among different economic types gives a particular rhythmic movement to each epoch of world history. That is, through the intermediation of structural change, dynamics among economic types, and also economic policy thought - including the ideological current of the times - there emerges in world history a sort of *trend* (and its swing) of a preferred economic model (Yamada 2008). Not to mention the classical pattern observed by Pirenne (1914), that in historical capitalism since the twelfth century, a surprising regularity has occurred, in which "the phases of economic freedom and of economic regulation have succeeded each other." Arrighi (1994) also pointed out the trend alternation of epochs of material expansion with those of financial rebirth and expansion. Thus, the trend and its historical swing are a widely acknowledged phenomenon.
 
-Taking the most recent 150–200 years of capitalism into consideration, a trend of marketization under economic liberalization prevailed from the nineteenth century to the 1920s: the age of free competition or the "self-regulating market" (Polanyi 1944). From the 1930s to 1960s, socialization or institutionalization that attempted to control the market succeeded this age. This trend was called the "self-protection of society" (ibid.), and was symbolically represented by the New Deal in the 1930s and Keynesianism after World War II. Since the 1970s, after the collapse of Keynesian economic policies, the trend of marketization was revived under the banner of neo-liberalism; globalization and financial liberalization were its symbolic expression. The final destination of this marketization trend was none other than the world financial crisis of 2008. Today, nearly four years after the financial crisis, is the trend of our times again turning into one of social institutionalization? If Polanyi called the historical turn from economic liberalization to the self-protection of society in the 1930s "the great transformation," are we currently witnessing the "second great transformation"?
+Taking the most recent 150-200 years of capitalism into consideration, a trend of marketization under economic liberalization prevailed from the nineteenth century to the 1920s: the age of free competition or the "self-regulating market" (Polanyi 1944). From the 1930s to 1960s, socialization or institutionalization that attempted to control the market succeeded this age. This trend was called the "self-protection of society" (ibid.), and was symbolically represented by the New Deal in the 1930s and Keynesianism after World War II. Since the 1970s, after the collapse of Keynesian economic policies, the trend of marketization was revived under the banner of neo-liberalism; globalization and financial liberalization were its symbolic expression. The final destination of this marketization trend was none other than the world financial crisis of 2008. Today, nearly four years after the financial crisis, is the trend of our times again turning into one of social institutionalization? If Polanyi called the historical turn from economic liberalization to the self-protection of society in the 1930s "the great transformation," are we currently witnessing the "second great transformation"?
 
 To fully understand capitalist dynamics, a new conceptual apparatus of *trend* (and its turn) is needed in addition to those of structural change and diversity. The dynamics of capitalism in time and space should be grasped from the angle of *trend turns that incorporate structural changes and diversities*.
 
@@ -3218,7 +4868,7 @@ To fully understand capitalist dynamics, a new conceptual apparatus of *trend* (
 - Aglietta, M. (1998) "Le capitalisme de demain," *Note de la Fondation Saint-Simon*, no. 101.
 - Amable, B. (2003) *The Diversity of Modern Capitalism*, Oxford: Oxford University Press.
 - Arrighi, G. (1994) *The Long Twentieth Century*, London and New York: Verso.
-- Boyer, R. (1979) "La crise actuelle: Une mise en perspective historique," *Critiques de l'économie politique*, nos. 7–8.
+- Boyer, R. (1979) "La crise actuelle: Une mise en perspective historique," *Critiques de l'économie politique*, nos. 7-8.
 - Boyer, R. (1990) *The Regulation School: A Critical Introduction*, New York: Columbia University Press.
 - Boyer, R. (2000) "Is a Finance-led Growth Regime a Viable Alternative to Fordism? A Preliminary Analysis," *Economy and Society*, 29(1).
 - Boyer, R. (2004) *Théorie de la régulation, 1. Les fondamentaux*, Paris: La Découverte.
@@ -3228,7 +4878,7 @@ To fully understand capitalist dynamics, a new conceptual apparatus of *trend* (
 - CNN Money (2008) "Greenspan: It's a 'credit tsunami'." Online. Available at: http:// money.cnn.com/2008/10/23/news/economy/committee\_regulatory/index.htm.
 - Hall, P. and D. Soskice (eds) (2001) *Varieties of Capitalism: The Institutional Foundations of Comparative Advantages*, Oxford: Oxford University Press.
 - Marglin, S. A. and J. B. Schor (eds) (1990) *The Golden Age of Capitalism: Reinterpreting the Postwar Experience*, Oxford: Oxford University Press.
-- METI (2010) *White Paper on International Economy and Trade 2010*. Online. Available at: www.meti.go.jp/english/report/downloadfiles/2010White Paper/3–1–3.pdf.
+- METI (2010) *White Paper on International Economy and Trade 2010*. Online. Available at: www.meti.go.jp/english/report/downloadfiles/2010White Paper/3-1-3.pdf.
 - Mistral, J. (1986) "Régime international et trajectories nationales," in R. Boyer (ed.), *Capitalismes fin de siècle*, Paris: Presses Universitaires de France.
 - Orléan, A. (1999) *Le pouvoir de la finance*, Paris: Odile Jacob.
 - Pirenne, H. (1914) "Stages in the Social History of Capitalism," *American Historical Review*, 19(3).
@@ -3260,9 +4910,9 @@ The following subsections make explicit our general historical framework of anal
 
 Central to Marx's interpretation of history is the distinction between various modes of production. Underlying this periodization is the broad historical dynamic of productive forces and relations of production. This dynamic is *permanent*, that is, not interrupted during the course of a specific mode of production, here capitalism. Marx elaborates on the broad notion of the increasing social character of production. This transformation is expressed in the growing sophistication of production and the complexification of the network of interrelations. These relationships are manifest within enterprises (where they reached a high degree of development), as well as at the level of the society as a whole and gradually more, around the globe.
 
-The transformations of enterprises – concerning technology and organization, and correspondingly the size of units of production – and the extension of markets during the nineteenth century in the United States were preparing radical institutional changes. The institutions in which the ownership of the means of production is expressed were transformed, marking a major break in the history of capitalism, which we denote as the entrance into "modern capitalism." The sudden wave of incorporation around 1900 is known as the corporate revolution. The revolution of financial institutions refers to the emergence of a new banking system (of the Morgans, Rockefellers, and the like) directly involved in the financing of the emerging large corporations, backing the wave of incorporation. The phrase "managerial revolution" is used to denote the third aspect, the transfer of the traditional tasks of the active capitalist to salaried staffs of managerial and clerical/commercial personnel.
+The transformations of enterprises - concerning technology and organization, and correspondingly the size of units of production - and the extension of markets during the nineteenth century in the United States were preparing radical institutional changes. The institutions in which the ownership of the means of production is expressed were transformed, marking a major break in the history of capitalism, which we denote as the entrance into "modern capitalism." The sudden wave of incorporation around 1900 is known as the corporate revolution. The revolution of financial institutions refers to the emergence of a new banking system (of the Morgans, Rockefellers, and the like) directly involved in the financing of the emerging large corporations, backing the wave of incorporation. The phrase "managerial revolution" is used to denote the third aspect, the transfer of the traditional tasks of the active capitalist to salaried staffs of managerial and clerical/commercial personnel.
 
-Class patterns were correspondingly transformed. An important outcome was the emergence of a new bourgeoisie at a distance from production, whose ownership of the means of production was supported by the holding of securities, such as stock shares and bonds, giving to this ownership a financial character. In the managerial revolution, a strongly hierarchical division of tasks (a "polarization") occurred, with a concentration of initiative, power, and income among managers, and execution among lower ranking employees. The emergence of these new intermediate classes – managers and other employees – defined the class pattern typical of modern capitalism to the present. We denote capitalist and managerial classes as "upper classes," and clerical/commercial employees and production workers, as "popular classes."
+Class patterns were correspondingly transformed. An important outcome was the emergence of a new bourgeoisie at a distance from production, whose ownership of the means of production was supported by the holding of securities, such as stock shares and bonds, giving to this ownership a financial character. In the managerial revolution, a strongly hierarchical division of tasks (a "polarization") occurred, with a concentration of initiative, power, and income among managers, and execution among lower ranking employees. The emergence of these new intermediate classes - managers and other employees - defined the class pattern typical of modern capitalism to the present. We denote capitalist and managerial classes as "upper classes," and clerical/commercial employees and production workers, as "popular classes."
 
 One of our theses concerning the course of history is that the progress of coordination involved in the three revolutions above commanded the rise of managerial classes. The relationship between capitalist owners and managers, thus, became a central political issue. We even contend that the continuation of the same dynamic could determine the transition to a new managerial mode of production, beyond the rule of capitalist owners.
 
@@ -3270,7 +4920,7 @@ One of our theses concerning the course of history is that the progress of coord
 
 The emergence of modern capitalism was the result of continuous underlying trends, but the changes were precipitated by the major crisis that occurred in the United States during the 1890s. This crisis was the first of four successive structural crises. The second, the Great Depression, is better known. The third was the crisis of the 1970s, with the slowing down of accumulation and the wave of inflation. The fourth one is the current crisis of neoliberalism. One can note the periodic character of such breaks, about every 30 or 40 years, although it is difficult to tell the origins of this regular pattern.
 
-Both the crises of the 1890s and 1970s followed periods of declining profit rates. They can be denoted as "profitability crises," manifest, respectively, in a competitive war and a wave of inflation. The Great Depression and the current crisis are not profitability crises. Capitalist classes dramatically pushed forward basic economic mechanisms – as in financialization and globalization (in both of which deregulation is involved) – in directions supportive of the rise of their income and wealth. They were very successful in this endeavor within a time frame of two or three decades. But, as Marx and Engels had described in the *Manifesto*, they behaved as apprentice "sorcerers," at some point, losing control of their own magic. We denote such crises as "crises of financial hegemony" (in reference to Finance, defined as capitalist classes and financial institutions).
+Both the crises of the 1890s and 1970s followed periods of declining profit rates. They can be denoted as "profitability crises," manifest, respectively, in a competitive war and a wave of inflation. The Great Depression and the current crisis are not profitability crises. Capitalist classes dramatically pushed forward basic economic mechanisms - as in financialization and globalization (in both of which deregulation is involved) - in directions supportive of the rise of their income and wealth. They were very successful in this endeavor within a time frame of two or three decades. But, as Marx and Engels had described in the *Manifesto*, they behaved as apprentice "sorcerers," at some point, losing control of their own magic. We denote such crises as "crises of financial hegemony" (in reference to Finance, defined as capitalist classes and financial institutions).
 
 ### *Social orders*
 
@@ -3282,9 +4932,9 @@ We call "social orders" (or power configurations) a phase of capitalism characte
 
 The postwar compromise died of its lack of political prospects in combination with: (1) its internal weaknesses (the almost exclusive concern about the prolongation of the progress of purchasing power); (2) the exhaustion of the favorable features of technical-organizational change inherent in the new efficiency proper to modern capitalism; and (3) the struggle of the capitalist classes.
 
-3 *The second financial hegemony.* The crisis of the 1970s and the weakening of the worker movement allowed capitalist classes to recover their earlier hegemony around 1980, the outcome of a class struggle in which popular classes were defeated. Capitalist classes imposed a new discipline on popular and managerial classes. Gradually, however, an alliance was formed among upper classes, between capitalists and managers – that is, to the Right. The overall rearrangement of the economy and society in general was dramatic.
+3 *The second financial hegemony.* The crisis of the 1970s and the weakening of the worker movement allowed capitalist classes to recover their earlier hegemony around 1980, the outcome of a class struggle in which popular classes were defeated. Capitalist classes imposed a new discipline on popular and managerial classes. Gradually, however, an alliance was formed among upper classes, between capitalists and managers - that is, to the Right. The overall rearrangement of the economy and society in general was dramatic.
 
-The relationship between the mode of production (given the revolutions introduced into modern capitalism) and social orders is not only that the latter defines a shorter term periodization. The link is dynamic. The social actors active within social orders are determined by the metamorphosis of class patterns associated with the transformation of relations of production – specifically, over the decades considered, the rise of managers that echo the overall process of socialization. The postwar compromise, although it was finally reversed, can be interpreted as a first rehearsal of a great historical scenario in which capitalist classes would be set aside. In neoliberalism, capitalist classes attempted to orient the social trends inherent in the dynamics of productive forces and relations of production in directions compatible with the survival of their own hegemony. In some respects, they pushed forward the process of socialization of production, as in neoliberal globalization; in other respects, they worked hard in favor of the limitation of the consequences susceptible of damaging their own hegemony, as in financial deregulation. Overall, they failed to establish or bolster the mechanisms aiming at the stabilization of the course of the economy, nationally or internationally, as manifest in the current crisis, thus jeopardizing their own privileges.
+The relationship between the mode of production (given the revolutions introduced into modern capitalism) and social orders is not only that the latter defines a shorter term periodization. The link is dynamic. The social actors active within social orders are determined by the metamorphosis of class patterns associated with the transformation of relations of production - specifically, over the decades considered, the rise of managers that echo the overall process of socialization. The postwar compromise, although it was finally reversed, can be interpreted as a first rehearsal of a great historical scenario in which capitalist classes would be set aside. In neoliberalism, capitalist classes attempted to orient the social trends inherent in the dynamics of productive forces and relations of production in directions compatible with the survival of their own hegemony. In some respects, they pushed forward the process of socialization of production, as in neoliberal globalization; in other respects, they worked hard in favor of the limitation of the consequences susceptible of damaging their own hegemony, as in financial deregulation. Overall, they failed to establish or bolster the mechanisms aiming at the stabilization of the course of the economy, nationally or internationally, as manifest in the current crisis, thus jeopardizing their own privileges.
 
 ### **A second hegemony of finance**
 
@@ -3294,7 +4944,7 @@ Neoliberalism is a class phenomenon.2 The power and income of Finance, capitalis
 
 The imposition of neoliberalism meant a thorough redirection of the economy, both nationally and internationally. To this one must add the class offensive concerning politics and ideology.
 
-It is, first, important to recall that from the early 1980s to the current crisis, the neoliberal endeavor was very successful when assessed according to its own objectives, the income and wealth of upper classes. In other works,3 we have presented data testifying to the sharp rise of upper incomes (notably the upper 99–100 income fractile). An additional finding is the unexpected importance of the increase of upper wages. In the progress of income inequality, these played a role approximately equivalent to that of capital income (interest, dividends, and capital gains). These high wages are clearly those of managers, notably their upper fractions, while the wages of the bulk of the working population were stagnating or diminishing. To this, one must add that unknown further incomes are garnered and capitalized within tax havens.
+It is, first, important to recall that from the early 1980s to the current crisis, the neoliberal endeavor was very successful when assessed according to its own objectives, the income and wealth of upper classes. In other works,3 we have presented data testifying to the sharp rise of upper incomes (notably the upper 99-100 income fractile). An additional finding is the unexpected importance of the increase of upper wages. In the progress of income inequality, these played a role approximately equivalent to that of capital income (interest, dividends, and capital gains). These high wages are clearly those of managers, notably their upper fractions, while the wages of the bulk of the working population were stagnating or diminishing. To this, one must add that unknown further incomes are garnered and capitalized within tax havens.
 
 An expression of these trends is shown in Figure 10.1. The variables are the New York Stock Exchange indices, corrected for inflation by the deflator of GDP. Clearly apparent are the downturn leading into the crisis of the 1970s, the sharp trends upward in neoliberalism, and the declines into the crisis of 2000/01 and the current crisis. In constant dollars, an investment in 1980 was worth about five times its value during the 2000s.
 
@@ -3306,7 +4956,7 @@ Besides the new discipline imposed on management and workers to the benefit of c
 
 compared with \$14 trillion for U. S. GDP; the loans by all banks worldwide to foreigners were multiplied by about three between 2000 and 2008. The imposition of free trade and movements of capitals around the globe opened all regions of the world to the investment of transnational corporations, be they nonfinancial or financial. Between 1970 and 2008, the total exports of goods in the world were multiplied by almost seven; during the 2000s, the flows of direct investment abroad were 48 times larger than during the 1970s. As is also well known, globalization placed all workers of the world in a situation of competition. The impact was devastating on the purchasing power of popular classes and on their access to health care, retirement, and education.
 
-Political life was also thoroughly transformed. As long as the values of the Left were supported by the most educated fractions of the population – linked to what we denote as "managerial classes," including their intellectual components – capitalist classes had to battle (mostly indirectly) with individual and groups well equipped to resist their contentions. Concerning ideology, in close relationship to the above, the two financial hegemonies replayed the old tune of the "liberalism" of the nineteenth century, as implicit in the notion of a "*neo*liberalism." In this context, "liberalism" denotes the freedom of capitalist classes to act – possibly including progressive features within earlier social structures (in the phase of establishment or maturation of capitalism), though the circumstances created by the maturation of relations of production in the twentieth century (not to mention the twenty-first) made such features outdated. In its early formulations, as in von Hayek's *Road to Serfdom* in 1944, neoliberalism was defined in reaction to the so-called "totalitarian" regimes in Nazism and Sovietism, and also in reaction to social democracy, which he supposed would lead, sooner or later, to totalitarian regimes. Following von Hayek, social-democracy was born to lead, in the short or longer run, to totalitarianism.4 This program is directly aiming at the imposition of a class "democracy," that is, structured to the benefit of upper classes, as in both financial hegemonies.
+Political life was also thoroughly transformed. As long as the values of the Left were supported by the most educated fractions of the population - linked to what we denote as "managerial classes," including their intellectual components - capitalist classes had to battle (mostly indirectly) with individual and groups well equipped to resist their contentions. Concerning ideology, in close relationship to the above, the two financial hegemonies replayed the old tune of the "liberalism" of the nineteenth century, as implicit in the notion of a "*neo*liberalism." In this context, "liberalism" denotes the freedom of capitalist classes to act - possibly including progressive features within earlier social structures (in the phase of establishment or maturation of capitalism), though the circumstances created by the maturation of relations of production in the twentieth century (not to mention the twenty-first) made such features outdated. In its early formulations, as in von Hayek's *Road to Serfdom* in 1944, neoliberalism was defined in reaction to the so-called "totalitarian" regimes in Nazism and Sovietism, and also in reaction to social democracy, which he supposed would lead, sooner or later, to totalitarian regimes. Following von Hayek, social-democracy was born to lead, in the short or longer run, to totalitarianism.4 This program is directly aiming at the imposition of a class "democracy," that is, structured to the benefit of upper classes, as in both financial hegemonies.
 
 ### *A neoliberal globe?*
 
@@ -3342,7 +4992,7 @@ A crucial factor of the crisis was deregulation and the reluctance to reregulate
 
 Concerning the latter aspect, indebtedness, one must distinguish between domestic debt and foreign financing:
 
-- 1 In the present investigation, domestic debt is defined as the sum of the debts of households and the government. Each can borrow and make financial investment. Depending on the issue considered, either the gross amount of debt (as in the study of financial stability), or the net debt – gross debt minus financial assets (as in the study of the formation of demand) – is relevant. Enterprises also borrow but they make financial investments for approximately the same amount; so it is possible to abstract from their net debt in analyzing demand mechanisms.
+- 1 In the present investigation, domestic debt is defined as the sum of the debts of households and the government. Each can borrow and make financial investment. Depending on the issue considered, either the gross amount of debt (as in the study of financial stability), or the net debt - gross debt minus financial assets (as in the study of the formation of demand) - is relevant. Enterprises also borrow but they make financial investments for approximately the same amount; so it is possible to abstract from their net debt in analyzing demand mechanisms.
 - 2 The rest of the world makes financial investments in the U. S. economy and, reciprocally, U. S. economic agents make financial investments in the rest of the world. Foreign financial investment (or foreign financing) refers to the U. S. assets held by foreigners, securities, loans, and deposits.7 The net external debt of the U. S. economy is an important variable in the analysis of the crisis. It is the difference between the U. S. assets held by the rest of the world and the foreign assets held by U. S. agents.
 
 A basic relationship links the net debts (in terms of *variations*, Δ):
@@ -3382,7 +5032,7 @@ The trade-off is clearly established. Either the deficient demand to producers b
 
 In Europe (either the 27, or the 17 of the euro area), either no deficit of foreign trade, or only a small one, is observed for the entire zone; and the debt of households did not reach levels similar to U. S. households, a situation substantially distinct from that prevailing in the United States. However, a pattern similar to that in the U. S. economy prevails within a number of European countries. In those countries, the same determination to reduce deficits on the part of governments is observed as is seen in the U. S. This is where the problems lie.
 
-The combination of the two deficits – foreign trade and government as in the U. S. economy – defines the worst possible configuration for a small European economy, in particular if these trends have been established years prior to the crisis, as in Greece. Under such circumstances, the so-called "markets" (financial institutions, notably outside of the European Union) react aggressively to the prevalence of these twin deficits. One can contrast this configuration with the one prevailing in Japan, with a skyrocketing government deficit but a large surplus of foreign trade. Since the surplus of foreign trade creates a flow of financing from the country to the rest of the world, the financing of government debt is less dramatically dependent on foreign financing, and the exchange rate of the currency is not threatened.
+The combination of the two deficits - foreign trade and government as in the U. S. economy - defines the worst possible configuration for a small European economy, in particular if these trends have been established years prior to the crisis, as in Greece. Under such circumstances, the so-called "markets" (financial institutions, notably outside of the European Union) react aggressively to the prevalence of these twin deficits. One can contrast this configuration with the one prevailing in Japan, with a skyrocketing government deficit but a large surplus of foreign trade. Since the surplus of foreign trade creates a flow of financing from the country to the rest of the world, the financing of government debt is less dramatically dependent on foreign financing, and the exchange rate of the currency is not threatened.
 
 One important feature of the debt problem in Europe is, however, that the foreign financing is, to a large extent, provided by European banks. For example, in Greece at the end of 2010, the total claim of foreign banks amounted to 45 percent of the Greek GDP, of which 9 percent is due to banks outside of the eurozone and the remaining 36 percent to banks within the zone. For Portugal, the total debt to foreign banks is equal to 93 percent of GDP; this can be broken down, respectively, into 16 percent held outside of the eurozone and 77 percent held inside it. Thus, the problem is mostly European. This does not, however, change the fact that the banks which lent to these countries, in particular to their governments, are now facing a difficult situation. The European Central Bank is confronted with circumstances similar to those that followed the first major shock in late 2008, and is compelled to either refinance these banks for considerable amounts, or to elaborate new mechanisms (such as "eurobonds"). But the problem is not simply *liquidity*, but also *solvency*. The banks' own funds must be increased (and devalued to the extent of incoming losses). Who will recapitalize the banks confronting these pressures? Governments already fighting to curb deficits?
 
@@ -3394,7 +5044,7 @@ Though under distinct circumstances, the ways out are difficult to imagine both 
 
 In the analysis of historical trends, it is important to distinguish between various time frames, notably between medium-term and longer-term prospects. This is the lesson taught by, respectively, the interwar period and the war, on the one hand, and the postwar decades, on the other hand. Concerning historical prospects, we distinguish between three alternative social orders: (1) a third financial hegemony, in continuation of the second but with the required adjustments; (2) neomanagerialism, the continuation of the alliance at the top of social hierarchies, but under the leadership of managerial classes; and (3) a scenario similar to the postwar compromise. In these respects, the present situations in the United States and China appear symmetrical. Concerning political orientations, class struggle will have the last say.
 
-### *Preliminary crisis episodes – forthcoming social orders*
+### *Preliminary crisis episodes - forthcoming social orders*
 
 In the discussion of possible options for the coming decades, the comparison with the situation that prevailed during the 1930s, 1940s, and after World War II is telling. The Great Depression led to the establishment of social configurations as divergent as Nazi Germany and the New Deal in the United States (or the Popular Front in France). Political circumstances, including the preparation for the war, played a central role. Both Nazism and the New Deal, however, shared a common feature: the strong intervention of the government. After World War II, a new social order was found in the postwar compromise, with more moderate traits. Despite remaining differences, convergence was observed within, at least, the United States, Europe, and Japan.
 
@@ -3402,7 +5052,7 @@ Concerning the current crisis, a possible scenario is that a similar course of e
 
 As already stated, the postwar compromise was established in the context created by the Depression and the war, given the political conditions resulting from a strong workers' movement worldwide. A few decades later, this social order died of the metamorphosis of these circumstances. Despite the violence of the crisis, the present situation is thoroughly distinct. A new social compromise to the Left, grounded in the alliance between popular and managerial classes, is unlikely, although, simultaneously, the present crisis demonstrated that the trends inherent in the second financial hegemony are unsustainable.
 
-### *A third financial hegemony – neomanagerialism*
+### *A third financial hegemony - neomanagerialism*
 
 Considering post-neoliberal social orders at a general level of analysis, two options open up. Due to the political situation recalled above, the alliance at the top of social hierarchies between capitalists and managers is the most likely scenario. The alternative is between the exercise of leadership by capitalist or managerial classes. Though to different degrees, a significant break with the rules of the second financial hegemony is implied in both instances.
 
@@ -3411,13 +5061,13 @@ Considering post-neoliberal social orders at a general level of analysis, two op
 
 In a potential third financial hegemony, the adjustment to the advance of relations of production would be subjected to the leadership of capitalist classes. This might take the form of the control of the stability of trajectories (involving both the macroeconomy and financial mechanisms, given the tight relationship between the two), the control of national growth performance, or even industrial policies or forms of protectionism. In neomanagerialism, even more importantly, these trends would be pushed to further degrees: fundamental aspects of social relations would also be involved, notably concerning comparative powers in decision making and income channels (for example, in wages and bonuses relative to capital income). A degree of "financial repression" would be imposed, but with some moderation, since the new social alliance would still be to the right. This would open a path to capitalist families in their gradual transition to the new configuration (a movement whose preliminary forms are already apparent in the second financial hegemony.)10
 
-In the distinction between the two social orders, one can observe the tight link to the historical progress of productive forces, the transformation of relations of production, and the corresponding class patterns. A third financial hegemony can be viewed as an adjustment of the power of capitalist classes to the progress of relations of production. This is what neoliberalism failed to do and what provoked its crisis. Like the second financial hegemony, the third such hegemony would manifest a resistance to adjustments of a similar historical import, along a road leading to its own structural crisis. In neomanageralism, the adaptation would be much stronger, opening a much more stable historical trajectory. Obviously, the outcome would be distinct from the one – a "social-managerialism" – to which the alliance to the Left would lead, and which we judge unlikely under the present conditions of class struggle. But the two trajectories would share common aspects, those conveyed by the transformation of relations of production.
+In the distinction between the two social orders, one can observe the tight link to the historical progress of productive forces, the transformation of relations of production, and the corresponding class patterns. A third financial hegemony can be viewed as an adjustment of the power of capitalist classes to the progress of relations of production. This is what neoliberalism failed to do and what provoked its crisis. Like the second financial hegemony, the third such hegemony would manifest a resistance to adjustments of a similar historical import, along a road leading to its own structural crisis. In neomanageralism, the adaptation would be much stronger, opening a much more stable historical trajectory. Obviously, the outcome would be distinct from the one - a "social-managerialism" - to which the alliance to the Left would lead, and which we judge unlikely under the present conditions of class struggle. But the two trajectories would share common aspects, those conveyed by the transformation of relations of production.
 
-In the definition of the whole range of outcomes – third financial hegemony, neomanagerialism with the compromise to the right, and social-managerialism with the compromise to the left – there is obviously a matter of degree (how much government intervention, autonomy of managers, financial repression, social protection, etc.) Our interpretation, concerning the past as well as the future of societies, is that such *degrees* are superficial expressions of specific historical configurations of relations of production and class hierarchies of power and compromise, to be distinguished in their *nature*.
+In the definition of the whole range of outcomes - third financial hegemony, neomanagerialism with the compromise to the right, and social-managerialism with the compromise to the left - there is obviously a matter of degree (how much government intervention, autonomy of managers, financial repression, social protection, etc.) Our interpretation, concerning the past as well as the future of societies, is that such *degrees* are superficial expressions of specific historical configurations of relations of production and class hierarchies of power and compromise, to be distinguished in their *nature*.
 
 ### *The United States and China: mirror images?*
 
-The present situation in the United States is much more serious than is usually thought. A central thesis in *The Crisis of Neoliberalism*<sup>11</sup> is that the changes to be undertaken are so dramatic that a third financial hegemony would not measure up to the task and a transition to neomanagerialism is required if U. S. upper classes want to preserve their power and income. This is due to the joint requirement of remedying the unsustainable trends toward financialization and globalization and, simultaneously, correcting the trajectory of disequilibrium of the U. S. macroeconomy. Concerning this latter aspect, it is even difficult to imagine ways out. This is all the more true if one takes account of the requirement to significantly slow down the decline of the international hegemony of the country. Thus, consciousness of the country's interest, notably on the part of upper classes – what we denote as the "national factor" – could provide the stimulus in the direction of a new course in neomanagerialism.
+The present situation in the United States is much more serious than is usually thought. A central thesis in *The Crisis of Neoliberalism*11 is that the changes to be undertaken are so dramatic that a third financial hegemony would not measure up to the task and a transition to neomanagerialism is required if U. S. upper classes want to preserve their power and income. This is due to the joint requirement of remedying the unsustainable trends toward financialization and globalization and, simultaneously, correcting the trajectory of disequilibrium of the U. S. macroeconomy. Concerning this latter aspect, it is even difficult to imagine ways out. This is all the more true if one takes account of the requirement to significantly slow down the decline of the international hegemony of the country. Thus, consciousness of the country's interest, notably on the part of upper classes - what we denote as the "national factor" - could provide the stimulus in the direction of a new course in neomanagerialism.
 
 Despite obvious differences, the situation in China is in many respects symmetrical. The development of the country is based on the combination of a strong managerial leadership, notably on the part of officials/members of the Communist Party, and an exploding capitalist sector, a combination directly evocative of neomanagerialism. One difference is, however, that the managerial aspect is not "new" with respect to an earlier managerial capitalism, but to the rule of a managerial class in China prior to the reforms (with its bureaucratic aspects). The symmetry with the U. S. society lies in the observation that Chinese society is now confronted with the continuation of its neomanagerial traits or the transition to financial hegemony.
 
@@ -3441,9 +5091,9 @@ Within the dynamics governing such historical bifurcations, the seriousness of t
 
 ### **References**
 
-- Cheng, E. and X. Xin, 2011, "Fundamental Elements of the China Model," *International Critical Thought*, 1, pp. 1–10.
-- Duménil, G. and D. Lévy, 2001, "Costs and Benefits of Neoliberalism: A Class Analysis," *Review of International Political Economy*, 8, pp. 578–607.
-- Duménil, G. and D. Lévy, 2004, "Neoliberal Income Trends: Wealth, Class, and Ownership in the USA," *New Left Review*, 30, pp. 105–133.
+- Cheng, E. and X. Xin, 2011, "Fundamental Elements of the China Model," *International Critical Thought*, 1, pp. 1-10.
+- Duménil, G. and D. Lévy, 2001, "Costs and Benefits of Neoliberalism: A Class Analysis," *Review of International Political Economy*, 8, pp. 578-607.
+- Duménil, G. and D. Lévy, 2004, "Neoliberal Income Trends: Wealth, Class, and Ownership in the USA," *New Left Review*, 30, pp. 105-133.
 - Duménil, G. and D. Lévy, 2011, *The Crisis of Neoliberalism*, Cambridge: Harvard University Press.
 - Mirowski, P. and D. Plehwe, 2009, *The Road to Mont Pélerin*, Cambridge: Harvard University Press.
 - von Hayek, F. A., 1944, *The Road to Serfdom*, reprint 1980, Chicago: University of Chicago Press.
@@ -3462,7 +5112,7 @@ After the war of 1914, the world economy underwent profound structural changes, 
 
 ### **2**
 
-These considerations lead me to a belief that Takumi's theory, in effect, presupposes an oligopolistic economy with an industrial structure of the Minskyan type, that is to say, one in which "complex and costly capital-assets are extensively used." This type of industrial structure, which I would call here "Fordist" for short, had been firmly established in the United States after World War II, and was propagated from there to all the developed economies in the world. For a firm to invest in plants and equipment in such an economy (apart from the exceptional cases in which it finances all its investment with its own money) means entering into a debt contract to be paid off by instalments over time. In other words, it commits itself to a series of regular payments of given sums of money in the future, as stipulated in the contract. The sources of the money which will be needed for that purpose on successive due dates are primarily the quasi-rents (or gross profits) it expects to earn, while using the plants and equipment productively; but the firm's future receipts (incomes) involve uncertainty. In order not to fail to meet its commitments, even when the expected receipts in future turn out to be below expectation, the firm must have on hand sufficient liquidity (money or some readily cashable assets to dispose of) and, if need be, a line of credit where its own debt will be accepted. This means that the firm cannot totally concentrate on its production alone, but must always keep in touch with financial markets so as to be on the alert to changes therein. In response to this trend, sophisticated financial markets develop, in which not only banks but also many specialized, non-bank financial intermediaries operate by coordinating lenders and borrowers. An enormous quantity of money or funds saved out of incomes and "lying idle" – i.e., not yet committed to any definite investment project, but seeking temporary returns in the meantime – flows into and out of such markets. Both lenders and borrowers run risks on their account in dealing with such money.
+These considerations lead me to a belief that Takumi's theory, in effect, presupposes an oligopolistic economy with an industrial structure of the Minskyan type, that is to say, one in which "complex and costly capital-assets are extensively used." This type of industrial structure, which I would call here "Fordist" for short, had been firmly established in the United States after World War II, and was propagated from there to all the developed economies in the world. For a firm to invest in plants and equipment in such an economy (apart from the exceptional cases in which it finances all its investment with its own money) means entering into a debt contract to be paid off by instalments over time. In other words, it commits itself to a series of regular payments of given sums of money in the future, as stipulated in the contract. The sources of the money which will be needed for that purpose on successive due dates are primarily the quasi-rents (or gross profits) it expects to earn, while using the plants and equipment productively; but the firm's future receipts (incomes) involve uncertainty. In order not to fail to meet its commitments, even when the expected receipts in future turn out to be below expectation, the firm must have on hand sufficient liquidity (money or some readily cashable assets to dispose of) and, if need be, a line of credit where its own debt will be accepted. This means that the firm cannot totally concentrate on its production alone, but must always keep in touch with financial markets so as to be on the alert to changes therein. In response to this trend, sophisticated financial markets develop, in which not only banks but also many specialized, non-bank financial intermediaries operate by coordinating lenders and borrowers. An enormous quantity of money or funds saved out of incomes and "lying idle" - i.e., not yet committed to any definite investment project, but seeking temporary returns in the meantime - flows into and out of such markets. Both lenders and borrowers run risks on their account in dealing with such money.
 
 The development of money and capital markets of this nature is a specific phenomenon to the age of Fordist commodity-production. In the pure theory of capitalism (*the dialectic of capital* or Uno's *genriron*), there is no theory that directly accounts for such a phenomenon. The bank credit that is expounded there is essentially a development of commercial credit (i.e., credit that industrial capitals give to one another among themselves); it consists mainly of discounting trade bills and offering short-term loans to expedite the circulation of commodities. It has the effect of "capitalist-socially" economizing idle money, including "idle money to be," with a view to maximizing the production of surplus value (or creation of disposable money incomes). Banking, in particular, consists of activating "idle money to be" into *credit money* or readily usable means of purchase. The social reproduction-process of a capitalist economy automatically generates idle money, either in its latent form (as "idle money to be") or in the form of savings out of already earned surplus value (or disposable money incomes). Idle money in its latent form means money that, if received now as proceeds of the commodities sold, would be saved rather than spent. It is commodity-economically rational to minimize the period during which money must stay "idle," without contributing to the production of surplus value, so that the pure theory of capitalism (*dialectic of capital* or Uno's *genriron*) must explain the whole system of credit logically from the point of view of "how to capitalist-socially economize idle money."2
 
@@ -3472,9 +5122,9 @@ It is quite otherwise with the system of finance that develops in the age of For
 
 In the interwar period, when the American economy was not yet equipped with Minsky's "Big Government and Big Bank," the speculative boom of the 1920s could quite easily turn into the depression of the 1930s. After World War II, however, the government sector became enormous compared with its prewar size, and the Federal Reserve Bank along with its associated institutions established its position as "the lender of last resort" in national finance. To what extent then did the postwar U. S. economy become effective in warding off a Great Depression of the type experienced in the 1930s, which Minsky called "It"? This was the question that he posed to himself. Through the analysis of "a deep recession but not a depression of 1975" and others, he then developed his unique thesis of the "financial instability hypothesis."4 The postwar American economy, according to him, enjoyed an exceptional period (a brief one of 20 years or so) of "tranquility with robust finance," but thereafter proved itself to be inherently unstable both on the upside and the downside. Although it has so far been contained successfully without sliding into "It" thanks to the stabilizing effect of Big Government and Big Bank, the degree of instability increases every time the Fed intervenes, validating, in the process, the existing structure of indebtedness in the private sector, by supplying more liquidity.
 
-There is undoubtedly a great deal for we Unoists to learn from Minsky's exceptionally penetrating analysis of the nature of the Fordist commodityproduction. However, we must be alert to the fact that he does not use the term "capitalism" in the same sense as we do. To Minsky "capitalism" simply means "a mode of commodity-production in which increasingly more capital-assets are used;" he does not seem to be interested in an "objective definition of capitalism by capital itself" in the form of *the dialectic of capital*, or Uno's *genriron*. Not that Minsky was wrong in not having been aware of the Unoist procedure, but it is important for *us* to be able to learn from his insight in the right context, one that is consistent with Uno's overall approach. That context is "capitalism in its process of disintegration" after the war of 1914–17. At the purely theoretical level we know, for instance, that the *actual process of capital accumulation* occurs through the alternation of the "widening phase" (in which accumulation occurs with a constant organic composition of capital) and the "deepening phase" (in which a switch occurs from a lower to a higher organic composition), the two phases being divided by a periodic crisis, which entails a complete disruption of the social reproduction-process. This alternation of the two phases appears, on the surface of the capitalist market, as the prosperity and depression phases of the business cycle.5 At the more concrete-historical (or empirical) level, however, we must be aware that loan-capital, which formerly pursued capitalist-rational banking, has been sidetracked in recent years, and tends to be overwhelmed by non-bank financial intermediaries, which act as a special form of "money-lending capital" in the newly developed financial markets, with all its irrational rapacity and pre-capitalist "measurelessness." I believe that it is important to distinguish *the level of abstraction* at which these two types of problems should be discussed. In particular, it is not my view that capitalism per se (i.e., as conceptualized at the purely theoretical level) is inherently unstable or self-destructive, as Minsky remarks frequently, just because it undergoes business cycles punctuated by periodic crises of increasing severity,6 even though I can readily agree with him (at the more concrete-empirical level) that contemporary "capitalism" (i.e., capitalism in the process of disintegration) is characterized by increasingly suicidal instability (because "money-lending capital," which had long been "tamed" as "loan-capital" under capitalism proper, came back with a vengeance in the form of "casino capital" in the disintegrating phase of capitalism), and that, unless controlled in a rather extra-capitalist fashion, it may end by terminating not only capitalism itself but also human society with it.
+There is undoubtedly a great deal for we Unoists to learn from Minsky's exceptionally penetrating analysis of the nature of the Fordist commodityproduction. However, we must be alert to the fact that he does not use the term "capitalism" in the same sense as we do. To Minsky "capitalism" simply means "a mode of commodity-production in which increasingly more capital-assets are used;" he does not seem to be interested in an "objective definition of capitalism by capital itself" in the form of *the dialectic of capital*, or Uno's *genriron*. Not that Minsky was wrong in not having been aware of the Unoist procedure, but it is important for *us* to be able to learn from his insight in the right context, one that is consistent with Uno's overall approach. That context is "capitalism in its process of disintegration" after the war of 1914-17. At the purely theoretical level we know, for instance, that the *actual process of capital accumulation* occurs through the alternation of the "widening phase" (in which accumulation occurs with a constant organic composition of capital) and the "deepening phase" (in which a switch occurs from a lower to a higher organic composition), the two phases being divided by a periodic crisis, which entails a complete disruption of the social reproduction-process. This alternation of the two phases appears, on the surface of the capitalist market, as the prosperity and depression phases of the business cycle.5 At the more concrete-historical (or empirical) level, however, we must be aware that loan-capital, which formerly pursued capitalist-rational banking, has been sidetracked in recent years, and tends to be overwhelmed by non-bank financial intermediaries, which act as a special form of "money-lending capital" in the newly developed financial markets, with all its irrational rapacity and pre-capitalist "measurelessness." I believe that it is important to distinguish *the level of abstraction* at which these two types of problems should be discussed. In particular, it is not my view that capitalism per se (i.e., as conceptualized at the purely theoretical level) is inherently unstable or self-destructive, as Minsky remarks frequently, just because it undergoes business cycles punctuated by periodic crises of increasing severity,6 even though I can readily agree with him (at the more concrete-empirical level) that contemporary "capitalism" (i.e., capitalism in the process of disintegration) is characterized by increasingly suicidal instability (because "money-lending capital," which had long been "tamed" as "loan-capital" under capitalism proper, came back with a vengeance in the form of "casino capital" in the disintegrating phase of capitalism), and that, unless controlled in a rather extra-capitalist fashion, it may end by terminating not only capitalism itself but also human society with it.
 
-The evolution of the world economy since the war of 1914–18 has often been segmented into three periods: (1) the interwar period; (2) the period from 1945 to 1979; and (3) that from 1980 to the present. The first represents the period of Great Transformation, in which the "centre of commodity-production" shifted from Europe to the United States. The second period consists of the 35 postwar years, in the first 20 of which Keynesian social-democracy and the welfare state appeared to work rather well, and in the remaining 15 of which the economy performed haphazardly, as it was caught in the throes of "stagflation." The third period may be viewed as the years of the neo-conservative counter-revolution, which has substituted rabid allegiance to neoliberal "market fundamentalism" for the previously accepted Keynesian social-democracy. I will adopt this convenient tripartite segmentation of the world economic history since the end of World War I to the present, in the course of which "capitalism," in the proper sense of the term, has been in the "process of disintegration," and will focus especially on the alarming phenomenon of "financial instability" that became manifest, particularly from the second to the third period.
+The evolution of the world economy since the war of 1914-18 has often been segmented into three periods: (1) the interwar period; (2) the period from 1945 to 1979; and (3) that from 1980 to the present. The first represents the period of Great Transformation, in which the "centre of commodity-production" shifted from Europe to the United States. The second period consists of the 35 postwar years, in the first 20 of which Keynesian social-democracy and the welfare state appeared to work rather well, and in the remaining 15 of which the economy performed haphazardly, as it was caught in the throes of "stagflation." The third period may be viewed as the years of the neo-conservative counter-revolution, which has substituted rabid allegiance to neoliberal "market fundamentalism" for the previously accepted Keynesian social-democracy. I will adopt this convenient tripartite segmentation of the world economic history since the end of World War I to the present, in the course of which "capitalism," in the proper sense of the term, has been in the "process of disintegration," and will focus especially on the alarming phenomenon of "financial instability" that became manifest, particularly from the second to the third period.
 
 ### **4**
 
@@ -3486,7 +5136,7 @@ During the decade of the1980s, the Cold War was winding down; yet it was not yet
 
 ### **5**
 
-As pointed out above, the monetarist policy to stifle inflation from the late 1970s to the early 1980s resulted in an extravagant elevation of the rates of interest, which had two wholly unanticipated results. First, many developing countries which had borrowed petro-dollars for the development of their national resources were caught in a "debt crisis," on the scourges of which I need not dwell here. Second, the commercial banks in the United States, which were prohibited by Regulation-Q of the Glass–Steagall Act from paying adequate interest rates on time deposits, began losing them at an alarming speed to other more reasonable borrowers of funds. When, in 1983, the interest rates payable by banks on time deposits were liberalized, that gave a fillip to a more general liberalization of finance, which included, among others, the de-compartmentalization of businesses in banking, securities, and insurance. Thus, in the latter half of the 1980s a mergers-and-acquisition (M&A) boom occurred, which quickly reorganized and refurbished the management of American industry, signalling the advent of what Minsky termed "money manager capitalism." This, however, sounded the death knell of traditional, capitalist banking as well. Indeed, the proper function of "relationship banking" reserved for commercial banks – i.e., of originating loans by face-to-face screenings of the most creditworthy clients – was a costly business with modest reward, compared with charging fees on the business of massive financial intermediation.7 Therefore, with the liberalization of finance, commercial banks shifted their operation away from relationship banking in favour of fee-earning non-bank, financial intermediation. Since banks, too, are profit-seeking private enterprises, this shift from commercial to investment (or securities) banking could hardly be avoided.
+As pointed out above, the monetarist policy to stifle inflation from the late 1970s to the early 1980s resulted in an extravagant elevation of the rates of interest, which had two wholly unanticipated results. First, many developing countries which had borrowed petro-dollars for the development of their national resources were caught in a "debt crisis," on the scourges of which I need not dwell here. Second, the commercial banks in the United States, which were prohibited by Regulation-Q of the Glass-Steagall Act from paying adequate interest rates on time deposits, began losing them at an alarming speed to other more reasonable borrowers of funds. When, in 1983, the interest rates payable by banks on time deposits were liberalized, that gave a fillip to a more general liberalization of finance, which included, among others, the de-compartmentalization of businesses in banking, securities, and insurance. Thus, in the latter half of the 1980s a mergers-and-acquisition (M&A) boom occurred, which quickly reorganized and refurbished the management of American industry, signalling the advent of what Minsky termed "money manager capitalism." This, however, sounded the death knell of traditional, capitalist banking as well. Indeed, the proper function of "relationship banking" reserved for commercial banks - i.e., of originating loans by face-to-face screenings of the most creditworthy clients - was a costly business with modest reward, compared with charging fees on the business of massive financial intermediation.7 Therefore, with the liberalization of finance, commercial banks shifted their operation away from relationship banking in favour of fee-earning non-bank, financial intermediation. Since banks, too, are profit-seeking private enterprises, this shift from commercial to investment (or securities) banking could hardly be avoided.
 
 When, on top of this, banks were allowed to take recourse to the novel device of "securitization," it became possible as well as rewarding for commercial banks to "securitize" their loan contracts, and sell them off in financial markets, disconnecting them from the banks' own balance-sheets. The securitized loans were then chopped up in pieces, to be skillfully combined with other financial assets of different types in CDOs (collateral debt obligations) or some such dubious packages, invented by the geniuses of financial engineering. The asset quality of these packages was then "actuarially" calculated in an esoteric manner to be "graded" by so-called credit-rating companies. Indeed, subprime mortgage loans were mostly sold off to financial markets in this way, thus dispersing the germs of systemic risk throughout the latter, which turned into a gamblers' paradise. Thus, in the trend towards "financialization," which is often talked about, and which is meant to characterize the overall feature of the present-day economy, we must distinguish two distinct elements. One comes from the nature of Fordist commodity-production as such, which, as Minsky explained, involves the financing of investment in plants and equipment, and which tends to generate increasingly heavy indebtedness in the private sector. This breeds instability due to the "uncertainty" that necessarily accompanies any exchange of money-today for money-tomorrow. The second element comes from "financial liberalization," which erodes traditional "relationship banking," by making it less lucrative than massive financial intermediation.
 
@@ -3526,7 +5176,7 @@ F2 fiat money held in DDB as reserve money of the commercial banks;
 
 C kF2 credit money that the commercial banks create in DDC:
 
-k\* � k bank multiplier which must not exceed the official cash reserve ratio (k\*).
+k\*  k bank multiplier which must not exceed the official cash reserve ratio (k\*).
 
 *Figure 11.1* Comparison of managed currency system and gold standard system.
 
@@ -3544,9 +5194,9 @@ As for F1 as helicopter money dropped into DDA, there is less mystery. But this 
 
 ### **9**
 
-For example, another anti-deflationary measure that Bernanke recommended to the BOJ in 2000 was a depreciation of the yen.15 He quite rightly thought that the BOJ, if willing, could supply as much yen as would be necessary with which to buy dollars and other foreign currencies and to bring down the yen's value to a desired level. However, that would have been an "unsterilized" intervention, which, by that time, the Japanese authorities had somehow learned to regard as a taboo (perhaps to avoid being accused of "dirty floating" of the yen). On the other hand, with regard to undertaking a "sterilized" intervention, i.e., intervention in foreign exchange markets, while keeping the existing level of the money supply unchanged in Japan, the fiscal authorities decided that they did not have enough resources available for the purpose. At the present time, however, as the climate of deflation deepens worldwide, the yen is once again appreciating and, this time, to a level that practically dooms existing Japanese industry. To bring its value down to a more reasonable level, an "unsterilized intervention" may still be a credible option; and that will involve dropping the necessary amount of helicopter money (F1) into DDA for fiscal use. The question then is whether or not "buying foreign exchange in the market" with the newly created fiat money is a top fiscal priority. It may not be, especially if those to whom F1 is paid eventually will save it and hold it idle (or use it simply to pay off their past debts) rather than spending it on commodities. I also believe that there are many more crying needs at present, especially in the regions of the country devastated in March 2011 by the severe earthquake, tsunami, and the nuclear disaster, for fiscal money to be urgently spent, be it for rescue, reconstruction, rehabilitation or a new departure. If, for instance, an F1 of about 50–100 trillion yen is spent fiscally without delay, that will immediately generate incomes and employment to compensate for and enhance the ones destroyed, either over the past two decades or more recently, so as to reflate the national economy vigorously with no inflation,16 and will also have the by-effect of depreciating the yen considerably (without the monetary authority being accused of intervening in the foreign exchange market).
+For example, another anti-deflationary measure that Bernanke recommended to the BOJ in 2000 was a depreciation of the yen.15 He quite rightly thought that the BOJ, if willing, could supply as much yen as would be necessary with which to buy dollars and other foreign currencies and to bring down the yen's value to a desired level. However, that would have been an "unsterilized" intervention, which, by that time, the Japanese authorities had somehow learned to regard as a taboo (perhaps to avoid being accused of "dirty floating" of the yen). On the other hand, with regard to undertaking a "sterilized" intervention, i.e., intervention in foreign exchange markets, while keeping the existing level of the money supply unchanged in Japan, the fiscal authorities decided that they did not have enough resources available for the purpose. At the present time, however, as the climate of deflation deepens worldwide, the yen is once again appreciating and, this time, to a level that practically dooms existing Japanese industry. To bring its value down to a more reasonable level, an "unsterilized intervention" may still be a credible option; and that will involve dropping the necessary amount of helicopter money (F1) into DDA for fiscal use. The question then is whether or not "buying foreign exchange in the market" with the newly created fiat money is a top fiscal priority. It may not be, especially if those to whom F1 is paid eventually will save it and hold it idle (or use it simply to pay off their past debts) rather than spending it on commodities. I also believe that there are many more crying needs at present, especially in the regions of the country devastated in March 2011 by the severe earthquake, tsunami, and the nuclear disaster, for fiscal money to be urgently spent, be it for rescue, reconstruction, rehabilitation or a new departure. If, for instance, an F1 of about 50-100 trillion yen is spent fiscally without delay, that will immediately generate incomes and employment to compensate for and enhance the ones destroyed, either over the past two decades or more recently, so as to reflate the national economy vigorously with no inflation,16 and will also have the by-effect of depreciating the yen considerably (without the monetary authority being accused of intervening in the foreign exchange market).
 
-Yet, to finance any part of the national budget by "printing money," which the creation of fiat money F1 essentially is, has been condemned as something so "underhanded" or "depraved" that no civilized government should even think of. It is universally thought of as a pathetic lack of sound fiscal discipline which only foretells an uncontrollable hyperinflation as due punishment. This completely groundless superstition, as already mentioned, is a mere vestige of the now demised gold standard system. Japan's deflationary gap today is estimated to go up to 400 trillion yen,17 which, for its GDP of roughly 500 trillion yen, may, at first sight, strike one as unbelievable. Yet, in the past 20 years or so, the Japanese GDP stagnated and hardly grew, while the average performance of other economies in the world roughly doubled their scale. It follows then that, if the Japanese economy performed only as well as the average, its GDP would now be in the range of 900–1,000 trillion yen. In that light, the deflationary gap of 400 trillion yen cannot easily be dismissed as a fantasy. It must rather be a fairly accurate measure of the national income needlessly lost to the Japanese people, because of the misguided economic policy relentlessly pursued by the powers that be in this country, obsessed by anachronistic teachings and riddled by fear of the unknown.
+Yet, to finance any part of the national budget by "printing money," which the creation of fiat money F1 essentially is, has been condemned as something so "underhanded" or "depraved" that no civilized government should even think of. It is universally thought of as a pathetic lack of sound fiscal discipline which only foretells an uncontrollable hyperinflation as due punishment. This completely groundless superstition, as already mentioned, is a mere vestige of the now demised gold standard system. Japan's deflationary gap today is estimated to go up to 400 trillion yen,17 which, for its GDP of roughly 500 trillion yen, may, at first sight, strike one as unbelievable. Yet, in the past 20 years or so, the Japanese GDP stagnated and hardly grew, while the average performance of other economies in the world roughly doubled their scale. It follows then that, if the Japanese economy performed only as well as the average, its GDP would now be in the range of 900-1,000 trillion yen. In that light, the deflationary gap of 400 trillion yen cannot easily be dismissed as a fantasy. It must rather be a fairly accurate measure of the national income needlessly lost to the Japanese people, because of the misguided economic policy relentlessly pursued by the powers that be in this country, obsessed by anachronistic teachings and riddled by fear of the unknown.
 
 Japan has been paralyzed in the stalemate of "budgetary crisis" for a long time, unable to resort to any effective macro policy action, and thus to extricate itself from deflationary spiral and debt deflation, supposedly *for want of fiscal revenues*. Once caught in this quagmire, no one can break away from it by means other than the recourse to the method of "helicopter money F1" as outlined above, whether the authorities and the public in their conventionally bound thinking realize it or not. More recently, both Europe and the United States also seem to be on the verge of being trapped in a similar bind of "no fiscal revenue, no fiscal action." It is all the more urgent, therefore, for us to surmount the mesmerizing spell of neoliberal economics, and to wake up to the need to firmly grasp what *fiat money and the managed currency system*, which have supplanted *gold and the gold standard*, mean to us. For otherwise, the chance of us repeating the tragedies of the twentieth century will be imminent. Recall that, after the end of the World War I, by far the greatest majority of political, business, and intellectual leaders were firmly convinced that the first priority for the reconstruction of the war-devastated world economy was the restoration of the international gold standard system as it had operated in prewar days, completely unaware of the fact that the war had demolished all the material conditions that would make such a pious dream come true. The result was the Great Depression and then the World War II. If, under the grip of the neoliberal pundits, we still cannot wake up from the smug dream of "capitalism forever," allowing ourselves to be misguided by the will-o'-the-wisp of the gold standard, we are certainly heading for a disaster of untold magnitude. However, *if capitalism is in disintegration, human society need not be*. We only have to make the right choice, which requires that we begin to envisage and to develop a thriving human society *beyond* capitalism, capitalism here meaning the self-conclusive and self-governing commodity-economy. To overcome the impending peril of the deflationary spiral and debt deflation, by aggressively applying the method of "helicopter money F1" so as to pump "active money" into circulation, may well be the first decisive step in transition towards "another historical society" which will replace capitalism.18,19
 
@@ -3554,15 +5204,15 @@ Japan has been paralyzed in the stalemate of "budgetary crisis" for a long time,
 
 - 1 An example of "mystification" appears already in the title. I have considerable difficulty in translating his wording *shihon-shugi no hatten* (literally into "the development of capitalism"), since his main claim in the memorandum is that capitalism fails to mark a new "developmental stage" after World War I. What he must really have meant by *hatten* here was more like the "transformation, transfiguration, even aging or decline" of capitalism.
 - 2 The emphasis here was on the economizing of "idle money to be" rather than on "idle money saved from already earned cash income." The latter arose mostly in the form of "depreciation funds" or "accumulation funds," biding time until they grew into a sufficient size appropriate for spending on capital goods. However, under capitalism proper, idle funds saved out of already earned surplus-value income were scarce, and did not linger long before being converted into real capital. Even the savings of the landowning class mainly funded wars and social capital, such that Malthusian underconsumption did not really threaten the capitalism of the mid nineteenth century with significant deflationary pressure. The problem of unproductive "*rentier* incomes" which led to more savings than could be effectively invested (even abroad) arose only after World War I, that is, in the *disintegrating phase* of capitalism. On the other hand, the economizing of "idle money to be" by means of banks' "credit creation" was an essential feature of capitalism proper, facilitating the smooth circulation of commodities within the reproduction-process of society. In it there arose habitually a number of traders who, in selling their commodities, did not need to insist on receiving cash immediately because, had they done so, they would have saved rather than spent it. They may be deemed to have been in possession of "idle money to be." Not to take advantage of such existing slack or latitude that arose automatically in the social reproduction-process, and thus to fail to sell commodities which could otherwise have been sold, would be contrary to commodity-economic rationality. The purpose of bank-credit was to find the most creditworthy traders and to provide them with active (credit) money to expedite the circulation of commodities.
-- 3 On the nature of "money lending capital," see Sekine (1997), Vol. I, pp. 96–104.
+- 3 On the nature of "money lending capital," see Sekine (1997), Vol. I, pp. 96-104.
 - 4 Hyman P. Minsky (2008).
-- 5 Sekine (1997), Vol. I, pp. 217–220.
+- 5 Sekine (1997), Vol. I, pp. 217-220.
 
 6 Interestingly, Minsky (2008, p. 222) himself writes:
 
 Capitalism may very well work best when capital assets are cheap and simple. Instability may very well be exacerbated as production becomes more capital-intensive and as the relative cost and gestation periods of investment goods increase, for in such a capitalist economy financing arrangements are likely to appear in which debtors pay debts not with cash derived from income production, but with cash obtained by issuing debt.
 
-This completely agrees with our (Unoist) view that capitalism worked best (and was closest to its theoretical image) in its liberal stage of development, when leading use-values (such as cotton goods) were readily commodifiable and representative capital-goods (like spinning machines) were both cheap and simple. "Complex and elaborate" durable goods which are at the core of the present-day world economy in both production and consumption are surely much less easily commodifiable than the predominant use-values in the nineteenth century. This bears on the fact that even very simple fixed capital of the prime age of British cotton industry could cause the accumulation-process of capital to become cyclical, and thus constituted the limit of the theory of the circular flow of the capitalist economy (that of the reproduction-schemes). See Sekine (1997), Vol. I, pp. 206–215.
+This completely agrees with our (Unoist) view that capitalism worked best (and was closest to its theoretical image) in its liberal stage of development, when leading use-values (such as cotton goods) were readily commodifiable and representative capital-goods (like spinning machines) were both cheap and simple. "Complex and elaborate" durable goods which are at the core of the present-day world economy in both production and consumption are surely much less easily commodifiable than the predominant use-values in the nineteenth century. This bears on the fact that even very simple fixed capital of the prime age of British cotton industry could cause the accumulation-process of capital to become cyclical, and thus constituted the limit of the theory of the circular flow of the capitalist economy (that of the reproduction-schemes). See Sekine (1997), Vol. I, pp. 206-215.
 
 - 7 My argument in this and following several sections closely echoes points made by Professor Jan Kregel in another context (Kregel 2009).
 - 8 Minsky 2008, pp. 78-79.
@@ -3572,7 +5222,7 @@ This completely agrees with our (Unoist) view that capitalism worked best (and w
 - 12 See the left-hand panel of Figure 11.1.
 - 13 See the right-hand panel of Figure 11.1.
 - 14 The perpetual bonds bearing no interest issued by the state exempt the latter from repayment and interest payment, so it is equivalent to a decree (or fiat) of the state simply bidding the central bank to create fiat money on its behalf (though in the form of the liability of the central bank). They can, however, be marketed with some sweetener, such as the exemption of their holder from inheritance tax up to their value, which may have the advantage of absorbing some idle funds and thus relieving some deflationary pressure.
-- 15 Bernanke 2000, pp. 160–162.
+- 15 Bernanke 2000, pp. 160-162.
 - 16 The current level of the money supply in Japan is about $M_2$ =820 trillion yen, and $M_3$ =1,105 trillion yen, so that, although $F_1$ =100 trillion yen is quite substantial in comparison with the normal size of the general-account budget of the Japanese government, it is not an unrealistic way to deal with the national disaster of the current magnitude. If inflation occurs subsequent to this move, which is always possible for any number of contingent reasons, its cause cannot be ascribed to this particular action.
 - 17 See Niwa (2000, 2003, 2006). More recently, Professor Niwa applied the same method to estimate that the potential GDP in the 1990 [2000]-price for the year 2008 [2010] amounted to about 979 [1020] trillion yen, which, in comparison to the actually recorded figure of GDP, in the same 1990 [2000]-price, of 537 [545] trillion yen, shows the gap equal to 442 [575] trillion yen, again in terms of the 1990 [2000] price. The figures in the square brackets have been made available to me more recently by Professor Niwa.
 - 18 This is like administering a blood transfusion when the patient is about to die of intense anemia. Just as the religious fundamentalist refuses to save lives that could be saved, the market fundamentalist prohibits the fiscal supply of active money to save the economy because it smacks of socialism!
@@ -3581,21 +5231,21 @@ This completely agrees with our (Unoist) view that capitalism worked best (and w
 
 ### **Bibliography**
 
-Bernanke, Ben S. (2000) "Japanese Monetary Policy: A Case of Self-Induced Paralysis?" in Ryoichi Mikitani and Adam S. Posen (eds) *Japan's Financial Crisis and its Parallels to U. S. Experience*, Institute for International Economics, Special Report 13, Washington D. C., pp. 149–166.
+Bernanke, Ben S. (2000) "Japanese Monetary Policy: A Case of Self-Induced Paralysis?" in Ryoichi Mikitani and Adam S. Posen (eds) *Japan's Financial Crisis and its Parallels to U. S. Experience*, Institute for International Economics, Special Report 13, Washington D. C., pp. 149-166.
 
 Friedman, Milton (1969) *The Optimum Quantity of Money and Other Essays*, Aldine Publishing.
 
 Huber, Joseph and Robertson, James (2000) *Creating New Money: A Monetary Reform for the Information Age*, New Economics Foundation, London.
 
-Kregel, Jan (2009) "Why Don't Bailouts Work? Design of a New Financial System versus a Return to Normalcy," *Cambridge Journal of Economics*, Vol. 33, pp. 653–663.
+Kregel, Jan (2009) "Why Don't Bailouts Work? Design of a New Financial System versus a Return to Normalcy," *Cambridge Journal of Economics*, Vol. 33, pp. 653-663.
 
 Minsky, Hyman P. (2008) *Stabilizing an Unstable Economy*, Mc Graw Hill.
 
-Niwa, Haruki (2000) "The Recent Deflationary Gap in Japan: A Quantitative Measurement," *Journal of Asian Economics*, Vol. 11, pp. 245–258.
+Niwa, Haruki (2000) "The Recent Deflationary Gap in Japan: A Quantitative Measurement," *Journal of Asian Economics*, Vol. 11, pp. 245-258.
 
-Niwa, Haruki (2003) "Deflationary Gap in Japan, 1970–2000: A Quantitative Measurement," *Journal of Economic Policy Studies*, Vol. 1, No. 1–2, pp. 79–101.
+Niwa, Haruki (2003) "Deflationary Gap in Japan, 1970-2000: A Quantitative Measurement," *Journal of Economic Policy Studies*, Vol. 1, No. 1-2, pp. 79-101.
 
-Niwa, Haruki (2006) "Deflationary Gap in the Japanese Economy, 1970–2004," Measurement of Its Scale," in *Foundation of Economic Policies according to New Keynesian Orthodoxy*, Tokyo (in Japanese).
+Niwa, Haruki (2006) "Deflationary Gap in the Japanese Economy, 1970-2004," Measurement of Its Scale," in *Foundation of Economic Policies according to New Keynesian Orthodoxy*, Tokyo (in Japanese).
 
 Ôuchi, Tsutomu (1971) *A Study of State Monopoly Capitalism*, Tokyo (in Japanese).
 
@@ -3611,7 +5261,7 @@ Uno, Kôzô (1971) "On the Development of Capitalism after the First World War,"
 
 ## **12 Can the U. S. economy escape the law of gravity?**
 
-### A Minsky–Kalecki approach to the crisis of neoliberalism
+### A Minsky-Kalecki approach to the crisis of neoliberalism
 
 ## *Gary A. Dymski*
 
@@ -3625,15 +5275,15 @@ It is tempting to look at the market as an impartial arbiter .. . But balancing 
 
 ### **Introduction**
 
-Steady U. S. macroeconomic growth was the one constant during the tumultuous 1990s, a decade that saw Japan's momentum-less stagnation, the Mexican financial crisis of 1994–95, the investment boom and financial crisis in East Asia, and the Brazilian and Russian devaluations and Long-Term Investment meltdown of 1998–99. In the early 2000s, the U. S. experienced a recession. Interest rate cuts – later labelled the Greenspan "put" – followed. These reversed the drop-off in housing starts and resale prices, and led to renewed growth. In the early 2000s, it seemed that the U. S. economy had completely evaded any law of economic gravity. Explaining this situation was the challenge I took on in my address before the 49th annual meeting of the Japanese Society of Political Economy (JSPE) in October 2001. This chapter extends the argument I advanced in the JSPE conference.
+Steady U. S. macroeconomic growth was the one constant during the tumultuous 1990s, a decade that saw Japan's momentum-less stagnation, the Mexican financial crisis of 1994-95, the investment boom and financial crisis in East Asia, and the Brazilian and Russian devaluations and Long-Term Investment meltdown of 1998-99. In the early 2000s, the U. S. experienced a recession. Interest rate cuts - later labelled the Greenspan "put" - followed. These reversed the drop-off in housing starts and resale prices, and led to renewed growth. In the early 2000s, it seemed that the U. S. economy had completely evaded any law of economic gravity. Explaining this situation was the challenge I took on in my address before the 49th annual meeting of the Japanese Society of Political Economy (JSPE) in October 2001. This chapter extends the argument I advanced in the JSPE conference.
 
 So why did the U. S. economy avoid the law of economic gravity in the 1990s and early 2000s, before crashing to earth? This paper argues that the U. S. avoided the law of economic gravity, as long as it did, because the dynamics of the U. S. business cycle have changed: from the 1980s and until the 2008 crisis, U. S. business-cycle expansions have been longer than in the past, and have resulted in less cumulative growth.1 This essay uses ideas developed by two giants of twentieth-century economics, Hyman Minsky and Michael Kalecki, to answer this question. These two figures had well developed ideas about the sources of cyclical fluctuations, emphasizing respectively financial instability and labor and capital militancy. Both focused on the sources of growth and stagnation in advanced capitalist economies. Both highlight crucial elements in contemporary dynamics. At the same time, the ideas of both are intentionally incomplete. Kalecki was acutely aware of the importance of monetary factors in cyclical fluctuations, but deemphasized these in his formal work (Dymski, 1996a). Conversely, Minsky was aware of the importance of labor-market dynamics, but emphasized financial factors in his theoretical work.2
 
 Thus, the silence of one is the focal point of the other. Many economists have taken up the challenge of combining these two authors' insights in theoretical models incorporating financial and labor dynamics.3 This chapter takes a largely empirical approach, exploring the postwar behavior of the U. S. macroeconomy. These two authors' ideas about how U. S. business cycles have evolved are shown to be accurate for the postwar period up until the 1980s; beyond that, their ideas about macroeconomic dynamics, which implicitly focus on a *national economy* perspective, must be adjusted to take into account the impact of sustained global imbalances.
 
-In most cases, a nation's cross-border imbalances are typically contained, and net out over time. The situation of the U. S. economy in the last 30 years is different. During this period, the U. S. built up a trade deficit – and corresponding capital-account surplus – of unprecedented size. This huge flow asymmetry became a fundamental feature of the global economic structure. This large and sustained cross-border imbalance cannot be explained in purely economic terms. The persistence of this imbalance rests on something deeper – and as it happens, another imbalance.
+In most cases, a nation's cross-border imbalances are typically contained, and net out over time. The situation of the U. S. economy in the last 30 years is different. During this period, the U. S. built up a trade deficit - and corresponding capital-account surplus - of unprecedented size. This huge flow asymmetry became a fundamental feature of the global economic structure. This large and sustained cross-border imbalance cannot be explained in purely economic terms. The persistence of this imbalance rests on something deeper - and as it happens, another imbalance.
 
-This further imbalance is the U. S.'s hegemony in the global politicaleconomic system. The U. S. has held global economic hegemony since the establishment of the Bretton Woods system. However, the character of this hegemonic power has changed: until 1973, it was rooted in the underwriting of a fixedexchange rate currency system; thereafter, it has been linked to the size and capacity of the U. S.'s economy, military establishment and financial markets. The period from 1973 until the 2008 crash, in turn, was an era of great instability and recurrent crashes. The U. S.'s "safe harbor" role gained unprecedented importance; for in those years, financial deregulation and relaxed controls on cross-border movements made it feasible for those with wealth to reallocate their wealth portfolios globally.4 The period during which the U. S. was a "safe harbor" magnet for global wealth largely corresponded with a period in which the trading capacity of many of the United States' national partners expanded (while the restructuring – that is, "hollowing out" – of American manufacturing and agriculture has been completed). So a global macroeconomic imbalance, paralleling the deeper global power imbalance, arose on the basis of a sustained exchange of competitively priced goods for the promise of economic security.
+This further imbalance is the U. S.'s hegemony in the global politicaleconomic system. The U. S. has held global economic hegemony since the establishment of the Bretton Woods system. However, the character of this hegemonic power has changed: until 1973, it was rooted in the underwriting of a fixedexchange rate currency system; thereafter, it has been linked to the size and capacity of the U. S.'s economy, military establishment and financial markets. The period from 1973 until the 2008 crash, in turn, was an era of great instability and recurrent crashes. The U. S.'s "safe harbor" role gained unprecedented importance; for in those years, financial deregulation and relaxed controls on cross-border movements made it feasible for those with wealth to reallocate their wealth portfolios globally.4 The period during which the U. S. was a "safe harbor" magnet for global wealth largely corresponded with a period in which the trading capacity of many of the United States' national partners expanded (while the restructuring - that is, "hollowing out" - of American manufacturing and agriculture has been completed). So a global macroeconomic imbalance, paralleling the deeper global power imbalance, arose on the basis of a sustained exchange of competitively priced goods for the promise of economic security.
 
 This global imbalance was the root cause of the change in the character and timing of U. S. cyclical fluctuations. When confidence in the "safe harbor" character of U. S. financial and asset markets was shaken by emerging problems in subprime lending in 2006, then further hurt by the 2007 collapse of subprime financing markets and then the 2008 failure of major investment banks due to their subprime exposures, the long period of defying economic gravity came to an end for the U. S.: lost lending capacity, equity losses, and the collapse of the housing bubble punctured both consumption and investment spending, and a new period of U. S. macroeconomic stagnation was at hand. In sum, understanding the current situation requires both using these theorists' ideas and also adapting them to these new circumstances.
 
@@ -3645,15 +5295,15 @@ The "Keynesian Revolution" in economics shifted the focus of national economic p
 
 Hyman Minsky argues in a series of papers and books published primarily in the 1970s and 1980s that advanced capitalist economies are subject to cyclical variability due to financial instability.5 The precondition for financial instability is a set of financing relationships between surplus units with excess resources and deficit units which seek to spend beyond their available means. These arrangements are fragile in a dual sense: borrowers' expectations about future income may be disappointed; and lenders may encounter difficulties in supporting their financing commitments. So spending supported by financing gives rise, respectively, to default and liquidity risk. Intermediaries may ameliorate these risks for lenders or borrowers, but only by bearing them or passing them on to third parties. The level of these risks, and hence the degree of financial fragility depends on three factors: the terms and conditions of financing; the riskiness of the projects being financed; and the balance-sheet obligations of the borrower units.
 
-Financing expenditures with debt increases the demand for aggregate output, but comes at a cost: the economy becomes more fragile as financial commitments rise relative to income flows. The range of income outcomes that permits deficit units to meet repayment commitments shrinks as leverage (the ratio of debt to income) grows – both for individual units and for the economy as a whole. Financial instability tends to rise when an increasing number of households spend beyond their means. When borrowers cannot meet repayment demands, cash-flow disruptions spread to other units' balance sheets, and portions of the economy's asset-liability structure is jeopardized. Resale markets for assets – both financial and housing markets – can worsen mismatches between cash-flow obligations and debt levels: anticipations of rising asset prices encourage the financing of more asset purchases and expenditures, increasing financial risk.
+Financing expenditures with debt increases the demand for aggregate output, but comes at a cost: the economy becomes more fragile as financial commitments rise relative to income flows. The range of income outcomes that permits deficit units to meet repayment commitments shrinks as leverage (the ratio of debt to income) grows - both for individual units and for the economy as a whole. Financial instability tends to rise when an increasing number of households spend beyond their means. When borrowers cannot meet repayment demands, cash-flow disruptions spread to other units' balance sheets, and portions of the economy's asset-liability structure is jeopardized. Resale markets for assets - both financial and housing markets - can worsen mismatches between cash-flow obligations and debt levels: anticipations of rising asset prices encourage the financing of more asset purchases and expenditures, increasing financial risk.
 
 Minsky argued that expectations, debt-financed expenditures, and financial fragility evolve systematically over the business cycle. Initially, balance sheets are robust because assets are conservatively priced and debt commitments modest. The rapid pace of output growth eventually exhausts industrial capacity and forces firms to take on debt to expand production. Meanwhile, expectations turn euphoric and asset prices rise. The combination of euphoric expectations and competitive pressure drives up debt/income ratios and asset prices simultaneously; leverage is rewarded. Asset prices rise and debt burdens grow until finally liability commitments outpace asset returns. So an economy becomes more financially fragile as expansion proceeds; finally a downturn is induced. If debt loads grow too much or euphoric expectations break down, a period of financial instability can begin. If asset values fall and deficit units are unable to service their debt loads, sales of assets in markets with few buyers may be triggered, leading to a debt-deflation cycle. The possibility of a systemic crash is the Minsky crisis.
 
 ### *Kalecki's "Political Business Cycle" Model*
 
-The central concern in Kalecki's writings – including his early Polish-language essays anticipating Keynes' principle of aggregate demand – was the problem of investment and employment fluctuations in capitalist economies. Kalecki's formal models (Kalecki 1954) identified several sources of fluctuation, including variable price-markup ratios and accelerator effects.
+The central concern in Kalecki's writings - including his early Polish-language essays anticipating Keynes' principle of aggregate demand - was the problem of investment and employment fluctuations in capitalist economies. Kalecki's formal models (Kalecki 1954) identified several sources of fluctuation, including variable price-markup ratios and accelerator effects.
 
-It was, however, in one of his non-technical papers, "The Political Economy of Full Employment," that Kalecki developed the argument that sustained full employment is impossible in advanced capitalist societies. His pessimism stems, in effect, from the dependence of capitalist accumulation on Marxian exploitation. He argues first that if unemployment falls too low, workers' effort in production will decline, reducing the profit rate. So as unemployment falls, worker effort may diminish, and capitalists may feel coerced into providing jobs under terms and conditions that compromise profitability. In effect, profit levels are subject to a labor-effort/output tradeoff. This danger can be averted only if the economy is operated at sub-full-employment levels; but a low-output state – stagnation – also diminishes profits. Continued capitalist accumulation is especially threatened if workers unite in social democratic parties that demand full employment as a political outcome. For then the very legitimacy of the powers and rights of the owners of the means of production can be subjected to fundamental challenges. Capitalists' loss of control leads them to capital strike and/or reduced investment, initiating the downturn. In effect, there is an upper limit to capital accumulation.
+It was, however, in one of his non-technical papers, "The Political Economy of Full Employment," that Kalecki developed the argument that sustained full employment is impossible in advanced capitalist societies. His pessimism stems, in effect, from the dependence of capitalist accumulation on Marxian exploitation. He argues first that if unemployment falls too low, workers' effort in production will decline, reducing the profit rate. So as unemployment falls, worker effort may diminish, and capitalists may feel coerced into providing jobs under terms and conditions that compromise profitability. In effect, profit levels are subject to a labor-effort/output tradeoff. This danger can be averted only if the economy is operated at sub-full-employment levels; but a low-output state - stagnation - also diminishes profits. Continued capitalist accumulation is especially threatened if workers unite in social democratic parties that demand full employment as a political outcome. For then the very legitimacy of the powers and rights of the owners of the means of production can be subjected to fundamental challenges. Capitalists' loss of control leads them to capital strike and/or reduced investment, initiating the downturn. In effect, there is an upper limit to capital accumulation.
 
 There is also effectively a lower limit on growth. High unemployment levels are beneficial in some respects for capitalists: high labor effort is assured, wages are low, and their control over the production process is guaranteed. Low rates of capacity utilization may be problematic, especially for firms that have significant financial leverage. Another problem arises because of the influence of labor in the political sphere. If unemployment rises beyond some point, political agitation by the working class might trigger government counter-cyclical action.6
 
@@ -3667,7 +5317,7 @@ These changes brought on the big government era. Cyclical dynamics changed drama
 
 Minsky's fundamental policy point was that big-government capitalism could transform the dynamics of financial instability. The collapse of asset prices is blocked before it turns negative. Investment too is stabilized at a low but positive level. Debt/income levels rise both cyclically and secularly. Balance sheets are not thoroughly "cleaned" through widespread business failures in the downturn, as in the small-government period; so debt/income ratios build up over time.
 
-Dymski and Pollin (1994) conducted an empirical investigation of Minsky's notion that the "small" and "big" government eras had different cyclical dynamics.7 Dymski (2002, 2009) then extended this original study. Dymski and Pollin (1994) established that cyclical trajectories in the "small government" era (the years prior to the 1930s) differed systematically from those in the "big government" era (the 1930s through the end of the 1970s), in the ways dramatized by Minsky: debt-deflation occurred systematically in the "small government" era, with deep and prolonged downturns in economic growth and employment; but the "big government" era was characterized by shorter and more moderate downturns, and a shift from deflationary to inflationary bias. The "big government" era also saw higher average real GDP growth, a lower real interest rate, and vastly reduced bank and business failure rates. Dymski and Pollin (1994) found that 1980s' business cycle behavior reverted to the "small government" era in some ways – high real interest rate and high rates of business and bank failure; but not in others – price inflation was high. It wasn't clear whether cyclical trajectories were returning to their earlier pattern or whether, a new pattern was emerging. Dymski (2002) added 1990s' cyclical data, and found that their trajectory closely resembled that of the 1980s, suggesting that the U. S. economy had entered a new phase in the 1980s.8 Dymski (2009) found that 2000s' cyclical data (through the end of 2007) also fit into a "neoliberal era" pattern.
+Dymski and Pollin (1994) conducted an empirical investigation of Minsky's notion that the "small" and "big" government eras had different cyclical dynamics.7 Dymski (2002, 2009) then extended this original study. Dymski and Pollin (1994) established that cyclical trajectories in the "small government" era (the years prior to the 1930s) differed systematically from those in the "big government" era (the 1930s through the end of the 1970s), in the ways dramatized by Minsky: debt-deflation occurred systematically in the "small government" era, with deep and prolonged downturns in economic growth and employment; but the "big government" era was characterized by shorter and more moderate downturns, and a shift from deflationary to inflationary bias. The "big government" era also saw higher average real GDP growth, a lower real interest rate, and vastly reduced bank and business failure rates. Dymski and Pollin (1994) found that 1980s' business cycle behavior reverted to the "small government" era in some ways - high real interest rate and high rates of business and bank failure; but not in others - price inflation was high. It wasn't clear whether cyclical trajectories were returning to their earlier pattern or whether, a new pattern was emerging. Dymski (2002) added 1990s' cyclical data, and found that their trajectory closely resembled that of the 1980s, suggesting that the U. S. economy had entered a new phase in the 1980s.8 Dymski (2009) found that 2000s' cyclical data (through the end of 2007) also fit into a "neoliberal era" pattern.
 
 The defining characteristics of this era are the systematic deregulation of financial intermediation and financial flows, relatively open trade flows, and a shift in government's role. To borrow Kregel's (1998) terminology, the "big government" role of counter-cyclical spending has largely disappeared; replacing it are government's "big bank" mechanisms for stabilizing the economy (the central bank's lender of last resort function and its use of interest rates to moderate inflationary and deflationary tendencies). The "capital-labor accord" that was implicitly struck during the Golden Age period is abrogated. Labor's right to organize, to protect its real wages from erosion, and to negotiate directly with firm owners and managers is challenged; similarly, the use of government expenditures to support the unemployed, the infirm, and the elderly is increasingly restricted.
 
@@ -3675,7 +5325,7 @@ Government is no longer envisioned as a guarantor or provider of security for in
 
 The shift from the "big government" to "neoliberal" era can be seen in the shifting cyclical dynamics over these years. In these pages, we do not reproduce the empirical cyclical data shown in Dymski and Pollin (1994), Dymski (2002), or Dymski (2009), which used annual data. Instead we examine quarterly data that explores this growing rift in cyclical behaviour.
 
-Minsky's guiding notions – that big-government interventions would stabilize the economy, at the price of higher price inflation – can be evaluated for the period from the 1950s forward with the help of Figures 12.1A–12.1B and 12.2A–12.2B. The behavior of real GDP in longer postwar cyclical expansions is shown in Figure 12.1A. The most rapid growth from trough to peak occurred
+Minsky's guiding notions - that big-government interventions would stabilize the economy, at the price of higher price inflation - can be evaluated for the period from the 1950s forward with the help of Figures 12.1A-12.1B and 12.2A-12.2B. The behavior of real GDP in longer postwar cyclical expansions is shown in Figure 12.1A. The most rapid growth from trough to peak occurred
 
 ## ![](_page_257_Figure_2.jpeg)
 
@@ -3703,7 +5353,7 @@ Taking GDP growth and price inflation together, Minsky's vision of a tamed "big 
 
 The level of the GDP price deflator at the beginning of the expansion is taken as the base, then the percentage growth in the GDP price deflator is shown through the end of that period of cyclical expansion.
 
-In effect, accompanying the changed patterns of GDP growth and price inflation – which suggested to many economists that appropriate macro policies had led to a "great moderation" in global-North cyclical fluctuations – were behavioral shifts undercutting the policy tools needed to bound fluctuations.10
+In effect, accompanying the changed patterns of GDP growth and price inflation - which suggested to many economists that appropriate macro policies had led to a "great moderation" in global-North cyclical fluctuations - were behavioral shifts undercutting the policy tools needed to bound fluctuations.10
 
 This "great moderation" did not mean that the U. S. economy became a painfree zone during the neoliberal era. To the contrary, business and bank failure rates climbed much higher than in the big-government era. In the 1990s, numerous forms of predatory lending, which preyed on working-class people, especially racial minorities, were invented and marketed. Further, employment/ unemployment balances were becoming much more disadvantageous to workers than in the pre-1980 ("big government") period. In effect, Kalecki's political cycle was also evolving in this period.
 
@@ -3719,39 +5369,39 @@ The level of the GDP price deflator at the beginning of the contraction is taken
 
 ## ![](_page_260_Figure_4.jpeg)
 
-*Figure 12.3* Mandatory and discretionary U. S. Federal-Government expenditures (excluding military sector), 1962–2010 (in 2005 \$) (source: Federal Reserve Bank; Historical Tables, US Office of Management and Budget).
+*Figure 12.3* Mandatory and discretionary U. S. Federal-Government expenditures (excluding military sector), 1962-2010 (in 2005 \$) (source: Federal Reserve Bank; Historical Tables, US Office of Management and Budget).
 
 in downturns, due to the political power of labor. In effect, the two force vectors on either side of the unemployment/labor-extraction nexus should create the conditions for what David Schulman of Salomon Brothers termed, in 1992, the "Goldilocks" economy (not too hot, not too cold). An analysis of employment statistics in the "small" and "big government" eras supports this conjecture: from the pre- to the postwar economy, U. S. business-cycle trends showed more moderate lows and highs than in the past.
 
-However, in the neoliberal era, the hot-cold balance in Kalecki's political business-cycle has been upset: capital increasingly secured higher growth rates for profits not by extracting labor from labor-power in domestic markets, but via aggressive globe-spanning investments in production and assembly facilities in lower-wage hubs. This eased the lower-bound constraint on the unemployment rate, even while the growth in redundant workers – and the competition among regional governments for manufacturing or service employment – reduced the political penalties associated with high unemployment rates.
+However, in the neoliberal era, the hot-cold balance in Kalecki's political business-cycle has been upset: capital increasingly secured higher growth rates for profits not by extracting labor from labor-power in domestic markets, but via aggressive globe-spanning investments in production and assembly facilities in lower-wage hubs. This eased the lower-bound constraint on the unemployment rate, even while the growth in redundant workers - and the competition among regional governments for manufacturing or service employment - reduced the political penalties associated with high unemployment rates.
 
-This "boundary shift" can be seen in the drift of U. S. unemployment rates over time. Figure 12.4A shows the movements in the unemployment rate for full-time 25–54-year-old workers during postwar cyclical expansions. The expansions that began in 1950, 1960, and 1971 are bunched at the bottom of this unemployment-rate landscape. Unemployment rates begin at higher ranges in the mid-1970s and early-1980s expansions; but they do drop into significantly
+This "boundary shift" can be seen in the drift of U. S. unemployment rates over time. Figure 12.4A shows the movements in the unemployment rate for full-time 25-54-year-old workers during postwar cyclical expansions. The expansions that began in 1950, 1960, and 1971 are bunched at the bottom of this unemployment-rate landscape. Unemployment rates begin at higher ranges in the mid-1970s and early-1980s expansions; but they do drop into significantly
 
 ## ![](_page_261_Figure_5.jpeg)
 
-*Figure 12.4A* Quarterly U. S. unemployment rate (adults 24–54 years old) in longer postwar expansions, trough to peak (truncated at 25 quarters) (source: Bureau of Labor Statistics, U. S. Department of Labor).
+*Figure 12.4A* Quarterly U. S. unemployment rate (adults 24-54 years old) in longer postwar expansions, trough to peak (truncated at 25 quarters) (source: Bureau of Labor Statistics, U. S. Department of Labor).
 
 ## Note
 
-The unemployment rate for adults aged 25–54 is charted from the trough through the end of each period of cyclical expansion.
+The unemployment rate for adults aged 25-54 is charted from the trough through the end of each period of cyclical expansion.
 
-lower ranges during these expansions (as in past expansions). The 1991 and 2001 expansions are different: they start in moderate ranges, but drop very little during the run of the cycle. This pattern has thus far been repeated in the expansion that began in 2009: it started at a very high level (as did the 1982 expansion), but has dropped less than a percentage point during the seven-quarter expansion shown here. Figure 12.4B shows trends in unemployment rates during cyclical contractions. Note that through 1981, contractions persisted for 4–7 quarters, with the unemployment rate arcing upward throughout that time-period. The 1990 and 2001 downturns in GDP growth were remarkably short – just two quarters – allowing no time for significant unemployment-rate adjustment. This pattern shifted dramatically with the 2008 recession, however; it lasted a long time and saw the unemployment rate double.
+lower ranges during these expansions (as in past expansions). The 1991 and 2001 expansions are different: they start in moderate ranges, but drop very little during the run of the cycle. This pattern has thus far been repeated in the expansion that began in 2009: it started at a very high level (as did the 1982 expansion), but has dropped less than a percentage point during the seven-quarter expansion shown here. Figure 12.4B shows trends in unemployment rates during cyclical contractions. Note that through 1981, contractions persisted for 4-7 quarters, with the unemployment rate arcing upward throughout that time-period. The 1990 and 2001 downturns in GDP growth were remarkably short - just two quarters - allowing no time for significant unemployment-rate adjustment. This pattern shifted dramatically with the 2008 recession, however; it lasted a long time and saw the unemployment rate double.
 
 Figure 12.5, which contains data on labor-force participation rates during cyclical expansions, presents another perspective on the drifting boundaries of Kalecki's accumulation cycle. The data starkly illustrate that the base-level of labor-force participation rose consistently from cycle to cycle from 1950 to 2001: it started at 60 percent and climbed to 67 percent. Working from this shifting base-level, labor-force participation rose notably in every expansion through 1981. In the 1991 and 2001 expansions, it was flat. In the 2009, labor-force participation started from a lower base (just over 65 percent) and has drifted down. Figures 12.6A and 12.6B, in turn, shows evidence of drifting boundaries as well.
 
 ## ![](_page_262_Figure_3.jpeg)
 
-*Figure 12.4B* Quarterly U. S. unemployment rate (adults 24–54 years old) in longer postwar contractions, peak to trough (source: Bureau of Labor Statistics, U. S. Department of Labor).
+*Figure 12.4B* Quarterly U. S. unemployment rate (adults 24-54 years old) in longer postwar contractions, peak to trough (source: Bureau of Labor Statistics, U. S. Department of Labor).
 
 ### Note
 
-The unemployment rate for adults aged 25–54 is shown from the peak to the end of each period of cyclical contraction.
+The unemployment rate for adults aged 25-54 is shown from the peak to the end of each period of cyclical contraction.
 
 ## ![](_page_263_Figure_2.jpeg)
 
 *Figure 12.5* Quarterly U. S. labor-force participation rates in longer post-war expansions, trough to peak (truncated at 25 quarters) (source: Bureau of Labor Statistics, U. S. Department of Labor).
 
-The labor force participation rate (the percentage of adults aged 16–64 who are employed or unemployed and actively seeking work) is shown from the first quarter following the trough through the end of each period of cyclical expansion.
+The labor force participation rate (the percentage of adults aged 16-64 who are employed or unemployed and actively seeking work) is shown from the first quarter following the trough through the end of each period of cyclical expansion.
 
 These figures display data on the average duration of unemployment for all unemployed workers for periods of cyclical expansion and contraction, respectively. Generally, this average duration has a downward slope in expansions, and drifts slightly upward in contractions. Both Figures 12.6A and 12.6B provide weak evidence that unemployment duration has been rising through time; but they provide strong evidence that the 2008 recession and 2009 expansion are unusually harsh, with durations far above those experienced before.
 
@@ -3781,7 +5431,7 @@ In sum, the data for the U. S. suggest that while the 1990s brought a return to 
 
 ## ![](_page_266_Figure_1.jpeg)
 
-*Figure 12.7* Sources of U. S. GDP growth, by decade, 1950–2010 (source: Bureau of Labor Statistics, U. S. Department of Labor).
+*Figure 12.7* Sources of U. S. GDP growth, by decade, 1950-2010 (source: Bureau of Labor Statistics, U. S. Department of Labor).
 
 Positive % changes sum to 100% for every time period.
 
@@ -3795,11 +5445,11 @@ In the early 2000s, Krugman (2001) recommended policy steps to reduce the value 
 
 As a fiat currency, the dollar's strength has rested ultimately on the strength of the U. S. itself. This strength rests on several distinct bases: U. S. military power and the geographic isolation of the U. S. from most global upheaval; the size of the U. S. economy and the sophistication and relative openness of its financial markets; the U. S.'s willingness to absorb immigrants, and its capacity to generate jobs; and the shrinking list of prosperous, secure alternatives.
 
-The links between political and economic instability, capital movements, and currency balances and values have been examined by economists over the course of many years. Kindleberger's well known 1937 volume, for example, described capital movements as destabilizing: "capitalists seek to avoid the country of business of depression and avoid the possibility of national bankruptcy," a process that can end only with drastic action, such as an overnight devaluation, banking system collapse, a debt moratorium, foreign exchange controls, or the "accession of a 'strong man' to power" (Kindleberger, 1937: 170–172).
+The links between political and economic instability, capital movements, and currency balances and values have been examined by economists over the course of many years. Kindleberger's well known 1937 volume, for example, described capital movements as destabilizing: "capitalists seek to avoid the country of business of depression and avoid the possibility of national bankruptcy," a process that can end only with drastic action, such as an overnight devaluation, banking system collapse, a debt moratorium, foreign exchange controls, or the "accession of a 'strong man' to power" (Kindleberger, 1937: 170-172).
 
-This argument leads directly to Kindleberger's oft-cited argument that the international financial system functions well only when one nation is willing and able to function hegemonically as the international lender of last resort – as the guarantor of global financial stability (Kindleberger, 1973, 1974). This leads to the idea that a nation which functions as a hegemonic financial center is special, and its currency should enjoy special privileges. In the 1960s, the U. S. developed a trade deficit, at the same time that its leading companies were acquiring business assets abroad. This imbalance is sustainable only if the rest of the world is willing to hold the dollars thus released from their nation of origin. The idea of a dollar shortage had been suggested in the 1950s; in the 1960s a number of authors joined this argument to the idea of the U. S.'s superior financial and investment markets – see Kindleberger (1965) and the well-known essay by Despres *et al*. (1966) which is cited above. The Bretton Woods fixed exchangerate system did not survive the stresses of this period; policy flexibility was needed, as Volcker (1979) later noted. During the 1970s, the dollar fell against all the currencies of its major trading companies. This was viewed by American economists as a means of "passively" accomplishing restoring balance-ofpayments equilibrium (Krause, 1970), and by Europeans as an effort by the U. S. to export the worst effects of 1970s stagflation to Europe (Parboni, 1979). U. S. military power reached a low in the 1970s with defeat in Vietnam.
+This argument leads directly to Kindleberger's oft-cited argument that the international financial system functions well only when one nation is willing and able to function hegemonically as the international lender of last resort - as the guarantor of global financial stability (Kindleberger, 1973, 1974). This leads to the idea that a nation which functions as a hegemonic financial center is special, and its currency should enjoy special privileges. In the 1960s, the U. S. developed a trade deficit, at the same time that its leading companies were acquiring business assets abroad. This imbalance is sustainable only if the rest of the world is willing to hold the dollars thus released from their nation of origin. The idea of a dollar shortage had been suggested in the 1950s; in the 1960s a number of authors joined this argument to the idea of the U. S.'s superior financial and investment markets - see Kindleberger (1965) and the well-known essay by Despres *et al*. (1966) which is cited above. The Bretton Woods fixed exchangerate system did not survive the stresses of this period; policy flexibility was needed, as Volcker (1979) later noted. During the 1970s, the dollar fell against all the currencies of its major trading companies. This was viewed by American economists as a means of "passively" accomplishing restoring balance-ofpayments equilibrium (Krause, 1970), and by Europeans as an effort by the U. S. to export the worst effects of 1970s stagflation to Europe (Parboni, 1979). U. S. military power reached a low in the 1970s with defeat in Vietnam.
 
-By the end of the 1970s, the U. S. economy was in disarray. This led to a shift in U. S. economic policies – away from a welfarist, regulationist state and toward marketization and deregulation. The U. S. banking system was opened to market forces and consolidation. U. S. workers were exposed to new risks, pay cuts, and dislocation. Paul Volcker (1979) baldly described the agenda: "a controlled disintegration in the world economy is a legitimate objective for the 1980s."
+By the end of the 1970s, the U. S. economy was in disarray. This led to a shift in U. S. economic policies - away from a welfarist, regulationist state and toward marketization and deregulation. The U. S. banking system was opened to market forces and consolidation. U. S. workers were exposed to new risks, pay cuts, and dislocation. Paul Volcker (1979) baldly described the agenda: "a controlled disintegration in the world economy is a legitimate objective for the 1980s."
 
 The U. S. position on balance-of-payments management was transformed in this period of "controlled disintegration:" the idea of managing the exchange rate to permit passive balance-of-payments adjustment was replaced by the idea of a passive exchange-rate policy. This policy approach was captured in Mc Kinnon's suggestion that the U. S. is the "Nth country" in a world of "N-1" managed currencies.12 The Reagan Administration used this philosophy to implement a macroeconomic policy that imposed tight money and high interest rates as a means of attacking inflation, on the one hand, and expansionary fiscal policy as a means of stimulating demand, on the other. The result was a rapid rise in the value of the dollar and a rapid deterioration of the U. S. current account. Overseas wealthowners (especially Japan) bought dollar-denominated assets. Coincidentally, the Reagan Administration reasserted U. S. military might. The high real interest rates, together with a collapse in commodity prices, destabilized heavily indebted Latin America and led to its "lost decade."
 
@@ -3807,7 +5457,7 @@ This episode demonstrated the willingness of the U. S. to seek its own position 
 
 Rather than "benign" neglect, the private markets came to believe that American monetary policy, and the policies of other countries, would eventually be adjusted if necessary to stop a run on the currency. . . . In particular, American monetary policy no longer perversely aggravated cycles in the dollar exchange rate and in world money.
 
-This period of stability came apart after 1995. Among the causes were the extended rise in U. S. financial-market prices, the major periodic financial crises of the late 1990s, and the "private market" beliefs cited by Mc Kinnon. The rise of the dollar in this period, and the failure of the dollar to drop in response to interest-rate easing in 2000–01, can be attributed to the hegemonic role of the U. S., its status as a safe haven in a world of crumbling sanctuaries and alternatives.
+This period of stability came apart after 1995. Among the causes were the extended rise in U. S. financial-market prices, the major periodic financial crises of the late 1990s, and the "private market" beliefs cited by Mc Kinnon. The rise of the dollar in this period, and the failure of the dollar to drop in response to interest-rate easing in 2000-01, can be attributed to the hegemonic role of the U. S., its status as a safe haven in a world of crumbling sanctuaries and alternatives.
 
 ### *Minsky's Model and Global Imbalances*
 
@@ -3823,27 +5473,27 @@ It follows from this argument that those with substantial amounts of dollardenom
 
 Service industries, in the meantime, went in two different directions. One direction led to the "New Economy," consisting of enclaves of workers with specialized skills commanding scarcity rents. Much of these workers' compensation came in the form of shares and stock options. Thus, the accelerated growth of asset prices during much of the neoliberal era aligned these workers' interests with wealth-owners'. The second direction led to service jobs demanding few skills. These became the reserve of economically insecure, heavily minority workers. These workers' ranks include many undocumented laborers, whose presence reinforces high levels of labor effort in lower-skill occupations (Dymski, 1996b).
 
-These two arms of the new service economy are structurally interlocked. Business and consumer services have been increasingly targeted toward upscale customers – the prosperous few whose fortunes are tied to the stock market – and supplied by low-wage and immigrant labor. This interlock, like the rise of the global factory and of immigrant labor, also affects the political dynamics of the business cycle that Kalecki identified. Gains in employment have very different rewards for "average" workers – and hence political effects – than did employment gains in the Big Government era. And unemployment pressures may operate differently in these two ends of the new service economy; pain felt in the lower reaches of the wage and skill structure may be invisible in the privileged reaches of the workforce (and vice versa). Some portions of the "working class" gain when new sources of low-wage labor are opened up; and other portions lose. Class solidarity by workers dissolves in the face of the working class's numerous skill-based, education-based, racial and gender divides (Dymski, 1996c).
+These two arms of the new service economy are structurally interlocked. Business and consumer services have been increasingly targeted toward upscale customers - the prosperous few whose fortunes are tied to the stock market - and supplied by low-wage and immigrant labor. This interlock, like the rise of the global factory and of immigrant labor, also affects the political dynamics of the business cycle that Kalecki identified. Gains in employment have very different rewards for "average" workers - and hence political effects - than did employment gains in the Big Government era. And unemployment pressures may operate differently in these two ends of the new service economy; pain felt in the lower reaches of the wage and skill structure may be invisible in the privileged reaches of the workforce (and vice versa). Some portions of the "working class" gain when new sources of low-wage labor are opened up; and other portions lose. Class solidarity by workers dissolves in the face of the working class's numerous skill-based, education-based, racial and gender divides (Dymski, 1996c).
 
 ### **Conclusion**
 
-This chapter has investigated the shifting behavior of the U. S. business cycle by reflecting on Minsky's small-government/big-government framework and on Kalecki's political business cycle. It has used selective empirical evidence to argue that the neoliberal era brought an end to the apparent stability of the biggovernment era that Minsky hoped would constitute the end of history – or at least of capitalist instability. It undermined the relatively narrow band within which Kalecki's political-business cycle moved for two decades in the postwar period.
+This chapter has investigated the shifting behavior of the U. S. business cycle by reflecting on Minsky's small-government/big-government framework and on Kalecki's political business cycle. It has used selective empirical evidence to argue that the neoliberal era brought an end to the apparent stability of the biggovernment era that Minsky hoped would constitute the end of history - or at least of capitalist instability. It undermined the relatively narrow band within which Kalecki's political-business cycle moved for two decades in the postwar period.
 
-The key problem was the ever-deepening asymmetry in the global role of the U. S. economy. The U. S. economy's apparent strength, including its high-dollar policy, was linked to a persistent weakness – its deficit on current account. The aggressive deregulation of finance that accompanied the neoliberal years in the U. S. made it appear, for almost three decades, that the U. S.'s global imbalance was the result of its strength, not its weakness: its persistent surplus on capital account could be viewed as comparative advantage in being a global safe haven, or the home of the world's dominant financial center. When they first emerged, the "twin deficits" of government and current-account deficits drew substantial attention from policymakers and the public. But the less-remarked on capitalaccount inflows that paralleled these deficits were a convenience; further, the sky did not fall, as Minsky once put it. For some time, these structural features became normal, apparently unremarkable features of the world economy.
+The key problem was the ever-deepening asymmetry in the global role of the U. S. economy. The U. S. economy's apparent strength, including its high-dollar policy, was linked to a persistent weakness - its deficit on current account. The aggressive deregulation of finance that accompanied the neoliberal years in the U. S. made it appear, for almost three decades, that the U. S.'s global imbalance was the result of its strength, not its weakness: its persistent surplus on capital account could be viewed as comparative advantage in being a global safe haven, or the home of the world's dominant financial center. When they first emerged, the "twin deficits" of government and current-account deficits drew substantial attention from policymakers and the public. But the less-remarked on capitalaccount inflows that paralleled these deficits were a convenience; further, the sky did not fall, as Minsky once put it. For some time, these structural features became normal, apparently unremarkable features of the world economy.
 
-However, these structural imbalances undermined the vibrancy of U. S. business-cycle dynamics. Minsky's formula for maintaining economic stability – "big government" and "big bank" – was neutralized. The Kaleckian political business cycle, wherein political pressures, exerted on one side by capital and on the other by labor, force the economy to maintain a reasonable – not excessive – pace of accumulation, was loosened and weakened. The undercutting of U. S. labor eventually hollowed out the income flows needed to sustain vibrant accumulation and creditor-borrower relations. Kalecki's upper bound on unemployment was altered through structural shifts in the labor market, intimately linked to globalization.
+However, these structural imbalances undermined the vibrancy of U. S. business-cycle dynamics. Minsky's formula for maintaining economic stability - "big government" and "big bank" - was neutralized. The Kaleckian political business cycle, wherein political pressures, exerted on one side by capital and on the other by labor, force the economy to maintain a reasonable - not excessive - pace of accumulation, was loosened and weakened. The undercutting of U. S. labor eventually hollowed out the income flows needed to sustain vibrant accumulation and creditor-borrower relations. Kalecki's upper bound on unemployment was altered through structural shifts in the labor market, intimately linked to globalization.
 
 The answer to the question posed in this chapter's title is self-evident: no economy rooted in capitalist accumulation can avoid the "law of gravity." What goes up must come down when the underlying motives driving economic forces are insatiable desires to accumulate and to gain at the expense of the other. The U. S. did not reach the end of history in the neoliberal era; instead its cyclical dynamics gradually lost their forcefulness in restoring the conditions for further accumulation. Eventually, the pressure point was the inability of American households to maintain consumption expenditures and absorb debt while sustaining real-wage losses and reduced labor-force participation. The balance between asset-price appreciation, debt buildup, and consumption crystallized into a knifeedge. The point on this knife edge sharpened as the boom in financial prices spread into housing. When the under-regulated U. S. financial sector made housing the new favourite object of its zero-sum speculation games and rentseeking, the crash was a matter of time.
 
 For a time, the special position of the dollar as the ultimate safe haven in a world of stagnation and insecurity kept the game going. The high U. S. dollar maintained U. S. prosperity, via its effects on price inflation, interest rates, mortgage refinancings, etc., up to a point. The worse were conditions in the rest of the world, the higher the rental value of the dollar, and the more distorted the United States' external position could become without adverse effects. But this was not a sustainable calculus for twenty-first century economics. Despres, Kindleberger, and Salant argued in the 1960s that a global dollar shortage justified a U. S. trade deficit together with a high dollar. What was on offer in the 2000s was not so much a dollar shortage as a global security shortage. For a time, the good life was for sale; its rental price the cost of acquiring U. S. dollars. But the current situation rested on too many knife-edges to persist indefinitely. Even the protection of a nuclear missile shield could not alleviate unsustainable pressures on increasingly polarized U. S. households and businesses.
 
-Much of this concluding section was written as a speculation – a "what if" – in the address I delivered a decade ago in Tokyo. For many sentences, adapting that essay for use today involved replacing the conditional tense ("what if" phrases) with the declarative (phrases about what "was" or now "is"). The extended crisis seen as a distant, if dark, possibility ten years ago, continues to unfold as this essay is being written.
+Much of this concluding section was written as a speculation - a "what if" - in the address I delivered a decade ago in Tokyo. For many sentences, adapting that essay for use today involved replacing the conditional tense ("what if" phrases) with the declarative (phrases about what "was" or now "is"). The extended crisis seen as a distant, if dark, possibility ten years ago, continues to unfold as this essay is being written.
 
 The essay delivered before the Japanese Society for Political Economy in October 2001 ended with the suggestion that:
 
 The globe's leading nations might be forced to choose yet again between the military and the populist solutions to global capitalist instability and crisis. History has recorded how this choice was resolved in the last century; can we be wiser in this new one?
 
-The shadows now being cast by the Euro crisis – not to mention the shadows cast by a U. S. politics besieged by nativism and Know-Nothingism – give little reason to hope that human resources of wisdom have yet been rekindled. What hope we can find for transcending this crisis of capitalism resides in part in renewing the political economy traditions of Marx and Keynes, and in striving to communicate across national borders. The Japanese Society for Political Economy has already played a crucial role in this renewal of ideas and this sustaining of communication. The active participation of Society members in the debates triggered by the still-emerging global crisis can help to assure that paths of peace and not war are chosen in humanity's renewed search for more prosperous worlds for our children, and for our children's children.
+The shadows now being cast by the Euro crisis - not to mention the shadows cast by a U. S. politics besieged by nativism and Know-Nothingism - give little reason to hope that human resources of wisdom have yet been rekindled. What hope we can find for transcending this crisis of capitalism resides in part in renewing the political economy traditions of Marx and Keynes, and in striving to communicate across national borders. The Japanese Society for Political Economy has already played a crucial role in this renewal of ideas and this sustaining of communication. The active participation of Society members in the debates triggered by the still-emerging global crisis can help to assure that paths of peace and not war are chosen in humanity's renewed search for more prosperous worlds for our children, and for our children's children.
 
 ### **Notes**
 
@@ -3853,40 +5503,40 @@ The shadows now being cast by the Euro crisis – not to mention the shadows cas
 - 4 In the contemporary period, then, the U. S. is not hegemonic in the price sense of Kindleberger: the Federal Reserve is not pre-committed as a lender of last resort (LLR) in a fixed-exchange rate system.
 - 5 See especially Minsky 1975. Minsky's ideas have several sources; but his main inspiration is Keynes (1936). Keynes famously observed that economic agents will discount liquidity in periods of growth and rising asset values, but run to liquidity in times of contraction and unstable markets.
 - 6 Another possibility is state-led recovery to increase the state's military might and/or its colonial reach, as emphasized in Kalecki (1971).
-- 7 The details of this investigation are elaborated in the chapters cited here. Briefly, annual U. S. Economic data were collected (or in one case constructed) for the period 1887–1988 for several aggregate variables. These variables were then grouped by cycle based on NBER business-cycle turning points, and cyclical "trajectories" were computed. These trajectories traced out the average behavior of each variable from the trough to the peak of every business cycle, discarding World-War periods. Several variance-based tests established that these trough-peak data were most efficiently grouped according to the "small government" (pre-1930s), "big government" (1930s to 1970s), and "neoliberal era" (1980s–present) eras.
+- 7 The details of this investigation are elaborated in the chapters cited here. Briefly, annual U. S. Economic data were collected (or in one case constructed) for the period 1887-1988 for several aggregate variables. These variables were then grouped by cycle based on NBER business-cycle turning points, and cyclical "trajectories" were computed. These trajectories traced out the average behavior of each variable from the trough to the peak of every business cycle, discarding World-War periods. Several variance-based tests established that these trough-peak data were most efficiently grouped according to the "small government" (pre-1930s), "big government" (1930s to 1970s), and "neoliberal era" (1980s-present) eras.
 - 8 These time series were recalculated to reflect some differences in measurement. In particular, chain-weighting replaced earlier methods of making real/nominal adjustments, and some conventions about depreciation and other components of macroeconomic aggregates have changed.
 - 9 This restricted vision of the role of government is set out forcefully and clearly by Guitián (1998).
 - 10 The term "great moderation" was introduced by Stock and Watson (2002).
 - 11 Robert Gordon, for one, has been quite suspicious about whether the 1990s marked a return to 1960s-like prosperity. At the beginning of the 1990s expansion, Gordon wrote an article investigating why the U. S. was apparently in a "jobless recovery" (1993). He was suspicious of claims about the resurgence of productivity; he argued in a famous unpublished paper (1999) that investment growth was linked to unsustainable computer-system conversions. He examined the "new economy" more closely (2000). He remained skeptical that the U. S. economy's high growth from 1995 to 2000 is based on "permanent" sources of economic advantage (2001). For a contrary view, see Stiroh (2001) and the references therein.
 
-12 Mc Kinnon (1979, pages 34–35) wrote:
+12 Mc Kinnon (1979, pages 34-35) wrote:
 
 N-1 exchange-rate policies correspond approximately to N-1 balance-of-payments targets. If the accounting is such that the sum of the world's payment surpluses equals the sum of all deficits, the balance-of-payments position of the Nth is determined from the other N-1. Again, to avoid conflict and insure consistent decentralization of balance-of-payment policies, the natural counterpart of a passive foreign exchange rate policy is a passive balance-of-payments policy.
 
 ### **Bibliography**
 
 - Chauvet, Marcelle and Simon Potter (2001) "Recent Changes in the US Business Cycle," *Staff Report No. 126.* Research Department, Federal Reserve Bank of New York.
-- Crotty, James (1990) "Owner Manager Conflict and Financial Theories of Investment Instability: A Critical Assessment of Keynes, Tobin, and Minsky," *Journal of Post Keynesian Economics*, 12(4), Summer: 519–542.
+- Crotty, James (1990) "Owner Manager Conflict and Financial Theories of Investment Instability: A Critical Assessment of Keynes, Tobin, and Minsky," *Journal of Post Keynesian Economics*, 12(4), Summer: 519-542.
 - Crotty, James and Gary Dymski (1998) "Can Global Neoliberalism Survive Victory in Asia? The Political Economy of the Korean Crisis," with James Crotty, *International Papers in Political Economy*, 2.
 - Cumings, Bruce (1999) *Parallax Visions: Making Sense of American-East Asian Relations at the End of the Century*, Durham, NC: Duke University Press.
 - Despres, Emile, Charles P. Kindleberger, and Walter Salant (1966) "The Dollar and World Liquidity," *The Economist*, February 5.
-- Dymski, Gary (1996a) "Kalecki's Monetary Economics," in *An Alternative Macroeconomic Theory: the Kaleckian Model and Post Keynesian Economics*. edited by John King, Amsterdam: Kluwer Academic Publishers, pp. 115–140.
-- Dymski, Gary (1996b) "Exploitation and Racial Inequality: The US Case," *Research in Political Economy*, 15, pp. 111–138.
-- Dymski, Gary (1996c) "Economic Polarization and US Policy Activism," *International Review of Applied Economics*, 10(1), January, pp. 65–84.
+- Dymski, Gary (1996a) "Kalecki's Monetary Economics," in *An Alternative Macroeconomic Theory: the Kaleckian Model and Post Keynesian Economics*. edited by John King, Amsterdam: Kluwer Academic Publishers, pp. 115-140.
+- Dymski, Gary (1996b) "Exploitation and Racial Inequality: The US Case," *Research in Political Economy*, 15, pp. 111-138.
+- Dymski, Gary (1996c) "Economic Polarization and US Policy Activism," *International Review of Applied Economics*, 10(1), January, pp. 65-84.
 - Dymski, Gary (1999) "Asset Bubbles in the Korean and Japanese Crisis: A Spatialized Minsky Approach," *Journal of Regional Studies*, Korea, May.
-- Dymski, Gary (2002) "Post-Hegemonic US Economic Hegemony: Minskian and Kaleckian Dynamics in the Neoliberal Era," *Keizai Riron Gakkai Nempo (Journal of the Japanese Society for Political Economy*), 39, April, pp. 247–264.
-- Dymski, Gary (2009) "Heterodox Economics as Crisis Theory: From Profit-Squeeze to the Global Liquidity Meltdown," in *Heterodox Macroeconomics: Keynes, Marx and Globalization*, edited by Jonathan Goldstein and Michael Hillard, New York: Routledge, pp. 66–84.
-- Dymski, Gary and Robert Pollin (1994) "The Costs and Benefits of Financial Instability: Big Government Capitalism and the Minsky Paradox," in *New Directions in Monetary Macroeconomics: Essays in the Tradition of Hyman P. Minsky*, edited by Gary Dymski and Robert Pollin, Ann Arbor: University of Michigan Press, pp. 369–401.
+- Dymski, Gary (2002) "Post-Hegemonic US Economic Hegemony: Minskian and Kaleckian Dynamics in the Neoliberal Era," *Keizai Riron Gakkai Nempo (Journal of the Japanese Society for Political Economy*), 39, April, pp. 247-264.
+- Dymski, Gary (2009) "Heterodox Economics as Crisis Theory: From Profit-Squeeze to the Global Liquidity Meltdown," in *Heterodox Macroeconomics: Keynes, Marx and Globalization*, edited by Jonathan Goldstein and Michael Hillard, New York: Routledge, pp. 66-84.
+- Dymski, Gary and Robert Pollin (1994) "The Costs and Benefits of Financial Instability: Big Government Capitalism and the Minsky Paradox," in *New Directions in Monetary Macroeconomics: Essays in the Tradition of Hyman P. Minsky*, edited by Gary Dymski and Robert Pollin, Ann Arbor: University of Michigan Press, pp. 369-401.
 - Godley, Wynne (1999) "Seven Unsustainable Processes: Medium-Term Prospects and Policies for the United States and the World," *Special Report*, Jerome Levy Economics Institute of Bard College.
 
 - Godley, Wynne and Alex Izurieta (2001) "As the Implosion Begins. . .? Prospects and Policies for the US Economy: A Strategic View," Jerome Levy Economics Institute, June.
 - Gordon, David M., Richard Edwards, and Michael Reich (1982) *Segmented Work, Divided Workers*, Cambridge: Cambridge University Press.
-- Gordon, Robert J. (1993) "The Jobless Recovery: Does it Signal a New Era of Productivity-Led Growth?" *Brookings Papers on Economic Activity*, 1, pp. 271–316.
+- Gordon, Robert J. (1993) "The Jobless Recovery: Does it Signal a New Era of Productivity-Led Growth?" *Brookings Papers on Economic Activity*, 1, pp. 271-316.
 - Gordon, Robert J. (1999) "Has the 'New Economy' Rendered the Productivity Slowdown Obsolete?" Mimeo, Department of Economics, Northwestern University, Revised version, June 14.
-- Gordon, Robert J. (2000) "Does the 'New Economy' Measure up to the Great Inventions of the Past?" *Journal of Economic Perspectives*, 14(4), Fall 2000, pp. 49–74.
+- Gordon, Robert J. (2000) "Does the 'New Economy' Measure up to the Great Inventions of the Past?" *Journal of Economic Perspectives*, 14(4), Fall 2000, pp. 49-74.
 - Gordon, Robert J. (2001) "Technology and Economic Performance in the American Economy," working paper, Department of Economics, Northwestern University, April.
 - Guitián, Manuel (1998) "The Challenge of Managing Capital Flows," *Finance and Development*, June.
-- Houston, David (1992) "Is there a New Social Structure of Accumulation?" *Review of Radical Political Economics*, 24(2), Summer, pp. 60–67.
+- Houston, David (1992) "Is there a New Social Structure of Accumulation?" *Review of Radical Political Economics*, 24(2), Summer, pp. 60-67.
 - Itoh, Makoto and Costas Lapavitsas (1999) *Political Economy of Money and Finance*. Houndmills, UK: Macmillan.
 - Jarsulic, Marc (1998) *Effective Demand and Income Distribution*, Boulder, Colo.: Westview Press.
 - Kalecki, Michal (1954) *Theory of Economic Dynamics*, London: Allen and Unwin.
@@ -3894,13 +5544,13 @@ N-1 exchange-rate policies correspond approximately to N-1 balance-of-payments t
 - Keynes, John Maynard (1936) *The General Theory of Employment, Interest, and Prices*, London: Macmillan.
 - Kindleberger, Charles P. (1937) *International Short-Term Capital Movements*, New York: Columbia University Press.
 - Kindleberger, Charles P. (1965) "Balance-of-Payments Deficits and the International Market for Liquidity," *Princeton Essays on International Finance,* No. 46, Princeton: Princeton University Press.
-- Kindleberger, Charles P. (1973) *The World in Depression, 1929–1939*, Berkeley: University of California Press.
+- Kindleberger, Charles P. (1973) *The World in Depression, 1929-1939*, Berkeley: University of California Press.
 - Kindleberger, Charles P. (1974) *The Formation of Financial Centers: A Study in Comparative Economic History*, Princeton: International Finance Section, Princeton University.
-- Krause, Lawrence B. (1970) "A Passive Balance of Payments Strategy for the US," *Brookings Papers on Economic Activity*, 3, pp. 339–360.
+- Krause, Lawrence B. (1970) "A Passive Balance of Payments Strategy for the US," *Brookings Papers on Economic Activity*, 3, pp. 339-360.
 - Kregel, Jan (1998) "Yes, 'It' Did Happen Again: A Minsky Crisis Happened in Asia," Working Paper No. 234, Jerome Levy Economics Institute of Bard College, April.
 - Krugman, Paul (2001) "Blessed Are the Weak," *New York Times*, August 1.
 - Leonhardt, David (2001) "More Falling Behind on Mortgage Payments," *New York Times*, June 12.
-- Lippit, Victor D. (1997) "The Reconstruction of a Social Structure of Accumulation in the United States," *Review of Radical Political Economics*, 29(3), Summer, pp. 11–21.
+- Lippit, Victor D. (1997) "The Reconstruction of a Social Structure of Accumulation in the United States," *Review of Radical Political Economics*, 29(3), Summer, pp. 11-21.
 - Mc Kinnon, Ronald I. (1979) *Money in International Exchange*, New York: Oxford University Press.
 - Mc Kinnon, Ronald I. (1996) *The Rules of the Game: International Money and Exchange Rates*, Cambridge: MIT Press.
 
@@ -3908,14 +5558,14 @@ N-1 exchange-rate policies correspond approximately to N-1 balance-of-payments t
 - Minsky, Hyman (1982) "Can 'It' Happen Again? A Reprise," in *Can 'It' Happen Again?* Armonk, NY: M. E. Sharpe.
 - Okun, Arthur (1975) *Equality and Efficiency: The Big Trade-Off*, Washington, D. C.: Brookings Institution.
 - Parboni, Riccardo (1981) *The Dollar and Its Rivals*, Trans. Jon Rothschild, New York: Verso Press.
-- Roosa, Robert V. (1964) "Balance of Payments Adjustment and International Liquidity," *Journal of Finance*, 19(1), March, pp. 1–15.
+- Roosa, Robert V. (1964) "Balance of Payments Adjustment and International Liquidity," *Journal of Finance*, 19(1), March, pp. 1-15.
 - Sawyer, Malcolm C. (1985) *The Economics of Michal Kalecki*, Houndmills, Basingstoke: Macmillan.
 - Stock, James H. and Mark W. Watson (2002) "Has the Business Cycle Changed and Why?" NBER Working Paper No. 9127, Cambridge MA: National Bureau of Economic Research, September.
 - Skott, Peter (1989) *Conflict and Effective Demand in Economic Growth*, New York: Cambridge University Press.
 - Stiroh, Kevin J. (2001) "Investing in Information Technology: Productivity Payoffs for US Industries," *Current Issues in Economics and Finance*, Federal Reserve Bank of New York, 7(6), June.
-- Volcker, Paul A. (1979) "The Political Economy of the Dollar," *Federal Reserve Bank of New York Quarterly Review*, Winter, pp. 1–12.
+- Volcker, Paul A. (1979) "The Political Economy of the Dollar," *Federal Reserve Bank of New York Quarterly Review*, Winter, pp. 1-12.
 - Wolff, Edward (1995) *Top Heavy*, New York: The New Press.
-- Wolff, Edward (1998) "Recent Trends in the Size Distribution of Household Wealth," *Journal of Economic Perspectives*, 12(3), Summer, pp. 131–150.
+- Wolff, Edward (1998) "Recent Trends in the Size Distribution of Household Wealth," *Journal of Economic Perspectives*, 12(3), Summer, pp. 131-150.
 
 ## **13 The political economy of global imbalances and the global financial crisis**
 
@@ -3931,19 +5581,19 @@ This chapter is organized as follows. The next section investigates the current 
 
 ### **The global financial crisis after 2007**
 
-The financial crisis in the U. S. involved a collapse of the new financial architecture that was established by financial deregulation based on dominant neoliberalism after the 1980s (Crotty, 2009). For example, in 1999, the U. S. government repealed the Glass–Steagall Act that separated the operations of commercial banks and investment banks. Also, the Commodity Futures Modernization Act, which deregulated all financial transactions – including financial derivatives – was passed by the U. S. congress in 2000. Along with these deregulation measures, financial innovation encouraged the growth of securitization of debts and financial derivatives markets.
+The financial crisis in the U. S. involved a collapse of the new financial architecture that was established by financial deregulation based on dominant neoliberalism after the 1980s (Crotty, 2009). For example, in 1999, the U. S. government repealed the Glass-Steagall Act that separated the operations of commercial banks and investment banks. Also, the Commodity Futures Modernization Act, which deregulated all financial transactions - including financial derivatives - was passed by the U. S. congress in 2000. Along with these deregulation measures, financial innovation encouraged the growth of securitization of debts and financial derivatives markets.
 
 Financial institutions' business dealing with mortgage-backed securities (MBSs) grew extensively in the early 2000s against the backdrop of a bubble of the real estate market. Many institutions introduced aggressive business strategies based on the selling of mortgages and mortgage-related products. They developed complex securitization schemes, called collateralized debt obligations (CDOs), which divided debts into several tranches, which were then repackaged and sold in the financial markets. Credit rating companies gave these assets high valuations which did not reflect their systemic risk. The amount of CDOs issued in the U. S. rose from \$157.4 billion in 2004 to \$520.6 billion in 2006; the size of the CDO market overall grew by a factor of four between 2002 and 2006, when it reached an estimated \$2 trillion.
 
 The growth of the derivatives market made the mortgage-securitization process even more complicated. The size of the credit default swaps (CDSs) that provided insurance service for financial institutions dealing with CDOs skyrocketed from less than \$1 trillion in 2001 to more than \$60 trillion in 2007 in the whole world. Investment banks such as Lehman Brothers actively utilized special investment vehicles (SIVs) to conduct business in this sector on a huge scale. The large investment banks were known as a "shadow banking system," which took large risks but was not regulated properly.
 
-Of course, the growth of the real estate market bubble lay behind these changes. In the U. S. the price of real estate in ten large cities soared by almost 120 percent from 2000 to 2006, according to the Case–Shiller index. Lax monetary policy by the Fed after the 2001 recession facilitated the bubble's growth (though tighter monetary policy may not have halted this growth). Low interest rates also led to a "search for yield," an increase in the demand for a wider class of riskier assets yielding higher returns. Financial institutions that dealt in mortgage-based CDO expected the real estate price to continue to rise and made efforts to increase their leverage fully to maximize their assets and returns. However, the real estate market bubble finally began to burst in 2006, bringing about a sudden financial collapse along with the default of CDOs and of related CDSs (Acharya *et al*., 2009). The fall in the value of mortgage-backed securities was amplified by a financial multiplier process, since financial institutions with high leverage needed to sell their risky assets in reducing their leverage (Adrian and Shin, 2008). From mid-2007 on, no financial institutions were willing to purchase sour mortgage-based securities; a severe credit crunch occurred in the U. S. financial markets. The financial crisis peaked in September 2008 when Lehman Brothers went bankrupt. After that peak, large financial institutions on the verge of bankruptcy, such as Merrill Lynch, AIG, and Citigroup, received bailout finance or were sold to other institutions.1
+Of course, the growth of the real estate market bubble lay behind these changes. In the U. S. the price of real estate in ten large cities soared by almost 120 percent from 2000 to 2006, according to the Case-Shiller index. Lax monetary policy by the Fed after the 2001 recession facilitated the bubble's growth (though tighter monetary policy may not have halted this growth). Low interest rates also led to a "search for yield," an increase in the demand for a wider class of riskier assets yielding higher returns. Financial institutions that dealt in mortgage-based CDO expected the real estate price to continue to rise and made efforts to increase their leverage fully to maximize their assets and returns. However, the real estate market bubble finally began to burst in 2006, bringing about a sudden financial collapse along with the default of CDOs and of related CDSs (Acharya *et al*., 2009). The fall in the value of mortgage-backed securities was amplified by a financial multiplier process, since financial institutions with high leverage needed to sell their risky assets in reducing their leverage (Adrian and Shin, 2008). From mid-2007 on, no financial institutions were willing to purchase sour mortgage-based securities; a severe credit crunch occurred in the U. S. financial markets. The financial crisis peaked in September 2008 when Lehman Brothers went bankrupt. After that peak, large financial institutions on the verge of bankruptcy, such as Merrill Lynch, AIG, and Citigroup, received bailout finance or were sold to other institutions.1
 
 This episode demonstrated a typical financial-crisis cycle in that it involved the growth of bubbles, overlending by financial institutions with irrational exuberance, and then a collapse (Reinhart and Rogoff, 2009). But because it was associated with extensive financial innovation linked to deregulation, and because of the incapacity of the government to monitor it, this crisis represented an institutional failure of the U. S. financial system and posed a more serious threat to the U. S. economy. This ushered in a period of serious reflection about the role of mainstream economic theory in reality. A new consensus emerged among most economists that financial markets are not inherently efficient and proper government regulation is crucial.
 
-The financial crisis in the U. S. hit other countries hard through several channels due to the globalization of world financial markets. First, foreign – and especially European – financial institutions that had exposure to problematic assets such as CDOs experienced huge losses. Second, the U. S. financial crisis resulted in a huge drop in asset-market prices, including real-estate and stocks, significantly shrinking financial institutions' asset base and producing a credit crunch in other countries. Third, foreign investment in emerging-market countries, especially bank lending and portfolio investment, declined sharply due to deleveraging by advanced countries' financial institutions. This dealt a hard blow to countries that relied highly on foreign capital, including Iceland, Ireland, and nations in Eastern Europe and elsewhere. Finally, the crisis resulted in a deep global recession and greatly reduced global export demand; world exports fell by about 10 percent in 2009. This severely damaged the economies of exportdependent countries, including those in East Asia. The overall losses triggered by this financial crisis were certainly larger than the original IMF estimates of \$4.1 trillion in all advanced countries and \$2.7 trillion in the U. S. (IMF, 2009).
+The financial crisis in the U. S. hit other countries hard through several channels due to the globalization of world financial markets. First, foreign - and especially European - financial institutions that had exposure to problematic assets such as CDOs experienced huge losses. Second, the U. S. financial crisis resulted in a huge drop in asset-market prices, including real-estate and stocks, significantly shrinking financial institutions' asset base and producing a credit crunch in other countries. Third, foreign investment in emerging-market countries, especially bank lending and portfolio investment, declined sharply due to deleveraging by advanced countries' financial institutions. This dealt a hard blow to countries that relied highly on foreign capital, including Iceland, Ireland, and nations in Eastern Europe and elsewhere. Finally, the crisis resulted in a deep global recession and greatly reduced global export demand; world exports fell by about 10 percent in 2009. This severely damaged the economies of exportdependent countries, including those in East Asia. The overall losses triggered by this financial crisis were certainly larger than the original IMF estimates of \$4.1 trillion in all advanced countries and \$2.7 trillion in the U. S. (IMF, 2009).
 
-The policy response in many countries was to prop up the economy by way of a tremendous expansion of liquidity via the introduction of zero-percent interest rate policy and large-scale fiscal spending. The enactment of the American Recovery and Reinvestment Act in early 2009 committed the U. S. government to spending as much as \$787 billion to avert an economic collapse. The Fed also cut interest rates aggressively from 5.25 percent in early 2008 to 0.25 percent in mid-2009, as well as providing credit directly to troubled financial institutions through many support programs. Other advanced countries quickly followed the U. S. All the G20 nations were in collaboration to boost the global economy. Thanks to these efforts, it is likely that the worst of the current crisis, the largest since the Great Depression, is over. However, economic recovery is expected to be painfully slow. The global growth rate fell from 5.4 percent in 2007 to 2.9 percent in 2008 and –0.5 percent in 2009; it recovered to 5 percent in 2010 but is expected to be about 4 percent or less in 2011 and after (IMF, 2011).
+The policy response in many countries was to prop up the economy by way of a tremendous expansion of liquidity via the introduction of zero-percent interest rate policy and large-scale fiscal spending. The enactment of the American Recovery and Reinvestment Act in early 2009 committed the U. S. government to spending as much as \$787 billion to avert an economic collapse. The Fed also cut interest rates aggressively from 5.25 percent in early 2008 to 0.25 percent in mid-2009, as well as providing credit directly to troubled financial institutions through many support programs. Other advanced countries quickly followed the U. S. All the G20 nations were in collaboration to boost the global economy. Thanks to these efforts, it is likely that the worst of the current crisis, the largest since the Great Depression, is over. However, economic recovery is expected to be painfully slow. The global growth rate fell from 5.4 percent in 2007 to 2.9 percent in 2008 and -0.5 percent in 2009; it recovered to 5 percent in 2010 but is expected to be about 4 percent or less in 2011 and after (IMF, 2011).
 
 The global economy has numerous problems, including growing fiscal deficits and public debt levels in many advanced countries, and disorder in the global financial system. A double-dip recession remains a strong possibility. One thing this crisis made very evident is that the current financial crisis became truly global due to the progress of financial globalization. For now, the current crisis has slowed the march of the world economy toward complete financial integration via additional financial opening, liberalization, and deregulation. We should also pay attention to the other global aspect of the crisis, that is, the global imbalances problem, which is discussed in the next section.
 
@@ -3955,7 +5605,7 @@ Among the contradictions brought about by globalization are serious financial in
 
 As Figure 13.1 shows, the U. S. current account deficit kept rising from the early 2000s until the outbreak of the global financial crisis, as did foreign capital inflows into the U. S.
 
-The main reasons for imbalances in the U. S. are excessive consumption and the recent fiscal deficit under Bush administration – that is, overspending in both the private and the public sector. Figure 13.2 demonstrates the gap between domestic investment and domestic saving by the private and public sectors. In
+The main reasons for imbalances in the U. S. are excessive consumption and the recent fiscal deficit under Bush administration - that is, overspending in both the private and the public sector. Figure 13.2 demonstrates the gap between domestic investment and domestic saving by the private and public sectors. In
 
 ## ![](_page_279_Figure_9.jpeg)
 
@@ -3984,11 +5634,11 @@ Debates in the early 2000s about this global imbalances problem (Eichengreen, 20
 
 However, these ideas are based on the unrealistic efficient market hypothesis, according to which global savers choose among global assets. Analysis of the real situation suggests this view is naïve: in particular, foreign investment flows into the U. S. were not just seeking safe assets; they were strongly induced by U. S. financial institutions striving to expand their leverage (Shin, 2009).
 
-Another, more pessimistic (and in this author's opinion, more reasonable) view argued that the huge U. S. current account deficit was due primarily to domestic U. S. problems, including the decline of saving, the rising government deficit, and overconsumption related to the asset market bubble. This situation was not sustainable because the U. S. foreign debt burden grew too much and too fast, leading surplus countries to lose trust in U. S. assets which were at increasing risk of dollar depreciation (Roubini and Setser, 2004; Obstfeld and Rogoff, 2004). Many scholars acknowledged that a sustained depreciation of U. S. dollars and a reduction of the U. S. saving-investment gap would be needed to correct imbalances. Without these measures, disorderly adjustment involving a sharp depreciation of the dollar – similar to financial crises in emerging market countries – might occur.
+Another, more pessimistic (and in this author's opinion, more reasonable) view argued that the huge U. S. current account deficit was due primarily to domestic U. S. problems, including the decline of saving, the rising government deficit, and overconsumption related to the asset market bubble. This situation was not sustainable because the U. S. foreign debt burden grew too much and too fast, leading surplus countries to lose trust in U. S. assets which were at increasing risk of dollar depreciation (Roubini and Setser, 2004; Obstfeld and Rogoff, 2004). Many scholars acknowledged that a sustained depreciation of U. S. dollars and a reduction of the U. S. saving-investment gap would be needed to correct imbalances. Without these measures, disorderly adjustment involving a sharp depreciation of the dollar - similar to financial crises in emerging market countries - might occur.
 
-It is important in unfolding this argument to investigate more extensively the other pillar of global imbalances, East Asia. That region has experienced an "investment drought," and not just a "saving glut" (Lee and Mc Kibbin, 2006). In fact, most East Asian countries including Korea and the ASEAN experienced a significant decline in the investment rate after the 1997 East Asian crisis, in part due to neoliberal economic restructuring. China experienced an increase in its investment rate. But its saving rate grew faster – in part because of its active promotion of exports, but also because its domestic consumption was depressed and its social welfare and financial systems remain underdeveloped.
+It is important in unfolding this argument to investigate more extensively the other pillar of global imbalances, East Asia. That region has experienced an "investment drought," and not just a "saving glut" (Lee and Mc Kibbin, 2006). In fact, most East Asian countries including Korea and the ASEAN experienced a significant decline in the investment rate after the 1997 East Asian crisis, in part due to neoliberal economic restructuring. China experienced an increase in its investment rate. But its saving rate grew faster - in part because of its active promotion of exports, but also because its domestic consumption was depressed and its social welfare and financial systems remain underdeveloped.
 
-Another aspect of global imbalances is the "Lucas Paradox:" foreign capital has continuously moved to the U. S., contrary to the expectations of theoretical equilibrium growth models. Of course, many factors – including institutions, risk, and the level of financial development – may affect the level of returns and explain why capital may not move to poorer countries. But it is also true that countries that really need capital for development may not realize benefits from international capital inflows. This is unfair as well as inefficient from the perspective of balanced growth in the world economy. The more serious problem is that foreign capital flows into the U. S. had not been utilized productively. Continuous foreign capital inflows into the U. S. economy went hand in hand with asset-market bubbles in feeding an American spending binge well beyond what their income could sustain. This suggests the importance of understanding the current global crisis from the perspective of global imbalances.
+Another aspect of global imbalances is the "Lucas Paradox:" foreign capital has continuously moved to the U. S., contrary to the expectations of theoretical equilibrium growth models. Of course, many factors - including institutions, risk, and the level of financial development - may affect the level of returns and explain why capital may not move to poorer countries. But it is also true that countries that really need capital for development may not realize benefits from international capital inflows. This is unfair as well as inefficient from the perspective of balanced growth in the world economy. The more serious problem is that foreign capital flows into the U. S. had not been utilized productively. Continuous foreign capital inflows into the U. S. economy went hand in hand with asset-market bubbles in feeding an American spending binge well beyond what their income could sustain. This suggests the importance of understanding the current global crisis from the perspective of global imbalances.
 
 ### *Global imbalances and the global financial crisis*
 
@@ -4010,7 +5660,7 @@ This study suggests that strong demand for apparently safe assets not only serve
 
 Note ABS means Asset Backed Securities, MBS means Mortgage Backed Securites.
 
-(Shin, 2009). For example, foreign investors' holding of asset-backed securities based on subprime mortgage loans soared after 2003, suggesting that the supply of unsafe assets by the U. S. financial sector may have driven foreign investment.4 This demonstrates some evidence for a "supply push" theory of global imbalances, not the "demand pull" argued by the excess saving theory. It should be noted that there were also important and complex two-way interactions between global and U. S. domestic macroeconomic imbalances – for instance, the current account deficit and housing appreciation (Smaghi, 2008).
+(Shin, 2009). For example, foreign investors' holding of asset-backed securities based on subprime mortgage loans soared after 2003, suggesting that the supply of unsafe assets by the U. S. financial sector may have driven foreign investment.4 This demonstrates some evidence for a "supply push" theory of global imbalances, not the "demand pull" argued by the excess saving theory. It should be noted that there were also important and complex two-way interactions between global and U. S. domestic macroeconomic imbalances - for instance, the current account deficit and housing appreciation (Smaghi, 2008).
 
 In sum, these studies suggest that the global imbalances in trade had a limited role in the global financial crisis, and the broader financial imbalances were indeed crucial. However, most of those arguments do not recognize the underlying institutional changes behind the U. S. macroeconomic imbalances and global financial imbalances. A more complete understanding of global imbalances vis-à-vis the current crisis requires understanding the role of globalization and neoliberal growth regime in both the U. S. and East Asia from the political economy perspective.
 
@@ -4034,7 +5684,7 @@ In sum, global imbalances are apparently an outcome of the asymmetric savings-in
 
 After the crisis broke out in late 2007, it appeared that the decrease in U. S. imports, due to the serious economic recession in that nation, would start the process of correcting global imbalances. Figure 13.5 portrays quarterly changes of the U. S. current account deficit. This started to shrink after reaching a peak of 6 percent of GDP in 2006, and began a significant decline from late 2008 onward. Its level in the second quarter in 2009, 2.4 percent of GDP, was the lowest in the 2000s (though it increased somewhat after that).
 
-These changes are related to the rise in saving and fall in investment in the U. S. after early 2008. The household net saving rate out of disposable income rose continuously from 2.7 percent in the first quarter of 2008 to 7.2 percent in the second quarter of 2009, recording some 6 percent in 2009. The domestic private saving rate rose to 17.6 percent, much higher than the domestic investment rate (11.3 percent) in 2009. This contributed significantly to the reduction of the trade deficit, as did the sharp fall of net asset values due to the financial crisis. However, these factors were offset by the huge drop in government net saving, which fell from –1.7 percent in 2007 to –9 percent in 2009 due to the expansionary government spending in response to the financial crisis. The U. S. government announced a fiscal deficit of \$1.4 trillion for the 2009 fiscal year (9.9 percent of GDP), three times larger than that in 2008. In 2009, the total domestic saving rate including the government sector was still about 2.7 percent point lower than the total investment rate. Thus, despite the surplus in its private balance, the U. S. relied on foreign saving in 2009 due to the increased deficit in its government balance.
+These changes are related to the rise in saving and fall in investment in the U. S. after early 2008. The household net saving rate out of disposable income rose continuously from 2.7 percent in the first quarter of 2008 to 7.2 percent in the second quarter of 2009, recording some 6 percent in 2009. The domestic private saving rate rose to 17.6 percent, much higher than the domestic investment rate (11.3 percent) in 2009. This contributed significantly to the reduction of the trade deficit, as did the sharp fall of net asset values due to the financial crisis. However, these factors were offset by the huge drop in government net saving, which fell from -1.7 percent in 2007 to -9 percent in 2009 due to the expansionary government spending in response to the financial crisis. The U. S. government announced a fiscal deficit of \$1.4 trillion for the 2009 fiscal year (9.9 percent of GDP), three times larger than that in 2008. In 2009, the total domestic saving rate including the government sector was still about 2.7 percent point lower than the total investment rate. Thus, despite the surplus in its private balance, the U. S. relied on foreign saving in 2009 due to the increased deficit in its government balance.
 
 It is not very certain whether the reduction of the current account deficit in the U. S. will continue with the end of overspending. The decline in consumption,
 
@@ -4054,13 +5704,13 @@ Correcting global imbalances systematically and without heightening global disor
 
 ### *The role of East Asia for balanced globalization*
 
-Economies such as China, which accumulated huge trade surpluses and recycled the dollars earned to the U. S., are partly responsible for global economic imbalances. It is thus certain that structural changes in economies across the Pacific are also needed to resolve global imbalances. In 2008, amidst the financial crisis, China's current account surplus as a share of its GDP fell slightly. Nonetheless, this ratio was still much higher than in the early 2000s: the export/GDP ratio in China rose from 22.6 percent in 2001 to 34 percent in 2004 and then 39.9 percent in 2006, before declining slightly to 36.6 percent in 2008. Meanwhile, the share of household final consumption out of GDP in China stood at 34 percent in 2008, lower than the 40–45 percent levels recorded between the late 1990s and early 2000s (and much lower than in other countries).
+Economies such as China, which accumulated huge trade surpluses and recycled the dollars earned to the U. S., are partly responsible for global economic imbalances. It is thus certain that structural changes in economies across the Pacific are also needed to resolve global imbalances. In 2008, amidst the financial crisis, China's current account surplus as a share of its GDP fell slightly. Nonetheless, this ratio was still much higher than in the early 2000s: the export/GDP ratio in China rose from 22.6 percent in 2001 to 34 percent in 2004 and then 39.9 percent in 2006, before declining slightly to 36.6 percent in 2008. Meanwhile, the share of household final consumption out of GDP in China stood at 34 percent in 2008, lower than the 40-45 percent levels recorded between the late 1990s and early 2000s (and much lower than in other countries).
 
 As we saw, most East Asian countries pursued the export-dependent growth strategy by keeping their currencies relatively depreciated and increasing exports to the U. S. For example, the Chinese government maintained the effective peg system between *renminbi* and dollars until mid-2006, after which it introduced a more flexible exchange rate system which allowed some RMB appreciation. After mid-2008, however, it again pegged the RMB exchange rate to the U. S. dollar so as to increase exports. While this strategy has been successful in the past, it is unlikely to remain feasible, given the U. S. economy's collapse and increasing U. S. pressure on China.6
 
-The unsustainability of the current pattern of flows is why many call for the fundamental change of the growth strategy of East Asia. Countries in this region should do more to make domestic demand, not exports to the U. S., an engine of growth. They need to stimulate the purchasing power of people in their nations by enhancing social welfare and improving income distribution.7 A slow and orderly adjustment of exchange rates, especially between the Chinese RMB and the U. S. dollar, will also help resolve global imbalances. Also, South–South cooperation should be developed so that emerging countries reduce their dependence on the U. S. Fundamentally, as in the U. S., changes in the political economy that support workers and restrain export companies are required if East Asia is to end neoliberalism and introduce a more progressive and Keynesian economic policy. The Chinese government appears to recognize the needs to improve income distribution, and there is growing concern about it in Korea and Japan as well.
+The unsustainability of the current pattern of flows is why many call for the fundamental change of the growth strategy of East Asia. Countries in this region should do more to make domestic demand, not exports to the U. S., an engine of growth. They need to stimulate the purchasing power of people in their nations by enhancing social welfare and improving income distribution.7 A slow and orderly adjustment of exchange rates, especially between the Chinese RMB and the U. S. dollar, will also help resolve global imbalances. Also, South-South cooperation should be developed so that emerging countries reduce their dependence on the U. S. Fundamentally, as in the U. S., changes in the political economy that support workers and restrain export companies are required if East Asia is to end neoliberalism and introduce a more progressive and Keynesian economic policy. The Chinese government appears to recognize the needs to improve income distribution, and there is growing concern about it in Korea and Japan as well.
 
-A more balanced global economy can be realized only when the movement of international capital flows can help the stable growth of the global economy. International investment flows to the U. S. under the current global imbalances have certainly had the opposite effect. Reform of the global financial system in the direction of more desirable forms of financial globalization would direct international capital flows much more into poor countries in need of development finance (Ocampo, 2009). East Asia can play a key part in this shift. Since this region holds the largest foreign reserves, it can devise a way to make more productive use of them. Countries with large reserve holdings should not only diversify them from dollars to other currencies, but also plan and establish institutions that help finance developing countries and stabilize the regional economy. Closer regional economic and financial cooperation in East Asia is necessary for this. East Asian countries have already agreed on a plan for a multilateral fund by developing the Chiang Mai Initiative. A changed course in East Asian countries' economic growth strategies, and these nations' assistance to developing countries, will make a huge contribution to a more balanced – as well as prosperous – global economy.
+A more balanced global economy can be realized only when the movement of international capital flows can help the stable growth of the global economy. International investment flows to the U. S. under the current global imbalances have certainly had the opposite effect. Reform of the global financial system in the direction of more desirable forms of financial globalization would direct international capital flows much more into poor countries in need of development finance (Ocampo, 2009). East Asia can play a key part in this shift. Since this region holds the largest foreign reserves, it can devise a way to make more productive use of them. Countries with large reserve holdings should not only diversify them from dollars to other currencies, but also plan and establish institutions that help finance developing countries and stabilize the regional economy. Closer regional economic and financial cooperation in East Asia is necessary for this. East Asian countries have already agreed on a plan for a multilateral fund by developing the Chiang Mai Initiative. A changed course in East Asian countries' economic growth strategies, and these nations' assistance to developing countries, will make a huge contribution to a more balanced - as well as prosperous - global economy.
 
 ### **Conclusions**
 
@@ -4073,8 +5723,8 @@ After the global financial crisis, global imbalances have been corrected to a li
 ### **Notes**
 
 - 1 After the bankruptcy of Bear Sterns in March 2008, the fifth largest investment bank in the U. S., the third and fourth largest, Merrill Lynch and Lehman Brothers, effectively went bankrupt. The first and second largest ones, Goldman Sachs and Morgan Stanley, did not have so much exposure to problematic subprime assets.
-- 2 The identity of GDP is C + S + T =C + I + G + (X –M). If we rephrase this equation, (X –M) = (S – I) + (T – G). Therefore, the current account deficit could be decomposed into two parts, the private balance and the government balance. Both balances recorded negative after the early 2000s and aggravated the current account deficit in the U. S.
-- 3 Between year-end 2003 and year-end 2007, the value of total U. S. securities outstanding rose about \$10 trillion, of which roughly \$4.5 trillion was absorbed by foreign investors. The supply of Treasuries and Agencies outstanding rose \$1.6 trillion, and this was fully taken up by foreigners, of which \$0.9 trillion was purchased by the GSG countries and less than \$0.2 trillion by Europeans. The amount outstanding of AAArated asset-backed securities rose \$1.7 trillion, of which U. S. residents took \$1.1 trillion and Europeans \$0.4 trillion (Bernanke *et al*., 2011, pp. 12–13.). Also, see Figure 13.5.
+- 2 The identity of GDP is C + S + T =C + I + G + (X -M). If we rephrase this equation, (X -M) = (S - I) + (T - G). Therefore, the current account deficit could be decomposed into two parts, the private balance and the government balance. Both balances recorded negative after the early 2000s and aggravated the current account deficit in the U. S.
+- 3 Between year-end 2003 and year-end 2007, the value of total U. S. securities outstanding rose about \$10 trillion, of which roughly \$4.5 trillion was absorbed by foreign investors. The supply of Treasuries and Agencies outstanding rose \$1.6 trillion, and this was fully taken up by foreigners, of which \$0.9 trillion was purchased by the GSG countries and less than \$0.2 trillion by Europeans. The amount outstanding of AAArated asset-backed securities rose \$1.7 trillion, of which U. S. residents took \$1.1 trillion and Europeans \$0.4 trillion (Bernanke *et al*., 2011, pp. 12-13.). Also, see Figure 13.5.
 - 4 Foreign share of GSE-backed securities rose from about \$0.6 trillion in 2002 to \$1.6 trillion in 2008. However, foreign holding of U. S. securities in private capital markets, in which asset-backed securities backed by subprime mortgage were important, skyrocketed from 2002 to 2007 by a factor of about 29 (Shin, 2009). The author also argues that the increased lending driven by growth of U. S. intermediary balance sheets "sucked in" funding from abroad. The increased funding has originated (at least in part) from abroad, so that in the final accounting relationship given by the current account, there is a surge in the current account deficit.
 - 5 Some argue that this easy lending was encouraged by the government as a wrong solution to rising income inequality (Rajan, 2010).
 - 6 The more countries join export markets, the harder to be successful this strategy is. Thus, there is a sort of fallacy of composition in the export-dependent growth strategy of individual countries when it comes to the whole world.
@@ -4082,13 +5732,13 @@ After the global financial crisis, global imbalances have been corrected to a li
 
 ### **Bibliography**
 
-- Acharya, V. and Schnabel, P. (2010) "Do Global Banks Spread Global Imbalances? The Case of Asset-Backed Commercial Paper during the Financial Crisis of 2007–09," Presented at the 10th Jacques Polak Annual Research Conference.
-- Acharya, V., Philippon, T., Richardson, M., and Roubini, N. (2009) "Prologue. A Bird's Eye-View. The Financial Crisis of 2007–2009. Causes and Remedies," in Acharya, V. V. and Richardson, M. (eds) *Restoring Financial Stability: How to Repair a Failed System*, John Wiley.
+- Acharya, V. and Schnabel, P. (2010) "Do Global Banks Spread Global Imbalances? The Case of Asset-Backed Commercial Paper during the Financial Crisis of 2007-09," Presented at the 10th Jacques Polak Annual Research Conference.
+- Acharya, V., Philippon, T., Richardson, M., and Roubini, N. (2009) "Prologue. A Bird's Eye-View. The Financial Crisis of 2007-2009. Causes and Remedies," in Acharya, V. V. and Richardson, M. (eds) *Restoring Financial Stability: How to Repair a Failed System*, John Wiley.
 - Adrian, T. and Shin, H. S. (2008) "Financial Intermediation, Financial Stability and Monetary Policy," Federal Reserve Bank of New York Staff Reports, 346.
 - Aizenman, J. and Lee, J. (2007) "International Reserves: Precautionary vs Mercantilist Views," *Open Economies Review*, 18.
 - Bernanke, B. S. (2005) "The Global Saving Glut and the U. S. Current Account Deficit," at the Sandridge Lecture, Virginia Association of Economics, Richmond, Virgina.
 - Bernanke, B. S. (2009) "Financial Reform to Address Systemic Risk," Speech at the Council on Foreign Relations, Washington, D. C.
-- Bernanke, B. S., Bertaut, C., De Marco, L. P., and Kamin, S. (2011) "International Capital Flows and the Returns to Safe Assets in the United States, 2003–2007," Board of Governors of the Federal Reserve System, International Finance Discussion Papers, 1014.
+- Bernanke, B. S., Bertaut, C., De Marco, L. P., and Kamin, S. (2011) "International Capital Flows and the Returns to Safe Assets in the United States, 2003-2007," Board of Governors of the Federal Reserve System, International Finance Discussion Papers, 1014.
 - Borio, C. and Disyatat, P. (2011) "Global Imbalances and the Financial Crisis: Link or No Link?" BIS Working Papers, 346.
 - Blanchard, O. and Milesi-Ferretti, G. M. (2009) "Global Imbalances: In midstream?" IMF Staff Position Note 09/29.
 - Caballero, R. (2010) "The Other Imbalance and the Financial Crisis," NBER Working Paper, 15636.
@@ -4105,7 +5755,7 @@ After the global financial crisis, global imbalances have been corrected to a li
 - IMF (International Monetary Fund) (2011) *World Economic Outlook*, April 2011.
 - Jagganathan, R., Kapoor, M., and Schaumburg, E. (2009) "Why are We in a Recession? The Financial Crisis is the Symptom Not the Disease!" NBER Working Paper, 15404.
 
-- Kotz, D. (2009) "The Financial and Economic Crisis in 2008: A Systemic Crisis of Neoliberal Capitalism," *Review of Radical Political Economics*, 41(3): 305–317.
+- Kotz, D. (2009) "The Financial and Economic Crisis in 2008: A Systemic Crisis of Neoliberal Capitalism," *Review of Radical Political Economics*, 41(3): 305-317.
 - Lee, J.-W and Mc Kibbin, W. J. (2006) "Domestic Investment and External Imbalances in East Asia," Brookings Discussion Papers in International Economics, 172.
 - Lee, J.-W., Rabanal, P., and Sandri, D. (2010) "US Consumption after the 2008 Crisis," IMF Staff Position Note.
 - Mendoza, E., Quadrini, V., and Rios-Rull, J. (2009) "Financial Integration, Financial Deepness and Global Imbalances," *Journal of Political Economy*, 117.
@@ -4141,7 +5791,7 @@ In this chapter, we aim to confirm the growth and structural change in East Asia
 
 ### **East Asian economic development and regional integration**
 
-For almost the past half century, East Asia has been the center of global attention because of its levels of economic growth. As such, regional integration became a major point of discussion in the 1990s. Up to that time, East Asia's mechanism for development was for the U. S. to be a major export destination, and low wages were the source of East Asia's competitiveness in the world market. Even during Japan's high growth that started in the 1960s, the U. S. market and lowwage mechanism was in effect. This development mechanism was strong even in newly industrializing economies (NIEs), consisting of Hong Kong, Singapore, South Korea, and Taiwan; Association of Southeast Asian Nations (ASEAN) countries; and China. Until now, the importance of the U. S. market had been overwhelmingly large. However, through such a development emerged the East Asian intraregional market, the independence and prospects of which came to be discussed in the second half of the 1990s. Figure 14.1 shows the movement of the intraregional export rate of the world's major regions. This figure demonstrates that the intraregional export rate of East Asia – consisting of Japan, NIEs, ASEAN4,3 and China – was below 30 percent in 1970 but rose to almost 50 percent in the middle of the 1990s.
+For almost the past half century, East Asia has been the center of global attention because of its levels of economic growth. As such, regional integration became a major point of discussion in the 1990s. Up to that time, East Asia's mechanism for development was for the U. S. to be a major export destination, and low wages were the source of East Asia's competitiveness in the world market. Even during Japan's high growth that started in the 1960s, the U. S. market and lowwage mechanism was in effect. This development mechanism was strong even in newly industrializing economies (NIEs), consisting of Hong Kong, Singapore, South Korea, and Taiwan; Association of Southeast Asian Nations (ASEAN) countries; and China. Until now, the importance of the U. S. market had been overwhelmingly large. However, through such a development emerged the East Asian intraregional market, the independence and prospects of which came to be discussed in the second half of the 1990s. Figure 14.1 shows the movement of the intraregional export rate of the world's major regions. This figure demonstrates that the intraregional export rate of East Asia - consisting of Japan, NIEs, ASEAN4,3 and China - was below 30 percent in 1970 but rose to almost 50 percent in the middle of the 1990s.
 
 Incidentally, from the second half of the 1980s to the 1990s, there was also accelerated movement in regional integration in Europe and America through the European Union (EU) and the North American Free Trade Agreement (NAFTA), respectively. Bereft of an institutional framework, the integration of East Asia was perhaps de facto or "market-led," and from the second half of the 1990s to the beginning of this century, a gap temporarily appeared in the degree of integration because of the implementation of NAFTA in 1992. However, since then, East Asia's regional integration has been catching up to the point that its import-augmented intraregional trade rate has already exceeded that of NAFTA.
 
@@ -4149,7 +5799,7 @@ At the same time, the resulting intraregional integration of East Asia that is c
 
 ## ![](_page_296_Figure_1.jpeg)
 
-*Figure 14.1* Intraregional export ratio by region, 1970–2009 (source: World Bank (2011); World Development Indicators 2011; Ratios of East Asia since 2004 calcurated from JETRO's World Trade Matrix).
+*Figure 14.1* Intraregional export ratio by region, 1970-2009 (source: World Bank (2011); World Development Indicators 2011; Ratios of East Asia since 2004 calcurated from JETRO's World Trade Matrix).
 
 agreements is becoming more active. However, although the degree of intraregional integration in East Asia seems to have reached a ceiling and dropped especially after the global financial crisis of 2008, East Asian regional integration continues to progress. Furthermore, such a development would bring about dramatic changes in the internal composition in the regional GDP of each country.
 
@@ -4159,7 +5809,7 @@ Figures 14.3 and 14.4 show the movement in the GDP and per capita GDP of East As
 
 ## ![](_page_297_Figure_2.jpeg)
 
-Figure 14.2 Composition of each country or group in total GDP of East Asia + India, 1980–2015 (source: created from IMF, World Economic Outlook, April 2007, estimates start after 2011).
+Figure 14.2 Composition of each country or group in total GDP of East Asia + India, 1980-2015 (source: created from IMF, World Economic Outlook, April 2007, estimates start after 2011).
 
 NIES consists of Hong Kong, Korea, Singapore, and Taiwan. ASEAN4 consists of Indonesia, Malaysia, Philippines, and Thailand.
 
@@ -4169,11 +5819,11 @@ This structural change has given birth to a regional economic zone that has an e
 
 ## ![](_page_298_Figure_0.jpeg)
 
-*Figure 14.3* GDP catch-up ratio of country or group with respect to Japan, 1980–2012 (source: created from IMF, World Economic Outlook, October 2010, estimates start after 2009).
+*Figure 14.3* GDP catch-up ratio of country or group with respect to Japan, 1980-2012 (source: created from IMF, World Economic Outlook, October 2010, estimates start after 2009).
 
 ## ![](_page_298_Figure_2.jpeg)
 
-*Figure 14.4* Per capita GDP catch-up ratio of East Asia and India with respect to Japan, 1980–2015 (source: created from IMF, *World Economic Outlook*, April 2011, estimates start after 2011).
+*Figure 14.4* Per capita GDP catch-up ratio of East Asia and India with respect to Japan, 1980-2015 (source: created from IMF, *World Economic Outlook*, April 2011, estimates start after 2011).
 
 Indeed, East Asia is already the world's biggest manufacturing and exporting region of manufactured goods that have rapidly implemented high-level technology. According to trade statistics from the Institute of International Trade and Investment in Tokyo, East Asia's global share of the export of merchandize goods accounted for 27.2 percent in 2007, and its share of machinery exports accounted for 37.1 percent, a rise of 10 percentage points. East Asia's share of global IT-related exports has also reached 56.7 percent, implying that the East Asian region is becoming a manufacturing base for IT-related goods (ITI 2008).
 
@@ -4189,28 +5839,31 @@ Through such a structural development, East Asia now provides the largest value-
 |-----------------------------------------------------------------------------------------------------|---------|--------------------|-----|-----------|--------------------------------|-----------|-----------------|-----------|-----|-----------|--------------|-----------|------|-----------|-----|-----------|--------------|-----------|------|
 | Export | 2000 | 2007 | % | 2000 2007 | | 2000 2007 | | 2000 2007 | | 2000 2007 | | 2000 2007 | | 2000 2007 | | 2000 2007 | | 2000 2007 | |
 | | | | | | IT-related Goods (Total) | | | | | | | | | | | | | | |
-| China | 50,525 | 378,800 | 100 | – | – | 24.0 | 26.1 | 3.7 | 3.6 | 2.4 | 2.3 | 9.4 | 6.9 | 12.9 | 5.9 | 52.4 | 44.8 | 22.3 | 21.2 |
-| Hong Kong | 60,461 | 162,114 | 100 | 38.6 | 59.6 | – | – | 3.8 | 2.7 | 4.8 | 2.6 | 9.4 | 6.6 | 5.3 | 3.8 | 61.9 | 75.4 | 17.8 | 8.4 |
-| Korea | 61,719 | 102,003 | 100 | 6.2 | 25.1 | 6.4 | 9.9 | – | – | 7.8 | 6.3 | 14.5 | 11.1 | 11.3 | 7.0 | 46.2 | 59.4 | 28.6 | 12.5 |
-| Taiwan | 68,029 | 81,180 | 100 | 1.7 | 16.3 | 15.8 | 21.2 | 3.6 | 5.6 | – | – | 11.9 | 14.7 | 13.3 | 8.6 | 46.3 | 66.4 | 26.8 | 15.4 |
-| AN5<br>ASE | 191,729 | 253,324 | 100 | 2.5 | 11.7 | 5.7 | 11.5 | 3.1 | 3.9 | 6.1 | 3.5 | 24.4 | 22.8 | 10.0 | 7.7 | 51.9 | 61.1 | 24.7 | 17.0 |
-| Japan | 141,366 | 142,983 | 100 | 5.3 | 18.6 | 7.6 | 10.2 | 6.4 | 8.5 | 7.0 | 9.8 | 18.5 | 14.3 | – | – | 44.8 | 61.5 | 29.3 | 16.4 |
+| China | 50,525 | 378,800 | 100 | - | - | 24.0 | 26.1 | 3.7 | 3.6 | 2.4 | 2.3 | 9.4 | 6.9 | 12.9 | 5.9 | 52.4 | 44.8 | 22.3 | 21.2 |
+| Hong Kong | 60,461 | 162,114 | 100 | 38.6 | 59.6 | - | - | 3.8 | 2.7 | 4.8 | 2.6 | 9.4 | 6.6 | 5.3 | 3.8 | 61.9 | 75.4 | 17.8 | 8.4 |
+| Korea | 61,719 | 102,003 | 100 | 6.2 | 25.1 | 6.4 | 9.9 | - | - | 7.8 | 6.3 | 14.5 | 11.1 | 11.3 | 7.0 | 46.2 | 59.4 | 28.6 | 12.5 |
+| Taiwan | 68,029 | 81,180 | 100 | 1.7 | 16.3 | 15.8 | 21.2 | 3.6 | 5.6 | - | - | 11.9 | 14.7 | 13.3 | 8.6 | 46.3 | 66.4 | 26.8 | 15.4 |
+| AN5
+ASE | 191,729 | 253,324 | 100 | 2.5 | 11.7 | 5.7 | 11.5 | 3.1 | 3.9 | 6.1 | 3.5 | 24.4 | 22.8 | 10.0 | 7.7 | 51.9 | 61.1 | 24.7 | 17.0 |
+| Japan | 141,366 | 142,983 | 100 | 5.3 | 18.6 | 7.6 | 10.2 | 6.4 | 8.5 | 7.0 | 9.8 | 18.5 | 14.3 | - | - | 44.8 | 61.5 | 29.3 | 16.4 |
 | East Asia 10 | 573,830 | 1,120,402 | 100 | 7.1 | 17.1 | 8.4 | 15.2 | 3.8 | 4.0 | 5.3 | 3.8 | 17.5 | 12.3 | 7.8 | 5.5 | 50.0 | 57.9 | 25.6 | 16.6 |
 | | | | | | IT-related Goods (Parts) | | | | | | | | | | | | | | |
-| China | 24,888 | 130,095 | 100 | – | – | 30.1 | 35.4 | 5.7 | 5.6 | 3.8 | 4.6 | 13.3 | 11.1 | 15.7 | 7.2 | 68.7 | 63.9 | 12.8 | 12.4 |
-| Hong Kong | 42,274 | 114,833 | 100 | 42.6 | 68.5 | – | – | 4.7 | 3.0 | 5.9 | 3.0 | 10.9 | 7.0 | 5.2 | 3.2 | 69.3 | 84.8 | 14.0 | 5.5 |
-| Korea | 41,618 | 56,525 | 100 | 7.7 | 26.5 | 7.2 | 13.1 | – | – | 9.5 | 10.1 | 19.2 | 16.2 | 12.2 | 8.9 | 55.7 | 74.8 | 24.3 | 8.2 |
-| Taiwan | 45,850 | 67,080 | 100 | 2.2 | 18.6 | 20.4 | 24.8 | 4.5 | 6.6 | – | – | 15.8 | 16.8 | 11.4 | 9.2 | 54.4 | 76.0 | 22.4 | 9.6 |
-| AN5<br>ASE | 133,827 | 170,926 | 100 | 3.0 | 13.2 | 6.2 | 14.2 | 3.4 | 4.9 | 6.8 | 4.5 | 30.5 | 26.3 | 9.0 | 7.8 | 58.9 | 70.8 | 20.9 | 11.5 |
-| Japan | 82,474 | 85,013 | 100 | 6.8 | 21.5 | 9.8 | 13.1 | 8.0 | 8.1 | 8.3 | 8.8 | 26.5 | 19.4 | – | – | 59.5 | 70.8 | 21.0 | 11.0 |
+| China | 24,888 | 130,095 | 100 | - | - | 30.1 | 35.4 | 5.7 | 5.6 | 3.8 | 4.6 | 13.3 | 11.1 | 15.7 | 7.2 | 68.7 | 63.9 | 12.8 | 12.4 |
+| Hong Kong | 42,274 | 114,833 | 100 | 42.6 | 68.5 | - | - | 4.7 | 3.0 | 5.9 | 3.0 | 10.9 | 7.0 | 5.2 | 3.2 | 69.3 | 84.8 | 14.0 | 5.5 |
+| Korea | 41,618 | 56,525 | 100 | 7.7 | 26.5 | 7.2 | 13.1 | - | - | 9.5 | 10.1 | 19.2 | 16.2 | 12.2 | 8.9 | 55.7 | 74.8 | 24.3 | 8.2 |
+| Taiwan | 45,850 | 67,080 | 100 | 2.2 | 18.6 | 20.4 | 24.8 | 4.5 | 6.6 | - | - | 15.8 | 16.8 | 11.4 | 9.2 | 54.4 | 76.0 | 22.4 | 9.6 |
+| AN5
+ASE | 133,827 | 170,926 | 100 | 3.0 | 13.2 | 6.2 | 14.2 | 3.4 | 4.9 | 6.8 | 4.5 | 30.5 | 26.3 | 9.0 | 7.8 | 58.9 | 70.8 | 20.9 | 11.5 |
+| Japan | 82,474 | 85,013 | 100 | 6.8 | 21.5 | 9.8 | 13.1 | 8.0 | 8.1 | 8.3 | 8.8 | 26.5 | 19.4 | - | - | 59.5 | 70.8 | 21.0 | 11.0 |
 | East Asia 10 | 370,931 | 624,472 | 100 | 8.6 | 23.5 | 9.8 | 16.9 | 4.5 | 4.9 | 6.3 | 4.8 | 23.2 | 16.7 | 7.7 | 6.0 | 60.0 | 72.9 | 20.2 | 10.0 |
 | | | | | | IT-related Goods (Final Goods) | | | | | | | | | | | | | | |
-| China | 25,637 | 248,704 | 100 | – | – | 18.1 | 21.2 | 1.7 | 2.5 | 1.0 | 1.2 | 5.6 | 4.6 | 10.2 | 5.2 | 36.5 | 34.7 | 31.6 | 25.8 |
-| Hong Kong | 18,187 | 47,281 | 100 | 29.2 | 38.1 | – | – | 1.7 | 2.0 | 2.3 | 1.6 | 5.9 | 5.8 | 5.5 | 5.3 | 44.7 | 52.8 | 26.6 | 15.2 |
-| Korea | 20,101 | 45,478 | 100 | 2.9 | 23.4 | 4.9 | 5.9 | – | – | 4.2 | 1.6 | 4.9 | 4.8 | 9.5 | 4.6 | 26.4 | 40.2 | 37.5 | 17.8 |
-| Taiwan | 22,179 | 14,099 | 100 | 0.5 | 5.8 | 6.4 | 4.0 | 1.7 | 0.7 | – | – | 3.8 | 4.6 | 17.2 | 5.7 | 29.5 | 20.8 | 36.0 | 43.3 |
-| AN5<br>ASE | 57,903 | 82,397 | 100 | 1.6 | 8.6 | 4.4 | 6.0 | 2.6 | 1.8 | 4.6 | 1.6 | 10.3 | 15.7 | 12.3 | 7.3 | 35.7 | 41.0 | 33.3 | 28.4 |
-| Japan | 58,892 | 57,970 | 100 | 3.1 | 14.5 | 4.4 | 6.0 | 4.2 | 9.1 | 5.2 | 11.3 | 7.2 | 6.8 | – | – | 24.2 | 47.7 | 41.0 | 24.4 |
+| China | 25,637 | 248,704 | 100 | - | - | 18.1 | 21.2 | 1.7 | 2.5 | 1.0 | 1.2 | 5.6 | 4.6 | 10.2 | 5.2 | 36.5 | 34.7 | 31.6 | 25.8 |
+| Hong Kong | 18,187 | 47,281 | 100 | 29.2 | 38.1 | - | - | 1.7 | 2.0 | 2.3 | 1.6 | 5.9 | 5.8 | 5.5 | 5.3 | 44.7 | 52.8 | 26.6 | 15.2 |
+| Korea | 20,101 | 45,478 | 100 | 2.9 | 23.4 | 4.9 | 5.9 | - | - | 4.2 | 1.6 | 4.9 | 4.8 | 9.5 | 4.6 | 26.4 | 40.2 | 37.5 | 17.8 |
+| Taiwan | 22,179 | 14,099 | 100 | 0.5 | 5.8 | 6.4 | 4.0 | 1.7 | 0.7 | - | - | 3.8 | 4.6 | 17.2 | 5.7 | 29.5 | 20.8 | 36.0 | 43.3 |
+| AN5
+ASE | 57,903 | 82,397 | 100 | 1.6 | 8.6 | 4.4 | 6.0 | 2.6 | 1.8 | 4.6 | 1.6 | 10.3 | 15.7 | 12.3 | 7.3 | 35.7 | 41.0 | 33.3 | 28.4 |
+| Japan | 58,892 | 57,970 | 100 | 3.1 | 14.5 | 4.4 | 6.0 | 4.2 | 9.1 | 5.2 | 11.3 | 7.2 | 6.8 | - | - | 24.2 | 47.7 | 41.0 | 24.4 |
 | East Asia 10 | 202,899 | 495,930 | 100 | 4.3 | 9.1 | 6.0 | 13.0 | 2.5 | 2.8 | 3.6 | 2.5 | 7.2 | 6.9 | 8.1 | 4.9 | 31.7 | 39.1 | 35.4 | 24.8 |
 | Source: Calculated from Institute for International Trade and Investment (2008) International Trade | | | | | | | | | | | Matrix 2008. | | | | | | | | |
 | | | | | | | | | | | | | | | | | | | | |
@@ -4218,7 +5871,7 @@ Through such a structural development, East Asia now provides the largest value-
 
 "ASEAN5" consists of ASEAN4 and Singapore. "East Asia 10" consists of ASEAN5, China, Hong Kong, Korea, Taiwan, and Japan.
 
-concluded that NIEs together with Japan now produce high value-added intermediate goods that are exported to China and ASEAN countries; in turn, China and ASEAN countries use them in their final exported goods to the U. S. and EU (METI 2005: 166–167). According to the 2008 version of the same report, the gross value-added of Manufacturing industry in East Asia (ASEAN+6)4 was \$2.55 trillion, exceeding the \$1.83 trillion of NAFTA and the \$2.05 trillion of the 27 countries of the EU (METI 2008: 143).
+concluded that NIEs together with Japan now produce high value-added intermediate goods that are exported to China and ASEAN countries; in turn, China and ASEAN countries use them in their final exported goods to the U. S. and EU (METI 2005: 166-167). According to the 2008 version of the same report, the gross value-added of Manufacturing industry in East Asia (ASEAN+6)4 was \$2.55 trillion, exceeding the \$1.83 trillion of NAFTA and the \$2.05 trillion of the 27 countries of the EU (METI 2008: 143).
 
 Without doubt, East Asia is shifting from a low-wage-based labor-intensive manufacturing base to a region with production and trade structures that are rapidly delivering higher levels of value-added. According to the U. S. National Science Board (2010), the world's total value-added in what is defined by the Organization for Economic Co-operation and Development (OECD) as the advanced manufacturing sector (i.e., communications and semiconductors, pharmaceutics, scientific instruments, aviation and space, computers, and office instruments) grew from \$720 billion to \$1.2 trillion between 1995 and 2007. The share of the EU and U. S. remained constant through this period at 27 percent. By contrast, China, which included Hong Kong, rapidly increased its valueadded share from 2.6 percent (\$18.7 billion) to 13.7 percent (\$167 billion). Moreover, the Asia 95 increased from 8.9 percent (\$64 billion) to 10.3 percent (\$126 billion). In short, Japan was the only country rapidly decreasing its share (by 16 percentage points from 27 percent to 11 percent), which was taken up by China (including Hong Kong) and the Asia 9.
 
@@ -4226,7 +5879,7 @@ Furthermore, according to the 2010 METI White Paper, middle-income households (i
 
 ### **The emergence and limits of BRICs**
 
-Interest in highly populated countries started in the last decade of the twentieth century with China at the top of the list. Upon entering this century, this interest quickly spread after the term "BRICs" was coined by the U. S. investment bank Goldman Sachs. A 2001 report by the head of the bank's global economic survey division, Jim O'Neill, first coined the term from the initials of Brazil, Russia, India, and China. This report stressed a number of points. BRICs had a real economic growth rate in 2001–02 that surpassed that of the G7, reaching 23 percent in Purchasing Power Parity (PPP) terms or 8 percent in absolute value terms at the end of 2000. Over the ensuing decade, its importance has further increased, making it necessary to include these countries in international discussions based on their influence on world fiscal and financial policies (O'Neill 2001). For example, G20 meetings of fiscal ministers and central bank governors, including those from BRICs, started in 1999. Since then, regular meetings have been held.
+Interest in highly populated countries started in the last decade of the twentieth century with China at the top of the list. Upon entering this century, this interest quickly spread after the term "BRICs" was coined by the U. S. investment bank Goldman Sachs. A 2001 report by the head of the bank's global economic survey division, Jim O'Neill, first coined the term from the initials of Brazil, Russia, India, and China. This report stressed a number of points. BRICs had a real economic growth rate in 2001-02 that surpassed that of the G7, reaching 23 percent in Purchasing Power Parity (PPP) terms or 8 percent in absolute value terms at the end of 2000. Over the ensuing decade, its importance has further increased, making it necessary to include these countries in international discussions based on their influence on world fiscal and financial policies (O'Neill 2001). For example, G20 meetings of fiscal ministers and central bank governors, including those from BRICs, started in 1999. Since then, regular meetings have been held.
 
 In 2003, a simulation analysis predicted that China will overtake the U. S. by 2050 and that the only advanced countries remaining in the G6 would be the U. S. and Japan (Wilson and Purushothaman 2003). By using the growth environment score (GES)6 of developing countries in 2005, the notion of the so-called Next Eleven (N-11) that focuses on countries beyond BRICs was also introduced. In addition, the Goldman Sachs Global Economics Group published a book in 2007 related to BRICs (GS Global Economics Group 2007).
 
@@ -4250,12 +5903,14 @@ Since the start of the 1990s, the Japan Bank for International Cooperation (JBIC
 
 *Table 14.2* Comparison of NIEs and BRICs: population, trade ratio, share of export of manufactured goods and share of export of services
 
-| | Population<br>(million) | Trade ratio* (%) | | | | Manufactured export ratio** (%) | | | Service export ratio*** (%) |
+| | Population
+(million) | Trade ratio* (%) | | | | Manufactured export ratio** (%) | | | Service export ratio*** (%) |
 |--------------------|-------------------------|------------------|------|------|------|---------------------------------|------|------|-----------------------------|
 | | 1970 | 1970 | 1976 | 2008 | 1970 | 1976 | 2008 | 1995 | 2008 |
 | Singapore | 2.1 | 225 | 252 | 362 | 31 | 43 | 70 | 18 | 20 |
 | Taiwan | 14.7 | 63 | 90 | 123 | 79 | 85 | 99 | 12 | 12 |
-| AR<br>Hong Kong S | 3.9 | 182 | 183 | 354 | 93 | 97 | 83 | 16 | 20 |
+| AR
+Hong Kong S | 3.9 | 182 | 183 | 354 | 93 | 97 | 83 | 16 | 20 |
 | Korea, Republic of | 31.9 | 38 | 68 | 92 | 77 | 82 | 89 | 15 | 15 |
 
 Sources: Calculated from World Bank (2010) *World Development Indicators 2010* and Council for Economic Planning and Development, Republic of China (2010)
@@ -4266,7 +5921,7 @@ Sources: Calculated from World Bank (2010) *World Development Indicators 2010* a
 
 ## Notes
 
-<sup>\*</sup> Merchandise trade/GDP. \*\* Manufactured exports/merchandize exports. \*\*\* Service exports/(merchandize + service exports).
+\* Merchandise trade/GDP. \*\* Manufactured exports/merchandize exports. \*\*\* Service exports/(merchandize + service exports).
 
 Vietnam, Thailand, Brazil, Indonesia, and Russia, have been increasing because they are considered to have "good future growth of domestic markets." In the 2010 survey, China was followed by the aforementioned six countries, whose inclusion was based primarily on their prospects for "good future growth of domestic markets" (JBIC 2010). These investment destination countries and preferred countries more or less match with the PoBMEs conceptualized in this study.
 
@@ -4317,7 +5972,7 @@ East Asia was strongly affected by the currency crisis of 1997 and the global fi
 
 In 2008, although East Asia had lower growth rates because of the crisis, since the second quarter of 2009, it once again headed for a recovery. The English publication, *The Economist*, in August 2009 described the business recovery of East Asia as "an astonishing rebound" (*The Economist*, 2009). In particular, the number of automobiles sold in China dramatically increased. According to the China Association Automobile Manufacturers (www.caam.org. cn/english), the number of units sold in 2009 greatly exceeded the initial forecast of 9.4 million units to 10.2 million units and broke through the 18 million barrier in 2010. This rapid expansion of the automotive market is often considered a result of government policies such as the four trillion yuan economic stimulus package that ironed out the country's serious downturn in November 2008. However, this expansion in car ownership also seems to be supported by the rise in the purchasing power of Chinese individuals and the huge purchasing appetite of the Chinese middle class. Firms from all over the world are heading toward this market, which is also accelerating the growth of domestic firms (Seki 2011).
 
-Based on projections of global economic growth, advanced countries will be confined to low growth even after the crisis. According to the 2010 METI White Paper, the rate of contribution to world growth by emerging economies was 43 percent between 2003 and 2008, and this will increase to 58 percent between 2010 and 2015. "The newly emerging countries are considered as adequate drivers of the world economy. Expectations regarding its growth have been mounting" (METI 2010: 2–3).
+Based on projections of global economic growth, advanced countries will be confined to low growth even after the crisis. According to the 2010 METI White Paper, the rate of contribution to world growth by emerging economies was 43 percent between 2003 and 2008, and this will increase to 58 percent between 2010 and 2015. "The newly emerging countries are considered as adequate drivers of the world economy. Expectations regarding its growth have been mounting" (METI 2010: 2-3).
 
 In the second half of the twentieth century, during the recovery of Japan and Europe after the war, the manufacturing sector of the U. S. was becoming more multinational and the advance in the international division of labor in new countries was started. This was the clue to the industrialization of developing regions, which brought about the development model of NIEs. This was the realization of the growth of an export-led industrialization that depended on low wages. Within this structural change, there was an upgrading of the industrial structures of advanced countries, which pushed IT-ization and globalization. Financial liberalization by the U. S. created the foundation for liberal activities with U. S. financial capital, but at the same time forced the transfer of the manufacturing sector to developing regions where the profit margins were relatively higher. However, the Asian currency crisis and the world financial crisis intensified competition in manufacturing and accelerated the production shift from mature and low-growth advanced economies to PoBMEs.
 
@@ -4325,7 +5980,7 @@ Thus, together with the creation of new markets, the development process of PoBM
 
 ### **Notes**
 
-- 1 This chapter is a revision of the paper presented at the 15th conference of the Japan Society for Evolutionary Economics (March 19–20, 2011, Nagoya University, Nagoya, Japan). The original paper on which this article was based was published in *Evolutionary and Institutional Economic Review*, Vol. 8, No. 1, under the title, "Globalization and the Emerging Economies: East Asia's Structural Shift from the NIEs to Potentially Bigger Market Economies (PoBMEs)." However, the focus of this chapter is different. In this connection, the figures and tables used in this chapter are the same as the aforementioned paper (with the approval of the *EIER* editorial committee), although the main figures have been updated using the latest data.
+- 1 This chapter is a revision of the paper presented at the 15th conference of the Japan Society for Evolutionary Economics (March 19-20, 2011, Nagoya University, Nagoya, Japan). The original paper on which this article was based was published in *Evolutionary and Institutional Economic Review*, Vol. 8, No. 1, under the title, "Globalization and the Emerging Economies: East Asia's Structural Shift from the NIEs to Potentially Bigger Market Economies (PoBMEs)." However, the focus of this chapter is different. In this connection, the figures and tables used in this chapter are the same as the aforementioned paper (with the approval of the *EIER* editorial committee), although the main figures have been updated using the latest data.
 - 2 The author, in a paper presented in October 2009 (Hirakawa 2009), considered this third stage to be the "BRICs Stage." However, as discussed in this chapter, "PoBMEs Stage" is more appropriate.
 - 3 ASEAN4 consists of Indonesia, Malaysia, the Philippines, and Thailand.
 - 4 ASEAN+6 consists of ASEAN member-countries, China, South Korea, India, Australia, New Zealand, and Japan.
@@ -4336,7 +5991,7 @@ Thus, together with the creation of new markets, the development process of PoBM
 
 ADB (Asian Development Bank) (2007) *Asian Development Outlook 2007*, Manila.
 
-*The Economist* (2009) "An Astonishing Rebound," 15–21 August, London.
+*The Economist* (2009) "An Astonishing Rebound," 15-21 August, London.
 
 Goldman Sachs Global Economics Group (2007) *BRICs and Beyond*, Goldman Sachs.
 
@@ -4356,7 +6011,7 @@ METI (Ministry of Economy, Trade, and Industry, Japan) (2010) *White Paper on In
 
 National Intelligence Council (2004) *Mapping the Global Future*, December, Washington, D. C.: Office of the Director of National Intelligence, Public Affairs Office.
 
-National Intelligence Council (2008) *Global Trends 2025: A Transformed World* (2008–003), November, Washington, D. C.: Office of the Director of National Intelligence, Public Affairs Office.
+National Intelligence Council (2008) *Global Trends 2025: A Transformed World* (2008-003), November, Washington, D. C.: Office of the Director of National Intelligence, Public Affairs Office.
 
 - National Science Board (2010) *Key Science and Engineering Indicators 2010*, National Science Foundation (www.nsf.gov/statistics/seind10).
 - O'Neill, J. (2001) Building Better Global Economic BRICs, *Global Economics Paper*, No. 66, November (www.goldmansachs.com/our-thinking/brics/brics-reports-pdfs/ build-better-brics.pdf).
@@ -4375,7 +6030,7 @@ National Intelligence Council (2008) *Global Trends 2025: A Transformed World* (
 
 In the early 1990s, the bubble which had built up in Japan's real estate and stock markets burst, ushering in a protracted period of economic malaise. The Japanese economy, despite concerted efforts to revive it with fiscal and monetary stimuli, failed to recover its previous vibrancy. Its lackluster performance has persisted for nearly two decades. The collapse of Japan's bubble economy had relatively few global ramifications; some considered the country's prolonged economic slump to be a malady specific to Japan. This assumption that Japan represents an exception is no longer valid. The collapse of Lehman Brothers in September 2008 revealed the true extent of a global crisis whose epicenter lay in U. S. financial markets. Unlike the bursting of the Japanese bubble, the reverberations of this collapse have been felt around the world, and the crisis has resulted in protracted downturns in a range of countries. At this point in time, it is difficult to assess the long-term consequences of the financial crisis; but if we are to draw lessons from Japan's experience, the fallout from the crisis could be evident for years to come.
 
-In the case of both the U. S. and Japan, the collapse of the bubble economies and the ensuing economic crises had immediate and devastating effects on employment. In Japan, the unemployment rate, which had remained at very low levels for decades – and stood at 2 to 3 percent in the years immediately preceding the bubble – has effectively doubled and has remained at its new higher level for years, averaging 5.1 percent in 2010. "Non-regular" employment, which includes temporary and part-time work, has grown and represented 32 percent of all jobs in 2010, compared to just 15 percent in 1985. In the U. S., the crisis has produced record levels of unemployment, with the unemployment rate averaging 9.6 percent in 2010, compared to 4.6 percent in 2007 before the crisis. The number of individuals employed part-time for economic reasons grew from 4.4 million in 2007 to 8.9 million in 2010.1 Clearly, financial crises can have significant negative impacts on employment outcomes, and these outcomes may be long-lived.
+In the case of both the U. S. and Japan, the collapse of the bubble economies and the ensuing economic crises had immediate and devastating effects on employment. In Japan, the unemployment rate, which had remained at very low levels for decades - and stood at 2 to 3 percent in the years immediately preceding the bubble - has effectively doubled and has remained at its new higher level for years, averaging 5.1 percent in 2010. "Non-regular" employment, which includes temporary and part-time work, has grown and represented 32 percent of all jobs in 2010, compared to just 15 percent in 1985. In the U. S., the crisis has produced record levels of unemployment, with the unemployment rate averaging 9.6 percent in 2010, compared to 4.6 percent in 2007 before the crisis. The number of individuals employed part-time for economic reasons grew from 4.4 million in 2007 to 8.9 million in 2010.1 Clearly, financial crises can have significant negative impacts on employment outcomes, and these outcomes may be long-lived.
 
 This chapter examines how processes of financialization in capitalist economies affects the structure of employment using Japan and the U. S. as specific examples. This exercise provides us with valuable insights into how these dynamics have played out in two important high-income economies. A central thesis of the paper is that common factors emerging during the neoliberal era of globalization have affected the structure of employment. One feature of the recent period of globalization is the pronounced "financialization" of national economies and the periodic occurrence of economic crises. The dynamics of financialization also affect the structure of employment, but in ways that fail to come to grips with underlying structural changes and lead to policies which have not addressed serious employment problems.
 
@@ -4387,7 +6042,7 @@ The chapter then discusses structural change, with a focus on the traditional vi
 
 The term "structure of employment," as used here, describes the distribution and types of employment and employment arrangements in a particular country. The structure of employment is defined across three dimensions: (1) sector of employment; (2) status in employment; and (3) the degree of formality.
 
-The use of sectoral divisions to describe patterns of employment and relate these patterns to developmental dynamics has a long history – i.e., the process of "industrialization" is frequently described as the movement of labor out of agriculture and into industrial employment (Kaldor, 1967). Economies undergo changes in the structure of production due to shifts in the global economic environment and through the process of economic development at the national level. These structural changes have direct implications for the quality and quantity of employment opportunities. An evolving structure of production implies an evolving structure of employment.
+The use of sectoral divisions to describe patterns of employment and relate these patterns to developmental dynamics has a long history - i.e., the process of "industrialization" is frequently described as the movement of labor out of agriculture and into industrial employment (Kaldor, 1967). Economies undergo changes in the structure of production due to shifts in the global economic environment and through the process of economic development at the national level. These structural changes have direct implications for the quality and quantity of employment opportunities. An evolving structure of production implies an evolving structure of employment.
 
 One structural dimension emphasized here is status in employment. The International Classification of Status in Employment (ICSE-93) provides a set of standard categories for classifying employment based on two criteria: (1) the type and degree of economic risk and (2) the type and degree of authority/autonomy that workers have in a particular employment situation. Five primary employment status categories are identified: employees, employers, own-account workers, members of producers' cooperatives, and contributing family workers.
 
@@ -4401,13 +6056,13 @@ Many forms of employment can easily be placed within these five main groups. How
 - Self-employed individuals with only one client; and
 - Forms of "disguised wage employment" in which employees are hired as independent contractors and are therefore classified as self-employed, allowing employers to avoid regulations.
 
-The concepts that underpin the idea of "employment status" – that is, the allocation of economic risk and the allocation of control – are particularly relevant for analyzing categories of nonstandard employment. The degree of authority refers to the amount of control individuals have over their own work activities, the enterprises in which they work, and other workers in that enterprise. For example, it is generally assumed that the self-employed enjoy greater authority than wage employees because they have control over their workplace activities and may hire employees over whom they exercise control. The degree of risk refers to various dimensions of uncertainty associated with the employment arrangement, including attachment to the job and volatility in earnings. For example, the earnings of paid employees are assumed not to directly depend on the revenues of the enterprise, but are rather specified by a contractual arrangement. Therefore, paid employees face different risks than the self-employed. The emergence and growth of non-standard employment involves a reallocation of economic risk and authority in ways that do not correspond to the standard categories. For the purposes of this chapter, when we speak of "status in employment," we mean a broader concept, one that includes various atypical employment arrangements but remains focused on the core issues of the allocation of economic risk and the allocation of authority and control.
+The concepts that underpin the idea of "employment status" - that is, the allocation of economic risk and the allocation of control - are particularly relevant for analyzing categories of nonstandard employment. The degree of authority refers to the amount of control individuals have over their own work activities, the enterprises in which they work, and other workers in that enterprise. For example, it is generally assumed that the self-employed enjoy greater authority than wage employees because they have control over their workplace activities and may hire employees over whom they exercise control. The degree of risk refers to various dimensions of uncertainty associated with the employment arrangement, including attachment to the job and volatility in earnings. For example, the earnings of paid employees are assumed not to directly depend on the revenues of the enterprise, but are rather specified by a contractual arrangement. Therefore, paid employees face different risks than the self-employed. The emergence and growth of non-standard employment involves a reallocation of economic risk and authority in ways that do not correspond to the standard categories. For the purposes of this chapter, when we speak of "status in employment," we mean a broader concept, one that includes various atypical employment arrangements but remains focused on the core issues of the allocation of economic risk and the allocation of authority and control.
 
 The third aspect of the structure of employment emphasized here is the distinction between formal and informal employment. The concept of informal employment is meant to capture employment relationships that are not governed by formal economic regulations or social protections. Because such employment falls, either wholly or partially, outside of the formal regulatory sphere, it tends to be more precarious, with lower earnings and higher poverty risk than employment which enjoys formal regulatory protections (Chen *et al*., 2005). Note that this definition of informal employment is related to, but distinct from, the other dimensions of the structure of employment. For example, non-standard work has a higher probability of being informal, but this does not imply that atypical employment arrangements must be informal.
 
 The conceptual framework of the structure of employment can be applied to the U. S. and Japan. In both countries, the structure of employment has evolved dramatically over the years. The ways in which the structure of employment has changed are similar, although the precise timing and the details vary. Both the U. S. and Japan experienced what could be called a traditional Kaldorian path of industrialization. There was a movement of labor out of agriculture and into manufacturing, with rising standards of living. As incomes expanded, so did demand for services and service employment. Manufacturing employment peaked in the U. S. during the 1950s, at approximately 30 percent of total employment. The peak in Japan occurred two decades later, in the 1970s, when manufacturing accounted for up to 35 percent of the total number of paid employees (JILPT, 2010). In contrast, manufacturing employment comprised 18.6 percent of Japanese employees in 2009 and 8.9 percent of U. S. employment in 2010.2
 
-The structure of employment continued to evolve in both countries from the 1980s onwards. Status in employment changed with a decline of relatively permanent, full-time employment. We have already discussed the rise of "nonregular" employment in Japan. Statistics that describe detailed trends in non-regular employment, other than part-time employment, are not available for the U. S. over a long time period, although research suggests that non-regular employment was expanding, particularly in the 1980s (Kalleberg, 2000). With the growth of non-regular forms of employment, there were also signs of declining social protections (i.e., growing informality). In the U. S., for example, the proportion of workers covered by health insurance and receiving pension benefits from their employers declined over this period (Schmitt, 2007). In both Japan and the U. S., union density rates fell significantly – altering the way in which many employment relationships were governed, compared with past practices.
+The structure of employment continued to evolve in both countries from the 1980s onwards. Status in employment changed with a decline of relatively permanent, full-time employment. We have already discussed the rise of "nonregular" employment in Japan. Statistics that describe detailed trends in non-regular employment, other than part-time employment, are not available for the U. S. over a long time period, although research suggests that non-regular employment was expanding, particularly in the 1980s (Kalleberg, 2000). With the growth of non-regular forms of employment, there were also signs of declining social protections (i.e., growing informality). In the U. S., for example, the proportion of workers covered by health insurance and receiving pension benefits from their employers declined over this period (Schmitt, 2007). In both Japan and the U. S., union density rates fell significantly - altering the way in which many employment relationships were governed, compared with past practices.
 
 ### **Kaldorian and non-Kaldorian structural change**
 
@@ -4415,11 +6070,11 @@ Sustained growth is associated with structural change, and countries with poor g
 
 This sets off a virtuous cycle involving the expansion of markets and growth of average productivity. If demand for agricultural goods is relatively income inelastic and demand for industrial goods and services is more elastic, then we would expect consumption patterns to shift in favor of services and industrial goods as average incomes grow (Kuznets, 1971). The expanding markets for services and industrial goods generate profitable new investment opportunities and growing demand for labor. Equally important, growing markets are essential for realizing economies of scale. Improvements in average productivity are driven by increased demand for output supported by rising living standards. Economic growth is endogenous in this framework, since the changing structures of production and employment provide an impetus for productivity growth.
 
-In the simple Kaldorian scenario, growth in service employment often outstrips the expansion of industrial employment. Three factors help explain the rapid growth of employment in services. First, marketed services tend to have reasonably high income elasticities. Second, employment tends to expand along with the demand for services, particularly in those activities in which the application of labor-saving technologies is limited. Finally, many types of services are less tradable than manufactured goods – growth in domestic incomes will increase demand for domestic services.
+In the simple Kaldorian scenario, growth in service employment often outstrips the expansion of industrial employment. Three factors help explain the rapid growth of employment in services. First, marketed services tend to have reasonably high income elasticities. Second, employment tends to expand along with the demand for services, particularly in those activities in which the application of labor-saving technologies is limited. Finally, many types of services are less tradable than manufactured goods - growth in domestic incomes will increase demand for domestic services.
 
 Open economies, globalized production and trade, and shifts in market dynamics have altered this stylized model of endogenous structural change. The link between domestic demand and industrialization often fails to hold. Domestic demand for manufactured goods may also be met through greater imports. Balance of payments and foreign exchange become important constraints on the process of industrialization. With the expansion of global production, competitive pressures among producers of manufactured exports mean that prices matter as much, if not more, than incomes in determining demand for a specific country's output. Access to export markets requires productivity improvements to keep unit labor costs low. However, high rates of productivity growth in industrial activities cause the growth of industrial employment to fall behind industrial production.
 
-As a result, contemporary movements out of agricultural may be associated with little or no growth in industrial employment and a large increase in service employment (Ghosh, 2008). Many countries appear to skip the step of industrial employment growth. The potential for a large scale allocation of labor to services to support capital accumulation and aggregate demand is limited for many activities (e.g., retail sales). This affects the feedback loop in the traditional Kaldorian story of economic development through industrialization. Of course, there are service activities that are highly tradable and exhibit scale economies – e.g., the information/telecommunications sector (Singh, 2008). High levels of global demand have led to the rapid expansion of these activities in certain circumstances. However, it is unclear whether a general expansion of service employment can substitute for industrialization.
+As a result, contemporary movements out of agricultural may be associated with little or no growth in industrial employment and a large increase in service employment (Ghosh, 2008). Many countries appear to skip the step of industrial employment growth. The potential for a large scale allocation of labor to services to support capital accumulation and aggregate demand is limited for many activities (e.g., retail sales). This affects the feedback loop in the traditional Kaldorian story of economic development through industrialization. Of course, there are service activities that are highly tradable and exhibit scale economies - e.g., the information/telecommunications sector (Singh, 2008). High levels of global demand have led to the rapid expansion of these activities in certain circumstances. However, it is unclear whether a general expansion of service employment can substitute for industrialization.
 
 The Kaldorian scenario of structural change also has little to say about "postindustrial" economies, economies like the U. S. and Japan in which the share of labor allocated to manufacturing activities has been declining. Will the share of low-productivity and precarious employment continue to grow in the absence of on-going industrial expansion? Or can an allocation of resources to nonindustrial sectors serve as a basis for sustainable improvements in the quality of employment, just as the allocation of productive resources to industrial production has done during periods of industrialization? I return to these questions later in the chapter.
 
@@ -4453,17 +6108,17 @@ The growth in industrial production for global markets has transformed the relat
 
 Over the past several decades, one of the most significant transformations of the employment situation in a large number of countries has been a notable increase in women's labor force participation (ILO, 2008). The impact of this shift on the total labor force varies considerably, because men's labor force participation rates have often fallen in countries where women's rates have been increasing. Changing demographics and longer time spent in school affect the overall labor force participation rates. Nevertheless, if we focus on the population of prime working age, 25 to 64 years old, estimates from the International Labor Organization suggest that world labor force participation rates have been increasing in recent decades, largely due to women's increased participation.3 Pressures on household incomes often encourage women to enter paid employment, since there is a need to increase the household's total labor supply to generate the income needed for families to sustain themselves.
 
-Women typically spend significantly more time than men in unpaid household and care work. Their increased labor force participation means that women work a "double shift" – part of their day is spent in paid work and part performing unpaid caring labor. However, given a limited amount of time available in a day, women's growing labor force participation will typically represent a reallocation of labor away from non-market activities and to market activities. The impact of this reallocation on the well-being of households is ambiguous, since market work is not a perfect substitute for non-market work. In addition, women who enter the labor force do not have the same employment opportunities available to them as men, i.e., the structure of employment is highly segmented along gender lines. Responsibilities for care work limit women's opportunities to jobs with flexible hours or activities in which care work can be combined with income generation.
+Women typically spend significantly more time than men in unpaid household and care work. Their increased labor force participation means that women work a "double shift" - part of their day is spent in paid work and part performing unpaid caring labor. However, given a limited amount of time available in a day, women's growing labor force participation will typically represent a reallocation of labor away from non-market activities and to market activities. The impact of this reallocation on the well-being of households is ambiguous, since market work is not a perfect substitute for non-market work. In addition, women who enter the labor force do not have the same employment opportunities available to them as men, i.e., the structure of employment is highly segmented along gender lines. Responsibilities for care work limit women's opportunities to jobs with flexible hours or activities in which care work can be combined with income generation.
 
-Two important global trends with regard to labor mobility are the on-going migration from rural to urban areas and the movement of workers across national borders. The most significant pattern of within-country migration is the rapid growth in urbanization. The U. N. reports that virtually all population growth in the next three decades will be concentrated in urban areas (UN-HABITAT, 2010). As metropolitan areas around the globe have become increasingly interconnected, rapid urbanization contributes to the size of the potential global workforce. Movement across international borders also affects labor supply and the global distribution of human resources. The total number of international migrants has grown steadily in recent decades, reaching nearly 200 million by 2005. Although the total population of international migrants has been expanding, the relationship between the number of migrants and the world's population has been relatively stable. Since 1990, the stock of international migrants as a percentage of the world's population has remained around 3 percent. This implies that international migration has tended to increase with the size of the total population – at least since the beginning of the 1990s.4
+Two important global trends with regard to labor mobility are the on-going migration from rural to urban areas and the movement of workers across national borders. The most significant pattern of within-country migration is the rapid growth in urbanization. The U. N. reports that virtually all population growth in the next three decades will be concentrated in urban areas (UN-HABITAT, 2010). As metropolitan areas around the globe have become increasingly interconnected, rapid urbanization contributes to the size of the potential global workforce. Movement across international borders also affects labor supply and the global distribution of human resources. The total number of international migrants has grown steadily in recent decades, reaching nearly 200 million by 2005. Although the total population of international migrants has been expanding, the relationship between the number of migrants and the world's population has been relatively stable. Since 1990, the stock of international migrants as a percentage of the world's population has remained around 3 percent. This implies that international migration has tended to increase with the size of the total population - at least since the beginning of the 1990s.4
 
-The current level of international migration may seem modest – e.g., 3 percent of the total population – but it is important to bear in mind that the international migrant population is not distributed evenly across the countries of the world. In addition, countries experience uneven patterns of emigration. For countries with high levels of out-migration, remittances from employment can constitute a sizeable inflow of financial resources, e.g., Mexico, Ghana, and the Philippines, to name a few. In high-income countries, international migrants tend to be concentrated in low-paid, contingent, and unprotected forms of employment. For example, in the U. S., non-citizens account for a disproportionate share of employment as day laborers, part-time workers, and temporary hires – categories of work which tend to be significantly more precarious on average (Carré and Heintz, 2009).
+The current level of international migration may seem modest - e.g., 3 percent of the total population - but it is important to bear in mind that the international migrant population is not distributed evenly across the countries of the world. In addition, countries experience uneven patterns of emigration. For countries with high levels of out-migration, remittances from employment can constitute a sizeable inflow of financial resources, e.g., Mexico, Ghana, and the Philippines, to name a few. In high-income countries, international migrants tend to be concentrated in low-paid, contingent, and unprotected forms of employment. For example, in the U. S., non-citizens account for a disproportionate share of employment as day laborers, part-time workers, and temporary hires - categories of work which tend to be significantly more precarious on average (Carré and Heintz, 2009).
 
 ### **Bubbles, crises, and the structure of employment: reflections on the U. S. and Japan**
 
 The trends in labor demand and labor supply discussed above are associated with the recent period of neoliberal globalization. The imbalances between global labor supply and labor demand pose particular challenges for high-income countries like the U. S. and Japan. In both cases, the structure of employment was shaped by a traditional Kaldorian development path. Manufacturing employment, as a share of total employment, had peaked in both countries and employment growth has increasingly occurred in services. Within the manufacturing sector, global integration intensified competitive pressures as manufacturing production expanded in newly industrializing countries.
 
-These changes threatened the implicit social accord that existed in the U. S. and Japan up until the 1980s. Industrial capital was expected to maintain productive, employment-generating investment that would ensure a steady supply of good jobs. In exchange, profitability was assured by sustaining aggregate demand while raising the productivity of labor. In the U. S., improvements in wages and living standards, at least until the 1970s, helped maintain demand in the domestic market. During the rapid growth of industrial employment in Japan, aggregate demand was supported by strong export performance. In both countries, public investments in infrastructure and education provided important complementary inputs into production which enhanced the productivity of private capital. At the heart of this social accord in Japan was the idea of life-time employment (*shūshin kōyō*). Similar social norms had evolved in the course of U. S. industrialization – the idea that the jobs created, at least for men, should earn a "family wage" and would provide permanent, full-time work.
+These changes threatened the implicit social accord that existed in the U. S. and Japan up until the 1980s. Industrial capital was expected to maintain productive, employment-generating investment that would ensure a steady supply of good jobs. In exchange, profitability was assured by sustaining aggregate demand while raising the productivity of labor. In the U. S., improvements in wages and living standards, at least until the 1970s, helped maintain demand in the domestic market. During the rapid growth of industrial employment in Japan, aggregate demand was supported by strong export performance. In both countries, public investments in infrastructure and education provided important complementary inputs into production which enhanced the productivity of private capital. At the heart of this social accord in Japan was the idea of life-time employment (*shūshin kōyō*). Similar social norms had evolved in the course of U. S. industrialization - the idea that the jobs created, at least for men, should earn a "family wage" and would provide permanent, full-time work.
 
 Restructuring of global production and deindustrialization undermined this earlier social bargain. In the U. S., with the rise of international production networks, the link between domestic incomes and the wages paid in production was weakened, since an increasing share of consumer goods was imported. Aggregate demand remained important for the expanding service sector, but aggregate demand could be maintained through other means. Women's growing labor force participation meant that two-income families increasingly became the norm. Household incomes increased, even when the average quality of employment was deteriorating, as long as the number of earners per household grew. Growth of consumer credit also helped support aggregate demand. Moreover, the flip side of the globalization of production was a reduction in the costs of imported consumer goods. Low prices helped protect the purchasing power of wages and thereby supported key service industries, such as domestic retailers.
 
@@ -4471,17 +6126,17 @@ In Japan, the expansion of global production to a wider range of countries inten
 
 Given these developments, both Japan and the U. S. faced a political challenge of maintaining a core set of "good jobs" in the face of these pressures. The fact that the segments of society that had less power, e.g., women and marginalized populations (in the case of the U. S., for example, racial/ethnic minorities and noncitizens), were also the people disproportionately employed in non-regular and poor quality jobs reduced the likelihood that distributive conflicts would become a serious challenge to entrenched economic interests. Nevertheless, the old social accord based on an expansion of industrial employment was clearly not sustainable, given changing global dynamics and patterns of deindustrialization.
 
-As noted earlier, the Kaldorian framework provides little guidance for "postindustrial" economies, i.e., economies which have been through a process of industrialization but allocate a decreasing share of their labor resources to industrial production. These economies face a critical question: does a new driver of post-industrial development exist, one that can replace the process of industrialization as a contributor to capital accumulation, long-run productivity improvements, and aggregate demand? One possible candidate is the financial sector – with financial innovation and deepening becoming the new driving forces for economic development. After all, many post-industrial economies have experienced a rapid increase in the size of the financial sector in recent years. Can "financialization" replace "industrialization" as a foundation for providing quality employment opportunities in the future?
+As noted earlier, the Kaldorian framework provides little guidance for "postindustrial" economies, i.e., economies which have been through a process of industrialization but allocate a decreasing share of their labor resources to industrial production. These economies face a critical question: does a new driver of post-industrial development exist, one that can replace the process of industrialization as a contributor to capital accumulation, long-run productivity improvements, and aggregate demand? One possible candidate is the financial sector - with financial innovation and deepening becoming the new driving forces for economic development. After all, many post-industrial economies have experienced a rapid increase in the size of the financial sector in recent years. Can "financialization" replace "industrialization" as a foundation for providing quality employment opportunities in the future?
 
-In both Japan and the U. S., rapid expansion of the financial sector, through the growth of financial services, new financial innovations, and the appreciation of financial asset prices, reduced pressures on the structure of employment. For a limited time, it appeared as if a reallocation of resources to the financial sector supported the continued strong performance of the real economy. In Japan, such financialization was associated with the emergence of a bubble economy in the mid 1980s and continued until the early 1990s. In the U. S., a similar bubble economy formed in the mid 1990s and finally ended in 2008, first focused on stock markets and then shifting to include real estate and complex derivatives. There was a brief interruption of the bubble – around 2001 – accompanied by the September 11 attacks in New York and Washington and a series of corporate accounting scandals. However, the bubble re-formed shortly afterwards.
+In both Japan and the U. S., rapid expansion of the financial sector, through the growth of financial services, new financial innovations, and the appreciation of financial asset prices, reduced pressures on the structure of employment. For a limited time, it appeared as if a reallocation of resources to the financial sector supported the continued strong performance of the real economy. In Japan, such financialization was associated with the emergence of a bubble economy in the mid 1980s and continued until the early 1990s. In the U. S., a similar bubble economy formed in the mid 1990s and finally ended in 2008, first focused on stock markets and then shifting to include real estate and complex derivatives. There was a brief interruption of the bubble - around 2001 - accompanied by the September 11 attacks in New York and Washington and a series of corporate accounting scandals. However, the bubble re-formed shortly afterwards.
 
-In both cases, loose monetary policy and high levels of liquidity contributed to asset price inflation which, in turn, supported the domestic economy. In Japan, the appreciation of the yen after the Plaza Accord in 1985 kept consumer price inflation at low levels, as the cost of imported inputs fell. In response, the Bank of Japan lowered interest rates and expanded liquidity (Itoh, 2000). High levels of foreign reserves allowed the Bank of Japan to simultaneously maintain a strong yen and keep interest rates low without causing consumer price inflation to accelerate. In the U. S., the globalization of production meant that low cost imports from developing countries accounted for an increasing share of consumer goods. This kept the prices of goods in tradable sectors low and contributed to low consumer price inflation. With low inflation and low unemployment, the Federal Reserve chose to reduce interest rates. In both countries, inflationary pressures manifested themselves, not in terms of consumer prices, but rather with regard to asset prices – specifically, real estate and financial assets.
+In both cases, loose monetary policy and high levels of liquidity contributed to asset price inflation which, in turn, supported the domestic economy. In Japan, the appreciation of the yen after the Plaza Accord in 1985 kept consumer price inflation at low levels, as the cost of imported inputs fell. In response, the Bank of Japan lowered interest rates and expanded liquidity (Itoh, 2000). High levels of foreign reserves allowed the Bank of Japan to simultaneously maintain a strong yen and keep interest rates low without causing consumer price inflation to accelerate. In the U. S., the globalization of production meant that low cost imports from developing countries accounted for an increasing share of consumer goods. This kept the prices of goods in tradable sectors low and contributed to low consumer price inflation. With low inflation and low unemployment, the Federal Reserve chose to reduce interest rates. In both countries, inflationary pressures manifested themselves, not in terms of consumer prices, but rather with regard to asset prices - specifically, real estate and financial assets.
 
-The increase in asset prices supported domestic fixed capital investment and domestic demand in both economies during the bubble years. Figure 15.1 shows the growth rate of real fixed investment in Japan from 1966 to 2010 – both actual growth rates and a five-year centered moving average, which mutes year-to-year fluctuations. The economic shocks of the 1970s reduced investment growth from the high rates which prevailed in the 1960s. Despite some fluctuation, average fixed investment growth remained at low levels until the bubble economy of the second half of the 1980s. After 1991, fixed investment growth fell to very low
+The increase in asset prices supported domestic fixed capital investment and domestic demand in both economies during the bubble years. Figure 15.1 shows the growth rate of real fixed investment in Japan from 1966 to 2010 - both actual growth rates and a five-year centered moving average, which mutes year-to-year fluctuations. The economic shocks of the 1970s reduced investment growth from the high rates which prevailed in the 1960s. Despite some fluctuation, average fixed investment growth remained at low levels until the bubble economy of the second half of the 1980s. After 1991, fixed investment growth fell to very low
 
 ## ![](_page_321_Figure_5.jpeg)
 
-*Figure 15.1* Rate of growth of real gross fixed capital investment, Japan, 1966–2010 (source: International Financial Statistics, IMF Database).
+*Figure 15.1* Rate of growth of real gross fixed capital investment, Japan, 1966-2010 (source: International Financial Statistics, IMF Database).
 
 levels, as a consequence of the collapse of the bubble economy. Chirinko and Schaller (2001) demonstrate more rigorously that the rise in stock market prices in Japan did constitute a bubble, and that the bubble directly affected fixed capital investment.
 
@@ -4491,7 +6146,7 @@ Asset price inflation in Japan and the U. S. kept unemployment low and helped to
 
 ## ![](_page_322_Figure_4.jpeg)
 
-*Figure 15.2* Rate of growth of real gross fixed capital investment, United States, 1966–2010 (source: International Financial Statistics, IMF Database).
+*Figure 15.2* Rate of growth of real gross fixed capital investment, United States, 1966-2010 (source: International Financial Statistics, IMF Database).
 
 gradually after that, down to 11 million employees by the end of the 1970s. However, instead of continuing this decline, manufacturing employment stabilized and began to grow again, particularly during the bubble economy, reaching a new high of 13.8 million in 1992. Since that time, manufacturing employment has been falling in Japan. In the U. S., there was no net gain in manufacturing jobs, but unemployment rates did reach low levels by historical standards during the bubble economy of the 1990s. With the bursting of the bubble, unemployment rose dramatically and prevalence of involuntary part-time employment expanded, as has already been documented.
 
@@ -4505,7 +6160,7 @@ The argument advanced in this chapter is that processes of financialization lead
 
 The role of industrial policies to support structural change, leading to a version of Kaldorian industrialization in countries like Korea and Taiwan, has been well documented (Chang, 2003, 1994; Amsden, 2001). Such policies required a strong role for the state, placing markets in a supportive, not dominant position. This raises the question of whether a similar set of "post-industrial" policies can be developed to support employment in countries in which industrial expansion no longer provides the economy's driving force. The challenge is to identify allocations of productive resources that can support the kind of virtuous dynamic associated with industrialization, i.e., sustained productivity improvements, productive investments, and sufficient aggregate demand.
 
-One possible candidate is the range of activities lumped together under the broad "service sector" heading. Often service employment is assumed to be a passive by-product of a particular pattern of development, with little potential for productivity growth. However, services provide important inputs for other economic activities – raising the possibility that an expansion of services could raise productivity elsewhere (Tregenna, 2008). A recent empirical study of the U. S. economy found that productivity improvements in services supported broader economic growth (Triplett and Bosworth, 2004). In addition, services need not be intrinsically low-productivity activities. Information technologies frequently exhibit significant economies of scale, as does knowledge production through research and development. The sectors may be more accurately classified as "human capital intensive" rather than "labor intensive" sectors – suggesting a shift in focus away from labor productivity towards the productivity of other factors of production, such as human capital.
+One possible candidate is the range of activities lumped together under the broad "service sector" heading. Often service employment is assumed to be a passive by-product of a particular pattern of development, with little potential for productivity growth. However, services provide important inputs for other economic activities - raising the possibility that an expansion of services could raise productivity elsewhere (Tregenna, 2008). A recent empirical study of the U. S. economy found that productivity improvements in services supported broader economic growth (Triplett and Bosworth, 2004). In addition, services need not be intrinsically low-productivity activities. Information technologies frequently exhibit significant economies of scale, as does knowledge production through research and development. The sectors may be more accurately classified as "human capital intensive" rather than "labor intensive" sectors - suggesting a shift in focus away from labor productivity towards the productivity of other factors of production, such as human capital.
 
 For countries that have already achieved high levels of labor productivity, like Japan and the U. S., a continued focus on improving labor productivity may be counter-productive when labor supply has become relatively abundant on a global scale. Instead, economies should emphasize raising the productivity of relatively scarce factors of production. One target for efficiency enhancements is in the use of energy and the capacity of the environment to assimilate the harmful by-products of economic activity. Capitalist development evolved on the basis of relatively unfettered access to non-renewable resources, particularly carbon-based energy. These factors of production will become increasingly scarce in the future, placing a constraint on traditional industrial development. Moreover, the desirability of alternatives, such as nuclear power, has been called into question after the devastating earthquake and subsequent crisis at the Fukushima nuclear reactor in Japan in 2011. In these circumstances, investments in renewable energy and energy efficient technologies could result in structural changes that improve the productivity of the economy with regard to scarce, non-renewable resources and, at the same time, support employment.
 
@@ -4515,7 +6170,7 @@ These thoughts on "post-industrial" policy interventions are far from comprehens
 
 - 1 Statistics for Japan are from the Statistics Bureau of Japan. Statistics for the U. S. are from the U. S. Bureau of Labor Statistics.
 - 2 Statistics on manufacturing employment in 2010 come from the Statistics Bureau of Japan and the U. S. Bureau of Labor Statistics.
-- 3 According to estimates from the International Labor Organization's database, *Economically Active Population Estimates and Projections*, the worldwide labor force participation rate of the 25–64 year old population rose from 74.6 percent in 1980 to a projected 76.8 in 2010. This 2.2 percentage point difference represents 72 million workers, given the 25–64 year old population in 2010. Women's (25–64) labor force participation rate increased from 55.6 percent to 62.0 percent during this period. Men's labor force participation in the same age group and over the same period dropped from an estimated 93.3 percent to 91.4 percent.
+- 3 According to estimates from the International Labor Organization's database, *Economically Active Population Estimates and Projections*, the worldwide labor force participation rate of the 25-64 year old population rose from 74.6 percent in 1980 to a projected 76.8 in 2010. This 2.2 percentage point difference represents 72 million workers, given the 25-64 year old population in 2010. Women's (25-64) labor force participation rate increased from 55.6 percent to 62.0 percent during this period. Men's labor force participation in the same age group and over the same period dropped from an estimated 93.3 percent to 91.4 percent.
 - 4 *World Migrant Stock 2005 Revision*, UN Department of Economic and Social Affairs (UNDESA), New York.
 
 ### **References**
@@ -4524,27 +6179,27 @@ These thoughts on "post-industrial" policy interventions are far from comprehens
 - Amsden, Alice (2001) *The Rise of "The Rest:" Challenges to the West from lateindustrializing economies*, Oxford and New York: Oxford University Press.
 - Carré, Françoise and James Heintz (2009) "The United States: different sources of precariousness in a mosaic of employment arrangements," in L. Vosko, M. Mac Donald, and I. Campbell (eds) *Gender and the Contours of Precarious Employment*, London: Routledge.
 - Chang, Ha-Joon (1994) *The Political Economy of Industrial Policy*, New York: St. Martin's Press.
-- Chang, Ha-Joon (2003) "The market, the state, and institutions in economic development," in Ha-Joon Chang (ed.) *Rethinking Development Economics*, London: Anthem Press, pp. 41–60.
+- Chang, Ha-Joon (2003) "The market, the state, and institutions in economic development," in Ha-Joon Chang (ed.) *Rethinking Development Economics*, London: Anthem Press, pp. 41-60.
 - Chen, M., J, Vanek, F. Lund, J. Heintz, R. Jhabvala, and C. Bonner, (2005) *Progress of the World's Women 2005: Women, Work, and Poverty*, New York: UNIFEM.
-- Chirinko, Robert S. and Huntley Schaller (2001) "Business fixed investment and 'bubbles': the Japanese case," *American Economic Review*, vol. 91, no. 3, pp. 663–680.
+- Chirinko, Robert S. and Huntley Schaller (2001) "Business fixed investment and 'bubbles': the Japanese case," *American Economic Review*, vol. 91, no. 3, pp. 663-680.
 - Freeman, Richard (2006) "The great doubling: the challenge of the new global labor market," Unpublished paper, August 2006.
 - Frenkel, Roberto and Lance Taylor (2009) "Real exchange rate, monetary policy, and employment: economic development in a garden of forking paths," in G. Epstein and
 
-- E. Yeldan (eds) *Beyond Inflation Targeting: Assessing the Impacts and Policy Alternatives*, Cheltenham and Northampton, Mass.: Elgar, pp. 28–43.
+- E. Yeldan (eds) *Beyond Inflation Targeting: Assessing the Impacts and Policy Alternatives*, Cheltenham and Northampton, Mass.: Elgar, pp. 28-43.
 - Ghosh, Jayati (2008) "Growth, macroeconomic policies, and structural change," Background Paper prepared for UNRISD flagship report on Poverty, Geneva: UNRISD.
 - Hammouya, Messaoud (1999) "Statistics on public sector employment: methodology, structures, and trends," Working Paper, Sectoral Activities Program, ILO Bureau of Statistics, Geneva.
 - ILO (International Labour Office) (2008) *Global Employment Trends for Women*, Geneva.
 - Itoh, Makoto (2000) *The Japanese Economy Reconsidered*, New York: Palgrave.
-- JILPT (Japan Institute for Labor Policy and Training) (2010) *Japanese Working Life Profile 2009/2010 – Labor Statistics*, Tokyo.
+- JILPT (Japan Institute for Labor Policy and Training) (2010) *Japanese Working Life Profile 2009/2010 - Labor Statistics*, Tokyo.
 - Kaldor, Nicholas (1967) *Strategic Factors in Economic Development*, Ithaca, NY: Cornell University Press.
-- Kalleberg, Arne L. (2000) "Non-standard employment relations: part-time, temporary, and contract work," *Annual Review of Sociology*, vol. 26, pp. 341–365.
+- Kalleberg, Arne L. (2000) "Non-standard employment relations: part-time, temporary, and contract work," *Annual Review of Sociology*, vol. 26, pp. 341-365.
 - Kapsos, Steven (2005) "The employment intensity of growth: trends and macroeconomic determinants," Employment Strategy Papers, No. 2005/12, Employment Strategy Department, Geneva: ILO.
-- Keizer, Arjan B. (2008) "Non-regular employment in Japan," *Work, Employment, and Society*, vol. 22, no. 3, pp. 407–425.
-- Khan, Azizur Rahman (2006) "Employment policies for poverty reduction," in R. Islam (ed.) *Fighting Poverty: the Employment-Development Link*, London: Lynne Rienner, pp. 63–103.
+- Keizer, Arjan B. (2008) "Non-regular employment in Japan," *Work, Employment, and Society*, vol. 22, no. 3, pp. 407-425.
+- Khan, Azizur Rahman (2006) "Employment policies for poverty reduction," in R. Islam (ed.) *Fighting Poverty: the Employment-Development Link*, London: Lynne Rienner, pp. 63-103.
 - Kuznets, Simon (1971) *Economic Growth of Nations*, Cambridge, MA: Harvard University Press.
 - Minksy, Hyman (1986) *Stabilizing an Unstable Economy*, New Haven, CT: Yale University Press.
-- Ono, Yukako and Daniel Sullivan (2010) "Manufacturing plants' use of temporary workers: an analysis using census micro data," Working Paper, Federal Reserve Bank of Chicago, WP2006–24, Revised.
-- Rada, Codrina and Lance Taylor (2007) "Productive structure and effective demand during the great divergence: regional contrasts," in J. A. Ocampo, Jomo K. S., and R. Vos (eds) *Growth Divergences: Explaining Differences in Economic Performance*, Zed Books: London, pp. 67–97.
+- Ono, Yukako and Daniel Sullivan (2010) "Manufacturing plants' use of temporary workers: an analysis using census micro data," Working Paper, Federal Reserve Bank of Chicago, WP2006-24, Revised.
+- Rada, Codrina and Lance Taylor (2007) "Productive structure and effective demand during the great divergence: regional contrasts," in J. A. Ocampo, Jomo K. S., and R. Vos (eds) *Growth Divergences: Explaining Differences in Economic Performance*, Zed Books: London, pp. 67-97.
 - Rodrik, Dani (1997) *Has Globalization Gone Too Far?* Washington, D. C.: Institute for International Economics.
 - Schmitt, John (2007) "The good, the bad, and the ugly: job quality in the United States over the three most recent business cycles," Research Report, Center for Economic and Policy Research, Washington, DC, 2007.
 - Singh, Nirvikar (2008). "Services-led industrialization in India: assessment and lessons," in D. O'Connor and M. Kjöllerström (eds) *Industrial Development for the 21st Century*, New York: Zed Books.
@@ -4576,7 +6231,7 @@ The general criteria for subprime borrowers that is typically used by the Office
 
 In the post-housing bubble period, the percentage of homeowners in all income quintiles declined (see Figure 16.1). The homeownership rate for the first (lowest) quintile remained at 13 percent in 2009 and fell slightly to 12 percent in 2010. Compared to 1984, the post-bubble homeownership percentages are about the same or higher for the second to fifth quintiles; but that for the first quintile fell by 5 percent.
 
-When the IT bubble collapsed in 2000, the American government adopted a policy that promoted homeownership. But even with the rapid expansion of mortgage loans, homes have never been affordable for the lowest income households. So the term "subprime borrower" doesn't refer, on average, to a person who is suffering from poverty or an unstable income; rather, it means someone from the second to fourth U. S. income quintiles – that is, from the middle class. Many of the borrowers who are facing foreclosure are statistically middle class – that is, ordinary people. This illustrates why the subprime crisis is such a serious matter in the U. S.
+When the IT bubble collapsed in 2000, the American government adopted a policy that promoted homeownership. But even with the rapid expansion of mortgage loans, homes have never been affordable for the lowest income households. So the term "subprime borrower" doesn't refer, on average, to a person who is suffering from poverty or an unstable income; rather, it means someone from the second to fourth U. S. income quintiles - that is, from the middle class. Many of the borrowers who are facing foreclosure are statistically middle class - that is, ordinary people. This illustrates why the subprime crisis is such a serious matter in the U. S.
 
 ### **Overconsumption and the myth of waste**
 
@@ -4616,9 +6271,9 @@ Like Warren, Gordon analyzed not only extremely poor people but also the middle 
 
 ### *The inevitability of debt due to wage repression*
 
-Let's explore why consumers cannot stop themselves from accumulating debt that they cannot pay. In the approach taken here, overconsumption means that consumer spending on all categories of expenditure exceeds one's income from all sources. So looking at the causes of overconsumption means examining how households meet all final consumption expenses, and specifically whether they must rely on debt – "consumer credit" – to do so. Here, consumer credit equals the total of both mortgage loans and all other categories of consumer debt, including auto and education loans and credit-card debt. In some analyses, mortgage loans are not considered in the same category as consumer credit, because homeowner households are considering to be financing their investment in a durable asset (their homes). Here we work with the reality that mortgage debt payments must be met from the same income streams that are used to meet other forms of household debt, and so should included in that total.
+Let's explore why consumers cannot stop themselves from accumulating debt that they cannot pay. In the approach taken here, overconsumption means that consumer spending on all categories of expenditure exceeds one's income from all sources. So looking at the causes of overconsumption means examining how households meet all final consumption expenses, and specifically whether they must rely on debt - "consumer credit" - to do so. Here, consumer credit equals the total of both mortgage loans and all other categories of consumer debt, including auto and education loans and credit-card debt. In some analyses, mortgage loans are not considered in the same category as consumer credit, because homeowner households are considering to be financing their investment in a durable asset (their homes). Here we work with the reality that mortgage debt payments must be met from the same income streams that are used to meet other forms of household debt, and so should included in that total.
 
-Capital accumulation processes under globalization have accelerated wage cutting, both by using low-cost labor from developing countries and by forcing workers in developed industrial countries to compete with low-cost developingcountry labor. This process has become easier as the power of trade unions has diminished. So, the level of depressed wages for many workers has fallen below the reproduction cost of labor power, while their expenditures for necessities – including medical care – have been grown ever larger. The difference has to be met by consumer credit.
+Capital accumulation processes under globalization have accelerated wage cutting, both by using low-cost labor from developing countries and by forcing workers in developed industrial countries to compete with low-cost developingcountry labor. This process has become easier as the power of trade unions has diminished. So, the level of depressed wages for many workers has fallen below the reproduction cost of labor power, while their expenditures for necessities - including medical care - have been grown ever larger. The difference has to be met by consumer credit.
 
 As long as capital needs him, the worker can use consumer credit to compensate for the shortfall in his (and his family's) reproduction costs of labor power. This allows him to continue working. Even as the worker accrues debt, there is no problem as long as he can repay with his future income. Repayment capacity is, in turn, based on the stability both of his status as a worker and of his future income. Of course, there is the possibility that debt built into the cost of living in this way may eventually burst repayment boundaries. The U. S. credit system has minimized this possibility by creating the "minimum-payment system" which allows debtors to repay a minimum amount of their total debt each month and permits them to accumulate more outstanding debt. So workers who earn stable incomes can manage their lives with this "minimum payment system," as long as they are regularly employed. In other words, as long as capital needs them, they can safely endure the expansion of debt.
 
@@ -4638,15 +6293,15 @@ The increase in income and poverty gaps is also remarkable. The population in po
 
 to the United Nations Human Development Report, the U. S. poverty rate is 17th among the 19 developed OECD countries, higher only than those of Ireland and Italy. The income gap has also steadily expanded. Income has been rising consistently only for those in the fifth (highest) quintile; the difference between the first and fifth quintiles is 19 times higher than in 2006.
 
-Mika Tsutsumi concludes that the cause of poverty for many can be linked to healthcare costs. The reason for falling into poverty for one electronic engineer who had received a bankruptcy adjudication in 2005 was his medical expenses. His bankruptcy was caused by the enforcement of a \$12,000 bill that resulted from expenses related to his wife giving birth and from his requiring just one day in hospital for a vermiform appendix operation. Although he had health insurance through his company, his case was not covered. The number of people who cannot afford medical insurance increased from 43 million in 2005 to almost 50 million in 2010. According to a report, uninsured people constitute 16.3 percent of all races, 15.4 percent of whites of both sexes, and 20.8 percent of blacks of both sexes. The rate for Hispanics of both sexes is even higher – more than 30 percent.9
+Mika Tsutsumi concludes that the cause of poverty for many can be linked to healthcare costs. The reason for falling into poverty for one electronic engineer who had received a bankruptcy adjudication in 2005 was his medical expenses. His bankruptcy was caused by the enforcement of a \$12,000 bill that resulted from expenses related to his wife giving birth and from his requiring just one day in hospital for a vermiform appendix operation. Although he had health insurance through his company, his case was not covered. The number of people who cannot afford medical insurance increased from 43 million in 2005 to almost 50 million in 2010. According to a report, uninsured people constitute 16.3 percent of all races, 15.4 percent of whites of both sexes, and 20.8 percent of blacks of both sexes. The rate for Hispanics of both sexes is even higher - more than 30 percent.9
 
-According to Warren's 2001 research project, the three major factors accounting for 87 percent of all cases of bankruptcy, for those with children are: unemployment, medical expenses, and divorce. For the other 13 percent, credit-card overspending is involved – a small amount in proportion – along with bad investments, being a crime victim, natural disaster, other explanation, and no explanation.10
+According to Warren's 2001 research project, the three major factors accounting for 87 percent of all cases of bankruptcy, for those with children are: unemployment, medical expenses, and divorce. For the other 13 percent, credit-card overspending is involved - a small amount in proportion - along with bad investments, being a crime victim, natural disaster, other explanation, and no explanation.10
 
-Moreover, according to this analysis, 62.1 percent of all bankruptcy cases in 2007 were related to a medical cause. Furthermore, 77.9 percent of the people involved in the bankruptcies had insurance when illness onset. Also, those involved in the bankruptcies included in the study had a monthly mean income of \$2,586 – that is, the average household in this study belonged to the second quintile.11 The point is that these debtors are ordinary people with morals who kept paying their debt just before falling into bankruptcy. This is evidence of the serious situation in the U. S., where the average person falls into serious debt and then into bankruptcy after facing sickness or unemployment. Relative to healthand medical-related expenditures as a share of GDP, public expenditures are the lowest among all developed countries. By contrast, private expenditure on health- and medical-related expenditures in the U. S. is 8.4 percent of GDP, a figure three to four times higher than in other developed countries.
+Moreover, according to this analysis, 62.1 percent of all bankruptcy cases in 2007 were related to a medical cause. Furthermore, 77.9 percent of the people involved in the bankruptcies had insurance when illness onset. Also, those involved in the bankruptcies included in the study had a monthly mean income of \$2,586 - that is, the average household in this study belonged to the second quintile.11 The point is that these debtors are ordinary people with morals who kept paying their debt just before falling into bankruptcy. This is evidence of the serious situation in the U. S., where the average person falls into serious debt and then into bankruptcy after facing sickness or unemployment. Relative to healthand medical-related expenditures as a share of GDP, public expenditures are the lowest among all developed countries. By contrast, private expenditure on health- and medical-related expenditures in the U. S. is 8.4 percent of GDP, a figure three to four times higher than in other developed countries.
 
 Expenditures for healthcare strain family budgets, and illustrate very clearly the critical situation among American households. The U. S. government has cut budgets for education, healthcare, and social welfare under neoliberalism, and this has a big influence on the household. Thus, it would be untrue to say that the reason the U. S. middle class has no savings is because Americans accumulate debt to expand wasteful consumption.
 
-Let's examine this issue further by examining the "socialization of life" – that is, the "outsourcing of housework." Some private and individual functions of family life, which form part of the reproduction of labor, are replaced either by commodities provided by capital, or by communal goods provided primarily by the public sector. In other words, it means that private work for consumption formerly done within the family is substituted by the public or for-profit provision of that work under the social division of labor. This socialization of life is accelerated as capitalist economies develop.
+Let's examine this issue further by examining the "socialization of life" - that is, the "outsourcing of housework." Some private and individual functions of family life, which form part of the reproduction of labor, are replaced either by commodities provided by capital, or by communal goods provided primarily by the public sector. In other words, it means that private work for consumption formerly done within the family is substituted by the public or for-profit provision of that work under the social division of labor. This socialization of life is accelerated as capitalist economies develop.
 
 Kenichi Miyamoto describes consumption expenses in this category of reproducing labor power as involving "social, cooperative consumption means." These expenses include outsourced housework activities and subsidies provided for cooperative consumption: traffic, the means of communication, popular culture and amusement equipment, educational institutions, hospital and other sanitary facilities, public health centers, vocational training institutions, council houses, water supply and drainage operations, cleaning equipment, gas, electricity, and so on. These items are necessary and indispensable for the reproduction of labor power; consequently, they are free of charge or even supplied at low prices.12
 
@@ -4660,9 +6315,9 @@ There is controversy regarding what social consumption goods should be publicly 
 
 ### Note
 
-<sup>\*1 &</sup>quot;School lunch" does not exist in U. S. Consumer expenditure survey.
+\*1 &quot;School lunch" does not exist in U. S. Consumer expenditure survey.
 
-But in the U. S., the proportion of all private spending on these social consumption goods/services is about 53–57 percent in each income quintile; and it is highest in the lowest quintile. Figure 16.4 shows data for the U. S., which are taken from the 2007 Consumer Expenditure Survey. For instance, the social consumption goods/services expenditures are 54 percent of all private spending in the fourth quintile, but 57.2 percent in the lowest quintile and 56.3 percent in the fifth quintile. These expenditures are both high and relatively fixed, putting pressure on the remainder of the household's disposable income. Consumers can only pay for urgent and unanticipated expenses from this remainder – as in the case of medical costs or the need to support the household after losing a job. The amount of this "remainder," for the average household, comes to \$20,879
+But in the U. S., the proportion of all private spending on these social consumption goods/services is about 53-57 percent in each income quintile; and it is highest in the lowest quintile. Figure 16.4 shows data for the U. S., which are taken from the 2007 Consumer Expenditure Survey. For instance, the social consumption goods/services expenditures are 54 percent of all private spending in the fourth quintile, but 57.2 percent in the lowest quintile and 56.3 percent in the fifth quintile. These expenditures are both high and relatively fixed, putting pressure on the remainder of the household's disposable income. Consumers can only pay for urgent and unanticipated expenses from this remainder - as in the case of medical costs or the need to support the household after losing a job. The amount of this "remainder," for the average household, comes to \$20,879
 
 ## ![](_page_335_Figure_3.jpeg)
 
@@ -4670,7 +6325,7 @@ But in the U. S., the proportion of all private spending on these social consump
 
 ### Note
 
-<sup>\*1. 2005,</sup> sampled only "Nonrelative," this annual payment is based on the original figure which is calculated on weekly basis.
+\*1. 2005, sampled only "Nonrelative," this annual payment is based on the original figure which is calculated on weekly basis.
 
 (annually); this figure is only \$8,191 in the first (lowest) quintile and \$13,619 in the second quintile.
 
@@ -4702,52 +6357,52 @@ Consumer credit has two methods of repayment: non-revolving and revolving. The r
 
 ### *Home-equity loans and the implications of realizing value based on market expectations, not market transactions*
 
-The refinancing of mortgages added to the credit-fueled expansion of the U. S. economy, encouraged by the tax shelter provided for holders of mortgage loans.19 As the U. S. housing-finance system was originally designed, mortgages finance housing purchases, and households realized their houses' value only when they were sold. However, the refinancing of mortgages has now become common, especially during housing bubbles. This permits debtors to take out new and larger mortgage loans which capitalize the value of increasing housing prices – with the difference in loan amount being freely available for any spending purpose. In effect, potential capital gains can be shifted to consumption and debt repayment purposes without selling the property generating those gains. This system worked as a driver for U. S. economic growth. The cash-out from refinancing was \$152.7 billion from 2001 to 2005, up from \$27.2 billion from 1991 to 2000. Alan Greenspan and James Kennedy pointed out that the major uses of free cash from refinanced equity loans were home improvement and the repayment of "non-mortgage debt."20 The proportion of refinancing loans used to purchase another property was only 22 percent, and the proportion used for repayment of non-mortgage debt and personal consumption expenditure (PCE) was 44 percent in total from 2001 to 2005.21
+The refinancing of mortgages added to the credit-fueled expansion of the U. S. economy, encouraged by the tax shelter provided for holders of mortgage loans.19 As the U. S. housing-finance system was originally designed, mortgages finance housing purchases, and households realized their houses' value only when they were sold. However, the refinancing of mortgages has now become common, especially during housing bubbles. This permits debtors to take out new and larger mortgage loans which capitalize the value of increasing housing prices - with the difference in loan amount being freely available for any spending purpose. In effect, potential capital gains can be shifted to consumption and debt repayment purposes without selling the property generating those gains. This system worked as a driver for U. S. economic growth. The cash-out from refinancing was \$152.7 billion from 2001 to 2005, up from \$27.2 billion from 1991 to 2000. Alan Greenspan and James Kennedy pointed out that the major uses of free cash from refinanced equity loans were home improvement and the repayment of "non-mortgage debt."20 The proportion of refinancing loans used to purchase another property was only 22 percent, and the proportion used for repayment of non-mortgage debt and personal consumption expenditure (PCE) was 44 percent in total from 2001 to 2005.21
 
 This shows that many people now take on mortgage loans not only for their homes, but for their cars and their daily lives. In the subprime-fueled housing boom, not only mortgage loans but the repayment of consumer credit and the well-being of much of the working class was entrusted to the housing market as well.
 
 ### *A particularity of the United States: the dollar's currency privilege*
 
-We next discuss a key reason that the subprime crisis arose and became so aggravated in the U. S. It is an intrinsic practice of capitalism to expand credit and create policies to increase consumption so as avoid financial crisis. But the United States differs from other capitalist countries in that it can uniquely overcome the internal limits to its production because of privilege. When most other countries – especially developing countries – want to settle their accumulated debts, they must obtain dollars by exporting their products or borrowing more from other countries. Ultimately, their loans must be repaid in dollars. But the U. S. has no need to regulate its imports, even as its accumulated debt grows. The current balance deficit "is transferred to the deposit of the non-resident in the United States bank system, and the deposit moves from the resident account to a nonresident account in the United States bank system."22 As long as the dollar retains its dominance in international markets, any deterrent to its current-account deficit is lost: the U. S. has access to limitless imports independent of its export volume.23
+We next discuss a key reason that the subprime crisis arose and became so aggravated in the U. S. It is an intrinsic practice of capitalism to expand credit and create policies to increase consumption so as avoid financial crisis. But the United States differs from other capitalist countries in that it can uniquely overcome the internal limits to its production because of privilege. When most other countries - especially developing countries - want to settle their accumulated debts, they must obtain dollars by exporting their products or borrowing more from other countries. Ultimately, their loans must be repaid in dollars. But the U. S. has no need to regulate its imports, even as its accumulated debt grows. The current balance deficit "is transferred to the deposit of the non-resident in the United States bank system, and the deposit moves from the resident account to a nonresident account in the United States bank system."22 As long as the dollar retains its dominance in international markets, any deterrent to its current-account deficit is lost: the U. S. has access to limitless imports independent of its export volume.23
 
 The dollar's privilege as an international currency thus lies behind many of the otherwise unsustainable trends that maintained U. S. and indeed global accumulation until the global crisis arrived. In particular, the U. S. could endure the outsourcing of its skilled and unskilled jobs, because importing goods produced by low-wage workers depressed the value of the commodities that sustained U. S. workers' daily lives. This trend also helped households with abundant loans to compensate for constraints on their income.
 
-So the U. S.'s privilege – its ability to pay its debts in its own currency with no need to settle because dollar itself is debt – has enabled its overconsumption, and thus counts as another crucial cause of the subprime crisis. As long as consumers could repay their debt, the crisis of overproduction was postponed. But sooner or later, rising debts and financial obligations would – and finally did – overwhelm the U. S. economy.24
+So the U. S.'s privilege - its ability to pay its debts in its own currency with no need to settle because dollar itself is debt - has enabled its overconsumption, and thus counts as another crucial cause of the subprime crisis. As long as consumers could repay their debt, the crisis of overproduction was postponed. But sooner or later, rising debts and financial obligations would - and finally did - overwhelm the U. S. economy.24
 
 The resulting world crisis, in turn, reveals how much the world economy has depended on the unsustainable expansion of the U. S. market. For example, profits at Indian IT companies have depended on profits earned from contracts commissioned by U. S. companies. India's IT companies TCS and Infosys, for example, had 50 to 60 percent of their sales in North America; these companies' profits, which stood at 30 to 40 percent in the first quarter of 2007, fell to less than 10 percent in 2008.25
 
 ### **Conclusion**
 
-This chapter has argued that the root of the subprime problem lies in overproduction. Consumption-boosting measures based on expanding credit were indispensable in deferring the possibility of depression. This problem is intrinsic to all capitalist economies, not just the U. S. This chapter went on to show that the global position of the U. S. is unique because its dollar seigniorage has permitted it to defer depression and overcome limitations such as falling real wages – of course, at the expense of further aggravating its economy's internal contradictions. The central contradiction involved U. S. consumers' need to increase household debt in the face of stagnant wages and rising fixed living costs. A detailed analysis of U. S. household budgets has shown that the habit of spending beyond one's means is due more to stagnant wages, employment instability, and inadequate social support under neoliberalism, rather than to extravagance.
+This chapter has argued that the root of the subprime problem lies in overproduction. Consumption-boosting measures based on expanding credit were indispensable in deferring the possibility of depression. This problem is intrinsic to all capitalist economies, not just the U. S. This chapter went on to show that the global position of the U. S. is unique because its dollar seigniorage has permitted it to defer depression and overcome limitations such as falling real wages - of course, at the expense of further aggravating its economy's internal contradictions. The central contradiction involved U. S. consumers' need to increase household debt in the face of stagnant wages and rising fixed living costs. A detailed analysis of U. S. household budgets has shown that the habit of spending beyond one's means is due more to stagnant wages, employment instability, and inadequate social support under neoliberalism, rather than to extravagance.
 
 Further, this chapter has shown that subprime loans were not made, in the main, to extremely low-income people; they were made primarily to people in the second-to-fourth income quintiles. So the subprime crisis cannot be viewed as a poverty issue specific to low-income people. Instead, it reveals the fragility of the basis of life of "ordinary Americans."
 
 ### **Notes**
 
-- 1 Source: U. S. Office of the Comptroller of the Currency, *Expanded Guidance for Subprime Lending Programs*, www.occ.gov/news-issuances/bulletins/2001/bulletin-2001–6a.pdf (accessed July 23, 2011).
-- 2 Egawa (2007), p. 9. See also You Watanabe and Yukiko Kinase, "Outlook for Subprime Mortgage Loan in the U. S.," *Economic Review*, Bank of Tokyo-Mitsubishi UFJ, No. 2007–13, October 3, 2007. Available only in Japanese.
+- 1 Source: U. S. Office of the Comptroller of the Currency, *Expanded Guidance for Subprime Lending Programs*, www.occ.gov/news-issuances/bulletins/2001/bulletin-2001-6a.pdf (accessed July 23, 2011).
+- 2 Egawa (2007), p. 9. See also You Watanabe and Yukiko Kinase, "Outlook for Subprime Mortgage Loan in the U. S.," *Economic Review*, Bank of Tokyo-Mitsubishi UFJ, No. 2007-13, October 3, 2007. Available only in Japanese.
 
 - 3 Schor (1998), p. 4.
-- 4 Schor (1998), pp. 12–13.
+- 4 Schor (1998), pp. 12-13.
 - 5 Schor (1998), p. 14.
-- 6 Warren and Warren Tyagi (2004), pp. 15–18.
-- 7 Warren and Warren Tyagi (2004), pp. 46–47.
-- 8 Gordon (1996), pp. 99–100.
+- 6 Warren and Warren Tyagi (2004), pp. 15-18.
+- 7 Warren and Warren Tyagi (2004), pp. 46-47.
+- 8 Gordon (1996), pp. 99-100.
 - 9 U. S. Census Bureau, Health Insurance Historical Tables, www.census.gov/hhes/ www/hlthins/data/historical/HIB\_tables.html (accessed September 23, 2011).
 - 10 Warren and Warren Tyagi (2004) p. 81.
 - 11 Himmelstein *et al*. (2009).
-- 12 Miyamoto describes the public housing system as the minimum necessary requirement for reproduction of the labor power, and this becomes socialized by the usage of the cooperative living style for urban laborers. The supply of such a public housing system is equivalent to the reproduction of labor power (Miyamoto, 1967, pp. 33–36).
-- 13 Ito (1990) p. 256. The reasons why I combined the "mutual aid organization" into "an official body" as its function is from a consideration of the root of the idea of "socialization of life." The meaning of "socialized life" comes from this definition based on Karl Marx, "Allgemeinen, Gemeinshaftlichen Bedingungen," *Grundrisse der Kritik der politischen Ökonomie*, (Rohentwurf) 1857–58, Dietz Verlag, Berlin, 1953, p. 432. Marx defined this is the general, communal conditions, not involved in Capital. The importance of Marx's point is that this general, communal condition is the universal condition which is necessary for every historical stage. So the function of "an official body" and "mutual aid organization" are the same in this meaning.
+- 12 Miyamoto describes the public housing system as the minimum necessary requirement for reproduction of the labor power, and this becomes socialized by the usage of the cooperative living style for urban laborers. The supply of such a public housing system is equivalent to the reproduction of labor power (Miyamoto, 1967, pp. 33-36).
+- 13 Ito (1990) p. 256. The reasons why I combined the "mutual aid organization" into "an official body" as its function is from a consideration of the root of the idea of "socialization of life." The meaning of "socialized life" comes from this definition based on Karl Marx, "Allgemeinen, Gemeinshaftlichen Bedingungen," *Grundrisse der Kritik der politischen Ökonomie*, (Rohentwurf) 1857-58, Dietz Verlag, Berlin, 1953, p. 432. Marx defined this is the general, communal conditions, not involved in Capital. The importance of Marx's point is that this general, communal condition is the universal condition which is necessary for every historical stage. So the function of "an official body" and "mutual aid organization" are the same in this meaning.
 - 14 "Rent" should be considered as the outcome of the stock of public housing. This is also an important factor for workers to reproduce their labor power.
-- 15 Yamada (1999), pp. 46–47.
+- 15 Yamada (1999), pp. 46-47.
 - 16 Turner (2008), p. 15.
 - 17 U. S. Department of Commerce, Bureau of Economic Analysis, Table 2.1, Personal Income and its Disposition, www.bea.gov/national/nipaweb/Table View.asp?Selected Ta ble=58&Freq=Qtr&First Year=2008&Last Year=2010 (accessed September 11, 2011).
-- 18 Federal Reserve Bank of Boston, "The 2008 Survey of Consumer Payment Choice," Public Policy Discussion Paper No. 09–10, January 2010, www.bos.frb.org/economic/ ppdp/2009/ppdp0910.htm (accessed December 12, 2010).
-- 19 Aneha (2008), pp. 113–115.
+- 18 Federal Reserve Bank of Boston, "The 2008 Survey of Consumer Payment Choice," Public Policy Discussion Paper No. 09-10, January 2010, www.bos.frb.org/economic/ ppdp/2009/ppdp0910.htm (accessed December 12, 2010).
+- 19 Aneha (2008), pp. 113-115.
 - 20 Greenspan and Kennedy (2007), p. 9 and p. 17, Table 2, "Sources and Uses of Equity Extracted from Homes."
 - 21 Ibid., p. 23.
-- 22 Yamada (1999), p. 142. Also see Yamada (2011), Chapters 1–3.
-- 23 Ibid., pp. 37–62.
+- 22 Yamada (1999), p. 142. Also see Yamada (2011), Chapters 1-3.
+- 23 Ibid., pp. 37-62.
 - 24 Aneha (1986).
 - 25 *Nikkei Newspaper*, April 28, 2008.
 
@@ -4775,49 +6430,49 @@ Further, this chapter has shown that subprime loans were not made, in the main, 
 
 Page numbers in *italics* denote tables, those in **bold** denote figures.
 
-adjustable rate mortgages (ARMs) 28, 32 advanced capitalist countries, diversity 182–4 Alternative Mortgage Transaction Parity Act (1982) 12 Amable, B. 184 American International Group (AIG) 104, 105, 256 American Recovery and Reinvestment Act (ARRA), 2009 105, 256 Aneha, Aki 8, 305–19 Arrighi, G. 65, 189 ASEAN (Association of Southeast Asian Nations) 143, 273, 275, 279 Asian currency crisis (1997) 15, 31, 98, 145, 258–9 asset-backed commercial paper (ABCP) 45 asset-backed securities (ABS) 13, 28, 76 asset market bubble 259, 260, 263 asset price inflation 300, 301
+adjustable rate mortgages (ARMs) 28, 32 advanced capitalist countries, diversity 182-4 Alternative Mortgage Transaction Parity Act (1982) 12 Amable, B. 184 American International Group (AIG) 104, 105, 256 American Recovery and Reinvestment Act (ARRA), 2009 105, 256 Aneha, Aki 8, 305-19 Arrighi, G. 65, 189 ASEAN (Association of Southeast Asian Nations) 143, 273, 275, 279 Asian currency crisis (1997) 15, 31, 98, 145, 258-9 asset-backed commercial paper (ABCP) 45 asset-backed securities (ABS) 13, 28, 76 asset market bubble 259, 260, 263 asset price inflation 300, 301
 
-bailout loans 28, 47, 256 Baily, M. N. 103 balanced globalization 267–8 balance-of-payments management 246 Bank Acts (1844–5), UK 98 Bank for International Settlements (BIS) 87, 89, 166 Banking Act (1844) 95 Banking Act (1935) 99 bank multipliers 218 banknotes (credit money) 210, 215, 216, 217 Bank of England 94–5 bankruptcy 164, 256, 269n1; *see also* Lehman Brothers, collapse (2008) banks: banking business regulations/ deregulations 98–9; central 48, 110;
+bailout loans 28, 47, 256 Baily, M. N. 103 balanced globalization 267-8 balance-of-payments management 246 Bank Acts (1844-5), UK 98 Bank for International Settlements (BIS) 87, 89, 166 Banking Act (1844) 95 Banking Act (1935) 99 bank multipliers 218 banknotes (credit money) 210, 215, 216, 217 Bank of England 94-5 bankruptcy 164, 256, 269n1; *see also* Lehman Brothers, collapse (2008) banks: banking business regulations/ deregulations 98-9; central 48, 110;
 
-commercial, transformation of 69–70; demand-deposit accounts *see* demanddeposit accounts; and financialization 57, 58; lending to low income sectors 12; relationship banking 215, 216; restructuring of 68; role *160–1*; securitization of banking assets 99–100; shadow banking system 255; *see also* Federal Reserve Bank Baran, P. A. 106n1, 113 base money 217, 220 basic income 24n15 Baumol, W. J. 130–1, 139 Bear Sterns investment bank 14, 28, 49n4, 269n1 Bernanke, Ben 87, 88, 166, 217, 218 Bernstein, E. 127 "big government" era 234, 236, 237, 248 Bilmes, Linda J. 50n11 Black, F. 159 Blackburn, R. 67 Borio, C. 261 Boyer, Robert 65, 151–73, 186, 187 Brenner, R. 16, 63, 66, 113, 123n6 Bretton Woods international monetary system 16, 97, 100, 142, 230, 245; Bretton Woods II system 259, 261, 264; and bureaucratic capitalism 135–6, 139, 140 BRIC countries 181, 188, 281, *282*, 284; emergence and limits 279–80 Bryan, D. 67 bubble economy 12, 17, 18, 19, 88; and price movement changes 111, 119, 121, 122; U. S.-centred global capitalism 47, 48; and widening economic income disparity in society 116–19
+commercial, transformation of 69-70; demand-deposit accounts *see* demanddeposit accounts; and financialization 57, 58; lending to low income sectors 12; relationship banking 215, 216; restructuring of 68; role *160-1*; securitization of banking assets 99-100; shadow banking system 255; *see also* Federal Reserve Bank Baran, P. A. 106n1, 113 base money 217, 220 basic income 24n15 Baumol, W. J. 130-1, 139 Bear Sterns investment bank 14, 28, 49n4, 269n1 Bernanke, Ben 87, 88, 166, 217, 218 Bernstein, E. 127 "big government" era 234, 236, 237, 248 Bilmes, Linda J. 50n11 Black, F. 159 Blackburn, R. 67 Borio, C. 261 Boyer, Robert 65, 151-73, 186, 187 Brenner, R. 16, 63, 66, 113, 123n6 Bretton Woods international monetary system 16, 97, 100, 142, 230, 245; Bretton Woods II system 259, 261, 264; and bureaucratic capitalism 135-6, 139, 140 BRIC countries 181, 188, 281, *282*, 284; emergence and limits 279-80 Bryan, D. 67 bubble economy 12, 17, 18, 19, 88; and price movement changes 111, 119, 121, 122; U. S.-centred global capitalism 47, 48; and widening economic income disparity in society 116-19
 
-bureaucratic capitalism 129, **147**; boom 137; Bretton Woods international monetary system 135–6, 139, 140; capital accumulation regime 134–6; cyclical crises and law of value in 127, 136–8; prosperity 136–7; recession 137; structural crisis in 128, 138–41 Busby, C. 24n14 Bush Administration 103, 197 business cycles: Marx on 15, 16, 24n8; Minsky's basic and super cycles 132–3; political business cycle model (Kalecki) 232–3, 237–43, **238**, **244**; structural crises, following 142–3; U. S., and global hegemony 7, 244–8; *see also* cyclical economic crises business failures 14 business process outsourcing/offshoring (BPO) 284 business restructuring 31 Callinicos, A. 63 *Can it happen again?* (Minsky) 158 *Capital* (Marx) 5, 15–16, 24n8, 64, 106; Volume 3 91, 92–6 capital accumulation 5; in age of bureaucratic capitalism 134–6; dynamic industry 134; and financialization 55–74; global, new nexus 26; government policy 134–5; industrial relations 135; international trade 136; monetary system 135–6; neo-liberal regime 141–5; profit-led 140; prosperity 136–7; structural crisis 128, 129; structuralist macroeconomics model 132; in U. S. economy 44; wage-led 137, 140 capitalism: basic logic of capital 41; British capitalist system 94–5, 128; bureaucratic *see* bureaucratic capitalism; capital, labor and markets, spatial relations 283–4; "casino" 44, 47, 78, 79, 80, 86, 210, 212; finance-led 65, 178–80; future of, and subprime loan crisis 145–9; historical dimension 47–9, 174, 189; Japanese, impact of subprime world crisis on 18–20; market 128, 129; mature 64; modern 31, 192, 193; money-manager 214; monopolistic *see* monopolistic capitalism; neoliberal 233–7; new empire circuit of capital flows 44, 45, 51, 51n19; whether new stage 284–5; periodizing 191, 192–5; pure theory 210; state monopoly 82–7; U. S.-centered global 26–54, *46*; as variable/various in time and space 174–5; *see also* Golden Age of Capitalism Case–Shiller index 255 "casino capitalism" 44, 47, 78, 79, 80, 86, 210, 212 chain-weighting 250n8 Chauvet, M. 250n1 Chesnais, F. 67 Chiang Mai Initiative 268 China 146, 197, 263, 267, 269n7, 293; industralization of in neoliberal accumulation regime 143–4; integration and structural shift, East Asia 272, 280; and U. S. 206–7 Chirinko, R. S. 300 circuit breakers 159 Citigroup 256 Civil Rights Act (1964) 49n5 Cold War 40, 136, 212, 213–14 collateralized bond obligations (CBOs) 37 collateralized debt obligations (CDOs) 13, 14, 28, 80, 200, 214, 314; and global financial crisis 29, 37, 49n4; global imbalances, political economy 255, 256 collateralized loan obligations (CLOs) 37 commodity-money 218 *Communist Manifesto, The* (Marx and Engels) 193 Community Reinvestment Act (CRA), 1977 12, 30, 32–3, 49n5 comparative approach, methodology 181–2 consumer credit 12, 308, 309; expansion 315 Consumer Expenditure Survey (2007) 313 coordinated market economies (CMEs) 182 corporate governance 179 Council of Economic Advisers 105 coupling/uncoupling 273 credit cards 315 credit crunch 29, 201 credit default derivatives (CDS) 45 credit default swaps (CDS) 29, 80, 200, 255 credit money 210, 215, 216, 217 credit policy, easy 34 credit-rating companies 214 credit scoring 11, 27 credit system: and prosperity process 15; role in causing economic crisis 92
+bureaucratic capitalism 129, **147**; boom 137; Bretton Woods international monetary system 135-6, 139, 140; capital accumulation regime 134-6; cyclical crises and law of value in 127, 136-8; prosperity 136-7; recession 137; structural crisis in 128, 138-41 Busby, C. 24n14 Bush Administration 103, 197 business cycles: Marx on 15, 16, 24n8; Minsky's basic and super cycles 132-3; political business cycle model (Kalecki) 232-3, 237-43, **238**, **244**; structural crises, following 142-3; U. S., and global hegemony 7, 244-8; *see also* cyclical economic crises business failures 14 business process outsourcing/offshoring (BPO) 284 business restructuring 31 Callinicos, A. 63 *Can it happen again?* (Minsky) 158 *Capital* (Marx) 5, 15-16, 24n8, 64, 106; Volume 3 91, 92-6 capital accumulation 5; in age of bureaucratic capitalism 134-6; dynamic industry 134; and financialization 55-74; global, new nexus 26; government policy 134-5; industrial relations 135; international trade 136; monetary system 135-6; neo-liberal regime 141-5; profit-led 140; prosperity 136-7; structural crisis 128, 129; structuralist macroeconomics model 132; in U. S. economy 44; wage-led 137, 140 capitalism: basic logic of capital 41; British capitalist system 94-5, 128; bureaucratic *see* bureaucratic capitalism; capital, labor and markets, spatial relations 283-4; "casino" 44, 47, 78, 79, 80, 86, 210, 212; finance-led 65, 178-80; future of, and subprime loan crisis 145-9; historical dimension 47-9, 174, 189; Japanese, impact of subprime world crisis on 18-20; market 128, 129; mature 64; modern 31, 192, 193; money-manager 214; monopolistic *see* monopolistic capitalism; neoliberal 233-7; new empire circuit of capital flows 44, 45, 51, 51n19; whether new stage 284-5; periodizing 191, 192-5; pure theory 210; state monopoly 82-7; U. S.-centered global 26-54, *46*; as variable/various in time and space 174-5; *see also* Golden Age of Capitalism Case-Shiller index 255 "casino capitalism" 44, 47, 78, 79, 80, 86, 210, 212 chain-weighting 250n8 Chauvet, M. 250n1 Chesnais, F. 67 Chiang Mai Initiative 268 China 146, 197, 263, 267, 269n7, 293; industralization of in neoliberal accumulation regime 143-4; integration and structural shift, East Asia 272, 280; and U. S. 206-7 Chirinko, R. S. 300 circuit breakers 159 Citigroup 256 Civil Rights Act (1964) 49n5 Cold War 40, 136, 212, 213-14 collateralized bond obligations (CBOs) 37 collateralized debt obligations (CDOs) 13, 14, 28, 80, 200, 214, 314; and global financial crisis 29, 37, 49n4; global imbalances, political economy 255, 256 collateralized loan obligations (CLOs) 37 commodity-money 218 *Communist Manifesto, The* (Marx and Engels) 193 Community Reinvestment Act (CRA), 1977 12, 30, 32-3, 49n5 comparative approach, methodology 181-2 consumer credit 12, 308, 309; expansion 315 Consumer Expenditure Survey (2007) 313 coordinated market economies (CMEs) 182 corporate governance 179 Council of Economic Advisers 105 coupling/uncoupling 273 credit cards 315 credit crunch 29, 201 credit default derivatives (CDS) 45 credit default swaps (CDS) 29, 80, 200, 255 credit money 210, 215, 216, 217 credit policy, easy 34 credit-rating companies 214 credit scoring 11, 27 credit system: and prosperity process 15; role in causing economic crisis 92
 
-Duménil, Gérard 6–7, 191–207 Dymski, G. A. 7, 229–53
+Duménil, Gérard 6-7, 191-207 Dymski, G. A. 7, 229-53
 
-credit tightening 15, 50n10, 137, 152, 246 *Crisis of Neo-liberalism, The* (Duménil and Lévy) 206 crony capitalism 13 Crotty, J. 64 Cumings, B. 244 currency system, international 119–21; *see also* gold standard cyclical economic crises 15–16, 128, 175; and law of value 127, 136–8; *see also* business cycles Darwin, C. 127 Debreu, Gérard 162 debt: inevitability of due to wage repression 308–9; "non-mortgage" 316 debt repayment problems 11, 14; of state 17 deflation 110, 111, 112, 217, 222, 233 de-industrialization process, Japan 300 demand-deposit accounts 215–16; held by commercial banks at central bank (DDB) 217, 218, 220, 221; held by national government at same bank (DDA) 217, 220, 221; held by public at a commercial bank (DDC) 217, 218, 220, 221 demand-led industrialization 146 Democratic Party (DP), Japan 17, 20 Depository Institution Deregulation and Monetary Control Act (1980) 99 depression 137–8 derivatives, dangers of 159–63, 167; mortgage derivative crisis 164–6 Despres, Emile 229, 245 developing regions, changes in growth mechanisms 281, *282*, 283 development theory 152 dialectic of capital 210 "dirty floating" 221 Disyatat, P. 261 diversity of advanced capitalist countries 182–4, 188 Dodd–Frank Wall Street Reform and Consumer Protection Act (2010) 184 dollar, currency privilege 316–17 domestic economic relations, and staggering productivity growth 139–40 "dot.com" companies 31, 50n9, 51n22, 88 double-dip recession 21, 257 Dow Jones Industrial Average 34 dynamic comparative advantage 6, 127, 130–1, 138, 139, 142 East Asia 7; and balanced globalization 267–8; economic development and regional integration 273–9, **276**, *278*; global imbalances, political economy 263–4; industralization of in neoliberal accumulation regime 143–4; integration and structural shift 272–87; *see also* Asian currency crisis (1997) economic crisis *see* global financial crisis *Economic Recessions that Hearken Back to the Great Depression* (Takumi) 208 economic slackening, and globalization 114–16 *Economist, The* 285 Emergency Economic Stabilization Act (2008) 47, 105 emergency measures 48 employment 7–8; female workers 296; human capital intensive sectors 302; informal 290; labor demand 293–5; labor supply 293, 295–7; life-time 297; local employment and trading systems (LETS) 216; "non-regular" 288, 291; "post-industrial" policies supporting 301–3; pressures on structure 293; status 290; structure 289–91, 293 employment, structure of; *see also* wage restraints Engels, Friedrich 193 Enron 163–4 Epstein, G. A. 39, 50n12 Epstein, J. 64 ethnic minorities 30 eurobonds 203 Europe, economy in 2001 201–3 European Central Bank 203 European Financial Stability Facility 48 European Union (EU) 273 Eurozone 48 exchange rates 97–8; fixed 100, 106, 110, 139, 230, 245, 250n4; floating 16, 110–11, 140; *see also* Bretton Woods international monetary system; gold standard expansionary policy 34 export-dependent growth strategy 263–4, 268 factory-operating ratio 112
+credit tightening 15, 50n10, 137, 152, 246 *Crisis of Neo-liberalism, The* (Duménil and Lévy) 206 crony capitalism 13 Crotty, J. 64 Cumings, B. 244 currency system, international 119-21; *see also* gold standard cyclical economic crises 15-16, 128, 175; and law of value 127, 136-8; *see also* business cycles Darwin, C. 127 Debreu, Gérard 162 debt: inevitability of due to wage repression 308-9; "non-mortgage" 316 debt repayment problems 11, 14; of state 17 deflation 110, 111, 112, 217, 222, 233 de-industrialization process, Japan 300 demand-deposit accounts 215-16; held by commercial banks at central bank (DDB) 217, 218, 220, 221; held by national government at same bank (DDA) 217, 220, 221; held by public at a commercial bank (DDC) 217, 218, 220, 221 demand-led industrialization 146 Democratic Party (DP), Japan 17, 20 Depository Institution Deregulation and Monetary Control Act (1980) 99 depression 137-8 derivatives, dangers of 159-63, 167; mortgage derivative crisis 164-6 Despres, Emile 229, 245 developing regions, changes in growth mechanisms 281, *282*, 283 development theory 152 dialectic of capital 210 "dirty floating" 221 Disyatat, P. 261 diversity of advanced capitalist countries 182-4, 188 Dodd-Frank Wall Street Reform and Consumer Protection Act (2010) 184 dollar, currency privilege 316-17 domestic economic relations, and staggering productivity growth 139-40 "dot.com" companies 31, 50n9, 51n22, 88 double-dip recession 21, 257 Dow Jones Industrial Average 34 dynamic comparative advantage 6, 127, 130-1, 138, 139, 142 East Asia 7; and balanced globalization 267-8; economic development and regional integration 273-9, **276**, *278*; global imbalances, political economy 263-4; industralization of in neoliberal accumulation regime 143-4; integration and structural shift 272-87; *see also* Asian currency crisis (1997) economic crisis *see* global financial crisis *Economic Recessions that Hearken Back to the Great Depression* (Takumi) 208 economic slackening, and globalization 114-16 *Economist, The* 285 Emergency Economic Stabilization Act (2008) 47, 105 emergency measures 48 employment 7-8; female workers 296; human capital intensive sectors 302; informal 290; labor demand 293-5; labor supply 293, 295-7; life-time 297; local employment and trading systems (LETS) 216; "non-regular" 288, 291; "post-industrial" policies supporting 301-3; pressures on structure 293; status 290; structure 289-91, 293 employment, structure of; *see also* wage restraints Engels, Friedrich 193 Enron 163-4 Epstein, G. A. 39, 50n12 Epstein, J. 64 ethnic minorities 30 eurobonds 203 Europe, economy in 2001 201-3 European Central Bank 203 European Financial Stability Facility 48 European Union (EU) 273 Eurozone 48 exchange rates 97-8; fixed 100, 106, 110, 139, 230, 245, 250n4; floating 16, 110-11, 140; *see also* Bretton Woods international monetary system; gold standard expansionary policy 34 export-dependent growth strategy 263-4, 268 factory-operating ratio 112
 
 Fair Isaac Co, credit scoring system 11,
 
 ## 27
 
-Fannie Mae (Federal National Mortgage Association) 35, 47, 49n5, 103, 104, 105 Federal Deposit Insurance Corporation Improvement Act (1991) 99 Federal Home Loan Banks 105 Federal Reserve 63, 103, 104, 105, 199, 202, 250n4 Federal Reserve Bank 99, 211, 233 Federal Reserve Board (FRB) 33, 34, 87, 88 fiat money 215, 216, 219, 221 fictitious capital 93; fraudulent formation 102–4 finance-led capitalism 65, 178–80 financial crisis *see* global financial crisis financial expansion, Marxist political economy 62–4 financial imbalance 89 financial innovations 151; outsourcing of risks to agents incapable of assuming them, preventing 166–70, **168**; private innovations and regulation 155–6; public control 166–70; as sources of growth or finance *154*, *169*; status and evolution 152; uncertain consequences 153–5 financial-instability model (Minsky) 2, 14–15, 16, 130, 211, 231–2; and global imbalances 247 financialization 4, 5, 7–8, 26, 37, 47, 50n12, 51n20, 195, 215, 288, 298; and banking sector 57, 58; causes 56; defined 55; development 38–40; financial expansion, Marxist political economy 62–4; of labor-power 12; post-Keynesian analysis 64–5; as systemic transformation 66–70; and workers 68–9 financialization, and crisis of 2007–9: aggregate investment as percentage of GDP **60**; background 56; household debt as percentage of GDP **61**; non-bank corporations, leverage 59; public debt as percentage of GDP **60**; radical approaches 62–6; roots of crisis 66–70; structural account of crisis 55–74; *see also* global financial crisis of 2008–2009 financial-market paralysis, 2001 34 financial rescue 104–5 financiers 5, 93–5 fiscal policies 16, 105, 112 Fisher, Irving 156 fixed exchange rates 100, 106, 110, 139,
+Fannie Mae (Federal National Mortgage Association) 35, 47, 49n5, 103, 104, 105 Federal Deposit Insurance Corporation Improvement Act (1991) 99 Federal Home Loan Banks 105 Federal Reserve 63, 103, 104, 105, 199, 202, 250n4 Federal Reserve Bank 99, 211, 233 Federal Reserve Board (FRB) 33, 34, 87, 88 fiat money 215, 216, 219, 221 fictitious capital 93; fraudulent formation 102-4 finance-led capitalism 65, 178-80 financial crisis *see* global financial crisis financial expansion, Marxist political economy 62-4 financial imbalance 89 financial innovations 151; outsourcing of risks to agents incapable of assuming them, preventing 166-70, **168**; private innovations and regulation 155-6; public control 166-70; as sources of growth or finance *154*, *169*; status and evolution 152; uncertain consequences 153-5 financial-instability model (Minsky) 2, 14-15, 16, 130, 211, 231-2; and global imbalances 247 financialization 4, 5, 7-8, 26, 37, 47, 50n12, 51n20, 195, 215, 288, 298; and banking sector 57, 58; causes 56; defined 55; development 38-40; financial expansion, Marxist political economy 62-4; of labor-power 12; post-Keynesian analysis 64-5; as systemic transformation 66-70; and workers 68-9 financialization, and crisis of 2007-9: aggregate investment as percentage of GDP **60**; background 56; household debt as percentage of GDP **61**; non-bank corporations, leverage 59; public debt as percentage of GDP **60**; radical approaches 62-6; roots of crisis 66-70; structural account of crisis 55-74; *see also* global financial crisis of 2008-2009 financial-market paralysis, 2001 34 financial rescue 104-5 financiers 5, 93-5 fiscal policies 16, 105, 112 Fisher, Irving 156 fixed exchange rates 100, 106, 110, 139,
 
 ## 230, 245, 250n4; *see also* Bretton
 
-Woods international monetary system; floating exchange rate systems floating exchange rate systems 16, 110–11, 140 Fordism 17, 19, 65, 133, 139, 153, 209, 210, 215; and 2008 crisis 177, 178, 180 foreclosures 12, 13, 28 Freddie Mac (Federal Home Loan Mortgage Corporation) 35, 47, 103, 104, 105 Freeman, R. 295 Free Trade Area for the Americas (FTAA) 197 French Régulation School 3, 17, 65 Friedman, Milton 85, 217, 218 Fukushima nuclear accident, Japan (2011) 5, 21, 22, 23, 24, 302 functional deterioration of financial markets 29
+Woods international monetary system; floating exchange rate systems floating exchange rate systems 16, 110-11, 140 Fordism 17, 19, 65, 133, 139, 153, 209, 210, 215; and 2008 crisis 177, 178, 180 foreclosures 12, 13, 28 Freddie Mac (Federal Home Loan Mortgage Corporation) 35, 47, 103, 104, 105 Freeman, R. 295 Free Trade Area for the Americas (FTAA) 197 French Régulation School 3, 17, 65 Friedman, Milton 85, 217, 218 Fukushima nuclear accident, Japan (2011) 5, 21, 22, 23, 24, 302 functional deterioration of financial markets 29
 
-G20 communiqué (2008) 47, 49n1 gambling (Marx) 93–4 Garn–St Germain Depositary Institutions Act (1982) 99 General Agreement on Tariffs and Trade (GATT) regime 40, 136, 138 General Motors 105 *General Theory of Employment, Interest and Money, The* (Keynes) 82, 83, 84, 85 Gindin, S. 67 Glass–Steagall Act 69, 77, 99, 255; Regulation-Q 214 global capitalism 40–1, **42** global city 31, 39, 41, **42**, 43, 44, 51n18 global financial crisis 75–90; in age of neo-liberalism 98–102; banking business regulations/deregulations 98–9; basic perspective 30–1; comparative approach, methodology 181–2; current crisis and historical dimension of contemporary capitalism 47–9; disappearance of financial crisis from capitalist world (post-World War II) 96–7; diversity of advanced capitalist countries 182–4, 188; domestic factors 98; and global imbalances 260–3; and gold standard 95–6, 108–9; international factors 100–2; in Keynesian regime 96–8; post-World War II adjustments 109–11; role of credit in causing 92; structure of as a world great depression 75–82; and subprime problem 27–9; and U. S.-centered global capitalism 44–5, *46*
+G20 communiqué (2008) 47, 49n1 gambling (Marx) 93-4 Garn-St Germain Depositary Institutions Act (1982) 99 General Agreement on Tariffs and Trade (GATT) regime 40, 136, 138 General Motors 105 *General Theory of Employment, Interest and Money, The* (Keynes) 82, 83, 84, 85 Gindin, S. 67 Glass-Steagall Act 69, 77, 99, 255; Regulation-Q 214 global capitalism 40-1, **42** global city 31, 39, 41, **42**, 43, 44, 51n18 global financial crisis 75-90; in age of neo-liberalism 98-102; banking business regulations/deregulations 98-9; basic perspective 30-1; comparative approach, methodology 181-2; current crisis and historical dimension of contemporary capitalism 47-9; disappearance of financial crisis from capitalist world (post-World War II) 96-7; diversity of advanced capitalist countries 182-4, 188; domestic factors 98; and global imbalances 260-3; and gold standard 95-6, 108-9; international factors 100-2; in Keynesian regime 96-8; post-World War II adjustments 109-11; role of credit in causing 92; structure of as a world great depression 75-82; and subprime problem 27-9; and U. S.-centered global capitalism 44-5, *46*
 
-global financial crisis of 2008–2009 5–6, 174–90; AIG, near collapse 104; bubble economy and income disparity 116–19; comparative approach, methodology 181–2; crisis following 255–7; economic growth models, comparative study *185*, 186; economic slowdown and fall in prices 112–16; fictitious capital 93, 102–4; financial rescue and fiscal stimulus 104–5; international currency system, role 119–21; Lehman Brothers, collapse 104; neo-liberalism, U. S. hegemony 198–201; observed problems 111; whether "one-in-acountry" crisis 174–5; structural crises, world history 175–80; subprime mortgage loans 102–4; typical country approach 181–2; *see also* financialization, and crisis of 2007–9; global financial crisis global imbalances 7, 230; asset market bubble 259, 260, 263; changes and prospects 265–7; development 257–60; and financial crises 257–64; and global financial crisis 260–3; global rebalancing, and future prospects 265–8; Kalecki political business cycle model 247–8; Minsky financial-instability model 247; political economy of 254–71; political economy of, in United States and East Asia 263–4; "supply push" theory 262 globalization 26, 39, 142, 195, 214, 254, 256, 309; balanced 267–8; and economic slackening 114–16 Glyn, A. 24n9 Golden Age of Capitalism 176, 177, 234, 243 Goldman Sachs 272 gold reserves 139 gold standard 97, 104, 110, 111, 140, 218, 220; and managed currency system **219**; and world economic crisis 95–6, 108–9 Gordon, David 308 Gordon, Robert 250–1n11 government bonds 59 government policy (welfare state) 134–5 government-sponsored enterprises (GSEs) 35, 49n5, 269n4; *see also* Fannie Mae (Federal National Mortgage Association); Freddie Mac (Federal Home Loan Mortgage Corporation) Gowan, P. 67 Gramm–Leach–Bliley Act (1999) 77, 99 Great Depression (1930s) 17, 86, 105, 133, 175, 211, 223; and global financial crisis 26, 29, 47; and neo-liberalism 193, 204 great moderation 237, 250n10 Great Transformation (inter-war) period 212 Greece, crisis in 48 Greenspan, Alan 14, 26, 33, 87, 108, 156–7, 158, 229, 316 growth and crisis: finance-led model 65, 178–80; world history 175–8 growth environment score (GES) 280, 286n6 Guitián, Manuel 250n9 Hagiwara, Shinjiro 5, 91–107 Harman, C. 63 hedge funds 28, 36, 37, 45, 76, 133, 163; and Bear Sterns investment bank 14, 49n4 hegemony, financial: finance at the helm 195–7; formation of worldwide hegemony 100–1; global, and U. S. business cycle 244–8; neo-liberalism 197–8; neomanagerialism 204–6; second 194, 195–8, 205; third 204–6; United States 100–1, 198–201, 230; worldwide 101 Heintz, James 7–8, 288–304 helicopter money 217, 218, 221 Hilferding, R. 67, 68, 77, 127 Hirakawa, Hitoshi 7, 272–87 Hirschman, Albert 272 home-equity loans 12, 32, 35, 316 home price indices **33** housing boom: and economic boom of 1990s 31; and expansion of housing finance 35–7; and fictitious capital 102; history of subprime crisis 11, 12–13; responses to collapse 33–5 housing bubble 30, 44, 57, 61, 80, 81, 86, 180, 308; bursting of 14, 26, 30–1, 35, 45, 87, 231, 314; post-housing bubble period 306 Huber, Joseph 224n9 Hu-Wen course, China 197 hybrid housing loans 12, 13 hyperinflation 111 idle money 12, 17, 210, 216, 217, 218, 223n2 Ikeda, Masao 51n19 imbalances, global *see* global imbalances IMF *see* International Monetary Fund (IMF) imperialism 4, 67, 68, 100, 127, 128–9, 208; Marxian political economy 128–9 industrial, technology and trade (ITT) policy 135 industrial relations 135 inflation 16, 110, 111, 112, 217; asset price 300, 301 Information Technology (IT) boom 11, 31–3, 39 Information Technology (IT) bubble, bursting of 30, 37, 50n11 Information Technology (IT) collapse (2001) 15; responses to 33–5 initial public offering (IPO) 31 innovations: collective rules, subject to 170; innovations theory and finance 168, *169*; *see also* financial innovations interest rates 99, 214, 234, 261; declining or low 27, 31, 34–5, 57, 64, 80, 105, 141–2, 164, 217, 255, 256, 260; liberalization 214; long-term 105, 199; over-the-counter transactions 195; rising or high 28, 30, 87, 88, 95, 108, 109, 141, 145, 213, 220, 246; short-term 155; stable 32; zero 48, 217, 256 intermediate theory, three new concepts (Marxist political economy): basic and super Minsky cycles 132–3; dynamic comparative advantage 6, 127, 130–1, 138, 139, 142; structural macroeconomics model of capital accumulation 132 International Classification of Status in Employment 289 International Clearing Union, Keynes' plans for 97, 135 International Labor Organization (ILO) 296, 303n3 International Monetary Fund (IMF) 40, 97–8, 111, 135, 136 international relations, and uneven development 138–9 international trade 136 "Internet convention" 153 investment movement, worldwide 114–16 investors, professional 101–2 Ireland, crisis in 48 irrational exuberance 156 IT *see* Information Technology (IT) Italy, crisis in 48 Ito, Setsu 311, 318n13 Itoh, Makoto 4–5, 11–25
+global financial crisis of 2008-2009 5-6, 174-90; AIG, near collapse 104; bubble economy and income disparity 116-19; comparative approach, methodology 181-2; crisis following 255-7; economic growth models, comparative study *185*, 186; economic slowdown and fall in prices 112-16; fictitious capital 93, 102-4; financial rescue and fiscal stimulus 104-5; international currency system, role 119-21; Lehman Brothers, collapse 104; neo-liberalism, U. S. hegemony 198-201; observed problems 111; whether "one-in-acountry" crisis 174-5; structural crises, world history 175-80; subprime mortgage loans 102-4; typical country approach 181-2; *see also* financialization, and crisis of 2007-9; global financial crisis global imbalances 7, 230; asset market bubble 259, 260, 263; changes and prospects 265-7; development 257-60; and financial crises 257-64; and global financial crisis 260-3; global rebalancing, and future prospects 265-8; Kalecki political business cycle model 247-8; Minsky financial-instability model 247; political economy of 254-71; political economy of, in United States and East Asia 263-4; "supply push" theory 262 globalization 26, 39, 142, 195, 214, 254, 256, 309; balanced 267-8; and economic slackening 114-16 Glyn, A. 24n9 Golden Age of Capitalism 176, 177, 234, 243 Goldman Sachs 272 gold reserves 139 gold standard 97, 104, 110, 111, 140, 218, 220; and managed currency system **219**; and world economic crisis 95-6, 108-9 Gordon, David 308 Gordon, Robert 250-1n11 government bonds 59 government policy (welfare state) 134-5 government-sponsored enterprises (GSEs) 35, 49n5, 269n4; *see also* Fannie Mae (Federal National Mortgage Association); Freddie Mac (Federal Home Loan Mortgage Corporation) Gowan, P. 67 Gramm-Leach-Bliley Act (1999) 77, 99 Great Depression (1930s) 17, 86, 105, 133, 175, 211, 223; and global financial crisis 26, 29, 47; and neo-liberalism 193, 204 great moderation 237, 250n10 Great Transformation (inter-war) period 212 Greece, crisis in 48 Greenspan, Alan 14, 26, 33, 87, 108, 156-7, 158, 229, 316 growth and crisis: finance-led model 65, 178-80; world history 175-8 growth environment score (GES) 280, 286n6 Guitián, Manuel 250n9 Hagiwara, Shinjiro 5, 91-107 Harman, C. 63 hedge funds 28, 36, 37, 45, 76, 133, 163; and Bear Sterns investment bank 14, 49n4 hegemony, financial: finance at the helm 195-7; formation of worldwide hegemony 100-1; global, and U. S. business cycle 244-8; neo-liberalism 197-8; neomanagerialism 204-6; second 194, 195-8, 205; third 204-6; United States 100-1, 198-201, 230; worldwide 101 Heintz, James 7-8, 288-304 helicopter money 217, 218, 221 Hilferding, R. 67, 68, 77, 127 Hirakawa, Hitoshi 7, 272-87 Hirschman, Albert 272 home-equity loans 12, 32, 35, 316 home price indices **33** housing boom: and economic boom of 1990s 31; and expansion of housing finance 35-7; and fictitious capital 102; history of subprime crisis 11, 12-13; responses to collapse 33-5 housing bubble 30, 44, 57, 61, 80, 81, 86, 180, 308; bursting of 14, 26, 30-1, 35, 45, 87, 231, 314; post-housing bubble period 306 Huber, Joseph 224n9 Hu-Wen course, China 197 hybrid housing loans 12, 13 hyperinflation 111 idle money 12, 17, 210, 216, 217, 218, 223n2 Ikeda, Masao 51n19 imbalances, global *see* global imbalances IMF *see* International Monetary Fund (IMF) imperialism 4, 67, 68, 100, 127, 128-9, 208; Marxian political economy 128-9 industrial, technology and trade (ITT) policy 135 industrial relations 135 inflation 16, 110, 111, 112, 217; asset price 300, 301 Information Technology (IT) boom 11, 31-3, 39 Information Technology (IT) bubble, bursting of 30, 37, 50n11 Information Technology (IT) collapse (2001) 15; responses to 33-5 initial public offering (IPO) 31 innovations: collective rules, subject to 170; innovations theory and finance 168, *169*; *see also* financial innovations interest rates 99, 214, 234, 261; declining or low 27, 31, 34-5, 57, 64, 80, 105, 141-2, 164, 217, 255, 256, 260; liberalization 214; long-term 105, 199; over-the-counter transactions 195; rising or high 28, 30, 87, 88, 95, 108, 109, 141, 145, 213, 220, 246; short-term 155; stable 32; zero 48, 217, 256 intermediate theory, three new concepts (Marxist political economy): basic and super Minsky cycles 132-3; dynamic comparative advantage 6, 127, 130-1, 138, 139, 142; structural macroeconomics model of capital accumulation 132 International Classification of Status in Employment 289 International Clearing Union, Keynes' plans for 97, 135 International Labor Organization (ILO) 296, 303n3 International Monetary Fund (IMF) 40, 97-8, 111, 135, 136 international relations, and uneven development 138-9 international trade 136 "Internet convention" 153 investment movement, worldwide 114-16 investors, professional 101-2 Ireland, crisis in 48 irrational exuberance 156 IT *see* Information Technology (IT) Italy, crisis in 48 Ito, Setsu 311, 318n13 Itoh, Makoto 4-5, 11-25
 
 Japan: bubble economy 12, 300; deflation 222; de-industrialization process 300;
 
-Democratic Party (DP) 17, 20; "dirty floating" of yen 221; economic recovery of 2002–7 19–20; economic recovery of 2010 20; Fukushima nuclear accident (2011) 5, 21, 22, 23, 24, 302; great earthquake/tsunami (2011) 5, 20–4, 302; impact of subprime world crisis on capitalism 18–20; inflation 217; national debt 48; stagnation of economy 222; Statistics Bureau 300, 303n1; versus United States *160–1* Japan Bank for International Cooperation (JBIC) 281, 283 Japanese Society of Political Economy (JSPE) 1, 3, 71n1, 229, 249, 250, 286n1 joint-stock system 92–3 Juglar cycles 175
+Democratic Party (DP) 17, 20; "dirty floating" of yen 221; economic recovery of 2002-7 19-20; economic recovery of 2010 20; Fukushima nuclear accident (2011) 5, 21, 22, 23, 24, 302; great earthquake/tsunami (2011) 5, 20-4, 302; impact of subprime world crisis on capitalism 18-20; inflation 217; national debt 48; stagnation of economy 222; Statistics Bureau 300, 303n1; versus United States *160-1* Japan Bank for International Cooperation (JBIC) 281, 283 Japanese Society of Political Economy (JSPE) 1, 3, 71n1, 229, 249, 250, 286n1 joint-stock system 92-3 Juglar cycles 175
 
-Kalecki, Michal 7, 137, 140, 229, 230; Minsky–Kalecki approach to neoliberalism crisis 229–53; political business cycle model 232–3, 237–43, **238**, **244**, 247–8
+Kalecki, Michal 7, 137, 140, 229, 230; Minsky-Kalecki approach to neoliberalism crisis 229-53; political business cycle model 232-3, 237-43, **238**, **244**, 247-8
 
-## Kawamura, Tetsuji 5, 26–54
+## Kawamura, Tetsuji 5, 26-54
 
 jumbo loans 32, 35
 
-Kennedy, James 316 Keynes, J. M. 96–8, 102, 133; *The General Theory of Employment, Interest and Money* 82, 83, 84, 85; International Clearing Union, plans for 97, 135 Keynesianism (managerial capitalism) 16,
+Kennedy, James 316 Keynes, J. M. 96-8, 102, 133; *The General Theory of Employment, Interest and Money* 82, 83, 84, 85; International Clearing Union, plans for 97, 135 Keynesianism (managerial capitalism) 16,
 
-40, 139; Keynesian coalition 100–1; Keynesian revolution 231; post-Keynesian analysis of financialization 64–5; role of financial crisis in Keynesian regime 96–8; subprime loan crisis and future of capitalism 145–6
+40, 139; Keynesian coalition 100-1; Keynesian revolution 231; post-Keynesian analysis of financialization 64-5; role of financial crisis in Keynesian regime 96-8; subprime loan crisis and future of capitalism 145-6
 
 Kindleberger, Charles 152, 229, 245 Kitchin cycles 175 Kondratieff, Nikolai 176 Kregel, Jan 224n7, 234 Krippner, G. 65 Krugman, P. 245
 
-labor demand 293–5 labor-power, financialization of 12 labor supply 293, 295–7 Lapavitsas, Costas 5, 24n1, 24n5, 55–74 Law, John 156 Lazonick, W. 65 lean production 31 Lee, Kang-Kook 7, 254–71 Lehman Brothers, collapse (2008) 14, 29, 91, 103, 104, 164, 166, 254, 288
+labor demand 293-5 labor-power, financialization of 12 labor supply 293, 295-7 Lapavitsas, Costas 5, 24n1, 24n5, 55-74 Law, John 156 Lazonick, W. 65 lean production 31 Lee, Kang-Kook 7, 254-71 Lehman Brothers, collapse (2008) 14, 29, 91, 103, 104, 164, 166, 254, 288
 
 Mc Kinnon, Ronald I. 246, 251n12 mergers and acquisitions (M&A) 214;
 
@@ -4825,47 +6480,47 @@ cross-border 40 Merrill Lynch 164, 256 Merton, R. 159
 
 migration, international 297 mimetic behavior 154, 159
 
-lender of last resort (LLR): Federal Reserve Bank as 211, 233, 250; international 245 Lenin, Vladimir 67, 68, 77, 122n3, 123n4, 127 leveraged buyouts (LBOs) 76, 77 Lévy, Dominique 6–7, 191–207 Liberal Democratic Party (LDP), Japan 20 liberalism 196 liberalization 14, 39, 100, 101, 294 liberal market economies (LMEs) 182 liquidity 155; liquidity crisis 26; liquidity preference 83 liquidity trap 133, 217 loan sharks 12 local employment and trading systems (LETS) 216 long boom of 1990s, characteristics 31–3 Long-Term Capital Management (LTCM), collapse (1998) 39, 159–63 long waves (Kondratieff) 176 Louvre Accord (1987) 120 low income borrowers, lending to 12, 32–3 "Lucas Paradox" 260 mainstream loans 30 Malthus, Thomas 272 managed currency system, postwar 7, 109, **219**, 222, 246 managerialism 197 managerial revolution 192 marginal efficiency of capital 83 market capitalism 128, 129 market expectations, implications of realizing value based on 316 market failures 48 Marshall Plan 136 Marx, Karl 3–4, 104, 115–16, 122n2, 130, 192, 193; on business cycles 15, 16, 24n8; *Capital* 5, 15–16, 24n8, 64, 91, 92–6, 106 Marxist political economy of financial expansion 55, 62–4, 129–30; intermediate theory, three new concepts 127, 130–3; international 128–30 Matsumoto, Akira 5–6, 108–24 mature capitalism 64 minimum-payment system 309 Ministry of Finance, U. S. 99 Minsky, Hyman 7, 209, 211, 214, 215, 224n6, 229, 230, 250n5, 301; *Can it happen again?* 158; financial-instability model 2, 14–15, 16, 130, 211, 231–2, 247; global imbalances and model 247; Minsky cycles, basic and super 132–3; Minsky–Kalecki approach to neoliberalism crisis 229–53 Missisippi Bubble 156 Mistral, J. 186–7 Miyamoto, Kenichi 311, 318n12 Mizuno, K. 113–14 modern capitalism 31, 192, 193 monetarism 85, 86, 137, 213; neoliberal monetary policy, consequences 87–9 monetary system 16, 135–6 money-capitalists (Marx) 94 money-manager capitalism 214 money market fund (MMF) markets 47 money supply 219 "monied" capitalists 64 monoline insurance firms 28 monopolies 63 monopolistic capitalism 117, 118, 209; economic stagnation in 113–14; state monopoly capitalism 82–7, 110 *Monthly Review* 62, 63 Moody's Investors Service 49n4 Moore, Michael 14 Morgenthau, Henry 98–9 mortgage-backed securities (MBS) 13, 14, 18, 100, 103, 200, 305 mortgage loans, subprime 102–4; *see also* home-equity loans multinational corporations 67 NASDAQ exchange 31; Composite Index 34, 35 National Intelligence Council 280 National Science Board, U. S. 279 Nazism 204 negative wealth effect 34, 50n11 neoclassical microeconomics 14, 15 neo-conservative counter-revolution 212 neoliberal capitalism 233–7; "big
+lender of last resort (LLR): Federal Reserve Bank as 211, 233, 250; international 245 Lenin, Vladimir 67, 68, 77, 122n3, 123n4, 127 leveraged buyouts (LBOs) 76, 77 Lévy, Dominique 6-7, 191-207 Liberal Democratic Party (LDP), Japan 20 liberalism 196 liberalization 14, 39, 100, 101, 294 liberal market economies (LMEs) 182 liquidity 155; liquidity crisis 26; liquidity preference 83 liquidity trap 133, 217 loan sharks 12 local employment and trading systems (LETS) 216 long boom of 1990s, characteristics 31-3 Long-Term Capital Management (LTCM), collapse (1998) 39, 159-63 long waves (Kondratieff) 176 Louvre Accord (1987) 120 low income borrowers, lending to 12, 32-3 "Lucas Paradox" 260 mainstream loans 30 Malthus, Thomas 272 managed currency system, postwar 7, 109, **219**, 222, 246 managerialism 197 managerial revolution 192 marginal efficiency of capital 83 market capitalism 128, 129 market expectations, implications of realizing value based on 316 market failures 48 Marshall Plan 136 Marx, Karl 3-4, 104, 115-16, 122n2, 130, 192, 193; on business cycles 15, 16, 24n8; *Capital* 5, 15-16, 24n8, 64, 91, 92-6, 106 Marxist political economy of financial expansion 55, 62-4, 129-30; intermediate theory, three new concepts 127, 130-3; international 128-30 Matsumoto, Akira 5-6, 108-24 mature capitalism 64 minimum-payment system 309 Ministry of Finance, U. S. 99 Minsky, Hyman 7, 209, 211, 214, 215, 224n6, 229, 230, 250n5, 301; *Can it happen again?* 158; financial-instability model 2, 14-15, 16, 130, 211, 231-2, 247; global imbalances and model 247; Minsky cycles, basic and super 132-3; Minsky-Kalecki approach to neoliberalism crisis 229-53 Missisippi Bubble 156 Mistral, J. 186-7 Miyamoto, Kenichi 311, 318n12 Mizuno, K. 113-14 modern capitalism 31, 192, 193 monetarism 85, 86, 137, 213; neoliberal monetary policy, consequences 87-9 monetary system 16, 135-6 money-capitalists (Marx) 94 money-manager capitalism 214 money market fund (MMF) markets 47 money supply 219 "monied" capitalists 64 monoline insurance firms 28 monopolies 63 monopolistic capitalism 117, 118, 209; economic stagnation in 113-14; state monopoly capitalism 82-7, 110 *Monthly Review* 62, 63 Moody's Investors Service 49n4 Moore, Michael 14 Morgenthau, Henry 98-9 mortgage-backed securities (MBS) 13, 14, 18, 100, 103, 200, 305 mortgage loans, subprime 102-4; *see also* home-equity loans multinational corporations 67 NASDAQ exchange 31; Composite Index 34, 35 National Intelligence Council 280 National Science Board, U. S. 279 Nazism 204 negative wealth effect 34, 50n11 neoclassical microeconomics 14, 15 neo-conservative counter-revolution 212 neoliberal capitalism 233-7; "big
 
-> government" era 234, 236, 237, 248; "small government" era 233–4 neo-liberalism 6–7, 189, 191; capital accumulation regime 141–5; crisis of 198–203; financial crises, frequency of 98–102; of Friedman 85; globalization of Japanese capitalism 19; hegemony, financial 197–8; increases in social, fixed expense under 309–14; labor demand 293, 294; Minsky–Kalecki approach to crisis of 229–53; neoliberal capitalism 233–7; neo-liberal monetary policy, consequences 87–9 neomanagerialism 204–6 New Deal-era 39, 49n5, 99, 189, 204 New Economy 31, 32, 244, 247; boom *see* Information Technology (IT) boom; collapse *see* Information Technology (IT) collapse (2001) new empire circuit of capital flows 44, 45, 51, 51n19 newly industrializing economies (NIEs) 273, 275, 277, *282*, 283 New York Stock Exchange (NYSE) 34, 35; indices 195, **196** Next Eleven (N-11) 280 Niwa, Haruki 224n17 Nixon, Richard 100 North American Free Trade Agreement (NAFTA) 273, 279 nuclear power generators, Japan 21 Nurkse, Ragnar 272 Obama, Barack 20, 105, 184, 267 Okun, A. 236 "old economy" 31, 45 oligopolilistic firms 138 Ono, Y. 293 open market operations 220 Organization for Economic Co-operation and Development (OECD) 279 Orhangazi, O. 64 originate-to-distribute/originate-to-hold systems 13 O'Sullivan, M. 65 Ôuchi, Tsutomu 208 over-accumulation 15, 63, 66, 157 overconsumption: background 308–14; and myth of waste 306–8 overproduction 110; consumer credit, expansion 315; dollar, currency privilege 316–17; home-equity loans 12, 316; and household expenditures in U. S. 8, 314–15; joint-stock system and speculation 92–3; market expectations, implications of realizing value based on 316; and subprime crisis 314–17 over-the-counter (OTCs) transactions 50n13, 195 Panitch, L. 67 parasitical rentiers 67 pawnshops 12 Pax Americana, postwar 31, 38, 40, 44, 47, 51n19 Peel, Sir Robert 98 perpetual bonds 221, 224n14 personal consumption expenditure (PCE) 316 petro-dollars 214 Pirenne, H. 189 Plaza Agreement (1985) 120, 245, 246, 299 Polanyi, K. 189 political business cycle model (Kalecki) 232–3; and global imbalances 247–8; shifts in 237–43, **238**, **244** "Political Economy of Full Employment, The" (Kalecki) 232 Pollin, R. 64, 233–4 Ponzi finance 14, 133, 142 population bonus 272 portfolio management 158 Portugal, crisis in 48 potentially bigger market economies (PoBMEs) 273, 280, 281, 283, 284, 285, 286n1 Potter, S. 250n1 poverty, vicious cycle of 272 predatory lending 28, 30, 49n3 preliminary crisis episodes 204 present value reversal 133 price adjustment mechanism 15 price movement changes 108–24; economic slowdown and fall in prices 112–16; economic stagnation in monopolistic capitalism 113–14 prime housing loans 11 printing of money 217, 222 private-sector lenders 36 process process innovation 31 production modes, distinction between 192 profitability crises 193 profit rates 16, 24n9, 63, 115 public control: financial innovations 166–70; return of 156–7 purchasing power parity (PPP) 279 quantitative easing (QE) 217 Rafferty, M. 67 Reagan Administration/Reaganomics 5, 39, 40, 246 real accumulation 67 recession 136, 137; double-dip 21, 257
+> government" era 234, 236, 237, 248; "small government" era 233-4 neo-liberalism 6-7, 189, 191; capital accumulation regime 141-5; crisis of 198-203; financial crises, frequency of 98-102; of Friedman 85; globalization of Japanese capitalism 19; hegemony, financial 197-8; increases in social, fixed expense under 309-14; labor demand 293, 294; Minsky-Kalecki approach to crisis of 229-53; neoliberal capitalism 233-7; neo-liberal monetary policy, consequences 87-9 neomanagerialism 204-6 New Deal-era 39, 49n5, 99, 189, 204 New Economy 31, 32, 244, 247; boom *see* Information Technology (IT) boom; collapse *see* Information Technology (IT) collapse (2001) new empire circuit of capital flows 44, 45, 51, 51n19 newly industrializing economies (NIEs) 273, 275, 277, *282*, 283 New York Stock Exchange (NYSE) 34, 35; indices 195, **196** Next Eleven (N-11) 280 Niwa, Haruki 224n17 Nixon, Richard 100 North American Free Trade Agreement (NAFTA) 273, 279 nuclear power generators, Japan 21 Nurkse, Ragnar 272 Obama, Barack 20, 105, 184, 267 Okun, A. 236 "old economy" 31, 45 oligopolilistic firms 138 Ono, Y. 293 open market operations 220 Organization for Economic Co-operation and Development (OECD) 279 Orhangazi, O. 64 originate-to-distribute/originate-to-hold systems 13 O'Sullivan, M. 65 Ôuchi, Tsutomu 208 over-accumulation 15, 63, 66, 157 overconsumption: background 308-14; and myth of waste 306-8 overproduction 110; consumer credit, expansion 315; dollar, currency privilege 316-17; home-equity loans 12, 316; and household expenditures in U. S. 8, 314-15; joint-stock system and speculation 92-3; market expectations, implications of realizing value based on 316; and subprime crisis 314-17 over-the-counter (OTCs) transactions 50n13, 195 Panitch, L. 67 parasitical rentiers 67 pawnshops 12 Pax Americana, postwar 31, 38, 40, 44, 47, 51n19 Peel, Sir Robert 98 perpetual bonds 221, 224n14 personal consumption expenditure (PCE) 316 petro-dollars 214 Pirenne, H. 189 Plaza Agreement (1985) 120, 245, 246, 299 Polanyi, K. 189 political business cycle model (Kalecki) 232-3; and global imbalances 247-8; shifts in 237-43, **238**, **244** "Political Economy of Full Employment, The" (Kalecki) 232 Pollin, R. 64, 233-4 Ponzi finance 14, 133, 142 population bonus 272 portfolio management 158 Portugal, crisis in 48 potentially bigger market economies (PoBMEs) 273, 280, 281, 283, 284, 285, 286n1 Potter, S. 250n1 poverty, vicious cycle of 272 predatory lending 28, 30, 49n3 preliminary crisis episodes 204 present value reversal 133 price adjustment mechanism 15 price movement changes 108-24; economic slowdown and fall in prices 112-16; economic stagnation in monopolistic capitalism 113-14 prime housing loans 11 printing of money 217, 222 private-sector lenders 36 process process innovation 31 production modes, distinction between 192 profitability crises 193 profit rates 16, 24n9, 63, 115 public control: financial innovations 166-70; return of 156-7 purchasing power parity (PPP) 279 quantitative easing (QE) 217 Rafferty, M. 67 Reagan Administration/Reaganomics 5, 39, 40, 246 real accumulation 67 recession 136, 137; double-dip 21, 257
 
-refinancing loans 32 Régulation School *see* French Régulation School *régulation theory* 6, 151, 176, 178, 179; *see also* French Régulation School Reich 41 relationship banking 215, 216 rentier concept 64, 223n2 repayment difficulties 11, 14 residential mortgage-backed securities (RMBS) 28, 49n4; ratings 37 return on equity (RoE) 59 risk coverage 159 risks: and financing 154–5; preventing outsourcing to agents incapable of assuming them 166–7, **168** *Road to Serfdom* (von Hayek) 196 Robertson, James 224n9 Rowthorn, Bob 24n14, 147 Russian rouble crisis (1998) 98 safe harbor role, United States 230–1 Salant, Walter 229 Sarbanes-Oxley Act 163, **164** Sassen, S. 41 Saving and Loan Associations (S&Ls), U. S. 13 saving rate, U. S. 13 savings and loan (S&L) crisis (1980s) 32 Say's law 130 Schaller, H. 300 Scholes, M. 159 Schor, Juliet 306–8 Schulman, David 239 Schumpeter, Joseph 152, 153 securitization 26, 29, 35, 166, 214; in age of neo-liberalism 99–100; and financialization 57, 61; mechanism 32, 35, 36, 37, 39, 45, 47, 51n21; tranches of securitized assets 37 Sekine, Thomas 7, 208–25 self-organization 163 service sector 302 shadow banking system 255 Silicon Valley 43, 45 "small government" era 233–4 social class 192, 193, 307, 308 socialization of information 154 social orders 193–5; forthcoming 204; new 203–7 Soviet regime 153 Spain, crisis in 48 special investment vehicles (SIVs) 255 special purpose vehicles (SPVs) 13 specie money 218 speculation/speculative trading 15, 16, 92–3; behaviour of speculators 101–2 stage theory 127, 129 Stagflation Crisis (1970s) 176, 212 stagnation 16, 112; in monopolistic capitalism 113–14 Standard and Poor's 49n4 state debt 17, 22 state-monopolistic economic policies 82–7, 110 state monopoly capitalism, future direction 82–7 statistical techniques 159 sticky money/wages 139, 140 Stiglitz, Joseph E. 50n11 Stock, James H. 250n10 Stockhammer, E. 64 stock-jobbers 5, 93–5 stock market crash, October 1987 158–9, *160* stockpiling 15, 16 stock shares 207n7 structural change 138–40, 144–5, 188; Kaldorian and non-Kaldorian 291–2, 298 structural crises 175, 193; in bureaucratic capitalism 138–41; business cycles following 142–3; capital accumulation 128, 129; concept of structural crisis 175; great earthquake/tsunami (2011), Japan 5, 20–4, 302; growth and crisis 175–80; staggering productivity growth and disorganizing influence on domestic economic relations 139–40; uneven development and disorganizing influence on international relations 138–9; world history 175–80 structuralist macroeconomics model of capital accumulation 132 structured investment vehicles (SIVs) 36–7, 45 *A Study of State-Monopoly Capitalism, A* (Ô*uchi) 208* subprime borrowers: criteria for 305–6; identity of 305 subprime collapse 26, 151–73; derivatives, dangers of 159–63; financial innovations *see* financial innovations; LTCM, collapse 39, 159–63; public control, return of 156–7; resilient financial systems, steps toward 171–2; stock market crash, October 1987 158–9, *160* subprime loan crisis 27–31, 104; and future of capitalism 145–9; historical character 11–17; Japanese capitalism, impact on 18–20; and "ordinary Americans" 317; and overproduction 314–17; in perspective 157–66; structural impact 17; subprime mortgage loans 102–4; subprime problem and global financial crisis 27–9; as "tsunami" 14 subprime loans: defined 27; expansion in 1990s 27–8; size 11–12 Sullivan, D. 293
+refinancing loans 32 Régulation School *see* French Régulation School *régulation theory* 6, 151, 176, 178, 179; *see also* French Régulation School Reich 41 relationship banking 215, 216 rentier concept 64, 223n2 repayment difficulties 11, 14 residential mortgage-backed securities (RMBS) 28, 49n4; ratings 37 return on equity (RoE) 59 risk coverage 159 risks: and financing 154-5; preventing outsourcing to agents incapable of assuming them 166-7, **168** *Road to Serfdom* (von Hayek) 196 Robertson, James 224n9 Rowthorn, Bob 24n14, 147 Russian rouble crisis (1998) 98 safe harbor role, United States 230-1 Salant, Walter 229 Sarbanes-Oxley Act 163, **164** Sassen, S. 41 Saving and Loan Associations (S&Ls), U. S. 13 saving rate, U. S. 13 savings and loan (S&L) crisis (1980s) 32 Say's law 130 Schaller, H. 300 Scholes, M. 159 Schor, Juliet 306-8 Schulman, David 239 Schumpeter, Joseph 152, 153 securitization 26, 29, 35, 166, 214; in age of neo-liberalism 99-100; and financialization 57, 61; mechanism 32, 35, 36, 37, 39, 45, 47, 51n21; tranches of securitized assets 37 Sekine, Thomas 7, 208-25 self-organization 163 service sector 302 shadow banking system 255 Silicon Valley 43, 45 "small government" era 233-4 social class 192, 193, 307, 308 socialization of information 154 social orders 193-5; forthcoming 204; new 203-7 Soviet regime 153 Spain, crisis in 48 special investment vehicles (SIVs) 255 special purpose vehicles (SPVs) 13 specie money 218 speculation/speculative trading 15, 16, 92-3; behaviour of speculators 101-2 stage theory 127, 129 Stagflation Crisis (1970s) 176, 212 stagnation 16, 112; in monopolistic capitalism 113-14 Standard and Poor's 49n4 state debt 17, 22 state-monopolistic economic policies 82-7, 110 state monopoly capitalism, future direction 82-7 statistical techniques 159 sticky money/wages 139, 140 Stiglitz, Joseph E. 50n11 Stock, James H. 250n10 Stockhammer, E. 64 stock-jobbers 5, 93-5 stock market crash, October 1987 158-9, *160* stockpiling 15, 16 stock shares 207n7 structural change 138-40, 144-5, 188; Kaldorian and non-Kaldorian 291-2, 298 structural crises 175, 193; in bureaucratic capitalism 138-41; business cycles following 142-3; capital accumulation 128, 129; concept of structural crisis 175; great earthquake/tsunami (2011), Japan 5, 20-4, 302; growth and crisis 175-80; staggering productivity growth and disorganizing influence on domestic economic relations 139-40; uneven development and disorganizing influence on international relations 138-9; world history 175-80 structuralist macroeconomics model of capital accumulation 132 structured investment vehicles (SIVs) 36-7, 45 *A Study of State-Monopoly Capitalism, A* (Ô*uchi) 208* subprime borrowers: criteria for 305-6; identity of 305 subprime collapse 26, 151-73; derivatives, dangers of 159-63; financial innovations *see* financial innovations; LTCM, collapse 39, 159-63; public control, return of 156-7; resilient financial systems, steps toward 171-2; stock market crash, October 1987 158-9, *160* subprime loan crisis 27-31, 104; and future of capitalism 145-9; historical character 11-17; Japanese capitalism, impact on 18-20; and "ordinary Americans" 317; and overproduction 314-17; in perspective 157-66; structural impact 17; subprime mortgage loans 102-4; subprime problem and global financial crisis 27-9; as "tsunami" 14 subprime loans: defined 27; expansion in 1990s 27-8; size 11-12 Sullivan, D. 293
 
-Takumi, Mitsuhiko 208, 209 Tatebe, Masayoshi 5, 75–90 teaser interest rates 12, 13 *Théorie de la valeur* (Debreu) 162 tightening of credit 15, 50n10, 137, 152, 246 Toyko Electric Power Company 21 Toyota 19
+Takumi, Mitsuhiko 208, 209 Tatebe, Masayoshi 5, 75-90 teaser interest rates 12, 13 *Théorie de la valeur* (Debreu) 162 tightening of credit 15, 50n10, 137, 152, 246 Toyko Electric Power Company 21 Toyota 19
 
 ## Troubled Asset Relief Program (TARP)
 
-surplus capital and funds 5, 75–6 Sweezy, P. 68, 106n1, 113, 118
+surplus capital and funds 5, 75-6 Sweezy, P. 68, 106n1, 113, 118
 
 105 *Types of Economic Policies under Capitalism, The* (Uno) 208
 
-UK Centre on Socio-Cultural Change 66 uncertainty 153–5 unemployment, involuntary 82–3 United Nations Conference on Trade and Development (UNCTAD) 277 United Nations Human Development Report 310
+UK Centre on Socio-Cultural Change 66 uncertainty 153-5 unemployment, involuntary 82-3 United Nations Conference on Trade and Development (UNCTAD) 277 United Nations Human Development Report 310
 
-United States (U. S.): business cycle, and global hegemony 7, 244–8; and China 206–7; collapse of stock market (2002) 98; dollar, currency privilege 316–17; economic recovery and growth, post-2002 11; economy in 2001 201–3; global capitalism *see* U. S.-centered global capitalism; global imbalances, political economy 263–4; hegemony 100–1, 198–201, 230; household expenditures in 8, 314–15; versus Japan *160–1*; loans, writedowns *46*; macroeconomy 199; prime/subprime loan division 11; safe harbor role 230–1; saving rate 13; size of subprime loans 11–12
+United States (U. S.): business cycle, and global hegemony 7, 244-8; and China 206-7; collapse of stock market (2002) 98; dollar, currency privilege 316-17; economic recovery and growth, post-2002 11; economy in 2001 201-3; global capitalism *see* U. S.-centered global capitalism; global imbalances, political economy 263-4; hegemony 100-1, 198-201, 230; household expenditures in 8, 314-15; versus Japan *160-1*; loans, writedowns *46*; macroeconomy 199; prime/subprime loan division 11; safe harbor role 230-1; saving rate 13; size of subprime loans 11-12
 
 ## Uno, Kozo 3, 6, 7, 24n8, 127, 208, 210, 217, 218
 
-U. S.-centered global capitalism: dynamism 41–4; global city 31, 39, 41, **42**, 43, 44, 51n18; and global financial crisis 44–5, *46*; growth nexus **42**, 47; instability 26–54; securitization mechanism 26, 32, 35, 36, 37, 39, 45, 47, 51n21; Southern California, IT-based region 43–4
+U. S.-centered global capitalism: dynamism 41-4; global city 31, 39, 41, **42**, 43, 44, 51n18; and global financial crisis 44-5, *46*; growth nexus **42**, 47; instability 26-54; securitization mechanism 26, 32, 35, 36, 37, 39, 45, 47, 51n21; Southern California, IT-based region 43-4
 
-value: concept 92; implications of realizing based on market expectations 316; law of 127, 138; market value 93 value added per unit of labor (VAL) 130, 131, 139 varieties of capitalism (VOC) 182, 183–4 Veblen, T. B. 127 venture capital investment **32** Volcker, Paul 122n1, 229, 245, 246
+value: concept 92; implications of realizing based on market expectations 316; law of 127, 138; market value 93 value added per unit of labor (VAL) 130, 131, 139 varieties of capitalism (VOC) 182, 183-4 Veblen, T. B. 127 venture capital investment **32** Volcker, Paul 122n1, 229, 245, 246
 
 ## von Hayek, F. A. 196
 
-Wade, R. 67 wage-led accumulation 137, 140 wage repression, inevitability of debt due to 308–9
+Wade, R. 67 wage-led accumulation 137, 140 wage repression, inevitability of debt due to 308-9
 
-wage restraints 114–16 Warren, Elizabeth 307–8, 310 Watson, Mark W. 250n10 welfare state 134–5 *White Paper on the Economy and Public Finance* (Japan Cabinet Office, 2008) 18, 21
+wage restraints 114-16 Warren, Elizabeth 307-8, 310 Watson, Mark W. 250n10 welfare state 134-5 *White Paper on the Economy and Public Finance* (Japan Cabinet Office, 2008) 18, 21
 
 *White Paper on the International Economy* (Japanese Ministry of Economy, Trade and Industry, 2005) 114, 277, 279
 
 ## World Bank 136
 
-world economy, spatial dynamics 184, *185*, 186–8
+world economy, spatial dynamics 184, *185*, 186-8
 
 ## World Trade Organization (WTO) 205, 277
 
 ## writedowns, U. S. loans *46*
 
-Yamada, Toshio 6, 174–90 Yokokawa, Nobuharu 6, 127–50
+Yamada, Toshio 6, 174-90 Yokokawa, Nobuharu 6, 127-50
 
 zero interest rate (zirp) 48, 217, 256
 

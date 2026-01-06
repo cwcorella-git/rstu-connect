@@ -1,3 +1,8 @@
+---
+title: "**Toward the Creative Nothing**"
+category: "anti-war-peace"
+---
+
 # **Toward the Creative Nothing**
 
 ## Renzo Novatore

@@ -1,3 +1,8 @@
+---
+title: "## **DC IWW Resolution on Standing Rock**"
+category: "environmental-justice"
+---
+
 ## **DC IWW Resolution on Standing Rock**
 
 ## **Date:** Tue, 11/22/2016 - 17:13

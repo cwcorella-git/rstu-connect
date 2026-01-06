@@ -1,3 +1,8 @@
+---
+title: "COATES"
+category: "contemporary-analysis"
+---
+
 # COATES
 
 ## BETWEEN for THE WORLD ANDME
@@ -474,7 +479,7 @@ Perhaps that is why, when you discovered that the killer of Mike Brown would go 
 
 Michael Brown did not die as so many of his defenders supposed. And still the questions behind the questions are never asked. Should assaulting an officer of the state be a capital offense, rendered without trial, with the officer as judge and executioner? Is that what we wish civilization to be? And all the time the Dreamers are pillaging Ferguson for municipal governance. And they are torturing Muslims, and their drones are bombing wedding parties (by accident!), and the Dreamers are quoting Martin Luther King and exulting nonviolence for the weak and the biggest guns for the strong. Each time a police officer engages us, death, injury, maiming is possible. It is not enough to say that this is true of anyone or more true of criminals. The moment the officers began their pursuit of Prince Jones, his life was in danger. The Dreamers accept this as the cost of doing business, accept our bodies as currency, because it is their tradition. As slaves we were this country's first windfall, the down payment on its freedom. After the ruin and liberation of the Civil War came Redemption for the unrepentant South and Reunion, and our bodies became this country's second mortgage. In the New Deal we were their guestroom, their finished basement. And today, with a sprawling prison system, which has turned the warehousing of black bodies into a jobs program for Dreamers and a lucrative investment for Dreamers; today, when 8 percent of the world's prisoners are black men, our bodies have refinanced the Dream of being white. Black life is cheap, but in America black bodies are a natural resource of incomparable value.
 
-<sup>\\*</sup> Thavolia Glymph, *Out of the House of Bondage*.
+\\* Thavolia Glymph, *Out of the House of Bondage*.
 
 # III.
 

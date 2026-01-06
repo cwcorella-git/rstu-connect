@@ -1,3 +1,8 @@
+---
+title: "## **Counterinsurgency: dousing the flames of Minneapolis**"
+category: "contemporary-analysis"
+---
+
 ## **Counterinsurgency: dousing the flames of Minneapolis**
 
 ## **Date:** Unknown

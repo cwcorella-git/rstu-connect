@@ -1,3 +1,8 @@
+---
+title: "## **Who Wins From "Climate Apartheid"?: African Climate Justice Narratives About the Paris COP21**"
+category: "environmental-justice"
+---
+
 ## **Who Wins From "Climate Apartheid"?: African Climate Justice Narratives About the Paris COP21**
 
 ## **Date:** Tue, 02/23/2016 - 18:36
@@ -138,4 +143,5 @@ Evidently, nothing useful to solve this crisis will come from world elites. The 
 | Behind the climate negotiating text for COP21 |
 | ," Bangkok, Focus on the Global South, 12 March. |
 | Disclaimer: |
-| The views expressed here are not the official position of the IWW (or even the IWW's EUC)<br>and do not necessarily represent the views of anyone but the author's. |
+| The views expressed here are not the official position of the IWW (or even the IWW's EUC)
+and do not necessarily represent the views of anyone but the author's. |

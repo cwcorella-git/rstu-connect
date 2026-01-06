@@ -1,28 +1,8 @@
 ---
-title: Caring too much. That’s the curse of the working classes
-author: David Graeber
-date: 26<sup>th</sup> March 2014
-language: en
-source_url: >-
-  Retrieved on 3<sup>rd</sup> September 2020 from
-  https://www.theguardian.com/commentisfree/2014/mar/26/caring-curse-working-class-austerity-solidarity-scourge
-notes: >-
-  See also: David Graeber Institute [[https://davidgraeber.institute/]] &
-  [[https://davidgraeber.org/]]
-topics:
-  - working class
-  - solidarity
-  - community
-  - austerity
-  - work
-original_format: muse
-converted_date: '2025-11-08T11:25:03.072482'
-tags:
-  - Working Class
-  - Solidarity
-  - Community
-  - Austerity
-  - Work
+title: "Caring too much. That’s the curse of the working classes"
+author: "David Graeber"
+date: "26<sup>th</sup> March 2014"
+category: "contemporary-analysis"
 ---
 
 “What I can’t understand is, why aren’t people rioting in the streets?” I hear this, now and then, from people of wealthy and powerful backgrounds. There is a kind of incredulity. “After all,” the subtext seems to read, “we scream bloody murder when anyone so much as threatens our tax shelters; if someone were to go after my access to food or shelter, I’d sure as hell be burning banks and storming parliament. What’s wrong with these people?”

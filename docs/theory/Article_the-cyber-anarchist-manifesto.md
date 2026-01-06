@@ -1,13 +1,8 @@
 ---
-title: The Cyber Anarchist Manifesto
-date: 2025
-author: Timothy C. May
-tags:
-  - organizing
-  - unions
-  - rent
-  - labor
-  - anarchism
+title: "The Cyber Anarchist Manifesto"
+author: "Timothy C. May"
+date: "2025"
+category: "theory"
 ---
 
 # The Cyber Anarchist Manifesto
@@ -143,6 +138,6 @@ The Cyber-Anarchist Manifesto https://theanarchistlibrary.org/library/anarchist-
 ## Together, we will be unstoppable.
 
 3 of 4 10/4/25, 12:05 PM The Cyber-Anarchist Manifesto https://theanarchistlibrary.org/library/anarchist-federat...
-            Retrieved on December 20, 2024 from <af2c.org/manifesto.html>
+            Retrieved on December 20, 2024 from 
             AF2C expects this text will be expanded on in the future.
 4 of 4 10/4/25, 12:05 PM

@@ -1,3 +1,8 @@
+---
+title: "**Chrysippus**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Chrysippus)
 
 # **Chrysippus**
@@ -12,11 +17,16 @@
 
 Roman copy of a Hellenistic bust of Chrysippus [\(British Museum\)](https://en.wikipedia.org/wiki/British_Museum)
 
-| Born | c.<br>279 BC<br>Soli, Cilicia |
+| Born | c.
+279 BC
+Soli, Cilicia |
 |------|------------------------------------------|
-| Died | c.<br>206 BC (aged 73)<br>Athens, Greece |
+| Died | c.
+206 BC (aged 73)
+Athens, Greece |
 
-| Cause<br>of death | Death from laughter (uncertain) | | | |
+| Cause
+of death | Death from laughter (uncertain) | | | |
 |-----------------------|------------------------------------------|--|--|--|
 | Philosophical work | | | | |
 | Era | Hellenistic philosophy | | | |
@@ -64,7 +74,9 @@ Chrysippus defined a proposition as "that which is capable of being denied or af
 | and | it is day and it is light | | | |
 | either or | either it is day or it is night | | | |
 | because | because it is day, it is light | | | |
-| more/less likely<br>than | more likely it is day than it is<br>night | | | |
+| more/less likely
+than | more likely it is day than it is
+night | | | |
 
 Thus several types of molecular propositions, familiar to modern logic, were listed by Chrysippus, including the [conjunction,](https://en.wikipedia.org/wiki/Logical_conjunction) the [disjunction,](https://en.wikipedia.org/wiki/Logical_disjunction) and the [conditional,](https://en.wikipedia.org/wiki/Material_conditional) [\[35\]](#page-24-9) and Chrysippus studied their criteria of [truth](https://en.wikipedia.org/wiki/Logical_truth) closely[.\[35\]](#page-24-9)
 
@@ -80,13 +92,35 @@ Chrysippus developed a syllogistic or system of deduction in which he made use o
 
 | Name[g] | Description | Example |
 |---------------|-------------------------------------------|-----------------------------------------------------------------------------|
-| Modus ponens | If A, then B. A.<br>Therefore, B. | If it is day, it is light. It<br>is day. Therefore, it is<br>light. |
-| Modus tollens | If A, then B. Not B.<br>Therefore, not A. | If it is day, it is light. It<br>is not light. Therefore,<br>it is not day. |
+| Modus ponens | If A, then B. A.
+Therefore, B. | If it is day, it is light. It
+is day. Therefore, it is
+light. |
+| Modus tollens | If A, then B. Not B.
+Therefore, not A. | If it is day, it is light. It
+is not light. Therefore,
+it is not day. |
 
-| Modus<br>ponendo<br>tollens | i | Not both A and B.<br>A. Therefore, not<br>B. | It is not both day and<br>night. It is day.<br>Therefore, it is not<br>night. |
+| Modus
+ponendo
+tollens | i | Not both A and B.
+A. Therefore, not
+B. | It is not both day and
+night. It is day.
+Therefore, it is not
+night. |
 |-----------------------------|----|----------------------------------------------|-------------------------------------------------------------------------------|
-| | ii | Either A or B. A.<br>Therefore, not B. | It is either day or<br>night. It is day.<br>Therefore, it is not<br>night. |
-| Modus<br>tollendo<br>ponens | | Either A or B. Not<br>A. Therefore, B. | It is either day or<br>night. It is not day.<br>Therefore, it is night. |
+| | ii | Either A or B. A.
+Therefore, not B. | It is either day or
+night. It is day.
+Therefore, it is not
+night. |
+| Modus
+tollendo
+ponens | | Either A or B. Not
+A. Therefore, B. | It is either day or
+night. It is not day.
+Therefore, it is night. |
 
 Of the four inference rules (themata, θέματα)[,\[46\]](#page-25-2) only two survived. One, the so-called first thema, was a rule of antilogism. The other, the third thema, was a cut rule by which chain syllogisms could be reduced to simple syllogisms.[\[47\]](#page-25-3)[\[48\]](#page-25-4) The purpose of Stoic syllogistic was not merely to create a formal system. It was also understood as the study of the operations of reason, the divine reason ([logos](https://en.wikipedia.org/wiki/Logos)) which governs the [universe,](https://en.wikipedia.org/wiki/Universe) of which human beings are a part[.\[49\]](#page-25-5) The goal was to find valid rules of inference and forms of proof to help people find their way in life[.\[30\]](#page-24-4)
 

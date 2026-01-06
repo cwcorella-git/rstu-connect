@@ -1,3 +1,8 @@
+---
+title: "**Frown**"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 # **Frown**
@@ -40,11 +45,14 @@ It is a long-held belief that it takes more muscles to frown than it does to smi
 |--------------------------------------|-----------------------------------------|
 | Platysma (2 muscles) | Zygomaticus major (2 muscles) |
 | Orbicularis oculi (2 muscles) | Orbicularis oculi (2 muscles) |
-| Corrugator supercilii (2<br>muscles) | Levator labii superioris (2<br>muscles) |
+| Corrugator supercilii (2
+muscles) | Levator labii superioris (2
+muscles) |
 | Procerus (1 muscle) | Levator anguli oris (2 muscles) |
 | Orbicularis oris (1 muscle) | Risorius (2 muscles) |
 | Mentalis (1 muscle) | Zygomaticus minor (2 muscles) |
-| Depressor anguli oris (2<br>muscles) | |
+| Depressor anguli oris (2
+muscles) | |
 | 11 muscles total | 12 muscles total |
 
 ## ![](_page_2_Picture_2.jpeg)

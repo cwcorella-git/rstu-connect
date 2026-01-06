@@ -1,3 +1,8 @@
+---
+title: "The Moral Basis of Vegetarianism"
+category: "contemporary-analysis"
+---
+
 # The Moral Basis of Vegetarianism
 
 ## Written by : M. K. Gandhi
@@ -212,7 +217,7 @@ Then, I think the restriction to five articles of food has helped me morally and
 
 ## *Harijan, 20-2-1919*
 
-*<sup>\*</sup>During his student days in England Gandhiji had become a member of this society and had been elected subsequently as its Secretary. Dr. Oldfield was president, In 1931, when Gandhiji was in England for the Round Table Conference on India, he was invited to address the society.*
+*\*During his student days in England Gandhiji had become a member of this society and had been elected subsequently as its Secretary. Dr. Oldfield was president, In 1931, when Gandhiji was in England for the Round Table Conference on India, he was invited to address the society.*
 
 #### **07. OUR DAILY DIET**
 

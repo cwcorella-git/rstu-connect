@@ -1,3 +1,8 @@
+---
+title: "## [pcwrede.com](https://pcwrede.com/pcw-wp/description-in-general/)"
+category: "contemporary-analysis"
+---
+
 ## [pcwrede.com](https://pcwrede.com/pcw-wp/description-in-general/)
 
 ## **Description in General – Patricia C. Wrede**

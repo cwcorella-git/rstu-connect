@@ -1,3 +1,8 @@
+---
+title: "## **Lisbon on strike: November 14th in Portugal**"
+category: "contemporary-analysis"
+---
+
 ## **Lisbon on strike: November 14th in Portugal**
 
 ## **Date:** Unknown

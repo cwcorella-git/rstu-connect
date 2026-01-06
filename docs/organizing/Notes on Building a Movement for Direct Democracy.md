@@ -1,3 +1,8 @@
+---
+title: "James Herod"
+category: "organizing"
+---
+
 # James Herod
 
 # Notes on Building a Movement for Direct Democracy

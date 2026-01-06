@@ -1,3 +1,8 @@
+---
+title: "DATA GRAB"
+category: "theory"
+---
+
 # DATA GRAB
 
 ## ![](_page_0_Picture_1.jpeg)
@@ -511,7 +516,7 @@ For all of these reasons, it is important that, as Catherine D'Ignazio and Laure
 
 Race, as has recently become very clear, is also a crucial factor in determining who benets, and who doesn't, from data colonialism. There are many examples of how people of colour (or POC) undergo algorithmic discrimination in everything from insurance rates to targeted advertising to court sentencing to police surveillance, and more. Some eects are more indirect. For instance, a recent Pro Publica report uncovered an algorithm helping landlords in the US set the highest possible rents on tenants, exacerbating the current housing crisis in a way that is likely to impact tenants dierently depending on their race.30
 
-Consider another algorithm used widely by US hospitals and insurance companies to determine the level of healthcare that patients were assigned. In a 2019 study published in the journal Science, <sup>31</sup> researchers found that the algorithm, used to manage the care of over 200 million people, exhibited a racial bias. Apparently, when considering patients with similar ailments, the algorithm more frequently referred white patients than Black patients for additional healthcare. In short, Black people had to be sicker to receive the same healthcare than their white counterparts.
+Consider another algorithm used widely by US hospitals and insurance companies to determine the level of healthcare that patients were assigned. In a 2019 study published in the journal Science, 31 researchers found that the algorithm, used to manage the care of over 200 million people, exhibited a racial bias. Apparently, when considering patients with similar ailments, the algorithm more frequently referred white patients than Black patients for additional healthcare. In short, Black people had to be sicker to receive the same healthcare than their white counterparts.
 
 How could this happen? The algorithm assigned a risk score to a patient based on the amount of money the insurance company spent on them, and then recommended additional care based on that risk score. But because of the powerful background of institutional racism and Black people's resulting distrust towards the healthcare system, they consume less health resources than white people, which meant that simply relying on such data guaranteed them a lower risk score even when they were, in act, more sick than their white counterparts. The result was lower recommendations to Black people or additional care.
 
@@ -607,7 +612,7 @@ NOW IN HIS forties, Michael had promised himself and his family to lose some wei
 
 He soon found himself checking the device every few minutes to measure his exercise activities, sleeping habits, caloric burn rate, blood pressure, and more. He would get a bit annoyed when the device admonished him for not meeting his daily activity quotas. Work quotas, exercise quotas, quotas all the time! Although maybe that was a good thing, he thought. Helps keep me on track.
 
-But Michael also started noticing some weird things. Why did he start seeing online ads for the healthy smoothie place he passed during his walks? Also, his employer announced a new initiative at work to combat stress, which data had shown was on the rise at his particular office branch. What data? Were they using data from the fitness monitors?<sup>1</sup> Another time, after a night of heavy drinking (which he regretted), he noticed the device showed he had been burning a lot o calories. 'Oh yeah,' said his co-worker Fred, 'I noticed it does that, probably because drinking elevates your heart rate. So, it probably knows when you've had one too many.' That's a bit creepy, thought Michael. He also read in one o his Facebook groups that the particular tness monitor he was using was 'racist', meaning that the device (which uses a green light to measure blood fow) was not able to generate accurate readings in users who have dark skin, a design faw that the company had not shown much interest in addressing.
+But Michael also started noticing some weird things. Why did he start seeing online ads for the healthy smoothie place he passed during his walks? Also, his employer announced a new initiative at work to combat stress, which data had shown was on the rise at his particular office branch. What data? Were they using data from the fitness monitors?1 Another time, after a night of heavy drinking (which he regretted), he noticed the device showed he had been burning a lot o calories. 'Oh yeah,' said his co-worker Fred, 'I noticed it does that, probably because drinking elevates your heart rate. So, it probably knows when you've had one too many.' That's a bit creepy, thought Michael. He also read in one o his Facebook groups that the particular tness monitor he was using was 'racist', meaning that the device (which uses a green light to measure blood fow) was not able to generate accurate readings in users who have dark skin, a design faw that the company had not shown much interest in addressing.
 
 But that wasn't the hal o it. Somewhere in the terms o use, which he hadn't really read, Michael had given permission or all o his health data – in act all o his 'health-related' data – to be shared. This meant that, potentially, data collected by the tracker that had nothing to do with Michael's health (such as his location or activities) could be shared not only with his employer, but with marketing rms, the authorities, or even stolen by hackers.2
 
@@ -740,13 +745,13 @@ Every data territory, as part o its role o maximising data extraction, draws us 
 
 The rst eature o data relations, considered rom a social perspective, is asymmetry. Colonial relations historically were always asymmetrical: when colonial territories were acquired, the result was not ree-fowing trade between colonisers and colonised, but oneway extraction o gold, silver, sugar, tea, and so on. When today you join a digital platorm, the fow o data is equally asymmetrical: while the platorm can see everything you do, you the user can see very little o what the platorm does. Indeed, your data is analysed endlessly to 'personalise' your relationship to the platorm. Perhaps you don't care about this, because that's exactly what you want (you do want Tik Tok videos that are what someone like you would want to see). But considered as a power relation, this is undeniably asymmetrical. It has taken years o social protest and legal battles to learn even a little about what platorms like Facebook and Instagram themselves do behind the scenes. Without brave whistle-blowers like Instagram data engineer Frances Haugen and Facebook data scientist Sophie Zhang, we would know even less.
 
-In eect, data territories operate through a orm o asymmetrical surveillance power. Such power seems less strange when we remember how such relations were a eature o colonial social lie rom common public spaces to slave plantations. Colonies were rarely democracies, and colonial powers ceded subjects only enough power to maintain legitimacy or their resource extraction.<sup>5</sup>
+In eect, data territories operate through a orm o asymmetrical surveillance power. Such power seems less strange when we remember how such relations were a eature o colonial social lie rom common public spaces to slave plantations. Colonies were rarely democracies, and colonial powers ceded subjects only enough power to maintain legitimacy or their resource extraction.5
 
 Data relations are not only asymmetrical; they involve (and this is their second colonial eature) new orms o power and control. Historical colonialism also extended the range o techniques whereby some humans control others: skin branding, the ngerprint and the security pass were all related to processes o colonial government. But because data – unlike land, minerals and crops – is itsel a orm o inormation, data colonies have some special possibilities.
 
 Take Google once again. As Shoshana Zubo (author o The Age of Surveillance Capitalism) explained, the vast amounts o data Google amassed by tracking how we search enabled it to predict what users will do next with considerable accuracy. Such predictions have value to other businesses who also want to know what we will do next (such as advertisers). Money can be made rom this, or example, by selling advertising based on the assumed value o those predictions. But the absolute control o a platorm territory allows its designers to go even urther and, as Varian noted, experiment on us.
 
-What might this mean in practice? Well, platorm owners can nudge people in a certain direction and test out i they indeed ollow a particular path; i not, then nudge them dierently and track the new outcome, until you gure out the most eective nudging methods or a certain category o users. Multiply this millions o times across a platorm and you get what legal scholar Karen Yeung called the 'hypernudge': a space o such pervasive infuence that it becomes hard to know whether our actions there are ree at all anymore.<sup>6</sup>
+What might this mean in practice? Well, platorm owners can nudge people in a certain direction and test out i they indeed ollow a particular path; i not, then nudge them dierently and track the new outcome, until you gure out the most eective nudging methods or a certain category o users. Multiply this millions o times across a platorm and you get what legal scholar Karen Yeung called the 'hypernudge': a space o such pervasive infuence that it becomes hard to know whether our actions there are ree at all anymore.6
 
 Far rom slowing down, this process is accelerating. Tik Tok would never put it this way, but the skill o its algorithm is to convince us that what it selects or us to view is exactly what we would
 
@@ -838,7 +843,7 @@ Although these developments have still much urther to go, we can already see the
 
 Some o the largest players in Educational Technology (Ed Tech) are amiliar names. Google Apps or Education are relied upon in many classrooms around the world, while Microsot is also a huge player. Pearson, the world's leading education provider (who ormed a major partnership with IBM in 2016), has a vision o a 'digital ocean', a boundless space where educational data is continuously generated rom the Ed Tech-enabled classroom, just as social data is continuously generated rom people's use o social media plat orms.57 The global Ed Tech market was valued at over US \$250 billion in 2021, with predictions it will at least double by 2027.58
 
-A core part o that value is data, data that can work well with the new large-scale AI services. As Pearson chie executive Andy Bird put it when asked i ChatGPT was a threat to its business, 'we are the owners o some very pure, rich data sets: when you start to input them into generative AI models, you get better outputs.' <sup>59</sup> Far
+A core part o that value is data, data that can work well with the new large-scale AI services. As Pearson chie executive Andy Bird put it when asked i ChatGPT was a threat to its business, 'we are the owners o some very pure, rich data sets: when you start to input them into generative AI models, you get better outputs.' 59 Far
 
 #### DATA TERRITORIES
 
@@ -890,9 +895,9 @@ The controversy over individual genetic data is just one small part o the landsc
 
 But everything depends on how health data is gathered, stored and put to use – and by whom. Given that health data is individually sensitive, ew would disagree with the principle o protecting its anonymity, outside times when it is being directly used to treat a patient. But, as in many other areas, experts worry that health data can be de-anonymised when it is combined with other data sources, and that's beore we even consider whether the personal devices that gather this data are secure against hacking.79
 
-There is also the question o the 'what'. Not only does the worry about anonymity intensiy when we move rom health data to the much larger and completely unregulated area o healthrelated data, but it is hard to know what health-related data is. Probably anything a commercial actor fnds relevant to someone's health. But relevant or what purposes? An insurer providing a health policy would certainly like to know what we eat, how much we exercise and what we drink. Perhaps data relating to our mental health too, and any conditions that might aect it (marital unhappiness, or example), since mental health issues generally end up aecting physical health in the long run. And visions o 'precision medicine' encompass even individual genetic data.<sup>0</sup> That really is a lot o data! According to one estimate, the health Internet o Things market will be worth at least US \$300 billion by 2025.<sup>1</sup>
+There is also the question o the 'what'. Not only does the worry about anonymity intensiy when we move rom health data to the much larger and completely unregulated area o healthrelated data, but it is hard to know what health-related data is. Probably anything a commercial actor fnds relevant to someone's health. But relevant or what purposes? An insurer providing a health policy would certainly like to know what we eat, how much we exercise and what we drink. Perhaps data relating to our mental health too, and any conditions that might aect it (marital unhappiness, or example), since mental health issues generally end up aecting physical health in the long run. And visions o 'precision medicine' encompass even individual genetic data.0 That really is a lot o data! According to one estimate, the health Internet o Things market will be worth at least US \$300 billion by 2025.1
 
-In the past decade, a huge industry has emerged to exploit both our health-related and health data, with only the second being legally regulated. Countless app developers and device suppliers are competing to extract health-related data via our smart devices (Fitbit and Apple Watch being the best-known examples). This expansion is not limited to the Global North; India is now the world's biggest market or smart watches.<sup>2</sup> Big Tech companies are moving into the health sector, and capitalising on their Big Data, AI and cloud-computing resources: Amazon Health, Google Health, Microsot Cloud or Healthcare. Amazon's proposed purchase o US primary care provider One Medical or US \$3.7 billion positions it well as a potentially powerul player in the 'value-based care' market. This market rewards companies or patients' wellness, not just treatments delivered. But how will that be measured except by continuous data extraction?
+In the past decade, a huge industry has emerged to exploit both our health-related and health data, with only the second being legally regulated. Countless app developers and device suppliers are competing to extract health-related data via our smart devices (Fitbit and Apple Watch being the best-known examples). This expansion is not limited to the Global North; India is now the world's biggest market or smart watches.2 Big Tech companies are moving into the health sector, and capitalising on their Big Data, AI and cloud-computing resources: Amazon Health, Google Health, Microsot Cloud or Healthcare. Amazon's proposed purchase o US primary care provider One Medical or US \$3.7 billion positions it well as a potentially powerul player in the 'value-based care' market. This market rewards companies or patients' wellness, not just treatments delivered. But how will that be measured except by continuous data extraction?
 
 A corporate move in November 2019 brought these two dierent worlds together and attracted a lot o attention: Google's purchase o Fitbit or US \$2.1 billion. Why so much money? The assumption in the fnancial and tech press was that it was based on the value to Google o Fitbit's data and, even more important, Fitbit's potential as an expanding portal or health-data collection. As the Wall Street Journal reported, 'Fitbit . . . cuts out the middleman': a doctor or hospital are no longer needed or data to be contributed directly via Fitbit to a health-data corporation. When reporting the buyout, the newspaper could not resist a colonial metaphor: 'health services remain an open rontier.'3
 
@@ -1084,7 +1089,7 @@ When it comes to the kind o inormation-sharing that an economy demands, it is ha
 
 When a bakery receives a bread delivery, or a petrol station replenishes its uel, someone always posts in the group. They even tell us when there is heightened police presence in certain areas. Security patrols sometimes pick up people or no reason and extort or detain them.
 
-A similar situation plays out or businesses trying to cope with an inadequate inrastructure to market their services. In Egypt, Malik argues, Facebook may be the only place to start a small business and test demand, <sup>12</sup> although it's important to note that in some parts o the Global South local networks are emerging that provide an inormation inrastructure or business without relying on Global North platorms like Facebook, or example India's Open Network or Digital Commerce.13
+A similar situation plays out or businesses trying to cope with an inadequate inrastructure to market their services. In Egypt, Malik argues, Facebook may be the only place to start a small business and test demand, 12 although it's important to note that in some parts o the Global South local networks are emerging that provide an inormation inrastructure or business without relying on Global North platorms like Facebook, or example India's Open Network or Digital Commerce.13
 
 Is the strongest argument or Facebook's convenience that it supplies basic inormation inrastructure to countries already broken by the legacy o colonialism? I so, then thinking about Big Tech within a longer-term historical perspective requires us to think more about for whom exactly is the continuing social and economic inequality associated with Western platorm power convenient? Maybe the interests o Facebook, a Big Tech business based in the Global North, are trumping the long-term interests o those societies' citizens. Within a colonial perspective, it is hardly new or colonisers to seek to govern through building convenient inrastructures.
 
@@ -1104,11 +1109,11 @@ Mark Zuckerberg, for instance, in February 2017, responded to worries that Faceb
 
 History is the story of how we've learned to come together in ever greater numbers – from tribes to cities to nations. At each step, we built social infrastructure like communities, media and governments to empower us to achieve things we couldn't on our own.
 
-Today, we are close to taking our next step. Our greatest opportunities are now global . . . Progress now requires humanity coming together not just as cities or nations, but also as a global community . . . Facebook stands for bringing us closer together and building a global community . . . In times like these the most important thing we at Facebook can do is develop the social inrastructure to give people the power to build a global community that works or all o us.<sup>4</sup>
+Today, we are close to taking our next step. Our greatest opportunities are now global . . . Progress now requires humanity coming together not just as cities or nations, but also as a global community . . . Facebook stands for bringing us closer together and building a global community . . . In times like these the most important thing we at Facebook can do is develop the social inrastructure to give people the power to build a global community that works or all o us.4
 
 Two things are astonishing here.
 
-First, the claim that a global community can be saely created through a platorm with the exploitative business model o Meta. The hollowness o this claim was exposed a ew years ater Zuckerberg's statement by Frances Haugen, ormerly o Instagram, in her testimony to the US Congress and European parliaments which revealed that Instagram had known rom its own research the dangers its site posed, or example, or young women.<sup>5</sup> Haugen later commented: 'I did what I thought was necessary to save the lives o people, especially in the global south, who I think are being endangered by Facebook's pursuit o prots over people'.<sup>6</sup> Adam Mosseri, Instagram's head, at the height o the scandal responded: 'We know that more people die than would otherwise because o car accidents, but, by and large, cars create way more value in the world than they destroy. I think media is similar'.<sup>7</sup> As i Meta had no responsibility or its specifc business model and its efects.
+First, the claim that a global community can be saely created through a platorm with the exploitative business model o Meta. The hollowness o this claim was exposed a ew years ater Zuckerberg's statement by Frances Haugen, ormerly o Instagram, in her testimony to the US Congress and European parliaments which revealed that Instagram had known rom its own research the dangers its site posed, or example, or young women.5 Haugen later commented: 'I did what I thought was necessary to save the lives o people, especially in the global south, who I think are being endangered by Facebook's pursuit o prots over people'.6 Adam Mosseri, Instagram's head, at the height o the scandal responded: 'We know that more people die than would otherwise because o car accidents, but, by and large, cars create way more value in the world than they destroy. I think media is similar'.7 As i Meta had no responsibility or its specifc business model and its efects.
 
 In any case, why believe that a global platorm or humanity is even possible or desirable? But or Zuckerberg, it is impossible to think otherwise, because o his belie in the narrative o connection, a narrative over which Meta must remain in control.
 
@@ -1148,7 +1153,7 @@ Here, Siebel is expressing the general sense among Big Tech leaders that the Int
 
 As the Internet o Things (IoT) expands in coming years, the next iteration o the network will connect tens o billions o devices, digitally binding every aspect o day-to-day lie, rom heart monitors and rerigerators to trac lights and agricultural methane emissions.24
 
-This is a vision not o reedom so much as order, which is exactly how China's policy or the internet tends to characterise it. Indeed, China has been prioritising the Internet o Things or nearly a decade. Haier, a Chinese company, bought the US domestic appliance giant General Electric back in 2016 or US \$6 billion, and China's latest fve-year plan or 'National Inormatisation' contains many reerences to building a 'sensory inrastructure' or the IoT, both in China and in other countries where China has inuence. <sup>25</sup>
+This is a vision not o reedom so much as order, which is exactly how China's policy or the internet tends to characterise it. Indeed, China has been prioritising the Internet o Things or nearly a decade. Haier, a Chinese company, bought the US domestic appliance giant General Electric back in 2016 or US \$6 billion, and China's latest fve-year plan or 'National Inormatisation' contains many reerences to building a 'sensory inrastructure' or the IoT, both in China and in other countries where China has inuence. 25
 
 It remains to be seen how ar such visions can be implemented, but according to this narrative, there is no option but or the whole world to become a data colony.26
 
@@ -1206,7 +1211,7 @@ Which brings us to algorithms and the last important civilising narrative we'll 
 
 We have all been exposed to the idea that Articial Intelligence is, supposedly, a great thing or humanity. Narratives about AI and machines that can think like humans have been around in science ction and other orms o storytelling or a long time. We are waiting – in hope or in ear – or the day when we can really talk to a machine like we talk to another human being, or the day when we can rely on a sel-taught robot to perorm unimaginably complex tasks awlessly and efciently, liberating us rom the drudgery o work and rom the ollies o our own biases and limitations.
 
-What we have today with Articial Intelligence is oten not very intelligent at all: it is what AI expert Meredith Broussard calls 'arti cial unintelligence'. <sup>49</sup> First, there is the problem o training data: the repetitive calculations on which AI depends only work because it has been exposed to thousands i not millions o examples rom which it can 'learn'. AI programs need to cut their teeth, as it were, on preselected datasets. But those datasets necessarily have limitations: they only include things that have been previously counted. Whatever is counted necessarily reects the orces that shape what there is in the world, orces like privilege and inequality (which is why AI is oten ound to replicate the biases that are already ound in the world).
+What we have today with Articial Intelligence is oten not very intelligent at all: it is what AI expert Meredith Broussard calls 'arti cial unintelligence'. 49 First, there is the problem o training data: the repetitive calculations on which AI depends only work because it has been exposed to thousands i not millions o examples rom which it can 'learn'. AI programs need to cut their teeth, as it were, on preselected datasets. But those datasets necessarily have limitations: they only include things that have been previously counted. Whatever is counted necessarily reects the orces that shape what there is in the world, orces like privilege and inequality (which is why AI is oten ound to replicate the biases that are already ound in the world).
 
 But a second problem arises with the most advanced orms o AI, the so-called AGI (Articial General Intelligence). These systems are able to move beyond their original task parameters and come up with innovative solutions, going as ar as potentially generating new knowledge. But the problem o context remains. Human knowledge arises in a lie context, many aspects o which are so obvious that they never need to be made explicit – at least to humans. But to AI, since it is ormed outside o any lie context, everything needs to be made explicit, including the unacceptability o what humans would
 
@@ -1260,7 +1265,7 @@ More important than these limited corrective mechanisms (which have only emerged
 
 #### AI as a Colonial Tool of Extraction
 
-We can probably assume that, working in their research labs, data and computer scientists are probably not thinking about creating what mathematician and data scientist Cathy O'Neil calls weapons of math destruction. <sup>62</sup> And yet their scientic methods, and the tools created with those methods, are part o a long trajectory o attempts to manage the world more efectively and more protably. Data has
+We can probably assume that, working in their research labs, data and computer scientists are probably not thinking about creating what mathematician and data scientist Cathy O'Neil calls weapons of math destruction. 62 And yet their scientic methods, and the tools created with those methods, are part o a long trajectory o attempts to manage the world more efectively and more protably. Data has
 
 #### DATA'S NEW CIVILISING MISSION
 
@@ -1294,7 +1299,7 @@ Artifcial intelligence is a ast-evolving amily o technologies that can contribut
 
 #### DATA'S NEW CIVILISING MISSION
 
-solutions . . . the use o articial intelligence can provide key competitive advantages to companies and support socially and environmentally benecial outcomes . . . <sup>75</sup>
+solutions . . . the use o articial intelligence can provide key competitive advantages to companies and support socially and environmentally benecial outcomes . . . 75
 
 I that's true, the role o regulation is limited in advance to reining in its most extreme ('high-risk') versions. Meanwhile in Brazil, a national AI strategy was published in 2021 and a legislative process is under way that is expected to lead to major legislation that encodes rights or those aected by AI systems, although the details are not yet clear.76 The US is nowhere near drating actual legislation, although the White House has at least published a Blueprint or an AI Bill o Rights, which rames AI governance as a civil rights issue, and there are proposals by US senators to advance legislation to rein in AI. It's worth noting that, when drating its Blueprint, the White House consulted not only with the public and human rights groups, but with corporations like Microsot and Palantir – exactly the sort o corporations that the document is meant to call to account.
 
@@ -1384,11 +1389,11 @@ Each o these empires applied all our X's at the same time, o course, but this br
 
 The point is that, merely two to three decades rom its inception, data colonialism represents an evolving landscape. The way these corporations have succeeded in mastering the larger economic opportunities o data extraction deserves a closer look.
 
-Starting in the mid-1990s, Amazon led the way in opening up the territory o e-commerce and online retail business. It now has a market capitalisation o US \$1.28 trillion.16 The company generates a large majority o its income (72 per cent) rom its online store platorm, advertising, and services to third-party sellers. <sup>17</sup>
+Starting in the mid-1990s, Amazon led the way in opening up the territory o e-commerce and online retail business. It now has a market capitalisation o US \$1.28 trillion.16 The company generates a large majority o its income (72 per cent) rom its online store platorm, advertising, and services to third-party sellers. 17
 
 #### THE NEW COLONIAL CLASS
 
-But Amazon is much more than just a store. Data rom tracking customer habits is key to its income, and Amazon has many ways o grabbing our data. In the home sector, it has built the world's leading digital personal assistant, Alexa, which is the market leader in the US (think o all the Echo devices, including Loop, Ring, Frames, Smart Oven, and the many third-party Smart devices that can be controlled through Alexa, all while capturing data about our habits).18 Amazon would love to take a look inside your phone, which is why it is piloting a program that ofers some 'lucky' users US \$2 a month to let the company monitor their mobile devices19 (you can rest assured the value that Amazon can derive rom this data is much more than a couple o dollars). Crucially also, Amazon is the world leader in the cloud computing business, with Amazon Web Services (AWS) capturing 32 per cent o the world market,20 making up 16 per cent o its total income. <sup>21</sup> Even the US Central Intelligence Agency (the CIA) is an AWS client, which speaks to the level o trust in its security protocols.
+But Amazon is much more than just a store. Data rom tracking customer habits is key to its income, and Amazon has many ways o grabbing our data. In the home sector, it has built the world's leading digital personal assistant, Alexa, which is the market leader in the US (think o all the Echo devices, including Loop, Ring, Frames, Smart Oven, and the many third-party Smart devices that can be controlled through Alexa, all while capturing data about our habits).18 Amazon would love to take a look inside your phone, which is why it is piloting a program that ofers some 'lucky' users US \$2 a month to let the company monitor their mobile devices19 (you can rest assured the value that Amazon can derive rom this data is much more than a couple o dollars). Crucially also, Amazon is the world leader in the cloud computing business, with Amazon Web Services (AWS) capturing 32 per cent o the world market,20 making up 16 per cent o its total income. 21 Even the US Central Intelligence Agency (the CIA) is an AWS client, which speaks to the level o trust in its security protocols.
 
 Google, now part o Alphabet, has a market capitalisation o US \$1.57 trillion. Since 2010, Google has consistently led the world's search engine market, with a share o 92 per cent in June 2022 across all platorms, including mobile.22 By this date, advertising comprised 81 per cent o Alphabet's income, with the bulk o it (58 per cent) coming rom advertising linked to search. But Alphabet has many other major business lines that grab data: it owns You-Tube, dominates geographical inormation (Google Maps), and has major investments in education, health, home personal assistants (Google Home), and more generally AI services. It also has a small but growing Cloud business.
 
@@ -1408,7 +1413,7 @@ Apple's recent use o its huge territorial power in the smartphone market just me
 
 #### China's Parallel Data Empire
 
-The landscape o the world's large-scale data harvesters is highly concentrated, <sup>34</sup> but so ar we have only considered US corporations. China has built its own parallel empire o data extraction, the so-called BATX: Baidu, Alibaba, Tencent and Xiaomi. While these companies operate mainly (but not exclusively) in Asia, the emergence o Tik Tok (owned by Byte Dance, valued at approximately US \$220 billion in March 2023)35 suggests a shit to a more direct competition between US and China, the contours o which are not yet clear, given US threats o retaliation.36
+The landscape o the world's large-scale data harvesters is highly concentrated, 34 but so ar we have only considered US corporations. China has built its own parallel empire o data extraction, the so-called BATX: Baidu, Alibaba, Tencent and Xiaomi. While these companies operate mainly (but not exclusively) in Asia, the emergence o Tik Tok (owned by Byte Dance, valued at approximately US \$220 billion in March 2023)35 suggests a shit to a more direct competition between US and China, the contours o which are not yet clear, given US threats o retaliation.36
 
 Though not so well known in the West, the members o BATX match GAFA in range o market power, at least in China. Amazon's Chinese counterpart in online retail sales is Alibaba. Recent market turbulence reduced its market capitalisation to US \$236 billion. Like Amazon, the bulk o its income comes rom consumer retail.37 Unlike Amazon, however, it long ago moved into personal nance, creating China's most popular payment app, Alipay, which 93 per cent o Chinese online buyers say they use.38 It is worth noting that Alibaba has increasingly tense relations with the Chinese government, which have afected its standing in global stock markets.
 
@@ -1430,7 +1435,7 @@ Each corporation in the Social Quantication Sector has a particular vision o why
 
 The company's current chie executive, Satya Nadella, is one o the most eloquent representatives o data's new colonial class. He is not, however, the standard aggressive corporate type. Nadella is a sel-refexive product o earlier generations' critiques o capitalism (he talks openly about his Marxist parents in India). And his management philosophy does sound inclusive, judging at least by his 2017 book Hit Refresh.
 
-Nadella wanted rom early on to produce 'sotware that would change the world'. He started in a background role, working on the technical inrastructure o Microsot's cloud system. From his perspective, a fexible cloud that supports business's growing needs or data processing is a way o 'democratizing and personalizing technology'. <sup>49</sup>
+Nadella wanted rom early on to produce 'sotware that would change the world'. He started in a background role, working on the technical inrastructure o Microsot's cloud system. From his perspective, a fexible cloud that supports business's growing needs or data processing is a way o 'democratizing and personalizing technology'. 49
 
 But the core o Nadella's vision should certainly make us pause. That vision is to create a world where data capture happens seamlessly in the background without obstruction. Inspired by novelist Neal Stephenson's concept o the Metaverse, Nadella talks o 'replacing reality' 'with a digital imitation'. These ideas, he adds, 'are now within sight'. Microsot's detailed ambitions or the Metaverse have recently been announced, and they rival Meta's in scope: those ambitions have driven its recent expansion in the games market (the controversial acquisition o game developer Activision Blizzard or almost US \$69 billion).
 
@@ -1480,11 +1485,11 @@ Data is now the ocus o a number o economic alliances between OEMs and third part
 
 What happens to all this data? That's where a second member o the new colonial class steps in: the data aggregator. A whole specialist sector now exists to process the mountains o data generated by our cars, other than that already siphoned of by Big Tech providers. In the car industry these specialist data aggregators are called 'vehicle data hubs'.
 
-Big players such as Lexis Nexis (based in the US) and Otonomo (based in Israel) are in this market. They perorm a role which has equivalents in many other sectors, such as, in marketing, large companies like Experian, who aggregate multiple sources o data and process it into a usable orm. In the background, Alphabet is playing an increasingly important role in setting the standards or smoother data extraction in the car sector.<sup>0</sup> Much o the data gets anonymised or broader industry analysis, where individual identities are irrelevant. Similarly in the car sector, vehicle data hubs can generate anonymised, aggregated data or general use. But i the individual inputs to such larger datasets were ever combined with other data so as to identiy an individual, there are third parties interested in buying such data or sure (or example, advertisers might want to know your preerred cabin temperature beore they try to sell you a hot or cold beverage).
+Big players such as Lexis Nexis (based in the US) and Otonomo (based in Israel) are in this market. They perorm a role which has equivalents in many other sectors, such as, in marketing, large companies like Experian, who aggregate multiple sources o data and process it into a usable orm. In the background, Alphabet is playing an increasingly important role in setting the standards or smoother data extraction in the car sector.0 Much o the data gets anonymised or broader industry analysis, where individual identities are irrelevant. Similarly in the car sector, vehicle data hubs can generate anonymised, aggregated data or general use. But i the individual inputs to such larger datasets were ever combined with other data so as to identiy an individual, there are third parties interested in buying such data or sure (or example, advertisers might want to know your preerred cabin temperature beore they try to sell you a hot or cold beverage).
 
-But data hubs also interace with a crucial third player in the car-data market who absolutely does not want anonymised data. This is the insurer. Insurance contracts are increasingly being turned inside out through data processing. The new 'usage-based' policies (sometimes called 'connected' policies) no longer protect us against one-o unknowable risks which might aect anyone at some point during their driving career. They are products tailored or particular policy holders and continually refned in the light o the data that is gathered directly rom a particular driver's car. Instead o having to spread general risks across a pool o drivers, insurers now have the option to take on much more narrowly defned risks tailored to precisely the sort o driver they observe each o us to be.<sup>1</sup>
+But data hubs also interace with a crucial third player in the car-data market who absolutely does not want anonymised data. This is the insurer. Insurance contracts are increasingly being turned inside out through data processing. The new 'usage-based' policies (sometimes called 'connected' policies) no longer protect us against one-o unknowable risks which might aect anyone at some point during their driving career. They are products tailored or particular policy holders and continually refned in the light o the data that is gathered directly rom a particular driver's car. Instead o having to spread general risks across a pool o drivers, insurers now have the option to take on much more narrowly defned risks tailored to precisely the sort o driver they observe each o us to be.1
 
-Insurance contracts are now, in other words, surveillance contracts, although that is not how they are marketed. A blog by The Floow, a company acquired by vehicle data hub Otonomo to run such a policy, is quite explicit. It describes how it installs a device in the car to 'monitor [drivers'] habits and behaviors'. Note the word 'habits', which suggests there's plenty o larger-scale analysis done over and above the moment-to-moment tracking.<sup>2</sup> It is not or nothing that one such policy, marketed by Progressive Insurance in the US, is named Snapshot.
+Insurance contracts are now, in other words, surveillance contracts, although that is not how they are marketed. A blog by The Floow, a company acquired by vehicle data hub Otonomo to run such a policy, is quite explicit. It describes how it installs a device in the car to 'monitor [drivers'] habits and behaviors'. Note the word 'habits', which suggests there's plenty o larger-scale analysis done over and above the moment-to-moment tracking.2 It is not or nothing that one such policy, marketed by Progressive Insurance in the US, is named Snapshot.
 
 #### THE NEW COLONIAL CLASS
 
@@ -1560,7 +1565,7 @@ Palantir is only a spectacular version o a much broader transormation. Right acr
 
 inrastructure or business and governments. Without such largescale services or integrating data and storing it in the cloud, they claim, businesses would be unable to manage their relations with the world (Palantir itsel uses Google Cloud).
 
-Far rom being a recent development, such links are part o a much longer, and largely hidden, history o state-corporate collaboration. In the US, Alphabet (Google's owner) rom early on benetted rom close links with the US Department o Deense and, as economist Mariana Mazzucato has shown, even the amously independent Apple relied on research done by government-unded scientists or the technical innovations that underlay the i Pod, i Phone and i Pad. Meanwhile, it is well known that it was DARPA (the research arm o the Department o Deense) whose unding started the internet itsel. <sup>84</sup> No surprise thereore that in December 2022, Alphabet was selected by the Pentagon to deliver a US \$9 billion cloud computing contract, alongside Amazon, Microsot and Oracle.85 And no surprise that DARPA unded the development o voice-activated interaces, which is the core innovation o the voice intelligence industry.86
+Far rom being a recent development, such links are part o a much longer, and largely hidden, history o state-corporate collaboration. In the US, Alphabet (Google's owner) rom early on benetted rom close links with the US Department o Deense and, as economist Mariana Mazzucato has shown, even the amously independent Apple relied on research done by government-unded scientists or the technical innovations that underlay the i Pod, i Phone and i Pad. Meanwhile, it is well known that it was DARPA (the research arm o the Department o Deense) whose unding started the internet itsel. 84 No surprise thereore that in December 2022, Alphabet was selected by the Pentagon to deliver a US \$9 billion cloud computing contract, alongside Amazon, Microsot and Oracle.85 And no surprise that DARPA unded the development o voice-activated interaces, which is the core innovation o the voice intelligence industry.86
 
 Against this background, commentators in the West have no right to be surprised, in turn, that the Chinese government strongly supported its key platorms in their early years.87 Recent confict between the Chinese government and platorms such as Alibaba, Tencent and ride-hailing platorm Didi (which in June 2021 was pulled rom China's app store days beore its listing on the New York Stock Exchange) has demonstrated, in reverse, the signicance o the early political backing necessary to gather and process data in a society such as China. The Fourteenth Five-Year Plan, released in April 2021 by the Chinese Communist Party, names data or the rst time as one o the nation's core assets, suggesting that much greater state control is on its way.88
 
@@ -1578,7 +1583,7 @@ What they are benetting rom, very oten, are the seizures o data territory that c
 
 There is an important continuity here with the histories o both colonialism and industrial capitalism. Government has always depended on the gathering o inormation about whatever territory it claims to govern, but the state's ability to gather inormation has varied hugely over the centuries. Government's data-gathering accelerated most in the nineteenth century, when colonial powers honed new surveillance techniques in their colonies such as the ngerprint and, in order to manage a home population sufering rom the disruptions o early industrialisation, rened statistical techniques.
 
-Today governments are increasingly trying to integrate the commercial techniques o data analysis and algorithmic processing into their everyday decision-making. In many cases, they rely on the inrastructure provided by Big Tech (it is reported that 6,500 US government agencies are already using Amazon's cloud services93). Latin America is one region where such processes are expanding, as governments with ew resources look or quick routes to solve intractable social problems. In Argentina, or example, the government recently signed a contract with Microsot to use AI to create a 'Technology Platorm or Social Intervention' that predicts teenage pregnancy among lower-class women. <sup>94</sup> Horus is another Latin American social welare project, prominent in Argentina and Brazil, that seeks to cut welare waste through more intensive proling o welare recipients, once more driven by the AI services o Big Tech companies like Microsot.95
+Today governments are increasingly trying to integrate the commercial techniques o data analysis and algorithmic processing into their everyday decision-making. In many cases, they rely on the inrastructure provided by Big Tech (it is reported that 6,500 US government agencies are already using Amazon's cloud services93). Latin America is one region where such processes are expanding, as governments with ew resources look or quick routes to solve intractable social problems. In Argentina, or example, the government recently signed a contract with Microsot to use AI to create a 'Technology Platorm or Social Intervention' that predicts teenage pregnancy among lower-class women. 94 Horus is another Latin American social welare project, prominent in Argentina and Brazil, that seeks to cut welare waste through more intensive proling o welare recipients, once more driven by the AI services o Big Tech companies like Microsot.95
 
 Meanwhile, as we mentioned earlier, the government o India has built the Aadhaar identication system as the inrastructure or social welare, and much else, to which 89 per cent o the population were signed up by mid-2019.96 Its early justication was to give many poor citizens a presence in government databases, which would make it easier or them to le claims under India's vast wel are system. But it has expanded into a much more comprehensive way o underpinning India's civic and economic activity, with some similarities to China's system. From the start, it was based on biometric data and a public-private partnership, generating serious privacy and surveillance concerns.97 Data in India, as in China, is proving an eective ocus or state-driven nationalism.98
 
@@ -1600,11 +1605,11 @@ Recall the app's basic recipe. First, scrape billions o images rom Facebook, You
 
 Ton-That saw nothing wrong at all with what he did. As an enterprising individual who, as he put it, 'grew up on the internet', Ton-That made exactly the same move that, on a smaller scale, Mark Zuckerberg perormed as a Harvard student when he downloaded and used without permission his emale peers' portraits to create
 
-Facebook's precursor: Face Mash.<sup>2</sup> The lineage is clear, since neither saw this as raising moral issues. As Ton-That put it, this was just 'the best use o the technology'.<sup>3</sup> And yet, Ton-That (and Zuckerberg) were also making the classic colonial move: grab everything because it is just there, ready or the taking.
+Facebook's precursor: Face Mash.2 The lineage is clear, since neither saw this as raising moral issues. As Ton-That put it, this was just 'the best use o the technology'.3 And yet, Ton-That (and Zuckerberg) were also making the classic colonial move: grab everything because it is just there, ready or the taking.
 
-Let's put to one side the evidence uncovered by the Hufngton Post o overlaps, to put it politely, between Clearview AI's sta – indeed Ton-That's own social networks – and ar-right activists in the US.<sup>4</sup> And let's put to one side, or a moment at least, the shocking implications o Ton-That's techniques or human reedom. Focus instead on a more basic point, that Ton-That's techniques are no more than an eective application o the core techniques o data colonialism: rst, capture a data territory, then rene it and generate new data ruits that you completely control, and nally sell access without concern or how this data might be used. Or in other words: Explore, Expand, Exploit and Exterminate.
+Let's put to one side the evidence uncovered by the Hufngton Post o overlaps, to put it politely, between Clearview AI's sta – indeed Ton-That's own social networks – and ar-right activists in the US.4 And let's put to one side, or a moment at least, the shocking implications o Ton-That's techniques or human reedom. Focus instead on a more basic point, that Ton-That's techniques are no more than an eective application o the core techniques o data colonialism: rst, capture a data territory, then rene it and generate new data ruits that you completely control, and nally sell access without concern or how this data might be used. Or in other words: Explore, Expand, Exploit and Exterminate.
 
-In act, one o Palantir's patents describes something rather similar: a ace photo on a smartphone is sent to a server that recognises it by reerence to a huge database and then automatically links it to all the social media data associated with that ace and its owner. Because o Palantir's secrecy, we just can't know i it does anything like that, but we do know that Peter Thiel nanced Clearview's early operations to the tune o US \$2,, later converted into equity.<sup>5</sup>
+In act, one o Palantir's patents describes something rather similar: a ace photo on a smartphone is sent to a server that recognises it by reerence to a huge database and then automatically links it to all the social media data associated with that ace and its owner. Because o Palantir's secrecy, we just can't know i it does anything like that, but we do know that Peter Thiel nanced Clearview's early operations to the tune o US \$2,, later converted into equity.5
 
 There is absolutely no evidence, however, o Palantir's urther involvement with Ton-That's enterprise. Why would there need to be? The idea had its own momentum.
 
@@ -1620,9 +1625,9 @@ But the transition rom lone adventurer to a key player in military operations is
 
 Sometimes, data colonialism's lone adventurers seem benign. Take Alex 'Sandy' Pentland, an MIT Proessor who in 2011 was named one o the world's seven most powerul data scientists by Tim O'Reilly, himsel the creator o the term 'Web 2.0'.
 
-Pentland does not just do data science. He has developed a whole new version o social science to make sense o the sorts o data analysis he does. In his 05 book Social Physics, Pentland proposes to replace existing social science models with the search or 'statistical regularities within human movement and communication' that can generate 'a computational theory o behaviour'.<sup>08</sup> The source is personal data, the 'digital breadcrumbs' each o us leave as we pass through the world. The result is basically network analysis: fnding patterns in our social interactions based in the structure o our social networks and the people we interact with.
+Pentland does not just do data science. He has developed a whole new version o social science to make sense o the sorts o data analysis he does. In his 05 book Social Physics, Pentland proposes to replace existing social science models with the search or 'statistical regularities within human movement and communication' that can generate 'a computational theory o behaviour'.08 The source is personal data, the 'digital breadcrumbs' each o us leave as we pass through the world. The result is basically network analysis: fnding patterns in our social interactions based in the structure o our social networks and the people we interact with.
 
-The goal o all this data crunching? To develop a new sort o social knowledge, built rom a macro-understanding o how social networks operate and replicate. Pentland has applied this approach to work organisations: he developed a so-called 'sociometric badge' or measuring the 'culture' o organisations through their networks o human interactions, an idea taken up by Mc Donald's among others. But he has also applied it to social interactions more generally, and even to whole countries (his 'Data or Development' program collected mobile and demographic data or the whole o the Ivory Coast).<sup>09</sup> Among Pentland's companies are Endor.com, a blockchain-based platorm that claims to make AI predictions widely accessible (the sorts o predictive modelling that many businesses now want),<sup>0</sup> and Cogito, a leader in the AI-driven inerences that can be made rom people's voices. Although in recent work Pentland has ocussed on how data capital can be placed at the service o communities, it remains unclear whether Pentland is willing to question the imperative to extract data rom everyone and everything that lies at the heart o the new data science.
+The goal o all this data crunching? To develop a new sort o social knowledge, built rom a macro-understanding o how social networks operate and replicate. Pentland has applied this approach to work organisations: he developed a so-called 'sociometric badge' or measuring the 'culture' o organisations through their networks o human interactions, an idea taken up by Mc Donald's among others. But he has also applied it to social interactions more generally, and even to whole countries (his 'Data or Development' program collected mobile and demographic data or the whole o the Ivory Coast).09 Among Pentland's companies are Endor.com, a blockchain-based platorm that claims to make AI predictions widely accessible (the sorts o predictive modelling that many businesses now want),0 and Cogito, a leader in the AI-driven inerences that can be made rom people's voices. Although in recent work Pentland has ocussed on how data capital can be placed at the service o communities, it remains unclear whether Pentland is willing to question the imperative to extract data rom everyone and everything that lies at the heart o the new data science.
 
 Whatever its arguable benefts, Pentland's entrepreneurship illustrates even more clearly than Ton-That's the emerging shape o a new science or the data colonial era. Just as botany and zoology once emerged in the course o colonising nations learning how to rule their new lands, so today we have 'social physics', the science that claims to map the phenomena o the data colony's vast archipelago.
 
@@ -1646,7 +1651,7 @@ A recent episode rehearsed in a neat political ormat the basic steps by which, a
 
 in data relations every day. In August 2022, in the build-up to India's Independence Day, supporters o the ruling Bharatiya Janata Party (BJP) were encouraged by no less than its leader, Prime Minister Narendra Modi, to put up a national ag outside their house, and post a picture on a special-purpose website. The campaign was called Har Ghar Tiranga (tricolour on every house). Digital rights campaigners were concerned the intentions were not exclusively celebratory. For every picture was required to have a geotag, which in eect tied the location o the supporter's house with their phone number and any other identiying data needed to upload the photo.
 
-Sixty million Indians did this, and received an appreciative certifcate rom the Ministry o Culture in return. Mamta, a 4-year-old teacher rom Uttar Pradesh, was one o them: 'I eel proud, as i I have won a war.' When asked, she admitted she had not thought much about the privacy aspects.<sup>6</sup>
+Sixty million Indians did this, and received an appreciative certifcate rom the Ministry o Culture in return. Mamta, a 4-year-old teacher rom Uttar Pradesh, was one o them: 'I eel proud, as i I have won a war.' When asked, she admitted she had not thought much about the privacy aspects.6
 
 What ideas, what imaginative resources, do we need to develop to resist the enticements oered by data's new colonial class?
 
@@ -1738,7 +1743,7 @@ Ater completing his doctorate at Oxord in the 1930s, Williams went on to publish
 
 Based on extensive documentation, Williams showed that those British mainstream histories were a sel-serving myth that bore little relation to the realities o the eighteenth-century English economy. They conveniently orgot the huge benets England derived rom the notorious triangular trade that linked () the selling o English manuactured goods to Arica to (2) the supply o slaves to English colonies in the Americas and (3) the subsequent export o staple crops (cotton, sugar and tobacco) back to England. Williams quotes an English economic commentator o the time who was not embarrassed to say that the British Empire was 'a magnicent superstructure o American commerce and naval power on an Arican oundation.'
 
-Williams went urther and challenged the idea o colonisers that Arican populations were enslaved because o their unique physical suitability (supposedly, only they could physically endure the gruelling work o the plantations). The explanation or who became slaves was, according to Williams, much simpler: the economics o cheap labour. Yes, there was an important precondition, that the indigenous Caribbean population had been mostly decimated by the early efects o colonial arrival. But once slaves were imported to the Caribbean rom Arica as replacement labour, they were 'just there' or plantation owners to exploit, a pattern that would be replicated in the colony that later became the United States. According to Williams, then, Aricans were not racially predisposed to slavery; they just happened to be the cheapest available source o mass labour needed to exploit cash crops.<sup>2</sup>
+Williams went urther and challenged the idea o colonisers that Arican populations were enslaved because o their unique physical suitability (supposedly, only they could physically endure the gruelling work o the plantations). The explanation or who became slaves was, according to Williams, much simpler: the economics o cheap labour. Yes, there was an important precondition, that the indigenous Caribbean population had been mostly decimated by the early efects o colonial arrival. But once slaves were imported to the Caribbean rom Arica as replacement labour, they were 'just there' or plantation owners to exploit, a pattern that would be replicated in the colony that later became the United States. According to Williams, then, Aricans were not racially predisposed to slavery; they just happened to be the cheapest available source o mass labour needed to exploit cash crops.2
 
 In these various ways, Williams was anticipating current debates about the relations between capitalism and colonialism by decades. He punctured the ctional idea that the English Industrial Revolution resulted rom the miraculous innovation o white English entrepreneurs. Brute orce and basic economics were, as he showed, much more important, particularly the economics o colonialism. While Williams' statistics on the economic contribution o slave labour to eighteenth-century England have been debated, his challenge both to economic history and the history o colonialism/capitalism has been crucial. His message: there can be no capitalism without colonialism, or without the subjection o labour, including via slavery.
 
@@ -1786,7 +1791,7 @@ In other words, the point of critical thinking is not just to reject but to repl
 
 Most interesting of all is Wynter's attempt, from the perspective of the history of ideas, to reinterpret what happened in 1492 – the year Christopher Columbus 'found' what became known as the Americas – and the decades of debate at the Spanish court that followed. As Wynter points out, the discovery of a continent that was unknown to Europeans was a huge challenge to the authority of the Catholic Church, coming only two decades before Copernicus's discoveries further undermined earlier understandings of Earth's role in the cosmos, and it was this that generated the debate between las Casa and Sepúlveda that we mentioned earlier. For Wynter, it was las Casas's interlocutor Sepúlveda – condently insisting on the privileged right of rational Western man to seize the territories of inferior beings – who represented something radically new: the birth of a secular, but also deeply racist, vision of the world. It was those ideas that won out, and it is the continuation of those arguments at the heart of powerful understandings of knowledge and humanity that must still be countered in Big Data discourse today.17
 
-Wynter's proposal or rereading history does not mean reverting back to the worldview that was undermined in 492. It means taking seriously the historic crisis o the closed worldview that had erupted by the early sixteenth century and fnding – fve centuries on – new and better solutions. That requires, once again, an inclusive, rather than hierarchical, view o humanity.<sup>8</sup> I we ollow Wynter, our goal becomes not to abandon thinking about what things like Artifcial Intelligence mean or human knowledge, but to look or ways o reimagining AI and Big Data which genuinely move beyond the colonial ways o thinking that, until now, have shaped them.
+Wynter's proposal or rereading history does not mean reverting back to the worldview that was undermined in 492. It means taking seriously the historic crisis o the closed worldview that had erupted by the early sixteenth century and fnding – fve centuries on – new and better solutions. That requires, once again, an inclusive, rather than hierarchical, view o humanity.8 I we ollow Wynter, our goal becomes not to abandon thinking about what things like Artifcial Intelligence mean or human knowledge, but to look or ways o reimagining AI and Big Data which genuinely move beyond the colonial ways o thinking that, until now, have shaped them.
 
 #### Warnings from an Earlier Computer Age
 
@@ -1969,7 +1974,7 @@ The state o Caliornia has gone as ar as to ban predictive policing (the practice
 
 This strategy is not without its challenges, however. According to the most recent data, some o the US cities mentioned above may be undoing such bans in the ace o increasing crime rates and pressure rom police departments to use 'any available tools' to reduce crime. Lobbying eorts by corporations eager to sell their technological solutions to local governments are also to blame or the ban reversal.4 Meanwhile, the global movement to build Smart Cities and Smart Welare systems regularly excludes citizens rom decisions about the surveillance technologies that will shape their lives.5
 
-Eliminating such invasive technologies will be a long struggle. In the Netherlands, or instance, public pressure orced the government o Prime Minister Mark Rutte to resign in 2021 ater a scandal revealed an AI system had alsely accused thousands o parents, primarily immigrants, o committing childcare raud (Rutte later returned to power, only to resign again in the summer o 2023). Some Dutch cities have continued to use AI to detect childcare raud, targeting specifc neighbourhoods or even individual buildings or surveillance. <sup>6</sup> I data colonialism is part o a social order, as we have repeatedly emphasised, resistance must be or the long-term.
+Eliminating such invasive technologies will be a long struggle. In the Netherlands, or instance, public pressure orced the government o Prime Minister Mark Rutte to resign in 2021 ater a scandal revealed an AI system had alsely accused thousands o parents, primarily immigrants, o committing childcare raud (Rutte later returned to power, only to resign again in the summer o 2023). Some Dutch cities have continued to use AI to detect childcare raud, targeting specifc neighbourhoods or even individual buildings or surveillance. 6 I data colonialism is part o a social order, as we have repeatedly emphasised, resistance must be or the long-term.
 
 #### How Workers Are Resisting
 
@@ -2183,7 +2188,7 @@ This brings to mind the work of Brazilian educator Paulo Freire, who argued that
 
 #### Ideas for Working beyond the System
 
-- Embrace the power of critical thinking. As authors, we have been told that the message o data colonialism is too depressing. But we believe, as Italian intellectual Antonio Gramsci suggested, that conronting the world's problems requires a pessimism o the intellect, along with an optimism o the will.<sup>4</sup> We take inspiration also rom eminist thinker Sara Ahmed's fgure o the 'eminist killjoy' who, yes, undermines people's sense o easy comort and convenience by 'recognising inequalities as existing'.<sup>5</sup> While acing the enormity o fve centuries o colonial oppression, let us counter the risk o hopelessness with the power o individual thought, collective imagination and collective action. That is the surest way o moving beyond the current system.
+- Embrace the power of critical thinking. As authors, we have been told that the message o data colonialism is too depressing. But we believe, as Italian intellectual Antonio Gramsci suggested, that conronting the world's problems requires a pessimism o the intellect, along with an optimism o the will.4 We take inspiration also rom eminist thinker Sara Ahmed's fgure o the 'eminist killjoy' who, yes, undermines people's sense o easy comort and convenience by 'recognising inequalities as existing'.5 While acing the enormity o fve centuries o colonial oppression, let us counter the risk o hopelessness with the power o individual thought, collective imagination and collective action. That is the surest way o moving beyond the current system.
 - Help each other become less dependent on data-extracting platforms in our daily life. While it might not be possible or most o us to simply quit all o these platorms in one ell swoop, or to convince our amilies and riends to join us in doing so, we must remain vigilant or unexpected opportunities. For instance, the scandals that plagued Twitter ater the takeover by Elon Musk provided an opportunity or hundreds o thousands to leave the platorm and explore non-extractive alternatives, such as Mastodon. Unortunately, ater an initial
 
 #### A PLAYBOOK FOR RESISTANCE
@@ -3095,14 +3100,19 @@ Trebor Scholz, Uberworked and Underpaid: How Workers Are Disrupting the Digital 
 
 | Aadhaar programme, India 166, 168 abortion 25–7, 29, 33, 35, 37, 54, 245 Activision Blizzard 150 advertising 6, 10, 45, 50, 53, 64, 68–9, 72–3, 79–80, 120, 121, 129, 131, 144–8, 156, 228 affective polarisation 119 Africa ix, 1–3, 5, 6, 9–10, 18, 19, 30, 42, 59, 78, 84, 108–10, 116, 139, 141, 149, 152, 157, 186, 188, 198, 199, 211, 229, 237 aggregated data 6, 38, 155–6, 161 AGI (Artificial General Intelligence) 12–23, 129, 134, 150, 194, 244, 245 Agre, Philip 62–3, 79 agriculture 7, 10, 19, 79–82, 90, 105 Ahmed, Sara 238 Alexa 69, 71, 145, 234 algorithms | training 6, 12–13, 16, 46, 81, 122, 123, 127, 129, 130, 173 You Tube 120 Alibaba 49, 81, 147, 148, 165 Alipay 108, 148 Alphabet 17, 50, 86, 143, 145–6, 148, 156, 165, 210. See also Google Alternativa Laboral Trans (ALT) 205–6, 236–7 Altman, Sam 8, 134 Alvares, Claude 125 Amazon (online retailer) 60, 89, 92, 144–5, 146, 155, 159, 190, 213, 245 Alexa 69, 71, 145, 234 Amazon Health 88 Amazon Labor Union 210 Amazon Turk 94 Amazon Web Services (AWS) 145, 150, 165, 167 |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| AI see Artificial Intelligence<br>algorithmic cruelty 96 | GAFA and 49, 143, 148<br>government contracts 138, 145, 213 |
+| AI see Artificial Intelligence
+algorithmic cruelty 96 | GAFA and 49, 143, 148
+government contracts 138, 145, 213 |
 | algorithmic despotism 96 | i Robot, purchase of 69 |
 | algorithmic homophily 120 | One Medical purchase 88 |
-| Algorithmic Impact Assessments<br>(AIA) 228 | pandemic, profits during 50<br>regulation and 223, 224 |
+| Algorithmic Impact Assessments
+(AIA) 228 | pandemic, profits during 50
+regulation and 223, 224 |
 | algorithmic profiling 15 | Ring 69, 107, 145 |
 | algorithmic state 158-68 | Smart Home and 69-71, 149 |
 | discrimination and 10, 39, 40, 41, | tax and 227 |
-| 42–7, 51, 58, 233–4, 240, 244 exposing bias in 233–4 | workers 51, 93, 127, 210<br>Amazon rainforest 169, 236 |
+| 42–7, 51, 58, 233–4, 240, 244 exposing bias in 233–4 | workers 51, 93, 127, 210
+Amazon rainforest 169, 236 |
 | Google search 64 | Americas, capture of 171, 186, |
 | social media 72–3, 118, 119, | 188, 191 |
 ## | 131, 190 | Android 59, 155 |
@@ -3117,7 +3127,9 @@ Trebor Scholz, Uberworked and Underpaid: How Workers Are Disrupting the Digital 
 | TV 147 | Baidu 49, 147, 148 |
 | apps 12, 14, 25–7, 40, 43, 61, 68, | Bard 13, 123 |
 | 73–4, 80, 82, 87, 94, 96, 147, | BATX (Baidu, Alibaba, Tencent and |
-| 149, 150-52, 173, 174, 177,<br>211, 215, 229, 230. See also | Xiaomi) 49, 147–9<br>Bayer 80, 81 |
+| 149, 150-52, 173, 174, 177,
+211, 215, 229, 230. See also | Xiaomi) 49, 147–9
+Bayer 80, 81 |
 | individual app name | Beckert, Sven 187 |
 | Arab Spring (2011) 116, 117 | behavioural management 73, 81, 85 |
 | Argentina 167-8, 205, 218, 225, | Benjamin, Ruha 191 |
@@ -3128,7 +3140,8 @@ Trebor Scholz, Uberworked and Underpaid: How Workers Are Disrupting the Digital 
 | 244, 245 | 113–14, 134, 143, 152, 171, |
 | AI Ethics 46, 132 | 189, 190, 191, 192, 193 |
 | AI for Social Good 103 | harvesters 143–51 |
-| alarmism over 133–4 'artificial unintelligence' 122 | Big Oil 19<br>Big Sciences 48–9 |
+| alarmism over 133–4 'artificial unintelligence' 122 | Big Oil 19
+Big Sciences 48–9 |
 | civilising mission of 99–104, 113, | Big Tech. See individual company name |
 | 119, 121–5, 132–3 | Big Tech Sells War.com 138 |
 | colonial roots of 47–50 | Bing 146, 150 |
@@ -3140,7 +3153,9 @@ Trebor Scholz, Uberworked and Underpaid: How Workers Are Disrupting the Digital 
 | education and 82-4 | Blue Kai 83 |
 | end of human race and 8, 194 | Blueprint™ 15 |
 | environment and 76–9 | Blueprint for an AI Bill of Rights, |
-| generative 15–17, 49–50, 82–3,<br>122–3, 129, 134, 150, 194, | White House 133<br>Bolsonaro, Jair 118, 168–9 |
+| generative 15–17, 49–50, 82–3,
+122–3, 129, 134, 150, 194, | White House 133
+Bolsonaro, Jair 118, 168–9 |
 | 244, 245 | border enforcement 137–9, 158–64 |
 | hiring and 99–101, 126–8 | Bororo 2 |
 | Natural Language Processing (NLP) | bossware 91 |
@@ -3208,12 +3223,20 @@ Trebor Scholz, Uberworked and Underpaid: How Workers Are Disrupting the Digital 
 
 #### Data Grab
 
-| colonial class – cont. data aggregator 155, 161 datafication 142–3 data science as a profession 153 discrimination and 141, 153 expansion of 151–8 Global South and 153, 157, 173 | Companhia do Commércio da Índia 5<br>compounded effects, historical<br>colonialism/data colonialism<br>and 20<br>computers<br>access to 67–8<br>capture of data 62–5 |
+| colonial class – cont. data aggregator 155, 161 datafication 142–3 data science as a profession 153 discrimination and 141, 153 expansion of 151–8 Global South and 153, 157, 173 | Companhia do Commércio da Índia 5
+compounded effects, historical
+colonialism/data colonialism
+and 20
+computers
+access to 67–8
+capture of data 62–5 |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | government/state and 158-60 | cars and 154 |
 | individual adventurers 168–72 | data centres and 76 |
 | management revolution and 143 | invention of 192–8 |
-| OEMs (original equipment<br>manufacturers) 155 | surveillance and 91–2<br>Congress, US 43, 112, 224 |
+| OEMs (original equipment
+manufacturers) 155 | surveillance and 91–2
+Congress, US 43, 112, 224 |
 | opportunities to join 153–4 | Connect™ 15 |
 | origins of 141–2 | consumers 15, 40–41, 51–2, 61, 110, |
 | Palantir and 160–64 | 141, 148, 166, 202, 214, 222, |
@@ -3223,19 +3246,26 @@ Trebor Scholz, Uberworked and Underpaid: How Workers Are Disrupting the Digital 
 | colonialism | Cortana 150–51 |
 | AI and see Artificial Intelligence (AI) | Cortés, Hernán 54 |
 | capitalism and see capitalism | cotton trade 7, 30, 186, 187 |
-| 'cheap' resources, colonial economy<br>of 37–9 | Council on Foreign Relations,<br>US 115 |
-| civilising mission see civilising mission<br>colonial class, new see colonial<br>class, new | Covid-19 pandemic 50, 52, 83, 85, 87, 90, 91, 163, 200, 201, 202–3, 207, 227 |
+| 'cheap' resources, colonial economy
+of 37–9 | Council on Foreign Relations,
+US 115 |
+| civilising mission see civilising mission
+colonial class, new see colonial
+class, new | Covid-19 pandemic 50, 52, 83, 85, 87, 90, 91, 163, 200, 201, 202–3, 207, 227 |
 | coloniality 187-90, 192, 197 | creativity, natural language generation/ |
 | core mission, persistence of 35-6 | generative AI tools and 15-17 |
 | data colonialism see data colonialism | critical thinking 191, 209, 238 |
 | definitions of 28-9 | Crowd Flower 95 |
 | environment and see environment | cryptocurrency 77, 231 |
-| form and content shift and adapt<br>with the times 35–7 | Cuomo, Andrew 200, 201 |
+| form and content shift and adapt
+with the times 35–7 | Cuomo, Andrew 200, 201 |
 | Four X's of see Four-X model | DALL-E 15 |
 | modernity and 184–92 | DARPA (US Department of Defense |
 | reading the present through a | research arm) 165 |
 | colonial lens 17–21 | Data Against Feminicide 220 |
-| resilience of 50–52<br>resisting see resistance | data breach 58<br>data centre 19, 76–8, 207, 214 |
+| resilience of 50–52
+resisting see resistance | data breach 58
+data centre 19, 76–8, 207, 214 |
 | science and see science | data colonialism |
 | social classification and 40–42 | compounded effects of historical |
 | territorial expansion/land grab and | colonialism and 20 |
@@ -3247,19 +3277,28 @@ Trebor Scholz, Uberworked and Underpaid: How Workers Are Disrupting the Digital 
 | defiance | colonialism and 18–19 |
 | Colorado, US 81 | term 4, 11, 20 |
 | Columbus, Christopher 62, 191 | violence of 39–40 |
-| Commercial Cab Driver's Awareness 211<br>Commission on Governing Health | See also individual area and effect of data colonialism |
+| Commercial Cab Driver's Awareness 211
+Commission on Governing Health | See also individual area and effect of data colonialism |
 | Futures 90 | data exhaust 12, 37 |
 ## | 1 41411 60 7 0 | |
 
 #### INDEX
 
-| datafication 142–3, 149, 159, 199, 215, 244<br>data mining 58, 77, 78<br>data privacy 27, 50<br>data relations 71–6, 105, 173, 175 | electronic waste (e-waste) 78<br>ELIZA 195–6<br>encomienda system 179–80<br>Endor.com 172<br>Enlightenment 143, 181 |
+| datafication 142–3, 149, 159, 199, 215, 244
+data mining 58, 77, 78
+data privacy 27, 50
+data relations 71–6, 105, 173, 175 | electronic waste (e-waste) 78
+ELIZA 195–6
+encomienda system 179–80
+Endor.com 172
+Enlightenment 143, 181 |
 |------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
 | Data Science for Social Good (DSSGx) 220 data solidarity 90 data territories. See territories, data | environment 11, 18–19, 76–9, 94–5, 123–4, 125, 133, 134, 159, 169, 182, 201–3, 207, 214, 219, 231, 236, 240–41, 246. |
 | Datysoc 237 | See also climate change |
 | Davenport, Thomas 70 | Equifax 58 |
 | decolonisation 206, 217–23, 239–40 | Estonia: X-Road project 168 |
-| Deep Dream 15<br>Deep Mind 15 | Eubanks, Virginia: Automating Inequality 42-3 |
+| Deep Dream 15
+Deep Mind 15 | Eubanks, Virginia: Automating Inequality 42-3 |
 | Deere, John 80, 81 | European Center for Not-for-Profit |
 | Deliveristas Unidos 211–12 | Law 52 |
 | Deliveroo 94 | European Citizens' Initiative 210 |
@@ -3272,18 +3311,23 @@ Trebor Scholz, Uberworked and Underpaid: How Workers Are Disrupting the Digital 
 | digital ocean 82, 84 | (GDPR) 50, 86–7, 223 |
 | Digital Services Act, EU 223 | High-Level Expert Group on AI 83 |
 | digital towns 81 | Meta, fines 223 |
-| D'Ignazio, Catherine 45<br>discrimination 6, 10, 19, 20, 39, 40, | principle of consent, legislation relies<br>too heavily on 223 |
+| D'Ignazio, Catherine 45
+discrimination 6, 10, 19, 20, 39, 40, | principle of consent, legislation relies
+too heavily on 223 |
 | 41, 51, 58, 131, 141, 153, 225, | Experian 155–6 |
 | 228, 240, 244 | extremism 119–20, 158 |
 | colonial continuities of data | eye movements 85 |
-| discrimination 42-7 | <b>V</b> |
+| discrimination 42-7 | V |
 | discriminatory intelligence behind AI | Facebook 19, 26, 60, 105, 107, 144, |
 | 126-8 | 158, 160, 190 |
 | hiring and 99–101 | Advantage+ 73, 129 |
 | distributed or virtual teams 48 | Africa and 84, 109 |
-| Drucker, Peter 142<br>Du Bois, W. E. B. 187 | Apple changes to i Phone's terms of operation and 73, 146 |
+| Drucker, Peter 142
+Du Bois, W. E. B. 187 | Apple changes to i Phone's terms of operation and 73, 146 |
 | DuerOS voice assistant 148 | authoritarian governments and 116, 119–21, 131 |
-| East India Company 5, 48, 74, 140,<br>164, 229 | Bosworth, Andrew and 76<br>Cambridge Analytica scandal 113 |
+| East India Company 5, 48, 74, 140,
+164, 229 | Bosworth, Andrew and 76
+Cambridge Analytica scandal 113 |
 | Eco, Umberto 236 | Clearview AI and 169–70 |
 | education/Ed Tech 82-6, 89, 90, 145, | colonialism and 35 |
 | 150, 159 | commercialisation of disinformation |
@@ -3293,7 +3337,9 @@ Trebor Scholz, Uberworked and Underpaid: How Workers Are Disrupting the Digital 
 | (EBS), South Korea 83 | discrimination and 58-9 |
 | Egypt 109 | Free Basics 109 |
 | electricity 10, 70, 76, 77, 114 | GAFA and 49, 143 |
-| Electronic Logging Devices (ELDs)<br>80, 93, 155 | Global South and 108–10<br>ID 74 |
+| Electronic Logging Devices (ELDs)
+80, 93, 155 | Global South and 108–10
+ID 74 |
 ## | | |
 
 #### Data Grab
@@ -3319,7 +3365,8 @@ Trebor Scholz, Uberworked and Underpaid: How Workers Are Disrupting the Digital 
 | facial recognition 10, 75, 107, 132, | car data extraction and 157 |
 | 159, 160, 169, 170, 209, 223, | data centres in 76–7 |
 | | data extraction from Global South |
-| 226, 235<br>Fake News Bill, Brazil 121 | 97, 104, 106, 109–10, 153 |
+| 226, 235
+Fake News Bill, Brazil 121 | 97, 104, 106, 109–10, 153 |
 | far-right extremism 120–21, 170 | |
 | | e-waste in 78 |
 | Federal Trade Commission, US 224 | gig economy 96 |
@@ -3414,7 +3461,8 @@ Trebor Scholz, Uberworked and Underpaid: How Workers Are Disrupting the Digital 
 
 #### Data Grab
 
-| International Alliance o<br>App-Based | literacy 7, 38 |
+| International Alliance o
+App-Based | literacy 7, 38 |
 |-------------------------------------------|---------------------------------------|
 | Transport Workers | lithium 78 |
 | (IAATW) 11 | Lobengula, King 1 |
@@ -3451,7 +3499,8 @@ Trebor Scholz, Uberworked and Underpaid: How Workers Are Disrupting the Digital 
 | Khan, Lina 4 | Mexico 1, 36, 44, 48, 51, 54, 14, |
 | Kids Online Saety Act (KOSA) 4 | 18, 1, 36, 37 |
 | Klein, Lauren F. 45 | Mi Band 149 |
-| Klein, Naomi 17, 5, 79,<br>00–03, 04; | Michael (opening story, Chapter ) |
+| Klein, Naomi 17, 5, 79,
+00–03, 04; | Michael (opening story, Chapter ) |
 | This Changes Everything 01–3 | 57–8, 86, 89 |
 | | Microsot 159 |
 | La Malinche 54 | Bing 146, 150 |
@@ -3536,7 +3585,8 @@ Trebor Scholz, Uberworked and Underpaid: How Workers Are Disrupting the Digital 
 
 | privacy 12, 25, 27, 40, 43, 50–51, 52, 59, 62, 64, 79, 86, 87, 168, 175, 209, 223, 224, 228, 235 profiling 6, 10, 15, 141, 151, 168, 173 Progressive Insurance 156 Project X 74 Pro Publica 45 public-private partnerships 83–4, 167, 168 | Rhodesia 2 Ricaurte, Paola 128, 236, 239 Ring 69, 107, 145 Roe v. Wade 25-6 Roomba 69 Ross, Sir Ronald 125 Royal African Company 9 Royal Botanic Gardens, Kew, London 49 Royal Free London NHS Foundation Trust 86 |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Quijano, Aníbal 187–90, 197, 204, 220 | Royal Society 9<br>Russell, Stuart 193–4 |
+| Quijano, Aníbal 187–90, 197, 204, 220 | Royal Society 9
+Russell, Stuart 193–4 |
 | race 6, 33, 38, 41, 42, 43, 45–6, 128, 138, 157, 188–9, 197, 220 | Rutte, Mark 210 |
 | Rappi 229 | Sabee 84 |
 | Rappler 119 | Sai, Leonardo Fabián 225 |
@@ -3564,7 +3614,9 @@ Trebor Scholz, Uberworked and Underpaid: How Workers Are Disrupting the Digital 
 | 206–7 | Second Machine Age, The 103 |
 | everybody can resist 215-16 | Securities and Exchange Commission |
 | history of resistance 208-17 | (SEC) 163 |
-| indigenous communities 214–15<br>Playbook 221–40 | Sepúlveda, Juan Ginés de 180, 180,<br>188, 191 |
+| indigenous communities 214–15
+Playbook 221–40 | Sepúlveda, Juan Ginés de 180, 180,
+188, 191 |
 | Play #1: Working within the | sexual content 44 |
 | System 222–8 | shock doctrine 200, 201, 203 |
 | Play #2: Working against the | Sid Meier's Colonization 4 |
@@ -3580,7 +3632,14 @@ Trebor Scholz, Uberworked and Underpaid: How Workers Are Disrupting the Digital 
 
 #### INDEX
 
-| slavery 6, 7, 9, 13, 20, 27, 30–31, 35, 54, 59, 72, 91, 173, 179, 180, 185–8 Smart Appliances 40, 68–9, 88, 135, 145, 217, 219 Smart Borders 159–60 Smart Cars 40, 154 Smart Electricity grid 114 | surveillance 10, 15, 32, 40, 42, 43–5, 49<br>asymmetrical surveillance power 71–2<br>Big Tech surveillance model 58<br>borders and 137–8, 158–9<br>capitalism and 32, 52, 72, 80, 91–2,<br>113, 243<br>children and 86<br>governments and 137–8, |
+| slavery 6, 7, 9, 13, 20, 27, 30–31, 35, 54, 59, 72, 91, 173, 179, 180, 185–8 Smart Appliances 40, 68–9, 88, 135, 145, 217, 219 Smart Borders 159–60 Smart Cars 40, 154 Smart Electricity grid 114 | surveillance 10, 15, 32, 40, 42, 43–5, 49
+asymmetrical surveillance power 71–2
+Big Tech surveillance model 58
+borders and 137–8, 158–9
+capitalism and 32, 52, 72, 80, 91–2,
+113, 243
+children and 86
+governments and 137–8, |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Smart Home 68–9, 149, 159 | 158-9, 166-8 |
 | Smart Hospital programme 89–90 | institutionalised surveillance 66-7 |
@@ -3609,8 +3668,10 @@ Trebor Scholz, Uberworked and Underpaid: How Workers Are Disrupting the Digital 
 | Social Quantification Sector (SQS) | 151-5, 166-7, 170-71, 174, |
 | 140–43, 146, 149, 158, 223 | 182-4, 187, 191, 193, 195, |
 | social relations, redesigning of 34–5, | 199, 217, 218, 221, 223 |
-| 75–6, 116, 174, 220 | agriculture and 80–82<br>code is law 62 |
-| social science 171–2<br>society as territory 61–71 | data centres and 76–7 |
+| 75–6, 116, 174, 220 | agriculture and 80–82
+code is law 62 |
+| social science 171–2
+society as territory 61–71 | data centres and 76–7 |
 | sociometric badge 172 | data leaks and 58–9 |
 | Sorani Kurdish 215 | data relations and 71–6 |
 | Sorry We Missed You (film) 96 | education and 82–6 |
@@ -3662,7 +3723,8 @@ Trebor Scholz, Uberworked and Underpaid: How Workers Are Disrupting the Digital 
 | 23and Me 87 | data breaches in 58 |
 | Twitter 51, 110, 118, 138, 169, 238 | data centres in 214 |
 | Uber 94, 95-6, 106, 140, 211, 232 | Department of Defense 165 |
-| UK | 'discovery' of 191<br>facial recognition and 169, 170, |
+| UK | 'discovery' of 191
+facial recognition and 169, 170, |
 | colonialism and 1–3, 4, 5, 6, 7, 9, | 171, 210 |
 | 10, 18, 36, 42, 59, 74, 102, | Federal Trade Commission 224 |
 | 139, 144, 152, 173, 185–6, | GAFA (Google, Apple, Facebook and |

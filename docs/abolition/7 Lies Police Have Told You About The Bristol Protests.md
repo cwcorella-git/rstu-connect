@@ -1,16 +1,10 @@
 ---
-title: 7 Lies Police Have Told You About The Bristol Protests
-slug: 7 Lies Police Have Told You About The Bristol Protests
-reconversion_status: ready_for_reconversion
-author: Anarchist Federation
-date: 2021
-tags:
-  - abolition
-  - police
-  - strikes
-  - rent
-  - labor
+title: "7 Lies Police Have Told You About The Bristol Protests"
+author: "Anarchist Federation"
+date: "2021"
+category: "abolition"
 ---
+
 ## **7 Lies Police Have Told You About The Bristol Protests**
 
 ## **Date:** Unknown

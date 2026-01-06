@@ -1,11 +1,19 @@
+---
+title: "## **Community-Driven Social Change in the Age of the Non-Profit Industrial Complex**"
+category: "contemporary-analysis"
+---
+
 ## **Community-Driven Social Change in the Age of the Non-Profit Industrial Complex**
 
-| Date: Wed, 12/07/2016 - 17:05<br>Source: https://ecology.iww.org/node/1956<br>Tags: movement politics, NGO-industrial complex, greenwashing, green syndicalism, social ecology |
+| Date: Wed, 12/07/2016 - 17:05
+Source: https://ecology.iww.org/node/1956
+Tags: movement politics, NGO-industrial complex, greenwashing, green syndicalism, social ecology |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | By staff - |
 | Murphy Institute |
 | , November 22, 2016 |
-| How can we make sense of the organizing coming out of today's social change and<br>resistance movements? |
+| How can we make sense of the organizing coming out of today's social change and
+resistance movements? |
 | In a |
 | new article coming out in the Fordham Urban Law Journal |
 | , Professor Michael Haber connects many of today's most important movements—from |

@@ -1,3 +1,8 @@
+---
+title: "**From the Tar Sands to 'Green Jobs'? Work and Ecological Justice**"
+category: "environmental-justice"
+---
+
 # **From the Tar Sands to 'Green Jobs'? Work and Ecological Justice**
 
 ## **Date:** Wed, 07/20/2016 - 17:31
@@ -246,14 +251,23 @@ It is 'capitalism as a system' that is the central obstacle in the transition to
 
 This arises not from whim or malice on the part of individual capitalists, even if overt scheming and greed has always characterized the oil industry. It emerges from the competitive imperatives to maximize profits and thus continually to annihilate space (as both natural and
 
-| built environments) by the acceleration of time through productivity enhancement (enabled by<br>the energy from fossil fuels). |
+| built environments) by the acceleration of time through productivity enhancement (enabled by
+the energy from fossil fuels). |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [28] |
-| The accumulation of capital is, historically and to this day, the accumulation of carbon in the<br>earth's atmosphere. |
-| In the urgency to tackle climate change and to halt the extraction of the most destructive fossil<br>fuel source on the planet, there is a normal inclination to take the detour of 'market ecology'<br>and 'green work' in the hope of preventing further damage. But the political calculation of<br>ecologists, unionists, and socialists needs to be as ambitious as the challenges at hand are<br>large. This is to insist that a rupture with the existing paradigm of production and work is<br>needed – 'ways of living' as the early ecology and socialist movements envisioned. Solar<br>communism, anyone? |
+| The accumulation of capital is, historically and to this day, the accumulation of carbon in the
+earth's atmosphere. |
+| In the urgency to tackle climate change and to halt the extraction of the most destructive fossil
+fuel source on the planet, there is a normal inclination to take the detour of 'market ecology'
+and 'green work' in the hope of preventing further damage. But the political calculation of
+ecologists, unionists, and socialists needs to be as ambitious as the challenges at hand are
+large. This is to insist that a rupture with the existing paradigm of production and work is
+needed – 'ways of living' as the early ecology and socialist movements envisioned. Solar
+communism, anyone? |
 | [29] |
 | • |
-| Greg Albo and Lilian Yap are at the Department of Political Science, York University, Toronto.<br>This essay is adapted from their contribution to |
+| Greg Albo and Lilian Yap are at the Department of Political Science, York University, Toronto.
+This essay is adapted from their contribution to |
 | A Line in the Tar Sands: Struggles for Environmental Justice |
 | (Toronto: |
 | Between the Lines |
@@ -389,17 +403,20 @@ A Green New Deal: Joined-up Policies to Solve the Triple Crunch of the Credit Cr
 | 21. |
 | Thomas Mann, |
 | Some Responses to the Challenges of Climate Change by North American Labour |
-| , York University, Work in a Warming World, Working Paper, N. 2011-01, 2011; Carla<br>Lipsig-Mumme, ed., |
+| , York University, Work in a Warming World, Working Paper, N. 2011-01, 2011; Carla
+Lipsig-Mumme, ed., |
 | Climate @ Work |
 | (Halifax: Fernwood, 2013). |
 ## | 22. |
 
-| The International Energy Agency cautions on the slow growth of renewable and thus the<br>slowdown in carbon emissions: |
+| The International Energy Agency cautions on the slow growth of renewable and thus the
+slowdown in carbon emissions: |
 |------------------------------------------------------------------------------------------------------------------------|
 | World Energy Outlook 2012 |
 | (Paris: IEA, 2012). |
 | 23. |
-| Mario Candeias, "Energy Struggles for Energy Democracy," Rosa Luxemburg Stiftung, 2012,<br>at |
+| Mario Candeias, "Energy Struggles for Energy Democracy," Rosa Luxemburg Stiftung, 2012,
+at |
 | www.alternativen.blog.rosalux.de |
 | ; Sweeney, |
 | Resist, Reclaim, Restructure |

@@ -1,3 +1,8 @@
+---
+title: "## **SEIU 1021 Resolution in support of Climate Justice Work**"
+category: "environmental-justice"
+---
+
 ## **SEIU 1021 Resolution in support of Climate Justice Work**
 
 ## **Date:** Fri, 05/13/2016 - 16:33
@@ -50,4 +55,5 @@ Developing a program of Action on Climate Change that puts to use our skills and
 | Movement Coalition Building with Allies |
 | Mobilizing Members to Action |
 | Disclaimer: |
-| The views expressed here are not the official position of the IWW (or even the IWW's EUC)<br>and do not necessarily represent the views of anyone but the author's. |
+| The views expressed here are not the official position of the IWW (or even the IWW's EUC)
+and do not necessarily represent the views of anyone but the author's. |

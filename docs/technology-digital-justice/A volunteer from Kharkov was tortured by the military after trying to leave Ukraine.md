@@ -1,3 +1,8 @@
+---
+title: "## **A volunteer from Kharkov was tortured by the military after trying to leave Ukraine**"
+category: "technology-digital-justice"
+---
+
 ## **A volunteer from Kharkov was tortured by the military after trying to leave Ukraine**
 
 ## **Date:** Unknown

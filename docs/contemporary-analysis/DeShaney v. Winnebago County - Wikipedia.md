@@ -1,3 +1,8 @@
+---
+title: "**De Shaney v. Winnebago County**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/De Shaney_v._Winnebago_County)
 
 # **De Shaney v. Winnebago County**
@@ -57,7 +62,8 @@ A state or county agency does not have an obligation under the Due Process Claus
 
 ### **Case opinions**
 
-| Majority | Rehnquist, joined by White, Stevens,<br>O'Connor, Scalia, Kennedy | |
+| Majority | Rehnquist, joined by White, Stevens,
+O'Connor, Scalia, Kennedy | |
 |------------------------------------------|-------------------------------------------------------------------|--|
 | Dissent | Brennan, joined by Marshall, Blackmun | |
 | Dissent | Blackmun | |

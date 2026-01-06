@@ -1,3 +1,8 @@
+---
+title: "## **The Challenor Case Thirty Years On - Donald Rooum**"
+category: "contemporary-analysis"
+---
+
 ## **The Challenor Case Thirty Years On - Donald Rooum**
 
 ## **Date:** Unknown

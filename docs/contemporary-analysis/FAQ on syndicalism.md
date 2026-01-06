@@ -1,3 +1,8 @@
+---
+title: "## **FAQ on syndicalism**"
+category: "contemporary-analysis"
+---
+
 ## **FAQ on syndicalism**
 
 ## **Date:** Unknown
@@ -79,7 +84,10 @@ A necessary prerequisite for fulfilling the dual task is to build strong local t
 | 3 years 9 months ago |
 | In reply to Welcomebylibcom.org |
 | Joakim: |
-| A prerequisite for fulfilling the dual task is to put emphasis on self-organization and collective<br>struggle. If a trade union is dominated by client service and defensive legalism, then it is<br>important to make new investments in organizing. Client service was discussed above (see<br>question 14). |
+| A prerequisite for fulfilling the dual task is to put emphasis on self-organization and collective
+struggle. If a trade union is dominated by client service and defensive legalism, then it is
+important to make new investments in organizing. Client service was discussed above (see
+question 14). |
 | To what does 'client service' refer? Or simply include question 14. |
 | Joakim |
 | 3 years 9 months ago |

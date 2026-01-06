@@ -1,3 +1,8 @@
+---
+title: "**TOWARDS AN ESPECIFISTA FEMINISM IN NORTH AMERICA**"
+category: "theory"
+---
+
 # **TOWARDS AN ESPECIFISTA FEMINISM IN NORTH AMERICA**
 
 #### **INTRODUCTION**
@@ -14,11 +19,11 @@
 
 "[In] the search for our own feminism, in accordance with our current of organized anarchism and its comprehensive strategy, we always have the obligation to always reflect on which tools and practices are -and which are not- the most effective and pertinent, in this particular context in order to contribute to the construction of popular power from a feminist perspective."3 (FAR)
 
-<sup>1</sup> "Reconocemos que el campo feminista ha hecho grandes esfuerzos por develar los mecanismos de opresión sobre las mujeres y disidencias, y poder ponerle nombre a cuestiones que estaban invisibilizadas. Ahora bien, ello no quiere decir que los conceptos y categorías, y por lo tanto los marcos teóricos sean todos válidos por igual. Como anarquistas especifistas nos debemos la tarea de tomar de aquellas producciones teóricas, los conceptos y categorías que estén acordes a nuestra ideología. Utilizar como referencia marcos teóricos de otras corrientes no solo nos coloca en otra línea ideológica, sino que además entendemos que tiene efectos concretos que se expresan en la militancia tanto a nivel político como a nivel social."
+1 "Reconocemos que el campo feminista ha hecho grandes esfuerzos por develar los mecanismos de opresión sobre las mujeres y disidencias, y poder ponerle nombre a cuestiones que estaban invisibilizadas. Ahora bien, ello no quiere decir que los conceptos y categorías, y por lo tanto los marcos teóricos sean todos válidos por igual. Como anarquistas especifistas nos debemos la tarea de tomar de aquellas producciones teóricas, los conceptos y categorías que estén acordes a nuestra ideología. Utilizar como referencia marcos teóricos de otras corrientes no solo nos coloca en otra línea ideológica, sino que además entendemos que tiene efectos concretos que se expresan en la militancia tanto a nivel político como a nivel social."
 
-<sup>2</sup> "[...] les espaces non-mixtes sont une solution imparfraite dans un monde imparfait. Ce n'est pas pour autant une raison pour les abandonner."
+2 "[...] les espaces non-mixtes sont une solution imparfraite dans un monde imparfait. Ce n'est pas pour autant une raison pour les abandonner."
 
-<sup>3</sup> "[En] la búsqueda de un feminismo propio acorde a nuestra corriente de anarquismo organizado y a su estrategia integral es que tenemos la obligación siempre de abordar reflexivamente qué herramientas y prácticas –y cuáles no- son las más eficaces y pertinentes en este contexto para aportar a la construcción de poder popular desde una perspectiva feminista."
+3 "[En] la búsqueda de un feminismo propio acorde a nuestra corriente de anarquismo organizado y a su estrategia integral es que tenemos la obligación siempre de abordar reflexivamente qué herramientas y prácticas –y cuáles no- son las más eficaces y pertinentes en este contexto para aportar a la construcción de poder popular desde una perspectiva feminista."
 
 #### **FOR THIS REASON...**
 
@@ -28,9 +33,9 @@
 
 "The result is an outward-facing media presence that relies heavily on the contributions of individual militants and re-shares of material featuring broad anti-institutional critiques." (Thistle Writing Collective, "Every Rose Has Its Thorn"5)
 
-<sup>4</sup> "[Creemos] que es necesario buscar un equilibrio entre la transversalización y la especificidad, de forma tal que la mirada feminista atraviese el resto de las problemáticas así como las prácticas organizativas pero sin que eso signifique un borrón o desvanecimiento de las reivindicaciones propias a abordar de manera particular."
+4 "[Creemos] que es necesario buscar un equilibrio entre la transversalización y la especificidad, de forma tal que la mirada feminista atraviese el resto de las problemáticas así como las prácticas organizativas pero sin que eso signifique un borrón o desvanecimiento de las reivindicaciones propias a abordar de manera particular."
 
-<sup>5</sup> In order to continue theoretically exploring the relationship between feminism and especifismo, and not enter into polemic debates between members and ex-members of any particular org., included here is an excerpt from a statement, from March 2022, titled "Reflection & Reorganization: Black Rose/Rosa Negra Resumes Public Activity" which is responding to the critiques made by the Thistle Writing Collective. The following excerpt is included here, to inform while not rhetorically pairing its arguments with those presented in "Every Rose Has Its Thorn", which dates back to March 2021. While the BRRN statement is not specifically part of this study, it does make up part of our North American context. For that reason, its inclusion is meant to add to any discussion about how to move forward: "Eventually, this conflict led a number of members to resign from the organization, with some penning a feminist critique of BRRN after leaving. While we maintain disagreements with many of the specifics of this critique, we share its stated commitment to a revolutionary anarchist feminism.
+5 In order to continue theoretically exploring the relationship between feminism and especifismo, and not enter into polemic debates between members and ex-members of any particular org., included here is an excerpt from a statement, from March 2022, titled "Reflection & Reorganization: Black Rose/Rosa Negra Resumes Public Activity" which is responding to the critiques made by the Thistle Writing Collective. The following excerpt is included here, to inform while not rhetorically pairing its arguments with those presented in "Every Rose Has Its Thorn", which dates back to March 2021. While the BRRN statement is not specifically part of this study, it does make up part of our North American context. For that reason, its inclusion is meant to add to any discussion about how to move forward: "Eventually, this conflict led a number of members to resign from the organization, with some penning a feminist critique of BRRN after leaving. While we maintain disagreements with many of the specifics of this critique, we share its stated commitment to a revolutionary anarchist feminism.
 
 The main authors of the statement you are now reading are feminists who chose to remain in BRRN. [...] Because we cannot resign our way out of patriarchy, we resolved to debate and struggle alongside our comrades in BRRN to address internal issues and to create a stronger organization.
 
@@ -58,7 +63,7 @@ The main authors of the statement you are now reading are feminists who chose to
 
 "In this sense, we believe that each tool and space (such as women's committees, protocols, conventions) should be thought of according to the sphere (level) -political or social-, the participation of the compañeras and the degree to which they appropriate feminism as their own. They cannot be used as neutral formulas. If we do not contextualize them and believe that they can be used independently of the rest of the
 
-<sup>6</sup> "Les espaces non-mixtes deviennent une colution immédiate à un problème systémique. En éliminant une des sources de sexisme – les hommes – et en explicitant le désir de n'exclure personne, lambiance change immédiatement.
+6 "Les espaces non-mixtes deviennent une colution immédiate à un problème systémique. En éliminant une des sources de sexisme – les hommes – et en explicitant le désir de n'exclure personne, lambiance change immédiatement.
 
 ideological and material apects of the organization, we would be feeding an idea of homogeneous feminism, not dissimilar from those which we clearly oppose."7 (FAR)
 
@@ -74,9 +79,9 @@ ideological and material apects of the organization, we would be feeding an idea
 
 "[We] want to warn about the directions it can take and the detrimental effects it can have on our strategy social construction. This does not mean that we should abandon it, but on the contrary, we should be there attempting to be influential with our construction of a feminism from below, from the women at bottom."8 (FAR)
 
-<sup>7</sup> "En este sentido, creemos que cada herramienta y espacio (como por ejemplo, comités de mujeres, protocolos) debe ser pensada según el ámbito –político o social-, el nivel de apropiación del feminismo y de participación de las compañeras. No pueden ser usadas como fórmulas neutrales. Si no las contextualizamos y creemos que pueden ser utilizadas con independencia del resto de los componentes ideológicos y materiales de la organización, estaríamos alimentando a una idea de feminismo homogéneo y emparentado a aquellos con los que estamos claramente en disputa."
+7 "En este sentido, creemos que cada herramienta y espacio (como por ejemplo, comités de mujeres, protocolos) debe ser pensada según el ámbito –político o social-, el nivel de apropiación del feminismo y de participación de las compañeras. No pueden ser usadas como fórmulas neutrales. Si no las contextualizamos y creemos que pueden ser utilizadas con independencia del resto de los componentes ideológicos y materiales de la organización, estaríamos alimentando a una idea de feminismo homogéneo y emparentado a aquellos con los que estamos claramente en disputa."
 
-<sup>8</sup> "[Queremos] advertir sobre los rumbos que puede ir tomando y que van en detrimento de nuestra estrategia de construcción social. Ello no quiere decir que debamos abandonarlo, si no por el contrario debemos estar allí influenciando con nuestra construcción de un feminismo de las de abajo."
+8 "[Queremos] advertir sobre los rumbos que puede ir tomando y que van en detrimento de nuestra estrategia de construcción social. Ello no quiere decir que debamos abandonarlo, si no por el contrario debemos estar allí influenciando con nuestra construcción de un feminismo de las de abajo."
 
 #### **PART 2**
 
@@ -110,7 +115,7 @@ ideological and material apects of the organization, we would be feeding an idea
 
 #### **SIMILAR TO...**
 
-<sup>9</sup> "[Vemos] tendencias que surgen del movimiento de mujeres y feminista que permean nuestra militancia y creemos pueden entorpecer el desarrollo de la metodología que proponemos desde el anarquismo organizado."
+9 "[Vemos] tendencias que surgen del movimiento de mujeres y feminista que permean nuestra militancia y creemos pueden entorpecer el desarrollo de la metodología que proponemos desde el anarquismo organizado."
 
 "[...] political practices where women and dissidents appear as the only voices authorized to give debates on gender issues. As especifist anarchists, we must seek to participate in all the issues of the organization, especially including those that are usually masculinized. So, while we think that the gender perspective must enter into all of our analyses, at the same time, we also believe that feminism and anti-patriarchy cannot be the center of all readings,"10 (FAR)
 
@@ -130,9 +135,9 @@ ideological and material apects of the organization, we would be feeding an idea
 
 "[Many] times, in the name of women's struggle, a programmatic agenda is carried out that ignores the reality of the social sectors where we are organized. This vindictive agenda, often without a class character or a clear intention of generating popular participation - sometimes, on the contrary, even appealing to individual and spontaneous participation - ends up promoting actions that are removed from the daily reality of social organizations, only reaching a militant minority."11 (FAR)
 
-<sup>10</sup> "[...] prácticas políticas donde las mujeres y disidencias aparecen como las únicas voces habilitadas para dar debates en torno a la problemática de género. Como anarquistas especifistas nosotras debemos buscar participar de todos los temas de la organización, incluso y especialmente de aquellos que suelen estar masculinizados. Asimismo como pensamos que la perspectiva de género debe atravesar todos nuestros análisis también creemos que el feminismo y anti patriarcado no pueden ser el centro de todas las lecturas, entendiendo que existen situaciones en donde otras problemáticas pueden tener más peso relativo."
+10 "[...] prácticas políticas donde las mujeres y disidencias aparecen como las únicas voces habilitadas para dar debates en torno a la problemática de género. Como anarquistas especifistas nosotras debemos buscar participar de todos los temas de la organización, incluso y especialmente de aquellos que suelen estar masculinizados. Asimismo como pensamos que la perspectiva de género debe atravesar todos nuestros análisis también creemos que el feminismo y anti patriarcado no pueden ser el centro de todas las lecturas, entendiendo que existen situaciones en donde otras problemáticas pueden tener más peso relativo."
 
-<sup>11</sup> "[Muchas] veces en nombre de la lucha de las mujeres se lleve una agenda programática que desconoce la realidad de los sectores sociales donde estamos organizadas. Esta agenda reivindicativa, frecuentemente sin carácter clasista y sin intención clara de generar participación popular -que a veces por el contrario, apela a la participación individual y
+11 "[Muchas] veces en nombre de la lucha de las mujeres se lleve una agenda programática que desconoce la realidad de los sectores sociales donde estamos organizadas. Esta agenda reivindicativa, frecuentemente sin carácter clasista y sin intención clara de generar participación popular -que a veces por el contrario, apela a la participación individual y
 
 #### **STILL...**
 
@@ -162,9 +167,9 @@ espontanea- termina impulsando acciones alejadas de la realidad cotidiana de las
 
 "an influx of new membership — many of whom were oppressed by patriarchy with different experiences and expectations for what a feminist organization looks and feels like. In an organizational culture that could handle disagreement generatively, this could have led to important experiments in new ways of organizing, holding each other accountable, and practicing anarchist feminism." (TWC)
 
-<sup>12</sup> "Ni las opresiones ni sus resistencias se crean en un laboratorio o en claustro, por tanto no queremos que las referencias de la lucha anti patriarcal sean figuras públicas, periodistas, etc. Insistimos en que no existe algo como un feminismo neutral en relación al sistema de dominación como conjunto [...]"
+12 "Ni las opresiones ni sus resistencias se crean en un laboratorio o en claustro, por tanto no queremos que las referencias de la lucha anti patriarcal sean figuras públicas, periodistas, etc. Insistimos en que no existe algo como un feminismo neutral en relación al sistema de dominación como conjunto [...]"
 
-<sup>13</sup> "[...] consideramos que el desarrollo teórico siempre debe darse a la par de nuestra militancia, no necesitamos compendios de "patriarcado, feminismo y género" –o la búsqueda infinita de nuevos términos que al mes quedan desfasados de la nueva producción teórica-, si luego no podemos hablar con una compañera en nuestro sindicato, barrio o lugar de estudio. Por eso decimos que la teoría debe ir de la mano del desarrollo de la organización política y sus frentes de inserción."
+13 "[...] consideramos que el desarrollo teórico siempre debe darse a la par de nuestra militancia, no necesitamos compendios de "patriarcado, feminismo y género" –o la búsqueda infinita de nuevos términos que al mes quedan desfasados de la nueva producción teórica-, si luego no podemos hablar con una compañera en nuestro sindicato, barrio o lugar de estudio. Por eso decimos que la teoría debe ir de la mano del desarrollo de la organización política y sus frentes de inserción."
 
 #### **TO CAUTION...**
 
@@ -174,4 +179,4 @@ espontanea- termina impulsando acciones alejadas de la realidad cotidiana de las
 
 "We want an organization that investigates political questions critically and rigorously. Deep and serious political inquiry does not negate our capacity for personal empathy and understanding of our fellow comrades. It does mean that we can differentiate between them and understand that successful collaborative analysis requires both." (TWC)
 
-<sup>14</sup> "Hoy en día existen grupos que se dedican a realizar talleres, charlas, formaciones en otras organizaciones, que como paracaidistas llegan y se van solo para enseñarnos y mostrarnos cómo estamos siendo oprimidas. Sin desmerecer el trabajo que realizan, no creemos que sea la forma de abordarlo y mucho menos deben ser la cara del movimiento de mujeres."
+14 "Hoy en día existen grupos que se dedican a realizar talleres, charlas, formaciones en otras organizaciones, que como paracaidistas llegan y se van solo para enseñarnos y mostrarnos cómo estamos siendo oprimidas. Sin desmerecer el trabajo que realizan, no creemos que sea la forma de abordarlo y mucho menos deben ser la cara del movimiento de mujeres."

@@ -1,3 +1,8 @@
+---
+title: "## **Strength of the street: Karachi 1972 - Kamran Asdar Ali**"
+category: "contemporary-analysis"
+---
+
 ## **Strength of the street: Karachi 1972 - Kamran Asdar Ali**
 
 ## **Date:** Unknown
@@ -47,7 +52,9 @@ After the firing at Benaras Chowk in June 1972, the thoroughfare was named Shahe
 | vicent |
 | 10 years 10 months ago |
 | In reply to Welcomebylibcom.org |
-| bizzare analysis (strike apparantly ended because one guy on a mic appealed to reactionary<br>values of a recent failed imperialist war and then told everbody to never give up the strike??!) ,<br>but an interesting event nonetheless |
+| bizzare analysis (strike apparantly ended because one guy on a mic appealed to reactionary
+values of a recent failed imperialist war and then told everbody to never give up the strike??!) ,
+but an interesting event nonetheless |
 | syndicalist |
 | 9 years 12 months ago |
 | In reply to Welcomebylibcom.org |

@@ -1,24 +1,8 @@
 ---
-title: Dead zones of the imagination
-author: David Graeber
-date: '2006'
-language: en
-source_url: >-
-  Retrieved on 3<sup>rd</sup> September 2020 from
-  https://www.journals.uchicago.edu/doi/full/10.14318/hau2.2.007
-notes: 'The Malinowski Memorial Lecture, 2006'
-topics:
-  - imagination
-  - violence
-  - bureaucracy
-  - labor
-original_format: muse
-converted_date: '2025-11-08T11:25:03.084461'
-tags:
-  - Imagination
-  - Violence
-  - Bureaucracy
-  - Labor
+title: "Dead zones of the imagination"
+author: "David Graeber"
+date: "2006"
+category: "contemporary-analysis"
 ---
 
 ### Abstract
@@ -102,9 +86,9 @@ All of this is obvious enough. What’s of ethnographic interest, perhaps, is ho
 
 Actually, one could make the same argument about the way that the term “structural violence” itself is deployed in contemporary social theory—because the way I am using it here is quite decidedly unconventional. The term itself traces back to debates within Peace Studies in the 1960s; it was coined by Johann Galtung (1969, 1975; cf. Lawler 1995), to meet the charge that to define “peace” as the mere absence of acts of physical assault is to overlook the prevalence of much more insidious structures of human exploitation. Galtung felt the term “exploitation” was too loaded, owing to its identification with Marxism, and proposed as an alternative “structural violence”—i.e., any institutional arrangement that, by its very operation, regularly causes physical or psychological harm to a certain portion of the population, or imposes limits on their freedom. Structural violence could thus be distinguished from both “personal violence” (violence by an identifiable human agent) and “cultural violence” (those beliefs and assumptions about the world that justify the infliction of harm). This is the how the term has mainly been taken up in the anthropological literature as well (e.g., Bourgois 2001; Farmer 2004, 2005; Gupta 2012). Paul Farmer, for instance, writes that he found the term apt in describing the suffering and early death of so many of the poor Haitian farmers among whom he worked and treated,
 
-<quote>
+
 because such suffering is “structured” by historically given (and often economically driven) processes and forces that conspire—whether through routine, ritual, or, as is more commonly the case, the hard surfaces of life—to constrain agency. For many, including most of my patients and informants, choices both large and small are limited by racism, sexism, political violence, *and* grinding poverty. (Farmer 2002: 40)
-</quote>
+
 
 In all these formulations, “structural violence” is treated as structures that have violent effects, whether or not actual physical violence is involved. This is actually quite different from my own formulation, more consonant with the feminist tradition (e.g., Scheper-Hughes 1992; Nordstrom and Martin 1992), which sees these more as structures *of* violence—since it is only the constant fear of physical violence that makes them possible, and allows them to have violent effects. Racism, sexism, poverty, these cannot exist except in an environment defined by the ultimate threat of actual physical force. To insist on a distinction only makes sense if one wishes, for some reason, to also insist that there *could* be, for example, a system of patriarchy that operated in the total absence of domestic violence, or sexual assault—despite the fact that, to my knowledge, no such system has ever been observed.
 
@@ -192,7 +176,6 @@ There is another reason I began with that story. As my apparently inexplicable c
 
 I’d like to thank David Apter, Keith Breckenridge, Giovanni da Col, Kryzstina Fevervary, Andrej Grubacic, Casey High, Matthew Hull, Jennifer Jackson, Erica Lagalisse, Lauren Leve, Andrew Mathews, Christina Moon, Stuart Rockefeller, Marina Sitrin, Steve Cupid Theodore, and Hylton White for advice, suggestions and encouragement on this project. The essay is dedicated to my mother, in honor of her moral political commitment, irreverence, and common sense.
 
-<biblio>
 
  - David Apter. 1965. The politics of modernization. Chicago: University of Chicago Press.
 
@@ -325,7 +308,7 @@ I’d like to thank David Apter, Keith Breckenridge, Giovanni da Col, Kryzstina 
  - Virginia Woolf. 1927. To the lighthouse. London: Hogarth.
 
  - World March of Women. 2009. “Violence against women.” Committee for the Abolition of Third World Debt.
-</biblio>
+
 
 [1] This essay is based on the 2006 Malinowski Memorial Lecture entitled “Beyond power/knowledge: An exploration of the relation of power, ignorance and stupidity.” It is a substantially revised version of the one that, for some years, was available online at the LSE website. This version is now meant to be considered the official one for reference purposes.
 

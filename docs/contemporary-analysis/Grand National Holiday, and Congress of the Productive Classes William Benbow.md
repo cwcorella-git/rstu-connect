@@ -1,3 +1,8 @@
+---
+title: "## **Grand National Holiday, and Congress of the Productive Classes: William Benbow**"
+category: "contemporary-analysis"
+---
+
 ## **Grand National Holiday, and Congress of the Productive Classes: William Benbow**
 
 ## **Date:** Unknown

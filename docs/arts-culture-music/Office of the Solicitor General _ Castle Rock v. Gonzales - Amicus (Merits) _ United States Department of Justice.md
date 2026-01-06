@@ -1,3 +1,8 @@
+---
+title: "**Castle Rock v. Gonzales - Amicus (Merits)**"
+category: "arts-culture-music"
+---
+
 #### [justice.gov](https://www.justice.gov/osg/brief/castle-rock-v-gonzales-amicus-merits)
 
 # **Castle Rock v. Gonzales - Amicus (Merits)**

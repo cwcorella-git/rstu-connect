@@ -1,3 +1,8 @@
+---
+title: "## **Imprisoned for a day: a personal reflection**"
+category: "contemporary-analysis"
+---
+
 ## **Imprisoned for a day: a personal reflection**
 
 ## **Date:** Unknown

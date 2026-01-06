@@ -1,3 +1,8 @@
+---
+title: "## [blackrosefed.org](https://www.blackrosefed.org/myth-non-reformist-reforms/)"
+category: "contemporary-analysis"
+---
+
 ## [blackrosefed.org](https://www.blackrosefed.org/myth-non-reformist-reforms/)
 
 ## **The Myth of Non-Reformist Reforms**

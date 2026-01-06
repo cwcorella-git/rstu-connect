@@ -1,16 +1,10 @@
 ---
-title: A World Without Police Study Guide
-slug: A World Without Police Study Guide
-reconversion_status: ready_for_reconversion
-author: Geo Maher
-date: '2021'
-tags:
-  - abolition
-  - police
-  - strikes
-  - unions
-  - rent
+title: "A World Without Police Study Guide"
+author: "Geo Maher"
+date: "2021"
+category: "abolition"
 ---
+
 # **A World Without Police: Study Guide**
 
 ## **Date:** Unknown

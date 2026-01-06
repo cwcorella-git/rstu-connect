@@ -1,3 +1,8 @@
+---
+title: "**Kudzu**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Kudzu)
 
 # **Kudzu**
@@ -94,13 +99,13 @@ Destroying the full underground system, which can be extremely large and deep, i
 
 Mechanical methods of control involve cutting off crowns from roots, usually just below ground level. This immediately kills the plant. Cutting off the above-ground vines is not sufficient for an immediate kill. Destroying all removed crown material is necessary. Buried crowns can regenerate into healthy kudzu. Transporting crowns in soil removed from a kudzu infestation is one common way that kudzu unexpectedly spreads and shows up in new locations.[[citation needed](https://en.wikipedia.org/wiki/Wikipedia:Citation_needed)]
 
-Close mowing every week, regular heavy [grazing](https://en.wikipedia.org/wiki/Grazing) for many successive years, or repeated <u>cultivation</u> may be effective, as this serves to deplete root reserves.<sup>[36]</sup> If done in the spring, cutting off vines must be repeated. Regrowth appears to exhaust the plant's stored <u>carbohydrate</u> reserves. Harvested kudzu can be fed to livestock, burned, or composted. [citation needed]
+Close mowing every week, regular heavy [grazing](https://en.wikipedia.org/wiki/Grazing) for many successive years, or repeated cultivation may be effective, as this serves to deplete root reserves.[36] If done in the spring, cutting off vines must be repeated. Regrowth appears to exhaust the plant's stored carbohydrate reserves. Harvested kudzu can be fed to livestock, burned, or composted. [citation needed]
 
-In the United States, the city of <u>Chattanooga</u>, <u>Tennessee</u>, undertook a trial program in 2010 using <u>goats</u> and <u>Ilamas</u> to graze on the plant. Similar efforts to reduce widespread nuisance kudzu growth have also been undertaken in the cities of <u>Winston-Salem</u>, <u>North Carolina</u>, [38] and <u>Tallahassee</u>, <u>Florida</u>.
+In the United States, the city of Chattanooga, Tennessee, undertook a trial program in 2010 using goats and Ilamas to graze on the plant. Similar efforts to reduce widespread nuisance kudzu growth have also been undertaken in the cities of Winston-Salem, North Carolina, [38] and Tallahassee, Florida.
 
 Prescribed burning is used on old extensive infestations to remove vegetative cover and promote seed germination for removal or treatment. While fire is not an effective way to kill kudzu, [36] equipment, such as a skid loader, can later remove crowns and kill kudzu with minimal disturbance or erosion of soil. [40]
 
-A systemic <u>herbicide</u>, for example, <u>glyphosate</u>, [41] <u>triclopyr</u>, [41] or <u>picloram</u>, [42] can be applied directly on cut stems, which is an effective means of transporting the herbicide into the kudzu's extensive root system. [43] Herbicides can be used after other methods of control, such as mowing, grazing, or burning, which can allow for an easier application of the chemical to the weakened plants. [44] In large-scale forestry infestations, soil-active herbicides have been shown to be highly effective[.\[43\]](#page-19-1)
+A systemic herbicide, for example, glyphosate, [41] triclopyr, [41] or picloram, [42] can be applied directly on cut stems, which is an effective means of transporting the herbicide into the kudzu's extensive root system. [43] Herbicides can be used after other methods of control, such as mowing, grazing, or burning, which can allow for an easier application of the chemical to the weakened plants. [44] In large-scale forestry infestations, soil-active herbicides have been shown to be highly effective[.\[43\]](#page-19-1)
 
 After initial herbicidal treatment, follow-up treatments and monitoring are usually necessary, depending on how long the kudzu has been growing in an area. Up to 10 years of supervision may be needed after the initial chemical placement to make sure the plant does not return[.\[45\]](#page-19-3) Since 1998, the United States' [Agricultural Research Service](https://en.wikipedia.org/wiki/Agricultural_Research_Service) has experimented with using the fungus [Myrothecium](https://en.wikipedia.org/wiki/Myrothecium_verrucaria) [verrucaria](https://en.wikipedia.org/wiki/Myrothecium_verrucaria) as a biologically based herbicide against kudzu.[\[23\]](#page-16-6) A [diacetylverrucarol](https://en.wikipedia.org/wiki/Diacetylverrucarol) spray based on M. verrucaria works under a variety of conditions (including the absence of [dew\)](https://en.wikipedia.org/wiki/Dew), causes minimal injury to many of the other woody plants in kudzuinfested habitats, and takes effect quickly enough that kudzu treated with it in the morning starts showing evidence of damage by midafternoon[.\[23\]](#page-16-6) Initial formulations of the herbicide produced toxic levels of other [trichothecenes](https://en.wikipedia.org/wiki/Trichothecene) as byproducts, though the ARS discovered that growing M.
 

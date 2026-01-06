@@ -1,3 +1,8 @@
+---
+title: "The Wayback Machine - https://web.archive.org/web/20071018071619/http://news.i…"
+category: "contemporary-analysis"
+---
+
 The Wayback Machine - https://web.archive.org/web/20071018071619/http://news.i…
 
 ## ![](_page_0_Picture_3.jpeg)

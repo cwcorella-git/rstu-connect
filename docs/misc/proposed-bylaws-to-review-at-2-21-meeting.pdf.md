@@ -1,14 +1,10 @@
 ---
-date: 2025
-author: Proposed Bylaws To
-tags:
-  - organizing
-  - unions
-  - tenants
-  - housing
-  - rent
 title: "proposed-bylaws-to-review-at-2-21-meeting.pdf"
+author: "Proposed Bylaws To"
+date: "2025"
+category: "misc"
 ---
+
 # proposed-bylaws-to-review-at-2-21-meeting.pdf
 
 *Converted from: `./proposed-bylaws-to-review-at-2-21-meeting.pdf.pdf`*  
@@ -112,4 +108,3 @@ A member in good standing is a voting member who has attended at least 3 meeting
 month period. Committee meetings may be substituted for general meetings.
 
 ---
-

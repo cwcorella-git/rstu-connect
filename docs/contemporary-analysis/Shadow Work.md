@@ -1,3 +1,8 @@
+---
+title: "**Ivan Illich**"
+category: "contemporary-analysis"
+---
+
 # **Ivan Illich**
 
 # **Shadow Work**
@@ -844,6 +849,6 @@ BECKER, Gary S., 'A Theory of Marriage', in: *Journal of Political Economy*, 81,
 
 SKOLKA, Jiti V., 'The Substitution of Self-Service activities for Marketed Services', in: *Review of Income and Wealth,* Ser. 22, 4, 1976, p. 297ff., argues as follows: self-service activities are defined as activities carried out outside the market, having as inputs consumer time, industrial products (mainly durables) and often energy. Increasingly these self-service activities are substituted for marketed services. Thus an increasing part of activities in industrialized countries are productive, yet cannot be recorded by conventional economic measures, since they neither appear on the market nor have market value. Unless the value of self-service, substituted for marketed values, is included in the measurement of the nation's welfare, this measurement becomes meaningless. Yet, any recording of self-service activities implies large-scale imputations, a procedure disliked by statisticians.
 
-<sup>{1}</sup> Valentina Borremans, Guide to Convivial Tools. Library Journal Special Report 13. Published by RR Bowker, 1180 6th Ave, NY 10036, 1979.
+{1} Valentina Borremans, Guide to Convivial Tools. Library Journal Special Report 13. Published by RR Bowker, 1180 6th Ave, NY 10036, 1979.
 
-<sup>&</sup>quot;Illich, Ivan — Shadow Work (Marion Boyars, 1981–2012)" was added by El Vagabundo Argelino.
+&quot;Illich, Ivan — Shadow Work (Marion Boyars, 1981–2012)" was added by El Vagabundo Argelino.

@@ -1,3 +1,8 @@
+---
+title: "**[What Games Are](https://web.archive.org/web/20250913121744/https://www.whatgamesare.com/)**"
+category: "contemporary-analysis"
+---
+
 # **[What Games Are](https://web.archive.org/web/20250913121744/https://www.whatgamesare.com/)**
 
 ## ![](_page_0_Picture_2.jpeg)

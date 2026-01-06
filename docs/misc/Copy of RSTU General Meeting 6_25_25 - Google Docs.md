@@ -1,12 +1,10 @@
 ---
-date: 2025
-author: Google Docs
-tags:
-  - organizing
-  - housing
-  - rent
 title: "Copy of RSTU General Meeting 6_25_25 - Google Docs"
+author: "Google Docs"
+date: "2025"
+category: "misc"
 ---
+
 # Copy of RSTU General Meeting 6_25_25 - Google Docs
 
 *Converted from: `./Copy of RSTU General Meeting 6_25_25 - Google Docs.pdf`*  
@@ -150,4 +148,3 @@ Highlights = follow up in the future
       ●
 
 ---
-

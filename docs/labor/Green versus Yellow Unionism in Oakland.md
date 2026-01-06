@@ -1,3 +1,8 @@
+---
+title: "**Green versus Yellow Unionism in Oakland**"
+category: "labor"
+---
+
 # **Green versus Yellow Unionism in Oakland**
 
 ## **Date:** Wed, 11/11/2015 - 11:48
@@ -72,10 +77,16 @@ City officials, West Oakland neighbors, local environmentalists, local businesse
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | community opposes coal exports |
 | for the following reasons: |
-| Coal dust poses serious health concerns for neighborhoods (like west Oakland) already<br>burdened with a history of environmental injustices and ill-equipped to cope with additional<br>stresses. |
-| Confined and/or covered coal transportation and terminal operations would shift the burden of<br>toxic pollution to workers at the site while also exacerbating risks of fire during transport,<br>storage, and loading. |
+| Coal dust poses serious health concerns for neighborhoods (like west Oakland) already
+burdened with a history of environmental injustices and ill-equipped to cope with additional
+stresses. |
+| Confined and/or covered coal transportation and terminal operations would shift the burden of
+toxic pollution to workers at the site while also exacerbating risks of fire during transport,
+storage, and loading. |
 | Coal dust and leachates can pollute waterways, often with long-lasting impacts. |
-| Exporting coal will drive global climate change at great cost to Oakland families and<br>businesses. Oakland and its citizens are extremely vulnerable to sea level rise, extreme heat<br>and associated diseases, sewer overflow during storm surges, and increased fire risk. |
+| Exporting coal will drive global climate change at great cost to Oakland families and
+businesses. Oakland and its citizens are extremely vulnerable to sea level rise, extreme heat
+and associated diseases, sewer overflow during storm surges, and increased fire risk. |
 | While not an explicitly stated concern of |
 ## | No Coal in Oakland |
 
@@ -111,22 +122,31 @@ Many of those opposed to coal exports were already part of a preexisting coaliti
 | 350 Bay Area |
 | , and |
 | Communities for a Better Environment |
-| . The group had already participated in efforts to prevent the transport of dangerous<br>crude-by-rail through Oakland on its way south to the Phillips-66 refinery in San Luis Obispo,<br>and its members participated in and helped organize |
+| . The group had already participated in efforts to prevent the transport of dangerous
+crude-by-rail through Oakland on its way south to the Phillips-66 refinery in San Luis Obispo,
+and its members participated in and helped organize |
 ## | Rail Con15 |
 
-| in Richmond, California, along with the IWW Environmental Unionism Caucus, the Sunflower<br>Alliance, and |
+| in Richmond, California, along with the IWW Environmental Unionism Caucus, the Sunflower
+Alliance, and |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Railroad Workers United |
 | |
 | Why the Unions Were Mobilized to Oppose Coal Exports |
 | Leading up to the aforementioned scene, |
 | No Coal in Oakland |
-| identified at least three potential prongs of attack to prevent the export of coal through the<br>OBOT: |
-| (1) Challenging the project's legality under California environmental law if coal exports are<br>included. And, in fact, Communities for a Better Environment, Sierra Club, San Francisco<br>Baykeeper, and Asian Pacific Environmental Network haveindependently of |
+| identified at least three potential prongs of attack to prevent the export of coal through the
+OBOT: |
+| (1) Challenging the project's legality under California environmental law if coal exports are
+included. And, in fact, Communities for a Better Environment, Sierra Club, San Francisco
+Baykeeper, and Asian Pacific Environmental Network haveindependently of |
 | No Coal in Oakland |
 | |
 | already |
-| filed a lawsuit seeking a court order requiring the City of Oakland to conduct additional<br>environmental review of the Oakland Global project to study the impact of coal exports. If the<br>lawsuit is successful, the developer could not go through with the coal export plan until<br>environmental review was complete, a process that could take several years; |
+| filed a lawsuit seeking a court order requiring the City of Oakland to conduct additional
+environmental review of the Oakland Global project to study the impact of coal exports. If the
+lawsuit is successful, the developer could not go through with the coal export plan until
+environmental review was complete, a process that could take several years; |
 
 (2) Appealing to various agencies in Utah to reconsider their support if coal exports are included. In April of 2015, the Utah based
 
@@ -146,10 +166,17 @@ The coalition deemed that political pressure from a variety of Oakland based con
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Beyond that, |
 | No Coal in Oakland |
-| includes many members who are trying to coax the climate justice movement in a more class<br>struggle oriented direction (inclusive of both green syndicalism and ecosocialism). To achieve<br>that goal, it will be necessary to cultivate relationships with and forge alliances with union<br>workers, including those involved in the extraction, refining, and transportation of fossil fuels.<br>They recognize that this is one campaign among many to oppose the continued use of fossil<br>fuels and transition to a carbon-free energy economyone that cannot functionally exist under<br>capitalism (hence the resistance by the capitalist class to such a transition). |
+| includes many members who are trying to coax the climate justice movement in a more class
+struggle oriented direction (inclusive of both green syndicalism and ecosocialism). To achieve
+that goal, it will be necessary to cultivate relationships with and forge alliances with union
+workers, including those involved in the extraction, refining, and transportation of fossil fuels.
+They recognize that this is one campaign among many to oppose the continued use of fossil
+fuels and transition to a carbon-free energy economyone that cannot functionally exist under
+capitalism (hence the resistance by the capitalist class to such a transition). |
 | Further, |
 | No Coal in Oakland |
-| hopes to extend southward an emerging barrier to coal and oil exports that has been forming<br>in the Pacific Northwest, sometimes referred to as the |
+| hopes to extend southward an emerging barrier to coal and oil exports that has been forming
+in the Pacific Northwest, sometimes referred to as the |
 | Thin Green Line |
 | , a series of campaigns that has sometimes won the support of unions, such as |
 | ILWU Local 4 |
@@ -169,11 +196,14 @@ Furthermore, the main body of the Alameda County Central Labor Council had passe
 | How |
 | No Coal in Oakland |
 | Mobilized the Unions |
-| Support for the coal export ban from the unions didn't materialize out of thin air. It had to be<br>mobilized and organized from the grassroots. Fortunately, |
+| Support for the coal export ban from the unions didn't materialize out of thin air. It had to be
+mobilized and organized from the grassroots. Fortunately, |
 | No Coal in Oakland |
 | was well placed to do this. The active core group of |
 | No Coal in Oakland |
-| includes over a half dozen union members (including the author), at least three of whom serve<br>as delegates to the Alameda Central Labor Council. Support from some of the unions,<br>including the California Nurses Association and (their parent organization) |
+| includes over a half dozen union members (including the author), at least three of whom serve
+as delegates to the Alameda Central Labor Council. Support from some of the unions,
+including the California Nurses Association and (their parent organization) |
 
 #### National Nurses United
 
@@ -214,13 +244,18 @@ This is due, to no small degree, to the work of the union members in
 | is |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | not |
-| composed of unwashed-out-of-town-jobless-hippies-on-drugs who have no concern for union<br>jobs. |
+| composed of unwashed-out-of-town-jobless-hippies-on-drugs who have no concern for union
+jobs. |
 | No Coal in Oakland |
-| also received the support of some allies, including California Nurses Association organizer<br>Marie Walcek and former union official and current |
+| also received the support of some allies, including California Nurses Association organizer
+Marie Walcek and former union official and current |
 | Movement Generation |
-| organizer Brooke Anderson, who has worked diligently over the past several years to bridge<br>the gap between climate justice activists and unions, including helping to mobilize a sizable<br>union contingent at the " |
+| organizer Brooke Anderson, who has worked diligently over the past several years to bridge
+the gap between climate justice activists and unions, including helping to mobilize a sizable
+union contingent at the " |
 | Summer Heat |
-| " demonstration in Richmond against Chevron in 2013; organizing road trips to Kern County,<br>in the southern end of California's Central Valley for union members to |
+| " demonstration in Richmond against Chevron in 2013; organizing road trips to Kern County,
+in the southern end of California's Central Valley for union members to |
 | witness the detrimental effects of fracking |
 | firsthand; building connections between northern California unions and |
 ## | Trade Unions for Energy Democracy |
@@ -286,7 +321,8 @@ Outside the council chambers I asked other workers if they had been coached to s
 | CBS |
 | affiliate, whose |
 | video coverage |
-| of the event including testimony from another laborer, Eric Tamayo, who confirmed<br>Madrigao's claim (and also declared that he was actually opposed to coal exportsa |
+| of the event including testimony from another laborer, Eric Tamayo, who confirmed
+Madrigao's claim (and also declared that he was actually opposed to coal exportsa |
 
 statement which the KPIX reporter heard and this author witnessed, but didn't make the final print). Clearly this is not what the project's developers had intended or wanted to have the City Council hear or the public to witness, but more significantly, it represents a huge victory for those in the labor movement who seek to reorient it towards climate justice and away from fossil fuel capitalism.
 
@@ -320,9 +356,12 @@ The timing couldn't be better. Globally, the working class is awakening, and rec
 | reeling |
 | from a rapidly declining market, growing opposition, and a string of bad news. The |
 | No Coal in Oakland |
-| campaign may not be the lynch-pin in this shift, but it has almost certainly been a major<br>catalyst. Now its up to green unionists and the climate justice activists to seize the momentum<br>gained there and run with it. We have only the world to lose. |
+| campaign may not be the lynch-pin in this shift, but it has almost certainly been a major
+catalyst. Now its up to green unionists and the climate justice activists to seize the momentum
+gained there and run with it. We have only the world to lose. |
 | Disclaimer: |
-| The views expressed here are not the official position of the IWW (or even the IWW's EUC)<br>and do not necessarily represent the views of anyone but the author's. |
+| The views expressed here are not the official position of the IWW (or even the IWW's EUC)
+and do not necessarily represent the views of anyone but the author's. |
 | Footnote |
 | [ |
 | * |

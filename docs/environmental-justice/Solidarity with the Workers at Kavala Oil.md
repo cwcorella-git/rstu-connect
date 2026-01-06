@@ -1,3 +1,8 @@
+---
+title: "## **Solidarity with the Workers at Kavala Oil**"
+category: "environmental-justice"
+---
+
 ## **Solidarity with the Workers at Kavala Oil**
 
 ## **Date:** Sun, 05/08/2022 - 00:00

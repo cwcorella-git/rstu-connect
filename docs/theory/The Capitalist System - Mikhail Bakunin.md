@@ -1,15 +1,10 @@
 ---
-title: The Capitalist System
-author: Mikhail Bakunin
-slug: the-capitalist-system
-date: 1926
-tags:
-  - theory
-  - anarchism
-  - rent
-  - police
-  - labor
+title: "The Capitalist System"
+author: "Mikhail Bakunin"
+date: "1926"
+category: "theory"
 ---
+
 ## THE CAPITALIST SYSTEM
 
 ## by Michael Bakunin

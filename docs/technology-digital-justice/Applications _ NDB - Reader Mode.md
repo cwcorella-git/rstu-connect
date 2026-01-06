@@ -1,3 +1,8 @@
+---
+title: "Applications | NDB"
+category: "technology-digital-justice"
+---
+
 # Applications | NDB
 
 Universal applicability for countless opportunities
@@ -40,4 +45,4 @@ NDB's safety, power output, and universality transforms this technology into an 
 
 #NDB is an universal life-long self charging green [#battery](https://twitter.com/search?q=%23battery&src=hash) Maximum [#safety](https://twitter.com/search?q=%23safety&src=hash) for the device with a diamond encapsulator, built in thermal vents, boron-doped SCD and a Lock-in System.
 
-[#savetheplanet](https://twitter.com/search?q=%23savetheplanet&src=hash) [#climateaction](https://twitter.com/search?q=%23climateaction&src=hash) [#greenenergy](https://twitter.com/search?q=%23greenenergy&src=hash) [#nuclearwaste](https://twitter.com/search?q=%23nuclearwaste&src=hash) [#innovation](https://twitter.com/search?q=%23innovation&src=hash) <https://t.co/YCrJ9e ZguX>
+[#savetheplanet](https://twitter.com/search?q=%23savetheplanet&src=hash) [#climateaction](https://twitter.com/search?q=%23climateaction&src=hash) [#greenenergy](https://twitter.com/search?q=%23greenenergy&src=hash) [#nuclearwaste](https://twitter.com/search?q=%23nuclearwaste&src=hash) [#innovation](https://twitter.com/search?q=%23innovation&src=hash)

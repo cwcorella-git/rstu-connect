@@ -1,3 +1,8 @@
+---
+title: "## **Anonymous**"
+category: "contemporary-analysis"
+---
+
 ## **Anonymous**
 
 ## **Kill the Couple in Your Head**
@@ -40,7 +45,7 @@ The Couple splits us off from ourselves and the living web of relations, restric
 
 The story of the Couple tells us that another being can complete us, make what is incomplete whole. It is fixed within the feminized 'private' sphere of the home, painting as shameful betrayal the seeking of support or intimacy outside of the unit. As soon as a Couple contract is established, the Relationship becomes a private affair, surgically removed from the friendships it was once embedded within and exempt from the critiques we otherwise apply to our shared lives.
 
-A Relationship litmus test: Can you kill <sup>a</sup> harmful dynamic or pattern without killing your friendship? Can you break up with a certain way of being or relating that does not serve you and remain friends, changed and new? If these two things are indivisible, if killing one means the other dies with it, you might just be in a Couple.
+A Relationship litmus test: Can you kill a harmful dynamic or pattern without killing your friendship? Can you break up with a certain way of being or relating that does not serve you and remain friends, changed and new? If these two things are indivisible, if killing one means the other dies with it, you might just be in a Couple.
 
 Many of us have lost friends to Couples, been cast aside the moment the default order of things becomes possible. This betrayal is generally not seen as significant, if it is acknowledged at all. How many of us have been shunted into a supporting role to the romantic leads — felt like a weird intrusion into the script, an embarrassing and desperate ploy for relevance? We are expected to accept that the bonds of friendship are to be put down and taken back up according to the whims of the Couple – their fights, breakups, and reconciliations. As I resist against my recasting from confidante and companion to occasional coffee date, it becomes clear that my feelings about how the Partners are treating one another, the choices they are making within their Couple, are unwelcome. None of my business. We've seen so much abuse play out in Couples, culminating in traumatic breakups that divide entire crews and wider scenes because of an inability to critically approach the dynamics and behavior that happen within the unit of the Couple in a collective way.
 

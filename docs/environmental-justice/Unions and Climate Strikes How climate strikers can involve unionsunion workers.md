@@ -1,3 +1,8 @@
+---
+title: "## **Unions and Climate Strikes: How climate strikers can involve unions/union workers**"
+category: "environmental-justice"
+---
+
 ## **Unions and Climate Strikes: How climate strikers can involve unions/union workers**
 
 ## **Date:** Mon, 07/01/2019 - 14:07
@@ -28,12 +33,18 @@ While it is tempting to believe we can create enough buzz to convince enough wor
 | ) or at least for the Green New Deal (e.g. the |
 | Massachusetts Teacher's Union |
 | ) are exactly what are needed. |
-| Things can change between now and September 2019 and we cannot predict how that will<br>unfold. |
-| We can recall the immigrant workers' "general strike" on May 1, 2006, in which some unions,<br>notably the Industrial Workers of the World (IWW) and the International Longshore and<br>Warehouse Union (ILWU), participated as a possible forerunner, but again, we cannot<br>guarantee it. |
-| Anyone can call for a general strike, but actually organizing one is much more difficult, as<br>Jane Mc Alevey points out |
+| Things can change between now and September 2019 and we cannot predict how that will
+unfold. |
+| We can recall the immigrant workers' "general strike" on May 1, 2006, in which some unions,
+notably the Industrial Workers of the World (IWW) and the International Longshore and
+Warehouse Union (ILWU), participated as a possible forerunner, but again, we cannot
+guarantee it. |
+| Anyone can call for a general strike, but actually organizing one is much more difficult, as
+Jane Mc Alevey points out |
 | here |
 | |
-| Some unions may participate, but won't publicly announce their intent, because doing so<br>could bring swift retribution from the bosses. |
+| Some unions may participate, but won't publicly announce their intent, because doing so
+could bring swift retribution from the bosses. |
 
 other date, we cannot guarantee it, even though some unions and union officials have
 
@@ -59,10 +70,12 @@ There are a number of "green" unionists who are working on this, including (but 
 |-------------------------------|--|--|--|--|
 ## |-------------------------------|--|--|--|--|
 
-| The IWW Environmental Unionism Caucus will try and keep a record of who in the labor<br>movement is (or who may be) participating in the strikes. Visit our |
+| The IWW Environmental Unionism Caucus will try and keep a record of who in the labor
+movement is (or who may be) participating in the strikes. Visit our |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | website |
-| and enter these tags in the "search" engine (or enter the same hashtags on our social media<br>pages) for news: |
+| and enter these tags in the "search" engine (or enter the same hashtags on our social media
+pages) for news: |
 | #Green Bans |
 | ; # |
 | Earth Strike |
@@ -126,15 +139,20 @@ link
 
 | See Also: |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| TUED Bulletin 88: How Are Unions Around the World Responding to the Youth-Led "Climate<br>Strike" Calls? |
+| TUED Bulletin 88: How Are Unions Around the World Responding to the Youth-Led "Climate
+Strike" Calls? |
 | And: |
 | Union Statements and Actions in Support of the Youth-Led Calls for Global Climate Action |
 | Notable Strike Actions among IWW members |
 | Green Party USA |
 | Staff |
-| - The unionized national staff members of the Green Party of the United States have decided<br>to down tools on Friday in recognition of the existential crisis our planet is facing. They will be<br>participating in street actions in various cities. Members of the Industrial Workers of the World,<br>the Green Party remains the only unionized national political party in the United States. |
+| - The unionized national staff members of the Green Party of the United States have decided
+to down tools on Friday in recognition of the existential crisis our planet is facing. They will be
+participating in street actions in various cities. Members of the Industrial Workers of the World,
+the Green Party remains the only unionized national political party in the United States. |
 | Which Climate/Earth Strike do We Mean? |
-| There is, understandably, some confusion over which "strike" is being endorsed and/or<br>discussed. That is because there are at least two or three independently organized efforts |
+| There is, understandably, some confusion over which "strike" is being endorsed and/or
+discussed. That is because there are at least two or three independently organized efforts |
 
 which seem to be bleeding together (and could very well aggregate as the date(s)
 
@@ -144,15 +162,18 @@ radical left figures. It is called for September 27th -
 
 | earth-strike.com |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ; however in the UK, the date is also set for September 20 and has substantial IWW<br>involvement - |
+| ; however in the UK, the date is also set for September 20 and has substantial IWW
+involvement - |
 | earth-strike.com/en/uk/ |
-| Climate Strike is the Fridays For Future one associated with Greta Thunberg and is called for<br>September 20th - |
+| Climate Strike is the Fridays For Future one associated with Greta Thunberg and is called for
+September 20th - |
 | climatestrike.net |
 | |
 | strikewithus.org |
 | |
 | en español |
-| Global Climate Strike is the 350.org one called for September 20th - 27th, which seems to be<br>an effort to piggyback onto or offer a bridge between the other two - |
+| Global Climate Strike is the 350.org one called for September 20th - 27th, which seems to be
+an effort to piggyback onto or offer a bridge between the other two - |
 | globalclimatestrike.net |
 | In the US, see |
 | this interactive map |
@@ -160,9 +181,11 @@ radical left figures. It is called for September 27th -
 | of events. |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | See also the following video appeal: |
-| Still other efforts may coalesce and/or build off of these, so we recommend staying tuned.<br>Bookmark and revisit this particular alert regularly for updates! |
+| Still other efforts may coalesce and/or build off of these, so we recommend staying tuned.
+Bookmark and revisit this particular alert regularly for updates! |
 | (An incomplete list of) Local Climate Strike Pages: |
 | Bay Area Climate Strike |
 | Strike DC |
 | Disclaimer: |
-| The views expressed here are not the official position of the IWW (or even the IWW's EUC)<br>and do not necessarily represent the views of anyone but the author's. |
+| The views expressed here are not the official position of the IWW (or even the IWW's EUC)
+and do not necessarily represent the views of anyone but the author's. |

@@ -1,20 +1,8 @@
 ---
-title: On Cosmopolitanism and (Vernacular) Democratic Creativity
-author: David Graeber
-date: '2009'
-pubdate: '2023-02-09T21:43:47'
-language: en
-source_url: >-
-  <em>Anthropology and the New Cosmopolitanism: Rooted, Feminist and Vernacular
-  Perspectives</em> (edited by Pnina Werbner), chapter 14, pp. 281-305
-original_format: muse
-converted_date: '2025-11-08T11:25:03.158618'
-tags:
-  - theory
-  - contemporary
-  - unions
-  - rent
-  - police
+title: "On Cosmopolitanism and (Vernacular) Democratic Creativity"
+author: "David Graeber"
+date: "2009"
+category: "contemporary-analysis"
 ---
 
 At the tail-end of the eighteenth century those who called themselves democrats were, according to John Markoff, ‘likely to be very suspicious of parliaments, downright hostile to competitive political parties, critical of secret ballots, uninterested or even opposed to women’s suffrage, and sometimes tolerant of slavery’ (1999: 661) – hardly surprising, for those who wished to revive something along the lines of ancient Athens.
@@ -158,7 +146,7 @@ I’d like to thank Allain Caille, Francis Dupuis-Déris, Magnus Fiskesjo, Andr
 [11] The Aymara movement in Bolivia, to select one fairly random example, chose to reject the word ‘democracy’ entirely on the grounds that in their people’s historical experience the name has only been used for systems imposed on them through violence. I am drawing here on a conversation with Nolasco Mamani (who is, among other things, the Aymara observer at the UN) in London during the European Social Forum 2004.
 
 ### References
-<biblio>
+
 Adams, John (1797), *Defense of the Constitutions of Government of the United States of America, against the Attack of M. Turgot in his Letter to Dr. Price*, dated the twenty-second day of March, 1778. Philadelphia: W. Cobbet.
 
 Arrighi, Giovanni, Iftikhar Ahmad and Miin-wen Shih (1997), ‘Beyond Western Hegemonies’, paper presented at the XXI Meeting of the Social Science History Association, New Orleans, Louisiana, 10–13 October 1996. Available at: http://fbc.binghamton.edu/gaht5.htm.
@@ -284,4 +272,3 @@ Tooker, Elizabeth (1988), ‘The United States Constitution and the Iroquois Lea
 Trouillot, Michel-Rolph (2003), *Global Transformations: Anthropology and the Modern World*, New York: Palgrave.
 
 Žižek, Slavoj (1998), ‘A Leftist Plea for Eurocentrism’, *Critical Inquiry* 24: 989–1009.
-</biblio>

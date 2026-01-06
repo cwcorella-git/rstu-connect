@@ -1,3 +1,8 @@
+---
+title: "## **Pipelines, Pandemics and Capital's Death Cult: A Green Syndicalist View**"
+category: "environmental-justice"
+---
+
 ## **Pipelines, Pandemics and Capital's Death Cult: A Green Syndicalist View**
 
 ## **Date:** Mon, 03/29/2021 - 00:00

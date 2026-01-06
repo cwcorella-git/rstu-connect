@@ -1,3 +1,8 @@
+---
+title: "## **Review - The Lucas Plan: A New Trade Unionism In The Making?**"
+category: "labor"
+---
+
 ## **Review - The Lucas Plan: A New Trade Unionism In The Making?**
 
 ## **Date:** Thu, 05/11/2023 - 00:00

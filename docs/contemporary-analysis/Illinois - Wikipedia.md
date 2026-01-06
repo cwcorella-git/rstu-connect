@@ -1,3 +1,8 @@
+---
+title: "**Illinois**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Illinois)
 
 # **Illinois**
@@ -30,40 +35,85 @@ Land of Lincoln, Prairie State, The Inland Empire State
 
 ## ![](_page_1_Picture_2.jpeg)
 
-| Judiciary | Supreme Court of<br>Illinois |
+| Judiciary | Supreme Court of
+Illinois |
 |--------------------------|----------------------------------------|
-| U. S. senators | Dick Durbin (D)<br>Tammy Duckworth (D) |
-| U. S. House delegation | 14 Democrats<br>3 Republicans (list) |
+| U. S. senators | Dick Durbin (D)
+Tammy Duckworth (D) |
+| U. S. House delegation | 14 Democrats
+3 Republicans (list) |
 | Area | |
-| •<br>Total | 57,915<br>sq<br>mi |
-| | km2)<br>(149,997 |
-| •<br>Land | 55,593<br>sq<br>mi |
-| | km2)<br>(143,969 |
-| •<br>Water | 2,320<br>sq<br>mi |
-| | km2) 3.99%<br>(5,981 |
-| •<br>Rank | 25th |
+| •
+Total | 57,915
+sq
+mi |
+| | km2)
+(149,997 |
+| •
+Land | 55,593
+sq
+mi |
+| | km2)
+(143,969 |
+| •
+Water | 2,320
+sq
+mi |
+| | km2) 3.99%
+(5,981 |
+| •
+Rank | 25th |
 | Dimensions | |
-| •<br>Length | 390<br>mi (628<br>km) |
-| •<br>Width | 210<br>mi (338<br>km) |
-| Elevation | 600<br>ft (180<br>m) |
-| Highest<br>elevation | 1,235<br>ft (376.4<br>m) |
+| •
+Length | 390
+mi (628
+km) |
+| •
+Width | 210
+mi (338
+km) |
+| Elevation | 600
+ft (180
+m) |
+| Highest
+elevation | 1,235
+ft (376.4
+m) |
 ## | (Charles Mound[1][2][a]) | |
 
-| Lowest<br>elevation<br>(Confluence of Mississippi River<br>and Ohio River[2][a]) | 280<br>ft (85<br>m) |
+| Lowest
+elevation
+(Confluence of Mississippi River
+and Ohio River[2][a]) | 280
+ft (85
+m) |
 |----------------------------------------------------------------------------------|----------------------------------------------------|
-| Population<br>(2024) | |
-| •<br>Total | 12,710,158[3] |
-| •<br>Rank | 6th |
-| •<br>Density | mi (89.4/km2)<br>232/sq |
-| •<br>Rank | 12th |
-| •<br>Median household income | \$80,300 (2023)[4] |
-| •<br>Income rank | 17th |
+| Population
+(2024) | |
+| •
+Total | 12,710,158[3] |
+| •
+Rank | 6th |
+| •
+Density | mi (89.4/km2)
+232/sq |
+| •
+Rank | 12th |
+| •
+Median household income | \$80,300 (2023)[4] |
+| •
+Income rank | 17th |
 | Demonyms | Illinoisan |
 | Language | |
-| •<br>Official language | English[5] |
-| •<br>Spoken language | English (80.8%)<br>Spanish (14.9%)<br>Other (5.1%) |
+| •
+Official language | English[5] |
+| •
+Spoken language | English (80.8%)
+Spanish (14.9%)
+Other (5.1%) |
 | Time zone | UTC−06:00 (CST) |
-| •<br>Summer (DST) | UTC−05:00 (CDT) |
+| •
+Summer (DST) | UTC−05:00 (CDT) |
 | USPS abbreviation | IL |
 ## | ISO 3166 code | US-IL |
 
@@ -398,13 +448,35 @@ Source: 1910–202[0\[90\]](#page-100-2)
 
 Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the categories and assigns them to a separate category. Hispanics/Latinos may be of any race.
 
-| Race /<br>Ethnicity<br>(NH<br>=<br>Non<br>Hispanic) | Pop<br>2000[91] | Pop<br>2010[92] | Pop<br>2020[93] | % 2000 |
+| Race /
+Ethnicity
+(NH
+=
+Non
+Hispanic) | Pop
+2000[91] | Pop
+2010[92] | Pop
+2020[93] | % 2000 |
 |------------------------------------------------------------|-----------------|-----------------|-----------------|--------|
-| White<br>alone<br>(NH) | 8,424,140 | 8,167,753 | 7,472,751 | 67.83% |
-| Black or<br>African<br>American<br>alone<br>(NH) | 1,856,152 | 1,832,924 | 1,775,612 | 14.95% |
-| Native<br>American<br>or Alaska<br>Native<br>alone<br>(NH) | 18,232 | 18,849 | 16,561 | 0.15% |
-| Asian<br>alone<br>(NH) | 419,916 | 580,586 | 747,280 | 3.38% |
-| Native<br>Hawaiian | 3,116 | 2,977 | 2,959 | 0.03% |
+| White
+alone
+(NH) | 8,424,140 | 8,167,753 | 7,472,751 | 67.83% |
+| Black or
+African
+American
+alone
+(NH) | 1,856,152 | 1,832,924 | 1,775,612 | 14.95% |
+| Native
+American
+or Alaska
+Native
+alone
+(NH) | 18,232 | 18,849 | 16,561 | 0.15% |
+| Asian
+alone
+(NH) | 419,916 | 580,586 | 747,280 | 3.38% |
+| Native
+Hawaiian | 3,116 | 2,977 | 2,959 | 0.03% |
 
 | or Pacific | | | | |
 |-------------|------------|------------|------------|---------|
@@ -450,27 +522,53 @@ Map of counties in Illinois by racial plurality, per the 2020 U. S. census
 
 ## **Illinois Racial Breakdown of Population**
 
-| Racial<br>composition | 1950[95] | 1960[95] | 1970[95] | 1980[95] | 1990 |
+| Racial
+composition | 1950[95] | 1960[95] | 1970[95] | 1980[95] | 1990 |
 |-----------------------|----------|----------|----------|----------|-------|
 | White | 92.4% | 89.4% | 86.4% | 80.8% | 78.3% |
 | Black | 7.4% | 10.3% | 12.8% | 14.7% | 14.8% |
 ## | Asian | 0.2% | 0.2% | 0.4% | 1.4% | 2.5% |
 
-| Racial<br>composition | 1950[95] | 1960[95] | 1970[95] | 1980[95] | 1990 |
+| Racial
+composition | 1950[95] | 1960[95] | 1970[95] | 1980[95] | 1990 |
 |-----------------------------------------------------|----------|----------|----------|----------|-------|
 | Native | 0% | 0% | 0.1% | 0.1% | 0.2% |
-| Native<br>Hawaiian and<br>other Pacific<br>Islander | — | — | — | — | — |
+| Native
+Hawaiian and
+other Pacific
+Islander | — | — | — | — | — |
 | Other race | — | — | 0.2% | 3% | 4.2% |
-| Two or more<br>races | — | — | — | — | — |
-| Hispanic or<br>Latino | — | — | 3.3% | 5.6% | 7.9% |
-| Non-Hispanic<br>white | — | — | 83.5% | 78% | 74.8% |
+| Two or more
+races | — | — | — | — | — |
+| Hispanic or
+Latino | — | — | 3.3% | 5.6% | 7.9% |
+| Non-Hispanic
+white | — | — | 83.5% | 78% | 74.8% |
 
-| Racial<br>Racial/Ethnic Makeup<br>Makeup of<br>of Illinois excluding<br>Illinois<br>Hispanics from racial | | Racial Makeup<br>of Hispanics in<br>Illinois (2023) |
+| Racial
+Racial/Ethnic Makeup
+Makeup of
+of Illinois excluding
+Illinois
+Hispanics from racial | | Racial Makeup
+of Hispanics in
+Illinois (2023) |
 |-----------------------------------------------------------------------------------------------------------|----------------------------------------------|-------------------------------------------------------|
 | (2023)[100] | categories (2023)[100] | [100] |
-| 1. White alone<br>60.7 (60.7%) | NH=Non-Hispanic<br>1. White NH (57.85%) | 1. White alone<br>(15.02%) |
-| 2. Black alone<br>13.32 (13.3%) | 2. Black NH (13.1%)<br>3. Native American NH | 2. Black alone<br>(1.19%) |
-| 3. Native<br>American<br>alone 0.7 | (0.1%)<br>4. Asian NH (5.93%) | 3. Native American<br>alone (3.15%)<br>4. Asian Alone |
+| 1. White alone
+60.7 (60.7%) | NH=Non-Hispanic
+1. White NH (57.85%) | 1. White alone
+(15.02%) |
+| 2. Black alone
+13.32 (13.3%) | 2. Black NH (13.1%)
+3. Native American NH | 2. Black alone
+(1.19%) |
+| 3. Native
+American
+alone 0.7 | (0.1%)
+4. Asian NH (5.93%) | 3. Native American
+alone (3.15%)
+4. Asian Alone |
 
 | (0.70%) | 5. Pacific Islander NH | (0.5%) |
 |----------------|-------------------------|---------------------|
@@ -497,18 +595,35 @@ The state's most populous ethnic group, non-Hispanic white, has declined from 83
 
 According to 2022 estimates from the American Community Survey, 16% of the population had [German](https://en.wikipedia.org/wiki/German_Americans) ancestry, 14% had [Mexican](https://en.wikipedia.org/wiki/Mexican_Americans) ancestry, 10.4% had [Irish](https://en.wikipedia.org/wiki/Irish_Americans) ancestry, 7.1% had [English](https://en.wikipedia.org/wiki/English_Americans) ancestry, 6.2% had [Polish](https://en.wikipedia.org/wiki/Polish_Americans) ancestry, 5.2% had [Italian](https://en.wikipedia.org/wiki/Italian_Americans) ancestry, 3.4% listed themselves as [American,](https://en.wikipedia.org/wiki/American_ancestry) 2.3% had [Indian](https://en.wikipedia.org/wiki/Indian_Americans) ancestry, 1.7% had [Puerto Rican](https://en.wikipedia.org/wiki/Puerto_Ricans) ancestry, 1.7% had [Swedish](https://en.wikipedia.org/wiki/Swedish_Americans) ancestry, 1.4% had [Filipino](https://en.wikipedia.org/wiki/Filipino_Americans) ancestry, 1.4% had [French](https://en.wikipedia.org/wiki/French_Americans) ancestry, and 1.2% had [Chinese](https://en.wikipedia.org/wiki/Chinese_Americans) ancestry. The state also has a large population of [African-Americans,](https://en.wikipedia.org/wiki/African_Americans) making up 15.3% of the population alone or in combination[.\[107\]](#page-102-1)[\[108\]](#page-102-2)[\[109\]](#page-102-3)[\[110\]](#page-102-4) This table displays all self-reported [ancestries](https://en.wikipedia.org/wiki/Ancestries_of_Americans) with over 50,000 members in Illinois, alone or in combination, according to estimates from the 2022 American Community Survey. Hispanic groups are not distinguished between total and partial ancestry:
 
-| Ancestry | Number in<br>2022<br>(Alone)[111]<br>[112] | Number as of 2022<br>(Alone or in any<br>combination)[113]<br>[114][115] | %<br>Total |
+| Ancestry | Number in
+2022
+(Alone)[111]
+[112] | Number as of 2022
+(Alone or in any
+combination)[113]
+[114][115] | %
+Total |
 |-------------------------------------------------------------------------------------------|--------------------------------------------|--------------------------------------------------------------------------|------------|
 | German | 649,997 | 2,014,297 | 16.0% |
-| Black or<br>African<br>American<br>(Including Afro<br>Caribbean & Sub<br>Saharan African) | 1,689,724 | 1,931,027 | 15.3% |
+| Black or
+African
+American
+(Including Afro
+Caribbean & Sub
+Saharan African) | 1,689,724 | 1,931,027 | 15.3% |
 | Mexican | — | 1,759,842 | 14.0% |
 | Irish | 338,198 | 1,312,888 | 10.4% |
 | English | 278,564 | 891,189 | 7.1% |
 | Polish | 336,810 | 780,152 | 6.2% |
 | Italian | 205,189 | 657,830 | 5.2% |
-| American<br>(Mostly old-stock<br>white Americans | 345,772 | 428,431 | 3.4% |
+| American
+(Mostly old-stock
+white Americans | 345,772 | 428,431 | 3.4% |
 
-| Ancestry | Number in<br>2022 | Number as of 2022<br>(Alone or in any | %<br>Total |
+| Ancestry | Number in
+2022 | Number as of 2022
+(Alone or in any | %
+Total |
 |---------------------|-------------------|---------------------------------------|------------|
 | | (Alone)[111] | combination)[113] | |
 | | [112] | [114][115] | |
@@ -531,7 +646,10 @@ According to 2022 estimates from the American Community Survey, 16% of the popul
 | Greek | 39,290 | 82,360 | 0.7% |
 ## | Russian | 27,532 | 79,623 | 0.6% |
 
-| Ancestry | Number in<br>2022 | Number as of 2022<br>(Alone or in any | %<br>Total |
+| Ancestry | Number in
+2022 | Number as of 2022
+(Alone or in any | %
+Total |
 |--------------|-------------------|---------------------------------------|------------|
 | | (Alone)[111] | combination)[113] | |
 | | [112] | [114][115] | |
@@ -544,7 +662,9 @@ According to 2022 estimates from the American Community Survey, 16% of the popul
 
 At the 2022 estimates from the [U. S. Census Bureau,](https://en.wikipedia.org/wiki/United_States_Census_Bureau) there were 1,810,100 foreign-born inhabitants of the state or 14.4% of the population, with 37.8% from Mexico or Central America, 31% from Asia, 20.2% from Europe, 4.3% from South America, 4.2% from Africa, 1% from Canada, and 0.2% from Oceania[.\[116\]](#page-102-10)[\[117\]](#page-102-11) Of the foreign-born population, 53.5% were [naturalized U. S.](https://en.wikipedia.org/wiki/United_States_nationality_law) [citizens,](https://en.wikipedia.org/wiki/United_States_nationality_law) and 46.5% were not U. S. citizens[.\[118\]](#page-103-0) The top countries of origin for immigrants in Illinois were [Mexico,](https://en.wikipedia.org/wiki/Mexico) [India,](https://en.wikipedia.org/wiki/India) [Poland,](https://en.wikipedia.org/wiki/Poland) the [Philippines](https://en.wikipedia.org/wiki/Philippines) and [China](https://en.wikipedia.org/wiki/China) in 2018[.\[119\]](#page-103-1)
 
-| Place of Birth | Population (2022)<br>[120][121] | % of<br>Total |
+| Place of Birth | Population (2022)
+[120][121] | % of
+Total |
 |----------------------|---------------------------------|---------------|
 | United States | 10,660,218 | 84.7% |
 | Illinois | 8,379,091 | 66.6% |
@@ -553,15 +673,19 @@ At the 2022 estimates from the [U. S. Census Bureau,](https://en.wikipedia.org/w
 | Puerto Rico | 50,577 | 0.4% |
 |------------------------------------------|---------|------|
 | Other US Territories | 2,633 | 0.0% |
-| Born abroad to<br>American parents | 111,714 | 0.9% |
-| Mexico & Central<br>America | 683,766 | 5.4% |
+| Born abroad to
+American parents | 111,714 | 0.9% |
+| Mexico & Central
+America | 683,766 | 5.4% |
 | Mexico | 621,541 | 4.9% |
 | Guatemala | 22,886 | 0.2% |
 | Honduras | 13,811 | 0.1% |
 | El Salvador | 12,097 | 0.1% |
 | Belize | 7,150 | 0.1% |
-| Other Central American<br>countries | 6,281 | 0.0% |
-| Caribbean<br>(Not including Puerto Rico) | 25,258 | 0.2% |
+| Other Central American
+countries | 6,281 | 0.0% |
+| Caribbean
+(Not including Puerto Rico) | 25,258 | 0.2% |
 | Cuba | 6,955 | 0.1% |
 | Jamaica | 6,873 | 0.1% |
 | Haiti | 5,265 | 0.0% |
@@ -574,10 +698,12 @@ At the 2022 estimates from the [U. S. Census Bureau,](https://en.wikipedia.org/w
 |--------------------------------------|---------|------|
 | Brazil | 9,164 | 0.1% |
 | Peru | 6,426 | 0.1% |
-| Other South American<br>countries | 8,815 | 0.1% |
+| Other South American
+countries | 8,815 | 0.1% |
 | Northern America | 17,775 | 0.1% |
 | Canada | 17,632 | 0.1% |
-| Other Northern American<br>countries | 143 | 0.0% |
+| Other Northern American
+countries | 143 | 0.0% |
 | Eastern Europe | 271,358 | 2.2% |
 | Poland | 120,473 | 1.0% |
 | Ukraine | 33,575 | 0.3% |
@@ -585,21 +711,28 @@ At the 2022 estimates from the [U. S. Census Bureau,](https://en.wikipedia.org/w
 | Russia | 14,930 | 0.1% |
 | Bulgaria | 13,464 | 0.1% |
 | Bosnia & Herzegovina | 11,071 | 0.1% |
-| Other Eastern European<br>countries | 62,393 | 0.5% |
+| Other Eastern European
+countries | 62,393 | 0.5% |
 | Western Europe | 30,076 | 0.3% |
 | Germany | 19,611 | 0.2% |
-| Other Western European<br>countries | 10,465 | 0.1% |
+| Other Western European
+countries | 10,465 | 0.1% |
 
 | Southern Europe | 34,997 | 0.3% |
 |--------------------------------------------------------------|---------|------|
 | Italy | 18,660 | 0.1% |
 | Greece | 12,463 | 0.1% |
-| Other Southern European<br>countries | 3,874 | 0.0% |
+| Other Southern European
+countries | 3,874 | 0.0% |
 | Northern Europe | 27,573 | 0.2% |
-| United Kingdom<br>(Including overseas Crown<br>Dependencies) | 19,123 | 0.2% |
+| United Kingdom
+(Including overseas Crown
+Dependencies) | 19,123 | 0.2% |
 | Ireland | 5,465 | 0.0% |
-| Other Northern European<br>countries | 2,985 | 0.0% |
-| Europe, unspecified<br>country | 1,353 | 0.0% |
+| Other Northern European
+countries | 2,985 | 0.0% |
+| Europe, unspecified
+country | 1,353 | 0.0% |
 | East Asia | 137,098 | 1.1% |
 | China | 77,933 | 0.7% |
 | Korea (North & South) | 37,662 | 0.3% |
@@ -612,28 +745,34 @@ At the 2022 estimates from the [U. S. Census Bureau,](https://en.wikipedia.org/w
 | Pakistan | 29,823 | 0.2% |
 |-------------------------------------------|---------|------|
 | Bangladesh | 5,858 | 0.0% |
-| Other South or Central<br>Asian countries | 22,516 | 0.2% |
+| Other South or Central
+Asian countries | 22,516 | 0.2% |
 | Southeast Asia | 131,684 | 1.0% |
 | Philippines | 92,569 | 0.7% |
 | Vietnam | 18,559 | 0.1% |
 | Thailand | 5,268 | 0.0% |
-| Other Southeast Asian<br>countries | 15,288 | 0.1% |
+| Other Southeast Asian
+countries | 15,288 | 0.1% |
 | West Asia | 52,352 | 0.4% |
 | Iraq | 13,341 | 0.1% |
 | Jordan | 8,240 | 0.1% |
 | Syria | 8,130 | 0.1% |
 | Turkey | 5,271 | 0.0% |
-| Other West Asian<br>countries | 17,370 | 0.1% |
-| Asia, unspecified<br>country | 8,366 | 0.1% |
+| Other West Asian
+countries | 17,370 | 0.1% |
+| Asia, unspecified
+country | 8,366 | 0.1% |
 | Sub-Saharan Africa | 63,590 | 0.6% |
 | Nigeria | 22,648 | 0.2% |
 ## | Ghana | 6,018 | 0.0% |
 
 | Ethiopia | 5,069 | 0.0% |
 |----------------------------------------|------------|------|
-| Other Sub-Saharan African<br>countries | 29,855 | 0.3% |
+| Other Sub-Saharan African
+countries | 29,855 | 0.3% |
 | North Africa | 11,924 | 0.1% |
-| Africa, unspecified<br>country | 2,368 | 0.0% |
+| Africa, unspecified
+country | 2,368 | 0.0% |
 | Oceania | 4,211 | 0.0% |
 ## | Total Population | 12,582,032 | 100% |
 
@@ -672,13 +811,62 @@ Births do not add up, because Hispanics are counted both by ethnicity and by rac
 | Live Births by Single Race/Ethnicity of Moth | | | | | | |
 |----------------------------------------------|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|--|
 | Race | 2013[129] | 2014[130] | 2015[131] | 2016[132] | 2017 | |
-| White: | 119,157<br>(75.9%) | 119,995<br>(75.7%) | 119,630<br>(75.6%) | | | |
-| Non<br>Hispanic<br>White | 85,866<br>(54.7%) | 86,227<br>(54.4%) | 85,424<br>(54.0%) | 82,318<br>(53.3%) | 78,925<br>(52.8%) | |
-| Black | 27,692<br>(17.6%) | 28,160<br>(17.8%) | 28,059<br>(17.7%) | 25,619<br>(16.6%) | 25,685<br>(17.2%) | |
-| Asian | 9,848<br>(6.3%) | 10,174<br>(6.4%) | 10,222<br>(6.5%) | 10,015<br>(6.5%) | 9,650<br>(6.5%) | |
-| American<br>Indian | 234<br>(0.1%) | 227<br>(0.1%) | 205<br>(0.1%) | 110<br>(0.0%) | 133<br>(0.1%) | |
-| Hispanic<br>(of any<br>race) | 33<br>454<br>,<br>(21.3%) | 33<br>803<br>,<br>(21.3%) | 33<br>902<br>,<br>(21.4%) | 32<br>635<br>,<br>(21.1%) | 31<br>428<br>,<br>(21.0%) | |
-| Total<br>Illinois | 156,931<br>(100%) | 158,556<br>(100%) | 158,116<br>(100%) | 154,445<br>(100%) | 149,390<br>(100%) | |
+| White: | 119,157
+(75.9%) | 119,995
+(75.7%) | 119,630
+(75.6%) | | | |
+| Non
+Hispanic
+White | 85,866
+(54.7%) | 86,227
+(54.4%) | 85,424
+(54.0%) | 82,318
+(53.3%) | 78,925
+(52.8%) | |
+| Black | 27,692
+(17.6%) | 28,160
+(17.8%) | 28,059
+(17.7%) | 25,619
+(16.6%) | 25,685
+(17.2%) | |
+| Asian | 9,848
+(6.3%) | 10,174
+(6.4%) | 10,222
+(6.5%) | 10,015
+(6.5%) | 9,650
+(6.5%) | |
+| American
+Indian | 234
+(0.1%) | 227
+(0.1%) | 205
+(0.1%) | 110
+(0.0%) | 133
+(0.1%) | |
+| Hispanic
+(of any
+race) | 33
+454
+,
+(21.3%) | 33
+803
+,
+(21.3%) | 33
+902
+,
+(21.4%) | 32
+635
+,
+(21.1%) | 31
+428
+,
+(21.0%) | |
+| Total
+Illinois | 156,931
+(100%) | 158,556
+(100%) | 158,116
+(100%) | 154,445
+(100%) | 149,390
+(100%) | |
 
 - Since 2016, data for births of [Hispanic](https://en.wikipedia.org/wiki/Hispanic_and_Latino_Americans) origin are not collected by race, but included in one Hispanic group; persons of Hispanic origin may be of any race.
 
@@ -688,16 +876,22 @@ The [official language](https://en.wikipedia.org/wiki/Official_language) of Illi
 
 Over 23% of Illinoians speak a language other than English at home, of which [Spanish](https://en.wikipedia.org/wiki/Spanish_language) is by far the most widespread, at more than 13% of the total population[.\[141\]](#page-105-2) A sizeable number of [Polish](https://en.wikipedia.org/wiki/Polish_language) speakers is present in the [Chicago Metropolitan Area.](https://en.wikipedia.org/wiki/Chicago_Metropolitan_Area) [Illinois Country French](https://en.wikipedia.org/wiki/Illinois_Country_French) has mostly gone extinct in Illinois, although it is still celebrated in the [French Colonial Historic](https://en.wikipedia.org/wiki/French_Colonial_Historic_District) [District.](https://en.wikipedia.org/wiki/French_Colonial_Historic_District)
 
-| Language spoken at<br>home | % of Total<br>(2022)[142] | Population<br>(2022) | |
+| Language spoken at
+home | % of Total
+(2022)[142] | Population
+(2022) | |
 |----------------------------------|---------------------------|----------------------|--|
 | English only | 76.1% | 9,067,296 | |
 | Spanish | 13.8% | 1,638,808 | |
-| Other Indo-European<br>languages | 5.8% | 687,797 | |
+| Other Indo-European
+languages | 5.8% | 687,797 | |
 
-| Asian/Pacific Islander<br>languages | 3.1% | 372,475 |
+| Asian/Pacific Islander
+languages | 3.1% | 372,475 |
 |-------------------------------------|------|------------|
 | Other languages | 1.2% | 141,445 |
-| Total population<br>aged 5+ | 100% | 11,907,821 |
+| Total population
+aged 5+ | 100% | 11,907,821 |
 
 ### **Religion**
 

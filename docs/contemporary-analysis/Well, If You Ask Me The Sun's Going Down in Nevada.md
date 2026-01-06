@@ -1,13 +1,21 @@
+---
+title: "## **Well, If You Ask Me: The Sun's Going Down in Nevada**"
+category: "contemporary-analysis"
+---
+
 ## **Well, If You Ask Me: The Sun's Going Down in Nevada**
 
 | Date: Thu, 01/28/2016 - 21:54 |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Source: https://ecology.iww.org/node/1485|
-| Tags: If You Ask Me, Dano T Bob, solar power, solar communism, American Legislative Exchange<br>Council (ALEC), Nevada, just transition, renewable energy workers, renewable energy |
+| Tags: If You Ask Me, Dano T Bob, solar power, solar communism, American Legislative Exchange
+Council (ALEC), Nevada, just transition, renewable energy workers, renewable energy |
 | By Dano T. Bob - |
 | IWW Environmental Unionism Caucus |
 | , January 30, 2016 |
-| Boy, the state government and utility commission of Nevada sure know how to kill some jobs!<br>In the most recent installment of the corporate fossil fuel utility attack on renewable energy,<br>Nevada just pulled the plug on viable |
+| Boy, the state government and utility commission of Nevada sure know how to kill some jobs!
+In the most recent installment of the corporate fossil fuel utility attack on renewable energy,
+Nevada just pulled the plug on viable |
 | Net Metering |
 | for solar energy, thus all but killing the nascent solar industry there. |
 | Here's the word from |
@@ -37,15 +45,20 @@ Amid the policy turmoil, Solar City opened a 13,000-square-foot training center 
 
 Oh, except now they have responded…you can read about it here as well as the ongoing struggle over the grandfathering clause for folks who already have solar installed and are looking to get ripped off by the state of Nevada on behalf of wealthy corporate fossil fuel utilities.
 
-| "Solar companies say the new policy effectively kills Nevada's rooftop solar market. Several<br>companies have already been forced to |
+| "Solar companies say the new policy effectively kills Nevada's rooftop solar market. Several
+companies have already been forced to |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | shut down operations |
-| there. Solar City, the largest solar installer in the state, was forced to close all operations,<br>laying off 550 workers and shuttering a new |
+| there. Solar City, the largest solar installer in the state, was forced to close all operations,
+laying off 550 workers and shuttering a new |
 | training center |
 | |
-| "There are no jobs to train at the center for," said Chandler Sherman, public affairs manager<br>for Solar City." |
-| "It will destroy the rooftop solar industry in one of the states with the most sunshine…There is<br>so much wrong with the decision," said Solar City CEO Lydon Rive. " |
-| The one beneficiary of this decision would be NV Energy, whose monopoly will have been<br>protected. |
+| "There are no jobs to train at the center for," said Chandler Sherman, public affairs manager
+for Solar City." |
+| "It will destroy the rooftop solar industry in one of the states with the most sunshine…There is
+so much wrong with the decision," said Solar City CEO Lydon Rive. " |
+| The one beneficiary of this decision would be NV Energy, whose monopoly will have been
+protected. |
 | " |
 | This article |
 | goes on to say, |
@@ -60,7 +73,8 @@ not the only threat to the profits of NV Energy. A consortium of casinos and bus
 | These forces are pushing the same bills and policies in |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Arizona, Florida, Kansas, Ohio |
-| , (which you can read about in the embedded link) Utah and more, and my most frequent topic<br>of conversation West Virginia. You can read about that struggle |
+| , (which you can read about in the embedded link) Utah and more, and my most frequent topic
+of conversation West Virginia. You can read about that struggle |
 | here |
 | as well, were the rules for Net Metering where screwed with last year. |
 | One interesting avenue of reform to combat the corporate fossil fuel utility model is via |

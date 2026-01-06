@@ -1,3 +1,8 @@
+---
+title: "**Albert Parsons**"
+category: "labor"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 # **Albert Parsons**
@@ -66,21 +71,21 @@ Unit "Lone Star Greys" (irregular)
 
 In 1859, at the age of 11, Albert left his brother's household to go live with a sister in Waco, Texas. [4]
 
-Parsons attended school for about a year before leaving to become an <u>apprentice</u> at the <u>Galveston</u> <u>Daily</u> <u>News</u>, a relationship that Parsons characterized as being "<u>indentured</u>" for seven years in order to learn the printers' trade. [4]
+Parsons attended school for about a year before leaving to become an apprentice at the Galveston Daily News, a relationship that Parsons characterized as being "indentured" for seven years in order to learn the printers' trade. [4]
 
 #### **Civil War and Reconstruction**
 
 The coming of the American Civil War in 1861, or "the slave-holders' Rebellion," as he later called it, led Parsons to leave what he described as the "printer's devil": the position of newsboy. [4] At 13 years old, Parsons volunteered to fight for the forces of the Confederate States of America in an irregular unit known as the "Lone Star Greys." [4] Parsons' first military exploit was aboard the passenger steamer *Morgan* which ventured into the Gulf of Mexico to intercept and capture the forces of General David E. Twiggs, who had evacuated Texas en route to Washington, D. C. [4]
 
-Upon his return, Parsons sought to enlist in the regular <u>Confederate States Army</u>, an idea ridiculed by his employer and guardian at the time, publisher <u>Willard Richardson</u> of the Galveston *Daily News*. Parsons left his job at the paper, joining an <u>artillery</u> company at a hastily constructed fort at <u>Sabine Pass</u>, Texas, where an elder brother was the captain of an <u>infantry</u> company. For a year, Parsons participated in <u>military drill</u> and served as a "powder monkey" for the cannoneers. Upon the expiration of his first enlistment, Parsons left Fort Sabine to join the <u>cavalry</u> unit of the brother
+Upon his return, Parsons sought to enlist in the regular Confederate States Army, an idea ridiculed by his employer and guardian at the time, publisher Willard Richardson of the Galveston *Daily News*. Parsons left his job at the paper, joining an artillery company at a hastily constructed fort at Sabine Pass, Texas, where an elder brother was the captain of an infantry company. For a year, Parsons participated in military drill and served as a "powder monkey" for the cannoneers. Upon the expiration of his first enlistment, Parsons left Fort Sabine to join the cavalry unit of the brother
 
 ## ![](_page_1_Picture_7.jpeg)
 
 Lucy Parsons, as she appeared in 1886.
 
-who had previously brought him to Texas, the <u>12th Regiment of Texas Cavalry</u>, also known as "Parsons' Mounted Volunteers." Albert Parsons was a member of the "Mc Inoly Scouts" and saw battle during three separate campaigns. [5]
+who had previously brought him to Texas, the 12th Regiment of Texas Cavalry, also known as "Parsons' Mounted Volunteers." Albert Parsons was a member of the "Mc Inoly Scouts" and saw battle during three separate campaigns. [5]
 
-After the war, Parsons returned to Waco, Texas and traded his mule for 40 acres (160,000 m<sup>2</sup>) of standing corn. He hired ex-slaves to help with the harvest and netted a sufficient sum from the sale of the crop to pay for six months' tuition at Waco University, today known as <u>Baylor</u>, a private <u>Baptist</u> college. [5]
+After the war, Parsons returned to Waco, Texas and traded his mule for 40 acres (160,000 m2) of standing corn. He hired ex-slaves to help with the harvest and netted a sufficient sum from the sale of the crop to pay for six months' tuition at Waco University, today known as Baylor, a private Baptist college. [5]
 
 After his time in college, Parsons left to take up the printing trade, first working in a printing office before launching his own newspaper, the Waco *Spectator*, in 1868. In his paper, Parsons took the unpopular position of accepting the terms of surrender and Reconstruction measures aimed at securing the political rights of former slaves.[\[7\]](#page-8-5) This proved to be a pivotal moment in the 20-year-old's life, as he later recalled in his memoirs:
 

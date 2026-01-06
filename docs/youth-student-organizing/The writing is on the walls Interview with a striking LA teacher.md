@@ -1,3 +1,8 @@
+---
+title: "## **"The writing is on the walls": Interview with a striking LA teacher**"
+category: "youth-student-organizing"
+---
+
 ## **"The writing is on the walls": Interview with a striking LA teacher**
 
 ## **Date:** Unknown

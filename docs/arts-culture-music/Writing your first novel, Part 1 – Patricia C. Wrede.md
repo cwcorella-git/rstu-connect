@@ -1,3 +1,8 @@
+---
+title: "**Writing your first novel, Part 1 – Patricia C. Wrede**"
+category: "arts-culture-music"
+---
+
 #### [pcwrede.com](https://pcwrede.com/pcw-wp/writing-your-first-novel-part-1/)
 
 # **Writing your first novel, Part 1 – Patricia C. Wrede**

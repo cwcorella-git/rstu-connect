@@ -1,3 +1,8 @@
+---
+title: "## [obamawhitehouse.archives.gov](https://obamawhitehouse.archives.gov/the-press-office/2014/04/10/r"
+category: "contemporary-analysis"
+---
+
 ## [obamawhitehouse.archives.gov](https://obamawhitehouse.archives.gov/the-press-office/2014/04/10/remarks-president-lbj-presidential-library-civil-rights-summit)
 
 ## **Remarks by the President at LBJ Presidential Library Civil Rights Summit**

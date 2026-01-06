@@ -1,3 +1,8 @@
+---
+title: "## **"'Women of Peace' We Are Not": Feminist Militants in the West German Autonomen - Patricia Melze"
+category: "feminist-theory"
+---
+
 ## **"'Women of Peace' We Are Not": Feminist Militants in the West German Autonomen - Patricia Melzer**
 
 ## **Date:** Unknown

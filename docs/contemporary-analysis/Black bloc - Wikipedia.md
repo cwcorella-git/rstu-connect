@@ -1,3 +1,8 @@
+---
+title: "**Black bloc**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Black_bloc)
 
 # **Black bloc**

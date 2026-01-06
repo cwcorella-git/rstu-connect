@@ -1,3 +1,8 @@
+---
+title: "## **Laid-off Sierra Club Staffers: 'We Can't Give Up on United Fronts'**"
+category: "organizing"
+---
+
 ## **Laid-off Sierra Club Staffers: 'We Can't Give Up on United Fronts'**
 
 ## **Date:** Tue, 08/08/2023 - 00:00

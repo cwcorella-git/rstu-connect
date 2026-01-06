@@ -1,12 +1,8 @@
 ---
-title: 1964 Sudanese General Strike
-date: 2025
-author: Global Nonviolent Action Database
-tags:
-  - organizing
-  - strikes
-  - unions
-  - police
+title: "1964 Sudanese General Strike"
+author: "Global Nonviolent Action Database"
+date: "2025"
+category: "labor"
 ---
 
 # 1964 Sudanese General Strike

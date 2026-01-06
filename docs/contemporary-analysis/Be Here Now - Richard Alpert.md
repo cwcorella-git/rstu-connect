@@ -1,3 +1,8 @@
+---
+title: "1"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 ## ![](_page_1_Picture_0.jpeg)
@@ -556,7 +561,7 @@ It was just too impossible that this could have happened this way. The guy I was
 
 Up until then I had two categories for "psychic experience." One was 'they happened to somebody else and they haven't happened to me, and they were terribly interesting and we certainly had to keep an open mind about it.' That was my social science approach. The other one was, 'well, man, I'm high on LSD.
 
-## <sup>&</sup>quot;Um-hum."
+## &quot;Um-hum."
 
 Who knows how it really is? After all, under the influence of a chemical, how do I know I'm not creating the whole thing?' Because, in fact, I had taken certain chemicals where I experienced the creation of total realities. The greatest example I have of this came about through a drug called JB 318, which I took in a room at Millbrook. I was sitting on the 3rd floor and it seemed like nothing was happening at all. And into the room walked a girl from the community with a pitcher of lemonade and she said, would I like some lemonade, and I said that would be great, and she poured the lemonade, and she poured it and she kept pouring and the lemonade went over the side of the glass and fell to the floor and it went across the floor and up the wall and over the ceiling and down the wall and under my pants which got wet and it came back up into the glass—and when it touched the glass the glass disappeared and the lemonade disappeared and the wetness in my pants disappeared and the girl disappeared and I turned around to Ralph Metzner and I said,
 
@@ -967,7 +972,8 @@ PRETTY FIERCE JOURNEY PRETTY FIERCE REQUIREMENT WE WANTER VOLUNTEERS
 | WHYWOULD | YOU'LL BE BEYOND THAT. |
 | "III (MOSED | ANYONE GO ON A TRIP LIKE THAT? ADVENTURE? |
 | WELL: THE | ONE THING ABOUT AN ADVENTURE IS: |
-| THE ADVE | NTURER WANTS TO STAY AROUND<br>AND ADVENTURE. AND: |
+| THE ADVE | NTURER WANTS TO STAY AROUND
+AND ADVENTURE. AND: |
 | IF HE'S GOIN | IG TO BE CRISPED IN THE PROCESS |
 | THERE'S G | OING/TOBE NO ADVENTURER LEFT |
 | TO HAVE | HAD THE ADVENTURE. |

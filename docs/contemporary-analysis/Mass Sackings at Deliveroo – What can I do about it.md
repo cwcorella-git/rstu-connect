@@ -1,3 +1,8 @@
+---
+title: "**Mass Sackings at Deliveroo – What can I do about it?**"
+category: "contemporary-analysis"
+---
+
 # **Mass Sackings at Deliveroo – What can I do about it?**
 
 ## **Date:** Unknown

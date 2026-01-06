@@ -1,3 +1,8 @@
+---
+title: "![](_page_0_Picture_2.jpeg)"
+category: "theory"
+---
+
 ![](_page_0_Picture_2.jpeg)
 
 [Library](https://nakamotoinstitute.org/library/)
@@ -16,7 +21,7 @@ Therefore, privacy in an open society requires anonymous transaction systems. Un
 
 Privacy in an open society also requires cryptography. If I say something, I want it heard only by those for whom I intend it. If the content of my speech is available to the world, I have no privacy. To encrypt is to indicate the desire for privacy, and to encrypt with weak cryptography is to indicate not too much desire for privacy. Furthermore, to reveal one's identity with assurance when the default is anonymity requires the cryptographic signature.
 
-We cannot expect governments, corporations, or other large, faceless organizations to grant us privacy out of their bene��cence. It is to their advantage to speak of us, and we should expect that they will speak. To try to prevent their speech is to ��ght against the realities of information. Information does not just want to be free, it longs to be free. Information expands to ��ll the available storage space. Information is Rumor's younger, stronger cousin; Information is ��eeter of foot, has more eyes, knows more, and understands less than Rumor.
+We cannot expect governments, corporations, or other large, faceless organizations to grant us privacy out of their benecence. It is to their advantage to speak of us, and we should expect that they will speak. To try to prevent their speech is to ght against the realities of information. Information does not just want to be free, it longs to be free. Information expands to ll the available storage space. Information is Rumor's younger, stronger cousin; Information is eeter of foot, has more eyes, knows more, and understands less than Rumor.
 
 We must defend our own privacy if we expect to have any. We must come together and create systems which allow anonymous transactions to take place. People have been defending their own privacy for centuries with whispers, darkness, envelopes, closed doors, secret handshakes, and couriers. The technologies of the past did not allow for strong privacy, but electronic technologies do.
 

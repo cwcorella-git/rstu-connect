@@ -1,3 +1,8 @@
+---
+title: "WILL STORR"
+category: "contemporary-analysis"
+---
+
 'A master storyteller'
 ## Helen Lewis
 
@@ -58,37 +63,150 @@ All rights reserved under International and Pan-American Copyright Conventions. 
 
 | Cover |
 |------------------------------------------------------------------------------|
-| Title<br>Page |
+| Title
+Page |
 | Copyright |
 | Dedication |
 | Epigraph |
 | Prologue |
 | |
-| Chapter<br>1:<br>The<br>Life<br>and<br>Afterlife<br>of<br>Ben<br>Gunn |
-| Chapter<br>2:<br>Getting<br>Along,<br>Getting<br>Ahead |
-| Chapter<br>3:<br>An<br>Imagined<br>World<br>of<br>Symbols |
-| Chapter<br>4:<br>An<br>Imagined<br>World<br>of<br>Rules |
-| Chapter<br>5:<br>The<br>Three<br>Games |
-| Chapter<br>6:<br>Prestige<br>Games |
-| Chapter<br>7:<br>Dominance<br>Games |
-| Chapter<br>8:<br>Male,<br>Grandiose,<br>Humiliated:<br>The<br>Game's<br>Most |
+| Chapter
+1:
+The
+Life
+and
+Afterlife
+of
+Ben
+Gunn |
+| Chapter
+2:
+Getting
+Along,
+Getting
+Ahead |
+| Chapter
+3:
+An
+Imagined
+World
+of
+Symbols |
+| Chapter
+4:
+An
+Imagined
+World
+of
+Rules |
+| Chapter
+5:
+The
+Three
+Games |
+| Chapter
+6:
+Prestige
+Games |
+| Chapter
+7:
+Dominance
+Games |
+| Chapter
+8:
+Male,
+Grandiose,
+Humiliated:
+The
+Game's
+Most |
 | Lethal |
-| Chapter<br>9:<br>Change<br>the<br>Rules,<br>Change<br>the<br>Player |
-| Chapter<br>10:<br>The<br>Slot<br>Machine<br>for<br>Status |
-| Chapter<br>11:<br>The<br>Flaw |
-| Chapter<br>12:<br>The<br>Universal<br>Prejudice |
-| Chapter<br>13:<br>Living<br>the<br>Dream |
-| Chapter<br>14:<br>Subjugation,<br>Revolution,<br>Civilisation |
-| Chapter<br>15:<br>Making<br>a<br>Player |
-| Chapter<br>16:<br>Believing<br>the<br>Dream |
-| Chapter<br>17:<br>Goldrush! |
-| Chapter<br>18:<br>War<br>Games |
-| Chapter<br>19:<br>The<br>Tyranny<br>of<br>the<br>Cousins |
-| Chapter<br>20:<br>Victims,<br>Warriors,<br>Witches |
-| Chapter<br>21:<br>Lost<br>in<br>a<br>Dream |
-| Chapter<br>22:<br>Status<br>Generating<br>Machines |
-| Chapter<br>23:<br>Annihilation<br>Part<br>Two |
-| Chapter<br>24:<br>The<br>Road<br>Out<br>of<br>Hell |
+| Chapter
+9:
+Change
+the
+Rules,
+Change
+the
+Player |
+| Chapter
+10:
+The
+Slot
+Machine
+for
+Status |
+| Chapter
+11:
+The
+Flaw |
+| Chapter
+12:
+The
+Universal
+Prejudice |
+| Chapter
+13:
+Living
+the
+Dream |
+| Chapter
+14:
+Subjugation,
+Revolution,
+Civilisation |
+| Chapter
+15:
+Making
+a
+Player |
+| Chapter
+16:
+Believing
+the
+Dream |
+| Chapter
+17:
+Goldrush! |
+| Chapter
+18:
+War
+Games |
+| Chapter
+19:
+The
+Tyranny
+of
+the
+Cousins |
+| Chapter
+20:
+Victims,
+Warriors,
+Witches |
+| Chapter
+21:
+Lost
+in
+a
+Dream |
+| Chapter
+22:
+Status
+Generating
+Machines |
+| Chapter
+23:
+Annihilation
+Part
+Two |
+| Chapter
+24:
+The
+Road
+Out
+of
+Hell |
 
 ## Chapter 25: The Neoliberal Self
 
@@ -124,7 +242,7 @@ Part of the reason we keep making the same mistakes, and tipping into groupish c
 
 What follows is an investigation, based on research spanning psychology, anthropology, sociology, economics and history, into the hidden structure of human life. In order to reveal its secret patterns, we're going to travel back to our evolutionary roots and to the Soviet Union, the Republic of Niger and an island community in Micronesia where they grow enormous yams. We're going to discover what Nazi Germany, the British Industrial Revolution and the USA's Satanic Panic of the 1980s have in common. We're going to climb into the minds of anti-vaccination conspiracy theorists, misogynist spree killers, cult members, online mobbers and racists. We'll discover a new way of dening tyranny – of what happens when status games go bad. We're going to recount the story of the world in an unusual manner: one in which self and culture change as the rules of status games are rewritten, mostly accidentally. We're going to dene three dierent forms of the status game – the dominance game, the virtue game and the success game – and ask how certain kinds of play can lead us into a fairer, wealthier tomorrow. Finally we'll attend to some practical advice that seeks to assist us in playing our personal games of life.
 
-The Status Game builds on two of my previous books. The Heretics (2013) asked how intelligent people end up believing crazy things. I concluded we're especially vulnerable to irrationality when the 'facts' in question serve to boost or threaten the heroic story we tell of ourselves. Sel<sup>e</sup> (2017) was a journey into the self and the ways in which evolution, culture and economy shape who we are. It proposed (in an argument briey reprised here in chapter 25) that our highly individualistic neoliberal economy has thrown the West into an unhealthy 'age of perfectionism'. In the pages that follow, I'll bring these threads together and tie them into something new.
+The Status Game builds on two of my previous books. The Heretics (2013) asked how intelligent people end up believing crazy things. I concluded we're especially vulnerable to irrationality when the 'facts' in question serve to boost or threaten the heroic story we tell of ourselves. Sele (2017) was a journey into the self and the ways in which evolution, culture and economy shape who we are. It proposed (in an argument briey reprised here in chapter 25) that our highly individualistic neoliberal economy has thrown the West into an unhealthy 'age of perfectionism'. In the pages that follow, I'll bring these threads together and tie them into something new.
 
 If you've arrived from my preceding book, The Science of Storytelling (2019), you'd be forgiven for wondering if you're about to tumble into a gigantic contradiction. I went to some lengths to persuade you that your brain is a storyteller and now, here I am, insisting it's a game player. But as I hope will become clear, this is actually a parallel argument investigated at a deeper level. If the conscious experience is organised as a story, this book concerns the subconscious truth that lies underneath.
 
@@ -136,7 +254,7 @@ AS HE RAISED a steel chair leg in the air and brought it down onto the head of h
 
 Ben was 14. His victim, Brian, was 11. Earlier that day, they'd escaped from their care home. In the grounds of an empty school they'd discovered a pile of broken furniture and had a play ght. When they were nished, Ben accidentally let slip a secret. He couldn't believe what he'd said. If his confession was revealed he felt sure he'd be rejected by all of society, spat on in the street, rendered utterly worthless. 'There was no thought process. I just knew I'd told him and he'd tell the world. I was overwhelmed by emotion. Within a second, I was hitting him with a chair leg because I knew I'd destroyed myself.'
 
-Ben ran to a phone box and dialled 999: 'I've killed a boy. I hit him with a stick and I think I strangled him.' Brian was found with a piece of his skull missing. He died, three days later, at Cardi Royal Inrmary. Ben only discovered he was dead when his solicitor told him, 'Well, you know it's going to be murder now. Did nobody tell you?' When they sentenced him to an indenite term at Her Majesty's pleasure he was wearing his school uniform. They took him down before the judge had even nished his summing up: 'You killed <sup>a</sup> boy without rhyme or reason. You brought his life to an end without any motive in circumstances which you know amounted to murder …'
+Ben ran to a phone box and dialled 999: 'I've killed a boy. I hit him with a stick and I think I strangled him.' Brian was found with a piece of his skull missing. He died, three days later, at Cardi Royal Inrmary. Ben only discovered he was dead when his solicitor told him, 'Well, you know it's going to be murder now. Did nobody tell you?' When they sentenced him to an indenite term at Her Majesty's pleasure he was wearing his school uniform. They took him down before the judge had even nished his summing up: 'You killed a boy without rhyme or reason. You brought his life to an end without any motive in circumstances which you know amounted to murder …'
 
 In prison, they treated him as if he was worthless. During an early cell search, 'they piled everything on the oor, all my clothes, bedding, everything I owned, then just marched out'. Ben was outraged. He refused to tidy up and slept on the oor for three nights. A direct order was issued. He still refused. They sent him to solitary connement. There he sat alone in a cold cell. This was his world now. He was a child murderer, the lowest of the low. He had nothing. He was no one.
 
@@ -952,7 +1070,7 @@ And yet both their population and territory were expanding. They'd achieve this 
 
 Societies like the Marind's thrive because human identity is uid and creative. It's not basic markers such as sex, race or nationality that ultimately dene us, it's our imagined games. Of course, we can play those kinds of games, and often do, but they're not compulsory. It's even possible to play status games in opposition to our born identity. In recent years a number of white people in the US have been caught playing ethnic minority identity games, earning status by 'passing' dishonestly as black. In 2020, a white associate professor of African history, Jessica Krug, resigned from her job having admitted assuming 'identities within a Blackness that I had no right to claim' for the 'better part' of her adult life. Krug's status play included anti-white beliefs. During the ensuing scandal, an Afro-Latino man she'd briey dated told reporters, 'I have never met anyone more racist than her. It was all F whites, F the police, F capitalism, all of that stu. You could not believe the look on her face when I revealed I had friends of all races. I feared she was ready to stght me if I challenged any of her views.'
 
-Krug was showing her date who she was, which game she was playing and by what criteria she was claiming status. When we defend our sacred beliefs, like this, we're defending our experience of the world and our perceived value within it. But we don't only defend our positions from attack. We go on the oensive. You might've had the experience of meeting someone new and having them pepper their initial conversation with ambiguous remarks about politicians, say, or controversial news events. When this happens, you're usually being tested. The speaker is asking, what game is this person playing? Are they kin? Are we going be <sup>a</sup> source of status for one another? Or is this an opponent, playing <sup>a</sup> rival game? In their use of these tender prods, they're prowling the edge of your neural territory, on high alert for any clue that might betray whether you're playmate or enemy.
+Krug was showing her date who she was, which game she was playing and by what criteria she was claiming status. When we defend our sacred beliefs, like this, we're defending our experience of the world and our perceived value within it. But we don't only defend our positions from attack. We go on the oensive. You might've had the experience of meeting someone new and having them pepper their initial conversation with ambiguous remarks about politicians, say, or controversial news events. When this happens, you're usually being tested. The speaker is asking, what game is this person playing? Are they kin? Are we going be a source of status for one another? Or is this an opponent, playing a rival game? In their use of these tender prods, they're prowling the edge of your neural territory, on high alert for any clue that might betray whether you're playmate or enemy.
 
 The extent of our warlike nature has been controversial. It's been argued humans have a biological switch that, when activated, means our games automatically attack foes with violence. Most scholars now think this isn't true. Some even argue life in the Stone Age lacked war pretty much entirely. This seems incorrect for a number of reasons. One of the rst major crosscultural studies of intergroup conict among hunter-gatherers found that, while some groups were peaceful, 90 per cent fought wars more often than 'rarely or never', with the majority ghting regularly. Most systematic studies support the argument that warfare was common. Whilst intergroup violence might not be automatic, it is an undeniable human tendency. In the modern era, it can be found at all scales of society, from gang violence to religious sectarianism to state terrorism to civil and international war. The sad fact is, for all the astonishing levels of nonviolence we extend towards our kin, when it comes to the aggression of game-versus-game we remain, according to anthropologist Professor Richard Wrangham, 'exceptionally' violent.
 
@@ -1040,7 +1158,7 @@ Some of Templer's readers voiced support, but others began turning against her. 
 
 Templer relented. In a follow-up blog entitled 'Words Matter' she confessed to being 'insensitive' and 'horrible' and 'careless' for treating India like a 'backdrop for white people' and perpetuating 'the harmful notion that Indians (and POC in general) are "other," or even to be feared'. She ended by apologising yet again, 'profusely to everyone I hurt, and to everyone who has taken any kind of heat for calling me out on it. I was wrong, and the women who took the risk to speak out were right.'
 
-It's haunting to witness the parallels between what anthropologists nd in premodern societies and what we see, here, in the twenty-rst-century tribal battlegrounds of social media. Templer's initial response to her accusers recalls the account from the Gebusi, in which the accused worriedly its between defence and confession: 'He's my own relative, too, I couldn't make him sick. I don't know … I might have been <sup>a</sup> little angry from not eating enough sh lately.' It's in the sense, if not the reality, of a ferociously growing consensus against the deviant. It's in the gossip, the social distancing, the shaming. It's in the extremely local weirdness of the accusations. For players living inside the accusers' dream, it was apparently obvious how their target had transgressed the rules. But to those outside it, her crime was obscure: Templer had viewed the magic trumpets. For her sin the cousins had coalesced for attack and were building consensus against her, in all their righteousness and thirst.
+It's haunting to witness the parallels between what anthropologists nd in premodern societies and what we see, here, in the twenty-rst-century tribal battlegrounds of social media. Templer's initial response to her accusers recalls the account from the Gebusi, in which the accused worriedly its between defence and confession: 'He's my own relative, too, I couldn't make him sick. I don't know … I might have been a little angry from not eating enough sh lately.' It's in the sense, if not the reality, of a ferociously growing consensus against the deviant. It's in the gossip, the social distancing, the shaming. It's in the extremely local weirdness of the accusations. For players living inside the accusers' dream, it was apparently obvious how their target had transgressed the rules. But to those outside it, her crime was obscure: Templer had viewed the magic trumpets. For her sin the cousins had coalesced for attack and were building consensus against her, in all their righteousness and thirst.
 
 In the end, she saved herself. At the time of writing, Templer's company still exists, as does her blog. By conforming to the tyrannical cousins, and the frenzy spreading across the gossip networks of social media, she avoided being 'cancelled' – which is what we call it when internet mobs, unsatised by mockery, denunciation and humiliation meted out online, attempt at having their target de-graded as much as possible in the physical world. The eects of a cancellation can be as mild as the loss of limited amounts of work or as severe as the destruction of livelihood and reputation – or worse. Examples are numerous and easy to nd. In recent years, academics have been denounced and had papers retracted and honorics removed; public intellectuals have been 'de-platformed' from events; journalists, editors, agents and business leaders have been red or forced to resign; athletes and authors have lost contracts; businesses including a food truck and a yoga studio have shut down; British journalist Helen Lewis had her computer game voiceover removed in a software update; drag queen Vanity von Glow was banned from performing at various London venues; Tabitha Moore-Morris, a Kentucky hospital worker, lost her job of twenty years; brilliant Silicon Valley technologist, Austen Heinz, lost his reputation and committed suicide.
 
@@ -1358,7 +1476,7 @@ As neoliberal values became more entrenched in the new millennium, we became inc
 
 As neoliberalism rose, the old games of connection and status that were once widely played among friends and neighbours in their communities decayed. Political scientist Professor Robert Putnam has charted their collapse. 'During the rst two-thirds of the century, Americans took a more and more active role in the social and political life of their communities – in churches and union halls, in bowling alleys and clubrooms, around committee tables and card tables and dinner tables,' he writes. Such groups 'seemed to be on the threshold of a new era of expanded involvement'. But then, 'more or less simultaneously, we began to do all those things less often'.
 
-When discussing his play Death of <sup>a</sup> Salesman, Arthur Miller described its tragic hero Willy Loman's worldview thusly: 'The law of success is that if you fail you're dead. And you're weighed on that scale the way God used to weigh people in the old days.' The neoliberal age saw us all becoming little Lomans. Today, more than at any previous time in history, we measure our status by professional success and its symbols. Our daily pursuits – even those in education and the arts – are increasingly directed at nancial ends, their victories measured in wealth. Research suggests busyness itself has come to be considered a status symbol. In a series of studies, busy people were viewed as having 'more status because they were perceived as more competent and ambitious, as well as to be more scarce and in demand'.
+When discussing his play Death of a Salesman, Arthur Miller described its tragic hero Willy Loman's worldview thusly: 'The law of success is that if you fail you're dead. And you're weighed on that scale the way God used to weigh people in the old days.' The neoliberal age saw us all becoming little Lomans. Today, more than at any previous time in history, we measure our status by professional success and its symbols. Our daily pursuits – even those in education and the arts – are increasingly directed at nancial ends, their victories measured in wealth. Research suggests busyness itself has come to be considered a status symbol. In a series of studies, busy people were viewed as having 'more status because they were perceived as more competent and ambitious, as well as to be more scarce and in demand'.
 
 The neoliberal dreamworld glisters with such symbols. Success cues might've started in ropes of teeth around a hunter's neck, but in twenty-rst-century Westernised cultures, they're everywhere. Maddened by them, we sweat and spend and hurry to keep up. We strive to improve, to bend our personalities into a certain shape, to become a better, dierent person. But where does it come from, the contemporary ideal of self? We see this perfect human all around us, beaming with awless teeth from advertising, lm, television, media and the internet. Young, agreeable, visibly t, self-starting, productive, popular, globally-minded, stylish, self-condent, extrovert, busy. Who is it, this person we feel so pressured to punch ourselves into becoming? It's the player best equipped to win status in the game we're in. It's the neoliberal hero, the fantasy of an economy. And when we don't measure up, we read these success symbols as signals of our failure. We're individualists: believing it's in our own power to win means believing that, when we don't, it's our fault and our fault alone. So we're a loser, then: that's who we are. We've been weighed on God's scale and found wanting.
 
@@ -2442,7 +2560,7 @@ described his foes as a 'mob': 'Censorship In Cyberspace', Mark Ethan Smith, www
 
 In an undated essay: 'Censorship In Cyberspace', Mark Ethan Smith, www.angelre.com/bc3/dissident/.
 
-When neuroscientist Professor Sarah Gimbel presented forty people: 'Neural correlates of maintaining one's political beliefs in the face of counterevidence', Jonas Kaplan, Sarah Gimbel and Sam Harris, Scienti<sup>c</sup> Reports, 2016, 6. 39589. 10.1038/srep39589.
+When neuroscientist Professor Sarah Gimbel presented forty people: 'Neural correlates of maintaining one's political beliefs in the face of counterevidence', Jonas Kaplan, Sarah Gimbel and Sam Harris, Scientic Reports, 2016, 6. 39589. 10.1038/srep39589.
 
 'you were walking through the forest and came across a bear': 'The Neuroscience of Changing Your Mind', You Are Not So Smart, David Mc Raney, Episode 93, 13 January 2017.
 
@@ -2525,7 +2643,7 @@ member of the Mbuti in the Congo was caught cheating: Moral Origins, Christopher
 - British journalist Helen Lewis: 'Ubisoft Says It Will Patch Out a Watch Dogs Actor Who Made "Controversial Remarks" about Gender', Andy Robinson, Video Games Chronicle, 7 November 2020.
 - Vanity Von Glow was banned: 'Vanity Von Glow: the Left Eats its Own', Andrew Doyle, Spiked, 6 June 2017.
 - Tabitha Moore-Morris, a Kentucky hospital worker: 'Baptist Health: Woman in Videos No Longer on Sta', Uncredited author, West Kentucky Star, 11 June 2020.
-- brilliant Silicon Valley technologist, Austen Heinz: I told the story of Austen Heinz in Sel<sup>e</sup> (Picador, 2017).
+- brilliant Silicon Valley technologist, Austen Heinz: I told the story of Austen Heinz in Sele (Picador, 2017).
 - activists, predominantly millennials: This account comes from Like War, P. W. Singer and Emerson T. Brooking (Mariner, 2018), pp. 4–11, 150–154.
 - one of the largest ever studies of Britain's social psychology: 'Britain's Choice: Common Ground and Division in 2020s Britain', October 2020, report conducted by More in Common.
  - Additional information via private communication with study co-author Tim Dixon.
@@ -2763,7 +2881,7 @@ Shirer (Ishi Press, 2010), p. 17.
 - frequently, 'decision-makers': Virtuous Violence, Alan Fiske and Tage Shakti Rai (Cambridge University Press, 2014), pp. 94– 95.
 - the more a nation feels humiliated: Virtuous Violence, Alan Fiske and Tage Shakti Rai (Cambridge University Press, 2014), p. 96.
 - between 500,000 and two million people were killed: 'The Cultural Revolution', Tom Phillips, Guardian, 11 May 2016.
-- Leader Mao Tse Tung was notoriously grandiose: For more on Mao's narcissism, see: How to be <sup>a</sup> Dictator, Frank Dikötter (Bloomsbury, 2019), chapter 4.
+- Leader Mao Tse Tung was notoriously grandiose: For more on Mao's narcissism, see: How to be a Dictator, Frank Dikötter (Bloomsbury, 2019), chapter 4.
 - 'the man who leads planet Earth into Communism': 'The Cultural Revolution', Tom Phillips, Guardian, 11 May 2016.
 - 'dictatorship of the bourgeoisie' … 'representatives': 'The Cultural Revolution', Tom Phillips, Guardian, 11 May 2016.
 - recalled being surprised … 'I was unwilling': Red Guard, Gordon A. Bennett and Ronald N. Montaperto (Allen & Unwin, 1971), pp. 42–44.
@@ -2786,7 +2904,7 @@ Shirer (Ishi Press, 2010), p. 17.
 - cut their hair, shaved their beards, paraded them: Public display, Topography of Terror, Berlin (visited November 2018).
 - dangerous quantities of castor oil: The Coming of the Third Reich, Richard Evans (Penguin, 2004). Kindle location 7898.
 - ordered them to carry out pointless tasks: Public display, Topography of Terror, Berlin (visited November 2018).
-- In Vienna, William Shirer witnessed: Berlin Diary: The Journal of <sup>a</sup> Foreign Correspondent, 1934–1941, William L. Shirer (Ishi Press, 2010), p. 110.
+- In Vienna, William Shirer witnessed: Berlin Diary: The Journal of a Foreign Correspondent, 1934–1941, William L. Shirer (Ishi Press, 2010), p. 110.
 - a singing, laughing, accordion-playing crowd: The Geometry of Genocide, Bradley Campbell (University of Virginia Press, 2015), pp. 159–160.
 - a prominent rabbi: The Geometry of Genocide, Bradley Campbell (University of Virginia Press, 2015), p. 150.
 
@@ -2807,11 +2925,11 @@ for the Catholic Church's weird preoccupation with incest: This argument was mad
 
 starting in AD 305, the Church instituted a series of rule changes: 'The Origins of WEIRD Psychology', Jonathan Schulz, Duman Bahrami-Rad, Jonathan Beauchamp and Joseph Heinrich, 22 June, 2018.
 
-these changes 'systematically broke down': 'Western Individualism Arose from Incest Taboo', David Noonan, Scienti<sup>c</sup> American, 7 November 2019.
+these changes 'systematically broke down': 'Western Individualism Arose from Incest Taboo', David Noonan, Scientic American, 7 November 2019.
 
 Learning to 'navigate a world with few inherited ties': The Weirdest People in the World, Joseph Henrich (Penguin, 2020), p. 28.
 
-the longer a population lived by them: 'Western Individualism Arose from Incest Taboo', David Noonan, Scienti<sup>c</sup> American, 7 November 2019.
+the longer a population lived by them: 'Western Individualism Arose from Incest Taboo', David Noonan, Scientic American, 7 November 2019.
 
 is partly thanks to a tweak: Sapiens, Yuval Noah Harari (Vintage, 2015), p. 242.
 
@@ -2985,7 +3103,7 @@ introducing 'additional legitimate and unambiguous status information': Status, 
 
 A similar eect was found in a study in which white players: 'The neural substrates of in-group bias: a functional magnetic resonance imaging investigation', J. J. Van Bavel, D. J. Packer, W. A. Cunningham, Psychological Science, November 2008, 19 (11):1131–9. doi:10.1111/j.1467-9280.2008.02214.x. PMID: 19076485.
 
-'There's a name for that': social identity theory', Emily Moon, Paci<sup>c</sup> Standard, 3 December 2018.
+'There's a name for that': social identity theory', Emily Moon, Pacic Standard, 3 December 2018.
 
 One survey across the G7 nations: The Reykjavik Index for Leadership survey on behalf of the World Economic Forum, www.weforum.org/agenda/2018/12/women-reykjavik-index-leadership/.
 
@@ -3312,7 +3430,7 @@ Americans made ve thousand hamburgers … 'in Germany ice cream is sold': Caviar
 
 2003), pp. 74–75.
 
-A decree in 1932 ordered ten years' hard labour: Communism, Richard Pipes (Weidenfeld & Nicolson, 2001), p. 59. peasants began grass and tree bark: How to be <sup>a</sup> Dictator, Frank Dikötter (Bloomsbury, 2019). Kindle location 1515. around six million peasants starved to death: Communism, Richard Pipes (Weidenfeld & Nicolson, 2001), p. 60.
+A decree in 1932 ordered ten years' hard labour: Communism, Richard Pipes (Weidenfeld & Nicolson, 2001), p. 59. peasants began grass and tree bark: How to be a Dictator, Frank Dikötter (Bloomsbury, 2019). Kindle location 1515. around six million peasants starved to death: Communism, Richard Pipes (Weidenfeld & Nicolson, 2001), p. 60.
 
 a 'catastrophe for the Soviet economy': Revolutionary Russia 1891–1991, Orlando Figes (Pelican, 2014). Kindle location a folding umbrella and thermos plates: Caviar with Champagne, Jukka Gronow (Berg, 2003), p. 94.
 
@@ -3370,7 +3488,7 @@ those with 'complex', multiple self-identities: Happiness, Daniel Nettle (Oxford
 
 # INDEX
 
-The page numbers in this index relate to the printed version of this book; they do not match the pages of your ebook. You can use your ebook reader's search tool to nd <sup>a</sup> speci<sup>c</sup> word or passage.
+The page numbers in this index relate to the printed version of this book; they do not match the pages of your ebook. You can use your ebook reader's search tool to nd a specic word or passage.
 
 
 Acemoglu, Daron, 241
@@ -3905,7 +4023,7 @@ merchant elites, 234
 
 ## Mill, John Stuart, 254
 
-Miller, Arthur, Death of <sup>a</sup> Salesman, 248
+Miller, Arthur, Death of a Salesman, 248
 
 ## Mitford, Nancy, 261
 

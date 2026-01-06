@@ -1,3 +1,8 @@
+---
+title: "## **It's the hottest week in Portland history and the boss still won't fix the AC**"
+category: "contemporary-analysis"
+---
+
 ## **It's the hottest week in Portland history and the boss still won't fix the AC**
 
 ## **Date:** Thu, 06/24/2021 - 00:00
@@ -60,8 +65,10 @@ During the Portland fire season we came to work with face masks on, it was 95 de
 
 No AC and No Beer make CF go crazy.
 
-| Then called Chanticleer Holdings; they've since broken off from Hooters and are now called<br>Amergent Hospitality Group. |
+| Then called Chanticleer Holdings; they've since broken off from Hooters and are now called
+Amergent Hospitality Group. |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Not his real name. |
 | Disclaimer: |
-| The views expressed here are not the official position of the IWW (or even the IWW's EUC)<br>and do not necessarily represent the views of anyone but the author. |
+| The views expressed here are not the official position of the IWW (or even the IWW's EUC)
+and do not necessarily represent the views of anyone but the author. |

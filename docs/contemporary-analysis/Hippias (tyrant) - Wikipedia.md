@@ -1,3 +1,8 @@
+---
+title: "**Hippias (tyrant)**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Hippias_(tyrant))
 
 # **Hippias (tyrant)**
@@ -31,7 +36,8 @@
 | Parent | Pisistratus |
 | Military service | |
 | Allegiance | Achaemenid Empire |
-| Years<br>of service | 490 BC |
+| Years
+of service | 490 BC |
 | Battles/wars | First Persian invasion of Greece |
 | • | Battle of Marathon |
 ## | | |

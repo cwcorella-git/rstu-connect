@@ -1,3 +1,8 @@
+---
+title: "**Against His-story, Against Leviathan**"
+category: "technology-digital-justice"
+---
+
 # **Against His-story, Against Leviathan**
 
 ## Fredy Perlman

@@ -1,3 +1,8 @@
+---
+title: "**EXPULSIONS**"
+category: "economic-alternatives"
+---
+
 # **EXPULSIONS**
 
 ## Brutality and Complexity in the Global Economy
@@ -44,7 +49,8 @@ Includes bibliographical references and index. ISBN 978- 0- 674- 59922- 2 (alk. 
 |--------------------------------------------|-----|
 | 1. Shrinking Economies, Growing Expulsions | 12 |
 | 2. The New Global Market for Land | 80 |
-| 3. Finance<br>and Its Capabilities: | |
+| 3. Finance
+and Its Capabilities: | |
 | Crisis as Systemic Logic | 117 |
 | 4. Dead Land, Dead Water | 149 |
 | Conclusion: At the Systemic Edge | 211 |
@@ -232,7 +238,8 @@ The Global South has had its own version of shrinkage, a subject I develop at gr
 
 TABLE 1.2: Low- and Lower- Middle Income Governments with the Highest Foreign Debt Payments, 2012
 
-| Country | Debt payment<br>(% government revenue) | |
+| Country | Debt payment
+(% government revenue) | |
 |-------------|----------------------------------------|--|
 | Belize | 28.1 | |
 | Philippines | 27.1 | |
@@ -348,7 +355,7 @@ In a detailed examination of the G20, a group that includes many non- European c
 
 FIGURE 1.15 European Youth (under Age 25) Unemployment, 2006, 2012 Data source: Eurostat 2013b.
 
-A second variable, the ratio of the employment rate for women to the rate for men, changed little since 2007, signaling a relatively gender-neutral impact of the crisis on job loss that is probably an indication of the depth of job losses.<sup>29</sup> The exceptions are Spain and Turkey, where this ratio did rise. A third variable considers 2012 youth unemployment, which was over twice as high as adult unemployment in the G20. High as it is, this rate is known to be a severe undercount, since a substantial proportion of youth in G20 countries are neither in the labor force nor in school or a training program. More generally, youth labor force participation rates have dropped in nine of the G20 countries. The median youth labor force participation rate stands at 60 percent, ranging from a low of 49.4 percent in Italy to a high of 69.8 percent in China, which suggests that where jobs are available, as in China, youth participation is high.
+A second variable, the ratio of the employment rate for women to the rate for men, changed little since 2007, signaling a relatively gender-neutral impact of the crisis on job loss that is probably an indication of the depth of job losses.29 The exceptions are Spain and Turkey, where this ratio did rise. A third variable considers 2012 youth unemployment, which was over twice as high as adult unemployment in the G20. High as it is, this rate is known to be a severe undercount, since a substantial proportion of youth in G20 countries are neither in the labor force nor in school or a training program. More generally, youth labor force participation rates have dropped in nine of the G20 countries. The median youth labor force participation rate stands at 60 percent, ranging from a low of 49.4 percent in Italy to a high of 69.8 percent in China, which suggests that where jobs are available, as in China, youth participation is high.
 
 This type of evidence helps us see that a good part of the world's richer economies is experiencing negatives two years after the crisis was supposedly over. The extreme cuts in social bene ts, declines in workforce numbers, and increases in income taxes imposed on Greece and Spain years after the 2008 crisis, make visible a deep restructuring project. But milder versions of such restructuring are taking place throughout the eurozone, as well as in other wealthy countries such as the United States.
 
@@ -366,7 +373,7 @@ The sharp contraction of the space of what is considered to be the formal econom
 
 #### **Employment**
 
-The extreme employment condition in Greece and Spain becomes evident when these two countries are compared to countries as diverse as China and the United States (see Figure 1.16).<sup>34</sup> The Greek and Spanish labor force has unemployment rates two to three times as large as that in the United States; one qualifier here is that Europe's unemployment measures include a far larger share of
+The extreme employment condition in Greece and Spain becomes evident when these two countries are compared to countries as diverse as China and the United States (see Figure 1.16).34 The Greek and Spanish labor force has unemployment rates two to three times as large as that in the United States; one qualifier here is that Europe's unemployment measures include a far larger share of
 
 ## ![](_page_50_Figure_4.jpeg)
 
@@ -414,25 +421,33 @@ But foreclosure rates have increased generally in Europe (see Table 1.3). The mo
 |----------------------------------|--|
 | Nu | |
 | west | |
-| Highest and Lo<br>with the | |
+| Highest and Lo
+with the | |
 | | |
 | European Countries | |
 ## | TABLE 1.3: | |
 
-| | Nu | mber of foreclosures | | | Change<br>% | |
+| | Nu | mber of foreclosures | | | Change
+% | |
 |-----------------------------|---------|----------------------|--------|-----------|-------------|-----------|
 | | 2007 | 2008 | 2009 | 2007–2008 | 2008–2009 | Increase? |
 | Highest foreclosures: | | | | | | |
 | Hungary | 225,663 | 245,597 | 71,683 | 8.83 | −70.81 | No |
-| many<br>Ger | 91,788 | 88,379 | 86,617 | −3.71 | −1.99 | No |
+| many
+Ger | 91,788 | 88,379 | 86,617 | −3.71 | −1.99 | No |
 | Spain | 25,943 | 58,686 | 93,319 | 126.21 | 59.01 | Yes |
-| m<br>Kingdo<br>United | 27,869 | 46,984 | 54,014 | 68.59 | 14.96 | Yes |
-| west foreclosures:<br>Lo | | | | | | |
+| m
+Kingdo
+United | 27,869 | 46,984 | 54,014 | 68.59 | 14.96 | Yes |
+| west foreclosures:
+Lo | | | | | | |
 | Bulgaria | 449 | 886 | 1,570 | 97.33 | 77.20 | Yes |
 | Finland | 506 | 825 | 1,036 | 63.04 | 25.58 | Yes |
-| mark<br>Den | 1,015 | 1,942 | 2,860 | 91.33 | 47.27 | Yes |
+| mark
+Den | 1,015 | 1,942 | 2,860 | 91.33 | 47.27 | Yes |
 | Netherlands | 1,811 | 1,961 | 2,256 | 8.28 | 15.04 | Yes |
-## | White 2013.<br>Data source: | | | | | | |
+## | White 2013.
+Data source: | | | | | | |
 
 Of course, these rising numbers need to be interpreted with caution. For instance, the 63 percent increase in Finland sounds high, but the total number of foreclosure procedures is still below 1,000 (and the mea sure used also includes nonresidential mortgage loans). Foreclosure rates in at least some EU member states started their increase from a very low base. Further, the total volume of foreclosure procedures is relatively small in relation to the total number of outstanding residential mortgage loans. For instance, the 46,825 foreclosures in 2008 in the United Kingdom represent a high number to begin with, but that number was under 1 percent of the total number of outstanding mortgages in 2008.
 
@@ -454,21 +469,34 @@ TABLE 1.4: Poverty and Social Exclusion in EU Countries and Switzerland, 2008–
 
 Number excluded,
 
-| | | by type of social exclusion | | | excluded | | millions)<br>2011 (in |
+| | | by type of social exclusion | | | excluded | | millions)
+2011 (in |
 |---------------|--------------------|------------------------------------|--------------------------------------------------|------|----------|------|-----------------------|
-| | Risk of<br>poverty | materially<br>Severely<br>deprived | work<br>House holds<br>intensity<br>w<br>with lo | 2008 | 2010 | 2011 | |
-| U 27<br>E | 16.9 | 8.8 | 10.0 | 23.5 | 23.4 | 24.2 | 119.6 |
+| | Risk of
+poverty | materially
+Severely
+deprived | work
+House holds
+intensity
+w
+with lo | 2008 | 2010 | 2011 | |
+| U 27
+E | 16.9 | 8.8 | 10.0 | 23.5 | 23.4 | 24.2 | 119.6 |
 | Austria | 12.6 | 3.9 | 8.0 | 18.6 | 16.6 | 16.9 | 1.4 |
-| m<br>Belgiu | 15.3 | 5.7 | 13.7 | 20.8 | 20.8 | 21.0 | 2.3 |
+| m
+Belgiu | 15.3 | 5.7 | 13.7 | 20.8 | 20.8 | 21.0 | 2.3 |
 | Bulgaria | 22.3 | 43.6 | 11.0 | 38.2 | 41.6 | 49.1 | 3.7 |
 | Croatia | 21.1 | 14.8 | 17.0 | n/a | 31.3 | 32.7 | 1.4 |
 | Cyprus | 14.5 | 10.7 | 4.5 | 22.4 | 22.9 | 23.5 | 0.2 |
-| Rep.<br>Czech | 9.8 | 6.1 | 6.6 | 15.3 | 14.4 | 15.3 | 1.6 |
-| mark<br>Den | 13.0 | 2.6 | 11.4 | 16.3 | 18.3 | 18.9 | 1.0 |
+| Rep.
+Czech | 9.8 | 6.1 | 6.6 | 15.3 | 14.4 | 15.3 | 1.6 |
+| mark
+Den | 13.0 | 2.6 | 11.4 | 16.3 | 18.3 | 18.9 | 1.0 |
 | Estonia | 17.5 | 8.7 | 9.9 | 21.8 | 21.7 | 23.1 | 0.3 |
 | Finland | 13.7 | 3.2 | 9.8 | 17.4 | 16.9 | 17.9 | 0.9 |
 | France | 14.0 | 5.2 | 9.3 | 18.6 | 19.2 | 19.3 | 11.8 |
-| many<br>Ger | 15.8 | 5.3 | 11.1 | 20.1 | 19.7 | 19.9 | 16.1 |
+| many
+Ger | 15.8 | 5.3 | 11.1 | 20.1 | 19.7 | 19.9 | 16.1 |
 
 ## Greece 21.4 15.2 11.8 28.1 27.7 31.0 3.4
 
@@ -479,19 +507,26 @@ Number excluded,
 | Italy | n/a | n/a | n/a | 25.3 | 24.5 | n/a | n/a |
 | Latvia | 19.3 | 30.9 | 12.2 | 33.8 | 38.1 | 40.1 | 0.9 |
 | Lithuania | 20.0 | 18.5 | 12.3 | 27.6 | 33.4 | 33.4 | 1.1 |
-| mbourg<br>Luxe | 13.6 | 1.2 | 5.8 | 15.5 | 17.1 | 16.8 | 0.1 |
+| mbourg
+Luxe | 13.6 | 1.2 | 5.8 | 15.5 | 17.1 | 16.8 | 0.1 |
 | Malta | 15.4 | 6.3 | 8.3 | 19.6 | 20.3 | 21.4 | 0.1 |
 | Netherlands | 11.0 | 2.5 | 8.7 | 14.9 | 15.1 | 15.7 | 2.6 |
-| way<br>Nor | 10.5 | 2.3 | 7.1 | 15.0 | 14.9 | 14.6 | 0.7 |
+| way
+Nor | 10.5 | 2.3 | 7.1 | 15.0 | 14.9 | 14.6 | 0.7 |
 | Poland | 17.7 | 13.0 | 6.9 | 30.5 | 27.8 | 27.2 | 10.2 |
 | Portugal | 18.0 | 8.3 | 8.2 | 26.0 | 25.3 | 24.4 | 2.6 |
-| mania<br>Ro | 22.2 | 29.4 | 6.7 | 44.2 | 41.4 | 40.3 | 8.6 |
+| mania
+Ro | 22.2 | 29.4 | 6.7 | 44.2 | 41.4 | 40.3 | 8.6 |
 | Slovakia | 13.0 | 10.6 | 7.6 | 20.6 | 20.6 | 20.6 | 1.1 |
 | Slovenia | 13.6 | 6.1 | 7.6 | 18.5 | 18.3 | 19.3 | 0.4 |
 | Spain | 21.8 | 3.9 | 12.2 | 22.9 | 25.5 | 27.0 | 12.4 |
-| weden<br>S | 14.0 | 1.2 | 6.8 | 14.9 | 15.0 | 16.1 | 1.5 |
-| witzerland<br>S | 15.0 | 1.3 | 4.7 | 18.6 | 17.2 | 17.3 | 1.3 |
-| m<br>Kingdo<br>United | 16.2 | 5.1 | 11.5 | 23.2 | 23.1 | 22.7 | 14.0 |
+| weden
+S | 14.0 | 1.2 | 6.8 | 14.9 | 15.0 | 16.1 | 1.5 |
+| witzerland
+S | 15.0 | 1.3 | 4.7 | 18.6 | 17.2 | 17.3 | 1.3 |
+| m
+Kingdo
+United | 16.2 | 5.1 | 11.5 | 23.2 | 23.1 | 22.7 | 14.0 |
 ## | Source: Eurojobs 2012. | | | | | | | |
 
 regions in lifetime rates of homelessness (as indexed by house hold surveys), in income in e qual ity, and in tax and bene t programs that increase or reduce poverty. Such mea sures show that before the economic collapse, the United States and the United Kingdom had consistently higher lifetime rates of homelessness, more income inequality, and less generous social welfare policies than most Eu ro pe an countries.42 In all countries, racial minorities and people with mental illness experience high rates of homelessness. However, in recent years, in Greece these trends are becoming extreme. NGOs working with the homeless in Greece estimate that their number had reached 20,000 by year- end 2010, if all homeless on the street, house less, inadequately housed, and insecurely housed are counted. This is up from the 2009 estimate of 17,000 people, pointing to a disturbing trend of rapid increase.
@@ -516,7 +551,9 @@ Table 1.5 shows the global breakdown of forcibly displaced people in 2011 by cat
 
 TABLE 1.5: Global Forced Displaced under UNHCR Care, 2011
 
-| Categories of displaced population | Number<br>of people<br>(millions) |
+| Categories of displaced population | Number
+of people
+(millions) |
 |------------------------------------|-----------------------------------|
 | Refugees | 10.4 |
 | Asylum seekers (pending cases) | 0.9 |
@@ -549,18 +586,48 @@ Data source: UNHCR 2012b.
 
 #### TABLE 1.7: Key Facts and Figures on Displaced People, 2011
 
-| Number<br>of<br>people<br>internally<br>displaced by the end of 2011<br>Most affected region | 15.5 million<br>Africa (7 million IDPs) |
+| Number
+of
+people
+internally
+displaced by the end of 2011
+Most affected region | 15.5 million
+Africa (7 million IDPs) |
 |----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Region with the largest relative<br>increase in number of IDPs<br>in 2009 | South and Southeast Asia (with a<br>23 percent year- on- year increase<br>from 2.5 million to 4.3 million) |
-| Countries with more than a<br>million people identi ed as<br>IDPs | 5 (Colombia, Demo cratic Republic<br>of the Congo, Iraq, Somalia,<br>Sudan) |
-| Countries with at least 200,000<br>people identi ed as IDP at the<br>end of 2011 | 14 (Af ghan i stan, Azerbaijan,<br>Colombia, Demo cratic Republic<br>of the Congo, Georgia, Iraq,<br>Kenya, Myanmar, Pakistan, Serbia,<br>Somalia, South Sudan, Sudan,<br>Yemen) |
-| Countries with at least 200,000<br>people returning during 2009<br>(in order of scale) | 6 (Pakistan, Demo cratic Republic<br>of the Congo, Uganda, Sudan,<br>Kenya, Philippines) |
+| Region with the largest relative
+increase in number of IDPs
+in 2009 | South and Southeast Asia (with a
+23 percent year- on- year increase
+from 2.5 million to 4.3 million) |
+| Countries with more than a
+million people identi ed as
+IDPs | 5 (Colombia, Demo cratic Republic
+of the Congo, Iraq, Somalia,
+Sudan) |
+| Countries with at least 200,000
+people identi ed as IDP at the
+end of 2011 | 14 (Af ghan i stan, Azerbaijan,
+Colombia, Demo cratic Republic
+of the Congo, Georgia, Iraq,
+Kenya, Myanmar, Pakistan, Serbia,
+Somalia, South Sudan, Sudan,
+Yemen) |
+| Countries with at least 200,000
+people returning during 2009
+(in order of scale) | 6 (Pakistan, Demo cratic Republic
+of the Congo, Uganda, Sudan,
+Kenya, Philippines) |
 | Countries with new | |
-| displacement in 2009<br>Countries with a signi cant<br>proportion of IDPs living in | 23 |
-| protracted displacement<br>Countries in which almost all | At least 34 |
-| IDPs lived in identi ed sites<br>Countries with IDPs in urban | 3 (Burundi, Chad, Uganda) |
+| displacement in 2009
+Countries with a signi cant
+proportion of IDPs living in | 23 |
+| protracted displacement
+Countries in which almost all | At least 34 |
+| IDPs lived in identi ed sites
+Countries with IDPs in urban | 3 (Burundi, Chad, Uganda) |
 | environments | At least 48 |
-| Countries with legislation or<br>policies speci cally addressing | |
+| Countries with legislation or
+policies speci cally addressing | |
 ## | | |
 
 Data source: UNHCR 2012b.
@@ -574,7 +641,7 @@ TABLE 1.8: Estimated Number of Forcibly Displaced People by Category of Displace
 | | | | | protected/ | | | | |
 | | | Refugees | | assisted | | | | Total |
 | Continent of | Total | assisted by | Asylum | by | Returned | Stateless | | population |
-| asylum | $refugees^a$ | UNHCR | seekers | UNHCR | $\mathrm{IDP}_{\mathbf{S}^{\mathrm{c}}}$ | persons <sup>d</sup> | Various <sup>e</sup> | of concern |
+| asylum | $refugees^a$ | UNHCR | seekers | UNHCR | $\mathrm{IDP}_{\mathbf{S}^{\mathrm{c}}}$ | persons d | Various e | of concern |
 | Africa | 2,924 | 2,562 | 391 | 6,961 | 2,196 | 21 | 174 | 13,054 |
 | Asia | 5,104 | 3,302 | 83 | 4,254 | 1,048 | 2,759 | 1,132 | 14,526 |
 | Europe | 1,534 | 91 | 313 | 370 | 1 | 269 | 104 | 3,021 |
@@ -665,7 +732,8 @@ By 2005 prison privatization, often in the form of emergent public- private part
 
 TABLE 1.9: U. S. State and Federal Prisoners in Private Facilities, by Region and States with Largest Populations in Private Prison, 2000– 2010
 
-| Region | 2000 | 2009 | 2010 | % all prisoners<br>(2010) |
+| Region | 2000 | 2009 | 2010 | % all prisoners
+(2010) |
 |--------------|--------|---------|---------|---------------------------|
 | U. S. total | 87,369 | 129,333 | 128,195 | 8.0 |
 | Federal | 15,524 | 34,087 | 33,830 | 16.1 |
@@ -785,7 +853,18 @@ Generally, IMF debt management policies from the 1980s onward have not halted th
 
 TABLE 2.1: Debt Ser vice Amount and as a Percentage of GDP in Selected Countries, 2009
 
-| Country | Total<br>external<br>debt<br>(\$billions) | Total external<br>debt payment<br>(\$billions) | Total health<br>spending<br>(% GDP) | Total<br>spending on<br>debt ser vice<br>payments<br>(% GDP) |
+| Country | Total
+external
+debt
+(\$billions) | Total external
+debt payment
+(\$billions) | Total health
+spending
+(% GDP) | Total
+spending on
+debt ser vice
+payments
+(% GDP) |
 |------------------|-------------------------------------------|------------------------------------------------|-------------------------------------|--------------------------------------------------------------|
 | Angola | 15.1 | 1.6a | 1.5 | 6.8 |
 | Ec ua dor | 17.1 | 4.1a | 2.2 | 11.4 |
@@ -902,7 +981,9 @@ A nal set of ndings concerns water use or needs as part of land acquisition. The
 
 TABLE 2.3: Countries with the Largest Foreign Acquisitions of Land, 2012
 
-| | Grabbed<br>land<br>(hundreds of | % of total | | % of |
+| | Grabbed
+land
+(hundreds of | % of total | | % of |
 |-----------------------|---------------------------------|--------------|-----------------|-----------|
 | Grabbed | thousands of | global | % of country's | country's |
 | countrya | hectares) | grabbed land | cultivated land | area |
@@ -910,8 +991,10 @@ TABLE 2.3: Countries with the Largest Foreign Acquisitions of Land, 2012
 | Australia | 46.45 | 9.90 | 9.78 | 0.60 |
 | Brazil | 22.55 | 4.80 | 3.29 | 0.26 |
 | Cameroon | 2.95 | 0.63 | 4.01 | 0.62 |
-| Congo,<br>Demo cratic | | | | |
-| Republic of<br>Congo, | 80.50 | 17.15 | 1.08 | 3.43 |
+| Congo,
+Demo cratic | | | | |
+| Republic of
+Congo, | 80.50 | 17.15 | 1.08 | 3.43 |
 | Republic of | 6.64 | 1.41 | 8.91 | 0.28 |
 | Ethiopia | 10.01 | 2.13 | 6.68 | 0.91 |
 | Gabon | 4.07 | 0.87 | 85.75 | 1.52 |
@@ -935,16 +1018,43 @@ TABLE 2.3: Countries with the Largest Foreign Acquisitions of Land, 2012
 
 Data source: Rulli, Saviori, and D'Odorico 2013, table 1. Note that the use in this table of the word "grabbed" is in the original source. In some countries the grabbed land is a substantial fraction of their cultivated land (FAO 2009).
 
-| Land and<br>TABLE 2.4: | Resources<br>Water | Available in the | Grabbed | Countries, 2012 | | |
+| Land and
+TABLE 2.4: | Resources
+Water | Available in the | Grabbed | Countries, 2012 | | |
 |---------------------------|-----------------------------------------------|----------------------------------------------------------|-----------|--------------------------------------------------------------------|---------------------------------------------------------|-------------------------------|
-| Grabbed<br>Country | Cultivated area<br>(thousands<br>of hectares) | Land suitable<br>(thousands of<br>for crops<br>hectares) | Yield gap | wable<br>water<br>wn<br>resources<br>withdra<br>Rene<br>fresh<br>% | 3 per year)<br>water per<br>Grabbed<br>capita<br>m<br>( | ment<br>Malnourish<br>%)<br>( |
+| Grabbed
+Country | Cultivated area
+(thousands
+of hectares) | Land suitable
+(thousands of
+for crops
+hectares) | Yield gap | wable
+water
+wn
+resources
+withdra
+Rene
+fresh
+% | 3 per year)
+water per
+Grabbed
+capita
+m
+( | ment
+Malnourish
+%)
+( |
 | Argentina | 32,000 | 96,644 | −0.57 | 3.99 | 12.71 | 0 |
 | Australia | 47,511 | 134,146 | −0.31 | 4.58 | 120.53 | 0 |
 | Brazil | 68,500 | 512,983 | −0.59 | 0.41 | 86.29 | 10 |
-| meroon<br>Ca | 7,363 | 33,119 | −0.78 | 0.34 | 676.51 | 29 |
-| mo cratic<br>Congo,<br>De | | | | | | |
+| meroon
+Ca | 7,363 | 33,119 | −0.78 | 0.34 | 676.51 | 29 |
+| mo cratic
+Congo,
+De | | | | | | |
 | Republic of | 7,450 | 161,026 | −0.80 | 0.05 | 307.35 | 37 |
-| Republic of<br>Congo, | 560 | 23,227 | −0.78 | 0.01 | 2,382.25 | 32 |
+| Republic of
+Congo, | 560 | 23,227 | −0.78 | 0.01 | 2,382.25 | 32 |
 | Ethiopia | 14,985 | 39,946 | −0.80 | 4.56 | 185.27 | 49 |
 | Gabon | 475 | 16,838 | −0.80 | 0.08 | 4,428.47 | 8 |
 | Indonesia | 42,600 | 49,351 | −0.55 | 5.61 | 60.25 | 6 |
@@ -953,10 +1063,13 @@ Data source: Rulli, Saviori, and D'Odorico 2013, table 1. Note that the use in t
 |------------------|---------|---------|-------|-------|----------|----|
 | Madagascar | 3,550 | 28,764 | −0.75 | 4.36 | 73.27 | 40 |
 | Morocco | 9,055 | 8,353 | −0.90 | 43.45 | 172.51 | 5 |
-| mbique<br>Moza | 5,300 | 60,437 | −0.90 | 0.35 | 1,041.06 | 58 |
+| mbique
+Moza | 5,300 | 60,437 | −0.90 | 0.35 | 1,041.06 | 58 |
 | Nigeria | 37,000 | 60,478 | −0.78 | 3.60 | 34.91 | 8 |
 | Pakistan | 21,280 | 4,438 | −0.55 | 74.35 | 40.61 | 20 |
-| w<br>Ne<br>Papua | | | | | | |
+| w
+Ne
+Papua | | | | | | |
 | Guinea | 960 | 11,603 | −0.41 | 0.05 | 393.44 | 29 |
 | Philippines | 10,450 | 8,734 | −0.58 | 17.03 | 29.67 | 21 |
 | Rus sia | 123,541 | 287,045 | −0.70 | 1.47 | 139.40 | 6 |
@@ -1090,7 +1203,8 @@ Multiple conditions, including the decline in housing prices, led to extremely n
 
 ## TABLE 3.1: U. S. Home Foreclosures, 2006– 2010
 
-| Year | Foreclosure notices<br>(in millions) | |
+| Year | Foreclosure notices
+(in millions) | |
 |-------|--------------------------------------|--|
 | 2006 | 1.2 | |
 | 2007 | 2.2 | |
@@ -1132,18 +1246,47 @@ One critical mea sure for gauging the potential growth of residential mortgage c
 
 TABLE 3.3: U. S. Metro Areas with Largest Losses of GMP, 2006
 
-| Rank | Metro area | Revised<br>real GMP<br>growth<br>(%) | Loss in<br>real GMP<br>growth<br>(%) | Loss of<br>GMP<br>(million \$) |
+| Rank | Metro area | Revised
+real GMP
+growth
+(%) | Loss in
+real GMP
+growth
+(%) | Loss of
+GMP
+(million \$) |
 |------|--------------------------------------------------------------|--------------------------------------|--------------------------------------|--------------------------------|
-| 1 | New York–<br>Northern New<br>Jersey– Long<br>Island, NY/PA | 2.13 | 0.65 | 10,372 |
-| 2 | Los Angeles– Long<br>Beach– Santa<br>Ana, CA | 1.67 | 0.95 | 8,302 |
-| 3 | Dallas–Fort<br>Worth–<br>Arlington, TX | 3.26 | 0.83 | 4,022 |
-| 4 | Washington,<br>DC– Arlington–<br>Alexandria, VA/<br>MD/WV/DC | 2.79 | 0.60 | 3,957 |
-| 5 | Chicago<br>Naperville- Joliet,<br>IL/IN/WI | 2.23 | 0.56 | 3,906 |
-| 6 | San Francisco–<br>Oakland–<br>Fremont, CA | 1.88 | 1.07 | 3,607 |
-| 7 | Detroit- Warren<br>Livonia, MI | 1.30 | 0.97 | 3,203 |
-| 8 | Boston- Cambridge<br>Quincy, MA | 2.16 | 0.99 | 3,022 |
-| 9 | Philadelphia<br>Camden<br>Wilmington, DE/<br>NJ/PA/MD | 1.85 | 0.63 | 2,597 |
-| 10 | Riverside–San<br>Bernadino–<br>Ontario, CA | 3.51 | 1.05 | 2,372 |
+| 1 | New York–
+Northern New
+Jersey– Long
+Island, NY/PA | 2.13 | 0.65 | 10,372 |
+| 2 | Los Angeles– Long
+Beach– Santa
+Ana, CA | 1.67 | 0.95 | 8,302 |
+| 3 | Dallas–Fort
+Worth–
+Arlington, TX | 3.26 | 0.83 | 4,022 |
+| 4 | Washington,
+DC– Arlington–
+Alexandria, VA/
+MD/WV/DC | 2.79 | 0.60 | 3,957 |
+| 5 | Chicago
+Naperville- Joliet,
+IL/IN/WI | 2.23 | 0.56 | 3,906 |
+| 6 | San Francisco–
+Oakland–
+Fremont, CA | 1.88 | 1.07 | 3,607 |
+| 7 | Detroit- Warren
+Livonia, MI | 1.30 | 0.97 | 3,203 |
+| 8 | Boston- Cambridge
+Quincy, MA | 2.16 | 0.99 | 3,022 |
+| 9 | Philadelphia
+Camden
+Wilmington, DE/
+NJ/PA/MD | 1.85 | 0.63 | 2,597 |
+| 10 | Riverside–San
+Bernadino–
+Ontario, CA | 3.51 | 1.05 | 2,372 |
 
 Source: Global Insight 2007, table 2.
 
@@ -1200,18 +1343,74 @@ As Table 3.5 shows, the minimum price of a house for it to be included in the su
 
 TABLE 3.5: Foreign Buyers in the Superprime Housing Market, 2007– 2012
 
-| | | me<br>m price to<br>qualify as superpri<br>mu<br>Mini | (of all buyers)<br>% foreign | |
+| | | me
+m price to
+qualify as superpri
+mu
+Mini | (of all buyers)
+% foreign | |
 |--------------|--------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|------------------------------|------|
-| City | Country of origin of foreign buyers | millions of \$)<br>(in | 2007 | 2012 |
-| Monaco | m, Italy,<br>Kingdo<br>United<br>witzerland<br>a<br>CIS,<br>Rus sia,<br>S | 18.9 | 100 | 100 |
-| Paris | United<br>many,<br>Ger<br>a Italy, France,<br>United States<br>m,<br>CIS,<br>Kingdo<br>Rus sia, | 8.8 | 90 | 95 |
-| London | Australia,<br>Africa, Italy, India,<br>Greece,<br>mirates,<br>Canada<br>Rus sia, France, South<br>Arab E<br>United States,<br>United | 15.9 | 75 | 85 |
-| Dubai | Arabia,<br>malia, Tanzania, Saudi<br>Rus sia, India, Iran<br>Kenya, So | 8.0 | 45 | 60 |
-| w York<br>Ne | China,<br>Australia, Brazil, Argentina,<br>m, France, Italy, Spain,<br>Kingdo<br>Singapore,<br>Canada<br>United | 10.0 | 50 | 50 |
-| Shanghai | Canada,<br>many, France<br>United States,<br>Ger<br>wan,<br>Malaysia,<br>Kong, Tai<br>Japan,<br>Hong | 6.4 | 34 | 10 |
-| Singapore | Australia,<br>Malaysia, India,<br>m<br>China,<br>Kingdo<br>Indonesia,<br>United | 8.3 | 24 | 31 |
-| Kong<br>Hong | China | 15.4 | 12 | 35 |
-## | w<br>Mosco | a<br>CIS | 7.8 | 10 | 10 |
+| City | Country of origin of foreign buyers | millions of \$)
+(in | 2007 | 2012 |
+| Monaco | m, Italy,
+Kingdo
+United
+witzerland
+a
+CIS,
+Rus sia,
+S | 18.9 | 100 | 100 |
+| Paris | United
+many,
+Ger
+a Italy, France,
+United States
+m,
+CIS,
+Kingdo
+Rus sia, | 8.8 | 90 | 95 |
+| London | Australia,
+Africa, Italy, India,
+Greece,
+mirates,
+Canada
+Rus sia, France, South
+Arab E
+United States,
+United | 15.9 | 75 | 85 |
+| Dubai | Arabia,
+malia, Tanzania, Saudi
+Rus sia, India, Iran
+Kenya, So | 8.0 | 45 | 60 |
+| w York
+Ne | China,
+Australia, Brazil, Argentina,
+m, France, Italy, Spain,
+Kingdo
+Singapore,
+Canada
+United | 10.0 | 50 | 50 |
+| Shanghai | Canada,
+many, France
+United States,
+Ger
+wan,
+Malaysia,
+Kong, Tai
+Japan,
+Hong | 6.4 | 34 | 10 |
+| Singapore | Australia,
+Malaysia, India,
+m
+China,
+Kingdo
+Indonesia,
+United | 8.3 | 24 | 31 |
+| Kong
+Hong | China | 15.4 | 12 | 35 |
+## | w
+Mosco | a
+CIS | 7.8 | 10 | 10 |
 
 Data source: Powley and Warwick- Ching 2012. Note: a. CIS refers to Commonwealth of In de pen dent States, which includes the following countries: Armenia, Azerbaijan, Belarus, Kazakhstan, Kyrgyzstan, Moldova, Rus sia, Tajikistan, and Uzbekistan.
 
@@ -1319,7 +1518,7 @@ Recent studies have shown that extreme summer temperatures can now largely be at
 
 #### I W: I V M
 
-Beyond the gradual degradation of agricultural land, there are processes that cause extreme destruction to land of all sorts. Mining and manufacturing are the most obvious culprits in much of the world. Their capacity to kill land is enormous; it is particularly hard for land to recover from the type of degradation they create. Consider, for instance, that much of the estimated 1 billion tonnes of industrial waste produced by OECD countries in 2001 still lives with us more than ten years later. And industry produces more waste than that produced by agriculture, forestry, and power production combined.<sup>9</sup>
+Beyond the gradual degradation of agricultural land, there are processes that cause extreme destruction to land of all sorts. Mining and manufacturing are the most obvious culprits in much of the world. Their capacity to kill land is enormous; it is particularly hard for land to recover from the type of degradation they create. Consider, for instance, that much of the estimated 1 billion tonnes of industrial waste produced by OECD countries in 2001 still lives with us more than ten years later. And industry produces more waste than that produced by agriculture, forestry, and power production combined.9
 
 In suf cient concentrations, industrial waste, including heavy metals and greenhouse gases, can render an environment so toxic that plants cease to grow and even people become sterile. Some heavy metals (a misnomer, as this category includes some elements that are neither heavy nor metals) are vital to human health in controlled amounts, such as iron and zinc. Others, such as mercury and lead, are toxic at any level. However, the output of waste generated by modern industry is so massive it can render even a benign substance such as carbon dioxide toxic.
 
@@ -1643,7 +1842,7 @@ There was a time when the environmental damage we produced remained somewhat loc
 
 Greenhouse gases (including carbon dioxide, methane, nitrous oxide, and particulate matter such as black carbon) are key causes of climate change.60 Diverse mea sures arrive at an estimate that human activity has generated 350 billion tonnes of carbon since 1959; 55 percent of this has been taken up by the oceans and land, and the rest has been left in the atmosphere. In 2009 alone, global carbon dioxide emissions totaled 30 billion tonnes. By 2011, annual emissions had increased by 5.3 percent to 31.6 billion tonnes. And by early 2013, the level of carbon dioxide in the atmosphere surpassed the critical level of 400 parts per million. This is a level not seen on earth since the Pliocene era 3 million years ago.
 
-Under current conditions, global CO<sub>2</sub> emissions (including emissions related to deforestation) will reach 41 billion tonnes per year in 2020. The EPA estimates that industrial emissions account for 50 percent of greenhouse gases emitted in the United States, and industry is almost certainly responsible for an even higher proportion of China's huge and growing emissions. At this scale, and with the relationship of carbon dioxide to climate change, industrial pollution is a driver of massive global problems.
+Under current conditions, global CO2 emissions (including emissions related to deforestation) will reach 41 billion tonnes per year in 2020. The EPA estimates that industrial emissions account for 50 percent of greenhouse gases emitted in the United States, and industry is almost certainly responsible for an even higher proportion of China's huge and growing emissions. At this scale, and with the relationship of carbon dioxide to climate change, industrial pollution is a driver of massive global problems.
 
 One major effect is rising land temperature (see Figure 4.4). The numbers for the current warming phase are extreme compared
 
@@ -1653,7 +1852,7 @@ FIGURE 4.4 Land Area with Hot, Very Hot, and Extremely Hot Temperatures, 1960–
 
 Data source: World Bank 2012, figure 18.
 
-to the available historical records. May 2012 was "the 327th consecutive month in which the temperature of the entire globe exceeded the 20th-century average," writes Bill Mc Kibben. The spring of 2012 was the hottest ever, and marked the biggest difference with the average seasonal temperature recorded for any season. In the United States, the month of June 2012 broke 3,215 heat records across the country, and May 2012 was the warmest May in the country's recorded history. There are debates and disagreements about the precise rate, timing, and level of increase. But very diverse types of studies all document this upward trend. (See Figure 4.5.)<sup>61</sup>
+to the available historical records. May 2012 was "the 327th consecutive month in which the temperature of the entire globe exceeded the 20th-century average," writes Bill Mc Kibben. The spring of 2012 was the hottest ever, and marked the biggest difference with the average seasonal temperature recorded for any season. In the United States, the month of June 2012 broke 3,215 heat records across the country, and May 2012 was the warmest May in the country's recorded history. There are debates and disagreements about the precise rate, timing, and level of increase. But very diverse types of studies all document this upward trend. (See Figure 4.5.)61
 
 Climate change has already started to affect global agricultural output (see Figure 4.6). The Club of Rome predicts that climate change will cause an increase of 2°C in average temperature by the year 2052 and a 2.8°C rise in average temperature by 2080. An increase of that magnitude is predicted to "reduce yields across two-thirds of the
 

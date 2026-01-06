@@ -1,3 +1,8 @@
+---
+title: "## **Popular Radicalism and the Unemployed in Chicago during the Great Depression**"
+category: "contemporary-analysis"
+---
+
 ## **Popular Radicalism and the Unemployed in Chicago during the Great Depression**
 
 ## **Date:** Unknown

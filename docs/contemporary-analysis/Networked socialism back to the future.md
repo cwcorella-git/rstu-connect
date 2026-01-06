@@ -1,3 +1,8 @@
+---
+title: "## **Networked socialism: back to the future**"
+category: "contemporary-analysis"
+---
+
 ## **Networked socialism: back to the future**
 
 ## **Date:** Sun, 09/25/2016 - 17:12
@@ -126,9 +131,12 @@ In my view, there is no guarantee that technological advance will bring us close
 | |
 | Notes |
 | [1] Ronald Kline, Steinmetz: engineer and socialist (John Hopkins University Press, 1992) |
-| [2] From Zola, Travail (1901). Quoted by Boyle, Everett and Gamage, Energy systems and<br>sustainability. |
-| [3] There is an account of the discussions in the electrification agency Goelro about this in:<br>Jonathan Coopersmith, |
+| [2] From Zola, Travail (1901). Quoted by Boyle, Everett and Gamage, Energy systems and
+sustainability. |
+| [3] There is an account of the discussions in the electrification agency Goelro about this in:
+Jonathan Coopersmith, |
 | The Electrification of Russia 1880-1926 |
 | (Cornell University Press, 1992), chapter 6. |
 | Disclaimer: |
-| The views expressed here are not the official position of the IWW (or even the IWW's EUC)<br>and do not necessarily represent the views of anyone but the author's. |
+| The views expressed here are not the official position of the IWW (or even the IWW's EUC)
+and do not necessarily represent the views of anyone but the author's. |

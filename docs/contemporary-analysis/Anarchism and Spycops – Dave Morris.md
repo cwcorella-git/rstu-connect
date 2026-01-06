@@ -1,3 +1,8 @@
+---
+title: "## **Anarchism and Spycops – Dave Morris**"
+category: "contemporary-analysis"
+---
+
 ## **Anarchism and Spycops – Dave Morris**
 
 ## **Date:** Unknown

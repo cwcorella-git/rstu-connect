@@ -1,8 +1,14 @@
+---
+title: "## **Activists Demand Independent Investigation After Cops Kill Protester in Atlanta**"
+category: "abolition"
+---
+
 ## **Activists Demand Independent Investigation After Cops Kill Protester in Atlanta**
 
 | Date: Thu, 01/19/2023 - 00:00                                                                                                                      |
 |----------------------------------------------------------------------------------------------------------------------------------------------------|
-| Source: https://ecology.iww.org/node/5308<br>Tags: Atlanta Forest, mobilizations and uprisings, anti-capitalism, libertarian-socialism, Tortuguita |
+| Source: https://ecology.iww.org/node/5308
+Tags: Atlanta Forest, mobilizations and uprisings, anti-capitalism, libertarian-socialism, Tortuguita |
 |                                                                                                                                                    |
 | By Mike Ludwig -                                                                                                                                   |
 |                                                                                                                                                    |
@@ -40,12 +46,15 @@ posts
 
 on social media from accounts associated with the "Stop Cop City" movement. The Georgia Bureau of Investigation claims a handgun and shell casings were found at the scene.
 
-| The reportedly wounded state patrol officer was not identified as of Thursday morning, with<br>law enforcement                                                    |
+| The reportedly wounded state patrol officer was not identified as of Thursday morning, with
+law enforcement                                                    |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | claiming                                                                                                                                                          |
-| the officer was in stable condition after being treated at a hospital and releasing few other<br>details.                                                         |
+| the officer was in stable condition after being treated at a hospital and releasing few other
+details.                                                         |
 | Read the entire article                                                                                                                                           |
 | here                                                                                                                                                              |
 |                                                                                                                                                                   |
 | Disclaimer:                                                                                                                                                       |
-| The views expressed here are not the official position of the IWW (or even the IWW's EUC)<br>and do not necessarily represent the views of anyone but the author. |
+| The views expressed here are not the official position of the IWW (or even the IWW's EUC)
+and do not necessarily represent the views of anyone but the author. |

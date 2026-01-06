@@ -1,22 +1,8 @@
 ---
-title: Reflections on Rent Strike Vancouver
-author: Anonymous
-date: 'March 28, 2020'
-pubdate: '2020-03-31T07:04:36'
-language: en
-source_url: >-
-  Retrieved on 2020-03-31 from
-  [[https://plagueandfire.noblogs.org/reflections-on-rent-strike-vancouver/][plagueandfire.noblogs.org]]
-topics:
-  - Canada
-  - tenant organizing
-  - COVID-19
-original_format: muse
-converted_date: '2025-11-08T11:24:59.920125'
-tags:
-  - Canada
-  - Tenant Organizing
-  - COVID 19
+title: "Reflections on Rent Strike Vancouver"
+author: "Anonymous"
+date: "March 28, 2020"
+category: "housing"
 ---
 
 So called Vancouver BC has in its most recent years been a place of
@@ -64,7 +50,7 @@ have very legitimate reasons to have different thresholds of acceptable
 risk. So we want to be explicit when we say that we cannot guarantee
 anyone’s safety and anyone else who promises to do so is lying. With
 this in mind those who feel angry enough or “safe” enough should join us
-and withhold rent April 1<sup>st</sup>.
+and withhold rent April 1st.
 
 Through striking we hope to further actualize the desires shared in
 whispers between friends, the screams splattered on the city’s walls and
@@ -73,8 +59,5 @@ rent striking. Solidarity with all striking blows against the crises of
 capitalism, colonialism and civilization. Solidarity with those living
 on the streets unable to withhold rent, yet resisting with every breath.
 
-<right>
 
 For a growing revolt and realization of desire
-
-</right>

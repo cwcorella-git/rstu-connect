@@ -1,11 +1,8 @@
 ---
-title: The Anarchist Library Wikipedia
-date: 2025
-author: Wikipedia
-tags:
-  - organizing
-  - labor
-  - anarchism
+title: "The Anarchist Library Wikipedia"
+author: "Wikipedia"
+date: "2025"
+category: "theory"
 ---
 
 # The Anarchist Library Wikipedia

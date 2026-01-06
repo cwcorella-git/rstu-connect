@@ -1,3 +1,8 @@
+---
+title: "On the way to good"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_1.jpeg)
 
 # On the way to good
@@ -206,30 +211,102 @@ Formats can be different: Creative Brief, 1-pager, table of levels, etc.
 
 | UNCHARTED | 2 Macro Design | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |-----------------------------------|-------------------------------------------------------------------------------------------------------|-------------------------------|-----------------------------------------------------------------|------------------------------------------------------|----------------------------------------|------------------------------------------------------------------------------------------------------|-----------------|-----------|------------------------|----------------|-------------------------------|---------------------|---------------------|--------------|--------|------|--------------------------------|------------|------------------------------------------------------------------------------------------------------|----------------------------|--------------------------------|----------------------------------------|----------------|-----------------|-----------|---------------------------|----------|
-| LEVELS | LOOK<br>DESCRIPTION | TIME OF DAY/<br>MOOD | ALLY-NPC | ENEMY MODELS | MACRO GAMEPLAY | MACRO FLOW | PLA | YER | месни | NICS | S | | | | | | | | GAMEPLAY THEME<br>(Focus) | WEAPON | s | | | | | | |
-| | | | | | | | Free Climb/Dyno | Wall Jump | Free Ropes<br>Pendulum | Monkey Bars | Monkey Swing<br>Balance Beams | Carry Objects Heavy | Carry Objects Light | Forced Melee | Puzzie | Swim | Moving Objects<br>Push Objects | Binoculars | | Tranq-gun<br>Pistol-semi-a | Pistol-semi-b<br>Pistol-full-a | Pistol-revolver-a<br>Pistol-revolver-b | SMG-a<br>SMG-b | Assault-Rifle-a | Shotgun 1 | Shotgun 2<br>Sniper-Rifle | Crossbow |
-| Warzone | | · | | | | 4 | v <u>a</u> . | | Ţ | | | | - 10 | , | - V | , | 105 | | | | - | | , | | | | |
-| war-1-market | Nepalese city broken & burning | High Noon - War-torn & smokey | | Laz Army HOT<br>Freedom Fighters | Explore<br>Traverse<br>Minor Gunfights | Basic Gunplay<br>Traversal Gunplay | × | x | | x | ×× | | × | t | × | | | x | Basic Gunplay<br>Traversal Gunplay | × | | | | x | | | |
-| war-2-streets | Nepalese city broken & burning | High Noon - War-torn & smokey | Chloe-2 | Laz Army HOT<br>Freedom Fighters | Explore<br>Traverse<br>Minor Gunfights | Basic Gunplay<br>Traversal Gunplay | x | x | | x | x x | | × | | × | | | x | Basic Gunplay<br>Traversal Gunplay | × | 60 | | | x | | | - 20 |
-| war-3-inside<br>war-4-highrise | Nepalese city broken & burning | High Noon - War-torn & smokey | Chloe-2 | Laz Army HOT<br>Freedom Fighters | Explore<br>Traverse<br>Minor Gunlights | Basic Gunplay<br>Traversal Gunplay<br>Get to higher ground (hotel) | x | x | | x | x x | | × | | × | | | x | Basic Gunplay<br>Traversal Gunplay | × | | | | × | | П | Ī |
-| city | Nepalese city broken & burning | High Noon - War-torn & smokey | Chloe-2 | Laz Army HOT<br>Freedom Fighters | Explore<br>Traverse<br>Minor Gunfights | Skirt close to Laz Army | x | x | | x | x x | | × | | × | | | x | Basic Gunplay<br>Traversal Gunplay | × | 68 | 19 19 1 | | x | | | 76 |
-| city-2 | New area unlocked of City | High Noon - War-torn & smokey | Chloe<br>Elena-1<br>Cameraman | Laz Army HOT<br>Freedom Fighters | Traverse<br>Major Fight | Basic Gunplay<br>Traversal Gunplay | × | x | | 6 - 6<br>6 - 6 | × | | × | | × | | 0 | | Basic Gunplay<br>Traversal Gunplay | × | 30 I | | | x | × | | 18 |
-| temple | Temple complex built in the middle of the city | mysterious | Chloe<br>Elena-1<br>Cameraman | Laz Army HOT<br>Freedom Fighters<br>Dead Expeditions | Explore<br>Problem Solve<br>Escape | | × | × | × | × | x x | x | x | | x | x | × | | | × | | | | x | x | | |
-| oity third pass | City + Train Yard | high tension | Elena-1 | Laz Army HOT<br>Freedom Fighters | Escape/Fight<br>Chase | | Ш | x | | | x | | × | • | | | | | | × | | | | x | × | Ш | |
+| LEVELS | LOOK
+DESCRIPTION | TIME OF DAY/
+MOOD | ALLY-NPC | ENEMY MODELS | MACRO GAMEPLAY | MACRO FLOW | PLA | YER | месни | NICS | S | | | | | | | | GAMEPLAY THEME
+(Focus) | WEAPON | s | | | | | | |
+| | | | | | | | Free Climb/Dyno | Wall Jump | Free Ropes
+Pendulum | Monkey Bars | Monkey Swing
+Balance Beams | Carry Objects Heavy | Carry Objects Light | Forced Melee | Puzzie | Swim | Moving Objects
+Push Objects | Binoculars | | Tranq-gun
+Pistol-semi-a | Pistol-semi-b
+Pistol-full-a | Pistol-revolver-a
+Pistol-revolver-b | SMG-a
+SMG-b | Assault-Rifle-a | Shotgun 1 | Shotgun 2
+Sniper-Rifle | Crossbow |
+| Warzone | | · | | | | 4 | v a . | | Ţ | | | | - 10 | , | - V | , | 105 | | | | - | | , | | | | |
+| war-1-market | Nepalese city broken & burning | High Noon - War-torn & smokey | | Laz Army HOT
+Freedom Fighters | Explore
+Traverse
+Minor Gunfights | Basic Gunplay
+Traversal Gunplay | × | x | | x | ×× | | × | t | × | | | x | Basic Gunplay
+Traversal Gunplay | × | | | | x | | | |
+| war-2-streets | Nepalese city broken & burning | High Noon - War-torn & smokey | Chloe-2 | Laz Army HOT
+Freedom Fighters | Explore
+Traverse
+Minor Gunfights | Basic Gunplay
+Traversal Gunplay | x | x | | x | x x | | × | | × | | | x | Basic Gunplay
+Traversal Gunplay | × | 60 | | | x | | | - 20 |
+| war-3-inside
+war-4-highrise | Nepalese city broken & burning | High Noon - War-torn & smokey | Chloe-2 | Laz Army HOT
+Freedom Fighters | Explore
+Traverse
+Minor Gunlights | Basic Gunplay
+Traversal Gunplay
+Get to higher ground (hotel) | x | x | | x | x x | | × | | × | | | x | Basic Gunplay
+Traversal Gunplay | × | | | | × | | П | Ī |
+| city | Nepalese city broken & burning | High Noon - War-torn & smokey | Chloe-2 | Laz Army HOT
+Freedom Fighters | Explore
+Traverse
+Minor Gunfights | Skirt close to Laz Army | x | x | | x | x x | | × | | × | | | x | Basic Gunplay
+Traversal Gunplay | × | 68 | 19 19 1 | | x | | | 76 |
+| city-2 | New area unlocked of City | High Noon - War-torn & smokey | Chloe
+Elena-1
+Cameraman | Laz Army HOT
+Freedom Fighters | Traverse
+Major Fight | Basic Gunplay
+Traversal Gunplay | × | x | | 6 - 6
+6 - 6 | × | | × | | × | | 0 | | Basic Gunplay
+Traversal Gunplay | × | 30 I | | | x | × | | 18 |
+| temple | Temple complex built in the middle of the city | mysterious | Chloe
+Elena-1
+Cameraman | Laz Army HOT
+Freedom Fighters
+Dead Expeditions | Explore
+Problem Solve
+Escape | | × | × | × | × | x x | x | x | | x | x | × | | | × | | | | x | x | | |
+| oity third pass | City + Train Yard | high tension | Elena-1 | Laz Army HOT
+Freedom Fighters | Escape/Fight
+Chase | | Ш | x | | | x | | × | • | | | | | | × | | | | x | × | Ш | |
 | Train | Transition from warzone city | | | | Te - | | The same of | | _ | | | | | | | | | | | H 1531 | - 100 | | | | 1001 | _ | _ |
-| train intro-valley<br>valley loop | to valley<br>Lower valley region.<br>Chinese rice fields, bamboo<br>forests, and distant<br>mountains | | | | | | x | 20 | | | | | × | | x | 1 | × | | | × | - 15 | | | x | x | | |
+| train intro-valley
+valley loop | to valley
+Lower valley region.
+Chinese rice fields, bamboo
+forests, and distant
+mountains | | | | | | x | 20 | | | | | × | | x | 1 | × | | | × | - 15 | | | x | x | | |
 | | Lake w/vista to the horizon | | | | | | х | | | | | | | | | | x | | | x | | | | x | x | $\Box$ | |
-| valley loop 2 | | | | | | Fall onto covoy trucks<br>Melee/Gunfigh on truck | х | | | | | | х | _ | | | x | | Fall onto covoy trucks<br>Melee/Gunfigh on truck | × | 9 | | | x | | | |
-| valley convoy intro | | | | | | Fall onto covoy trucks<br>Melee/Gunfigh on truck<br>Fall onto covoy trucks<br>Melee/Gunfigh on truck | x<br>x | | | | | | × | | | | x<br>x | | Fall onto covoy trucks<br>Melee/Gunfigh on truck<br>Fall onto covoy trucks<br>Melee/Gunfigh on truck | x | | | | x | | | - |
-| valley convoy end | | | | | | Truck driver's been shot, jump off<br>before truck smashes into cliffside | x | | $\perp$ | | $\perp$ | Ш | × | 3/ | | | × | | Truck driver's been shot, jump off<br>before truck smashes into cliffside | x | | $\perp$ | Ш | x | $\perp$ | $\perp \!\!\! \perp$ | _ |
-| tunnel loop<br>cliff bridge | | | | | | Light/Dark Tunnels | X | 81 | | | | | × | | | | x | | Light/Dark Tunnels | X | | | | X | - | ++ | - 0 |
+| valley loop 2 | | | | | | Fall onto covoy trucks
+Melee/Gunfigh on truck | х | | | | | | х | _ | | | x | | Fall onto covoy trucks
+Melee/Gunfigh on truck | × | 9 | | | x | | | |
+| valley convoy intro | | | | | | Fall onto covoy trucks
+Melee/Gunfigh on truck
+Fall onto covoy trucks
+Melee/Gunfigh on truck | x
+x | | | | | | × | | | | x
+x | | Fall onto covoy trucks
+Melee/Gunfigh on truck
+Fall onto covoy trucks
+Melee/Gunfigh on truck | x | | | | x | | | - |
+| valley convoy end | | | | | | Truck driver's been shot, jump off
+before truck smashes into cliffside | x | | $\perp$ | | $\perp$ | Ш | × | 3/ | | | × | | Truck driver's been shot, jump off
+before truck smashes into cliffside | x | | $\perp$ | Ш | x | $\perp$ | $\perp \!\!\! \perp$ | _ |
+| tunnel loop
+cliff bridge | | | | | | Light/Dark Tunnels | X | 81 | | | | | × | | | | x | | Light/Dark Tunnels | X | | | | X | - | ++ | - 0 |
 | diff loop | | | | | | | X | | 1 | | | | X | | | | x | | 8 | X | | | | X | x | $\blacksquare$ | |
 | cliff convoy intro | | | 1 | | | | X | | + | | | Н | × | | | | x | | | X | - 12 | H | H | X | + | ++ | - 519 |
 | diff end crash | | | | | 1 | | X | | | | | | X | | | | x | | | x | 100 | | | X | X | | 77 |
 | Train-Wreck | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | train-wreck | | | Alone | Laz Army Winter | | | | 0 | | | | | | | | | | | | × | 20- | | | x | × | | |
 | Village | | | | 0 | | | | | | | | 200 | | | | | | | | W. San | | | N NO. | | | 172 100 | |
-| Happy Village | Village in it's pure state.<br>Cotorful & alive vs. Harsh,<br>windy (barren-ish)<br>environment | | Parka-Drake<br>Rescuer<br>Villagers<br>Elena-winter<br>Schaffer | | Meet the villagers! | | | | | | | | | | | | | | | | 8 | | | | | | × |
+| Happy Village | Village in it's pure state.
+Cotorful & alive vs. Harsh,
+windy (barren-ish)
+environment | | Parka-Drake
+Rescuer
+Villagers
+Elena-winter
+Schaffer | | Meet the villagers! | | | | | | | | | | | | | | | | 8 | | | | | | × |
 | Ice-Cave | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | Ice-cave 1 | | | Rescuer | | | | x | x | x | | | | | | | | | | | | | | | | | | |
 
@@ -397,16 +474,36 @@ Develop the "composition" sense and don't be afraid to cut bad features.
 
 | Value | ROI | Risk | Classification | | | | | |
 |-------|---------------------|--------------------|------------------------|--|--|--|--|--|
-| V1 | R1<br>(Competitive) | R0<br>('Free') | Competitive | | | | | |
-| V2 | R1<br>(Competitive) | R1<br>(Commitment) | advantage | | | | | |
-| V3 | R2<br>(Strategic) | R0<br>('Free') | | | | | | |
-| V4 | R2<br>(Strategic) | R1<br>(Commitment) | Strategic<br>advantage | | | | | |
-| V5 | R3<br>(Polishing) | Ro<br>('Free') | | | | | | |
-| V6 | R3<br>(Polishing) | R1<br>(Commitment) | Polishing/Quality | | | | | |
-| V7 | R1<br>(Competitive) | R2<br>(Experiment) | | | | | | |
-| V8 | R2<br>(Strategic) | R2<br>(Experiment) | Experiments | | | | | |
-| V9 | R3<br>(Polishing) | R2<br>(Experiment) | | | | | | |
-## | V10+ | | Too<br>risky | | | | | | |
+| V1 | R1
+(Competitive) | R0
+('Free') | Competitive | | | | | |
+| V2 | R1
+(Competitive) | R1
+(Commitment) | advantage | | | | | |
+| V3 | R2
+(Strategic) | R0
+('Free') | | | | | | |
+| V4 | R2
+(Strategic) | R1
+(Commitment) | Strategic
+advantage | | | | | |
+| V5 | R3
+(Polishing) | Ro
+('Free') | | | | | | |
+| V6 | R3
+(Polishing) | R1
+(Commitment) | Polishing/Quality | | | | | |
+| V7 | R1
+(Competitive) | R2
+(Experiment) | | | | | | |
+| V8 | R2
+(Strategic) | R2
+(Experiment) | Experiments | | | | | |
+| V9 | R3
+(Polishing) | R2
+(Experiment) | | | | | | |
+## | V10+ | | Too
+risky | | | | | | |
 
 ## ![](_page_34_Picture_1.jpeg)
 

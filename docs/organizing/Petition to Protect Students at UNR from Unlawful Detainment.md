@@ -1,10 +1,10 @@
 ---
-date: 2025
-author: Unknown
-tags:
-  - organizing
 title: "Petition to Protect Students at UNR from Unlawful Detainment"
+author: "Unknown"
+date: "2025"
+category: "organizing"
 ---
+
 # Petition to Protect Students at UNR from Unlawful Detainment
 
 *Converted from: `./Petition to Protect Students at UNR from Unlawful Detainment.pdf`*  
@@ -101,11 +101,9 @@ title: "Petition to Protect Students at UNR from Unlawful Detainment"
 Petition to Protect Students at UNR from Unlawful Det...                     https://docs.google.com/forms/d/e/1FAIpQLScK1hjLSF...
 
 
-
-
                 Petition to Protect Students at UNR from
                 Unlawful Detainment
-                1. We demand that the University of Nevada, Reno protect its students' �rst amendment
+                1. We demand that the University of Nevada, Reno protect its students' rst amendment
                 right to assemble, including the right to protest the United States' and Israel's actions in
                 Palestine.
 
@@ -113,15 +111,13 @@ Petition to Protect Students at UNR from Unlawful Det...                     htt
                 and Customs Enforcement (ICE) in their mission to abduct non-citizen students including
                 permanent residents and visa-holders for pro-Palestine activities and protests.
 
-                3. We demand that the O�ce of the President release a statement regarding these
-                abductions, both a�rming the right to protest Israel and noncooperation with the
+                3. We demand that the Oce of the President release a statement regarding these
+                abductions, both arming the right to protest Israel and noncooperation with the
                 Department of Homeland Security and ICE.
 
                 cwcorella@gmail.com Switch account
 
                       Not shared
-
-
 
 
             Never submit passwords through Google Forms.
@@ -134,9 +130,6 @@ Petition to Protect Students at UNR from Unlawful Det...                     htt
                                                                          Forms
 
 
-
-
 1 of 1                                                                                                                       7/30/25, 11:17 AM
 
 ---
-

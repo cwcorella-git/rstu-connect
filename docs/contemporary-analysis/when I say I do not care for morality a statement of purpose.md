@@ -1,3 +1,8 @@
+---
+title: "## **when I say I do not care for morality: a statement of purpose**"
+category: "contemporary-analysis"
+---
+
 ## **when I say I do not care for morality: a statement of purpose**
 
 | Date: 2024-10-03 |
@@ -7,8 +12,13 @@
 | blood in my eye |
 | by george jackson |
 | and the first time i feel like it's sticking. |
-| Hello and welcome to Threadings., the newsletter and podcast where I discuss what stitches<br>me up at my seams in this world which routinely tries to kill me. Today, this includes:<br>truth-tellers unpopular during their lives yet lauded after death, over 78% dark chocolate,<br>sitting in silence with my elders— all manner of sweet things that at first glance might feel<br>bitter. |
-| The last real essay I wrote for us talked about the spectacle of liberation we in the Western<br>world seem addicted to. There was no happy ending attached to those thoughts because I |
+| Hello and welcome to Threadings., the newsletter and podcast where I discuss what stitches
+me up at my seams in this world which routinely tries to kill me. Today, this includes:
+truth-tellers unpopular during their lives yet lauded after death, over 78% dark chocolate,
+sitting in silence with my elders— all manner of sweet things that at first glance might feel
+bitter. |
+| The last real essay I wrote for us talked about the spectacle of liberation we in the Western
+world seem addicted to. There was no happy ending attached to those thoughts because I |
 | wanted |
 | it to read as haunting and unsettling. I wanted to leave us with the ask, |
 | well, then, what? What do I do if I can't pretend? Where do we go from here? |
@@ -54,13 +64,17 @@ as if I never would have thought of that. If every single person on earth unilat
 | byproducts |
 | of the point of usefulness. The killing is |
 | useful |
-| . Theologies, dialectics, and reasonings justifying the slaughter happen after the slaughter is<br>deemed necessary to imperialist expansion and maintenance. |
+| . Theologies, dialectics, and reasonings justifying the slaughter happen after the slaughter is
+deemed necessary to imperialist expansion and maintenance. |
 | They kill, primarily, |
 | because it remains useful |
 | to the goals of the imperialist to do so. |
-| Why should I bother with morality as a rallying cry when that is not the language of the<br>oppressor? |
-| That does not mean that I think ethnic cleansing, land theft, or enslavement should ever<br>replicate. |
-| Yes, I believe that morally it is wrong. From a strategic standpoint, I have no interest in those<br>tactics of rulership because those methods suit and reproduce oppression. What I want is to |
+| Why should I bother with morality as a rallying cry when that is not the language of the
+oppressor? |
+| That does not mean that I think ethnic cleansing, land theft, or enslavement should ever
+replicate. |
+| Yes, I believe that morally it is wrong. From a strategic standpoint, I have no interest in those
+tactics of rulership because those methods suit and reproduce oppression. What I want is to |
 
 be free, which means I move with a value on life unparalleled to any gain I might have from
 
@@ -72,7 +86,9 @@ be free, which means I move with a value on life unparalleled to any gain I migh
 | life. Of course I have liberatory goals— |
 | my |
 | life is better when everyone is free. |
-| I recognize this assertion might not gel with the rest of my internet exoskeletal persona.<br>People ascribe a lot of benevolence to me, and I do not object because it makes my job<br>easier. "But you work for free, and you gave up charging clients for therapy, you organize for |
+| I recognize this assertion might not gel with the rest of my internet exoskeletal persona.
+People ascribe a lot of benevolence to me, and I do not object because it makes my job
+easier. "But you work for free, and you gave up charging clients for therapy, you organize for |
 
 flippant hand wave\*
 

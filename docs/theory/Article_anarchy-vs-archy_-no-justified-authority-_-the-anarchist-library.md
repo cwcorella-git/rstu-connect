@@ -1,13 +1,8 @@
 ---
-title: Anarchy Vs Archy No Justified Authority the Anarchist Library
-date: 2025
-author: Unknown
-tags:
-  - organizing
-  - strikes
-  - housing
-  - rent
-  - police
+title: "Anarchy Vs Archy No Justified Authority the Anarchist Library"
+author: "Unknown"
+date: "2025"
+category: "theory"
 ---
 
 # Anarchy Vs Archy No Justified Authority the Anarchist Library

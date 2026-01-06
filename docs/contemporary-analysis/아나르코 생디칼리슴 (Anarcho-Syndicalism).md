@@ -1,3 +1,8 @@
+---
+title: "## **아나르코 생디칼리슴 (Anarcho-Syndicalism)**"
+category: "contemporary-analysis"
+---
+
 ## **아나르코 생디칼리슴 (Anarcho-Syndicalism)**
 
 ## **Author:** Rudolf Rocker

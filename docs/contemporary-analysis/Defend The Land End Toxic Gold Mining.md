@@ -1,3 +1,8 @@
+---
+title: "## **Defend The Land: End Toxic Gold Mining**"
+category: "contemporary-analysis"
+---
+
 ## **Defend The Land: End Toxic Gold Mining**
 
 ## **Date:** Fri, 07/22/2022 - 00:00
@@ -47,4 +52,5 @@ For Background:
 | Save Our Sperrins |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Disclaimer: |
-| The views expressed here are not the official position of the IWW (or even the IWW's EUC)<br>and do not necessarily represent the views of anyone but the author. |
+| The views expressed here are not the official position of the IWW (or even the IWW's EUC)
+and do not necessarily represent the views of anyone but the author. |

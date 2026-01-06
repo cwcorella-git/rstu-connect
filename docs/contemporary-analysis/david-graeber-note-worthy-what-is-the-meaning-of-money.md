@@ -1,21 +1,8 @@
 ---
-title: 'Note worthy: what is the meaning of money?'
-author: David Graeber
-date: 16<sup>th</sup> December 2011
-language: en
-source_url: >-
-  Retrieved on 3<sup>rd</sup> September 2020 from
-  https://www.theguardian.com/culture/2011/dec/16/note-worthy-new-money-graeber
-topics:
-  - money
-  - economy
-  - economics
-original_format: muse
-converted_date: '2025-11-08T11:25:03.150238'
-tags:
-  - Money
-  - Economy
-  - Economics
+title: "Note worthy: what is the meaning of money?"
+author: "David Graeber"
+date: "16<sup>th</sup> December 2011"
+category: "contemporary-analysis"
 ---
 
 It affects every aspect of our lives, is often said to be the root of all evil, and the analysis of the world that it makes possible – what we call “the economy” – is so important to us that economists have become the high priests of our society. Yet, oddly, there is absolutely no consensus among economists about what money really is.

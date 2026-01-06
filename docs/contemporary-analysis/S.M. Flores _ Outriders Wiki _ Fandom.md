@@ -1,3 +1,8 @@
+---
+title: "[outriders.fandom.com](https://outriders.fandom.com/wiki/S. M._Flores)"
+category: "contemporary-analysis"
+---
+
 [outriders.fandom.com](https://outriders.fandom.com/wiki/S. M._Flores)
 
 ## **S. M. Flores**

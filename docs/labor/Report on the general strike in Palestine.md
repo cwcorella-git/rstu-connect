@@ -1,3 +1,8 @@
+---
+title: "## **Report on the general strike in Palestine**"
+category: "labor"
+---
+
 ## **Report on the general strike in Palestine**
 
 ## **Date:** Unknown
@@ -98,9 +103,11 @@ In the UK context, this also means acknowledging and fighting the role of Britis
 
 For readers in the UK, you can join the BDS movement, take this into your trade union organising, join the Palestine solidarity groups5, integrate our struggles into your own and those that are already taking place, particularly anti-racist struggles. BDS can be part of transforming your own workplace and being in control of decisions about your own work and pension scheme. This will lead to change in Palestine, but it's also about a fight to democratise your own work. Workers should have a say over their workplace, what it
 
-| produces, what it is involved in, and where the money goes - whether in Palestine or across<br>the world. |
+| produces, what it is involved in, and where the money goes - whether in Palestine or across
+the world. |
 |------------------------------------------------------------------------------------------------------------------------------------------------------|
 | authors: |
 | Laura Laura is a researcher. |
 | Charan Charan is a tech worker. |
-| Riya Al'Sanah Riya is a research coordinator at Who Profits from the occupation economy<br>research center and a Palestinian activist based in Haifa. |
+| Riya Al'Sanah Riya is a research coordinator at Who Profits from the occupation economy
+research center and a Palestinian activist based in Haifa. |

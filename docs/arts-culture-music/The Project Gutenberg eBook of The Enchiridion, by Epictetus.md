@@ -1,3 +1,8 @@
+---
+title: "The Enchiridion"
+category: "arts-culture-music"
+---
+
 \*\*\* START OF THE PROJECT GUTENBERG EBOOK 45109 \*\*\*
 
 ## ![](_page_0_Picture_2.jpeg)
@@ -384,180 +389,474 @@ AESCHYLUS: Prometheus Bound. Tr. E. B.
 
 | Browning. (LLA 24) | .40 |
 |-------------------------------------------------------------|------|
-| *ALEMBERT,<br>D':<br>Introduction<br>the<br>to | |
-| Encyclopédie<br>1751.<br>Tr.<br>T.<br>D.<br>of | |
+| *ALEMBERT,
+D':
+Introduction
+the
+to | |
+| Encyclopédie
+1751.
+Tr.
+T.
+D.
+of | |
 | Lockwood. (LLA 88) | .80 |
-| *ARISTOTLE: Nicomachean<br>Ethics. Tr. M. | |
+| *ARISTOTLE: Nicomachean
+Ethics. Tr. M. | |
 | Ostwald. (LLA 75) | .80 |
-| ——:<br>Poetry.<br>Tr.<br>S.<br>H.<br>the<br>of<br>On<br>Art | |
+| ——:
+Poetry.
+Tr.
+S.
+H.
+the
+of
+On
+Art | |
 | Butcher. (LLA 6) | .50 |
-| *——: On<br>Style. Tr. G. M. A.<br>and<br>Poetry | |
+| *——: On
+Style. Tr. G. M. A.
+and
+Poetry | |
 | Grube. (LLA 68) | .75 |
-| AUGUSTINE: On<br>Doctrine. Tr. D.<br>Christian | |
+| AUGUSTINE: On
+Doctrine. Tr. D.
+Christian | |
 | W. Robertson, Jr. (LLA 80) | .95 |
-| *BACON: The<br>Organon. (LLA 97)<br>New | 1.00 |
-| *BECCARIA: Of<br>Punishments.<br>Crimes<br>and | |
+| *BACON: The
+Organon. (LLA 97)
+New | 1.00 |
+| *BECCARIA: Of
+Punishments.
+Crimes
+and | |
 | Tr. H. Paolucci & V. Caporale. (LLA | |
 | 107) | .60 |
-| BERGSON:<br>An<br>Introduction<br>to | |
+| BERGSON:
+An
+Introduction
+to | |
 | Metaphysics. Tr. T. E. Hulme. (LLA | |
 | 10) | .40 |
-| *BERKELEY:<br>Toward<br>An<br>Essay<br>New<br>a | |
-| Theory<br>of<br>The<br>Theory<br>of<br>Vision<br>& | |
-| Vindicated. (LLA 83)<br>Vision | .80 |
-| ——:<br>the<br>A<br>Treatise<br>Concerning | |
-| Knowledge.<br>Principles<br>of<br>Human | |
+| *BERKELEY:
+Toward
+An
+Essay
+New
+a | |
+| Theory
+of
+The
+Theory
+of
+Vision
+& | |
+| Vindicated. (LLA 83)
+Vision | .80 |
+| ——:
+the
+A
+Treatise
+Concerning | |
+| Knowledge.
+Principles
+of
+Human | |
 | (LLA 53) | .75 |
-| ——: Three<br>Dialogues<br>between<br>Hylas<br>and | |
+| ——: Three
+Dialogues
+between
+Hylas
+and | |
 | Philonous. (LLA 39) | .75 |
-| on Poetry. Tr. C. G. Osgood.<br>Boccaccio | |
-| (LLA 82)<br>\$3.50 1.25<br>cl. | |
-| *BOETHIUS:<br>The<br>Consolation<br>of | |
+| on Poetry. Tr. C. G. Osgood.
+Boccaccio | |
+| (LLA 82)
+\$3.50 1.25
+cl. | |
+| *BOETHIUS:
+The
+Consolation
+of | |
 | Philosophy. Tr. R. H. Green. (LLA 86) | |
 | | .95 |
-| BONAVENTURA: The<br>God.<br>Mind's<br>Road<br>to | |
+| BONAVENTURA: The
+God.
+Mind's
+Road
+to | |
 | Tr. G. Boas. (LLA 32) | .50 |
-| BOWMAN: The<br>Absurdity<br>of<br>Christianity | |
-| Essays. (LLA 56)<br>and<br>Other | .75 |
-| BRADLEY:<br>Ethical<br>Studies<br>(Selected | |
-| Essays). (LLA 28)<br>\$2.00 .85<br>cl. | |
-| *BURKE: On<br>Beautiful.<br>the<br>Sublime<br>and | |
+| BOWMAN: The
+Absurdity
+of
+Christianity | |
+| Essays. (LLA 56)
+and
+Other | .75 |
+| BRADLEY:
+Ethical
+Studies
+(Selected | |
+| Essays). (LLA 28)
+\$2.00 .85
+cl. | |
+| *BURKE: On
+Beautiful.
+the
+Sublime
+and | |
 | (LLA 99) | .90 |
-| ——:<br>Reflections<br>the<br>Revolution<br>in<br>on | |
-| France. (LLA 46)<br>\$3.50 1.25<br>cl. | |
-| BUTLER: Five<br>Sermons. (LLA 21) | .60 |
-| CALVIN: On<br>Faith. (LLA 93)<br>the<br>Christian | .95 |
-| ——: On<br>Duty. (LLA 23)<br>God<br>and<br>Political | |
+| ——:
+Reflections
+the
+Revolution
+in
+on | |
+| France. (LLA 46)
+\$3.50 1.25
+cl. | |
+| BUTLER: Five
+Sermons. (LLA 21) | .60 |
+| CALVIN: On
+Faith. (LLA 93)
+the
+Christian | .95 |
+| ——: On
+Duty. (LLA 23)
+God
+and
+Political | |
 | | .60 |
-| *The<br>Cid. Tr. J. G. Markley. (LLA 77) | .75 |
-| CORNFORD: Plato<br>Parmenides.<br>(LLA<br>and | |
+| *The
+Cid. Tr. J. G. Markley. (LLA 77) | .75 |
+| CORNFORD: Plato
+Parmenides.
+(LLA
+and | |
 | 102) | 1.60 |
 ## | | |
 
-| ——: Plato's<br>Cosmology. (LLA 101) | 1.75 |
+| ——: Plato's
+Cosmology. (LLA 101) | 1.75 |
 |-------------------------------------------------------|------|
-| ——: Plato's<br>Knowledge. (LLA<br>Theory<br>of | |
+| ——: Plato's
+Knowledge. (LLA
+Theory
+of | |
 | 100) | 1.75 |
-| *DANTE: De<br>vulgari<br>eloquentia. Tr. W. T. | |
+| *DANTE: De
+vulgari
+eloquentia. Tr. W. T. | |
 | H. Jackson. (LLA 85) | .60 |
 | | |
-| ——:<br>World-Government<br>(De<br>On | |
-| Monarchia).<br>Tr.<br>H.<br>W.<br>Schneider. | |
+| ——:
+World-Government
+(De
+On | |
+| Monarchia).
+Tr.
+H.
+W.
+Schneider. | |
 | (LLA 15) | .60 |
-| DESCARTES: Discourse<br>on Method. Tr. L. | |
+| DESCARTES: Discourse
+on Method. Tr. L. | |
 | J. Lafleur. (LLA 19) | .50 |
-| *——:<br>Method<br>and<br>Discourse<br>on | |
-| Meditations.<br>Tr.<br>L.<br>J.<br>Lafleur.<br>(LLA | |
+| *——:
+Method
+and
+Discourse
+on | |
+| Meditations.
+Tr.
+L.
+J.
+Lafleur.
+(LLA | |
 | 89) | .90 |
 | | |
 | ——: Meditations. Tr. L. J. Lafleur. (LLA | |
 | 29) | .60 |
-| DOSTOEVSKI: The<br>Grand<br>Inquisitor<br>on the | |
-| Man. Tr. C. Garnett. (LLA<br>Nature<br>of | |
+| DOSTOEVSKI: The
+Grand
+Inquisitor
+on the | |
+| Man. Tr. C. Garnett. (LLA
+Nature
+of | |
 | 63) | .40 |
-| *DRYDEN: An<br>of<br>Poesy.<br>Essay<br>Dramatic | |
+| *DRYDEN: An
+of
+Poesy.
+Essay
+Dramatic | |
 | (LLA 104) | .60 |
 | EMERSON: Nature. (LLA 2) | .40 |
-| EPICTETUS:<br>Enchiridion.<br>Tr.<br>T.<br>W.<br>The | |
+| EPICTETUS:
+Enchiridion.
+Tr.
+T.
+W.
+The | |
 | | |
 | Higginson. (LLA 8) | .40 |
-| ERASMUS: Ten<br>Erasmus. Tr.<br>Colloquies<br>of | |
-| C. R. Thompson. (LLA 48)<br>\$3.00 .90<br>cl. | |
+| ERASMUS: Ten
+Erasmus. Tr.
+Colloquies
+of | |
+| C. R. Thompson. (LLA 48)
+\$3.00 .90
+cl. | |
 | EURIPIDES: Electra. Tr. M. Hadas. (LLA | |
 | 26) | .40 |
-| FICHTE:<br>Man.<br>Tr.<br>W.<br>The<br>Vocation<br>of | |
+| FICHTE:
+Man.
+Tr.
+W.
+The
+Vocation
+of | |
 | Smith. (LLA 50) | .75 |
-| GOETHE: Faust<br>I. Tr. B. Q. Morgan. (LLA | |
-| 33)<br>\$2.50 .75<br>cl. | |
-| the<br>Law<br>of<br>War<br>to | |
+| GOETHE: Faust
+I. Tr. B. Q. Morgan. (LLA | |
+| 33)
+\$2.50 .75
+cl. | |
+| the
+Law
+of
+War
+to | |
 | GROTIUS: Prolegomena | |
-| Peace. Tr. F. W. Kelsey. (LLA 65)<br>and | .50 |
-| HANSLICK: The<br>Beautiful<br>Music. (LLA<br>in | |
-| 45)<br>\$2.50 .80<br>cl. | |
-| HARRINGTON:<br>The<br>Political<br>of<br>Writings | |
-| Harrington. (LLA 38)<br>\$3.00 .90<br>cl.<br>James | |
-| HEGEL:<br>History.<br>Tr.<br>R.<br>S.<br>Reason<br>in | |
-| Hartman. (LLA 35)<br>\$2.75 .75<br>cl. | |
+| Peace. Tr. F. W. Kelsey. (LLA 65)
+and | .50 |
+| HANSLICK: The
+Beautiful
+Music. (LLA
+in | |
+| 45)
+\$2.50 .80
+cl. | |
+| HARRINGTON:
+The
+Political
+of
+Writings | |
+| Harrington. (LLA 38)
+\$3.00 .90
+cl.
+James | |
+| HEGEL:
+History.
+Tr.
+R.
+S.
+Reason
+in | |
+| Hartman. (LLA 35)
+\$2.75 .75
+cl. | |
 | HESIOD: Theogony. Tr. N. O. Brown. (LLA | |
 | 36) | .50 |
 | | |
-| HOBBES: Leviathan<br>I-II. (LLA 69) | 1.00 |
-| *HUME.: David<br>Essays.<br>Literary<br>Hume's | |
+| HOBBES: Leviathan
+I-II. (LLA 69) | 1.00 |
+| *HUME.: David
+Essays.
+Literary
+Hume's | |
 | (LLA 84) | .90 |
-| ——: David<br>Essays. (LLA<br>Political<br>Hume's | |
-| 34)<br>\$3.00 .90<br>cl. | |
-| ——:<br>An<br>Inquiry<br>Concerning<br>Human | |
+| ——: David
+Essays. (LLA
+Political
+Hume's | |
+| 34)
+\$3.00 .90
+cl. | |
+| ——:
+An
+Inquiry
+Concerning
+Human | |
 | Understanding. (LLA 49) | .80 |
-| ——:<br>the<br>An<br>Inquiry<br>Concerning | |
+| ——:
+the
+An
+Inquiry
+Concerning | |
 ## | | |
 
-| Morals. (LLA 62)<br>Principles<br>of | .75 |
+| Morals. (LLA 62)
+Principles
+of | .75 |
 |----------------------------------------------------------|------|
-| *KANT:<br>Critique<br>of<br>the<br>Aesthetic | |
+| *KANT:
+Critique
+of
+the
+Aesthetic | |
 | Judgment. Tr. W. Cerf. (LLA 73) | 1.25 |
-| ——: Critique<br>of<br>Practical<br>Reason. Tr. L. | |
+| ——: Critique
+of
+Practical
+Reason. Tr. L. | |
 | W. Beck. (LLA 52) | .90 |
-| ——:<br>Fundamental<br>of<br>the | |
+| ——:
+Fundamental
+of
+the | |
 | Principles | |
-| Morals.<br>Tr.<br>T.<br>K.<br>Metaphysic<br>of | |
+| Morals.
+Tr.
+T.
+K.
+Metaphysic
+of | |
 | Abbott. (LLA 16) | .60 |
-| ——: Perpetual<br>Peace. Tr. M. C. Smith. | |
+| ——: Perpetual
+Peace. Tr. M. C. Smith. | |
 | (LLA 3) | .45 |
-| ——:<br>Peace.<br>Tr.<br>L.<br>W.<br>Beck.<br>Perpetual | |
+| ——:
+Peace.
+Tr.
+L.
+W.
+Beck.
+Perpetual | |
 | (LLA 54) | .50 |
-| *——: Perpetual<br>and<br>the<br>Idea<br>of<br>Peace<br>a | |
-| Commonwealth. Tr. L. W.<br>Universal | |
+| *——: Perpetual
+and
+the
+Idea
+of
+Peace
+a | |
+| Commonwealth. Tr. L. W.
+Universal | |
 | Beck. (LLA 96) | .75 |
-| *——: Philosophy<br>Right.<br>Tr.<br>J.<br>Ladd.<br>of | |
+| *——: Philosophy
+Right.
+Tr.
+J.
+Ladd.
+of | |
 | (LLA 72) | 1.25 |
-| ——:<br>Prolegomena<br>Any<br>Future<br>to | |
+| ——:
+Prolegomena
+Any
+Future
+to | |
 | | |
 | Metaphysics. Tr. Mahaffy-Carus; rev. | |
-| L. W. Beck. (LLA 27)<br>\$2.00 .85<br>cl. | |
-| *——:<br>Religion<br>within<br>the<br>of<br>Limits | |
+| L. W. Beck. (LLA 27)
+\$2.00 .85
+cl. | |
+| *——:
+Religion
+within
+the
+of
+Limits | |
 | Reason. Tr. T. M. Green. (LLA 108) | |
-| \$3.50 1.00<br>cl. | |
-| KLEIST: The<br>Homburg. Tr. C. E.<br>of<br>Prince | |
+| \$3.50 1.00
+cl. | |
+| KLEIST: The
+Homburg. Tr. C. E.
+of
+Prince | |
 | Passage. (LLA 60) | .75 |
-| *LE BON: Mass<br>Crowd).<br>Psychology<br>(The | |
+| *LE BON: Mass
+Crowd).
+Psychology
+(The | |
 | (LLA 90) | .80 |
-| *LEIBNIZ:<br>Monadology<br>and<br>Other | |
-| Essays.<br>Tr.<br>P.<br>&<br>A.<br>Philosophical | |
+| *LEIBNIZ:
+Monadology
+and
+Other | |
+| Essays.
+Tr.
+P.
+&
+A.
+Philosophical | |
 | Schrecker. (LLA 94) | .90 |
 | *LESSING: Laocoön. Tr. E. A. Mc Cormick. | |
 | (LLA 78) | .95 |
-| The<br>Life<br>of<br>Lazarillo<br>de | |
+| The
+Life
+of
+Lazarillo
+de | |
 | Tormes. Tr. J. G. | |
 | Markley. (LLA 37) | .50 |
-| LOCKE: A<br>Toleration.<br>Letter<br>Concerning | |
+| LOCKE: A
+Toleration.
+Letter
+Concerning | |
 | (LLA 22) | .40 |
-| ——:<br>The<br>Second<br>of<br>Treatise | |
-| Government. (LLA 31)<br>\$2.50 .80<br>cl. | |
-| LONGINUS:<br>(On<br>the<br>On<br>Great<br>Writing | |
+| ——:
+The
+Second
+of
+Treatise | |
+| Government. (LLA 31)
+\$2.50 .80
+cl. | |
+| LONGINUS:
+(On
+the
+On
+Great
+Writing | |
 | Sublime). Tr. G. M. A. Grube. (LLA | |
 | 79) | .60 |
-| MACHIAVELLI:<br>Mandragola.<br>Tr.<br>A.<br>&<br>H. | |
+| MACHIAVELLI:
+Mandragola.
+Tr.
+A.
+&
+H. | |
 | Paolucci. (LLA 58) | .60 |
-| MILL, J.: An<br>on Government. (LLA<br>Essay | |
+| MILL, J.: An
+on Government. (LLA
+Essay | |
 | 47) | .50 |
 | MILL, J. S.: Autobiography. (LLA 91) | .90 |
-| and<br>of<br>Two | |
-| *——: Nature<br>Utility<br>Religion; | |
+| and
+of
+Two | |
+| *——: Nature
+Utility
+Religion; | |
 | Essays. (LLA 81) | .60 |
-## | ——: On<br>Liberty. (LLA 61) | .65 |
+## | ——: On
+Liberty. (LLA 61) | .65 |
 
-| ——:<br>Considerations<br>Representative<br>on | |
+| ——:
+Considerations
+Representative
+on | |
 |-----------------------------------------------------|-----|
 | Government. (LLA 71) | .90 |
 | MILL, J. S. (cont'd): Theism. (LLA 64) | .75 |
 | ——: Utilitarianism. (LLA 1) | .50 |
 | *MOLIERE: Tartuffe. Tr. R. W. Hartle. (LLA | |
 | 87) | .50 |
-| NIETZSCHE:<br>The<br>Use<br>and<br>Abuse<br>of | |
+| NIETZSCHE:
+The
+Use
+and
+Abuse
+of | |
 | History. (LLA 11) | .50 |
 | of | |
-| PAINE: The<br>Reason. (LLA 5)<br>Age | .50 |
-| PLATO: Euthyphro<br>Crito. Tr. F. J.<br>, Apology, | |
+| PAINE: The
+Reason. (LLA 5)
+Age | .50 |
+| PLATO: Euthyphro
+Crito. Tr. F. J.
+, Apology, | |
 | Church. (LLA 4) | .50 |
 | ——: Gorgias. Tr. W. C. Helmbold. (LLA | |
 | 20) | .75 |
@@ -570,34 +869,68 @@ AESCHYLUS: Prometheus Bound. Tr. E. B.
 | ——: Statesman. Tr. J. B. Skemp. (LLA | |
 | 57) | .75 |
 | ——: Symposium. Tr. B. Jowett. (LLA 7) | .40 |
-| *——:<br>Theaetetus.<br>Tr.<br>F.<br>M.<br>Cornford. | |
+| *——:
+Theaetetus.
+Tr.
+F.
+M.
+Cornford. | |
 | (LLA 105) | .80 |
 | ——: Timaeus. Tr. F. M. Cornford. (LLA | |
 | 106) | .80 |
-| PLAUTUS:<br>The<br>Haunted<br>House | |
+| PLAUTUS:
+The
+Haunted
+House | |
 | (Mostellaria). Tr. F. O. Copley. (LLA | |
 | 42) | .45 |
-| ——: The<br>Menaechmi. Tr. F. O. Copley. | |
+| ——: The
+Menaechmi. Tr. F. O. Copley. | |
 | (LLA 17) | .45 |
-| ——: The<br>(Rudens). Tr. F. O. Copley.<br>Rope | |
+| ——: The
+(Rudens). Tr. F. O. Copley.
+Rope | |
 | (LLA 43) | .45 |
-| *POPE: Essay<br>on Man. (LLA 103) | .50 |
-| POST:<br>Cases<br>in<br>British | |
-| Significant<br>Constitutional | |
+| *POPE: Essay
+on Man. (LLA 103) | .50 |
+| POST:
+Cases
+in
+British | |
+| Significant
+Constitutional | |
 | Law. (LLA 66) | |
-| \$3.50 1.25<br>cl. | |
-| *ROUSSEAU:<br>Discourses.<br>Tr.<br>V.<br>Two | |
+| \$3.50 1.25
+cl. | |
+| *ROUSSEAU:
+Discourses.
+Tr.
+V.
+Two | |
 | Gourevitch. (LLA 109) | .80 |
-| *RUSSELL: Selected<br>Essays. (LLA 74) | .90 |
-| SCHNEIDER:<br>of<br>Sources<br>Contemporary | |
-| America.<br>Philosophical<br>Realism<br>in | |
+| *RUSSELL: Selected
+Essays. (LLA 74) | .90 |
+| SCHNEIDER:
+of
+Sources
+Contemporary | |
+| America.
+Philosophical
+Realism
+in | |
 | (LLA 92) | .60 |
-| *SCHOPENHAUER: Essay<br>on the<br>Freedom | |
-| Will. Tr. K. Kolenda. (LLA 70)<br>of<br>the | .80 |
+| *SCHOPENHAUER: Essay
+on the
+Freedom | |
+| Will. Tr. K. Kolenda. (LLA 70)
+of
+the | .80 |
 | SENECA: Medea. Tr. M. Hadas. (LLA 55) | .45 |
 | ——: Oedipus. Tr. M. Hadas. (LLA 44) | .45 |
 | ——: Thyestes. Tr. M. Hadas. (LLA 76) | .45 |
-| *SHELLEY: Defence<br>Poetry. (LLA 98)<br>of | .50 |
+| *SHELLEY: Defence
+Poetry. (LLA 98)
+of | .50 |
 
 .40 .50 .45 .45 .90 .50 SOPHOCLES: Electra. Tr. R. C. Jebb. (LLA 25) SPINOZA: On the Improvement of the Understanding. Tr. J. Katz. (LLA 67) TERENCE: Phormio. Tr. F. O. Copley. (LLA 95) ——: The Woman of Andros. Tr. F. O. Copley. (LLA 18) \*TOLSTOY: What Is Art? Tr. A. Maude. (LLA 51) WHITMAN: Democratic Vistas. (LLA 9)
 

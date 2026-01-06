@@ -1,3 +1,8 @@
+---
+title: "**Communist Manifesto (Chapter 1)**"
+category: "contemporary-analysis"
+---
+
 #### [marxists.org](https://www.marxists.org/archive/marx/works/1848/communist-manifesto/ch01.htm)
 
 # **Communist Manifesto (Chapter 1)**

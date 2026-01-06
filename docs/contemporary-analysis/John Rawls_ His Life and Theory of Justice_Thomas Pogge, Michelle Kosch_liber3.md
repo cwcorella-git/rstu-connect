@@ -1,3 +1,8 @@
+---
+title: "John Rawls"
+category: "contemporary-analysis"
+---
+
 # John Rawls
 
 ## HIS LIFE AND THEORY OF JUSTICE
@@ -88,64 +93,306 @@ This book is dedicated to the memory of my dear friend and colleague Sidney Morg
 
 # contents
 
-| 1.<br>Biography<br>3 |
+| 1.
+Biography
+3 |
 |------------------------------------------------------------------------|
 | |
-| 1.1<br>Family<br>and<br>Schooling<br>4 |
-| 1.2<br>College<br>and<br>War<br>9 |
-| 1.3<br>Academic<br>Career<br>16 |
-| 1.4<br>The<br>Turbulent<br>Decade<br>1962–1971<br>18 |
-| 1.5<br>After<br>A<br>Theory<br>of<br>Justice<br>22 |
-| 1.6<br>The<br>Meaning<br>of<br>Rawls's<br>Project<br>26 |
-| 2.<br>The<br>Focus<br>on<br>the<br>Basic<br>Structure<br>28 |
-| 2.1<br>The<br>Origin<br>of<br>the<br>Theory<br>29 |
-| 2.2<br>The<br>Complexity<br>of<br>Modern<br>Societies<br>31 |
-| 2.3<br>The<br>Idea<br>of<br>an<br>Overlapping<br>Consensus<br>34 |
-| 2.4<br>The<br>Scope<br>of<br>the<br>Theory<br>38 |
-| 3.<br>A<br>Top-Tier<br>Criterion<br>of<br>Justice<br>42 |
-| 3.1<br>Purely<br>Recipient-Oriented<br>Criteria<br>of<br>Justice<br>43 |
-| 3.2<br>The<br>Anonymity<br>Condition<br>48 |
-| 3.3<br>Fundamental<br>Interests<br>versus<br>Happiness<br>54 |
-| 4.<br>The<br>Basic<br>Idea:<br>Justice<br>as<br>Fairness<br>60 |
-| 4.1<br>The<br>Original<br>Position<br>60 |
-## | 4.2<br>Maximin<br>versus<br>Average<br>67 |
+| 1.1
+Family
+and
+Schooling
+4 |
+| 1.2
+College
+and
+War
+9 |
+| 1.3
+Academic
+Career
+16 |
+| 1.4
+The
+Turbulent
+Decade
+1962–1971
+18 |
+| 1.5
+After
+A
+Theory
+of
+Justice
+22 |
+| 1.6
+The
+Meaning
+of
+Rawls's
+Project
+26 |
+| 2.
+The
+Focus
+on
+the
+Basic
+Structure
+28 |
+| 2.1
+The
+Origin
+of
+the
+Theory
+29 |
+| 2.2
+The
+Complexity
+of
+Modern
+Societies
+31 |
+| 2.3
+The
+Idea
+of
+an
+Overlapping
+Consensus
+34 |
+| 2.4
+The
+Scope
+of
+the
+Theory
+38 |
+| 3.
+A
+Top-Tier
+Criterion
+of
+Justice
+42 |
+| 3.1
+Purely
+Recipient-Oriented
+Criteria
+of
+Justice
+43 |
+| 3.2
+The
+Anonymity
+Condition
+48 |
+| 3.3
+Fundamental
+Interests
+versus
+Happiness
+54 |
+| 4.
+The
+Basic
+Idea:
+Justice
+as
+Fairness
+60 |
+| 4.1
+The
+Original
+Position
+60 |
+## | 4.2
+Maximin
+versus
+Average
+67 |
 
-| 4.3 | Primary<br>Goods<br>73 |
+| 4.3 | Primary
+Goods
+73 |
 |-----|------------------------------------------------------------------------------------------|
-| 4.4 | The<br>Lexical<br>Priority<br>of<br>the<br>Basic<br>Liberties<br>77 |
+| 4.4 | The
+Lexical
+Priority
+of
+the
+Basic
+Liberties
+77 |
 | | |
-| | 5.<br>The<br>First<br>Principle<br>of<br>Justice<br>82 |
-| 5.1 | The<br>Structure<br>of<br>a<br>Basic<br>Right<br>83 |
-| 5.2 | Formulating<br>the<br>Required<br>Scheme<br>of<br>Basic |
-| | Rights<br>and<br>Liberties<br>85 |
-| 5.3 | The<br>Fair<br>Value<br>of<br>the<br>Basic<br>Political<br>Liberties<br>91 |
-| 5.4 | Permissible<br>Reductions<br>of<br>Basic<br>Liberties<br>96 |
-| 5.5 | Impermissible<br>Reductions<br>of<br>Basic<br>Liberties<br>101 |
+| | 5.
+The
+First
+Principle
+of
+Justice
+82 |
+| 5.1 | The
+Structure
+of
+a
+Basic
+Right
+83 |
+| 5.2 | Formulating
+the
+Required
+Scheme
+of
+Basic |
+| | Rights
+and
+Liberties
+85 |
+| 5.3 | The
+Fair
+Value
+of
+the
+Basic
+Political
+Liberties
+91 |
+| 5.4 | Permissible
+Reductions
+of
+Basic
+Liberties
+96 |
+| 5.5 | Impermissible
+Reductions
+of
+Basic
+Liberties
+101 |
 | | |
-| | 6.<br>The<br>Second<br>Principle<br>of<br>Justice<br>106 |
-| 6.1 | The<br>Difference<br>Principle<br>in<br>First<br>Approximation<br>106 |
-| 6.2 | The<br>Difference<br>Principle<br>in<br>Detail<br>110 |
-| 6.3 | Advocating<br>the<br>Difference<br>Principle<br>in<br>the<br>Original<br>Position<br>115 |
-| 6.4 | The<br>Opportunity<br>Principle<br>120 |
-| 6.5 | Advocating<br>the<br>Opportunity<br>Principle<br>in<br>the |
-| 6.6 | Original<br>Position<br>126<br>A<br>Property-Owning<br>Democracy<br>133 |
+| | 6.
+The
+Second
+Principle
+of
+Justice
+106 |
+| 6.1 | The
+Difference
+Principle
+in
+First
+Approximation
+106 |
+| 6.2 | The
+Difference
+Principle
+in
+Detail
+110 |
+| 6.3 | Advocating
+the
+Difference
+Principle
+in
+the
+Original
+Position
+115 |
+| 6.4 | The
+Opportunity
+Principle
+120 |
+| 6.5 | Advocating
+the
+Opportunity
+Principle
+in
+the |
+| 6.6 | Original
+Position
+126
+A
+Property-Owning
+Democracy
+133 |
 | | |
-| | 7.<br>A<br>Rawlsian<br>Society<br>135 |
-| 7.1 | A<br>Well-Ordered<br>Society<br>137 |
-| 7.2 | A<br>Political<br>Conception<br>of<br>Justice<br>139 |
-| 7.3 | Political<br>versus<br>Comprehensive<br>Liberalisms<br>144 |
-| 7.4 | An<br>Egalitarian<br>Liberal<br>Conception<br>of<br>Justice<br>148 |
-| 7.5 | A<br>Society<br>Well-Ordered<br>by<br>Rawls's<br>Conception<br>153 |
-| 7.6 | A<br>More<br>Realistic<br>Vision<br>156 |
-| | Justication<br>8.<br>On<br>161 |
+| | 7.
+A
+Rawlsian
+Society
+135 |
+| 7.1 | A
+Well-Ordered
+Society
+137 |
+| 7.2 | A
+Political
+Conception
+of
+Justice
+139 |
+| 7.3 | Political
+versus
+Comprehensive
+Liberalisms
+144 |
+| 7.4 | An
+Egalitarian
+Liberal
+Conception
+of
+Justice
+148 |
+| 7.5 | A
+Society
+Well-Ordered
+by
+Rawls's
+Conception
+153 |
+| 7.6 | A
+More
+Realistic
+Vision
+156 |
+| | Justication
+8.
+On
+161 |
 | | |
-| 8.1 | Reective<br>Equilibrium<br>162 |
-| 8.2 | Fundamental<br>Ideas<br>170 |
-| 8.3 | Truth<br>and<br>Reasonableness<br>174 |
-| | 9.<br>The<br>Reception<br>of<br>Justice<br>as<br>Fairness<br>178 |
-| 9.1 | Rawls<br>and<br>Libertarianism<br>178 |
-| 9.2 | Rawls<br>and<br>Communitarianism<br>185 |
-| 9.3 | Rawls<br>and<br>Kant<br>188 |
+| 8.1 | Reective
+Equilibrium
+162 |
+| 8.2 | Fundamental
+Ideas
+170 |
+| 8.3 | Truth
+and
+Reasonableness
+174 |
+| | 9.
+The
+Reception
+of
+Justice
+as
+Fairness
+178 |
+| 9.1 | Rawls
+and
+Libertarianism
+178 |
+| 9.2 | Rawls
+and
+Communitarianism
+185 |
+| 9.3 | Rawls
+and
+Kant
+188 |
 ## | | |
 
 #### Conclusion 196
@@ -496,7 +743,7 @@ Our intuitive understanding of justice seems then to give more weight to burdens
 
 This more moderate critique has much to be said for it (cf. section 5.4). But it is nonetheless true that the consequentialist element is widely accepted among those Rawls sought to convince. This may be in part because the distinction highlighted by the moderate critique is often overlooked. This happens easily, because commonly used phrases are systematically ambiguous. When it is said, for instance, that an institutional order should be judged ''by its effects'' or ''by how it affects individuals,'' it remains unclear whether the information to be consulted includes the causal pathways linking the institutional order to its effects. (An added emphasis—''by how it affects individuals'' can disambiguate.) It is easy, then, to slide from the idea of forwardlooking assessment (candidates are to be judged solely by what they cause and how they cause it) to the idea of consequentialist assessment (candidates are to be judged solely by what they cause, regardless of how they cause it).
 
-Utilitarians exemplify purely recipient-oriented moral theorizing. Bentham's institutional utilitarianism is an example. It assesses alternative designs of an institutional order solely by their (probabilistic) effects on pains and pleasures experienced by individuals—regardless of how the institutional order is causally involved in producing such pains and pleasures. Purely recipient-oriented moral assessment is also strongly dominant in modern normative economics, where it manifests itself in the (strong) Pareto condition (named for the Italian economist Vilfredo Pareto, 1848–1923). This condition requires that, of two candidates, C<sup>1</sup> must be ranked above C<sup>2</sup> if some affected recipient would be better off and none worse off under C<sup>1</sup> than under C2. Thus, once again, alternative practicable social orders are judged by what causal impact each would have, without regard to how it would have this impact.
+Utilitarians exemplify purely recipient-oriented moral theorizing. Bentham's institutional utilitarianism is an example. It assesses alternative designs of an institutional order solely by their (probabilistic) effects on pains and pleasures experienced by individuals—regardless of how the institutional order is causally involved in producing such pains and pleasures. Purely recipient-oriented moral assessment is also strongly dominant in modern normative economics, where it manifests itself in the (strong) Pareto condition (named for the Italian economist Vilfredo Pareto, 1848–1923). This condition requires that, of two candidates, C1 must be ranked above C2 if some affected recipient would be better off and none worse off under C1 than under C2. Thus, once again, alternative practicable social orders are judged by what causal impact each would have, without regard to how it would have this impact.
 
 If one accepts that a criterion of justice should incorporate the three elements of consequentialism, humanism, and normative individualism (and hence should be purely recipient-oriented), one is still very far from a workable criterion of justice. In particular, two gaps remain to be lled: One needs an account of the human interests in terms of which a candidate's effects on individuals can be measured: an account of individual well-being or quality of life. And one needs a way of aggregating well-being information across individuals, because it will rarely be the case that the Pareto condition sufces to rank one candidate above all the rest. The next section discusses a step toward closing this latter gap: a fourth element of a top-tier criterion of justice. Philosophers have called this element impartiality or moral universalism or equal consideration. But because these labels are used in various other senses as well, I prefer the economists' term anonymity.
 
@@ -504,32 +751,24 @@ If one accepts that a criterion of justice should incorporate the three elements
 
 A criterion of justice incorporates the anonymity condition when it takes account of effects on a person equally, irrespective of who the person is. This element may seem to be contained in normative individualism, but it is not. Normative individualism requires that candidates be judged solely by their effects on individuals. This requirement is met even when the effects on some individuals (identied by name or by attributes) are given more weight than the effects on others. The fourth element rules out such partiality by requiring that individual well-being information be aggregated in a way that treats the information about any one individual the same as that about any other. The well-being information is, as it were, detached from the identity of the person: anonymized. A criterion incorporating this fourth element is equally sensitive to a deprived childhood, say, regardless of whether it is suffered by Alice or Beth, by a man or a woman, by a white or a black, by a Mormon or a Jew.
 
-Suppose we have a society with three individuals—Alice, Beth, and Carl—and use an ordered triplet of numbers to represent how well off they would be under any candidate social order. The anonymity condition requires that all permutations of the same three numbers must lead to the same assessment. Thus, a candidate that produces a <5,3,9> distribution of well-being is as good for its participants as other candidates producing distributions <3,9,5> or <9,3,5> or <3,5,9> or <9,5,3> or <5,9,3>. The well-being scores that a candidate produces for its participants are considered anonymously, that is, without regard to whose well-being each of these numbers represents.
+Suppose we have a society with three individuals—Alice, Beth, and Carl—and use an ordered triplet of numbers to represent how well off they would be under any candidate social order. The anonymity condition requires that all permutations of the same three numbers must lead to the same assessment. Thus, a candidate that produces a  distribution of well-being is as good for its participants as other candidates producing distributions  or  or  or  or . The well-being scores that a candidate produces for its participants are considered anonymously, that is, without regard to whose well-being each of these numbers represents.
 
-Incorporating the anonymity condition adds discriminatory power to the idea of purely recipient-oriented assessment in that it allows many more contests to be decided. Thus consider two candidates, C<sup>1</sup> and C2, that would, in our three-member society, produce well-being triplets of <5,3,9> and <4,9,6>, respectively. Relying on the Pareto condition alone, one cannot rank either candidate above the other because, while Beth would be better off under C2, Alice and Carl would do better under C1. Invoking the anonymity condition in addition, a ranking is possible: The Pareto condition shows <5,3,9>
+Incorporating the anonymity condition adds discriminatory power to the idea of purely recipient-oriented assessment in that it allows many more contests to be decided. Thus consider two candidates, C1 and C2, that would, in our three-member society, produce well-being triplets of  and , respectively. Relying on the Pareto condition alone, one cannot rank either candidate above the other because, while Beth would be better off under C2, Alice and Carl would do better under C1. Invoking the anonymity condition in addition, a ranking is possible: The Pareto condition shows 
 
-to be inferior to <6,4,9>, which in turn is equivalent to <4,9,6> by the anonymity condition. It follows by transitivity that <5,3,9> is inferior to <4,9,6>, and so C, must be ranked below C,
+to be inferior to , which in turn is equivalent to  by the anonymity condition. It follows by transitivity that  is inferior to , and so C, must be ranked below C,
 
-(This same result can be achieved on another path: The Pareto condition shows that <4,9,6> is superior to <3,9,5>. But, according to the anonymity condition, $\langle 3,9,5 \rangle$ is equivalent to $\langle 5,3,9 \rangle$ . Hence, by transitivity, <5,3,9> must also be considered inferior to <4,9,6> and C1 therefore be ranked below C2.)
+(This same result can be achieved on another path: The Pareto condition shows that  is superior to . But, according to the anonymity condition, $\langle 3,9,5 \rangle$ is equivalent to $\langle 5,3,9 \rangle$ . Hence, by transitivity,  must also be considered inferior to  and C1 therefore be ranked below C2.)
 
 Stating the point in general terms: A top-level criterion of justice satisfying the anonymity and Pareto conditions will hold that one candidate social order is superior to another just in case there is some one-to-one mapping of individual well-being scores under the former into those under the latter such that, for all pairs, the first score is in at least one case higher and in no case lower than the second.
 
-When there are many affected recipients, the easiest way of comparing two candidates is by reordering the individual well-being scores each would generate by magnitude. (The anonymity condition requires that such a reordering should not alter the assessment.) This reordering yields the distributional profile associated with each candidate. Thus, the distributional profiles of the two ways of organizing the microsociety just discussed are <3,5,9> and <4,6,9>, respectively. Here is a more complex example involving the distributional profiles of three alternative public criteria:
+When there are many affected recipients, the easiest way of comparing two candidates is by reordering the individual well-being scores each would generate by magnitude. (The anonymity condition requires that such a reordering should not alter the assessment.) This reordering yields the distributional profile associated with each candidate. Thus, the distributional profiles of the two ways of organizing the microsociety just discussed are  and , respectively. Here is a more complex example involving the distributional profiles of three alternative public criteria:
 
 
-C_{\perp} < 1, 1, 1, 2, 2, 2, 3, 3, 3, 3, 3, 4, 4, 4, 4, 4, 4, 5, 5, 6, 6, 6, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 8, 8, 8, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9,
-C_s < 1, 1, 1, 1, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 5, 5, 5, 5, 6, 6, 6, 6, 6, 7, 7, 7, 7, 8, 8, 8, 8, 8, 8, 8, 8, 8, 9, 9, 9 > 
-C_6 < 2,2,2,2,3,3,3,3,3,3,3,3,3,4,4,5,5,5,5,5,6,6,6,6,6,6,6,6,6,7,7,7,7,8,8,8,8,8,8,8
+C_{\perp}  
+C_6 
+C8: 
 ## 
-Employing such distributional profiles, one can see at a glance that the distribution C5 would produce is inferior to the two distributions C4 and C6 would produce, and also that the anonymity and Pareto conditions do not suffice to rank C4 vis-à-vis C6.
-
-The preceding discussion simplifies by assuming that, irrespective of which social order is chosen, the same persons would exist. This assumption is false of real-world societies, where the choice of social order makes a difference to who is born. This might be no problem if at least a society's population size were unaffected. But this weaker assumption, too, is false in the real world: The way a society is organized affects its birth and death rates. And there may then not be a one-to-one mapping of individuals across alternative ways of organizing society.
-
-
-C7: <1, 1, 1, 2, 2, 2, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 5, 5, 5, 5, 6, 6, 6, 6, 6, 7, 7, 7, 7, 8, 8, 8, 8, 8, 9, 9, 9, 9, 9>
-C8: <1,1,1,1,1,2,2,2,2,3,3,3,3,3,3,3,3,3,4,4,4,4,4,4,5,5,5,5,5,6,6,6,6,6,6,7,7,7,7,7,7,8,8,8,8,8,8,9,9,9,9,9,9>
-## 
-The distributional prole produced by C<sup>7</sup> counts as Pareto-superior to that produced by C<sup>8</sup> on the ground that some persons under C<sup>7</sup> would be better off, and none worse off, than their counterparts (here shown immediately below) at the corresponding percentile under C8. In general terms, of two ways of organizing the same society, Cx is to be ranked above Cy just in case the distribution produced by Cx is better than that produced by Cy at some percentile and worse at none.
+The distributional prole produced by C7 counts as Pareto-superior to that produced by C8 on the ground that some persons under C7 would be better off, and none worse off, than their counterparts (here shown immediately below) at the corresponding percentile under C8. In general terms, of two ways of organizing the same society, Cx is to be ranked above Cy just in case the distribution produced by Cx is better than that produced by Cy at some percentile and worse at none.
 
 This method of comparison can also be represented graphically by means of curves, each of which represents the individual well-being scores, ordered by magnitude, a candidate is estimated to produce. These curves, which are steadily rising toward the right, are standard-
 
@@ -537,11 +776,11 @@ This method of comparison can also be represented graphically by means of curves
 
 Figure 3.1. Distributional Proles Represented Graphically ized so that their width is equal, irrespective of how many individuals would come to exist under each candidate social order. (Each hundredth of this width represents one percentile of the population.) In superimposing any two such curves upon each other, if one is above the other at some points and below at none, then the candidate associated with the former must be ranked above the candidate associated with the latter. Alternative social orders are compared via their standardized distributional proles.
 
-While this is the common way in which the Pareto and anonymity conditions are applied to different-number cases, it could be disputed. Consider again the preceding illustration. To compare C<sup>8</sup> with C7, one might, in the rst instance, consider only as many of the best-off persons under C<sup>8</sup> as are needed for a one-to-one mapping:
+While this is the common way in which the Pareto and anonymity conditions are applied to different-number cases, it could be disputed. Consider again the preceding illustration. To compare C8 with C7, one might, in the rst instance, consider only as many of the best-off persons under C8 as are needed for a one-to-one mapping:
 
-C7: <1,1,1,2,2,2,3,3,3,3,3,3,4,4,4,4,5,5,5,5,6,6,6,6,6,7,7,7,7,8,8,8,8,8,9,9,9,9,9> C8: <3,3,3,3,4,4,4,4,4,4,5,5,5,5,5,6,6,6,6,6,6,7,7,7,7,7,7,8,8,8,8,8,8,9,9,9,9,9,9>
+C7:  C8: 
 
-With this method of comparison, the distributional prole under C<sup>8</sup> is Pareto-superior to that under C7. One might accept this ranking, provided only that the residual persons who would come to exist and would be the worst off under C<sup>8</sup> still have lives worth living. So C<sup>8</sup> is ranked higher, all things considered: In the pairs generated by the mapping, the persons who would exist under C<sup>8</sup> are in some cases better off and in no case worse off than their counterparts under C7. And C<sup>8</sup> even offers a further bonus of additional lives that are worth living (with well-being scores 1,1,1,1,1,2,2,2,2,3,3,3,3,3).
+With this method of comparison, the distributional prole under C8 is Pareto-superior to that under C7. One might accept this ranking, provided only that the residual persons who would come to exist and would be the worst off under C8 still have lives worth living. So C8 is ranked higher, all things considered: In the pairs generated by the mapping, the persons who would exist under C8 are in some cases better off and in no case worse off than their counterparts under C7. And C8 even offers a further bonus of additional lives that are worth living (with well-being scores 1,1,1,1,1,2,2,2,2,3,3,3,3,3).
 
 Obviously, applying the Pareto and anonymity conditions in this alternative way would favor candidates under which more persons would come to exist. And so it is not surprising that, in an era when overpopulation has come to be a concern, most theorists (including Rawls and contemporary utilitarians) prefer to compare candidates via their standardized distributional proles.
 
@@ -549,17 +788,15 @@ Though the anonymity condition so applied is widely endorsed as a plausible ingr
 
 More appealing is the idea that the interests of morally deserving persons should count for more. But how morally deserving various persons will turn out to be depends in large part on the social order under which they live and thus cannot straightforwardly inform the choice of one such order over others. Still, one could say that, when comparing two candidates, it should count in favor of Cx that it better rewards those who would turn out to be morally deserving under Cx than Cy rewards those who would turn out to be morally deserving under Cy. Rawls rejects this idea on the ground that a just society should allow a wide diversity of judgments about what acts and lives are morally deserving. It must require compliance with its rules, of course, and punish some rule violations. But it need not and should not endorse any particular assessment of the lives individuals choose to lead within the freedom they have under the law.
 
-A third objection to the anonymity condition, associated with David Gauthier, holds that the well-being of persons ought to reect their differential bargaining power or threat advantage. Thus consider again the simple society consisting of Alice, Beth, and Carl. The anonymity condition holds that two candidates C<sup>1</sup> and C3, producing well-being distributions of <5,3,9> and <3,9,5>, respectively, should get equivalent assessments. But suppose that, were social cooperation to break down, the well-being scores of these three persons would be <2,1,3>. Alice and Carl can appeal to this fact, arguing that C<sup>3</sup> would involve an unfair distribution of the gains from cooperation, allowing Beth to gain 800 percent versus gains of only 50 percent and 67 percent for Alice and Carl. C1, by contrast, involves a fairer distribution of gains: Alice gains 150 percent while Beth and Carl gain 200 percent each. Rawls can counter this objection by pointing out that any claims about how present citizens would fare if their society were dissolved are highly speculative, to put it mildly. He puts more stress, however, on the moral response that ''to each according to his threat advantage'' entails horrendous conclusions (T J 116n10). This principle would celebrate as just a society in which those least able to fend for themselves would be severely disadvantaged in terms of rights and opportunities.
+A third objection to the anonymity condition, associated with David Gauthier, holds that the well-being of persons ought to reect their differential bargaining power or threat advantage. Thus consider again the simple society consisting of Alice, Beth, and Carl. The anonymity condition holds that two candidates C1 and C3, producing well-being distributions of  and , respectively, should get equivalent assessments. But suppose that, were social cooperation to break down, the well-being scores of these three persons would be . Alice and Carl can appeal to this fact, arguing that C3 would involve an unfair distribution of the gains from cooperation, allowing Beth to gain 800 percent versus gains of only 50 percent and 67 percent for Alice and Carl. C1, by contrast, involves a fairer distribution of gains: Alice gains 150 percent while Beth and Carl gain 200 percent each. Rawls can counter this objection by pointing out that any claims about how present citizens would fare if their society were dissolved are highly speculative, to put it mildly. He puts more stress, however, on the moral response that ''to each according to his threat advantage'' entails horrendous conclusions (T J 116n10). This principle would celebrate as just a society in which those least able to fend for themselves would be severely disadvantaged in terms of rights and opportunities.
 
 The fourth and most powerful objection to the anonymity condition maintains that, even if two distributions display the same distributional prole, one may still be morally inferior to the other if it displays a strong correlation between well-being scores on the one hand and skin color, gender, or religion on the other. Thus consider two identical distributional proles with the scores of women (or people of color) highlighted in boldface:
 
 
-<1,1,1,2,2,2,3,3,3,3,3,4,4,4,4,4,4,5,5,6,6,6,7,7,7,7,7,7,7,7,7,8,8,8,8,9,9,9,9,9,9, 9,9,9,9>
-<1,1,1,2,2,2,3,3,3,3,3,4,4,4,4,4,4,5,5,6,6,6,7,7,7,7,7,7,7,7,7,8,8,8,8,9,9,9,9,9,9, 9,9,9,9>
 ## 
 Here the candidate public criterion producing the latter distributional prole would intuitively seem to be morally preferable because, unlike the former, it does not produce a distribution of well-being highly correlated with gender (or skin color). I return to this problem in section 6.4.
 
-Purely recipient-oriented theorists who take individual human beings as recipients and accept the anonymity condition are two steps away from a workable top-tier criterion of justice: They must still specify a metric of well-being in terms of which one can estimate how well off or badly off the individuals living under any social order would be and in terms of which one can then sketch the distributional prole associated with each. And they must still specify an interpersonal aggregation function through which the data collected in each distributional prole can be synthesized into one overall assessment. The Pareto and anonymity conditions contribute to this latter task. But by themselves, they have too little discriminatory power, leaving many comparisons (such as that of C<sup>4</sup> and C6) indeterminate, as their associated distributional proles are Pareto-incomparable.
+Purely recipient-oriented theorists who take individual human beings as recipients and accept the anonymity condition are two steps away from a workable top-tier criterion of justice: They must still specify a metric of well-being in terms of which one can estimate how well off or badly off the individuals living under any social order would be and in terms of which one can then sketch the distributional prole associated with each. And they must still specify an interpersonal aggregation function through which the data collected in each distributional prole can be synthesized into one overall assessment. The Pareto and anonymity conditions contribute to this latter task. But by themselves, they have too little discriminatory power, leaving many comparisons (such as that of C4 and C6) indeterminate, as their associated distributional proles are Pareto-incomparable.
 
 Contemporary utilitarians propose happiness or desire satisfaction for the rst task, as the appropriate measure of well-being for individuals. For the second task, they propose maximean aggregation, which demands that the mean or average well-being should be as high as possible. Taking both elements together, (two-tier) institutional utilitarians propose then that, of two institutional designs workable in the same society, one should be ranked above the other if and only if the average happiness of individuals would be higher under the former than under the latter. Rawls rejects both elements of this utilitarian proposal. Let us discuss his two counterproposals in turn.
 
@@ -722,7 +959,7 @@ Rawls's public criterion disregards not only natural differences but also differ
 
 #### 4.4 The Lexical Priority of the Basic Liberties
 
-Suppose it can be shown that a public criterion of justice should take account of the distribution of social goods only and, indeed, should focus exclusively on the social primary goods on Rawls's list. Then the parties in the original position, deliberating according to the maximin rule, would be inclined to agree on a public criterion that ranks alternative designs of the basic structure by the worst share each such design would generate. In T<sup> $\gamma$ </sup>, more prominently in the first edition, Rawls indeed formulates such a criterion, calling it the general conception: "All social primary goods...are to be distributed equally unless an unequal distribution of any or all of these goods is to the advantage of the least favored" (TJ [1971] 303, cf. TJ 54).
+Suppose it can be shown that a public criterion of justice should take account of the distribution of social goods only and, indeed, should focus exclusively on the social primary goods on Rawls's list. Then the parties in the original position, deliberating according to the maximin rule, would be inclined to agree on a public criterion that ranks alternative designs of the basic structure by the worst share each such design would generate. In T $\gamma$ , more prominently in the first edition, Rawls indeed formulates such a criterion, calling it the general conception: "All social primary goods...are to be distributed equally unless an unequal distribution of any or all of these goods is to the advantage of the least favored" (TJ [1971] 303, cf. TJ 54).
 
 In the role of public criterion of justice, this general conception may not do much better than happiness or the three fundamental interests: It is difficult to specify a widely acceptable way of aggregating individual shares of these goods intrapersonally into a single metric of well-being, and difficult also to apply any such aggregation in practice.
 
@@ -732,13 +969,13 @@ Rawls formulates his public criterion of justice in two principles, which are me
 
 The lexical priority of the rst principle means that the various practicable basic structure designs are to be judged primarily by the distribution of basic rights and liberties each is expected to produce. The second principle comes into play only insofar as these distributions are estimated to be equivalent. The word ''lexical'' here is short for lexicographical (cf. T J 37–38). Alternative practicable basic structure designs are to be ranked in analogy to how words are ordered in a dictionary. One is to estimate rst, through Rawls's rst principle of justice, the quality of the distribution of basic rights and liberties each basic structure design would produce. If one basic structure design does better than another on this score, it is ranked higher for this reason alone (like a word beginning in d is listed before one beginning in f, regardless of their subsequent letters). When two basic structure designs are estimated to produce equivalent distributions of basic rights and liberties, then the tie is broken through Rawls's second principle of justice: by assessing their respective distributions of the remaining social primary goods. Rawls initially defends this lexical priority by arguing that citizens animated by the three fundamental interests would value basic rights and liberties much more highly than the remaining social primary goods (T J x82, x39).
 
-Both components of Rawls's simplication are problematic. The lexical priority is problematic by assuming that even the smallest superiority in terms of the distribution of basic rights and liberties is more valuable than even the greatest superiority in the distribution of the remaining social primary goods. It would be better, for example, to institute a basic structure design B<sup>1</sup> that would produce two classes whose individual members would have scores of [81,30] and [81,10], respectively, than to institute B2, which would produce equal scores of [80,60] for all citizens. (In these ordered pairs, the rst number expresses a person's share of basic rights and liberties; the second, in italics, expresses the same person's share of the remaining social primary goods.) This ranking implausibly directs us to accept huge increases in poverty and inequality for the sake of only a slight gain in basic rights and liberties.
+Both components of Rawls's simplication are problematic. The lexical priority is problematic by assuming that even the smallest superiority in terms of the distribution of basic rights and liberties is more valuable than even the greatest superiority in the distribution of the remaining social primary goods. It would be better, for example, to institute a basic structure design B1 that would produce two classes whose individual members would have scores of [81,30] and [81,10], respectively, than to institute B2, which would produce equal scores of [80,60] for all citizens. (In these ordered pairs, the rst number expresses a person's share of basic rights and liberties; the second, in italics, expresses the same person's share of the remaining social primary goods.) This ranking implausibly directs us to accept huge increases in poverty and inequality for the sake of only a slight gain in basic rights and liberties.
 
-The informational separation is also problematic because, by assigning political and socioeconomic primary goods to two distinct assessment exercises, Rawls's proposed public criterion loses all information about correlations between them. The criterion becomes blind to whether social inequalities of the two kinds offset or aggravate each other. To illustrate the problem, consider a society for which two basic structure designs are practicable. Both would produce the same two equal-sized classes. Both would generate, for their two classes, the same rst-principle scores of 90 and 70. B<sup>3</sup> would generate, for its two classes, second-principle scores of 50 and 19, whereas B<sup>4</sup> would generate second-principle scores of 50 and 20. Rawls's rst principle would rank these two basic structure designs equivalent, and the second principle would break the tie in favor of B4. Yet this result may be implausible once the informational separation is removed. We then nd that members of the two classes under B<sup>3</sup> have scores of [90,19] and [70,50], respectively, whereas members of the two classes under B<sup>4</sup> have individual scores of [90,50] and [70,20]. Their maximin concern would incline the parties to agree on a criterion that favors B<sup>3</sup> over B<sup>4</sup> in such a case, but Rawls's public criterion favors B<sup>4</sup> over B3.
+The informational separation is also problematic because, by assigning political and socioeconomic primary goods to two distinct assessment exercises, Rawls's proposed public criterion loses all information about correlations between them. The criterion becomes blind to whether social inequalities of the two kinds offset or aggravate each other. To illustrate the problem, consider a society for which two basic structure designs are practicable. Both would produce the same two equal-sized classes. Both would generate, for their two classes, the same rst-principle scores of 90 and 70. B3 would generate, for its two classes, second-principle scores of 50 and 19, whereas B4 would generate second-principle scores of 50 and 20. Rawls's rst principle would rank these two basic structure designs equivalent, and the second principle would break the tie in favor of B4. Yet this result may be implausible once the informational separation is removed. We then nd that members of the two classes under B3 have scores of [90,19] and [70,50], respectively, whereas members of the two classes under B4 have individual scores of [90,50] and [70,20]. Their maximin concern would incline the parties to agree on a criterion that favors B3 over B4 in such a case, but Rawls's public criterion favors B4 over B3.
 
-The problem is even more obvious, perhaps, when we consider basic structure B5, producing scores [90,20] and [70,50]. B<sup>5</sup> would be ranked equal with B<sup>4</sup> by Rawls's two principles and yet is clearly preferred over B<sup>4</sup> from the standpoint of the original position because at [70,20] the members of the worse-off class under B<sup>4</sup> are plainly worse off than the members of either class under B5. The problem arises from the fact that the two interclass inequalities produced by B<sup>4</sup> are positively correlated, mutually aggravating—whereas the opposite is true of B<sup>3</sup> and B5, which produce negatively correlated or mutually offsetting social inequalities. By disregarding this information, Rawls's public criterion delivers what the parties would regard as the wrong result.
+The problem is even more obvious, perhaps, when we consider basic structure B5, producing scores [90,20] and [70,50]. B5 would be ranked equal with B4 by Rawls's two principles and yet is clearly preferred over B4 from the standpoint of the original position because at [70,20] the members of the worse-off class under B4 are plainly worse off than the members of either class under B5. The problem arises from the fact that the two interclass inequalities produced by B4 are positively correlated, mutually aggravating—whereas the opposite is true of B3 and B5, which produce negatively correlated or mutually offsetting social inequalities. By disregarding this information, Rawls's public criterion delivers what the parties would regard as the wrong result.
 
-In response, Rawls can claim that these two objections are not realistic once one bears in mind that his criterion is primarily intended for ideal theory: for selecting the best practicable basic structure designs for any society in reasonably favorable conditions and for guiding its citizens in maintaining and adjusting such an ideal design. A choice like that between B<sup>1</sup> and B<sup>2</sup> can easily arise for those seeking to reform an unjust society that is currently featuring two classes with scores of [80,30] and [80,10], say. But Rawls does not endorse this use of the lexical priority: as an implementation priority. He is committed to this priority as a design priority only (cf. T J 215–16, 267), used for identifying the nal goal of basic-structure reform for a society in reasonably favorable conditions: the best basic structure design practicable for this society. And if B<sup>1</sup> and B<sup>2</sup> are both practicable, then there are bound to be other practicable designs similar to B<sup>2</sup> that achieve a small gain in basic liberties (from 80 to 81 or above) at a much smaller cost in socioeconomic goods. The objection to informational separation is similarly unrealistic: Basic structure designs in which political and socioeconomic inequalities are negatively correlated are costly and difcult to maintain. Thus, when B<sup>3</sup> or B<sup>5</sup> are practicable, then something substantially better than B<sup>4</sup> should likewise be practicable as well.
+In response, Rawls can claim that these two objections are not realistic once one bears in mind that his criterion is primarily intended for ideal theory: for selecting the best practicable basic structure designs for any society in reasonably favorable conditions and for guiding its citizens in maintaining and adjusting such an ideal design. A choice like that between B1 and B2 can easily arise for those seeking to reform an unjust society that is currently featuring two classes with scores of [80,30] and [80,10], say. But Rawls does not endorse this use of the lexical priority: as an implementation priority. He is committed to this priority as a design priority only (cf. T J 215–16, 267), used for identifying the nal goal of basic-structure reform for a society in reasonably favorable conditions: the best basic structure design practicable for this society. And if B1 and B2 are both practicable, then there are bound to be other practicable designs similar to B2 that achieve a small gain in basic liberties (from 80 to 81 or above) at a much smaller cost in socioeconomic goods. The objection to informational separation is similarly unrealistic: Basic structure designs in which political and socioeconomic inequalities are negatively correlated are costly and difcult to maintain. Thus, when B3 or B5 are practicable, then something substantially better than B4 should likewise be practicable as well.
 
 Rawls can add that the advantages his proposed public criterion offers in terms of clear and transparent public applicability outweigh the disadvantage that it may deliver (what from the parties' standpoint is) the wrong result in rare and special cases. We have yet to examine how well Rawls's public criterion does in enabling citizens to reach public judgments about actual basic structures in a transparent way.
 
@@ -914,19 +1151,19 @@ Socioeconomic positions and inequalities are defined by the last three social pr
 
 Although Rawls speaks of an index, he gives no indication how the underlying goods are to be quantified and how such quantities are to be aggregated into a single index number for each person. Bypassing this problem, he gives simplified examples in which income serves as a proxy for index goods.
 
-A popular objection to the difference principle is that it gives too much weight to the worst position. To illustrate the point for a simple two-class society: The objection contends that it makes no sense to prefer a design of socioeconomic institutions producing a <15,12> distributional profile over another producing a <100,11> profile. Rawls rejects this sort of counterexample as unrealistic. If a design of socioeconomic institutions with a <100,11> profile is practicable, then there will be some practicable modification of it that would raise the least advantaged position to above 12 without thereby lowering the more advantaged position to 15 or below. One cannot simply make up such numbers, but must be able to give a credible explanation of how a society in realistic circumstances might actually be confronted with an institutional design choice involving the proles in question.
+A popular objection to the difference principle is that it gives too much weight to the worst position. To illustrate the point for a simple two-class society: The objection contends that it makes no sense to prefer a design of socioeconomic institutions producing a  distributional profile over another producing a  profile. Rawls rejects this sort of counterexample as unrealistic. If a design of socioeconomic institutions with a  profile is practicable, then there will be some practicable modification of it that would raise the least advantaged position to above 12 without thereby lowering the more advantaged position to 15 or below. One cannot simply make up such numbers, but must be able to give a credible explanation of how a society in realistic circumstances might actually be confronted with an institutional design choice involving the proles in question.
 
 Let us do this with a simple example. Imagine a group of people cultivating an island, with division of labor. Leaving other index goods aside, we use the wage rate (income per hour of work) as a proxy for individual shares of index goods. In this way, we take account of leisure time indirectly: A person who has twice as much income as another because she chooses to work twice as many hours counts as being equally well off, socioeconomically.
 
-It may at rst appear that the difference principle would favor a design of socioeconomic institutions (D0) in which all participants are paid at the same hourly rate; after all, above-average wages for some are possible only at the cost of below-average wages for others. This argument holds, however, only if productivity is xed or, at any rate, cannot be raised through wage differentials. And this prerequisite will rarely hold. Take, for instance, an alternative design D<sup>20</sup> in which 20 percent of the total product is used for bonuses given to the most productive workers. Only the remaining 80 percent is distributed among all workers in the form of a uniform hourly wage. The least advantaged in D20—those who win no bonus—then receive as an hourly wage only 80 percent of the average production per hour, as compared with the 100 percent everyone receives under D0. The difference principle would nonetheless favor D<sup>20</sup> over D<sup>0</sup> if the bonus incentive raised overall productivity by more than 25 percent. In that case, 80 percent of the higher average hourly production under D<sup>20</sup> would be more than 100 percent of the lower average hourly production under D0.
+It may at rst appear that the difference principle would favor a design of socioeconomic institutions (D0) in which all participants are paid at the same hourly rate; after all, above-average wages for some are possible only at the cost of below-average wages for others. This argument holds, however, only if productivity is xed or, at any rate, cannot be raised through wage differentials. And this prerequisite will rarely hold. Take, for instance, an alternative design D20 in which 20 percent of the total product is used for bonuses given to the most productive workers. Only the remaining 80 percent is distributed among all workers in the form of a uniform hourly wage. The least advantaged in D20—those who win no bonus—then receive as an hourly wage only 80 percent of the average production per hour, as compared with the 100 percent everyone receives under D0. The difference principle would nonetheless favor D20 over D0 if the bonus incentive raised overall productivity by more than 25 percent. In that case, 80 percent of the higher average hourly production under D20 would be more than 100 percent of the lower average hourly production under D0.
 
-The preference of the difference principle for D<sup>20</sup> over D<sup>0</sup> in this case is hard to contest, as all hourly wage rates under D<sup>20</sup> are higher than any under D0. The preference follows from the Pareto condition alone, without any special concern for the lowest socioeconomic position.
+The preference of the difference principle for D20 over D0 in this case is hard to contest, as all hourly wage rates under D20 are higher than any under D0. The preference follows from the Pareto condition alone, without any special concern for the lowest socioeconomic position.
 
 Judgments based on the difference principle become more controversial, however, once we ask how far our island society should take the bonus system. One could distribute 40 percent or even 60 percent of the total product as bonuses for the most productive workers, not to speak of the various possible ways of dividing up the bonus pool. According to the difference principle, the answer depends on empirical facts—on how variations in the bonus system affect average hourly productivity. The following table presents arbitrary, but nonetheless plausible, assumptions about these facts. The first two columns give the percentage of production to be set aside for bonuses (here the $\mathbf{h}_n$ label signifies a design of socioeconomic institutions in which n percent of the social product is used for bonuses). The third column gives the representative minimum share: the percentage of average production per work-hour earned by individuals who receive no bonus. Obviously, this percentage is 100-n. The fourth column gives social productivity in dollars per work-hour, and the fifth calculates the lowest hourly wage by multiplying the figures in columns three and four.
 
 | Design | Bonus Share | Minimum Share | Productivity | Lowest Wage Rate |
 |----------------|-------------|---------------|--------------|------------------|
-| D <sub>o</sub> | 0% | 100% | 10.00 \$/h | 10.00 \$/h |
+| D o | 0% | 100% | 10.00 \$/h | 10.00 \$/h |
 | $D_{20}$ | 20% | 80% | 20.00 \$/h | 16.00 \$/h |
 | $D_{24}$ | 24% | 76% | 21.50 \$/h | 16.34 \$/h |
 | $D_{2s}$ | 25% | 75% | 21.80 \$/h | 16.35 \$/h |
@@ -1051,9 +1288,11 @@ It is much harder to see why the contracting parties should agree to constrain t
 
 Imagine a society whose basic structure satisfies the first principle and formal equality of opportunity and is otherwise governed by the difference principle. This society has two classes: the upper class (U) and the lower class (L). Individuals are born into one of these classes and also belong to one of them in their adult life. There are, then, four possibilities: UU, UL (born into the upper class but belonging to the lower class as an adult). L. U. and L. L. Natural abilities, ambition, and luck are roughly equally distributed among the children of both classes. But in the lower class only very few children are educated at their parents' expense. Nonetheless, enough people are born into the upper class, and educated at their parents' expense, to keep competently occupied all upper-class positions-including leadership positions, which demand a lot of talent and hard work in addition to a good education. Given this fact, it is then not economically worthwhile to divert resources toward educating additional lower-class children. Doing so, in the name of fair equality of opportunity, would not appreciably raise the lowest index position (would not raise overall productivity by channeling more-competent people into the higher positions). But doing so would substantially lower the lowest index position (LL): It would divert part of the social product toward educating lower-class children. And, by eliminating the ability to buy an educational head start for one's children, it would reduce the rewards of affluence and hence the incentive effects of these rewards. Under such circumstances, the class-specific inequality of opportunity wouldwithout the demand of fair equality of opportunity—be justified.
 
-The institutional design described, D<sub>1</sub>, might be represented in the following table:
+The institutional design described, D1, might be represented in the following table:
 
-| $D_{i}$ | Lifetime Index<br>Position | Percentage<br>of Population |
+| $D_{i}$ | Lifetime Index
+Position | Percentage
+of Population |
 |----------|----------------------------|-----------------------------|
 | UU, | 180 | 9% |
 | UL, | 110 | 1% |
@@ -1066,7 +1305,9 @@ Clearly, $D_i$ does not secure fair equality of opportunity. Those born into the
 
 It would be possible to eliminate this inequality of opportunity by providing the children of the lower class with education and training similar to that available to children of the upper class. This reform would foster social mobility, enlarging the LU group (and the UL group as well). But it would also incur substantial social costs, which would worsen all index positions, including the lowest (LL). The reformed design of socioeconomic institutions, D2, might then look like this:
 
-| D2 | Lifetime Index<br>Position | Percentage<br>of Population |
+| D2 | Lifetime Index
+Position | Percentage
+of Population |
 |----------|----------------------------|-----------------------------|
 | UU2 | 162 | 1% |
 | UL2 | 99 | 9% |
@@ -1075,13 +1316,13 @@ It would be possible to eliminate this inequality of opportunity by providing th
 | Weighted | 97.2 | |
 ## | Average | | |
 
-D<sup>2</sup> does secure fair equality of opportunity. Those born into the lower class, just like those born into the upper class, have the same 1-in-10 chance of belonging to the upper class later in life.
+D2 does secure fair equality of opportunity. Those born into the lower class, just like those born into the upper class, have the same 1-in-10 chance of belonging to the upper class later in life.
 
-Insofar as the contracting parties employ the maximin rule, they assume that they are representing someone who—however socioeconomic institutions are designed—will occupy the lowest index position: LL. Rationally representing such a client, they would opt for a public criterion that favors D<sup>1</sup> over D2. The reason is that D<sup>2</sup> reduces the lowest lifetime index position by 10 percent for the sake of an opportunity equalization that is of no use to the least advantaged (who, even with access to education, will not rise into the upper class). Is there an incoherence, then, between Rawls's incorporation of fair equality of opportunity into his public criterion of justice and his endorsement of the original position?
+Insofar as the contracting parties employ the maximin rule, they assume that they are representing someone who—however socioeconomic institutions are designed—will occupy the lowest index position: LL. Rationally representing such a client, they would opt for a public criterion that favors D1 over D2. The reason is that D2 reduces the lowest lifetime index position by 10 percent for the sake of an opportunity equalization that is of no use to the least advantaged (who, even with access to education, will not rise into the upper class). Is there an incoherence, then, between Rawls's incorporation of fair equality of opportunity into his public criterion of justice and his endorsement of the original position?
 
-One might reply that while the index position of the LL group is indeed lower in D2, this group is also smaller than its counterpart in D1. But this fact does not help, for the index position of UL<sup>2</sup> is also below that of LL1. Taking LL<sup>2</sup> and UL<sup>2</sup> together, we have a group in D<sup>2</sup> that is both larger and less advantaged than LL1.
+One might reply that while the index position of the LL group is indeed lower in D2, this group is also smaller than its counterpart in D1. But this fact does not help, for the index position of UL2 is also below that of LL1. Taking LL2 and UL2 together, we have a group in D2 that is both larger and less advantaged than LL1.
 
-Another reply asserts that lifetime index positions should be estimated ex ante rather than ex post: the lowest index position produced by D<sup>2</sup> should then be understood as the expected lifetime index position of someone born into the lower class. But Rawls explicitly rejects this suggestion: ''the least advantaged are, by denition, those who are born into and who remain in that group [who have the lowest index of primary goods] throughout their life'' (CP 364). And it cannot, in any case, solve the problem: in $D_1$ , the lowest expected index position is $(170 \times 1\% + 100 \times 80\%) \div 90\% = 100.78$ . In $D_2$ , the lowest expected index position is $(153 \times 9\% + 90 \times 81\%) \div 90\% = 96.30$ . This shows that the proposed reform would lower even the lowest expected lifetime index position.
+Another reply asserts that lifetime index positions should be estimated ex ante rather than ex post: the lowest index position produced by D2 should then be understood as the expected lifetime index position of someone born into the lower class. But Rawls explicitly rejects this suggestion: ''the least advantaged are, by denition, those who are born into and who remain in that group [who have the lowest index of primary goods] throughout their life'' (CP 364). And it cannot, in any case, solve the problem: in $D_1$ , the lowest expected index position is $(170 \times 1\% + 100 \times 80\%) \div 90\% = 100.78$ . In $D_2$ , the lowest expected index position is $(153 \times 9\% + 90 \times 81\%) \div 90\% = 96.30$ . This shows that the proposed reform would lower even the lowest expected lifetime index position.
 
 Here is a better reply. Education and training, and the qualifications they bring, have a value in themselves, even if one does not get a
 chance to use them professionally and to achieve a higher index
@@ -1961,260 +2202,1664 @@ Gaus, Gerald F., "Reasonable Pluralism and the Domain of the Political: How
 
 # index adequacy (of scheme of basic
 
-| liberties),<br>82–92,<br>96–99,<br>102, | Augustine,<br>11 |
+| liberties),
+82–92,
+96–99,
+102, | Augustine,
+11 |
 |-------------------------------------------------|----------------------------------------------------|
-| 104,<br>149–52,<br>154 | Austin,<br>John<br>L.,<br>16 |
-| three<br>dimensions<br>of,<br>92, | autonomy,<br>56,<br>145,<br>173,<br>189–93,<br>195 |
-| 149–51,<br>154 | |
-| extent/extensiveness<br>83,<br>86, | Baltimore,<br>4–7,<br>10,<br>17 |
-| 88–92,<br>98,<br>149–51,<br>154 | Baneld,<br>Edward,<br>21 |
-| security,<br>83–84,<br>90,<br>92,<br>98, | Barber,<br>Benjamin,<br>185 |
-| 149–51,<br>154 | bargaining<br>power,<br>52,<br>64–65 |
-| (fair)<br>value<br>of<br>basic<br>political | basic<br>liberties/rights,<br>40,<br>66,<br>73, |
-| liberties,<br>92,<br>149–51,<br>154 | 77–105,<br>113,<br>117,<br>130, |
-| See<br>also<br>basic<br>liberties;<br>political | 148–51,<br>154,<br>156,<br>158, |
-| liberties | 172–73,<br>179,<br>192,<br>196 |
-| afrmative<br>action,<br>121 | extent/extensiveness<br>of,<br>83–84, |
-| age,<br>122 | 86,<br>89–92,<br>95–99,<br>156,<br>172 |
-| aggregation<br>(function),<br>53–54,<br>67, | adequate,<br>83,<br>98 |
-| 78,<br>111–12 | constitutional<br>essential,<br>95,<br>150 |
-| maximean,<br>53,<br>67 | dened,<br>83–84 |
-| maximin,<br>68 | fully<br>adequate,<br>86,<br>88–92, |
-| Albritton,<br>Rogers,<br>17–18,<br>21,<br>23 | 149–51,<br>154 |
-| Anarchy,<br>State,<br>and<br>Utopia,<br>178 | lexical<br>priority<br>of,<br>77–80,<br>84–85, |
-| anonymity<br>condition,<br>48–53, | 96–97,<br>101–05,<br>183,<br>186 |
-| 62–67,<br>107 | listed,<br>82–85 |
-| Aristotelian<br>principle,<br>54,<br>188 | political.<br>See<br>political<br>liberties |
-| Aristotle,<br>185,<br>188 | reductions<br>of,<br>97–105,<br>196 |
-| Arrow,<br>Kenneth,<br>23 | equal,<br>98–99 |
+| 104,
+149–52,
+154 | Austin,
+John
+L.,
+16 |
+| three
+dimensions
+of,
+92, | autonomy,
+56,
+145,
+173,
+189–93,
+195 |
+| 149–51,
+154 | |
+| extent/extensiveness
+83,
+86, | Baltimore,
+4–7,
+10,
+17 |
+| 88–92,
+98,
+149–51,
+154 | Baneld,
+Edward,
+21 |
+| security,
+83–84,
+90,
+92,
+98, | Barber,
+Benjamin,
+185 |
+| 149–51,
+154 | bargaining
+power,
+52,
+64–65 |
+| (fair)
+value
+of
+basic
+political | basic
+liberties/rights,
+40,
+66,
+73, |
+| liberties,
+92,
+149–51,
+154 | 77–105,
+113,
+117,
+130, |
+| See
+also
+basic
+liberties;
+political | 148–51,
+154,
+156,
+158, |
+| liberties | 172–73,
+179,
+192,
+196 |
+| afrmative
+action,
+121 | extent/extensiveness
+of,
+83–84, |
+| age,
+122 | 86,
+89–92,
+95–99,
+156,
+172 |
+| aggregation
+(function),
+53–54,
+67, | adequate,
+83,
+98 |
+| 78,
+111–12 | constitutional
+essential,
+95,
+150 |
+| maximean,
+53,
+67 | dened,
+83–84 |
+| maximin,
+68 | fully
+adequate,
+86,
+88–92, |
+| Albritton,
+Rogers,
+17–18,
+21,
+23 | 149–51,
+154 |
+| Anarchy,
+State,
+and
+Utopia,
+178 | lexical
+priority
+of,
+77–80,
+84–85, |
+| anonymity
+condition,
+48–53, | 96–97,
+101–05,
+183,
+186 |
+| 62–67,
+107 | listed,
+82–85 |
+| Aristotelian
+principle,
+54,
+188 | political.
+See
+political
+liberties |
+| Aristotle,
+185,
+188 | reductions
+of,
+97–105,
+196 |
+| Arrow,
+Kenneth,
+23 | equal,
+98–99 |
 ## | | |
 
 art, 10, 15, 87, 168
 
-| basic<br>reductions<br>of | 153–56,<br>158–9,<br>162,<br>173, |
+| basic
+reductions
+of | 153–56,
+158–9,
+162,
+173, |
 |------------------------------------------------------|-------------------------------------------------------------|
-| liberties/rights<br>(continued) | 175,<br>179,<br>185–87<br>(see<br>also |
-| impermissible,<br>101–05 | institutional<br>order) |
-| permissible,<br>96–101 | dened,<br>29 |
-| unequal,<br>98–99,<br>105 | Baumol,<br>William,<br>16 |
-| restrictions<br>of,<br>86–88,<br>97–101 | Bentham,<br>Jeremy,<br>42,<br>47,<br>188 |
-| equal,<br>97,<br>99 | Berkeley,<br>George,<br>14 |
-| impermissible,<br>96,<br>101 | Berlin,<br>Isaiah,<br>16,<br>23,<br>187 |
-| permissible,<br>97 | Black,<br>Max,<br>14,<br>17 |
-| unequal,<br>97–98,<br>105 | Bowers,<br>David,<br>10 |
-| scheme<br>of,<br>82–87,<br>89,<br>91–92, | Brandt,<br>Richard<br>B.,<br>23 |
-| 97,<br>98,<br>99,<br>102,<br>104,<br>149, | Buckley<br>v.<br>Valeo,<br>19,<br>94,<br>149 |
-| 151,<br>154 | burdens<br>of<br>judgment,<br>139,<br>173 |
-| adequate,<br>83–84,<br>87,<br>89–92, | Butler,<br>Joseph<br>(Bishop),<br>11,<br>23 |
-| 96,<br>98–99,<br>102,<br>104 | |
-| fully<br>adequate,<br>82–92,<br>97–99, | California,<br>24–25 |
-| 102,<br>149–51,<br>154 | Cambridge<br>Companion<br>to<br>Rawls,<br>22 |
-| inadequate,<br>86,<br>98,<br>104 | Cambridge,<br>England<br>10,<br>24 |
-| least<br>adequate,<br>96,<br>98–99 | Cambridge,<br>Massachusetts,<br>17,<br>22 |
-| security<br>of,<br>83–85,<br>90,<br>92–93,<br>95, | nance<br>campaign<br>reform,<br>19,<br>93, |
-| 98–100,<br>102,<br>148–50,<br>152, | 94,<br>142 |
-| 154–56,<br>196 | capitalism,<br>115,<br>133 |
-| adequate,<br>83,<br>98,<br>154 | laissez-faire,<br>133,<br>181,<br>184–85 |
-| constitutional<br>essential,<br>95, | welfare-state,<br>133,<br>179 |
-| 150,<br>154 | categorical<br>imperative,<br>189–90,<br>192 |
-| dened,<br>84 | Catholicism,<br>41,<br>44,<br>122,<br>124,<br>141, |
-| fully<br>adequate,<br>84,<br>90,<br>92, | 143,<br>168–69,<br>195 |
-| 149–51 | Cavell,<br>Stanley,<br>ix,<br>21,<br>23 |
-| threshold,<br>84–85,<br>156 | character,<br>15,<br>26,<br>29,<br>31,<br>33,<br>39,<br>61, |
-| value/worth<br>of,<br>83,<br>92,<br>156,<br>188 | 171<br>(see<br>also<br>morality) |
-| basic<br>needs,<br>102–04,<br>117,<br>173 | children,<br>7,<br>33,<br>40,<br>48,<br>61,<br>77,<br>116, |
-| constitutional<br>essentials,<br>104, | 122–24,<br>127,<br>131,<br>132,<br>142, |
-| 150,<br>152 | 147,<br>181 |
-| principle<br>of,<br>117,<br>133,<br>148–50,<br>152 | Rawls's<br>childhood,<br>4–9 |
-| rst<br>lexically<br>prior<br>to<br>principle, | Rawls's<br>children,<br>15,<br>18 |
-| 103–04 | China,<br>3,<br>88 |
-| basic<br>political<br>liberties.<br>See<br>political | Chomsky,<br>Noam,<br>18 |
-| liberties | church.<br>See<br>religion |
-| basic<br>rights.<br>See<br>basic<br>liberties | citizens,<br>vii–viii,<br>19,<br>26,<br>32,<br>34–35, |
-| basic<br>structure,<br>28–44,<br>54,<br>58–63, | 38–44,<br>52–56,<br>58–59,<br>61–63, |
-| 70–81,<br>85–91,<br>96–99, | 66–67,<br>70–93,<br>95–105, |
-| 102–04,<br>106–07,<br>111–12, | 116–22,<br>124–25,<br>129–32, |
-| 116–26,<br>130,<br>133,<br>135,<br>137, | 134,<br>136–43,<br>145,<br>147–50, |
-| 139–40,<br>142,<br>146,<br>149, | 152,<br>154–59,<br>161–64, |
+| liberties/rights
+(continued) | 175,
+179,
+185–87
+(see
+also |
+| impermissible,
+101–05 | institutional
+order) |
+| permissible,
+96–101 | dened,
+29 |
+| unequal,
+98–99,
+105 | Baumol,
+William,
+16 |
+| restrictions
+of,
+86–88,
+97–101 | Bentham,
+Jeremy,
+42,
+47,
+188 |
+| equal,
+97,
+99 | Berkeley,
+George,
+14 |
+| impermissible,
+96,
+101 | Berlin,
+Isaiah,
+16,
+23,
+187 |
+| permissible,
+97 | Black,
+Max,
+14,
+17 |
+| unequal,
+97–98,
+105 | Bowers,
+David,
+10 |
+| scheme
+of,
+82–87,
+89,
+91–92, | Brandt,
+Richard
+B.,
+23 |
+| 97,
+98,
+99,
+102,
+104,
+149, | Buckley
+v.
+Valeo,
+19,
+94,
+149 |
+| 151,
+154 | burdens
+of
+judgment,
+139,
+173 |
+| adequate,
+83–84,
+87,
+89–92, | Butler,
+Joseph
+(Bishop),
+11,
+23 |
+| 96,
+98–99,
+102,
+104 | |
+| fully
+adequate,
+82–92,
+97–99, | California,
+24–25 |
+| 102,
+149–51,
+154 | Cambridge
+Companion
+to
+Rawls,
+22 |
+| inadequate,
+86,
+98,
+104 | Cambridge,
+England
+10,
+24 |
+| least
+adequate,
+96,
+98–99 | Cambridge,
+Massachusetts,
+17,
+22 |
+| security
+of,
+83–85,
+90,
+92–93,
+95, | nance
+campaign
+reform,
+19,
+93, |
+| 98–100,
+102,
+148–50,
+152, | 94,
+142 |
+| 154–56,
+196 | capitalism,
+115,
+133 |
+| adequate,
+83,
+98,
+154 | laissez-faire,
+133,
+181,
+184–85 |
+| constitutional
+essential,
+95, | welfare-state,
+133,
+179 |
+| 150,
+154 | categorical
+imperative,
+189–90,
+192 |
+| dened,
+84 | Catholicism,
+41,
+44,
+122,
+124,
+141, |
+| fully
+adequate,
+84,
+90,
+92, | 143,
+168–69,
+195 |
+| 149–51 | Cavell,
+Stanley,
+ix,
+21,
+23 |
+| threshold,
+84–85,
+156 | character,
+15,
+26,
+29,
+31,
+33,
+39,
+61, |
+| value/worth
+of,
+83,
+92,
+156,
+188 | 171
+(see
+also
+morality) |
+| basic
+needs,
+102–04,
+117,
+173 | children,
+7,
+33,
+40,
+48,
+61,
+77,
+116, |
+| constitutional
+essentials,
+104, | 122–24,
+127,
+131,
+132,
+142, |
+| 150,
+152 | 147,
+181 |
+| principle
+of,
+117,
+133,
+148–50,
+152 | Rawls's
+childhood,
+4–9 |
+| rst
+lexically
+prior
+to
+principle, | Rawls's
+children,
+15,
+18 |
+| 103–04 | China,
+3,
+88 |
+| basic
+political
+liberties.
+See
+political | Chomsky,
+Noam,
+18 |
+| liberties | church.
+See
+religion |
+| basic
+rights.
+See
+basic
+liberties | citizens,
+vii–viii,
+19,
+26,
+32,
+34–35, |
+| basic
+structure,
+28–44,
+54,
+58–63, | 38–44,
+52–56,
+58–59,
+61–63, |
+| 70–81,
+85–91,
+96–99, | 66–67,
+70–93,
+95–105, |
+| 102–04,
+106–07,
+111–12, | 116–22,
+124–25,
+129–32, |
+| 116–26,
+130,
+133,
+135,
+137, | 134,
+136–43,
+145,
+147–50, |
+| 139–40,
+142,
+146,
+149, | 152,
+154–59,
+161–64, |
 
-| 166–70,<br>172–76,<br>179–81,<br>184,<br>186–88,<br>190–96<br>as<br>free<br>and<br>equal,<br>66,<br>172,<br>173,<br>196<br>(see<br>also<br>fundamental<br>interests)<br>citizenship,<br>93,<br>104<br>equal,<br>76,<br>89,<br>93,<br>95,<br>97,<br>105<br>civil<br>disobedience,<br>x,<br>19<br>civility,<br>duty<br>of,<br>138–43,<br>148,<br>158, | stability-achieving,<br>41,<br>54,<br>72,<br>104–05,<br>118<br>See<br>also<br>theories<br>of<br>justice<br>conceptions<br>of<br>the<br>good,<br>34–35,<br>55–58,<br>63,<br>77,<br>87–89,<br>91,<br>143,<br>159,<br>169,<br>173,<br>191–92<br>(see<br>also<br>comprehensive<br>doctrines;<br>ways<br>of<br>life;<br>worldviews)<br>(see<br>also<br>concepts,<br>159,<br>170–72 |
+| 166–70,
+172–76,
+179–81,
+184,
+186–88,
+190–96
+as
+free
+and
+equal,
+66,
+172,
+173,
+196
+(see
+also
+fundamental
+interests)
+citizenship,
+93,
+104
+equal,
+76,
+89,
+93,
+95,
+97,
+105
+civil
+disobedience,
+x,
+19
+civility,
+duty
+of,
+138–43,
+148,
+158, | stability-achieving,
+41,
+54,
+72,
+104–05,
+118
+See
+also
+theories
+of
+justice
+conceptions
+of
+the
+good,
+34–35,
+55–58,
+63,
+77,
+87–89,
+91,
+143,
+159,
+169,
+173,
+191–92
+(see
+also
+comprehensive
+doctrines;
+ways
+of
+life;
+worldviews)
+(see
+also
+concepts,
+159,
+170–72 |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 161,<br>168–69,<br>176–77 | conceptions;<br>ideas) |
-| dened,<br>140 | Condorcet,<br>M.<br>J.<br>A.<br>N.<br>C.<br>de |
-| class<br>(social),<br>6–7,<br>19,<br>79–80,<br>92, | (Marquis),<br>16 |
-| 95,<br>107,<br>122–34,<br>136,<br>152, | Connecticut,<br>8 |
-| 155,<br>164 | consensus,<br>35–38,<br>59,<br>159,<br>163,<br>169 |
-| Collected<br>Papers<br>(CP),<br>26 | comprehensive,<br>35,<br>59 |
-| communitarianism,<br>183,<br>185–88 | moral,<br>35,<br>37–8 |
-| comprehensive<br>doctrines,<br>13–14, | overlapping,<br>34–35,<br>41–42,<br>59,<br>63, |
-| 35,<br>144–46,<br>156,<br>158–59, | 70,<br>144,<br>157,<br>163,<br>167–69, |
-| 173,<br>175 | 173,<br>175,<br>177<br>(see<br>also<br>modus |
-| reasonable,<br>146–47 | vivendi) |
-| unreasonable,<br>146–47 | consequentialism,<br>43–45,<br>47,<br>73, |
-| See<br>also<br>conceptions<br>of<br>the<br>good; | 178,<br>191 |
-| ways<br>of<br>life;<br>worldviews | considered<br>judgments,<br>131,<br>167–69 |
-| concept<br>of<br>justice,<br>28,<br>170–72 | (see<br>also<br>convictions) |
-| conceptions<br>(moral),<br>x,<br>26,<br>62,<br>137, | dened,<br>162–63 |
-| 165,<br>170–72,<br>175–76,<br>185, | constitution,<br>viii,<br>4–5,<br>19,<br>29,<br>37,<br>40, |
-| 189,<br>191<br>(see<br>also<br>concepts; | 70,<br>83,<br>85,<br>94–95,<br>104,<br>139, |
-| ideas) | 142–43,<br>148–54,<br>156,<br>159, |
-| conceptions<br>of<br>international | 173,<br>194 |
-| relations,<br>x,<br>19,<br>26,<br>39 | natural,<br>73,<br>77 |
-| conceptions<br>of<br>(social)<br>justice,<br>15,<br>26, | of<br>United<br>States,<br>4–5,<br>15,<br>19, |
-| 35,<br>37–41,<br>43,<br>45,<br>55–57, | 94–95,<br>103–04 |
-| 59,<br>62,<br>72,<br>135–40,<br>143–48, | constitutional<br>essentials,<br>139, |
-| 157–59,<br>161–63,<br>165, | 148–54,<br>159,<br>173 |
-| 167–76,<br>178–79,<br>18–82, | basic<br>liberties,<br>104,<br>149 |
-| 186,<br>188,<br>191–95 | extensiveness,<br>95,<br>150 |
-| comprehensive,<br>143 | fair<br>value<br>of<br>political<br>liberties, |
-| egalitarian,<br>137,<br>148,<br>152 | 149–50,<br>152,<br>154,<br>159 |
-| liberal,<br>137,<br>147–48,<br>159 | security,<br>95,<br>150,<br>154 |
-| political,<br>35,<br>54,<br>57,<br>136,<br>138–40, | basic<br>needs,<br>104,<br>150,<br>152 |
-| 142–44,<br>146,<br>153,<br>158–59, | dened,<br>148 |
-| 169–70,<br>173,<br>175 | formal<br>equality<br>of<br>opportunity,<br>149 |
-| purely<br>recipient-oriented,<br>44–45, | two<br>kinds<br>of,<br>149 |
-| 54,<br>62,<br>101 | See<br>also<br>matters<br>of<br>basic<br>justice |
+| 161,
+168–69,
+176–77 | conceptions;
+ideas) |
+| dened,
+140 | Condorcet,
+M.
+J.
+A.
+N.
+C.
+de |
+| class
+(social),
+6–7,
+19,
+79–80,
+92, | (Marquis),
+16 |
+| 95,
+107,
+122–34,
+136,
+152, | Connecticut,
+8 |
+| 155,
+164 | consensus,
+35–38,
+59,
+159,
+163,
+169 |
+| Collected
+Papers
+(CP),
+26 | comprehensive,
+35,
+59 |
+| communitarianism,
+183,
+185–88 | moral,
+35,
+37–8 |
+| comprehensive
+doctrines,
+13–14, | overlapping,
+34–35,
+41–42,
+59,
+63, |
+| 35,
+144–46,
+156,
+158–59, | 70,
+144,
+157,
+163,
+167–69, |
+| 173,
+175 | 173,
+175,
+177
+(see
+also
+modus |
+| reasonable,
+146–47 | vivendi) |
+| unreasonable,
+146–47 | consequentialism,
+43–45,
+47,
+73, |
+| See
+also
+conceptions
+of
+the
+good; | 178,
+191 |
+| ways
+of
+life;
+worldviews | considered
+judgments,
+131,
+167–69 |
+| concept
+of
+justice,
+28,
+170–72 | (see
+also
+convictions) |
+| conceptions
+(moral),
+x,
+26,
+62,
+137, | dened,
+162–63 |
+| 165,
+170–72,
+175–76,
+185, | constitution,
+viii,
+4–5,
+19,
+29,
+37,
+40, |
+| 189,
+191
+(see
+also
+concepts; | 70,
+83,
+85,
+94–95,
+104,
+139, |
+| ideas) | 142–43,
+148–54,
+156,
+159, |
+| conceptions
+of
+international | 173,
+194 |
+| relations,
+x,
+19,
+26,
+39 | natural,
+73,
+77 |
+| conceptions
+of
+(social)
+justice,
+15,
+26, | of
+United
+States,
+4–5,
+15,
+19, |
+| 35,
+37–41,
+43,
+45,
+55–57, | 94–95,
+103–04 |
+| 59,
+62,
+72,
+135–40,
+143–48, | constitutional
+essentials,
+139, |
+| 157–59,
+161–63,
+165, | 148–54,
+159,
+173 |
+| 167–76,
+178–79,
+18–82, | basic
+liberties,
+104,
+149 |
+| 186,
+188,
+191–95 | extensiveness,
+95,
+150 |
+| comprehensive,
+143 | fair
+value
+of
+political
+liberties, |
+| egalitarian,
+137,
+148,
+152 | 149–50,
+152,
+154,
+159 |
+| liberal,
+137,
+147–48,
+159 | security,
+95,
+150,
+154 |
+| political,
+35,
+54,
+57,
+136,
+138–40, | basic
+needs,
+104,
+150,
+152 |
+| 142–44,
+146,
+153,
+158–59, | dened,
+148 |
+| 169–70,
+173,
+175 | formal
+equality
+of
+opportunity,
+149 |
+| purely
+recipient-oriented,
+44–45, | two
+kinds
+of,
+149 |
+| 54,
+62,
+101 | See
+also
+matters
+of
+basic
+justice |
 ## | | |
 
-| contract<br>(social),<br>16,<br>60–61,<br>119,<br>165, | property-owning,<br>90,<br>114, |
+| contract
+(social),
+16,
+60–61,
+119,
+165, | property-owning,
+90,
+114, |
 |------------------------------------------------------------------|----------------------------------------------------------|
-| 173,<br>181 | 133–34,<br>152,<br>180 |
-| hypothetical,<br>60,<br>62,<br>64–65,<br>156, | See<br>also<br>society,<br>democratic |
-| 164–65,<br>182,<br>188 | desert,<br>7,<br>14,<br>52,<br>74,<br>180,<br>183–84 |
-| contractualism,<br>42,<br>60–62,<br>117, | difference<br>principle,<br>94,<br>106–21, |
-| 131–32,<br>165 | 123–26,<br>129–33,<br>136, |
-| convictions<br>(considered),<br>x,<br>29, | 148–49,<br>151–53,<br>159,<br>162, |
-| 99–100,<br>124,<br>131,<br>141, | 183–84,<br>188,<br>194 |
-| 162–70,<br>175–77,<br>186,<br>191 | relevant<br>to<br>settling<br>constitutional |
-| doctrine-dependent,<br>169–70 | essentials,<br>151–53 |
-| See<br>also<br>considered<br>judgments | disabilities,<br>x,<br>39,<br>74–76<br>(see<br>also |
-| Cornell<br>University,<br>14,<br>17,<br>24 | endowments;<br>handicaps) |
-| crime,<br>28,<br>46,<br>84,<br>99–101, | discrimination,<br>x,<br>10,<br>15,<br>65,<br>121–25, |
-| 154–55,<br>193 | 131–32,<br>147<br>(see<br>also<br>gender; |
-| criteria<br>of<br>(social)<br>justice,<br>31, | race) |
-| 43–54,<br>189–90 | disloyalty,<br>119 |
-| middle-tier,<br>42,<br>73 | proles,<br>distributional<br>49–53,<br>67–68, |
-| public,<br>vii–viii,<br>37–44,<br>46,<br>49, | 107,<br>113,<br>121,<br>130–31,<br>135, |
-| 53–55,<br>60,<br>62–63,<br>66–81,<br>85, | 153,<br>178–81 |
-| 88,<br>91–92,<br>96–99,<br>102–05, | Dreben,<br>Burton,<br>ix,<br>18,<br>21,<br>23 |
-| 114,<br>116–19,<br>126,<br>128–30, | Dreyfus,<br>Hubert,<br>17 |
-| 133,<br>135,<br>137–38,<br>140, | duties,<br>14,<br>18,<br>31–32,<br>39,<br>45,<br>138–43, |
-| 144,<br>148–49,<br>153–57,<br>161, | 145,<br>148,<br>158,<br>161,<br>168–69, |
-| 183,<br>185–86 | 176,<br>186–87,<br>191 |
-| purely<br>recipient-oriented,<br>43–44, | natural,<br>189 |
-| 46–47 | negative,<br>31,<br>33 |
-| top-tier,<br>42–43,<br>47,<br>51,<br>53–54,<br>62, | positive,<br>31–32 |
-| 67–69,<br>73 | duty<br>of<br>civility,<br>138–43,<br>148,<br>158, |
-| See<br>also<br>meta-criteria;<br>principles | 161,<br>168–69,<br>176–77 |
-| Critique<br>of<br>Practical<br>Reason,<br>189 | dened,<br>140 |
-| culture,<br>17,<br>28,<br>38,<br>40,<br>44,<br>54,<br>57,<br>59, | Dworkin,<br>Ronald,<br>144 |
-| 78,<br>84–85,<br>122,<br>129,<br>156, | |
-| 158,<br>161,<br>166,<br>172,<br>174,<br>175, | economic<br>growth,<br>114 |
-| 187,<br>192<br>(see<br>also<br>public | economic<br>order/regime,<br>29,<br>41,<br>109, |
-| political<br>culture) | 149,<br>184<br>(see<br>also<br>institutional |
-| Cuomo,<br>Mario,<br>141–42 | order) |
-| | economics,<br>3–4,<br>15–17,<br>25,<br>32,<br>34, |
-| Darwall,<br>Stephen,<br>190 | 47–48,<br>107,<br>178 |
-| Davidson,<br>Donald,<br>24 | education,<br>7,<br>14–15,<br>20,<br>33, |
-| decent<br>hierarchical<br>societies,<br>137 | 39–40,<br>57,<br>74–75,<br>77–78,<br>83, |
-| democracy,<br>vii,<br>26,<br>35,<br>40,<br>54,<br>61,<br>87, | 103–04,<br>120–22,<br>124,<br>127–32, |
-| 90,<br>95,<br>118,<br>133–34,<br>137, | 134,<br>138,<br>180,<br>188,<br>193 |
-| 143,<br>148,<br>152,<br>154,<br>168,<br>171, | education<br>system,<br>57,<br>121,<br>132,<br>134, |
-| 173–75,<br>187–88,<br>193 | 138,<br>180 |
+| 173,
+181 | 133–34,
+152,
+180 |
+| hypothetical,
+60,
+62,
+64–65,
+156, | See
+also
+society,
+democratic |
+| 164–65,
+182,
+188 | desert,
+7,
+14,
+52,
+74,
+180,
+183–84 |
+| contractualism,
+42,
+60–62,
+117, | difference
+principle,
+94,
+106–21, |
+| 131–32,
+165 | 123–26,
+129–33,
+136, |
+| convictions
+(considered),
+x,
+29, | 148–49,
+151–53,
+159,
+162, |
+| 99–100,
+124,
+131,
+141, | 183–84,
+188,
+194 |
+| 162–70,
+175–77,
+186,
+191 | relevant
+to
+settling
+constitutional |
+| doctrine-dependent,
+169–70 | essentials,
+151–53 |
+| See
+also
+considered
+judgments | disabilities,
+x,
+39,
+74–76
+(see
+also |
+| Cornell
+University,
+14,
+17,
+24 | endowments;
+handicaps) |
+| crime,
+28,
+46,
+84,
+99–101, | discrimination,
+x,
+10,
+15,
+65,
+121–25, |
+| 154–55,
+193 | 131–32,
+147
+(see
+also
+gender; |
+| criteria
+of
+(social)
+justice,
+31, | race) |
+| 43–54,
+189–90 | disloyalty,
+119 |
+| middle-tier,
+42,
+73 | proles,
+distributional
+49–53,
+67–68, |
+| public,
+vii–viii,
+37–44,
+46,
+49, | 107,
+113,
+121,
+130–31,
+135, |
+| 53–55,
+60,
+62–63,
+66–81,
+85, | 153,
+178–81 |
+| 88,
+91–92,
+96–99,
+102–05, | Dreben,
+Burton,
+ix,
+18,
+21,
+23 |
+| 114,
+116–19,
+126,
+128–30, | Dreyfus,
+Hubert,
+17 |
+| 133,
+135,
+137–38,
+140, | duties,
+14,
+18,
+31–32,
+39,
+45,
+138–43, |
+| 144,
+148–49,
+153–57,
+161, | 145,
+148,
+158,
+161,
+168–69, |
+| 183,
+185–86 | 176,
+186–87,
+191 |
+| purely
+recipient-oriented,
+43–44, | natural,
+189 |
+| 46–47 | negative,
+31,
+33 |
+| top-tier,
+42–43,
+47,
+51,
+53–54,
+62, | positive,
+31–32 |
+| 67–69,
+73 | duty
+of
+civility,
+138–43,
+148,
+158, |
+| See
+also
+meta-criteria;
+principles | 161,
+168–69,
+176–77 |
+| Critique
+of
+Practical
+Reason,
+189 | dened,
+140 |
+| culture,
+17,
+28,
+38,
+40,
+44,
+54,
+57,
+59, | Dworkin,
+Ronald,
+144 |
+| 78,
+84–85,
+122,
+129,
+156, | |
+| 158,
+161,
+166,
+172,
+174,
+175, | economic
+growth,
+114 |
+| 187,
+192
+(see
+also
+public | economic
+order/regime,
+29,
+41,
+109, |
+| political
+culture) | 149,
+184
+(see
+also
+institutional |
+| Cuomo,
+Mario,
+141–42 | order) |
+| | economics,
+3–4,
+15–17,
+25,
+32,
+34, |
+| Darwall,
+Stephen,
+190 | 47–48,
+107,
+178 |
+| Davidson,
+Donald,
+24 | education,
+7,
+14–15,
+20,
+33, |
+| decent
+hierarchical
+societies,
+137 | 39–40,
+57,
+74–75,
+77–78,
+83, |
+| democracy,
+vii,
+26,
+35,
+40,
+54,
+61,
+87, | 103–04,
+120–22,
+124,
+127–32, |
+| 90,
+95,
+118,
+133–34,
+137, | 134,
+138,
+180,
+188,
+193 |
+| 143,
+148,
+152,
+154,
+168,
+171, | education
+system,
+57,
+121,
+132,
+134, |
+| 173–75,
+187–88,
+193 | 138,
+180 |
 ## | | |
 
-| endowments<br>(natural),<br>10,<br>19,<br>64–66 | quoted,<br>82 |
+| endowments
+(natural),
+10,
+19,
+64–66 | quoted,
+82 |
 |-----------------------------------------------------------|-------------------------------------------------------|
-| 73–76,<br>91–93,<br>116,<br>120–25, | See<br>also<br>second<br>principle<br>of<br>justice |
-| 127,<br>131–32,<br>150,<br>152,<br>155, | Firth,<br>Roderick,<br>19,<br>21,<br>23 |
-| 171,<br>182–84,<br>193 | Foot,<br>Philippa,<br>23 |
-| equality,<br>5,<br>15,<br>19,<br>84,<br>92,<br>94, | foreigners,<br>32,<br>44 |
-| 105–06,<br>117,<br>121–24, | Frankena,<br>William<br>K.,<br>23 |
-| 126–27,<br>132,<br>151–52,<br>173, | free<br>choice<br>of<br>occupation,<br>73,<br>130, |
-| (see<br>also<br>inequalities)<br>193 | 133,<br>183<br>(see<br>also<br>equality<br>of |
-| equality<br>of<br>opportunity,<br>15,<br>106, | opportunity,<br>formal) |
-| 117,<br>121–24,<br>126–27,<br>132, | freedom,<br>8,<br>23–24,<br>52,<br>73,<br>76,<br>82, |
-| 151–52,<br>173 | 87,<br>89,<br>95,<br>98–99,<br>105,<br>130, |
-| fair,<br>106,<br>109,<br>121–28,<br>130–33, | 141,<br>166,<br>173,<br>179,<br>188, |
-| 148–49,<br>151–52,<br>159,<br>162, | 190,<br>192–93 |
-| 188,<br>194 | and<br>integrity<br>of<br>the<br>person,<br>87,<br>89 |
-| relevant<br>to<br>settling | from<br>arbitrary<br>arrest<br>and<br>seizure, |
-| constitutional<br>essentials, | 83,<br>87 |
-| 151–53 | from<br>physical<br>injury/abuse/ |
-| formal,<br>106,<br>121–22,<br>126,<br>147, | torture,<br>83,<br>87,<br>154 |
-| 149,<br>183 | from<br>psychological<br>oppression,<br>83 |
-| constitutional<br>essential,<br>149 | from<br>slavery<br>and<br>serfdom,<br>83,<br>87 |
-| See<br>also<br>opportunity<br>principle | of<br>assembly,<br>82 |
-| ethics,<br>viii,<br>xi,<br>4,<br>15–16,<br>24,<br>28–29, | of<br>association,<br>82,<br>87,<br>89 |
-| 31–35,<br>46,<br>142,<br>144–45, | of<br>conscience,<br>82,<br>87–89,<br>186,<br>188 |
-| 175–77,<br>192 | of<br>expression,<br>105 |
-| Europe,<br>3,<br>34,<br>133 | of<br>movement,<br>73,<br>83,<br>87,<br>130 |
-| evil,<br>ix,<br>11,<br>13–14,<br>26,<br>141 | of<br>religion,<br>82 |
-| extent/extensiveness.<br>See<br>adequacy; | of<br>speech,<br>82,<br>95 |
-| basic<br>liberties | of<br>the<br>press,<br>82 |
-| | of<br>thought,<br>82,<br>188 |
-| fact<br>of<br>pluralism,<br>139 | See<br>also<br>basic<br>liberties |
-| fact<br>of<br>reasonable<br>pluralism,<br>34–35, | Freeman,<br>Samuel,<br>24,<br>26 |
-| 59,<br>63,<br>139,<br>143,<br>187 | Fried,<br>Charles,<br>23 |
-| fairness,<br>173,<br>194<br>(see<br>also<br>justice<br>as | fundamental<br>ideas,<br>139,<br>158, |
-| fairness) | 170–71,<br>173 |
-| family,<br>7,<br>14,<br>29,<br>39,<br>55,<br>64,<br>120, | listed,<br>172–73 |
-| 123–24,<br>131–33,<br>192 | fundamental<br>interests,<br>53,<br>55–59, |
-| Rawls's,<br>4–5,<br>7,<br>9,<br>14,<br>17,<br>22 | 62–63,<br>67–68,<br>70–76,<br>78–79, |
-| Fellner,<br>William,<br>68 | 86–91,<br>95,<br>101,<br>104,<br>116, |
-| First<br>Amendment,<br>95 | 129–30,<br>135,<br>145,<br>150,<br>173, |
-| rst<br>principle<br>of<br>justice,<br>79,<br>82,<br>84, | 183,<br>191<br>(see<br>also<br>moral |
-| 90,<br>97,<br>117,<br>151,<br>154–55,<br>183 | powers) |
-| lexical<br>priority<br>over<br>second | |
-| principle,<br>77–80,<br>84–85, | game<br>theory,<br>16,<br>34,<br>93 |
-| 96–97,<br>101–05,<br>183,<br>186 | Gauthier,<br>David,<br>52,<br>64,<br>182 |
+| 73–76,
+91–93,
+116,
+120–25, | See
+also
+second
+principle
+of
+justice |
+| 127,
+131–32,
+150,
+152,
+155, | Firth,
+Roderick,
+19,
+21,
+23 |
+| 171,
+182–84,
+193 | Foot,
+Philippa,
+23 |
+| equality,
+5,
+15,
+19,
+84,
+92,
+94, | foreigners,
+32,
+44 |
+| 105–06,
+117,
+121–24, | Frankena,
+William
+K.,
+23 |
+| 126–27,
+132,
+151–52,
+173, | free
+choice
+of
+occupation,
+73,
+130, |
+| (see
+also
+inequalities)
+193 | 133,
+183
+(see
+also
+equality
+of |
+| equality
+of
+opportunity,
+15,
+106, | opportunity,
+formal) |
+| 117,
+121–24,
+126–27,
+132, | freedom,
+8,
+23–24,
+52,
+73,
+76,
+82, |
+| 151–52,
+173 | 87,
+89,
+95,
+98–99,
+105,
+130, |
+| fair,
+106,
+109,
+121–28,
+130–33, | 141,
+166,
+173,
+179,
+188, |
+| 148–49,
+151–52,
+159,
+162, | 190,
+192–93 |
+| 188,
+194 | and
+integrity
+of
+the
+person,
+87,
+89 |
+| relevant
+to
+settling | from
+arbitrary
+arrest
+and
+seizure, |
+| constitutional
+essentials, | 83,
+87 |
+| 151–53 | from
+physical
+injury/abuse/ |
+| formal,
+106,
+121–22,
+126,
+147, | torture,
+83,
+87,
+154 |
+| 149,
+183 | from
+psychological
+oppression,
+83 |
+| constitutional
+essential,
+149 | from
+slavery
+and
+serfdom,
+83,
+87 |
+| See
+also
+opportunity
+principle | of
+assembly,
+82 |
+| ethics,
+viii,
+xi,
+4,
+15–16,
+24,
+28–29, | of
+association,
+82,
+87,
+89 |
+| 31–35,
+46,
+142,
+144–45, | of
+conscience,
+82,
+87–89,
+186,
+188 |
+| 175–77,
+192 | of
+expression,
+105 |
+| Europe,
+3,
+34,
+133 | of
+movement,
+73,
+83,
+87,
+130 |
+| evil,
+ix,
+11,
+13–14,
+26,
+141 | of
+religion,
+82 |
+| extent/extensiveness.
+See
+adequacy; | of
+speech,
+82,
+95 |
+| basic
+liberties | of
+the
+press,
+82 |
+| | of
+thought,
+82,
+188 |
+| fact
+of
+pluralism,
+139 | See
+also
+basic
+liberties |
+| fact
+of
+reasonable
+pluralism,
+34–35, | Freeman,
+Samuel,
+24,
+26 |
+| 59,
+63,
+139,
+143,
+187 | Fried,
+Charles,
+23 |
+| fairness,
+173,
+194
+(see
+also
+justice
+as | fundamental
+ideas,
+139,
+158, |
+| fairness) | 170–71,
+173 |
+| family,
+7,
+14,
+29,
+39,
+55,
+64,
+120, | listed,
+172–73 |
+| 123–24,
+131–33,
+192 | fundamental
+interests,
+53,
+55–59, |
+| Rawls's,
+4–5,
+7,
+9,
+14,
+17,
+22 | 62–63,
+67–68,
+70–76,
+78–79, |
+| Fellner,
+William,
+68 | 86–91,
+95,
+101,
+104,
+116, |
+| First
+Amendment,
+95 | 129–30,
+135,
+145,
+150,
+173, |
+| rst
+principle
+of
+justice,
+79,
+82,
+84, | 183,
+191
+(see
+also
+moral |
+| 90,
+97,
+117,
+151,
+154–55,
+183 | powers) |
+| lexical
+priority
+over
+second | |
+| principle,
+77–80,
+84–85, | game
+theory,
+16,
+34,
+93 |
+| 96–97,
+101–05,
+183,
+186 | Gauthier,
+David,
+52,
+64,
+182 |
 ## | | |
 
-| gender,<br>x,<br>5–6,<br>10,<br>15,<br>24,<br>48, | Holocaust,<br>13–14 |
+| gender,
+x,
+5–6,
+10,
+15,
+24,
+48, | Holocaust,
+13–14 |
 |--------------------------------------------------------|-----------------------------------------------------------|
-| 52–53,<br>61,<br>64–65,<br>85,<br>89, | human<br>rights,<br>104<br>(see<br>also<br>basic |
-| 91–92,<br>121–25,<br>131–32, | liberties) |
-| 155,<br>168,<br>187 | humanism,<br>44,<br>47,<br>62,<br>73 |
-| Germany,<br>xi,<br>9,<br>13,<br>188 | Humboldt,<br>Wilhelm<br>von,<br>58,<br>188 |
-| See<br>gifts.<br>endowments | Hume,<br>David,<br>23,<br>188 |
-| Goodman,<br>Nelson,<br>ix,<br>21–22 | hypothetical<br>contract.<br>See<br>contract, |
-| government,<br>15,<br>19,<br>32,<br>46,<br>65,<br>92, | hypothetical |
-| 94,<br>99–101,<br>139–40,<br>145, | |
-| 149–53,<br>155,<br>179–80,<br>187 | Idea<br>of<br>Public<br>Reason<br>Revisited, |
-| structure<br>of,<br>149,<br>152–53 | The,<br>26 |
-| Great<br>Britain,<br>9 | ideal<br>theory,<br>39–41,<br>80,<br>88,<br>92, |
-| Grice,<br>H.<br>Paul,<br>16 | 102,<br>124–26,<br>157,<br>190 |
-| Groundwork,<br>10,<br>189 | ideals,<br>x,<br>27,<br>34–37,<br>56,<br>61,<br>80, |
-| guidelines,<br>38,<br>88,<br>137–40,<br>148, | 89–90,<br>136,<br>139,<br>145, |
-| 153–55,<br>161<br>(see<br>also<br>criteria | 155,<br>157–61,<br>169,<br>185–87, |
-| of<br>justice,<br>public) | 190,<br>193 |
-| | ideas,<br>15,<br>34,<br>60,<br>62,<br>65,<br>139,<br>142, |
-| Habermas,<br>Ju¨rgen,<br>viii | 156–57,<br>163–64,<br>167,<br>169, |
-| Hampshire,<br>Stuart,<br>16,<br>23 | 175,<br>181,<br>187–89 |
-| handicaps,<br>5,<br>63,<br>74<br>(see<br>also | explained,<br>170–73 |
-| disabilities) | fundamental.<br>See<br>fundamental |
-| happiness,<br>30–31,<br>53–55,<br>57,<br>72–73, | ideas |
-| 78,<br>117–19,<br>138,<br>143–44, | listed,<br>172–73 |
-| 157,<br>191–92 | See<br>also<br>concepts;<br>conceptions |
-| Hare,<br>Richard<br>M.,<br>16 | impartiality,<br>47,<br>166,<br>173,<br>191 |
-| Hart,<br>Herbert<br>L.<br>A.,<br>16,<br>23,<br>188 | income<br>and<br>wealth.<br>See<br>index<br>goods |
-| Harvard<br>University,<br>ix,<br>10,<br>17–19, | index<br>goods,<br>107–08,<br>110,<br>116, |
-| 21–24,<br>28,<br>178 | 121,<br>129–30,<br>132 |
-| health,<br>ix,<br>4–5,<br>22,<br>27 | income<br>and<br>wealth,<br>4,<br>15,<br>19,<br>33, |
-| citizens',<br>97 | 40,<br>64,<br>67–69,<br>73,<br>75,<br>94,<br>96, |
-| health<br>care<br>systems,<br>40,<br>78,<br>97,<br>155 | 102,<br>104,<br>107–08,<br>110–12, |
-| Hegel,<br>Georg<br>Wilhelm<br>Frierich,<br>viii, | 114,<br>116,<br>133–34,<br>152,<br>155, |
-| 14,<br>19,<br>185 | 180–81,<br>184,<br>193 |
-| Herzen,<br>Alexander,<br>16 | leisure<br>time,<br>107–08 |
-| Hicks,<br>J.<br>R.,<br>16 | listed,<br>107 |
-| higher-order<br>interests.<br>See | ofces,<br>powers<br>and<br>prerogatives<br>of |
-| fundamental<br>interests | 73,<br>107 |
-| Hiroshima,<br>12 | social<br>bases<br>of<br>self-respect,<br>73,<br>107, |
-| Hitler,<br>Adolf,<br>14 | 116–17,<br>132–33 |
-| Hobbes,<br>Thomas,<br>viii,<br>23,<br>64, | index<br>positions,<br>109–10,<br>112–16, |
-| 185,<br>188 | 119–21,<br>123–29,<br>131,<br>153 |
-| Ho¨ffe,<br>Otfried,<br>192 | absolute,<br>109–10,<br>115–16,<br>120 |
-| Hoffmann,<br>Stanley,<br>21 | relative,<br>110,<br>113–16,<br>120,<br>152 |
+| 52–53,
+61,
+64–65,
+85,
+89, | human
+rights,
+104
+(see
+also
+basic |
+| 91–92,
+121–25,
+131–32, | liberties) |
+| 155,
+168,
+187 | humanism,
+44,
+47,
+62,
+73 |
+| Germany,
+xi,
+9,
+13,
+188 | Humboldt,
+Wilhelm
+von,
+58,
+188 |
+| See
+gifts.
+endowments | Hume,
+David,
+23,
+188 |
+| Goodman,
+Nelson,
+ix,
+21–22 | hypothetical
+contract.
+See
+contract, |
+| government,
+15,
+19,
+32,
+46,
+65,
+92, | hypothetical |
+| 94,
+99–101,
+139–40,
+145, | |
+| 149–53,
+155,
+179–80,
+187 | Idea
+of
+Public
+Reason
+Revisited, |
+| structure
+of,
+149,
+152–53 | The,
+26 |
+| Great
+Britain,
+9 | ideal
+theory,
+39–41,
+80,
+88,
+92, |
+| Grice,
+H.
+Paul,
+16 | 102,
+124–26,
+157,
+190 |
+| Groundwork,
+10,
+189 | ideals,
+x,
+27,
+34–37,
+56,
+61,
+80, |
+| guidelines,
+38,
+88,
+137–40,
+148, | 89–90,
+136,
+139,
+145, |
+| 153–55,
+161
+(see
+also
+criteria | 155,
+157–61,
+169,
+185–87, |
+| of
+justice,
+public) | 190,
+193 |
+| | ideas,
+15,
+34,
+60,
+62,
+65,
+139,
+142, |
+| Habermas,
+Ju¨rgen,
+viii | 156–57,
+163–64,
+167,
+169, |
+| Hampshire,
+Stuart,
+16,
+23 | 175,
+181,
+187–89 |
+| handicaps,
+5,
+63,
+74
+(see
+also | explained,
+170–73 |
+| disabilities) | fundamental.
+See
+fundamental |
+| happiness,
+30–31,
+53–55,
+57,
+72–73, | ideas |
+| 78,
+117–19,
+138,
+143–44, | listed,
+172–73 |
+| 157,
+191–92 | See
+also
+concepts;
+conceptions |
+| Hare,
+Richard
+M.,
+16 | impartiality,
+47,
+166,
+173,
+191 |
+| Hart,
+Herbert
+L.
+A.,
+16,
+23,
+188 | income
+and
+wealth.
+See
+index
+goods |
+| Harvard
+University,
+ix,
+10,
+17–19, | index
+goods,
+107–08,
+110,
+116, |
+| 21–24,
+28,
+178 | 121,
+129–30,
+132 |
+| health,
+ix,
+4–5,
+22,
+27 | income
+and
+wealth,
+4,
+15,
+19,
+33, |
+| citizens',
+97 | 40,
+64,
+67–69,
+73,
+75,
+94,
+96, |
+| health
+care
+systems,
+40,
+78,
+97,
+155 | 102,
+104,
+107–08,
+110–12, |
+| Hegel,
+Georg
+Wilhelm
+Frierich,
+viii, | 114,
+116,
+133–34,
+152,
+155, |
+| 14,
+19,
+185 | 180–81,
+184,
+193 |
+| Herzen,
+Alexander,
+16 | leisure
+time,
+107–08 |
+| Hicks,
+J.
+R.,
+16 | listed,
+107 |
+| higher-order
+interests.
+See | ofces,
+powers
+and
+prerogatives
+of |
+| fundamental
+interests | 73,
+107 |
+| Hiroshima,
+12 | social
+bases
+of
+self-respect,
+73,
+107, |
+| Hitler,
+Adolf,
+14 | 116–17,
+132–33 |
+| Hobbes,
+Thomas,
+viii,
+23,
+64, | index
+positions,
+109–10,
+112–16, |
+| 185,
+188 | 119–21,
+123–29,
+131,
+153 |
+| Ho¨ffe,
+Otfried,
+192 | absolute,
+109–10,
+115–16,
+120 |
+| Hoffmann,
+Stanley,
+21 | relative,
+110,
+113–16,
+120,
+152 |
 ## | | |
 
 
@@ -2356,51 +4001,272 @@ institutions (social), 28–34, 37, 39–41,
 | | Maine, 8, 22 |
 | legal order, 29, 78, 106 | ividilic, 0, 22 |
 
-| Malcolm,<br>Norman,<br>10–11,<br>14,<br>16–17 | moral<br>principles,<br>15–17,<br>144,<br>189 |
+| Malcolm,
+Norman,
+10–11,
+14,
+16–17 | moral
+principles,
+15–17,
+144,
+189 |
 |---------------------------------------------------------------|-----------------------------------------------|
-| Manseld,<br>Harvey,<br>21 | (see<br>also<br>principles<br>of<br>justice) |
-| Marbury<br>v.<br>Madison,<br>5 | moral<br>universalism,<br>47 |
-| market,<br>32,<br>68–69,<br>180,<br>184–85 | morality,<br>30,<br>63,<br>135–36,<br>186 |
-| Marshall,<br>Burke,<br>21 | Morgenstern,<br>Oskar,<br>16 |
-| Marx,<br>Karl,<br>viii,<br>23,<br>188 | motivation/motives,<br>19,<br>61,<br>63–64, |
-| Mason,<br>Alpheus,<br>15 | 92–94,<br>118,<br>120,<br>123–24, |
-| Massachusetts<br>Institute<br>of | 131–32,<br>134,<br>140,<br>155,<br>157, |
-| Technology,<br>17–18,<br>23–24 | 162,<br>167,<br>189–92,<br>193,<br>196 |
-| matters<br>of<br>basic<br>justice,<br>148–50,<br>159 | Musgrave,<br>Richard<br>A.,<br>107 |
-| (see<br>also<br>constitutional | |
-| essentials) | Nagel,<br>Thomas,<br>xi,<br>24 |
-| maximean | natural<br>constitutions,<br>73,<br>77 |
-| aggregation,<br>53,<br>67 | natural<br>duties,<br>189 |
-| rule,<br>69 | natural<br>endowments.<br>See |
-| maximin,<br>67–72,<br>80,<br>102,<br>117 | endowments |
-| aggregation,<br>68 | natural<br>factors,<br>76,<br>92,<br>123–24, |
-| rule,<br>69–72,<br>75,<br>77,<br>86,<br>94,<br>98, | 130–32 |
-| 102,<br>107,<br>116–18,<br>126, | natural<br>inequalities,<br>74–75 |
-| 128,<br>131 | natural<br>primary<br>goods,<br>74–75 |
-| explained,<br>68–69 | natural<br>resources,<br>64,<br>67,69,<br>83, |
-| Mc Carthy,<br>Joseph<br>(Senator),<br>16 | 181–82 |
-| Meade,<br>James<br>Edward,<br>133 | needs.<br>See<br>basic<br>needs |
-| meta-criteria<br>of<br>(social)<br>justice, | Neumann,<br>John<br>von,<br>16 |
-| 42–44,<br>71,<br>73 | New<br>Guinea,<br>11 |
-| Metaphysics<br>of<br>Morals,<br>145 | New<br>York,<br>10,<br>17,<br>141 |
-| method<br>of<br>avoidance,<br>146,<br>173, | Niebuhr,<br>Reinhold,<br>11 |
-| 175–76,<br>192 | normative<br>individualism,<br>44, |
-| Michigan,<br>University<br>of,<br>23–24 | 47–48,<br>62–63,<br>73 |
-| military,<br>11–14,<br>20,<br>97,<br>99 | Nozick,<br>Robert,<br>ix,<br>45, |
-| Mill,<br>John<br>Stuart,<br>viii,<br>10,<br>16,<br>23,<br>98, | 166,<br>178–84 |
-| 144–45,<br>188 | |
-| minorities,<br>19,<br>85–86,<br>140 | objectivism,<br>163,<br>175,<br>177 |
-| modus<br>vivendi,<br>35–37,<br>65<br>(see<br>also | obligations,<br>x,<br>61,<br>67 |
-| overlapping<br>consensus) | institutional,<br>189 |
-| Moore,<br>George<br>Edward,<br>16 | opportunities,<br>7,<br>15,<br>40,<br>52, |
-| moral<br>analysis, | 111–12,<br>121–22,<br>124, |
-| institutional,<br>31,<br>33–34 | 126–32,<br>148,<br>153 |
-| interactional,<br>31,<br>33 | opportunity<br>principle,<br>106,<br>120–32 |
-| moral<br>consensus.<br>See<br>consensus | (see<br>also<br>equality<br>of |
-| justication,<br>moral<br>37–38 | opportunity) |
-| moral<br>powers,<br>55–58,<br>63–64,<br>73, | lexical<br>priority<br>over<br>difference |
-| 87–90,<br>173<br>(see<br>also | principle,<br>106,<br>120,<br>126, |
-| fundamental<br>interests) | 129,<br>132 |
+| Manseld,
+Harvey,
+21 | (see
+also
+principles
+of
+justice) |
+| Marbury
+v.
+Madison,
+5 | moral
+universalism,
+47 |
+| market,
+32,
+68–69,
+180,
+184–85 | morality,
+30,
+63,
+135–36,
+186 |
+| Marshall,
+Burke,
+21 | Morgenstern,
+Oskar,
+16 |
+| Marx,
+Karl,
+viii,
+23,
+188 | motivation/motives,
+19,
+61,
+63–64, |
+| Mason,
+Alpheus,
+15 | 92–94,
+118,
+120,
+123–24, |
+| Massachusetts
+Institute
+of | 131–32,
+134,
+140,
+155,
+157, |
+| Technology,
+17–18,
+23–24 | 162,
+167,
+189–92,
+193,
+196 |
+| matters
+of
+basic
+justice,
+148–50,
+159 | Musgrave,
+Richard
+A.,
+107 |
+| (see
+also
+constitutional | |
+| essentials) | Nagel,
+Thomas,
+xi,
+24 |
+| maximean | natural
+constitutions,
+73,
+77 |
+| aggregation,
+53,
+67 | natural
+duties,
+189 |
+| rule,
+69 | natural
+endowments.
+See |
+| maximin,
+67–72,
+80,
+102,
+117 | endowments |
+| aggregation,
+68 | natural
+factors,
+76,
+92,
+123–24, |
+| rule,
+69–72,
+75,
+77,
+86,
+94,
+98, | 130–32 |
+| 102,
+107,
+116–18,
+126, | natural
+inequalities,
+74–75 |
+| 128,
+131 | natural
+primary
+goods,
+74–75 |
+| explained,
+68–69 | natural
+resources,
+64,
+67,69,
+83, |
+| Mc Carthy,
+Joseph
+(Senator),
+16 | 181–82 |
+| Meade,
+James
+Edward,
+133 | needs.
+See
+basic
+needs |
+| meta-criteria
+of
+(social)
+justice, | Neumann,
+John
+von,
+16 |
+| 42–44,
+71,
+73 | New
+Guinea,
+11 |
+| Metaphysics
+of
+Morals,
+145 | New
+York,
+10,
+17,
+141 |
+| method
+of
+avoidance,
+146,
+173, | Niebuhr,
+Reinhold,
+11 |
+| 175–76,
+192 | normative
+individualism,
+44, |
+| Michigan,
+University
+of,
+23–24 | 47–48,
+62–63,
+73 |
+| military,
+11–14,
+20,
+97,
+99 | Nozick,
+Robert,
+ix,
+45, |
+| Mill,
+John
+Stuart,
+viii,
+10,
+16,
+23,
+98, | 166,
+178–84 |
+| 144–45,
+188 | |
+| minorities,
+19,
+85–86,
+140 | objectivism,
+163,
+175,
+177 |
+| modus
+vivendi,
+35–37,
+65
+(see
+also | obligations,
+x,
+61,
+67 |
+| overlapping
+consensus) | institutional,
+189 |
+| Moore,
+George
+Edward,
+16 | opportunities,
+7,
+15,
+40,
+52, |
+| moral
+analysis, | 111–12,
+121–22,
+124, |
+| institutional,
+31,
+33–34 | 126–32,
+148,
+153 |
+| interactional,
+31,
+33 | opportunity
+principle,
+106,
+120–32 |
+| moral
+consensus.
+See
+consensus | (see
+also
+equality
+of |
+| justication,
+moral
+37–38 | opportunity) |
+| moral
+powers,
+55–58,
+63–64,
+73, | lexical
+priority
+over
+difference |
+| 87–90,
+173
+(see
+also | principle,
+106,
+120,
+126, |
+| fundamental
+interests) | 129,
+132 |
 
 
 original position, vii–viii, 17, 43,
@@ -2492,47 +4358,305 @@ Oxford University, xi, 16–17, 23
 ## 92–95, 97–98, 105, 133,
 ## 149–52, 156, 188
 ## 
-| (fair)<br>value<br>of,<br>19,<br>82,<br>91–97, | principles<br>of<br>justice,<br>97,<br>189 |
+| (fair)
+value
+of,
+19,
+82,
+91–97, | principles
+of
+justice,
+97,
+189 |
 |-------------------------------------------------------------|---------------------------------------------------------|
-| 103,<br>105,<br>109,<br>124–25,<br>133, | two<br>principles<br>of<br>justice,<br>31,<br>42, |
-| 148–52,<br>154–56,<br>159,<br>162, | 117,<br>185,<br>190<br>(see<br>also<br>criteria |
-| 188,<br>194,<br>196 | rst<br>of<br>justice;<br>principle; |
-| constitutional<br>essential,<br>149–50, | lexical<br>priority;<br>priority<br>rules; |
-| 152,<br>154,<br>159 | second<br>principle) |
-| fully<br>adequate,<br>92,<br>149–51,<br>154 | See<br>priority.<br>lexical<br>priority |
-| political<br>order,<br>82,<br>149 | priority<br>rules,<br>42,<br>70,<br>97–98,<br>161 |
-| political<br>philosophy,<br>vii–x,<br>3–4,<br>19, | rst<br>(see<br>also<br>principle;<br>lexical |
-| 23–24,<br>26–27,<br>172,<br>174–75, | priority;<br>second<br>principle; |
-| 178,<br>193,<br>195–96 | two<br>principles) |
-| political<br>power,<br>133,<br>136,<br>139–40, | procedural<br>justice,<br>pure,<br>164,<br>173,<br>179 |
-| 142,<br>146,<br>153 | proles.<br>proles<br>See<br>distributional |
-| unreasonable<br>use<br>of,<br>142,<br>145–46 | property,<br>19,<br>29,<br>32,<br>83,<br>94,<br>99, |
-| (see<br>also<br>liberal<br>principle<br>of | 142,<br>178–79,<br>183 |
-| legitimacy) | property<br>rights,<br>178 |
-| political<br>virtues,<br>138,<br>140,<br>158,<br>161, | property-owning<br>democracy,<br>90, |
-| 173,<br>193<br>(see<br>also<br>civility) | 114,<br>133–34,<br>152,<br>180 |
-| positional<br>goods,<br>116 | See<br>public<br>criteria.<br>criteria<br>of<br>justice |
-| poverty,<br>7,<br>31–32,<br>34,<br>45,<br>79,<br>83,<br>90, | public<br>(political)<br>culture,<br>19,<br>57, |
-| 93,<br>104–05,<br>114,<br>116,<br>120, | 136,<br>139,<br>147,<br>156,<br>158, |
-| 122–23,<br>132,<br>134,<br>155, | 168–75,<br>177 |
-| 180–81,<br>188 | justication,<br>public<br>72,<br>142, |
-| power,<br>20,<br>36–37,<br>100,<br>105,<br>133, | 168–69,<br>173 |
-| 136,<br>139–40,<br>142,<br>146,<br>149, | public<br>(use<br>of<br>)<br>reason,<br>143,<br>173 |
-| 152–53,<br>193 | idea<br>of,<br>139 |
-| bargaining,<br>52,<br>64–65 | ideal<br>of,<br>139,<br>155,<br>157,<br>161 |
-| political,<br>see<br>political<br>power | publicity,<br>37–44,<br>54–55,<br>63,<br>66–67, |
-| ofces,<br>powers<br>and<br>prerogatives<br>of | 70–81,<br>83,<br>85,<br>88,<br>91–92, |
-| 73,<br>107 | 97,<br>104,<br>115–20,<br>126,<br>135, |
-| practices,<br>28,<br>30,<br>40,<br>42,<br>62,<br>99 | 137–43,<br>154–6,<br>158,<br>161, |
-| primary<br>goods,<br>73–79,<br>85,<br>104,<br>118, | 168–77,<br>188–89<br>(see<br>also |
-| 128,<br>130,<br>132,<br>173,<br>179, | criteria<br>of<br>justice,<br>public) |
-| 190–92 | pure<br>procedural<br>justice,<br>164,<br>173,<br>179 |
-| natural,<br>74–75 | purely<br>recipient-oriented<br>theorizing, |
-| social,<br>74–79,<br>96,<br>101,<br>107,<br>129, | 43–48,<br>53–54,<br>60,<br>62,<br>67,<br>101 |
-| 135,<br>183,<br>192 | Pusey,<br>Nathan,<br>21 |
-| Princeton<br>Institute<br>for<br>Advanced | Putnam,<br>Hilary,<br>ix,<br>18,<br>21–22 |
-| Study,<br>23 | |
-| Princeton<br>University,<br>xi,<br>9–11, | Quine,<br>Willard<br>V.<br>O.,<br>ix,<br>21–22 |
+| 103,
+105,
+109,
+124–25,
+133, | two
+principles
+of
+justice,
+31,
+42, |
+| 148–52,
+154–56,
+159,
+162, | 117,
+185,
+190
+(see
+also
+criteria |
+| 188,
+194,
+196 | rst
+of
+justice;
+principle; |
+| constitutional
+essential,
+149–50, | lexical
+priority;
+priority
+rules; |
+| 152,
+154,
+159 | second
+principle) |
+| fully
+adequate,
+92,
+149–51,
+154 | See
+priority.
+lexical
+priority |
+| political
+order,
+82,
+149 | priority
+rules,
+42,
+70,
+97–98,
+161 |
+| political
+philosophy,
+vii–x,
+3–4,
+19, | rst
+(see
+also
+principle;
+lexical |
+| 23–24,
+26–27,
+172,
+174–75, | priority;
+second
+principle; |
+| 178,
+193,
+195–96 | two
+principles) |
+| political
+power,
+133,
+136,
+139–40, | procedural
+justice,
+pure,
+164,
+173,
+179 |
+| 142,
+146,
+153 | proles.
+proles
+See
+distributional |
+| unreasonable
+use
+of,
+142,
+145–46 | property,
+19,
+29,
+32,
+83,
+94,
+99, |
+| (see
+also
+liberal
+principle
+of | 142,
+178–79,
+183 |
+| legitimacy) | property
+rights,
+178 |
+| political
+virtues,
+138,
+140,
+158,
+161, | property-owning
+democracy,
+90, |
+| 173,
+193
+(see
+also
+civility) | 114,
+133–34,
+152,
+180 |
+| positional
+goods,
+116 | See
+public
+criteria.
+criteria
+of
+justice |
+| poverty,
+7,
+31–32,
+34,
+45,
+79,
+83,
+90, | public
+(political)
+culture,
+19,
+57, |
+| 93,
+104–05,
+114,
+116,
+120, | 136,
+139,
+147,
+156,
+158, |
+| 122–23,
+132,
+134,
+155, | 168–75,
+177 |
+| 180–81,
+188 | justication,
+public
+72,
+142, |
+| power,
+20,
+36–37,
+100,
+105,
+133, | 168–69,
+173 |
+| 136,
+139–40,
+142,
+146,
+149, | public
+(use
+of
+)
+reason,
+143,
+173 |
+| 152–53,
+193 | idea
+of,
+139 |
+| bargaining,
+52,
+64–65 | ideal
+of,
+139,
+155,
+157,
+161 |
+| political,
+see
+political
+power | publicity,
+37–44,
+54–55,
+63,
+66–67, |
+| ofces,
+powers
+and
+prerogatives
+of | 70–81,
+83,
+85,
+88,
+91–92, |
+| 73,
+107 | 97,
+104,
+115–20,
+126,
+135, |
+| practices,
+28,
+30,
+40,
+42,
+62,
+99 | 137–43,
+154–6,
+158,
+161, |
+| primary
+goods,
+73–79,
+85,
+104,
+118, | 168–77,
+188–89
+(see
+also |
+| 128,
+130,
+132,
+173,
+179, | criteria
+of
+justice,
+public) |
+| 190–92 | pure
+procedural
+justice,
+164,
+173,
+179 |
+| natural,
+74–75 | purely
+recipient-oriented
+theorizing, |
+| social,
+74–79,
+96,
+101,
+107,
+129, | 43–48,
+53–54,
+60,
+62,
+67,
+101 |
+| 135,
+183,
+192 | Pusey,
+Nathan,
+21 |
+| Princeton
+Institute
+for
+Advanced | Putnam,
+Hilary,
+ix,
+18,
+21–22 |
+| Study,
+23 | |
+| Princeton
+University,
+xi,
+9–11, | Quine,
+Willard
+V.
+O.,
+ix,
+21–22 |
 | 14–17 | |
 ## | | |
 
@@ -2542,144 +4666,871 @@ race, x, 6–7, 48, 51–53, 64–65, 92, 97, 121, 123–25, 131–32,
 
 principle of legitimacy, liberal, 153, 177 quoted, 139–40
 
-| rationality,<br>54–56,<br>58,<br>68–69,<br>89, | reective<br>equilibrium,<br>15,<br>162, |
+| rationality,
+54–56,
+58,
+68–69,
+89, | reective
+equilibrium,
+15,
+162, |
 |--------------------------------------------------------------------|-------------------------------------------------------------------|
-| 116,<br>139,<br>173,<br>189–92 | 165–66,<br>170,<br>173, |
-| of<br>the<br>parties,<br>61–63,<br>66–70, | 175–76,<br>188 |
-| 76,<br>102,<br>118,<br>128,<br>131,<br>164, | general,<br>167 |
-| 189–92 | narrow,<br>165–66 |
-| Rawls,<br>Alexander<br>Emory<br>(son),<br>17 | wide,<br>29,<br>165–70 |
-| Rawls,<br>Anna<br>Abell<br>(mother),<br>4–5 | relativism,<br>174–75 |
-| Wareld<br>Rawls,<br>Anne<br>(daughter),<br>17 | religion,<br>8,<br>11,<br>13–14,<br>26–27,<br>34–35, |
-| Rawls,<br>Elizabeth<br>Fox<br>(daughter),<br>17 | 41,<br>43–44,<br>51–52,<br>55,<br>84,<br>87, |
-| Wareld<br>Rawls,<br>Margaret<br>(wife),<br>xii, | 92,<br>97,<br>99–100,<br>122,<br>124–25, |
-| 15,<br>18,<br>22,<br>26–27 | 138–43,<br>145,<br>163,<br>166–68, |
-| Rawls,<br>Richard<br>Howland<br>(brother), | 175–76,<br>187,<br>192 |
-| 5,<br>9 | representative<br>groups,<br>112 |
-| Rawls,<br>Robert<br>Lee<br>(brother),<br>5–6 | resources,<br>natural,<br>64,<br>67,<br>69,<br>83, |
-| Rawls,<br>Robert<br>Lee<br>(son),<br>17 | 181–82 |
-| Rawls,<br>Thomas<br>Hamilton<br>(brother), | responsibility,<br>32,<br>34,<br>45,<br>61,<br>74, |
-| 5–6 | 77,<br>173,<br>192 |
-| Rawls,<br>William<br>Lee<br>(father),<br>4–5 | right<br>to<br>a<br>speedy<br>trial,<br>83,<br>87 |
-| Rawls,<br>William<br>Stowe<br>(brother), | see<br>rights,<br>basic<br>liberties |
-| 5,<br>9–10,<br>12 | Ritchie,<br>Albert,<br>5 |
-| Rawls,<br>William<br>Stowe<br>(paternal | Roosevelt,<br>Franklin<br>D.,<br>5 |
-| grandfather),<br>4 | Rousseau,<br>Jean-Jacques,<br>viii, |
+| 116,
+139,
+173,
+189–92 | 165–66,
+170,
+173, |
+| of
+the
+parties,
+61–63,
+66–70, | 175–76,
+188 |
+| 76,
+102,
+118,
+128,
+131,
+164, | general,
+167 |
+| 189–92 | narrow,
+165–66 |
+| Rawls,
+Alexander
+Emory
+(son),
+17 | wide,
+29,
+165–70 |
+| Rawls,
+Anna
+Abell
+(mother),
+4–5 | relativism,
+174–75 |
+| Wareld
+Rawls,
+Anne
+(daughter),
+17 | religion,
+8,
+11,
+13–14,
+26–27,
+34–35, |
+| Rawls,
+Elizabeth
+Fox
+(daughter),
+17 | 41,
+43–44,
+51–52,
+55,
+84,
+87, |
+| Wareld
+Rawls,
+Margaret
+(wife),
+xii, | 92,
+97,
+99–100,
+122,
+124–25, |
+| 15,
+18,
+22,
+26–27 | 138–43,
+145,
+163,
+166–68, |
+| Rawls,
+Richard
+Howland
+(brother), | 175–76,
+187,
+192 |
+| 5,
+9 | representative
+groups,
+112 |
+| Rawls,
+Robert
+Lee
+(brother),
+5–6 | resources,
+natural,
+64,
+67,
+69,
+83, |
+| Rawls,
+Robert
+Lee
+(son),
+17 | 181–82 |
+| Rawls,
+Thomas
+Hamilton
+(brother), | responsibility,
+32,
+34,
+45,
+61,
+74, |
+| 5–6 | 77,
+173,
+192 |
+| Rawls,
+William
+Lee
+(father),
+4–5 | right
+to
+a
+speedy
+trial,
+83,
+87 |
+| Rawls,
+William
+Stowe
+(brother), | see
+rights,
+basic
+liberties |
+| 5,
+9–10,
+12 | Ritchie,
+Albert,
+5 |
+| Rawls,
+William
+Stowe
+(paternal | Roosevelt,
+Franklin
+D.,
+5 |
+| grandfather),
+4 | Rousseau,
+Jean-Jacques,
+viii, |
 | | |
 | | |
-| Raz,<br>Joseph,<br>144 | 16,<br>23,<br>188 |
-| realism,<br>26–27,<br>39–40,<br>67,<br>71–72, | rule<br>of<br>law,<br>83,<br>87,<br>93,<br>99 |
-| 80–81,<br>91,<br>101,<br>107–08,<br>120, | Ryle,<br>Gilbert,<br>16 |
-| 135–37,<br>141,<br>156–60,<br>167 | |
-| moral,<br>163,<br>175 | Sachs,<br>David,<br>17–18 |
-| realistic<br>utopia,<br>27,<br>137 | Samuelson,<br>Paul,<br>16 |
-| reasonable<br>pluralism.<br>See<br>pluralism, | Sandel,<br>Michael,<br>183,<br>185–87 |
-| reasonable | savings<br>rate,<br>113–14,<br>133 |
-| reasonableness,<br>16,<br>57,<br>104,<br>139, | Scanlon,<br>Thomas<br>M.,<br>23–24 |
-| 141–42,<br>146–47,<br>158,<br>163, | scheme.<br>See<br>basic<br>liberties |
-| 166,<br>173–76,<br>190 | Scholastics,<br>the,<br>185 |
-| of<br>doctrines,<br>146–47 | second<br>principle<br>of<br>justice,<br>79, |
-| of<br>persons,<br>145–46,<br>154 | 106,<br>121 |
-| of<br>ways<br>of<br>life,<br>146 | quoted,<br>106 |
-| of<br>worldviews,<br>34,<br>57,<br>145–47 | See<br>also<br>difference<br>principle; |
-| reasonably<br>favorable<br>conditions,<br>40, | opportunity<br>principle<br>security, |
-| 63,<br>66–67,<br>70–71,<br>78,<br>80,<br>88, | 36–37,<br>93,<br>98,<br>101,<br>103,<br>(see<br>also<br>adequacy; |
-| 96,<br>97,<br>99,<br>102–03<br>Rechtslehre,<br>145,<br>189,<br>192 | 154,<br>196<br>basic<br>liberties) |
-| Reclaiming<br>the<br>History<br>of<br>Ethics,<br>Essays | self-respect,<br>58,<br>73,<br>76,<br>116,<br>131,<br>173 |
-| for<br>John<br>Rawls, | (residual)<br>social<br>bases<br>of, |
-| 24<br>redistribution,<br>178–81,<br>183 | 73,<br>107,<br>116–17,<br>132–33 |
+| Raz,
+Joseph,
+144 | 16,
+23,
+188 |
+| realism,
+26–27,
+39–40,
+67,
+71–72, | rule
+of
+law,
+83,
+87,
+93,
+99 |
+| 80–81,
+91,
+101,
+107–08,
+120, | Ryle,
+Gilbert,
+16 |
+| 135–37,
+141,
+156–60,
+167 | |
+| moral,
+163,
+175 | Sachs,
+David,
+17–18 |
+| realistic
+utopia,
+27,
+137 | Samuelson,
+Paul,
+16 |
+| reasonable
+pluralism.
+See
+pluralism, | Sandel,
+Michael,
+183,
+185–87 |
+| reasonable | savings
+rate,
+113–14,
+133 |
+| reasonableness,
+16,
+57,
+104,
+139, | Scanlon,
+Thomas
+M.,
+23–24 |
+| 141–42,
+146–47,
+158,
+163, | scheme.
+See
+basic
+liberties |
+| 166,
+173–76,
+190 | Scholastics,
+the,
+185 |
+| of
+doctrines,
+146–47 | second
+principle
+of
+justice,
+79, |
+| of
+persons,
+145–46,
+154 | 106,
+121 |
+| of
+ways
+of
+life,
+146 | quoted,
+106 |
+| of
+worldviews,
+34,
+57,
+145–47 | See
+also
+difference
+principle; |
+| reasonably
+favorable
+conditions,
+40, | opportunity
+principle
+security, |
+| 63,
+66–67,
+70–71,
+78,
+80,
+88, | 36–37,
+93,
+98,
+101,
+103,
+(see
+also
+adequacy; |
+| 96,
+97,
+99,
+102–03
+Rechtslehre,
+145,
+189,
+192 | 154,
+196
+basic
+liberties) |
+| Reclaiming
+the
+History
+of
+Ethics,
+Essays | self-respect,
+58,
+73,
+76,
+116,
+131,
+173 |
+| for
+John
+Rawls, | (residual)
+social
+bases
+of, |
+| 24
+redistribution,
+178–81,
+183 | 73,
+107,
+116–17,
+132–33 |
 
-| Sen,<br>Amartya<br>K.,<br>23 | |
+| Sen,
+Amartya
+K.,
+23 | |
 |----------------------------------------------------------|-----------------------------------------------------------|
-| sense<br>of<br>justice,<br>6,<br>55–58,<br>63,<br>87, | ideal,<br>x,<br>89–90,<br>139,<br>161,<br>186–87, |
-| 131–32,<br>137,<br>140,<br>145,<br>157, | 190–93 |
-| 164,<br>166,<br>173,<br>193–94 | liberal,<br>144,<br>186–87 |
-| | well-ordered,<br>92,<br>136–40, |
-| Shklar,<br>Judith,<br>21,<br>23 | 144,<br>149,<br>153,<br>156–59, |
-| Sidgwick,<br>Henry,<br>viii,<br>23,<br>188 | 161–62,<br>173 |
-| Singer,<br>Irving,<br>17 | socioeconomic<br>positions,<br>89–91, |
-| skin<br>color.<br>See<br>race | 93–95,<br>107–09,<br>112–13,<br>116, |
-| slaves/slavery,<br>14,<br>83,<br>179,<br>182 | 119–21,<br>131,<br>150,<br>183–84,<br>193 |
-| (see<br>also<br>freedom<br>from<br>slavery | stability,<br>27,<br>38,<br>41,<br>54,<br>58–59,<br>72, |
-| and<br>serfdom) | 90,<br>105,<br>118,<br>120,<br>138,<br>147, |
-| Smith,<br>Adam,<br>166 | 160,<br>173,<br>187 |
-| social<br>bases<br>of<br>self-respect,<br>73,<br>107, | achieved<br>by<br>a<br>conception<br>of |
-| 116–17,<br>132–33 | justice,<br>41,<br>54,<br>72, |
-| social<br>contract.<br>See<br>contract | 104–05,<br>118 |
-| social<br>factors,<br>123–24,<br>131–32 | of<br>a<br>social<br>order,<br>35,<br>37–38, |
-| social<br>institutions.<br>See<br>institutions | 41–42,<br>55,<br>105,<br>118,<br>120, |
-| social<br>justice,<br>vii,<br>x,<br>28–29,<br>31,<br>35, | 147,<br>157 |
-| 39,<br>42,<br>45–46,<br>102,<br>166 | Stace,<br>Walter<br>T.,<br>10,<br>14 |
-| social<br>order,<br>35,<br>37–38,<br>41–43, | Stanford<br>University,<br>21,<br>23 |
-| 45–49,<br>51–56,<br>58–69,<br>76, | state<br>socialism,<br>133 |
-| 105,<br>118,<br>120,<br>133,<br>136, | strains<br>of<br>commitment,<br>90,<br>120,<br>173 |
-| 145–47,<br>157–59,<br>181–82, | Strawson,<br>(Sir)<br>Peter,<br>16 |
-| 187–88,<br>191–94 | students<br>(of<br>Rawls),<br>24 |
-| stability<br>of,<br>35,<br>37–38,<br>41–42,<br>55, | Stump,<br>Alexander<br>Hamilton |
-| 105,<br>118,<br>120,<br>147,<br>157 | (maternal<br>grandfather),<br>4 |
-| types<br>of,<br>133 | subjectivism,<br>175 |
-| laissez-faire<br>capitalism,<br>133, | supporting<br>liberties,<br>87 |
-| 181,<br>184–85 | |
-| liberal<br>socialism,<br>114–15, | talents.<br>See<br>endowments |
-| 133–34,<br>152 | task<br>description<br>(in<br>original<br>position), |
-| property-owning<br>democracy, | 63,<br>70,<br>102 |
-| 90,<br>114,<br>133–34,<br>152,<br>180 | taxes,<br>32,<br>84,<br>110,<br>114,<br>120,<br>133, |
-| state<br>socialism,<br>133 | 151–52,<br>180–81,<br>183–84,<br>194 |
-| welfare-state<br>capitalism,<br>133,<br>179 | Taylor,<br>Charles,<br>185 |
-| socialism,<br>34,<br>114,<br>133–34 | Theory<br>of<br>Justice,<br>A<br>(TJ),<br>vii–viii,<br>3, |
-| liberal,<br>114–15,<br>133–34,<br>152 | 18–19,<br>21–23,<br>26,<br>28,<br>34,<br>38, |
-| state,<br>133 | 54,<br>77,<br>94,<br>129,<br>178,<br>194 |
-| society | theories<br>of<br>(social)<br>justice,<br>ix–x,<br>26, |
-| as<br>a<br>fair<br>system<br>of<br>cooperation, | 42,<br>70,<br>97,<br>185,<br>196 |
-| 172–73,<br>196 | single-tier(ed),<br>30 |
-| democratic,<br>vii,<br>26,<br>35,<br>54,<br>61, | three-tier(ed),<br>43,<br>55,<br>60,<br>70 |
-| 87,<br>143,<br>168,<br>171,<br>174–75, | two-tier(ed),<br>30,<br>42–43,<br>53 |
+| sense
+of
+justice,
+6,
+55–58,
+63,
+87, | ideal,
+x,
+89–90,
+139,
+161,
+186–87, |
+| 131–32,
+137,
+140,
+145,
+157, | 190–93 |
+| 164,
+166,
+173,
+193–94 | liberal,
+144,
+186–87 |
+| | well-ordered,
+92,
+136–40, |
+| Shklar,
+Judith,
+21,
+23 | 144,
+149,
+153,
+156–59, |
+| Sidgwick,
+Henry,
+viii,
+23,
+188 | 161–62,
+173 |
+| Singer,
+Irving,
+17 | socioeconomic
+positions,
+89–91, |
+| skin
+color.
+See
+race | 93–95,
+107–09,
+112–13,
+116, |
+| slaves/slavery,
+14,
+83,
+179,
+182 | 119–21,
+131,
+150,
+183–84,
+193 |
+| (see
+also
+freedom
+from
+slavery | stability,
+27,
+38,
+41,
+54,
+58–59,
+72, |
+| and
+serfdom) | 90,
+105,
+118,
+120,
+138,
+147, |
+| Smith,
+Adam,
+166 | 160,
+173,
+187 |
+| social
+bases
+of
+self-respect,
+73,
+107, | achieved
+by
+a
+conception
+of |
+| 116–17,
+132–33 | justice,
+41,
+54,
+72, |
+| social
+contract.
+See
+contract | 104–05,
+118 |
+| social
+factors,
+123–24,
+131–32 | of
+a
+social
+order,
+35,
+37–38, |
+| social
+institutions.
+See
+institutions | 41–42,
+55,
+105,
+118,
+120, |
+| social
+justice,
+vii,
+x,
+28–29,
+31,
+35, | 147,
+157 |
+| 39,
+42,
+45–46,
+102,
+166 | Stace,
+Walter
+T.,
+10,
+14 |
+| social
+order,
+35,
+37–38,
+41–43, | Stanford
+University,
+21,
+23 |
+| 45–49,
+51–56,
+58–69,
+76, | state
+socialism,
+133 |
+| 105,
+118,
+120,
+133,
+136, | strains
+of
+commitment,
+90,
+120,
+173 |
+| 145–47,
+157–59,
+181–82, | Strawson,
+(Sir)
+Peter,
+16 |
+| 187–88,
+191–94 | students
+(of
+Rawls),
+24 |
+| stability
+of,
+35,
+37–38,
+41–42,
+55, | Stump,
+Alexander
+Hamilton |
+| 105,
+118,
+120,
+147,
+157 | (maternal
+grandfather),
+4 |
+| types
+of,
+133 | subjectivism,
+175 |
+| laissez-faire
+capitalism,
+133, | supporting
+liberties,
+87 |
+| 181,
+184–85 | |
+| liberal
+socialism,
+114–15, | talents.
+See
+endowments |
+| 133–34,
+152 | task
+description
+(in
+original
+position), |
+| property-owning
+democracy, | 63,
+70,
+102 |
+| 90,
+114,
+133–34,
+152,
+180 | taxes,
+32,
+84,
+110,
+114,
+120,
+133, |
+| state
+socialism,
+133 | 151–52,
+180–81,
+183–84,
+194 |
+| welfare-state
+capitalism,
+133,
+179 | Taylor,
+Charles,
+185 |
+| socialism,
+34,
+114,
+133–34 | Theory
+of
+Justice,
+A
+(TJ),
+vii–viii,
+3, |
+| liberal,
+114–15,
+133–34,
+152 | 18–19,
+21–23,
+26,
+28,
+34,
+38, |
+| state,
+133 | 54,
+77,
+94,
+129,
+178,
+194 |
+| society | theories
+of
+(social)
+justice,
+ix–x,
+26, |
+| as
+a
+fair
+system
+of
+cooperation, | 42,
+70,
+97,
+185,
+196 |
+| 172–73,
+196 | single-tier(ed),
+30 |
+| democratic,
+vii,
+26,
+35,
+54,
+61, | three-tier(ed),
+43,
+55,
+60,
+70 |
+| 87,
+143,
+168,
+171,
+174–75, | two-tier(ed),
+30,
+42–43,
+53 |
 ## | | |
 
 ## See also conceptions of justice
 
 ## 187, 193
 
-| Thomson,<br>James,<br>18 | Vietnam,<br>ix,<br>19,<br>21 |
+| Thomson,
+James,
+18 | Vietnam,
+ix,
+19,
+21 |
 |-----------------------------------------------------------|--------------------------------------------------------|
-| threat<br>advantage,<br>36,<br>52,<br>62–66,<br>73, | Viner,<br>Jacob,<br>15 |
-| 182<br>(see<br>also<br>bargaining<br>power) | virtues,<br>4,<br>28,<br>138,<br>146,<br>192 |
-| Todes,<br>Samuel,<br>17 | political,<br>138,<br>140,<br>158,<br>161,<br>173, |
-| tolerance/toleration,<br>19,<br>59,<br>94, | (see<br>also<br>civility)<br>193 |
-| 98–99,<br>138,<br>144,<br>146–47, | |
-| 173,<br>188 | Walras,<br>Leon,<br>16 |
-| Tower,<br>Anna,<br>21 | Walzer,<br>Michael,<br>21,<br>185 |
-| truth,<br>141,<br>145,<br>163,<br>174–77 | war,<br>19,<br>28,<br>36,<br>64,<br>97,<br>103,<br>196 |
-| See<br>two<br>principles<br>of<br>justice. | Civil,<br>14 |
-| principles<br>of<br>justice | civil,<br>72,<br>97 |
-| | First<br>World,<br>9 |
-| U. S.<br>See<br>United<br>States | on<br>terror,<br>196 |
-| unemployment,<br>31–32,<br>34,<br>46 | Second<br>World,<br>7,<br>9–14,<br>99 |
-| Unger,<br>Roberto,<br>185 | unjust,<br>19–20,<br>28 |
-| United<br>Nations,<br>104 | Vietnam,<br>ix,<br>19–21 |
-| United<br>States,<br>viii,<br>ix,<br>4–5,<br>9,<br>11, | ways<br>of<br>life,<br>54,<br>58,<br>144 |
-| 15,<br>19,<br>22,<br>24,<br>33–34,<br>45,<br>67, | reasonable,<br>146 |
-| 94–96,<br>99,<br>112,<br>133,<br>136, | wealth.<br>See<br>income<br>and<br>wealth |
-| 141–42,<br>150,<br>155,<br>170, | Webster,<br>John,<br>7 |
-| 179,<br>185 | welfare-state<br>capitalism,<br>133,<br>179 |
+| threat
+advantage,
+36,
+52,
+62–66,
+73, | Viner,
+Jacob,
+15 |
+| 182
+(see
+also
+bargaining
+power) | virtues,
+4,
+28,
+138,
+146,
+192 |
+| Todes,
+Samuel,
+17 | political,
+138,
+140,
+158,
+161,
+173, |
+| tolerance/toleration,
+19,
+59,
+94, | (see
+also
+civility)
+193 |
+| 98–99,
+138,
+144,
+146–47, | |
+| 173,
+188 | Walras,
+Leon,
+16 |
+| Tower,
+Anna,
+21 | Walzer,
+Michael,
+21,
+185 |
+| truth,
+141,
+145,
+163,
+174–77 | war,
+19,
+28,
+36,
+64,
+97,
+103,
+196 |
+| See
+two
+principles
+of
+justice. | Civil,
+14 |
+| principles
+of
+justice | civil,
+72,
+97 |
+| | First
+World,
+9 |
+| U. S.
+See
+United
+States | on
+terror,
+196 |
+| unemployment,
+31–32,
+34,
+46 | Second
+World,
+7,
+9–14,
+99 |
+| Unger,
+Roberto,
+185 | unjust,
+19–20,
+28 |
+| United
+Nations,
+104 | Vietnam,
+ix,
+19–21 |
+| United
+States,
+viii,
+ix,
+4–5,
+9,
+11, | ways
+of
+life,
+54,
+58,
+144 |
+| 15,
+19,
+22,
+24,
+33–34,
+45,
+67, | reasonable,
+146 |
+| 94–96,
+99,
+112,
+133,
+136, | wealth.
+See
+income
+and
+wealth |
+| 141–42,
+150,
+155,
+170, | Webster,
+John,
+7 |
+| 179,
+185 | welfare-state
+capitalism,
+133,
+179 |
 | | |
-| Buckley<br>v.<br>Valeo,<br>19,<br>94,<br>149 | well-ordered<br>society.<br>See<br>society, |
-| constitution,<br>4–5,<br>15,<br>19,<br>94–95, | well-ordered |
-| 103–04 | White,<br>Morton,<br>21 |
-| First<br>Amendment,<br>95 | Williams,<br>Bernard,<br>185,<br>187 |
-| Marbury<br>v.<br>Madison,<br>5 | Willkie,<br>Wendell,<br>5 |
-| universalism,<br>47 | Wilson,<br>Woodrow,<br>5 |
-| Urmson,<br>James<br>O.,<br>16 | Wittgenstein,<br>Ludwig,<br>10–11,<br>14 |
-| utilitarianism,<br>10,<br>30–31,<br>42,<br>45–47, | world |
-| 51,<br>53,<br>55–56,<br>63,<br>68,<br>71,<br>75, | goodness<br>of,<br>26–27,<br>136 |
-| 117–18,<br>137–38,<br>143–44, | justice<br>of,<br>28,<br>76–77,<br>160 |
-| 157,<br>170 | worldviews,<br>34–36,<br>38,<br>41,<br>43, |
-| utopia,<br>27 | 53,<br>57,<br>65,<br>138–48, |
-| realistic,<br>27,<br>137 | 157–58,<br>163,<br>168–69, |
-| | 175,<br>195 |
-| value/worth.<br>See<br>adequacy;<br>basic | reasonable,<br>34,<br>57,<br>145–47 |
-| liberties;<br>political<br>liberties | See<br>also<br>comprehensive<br>doctrines; |
-| veil<br>of<br>ignorance,<br>viii,<br>64–67,<br>69,<br>71, | conceptions<br>of<br>the<br>good; |
-| 88,<br>189,<br>191 | ways<br>of<br>life |
+| Buckley
+v.
+Valeo,
+19,
+94,
+149 | well-ordered
+society.
+See
+society, |
+| constitution,
+4–5,
+15,
+19,
+94–95, | well-ordered |
+| 103–04 | White,
+Morton,
+21 |
+| First
+Amendment,
+95 | Williams,
+Bernard,
+185,
+187 |
+| Marbury
+v.
+Madison,
+5 | Willkie,
+Wendell,
+5 |
+| universalism,
+47 | Wilson,
+Woodrow,
+5 |
+| Urmson,
+James
+O.,
+16 | Wittgenstein,
+Ludwig,
+10–11,
+14 |
+| utilitarianism,
+10,
+30–31,
+42,
+45–47, | world |
+| 51,
+53,
+55–56,
+63,
+68,
+71,
+75, | goodness
+of,
+26–27,
+136 |
+| 117–18,
+137–38,
+143–44, | justice
+of,
+28,
+76–77,
+160 |
+| 157,
+170 | worldviews,
+34–36,
+38,
+41,
+43, |
+| utopia,
+27 | 53,
+57,
+65,
+138–48, |
+| realistic,
+27,
+137 | 157–58,
+163,
+168–69, |
+| | 175,
+195 |
+| value/worth.
+See
+adequacy;
+basic | reasonable,
+34,
+57,
+145–47 |
+| liberties;
+political
+liberties | See
+also
+comprehensive
+doctrines; |
+| veil
+of
+ignorance,
+viii,
+64–67,
+69,
+71, | conceptions
+of
+the
+good; |
+| 88,
+189,
+191 | ways
+of
+life |
 | | |
 ## | | |

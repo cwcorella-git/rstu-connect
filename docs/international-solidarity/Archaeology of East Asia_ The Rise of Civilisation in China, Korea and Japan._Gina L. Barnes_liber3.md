@@ -1,3 +1,8 @@
+---
+title: "EAST ASIA"
+category: "international-solidarity"
+---
+
 ## GINA L. BARNES
 
 ## ![](_page_0_Picture_1.jpeg)
@@ -26,12 +31,17 @@ ISBN 978-1-78570-070-5 (hardback) -- ISBN 978-1-78570-071-2 (epub) -- ISBN 978-1
 
 Telephone (01865) 241249, Fax (01865) 794449 Telephone (800) 791-9354, Fax (610) 853-9146 Email: oxbow@oxbowbooks.com Email: queries@casemateacademic.com
 
-| | List of Tables<br>xii | | | | |
+| | List of Tables
+xii | | | | |
 |---|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|--|--|--|
-| | Preface<br>Multiple editions xiii; Where is East Asia? xiv; Dating preferences xiv;<br>Language issues xv; Note on referencing xviii; Note on indexing xviii;<br>Acknowledgments xix | xiii | | | |
+| | Preface
+Multiple editions xiii; Where is East Asia? xiv; Dating preferences xiv;
+Language issues xv; Note on referencing xviii; Note on indexing xviii;
+Acknowledgments xix | xiii | | | |
 | 1 | Orientation | 1 | | | |
 | | Grounding | 1 | | | |
-| | Starting from the Yellow Sea 1; Mainland geography 3;<br>e loesslands 4; | | | | |
+| | Starting from the Yellow Sea 1; Mainland geography 3;
+e loesslands 4; | | | | |
 | | e Northern Zone 4; Westward ho! 4; Eastward bound 4; North–south divisions 5 | | | | |
 | | National chronologies | 6 | | | |
 | | With or without writing? | 7 | | | |
@@ -94,7 +104,9 @@ Telephone (01865) 241249, Fax (01865) 794449 Telephone (800) 791-9354, Fax (610)
 
 ## *stratification* 160; *What is a state?* 161
 
-| | Urbanizing settlements<br>Of walls and terraces 162; Southern powerhouse: Liangzhu site complex 163;<br>Intermontane Taosi 165; Liangchengzhen, Eastern Longshan 167; | 162 |
+| | Urbanizing settlements
+Of walls and terraces 162; Southern powerhouse: Liangzhu site complex 163;
+Intermontane Taosi 165; Liangchengzhen, Eastern Longshan 167; | 162 |
 |---|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|
 | | Quick comparisons 169 | |
 | | Site hierarchies | 169 |
@@ -125,7 +137,8 @@ Telephone (01865) 241249, Fax (01865) 794449 Telephone (800) 791-9354, Fax (610)
 | | Royal Zhou 208 | |
 | | Early inscriptions | 209 |
 | | Shang state organization | 210 |
-| | Shang capitals 210;<br>e late great capital of Yinxu 214; Territorial | |
+| | Shang capitals 210;
+e late great capital of Yinxu 214; Territorial | |
 ## | | | |
 
  **Royal Zhou and enfeoments 223** *Zhou in the Zhouyuan* 223; *Early Zhou socio-political organization* 225; *Yan – a royal enfeoffment* 226
@@ -139,15 +152,21 @@ Telephone (01865) 241249, Fax (01865) 794449 Telephone (800) 791-9354, Fax (610)
 | From huaxia to Han 235; Peripheral origins 236 | |
 |--------------------------------------------------------------------------|-----|
 | Zhou border states | 237 |
-| e eastern state of Qi 237;<br>e southern state of Chu 237; | |
+| e eastern state of Qi 237;
+e southern state of Chu 237; | |
 | Qin to the west 239; Jin in the northwest 240 | |
 | Commercial endeavors | 241 |
 | Bronzes: deterioriations and advances 241; Iron: the beginning of | |
 | an industry 244; Salt 248; A cash economy 248 | |
 | e Northern Zone | 249 |
 | From Rong and Di to hu 249; Northern signifiers: animal art and gold 253 | |
-| 11<br>Pen/Insular Rice, Bronze and Iron (1300–200 BC) | 255 |
-| Contributions<br>from<br>the<br>China<br>Mainland | 256 |
+| 11
+Pen/Insular Rice, Bronze and Iron (1300–200 BC) | 255 |
+| Contributions
+from
+the
+China
+Mainland | 256 |
 | Upper Xiajiadian 256; Yueshi culture 258 | |
 | Establishing Mumun culture | 258 |
 | Transmission of rice farming 259; Dolmen and cist burials 261; | |
@@ -161,7 +180,8 @@ Telephone (01865) 241249, Fax (01865) 794449 Telephone (800) 791-9354, Fax (610)
 | Jomon resistance to wet-rice agriculture 280 | |
 | 12 e Making and Breaking of Empire (350 BC–500 AD) | 285 |
 | Qin, the Unier | 285 |
-| Warring states reforms 285; United China<br>286 | |
+| Warring states reforms 285; United China
+286 | |
 | e Han Dynasty | 289 |
 | Establishment of unified rule 289; Imperial capitals 290; | |
 | Han burial innovations 293 | |
@@ -186,7 +206,8 @@ Telephone (01865) 241249, Fax (01865) 794449 Telephone (800) 791-9354, Fax (610)
 | Commandery sites 313; Relations with Shandong and Liaodong 314; | |
 | Lelang tombs 315; From Gongsun to Wei rule 316 | |
 | e Samhan of the southern Korean Peninsula | 317 |
-| Commandery connections 317; Ceramic<br>advancements 320; Iron production 321; | |
+| Commandery connections 317; Ceramic
+advancements 320; Iron production 321; | |
 | From the ree Han to the ree Kingdoms 322 | |
 | Yayoi bronze cultures | 323 |
 | Renewed continental connections 323; North Kyushu continental gateway 326 | |
@@ -352,13 +373,20 @@ Figure 4.4 Major obsidian and sanukite sources Figure 4.5 Blade production techn
 
 | x | Archaeology of East Asia | |
 |--------------------------|-------------------------------------------------------------------------|--|
-| Figure 4.7 | Tools from Suyanggae, central<br>Korean Peninsula85 | |
-| Figure 4.8 | Hut and lithic scatters at the Tana<br>Mukaihara site, Kanto region89 | |
+| Figure 4.7 | Tools from Suyanggae, central
+Korean Peninsula85 | |
+| Figure 4.8 | Hut and lithic scatters at the Tana
+Mukaihara site, Kanto region89 | |
 | Figure 4.9 | Incipient Jomon artifacts95 | |
-| Figure 5.1 | Sites mentioned in Chapter 5 and<br>the main Early Holocene cultures100 | |
-| Figure 5.2 | Settlements at Xinglongwa and<br>Chulmun culture sites101 | |
-| Figure 5.3<br>Figure 5.4 | Jomon storage pits105<br>Woodworking tools and techniques 106 | |
-| Figure 5.5 | e Holocene Transgression,<br>shellmounds and plains108 | |
+| Figure 5.1 | Sites mentioned in Chapter 5 and
+the main Early Holocene cultures100 | |
+| Figure 5.2 | Settlements at Xinglongwa and
+Chulmun culture sites101 | |
+| Figure 5.3
+Figure 5.4 | Jomon storage pits105
+Woodworking tools and techniques 106 | |
+| Figure 5.5 | e Holocene Transgression,
+shellmounds and plains108 | |
 | Figure 5.6 | Shellmound village of Takane-kido 109 | |
 | Figure 5.7 | Isarago shellmound analyses110 | |
 | Figure 5.8 | Jomon weaving and basketry114 | |
@@ -374,46 +402,74 @@ Yangzi River valley .........................220 Zhou defensive walls ..........
 
 Figure 8.5 Shang vessel shapes ........................196 Sichuan Basin ................................202 Shang ...........................................212 at Xibeigang ...................................218
 
-| Figure 10.7 | A bronze seal bearing the character<br>for 'storehouse'240 | Figure 12.9 | New elements of tomb<br>construction297 |
+| Figure 10.7 | A bronze seal bearing the character
+for 'storehouse'240 | Figure 12.9 | New elements of tomb
+construction297 |
 |----------------------------|--------------------------------------------------------------------------------------|-------------|----------------------------------------------------------------------------------------|
 | Figure 10.8 | Ornate Eastern Zhou bronzes242 | | Figure 12.10 e Wu Liang family shrine297 |
 | Figure 10.9 | Southern Zhou bronze agricultural | | Figure 12.11 Qin roads, and sites mentioned |
 | | implements243 | | in the text299 |
 | | Figure 10.10 Zhou weaponry245 | | Figure 12.12 Han horses in stone and ceramic300 |
-| | Figure 10.11 Iron objects from the mass grave<br>Xiadu #44 of Yan247 | | Figure 12.13 Diagnostic bronzes from the<br>southwestern Dian culture302 |
+| | Figure 10.11 Iron objects from the mass grave
+Xiadu #44 of Yan247 | | Figure 12.13 Diagnostic bronzes from the
+southwestern Dian culture302 |
 | | Figure 10.12 Zhou coins248 | | Figure 12.14 Representative Xiongnu material |
 | | Figure 10.13 Belts and nomads252 | | culture304 |
-| | Figure 10.14 Gold ornaments from steppe and<br>Siberian traditions with full display | Figure 13.1 | Han commanderies and Eastern Yi |
-| | of animal art253 | Figure 13.2 | (Dongyi) peoples310<br>e Dongtuanshan capital of Puyo, |
+| | Figure 10.14 Gold ornaments from steppe and
+Siberian traditions with full display | Figure 13.1 | Han commanderies and Eastern Yi |
+| | of animal art253 | Figure 13.2 | (Dongyi) peoples310
+e Dongtuanshan capital of Puyo, |
 | Figure 11.1 | Sites mentioned in Chapter 11255 | | Jilin City312 |
-| Figure 11.2 | Bronzes from the lower Manchurian | Figure 13.3 | Wood-chamber tombs and the tomb<br>of Pujo Yegun314 |
+| Figure 11.2 | Bronzes from the lower Manchurian | Figure 13.3 | Wood-chamber tombs and the tomb
+of Pujo Yegun314 |
 | | Basin257 | Figure 13.4 | Han grave goods for a spousal |
 | Figure 11.3 | Bronze Age burials257 | | burial316 |
 | Figure 11.4 | Dolmens of the southern Korean | Figure 13.5 | Wajil pottery318 |
 | | Peninsula261 | Figure 13.6 | Samhan regional divisions and sites 319 |
-| Figure 11.5 | Mumun non-bronze prestige<br>goods262 | Figure 13.7 | Iron tools from Yoshinogari324 |
+| Figure 11.5 | Mumun non-bronze prestige
+goods262 | Figure 13.7 | Iron tools from Yoshinogari324 |
 | Figure 11.6 | Middle Mumun settlement at | Figure 13.8 | Spheres of Yayoi bronze use325 |
 | | Taepyong-ri264 | Figure 13.9 | Burial jars of North Kyushu325 |
-| Figure 11.7 | Hilltop settlement of Komdan-ri<br>in early Middle Mumun265 | | Figure 13.10 Imagined Eastern Seto bronze bell<br>ritual326 |
-| Figure 11.8 | Artifacts of the Slender Bronze | | Figure 13.11 Middle Yayoi sites and polities (guo)<br>in North Kyushu327 |
+| Figure 11.7 | Hilltop settlement of Komdan-ri
+in early Middle Mumun265 | | Figure 13.10 Imagined Eastern Seto bronze bell
+ritual326 |
+| Figure 11.8 | Artifacts of the Slender Bronze | | Figure 13.11 Middle Yayoi sites and polities (guo)
+in North Kyushu327 |
 | | Dagger Culture267 | | Figure 13.12 Samhan and Middle to Late Yayoi |
-| Figure 11.9 | Ornamented bronzes268<br>Figure 11.10 Artifacts common to the southern | | grave goods328 |
+| Figure 11.9 | Ornamented bronzes268
+Figure 11.10 Artifacts common to the southern | | grave goods328 |
 | | Korean Peninsula and northern | Figure 14.1 | Early walled fortresses of Paekche |
 | | Kyushu in Early Yayoi272 | | and Koguryo333 |
-| | Figure 11.11 e marriage of Pen/Insular<br>potteries273 | Figure 14.2 | Koguryo interactions with<br>surrounding peoples in the 3–4c334 |
+| | Figure 11.11 e marriage of Pen/Insular
+potteries273 | Figure 14.2 | Koguryo interactions with
+surrounding peoples in the 3–4c334 |
 | | Figure 11.12 Radiocarbon dating of the spread | Figure 14.3 | Indigenous tomb structures of |
-| | of paddy eld agriculture275<br>Figure 11.13 Yayoi pottery types in western | Figure 14.4 | Koguryo and Paekche335<br>Mature Kaya and Silla tombs337 |
-| | Japan276<br>Figure 11.14 Paddy eld technology277 | Figure 14.5 | Non-iron prestige goods exchanged<br>among late 4c–early 5c elite341 |
+| | of paddy eld agriculture275
+Figure 11.13 Yayoi pottery types in western | Figure 14.4 | Koguryo and Paekche335
+Mature Kaya and Silla tombs337 |
+| | Japan276
+Figure 11.14 Paddy eld technology277 | Figure 14.5 | Non-iron prestige goods exchanged
+among late 4c–early 5c elite341 |
 | | Figure 11.15 Late Jomon creations282 | Figure 14.6 | Late Yayoi mound-burials and |
-| | Figure 11.16 Middle and Late Yayoi pottery of<br>Tohoku283 | Figure 14.7 | Kofun-period tombs343<br>Keyhole tomb shape and size |
-| Figure 12.1 | Dynastic capitals of Qin, Han and | Figure 14.8 | classes347<br>Haniwa cylinders and sculptures348 |
-| Figure 12.2 | Tang286<br>Qin Shihuangdi's tomb and | Figure 14.9 | Early Kofun grave goods349<br>Figure 14.10 Kofun-period housesteads and |
+| | Figure 11.16 Middle and Late Yayoi pottery of
+Tohoku283 | Figure 14.7 | Kofun-period tombs343
+Keyhole tomb shape and size |
+| Figure 12.1 | Dynastic capitals of Qin, Han and | Figure 14.8 | classes347
+Haniwa cylinders and sculptures348 |
+| Figure 12.2 | Tang286
+Qin Shihuangdi's tomb and | Figure 14.9 | Early Kofun grave goods349
+Figure 14.10 Kofun-period housesteads and |
 | | associated pits287 | | palaces350 |
-| Figure 12.3<br>Figure 12.4 | Qin Shihuangdi's terracotta army288<br>e Luoyang capital of Late Han291 | | Figure 14.11 Armor and unique blades352<br>Figure 14.12 Evidence of Koguryo warfare353 |
+| Figure 12.3
+Figure 12.4 | Qin Shihuangdi's terracotta army288
+e Luoyang capital of Late Han291 | | Figure 14.11 Armor and unique blades352
+Figure 14.12 Evidence of Koguryo warfare353 |
 | Figure 12.5 | e Han period salt industry292 | | Figure 14.13 Corridor-chamber tombs in East |
 | Figure 12.6 | Models for the afterlife294 | | Asia356 |
 | Figure 12.7 | Han mirror designs295 | | Figure 14.14 Koguryo tomb murals357 |
-| Figure 12.8 | e Mawangdui Tomb of Lady<br>Dai296 | | Figure 14.15 A regional variant of the MTC in<br>Kyushu359 |
+| Figure 12.8 | e Mawangdui Tomb of Lady
+Dai296 | | Figure 14.15 A regional variant of the MTC in
+Kyushu359 |
 
 architecture ....................................366 Figure 15.4 Sokkuram Buddhist grotto of United Silla ....................................368 basin ..............................................369 Asuka .............................................369 Figure 15.7 Kumsong capital of Silla ................372 zeniths ............................................376 Heijo ..............................................378 Asia ................................................381 at Heijo ..........................................382
 
@@ -538,27 +594,108 @@ analyze these two classes of material separately and then compare million years 
 
 (Chapter 8), leading into the Bronze Age of four-tiered territorial vii is is the *quxi* (regional divisions) *leixing* (local phases) model developed by
 
-| Mode 1.1 fe<br>CLEVITES of<br>Abbresiation | Make 1.1 from the health-list of he Benear Age<br>CLEUES and select controls in regions<br>Volces as occurs to a burst of gathering feeling | e Bonatrige<br>Insir spors of the<br>ening finite (finite | abe 11 for te health in the Boowing.<br>XXXIII successive controvers support the Destablished and Interchebouri approximate about support and earth high-bailding<br>support successive participation for a recognitive for successive and amount participation of the support bailding. | approximate dates.<br>N, utt. = uttlers ers, pol. | - polished, shelf = studi | orion, bidgs. = buildings | |
+| Mode 1.1 fe
+CLEVITES of
+Abbresiation | Make 1.1 from the health-list of he Benear Age
+CLEUES and select controls in regions
+Volces as occurs to a burst of gathering feeling | e Bonatrige
+Insir spors of the
+ening finite (finite | abe 11 for te health in the Boowing.
+XXXIII successive controvers support the Destablished and Interchebouri approximate about support and earth high-bailding
+support successive participation for a recognitive for successive and amount participation of the support bailding. | approximate dates.
+N, utt. = uttlers ers, pol. | - polished, shelf = studi | orion, bidgs. = buildings | |
 |--------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|--|
 | 110 | Mod fre mil. | South Gritter | Shareha Hilanghos Corbin | Model Central | Sharkovec committee | March Grant Bank | |
-| 8 | (i) switches | (B Medic 1 mgs | (Blown hargo | (a) Containing | man a reposit | (S) Nethodolicos<br>(Net Cost) | |
-| 9079 | | WHE/20/2/6W | Shar git an<br>plot falls to de my | THE THE THE | Bar harding seed | Phase rear (500). Asset<br>ped buy, the or som, gire door or<br>they good (1000). Nill for take | |
-| MOUTH<br>MOUTHC | | will for being | porter con mountainment men constitution of constitution and an artist mountainment management and mountainment men process, proc. collecter in flater men. | Formy, great per s<br>fog lide tools,<br>n pleaf be or | yout to a comp. | noord hy, genderen burst | |
-| N OF BA | to the subspace of a farty rand<br>to eccee to the branching | olls pr Clab<br>to the reg | | FAMO III S IIII<br>FIII S HIS<br>FII S HIS COMP | BIS-BOLLOOK | | |
-| MARY<br>MOUTHC | Lat LADILANDA<br>JOHN STIE<br>palmad pot esp.<br>sequinary desp.<br>true from locality | Cown 2 ADD 4<br>25 III-48 III nob<br>60 pr and buff ab,<br>out fo, point de<br>short buffs do | RA-LIJAO JHII E-JIII II volet voo, 1460,<br>de gazely, wiel bediele gedabel ii er e<br>bedabe gegen camen, padde s<br>bedabe te<br>bedabe te | S WILLIAMCAN<br>pointed preten,<br>collections po.<br>commodific | Hat, I'll Frink, doing pill,<br>house, burk, bill,<br>pottery, skiller, grinding<br>sterm, tot | feet Joan,<br>Chapter | |
-| | On special control | ole repenser.<br>paintel pote y | Math sang th an | Julys 100 | Perilin Solid via 3 list,<br>Perilin Solid via 3 list,<br>plessing scholar carlle, | 27 glong end | |
-| 8 16 | WAZDAD<br>Follo-1388<br>Follo-1388<br>Follo-1388<br>(Nicket J<br>Follo-288 | MANIFAGANI<br>Jel III-42 III<br>IOC polithed Core<br>Ecolory, printed<br>Ecolory, printed<br>Se Ma | WARRANG TRINCO [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SI | T-MCZO-MO D IIII-<br>TIIII ( MAY D pl are<br>floring, virt stad, berg<br>suplean, sakkey pil-<br>bolite ps, si fect<br>colored ps, si fect<br>colored ps | politie ed store took | 214/20/20/20 pmm-<br>of III days and,<br>rough days and<br>polary figures<br>(official PM 17<br>(CDE 1991 V | |
+| 8 | (i) switches | (B Medic 1 mgs | (Blown hargo | (a) Containing | man a reposit | (S) Nethodolicos
+(Net Cost) | |
+| 9079 | | WHE/20/2/6W | Shar git an
+plot falls to de my | THE THE THE | Bar harding seed | Phase rear (500). Asset
+ped buy, the or som, gire door or
+they good (1000). Nill for take | |
+| MOUTH
+MOUTHC | | will for being | porter con mountainment men constitution of constitution and an artist mountainment management and mountainment men process, proc. collecter in flater men. | Formy, great per s
+fog lide tools,
+n pleaf be or | yout to a comp. | noord hy, genderen burst | |
+| N OF BA | to the subspace of a farty rand
+to eccee to the branching | olls pr Clab
+to the reg | | FAMO III S IIII
+FIII S HIS
+FII S HIS COMP | BIS-BOLLOOK | | |
+| MARY
+MOUTHC | Lat LADILANDA
+JOHN STIE
+palmad pot esp.
+sequinary desp.
+true from locality | Cown 2 ADD 4
+25 III-48 III nob
+60 pr and buff ab,
+out fo, point de
+short buffs do | RA-LIJAO JHII E-JIII II volet voo, 1460,
+de gazely, wiel bediele gedabel ii er e
+bedabe gegen camen, padde s
+bedabe te
+bedabe te | S WILLIAMCAN
+pointed preten,
+collections po.
+commodific | Hat, I'll Frink, doing pill,
+house, burk, bill,
+pottery, skiller, grinding
+sterm, tot | feet Joan,
+Chapter | |
+| | On special control | ole repenser.
+paintel pote y | Math sang th an | Julys 100 | Perilin Solid via 3 list,
+Perilin Solid via 3 list,
+plessing scholar carlle, | 27 glong end | |
+| 8 16 | WAZDAD
+Follo-1388
+Follo-1388
+Follo-1388
+(Nicket J
+Follo-288 | MANIFAGANI
+Jel III-42 III
+IOC polithed Core
+Ecolory, printed
+Ecolory, printed
+Se Ma | WARRANG TRINCO [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SILE SHILL] [SI | T-MCZO-MO D IIIITIIII ( MAY D pl are
+floring, virt stad, berg
+suplean, sakkey pilbolite ps, si fect
+colored ps, si fect
+colored ps | politie ed store took | 214/20/20/20 pmmof III days and,
+rough days and
+polary figures
+(official PM 17
+(CDE 1991 V | |
 
 ## ![](_page_39_Figure_0.jpeg)
 
 | 1.1c | Northwest | Southwest | Yangzi drainage | North Central* | Shandong peninsula | Manchurian Basin | |
 |------------|------------------------------------------------|-------------------------------|------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-----------------------------------------------------------|--|
-| BC | Gansu/Ordos | Sichuan<br>Basin | | Central Plain><br><shang core=""><br/><wei river="" th="" valley<=""><th>Haidai (Eastern Seaboard)</th><th>Northeast (Dongbei)</th><th></th></wei></shang> | Haidai (Eastern Seaboard) | Northeast (Dongbei) | |
-| 2200 | QIJIA 2200–1800/1600<br>ZHUKAIGOU<br>2000–1400 | BAODUN 2700–<br>1750 | DOUJITAI, MAQIAO, Lower<br>DIANJIANGTAI | WANGWAN III<br>2600–1900 | YUESHI | Lower XIAJIADIAN<br>MIAOHOUSHAN<br>GAOTAISHAN<br>DATUOTOU | |
+| BC | Gansu/Ordos | Sichuan
+Basin | | Central Plain>
+
+Haidai (Eastern Seaboard)Northeast (Dongbei) | Haidai (Eastern Seaboard) | Northeast (Dongbei) | |
+| 2200 | QIJIA 2200–1800/1600
+ZHUKAIGOU
+2000–1400 | BAODUN 2700–
+1750 | DOUJITAI, MAQIAO, Lower
+DIANJIANGTAI | WANGWAN III
+2600–1900 | YUESHI | Lower XIAJIADIAN
+MIAOHOUSHAN
+GAOTAISHAN
+DATUOTOU | |
 | BRONZE AGE | | | | | | | |
-| 1900 | 1900–1500<br>SIBA | Early SANXINGDUI<br>1750–1400 | | ERLITOU 1850–1550 | | | |
-| | 1500–1000<br>XINDIAN | Late SAXINGDUI<br>1400–1200 | | Early SHANG<br>Erligang 1600–1300 | | | |
-| 1200 | | Early SHI'ERQIAO<br>1200–1000 | | Middle/Late SHANG<br>Anyang 1250–1046<br>Pre-dynastic ZHOU<br>~1046 | SHANG | | |
+| 1900 | 1900–1500
+SIBA | Early SANXINGDUI
+1750–1400 | | ERLITOU 1850–1550 | | | |
+| | 1500–1000
+XINDIAN | Late SAXINGDUI
+1400–1200 | | Early SHANG
+Erligang 1600–1300 | | | |
+| 1200 | | Early SHI'ERQIAO
+1200–1000 | | Middle/Late SHANG
+Anyang 1250–1046
+Pre-dynastic ZHOU
+~1046 | SHANG | | |
 | | | | * Names in cells below are justified left, center and right to correspond with the positions of their geographical locations here. | | | | |
 
 phase of bronzes known from Huanbei, Erligang.11 For simplicity's sake, I Yinxu capital (Anyang) as Late Shang.
@@ -587,28 +724,67 @@ I will retain the name 'Chulmun' for the period *ca*. 6000–1300 BC. Table 1.3 
 
 the eastern seaboard, possibly dispersed from the Amur region of maritime Russia,15 then spread to the southern coast. In the
 
-| BC | Choe & Bale 2002<br>& this volume | Norton 2007 | Lee, G-A 2011 | Choy, An &<br>Richards 2012 | Shin, Rhee &<br>Aikens 2013 |
+| BC | Choe & Bale 2002
+& this volume | Norton 2007 | Lee, G-A 2011 | Choy, An &
+Richards 2012 | Shin, Rhee &
+Aikens 2013 |
 |------------------|-----------------------------------|-------------|---------------|-----------------------------|------------------------------|
-| period/<br>phase | Chulmun | Chulmun | Chulmun | Chulmun | Neolithic<br>(pottery types) |
-| Incipient | 8000–6000 | 8000–6000 | | 6000–5000 | >6000<br>Gosan-ri |
-| Early | 6000–3500 | 6000–3500 | 5500–3500 | 5000–3500 | 6000–4000<br>yunggimun |
-| Middle | 3500–2000 | 3500–2200 | 3500–2000 | 3500–2500 | 4000–2500<br>chulmun |
+| period/
+phase | Chulmun | Chulmun | Chulmun | Chulmun | Neolithic
+(pottery types) |
+| Incipient | 8000–6000 | 8000–6000 | | 6000–5000 | >6000
+Gosan-ri |
+| Early | 6000–3500 | 6000–3500 | 5500–3500 | 5000–3500 | 6000–4000
+yunggimun |
+| Middle | 3500–2000 | 3500–2200 | 3500–2000 | 3500–2500 | 4000–2500
+chulmun |
 | Late | 2000–1500/1000 | 2200–1500 | 2000–1400 | 2500–1500 | 2500–1300 |
 
 | AMS 14C | 1450–700 BC | 700–500 BC | 500–340 BC | 340 BC– | |
 |---------------|----------------------------------|--------------------------------------|------------------------------------------------------|---------------------------------------------|--------------------------------|
-| CKJ | Mumun/<br>Plain Pottery | 700–400<br>Early Bronze Age (BA) | 400 BC –<br>Late BA/<br>Early Iron Age (IA) | 400 BC – 0 AD<br>Late BA/<br>Early Iron Age | 0–300 AD<br>Late IA=<br>Samhan |
-| Bale 2014 | Early Mumun<br>1450–850 | Middle Mumun<br>~850–550 | Late Mumun<br>550–300 | Early Iron Age<br>300 BC– | |
-| Onuki<br>2014 | Early Mumun=<br>Early Bronze Age | Middle Mumun<br>= Late Bronze<br>Age | from 5c: 1st ½ of<br>Late Mumun<br>= Early IA to 200 | 200 BC: 2nd ½ of<br>Late Mumun =<br>Late IA | |
-| This volume | 1450–850<br>Early Mumun | 850–500<br>Middle Mumun | 500–200 Late<br>Mumun/Early IA | 200 BC –<br>Samhan/<br>Early IA | Late IA<br>= Samhan |
+| CKJ | Mumun/
+Plain Pottery | 700–400
+Early Bronze Age (BA) | 400 BC –
+Late BA/
+Early Iron Age (IA) | 400 BC – 0 AD
+Late BA/
+Early Iron Age | 0–300 AD
+Late IA=
+Samhan |
+| Bale 2014 | Early Mumun
+1450–850 | Middle Mumun
+~850–550 | Late Mumun
+550–300 | Early Iron Age
+300 BC– | |
+| Onuki
+2014 | Early Mumun=
+Early Bronze Age | Middle Mumun
+= Late Bronze
+Age | from 5c: 1st ½ of
+Late Mumun
+= Early IA to 200 | 200 BC: 2nd ½ of
+Late Mumun =
+Late IA | |
+| This volume | 1450–850
+Early Mumun | 850–500
+Middle Mumun | 500–200 Late
+Mumun/Early IA | 200 BC –
+Samhan/
+Early IA | Late IA
+= Samhan |
 
-| | Samhan<br>origins | Samguk Sagi<br>dates | state<br>formation |
+| | Samhan
+origins | Samguk Sagi
+dates | state
+formation |
 |-------------------------------|-------------------|----------------------|--------------------|
 | Koguryo | | 37 BC – 668 AD | 3c AD |
 | Paekche | Boji | 18 BC – 660 AD | 3c AD |
 | Silla | Saro | 57 BC – 668 AD | 4c AD |
 | United Silla | | 668–935 | |
-| Kaya<br>Pon-Kaya<br>(Kumgwan) | Kuya | 3c–532 | |
+| Kaya
+Pon-Kaya
+(Kumgwan) | Kuya | 3c–532 | |
 
 Tae-Kaya 5c–562 5c AD?
 
@@ -631,179 +807,7 @@ rst Korean states (Table 1.4). By 668, Silla had conquered its rivals and united
 
 Chapter 6, and the adoption (or not) of agriculture in Chapter 11. Soon after 1000 BC, wet rice technology was adopted from the Ironically, the word Yayoi derives from a place-name in Tokyo identied in the late 1800s, but this ceramic formally dates to ca. 300 BC. Bronze was added to the Yayoi repertoire about this time, mounded burial types of dierent shapes between regions (Chapter
 
-The advent of monumental tomb construction marks the from <100m to as much as 280m in length. e Kofun period (250–710 AD) witnessed the formation of the rst Japanese state, court histories, they make these periods protohistoric in nature.
-
-| | Yayoi | Kofun | | |
-|--------------------|--------------|-----------------------|---------------------------|--|
-| Initial (Earliest) | 1000–800 BC | Early | 250–400 AD | |
-| Early | 800–450 BC | Middle | 400–500 AD | |
-| Middle | 450 BC–50 AD | Late | 500–710 AD | |
-| Late | 50–250 AD | (Asuka)<br>(Ritsuryo) | 552–710 AD<br>645–mid-10c | |
-
-## 1. Orientation 25
-
-**Further reading: overviews of national archaeologies**
-
-# Archaeological Organization
-
-Most of the interpretations formulated in this book derive from
-
-## **Archaeology as a government endeavor**
-
-through excavation are subject to the time, budget, and space restrictions of rescue archaeology. is means that locations of digs
-
-Separate from the state hierarchy of cultural properties oces are for excavated materials. Furthermore, beginning in the 1990s, private archaeological companies began to appear, specializing in politics and the practice of archaeology",2
-
-interpretational framework – that of Marxist evolutionary theory around the world move through specic developmental stages:
-
-and indeed have now been largely discarded. In Japan, other cultural activities) are managed.7 from other 'tangible cultural properties'. As of 2012, over 465,021 locations throughout the country had yielded archaeological
-
-From the 1970s, rescue archaeology increased to the extent that have diminished somewhat: between 2008 and 2013, public (i.e., government) archaeologists decreased from 6,255 to 5,961. the opportunity to be trained in new technologies at the Center
-
-## ![](_page_52_Figure_0.jpeg)
-
-and many have felt that they were mere 'diggers' in the heyday of call them "specialists in charge of buried cultural properties" rather involved. Almost everything is reported only in the Japanese language, which makes those eorts doubly inward-looking. One public a "frog in a well" – unable to see or interact outward.12
-
-One reason for the very active archaeological scene in Japan is the found in the ground be returned to its original owners. A good both public and private land means that every act of digging in the arguably always been about 'the public',14 who ostensibly own the
-
-## ![](_page_54_Figure_0.jpeg)
-
-Archaeology in the Koreas is split between universities and of rescue excavations rose from 28% to 88% of all excavations are miniscule;iii for example, in 2006, just over 1300 excavations iii ese, however, do not take into consideration dierent areal coverage such and grounds in southern Seoul. It is an aliate of MCST and tops a hierarchy of 12 other national museums in provincial cities –
-
-KLC was formed in 1975 within the South Korean government for digging without a permit, the developer barged ahead for three decades from the 1960s on, destroying a considerable number establishment of better communications and higher standards in canceled – including the Seoul-Pusan high-speed railway section due to pass through Kyongju – after reviews indicating the need for
-
-Involvement of the populace began in 1980 with the rst private do physical labor in Henan",33 while another states that archaeology as
-
-## ![](_page_58_Picture_1.jpeg)
-
-e incorporation of lay workers in the guise of the 'class struggle' discipline has been professionalized. e State Council (highest Cultural Relics, promulgated in 1982.38 at law also asserts state ownership of cultural properties as set out in Articles 4 and 5.39
-
-and has traditionally been more open to international exchange. Anyang due to the density of ancient capital remains in those areas. archaeology of China's border regions.
-
-fairly autonomous in their decisions, though they are still coordinated gure dicult to compare to the comprehensive totals for Japan; 80% of which are rescue archaeology.43 Universities and the national
-
-Several regions have dedicated resources to deal with special in the 1980s. From 1989, the Guangdong Provincial Institute of Archaeology surveyed the Nanhai #1 wreck, and in 2002 it of nationwide institute archaeologists to work there.46 e dam, in English in 2008,47 and already we have new views on the Ba and under the direction of the State Committee on Science and Technology, included as the rst of the Sandai (ree Periods), has been thought tasks and 44 major topics of investigation. A preliminary report scholars' original work, failure of archaeological data to prove the
-
-## **East Asian archaeology since 1990**
-
-## 2. Archaeological Organization 39
-
-traditional reconstructions of artifact manufacturing technologies. comparison, analyses in the biological sciences have lagged behind, considered less important than artifacts. Within the last two decades, new ideas and interpretations, it might happen that East Asian archaeology eventually reaches a stage where indigenous models can
-
-Several new elds have developed within East Asian archaeology, some in concert with worldwide trends, such as Music Archaeology– Archaeology began with the Ningbo and Quanzhou shipwrecks in Archaeology, in contrast to Archaeoseismology)57 and Kazanbai
-
-Many large collaborative surveys and excavations have taken Sichuan University in 1981, was thwarted by senior archaeologist promulgation of the 1991 Administrative Measures of the PRC allow excavation by foreigners.60 e numerous cooperative projects
-
-- - Yangtze River Civilization Project64
- - International Dunhuang Project (IDP)65
- - e Yiluo Project investigating settlement patterns, craft production
- - Projects of the German Archaeological Institute (DAI), now with a eld oce in Beijing since 200970
-- Joint program with Japan and UNESCO to protect and conserve
-- (S. Korea) and KOSUWA / ARIUA (Japan)
-
-Joint excavation projects in Japan are rare. e 1989 Miwa to popular thought, it is not impossible to obtain a permit, but NRICH in South Korea has signed MOUs (Memoranda of
-
-Understanding) for exchanges in cultural heritage research with China, Japan, Russia, Vietnam and Mongolia.72 Under these webpage – albeit still containing few if any excavations. On the the Baoji City Municipal People's Government (Shanxi) – two universities and a city, without central state involvement. ere is an element of competition inherent in such an oering, perhaps a
-
-A signicant development in 1996 was the formation of the Society to publish in English ongoing developments in national archaeologies. *of Korean Archaeology* beginning in 2006. In China, a translated has been published annually since 2001 as *Chinese Archaeology* by
-
-(2,000,000–40,000 years ago)
-
-eastward across Eurasia around 2mya (2 million years ago).
-
-Two decades ago,2 to assert, rather than evolving in Africa. is argument has virtually HE might have developed in situ from an earlier form of *Homo* in that colonized eastern Asia in the Early Pleistocene was most likely
-
-## ![](_page_68_Picture_4.jpeg)
-
-## ![](_page_69_Picture_2.jpeg)
-
-(over 40), and these are considered a 'population' (BOX 3.1). Other Zhoukoudian, because the calcium carbonate (CaCO3
-
-Arguments over the Second Peopling of East Asia previously
-
-*sapiens sapiens* (HSS), was at odds with the morphological data of even more. It is now thought that the western species, *Homo heidelbergensis*, might account for some of the intermediate forms in and regional evolution of HE to HSS, some rejecting even the of indigenous populations, including Neanderthals, by AMH. Finally,
-
-## **Te first peopling, or Out of Africa 1**
-
-One of the more important changes is the redating of the
-
-| | Pleistocene | Palaeolithic | Homo | tools |
-|---------------|-------------|---------------------------|----------------------------------------------------|--------------------------------------------------|
-| 2.6mya–780kya | Early | Early | Homo erectus | core-and-flake |
-| 780–120kya | Middle | Early | Homo erectus, transitionals | core-and-flake |
-| 120kya– | Late | Early to 50kya | transitionals, Homo sapiens in<br>Asia after 67kya | core-and-flake |
-| | Late | from 50kya Late/<br>Upper | Homo sapiens sapiens | core-and-flake,<br>prepared-core<br>technologies |
-| | Late | Late/Upper | Homo sapiens sapiens | blades, microblades |
-| –11.6kya | Terminal | Late/Upper | Homo sapiens sapiens | bifacial points |
-## | | | | | |
-
-human colonization of East Asia.11 Of course, these dates will change
-
-Humans evolved in Africa beginning with the australopithecines ii Zhu, R. *et al*. (2003) report there is still some doubt about the human
-
-## ![](_page_72_Figure_3.jpeg)
-
-Asia exclusively through a southern route. From 3mya, a northern
-
-Palaeomagnetic dates from several sites in the north and south table 2.1). Archaeological writings earlier than the mid-noughties (*ca*. 2005) use
-
-(Figure 3.1).17 us, it is still too early to provide a denitive
-
-– a weather pattern that began 22 million years ago.19 e annual
-
-Early Pleistocene *Homo erectus* populations are considered to have
-
-## BOX 3.3 Loess stratigraphy and an MIS curve at Baoji severe. It is not surprising that evidence for the use of re appears, for example at Zhoukoudian Locality 1 (see BOX 3.1) – though possibly not to the extent previously thought. e thick layers of 'ash' wood, seeds and a carbonized leaf – suggest that HE used re in the the cave.27e use of re might Yangzi River drainage,29 may structures (Figure 3.2).30 e concept of 'home range' exploitation of the landscape. The range, in this case, is With the wider use of radiometric and palaeomagnetic dating, in the southern sites of Renzi Cave and Longgupo during the bifacially aked handaxes as dened in 1948;36 currently its extent
-
-Earlier researchers divided Early Palaeolithic assemblages on the toss the core? Flakes were produced by direct percussion on a cobble viii 'Modes' were devised by Grahame Clark in 1969 to describe lithic succession in world prehistory, with Mode 1 = Oldowan, Mode 2 = Acheulean, and Mode
-
-## ![](_page_79_Picture_0.jpeg)
-
-some dissension as to whether these t into the Acheulean category;
-
-## Archaeology of East Asia
-
-## ![](_page_80_Picture_3.jpeg)
-
-## ![](_page_80_Picture_4.jpeg)
-
-## ![](_page_80_Picture_6.jpeg)
-
-## ![](_page_80_Picture_7.jpeg)
-
-## ![](_page_80_Picture_8.jpeg)
-
-## ![](_page_80_Picture_9.jpeg)
-
-## ![](_page_80_Picture_10.jpeg)
-
-## ![](_page_80_Picture_11.jpeg)
-
-## ![](_page_80_Picture_12.jpeg)
-
-## ![](_page_80_Picture_13.jpeg)
-
-Another western technique known as Levallois has also been
-
-What these various tools were used for can best be assessed kinds of damage or give a certain kind of polish to the edge. us used on plant material.46 Most of used as scrapers. Despite our image of Ice Age
-
-## ![](_page_81_Picture_8.jpeg)
-
-ix A dierent type of prepared platform was recovered from Panxian Dadong about 600,000 to 400,000 years ago"51 (but some would argue not). their considerable dierences (Figure 3.6).53 ese transitionals are took place in Africa from *ca*. 200kya. ere appear to have been (and perhaps Arabia)55 about 120kya which survived until 70kya
-
-## ![](_page_83_Picture_0.jpeg)
-
-## ![](_page_83_Picture_1.jpeg)
-
-## ![](_page_83_Picture_2.jpeg)
-
-## ![](_page_83_Picture_3.jpeg)
-
-When the 'Eve' hypothesis was proposed in the late 1980s, the from HE to HSS due to archaic feature retention in skeletal
-
-## ![](_page_84_Figure_5.jpeg)
-
-New nds from the southern China Mainland challenge the 'single dated to >100kya, show modern features that *could* derive from "dispersal with assimilation or populational continuity with gene
+The advent of monumental tomb construction marks the from 100kya, show modern features that *could* derive from "dispersal with assimilation or populational continuity with gene
 
 Another possible example of interbreeding is suggested by the Upper Cave at Zhoukoudian, possibly dating between 29 and morphological resemblance to Upper Palaeolithic Europeans", they
 
@@ -849,25 +853,103 @@ Beyond the artifactual evidence of modernity, certain behavioral patterns are th
 
 | (double-boxed according to di | | fferent interpretations) | Table 4.1 Climatic phases and major material cultures of East Asia in the Late Pleistocene, from oldest (top) to youngest (bottom) | | | First appearance of ceramics are emboldened; cal.kya = thousand years ago, calibrated. EUP = Early Upper Palaeolithic, LUP = Late Upper Palaeolithic, LGM = Late Glacial Maximum |
 |------------------------------------------|------------------|--------------------------|------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|---------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Stage/<br>event | cal.kya<br>Dates | mate<br>Cli | Northern Mainland | Southern Mainland | Korean Peninsula<br>(south) | EUP/LUP = Early, Late<br>Upper Palaeolithic<br>Japanese Islands |
-| MIS 3 | 60–40 | temperate<br>warm | Early Palaeolithic<br>flake<br>core-and | Early Palaeolithic<br>flake<br>core-and | Middle Palaeolithic<br>flake<br>core-and | mashita-cho Cave 1<br>>35kya Ya<br>?Kanedori |
+| Stage/
+event | cal.kya
+Dates | mate
+Cli | Northern Mainland | Southern Mainland | Korean Peninsula
+(south) | EUP/LUP = Early, Late
+Upper Palaeolithic
+Japanese Islands |
+| MIS 3 | 60–40 | temperate
+warm | Early Palaeolithic
+flake
+core-and | Early Palaeolithic
+flake
+core-and | Middle Palaeolithic
+flake
+core-and | mashita-cho Cave 1
+>35kya Ya
+?Kanedori |
 | | 55–46 | cool phase | 42–39kya Tianyuan | | | ?Tategahana |
-| | | cooling from<br>33kya | ments<br>flake, bone/<br>29kya Upper Cave<br>35–23/22kya EUP<br>antler tools, orna<br>core-and | large cobble tools,<br>flake,<br>bone tools<br>core-and | Upper Palaeolithic<br>40–24kya blades,<br>tanged points | EUP 38–29kya trapezoids, edge<br>ground stone tools |
-| | | | 29–25kya blades and<br>microblades | flake<br>core-and | 30kya microblades | blade tools, backed blades |
+| | | cooling from
+33kya | ments
+flake, bone/
+29kya Upper Cave
+35–23/22kya EUP
+antler tools, orna
+core-and | large cobble tools,
+flake,
+bone tools
+core-and | Upper Palaeolithic
+40–24kya blades,
+tanged points | EUP 38–29kya trapezoids, edge
+ground stone tools |
+| | | | 29–25kya blades and
+microblades | flake
+core-and | 30kya microblades | blade tools, backed blades |
 | AT-tephra | 30–29 | | | | | |
 | MIS 2 | 29–14 | cold | | | | LUP 29–11.6 |
-| | 29–27<br>29–19 | | flake,<br>microblades<br>core-and | flake<br>core-and | | 29–20kya backed-blade<br>industries |
-| LGM (Late<br>m)<br>mu<br>Glacial<br>Maxi | 23–19 | COLDEST | microblades<br>23–22kya | 21.7–19.3 cal.kya<br>ceramics in south<br>at Xianrendong | | 23kya microblades enter<br>Hokkaido |
-| | | | 21/20–10kya LUP | 20kya shell tools,<br>flake<br>core-and | | 22–19kya bifacial point-tool<br>industries |
+| | 29–27
+29–19 | | flake,
+microblades
+core-and | flake
+core-and | | 29–20kya backed-blade
+industries |
+| LGM (Late
+m)
+mu
+Glacial
+Maxi | 23–19 | COLDEST | microblades
+23–22kya | 21.7–19.3 cal.kya
+ceramics in south
+at Xianrendong | | 23kya microblades enter
+Hokkaido |
+| | | | 21/20–10kya LUP | 20kya shell tools,
+flake
+core-and | | 22–19kya bifacial point-tool
+industries |
 ## | Sea-level low | 19 | cold | | | | |
 
-| microblade industries | moto I site (ca. 16.9–15.0<br>appearance of ceramics Odai<br>cal.kya) I<br>ma<br>Ya | NCIPIENT JOMON | linear-relief pottery | | | fference for the Late Pleistocene now that dates are being<br>growth reached its maximum at 26.5cal.kya, and still others propose an 'extended' LGM from 30 to 19kya based on the period of low sea level, and some use LGM to refer only to the<br>fferent calibration programs,<br>climate during MIS 3 (57–29 cal.kya) saw rapid shifts from warmer to colder on decadal, centennial, and millennial scales, with temperatures intermediate between interglacial and<br>finally reached its nadir of -120m or so and stayed there between 23 and 19kya; when ice caps<br>glacial maxima. According to work done on six global locations, at 50kya, the sea level was already about 70m lower than today; the northern ice caps began growing from 33 cal.<br>** The Upper Palaeolithic entailed part of the last temperate stage (MIS 3), the Last Glacial Maximum (LGM within MIS 2) and the post-LGM terminal Pleistocene (also MIS 2). The<br>fied as the Last Glacial Maximum, though others date the LGM from when ice cap |
+| microblade industries | moto I site (ca. 16.9–15.0
+appearance of ceramics Odai
+cal.kya) I
+ma
+Ya | NCIPIENT JOMON | linear-relief pottery | | | fference for the Late Pleistocene now that dates are being
+growth reached its maximum at 26.5cal.kya, and still others propose an 'extended' LGM from 30 to 19kya based on the period of low sea level, and some use LGM to refer only to the
+fferent calibration programs,
+climate during MIS 3 (57–29 cal.kya) saw rapid shifts from warmer to colder on decadal, centennial, and millennial scales, with temperatures intermediate between interglacial and
+finally reached its nadir of -120m or so and stayed there between 23 and 19kya; when ice caps
+glacial maxima. According to work done on six global locations, at 50kya, the sea level was already about 70m lower than today; the northern ice caps began growing from 33 cal.
+** The Upper Palaeolithic entailed part of the last temperate stage (MIS 3), the Last Glacial Maximum (LGM within MIS 2) and the post-LGM terminal Pleistocene (also MIS 2). The
+fied as the Last Glacial Maximum, though others date the LGM from when ice cap |
 |----------------------------|-------------------------------------------------------------------------------------|----------------|--------------------------------------------------|--------------------------------------------------------------------|----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| flake tools<br>20–19 small | hoe-shaped tools | | cobble tools | | Epi-palaeolithic (some<br>sites with rice) | recalibrated with Int Cal09 (for example, AT-tephra is commonly attributed to 24kya, but calibrated it now stands at 29kya). Moreover, with the use of di<br>* It must be noted that these dates might not match those in the previous archaeological literature, with a 3000/4000-year di |
-| | ceramics in north at<br>16.3–14.7 cal.kya<br>Hutouliang | | | fied hunting,<br>e<br>seasonal plant us<br>microblades,<br>intensi | Epi-palaeolithic (some<br>sites with millet) | millennium of lowest temperature at 21kya. Here we will follow the scheme dating the LGM from 23 to 19kya.<br>began to melt at 19kya, the sea level rose again rapidly. The interval 23–19kya is usually speci<br>kya, initiating general climate cooling. Sea level dropped another 50m at 31kya and |
-| | cold | | warmer with<br>a cold phase<br>in Older<br>Dryas | colder | | |
-| 20–16 | 17–15 | 14–11.6 | 16–15.4<br>/13.6 | 13.6–11.6 | 11.6~ | |
-| | Oldest Dryas | MIS 1 | Older Dryas<br>Bøllering/<br>Allerød<br>(GI-1) | Younger Dryas<br>stadial | HOLOCENE<br>Pre-Boreal | ffer.<br>dates may di |
+| flake tools
+20–19 small | hoe-shaped tools | | cobble tools | | Epi-palaeolithic (some
+sites with rice) | recalibrated with Int Cal09 (for example, AT-tephra is commonly attributed to 24kya, but calibrated it now stands at 29kya). Moreover, with the use of di
+* It must be noted that these dates might not match those in the previous archaeological literature, with a 3000/4000-year di |
+| | ceramics in north at
+16.3–14.7 cal.kya
+Hutouliang | | | fied hunting,
+e
+seasonal plant us
+microblades,
+intensi | Epi-palaeolithic (some
+sites with millet) | millennium of lowest temperature at 21kya. Here we will follow the scheme dating the LGM from 23 to 19kya.
+began to melt at 19kya, the sea level rose again rapidly. The interval 23–19kya is usually speci
+kya, initiating general climate cooling. Sea level dropped another 50m at 31kya and |
+| | cold | | warmer with
+a cold phase
+in Older
+Dryas | colder | | |
+| 20–16 | 17–15 | 14–11.6 | 16–15.4
+/13.6 | 13.6–11.6 | 11.6~ | |
+| | Oldest Dryas | MIS 1 | Older Dryas
+Bøllering/
+Allerød
+(GI-1) | Younger Dryas
+stadial | HOLOCENE
+Pre-Boreal | ffer.
+dates may di |
 
 ## ![](_page_94_Picture_4.jpeg)
 
@@ -983,7 +1065,10 @@ From the geographical range and close dating of early ceramic areas suggests 'id
 |------------|------------------------------------------------------------|----------------------------------------------------------------------------|--------------------------------------------------------|
 | formation | rigid molds, paddling | no molds, slab and coil | basket molds |
 | temper | rice, quartz | solid, grass after 8350kya | grass, then sandy clay |
-| decoration | early: relief, then fingernail<br>impression, cord-marking | early: plain, then: relief banding,<br>fingernail impression, cord-marking | late, in Holocene: cord-marking,<br>stamping, incising |
+| decoration | early: relief, then fingernail
+impression, cord-marking | early: plain, then: relief banding,
+fingernail impression, cord-marking | late, in Holocene: cord-marking,
+stamping, incising |
 
 ## ![](_page_116_Picture_0.jpeg)
 
@@ -1063,14 +1148,105 @@ Nuts were not just harvested wild: stands of sweet chestnut, of nut trees are th
 
 | 8000–5000 BC | | 5000–3400 BC | 3400–2300 BC |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Initial Jomon sites:<br>Natsushima, Awazu,<br>Nakano B | | Early Jomon sites: Torihama, Matsugasaki, Yagi,<br>Awazu, Sannai Maruyama, Junichogata, Oosawa | Middle Jomon sites: Sannai<br>Maruyama, Usujiri B, Sakanobaba,<br>Shimo­yakebe, Oosawa, Tominosawa |
-| acorn<br>barnyard grass<br>beans Vigna sp.<br>beefsteak herb<br>Perilla<br>bottle gourd<br>burdock<br>sweet chestnut<br>goosefoot<br>Chenopodium<br>hemp<br>water chestnut | azuki Vigna<br>beans Fabaceae<br>bottle gourd<br>Brassicaceae<br>buckwheat<br>burdock<br>sweet chestnut<br>crabgrass<br>(Digitaria)<br>ax<br>foxnut<br>goosefoot<br>hemp<br>hemsley<br>Hordeae<br>horse chestnut | millet Setaria<br>mountain yam<br>Dioscorea<br>nutmeg<br>paper mulberry<br>Perilla<br>Polygonum<br>prickly ash<br>prickly water<br>lily<br>rape<br>walnut | acorn<br>azuki bean<br>bottle gourd<br>buckwheat<br>sweet chestnut<br>elderberry<br>horse chestnut<br>Japanese (barnyard)<br>millet<br>leek/onion<br>millet S. italica<br>mulberry<br>Perilla<br>Rumex<br>soybean<br>walnut |
+| Initial Jomon sites:
+Natsushima, Awazu,
+Nakano B | | Early Jomon sites: Torihama, Matsugasaki, Yagi,
+Awazu, Sannai Maruyama, Junichogata, Oosawa | Middle Jomon sites: Sannai
+Maruyama, Usujiri B, Sakanobaba,
+Shimo­yakebe, Oosawa, Tominosawa |
+| acorn
+barnyard grass
+beans Vigna sp.
+beefsteak herb
+Perilla
+bottle gourd
+burdock
+sweet chestnut
+goosefoot
+Chenopodium
+hemp
+water chestnut | azuki Vigna
+beans Fabaceae
+bottle gourd
+Brassicaceae
+buckwheat
+burdock
+sweet chestnut
+crabgrass
+(Digitaria)
+ax
+foxnut
+goosefoot
+hemp
+hemsley
+Hordeae
+horse chestnut | millet Setaria
+mountain yam
+Dioscorea
+nutmeg
+paper mulberry
+Perilla
+Polygonum
+prickly ash
+prickly water
+lily
+rape
+walnut | acorn
+azuki bean
+bottle gourd
+buckwheat
+sweet chestnut
+elderberry
+horse chestnut
+Japanese (barnyard)
+millet
+leek/onion
+millet S. italica
+mulberry
+Perilla
+Rumex
+soybean
+walnut |
 
 | | lacquer tree | job's tears |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
 | | 5500–3500 BC | 3500 BC ~ |
-| Early Chulmun sites:<br>Pibong­ri, Sejuk­ri | | Middle–Late Chulmun sites:<br>Tongsamdong, Nambukdong, Sammokdo, Nunggok,<br>Anganggol, Oun 1, Sangchon B, Pyonggodong |
-| acorn<br>arrowwood<br>bedstraw<br>bramble<br>bulrush<br>Chenopodium<br>album<br>Chinese jujube<br>dandelion<br>dock<br>dogwood<br>green foxtail<br>ground cherry | hop<br>Hordeae<br>Japanese snowbell<br>knotweed<br>panic grass<br>panicoid grass<br>pine nuts<br>plum<br>spicebush<br>wheatgrass<br>wild grape<br>wild kiwi<br>wild onion | most of plants listed on the left plus:<br>azuki bean<br>beefsteak herb<br>broomcorn millet<br>foxtail millet<br>soybean<br>barley<br>Manchurian walnut |
+| Early Chulmun sites:
+Pibong­ri, Sejuk­ri | | Middle–Late Chulmun sites:
+Tongsamdong, Nambukdong, Sammokdo, Nunggok,
+Anganggol, Oun 1, Sangchon B, Pyonggodong |
+| acorn
+arrowwood
+bedstraw
+bramble
+bulrush
+Chenopodium
+album
+Chinese jujube
+dandelion
+dock
+dogwood
+green foxtail
+ground cherry | hop
+Hordeae
+Japanese snowbell
+knotweed
+panic grass
+panicoid grass
+pine nuts
+plum
+spicebush
+wheatgrass
+wild grape
+wild kiwi
+wild onion | most of plants listed on the left plus:
+azuki bean
+beefsteak herb
+broomcorn millet
+foxtail millet
+soybean
+barley
+Manchurian walnut |
 
 Other plant species such as the native beefsteak herb, burdock,
 
@@ -1136,7 +1312,7 @@ at Tianluoshan was accompanied by a diverse range of mammals broad-range subsist
 
 ## lotope analyses
 
-Ioospic work (BOX 5.3) is illuminating both the use of miller, and dog and pig domestication in northern Mainland sizes.<sup>56</sup> Ar Dadiwan,<sup>56</sup> an early phase occupation contained bones of twodows and few Yor who for round on wild foods but there dows were
+Ioospic work (BOX 5.3) is illuminating both the use of miller, and dog and pig domestication in northern Mainland sizes.56 Ar Dadiwan,56 an early phase occupation contained bones of twodows and few Yor who for round on wild foods but there dows were
 
 ## BOX 5.3 Dietary isotope studies and plant food classification
 
@@ -1146,13 +1322,14 @@ Ratios of stable ritinogen (PMP-N) and carbon (PCP'C) incorpe in bone and teeth 
 
 | C, plants (95% of all flora) | trees (nuts), wheat, rice, soybean, barley |
 |-------------------------------------------------------------------------------------------------------------|--------------------------------------------|
-| C <sub>s</sub> plants (the majority of grasses) adapted to<br>intense light, high temperatures, and aridity | millet, sorghum, sugar cane, malze |
+| C s plants (the majority of grasses) adapted to
+intense light, high temperatures, and aridity | millet, sorghum, sugar cane, malze |
 
 C and N ation, can be obtained from bone collaign and bone spatile and reflect the direct averaged serving hims before death. However, bother particles repossibly of strontisms ("Sof" () laken from booth consent reveal death y hibbs of youth. Strontism is highly localised the distribution and in distributed from gifter, a remain and order their both both pain a restain area of the other bother and bother pains do can be correspond with the bone testigist rates a well as the control of the strong bother distribution. The control of the strong bother and for the control of the strong bother distribution of the strong bother distribution they cannot be strong be not been controlled to the strong bother distribution they cannot be strong bother distribution. earing miller - implying they were camp fed. In the second physic accumation only cump fed don and Sucurer in evidence indicating closer relations between humans and their animals and meaner resources to retarision them with At Jishu isotone analysis of the human remains confirmed the majority were enters of C. plants including stor bosoner one nerson had a high reading for both animal protein and C. plants like miller. It was executioned whether "this individual years in invasionary from the Yellow River Valley where C, plants and C, fed pigs were dietary staples": - an extraordinary site has produced the earliest evidence for car domestication by showing, through isotope analysis, that both can and ran were eating miller; since the cars were deemed beneficial to the settlement by eating the rats that are the stored millets, they must have developed commensally with the human community."
 
 Work in Japan takes another direction altogether: isotopic differences were detected between Early Jomon males and females in Hokkaido, attributed to men eating terrestrial game while women are fish and earhered food." A different study in the Inland Sea area concluded that Middle lomon men are marine resources while women are terrestrial sources of protein. \*\* And in eastern Horsbu. males eating different diets of marine or terrostrial resources may be the earliest evidence for occupational differentiation.100 supposedly between hunters and fishers
 
-Stable isotope analyses are particularly useful in determining differential regional and temporal patterns, as illustrated by Peninsular shellmound analyses. Marine resources formed the main source of protein at Incipient (Ando). Early (Taepo) and Middle (Tonesandone) Chulmun shellmounds, but at Late (Taciuk-ri., Konam-ri) Chulmun shellmounds, terrestrial sources of poorein dominated. Two different hypotheses address the difference. dependent on time and place. Whereas the earlier shellmounds are all located on the southern Peninsular coast, the Late Chulmun shellmounds are located off the western Peninsula. Perhaps marine resources at the western location could not support people yearround, or perhaps the incorporation of miller into Late Chulmun dies reformed attention on aemorpial resources <sup>302</sup> The results for Konsmiri, one of the watern shellmounds are norticularly interesting because an earlier found analysis of bones from the size determined that the major distant resource you fish 107 The isosome ratios seem to overrors this finding
+Stable isotope analyses are particularly useful in determining differential regional and temporal patterns, as illustrated by Peninsular shellmound analyses. Marine resources formed the main source of protein at Incipient (Ando). Early (Taepo) and Middle (Tonesandone) Chulmun shellmounds, but at Late (Taciuk-ri., Konam-ri) Chulmun shellmounds, terrestrial sources of poorein dominated. Two different hypotheses address the difference. dependent on time and place. Whereas the earlier shellmounds are all located on the southern Peninsular coast, the Late Chulmun shellmounds are located off the western Peninsula. Perhaps marine resources at the western location could not support people yearround, or perhaps the incorporation of miller into Late Chulmun dies reformed attention on aemorpial resources 302 The results for Konsmiri, one of the watern shellmounds are norticularly interesting because an earlier found analysis of bones from the size determined that the major distant resource you fish 107 The isosome ratios seem to overrors this finding
 
 Refinements in analytical techniques such as those are constantly revising our understanding of prehistoric substitution. They also
 
@@ -1200,7 +1377,8 @@ from Sannai Maruyama (see Figure 6.2). e site consists of two separate circles p
 
 ## ![](_page_157_Figure_2.jpeg)
 
-| <br> | | |
+| 
+ | | |
 ## |------|--|--|
 
 ## 4 Cishan 9 Banpo 14 Jiahu terraces, positioned close enough to rivers to obtain water but far substantial investment of labor in the landscape and argue against
@@ -1487,22 +1665,40 @@ indicators, with dogs and pigs the main species interred. Pigs human interments,
 
 and an outer wall encloses up to 300ha, possibly built by successive a red character resembling that of 'king' (C. *wang* 王) and the site name itself 'hill of the kingly enclosure' create optimism that the occurring in all categories: large sites 40–100ha, medium 15–40ha, concludes that "it appears that people from these seven cities that, given the new status of Wangchenggang as by far the largest
 
-| site name | date BC | site wall<br>length (m) | shape | site area<br>(ha) | building<br>platforms | | walls (m) | |
+| site name | date BC | site wall
+length (m) | shape | site area
+(ha) | building
+platforms | | walls (m) | |
 |--------------------------------|-----------|-------------------------|-------------------|-------------------|----------------------------|--------|------------------|-----------------|
-| | | | | | | height | width<br>at base | width<br>at top |
-| Xishan | 3300–2800 | 300m<br>circum. | round<br>w/ ditch | 25 | | 3+ | 11 | 5–6 |
+| | | | | | | height | width
+at base | width
+at top |
+| Xishan | 3300–2800 | 300m
+circum. | round
+w/ ditch | 25 | | 3+ | 11 | 5–6 |
 | Taosi | 2600–2000 | | irreg | | in elite areas | | | |
 | early | | | | 56 | | | 4.5 | |
 | middle | | | | 280 | | | 8–9 | |
-| Pingliangtai | 2550 | 185x185 | square | 3.4 | within<br>enclosure | 13 | 8–10 | |
-| Guchengzhai | 2300 | ca.350x420 | rectang | 15 | for building<br>& corridor | 15 | 40 | |
-| Wangchenggang<br>west compound | 2455–2280 | 82.4x92 | almost<br>square | 0.75 | within<br>compounds | 4.7 | | |
+| Pingliangtai | 2550 | 185x185 | square | 3.4 | within
+enclosure | 13 | 8–10 | |
+| Guchengzhai | 2300 | ca.350x420 | rectang | 15 | for building
+& corridor | 15 | 40 | |
+| Wangchenggang
+west compound | 2455–2280 | 82.4x92 | almost
+square | 0.75 | within
+compounds | 4.7 | | |
 | site wall | 2100–2050 | + | | 30 | | | | |
 | Liangchengzhen | | none? | | 246 | in center | | | |
-| Liangzhu | | 1.5x1.6km | square | 290 | terraced<br>areas | | | |
+| Liangzhu | | 1.5x1.6km | square | 290 | terraced
+areas | | | |
 | long wall | | 5km | | | | | 20–50 | |
 | Erlitou | | none | | 300 | | | | |
-| palace 'a'<br>palace 'b' | | 100x108m<br>58x73m | square<br>rectang | 1<br>0.4 | within<br>compounds | | | |
+| palace 'a'
+palace 'b' | | 100x108m
+58x73m | square
+rectang | 1
+0.4 | within
+compounds | | | |
 
 7.5; Table 7.2). As with so much other Late Neolithic orescence, of human sacrices into elite structures. It appears that secular and south Mainland were highly variable even while representing
 
@@ -1522,13 +1718,20 @@ Despite the aversion of archaeologists to postulating long-range of the western 
 
 ## ![](_page_200_Picture_1.jpeg)
 
-| Figure 7.8 Across the<br>Eurasian steppes | |
+| Figure 7.8 Across the
+Eurasian steppes | |
 |----------------------------------------------------------------------|--|
-| The route east from<br>Sintashta (schematized | |
-| curvy line) and the<br>route west from the<br>Gansu Corridor (dashed | |
-| line) meet with the<br>Inner Asian Mountain | |
-| Corridor running north<br>and south (double line). | |
-| The area west of the<br>Dzungarian Basin (DB) | |
+| The route east from
+Sintashta (schematized | |
+| curvy line) and the
+route west from the
+Gansu Corridor (dashed | |
+| line) meet with the
+Inner Asian Mountain | |
+| Corridor running north
+and south (double line). | |
+| The area west of the
+Dzungarian Basin (DB) | |
 
 DNA studies on the people of southern Siberia in the Bronze Andronovo (1800–1500 BC), Karasuk (1400–800 BC) and Tagar Europeans and the Bronze Age inhabitants of the Tarim Basin.71 ey
 
@@ -1719,11 +1922,20 @@ dating other archaeological nds, especially in the Wei River valley
 
 Unlike Erlitou, which was unwalled, the rst Shang site of Yanshi
 
-| | dynasty | bronze<br>phase | city area (bold<br>= walled) | palaces/<br>temples | tombs | population<br>maxima |
+| | dynasty | bronze
+phase | city area (bold
+= walled) | palaces/
+temples | tombs | population
+maxima |
 |-----------|-----------|-----------------|------------------------------|---------------------|---------------------|----------------------|
-| Erlitou | Xia? | Erlitou | 300ha | 11 in 7.5ha | 1 in palace<br>area | 18,000–<br>30,000 |
+| Erlitou | Xia? | Erlitou | 300ha | 11 in 7.5ha | 1 in palace
+area | 18,000–
+30,000 |
 | Yanshi | E Shang | Erligang | 80ha, 200ha | 8 in 4ha | burials in city | ? |
-| Zhengzhou | E Shang | Erligang | 300ha,<br>1800ha, | 20 in 300ha | small<br>cemeteries | 78,000–<br>130,000 |
+| Zhengzhou | E Shang | Erligang | 300ha,
+1800ha, | 20 in 300ha | small
+cemeteries | 78,000–
+130,000 |
 | | (M Shang) | | 2500ha | | | |
 | Huanbei | M Shang | transitional | 470ha | 174x90m | | 10,000 |
 | Yin | L Shang | Anyang | 3000ha | 1 in 3000ha | royal & lineage | no plausible |
@@ -1862,8 +2074,17 @@ Minute analyses of archaeological remains track Qin's gradual
 
 | burial sites | lg= | non-Qin |
 |--------------------------------------------|-------------------------------------------------|--------------------------------------------------------------------------------------------|
-| Manjaging<br>Iane Middle into Late<br>Zhou | ventral pits<br>infants in vessels in pits | adults buried separate from children?<br>Infants covered with sherds and<br>imounded earth |
-| Denglaya<br>Isse Middle into Late<br>Zhou | [Justilly flewed in Qin but not specified here] | supine<br>2 w/ coans brance vessels,<br>5 w/ ceamic copies of brances |
+| Manjaging
+Iane Middle into Late
+Zhou | ventral pits
+infants in vessels in pits | adults buried separate from children?
+Infants covered with sherds and
+imounded earth |
+| Denglaya
+Isse Middle into Late
+Zhou | [Justilly flewed in Qin but not specified here] | supine
+2 w/ coans brance vessels,
+5 w/ ceamic copies of brances |
 ## | | | |
 
 pit or catacomb tombs.16 Both Zhou and western tribal elements were incorporated at this time, and the capital was established within the basin. From the latter Middle through Late Zhou, two cultural assemblages are apparent in the basin's remains: a Qin and a non-Qin group. They co-existed in the same settlements, the latter adopting at Denetiava (Table 10.1). By the end of Late Zhou, the cometeries are mixed with a variety of burial styles (as at Ta'erpo), suggesting peridential-based identity rather than kinship." Oin was the first to actualize the Late Zhou tendency to focus the state on a single monarch and his court at the capital, while defining
@@ -1928,13 +2149,39 @@ Archaeological remains along the northwestern borders of the Qin, the early 1m B
 
 | Rong, Di | Di Zhongshan | Di | Di? |
 |----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|----------------------------------------------------------|
-| Guanzhong > N. Shaanxi > Hutuo<br>& Sanggan Rivers | (SW of Beijing) Mid-Hutuo R. | Upper Hutuo R. | N. Hebei, NW of Beijing |
-| stone burial furniture; royal tombs<br>w/3-D animal bronzes, NZone<br>objects, animal deposits (including<br>horses) | stone burial furniture;<br>royal tombs w/3-D animal<br>bronzes, N. Zone objects | stone burial<br>furniture; horse<br>deposits | stone cons, more<br>animal deposits |
-| tiger belt plaques,<br>gold wire earrings | gold wire earrings,<br>bronze tiger plaques | gold wire | disc-shaped gold wire<br>earrings, tiger belt<br>plaques |
-| bronze swords with animal-mask<br>guards, knives | swords with animal-mask<br>guards, knives | | swords with animal<br>mask guards |
+| Guanzhong > N. Shaanxi > Hutuo
+& Sanggan Rivers | (SW of Beijing) Mid-Hutuo R. | Upper Hutuo R. | N. Hebei, NW of Beijing |
+| stone burial furniture; royal tombs
+w/3-D animal bronzes, NZone
+objects, animal deposits (including
+horses) | stone burial furniture;
+royal tombs w/3-D animal
+bronzes, N. Zone objects | stone burial
+furniture; horse
+deposits | stone cons, more
+animal deposits |
+| tiger belt plaques,
+gold wire earrings | gold wire earrings,
+bronze tiger plaques | gold wire | disc-shaped gold wire
+earrings, tiger belt
+plaques |
+| bronze swords with animal-mask
+guards, knives | swords with animal-mask
+guards, knives | | swords with animal
+mask guards |
 | scissors, cutters | | scissors | cutters |
-| bronze fu cauldrons; double<br>handled guan jars; tripods, hu w/<br>cording, chains | hu pots (corded, chains); at<br>Lijiaya: li and fu cauldrons,<br>double-handled; tripods | square-mouth<br>fu cauldrons; hu<br>(corded, with<br>chains); Central<br>bronze tripods | cauldrons; no Central<br>bronzes; ceramic tripods |
-| bone horse bits, snae bits | | bone horse bits,<br>snae bits | double-ring snae bits |
+| bronze fu cauldrons; double
+handled guan jars; tripods, hu w/
+cording, chains | hu pots (corded, chains); at
+Lijiaya: li and fu cauldrons,
+double-handled; tripods | square-mouth
+fu cauldrons; hu
+(corded, with
+chains); Central
+bronze tripods | cauldrons; no Central
+bronzes; ceramic tripods |
+| bone horse bits, snae bits | | bone horse bits,
+snae bits | double-ring snae bits |
 
 Type I site burials often contain dog and cattle bones, with horses Figure 10.3) have been recovered from graves prior to the 6c BC, Jin state of Zhao, in 307 BC".70 Bronze decorations used on horse
 
@@ -1944,12 +2191,37 @@ Ordos region (daggers, axes, horse bits, and plaques with geometric and animal m
 
 | Type II | Early | Middle | Late |
 |---------------------------|-------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| date | Late Shang–Early Zhou | mid-Spring & Autumn in<br>Middle Zhou | Warring States = Late Zhou |
-| accessories and<br>others | ring-buckle with hook,<br>bronze 'buttons', long<br>ladle | S-plaques, ring buckles<br>with hook, animal plaques,<br>S-plaques, cervid-mounted<br>mirror | animal plaques (similar to<br>Xiongnu), tablular plaques,<br>ring buckles with hook,<br>gold/turquoise raptor cap<br>ornament |
-| weapons | antennae dagger, ringed<br>hilt sword, tubular-hilt<br>axe, ring-pommel knife | antennae daggers, ge halberds,<br>tanged single-edge knife/<br>sword | double-edge short sword<br>(iron?), ring-pommel<br>dagger, halberd |
+| date | Late Shang–Early Zhou | mid-Spring & Autumn in
+Middle Zhou | Warring States = Late Zhou |
+| accessories and
+others | ring-buckle with hook,
+bronze 'buttons', long
+ladle | S-plaques, ring buckles
+with hook, animal plaques,
+S-plaques, cervid-mounted
+mirror | animal plaques (similar to
+Xiongnu), tablular plaques,
+ring buckles with hook,
+gold/turquoise raptor cap
+ornament |
+| weapons | antennae dagger, ringed
+hilt sword, tubular-hilt
+axe, ring-pommel knife | antennae daggers, ge halberds,
+tanged single-edge knife/
+sword | double-edge short sword
+(iron?), ring-pommel
+dagger, halberd |
 | tools | socketed axe | pickax | pickax (iron?) |
-| vessels | deep ceramic bowl w/<br>ring handle, pedestaled<br>handled cauldrons | narrow-necked ceramic jars,<br>long-necked jar w/double ring<br>handles, deep ceramic bowl<br>w/ring handle | narrow-necked ceramic<br>jars, some w/two handles |
-| horse/chariot | snae bits, bronze disks/<br>plaques | snae bits, bosses?, ferrules?<br>caps, sheep gurines | bronze caps, animal caps |
+| vessels | deep ceramic bowl w/
+ring handle, pedestaled
+handled cauldrons | narrow-necked ceramic jars,
+long-necked jar w/double ring
+handles, deep ceramic bowl
+w/ring handle | narrow-necked ceramic
+jars, some w/two handles |
+| horse/chariot | snae bits, bronze disks/
+plaques | snae bits, bosses?, ferrules?
+caps, sheep gurines | bronze caps, animal caps |
 
 ## ![](_page_274_Picture_1.jpeg)
 
@@ -2118,7 +2390,11 @@ Final Jomon peoples in Tohoku shared a fairly homogeneous
 | | local Sr | non-local Sr | 4I (4 incisors) | 2C (2 canines) |
 |-----------|----------------------|----------------------|-----------------------------|------------------------|
 | Yoshigo | 64%, 4I + 2C | 36%, 4I + 2C | homogenized diet | |
-| Inariyama | 4I ♀♂(7)<br>2C ♂ (6) | 4I ♀ (2)<br>2C ♂ (2) | locals: more<br>terrestrial | locals: more<br>marine |
+| Inariyama | 4I ♀♂(7)
+2C ♂ (6) | 4I ♀ (2)
+2C ♂ (2) | locals: more
+terrestrial | locals: more
+marine |
 
 New additions to the ritual repertoire in Final Jomon were clay slabs, carved stones, and stone rods.104 e latter may have knife/
 
@@ -2268,7 +2544,7 @@ Although it is dicult to ascribe particular material remains to specic ethnic gr
 
 ## ![](_page_326_Picture_11.jpeg)
 
-archaeological features (pir/disch, hearth) yielding bread wheat, barley and other grains.<sup>60</sup> A previous academic distinction between the steppe (wholly pastoralist) and the sown (just familing) is thoroughly discredisced, via recognition that pastoralists sowed copes when they could and animal husbandry was an important adjunct to settled forming tile.
+archaeological features (pir/disch, hearth) yielding bread wheat, barley and other grains.60 A previous academic distinction between the steppe (wholly pastoralist) and the sown (just familing) is thoroughly discredisced, via recognition that pastoralists sowed copes when they could and animal husbandry was an important adjunct to settled forming tile.
 
 DNA major of human neminis from the fully searced Egyla Gell accepted review done citized the chaps throughout this time period only harder word a European comprome (11% of the haplespeeps), while favor butth induced individuals with Tairkish connections. The former side exceenings a double burnel, Tairkish connections. The former side exceenings and the full tairkish connections. The former side exceenings and the state and the side of the side of the side of the side of the sergoes. The European in Indiance of the vide Systems quiet' of the sergoes. The European in the Khamay Valley of a regional Xeongus integrated particular words and 20 conflict button in our to-be ting range-platform sown and 20 conflict button in the contraction of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of the side of
 
@@ -2276,7 +2552,7 @@ Three levels of serritorial hierarchy and six wolled sizes are known for the Xio
 
 # Northeastern relations As noted in the Hun history the Shill the extension of Hun forces arm who have Manchana Bani man the northern Komethoush bunghed than is contain with the Pape and Segaraposphes in the super blain and mann Bani mand requestion. The super blain and mann Bani man and man and the Co-Control the channess and we write the man near "norming further and punkshy after to the cases into all the Bani Bani Garantees and the super and the super and the Bani Bani Bani Bani Bani Bani Bani Bani the southwest, Weiman in the northeast), it can be seen that large which could turn against the center. How the named individuals did its contemporary the Roman Empire at a slightly later date.
 
-## *Fragmentation of the empire* **<sup>73</sup>**
+## *Fragmentation of the empire* **73**
 
 occupied by non-Han peoples, many of them aggressive. With the yellow turbans and revolted in 16 dierent commanderies in 184, two other warlords, forming the new states of Wei, Wu and Shu. is period is thus referred to as the ree Kingdoms – not to be fragmentation (the Six Dynasties and Sixteen states) (see Table by Northern Zone peoples, the Northern Wei Dynasty (386–532),
 
@@ -2451,7 +2727,7 @@ Researchers for many decades placed Himiko in North Kyushu,
 
 The problem of dealing with Himiko involves differences which has traditionally been assigned to a seeress aunt of the rst historically attested Yamato sovereign, Sujin. It has been proposed mention in the *Weizhi*. Interestingly, a male king was chosen to
 
-<sup>1997 (</sup>see Edwards 1999). v e spelling Yamai has also been proposed, particularly by those favoring a keyhole) was not the only popular mounded tomb shape (Figure
+1997 (see Edwards 1999). v e spelling Yamai has also been proposed, particularly by those favoring a keyhole) was not the only popular mounded tomb shape (Figure
 
 ## ![](_page_369_Picture_5.jpeg)
 
@@ -2759,10 +3035,16 @@ Heritage Sites. Currently 'China' (as listed, meaning the PRC – not the Longme
 
 in nation building. For example, right-wing school textbooks in e growing popularity of on-site museums, it is argued,39 is between media, and how they were dierentially used in spatial as and represent a convergence with archaeology that should bring reasoning, where the highest level is the youngest and the lowest
 
-| Japanese | saka-noboru<br>'to climb a hill' | kudaru<br>'to descend' |
+| Japanese | saka-noboru
+'to climb a hill' | kudaru
+'to descend' |
 |----------|----------------------------------|-----------------------------|
-| Korean | olla kada<br>'to climb up' | nerida<br>'to descend from' |
-| Chinese | guoqu<br>'to "pass" to the past' | xialai<br>'to come down' |
+| Korean | olla kada
+'to climb up' | nerida
+'to descend from' |
+| Chinese | guoqu
+'to "pass" to the past' | xialai
+'to come down' |
 
 ## 394 Archaeology of East Asia rev. ed. Boston: Houghton Miin.
 
@@ -2838,13 +3120,76 @@ The following chart shows most of the are not listed (e.g. Samhan). Under 'full 
 
 | Chitam-ri | Chit'amni | Jitam-ri | Taepo | Taep'o | Daepo |
 |----------------------------------------------------------------|----------------------------------------------------|---------------------------------------------------------------|------------------------------------------------|----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Chongok-ri,<br>Chongok(-)ni | Chŏn'gongni | Jeongok-ri | Taepyong-ri | Daep'yŏngni | Daepyeong-ri |
-| Chongsan-ri<br>Chonjon-ri | Chŏngsanni<br>Ch'onjonni | Jeongsan-ri | Taho-ri<br>Tongsamdong | T'ongsamdong | Daho-ri |
-| Choson<br>Choyang-dong<br>Chulmun<br>Kaesŏng<br>Kaya<br>Kimhae | Chosŏn<br>Chŭlmun<br>Kaesong | Joseon<br>Joyang-dong<br>Jeulmun<br>Gaesong<br>Gaya<br>Gimhae | Tosong-ri<br>Unsong-ri<br>Yongnam<br>Yonjae-ri | Tosŏngni<br>Ŭnsŏngni<br>Yŏngnam<br>Yŏnjae-ri | Doseong-ri<br>Eunseong-ri<br>Yeongnam<br>Yeonjae-ri |
-| Koejong-dong<br>Koguryo<br>kolpum | Koejŏngdong<br>Koguryŏ<br>kolp'um | Goejeong-dong<br>Goguryeo<br>golpum | alternative spellings | C.3 Japanese pronunciation and | |
-| Komdan-ri<br>Konam-ri<br>Kumsong | Kŏmdanni<br>Konamni<br>Kumsŏng | Geomdan-ri<br>Gonam-ri<br>Geumseong | the > sign respectively): | | The pairs below show the main differences<br>between the Revised Hepburn and Japanese<br>government Kunreishiki systems (before and after |
-| Kungnae-song<br>Kuya<br>Kwangju<br>Kyongju | Kungnae-sŏng<br>Kyŏngju | Gungnae-seong<br>Guya<br>Gwangju<br>Gyeongju | | duration) vowels: ō > ô; ū > û | shi > si; chi > ti; tsu > tu; fu > hu; shu > syu;<br>sha > sya; ji > zi/di; jo > zyo; ju > zyu; and<br>when macrons are included to mark long (in |
-| Mongchon<br>Nuk-do<br>Nunggok<br>Okhyon<br>Paekche (a.k.a. | Mongch'on<br>Nŭkto<br>Nŭnggok<br>Okhyŏn<br>Paekche | Neuk-do<br>Neunggok<br>Okhyeon<br>Baekje | | | e Japanese government has long accepted the<br>use of Hepburn for romanizing place names. is<br>means that Western-language publi cations on<br>Japan rarely trigger the confusion encountered<br>with Korean names, so no list of equivalences will |
+| Chongok-ri,
+Chongok(-)ni | Chŏn'gongni | Jeongok-ri | Taepyong-ri | Daep'yŏngni | Daepyeong-ri |
+| Chongsan-ri
+Chonjon-ri | Chŏngsanni
+Ch'onjonni | Jeongsan-ri | Taho-ri
+Tongsamdong | T'ongsamdong | Daho-ri |
+| Choson
+Choyang-dong
+Chulmun
+Kaesŏng
+Kaya
+Kimhae | Chosŏn
+Chŭlmun
+Kaesong | Joseon
+Joyang-dong
+Jeulmun
+Gaesong
+Gaya
+Gimhae | Tosong-ri
+Unsong-ri
+Yongnam
+Yonjae-ri | Tosŏngni
+Ŭnsŏngni
+Yŏngnam
+Yŏnjae-ri | Doseong-ri
+Eunseong-ri
+Yeongnam
+Yeonjae-ri |
+| Koejong-dong
+Koguryo
+kolpum | Koejŏngdong
+Koguryŏ
+kolp'um | Goejeong-dong
+Goguryeo
+golpum | alternative spellings | C.3 Japanese pronunciation and | |
+| Komdan-ri
+Konam-ri
+Kumsong | Kŏmdanni
+Konamni
+Kumsŏng | Geomdan-ri
+Gonam-ri
+Geumseong | the > sign respectively): | | The pairs below show the main differences
+between the Revised Hepburn and Japanese
+government Kunreishiki systems (before and after |
+| Kungnae-song
+Kuya
+Kwangju
+Kyongju | Kungnae-sŏng
+Kyŏngju | Gungnae-seong
+Guya
+Gwangju
+Gyeongju | | duration) vowels: ō > ô; ū > û | shi > si; chi > ti; tsu > tu; fu > hu; shu > syu;
+sha > sya; ji > zi/di; jo > zyo; ju > zyu; and
+when macrons are included to mark long (in |
+| Mongchon
+Nuk-do
+Nunggok
+Okhyon
+Paekche (a.k.a. | Mongch'on
+Nŭkto
+Nŭnggok
+Okhyŏn
+Paekche | Neuk-do
+Neunggok
+Okhyeon
+Baekje | | | e Japanese government has long accepted the
+use of Hepburn for romanizing place names. is
+means that Western-language publi cations on
+Japan rarely trigger the confusion encountered
+with Korean names, so no list of equivalences will |
 
 ## In this text full MR
 
@@ -2962,50 +3307,86 @@ Archaeology of East Asia: Appendix D 407 JAPAN KOREA CHINA • †S. ‡N. \* 20
 
 | | Early Pleistocene 2.6–0.8mya = EARLY PALAEOLITHIC | | | | | |
 |----------------------------|---------------------------------------------------|-------------------------------------------------|----------------------------------------------------------------------|--------------------|--|--|
-| site | date mya | tools & early<br>human fossils | site environment | climate<br>/ stage | | |
-| Yuanmou<br>Niujianbao | 1.7 | scraper, bifacial core, 2<br>flakes, HE*? teeth | alluvial fan near bush &<br>forest; temperate woodland;<br>grassland | | | |
-| Nihewan Basin | | | temperate woodland;<br>grassland | warm, moist | | |
-| Majuangou III<br>(=Goudi) | 1.66 or<br>1.36 | choppers, scrapers,<br>polyhedra | lakeshore/marsh | warm, moist | | |
+| site | date mya | tools & early
+human fossils | site environment | climate
+/ stage | | |
+| Yuanmou
+Niujianbao | 1.7 | scraper, bifacial core, 2
+flakes, HE*? teeth | alluvial fan near bush &
+forest; temperate woodland;
+grassland | | | |
+| Nihewan Basin | | | temperate woodland;
+grassland | warm, moist | | |
+| Majuangou III
+(=Goudi) | 1.66 or
+1.36 | choppers, scrapers,
+polyhedra | lakeshore/marsh | warm, moist | | |
 | Majuangou II | 1.64 | " | lacustrine | | | |
 | Majuangou I | 1.55 | " | lacustrine | | | |
-| Xiaochangliang | 1.78–1.67<br>or<br>1.48–1.36 | unmodified flakes | lakeshore | | | |
-| Xiantai<br>(=Dachangliang) | 1.36 | choppers, flakes, scrapers | steppe, lake margin | mild, humid | | |
-| Majuangou<br>(=Banshan) | 1.32 | choppers, scrapers,<br>polyhedra | lacustrine | | | |
+| Xiaochangliang | 1.78–1.67
+or
+1.48–1.36 | unmodified flakes | lakeshore | | | |
+| Xiantai
+(=Dachangliang) | 1.36 | choppers, flakes, scrapers | steppe, lake margin | mild, humid | | |
+| Majuangou
+(=Banshan) | 1.32 | choppers, scrapers,
+polyhedra | lacustrine | | | |
 | Donggutuo | 1.2–1.1 | bipolar flaking, scrapers | lake margin | | | |
-| Sanmenxia Basin<br>Xihoudu | 1.27 | choppers, scrapers, flakes | lakeshore | | | |
-| Lantian<br>Gongwangling | 1.15 | cores, flakes, scrapers, HE | subtropical humid forest | warm | | |
+| Sanmenxia Basin
+Xihoudu | 1.27 | choppers, scrapers, flakes | lakeshore | | | |
+| Lantian
+Gongwangling | 1.15 | cores, flakes, scrapers, HE | subtropical humid forest | warm | | |
 
 | site (in China unless otherwise stated) | date mya, kya | tools & human fossils |
 |------------------------------------------------|---------------------------------------------------------|------------------------------------------------------|
-| Bose (Baise) Basin<br>114 localities in 800km2 | assoc. w/ 803kya tektites at<br>Fenshudao & Damei sites | artifacts, unifacial & bifacial<br>handaxes |
-| Yunxian<br>Quyuanhekou | >780kya or 600kya (ESR) | HE, artifacts |
+| Bose (Baise) Basin
+114 localities in 800km2 | assoc. w/ 803kya tektites at
+Fenshudao & Damei sites | artifacts, unifacial & bifacial
+handaxes |
+| Yunxian
+Quyuanhekou | >780kya or 600kya (ESR) | HE, artifacts |
 | Maozhushan | 664.9–631.2 (ESR) | artifacts, stone semi-circle |
 | Zhoukoudian Locality 1 | | |
 | Layer 13 | 720kya | artifacts |
-| Layer 10 | 690–660kya<br>713–693kya | artifacts, fossils |
+| Layer 10 | 690–660kya
+713–693kya | artifacts, fossils |
 | Layer 8-9 | 660kya | fossils |
 | Layer 7 | 660–590kya | artifacts, fossils |
-| Layer 6 | 520kya | artifacts, fossils, burned bones,<br>hearth |
-| Layer 4 | 500kya | artifacts, fossils, burned bone &<br>stone, ash lens |
+| Layer 6 | 520kya | artifacts, fossils, burned bones,
+hearth |
+| Layer 4 | 500kya | artifacts, fossils, burned bone &
+stone, ash lens |
 | Layer 3 | 420kya | HE, artifacts, fire |
-| Layer 2<br>Layer 1 | 417–386kya<br>400kya | HE<br>HE |
+| Layer 2
+Layer 1 | 417–386kya
+400kya | HE
+HE |
 | Chenjiawo | 650 or 500kya | HE, artifacts, |
-| Luonan Basin<br>50 localities | ?500–250kya (fauna, loess, TL) | 89 bifaces<br>handaxes, cleavers |
+| Luonan Basin
+50 localities | ?500–250kya (fauna, loess, TL) | 89 bifaces
+handaxes, cleavers |
 | Chongokni, Korea | >350kya | handaxes, core-and-flake tools |
 | Unit 3 | >300kya | |
 | Unit 2b | 294–231±kya (ESR, U/Pb) | |
 | Unit 2a | 208±kya (ESR, U/Pb) | |
-| Hulu Cave<br>(=Tangshan Hill) | wide range from 584–128.5kya<br>(U/Pb) | HE |
-| Longtang Cave | 412±25 (ESR, U/Pb)<br>150–190kya (U/Pb) | fossil |
+| Hulu Cave
+(=Tangshan Hill) | wide range from 584–128.5kya
+(U/Pb) | HE |
+| Longtang Cave | 412±25 (ESR, U/Pb)
+150–190kya (U/Pb) | fossil |
 ## | | | |
 
-| Dali | 350–250kya (U/Pb)<br>209±23kya (U/Pb) | fossil (intermed.) |
+| Dali | 350–250kya (U/Pb)
+209±23kya (U/Pb) | fossil (intermed.) |
 |--------------------|--------------------------------------------|---------------------------------|
 | Jinnuishan | 358–221kya (ESR, UPb) | fossil (intermed.) |
 | Zhoukoudian | | |
-| Locality 4 | 300kya /(U/Pb)<br>248, 269kya (U/Pb) | tooth |
-| New Cave | 260±40kya (TL)<br>175–135kya (U/Pb) | artifacts, fossils, fire, teeth |
-| Locality 15 | 284–155kya (U/Pb)<br>140–110kya (UPb, ESR) | artifacts, fire |
+| Locality 4 | 300kya /(U/Pb)
+248, 269kya (U/Pb) | tooth |
+| New Cave | 260±40kya (TL)
+175–135kya (U/Pb) | artifacts, fossils, fire, teeth |
+| Locality 15 | 284–155kya (U/Pb)
+140–110kya (UPb, ESR) | artifacts, fire |
 | Locality 4 | 171-122kya (U/Pb) | fossil (intermed.) |
 | Changyang | 218–174 (U/Pb) | fossil (intermed.) |
 | Dingcun | 210–160kya (U/Pb) | fossil (intermed.) |
@@ -3017,8 +3398,11 @@ Ganqian Cave >94kya (U/Pb) EMH Shiyu 28,130±1370 (14C) EMH
 | site | date | taxonomy | country |
 |---------------------------------------|----------------------------------|-----------------------------------|---------|
 | | | | |
-| Zhiren Cave | ~100kya (U/Pb) | 'derived modern'/<br>archaic/ EMH | China |
-| Tongtianyan Cave<br>(=Liujiang) three | >153–68kya (U/Pb)<br>>153–111kya | AMH/late HS | China |
+| Zhiren Cave | ~100kya (U/Pb) | 'derived modern'/
+archaic/ EMH | China |
+| Tongtianyan Cave
+(=Liujiang) three | >153–68kya (U/Pb)
+>153–111kya | AMH/late HS | China |
 
 ## Xiujiayao 125–100kya archaic China
 
@@ -3040,27 +3424,115 @@ Minatogawa (MMS) 18,250±650 – 16,600±300 bp "insular" HS Japan, Okinawa Shir
 | Kyushu | Setouchi/Kinki | Kanto | Tohoku/Hokuriku | Hokkaido |
 |-----------------------------------------------------------|------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------------------|
 | Early Upper Palaeolithic | | | | |
-| trapezoids,<br>edge-ground<br>axes, denticulate<br>points | trapezoids, side<br>blow flakes, edge<br>ground axes | Layer X–IX lower:<br>trapezoids, blades<br>(basal retouched<br>points), edge-ground<br>axes | trapezoids, blades<br>(basal retouched<br>points), edge<br>ground axes | 30.6–27.4 cal.kya<br>small irregular<br>ake tools,<br>amorphous cores |
-| trapezoids,<br>blades(backed<br>points) | trapezoids,<br>side-blow akes<br>(basal retouched<br>points), edge<br>ground axes | Layer IX upper–VII:<br>blades (backed<br>points), trapezoids,<br>edge-ground axes | blades (basal<br>retouched points),<br>trapezoids, edge<br>ground axes | |
+| trapezoids,
+edge-ground
+axes, denticulate
+points | trapezoids, side
+blow flakes, edge
+ground axes | Layer X–IX lower:
+trapezoids, blades
+(basal retouched
+points), edge-ground
+axes | trapezoids, blades
+(basal retouched
+points), edge
+ground axes | 30.6–27.4 cal.kya
+small irregular
+ake tools,
+amorphous cores |
+| trapezoids,
+blades(backed
+points) | trapezoids,
+side-blow akes
+(basal retouched
+points), edge
+ground axes | Layer IX upper–VII:
+blades (backed
+points), trapezoids,
+edge-ground axes | blades (basal
+retouched points),
+trapezoids, edge
+ground axes | |
 | | | disappearance of trapezoids and edge-ground axes | | |
 | Late Upper Palaeolithic ca. 28 cal.kya: | | | | |
 
 | | | Southwest Flake industries | | Northeast Blade industries | |
 |----------------------------------|----------------------------------------------------------------------|---------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|--|
-| AT<br>tephra<br>29–27<br>cal.kya | various ake<br>technologies<br>(backed points),<br>various scrapers | side-blow akes<br>(backed points),<br>various scrapers | Layer VI: blade & ake<br>industry (blade &<br>ake backed points),<br>curated blade-cores,<br>blades, end scrapers | blade tool industry<br>(basal retouched<br>points), curated<br>blade-cores, blades,<br>burins, end scrapers | |
+| AT
+tephra
+29–27
+cal.kya | various ake
+technologies
+(backed points),
+various scrapers | side-blow akes
+(backed points),
+various scrapers | Layer VI: blade & ake
+industry (blade &
+ake backed points),
+curated blade-cores,
+blades, end scrapers | blade tool industry
+(basal retouched
+points), curated
+blade-cores, blades,
+burins, end scrapers | |
 | industry | | | LGM start: regionalization of technologies, formation of regionalized traditions & spread of Kou | | |
 
 ## end of Hulliaida
 
-| | faire points,<br>Kou-like points,<br>dentsulate<br>points, various<br>scraperil; pebble<br>clusters | (Kou points),<br>various scopers | points, Kou-like<br>points), various<br>scrapers, pebble<br>clusters | end scapers, side<br>scapers | medge-staped<br>cose |
+| | faire points,
+Kou-like points,
+dentsulate
+points, various
+scraperil; pebble
+clusters | (Kou points),
+various scopers | points, Kou-like
+points), various
+scrapers, pebble
+clusters | end scapers, side
+scapers | medge-staped
+cose |
 |-------|--------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|----------------------|
-| ECYSP | abous Pti tephra<br>ig denticulate<br>points, cannoed<br>faire, sarious<br>scrapers proble<br>clusters | ig side-blow<br>flakes (Kou<br>points), lg<br>denticulate points,<br>various scrapers<br>pebble-clusters | Layer fr'iower:<br>flake industry (backed<br>points), lig denticulate<br>points, varioux<br>scrapers; pebble<br>clutters | regionalized<br>traditions: narrow<br>standardized<br>pointed blades/<br>backed points/<br>wide-flake industry | |
-| | small blade<br>industry (basal<br>resouched<br>points) backed<br>points) pebble<br>clusters | unull side-blow<br>fales (backed<br>points) pebble<br>dusters | Layer fir upper:<br>unal blade industry<br>(backed points), side<br>scrapers; pebble<br>clusters | | blade sools |
+| ECYSP | abous Pti tephra
+ig denticulate
+points, cannoed
+faire, sarious
+scrapers proble
+clusters | ig side-blow
+flakes (Kou
+points), lg
+denticulate points,
+various scrapers
+pebble-clusters | Layer fr'iower:
+flake industry (backed
+points), lig denticulate
+points, varioux
+scrapers; pebble
+clutters | regionalized
+traditions: narrow
+standardized
+pointed blades/
+backed points/
+wide-flake industry | |
+| | small blade
+industry (basal
+resouched
+points) backed
+points) pebble
+clusters | unull side-blow
+fales (backed
+points) pebble
+dusters | Layer fir upper:
+unal blade industry
+(backed points), side
+scrapers; pebble
+clusters | | blade sools |
 | | unal blades, | | | | |
 
 | _ | coules. | pecce cupes | Chapter . | war-take industry | hilada saala |
 |---|-----------------|------------------------------------|-----------------|--------------------------------------|--------------|
-| | scrapers pebble | various scrapers<br>pebble clubers | scrapers pebble | backed points/<br>wide-fake industry | |
+| | scrapers pebble | various scrapers
+pebble clubers | scrapers pebble | backed points/
+wide-fake industry | |
 | | | denticulate points, | | pointed blades/ | |
 
 ## 16-15
@@ -3094,381 +3566,42 @@ of faunal remains and the highest level of
 
 ## Taken together, the Northern and North-
 
-| Early Banpo phase<br>at Jiangzhai | Northern<br>sector | Eastern<br>sector | Southern<br>sector | Western<br>sector | Northwestern<br>sector | totals |
+| Early Banpo phase
+at Jiangzhai | Northern
+sector | Eastern
+sector | Southern
+sector | Western
+sector | Northwestern
+sector | totals |
 |-----------------------------------------------------|---------------------------|---------------------------|------------------------------|---------------------------|---------------------------|-------------------------|
-| area excavated (ha)<br>(projected) | 0.25 (21%)<br>(0.36, 23%) | 0.37 (33%)<br>(0.37, 24%) | 0.19 (16%)<br>(0.26, 16%) | 0.18 (16%)<br>(0.32, 21%) | 0.15 (13%)<br>(0.26, 17%) | 1.14ha |
+| area excavated (ha)
+(projected) | 0.25 (21%)
+(0.36, 23%) | 0.37 (33%)
+(0.37, 24%) | 0.19 (16%)
+(0.26, 16%) | 0.18 (16%)
+(0.32, 21%) | 0.15 (13%)
+(0.26, 17%) | 1.14ha |
 | houses excavated | 11 | 18 | 12 | 11 | 8 | 60 excav. |
 | (projected) | (16) | (18) | (17) | (21) | (15) | houses |
 | house floor area m2 | 175 | 207 | 147 | 167 | 68 | 763m2 |
 | (projected) | (254) | (207) | (208) | (318.6) | (126.9) | |
-| population<br>(projected) | 66 (94) | 84 (84) | 49 (68) | 62 (111) | 35 (61) | 296 (419) |
+| population
+(projected) | 66 (94) | 84 (84) | 49 (68) | 62 (111) | 35 (61) | 296 (419) |
 | large house | 87m2 | 126m2 | 52m2 | 74m2 | 70m2 | 408m2 |
 | storage pits | 27 | 48 | 14 | 12 | 19 | 121 |
 | (projected) | (39) | (48) | (19) | (23) | (33) | (162) |
 | storage capacity m3 | 89 | 90 | 28 | 59 | 81 | 346 |
 | (projected) | (128) | (90) | (37) | (104) | (100) | (459) |
-| households w/<br>agricultural surplus | 4/11=36% | 6/18=33% | 1/12=8% | 4/11=36% | 2/8=25% | 17 houses<br>w/ surplus |
-| households w/<br>agricultural deficit | 7/11=64% | 12/18=67% | 11/12=92% | 7/11=64% | 6/8=75% | 43 houses<br>w/ deficit |
+| households w/
+agricultural surplus | 4/11=36% | 6/18=33% | 1/12=8% | 4/11=36% | 2/8=25% | 17 houses
+w/ surplus |
+| households w/
+agricultural deficit | 7/11=64% | 12/18=67% | 11/12=92% | 7/11=64% | 6/8=75% | 43 houses
+w/ deficit |
 | animal pens | | | most likely | less likely | yes | 2 sectors? |
-| fauna low/med/<br>high m2 | 334/103/0 | 877/148/0 | 866/28/199 | 351/0/6 | 345/0/51 | |
-| #bones: low=<1<br>bone/m2<br>, med=1–2,<br>high=2–4 | 334+(2x103)<br>=540 | 877+(2x148)<br>=1173 | 866+(2x28)+<br>(4x199)= 1720 | 351+(2x6)<br>=367 | 345+(4x51)<br>=549 | ca. 4349<br>bones |
-| nightsoil sheds | 2 | 0 | 0 | 0 | 0 | 2 nightsoil<br>sheds |
-| pottery kilns | 0 | 1 | 0 | 1 | 0 | 7 pottery |
-| kilns beyond ditch | | 1 beyond ditch to the NE | 4 beyond ditch to the SW | | 0 | kilns |
-| ceramic workshop | | | yes? | | | 1? ceramic<br>workshop |
-| stone artifacts | 33 | 43 | 15 | 33 | 24 | 148 stone<br>artifacts |
-| bone/antler artifacts | 42 | 75 | 34 | 28 | 23 | 202bone/<br>antler |
-| clay artifacts | 132 | 142 | 98 | 63 | 96 | 531 clay<br>artifacts |
-| shell artifacts | 2 | 0 | 2 | 1 | 2 | 7 shell<br>artifacts |
-| copper artifacts | 0 | 1 | 0 | 0 | 0 | 1 copper |
-
-| Early Banpo phase<br>at Jiangzhai | Northern<br>sector | Eastern<br>sector | Southern<br>sector | Western<br>sector | Northwestern<br>sector | totals |
-|-----------------------------------------|--------------------|-------------------|--------------------|-------------------|------------------------|--------|
-| field clearance/<br>woodworking | medium | medium | low | HIGH | medium | |
-| digging/hoeing/<br>plowing | medium | low | medium | HIGH | medium | |
-| plant processing | medium | medium | low | HIGH | medium | |
-| harvesting/butchery<br>/leather-working | high | higher | HIGHEST | high | higher | |
-| hunting | medium | medium | low | low | low | |
-| fishing | 0 | low | low | low | 0 | |
-| cooking/storage | | | | | | |
-| food service/<br>presentation | HIGH | medium | medium | medium | HIGH | |
-| tool manufacture/<br>maintenance | low | low | lower | 0 | 0 | |
-| spinning/weaving/<br>sewing | low | low | medium | low | medium | |
-| personal adornment | medium | medium | low | medium | low | |
-| ritual paraphernalia | 0 | low | 0 | 0 | 0 | |
-
-- Agricultural production: high proportions of stone shovels, hoes, plows, axes, adzes,
-
-- Rock and rubble mounds mark corners of
-
-- large elaborate jades usually found in burial
-
-- Large (Z1, Z3, Z4) = 2–3m ht, 10–20m dm,
-
-| decorated (543<br>sherds = 3.4%) | texured pottery | coarse | ne paste | burnished | painted |
-|------------------------------------------------------|-------------------------------------------------------|----------------------------|----------------------------------------------------------|-------------------------|--------------------------|
-| p5 dec pots in<br>ordinary graves | p182, f5 Z-dec | p156 undec<br>sherds at Z6 | p46 as attribute | p46 in/<br>out/both | p10 painted<br>cylinders |
-| p13 dec/finely<br>made = higher<br>status | p188, f9 duiwen<br>(stippling) | | p152, f3 fine paste<br>undec sherds from<br>Z2 altar | p156<br>sherds in<br>Z7 | p156 sherds Z7 |
-| p51 Early = high %<br>of undec! | p42 Early HS, coarse:<br>Z, duiwen, nail<br>impressed | | p158 fine burnished<br>pots, specialist<br>manufacture | | |
-| p54 very high %<br>undec | p46 +parallel lines,<br>braided | | p164 high proportion<br>= wealthy but not<br>high status | | |
-| p55 no diff in dec<br>among households | p49 Z-dec no<br>chronological<br>pattern | | | | |
-| p159 96.6% undec;<br>dec = high status<br>or wealthy | | | | | |
-| p164 dec = high<br>status | | | | | |
-
-# Appendix I
-
-# Liangzhu burial data
-
-## **I.1 Early Liangzhu burials**
-
-| Early Liangzhu | high status | middle status | low status |
-|---------------------|-----------------------------------------|----------------------|-------------------------------------|
-| facilities | on platform | | around each house |
-| northern<br>burials | Luodun, Zhaolingshan | | Pu'anqiao, Longnan,<br>Shaoqingshan |
-| no. burials | 10–30 | | |
-| no. objects | 40, divided equally among: | | 10 |
-| • pottery | ca. 13 | | several |
-| • jades | ca. 13 | | 2 ornaments |
-| • stone axes | ca. 13 | | 1 |
-| southern<br>burials | Yaoshan | Pu'anqiao<br>Wujiabu | Miaoqian |
-| facilities | ?gendered rows of graves on<br>platform | | |
-| ceramic set* | + | | |
-| stone | ax in male burials | | |
-| jades | various | increase over time | |
-| • male (S row) | yue, cong, other jades | | |
-| • female (N row) | huang, plate-like ornament(s) | | |
-
-## **I.2 Middle Liangzhu burials**
-
-| Middle Liangzhu | high status | middle status | low status |
-|-------------------------------------------|-------------------------------------------------------------------------------------------|----------------------------------------------------------------|---------------------------|
-| Liangzhu<br>site complex | Yaoshan, Fanshan,<br>Huiguanshan, several locs.<br>in Liangzhu site complex<br>[burials?] | Boyishan, Xiaozhushan,<br>Huangnikou, Qianshan.<br>Shenjiashan | Shangkoushan,<br>Miaoqian |
-| | platforms or hilltops | ? | ? |
-| no. of burials | 20–30 | 20–30 | 20–30 |
-| no. of objects | | 30–40 | 10–20 |
-| ceramic set | + | + | + |
-| jades | abundant; fork- & cone-shaped<br>objects, comb | several | ornaments |
-| stone axes | abundant | 1 | + (no adzes) |
-| jade set* | cong, yue, bi | occasional bi | none |
-| other regions (site or M<br>= burial no.) | Gaochengdun Cem.,<br>Zhaolingshan M77,<br>Shaoqingshan M1 | Xujiabang, Zhangjiabang | Pingqiudun |
-| facility | platform | no platform but grave clusters | |
-| no. of graves | 20 on one platform | 20 in each cluster | 20 |
-| no. of objects | 40–50 objects | 10–20 | <10 |
-| jade set* | in 50% of burials but no fork<br>or cone-shaped objects; comb | one piece in 1–2 burials | none |
-| pottery | ? no info | set | + |
-| stone | ? no info | stone ax | tools, adzes |
-| jade | ? no info | beads, ornaments | none |
-
-# Appendix J
-
-## Evidence of early metallurgical production
-
-| area/site | culture | period | production evidence |
-|-------------------------|------------------|-------------------------|----------------------------------------------------------|
-| NORTHERN ZONE | | | |
-| Northwest | | | |
-| Majiayao site | | | copper slag |
-| Huangniang<br>Niangtai* | Qijia | 2300–1500 | stone molds, slag |
-| North (Ordos) | | | |
-| | Miaodigou | 2500–2300 | + |
-| | Longshan | 2300–1900 | + |
-| Northeast | | | |
-| Xiquegou | Lower Xiajiadian | 2000–1400 | copper mine |
-| Dongshanzui | Lower XJD | 2000–1400 | ceramic composite mold |
-| Kanjiatun | Lower XJD | 2000–1400 | bivalve stone mold |
-| Sifendi | Lower XJD | 2000–1400 | composite molds |
-| Miaotaizi | Lower XJD? | | crucible fragments, copper slag |
-| Xiaobeishan | Lower XJD? | | crucible fragments, copper slag |
-| FEN RIVER Drainage | | | |
-| Yuncheng Basin | | 1900–1600 | mining pits, wells, mining tools, refined<br>copper ores |
-| Yujialing | Erlitou? | 2300–1800,<br>1900–1600 | copper smelting residue |
-| Shishulin | Erlitou? | 1800–1600 | copper smelting/refining residue |
-| Xiwubi | Erlitou? | 1500–1350 | copper smelting/refining residue |
-| Zhoujiazhuang | Erlitou? | 2300–1900 | copper residue |
-| CENTRAL PLAIN | | | |
-| Meishan | Wangwan III | 2600–1900 | crucibles, copper debris |
-## | | | | |
-
-## Erlitou 1850–1550 stone molds, piece-mold casting
-
-Features of Northern Zone cultures in the Zhou period compiled from Yang, J. 2012; Pak, Y. 1995
-
-| Warring States period; sh- = shaped | |
-|-------------------------------------|--|
-| | |
-| | |
-| | |
-| WS = | |
-| mn period; | |
-| | |
-| | |
-| | |
-| & Autu | |
-| | |
-| &A = Spring | |
-| | |
-| | |
-| | |
-| Western Zhou; S | |
-| | |
-| | |
-| | |
-| | |
-| WZhou = | |
-| | |
-| abbreviations: | |
-
-| Types I and II<br>K.1 | material cultures | | |
-|-----------------------|-------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| | Type I | West)<br>Type II ( | Type II (North) [Ordos] |
-| date | mid-late Early Zhou (WZhou); mid-S&A–<br>WS | mid-Middle Zhou (S&A) into mainly Late<br>Zhou (WS) | mid-Middle Zhou (S&A) into mainly Late Zhou (WS) |
-| subsistence | mixed economy | nomadic pastoralism | nomadic pastoralism |
-| ces<br>animal sacri | dog, cattle; horse = high rank | horse, sheep; mainly in catacomb burials | horse, sheep |
-| relations | close to states | close to steppe | close to states |
-| Zhou artifacts | | ge halberds | Zhao/Qin state manufacture of elite ornaments;<br>bronze mirrors, silk, lacquerware |
-| distribution | from Beijing to Wei R. | Wei R. to western bend of Yellow R. | Inner Mongolia/Ordos |
-| burials | stone burial furniture; royal tombs w/ 3-D<br>animal bronzes, Northern-type bronzes | vertical pit, catacomb burials | vertical pit, some with niches/ledges; head to north in<br>Ordos, head to east farther north |
-| accessories | tiger belt plaques; gold wire earrings | ring-buckle with hook; bronze 'buttons';<br>plaques with S-designs; animal plaques | raptor cap ornament; ring-buckle with hook and tab;<br>long ladle; mirror with deer emblem; gold/turquoise<br>bronze 'buttons'; S-plaques; animal plaques; head<br>ornaments; rings; necklaces; buttons; mirrors |
-| weapons | bronze swords with animal-mask guards;<br>knives | pommel dagger; long shaft-socketed<br>antennae dagger; ringed-hilt sword;<br>halberds; tubular-socketed ax; ring<br>spearheads | ring-pommel knife; tanged single-edged knife/sword;<br>tubular-socketed ax; halberds; arrowheads; socketed<br>iron double-edged short sword; antennae dagger;<br>spearheads; iron swords |
-| tools | scissors; cutters | socketed ax; pickax | pickax (+iron pickax?); awls; drills; socketed axes |
-| vessels | double-handled guan jars; tripods; hu jars<br>bronze fu cauldrons; | | pedestaled handled cauldrons |
-
-## Archaeology of East Asia: Appendix K.1 425
-
-| _ |
-|--------------|
-| B |
-| (Manchania n |
-| Northcast |
-| ÷ |
-| Ĭ |
-| 를 |
-| χiñ |
-| ppor |
-## | 5 |
-
-| Upper<br>K.2 | Manchurian<br>Northeast (<br>Xiajiadian and the | Basin) |
-|----------------------|------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
-| | Upper Xiajiadian | Northeastern Complex |
-| date | m BC<br>1 | m BC<br>1 |
-| subsistence | pastoral/agricultural | mixed economy |
-| ces<br>animal sacri | | pigs, few cattle, no horses until late |
-| relations | interaction with Yan? | far from states |
-| Zhou artifacts | iron | halberd; late iron |
-| distribution | Liaoxi = former Hongshan region | Manchurian Basin |
-| burials | | pits; cists; dolmens |
-| accessories | multi-looped mirrors; plaques; plates; belt hooks | geometric mirrors; rings; gold wire earrings; peapod ornaments; animal plaques &<br>figures |
-| weapons | helmets; armor; halberds; spearheads; pickaxes; arrowheads;<br>double-edged swords with integral hilt; tanged pipa-shaped<br>swords; scabbards | tanged pipa-shaped sword & scabbard; stone pommels; socketed spearheads;<br>arrowheads; antennae daggers |
-| tools | knives; awls; chisels; adzes | fish hooks; iron axes<br>flared blade; awls; knives; chisel;<br>socketed ax with |
-
-vessels bronze tripods; bronze pedestaled bowls; lidded jar horse/ chariot bits; cheek pieces; bells; chanfrons; chariot-wheel hubs horse trappings: buttons, cheek pieces, rein rings; buckles, bells
-
-## 426 Archaeology of East Asia: Appendix K.2
-
-**K.3 Northern Frontier art, divided into Early (9–4c BC) and Late (after 4c BC)**
-
-| K.3 | Northern Frontier art, divided into | B<br>Early (9–4c | Late (after 4c<br>C) and | C)<br>B | |
-|------------------------------------|-------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
-| condensed fro<br><br>• | abbreviations: acces = accessories; dec'n = decoration; reprod. = reproduction<br>& Sun 2002<br>Watt<br>m Bunker, | | | | |
-| | W China<br>N | W China<br>N | W China<br>N | west of Taihang Mts. | Manchurian Basin |
-| EARLY | 9–4c BC | | | 9–3c BC | 9–3c BC |
-| | S Ningxia<br>SE Gansu | Ordos | Inner Mongolia<br>N Shanxi | N Hebei | |
-| artifacts | buckles esp. mirror imaged;<br>tinned plaques w/ animal<br>yoke covers; acces; belt<br>predation; carved bone | animals on funerary<br>yoke covers; 3-D<br>vehicles | short swords; belt<br>plaques; hook<br>buckles | nials<br>ffle bits; acces;<br>knives; shorter swords w/ ridge;<br>gendered pectorals; bronze<br>tools; funeral canopy dec'n;<br>riding bridles; sna | helmets; horse/chariot<br>gear; acces; belt dec'n<br>knives; short swords; |
-| diagnostic object styles | | | | | jingles; blade/cast hilts |
-| diagnostic designs | camels, animal combat; open<br>mouthed animals | recumbent animals | animal predation;<br>eagle heads | stylized zoomorphs | hunting scenes; realistic<br>images; fertility/reprod.;<br>speedy animals |
-| common styles among<br>n. Frontier | coiled animals | finials<br>N Hebei | | local fauna | Scythian reindeer; native<br>animals |
-| derived style | fittings; more<br>coiled animals in Crimea, Altai;<br>Saka animal combat; Zhou<br>Scythian harness<br>raptors | Qin deer hooves | abstract zoomorph<br>(Shangcunling) | openwork hilt w/ animal head<br>Ch. interlaced dragons; Urals | |
-| connections | Crimea, Altai, Minusinsk | | Houma, Jin, Altai, S<br>Siberia | Ulaanbaatar, Lake Baikal, Tuva, Urals | N Mongolia; E Siberia via<br>Amur |
-| subsistence | herder | | | hunting; fur-trapping | hunter |
-| production | pseudo-granulation, striations,<br>superimposed zoomorphs)<br>Qin manuf? (raised curls, | Qin manuf?; plaque<br>local piece-moulds;<br>mass production | | most piece-mould, some lost wax;<br>Ch. manufac? | piece-mould, some lost<br>local foundries; most<br>wax |
-| trade goods | | | Chinese belt hooks | fur & leather | orthodox Chinese |
-
-## Archaeology of East Asia: Appendix K.3 427
-
-status tinning tinned bronze belt ornaments;
-
-form of wealth trade goods
-
-| area | | | Liangchen counties<br>Horinger & | Jindushan Mts, Yinshan Mts | | |
-|-------------------------|------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|----------------------------|---------------------------------------------------|
-| ethnicity | | | | Shanrong | | |
-| burials | | | cemeteries | cemeteries | | [isolated?] |
-| sites | | | Maoqinggou,<br>Guoxianyaozi<br>Fanjiayaozi, | | | Nanshan'gen |
-| illustr'n #s | | | 31, | 23, 25, 26, 27 | | 17, 18, 22, |
-| catalog #s | 62, 63, 92, 94, 95, 173, 175, 176<br>7, 8, 11, 12, 14, 15, 32, 33, 34, | 31, 35, 36, 37-39 | 31, 32, 35, 37, 89, 140,<br>148, 149 | 3, 24, 25, 54, 56, 90, 140,141, 155-<br>157, 139 | | 2, 26, 28, 29, 44, 45, 46, 47,<br>49-50, 155, 158 |
-| LATE | 4c onward | W China 4-3c BC<br>N | early) | Xiongnu 3–1c BC (6–4c BC too | Xianbei 0–3c AD | |
-| metals | | granulation, strip-twisted wire, loop-in<br>gold & silver, inlaid stones; silver<br>replaces tinning from west:<br>loop chains | cloth | precious metals, gilt bronze, colored | mercury or foil gilding | gold, silver, bronze; hammered or cast; |
-| production | | Xinzhuangtou; lost wax, textile lost<br>granulation; Yan manuf at<br>wax | | in China or by Chinese craftspeople;<br>textile lost wax; piece-mould vessels<br>mass prod.; arsenic alloy; lost wax; | | |
-| motifs | earliest raptor head<br>motifs | raptor images; Altai deer; west<br>Omega-shaped buckles | | real animals in landscapes; dragon | | animals real & mythical; winged horses |
-| artifacts | | headdresses; necklaces; ear ornaments<br>no yoke covers; riding gear; | bronze cauldron < west | | belt ornament | |
-| ethnicity | Yuezhi/Rouzhi/<br>Ruzhi | hu (horseback archery); Linhu | | western origin?; conquered Rouzhi | northern origin? | |
-| connections | | flux of mounted warriors thru<br>Gansu Corridor into Ordos<br>NW in | Siberia | at Buryatia & Mongolia; dragon, W<br>fertility tree from Nr East; arsenic | | |
-| illustration<br>numbers | | 36, 38, 39, 40, 41, 42, 43, 44 | 47, 48 | | | |
-| numberss<br>catalog | 67, 68, 72, 99, 103 (after<br>Xiongnu conquest) | 40, 94 | 17, 73, 75, 76, 77,79-81, 101, | 102,105,108, 112, 115, 116, 185 | 22, 85, 117, 152, 153, 154 | |
-
-## 428 Archaeology of East Asia: Appendix K.3
-
-## Appendix L
-
-## Analysis of burial goods in several tomb types during the Lelang period
-
-## burials throughout the Peninsula during the
-
-- Wooden cons are highly like to contain
-
-- Wood-chamber tombs were slightly more
-
-- Brick chamber tombs are more likely to
-
-- Many urn burials (29) were recovered, none
-
-| grave goods \<br>burial facility | Han only | Han+indigenous | Han+indigenous<br>pottery only | no<br>goods | no<br>data |
-|----------------------------------|-------------------------------------|---------------------------------------|--------------------------------|-------------|------------|
-| earthen pit | 3 | 3 | 6 | | |
-| wooden con | 9 | 1 (Fuzu huojun<br>=Pujo Yegun) 13 | 36 | 5 | 3 |
-| wood chamber | 29<br>1 (Wang Guang)<br>1 (Wang Xu) | 1 (Gao Changxian)<br>1 (Zhou Gu)<br>4 | 22 | | 1 |
-| brick chamber | 15 | | 3 | 9 | 1 |
-| brick con | | | | 4 | |
-| stone chamber | 4 | | 3 | 4 | |
-| roof tiled cover | 1 | | | | |
-| unknown<br>structure | 1 | 5 | | | 1 |
-| urn burial | | | | 29 | 1 |
-
- 5 Wu, X. *et al.* 2012. 6 Falkenhausen 1995; see also 11 Okamura, K. 2011: 82. 14 Okamura, K. 2011: 79. 16 Shoda, S. 2008: fig. 1; www.
-
- 9 CKJ ch. 8. 24 Bale 2008: 215. 25 Shoda, S. 2008. 26 Shoda, S. 2008: 209. 28 Jang, H. 2012; Chung, S. S. 2012, 55 CKJ Box 15; Hughes 1988; Falken-59 Tong, E. 1995: 189–190.
-
- 3 Moon, C. R. 2012: 63. 4 Habu & Fawcett 2006; Shelach 6 Sasaki, K. 1999. 31 CHA website at www.chf.or.kr 34 Wang, T. 2011: 47–48. 36 Murphy 1995: 49.
-
-Affairs "埋 蔵 文 化 財 [Buried 37 Wang, T. 2011: 50. 41 Murphy 1995: 87, 93–94, 147– 72 NRICHs website: www.nrich.go.kr/ 73 Beida 1998; Lawton 2008.
-
-75 Falkenhausen 1995: 210.
-
-16 Yakushige & Sato 2014; Chang, Y. 20 Kudo, Y. 2012.
-
-27 Yakushige & Sato 2014.
-
-2 CKJ ch. 3.
-
-## 6 Wolpo 1989; Wolpo, Hawks &
-
-## 14 Rightmire, Lordkipanidze & Vekua
-
-26 Chen, C. 2003: 30; Dennell 2009: 29 Wang, Y. 2001. 30 Wang, Y. 2001; Fang, Huang & 33 Bekken *et al.* 2004.
-
-11 Zhu, R. X. *et al.* 2008.
-
-8 Gibbard *et al.* 2010.
-
-## **Chapter 4**
-
-50 Rightmire 2001.
-
-58 Wall, Lohmueller & Plagnol 2009;
-
-68 Park, S-j. 2006.
-
-70 Ikawa-Smith, F. 1978. 30 Seong, C. 2011a; Lee, G. 2012;
-
- 4 Shang, H. *et al.* 2007; Fu, Q. *et al.* 6 Nakagawa, R. *et al.* 2010. 8 Hammer *et al.* 2006.
-
-41 Bleed 2002a.
-
-52 Takase, K. 2011.
-
-56 Nelson 1993: 49–50.
-
-## 29 Aikens, Zhushchikhovskaya &
-
-84 Aikens *et al.* 2010. 2 Shelach & Teng 2013: 38. 9 Jiang, L. 2013. 11 Shelach & Teng 2013. 12 Wang, F. 2013. 13 Zhu, Y. 2013: 177. 20 Fuller 2011: 82. 32 Sakaguchi, T. 2009; Imamura, K. 33 Shea 2013: 177. 36 Jiang, L. 2013. 39 Habu, J. 2004: 72. 41 Akazawa, T. 1980. 47 Nakano, M. 1987. 49 Habu, J. 2004: 236. 51 Matsui, A. 1996. 52 Matsui, A. 1996; Ikawa-Smith, F. 60 Habu & Hall 2013. 74 Zhao, Z. 2011: S295 75 Barton *et al.* 2009; Yan & Yu 2012. 81 Fuller 2011. 82 Zhang & Hung 2013. 83 Wang, F. 2013. 84 Fuller & Weisskopf 2009–2011. 90 Fuller *et al.* 2009: g. 2. 91 Fuller *et al.* 2009; Fuller & 92 Fuller & Qin 2009. 96 Barton *et al.* 2009. 100 Kusaka, S. *et al.* 2010. 101 Kusaka, S. *et al.* 2008. 6 Bausch 2003.
-
-432 Archaeology of East Asia: Endnotes – Chapters 4, 5, 6
-
-14 Imamura, K. 1996: 107; Habu, J. 17 Habu, J. 2004: 114. 18 Habu, J. 2004: 121–132. 19 Habu, J. 2008. 21 Habu & Hall 2013. 22 Habu, J. 2008. 27 Aikens & Higuchi 1982: 175–178. 32 Zhu, Y. 2013: 187. 42 Kim, S. O. 1994. 61 Zhang, Z-p. 1985; Liu, L. 2004: 64 Wu, X. 2004; Sun & Yang 2004; 71 Shelach 1999: 84. **Chapter 7** 4 Wagner *et al.* 2012; Zhang & Hung 6 Zhao, C. 2013: 249; Underhill *et* 9 Zhao, C. 2013: 247. 13 Zhang, C. 2013: 516. 14 Chang, K. C. 1986: 254. 25 Zhai, S. 2012. 51 Zhao, C. 2013: 246. 52 Zhao, C. 2013: 248. 54 Zhao, C. 2013: 243. 55 Huang, C. C. *et al.* 2010, 2011. 57 Huang, C. C. *et al.* 2010, 2011; Wu 60 Habu, J. 2008. 70 Mannen *et al.* 2004; Warmuth *et al.*
-
-56 Zhu, Y. 2013.
-
-Archaeology of East Asia: Endnotes – Chapters 6, 7 433
-
-73 Mallory & Mair 2000; Li, C. *et al.* 74 Wagner *et al.* 2011.
-
-434 Archaeology of East Asia: Endnotes – Chapters 7, 8, 9
-
-41 Bagley 1999: 158.
-
-52 Pak, Y. 1995: 236. 2 Zhang, C. 2002; Nivison 2002; Li, 6 Yuan, G. 2013: 325, 327; orp
-
-3 Pak, Y. 1995: 229.
-
- 8 Mei, J. *et al.* 2012. 12 Pak, Y. 1995: 228.
-
-26 Allan 2007.
-
-29 Bagley 1987; Barnard 1980–81.
-
-7 Keightley 1999: 232.
-
-15 Wang, M-K. 1999. 19 Jing, Z. 2013: 346.
-
-21 Tang, J. *et al.* 2004; Jarus 2010. 22 Jing, Z. *et al.* 2013: 360. 23 Jing, Z. *et al.* 2013: 361.
-
-## Trigger's (1999) assessment of
-
-38 CKJ g. 60; Chang, K. C. 1980: 77.
-
-42 Chang, K. C. 1978. 43 Wang, Y. 2004. 44 Chang, K. C. 1980: 58. 46 Trigger 1999.
-
-63 Wang, T. 1999: 115.
-
-16 Wang, M-K. 1999, 2006. 17 Wang & Xu 2000; Prusek 1971: 19 Yang, J. 2012. 28 Blakeley 1999a: 20. 54 Wagner 2008: 88, 96–97; Guo, W. 56 Wagner 2008: 113. 57 Wagner 1993: 254; 2008: 144–146. 58 Wagner 2008: 106. 59 Wagner 2008: quench-hardening 60 Wagner 1993. 63 Wang, T. 1999: 119. 70 Bunker 2002: 20. 71 Shelach 1999: 158. 76 Bunker 2002: 24. **Chapter 11** 3 Pak, Y. 1995: 97. 9 Bale 2011: ch. 2.2, g. 7. 12 Shoda, S. 2010; CKJ g. 5. 14 Bale 2011: 41–2. 16 Ahn, S. 2010. 24 Bale 2011: 52. 28 Ahn, S. 2010. 29 Shoda, S. 2010; see Kim, J. 2003: 30 Rhee, S. *et al.* 2007. 31 Ahn, S. 2010. 32 Rhee, S. *et al.* 2007. 33 Bale 2010: 132. 34 Rhee & Choi 1992. 35 Bale 2011: 22. 36 Shoda, S. *et al.* 2009. 37 Bale & Ko 2006: 169; Kang B. W. 43 Ahn, S. 2010. 44 Bale 2011. 49 Bale & Ko 2006; Martin Bale pers. 50 Rhee, S. *et al.* 2007. 51 Bale 2011: 135. 55 Park, J. 2010. 59 Onuki, S. 2005: 103–104. 60 Ahn, S. 2010. 64 Bells are discussed by Cho, H. 2009. 65 Kim, J-I. 2004: 49. 66 Bale 2011: 140. 67 Wagner 2001: 100, table 2.
-
-Archaeology of East Asia: Endnotes – Chapters 10, 11 435
-
-23 Shoda, S. 2010.
-
-## 70 Aikens, Zhushchikhovskaya &
-
-75 Shoda, S. 2007. 77 Onuki, S. 2005: 101. <sup>78</sup> anks to K. Kobayashi for access 81 Shoda, S. 2010. 83 Rhee, S. *et al.* 2007. 11 Barhart 2004; Nickel 2013. 16 Shelach 2014: 117. 22 Wang, Z. 1982. 23 Wang, T. 1999. 24 Falkenhausen 2006: 175. 27 Wang, Z. 1982: 209. 28 Wagner 1993: 406. 31 Wagner 2008: 177. 33 Wagner 2008: 249. 67 Byington 2013: 4, 14 ftn 1. 71 Byington 2013: 6. 74 Bellwood 2013: 9–10. 3 Byington 2003: 194. 5 Byington 2003: 243. 6 Byington 2013: 41; Pai, H. I. 2000: 9 Jung, I-s. 2013: 140. 10 Jung, I-s. 2013: 163. 12 Wu, H. 1989: 147. 13 Kwon, O-j. 2013. 14 Kwon, O-j. 2013.
+| fauna low/med/
+high m2 | 334/103/0 | 877/148/0 | 866/28/199 | 351/0/6 | 345/0/51 | |
+| #bones: low=78 anks to K. Kobayashi for access 81 Shoda, S. 2010. 83 Rhee, S. *et al.* 2007. 11 Barhart 2004; Nickel 2013. 16 Shelach 2014: 117. 22 Wang, Z. 1982. 23 Wang, T. 1999. 24 Falkenhausen 2006: 175. 27 Wang, Z. 1982: 209. 28 Wagner 1993: 406. 31 Wagner 2008: 177. 33 Wagner 2008: 249. 67 Byington 2013: 4, 14 ftn 1. 71 Byington 2013: 6. 74 Bellwood 2013: 9–10. 3 Byington 2003: 194. 5 Byington 2003: 243. 6 Byington 2013: 41; Pai, H. I. 2000: 9 Jung, I-s. 2013: 140. 10 Jung, I-s. 2013: 163. 12 Wu, H. 1989: 147. 13 Kwon, O-j. 2013. 14 Kwon, O-j. 2013.
 
 436 Archaeology of East Asia: Endnotes – Chapters 11, 12, 13
 

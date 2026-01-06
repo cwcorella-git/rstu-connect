@@ -1,3 +1,8 @@
+---
+title: "## **Syndicalism in Germany - William Z. Foster**"
+category: "theory"
+---
+
 ## **Syndicalism in Germany - William Z. Foster**
 
 ## **Date:** Unknown

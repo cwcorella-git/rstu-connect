@@ -1,20 +1,10 @@
 ---
-title: >-
-  From Republicanism To Anarchism The Making Of An Anarchist In Portlaoise
-  Prison
-slug: >-
-  From Republicanism to Anarchism The making of an anarchist in Portlaoise
-  prison
-reconversion_status: ready_for_reconversion
-date: 2010
-author: Workers Solidarity Movement
-tags:
-  - theory
-  - anarchism
-  - unions
-  - housing
-  - rent
+title: ">-"
+author: "Workers Solidarity Movement"
+date: "2010"
+category: "theory"
 ---
+
 # **From Republicanism to Anarchism: The making of an anarchist in Portlaoise prison**
 
 ## **Date:** Unknown

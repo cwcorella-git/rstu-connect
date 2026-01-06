@@ -1,3 +1,8 @@
+---
+title: "**Mikhail Bakunin**"
+category: "contemporary-analysis"
+---
+
 # **Mikhail Bakunin**
 
 # **Statism and Anarchy**
@@ -130,7 +135,7 @@ Interestingly, Bakunin kept his collaboration with Nechaev separate from his oth
 
 At the same time Bakunin was producing an abundant mass of literature. He was an extraordinary letter-writer: at one point in 1870 he claimed that he had written "twenty-three big letters" in the past three days.[\[23\]](#page-181-18) His letters are vigorous, direct, and often very revealing. His theoretical writings, on the other hand, consist mostly of unfinished fragments, few of which were published in his lifetime. Nothing could better illustrate the difference in temperament between him and Marx than the sheer messiness of Bakunin's literary output. A good example is a major work entitled The Knouto-Germanic Empire and the Social Revolution, which he wrote in 1870–71. Like many of his works, it seemed to escape the control of its creator and take on a life of its own. He wrote to Ogarev, "understand that I started it as a pamphlet but am finishing it as a book. It's monstrous ..."[\[24\]](#page-181-19) And a monster it was, a great sprawling mass, never completed and bristling with fragments, variants, introductions, and addenda. Only part of it appeared in print at the time, but another section, published after Bakunin's death under the title God and the State, became the best known of Bakunin's works and has appeared in at least sixteen languages.
 
-The outbreak of the Franco-Prussian War in 1870, and the events that followed it, evoked a strong response from Bakunin. His principal work on the subject was Letters to <sup>a</sup> Frenchman on the Present Crisis, published in September of 1870, an abridgment of a larger work. In a striking anticipation of Lenin's policy in the First World War of "turning the imperialist war into a civil war," Bakunin urged the French to turn their defensive war against the Germans into a popular revolution to transform the French state into a federation of autonomous communes – even at the risk of annihilating themselves and all their property.[\[25\]](#page-181-20) A few days after the defeat of Louis Napoleon, having been informed of plans for a socialist uprising in Lyons, Bakunin resolved "to take my old bones there and probably to play my last role."[\[26\]](#page-181-21) This was Bakunin's first opportunity to participate in a real insurrection since 1849. His influence made itself felt with the appearance in the city of a poster issued by the revolutionary committee calling for abolition of "the administrative and governmental machinery of the state,"[\[27\]](#page-181-22) but the uprising itself was quickly suppressed. Bakunin conducted himself with resolution and was briefly arrested, but he managed to flee and made his way back to Switzerland in disguise.
+The outbreak of the Franco-Prussian War in 1870, and the events that followed it, evoked a strong response from Bakunin. His principal work on the subject was Letters to a Frenchman on the Present Crisis, published in September of 1870, an abridgment of a larger work. In a striking anticipation of Lenin's policy in the First World War of "turning the imperialist war into a civil war," Bakunin urged the French to turn their defensive war against the Germans into a popular revolution to transform the French state into a federation of autonomous communes – even at the risk of annihilating themselves and all their property.[\[25\]](#page-181-20) A few days after the defeat of Louis Napoleon, having been informed of plans for a socialist uprising in Lyons, Bakunin resolved "to take my old bones there and probably to play my last role."[\[26\]](#page-181-21) This was Bakunin's first opportunity to participate in a real insurrection since 1849. His influence made itself felt with the appearance in the city of a poster issued by the revolutionary committee calling for abolition of "the administrative and governmental machinery of the state,"[\[27\]](#page-181-22) but the uprising itself was quickly suppressed. Bakunin conducted himself with resolution and was briefly arrested, but he managed to flee and made his way back to Switzerland in disguise.
 
 He had already begun to connect the stunning victory of Germany over France with the "doctrinaire socialism" of the Marxists, and the next momentous event in his life, the schism in the International in 1872, confirmed that connection in his mind. Relations between Marx and Bakunin had never been warm, although it was only in the late 1860s that they erupted into open warfare. When the two met in Paris in 1844, Bakunin had admired Marx's erudition but not his personality. Then, in July of 1848, Marx, in his Cologne newspaper the Neue Rheinische Zeitung, published a report that the novelist George Sand had proof that Bakunin was a Russian government agent – a rumor that had been dogging Bakunin for some time. The paper subsequently printed Sand's denial of the story as well as Bakunin's protest, but the incident could not help but poison their future relations. (They met once again, in London in 1864, an encounter that was cordial but distant.) Furthermore, Marx was as scornful and distrustful of Russians as Bakunin was anti-German and anti-Semitic. Even Poland, whose independence both of them supported, drew them apart rather than together: to Marx, freedom for Poland signified a blow against Russia, the bastion of European reaction, whereas to Bakunin it represented the starting-point of Russia's liberation.
 
@@ -182,7 +187,7 @@ Thus Statism and Anarchy succeeded in reaching its intended audience, and at a t
 
 The influence of Statism and Anarchy on the "to the people" movement was attested by a number of contemporary Russian activists. It was confirmed by the minister of justice himself, who, in a memorandum on the movement, attributed a particularly nefarious influence to Bakunin's writings and followers – perhaps the highest accolade a Russian revolutionary could receive.[\[34\]](#page-181-29) Just how quickly and widely the book was disseminated can be judged by one curious example recently unearthed from the tsarist archives. In June of 1874, one A. I. Ivanchin-Pisarev, the owner of an estate in Iaroslavl province, northeast of Moscow, was investigated by the police. The investigation established that among other suspicious activities Ivanchin-
 
-Pisarev had been circulating a small library of subversive literature – including Bakunin's <em>Statism and Anarchy.[\[35\]](#page-181-30)
+Pisarev had been circulating a small library of subversive literature – including Bakunin's Statism and Anarchy.[\[35\]](#page-181-30)
 
 Although anti-state sentiment had been a marked feature of Russian revolutionary thought long before the appearance of Statism and Anarchy, the work helped to lay the foundations of a Russian anarchist movement as a separate current within the revolutionary stream. As in the West, the anarchists in Russia remained a minority voice among the radicals. Lacking any broad opportunity to put their own ideals into practice, one of their most important historical functions was to serve as critics of the more numerous and better organized Marxists. Reiterating and developing Bakunin's insight into the authoritarian proclivities of revolutionary intellectuals, they came to serve as a kind of conscience of the left. This role assumed particular relevance, as well as danger, when the Russian state in 1917 became the first to be ruled by avowed Marxists. Applying to the conditions of Soviet Russia their familiar warnings concerning the rise of a new socialist elite, anarchists were among the first critics of the Bolshevik dictatorship, and they were also among its first victims.[\[36\]](#page-181-31)
 
@@ -192,68 +197,129 @@ In a larger perspective, anarchism's foremost contribution to modern political t
 
 Events occurring within Russia are dated according to the Old Style calendar then in effect, which in the nineteenth century was twelve days behind the Western calendar. The latter is used for events occurring outside Russia.
 
-| 1814 | 18: born at Priamukhino, Tver province.<br>May |
+| 1814 | 18: born at Priamukhino, Tver province.
+May |
 |------|------------------------------------------------------------|
 | 1828 | Goes to St. Petersburg to study at Artillery School. |
 | 1835 | Retires from military service. |
 | 1836 | Moves to Moscow, joins Stankevich Circle. |
-| 1838 | March: publishes Preface to Hegel's Gymnasium<br>Lectures. |
+| 1838 | March: publishes Preface to Hegel's Gymnasium
+Lectures. |
 | 1840 | June: leaves Russia to study philosophy in Berlin. |
 | 1842 | October: publishes "Reaction in Germany." |
 | 1843 | Moves to Zurich, meets Wilhelm Weitling. |
 | 1844 | February: ordered home by Russian government. |
 ## | | Settles in Paris, meets Marx and Proudhon. |
 
-| | December: decree of Russian Senate strips him of noble status,<br>sentences him in<br>absentia to hard labor in Siberia. |
+| | December: decree of Russian Senate strips him of noble status,
+sentences him in
+absentia to hard labor in Siberia. |
 |--------------|---------------------------------------------------------------------------------------------------------------------------------------------|
-| 1847<br>1848 | 29: speaks at Polish banquet in Paris.<br>November |
+| 1847
+1848 | 29: speaks at Polish banquet in Paris.
+November |
 | | December: expelled from France, moves to Brussels. |
 | | February: returns to Paris after February Revolution. |
 | | March: travels to Germany. |
 | | June: participates in Slav Congress and insurrection in Prague. |
-| | December: publishes Appeal<br>the<br>Slavs.<br>to |
+| | December: publishes Appeal
+the
+Slavs.
+to |
 | 1849 | May: participates in Dresden insurrection. |
 | 1849– | Tried and sentenced to death in Saxony, extradited to Austria; tried |
 | 51 | and sentenced to death in Austria, extradited to Russia. |
 | 1851 | May: incarcerated in Peter-Paul Fortress, St. Petersburg. |
 | | July–August: writes "Confession." |
 | 1854 | March: transferred to Schlüsselburg Fortress. |
-| 1855 | 18: death of Nicholas I.<br>February |
+| 1855 | 18: death of Nicholas I.
+February |
 | 1857 | March: released from prison, exiled to Siberia. |
-| 1858 | 5: marries Antonia Kwiatkowska in Tomsk.<br>October |
+| 1858 | 5: marries Antonia Kwiatkowska in Tomsk.
+October |
 | 1861 | July: escapes from Siberia; sails via Japan to San Francisco. |
 | | November–December: visits New York, Boston, Cambridge. |
-| | 27: arrives in London, joins Herzen and Ogarev.<br>December |
-| 1862 | publishes To<br>Friends and The<br>Russian,<br>Polish,<br>and<br>Other<br>Slav<br>People's<br>Cause:<br>Romanov,<br>Pugachev,<br>or Pestel?. |
+| | 27: arrives in London, joins Herzen and Ogarev.
+December |
+| 1862 | publishes To
+Friends and The
+Russian,
+Polish,
+and
+Other
+Slav
+People's
+Cause:
+Romanov,
+Pugachev,
+or Pestel?. |
 | 1863 | January: Polish insurrection against Russia begins. |
-| | February: leaves London to join Polish expedition for landing on<br>Lithuanian coast. |
-| | April–October: in Stockholm, gives speeches and writes articles on<br>behalf of Polish revolution; reunited with his wife. |
+| | February: leaves London to join Polish expedition for landing on
+Lithuanian coast. |
+| | April–October: in Stockholm, gives speeches and writes articles on
+behalf of Polish revolution; reunited with his wife. |
 | 1864 | January: arrives in Italy, visits Garibaldi, settles in Florence. |
-| | September–November: travels to Stockholm and London, meets<br>Marx again and joins International. |
+| | September–November: travels to Stockholm and London, meets
+Marx again and joins International. |
 | 1865 | Moves to Naples. |
 | 1866 | Founds International Brotherhood. |
-| 1867 | September: moves to Switzerland, joins League of Peace and<br>Freedom. |
-| | Writes Federalism<br>, Socialism,<br>and<br>Anti-Theologism. |
+| 1867 | September: moves to Switzerland, joins League of Peace and
+Freedom. |
+| | Writes Federalism
+, Socialism,
+and
+Anti-Theologism. |
 | 1868 | Joins Geneva Section of International. |
-| | Leaves League of Peace and Freedom, forms Alliance of Social<br>Democracy. |
+| | Leaves League of Peace and Freedom, forms Alliance of Social
+Democracy. |
 | 1869 | March: begins collaboration with Nechaev. |
 | | September: attends Basle Congress of International. |
 ## | | Settles in Locarno. |
 
 | 1870 | June: breaks relations with Nechaev. |
 |-------------|---------------------------------------------------------------------------------------------------------------------|
-| | 2: defeat of France by Prussia at Sedan.<br>September |
-| | Publishes Letters<br>a Frenchman.<br>to |
-| | 15: arrives in Lyons to participate in insurrection.<br>September |
-| 1870–<br>71 | Writes The<br>Empire, including section published<br>Knouto-Germanic<br>posthumously as God<br>and<br>the<br>State. |
+| | 2: defeat of France by Prussia at Sedan.
+September |
+| | Publishes Letters
+a Frenchman.
+to |
+| | 15: arrives in Lyons to participate in insurrection.
+September |
+| 1870–
+71 | Writes The
+Empire, including section published
+Knouto-Germanic
+posthumously as God
+and
+the
+State. |
 | 1871 | March–May: Paris Commune. |
-| | Writes The<br>Paris<br>Commune<br>and<br>the<br>Idea<br>of<br>the<br>State. |
-| | Publishes The<br>Political<br>Theology<br>of<br>and<br>the<br>International.<br>Mazzini |
+| | Writes The
+Paris
+Commune
+and
+the
+Idea
+of
+the
+State. |
+| | Publishes The
+Political
+Theology
+of
+and
+the
+International.
+Mazzini |
 | 1872 | September: expelled from International at The Hague Congress. |
-| 1873 | Publishes Statism<br>and<br>Anarchy. |
-| 1874 | July–August: travels to Bologna to participate in aborted<br>insurrection. |
+| 1873 | Publishes Statism
+and
+Anarchy. |
+| 1874 | July–August: travels to Bologna to participate in aborted
+insurrection. |
 | | Moves to Lugano. |
-## | 1876 | 1: dies in Berne.<br>July |
+## | 1876 | 1: dies in Berne.
+July |
 
 ## **Bibliographical note**
 
@@ -2160,13 +2226,13 @@ Irrevocably cutting all their ties with the world of the exploiters, destroyers,
 
 Bakunin originally drafted the program in both Russian and French versions. Only the French version of the original draft has survived, and it differs slightly from the Russian text appended to Statism and Anarchy in 1873, which is translated here. See Lehning, ed., Archives Bakounine, in, pp. xviii–xix, and, for the 1872 French text, pp. 185–86.
 
-[<sup>\[1\]</sup>](#page-2-0) "Contributions à la Biographie de Michel Bakounine," La Société Nouvelle (September 1896), p. 312.
+[\[1\]](#page-2-0) "Contributions à la Biographie de Michel Bakounine," La Société Nouvelle (September 1896), p. 312.
 
-[<sup>\[2\]</sup>](#page-3-0) A. A. Kornilov, Molodye gody Mikhaila Bakunina. Iz istorii russkogo romantizma (Moscow: Izd. M. i S. Sabashnikovykh, 1915), pp. 195–97, 231–32; Arthur Lehning, "Bakunin's Conceptions of Revolutionary Organisations and their Role: A Study of his 'Secret Societies'," in C. Abramsky, ed., Essays in Honor of E. H. Carr (London: Macmillan**,** 1974), pp. 57–58.
+[\[2\]](#page-3-0) A. A. Kornilov, Molodye gody Mikhaila Bakunina. Iz istorii russkogo romantizma (Moscow: Izd. M. i S. Sabashnikovykh, 1915), pp. 195–97, 231–32; Arthur Lehning, "Bakunin's Conceptions of Revolutionary Organisations and their Role: A Study of his 'Secret Societies'," in C. Abramsky, ed., Essays in Honor of E. H. Carr (London: Macmillan**,** 1974), pp. 57–58.
 
-[<sup>\[3\]</sup>](#page-3-1) The best description of Moscow's intellectual life in this period appears in parts 1–4 of Alexander Herzen's memoirs, My Past and Thoughts, trans, by Constance Garnett, revised by Humphrey Higgens, with an introduction by Isaiah Berlin, 4 vols. (New York: Knopf, 1968). A good introduction to the subject is Isaiah Berlin, "A Marvellous Decade, 1838–48: The Birth of the Russian Intelligentsia," in Sidney Harcave, ed., Readings in Russian History, 2 vols. (New York: Crowell, 1962), 1, pp. 344–62; reprinted in Isaiah Berlin, Russian Thinkers (New York: Viking, 1978), pp. 114–35.
+[\[3\]](#page-3-1) The best description of Moscow's intellectual life in this period appears in parts 1–4 of Alexander Herzen's memoirs, My Past and Thoughts, trans, by Constance Garnett, revised by Humphrey Higgens, with an introduction by Isaiah Berlin, 4 vols. (New York: Knopf, 1968). A good introduction to the subject is Isaiah Berlin, "A Marvellous Decade, 1838–48: The Birth of the Russian Intelligentsia," in Sidney Harcave, ed., Readings in Russian History, 2 vols. (New York: Crowell, 1962), 1, pp. 344–62; reprinted in Isaiah Berlin, Russian Thinkers (New York: Viking, 1978), pp. 114–35.
 
-[<sup>\[4\]</sup>](#page-4-0) Martin Malia, Alexander Herzen and the Birth of Russian Socialism, 1812–1855 (Cambridge, Mass.: Harvard University Press, 1961), is the best discussion of the role of idealist philosophy in Russia.
+[\[4\]](#page-4-0) Martin Malia, Alexander Herzen and the Birth of Russian Socialism, 1812–1855 (Cambridge, Mass.: Harvard University Press, 1961), is the best discussion of the role of idealist philosophy in Russia.
 
 - [\[5\]](#page-4-1) Martine Del Giudice, "Bakunin's 'Preface to Hegel's "Gymnasium Lectures" ': The Problem of Alienation and the Reconciliation with Reality," Canadian–American Slavic Studies, 16, 2 (Summer 1982), 161–89.
 - [\[6\]](#page-4-2) M. A. Bakunin, Sobranie sochinenii i pisem, 1828–1876, ed. Iu. M. Steklov, 4 vols. (Moscow: Izdatel'stvo vsesoiuznogo obshchestva politkatorzhan i ssyl'no-poselentsev, 1934–35), 111, p. 415.

@@ -1,3 +1,8 @@
+---
+title: "THINKING AHEAD:"
+category: "arts-culture-music"
+---
+
 ### **THINKING AHEAD:**
 
 ## PREPARING YOUNG MINDS FOR A FUTURE WORLD
@@ -26,13 +31,22 @@ To protect the privacy of individuals associated with the document, signatures h
 
 # TABLE OF CONTENTS
 
-| Abstract<br>Thesis | Narrative<br>Thesis | Project Typology | Major Project Elements | Description<br>User<br>/<br>Client | The Site | Project Emphasis | Goals of the Thesis Project | Plan for Proceeding | Project Schedule |
+| Abstract
+Thesis | Narrative
+Thesis | Project Typology | Major Project Elements | Description
+User
+/
+Client | The Site | Project Emphasis | Goals of the Thesis Project | Plan for Proceeding | Project Schedule |
 |--------------------|---------------------|------------------|------------------------|------------------------------------|----------|------------------|-----------------------------|---------------------|------------------|
 | 15 | 16 | 21 | 22 | 24 | 26 | 33 | 34 | 36 | 40 |
 
 # THESIS RESEARCH APPENDIX
 
-| Typological Research | Literature Review | Architectural Program<br>Research Results Into | Contex t<br>Historical | Contex t<br>Social | Analysis<br>Site | Project Justification | |
+| Typological Research | Literature Review | Architectural Program
+Research Results Into | Contex t
+Historical | Contex t
+Social | Analysis
+Site | Project Justification | |
 |----------------------|-------------------|------------------------------------------------|------------------------|--------------------|------------------|-----------------------|--|
 ## | 44 | 78 | 94 | 108 | 116 | 118 | 132 | |
 
@@ -40,15 +54,28 @@ To protect the privacy of individuals associated with the document, signatures h
 
 # THESIS PROPOSAL DESIGN SOLUTION
 
-| 144 | Documentation<br>Process |
+| 144 | Documentation
+Process |
 |------|------------------------------------------------------------|
-| 150 | Documentation<br>Project Solution |
-| 151 | Analysis: Response to Site<br>Performance |
-| 154 | Typological<br>to<br>Response<br>Analysis:<br>Performance |
+| 150 | Documentation
+Project Solution |
+| 151 | Analysis: Response to Site
+Performance |
+| 154 | Typological
+to
+Response
+Analysis:
+Performance |
 | | Research |
-| 164 | and<br>Goals<br>to<br>Response<br>Analysis:<br>Performance |
+| 164 | and
+Goals
+to
+Response
+Analysis:
+Performance |
 | | Project Emphasis |
-| 17 1 | Methods<br>Critique of Applied Research |
+| 17 1 | Methods
+Critique of Applied Research |
 | 172 | Digital Presentation |
 ## | 189 | Project Installation |
 
@@ -63,7 +90,15 @@ To protect the privacy of individuals associated with the document, signatures h
 | 18 | 21 | 23 | 25 | 25 | 26 | 26 | 27 | | 27 | | 28 | 29 | 45 | 45 | 46 | 47 | 48 | 49 |
 |---------------------------|-----------------------------------|--------------------------------|--------------|-------------|-------------------------|-------------------------------|------------------------------------|---------------|------------------------------------|---------------------|--------------------|-----------|---------------------------|--------------------------|--------------------------|-------------------------|----------------------|-------------------|
 | El Paso Children's Museum | Estimated Element Size Comparison | Estimated Space Usage by Users | Regional Map | State Map | Total Population (2019) | Texas Total Population (2019) | Percentage of the Population Under | Age 18 (2019) | Texas Percentage of the Population | Under Age 18 (2019) | Lancaster Ave Site | Site Map | German Pavilion Ex terior | German Pavilion Interior | Ver tical Campus Process | German Pavilion Section | Pavilion Circulation | Pavilion Exhibits |
-| 2<br>FIGURE | 3<br>FIGURE | 4<br>FIGURE | 5<br>FIGURE | 6<br>FIGURE | 7<br>FIGURE | 8<br>FIGURE | 9<br>FIGURE | | FIGURE 10 | | FIGURE 11 | FIGURE 12 | FIGURE 13 | FIGURE 14 | FIGURE 15 | FIGURE 16 | FIGURE 17 | FIGURE 18 |
+| 2
+FIGURE | 3
+FIGURE | 4
+FIGURE | 5
+FIGURE | 6
+FIGURE | 7
+FIGURE | 8
+FIGURE | 9
+FIGURE | | FIGURE 10 | | FIGURE 11 | FIGURE 12 | FIGURE 13 | FIGURE 14 | FIGURE 15 | FIGURE 16 | FIGURE 17 | FIGURE 18 |
 
 | 51 | 52 | 55 | 55 | 56 | 57 | 58 | 58 | 60 | 61 | 61 | 61 | 62 | 65 | 65 | 66 | 66 | 67 | 67 |
 |-----------------------------|--------------------|--------------------------------|-------------------------------|---------------------------------|------------------|----------------------|-------------------------------|---------------------|----------------------|------------------------------|-------------------|-----------------------------|---------------------------|------------------|-----------------------|--------------------|------------------------|--------------|
@@ -74,12 +109,21 @@ To protect the privacy of individuals associated with the document, signatures h
 
 | 68 | 69 | 70 | 70 | 7 1 | 87 | 94 | 96 | 98 | 100 | 102 | 104 | 109 | 112 | 118 | 119 | 120 | 121 | 122 | |
 |--------------------|-------------------------------------|------------------------------------|---------------------------------------|--------------------|----------------------------|--------------------------|--------------------------|--------------|------------------------|---------------|-----------------------------------|------------------------|-----------------------------|-----------------------|------------------------|-----------|------------------------|-----------------------------------|--|
-| Classroom Interior | Cour tyard Kindergar ten Floor Plan | Cour tyard Kindergar ten Section 1 | 2<br>Cour tyard Kindergar ten Section | Classroom Interior | The Habitability Framework | Cause and Effect Diagram | Climate Change Synergies | Life on Mars | Space Travel Synergies | Floating City | Reshaping of Urban Life Synergies | Education Then and Now | Apple Products Then and Now | Past and Present Site | Historic Aerial Photos | Site Map | Views To and From Site | Site Plan in Surrounding Contex t | |
+| Classroom Interior | Cour tyard Kindergar ten Floor Plan | Cour tyard Kindergar ten Section 1 | 2
+Cour tyard Kindergar ten Section | Classroom Interior | The Habitability Framework | Cause and Effect Diagram | Climate Change Synergies | Life on Mars | Space Travel Synergies | Floating City | Reshaping of Urban Life Synergies | Education Then and Now | Apple Products Then and Now | Past and Present Site | Historic Aerial Photos | Site Map | Views To and From Site | Site Plan in Surrounding Contex t | |
 | FIGURE 38 | FIGURE 39 | FIGURE 40 | FIGURE 41 | FIGURE 42 | FIGURE 43 | FIGURE 44 | FIGURE 45 | FIGURE 46 | FIGURE 47 | FIGURE 48 | FIGURE 49 | FIGURE 50 | FIGURE 51 | FIGURE 52 | FIGURE 53 | FIGURE 54 | FIGURE 55 | FIGURE 56 | |
 
 | 123 | 124 | 125 | 125 | 126 | 127 | 128 | 128 | 129 | | 129 | 135 | 136 | 137 | 138 | 144 | 146 | 147 | 148 |
 |----------------------|----------------------------------|-----------------------------------|-------------|--------------------------|------------------|-----------------------------------------|--------------------------------------|--------------------------|-------------------------|---------------------------------|-------------------|--------------------------|-----------------------|---------------------------------|------------------|---------------------------|--------------------------------|-----------------------------------|
-| Topographic Sections | Typical Eddy-Stephen-Austin Soil | Water<br>Vegetation and Bodies of | Flood Plain | Transpor tation Analysis | Sun Path Diagram | January<br>-<br>Wind Patterns<br>Winter | July<br>-<br>Wind Patterns<br>Summer | Average Temperatures and | Precipitation In Dallas | Sunny and Cloudy Days in Dallas | Space Allocations | Space Interaction Matrix | Space Interaction Net | Learning Environment Assessment | Process Sketches | Spatial Ideation Sketches | Form Creation Process: Phase 1 | 2<br>Form Creation Process: Phase |
+| Topographic Sections | Typical Eddy-Stephen-Austin Soil | Water
+Vegetation and Bodies of | Flood Plain | Transpor tation Analysis | Sun Path Diagram | January
+-
+Wind Patterns
+Winter | July
+-
+Wind Patterns
+Summer | Average Temperatures and | Precipitation In Dallas | Sunny and Cloudy Days in Dallas | Space Allocations | Space Interaction Matrix | Space Interaction Net | Learning Environment Assessment | Process Sketches | Spatial Ideation Sketches | Form Creation Process: Phase 1 | 2
+Form Creation Process: Phase |
 | FIGURE 57 | FIGURE 58 | FIGURE 59 | FIGURE 60 | FIGURE 61 | FIGURE 62 | FIGURE 63 | FIGURE 64 | FIGURE 65 | | FIGURE 66 | FIGURE 67 | FIGURE 68 | FIGURE 69 | FIGURE 70 | FIGURE 7 1 | FIGURE 72 | FIGURE 73 | FIGURE 74 |
 
 ## ![](_page_5_Picture_0.jpeg)
@@ -88,7 +132,10 @@ To protect the privacy of individuals associated with the document, signatures h
 
 | 148 | 149 | 149 | 150 | 152 | 153 | 153 | 154 | 155 | 157 | 157 | 158 | 159 | 160 | 161 | 162 | 163 | 164 | 166 |
 |-----------------------------------|-----------------------------------|-----------------------------------|----------------------|-----------|-----------------------------------|-----------------|-----------------|-------------------|------------------|-------------------|------------------|-----------|----------------------|------------------------|----------------------|-----------------------|--------------------------------|------------------------------|
-| 3<br>Form Creation Process: Phase | 4<br>Form Creation Process: Phase | 5<br>Form Creation Process: Phase | Final Display Boards | Site Plan | Section B: Sustainable Strategies | Cour tyard View | Project Program | Circulation Paths | Lower Floor Plan | Ground Floor Plan | Upper Floor Plan | Library | Classroom Cour tyard | Climate Change Exhibit | Space Travel Exhibit | Floating City Exhibit | Space Travel Exhibit Tex tures | Section A: Response to Scale |
+| 3
+Form Creation Process: Phase | 4
+Form Creation Process: Phase | 5
+Form Creation Process: Phase | Final Display Boards | Site Plan | Section B: Sustainable Strategies | Cour tyard View | Project Program | Circulation Paths | Lower Floor Plan | Ground Floor Plan | Upper Floor Plan | Library | Classroom Cour tyard | Climate Change Exhibit | Space Travel Exhibit | Floating City Exhibit | Space Travel Exhibit Tex tures | Section A: Response to Scale |
 | FIGURE 75 | FIGURE 76 | FIGURE 77 | FIGURE 78 | FIGURE 79 | FIGURE 80 | FIGURE 81 | FIGURE 82 | FIGURE 83 | FIGURE 84 | FIGURE 85 | FIGURE 86 | FIGURE 87 | FIGURE 88 | FIGURE 89 | FIGURE 90 | FIGURE 91 | FIGURE 92 | FIGURE 93 |
 
 ### THESIS PROPOSAL
@@ -273,9 +320,12 @@ Quantitative research will provide data to measure patterns and trends seen arou
 
 | Applications | Hand sketching | |
 |--------------|-----------------------------------------|------------------------------------|
-| | models<br>Physical | Design<br>Conceptual |
+| | models
+Physical | Design
+Conceptual |
 | | Auto Desk Revit | |
-| | Rhino | Development<br>Design |
+| | Rhino | Development
+Design |
 | | Lumion | |
 | | Adobe Photoshop | |
 | | Adobe Illustrator | Production |
@@ -284,11 +334,14 @@ Quantitative research will provide data to measure patterns and trends seen arou
 | Deliverables | Thesis Book | |
 | | Presentation Boards | |
 | | Digital Presentation Slides | |
-| | Aid (animation or physical<br>Visual | model) |
+| | Aid (animation or physical
+Visual | model) |
 | | | |
 | Publication | Nor th | Dakota State University Repository |
 | | | |
-| Preservation | on cloud based server<br>-<br>Digitally | |
+| Preservation | on cloud based server
+-
+Digitally | |
 
 Documentation All research to be documented digitally 1.
 
@@ -309,16 +362,72 @@ All local files automatically sync to Google Drive back-up folder. 4.
 
 ### FALL SEMESTER
 
-| topic exploration | define typology<br>&<br>create narrative | users<br>&<br>identify project elements | plan for proceeding<br>&<br>site selection | topic refinement | project justification<br>&<br>case study research | cultural contex t<br>&<br>explore historical, social, | performance criteria<br>&<br>complete site analysis | organize all data into book<br>/<br>collect | |
+| topic exploration | define typology
+&
+create narrative | users
+&
+identify project elements | plan for proceeding
+&
+site selection | topic refinement | project justification
+&
+case study research | cultural contex t
+&
+explore historical, social, | performance criteria
+&
+complete site analysis | organize all data into book
+/
+collect | |
 |-------------------|------------------------------------------|-----------------------------------------|--------------------------------------------|---------------------|---------------------------------------------------|-------------------------------------------------------|-----------------------------------------------------|---------------------------------------------|-----------------|
-| 2<br>WEEK 1 - | 3<br>WEEK | 4<br>WEEK | 6<br>-<br>5<br>WEEK | 8<br>-<br>7<br>WEEK | 10<br>-<br>9<br>WEEK | WEEK 11 | 13<br>-<br>WEEK 12 | 16<br>-<br>WEEK 14 | SPRING SEMESTER |
+| 2
+WEEK 1 - | 3
+WEEK | 4
+WEEK | 6
+-
+5
+WEEK | 8
+-
+7
+WEEK | 10
+-
+9
+WEEK | WEEK 11 | 13
+-
+WEEK 12 | 16
+-
+WEEK 14 | SPRING SEMESTER |
 ## | | | | | | | | | TASKS | WEEKLY |
 
 ### SPRING SEMESTER
 
-| massing<br>&<br>spatial diagramming | form development | exhibits<br>/<br>concentration on interior form | sustainability<br>&<br>focus on structure | refine plans<br>&<br>modeling progress<br>digital | design refinement | create graphics<br>&<br>render images | materials<br>finalize presentation |
+| massing
+&
+spatial diagramming | form development | exhibits
+/
+concentration on interior form | sustainability
+&
+focus on structure | refine plans
+&
+modeling progress
+digital | design refinement | create graphics
+&
+render images | materials
+finalize presentation |
 |-------------------------------------|---------------------|-------------------------------------------------|-------------------------------------------|---------------------------------------------------|--------------------|---------------------------------------|------------------------------------|
-| 2<br>WEEK 1 - | 4<br>-<br>3<br>WEEK | 6<br>-<br>5<br>WEEK | 8<br>-<br>7<br>WEEK | WEEK 9 | 12<br>-<br>WEEK 10 | 14<br>-<br>WEEK 13 | WEEK 15 |
+| 2
+WEEK 1 - | 4
+-
+3
+WEEK | 6
+-
+5
+WEEK | 8
+-
+7
+WEEK | WEEK 9 | 12
+-
+WEEK 10 | 14
+-
+WEEK 13 | WEEK 15 |
 
 ## ![](_page_20_Figure_5.jpeg)
 
@@ -345,7 +454,9 @@ Each precedent was analyzed based on its approach to six design factors: project
 
 ## GERMAN PAVILION EXPO
 
-| Exhibition | UAE<br>Dubai, | meters<br>4,500 square | 2021 | LAVA | Exhibitions, restaurant, performance stage |
+| Exhibition | UAE
+Dubai, | meters
+4,500 square | 2021 | LAVA | Exhibitions, restaurant, performance stage |
 |------------|---------------|------------------------|-------|----------|--------------------------------------------|
 | TYPOLOGY | LOCATION | SIZE | BUILT | DESIGNER | PROGRAM |
 
@@ -421,7 +532,10 @@ The main take-away from the Germany Pavilion research was the user experience an
 
 ### MUSEUM OF THE FUTURE
 
-| Museum | UAE<br>Dubai, | meters<br>17,000 square | Under construction | Killa<br>Shaun | Exhibitions, restaurant, cafe, auditorium |
+| Museum | UAE
+Dubai, | meters
+17,000 square | Under construction | Killa
+Shaun | Exhibitions, restaurant, cafe, auditorium |
 |----------|---------------|-------------------------|--------------------|----------------|-------------------------------------------|
 | TYPOLOGY | LOCATION | SIZE | BUILT | DESIGNER | PROGRAM |
 
@@ -513,11 +627,14 @@ FIGURE 31 | MUSEUM OF THE FUTURE FACADE (Killa Design, 2021)
 
 # YUECHENG COURTYARD KINDERGARTEN
 
-| | | | | | theater,<br>gym, | |
+| | | | | | theater,
+gym, | |
 |----------|-------------------|---------------|-------|-------------------|------------------|-------------|
 | | | | | | library, | |
 | | | meters | | | offices, | |
-| School | China<br>Beijing, | 10,778 square | 2020 | Architects<br>MAD | Classrooms, | cour tyards |
+| School | China
+Beijing, | 10,778 square | 2020 | Architects
+MAD | Classrooms, | cour tyards |
 | TYPOLOGY | LOCATION | SIZE | BUILT | DESIGNER | PROGRAM | |
 
 The Yuecheng Cour tyard Kindergar ten was built on an 18thcentury cour tyard located nex t to senior citizens' apar tment. The goal of blending these typologies was to achieve intergenerational integration. " The Yue Cheng Cour tyard Kindergar ten shows how several seemingly disparate, even sometimes contradictory, elements of architecture from different historical periods can coexist harmoniously while maintaining their authenticity and individuality " (Shuang, 2020). One of the unique elements of project is the roof form that drapes over the building, creating an interactive response to the project design. The kindergar ten is occupied by 390 children, ranging from 1.5 years old to years
@@ -897,7 +1014,59 @@ prospect, refuge, and mystery were considered when determining adjacency (Taylor
 
 Adapted from the ideas in Anne Taylor 's book (2009), char t of basic needs, Figure 70, was constructed as basis for all learning environments in the project. Utilizing Taylor 's concept of designing for the whole learner, each building element is accessed based on its appeal to the mind, body, and spirit. Quantifiable criteria is noted in the char t and will be judged using software analysis and calculations from the Mechanical and Electrical Equipment for Buildings (Grondzik & Kwok , 2014). Qualitative criteria will be analyzed through professional and user judgment based on their perception and past experiences.
 
-| 26%<br>33%<br>12%<br>3%<br>8%<br>6%<br>3%<br>4%<br>3%<br>1%<br>1%<br>1%<br>3<br>8<br>4<br>3<br>4<br>6<br>3<br>1<br>1<br>1<br>1<br>1<br>34,370<br>11,250<br>1,000<br>FIGURE 67 SPACE ALLOCATIONS<br>3,000<br>4,000<br>1,000<br>500<br>300<br>500<br>900<br>100<br>150<br>40<br>Entry<br>TOTAL<br>Exhibits<br>Breakout Space<br>Technology Space<br>Classrooms<br>Circulation<br>Bathroom<br>Office<br>Conference Room<br>Storage<br>Mechanical<br>/<br>Faculty<br>Lobby | SPACE | SIZE (SQ. FT.) | QUANTITY | PERCENTAGE |
+| 26%
+33%
+12%
+3%
+8%
+6%
+3%
+4%
+3%
+1%
+1%
+1%
+3
+8
+4
+3
+4
+6
+3
+1
+1
+1
+1
+1
+34,370
+11,250
+1,000
+FIGURE 67 SPACE ALLOCATIONS
+3,000
+4,000
+1,000
+500
+300
+500
+900
+100
+150
+40
+Entry
+TOTAL
+Exhibits
+Breakout Space
+Technology Space
+Classrooms
+Circulation
+Bathroom
+Office
+Conference Room
+Storage
+Mechanical
+/
+Faculty
+Lobby | SPACE | SIZE (SQ. FT.) | QUANTITY | PERCENTAGE |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|----------------|----------|------------|
 | | | | | |
 | | | | | |
@@ -926,10 +1095,56 @@ Adapted from the ideas in Anne Taylor 's book (2009), char t of basic needs, Fig
 
 FIGURE 70 | LEARNING ENVIRONMENT ASSESSMENT Adapted from Linking architecture and education (Taylor, 2009)
 
-| SPIRIT | and sense of<br>belonging<br>Personal | environment<br>Friendly | a<br>to the sensory<br>Contributes<br>experience of<br>space | environment<br>aesthetic<br>Adds to | Communication<br>connectiveness<br>to world<br>and | Texas' climate<br>Relief from | Not congested<br>with high<br>activity |
+| SPIRIT | and sense of
+belonging
+Personal | environment
+Friendly | a
+to the sensory
+Contributes
+experience of
+space | environment
+aesthetic
+Adds to | Communication
+connectiveness
+to world
+and | Texas' climate
+Relief from | Not congested
+with high
+activity |
 |--------|-------------------------------------------|-----------------------------------------------|--------------------------------------------------------------|-----------------------------------------------------|----------------------------------------------------|---------------------------------------------------------------|--------------------------------------------------|
-| BODY | Responsive to<br>user height,<br>4' to 5' | interactive<br>Multi-user<br>elements | in collaborative<br>45 to 55 dBA<br>spaces | international and<br>local safety code<br>Follows | experience<br>Par t of the<br>integrated | with<br>40 to 60%<br>humidity<br>68 to 74°F | and operable<br>Access to<br>outdoors<br>windows |
-| MIND | interpreted by<br>children<br>Easily | Oppor tunity for<br>collaborative<br>learning | 35 to 45 dBA<br>focus areas<br>in higher | tool, if exposed<br>visual teaching<br>a<br>Used as | understood by<br>Ability to be<br>users | with<br>physical activity<br>higher levels of<br>Comfor table | 15 to 20 cfm per<br>occupant |
+| BODY | Responsive to
+user height,
+4' to 5' | interactive
+Multi-user
+elements | in collaborative
+45 to 55 dBA
+spaces | international and
+local safety code
+Follows | experience
+Par t of the
+integrated | with
+40 to 60%
+humidity
+68 to 74°F | and operable
+Access to
+outdoors
+windows |
+| MIND | interpreted by
+children
+Easily | Oppor tunity for
+collaborative
+learning | 35 to 45 dBA
+focus areas
+in higher | tool, if exposed
+visual teaching
+a
+Used as | understood by
+Ability to be
+users | with
+physical activity
+higher levels of
+Comfor table | 15 to 20 cfm per
+occupant |
 | | Scale | Socialization | Sound | Structure | Technology | Temperature | Ventilation |
 
 FIGURE 70 | LEARNING ENVIRONMENT ASSESSMENT Adapted from Linking architecture and education (Taylor, 2009)
@@ -1433,7 +1648,10 @@ Western Kentucky University. (n.d.). T/TAS 40th Anniversary Inventions from the 
 
 ### IMAGE REFERENCE LIST
 
-| VRay Guide. (2017 ). Future City 2050 [Photograph]. CGarchitect. Retrieved | from https://www.cgarchitect.com/projects/c5099c91-future-city-2050| KTSM. (2021). [Interior of El Paso Children's Museum] [Photograph].<br>2 | Retrieved from https://www.ktsm.com/community/today-begins-the| naming-challenge-of-the-new-childrens-museum/ | Snazzy Maps. (n.d.) [Map of United States] [Photograph]. Retrieved from<br>5 | https://snazzymaps.com/| Snazzy Maps. (n.d.) [Map of Texas] [Photograph]. Retrieved from https://<br>6 | snazzymaps.com/ | Google Maps. (n.d.) [Aerial of Lancaster Ave] [Photograph]. Retrieved from | https://www.google.com/maps/| Snazzy Maps. (n.d.) [Map of Lancaster Ave] [Photograph]. Retrieved from | https://snazzymaps.com/| Baldwin, E. (2018). German Pavilion [Photograph]. Arch Daily. Retrieved | from https://www.archdaily.com/905514/lava-selected-to-design| german-pavilion-for-expo-2020-dubai?ad-medium=gallery. | Campus Germany: The German Pavilion Expo 2020 Dubai. (2021). [Ver tical | campus massing diagram] [Drawing]. Retrieved from https://www.| expo2020germany.de/en/the-german-pavilion/architecture/ | Campus Germany: The German Pavilion Expo 2020 Dubai. (2021). | [Interior of pavilion exhibits] [Photograph]. Retrieved from https:// | www.expo2020germany.de/en/the-german-pavilion/exhibition/ |
+| VRay Guide. (2017 ). Future City 2050 [Photograph]. CGarchitect. Retrieved | from https://www.cgarchitect.com/projects/c5099c91-future-city-2050| KTSM. (2021). [Interior of El Paso Children's Museum] [Photograph].
+2 | Retrieved from https://www.ktsm.com/community/today-begins-the| naming-challenge-of-the-new-childrens-museum/ | Snazzy Maps. (n.d.) [Map of United States] [Photograph]. Retrieved from
+5 | https://snazzymaps.com/| Snazzy Maps. (n.d.) [Map of Texas] [Photograph]. Retrieved from https://
+6 | snazzymaps.com/ | Google Maps. (n.d.) [Aerial of Lancaster Ave] [Photograph]. Retrieved from | https://www.google.com/maps/| Snazzy Maps. (n.d.) [Map of Lancaster Ave] [Photograph]. Retrieved from | https://snazzymaps.com/| Baldwin, E. (2018). German Pavilion [Photograph]. Arch Daily. Retrieved | from https://www.archdaily.com/905514/lava-selected-to-design| german-pavilion-for-expo-2020-dubai?ad-medium=gallery. | Campus Germany: The German Pavilion Expo 2020 Dubai. (2021). [Ver tical | campus massing diagram] [Drawing]. Retrieved from https://www.| expo2020germany.de/en/the-german-pavilion/architecture/ | Campus Germany: The German Pavilion Expo 2020 Dubai. (2021). | [Interior of pavilion exhibits] [Photograph]. Retrieved from https:// | www.expo2020germany.de/en/the-german-pavilion/exhibition/ |
 |---------------------------------------------------------------------------|---------------------------------------------------------------------|--------------------------------------------------------------------------|----------------------------------------------------------------|-----------------------------------------------|------------------------------------------------------------------------------|-------------------------|-------------------------------------------------------------------------------|-----------------|----------------------------------------------------------------------------|------------------------------|-------------------------------------------------------------------------|-------------------------|------------------------------------------------------------------------|---------------------------------------------------------------|--------------------------------------------------------|-------------------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------|--------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------|
 | FIGURE 1 | | FIGURE | | | FIGURE | | FIGURE | | FIGURE 11 | | FIGURE 12 | | | 16-17, 19-20 | | FIGURE 15 | | | FIGURE 18 | | |
 
@@ -1441,7 +1659,9 @@ FIGURE 24 FIGURES 25-26 30 Abushaikha, S. (2021). A3869-15 Museum projects of 20
 
 | Killa Design. (2021). [Ex terior view of building skin] [Photograph]. | Retrieved from https://www.killadesign.com/portfolio/museum-of-the | future/ | Shuang, H. A. N. (2020). [Ex terior views of kindergar ten] [Photograph]. | Arch Daily. Retrieved from https://www.archdaily.com/951734/| yuecheng-cour tyard-kindergar ten-mad-architects | Shuang, H. A. N. (2020). [Mass diagrams of kindergar ten] [Drawing]. | Arch Daily. Retrieved from https://www.archdaily.com/951734/| yuecheng-cour tyard-kindergar ten-mad-architects | Shuang, H. A. N. (2020). [Interior view of classroom] [Photograph]. | Arch Daily. Retrieved from https://www.archdaily.com/951734/| yuecheng-cour tyard-kindergar ten-mad-architects | Ravenscroft, T. (2020). [Kindergar ten floor plan] [Drawing]. Dezeen. | Retrieved from https://www.dezeen.com/2020/11/10/mad-yuecheng| cour tyard-kindergar ten-beijing-china/#/ | Ravenscroft, T. (2020). [Kindergar ten sections] [Drawing]. Dezeen. | Retrieved from https://www.dezeen.com/2020/11/10/mad-yuecheng| cour tyard-kindergar ten-beijing-china/#/ | Ravenscroft, T. (2020). [Kindergar ten interior view] [Photograph]. Dezeen. | Retrieved from https://www.dezeen.com/2020/11/10/mad-yuecheng| cour tyard-kindergar ten-beijing-china/#/ | Taylor, A. (2009). The Habitability Framework [Drawing]. University of New | Mexico Press. |
 |-----------------------------------------------------------------------|---------------------------------------------------------------------|---------|---------------------------------------------------------------------------|-------------------------------------------------------------|--------------------------------------------------|----------------------------------------------------------------------|-------------------------------------------------------------|--------------------------------------------------|---------------------------------------------------------------------|-------------------------------------------------------------|--------------------------------------------------|-----------------------------------------------------------------------|---------------------------------------------------------------|-------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------|-------------------------------------------|-----------------------------------------------------------------------------|---------------------------------------------------------------|-------------------------------------------|----------------------------------------------------------------------------|---------------|
-| FIGURE 31 | | | FIGURES | 32-33, 36-37 | | FIGURES 34-35 | | | FIGURE 38 | | | FIGURE 39 | | | FIGURES | 41<br>&<br>40 | | FIGURE 42 | | | FIGURE 43 | |
+| FIGURE 31 | | | FIGURES | 32-33, 36-37 | | FIGURES 34-35 | | | FIGURE 38 | | | FIGURE 39 | | | FIGURES | 41
+&
+40 | | FIGURE 42 | | | FIGURE 43 | |
 
 FIGURE 46 NBC News. (2019). [Life on Mars] [Photograph]. MACH. Retrieved from https://www.nbcnews.com/mach/news/visions-future-life-mars-ruralskyscraper-ncsl1004486[Futuristic floating city] [Photograph]. (n.d.). Future Timeline. Retrieved from https://www.futuretimeline.net/22ndcentury/2100-2149.htm#2110Green, H. (2016). [Classroom with children] [Photograph]. Medium. Retrieved from https://medium.com/@hankgreen/you-cant-fixeducation-839e31fa929c Jackson, S. (2013). [Students using technology] [Photograph]. Common Sense. Retrieved from https://www.commonsense.org/education/ar ticles/how-technology-can-encourage-student-collaboration Brant, T. Buzzi, M. (2020). [Apple Mac Book Air] [Photograph]. PCMag. Retrieved from https://www.pcmag.com/reviews/apple-macbook-airm1-late-2020Gibbs, S. (2016). [Por table Apple computer] [Photograph]. The Guardian. Retrieved from https://www.theguardian.com/technology/gallery/2016/apr/01/40-years-of-apple-in-pictures Google Maps. (n.d.) [Historical views of Lancaster Ave] [Photograph]. Retrieved from https://www.google.com/maps/Google Maps. (n.d.) [Views from road of Lancaster Ave] [Photograph]. Retrieved from https://www.google.com/maps/Coffee, D. R., Hill, R. H., Ressel, D. (1980). Typical pattern of soils and parent material in the Eddy-Stephen-Austin map unit [Drawing]. Depar tment of Agriculture, Soil Conservation Service.
 

@@ -1,3 +1,8 @@
+---
+title: "**The Advances in the History of Cognitive Dissonance Theory**"
+category: "contemporary-analysis"
+---
+
 # **The Advances in the History of Cognitive Dissonance Theory**
 
 #### **Irem Metin**

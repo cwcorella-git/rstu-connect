@@ -1,3 +1,8 @@
+---
+title: "**Gilles Dauvé**"
+category: "contemporary-analysis"
+---
+
 # **Gilles Dauvé**
 
 # **Communisation**
@@ -382,7 +387,7 @@ Until then, and as a contribution to this resolution, communist theory will have
 
 To the best of our knowledge, *Un monde sans argent* has not been translated in English, except for short extracts published in the SPGB magazine *Socialist Standard* (July 1979): John Gray "For communism" site : [reocities.com](http://www.reocities.com/%7Ejohngray/)
 
-Bruno Astarian, *Crisis Activity & Communisation*, 2010. Available on [The](http://theanarchistlibrary.org/library/bruno-astarian-crisis-activity-and-communisation) [Anarchist Library.](http://theanarchistlibrary.org/library/bruno-astarian-crisis-activity-and-communisation) See <http://www.hicsalta-communisation.com/>for other texts by B. Astarian on communism.
+Bruno Astarian, *Crisis Activity & Communisation*, 2010. Available on [The](http://theanarchistlibrary.org/library/bruno-astarian-crisis-activity-and-communisation) [Anarchist Library.](http://theanarchistlibrary.org/library/bruno-astarian-crisis-activity-and-communisation) See for other texts by B. Astarian on communism.
 
 **Background information** on how the "communisation" idea became explicit in the 1970s:
 

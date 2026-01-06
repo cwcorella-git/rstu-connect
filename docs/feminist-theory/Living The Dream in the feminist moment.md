@@ -1,3 +1,8 @@
+---
+title: "## **Living The Dream in the feminist moment**"
+category: "feminist-theory"
+---
+
 ## **Living The Dream in the feminist moment**
 
 ## **Date:** Unknown

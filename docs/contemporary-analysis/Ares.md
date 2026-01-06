@@ -1,3 +1,8 @@
+---
+title: "**Ares**"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 # **Ares**
@@ -227,64 +232,85 @@ The following is a list of Ares's offspring, by various mothers. Beside each off
 | Biston | Callirrhoe | Steph. Byz. | 6th cent. AD | [93] |
 | Enyalius | Enyo | | | [94] |
 | Dragon of Thebes | Erinys of Telphusa | | | |
-| Nike | No mother<br>mentioned | HH 8 | | [95] |
-| Sinope (possibly) | Aegina | Schol. Ap.<br>Rhod. | | [96] |
+| Nike | No mother
+mentioned | HH 8 | | [95] |
+| Sinope (possibly) | Aegina | Schol. Ap.
+Rhod. | | [96] |
 | Edonus | | Steph. Byz. | 6th cent. AD | [93] |
 | Odomantus | Callirrhoe | Steph. Byz. | 6th cent. AD | [93] |
 | | Cleobula | | | [97] |
-| Cycnus | Pelopia | Apollod. | 1st/2nd cent.<br>AD | [98] |
-| | Pyrene | Apollod. | 1st/2nd cent.<br>AD | [99] |
-| Diomedes of Thrace | Cyrene | Apollod. | 1st/2nd cent.<br>AD | [100] |
+| Cycnus | Pelopia | Apollod. | 1st/2nd cent.
+AD | [98] |
+| | Pyrene | Apollod. | 1st/2nd cent.
+AD | [99] |
+| Diomedes of Thrace | Cyrene | Apollod. | 1st/2nd cent.
+AD | [100] |
 | Crestone | | Tzetzes | 12th cent. AD | [101] |
 | The Amazons | Harmonia | | | |
 | Oenomaus | Sterope | Hyg. Fab. | 1st cent. AD | [102] |
 | | Harpina | Diod. Sic. | 1st cent. BC | [103] |
-| | Eurythoe the<br>Danaid | Tzetzes | 12th cent. AD | [104] |
+| | Eurythoe the
+Danaid | Tzetzes | 12th cent. AD | [104] |
 | Evenus | Sterope | Ps Plutarch | | [105] |
-| | Demonice | Apollod. | 1st/2nd cent.<br>AD | [106] |
-| Thrassa | Tereine | Ant. Lib. | 2nd/3rd cent.<br>AD | [84] |
+| | Demonice | Apollod. | 1st/2nd cent.
+AD | [106] |
+| Thrassa | Tereine | Ant. Lib. | 2nd/3rd cent.
+AD | [84] |
 | Melanippus | Triteia | Paus. | 2nd cent. AD | [107] |
 | Aeropus | Aerope | Paus. | 2nd cent. AD | [108] |
-| Alcippe | Aglauros | Apollod. | 1st/2nd cent.<br>AD | [109] |
-| Meleager | Althaea | Apollod. | 1st/2nd cent.<br>AD | [110] |
+| Alcippe | Aglauros | Apollod. | 1st/2nd cent.
+AD | [109] |
+| Meleager | Althaea | Apollod. | 1st/2nd cent.
+AD | [110] |
 | Calydon | Astynome | | | [111] |
 | Ascalaphus | Astyoche | Paus. | 2nd cent. AD | [112] |
 | Ialmenus | | Paus. | 2nd cent. AD | [113] |
 | | | | 1st/2nd cent | [114] |
 
-| Parthenopaeus | Atalanta | Apollod. | 1st/2nd cent.<br>AD | [114] |
+| Parthenopaeus | Atalanta | Apollod. | 1st/2nd cent.
+AD | [114] |
 |---------------------|------------------------|--------------------|---------------------|-------|
 | Solymus | Caldene | Etym. Mag. | 12th cent. AD | [115] |
 | Phlegyas | Chryse | Paus. | 2nd cent. AD | [116] |
-| | Dotis | Apollod. | 1st/2nd cent.<br>AD | [117] |
+| | Dotis | Apollod. | 1st/2nd cent.
+AD | [117] |
 | Pangaeus | Critobule | Ps Plutarch | | [118] |
-| Molus, Pylus | Demonice | Apollod. | 1st/2nd cent.<br>AD | [119] |
+| Molus, Pylus | Demonice | Apollod. | 1st/2nd cent.
+AD | [119] |
 | | Pisidice | Ps Plutarch | | [120] |
-| Thestius | Demonice | Apollod. | 1st/2nd cent.<br>AD | [121] |
+| Thestius | Demonice | Apollod. | 1st/2nd cent.
+AD | [121] |
 | Stymphelus | Dormothea | Ps Plutarch | | [122] |
 | Antiope | | Hyg. Fab. | 1st cent. AD | [123] |
 | Hippolyta | | Hyg. Fab. | 1st cent. AD | [124] |
 | Melanippe | Otrera | | | |
-| Penthesilea | | Apollod. | 1st/2nd cent.<br>AD | [125] |
+| Penthesilea | | Apollod. | 1st/2nd cent.
+AD | [125] |
 | Sinope | Parnassa | Eumelus | | [126] |
 | Lycaon | Pyrene | | | [127] |
 | Lycastus | | Ps Plutarch | | [128] |
 | Parrhasius | Phylonome | Ps Plutarch | | [128] |
-| Oxylus | Protogeneia | Apollod. | 1st/2nd cent.<br>AD | [129] |
+| Oxylus | Protogeneia | Apollod. | 1st/2nd cent.
+AD | [129] |
 | Bithys | Sete | | | [130] |
 | Tmolus | Theogone | Ps Plutarch | | [131] |
 | Ismarus | Thracia | | | [97] |
 | Alcon of Thrace | | Hyg. Fab. | 1st cent. AD | [132] |
 | Chalyps | | | | [133] |
-| Cheimarrhoos | | Schol. Hes.,<br>WD | | [134] |
-| Dryas | | Apollod. | 1st/2nd cent.<br>AD | [135] |
+| Cheimarrhoos | | Schol. Hes.,
+WD | | [134] |
+| Dryas | | Apollod. | 1st/2nd cent.
+AD | [135] |
 | Hyperbius | | | | [136] |
-| Lycus of Libya | No mother<br>mentioned | | | [137] |
+| Lycus of Libya | No mother
+mentioned | | | [137] |
 | Nisos | | Hyg. Fab. | 1st cent. AD | [138] |
 | Oeagrus | | Nonnus | 5th cent. AD | [139] |
 | Paeon | | Etym. Mag. | 12th cent. AD | [92] |
-| Portheus (Porthaon) | | Ant. Lib. | 2nd/3rd cent.<br>AD | [140] |
-| Tereus | | Apollod. | 1st/2nd cent.<br>AD | [141] |
+| Portheus (Porthaon) | | Ant. Lib. | 2nd/3rd cent.
+AD | [140] |
+| Tereus | | Apollod. | 1st/2nd cent.
+AD | [141] |
 
 ## **Mars**
 
@@ -300,7 +326,7 @@ In the [Hellenization](https://en.wikipedia.org/wiki/Hellenization) of [Latin li
 
 # Renaissance and later depictions
 
-In <u>Renaissance</u> and <u>Neoclassical</u> works of art, Ares's symbols are a spear and helmet, his animal is a dog, and his bird is the <u>vulture</u>. In literary works of these eras, Ares is replaced by the Roman <u>Mars</u>, a romantic emblem of manly valor rather than the cruel and blood-thirsty god of Greek mythology.
+In Renaissance and Neoclassical works of art, Ares's symbols are a spear and helmet, his animal is a dog, and his bird is the vulture. In literary works of these eras, Ares is replaced by the Roman Mars, a romantic emblem of manly valor rather than the cruel and blood-thirsty god of Greek mythology.
 
 ### In popular culture
 
@@ -366,13 +392,13 @@ In <u>Renaissance</u> and <u>Neoclassical</u> works of art, Ares's symbols are a
 
 - 38. Hughes, Dennis D., *Human Sacrifice in Ancient Greece*, Routledge, 1991, Taylor & Francis e-Library, 2003, p. 128, [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier)) [0-203-03283-7](https://en.wikipedia.org/wiki/Special:Book Sources/0-203-03283-7). Hughes is citing Apollodorus of Athens, Die Fragmente der griechischen Historike, 244 F 125. English translation of Porphyry is in Porphyry. *[On Abstinence from Killing Animals](https://en.wikipedia.org/wiki/On_Abstinence_from_Eating_Animals)*. p. [II.55 \(https://](https://www.tertullian.org/fathers/porphyry_abstinence_02_book2.htm) [www.tertullian.org/fathers/porphyry\\_abstinence\\_02\\_book2.htm\)](https://www.tertullian.org/fathers/porphyry_abstinence_02_book2.htm).
 - 39. ["Herodotus, The Histories, Book 5, chapter 7, section 1" \(https://www.perseus.tufts.edu/hopper/text?doc=Pers](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0126:book=5:chapter=7:section=1) [eus:text:1999.01.0126:book=5:chapter=7:section=1\).](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0126:book=5:chapter=7:section=1) *www.perseus.tufts.edu*. Retrieved 2021-07-23.
-- 40. Oppermann, Manfred, Dimittrova, Nora M., *religion, Thracian*, "Oxford Classical Dictionary, <https://doi.org/10.1093/acrefore/9780199381135.013.5553> ..."Ares suggests the existence of a war-god, Dionysus probably stood for a deity of orgiastic character linked with fertility and vegetation, while Artemis was an embodiment of the major female deity, frequently interpreted as the Great Goddess"...
+- 40. Oppermann, Manfred, Dimittrova, Nora M., *religion, Thracian*, "Oxford Classical Dictionary,  ..."Ares suggests the existence of a war-god, Dionysus probably stood for a deity of orgiastic character linked with fertility and vegetation, while Artemis was an embodiment of the major female deity, frequently interpreted as the Great Goddess"...
 - 41. Sulimirski, T. (1985). "The Scyths" in: Fisher, W. B. (Ed.) The Cambridge History of Iran, Vol. 2: The Median and Achaemenian Periods. Cambridge: Cambridge University Press. [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier)) [0-521-20091-1.](https://en.wikipedia.org/wiki/Special:Book Sources/0-521-20091-1) pp. 158–159. Sulimirski is citing Herodotus, Book IV, 71-73, for the account of sacrifice to Ares.
 - 42. Geary, Patrick J. (1994). "Chapter 3. Germanic Tradition and Royal Ideology in the Ninth Century: The Visio Karoli Magni". Living with the Dead in the Middle Ages. Cornell University Press. p. 63. [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier)) [978-0-8014-](https://en.wikipedia.org/wiki/Special:Book Sources/978-0-8014-8098-0) [8098-0](https://en.wikipedia.org/wiki/Special:Book Sources/978-0-8014-8098-0).
 - 43. Gonzales, 2005, pp.263, 271, 280-283.
 - 44. Millington, A. T. (2013) "Iyarri at the Interface: The Origins of Ares" in A. Mouton, I. Rutherford, & I. Yakubovich (eds.) *Luwian Identities: Culture, Language and Religion Between Anatolia and the Aegean* (Leiden) pp.555- 557
-- 45. Martha W. Baldwin Bowsky. "Portrait of a Polis: Lato Pros Kamara (Crete) in the Late Second Century B. C." Hesperia: The Journal of the American School of Classical Studies at Athens, vol. 58, no. 3, The American School of Classical Studies at Athens, 1989, pp. 331–47, <https://doi.org/10.2307/148222>
-- 46. This refers to a double-temple to Aphrodite and Ares reported by Pausanias. Its cult practises are unknown. See Fusco, U. (2017). The Sanctuary of Aphrodite and Ares (Paus. 2.25.1) in the Periurban Area of Argos and Temples with a Double Cella in Greece. Tekmeria, 13, 97-124. doi:<https://doi.org/10.12681/tekmeria.1073>.
+- 45. Martha W. Baldwin Bowsky. "Portrait of a Polis: Lato Pros Kamara (Crete) in the Late Second Century B. C." Hesperia: The Journal of the American School of Classical Studies at Athens, vol. 58, no. 3, The American School of Classical Studies at Athens, 1989, pp. 331–47, 
+- 46. This refers to a double-temple to Aphrodite and Ares reported by Pausanias. Its cult practises are unknown. See Fusco, U. (2017). The Sanctuary of Aphrodite and Ares (Paus. 2.25.1) in the Periurban Area of Argos and Temples with a Double Cella in Greece. Tekmeria, 13, 97-124. doi:.
 - 47. Millington, Alexander T., "Iyarri at the Interface: The Origins of Ares" in A. Mouton, I. Rutherford, & I. Yakubovich (eds.) *Luwian Identities: Culture, Language and Religion Between Anatolia and the Aegean* (Leiden) 2013, pp.555-557
 - 48. Millington, Alexander T., *War and the Warrior: Functions of Ares in Literature and Cult*, University College, London, 2013, pp. 101-105 [\[3\] \(https://discovery.ucl.ac.uk/id/eprint/1427880/1/Alexander\\_Thomas\\_Millington\\_](https://discovery.ucl.ac.uk/id/eprint/1427880/1/Alexander_Thomas_Millington_Ares_-_Full_PhD_Thesis_(corrected).pdf) [Ares\\_-\\_Full\\_PhD\\_Thesis\\_\(corrected\).pdf\)](https://discovery.ucl.ac.uk/id/eprint/1427880/1/Alexander_Thomas_Millington_Ares_-_Full_PhD_Thesis_(corrected).pdf)
 - 49. [Glen Bowersock](https://en.wikipedia.org/wiki/Glen_Bowersock), *The Throne of Adulis: Red Sea Wars on the Eve of Islam* (Oxford University Press, 2013), pp. 45, 47–48.
@@ -399,7 +425,7 @@ In <u>Renaissance</u> and <u>Neoclassical</u> works of art, Ares's symbols are a
 - 69. [Nonnus,](https://en.wikipedia.org/wiki/Nonnus) *[Dionysiaca](https://en.wikipedia.org/wiki/Dionysiaca)* [18.274–288 \(II pp. 82, 83\) \(https://archive.org/details/dionysiaca02nonnuoft/page/82/mod](https://archive.org/details/dionysiaca02nonnuoft/page/82/mode/2up?view=theater) [e/2up?view=theater\).](https://archive.org/details/dionysiaca02nonnuoft/page/82/mode/2up?view=theater)
 - 70. [Apollonius of Rhodes,](https://en.wikipedia.org/wiki/Apollonius_of_Rhodes) *[Argonautica](https://en.wikipedia.org/wiki/Argonautica)* [3.1225–7 \(pp. 276–277\) \(https://archive.org/stream/argonautica00apoluoft](https://archive.org/stream/argonautica00apoluoft#page/276/mode/2up) [#page/276/mode/2up\);](https://archive.org/stream/argonautica00apoluoft#page/276/mode/2up) [Claudian,](https://en.wikipedia.org/wiki/Claudian) *Gigantomachia* [85–91 \(pp. 286–287\) \(https://archive.org/stream/claudia02cl](https://archive.org/stream/claudia02clau#page/286/mode/2up) [au#page/286/mode/2up\)](https://archive.org/stream/claudia02clau#page/286/mode/2up).
 - 71. Myers, Sarah, University of Michigan, reviewing Celoria's translation in *Bryn Mawr Classical Review*, 1994 ([on-line text \(http://ccat.sas.upenn.edu/bmcr/1994/94.01.03.html\)\)](http://ccat.sas.upenn.edu/bmcr/1994/94.01.03.html).
-- 72. Francis Celoria points out that in Ovid's *Metamorphoses*, Venus [Aphrodite's Roman equivalent], hides herself as a fish. See Celoria, Francis, Antoninus Liberalis, *The Metamorphoses of Antoninus Liberalis*, A Translation with a Commentary, 1992, pp. 87, 186, e Book Published 24 October 2018, London, Routledge, [\[4\] \(https://boo](https://books.google.com/books?id=9_Eolzuv0eQC&dq=Antoninus+Liberalis+Typhon&pg=PA71) [ks.google.com/books?id=9\\_Eolzuv0eQC&dq=Antoninus+Liberalis+Typhon&pg=PA71\)](https://books.google.com/books?id=9_Eolzuv0eQC&dq=Antoninus+Liberalis+Typhon&pg=PA71) DOI <https://doi.org/10.4324/9781315812755>
+- 72. Francis Celoria points out that in Ovid's *Metamorphoses*, Venus [Aphrodite's Roman equivalent], hides herself as a fish. See Celoria, Francis, Antoninus Liberalis, *The Metamorphoses of Antoninus Liberalis*, A Translation with a Commentary, 1992, pp. 87, 186, e Book Published 24 October 2018, London, Routledge, [\[4\] \(https://boo](https://books.google.com/books?id=9_Eolzuv0eQC&dq=Antoninus+Liberalis+Typhon&pg=PA71) [ks.google.com/books?id=9\\_Eolzuv0eQC&dq=Antoninus+Liberalis+Typhon&pg=PA71\)](https://books.google.com/books?id=9_Eolzuv0eQC&dq=Antoninus+Liberalis+Typhon&pg=PA71) DOI 
 - 73. *Iliad* [5.830–834 \(http://data.perseus.org/citations/urn:cts:greek Lit:tlg0012.tlg001.perseus-eng1:5.792-5.834\)](http://data.perseus.org/citations/urn:cts:greek Lit:tlg0012.tlg001.perseus-eng1:5.792-5.834), [5.590–605 \(http://data.perseus.org/citations/urn:cts:greek Lit:tlg0012.tlg001.perseus-eng1:5.576-5.626\),](http://data.perseus.org/citations/urn:cts:greek Lit:tlg0012.tlg001.perseus-eng1:5.576-5.626) [21.410–414 \(http://data.perseus.org/citations/urn:cts:greek Lit:tlg0012.tlg001.perseus-eng1:21.400-21.433\)](http://data.perseus.org/citations/urn:cts:greek Lit:tlg0012.tlg001.perseus-eng1:21.400-21.433).
 - 74. *Iliad* [5.711–769 \(http://data.perseus.org/citations/urn:cts:greek Lit:tlg0012.tlg001.perseus-eng1:5.711-5.763\)](http://data.perseus.org/citations/urn:cts:greek Lit:tlg0012.tlg001.perseus-eng1:5.711-5.763), [5.780–834 \(http://data.perseus.org/citations/urn:cts:greek Lit:tlg0012.tlg001.perseus-eng1:5.764-5.791\),](http://data.perseus.org/citations/urn:cts:greek Lit:tlg0012.tlg001.perseus-eng1:5.764-5.791) [5.855–864 \(http://data.perseus.org/citations/urn:cts:greek Lit:tlg0012.tlg001.perseus-eng1:5.835-5.863\).](http://data.perseus.org/citations/urn:cts:greek Lit:tlg0012.tlg001.perseus-eng1:5.835-5.863)
 - 75. *Iliad* [15.110–128 \(http://data.perseus.org/citations/urn:cts:greek Lit:tlg0012.tlg001.perseus-eng1:15.78-15.11](http://data.perseus.org/citations/urn:cts:greek Lit:tlg0012.tlg001.perseus-eng1:15.78-15.112) [2\),](http://data.perseus.org/citations/urn:cts:greek Lit:tlg0012.tlg001.perseus-eng1:15.78-15.112) [20.20–29 \(http://data.perseus.org/citations/urn:cts:greek Lit:tlg0012.tlg001.perseus-eng1:20.1-20.29\)](http://data.perseus.org/citations/urn:cts:greek Lit:tlg0012.tlg001.perseus-eng1:20.1-20.29), [21.391–408 \(http://data.perseus.org/citations/urn:cts:greek Lit:tlg0012.tlg001.perseus-eng1:21.361-21.399\)](http://data.perseus.org/citations/urn:cts:greek Lit:tlg0012.tlg001.perseus-eng1:21.361-21.399).

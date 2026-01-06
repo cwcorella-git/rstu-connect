@@ -1,12 +1,8 @@
 ---
-title: North Dakota Protest and Organized Labor
-date: 2025
-author: Industrial Workers of the World
-tags:
-  - organizing
-  - unions
-  - tenants
-  - police
+title: "North Dakota Protest and Organized Labor"
+author: "Industrial Workers of the World"
+date: "2025"
+category: "labor"
 ---
 
 # North Dakota Protest and Organized Labor

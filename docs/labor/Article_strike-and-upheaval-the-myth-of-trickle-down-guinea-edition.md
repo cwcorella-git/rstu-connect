@@ -1,13 +1,8 @@
 ---
-title: Strike And Upheaval The Myth Of Trickle Down Guinea Edition
-date: 2025
-author: Unknown
-tags:
-  - organizing
-  - strikes
-  - unions
-  - rent
-  - police
+title: "Strike And Upheaval The Myth Of Trickle Down Guinea Edition"
+author: "Unknown"
+date: "2025"
+category: "labor"
 ---
 
 # Strike And Upheaval The Myth Of Trickle Down Guinea Edition

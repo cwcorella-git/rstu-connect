@@ -1,16 +1,10 @@
 ---
-title: Anarchism And The Black Revolution
-slug: Anarchism and the Black Revolution
-reconversion_status: ready_for_reconversion
-author: Lorenzo Kom’boa Ervin
-date: 1993
-tags:
-  - theory
-  - anarchism
-  - strikes
-  - unions
-  - tenants
+title: "Anarchism And The Black Revolution"
+author: "Lorenzo Kom’boa Ervin"
+date: "1993"
+category: "theory"
 ---
+
 # **Lorenzo Kom'boa Ervin**
 
 # **Anarchism and the Black Revolution**

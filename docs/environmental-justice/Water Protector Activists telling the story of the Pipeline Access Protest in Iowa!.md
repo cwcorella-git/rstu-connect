@@ -1,3 +1,8 @@
+---
+title: "## **Water Protector Activists telling the story of the Pipeline Access Protest in Iowa!**"
+category: "environmental-justice"
+---
+
 ## **Water Protector Activists telling the story of the Pipeline Access Protest in Iowa!**
 
 ## **Date:** Thu, 10/20/2016 - 15:23
@@ -24,6 +29,7 @@ Unicorn Riot's purpose is to amplify the voices of people who might otherwise go
 
 | Disclaimer: | |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
-| The views expressed here are not the official position of the IWW (or even the IWW's EUC)<br>and do not necessarily represent the views of anyone but the author's. | |
+| The views expressed here are not the official position of the IWW (or even the IWW's EUC)
+and do not necessarily represent the views of anyone but the author's. | |
 
 social conflict and explores sustainable alternatives in today's globalized world.

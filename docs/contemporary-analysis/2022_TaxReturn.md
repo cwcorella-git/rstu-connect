@@ -1,3 +1,8 @@
+---
+title: "**SCHEDULE 8812 (Form 1040)**"
+category: "contemporary-analysis"
+---
+
 Review your print out for checklist items.
 
 E 1040 Department of the Treasury—Internal Revenue Service U. S. Individual Income Tax Return
@@ -10,55 +15,76 @@ E 1040 Department of the Treasury—Internal Revenue Service U. S. Individual In
 
 IRS Use Only-Do not write or staple in this space.
 
-| Filing Status<br>Check only<br>one box. | If yo | Single Married filing jointly under the MFS box, enter the nation is a child but not your dependent | ame of y | ed filing separately (Notes) | , | | | hold (HOI<br>box, ente | , _ | spou | ifying surv<br>ise (QSS)<br>name if th | Ü |
+| Filing Status
+Check only
+one box. | If yo | Single Married filing jointly under the MFS box, enter the nation is a child but not your dependent | ame of y | ed filing separately (Notes) | , | | | hold (HOI
+box, ente | , _ | spou | ifying surv
+ise (QSS)
+name if th | Ü |
 |--------------------------------------------|-----------------------------------------|-----------------------------------------------------------------------------------------------------|------------|-------------------------------|-------|-----------------|--------|------------------------|--------|-----------------------------|----------------------------------------|-----------------------------|
 | Your first name | first name and middle initial Last name | | | | | | | | , | Your social security number | | |
 | Christon | her | W | Core | lla | | | | | | 385-1 | L7-2724 | ŀ |
 | If joint return, s | pouse's | s first name and middle initial | Last nar | ne | | | | | : | Spouse's | s social sec | urity number |
 | Home address | (numbe | er and street). If you have a P. O. box, see | instructio | ons. | | | , | Apt. no. | | Presider | ntial Electio | n Campaigr |
-| <u>1551 N V</u> | /irg | inia St | | | | | | 502A | | | ere if you, | • |
-| City, town, or p | ost offi | ce. If you have a foreign address, also co | mplete sp | paces below. | Sta | te | ZIP c | ode | | | this fund. ( | tly, want \$3<br>Checking a |
+| 1551 N V | /irg | inia St | | | | | | 502A | | | ere if you, | • |
+| City, town, or p | ost offi | ce. If you have a foreign address, also co | mplete sp | paces below. | Sta | te | ZIP c | ode | | | this fund. ( | tly, want \$3
+Checking a |
 | Reno | | | | | N/ | 7 | 895 | 03174 | 6 | box belo | w will not | _ |
 | Foreign country | / name | | F | Foreign province/state/o | count | ty | Forei | gn postal co | ode ! | your tax | or refund. | Spouse |
 | Digital | | ny time during 2022, did you: (a) rece | , | · | | | • | , | . , | , | | |
 | Assets | | ange, gift, or otherwise dispose of a | | | | | asset | ? (See in | struc | tions.) | ∐ Yes | ⊠ No |
-| Standard Deduction | _ | <b>leone can claim:</b> | • | | | a dependent | | | | | | |
+| Standard Deduction | _ | leone can claim: | • | | | a dependent | | | | | | |
 | Age/Blindness | You: | : Were born before January 2, 1 | 958 | Are blind Spo | ouse | : Was bor | rn bef | ore Janua | ary 2, | 1958 | Is bli | nd |
 | Dependents | s (see | instructions): | | (2) Social security | , | (3) Relationsh | nip (4 | 1) Check th | ne box | if qualif | ies for (see i | instructions): |
 | If more | | irst name Last name | | number | | to you | | Child to | ax cre | dit | Credit for oth | er dependents |
 | than four | Vor | nadrain W Robinson, Jr | | 619-27-643 | 8 | Other | | | | | 2 | K |
-| dependents,<br>see instructions | s —— | | | | | | | | | | | ] |
+| dependents,
+see instructions | s —— | | | | | | | | | | | ] |
 | and check | | | | | | | | | | | | ] |
-| here L | | | | | | | | | | | | <u> </u> |
+| here L | | | | | | | | | | | |   |
 | Income | 1a | Total amount from Form(s) W-2, be | ox 1 (see | e instructions) | | | | | | 1a | 1 | 1,909. |
 | | b | Household employee wages not re | eported ( | on Form(s) W-2 . | | | | | | 1b | | |
-| Attach Form(s)<br>W-2 here. Also | С | Tip income not reported on line 1a | (see ins | structions) | | | | | | 1c | | |
+| Attach Form(s)
+W-2 here. Also | С | Tip income not reported on line 1a | (see ins | structions) | | | | | | 1c | | |
 | attach Forms | d | Medicaid waiver payments not rep | orted or | n Form(s) W-2 (see in | nstru | ıctions) | | | | 1d | | |
-| W-2G and<br>1099-R if tax | е | Taxable dependent care benefits f | | * | | | | | | 1e | | |
+| W-2G and
+1099-R if tax | е | Taxable dependent care benefits f | | * | | | | | | 1e | | |
 | was withheld. | f | Employer-provided adoption bene | fits from | Form 8839, line 29 | | | | | | 1f | | |
 | If you did not | g | Wages from Form 8919, line 6 . | | | | | | | | 1g | | |
-| get a Form<br>W-2, see | h | Other earned income (see instructi | , | | | | ή. | | | 1h | - | 0. |
-| instructions. | i | Nontaxable combat pay election (s | see instr | uctions) | | <u>1</u> i | | | | | | |
+| get a Form
+W-2, see | h | Other earned income (see instructi | , | | | | ή. | | | 1h | - | 0. |
+| instructions. | i | Nontaxable combat pay election (s | see instr | uctions) | | 1 i | | | | | | |
 | | Z | Add lines 1a through 1h | | | | | | | | 1z | 1 | 1,909. |
 | Attach Sch. B | 2a | | 2a | | | axable interes | | | | 2b | | |
-| if required. | <u>3a</u> | | 3a | | | ordinary divide | | | | 3b | | |
-| | 4a<br>- | | 4a | | | axable amoun | | | | 4b | | |
-| Standard<br>Deduction for— | 5a | <del>-</del> | 5a | | | axable amoun | | | | 5b | | |
+| if required. | 3a | | 3a | | | ordinary divide | | | | 3b | | |
+| | 4a
+- | | 4a | | | axable amoun | | | | 4b | | |
+| Standard
+Deduction for— | 5a | - | 5a | | | axable amoun | | | | 5b | | |
 | Single or | 6a | , | 6a | | | axable amoun | | | | 6b | | |
 | Married filing separately, | c | If you elect to use the lump-sum e | | • | ` | , | | | | | | |
 | \$12,950 | 7 | Capital gain or (loss). Attach Sched | | | | • | | | | 7 | | |
-| Married filing jointly or | 8 | Other income from Schedule 1, lin | | This is your <b>total inc</b> | | | | | | 8 | - | 1 000 |
-| Qualifying surviving spouse, | 9 | Add lines 1z, 2b, 3b, 4b, 5b, 6b, 7, | | | | 9<br> | | | | 9 | + | 1,909. |
-| \$25,900 | 10<br>11 | Adjustments to income from Sche-<br>Subtract line 10 from line 9. This is | | | | | | | | 10 | 1 | 1 000 |
-| <ul> <li>Head of<br/>household,</li> </ul> | Standard deduction or itemized | | | | | | | 11 | | 1,909. | | |
-| \$19,400<br>If you checked | 12<br>13 | Qualified business income deduction | | , | , | <br>5-Δ | | | | 12 | | 2,950. |
+| Married filing jointly or | 8 | Other income from Schedule 1, lin | | This is your total inc | | | | | | 8 | - | 1 000 |
+| Qualifying surviving spouse, | 9 | Add lines 1z, 2b, 3b, 4b, 5b, 6b, 7, | | | | 9
+ | | | | 9 | + | 1,909. |
+| \$25,900 | 10
+11 | Adjustments to income from ScheSubtract line 10 from line 9. This is | | | | | | | | 10 | 1 | 1 000 |
+|  - Head of
+household,
+  | Standard deduction or itemized | | | | | | | 11 | | 1,909. | | |
+| \$19,400
+If you checked | 12
+13 | Qualified business income deduction | | , | , | 
+5-Δ | | | | 12 | | 2,950. |
 | any box under | 14 | Add lines 12 and 13 | | | | | | | | 14 | | 2,950. |
-| Standard<br>Deduction, | 15 | Subtract line 14 from line 11. If zer | | | | | | | | 15 | | 0. |
-| see instructions. | .5 | Subtract into 14 HOITI IIII 6 11. II 261 | 0 01 1033 | , onto 0 IIII 15 y | Jui | azabie iliculi | | | | 13 | | <u> </u> |
+| Standard
+Deduction, | 15 | Subtract line 14 from line 11. If zer | | | | | | | | 15 | | 0. |
+| see instructions. | .5 | Subtract into 14 HOITI IIII 6 11. II 261 | 0 01 1033 | , onto 0 IIII 15 y | Jui | azabie iliculi | | | | 13 | |   |
 
 | Form 1040 (2022) | | | | | | | | | | | Page 2 | |
 |--------------------------------------|-------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|---------------|---------------------|-------------------------------|--------------|-------------------------------------------------------|-----------|------------------|--------|--|
-| Tax and | 16 | Tax (see instructions). Check if any from Form(s): 1 | | 8814 | 2<br>4972 | 3 | | 16 | | | 0. | |
+| Tax and | 16 | Tax (see instructions). Check if any from Form(s): 1 | | 8814 | 2
+4972 | 3 | | 16 | | | 0. | |
 | Credits | 17 | Amount from Schedule 2, line 3 | | | | | | 17 | | | | |
 | | 18 | Add lines 16 and 17 . | | | | | | 18 | | | 0. | |
 | | 19 | Child tax credit or credit for other dependents from Schedule 8812 . | | | | | | 19 | | | | |
@@ -82,24 +108,37 @@ IRS Use Only-Do not write or staple in this space.
 | | 33 | Add lines 25d, 26, and 32. These are your total payments | | | | | | 33 | | | 1,427. | |
 | Refund | 34 | If line 33 is more than line 24, subtract line 24 from line 33. This is the amount you overpaid | | | | | | 34 | | | 1,427. | |
 | | 35a | Amount of line 34 you want refunded to you. If Form 8888 is attached, check here | | | | | | 35a | | | 1,427. | |
-| Direct deposit?<br>See instructions. | b<br>d | Routing number<br>Account number | | | c Type: | Checking | | Savings | | | | |
+| Direct deposit?
+See instructions. | b
+d | Routing number
+Account number | | | c Type: | Checking | | Savings | | | | |
 | | 36 | Amount of line 34 you want applied to your 2023 estimated tax . | | | | 36 | | | | | | |
-| Amount<br>You Owe | 37 | Subtract line 33 from line 24. This is the amount you owe.<br>For details on how to pay, go to www.irs.gov/Payments or see instructions . | | | | | | 37 | | | | |
+| Amount
+You Owe | 37 | Subtract line 33 from line 24. This is the amount you owe.
+For details on how to pay, go to www.irs.gov/Payments or see instructions . | | | | | | 37 | | | | |
 | | 38 | Estimated tax penalty (see instructions) | | | | 38 | | | | | | |
-| Third Party<br>Designee | | Do you want to allow another person to discuss this return with the IRS? See<br>instructions | | | | | | Yes. Complete below. | | No | | |
+| Third Party
+Designee | | Do you want to allow another person to discuss this return with the IRS? See
+instructions | | | | | | Yes. Complete below. | | No | | |
 | | | Designee's | | Phone | | | | Personal identification | | | | |
 | | | name | | no. | | | number (PIN) | | | | | |
-| Sign | | Under penalties of perjury, I declare that I have examined this return and accompanying schedules and statements, and to the best of my knowledge and<br>belief, they are true, correct, and complete. Declaration of preparer (other than taxpayer) is based on all information of which preparer has any knowledge. | | | | | | | | | | |
+| Sign | | Under penalties of perjury, I declare that I have examined this return and accompanying schedules and statements, and to the best of my knowledge and
+belief, they are true, correct, and complete. Declaration of preparer (other than taxpayer) is based on all information of which preparer has any knowledge. | | | | | | | | | | |
 | Here | | Your signature | | | | | | If the IRS sent you an Identity | | | | |
 | | | | | Date | Your occupation | | | Protection PIN, enter it here | | | | |
 | Joint return? | | | | | Machine Operator | | | (see inst.) | | | | |
 | See instructions. | | Spouse's signature. If a joint return, both must sign. | | Date | Spouse's occupation | | | If the IRS sent your spouse an | | | | |
-| Keep a copy for<br>your records. | | | | | | | | Identity Protection PIN, enter it here<br>(see inst.) | | | | |
+| Keep a copy for
+your records. | | | | | | | | Identity Protection PIN, enter it here
+(see inst.) | | | | |
 | | | | | | | | | | | | | |
-| | | Phone no.<br>(941)928-2228 | Preparer's signature | Email address | | Date | | PTIN | Check if: | | | |
+| | | Phone no.
+(941)928-2228 | Preparer's signature | Email address | | Date | | PTIN | Check if: | | | |
 | Paid | Preparer's name | | | | | | | | | | | |
 | Preparer | | | | | | | | | | Self-employed | | |
-| Use Only | Self-Prepared<br>Firm's name<br>Phone no. | | | | | | | | | | | |
+| Use Only | Self-Prepared
+Firm's name
+Phone no. | | | | | | | | | | | |
 | | Firm's address | | | | | | | | | Firm's EIN | | |
 | | | Go to www.irs.gov/Form1040 for instructions and the latest information. | | | BAA | REV 07/23/23 Intuit.cg.cfp.sp | | | | Form 1040 (2022) | | |
 
@@ -119,7 +158,7 @@ Department of the Treasury Internal Revenue Service
 
 **Go to** *www.irs.gov/Schedule8812* **for instructions and the latest information.**
 
-Name(s) shown on return **Your social security number Part I Child Tax Credit and Credit for Other Dependents 1** Enter the amount from line 11 of your Form 1040, 1040-SR, or 1040-NR ............ **1 2a** Enter income from Puerto Rico that you excluded ........... **2a b** Enter the amounts from lines 45 and 50 of your Form 2555 ........ **2b c** Enter the amount from line 15 of your Form 4563 ........... **2c d** Add lines 2a through 2c ........................... **2d 3** Add lines 1 and 2d ............................ **3 4** Number of qualifying children under age 17 with the required social security number **4 5** Multiply line 4 by \$2,000 .......................... **5 6** Number of other dependents, including any qualifying children who are not under age 17 or who do not have the required social security number ........ **Caution:** Do not include yourself, your spouse, or anyone who is not a U. S. citizen, U. S. national, or U. S. resident alien. Also, do not include anyone you included on line 4. **6 7** Multiply line 6 by \$500 ........................... **7 8** Add lines 5 and 7 ............................. **8 9** Enter the amount shown below for your filing status. • Married filing jointly—\$400,000 • All other filing statuses—\$200,000 } ...................... **<sup>9</sup> 10** Subtract line 9 from line 3. • If zero or less, enter -0-. • If more than zero and not a multiple of \$1,000, enter the next multiple of \$1,000. For example, if the result is \$425, enter \$1,000; if the result is \$1,025, enter \$2,000, etc. } ....... **<sup>10</sup>** Christopher W Corella 385-17-2724 0. 0. 11,909. 0 1 500. 500. 200,000. 0. 11,909.
+Name(s) shown on return **Your social security number Part I Child Tax Credit and Credit for Other Dependents 1** Enter the amount from line 11 of your Form 1040, 1040-SR, or 1040-NR ............ **1 2a** Enter income from Puerto Rico that you excluded ........... **2a b** Enter the amounts from lines 45 and 50 of your Form 2555 ........ **2b c** Enter the amount from line 15 of your Form 4563 ........... **2c d** Add lines 2a through 2c ........................... **2d 3** Add lines 1 and 2d ............................ **3 4** Number of qualifying children under age 17 with the required social security number **4 5** Multiply line 4 by \$2,000 .......................... **5 6** Number of other dependents, including any qualifying children who are not under age 17 or who do not have the required social security number ........ **Caution:** Do not include yourself, your spouse, or anyone who is not a U. S. citizen, U. S. national, or U. S. resident alien. Also, do not include anyone you included on line 4. **6 7** Multiply line 6 by \$500 ........................... **7 8** Add lines 5 and 7 ............................. **8 9** Enter the amount shown below for your filing status. • Married filing jointly—\$400,000 • All other filing statuses—\$200,000 } ...................... **9 10** Subtract line 9 from line 3. • If zero or less, enter -0-. • If more than zero and not a multiple of \$1,000, enter the next multiple of \$1,000. For example, if the result is \$425, enter \$1,000; if the result is \$1,025, enter \$2,000, etc. } ....... **10** Christopher W Corella 385-17-2724 0. 0. 11,909. 0 1 500. 500. 200,000. 0. 11,909.
 
 If the amount on line 12 is more than the amount on line 14, you may be able to take the **additional child tax credit** on Form 1040, 1040-SR, or 1040-NR, line 28. Complete your Form 1040, 1040-SR, or 1040-NR through line 27 (also complete Schedule 3, line 11) before completing Part II-A.
 
@@ -141,20 +180,29 @@ Skip Parts II-A and II-B. Enter -0- on lines 14 and 27. **Yes.** Subtract line 1
 |-----------|-------------------------------------------------------------------------------------------------------------------------------------------------------|-----|------|
 | | Caution: If you file Form 2555, you cannot claim the additional child tax credit. | | |
 | 15 | Check this box if you do not want to claim the additional child tax credit. Skip Parts II-A and II-B. Enter -0- on line 27 | | |
-| 16a | Subtract line 14 from line 12. If zero, stop here; you cannot take the additional child tax credit. Skip Parts II-A<br>and II-B. Enter -0- on line 27 | 16a | 500. |
-| b | 0<br>Number of qualifying children under 17 with the required social security number:<br>x \$1,500. | | |
+| 16a | Subtract line 14 from line 12. If zero, stop here; you cannot take the additional child tax credit. Skip Parts II-A
+and II-B. Enter -0- on line 27 | 16a | 500. |
+| b | 0
+Number of qualifying children under 17 with the required social security number:
+x \$1,500. | | |
 | | Enter the result. If zero, stop here; you cannot claim the additional child tax credit. Skip Parts II-A and II-B. | | |
 | | Enter -0- on line 27 | 16b | 0. |
 | | TIP: The number of children you use for this line is the same as the number of children you used for line 4. | | |
 | 17 | Enter the smaller of line 16a or line 16b . | 17 | |
-| 18a | 11,909.<br>Earned income (see instructions)<br>18a | | |
-| b | Nontaxable combat pay (see instructions) .<br>18b | | |
+| 18a | 11,909.
+Earned income (see instructions)
+18a | | |
+| b | Nontaxable combat pay (see instructions) .
+18b | | |
 | 19 | Is the amount on line 18a more than \$2,500? | | |
-| | No.<br>Leave line 19 blank and enter -0- on line 20. | | |
-| | Yes. Subtract \$2,500 from the amount on line 18a. Enter the result<br>19 | | |
+| | No.
+Leave line 19 blank and enter -0- on line 20. | | |
+| | Yes. Subtract \$2,500 from the amount on line 18a. Enter the result
+19 | | |
 | 20 | Multiply the amount on line 19 by 15% (0.15) and enter the result | 20 | |
 | | Next. On line 16b, is the amount \$4,500 or more? | | |
-| | No.<br>If you are a bona fide resident of Puerto Rico, go to line 21. Otherwise, skip Part II-B and enter the | | |
+| | No.
+If you are a bona fide resident of Puerto Rico, go to line 21. Otherwise, skip Part II-B and enter the | | |
 | | smaller of line 17 or line 20 on line 27. | | |
 | | Yes. If line 20 is equal to or more than line 17, skip Part II-B and enter the amount from line 17 on line 27. | | |
 | | Otherwise, go to line 21. | | |
@@ -162,16 +210,23 @@ Skip Parts II-A and II-B. Enter -0- on lines 14 and 27. **Yes.** Subtract line 1
 | 21 | Withheld social security, Medicare, and Additional Medicare taxes from Form(s) W-2, | | |
 | | boxes 4 and 6. If married filing jointly, include your spouse's amounts with yours. If | | |
 | | your employer withheld or you paid Additional Medicare Tax or tier 1 RRTA taxes, see | | |
-| | instructions.<br>21 | | |
+| | instructions.
+21 | | |
 | 22 | Enter the total of the amounts from Schedule 1 (Form 1040), line 15; Schedule 2 (Form | | |
-| | 1040), line 5; Schedule 2 (Form 1040), line 6; and Schedule 2 (Form 1040), line 13 .<br>22 | | |
-| 23 | 23<br>Add lines 21 and 22 . | | |
+| | 1040), line 5; Schedule 2 (Form 1040), line 6; and Schedule 2 (Form 1040), line 13 .
+22 | | |
+| 23 | 23
+Add lines 21 and 22 . | | |
 | 24 | 1040 and | | |
-| | 1040-SR filers:<br>Enter the total of the amounts from Form 1040 or 1040-SR, line 27, | | |
-| | and Schedule 3 (Form 1040), line 11.<br>} | | |
-| | 1040-NR filers: Enter the amount from Schedule 3 (Form 1040), line 11.<br>24 | | |
+| | 1040-SR filers:
+Enter the total of the amounts from Form 1040 or 1040-SR, line 27, | | |
+| | and Schedule 3 (Form 1040), line 11.
+} | | |
+| | 1040-NR filers: Enter the amount from Schedule 3 (Form 1040), line 11.
+24 | | |
 | 25 | Subtract line 24 from line 23. If zero or less, enter -0 | 25 | |
-| 26 | Enter the larger of line 20 or line 25 .<br>Next, enter the smaller of line 17 or line 26 on line 27. | 26 | |
+| 26 | Enter the larger of line 20 or line 25 .
+Next, enter the smaller of line 17 or line 26 on line 27. | 26 | |
 | Part II-C | Additional Child Tax Credit | | |
 | 27 | This is your additional child tax credit. Enter this amount on Form 1040, 1040-SR, or 1040-NR, line 28 . | 27 | |
 ## | | | | |
@@ -189,7 +244,8 @@ Skip Parts II-A and II-B. Enter -0- on lines 14 and 27. **Yes.** Subtract line 1
 | Contributions | | | | | |
 | Misc. deductions | | | | | |
 | Other itemized ded'ns | | | | | |
-| Total itemized/<br>standard deduction | | | | | 12,950. |
+| Total itemized/
+standard deduction | | | | | 12,950. |
 | Exemption amount | | | | | 0. |
 | QBI deduction | | | | | |
 | Taxable income | | | | | 0. |
@@ -200,12 +256,13 @@ Skip Parts II-A and II-B. Enter -0- on lines 14 and 27. **Yes.** Subtract line 1
 | Payments | | | | | 1,427. |
 | Form 2210 penalty | | | | | |
 | Amount owed | | | | | |
-| Applied to next<br>year's estimated tax | | | | | |
+| Applied to next
+year's estimated tax | | | | | |
 | Refund | | | | | 1,427. |
 | Effective tax rate % | | | | | -2.92 |
 ## | **Tax bracket % | | | | | |
 
-<sup>\*\*</sup>Tax bracket % is based on Taxable income.
+\*\*Tax bracket % is based on Taxable income.
 
 # IMPORTANT DISCLOSURES
 
@@ -227,20 +284,54 @@ Information regarding low-cost deposit accounts may be available at www.mymoney.
 
 The chart below shows the options for filing your federal tax returns (e-file or paper returns), the RPS product, refund disbursement options, estimated timing for obtaining your federal tax refund proceeds, and costs associated with the various options.
 
-| WHAT TYPE<br>OF FILING<br>METHOD? | WHAT ARE YOUR<br>DISBURSEMENT<br>OPTIONS? | WHAT IS THE<br>ESTIMATED TIME TO<br>RECEIVE REFUND(S)? | WHAT COSTS DO YOU<br>INCUR IN ADDITION<br>TO TAX PREPARATION<br>FEES? |
+| WHAT TYPE
+OF FILING
+METHOD? | WHAT ARE YOUR
+DISBURSEMENT
+OPTIONS? | WHAT IS THE
+ESTIMATED TIME TO
+RECEIVE REFUND(S)? | WHAT COSTS DO YOU
+INCUR IN ADDITION
+TO TAX PREPARATION
+FEES? |
 |-------------------------------------------------|---------------------------------------------------------|--------------------------------------------------------|-----------------------------------------------------------------------|
-| PAPER RETURN<br>No Refund Processing<br>Service | IRS direct deposit to<br>your personal bank<br>account. | Approximately<br>6 to 8 weeks 1 | No additional cost. |
-| | Check mailed by IRS<br>to address on tax<br>return(s). | Approximately<br>6 to 8 weeks 1 | |
-| ELECTRONIC<br>FILING<br>(E-FILE) | IRS direct deposit to<br>your personal bank<br>account. | Usually within<br>21 days 1 | No additional cost. |
-| No Refund Processing<br>Service | Check mailed by IRS<br>to address on tax<br>return(s). | Approximately<br>21 to 28 days 1 | |
-| ELECTRONIC<br>FILING<br>(E-FILE) | Direct deposit to<br>your personal bank<br>account. | Usually within<br>21 days 1 | \$<br>0.00<br>2 |
-## | Refund Processing<br>Service | | | |
+| PAPER RETURN
+No Refund Processing
+Service | IRS direct deposit to
+your personal bank
+account. | Approximately
+6 to 8 weeks 1 | No additional cost. |
+| | Check mailed by IRS
+to address on tax
+return(s). | Approximately
+6 to 8 weeks 1 | |
+| ELECTRONIC
+FILING
+(E-FILE) | IRS direct deposit to
+your personal bank
+account. | Usually within
+21 days 1 | No additional cost. |
+| No Refund Processing
+Service | Check mailed by IRS
+to address on tax
+return(s). | Approximately
+21 to 28 days 1 | |
+| ELECTRONIC
+FILING
+(E-FILE) | Direct deposit to
+your personal bank
+account. | Usually within
+21 days 1 | \$
+0.00
+2 |
+## | Refund Processing
+Service | | | |
 
 ## Questions? Call 877-908-7228
 
-<sup>1</sup> You may experience delays with your tax refund(s) if, for example, you enter incorrect bank account or contact information, you enter a bank account in someone else's name, or if possible suspicious activity is detected. If your return(s) contains Earned Income Tax Credit or Additional Child Tax Credit, the IRS will issue your refund(s) no earlier than February 15, 2023.
+1 You may experience delays with your tax refund(s) if, for example, you enter incorrect bank account or contact information, you enter a bank account in someone else's name, or if possible suspicious activity is detected. If your return(s) contains Earned Income Tax Credit or Additional Child Tax Credit, the IRS will issue your refund(s) no earlier than February 15, 2023.
 
-<sup>2</sup> The charges here consist of an RPS Fee, a Turbo Tax fee and any fees for additional products and services purchased. See Section 3 of the Refund Processing Service Agreement for the cost of the service you have chosen.
+2 The charges here consist of an RPS Fee, a Turbo Tax fee and any fees for additional products and services purchased. See Section 3 of the Refund Processing Service Agreement for the cost of the service you have chosen.
 
 # **Santa Barbara Tax Products Group, LLC, a division of Green Dot Corporation, a Delaware corporation, and Green Dot Bank Refund Processing Service Agreement ("Agreement")**
 
@@ -255,14 +346,19 @@ This Agreement contains important terms, conditions and disclosures about the pr
 
 ## 3. Summary of Terms
 
-| \$<br>Expected Federal Refund | 1,427.00 |
+| \$
+Expected Federal Refund | 1,427.00 |
 |----------------------------------------------------------------|----------|
-| \$<br>Less Tax Product fees | 29.00 |
-| \$<br>Less Turbo Tax Fees | 0.00 |
-| \$<br>Less Fees for Additional Products and Services Purchased | 0.00 |
-## | \$<br>Expected Proceeds* | 1,398.00 |
+| \$
+Less Tax Product fees | 29.00 |
+| \$
+Less Turbo Tax Fees | 0.00 |
+| \$
+Less Fees for Additional Products and Services Purchased | 0.00 |
+## | \$
+Expected Proceeds* | 1,398.00 |
 
-<sup>\*</sup> These amounts are itemized. This is only an estimate. The amount will be reduced by any applicable sales taxes, and if applicable, a Return Item Fee and an Account Research and Processing Fee paid to Processor as set forth in Sections 4, 6 and 7 below.
+\* These amounts are itemized. This is only an estimate. The amount will be reduced by any applicable sales taxes, and if applicable, a Return Item Fee and an Account Research and Processing Fee paid to Processor as set forth in Sections 4, 6 and 7 below.
 
 4. Temporary Deposit Account Authorization. You hereby authorize Bank to establish a temporary deposit account ("Deposit Account") for the purpose of receiving your tax year 2022 federal tax refund(s) from the IRS. Bank or Processor must receive an acknowledgement from the IRS that your return(s) has been electronically filed and accepted for processing before the Deposit Account can be opened. You authorize Processor to deduct from your Deposit Account the following amounts: (i) the Tax Product fees; (ii) the fees and charges related to the preparation, processing and transmission of your tax return(s) ("Turbo Tax Fees"); and (iii) fees for Additional Products and Services Purchased plus applicable taxes. You also authorize Processor to deduct thirty dollars (\$30.00) as a returned item processing fee (the "Return Item Fee") from your Deposit Account for the additional processing required in the event that your deposit is returned or cannot be delivered as directed in Section 7 below. A fee of \$30.00 (the "Account Research and Processing Fee") may be charged if we are required to provide additional processing to return the funds to the IRS. These fees will be deducted from the Deposit Account and will be retained by Processor. You authorize Processor to disburse the balance of the Deposit Account to you after making all authorized deductions or payments. If the Deposit Account does not have sufficient funds at the time your tax refund is processed to pay the Turbo Tax Fees, Tax Product fees, and the fees for Additional Products and Services Purchased as set forth in Section 3, and any sales tax (collectively "Fees"), or if your refund proceeds are delayed
 
@@ -325,29 +421,94 @@ Bank and Processor agree to all of the terms of this Agreement. By selecting the
 
 # **FACTS WHAT DOES GREEN DOT BANK DO WITH YOUR PERSONAL INFORMATION?**
 
-| Why? | Financial companies choose how they share your personal information. Federal law gives<br>consumers the right to limit some but not all sharing. Federal law also requires us to tell you how<br>we collect, share, and protect your personal information. Please read this notice carefully to<br>understand what we do. | | | | | | | | |
+| Why? | Financial companies choose how they share your personal information. Federal law gives
+consumers the right to limit some but not all sharing. Federal law also requires us to tell you how
+we collect, share, and protect your personal information. Please read this notice carefully to
+understand what we do. | | | | | | | | |
 |------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|-----------------------------|--|--|--|--|--|--|
-| What? | The types of personal information we collect and share depend on the product or service<br>you have with us. This information can include:<br>?<br>Social Security number and account balances<br>?<br>account transactions and checking account information<br>?<br>transaction history and payment history<br>When you are no longer our customer, we continue to share your information as described in this<br>notice. | | | | | | | | |
-| How? | All financial companies need to share customers' personal information to run their everyday<br>business. In the section below, we list the reasons financial companies can share their<br>customers' personal information; the reasons Green Dot Bank chooses to share;<br>and whether you can limit this sharing. | | | | | | | | |
-| | Reasons we can share your<br>personal information | Does Green Dot Bank<br>share? | Can you limit this sharing? | | | | | | |
-| credit bureaus. | For our everyday business purposes '<br>such as to process your transactions,<br>maintain your account(s), respond to court<br>orders and legal investigations, or report to | Yes | No | | | | | | |
-| | For our marketing purposes '<br>to offer our products and services to you. | Yes | No | | | | | | |
-| | For joint marketing with other<br>financial companies. | Yes | No | | | | | | |
-| and experiences. | For our affiliates' everyday<br>business purposes '<br>information about your transactions | Yes | No | | | | | | |
-| | For our affiliates' everyday<br>business purposes '<br>information about your creditworthiness | No | We don't share | | | | | | |
+| What? | The types of personal information we collect and share depend on the product or service
+you have with us. This information can include:
+?
+Social Security number and account balances
+?
+account transactions and checking account information
+?
+transaction history and payment history
+When you are no longer our customer, we continue to share your information as described in this
+notice. | | | | | | | | |
+| How? | All financial companies need to share customers' personal information to run their everyday
+business. In the section below, we list the reasons financial companies can share their
+customers' personal information; the reasons Green Dot Bank chooses to share;
+and whether you can limit this sharing. | | | | | | | | |
+| | Reasons we can share your
+personal information | Does Green Dot Bank
+share? | Can you limit this sharing? | | | | | | |
+| credit bureaus. | For our everyday business purposes '
+such as to process your transactions,
+maintain your account(s), respond to court
+orders and legal investigations, or report to | Yes | No | | | | | | |
+| | For our marketing purposes '
+to offer our products and services to you. | Yes | No | | | | | | |
+| | For joint marketing with other
+financial companies. | Yes | No | | | | | | |
+| and experiences. | For our affiliates' everyday
+business purposes '
+information about your transactions | Yes | No | | | | | | |
+| | For our affiliates' everyday
+business purposes '
+information about your creditworthiness | No | We don't share | | | | | | |
 | | For our affiliates to market to you. | No | We don't share | | | | | | |
 | | For nonaffiliates to market to you. | No | We don't share | | | | | | |
 | Questions? | Call Toll Free: 800-901-6663 | | | | | | | | |
 
 | What we do | |
 |----------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| How does Green Dot Bank<br>protect my<br>personal information? | To protect your personal information from unauthorized access and<br>use, we use security measures that comply with federal law. These<br>measures include computer safeguards and secured files and<br>buildings. |
-| How does Green Dot Bank<br>collect my<br>personal information? | We collect your personal information, for example, when you<br>?<br>open an account or make deposits or withdrawals from your<br>account<br>?<br>tell us where to send the money or provide account information<br>?<br>give us your contact information<br>We also collect your personal information from others, such as<br>credit bureaus, affiliates, or other companies. |
-| Why can't I limit all sharing? | Federal law gives you the right to limit only<br>?<br>sharing for affiliates' everyday business purposes ' information<br>about your creditworthiness<br>?<br>affiliates from using your information to market to you<br>?<br>sharing for nonaffiliates to market to you<br>State laws and individual companies may give you additional rights<br>to limit sharing. |
+| How does Green Dot Bank
+protect my
+personal information? | To protect your personal information from unauthorized access and
+use, we use security measures that comply with federal law. These
+measures include computer safeguards and secured files and
+buildings. |
+| How does Green Dot Bank
+collect my
+personal information? | We collect your personal information, for example, when you
+?
+open an account or make deposits or withdrawals from your
+account
+?
+tell us where to send the money or provide account information
+?
+give us your contact information
+We also collect your personal information from others, such as
+credit bureaus, affiliates, or other companies. |
+| Why can't I limit all sharing? | Federal law gives you the right to limit only
+?
+sharing for affiliates' everyday business purposes ' information
+about your creditworthiness
+?
+affiliates from using your information to market to you
+?
+sharing for nonaffiliates to market to you
+State laws and individual companies may give you additional rights
+to limit sharing. |
 | Definitions | |
-| Affiliates | Companies related by common ownership or control. They can be<br>financial and nonfinancial companies.<br>?<br>Our affiliates include companies with a common corporate<br>identity of Green Dot (such as our parent bank holding company<br>Green Dot Corporation) and tax processing services companies,<br>such as Santa Barbara Tax Products Group, LLC. |
-| Nonaffiliates | Companies not related by common ownership or control. They can<br>be financial and nonfinancial companies.<br>?<br>Green Dot Bank does not share with nonaffiliates so they can<br>market to you. |
-| Joint marketing | A formal agreement between nonaffiliated financial companies that<br>together market financial products or services to you.<br>?<br>The only joint marketing partners we share with are Intuit Inc.<br>and its affiliates and subsidiaries. |
+| Affiliates | Companies related by common ownership or control. They can be
+financial and nonfinancial companies.
+?
+Our affiliates include companies with a common corporate
+identity of Green Dot (such as our parent bank holding company
+Green Dot Corporation) and tax processing services companies,
+such as Santa Barbara Tax Products Group, LLC. |
+| Nonaffiliates | Companies not related by common ownership or control. They can
+be financial and nonfinancial companies.
+?
+Green Dot Bank does not share with nonaffiliates so they can
+market to you. |
+| Joint marketing | A formal agreement between nonaffiliated financial companies that
+together market financial products or services to you.
+?
+The only joint marketing partners we share with are Intuit Inc.
+and its affiliates and subsidiaries. |
 
 | sbia2201. SCR 12/22/22 | | - | | | |
 ## |-----------------------|--|---|--|--|--|
@@ -368,14 +529,19 @@ THE REFUND PROCESSING SERVICE IS A FREE OPTION INCLUDED WITH YOUR PURCHASE OF EI
 
 ## 3. Summary of Terms
 
-| \$<br>Expected Federal Refund | 1,427.00 |
+| \$
+Expected Federal Refund | 1,427.00 |
 |----------------------------------------------------------------|----------|
-| \$<br>Less Tax Product fees | 29.00 |
-| \$<br>Less Turbo Tax Fees | 0.00 |
-| \$<br>Less Fees for Additional Products and Services Purchased | 0.00 |
-## | \$<br>Expected Proceeds* | 1,398.00 |
+| \$
+Less Tax Product fees | 29.00 |
+| \$
+Less Turbo Tax Fees | 0.00 |
+| \$
+Less Fees for Additional Products and Services Purchased | 0.00 |
+## | \$
+Expected Proceeds* | 1,398.00 |
 
-<sup>\*</sup> These amounts are itemized. This is only an estimate. The amount will be reduced by any applicable sales taxes, and if applicable, a Return Item Fee and an Account Research and Processing Fee paid to Processor as set forth in Sections 4, 6 and 7 below.
+\* These amounts are itemized. This is only an estimate. The amount will be reduced by any applicable sales taxes, and if applicable, a Return Item Fee and an Account Research and Processing Fee paid to Processor as set forth in Sections 4, 6 and 7 below.
 
 4. Temporary Deposit Account Authorization. You hereby authorize Bank to establish a temporary deposit account ("Deposit Account") for the purpose of receiving your tax year 2022 federal tax refund(s) from the IRS. Bank or Processor must receive an acknowledgement from the IRS that your return(s) has been electronically filed and accepted for processing before the Deposit Account can be opened. You authorize Processor to deduct from your Deposit Account the following amounts: (i) the Tax Product fees; (ii) the fees and charges related to the preparation, processing and transmission of your tax return(s) ("Turbo Tax Fees"); and (iii) fees for Additional Products and Services Purchased plus applicable taxes. You also authorize Processor to deduct thirty dollars (\$30.00) as a returned item processing fee (the "Return Item Fee") from your Deposit Account for the additional processing required in the event that your deposit is returned or cannot be delivered as directed in Section 7 below. A fee of \$30.00 (the "Account Research and Processing Fee") may be charged if we are required to provide additional processing to return the funds to the IRS. These fees will be deducted from the Deposit Account and will be retained by Processor. You authorize Processor to disburse the balance of the Deposit Account to you after making all authorized deductions or payments. If the Deposit Account does not have sufficient funds at the time your tax refund is processed to pay the Turbo Tax Fees, Tax Product fees, and the fees for Additional Products and Services Purchased as set forth in Section 3, and any sales tax (collectively "Fees"), or if your refund proceeds are delayed (a)
 
@@ -454,13 +620,26 @@ When you are no longer our customer, we continue to share your information as de
 
 **How?** All Financial Companies need to share customers' personal information to run their everyday business. In the section below we list the reasons financial companies can share their customers' personal information; the reasons Civista Bank chooses to share and whether you can limit the sharing.
 
-| Reasons we can share your<br>personal information | Does Civista Bank<br>Share? | Can you limit this sharing? |
+| Reasons we can share your
+personal information | Does Civista Bank
+Share? | Can you limit this sharing? |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|-----------------------------|
-| For our everyday business purposes '<br>such as to process your transaction,<br>maintain your account(s), respond to court<br>orders and legal investigations, or report to<br>credit bureaus. | Yes | No |
-| For our marketing purposes '<br>to offer our products and services to you. | Yes | No |
-| For joint marketing with other<br>financial companies. | Yes | No |
-| For our affiliates' everyday<br>business purposes '<br>information about your transactions<br>and experiences. | No | We don't share |
-| For our affiliates' everyday<br>business purposes '<br>information about your creditworthiness. | No | We don't share |
+| For our everyday business purposes '
+such as to process your transaction,
+maintain your account(s), respond to court
+orders and legal investigations, or report to
+credit bureaus. | Yes | No |
+| For our marketing purposes '
+to offer our products and services to you. | Yes | No |
+| For joint marketing with other
+financial companies. | Yes | No |
+| For our affiliates' everyday
+business purposes '
+information about your transactions
+and experiences. | No | We don't share |
+| For our affiliates' everyday
+business purposes '
+information about your creditworthiness. | No | We don't share |
 | For our affiliates to market to you. | No | We don't share |
 | For non affiliates to market to you. | No | We don't share |
 ## | | | |
@@ -471,13 +650,45 @@ When you are no longer our customer, we continue to share your information as de
 |--------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|--|--|--|
 | Who is providing this notice? | Civista Bank | | | | |
 | What we do | | | | | |
-| How does Civista Bank<br>protect my<br>personal information? | To protect your personal information from unauthorized access<br>and use, we use security measures that comply with federal law.<br>These measures include computer safeguards and secured files<br>and buildings. | | | | |
-| How does Civista Bank<br>collect my<br>personal information? | We collect personal information about you when you apply for a tax<br>related product. This includes information in your application, such<br>as your name, address, social security number, income,<br>deductions, refund and the like. We also collect information about<br>your transactions with us, tax preparers and similar providers, such<br>as payment histories, balances due, and tax information. We may<br>also collect information concerning your credit history from a<br>consumer reporting agency. | | | | |
-| Why can't I limit all sharing? | Federal law gives you the right to limit only:<br>?<br>Sharing for affiliates everyday business purposes '<br>information about your creditworthiness,<br>?<br>Affiliates from using your information to market to you,<br>?<br>Sharing for non affiliates to market to you.<br>State laws and individual companies may give you additional rights<br>to limit sharing. | | | | |
+| How does Civista Bank
+protect my
+personal information? | To protect your personal information from unauthorized access
+and use, we use security measures that comply with federal law.
+These measures include computer safeguards and secured files
+and buildings. | | | | |
+| How does Civista Bank
+collect my
+personal information? | We collect personal information about you when you apply for a tax
+related product. This includes information in your application, such
+as your name, address, social security number, income,
+deductions, refund and the like. We also collect information about
+your transactions with us, tax preparers and similar providers, such
+as payment histories, balances due, and tax information. We may
+also collect information concerning your credit history from a
+consumer reporting agency. | | | | |
+| Why can't I limit all sharing? | Federal law gives you the right to limit only:
+?
+Sharing for affiliates everyday business purposes '
+information about your creditworthiness,
+?
+Affiliates from using your information to market to you,
+?
+Sharing for non affiliates to market to you.
+State laws and individual companies may give you additional rights
+to limit sharing. | | | | |
 | Definitions | | | | | |
-| Affiliates | Companies related by common ownership or control. They can be<br>financial and nonfinancial companies.<br>?<br>Civista Bank does not share with our affiliates. | | | | |
-| Non affiliates | Companies not related by common ownership or control. They can<br>be financial or nonfinancial companies.<br>?<br>Civista Bank does not share with non<br>affiliates so they can market to you. | | | | |
-| Joint Marketing | A formal joint marketing agreement between non affiliated financial<br>companies that together market financial products or services<br>to you. | | | | |
+| Affiliates | Companies related by common ownership or control. They can be
+financial and nonfinancial companies.
+?
+Civista Bank does not share with our affiliates. | | | | |
+| Non affiliates | Companies not related by common ownership or control. They can
+be financial or nonfinancial companies.
+?
+Civista Bank does not share with non
+affiliates so they can market to you. | | | | |
+| Joint Marketing | A formal joint marketing agreement between non affiliated financial
+companies that together market financial products or services
+to you. | | | | |
 
 # **Other Important Information**
 
@@ -489,33 +700,101 @@ This Notice is adopted in recognition of our obligations under Title V of Gramm-
 
 Use this worksheet to enter all data which will flow to the Form 1040 or Form 1040SR and Schedules 1- 3. Use these Quick Zooms to jump to the entry sections for Schedules 1- 3 on this Worksheet:
 
-| Form 1040 or Form 1040SR Worksheet Navigation Quick Zooms<br>Quick Zoom to Schedule 1 '<br>Additional Income and Adjustments to Income<br>Quick Zoom to Schedule 2 '<br>Additional Taxes<br>Quick Zoom to Schedule 3 ' Additional Credits and Payments | | | | | | | |
+| Form 1040 or Form 1040SR Worksheet Navigation Quick Zooms
+Quick Zoom to Schedule 1 '
+Additional Income and Adjustments to Income
+Quick Zoom to Schedule 2 '
+Additional Taxes
+Quick Zoom to Schedule 3 ' Additional Credits and Payments | | | | | | | |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|-------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|--|--|
 | | Form 1040 or Form 1040-SR ' Personal Info, Filing Status, Dependent Info | | | | | | |
-| For the year January 1 - December 31, 2022, or other tax year<br>beginning<br>, 2022, ending<br>, 20 | | | | | | | |
-| Your First Name<br>Christopher<br>If Joint Return, Spouse's First Name<br>1551 N Virginia St<br>Reno<br>Foreign country name | MI<br>W<br>MI<br>Home Address (No. and Street). If You Have a P. O. Box, See instructions.<br>City, Town or Post Office. If you have a foreign address, also complete below. | Last Name<br>Corella<br>Last Name<br>Foreign province/state/county | State<br>NV | Your Social Security No.<br>385-17-2724<br>Spouse's Social Security No.<br>Apt. No.<br>602A<br>ZIP Code<br>89503-1746<br>Foreign postal code | | | |
+| For the year January 1 - December 31, 2022, or other tax year
+beginning
+, 2022, ending
+, 20 | | | | | | | |
+| Your First Name
+Christopher
+If Joint Return, Spouse's First Name
+1551 N Virginia St
+Reno
+Foreign country name | MI
+W
+MI
+Home Address (No. and Street). If You Have a P. O. Box, See instructions.
+City, Town or Post Office. If you have a foreign address, also complete below. | Last Name
+Corella
+Last Name
+Foreign province/state/county | State
+NV | Your Social Security No.
+385-17-2724
+Spouse's Social Security No.
+Apt. No.
+602A
+ZIP Code
+89503-1746
+Foreign postal code | | | |
 | | Quick Zoom to explanation statement for overseas extension | | | | | | |
-| Presidential Election Campaign<br>Digital<br>Assets | Check here if you, or your spouse if filing jointly, want \$3 to go to this fund.<br>Checking a box will not change your tax or refund<br>At any time during 2022, did you: (a) receive (as a reward, award, or payment for property<br>or services); or (b) sell, exchange, gift, or otherwise dispose of a digital asset (or a financial<br>interest in a digital asset)? | | | X<br>You<br>Yes | Spouse<br>X<br>No | | |
+| Presidential Election Campaign
+Digital
+Assets | Check here if you, or your spouse if filing jointly, want \$3 to go to this fund.
+Checking a box will not change your tax or refund
+At any time during 2022, did you: (a) receive (as a reward, award, or payment for property
+or services); or (b) sell, exchange, gift, or otherwise dispose of a digital asset (or a financial
+interest in a digital asset)? | | | X
+You
+Yes | Spouse
+X
+No | | |
 | Filing Status Check only one box. | All entries for filing status and dependents should be made on the Federal Information Worksheet. | | | | | | |
-| X<br>Single<br>Married filing jointly (even if only one had income)<br>Married filing separately. Enter spouse's SSN above and full name here.<br>Head of household (with qualifying person). (See instructions) If the qualifying person is a child<br>but not your dependent, enter the child's name here.<br>Qualifying surviving spouse (QSS) | | | | | | | |
+| X
+Single
+Married filing jointly (even if only one had income)
+Married filing separately. Enter spouse's SSN above and full name here.
+Head of household (with qualifying person). (See instructions) If the qualifying person is a child
+but not your dependent, enter the child's name here.
+Qualifying surviving spouse (QSS) | | | | | | | |
 | Dependents | If more than four dependents, see instructions and check here | | | | | | |
-| (1) First name | Last name | (2) Social<br>security<br>number | (3)<br>Relationship<br>to you | Child<br>tax credit | (4) Check the box if<br>qualifies for<br>Credit for<br>other<br>dependents | | |
+| (1) First name | Last name | (2) Social
+security
+number | (3)
+Relationship
+to you | Child
+tax credit | (4) Check the box if
+qualifies for
+Credit for
+other
+dependents | | |
 | | Vonadrain W Robinson, Jr | 619-27-6438 | Other | | X | | |
 
 **Quick Zoom** to the Federal Information Worksheet **Quick Zoom** to the Dependent and Nondependent Information Worksheet
 
-| Sittistophier w Coreira | , <u>, , , , , , , , , , , , , , , , , , </u> | 7-2/24 | r age z |
+| Sittistophier w Coreira | , , , , , , , , , , , , , , , , , , ,  | 7-2/24 | r age z |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|--------|----------------------|
 | Standard Deduction | | | |
 | Someone can claim you as a dependent Someone can claim your spouse as a dependent | | | |
 | a Check if: You were born before January 2, 1958 Spouse was born before January 2, 1958 Blind Total boxes checked | | | |
 | b If your spouse itemizes on a separate return or you were a dual-status alien, check here | ] | | |
-| Quick Zoom to required PPP loan forgiveness statement to report tax-exempt income | <b>)</b> | • | |
+| Quick Zoom to required PPP loan forgiveness statement to report tax-exempt income | ) | • | |
 | Form 1040 or Form 1040-SR, Lines 1 - 7 | | | |
-| 1 a Total amount from Form(s) W-2, box 1 b Household employee wages not reported on Form(s) W-2. c Tip income not reported on line 1a. d Medicaid waiver payments not reported on Form(s) W-2. e Taxable dependent care benefits from Form 2441, line 26. f Employer-provided adoption benefits from Form 8839, line 29. g Wages from Form 8919, line 6 h Other earned income i Nontaxable combat pay election z Add lines 1a through 1h. 2 a Tax-exempt interest | 1b<br>1c<br>1d<br>1e<br>1f<br>1g<br>1h<br>1z<br>2b<br>3b<br>4b | | 0. |
-| If not required, check here | <b>」 7</b> | | |
+| 1 a Total amount from Form(s) W-2, box 1 b Household employee wages not reported on Form(s) W-2. c Tip income not reported on line 1a. d Medicaid waiver payments not reported on Form(s) W-2. e Taxable dependent care benefits from Form 2441, line 26. f Employer-provided adoption benefits from Form 8839, line 29. g Wages from Form 8919, line 6 h Other earned income i Nontaxable combat pay election z Add lines 1a through 1h. 2 a Tax-exempt interest | 1b
+1c
+1d
+1e
+1f
+1g
+1h
+1z
+2b
+3b
+4b | | 0. |
+| If not required, check here | 」 7 | | |
 | Form 1040 or Form 1040-SR, Lines 8 - 11 | | | |
-| 8 Other income from Schedule 1, line 10 | 8<br>9<br>10<br>11 | 11, | 909.<br>909.<br>909. |
+| 8 Other income from Schedule 1, line 10 | 8
+9
+10
+11 | 11, | 909.
+909.
+909. |
 | Form 1040 or Form 1040 SP Line 12 Standard or Itemized Deduction | | | |
 | 12 Standard deduction or itemized deductions (from Schedule A) Standard Deduction for — People who checked blind or over 65 or who can be claimed as a dependent, see instructions. All others: Single or Married filing separately: \$12,950 Married filing jointly or Qualifying surviving spouse, \$25,900 Head of household: \$19,400 If you checked any box under Standard Deduction, see instructions. | 12 | 12, | 950. |
 | Quick Zoom to the Standard Deduction Worksheet | | | |
@@ -525,25 +804,110 @@ Use this worksheet to enter all data which will flow to the Form 1040 or Form 10
 | | Christopher W Corella | 385-17-2724 | Page 3 |
 |----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|----------------|
 | | Form 1040 or Form 1040-SR, Lines 13 - 18 | | |
-| 13<br>14<br>15 | Qualified business income deduction from Form 8995 or Form 8995-A<br>Add lines 12 and 13<br>Subtract line 14 from line 11. If zero or less, enter -0 This is your taxable<br>income | 13<br>14<br>15 | 12,950.<br>0. |
-| 16 | Tax. Check if any from Forms(s):<br>1<br>8814<br>2<br>4972<br>3 | | |
-| 17<br>18 | Amount from Schedule 2, line 3<br>Add lines 16 and 17 | 16<br>17<br>18 | 0.<br>0. |
-| | Quick Zoom to Schedule 2 '<br>Additional Tax section | | |
+| 13
+14
+15 | Qualified business income deduction from Form 8995 or Form 8995-A
+Add lines 12 and 13
+Subtract line 14 from line 11. If zero or less, enter -0 This is your taxable
+income | 13
+14
+15 | 12,950.
+0. |
+| 16 | Tax. Check if any from Forms(s):
+1
+8814
+2
+4972
+3 | | |
+| 17
+18 | Amount from Schedule 2, line 3
+Add lines 16 and 17 | 16
+17
+18 | 0.
+0. |
+| | Quick Zoom to Schedule 2 '
+Additional Tax section | | |
 | | Form 1040 or Form 1040-SR, Line 19 - 24 | | |
-| 19<br>20<br>21<br>22<br>23<br>24 | Child tax credit or credit for other dependents from Schedule 8812<br>Amount from Schedule 3, line 8<br>Add lines 19 and 20<br>Subtract line 21 from line 18. If zero or less, enter -0-<br>Other taxes, including self-employment tax, from Schedule 2, line 21<br>Add lines 22 and 23. This is your total tax | 19<br>20<br>21<br>22<br>23<br>24 | 0.<br>0.<br>0. |
+| 19
+20
+21
+22
+23
+24 | Child tax credit or credit for other dependents from Schedule 8812
+Amount from Schedule 3, line 8
+Add lines 19 and 20
+Subtract line 21 from line 18. If zero or less, enter -0Other taxes, including self-employment tax, from Schedule 2, line 21
+Add lines 22 and 23. This is your total tax | 19
+20
+21
+22
+23
+24 | 0.
+0.
+0. |
 | | Quick Zoom to Schedule 3 ' Additional Credits and Payments | | |
 | | Form 1040 or Form 1040-SR, Lines 25 - 33 | | |
-| 25<br>a<br>b<br>c<br>d<br>26 | Federal income tax withheld from:<br>1,079.<br>Form(s) W-2<br>25 a<br>25 b<br>Form(s) 1099<br>Other forms<br>25 c<br>Add lines 25a through 25c<br>2022 estimated tax payments and<br>amount applied from 2021 return | 25 d<br>26 | 1,079. |
-| 27<br>28<br>29<br>30<br>31<br>32 | Earned income<br>348.<br>credit (EIC)<br>27<br>28<br>Additional child tax credit from Schedule 8812<br>American opportunity credit from Form 8863, line 8<br>29<br>Reserved for future use<br>30<br>Amount from Schedule 3, line 15<br>31<br>Add lines 27, 28, 29 and 31. | | |
-| 33 | These are your total other payments and refundable credits<br>Add Lines 25d, 26, and 32.<br>These are your total payments | 32<br>33 | 348.<br>1,427. |
-| | Quick Zoom to Schedule EIC Worksheet, pg. 2 if credit is not calculated<br>Quick Zoom to "due diligence checklist" substitute for Form 8867<br>Quick Zoom to Schedule 3 ' Additional Credits and Payments | | |
+| 25
+a
+b
+c
+d
+26 | Federal income tax withheld from:
+1,079.
+Form(s) W-2
+25 a
+25 b
+Form(s) 1099
+Other forms
+25 c
+Add lines 25a through 25c
+2022 estimated tax payments and
+amount applied from 2021 return | 25 d
+26 | 1,079. |
+| 27
+28
+29
+30
+31
+32 | Earned income
+348.
+credit (EIC)
+27
+28
+Additional child tax credit from Schedule 8812
+American opportunity credit from Form 8863, line 8
+29
+Reserved for future use
+30
+Amount from Schedule 3, line 15
+31
+Add lines 27, 28, 29 and 31. | | |
+| 33 | These are your total other payments and refundable credits
+Add Lines 25d, 26, and 32.
+These are your total payments | 32
+33 | 348.
+1,427. |
+| | Quick Zoom to Schedule EIC Worksheet, pg. 2 if credit is not calculated
+Quick Zoom to "due diligence checklist" substitute for Form 8867
+Quick Zoom to Schedule 3 ' Additional Credits and Payments | | |
 | | Christopher W Corella | 385-17-2724 | Page 4 |
 | | Form 1040 or Form 1040-SR, Lines 34 - 36 | | |
-| 34 | Refund:<br>If total Payments is more than total tax, subtract total tax from payments<br>This is the amount you overpaid | 34 | 1,427. |
+| 34 | Refund:
+If total Payments is more than total tax, subtract total tax from payments
+This is the amount you overpaid | 34 | 1,427. |
 
 ## If Form 8888 is attached, check here **35**
 
-| 36<br>For<br>Am<br>37<br>38<br>Qui | rm 1040 or Form 1 | yment on line 34 y<br>023 estimated ta<br>040-SR, Lines<br>om line 24. This is<br>alty | 37 and 38 s the amount you out the st Worksheet | owe 38 | ▶ Quick | | . • |
+| 36
+For
+Am
+37
+38
+Qui | rm 1040 or Form 1 | yment on line 34 y
+023 estimated ta
+040-SR, Lines
+om line 24. This is
+alty | 37 and 38 s the amount you out the st Worksheet | owe 38 | ▶ Quick | | . • |
 |------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|---------------------|----------|-----------|
 | Part | Additional I | ncome | | | | _ | |
 | 1 | Taxable refunds, cre | edits, or offsets of | state and local inc | ome tax | es | 1 | |
@@ -552,7 +916,7 @@ Use this worksheet to enter all data which will flow to the Form 1040 or Form 10
 | 6 | * Check the box if the | ne pre-2019 decre | ee was modified aft | er 2018 | to treat the paymen | its as n | ontaxable |
 | 45 678 abcdefghijkl m nopqr s t u | Alimony received Date of original divorations of the pains or (loss Rental real estate, rattach Schedule E. Farm income or (loss Unemployment comother income: Net operating loss. Gambling income. Cancellation of debta Foreign earned income from Form 8 Income from Form 8 Income from Form 8 Income from Form 8 Income from Form 8 Income from the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of the pain of | es). Attach Form oyalties, partnerships. State of Scheduling pensation | hips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, S corporation lips, | s, trusts | etc. | 4 5 6 7 | |
 | | Schedule 1, line 10, Quickzoom to 104 | | | | | | |
-| | wulck200III to 1040 | vvoiksneet, iine | e 9 — Total Incom | <b>C</b> | · · · · · F Quick | ZUUM. | <u> </u> |
+| | wulck200III to 1040 | vvoiksneet, iine | e 9 — Total Incom | C | · · · · · F Quick | ZUUM. |   |
 
 | Part II | Adjustments to Income | | | |
 |----------|--------------------------------------------------------------------------------------------------------------|---------------------|----------|--------------|
@@ -562,11 +926,15 @@ Use this worksheet to enter all data which will flow to the Form 1040 or Form 10
 | 13 | Health savings account deduction. Attach Form 8889 | 13 | | |
 | 14 | Moving expenses for members of the Armed Forces. | | | |
 | | Attach Form 3903 | | 14 | |
-| 15<br>16 | Deductible part of self-employment tax. Attach Schedule SE<br>Self-employed SEP, SIMPLE, and qualified plans | | 15<br>16 | |
+| 15
+16 | Deductible part of self-employment tax. Attach Schedule SE
+Self-employed SEP, SIMPLE, and qualified plans | | 15
+16 | |
 | 17 | Self-employed health insurance deduction | | 17 | |
 | 18 | Penalty on early withdrawal of savings | | 18 | |
 | | Alimony Paid Smart Worksheet | | | |
-| | Recipient's name<br>Recipient's SSN | Date of divorce/sep | * | Alimony paid |
+| | Recipient's name
+Recipient's SSN | Date of divorce/sep | * | Alimony paid |
 | A | | | | |
 | B | | | | |
 | | * Check the box if the pre-2019 decree was modified after 2018 to treat the payments as nondeductible | | | |
@@ -576,24 +944,30 @@ Use this worksheet to enter all data which will flow to the Form 1040 or Form 10
 | 20 | IRA deduction | | 20 | |
 | 21 | Student loan interest deduction | | 21 | |
 | 22 | Reserved for future use | | 22 | |
-| 23<br>24 | Archer MSA deduction<br>Other adjustments: | | 23 | |
+| 23
+24 | Archer MSA deduction
+Other adjustments: | | 23 | |
 | a | Jury duty pay | 24 a | | |
 | b | Deductible expenses related to income reported on | | | |
 | | line 8l from the rental of personal property engaged | | | |
 | | in for profit | 24 b | | |
 | c | Nontaxable amount of the value of Olympic and | | | |
-| | Paralympic medals and USOC prize money reported<br>on line 8m | 24 c | | |
+| | Paralympic medals and USOC prize money reported
+on line 8m | 24 c | | |
 | d | Reforestation amortization and expenses | 24 d | | |
 | e | Repayment of supplemental unemployment | | | |
 | | benefits under the Trade Act of 1974 | 24 e | | |
 | f | Contributions to section 501(c)(18)(D) pension plans | 24 f | | |
-| g | Contributions by certain chaplains to section<br>403(b) plans | 24 g | | |
+| g | Contributions by certain chaplains to section
+403(b) plans | 24 g | | |
 | h | Attorney fees and court costs for actions involving | | | |
 | | certain unlawful discrimination claims | 24 h | | |
 | i | Attorney fees and court costs you paid in connection | | | |
 | | with an award from the IRS for information you | | | |
 | | provided that helped the IRS detect tax law violations | 24 i | | |
-| j<br>k | Housing deduction from Form 2555<br>Excess deductions of section 67(e) expenses from | 24 j | | |
+| j
+k | Housing deduction from Form 2555
+Excess deductions of section 67(e) expenses from | 24 j | | |
 | | Schedule K-1 (Form 1041) | 24 k | | |
 | z | Other adjustments. List type and amount: | | | |
 | | | | | |
@@ -607,7 +981,9 @@ Use this worksheet to enter all data which will flow to the Form 1040 or Form 10
 | Part I | Tax | | | |
 | | | | | |
 | 1 | Alternative minimum tax (see instructions). Attach Form 6251 | | 1 | |
-| 2<br>3 | Excess advance premium tax credit repayment. Attach Form 8962<br>Add lines 1 and 2. | | 2 | |
+| 2
+3 | Excess advance premium tax credit repayment. Attach Form 8962
+Add lines 1 and 2. | | 2 | |
 | | Enter here and include on Form 1040, 1040-SR, or 1040-NR, line 17 | | 3 | |
 
 | Part | II Other Taxes | | | |
@@ -617,18 +993,24 @@ Use this worksheet to enter all data which will flow to the Form 1040 or Form 10
 | J | on unreported tip income. | | | |
 | 6 | Attach Form 4137 | 5 | | |
 | - | wages. Attach Form 8919 | 6 | | |
-| 7<br>8 | Total additional social security and Medicare tax. Add lines<br>Additional tax on IRAs or other tax-favored accounts. Attac | | 7 | |
+| 7
+8 | Total additional social security and Medicare tax. Add lines
+Additional tax on IRAs or other tax-favored accounts. Attac | | 7 | |
 | | required. If not required, check here | | 8 | |
-| 9<br>10 | Household employment taxes from Schedule H Repayment of first-time homebuyer credit. Attach Form 54 | | 9<br>10 | |
+| 9
+10 | Household employment taxes from Schedule H Repayment of first-time homebuyer credit. Attach Form 54 | | 9
+10 | |
 | 11 | Additional Medicare Tax. Attach Form 8959 | | 11 | |
-| 12<br>13 | Net investment income tax. Attach Form 8960 Uncollected social security and Medicare or RRTA tax on t | ins or aroun-term | 12 | |
+| 12
+13 | Net investment income tax. Attach Form 8960 Uncollected social security and Medicare or RRTA tax on t | ins or aroun-term | 12 | |
 | | life insurance from W-2, box 12 | | 13 | |
 | 14 | Interest on tax due on installment income from the sale of residential lots and timeshares | | 14 | |
 | 15 | Interest on the deferred tax on gain from certain installmen | t sales with a | | |
-| 16 | sales price over \$150,000 | | 15<br>16 | |
+| 16 | sales price over \$150,000 | | 15
+16 | |
 | 17 | Other additional taxes: | 1 1 | | |
 | а | Recapture of other credits. List type, form number, and amount: | | | |
-| | <del></del> | 47.0 | | |
+| |  | 47.0 | | |
 | b | Recapture of federal mortgage subsidy, if you sold | 17 a | | |
 | | your home see instructions | 17 b | | |
 | | Additional tax on an HSA because you didn't remain | | | |
@@ -642,7 +1024,9 @@ Use this worksheet to enter all data which will flow to the Form 1040 or Form 10
 | i | Compensation you received from a nonqualified | " " | | |
 | | deferred compensation plan described in section 457A | 17 i | | |
 | į | Section 72(m)(5) excess benefits tax | 17 j | | |
-| K<br>I | Golden parachute payments | 17 k <br> 17 l | | |
+| K
+I | Golden parachute payments | 17 k 
+ 17 l | | |
 | m | Excise tax on insider stock compensation from an | | | |
 | n | expatriated corporation | 17 m | | |
 | | from Form 8697 or 8866 | 17 n | | |
@@ -650,33 +1034,142 @@ Use this worksheet to enter all data which will flow to the Form 1040 or Form 10
 | | Form 1040-NR | 17 o | | |
 | р | Any interest from Form 8621, line 16f, relating to distributions from, and dispositions of, stock of | | | |
 | | a section 1291 fund | 17 p | | |
-| q<br>z | Any other taxes. List type and amount: | 17 q | | |
+| q
+z | Any other taxes. List type and amount: | 17 q | | |
 | | | 17 z | | |
 | 18 | Total additional taxes. Add lines 17a through 17z | | 18 | |
-| 19<br>20 | Reserved for future use | | 19 | |
+| 19
+20 | Reserved for future use | | 19 | |
 | | Form 965-A | 20 | | |
-| 21 | Add lines 4, 7 through 16, and 18. These are your <b>total other taxes</b> . | | | |
+| 21 | Add lines 4, 7 through 16, and 18. These are your total other taxes . | | | |
 | | Enter here and on Form 1040 or 1040-SR, line 23, or Form | 1040-NR, line 23b | 21 | 0. |
 | | Total tax (add line 21 and Schedule 3, line 8b) | | 1 | 0. |
 
-| 1<br>2 | Foreign tax credit. Attach Form 1116 if required<br>Credit for child and dependent care expenses from Form 2441, line 11.<br>Attach Form 2441 | 1<br>2 | | | | | |
+| 1
+2 | Foreign tax credit. Attach Form 1116 if required
+Credit for child and dependent care expenses from Form 2441, line 11.
+Attach Form 2441 | 1
+2 | | | | | |
 |---------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|---------|--|--|--|--|
-| 3<br>4<br>5 | Education credits from Form 8863, line 19<br>Retirement savings contributions credit. Attach Form 8880<br>Residential Energy Credit. Attach Form 5695 | 3<br>4<br>5 | | | | | |
-| 6<br>a<br>b<br>c<br>d<br>e<br>f | Other nonrefundable credits:<br>General business credit. Attach Form 3800<br>6 a<br>Credit for prior year minimum tax. Attach Form 8801<br>6 b<br>Adoption credit. Attach Form 8839<br>6 c<br>Credit for the elderly or disabled. Attach Schedule R<br>6 d<br>Alternative motor vehicle credit. Attach Form 8910<br>6 e<br>Qualified plug-in motor vehicle credit. | | | | | | |
-| g<br>h<br>i | Attach Form 8936<br>6 f<br>Mortgage interest credit. Attach Form 8396<br>6 g<br>District of Columbia first-time homebuyer credit.<br>Attach Form 8859<br>6 h<br>Qualified electric vehicle credit. Attach Form 8834<br>6 i | | | | | | |
-| j<br>k<br>l | Alternative fuel vehicle refueling property credit.<br>Attach Form 8911<br>6 j<br>Credit to holders of tax credit bonds. Attach Form 8912<br>6 k<br>Amount on Form 8978, line 14<br>6 l | | | | | | |
-| z<br>7 | Other nonrefundable credits. List type and amount:<br>6 z<br>Total other nonrefundable credits. Add lines 6a through 6z | 7 | | | | | |
-| 8<br>a<br>b | Add lines 1 through 5 and 7.<br>Enter here and on Form 1040, 1040-SR, or 1040-NR, line 20<br>Add line 8 plus child tax/other dep. credit on line 19 above<br>Subtract total credits on line 8a from tax on line 18 above<br>0. | 8 | | | | | |
-| | Quickzoom to 1040 Worksheet, line 24 '<br>Total Tax<br>Quick Zoom | | | | | | |
+| 3
+4
+5 | Education credits from Form 8863, line 19
+Retirement savings contributions credit. Attach Form 8880
+Residential Energy Credit. Attach Form 5695 | 3
+4
+5 | | | | | |
+| 6
+a
+b
+c
+d
+e
+f | Other nonrefundable credits:
+General business credit. Attach Form 3800
+6 a
+Credit for prior year minimum tax. Attach Form 8801
+6 b
+Adoption credit. Attach Form 8839
+6 c
+Credit for the elderly or disabled. Attach Schedule R
+6 d
+Alternative motor vehicle credit. Attach Form 8910
+6 e
+Qualified plug-in motor vehicle credit. | | | | | | |
+| g
+h
+i | Attach Form 8936
+6 f
+Mortgage interest credit. Attach Form 8396
+6 g
+District of Columbia first-time homebuyer credit.
+Attach Form 8859
+6 h
+Qualified electric vehicle credit. Attach Form 8834
+6 i | | | | | | |
+| j
+k
+l | Alternative fuel vehicle refueling property credit.
+Attach Form 8911
+6 j
+Credit to holders of tax credit bonds. Attach Form 8912
+6 k
+Amount on Form 8978, line 14
+6 l | | | | | | |
+| z
+7 | Other nonrefundable credits. List type and amount:
+6 z
+Total other nonrefundable credits. Add lines 6a through 6z | 7 | | | | | |
+| 8
+a
+b | Add lines 1 through 5 and 7.
+Enter here and on Form 1040, 1040-SR, or 1040-NR, line 20
+Add line 8 plus child tax/other dep. credit on line 19 above
+Subtract total credits on line 8a from tax on line 18 above
+0. | 8 | | | | | |
+| | Quickzoom to 1040 Worksheet, line 24 '
+Total Tax
+Quick Zoom | | | | | | |
 | Part II | Other Payments and Refundable Credits | | | | | | |
-| 9<br>10<br>11<br>12<br>13<br>a | Net premium tax credit. Attach Form 8962<br>Amount paid with request for extension to file<br>Excess social security and tier 1 RRTA tax withheld<br>Credit for federal tax on fuels. Attach Form 4136<br>Other payments or refundable credits:<br>Form 2439<br>13 a | 9<br>10<br>11<br>12 | | | | | |
-| b<br>c<br>d | Credit for qualified sick and family leave wages paid in<br>2022 from Schedule(s) H for leave taken before April<br>1, 2021<br>13 b<br>Reserved for future use<br>13 c<br>Credit for repayment of amounts included in | | | | | | |
-| e<br>f<br>g<br>h | repayment of amounts included infrom earlier years<br>13 d<br>Reserved for future use<br>13 e<br>Deferred amount of net 965 tax liability<br>13 f<br>Reserved for future use<br>13 g<br>Credit for qualified sick and family leave wages paid in<br>2022 from Schedule(s) H for leave taken after March | | | | | | |
-| z | 31, 2021, and before October 1, 2021<br>13 h<br>Other payments or refundable credits. List type and<br>amount<br>13 z | | | | | | |
-| 14<br>15 | Total other payments or refundable credits. Add lines 13a through 13z<br>Total Payments: Part II, lines 9 through 12 and 14,<br>Withholding (Form 1040, line 25d),<br>Estimated Tax Payments (Form 1040, line 26) and Form 1040, lines 27-30<br>348.<br>Other Payments and Refundable Credits (Form 1040, line 32) | 14<br>15 | 1,427. | | | | |
+| 9
+10
+11
+12
+13
+a | Net premium tax credit. Attach Form 8962
+Amount paid with request for extension to file
+Excess social security and tier 1 RRTA tax withheld
+Credit for federal tax on fuels. Attach Form 4136
+Other payments or refundable credits:
+Form 2439
+13 a | 9
+10
+11
+12 | | | | | |
+| b
+c
+d | Credit for qualified sick and family leave wages paid in
+2022 from Schedule(s) H for leave taken before April
+1, 2021
+13 b
+Reserved for future use
+13 c
+Credit for repayment of amounts included in | | | | | | |
+| e
+f
+g
+h | repayment of amounts included infrom earlier years
+13 d
+Reserved for future use
+13 e
+Deferred amount of net 965 tax liability
+13 f
+Reserved for future use
+13 g
+Credit for qualified sick and family leave wages paid in
+2022 from Schedule(s) H for leave taken after March | | | | | | |
+| z | 31, 2021, and before October 1, 2021
+13 h
+Other payments or refundable credits. List type and
+amount
+13 z | | | | | | |
+| 14
+15 | Total other payments or refundable credits. Add lines 13a through 13z
+Total Payments: Part II, lines 9 through 12 and 14,
+Withholding (Form 1040, line 25d),
+Estimated Tax Payments (Form 1040, line 26) and Form 1040, lines 27-30
+348.
+Other Payments and Refundable Credits (Form 1040, line 32) | 14
+15 | 1,427. | | | | |
 | Page 8 | | | | | | | |
 | | Third Party Designee | | | | | | |
-| | Do you want to allow another person to discuss this return<br>with the IRS (see instructions)?<br>Yes. Complete the following.<br>Designee's Name<br>Phone Number<br>Personal Identification Number (PIN) | | X<br>No | | | | |
+| | Do you want to allow another person to discuss this return
+with the IRS (see instructions)?
+Yes. Complete the following.
+Designee's Name
+Phone Number
+Personal Identification Number (PIN) | | X
+No | | | | |
 ## | | | | | | | | |
 
 ## **Signature and Paid Preparer**
@@ -689,24 +1182,31 @@ Keep a copy of this return for your records.
 
 Under penalties of perjury, I declare that I have examined this return and accompanying schedules and statements, and to the best of my knowledge and belief, they are true, correct, and accurately list all amounts and sources of income I received during the year. Declaration of preparer (other than taxpayer) is based on all information of which preparer has any knowledge.
 
-| Your Signature | Date | Your Occupation<br>Machine Operator | | If the IRS sent you<br>an Identity Protection<br>PIN, enter it here |
+| Your Signature | Date | Your Occupation
+Machine Operator | | If the IRS sent you
+an Identity Protection
+PIN, enter it here |
 |------------------------------------------------------------|------|-----------------------------------------------------|-----------|---------------------------------------------------------------------|
 | Spouse's Signature. If joint, both must sign. | Date | Spouse's Occupation | | |
-| Daytime Phone No.<br>(941)928-2228 | | Email Address | | |
+| Daytime Phone No.
+(941)928-2228 | | Email Address | | |
 | Paid Preparer's Use Only | | | | |
 | Print/Type Preparer's name | | Preparer's PTIN | Check if: | |
 | Preparer's Signature | | Date | | Self-employed |
-| Firm's Adress (or yours if self-employed)<br>Self-Prepared | | Firm's EIN. | | Phone No. |
+| Firm's Adress (or yours if self-employed)
+Self-Prepared | | Firm's EIN. | | Phone No. |
 | | | State | | ZIP Code |
 | | | | | |
 | | | Filing Address Information | | |
 | Send Form 1040 to: | | You have chosen to electronically file this return. | | |
 
-| Name(s) Shown on Return<br>Christopher W Corella | Your SSN | 385-17-2724 |
+| Name(s) Shown on Return
+Christopher W Corella | Your SSN | 385-17-2724 |
 |--------------------------------------------------------------------------------------------------------------------------------|----------|-----------------------------|
 | | | |
 | Line 4b - Adjustment for trade or business income or loss | | |
-| (a) Activity name | | (b) Gain or<br>loss |
+| (a) Activity name | | (b) Gain or
+loss |
 | | | |
 | | | |
 | Enter additional adjustments not included above: | | |
@@ -714,7 +1214,8 @@ Under penalties of perjury, I declare that I have examined this return and accom
 | | | |
 | Adjustment for trade or business income not subject to net investment tax | | |
 | Line 5b - Adjustment for gain or loss on dispositions | | |
-| (a) Activity name | | (b) Gain or<br>loss |
+| (a) Activity name | | (b) Gain or
+loss |
 | | | |
 | | | |
 | Capital loss carryover adjustment from 2021 for net investment tax purposes | | |
@@ -722,21 +1223,38 @@ Under penalties of perjury, I declare that I have examined this return and accom
 | | | |
 | Net gain or loss from disposition of property not subject to net investment tax | | |
 | Capital gain/loss not included in net investment income | | |
-| (a) Activity name | | (b) Capital<br>Gain or Loss |
+| (a) Activity name | | (b) Capital
+Gain or Loss |
 | | | |
 | | | |
 | | | |
 | Capital gain or loss from sale of property not subject to net investment income tax | | |
 | Calculation of line 5b adjustment due to capital loss carryforward | | |
-| 1<br>Net capital loss not included in net investment income | 1 | 0. |
-| 2<br>Capital loss carryover to next year<br>3<br>Lesser of line 1 or line 2 (Included as an adjustment on line 5b table above) | 2<br>3 | 0. |
+| 1
+Net capital loss not included in net investment income | 1 | 0. |
+| 2
+Capital loss carryover to next year
+3
+Lesser of line 1 or line 2 (Included as an adjustment on line 5b table above) | 2
+3 | 0. |
 | Line 7 - Other modifications to investment income | | |
-| 1<br>Casualty and theft losses reported on Schedule A, line 15 | 1 | |
-| 2<br>Amounts reported on Form 8814, line 12 | 2 | |
-| 3<br>Adjustment for distributions from estates and trusts<br>4<br>Schedule F income/loss included in net investment income | 3<br>4 | |
-| 5<br>Substitute interest and dividend payments<br>6<br>Recovery of a prior year deduction | 5<br>6 | |
+| 1
+Casualty and theft losses reported on Schedule A, line 15 | 1 | |
+| 2
+Amounts reported on Form 8814, line 12 | 2 | |
+| 3
+Adjustment for distributions from estates and trusts
+4
+Schedule F income/loss included in net investment income | 3
+4 | |
+| 5
+Substitute interest and dividend payments
+6
+Recovery of a prior year deduction | 5
+6 | |
 | 7 | 7 | |
-| 8<br>Total other modifications to investment income | 8 | |
+| 8
+Total other modifications to investment income | 8 | |
 
 | | (A) | | | (B) | (C) |
 |---|------------------------------------------------------------------------------------------|-----------------------------|-----------------------------|------------------------------|-----------------------------------|
@@ -751,13 +1269,18 @@ Under penalties of perjury, I declare that I have examined this return and accom
 | | | | x | = | |
 | | | | x | = | |
 | | | | x | = | |
-| | Penalty on early withdrawal of savings<br>Other modifications: | | | | |
+| | Penalty on early withdrawal of savings
+Other modifications: | | | | |
 | | Total additional modifications to Form 8960, line 10 | | | | |
 | | | | | | |
 | | Calculation of Former Passive Activity Suspended Losses Allowed as Deduction Against NII | | | | |
 | | 1) Former Passive Activity Suspended Losses | | | | |
 | | | | | | |
-| | (a) Activity name | (b) Suspended<br>12/31/2021 | (c) Suspended<br>12/31/2022 | (d) Used against<br>activity | (e) Used against<br>other passive |
+| | (a) Activity name | (b) Suspended
+12/31/2021 | (c) Suspended
+12/31/2022 | (d) Used against
+activity | (e) Used against
+other passive |
 | | | | | | |
 | | | | | | |
 | | | | | | |
@@ -774,72 +1297,201 @@ Under penalties of perjury, I declare that I have examined this return and accom
 | | | | | | |
 | | | | | | |
 | | 3) Former Passive Activity Suspended Losses - Form 4797 | | | | |
-| | (a) Activity name | (b) Suspended<br>12/31/2021 | (c) Suspended<br>12/31/2022 | (d) Used against<br>activity | (e) Used against<br>other passive |
+| | (a) Activity name | (b) Suspended
+12/31/2021 | (c) Suspended
+12/31/2022 | (d) Used against
+activity | (e) Used against
+other passive |
 | | | | | | |
 | | | | | | |
 ## | | | | | | |
 
 ## **u** Wages while incarcerated
 
-| | | | | | Statement<br>L8 | |
+| | | | | | Statement
+L8 | |
 |--------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|-----------------|---------------------------------------|-----------------|--|
-| Name(s) Shown on Return<br>Christopher W Corella | | | | Social Security Number<br>385-17-2724 | | |
-| | | | (a)<br>Taxpayer | | (b)<br>Spouse | |
-| a<br>b 1<br>2<br>3<br>c | Net operating loss carryover from a prior year<br>Winnings from Form W-2G<br>Gambling winnings not reported on Form W-2G<br>Total gambling winnings<br>Income from the Cancellation of Debt: | | | | | |
-| 1<br>2<br>d | From Form 1099-C:<br>a<br>Amount of debt canceled from box 2<br>b<br>Amount of canceled debt excluded from income<br>c<br>Taxable amount of canceled debt<br>From Schedule(s) K-1<br>Foreign earned income and housing exclusion, from Form 2555 | | | | | |
-| e<br>1<br>2<br>3<br>4 | Taxable distributions from Form 8853:<br>Taxable Archer MSA distributions<br>Taxable Medicare Advantage distributions<br>Taxable long term care distributions<br>Total Form 8853 | MSA<br>Med MSA<br>LTC | | | | |
-| f<br>1<br>2 | Form 8889, Health Savings Accounts<br>Taxable HSA Distributions from Form 1099-SA<br>Last month rule and qualified HSA funding distribution amt | | | | | |
-| 3<br>g<br>h<br>i 1 | Total Form 8889<br>Alaska Permanent Fund<br>Jury duty pay<br>Winnings (prizes, etc.) from Form 1099-MISC, box 3 | | | | | |
-| 2<br>j<br>1 | Other non-gambling awards and prizes<br>Income from "not for profit" activities (hobbies):<br>Hobby income from Form 1099-K | | | | | |
-| 2<br>3<br>j | Other hobby income not reported elsewhere<br>Total income from "not for profit" activities (hobbies):<br>Does not apply to Form 1040NR | | | | | |
-| k<br>l<br>1<br>2 | Employer stock compensation income for non-employee<br>Income from rental of personal property<br>Rent from personal property from Form 1099-MISC box 1<br>Rent from personal property from Form 1099-K box 1 | | | | | |
-| 3<br>4<br>m | Other rent from personal property<br>Total Income from the rental of personal property<br>Olympic/Paralympic medals and USOC prize money** | | | | | |
-| n<br>o<br>p | Section 965 deferred foreign income (Form 965)<br>Global intangible low-taxed income (Form 8992)<br>Limitation on business losses (Form 461) | | | | | |
-| q<br>r<br>s | ABLE account distributions<br>Scholarship and fellowship grants not reported on Form W-2<br>Nontaxable amount of Medicaid waiver payments | | | | | |
+| Name(s) Shown on Return
+Christopher W Corella | | | | Social Security Number
+385-17-2724 | | |
+| | | | (a)
+Taxpayer | | (b)
+Spouse | |
+| a
+b 1
+2
+3
+c | Net operating loss carryover from a prior year
+Winnings from Form W-2G
+Gambling winnings not reported on Form W-2G
+Total gambling winnings
+Income from the Cancellation of Debt: | | | | | |
+| 1
+2
+d | From Form 1099-C:
+a
+Amount of debt canceled from box 2
+b
+Amount of canceled debt excluded from income
+c
+Taxable amount of canceled debt
+From Schedule(s) K-1
+Foreign earned income and housing exclusion, from Form 2555 | | | | | |
+| e
+1
+2
+3
+4 | Taxable distributions from Form 8853:
+Taxable Archer MSA distributions
+Taxable Medicare Advantage distributions
+Taxable long term care distributions
+Total Form 8853 | MSA
+Med MSA
+LTC | | | | |
+| f
+1
+2 | Form 8889, Health Savings Accounts
+Taxable HSA Distributions from Form 1099-SA
+Last month rule and qualified HSA funding distribution amt | | | | | |
+| 3
+g
+h
+i 1 | Total Form 8889
+Alaska Permanent Fund
+Jury duty pay
+Winnings (prizes, etc.) from Form 1099-MISC, box 3 | | | | | |
+| 2
+j
+1 | Other non-gambling awards and prizes
+Income from "not for profit" activities (hobbies):
+Hobby income from Form 1099-K | | | | | |
+| 2
+3
+j | Other hobby income not reported elsewhere
+Total income from "not for profit" activities (hobbies):
+Does not apply to Form 1040NR | | | | | |
+| k
+l
+1
+2 | Employer stock compensation income for non-employee
+Income from rental of personal property
+Rent from personal property from Form 1099-MISC box 1
+Rent from personal property from Form 1099-K box 1 | | | | | |
+| 3
+4
+m | Other rent from personal property
+Total Income from the rental of personal property
+Olympic/Paralympic medals and USOC prize money** | | | | | |
+| n
+o
+p | Section 965 deferred foreign income (Form 965)
+Global intangible low-taxed income (Form 8992)
+Limitation on business losses (Form 461) | | | | | |
+| q
+r
+s | ABLE account distributions
+Scholarship and fellowship grants not reported on Form W-2
+Nontaxable amount of Medicaid waiver payments | | | | | |
 ## | t | Nonqualified pension/annuity | | | | | |
 
-| z 1<br>2<br>3<br>4<br>5<br>6<br>7 | Child's investment income, from Form 8814<br>Taxable income from Forms 1099-MISC:<br>a<br>Substitute payments in lieu of interest or dividends<br>b<br>Other income from 1099-MISC box 3 (Excluding Olympic<br>prize money)<br>c<br>Tribal Gaming<br>Non-Employee Compensation from Form 1099-NEC box 1<br>Taxable income from Form 1099-Q or 1099-QA:<br>a<br>Qualified tuition program distributions<br>b<br>Coverdell ESA distributions<br>Taxable income from Form 1099-G:<br>a<br>Grants<br>b<br>RTAA payments<br>Other income, from Schedule(s) K-1<br>Refunds or reimbursements of deductions claimed<br>in a prior year:<br>a<br>Reimbursement for deducted medical expenses<br>b<br>Refunds of deducted taxes (not state or local income taxes) | |
+| z 1
+2
+3
+4
+5
+6
+7 | Child's investment income, from Form 8814
+Taxable income from Forms 1099-MISC:
+a
+Substitute payments in lieu of interest or dividends
+b
+Other income from 1099-MISC box 3 (Excluding Olympic
+prize money)
+c
+Tribal Gaming
+Non-Employee Compensation from Form 1099-NEC box 1
+Taxable income from Form 1099-Q or 1099-QA:
+a
+Qualified tuition program distributions
+b
+Coverdell ESA distributions
+Taxable income from Form 1099-G:
+a
+Grants
+b
+RTAA payments
+Other income, from Schedule(s) K-1
+Refunds or reimbursements of deductions claimed
+in a prior year:
+a
+Reimbursement for deducted medical expenses
+b
+Refunds of deducted taxes (not state or local income taxes) | |
 |-----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
-| | Type of Tax<br>State or | |
+| | Type of Tax
+State or | |
 | | Local ID | |
 | | | |
 | | | |
-| | c<br>Recapture of deducted moving expenses | |
-| | d<br>Reimbursement for deducted casualty or theft loss | |
-| | e<br>Reimbursement for deducted employee business expenses | |
-| | f<br>Other refunds or reimbursements | |
+| | c
+Recapture of deducted moving expenses | |
+| | d
+Reimbursement for deducted casualty or theft loss | |
+| | e
+Reimbursement for deducted employee business expenses | |
+| | f
+Other refunds or reimbursements | |
 | 8 | Recoveries of bad debts deducted in a prior year | |
 | 9 | Bartering income not reported elsewhere | |
 | | 10 Other income on Form 1099-K (payment network transactions): | |
 | | 11 Unemployment income and repayment | |
-| | a<br>Union unemployment benefits | |
-| | b<br>Private fund unemployment benefits | |
-| | c<br>State employee unemployment benefits<br>d<br>Repayment of non-government unemployment benefits | |
+| | a
+Union unemployment benefits | |
+| | b
+Private fund unemployment benefits | |
+| | c
+State employee unemployment benefits
+d
+Repayment of non-government unemployment benefits | |
 | | 12 Other taxable income: | |
 | | | |
 | | | |
 | | | |
 | | 13 Income from Community Property: | |
-| | a<br>Positive community property adjustment | |
-| | b<br>Negative community property adjustment (enter as positive) | |
+| | a
+Positive community property adjustment | |
+| | b
+Negative community property adjustment (enter as positive) | |
 | | | |
 | | aa Exclusions from Gross Income | |
 | | The excludable items below from Form 1099 are included on Schedule 1, line 8z, along with a | |
 | | corresponding negative adjustment to remove from gross income. | |
-| | a<br>CA Middle Class Tax Refund payment | |
-| | b<br>Incorrect Form 1099-K | |
-| | c<br>Loss from Sale of Personal Items Reported on Form 1099-K | |
+| | a
+CA Middle Class Tax Refund payment | |
+| | b
+Incorrect Form 1099-K | |
+| | c
+Loss from Sale of Personal Items Reported on Form 1099-K | |
 | | Total. Add lines a through z. (Do not include aa.) Enter here | |
 | | and on Schedule 1, line 9 | |
 ## | | | |
 
-| ► Keep for your records | | | | | | | | 20. | <b>22</b> | |
+| ► Keep for your records | | | | | | | | 20. | 22 | |
 |--------------------------------------------------------------------------------------------------------------------|------------------------------|----------------------------------------------|---------------|------------------------------------|--------------------------------------------------------------|----------------------------------------------------------------------------------|----------------|---------------------------------------|-----------------------------------------------------------------------|------------------|
-| Part I — Personal Information in Part I is co | orma<br>omple | tion<br>tely calculated from | entries | on F | ersonal I | Information W | orks | heets. | | |
+| Part I — Personal Information in Part I is co | orma
+omple | tion
+tely calculated from | entries | on F | ersonal I | Information W | orks | heets. | | |
 | Taxpayer: First name | | | | | | | | | | |
-| Date of death | | | | | | | | | r<br>□ No | |
-| Credit for the Elderly or Disabled (Schedule R): Is the taxpayer retired on total and permanent disability? Yes No | | | | | | | | | R):<br>] No | |
-| Presidential Election C<br>Does the taxpayer want<br>Election Campaign Fund | \$3 to | go to the Presidential | | Does | s the spoi | <b>Election Cam</b><br>use want \$3 to<br>paign Fund?. | op go | to the Pre | esidenti | al<br>] No |
+| Date of death | | | | | | | | | r
+□ No | |
+| Credit for the Elderly or Disabled (Schedule R): Is the taxpayer retired on total and permanent disability? Yes No | | | | | | | | | R):
+] No | |
+| Presidential Election C
+Does the taxpayer want
+Election Campaign Fund | \$3 to | go to the Presidential | | Does | s the spoi | Election Cam
+use want \$3 to
+paign Fund?. | op go | to the Pre | esidenti | al
+] No |
 | Part II - Address and | d Fed | leral Filing Status | (enter i | nforn | nation in | this section) | | | | |
 | City Rer | US Address: Address: Address | | | | | | | | | |
 | APO/FPO/DPO address | chec | k if appropriate | | | Foreign p | APO - | ED/ | 0 | | |
@@ -847,20 +1499,68 @@ Under penalties of perjury, I declare that I have examined this return and accom
 | Check to print phone nui | | | | | | | | | pouse o | daytime |
 | Print Form 1040-SR inst Federal filing status: | ead of | Form 1040 | | | | Yes | X | ] No | | |
 | The status: X | | | | | | | | | | |
-| Part III — Dependent<br>Information in Part III is o | <b>Earn</b><br>comple | ed Income Credit/<br>etely calculated from e | Child a | and<br>on D | <b>Depend</b><br>ependen | lent Care Cr<br>t/Nondepende | edit<br>ent In | : <b>Informa</b><br>ifo Works | ation<br>heets. | |
-| First name<br>Last name | MI<br>Suff | Social security<br>number<br>Relationship- | Da<br>(mr<br> | te of<br>n/dd/<br>C<br>o<br>d<br>e | birth<br>(yyyy)<br><br>Not<br>qual<br>for<br>child<br>tax cr | Date of death (mm/dd/yyyy) Qualified child/dep care exps incurred and paid 2022 | E-C | Lived<br>with<br>taxpyr<br>in<br>U. S. | Not<br>qual<br>credit<br>other<br>dep<br>Educ<br>Tuitn<br>and<br>Fees | *<br>D<br>e<br>p |
-| Vonadrain<br>Robinson | ₩<br>Jr- | 619-27-6438<br>Other | - 08/<br>2T | / 02 /<br>IO | /2001<br> X | | N | | | Yes |
+| Part III — Dependent
+Information in Part III is o | Earn
+comple | ed Income Credit/
+etely calculated from e | Child a | and
+on D | Depend
+ependen | lent Care Cr
+t/Nondepende | edit
+ent In | : Informa
+ifo Works | ation
+heets. | |
+| First name
+Last name | MI
+Suff | Social security
+number
+Relationship- | Da
+(mr
+ | te of
+n/dd/
+C
+o
+d
+e | birth
+(yyyy)
+
+Not
+qual
+for
+child
+tax cr | Date of death (mm/dd/yyyy) Qualified child/dep care exps incurred and paid 2022 | E-C | Lived
+with
+taxpyr
+in
+U. S. | Not
+qual
+credit
+other
+dep
+Educ
+Tuitn
+and
+Fees | *
+D
+e
+p |
+| Vonadrain
+Robinson | ₩
+Jr- | 619-27-6438
+Other | - 08/
+2T | / 02 /
+IO | /2001
+ X | | N | | | Yes |
 ## | | | | | | | | | | | |
 
-<sup>\* &</sup>quot;Yes" - qualifies as dependent, "No" - does not qualify as dependent
+\* &quot;Yes" - qualifies as dependent, "No" - does not qualify as dependent
 
 | Part IV — Earned Income Credit Information (you must answer these questions to calculate EIC) |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Is the taxpayer or spouse a qualifying child for EIC for another person? Yes Was the taxpayer's (and spouse's if married filing jointly) home in the United States for more than half of 2022? |
-| If the SSN of the taxpayer, or spouse if married filing jointly, was obtained to get a federally funded benefit, such as Medicaid, and the Social Security card contains the legend <b>Not Valid for Employment</b> , check this box (see Help) |
+| If the SSN of the taxpayer, or spouse if married filing jointly, was obtained to get a federally funded benefit, such as Medicaid, and the Social Security card contains the legend Not Valid for Employment , check this box (see Help) |
 | Part V — Direct Deposit or Direct Debit Information (not applicable for Form 9465) |
-| Do you want to elect <b>direct deposit</b> of any federal tax refund? |
-| Do you want to elect <b>direct debit</b> of federal balance due (Electronic filing only)? ▶ Yes No |
+| Do you want to elect direct deposit of any federal tax refund? |
+| Do you want to elect direct debit of federal balance due (Electronic filing only)? ▶ Yes No |
 | If you selected either of the options above, fill out the information below: Name of Financial Institution (optional) |
 | Enter the following information only if you are requesting direct debit of balance due: Enter the payment date to withdraw from the account above |
 | Amended Returns: Do you want to elect direct debit of federal amended balance due (e-File only)? Yes Enter the payment date to withdraw from the account above |
@@ -877,15 +1577,35 @@ Under penalties of perjury, I declare that I have examined this return and accom
 
 | | Part VI ' Additional Information for Your Federal Return ' Continued | | |
 |----------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|---------|
-| surviving spouse | Personal Representative for deceased taxpayers:<br>Name of personal representative required for E-filed<br>returns when Form 1310 is not filed or it is not the | | |
+| surviving spouse | Personal Representative for deceased taxpayers:
+Name of personal representative required for E-filed
+returns when Form 1310 is not filed or it is not the | | |
 | | Part VII ' State Filing Information | | |
-| Identity Protection PIN: | If the IRS sent the taxpayer an Identity Protection PIN, enter it here<br>If the IRS sent the spouse an Identity Protection PIN, enter it here | | |
-| Taxpayer:<br>Check the appropriate box:<br>Spouse:<br>Check the appropriate box: | Enter the taxpayer's state of residence as of December 31, 2022<br>Taxpayer is a resident of the state above for the entire year<br>Taxpayer is a resident of the state above for only part of year<br>Date the taxpayer established residence in state above<br>In which state (or foreign country) did the taxpayer reside before this change?<br>Enter the spouse's state of residence as of December 31, 2022<br>Spouse is a resident of the state above for the entire year<br>Spouse is a resident of the state above for only part of year<br>Date the spouse established residence in state above<br>In which state (or foreign country) did the spouse reside before this change? | | NV<br>X |
+| Identity Protection PIN: | If the IRS sent the taxpayer an Identity Protection PIN, enter it here
+If the IRS sent the spouse an Identity Protection PIN, enter it here | | |
+| Taxpayer:
+Check the appropriate box:
+Spouse:
+Check the appropriate box: | Enter the taxpayer's state of residence as of December 31, 2022
+Taxpayer is a resident of the state above for the entire year
+Taxpayer is a resident of the state above for only part of year
+Date the taxpayer established residence in state above
+In which state (or foreign country) did the taxpayer reside before this change?
+Enter the spouse's state of residence as of December 31, 2022
+Spouse is a resident of the state above for the entire year
+Spouse is a resident of the state above for only part of year
+Date the spouse established residence in state above
+In which state (or foreign country) did the spouse reside before this change? | | NV
+X |
 | Nonresident states: | | | |
 | | Nonresident State(s) | Taxpayer/Spouse/Joint | |
-| | Check this box if you are in a Registered Domestic Partnership or a civil union<br>If you checked the box on the line above, also check the appropriate box below:<br>Check if this is your individual federal return you are filing with the IRS<br>Check if this is the joint return created to file joint state tax return (see Help) | | |
+| | Check this box if you are in a Registered Domestic Partnership or a civil union
+If you checked the box on the line above, also check the appropriate box below:
+Check if this is your individual federal return you are filing with the IRS
+Check if this is the joint return created to file joint state tax return (see Help) | | |
 
-| Christopher W Corella | 385-17-2724<br>Page 4 |
+| Christopher W Corella | 385-17-2724
+Page 4 |
 |--------------------------------------------------------------------------------------------------|-----------------------|
 | Use the PIN that you signed last year's tax return with. | |
 | Taxpayer's Prior year PIN | |
@@ -896,7 +1616,10 @@ Under penalties of perjury, I declare that I have examined this return and accom
 | Taxpayer: | |
 | Drivers license or state ID number | |
 | Issued by what state | |
-| License or ID<br>license<br>ID | neither<br>decline |
+| License or ID
+license
+ID | neither
+decline |
 | Spouse | |
 ## | Drivers license or state ID number | |
 
@@ -909,17 +1632,20 @@ Under penalties of perjury, I declare that I have examined this return and accom
 | Quick Zoom to another copy of Personal Information Worksheet |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Part I — Taxpayer's Personal Information |
-| First name <u>Christopher</u> Middle initial . <u>W</u> Last name <u>Corella</u> |
-| Suffix Social security no <u>385-17-2724</u> Member of U. S. Armed Forces in 2022? Yes X No |
-| Date of birth <u>02/13/1995</u> (mm/dd/yyyy) age as of 1-1-2023 <u>27</u> |
+| First name Christopher Middle initial . W Last name Corella |
+| Suffix Social security no 385-17-2724 Member of U. S. Armed Forces in 2022? Yes X No |
+| Date of birth 02/13/1995 (mm/dd/yyyy) age as of 1-1-2023 27 |
 | Occupation Machine Operator Daytime phone (941)928-2228 Ext |
-| Marital status <u>Single</u> If widowed, check the appropriate box for the year your spouse died: After 2022 ► 2022 . ► 2021 . ► 2020 . ► Before 2020 . ► |
+| Marital status Single If widowed, check the appropriate box for the year your spouse died: After 2022 ► 2022 . ► 2021 . ► 2020 . ► Before 2020 . ► |
 | Are you retired on total and permanent disability? (for Schedule R, see Help) Yes |
 | Were you under the age of 16 as of 1-1-2023 and this is the first year you are filing a tax return? |
 | Language in which you want the IRS to communicate with you ▶ |
 | Do you want \$3 to go to Presidential Election Campaign Fund? |
 | Part II — Questions for Individuals Who Could Be Or Are Dependents of Another Taxpayer |
-| <ul> <li>1 Can another taxpayer (such as your parent) claim you as a dependent? ► Yes X No</li> <li>2 a If you answered 'Yes' to question 1, are you actually claimed as a dependent on that person's tax return?</li> <li>b If you answered 'No' to question 2a, was the person(s) who could claim you required to file a tax return for 2022, or filed a tax return for any reason other than to claim a refund of taxes paid or withheld? If the answer is 'No',</li> </ul> |
+|  - 1 Can another taxpayer (such as your parent) claim you as a dependent? ► Yes X No
+ - 2 a If you answered 'Yes' to question 1, are you actually claimed as a dependent on that person's tax return?
+ - b If you answered 'No' to question 2a, was the person(s) who could claim you required to file a tax return for 2022, or filed a tax return for any reason other than to claim a refund of taxes paid or withheld? If the answer is 'No',
+  |
 | change the answer to question 1 to 'No'. (see help) |
 | Were you a full-time student during any part of five months during 2022? ► Yes No Did your earned income exceed one-half of your support? ► Yes No Was at least one of your parents alive on December 31, 2022? ► Yes No |
 | Part III — Taxpayer's State Residency Information |
@@ -936,8 +1662,8 @@ Under penalties of perjury, I declare that I have examined this return and accom
 | Quick Zoom to another copy of Dependent and Nondependent Information Worksheet ▶ Quick Zoom to Federal Information Worksheet |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Part I — Personal Information |
-| First name <u>Vonadrain</u> Middle initial . <u>W</u> Last name <u>Robinson</u> |
-| Social security no <u>619-27-6438</u> |
+| First name Vonadrain Middle initial . W Last name Robinson |
+| Social security no 619-27-6438 |
 | Date of birth 08/02/2001 (mm/dd/yyyy) age as of 12-31-2022 21 Did this person pass away in 2022 (deceased)? Yes X No Date of death |
 | Relationship to taxpayer or spouse |
 | NOTE: The ability to set your answers to being the same as last year for the dependent is only available in Step-by-Step mode and not in Forms mode. Are the answers to the questions below for this person, to determine whether they are your dependent, the same as they were last year? ▶ |
@@ -951,19 +1677,33 @@ Under penalties of perjury, I declare that I have examined this return and accom
 | automatically be checked yes. |
 | Child is a potentially qualifying child for earned income credit Yes X No Child is a nondependent, but may qualify for earned income credit Yes You, and no one else, is claiming this nondependent for the earned income credit Yes No |
 | Months lived with taxpayer in the United States |
-| Qualifying for the earned income credit * . <u>N</u> — Non-qualifying person |
+| Qualifying for the earned income credit * . N — Non-qualifying person |
 | *EIC code is set based on your selections in the Dependency Exemption/EIC Smart Worksheet |
-| Check if Social Security number is <b>not</b> valid for employment |
-| Check if this person is <b>not</b> a qualifying child for the child tax credit |
+| Check if Social Security number is not valid for employment |
+| Check if this person is not a qualifying child for the child tax credit |
 
 ## 2022
 
-| Dependent name<br>Vonadrain W Robinson Jr | Page 2 |
+| Dependent name
+Vonadrain W Robinson Jr | Page 2 |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
 | Part III ' Dependent Care Expenses | |
-| Qualified child or dependent care expenses incurred and paid in 2022<br>Unreimbursed medical expenses paid for qualifying person in 2022<br>Employment taxes paid for dependent care providers in 2022<br>Child or dependent is a qualifying person for the child and dependent care credit<br>Yes<br>Child is a nondependent, but may qualify for the child and dependent care credit<br>Yes | X<br>No<br>No |
+| Qualified child or dependent care expenses incurred and paid in 2022
+Unreimbursed medical expenses paid for qualifying person in 2022
+Employment taxes paid for dependent care providers in 2022
+Child or dependent is a qualifying person for the child and dependent care credit
+Yes
+Child is a nondependent, but may qualify for the child and dependent care credit
+Yes | X
+No
+No |
 | Part V ' Dependent's State Residency Information | |
-| Enter this person's state of residence as of December 31, 2022<br>Check the appropriate box:<br>This person is a resident of the state above for the entire year<br>This person is a resident of the state above for only part of year<br>Date this person established residence in state above<br>In which state (or foreign country) did this person reside before this change? | |
+| Enter this person's state of residence as of December 31, 2022
+Check the appropriate box:
+This person is a resident of the state above for the entire year
+This person is a resident of the state above for only part of year
+Date this person established residence in state above
+In which state (or foreign country) did this person reside before this change? | |
 | Part VI ' Identity Protection Pin | |
 | If the IRS sent an Identity Protection PIN for this dependent, enter it here | |
 
@@ -975,7 +1715,11 @@ Under penalties of perjury, I declare that I have examined this return and accom
 
 | INCOME | | Federal Amount | | Residency Info | | | * | Allocated |
 |--------|----------------------------|----------------|----------|----------------|-------------|-----------|-----------|---------------------------------------------|
-| | (continued) | Total | Subtotal | From<br>mm/dd | To<br>mm/dd | Res<br>St | Src<br>St | Amount |
+| | (continued) | Total | Subtotal | From
+mm/dd | To
+mm/dd | Res
+St | Src
+St | Amount |
 | | 6 T Business inc or loss | | | | | | | |
 | | | | | | | | | |
 | | S Business inc or loss | | | | | | | |
@@ -985,11 +1729,22 @@ Under penalties of perjury, I declare that I have examined this return and accom
 | | S Farm income or loss | | | | | | | |
 | | | | | | | | | |
 | | | | | | | | | |
-| 8 | Total Schedule E<br>T<br>S | | | | | | | See Sch E Income Allocation Smart Worksheet |
+| 8 | Total Schedule E
+T
+S | | | | | | | See Sch E Income Allocation Smart Worksheet |
 
 # **\*** Enter the state of source for this income (See Tax Help) B
 
-| INCOME<br>(continued) | Federal<br>Amount | From<br>mm/dd | Residency Info<br>To<br>mm/dd | Res<br>St | *<br>Src<br>St | Allocated<br>Amount |
+| INCOME
+(continued) | Federal
+Amount | From
+mm/dd | Residency Info
+To
+mm/dd | Res
+St | *
+Src
+St | Allocated
+Amount |
 |--------------------------------|-------------------|---------------|-------------------------------|-----------|----------------|---------------------|
 | 9 T Capital gain or loss | | | | | | |
 | | | | | | | |
@@ -1010,7 +1765,10 @@ Under penalties of perjury, I declare that I have examined this return and accom
 
 | | Federal | | Residency Info | | Allocated | | | | |
 |----------------------------------------|---------|---------------|----------------|--------------|-----------|--|--|--|--|
-| | Amount | From<br>mm/dd | To<br>mm/dd | Res<br>State | Amount | | | | |
+| | Amount | From
+mm/dd | To
+mm/dd | Res
+State | Amount | | | | |
 | | | | | | | | | | |
 | 12 T Taxable IRA distributions | | | | | | | | | |
 | | | | | | | | | | |
@@ -1042,9 +1800,13 @@ Under penalties of perjury, I declare that I have examined this return and accom
 | | | | | | | | | | |
 | | | | | | | | | | |
 | | | | | | | | | | |
-| 15<br>Total other income<br>T | | | | | | | | | |
+| 15
+Total other income
+T | | | | | | | | | |
 | S | | | | | | | | | |
-| 16<br>Total Income<br>T | | | | | | | | | |
+| 16
+Total Income
+T | | | | | | | | | |
 ## | S | | | | | | | | | |
 
 | ADJUSTMENTS | Federal | | Residency Info | | Allocated | |
@@ -1060,7 +1822,9 @@ Under penalties of perjury, I declare that I have examined this return and accom
 | | | | | | | |
 | | | | | | | |
 | | | | | | | |
-| 18<br>Certain business expenses<br>T | | | | | | |
+| 18
+Certain business expenses
+T | | | | | | |
 | S | | | | | | |
 | 19 T Health savings account deduction | | | | | | |
 | | | | | | | |
@@ -1088,9 +1852,13 @@ Under penalties of perjury, I declare that I have examined this return and accom
 | | | | | | | |
 ## | | | | | | | |
 
-| ADJUSTMENTS | Federal<br>Residency Info | | | | |
+| ADJUSTMENTS | Federal
+Residency Info | | | | |
 |--------------------------------------|---------------------------|---------------|-------------|-----------|--------|
-| (continued) | Amount | From<br>mm/dd | To<br>mm/dd | Res<br>St | Amount |
+| (continued) | Amount | From
+mm/dd | To
+mm/dd | Res
+St | Amount |
 | 22 T Alimony paid | | | | | |
 | | | | | | |
 | S Alimony paid | | | | | |
@@ -1106,7 +1874,16 @@ Under penalties of perjury, I declare that I have examined this return and accom
 
 # **\*** Enter the state of source for this adjustment B
 
-| ADJUSTMENTS<br>(continued) | Federal<br>Amount | From<br>mm/dd | Residency Info<br>To<br>mm/dd | Res<br>St | *<br>Src<br>St | Allocated<br>Amount | |
+| ADJUSTMENTS
+(continued) | Federal
+Amount | From
+mm/dd | Residency Info
+To
+mm/dd | Res
+St | *
+Src
+St | Allocated
+Amount | |
 |--------------------------------------|-------------------|---------------|-------------------------------|-----------|----------------|---------------------|--|
 | 25 T Self-employment tax | | | | | | | |
 | S Self-employment tax | | | | | | | |
@@ -1116,9 +1893,15 @@ Under penalties of perjury, I declare that I have examined this return and accom
 | S Self-employed health insurance | | | | | | | |
 | 28 T Reserved | | | | | | | |
 | S Reserved | | | | | | | |
-| 29<br>Other adjustments | T<br>S | | | | | | |
-| 30<br>Total adjustments | T | | | | | | |
-| 31<br>Adjusted gross income | S<br>T<br>S | | | | | | |
+| 29
+Other adjustments | T
+S | | | | | | |
+| 30
+Total adjustments | T | | | | | | |
+| 31
+Adjusted gross income | S
+T
+S | | | | | | |
 
 # **Form 1040 Forms W-2 & W-2G Summary 2022**
 
@@ -1182,26 +1965,85 @@ Name(s) Shown on Return Social Security Number Christopher W Corella 385-17-2724
 
 # Wage and Tax Statement Keep for your records
 
-| <b>4</b> | | -tatoiiio | |
+| 4 | | -tatoiiio | |
 |----------|--------|------------|--|
 | Keen f | or voi | ır records | |
 ## | | | | |
 
-| | ame<br>nristopher | W Corella | a. | | | | | | | | ecurity Number<br>7-2724 | |
+| | ame
+nristopher | W Corella | a. | | | | | | | | ecurity Number
+7-2724 | |
 |---------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|---------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|-------------------------------------------------------|--------------------------------------------|----------------------------------------------------------------------------------|-------------|----------------------|--------------------------------------|------------------------------|
-| | Spouse<br>Do not | | W-2 to next y | ear | | M | ilitary: ( | Complete <b>Pa</b> | rt VI | on Pa | ge 2 below. | |
-| b | Employee's soci<br>Employer ID nu<br>Employer's nan<br>VALEO NOR'<br>INC<br>Street 150<br>City TRO'<br>State MI<br>Foreign Province<br>Foreign Postal<br>Foreign Country | Imber (EIN) Ine, address, an ITH AMERICA STEPHENSO Y ZIP Code Code Code | . 13-37444<br>d ZIP code | 724 | 3<br>5<br>7 | Social Medic | security 12 are wage 12 security | ,909.02<br>wages<br>,121.84<br>s and tips<br>,121.84 | 4<br>6<br>8 | Socia Medic Alloca | care tax withhel<br>175<br>ated tips | ithheld<br>1.55<br>d<br>5.77 |
+| | Spouse
+Do not | | W-2 to next y | ear | | M | ilitary: ( | Complete Pa | rt VI | on Pa | ge 2 below. | |
+| b | Employee's soci
+Employer ID nu
+Employer's nan
+VALEO NOR'
+INC
+Street 150
+City TRO'
+State MI
+Foreign Province
+Foreign Postal
+Foreign Country | Imber (EIN) Ine, address, an ITH AMERICA STEPHENSO Y ZIP Code Code Code | . 13-37444
+d ZIP code | 724 | 3
+5
+7 | Social Medic | security 12 are wage 12 security | ,909.02
+wages
+,121.84
+s and tips
+,121.84 | 4
+6
+8 | Socia Medic Alloca | care tax withhel
+175
+ated tips | ithheld
+1.55
+d
+5.77 |
 | d | Control number | | | | 11 | Nonqu | alified pla | ans | | Distril | outions from se | ct. 457 |
-| е | the Fed<br>Employee's nar | <b>leral Informa</b><br>ne | nformation fro<br>tion Workshee | om<br>et | 12 | Enter | box 12 be | elow | | | onqualified pla<br>ortant, see Help | |
-| f | First CHRIST Last CORELT Employee's add Street 1551 I City RENO | LA<br>dress and ZIP c | | · <u> </u> | 13 | X | Retireme | employee<br>ent plan<br>rty sick pay | | | | |
-| | State NV Foreign Province | Code | 39503 | | 14 | | | elow <b>after</b> ente<br>ox 15 <b>before</b> e | | | 18, 19, and 20.<br>14. | |
-| - | Box 12 Code C D | Amo | | M: Enter P: Dou R: Enter W: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: En | er amo<br>er amo<br>uble-cli<br>er MS/<br>er HS/<br>mploy | ount at<br>ount at<br>ick to li<br>A contr<br>A contr | tributable nk to For ibution fo ibution fo | to RRTA Tier m 3903, line 4 r Taxpayer Spouse . r Taxpayer Spouse . al governmen | 2 tax | | | D |
-| - | Box 15<br>State | Emplo | Box 15<br>oyer's state I. D. r | number | | Sta | Box<br>ate wages | 16<br>s, tips, etc. | | _ | ox 17 income tax | |
+| е | the Fed
+Employee's nar | leral Informa
+ne | nformation fro
+tion Workshee | om
+et | 12 | Enter | box 12 be | elow | | | onqualified pla
+ortant, see Help | |
+| f | First CHRIST Last CORELT Employee's add Street 1551 I City RENO | LA
+dress and ZIP c | | ·   | 13 | X | Retireme | employee
+ent plan
+rty sick pay | | | | |
+| | State NV Foreign Province | Code | 39503 | | 14 | | | elow after ente
+ox 15 before e | | | 18, 19, and 20.
+14. | |
+| - | Box 12 Code C D | Amo | | M: Enter P: Dou R: Enter W: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: Enter P: Dou R: En | er amo
+er amo
+uble-cli
+er MS/
+er HS/
+mploy | ount at
+ount at
+ick to li
+A contr
+A contr | tributable nk to For ibution fo ibution fo | to RRTA Tier m 3903, line 4 r Taxpayer Spouse . r Taxpayer Spouse . al governmen | 2 tax | | | D |
+| - | Box 15
+State | Emplo | Box 15
+oyer's state I. D. r | number | | Sta | Box
+ate wages | 16
+s, tips, etc. | | _ | ox 17 income tax | |
 | | | | | | | | | | | | | _ |
 | - | | the state with | holding identific | cation nu | ımbaı | r(e) ar | a accura | | | | | |
-| - | | Box 20<br>Locality name | Tolding Identification | | Во | es, tips | | Box<br>Local inc | 19 | | Associated<br>State | |
+| - | | Box 20
+Locality name | Tolding Identification | | Во | es, tips | | Box
+Local inc | 19 | | Associated
+State | |
 | | | | | | | | | | | | | |
-| -<br> -<br> - | Box<br>Description<br>on Actual I | n or Code | Amoun | t | | (Identif | y this iten | ntification of E<br>n by selecting<br>st. If not on th | the id | dentific | ation from | |
+| -
+ -
+ - | Box
+Description
+on Actual I | n or Code | Amoun | t | | (Identif | y this iten | ntification of E
+n by selecting
+st. If not on th | the id | dentific | ation from | |
 ## | | | | | | | | | | | | | |
 
 # **Form 1040 Wages, Salaries, & Tips Worksheet 2022**
@@ -1216,9 +2058,51 @@ The following amounts are included on **line 1** of Form 1040 or 1040-NR:
 
 | | | Taxpayer | Spouse | Total |
 |---------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|--------|---------|
-| a<br>b | Wages, salaries, tips, etc. from Form W-2<br>Household employee wages not on Form<br>W-2 | 11,909. | | 11,909. |
-| c 1<br>2<br>d<br>e<br>f<br>g<br>h<br>i<br>1<br>2<br>3<br>4<br>5<br>6<br>7 | Taxable tips, from Form 4137<br>Noncash tips (not included on 1a)<br>Medicaid waiver payments not on Form W-2<br>Strike benefit income<br>Taxable dependent care benefits from Form<br>Form 2441<br>Employer-provided adoption benefits from<br>Form 8839<br>Wages from Form 8919<br>Items from Form 1099-R:<br>a<br>Disability before minimum retirement age<br>b<br>Return of contributions<br>Excess moving expense reimbursement,<br>from Form 3903<br>Sick pay or disability payments<br>Total foreign source income<br>Check this box if the amount on line h4 is<br>eligible for the foreign exclusion/ded'n<br>Ordinary income from employer stock<br>transactions not reported on Form W-2<br>Non-gov unemploym't recv'd/repaid 2022<br>Other earned income: | | | |
-| 8<br>z | Excess reimbursement, from Form 2106<br>Total | 11,909. | | 11,909. |
+| a
+b | Wages, salaries, tips, etc. from Form W-2
+Household employee wages not on Form
+W-2 | 11,909. | | 11,909. |
+| c 1
+2
+d
+e
+f
+g
+h
+i
+1
+2
+3
+4
+5
+6
+7 | Taxable tips, from Form 4137
+Noncash tips (not included on 1a)
+Medicaid waiver payments not on Form W-2
+Strike benefit income
+Taxable dependent care benefits from Form
+Form 2441
+Employer-provided adoption benefits from
+Form 8839
+Wages from Form 8919
+Items from Form 1099-R:
+a
+Disability before minimum retirement age
+b
+Return of contributions
+Excess moving expense reimbursement,
+from Form 3903
+Sick pay or disability payments
+Total foreign source income
+Check this box if the amount on line h4 is
+eligible for the foreign exclusion/ded'n
+Ordinary income from employer stock
+transactions not reported on Form W-2
+Non-gov unemploym't recv'd/repaid 2022
+Other earned income: | | | |
+| 8
+z | Excess reimbursement, from Form 2106
+Total | 11,909. | | 11,909. |
 
 # **Schedule D Unrecaptured Section 1250 Gain Worksheet 2022**
 
@@ -1226,7 +2110,9 @@ The following amounts are included on **line 1** of Form 1040 or 1040-NR:
 
 Name(s) Shown on Return Social Security Number Christopher W Corella 385-17-2724
 
-| | | | Regular<br>Tax | Alternative<br>Minimum Tax |
+| | | | Regular
+Tax | Alternative
+Minimum Tax |
 |----|------------------------------------------------------------------------|----|----------------|----------------------------|
 | | If you are not reporting a gain on Form 4797, line 7, skip lines 1 | | | |
 | | through 9 and go to line 10. | | | |
@@ -1253,7 +2139,8 @@ Name(s) Shown on Return Social Security Number Christopher W Corella 385-17-2724
 | 11 | Enter the total of any amounts reported to you as "unrecaptured | | | |
 | | section 1250 gain" from an estate, trust, real estate investment | | | |
 | | trust or mutual fund | | | |
-| | Regular<br>AMT | | | |
+| | Regular
+AMT | | | |
 | | a On Form 1099-DIV | | | |
 | | b On Form 2439 | | | |
 | | c On Schedule(s) K-1 | | | |
@@ -1291,70 +2178,154 @@ Name(s) Shown on Return Social Security Number Christopher W Corella 385-17-2724
 
 ## **Line 16** G Keep for your records
 
-| | Name(s) Shown on Return<br>Christopher W Corella | Social Security Number<br>385-17-2724 |
+| | Name(s) Shown on Return
+Christopher W Corella | Social Security Number
+385-17-2724 |
 |----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|
-| | 1 a Enter your taxable income from Form 1040, line 15 | 0.<br>1 a |
+| | 1 a Enter your taxable income from Form 1040, line 15 | 0.
+1 a |
 | | b Enter amount on line 2c of your (and spouse's) Foreign Earned Income Tax Wksht | b |
-| | c Add lines 1a and 1b<br>2 a Enter your qualified dividends | 1 c<br>0. |
-| | from Form 1040, line 3a<br>2 a | |
+| | c Add lines 1a and 1b
+2 a Enter your qualified dividends | 1 c
+0. |
+| | from Form 1040, line 3a
+2 a | |
 | | b Enter any capital gain excess | |
-| | attributable to qualified dividends<br>b | |
-| | c Subtract line 2b from line 2a<br>2 c | |
-| 3 | Amount from Form 4952, line 4g<br>3<br>4 a Amount from Form 4952, line 4e<br>4 a | |
+| | attributable to qualified dividends
+b | |
+| | c Subtract line 2b from line 2a
+2 c | |
+| 3 | Amount from Form 4952, line 4g
+3
+4 a Amount from Form 4952, line 4e
+4 a | |
 | | b Amount from the dotted line | |
-| | next to Form 4952, line 4e<br>b | |
-| | c Line 4b, if applicable, 4a, if not<br>c | |
-| 5 | 0.<br>Subtract line 4c from line 3.<br>5 | |
-| 6 | Subtract line 5 from line 2c. If zero or less, enter -0-<br>6<br>0.<br>7 a Enter line 15 of Schedule D<br>7 a | |
-| | b Enter line 16 of Schedule D<br>b | |
-| | c Enter the smaller of line 7a or line 7b<br>7 c<br>0. | |
-| 8 | Enter the smaller of line 3 or line 4c<br>8 | |
-| | 0.<br>9 a Subtract line 8 from line 7.<br>9 a<br>b Enter any capital gain excess attributable to | |
-| | capital gains<br>b | |
-| | 0.<br>c Subtract line 9b from line 9a<br>9 c | |
-| 10 | Add lines 6 and 9c<br>10 | 0. |
-| | 0.<br>11 a Enter the amount from Schedule D, line 18<br>11 a | |
-| | b Enter the amount from Schedule D, line 19<br>b<br>c Add lines 11a and 11b<br>11 c<br>0. | |
-| 12 | Enter the smaller of line 9c or line 11c<br>12 | 0. |
-| 13 | Subtract line 12 from line 10 | 0.<br>13 |
-| 14 | Subtract line 13 from line 1c. If zero or less, enter -0- | 0.<br>14 |
-| 15 | Enter:<br>? | |
-| | if single or married filing separately,<br>?<br>41,675.<br>if mfj or qualifying surviving spouse, or<br>15 | |
-| | ?<br>if head of household. | |
-| 16 | Enter the smaller of line 1c or line 15<br>16 | 0. |
-| 17 | 0.<br>Enter the smaller of line 14 or line 16<br>17 | |
-| 18<br>19 | 0.<br>Subtr ln 10 from ln 1c. If zero or less, enter -0-<br>18<br>Enter the smaller of line 1c or: | |
-| | ?<br>if single or married filing sep, | |
-| | ?<br>0.<br>if MFJ or QSS, or<br>19 | |
-| | ?<br>if head of household. | |
-| 20<br>21 | 0.<br>Enter the smaller of line 14 or line 19<br>20<br>Enter the larger of line 18 or line 20<br>21 | 0. |
-| 22 | Subtract line 17 from line 16. This amount is taxed at 0%<br>22 | 0. |
+| | next to Form 4952, line 4e
+b | |
+| | c Line 4b, if applicable, 4a, if not
+c | |
+| 5 | 0.
+Subtract line 4c from line 3.
+5 | |
+| 6 | Subtract line 5 from line 2c. If zero or less, enter -06
+0.
+7 a Enter line 15 of Schedule D
+7 a | |
+| | b Enter line 16 of Schedule D
+b | |
+| | c Enter the smaller of line 7a or line 7b
+7 c
+0. | |
+| 8 | Enter the smaller of line 3 or line 4c
+8 | |
+| | 0.
+9 a Subtract line 8 from line 7.
+9 a
+b Enter any capital gain excess attributable to | |
+| | capital gains
+b | |
+| | 0.
+c Subtract line 9b from line 9a
+9 c | |
+| 10 | Add lines 6 and 9c
+10 | 0. |
+| | 0.
+11 a Enter the amount from Schedule D, line 18
+11 a | |
+| | b Enter the amount from Schedule D, line 19
+b
+c Add lines 11a and 11b
+11 c
+0. | |
+| 12 | Enter the smaller of line 9c or line 11c
+12 | 0. |
+| 13 | Subtract line 12 from line 10 | 0.
+13 |
+| 14 | Subtract line 13 from line 1c. If zero or less, enter -0- | 0.
+14 |
+| 15 | Enter:
+? | |
+| | if single or married filing separately,
+?
+41,675.
+if mfj or qualifying surviving spouse, or
+15 | |
+| | ?
+if head of household. | |
+| 16 | Enter the smaller of line 1c or line 15
+16 | 0. |
+| 17 | 0.
+Enter the smaller of line 14 or line 16
+17 | |
+| 18
+19 | 0.
+Subtr ln 10 from ln 1c. If zero or less, enter -018
+Enter the smaller of line 1c or: | |
+| | ?
+if single or married filing sep, | |
+| | ?
+0.
+if MFJ or QSS, or
+19 | |
+| | ?
+if head of household. | |
+| 20
+21 | 0.
+Enter the smaller of line 14 or line 19
+20
+Enter the larger of line 18 or line 20
+21 | 0. |
+| 22 | Subtract line 17 from line 16. This amount is taxed at 0%
+22 | 0. |
 | | If lines 1c and 16 are the same, skip lines 23 through 43 and go to line 44. Otherwise, go to line 23. | |
-| 23 | Enter the smaller of line 1c or line 13<br>23 | |
-| 24<br>25 | Enter the amount from line 22 (if line 22 is blank, enter -0-)<br>24<br>Subtract line 24 from line 23. If zero or less, enter -0-<br>25 | |
+| 23 | Enter the smaller of line 1c or line 13
+23 | |
+| 24
+25 | Enter the amount from line 22 (if line 22 is blank, enter -0-)
+24
+Subtract line 24 from line 23. If zero or less, enter -025 | |
 | 26 | Enter: | |
-| | ?<br>if single, | |
-| | ?<br>if married filing separately,<br>26 | |
-| | ?<br>if mfj or qualifying surviving spouse, or<br>?<br>if head of household. | |
-| 27 | Enter the smaller of line 1c or line 26<br>27 | |
-| 28 | Add lines 21 and 22<br>28 | |
-| 29 | Subtract line 28 from line 27. If zero or less, enter -0-<br>29 | |
-| 30 | Enter the smaller of line 25 or line 29<br>30 | |
-| 31<br>32 | Multiply line 30 by 15% (0.15)<br>Add lines 24 and 30<br>32 | 31 |
+| | ?
+if single, | |
+| | ?
+if married filing separately,
+26 | |
+| | ?
+if mfj or qualifying surviving spouse, or
+?
+if head of household. | |
+| 27 | Enter the smaller of line 1c or line 26
+27 | |
+| 28 | Add lines 21 and 22
+28 | |
+| 29 | Subtract line 28 from line 27. If zero or less, enter -029 | |
+| 30 | Enter the smaller of line 25 or line 29
+30 | |
+| 31
+32 | Multiply line 30 by 15% (0.15)
+Add lines 24 and 30
+32 | 31 |
 | | If lines 1 and 32 are the same, skip lines 33 through 43 and go to line 44. Otherwise, go to line 33 | |
-| 33 | Subtract line 32 from line 23<br>33 | |
+| 33 | Subtract line 32 from line 23
+33 | |
 | 34 | Multiply line 33 by 20% (0.20) | 34 |
-| 35 | If Schedule D, line 19, is zero or blank, skip lines 35 through 40 and go to line 41. Otherwise, go to line 35.<br>Enter the smaller of line 9c above or Schedule D, line 19<br>35 | |
-| 36 | Add lines 10 and 21<br>36 | |
-| 37 | Enter the amount from line 1c above<br>37 | |
+| 35 | If Schedule D, line 19, is zero or blank, skip lines 35 through 40 and go to line 41. Otherwise, go to line 35.
+Enter the smaller of line 9c above or Schedule D, line 19
+35 | |
+| 36 | Add lines 10 and 21
+36 | |
+| 37 | Enter the amount from line 1c above
+37 | |
 
-| 38 | Subtract line 37 from line 36. If zero or less, enter -0-<br>38 | | |
+| 38 | Subtract line 37 from line 36. If zero or less, enter -038 | | |
 |----|-----------------------------------------------------------------------------------------------------------------|----|----|
-| 39 | Subtract line 38 from line 35. If zero or less, enter -0-<br>39 | | |
+| 39 | Subtract line 38 from line 35. If zero or less, enter -039 | | |
 | 40 | Multiply line 39 by 25% (0.25) | 40 | |
 | | If Schedule D, line 18, is zero or blank, skip lines 41 through 43 and go to line 44. Otherwise, go to line 41. | | |
-| 41 | Add lines 21, 22, 30, 33, and 39<br>41 | | |
-| 42 | Subtract line 41 from line 1c<br>42 | | |
+| 41 | Add lines 21, 22, 30, 33, and 39
+41 | | |
+| 42 | Subtract line 41 from line 1c
+42 | | |
 | 43 | Multiply line 42 by 28% (0.28) | 43 | |
 | 44 | Figure the tax on the amount on line 21. If the amount on line 21 is less than \$100,000, | | |
 | | use the Tax Table to figure this tax. If the amount on line 21 is \$100,000 or more, | | |
@@ -1379,13 +2350,55 @@ Name(s) Shown on Return Social Security Number **1** Enter the amount from Form 
 
 | | Regular Traditional IRA Contributions | Taxpayer | Spouse |
 |------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|--------|
-| 1<br>2<br>3<br>4<br>A<br>5<br>6<br>7<br>8<br>9 | Enter traditional IRA contributions made for 2022, including<br>any made between 1/1/2023 and 4/18/2023, any amounts<br>later recharacterized to a Roth IRA, and any excess<br>contributions, but not including any rollovers. Also include any<br>contributions to deemed IRAs under an employer plan<br>Contributions recharacterized from a Roth IRA (from line 24)<br>Traditional IRA contributions, from Schedule(s) K-1<br>Contributions recharacterized (not converted) to a Roth IRA<br>If there is a recharacterization indicated on line 4, an<br>explanation must be attached to the tax return.<br>Traditional IRA contributions. Combine lines 1 through 4<br>Enter any contribution included on line 5 withdrawn before<br>the due date of the tax return. See Help<br>Excess traditional IRA contribution credit<br>Repayments of qualified reservist distributions<br>Total traditional IRA contributions. | | |
+| 1
+2
+3
+4
+A
+5
+6
+7
+8
+9 | Enter traditional IRA contributions made for 2022, including
+any made between 1/1/2023 and 4/18/2023, any amounts
+later recharacterized to a Roth IRA, and any excess
+contributions, but not including any rollovers. Also include any
+contributions to deemed IRAs under an employer plan
+Contributions recharacterized from a Roth IRA (from line 24)
+Traditional IRA contributions, from Schedule(s) K-1
+Contributions recharacterized (not converted) to a Roth IRA
+If there is a recharacterization indicated on line 4, an
+explanation must be attached to the tax return.
+Traditional IRA contributions. Combine lines 1 through 4
+Enter any contribution included on line 5 withdrawn before
+the due date of the tax return. See Help
+Excess traditional IRA contribution credit
+Repayments of qualified reservist distributions
+Total traditional IRA contributions. | | |
 | | Additional Traditional IRA Contribution Information | Taxpayer | Spouse |
-| 10<br>11 | Check if covered by a retirement plan at work. If married filing<br>a separate return, check box in spouse column, if applicable<br>Enter any contributions included on line 9 that were made<br>during 1/1/2023 to 4/18/2023 (See Help) | X | |
+| 10
+11 | Check if covered by a retirement plan at work. If married filing
+a separate return, check box in spouse column, if applicable
+Enter any contributions included on line 9 that were made
+during 1/1/2023 to 4/18/2023 (See Help) | X | |
 | | Deductible and Non-deductible Traditional IRA Contributions | Taxpayer | Spouse |
-| 12<br>13 | Deductible traditional IRA contributions from worksheet<br>Nondeductible traditional IRA contributions from worksheet<br>Quick Zoom to worksheet indicated by the check:<br>IRA deduction worksheet<br>Worksheet for social security recipients | | |
-| 14<br>15 | Amount on line 13 you elect to make nondeductible<br>Excess traditional IRA contributions, to Form 5329, line 15<br>Note: You may avoid a penalty by withdrawing the amount<br>on line 15 before due date of return, including extensions. | | |
-| 16<br>17<br>18 | Deductible traditional IRA contributions, to Schedule 1<br>(Form 1040), Line 19<br>Qualified reservist repayments<br>Nondeductible traditional IRA contributions, to Form 8606, ln 1 | | |
+| 12
+13 | Deductible traditional IRA contributions from worksheet
+Nondeductible traditional IRA contributions from worksheet
+Quick Zoom to worksheet indicated by the check:
+IRA deduction worksheet
+Worksheet for social security recipients | | |
+| 14
+15 | Amount on line 13 you elect to make nondeductible
+Excess traditional IRA contributions, to Form 5329, line 15
+Note: You may avoid a penalty by withdrawing the amount
+on line 15 before due date of return, including extensions. | | |
+| 16
+17
+18 | Deductible traditional IRA contributions, to Schedule 1
+(Form 1040), Line 19
+Qualified reservist repayments
+Nondeductible traditional IRA contributions, to Form 8606, ln 1 | | |
 
 ## Christopher W Corella 385-17-2724
 
@@ -1395,16 +2408,43 @@ Name(s) Shown on Return Social Security Number **1** Enter the amount from Form 
 
 | | Regular Roth IRA Contributions | Taxpayer | Spouse |
 |---------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|--------|
-| 19 | Enter regular Roth IRA contributions made for 2022, including<br>any made between 1/1/2023 and 4/18/2023, any amounts<br>later recharacterized to a traditional IRA, and any excess<br>contributions, but not including any rollovers or conversions.<br>Also include any contributions to deemed Roth IRAs under an<br>employer plan | | |
-| 20<br>21<br>22<br>A | Contributions recharacterized from a traditional IRA, (from ln 4)<br>Roth IRA contributions, from Schedule(s) K-1<br>Enter contributions recharacterized to a traditional IRA<br>If there is a recharacterization indicated on line 23, an<br>explanation must be attached to the tax return. | | |
-| 23<br>24<br>25 | Disallowed Roth IRA conversions<br>Roth IRA contributions. Combine lines 20 through 23<br>Enter any contribution included on line 24 withdrawn before<br>the due date of the tax return. See Help | | |
-| 26<br>27<br>28 | Excess Roth IRA contribution credit<br>Total Roth IRA contributions<br>Repayments of qualified Roth reservist distributions | | |
+| 19 | Enter regular Roth IRA contributions made for 2022, including
+any made between 1/1/2023 and 4/18/2023, any amounts
+later recharacterized to a traditional IRA, and any excess
+contributions, but not including any rollovers or conversions.
+Also include any contributions to deemed Roth IRAs under an
+employer plan | | |
+| 20
+21
+22
+A | Contributions recharacterized from a traditional IRA, (from ln 4)
+Roth IRA contributions, from Schedule(s) K-1
+Enter contributions recharacterized to a traditional IRA
+If there is a recharacterization indicated on line 23, an
+explanation must be attached to the tax return. | | |
+| 23
+24
+25 | Disallowed Roth IRA conversions
+Roth IRA contributions. Combine lines 20 through 23
+Enter any contribution included on line 24 withdrawn before
+the due date of the tax return. See Help | | |
+| 26
+27
+28 | Excess Roth IRA contribution credit
+Total Roth IRA contributions
+Repayments of qualified Roth reservist distributions | | |
 | | Roth IRA Contributions After Limitations | Taxpayer | Spouse |
-| 29<br>30 | Roth IRA contributions after limitation<br>Excess Roth IRA contributions, to Form(s) 5329, line 23<br>Note: You may avoid a penalty by withdrawing the amount<br>on line 31 before due date of return, including extensions. | | |
+| 29
+30 | Roth IRA contributions after limitation
+Excess Roth IRA contributions, to Form(s) 5329, line 23
+Note: You may avoid a penalty by withdrawing the amount
+on line 31 before due date of return, including extensions. | | |
 | | Coverdell Education Savings Account (Education IRA) Contributions | | |
 | | Excess Coverdell Education Savings Account Contributions | Taxpayer | Spouse |
-| 31 | Enter any excess contributions made to Coverdell Education<br>Savings Accounts (ESAs) of which you are the beneficiary | | |
-| | Note: You do not need to report any Coverdell ESA<br>contributions which are not excess contributions | | |
+| 31 | Enter any excess contributions made to Coverdell Education
+Savings Accounts (ESAs) of which you are the beneficiary | | |
+| | Note: You do not need to report any Coverdell ESA
+contributions which are not excess contributions | | |
 
 | Name(s) Shown on Return | Social Security Number |
 |-------------------------|------------------------|
@@ -1412,7 +2452,8 @@ Name(s) Shown on Return Social Security Number **1** Enter the amount from Form 
 
 **Estimated Tax Payments for 2022** (If more than 4 payments for any state or locality, see Tax Help)
 
-| Date | Federal<br>Amount | | | State | | | | Local | | | |
+| Date | Federal
+Amount | | | State | | | | Local | | | |
 |---------------|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------|--|----------------------------------------------|--------|-------|--|--|
 | | | | | | | | | | | | |
 | | | Date | | Amount | ID | | Date | Amount | ID | | |
@@ -1442,29 +2483,154 @@ Name(s) Shown on Return Social Security Number **1** Enter the amount from Form 
 | | | | | | | | | | | | |
 | | | | | | | | ID | Local | ID | | |
 | | | | | | | | | | | | |
-| | | (If multiple states, see Tax Help)<br>Totals Lines 1 through 7<br>2022 extensions<br>Taxes Withheld From:<br>Forms W-2<br>Forms W-2G<br>Forms 1099-R<br>Schedules K-1<br>Form 1099-B<br>Other withholding<br>Other withholding<br>Other withholding<br>Positive Adjustment<br>Negative Adjustment<br>Additional Medicare Tax | Tax Payments Other Than Withholding<br>Overpayments applied to 2022<br>Credited by estates and trusts<br>Forms 1099-INT, DIV and OID<br>Social Security and Railroad Benefits<br>St<br>St<br>St<br>St<br>Total Tax Payments for 2022<br>Prior Year Taxes Paid In 2022 | Loc<br>Loc<br>Loc<br>Loc<br>Total Withholding Lines 10 through 18f<br>(If multiple states or localities, see Tax Help) | Federal<br>Forms 1099-MISC, 1099-NEC, 1099-K, 1099-G | | State<br>1,079.<br>1,079.<br>1,079.<br>State | | | | |
+| | | (If multiple states, see Tax Help)
+Totals Lines 1 through 7
+2022 extensions
+Taxes Withheld From:
+Forms W-2
+Forms W-2G
+Forms 1099-R
+Schedules K-1
+Form 1099-B
+Other withholding
+Other withholding
+Other withholding
+Positive Adjustment
+Negative Adjustment
+Additional Medicare Tax | Tax Payments Other Than Withholding
+Overpayments applied to 2022
+Credited by estates and trusts
+Forms 1099-INT, DIV and OID
+Social Security and Railroad Benefits
+St
+St
+St
+St
+Total Tax Payments for 2022
+Prior Year Taxes Paid In 2022 | Loc
+Loc
+Loc
+Loc
+Total Withholding Lines 10 through 18f
+(If multiple states or localities, see Tax Help) | Federal
+Forms 1099-MISC, 1099-NEC, 1099-K, 1099-G | | State
+1,079.
+1,079.
+1,079.
+State | | | | |
 
 # **Schedule A Tax and Interest Deduction Worksheet 2022**
 
 ## **Lines 5 - 12** G Keep for your records
 
-| | | Name(s) Shown on Return<br>Christopher W Corella | | | | | | | | | | 385-17-2724 | Social Security Number |
+| | | Name(s) Shown on Return
+Christopher W Corella | | | | | | | | | | 385-17-2724 | Social Security Number |
 |----------------------------|---------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|---------------------------|-------------|----------------|--|-----------------------------|--|----------------------------------------------|--------------------------------------|
 | | | Tax Deductions | | | | | | | | | | | |
-| 1<br>a | | State and local taxes:<br>Available Income: | | | | Optional Sales Tax Tables | | | | | | | |
-| | 11,909.<br>(1) Income from Form 1040, line 11 | | | | | | | | | | | | |
-| | (2) Nontaxable income entered elsewhere on return<br>0.<br>(3) Available income: 2021 refundable credits in excess of tax | | | | | | | | | | | | |
-| | (4) Enter any additional nontaxable income<br>11,909.<br>(5) Total available income | | | | | | | | | | | | |
-| b | | | Sales Tax Per State of Residence:<br>Enter state in column (1), then enter total (combined) state and local sales tax rate in column (4).<br>Arizona, Colorado, Louisiana, Mississippi, New York or South Carolina only:<br>Double-click in column (4) to select your locality for each state entered. | | | | | | | | | | |
-| | (1)<br>S<br>t<br>a<br>t<br>e | (2)<br>Date<br>Lived in<br>State<br>From | (3)<br>Date<br>Lived in<br>State<br>To | (4)<br>(5)<br>(6)<br>(7)<br>(8)<br>Enter<br>State<br>Local<br>State<br>Local<br>Total<br>Sales<br>Sales<br>Sales<br>Sales<br>State &<br>Tax<br>Tax<br>Tax<br>Tax<br>Local<br>Rate<br>Rate (%)<br>Table<br>Amount<br>Rate (%)<br>(%)<br>(4) - (5)<br>Amount | | | | | | | | (9)<br>Prorated<br>or Total<br>Amount | |
+| 1
+a | | State and local taxes:
+Available Income: | | | | Optional Sales Tax Tables | | | | | | | |
+| | 11,909.
+(1) Income from Form 1040, line 11 | | | | | | | | | | | | |
+| | (2) Nontaxable income entered elsewhere on return
+0.
+(3) Available income: 2021 refundable credits in excess of tax | | | | | | | | | | | | |
+| | (4) Enter any additional nontaxable income
+11,909.
+(5) Total available income | | | | | | | | | | | | |
+| b | | | Sales Tax Per State of Residence:
+Enter state in column (1), then enter total (combined) state and local sales tax rate in column (4).
+Arizona, Colorado, Louisiana, Mississippi, New York or South Carolina only:
+Double-click in column (4) to select your locality for each state entered. | | | | | | | | | | |
+| | (1)
+S
+t
+a
+t
+e | (2)
+Date
+Lived in
+State
+From | (3)
+Date
+Lived in
+State
+To | (4)
+(5)
+(6)
+(7)
+(8)
+Enter
+State
+Local
+State
+Local
+Total
+Sales
+Sales
+Sales
+Sales
+State &
+Tax
+Tax
+Tax
+Tax
+Local
+Rate
+Rate (%)
+Table
+Amount
+Rate (%)
+(%)
+(4) - (5)
+Amount | | | | | | | | (9)
+Prorated
+or Total
+Amount | |
 | | | | | | | | | | | | | | |
 | | | | | | | | | | | | | | |
-| c<br>d | | | Total general sales tax using tables<br>Sales Tax Paid on Specific Items (see help): | | | | | | | | | | |
-| | (1)<br>ST | (2)<br>Total<br>State &<br>Local<br>Rate | (3)<br>Description | | (4)<br>Type | | (5)<br>Cost | | | (6)<br>Rate if<br>Different | | (7)<br>Actual<br>Sales Tax<br>Amount<br>Paid | (8)<br>Specific<br>Item<br>Deduction |
+| c
+d | | | Total general sales tax using tables
+Sales Tax Paid on Specific Items (see help): | | | | | | | | | | |
+| | (1)
+ST | (2)
+Total
+State &
+Local
+Rate | (3)
+Description | | (4)
+Type | | (5)
+Cost | | | (6)
+Rate if
+Different | | (7)
+Actual
+Sales Tax
+Amount
+Paid | (8)
+Specific
+Item
+Deduction |
 | | | | | | | | | | | | | | |
 | | | | | | | | | | | | | | |
-| e<br>f<br>g<br>h<br>i<br>j | | Income Taxes | Total sales tax deduction on specific items<br>Total general sales tax per tables plus sales tax on specific items<br>Actual State and Local General Sales Tax:<br>Actual sales taxes (enter the total sales taxes paid during the year on all items)<br>State and Local Income Taxes:<br>State and Local Income taxes<br>State and Local Tax Deduction to Schedule A, line 5a:<br>Greater of line 1f, line 1g, or line 1h (to Schedule A, line 5a)<br>Check a box to choose to use income taxes paid, sales taxes paid, or whichever<br>provides the greater deduction:<br>Sales Taxes | | | | | Greater amount | | X | | | |
-| 2<br>a | | | State and local real estate taxes:<br>Real estate taxes paid on principal residence not entered on Form 1098 | | | | | | | | | | |
+| e
+f
+g
+h
+i
+j | | Income Taxes | Total sales tax deduction on specific items
+Total general sales tax per tables plus sales tax on specific items
+Actual State and Local General Sales Tax:
+Actual sales taxes (enter the total sales taxes paid during the year on all items)
+State and Local Income Taxes:
+State and Local Income taxes
+State and Local Tax Deduction to Schedule A, line 5a:
+Greater of line 1f, line 1g, or line 1h (to Schedule A, line 5a)
+Check a box to choose to use income taxes paid, sales taxes paid, or whichever
+provides the greater deduction:
+Sales Taxes | | | | | Greater amount | | X | | | |
+| 2
+a | | | State and local real estate taxes:
+Real estate taxes paid on principal residence not entered on Form 1098 | | | | | | | | | | |
 
 | b | Real estate taxes paid on principal residence entered on Home Mortgage Int. Wks |
 |---|---------------------------------------------------------------------------------|
@@ -1477,7 +2643,8 @@ Name(s) Shown on Return Social Security Number **1** Enter the amount from Form 
 | h | Add lines 2a through 2f, less line 2g (to Schedule A, line 5b) |
 | 3 | State and local personal property taxes: |
 | a | Auto registration fees based on the value of the vehicle. |
-| | 2021 Amount<br>Enter 2022 description: |
+| | 2021 Amount
+Enter 2022 description: |
 | | |
 | | |
 | | |
@@ -1491,7 +2658,8 @@ Name(s) Shown on Return Social Security Number **1** Enter the amount from Form 
 | c | Foreign taxes from Schedule(s) K-1 |
 | d | Other foreign taxes (not used to claim a foreign tax credit) |
 | e | Other taxes. |
-| | 2021 Amount<br>Enter 2022 description: |
+| | 2021 Amount
+Enter 2022 description: |
 | | |
 | | |
 | | |
@@ -1525,7 +2693,9 @@ Name(s) Shown on Return Social Security Number **1** Enter the amount from Form 
 
 ## **Line 5** G Keep for your records
 
-| | Name(s) Shown on Return<br>Christopher W Corella | | Social Security Number<br>385-17-2724 |
+| | Name(s) Shown on Return
+Christopher W Corella | | Social Security Number
+385-17-2724 |
 |----|--------------------------------------------------------------------------|----|---------------------------------------|
 | | State and Local Income Taxes | | |
 | | State income taxes: | | |
@@ -1588,38 +2758,63 @@ Name(s) Shown on Return Social Security Number **1** Enter the amount from Form 
 | | contributions you entered on a previous line | 7 |
 | | | |
 | | Step 2 ' Figure your deduction for the year (if any result is zero or less, enter -0-) | |
-| 8 | Enter your adjusted gross income (AGI) | 11,909.<br>8 |
+| 8 | Enter your adjusted gross income (AGI) | 11,909.
+8 |
 | | A Cash contributions subject to the limit based on 60% of AGI | |
 | | (If line 7 is zero, leave lines 9 through 11 blank) | |
-| 9 | Multiply line 8 by 0.6<br>9 | |
-| 10 | Deductible amount. Enter the smaller of line 7 or line 9<br>10 | |
-| 11 | Carryover. Subtract line 10 from line 7<br>11 | |
+| 9 | Multiply line 8 by 0.6
+9 | |
+| 10 | Deductible amount. Enter the smaller of line 7 or line 9
+10 | |
+| 11 | Carryover. Subtract line 10 from line 7
+11 | |
 | | B Noncash contributions subject to the limit based on 50% of AGI | |
 | | (If line 6 is zero, leave lines 12 through 15 blank) | |
-| 12 | Multiply line 8 by 0.5<br>12 | |
-| 13 | 13<br>Subtract line 10 from line 12 | |
-| 14 | Deductible amount. Enter the smaller of line 6 or line 13<br>14 | |
-| 15 | Carryover. Subtract line 14 from line 6<br>15 | |
+| 12 | Multiply line 8 by 0.5
+12 | |
+| 13 | 13
+Subtract line 10 from line 12 | |
+| 14 | Deductible amount. Enter the smaller of line 6 or line 13
+14 | |
+| 15 | Carryover. Subtract line 14 from line 6
+15 | |
 | | C Contributions (other than capital gain property) subject to limit based on 30% of AGI | |
 | | (If lines 3 and 4 are both zero, leave lines 16 through 22 blank) | |
-| 16 | 16<br>Multiply line 8 by 0.5 | |
-| 17 | Add lines 5, 6, and 7<br>17 | |
-| 18 | Subtract line 17 from line 16<br>18 | |
-| 19 | Multiply line 8 by 0.3<br>19 | |
-| 20 | Add lines 3 and 4<br>20 | |
-| 21 | Deductible amount. Enter the smallest of line 18, 19, or 20<br>21 | |
-| | a<br>Cash portion of deductible amount - for Sch A line 11<br>a | |
-| | b<br>Non-cash portion of deductible amount - for Sch A line 12<br>b | |
-| 22 | Carryover. Subtract line 21 from line 20<br>22 | |
+| 16 | 16
+Multiply line 8 by 0.5 | |
+| 17 | Add lines 5, 6, and 7
+17 | |
+| 18 | Subtract line 17 from line 16
+18 | |
+| 19 | Multiply line 8 by 0.3
+19 | |
+| 20 | Add lines 3 and 4
+20 | |
+| 21 | Deductible amount. Enter the smallest of line 18, 19, or 20
+21 | |
+| | a
+Cash portion of deductible amount - for Sch A line 11
+a | |
+| | b
+Non-cash portion of deductible amount - for Sch A line 12
+b | |
+| 22 | Carryover. Subtract line 21 from line 20
+22 | |
 | | D Contributions of capital gain property subject to limit based on 30% of AGI | |
 | | (If line 5 is zero, leave lines 23 through 28 blank) | |
-| 23 | Multiply line 8 by 0.5<br>23 | |
-| 24 | Add lines 6 and 7<br>24 | |
+| 23 | Multiply line 8 by 0.5
+23 | |
+| 24 | Add lines 6 and 7
+24 | |
 | | | |
-| 25 | Subtract line 24 from line 23<br>25 | |
-| 26 | Multiply line 8 by 0.3<br>26 | |
-| 27 | Deductible amount. Enter the smallest of line 5, 25, or 26<br>27 | |
-| 28 | Carryover. Subtract line 27 from line 5<br>28 | |
+| 25 | Subtract line 24 from line 23
+25 | |
+| 26 | Multiply line 8 by 0.3
+26 | |
+| 27 | Deductible amount. Enter the smallest of line 5, 25, or 26
+27 | |
+| 28 | Carryover. Subtract line 27 from line 5
+28 | |
 | | E Contributions subject to the limit based on 20% of AGI | |
 
 | 29 | Multiply line 8 by 0.5 | 29 | |
@@ -1654,9 +2849,12 @@ Name(s) Shown on Return Social Security Number **1** Enter the amount from Form 
 
 # Charitable Deduction Limits Worksheet For Carryover Contributions ► Keep for your records
 
-| Name(s) Shown on Return<br>Christopher W Corella | Social Security Number 385-17-2724 |
+| Name(s) Shown on Return
+Christopher W Corella | Social Security Number 385-17-2724 |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------|
-| <ul> <li>Step 1 — Enter your other charitable contributions made during the year.</li> <li>1 Enter your cash contributions to 60% limit organizations</li></ul> | 2 |
+|  - Step 1 — Enter your other charitable contributions made during the year.
+ - 1 Enter your cash contributions to 60% limit organizations
+ | 2 |
 | Step 2 — Figure your deduction for the year (if any result is zero or less, enter -0 8 Enter your adjusted gross income (AGI) | 11,909. |
 | 12 Multiply line 8 by 0.5 12 13 Subtract line 10 from line 12 13 14 Deductible amount. Enter the smaller of line 6 or line 13 14 15 Carryover. Subtract line 14 from line 6 15 C Contributions (other than capital gain property) subject to limit based on 30% (If lines 3 and 4 are both zero, leave lines 16 through 22 blank) 16 Multiply line 8 by 0.5 16 17 Add lines 5, 6, and 7 17 18 Subtract line 17 from line 16 18 19 Multiply line 8 by 0.3 19 | of AGI |
 | 20 Add lines 3 and 4 20 21 Deductible amount. Enter the smallest of line 18, 19, or 20 21 a Cash portion of deductible amount - for Sch A line 11 a b Non-cash portion of deductible amount - for Sch A line 12 b 22 Carryover. Subtract line 21 from line 20 22 D Contributions of capital gain property subject to limit based on 30% of AGI (If line 5 is zero, leave lines 23 through 28 blank) 23 Multiply line 8 by 0.5 23 24 Add lines 6 and 7 24 25 Subtract line 24 from line 23 25 26 Multiply line 8 by 0.3 26 27 Deductible amount. Enter the smallest of line 5, 25, or 26 27 | |
@@ -1710,12 +2908,23 @@ Was any charity other than a 60%/50% charity?
 
 # **Form 1040 or Standard Deduction Worksheet for Dependents 2022**
 
-| | Name(s) Shown on Return<br>Christopher W Corella | Social Security Number<br>385-17-2724 | |
+| | Name(s) Shown on Return
+Christopher W Corella | Social Security Number
+385-17-2724 | |
 |-----|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|---------|
-| 1 | Use this worksheet only if someone can claim you, or your spouse if filing jointly, as a dependent.<br>Is your earned income* more than \$750? | | |
-| 2 | Yes. Add \$400 to your earned income. Enter the total<br>No.<br>Enter \$1,150<br>Enter the amount shown below for your filing status.<br>? Single or married filing separately ' \$12,950 | 1 | |
-| 3 | ? Married filing jointly ' \$25,900<br>? Head of household ' \$19,400<br>Standard deduction. | 2 | 12,950. |
-| 3 a | Enter the smaller of line 1 or line 2. If born after January 1, 1958, and not<br>blind, stop here and enter this amount on Form 1040 or 1040-SR, line 12.<br>Otherwise, go to line 3b | 3 a | |
+| 1 | Use this worksheet only if someone can claim you, or your spouse if filing jointly, as a dependent.
+Is your earned income* more than \$750? | | |
+| 2 | Yes. Add \$400 to your earned income. Enter the total
+No.
+Enter \$1,150
+Enter the amount shown below for your filing status.
+? Single or married filing separately ' \$12,950 | 1 | |
+| 3 | ? Married filing jointly ' \$25,900
+? Head of household ' \$19,400
+Standard deduction. | 2 | 12,950. |
+| 3 a | Enter the smaller of line 1 or line 2. If born after January 1, 1958, and not
+blind, stop here and enter this amount on Form 1040 or 1040-SR, line 12.
+Otherwise, go to line 3b | 3 a | |
 
 **\*Earned income** includes wages, salaries, tips, professional fees, and other compensation received for personal services you performed. It also includes any taxable scholarship or fellowship grant. Generally, your earned income is the total of the amount(s) you reported on Form 1040 or 1040-SR, line 1z, and Schedule 1, lines 3, 6, 8r, 8t, and 8u minus the amount, if any, on Schedule 1, line 15.
 
@@ -1727,55 +2936,97 @@ page 2 of Form 1040 Wkst by \$1,400 (\$1,750 if single or head of household) **3
 
 ## G Keep for your records
 
-| Name(s) Shown on Return<br>Christopher W Corella | | | Social Security Number<br>385-17-2724 |
+| Name(s) Shown on Return
+Christopher W Corella | | | Social Security Number
+385-17-2724 |
 |---------------------------------------------------------------------------------------------|----------|--------|---------------------------------------|
 | | | | |
 | Part I ' Earned Income Credit Worksheet Computation | | | |
 | | Taxpayer | Spouse | Total |
-| 1<br>If filing Schedule SE: | | | |
-| a<br>Net self-employment income | | | |
-| b<br>Optional Method and Church Employee income | | | |
-| c<br>Add lines 1a and 1b | | | |
-| d<br>One-half of self-employment tax<br>e<br>Subtract line 1d from line 1c | | | |
-| 2<br>If not required to file Schedule SE: | | | |
-| a<br>Net farm profit or (loss) | | | |
-| b<br>Net nonfarm profit or (loss) | | | |
-| c<br>Add lines 2a and 2b | | | |
-| 3<br>If filing Schedule C as a statutory employee, | | | |
+| 1
+If filing Schedule SE: | | | |
+| a
+Net self-employment income | | | |
+| b
+Optional Method and Church Employee income | | | |
+| c
+Add lines 1a and 1b | | | |
+| d
+One-half of self-employment tax
+e
+Subtract line 1d from line 1c | | | |
+| 2
+If not required to file Schedule SE: | | | |
+| a
+Net farm profit or (loss) | | | |
+| b
+Net nonfarm profit or (loss) | | | |
+| c
+Add lines 2a and 2b | | | |
+| 3
+If filing Schedule C as a statutory employee, | | | |
 | enter the amount from line 1 of that | | | |
 | Schedule C | | | |
-| 4<br>Add lines 1e, 2c and 3. To EIC Wks, line 5 | | | |
+| 4
+Add lines 1e, 2c and 3. To EIC Wks, line 5 | | | |
 | Part II ' Form 2441 and Standard Deduction Worksheet Computations | | | |
-| 5<br>Net self-employment earnings (line 4 above) | | | |
-| 6<br>Wages, salaries, and tips less distributions | | | |
+| 5
+Net self-employment earnings (line 4 above) | | | |
+| 6
+Wages, salaries, and tips less distributions | | | |
 | from nonqualified or section 457 plans, etc | 11,909. | | 11,909. |
-| 7 a<br>Taxable employer-provided adoption benefits | | | |
-| b<br>Foreign earned income exclusion | | | |
-| 8<br>Add lines 5 through 7b. To Form 2441, lines 18 | | | |
+| 7 a
+Taxable employer-provided adoption benefits | | | |
+| b
+Foreign earned income exclusion | | | |
+| 8
+Add lines 5 through 7b. To Form 2441, lines 18 | | | |
 | and 19 | 11,909. | | 11,909. |
-| 9 a<br>Taxable dependent care benefits | | | |
-| b<br>Nontaxable combat pay<br>10<br>Add lines 8, 9a & 9b . To Form 2441, lines | | | |
+| 9 a
+Taxable dependent care benefits | | | |
+| b
+Nontaxable combat pay
+10
+Add lines 8, 9a & 9b . To Form 2441, lines | | | |
 | 4 and 5 | 11,909. | | 11,909. |
-| 11<br>Scholarship or fellowship income not on W-2 | | | |
+| 11
+Scholarship or fellowship income not on W-2 | | | |
 | plus wages while incarcerated | | | |
-| 12<br>SE exempt earnings less nontaxable income | | | |
-| 13<br>Distributions from nonqualified/Sec. 457 plans | | | |
-| 14<br>Add lines 5, 6, 7a, 9a and 11 through 13. | | | |
+| 12
+SE exempt earnings less nontaxable income | | | |
+| 13
+Distributions from nonqualified/Sec. 457 plans | | | |
+| 14
+Add lines 5, 6, 7a, 9a and 11 through 13. | | | |
 | To Standard Deduction Worksheet | 11,909. | | 11,909. |
 | Part III ' IRA Deduction Worksheet Computation | | | |
-| 15<br>Net self-employment income or (loss) | | | |
-| 16 a<br>Wages, salaries, tips, etc | 11,909. | | 11,909. |
+| 15
+Net self-employment income or (loss) | | | |
+| 16 a
+Wages, salaries, tips, etc | 11,909. | | 11,909. |
 | b2Amount of ln. b1 for graduate/postgrad studies | | | |
-| 17<br>Net self-employment loss | | | |
-| 18<br>Alimony received | | | |
-| 19<br>Nontaxable combat pay | | | |
-| 20<br>Foreign earned income exclusion | | | |
-| 21<br>Keogh, SEP or SIMPLE deduction<br>22<br>Combine lines 15 through 21. To IRA Wks, ln 2 | 11,909. | | 11,909. |
+| 17
+Net self-employment loss | | | |
+| 18
+Alimony received | | | |
+| 19
+Nontaxable combat pay | | | |
+| 20
+Foreign earned income exclusion | | | |
+| 21
+Keogh, SEP or SIMPLE deduction
+22
+Combine lines 15 through 21. To IRA Wks, ln 2 | 11,909. | | 11,909. |
 | Part IV ' Schedule 8812 and Credit Limit Worksheet B Computations | | | |
 | | | | |
-| 23<br>Self-employed, church and statutory employees | | | |
-| 24<br>Wages, salaries, tips, etc | 11,909. | | 11,909. |
-| 25<br>Nontaxable combat pay<br>26<br>Combine lines 23 through 25. To Schedule | | | |
+| 23
+Self-employed, church and statutory employees | | | |
+| 24
+Wages, salaries, tips, etc | 11,909. | | 11,909. |
+| 25
+Nontaxable combat pay
+26
+Combine lines 23 through 25. To Schedule | | | |
 ## | | | | |
 
 ## 8812, line 18a & Credit Limit Wks B, line 3
@@ -1787,11 +3038,17 @@ page 2 of Form 1040 Wkst by \$1,400 (\$1,750 if single or head of household) **3
 | 11,909. |
 |---------------------------|
 | |
-| 2 a<br>b |
-| 0.<br>c<br>11,909.<br>4 c |
-| 11,909.<br>348. |
+| 2 a
+b |
+| 0.
+c
+11,909.
+4 c |
+| 11,909.
+348. |
 | 11,909. |
-| 348.<br>348. |
+| 348.
+348. |
 ## | |
 
 Enter line 10 amount on Form 1040, line 27.
@@ -1809,85 +3066,463 @@ Enter line 10 amount on Form 1040, line 27.
 | 2 | Yes, my dependents lived with me at this address. |
 | | No, I'd like to add an additional address where I lived with my dependents. Use the Interview to |
 | | add an additional address where you lived with your dependents the longest in 2022. |
-| | X<br>Compliance and Due Diligence Indicator<br>X<br>Disqualified from Earned Income Credit<br>Yes<br>No |
+| | X
+Compliance and Due Diligence Indicator
+X
+Disqualified from Earned Income Credit
+Yes
+No |
 | | |
-| | Potential qualifying child count<br>0<br>0<br>Non dependent potential qualifying child count<br>0<br>Qualifying child count (max 3) |
+| | Potential qualifying child count
+0
+0
+Non dependent potential qualifying child count
+0
+Qualifying child count (max 3) |
 
 # **Form 6251 Schedule D Tax Worksheet 2022 Line 37 as refigured for the Alternative Minimum Tax**
 
-| Name(s) Shown on Return<br>Christopher W Corella | | Social Security Number<br>385-17-2724 | |
+| Name(s) Shown on Return
+Christopher W Corella | | Social Security Number
+385-17-2724 | |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|--------------------------------------------------|---------------------------------------------------------|
-| | (a)<br>Before<br>Allocation of<br>Capital Gain<br>Excess * | (b)<br>Allocation of<br>Capital Gain<br>Excess * | (c)<br>After<br>Allocation of<br>Capital Gain<br>Excess |
-| 1<br>Not applicable<br>2<br>Enter your total qualified dividends as refigured for<br>the Alternative Minimum Tax (AMT):<br>a Total qualified dividends | | | |
-| b Adjustment from Schedules K-1<br>c Other adjustments to qualified dividends<br>d Total. Combine lines 2a, 2b, and 2c<br>3<br>Enter the amount from Form 4952 for AMT, line 4g | | 0. | 0. |
-| 4<br>Enter the amount from Form 4952 for AMT, line 4e<br>5<br>Subtract line 4 from line 3. If zero or less, enter -0-<br>6<br>Subtract line 5 from line 2. If zero or less, enter -0-<br>7<br>Net long-term capital gain:<br>a Enter the gain from line 15 of Schedule D | 0.<br>0. | | 0.<br>0. |
-| 0.<br>as refigured for the AMT<br>b Enter the gain from line 16 of Schedule D<br>0.<br>as refigured for the AMT<br>c Enter the smaller of line 7a or line 7b | 0. | | 0. |
-| 8<br>Enter the smaller of line 3 or line 4<br>9<br>Subtract line 8 from line 7c. If zero or less, enter -0-<br>10<br>Add lines 6 and 9<br>A Enter the amount from Form 6251, line 6. | 0.<br>0.<br>0. | 0. | 0.<br>0. |
-| B Capital gain excess. Subtract line A from line 10. *<br>11<br>Total 28% rate and unrecaptured section 1250 gain:<br>a Enter the gain from line 18 of Schedule D<br>0.<br>as refigured for the AMT | 0. | | |
-| b Enter the gain from line 19 of Schedule D<br>as refigured for the AMT<br>c Add lines 11a and 11b<br>12<br>Enter the smaller of line 9 or line 11c | | | 0.<br>0. |
-| 13<br>Subtract line 12 from line 10. Also enter this amount<br>on Form 6251, line 13. | | | 0. |
+| | (a)
+Before
+Allocation of
+Capital Gain
+Excess * | (b)
+Allocation of
+Capital Gain
+Excess * | (c)
+After
+Allocation of
+Capital Gain
+Excess |
+| 1
+Not applicable
+2
+Enter your total qualified dividends as refigured for
+the Alternative Minimum Tax (AMT):
+a Total qualified dividends | | | |
+| b Adjustment from Schedules K-1
+c Other adjustments to qualified dividends
+d Total. Combine lines 2a, 2b, and 2c
+3
+Enter the amount from Form 4952 for AMT, line 4g | | 0. | 0. |
+| 4
+Enter the amount from Form 4952 for AMT, line 4e
+5
+Subtract line 4 from line 3. If zero or less, enter -06
+Subtract line 5 from line 2. If zero or less, enter -07
+Net long-term capital gain:
+a Enter the gain from line 15 of Schedule D | 0.
+0. | | 0.
+0. |
+| 0.
+as refigured for the AMT
+b Enter the gain from line 16 of Schedule D
+0.
+as refigured for the AMT
+c Enter the smaller of line 7a or line 7b | 0. | | 0. |
+| 8
+Enter the smaller of line 3 or line 4
+9
+Subtract line 8 from line 7c. If zero or less, enter -010
+Add lines 6 and 9
+A Enter the amount from Form 6251, line 6. | 0.
+0.
+0. | 0. | 0.
+0. |
+| B Capital gain excess. Subtract line A from line 10. *
+11
+Total 28% rate and unrecaptured section 1250 gain:
+a Enter the gain from line 18 of Schedule D
+0.
+as refigured for the AMT | 0. | | |
+| b Enter the gain from line 19 of Schedule D
+as refigured for the AMT
+c Add lines 11a and 11b
+12
+Enter the smaller of line 9 or line 11c | | | 0.
+0. |
+| 13
+Subtract line 12 from line 10. Also enter this amount
+on Form 6251, line 13. | | | 0. |
 
-<sup>\*</sup> Capital gain excess applies only if filing Form 2555, Foreign Earned Income.
+\* Capital gain excess applies only if filing Form 2555, Foreign Earned Income.
 
 # **Form 6251 Alternative Minimum Tax Worksheet 2022**
 
-| | Name(s) Shown on Return<br>Christopher W Corella | | Social Security Number<br>385-17-2724 |
+| | Name(s) Shown on Return
+Christopher W Corella | | Social Security Number
+385-17-2724 |
 |-------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|---------------------------------------|
 | | Taxable Income ' Line 1 | | |
-| 1<br>2<br>3<br>4<br>5 | Enter the amount from Form 1040 or 1040-SR, line 15, if more than zero. If<br>Form 1040 or 1040-SR, line 15, is zero, subtract line 14 of Form<br>1040 of 1040-SR from line 11 of Form 1040 or 1040-SR and enter the result<br>here. (If less than zero, enter as a negative amount.)<br>Additions to income<br>Add lines 1 and 2<br>Subtractions from income<br>Subtract line 4 from line 3. Enter on Form 6251, line 1 | 1<br>2<br>3<br>4<br>5 | -1,041.<br>-1,041.<br>-1,041. |
+| 1
+2
+3
+4
+5 | Enter the amount from Form 1040 or 1040-SR, line 15, if more than zero. If
+Form 1040 or 1040-SR, line 15, is zero, subtract line 14 of Form
+1040 of 1040-SR from line 11 of Form 1040 or 1040-SR and enter the result
+here. (If less than zero, enter as a negative amount.)
+Additions to income
+Add lines 1 and 2
+Subtractions from income
+Subtract line 4 from line 3. Enter on Form 6251, line 1 | 1
+2
+3
+4
+5 | -1,041.
+-1,041.
+-1,041. |
 | | Taxes ' Line 2a | | |
 | 1 | Generation skipping transfer taxes included on Schedule A, line 6 | 1 | |
 | | Refund of Taxes ' Line 2b | | |
-| 1<br>2<br>3 | Taxable refund of state and local income tax<br>Amount and description of any refund of state and local personal property<br>taxes, foreign income or real property taxes<br>Total tax refund adjustment. Enter on Form 6251, line 2b | 1<br>2<br>3 | |
-| | (ATNOLD) ' Line 2f<br>Alternative Tax Net Operating Loss Deduction | | |
-| 1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>10<br>11 | Alternative minimum taxable income (AMTI) without ATNOLD<br>Enter adjustments<br>Adjustment for domestic production activities deduction<br>Adjusted AMTI without ATNOLD. Add lines 1-3<br>ATNOLD limitation. Multiply line 4 by 90%<br>Enter ATNOL carried to 2021 from other year(s)<br>Enter ATNOL included above attributable to qualified disaster losses<br>ATNOL above not attributable to qualified disaster losses. Line 6 minus 7<br>ATNOL deduction other than qualified disaster losses. Lesser of line 5 or 8<br>ATNOL Disaster Deduction. Lesser of line 7 or (line 4 minus line 9)<br>ATNOLD. Add lines 9 and 10. Enter on Form 6251, line 2f, as neg | 1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>10<br>11 | 11,909.<br>11,909.<br>10,718. |
+| 1
+2
+3 | Taxable refund of state and local income tax
+Amount and description of any refund of state and local personal property
+taxes, foreign income or real property taxes
+Total tax refund adjustment. Enter on Form 6251, line 2b | 1
+2
+3 | |
+| | (ATNOLD) ' Line 2f
+Alternative Tax Net Operating Loss Deduction | | |
+| 1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11 | Alternative minimum taxable income (AMTI) without ATNOLD
+Enter adjustments
+Adjustment for domestic production activities deduction
+Adjusted AMTI without ATNOLD. Add lines 1-3
+ATNOLD limitation. Multiply line 4 by 90%
+Enter ATNOL carried to 2021 from other year(s)
+Enter ATNOL included above attributable to qualified disaster losses
+ATNOL above not attributable to qualified disaster losses. Line 6 minus 7
+ATNOL deduction other than qualified disaster losses. Lesser of line 5 or 8
+ATNOL Disaster Deduction. Lesser of line 7 or (line 4 minus line 9)
+ATNOLD. Add lines 9 and 10. Enter on Form 6251, line 2f, as neg | 1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11 | 11,909.
+11,909.
+10,718. |
 | | Incentive Stock Options ' Line 2i | | |
-| 1<br>2<br>3<br>4<br>5 | Incentive stock options adjustment from Schedule K-1 worksheets<br>Incentive stock options from Employer Stock Transaction Worksheets<br>Incentive stock options from Exercise of Stock Options Worksheets<br>Other incentive stock options<br>Total incentive stock options. Enter on Form 6251, line 2i | 1<br>2<br>3<br>4<br>5 | |
+| 1
+2
+3
+4
+5 | Incentive stock options adjustment from Schedule K-1 worksheets
+Incentive stock options from Employer Stock Transaction Worksheets
+Incentive stock options from Exercise of Stock Options Worksheets
+Other incentive stock options
+Total incentive stock options. Enter on Form 6251, line 2i | 1
+2
+3
+4
+5 | |
 
-| | Christopher W Corella<br>Alternative Minimum Taxable Income ' Line 4 | 385-17-2724 | Page 3 |
+| | Christopher W Corella
+Alternative Minimum Taxable Income ' Line 4 | 385-17-2724 | Page 3 |
 |----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|---------------------------------|
-| 1<br>2<br>3<br>4<br>5<br>6 | If married filing separately and Form 6251, line 4, is more than \$776,100:<br>Alternative minimum taxable income, Form 6251<br>Threshold amount<br>Subtract line 2 from line 1<br>Multiply line 3 by 25% (.25)<br>Smaller of line 4 or \$59,050<br>Add line 1 and line 5. Enter on Form 6251, line 4<br>Exemption ' Line 5 | 1<br>2<br>3<br>4<br>5<br>6 | |
-| 1<br>2<br>3 | Enter \$75,900 if single or head of household, \$118,100 if married filing jointly<br>or qualifying surviving spouse, \$59,050 if married filing separately<br>Enter your alternative minimum taxable income from Form 6251, line 4<br>Enter \$539,900 if single or head of household, \$1,079,800 if married filing | 1<br>2 | 75,900.<br>11,909. |
-| 4<br>5<br>6 | jointly or qualifying surviving spouse, \$539,900 if married filing separately<br>Subtract line 3 from line 2. If zero or less, enter -0-<br>Multiply line 4 by 25% (.25)<br>Subtract line 5 from line 1. If zero or less, enter -0 Enter on 6251, line 5 | 3<br>4<br>5<br>6 | 539,900.<br>0.<br>0.<br>75,900. |
+| 1
+2
+3
+4
+5
+6 | If married filing separately and Form 6251, line 4, is more than \$776,100:
+Alternative minimum taxable income, Form 6251
+Threshold amount
+Subtract line 2 from line 1
+Multiply line 3 by 25% (.25)
+Smaller of line 4 or \$59,050
+Add line 1 and line 5. Enter on Form 6251, line 4
+Exemption ' Line 5 | 1
+2
+3
+4
+5
+6 | |
+| 1
+2
+3 | Enter \$75,900 if single or head of household, \$118,100 if married filing jointly
+or qualifying surviving spouse, \$59,050 if married filing separately
+Enter your alternative minimum taxable income from Form 6251, line 4
+Enter \$539,900 if single or head of household, \$1,079,800 if married filing | 1
+2 | 75,900.
+11,909. |
+| 4
+5
+6 | jointly or qualifying surviving spouse, \$539,900 if married filing separately
+Subtract line 3 from line 2. If zero or less, enter -0Multiply line 4 by 25% (.25)
+Subtract line 5 from line 1. If zero or less, enter -0 Enter on 6251, line 5 | 3
+4
+5
+6 | 539,900.
+0.
+0.
+75,900. |
 
 # **Form 6251 Foreign Earned Income 2022 Line 7 Alternative Minimum Tax Worksheet**
 
-| Name(s) Shown on Return<br>Christopher W Corella | | Social Security Number<br>385-17-2724 |
+| Name(s) Shown on Return
+Christopher W Corella | | Social Security Number
+385-17-2724 |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|---------------------------------------|
-| 1<br>Enter the amount from Form 6251, line 6<br>2 a Enter the amount from your (and your spouse's if filing jointly) Form 2555,<br>lines 45 and 50<br>b Enter the total amount of any itemized deductions or exclusions you couldn't<br>claim because they are related to excluded income<br>c Subtract line 2b from line 2a. If zero or less, enter 0 | 1<br>2a<br>2b<br>2c | |
-| 3<br>Add line 1 and line 2c<br>4<br>Tax on the amount on line 3.<br>?<br>If you reported capital gain distributions directly on Form 1040 or 1040-SR,<br>line 7; or you reported qualified dividends on Form 1040 or 1040-SR, line<br>3a; or you had a gain on both lines 15 and 16 of Schedule D (Form 1040 or<br>1040-SR) (as refigured for the AMT, if necessary), enter the amount from<br>line 3 of this worksheet on Form 6251, line 12. Complete the rest of Part III<br>of Form 6251. However, before completing Part III, see Form 2555, later, to<br>see if you must complete Part III with certain modifications. Then enter the<br>amount from Form 6251, line 40, here. | 3 | |
-| ?<br>All Others: If line 3 is \$206,100 or less (\$103,050 or less if married filing<br>separately), multiply line 3 by 26% (0.26). Otherwise, multiply line 3 by<br>28% (0.28) and subtract \$4,122 (\$2,061 if married filing separately) from<br>the result.<br>5<br>Tax on amount on line 2c. If line 2c is \$206,100 or less (\$103,050 or less if<br>married filing separately), multiply line 2c by 26% (0.26). Otherwise, multiply<br>line 2c by 28% (0.28) and subtract \$4,122 (\$2,061 if married filing separately)<br>from the result | 4<br>5 | |
-| 6<br>Subtract line 5 from line 4. Enter the result here and on Form 6251, line 7. | 6 | |
+| 1
+Enter the amount from Form 6251, line 6
+2 a Enter the amount from your (and your spouse's if filing jointly) Form 2555,
+lines 45 and 50
+b Enter the total amount of any itemized deductions or exclusions you couldn't
+claim because they are related to excluded income
+c Subtract line 2b from line 2a. If zero or less, enter 0 | 1
+2a
+2b
+2c | |
+| 3
+Add line 1 and line 2c
+4
+Tax on the amount on line 3.
+?
+If you reported capital gain distributions directly on Form 1040 or 1040-SR,
+line 7; or you reported qualified dividends on Form 1040 or 1040-SR, line
+3a; or you had a gain on both lines 15 and 16 of Schedule D (Form 1040 or
+1040-SR) (as refigured for the AMT, if necessary), enter the amount from
+line 3 of this worksheet on Form 6251, line 12. Complete the rest of Part III
+of Form 6251. However, before completing Part III, see Form 2555, later, to
+see if you must complete Part III with certain modifications. Then enter the
+amount from Form 6251, line 40, here. | 3 | |
+| ?
+All Others: If line 3 is \$206,100 or less (\$103,050 or less if married filing
+separately), multiply line 3 by 26% (0.26). Otherwise, multiply line 3 by
+28% (0.28) and subtract \$4,122 (\$2,061 if married filing separately) from
+the result.
+5
+Tax on amount on line 2c. If line 2c is \$206,100 or less (\$103,050 or less if
+married filing separately), multiply line 2c by 26% (0.26). Otherwise, multiply
+line 2c by 28% (0.28) and subtract \$4,122 (\$2,061 if married filing separately)
+from the result | 4
+5 | |
+| 6
+Subtract line 5 from line 4. Enter the result here and on Form 6251, line 7. | 6 | |
 
-| Name(s) Shown on Return | Christopher W Corella | | | | | | | Social Security Number<br>385-17-2724 |
+| Name(s) Shown on Return | Christopher W Corella | | | | | | | Social Security Number
+385-17-2724 |
 |-----------------------------|---------------------------------------|---------------------------------------------|---------------------------------|----------------------------|--|------------------------------------------|-----|---------------------------------------|
 | | | 2021 State and Local Income Tax Information | | | | | | |
-| (a)<br>State or<br>Local ID | (b)<br>Paid With<br>Extension | (c)<br>Estimates Pd<br>After 12/31 | (d)<br>Total With-<br>held/Pmts | (e)<br>Paid With<br>Return | | (f)<br>Total Over-<br>payment | | (g)<br>Applied<br>Amount |
+| (a)
+State or
+Local ID | (b)
+Paid With
+Extension | (c)
+Estimates Pd
+After 12/31 | (d)
+Total Withheld/Pmts | (e)
+Paid With
+Return | | (f)
+Total Overpayment | | (g)
+Applied
+Amount |
 | Totals | | | | | | | | |
 | | 2021 State Extension Information | | | | | 2021 Locality Extension Information | | |
-| (a)<br>State | | (b)<br>Paid With Extension | | (a)<br>Locality | | | (b) | Paid With Extension |
+| (a)
+State | | (b)
+Paid With Extension | | (a)
+Locality | | | (b) | Paid With Extension |
 | | 2021 State Estimates Information | | | | | 2021 Locality Estimates Information | | |
-| (a)<br>State | | (c)<br>Estimates Paid After 12/31 | | (a)<br>Locality | | (c)<br>Estimates Paid After 12/31 | | |
+| (a)
+State | | (c)
+Estimates Paid After 12/31 | | (a)
+Locality | | (c)
+Estimates Paid After 12/31 | | |
 | | 2021 State Taxes Due Information | | | | | 2021 Locality Taxes Due Information | | |
-| (a)<br>State | | (e)<br>Paid With Return | | (a)<br>Locality | | | (e) | Paid With Return |
+| (a)
+State | | (e)
+Paid With Return | | (a)
+Locality | | | (e) | Paid With Return |
 | | 2021 State Refund Applied Information | | | | | 2021 Locality Refund Applied Information | | |
-| (a)<br>State | | (g)<br>Applied Amount | | (a)<br>Locality | | | (g) | Applied Amount |
+| (a)
+State | | (g)
+Applied Amount | | (a)
+Locality | | | (g) | Applied Amount |
 | | 2021 State Tax Refund Information | | | | | 2021 Locality Tax Refund Information | | |
-| (a)<br>State | (d)<br>Total<br>Withheld/Pmts | (f)<br>Total<br>Overpayment | | (a)<br>Locality | | (d)<br>Total<br>Withheld/Pmts | | (f)<br>Total<br>Overpayment |
+| (a)
+State | (d)
+Total
+Withheld/Pmts | (f)
+Total
+Overpayment | | (a)
+Locality | | (d)
+Total
+Withheld/Pmts | | (f)
+Total
+Overpayment |
 ## | | | | | | | | | |
 
 | | Other Tax and Income Information | | | | 2021 | 2022 |
 |--------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|------|---------------------------------|
-| 1<br>2<br>3<br>4<br>5<br>6<br>7<br>8 | Filing status<br>Number of exemptions for blind or over 65 (0 - 4)<br>Itemized deductions<br>Check box if required to itemize deductions<br>Adjusted gross income<br>Tax liability for Form 2210 or Form 2210-F<br>Alternative minimum tax<br>Federal overpayment applied to next year estimated tax | | | 1<br>2<br>3<br>4<br>5<br>6<br>7<br>8 | | 1 Single<br>0.<br>11,909.<br>0. |
+| 1
+2
+3
+4
+5
+6
+7
+8 | Filing status
+Number of exemptions for blind or over 65 (0 - 4)
+Itemized deductions
+Check box if required to itemize deductions
+Adjusted gross income
+Tax liability for Form 2210 or Form 2210-F
+Alternative minimum tax
+Federal overpayment applied to next year estimated tax | | | 1
+2
+3
+4
+5
+6
+7
+8 | | 1 Single
+0.
+11,909.
+0. |
 | | Quick Zoom to the IRA Information Worksheet for IRA information | | | | | |
 | | Excess Contributions | | | | 2021 | 2022 |
-| 9 a<br>b<br>10 a<br>b<br>11 a<br>b | Taxpayer's excess Archer MSA contributions as of 12/31<br>Spouse's excess Archer MSA contributions as of 12/31<br>Taxpayer's excess Coverdell ESA contributions as of 12/31<br>Spouse's excess Coverdell ESA contributions as of 12/31<br>Taxpayer's excess HSA contributions as of 12/31<br>Spouse's excess HSA contributions as of 12/31 | | | 9 a<br>b<br>10 a<br>b<br>11 a<br>b | | |
-| | Loss and Expense Carryovers<br>Note: Enter all entries as a positive amount | | | | 2021 | 2022 |
-| 12 a<br>b<br>13 a<br>b<br>14 a<br>b<br>15 a<br>b<br>16<br>17 | Short-term capital loss<br>AMT Short-term capital loss<br>Long-term capital loss<br>AMT Long-term capital loss<br>Net operating loss available to carry forward<br>AMT Net operating loss available to carry forward<br>Investment interest expense disallowed<br>AMT Investment interest expense disallowed<br>Nonrecaptured net Section 1231 losses from:<br>AMT Nonrecap'd net Sec 1231 losses from: | a<br>b<br>c<br>d<br>e<br>f<br>a<br>b<br>c<br>d<br>e<br>f | 2022<br>2021<br>2020<br>2019<br>2018<br>2017<br>2022<br>2021<br>2020<br>2019<br>2018<br>2017 | 12 a<br>b<br>13 a<br>b<br>14 a<br>b<br>15 a<br>b<br>16 a<br>b<br>c<br>d<br>e<br>f<br>17 a<br>b<br>c<br>d<br>e<br>f | | |
+| 9 a
+b
+10 a
+b
+11 a
+b | Taxpayer's excess Archer MSA contributions as of 12/31
+Spouse's excess Archer MSA contributions as of 12/31
+Taxpayer's excess Coverdell ESA contributions as of 12/31
+Spouse's excess Coverdell ESA contributions as of 12/31
+Taxpayer's excess HSA contributions as of 12/31
+Spouse's excess HSA contributions as of 12/31 | | | 9 a
+b
+10 a
+b
+11 a
+b | | |
+| | Loss and Expense Carryovers
+Note: Enter all entries as a positive amount | | | | 2021 | 2022 |
+| 12 a
+b
+13 a
+b
+14 a
+b
+15 a
+b
+16
+17 | Short-term capital loss
+AMT Short-term capital loss
+Long-term capital loss
+AMT Long-term capital loss
+Net operating loss available to carry forward
+AMT Net operating loss available to carry forward
+Investment interest expense disallowed
+AMT Investment interest expense disallowed
+Nonrecaptured net Section 1231 losses from:
+AMT Nonrecap'd net Sec 1231 losses from: | a
+b
+c
+d
+e
+f
+a
+b
+c
+d
+e
+f | 2022
+2021
+2020
+2019
+2018
+2017
+2022
+2021
+2020
+2019
+2018
+2017 | 12 a
+b
+13 a
+b
+14 a
+b
+15 a
+b
+16 a
+b
+c
+d
+e
+f
+17 a
+b
+c
+d
+e
+f | | |
 | | Credit Carryovers | | | | 2021 | 2022 |
-| 18<br>19 | General business credit<br>Adoption credit from:<br>a<br>2022<br>b<br>2021<br>c<br>2020<br>d<br>2019<br>e<br>2018<br>f<br>2017 | | | 18<br>19a<br>b<br>c<br>d<br>e<br>f | | |
-| 20 | a<br>Mortgage interest credit from:<br>2022<br>b<br>2021<br>c<br>2020<br>d<br>2019 | | | 20 a<br>b<br>c<br>d | | |
-| 21<br>22<br>23 | Credit for prior year minimum tax<br>District of Columbia first-time homebuyer credit<br>Residential Clean Energy Credit (Previously the Residential<br>energy efficient property credit | | | 21<br>22<br>23 | | |
+| 18
+19 | General business credit
+Adoption credit from:
+a
+2022
+b
+2021
+c
+2020
+d
+2019
+e
+2018
+f
+2017 | | | 18
+19a
+b
+c
+d
+e
+f | | |
+| 20 | a
+Mortgage interest credit from:
+2022
+b
+2021
+c
+2020
+d
+2019 | | | 20 a
+b
+c
+d | | |
+| 21
+22
+23 | Credit for prior year minimum tax
+District of Columbia first-time homebuyer credit
+Residential Clean Energy Credit (Previously the Residential
+energy efficient property credit | | | 21
+22
+23 | | |
 
 # **Form 8582 Modified Adjusted Gross Income Worksheet 2022**
 
@@ -1898,11 +3533,37 @@ Name(s) Shown on Return Social Security Number Christopher W Corella 385-17-2724
 | Description | Amount |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|
 | Income | |
-| Wages<br>Interest income before Series EE bond exclusion<br>Dividend income<br>Tax refund<br>Alimony received<br>Nonpassive business income or loss<br>Royalty and nonpassive rental activities income or loss<br>Nonpassive partnership income or loss<br>Nonpassive S corporation income or loss<br>Nonpassive farm rental income or loss<br>Nonpassive farm income or loss<br>Nonpassive estate and trust income or loss<br>Real estate mortgage investment conduits<br>Business gains and losses from nonpassive activities | 11,909. |
-| Capital gains and losses<br>Taxable IRA distributions<br>Taxable pension distributions<br>Unemployment compensation<br>Other income | |
+| Wages
+Interest income before Series EE bond exclusion
+Dividend income
+Tax refund
+Alimony received
+Nonpassive business income or loss
+Royalty and nonpassive rental activities income or loss
+Nonpassive partnership income or loss
+Nonpassive S corporation income or loss
+Nonpassive farm rental income or loss
+Nonpassive farm income or loss
+Nonpassive estate and trust income or loss
+Real estate mortgage investment conduits
+Business gains and losses from nonpassive activities | 11,909. |
+| Capital gains and losses
+Taxable IRA distributions
+Taxable pension distributions
+Unemployment compensation
+Other income | |
 | Total income | 11,909. |
 | Adjustments | |
-| Educator expenses<br>Certain business expenses of reservists, performing artists, and government officials<br>Health savings account deduction<br>Moving expenses<br>Self-employed SEP, SIMPLE, and qualified plans<br>Self-employed health insurance deduction<br>Penalty on early withdrawals of savings<br>Alimony paid<br>Other adjustments<br>Total adjustments | |
+| Educator expenses
+Certain business expenses of reservists, performing artists, and government officials
+Health savings account deduction
+Moving expenses
+Self-employed SEP, SIMPLE, and qualified plans
+Self-employed health insurance deduction
+Penalty on early withdrawals of savings
+Alimony paid
+Other adjustments
+Total adjustments | |
 | | |
 ## | Modified adjusted gross income | 11,909. |
 
@@ -1916,9 +3577,24 @@ Name(s) Shown on Return Social Security Number Christopher W Corella 385-17-2724
 
 ## **Balance Due**
 
-| Itemized Deductions<br>Medical and dental<br>Income or sales tax<br>Real estate taxes<br>Personal property and other taxes<br>Interest paid<br>Gifts to charity<br>Casualty and theft losses<br>Miscellaneous | | | | |
+| Itemized Deductions
+Medical and dental
+Income or sales tax
+Real estate taxes
+Personal property and other taxes
+Interest paid
+Gifts to charity
+Casualty and theft losses
+Miscellaneous | | | | |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----|---------------------|---------------------|--|
-| Total Itemized Deductions<br>Standard or Itemized Deduction<br>Qualified Business Income Deduction<br>Taxable Income | 0. | 0.<br>12,950.<br>0. | 0.<br>12,950.<br>0. | |
+| Total Itemized Deductions
+Standard or Itemized Deduction
+Qualified Business Income Deduction
+Taxable Income | 0. | 0.
+12,950.
+0. | 0.
+12,950.
+0. | |
 
 11,909. 11,909.
 
@@ -1976,13 +3652,21 @@ Name(s) Shown on Return Social Security Number Christopher W Corella 385-17-2724
 
 ## G Keep for your records
 
-| Name(s) Shown on Return<br>Christopher W Corella | Social Security No<br>385-17-2724 | |
+| Name(s) Shown on Return
+Christopher W Corella | Social Security No
+385-17-2724 | |
 |--------------------------------------------------------------------------------------------------|-----------------------------------|--------------------|
-| Your 2022 adjusted gross income (AGI)<br>National adjusted gross income range used below<br>from | 0.<br>to | 11,909.<br>14,999. |
+| Your 2022 adjusted gross income (AGI)
+National adjusted gross income range used below
+from | 0.
+to | 11,909.
+14,999. |
 
 **Note:** National average amounts have been adjusted for inflation. See Help for details.
 
-| Selected Income, Deductions, and Credits | Actual<br>Per Return | National<br>Average |
+| Selected Income, Deductions, and Credits | Actual
+Per Return | National
+Average |
 |----------------------------------------------------|----------------------|---------------------|
 | Salaries and wages | 11,909. | 9,967. |
 | Taxable interest | | 1,811. |
@@ -2006,7 +3690,9 @@ Name(s) Shown on Return Social Security Number Christopher W Corella 385-17-2724
 | Child tax credit | | 179. |
 | Retirement savings contributions credit | | 125. |
 | Earned income credit | 348. | 1,712. |
-| Other Information | Actual<br>Per Return | National<br>Average |
+| Other Information | Actual
+Per Return | National
+Average |
 | Adjusted gross income | 11,909. | -47. |
 | Taxable income | 0. | 1,904. |
 | Income tax | 0. | 353. |
@@ -2065,7 +3751,8 @@ Name(s) Shown on Return Social Security Number Christopher W Corella 385-17-2724
 | 48 | Child/dependent care cred | | 0. | 0. | 0. |
 | 49 | Education credits | | 0. | 0. | 0. |
 | 50 | Retirement contr credit | | | | |
-| 51 | Child tax credit/credit for<br>other dependents | | | | |
+| 51 | Child tax credit/credit for
+other dependents | | | | |
 | 52 | Energy efficient home | | | | |
 | | improvement credit limit | | | | |
 | 53 | Residential energy credit | | | | |
@@ -2088,7 +3775,9 @@ Name(s) Shown on Return Social Security Number Christopher W Corella 385-17-2724
 
 # **Payments**
 
-| 63 a<br>b | Withholding, estimates, etc<br>Add'l Medicare Tax withheld | 1,079. | 1,079. | 1,079. | 0. |
+| 63 a
+b | Withholding, estimates, etc
+Add'l Medicare Tax withheld | 1,079. | 1,079. | 1,079. | 0. |
 |-----------|------------------------------------------------------------|--------|--------|--------|----|
 | 64 | Earned income credit | 348. | 751. | 0. | 0. |
 | 65 | Refundable child tax credit | | | | |
@@ -2108,20 +3797,50 @@ Name(s) Shown on Return Social Security Number Christopher W Corella 385-17-2724
 | | | (1) | (2) | (3) | (4) |
 |-------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|----------|----------|----------|
 | | Force itemized deductions? | Optimize | Optimize | Optimize | Optimize |
-| 1<br>2<br>3 a | Medical & dental exp paid<br>Allowable medical and<br>dental expenses<br>State and local taxes | | | | |
-| b<br>4 | Limit<br>Other taxes | 0. | 0. | 0. | 0. |
-| 5<br>6<br>7 a<br>b<br>8 | Total taxes<br>Mortgage interest<br>Mortgage insur prem pd<br>Allowable mort insur prem<br>Investment interest | 0. | 0. | 0. | 0. |
-| 9<br>10 a<br>b | Total interest<br>Gifts to charity (50%/60%)<br>100% Cash Donations | | | | |
-| 11<br>12<br>13 a | Charitable deduction<br>Casualty losses<br>Other miscellaneous dedn<br>tions exc gambling/casualty<br>losses not subject to 2%<br>of adjusted gross income | | 0. | 0. | 0. |
+| 1
+2
+3 a | Medical & dental exp paid
+Allowable medical and
+dental expenses
+State and local taxes | | | | |
+| b
+4 | Limit
+Other taxes | 0. | 0. | 0. | 0. |
+| 5
+6
+7 a
+b
+8 | Total taxes
+Mortgage interest
+Mortgage insur prem pd
+Allowable mort insur prem
+Investment interest | 0. | 0. | 0. | 0. |
+| 9
+10 a
+b | Total interest
+Gifts to charity (50%/60%)
+100% Cash Donations | | | | |
+| 11
+12
+13 a | Charitable deduction
+Casualty losses
+Other miscellaneous dedn
+tions exc gambling/casualty
+losses not subject to 2%
+of adjusted gross income | | 0. | 0. | 0. |
 
-| b<br>c | Gambling loss & casualties<br>Total other miscellaneous | | | | |
+| b
+c | Gambling loss & casualties
+Total other miscellaneous | | | | |
 |--------|---------------------------------------------------------|----|----|----|----|
 | | deductions | | | | |
 | 14 | Total itemized deductions | 0. | 0. | 0. | 0. |
 
 # **ELECTRONIC POSTMARK - CERTIFICATION OF ELECTRONIC FILING**
 
-| Taxpayer:<br>Primary SSN: | Christopher W Corella<br>385-17-2724 | | | | | |
+| Taxpayer:
+Primary SSN: | Christopher W Corella
+385-17-2724 | | | | | |
 |---------------------------------|--------------------------------------|--|--|--|---------------------------------------------------------|--|
 | Federal Return Submitted: | | | | | | |
 | Federal Return Acceptance Date: | | | | | | |
@@ -2145,23 +3864,33 @@ If you request an automatic six-month extension, your return must be electronica
 
 Once the IRS accepts the electronically filed return, the acceptance date will be provided by the Intuit Electronic Filing Center. This date is proof that the IRS accepted the electronically filed return.
 
-| We need your consent - Early Access<br>This is an IRS requirement |
+| We need your consent - Early Access
+This is an IRS requirement |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | |
 | |
 | |
 | |
 | IRS regulations require the following statements: |
-| "Federal law requires this consent form be provided to you. Unless authorized by law, we cannot use<br>your tax return information for purposes other than the preparation and filing of your tax return without<br>your consent. |
-| You are not required to complete this form to engage our tax return preparation services. If we obtain<br>your signature on this form by conditioning our tax return preparation services on your consent, your<br>consent will not be valid. Your consent is valid for the amount of time that you specify. If you do not<br>specify the duration of your consent, your consent is valid for one year from the date of signature." |
-| If you believe your tax return information has been disclosed or used improperly in a manner<br>unauthorized by law or without your permission, you may contact the Treasury Inspector General for<br>Tax Administration (TIGTA) at https://www.treasury.gov/tigta/.|
-| To agree, enter your name and date in the boxes below and select the "I Agree" button on the<br>bottom of the page. |
+| "Federal law requires this consent form be provided to you. Unless authorized by law, we cannot use
+your tax return information for purposes other than the preparation and filing of your tax return without
+your consent. |
+| You are not required to complete this form to engage our tax return preparation services. If we obtain
+your signature on this form by conditioning our tax return preparation services on your consent, your
+consent will not be valid. Your consent is valid for the amount of time that you specify. If you do not
+specify the duration of your consent, your consent is valid for one year from the date of signature." |
+| If you believe your tax return information has been disclosed or used improperly in a manner
+unauthorized by law or without your permission, you may contact the Treasury Inspector General for
+Tax Administration (TIGTA) at https://www.treasury.gov/tigta/.|
+| To agree, enter your name and date in the boxes below and select the "I Agree" button on the
+bottom of the page. |
 | |
 | |
 | |
 | |
 | |
-| First Name<br>Last Name |
+| First Name
+Last Name |
 | Please type the date below: |
 | Date |
 | |
@@ -2175,10 +3904,20 @@ Once the IRS accepts the electronically filed return, the acceptance date will b
 | |
 | |
 | IRS regulations require the following statements: |
-| "Federal law requires this consent form be provided to you. Unless authorized by law, we cannot<br>disclose your tax return information to third parties for purposes other than the preparation and filing of<br>your tax return without your consent. If you consent to the disclosure of your tax return information,<br>Federal law may not protect your tax return information from further use or distribution. |
-| You are not required to complete this form to engage our tax return preparation services. If we obtain<br>your signature on this form by conditioning our tax return preparation services on your consent, your<br>consent will not be valid. If you agree to the disclosure of your tax return information, your consent is<br>valid for the amount of time that you specify. If you do not specify the duration of your consent, your<br>consent is valid for one year from the date of signature." |
-| If you believe your tax return information has been disclosed or used improperly in a manner<br>unauthorized by law or without your permission, you may contact the Treasury Inspector General for<br>Tax Administration (TIGTA) at https://www.treasury.gov/tigta/.|
-| To agree, enter your name and date in the boxes below and select the "I Agree" button on the<br>bottom of the page. |
+| "Federal law requires this consent form be provided to you. Unless authorized by law, we cannot
+disclose your tax return information to third parties for purposes other than the preparation and filing of
+your tax return without your consent. If you consent to the disclosure of your tax return information,
+Federal law may not protect your tax return information from further use or distribution. |
+| You are not required to complete this form to engage our tax return preparation services. If we obtain
+your signature on this form by conditioning our tax return preparation services on your consent, your
+consent will not be valid. If you agree to the disclosure of your tax return information, your consent is
+valid for the amount of time that you specify. If you do not specify the duration of your consent, your
+consent is valid for one year from the date of signature." |
+| If you believe your tax return information has been disclosed or used improperly in a manner
+unauthorized by law or without your permission, you may contact the Treasury Inspector General for
+Tax Administration (TIGTA) at https://www.treasury.gov/tigta/.|
+| To agree, enter your name and date in the boxes below and select the "I Agree" button on the
+bottom of the page. |
 | |
 | Sign this agreement by entering your name: |
 | |
@@ -2201,7 +3940,8 @@ You are not required to complete this form to engage our tax return preparation 
 
 If you believe your tax return information has been disclosed or used improperly in a manner unauthorized by law or without your permission, you may contact the Treasury Inspector General for Tax Administration (TIGTA) at https://www.treasury.gov/tigta/.
 
-| To agree, enter your name and date in the boxes below and select the "I Agree" button on the<br>bottom of the page. | |
+| To agree, enter your name and date in the boxes below and select the "I Agree" button on the
+bottom of the page. | |
 |---------------------------------------------------------------------------------------------------------------------|--|
 | I authorize Intuit to send my information listed above to CSIdentity Corporation. | |
 | Sign this agreement by entering your name: | |
@@ -2228,18 +3968,51 @@ Information regarding low-cost deposit accounts may be available at www.mymoney.
 
 The chart below shows the options for filing your federal tax returns (e-file or paper returns), the RPS product, refund disbursement options, estimated timing for obtaining your federal tax refund proceeds, and costs associated with the various options.
 
-| WHAT TYPE<br>OF FILING<br>METHOD? | WHAT ARE YOUR<br>DISBURSEMENT<br>OPTIONS? | WHAT IS THE<br>ESTIMATED TIME TO<br>RECEIVE REFUND(S)? | WHAT COSTS DO YOU<br>INCUR IN ADDITION<br>TO TAX PREPARATION<br>FEES? |
+| WHAT TYPE
+OF FILING
+METHOD? | WHAT ARE YOUR
+DISBURSEMENT
+OPTIONS? | WHAT IS THE
+ESTIMATED TIME TO
+RECEIVE REFUND(S)? | WHAT COSTS DO YOU
+INCUR IN ADDITION
+TO TAX PREPARATION
+FEES? |
 |--------------------------------------|---------------------------------------------------------|--------------------------------------------------------|-----------------------------------------------------------------------|
-| PAPER RETURN<br>No Refund Processing | IRS direct deposit to<br>your personal bank<br>account. | Approximately<br>6 to 8 weeks 1 | Free |
-| Service | Check mailed by IRS<br>to address on tax<br>return(s). | Approximately<br>6 to 8 weeks 1 | |
-| ELECTRONIC<br>FILING<br>(E-FILE) | IRS direct deposit to<br>your personal bank<br>account. | Usually within<br>21 days 1 | Free |
-| No Refund Processing<br>Service | Check mailed by IRS<br>to address on tax<br>return(s). | Approximately<br>21 to 28 days 1 | |
-| ELECTRONIC<br>FILING<br>(E-FILE) | Direct deposit to<br>your personal bank<br>account. | Usually within<br>21 days 1 | Free option with<br>your purchase of<br>a Tax Product 2 |
-## | Refund Processing<br>Service | | | |
+| PAPER RETURN
+No Refund Processing | IRS direct deposit to
+your personal bank
+account. | Approximately
+6 to 8 weeks 1 | Free |
+| Service | Check mailed by IRS
+to address on tax
+return(s). | Approximately
+6 to 8 weeks 1 | |
+| ELECTRONIC
+FILING
+(E-FILE) | IRS direct deposit to
+your personal bank
+account. | Usually within
+21 days 1 | Free |
+| No Refund Processing
+Service | Check mailed by IRS
+to address on tax
+return(s). | Approximately
+21 to 28 days 1 | |
+| ELECTRONIC
+FILING
+(E-FILE) | Direct deposit to
+your personal bank
+account. | Usually within
+21 days 1 | Free option with
+your purchase of
+a Tax Product 2 |
+## | Refund Processing
+Service | | | |
 
-<sup>1</sup> You may experience delays with your tax refund(s) if, for example, you enter incorrect bank account or contact information, you enter a bank account in someone else's name, or if possible suspicious activity is detected. If your return(s) contains Earned Income Tax Credit or Additional Child Tax Credit, the IRS will issue your refund(s) no earlier than February 15, 2023.
+1 You may experience delays with your tax refund(s) if, for example, you enter incorrect bank account or contact information, you enter a bank account in someone else's name, or if possible suspicious activity is detected. If your return(s) contains Earned Income Tax Credit or Additional Child Tax Credit, the IRS will issue your refund(s) no earlier than February 15, 2023.
 
-<sup>2</sup> The charges here consist of a Turbo Tax Fee, the cost of the Tax Product, and any fees for additional products and services purchased. Note that the cost of the Tax Product may vary depending on the edition of Turbo Tax purchased. See Section 3 of the Refund Processing Service Agreement for the cost of the service you have chosen.
+2 The charges here consist of a Turbo Tax Fee, the cost of the Tax Product, and any fees for additional products and services purchased. Note that the cost of the Tax Product may vary depending on the edition of Turbo Tax purchased. See Section 3 of the Refund Processing Service Agreement for the cost of the service you have chosen.
 
 # **Pro Delegation Worksheet 2022** Check this box if you are preparing this return as a PRO preparer **Preparer / Electronic Return Originator (ERO) Information** Print name in signature area? Preparer Name Preparer Tax ID # (PTIN) NY Tax Preparer Registration # or NY Exclusion Code For NM, OR Preparers Only: State ID# Preparer E-mail Print date on return? Preparer Phone CAF # **Electronic Filing Only:** ERO Practitioner PIN Engagement letter (if applicable) : **Electronic Filing and Printing of Tax Return Information Electronic Filing: Print and Mail Selections (use only if e-file ineligible):** File **federal** return electronically Federal return printed and mailed to IRS File **state** returns electronically State return printed and mailed to state agency File **other** returns electronically Other return printed and mailed Select state returns to file electronically: Select state returns to file by mail: State(s) State(s) Select other returns to file electronically: Select other returns to file by mail: Other Return(s) Other Return(s) **Electronic Filing and Printing of Amended Return Information Electronic Filing: Print and Mail Selections (use only if e-file ineligible):** File **federal** amended return(s) electronically Federal amended return printed and mailed File **state** amended return(s) electronically State amended return printed and mailed Select state amended return(s) to file electronically: Select state amended return(s) to file by mail:
 
@@ -2262,15 +4035,31 @@ The chart below shows the options for filing your federal tax returns (e-file or
 
 By using a computer system and software to prepare and transmit my client's return electronically, I consent to the disclosure of all information pertaining to my use of the system and software to create my client's return and to the electronic transmission of my client's return to the state Department of Revenue, as applicable by law.
 
-| Practitioner PIN Program:<br>Choose one: | | Sign return electronically using Practitioner PIN<br>Taxpayer(s) entered own PIN(s) | Automatically generate PIN equal to last 5 digits of taxpayer(s) SSN (See help) | | | | |
+| Practitioner PIN Program:
+Choose one: | | Sign return electronically using Practitioner PIN
+Taxpayer(s) entered own PIN(s) | Automatically generate PIN equal to last 5 digits of taxpayer(s) SSN (See help) | | | | |
 |-----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|--|--|--|--|
-| | Preparer entered PIN(s) on behalf of taxpayer(s)<br>Taxpayer's PIN (enter any 5 numbers).<br>Spouse's PIN filing a joint return (enter any 5 numbers)<br>Date PIN entered | | | | | | |
+| | Preparer entered PIN(s) on behalf of taxpayer(s)
+Taxpayer's PIN (enter any 5 numbers).
+Spouse's PIN filing a joint return (enter any 5 numbers)
+Date PIN entered | | | | | | |
 | Identity Verification Information | | | | | | | |
 | Driver's License and/or State Id: | | federal information worksheet prior to e-filing the return. | Taxpayer and Spouse (if applicable) driver's license and/or state identification must be completed on the | | | | |
-| Driver's license<br>Passport<br>Utility billing statement | State issued identification card<br>Credit card billing statement | Documents Used to Verify Primary Taxpayer Identity:<br>Account statement from financial institution | | | | | |
-| Finish and File Info:<br>Full Tilt enabled | New Finish and File enabled | To indicate a client return download in FnF | | | | | |
+| Driver's license
+Passport
+Utility billing statement | State issued identification card
+Credit card billing statement | Documents Used to Verify Primary Taxpayer Identity:
+Account statement from financial institution | | | | | |
+| Finish and File Info:
+Full Tilt enabled | New Finish and File enabled | To indicate a client return download in FnF | | | | | |
 | PDF ATTACHMENTS | | | | | | | |
-| Attachment<br>Description | Type<br>File Name<br>PDF Name<br>Entity<br>Version<br>Key | | | | | | |
+| Attachment
+Description | Type
+File Name
+PDF Name
+Entity
+Version
+Key | | | | | | |
 ## | | | | | | | | |
 
 **Please fill out the survey at the link below to help us better understand your experience working with the tax optimization features.**
@@ -2279,7 +4068,8 @@ By using a computer system and software to prepare and transmit my client's retu
 
 # **Suggestions For Customer**
 
-| Suggestion ID<br>0000 | Suggestion | | No pilot project expert suggestion was determined for this customer | | | |
+| Suggestion ID
+0000 | Suggestion | | No pilot project expert suggestion was determined for this customer | | | |
 |-----------------------|------------|--|---------------------------------------------------------------------|--|--|--|
 | | | | | | | |
 | | | | | | | |
@@ -2312,9 +4102,11 @@ By using a computer system and software to prepare and transmit my client's retu
 
 | | Tax Smart Worksheet |
 |---|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| A | 0.<br>Tax |
+| A | 0.
+Tax |
 | | Check if from: |
-| 1 | X<br>Tax table |
+| 1 | X
+Tax table |
 | 2 | Tax Computation Worksheet (see instructions) |
 | 3 | Schedule D Tax Worksheet |
 | 4 | Qualified Dividends and Capital Gain Tax Worksheet |
@@ -2328,31 +4120,124 @@ By using a computer system and software to prepare and transmit my client's retu
 | F | IRC Section 197(f)(9)(B)(ii) election for an additional tax |
 | G | Health Coverage Tax Credit Recovery, Form 8885, Line 5, if negative |
 | H | Additional tax from Form 8621 |
-| I | Tax. Add lines A through G. Enter the result here and include in tax below<br>0. |
+| I | Tax. Add lines A through G. Enter the result here and include in tax below
+0. |
 | J | Form 8621 tax deferal from line 9c (to line 24) |
 | | |
-| | 1040/1040SR Wks: Form 1040 or Form 1040-SR Worksheet Smart Worksheet<br>Excess Social Security and Tier I RRTA Tax Withheld Smart Worksheet<br>The calculated amount for Excess social security and tier 1 RRTA tax withheld could include<br>a portion that needs to be removed. When a taxpayer has multiple W-2's, each with the same<br>EIN, excess withholding can only be claimed if the Employer's Name's in box c of the W-2's<br>reflect separate business entities. This could occur when a parent company has multiple<br>subsidiaries, or when a temp agency issues W-2's for distinctly different jobs. If you have<br>multiple W-2's with the same EIN, for the same taxpayer, and for the same job, reduce the<br>amount calculated on Line A below by the excess withholdings from only those W-2's. |
-| A | Total Excess Social Security or Tier I RRTA tax withheld claimed as a credit<br>0. |
+| | 1040/1040SR Wks: Form 1040 or Form 1040-SR Worksheet Smart Worksheet
+Excess Social Security and Tier I RRTA Tax Withheld Smart Worksheet
+The calculated amount for Excess social security and tier 1 RRTA tax withheld could include
+a portion that needs to be removed. When a taxpayer has multiple W-2's, each with the same
+EIN, excess withholding can only be claimed if the Employer's Name's in box c of the W-2's
+reflect separate business entities. This could occur when a parent company has multiple
+subsidiaries, or when a temp agency issues W-2's for distinctly different jobs. If you have
+multiple W-2's with the same EIN, for the same taxpayer, and for the same job, reduce the
+amount calculated on Line A below by the excess withholdings from only those W-2's. |
+| A | Total Excess Social Security or Tier I RRTA tax withheld claimed as a credit
+0. |
 
 | Turbo Tax for the Web Filing Status Smart Worksheet | |
 |----------------------------------------------------------------------------------------|--|
-| Check this box to override the filing status selected thru Interview<br>Marital Status | |
+| Check this box to override the filing status selected thru Interview
+Marital Status | |
 ## | Filing Status Selected | |
 
 Dependent Information Worksheet (Vonadrain) -- Smart Worksheet
 
 | | Dependency/EIC Smart Worksheet |
 |--------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| | NOTE: It is recommended that you answer the questions below using the Step-by-Step mode.<br>That will help insure that answers to the questions are not inconsistent. |
-| A | How many months did this person live with you?<br>The whole year<br>Note: If born or died in current year and lived with you entire time or qualified<br>missing child select "The whole year". If more than one-half the year select 7<br>or more |
-| B | Who are the parents of this person?<br>(Used to determine if additional questions are necessary for children of divorced parents.)<br>Both Taxpayer and spouse<br>Taxpayer<br>Spouse |
-| C<br>D | X<br>Did this person provide more than 1/2 of their own support?<br>Yes<br>No<br>Was this person married on December 31, 2022 and filing a joint return<br>for the year (You may answer no if the only reason the joint return is filed<br>is to get a refund of tax withheld or estimated tax payments and neither<br>spouse would have a tax liability on their return if they filed separate |
-| | X<br>returns)?<br>Yes<br>No<br>Detailed answers for this question. This dependent:<br>X<br>-<br>Was married on December 31, 2022<br>Yes<br>No<br>-<br>If married, filed a joint return for the year<br>Yes<br>No<br>-<br>If filed joint return, only filed to get a refund of<br>tax withheld or estimated tax payments<br>Yes<br>No<br>-<br>If filed married filing separate, neither spouse |
-| E<br>F | had a tax liability on their return if they had<br>filed separately<br>Yes<br>No<br>Is this person a Full time student?<br>Yes<br>No<br>X<br>Is this person's gross income less than \$4,400?<br>Yes<br>No<br>1<br>Did you provide over 1/2 the support for this person? |
-| | or<br>Did you provide over 10% of the support for the person and with other<br>individuals who would be able to claim the person except for the<br>support test over 1/2 the support and all of you have agreed that you<br>alone will claim the person and you have filled out the Multiple Support<br>X<br>Declaration, Form 2120, to attach to your return?<br>Yes<br>No |
-| G | Is there an agreement with this person's other parent about who can claim<br>this person as a dependent?<br>Yes<br>No<br>Note: The noncustodial parent claiming the exemption for the child must<br>attach to their return Form 8332 from the custodial parent releasing the<br>claim to the exemption for the child<br>1<br>Turbo Tax Web Only: |
-| | Is the other parent claiming this dependent per the custody<br>agreement?<br>Yes<br>No<br>Has the other parent waived their legal right so you can claim this<br>dependent on your tax return?<br>Yes<br>No |
-| H | Who will be claiming this person as a dependent as a result of:<br>-<br>an agreement between the parents<br>-<br>the rules controlling who can claim a qualifying child when the child meets the<br>conditions to be a qualifying child of more than one person?<br>X<br>Taxpayer (includes spouse if married filing joint) in this return?<br>Other parent in different return?<br>Someone else in different return? |
+| | NOTE: It is recommended that you answer the questions below using the Step-by-Step mode.
+That will help insure that answers to the questions are not inconsistent. |
+| A | How many months did this person live with you?
+The whole year
+Note: If born or died in current year and lived with you entire time or qualified
+missing child select "The whole year". If more than one-half the year select 7
+or more |
+| B | Who are the parents of this person?
+(Used to determine if additional questions are necessary for children of divorced parents.)
+Both Taxpayer and spouse
+Taxpayer
+Spouse |
+| C
+D | X
+Did this person provide more than 1/2 of their own support?
+Yes
+No
+Was this person married on December 31, 2022 and filing a joint return
+for the year (You may answer no if the only reason the joint return is filed
+is to get a refund of tax withheld or estimated tax payments and neither
+spouse would have a tax liability on their return if they filed separate |
+| | X
+returns)?
+Yes
+No
+Detailed answers for this question. This dependent:
+X
+-
+Was married on December 31, 2022
+Yes
+No
+-
+If married, filed a joint return for the year
+Yes
+No
+-
+If filed joint return, only filed to get a refund of
+tax withheld or estimated tax payments
+Yes
+No
+-
+If filed married filing separate, neither spouse |
+| E
+F | had a tax liability on their return if they had
+filed separately
+Yes
+No
+Is this person a Full time student?
+Yes
+No
+X
+Is this person's gross income less than \$4,400?
+Yes
+No
+1
+Did you provide over 1/2 the support for this person? |
+| | or
+Did you provide over 10% of the support for the person and with other
+individuals who would be able to claim the person except for the
+support test over 1/2 the support and all of you have agreed that you
+alone will claim the person and you have filled out the Multiple Support
+X
+Declaration, Form 2120, to attach to your return?
+Yes
+No |
+| G | Is there an agreement with this person's other parent about who can claim
+this person as a dependent?
+Yes
+No
+Note: The noncustodial parent claiming the exemption for the child must
+attach to their return Form 8332 from the custodial parent releasing the
+claim to the exemption for the child
+1
+Turbo Tax Web Only: |
+| | Is the other parent claiming this dependent per the custody
+agreement?
+Yes
+No
+Has the other parent waived their legal right so you can claim this
+dependent on your tax return?
+Yes
+No |
+| H | Who will be claiming this person as a dependent as a result of:
+-
+an agreement between the parents
+-
+the rules controlling who can claim a qualifying child when the child meets the
+conditions to be a qualifying child of more than one person?
+X
+Taxpayer (includes spouse if married filing joint) in this return?
+Other parent in different return?
+Someone else in different return? |
 
 Dependent Information Worksheet (Vonadrain) -- Smart Worksheet
 
@@ -2372,56 +4257,70 @@ Part-Year State Allocation Worksheet -- Smart Worksheet
 | | | Amount | From | To | Res | Src | Amount |
 | | | | mm/dd | mm/dd | St | St | |
 | | | | | | | | |
-| | Y Not-for-profit (hobby) income<br>T | | | | | | |
+| | Y Not-for-profit (hobby) income
+T | | | | | | |
 | | | | | | | | |
 | | | | | | | | |
-| | Not-for-profit (hobby) income<br>S | | | | | | |
-| | | | | | | | |
-| | | | | | | | |
-| | | | | | | | |
-| Z | Stock options<br>T | | | | | | |
-| | | | | | | | |
-| | | | | | | | |
-| | Stock options<br>S | | | | | | |
+| | Not-for-profit (hobby) income
+S | | | | | | |
 | | | | | | | | |
 | | | | | | | | |
 | | | | | | | | |
-| | aa Scholarship not on Form W-2<br>T | | | | | | |
+| Z | Stock options
+T | | | | | | |
 | | | | | | | | |
 | | | | | | | | |
-| | Scholarship not on Form W-2<br>S | | | | | | |
-| | | | | | | | |
-| | | | | | | | |
-| | | | | | | | |
-| | bb Medicaid waiver payments<br>T | | | | | | |
-| | | | | | | | |
-| | | | | | | | |
-| | Medicaid waiver payments<br>S | | | | | | |
+| | Stock options
+S | | | | | | |
 | | | | | | | | |
 | | | | | | | | |
 | | | | | | | | |
-| | cc Nonqualified pension / annuity<br>T | | | | | | |
+| | aa Scholarship not on Form W-2
+T | | | | | | |
 | | | | | | | | |
 | | | | | | | | |
-| | Nonqualified pension / annuity<br>S | | | | | | |
-| | | | | | | | |
-| | | | | | | | |
-| | | | | | | | |
-| | dd Wages earned w. incarcerated<br>T | | | | | | |
+| | Scholarship not on Form W-2
+S | | | | | | |
 | | | | | | | | |
 | | | | | | | | |
 | | | | | | | | |
-| | Wages earned w. incarcerated<br>S | | | | | | |
+| | bb Medicaid waiver payments
+T | | | | | | |
 | | | | | | | | |
 | | | | | | | | |
-| ee | Miscellaneous other income<br>T | | | | | | |
+| | Medicaid waiver payments
+S | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | cc Nonqualified pension / annuity
+T | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | Nonqualified pension / annuity
+S | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | dd Wages earned w. incarcerated
+T | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | Wages earned w. incarcerated
+S | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| ee | Miscellaneous other income
+T | | | | | | |
 ## | | | | | | | | |
 
 | Christopher W Corella | | | 385-17-2724 | 5 |
 |-----------------------|--|--|-------------|---|
 ## | | | | | |
 
-| Miscellaneous other income<br>S | | | |
+| Miscellaneous other income
+S | | | |
 |---------------------------------|--|--|--|
 ## | | | | |
 
@@ -2429,7 +4328,11 @@ Part-Year State Allocation Worksheet -- Smart Worksheet
 
 | | Substitute Form W-2 Smart Worksheet |
 |-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| A<br>B<br>C | Treat as a substitute W-2 and generate a form 4852<br>Linked substitute W-2 Form 4852<br>Enter Form 4852, Line 9 information. "How did you determine amounts on line 7 of Form 4852?" |
+| A
+B
+C | Treat as a substitute W-2 and generate a form 4852
+Linked substitute W-2 Form 4852
+Enter Form 4852, Line 9 information. "How did you determine amounts on line 7 of Form 4852?" |
 | | |
 | | |
 | D | Form 4852, Line 10 information. "Explain your efforts to obtain Form W-2?" |
@@ -2440,13 +4343,26 @@ Part-Year State Allocation Worksheet -- Smart Worksheet
 
 Tax and Interest Deduction Worksheet -- Smart Worksheet
 
-| '<br>' | Mortgage Interest Limited Smart Worksheet<br>If your mortgage interest deduction needs to be limited for one of the following reasons, use<br>the Deductible Home Mortgage Interest Worksheet to determine the amount to be reported on<br>lines A, B, and C below:<br>The principal amount of your mortgage and home equity debt is over \$750,000 (\$375,000 if<br>married filing separate), or<br>You had home debt that was not used to buy, build or substantially improve your home that<br>secures the loan |
+| '
+' | Mortgage Interest Limited Smart Worksheet
+If your mortgage interest deduction needs to be limited for one of the following reasons, use
+the Deductible Home Mortgage Interest Worksheet to determine the amount to be reported on
+lines A, B, and C below:
+The principal amount of your mortgage and home equity debt is over \$750,000 (\$375,000 if
+married filing separate), or
+You had home debt that was not used to buy, build or substantially improve your home that
+secures the loan |
 |--------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | | Quick Zoom to Deductible Home Mortgage Interest Worksheet |
-| | Does your mortgage interest need to be limited:<br>Yes<br>No<br>X |
+| | Does your mortgage interest need to be limited:
+Yes
+No
+X |
 | A | Home mortgage interest and points reported on Form 1098: |
 | 1 | Mortgage interest and points from the Home Mortgage Interest Worksheet |
-| 2<br>B | Limited amount to report on line 5a below<br>Home mortgage interest not reported on Form 1098: |
+| 2
+B | Limited amount to report on line 5a below
+Home mortgage interest not reported on Form 1098: |
 | 1 | Mortgage interest from the Home Mortgage Interest Worksheet |
 | 2 | Limited amount to report on line 6a below |
 | C | Points not reported on Form 1098: |
@@ -2465,23 +4381,38 @@ Tax and Interest Deduction Worksheet -- Smart Worksheet
 | | A Taxpayer: | | | | | |
 | 1 | Taxpayer, nontaxable combat pay | | | | | |
 | 2 | Election for earned income credit (EIC): | | | | | |
-| | Elect taxpayer's nontaxable combat pay as earned income for EIC?<br>Yes<br>No | | | | | |
+| | Elect taxpayer's nontaxable combat pay as earned income for EIC?
+Yes
+No | | | | | |
 | 3 | Election for dependent care benefits (DCB): | | | | | |
-| | Elect taxpayer's nontaxable combat pay as earned income for DCB?<br>Yes<br>No | | | | | |
+| | Elect taxpayer's nontaxable combat pay as earned income for DCB?
+Yes
+No | | | | | |
 | 4 | Election for child and dependent care credit: | | | | | |
 | | Elect taxpayer's nontaxable combat pay as earned income | | | | | |
-| | for child and dependent care credit?<br>Yes<br>No | | | | | |
+| | for child and dependent care credit?
+Yes
+No | | | | | |
 | | B Spouse: | | | | | |
 | 1 | Spouse, nontaxable combat pay | | | | | |
 | 2 | Election for earned income credit (EIC): | | | | | |
-| | Elect spouse's nontaxable combat pay as earned income for EIC?<br>Yes<br>No | | | | | |
+| | Elect spouse's nontaxable combat pay as earned income for EIC?
+Yes
+No | | | | | |
 | 3 | Election for dependent care benefits (DCB): | | | | | |
-| | Elect spouse's nontaxable combat pay as earned income for DCB?<br>Yes<br>No | | | | | |
+| | Elect spouse's nontaxable combat pay as earned income for DCB?
+Yes
+No | | | | | |
 | 4 | Election for child and dependent care credit: | | | | | |
 | | Elect spouse's nontaxable combat pay as earned income | | | | | |
-| | for child and dependent care credit?<br>Yes<br>No | | | | | |
-| | C You may compare the tax benefit of electing or not electing by checking a box on line A or<br>line B and reviewing the overpayment or amount due below: | | | | | |
-| | 1,427.<br>Overpayment<br>Amount due | | | | | |
+| | for child and dependent care credit?
+Yes
+No | | | | | |
+| | C You may compare the tax benefit of electing or not electing by checking a box on line A or
+line B and reviewing the overpayment or amount due below: | | | | | |
+| | 1,427.
+Overpayment
+Amount due | | | | | |
 
 ## Earned Income Credit Worksheet -- Smart Worksheet
 
@@ -2506,15 +4437,22 @@ Tax and Interest Deduction Worksheet -- Smart Worksheet
 | G | Adjustments | |
 | H | Total investment income, add lines A through G | 0. |
 | | Is line H, total investment income over \$10,300? | |
-| | X<br>No. You may take the credit. | |
+| | X
+No. You may take the credit. | |
 ## | | Yes. Stop. You cannot take the credit. | |
 
 # What-If Worksheet -- Smart Worksheet
 
 | | Alternative Minimum Tax (AMT) Smart Worksheet | | | | | |
 |---|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----|----|----|----|--|
-| | A AMT adjustments and<br>preferences (Form 6251) | 0. | 0. | 0. | 0. | |
-| F | Capital gains tax - AMT<br>B Net short-term gains/losses<br>C Net long-term gains/losses<br>D Net collectibles (28%)<br>E Unrecap'd sec 1250 (25%)<br>AMT foreign tax credit | | | | | |
+| | A AMT adjustments and
+preferences (Form 6251) | 0. | 0. | 0. | 0. | |
+| F | Capital gains tax - AMT
+B Net short-term gains/losses
+C Net long-term gains/losses
+D Net collectibles (28%)
+E Unrecap'd sec 1250 (25%)
+AMT foreign tax credit | | | | | |
 
 Did you and your spouse have the same principal residence for the last 6 months of 2022? **Yes No**
 
@@ -2526,10 +4464,48 @@ Are you legally separated according to your state law under a written separation
 
 | | Credits Smart Worksheet | | | | | |
 |------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|-----------------|---------------------|---------------------|--|
-| A<br>B<br>C<br>D | Dependent Care Credit<br>No. of qualifying children<br>Care expenses<br>Earned income adj-taxpayer<br>Earned income adj-spouse | | | 0<br>0.<br>0.<br>0. | 0<br>0.<br>0.<br>0. | |
-| E<br>F<br>G<br>H | Child Tax Credit<br>No. of qualifying children<br>No. of other dependents<br>Social Security and<br>Medicare taxes withheld<br>Earned income adjustments | 0<br>1<br>928.<br>0. | 0<br>928.<br>0. | 0<br>928. | 0<br>0. | |
-| I<br>J | Education Credits<br>American Opportunity Credit:<br>Qualifying expenses<br>Lifetime Credit:<br>Qualifying expenses | | | | | |
-| K<br>L | Earned Income Credit<br>No. of qualifying children<br>Earned income adjustments | 0<br>0. | 0<br>0. | 0 | 0 | |
+| A
+B
+C
+D | Dependent Care Credit
+No. of qualifying children
+Care expenses
+Earned income adj-taxpayer
+Earned income adj-spouse | | | 0
+0.
+0.
+0. | 0
+0.
+0.
+0. | |
+| E
+F
+G
+H | Child Tax Credit
+No. of qualifying children
+No. of other dependents
+Social Security and
+Medicare taxes withheld
+Earned income adjustments | 0
+1
+928.
+0. | 0
+928.
+0. | 0
+928. | 0
+0. | |
+| I
+J | Education Credits
+American Opportunity Credit:
+Qualifying expenses
+Lifetime Credit:
+Qualifying expenses | | | | | |
+| K
+L | Earned Income Credit
+No. of qualifying children
+Earned income adjustments | 0
+0. | 0
+0. | 0 | 0 | |
 
 # What-If Worksheet -- Smart Worksheet
 
@@ -2560,4 +4536,5 @@ Are you legally separated according to your state law under a written separation
 | D Premiums for second lowest | | | | | | |
 | cost silver plan (SLCSP) | | | | | | |
 | E Premiums for selected plan | | | | | | |
-## | F<br>Advance payment rec'd | | | | | | |
+## | F
+Advance payment rec'd | | | | | | |

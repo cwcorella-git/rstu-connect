@@ -1,3 +1,8 @@
+---
+title: "Understanding the impact of opensource language models - Tech Talks"
+category: "technology-digital-justice"
+---
+
 #### [bdtechtalks.com](https://bdtechtalks.com/2023/05/29/open-source-llms-cerebras-gpt/amp/)
 
 # Understanding the impact of opensource language models - Tech Talks

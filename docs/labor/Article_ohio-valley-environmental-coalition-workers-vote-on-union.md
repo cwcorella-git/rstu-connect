@@ -1,13 +1,8 @@
 ---
-title: Ohio Valley Environmental Coalition Workers Vote On Union
-date: 2025
-author: Industrial Workers of the World
-tags:
-  - organizing
-  - strikes
-  - unions
-  - rent
-  - labor
+title: "Ohio Valley Environmental Coalition Workers Vote On Union"
+author: "Industrial Workers of the World"
+date: "2025"
+category: "labor"
 ---
 
 # Ohio Valley Environmental Coalition Workers Vote On Union

@@ -1,3 +1,8 @@
+---
+title: "Dollars and Dissent"
+category: "contemporary-analysis"
+---
+
 # Dollars and Dissent
 
 Donor Support for Grassroots Organizing and Nonviolent Movements
@@ -39,29 +44,47 @@ Publication Disclaimer: The designations used and material presented in this pub
 | Introduction | 3 |
 | Follow the Money | 3 |
 | A Donor-Centric Approach | 8 |
-| Explanations for Foreign Support for Human Rights, Social Justice,<br>and Democracy | 8 |
-| Foreign State Support for Human Rights, Social Justice, and Democracy<br>Foreign Non-State Support for Human Rights, Social Justice, and Democracy<br>Foreign Support for Nonviolent Movements | 9<br>10 |
-| Why and How Have Donors Supported Grassroots Organizing<br>and Nonviolent Movements? | 10<br>12 |
+| Explanations for Foreign Support for Human Rights, Social Justice,
+and Democracy | 8 |
+| Foreign State Support for Human Rights, Social Justice, and Democracy
+Foreign Non-State Support for Human Rights, Social Justice, and Democracy
+Foreign Support for Nonviolent Movements | 9
+10 |
+| Why and How Have Donors Supported Grassroots Organizing
+and Nonviolent Movements? | 10
+12 |
 | Research Methods | 13 |
 | Donor Survey | 15 |
 | The Survey Population and Their Foundations: Descriptive Statistics | 15 |
 | Donor Goals | 18 |
 | Constraints on Supporting Grassroots Organizing and Social Movements | 19 |
-| Case Studies<br>22 | |
-| Case<br>Study<br>Selection<br>22 | |
-| American Jewish World Service<br>24 | |
-| Humanity United<br>29 | |
+| Case Studies
+22 | |
+| Case
+Study
+Selection
+22 | |
+| American Jewish World Service
+24 | |
+| Humanity United
+29 | |
 | Supporting Grassroots Organizing and Nonviolent Movements | 37 |
 | Two Donors, Two Trajectories | 37 |
-| Political Power in Society<br>39 | |
-| This We Believe: Two Trajectories to Building<br>and Shifting Power in Society | |
-| 40<br>The Importance of the Institutional Form of Donors and Grantees Alike | 41 |
-| Organizing and Movements Exist in a Broader Political Ecosystem<br>44 | |
-## | The Importance of Donor Coordination<br>46 | |
+| Political Power in Society
+39 | |
+| This We Believe: Two Trajectories to Building
+and Shifting Power in Society | |
+| 40
+The Importance of the Institutional Form of Donors and Grantees Alike | 41 |
+| Organizing and Movements Exist in a Broader Political Ecosystem
+44 | |
+## | The Importance of Donor Coordination
+46 | |
 
 | Power in Donor–Movement Relationships | 48 |
 |------------------------------------------------------------------------------------------------------------------------------|----|
-| Foreign Support is Always of Secondary Importance<br>Philanthropy "to" Movements, "with" Movements, | 49 |
+| Foreign Support is Always of Secondary Importance
+Philanthropy "to" Movements, "with" Movements, | 49 |
 | or "by and from" Movements | 50 |
 | Movement Capture | 52 |
 | Evaluating Support for Organizing and Movements | 54 |
@@ -69,11 +92,16 @@ Publication Disclaimer: The designations used and material presented in this pub
 | Getting Proximate to Movements | 58 |
 | Findings | 60 |
 | Common Tensions and Practices in Supporting Organizing and Movements | 60 |
-| Tension 1. Will My Foundation Support Informal, Unregistered,<br>or Grassroots Entities? | 60 |
-| Tension 2. Rapid Response, Project-Based,<br>or General Operating Support? | 64 |
-| Tension 3. Does US Federal Tax Law Permit Us to Support Social Movements<br>and Grassroots Organizers That Conduct Lobbying? | 66 |
-| Tension 4. How Can We Build Donor Expertise<br>in Supporting Organizing and Movements? | 68 |
-| Tension 5. How Can We Avoid Harmful Power Imbalances<br>Between Donor and Grantee? | 70 |
+| Tension 1. Will My Foundation Support Informal, Unregistered,
+or Grassroots Entities? | 60 |
+| Tension 2. Rapid Response, Project-Based,
+or General Operating Support? | 64 |
+| Tension 3. Does US Federal Tax Law Permit Us to Support Social Movements
+and Grassroots Organizers That Conduct Lobbying? | 66 |
+| Tension 4. How Can We Build Donor Expertise
+in Supporting Organizing and Movements? | 68 |
+| Tension 5. How Can We Avoid Harmful Power Imbalances
+Between Donor and Grantee? | 70 |
 | Tension 6. How Do We Monitor and Evaluate Organizing and Movements? | 73 |
 | Principles for Supporting Grassroots Organizing and Social Movements | 75 |
 | Principle 1. Do No Harm | 76 |
@@ -87,22 +115,35 @@ Publication Disclaimer: The designations used and material presented in this pub
 | Appendix 2. Donors, Social Movements, | |
 | and Grassroots Organizing Survey Instrument | 85 |
 
-| Bibliography<br><br>. 94 |
+| Bibliography
+
+. 94 |
 |-----------------------------------------------------------------|
-| Interviews<br><br>104 |
-| Acknowledgments<br>105 |
+| Interviews
+
+104 |
+| Acknowledgments
+105 |
 | Boxes and Figures |
-| Box 1. Denitions<br>6 |
+| Box 1. Denitions
+6 |
 | Box 2. Survey Takeaways Concerning Foundation Goals |
-| for Supporting Grassroots Organizing and Movements<br>18 |
+| for Supporting Grassroots Organizing and Movements
+18 |
 | Box 3. Survey Takeaways Concerning Constraints |
-| on Supporting Grassroots Organizing and Movements<br>20 |
-| Box 4. A Grassrooted Approach to Grantmaking in Nicaragua<br>28 |
-| Box 5. A Multifaceted Approach to Peacebuilding<br>34 |
-| Box 6. Movement Learning in Serbia<br>73 |
+| on Supporting Grassroots Organizing and Movements
+20 |
+| Box 4. A Grassrooted Approach to Grantmaking in Nicaragua
+28 |
+| Box 5. A Multifaceted Approach to Peacebuilding
+34 |
+| Box 6. Movement Learning in Serbia
+73 |
 | Figure 1. Trends in Donor Support for Grassroots Organizing |
-| and Other Social Change Strategies, 2011–2015<br>5 |
-## | Figure 2. The Movement Lifecycle<br>56 |
+| and Other Social Change Strategies, 2011–2015
+5 |
+## | Figure 2. The Movement Lifecycle
+56 |
 
 ## E X E C U T I V E S U M M A R Y
 
@@ -146,7 +187,7 @@ At its core, grassroots organizing seeks to build power and increase participati
 
 Relying on newly collected survey data, in-depth interviews, and two case studies, this report opens the black box of donor decision-making about whether to support grassroots organizing and nonviolent movements, or not Itnds that donor staand board members' values and lived experiences tend to be the main reasons why and how donors support organizing and social movements It nds that donors' and grantees' risk perception,
 
-<sup>1</sup> Grants to support a strategy involving grassroots organizing amounted to 3% of total funds given over the 5-year period 2011–2015, and 4% of the total number of grants given over the same period. Social change strategies describe the implementation approach supported by a given grant. Grants were tagged by Candid and Human Rights Funders Network (HRFN) using their Advancing Human Rights taxonomy as supporting one or more strategies. They used three types of data to determine which strategy to assign: i) grant details, ii) grantmaker pro les, and iii) recipient proles. The full list of 11 strategies can be found in Figure 1 on page 5. Since the creation of this trends dataset, Candid and HRFN have changed some of these categories. The current list of strategies is available online at: **https://humanrightsfunding.org/strategies/**.
+1 Grants to support a strategy involving grassroots organizing amounted to 3% of total funds given over the 5-year period 2011–2015, and 4% of the total number of grants given over the same period. Social change strategies describe the implementation approach supported by a given grant. Grants were tagged by Candid and Human Rights Funders Network (HRFN) using their Advancing Human Rights taxonomy as supporting one or more strategies. They used three types of data to determine which strategy to assign: i) grant details, ii) grantmaker pro les, and iii) recipient proles. The full list of 11 strategies can be found in Figure 1 on page 5. Since the creation of this trends dataset, Candid and HRFN have changed some of these categories. The current list of strategies is available online at: **https://humanrightsfunding.org/strategies/**.
 
 relationships between donors and grantees, and donors' internal structures tend to be the main drivers of how donors support organizing and nonviolent movements All these variables aect whether a donor supports organizing and movements in therst place
 
@@ -168,7 +209,7 @@ FIGURE 1. Trends in Donor Support for Grassroots Organizing and Other Social Cha
 
 ## (Source: Foundation Center and HRFN 2022)
 
-<sup>2</sup> For additional information about the Advancing Human Rights dataset, including details about the subset of funders included in this 2011–2015 trends analysis, see HRFN 2020a.
+2 For additional information about the Advancing Human Rights dataset, including details about the subset of funders included in this 2011–2015 trends analysis, see HRFN 2020a.
 
 There is no social movement category in the 2011–2015 trends in global foundation grantmaking report, but there is a category for grassroots organizing Grants categorized as supporting grassroots organizing are those that seek to "[build] popular support for, [encourage] activism around, and [help] to organize individuals and communities to mobilize in support of particular issues" (Candid 2020) Such a strategy relies on a logic of social change driven by collective action outside of political institutions (e g , from the streets) The other strategies listed in Figure 1 rely on a logic of social change driven primarily from within or in collaboration with political institutions (e g , through advocacy with lawmakers or through capacity building and technical assistance to nonprot organizations) This distinction between social change driven from within institutions versus social change driven from outside institutions is critical to understanding donor decision-making For example, supporting extra-institutionally driven social change necessarily entails interacting with dierent communities than supporting institutionally driven social change Advocacy and lobbying are often undertaken by non-prot organizations and entail meeting with elected ocials to discuss policy proposals, whereas grassroots organizing often entails building power among historically excluded populations such as women and youth and using nonviolent actions—such as strikes, protests, boycotts, sit-ins, and occupations of public buildings—to pressure elected ocials (Pinckney and Rivers 2021) This data suggests that donors favor supporting the former strategy over the latter Understanding the underlying logic that drives each strategy helps to explain donors' preference
 
@@ -202,13 +243,13 @@ This research assumes that grassroots organizing and social movements require ma
 
 Signicant bodies of research exist explaining the relationship between foreign support and human rights, social justice, and pro-democracy activities 5 This existing research commonly focuses on three dynamics: (i) foreign state support for rights, justice, and democracy, (ii) foreign non-state support for rights, justice, and democracy, and (iii) foreign support for nonviolent movements 6 It notes the importance of donors' motivations, values, and interests, as well as the characteristics of those who receive support It highlights countervailing and
 
-<sup>3</sup> For answers to that question, see Chenoweth and Stephan 2021.
+3 For answers to that question, see Chenoweth and Stephan 2021.
 
-<sup>4</sup> In so doing, this research excludes donors that support grassroots organizing or social movements for anti-democratic or anti-human rights goals such as Uganda's Anti-Homosexuality Act of 2014. This research includes social movements that seeks reformist (i.e., policy change) as well as revolutionary (i.e., regime change) goals.
+4 In so doing, this research excludes donors that support grassroots organizing or social movements for anti-democratic or anti-human rights goals such as Uganda's Anti-Homosexuality Act of 2014. This research includes social movements that seeks reformist (i.e., policy change) as well as revolutionary (i.e., regime change) goals.
 
-<sup>5</sup> This literature follows Gourevitch's (1978) work on the international sources of domestic politics, or, as he referred to it, the "second image reversed."
+5 This literature follows Gourevitch's (1978) work on the international sources of domestic politics, or, as he referred to it, the "second image reversed."
 
-<sup>6</sup> An additional set of literature focuses on foreign support for violent rebellion. This literature suggests that rebel groups value transnational relationships, information exchange, and foreign state support. It also nds that foreign support is less likely when rebel groups are very strong and very weak. Country characteristics such as income and geopolitical power are largely unrelated to whether rebel groups receive foreign support. Savvy rebel leaders that are able to frame their cause in a way that matches the interests and concerns of international actors are, however, likely to receive the most resources. This literature suggests that the ability of nonviolent social movement leadership to communicate information internationally may be worth exploring. Likewise, it suggests that the perceived strength of a movement may inuence if, and when, it receives foreign support (see Clifford 2005; Byman 2013; Salehyan, Gleditsch, and Cunningham 2011).
+6 An additional set of literature focuses on foreign support for violent rebellion. This literature suggests that rebel groups value transnational relationships, information exchange, and foreign state support. It also nds that foreign support is less likely when rebel groups are very strong and very weak. Country characteristics such as income and geopolitical power are largely unrelated to whether rebel groups receive foreign support. Savvy rebel leaders that are able to frame their cause in a way that matches the interests and concerns of international actors are, however, likely to receive the most resources. This literature suggests that the ability of nonviolent social movement leadership to communicate information internationally may be worth exploring. Likewise, it suggests that the perceived strength of a movement may inuence if, and when, it receives foreign support (see Clifford 2005; Byman 2013; Salehyan, Gleditsch, and Cunningham 2011).
 
 unintended consequences of foreign support It details the importance of relationships, formal alliances, and other linkages aecting donors and recipients It emphasizes that foreign support for grassroots organizing and nonviolent movements requires a unique donor mindset, and that foreign support is neither necessary nor sucient for movements to succeed
 
@@ -220,9 +261,9 @@ Additional scholarship focuses more generally on foreign support for democratiza
 
 Two reports do explicitly acknowledge the distinction between institutional and extra-institutional nonviolent action They suggest that support for grassroots organizing and social movements requires donors to have a dierent mindset and orientation than support for traditional nongovernmental organizations (NGOs) and civil society organizations (CSOs) (Stephan, Lakhani, and Naviwala 2015) Therst report notes that a traditional model of policy
 
-<sup>7</sup> See Murithi 2009; Blodgett 2011; Bueno de Mesquita and Smith 2009; Carothers 2009; Christensen and Weinstein 2013; Easterly 2006; Hancock 1989; Wright 2008; Wright and Winters 2010; Faust and Bader 2014.
+7 See Murithi 2009; Blodgett 2011; Bueno de Mesquita and Smith 2009; Carothers 2009; Christensen and Weinstein 2013; Easterly 2006; Hancock 1989; Wright 2008; Wright and Winters 2010; Faust and Bader 2014.
 
-<sup>8</sup> See Burnell 2005; Finkel, Pérez-Liñán, and Seligson 2007; Levitsky and Way 2005; Whitehead 2001; Wright 2009; Dietrich and Wright 2015.
+8 See Burnell 2005; Finkel, Pérez-Liñán, and Seligson 2007; Levitsky and Way 2005; Whitehead 2001; Wright 2009; Dietrich and Wright 2015.
 
 change depends primarily on small numbers of"experts and insiders" whereas movement-led change depends primarily on a broad base of "individuals and communities aected by the social conditions that the movement is seeking to change" (Masters and Osborn 2010) The second report found that supporting organizing and movements that seek change via extra-institutional activities like protests, boycotts, and sit-ins requires donors to think and act dierently than supporting traditional NGOs and CSOs that seek political change primarily through institutional activities like lobbying, elections, and legislative reform (Stephan, Lakhani, and Naviwala 2015)
 
@@ -234,11 +275,11 @@ A second set of literature explores support by institutional donors and the broa
 
 The third set of existing literature explores foreign governmental and nongovernmental support specically for nonviolent movements 10 It highlights the existing international legal and normative basis for foreign support (Wilson 2005; Ackerman and Merriman 2019) It notes the central role of solidarity and transnational activism, including from diasporas (Clark 2009; Della and Tarrow 2004; Moss 2021; Petrova 201911) Itnds that foreign support for nonviolent activism is not uncommon and can come in many forms and from many actors (Chenoweth and Stephan 2021; Bunce and Wolchik 2011) It emphasizes that foreign support is neither necessary nor sucient for movement success and is always of secondary to domestic
 
-<sup>9</sup> See Berman 1983; Chaskin, Brown, Venkatesh, and Vidal 2001; Eliasoph 2013; Guilhot 2007; Parmer 2012; Pinto-Duschinsky 1991; Salamon 2003; Stroup and Wong 2017.
+9 See Berman 1983; Chaskin, Brown, Venkatesh, and Vidal 2001; Eliasoph 2013; Guilhot 2007; Parmer 2012; Pinto-Duschinsky 1991; Salamon 2003; Stroup and Wong 2017.
 
-<sup>10</sup> See Dudouet 2013; Chenoweth and Stephan 2021. This literature also includes several publications that grassroots organizers and movement participants have authored or substantially contributed to. They include Nonviolent activists from around the world 2011; Clark 2009; Miller-Dawkins 2017; CIVICUS 2019.
+10 See Dudouet 2013; Chenoweth and Stephan 2021. This literature also includes several publications that grassroots organizers and movement participants have authored or substantially contributed to. They include Nonviolent activists from around the world 2011; Clark 2009; Miller-Dawkins 2017; CIVICUS 2019.
 
-<sup>11</sup> This particular study highlights how diaspora support is positively associated with rebel groups adopting nonviolent tactics.
+11 This particular study highlights how diaspora support is positively associated with rebel groups adopting nonviolent tactics.
 
 support (Chenoweth and Stephan 2021; Dudouet 2015) Foreign support has mixed and sometimes countervailing eects on the dynamics and outcomes of nonviolent movements Positive eects include increasing local demand for rights and accountability, strengthening activist relationships, improving strategic planning and resilience, increasing participation levels, decreasing fatalities from repression, and generating international solidarity Negative eects include undermining movement legitimacy, fostering division within movements, decreasing participation levels, and increasing the risk of repression 12 Research has found that the eects of donor support can sometimes be the opposite of the donor's intent (Klaas 2016; Bush 2015) The possibility that a grant may have positive, negative, and unintended consequences on the lives of activists and on their communities further reinforces the importance of donors considering ethical questions with respect to their grantmaking
 
@@ -246,7 +287,7 @@ This report diers from existing studies by focusing on institutional donors' dec
 
 It is important to note that some scholarship creates confusion by using the terms "foreign support" and "external support" interchangeably (Chenoweth and Stephan 2021) This report considers foreign support to benancial and non-nancial resources provided to a recipient in a country other than the country where the donor is based The primary dierence between foreign support and external support is that external support may come from a source within the same country as the grantee Recent grants made by Mac Kenzie Scott—American philanthropist and ex-wife of Amazon founder Je Bezos—oer an example Scott's recent gift to the Movement for Black Lives is external support but not foreign support, since she is external to the Movement for Black Lives yet both she and the movement are located in the United States (Scott 2021)
 
-<sup>12</sup> See Chenoweth and Stephan 2021; Perkoski and Chenoweth 2018; Jackson, San-Akca, and Maoz 2020; Johansen, Jorgen 2010; Nepstad 2011; Zunes and Ibrahim 2009.
+12 See Chenoweth and Stephan 2021; Perkoski and Chenoweth 2018; Jackson, San-Akca, and Maoz 2020; Johansen, Jorgen 2010; Nepstad 2011; Zunes and Ibrahim 2009.
 
 ## Why and How Have Donors Supported Grassroots Organizing and Nonviolent Movements?
 
@@ -262,7 +303,7 @@ It's possible that donor stawant to support grassroots organizing or social move
 
 Values, lived experiences, and internal structures all plausibly aect why donors support grassroots organizing or nonviolent movements These three factors are also likely to inuence how donors go about supporting organizing and movements The next sections of this report oer new data and fresh analysis that illustrate why and how some donors support organizing and movements An online survey oered a broad range of donors the chance to anonymously share their experiences and opinions This allowed respondents to be free to oer their most candid reections The survey was shared via email lists not of the author's creation, which allowed this research to incorporate the views of donors beyond those immediately within the author's network As such, the way in which the survey was disseminated reduced potential selection bias with respect to the individuals who had a chance to share their opinions with the author It also sought to identify (i) any common characteristics of donors that might make them more or less amenable to supporting organizing and movements, and (ii) common constraints that donors face in supporting organizing and movements
 
-<sup>13</sup> Anonymous interviewees speaking with the author
+13 Anonymous interviewees speaking with the author
 
 Case studies of the American Jewish World Service and Humanity United provide a deep dive into the dierent trajectories two donors took to supporting the work of organizers and movements The case studies collected data that illustrate not only why, but also how, those donors have supported organizing and movements By documenting how donors grappled with and overcame constraints, this report is able to not only describe common challenges but also to oer actionable solutions
 
@@ -284,11 +325,11 @@ The survey consisted of six demographic questions and sixteen substantive questi
 
 The survey was shared via email with the three aforementioned networks of donors 15 Human Rights Funders Network also emailed the survey to individuals who had participated in a webinar series titled Stronger Together This webinar series explored funders' roles in supporting social movements and included conversations with donors, organizers, academics, and monitoring and evaluation experts 16 As such, the population surveyed for this research
 
-<sup>14</sup> Due to an error administering the survey, the Tufts University Institutional Review Board required that all responses to questions that sought "human subjects data" be deleted (and therefore not used). This included all demographic data (i.e., responses to questions 1–6) and all responses to questions 20 and 22.
+14 Due to an error administering the survey, the Tufts University Institutional Review Board required that all responses to questions that sought "human subjects data" be deleted (and therefore not used). This included all demographic data (i.e., responses to questions 1–6) and all responses to questions 20 and 22.
 
-<sup>15</sup> An EDGE sta person shared the survey with its email lists of European and North American donors/members. A sta person of a PSFG member organization—the International Center on Nonviolent Conict—shared the survey with the PSFG email list. The survey was also included in HRFN's newsletter that was emailed to members.
+15 An EDGE sta person shared the survey with its email lists of European and North American donors/members. A sta person of a PSFG member organization—the International Center on Nonviolent Conict—shared the survey with the PSFG email list. The survey was also included in HRFN's newsletter that was emailed to members.
 
-<sup>16</sup> More information about the rst and second parts of HRFN's Strong Together webinar series can be found online at: **https://philanthropynewyork.org/event-calendar/stronger-together-new-frontiers-funders-supporting-social-movements-june-webinar** and **https://philanthropynewyork.org/event-calendar/stronger-together-part-ii-building-capacity-social-movements-december-webinar-hosted**.
+16 More information about the rst and second parts of HRFN's Strong Together webinar series can be found online at: **https://philanthropynewyork.org/event-calendar/stronger-together-new-frontiers-funders-supporting-social-movements-june-webinar** and **https://philanthropynewyork.org/event-calendar/stronger-together-part-ii-building-capacity-social-movements-december-webinar-hosted**.
 
 had disproportionately more exposure to organizers and to social movement concepts, data, and strategic thinking than if the survey had been sent to randomly selected donors Because this survey was not disseminated randomly, the survey results are a compilation of the views of these 30 respondents The survey results should not be construed as representative of all donors or of all human rights, social justice, and democracy donors Nevertheless, the survey results are valuable because they increase the breadth of expertise included in this report The survey allowed donors who might otherwise not comment publicly to do so
 
@@ -384,9 +425,9 @@ To oer in-depth analysis of primary source material, the author sought instituti
 
 As a point of departure, this research does not set axed threshold for total grant dollars or total number of grants for a donor to be counted as one that supports organizing or movements Case selection proceeded in three stages: Therst stage involved determining if a donor had undertaken any formal process for deciding whether to support organizing or movements Donors that could not describe their decision-making with respect to organizing and movements—suggesting that no such decision-making process took place—were excluded as potential case studies Those that had undertaken such a decision-making process advanced to the second stage of case selection This stage involved determining
 
-<sup>17</sup> Neither donor provided nancial support for this research.
+17 Neither donor provided nancial support for this research.
 
-<sup>18</sup> As Tompkins-Strange (2016, 8) noted, "access to foundations' inner workings is often restricted. Foundations' actions are frequently opaque, concealed in order to protect against legal and reputational risk." To encourage comfort and candor from interviewees who included foundation sta, board members, and grantees, I oered to protect the anonymity of every interviewee and respondent if they so desired.
+18 As Tompkins-Strange (2016, 8) noted, "access to foundations' inner workings is often restricted. Foundations' actions are frequently opaque, concealed in order to protect against legal and reputational risk." To encourage comfort and candor from interviewees who included foundation sta, board members, and grantees, I oered to protect the anonymity of every interviewee and respondent if they so desired.
 
 whether donors would grant access to internal documents, sta, founders, board members, and grantees 19 Donors that considered granting such access advanced to the third stage of case selection, in which the author attempted to select two donors similar in important respects (such as thematic foci) but with dierent trajectories regarding their support for grassroots organizing and social movements
 
@@ -396,11 +437,11 @@ The American Jewish World Service and Humanity United share some common characte
 
 There are also dierences between the two donors AJWS is a public charity that raises funding from many sources Humanity United is a private foundation that is funded by philanthropists Pam and Pierre Omidyar AJWS is two decades older than Humanity United As such, this report presents the stories of Humanity United's and the American Jewish World Service's relationships to grassroots organizing and nonviolent movements in parallel, but not in comparison to each other
 
-<sup>19</sup> Scholars such as Mc Goey (2015) have studied philanthropy and individual foundations such as the Bill and Melinda Gates Foundation without using primary source material from the foundation. Research without access to sta, board members, and internal documents necessarily misses a relevant perspective on a foundation. And so, the author remained committed to only researching donors that permitted access to primary source material.
+19 Scholars such as Mc Goey (2015) have studied philanthropy and individual foundations such as the Bill and Melinda Gates Foundation without using primary source material from the foundation. Research without access to sta, board members, and internal documents necessarily misses a relevant perspective on a foundation. And so, the author remained committed to only researching donors that permitted access to primary source material.
 
-<sup>20</sup> To carry out this research, Humanity United required that the author and Tufts University sign a three-way con dentiality and nondisclosure agreement covering "condential information" about Humanity United.
+20 To carry out this research, Humanity United required that the author and Tufts University sign a three-way con dentiality and nondisclosure agreement covering "condential information" about Humanity United.
 
-<sup>21</sup> Anonymous interviewee speaking with the author.
+21 Anonymous interviewee speaking with the author.
 
 ## American Jewish World Service
 
@@ -422,13 +463,13 @@ In 1998, Ruth Messinger left a career in New York City politics to become presid
 
 Messinger and many of the stashe hired had experience working and volunteering with organizations that promoted and supported human rights, social movements, and organizing This diered from many other donors whose staspent the majority of their careers working in philanthropy and had themselves never been organizers or social movement leaders Messinger herself had trained and served as a social worker before her career in New York City politics "I thought I was going to do case work, but became a community organizer," she
 
-<sup>22</sup> Ruth Messinger in conversation with the author, 2019.
+22 Ruth Messinger in conversation with the author, 2019.
 
-<sup>23</sup> Ibid.
+23 Ibid.
 
-<sup>24</sup> Anonymous interviewee speaking with the author.
+24 Anonymous interviewee speaking with the author.
 
-<sup>25</sup> Anonymous interviewee speaking with the author.
+25 Anonymous interviewee speaking with the author.
 
 recalled "That's what I did—I asked communities, How can I help you?"26 She stressed the importance of relationships in her work "Coming from NYC politics, by and large you are relational, or you don't make it "27 Developing and maintaining relationships was necessary for her to be eective in this climate—a philosophy she brought to AJWS As a public charity that raised its funding largely from the American Jewish community, AJWS stacould avoid presenting themselves as giving away themoney froma single wealthy patron or spending an endowment Stapresented AJWS as a donor "representing [the Jewish] community in the US… " This facilitated their ability to develop relationships with grantees that were not only about a transfer of funds, but also about connecting communities to each other 28
 
@@ -436,19 +477,19 @@ It was largely through learning from a small number of sta, peer organizations, 
 
 The organization's understanding of movements was also inuenced by other donors In 2006, AJWS started a grantmaking portfolio called "Collegial Partners" to partner with organizations that could strengthen the work of AJWS and its grantees Fellow donor Grassroots International (GRI) had more than two decades of experience supporting social movements, and AJWS stainvited GRI to be itsrst Collegial Partner specically to help strengthen AJWS's work supporting social movements 32 At one level, the collegial partnership facilitated information sharing, including, (i) what supporting social movements means relative to supporting traditional NGOs, and(ii)GRI'smodelof socialmovement accompaniment GRI andAJWSjointlydeveloped regional programs in Latin America and co-funded organizations in several countries GRI introducedsocialmovements toAJWS, including Via Campesina, withwhomAJWSstillworks closely And AJWS and GRI collaborated on advocacy in Washington AJWS has continued to partner
 
-<sup>26</sup> Ruth Messinger in conversation with the author, 2019.
+26 Ruth Messinger in conversation with the author, 2019.
 
-<sup>27</sup> Ibid.
+27 Ibid.
 
-<sup>28</sup> Anonymous interviewee speaking with the author.
+28 Anonymous interviewee speaking with the author.
 
-<sup>29</sup> Anonymous interviewee speaking with the author.
+29 Anonymous interviewee speaking with the author.
 
-<sup>30</sup> Anonymous interviewee speaking with the author.
+30 Anonymous interviewee speaking with the author.
 
-<sup>31</sup> Anonymous interviewee speaking with the author.
+31 Anonymous interviewee speaking with the author.
 
-<sup>32</sup> Anonymous interviewee speaking with the author.
+32 Anonymous interviewee speaking with the author.
 
 with Grassroots International Other donors have also inuenced AJWS's support for social movements For example, AJWS developed a social movements assessment tool that was inspired and informed by the Global Fund for Women's movement assessment tool 33
 
@@ -466,9 +507,9 @@ Therst strategic plan also included a decision to "expand upon its Collegial Par
 
 This decision to link support for grassroots grantees with support for their national, regional, and international partners was AJWS'srst formal commitment to what the organization would come to call—in its second strategic plan in 2018—a "grassrooted" approach to grantmaking (see Box 4 on the next page) This grassrooted approach continues to dene AJWS's grantmaking today
 
-<sup>33</sup> Anonymous interviewee speaking with the author. See AJWS 2022 for a description of the AJWS tool. The Global Fund for Women's Movement Capacity Assessment Tool (MCAT 3.0) is designed for movement leaders and is available online: https://www.globalfundforwomen.org/apply-for-a-grant/movement-capacity-assessment-tool/.
+33 Anonymous interviewee speaking with the author. See AJWS 2022 for a description of the AJWS tool. The Global Fund for Women's Movement Capacity Assessment Tool (MCAT 3.0) is designed for movement leaders and is available online: https://www.globalfundforwomen.org/apply-for-a-grant/movement-capacity-assessment-tool/.
 
-<sup>34</sup> Anonymous interviewee speaking with the author.
+34 Anonymous interviewee speaking with the author.
 
 #### Box 4. A Grassrooted Approach to Grantmaking in Nicaragua
 
@@ -488,7 +529,7 @@ While Pam and Pierre Omidyar founded Humanity United in 2008, their experience i
 
 Pam and Pierre Omidyar share a commitment to fostering citizen engagement in society In the late 1990s and early 2000s, in addition to disaster and humanitarian aid around the world, that commitment was manifested as grantmaking within the United States The Omidyar Network incubated therst years of this work And the Omidyars committed to spending \$100 million overve years to help eradicate "two of the worst things that man does to man": genocide and human tracking (Henn 2008) Their role in shaping the organization's trajectory continued as it became an independent organization called Humanity United in 2008 Over the years, their broad goals and funding have endured while the strategies Humanity United has used to achieve them have evolved Pam Omidyar continues to be engaged with Humanity United as a board member, but holds deeply that operational decisions sit with the organization's staand leadership
 
-<sup>35</sup> Humanity United is one of several philanthropic and non-prot organizations that Pam Omidyar and her husband Pierre founded. They co-founded a philanthropic investment rm called Omidyar Network that funds for-prot and non-prot entities to create opportunities for individuals around the world to improve their own lives. Pam also founded Hope Lab, a non-prot created with the idea that young people who have chronic illnesses can make positive behavior changes to improve their treatment. These entities among many others, including Humanity United, make up a part of the Omidyar Group.
+35 Humanity United is one of several philanthropic and non-prot organizations that Pam Omidyar and her husband Pierre founded. They co-founded a philanthropic investment rm called Omidyar Network that funds for-prot and non-prot entities to create opportunities for individuals around the world to improve their own lives. Pam also founded Hope Lab, a non-prot created with the idea that young people who have chronic illnesses can make positive behavior changes to improve their treatment. These entities among many others, including Humanity United, make up a part of the Omidyar Group.
 
 For therst eight years after its founding, Humanity United's grantmaking focused on two thematic areas, (i) atrocity prevention, and (ii) advancing freedom The former included support for eorts to prevent and respond to genocide and mass atrocities, as well as support for peacebuilding and justice eorts It also included support for eorts to encourage political leadership on these issues—especially in the United States The latter included support for eorts to end human slavery and human tracking, as well as support to victims of slavery and human tracking (which are outside the focus of this research)
 
@@ -496,11 +537,11 @@ During thoserst years, stawithin these programs described having substantial aut
 
 In itsrst years, Humanity United sought to hire stawith deep relationships and expertise in specic countries, such as the Democratic Republic of the Congo, Liberia, and Sudan
 
-<sup>36</sup> Anonymous interviewees speaking with the author.
+36 Anonymous interviewees speaking with the author.
 
-<sup>37</sup> Anonymous interviewee speaking with the author.
+37 Anonymous interviewee speaking with the author.
 
-<sup>38</sup> Anonymous interviewee speaking with the author.
+38 Anonymous interviewee speaking with the author.
 
 Then–Director of Investments David Mozersky was one of those stamembers who leveraged their relationships and experience to support both elite-level and locally led projects 39 Mozersky led HU's atrocity prevention and peacebuilding grantmaking in Sudan and South Sudan During his tenure, Humanity United provided grants for elite-level and grasstops advocacy, research, and documentation, as well as for local peacebuilding activities developed and led by Sudanese and South Sudanese organizations The elite-level support included Humanity United seconding Mozersky for one year to the African Union High-Level Implementation Panel for Sudan as an advisor to their mediation team (HU 2021a) Humanity United's funding for locally led peacebuilding and conict resolution initiatives went largely to projects that were already underway and were based in regions of violent conict, such as Darfur and South Kordofan Providing support to such locally led initiatives was complicated by the fact that Humanity United did not have local staor local oces But the relationships, experience, and situational awareness Mozersky brought from years of working in the region facilitated his ability to identify individuals and eorts in these localities, support them, and connect them to each other Humanity United worked alongside international and local partners, who helped inform and shape this work In subsequent years, some of these same Sudanese partners played key roles in civil society-led movements for peace and democracy in Sudan
 
@@ -508,19 +549,19 @@ In 2014, six years after Humanity United formally launched, the organization ini
 
 This shift to a systems thinking approach was time consuming and "wasn't easy," recalled then–President and CEO Randy Newcomb in HU's 2016 Performance Report 41 This shift required stato transform major aspects of their grantmaking This included learning new
 
-<sup>39</sup> Anonymous interviewees speaking with the author.
+39 Anonymous interviewees speaking with the author.
 
-<sup>40</sup> Anonymous interviewee speaking with the author.
+40 Anonymous interviewee speaking with the author.
 
-<sup>41</sup> Anonymous interviewee speaking with the author.
+41 Anonymous interviewee speaking with the author.
 
 terminology, adapting to a new framework for visualizing and analyzing potential grantees and the context in which they operate, and giving up someexibility they previously had in past grantmaking (HU 2016) Operating within a systems practice entailed, amongst other things, learning and following a multistep process that included (i) consulting with outside experts and local partners to document system dynamics at play, (ii) creating a visual map and narrative about the system that Humanity United hoped to change (e g , peacebuilding), (iii) relying on the map to identify opportunities for leverage and change within the system, (iv) developing an investment strategy and key performance questions to maximize measurable impact on the system, (v) structured learning, and (vi) iterative updating of the system map These procedural and administrative shifts gave staa shared framework for grantmaking to tackle root causes head on They also led to a more formalized grantmaking process For example, a new online grantmaking platform streamlined administrative processes and created a more systematic process for approving and reviewing grants Some program sta recognized that the new system created incentives to support grantees that could easily interface with the online grants system 42
 
 Spurred in part by the shift to a systems approach within Humanity United and in part by sector-wide eorts to localize humanitarian, development, and peacebuilding work, HU initiated a strategic review of its conict prevention, atrocity prevention, and peacebuilding grantmaking 43 The review, which began in 2014, included convening experts, evaluating past grantmaking, and mapping similar work by other actors It included enlisting John Paul Lederach as an advisor in February of that year Lederach is an international authority on conict resolution and peacebuilding, having authored nearly two dozen books and designed and conducted trainings in conict transformation in more than two dozen countries The strategic review also included learning by doing—a 12-month pilot project in Burundi that included support for media coverage, advocacy, and in-country grantmaking to avert atrocities around the 2015 presidential elections there The review identied two key systemwide challenges that would guide the development of Humanity United's future peacebuilding strategy: (i) a failure by the international community to prevent mass violence around the world, including in the Central African Republic and South Sudan, and (ii) a second failure by the international community to build sustainable peace (HU 2015) The Burundi pilot project also highlighted gaps within violence and conict prevention infrastructure, including (i) a bias toward external actors and insucient regard for Burundian actors' analysis and eorts to
 
-<sup>42</sup> Anonymous interviewee speaking with the author.
+42 Anonymous interviewee speaking with the author.
 
-<sup>43</sup> Anonymous interviewees speaking with the author.
+43 Anonymous interviewees speaking with the author.
 
 prevent violence, (ii) unrealized potential of regional actors and institutions, and (iii) insucient strategic coordination between local prevention and peacebuilding eorts 44
 
@@ -530,13 +571,13 @@ These investments marked a shift in Humanity United's peacebuilding work from pr
 
 In 2017, to continue its shift to a systems approach, Humanity United began to reorganize what had been independent programs into two programmatic portfolios: Forced Labor and
 
-<sup>44</sup> Anonymous interviewee speaking with the author.
+44 Anonymous interviewee speaking with the author.
 
-<sup>45</sup> Anonymous interviewee speaking with the author.
+45 Anonymous interviewee speaking with the author.
 
-<sup>46</sup> Anonymous interviewees speaking with the author.
+46 Anonymous interviewees speaking with the author.
 
-<sup>47</sup> African Coaching Network: **https://africancoachingnetwork.org/**.
+47 African Coaching Network: **https://africancoachingnetwork.org/**.
 
 ## Box 5. A Multifaceted Approach to Peacebuilding
 
@@ -558,9 +599,9 @@ In 2017, to continue its shift to a systems approach, Humanity United began to r
 
 Human Tracking, and Peacebuilding 48 It hired Melanie Greenberg, former president and CEO of the Alliance for Peacebuilding, as well as additional sta, consultants, and fellows with deep relationships and expertise in peacebuilding, politics, movements, and philanthropy—especially on the African continent 49 By 2019, Greenberg had shepherded the merger of the Transforming Peacebuilding initiative and country-specic programs in Africa and Latin America to create the Peacebuilding portfolio, for which she continues to serve as the managing director The Peacebuilding portfolio then envisioned what could become "a ten-year journey to amplify the power of local peacebuilders and make the global peacebuilding system more responsive to the needs of local actors"(HU2019) This journey included funding (i) for local peacebuilders to develop relationships and build enduring power via collective action, including through organizing and movements, (ii) to create the demand and conditions for institutional actors, including traditional NGOs, to foster eorts by local peace-
 
-<sup>48</sup> Anonymous interviews and email with the author.
+48 Anonymous interviews and email with the author.
 
-<sup>49</sup> For example, HU hired Dr. Bryan Sims as Senior Manager, Peacebuilding. He wrote his dissertation on land reform in Zimbabwe and developed relationships with African civil society and movement leaders during previous positions at Freedom House, the National Endowment for Democracy, and other civil society organizations focused on Southern Africa. Dr. Akwasi Aidoo joined HU as a Senior Fellow. He has chaired the Boards of the Open Society Initiative for West Africa (OSIWA), the Africa Regional Board of the Open Society Foundations, and the Fund for Global Human Rights, and served as a trustee of several international organizations, including OXFAM America, Resource Alliance, and AfriMAP.
+49 For example, HU hired Dr. Bryan Sims as Senior Manager, Peacebuilding. He wrote his dissertation on land reform in Zimbabwe and developed relationships with African civil society and movement leaders during previous positions at Freedom House, the National Endowment for Democracy, and other civil society organizations focused on Southern Africa. Dr. Akwasi Aidoo joined HU as a Senior Fellow. He has chaired the Boards of the Open Society Initiative for West Africa (OSIWA), the Africa Regional Board of the Open Society Foundations, and the Fund for Global Human Rights, and served as a trustee of several international organizations, including OXFAM America, Resource Alliance, and AfriMAP.
 
 builders to reform peacebuilding systems worldwide, (iii) for organizations that catalyzed conditions for peace, and (iv) exploratory work to understand how marginalized citizens can inuence elite actors and state institutions to become more receptive to people power and
 
@@ -604,7 +645,7 @@ ments often emerge when individuals and communities feel that they have no viabl
 
 This perception—whether stated or unstated—that social movement goals, strategy, and tactics are not near the center of a society's political spectrum has profound implications for donors as they consider supporting organizers and movements For example, when
 
-<sup>50</sup> Anonymous interviewee speaking with the author. January 29, 2019.
+50 Anonymous interviewee speaking with the author. January 29, 2019.
 
 movements build power outside of institutional politics, they often challenge not only policies, but also entire political systems Grantmaking is not a politically neutral activity, and so by directly or indirectly supporting organizing or movements, a donor may be perceived as aligning itself against those in power (Bush 2015; Winig and Ganz 2017) This may be the case when grantees are in democracies, and it may be especially so when grantees are in non-democracies
 
@@ -628,7 +669,7 @@ In deciding if and how to support organizing and movements, donors do not just c
 
 This structural and institutional friction between donors and movements led Mahomed, Hopstein, and Krämer (2020) to argue that "it is vital [for donors] to move beyond seeing institutional form as the [main] criterion for legitimacy and to think much more comprehensively about what civic action looks like in all forms… [M]ovements serve as expressions of local agency If our goal is systemic change so that people can claim agency, then we need to see support for movements (and other alternative organising) not just as means to an end, but as important civic spaces in their own right " That is to say, the very form and function of movements that make them dicult for some donors to support are also what help make them powerful As one staperson at a public charity put it, "Movements are your funding strategy "51
 
-<sup>51</sup> Anonymous interviewee speaking with the author.
+51 Anonymous interviewee speaking with the author.
 
 Focusing on a potential grantee's institutional form may be particularly problematic for donors operating in political contexts dierent from their own Donors may assume that movements and the regimes they target take a predetermined institutional form This can lead to underestimating a movement's potential impact It can also lead to "false negatives" (i e , not noticing a movement) or "false positives" (i e , identifying a movement but having misplaced expectations for how it will behave) (De Waal and Ibreck 2013)
 
@@ -646,7 +687,7 @@ When donors like HU and AJWS accept social movements—with theiruid institution
 
 Movements may operate outside of formal political institutions, but they do not operate in a political vacuum Instead, movements operate within an ecosystem of organizations and
 
-<sup>52</sup> Anonymous interviewee speaking with the author.
+52 Anonymous interviewee speaking with the author.
 
 individuals—some of which undertake institutional activities that complement the work of organizers and movements Donors who are willing to support the work of organizers and movements but who are unable to support them directly can consider supporting more traditional NGOs or individuals in the movement ecosystem In short, "Not every foundation needs to support the 'rebels'" (Mahomed, Hopstein, and Krämer 2020) Some foundations can support traditional NGOs that shape the broader political environment such that it is more conducive to the work of organizers and movements
 
@@ -658,7 +699,7 @@ This kind of transnational solidarity and support between nongovernmental entiti
 
 For donors whose values and priorities align with the goals—as well as the strategies and tactics—of a movement, recent scholarship by Chenoweth and Stephan (2021) oers guidance for the types of direct support to organizers and movements that may be most
 
-<sup>53</sup> The NGO Access Now oers grants "to grassroots and frontline organizations ghting for human rights in the digital age." More information is available online: **https://www.accessnow.org/grants/**.
+53 The NGO Access Now oers grants "to grassroots and frontline organizations ghting for human rights in the digital age." More information is available online: **https://www.accessnow.org/grants/**.
 
 helpful and least harmful Dierent types of support are likely to pose dierent legal, political, or practical challenges for donors In the period prior to a movement's peak mobilization, donor support for printing and distribution of educational materials, or for training that strengthens local leadership, organizing capacity, movement strategy, and resilience may increase participation, lessen the eects of repression, and increase the likelihood of generating defections from the target government Such skill building is important for movements to succeed But support for training and convenings of organizers can perhaps more importantly oer opportunities for relationship building, peer learning, and strategic planning (Chenoweth and Stephan 2021) Additionally, "long-term technical andnancial assistance to civic organizations, election monitoring, political parties (USDT–IRS 2020b), think tanks, youth movements, unions, and independent media has helped build the demand side for human rights, civic participation and government accountability" (Chenoweth and Stephan 2021) Investment in local and third-party mediation as well as engagement with political, diplomatic, and security actors can mitigate repression and facilitate movement work Furthermore, eorts to block or decrease foreign support for violence via arms embargos can help protect organizers and the civic space in which they work Some of these types of support pose additional legal, political, and practical challenges for donors and represent an area that some donors do not undertake An example is support for advocacy or educational activities directed toward foreign governments to withdraw their support for a repressive regime Quantitative and qualitative data oer diering assessments of whether and how foreign funding given directly to movements aects their characteristics and outcomes However,Chenoweth and Stephan (2021)nd,"Flexible donor funding that minimizes bureaucratic obstacles has been most helpful to movements "
 
@@ -700,11 +741,11 @@ Negative eects of foreign support include undermining movement legitimacy, decre
 
 Ganz 2017) An increased focus on an international donor audience may decrease leaders' connection to and visibility with their constituents at home Legitimacy and credibility at home are necessary for mobilizing large numbers of diverse participants And research has shown
 
-<sup>54</sup> Success is dened as achieving the campaign's stated goals.
+54 Success is dened as achieving the campaign's stated goals.
 
-<sup>55</sup> AJWS' work on Burma is an example of how grantmaking can increase international visibility issues of import to Burmese organizers and movements (AJWS 2019; AJWS 2007). I credit Amaia Elorza Arregi with the idea of relevance to the international community.
+55 AJWS' work on Burma is an example of how grantmaking can increase international visibility issues of import to Burmese organizers and movements (AJWS 2019; AJWS 2007). I credit Amaia Elorza Arregi with the idea of relevance to the international community.
 
-<sup>56</sup> See footnote 12 for the pertinent literature.
+56 See footnote 12 for the pertinent literature.
 
 that mobilizing large and diverse local participants is the main way movements achieve their goals (Chenoweth and Stephan 2011)
 
@@ -722,7 +763,7 @@ Internally generated support—philanthropy by and for organizers and movements�
 
 While arguments about increasing movement eectiveness and protecting movement credibility and legitimacy may be powerful in aecting how donors engage with organizers and movements, the argument for agency may be even more powerful Organizers, movement leaders, and movement participants are the ones who tend to suer the brunt of repression in democratic and non-democratic countries alike They have the most to gain and the most to lose from participating in a social movement Moreover, they suer, endure, and enjoy the eects of activism long before donors show up and long after donors leave Thus, donors that follow the lead of movements may not only be increasing movement
 
-<sup>57</sup> Anonymous interviewee speaking with the author.
+57 Anonymous interviewee speaking with the author.
 
 eectiveness, credibility, and legitimacy; they may also be fostering their grantees' agency over their own lives and communities
 
@@ -736,9 +777,9 @@ Donors may also inadvertently capture movements during the grantmaking process T
 
 "Oering support to movements that remain informal or unregistered, rather than forcing them to become legal entities can be essential to maintaining credibility [Civil society
 
-<sup>58</sup> Foreign support is one type of external support. For example, organizations that were central to the US Civil Rights Movement including the NAACP received external support from donors such as the American Fund for Public Service (AFPS), also known as the Garland Fund (Ming Francis 2019; Morris 1984; Jenkins 1983).
+58 Foreign support is one type of external support. For example, organizations that were central to the US Civil Rights Movement including the NAACP received external support from donors such as the American Fund for Public Service (AFPS), also known as the Garland Fund (Ming Francis 2019; Morris 1984; Jenkins 1983).
 
-<sup>59</sup> I credit Erica Kohl-Arenas (2020) with the idea that eorts to "nd consensus" between greatly unequal parties can reinforce existing power imbalances.
+59 I credit Erica Kohl-Arenas (2020) with the idea that eorts to "nd consensus" between greatly unequal parties can reinforce existing power imbalances.
 
 organizations] and social movements enjoy distinct constituencies and capacities – funders should consider what kinds of support will improve, not weaken, their local standing" (Mahomed, Hopstein, and Krämer 2020) Yet, funding informal or unregistered groups is not always possible within many donors' existing internal grantmaking structures and processes For additional discussion about this challenge, as well as actionable principles and practices for overcoming it, see "Tension 1 Will My Foundation Support Informal, Unregistered, or Grassroots Entities?" on page 60
 
@@ -752,7 +793,7 @@ Moreover, many organizers and movement leaders come from historically excluded c
 
 Research suggests that the starting point fornding this balance should not be the transnational but the local "The prime movers for change are not those abroad who oer economic
 
-<sup>60</sup> Consider HRFN's resource Funding for Intersectional Organizing, available at: **https://www.hrfn.org/resources/ahr-intersectionality-report-2022/**.
+60 Consider HRFN's resource Funding for Intersectional Organizing, available at: **https://www.hrfn.org/resources/ahr-intersectionality-report-2022/**.
 
 support or training, nor those who try to bring issues to the attention of international policymakers, nor even those who come to the country to contribute what they can to the struggle and share some of the risks facing local activist This should all be subordinate to the work of the people trying to change their own situation" (Eguren 2009) Changing internal structures to minimize movement capture and to facilitate following the movements may require educational work with donor staand board members about how movements dene the problems they seek to remedy, how movements work, and how long-term eorts to build power lead to policy reform opportunities
 
@@ -772,7 +813,7 @@ And yet, although movement-based change is measurable, assessment tools must lea
 
 In evaluating support for organizing and movements, it is important for donors to distinguish between the activities, progress, and setbacks of their grantees, and the activities, progress, and setbacks of the broader movement that the grantee may be a part of Movements are rarely made up of one organization They often consist of a variety of organizations and individuals that seek similar outcomes Donors rarely fund all the organizations and individuals that form a movement They are more likely to fund only some of the organizations or individuals that are part of the broader movement ecosystem Therefore, donors that conate individual grantees with a movement may very well skew their understanding of what that
 
-<sup>61</sup> See Dudouet 2013; Chenoweth and Ulfelder 2017; Butcher and Svensson 2016; Gleditsch and Rivera 2015; and Chenoweth and Stephan 2011.
+61 See Dudouet 2013; Chenoweth and Ulfelder 2017; Butcher and Svensson 2016; Gleditsch and Rivera 2015; and Chenoweth and Stephan 2011.
 
 individual grantee can reasonably achieve on its own, and the activities, successes, and setbacks it can reasonably be held accountable for
 
@@ -796,7 +837,7 @@ In between peak periods—for example, in moments of contraction and disillusion
 
 The nonlinearity of a movement's lifecycle is also important when it comes to donors evaluating a grantee's success at achieving the goals of a given grant For example, if a grant's goals are related not to ends (e g , policy reform) but to the means organizers use (e g , training individuals in nonviolent discipline, developing leadership in the movement's ranks, and rening the movement's strategy), then a day of mass action by a movement could be a success even if it results in no policy change That day of mass action may allow a movement to demonstrate to the media and the world that it can mobilize widespread support without using violence and gain the moral high ground over the regime It may make a movement more visible and inspire growth, thanks to new and diverse sectors of the population joining the movement It may also allow up-and-coming movement leaders to practice skills they learned in quieter times and thereby gain experience and condence In fact, these successes are measurable, and they indicate that a movement may have the ability to safely
 
-<sup>62</sup> Anonymous interviewee speaking with the author.
+62 Anonymous interviewee speaking with the author.
 
 scale up in size In this context, going to scale may not result in immediate policy change, and it may even provoke repression of a movement and its leadership But it may generate momentum, which can be a crucial ingredient for movement success (Chenoweth and Belgioioso 2019) This suggests that donors may facilitate movement success by having grant deliverables and evaluation metrics focus on the means that organizers use to build power, leadership, and agency rather than on ends
 
@@ -812,7 +853,7 @@ However, hiring locally does not necessarily ensure equal representation of loca
 
 Being proximate or close to the experience of organizers, movement leaders, and their communities does not always have to mean being physically proximate in the form of incountry oces Proximity to a movement may also be achievedguratively For example, Humanity United brought on Akwasi Aidoo as a senior fellow and Bryan Sims as a senior manager Both have deep expertise with civil society, movements, and philanthropy in Africa
 
-<sup>63</sup> Anonymous interviewee speaking with the author.
+63 Anonymous interviewee speaking with the author.
 
 HU statravel regularly and for extended periods to the countries where they undertake grantmaking, and in-country consultants assist with evaluation and relationship building
 
@@ -820,7 +861,7 @@ The International Center on Nonviolent Conict (ICNC) and Thousand Currents are t
 
 This section of the report zoomed in on the dierent trajectories that Humanity United and the American Jewish World Service took as their support for organizing and movements evolved Despite being driven by slightly dierent values, having signicantly dierent lifespans, and having dierent internal structures, both donors arrived at systemic, multilevel approaches to how they support the work of organizers and movements This section of the report also zoomed out by discussing more generally the unique and provocative ways that organizers and movements build political power in society and how donors can both foster and constrain that power Whether a foundation is a public charity or private foundation has implications for both the rules and the stakeholders that inuence donor strategy and grantmaking The institutional form that a donor takes—whether as a public charity or a private foundation—may be particularly inuential in driving why and how it supports the work of organizers and movements Yet, donors that see beyond the institutional form of potential grantees and support diverse expressions of agency—even if they're not in the form of a traditional, registered NGO—can have a powerful impact on their grantees' ability to build and sustain successful, nonviolent, collective action
 
-<sup>64</sup> Anonymous interviewee speaking with the author.
+64 Anonymous interviewee speaking with the author.
 
 ## Findings
 
@@ -840,51 +881,51 @@ Supporting grassroots, unregistered, or informal entities such as a social movem
 
 In contrast to legally recognized NGOs, social movements might have none or only some of these institutional features, thereby adding complications for donors (based on the IRS or the foundation's own rules) that consider providing direct support Moreover, donors might not have the time, relationships, knowledge, or local staneeded tond and vet movement leadership, which may be diuse, not based in a capital city, notuent in English, or who keep their leadership private In short, "the more excluded people are, the harder it is [for donors] truly to hear them" (Walker 2015) Yet, many creative solutions exist for donors to get suciently proximate to hear and consider supporting the most marginalized
 
-#### Possible Solutions i **Donors can provide grants to intermediaries, such as public charities that re-grant, scal sponsors,**<sup>65</sup> **or community foundations that are based in the same region as organizers or movements.** These intermediaries may be formal organizations with institutional features, such as legal status, local multilingual sta, and longstanding relationships with organizers and movements, that allow them to eectively (i) receive, manage, and report on grants from US-based donors, and (ii) give grants to informal, unregistered, and grassroots entities Trust Africa,66 the Urgent Action Fund's "Sister Fund" model,67 and the Fund for Global Human Rights are three examples of localizing and formalizing grantmaking to grassroots organizers and social movements
+#### Possible Solutions i **Donors can provide grants to intermediaries, such as public charities that re-grant, scal sponsors,**65 **or community foundations that are based in the same region as organizers or movements.** These intermediaries may be formal organizations with institutional features, such as legal status, local multilingual sta, and longstanding relationships with organizers and movements, that allow them to eectively (i) receive, manage, and report on grants from US-based donors, and (ii) give grants to informal, unregistered, and grassroots entities Trust Africa,66 the Urgent Action Fund's "Sister Fund" model,67 and the Fund for Global Human Rights are three examples of localizing and formalizing grantmaking to grassroots organizers and social movements
 
 Donors can seek guidance from other donors and NGOs For, example, Peace Direct and Urgent Action Fund for Women's Human Rights (UAF) established a network of consultants around the world who provide advice and guidance on potential grantees, contextual issues, and other considerations relating tonding and funding local organizations UAF has 2,000 in-country unpaid advisors who help with endorsements on groups being considered for funding
 
-<sup>65</sup> If an organizer or a social movement is unregistered and seeks foreign support, they can nd a registered 501(c) (3) or 501(c)(4) entity to serve as their scal sponsor. Public charities and private foundations can then make project specic grants to the organizer or movement via the scal sponsor by following "expenditure responsibility" oversight and reporting requirements. For more information, see Alliance for Justice 2015, 38.
+65 If an organizer or a social movement is unregistered and seeks foreign support, they can nd a registered 501(c) (3) or 501(c)(4) entity to serve as their scal sponsor. Public charities and private foundations can then make project specic grants to the organizer or movement via the scal sponsor by following "expenditure responsibility" oversight and reporting requirements. For more information, see Alliance for Justice 2015, 38.
 
-<sup>66</sup> Trust Africa: **http://www.trustafrica.org/**.
+66 Trust Africa: **http://www.trustafrica.org/**.
 
-<sup>67</sup> Urgent Action Fund's "Sister Fund" model: **https://urgentactionfund.org/who-we-are/uaf-sister-funds/**.
+67 Urgent Action Fund's "Sister Fund" model: **https://urgentactionfund.org/who-we-are/uaf-sister-funds/**.
 
 Alternatively, donors can fund individual organizers or movement leaders directly to cover travel or living expenses so that they can focus full-time on their work 68 Donors can support organizers and movement leaders via awards69 and fellowships to strategize, co-create, and network with other organizers 70
 
 Such direct support, however, can have negative consequences Direct support can raise suspicion about foreign inuence over a movement It can create resentment and division among those who receive funding and those who do not And it can compel grantees to be increasingly accountable to foreign donors instead of to local constituents whose participation is key to movement success ii **Instead of funding organizers or movements directly, donors can oer them free educational materials or trainings that strengthen local leadership, capacity, strategy, and resilience.** For example, the International Center on Nonviolent Conict oers educational material71 published in more than 70 languages and dialects, online courses,72 and regional training institutes 73 In the period prior to a movement's peak public activity, support through leadership development, organizational capacity building, training in strategic nonviolent action or grassroots organizing, and labor, legal, and medical training for organizers have led to higher levels of participation in a movement, lower fatalities, and a greater likelihood of generating defections from the target government (Chenoweth and Stephan 2021)—three factors that have been shown to increase, on average, a movement's chance of achieving its goals (Chenoweth and Stephan 2011)
 
-<sup>68</sup> Grants to individuals can pose ethical and practical challenges for donors. Funding one movement leader but not another can create tension and practically be viewed as selecting winners and losers. However, grants to individuals or a family member can also free them of day jobs and permit them to organize full-time. Grants to individuals are considered non-taxable expenditures if the they are given on an objective and nondiscriminatory basis under procedure pre-approved by the IRS and meet one of three criteria: (i) the grant is an award or prize that the grantee did not seek, that recognizes a past achievement(s), and that does not require the grantee to render substantial future services, (ii) the grant is a scholarship or fellowship for degree and non-degree study including living expenses at an educational institution, or (iii) the grant is to achieve a specic objective, produce a report or similar product, or improve or enhance a skill or talent of the grantee (USDT–IRS 2020a).
+68 Grants to individuals can pose ethical and practical challenges for donors. Funding one movement leader but not another can create tension and practically be viewed as selecting winners and losers. However, grants to individuals or a family member can also free them of day jobs and permit them to organize full-time. Grants to individuals are considered non-taxable expenditures if the they are given on an objective and nondiscriminatory basis under procedure pre-approved by the IRS and meet one of three criteria: (i) the grant is an award or prize that the grantee did not seek, that recognizes a past achievement(s), and that does not require the grantee to render substantial future services, (ii) the grant is a scholarship or fellowship for degree and non-degree study including living expenses at an educational institution, or (iii) the grant is to achieve a specic objective, produce a report or similar product, or improve or enhance a skill or talent of the grantee (USDT–IRS 2020a).
 
-<sup>69</sup> Human Rights Fund's (HRF) Havel Prize: **https://hrf.org/havel-prize/.**
+69 Human Rights Fund's (HRF) Havel Prize: **https://hrf.org/havel-prize/.**
 
-<sup>70</sup> HRF's Freedom Fellowship: **https://hrf.org/programs\_posts/freedom-fellows/**.
+70 HRF's Freedom Fellowship: **https://hrf.org/programs\_posts/freedom-fellows/**.
 
-<sup>71</sup> ICNC Press: **https://www.nonviolent-conict.org/icnc-publications/**.
+71 ICNC Press: **https://www.nonviolent-conict.org/icnc-publications/**.
 
-<sup>72</sup> ICNC Online Courses: **https://www.nonviolent-conict.org/online-courses/**.
+72 ICNC Online Courses: **https://www.nonviolent-conict.org/online-courses/**.
 
-<sup>73</sup> ICNC Regional Institutes: **https://www.nonviolent-conict.org/regional-institutes/.**
+73 ICNC Regional Institutes: **https://www.nonviolent-conict.org/regional-institutes/.**
 
-- iii **Donors can support safe spaces for organizers, movement leaders, and movement participants to convene, co-create, coach, network, and support each other.**<sup>74</sup> This could take the form of permanent local spaces in the spirit of co-working spaces such as Civic Hall,75 co-creation labs like the CIVICUS Youth Action Lab,76 and hybrid online and oine networks such as Leading Change Network 77 Organizers often seek these spaces, which have been proven to help organizers strategize and learn from and build relationships with each other (Chenoweth and Stephan 2021)
-- iv **Instead of providing direct nancial, educational, or in-kind support to organizers and movements, donors can help shape the political environment in ways that facilitate organizing and movement work.** For example, donors can engage embassies to pressure governments to not repress organizers A Diplomat's Handbook for Democracy Development Support<sup>78</sup> describes a range of tools that diplomatic missions have used to foster democracy Military Engagement: Influencing Armed Forces Worldwide to Support Democratic Transitions<sup>79</sup> includes a section on how military ocers from democracies can inuence fellow ocers in non-democratic countries to support the will of the people Donors can also shape the political environment by supporting independent journalism that documents and disseminates accurate information about organizing and movements 80
+- iii **Donors can support safe spaces for organizers, movement leaders, and movement participants to convene, co-create, coach, network, and support each other.**74 This could take the form of permanent local spaces in the spirit of co-working spaces such as Civic Hall,75 co-creation labs like the CIVICUS Youth Action Lab,76 and hybrid online and oine networks such as Leading Change Network 77 Organizers often seek these spaces, which have been proven to help organizers strategize and learn from and build relationships with each other (Chenoweth and Stephan 2021)
+- iv **Instead of providing direct nancial, educational, or in-kind support to organizers and movements, donors can help shape the political environment in ways that facilitate organizing and movement work.** For example, donors can engage embassies to pressure governments to not repress organizers A Diplomat's Handbook for Democracy Development Support78 describes a range of tools that diplomatic missions have used to foster democracy Military Engagement: Influencing Armed Forces Worldwide to Support Democratic Transitions79 includes a section on how military ocers from democracies can inuence fellow ocers in non-democratic countries to support the will of the people Donors can also shape the political environment by supporting independent journalism that documents and disseminates accurate information about organizing and movements 80
 - v **Donors can fund security as well as physical and mental health services for organizers and movements.** The Enabling Environment for Human Rights Defenders program81 run by the Fund for Global Human Rights is one example Such support can also include funding organizations that oer in-person accompaniment services and
 
-<sup>74</sup> This is in line with the ndings from CIVICUS's consultations with organizers, activists, and funders, which can be read in the special report Shifting Power and Resources to Grassroots Movements, available at **https://www.civicus.org/documents/shifting-power-to-grassroots-movements\_july2019.pdf**.
+74 This is in line with the ndings from CIVICUS's consultations with organizers, activists, and funders, which can be read in the special report Shifting Power and Resources to Grassroots Movements, available at **https://www.civicus.org/documents/shifting-power-to-grassroots-movements\_july2019.pdf**.
 
-<sup>75</sup> Civic Hall: **https://civichall.org/**.
+75 Civic Hall: **https://civichall.org/**.
 
-<sup>76</sup> Youth Action Lab: **https://www.civicus.org/index.php/what-we-do/strengthen/youth-action-lab**.
+76 Youth Action Lab: **https://www.civicus.org/index.php/what-we-do/strengthen/youth-action-lab**.
 
-<sup>77</sup> Leading Change Network: **https://leadingchangenetwork.org/**.
+77 Leading Change Network: **https://leadingchangenetwork.org/**.
 
-<sup>78</sup> A Diplomat's Handbook, 3rd edition, available at **http://www.democratizationpolicy.org/pdf/3rd%20edition%20Handbook%20complete.pdf**.
+78 A Diplomat's Handbook, 3rd edition, available at **http://www.democratizationpolicy.org/pdf/3rd%20edition%20Handbook%20complete.pdf**.
 
-<sup>79</sup> Military Engagement, available at **https://www.brookings.edu/book/military-engagement-inuencing-armed-forces-worldwide-to-support-democratic-transitions-complete-set-volumes-1-and-2/**.
+79 Military Engagement, available at **https://www.brookings.edu/book/military-engagement-inuencing-armed-forces-worldwide-to-support-democratic-transitions-complete-set-volumes-1-and-2/**.
 
-<sup>80</sup> Consider the CIVICUS Media Fellowship: **http://www.civicus.org/documents/CIVICUS-ICSW2019-Media-Fellowship-Application.pdf**.
+80 Consider the CIVICUS Media Fellowship: **http://www.civicus.org/documents/CIVICUS-ICSW2019-Media-Fellowship-Application.pdf**.
 
-<sup>81</sup> Creating an Enabling Environment for Human Rights Defenders, available at **https://globalhumanrights.org/wp-content/uploads/2021/07/FGHR\_EE-Learning-and-Future-Directions-Feb2021.pdf**.
+81 Creating an Enabling Environment for Human Rights Defenders, available at **https://globalhumanrights.org/wp-content/uploads/2021/07/FGHR\_EE-Learning-and-Future-Directions-Feb2021.pdf**.
 
 assistance to protect the safety of organizers Nonviolent Peaceforce82 and Witness for Peace83 are two such organizations Donors can also fund emergency protection grants84 for individuals and their organizations And they can fund digital security helplines85 as well as equipment, software, and training86 to enhance digital security Repression of organizers and movements is so common that being prepared to mitigate its eects is critical
 
@@ -895,35 +936,35 @@ assistance to protect the safety of organizers Nonviolent Peaceforce82 and Witne
 
 This is a tension that that will be familiar to many donors Movements require dierent types of support at dierent stages of their life cycle (see Figure 2 on page 56) While a social movement may need \$10,000 in a week's time in response to an unforeseen political opportunity (i e , a rapid response grant), that same movement might also need six-gure support
 
-<sup>82</sup> Nonviolent Peaceforce: **https://www.nonviolentpeaceforce.org/**.
+82 Nonviolent Peaceforce: **https://www.nonviolentpeaceforce.org/**.
 
-<sup>83</sup> Witness for Peace: **https://witnessforpeace.org/**.
+83 Witness for Peace: **https://witnessforpeace.org/**.
 
-<sup>84</sup> Front Line Defenders' Protection Grants: **https://www.frontlinedefenders.org/en/programme/protection-grants**.
+84 Front Line Defenders' Protection Grants: **https://www.frontlinedefenders.org/en/programme/protection-grants**.
 
-<sup>85</sup> Digital Security Helpline: **https://www.accessnow.org/help/**.
+85 Digital Security Helpline: **https://www.accessnow.org/help/**.
 
-<sup>86</sup> Front Line Defenders's Digital Protection: **https://www.frontlinedefenders.org/en/programme/digital-protection**;and USIP's Digital Authoritarianism and Nonviolent Action, available at: **https://www.usip.org/publications/2021/07/digital-authoritarianism-and-nonviolent-action-challenging-digital**.
+86 Front Line Defenders's Digital Protection: **https://www.frontlinedefenders.org/en/programme/digital-protection**;and USIP's Digital Authoritarianism and Nonviolent Action, available at: **https://www.usip.org/publications/2021/07/digital-authoritarianism-and-nonviolent-action-challenging-digital**.
 
-<sup>87</sup> Crisis Action: **https://crisisaction.org/**.
+87 Crisis Action: **https://crisisaction.org/**.
 
 for a three-year project to recruit and train local leadership (i e , a project-based grant), as well asexible, general operating support to ensure that organizers can commit full-time to the movement
 
 A donor's capacity, priorities, or internal structures might not permit it to oer rapid response, project-based, and core operating support For example, a donor might not have a mechanism for oering existing grantees additional funds in a matter of weeks in response to an unexpected opportunity Other donors might have limited or no capacity to provide multi-year general operating support to a grantee that seeks to expand
 
-#### Possible Solutions i **Organizers have repeatedly asked donors to coordinate their grantmaking to oer complementary support and to avoid countervailing support and competition among grantees.**<sup>88</sup> Such donor coordination can occur on a regular basis at both in-country and headquarters levels For example, Ploughshares Fund coordinates among funders and NGOs in the nuclear policyeld Gender Funders Co Lab89 is a network of twelve major donors that mobilizes funders to support women's rights organizations and movements Coordination may be easier among donors that conceive of their own grantmaking as one piece of a broader ecosystem The Association for Women's Rights in Development (AWID) oers a detailed description of what the feminist funding ecosystem90 looks like
+#### Possible Solutions i **Organizers have repeatedly asked donors to coordinate their grantmaking to oer complementary support and to avoid countervailing support and competition among grantees.**88 Such donor coordination can occur on a regular basis at both in-country and headquarters levels For example, Ploughshares Fund coordinates among funders and NGOs in the nuclear policyeld Gender Funders Co Lab89 is a network of twelve major donors that mobilizes funders to support women's rights organizations and movements Coordination may be easier among donors that conceive of their own grantmaking as one piece of a broader ecosystem The Association for Women's Rights in Development (AWID) oers a detailed description of what the feminist funding ecosystem90 looks like
 
 Donors can also leverage their own networks by dedicating time to introduce grantees to other donors and to facilitate self-generated support or autonomous resourcing This can reduce the amount of time movement leaders spend networking with donors and completing grant applications ii **Donors can create or contribute to pooled funds that can gather and process information, identify grantees, and deploy funds to organizers and movement quicker and in a more cohesive way than might be possible on their own.** The Lifeline Embattled CSO Assistance Fund91 is an example of a pooled fund oering rapid
 
-<sup>88</sup> See Mama Cash 2022; Miller-Dawkins 2017; Chenoweth and Stephan 2021.
+88 See Mama Cash 2022; Miller-Dawkins 2017; Chenoweth and Stephan 2021.
 
-<sup>89</sup> Gender Funders Co Lab: **https://www.genderfunderscolab.org/**.
+89 Gender Funders Co Lab: **https://www.genderfunderscolab.org/**.
 
-<sup>90</sup> Toward A Feminist Funding Ecosystem, available at **https://www.wocan.org/resource/toward-a-feminist-funding-ecosystem/**.
+90 Toward A Feminist Funding Ecosystem, available at **https://www.wocan.org/resource/toward-a-feminist-funding-ecosystem/**.
 
-<sup>91</sup> The Lifeline Embattled CSO Assistance Fund: **https://www.csolifeline.org/**.
+91 The Lifeline Embattled CSO Assistance Fund: **https://www.csolifeline.org/**.
 
-response grants FRIDA The Young Feminist Fund,92 the Zimbabwe Alliance,93 and the Black Feminist Fund94 are three examples of pooled funds created through collaboration between funders, activists, and advocates Organizers and movement leaders participating in the grantmaking process can also help ensure that foreign funding does not hamper internally generated resourcing iii Donors can also innovate and oer new types of support **For example, in addition to granting liquid assets in the form of rapid response, project-based, or general operating cash support, donors can oer non-liquid assets in the form of buildings or land.**<sup>95</sup> Buying a building or oce space and granting it to an urban collective of grassroots organizers might provide long-term stability and security for their work Similarly, buying and granting land to a farming, Indigenous, or informally settled community might allow them to become nancially self-sucient thereby giving them economic sovereignty and stability with which to organize and mobilize on their own terms for greater rights and democracy
+response grants FRIDA The Young Feminist Fund,92 the Zimbabwe Alliance,93 and the Black Feminist Fund94 are three examples of pooled funds created through collaboration between funders, activists, and advocates Organizers and movement leaders participating in the grantmaking process can also help ensure that foreign funding does not hamper internally generated resourcing iii Donors can also innovate and oer new types of support **For example, in addition to granting liquid assets in the form of rapid response, project-based, or general operating cash support, donors can oer non-liquid assets in the form of buildings or land.**95 Buying a building or oce space and granting it to an urban collective of grassroots organizers might provide long-term stability and security for their work Similarly, buying and granting land to a farming, Indigenous, or informally settled community might allow them to become nancially self-sucient thereby giving them economic sovereignty and stability with which to organize and mobilize on their own terms for greater rights and democracy
 
 #### Tension 3. Does US Federal Tax Law Permit Us to Support Social Movements and Grassroots Organizers That Conduct Lobbying?
 
@@ -933,31 +974,31 @@ Under certain conditions, institutional donors may support public charities that
 
 The following information is not intended as legal advice It is drawn from US federal tax lawandinterpretations thereoffoundinthe Alliancefor Justice/Boulder Advocacy's Philanthropy
 
-<sup>92</sup> The Young Feminist Fund: **https://youngfeministfund.org/**.
+92 The Young Feminist Fund: **https://youngfeministfund.org/**.
 
-<sup>93</sup> Zimbabwe Alliance: **https://www.alliancemagazine.org/feature/zimbabwe-alliance-seizing-the-moment/**.
+93 Zimbabwe Alliance: **https://www.alliancemagazine.org/feature/zimbabwe-alliance-seizing-the-moment/**.
 
-<sup>94</sup> Black Feminist Fund: **https://www.blackfeministfund.org/**.
+94 Black Feminist Fund: **https://www.blackfeministfund.org/**.
 
-<sup>95</sup> I credit Erica Kohl-Arenas (2020) with the suggestion that donors can invest in communities by buying buildings and land in ways that foster collective ownership.
+95 I credit Erica Kohl-Arenas (2020) with the suggestion that donors can invest in communities by buying buildings and land in ways that foster collective ownership.
 
-<sup>96</sup> Public charities and private foundations are prohibited from supporting partisan electoral advocacy.
+96 Public charities and private foundations are prohibited from supporting partisan electoral advocacy.
 
-Advocacy Playbook,<sup>97</sup> its Investing in Change: A Funder's Guide to Supporting Advocacy,<sup>98</sup> and its "International Advocacy: What You Need to Know."<sup>99</sup> It is recommended that you contact legal counsel if you seek legal advice on these particular or related topics.
+Advocacy Playbook,97 its Investing in Change: A Funder's Guide to Supporting Advocacy,98 and its "International Advocacy: What You Need to Know."99 It is recommended that you contact legal counsel if you seek legal advice on these particular or related topics.
 
 #### Possible Solutions
 
-- i. For project-specific grants, if a private foundation gives less than or equal to the non-lobbying portion of the project budget, the grant is not considered a lobbying expenditure.<sup>100</sup>
+- i. For project-specific grants, if a private foundation gives less than or equal to the non-lobbying portion of the project budget, the grant is not considered a lobbying expenditure.100
 - ii. A private foundation can give general operating support to a 501(c)(3) public charity using a grant agreement that includes a clause stating that funds are "not earmarked for lobbying." Such a clause neither requires nor prohibits funds be used for lobbying. And it allows the grantee to lobby with the granted funds without creating a taxable expenditure for the private foundation (Alliance for Justice 2015, 15).
 - iii. A public foundation can support a 501(c)(4) entity for any activity which the foundation itself can engage, including lobbying. Unless a grant agreement specifies that the funds are not to be used for lobbying, the grant counts against the foundation's lobbying limit (Alliance for Justice 2015, 37–38).
 - iv. A private foundation can support a 501(c)(4) entity for any activity that a 501(c)(3) public charity can undertake except lobbying and electoral campaign intervention by following some specific oversight and reporting requirements called "expenditure responsibility" (Alliance for Justice 2015, 38).
 - v. Instead of following the "insubstantial part" test, a public charity can elect to take advantage of the "501(h) expenditure" test to determine its lobbying limits. Electing to follow the 501(h) expenditure test may offer the public charity a more generous and easier-to-calculate lobbying limit while also offering clear and limited definitions of what counts as lobbying. Under the 501(h) expenditure test, the lobbying limit could be as much as 20 percent of the foundation's annual expenditures, up to a cap of \$1,000,000 per year (Alliance for Justice 2015, 13).
 
-<sup>97</sup> Philanthropy Advocacy Playbook: https://bolderadvocacy.org/resource/philanthropy-advocacy-playbook/.
+97 Philanthropy Advocacy Playbook: https://bolderadvocacy.org/resource/philanthropy-advocacy-playbook/.
 
-<sup>98</sup> Investing in Change, available at https://bolderadvocacy.org/wp-content/uploads/2012/02/Investing\_in\_Change.pdf.
+98 Investing in Change, available at https://bolderadvocacy.org/wp-content/uploads/2012/02/Investing\_in\_Change.pdf.
 
-<sup>99</sup> International Advocacy, available at https://bolderadvocacy.org/wp-content/uploads/2012/04/International\_Advocacy.pdf.
+99 International Advocacy, available at https://bolderadvocacy.org/wp-content/uploads/2012/04/International\_Advocacy.pdf.
 
 This is possible using a "safe harbor" provision. To make use of this provision, private foundations must also receive a proposed budget from the grantee. Private foundations may only rely on the grantee's proposed budget for the project if it has no reason to doubt the budget's accuracy.
 
@@ -969,13 +1010,13 @@ Donors that are considering supporting the work of grassroots organizers and soc
 
 Institutionalizing feedback loops from organizers and movement leaders may also facilitate learning CIVICUS's Grassroots Solidarity Revolution101 and the Alliance for Feminist Movements102 are two spaces designed specically for grassroots activists, donors, and allies to learn from, cultivate trust between, and build solidarity with each other Adding organizers or movement leaders to a foundation board, hiring committee, or strategic planning committee could help to institutionalize their expertise so that it is incorporated not only in grantmaking decisions but also in high-level strategic decisions, such as the creation of new grantmaking portfolios or when hiring new senior sta Organizers and movement leaders may very well be able to contribute more to a board or advisory committee that oversees these types of decisions rather than a board whose primary reason for being is fundraising Creating a formal advisory committee comprised of past grantees or members of the communities that a foundation serves is another option to promote learning
 
-<sup>101</sup> Grassroots Solidarity Revolution: **https://civicus.org/grassrootsrevolution/**.
+101 Grassroots Solidarity Revolution: **https://civicus.org/grassrootsrevolution/**.
 
-<sup>102</sup> The Alliance for Feminist Movements: **https://allianceforfeministmovements.org/**.
+102 The Alliance for Feminist Movements: **https://allianceforfeministmovements.org/**.
 
 CIVICUS103 and RECREAR104 co-created a playbook105 to help donors and organizers re-think worldviews and principles around resourcing youth-led groups and movements It includes seven stories of youth-led organizing in Latin America and Africa, and it challenges readers "to explore, to question, to change your opinion, to see something new "
 
-The "Checklist for External Assistance to Nonviolent Movements"in Is Authoritarianism Staging a Comeback?<sup>106</sup> oers a set of principles that are intended to provoke discussion about whether, when, where, and how to most eectively support nonviolent activists The Checklist also includes a sampling of pro-movement tools that donors can consider supporting ii **Similarly, donors can be intentional about learning from their peers.** Both Human Rights Funders Network (HRFN)107 and the EDGE Funders Alliance108 oer online and in-person spaces for donors to practice peer-to-peer collaboration and learning HRFN oers regular events specically for donors interested in social movements**,** <sup>109</sup> including webinars, in-person gatherings, and an annual conference EDGE's 2019 Annual Conference110 and its Global Engagement Lab111 were designed specically to facilitate funders learning from each other and directly from movements Thousand Currents' executive director suggests 25 ways that donors can support social movements 112 And the Hist Phil blog113 oers accessible analysis and commentary from academics and practitioners on the history of the philanthropic and nonprot sectors
+The "Checklist for External Assistance to Nonviolent Movements"in Is Authoritarianism Staging a Comeback?106 oers a set of principles that are intended to provoke discussion about whether, when, where, and how to most eectively support nonviolent activists The Checklist also includes a sampling of pro-movement tools that donors can consider supporting ii **Similarly, donors can be intentional about learning from their peers.** Both Human Rights Funders Network (HRFN)107 and the EDGE Funders Alliance108 oer online and in-person spaces for donors to practice peer-to-peer collaboration and learning HRFN oers regular events specically for donors interested in social movements**,** 109 including webinars, in-person gatherings, and an annual conference EDGE's 2019 Annual Conference110 and its Global Engagement Lab111 were designed specically to facilitate funders learning from each other and directly from movements Thousand Currents' executive director suggests 25 ways that donors can support social movements 112 And the Hist Phil blog113 oers accessible analysis and commentary from academics and practitioners on the history of the philanthropic and nonprot sectors
 
 - 107 HRFN: **https://www.hrfn.org/our-community/**.
 - 108 EDGE Funders: **https://edgefunders.org/about-us/**.
@@ -985,16 +1026,16 @@ The "Checklist for External Assistance to Nonviolent Movements"in Is Authoritari
 - 112 25 Powerful Ways Funders Can Support Social Movements, available at **https://idronline.org/25-powerful-ways-funders-can-support-social-movements/**.
 - 113 Hist Phil: **https://histphil.org/2015/06/17/introducing-histphil-a-new-blog-on-the-history-of-philanthropy-2/**.
 
-<sup>103</sup> CIVICUS: **https://www.civicus.org/**.
+103 CIVICUS: **https://www.civicus.org/**.
 
-<sup>104</sup> RECREAR: **http://recrearinternational.org/**.
+104 RECREAR: **http://recrearinternational.org/**.
 
-<sup>105</sup> Resourcing Youth-led Groups & Movements, available at **https://www.civicus.org/documents/en-Playbook-2020-march.pdf**.
+105 Resourcing Youth-led Groups & Movements, available at **https://www.civicus.org/documents/en-Playbook-2020-march.pdf**.
 
-<sup>106 &</sup>quot;Is Authoritarianism Staging a Comeback?" webinar: **https://www.atlanticcouncil.org/in-depth-research-reports/books/is-authoritarianism-staging-a-comeback-3/**.
+106 &quot;Is Authoritarianism Staging a Comeback?" webinar: **https://www.atlanticcouncil.org/in-depth-research-reports/books/is-authoritarianism-staging-a-comeback-3/**.
 
 - iii **Donors can share their grants-level data with projects that track and analyze the evolving state of human rights, peace, and security philanthropy.** Two such projects are (i) the Peace and Security Funders Group's (PSFG) Peace and Security Funding Index,114 and (ii) the Candid / Human Rights Funders Network–led Advancing Human Rights115 research conducted in partnership with Ariadne116 and Prospera 117
-- iv **Donors can participate in Glass Pockets,**<sup>118</sup> **an initiative of Candid that champions transparency in philanthropy.** It provides data, resources, examples, and action steps that foundations can use to understand the value of transparency, be more open in their own communications, and shed light on how private organizations are serving the public good
+- iv **Donors can participate in Glass Pockets,**118 **an initiative of Candid that champions transparency in philanthropy.** It provides data, resources, examples, and action steps that foundations can use to understand the value of transparency, be more open in their own communications, and shed light on how private organizations are serving the public good
 
 #### Tension 5. How Can We Avoid Harmful Power Imbalances Between Donor and Grantee?
 
@@ -1002,15 +1043,15 @@ A power imbalance exists between donors and potential grantees With respect to t
 
 Increasing input from the communities that grants are meant to serve in all stages of the grantmaking processes can increase local ownership over processes and outcomes This, in turn, can increase grantee eectiveness Increased local ownership can also improve the chances that foreign support does not replace or undermine movements' internally generated resourcing, which historically has played a more inuential role than foreign support in movement success
 
-<sup>114</sup> PSFG Reports: **https://www.peaceandsecurity.org/reports**.
+114 PSFG Reports: **https://www.peaceandsecurity.org/reports**.
 
-<sup>115</sup> Advancing Human Rights: **https://humanrightsfunding.org/faq/?tab=what-is-the-advancing-human-rights-research**.
+115 Advancing Human Rights: **https://humanrightsfunding.org/faq/?tab=what-is-the-advancing-human-rights-research**.
 
-<sup>116</sup> Ariadne: **https://www.ariadne-network.eu/**.
+116 Ariadne: **https://www.ariadne-network.eu/**.
 
-<sup>117</sup> Prospera: **https://www.prospera-inwf.org/**.
+117 Prospera: **https://www.prospera-inwf.org/**.
 
-<sup>118</sup> Glass Pockets: **https://glasspockets.org/**.
+118 Glass Pockets: **https://glasspockets.org/**.
 
 #### Possible Solutions
 
@@ -1018,29 +1059,29 @@ Increasing input from the communities that grants are meant to serve in all stag
 - ii **Donors can develop donor–grantee partnership models grounded in the concept of democratic grantmaking.** Thousand Currents has developed one such model Grantmaking in this manner includes grantees as equal partners in donor decision-making, respecting local leadership and solutions, and paying attention to the inherent power dierential between donor and grantee This model requires donors to be exible and responsive to grantees and the particular context in which they operate This kind of partnership challenges the traditional paradigm of who holds expertise and power in the donor–grantee relationship As such, it requires a high level of patience, time, persistence, and relinquishing control on the part of the donor In their 2012 Evaluation and Learning report,120 Thousand Currents oers reections—from the perspective of its partners—on a decade of using a democratic donor–grantee partnership model
 - iii **Donors can dedicate time and resources to centering diversity, equity, and inclusion (DEI) in their own policies, practices, and programs.** The Peace and Security Funders Group (PSFG) is one network of philanthropists that supports its members to
 
-<sup>119</sup> Sharing internal strategy documents can pose security risks for a movement, its leaders, and its participants. In addition to using encryption or other security measures, donors can help ensure that they do no harm by deferring to grantees and potential grantees about what strategy information can be shared in the rst place.
+119 Sharing internal strategy documents can pose security risks for a movement, its leaders, and its participants. In addition to using encryption or other security measures, donors can help ensure that they do no harm by deferring to grantees and potential grantees about what strategy information can be shared in the rst place.
 
-<sup>120</sup> Thousand Currents' 2012 Evaluation and Learning report: **https://thousandcurrents.org/wp-content/uploads/2017/03/2012-Evaluation-and-Learning-Report.pdf**.
+120 Thousand Currents' 2012 Evaluation and Learning report: **https://thousandcurrents.org/wp-content/uploads/2017/03/2012-Evaluation-and-Learning-Report.pdf**.
 
 - do exactly that 121 PSFG and the Rockefeller Brothers Fund oer a four-part resolution for funders122 to make the sector more equitable, more inclusive, and more diverse
-- iv **Donors can also decide to share power by engaging in participatory grantmaking with members of the communities they seek to serve.** Participatory grantmaking cedes decision-making power about funding—including the strategy and criteria behind those decisions—to the very communities that funders aim to serve The Grant Craft report titled Deciding Together<sup>123</sup> details benets and challenges of participatory grantmaking and highlights insights from participatory grantmakers, including Global Greengrants Fund124 and UHAI EASHRI 125 Additionally, the Buen Vivir Fund126 and Fund Action127 oer examples of how donors and grassroots organizations joined forces to create participatory approaches via an impact investing fund and a pooled fund, respectively
+- iv **Donors can also decide to share power by engaging in participatory grantmaking with members of the communities they seek to serve.** Participatory grantmaking cedes decision-making power about funding—including the strategy and criteria behind those decisions—to the very communities that funders aim to serve The Grant Craft report titled Deciding Together123 details benets and challenges of participatory grantmaking and highlights insights from participatory grantmakers, including Global Greengrants Fund124 and UHAI EASHRI 125 Additionally, the Buen Vivir Fund126 and Fund Action127 oer examples of how donors and grassroots organizations joined forces to create participatory approaches via an impact investing fund and a pooled fund, respectively
 - v **Donors can undertake open and honest dialogue internally, with peer institutions, and with potential grantees about the underlying and often unspoken hierarchies in donor–grantee relationships.** As Ford Foundation President Darren Walker suggested, such an honest reckoning could include asking questions such as: "a) How does our [donor] privilege insulate us from engaging with the most dicult root causes of inequality and the poverty in which it ensnares people?; b) How does our work—our approach to awarding grants, our hiring and contracting policies, even our behavior toward our partners and grantees—reinforce structural inequality in our society?; and c) Why are [foundations] still necessary, and what can we do to build a world where we no longer are as necessary?"(Walker 2015) The National Committee for Responsive Philanthropy oers a suite of tools—including a philanthropy assessment guide called Power Moves—designed to assist donors in self-assessing how they can use their privilege and power to intentionally advance social justice and equity 128
 
-<sup>121</sup> The PSFG mission: **https://peaceandsecurity.org/mission**.
+121 The PSFG mission: **https://peaceandsecurity.org/mission**.
 
-<sup>122 &</sup>quot;A 2020 Resolution for Peace and Security Funders," available at **https://www.insidephilanthropy.com/home/2020/1/9/a-2020-resolution-for-peace-and-security-funders**.
+122 &quot;A 2020 Resolution for Peace and Security Funders," available at **https://www.insidephilanthropy.com/home/2020/1/9/a-2020-resolution-for-peace-and-security-funders**.
 
-<sup>123</sup> Deciding Together, available at **http://grantcraft.org/content/guides/deciding-together/#highlights**.
+123 Deciding Together, available at **http://grantcraft.org/content/guides/deciding-together/#highlights**.
 
-<sup>124</sup> Global Greengrants Fund: **https://www.greengrants.org/2018/10/24/grantcraft/**.
+124 Global Greengrants Fund: **https://www.greengrants.org/2018/10/24/grantcraft/**.
 
-<sup>125</sup> UHAI EASHRI: **https://grantcraft.org/content/videos/insight-on-participatory-grantmaking-wanja-muguongo-uhai-eashri/**.
+125 UHAI EASHRI: **https://grantcraft.org/content/videos/insight-on-participatory-grantmaking-wanja-muguongo-uhai-eashri/**.
 
-<sup>126</sup> Buen Vivir Fund: **https://thousandcurrents.org/buen-vivir-fund/**.
+126 Buen Vivir Fund: **https://thousandcurrents.org/buen-vivir-fund/**.
 
-<sup>127</sup> Fund Action: **https://fundaction.eu/**.
+127 Fund Action: **https://fundaction.eu/**.
 
-<sup>128</sup> NCRP self-assessment tools: **https://www.ncrp.org/initiatives/power-moves-philanthropy**.
+128 NCRP self-assessment tools: **https://www.ncrp.org/initiatives/power-moves-philanthropy**.
 
 vi **Donors can imagine and undertake innovative ways of supporting organizing and movement work.** One specic example is using donor funding to incentivize domestic support while contributing to long-term funding stability In Brazil, in collaboration with leaders of the Brazilian Black Movement, the W K Kellogg Foundation co-created therst fund dedicated solely to promoting racial equity among the black population of Brazil, the Baobá Fund for Racial Equity For every 1BRL/\$0 18 raised in Brazil, Kellogg matched it 3-to-1 toward the fund endowment For every 1BRL raised internationally, Kellogg oered a 2-to-1 match for the fund (Moreira and Lopes 2020) Additionally, the Radical Flexibility Fund oers what it refers to as "From Promises to 10 Radical Actions" that donors can consider to help center local people, communities, and organizations in social change processes 129
 
@@ -1052,20 +1093,20 @@ vi **Donors can imagine and undertake innovative ways of supporting organizing a
 
 Donors require varying forms of accountability from their grantees, including annual written reports, regular conversations, or site visits However, grassroots organizers and social movements may be more rooted in local traditions and practices than established nongovernmental
 
-<sup>129 &</sup>quot;From Promises to 10 Radical Actions," available at **https://www.radicalexibility.org/10-radical-actions**.
+129 &quot;From Promises to 10 Radical Actions," available at **https://www.radicalexibility.org/10-radical-actions**.
 
 organizations, which may have adopted Western orUS organizational practices and language of monitoring and evaluation And those grassroots traditions and practices may very well not be immediately visible to or understood by outside donors (Schaer 2000) This could create a disconnect in determining how, when, and why monitoring and evaluation happens Moreover, foreign-imposed monitoring and evaluation can alter accountability structures within movements by forcing movement leadership to engage in a balancing act between accountability to foreign donors and accountability to local constituents whose participation is key to movement success
 
 #### Possible Solutions
 
-- i **Donors can focus on evaluating movement means instead of, or in addition to, movement ends.** Instead of evaluating organizers and movements based on how much closer they are to achieving policy reforms or democratic elections (i e , winning), donors can measure and evaluate organizers' and movements' ability to (i) develop movement leadership, (ii) develop and implement strategic plans to undertake nonviolent action and to mitigate the eects of repression, (iii) recruit and retain participants, (iv) build and maintain coalitions, (v) shift loyalties away from the target regime, (vi) maintain nonviolent discipline, and (vii) learn and adapt Box 5 oers an example from Serbia for why evaluating movement means and ends matters Such monitoring and evaluation can be done using measurable indicators co-created by donors and grantees The Measuring What Matters<sup>130</sup> report oers a series of insights specially related to community philanthropy The American Jewish World Service developed a Social Movement Assessment Tool to help movement leaders and donors assess and reect on the state of a movement, who is participating, how the movement is led, and how it achieves its goals 131 Additionally, the Innovation Network has compiled a set of resources132 that oer guidance, including indicators for evaluating the strength and capacity of social movements
+- i **Donors can focus on evaluating movement means instead of, or in addition to, movement ends.** Instead of evaluating organizers and movements based on how much closer they are to achieving policy reforms or democratic elections (i e , winning), donors can measure and evaluate organizers' and movements' ability to (i) develop movement leadership, (ii) develop and implement strategic plans to undertake nonviolent action and to mitigate the eects of repression, (iii) recruit and retain participants, (iv) build and maintain coalitions, (v) shift loyalties away from the target regime, (vi) maintain nonviolent discipline, and (vii) learn and adapt Box 5 oers an example from Serbia for why evaluating movement means and ends matters Such monitoring and evaluation can be done using measurable indicators co-created by donors and grantees The Measuring What Matters130 report oers a series of insights specially related to community philanthropy The American Jewish World Service developed a Social Movement Assessment Tool to help movement leaders and donors assess and reect on the state of a movement, who is participating, how the movement is led, and how it achieves its goals 131 Additionally, the Innovation Network has compiled a set of resources132 that oer guidance, including indicators for evaluating the strength and capacity of social movements
 - ii **Instead of requiring grantees to adhere to evaluation processes and metrics that are imported and imposed from the United States, donors can use evaluation and accountability mechanisms that are grounded in the cultural, historic, and political context of each of their grantees.** This may require donors to be willing to use dierent evaluation processes and metrics with dierent grantees This may also include creating mechanisms for grantees to evaluate their donors Such shifts are likely to
 
-<sup>130</sup> Measuring What Matters, available at **https://globalfundcommunityfoundations.org/wp-content/uploads/2020/10/Measuring What Matters.pdf**.
+130 Measuring What Matters, available at **https://globalfundcommunityfoundations.org/wp-content/uploads/2020/10/Measuring What Matters.pdf**.
 
-<sup>131</sup> See AJWS 2022 for a detailed description of the tool.
+131 See AJWS 2022 for a detailed description of the tool.
 
-<sup>132</sup> Innovation Network resources: **https://www.innonet.org/media/Social\_Movements\_TOC.pdf**.
+132 Innovation Network resources: **https://www.innonet.org/media/Social\_Movements\_TOC.pdf**.
 
 challenge many donors' standard practices Yet, such shifts may facilitate more detailed and illustrative grant reporting These shifts may build trust and strengthen donor– grantee relationships And they may help foster democracy more broadly by ensuring that a mechanism exists for donors to be held accountable for their grantmaking by the constituencies that they support (Morey 2018) One such mechanism is Grant Advisor,133 a website created by the California Association of Nonprots and the Minnesota Council of Nonprots, that allows (i) grant applicants, grantees, and others to share theirrst-hand experiences working with funders, and (ii) funders to respond on the record
 
@@ -1075,13 +1116,13 @@ The Peery Foundation developedve core "grantee-centric practices"134 that seek t
 
 In interviews and in survey responses, donors, organizers, movement leaders, and scholars repeated—in various forms—ve principles for supporting grassroots organizing and social movements This list of principles does not map exactly onto the tensions in the preceding section, and it is not meant to be an exhaustive list But these principles do represent the underlying values embodied by the individuals and organizations that participated in this research and that are engaged in meaningful donor–movement relationships 136
 
-<sup>133</sup> Grant Advisor: **https://grantadvisor.org/**.
+133 Grant Advisor: **https://grantadvisor.org/**.
 
-<sup>134</sup> The Peery Foundation's grantee-centric practice: **http://www.peeryfoundation.org/grantee-centric**.
+134 The Peery Foundation's grantee-centric practice: **http://www.peeryfoundation.org/grantee-centric**.
 
-<sup>135</sup> Arbella Advisors' grantmaking checklist: **http://www.equityinphilanthropy.org/2016/10/04/dei-grantmaking-checklist/#eval**.
+135 Arbella Advisors' grantmaking checklist: **http://www.equityinphilanthropy.org/2016/10/04/dei-grantmaking-checklist/#eval**.
 
-<sup>136</sup> These principles are inspired by the values and principles of Justice Funders, the Buen Vivir Fund, the International Funders for Indigenous Peoples, Human Rights Funders Network, Ariadne, and Gender Gunders Co Lab, as well as Stephan's "Checklist for External Assistance to Nonviolent Movements" (Justice Funders 2020; Thousand Currents 2017; International Funders for Indigenous Peoples 2020; HRFN 2020b; Stephan 2015).
+136 These principles are inspired by the values and principles of Justice Funders, the Buen Vivir Fund, the International Funders for Indigenous Peoples, Human Rights Funders Network, Ariadne, and Gender Gunders Co Lab, as well as Stephan's "Checklist for External Assistance to Nonviolent Movements" (Justice Funders 2020; Thousand Currents 2017; International Funders for Indigenous Peoples 2020; HRFN 2020b; Stephan 2015).
 
 #### Principle 1. Do No Harm
 
@@ -1100,7 +1141,7 @@ As a potential supporter of grassroots organizing and nonviolent movements, the 
 
 Foreign support is always secondary to domestic support for movement success (Chenoweth and Stephan 2021; Dudouet 2015) And local actors are likely to feel the positive and negative eects of foreign support long after grants end and donorsy home So support for the work of local actors is important However, the "local" can be a place of exclusion where local actors have dierent levels of power Grantmaking should tackle and not exacerbate inequality within local communities just as it should tackle and not exacerbate inequality across borders (Obradovic-Wochnik 2018)
 
-<sup>137</sup> Research has found that foreign diplomatic pressure and punishment can increase public demonstrations of support for the incumbent government. Likewise, research has found that local presence of foreign nongovernmental organizations is associated with higher levels of both nonviolent and violent protest (Hellmeier 2020; Murdie and Bhasin 2011).
+137 Research has found that foreign diplomatic pressure and punishment can increase public demonstrations of support for the incumbent government. Likewise, research has found that local presence of foreign nongovernmental organizations is associated with higher levels of both nonviolent and violent protest (Hellmeier 2020; Murdie and Bhasin 2011).
 
 As a potential supporter of grassroots organizing and nonviolent movements, donors should:
 
@@ -1117,7 +1158,7 @@ Power in donor–social movement relationships is rarely shared evenly Donors ha
 
 The idea of solidarity describes ways in which donors and organizers can work together as equals to enact change, reaching across dierences without erasing them Solidarity is not something one has; it is something one does Unlike charity and some forms of philanthropy which are one-sided, solidarity is a form of reciprocity (Taylor and Hunt-Hendrix 2019)
 
-<sup>138</sup> Anonymous interviewees in conversation with the author.
+138 Anonymous interviewees in conversation with the author.
 
 As a potential supporter of grassroots organizing and nonviolent movements, donors should:
 
@@ -1162,7 +1203,7 @@ DAF support for organizing and movements take dierent forms or have dierent eect
 - 4 Additional research exploring the motivations, methods, and eects of philanthropy from non-US foundations on grassroots organizing and nonviolent movements could be fruitful For example, Indigenous and Global South philanthropic traditions may have dierent understandings of and relationships to informal, unregistered, and grassroots entities 139 As this report notes, these philanthropic traditions have dierent norms and processes that guide accountability, monitoring, and evaluation of individual acts of giving Such dierences might lead to relatively more or dierent kinds of support for grassroots organizing and social movements
 - 5 Additional comparative, cross-national research could be fruitful In its 2019 forecast of European philanthropy, Ariadne—the European network for funders—noted that "funders anticipate more support for social movements and express an interest in learning how to work with social movements more eectively" (Broome 2019) Understanding how and why such increases in support occur and the eects thereof could inform future decision-making by donors in and outside of Europe In 2018, Ariadne and the European Community Organising Network published Making a Way Forward: Community Organizing and the Future of Democracy in Europe (Beckwith et al 2018) The report is a study of organizing in Europe that also learns from the experiences of funders in the United States "who, starting about a decade ago, began a strategic conversation of why and how to better support the community organising sector " Such cross-national and cross-regional research can encourage learning across philanthropic traditions and yield new insights
 
-<sup>139</sup> Two examples of existing existing academic research are Rogers 2001 and Ilchman, Katz, and Queen 1998.
+139 Two examples of existing existing academic research are Rogers 2001 and Ilchman, Katz, and Queen 1998.
 
 6 Finally, policy relevant scholarship on the obligations of philanthropic organizations and philanthropy more broadly to democracy would be valuable to donors, organizers, and movements alike While it is important to consider how and why donors support pro-democracy organizing and movements, it is also important to consider how broader societal rules and norms directly and indirectly inuence that donor decision-making "Whether, when, to whom, and how much people give is partly a product of laws that govern" everything from the creation of foundations and nonprots to the rules and tax exemptions governing their operations (Reich 2019) In this way we can think of philanthropy as not only individual acts, but also as an organized social practice embedded within a larger political economy Scholarship on the philanthropic sector's positive and negative inuence on democracy that is co-created with organizers and movement leaders would be likely to yield unique and valuable insights
 
@@ -1180,9 +1221,9 @@ In an era in which authoritarian governments and backsliding democracies are att
 
 The human rights grantmaking data used in this report was self-reported by donors to Candid and Human Rights Funders Network, as well as their partner organizations, Ariadne and Prospera, for the Advancing Human Rights and Foundation Maps projects The amount of grantmaking that was not reported and is therefore not captured in the data set is unknown, particularly among institutional donors not based in the United States 140 Toll gaps in self-reporting, Candid collected data on the 1,000 largest US-based private and community foundations from the publicly available 990 and 990-PF forms submitted to the Internal Revenue Service This dataset provides the most comprehensive accounting of institutional donor support in the 21st century for human rights, democracy, and social justice goals 141 The entire dataset accounts for US\$10 9 billion in funds given in 99,863 separate grants by 1,193 institutional donors from 2011 to 2015 The matched subset of grants included in the trends analysis accounts for US\$9 4 billion in funds given in 74,312 separate grants by over 500 institutional donors from 2011 to 2015
 
-<sup>140</sup> It is impossible to estimate the number of grants or amount of grant dollars that do not appear in the database.
+140 It is impossible to estimate the number of grants or amount of grant dollars that do not appear in the database.
 
-<sup>141</sup> Human rights grantmaking is dened as funding in pursuit of structural change to ensure the protection and enjoyment of the rights enshrined in the Universal Declaration of Human Rights and subsequent human rights treaties (Candid and HRFN 2020).
+141 Human rights grantmaking is dened as funding in pursuit of structural change to ensure the protection and enjoyment of the rights enshrined in the Universal Declaration of Human Rights and subsequent human rights treaties (Candid and HRFN 2020).
 
 ## Appendix 2. Donors, Social Movements, and Grassroots Organizing Survey Instrument
 
@@ -1198,64 +1239,305 @@ Thank you for taking the time to contribute to this research and learning
 
 #### Demographic Questions:
 
-| 1 | | What<br>is<br>your<br>age? |
+| 1 | | What
+is
+your
+age? |
 |---|----|----------------------------|
-| | ☐ | 18-20<br>years<br>old |
-| | ☐ | 21-29<br>years<br>old |
-| | ☐ | 30-39<br>years<br>old |
-| | ☐ | 40-49<br>years<br>old |
-| | ☐ | 50-59<br>years<br>old |
-| | ☐ | 60-69<br>years<br>old |
-| | ☐ | 70<br>or<br>older |
+| | ☐ | 18-20
+years
+old |
+| | ☐ | 21-29
+years
+old |
+| | ☐ | 30-39
+years
+old |
+| | ☐ | 40-49
+years
+old |
+| | ☐ | 50-59
+years
+old |
+| | ☐ | 60-69
+years
+old |
+| | ☐ | 70
+or
+older |
 
-| 2 With<br>what<br>gender<br>identity<br>do<br>you<br>most<br>identify? |
+| 2 With
+what
+gender
+identity
+do
+you
+most
+identify? |
 |--------------------------------------------------------------------------------------------------------------------------------------------|
-| ☐<br>Female |
-| ☐<br>Male |
-| ☐<br>Other<br>(specify)<br> |
-| 3 Do<br>you<br>consider<br>yourself<br>a<br>minority? |
-| ☐<br>Yes |
-| ☐<br>No |
-| ☐<br>Other<br> |
-| 4 Do<br>you<br>work<br>for<br>a<br>grantmaking<br>institution? |
-| ☐<br>Yes,<br>I<br>currently<br>work<br>for<br>a<br>public<br>charity |
-| ☐<br>Yes,<br>I<br>currently<br>work<br>for<br>a<br>private<br>foundation |
-| ☐<br>No,<br>I<br>do<br>not<br>work<br>for<br>a<br>grantmaking<br>institution |
-| ☐<br>I<br>work<br>for<br>a<br>grantmaking<br>support<br>organization |
-| ☐<br>Other<br> |
-| 5 How<br>many<br>years<br>have<br>you<br>worked<br>in<br>the<br>philanthropic<br>sector? |
-| ☐<br>0-2<br>years |
-| ☐<br>3-5<br>years |
-| ☐<br>6-9<br>years |
-| ☐<br>10-14<br>years |
-| ☐<br>15<br>or<br>more<br>years |
-| ☐<br>I<br>do<br>not<br>work<br>in<br>philanthropy |
-| 6 What<br>is<br>your<br>experience<br>with<br>grassroots<br>organizing<br>and<br>social<br>movements?<br>[select<br>all<br>that<br>apply]: |
-| ☐<br>I<br>have<br>worked<br>as<br>a<br>paid<br>or<br>unpaid<br>grassroots<br>organizer |
-| ☐<br>I<br>have<br>received<br>training<br>as<br>a<br>grassroots<br>organizer |
-| ☐<br>I<br>have<br>served<br>in<br>a<br>leadership<br>position<br>of<br>a<br>social<br>movement |
+| ☐
+Female |
+| ☐
+Male |
+| ☐
+Other
+(specify)
+ |
+| 3 Do
+you
+consider
+yourself
+a
+minority? |
+| ☐
+Yes |
+| ☐
+No |
+| ☐
+Other
+ |
+| 4 Do
+you
+work
+for
+a
+grantmaking
+institution? |
+| ☐
+Yes,
+I
+currently
+work
+for
+a
+public
+charity |
+| ☐
+Yes,
+I
+currently
+work
+for
+a
+private
+foundation |
+| ☐
+No,
+I
+do
+not
+work
+for
+a
+grantmaking
+institution |
+| ☐
+I
+work
+for
+a
+grantmaking
+support
+organization |
+| ☐
+Other
+ |
+| 5 How
+many
+years
+have
+you
+worked
+in
+the
+philanthropic
+sector? |
+| ☐
+0-2
+years |
+| ☐
+3-5
+years |
+| ☐
+6-9
+years |
+| ☐
+10-14
+years |
+| ☐
+15
+or
+more
+years |
+| ☐
+I
+do
+not
+work
+in
+philanthropy |
+| 6 What
+is
+your
+experience
+with
+grassroots
+organizing
+and
+social
+movements?
+[select
+all
+that
+apply]: |
+| ☐
+I
+have
+worked
+as
+a
+paid
+or
+unpaid
+grassroots
+organizer |
+| ☐
+I
+have
+received
+training
+as
+a
+grassroots
+organizer |
+| ☐
+I
+have
+served
+in
+a
+leadership
+position
+of
+a
+social
+movement |
 
-| | ☐ | In<br>the<br>past<br>6<br>months<br>I<br>have<br>participated<br>in<br>at<br>least<br>one<br>action<br>organized<br>by<br>a<br>social<br>movement |
+| | ☐ | In
+the
+past
+6
+months
+I
+have
+participated
+in
+at
+least
+one
+action
+organized
+by
+a
+social
+movement |
 |---|--------|---------------------------------------------------------------------------------------------------------------------------------------------------|
-| | ☐ | I<br>have<br>taken<br>academic<br>coursework<br>on<br>grassroots<br>organizing<br>or<br>social<br>movements |
-| | ☐ | I<br>regularly<br>read<br>academic<br>publications<br>about<br>grassroots<br>organizing<br>and<br>social<br>movements |
-| | ☐ | I<br>have<br>had<br>a<br>close<br>professional<br>or<br>personal<br>relationship<br>with<br>a<br>grassroots<br>organizer |
-| | ☐ | I<br>have<br>other<br>experience<br>with<br>grassroots<br>organizing<br>or<br>social<br>movements<br> |
+| | ☐ | I
+have
+taken
+academic
+coursework
+on
+grassroots
+organizing
+or
+social
+movements |
+| | ☐ | I
+regularly
+read
+academic
+publications
+about
+grassroots
+organizing
+and
+social
+movements |
+| | ☐ | I
+have
+had
+a
+close
+professional
+or
+personal
+relationship
+with
+a
+grassroots
+organizer |
+| | ☐ | I
+have
+other
+experience
+with
+grassroots
+organizing
+or
+social
+movements
+ |
 | | | |
 | | | |
 | | | Questions about the Donor Institution Where You Work: |
-| 1 | | Approximately<br>how<br>many<br>paid<br>staff<br>people<br>(full<br>and<br>part-time)<br>work<br>at<br>your<br>foundation? |
+| 1 | | Approximately
+how
+many
+paid
+staff
+people
+(full
+and
+part-time)
+work
+at
+your
+foundation? |
 | | ☐ | 0 |
 | | ☐ | 1-10 |
 | | ☐ | 11-25 |
-| | ☐ | 26<br>-49 |
-| | ☐ | 50<br>or<br>more |
-| | ☐ | I<br>don't<br>know |
-| | 2 Does | your<br>foundation<br>do<br>at<br>least<br>some<br>grantmaking<br>from<br>an<br>oce<br>in<br>the United<br>States? |
+| | ☐ | 26
+-49 |
+| | ☐ | 50
+or
+more |
+| | ☐ | I
+don't
+know |
+| | 2 Does | your
+foundation
+do
+at
+least
+some
+grantmaking
+from
+an
+oce
+in
+the United
+States? |
 | | ☐ | Yes |
 | | ☐ | No |
-| | ☐ | Other<br> |
-| | 3 What | is<br>your<br>foundation's<br>most<br>common<br>grant size? |
+| | ☐ | Other
+ |
+| | 3 What | is
+your
+foundation's
+most
+common
+grant size? |
 ## | | | |
 
 | ☐ | \$5,001-\$25,000 |
@@ -1264,131 +1546,661 @@ Thank you for taking the time to contribute to this research and learning
 | ☐ | \$50,001-\$100,000 |
 | ☐ | \$100,001-\$250,000 |
 | ☐ | \$250,001-\$500,000 |
-| ☐ | \$500,001<br>and<br>above |
-| ☐ | I<br>don't<br>know |
-| ☐ | Other<br> |
-| 4 What | is<br>your<br>foundation's<br>most<br>common<br>duration?<br>grant |
-| ☐ | 0-6<br>months |
-| ☐ | 7-12<br>months |
-| ☐ | 13-23<br>months |
-| ☐ | 24<br>months<br>or<br>more |
-| ☐ | I<br>don't<br>know |
-| ☐ | Other<br> |
-| 5 What<br>all | issue<br>areas<br>does<br>your<br>consider<br>priorities<br>in<br>its<br>grantmaking?<br>[Select<br>foundation<br>that<br>apply ] |
+| ☐ | \$500,001
+and
+above |
+| ☐ | I
+don't
+know |
+| ☐ | Other
+ |
+| 4 What | is
+your
+foundation's
+most
+common
+duration?
+grant |
+| ☐ | 0-6
+months |
+| ☐ | 7-12
+months |
+| ☐ | 13-23
+months |
+| ☐ | 24
+months
+or
+more |
+| ☐ | I
+don't
+know |
+| ☐ | Other
+ |
+| 5 What
+all | issue
+areas
+does
+your
+consider
+priorities
+in
+its
+grantmaking?
+[Select
+foundation
+that
+apply ] |
 | ☐ | Development |
-| ☐ | Human<br>Rights |
-| ☐ | US<br>Foreign<br>Policy |
-| ☐ | Social<br>Movements |
+| ☐ | Human
+Rights |
+| ☐ | US
+Foreign
+Policy |
+| ☐ | Social
+Movements |
 | ☐ | Democracy |
-| ☐ | Peace,<br>Peacebuilding,<br>or<br>Conict<br>Prevention |
-| ☐ | Social<br>Justice |
-| ☐ | Humanitarian<br>/<br>Disaster<br>Response |
-| ☐ | Grassroots<br>Organizing |
-## | ☐ | Other<br> |
+| ☐ | Peace,
+Peacebuilding,
+or
+Conict
+Prevention |
+| ☐ | Social
+Justice |
+| ☐ | Humanitarian
+/
+Disaster
+Response |
+| ☐ | Grassroots
+Organizing |
+## | ☐ | Other
+ |
 
-| | 6 How | would<br>you<br>support: | describe<br>the | likelihood<br>that | your<br>foundation | would<br>give<br>grants<br>to |
+| | 6 How | would
+you
+support: | describe
+the | likelihood
+that | your
+foundation | would
+give
+grants
+to |
 |---|--------------|--------------------------------------------------------------|---------------------------------|--------------------------------------|--------------------|------------------------------------------------------------------------------|
-| | ☐ | Grassroots<br>organizing | or<br>social | movements | in<br>democracies | |
-| | | Very<br>Unlikely | Unlikely | Neutral | Likely | Very<br>Likely |
-| | ☐ | Grassroots<br>organizing<br>space | or<br>social | movements | in | democracies with closing civic |
-| | | Very<br>Unlikely | Unlikely | Neutral | Likely | Very<br>Likely |
-| | ☐ | Grassroots<br>organizing | or<br>social | movements | in | non-democracies |
-| | | Very<br>Unlikely | Unlikely | Neutral | Likely | Very<br>Likely |
-| | ☐ | Grantees<br>that<br>are | unregistered | or<br>informal | entities | |
-| | | Very<br>Unlikely | Unlikely | Neutral | Likely | Very<br>Likely |
-| | ☐ | Please<br>add<br>any | additional<br>details | here | | |
-| 7 | | During<br>what<br>time-periods<br>organizing<br>or<br>social | has<br>your<br>movements | foundation<br>anywhere in the world? | given | grants<br>to<br>support<br>grassroots<br>[Select<br>all<br>that<br>apply ] |
-| | ☐ | 1989<br>or<br>earlier | | | | |
+| | ☐ | Grassroots
+organizing | or
+social | movements | in
+democracies | |
+| | | Very
+Unlikely | Unlikely | Neutral | Likely | Very
+Likely |
+| | ☐ | Grassroots
+organizing
+space | or
+social | movements | in | democracies with closing civic |
+| | | Very
+Unlikely | Unlikely | Neutral | Likely | Very
+Likely |
+| | ☐ | Grassroots
+organizing | or
+social | movements | in | non-democracies |
+| | | Very
+Unlikely | Unlikely | Neutral | Likely | Very
+Likely |
+| | ☐ | Grantees
+that
+are | unregistered | or
+informal | entities | |
+| | | Very
+Unlikely | Unlikely | Neutral | Likely | Very
+Likely |
+| | ☐ | Please
+add
+any | additional
+details | here | | |
+| 7 | | During
+what
+time-periods
+organizing
+or
+social | has
+your
+movements | foundation
+anywhere in the world? | given | grants
+to
+support
+grassroots
+[Select
+all
+that
+apply ] |
+| | ☐ | 1989
+or
+earlier | | | | |
 | | ☐ | 1990-1999 | | | | |
 | | ☐ | 2000-2005 | | | | |
 | | ☐ | 2006-2010 | | | | |
 | | ☐ | 2011-2015 | | | | |
 | | ☐ | 2016-2019 | | | | |
 | | ☐ | None | | | | |
-| | ☐ | I<br>don't<br>know | | | | |
-| | ☐ | Other<br> | | | | |
-| | 8 How<br>for | would<br>you<br>grassroots<br>organizing<br>apply ] | describe<br>the<br>or<br>social | type of funding, if<br>movements | any,<br>that<br>in | your<br>foundation<br>provides<br>non-democracies?<br>[Select<br>all<br>that |
-| | ☐ | Project<br>based | support | | | |
-| | ☐ | Core<br>operating | orexible<br>support | | | |
+| | ☐ | I
+don't
+know | | | | |
+| | ☐ | Other
+ | | | | |
+| | 8 How
+for | would
+you
+grassroots
+organizing
+apply ] | describe
+the
+or
+social | type of funding, if
+movements | any,
+that
+in | your
+foundation
+provides
+non-democracies?
+[Select
+all
+that |
+| | ☐ | Project
+based | support | | | |
+| | ☐ | Core
+operating | orexible
+support | | | |
 
-| ☐ | Long-term<br>support<br>(grant<br>terms<br>of<br>2<br>years<br>or<br>more) |
+| ☐ | Long-term
+support
+(grant
+terms
+of
+2
+years
+or
+more) |
 |--------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ☐ | Rapid<br>response<br>funding<br>(less<br>than<br>1<br>month<br>response<br>time<br>for<br>grant<br>proposals) |
-| ☐ | Grants<br>to<br>individuals |
-| ☐ | Grants<br>to<br>organizations |
-| ☐ | Grants<br>to<br>intermediaries<br>/<br>sub-granting<br>institutions |
-| ☐ | Grants<br>via<br>pooled<br>funds |
-| ☐ | Non-nancial<br>support |
-| ☐ | Please<br>elaborate<br> |
+| ☐ | Rapid
+response
+funding
+(less
+than
+1
+month
+response
+time
+for
+grant
+proposals) |
+| ☐ | Grants
+to
+individuals |
+| ☐ | Grants
+to
+organizations |
+| ☐ | Grants
+to
+intermediaries
+/
+sub-granting
+institutions |
+| ☐ | Grants
+via
+pooled
+funds |
+| ☐ | Non-nancial
+support |
+| ☐ | Please
+elaborate
+ |
 | | |
-| ☐ | We<br>do<br>not<br>support<br>grassroots<br>organizing<br>or<br>social<br>movements |
-| [If | "We<br>do<br>not<br>support… "<br>is<br>selected,<br>skip<br>Questions<br>15-18 If<br>any<br>other<br>answer<br>is<br>selected,<br>skip<br>Question<br>19 ] |
-| 9 What | related<br>to<br>grassroots<br>organizing<br>and<br>social<br>movements<br>in<br>types of activities<br>does<br>your<br>foundation<br>tend<br>to<br>support?<br>[Select<br>all<br>that<br>apply ]<br>non-democracies |
-| ☐ | Advocacy<br>or<br>advocacy<br>materials |
-| ☐ | Arts<br>or<br>culture |
-| ☐ | Capacity<br>building<br>and/or<br>technical<br>assistance<br>(e g ,<br>trainings<br>or<br>workshops) |
-| ☐ | Coalition<br>building<br>and/or<br>collaboration |
+| ☐ | We
+do
+not
+support
+grassroots
+organizing
+or
+social
+movements |
+| [If | "We
+do
+not
+support… "
+is
+selected,
+skip
+Questions
+15-18 If
+any
+other
+answer
+is
+selected,
+skip
+Question
+19 ] |
+| 9 What | related
+to
+grassroots
+organizing
+and
+social
+movements
+in
+types of activities
+does
+your
+foundation
+tend
+to
+support?
+[Select
+all
+that
+apply ]
+non-democracies |
+| ☐ | Advocacy
+or
+advocacy
+materials |
+| ☐ | Arts
+or
+culture |
+| ☐ | Capacity
+building
+and/or
+technical
+assistance
+(e g ,
+trainings
+or
+workshops) |
+| ☐ | Coalition
+building
+and/or
+collaboration |
 | ☐ | Diplomacy |
-| ☐ | Disaster<br>relief |
-| ☐ | Economic<br>development |
-| ☐ | Election<br>related<br>activities<br>(e g ,<br>voter<br>registration<br>or<br>election<br>monitoring) |
-| ☐ | Legal<br>aid<br>and/or<br>litigation |
-| ☐ | Media<br>and/or<br>technology |
-| ☐ | Public<br>engagement<br>and/or<br>awareness<br>raising |
-| ☐ | Research<br>and/or<br>documentation |
-| ☐ | Scholarships<br>and/or<br>travel |
+| ☐ | Disaster
+relief |
+| ☐ | Economic
+development |
+| ☐ | Election
+related
+activities
+(e g ,
+voter
+registration
+or
+election
+monitoring) |
+| ☐ | Legal
+aid
+and/or
+litigation |
+| ☐ | Media
+and/or
+technology |
+| ☐ | Public
+engagement
+and/or
+awareness
+raising |
+| ☐ | Research
+and/or
+documentation |
+| ☐ | Scholarships
+and/or
+travel |
 ## | | |
 
-| ☐ | Security<br>and/or<br>resilience<br>(e g ,<br>accompaniment<br>or<br>protection) |
+| ☐ | Security
+and/or
+resilience
+(e g ,
+accompaniment
+or
+protection) |
 |-----|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ☐ | Undertaking<br>nonviolent<br>tactics<br>(e g ,<br>protests,<br>strikes<br>or<br>boycotts) |
-| ☐ | Urgent<br>action<br>/<br>rapid<br>response |
-| ☐ | Other<br> |
-| in? | 10 What<br>do<br>your<br>grassroots<br>organizing<br>and<br>social<br>movements<br>grantees<br>work<br>regions<br>[Select<br>all<br>that<br>apply ] |
-| ☐ | Asia<br>&<br>Pacic |
+| ☐ | Undertaking
+nonviolent
+tactics
+(e g ,
+protests,
+strikes
+or
+boycotts) |
+| ☐ | Urgent
+action
+/
+rapid
+response |
+| ☐ | Other
+ |
+| in? | 10 What
+do
+your
+grassroots
+organizing
+and
+social
+movements
+grantees
+work
+regions
+[Select
+all
+that
+apply ] |
+| ☐ | Asia
+&
+Pacic |
 | ☐ | Caribbean |
-| ☐ | Eastern<br>Europe,<br>Central<br>Asia<br>and<br>Russia |
-| ☐ | Latin<br>America<br>and<br>Mexico |
-| ☐ | Middle<br>East |
-| ☐ | North<br>Africa |
-| ☐ | Sub-Saharan<br>Africa |
-| ☐ | US<br>and<br>Canada |
-| ☐ | Western<br>Europe |
-| ☐ | Transnational<br>Projects |
-| ☐ | We<br>do<br>not<br>support<br>grassroots<br>organizing<br>or<br>social<br>movements |
-| | 11 What<br>does<br>your<br>seek<br>to<br>achieve<br>with<br>the<br>support<br>it<br>gives<br>for<br>grass<br>goals<br>foundation<br>roots<br>organizing<br>and/or<br>social<br>movements<br>in<br>non-democracies?<br> |
-| | 12 Please<br>describe<br>your<br>foundation's<br>theory of change, if<br>any<br>that<br>guides<br>its<br>support<br>for<br>grassroots<br>organizing<br>or<br>social<br>movements<br>in<br>non-democracies<br> |
-| or | 13 What<br>factors<br>drive<br>your<br>foundation's decision to not support<br>grassroots<br>organizing<br>social<br>movements?<br>[Select<br>all<br>that<br>apply ] |
-| ☐ | My<br>foundation<br>supports<br>theories<br>of<br>social<br>change<br>that<br>do<br>involve<br>grassroots<br>not<br>organizing<br>and<br>social<br>movements |
+| ☐ | Eastern
+Europe,
+Central
+Asia
+and
+Russia |
+| ☐ | Latin
+America
+and
+Mexico |
+| ☐ | Middle
+East |
+| ☐ | North
+Africa |
+| ☐ | Sub-Saharan
+Africa |
+| ☐ | US
+and
+Canada |
+| ☐ | Western
+Europe |
+| ☐ | Transnational
+Projects |
+| ☐ | We
+do
+not
+support
+grassroots
+organizing
+or
+social
+movements |
+| | 11 What
+does
+your
+seek
+to
+achieve
+with
+the
+support
+it
+gives
+for
+grass
+goals
+foundation
+roots
+organizing
+and/or
+social
+movements
+in
+non-democracies?
+ |
+| | 12 Please
+describe
+your
+foundation's
+theory of change, if
+any
+that
+guides
+its
+support
+for
+grassroots
+organizing
+or
+social
+movements
+in
+non-democracies
+ |
+| or | 13 What
+factors
+drive
+your
+foundation's decision to not support
+grassroots
+organizing
+social
+movements?
+[Select
+all
+that
+apply ] |
+| ☐ | My
+foundation
+supports
+theories
+of
+social
+change
+that
+do
+involve
+grassroots
+not
+organizing
+and
+social
+movements |
 
-| | ☐ | My<br>foundation<br>has<br>never<br>or<br>for<br>grassroots<br>organizing | received<br>a | request<br>for<br>support | from<br>a | social<br>movement |
+| | ☐ | My
+foundation
+has
+never
+or
+for
+grassroots
+organizing | received
+a | request
+for
+support | from
+a | social
+movement |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----|---------------------------------------------------------------------------|----------------------------------------------|-------------------------------------|------------------------------|---------------------------------------------|
-| | ☐ | My<br>foundation<br>cannot | fund<br>unregistered | or<br>informal | entities | |
-| | ☐ | My<br>foundation<br>does<br>not | oer<br>rapid | response<br>funding | | |
-| | ☐ | My<br>foundation<br>does<br>not | oer<br>core | operating<br>orexible | funding | |
-| | ☐ | My<br>foundation's<br>board<br>organizing<br>or<br>social | and/or<br>executive<br>movements | leadership | does<br>not | prioritize<br>grassroots |
-| | ☐ | Challenges<br>identifying | and<br>vetting<br>social | movement | leaders | |
-| | ☐ | Potential<br>risk<br>posed<br>to | grantees | | | |
-| | ☐ | Potential<br>risk<br>posed<br>to | the<br>foundation | | | |
-| | ☐ | Social<br>movements<br>have | extreme<br>goals | | | |
-| | ☐ | Social<br>movements<br>are | undemocratic | | | |
-| | ☐ | Other<br> | | | | |
-| 14 Please<br>indicate<br>the<br>degree<br>to<br>which<br>these<br>statements<br>represent<br>your<br>personal<br>about<br>your<br>relationship<br>to<br>grassroots<br>organizing<br>and<br>social<br>foundation's<br>in<br>non-democracies. | | | | | | |
-| | | | | | | views<br>movements |
-| | ☐ | My<br>foundation's<br>level<br>of | support<br>should | remain<br>as<br>is | | |
-| | | Strongly<br>Disagree | Disagree | Neutral | Agree | Strongly<br>Agree |
-| | ☐ | My<br>foundation<br>should | decrease<br>support | | | |
-| | | Strongly<br>Disagree | Disagree | Neutral | Agree | Strongly<br>Agree |
-| | ☐ | My<br>foundation<br>should | increase | directnancial<br>support | | |
-| | | Strongly<br>Disagree | Disagree | Neutral | Agree | Strongly<br>Agree |
-| | ☐ | My<br>foundation<br>should<br>organizations<br>or<br>pooled | increasenancial<br>funds | support<br>via | intermediaries, | sub-granting |
-| | | Strongly<br>Disagree | Disagree | Neutral | Agree | Strongly<br>Agree |
-| | ☐ | My<br>foundation<br>should<br>political<br>environment<br>such | increase<br>non-nancial<br>as<br>advocating | support (e g ,<br>with<br>diplomats | activities<br>or<br>lobbying | that<br>shape<br>the<br>elected<br>ocials) |
+| | ☐ | My
+foundation
+cannot | fund
+unregistered | or
+informal | entities | |
+| | ☐ | My
+foundation
+does
+not | oer
+rapid | response
+funding | | |
+| | ☐ | My
+foundation
+does
+not | oer
+core | operating
+orexible | funding | |
+| | ☐ | My
+foundation's
+board
+organizing
+or
+social | and/or
+executive
+movements | leadership | does
+not | prioritize
+grassroots |
+| | ☐ | Challenges
+identifying | and
+vetting
+social | movement | leaders | |
+| | ☐ | Potential
+risk
+posed
+to | grantees | | | |
+| | ☐ | Potential
+risk
+posed
+to | the
+foundation | | | |
+| | ☐ | Social
+movements
+have | extreme
+goals | | | |
+| | ☐ | Social
+movements
+are | undemocratic | | | |
+| | ☐ | Other
+ | | | | |
+| 14 Please
+indicate
+the
+degree
+to
+which
+these
+statements
+represent
+your
+personal
+about
+your
+relationship
+to
+grassroots
+organizing
+and
+social
+foundation's
+in
+non-democracies. | | | | | | |
+| | | | | | | views
+movements |
+| | ☐ | My
+foundation's
+level
+of | support
+should | remain
+as
+is | | |
+| | | Strongly
+Disagree | Disagree | Neutral | Agree | Strongly
+Agree |
+| | ☐ | My
+foundation
+should | decrease
+support | | | |
+| | | Strongly
+Disagree | Disagree | Neutral | Agree | Strongly
+Agree |
+| | ☐ | My
+foundation
+should | increase | directnancial
+support | | |
+| | | Strongly
+Disagree | Disagree | Neutral | Agree | Strongly
+Agree |
+| | ☐ | My
+foundation
+should
+organizations
+or
+pooled | increasenancial
+funds | support
+via | intermediaries, | sub-granting |
+| | | Strongly
+Disagree | Disagree | Neutral | Agree | Strongly
+Agree |
+| | ☐ | My
+foundation
+should
+political
+environment
+such | increase
+non-nancial
+as
+advocating | support (e g ,
+with
+diplomats | activities
+or
+lobbying | that
+shape
+the
+elected
+ocials) |
 
-| 15 What<br>are<br>the<br>primary<br>constraint(s)<br>that<br>keep<br>your<br>foundation<br>from<br>giving<br>the<br>level<br>and/<br>or<br>type<br>of<br>support<br>you<br>think<br>it<br>should<br>for<br>grassroots<br>organizing<br>and<br>social<br>movements? |
+| 15 What
+are
+the
+primary
+constraint(s)
+that
+keep
+your
+foundation
+from
+giving
+the
+level
+and/
+or
+type
+of
+support
+you
+think
+it
+should
+for
+grassroots
+organizing
+and
+social
+movements? |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <br>16 Are<br>there<br>any<br>other<br>comments,<br>reections,<br>lessons<br>learned<br>etc that<br>you<br>think<br>are<br>important<br>to<br>this<br>research?<br> |
-| 17 Would<br>you<br>be<br>open<br>to<br>having<br>a<br>follow-up<br>conversation?<br>If<br>yes,<br>please<br>email<br> |
+| 
+16 Are
+there
+any
+other
+comments,
+reections,
+lessons
+learned
+etc that
+you
+think
+are
+important
+to
+this
+research?
+ |
+| 17 Would
+you
+be
+open
+to
+having
+a
+follow-up
+conversation?
+If
+yes,
+please
+email
+ |
 ## | |
 
 Any follow-up conversation would not be anonymous - but if you wish - could be condential

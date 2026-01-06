@@ -1,3 +1,8 @@
+---
+title: "## **Nitricity Workers Launch Rare Union Drive at Start-up**"
+category: "labor"
+---
+
 ## **Nitricity Workers Launch Rare Union Drive at Start-up**
 
 ## **Date:** Fri, 04/29/2022 - 00:00

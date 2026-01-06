@@ -1,26 +1,8 @@
 ---
-title: Ferguson and the Criminalization of American Life
-author: David Graeber
-date: 'March 19th, 2015'
-pubdate: '2022-12-22T03:25:15'
-language: en
-source_url: >-
-  https://www.gawker.com/ferguson-and-the-criminalization-of-american-life-1692392051
-notes: >-
-  David Graeber teaches anthropology at the London School of Economics. He is
-  the author of <em>Debt: The First 5,000 Years</em>, <em>Towards an
-  Anthropological Theory of Value</em>, <em>Lost People: Magic and the Legacy of
-  Slavery in Madagascar</em>, <em>Fragments of an Anarchist Anthropology</em>,
-  <em>Possibilities: Essays on Hierarchy</em>, <em>Rebellion, and Desire</em>,
-  and <em>Direct Action: An Ethnography</em>. His latest book is <em>The Utopia
-  of Rules</em>.
-original_format: muse
-converted_date: '2025-11-08T11:25:03.126341'
-tags:
-  - theory
-  - contemporary
-  - rent
-  - police
+title: "Ferguson and the Criminalization of American Life"
+author: "David Graeber"
+date: "March 19th, 2015"
+category: "contemporary-analysis"
 ---
 
 The Department of Justice's investigation of the Ferguson Police Department has scandalized the nation, and justly so. But the department's institutional racism, while shocking, isn't the report's most striking revelation.

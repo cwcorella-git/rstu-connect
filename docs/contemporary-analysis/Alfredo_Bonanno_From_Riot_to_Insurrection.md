@@ -1,3 +1,8 @@
+---
+title: "**From Riot to Insurrection**"
+category: "contemporary-analysis"
+---
+
 # **From Riot to Insurrection**
 
 **Analysis for an anarchist perspective against post-industrial capitalism**

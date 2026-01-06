@@ -1,3 +1,8 @@
+---
+title: "**Episode 41: What Is Rationality/**"
+category: "contemporary-analysis"
+---
+
 # **Episode 41: What Is Rationality/**
 
 **Source:** https://www.meaningcrisis.co/ep-41-awakening-from-the-meaning-crisis-what-is-rationality/
@@ -184,14 +189,19 @@ So what we're going to need to do is to come back and look more about at Stanovi
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | - END - |
 | Episode 41 Notes: |
-| To keep this site running, we are an Amazon Associate where we earn from qualifying<br>purchases |
+| To keep this site running, we are an Amazon Associate where we earn from qualifying
+purchases |
 | Stanovich |
-| Keith E. Stanovich is Emeritus Professor of Applied Psychology and Human Development,<br>University of Toronto and former Canada Research Chair of Applied Cognitive Science. |
+| Keith E. Stanovich is Emeritus Professor of Applied Psychology and Human Development,
+University of Toronto and former Canada Research Chair of Applied Cognitive Science. |
 | Article Mentioned: Individual Differences in Reasoning: Implications for the Rationality Debate |
 | Cohen |
-| Laurence Jonathan Cohen, FBA, usually cited as L. Jonathan Cohen, was a British<br>philosopher. |
+| Laurence Jonathan Cohen, FBA, usually cited as L. Jonathan Cohen, was a British
+philosopher. |
 | Cherniak |
-| Christopher Cherniak is an American neuroscientist, a member of the University of Maryland<br>Philosophy Department. Cherniak's research trajectory started in theory of knowledge and led<br>into computational neuroanatomy and genomics. |
+| Christopher Cherniak is an American neuroscientist, a member of the University of Maryland
+Philosophy Department. Cherniak's research trajectory started in theory of knowledge and led
+into computational neuroanatomy and genomics. |
 ## | Herbert Simon |
 
 Herbert Alexander Simon was an American economist, political scientist and cognitive psychologist, whose primary research interest was decision-making within organizations and is best known for the theories of "bounded rationality" and "satisficing".

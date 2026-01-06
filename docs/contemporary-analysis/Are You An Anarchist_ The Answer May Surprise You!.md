@@ -1,3 +1,8 @@
+---
+title: "**David Graeber**"
+category: "contemporary-analysis"
+---
+
 # **David Graeber**
 
 # **Are You An Anarchist? The Answer May Surprise You!**
@@ -44,4 +49,4 @@ Now, you might object that all this is well and good as a way for small groups o
 
 Retrieved on 2009-11-09 from [nymaa.org/surprise\\_anarchist](https://web.archive.org/web/20091202090253/http://nymaa.org/surprise_anarchist)
 
-See also: David Graeber Institute<https://davidgraeber.institute/>& [https://](https://davidgraeber.org/) [davidgraeber.org/](https://davidgraeber.org/)
+See also: David Graeber Institute& [https://](https://davidgraeber.org/) [davidgraeber.org/](https://davidgraeber.org/)

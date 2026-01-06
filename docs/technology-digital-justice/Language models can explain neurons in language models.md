@@ -1,3 +1,8 @@
+---
+title: "Language models can explain neurons in language models"
+category: "technology-digital-justice"
+---
+
 [openaipublic.blob.core.windows.net](https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html)
 
 # Language models can explain neurons in language models

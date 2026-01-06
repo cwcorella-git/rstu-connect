@@ -2,10 +2,7 @@
 title: "Rent Stabilization MYTHS Nevada Realtors Want YOU to Believe"
 author: "RSTU Research Team"
 date: "2025-09-10"
-category: "Policy"
-tags: ["rent control", "policy", "myths", "realtors"]
-excerpt: "Debunking the misleading claims that real estate interests use to oppose tenant protections."
-featured: false
+category: "housing"
 ---
 
 # Rent Stabilization MYTHS Nevada Realtors Want YOU to Believe

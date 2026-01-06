@@ -1,3 +1,8 @@
+---
+title: "## **Revolutionary syndicalism**"
+category: "theory"
+---
+
 ## **Revolutionary syndicalism**
 
 ## **Date:** Unknown

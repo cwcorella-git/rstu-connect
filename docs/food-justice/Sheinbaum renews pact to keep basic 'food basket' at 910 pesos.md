@@ -1,3 +1,8 @@
+---
+title: "[mexiconewsdaily.com](https://mexiconewsdaily.com/news/sheinbaum-renews-anti-inflation-food-basket-m"
+category: "food-justice"
+---
+
 [mexiconewsdaily.com](https://mexiconewsdaily.com/news/sheinbaum-renews-anti-inflation-food-basket-mexico/)
 
 ## **Sheinbaum renews pact to freeze prices on essential grocery items**

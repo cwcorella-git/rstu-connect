@@ -1,3 +1,8 @@
+---
+title: "## **Students Lead the Militancy!**"
+category: "youth-student-organizing"
+---
+
 ## **Students Lead the Militancy!**
 
 ## **Date:** Unknown

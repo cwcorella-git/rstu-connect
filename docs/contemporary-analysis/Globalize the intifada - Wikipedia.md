@@ -1,3 +1,8 @@
+---
+title: "**Globalize the intifada**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Globalize_the_intifada)
 
 # **Globalize the intifada**

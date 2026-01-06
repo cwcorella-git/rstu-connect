@@ -1,3 +1,8 @@
+---
+title: "**Wisconsin**"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 # **Wisconsin**
@@ -65,11 +70,14 @@ Tammy [Baldwin](https://en.wikipedia.org/wiki/Tammy_Baldwin) [\(D](https://en.wi
 
 | • Total | 65,500 sq mi |
 |---------|----------------------|
-| | (169,640 km2<br>) |
+| | (169,640 km2
+) |
 | • Land | 54,153 sq mi |
-| | (140,256 km2<br>) |
+| | (140,256 km2
+) |
 | • Water | 11,345 sq mi |
-| | (29,384 km2<br>) 17% |
+| | (29,384 km2
+) 17% |
 ## | • Rank | 23rd[1] |
 
 ## **Dimensions**
@@ -92,29 +100,49 @@ The first European to visit what became Wisconsin was probably the French explor
 
 The British gradually took over Wisconsin during the French and Indian War, taking control of Green Bay in 1761 and gaining control of all of Wisconsin in 1763. Like the
 
-| • Length<br>• Width | 315 mi (507 km)<br>265 mi (427 km) |
+| • Length
+• Width | 315 mi (507 km)
+265 mi (427 km) |
 |------------------------------------------------------------|-------------------------------------------------------|
-| Elevation<br>Highest elevation<br>[10][11])<br>(Timms Hill | 1,050 ft (320 m)<br>1,952 ft (595 m) |
-| Lowest elevation<br>[10][11])<br>(Lake Michigan | 577 ft (176 m) |
+| Elevation
+Highest elevation
+[10][11])
+(Timms Hill | 1,050 ft (320 m)
+1,952 ft (595 m) |
+| Lowest elevation
+[10][11])
+(Lake Michigan | 577 ft (176 m) |
 | Population (2024) | |
-| • Total | [2]<br>5,960,975 |
+| • Total | [2]
+5,960,975 |
 | • Rank | 20th |
-| • Density | 108.8/sq mi<br>(42.0/km2<br>) |
-| • Median household<br>income | [3]<br>\$74,600 (2023) |
+| • Density | 108.8/sq mi
+(42.0/km2
+) |
+| • Median household
+income | [3]
+\$74,600 (2023) |
 | • Income rank | 26th |
-| Demonyms | Wisconsinite,<br>Cheesehead<br>(colloquial) |
+| Demonyms | Wisconsinite,
+Cheesehead
+(colloquial) |
 | Language | |
 | • Official language | None |
 | • Spoken language | English 90.7% |
 | | Spanish 5.0% |
 | | Other 4.3%[4] |
-| Time zone<br>• Summer (DST) | UTC– 06:00 (Central)<br>UTC– 05:00 (CDT) |
+| Time zone
+• Summer (DST) | UTC– 06:00 (Central)
+UTC– 05:00 (CDT) |
 | USPS abbreviation | WI |
 | ISO 3166 code | US-WI |
-| Traditional<br>abbreviation | Wis., Wisc. |
+| Traditional
+abbreviation | Wis., Wisc. |
 | Latitude | 42°30' N to 47°05′ N |
 | Longitude | 86°46′ W to 92°54′ W |
-| Website | www.wisconsin.gov (h<br>ttps://www.wisconsin.<br>gov) |
+| Website | www.wisconsin.gov (h
+ttps://www.wisconsin.
+gov) |
 
 ## ![](_page_1_Picture_10.jpeg)
 
@@ -166,23 +194,23 @@ Beginning in the 1890s, farmers in Wisconsin shifted from wheat to dairy product
 
 ## ![](_page_3_Picture_2.jpeg)
 
-The <u>Daniel E. Krause Stone Barn</u> in <u>Chase</u> was built in 1903, as dairy farming spread across the state.
+The Daniel E. Krause Stone Barn in Chase was built in 1903, as dairy farming spread across the state.
 
-<u>Babcock</u> at the <u>University of Wisconsin</u>, helped the state build a reputation as "America's Dairyland". [58] Meanwhile, conservationists including <u>Aldo Leopold</u> helped re-establish the state's forests during the early 20th century, paving the way for a more renewable lumber and <u>paper milling</u> industry as well as promoting recreational tourism in the northern woodlands. Manufacturing also boomed in Wisconsin during the early 20th century, driven by an immense immigrant workforce arriving from Europe. Industries in cities like Milwaukee ranged from brewing and food processing to heavy machine production and tool-making, leading Wisconsin to rank 8th among U. S. states in total product value by 1910. [60]
+Babcock at the University of Wisconsin, helped the state build a reputation as "America's Dairyland". [58] Meanwhile, conservationists including Aldo Leopold helped re-establish the state's forests during the early 20th century, paving the way for a more renewable lumber and paper milling industry as well as promoting recreational tourism in the northern woodlands. Manufacturing also boomed in Wisconsin during the early 20th century, driven by an immense immigrant workforce arriving from Europe. Industries in cities like Milwaukee ranged from brewing and food processing to heavy machine production and tool-making, leading Wisconsin to rank 8th among U. S. states in total product value by 1910. [60]
 
 # **Progressive era and World Wars**
 
-The early 20th century was notable for the emergence of <u>progressive</u> politics championed by <u>Robert M. La Follette</u>, who served as governor from 1901 to 1906 and U. S. senator from 1906 to 1925. Between 1901 and 1914, Progressive Republicans in Wisconsin created the nation's first comprehensive statewide <u>primary election</u> system, $\frac{[62]}{[64]}$ the first effective <u>workplace injury compensation</u> law, $\frac{[63]}{[63]}$ and the first state <u>income tax</u>, $\frac{[64]}{[64]}$ making taxation proportional to actual earnings.
+The early 20th century was notable for the emergence of progressive politics championed by Robert M. La Follette, who served as governor from 1901 to 1906 and U. S. senator from 1906 to 1925. Between 1901 and 1914, Progressive Republicans in Wisconsin created the nation's first comprehensive statewide primary election system, $\frac{[62]}{[64]}$ the first effective workplace injury compensation law, $\frac{[63]}{[63]}$ and the first state income tax, $\frac{[64]}{[64]}$ making taxation proportional to actual earnings.
 
-During <u>World War I</u>, due to the neutrality of Wisconsin and many of its <u>Republicans</u>, <u>Progressives</u>, and <u>Conservatives</u>, including <u>Germans</u> and <u>Scandinavians</u> who were a significant proportion of the state's population, Wisconsin began to be accused of being the "Traitor State" by many "hyper patriots." [65][66][67][68]
+During World War I, due to the neutrality of Wisconsin and many of its Republicans, Progressives, and Conservatives, including Germans and Scandinavians who were a significant proportion of the state's population, Wisconsin began to be accused of being the "Traitor State" by many "hyper patriots." [65][66][67][68]
 
 ## ![](_page_3_Picture_8.jpeg)
 
-<u>Suffragists</u> campaigning, 1916. Wisconsin was among the earliest states to ratify the Nineteenth Amendment.<sup>[61]</sup>
+Suffragists campaigning, 1916. Wisconsin was among the earliest states to ratify the Nineteenth Amendment.[61]
 
 As the war raged on in Europe, La Follette led the antiwar movement in Wisconsin and steered a group of progressive senators in blocking a bill by President Woodrow Wilson that would have armed merchant ships with guns. Many Wisconsin politicians, such as Emanuel L. Philipp and Irvine Lenroot, were accused of having divided loyalties. Even with outspoken opponents to the war, at the onset of the war, many Wisconsinites would abandon neutrality. Businesses, labor and farms all enjoyed prosperity from the war. With over 118,000 going into military service, Wisconsin was the first state to report for the national drafts conducted by the U. S. military. As governor, Philipp was successful in combating anti-German hysteria in the state.
 
-The progressive <u>Wisconsin Idea</u> also promoted the statewide expansion of the University of Wisconsin through the <u>UW-Extension</u> system at this time. The progressive <u>Wisconsin Idea</u> also promoted the statewide expansion of the University of Wisconsin through the <u>UW-Extension</u> system at this time. The <u>Wisconsin Idea</u> system at this time. The <u>Wisconsin Idea</u> scholars at the university generated the plan that became the New Deal's <u>Wisconsin Idea</u> scholars at the university generated the plan that became the New Deal's <u>Wisconsin Idea</u> scholars at the university generated the plan that became the New Deal's <u>Wisconsin Idea</u> scholars at the university generated the plan that became the New Deal's <u>Wisconsin Idea</u> scholars at the university generated the plan that became the New Deal's <u>Wisconsin Idea</u> scholars at the university generated the plan that became the New Deal's <u>Wisconsin Idea</u> scholars at the university generated the plan that became the New Deal's <u>Wisconsin Idea</u> scholars at the university generated the plan that became the New Deal's <u>Wisconsin Idea</u> scholars at the university generated the plan that became the New Deal's <u>Wisconsin Idea</u> scholars at the university generated the plan that became the New Deal's <u>Wisconsin Idea</u> scholars at the university generated the plan that became the New Deal's <u>Wisconsin Idea</u> scholars at the university generated the plan that became the New Deal's <u>Wisconsin Idea</u> scholars at the university generated the plan that became the Wisconsin Idea scholars at the university generated the plan that became the Wisconsin Idea scholars at the university generated the plan that became the Wisconsin Idea scholars at the university generated the plan that became the wisconsin Idea scholars at the university generated the plan that became the wisconsin Idea scholars at the university generated the plan that became the wisconsin Idea scholars at the university generated the plan that became the wisconsin Idea scholars at the university generated the plan that became the wi
+The progressive Wisconsin Idea also promoted the statewide expansion of the University of Wisconsin through the UW-Extension system at this time. The progressive Wisconsin Idea also promoted the statewide expansion of the University of Wisconsin through the UW-Extension system at this time. The Wisconsin Idea system at this time. The Wisconsin Idea scholars at the university generated the plan that became the New Deal's Wisconsin Idea scholars at the university generated the plan that became the New Deal's Wisconsin Idea scholars at the university generated the plan that became the New Deal's Wisconsin Idea scholars at the university generated the plan that became the New Deal's Wisconsin Idea scholars at the university generated the plan that became the New Deal's Wisconsin Idea scholars at the university generated the plan that became the New Deal's Wisconsin Idea scholars at the university generated the plan that became the New Deal's Wisconsin Idea scholars at the university generated the plan that became the New Deal's Wisconsin Idea scholars at the university generated the plan that became the New Deal's Wisconsin Idea scholars at the university generated the plan that became the New Deal's Wisconsin Idea scholars at the university generated the plan that became the New Deal's Wisconsin Idea scholars at the university generated the plan that became the New Deal's Wisconsin Idea scholars at the university generated the plan that became the Wisconsin Idea scholars at the university generated the plan that became the Wisconsin Idea scholars at the university generated the plan that became the Wisconsin Idea scholars at the university generated the plan that became the wisconsin Idea scholars at the university generated the plan that became the wisconsin Idea scholars at the university generated the plan that became the wisconsin Idea scholars at the university generated the plan that became the wisconsin Idea scholars at the university generated the plan that became the wi
 
 After La Follette died, his sons Philip and Robert Jr. took over the Wisconsin Republican Party, later founding the Wisconsin Progressive Party as a successor to their father's Progressive Party. It gained momentum in the mid-1930s with support from President Franklin D. Roosevelt and progressive Democrats, winning offices statewide and in Congress. The party declined after Philip, facing scandal and accusations of authoritarianism, lost reelection in 1938, to Julius P. Heil and left politics to serve in World War II. The National Progressives of America, an organization Philip had hoped would precede a national realignment, then faltered, and the Wisconsin Progressives eventually voted to dissolve. [75][76]
 
@@ -192,7 +220,7 @@ Governor Philip La Follette announces formation of the National Progressives of 
 
 # Mid-20th century to present
 
-In World War II's immediate aftermath, Wisconsinites were divided over issues such as the creation of the <u>United Nations</u>, support for the European recovery, and the growth of the <u>Soviet Union</u>'s power. But when <u>Europe divided</u> into Communist and capitalist camps, and with the Progressive Party's collapse, <u>Robert La Follette Jr.</u> rejoined the Republican Party of
+In World War II's immediate aftermath, Wisconsinites were divided over issues such as the creation of the United Nations, support for the European recovery, and the growth of the Soviet Union's power. But when Europe divided into Communist and capitalist camps, and with the Progressive Party's collapse, Robert La Follette Jr. rejoined the Republican Party of
 
 Wisconsin to run in the 1946 Senate election. He narrowly lost to [Joseph Mc Carthy](https://en.wikipedia.org/wiki/Joseph_Mc Carthy) in the [Republican primary.](https://en.wikipedia.org/wiki/1946_United_States_Senate_election_in_Wisconsin) After the [Chinese Communist](https://en.wikipedia.org/wiki/Chinese_Communist_Revolution) [Revolution](https://en.wikipedia.org/wiki/Chinese_Communist_Revolution) of 1949, public opinion began to continue move toward support for the protection of democracy and capitalism against Communist expansion.[\[77\]](#page-21-13)
 
@@ -210,7 +238,7 @@ Since 2023, [five University of Wisconsin branch campuses have closed,](https://
 
 # **Geography**
 
-Wisconsin is in the [Midwestern United States](https://en.wikipedia.org/wiki/Midwestern_United_States) and is part of both the [Great Lakes region](https://en.wikipedia.org/wiki/Great_Lakes_region) and the [Upper Midwest](https://en.wikipedia.org/wiki/Upper_Midwest). The state has a total area of 65,496 square miles (169,630 km<sup>2</sup> ). Wisconsin is bordered by [Lake Superior](https://en.wikipedia.org/wiki/Lake_Superior) and [Michigan](https://en.wikipedia.org/wiki/Michigan) to the north; by [Lake Michigan](https://en.wikipedia.org/wiki/Lake_Michigan) to the east; by [Illinois](https://en.wikipedia.org/wiki/Illinois) to the south; and by [Iowa](https://en.wikipedia.org/wiki/Iowa) to the southwest and [Minnesota](https://en.wikipedia.org/wiki/Minnesota) to the northwest. A border dispute with Michigan was settled by two cases, both [Wisconsin v. Michigan,](https://en.wikipedia.org/wiki/Wisconsin_v._Michigan) in 1934 and 1935. The state's boundaries include the [Mississippi River](https://en.wikipedia.org/wiki/Mississippi_River) and [St. Croix River](https://en.wikipedia.org/wiki/St._Croix_River_(Wisconsin%E2%80%93Minnesota)) in the west, and the [Menominee](https://en.wikipedia.org/wiki/Menominee_River) [River](https://en.wikipedia.org/wiki/Menominee_River) and [Montreal River](https://en.wikipedia.org/wiki/Montreal_River_(Wisconsin%E2%80%93Michigan)) in the northeast.[\[84\]](#page-21-20)
+Wisconsin is in the [Midwestern United States](https://en.wikipedia.org/wiki/Midwestern_United_States) and is part of both the [Great Lakes region](https://en.wikipedia.org/wiki/Great_Lakes_region) and the [Upper Midwest](https://en.wikipedia.org/wiki/Upper_Midwest). The state has a total area of 65,496 square miles (169,630 km2 ). Wisconsin is bordered by [Lake Superior](https://en.wikipedia.org/wiki/Lake_Superior) and [Michigan](https://en.wikipedia.org/wiki/Michigan) to the north; by [Lake Michigan](https://en.wikipedia.org/wiki/Lake_Michigan) to the east; by [Illinois](https://en.wikipedia.org/wiki/Illinois) to the south; and by [Iowa](https://en.wikipedia.org/wiki/Iowa) to the southwest and [Minnesota](https://en.wikipedia.org/wiki/Minnesota) to the northwest. A border dispute with Michigan was settled by two cases, both [Wisconsin v. Michigan,](https://en.wikipedia.org/wiki/Wisconsin_v._Michigan) in 1934 and 1935. The state's boundaries include the [Mississippi River](https://en.wikipedia.org/wiki/Mississippi_River) and [St. Croix River](https://en.wikipedia.org/wiki/St._Croix_River_(Wisconsin%E2%80%93Minnesota)) in the west, and the [Menominee](https://en.wikipedia.org/wiki/Menominee_River) [River](https://en.wikipedia.org/wiki/Menominee_River) and [Montreal River](https://en.wikipedia.org/wiki/Montreal_River_(Wisconsin%E2%80%93Michigan)) in the northeast.[\[84\]](#page-21-20)
 
 Lying between the [Great Lakes](https://en.wikipedia.org/wiki/Great_Lakes) and the Mississippi River, Wisconsin has a wide variety of geographical features. The state is divided into five distinct regions. In the north, the [Lake](https://en.wikipedia.org/wiki/Lake_Superior_Lowland) [Superior Lowland](https://en.wikipedia.org/wiki/Lake_Superior_Lowland) occupies a belt of land along Lake Superior. Just to the south, the [Northern](https://en.wikipedia.org/wiki/Northern_Highland) [Highland](https://en.wikipedia.org/wiki/Northern_Highland) has massive mixed hardwood and coniferous forests including the 1,500,000-acre (610,000-hectare) [Chequamegon–Nicolet National Forest,](https://en.wikipedia.org/wiki/Chequamegon%E2%80%93Nicolet_National_Forest) as well as thousands of glacial lakes, and the state's highest point, [Timms Hill.](https://en.wikipedia.org/wiki/Timms_Hill) In the middle of the state, the [Central Plain](https://en.wikipedia.org/wiki/Central_Plain_(Wisconsin)) has some unique [sandstone](https://en.wikipedia.org/wiki/Sandstone) formations like the [Dells of the Wisconsin River](https://en.wikipedia.org/wiki/Dells_of_the_Wisconsin_River) in addition to rich farmland. The [Eastern Ridges and Lowlands](https://en.wikipedia.org/wiki/Eastern_Ridges_and_Lowlands) region in the southeast is home to many of Wisconsin's largest
 
@@ -220,7 +248,7 @@ Lying between the [Great Lakes](https://en.wikipedia.org/wiki/Great_Lakes) and t
 
 Wisconsin has geologic formations and deposits that vary in age from over three billion years to several thousand years, with most rocks being millions of years old.[\[87\]](#page-21-23) The oldest geologic formations were created over 600 million years ago during the [Precambrian,](https://en.wikipedia.org/wiki/Precambrian) the majority below the glacial deposits. Much of the Baraboo Range consists of [Baraboo Quartzite](https://en.wikipedia.org/wiki/Baraboo_Quartzite) and other Precambrian [metamorphic rock](https://en.wikipedia.org/wiki/Metamorphic_rock). [\[88\]](#page-22-0)[\[89\]](#page-22-1) This area was not covered by [glaciers](https://en.wikipedia.org/wiki/Glacier) during the most recent ice age, the [Wisconsin Glaciation.](https://en.wikipedia.org/wiki/Wisconsin_Glaciation) [Langlade County](https://en.wikipedia.org/wiki/Langlade_County) has a soil rarely found outside the county called [Antigo silt loam.](https://en.wikipedia.org/wiki/Antigo_(soil)) [\[90\]](#page-22-2)
 
-The state has more than 12,000 named rivers and streams, totaling 84,000 miles (135,000 km) in length.[\[91\]](#page-22-3) It has over 15,000 named lakes, totaling about 1 million acres (4,000 km<sup>2</sup> ). [Lake Winnebago](https://en.wikipedia.org/wiki/Lake_Winnebago) is the largest inland lake, with over 137,700 acres (557 km<sup>2</sup> ), and 88 miles (142 km) of shoreline.
+The state has more than 12,000 named rivers and streams, totaling 84,000 miles (135,000 km) in length.[\[91\]](#page-22-3) It has over 15,000 named lakes, totaling about 1 million acres (4,000 km2 ). [Lake Winnebago](https://en.wikipedia.org/wiki/Lake_Winnebago) is the largest inland lake, with over 137,700 acres (557 km2 ), and 88 miles (142 km) of shoreline.
 
 ## ![](_page_4_Picture_15.jpeg)
 
@@ -230,13 +258,13 @@ The [Driftless](https://en.wikipedia.org/wiki/Driftless_Area) Area is characteri
 
 Sea [caves](https://en.wikipedia.org/wiki/Sea_caves) are located on the shorelines of the [Apostle](https://en.wikipedia.org/wiki/Apostle_Islands) [Islands](https://en.wikipedia.org/wiki/Apostle_Islands) in Lake [Superior.](https://en.wikipedia.org/wiki/Lake_Superior)
 
-Along the two Great Lakes, Wisconsin has over 800 miles (1,300 km) of shoreline (over 500 miles (800 km), not counting minor islands and indentations). [92][93] Many of the <u>named islands in Wisconsin</u> are in the Great Lakes; many surround the <u>Door Peninsula</u> in Lake Michigan or are part of the <u>Apostle Islands</u> in Lake Superior. [94] The Mississippi River and inland lakes and rivers contain the rest of Wisconsin's islands.
+Along the two Great Lakes, Wisconsin has over 800 miles (1,300 km) of shoreline (over 500 miles (800 km), not counting minor islands and indentations). [92][93] Many of the named islands in Wisconsin are in the Great Lakes; many surround the Door Peninsula in Lake Michigan or are part of the Apostle Islands in Lake Superior. [94] The Mississippi River and inland lakes and rivers contain the rest of Wisconsin's islands.
 
 Areas under the protection of the National Park Service include the Apostle Islands National Lakeshore, Ice Age National Scenic Trail, and portions of the Saint Croix National Scenic Riverway and North Country National Scenic Trail. There are an additional 18 National Natural Landmarks in the state that include dune and swales, swamps, bogs, and old-growth forests. Wisconsin has 50 state park units, covering more than 60,570 acres (245.1 km²) in state parks and state recreation areas maintained by the Wisconsin Department of Natural Resources. The Division of Forestry manages a further 471,329 acres (1,907.40 km²) in Wisconsin's state forests.
 
 ## Climate
 
-Most of Wisconsin is classified as warm-summer <u>humid</u> continental climate (<u>Köppen</u> *Dfb*), while southern and southwestern portions are classified as hot-summer humid continental climate (Köppen *Dfa*). The highest temperature ever recorded in the state was in the Wisconsin Dells, on July 13, 1936, where it reached 114 °F (46 °C). The lowest temperature ever recorded in Wisconsin was in the village of <u>Couderay</u>, where it reached -55 °F (-48 °C) on both February 2 and 4, 1996. Wisconsin also receives a large amount of regular snowfall averaging around 40 inches (100 cm) in the southern portions with up to 160 inches (410 cm) annually in the Lake Superior <u>snowbelt</u> each year.
+Most of Wisconsin is classified as warm-summer humid continental climate (Köppen *Dfb*), while southern and southwestern portions are classified as hot-summer humid continental climate (Köppen *Dfa*). The highest temperature ever recorded in the state was in the Wisconsin Dells, on July 13, 1936, where it reached 114 °F (46 °C). The lowest temperature ever recorded in Wisconsin was in the village of Couderay, where it reached -55 °F (-48 °C) on both February 2 and 4, 1996. Wisconsin also receives a large amount of regular snowfall averaging around 40 inches (100 cm) in the southern portions with up to 160 inches (410 cm) annually in the Lake Superior snowbelt each year.
 
 ## ![](_page_5_Figure_4.jpeg)
 
@@ -291,7 +319,8 @@ Medium-size cities dot the state. The largest of these is [Green Bay](https://en
 
 Wisconsin [Municipalities](https://en.wikipedia.org/wiki/Administrative_divisions_of_Wisconsin) map of [counties](https://en.wikipedia.org/wiki/List_of_counties_in_Wisconsin), [cities](https://en.wikipedia.org/wiki/List_of_cities_in_Wisconsin), [villages](https://en.wikipedia.org/wiki/List_of_villages_in_Wisconsin), and [towns](https://en.wikipedia.org/wiki/List_of_towns_in_Wisconsin).
 
-| | Largest cities or towns in Wisconsin<br>[103] | | | | | | | | | | | |
+| | Largest cities or towns in Wisconsin
+[103] | | | | | | | | | | | |
 |------|-----------------------------------------------|------------|---------|------|-----------------|-------------|--------|--|--|--|--|--|
 | Rank | Name | County | Pop. | Rank | Name | County | Pop. | | | | | |
 | 1 | Milwaukee | Milwaukee | 577,222 | 11 | West Allis | Milwaukee | 60,325 | | | | | |
@@ -337,23 +366,28 @@ Wisconsin [Municipalities](https://en.wikipedia.org/wiki/Administrative_division
 | 2000 | 5,363,675 | 9.6% |
 | 2010 | 5,686,986 | 6.0% |
 | 2020 | 5,893,718 | 3.6% |
-| 2024 (est.) | 5,960,975 <sup>[104]</sup> | 1.1% |
-## | Soul | rce: 1910–2020 <sup>[105</sup> | 1 |
+| 2024 (est.) | 5,960,975 [104] | 1.1% |
+## | Soul | rce: 1910–2020 [105 | 1 |
 
-The <u>United States Census Bureau</u> estimates that the population of Wisconsin was 5,822,434 on July 1, 2019, a 2.4% increase since the <u>2010 United States census</u>. [106] This includes a natural increase since the last census of 150,659 people (i.e., 614,771 births minus 464,112 deaths) and a decrease due to net migration of 12,755 people. Immigration resulted in a net increase of 59,251 people, and migration from within the U. S. resulted in a net decrease of 72,006 people. [107]
+The United States Census Bureau estimates that the population of Wisconsin was 5,822,434 on July 1, 2019, a 2.4% increase since the 2010 United States census. [106] This includes a natural increase since the last census of 150,659 people (i.e., 614,771 births minus 464,112 deaths) and a decrease due to net migration of 12,755 people. Immigration resulted in a net increase of 59,251 people, and migration from within the U. S. resulted in a net decrease of 72,006 people. [107]
 
-According to <u>HUD</u>'s 2022 <u>Annual Homeless Assessment Report</u>, there were an estimated 4,775 <u>homeless</u> people in Wisconsin. $\frac{[108][109]}{}$ 
+According to HUD's 2022 Annual Homeless Assessment Report, there were an estimated 4,775 homeless people in Wisconsin. $\frac{[108][109]}{}$ 
 
 Ethnic composition as of the $\underline{2020 \text{ census}}$ 
 
-| Race and<br>Ethnicity <sup>[110]</sup> | | Alone | | Total |
+| Race and
+Ethnicity [110] | | Alone | | Total |
 |-------------------------------------------|-------|-------|-------|-------|
-| White (non-<br>Hispanic) | 78.6% | | 81.9% | |
-| Hispanic or Latino <sup>[b]</sup> | _ | | 7.6% | |
-| African<br>American<br>(non-<br>Hispanic) | 6.2% | | 7.3% | |
+| White (nonHispanic) | 78.6% | | 81.9% | |
+| Hispanic or Latino [b] | _ | | 7.6% | |
+| African
+American
+(nonHispanic) | 6.2% | | 7.3% | |
 | Asian | 3.0% | | 3.6% | |
-| Native<br>American | 0.8% | | 2.0% | 1 |
-| Pacific<br>Islander | 0.03% | | 0.1% | |
+| Native
+American | 0.8% | | 2.0% | 1 |
+| Pacific
+Islander | 0.03% | | 0.1% | |
 ## | Other | 0.3% | | 1.1% | I |
 
 ## ![](_page_7_Figure_5.jpeg)
@@ -366,7 +400,7 @@ Ethnic composition as of the $\underline{2020 \text{ census}}$
 
 ### Wisconsin historical population by race
 
-| Racial composition | <b>1990</b> <sup>[111]</sup> | <b>2000</b> <sup>[112]</sup> | <b>2010</b> <sup>[113]</sup> | <b>2020</b> <sup>[114]</sup> |
+| Racial composition | 1990 [111] | 2000 [112] | 2010 [113] | 2020 [114] |
 |--------------------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
 | White | 92.2% | 88.9% | 86.2% | 80.4% |
 | Black | 5.0% | 5.7% | 6.3% | 6.4% |
@@ -378,9 +412,9 @@ Ethnic composition as of the $\underline{2020 \text{ census}}$
 | Hispanic or Latino (of any race) | 1.9% | 3.6% | 5.9% | 7.6% |
 | Non-Hispanic white | 91.3% | 87.3% | 83.3% | 78.6% |
 
-In 2022, the five largest European ancestry groups were: <u>German</u> (36%), <u>Irish</u> (10.2%), <u>Polish</u> (7.9%), <u>English</u> (6.7%), and <u>Norwegian</u> (6.3%). German is the most common ancestry in every county in the state, except Menominee, Trempealeau, and Vernon. Wisconsin has the highest percentage of residents of Polish ancestry of any state. According to the 2022 <u>American Community Survey</u>, 7.6% of Wisconsin's population were of <u>Hispanic or Latino</u> origin (of any race). The largest Hispanic ancestry groups were <u>Mexican</u> (5.1%), <u>Puerto</u> Rican (1.1%), Central American (0.4%), and Cuban (0.1%), with 0.9% reporting other Hispanic or Latino origins.
+In 2022, the five largest European ancestry groups were: German (36%), Irish (10.2%), Polish (7.9%), English (6.7%), and Norwegian (6.3%). German is the most common ancestry in every county in the state, except Menominee, Trempealeau, and Vernon. Wisconsin has the highest percentage of residents of Polish ancestry of any state. According to the 2022 American Community Survey, 7.6% of Wisconsin's population were of Hispanic or Latino origin (of any race). The largest Hispanic ancestry groups were Mexican (5.1%), Puerto Rican (1.1%), Central American (0.4%), and Cuban (0.1%), with 0.9% reporting other Hispanic or Latino origins.
 
-Since its founding, Wisconsin has been ethnically heterogeneous. Following the period of French fur traders, the next wave of settlers were miners, many of whom were <u>Cornish</u>, who settled the southwestern area of the state. The next wave was dominated by "Yankees", migrants of <u>English descent</u> from <u>New England</u> and <u>upstate New York</u>; in the early years of statehood, they dominated the state's heavy industry, finance, politics, and education. Between 1850 and 1900, the immigrants were mostly <u>Germans</u>, <u>Scandinavians</u> (the largest group being <u>Norwegian</u>), <u>Irish</u>, and <u>Poles</u>. In the 20th century, a number of African Americans and <u>Mexicans</u> settled in <u>Milwaukee</u>; and after the end of the Vietnam War came an influx of Hmongs.
+Since its founding, Wisconsin has been ethnically heterogeneous. Following the period of French fur traders, the next wave of settlers were miners, many of whom were Cornish, who settled the southwestern area of the state. The next wave was dominated by "Yankees", migrants of English descent from New England and upstate New York; in the early years of statehood, they dominated the state's heavy industry, finance, politics, and education. Between 1850 and 1900, the immigrants were mostly Germans, Scandinavians (the largest group being Norwegian), Irish, and Poles. In the 20th century, a number of African Americans and Mexicans settled in Milwaukee; and after the end of the Vietnam War came an influx of Hmongs.
 
 The various ethnic groups settled in different areas of the state. Although German immigrants settled throughout the state, the largest concentration was in Milwaukee. Norwegian immigrants settled in lumbering and farming areas in the north and west. Irish, Italian, and Polish immigrants settled primarily in urban areas. [119] Menominee County is the only county in the eastern United States with a Native American majority.
 
@@ -410,7 +444,7 @@ census
 
 ## Live births by single race or ethnicity of mother
 
-| Race | <b>2013</b> <sup>[125]</sup> | <b>2014</b> <sup>[126]</sup> | <b>2015</b> <sup>[127]</sup> | <b>2016</b> <sup>[128]</sup> | <b>2017</b> <sup>[129]</sup> | <b>2018</b> <sup>[130]</sup> | <b>2019</b> <sup>[131]</sup> | <b>2020</b> <sup>[132]</sup> | <b>2021</b> <sup>[133]</sup> | <b>2022</b> <sup>[134]</sup> | <b>2023</b> <sup>[135]</sup> |
+| Race | 2013 [125] | 2014 [126] | 2015 [127] | 2016 [128] | 2017 [129] | 2018 [130] | 2019 [131] | 2020 [132] | 2021 [133] | 2022 [134] | 2023 [135] |
 |---------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
 | White | 49,357 | 49,440 | 49,024 | 47,994 | 46,309 | 45,654 | 44,784 | 42,715 | 43,991 | 42,455 | 41,471 |
 | | (74.0%) | (73.6%) | (73.1%) | (72.0%) | (71.3%) | (71.2%) | (70.8%) | (70.5%) | (71.2%) | (70.7%) | (69.4%) |
@@ -420,26 +454,27 @@ census
 | | (4.8%) | (5.0%) | (4.9%) | (4.8%) | (4.6%) | (4.9%) | (4.6%) | (4.7%) | (4.3%) | (4.4%) | (4.4%) |
 | American | 1,011 | 980 | 1,029 | 689 | 745 | 707 | 664 | 573 | 546 | 499 | 486 |
 | Indian | (1.5%) | (1.5%) | (1.5%) | (1.0%) | (1.1%) | (1.1%) | (1.0%) | (0.9%) | (0.9%) | (0.8%) | (0.8%) |
-| Hispanic<br>(any<br>race) | 6,398<br>(9.6%) | 6,375<br>(9.5%) | 6,604<br>(9.9%) | 6,504<br>(9.8%) | 6,368<br>(9.8%) | 6,365<br>(9.9%) | 6,463<br>(10.2%) | 6,438<br>(10.6%) | 6,923<br>(11.2%) | 6,971<br>(11.6%) | 7,591<br>(12.7%) |
-| Total | <b>66,649</b> (100%) | <b>67,161</b> (100%) | <b>67,041</b> (100%) | <b>66,615</b> (100%) | <b>64,975</b> (100%) | <b>64,098</b> (100%) | <b>63,270</b> (100%) | <b>60,594</b> (100%) | <b>61,781</b> (100%) | <b>60,049</b> (100%) | <b>59,754</b> (100%) |
+| Hispanic
+(any
+race) | 6,398
+(9.6%) | 6,375
+(9.5%) | 6,604
+(9.9%) | 6,504
+(9.8%) | 6,368
+(9.8%) | 6,365
+(9.9%) | 6,463
+(10.2%) | 6,438
+(10.6%) | 6,923
+(11.2%) | 6,971
+(11.6%) | 7,591
+(12.7%) |
+| Total | 66,649 (100%) | 67,161 (100%) | 67,041 (100%) | 66,615 (100%) | 64,975 (100%) | 64,098 (100%) | 63,270 (100%) | 60,594 (100%) | 61,781 (100%) | 60,049 (100%) | 59,754 (100%) |
 
 - Since 2016, data for births of White Hispanic origin are not collected, but included in one Hispanic group; persons of Hispanic origin may be of any race.
 
 ### Religion
 
-According to Public Religion Research Institute's 2022 American Values Survey, those identifying with a religion or spiritual tradition were approximately 75% of the state's population. [137] 69% of Wisconsinites self-identified as Christian. Specifically, 25% of respondents identified as Mainline Protestant, 12% as Evangelical Protestant, 4% as other Protestants, and 27% as Catholic. Roughly 25% of the population were unaffiliated with any religious body. Small minorities of Jews (1%), Hindus (1%), Buddhists (1%), Jehovah's Witnesses (1%), Unitarian Universalists (1%), Muslims (<1%), Mormons (<1%), and other faiths exist according to this study. [136]
-
-Christianity is the predominant religion in Wisconsin. Per the Association of Religion Data Archives' 2020 study, Catholicism was the singlelargest denomination with 1,237,342 adherents, followed by the Evangelical Lutheran Church in America with 316,245 members and the Wisconsin Evangelical Lutheran Synod with 209,788 adherents. [138] 276,904 adhered to nondenominational Christianity.
-
-## Crime
-
-Statewide FBI Crime statistics for 2009 include 144 murders/non-negligent manslaughter; 1,108 rapes; 4,850 robberies; 8,431 aggravated assaults; and 147,486 property crimes. [139] Wisconsin also publishes its own statistics through the Bureau of Justice Information and Analysis. [140] The state reported 14,603 violent crimes in 2009, with a clearance rate (% solved) of 50%. [141] The state reported 4,633 sexual assaults in 2009, with an overall clearance rate for sexual assaults of 57%.
-
-# **Economy**
-
-In 2023, Wisconsin's gross state product was \$413.966 billion, making it 21st among U. S. states. [142] The economy of Wisconsin is driven by manufacturing, agriculture, and tourism. The per capita personal income was \$61,475 in 2022 and was \$66,596 when adjusted by regional price parity. In 2024, the state's seasonally adjusted unemployment rate has hovered at 3.0%, lower than the U. S. average. [143] Since 2009, Wisconsin's minimum wage has been \$7.25, the same as the federal rate. [144]
-
-Eight corporations based in Wisconsin are listed on the <u>Fortune 500</u>. In 2024, the list included Northwestern Mutual, Fisery, <u>Manpower Group</u>, <u>Rockwell Automation</u>, and <u>WEC Energy Group</u> (all based in Milwaukee), as well as <u>Kohl's</u> (based in Menomonee Falls), <u>American Family Insurance</u> (based in Madison), and <u>Oshkosh Corporation</u> (based in <u>Oshkosh</u>).
+According to Public Religion Research Institute's 2022 American Values Survey, those identifying with a religion or spiritual tradition were approximately 75% of the state's population. [137] 69% of Wisconsinites self-identified as Christian. Specifically, 25% of respondents identified as Mainline Protestant, 12% as Evangelical Protestant, 4% as other Protestants, and 27% as Catholic. Roughly 25% of the population were unaffiliated with any religious body. Small minorities of Jews (1%), Hindus (1%), Buddhists (1%), Jehovah's Witnesses (1%), Unitarian Universalists (1%), Muslims (Fortune 500. In 2024, the list included Northwestern Mutual, Fisery, Manpower Group, Rockwell Automation, and WEC Energy Group (all based in Milwaukee), as well as Kohl's (based in Menomonee Falls), American Family Insurance (based in Madison), and Oshkosh Corporation (based in Oshkosh).
 
 ## ![](_page_10_Figure_3.jpeg)
 
@@ -447,9 +482,9 @@ Eight corporations based in Wisconsin are listed on the <u>Fortune 500</u>. In 2
 
 As of 2015, the number of manufacturing jobs in the state was approximately 500,000, similar to the figure in 1970. However, it declined as a share of the state's gross state product between 2000 and 2016 from about 21.5% to 18.5%, a proportion that is eighth among all states. [146] Similarly, as a share of total employment, manufacturing declined from 28% in 1970 to 14% in 2015. The state's economic output from manufacturing was \$48.9 billion in 2008, making it the tenth largest among states in manufacturing gross domestic product. [147]
 
-Major Wisconsin companies in manufacturing include the <u>Kohler Company</u>; <u>Mercury Marine</u>; <u>Rockwell Automation</u>; <u>Johnson Controls</u>; <u>John Deere</u>; <u>Briggs & Stratton</u>; <u>Milwaukee Electric Tool Company</u>; <u>Miller Electric</u>; <u>Caterpillar Inc.</u>; <u>Joy Global</u>; <u>Oshkosh Corporation</u>; <u>Harley-Davidson</u>; <u>Case IH</u>; <u>S. C. Johnson & Son</u>; <u>Ashley Furniture</u>; <u>Ariens</u>; and <u>Evinrude Outboard Motors</u>.
+Major Wisconsin companies in manufacturing include the Kohler Company; Mercury Marine; Rockwell Automation; Johnson Controls; John Deere; Briggs & Stratton; Milwaukee Electric Tool Company; Miller Electric; Caterpillar Inc.; Joy Global; Oshkosh Corporation; Harley-Davidson; Case IH; S. C. Johnson & Son; Ashley Furniture; Ariens; and Evinrude Outboard Motors.
 
-Wisconsin has a significant lumber industry, being a major producer of paper and packaging. Wisconsin ranks first nationwide in the production of paper products; the lower Fox River from <u>Lake Winnebago</u> to Green Bay has 24 paper mills along its 39 miles (63 km) stretch. [148]
+Wisconsin has a significant lumber industry, being a major producer of paper and packaging. Wisconsin ranks first nationwide in the production of paper products; the lower Fox River from Lake Winnebago to Green Bay has 24 paper mills along its 39 miles (63 km) stretch. [148]
 
 A large part of the state's manufacturing sector includes commercial food processing, including well-known brands such as Oscar Mayer, Tombstone frozen pizza, Johnsonville brats, and Usinger's sausage. Kraft Foods alone employs more than 5,000 people in the state. Milwaukee is a major producer of beer and was formerly headquarters for Miller Brewing Company—the nation's second-largest brewer—until it merged with Coors. Formerly, Schlitz, Blatz, and Pabst were cornerstone breweries in Milwaukee.
 
@@ -457,13 +492,13 @@ The development and manufacture of healthcare devices and software is a growing 
 
 ## ![](_page_10_Picture_10.jpeg)
 
-The <u>U. S. Bank Center</u> in <u>downtown Milwaukee</u> is home to the main headquarters of <u>Baird, Foley & Lardner</u>, and <u>Sensient Technologies</u>, as well as regional headquarters for U. S. Bank and IBM.
+The U. S. Bank Center in downtown Milwaukee is home to the main headquarters of Baird, Foley & Lardner, and Sensient Technologies, as well as regional headquarters for U. S. Bank and IBM.
 
 ### **Agriculture**
 
 Wisconsin produces about a quarter of America's cheese, leading the nation in cheese production. [149] It is second in milk production, after $\underline{\text{California}}$ , and third in per-capita milk production, behind California and $\underline{\text{Vermont}}$ , [151] Wisconsin is second in butter production, producing about one-quarter of the nation's butter. [152] Wisconsin requires cheese and butter makers to hold a license for production, being the only state in the US to require certification for either. [153]
 
-The state ranks first nationally in the production of corn for silage, <u>cranberries</u>, $\frac{[154]}{ginseng}$ , $\frac{[155]}{ginseng}$ and $\frac{[155]}{ginseng}$ and $\frac{[155]}{ginseng}$ and $\frac{[155]}{ginseng}$ and $\frac{[155]}{ginseng}$ . Wisconsin is also a leading producer of $\frac{[154]}{ginseng}$ , potatoes, carrots, tart <u>cherries</u>, $\frac{[154]}{ginseng}$ , and $\frac{[155]}{ginseng}$ .
+The state ranks first nationally in the production of corn for silage, cranberries, $\frac{[154]}{ginseng}$ , $\frac{[155]}{ginseng}$ and $\frac{[155]}{ginseng}$ and $\frac{[155]}{ginseng}$ and $\frac{[155]}{ginseng}$ and $\frac{[155]}{ginseng}$ . Wisconsin is also a leading producer of $\frac{[154]}{ginseng}$ , potatoes, carrots, tart cherries, $\frac{[154]}{ginseng}$ , and $\frac{[155]}{ginseng}$ .
 
 The significance of the state's agricultural production is exemplified by the depiction of a Holstein cow, an ear of corn, and a wheel of cheese on Wisconsin's [state quarter](https://en.wikipedia.org/wiki/State_quarter) design.[\[156\]](#page-25-1) The state annually selects an "[Alice in Dairyland"](https://en.wikipedia.org/wiki/Alice_in_Dairyland) to promote the state's agricultural products around the world.[\[157\]](#page-25-2) The prominence of the dairy industry in Wisconsin has led to Wisconsin being known as "America's Dairyland",[\[158\]](#page-25-3)[\[6\]](#page-18-1) which was made the official state slogan in 1940.[\[159\]](#page-25-4)
 
@@ -573,7 +608,7 @@ Milwaukee hosts [Summerfest,](https://en.wikipedia.org/wiki/Summerfest) dubbed "
 
 ## **Recreation**
 
-The varied landscape of Wisconsin makes the state a popular vacation destination for outdoor recreation. Winter events include skiing, ice fishing and [snowmobile derbies.](https://en.wikipedia.org/wiki/World_Championship_Snowmobile_Derby) Wisconsin is situated on two Great Lakes and has many inland lakes of varied size; the state contains 11,188 square miles (28,980 km<sup>2</sup> ) of water, more than all but three other states[—Alaska,](https://en.wikipedia.org/wiki/Alaska) Michigan, and Florida.[\[199\]](#page-26-19) The [Wisconsin Shipwreck Coast National Marine Sanctuary](https://en.wikipedia.org/wiki/Wisconsin_Shipwreck_Coast_National_Marine_Sanctuary) was established in 2021 in the waters of Lake Michigan off Wisconsin and is the site of a large number of historically significant [shipwrecks](https://en.wikipedia.org/wiki/Shipwreck). [\[200\]](#page-26-20)[\[201\]](#page-26-21)[\[202\]](#page-26-22)
+The varied landscape of Wisconsin makes the state a popular vacation destination for outdoor recreation. Winter events include skiing, ice fishing and [snowmobile derbies.](https://en.wikipedia.org/wiki/World_Championship_Snowmobile_Derby) Wisconsin is situated on two Great Lakes and has many inland lakes of varied size; the state contains 11,188 square miles (28,980 km2 ) of water, more than all but three other states[—Alaska,](https://en.wikipedia.org/wiki/Alaska) Michigan, and Florida.[\[199\]](#page-26-19) The [Wisconsin Shipwreck Coast National Marine Sanctuary](https://en.wikipedia.org/wiki/Wisconsin_Shipwreck_Coast_National_Marine_Sanctuary) was established in 2021 in the waters of Lake Michigan off Wisconsin and is the site of a large number of historically significant [shipwrecks](https://en.wikipedia.org/wiki/Shipwreck). [\[200\]](#page-26-20)[\[201\]](#page-26-21)[\[202\]](#page-26-22)
 
 Outdoor activities are popular in Wisconsin, especially hunting and fishing. One of the most prevalent game animals is the [whitetail deer](https://en.wikipedia.org/wiki/Whitetail_deer). Each year in Wisconsin, well over 600,000 deer-hunting licenses are sold.[\[203\]](#page-27-0) In 2008, the [Wisconsin Department of Natural Resources](https://en.wikipedia.org/wiki/Wisconsin_Department_of_Natural_Resources) projected the pre-hunt deer population to be between 1.5 and 1.7 million.
 
@@ -677,17 +712,17 @@ Wisconsin is served by eight commercial service airports, in addition to a numbe
 
 Wisconsin is served by multiple [intercity bus](https://en.wikipedia.org/wiki/Intercity_bus) operators, which provide service to 71 stops and 53 cities. The following carriers provide scheduled bus service: [Amtrak Thruway](https://en.wikipedia.org/wiki/Amtrak_Thruway), [Badger Bus](https://en.wikipedia.org/wiki/Badger_Bus), [Flixbus,](https://en.wikipedia.org/wiki/Flixbus) [Greyhound Lines,](https://en.wikipedia.org/wiki/Greyhound_Lines) [Indian Trails](https://en.wikipedia.org/wiki/Indian_Trails), [Jefferson Lines,](https://en.wikipedia.org/wiki/Jefferson_Lines) [Lamers Bus Lines](https://en.wikipedia.org/w/index.php?title=Lamers_Bus_Lines&action=edit&redlink=1), [Megabus,](https://en.wikipedia.org/wiki/Megabus_(North_America)) [Van Galder Bus Company,](https://en.wikipedia.org/wiki/Van_Galder_Bus_Company) and [Wisconsin Coach Lines](https://en.wikipedia.org/wiki/Wisconsin_Coach_Lines). [\[252\]](#page-29-2)
 
-Wisconsin is served by eight <u>Interstate Highways</u>, consisting of five primary routes and three <u>auxiliary routes</u>. The first part of this system was constructed in 1956, and its most recent expansion took place in 2015, with the addition of <u>I-41</u> to the system. Wisconsin's longest Interstate Highway is <u>I-94</u>. There are also fourteen <u>United States Numbered Highways</u> in the state of Wisconsin, which were designated beginning in 1926 and ending in the mid-1930s. There are also several <u>business routes</u>, usually maintained by local governments. The <u>Wisconsin Department of Transportation</u> maintains <u>158 state trunk highways</u>, ranging from two-lane rural roads to limited-access freeways. These highways are paid for by the state's Transportation Fund, which is considered unique among state highway funds because it is kept entirely separate from the general fund, therefore, revenues received from transportation services are required to be used on transportation. The majority of state highway funding comes from gas taxes and vehicle registration fees. [253]
+Wisconsin is served by eight Interstate Highways, consisting of five primary routes and three auxiliary routes. The first part of this system was constructed in 1956, and its most recent expansion took place in 2015, with the addition of I-41 to the system. Wisconsin's longest Interstate Highway is I-94. There are also fourteen United States Numbered Highways in the state of Wisconsin, which were designated beginning in 1926 and ending in the mid-1930s. There are also several business routes, usually maintained by local governments. The Wisconsin Department of Transportation maintains 158 state trunk highways, ranging from two-lane rural roads to limited-access freeways. These highways are paid for by the state's Transportation Fund, which is considered unique among state highway funds because it is kept entirely separate from the general fund, therefore, revenues received from transportation services are required to be used on transportation. The majority of state highway funding comes from gas taxes and vehicle registration fees. [253]
 
 ## ![](_page_17_Picture_1.jpeg)
 
 ## Wind Point Lighthouse on Lake Michigan
 
-Amtrak provides daily passenger rail service between Milwaukee and Chicago through the *Hiawatha*. The *Borealis* provides daily service to Chicago and <u>Saint Paul, Minnesota,</u> and is supplemental to the long-distance cross-country *Empire Builder*, both with stops in several cities across Wisconsin. [254] Commuter rail provider <u>Metra</u>'s <u>Union Pacific North (UP-N) line</u> has its northern terminus in <u>Kenosha</u>, the only Metra line and station in the state of Wisconsin. [255] <u>The Hop</u>, a modern streetcar system in Milwaukee, began service in 2018. The 2.1 mile (3.4 km) initial line runs from <u>Milwaukee Intermodal Station</u> to Burns Commons.
+Amtrak provides daily passenger rail service between Milwaukee and Chicago through the *Hiawatha*. The *Borealis* provides daily service to Chicago and Saint Paul, Minnesota, and is supplemental to the long-distance cross-country *Empire Builder*, both with stops in several cities across Wisconsin. [254] Commuter rail provider Metra's Union Pacific North (UP-N) line has its northern terminus in Kenosha, the only Metra line and station in the state of Wisconsin. [255] The Hop, a modern streetcar system in Milwaukee, began service in 2018. The 2.1 mile (3.4 km) initial line runs from Milwaukee Intermodal Station to Burns Commons.
 
 # State symbols
 
-Wisconsin is traditionally known as the "Badger State" due to its early history in <u>lead</u> <u>mining</u>. Many of the state's first settlers were drawn by the prospect of mining in southwest Wisconsin, a mineral-rich region which had been contested between <u>Native Americans</u> and the U. S. Some of the miners lived burrowed within hillsides either due to lack of time or finances to build above-ground structures during the winter. Similar to the <u>American badger</u> using its claws to dig holes, the miners were nicknamed "badgers". The <u>University of Wisconsin–Madison</u> adopted the badger as a mascot in 1889 after the nickname; the badger was named Wisconsin's state animal in 1957. [256]
+Wisconsin is traditionally known as the "Badger State" due to its early history in lead mining. Many of the state's first settlers were drawn by the prospect of mining in southwest Wisconsin, a mineral-rich region which had been contested between Native Americans and the U. S. Some of the miners lived burrowed within hillsides either due to lack of time or finances to build above-ground structures during the winter. Similar to the American badger using its claws to dig holes, the miners were nicknamed "badgers". The University of Wisconsin–Madison adopted the badger as a mascot in 1889 after the nickname; the badger was named Wisconsin's state animal in 1957. [256]
 
 - State nicknames: Badger State, America's Dairyland
 - State motto: Forward
@@ -704,7 +739,7 @@ Wisconsin is traditionally known as the "Badger State" due to its early history 
 - State grain: corn
 - State pastry: kringle
 - State beverage: milk
-- State <u>cocktail</u>: <u>brandy old fashioned</u>
+- State cocktail: brandy old fashioned
 - State dance: polka
 State fossil: trilobite
 State flower: wood violet
@@ -718,7 +753,7 @@ State tree: sugar maple
 
 ## ![](_page_17_Picture_28.jpeg)
 
-The <u>American badger</u> is the <u>state animal</u> of Wisconsin.
+The American badger is the state animal of Wisconsin.
 
 # **See also**
 

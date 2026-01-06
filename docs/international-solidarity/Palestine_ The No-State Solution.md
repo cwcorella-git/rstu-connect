@@ -1,3 +1,8 @@
+---
+title: "Palestine: The No-State Solution"
+category: "international-solidarity"
+---
+
 ## James Herod
 
 # Palestine: The No-State Solution
@@ -24,7 +29,7 @@ Furthermore, the Zionist theft of Palestinian land has proceeded unabated to suc
 
 Moreover, after Israel's ghastly and horrific massacres, bombings, and invasions in recent years of Jenin, Lebanon, and now Gaza, and after decades of its brutal assaults on Palestinians with targeted assassinations of their leaders, house demolitions, blockades, the Wall, random murders, destruction of orchards and olive groves, the theft of water, economic strangulation, imprisonment without trial, torture, starvation, theft of moneys, restriction of travel, destruction of civil society, destruction of infrastructure, and so forth ad nauseam, who in their right mind could still contemplate Israel's continued existence in the Middle East. These crimes have been so beyond the pale as to totally destroy forever any claim some may have made for Israel's legitimacy, or any desire to live with the Israeli state in peace.
 
-And so we come to the one-state solution, which is now being mentioned more frequently, and sometimes seriously argued for.<sup>[4]</sup> Its proponents envision one secular state for historical Palestine in which the civil rights of all citizens would be guaranteed, and in which people from the various religions and ethnicities could live together in equality, freedom, and peace. Such a state would obviously mean the end of the Zionist project and so is vehemently rejected by Zionist Israelis.
+And so we come to the one-state solution, which is now being mentioned more frequently, and sometimes seriously argued for.[4] Its proponents envision one secular state for historical Palestine in which the civil rights of all citizens would be guaranteed, and in which people from the various religions and ethnicities could live together in equality, freedom, and peace. Such a state would obviously mean the end of the Zionist project and so is vehemently rejected by Zionist Israelis.
 
 In truth, the secular state should not be endorsed by anyone. Its supposed benefits are largely a mirage. There is hardly a nation-state anywhere that doesn't practice serious discrimination against internal racial or ethnic minorities, not to mention their seemingly ineradicable oppression of the female half of the human race, or their determined and universal exploitation of the working class. With rare exception the nation-states of the world are controlled by capitalists. Those few which fall into socialist hands end up colluding with capitalists anyway. For decades marxists have written detailed critiques of "bourgeois democracy," as they called it, exposing it as a fraud. So have anarchists. Kropotkin published a blistering attack on representative government 124 years ago in 1885. [5] It's as though he had written it last year just for us. The era of representative government is coming to an end. It is imperative that we make sure that it does end. [6]
 
@@ -46,29 +51,28 @@ James Petras, The Power of Israel in the United States
 
 ## The Web Site of As'ad Abukhalil
 
-<a href="http://www.angryarab.blogspot.com/">http://www.angryarab.blogspot.com/</a>
+http://www.angryarab.blogspot.com/
 
 ## Electronic Intifada
 
-<a href="http://electronicintifada.net/">
 
 ## Uruknet.info
 
-<a href="http://www.uruknet.info/?p=-6">http://www.uruknet.info/?p=-6">p=-6"/>
+http://www.uruknet.info/?p=-6">p=-6"/>
 
 ## New England Committee to Defend Palestine
 
-<a href="http://www.onepalestine.org/">http://www.onepalestine.org/>
+http://www.onepalestine.org/>
 
 ## 2 of 3 9/17/25, 11:29 AM
 
 - [\[1\]](#page-0-0) William Bowles, "The Final Solution is a No-State Solution," on the web at:
-- [<http://www.creative-i.info/?p=4296>](http://www.creative-i.info/?p=4296). This short article, which appeared on several web sites on the Internet on January 28-29, 2009, is not about the anarchist idea of a no-state solution, as discussed in this essay, but about the Zionist ideological connection with Nazism, and to a doctrine which seeks the eradication of "impure" persons from a population or territory. "No-state" as used by Bowles means that Palestinians will get neither the two-state solution nor the one-state solution. They will get nothing, no state. They will be eliminated or expelled, and "Israel" will be ethnically cleansed.
-- [\[2\]](#page-0-1) Bill Templer, "Reclaiming the Commons in Palestine/Israel: Ya Basta! / Khalas!" on the web at: <[http://](http://mrzine.monthlyreview.org/templer230708p.html) [mrzine.monthlyreview.org/templer230708p.html>](http://mrzine.monthlyreview.org/templer230708p.html).
+- [](http://www.creative-i.info/?p=4296). This short article, which appeared on several web sites on the Internet on January 28-29, 2009, is not about the anarchist idea of a no-state solution, as discussed in this essay, but about the Zionist ideological connection with Nazism, and to a doctrine which seeks the eradication of "impure" persons from a population or territory. "No-state" as used by Bowles means that Palestinians will get neither the two-state solution nor the one-state solution. They will get nothing, no state. They will be eliminated or expelled, and "Israel" will be ethnically cleansed.
+- [\[2\]](#page-0-1) Bill Templer, "Reclaiming the Commons in Palestine/Israel: Ya Basta! / Khalas!" on the web at: ](http://mrzine.monthlyreview.org/templer230708p.html).
  - [\[3\]](#page-0-2) Uri Gordon, "Homeland: Anarchy and Joint Struggle in Palestine/Israel," Ch. 6 in his Anarchy Alive!
 - [\[4\]](#page-1-0) Ali Abunimah, One Country: A Bold Proposal to End the Israeli-Palestinian Impasse; and Joel Kovel, Overcoming Zionism: Creating a Single Democratic State in Israel/Palestine
  - [\[5\]](#page-1-1) Peter Kropotkin, "Representative Government," Ch. 13 in his Words of a Rebel
-- [\[6\]](#page-1-2) A bibliography of literature discrediting representative government can be found online at: <[http://](http://www.neanarchist.net/antielect08/bib) [www.neanarchist.net/antielect08/bib](http://www.neanarchist.net/antielect08/bib)>, entitled "Resource List for the Anti-Elections / Pro-Anarchy Campaign"
+- [\[6\]](#page-1-2) A bibliography of literature discrediting representative government can be found online at: , entitled "Resource List for the Anti-Elections / Pro-Anarchy Campaign"
 
 Published in the 'Newsletter' of the Boston Anti-Authoritarian Movement (BAAM), #18, February 2009
 

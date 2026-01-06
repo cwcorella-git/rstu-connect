@@ -1,14 +1,10 @@
 ---
-date: 2025
-author: Nevada Current
-tags:
-  - organizing
-  - strikes
-  - unions
-  - tenants
-  - housing
 title: "News Analysis and Media Coverage"
+author: "Nevada Current"
+date: "2025"
+category: "misc"
 ---
+
 # News Analysis and Media Coverage
 
 **Date**: September 8, 2025  

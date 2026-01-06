@@ -1,10 +1,16 @@
+---
+title: "**T. A. Z.: The Temporary Autonomous Zone, Ontological Anarchy, Poetic Terrorism**"
+category: "contemporary-analysis"
+---
+
 # **T. A. Z.: The Temporary Autonomous Zone, Ontological Anarchy, Poetic Terrorism**
 
 ## Hakim Bey
 
 # **Contents**
 
-| Acknowledgments<br> | |
+| Acknowledgments
+ | |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
 | Chaos: The Broadsheets of Ontological Anarchism | |
 | Chaos | |
@@ -21,17 +27,29 @@
 | Sorcery | |
 | Advertisement | |
 | Communiques of the Association for Ontological Anarchy | |
-| Communique #1 (spring 1986)<br>I. Slogans & Mottos for Subway Graffiti & Other Purposes<br><br>II. Some Poetic-Terrorist Ideas Still Sadly Languishing in the Realm of "Conceptual Art" | |
+| Communique #1 (spring 1986)
+I. Slogans & Mottos for Subway Graffiti & Other Purposes
+
+II. Some Poetic-Terrorist Ideas Still Sadly Languishing in the Realm of "Conceptual Art" | |
 | Communique #2: The Kallikak Memorial Bolo & Chaos Ashram: A Proposal | |
 ## | Communique #3: Haymarket Issue | |
 
 | Communique #4: The End of the World | |
 |--------------------------------------------------------------------------------------------------------------|--|
-| Communique #5: "Intellectual S/M Is the Fascism of the Eighties — The Avant<br>Garde Eats Shit and Likes It" | |
-| Communique #6<br>I. Salon Apocalypse: "Secret Theater"<br><br>II. Murder — War — Famine — Greed<br> | |
+| Communique #5: "Intellectual S/M Is the Fascism of the Eighties — The Avant
+Garde Eats Shit and Likes It" | |
+| Communique #6
+I. Salon Apocalypse: "Secret Theater"
+
+II. Murder — War — Famine — Greed
+ | |
 | Communique #7: Psychic Paleolithism & High Technology: A Position Paper | |
 | Communique #8: Chaos Theory & the Nuclear Family | |
-| Communique #9: Double-Dip Denunciations<br>I. Xtianity<br><br>II. Abortionists & Anti-abortionists<br> | |
+| Communique #9: Double-Dip Denunciations
+I. Xtianity
+
+II. Abortionists & Anti-abortionists
+ | |
 | Communique #10: Plenary Session Issues New Denunciations — Purges Expected | |
 | Communique #11: Special Holiday Season Food Issue Rant: Turn Off the Lite! | |
 | Special Halloween Communique: Black Magic as Revolutionary Action | |
@@ -60,8 +78,10 @@
 | Appendix A: Chaos Linguistics | 104 |
 | Appendix B: Applied Hedonics | 106 |
 | Appendix C: Extra Quotes | 107 |
-| Pirate Rant<br> | 108 |
-## | The Dinner Party<br> | 108 |
+| Pirate Rant
+ | 108 |
+## | The Dinner Party
+ | 108 |
 
 #### **Acknowledgments**
 

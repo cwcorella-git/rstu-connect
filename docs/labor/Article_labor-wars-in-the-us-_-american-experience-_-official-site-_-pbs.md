@@ -1,13 +1,8 @@
 ---
-title: Labor Wars in the US - American Experience - PBS
-date: 2025
-author: violent struggle
-tags:
-  - organizing
-  - strikes
-  - unions
-  - housing
-  - police
+title: "Labor Wars in the US - American Experience - PBS"
+author: "violent struggle"
+date: "2025"
+category: "labor"
 ---
 
 # Labor Wars in the Us American Experience Official Site Pbs

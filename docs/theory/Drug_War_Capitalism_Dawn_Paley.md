@@ -1,3 +1,8 @@
+---
+title: "Militarization & Economic Transformation in Colombia & Mexico Drug War Capitalism By Dawn Paley"
+category: "theory"
+---
+
 # Militarization & Economic Transformation in Colombia & Mexico Drug War Capitalism By Dawn Paley
 
 IN BOTH THE United States and Canada there have been sustained grassroots efforts to spotlight the unjust mass incarceration and criminalization of poor people, and especially poor people of color, for drug-related arrests. But there has been too little analysis about the reasons behind and mechanisms of this war, and its economic impact on Mexico and beyond.
@@ -122,13 +127,13 @@ Though these non-official aspects of the war on drugs are sometimes presented as
 
 For generations, Indigenous and peasant communities in Colombia had defended their collective title to their lands, yet paramilitary groups effectively forced them to flee. This phenomenon is concisely described by David Maher and Andrew Thompson:
 
-*…paramilitary forces continue to advance a process of capital accumulation through the forced displacement of communities in areas of economic importance. Large sections of Colombia's citizenry continue to abandon their lands as they are forcibly displaced from their homes, satisfying the voracious appetite of foreign (mainly U. S.) multinational corporations (MNCs) for Colombian territory as the neo-liberal economic programme is further entrenched in Colombian society.*<sup>42</sup>
+*…paramilitary forces continue to advance a process of capital accumulation through the forced displacement of communities in areas of economic importance. Large sections of Colombia's citizenry continue to abandon their lands as they are forcibly displaced from their homes, satisfying the voracious appetite of foreign (mainly U. S.) multinational corporations (MNCs) for Colombian territory as the neo-liberal economic programme is further entrenched in Colombian society.*42
 
 In 2001, paramilitaries were responsible for half of all forced displacements in Colombia. Guerrilla groups caused 20% of the cases, with paramilitaries and guerrillas together for another 22%.43 "Paramilitary groups not only bear the bulk of the responsibility, they are also more effective in instigating displacement."44
 
 In Colombia, paramilitarization is also beneficial to transnational corporations wishing to dissuade labor organizing:
 
-*As part of the protracted U. S.-supported counterinsurgency campaign, paramilitary–state violence continues to systematically target civil groups, such as trade union organisations, which are considered a threat to the political and economic "stability" conducive to the neo-liberal development of Colombia. This has made Colombia very attractive to foreign investment as poor working conditions and low wages keep profit margins high.*<sup>45</sup>
+*As part of the protracted U. S.-supported counterinsurgency campaign, paramilitary–state violence continues to systematically target civil groups, such as trade union organisations, which are considered a threat to the political and economic "stability" conducive to the neo-liberal development of Colombia. This has made Colombia very attractive to foreign investment as poor working conditions and low wages keep profit margins high.*45
 
 Well-documented cases of Chiquita Brands, Drummond mining corporation, and BP, the oil giant, have traced the links between paramilitary groups and U. S. and transnational corporations.46 In March of 2007, representatives of Chiquita Brands pled guilty in a Washington, D. C. court to making payments to the Autodefensas Unidas de Colombia (AUC) paramilitaries.47
 

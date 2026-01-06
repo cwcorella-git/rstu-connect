@@ -1,3 +1,8 @@
+---
+title: "## **Class War and the Media**"
+category: "anti-war-peace"
+---
+
 ## **Class War and the Media**
 
 ## **Date:** Unknown

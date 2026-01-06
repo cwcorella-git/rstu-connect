@@ -1,12 +1,8 @@
 ---
-title: Why We Need Unions Heartunions
-date: 2025
-author: Industrial Workers of the World
-tags:
-  - organizing
-  - strikes
-  - unions
-  - labor
+title: "Why We Need Unions Heartunions"
+author: "Industrial Workers of the World"
+date: "2025"
+category: "labor"
 ---
 
 # Why We Need Unions Heartunions

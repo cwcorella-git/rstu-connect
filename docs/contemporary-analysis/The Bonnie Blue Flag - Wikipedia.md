@@ -1,3 +1,8 @@
+---
+title: "**The Bonnie Blue Flag**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/The_Bonnie_Blue_Flag)
 
 # **The Bonnie Blue Flag**

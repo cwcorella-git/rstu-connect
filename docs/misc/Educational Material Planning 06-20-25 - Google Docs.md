@@ -1,14 +1,10 @@
 ---
-date: 2025
-author: Google Docs
-tags:
-  - organizing
-  - unions
-  - tenants
-  - housing
-  - rent
 title: "Educational Material Planning 06-20-25 - Google Docs"
+author: "Google Docs"
+date: "2025"
+category: "misc"
 ---
+
 # Educational Material Planning 06-20-25 - Google Docs
 
 *Converted from: `./Educational Material Planning 06-20-25 - Google Docs.pdf`*  
@@ -132,4 +128,3 @@ title: "Educational Material Planning 06-20-25 - Google Docs"
                - RSTU bylaws
 
 ---
-

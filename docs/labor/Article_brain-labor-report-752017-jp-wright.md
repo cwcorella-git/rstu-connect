@@ -1,11 +1,8 @@
 ---
-title: Brain Labor Report 752017 Jp Wright
-date: 2025
-author: Industrial Workers of the World
-tags:
-  - organizing
-  - unions
-  - labor
+title: "Brain Labor Report 752017 Jp Wright"
+author: "Industrial Workers of the World"
+date: "2025"
+category: "labor"
 ---
 
 # Brain Labor Report 752017 Jp Wright

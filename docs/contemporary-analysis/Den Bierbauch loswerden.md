@@ -1,3 +1,8 @@
+---
+title: "## **Den Bierbauch loswerden**"
+category: "contemporary-analysis"
+---
+
 ## **Den Bierbauch loswerden**
 
 ## **Date:** Unknown

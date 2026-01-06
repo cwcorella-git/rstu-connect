@@ -1,3 +1,8 @@
+---
+title: "**Shulamith Firestone: The Fire / The Fury / The Madness**"
+category: "contemporary-analysis"
+---
+
 # **Shulamith Firestone: The Fire / The Fury / The Madness**
 
 ## **Date:** Unknown

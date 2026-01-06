@@ -1,3 +1,8 @@
+---
+title: "**Digital commons**"
+category: "technology-digital-justice"
+---
+
 ## ![](_page_0_Picture_2.jpeg)
 
 # **Digital commons**
@@ -103,7 +108,7 @@ The tragedy of the digital commons also considers other artificial agents, like 
 - 2. Bauwens, Michel, Kostakis, Vasilis, and Alex Pazaitis. 2019. [Peer to Peer: The](https://www.uwestminsterpress.co.uk/site/books/10.16997/book33/) [Commons Manifesto](https://www.uwestminsterpress.co.uk/site/books/10.16997/book33/) [\(https://www.uwestminsterpress.co.uk/site/books/10.16997/bo](https://www.uwestminsterpress.co.uk/site/books/10.16997/book33/) [ok33/\).](https://www.uwestminsterpress.co.uk/site/books/10.16997/book33/) London: University of Westminster Press
 - 3. Fuster Morell, M. (2010, p. 5). Dissertation: Governance of online creation communities: Provision of infrastructure for the building of digital commons. [http://](http://hdl.handle.net/1814/14709) [hdl.handle.net/1814/14709](http://hdl.handle.net/1814/14709)
 - 4. Dulong de Rosnay, Mélanie; Stalder, Felix (2020). ["Digital commons" \(https://doi.or](https://doi.org/10.14763%2F2020.4.1530) [g/10.14763%2F2020.4.1530\).](https://doi.org/10.14763%2F2020.4.1530) Internet Policy Review. **9** (4). [doi:](https://en.wikipedia.org/wiki/Doi_(identifier))[10.14763/2020.4.1530 \(https://doi.org/10.14763%2F2020.4.1530\).](https://doi.org/10.14763%2F2020.4.1530) [hdl:](https://en.wikipedia.org/wiki/Hdl_(identifier))[10419/233108 \(https://hdl.handle.net/10419%2F233108\).](https://hdl.handle.net/10419%2F233108)
-- 5. Bollier, David. Viral Spiral. How the Commoners Built a Digital Republic of Their Own. New York, London, New Press<http://www.learcenter.org/pdf/Viral Spiral.pdf> [Archived \(https://web.archive.org/web/20181004185548/https://learcenter.org/pdf/](https://web.archive.org/web/20181004185548/https://learcenter.org/pdf/Viral Spiral.pdf) [Viral Spiral.pdf\)](https://web.archive.org/web/20181004185548/https://learcenter.org/pdf/Viral Spiral.pdf) 2018-10-04 at the [Wayback Machine,](https://en.wikipedia.org/wiki/Wayback_Machine) 2008
+- 5. Bollier, David. Viral Spiral. How the Commoners Built a Digital Republic of Their Own. New York, London, New Press [Archived \(https://web.archive.org/web/20181004185548/https://learcenter.org/pdf/](https://web.archive.org/web/20181004185548/https://learcenter.org/pdf/Viral Spiral.pdf) [Viral Spiral.pdf\)](https://web.archive.org/web/20181004185548/https://learcenter.org/pdf/Viral Spiral.pdf) 2018-10-04 at the [Wayback Machine,](https://en.wikipedia.org/wiki/Wayback_Machine) 2008
 - 6. Ghosh, Rishab Aiyer. CODE: Collaborative Ownership and the Digital Economy. Cambridge, MA, MIT Press, 2006
 - 7. ["P2P Foundation:About – P2P Foundation" \(http://p2pfoundation.net/P2P\\_Foundatio](http://p2pfoundation.net/P2P_Foundation:About) [n:About\).](http://p2pfoundation.net/P2P_Foundation:About)
 - 8. Walljasper, Jay. All That We Share: How to save the Economy, the Environment, the Internet, Democracy, Our Communities, and Everything Else That Belongs to All of Us. New York: New, 2010.

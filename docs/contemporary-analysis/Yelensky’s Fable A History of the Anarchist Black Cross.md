@@ -1,3 +1,8 @@
+---
+title: "**Yelensky's Fable: A History of the Anarchist Black Cross**"
+category: "contemporary-analysis"
+---
+
 # **Yelensky's Fable: A History of the Anarchist Black Cross**
 
 ## **Date:** Unknown

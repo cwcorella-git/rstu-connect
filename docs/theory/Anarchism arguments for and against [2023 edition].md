@@ -1,16 +1,10 @@
 ---
-title: Anarchism Arguments For And Against 2023 Edition
-author: Ambrose Cuddon
-slug: 'Anarchism arguments for and against [2023 edition]'
-reconversion_status: ready_for_reconversion
-date: 1981
-tags:
-  - theory
-  - anarchism
-  - strikes
-  - unions
-  - rent
+title: "Anarchism Arguments For And Against 2023 Edition"
+author: "Ambrose Cuddon"
+date: "1981"
+category: "theory"
 ---
+
 # **Anarchism: arguments for and against [2023 edition]**
 
 ## **Date:** Unknown

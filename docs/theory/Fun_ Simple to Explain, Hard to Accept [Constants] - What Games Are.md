@@ -1,3 +1,8 @@
+---
+title: "**Fun: Simple to Explain, Hard to Accept [Constants]**"
+category: "theory"
+---
+
 #### [web.archive.org](https://web.archive.org/web/20250219204325/https://www.whatgamesare.com/2011/09/fun-simple-to-explain-hard-to-accept.html)
 
 # **Fun: Simple to Explain, Hard to Accept [Constants]**

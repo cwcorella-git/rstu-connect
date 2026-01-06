@@ -1,3 +1,8 @@
+---
+title: "Compulsory Miseducation"
+category: "contemporary-analysis"
+---
+
 Much of the sharpest and most fundamental chinking about aducation has been coming from America. This book is one of five titles published simultaneously by Penguin Education. It would be wrong to call these writers a school – they are widely different in stance and style. But they are united, firstly, by their readiness to think of education in (literally) radical ways and to propose radical solutions, secondly, by their deep concern that education should exist primarily for the benefit of those who learn, and lastly, and above all, by their conviction that education – in the modern world as in America – has reached crisis point.
 
 When, at a meeting, I offer that perhaps we already have too much formal schooling and that, under present conditions, the more we get the less education we will get, the others look at me oddly and proceed to discuss how to get more money for schools and how to upgrade the schools. I realize suddenly that I am confronting a mass superstition.

@@ -1,14 +1,24 @@
+---
+title: "## **Voodoo Doughnut Workers Hold National Day of Action**"
+category: "labor"
+---
+
 ## **Voodoo Doughnut Workers Hold National Day of Action**
 
 | Date: Wed, 08/11/2021 - 00:00 |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Source: https://ecology.iww.org/node/4408|
-| Tags: Industrial Workers of the World (IWW), Portland IWW, strikes, union busting, green unionism,<br>climate change, climate emergency, green bans, green syndicalism, Portland |
+| Tags: Industrial Workers of the World (IWW), Portland IWW, strikes, union busting, green unionism,
+climate change, climate emergency, green bans, green syndicalism, Portland |
 | By Shawn Kinnaman - |
 | Industrial Worker |
 | , August 11, 2021 |
-| Our changing climate is increasingly becoming a workplace issue. because these workers<br>engaged in strike action to protest being forced to work in the extreme heat which hit the<br>Pacific Northwest in Summer of 2021, as this article details: |
-| Workers at Voodoo Doughnut in Portland held a national day of action on July 29 to protest<br>against the allegedly illegal firing of staff and to demand better working conditions. The<br>workers, unionized as |
+| Our changing climate is increasingly becoming a workplace issue. because these workers
+engaged in strike action to protest being forced to work in the extreme heat which hit the
+Pacific Northwest in Summer of 2021, as this article details: |
+| Workers at Voodoo Doughnut in Portland held a national day of action on July 29 to protest
+against the allegedly illegal firing of staff and to demand better working conditions. The
+workers, unionized as |
 | Doughnut Workers United |
 | with |
 | the Industrial Workers of the World |

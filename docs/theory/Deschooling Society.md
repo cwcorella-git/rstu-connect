@@ -1,3 +1,8 @@
+---
+title: "**Deschooling Society**"
+category: "theory"
+---
+
 ## **Ivan Illich**
 
 # **Deschooling Society**
@@ -904,14 +909,14 @@ From 1956 to 1960 he was vice-rector of the Catholic University of Puerto Rico. 
 
 "Illich, Ivan — Deschooling Society (Marion Boyars, 1970)" was added by El Vagabundo Argelino.
 
-[<sup>\[1\]</sup>](#page-3-0) Penrose B. Jackson, Trends in Elementary and Secondary Education Expenditures: Central City and Suburban Comparisons 1965 to 1968, U. S. Office of Education, Office of Program and Planning Evaluation, June 1969.
+[\[1\]](#page-3-0) Penrose B. Jackson, Trends in Elementary and Secondary Education Expenditures: Central City and Suburban Comparisons 1965 to 1968, U. S. Office of Education, Office of Program and Planning Evaluation, June 1969.
 
-[<sup>\[2\]</sup>](#page-18-0) For parallel histories of modern capitalism and modern childhood see Philippe Aries, Centuries of Childhood, Knopf, 1962.
+[\[2\]](#page-18-0) For parallel histories of modern capitalism and modern childhood see Philippe Aries, Centuries of Childhood, Knopf, 1962.
 
-[<sup>\[3\]</sup>](#page-40-0) Nichomachean Ethics, 1140.
+[\[3\]](#page-40-0) Nichomachean Ethics, 1140.
 
-[<sup>\[4\]</sup>](#page-41-1) This chapter was presented originally at a meeting of the American Educational Research Association, in New York City, February 6, 1971.
+[\[4\]](#page-41-1) This chapter was presented originally at a meeting of the American Educational Research Association, in New York City, February 6, 1971.
 
-[<sup>\[5\]</sup>](#page-42-0) See Joel Spring, Education and the Rise of the Corporate State, Cuaderno No. 50, Centro Intercultural de Documentatión, Cuernavaca, Mexico, 1971.
+[\[5\]](#page-42-0) See Joel Spring, Education and the Rise of the Corporate State, Cuaderno No. 50, Centro Intercultural de Documentatión, Cuernavaca, Mexico, 1971.
 
-[<sup>\[6\]</sup>](#page-72-1) The three quotations are from "People" from the book Selected Poems by Yevgeny Yevtushenko. Translated and with Introduction by Robin Milner-Gulland and Peter Levi. Published by Penguin Books, 1962, and reprinted with their permission.
+[\[6\]](#page-72-1) The three quotations are from "People" from the book Selected Poems by Yevgeny Yevtushenko. Translated and with Introduction by Robin Milner-Gulland and Peter Levi. Published by Penguin Books, 1962, and reprinted with their permission.

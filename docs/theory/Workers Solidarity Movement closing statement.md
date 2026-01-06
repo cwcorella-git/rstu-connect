@@ -1,3 +1,8 @@
+---
+title: "## **Workers Solidarity Movement closing statement**"
+category: "theory"
+---
+
 ## **Workers Solidarity Movement closing statement**
 
 ## **Date:** Unknown

@@ -1,3 +1,8 @@
+---
+title: "**French Americans**"
+category: "international-solidarity"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/French_Americans)
 
 # **French Americans**
@@ -172,7 +177,8 @@ Estimated French American population in the [Continental](https://en.wikipedia.o
 | Connecticut | 2,100 | 0.90% |
 | Delaware | 750 | 1.62% |
 | Georgia | 1,200 | 2.27% |
-| Kentucky &<br>Tenn. | 2,000 | 2.15% |
+| Kentucky &
+Tenn. | 2,000 | 2.15% |
 | Maine | 1,200 | 1.25% |
 | Maryland | 2,500 | 1.20% |
 | Massachusetts | 3,000 | 0.80% |
@@ -202,7 +208,8 @@ According to the [U. S. Census Bureau](https://en.wikipedia.org/wiki/U. S._Censu
 | State | Percentage |
 |------------------|------------|
 | Maine | 25.0% |
-| New<br>Hampshire | 24.5% |
+| New
+Hampshire | 24.5% |
 | Vermont | 23.9% |
 | Rhode Island | 17.2% |
 | Louisiana | 16.2% |
@@ -212,7 +219,8 @@ According to the [U. S. Census Bureau](https://en.wikipedia.org/wiki/U. S._Censu
 | State | Percentage |
 |-----------------|------------|
 | Wisconsin | 5.0% |
-| North<br>Dakota | 4.7% |
+| North
+Dakota | 4.7% |
 | Washington | 4.6% |
 | Oregon | 4.6% |
 | Wyoming | 4.2% |
@@ -290,13 +298,15 @@ According to the [U. S. Census Bureau](https://en.wikipedia.org/wiki/U. S._Censu
 | | |
 | State(s) | Americans |
 | Midwest | 2,550,000 |
-| New<br>England | 2,320,000 |
+| New
+England | 2,320,000 |
 | California | 1,210,000 |
 | Louisiana | 1,070,000 |
 | New York | 835,300 |
 | Florida | 630,000 |
 | Total | 8,615,300 |
-| Deportation of Acadians from Ac<br>to Thirteen British Colonies i | |
+| Deportation of Acadians from Ac
+to Thirteen British Colonies i | |
 | State | |
 | Massachusetts | |
 | Virginia | |
@@ -319,12 +329,14 @@ Between 1820 and 1920, 530,000 French people came to the United States
 | Georgia | |
 | New York | |
 | Total | |
-| Acadian immigration to Louisia<br>from Canada, New England, an | |
+| Acadian immigration to Louisia
+from Canada, New England, an | |
 | | from 1763 to 1790 |
 | From | Acadians |
 | Canada | 4,000 |
 | | |
-| New<br>England | 1,500 |
+| New
+England | 1,500 |
 ## | France | 1,600 |
 
 ## ![](_page_23_Picture_5.jpeg)

@@ -1,3 +1,8 @@
+---
+title: "ARE PRISONS OBSOLETE?"
+category: "contemporary-analysis"
+---
+
 ## sa.jls: \$13.95 CANADA £6.99 UK
 
 ## ![](_page_0_Picture_2.jpeg)
@@ -44,17 +49,71 @@ Printed in Canada.
 
 #### Contents
 
-| Acknowledgments<br>7 |
+| Acknowledgments
+7 |
 |----------------------------------------------------------------------------------------------------------------------------|
-| CHAPTER<br>1<br>Introduction-Prison<br>Reform<br>Abolition?<br>or Prison<br>9<br> |
-| CHAPTER<br>2<br>Slavery<br>Civil<br>Rights<br>, and<br>Abolitionist<br>,<br>Toward<br>Perspectives<br>Prison<br>22<br><br> |
-| CHAPTER<br>3<br>and<br>Reform<br>Imprisonment<br>40<br><br> |
-| CHAPTER<br>4<br>Gender<br>Structures<br>the<br>System<br>How<br>Prison<br>60<br> |
-| CHAPTERS<br>The<br>Industrial<br>Complex<br>Prison<br>84<br> |
-| CHAPTER<br>6<br>Abolitionist<br>Alteruatives<br>105 |
-| 116<br>Resources<br> |
-| 119<br>Notes<br> |
-## | About<br>the<br>Author<br>128 |
+| CHAPTER
+1
+Introduction-Prison
+Reform
+Abolition?
+or Prison
+9
+ |
+| CHAPTER
+2
+Slavery
+Civil
+Rights
+, and
+Abolitionist
+,
+Toward
+Perspectives
+Prison
+22
+
+ |
+| CHAPTER
+3
+and
+Reform
+Imprisonment
+40
+
+ |
+| CHAPTER
+4
+Gender
+Structures
+the
+System
+How
+Prison
+60
+ |
+| CHAPTERS
+The
+Industrial
+Complex
+Prison
+84
+ |
+| CHAPTER
+6
+Abolitionist
+Alteruatives
+105 |
+| 116
+Resources
+ |
+| 119
+Notes
+ |
+## | About
+the
+Author
+128 |
 
 ### Acknowledgments
 
@@ -250,7 +309,7 @@ The Western State Penitentiary in Pittsburgh, based on a revised architectural m
 
 Walnut Street's austere regime-total isolation in single cells where prisoners lived, ate, worked, read the Bible (if, indeed, they were literate), and supposedly reflected and repented-came to be known as the Pennsylvania system. This regime would constitute one of that era's two major models of imprisonment. Although the other model, developed in Auburn, New York, was viewed as a rival to the Pennsylvania system, the philosophical basis of the two models did not differ substantively. The Pennsylvania model, which eventually crystallized in the Eastern State Penitentiary in Cherry Hill-the plans for which were approved in 1821-emphasized total isolation, silence, and solitude, whereas the Auburn model called for solitary cells but labor in common. This mode of prison labor, which was called congregate, was supposed to unfold in total silence. Prisoners were allowed to be with each other as they worked, but only under condition of silence. Because of its more efficient labor practices, Auburn eventually became the dominant model, both for the United States and Europe.
 
-Why would eighteenth- and nineteenth-century reformers become so invested in creating conditions of punishment based on solitary confinement? Today, aside from death, solitary confinement-next to torture, or as a form of torture-is considered the worst form of punishment imaginable. Then, however, it was assumed to have an emaneipatory effect. The body was placed in conditions of se�;rel�atLOn and solitude in order to allow the soul to flourish. It is not accidental that most of the reformers of that era were deeply religious and therefore saw the architecture and of the penitentiary as emulating the architecture and regimes of monastic life. Still, observers of the new penitentiary saw, early on, the real potential for insanity in solitary confinement. In an often-quoted passage of his American Notes, Charles Dickens prefaced a description of his 1842 visit to Eastern Penitentiary with the observation that "the system here is rigid, strict, and hopeless solitary confinement. I believe it, in its effects, to be cruel and wrong."
+Why would eighteenth- and nineteenth-century reformers become so invested in creating conditions of punishment based on solitary confinement? Today, aside from death, solitary confinement-next to torture, or as a form of torture-is considered the worst form of punishment imaginable. Then, however, it was assumed to have an emaneipatory effect. The body was placed in conditions of se;relatLOn and solitude in order to allow the soul to flourish. It is not accidental that most of the reformers of that era were deeply religious and therefore saw the architecture and of the penitentiary as emulating the architecture and regimes of monastic life. Still, observers of the new penitentiary saw, early on, the real potential for insanity in solitary confinement. In an often-quoted passage of his American Notes, Charles Dickens prefaced a description of his 1842 visit to Eastern Penitentiary with the observation that "the system here is rigid, strict, and hopeless solitary confinement. I believe it, in its effects, to be cruel and wrong."
 
 In its intention I am well convinced that it is kind, humane, and meant for reformation; but I am persuaded that those who devised this system of Prison Discipline, and those benevolent gentlemen who carry it into execution, do not know what it is that they are doing. I believe that very few men are capable of estimating the immense amount of torture and agony that this dreadful punishment, prolonged for years, inflicts upon the sufferers ... I am only the more convinced that there is a depth of terrible endurance in it which none but the sufferers themselves can fathom, and which no man has a right to inflict upon his fellow-ereature. I hold this slow and daily tampering with the mysteries of the brain to be immeasurably worse than any torture of the body ... because its wounds are not upon the surface, and it extorts few cries that human ears can hear; therefore I the more denounce it, as a secret punishment which slumbering humanity is not roused up to stay.46
 
@@ -378,7 +437,7 @@ However, this feminized public punishment did not affect all women in the same w
 
 MoreoverJ as Lucia Zedner has pointed outJ sentencing practices for women within the reformatory system often required women of all racial backgrounds to do more time than men for similar offenses. "This differential was justified on the basis that women were sent to reformatories not to be punished in proportion to the seriousness of their offense but to be reformed and retrained, a process that, it was argued, required time."84 At the same time, Zedner points out, this tendency to send women to prison for longer terms than men was accelerated by the eugenics movement, "which sought to have 'genetically inferior' women removed from social circulation for as many of their childbearing years as possible. "BS
 
-At the beginning of the twenty-first century, women's prisons have begun to look more like their male counterpartsJ particularly facilities constructed in the contemporary era of the prison industrial complex. As corporate involvement in punishment expands in ways that would have been unimaginable just two decades ago, the prison<sup>J</sup> s presumed goal of rehabilitation has been thoroughly displaced by incapacitation as the major objective of imprisonment. As I have already pointed out, now that the population of U. S. prisons and jails has surpassed two million people, the rate of increase in the numbers of women prisoners has exceeded that of men. As criminologist Elliot Currie has pointed out,
+At the beginning of the twenty-first century, women's prisons have begun to look more like their male counterpartsJ particularly facilities constructed in the contemporary era of the prison industrial complex. As corporate involvement in punishment expands in ways that would have been unimaginable just two decades ago, the prisonJ s presumed goal of rehabilitation has been thoroughly displaced by incapacitation as the major objective of imprisonment. As I have already pointed out, now that the population of U. S. prisons and jails has surpassed two million people, the rate of increase in the numbers of women prisoners has exceeded that of men. As criminologist Elliot Currie has pointed out,
 
 For most of the period after World War II, the female incarceration rate hovered at around 8 per 1 00,OOOi it did not reach double digits until 1977. Today it is 51 per 1 00,000 ... At the current rates of there will be more women in American prisons in the year 2010 than there were inmates of both sexes in 1 970. When we combine the effects of race and gender, the nature of these shifts in the prison population is even clearer. The prison incarceration rate for black women today exceeds that for white men as recently as 1 980.86
 
@@ -558,9 +617,9 @@ The creation of new institutions that lay claim to the space now occupied by the
 
 To reiterate, rather than try to imagine one single alternative to the existing system of incarceration, we might envision an array of alternatives that will require radical transformations of many aspects of our society. Alternatives that fail to address racism, male dominance, homophobia, class bias, and other structures of domination will not, in the final analysis, lead to decarceration and will not advance the goal of abolition.
 
-It is within this context that it makes sense to consider the decriminalization of drug use as a significant component of a larger strategy to simultaneously oppose structures of racism within the criminal justice system and further the abolitionist agenda of decarceration. Thus, with respect to the project of challenging the role played by the so-called War on Drugs in bringing huge numbers of people of color into the prison system, proposals to decriminalize drug use should be linked to the development of a constellation of free, community-based programs accessible to all people who wish to tackle their drug problems. This is not to suggest that all people who use drugs-or that only people who use illicit 'UgS�-nt�ea such help. However, anyone, regardless of economic status, who wishes to conquer drug addiction should be able to enter treatment programs.
+It is within this context that it makes sense to consider the decriminalization of drug use as a significant component of a larger strategy to simultaneously oppose structures of racism within the criminal justice system and further the abolitionist agenda of decarceration. Thus, with respect to the project of challenging the role played by the so-called War on Drugs in bringing huge numbers of people of color into the prison system, proposals to decriminalize drug use should be linked to the development of a constellation of free, community-based programs accessible to all people who wish to tackle their drug problems. This is not to suggest that all people who use drugs-or that only people who use illicit 'UgS-ntea such help. However, anyone, regardless of economic status, who wishes to conquer drug addiction should be able to enter treatment programs.
 
-Such institutions are, indeed, available to affluent communities. The most well known program is the Betty Ford �v .. ,�,., which, according to its Web site, "accepts patients dependent on alcohol and other mood altering chemicals. Treatment services are open to all men and women eighteen years of age and older regardless of race, creed, sex, national origin, religion or sources of payment for care."130 However, the cost for the first six days is \$1,175 per day, and after that \$525 per day)31 If a person requires thirty days of treatment, the cost would amount to \$19,000, almost twice the annual salary of a person working a minimum-wage job.
+Such institutions are, indeed, available to affluent communities. The most well known program is the Betty Ford v .. ,,., which, according to its Web site, "accepts patients dependent on alcohol and other mood altering chemicals. Treatment services are open to all men and women eighteen years of age and older regardless of race, creed, sex, national origin, religion or sources of payment for care."130 However, the cost for the first six days is \$1,175 per day, and after that \$525 per day)31 If a person requires thirty days of treatment, the cost would amount to \$19,000, almost twice the annual salary of a person working a minimum-wage job.
 
 Poor people deserve to have access to effective, voluntary drug treatment programs. Like the Betty Ford program, their operation should not be under the auspices of the criminal justice system. As at the Ford Center, family members also should be permitted to participate. But unlike the Betty Ford program, they should be free of charge. For such programs to count as "abolitionist alternatives," they would not be linked-unlike existing programs, to which individuals are "sentenced"-to imprisonment as a last resort.
 
@@ -760,7 +819,7 @@ THE SENTENCING PROJECT 5 14-l Oth Street NW #1000 Washington, DC 20004 Phone: (2
 - 109 Paige M. Harrison and Allen J. Beck, "Prisoners in 2001," Bureau of Justice Statistics Bulletin (Washington, D.c.: U. S. Department of Justice, Office of Justice Programs, July 2002, NCJ 195189), l.
 - 110 Allen Beck and Paige M. Harrison., "Prisoners in 2000," Bureau of Justice Statistics Bulletin (Washington, D. C.: U. S. Department of Justice, Office of Justice Programs, August 2001, NCJ 1888207), 1.
 - 111 Harrison and Beck, "Prisoners in 2001."
-- <sup>1</sup> 12 Steve Danziger, The Real War on Grime: Report of the National Criminal Justice Commission (New York: Perennial Publishers, 1996), 87.
+- 1 12 Steve Danziger, The Real War on Grime: Report of the National Criminal Justice Commission (New York: Perennial Publishers, 1996), 87.
 - 1 13 Allen J. Beck, Jennifer c. Karberg, and Paige M. Hartison. "Prison and Jail Inmates at Midyear 200 1," Bureau of Justice Statistics Bulletin i Washington, D.c., U. S. Department of Justice, Office of Justice Programs, April 2002, NCJ 191702), 12.
 - 1 14 Harrison and Beck, "Prisoners in 2001, n 7.
 - 115 Thid,
@@ -768,7 +827,7 @@ THE SENTENCING PROJECT 5 14-l Oth Street NW #1000 Washington, DC 20004 Phone: (2
 
 - 117 Madeline Baro, "Video Prompts Prison Probe," Philadelphia Daily News, 20 August 1997.
 - 118 "Beatings Worse Than Shown on Videotape, Missouri Inmates Say!' The Associated Press, 27 August 1997, 7:40 P. M. EDT.
-- 1 19 Joel Dyer, The Perpetual Pri�on Machine: How America Profits from Crime (Boulder, Col.: Westview Press, 2000).
+- 1 19 Joel Dyer, The Perpetual Prion Machine: How America Profits from Crime (Boulder, Col.: Westview Press, 2000).
 - 120 Abby El Iin, "A Food Fight Over Private Prisons," New York Times, Education Life, Sunday, 8 April 200 l.
 - 121 See Julia Sudbury, "Mules and Other Hybrids: Incarcerated Women and the Limits of Diaspora," Harvard TournaI of African American Public Policy, Fall 2002.
 - 122 Amanda George, "The New Prison Culture: Making Millions from Misery," in Sandy Cook and Susanne Davies, Harsh Punishment: International Experiences of Women's Imprisonment, by Sandy Cook and Susanne Davies (Boston: Northeastern Press, 1999), 190.

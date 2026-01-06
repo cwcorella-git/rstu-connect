@@ -1,3 +1,8 @@
+---
+title: "## [nleomf.org](https://nleomf.org/slave-patrols-an-early-form-of-american-policing/)"
+category: "contemporary-analysis"
+---
+
 ## [nleomf.org](https://nleomf.org/slave-patrols-an-early-form-of-american-policing/)
 
 ## **Slave Patrols: An Early Form of American Policing**
@@ -5,7 +10,12 @@
 | admin | |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
 | 5–6 minutes | |
-| "I [patroller's name], do swear, that I will as searcher for guns,<br>swords, and other weapons among the slaves in my district,<br>faithfully, and as privately as I can, discharge the trust reposed<br>in me as the law directs, to the best of my power. So help me,<br>God."<br>-Slave Patroller's Oath, North Carolina, 1828. | |
+| "I [patroller's name], do swear, that I will as searcher for guns,
+swords, and other weapons among the slaves in my district,
+faithfully, and as privately as I can, discharge the trust reposed
+in me as the law directs, to the best of my power. So help me,
+God."
+-Slave Patroller's Oath, North Carolina, 1828. | |
 ## | | |
 
 When one thinks about policing in early America, there are a few images that may come to mind: A county sheriff enforcing a debt between neighbors, a constable serving an arrest warrant on horseback, or a lone night watchman carrying a lantern through his sleeping town. These organized practices were adapted to the colonies from England and formed the foundations of American law enforcement. However, there is

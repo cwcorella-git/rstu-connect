@@ -1,3 +1,8 @@
+---
+title: "Length of human pregnancy and contributors to its natural variation"
+category: "contemporary-analysis"
+---
+
 # Length of human pregnancy and contributors to its natural variation
 
 # Abstract
@@ -24,41 +29,7 @@ We calculated the length of gestation beginning at conception (ovulation) in 125
 
 #### MAIN RESULTS AND THE ROLE OF CHANCE
 
-The median time from ovulation to birth was 268 days (38 weeks, 2 days). Even after excluding six preterm births, the gestational length range was 37 days. The coecient of variation was higher when measured by LMP (4.9%) than by ovulation (3.7%), reecting the variability of time of ovulation. Conceptions that took longer to implant also took longer from implantation to delivery (P = 0.02). CL rescue pattern (reecting ovarian response to implantation) was predictive (P = 0.006): pregnancies with a rapid progesterone rise were longer than those with delayed rise (a 12-day difference in the median gestational length). Mothers with longer gestations were older (P = 0.02), had longer pregnancies in other births (P < 0.0001) and were heavier at birth (P = 0.01). We did not see an association between the length of gestation and several factors that have been associated with gestational length in previous studies: body mass index, alcohol intake, parity or offspring sex.
-
-### LIMITATIONS, REASONS FOR CAUTION
-
-The sample size was small and some exposures were rare, reducing power to detect weak associations.
-
-#### WIDER IMPLICATIONS OF THE FINDINGS
-
-Human gestational length varies considerably even when measured exactly (from ovulation). An individual woman's deliveries tend to occur at similar gestational ages. Events in the rst 2 weeks after conception are predictive of subsequent pregnancy length, and may suggest pathways underlying the timing of delivery.
-
-#### STUDY FUNDING/COMPETING INTEREST
-
-This research was supported by the Intramural Research Program of the NIH, National Institute of Environmental Health Sciences. None of the authors has any conict of interest to declare.
-
-Keywords: gestational length, pregnancy, variability, implantation, corpus luteum
-
-# Introduction
-
-Pregnant women are routinely assigned a delivery date of about 280 days after the onset of their last menstrual period (LMP). Only 4% of women deliver at 280 days and only 70% deliver within 10 days of their estimated due date, even when the date is estimated by ultrasound [\(Mongelli](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570/#DET297C20) et al., 1996).
-
-The observed variability in the gestational length may be due to errors in gestational age estimation. Natural conception is unobservable, and all estimates of the start of pregnancy (by LMP or ultrasound) are approximate. Another source of variability—and perhaps the least understood—is normal variation in the pace of fetal maturation and the timing of natural delivery. The possibility of natural variability is plausible, but little discussed in the literature (see Pemberton et al., [2010\). Error and natural variability are indistinguishable without an](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570/#DET297C36) exact measure of gestational age. Thus, in previous studies, characteristics that have been associated with the length of gestation may have arisen from errors in gestational age estimation or natural length of pregnancy or both. Without an exact measure of gestational age, these are impossible to separate.
-
-Although natural conception is not directly observable in humans, there is evidence that conception occurs within 24 h after ovulation (see [Winston](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570/#DET297C35) et al., 1993; [Wilcox](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570/#DET297C33) et al., 1998). Thus, the day of ovulation in a conception cycle can be taken to mark the beginning of a pregnancy. Four previous studies of spontaneously conceived pregnancies have attempted to estimate the length of gestation
-
-[based on ovulation \(](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570/#DET297C11)[Stewart, 1952](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570/#DET297C28)[;](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570/#DET297C11) [Doering, 1962](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570/#DET297C9)[; Guerrero and](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570/#DET297C11) Florez, 1969; Saito et al[., 1972\)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570/#DET297C25). All of these studies estimated [ovulation by basal body temperature—an inexact measure \(Moghissi,](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570/#DET297C19) 1976; [Lenton](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570/#DET297C15) et al., 1977; [Bauman, 1981;](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570/#DET297C5) [Quagliarello and Arny, 1986\)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570/#DET297C23). Moreover, none of these studies explored the maternal or pregnancy characteristics that might be associated with length of gestation.
-
-We explored the length of gestation in a cohort of spontaneously conceived pregnancies, using hormone assays of daily urine samples to identify the day of ovulation. We used survivorship methods to account for births that occurred after a medical intervention (induced labor or Caesarean delivery). We also examined possible predictors of gestational length, particularly hormonal events in the earliest stages of pregnancy.
-
-# Methods
-
-### Original study
-
-The North Carolina Early Pregnancy Study (1982–1985) enrolled 221 women who discontinued contraception in order to become pregnant [\(Wilcox](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570/#DET297C31) et al., 1988). Participants were healthy with no known fertility problems. Women completed daily diaries and collected daily rstmorning urine specimens for 6 months, or through the eighth week past LMP if they conceived. Women who became pregnant were followed to determine their delivery date.
-
-Urine specimens were analyzed for estrone-3-glucuronide, pregnanediol-3-glucuronide and hCG. The day of ovulation was identied using the associated rapid drop in the ratio of estrogen to progesterone (Baird et al[., 1991](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570/#DET297C2)), which corresponds well with ultrasound-detected ovulation [\(Ecochard](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570/#DET297C10) et al., 2001). Implantation was dened as the rst day of a sustained rise in hCG >0.015 ng/ml [\(Wilcox](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570/#DET297C34) et al., 1999).
+The median time from ovulation to birth was 268 days (38 weeks, 2 days). Even after excluding six preterm births, the gestational length range was 37 days. The coecient of variation was higher when measured by LMP (4.9%) than by ovulation (3.7%), reecting the variability of time of ovulation. Conceptions that took longer to implant also took longer from implantation to delivery (P = 0.02). CL rescue pattern (reecting ovarian response to implantation) was predictive (P = 0.006): pregnancies with a rapid progesterone rise were longer than those with delayed rise (a 12-day difference in the median gestational length). Mothers with longer gestations were older (P = 0.02), had longer pregnancies in other births (P 0.015 ng/ml [\(Wilcox](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570/#DET297C34) et al., 1999).
 
 One hundred and thirty conceptions during the study resulted in singleton live births. Ten pregnancies were missing data on ovulation, implantation or both. These days could be imputed for 9 [\(Supplementary data](http://humrep.oxfordjournals.org/lookup/suppl/doi:10.1093/humrep/det297/-/DC1)), leaving 129 births.
 
@@ -94,9 +65,7 @@ and Knobil, 1972; [Atkinson](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC377757
 
 From the follow-up interview in 2010 we had data on pregnancyrelated medical conditions, neonatal medical conditions, the woman's birthweight and her recalled gestational lengths of all her singleton live births before and after the study birth (which we averaged). We wanted to explore to what extent natural variability in the length of gestation might be due to inherent woman-specic factors that would tend to produce similar lengths across a given woman's pregnancies. We therefore examined the average reported length of each woman's non-study pregnancies to test whether, for example, women with a longer average gestational length would tend to have a longer study pregnancy (or in terms of our model, would be less likely to deliver at each gestational age). While it may seem unusual to use data from the future (implied by inclusion of future pregnancies) to predict an event, our purpose here is not prediction but assessment of variability in the natural length of gestation among women. The null hypothesis for such a test is that there is no inherent difference among women in their tendency to have a certain length of gestation. (Six women had no live births other than the study pregnancy and were excluded from this analysis.) We weighted the average gestational length by the woman's number of births. Women who did not participate in the follow-up were excluded from analysis of these factors. Additional [factors that were examined are listed in the Supplementary data,](http://humrep.oxfordjournals.org/lookup/suppl/doi:10.1093/humrep/det297/-/DC1) Table SI. All variables were from the original study except where indicated. Respondents to the follow-up tended to be older than nonrespondents; 90% were in the older age categories compared with 73% among non-respondents. Respondents also had shorter times to pregnancy than non-respondents (37% conceived in the rst cycle compared with 23%), had greater than a high school education (97 compared with 81%), tended to be overweight at the time of the original study (7 compared with 19%) and more had been nulliparous at the time of study entry (48 compared with 35%).
 
-Median lengths of gestation and interquartile ranges were calculated for each of these variables using univariable Kaplan–Meier curves on non-imputed data. Kaplan–Meier curves cannot be drawn for continuous stratication variables, and thus they were categorized. Variables with at least borderline statistical signicance (P < 0.1) were further examined with the 400 data sets that contained imputed censoring information, and are presented in the results. Results of Kaplan–Meier analyses for the other variables considered are shown in the [Supplementary data, Table SI](http://humrep.oxfordjournals.org/lookup/suppl/doi:10.1093/humrep/det297/-/DC1). We calculated the probability of birth for each day of gestation (averaged across the 400 imputation data sets) as mentioned previously. These probabilities were also used to calculate survival curves using life-table methods.
-
-We used single-variable proportional hazards models to calculate Pvalues for the associations between maternal and pregnancy characteristics and length of gestation (across imputations), where we model the 'hazard' of giving birth over the days of gestation. A hazard ratio (HR) of <1 indicates that the 'exposed' group was less likely to deliver on any given day (i.e. a longer gestation). The variance of the HR was estimated as, the average of the estimated variances across imputations + [(1 + 1/(number of imputations)] × the variance among the estimated betas). To estimate P-values, the beta estimate squared was divided by the total variance and compared with a χ distribution with 1 degree of freedom. Multivariable models were examined as sensitivity analyses and are described in the results. To evaluate the proportional hazards assumption, interactions with time were investigated for age, CL rescue and implantation timing; none was signicant (P > 0.1), indicating that the assumption was supported. 2
+Median lengths of gestation and interquartile ranges were calculated for each of these variables using univariable Kaplan–Meier curves on non-imputed data. Kaplan–Meier curves cannot be drawn for continuous stratication variables, and thus they were categorized. Variables with at least borderline statistical signicance (P  0.1), indicating that the assumption was supported. 2
 
 Our use of survival analysis techniques is based on the assumption that the non-spontaneous births (those that experienced medical intervention) were part of the same distribution as the spontaneous births, and that censoring was not informative with regard to gestational length. This assumption is supported by the fact that (1) there were few medical conditions in our sample that would have led to a shortened gestation and (2) the exclusion of the six preterm births or the women with pregnancy-related medical conditions (simultaneously or individually) did not materially change the average length of gestation.
 
@@ -120,21 +89,45 @@ The ovulation-based gestational ages for the 125 singleton live births ranged fr
 
 Distribution of length of gestation as measured by LMP, ovulation and implantation, accounting for medical interventions that truncated gestation.
 
-| | Mean<br>(SD) | Coecient<br>of<br>variation<br>(%) | Percentiles | | | | | | | | |
+| | Mean
+(SD) | Coecient
+of
+variation
+(%) | Percentiles | | | | | | | | |
 |------------------|------------------|------------------------------------|-------------|-----|-----|-----|-----|--|--|--|--|
 | | | | Range | 10 | 25 | 50 | 75 | | | | |
 | All births | | | | | | | | | | | |
-| LMP | 285<br>(14) | 4.9 | 229–<br>321 | 269 | 277 | 285 | 290 | | | | |
-| Ovulation | 267<br>a<br>(10) | 3.7 | 208–<br>284 | 253 | 262 | 268 | 275 | | | | |
-| Implantation | 258<br>a<br>(10) | 3.9 | 199–<br>275 | 244 | 253 | 259 | 265 | | | | |
-| b<br>Term births | | | | | | | | | | | |
-| LMP | 285<br>(13) | 4.6 | 258–<br>321 | 271 | 278 | 285 | 289 | | | | |
+| LMP | 285
+(14) | 4.9 | 229–
+321 | 269 | 277 | 285 | 290 | | | | |
+| Ovulation | 267
+a
+(10) | 3.7 | 208–
+284 | 253 | 262 | 268 | 275 | | | | |
+| Implantation | 258
+a
+(10) | 3.9 | 199–
+275 | 244 | 253 | 259 | 265 | | | | |
+| b
+Term births | | | | | | | | | | | |
+| LMP | 285
+(13) | 4.6 | 258–
+321 | 271 | 278 | 285 | 289 | | | | |
 
-| | Mean<br>(SD) | Coecient<br>of<br>variation | Percentiles | | | | | | |
+| | Mean
+(SD) | Coecient
+of
+variation | Percentiles | | | | | | |
 |--------------|-----------------|-----------------------------|-------------|-----|-----|-----|-----|--|--|
 | | (%) | Range | 10 | 25 | 50 | 75 | | | |
-| Ovulation | 268<br>a<br>(9) | 3.4 | 247–<br>284 | 256 | 262 | 268 | 275 | | |
-| Implantation | 259<br>a<br>(9) | 3.5 | 237–<br>274 | 247 | 253 | 260 | 265 | | |
+| Ovulation | 268
+a
+(9) | 3.4 | 247–
+284 | 256 | 262 | 268 | 275 | | |
+| Implantation | 259
+a
+(9) | 3.5 | 237–
+274 | 247 | 253 | 260 | 265 | | |
 ## | | | | | | | | | | |
 
 LMP, last menstrual period.

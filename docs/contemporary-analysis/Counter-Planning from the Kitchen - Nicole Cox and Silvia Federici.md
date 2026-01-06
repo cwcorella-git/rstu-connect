@@ -1,3 +1,8 @@
+---
+title: "## **Counter-Planning from the Kitchen - Nicole Cox and Silvia Federici**"
+category: "contemporary-analysis"
+---
+
 ## **Counter-Planning from the Kitchen - Nicole Cox and Silvia Federici**
 
 ## **Date:** Unknown

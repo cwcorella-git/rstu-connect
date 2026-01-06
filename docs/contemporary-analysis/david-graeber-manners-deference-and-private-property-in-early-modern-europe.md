@@ -1,21 +1,8 @@
 ---
-title: 'Manners, Deference, and Private Property in Early Modern Europe'
-author: David Graeber
-date: '1997'
-pubdate: '2023-02-23T22:54:20'
-language: en
-source_url: >-
-  <em>Comparative Studies in Society and History</em> Volume 39, Issue 4, pp.
-  694–728
-  [[https://doi.org/10.1017/S0010417500020867][DOI:~~10.1017/S0010417500020867]]
-original_format: muse
-converted_date: '2025-11-08T11:25:03.145590'
-tags:
-  - theory
-  - contemporary
-  - strikes
-  - tenants
-  - rent
+title: "Manners, Deference, and Private Property in Early Modern Europe"
+author: "David Graeber"
+date: "1997"
+category: "contemporary-analysis"
 ---
 
 This essay is an attempt to map out the rudiments of a theory of manners and formal deference and to demonstrate how such a theory can be usefully applied to certain long-standing problems in the historical sociology of Europe. It is also meant to demonstrate the continuing relevance of comparative ethnography for social theory—something which has been somewhat cast into doubt in recent years.
@@ -74,7 +61,7 @@ Before moving on to hierarchy, I should probably throw in a point of clarificati
 
 ### ON HIERARCHY
 
-<quote>
+
 The term “good,” in most Greek thought, connoted above all a certain definite, though still essentially negative, characteristic. This is manifest in nearly all the Greek schools of moral philosophy which descended from Socrates—in the temper of the ideal Cynic, Diogenes, who needed and wanted nothing any other man could give him, in the ataraxy of the Epicureans, in the apathy of the Stoics. The essence of “good,” even in ordinary human experience, lay in self-containment, freedom from all dependence upon that which is external to the individual (Lovejoy 1936:42).
 
 Tjaden hasn’t finished yet. He thinks for a while and then asks: “And would a King have to stand up stiff to an emperor?”
@@ -86,7 +73,7 @@ None of us are quite sure about it, but we don’t suppose so. They are both so 
 But Tjaden is quite fascinated. His otherwise prosy fancy is blowing bubbles. “But look,” he announces, “I simply can’t believe that an emperor has to go to the latrine the same as I have.”
 
 —Remarque, *All Quiet on the Western Front*
-</quote>
+
 
 Hierarchy has become a very popular term in contemporary social science, though it is often hard to know precisely what any given author means by it. To say that a set of things are organized into a hierarchy, after all, is merely to say that they are ranked; there are all sorts of ways to rank things. The notion the term most immediately brings to mind is what might be called a “linear hierarchy,” a way of ranking things, as along a ruler, as higher or lower than each other. The classic example of such a linear hierarchy is probably the Great Chain of Being, made famous by Arthur Lovejoy (1936). This was a system by which Medieval scholars tried to rank all living creatures from moss to slugs to humans and seraphim, according to the degree to which they were believed to possess a rational soul. Lovejoy points out that it is critical to such a system that there can only be one criterion of ranking; as soon as others are introduced, the whole system will tend to dissolve into confusion (1936:56-57ff).
 
@@ -169,11 +156,11 @@ One is ultimately left with the view of the world one still finds in economics t
 
 So far, I have been trying to make a case that it was the emerging commercial classes of Early Modern Europe that first embraced the notion of reforming society by reforming its manners and that the standards of propriety they embraced were ultimately rooted in ideologies of private property. I also suggested that, insofar as projects of reform were successful, it was largely because the market and commercial logic were increasingly setting the terms of social life among all classes of people. Attempts to close down alehouses or ban mummers’ plays, after all, could only achieve so much and tended to create a determined and resentful opposition. The more lasting changes were on a much more deeply internalized level. Here some of Elias’ material is particularly revealing. In 1558, for example, an Italian courtier could still write:
 
-<quote>
+
 For the same reason it is not a refined habit, when coming across something disgusting in the street, as sometimes happens, to turn at once to one’s companion and point it out to him.
 
 It is far less proper to hold out the stinking thing for the other to smell, as some are wont, who even urge the other to do so, lifting the foul-smelling thing to his nostrils and saying, “I should like to know how much that stinks,” when it would be better to say, “Because it stinks I do not smell it” (Della Caso, *Galateo*, in Elias 1978:131).
-</quote>
+
 
 A hundred years later, most readers would probably have found the very notion of behaving this way about as revolting as people would today. But how does one go about explaining changes on this level—in people’s most spontaneous, visceral reactions to the world around them? It is one thing to say that there is a logical connection between manners and regimes of property and quite another to understand how such changes actually took place.
 
@@ -183,9 +170,9 @@ In the Middle Ages, just about everyone who did know how to read had learned the
 
 Aries cites a late-fourteenth century account of England, written by a traveler from Italy:
 
-<quote>
+
 The want of affection in the English is strongly manifested towards their children; for after having kept them at home till they arrive at the age of seven or nine years at the utmost, they put them out, both males and females, to hard service in the households of other people, binding them generally for seven or nine years. And these are called apprentices, and during that time they perform all the most menial offices; and few are born who are exempted from this fate, for everyone, however rich he may be, sends away his children into the houses of others, whilst he, in return, receives those of strangers into his own (from *A Relation of the Island of England* [apparently anonymous], cited in Aries [1962:365]).
-</quote>
+
 
 Though “the Italian considers this custom cruel[,] ... insinuating that the English took in each other’s children because they thought that in that way they would obtain better service than they would from their own offspring,” Aries suggests, realistically enough, that “the explanation which the English themselves gave to the Italian observer was probably the real one: ‘In order that their children might learn better manners’ (1962:365).
 
@@ -320,7 +307,7 @@ This essay is derived from my Master’s paper at the University of Chicago, wri
 [31] He also seems to assume that all holistic systems must be hierarchical, but this is another issue.
 
 ### REFERENCES
-<biblio>
+
 Aries, Philippe. 1962. *Centuries of Childhood*. New York: Vintage Press.
 
 Aylmer, G. E. 1980. “The Meaning of Property in Seventeenth-Century England.” *Past and Present*, 86:87—97.
@@ -389,7 +376,7 @@ Hill, Christopher. 1964. *Society and Puritanism in England*. London: Routledge 
 
 —1972. *The World Turned Upside Down*. New York: Penguin Press.
 
-—1975. <em>Change and Continuity in 17<sup>th</sup> Century England</em>. Cambridge: Harvard University Press.
+—1975. Change and Continuity in 17th Century England. Cambridge: Harvard University Press.
 
 Hobbes, Thomas. 1968. *Leviathan*. Hammondsworth: Penguin Press.
 
@@ -399,7 +386,7 @@ Hutton, Ronald. 1994. *The Rise and Fall of Merry England: The Ritual Year, 1400
 
 Kroeber, Alfred. 1925. *Handbook of the Indians of California*. Washington D.C.: Bureau of American Ethnology, 78.
 
-—1928. “The Law of the Yurok Indians.” <em>Proceedings of the 22<sup>nd</sup> International Congress of Americanists</em>, 511—6.
+—1928. “The Law of the Yurok Indians.” Proceedings of the 22nd International Congress of Americanists, 511—6.
 
 Kussmaul, Ann. 1981. *Servants in Husbandry in Early Modern England*. Cambridge: Cambridge University Press.
 
@@ -488,5 +475,3 @@ Weber, Max. 1930. *The Protestant Ethic and the Spirit of Capitalism*. London: U
 Wright, A. R., and T. E. Lones. 1938. *British Calendar Customs*. Glaisher, London.
 
 Wrightson, Keith, and David Levine. 1979. *Poverty and Piety in an English Village*. Cambridge: Cambridge University Press.
-
-</biblio>

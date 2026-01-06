@@ -1,13 +1,8 @@
 ---
-title: Anarchist Organization in Times of War and Crisis Ukraine Saša Kaluža
-date: 2025
-author: Saša Kaluža
-tags:
-  - organizing
-  - strikes
-  - rent
-  - police
-  - prisons
+title: "Anarchist Organization in Times of War and Crisis Ukraine Saša Kaluža"
+author: "Saša Kaluža"
+date: "2025"
+category: "theory"
 ---
 
 # Anarchist Organization in Times of War and Crisis Ukraine Saša Kaluža

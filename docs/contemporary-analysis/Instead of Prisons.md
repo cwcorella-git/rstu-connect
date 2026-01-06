@@ -1,3 +1,8 @@
+---
+title: "**Prison Research Education Action Project Instead of Prisons**"
+category: "contemporary-analysis"
+---
+
 # **Prison Research Education Action Project Instead of Prisons**
 
 ## **A Handbook for Abolitionists**
@@ -555,7 +560,7 @@ The ensuing pages provide information and material to facilitate that process. I
 
 **Special acknowledgements:** This handbook was funded by the New York State Council of Churches' Task Force for a Safer Society. We are particularly grateful for the encouragement and support of convenor Virginia Mackey, and Jon Regier, executive director of the New York State Council of Churches, and the Task Force's commitment to the development of the handbook. Special thanks to American Friends Service Committee for their grant in support of data gathering and research; the Westport Public Library for their special services; Mary Ann Largen for her contributions to the chapter on the crime of rape and our everlasting gratitude to the many prisoners who shared their concepts and information with their allies at PREAP.
 
-Heartfelt thanks to all who furnished graphics, especially Tracy Sugarman, drawings for the cover and 82. Lowell Naeve, drawings from Phantasies of <sup>a</sup> Prisoner (Denver, Alan Swallow, 1958), frontispiece, 65, 115. James Grashow, woodcut, 19. Warren Levicoff, photo (all rights reserved), 85. Peg Averill, drawings, 139, 142, 149, 153, 155, 161. Chas. Du Rain, Georgeville Community Features, drawing, (all rights reserved), 74. Mark Morris, photos, 15, 33, 104, 105, 136, 166. Joseph Grant of Penal Digest International for photos, 40, 102; drawing, 133. Liberation News Service drawings, 21, 23, 30, 44, 51, 69, 88, 91, 98, 151; photos 25, 94. American Foundation, photos, 37, 48, 77, 113, 128. Fortune Society, photos,
+Heartfelt thanks to all who furnished graphics, especially Tracy Sugarman, drawings for the cover and 82. Lowell Naeve, drawings from Phantasies of a Prisoner (Denver, Alan Swallow, 1958), frontispiece, 65, 115. James Grashow, woodcut, 19. Warren Levicoff, photo (all rights reserved), 85. Peg Averill, drawings, 139, 142, 149, 153, 155, 161. Chas. Du Rain, Georgeville Community Features, drawing, (all rights reserved), 74. Mark Morris, photos, 15, 33, 104, 105, 136, 166. Joseph Grant of Penal Digest International for photos, 40, 102; drawing, 133. Liberation News Service drawings, 21, 23, 30, 44, 51, 69, 88, 91, 98, 151; photos 25, 94. American Foundation, photos, 37, 48, 77, 113, 128. Fortune Society, photos,
 
 27, 55, 81. NEPA News, drawings, 93. Prisoners' Union, photos, 78, 176; drawing, 135. Clergy and Laity Concerned, drawing by Buu Chi, 99. NORML, photo, 108. PSO Newsletter, drawing, 119. VORP, photo 122. Friends Journal, drawing, 130. Black Scholar, drawing, 188. CLASP, photo, 165. Majority Report, drawing, 148. The National Observer, drawing, 46. Gale Research Company, drawings, 42, 43. Skeptic Magazine, drawing, (© 1974 Forum for Contemporary History, Inc., all rights reserved), 34. Auburn prison, photo, 17. St. Louis Post Dispatch, drawing by Bill Steele, 87. Women Against Rape, drawing by Valerie Klaetke in Stop Rape, 147. Guardian, drawing, 174. Trenton State Prisoners' News, drawing, 57.
 
@@ -2090,11 +2095,24 @@ Until that time when abolishing-type changes depopulate the prisons, the reality
 |------------------------------------------------------------------------|--|
 ## | Description and cost: | |
 
-| | Number of<br>facilities | Bed<br>capacity | Annual<br>operating cost | Use |
+| | Number of
+facilities | Bed
+capacity | Annual
+operating cost | Use |
 |------------------------|-------------------------|-----------------|--------------------------|---------------------------------------------------------------------------------------------------------------|
-| Existing<br>facilities | | | | Pretrial/post<br>sentence<br>Adult/youth<br>Male/female<br>Closed/work<br>release<br>Misdemeanants/<br>felons |
-| Proposed<br>facilities | | | | Same as above |
-## | Net gain or<br>loss | | | | |
+| Existing
+facilities | | | | Pretrial/post
+sentence
+Adult/youth
+Male/female
+Closed/work
+release
+Misdemeanants/
+felons |
+| Proposed
+facilities | | | | Same as above |
+## | Net gain or
+loss | | | | |
 
 Total cost of new facility:
 
@@ -2112,7 +2130,8 @@ Total cost of new facility:
 
 | 9. Annual operating and maintenance \$ | |
 |----------------------------------------|--|
-| Total \$<br>Life expectancy: \$ | |
+| Total \$
+Life expectancy: \$ | |
 ## | Cost per year to taxpayers: \$ | |
 
 It is important to understand which political entity wants the new facility and for which prisoners it is to be constructed. Is it the city council, county commissioner, or state legislature that is calling for the new prison/jail? In some cases it will be a federal prison being planned and at some time prior to construction hearings must be held in the community where the prison is to be located. The community should be alert to such hearings, as it provides an important arena for registering objections and educating the public.
@@ -2137,8 +2156,10 @@ The responsibility for construction of new facilities for most state agencies is
 | \$5,000/bed-furnishings and equipment | 500,000 | immediate |
 | 10 percent at 20 years-debt service | 1,000,000 | 20 yrs. |
 | \$8,000/bed/year-operating and maintenance | 16,000,000 | 20 yrs. |
-| \$4,000/bed-architectural fees (10 percent of<br>construction) | 400,000 | immediate |
-| \$8,000/bed-study, planning, site acquisition, preparation<br>(20 percent of construction) | 800,000 | immediate |
+| \$4,000/bed-architectural fees (10 percent of
+construction) | 400,000 | immediate |
+| \$8,000/bed-study, planning, site acquisition, preparation
+(20 percent of construction) | 800,000 | immediate |
 | Loss of property off tax rolls | ? | |
 ## | Total Twenty Year Cost | \$30,700,000 | |
 
@@ -2444,7 +2465,7 @@ The following modes of early release do not involve systems change but are appro
 
 - 4. Seek court orders ordering depopulation because of overcrowding or other cruel and unusual conditions.
 - 5. Where prisoners request it, provide options for making restitution to victimized parties in lieu of serving further time and use contracts for negotiating conditions of early release.
-- 6. Audit prison populations to be sure all decriminalized <sup>o</sup>ffenses are made retroactive thru initiating sentence reductions, class actions or other means of redress.
+- 6. Audit prison populations to be sure all decriminalized offenses are made retroactive thru initiating sentence reductions, class actions or other means of redress.
 - 7. Educate prisoner legal advocates and others about procedures for reduction of sentence, applying for executive clemency, pardon or reprieve or how to establish the unconstitutionality of a case.
 
 ## **Abolition of indeterminate sentences & parole**
@@ -3462,17 +3483,37 @@ At present, there is scant definitive data on the characteristics of probation, 
 
 While it is true that many convicted persons have experienced probation as an oppressive and discretionary system, it is still a far more desirable option than prison. Abolitionists support the extended use of probation over and above prison, but advocate strategies which forge new links between probation and the community.
 
-| | Total<br>Sentenced | %<br>Prison | %<br>Probation | %<br>Fine<br>Only | Average<br>Sentence<br>in<br>Months | Average<br>sentence<br>inmates<br>released<br>1973 | Average<br>time<br>served<br>inmates<br>released<br>1973 |
+| | Total
+Sentenced | %
+Prison | %
+Probation | %
+Fine
+Only | Average
+Sentence
+in
+Months | Average
+sentence
+inmates
+released
+1973 | Average
+time
+served
+inmates
+released
+1973 |
 |------------------------|--------------------|-------------|----------------|-------------------|-------------------------------------|----------------------------------------------------|----------------------------------------------------------|
-| White Collar<br>Crime: | | | | | | | |
+| White Collar
+Crime: | | | | | | | |
 | Embezzlement | 1,493 | 18 | 79.8 | 1.7 | 15.3 | 21.1 | 9.7 |
 | Fraud | 1,695 | 32.7 | 57.9 | 6.4 | 19.5 | 27.2 | 13.6 |
 | Tax Fraud | 1,162 | 33.3 | 57.6 | 8.8 | 12.8 | 12.8 | 7.2 |
 | Forgery | 3,509 | 44.5 | 54.7 | .2 | 34.2 | 32.1 | 17.6 |
-| Crimes of the<br>Poor: | | | | | | | |
+| Crimes of the
+Poor: | | | | | | | |
 | Robbery | 1,552 | 89 | 11 | — | 126.5 | 133.3 | 50.0 |
 | Burglary | 207 | 56.5 | 43.5 | — | 60.5 | 58.7 | 29.9 |
-| Larceny &<br>Theft | 3,276 | 38.5 | 59.3 | 1.7 | 29.4 | 32.8 | 18.0 |
+| Larceny &
+Theft | 3,276 | 38.5 | 59.3 | 1.7 | 29.4 | 32.8 | 18.0 |
 | Auto Theft | 1,802 | 68.8 | 30.6 | .4 | 36.1 | 36.8 | 20.6 |
 
 Various Sentences of Convicted Criminal Defendants in U. S. District Courts, 1974
@@ -3946,9 +3987,9 @@ An excellent model statute [\[437\]](#page-242-10) was proposed by the New York 
 - 6. Eliminates the spousal exclusion in sexual offenses.
 - 7. Defines rape in terms of degrees of serious injury.
 
-<sup>&</sup>quot;You were out on the street at 11 p.m.'? Doing what?"
+&quot;You were out on the street at 11 p.m.'? Doing what?"
 
-## <sup>&</sup>quot;Just walking."
+## &quot;Just walking."
 
 ### **Compensation**
 
@@ -4841,7 +4882,20 @@ If prisoners have a constitutionally protected right to engage in some form of l
 | Number Prison |
 | Class of Work Done |
 | Witness |
-| I<br>hereby<br>authorize<br>the<br>agents<br>or<br>representatives<br>of<br>said<br>Union<br>to<br>represent me and to act as a collective bargaining agent in all matters<br>pertaining to rates of pay, hours or employment and all other terms and<br>conditions of incarceration. |
+| I
+hereby
+authorize
+the
+agents
+or
+representatives
+of
+said
+Union
+to
+represent me and to act as a collective bargaining agent in all matters
+pertaining to rates of pay, hours or employment and all other terms and
+conditions of incarceration. |
 ## | Date Signature |
 
 #### **The Think Tank Concept**
@@ -5263,13 +5317,13 @@ Learn how to organize a productive weekend workshop on prison abolition! This us
 
 ## (Payment must accompany single orders)
 
-[<sup>\[1\]</sup>](#page-16-1) See Videotape of Jerry Miller at JSAC (Joint Strategy and Action Committee) meeting, "Stop Prison Construction," Northern California, February 16, 1974, American Friends Service Committee Videotape Section, Philadelphia.
+[\[1\]](#page-16-1) See Videotape of Jerry Miller at JSAC (Joint Strategy and Action Committee) meeting, "Stop Prison Construction," Northern California, February 16, 1974, American Friends Service Committee Videotape Section, Philadelphia.
 
-[<sup>\[2\]</sup>](#page-16-2) Eugene V. Natale and Cecelia F. Rosenberg, "And the Walls Come Tumbling Down: An Analysis of Social and Legal Pressures Bearing on the American Prison System," **New York Law Forum**, Vol. 19 (1974), p. 611.
+[\[2\]](#page-16-2) Eugene V. Natale and Cecelia F. Rosenberg, "And the Walls Come Tumbling Down: An Analysis of Social and Legal Pressures Bearing on the American Prison System," **New York Law Forum**, Vol. 19 (1974), p. 611.
 
-[<sup>\[3\]</sup>](#page-16-3) David Greenberg and Fay Stender, "The Prison as a Lawless Agency," **Buffalo Law Review**, Vol. 21 (1972), pp. 799–838.
+[\[3\]](#page-16-3) David Greenberg and Fay Stender, "The Prison as a Lawless Agency," **Buffalo Law Review**, Vol. 21 (1972), pp. 799–838.
 
-[<sup>\[4\]</sup>](#page-16-4) Max Stern, "Cruel and Usual Punishment: A Constitutional Lawyer Argues Prisons are Illegal,"
+[\[4\]](#page-16-4) Max Stern, "Cruel and Usual Punishment: A Constitutional Lawyer Argues Prisons are Illegal,"
 
 - **Boston Alter Dark**, Special Supplement, **Massachusetts-Doin' Time.** "Prison life is profoundly unconstitutional. What goes on inside Massachusetts' state and county institutions not only transgresses the Bill of Rights, but, indeed, is the very antithesis of the rule of law."
  - [\[5\]](#page-17-0) Fred Cohen, "The Discovery of Prison Reform," **Buffalo Law Review,** Vol. 21 (1972), p. 887.

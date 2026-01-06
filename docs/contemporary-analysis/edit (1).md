@@ -1,3 +1,8 @@
+---
+title: "## ![](_page_0_Picture_0.jpeg)"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 ## **Soil Solidarity**
@@ -44,6 +49,6 @@ Sincerely,
 
 ## Katie Colling Executive Director
 
-<sup>\*</sup>[www.washoehousingjusticeunion.org](http://www.washoehousingjusticeunion.org/)
+\*[www.washoehousingjusticeunion.org](http://www.washoehousingjusticeunion.org/)
 
-<sup>\*</sup>[www.soilsolidarity.org/housing](http://www.soilsolidarity.org/housing)
+\*[www.soilsolidarity.org/housing](http://www.soilsolidarity.org/housing)

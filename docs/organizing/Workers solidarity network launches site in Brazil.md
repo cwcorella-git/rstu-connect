@@ -1,3 +1,8 @@
+---
+title: "## **Workers solidarity network launches site in Brazil**"
+category: "organizing"
+---
+
 ## **Workers solidarity network launches site in Brazil**
 
 ## **Date:** Unknown

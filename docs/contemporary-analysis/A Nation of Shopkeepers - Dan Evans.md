@@ -1,3 +1,8 @@
+---
+title: "A Nation of Shopkeepers"
+category: "contemporary-analysis"
+---
+
 # A Nation of Shopkeepers
 
 ## ![](_page_0_Figure_1.jpeg)
@@ -376,7 +381,7 @@ Class is very complex — particularly the petty bourgeoisie, which moves up and
 
 Chapter 1 is a potted history of the petty bourgeoisie. It explores its evolution, how it has been continually renewed and replenished from epoch to epoch and its political tendencies. The next chapters then explore the different fractions of the class separately. Chapter 2 looks at the "traditional" fraction (today exemplified by the solo self-employed), its historical social experience and how it has evolved and changed in the modern era and how the social condition of the petty bourgeoisie has become widespread. Chapter 3 then explores the *new* petty-bourgeois fraction, how it re-emerged as the class structure evolved under neoliberalism, and the myriad ways in which this fraction is split off from the working class and other classes. Chapter 4 then looks at the role of education in the class structure and its specific role in splitting off the new petty bourgeoisie from the working class socially and ideologically. Chapter 5 explores the role of housing in the class structure and how the marketization of housing has been one of the prime delivery systems for spreading the individualism of the petty bourgeoisie beyond the boundaries of the class itself and into wider society. Chapter 6 then concludes with a discussion of the role of the petty bourgeoisie in modern politics and how the trajectory and many of the failures of modern leftism can be explained by its roots in the petty bourgeoisie and its chaotic political tendencies.
 
-<sup>1</sup> Such is the social and cultural distinctiveness of the group of people most involved in progressive politics, particularly its roots in higher education, that Thomas Piketty has recently attempted to conceptualize it as the "Brahmin left" (Brahmin referring to a particular caste within Indian society).
+1 Such is the social and cultural distinctiveness of the group of people most involved in progressive politics, particularly its roots in higher education, that Thomas Piketty has recently attempted to conceptualize it as the "Brahmin left" (Brahmin referring to a particular caste within Indian society).
 
 # **CHAPTER ONE THE HISTORY OF A CLASS**
 
@@ -648,11 +653,11 @@ If the twentieth century "belonged to the proletariat", as Göran Therborn claim
 
 It is therefore impossible to understand modern life under neoliberalism without understanding the nature of the petty bourgeoisie. The rest of this book is dedicated to improving our understanding of both fractions of this class, new and old.
 
-<sup>2</sup> Today the Levellers are often held up by some on the left as one of the symbols of English radicalism that a new "progressive patriotism" could be based upon, so it is interesting that they were petty bourgeois in composition.
+2 Today the Levellers are often held up by some on the left as one of the symbols of English radicalism that a new "progressive patriotism" could be based upon, so it is interesting that they were petty bourgeois in composition.
 
-<sup>3</sup> Marx and Engels later argued that weaknesses and reformist tendencies of the Chartist movement were rooted in the petty bourgeois origins of many of their leaders.
+3 Marx and Engels later argued that weaknesses and reformist tendencies of the Chartist movement were rooted in the petty bourgeois origins of many of their leaders.
 
-<sup>4</sup> The most horrific example occurred at Peterloo, when the region's lower middle classes allegedly comprised the majority of yeomen who perpetrated the massacre.
+4 The most horrific example occurred at Peterloo, when the region's lower middle classes allegedly comprised the majority of yeomen who perpetrated the massacre.
 
 # **CHAPTER TWO SUPERSTAR TRADESMEN: THE RETURN OF THE TRADITIONAL PETTY BOURGEOISIE**
 
@@ -910,7 +915,7 @@ Recreating and replicating the precarious and isolated social world of the petty
 
 Whether they are self-employed or "technically" the petty bourgeoisie or not, there is now a larger — and continuously growing — proportion of people working on their own, in isolated, non-unionised, non-collectivized environments. The experience of driving a car on your own, in relative isolation, or working in your own house, or working on site on your own or with your son or brother, week in, week out, is a different social experience of work and society to working in a collective, unionised workplace. We know from historical insights into the petty bourgeoisie that these conditions of life and work have often logically produced an individualism that has often been hostile to collectivism, and so this development is therefore highly significant for the left and society more generally.
 
-<sup>5</sup> It is very important, as Poulantzas reminds us, to distinguish between "small capital" and the petty bourgeoisie, and not to conflate non-monopoly capital with small capital, or medium with small, and so on. Small capital is not "everyone outside big monopoly capital". By small capital, I mean microbusinesses with 1-9 employees, whereas the petty bourgeois are those solo-self-employed who employ no one. There is a clear and important difference between those who employ themselves, or maybe family members, and those who employ others. The petty bourgeoisie were defined by self-exploitation and the particular social isolation and circumstances generated by solo-self-employment. It is *solo* self-employment that has historically driven the centrality of the family to the petty-bourgeois experience, as well as the particular patriarchal social relations and worldview that emerge from this particular situation.
+5 It is very important, as Poulantzas reminds us, to distinguish between "small capital" and the petty bourgeoisie, and not to conflate non-monopoly capital with small capital, or medium with small, and so on. Small capital is not "everyone outside big monopoly capital". By small capital, I mean microbusinesses with 1-9 employees, whereas the petty bourgeois are those solo-self-employed who employ no one. There is a clear and important difference between those who employ themselves, or maybe family members, and those who employ others. The petty bourgeoisie were defined by self-exploitation and the particular social isolation and circumstances generated by solo-self-employment. It is *solo* self-employment that has historically driven the centrality of the family to the petty-bourgeois experience, as well as the particular patriarchal social relations and worldview that emerge from this particular situation.
 
 # **CHAPTER THREE THE NEW PETTY BOURGEOISIE AND CLASS ANALYSIS (OR, WHY WE ARE NOT THE WORKING CLASS)**
 
@@ -1194,7 +1199,7 @@ While Poulantzas' work sketched the outline of a new class, which has since grow
 
 The next chapter focuses on education and how it functions as a class divide, and in doing so, hopefully helps flesh out the internal content of the new petty bourgeoisie.
 
-<sup>6</sup> As Urry and Abercrombie note, the concept of "services" is unhelpfully nebulous and confusing: who is being serviced? And in what way? For Marx, productive workers are those who produce surplus value. "Unproductive" "service" workers does not mean that people are lazy, but rather that they capture value produced elsewhere: e.g., a teacher paid by the state, through money received through taxation, which extracts value from the productive (of value) labour of workers and businesses. The concept of "services" is therefore broad. It could mean those who service the bourgeoisie (literal servants; think Stevens in *The Remains of the Day*); those who facilitate the circulation of capital and commodities rather than producing them (advertising); those who specifically service capital (accountants, supervisors, corporate lawyers); those who absorb surplus capital through the consumption of luxury goods; those who provide services to other workers (hairdressers, barmen, personal trainers, and so on).
+6 As Urry and Abercrombie note, the concept of "services" is unhelpfully nebulous and confusing: who is being serviced? And in what way? For Marx, productive workers are those who produce surplus value. "Unproductive" "service" workers does not mean that people are lazy, but rather that they capture value produced elsewhere: e.g., a teacher paid by the state, through money received through taxation, which extracts value from the productive (of value) labour of workers and businesses. The concept of "services" is therefore broad. It could mean those who service the bourgeoisie (literal servants; think Stevens in *The Remains of the Day*); those who facilitate the circulation of capital and commodities rather than producing them (advertising); those who specifically service capital (accountants, supervisors, corporate lawyers); those who absorb surplus capital through the consumption of luxury goods; those who provide services to other workers (hairdressers, barmen, personal trainers, and so on).
 
 # **CHAPTER FOUR THE EDUCATIONAL ELEVATOR: EDUCATION IN THE MODERN CLASS STRUCTURE AND THE CREATION OF THE NEW PETTY BOURGEOISIE**
 
@@ -1444,9 +1449,9 @@ Ironically, because of their blocked and/or downward social mobility, the new pe
 
 Yet while status anxiety and the threat of downward social mobility and the need to do anything to prevent this happening — drove the traditional petty bourgeoise to bitter, reactionary politics, the experience of blocked social mobility has radicalized large swathes of the new petty bourgeoisie to the left, or at least progressive politics generally speaking. It is unsurprising that Corbynism can trace its lineage back to the student protests of 2010, because that is perhaps when the reality of proletarianization and blocked social mobility began to dawn on many new members of this class. It may also be possible to conceptualize their turn to the "left" — which is, in reality, often simply support for socially liberal politics rather than redistributive ones — as part of the process of distinction, rather than as a genuine socialism or fundamental polarization towards the working class.
 
-<sup>7</sup> In the UK, the most deprived students are eligible for free school meals, and hence free school meal eligibility is the standard measure of the deprivation of a school.
+7 In the UK, the most deprived students are eligible for free school meals, and hence free school meal eligibility is the standard measure of the deprivation of a school.
 
-<sup>8</sup> For this reason, these schools in fact did not impart "technical" education for future members of the nascent professional-managerial classes, but instead subjects like Latin — schools were explicitly about inculcating "cultural capital" and training wannabes in the habitus of the bourgeoisie.
+8 For this reason, these schools in fact did not impart "technical" education for future members of the nascent professional-managerial classes, but instead subjects like Latin — schools were explicitly about inculcating "cultural capital" and training wannabes in the habitus of the bourgeoisie.
 
 - 9 While further education was still rare and specialized, under 8% of the children of unskilled workers went onto further education following grammar school (with under 2% of boys), while 33% of the children of the professional-managerial classes did.
 - 10 A 2:2, i.e., a second-class degree.
@@ -1877,7 +1882,9 @@ Finally, I have spent most of my adult life and career "on the left" around the 
 
 Figure 1. Class checklist.
 
-| | Proletariat | Old Petty<br>Bourgeoisie | New Petty<br>Bourgeoisie | Professional-<br>Managerial Class | Bourgeoisie |
+| | Proletariat | Old Petty
+Bourgeoisie | New Petty
+Bourgeoisie | ProfessionalManagerial Class | Bourgeoisie |
 |-----------------------------------------------------------------------|-------------|--------------------------|--------------------------|-----------------------------------|-------------|
 | Produce value? | Yes | Yes | Yes | Yes | No |
 | Own the means of production? | No | Yes | No | No | Yes |
@@ -1894,16 +1901,30 @@ Figure 2. Comparisons/checklist: petty bourgeoisie, new petty bourgeoisie, prole
 |---------------------|------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Economic | Owns own business | Doesn't own own business — has to sell labour like the proletariat | Doesn't own own means of production so has to sell labour (i.e., work) to live |
 | Economic | Rooted in small capital and traditional work | Works in both big and small business and the state bureaucracy | Works in big and small business |
-| Economic/<br>Social | Historically owns own property (house), which was used to distinguish itself socially from the proletariat. | Split. Some elements outside<br>the cities who have not been<br>proletarianized do, while<br>others- particularly young<br>graduates in the city, do not. | Traditionally did not own their own property but now increasingly does, while a lumpen element is locked out of the housing market. |
-| Social | Precarious — at risk of<br>falling down the class<br>structure and being<br>ruined | Precarious — at risk of falling down the class structure through inevitable deskilling of white collar industries. | Static class — generally does not move up in the class structure |
+| Economic/
+Social | Historically owns own property (house), which was used to distinguish itself socially from the proletariat. | Split. Some elements outside
+the cities who have not been
+proletarianized do, while
+others- particularly young
+graduates in the city, do not. | Traditionally did not own their own property but now increasingly does, while a lumpen element is locked out of the housing market. |
+| Social | Precarious — at risk of
+falling down the class
+structure and being
+ruined | Precarious — at risk of falling down the class structure through inevitable deskilling of white collar industries. | Static class — generally does not move up in the class structure |
 | Social | Isolated form of work | Works in big business but is socially isolated through competition with other workers because of fixation on social mobility | Collective work |
-| Social/<br>Cultural | Individualistic ideology | Individualistic ideology | Collectivist ideology |
+| Social/
+Cultural | Individualistic ideology | Individualistic ideology | Collectivist ideology |
 | Cultural | Distinct culture and aesthetic rooted in the need for distinction vis a vis the working class. | Unclear what the distinct culture or habitus of the class is. Likely that it absorbs cultural elements of the working class and professional-managerial class. | Distinct habitus and aesthetics |
-| Cultural | Negative view of bureaucracy, big capital and globalization. | Lacks the negative view of bureaucracy as it often works in these fields. | Negative view of bureaucracy as it is<br>the most subject to the bureaucracy;<br>the state bureaucracy was created<br>to disempower the proletariat and<br>replace its traditional institutions<br>and forms of knowledge. |
+| Cultural | Negative view of bureaucracy, big capital and globalization. | Lacks the negative view of bureaucracy as it often works in these fields. | Negative view of bureaucracy as it is
+the most subject to the bureaucracy;
+the state bureaucracy was created
+to disempower the proletariat and
+replace its traditional institutions
+and forms of knowledge. |
 | Cultural | Historically a negative view of formal education. | Historically views education very positively as central to facilitating social mobility. | Historically a negative view of formal education, but frequently engages in other forms of self-education. |
 | Cultural | Traditional family unit extremely important for running the business, securing property and reproducing position in the class structure. | Unclear whether family unit retains the same centrality. | Traditional nuclear family unit has traditionally been broken up by work (e.g., both parents have had to work). |
 
-| Cultural | Geographically rooted. | Often geographically mobile. | Globally mobile but British proletariat <i>tends</i> to be geographically rooted. |
+| Cultural | Geographically rooted. | Often geographically mobile. | Globally mobile but British proletariat tends to be geographically rooted. |
 |-----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
 | Cultural | Has own associational life but these tend to be outside work and viewed in utilitarian ways (i.e., as ways of helping the business, making contacts, arranging marriage to reproduce the business etc). Generally has no politically collectivist institutions or distinct intellectual life. | Unclear | Has own institutional and intellectual life. |
 | Political | Distinct political tendencies — chaotic and pulled in both directions; tendency to violence and reformism. | Distinct political tendencies — chaotic and pulled in both directions; tendency to reformism. | Distinct political tendencies — the only revolutionary class. |
@@ -1968,17 +1989,17 @@ Fractions are distinct strata or groups within the same class which can have dif
 
 - Adkins, L., Cooper, M., & Konings, M., (2020) *The Asset Economy* Polity
 - Althusser, L. (1970) *'Ideology and Ideological State Apparatuses'*in *Lenin and Philosophy and Other Essays,* Monthly Review Press available online at:
- - <https://www.marxists.org/reference/archive/althusser/1970/ideology.htm>
+ - 
 - Bano, N., (2021) 'Home Ownership Can't Solve the Housing Crisis' *Tribune* October 2nd [https://tribunemag.co.uk/2021/10/homeownership](https://tribunemag.co.uk/2021/10/homeownership-cant-solve-the-housing-crisis)[cant-solve-the-housing-crisis](https://tribunemag.co.uk/2021/10/homeownership-cant-solve-the-housing-crisis)
 - Barratt, T., Goods, C., Veen, A. (2020) 'I'm my own boss…': Active intermediation and 'entrepreneurial' worker agency in the Australian gigeconomy. *Environment and Planning A: Economy and Space*. 52(8) pp-1643-1661.
 - Bechhofer, F., & Elliot, B (1978) 'The Voice of Small Business & The Politics of Survival' *The Sociological Review*, 26 (1) pp. 57-88
 - Bechhofer, F., & Elliot, B., (1968) 'An approach to a study of small shopkeepers and the class structure' European Journal of Sociology 9 (2) pp. 180-202
 - Bechhofer, F., & Elliot, B., (1981) *The Petite-Bourgeoisie: Comparative Studies of the Uneasy Stratum* Mac Millan
 - Bechhofer, F., & Elliot, B., (1985) 'The Petite Bourgeoisie in Late Capitalism' *Annual Review of Sociology*, Vol. 11 pp. 181-207
-- Benn-Michaels, W. (2018) 'The Political Economy of Anti-Racism' Nonsite.org February 11th, 2018 Available online at: <https://nonsite.org/the-political-economy-of-anti-racism/>
+- Benn-Michaels, W. (2018) 'The Political Economy of Anti-Racism' Nonsite.org February 11th, 2018 Available online at: 
 - Benn-Michaels, W., & Reed, A., (2020) 'The Trouble with Disparity' Nonsite.org September 10th 2020. (Available online at:
 
-#### <https://nonsite.org/the-trouble-with-disparity/>)
+#### )
 
 - Birelma, A. (2019) 'Working-class entrepreneurialism: Perceptions, aspirations, and experiences of petty entrepreneurship among male manual workers in Turkey' *New Perspectives on Turkey* Vol.61 pp. 45-70
 - Blundell, J. (2019) 'Clusters in Uk Self-Employment' *Centre for Economic Performance Occasional Papers*, 48. (Available online at: [https://cep.lse.ac.uk/pubs/download/occasional/op048.pdf\)](https://cep.lse.ac.uk/pubs/download/occasional/op048.pdf)
@@ -1994,7 +2015,7 @@ Fractions are distinct strata or groups within the same class which can have dif
 - Chitty, C. (2013) *New Labour and Secondary Education, 1994-2010* Basingstoke: Palgrave Macmillan
 - Christophers, B. (2020) *Rentier Capitalism: Who Owns the Economy, and Who Pays for It?* Verso
 
-- Clarke, S., & Ginsberg, N., (1974) 'The Political Economy Of Housing' *C. S. E. Political Economy Of Housing Group—Papers available online at:* <https://homepages.warwick.ac.uk/~syrbe/pubs/Clarke Ginsburg.pdf>
+- Clarke, S., & Ginsberg, N., (1974) 'The Political Economy Of Housing' *C. S. E. Political Economy Of Housing Group—Papers available online at:* 
 - Colomb, C. (2007) 'Unpacking new labour's 'Urban Renaissance' agenda:Towards a socially sustainable reurbanization of British cities?', *Planning, practice & research*, 22 (1), pp. 1-24.
 - Cooper, M. (2022) 'Family Capitalism and the Small Business Insurrection' *Dissent Magazine*, (available online at [https://www.dissentmagazine.org/article/family-capitalism-and-thesmall](https://www.dissentmagazine.org/article/family-capitalism-and-thesmall-business-insurrection)[business-insurrection\)](https://www.dissentmagazine.org/article/family-capitalism-and-thesmall-business-insurrection)
 - Davies, A. R. (2013). 'Right to Buy': The Development of a Conservative Housing Policy, 1945 – 1980. *Contemporary British History*, 27(4), pp. 421-444.
@@ -2003,8 +2024,8 @@ Fractions are distinct strata or groups within the same class which can have dif
 - Eagleton, O. (2021) 'Vicious, Horrible People' *New Left Review 127*
 - Eaton, G. (2021) 'How Tory dominance is built on home ownership' *New Statesman* 12th May 2021 (available online at: [https://www.newstatesman.com/politics/uk-politics/2021/05/howtory](https://www.newstatesman.com/politics/uk-politics/2021/05/howtory-dominance-built-home-ownership)[dominance-built-home-ownership](https://www.newstatesman.com/politics/uk-politics/2021/05/howtory-dominance-built-home-ownership)).
 - Ehrenreich, B., & Ehrenreich, J. (1977) 'The New Left: A Case Study in Professional-Managerial Class Radicalism' *Radical America* Vol 11 (3), pp. 7-22 (available online at [https://files.libcom.org/files/Rad%20America%20V11%20I3.pdf.](https://files.libcom.org/files/Rad%20America%20V11%20I3.pdf))
-- Ehrenreich, B., & Ehrenreich, J. (1977) 'The Professional-Managerial Class' *Radical America* Vol 11 (2) pp.7- 32 (available online at <https://files.libcom.org/files/Rad%20America%20V11%2012.pdf>)
-- Engels, F. (1852) *Revolution and Counter-Revolution in Germany* (available online at: <https://www.marxists.org/archive/marx/works/1852/germany/index.htm>)
+- Ehrenreich, B., & Ehrenreich, J. (1977) 'The Professional-Managerial Class' *Radical America* Vol 11 (2) pp.7- 32 (available online at )
+- Engels, F. (1852) *Revolution and Counter-Revolution in Germany* (available online at: )
 
 - Engels, F. (1872) *The Housing Question (*available online at: [https://www.marxists.org/archive/marx/works/1872/housing-question/\)](https://www.marxists.org/archive/marx/works/1872/housing-question/).
 - Evans, G.,& Tilley, J (2015) 'The new class war: Excluding the working class in 21st-century Britain' *Juncture* 21 (4) [https://www.ippr.org/juncture/the-new-class-war-excluding-theworking](https://www.ippr.org/juncture/the-new-class-war-excluding-theworking-class-in-21st-century-britain)[class-in-21st-century-britain](https://www.ippr.org/juncture/the-new-class-war-excluding-theworking-class-in-21st-century-britain)
@@ -2062,7 +2083,7 @@ Fractions are distinct strata or groups within the same class which can have dif
 - Saunders, P. (1984) 'Beyond housing classes: the sociological significance of private property rights in means of consumption' *International Journal of Urban and Regional Research 8* (2) pp. 202-227
 - Saunders, P. (1990) *A Nation of Homeowners* Unwin Hyman
 
-- Savage, M. Devine, F., Cunningham, N., Taylor, M., Li, Y., Hjelbrekke, J., Le Roux, B., Friedman, S., Miles, A., (2013) 'A New Model of Social Class? Findings from the BBC's Great British Class Survey Experiment' *Sociology* 47 (2) pp. 219-250 (available online at: <https://journals.sagepub.com/doi/pdf/10.1177/0038038513481128>)
+- Savage, M. Devine, F., Cunningham, N., Taylor, M., Li, Y., Hjelbrekke, J., Le Roux, B., Friedman, S., Miles, A., (2013) 'A New Model of Social Class? Findings from the BBC's Great British Class Survey Experiment' *Sociology* 47 (2) pp. 219-250 (available online at: )
 - Savage, M., Barker, J., Dickens, P., & Fielding, T. (1995) *Property, Bureaucracy & Culture: Middle Class Formation in Contemporary Britain* Routledge
 - Scase. R., & Goffee., R. (1981) 'Traditional Petty Bourgeois Attitudes: The Case of Self-Employed Craftsmen' *The Sociological Review* 29 (4) pp. 729-747
 - Sivanandan, A. (1990) 'All that melts into air is solid: the hokum of New Times', *Race & Class*, Vol 31(3), pp. 1–30.
@@ -2075,7 +2096,7 @@ Fractions are distinct strata or groups within the same class which can have dif
 - Urry, J., & Abercrombie, N. (1983) *Capital, Labour and the Middle Classes* George Allen & Unwin: London
 - Waites, B. (1987) *A Class Society at War: England 1914-18* Berg: Leamington Spa
 
-- Ward, C. (1987) 'The Path Not Taken' *Raven* No.3. Available online at: <https://libcom.org/article/path-not-taken-colin-ward>
+- Ward, C. (1987) 'The Path Not Taken' *Raven* No.3. Available online at: 
 - Wayne, M. (2021) 'Roadmaps After Corbyn: Parties, Classes, Political Cultures' *New Left Review 131*
 - Weldon, D. (2021) 'Barratt Britain: A Closer Look at The Conservative's Red Wall Seats' IPPR *Progressive Review* PP. 281- 285
 - Willis, P. (1978) *Learning to Labour: How Working Class Kids Get Working Class Jobs* Ashgate

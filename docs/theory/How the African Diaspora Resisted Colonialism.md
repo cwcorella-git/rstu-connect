@@ -1,3 +1,8 @@
+---
+title: ""Beautiful mornin', you're the sun in my mornin' You're the help I know" 0:05"
+category: "theory"
+---
+
 "Beautiful mornin', you're the sun in my mornin' You're the help I know" 0:05
 
 The African Diaspora is widespread and diverse. You can find our scattered hundreds of millions

@@ -1,15 +1,8 @@
 ---
-title: >-
-  Wobbling To Victory Are Militant Unions Anarchist Wreckers Or the Future of
-  the
-date: 2025
-author: Industrial Workers of the World
-tags:
-  - organizing
-  - unions
-  - rent
-  - police
-  - labor
+title: ">-"
+author: "Industrial Workers of the World"
+date: "2025"
+category: "theory"
 ---
 
 # Wobbling To Victory Are Militant Unions Anarchist Wreckers Or the Future of the

@@ -1,3 +1,8 @@
+---
+title: "## James Herod"
+category: "arts-culture-music"
+---
+
 ## James Herod
 
 ## Defeating Capitalists Quickly to Save the Earth
@@ -81,7 +86,7 @@ What I would like to see is a new international anti-capitalist organization tha
 
 [\[2\]](#page-0-1) These figures are taken from Paul Beckwith's You Tube videos on global warming in the fall of 2016, the recent sixpart summary of the scientific evidence, "Rapid Climate Change & Impacts for Environmental Assessment." Part 1 begins at:
 
-<https://www.youtube.com/watch?v=C1Pr\_tAKs6E>.
+.
 
 Beckwith is an expert Canadian climate scientist. He has many You Tube videos on the climate crisis.
 
@@ -89,12 +94,12 @@ Beckwith is an expert Canadian climate scientist. He has many You Tube videos on
 
 [\[4\]](#page-1-0) The two best studies of the international financial system are: Michael Hudson, Super Imperialism: The Origin and Fundamentals of U. S. World Dominance. London and New York: Pluto Press, 1972, new edition in 2003, 425 pages; and Michel Chossudovsky, The Globalisation of Poverty: Impacts of IMF and World Bank Reforms. London: Zed Books, 1998, 280 pages. Second edition, 2003. For a preliminary bibliography on money in general see James Herod, "Abolishing Money: A Proposed Research Project, with Bibliography," February 2008, at:
 
-<http://www.jamesherod.info/index.php?sec=blog&id=31>.
+.
 
 [\[5\]](#page-2-0) Giovanni Arrighi, The Long Twentieth Century: Money, Power, and the Origins of Our Times. London: Verso, 1994, 2nd edition with an added 15-page Postscript, 2010, 416 pages.
 
 [\[6\]](#page-2-1) See Michael Hudson, Killing the Host: How Financial Parasites and Debt Destroy the Global Economy. ISLET-Verlag, 2015, 435 pages. Hudson proposes ten reforms to reign in the financial oligarchy. See Chapter 29, "The Fight for the 21st Century." Two more of his recent books are: Finance Capitalism and Its Discontents; and The Bubble and Beyond: Fictitious Capital, Debt Deflation, and Global Crisis.
 
-[\[7\]](#page-4-0) "The network of global corporate control," by Stefania Vitali1, James B. Glattfelder1, and Stefano Battiston, on the web at: < https://arxiv.org/PS\_cache/arxiv/pdf/1107/1107.5728v2.pdf>.
+[\[7\]](#page-4-0) "The network of global corporate control," by Stefania Vitali1, James B. Glattfelder1, and Stefano Battiston, on the web at: .
 
 Published in Anarcho-Syndicalist Review, #69, Winter 2017

@@ -1,3 +1,8 @@
+---
+title: "**It Can't Happen Here**"
+category: "technology-digital-justice"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/It_Can%27t_Happen_Here)
 
 # **It Can't Happen Here**
@@ -17,13 +22,15 @@
 | Author | Sinclair Lewis |
 |----------|----------------------------------------|
 | Language | English |
-| Genre | Political fiction<br>Dystopian fiction |
+| Genre | Political fiction
+Dystopian fiction |
 
 | Publisher | Doubleday, Doran and Company |
 |-------------------|------------------------------|
 | Publication date | October 21, 1935 |
 | Publication place | United States |
-| Media<br>type | Print (hardcover) |
+| Media
+type | Print (hardcover) |
 | Pages | 458 pp. |
 ## | ISBN | 045121658X |
 

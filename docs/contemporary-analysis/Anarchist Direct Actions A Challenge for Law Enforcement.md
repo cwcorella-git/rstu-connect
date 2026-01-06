@@ -1,3 +1,8 @@
+---
+title: "## **Anarchist Direct Actions: A Challenge for Law Enforcement**"
+category: "contemporary-analysis"
+---
+
 ## **Anarchist Direct Actions: A Challenge for Law Enforcement**
 
 ## **Date:** Unknown

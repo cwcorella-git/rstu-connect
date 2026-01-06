@@ -1,3 +1,8 @@
+---
+title: "## **Another World is Phony? The case for a syndicalist vision**"
+category: "contemporary-analysis"
+---
+
 ## **Another World is Phony? The case for a syndicalist vision**
 
 ## **Date:** Unknown

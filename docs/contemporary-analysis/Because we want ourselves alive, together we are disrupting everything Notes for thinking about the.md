@@ -1,3 +1,8 @@
+---
+title: "## **Because we want ourselves alive, together we are disrupting everything: Notes for thinking abou"
+category: "contemporary-analysis"
+---
+
 ## **Because we want ourselves alive, together we are disrupting everything: Notes for thinking about the paths of social transformation today**
 
 ## **Date:** Unknown

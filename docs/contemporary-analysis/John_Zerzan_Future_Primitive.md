@@ -1,3 +1,8 @@
+---
+title: "**FUTURE PRIMITIVE**"
+category: "contemporary-analysis"
+---
+
 # **FUTURE PRIMITIVE**
 
 ## AND OTHER ESSAYS

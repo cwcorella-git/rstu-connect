@@ -1,3 +1,8 @@
+---
+title: "[Praise](https://en.wikipedia.org/wiki/Main_Page)"
+category: "technology-digital-justice"
+---
+
 ## ![](_page_0_Picture_2.jpeg)
 
 # [Praise](https://en.wikipedia.org/wiki/Main_Page)

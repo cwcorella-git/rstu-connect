@@ -1,3 +1,8 @@
+---
+title: "## **American Federation of Teachers Resolution on A Just Transition to a Peaceful and Sustainable E"
+category: "labor"
+---
+
 ## **American Federation of Teachers Resolution on A Just Transition to a Peaceful and Sustainable Economy**
 
 ## **Date:** Wed, 02/08/2017 - 14:31

@@ -1,3 +1,8 @@
+---
+title: "**METAPHYSICS BOOK I**"
+category: "arts-culture-music"
+---
+
 # **METAPHYSICS BOOK I**
 
 # **ARISTOTLE'S INTRODUCTION HISTORY OF METAPHYSICAL INQUIRY**

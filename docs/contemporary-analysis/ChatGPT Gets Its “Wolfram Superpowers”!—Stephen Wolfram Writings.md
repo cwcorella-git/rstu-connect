@@ -1,3 +1,8 @@
+---
+title: "**ChatGPT Gets Its "Wolfram Superpowers"!**"
+category: "contemporary-analysis"
+---
+
 #### [writings.stephenwolfram.com](https://writings.stephenwolfram.com/2023/03/chatgpt-gets-its-wolfram-superpowers/)
 
 # **ChatGPT Gets Its "Wolfram Superpowers"!**

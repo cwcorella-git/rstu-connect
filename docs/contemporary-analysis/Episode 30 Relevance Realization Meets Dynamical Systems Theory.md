@@ -1,3 +1,8 @@
+---
+title: "## **Episode 30: Relevance Realization Meets Dynamical Systems Theory/**"
+category: "contemporary-analysis"
+---
+
 ## **Episode 30: Relevance Realization Meets Dynamical Systems Theory/**
 
 **Source:** https://www.meaningcrisis.co/ep-30-awakening-from-the-meaning-crisis-relevance-realizationmeets-dynamical-systems-theory/

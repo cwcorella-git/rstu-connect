@@ -1,3 +1,8 @@
+---
+title: "## **The Capitalist Offensive**"
+category: "contemporary-analysis"
+---
+
 ## **The Capitalist Offensive**
 
 ## **Date:** Unknown

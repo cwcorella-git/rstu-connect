@@ -1,3 +1,8 @@
+---
+title: "## **Starving amidst too much - T-Bone Slim**"
+category: "contemporary-analysis"
+---
+
 ## **Starving amidst too much - T-Bone Slim**
 
 ## **Date:** Unknown

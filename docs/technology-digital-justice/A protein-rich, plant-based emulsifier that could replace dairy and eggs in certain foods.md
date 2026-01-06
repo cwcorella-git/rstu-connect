@@ -1,3 +1,8 @@
+---
+title: "## [phys.org](https://phys.org/news/2021-12-protein-rich-plant-based-emulsifier-dairy-eggs.amp)"
+category: "technology-digital-justice"
+---
+
 ## [phys.org](https://phys.org/news/2021-12-protein-rich-plant-based-emulsifier-dairy-eggs.amp)
 
 ## A protein-rich, plant-based emulsifier that could replace dairy and eggs in certain foods

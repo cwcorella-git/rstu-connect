@@ -1,15 +1,8 @@
 ---
-title: >-
-  Communion the Female Search For Love Love Song To the Bell Hooks Montserrat
-  Ase
-date: 2025
-author: bell hooks
-tags:
-  - organizing
-  - strikes
-  - unions
-  - housing
-  - rent
+title: ">-"
+author: "bell hooks"
+date: "2025"
+category: "labor"
 ---
 
 # Communion the Female Search For Love Love Song To the Bell Hooks Montserrat Ase

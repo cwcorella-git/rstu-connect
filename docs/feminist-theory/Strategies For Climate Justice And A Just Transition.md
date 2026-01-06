@@ -1,9 +1,15 @@
+---
+title: "## **Strategies For Climate Justice And A Just Transition**"
+category: "feminist-theory"
+---
+
 ## **Strategies For Climate Justice And A Just Transition**
 
 | Date: Mon, 01/18/2016 - 19:06 |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Source: https://ecology.iww.org/node/1472|
-| Tags: green unionism, just transition, Labor Network for Sustainability (LNS), Trade Unions for Energy<br>Democracy (TUED), movement politics, intersectionality, Rhode Island |
+| Tags: green unionism, just transition, Labor Network for Sustainability (LNS), Trade Unions for Energy
+Democracy (TUED), movement politics, intersectionality, Rhode Island |
 | By Environmental Justice League of RI - |
 | RI Future |
 | , January 15, 2016 |
@@ -12,7 +18,8 @@
 | ( |
 | EJLRI |
 | ) has created a brilliant position paper, " |
-| National Grid's Liquefied Natural Gas (LNG) Liquefaction Facility: Toxic Hazards in the Port<br>Providence: Proposals for a Just Transition |
+| National Grid's Liquefied Natural Gas (LNG) Liquefaction Facility: Toxic Hazards in the Port
+Providence: Proposals for a Just Transition |
 | " that eviscerates |
 
 | National Grid |
@@ -21,13 +28,16 @@
 | LNG |
 | at |
 | Fields Point |
-| in South Providence. Over the next few days RI Future will be presenting the EJLRI's position<br>paper in its entirety. |
+| in South Providence. Over the next few days RI Future will be presenting the EJLRI's position
+paper in its entirety. |
 | Solutions and Alternatives |
 | The information presented in the previous posts show that in addition to not being necessary, |
 | National Grid |
 | 's proposed |
 | LNG Liquefaction Facility |
-| would be dangerous and would contribute to existing environmental racism. LNG Liquefaction<br>is not needed in Rhode Island in general, and it certainly should not be placed in the most<br>toxic and most impoverished part of the state. |
+| would be dangerous and would contribute to existing environmental racism. LNG Liquefaction
+is not needed in Rhode Island in general, and it certainly should not be placed in the most
+toxic and most impoverished part of the state. |
 
 The immediate solution is to stop this facility from being built. The
 
@@ -44,7 +54,8 @@ The immediate solution is to stop this facility from being built. The
 | ( |
 | RI CRMC |
 | ) need to deny the state level permits. |
-| That being said, the proposed liquefaction facility is not the only problem outlined in this<br>position paper. Even without the added significant risks of the liquefaction facility, the existing |
+| That being said, the proposed liquefaction facility is not the only problem outlined in this
+position paper. Even without the added significant risks of the liquefaction facility, the existing |
 ## | LNG storage tank |
 
 | , the | |
@@ -67,11 +78,16 @@ As an organization, the EJ League is interested in big picture, long term, real 
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | , and |
 | Climate Justice Alliance |
-| . Together, and lead by our members and our communities, we are developing and sharing<br>solutions that address these intersecting crises from the grassroots. |
-| These community based solutions are in opposition to the corporate top down false solutions<br>that pretend to address a single symptom while reinforcing the underlying root causes of the<br>problems. |
-| True solutions are rooted in the work of grassroots internationalism, and using the framework<br>of a " |
+| . Together, and lead by our members and our communities, we are developing and sharing
+solutions that address these intersecting crises from the grassroots. |
+| These community based solutions are in opposition to the corporate top down false solutions
+that pretend to address a single symptom while reinforcing the underlying root causes of the
+problems. |
+| True solutions are rooted in the work of grassroots internationalism, and using the framework
+of a " |
 | Just Transition |
-| ". We are collectively building a different context and a different system, an economy for<br>people and the planet. The Just Transition framework emerged from partnerships between |
+| ". We are collectively building a different context and a different system, an economy for
+people and the planet. The Just Transition framework emerged from partnerships between |
 | environmental justice |
 | and |
 | labor organizations |

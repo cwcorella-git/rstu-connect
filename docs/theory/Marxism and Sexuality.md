@@ -1,3 +1,8 @@
+---
+title: "## **Marxism and Sexuality**"
+category: "theory"
+---
+
 ## **Marxism and Sexuality**
 
 ## **Date:** Unknown

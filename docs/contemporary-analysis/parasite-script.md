@@ -1,3 +1,8 @@
+---
+title: "OUTSTANDING ORIGINAL SCREENPLAY"
+category: "contemporary-analysis"
+---
+
 # OUTSTANDING ORIGINAL SCREENPLAY
 
 ## SCREENPLAY BY

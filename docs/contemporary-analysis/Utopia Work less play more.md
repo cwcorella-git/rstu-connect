@@ -1,3 +1,8 @@
+---
+title: "## **Utopia: Work less play more**"
+category: "contemporary-analysis"
+---
+
 ## **Utopia: Work less play more**
 
 ## **Date:** Sun, 01/22/2017 - 17:50

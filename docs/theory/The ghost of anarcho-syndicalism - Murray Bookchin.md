@@ -1,16 +1,10 @@
 ---
-title: The Ghost Of Anarcho Syndicalism Murray Bookchin
-author: Murray Bookchin
-slug: The ghost of anarcho-syndicalism - Murray Bookchin
-reconversion_status: ready_for_reconversion
-date: 1949
-tags:
-  - theory
-  - anarchism
-  - strikes
-  - unions
-  - rent
+title: "The Ghost Of Anarcho Syndicalism Murray Bookchin"
+author: "Murray Bookchin"
+date: "1949"
+category: "theory"
 ---
+
 ## **The ghost of anarcho-syndicalism - Murray Bookchin**
 
 ## **Date:** Unknown

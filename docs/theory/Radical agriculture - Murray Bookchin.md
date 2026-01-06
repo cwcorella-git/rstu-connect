@@ -1,14 +1,10 @@
 ---
-title: Radical Agriculture Murray Bookchin
-author: Murray Bookchin
-slug: Radical agriculture - Murray Bookchin
-reconversion_status: ready_for_reconversion
-date: 1972
-tags:
-  - theory
-  - anarchism
-  - rent
+title: "Radical Agriculture Murray Bookchin"
+author: "Murray Bookchin"
+date: "1972"
+category: "theory"
 ---
+
 ## **Radical agriculture - Murray Bookchin**
 
 ## **Date:** Unknown

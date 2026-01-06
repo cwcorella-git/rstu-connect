@@ -1,24 +1,8 @@
 ---
-title: It Wasn’t a Tenure Case
-author: David Graeber
-date: 'October 11, 2017'
-pubdate: '2020-09-16T21:19:00'
-language: en
-source_url: >-
-  Retrieved on 16<sup>th</sup> September 2020 from
-  https://publicanthropologist.cmi.no/2017/10/11/academic-politics-of-silencing/#david-graeber
-topics:
-  - academy
-  - universities
-  - repression
-  - anthropology
-original_format: muse
-converted_date: '2025-11-08T11:25:03.143328'
-tags:
-  - Academy
-  - Universities
-  - Repression
-  - Anthropology
+title: "It Wasn’t a Tenure Case"
+author: "David Graeber"
+date: "October 11, 2017"
+category: "contemporary-analysis"
 ---
 
 First of all allow me to remark how touched and honored I am to be put on the same list as James Mooney, who I’ve always admired, and Edmund Leach, who may have been the man who most inspired me to take up an anthropological career. Leach for me always been a model of intellectual freedom.

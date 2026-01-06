@@ -1,3 +1,8 @@
+---
+title: "**Erich Fromm**"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_2.jpeg)
 
 # **Erich Fromm**
@@ -320,10 +325,36 @@ The [sick](https://en.wikiquote.org/wiki/Sick) [individual](https://en.wikiquote
 
 | Social and political philosophers | | [Collapse] |
 |-----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
-| Classic | Aristotle • Marcus Aurelius • Chanakya • Cicero • Confucius • Mozi • Laozi •<br>Mencius • Mozi • Plato • Plutarch • Polybius • Seneca the Younger • Socrates • Sun<br>Tzu • Thucydides • Xenophon • Xun Zi | |
-| Conservative | de Benoist • Bolingbroke • Bonald • Burke • Burnham • Carlyle • Coleridge • Comte<br>• Cortés • Durkheim • Dávila • Evola • Fichte • Filmer • Galton • Gentile • Hegel •<br>Heidegger • Herder • Hobbes • Hoppe • Hume • de Jouvenel • Jünger • Kirk • von<br>Kuehnelt-Leddihn • Land • de Maistre • Mansfield • Mosca • Oakeshott • Ortega •<br>Pareto • Peterson • Santayana • Schmitt • Scruton • Sowell • Spengler • Strauss •<br>Taine • Tocqueville<br>• Vico • Voegelin • Weaver • Yarvin | |
-| Liberal | Acton • Arendt • Aron • Bastiat • Beccaria • Bentham • Berlin • Boétie • Camus •<br>Condorcet • Constant • Dworkin • Emerson • Erasmus • Franklin • Fukuyama •<br>Hayek • Jefferson • Kant • Locke • Machiavelli • Madison • Maine • Mill • Milton •<br>Mencken • Mises • Montaigne • Montesquieu • Nietzsche • Nozick • Ortega •<br>Popper • Rand • Rawls • Rothbard • Sade • Schiller • Simmel • Smith • Spencer •<br>Spinoza • de Staël • Stirner • Thoreau • Tocqueville • Tucker • Voltaire • Weber •<br>Wollstonecraft | |
-| Religious | al-Ghazali • Ambedkar • Augustine of Hippo • Aquinas • Augustine • Aurobindo •<br>Calvin • Chesterton • Dante • Dayananda • Dostoyevsky • Eliade • Gandhi • Girard<br>• Gregory • Guénon • Jesus • John of Salisbury • Jung • Kierkegaard • Kołakowski •<br>Lewis • Luther • Maimonides • Malebranche • Maritain • More • Muhammad •<br>Müntzer • Niebuhr • Ockham • Origen • Philo • Pizan • Qutb • Radhakrishnan •<br>Shariati • Solzhenitsyn • Taylor • Teilhard de Chardin • Tertullian • Tolstoy •<br>Vivekananda • Weil | |
-| Socialist | Adorno • Aflaq • Agamben • Badiou • Bakunin • Baudrillard • Bauman • Bernstein •<br>Butler • Chomsky • de Beauvoir • Debord • Deleuze • Dewey • Du Bois • Engels •<br>Fanon • Foucault • Fourier • Fromm • Godwin • Goldman • Gramsci • Habermas •<br>Kropotkin • Lenin • London • Luxemburg • Mao • Marcuse • Marx • Mazzini • Negri<br>• Owen • Paine<br>Rorty • Rousseau • Russell • Saint-Simon • Sartre • Skinner • Sorel<br>• Trotsky • Walzer • Deng • Žižek | |
+| Classic | Aristotle • Marcus Aurelius • Chanakya • Cicero • Confucius • Mozi • Laozi •
+Mencius • Mozi • Plato • Plutarch • Polybius • Seneca the Younger • Socrates • Sun
+Tzu • Thucydides • Xenophon • Xun Zi | |
+| Conservative | de Benoist • Bolingbroke • Bonald • Burke • Burnham • Carlyle • Coleridge • Comte
+• Cortés • Durkheim • Dávila • Evola • Fichte • Filmer • Galton • Gentile • Hegel •
+Heidegger • Herder • Hobbes • Hoppe • Hume • de Jouvenel • Jünger • Kirk • von
+Kuehnelt-Leddihn • Land • de Maistre • Mansfield • Mosca • Oakeshott • Ortega •
+Pareto • Peterson • Santayana • Schmitt • Scruton • Sowell • Spengler • Strauss •
+Taine • Tocqueville
+• Vico • Voegelin • Weaver • Yarvin | |
+| Liberal | Acton • Arendt • Aron • Bastiat • Beccaria • Bentham • Berlin • Boétie • Camus •
+Condorcet • Constant • Dworkin • Emerson • Erasmus • Franklin • Fukuyama •
+Hayek • Jefferson • Kant • Locke • Machiavelli • Madison • Maine • Mill • Milton •
+Mencken • Mises • Montaigne • Montesquieu • Nietzsche • Nozick • Ortega •
+Popper • Rand • Rawls • Rothbard • Sade • Schiller • Simmel • Smith • Spencer •
+Spinoza • de Staël • Stirner • Thoreau • Tocqueville • Tucker • Voltaire • Weber •
+Wollstonecraft | |
+| Religious | al-Ghazali • Ambedkar • Augustine of Hippo • Aquinas • Augustine • Aurobindo •
+Calvin • Chesterton • Dante • Dayananda • Dostoyevsky • Eliade • Gandhi • Girard
+• Gregory • Guénon • Jesus • John of Salisbury • Jung • Kierkegaard • Kołakowski •
+Lewis • Luther • Maimonides • Malebranche • Maritain • More • Muhammad •
+Müntzer • Niebuhr • Ockham • Origen • Philo • Pizan • Qutb • Radhakrishnan •
+Shariati • Solzhenitsyn • Taylor • Teilhard de Chardin • Tertullian • Tolstoy •
+Vivekananda • Weil | |
+| Socialist | Adorno • Aflaq • Agamben • Badiou • Bakunin • Baudrillard • Bauman • Bernstein •
+Butler • Chomsky • de Beauvoir • Debord • Deleuze • Dewey • Du Bois • Engels •
+Fanon • Foucault • Fourier • Fromm • Godwin • Goldman • Gramsci • Habermas •
+Kropotkin • Lenin • London • Luxemburg • Mao • Marcuse • Marx • Mazzini • Negri
+• Owen • Paine
+Rorty • Rousseau • Russell • Saint-Simon • Sartre • Skinner • Sorel
+• Trotsky • Walzer • Deng • Žižek | |
 
 Retrieved from ["https://en.wikiquote.org/w/index.php?title=Erich\\_Fromm&oldid=3795331"](https://en.wikiquote.org/w/index.php?title=Erich_Fromm&oldid=3795331)

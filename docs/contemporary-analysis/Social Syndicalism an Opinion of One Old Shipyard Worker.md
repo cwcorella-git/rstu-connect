@@ -1,3 +1,8 @@
+---
+title: "**Social Syndicalism: an Opinion of One Old Shipyard Worker**"
+category: "contemporary-analysis"
+---
+
 # **Social Syndicalism: an Opinion of One Old Shipyard Worker**
 
 ## **Date:** Tue, 11/17/2015 - 13:58

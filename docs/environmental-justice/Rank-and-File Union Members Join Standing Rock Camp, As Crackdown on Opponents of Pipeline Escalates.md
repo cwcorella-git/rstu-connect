@@ -1,3 +1,8 @@
+---
+title: "## **Rank-and-File Union Members Join Standing Rock Camp, As Crackdown on Opponents of Pipeline Esca"
+category: "environmental-justice"
+---
+
 ## **Rank-and-File Union Members Join Standing Rock Camp, As Crackdown on Opponents of Pipeline Escalates**
 
 **Date:** Thu, 10/27/2016 - 15:33 **Source:** https://ecology.iww.org/node/1885**Tags:** green unionism, IWW Environmental Unionism Caucus, Labor for Standing Rock (L4SR), Labor for Palestine, NoDAPL, yellow unionism, North America's Building Trades Unions (NABTU), trade unions, indigenous, United Food and Commercial Workers (UFCW) By Micheal Letwin and Cliff Willmeng - Labor for Standing Rock , October 27, 2016 Editor's note: IWW Environmental Unionism Caucus cofounder, Steve Ongerth, is also a cofounder of Labor for Standing Rock. On Saturday, October 29 at 10 AM, union members and supporters are assembling at

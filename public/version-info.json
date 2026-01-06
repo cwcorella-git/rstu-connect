@@ -1,8 +1,8 @@
 {
-  "commit": "245ded6",
-  "message": "Remove 72 near-duplicate documents (>85% title similarity)",
+  "commit": "d3ee9d6",
+  "message": "Edit mode: Add browser-based GitHub token setup",
   "author": "cwcorella-git",
-  "date": "2026-01-05 16:43:26 -0800",
+  "date": "2026-01-05 16:49:51 -0800",
   "branch": "main",
-  "buildTime": "2026-01-06T00:47:00.467Z"
+  "buildTime": "2026-01-06T01:28:52.517Z"
 }

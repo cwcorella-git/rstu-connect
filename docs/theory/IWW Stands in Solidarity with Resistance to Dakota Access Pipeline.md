@@ -1,3 +1,8 @@
+---
+title: "## **IWW Stands in Solidarity with Resistance to Dakota Access Pipeline**"
+category: "theory"
+---
+
 ## **IWW Stands in Solidarity with Resistance to Dakota Access Pipeline**
 
 ## **Date:** Thu, 09/08/2016 - 10:43

@@ -1,12 +1,10 @@
 ---
-date: 2025
-author: Unknown
-tags:
-  - organizing
-  - rent
-  - police
 title: "Federal land policy in Nevada - Ballotpedia"
+author: "Unknown"
+date: "2025"
+category: "misc"
 ---
+
 # Federal land policy in Nevada - Ballotpedia
 
 *Converted from: `./Federal land policy in Nevada - Ballotpedia.pdf`*  
@@ -37,14 +35,11 @@ title: "Federal land policy in Nevada - Ballotpedia"
 Federal land policy in Nevada - Ballotpedia           about:reader?url=https%3A%2F%2Fballotpedia.org%...
 
 
-
-
                 ballotpedia.org
 
 
                 Federal land policy in Nevada
                 11–14 minutes
-
 
 
                 Your feedback ensures we stay focused on the facts that
@@ -90,7 +85,6 @@ Federal land policy in Nevada - Ballotpedia           about:reader?url=https%3A%
 
 
 Federal land policy in Nevada - Ballotpedia               about:reader?url=https%3A%2F%2Fballotpedia.org%...
-
 
 
                 • Campaign finance requirements for Nevada ballot measures
@@ -168,12 +162,10 @@ Federal land policy in Nevada - Ballotpedia               about:reader?url=https
 Federal land policy in Nevada - Ballotpedia                about:reader?url=https%3A%2F%2Fballotpedia.org%...
 
 
-
                 • Effect of the Affordable Care Act in Nevada
 
                 • Immigration
                 • Immigration in Nevada
-
 
 
                       This article does not contain the most recently published
@@ -182,8 +174,6 @@ Federal land policy in Nevada - Ballotpedia                about:reader?url=http
 
 
                                               Public Policy
-
-
 
 
                                Environmental policy in the United States
@@ -204,8 +194,6 @@ Federal land policy in Nevada - Ballotpedia                about:reader?url=http
                      Montana • Nebraska • Nevada • New Hampshire • New Jersey • New
                    Mexico • New York • North Carolina • North Dakota • Ohio • Oklahoma •
                     Oregon • Pennsylvania • Rhode Island • South Carolina • South Dakota
-
-
 
 
 3 of 15                                                                                        9/8/25, 12:52 PM
@@ -233,19 +221,14 @@ Federal land policy in Nevada - Ballotpedia                about:reader?url=http
 Federal land policy in Nevada - Ballotpedia                 about:reader?url=https%3A%2F%2Fballotpedia.org%...
 
 
-
                      • Tennessee • Texas • Utah • Vermont • Virginia • Washington • West
                                           Virginia • Wisconsin • Wyoming
-
-
 
 
                    Environmental legislation
                    Environment on the ballot
                    Glossary of environmental terms
                    Glossary of endangered species terms
-
-
 
 
                 Federal land policy involves the ownership and
@@ -284,7 +267,6 @@ Federal land policy in Nevada - Ballotpedia                 about:reader?url=htt
 Federal land policy in Nevada - Ballotpedia                about:reader?url=https%3A%2F%2Fballotpedia.org%...
 
 
-
                 million acres of land in 2012 (about 28 percent) of the 2.27
                 billion acres of land in the United States. Around 52 percent of
                 federally owned acres were in 12 Western states—including
@@ -319,7 +301,6 @@ Federal land policy in Nevada - Ballotpedia                about:reader?url=http
                                           owned         owned            owned            owned
 
 
-
 5 of 15                                                                                      9/8/25, 12:52 PM
 
 ---
@@ -333,7 +314,6 @@ Federal land policy in Nevada - Ballotpedia                about:reader?url=http
 
 
 Federal land policy in Nevada - Ballotpedia                about:reader?url=https%3A%2F%2Fballotpedia.org%...
-
 
 
                               [hide]Federal land ownership in Nevada and other states b
@@ -371,7 +351,6 @@ Federal land policy in Nevada - Ballotpedia                about:reader?url=http
                    contain updated information that does not match the information on this page.
 
 
-
                 Land usage
 
 
@@ -397,12 +376,9 @@ Federal land policy in Nevada - Ballotpedia                about:reader?url=http
 Federal land policy in Nevada - Ballotpedia           about:reader?url=https%3A%2F%2Fballotpedia.org%...
 
 
-
                 Recreation
 
                 National parks in Nevada
-
-
 
 
                 Federal lands and Indian reservations in the state of Nevada by
@@ -425,8 +401,6 @@ Federal land policy in Nevada - Ballotpedia           about:reader?url=https%3A%
                   [show]State parks in Nevada
 
 
-
-
 7 of 15                                                                                 9/8/25, 12:52 PM
 
 ---
@@ -440,7 +414,6 @@ Federal land policy in Nevada - Ballotpedia           about:reader?url=https%3A%
 
 
 Federal land policy in Nevada - Ballotpedia           about:reader?url=https%3A%2F%2Fballotpedia.org%...
-
 
 
                 Economic activity on federal lands
@@ -475,7 +448,6 @@ Federal land policy in Nevada - Ballotpedia           about:reader?url=https%3A%
                 were in Nevada.[7][8][9][10][11]
 
 
-
 8 of 15                                                                                 9/8/25, 12:52 PM
 
 ---
@@ -496,7 +468,6 @@ Federal land policy in Nevada - Ballotpedia           about:reader?url=https%3A%
 
 
 Federal land policy in Nevada - Ballotpedia               about:reader?url=https%3A%2F%2Fballotpedia.org%...
-
 
 
                 The table below shows how Nevada compared to neighboring
@@ -528,12 +499,9 @@ Federal land policy in Nevada - Ballotpedia               about:reader?url=https
                    Source: U.S. Bureau of Land Management, "Oil and Gas Statistics"
 
 
-
                 Grazing permits
 
                             See also: Grazing permits on federal land
-
-
 
 
 9 of 15                                                                                      9/8/25, 12:52 PM
@@ -558,8 +526,6 @@ Federal land policy in Nevada - Ballotpedia               about:reader?url=https
 Federal land policy in Nevada - Ballotpedia        about:reader?url=https%3A%2F%2Fballotpedia.org%...
 
 
-
-
                 Sheep grazing on BLM lands in Worland, Wyoming in 1940
 
                 The U.S. Bureau of Land Management (BLM) requires grazing
@@ -580,8 +546,6 @@ Federal land policy in Nevada - Ballotpedia        about:reader?url=https%3A%2F%
                 [13]
 
 
-
-
 10 of 15                                                                             9/8/25, 12:52 PM
 
 ---
@@ -595,8 +559,6 @@ Federal land policy in Nevada - Ballotpedia        about:reader?url=https%3A%2F%
 
 
 Federal land policy in Nevada - Ballotpedia             about:reader?url=https%3A%2F%2Fballotpedia.org%...
-
-
 
 
                         Grazing on BLM lands in Nevada (March 2011)
@@ -633,8 +595,6 @@ Federal land policy in Nevada - Ballotpedia             about:reader?url=https%3
                                                                                          of 2013
 
 
-
-
 11 of 15                                                                                  9/8/25, 12:52 PM
 
 ---
@@ -648,7 +608,6 @@ Federal land policy in Nevada - Ballotpedia             about:reader?url=https%3
 
 
 Federal land policy in Nevada - Ballotpedia                about:reader?url=https%3A%2F%2Fballotpedia.org%...
-
 
 
                            [hide]Total PILTs for Nevada and neighboring states
@@ -669,15 +628,12 @@ Federal land policy in Nevada - Ballotpedia                about:reader?url=http
                    Source: U.S. Department of the Interior, "PILT"
 
 
-
                 Environmental policy in the 50 states
 
                 Click on a state below to read more about that state's
                 energy policy.
 
                 http://ballotpedia.org/Environmental_policy_in_STATE
-
-
 
 
 12 of 15                                                                                     9/8/25, 12:52 PM
@@ -708,8 +664,6 @@ Federal land policy in Nevada - Ballotpedia                about:reader?url=http
 Federal land policy in Nevada - Ballotpedia   about:reader?url=https%3A%2F%2Fballotpedia.org%...
 
 
-
-
                                                            VT
 
 
@@ -734,18 +688,12 @@ Federal land policy in Nevada - Ballotpedia   about:reader?url=https%3A%2F%2Fbal
                                                       MD
 
 
-
-
                  See also
 
              •
 
 
-
-
              •
-
-
 
 
              •
@@ -772,8 +720,6 @@ Federal land policy in Nevada - Ballotpedia        about:reader?url=https%3A%2F%
 
 
              •
-
-
 
 
                  External links
@@ -821,7 +767,6 @@ Federal land policy in Nevada - Ballotpedia        about:reader?url=https%3A%2F%
 Federal land policy in Nevada - Ballotpedia       about:reader?url=https%3A%2F%2Fballotpedia.org%...
 
 
-
              7. ↑ U.S. Bureau of Land Management, "Number of Acres Leased
                 During the Fiscal Year," accessed October 20, 2014
 
@@ -857,9 +802,6 @@ Federal land policy in Nevada - Ballotpedia       about:reader?url=https%3A%2F%2
                   Environmental Policy
 
 
-
-
 15 of 15                                                                            9/8/25, 12:52 PM
 
 ---
-

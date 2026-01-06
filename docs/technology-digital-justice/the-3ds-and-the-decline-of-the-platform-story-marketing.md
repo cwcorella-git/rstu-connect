@@ -1,3 +1,8 @@
+---
+title: "**[What Games Are](https://web.archive.org/web/20250913085734/https://www.whatgamesare.com/)**"
+category: "technology-digital-justice"
+---
+
 # **[What Games Are](https://web.archive.org/web/20250913085734/https://www.whatgamesare.com/)**
 
 ## ![](_page_0_Picture_2.jpeg)
@@ -156,15 +161,23 @@ Posted by: [Tadhg](https://web.archive.org/web/20250913085734/https://profile.ty
 | Posted by: |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | This is only a preview. Your comment has not yet been posted. |
-| Post<br>Edit<br>Your comment could not be posted. Error type:<br>Your comment has been posted. Post another comment |
+| Post
+Edit
+Your comment could not be posted. Error type:
+Your comment has been posted. Post another comment |
 | The letters and numbers you entered did not match the image. Please try again. |
-| As a final step before posting your comment, enter the letters and numbers you see in the image below. This prevents<br>automated programs from posting comments. |
+| As a final step before posting your comment, enter the letters and numbers you see in the image below. This prevents
+automated programs from posting comments. |
 | Having trouble reading this image? View an alternate. |
 | Continue |
 | Post a comment |
-| Sign in with<br>Typepad<br>Facebook<br>Twitterand more |
+| Sign in with
+Typepad
+Facebook
+Twitterand more |
 | F O L L O W W H A T G A M E S A R E |
-| What Games Are is about game design, game development, games as art, craft, culture and industry and how you can<br>make better games, written by Tadhg Kelly. |
+| What Games Are is about game design, game development, games as art, craft, culture and industry and how you can
+make better games, written by Tadhg Kelly. |
 | You can follow Tadhg on Twitter here: |
 | Follow @tiedtiger |
 | You can also subscribe via email: |

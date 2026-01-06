@@ -1,3 +1,8 @@
+---
+title: "**On Player Characters and Self Expression [Game Design]**"
+category: "contemporary-analysis"
+---
+
 #### [web.archive.org](https://web.archive.org/web/20250114172254/https://www.whatgamesare.com/2012/07/on-player-characters-and-self-expression-game-design.html)
 
 # **On Player Characters and Self Expression [Game Design]**

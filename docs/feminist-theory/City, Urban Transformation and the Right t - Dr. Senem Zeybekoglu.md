@@ -1,3 +1,8 @@
+---
+title: "City, Urban Transformation and the Right to the City"
+category: "feminist-theory"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 #### Journal of Contemporary Urban Affairs
@@ -140,7 +145,8 @@ result in environmental degradation such as deforestation, degeneration of ecosy
 | these |
 | environmental |
 | transformations? |
-| distortions cause social consequences such as unemployment, poverty, and<br>hunger. |
+| distortions cause social consequences such as unemployment, poverty, and
+hunger. |
 
 what are the economic and political of soil and the production of corps what are the socio-spatial results of these As world cities grow and expand as social, changes? And how is the idea of the cultural and economic attraction centers for millions of people, they also grow as centers of right to the city related to these social exclusion, unemployment and urban changes?
 
@@ -162,12 +168,17 @@ consequently climate change has been one of In his seminal book "The Production 
 | every |
 | social |
 | threatening ecosystems and human habitats. |
-| organization forms specific physical spaces in One of the primary reasons of<br>global warming is consequence<br>of social relationships; therefore, considered<br>to be greenhouse gas emissions due these social organizations also<br>reproduce to human activities (IPCC, 2014). Big cities, with themselves |
+| organization forms specific physical spaces in One of the primary reasons of
+global warming is consequence
+of social relationships; therefore, considered
+to be greenhouse gas emissions due these social organizations also
+reproduce to human activities (IPCC, 2014). Big cities, with themselves |
 | within |
 | those |
 | physical |
 | spaces |
-| their crowded populations, are places of (Lefèbvre, 1996). At this point,<br>Lefebvre presents concentration |
+| their crowded populations, are places of (Lefèbvre, 1996). At this point,
+Lefebvre presents concentration |
 | of |
 
 these activities and the difference between social and abstract accordingly they are areas where food, water, space: the social space is where the daily life energy and all kinds of products are being experiences of each member of the society consumed the most. occurs. On the contrary, the abstract space is Cities are becoming heat islands as a result of the hierarchical space of politicians, capitalists energy consumption needed for production of and planners trying to control the social space electricity, transportation, heating and cooling of daily life. It is torn down, homogenized and (Torrey, 2004). Contribution of cities in commodified by the power, authority and environmental pollution, global warming and capital (Gottdiener, 1993). By associating the climate change is increased due to: production of abstract space with the emergence of the capitalist system, Lefebvre greenhouse gas emissions owing to has brought forward the transformation of "use overconsumption of natural resources; value" arising from the occurrence of daily lives of people in social space, into "exchange growing landfills as a result of waste value" for politicians, planners and investors arising from consumption of goods in approaching the space as a good that can be cities;
@@ -186,33 +197,44 @@ set by neo-liberal economy policies. Projects of factories and commercial zones 
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | buildings, |
 | gated |
-| city centre surrounded by workers' housings in communities, shopping and<br>retail centers are unhealthy conditions and the clean and realized |
+| city centre surrounded by workers' housings in communities, shopping and
+retail centers are unhealthy conditions and the clean and realized |
 | through |
 | privatization |
 | and |
-| organized upper/middle class dwelling zones, commodification of urban<br>environments from and suggests that this contrast originates from land to<br>water, from nature to history. As a result the exploitation of working classes<br>by the upper of this economic system and urbanization classes (Thorns,<br>2004). |
+| organized upper/middle class dwelling zones, commodification of urban
+environments from and suggests that this contrast originates from land to
+water, from nature to history. As a result the exploitation of working classes
+by the upper of this economic system and urbanization classes (Thorns,
+2004). |
 | approach, |
 | more |
 | people |
 | are |
 | becoming |
 
-| Pressures on the urban spaces arising from the impoverished and<br>dispossessed, and forced to new |
+| Pressures on the urban spaces arising from the impoverished and
+dispossessed, and forced to new |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | technical |
 | improvements |
 | and |
 | health |
-| live under condition of poverty, without access conditions led the<br>foundations of the urban to proper housing, infrastructure and public<br>planning to be laid especially between 1830 |
-| services. The environmental and social cost of and 1850. It can be observed<br>that during this this |
+| live under condition of poverty, without access conditions led the
+foundations of the urban to proper housing, infrastructure and public
+planning to be laid especially between 1830 |
+| services. The environmental and social cost of and 1850. It can be observed
+that during this this |
 | transformation |
 | is |
 | paid |
 | off |
 | by |
 | the |
-| period, health legislations and urban reforms impoverished and the<br>dispossessed. |
-| came into operation in several industrial cities of These physical divisions<br>and social polarizations Europe (Benevolo, 1977). In 1848, regulations for |
+| period, health legislations and urban reforms impoverished and the
+dispossessed. |
+| came into operation in several industrial cities of These physical divisions
+and social polarizations Europe (Benevolo, 1977). In 1848, regulations for |
 
 of the working boost xenophobia and racism. Identity class were put into practice with the problems and ethnic, cultural and religious emergence of the first "Public Health Act" in divisions make cities spaces of conflict and England. In 1850-1863, new housings for workers consequently cities lose their characteristics of started to be constructed outside of the city being places of co-existence and mutual-centres in Europe and America under the name exchange.
 
@@ -222,13 +244,23 @@ company of undermine the culture of living together and enhancing the living con
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | (Lampugnani, |
 | 1985). |
-| In the late 18th and early 19th centuries, the Lampugnani addresses that the<br>driving force rapid industrialization process causing several behind the<br>improvement works for the living irreversible changes notably in Europe<br>came conditions of the workers was not only providing with spatial<br>impositions and accelerated the<br>a healthier life environment for them but<br>also transformation of use value<br>of space into ensuring to get higher<br>effi<br>ciency from them by exchange |
+| In the late 18th and early 19th centuries, the Lampugnani addresses that the
+driving force rapid industrialization process causing several behind the
+improvement works for the living irreversible changes notably in Europe
+came conditions of the workers was not only providing with spatial
+impositions and accelerated the
+a healthier life environment for them but
+also transformation of use value
+of space into ensuring to get higher
+effi
+ciency from them by exchange |
 | value. |
 | As |
 | a |
 | consequence |
 | of |
-| means of ameliorating their standard of living transition from the rural<br>production into a new (Lampugnani, 1985). |
+| means of ameliorating their standard of living transition from the rural
+production into a new (Lampugnani, 1985). |
 | production |
 | system |
 | which |
@@ -269,24 +301,29 @@ With neo-liberal economy getting stronger, the economy policies affecting the wh
 | from |
 | the |
 | technological |
-| economic and spatial development gradually improvements providing<br>mobility and remote lost its power. As a result of decrease in welfare<br>control, |
+| economic and spatial development gradually improvements providing
+mobility and remote lost its power. As a result of decrease in welfare
+control, |
 | large |
 | industrial |
 | corporations |
 | of |
 | expenses, the funds transferred by the central |
-| "developed countries" began to direct their governments to the urban<br>governments were production |
+| "developed countries" began to direct their governments to the urban
+governments were production |
 | functions |
 | towards |
 | "developing |
-| lowered. This reduction of budget forced cities countries" with lower cost of<br>labour in an to |
+| lowered. This reduction of budget forced cities countries" with lower cost of
+labour in an to |
 | implement |
 
 | more |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|
 | entrepreneurial |
 | and |
-| attempt to increase their rates of profit competitive management patterns for<br>the (Fainstein, 1990). The transnational mobility of purpose |
+| attempt to increase their rates of profit competitive management patterns for
+the (Fainstein, 1990). The transnational mobility of purpose |
 | of |
 | establishing |
 | new |
@@ -296,7 +333,8 @@ With neo-liberal economy getting stronger, the economy policies affecting the wh
 | investment |
 | diminishing |
 | the |
-| resources (Hall and Hubbard, 1996 and Harvey, regulating role of central<br>governments in 1989). |
+| resources (Hall and Hubbard, 1996 and Harvey, regulating role of central
+governments in 1989). |
 | Subsequently, |
 | urban |
 | managements |
@@ -309,12 +347,14 @@ countries' economies led the big cities of the started to improve their partners
 | industrialized |
 | countries |
 | to |
-| Within this competitive environment, urban developing countries, crucial<br>decreases in managements began to work for producing industrial |
+| Within this competitive environment, urban developing countries, crucial
+decreases in managements began to work for producing industrial |
 | employment |
 | started |
 | to |
 | be |
-| more marketable city images with the aim of experienced within the regions<br>where industries attracting |
+| more marketable city images with the aim of experienced within the regions
+where industries attracting |
 | the |
 | capital |
 
@@ -368,15 +408,19 @@ problem for those from the high-income group, Lefebvre's idea of the right to th
 
 | JOURNAL OF CONTEMPORARY URBAN AFFAIRS, 4(1), 1-10 / 2020 |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| world. Academic studies conducted in this<br>field development, |
+| world. Academic studies conducted in this
+field development, |
 | healthy |
 | environment, |
 | emphasize a new concept of citizenship and infrastructure |
 | and |
 | public |
 | services, |
-| bring forward a variety of issues related to that transportation, culture,<br>recreation, and access such as use of public spaces, accessibility in to<br>information. |
-| urban space, access to water, immigration, The right to the city as defined in<br>these male domination, homelessness, globalization, documents |
+| bring forward a variety of issues related to that transportation, culture,
+recreation, and access such as use of public spaces, accessibility in to
+information. |
+| urban space, access to water, immigration, The right to the city as defined in
+these male domination, homelessness, globalization, documents |
 | is |
 | based |
 | on |
@@ -397,8 +441,15 @@ underline the social, cultural, political and by HIC, COHRE, FNRU and Action Aid
 | provision |
 | of |
 | above |
-| dated 1994 (EUROCULTURES et.al, 1994) and The mentioned services in<br>cities. |
-| European Charter for the Safeguarding of The most significant role of these<br>charters and Human Rights in the City, first drafted in "Cities declarations is<br>their possibility of constituting a for Human Rights Conference" in<br>Barcelona in guiding framework on the subject of human 1998, and<br>finalized and adopted in Saint-Denis rights in the city during the process of<br>urban in 2000 can be given as examples of charters at policy making. The<br>existence of such a regional |
+| dated 1994 (EUROCULTURES et.al, 1994) and The mentioned services in
+cities. |
+| European Charter for the Safeguarding of The most significant role of these
+charters and Human Rights in the City, first drafted in "Cities declarations is
+their possibility of constituting a for Human Rights Conference" in
+Barcelona in guiding framework on the subject of human 1998, and
+finalized and adopted in Saint-Denis rights in the city during the process of
+urban in 2000 can be given as examples of charters at policy making. The
+existence of such a regional |
 | level |
 ## | (United |
 
@@ -426,13 +477,15 @@ Although this pragmatic understanding of the Acknowledgement right to the city c
 | the |
 | public, |
 | rights has the potential of providing an commercial, or not-for-profit sectors. |
-| operational framework for urban policy making, the same understanding<br>bears the risk of Conflict of interests |
+| operational framework for urban policy making, the same understanding
+bears the risk of Conflict of interests |
 | undermining |
 | the |
 | transformative |
 | and |
 | The Authors declare no conflict of interest. |
-| revolutionary essence of Lefebvre's notion of the right to the city as a right<br>to transform our References |
+| revolutionary essence of Lefebvre's notion of the right to the city as a right
+to transform our References |
 | cities and ourselves (Meyer, 2009). On the one Benevolo, |
 
 ## ![](_page_36_Figure_0.jpeg)
@@ -697,13 +750,15 @@ Prospects:
 |-------------------------------------------------------------------------------------------|
 | 2014 |
 | https://books.google.com.cy/books/about/K|
-| Revision. (ST/ESA/SER. A/366). New York: United<br>entlerin_d%C3%B6n%C3%BC%C5%9F%C3%BC |
+| Revision. (ST/ESA/SER. A/366). New York: United
+entlerin_d%C3%B6n%C3%BC%C5%9F%C3%BC |
 | Nations. |
 | Retrieved |
 | on |
 | 02.16.2018, |
 | from: |
-| m%C3%BC.html?id=R22aAAAACAAJ&redir_e<br>https://esa.un.org/unpd/wup/Publications/Filsc=y |
+| m%C3%BC.html?id=R22aAAAACAAJ&redir_e
+https://esa.un.org/unpd/wup/Publications/Filsc=y |
 | es/WUP2014-Report.pdf |
 | Torrey, |
 | B. |

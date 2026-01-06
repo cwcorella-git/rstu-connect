@@ -1,3 +1,8 @@
+---
+title: "From the Hills to the Streets to the Table"
+category: "contemporary-analysis"
+---
+
 # From the Hills to the Streets to the Table
 
 ## Civil Resistance and Peacebuilding in Nepal
@@ -32,20 +37,69 @@ ICNC SPECIAL REPORT SERIES EDITOR: Dr. Maciej Bartkowski EDITORIAL ASSISTANCE: J
 
 ## Table of Contents
 
-| Summary<br>1 |
+| Summary
+1 |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Introduction<br>3 |
-| An Integrated Framework of Civil Resistance and Peacebuilding<br>7 |
-| Background to Conflict in Nepal<br>10 |
-| STAGE 1: Latent Conflict, 1991 –1996<br>12<br>Features of the Conict Phase<br>12<br>Peacebuilding Strategies<br>13<br>Civil Resistance Strategies<br>13<br>Impact<br>14 |
-| STAGE 2: Overt Conflict, 1996 –2006<br>16<br>Features of the Conict Phase<br>16<br>Peacebuilding Strategies<br>19<br>Civil Resistance Strategies<br>20<br>Impact<br>23 |
-| STAGE 3: Conflict Settlement, 2006 –2008<br>25<br>Features of the Conict Phase<br>25<br>Peacebuilding Strategies<br>26<br>Civil Resistance Strategies<br>28<br>Impact<br>30 |
-| STAGE 4: Post-Settlement, 2008 –Present<br>31<br>Features of the Conict Phase<br>31<br>Peacebuilding Strategies<br>33<br>Civil Resistance Strategies<br>35<br>Impact<br>37 |
-| Key<br>Takeaways<br>39 |
-| Cited Bibliography<br>42 |
-| About the Authors<br>44 |
-| Tables<br>TABLE 1: Dynamics of civil resistance and peacebuilding across<br>four stages of conflict in Nepal<br>6 |
-| TABLE 2: Civil resistance and peacebuilding strategies and impacts<br>during the four stages of conflict transformation<br>9 |
+| Introduction
+3 |
+| An Integrated Framework of Civil Resistance and Peacebuilding
+7 |
+| Background to Conflict in Nepal
+10 |
+| STAGE 1: Latent Conflict, 1991 –1996
+12
+Features of the Conict Phase
+12
+Peacebuilding Strategies
+13
+Civil Resistance Strategies
+13
+Impact
+14 |
+| STAGE 2: Overt Conflict, 1996 –2006
+16
+Features of the Conict Phase
+16
+Peacebuilding Strategies
+19
+Civil Resistance Strategies
+20
+Impact
+23 |
+| STAGE 3: Conflict Settlement, 2006 –2008
+25
+Features of the Conict Phase
+25
+Peacebuilding Strategies
+26
+Civil Resistance Strategies
+28
+Impact
+30 |
+| STAGE 4: Post-Settlement, 2008 –Present
+31
+Features of the Conict Phase
+31
+Peacebuilding Strategies
+33
+Civil Resistance Strategies
+35
+Impact
+37 |
+| Key
+Takeaways
+39 |
+| Cited Bibliography
+42 |
+| About the Authors
+44 |
+| Tables
+TABLE 1: Dynamics of civil resistance and peacebuilding across
+four stages of conflict in Nepal
+6 |
+| TABLE 2: Civil resistance and peacebuilding strategies and impacts
+during the four stages of conflict transformation
+9 |
 
 ## S U M M A R Y
 
@@ -73,11 +127,11 @@ Overall, wend that Dudouet's framework provides a valuable method for understand
 
 ■ A greater attention to peacebuilding and social inclusion in the early years of the 1990s (the "latent conict" stage) might have helped prevent marginalized communities from seeing violence as the only way out from physical and structural oppression
 
-<sup>1</sup> The current prime minister, KP Sharma Oli, is the 26th prime minister since 1990.
+1 The current prime minister, KP Sharma Oli, is the 26th prime minister since 1990.
 
-<sup>2</sup> In 2009, the government claimed that 109 armed groups were active in Nepal but by 2013 armed groups' activities had essentially ceased. The high-level political talks team set up by the government in 2018 held talks with 22 different armed groups and disgruntled parties. These talks did not include a Maoist splinter group led by Netra Bikram Chand which has initiated violent activities.
+2 In 2009, the government claimed that 109 armed groups were active in Nepal but by 2013 armed groups' activities had essentially ceased. The high-level political talks team set up by the government in 2018 held talks with 22 different armed groups and disgruntled parties. These talks did not include a Maoist splinter group led by Netra Bikram Chand which has initiated violent activities.
 
-<sup>3</sup> Dudouet's report, in turn, builds upon Adam Curle's stage-based framework for understanding conict trajectories in contexts of power asymmetries. See: Adam Curle, Making Peace (London: Tavistock, 1971).
+3 Dudouet's report, in turn, builds upon Adam Curle's stage-based framework for understanding conict trajectories in contexts of power asymmetries. See: Adam Curle, Making Peace (London: Tavistock, 1971).
 
 - Civil resistance, once employed by a coalition of actors, including civil society and the Maoists, succeeded in transitioning the form of overt conict from primarily violent to primarily nonviolent
 - The civil resistance campaign also succeeded in creating political change by restoring democratic processes and pushing issues of political, economic, and social exclusion to the center of political debate
@@ -96,12 +150,118 @@ Table 1 below presents an overview of the conict case and identies civil resista
 
 TABLE 1: Dynamics of civil resistance and peacebuilding across four stages of conflict in Nepal.
 
-| | LATENT<br>CONFLICT<br>(19911996) | OVERT<br>CONFLICT<br>(19962006) | CONFLICT<br>SETTLEMENT<br>(20062008) | POST<br>SETTLEMENT<br>(2008PRESENT) |
+| | LATENT
+CONFLICT
+(19911996) | OVERT
+CONFLICT
+(19962006) | CONFLICT
+SETTLEMENT
+(20062008) | POST
+SETTLEMENT
+(2008PRESENT) |
 |-----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Features<br>of Conflict<br>Phase | High levels of struc<br>tural inequalities;<br>political, social and<br>economic exclusion<br>on the basis of eth<br>nicity, religion,<br>region and caste | Ten years of violent<br>insurgency that kills<br>16,000 followed<br>by 19 days of civil<br>resistance that lead to<br>peace negotiations | Several months of<br>negotiations between<br>Maoists and political<br>parties leading to<br>Comprehensive<br>Peace Agreement | Continued instability as<br>actors unable to agree on<br>a constitutional framework<br>or transitional justice; fre<br>quent protests and occa<br>sional violence |
-| Civil<br>Resistance<br>Strategies | Increase in commu<br>nity organizing and<br>civil society; mar<br>ginalized groups<br>met with repression<br>in country's<br>periphery | Frequent use of pro<br>test tactics by both<br>Maoists and political<br>parties in early 2000s<br>culminates in joint<br>"Jana Andolan II": a<br>19-day campaign of<br>mass protest and<br>general strike | Major protests by<br>Madhesi groups in<br>2007 and 2008; use<br>of general strikes by<br>Maoists in 2007 to<br>gain concessions<br>on declaration of<br>republic and rules for<br>upcoming elections | All actors frequently turn<br>to protest and strike tac<br>tics as a way of trying to<br>gain leverage in political<br>negotiation; creates back<br>lash against marginalized<br>groups |
-| Peace<br>building<br>Strategies | Little dialogue or<br>violence prevention<br>as political parties<br>remain busy vying<br>for power and do<br>not believe margin<br>alized groups pres<br>ent a political<br>challenge | Attempts at negotia<br>tion between Maoists<br>and government in<br>early 2000s fail;<br>dialogue between<br>Maoists and political<br>parties in 2005-2006<br>leads to coordinated<br>civil resistance strat<br>egy and ultimately a<br>peace agreement | Dialogue focused pri<br>marily on political next<br>steps, rather than dura<br>ble solution to underly<br>ing conict issues | Continued eorts at dia<br>logue, both in parliament<br>and communities sup<br>ported by substantial inter<br>national assistance |
-| Impact | Spreading aware<br>ness of injustice<br>(heightened expec<br>tations) fuels sense<br>of grievance and<br>demand for change | King agrees to restore<br>parliamentary democ<br>racy; political parties<br>agree to negotiate<br>with Maoists for per<br>manent settlement | Successful completion<br>of peace agreement,<br>but many of the most<br>contentious issues<br>deferred | Nepal has experienced<br>no return to civil war, but<br>continued political<br>instability |
+| Features
+of Conflict
+Phase | High levels of struc
+tural inequalities;
+political, social and
+economic exclusion
+on the basis of eth
+nicity, religion,
+region and caste | Ten years of violent
+insurgency that kills
+16,000 followed
+by 19 days of civil
+resistance that lead to
+peace negotiations | Several months of
+negotiations between
+Maoists and political
+parties leading to
+Comprehensive
+Peace Agreement | Continued instability as
+actors unable to agree on
+a constitutional framework
+or transitional justice; fre
+quent protests and occa
+sional violence |
+| Civil
+Resistance
+Strategies | Increase in commu
+nity organizing and
+civil society; mar
+ginalized groups
+met with repression
+in country's
+periphery | Frequent use of pro
+test tactics by both
+Maoists and political
+parties in early 2000s
+culminates in joint
+"Jana Andolan II": a
+19-day campaign of
+mass protest and
+general strike | Major protests by
+Madhesi groups in
+2007 and 2008; use
+of general strikes by
+Maoists in 2007 to
+gain concessions
+on declaration of
+republic and rules for
+upcoming elections | All actors frequently turn
+to protest and strike tac
+tics as a way of trying to
+gain leverage in political
+negotiation; creates back
+lash against marginalized
+groups |
+| Peace
+building
+Strategies | Little dialogue or
+violence prevention
+as political parties
+remain busy vying
+for power and do
+not believe margin
+alized groups pres
+ent a political
+challenge | Attempts at negotia
+tion between Maoists
+and government in
+early 2000s fail;
+dialogue between
+Maoists and political
+parties in 2005-2006
+leads to coordinated
+civil resistance strat
+egy and ultimately a
+peace agreement | Dialogue focused pri
+marily on political next
+steps, rather than dura
+ble solution to underly
+ing conict issues | Continued eorts at dia
+logue, both in parliament
+and communities sup
+ported by substantial inter
+national assistance |
+| Impact | Spreading aware
+ness of injustice
+(heightened expec
+tations) fuels sense
+of grievance and
+demand for change | King agrees to restore
+parliamentary democ
+racy; political parties
+agree to negotiate
+with Maoists for per
+manent settlement | Successful completion
+of peace agreement,
+but many of the most
+contentious issues
+deferred | Nepal has experienced
+no return to civil war, but
+continued political
+instability |
 
 ## An Integrated Framework of Civil Resistance and Peacebuilding
 
@@ -113,9 +273,9 @@ Dudouet proposes that peacebuilding and civil resistance strategies need not be 
 
 In Stage 1, the period of latent conict, civil resistance tactics such as protests, strikes, and boycotts can raise awareness about inequalities and foster organization-building that paves the way for future mobilization Meanwhile peacebuilding strategies such as preventive diplomacy and dialogue can reduce the risk of violent escalation
 
-<sup>4</sup> Gandhi argued that his method of satyagraha should rely not on coercion but rather on persuasion. Yet Gandhi's methods in practice were highly coercive and most analysts and proponents of civil resistance since have emphasized coercion as an essential part of the strategy.
+4 Gandhi argued that his method of satyagraha should rely not on coercion but rather on persuasion. Yet Gandhi's methods in practice were highly coercive and most analysts and proponents of civil resistance since have emphasized coercion as an essential part of the strategy.
 
-<sup>5</sup> In addition to Curle, Dudouet's framework is also heavily informed by the work of Johan Galtung (1969, 1996), John Paul Lederach (1995, 1997), and Diana Francis (2002, 2010).
+5 In addition to Curle, Dudouet's framework is also heavily informed by the work of Johan Galtung (1969, 1996), John Paul Lederach (1995, 1997), and Diana Francis (2002, 2010).
 
 In Stage 2, the period of overt conict, civil resistance becomes the main form of response as oppressed groups use nonviolent action to confront the state As tensions heighten, civil resistance oers a way of empowering these groups without turning to violence
 
@@ -133,12 +293,67 @@ While conicts in the real world are unlikely to proceed in so neat or linear a f
 
 TABLE 2: Civil resistance and peacebuilding strategies and impacts during the four stages of conflict transformation.
 
-| | LATENT<br>CONFLICT | OVERT<br>CONFLICT | CONFLICT<br>SETTLEMENT | POST<br>SETTLEMENT |
+| | LATENT
+CONFLICT | OVERT
+CONFLICT | CONFLICT
+SETTLEMENT | POST
+SETTLEMENT |
 |-----------------------------------|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Features<br>of Conflict<br>Phase | Structural violence<br>Low awareness<br>of conict<br>Power imbalance | Conict<br>intensication | Conict and resistance<br>substituted by<br>dialogue of equals | Peace implementation<br>and consolidation |
-| Civil<br>Resistance<br>Strategies | Community<br>organizing/<br>mobilization<br>Violence<br>prevention | Nonviolent action<br>(protest and persua<br>sion, non-cooperation,<br>disruptive and con<br>structive resistance) | Popular pressure at<br>the negotiation table<br>for equitable bargain<br>ing outcomes | Nonviolent campaigns<br>for full implementation<br>of just peace |
-| Peace<br>building<br>Strategies | Violence<br>prevention (early<br>warning, preventa<br>tive diplomacy,<br>dialogue) | Peacekeeping<br>dialogue facilitation<br>(inter- and intra-party),<br>human rights<br>monitoring | Inter-party conciliation<br>through (direct or<br>mediated) dialogue<br>and negotiation | Institutionalization of<br>negotiation outcomes<br>through political/security/<br>socio-economic reforms,<br>reconciliation and transi<br>tional justice |
-| Impact | Underdog's<br>awakening to the<br>need for conict<br>to address griev<br>ances and change<br>the status quo | Violence mitigation,<br>empowerment of<br>the underdog | Negotiated<br>agreement | Sustainable peace<br>with justice |
+| Features
+of Conflict
+Phase | Structural violence
+Low awareness
+of conict
+Power imbalance | Conict
+intensication | Conict and resistance
+substituted by
+dialogue of equals | Peace implementation
+and consolidation |
+| Civil
+Resistance
+Strategies | Community
+organizing/
+mobilization
+Violence
+prevention | Nonviolent action
+(protest and persua
+sion, non-cooperation,
+disruptive and con
+structive resistance) | Popular pressure at
+the negotiation table
+for equitable bargain
+ing outcomes | Nonviolent campaigns
+for full implementation
+of just peace |
+| Peace
+building
+Strategies | Violence
+prevention (early
+warning, preventa
+tive diplomacy,
+dialogue) | Peacekeeping
+dialogue facilitation
+(inter- and intra-party),
+human rights
+monitoring | Inter-party conciliation
+through (direct or
+mediated) dialogue
+and negotiation | Institutionalization of
+negotiation outcomes
+through political/security/
+socio-economic reforms,
+reconciliation and transi
+tional justice |
+| Impact | Underdog's
+awakening to the
+need for conict
+to address griev
+ances and change
+the status quo | Violence mitigation,
+empowerment of
+the underdog | Negotiated
+agreement | Sustainable peace
+with justice |
 
 Source: Dudouet, Véronique. Powering to Peace: Integrated Civil Resistance and Peacebuilding Strategies. Washington, DC: International Center on Nonviolent Conict, 2017.
 
@@ -156,11 +371,11 @@ Following a wave of nonviolent revolutions around the world in the late 1980s, u
 
 The democratic transition of 1990 allowed for greater political openness and competition However, it fell short of meeting the hopes of all who took to the streets to demand change
 
-<sup>6</sup> The term "indigenous" is highly contested given the ambiguous history of ancestral migration and the legal rights aorded to indigenous groups under international law. In Nepal it is generally used to refer to groups whose primary language is not Nepali and who resided in Nepal prior to the arrival of Indo-Nepali migrants from the south several hundred years ago.
+6 The term "indigenous" is highly contested given the ambiguous history of ancestral migration and the legal rights aorded to indigenous groups under international law. In Nepal it is generally used to refer to groups whose primary language is not Nepali and who resided in Nepal prior to the arrival of Indo-Nepali migrants from the south several hundred years ago.
 
 In particular, no reforms were made to the country's land tenure system and the nobility retained control of the extensive land holdings they had acquired over decades of the panchayat system The same ethnic and caste groups that had dominated Nepal under the monarchy continued to do so in the new democracy While Nepal had in theory undergone a dramatic political transformation, according to some, "all that had changed were the names on the ministers' doors 7 These enduring grievances over inequalities between social groups along ethnic, religious, caste, and geographic lines have fueled conict in Nepal since the 1990 democratic transition
 
-<sup>7</sup> Louise T. Brown, The Challenge to Democracy in Nepal: A Political History (London: Routledge, 1996), 177.
+7 Louise T. Brown, The Challenge to Democracy in Nepal: A Political History (London: Routledge, 1996), 177.
 
 ## STAGE 1: Latent Conflict, 1991–1996
 
@@ -176,13 +391,13 @@ However, the book, Fatalism and Development, published in 1991 by Nepali scholar
 
 Furthermore, the new political rights as enshrined in the 1990 constitution opened up space for organized collective action Issues relating to ethnic identity, gender, caste-based
 
-<sup>8</sup> S. M. Murshed and Scott Gates, "Spatial–Horizontal Inequality and the Maoist Insurgency in Nepal," Review of Development Economics 9, no. 1 (2005): 121–34.
+8 S. M. Murshed and Scott Gates, "Spatial–Horizontal Inequality and the Maoist Insurgency in Nepal," Review of Development Economics 9, no. 1 (2005): 121–34.
 
-<sup>9</sup> Paul Routledge, "Nineteen Days in April: Urban Protest and Democracy in Nepal," Urban Studies 47, no. 6 (May 1, 2010): 1283.
+9 Paul Routledge, "Nineteen Days in April: Urban Protest and Democracy in Nepal," Urban Studies 47, no. 6 (May 1, 2010): 1283.
 
-<sup>10</sup> Krishna Bhattachan, "Ethnopolitics and ethnodevelopment: an emerging paradigm in Nepal—with a postscript," in Nationalism and Ethnic Conflict in Nepal: Identities and Mobilisation after 1990, eds., Mahendra Lawoti and Susan Hangen, (New York: Routledge, 2013), 35–57.
+10 Krishna Bhattachan, "Ethnopolitics and ethnodevelopment: an emerging paradigm in Nepal—with a postscript," in Nationalism and Ethnic Conflict in Nepal: Identities and Mobilisation after 1990, eds., Mahendra Lawoti and Susan Hangen, (New York: Routledge, 2013), 35–57.
 
-<sup>11</sup> Dor Bahadur Bista, Fatalism and Development: Nepal's Struggle for Modernisation (New Delhi: Sangam Books, 1991).
+11 Dor Bahadur Bista, Fatalism and Development: Nepal's Struggle for Modernisation (New Delhi: Sangam Books, 1991).
 
 discrimination and human rights came to the forefront Dierent social groups, like Dalits, women, Madhesi, and indigenous nationalities, shared common experiences and narratives of marginalization, and their distinctive relationships with the state have translated into unique trajectories of resistance As these traditionally disadvantaged groups became more aware, informed and active citizens, they led social justice campaigns to address their marginalization Similarly, cultural associations and NGOs mushroomed and ethnic and regional political parties were established These ethnic and regional parties raised issues of identity and exclusion that the mainstream political parties did not
 
@@ -208,9 +423,9 @@ The Maoists were able to leverage the common experiences of perceived discrimina
 
 As the party recognized ethnicity as a politically signicant tool, they also built on the traditional Marxist concept of class as a means of unifying marginalised groups and representing their interests In October of 1995, Maoists intensied their activities in mid-western districts targeting "class enemies " The government considered this as a "law and order" problem and launched a repressive campaign called "Operation Romeo " This resulted in the
 
-<sup>12</sup> Mukta Tamang, "Social Movements and Inclusive Peace in Nepal," Accord 26, (2017), **https://rc-services-assets.s3.eu-west-1.amazonaws.com/s3fs-public/Social Movements And Inclusive Peace.pdf**.
+12 Mukta Tamang, "Social Movements and Inclusive Peace in Nepal," Accord 26, (2017), **https://rc-services-assets.s3.eu-west-1.amazonaws.com/s3fs-public/Social Movements And Inclusive Peace.pdf**.
 
-<sup>13</sup> See Deepak Thapa, "The Making of the Maoist Insurgency," in Nepal in Transition: From People's War to Fragile Peace, eds., Sebastian von Einsiedel, David M. Malone, and Suman Pradhan (New York: Cambridge University Press, 2012) and Li Onesto, Dispatches from the People's War in Nepal (London: Pluto Press, 2004).
+13 See Deepak Thapa, "The Making of the Maoist Insurgency," in Nepal in Transition: From People's War to Fragile Peace, eds., Sebastian von Einsiedel, David M. Malone, and Suman Pradhan (New York: Cambridge University Press, 2012) and Li Onesto, Dispatches from the People's War in Nepal (London: Pluto Press, 2004).
 
 alienation of a large number of people in the mid-west, which had a long history of deprivation, geographic hardship, lack of development, and strong communist organization in terms of local mobilization Many critics agree that the counter-insurgent "Operation Romeo" became the trigger for the large number of peoples joining the Maoists' recruit pool The government's repressive response combined with the latent and widespread grievances experienced by large sectors of the population provided ample potential for further recruitment
 
@@ -234,11 +449,11 @@ The Maoists raised the issues of longstanding social exclusion, economic margina
 
 As the issues of marginalization became a political issue, all of the competing political forces—the parliamentary parties, the monarchy, as well as the Maoists—responded to and exploited ethnic grievances The Maoists actively recruited disenfranchised Dalits, indigenous nationalities, and women, followed by the Madhesis later on They adopted a platform of ethnic and regional autonomy in December of 1996 as part of a deliberate strategy to garner support from marginalized groups and created a Madheshi National Liberation Front in 2000 16 Even though headed by men from privileged groups, the Maoists had high numbers of Dalits, indigenous nationalities and women in their organisation Among the upper leadership,
 
-<sup>14</sup> The Maoist ideologue Dr. Baburam Bhattarai submitted a 40-point demand to Prime Minister Sher Bahadur Deuba on February 4, 1996, before launching an armed struggle against the state. All 40 demands can be found here: **http://nepalitimes.com/article/nation/revisiting-maoist-demands,2860**. Also see: Deepak Thapa, A Kingdom under Siege: Nepal's Maoist Insurgency, 1996–2003 (London: Zed, 2004).
+14 The Maoist ideologue Dr. Baburam Bhattarai submitted a 40-point demand to Prime Minister Sher Bahadur Deuba on February 4, 1996, before launching an armed struggle against the state. All 40 demands can be found here: **http://nepalitimes.com/article/nation/revisiting-maoist-demands,2860**. Also see: Deepak Thapa, A Kingdom under Siege: Nepal's Maoist Insurgency, 1996–2003 (London: Zed, 2004).
 
-<sup>15</sup> Authors' interview with a Maoist leader in Rolpa, May 2018.
+15 Authors' interview with a Maoist leader in Rolpa, May 2018.
 
-<sup>16</sup> Balkrishna Mabuhang, From Peace Settlement to Political Settlement State Restructuring and Inclusive Measures for Marginalised Groups in Nepal, IPS Paper 10, Berghof Foundation, 2015, 9.
+16 Balkrishna Mabuhang, From Peace Settlement to Political Settlement State Restructuring and Inclusive Measures for Marginalised Groups in Nepal, IPS Paper 10, Berghof Foundation, 2015, 9.
 
 18 out of 23 district chairs were from historically marginalized groups 17 The radical ideology of the Maoists made these people feel that Maoists were credible and capable of addressing their demands 18
 
@@ -248,15 +463,15 @@ The Maoists used violence judiciously to push the state away from rural areas, e
 
 Many of the Maoist campaigns also helped them win broader sympathy Through "people's court," they delivered justice promptly, against all sorts of exploitation and social aberrations (gambling, consumption of alcohol, domestic violence, money lending, etc ) They also used violence against local elites and state agencies in rural areas and in so doing garnered support from poor peasants These dierent tactics helped them control much of the countryside, leaving the government to run only the Kathmandu valley and regional headquarters
 
-Until the end of the 1990s, ghting remained at a relatively low level, and the government's response was restricted to deploying the police rather than the military Maoists also created various liberation fronts, representing the dierent "nationalities" of the country, a strategy used to great eect as the Maoists expanded eastward and southward from their stronghold in the mid-western hills <sup>20</sup> In the initial period, the deaths were overwhelmingly concentrated
+Until the end of the 1990s, ghting remained at a relatively low level, and the government's response was restricted to deploying the police rather than the military Maoists also created various liberation fronts, representing the dierent "nationalities" of the country, a strategy used to great eect as the Maoists expanded eastward and southward from their stronghold in the mid-western hills 20 In the initial period, the deaths were overwhelmingly concentrated
 
-<sup>17</sup> Mukta Lama, "Culture, Caste, and Ethnicity in the Maoist Movement," Studies in Nepali History and Society 11, no. 2 (2006): 326.
+17 Mukta Lama, "Culture, Caste, and Ethnicity in the Maoist Movement," Studies in Nepali History and Society 11, no. 2 (2006): 326.
 
-<sup>18</sup> Authors' interview with a Maoist leader in Rolpa, May 2018.
+18 Authors' interview with a Maoist leader in Rolpa, May 2018.
 
-<sup>19</sup> Authors' interviews in Dang, Pyuthan and Rolpa, 2018.
+19 Authors' interviews in Dang, Pyuthan and Rolpa, 2018.
 
-<sup>20</sup> Maoists formed eleven ethnic and regional based frontier organisations.
+20 Maoists formed eleven ethnic and regional based frontier organisations.
 
 in the Maoist strongholds of the mid and far-west regions, but after 2001ghting and killings spread out across the country, reecting the military and recruitment success of the Maoists 21
 
@@ -266,11 +481,11 @@ Up until 2000, many international actors operating in Nepal had adopted a strate
 
 Other foreign governments, however, took a dierent approach, choosing instead to supply arms and training to government security forces while at the same time calling for a peaceful settlement to the conict The king was able to take advantage of the 9/11 terrorist attacks to frame theght against the Maoists as part of the "Global War on Terror " The United States, India, Britain, Belgium and China all became suppliers of military hardware to the Nepali Army 23 The result was that the army was transformed from a largely decorative force into a battle-hardened military with modern weaponry The government ruled out all negotiation with the Maoists and was determined to achieve total victory through force At the same time, the rebels also stepped up their operations by demolishing bridges, blowing up electricity stations and torturing—and often executing—their opponents
 
-<sup>21</sup> Deepak Thapa, "The Making of the Maoist Insurgency," in Nepal in Transition: From People's War to Fragile Peace, eds., Sebastian von Einsiedel, David M. Malone, and Suman Pradhan (New York: Cambridge University Press, 2012), 37-57.
+21 Deepak Thapa, "The Making of the Maoist Insurgency," in Nepal in Transition: From People's War to Fragile Peace, eds., Sebastian von Einsiedel, David M. Malone, and Suman Pradhan (New York: Cambridge University Press, 2012), 37-57.
 
-<sup>22</sup> Bishnu Sapkota and Bishnu Raj Upreti, "Case Study on Nepal: Observations and Reections on the Peace and Constitution Making Process," Geneva: Swiss Peace, 2017. Available at: **http://swisspeace.ch/fileadmin/user\_upload/pdf/Mediation/Nepal\_Case\_Study\_-\_National\_Dialogue\_Handbook.pdf.**
+22 Bishnu Sapkota and Bishnu Raj Upreti, "Case Study on Nepal: Observations and Reections on the Peace and Constitution Making Process," Geneva: Swiss Peace, 2017. Available at: **http://swisspeace.ch/fileadmin/user\_upload/pdf/Mediation/Nepal\_Case\_Study\_-\_National\_Dialogue\_Handbook.pdf.**
 
-<sup>23</sup> India played a particularly quixotic role in the conict. On the one hand, they were a major supplier of arms to the Nepali Army and even declared the Maoists as terrorists before the Nepal government did so. At the same time, India allegedly provided shelter and safe crossing to Maoist leaders in India during the insurgency period. See S. D. Muni, "Bringing the Maoists Down from the Hills: The Role of India," in Nepal in Transition: From People's War to Fragile Peace, eds., Sebastian von Einsiedel, David M. Malone, and Suman Pradhan (New York: Cambridge University Press, 2012), 313-331.
+23 India played a particularly quixotic role in the conict. On the one hand, they were a major supplier of arms to the Nepali Army and even declared the Maoists as terrorists before the Nepal government did so. At the same time, India allegedly provided shelter and safe crossing to Maoist leaders in India during the insurgency period. See S. D. Muni, "Bringing the Maoists Down from the Hills: The Role of India," in Nepal in Transition: From People's War to Fragile Peace, eds., Sebastian von Einsiedel, David M. Malone, and Suman Pradhan (New York: Cambridge University Press, 2012), 313-331.
 
 #### **Peacebuilding Strategies**
 
@@ -282,7 +497,7 @@ This dialogue attempt, although unsuccessful, was strategically important for bo
 
 In October 2002, the king removed the prime minister from his post on the pretext that he had failed to hold parliamentary elections as scheduled The mainstream parliamentary parties took to the streets to protest against the ousting of the elected prime minister The government and the Maoists declared a ceasere on January 29, 2003 to pursue negotiations excluding the parliamentary parties from the process
 
-<sup>24</sup> The Maoist demands included a roundtable conference, an interim government and a constituent assembly that would write a republic constitution. The negotiators representing the government were not mandated to discuss a new constitution.
+24 The Maoist demands included a roundtable conference, an interim government and a constituent assembly that would write a republic constitution. The negotiators representing the government were not mandated to discuss a new constitution.
 
 Like in 2001, the main demand of the Maoists was drafting a new constitution through an elected constituent assembly, a request that the government negotiators did not have the authority to approve and which the palace was not interested in granting Despite this, the negotiations continued However, the Nepali Army then attacked a Maoist meeting house in Ramechap, killing 17 unarmed Maoist activists and two civilians This caused the Maoists to pull out from dialogue and the country again lapsed into violence
 
@@ -296,9 +511,9 @@ Meanwhile, the political parties attempted to utilize protest tactics to confron
 
 The parties once again turned to civil resistance This time, they were supported by a coalition of professional organizations and pro-democracy civil society organizations (CSOs) who provided larger numbers of supporters than the traditional political parties could muster on their own As the analyst Kanak Mani Dixit writes, "In fact, for some time it was the civil society which had to keep theame of dissent burning, because the parties just couldn't bring in the people "26
 
-<sup>25</sup> Mahendra Lawoti, "Evolution and Growth of the Maoist Insurgency in Nepal," in The Maoist Insurgency in Nepal: Revolution in the Twenty-First Century, eds. Mahendra Lawoti and Anup K. Pahari, 3–30, (London: Routledge, 2010), 13.
+25 Mahendra Lawoti, "Evolution and Growth of the Maoist Insurgency in Nepal," in The Maoist Insurgency in Nepal: Revolution in the Twenty-First Century, eds. Mahendra Lawoti and Anup K. Pahari, 3–30, (London: Routledge, 2010), 13.
 
-<sup>26</sup> Kanak Mani Dixit, "The Spring of Dissent: People's Movement in Nepal," India International Center Quarterly 33, no. 1 (Summer 2006): 114.
+26 Kanak Mani Dixit, "The Spring of Dissent: People's Movement in Nepal," India International Center Quarterly 33, no. 1 (Summer 2006): 114.
 
 The civil society organizations not only boosted the turnout of street protests, they also put pressure on the political parties to put aside their dierences and coordinate their strategies of dissent This led Nepali political parties across the spectrum to form the Seven-Party Alliance (SPA)
 
@@ -314,7 +529,7 @@ For the Maoists, a coalition with the political parties oered a way out of the m
 
 Maoist and SPA leaders met in New Delhi in the fall of 2005 for a series of negotiations brokered by the Indian government In November, they signed a document that was known as the "12-point Understanding " The deal essentially consisted of two parts On the one hand,
 
-<sup>27</sup> Paul Routledge. "Nineteen Days in April: Urban Protest and Democracy in Nepal," Urban Studies 47, no. 6 (2010): 1287.
+27 Paul Routledge. "Nineteen Days in April: Urban Protest and Democracy in Nepal," Urban Studies 47, no. 6 (2010): 1287.
 
 the political parties agreed to major parts of the Maoist agenda of social justice and state reform to provide redress for structural and historical discrimination against various social, ethnic, caste and other groups On the other, the Maoists agreed to join the political parties in a united campaign of civil resistance to compel the king to end emergency rule, re-instate political parties, and hold new elections
 
@@ -326,9 +541,9 @@ The Maoists, the political parties, and civil society organizations all played c
 
 Diverse sections of society and political actors mobilised in daily rallies and demonstrations across the country for 19 days until King Gyanendra restored the parliament he had dissolved in May 2002 Earlier political movements of 1950, 1979 and 1990 were largely ideological, urban-based and elitist in nature However, this movement covered the entire country It stimulated the participation of all sections of society transcending the dierences of geographical, ideological, social, and economic interests, among others, thus binding citizens together in solidarity and into a common identity The movement also received the tremendous support and participation of Nepali diasporas, global civil society and the international community This external pressure helped to propel the movement, and its outcome International support included withholding arms supplies, curtailing aid, issuing statements on the violation of human rights and extending cooperation to political parties and civil society forghting for democracy, human rights and peace
 
-<sup>28</sup> Aditya Adhikari, The Bullet and the Ballot Box: The Story of Nepal's Maoist Revolution (London: Verso, 2014), 192.
+28 Aditya Adhikari, The Bullet and the Ballot Box: The Story of Nepal's Maoist Revolution (London: Verso, 2014), 192.
 
-<sup>29</sup> Ibid.
+29 Ibid.
 
 #### **Impact**
 
@@ -342,7 +557,7 @@ Second, while the SPA-led protests were insucient to truly challenge the king, t
 
 Third, the use of civil resistance strategies drew international support The international community, especially India, switched from supporting heavy-handed regime repression
 
-<sup>30</sup> Paul Routledge, "Nineteen Days in April: Urban Protest and Democracy in Nepal," Urban Studies 47, no. 6 (2010): 1287.
+30 Paul Routledge, "Nineteen Days in April: Urban Protest and Democracy in Nepal," Urban Studies 47, no. 6 (2010): 1287.
 
 of the Maoist insurgency to encouraging and even mediating dialogue among the king's political opponents
 
@@ -360,9 +575,9 @@ Despite these departures from standard peacebuilding "best practices," negotiato
 
 The CPA built upon the principles laid-out in the 12-Point Understanding that had been negotiated a year earlier This framework committed the Maoists to multi-party democracy, human rights and the rule of law and it committed the SPA to acceptance of the election of a Constituent Assembly to determine Nepal's future form of government The CPA went further than the 12-Point Understanding on issues of identity and inequality, promising an end
 
-<sup>31</sup> Authors' interview with Daman Nath Dhungana, who was one of the facilitators of the ocial peace talks between the government and the Maoists in 2001 and 2003, August 2018.
+31 Authors' interview with Daman Nath Dhungana, who was one of the facilitators of the ocial peace talks between the government and the Maoists in 2001 and 2003, August 2018.
 
-<sup>32</sup> The agreement can be found at: **https://peacemaker.un.org/sites/peacemaker.un.org/files/NP\_060616\_Eight%20Point%20Agreement.pdf**.
+32 The agreement can be found at: **https://peacemaker.un.org/sites/peacemaker.un.org/files/NP\_060616\_Eight%20Point%20Agreement.pdf**.
 
 to policies and institutions that discriminated on the basis on caste, class, religion and gender, including against Dalit, Janajati and Madhesi groups 33
 
@@ -378,9 +593,9 @@ Meetings were hosted by the SPA-led government, and generally had an informal na
 
 More controversially, as mentioned earlier, the actors participating in negotiations were quite limited, including only 3-member teams of senior (male) leaders from each side A small
 
-<sup>33</sup> See: 3.5 of CPA. An unocial translation of the full text of the CPA is available at: **https://peacemaker.un.org/sites/peacemaker.un.org/files/NP\_061122\_Comprehensive%20Peace%20Agreement%20between%20the%20 Government%20and%20the%20CPN%20%28Maoist%29.pdf**.
+33 See: 3.5 of CPA. An unocial translation of the full text of the CPA is available at: **https://peacemaker.un.org/sites/peacemaker.un.org/files/NP\_061122\_Comprehensive%20Peace%20Agreement%20between%20the%20 Government%20and%20the%20CPN%20%28Maoist%29.pdf**.
 
-<sup>34</sup> Farasat, Warisha and Priscilla Hayner, Negotiating Peace in Nepal: Implications for Justice (New York: International Center for Transitional Justice, 2009), 15.
+34 Farasat, Warisha and Priscilla Hayner, Negotiating Peace in Nepal: Implications for Justice (New York: International Center for Transitional Justice, 2009), 15.
 
 handful of civil society leaders were also present at some sessions Perhaps as a consequence, thenal CPA was silent or ambiguous on many of the issues most important to marginalized and excluded communities Most notably, the CPA did not make any statements concerning whether and to what degree the new political system would have a federal structure Instead, it made only broad principled statements about transforming the "existing centralized and unitary state system" and creating a more "inclusive, democratic, and progressive" Nepal How this would look in practice was left to the future Constituent Assembly Keeping the number of actors at the negotiating table small, handling contentious issues with broad aspirational language, and deferring dicult decisions to the Constituent Assembly were probably all helpful in maintaining momentum toward an agreement and ensuring that civil war did not resume However, it also raised the potential for conict in the agreement's aftermath In fact, unresolved issues came to the fore so quickly that, in our view, the signing of the CPA did not really represent the end of the conict settlement phase
 
@@ -412,7 +627,7 @@ Nevertheless, as with the Madhesis, the Maoists' use of civil resistance tactics
 
 This proved to be a miscalculation Maoist mobilization in 2007 may have in fact helped prepare them for mobilizing voters in the election, while concessions they earned over the mechanisms and procedures of the election helped them to secure a commanding victory
 
-<sup>35</sup> Aditya Adhikari, The Bullet and the Ballot Box: The Story of Nepal's Maoist Revolution (London: Verso, 2014), 2010-211.
+35 Aditya Adhikari, The Bullet and the Ballot Box: The Story of Nepal's Maoist Revolution (London: Verso, 2014), 2010-211.
 
 #### **Impact**
 
@@ -436,7 +651,7 @@ The debate on federalism in particular dominated politics and was a main cause f
 
 marginalised communities The anti-federalists, on the other hand, feared federalism would lead to the social, economic, and political disintegration of Nepal Federalism became a
 
-<sup>36 &</sup>quot;Nepal's Constitution Building Process, 2006-2015," International IDEA, 2015. **https://www.idea.int/publications/catalogue/nepals-constitution-building-process-2006-2015**.
+36 &quot;Nepal's Constitution Building Process, 2006-2015," International IDEA, 2015. **https://www.idea.int/publications/catalogue/nepals-constitution-building-process-2006-2015**.
 
 powerful symbol for a wider agenda of inclusion, which encompasses other institutional reforms to guarantee ethnically proportional representation and a redenition of Nepali nationalism to recognise the country's ethnic and cultural diversity At the same time, it became the single most divisive issue, even leading to bloodshed as some protests devolved into violence and were met with lethal repression from state security forces
 
@@ -444,9 +659,9 @@ Amidst the disputes over longer-term constitutional issues, short-term political
 
 With the Constituent Assembly at a deadlock, it was disbanded and new elections were held in 2013 But the second CA made little more progress than therst, until a devastating earthquake in April 2015 The aftermath of the earthquake galvanized political action, resulting in a constitutionnally being passed in September 2015 But many marginalized communities viewed the compromises reached to secure its passage as coming at their expense Madhesis in particular were outraged by provincial borders that seemingly minimized their political power, as well as citizenship rules that limited automatic citizenship to being granted only to children of Nepali fathers, but not Nepali mothers A major protest campaign broke out in December 2015, with support from the Indian government Eorts by protestors to block transit across the Nepal-India border resulted in widespread fuel shortages But rather than pressure the regime to concede to the Madhesis' demands, the suering created by the fuel shortages sparked anger from other communities and undermined support for the Madhesis The campaign ultimately ended when India reversed its position and withdrew its support for the Madhesis
 
-While Nepal has successfully passed a new constitution and experienced no reversion to full-scale civil war, some historically marginalized communities continue to feel excluded from politics Major disturbances, such as the 2015 Madhes uprising, have resulted in fatalities, and a Maoist splinter group led by Netra Bikram Chand in the far western and mid-western regions continues to pose a risk of future violence Political parties did not initially take Chand and his group seriously But on February 22, 2019, the group detonated a bomb outside the oce of the national cellular company, killing one citizen and injuring two others <sup>37</sup> In response,
+While Nepal has successfully passed a new constitution and experienced no reversion to full-scale civil war, some historically marginalized communities continue to feel excluded from politics Major disturbances, such as the 2015 Madhes uprising, have resulted in fatalities, and a Maoist splinter group led by Netra Bikram Chand in the far western and mid-western regions continues to pose a risk of future violence Political parties did not initially take Chand and his group seriously But on February 22, 2019, the group detonated a bomb outside the oce of the national cellular company, killing one citizen and injuring two others 37 In response,
 
-<sup>37 &</sup>quot;Chand Party warns of retaliation after government bans its criminal activities," The Kathmandu Post, March 14, 2019, **https://kathmandupost.com/national/2019/03/14/chand-party-warns-of-retaliation-after-government-bans-its-criminal-activities**.
+37 &quot;Chand Party warns of retaliation after government bans its criminal activities," The Kathmandu Post, March 14, 2019, **https://kathmandupost.com/national/2019/03/14/chand-party-warns-of-retaliation-after-government-bans-its-criminal-activities**.
 
 the government declared the group a criminal outt in March and arrested dozens of party members over the next seven months, killing two 38
 
@@ -458,7 +673,7 @@ Furthermore, progress was impeded by competition for power both between and with
 
 At times, fragmentation among the political parties even threatened a return to violence Public security remained a matter of concern throughout much of the country There were widespread complaints that the Maoists continued to engage in a pattern of low-level intimidation and threats against various sectors, particularly businesses in urban areas, leading to protests from the business community Meanwhile, there had been serious divisions within the party ever since the Maoists decided to enter the peace process and demand a democratic republic Hardliners in the party, led by Mohan Baidya, claimed that while a "democratic republic" was a tactical goal, the ultimate aim must remain a "people's federal republic" or "people's democracy "
 
-<sup>38</sup> Durga Lal KC, "Nearly two dozen Chand party cadres arrested in biggest police raid yet on the outt," The Kathmandu Post, October 17, 2019, **https://kathmandupost.com/province-no-5/2019/10/17/police-arrest-21-communist-party-of-nepal-leaders-and-cadres-in-dang**.
+38 Durga Lal KC, "Nearly two dozen Chand party cadres arrested in biggest police raid yet on the outt," The Kathmandu Post, October 17, 2019, **https://kathmandupost.com/province-no-5/2019/10/17/police-arrest-21-communist-party-of-nepal-leaders-and-cadres-in-dang**.
 
 Despite fears from other political parties that the Maoists would attempt to pursue a oneparty state, Prachanda took several steps to signal his commitment to multi-party politics Some, such as concessions over the integration of Maoistghters into the national army, angered factions within his own party In April 2012, Mohan Baidya declared the entire process to be "surrender and disarmament " After a protracted internal party struggle, the Maoist partynally split in June, with Baidya walking away with several other senior leaders to form another party Initially, it was feared that his cadres might return to arms again In the end, they did not After boycotting the 2013 elections for the second Constituent Assembly—in which the Maoists lost their plurality—some factions from the Baidya-led party re-joined the main Maoist party However, divisions within the main party remain, as some party members- especially those representing marginalized communities—see the Maoist leadership as having abandoned their priorities in favor of the comforts and privileges of political power in Kathmandu
 
@@ -474,9 +689,9 @@ The use of civil resistance tactics proliferated through the post-settlement pha
 
 The use of these tactics has been somewhat successful The government has tried to address concerns about minority inclusion through quotas in education, public employment and political representation In the civil service, 45 percent of the seats are allocated to marginalized or under-represented groups
 
-<sup>39 &</sup>quot;Doctors begin mass hunger strike to press government to address Dr. KC's demands," The Kathmandu Post, January 29, 2019, **https://kathmandupost.com/national/2019/01/28/doctors-begin-mass-hunger-strike-to-press-government-to-address-dr-kcs-demands**.
+39 &quot;Doctors begin mass hunger strike to press government to address Dr. KC's demands," The Kathmandu Post, January 29, 2019, **https://kathmandupost.com/national/2019/01/28/doctors-begin-mass-hunger-strike-to-press-government-to-address-dr-kcs-demands**.
 
-<sup>40</sup> For a selection of such cases, see: "Nepalese protest violence against women," Al Jazeera, January 7, 2013, **https://www.aljazeera.com/news/asia/2013/01/20131714247955976.html**;and "Women march on Kathmandu streets to protest rising rape incidents," Xinhua, March 8, 2018, **http://www.xinhuanet.com/english/2018-03/08/c\_137025294.htm**.
+40 For a selection of such cases, see: "Nepalese protest violence against women," Al Jazeera, January 7, 2013, **https://www.aljazeera.com/news/asia/2013/01/20131714247955976.html**;and "Women march on Kathmandu streets to protest rising rape incidents," Xinhua, March 8, 2018, **http://www.xinhuanet.com/english/2018-03/08/c\_137025294.htm**.
 
 But the frequent use of civil resistance tactics started to achieve only diminishing returns, and in several cases backred At a normative level, critics of the use of civil resistance tactics argued that those with grievances ought to use institutionalized political channels, and that it was fundamentally undemocratic to turn to mass mobilization to try to achieve political goals when a majority support in elected bodies for such goals was lacking Others countered that what was at stake, especially for marginalized communities, were fundamental rights that are necessary exactly because they would be trampled by majority-rule
 
@@ -486,7 +701,7 @@ Yet another reason for civil resistance tactics' loss of legitimacy, and consequ
 
 The most dramatic example of popular demonstrations backring came in late 2015, surrounding the passage of the new Constitution Madhesi parties and activists, angered by provisions in the new constitution that they viewed as denying them sucient regional autonomy,
 
-<sup>41</sup> Interviews with aid agency employers conducted by the authors indicate that the aftermath of the global nancial crisis also played a major role in the decline of international aid. However, foreign agencies not only decreased their total expenditures, they shifted their funding away from directly supporting advocacy organizations and toward programmatic eorts viewed as less controversial. For example, programs focusing on gender discrimination were perceived as less risky than those focusing on ethnic reconciliation.
+41 Interviews with aid agency employers conducted by the authors indicate that the aftermath of the global nancial crisis also played a major role in the decline of international aid. However, foreign agencies not only decreased their total expenditures, they shifted their funding away from directly supporting advocacy organizations and toward programmatic eorts viewed as less controversial. For example, programs focusing on gender discrimination were perceived as less risky than those focusing on ethnic reconciliation.
 
 took to the streets in protest The results were even bloodier than the 2007 movement Violent escalations by protesters, met with lethal repression by the regime, resulted in at least 40 deaths Furthermore, the protesters were aided by the Indian government, who is widely believed to have helped enforce a blockade that severely limited fuel shipments to the entire country The resulting shortage of fuel prompted a national economic and humanitarian crisis that only hardened inter-group antagonisms At the same time, the heavy external involvement by India undermined the perceived legitimacy of the movement Rather than concede to the demands of protesters, Prime Minister K P Oli seized the opportunity to rally nationalist sentiment An amendment to the Constitution oering partial concessions around parliamentary representation provided India a pretext to back down and end its support of the blockade While Madhesi leaders were adamant that the amendment did not satisfy their demands, the withdrawal of Indian support forced them to end their campaign in February 2016
 
@@ -508,7 +723,7 @@ The framework of integrated civil resistance and peacebuilding strategies can he
 - **The absence of civil resistance and peacebuilding strategies can result in social frustrations being channeled toward violent alternatives.** As awareness of injustice grew among marginalized groups in Nepal, a lack of peacebuilding strategies and a perception that civil resistance was only used by urban elites for political advantage led rural Nepalis to gravitate toward the Maoists and their program of protracted "People's War "
 - **The combination of peacebuilding and civil resistance strategies can be effective in toppling entrenched power structures.** In the end, 19 days of civil resistance accomplished what 10 years of civil war could not, forcing the king to relinquish power
 
-<sup>42</sup> The Asia Foundation, A Survey of the Nepali People in 2017, Kathmandu: The Asia Foundation, 2018, **https://asiafoundation.org/wp-content/uploads/2018/04/Survey-of-the-Nepali-People-in-2017\_revised-752018.pdf**.
+42 The Asia Foundation, A Survey of the Nepali People in 2017, Kathmandu: The Asia Foundation, 2018, **https://asiafoundation.org/wp-content/uploads/2018/04/Survey-of-the-Nepali-People-in-2017\_revised-752018.pdf**.
 
 Dialogue and negotiation produced the coalition between the Maoists and political parties that made eective civil resistance possible
 
@@ -519,7 +734,7 @@ However, there are other aspects in which the Nepal case complicates the idealiz
 
 ■ **Marginalized groups may be among the least likely to see civil resistance and peacebuilding strategies as viable solutions to their problems.** There was no lack of awareness of civil resistance as a strategy in Nepal in the early 1990s; a major civil resistance movement had brought democracy to the country in 1990 Nevertheless, civil resistance was widely perceived, especially among oppressed groups, as a strategy of the elite It was seen as being used by middle-class urbanites in pursuit of political power and as largely irrelevant to the plight of rural, marginalized communities seeking broader social and economic change While the success of the second Jana Andolan in 2006 encouraged indigenous and Madhesi activists to attempt nonviolent action again in the post-conict period when their political demands were not met, the failure of these eorts may have once again fostered pessimism about the viability of civil resistance for excluded communities The occasional use of violence by some of these groups, while limited, may be a consequence of that pessimism 43
 
-<sup>43</sup> This dynamic is consistent with one of the co-author's previous works demonstrating that civil resistance is used less frequently by excluded ethnic minorities. See Ches Thurber, "Ethnic Barriers to Civil Resistance," Journal of Global Security Studies 3, no. 3 (2018): 255-270.
+43 This dynamic is consistent with one of the co-author's previous works demonstrating that civil resistance is used less frequently by excluded ethnic minorities. See Ches Thurber, "Ethnic Barriers to Civil Resistance," Journal of Global Security Studies 3, no. 3 (2018): 255-270.
 
 - **Civil resistance may only partially balance power inequalities, undermining conflict settlements.** The success of civil resistance in Nepal was the result of partnership between marginalized and privileged groups Because of this, elites were still in a position to dominate post-conict politics Perhaps if marginalized groups had continued mobilization through the conict settlement phase, they might have been able to secure additional protections in the CPA One reason conict settlement came so quickly is that it was ambiguous about many of the divisive social issues that had been the original drivers of the conict But this is a double-edged sword; attempts at resolving all of these contentious issues in the conict settlement phase may have risked a return to overt conict Furthermore, continuing mobilization during the peace talks might have been perceived as subversive and disruptive, potentially undermining the agendas of those groups advocating for minority rights
 - **Civil resistance sometimes backfires.** Marginalized communities used civil resistance strategies throughout the post conict stage in an eort to gain leverage over political actors in the way Dudouet's framework suggests But rather than secure greater justice, these eorts largely seem to have backred as the broader public perceived these protestors to be causing economic suering, disrupting social harmony, and risking a return to large-scale violence Future research might do well to focus on strategies that marginalized and underprivileged groups can employ under such polarizing conditions Such strategies might include framing grievances to highlight common ideals, forging coalitions that cross traditional social divides, and selecting tactics that reduce the risk of violent escalation This is another area where drawing on both civil resistance and peacebuilding traditions could be fruitful: civil resistance has focused on reducing social distance and leveraging opponents' dependencies, while peacebuilding has emphasized dialogue in polarized settings

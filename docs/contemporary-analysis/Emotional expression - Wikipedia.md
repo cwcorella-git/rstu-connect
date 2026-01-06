@@ -1,3 +1,8 @@
+---
+title: "**Emotional expression**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Emotional_expression)
 
 # **Emotional expression**

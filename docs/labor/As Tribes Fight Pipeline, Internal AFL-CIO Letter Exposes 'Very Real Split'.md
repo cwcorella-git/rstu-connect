@@ -1,15 +1,25 @@
+---
+title: "**As Tribes Fight Pipeline, Internal AFL-CIO Letter Exposes 'Very Real Split'**"
+category: "labor"
+---
+
 # **As Tribes Fight Pipeline, Internal AFL-CIO Letter Exposes 'Very Real Split'**
 
 | Date: Sun, 09/25/2016 - 16:47 |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Source: https://ecology.iww.org/node/1816|
-| Tags: green unionism, yellow unionism, NoDAPL, trade unions, AFL-CIO, North America's Building<br>Trades Unions (NABTU), International Brotherhood of Teamsters (IBT), Laborers' International Union<br>of North America (LIUNA), National Nurses United, Communication Workers of America (CWA) |
+| Tags: green unionism, yellow unionism, NoDAPL, trade unions, AFL-CIO, North America's Building
+Trades Unions (NABTU), International Brotherhood of Teamsters (IBT), Laborers' International Union
+of North America (LIUNA), National Nurses United, Communication Workers of America (CWA) |
 | By Jon Queally - |
 | Common Dreams |
 | , September 22, 2016 |
-| The AFL-CIO, the nation's largest labor federation, generated waves of criticism by standing<br>against the Standing Rock Sioux and supportive allies last week when it endorsed the |
+| The AFL-CIO, the nation's largest labor federation, generated waves of criticism by standing
+against the Standing Rock Sioux and supportive allies last week when it endorsed the |
 | Dakota Access Pipeline |
-| – a project opponents say threatens tribal sovereignty, regional water resources, and sacred<br>burial grounds while also undermining efforts to curb greenhouse gas emissions and fight<br>climate change. |
+| – a project opponents say threatens tribal sovereignty, regional water resources, and sacred
+burial grounds while also undermining efforts to curb greenhouse gas emissions and fight
+climate change. |
 | Yet while a |
 | public statement |
 ## | |
@@ -24,14 +34,21 @@ In turn, many of the tribes and their progressive allies saw the statement as a 
 
 ## Trumka's public stance by declaring their own opposition to the pipeline.
 
-| But many of those outside critics of the AFL-CIO didn't know the half of it. That's because<br>none of them have likely seen a much more harshly-worded letter, obtained by |
+| But many of those outside critics of the AFL-CIO didn't know the half of it. That's because
+none of them have likely seen a much more harshly-worded letter, obtained by |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Common Dreams |
-| , which was circulated internally among the federation's leadership ahead of Trumka's<br>statement. |
+| , which was circulated internally among the federation's leadership ahead of Trumka's
+statement. |
 | The |
 | five-page letter |
-| (pdf), dated September 14th, is addressed to Trumka and copied to all presidents of the<br>AFL-CIO's 56 affiliated unions. It was sent by Sean Mc Garvey, president of North America's<br>Building Trades Unions (NABTU), which represents 14 separate building and construction<br>unions within the federation. |
-| In the letter, Mc Garvey questions top leadership for not taking a firmer position in defense of<br>the union members working on Dakota Access and calls out other AFL-CIO member<br>unions—specifically the |
+| (pdf), dated September 14th, is addressed to Trumka and copied to all presidents of the
+AFL-CIO's 56 affiliated unions. It was sent by Sean Mc Garvey, president of North America's
+Building Trades Unions (NABTU), which represents 14 separate building and construction
+unions within the federation. |
+| In the letter, Mc Garvey questions top leadership for not taking a firmer position in defense of
+the union members working on Dakota Access and calls out other AFL-CIO member
+unions—specifically the |
 | Amalgamated Transit Union (ATU) |
 | , the |
 | National Nurses United (NNU) |
@@ -47,19 +64,26 @@ Mc Garvey does claim in his letter that the unions he represents "are sensitive 
 
 Criticizing the unions standing with the tribes, Mc Garvey accuses their leaders of "callously" and "hypocritically" disregarding the pipeline workers. He also declares the "misinformation and inaccuracies that [these union members] have used to justify their opposition to this project to be nothing short of astounding if not wholly ignorant." Mc Garvey's letter concludes by demanding a "public apology" by those unions "for not only the uninformed public opposition to this project" but for also "initiating the conscious decoupling of the American Labor Movement or, what remains of it."
 
-| Those interviewed for this story described the overall tone of Mc Garvey's letter as ranging<br>from "strong" to "aggressive" to "threatening." |
+| Those interviewed for this story described the overall tone of Mc Garvey's letter as ranging
+from "strong" to "aggressive" to "threatening." |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | That these |
 | tensions exist |
-| , of course, is no more a secret within labor circles than how under Mc Garvey's leadership the<br>building trade unions have forged |
+| , of course, is no more a secret within labor circles than how under Mc Garvey's leadership the
+building trade unions have forged |
 | controversial |
 | labor-management partnerships with large corporations and |
 | celebrated |
-| stronger ties with powerful industry lobby groups like the American Petroleum Institute (API)<br>and the American Chemistry Council. Still, the latest intra-federation conflict takes place in the<br>midst of a contentious presidential campaign, one in which the condition of workers and the<br>climate threat (or |
+| stronger ties with powerful industry lobby groups like the American Petroleum Institute (API)
+and the American Chemistry Council. Still, the latest intra-federation conflict takes place in the
+midst of a contentious presidential campaign, one in which the condition of workers and the
+climate threat (or |
 | denial of that threat |
 | ) have played a prominent role. |
-| Tom Owens, NABTU's director of marketing and communications, said his group would not<br>comment for this story, stating in an email: "The letter speaks for itself." |
-| And though not all the unions named in the letter had responded to interview requests by the<br>time this story went to press, Rose Ann De Moro, executive director of the NNU, reacted by |
+| Tom Owens, NABTU's director of marketing and communications, said his group would not
+comment for this story, stating in an email: "The letter speaks for itself." |
+| And though not all the unions named in the letter had responded to interview requests by the
+time this story went to press, Rose Ann De Moro, executive director of the NNU, reacted by |
 
 saying the contents and tone of Mc Garvey's remarks were troubling, yet also instructive.
 
@@ -115,13 +139,24 @@ The notion that a war time-style mobilization is needed to tackle the problems o
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | in |
 | The New Republic |
-| last month by Bill Mc Kibben, author and co-founder of 350.org, has helped propel the analogy<br>back into the forefront among climate action campaigners and labor unions. |
-| Within the framework of forging a solution that can both address climate change while<br>protecting workers, one of the key concepts is that of the "just transition"—a set of economic<br>and policy reforms which recognizes that while a rapid transformation from a fossil fuel energy<br>system to one built on renewable energy is imperative, the workers and communities directly<br>upset by this transformation must have their standards of living maintained, or improved, as a<br>part of that process. |
-| One of the leading researchers on the just transition is Robert Pollin, co-director of the<br>Political Economy Research Institute (PERI) at UMass Amherst, who is on the verge of<br>publishing new research on the topic. In a forthcoming working paper from PERI, some of<br>which was |
+| last month by Bill Mc Kibben, author and co-founder of 350.org, has helped propel the analogy
+back into the forefront among climate action campaigners and labor unions. |
+| Within the framework of forging a solution that can both address climate change while
+protecting workers, one of the key concepts is that of the "just transition"—a set of economic
+and policy reforms which recognizes that while a rapid transformation from a fossil fuel energy
+system to one built on renewable energy is imperative, the workers and communities directly
+upset by this transformation must have their standards of living maintained, or improved, as a
+part of that process. |
+| One of the leading researchers on the just transition is Robert Pollin, co-director of the
+Political Economy Research Institute (PERI) at UMass Amherst, who is on the verge of
+publishing new research on the topic. In a forthcoming working paper from PERI, some of
+which was |
 | previewed |
 | earlier this year in the |
 | American Prospect |
-| , Pollin and co-author Brian Callaci show that not only would a generous program for<br>displaced fossil fuel workers be possible, it would actually be much more affordable than even<br>many mainstream politicians have estimated. |
+| , Pollin and co-author Brian Callaci show that not only would a generous program for
+displaced fossil fuel workers be possible, it would actually be much more affordable than even
+many mainstream politicians have estimated. |
 
 ## The findings of the working paper, reviewed by
 

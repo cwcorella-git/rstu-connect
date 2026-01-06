@@ -1,3 +1,8 @@
+---
+title: "## **Exploring the Intersection of Anarchism and Buddhist Ontology**"
+category: "contemporary-analysis"
+---
+
 ## **Exploring the Intersection of Anarchism and Buddhist Ontology**
 
 ## **Date:** Unknown

@@ -1,14 +1,10 @@
 ---
-author: Jeff Shantz
-date: 2025
-tags:
-  - organizing
-  - strikes
-  - unions
-  - tenants
-  - housing
 title: "Organizing Materials and Activities"
+author: "Jeff Shantz"
+date: "2025"
+category: "organizing"
 ---
+
 # Organizing Materials and Activities
 
 **Date**: September 8, 2025  

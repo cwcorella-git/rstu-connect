@@ -1,21 +1,8 @@
 ---
-title: Anarchy in the USA
-author: David Graeber
-date: '1999'
-pubdate: '2022-09-30T04:39:15'
-language: en
-source_url: 'Sept. 30th 2022 from https://inthesetimes.com/issue/24/03/graeber2403.html'
-notes: >-
-  See also: David Graeber Institute [[https://davidgraeber.institute/]] &
-  [[https://davidgraeber.org/]]
-original_format: muse
-converted_date: '2025-11-08T11:25:03.003633'
-tags:
-  - theory
-  - contemporary
-  - police
-  - labor
-  - anarchism
+title: "Anarchy in the USA"
+author: "David Graeber"
+date: "1999"
+category: "contemporary-analysis"
 ---
 
 Anarchists often complain they only make the news when they break something. This article is no exception.

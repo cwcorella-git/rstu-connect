@@ -1,3 +1,8 @@
+---
+title: "## **Union co-operatives: what they are and why we need them**"
+category: "economic-alternatives"
+---
+
 ## **Union co-operatives: what they are and why we need them**
 
 **Date:** Sun, 01/15/2017 - 16:40 **Source:** https://ecology.iww.org/node/2019**Tags:** green unionism, cooperatives, green syndicalism, United Steelworkers of America (USW), social ecology, just transition By Simon Taylor - New Internationalist , January 12, 2017 Trade unionist Jimmy Reid described alienation as 'the frustration of ordinary people excluded from the process of decision-making'. This frustration is endemic in contemporary neoliberalised economies, and according to commentators, including George Monbiot , it contributes to the rise of populist backlashes and disempowerment. Unions play a vital role in counter-balancing alienation and frustration, responding to organizations imposing alienating practices on their workers. However, neoliberal policies have contributed to a long-term decline of union membership and influence in the Anglosphere and
@@ -5,15 +10,21 @@
 | elsewhere |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | |
-| But workers and unions can counter alienation and other negative effects of neoliberal policies<br>– such as outsourcing, precarity and union decline – in new and imaginative ways. |
+| But workers and unions can counter alienation and other negative effects of neoliberal policies
+– such as outsourcing, precarity and union decline – in new and imaginative ways. |
 | The United Steelworkers ( |
 | US |
 | W |
-| ) union in the US is one of many good examples, responding to decades of deindustrialisation<br>and declining union membership. They are developing worker co-operatives that place unions<br>at the heart of enterprises, a model known as |
+| ) union in the US is one of many good examples, responding to decades of deindustrialisation
+and declining union membership. They are developing worker co-operatives that place unions
+at the heart of enterprises, a model known as |
 | union co-ops |
 | . They have modified the resilient Mondragon worker co-op |
 | model |
-| by replacing its social council in co-operatives with more than 50 workers with a Union<br>Bargaining Committee. The committee represents the worker co-operators interests as<br>workers, while other structures represent their interests as owners. Worker representation<br>structures are important according to Mondragon and the |
+| by replacing its social council in co-operatives with more than 50 workers with a Union
+Bargaining Committee. The committee represents the worker co-operators interests as
+workers, while other structures represent their interests as owners. Worker representation
+structures are important according to Mondragon and the |
 
 ## USW
 
@@ -37,16 +48,25 @@ also believes that the active involvement of unions in worker-coops will result 
 
 ## US
 
-| , and Britain's experience of union involvement with worker co-ops. It sought to determine<br>whether |
+| , and Britain's experience of union involvement with worker co-ops. It sought to determine
+whether |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | UK |
-| unions should be noting the example of their US counterparts, and considered whether<br>lessons can be drawn that should be applied to Britain's context (and elsewhere). |
+| unions should be noting the example of their US counterparts, and considered whether
+lessons can be drawn that should be applied to Britain's context (and elsewhere). |
 | In the study, I found that the |
 | US |
 | W |
-| 's and other organizations' efforts to establish union co-ops in the US are ongoing. They have<br>considered the role unions can play in establishing and supporting enterprises to become<br>sustainable, while forging an effective bargaining and representational role. |
-| In Britain, I found that unions often struggle to carve out a role for themselves in worker<br>co-ops, choosing not to engage with them and favouring their traditional role in conventional<br>employment models. Despite sharing common historical roots addressing the iniquities of<br>industrialisation, union and co-operative movements have often nonetheless been wary<br>bedfellows. |
-| The closest parallel to the union co-op model found in Britain was the relationship between<br>Suma Wholefoods (a worker co-op wholefood wholesaler) and the Bakers Union ( |
+| 's and other organizations' efforts to establish union co-ops in the US are ongoing. They have
+considered the role unions can play in establishing and supporting enterprises to become
+sustainable, while forging an effective bargaining and representational role. |
+| In Britain, I found that unions often struggle to carve out a role for themselves in worker
+co-ops, choosing not to engage with them and favouring their traditional role in conventional
+employment models. Despite sharing common historical roots addressing the iniquities of
+industrialisation, union and co-operative movements have often nonetheless been wary
+bedfellows. |
+| The closest parallel to the union co-op model found in Britain was the relationship between
+Suma Wholefoods (a worker co-op wholefood wholesaler) and the Bakers Union ( |
 
 ## BFAWU
 

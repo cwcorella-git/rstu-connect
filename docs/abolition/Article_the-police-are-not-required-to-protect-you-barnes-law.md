@@ -1,12 +1,8 @@
 ---
-title: The Police Are Not Required To Protect You Barnes Law
-date: 2025
-author: Unknown
-tags:
-  - organizing
-  - rent
-  - police
-  - labor
+title: "The Police Are Not Required To Protect You Barnes Law"
+author: "Unknown"
+date: "2025"
+category: "abolition"
 ---
 
 # The Police Are Not Required To Protect You Barnes Law
@@ -151,10 +147,7 @@ The Police are Not Required to Protect You — Barnes Law about:reader?url=https
 
                [3]
 ## DeShaney v. Winnebago County Department of Social
-               Services, 489 U.S. 189 (1989). <https://www.law.cornell.edu/
-4 of 6 9/7/25, 12:00 PM The Police are Not Required to Protect You — Barnes Law about:reader?url=https%3A%2F%2Fwww.barneslawllp...
-
-## supremecourt/text/489/189>
+               Services, 489 U.S. 189 (1989). 
 
                [4]
 ## Ibid.

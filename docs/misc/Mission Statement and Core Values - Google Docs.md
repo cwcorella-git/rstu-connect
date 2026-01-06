@@ -1,14 +1,10 @@
 ---
-date: 2025
-author: Google Docs
-tags:
-  - organizing
-  - unions
-  - tenants
-  - housing
-  - rent
 title: "Mission Statement and Core Values - Google Docs"
+author: "Google Docs"
+date: "2025"
+category: "misc"
 ---
+
 # Mission Statement and Core Values - Google Docs
 
 *Converted from: `./Mission Statement and Core Values - Google Docs.pdf`*  
@@ -114,4 +110,3 @@ Newe (Western Shoshone), and Wašiw (Washoe) people. Our current housing crisis 
 settler colonialism. We support demands for Land Back by Indigenous peoples.
 
 ---
-

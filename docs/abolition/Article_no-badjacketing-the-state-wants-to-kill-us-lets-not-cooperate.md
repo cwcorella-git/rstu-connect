@@ -1,12 +1,8 @@
 ---
-title: No Badjacketing the State Wants To Kill Us Lets Not Cooperate
-date: 2025
-author: Industrial Workers of the World
-tags:
-  - organizing
-  - rent
-  - police
-  - labor
+title: "No Badjacketing the State Wants To Kill Us Lets Not Cooperate"
+author: "Industrial Workers of the World"
+date: "2025"
+category: "abolition"
 ---
 
 # No Badjacketing the State Wants To Kill Us Lets Not Cooperate

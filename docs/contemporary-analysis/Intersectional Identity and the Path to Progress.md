@@ -1,3 +1,8 @@
+---
+title: "## **Intersectional Identity and the Path to Progress**"
+category: "contemporary-analysis"
+---
+
 ## **Intersectional Identity and the Path to Progress**
 
 ## **Date:** Unknown

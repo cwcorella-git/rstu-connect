@@ -1,3 +1,8 @@
+---
+title: "## **On spontaneity and organisation - Murray Bookchin**"
+category: "arts-culture-music"
+---
+
 ## **On spontaneity and organisation - Murray Bookchin**
 
 ## **Date:** Unknown

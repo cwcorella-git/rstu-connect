@@ -1,16 +1,10 @@
 ---
-title: Class Consciousness And Working Class Emancipation
-slug: Class Consciousness and Working Class Emancipation
-reconversion_status: ready_for_reconversion
-date: 1914
-author: Unknown
-tags:
-  - theory
-  - anarchism
-  - strikes
-  - unions
-  - housing
+title: "Class Consciousness And Working Class Emancipation"
+author: "Unknown"
+date: "1914"
+category: "theory"
 ---
+
 ## **Class Consciousness and Working Class Emancipation**
 
 ## **Date:** Unknown
@@ -39,7 +33,7 @@ Having accused us of attaching labels they feel free to throw out their own by f
 
 This passage only applies to the Lenin of 1902-5. When he quoted Kautsky in What is to be Done?about workers only developing trades union consciousness, he was expressing not "Leninism" (i.e. his own view) but what he thought was still social democratic orthodoxy. As Lars Lih, Hal Draper and others have long shown(4), the 1905 revolution changed both the situation of the Russian working class, and Lenin's own views. He last refers to What is to be Done?in 1907 but only to say that it was now no longer valid as it "belonged to a different period". At this point the Bolsheviks had 46,000 members, the overwhelming majority of them workers.(5) A "sealed-off political organisation"? They were neither self-referent nor monolithic (as even the capitalist commentator Leonard Shapiro had to admit).(6) They lost almost three quarters of these members in the reaction that followed 1905 but never lost a base in the class, and in 1917 the Russian working class rebuilt the Party as an expression of its revolutionary and internationalist demands because it had been the most established force agitating in the class for opposition to the war and capitalism. The AWW at this point tell readers that they do not want "to go deep into history" but it seems they need to get more acquainted with it instead of repeating Cold War propaganda.(7) And the whole point of our review of their experiences was that they were simply re-learning the lessons from the past "the hard way" even if they dressed them up in the language of novelty. There is a certain irony here as they have since been forced to reply to their critics of their own article "The necessity of a revolutionary working class program in times of coup and civil war scenarios" with the riposte that they:
 
-<sup>&</sup>quot;… find it tedious to respond to people whose knee-jerk reaction to 'organisation' is 'Leninism'."(libcom.org)
+&quot;… find it tedious to respond to people whose knee-jerk reaction to 'organisation' is 'Leninism'."(libcom.org)
 
 To which we can only say "amen".
 

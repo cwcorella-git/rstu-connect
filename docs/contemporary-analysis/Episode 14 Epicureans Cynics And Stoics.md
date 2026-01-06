@@ -1,3 +1,8 @@
+---
+title: "## **Episode 14: Epicureans Cynics And Stoics/**"
+category: "contemporary-analysis"
+---
+
 ## **Episode 14: Epicureans Cynics And Stoics/**
 
 ## **Source:**

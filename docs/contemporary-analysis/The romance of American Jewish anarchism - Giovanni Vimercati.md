@@ -1,3 +1,8 @@
+---
+title: "## **The romance of American Jewish anarchism - Giovanni Vimercati**"
+category: "contemporary-analysis"
+---
+
 ## **The romance of American Jewish anarchism - Giovanni Vimercati**
 
 ## **Date:** Unknown

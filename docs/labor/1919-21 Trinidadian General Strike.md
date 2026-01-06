@@ -1,3 +1,8 @@
+---
+title: "## **1919-21: Trinidadian General Strike**"
+category: "labor"
+---
+
 ## **1919-21: Trinidadian General Strike**
 
 **Date:** Unknown

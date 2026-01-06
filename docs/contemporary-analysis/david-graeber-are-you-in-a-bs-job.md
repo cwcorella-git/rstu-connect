@@ -1,23 +1,8 @@
 ---
-title: Are You in a BS Job?
-author: David Graeber
-date: 'May 6, 2018'
-pubdate: '2021-11-28T19:47:18'
-language: en
-source_url: >-
-  Retrieved on 28<sup>th</sup> November 2021 from
-  [[https://www.chronicle.com/article/are-you-in-a-bs-job-in-academe-youre-hardly-alone/][www.chronicle.com]]
-notes: >-
-  See also: David Graeber Institute [[https://davidgraeber.institute/]] &
-  [[https://davidgraeber.org/]]
-topics:
-  - bullshit jobs
-  - academic
-original_format: muse
-converted_date: '2025-11-08T11:25:03.044286'
-tags:
-  - Bullshit Jobs
-  - Academic
+title: "Are You in a BS Job?"
+author: "David Graeber"
+date: "May 6, 2018"
+category: "contemporary-analysis"
 ---
 
 I would like to write about the bullshitization of academic life: that is, the degree to which those involved in teaching and academic management spend more and more of their time involved in tasks which they secretly — or not so secretly — believe to be entirely pointless.
@@ -108,7 +93,7 @@ This might seem unlikely; but I don’t think it’s impossible.
 
 It strikes me that a real problem with the university system is that, intellectually, it is becoming the only game in town. Scholars have no other place to go, scientists few, and even as university departments themselves become less and less concerned with ideas, almost anyone whose work is in any way related to the life of the mind — artists or journalists, for instance — becomes more and more likely to have to spend at least some time employed by one. These two phenomena are related. The best thing that could happen to universities would be to face a little competition.
 
-It’s helpful to remember that universities have faced effective competition before, and benefited from it. Most 18<sup>th</sup>-century Enlightenment thinkers had nothing but contempt for universities, which they saw as corrupt, pedantic, moribund, and medieval; they preferred to write for the general public. The modern university was a bid for renewed relevance. Similarly, in the mid-20<sup>th</sup> century, it wasn’t the French academic system but nonuniversity groups and institutions like Georges Bataille’s Collège de Sociologie (which was not a college), the Existentialists, or even professional psychiatrists like Jacques Lacan, who invented much of what we now think of as French theory. In each case, the real innovators were much closer to artistic and journalistic circles — which are now, ironically, themselves being drawn into the university — than to academe. But it can hardly be said that academe did not come out better for the competition.
+It’s helpful to remember that universities have faced effective competition before, and benefited from it. Most 18th-century Enlightenment thinkers had nothing but contempt for universities, which they saw as corrupt, pedantic, moribund, and medieval; they preferred to write for the general public. The modern university was a bid for renewed relevance. Similarly, in the mid-20th century, it wasn’t the French academic system but nonuniversity groups and institutions like Georges Bataille’s Collège de Sociologie (which was not a college), the Existentialists, or even professional psychiatrists like Jacques Lacan, who invented much of what we now think of as French theory. In each case, the real innovators were much closer to artistic and journalistic circles — which are now, ironically, themselves being drawn into the university — than to academe. But it can hardly be said that academe did not come out better for the competition.
 
 One reason is that there was a lot of money floating around. It wasn’t hard for maverick intellectuals who might otherwise end up in the post office or rural schoolroom to find at least enough money to live on. Perhaps the easiest way to begin to de-bullshitize academic life would be to do something about the current precarity of intellectual life.
 

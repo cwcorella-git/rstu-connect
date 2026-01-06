@@ -1,3 +1,8 @@
+---
+title: "## **FOB unanimously agree to ICL membership!**"
+category: "contemporary-analysis"
+---
+
 ## **FOB unanimously agree to ICL membership!**
 
 ## **Date:** Unknown

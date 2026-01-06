@@ -1,12 +1,8 @@
 ---
-author: '### 3. Resource Limitations'
-date: 2025
-title: blueprint-for-community-resilience-and-mutual-aid-networks
-tags:
-  - organizing
-  - unions
-  - rent
-  - labor
+title: "blueprint-for-community-resilience-and-mutual-aid-networks"
+author: "### 3. Resource Limitations"
+date: "2025"
+category: "organizing"
 ---
 
 # blueprint-for-community-resilience-and-mutual-aid-networks.pdf

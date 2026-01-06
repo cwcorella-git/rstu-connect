@@ -1,3 +1,8 @@
+---
+title: "## [pcwrede.com](https://pcwrede.com/pcw-wp/context-prologues/)"
+category: "contemporary-analysis"
+---
+
 ## [pcwrede.com](https://pcwrede.com/pcw-wp/context-prologues/)
 
 ## **Prologues – Patricia C. Wrede**

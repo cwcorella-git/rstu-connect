@@ -1,13 +1,10 @@
 ---
-date: 2025
-author: Google Docs
-tags:
-  - organizing
-  - tenants
-  - housing
-  - rent
 title: "Quotes - Google Docs"
+author: "Google Docs"
+date: "2025"
+category: "misc"
 ---
+
 # Quotes - Google Docs
 
 *Converted from: `./Quotes - Google Docs.pdf`*  
@@ -46,8 +43,6 @@ From   Educational Material Planning 06-20-25
   ● Side note: can make social media posts of ea. quote
 
 
-
-
 Abolish Rent
   ● “Rent is a fundamental engine of inequality and injustice, a transfer of
     wealth from the poorest to the richest, the most vulnerable to the least,
@@ -84,8 +79,6 @@ Sylvia Rivera quotes
      was always food in the house and everyone had fun. It lasted for two or
      three years.”
       — Sylvia Rivera, in an interview
-
-
 
 
 Black Panther Party 10 point plan
@@ -153,4 +146,3 @@ medical care, free education, free media, EVERYTHING FREE FOR EVERYBODY!
 
 
 ---
-

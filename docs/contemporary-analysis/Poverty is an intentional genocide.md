@@ -1,3 +1,8 @@
+---
+title: "## **Poverty is an intentional genocide.**"
+category: "contemporary-analysis"
+---
+
 ## **Poverty is an intentional genocide.**
 
 ## **Date:** 2023-02-08
@@ -124,7 +129,11 @@ People enduring poverty, especially any kind of generational poverty, are contin
 | , not a |
 | moral |
 | failing |
-| . We are the survivors of or the collateral damage of white settler capitalism. We are living in<br>the aftermath of the pillaged earth. Poverty is far from accidental and the choices we have as<br>those enduring poverty (including the choice to procreate) are not simple choices; they are not<br>individual choices; they are not choices that exist in a vacuum. Poverty is not an individual's<br>circumstance; it is an entire world-system created by the wealthy for two distinct purposes: |
+| . We are the survivors of or the collateral damage of white settler capitalism. We are living in
+the aftermath of the pillaged earth. Poverty is far from accidental and the choices we have as
+those enduring poverty (including the choice to procreate) are not simple choices; they are not
+individual choices; they are not choices that exist in a vacuum. Poverty is not an individual's
+circumstance; it is an entire world-system created by the wealthy for two distinct purposes: |
 | (1) to |
 | ensure |
 | the |
@@ -297,7 +306,8 @@ Children mining cobalt in Democratic Republic of Congo, CBS News investigation f
 
 The resource curse: why countries that have so much, often have so little
 
-| . (n.d.). https://www.theneweconomy.com/energy/the-resource-curse-why-countries-that-have<br>-so-much-often-have-so-little |
+| . (n.d.). https://www.theneweconomy.com/energy/the-resource-curse-why-countries-that-have
+-so-much-often-have-so-little |
 |----------------------------------------------------------------------------------------------------------------------------|
 | Next episode: My politic is alive and she will kill me. |
 | American Heritage® Dictionary of the English Language, 5th Edition. |

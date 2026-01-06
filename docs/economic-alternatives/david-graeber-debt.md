@@ -1,37 +1,25 @@
 ---
-title: Debt
-author: David Graeber
-date: '2011'
-pubdate: '2020-09-04T14:11:36'
-language: en
-topics:
-  - debt
-  - money
-  - economy
-original_format: muse
-converted_date: '2025-11-08T11:25:03.092529'
-tags:
-  - Debt
-  - Money
-  - Economy
+title: "Debt"
+author: "David Graeber"
+date: "2011"
+category: "economic-alternatives"
 ---
 
 ## On the Experience of Moral Confusion
 
-<quote>
+
 debt: *noun* 1 a sum of money owed. 2 the state of owing money.
 3 a feeling of gratitude for a favour or service.
 
 *—Oxford English Dictionary*
-</quote>
 
-<quote>
+
 If you owe the bank a hundred thousand dollars, the bank owns you.
 
 If you owe the bank a hundred million dollars, you own the bank.
 
 —American Proverb
-</quote>
+
 
 Two years ago, by a series of strange coincidences, I found myself attending a garden party at Westminster Abbey. I was a bit uncomfortable. It’s not that other guests weren’t pleasant and amicable, and Father Graeme, who had organized the party, was nothing if not a gracious and charming host. But I felt more than a little out of place. At one point, Father Graeme intervened, saying that there was someone by a nearby fountain whom I would certainly want to meet. She turned out to be a trim, well-appointed young woman who, he explained, was an attorney—“but more of the activist kind. She works for a foundation that provides legal support for anti-poverty groups in London. You’ll probably have a lot to talk about.”
 
@@ -185,11 +173,11 @@ For a very long time, the intellectual consensus has been that we can no longer 
 
 ## The Myth of Barter
 
-<quote>
+
 *For every subtle and complicated question, there is a perfectly simple and straightforward answer, which is wrong*.
 
 —H.L. Mencken
-</quote>
+
 
 What is the difference between a mere obligation, a sense that one ought to behave in a certain way, or even that one owes something to someone, and a *debt*, properly speaking? The answer is simple: money. The difference between a debt and an obligation is that a debt can be precisely quantified. This requires money.
 

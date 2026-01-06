@@ -1,3 +1,8 @@
+---
+title: "## **Just Transition and Extractive Industry Workers**"
+category: "labor"
+---
+
 ## **Just Transition and Extractive Industry Workers**
 
 ## **Date:** Tue, 01/26/2021 - 16:06
@@ -74,11 +79,19 @@ In some ways, however, it may prove much more difficult (at least initially) to 
 
 Facts don't change attitudes.
 
-| There's a lot of deeply held cultural beliefs (many of them stoked by the capitalist class when<br>and where it suits them) or the Republican Party (which isn't either mutually inclusive or<br>exclusive to the former, but |
+| There's a lot of deeply held cultural beliefs (many of them stoked by the capitalist class when
+and where it suits them) or the Republican Party (which isn't either mutually inclusive or
+exclusive to the former, but |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | does |
-| tend to align itself much more closely with fossil fuel extractive capitalism than the<br>Democrats). Even though the climate movement(s), ecosocialists, green unionists (and the<br>like) no doubt have the potentially affected workers' best interests at heart and in mind far<br>more so than their capitalist employers, there's often few or no extant bonds of trust between<br>the workers and activists (even if some of the latter are union members), and establishing that<br>trust can be painstakingly difficult; |
-| Even though an affected worker might suffer no material loss from a transition, particularly a<br>genuinely |
+| tend to align itself much more closely with fossil fuel extractive capitalism than the
+Democrats). Even though the climate movement(s), ecosocialists, green unionists (and the
+like) no doubt have the potentially affected workers' best interests at heart and in mind far
+more so than their capitalist employers, there's often few or no extant bonds of trust between
+the workers and activists (even if some of the latter are union members), and establishing that
+trust can be painstakingly difficult; |
+| Even though an affected worker might suffer no material loss from a transition, particularly a
+genuinely |
 | just |
 | transition, |
 | there are |
@@ -91,12 +104,17 @@ Many unions have legacy programs, and often employers honor them (as much as equ
 | and |
 | children's children's |
 | futures, (and so forth and onward); |
-| Many workers see their specific job, particularly if they've held it for most of their career, as<br>part of their identity, and consider its loss, even if made whole through a fair transition as a<br>blow to their dignity (and that is |
+| Many workers see their specific job, particularly if they've held it for most of their career, as
+part of their identity, and consider its loss, even if made whole through a fair transition as a
+blow to their dignity (and that is |
 | especially |
 | true if they are a legacy as described in the previous point); |
-| Additionally, there's a substantial degree of machismo involved in extractive industrial labor as<br>well as building construction (a phenomena sometimes described as "petro masculinity").<br>While this is not a laudable tendency by any means, the fact is that it |
+| Additionally, there's a substantial degree of machismo involved in extractive industrial labor as
+well as building construction (a phenomena sometimes described as "petro masculinity").
+While this is not a laudable tendency by any means, the fact is that it |
 | exists |
-| and represents a challenge and a barrier to get past. It further complicates matters that<br>environmentalism and clean tech are sometimes (for good as well as ill) identified with |
+| and represents a challenge and a barrier to get past. It further complicates matters that
+environmentalism and clean tech are sometimes (for good as well as ill) identified with |
 
 feminism, including eco feminism. Personally, I find the latter a positive thing, but for male dominated heavy industry labor, this is often looked down upon as a form of weakness and emasculation, a form of toxic masculinity that the capitalists, climate denialists, and right wing politicians (especially those like Donald Trump) exploit to the hilt);
 

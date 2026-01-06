@@ -1,3 +1,8 @@
+---
+title: "**The Principles of Anarchism**"
+category: "contemporary-analysis"
+---
+
 # **The Principles of Anarchism**
 
 ## Lucy E. Parsons

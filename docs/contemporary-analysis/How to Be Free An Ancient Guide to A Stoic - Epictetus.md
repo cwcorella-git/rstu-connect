@@ -1,3 +1,8 @@
+---
+title: "HOW TO BE FREE"
+category: "contemporary-analysis"
+---
+
 # HOW TO BE FREE
 
 ## 400

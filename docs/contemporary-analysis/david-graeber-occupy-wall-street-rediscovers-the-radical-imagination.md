@@ -1,29 +1,8 @@
 ---
-title: Occupy Wall Street rediscovers the radical imagination
-author: David Graeber
-date: 25<sup>th</sup> September 2011
-language: en
-source_url: >-
-  Retrieved on 3<sup>rd</sup> September 2020 from
-  https://www.theguardian.com/commentisfree/cifamerica/2011/sep/25/occupy-wall-street-protest
-topics:
-  - Occupy Wall Street
-  - Occupy
-  - protest
-  - New York
-  - USA
-  - financial crisis
-  - crisis
-original_format: muse
-converted_date: '2025-11-08T11:25:03.155543'
-tags:
-  - Occupy Wall Street
-  - Occupy
-  - Protest
-  - New York
-  - USA
-  - Financial Crisis
-  - Crisis
+title: "Occupy Wall Street rediscovers the radical imagination"
+author: "David Graeber"
+date: "25<sup>th</sup> September 2011"
+category: "contemporary-analysis"
 ---
 
 Why are people occupying Wall Street? Why has the occupation – despite the latest police crackdown – sent out sparks across America, within days, inspiring hundreds of people to send pizzas, money, equipment and, now, to start their own movements called OccupyChicago, OccupyFlorida, in OccupyDenver or OccupyLA?

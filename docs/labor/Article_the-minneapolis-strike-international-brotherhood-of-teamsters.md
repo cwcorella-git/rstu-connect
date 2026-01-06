@@ -1,13 +1,8 @@
 ---
-title: The Minneapolis Strike International Brotherhood of Teamsters
-date: 2025
-author: Unknown
-tags:
-  - organizing
-  - strikes
-  - unions
-  - rent
-  - police
+title: "The Minneapolis Strike International Brotherhood of Teamsters"
+author: "Unknown"
+date: "2025"
+category: "labor"
 ---
 
 # The Minneapolis Strike International Brotherhood of Teamsters

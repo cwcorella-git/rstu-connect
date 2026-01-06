@@ -1,3 +1,8 @@
+---
+title: "## **The "Left-Wingers" and the IWW**"
+category: "contemporary-analysis"
+---
+
 ## **The "Left-Wingers" and the IWW**
 
 ## **Date:** Unknown

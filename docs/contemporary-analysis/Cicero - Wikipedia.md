@@ -1,3 +1,8 @@
+---
+title: "**Cicero**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Cicero)
 
 # **Cicero**
@@ -18,16 +23,27 @@ First-century AD bust of Cicero at the [Capitoline Museums,](https://en.wikipedi
 
 | | Arpinum, Italy | |
 |----------------------|-----------------------------------------------------|--|
-| Died | 7 December 43 BC (aged 63)<br>Formia, Italy | |
-| Cause<br>of<br>death | Assassination (by order of Mark Antony) | |
+| Died | 7 December 43 BC (aged 63)
+Formia, Italy | |
+| Cause
+of
+death | Assassination (by order of Mark Antony) | |
 | Occupation(s) | Statesman, lawyer, writer, orator | |
-| Office | • Quaestor (Sicily) (75<br>BC) | |
-| | • Aedile (69<br>BC) | |
-| | • Praetor (66<br>BC) | |
-| | • Consul (63<br>BC) | |
-| | • Legate under Pompey (57<br>BC) | |
-| | • Proconsul (Cilicia) (51–50<br>BC) | |
-| | • Proconsul (Greece and Italy) (49–47<br>BC)<br>[1] | |
+| Office | • Quaestor (Sicily) (75
+BC) | |
+| | • Aedile (69
+BC) | |
+| | • Praetor (66
+BC) | |
+| | • Consul (63
+BC) | |
+| | • Legate under Pompey (57
+BC) | |
+| | • Proconsul (Cilicia) (51–50
+BC) | |
+| | • Proconsul (Greece and Italy) (49–47
+BC)
+[1] | |
 | Spouses | • Terentia (79–51 BC) | |
 | | • Publilia (46–45 BC) | |
 | Children | Tullia and Cicero Minor | |
@@ -643,7 +659,9 @@ Wikiversity has learning resources about [Cicero](https://en.wikiversity.org/wik
 
 | Political offices | | | |
 |-------------------|-------------------|-------------------|--|
-| Preceded<br>by | Roman consul | Succeeded<br>by | |
+| Preceded
+by | Roman consul | Succeeded
+by | |
 | L. Julius Caesar | 63 BC | D. Junius Silanus | |
 | C. Marcius | With: C. Antonius | L. Licinius | |
 | Figulus | Hybrida | Murena | |

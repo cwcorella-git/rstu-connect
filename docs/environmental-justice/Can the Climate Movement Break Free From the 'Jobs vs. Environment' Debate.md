@@ -1,3 +1,8 @@
+---
+title: "## **Can the Climate Movement Break Free From the 'Jobs vs. Environment' Debate?**"
+category: "environmental-justice"
+---
+
 ## **Can the Climate Movement Break Free From the 'Jobs vs. Environment' Debate?**
 
 ## **Date:** Wed, 05/04/2016 - 18:36

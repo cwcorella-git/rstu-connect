@@ -1,13 +1,8 @@
 ---
-title: 91723 Police Collective Bargaining and Police Violence Final
-date: 2025
-author: William P. Jones
-tags:
-  - organizing
-  - strikes
-  - unions
-  - rent
-  - police
+title: "91723 Police Collective Bargaining and Police Violence Final"
+author: "William P. Jones"
+date: "2025"
+category: "abolition"
 ---
 
 # 91723 Police Collective Bargaining and Police Violence Final

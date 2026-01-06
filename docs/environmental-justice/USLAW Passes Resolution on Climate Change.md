@@ -1,3 +1,8 @@
+---
+title: "## **USLAW Passes Resolution on Climate Change**"
+category: "environmental-justice"
+---
+
 ## **USLAW Passes Resolution on Climate Change**
 
 ## **Date:** Tue, 04/26/2016 - 17:33

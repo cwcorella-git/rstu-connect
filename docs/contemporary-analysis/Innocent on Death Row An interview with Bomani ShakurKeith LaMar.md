@@ -1,3 +1,8 @@
+---
+title: "## **Innocent on Death Row: An interview with Bomani Shakur/Keith La Mar**"
+category: "contemporary-analysis"
+---
+
 ## **Innocent on Death Row: An interview with Bomani Shakur/Keith La Mar**
 
 ## **Date:** Unknown

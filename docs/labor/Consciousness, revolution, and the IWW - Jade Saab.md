@@ -1,3 +1,8 @@
+---
+title: "## **Consciousness, revolution, and the IWW - Jade Saab**"
+category: "labor"
+---
+
 ## **Consciousness, revolution, and the IWW - Jade Saab**
 
 ## **Date:** Unknown

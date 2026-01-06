@@ -1,3 +1,8 @@
+---
+title: "## **Prisoner Solidarity is Strength: IWOC Ireland interview John Paul Wootton**"
+category: "contemporary-analysis"
+---
+
 ## **Prisoner Solidarity is Strength: IWOC Ireland interview John Paul Wootton**
 
 ## **Date:** Unknown

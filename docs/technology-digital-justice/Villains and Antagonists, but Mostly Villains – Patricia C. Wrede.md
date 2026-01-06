@@ -1,3 +1,8 @@
+---
+title: "## [pcwrede.com](https://pcwrede.com/pcw-wp/villains-and-antagonists-but-mostly-villains/)"
+category: "technology-digital-justice"
+---
+
 ## [pcwrede.com](https://pcwrede.com/pcw-wp/villains-and-antagonists-but-mostly-villains/)
 
 ## **Villains and Antagonists, but Mostly Villains – Patricia C. Wrede**

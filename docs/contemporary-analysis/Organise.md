@@ -1,3 +1,8 @@
+---
+title: "## **Organise**"
+category: "contemporary-analysis"
+---
+
 ## **Organise**
 
 | Date: Unknown |
@@ -41,11 +46,13 @@
 | Norman Young |
 | 11 years 4 months ago |
 | In reply to Welcomebylibcom.org |
-| Brilliant! an excellent tool in our struggle against the bosses and the exploitative nature of the<br>capitalist profit system. Should be read by all workers in the trade union movement. |
+| Brilliant! an excellent tool in our struggle against the bosses and the exploitative nature of the
+capitalist profit system. Should be read by all workers in the trade union movement. |
 | boomerang |
 | 10 years 8 months ago |
 | In reply to Welcomebylibcom.org |
-| Have been reading the workplace organizing guide. Really good stuff. Major props to<br>everyone who worked on it, libcom and the IWW. |
+| Have been reading the workplace organizing guide. Really good stuff. Major props to
+everyone who worked on it, libcom and the IWW. |
 | General organising |
 | This link is broken. An entire section of the organizing guide, missing! :O |
 
@@ -54,7 +61,8 @@
 | 10 years 8 months ago |
 | In reply to Welcomebylibcom.org |
 | boomerang |
-| Have been reading the workplace organizing guide. Really good stuff. Major props to<br>everyone who worked on it, libcom and the IWW. |
+| Have been reading the workplace organizing guide. Really good stuff. Major props to
+everyone who worked on it, libcom and the IWW. |
 | General organising |
 | This link is broken. An entire section of the organizing guide, missing! :O |
 | fixed, thanks! |
@@ -75,8 +83,11 @@
 | Thank you. Will do. |
 | westartfromhere |
 | 1 year 8 months ago |
-| I went to the Style guide (excellent by and large) to find out how I can create breaks in text by<br>use of asterisks which are not justified, or alternative means of emphasising a new chapter as<br>it were. Any suggestions? |
+| I went to the Style guide (excellent by and large) to find out how I can create breaks in text by
+use of asterisks which are not justified, or alternative means of emphasising a new chapter as
+it were. Any suggestions? |
 | wcass14 |
 | 11 months ago |
-| Can somebody please put me in contact with Samuel Lowry? He wrote this article;<br>https://libcom.org/article/asturias-revolt-1934-sam-lowry|
+| Can somebody please put me in contact with Samuel Lowry? He wrote this article;
+https://libcom.org/article/asturias-revolt-1934-sam-lowry|
 ## | Please reach me at[email protected] |

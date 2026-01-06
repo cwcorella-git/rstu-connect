@@ -1,3 +1,8 @@
+---
+title: "## **Donate**"
+category: "contemporary-analysis"
+---
+
 ## **Donate**
 
 ## **Date:** Unknown
@@ -18,7 +23,8 @@ Bank Transfer Direct debit/standing order/bank transfer - pleaseemail usfor our 
 
 Cheque by post You can post us a cheque, email usfor our details.
 
-| Thanks!Many thanks to everyone who has donated so far - you are helping this site become a<br>better place! |
+| Thanks!Many thanks to everyone who has donated so far - you are helping this site become a
+better place! |
 |-------------------------------------------------------------------------------------------------------------|
 | |
 | |

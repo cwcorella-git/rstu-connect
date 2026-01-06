@@ -1,3 +1,8 @@
+---
+title: "**Bone Rank System**"
+category: "contemporary-analysis"
+---
+
 #### [worldhistory.org](https://www.worldhistory.org/Bone_Rank_System/)
 
 # **Bone Rank System**

@@ -1,3 +1,8 @@
+---
+title: "## **Review: don't throw Lucy Parsons' anarchism under the liberal bus**"
+category: "labor"
+---
+
 ## **Review: don't throw Lucy Parsons' anarchism under the liberal bus**
 
 ## **Date:** Unknown

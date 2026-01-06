@@ -1,25 +1,8 @@
 ---
-title: Reflections on reflections
-author: David Graeber
-date: '2016'
-pubdate: '2021-11-28T20:41:05'
-language: en
-source_url: >-
-  Retrieved on 28<sup>th</sup> November 2021 from
-  [[https://www.journals.uchicago.edu/doi/full/10.14318/hau6.2.003][www.journals.uchicago.edu]]
-notes: >-
-  Published in <em>HAU: Journal of Ethnographic Theory</em> Volume 6, Number 2 —
-  Autumn 2016.
-topics:
-  - anthropology
-  - a response
-  - reflection
-original_format: muse
-converted_date: '2025-11-08T11:25:03.195710'
-tags:
-  - Anthropology
-  - A Response
-  - Reflection
+title: "Reflections on reflections"
+author: "David Graeber"
+date: "2016"
+category: "contemporary-analysis"
 ---
 
 **Abstract:** Comment on Ortner, Sherry. 2016. “Dark anthropology and its others: Theory since the eighties.” *Hau: Journal of Ethnographic Theory* 6 (1): 47–73.
@@ -56,7 +39,7 @@ Now I’m not necessarily putting this particular argument forward for anthropol
 
 **References:**
 
-<biblio>
+
 Roy Bhaskar. 2009. Scientific realism and human emancipation. London: Routledge.
 
 Randall Collins. 2002. The sociology of philosophies: A global theory of intellectual change. Cambridge, MA: Belknap.
@@ -68,4 +51,3 @@ Sherry B. Ortner. 2016. “Dark anthropology and its others: Theory since the ei
 David H. Price 2016. Cold War anthropology: The CIA, the Pentagon, and the growth of dual use anthropology. Durham, NC: Duke University Press.
 
 Eric Ross. 1998. “Cold Warriors without weapons.” Identities 4 (3–4): 475–506.
-</biblio>

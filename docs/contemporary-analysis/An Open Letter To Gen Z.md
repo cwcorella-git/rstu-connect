@@ -1,3 +1,7 @@
+---
+title: "I'm just a kid, and life is a nightmare. Before I start the letter, I just want to"
+category: "contemporary-analysis"
+---
 
 0:02
 I'm just a kid, and life is a nightmare. Before I start the letter, I just want to 

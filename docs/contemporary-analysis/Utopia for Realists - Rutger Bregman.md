@@ -1,3 +1,8 @@
+---
+title: "UTOPIA FOR REALISTS"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Figure_0.jpeg)
 
 # UTOPIA FOR REALISTS
@@ -705,7 +710,7 @@ Rewind to the year 1795.
 
 The French Revolution had been sending shock waves across the European continent for six years. In England, too, social discontent had reached boiling point. Only two years earlier a young general by the name of Napoleon Bonaparte had crushed the English at the Siege of Toulon in southern France. If that weren't bad enough, the country was suffering another year of bad harvests with no hope of importing grain from the continent. As grain prices continued to rise, the threat of revolution loomed ever closer to British shores.
 
-In one district in southern England, people realized that repression and propaganda would no longer suffice to stem the tide of discontent. On May 6, 1795, the magistrates of Speenhamland gathered at the village inn in Speen and agreed to radically reform assistance for the poor. Specifically, the earnings of "all poor and industrious men and their families" would be supplemented up to the subsistence level, at a rate fixed to the price of bread and paid out per family member.<sup>8</sup> The larger the family, the greater the payments.
+In one district in southern England, people realized that repression and propaganda would no longer suffice to stem the tide of discontent. On May 6, 1795, the magistrates of Speenhamland gathered at the village inn in Speen and agreed to radically reform assistance for the poor. Specifically, the earnings of "all poor and industrious men and their families" would be supplemented up to the subsistence level, at a rate fixed to the price of bread and paid out per family member.8 The larger the family, the greater the payments.
 
 This was not the first ever program of public relief, or even the first in England. During the reign of Queen Elizabeth I (1558–1603), the Poor Law had introduced two forms of assistance–one for the deserving poor (the elderly, children, and disabled) and another for those who had to be forced to work. Those in the first category were placed in almshouses. Those in the second were auctioned off to landowners, with the local government supplementing their wages up to an agreed minimum. The Speenhamland system put an end to this distinction, just as Nixon would aspire to do 150 years later. From then on, needy was just plain needy, and everybody in need had a right to relief.
 
@@ -1136,7 +1141,7 @@ Recently, a friend asked me: What does working less actually solve? I'd rather t
 
 **Stress?** Countless studies have shown that people who work less are more satisfied with their lives.37 In a recent poll conducted among working women, German researchers even quantified the "perfect day." The largest share of minutes (106) would go toward "intimate relationships." "Socializing" (82), "relaxing" (78), and "eating" (75) also scored high. At the bottom of the list were "parenting" (46), "work" (36), and "commuting" (33). The researchers dryly noted that "in order to maximize well-being it is likely that working and consuming (which increases GDP) might play a smaller role in people's daily activities compared to now."38
 
-**Climate change?** A worldwide shift to a shorter workweek could cut the CO<sup>2</sup> emitted this century by half.39 Countries with a shorter workweek have a smaller ecological footprint.40 Consuming less starts with working less–or, better yet, with consuming our prosperity in the form of leisure.
+**Climate change?** A worldwide shift to a shorter workweek could cut the CO2 emitted this century by half.39 Countries with a shorter workweek have a smaller ecological footprint.40 Consuming less starts with working less–or, better yet, with consuming our prosperity in the form of leisure.
 
 **Accidents?** Overtime is deadly. 41 Long workdays lead to more errors: Tired surgeons are more prone to slip-ups, and soldiers who get too little shuteye are more prone to miss targets. From Chernobyl to the Space Shuttle *Challenger*, overworked managers often prove to have played a fatal role in disasters. It's no coincidence that the financial sector, which triggered the biggest disaster of the last decade, is absolutely drowning in overtime.
 
@@ -1872,7 +1877,7 @@ Mind you, we tend to be quite flexible when it comes to practical matters. Most 
 
 One factor that certainly is *not* involved is stupidity. Researchers at Yale University have shown that educated people are more unshakable in their convictions than anybody. After all, an education gives you tools to defend your opinions. Intelligent people are highly practiced in finding arguments, experts, and studies that underpin their preexisting beliefs, and the Internet has made it easier than ever to be consumers of our own opinions, with another piece of evidence always just a mouse-click away.
 
-Smart people, concludes the American journalist Ezra Klein, don't use their intellect to obtain the correct answer; they use it to obtain what they *want* to be the answer.<sup>3</sup>
+Smart people, concludes the American journalist Ezra Klein, don't use their intellect to obtain the correct answer; they use it to obtain what they *want* to be the answer.3
 
 ## When My Clock Struck Midnight
 

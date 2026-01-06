@@ -1,3 +1,8 @@
+---
+title: "[Feminism for the 99 Percent A Manifesto \(1\)](https://www.researchgate.net/publication/350950717_Feminism_for_the_99_Percent_A_Manifesto_1?enrich Id=rgreq-5cb8bb01873d53b0c8f864581e244990-XXX&enrich Source=Y292ZXJQYWdl OzM1MDk1MDcx NztBUzoxMDEz NjgwNTczNTM4MzA3QDE2MTg2OTE2OTA4NzY%3D&el=1_x_3&_esc=publication Cover Pdf)"
+category: "feminist-theory"
+---
+
 # [Feminism for the 99 Percent A Manifesto \(1\)](https://www.researchgate.net/publication/350950717_Feminism_for_the_99_Percent_A_Manifesto_1?enrich Id=rgreq-5cb8bb01873d53b0c8f864581e244990-XXX&enrich Source=Y292ZXJQYWdl OzM1MDk1MDcx NztBUzoxMDEz NjgwNTczNTM4MzA3QDE2MTg2OTE2OTA4NzY%3D&el=1_x_3&_esc=publication Cover Pdf)
 
 **Article** in Journal of International Women's Studies · February 2021 CITATIONS 0 READS 4,731
@@ -64,7 +69,7 @@ The manifesto expresses some of the strongest criticisms of democratic governanc
 
 ## 536
 
-<sup>1</sup> Academic Researcher at Jadavpur University, Kolkata, India. Orcid Id: [https://orcid.org/0000-0002-4490-3039.](https://orcid.org/0000-0002-4490-3039) Mail Id: [somamandalju@gmail.com](mailto:somamandalju@gmail.com), [somamandal108@gmail.com](mailto:somamandal108@gmail.com)
+1 Academic Researcher at Jadavpur University, Kolkata, India. Orcid Id: [https://orcid.org/0000-0002-4490-3039.](https://orcid.org/0000-0002-4490-3039) Mail Id: [somamandalju@gmail.com](mailto:somamandalju@gmail.com), [somamandal108@gmail.com](mailto:somamandal108@gmail.com)
 
 the onslaught of capitalism, environmental degradation, climate insecurity, and human enslavement.
 

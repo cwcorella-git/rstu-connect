@@ -1,3 +1,8 @@
+---
+title: "## **Municipalization: Community Ownership of the Economy**"
+category: "economic-alternatives"
+---
+
 ## **Municipalization: Community Ownership of the Economy**
 
 ## **Date:** Unknown

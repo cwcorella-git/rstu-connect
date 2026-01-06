@@ -1,3 +1,8 @@
+---
+title: "## **The Trouble with Democracy: An Anarchist View - Jeff Shantz**"
+category: "contemporary-analysis"
+---
+
 ## **The Trouble with Democracy: An Anarchist View - Jeff Shantz**
 
 ## **Date:** Unknown

@@ -1,3 +1,8 @@
+---
+title: "## **"Textbooks are becoming obsolete" says Bill Gates**"
+category: "arts-culture-music"
+---
+
 ## **"Textbooks are becoming obsolete" says Bill Gates**
 
 ## **Date:** Unknown

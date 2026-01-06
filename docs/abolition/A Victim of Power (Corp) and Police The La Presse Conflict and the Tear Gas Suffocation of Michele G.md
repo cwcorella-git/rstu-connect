@@ -1,18 +1,10 @@
 ---
-title: A Victim Of Power Corp And Police The La Presse Conflict And The Tear
-slug: >-
-  A Victim of Power (Corp) and Police The La Presse Conflict and the Tear Gas
-  Suffocation of Michele G
-reconversion_status: ready_for_reconversion
-date: 1971
-author: Unknown
-tags:
-  - abolition
-  - police
-  - strikes
-  - unions
-  - rent
+title: "A Victim Of Power Corp And Police The La Presse Conflict And The Tear"
+author: "Unknown"
+date: "1971"
+category: "abolition"
 ---
+
 # **A Victim of Power (Corp) and Police: The La Presse Conflict and the Tear Gas Suffocation of Michele Gauthier**
 
 ## **Date:** Unknown

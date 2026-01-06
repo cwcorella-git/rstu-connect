@@ -1,3 +1,8 @@
+---
+title: "The Self-Regulating Market and the Fictitious Commodities: Labor, Land, and Money his cursory outline of the economic system and markets, taken separately, shows that never before our own time were markets more than accessories of economic life. As a rule, the economic system was absorbed in the social system, and whatever principle of behavior predominated in the economy, the presence of the market pattern was found to be compatible with it. The principle of barter or exchange, which underlies this pattern, revealed no tendency to expand at the expense of the rest. Where markets were most highly developed, as under the mercantile system, they throve under the control of a centralized administration which fostered autarchy both in the household of the peasantry and in respect to national life. Regulation and markets, in effect, grew up together. The self-regulating market was unknown; indeed the emergence of the idea of self-regulation was a complete reversal of the trend of development. It is in the light of these facts that the extraordinary assumptions underlying a market economy can alone be fully comprehended."
+category: "feminist-theory"
+---
+
 ## Karl Polanyi
 
 ## The C^reat Transformation
@@ -40,11 +45,15 @@ Includes bibliographical references and index.
 
 ## Contents
 
-| FOREWORD BY JOSEPH E. STIGLITZ<br>Vll | | | |
+| FOREWORD BY JOSEPH E. STIGLITZ
+Vll | | | |
 |--------------------------------------------------------|-----|--|--|
-| INTRODUCTION BY FRED BLOCK<br>Xviii | | | |
-| NOTE ON THE 2 0 0 1 EDITION<br>XXxix | | | |
-| AUTHOR'S ACKNOWLEDGMENTS<br>xl | | | |
+| INTRODUCTION BY FRED BLOCK
+Xviii | | | |
+| NOTE ON THE 2 0 0 1 EDITION
+XXxix | | | |
+| AUTHOR'S ACKNOWLEDGMENTS
+xl | | | |
 | | | | |
 | Part One: The International System | | | |
 | i. The Hundred Years' Peace | 3 | | |
@@ -54,54 +63,90 @@ Includes bibliographical references and index.
 | I. Satanic Mill | | | |
 | 3. "Habitation versus Improvement" | 35 | | |
 | 4. Societies and Economic Systems | 45 | | |
-| 5. Evolution<br>of<br>the<br>Market<br>Pattern | 59 | | |
+| 5. Evolution
+of
+the
+Market
+Pattern | 59 | | |
 | 6. The Self-Regulating Market and the Fictitious | | | |
-| Commodities: Labor, Land, and Money<br>71 | | | |
+| Commodities: Labor, Land, and Money
+71 | | | |
 | 7. Speenhamland, 1795 | | | |
 | 8. Antecedents and Consequences | | | |
-| 9. Pauperism and Utopia<br>108 | | | |
+| 9. Pauperism and Utopia
+108 | | | |
 | 10. Political Economy and the Discovery of Society 116 | | | |
 | II. Self-Protection of Society | | | |
 | 11. Man, Nature, and Productive Organization | 136 | | |
-| 12. Birth<br>of<br>the<br>Liberal<br>Creed | 141 | | |
+| 12. Birth
+of
+the
+Liberal
+Creed | 141 | | |
 | 13. Birth of the Liberal Creed (Continued): | | | |
 | Class Interest and Social Change | 158 | | |
 | 14. Market and Man | 171 | | |
-| 15. Market and Nature<br>187 | | | |
+| 15. Market and Nature
+187 | | | |
 ## | | | | |
 
-| [vi]<br>Contents | |
+| [vi]
+Contents | |
 |------------------|--|
 | | |
 ## | | |
 
 | 16. Market and Productive Organization | | | | |
 |-------------------------------------------------------------|------------|--|--|--|
-| 17. Self-Regulation Impaired | 201<br>210 | | | |
+| 17. Self-Regulation Impaired | 201
+210 | | | |
 | 18. Disruptive Strains | 218 | | | |
 | | | | | |
 | Part Three: Transformation in Progress | | | | |
 | 19. Popular Government and Market Economy | 231 | | | |
-| 20. History<br>in<br>the<br>Gear<br>of<br>Social<br>Change | 245 | | | |
+| 20. History
+in
+the
+Gear
+of
+Social
+Change | 245 | | | |
 | 21. Freedom in a Complex Society | 257 | | | |
 | | | | | |
 | NOTES ON SOURCES | | | | |
 | 1. Balance of Power as Policy, Historical Law, | | | | |
 | Principle, and System | 269 | | | |
 | 2. Hundred Years' Peace | 273 | | | |
-| 3. The<br>Snapping<br>of<br>the<br>Golden<br>Thread | 274 | | | |
+| 3. The
+Snapping
+of
+the
+Golden
+Thread | 274 | | | |
 | 4. Swings of the Pendulum after World War I 275 | | | | |
-| 5. Finance and Peace<br>275 | | | | |
+| 5. Finance and Peace
+275 | | | | |
 | 6. Selected References to "Societies and | | | | |
 | Economic Systems" | 276 | | | |
 | 7. Selected References to "Evolution of the | | | | |
 | Market Pattern" | 280 | | | |
-| 8. The<br>Literature<br>of<br>Speenhamland | 285 | | | |
-| 9. Poor<br>Law<br>and<br>the<br>Organization<br>of<br>Labor | 288 | | | |
+| 8. The
+Literature
+of
+Speenhamland | 285 | | | |
+| 9. Poor
+Law
+and
+the
+Organization
+of
+Labor | 288 | | | |
 | 10. Speenhamland and Vienna | 298 | | | |
 | 11. Why Not Whitbread's Bill? | 299 | | | |
 | 12. Disraeli's "Two Nations" and the Problem | | | | |
-| of<br>Colored<br>Races | 300 | | | |
+| of
+Colored
+Races | 300 | | | |
 ## | | | | | |
 
 ## I N D E X 305
@@ -180,15 +225,15 @@ The core debate of this post-Cold War period has been over globalization. Neolib
 
 #### Polanyi's Life and Work
 
-Karl Polanyi (1886-1964) was raised in Budapest, in a family remarkable for its social engagement and intellectual achievements.<sup>1</sup> His brother Michael became an important philosopher of science whose work is still widely read. Polanyi himself had been an influential personality in Hungarian student and intellectual circles before World War I. In Vienna, in the 1920s, Polanyi worked as a senior editor
+Karl Polanyi (1886-1964) was raised in Budapest, in a family remarkable for its social engagement and intellectual achievements.1 His brother Michael became an important philosopher of science whose work is still widely read. Polanyi himself had been an influential personality in Hungarian student and intellectual circles before World War I. In Vienna, in the 1920s, Polanyi worked as a senior editor
 
 1. A full biography of Polanyi does not yet exist, but much of the relevant material is covered in Marguerite Mendell and Kari Polanyi Levitt, "Karl Polanyi—His Life and *Times" Studies in Political Economy,* no. 22 (spring 1987): 7-39. See also Levitt, ed., *Life and Work of Karl Polanyi* (Montreal: Black Rose Press, 1990); and her essay, "Karl Polanyi as Socialist," in Kenneth Mc Robbie, ed., *Humanity, Society, and Commitment: On Karl Polanyi* (Montreal: Black Rose Press, 1994). Extensive biographical material is also available in Kenneth Mc Robbie and Kari Polanyi Levitt, eds., *Karl Polanyi in Vienna* (Montreal: Black Rose Press, 2000). Peter Drucker, the management theorist who knew the Polanyi family in Vienna, has written an amusing account in his memoir *Adventures of a Bystander* (New York: John Wiley, 1994), but many of the specific facts—including some of the names of Polanyi's siblings—are inaccurate.
 
 ## [ *xx ] Introduction*
 
-for the premier economic and financial weekly of Central Europe, *Der Osterreichische Volkswirt.* During this time he first encountered the arguments of Ludwig von Mises and Mises's famous student, Friedrich Hayek. Mises and Hayek were attempting to restore the intellectual legitimacy of market liberalism, which had been badly shaken by the First World War, the Russian Revolution, and the appeal of socialism.<sup>2</sup> In the short term, Mises and Hayek had little influence. From the mid-19308 through the 1960s, Keynesian economic ideas legitimating active government management of economies dominated national policies in the West.3 But after the Second World War, Mises and Hayek were tireless proponents for market liberalism in the United States and the United Kingdom, and they directly inspired such influential followers as Milton Friedman. Hayek lived until 1992, long enough to feel vindicated by the collapse of the Soviet Union. By the time of his death, he was widely celebrated as the father of neoliberalism—the person who had inspired both Margaret Thatcher and Ronald Reagan to pursue policies of deregulation, liberalization, and privatization. As early as the 1920s, however, Polanyi directly challenged Mises's arguments, and the critique of the market liberals continued as his central theoretical concern.
+for the premier economic and financial weekly of Central Europe, *Der Osterreichische Volkswirt.* During this time he first encountered the arguments of Ludwig von Mises and Mises's famous student, Friedrich Hayek. Mises and Hayek were attempting to restore the intellectual legitimacy of market liberalism, which had been badly shaken by the First World War, the Russian Revolution, and the appeal of socialism.2 In the short term, Mises and Hayek had little influence. From the mid-19308 through the 1960s, Keynesian economic ideas legitimating active government management of economies dominated national policies in the West.3 But after the Second World War, Mises and Hayek were tireless proponents for market liberalism in the United States and the United Kingdom, and they directly inspired such influential followers as Milton Friedman. Hayek lived until 1992, long enough to feel vindicated by the collapse of the Soviet Union. By the time of his death, he was widely celebrated as the father of neoliberalism—the person who had inspired both Margaret Thatcher and Ronald Reagan to pursue policies of deregulation, liberalization, and privatization. As early as the 1920s, however, Polanyi directly challenged Mises's arguments, and the critique of the market liberals continued as his central theoretical concern.
 
-During his tenure at *Der Osterreichische Volkswirt,* Polanyi witnessed the U. S. stock market crash in 1929, the failure of the Vienna Kreditanstalt in 1931, which precipitated the Great Depression, and the rise of fascism. But with Hitler's ascent to power in 1933, Polanyi's socialist views became problematic, and he was asked to resign from the weekly. He left for England, where he worked as a lecturer for the Workers' Educational Association, the extramural outreach arm of the Universities of Oxford and London.<sup>4</sup> Developing his courses led
+During his tenure at *Der Osterreichische Volkswirt,* Polanyi witnessed the U. S. stock market crash in 1929, the failure of the Vienna Kreditanstalt in 1931, which precipitated the Great Depression, and the rise of fascism. But with Hitler's ascent to power in 1933, Polanyi's socialist views became problematic, and he was asked to resign from the weekly. He left for England, where he worked as a lecturer for the Workers' Educational Association, the extramural outreach arm of the Universities of Oxford and London.4 Developing his courses led
 
 - 2. For an account of Ludwig von Mises and Friedrich Hayek from the 1920s through the 1990s, see Richard Cockett, *Thinking the Unthinkable: Think Tanks and the Economic Counter-Revolution, 1931-1983* (London: Fontana Press, 1995). Cockett stresses the irony that England, who invented market liberalism, had to reimport it from Vienna.
 - 3. By coincidence, Polanyi's book was first published in the same year that Hayek published his most famous book, *The Road to Serfdom* (Chicago: University of Chicago Press, 1944). While Polanyi's work celebrated the New Deal in the United States precisely because it placed limits on the influence of market forces, *Hayek's* book insisted that the New Deal reforms placed the United States on a slippery slope that would lead both to economic ruin and a totalitarian regime.
@@ -198,9 +243,9 @@ During his tenure at *Der Osterreichische Volkswirt,* Polanyi witnessed the U. S
 
 Polanyi to immerse himself in the materials of English social and economic history. In *The Great Transformation,* Polanyi fused these historical materials to his critique of Mises and Hayek's now extraordinarily influential views.
 
-The actual writing of the book was done while Polanyi was a visiting scholar at Bennington College in Vermont in the early 1940s.5 With the support of a fellowship, he could devote all of his time to writing, and the change of surroundings helped Polanyi synthesize the different strands of his argument. In fact, one of the book's enduring contributions—its focus on the institutions that regulate the global economy—was directly linked to Polanyi's multiple exiles. His moves from Budapest to Vienna to England and then to the United States, combined with a deep sense of moral responsibility, made Polanyi a kind of world citizen. Toward the end of his life he wrote to an old friend: "My life was a 'world' life—I lived the life of the human world.... My work is for Asia, for Africa, for the new peoples."<sup>6</sup> While he retained a deep attachment to his native Hungary, Polanyi transcended a Eurocentric view and grasped the ways that aggressive forms of nationalism had been fostered and supported by a certain set of global economic arrangements.
+The actual writing of the book was done while Polanyi was a visiting scholar at Bennington College in Vermont in the early 1940s.5 With the support of a fellowship, he could devote all of his time to writing, and the change of surroundings helped Polanyi synthesize the different strands of his argument. In fact, one of the book's enduring contributions—its focus on the institutions that regulate the global economy—was directly linked to Polanyi's multiple exiles. His moves from Budapest to Vienna to England and then to the United States, combined with a deep sense of moral responsibility, made Polanyi a kind of world citizen. Toward the end of his life he wrote to an old friend: "My life was a 'world' life—I lived the life of the human world.... My work is for Asia, for Africa, for the new peoples."6 While he retained a deep attachment to his native Hungary, Polanyi transcended a Eurocentric view and grasped the ways that aggressive forms of nationalism had been fostered and supported by a certain set of global economic arrangements.
 
-In the years after World War II, Polanyi taught at Columbia University in New York City, where he and his students engaged in anthropological research on money, trade, and markets in precapitalist societies. With Conrad M. Arensberg and Harry W Pearson, he published *Trade and Market in the Early Empires;* later, his students prepared for publication posthumous volumes based on Polanyi's work of this period. Abraham Rotstein assisted with the publication of *Dahomey and the Slave Trade;* George Dalton edited a collection of previously published essays, including excerpts from *The Great Transformation,* in *Primitive, Archaic, and Modern Economies: Essays of Karl Polanyi;* and Pearson also compiled *The Livelihood of Man* from Polanyi's Columbia lecture notes.<sup>7</sup>
+In the years after World War II, Polanyi taught at Columbia University in New York City, where he and his students engaged in anthropological research on money, trade, and markets in precapitalist societies. With Conrad M. Arensberg and Harry W Pearson, he published *Trade and Market in the Early Empires;* later, his students prepared for publication posthumous volumes based on Polanyi's work of this period. Abraham Rotstein assisted with the publication of *Dahomey and the Slave Trade;* George Dalton edited a collection of previously published essays, including excerpts from *The Great Transformation,* in *Primitive, Archaic, and Modern Economies: Essays of Karl Polanyi;* and Pearson also compiled *The Livelihood of Man* from Polanyi's Columbia lecture notes.7
 
 - 5. Polanyi wrote the book in English; he had been fluent in the language since childhood.
 - 6. Letter to Be de Waard, January 6,1958, cited by Ilona Duczynska Polanyi, "I First Met Karl Polanyi in 1920 .. .," in Kenneth Mc Robbie and Kari Polanyi Levitt, eds., *Karl Polanyiin Vienna* (Montreal: Black Rose Press, 2000), pp. 313,302-15.
@@ -212,17 +257,17 @@ In the years after World War II, Polanyi taught at Columbia University in New Yo
 
 *The Great Transformation* is organized into three parts. Parts One and Three focus on the immediate circumstances that produced the First World War, the Great Depression, the rise of fascism in Continental Europe, the New Deal in the United States, and the first fiveyear plan in the Soviet Union. In these introductory and concluding chapters, Polanyi sets up a puzzle: Why did a prolonged period of relative peace and prosperity in Europe, lasting from 1815 to 1914, suddenly give way to a world war followed by an economic collapse? Part Two the core of the book—provides Polanyi's solution to the puzzle. Going back to the English Industrial Revolution, in the first years of the nineteenth century, Polanyi shows how English thinkers responded to the disruptions of early industrialization by developing the theory of market liberalism, with its core belief that human society should be subordinated to self-regulating markets. As a result of England's leading role as "workshop of the world," he explains, these beliefs became the organizing principle for the world economy. In the second half of Part Two, chapters 11 through 18, Polanyi argues that market liberalism produced an inevitable response—concerted efforts to protect society from the market. These efforts meant that market liberalism could not work as intended, and the institutions governing the global economy created increasing tensions within and among nations. Polanyi traces the collapse of peace that led to World War I and shows the collapse of economic order that led to the Great Depression to be the direct consequence of attempting to organize the global economy on the basis of market liberalism. The second "great transformation"—the rise of fascism—is a result of the first one—the rise of market liberalism.
 
-In making his argument, Polanyi draws on his vast reading of history, anthropology, and social theory.<sup>8</sup> *The Great Transformation* has important things to say on historical events from the fifteenth century to World War II; it also makes original contributions on topics as diverse as the role of reciprocity and redistribution in premodern societies, the limitations of classical economic thought, and the dangers of
+In making his argument, Polanyi draws on his vast reading of history, anthropology, and social theory.8 *The Great Transformation* has important things to say on historical events from the fifteenth century to World War II; it also makes original contributions on topics as diverse as the role of reciprocity and redistribution in premodern societies, the limitations of classical economic thought, and the dangers of
 
 *em Economics: Essays of Karl Polyani* (1968; reprint, Boston: Beacon Press, 1971); and Harry W. Pearson, ed., *The Livelihood of Man* (New York: Academic Press, 1977).
 
-<sup>8.</sup> For an analysis of some of Polanyi's key sources, see Margaret Somers, "Karl Polanyi's Intellectual Legacy," in Kari Polanyi Levitt, ed., *Life and Work of Karl Polanyi* (Montreal: Black Rose Press, 1990), pp. 152-58.
+8. For an analysis of some of Polanyi's key sources, see Margaret Somers, "Karl Polanyi's Intellectual Legacy," in Kari Polanyi Levitt, ed., *Life and Work of Karl Polanyi* (Montreal: Black Rose Press, 1990), pp. 152-58.
 
 ## *Introduction [ xxiii ]*
 
 commodifying nature. Many contemporary social scientists—anthropologists, political scientists, sociologists, historians, and economists—have found theoretical inspiration from Polanyi's arguments. Today a growing number of books and articles are framed around key quotations from *The Great Transformation.* 
 
-Because of the very richness of this book, it is futile to try to summarize it; the best that can be done here is to elaborate some of the main strands of Polanyi's argument. But doing this first requires recognizing the originality of his theoretical position. Polanyi does not fit easily into standard mappings of the political landscape; although he agreed with much of Keynes's critique of market liberalism, he was hardly a Keynesian. He identified throughout his life as a socialist, but he had profound differences with economic determinism of all varieties, including mainstream Marxism.<sup>9</sup> His very definition of capitalism and socialism diverges from customary understandings of those concepts.
+Because of the very richness of this book, it is futile to try to summarize it; the best that can be done here is to elaborate some of the main strands of Polanyi's argument. But doing this first requires recognizing the originality of his theoretical position. Polanyi does not fit easily into standard mappings of the political landscape; although he agreed with much of Keynes's critique of market liberalism, he was hardly a Keynesian. He identified throughout his life as a socialist, but he had profound differences with economic determinism of all varieties, including mainstream Marxism.9 His very definition of capitalism and socialism diverges from customary understandings of those concepts.
 
 #### POLANYI'S CONCEPT OF EMBEDDEDNESS
 
@@ -230,17 +275,17 @@ The logical starting point for explaining Polanyi's thinking is his concept of e
 
 The term "embeddedness" expresses the idea that the economy is
 
-<sup>9.</sup> Polanyi's relationship to Marxism is one of the most complex and debated issues in the literature. See Mendell and Polanyi Levitt, "Karl Polanyi—His Life and Times"; Fred Block and Margaret Somers, "Beyond the Economistic Fallacy: The Holistic Social Science of Karl Polanyi," in Theda Skocpol, ed., *Vision and Method in Historical Sociology* (Cambridge: Cambridge University Press, 1984), pp. 47-84; Rhoda H. Haperin, *Cultural Economies: Past and Present* (Austin: University of Texas Press, 1994).
+9. Polanyi's relationship to Marxism is one of the most complex and debated issues in the literature. See Mendell and Polanyi Levitt, "Karl Polanyi—His Life and Times"; Fred Block and Margaret Somers, "Beyond the Economistic Fallacy: The Holistic Social Science of Karl Polanyi," in Theda Skocpol, ed., *Vision and Method in Historical Sociology* (Cambridge: Cambridge University Press, 1984), pp. 47-84; Rhoda H. Haperin, *Cultural Economies: Past and Present* (Austin: University of Texas Press, 1994).
 
 ## [ *xxiv ] Introduction*
 
-not autonomous, as it must be in economic theory, but subordinated to politics, religion, and social relations.10 Polanyi's use of the term suggests more than the now familiar idea that market transactions depend on trust, mutual understanding, and legal enforcement of contracts. He uses the concept to highlight how radical a break the classical economists, especially Malthus and Ricardo, made with previous thinkers. Instead of the historically normal pattern of subordinating the economy to society, their system of self-regulating markets required subordinating society to the logic of the market: He writes in Part One: "Ultimately that is why the control of the economic system by the market is of overwhelming consequence to the whole organization of society: it means no less than the running of society as an adjunct to the market. Instead of economy being embedded in social relations, social relations are embedded in the economic system." Yet this and similar passages lend themselves to a misreading of Polanyi's argument. Polanyi is often mistakenly understood to be saying that with the rise of capitalism in the nineteenth century, the economy was successfully disembedded from society and came to dominate it.<sup>11</sup>
+not autonomous, as it must be in economic theory, but subordinated to politics, religion, and social relations.10 Polanyi's use of the term suggests more than the now familiar idea that market transactions depend on trust, mutual understanding, and legal enforcement of contracts. He uses the concept to highlight how radical a break the classical economists, especially Malthus and Ricardo, made with previous thinkers. Instead of the historically normal pattern of subordinating the economy to society, their system of self-regulating markets required subordinating society to the logic of the market: He writes in Part One: "Ultimately that is why the control of the economic system by the market is of overwhelming consequence to the whole organization of society: it means no less than the running of society as an adjunct to the market. Instead of economy being embedded in social relations, social relations are embedded in the economic system." Yet this and similar passages lend themselves to a misreading of Polanyi's argument. Polanyi is often mistakenly understood to be saying that with the rise of capitalism in the nineteenth century, the economy was successfully disembedded from society and came to dominate it.11
 
 This misreading obscures the originality and theoretical richness of Polanyi's argument. Polanyi does say that the classical economists wanted to create a society in which the economy had been effectively disembedded, and they encouraged politicians to pursue this objective. Yet he also insists that they *did not* and *could not* achieve this goal. In fact, Polanyi repeatedly says that the goal of a disembedded, fully self-regulating market economy is a Utopian project; it is something that cannot exist. On the opening page of Part One, for example, he writes: "Our thesis is that the idea of a self-adjusting market implied a
 
-<sup>10.</sup> Polanyi's concept of embeddedness has been borrowed and elaborated on by important contemporary scholars, including John Ruggie, "International Regimes, Transactions, and Change: Embedded Liberalism in the Postwar Economic Order," *International Organization* 36 (spring 1982): 379-415; Mark Granovetter, "Economic Action and Social Structure: The Problem of Embeddedness," *American Journal of Sociology* 91 (November 1985): 481-510; and Peter Evans, *Embedded Autonomy: States and Industrial Transformation* (Princeton, N. J.: Princeton University Press, 1995). The precise inspiration for the coinage is not known, but it seems plausible that Polanyi drew the metaphor from coal mining. In researching English economic history, he read extensively on the history and technologies of the English mining industry that faced the task of extracting coal that was embedded in the rock walls of the mine.
+10. Polanyi's concept of embeddedness has been borrowed and elaborated on by important contemporary scholars, including John Ruggie, "International Regimes, Transactions, and Change: Embedded Liberalism in the Postwar Economic Order," *International Organization* 36 (spring 1982): 379-415; Mark Granovetter, "Economic Action and Social Structure: The Problem of Embeddedness," *American Journal of Sociology* 91 (November 1985): 481-510; and Peter Evans, *Embedded Autonomy: States and Industrial Transformation* (Princeton, N. J.: Princeton University Press, 1995). The precise inspiration for the coinage is not known, but it seems plausible that Polanyi drew the metaphor from coal mining. In researching English economic history, he read extensively on the history and technologies of the English mining industry that faced the task of extracting coal that was embedded in the rock walls of the mine.
 
-<sup>11.</sup> No less a figure than the great French historian Fernand Braudel reads Polanyi in this way. See Braudel, *Civilization and Capitalism Fifteenth-Eighteenth Century,* vol. 2, *The Wheels of Commerce,* trans. Sian Reynolds (Berkeley: University of California Press, 1992), pp. 225-29.
+11. No less a figure than the great French historian Fernand Braudel reads Polanyi in this way. See Braudel, *Civilization and Capitalism Fifteenth-Eighteenth Century,* vol. 2, *The Wheels of Commerce,* trans. Sian Reynolds (Berkeley: University of California Press, 1992), pp. 225-29.
 
 ## *Introduction [ xxv ]*
 
@@ -254,9 +299,9 @@ The logic underlying this argument rests on Polanyi's distinction between real a
 
 There are two levels to Polanyi's argument. The first is a moral argument that it is simply wrong to treat nature and human beings as objects whose price will be determined entirely by the market. Such a concept violates the principles that have governed societies for centuries: nature and human life have almost always been recognized as having a sacred dimension. It is impossible to reconcile this sacred [ *xxvi ] Introduction* 
 
-dimension with the subordination of labor and nature to the market. In his objection to the treatment of nature as a commodity, Polanyi anticipates many of the arguments of contemporary environmentalists.<sup>12</sup>
+dimension with the subordination of labor and nature to the market. In his objection to the treatment of nature as a commodity, Polanyi anticipates many of the arguments of contemporary environmentalists.12
 
-The second level of Polanyi's argument centers on the state's role in the economy13 Even though the economy is supposed to be selfregulating, the state *must* play the ongoing role of adjusting the supply of money and credit to avoid the twin dangers of inflation and deflation. Similarly, the state has to manage shifting demand for employees by providing relief in periods of unemployment, by educating and training future workers, and by seeking to influence migration flows. In the case of land, governments have sought to maintain continuity in food production by a variety of devices that insulate farmers from the pressures of fluctuating harvests and volatile prices. In urban areas governments manage the use of the existing land through both environmental and land-use regulations. In short, the role of managing fictitious commodities places the state inside three of the most important markets; it becomes utterly impossible to sustain market liberalism's view that the state is "outside" of the economy.<sup>14</sup>
+The second level of Polanyi's argument centers on the state's role in the economy13 Even though the economy is supposed to be selfregulating, the state *must* play the ongoing role of adjusting the supply of money and credit to avoid the twin dangers of inflation and deflation. Similarly, the state has to manage shifting demand for employees by providing relief in periods of unemployment, by educating and training future workers, and by seeking to influence migration flows. In the case of land, governments have sought to maintain continuity in food production by a variety of devices that insulate farmers from the pressures of fluctuating harvests and volatile prices. In urban areas governments manage the use of the existing land through both environmental and land-use regulations. In short, the role of managing fictitious commodities places the state inside three of the most important markets; it becomes utterly impossible to sustain market liberalism's view that the state is "outside" of the economy.14
 
 The fictitious commodities explain the impossibility of disembedding the economy. Real market societies *need* the state to play an active role in managing markets, and that role requires political decision making; it cannot be reduced to some kind of technical or administrative function.15 When state policies move in the direction of disem-
 
@@ -267,11 +312,11 @@ The fictitious commodities explain the impossibility of disembedding the economy
 
 ## *Introduction [ xxvii ]*
 
-bedding through placing greater reliance on market self-regulation, ordinary people are forced to bear higher costs. Workers and their families are made more vulnerable to unemployment, farmers are exposed to greater competition from imports, and both groups are required to get by with reduced entitlements to assistance. It often takes *greater* state efforts to assure that these groups will bear these increased costs without engaging in disruptive political actions. This is part of what Polanyi means by his claim that "laissez-faire was planned"; it requires statecraft and repression to impose the logic of the market and its attendant risks on ordinary people.<sup>16</sup>
+bedding through placing greater reliance on market self-regulation, ordinary people are forced to bear higher costs. Workers and their families are made more vulnerable to unemployment, farmers are exposed to greater competition from imports, and both groups are required to get by with reduced entitlements to assistance. It often takes *greater* state efforts to assure that these groups will bear these increased costs without engaging in disruptive political actions. This is part of what Polanyi means by his claim that "laissez-faire was planned"; it requires statecraft and repression to impose the logic of the market and its attendant risks on ordinary people.16
 
 #### **THE CONSEQUENCES** OF **IMPOSSIBILITY**
 
-The efforts of free market theorists to disembed the economy from society are doomed to fail. But the very utopianism of market liberalism is a source of its extraordinary intellectual resilience. Because societies invariably draw back from the brink of full-scale experimentation with market self-regulation, its theorists can always claim that any failures were not the result of the design but of a lack of political will in its implementation. The creed of market self-regulation thus cannot be discredited by historical experiences; its advocates have an airtight excuse for its failures. This has occurred most recently in the effort to impose market capitalism on the former Soviet Union through "shock therapy." Although the failure of this effort is obvious for all to see, defenders of "shock therapy" continue to blame the failure on politicians who caved too quickly to political pressures; had they only persisted, the promised benefits of a rapid shift to the market would have been realized.<sup>17</sup>
+The efforts of free market theorists to disembed the economy from society are doomed to fail. But the very utopianism of market liberalism is a source of its extraordinary intellectual resilience. Because societies invariably draw back from the brink of full-scale experimentation with market self-regulation, its theorists can always claim that any failures were not the result of the design but of a lack of political will in its implementation. The creed of market self-regulation thus cannot be discredited by historical experiences; its advocates have an airtight excuse for its failures. This has occurred most recently in the effort to impose market capitalism on the former Soviet Union through "shock therapy." Although the failure of this effort is obvious for all to see, defenders of "shock therapy" continue to blame the failure on politicians who caved too quickly to political pressures; had they only persisted, the promised benefits of a rapid shift to the market would have been realized.17
 
 ity. See William Greider, *Secrets of the Temple: How the Federal Reserve Runs the Country* (New York: Simon & Schuster, 1987).
 
@@ -285,13 +330,13 @@ Polanyi is insistent that "laissez-faire was planned; planning was not." He expl
 
 *Utopia* (London: Verso, 1996); John Gray, *False Dawn: The Delusions of Global Capitalism* (London: Granta Books, 1998); and David Woodruff, *Money Unmade: Barter and tlte Fate of Russian Capitalism* (Ithaca, N. Y.: Cornell University Press, 1999).
 
-<sup>18.</sup> Polanyi writes in chapter 16: "Modern central banking, in effect, was essentially a device developed for the purpose of offering protection without which the market would have destroyed its own children, the business enterprises of all kinds."
+18. Polanyi writes in chapter 16: "Modern central banking, in effect, was essentially a device developed for the purpose of offering protection without which the market would have destroyed its own children, the business enterprises of all kinds."
 
 ## *Introduction [ xxix ]*
 
-fascism gained the strength to seize power and break with both laissezfaire and democracy.<sup>19</sup>
+fascism gained the strength to seize power and break with both laissezfaire and democracy.19
 
-Polanyi's thesis of the double movement contrasts strongly with both market liberalism and orthodox Marxism in the range of possibilities that are imagined at any particular moment. Both market liberalism and Marxism argue that societies have only two real choices: there can be market capitalism or socialism. Although they have opposing preferences, the two positions agree in excluding any other alternatives. Polanyi, in contrast, insists that free market capitalism is not a real choice; it is only a Utopian vision. Moreover, in chapter 19 he defines socialism as "the tendency inherent in an industrial civilization to transcend the self-regulating market by consciously subordinating it to a democratic society." This definition allows for a continuing role for markets within socialist societies. Polanyi suggests that there are different possibilities available at any historical moment, since markets can be embedded in many different ways. To be sure, some of these forms will be more efficient in their ability to expand output and foster innovation, and some will be more "socialist" in subordinating the market to democratic direction, but Polanyi implies that alternatives that are both efficient and democratic were available both in the nineteenth and twentieth centuries.<sup>20</sup>
+Polanyi's thesis of the double movement contrasts strongly with both market liberalism and orthodox Marxism in the range of possibilities that are imagined at any particular moment. Both market liberalism and Marxism argue that societies have only two real choices: there can be market capitalism or socialism. Although they have opposing preferences, the two positions agree in excluding any other alternatives. Polanyi, in contrast, insists that free market capitalism is not a real choice; it is only a Utopian vision. Moreover, in chapter 19 he defines socialism as "the tendency inherent in an industrial civilization to transcend the self-regulating market by consciously subordinating it to a democratic society." This definition allows for a continuing role for markets within socialist societies. Polanyi suggests that there are different possibilities available at any historical moment, since markets can be embedded in many different ways. To be sure, some of these forms will be more efficient in their ability to expand output and foster innovation, and some will be more "socialist" in subordinating the market to democratic direction, but Polanyi implies that alternatives that are both efficient and democratic were available both in the nineteenth and twentieth centuries.20
 
 #### THE CENTRALITY OF THE GLOBAL REGIME
 
@@ -308,9 +353,9 @@ Market liberals wanted to create a world with maximal opportunities to extend th
 
 The gold standard put a fantastic machinery of global selfregulation into place. Firms in England were able to export goods and invest in all parts of the world, confident that the currencies they earned would be as "good as gold." In theory, if a country is in a deficit position in a given year because its citizens spent more abroad than they earned, gold flows out of that country's reserves to clear payments due to foreigners.22 The domestic supply of money and credit auto-
 
-<sup>21.</sup> The idea was first elaborated by Isaac Gervaise and David Hume in the eighteenth century. Frank Fetter, *Development of British Monetary Orthodoxy, 1797-18/5* (Cambridge: Harvard University Press, 1965), p. 4.
+21. The idea was first elaborated by Isaac Gervaise and David Hume in the eighteenth century. Frank Fetter, *Development of British Monetary Orthodoxy, 1797-18/5* (Cambridge: Harvard University Press, 1965), p. 4.
 
-<sup>22.</sup> The mechanism by which the gold would flow out is equally ingenious and requires no governmental action. Because people in the deficit nation are spending more abroad than they are taking in, their currency—being in greater supply—will fall in value relative to other currencies. When that value falls below a certain level called the gold point, it will be profitable for international bankers to trade that currency for gold and ship the gold abroad where it will bring a higher price. In this way gold will move from deficit countries to surplus countries.
+22. The mechanism by which the gold would flow out is equally ingenious and requires no governmental action. Because people in the deficit nation are spending more abroad than they are taking in, their currency—being in greater supply—will fall in value relative to other currencies. When that value falls below a certain level called the gold point, it will be profitable for international bankers to trade that currency for gold and ship the gold abroad where it will bring a higher price. In this way gold will move from deficit countries to surplus countries.
 
 ## *Introduction [ xxxi ]*
 
@@ -324,7 +369,7 @@ The reality was that the simple rules of the gold standard imposed on people eco
 
 It was not just workers and farmers who found the costs of this type of adjustment to be high. The business community itself could not tolerate the resulting uncertainty and instability. Hence, almost as soon as the gold standard mechanism was in place, entire societies began to collude in trying to offset its impact. A first recourse was for countries to increase their use of protective tariffs for both agricul-
 
-<sup>23.</sup> As Polanyi knew, in practice the operation of the gold standard diverged considerably from theory. See Barry Eichengreen, *Globalizing Capital: A History of the International Monetary System* (Princeton, N. J.: Princeton University Press, 1996).
+23. As Polanyi knew, in practice the operation of the gold standard diverged considerably from theory. See Barry Eichengreen, *Globalizing Capital: A History of the International Monetary System* (Princeton, N. J.: Princeton University Press, 1996).
 
 ## [ *xxxii ] Introduction*
 
@@ -336,9 +381,9 @@ For Polanyi the imperialist impulse cannot be found somewhere in the genetic cod
 
 Polanyi argues that the utopianism of the market liberals led them to invent the gold standard as a mechanism that would bring a borderless world of growing prosperity. Instead, the relentless shocks of the gold standard forced nations to consolidate themselves around heightened national and then imperial boundaries. The gold standard continued to exert disciplinary pressure on nations, but its functioning was effectively undermined by the rise of various forms of protec-
 
-<sup>24.</sup> Peter Gourevitch, *Politics in Hard Times: Comparative Responses to International Economic Crises* (Ithaca, N. Y.: Cornell University Press, 1986), chap. 3; Christopher Chase-Dunn, Yukio Kawano, and Benjamin Brewer, "Trade Globalization since 1795: Waves of Integration in the World-System" *American Sociological Review* 65 (February 2000): 77-95.
+24. Peter Gourevitch, *Politics in Hard Times: Comparative Responses to International Economic Crises* (Ithaca, N. Y.: Cornell University Press, 1986), chap. 3; Christopher Chase-Dunn, Yukio Kawano, and Benjamin Brewer, "Trade Globalization since 1795: Waves of Integration in the World-System" *American Sociological Review* 65 (February 2000): 77-95.
 
-<sup>25.</sup> Polanyi's argument is quite different from Lenin's thesis that intensifying interimperialist conflicts are a product of the growth of finance capital in the final stage of capitalist development. Polanyi takes pains to argue that financial capitalists can be a major force for preventing war.
+25. Polanyi's argument is quite different from Lenin's thesis that intensifying interimperialist conflicts are a product of the growth of finance capital in the final stage of capitalist development. Polanyi takes pains to argue that financial capitalists can be a major force for preventing war.
 
 ## *Introduction [ xxxiii ]*
 
@@ -360,9 +405,9 @@ But the more fundamental point learned from Polanyi is that market liberalism ma
 
 Moreover, the recent period of ascendant neoliberalism has already witnessed widespread protests occurring around the world where people attempt to resist the economic disruptions of globalization.27 As such dissatisfactions intensify, social order becomes more problematic and the danger increases that political leaders will seek to
 
-<sup>26.</sup> Thomas Friedman, *The Lexus and the Olive Tree* (New York: Farrar, Strauss, 1999), p. 86.
+26. Thomas Friedman, *The Lexus and the Olive Tree* (New York: Farrar, Strauss, 1999), p. 86.
 
-<sup>27.</sup> John Walton and David Seddon, *Free Markets and Food Riots: The Politics of Global Adjustment* (Cambridge, Mass.: Blackwell, 1994).
+27. John Walton and David Seddon, *Free Markets and Food Riots: The Politics of Global Adjustment* (Cambridge, Mass.: Blackwell, 1994).
 
 ## *Introduction [ XXXV ]*
 
@@ -372,11 +417,11 @@ divert discontent by scapegoating internal or external enemies. This is how the 
 
 Although he wrote *The Great Transformation* during World War II, Polanyi remained optimistic about the future; he thought the cycle of international conflict could be broken. The key step was to overturn the belief that social life should be subordinated to the market mechanism. Once free of this "obsolete market mentality," the path would be open to subordinate both national economies and the global economy to democratic politics.29 Polanyi saw Roosevelt's New Deal as a model of these future possibilities. Roosevelt's reforms meant that the U. S. economy continued to be organized around markets and market activity, but a new set of regulatory mechanisms now made it possible to buffer both human beings and nature from the pressures of market forces.30 Through democratic politics, people decided that the elderly should be protected from the need to earn income through Social Security. Similarly, democratic politics expanded the rights of working people to form effective unions through the National Labor Relations Act. Polanyi saw these initiatives as the start of a process by which soci-
 
-<sup>28.</sup> For an argument that many recent examples of global turmoil can be traced to the international economic regime, see Michel Cossudovsky, *The Globalisation of Poverty: Impacts of IMF and World Bank Reforms* (Penang, Malaysia: Third World Network, 1997).
+28. For an argument that many recent examples of global turmoil can be traced to the international economic regime, see Michel Cossudovsky, *The Globalisation of Poverty: Impacts of IMF and World Bank Reforms* (Penang, Malaysia: Third World Network, 1997).
 
-<sup>29. &</sup>quot;Obsolete Market Mentality" is the title that Polanyi gave to an important 1947 essay that is reprinted in Dalton, *Primitive, Archaic, and Modern Economies.* 
+29. &quot;Obsolete Market Mentality" is the title that Polanyi gave to an important 1947 essay that is reprinted in Dalton, *Primitive, Archaic, and Modern Economies.* 
 
-<sup>30.</sup> The New Deal actually did little to protect the environment. Nevertheless, when environmentalists later gained the political strength to win reforms, agencies such as the Environmental Protection Agency followed the New Deal's regulatory model.
+30. The New Deal actually did little to protect the environment. Nevertheless, when environmentalists later gained the political strength to win reforms, agencies such as the Environmental Protection Agency followed the New Deal's regulatory model.
 
 ## [ *xxxvi ] Introduction*
 
@@ -386,11 +431,11 @@ At the global level Polanyi anticipated an international economic order with hig
 
 However, with the disappearance of the automatic mechanism of the gold standard, governments will find it possible to drop the most obstructive features of absolute sovereignty, the refusal to collaborate in international economics. At the same time it will become possible to tolerate willingly that other nations shape their domestic institutions according to their inclinations, thus transcending the pernicious nineteenthcentury dogma of the necessary uniformity of domestic regimes within the orbit of world economy.
 
-In other words collaboration among governments would produce a set of agreements to facilitate high levels of international trade, but societies would have multiple means to buffer themselves from the pressures of the global economy. Moreover, with an end to a single economic model, developing nations would have expanded opportunities to improve the welfare of their people. This vision also assumes a set of global regulatory structures that would place limits on the play of market forces.<sup>31</sup>
+In other words collaboration among governments would produce a set of agreements to facilitate high levels of international trade, but societies would have multiple means to buffer themselves from the pressures of the global economy. Moreover, with an end to a single economic model, developing nations would have expanded opportunities to improve the welfare of their people. This vision also assumes a set of global regulatory structures that would place limits on the play of market forces.31
 
 Polanyi's vision depends on expanding the role of government both domestically and internationally. He challenges the now fashionable view that more government will inevitably lead to both bad economic results and excessive state control of social life. For him a substantial governmental role is indispensable for managing the fictitious commodities, so there is no reason to take seriously the market liberal axiom that governments are by definition ineffectual. But he also explicitly refutes the claim that the expansion of government would necessarily take an oppressive form. Polanyi argues instead that "the passing of market economy can become the beginning of an era of unprecedented freedom. Juridical and actual freedom can be made wider and more general than ever before; regulation and control can achieve freedom not only for the few, but for all." But the concept of freedom that he outlines goes beyond a reduction of economic and so-
 
-<sup>31.</sup> **For** a recent effort to concretize this vision, see John Eatwell and Lance Taylor, *Global Finance at Risk: The Case for International Regulation* (New York: New Press, 2000).
+31. **For** a recent effort to concretize this vision, see John Eatwell and Lance Taylor, *Global Finance at Risk: The Case for International Regulation* (New York: New Press, 2000).
 
 ## *Introduction [ xxxvii ]*
 
@@ -402,19 +447,19 @@ Yet now that the Cold War is history, Polanyi's initial optimism might finally b
 
 **4i-**
 
-<sup>32.</sup> Polanyi believes that a complex society requires the state to exercise a monopoly on violence: "Power and compulsion are part of that reality [of human society]; an ideal that would ban them from society must be invalid."
+32. Polanyi believes that a complex society requires the state to exercise a monopoly on violence: "Power and compulsion are part of that reality [of human society]; an ideal that would ban them from society must be invalid."
 
-<sup>33.</sup> See Peter Evans, "Fighting Marginalization with Transnational Networks: Counter-Hegemonic Globalization," *Contemporary Sociology 29* (January 2000): 230-
+33. See Peter Evans, "Fighting Marginalization with Transnational Networks: Counter-Hegemonic Globalization," *Contemporary Sociology 29* (January 2000): 230-
 
 ## [ *xxxviii ] Introduction*
 
-tant protests against the international institutions—the World Trade Organization, the International Monetary Fund, and the World Bank—that enforce the rules of neoliberalism. Groups around the world have begun an intense global dialogue over the reconstruction of the global financial order.<sup>34</sup>
+tant protests against the international institutions—the World Trade Organization, the International Monetary Fund, and the World Bank—that enforce the rules of neoliberalism. Groups around the world have begun an intense global dialogue over the reconstruction of the global financial order.34
 
 This nascent movement faces enormous obstacles; it will not be easy to forge a durable alliance that reconciles the often conflicting interests of people in the global South with those in the global North. Furthermore, the more successful such a movement is, the more formidable will be the strategic challenges it faces. It remains highly uncertain whether the global order can be reformed from below without plunging the world economy into the kind of crisis that occurs when investors panic. Nevertheless, it is of enormous significance that for the first time in history, the governance structure of the global economy has become the central target of transnational social movement activity.
 
 This transnational movement is an indication of the continuing vitality and practicality of Polanyi's vision. For Polanyi the deepest flaw in market liberalism is that it subordinates human purposes to the logic of an impersonal market mechanism. He argues instead that human beings should use the instruments of democratic governance to control and direct the economy to meet our individual and collective needs. Polanyi shows that the failure to take up this challenge produced enormous suffering in the past century. His prophecy for the new century could not be clearer.
 
-<sup>34.</sup> For a North American perspective on these discussions and a useful guide to additional resources, see Sarah Anderson and John Cavanaugh, with Thea Lee, *Field Guide to the Global Economy* (New York: New Press, 2000).
+34. For a North American perspective on these discussions and a useful guide to additional resources, see Sarah Anderson and John Cavanaugh, with Thea Lee, *Field Guide to the Global Economy* (New York: New Press, 2000).
 
 ## Note on the 2001 Edition f T n preparing this revision of Karl Polanyi's *The Great Transforma-A. tion,* several minor changes have been made to the 1957 edition of Polanyi's text. First, the text incorporates small editing changes that Polanyi made after the first U. S. edition went to press; these changes had been introduced when the book was published by Gollancz in the United Kingdom in 1945. Second, the "additional note" on the Poor Law that appears at the end of the notes in the 1957 edition has been moved to the appropriate place in the Notes on Sources. Third, some proper names have been corrected and spelling and punctuation have been updated. Finally, the text has been repaginated, so there is no trace of pages 258A and 258B, which appeared in earlier U. S. editions.
 
@@ -484,7 +529,7 @@ True, any balance-of-power system will tend to prevent such wars as spring from 
 
 Also, wars were sometimes avoided by deliberately removing their causes, if the fate of small Powers only was involved. Small nations were checked and prevented from disturbing the status quo in any way which might precipitate war. The Dutch invasion of Belgium in 1831 eventually led to the neutralization of that country. In 1855 Norway was neutralized. In 1867 Luxembourg was sold by Holland to France; Germany protested and Luxembourg was neutralized. In 1856 the integrity of the Ottoman Empire was declared essential to the equilibrium of Europe, and the Concert of Europe endeavored to maintain
 
-<sup>\*</sup> Sontag, R. J., *European Diplomatic History, 1871-1932,*1933.
+\* Sontag, R. J., *European Diplomatic History, 1871-1932,*1933.
 
 that empire; after 1878, when its disintegration was deemed essential to that equilibrium, its dismemberment was provided for in a similarly orderly manner, though in both cases the decision involved the existence of several small peoples. Between 1852 and 1863 Denmark, between 1851 and 1856 the Germanies threatened to disturb the balance; each time the small states were forced by the Great Powers to conform. In these instances, the liberty of action offered to them by the system was used by the Powers to achieve a joint interest—which happened to be peace.
 
@@ -498,7 +543,7 @@ No all-round inquiry into the nature of international banking in the nineteenth 
 
 Both the personnel and the motives of this singular body invested it with a status the roots of which were securely grounded in the private sphere of strictly commercial interest. The Rothschilds were subject to no *one* government; as a family they embodied the abstract principle of internationalism; their loyalty was to a firm, the credit of
 
-<sup>\*</sup> Feis, H., *Europe, the World's Banker, 1870-1914,*1930, a work we have often textually followed.
+\* Feis, H., *Europe, the World's Banker, 1870-1914,*1930, a work we have often textually followed.
 
 which had become the only supranational link between political government and industrial effort in a swiftly growing world economy. In the last resort, their independence sprang from the needs of the time which demanded a sovereign agent commanding the confidence of national statesmen and of the international investor alike; it was to this vital need that the metaphysical extraterritoriality of a Jewish bankers' dynasty domiciled in the capitals of Europe provided an almost perfect solution. They were anything but pacifists; they had made their fortune in the financing of wars; they were impervious to moral consideration; they had no objection to any number of minor, short, or localized wars. But their business would be impaired if a general war between the Great Powers should interfere with the monetary foundations of the system. By the logic of facts it fell to them to maintain the requisites of general peace in the midst of the revolutionary transformation to which the peoples of the planet were subject.
 
@@ -510,11 +555,11 @@ ogist might prefer to call it the law of availability The motive of *haute finan
 
 Not otherwise. Power had precedence over profit. However closely their realms interpenetrated, ultimately it was war that laid down the law to business. Since 1870 France and Germany, for example, were enemies. This did not exclude noncommittal transactions between them. Occasional banking syndicates were formed for transitory purposes; there was private participation by German investment banks in enterprises over the border which did not appear in the balance sheets; in the short-term loan market there was a discounting of bills of exchange and a granting of short-term loans on collateral and commercial papers on the part of French banks; there was direct investment as in the case of the marriage of iron and coke, or of Thyssen's plant in Normandy, but such investments were restricted to definite areas in France and were under a permanent fire of criticism from both the nationalists and the socialists; direct investment was more frequent in the colonies, as exemplified by Germany's tenacious efforts to secure high-grade ore in Algeria, or by the involved story of participations in Morocco. Yet it remains a stern fact that at no time after 1870 was the official though tacit ban on German securities at the Bourse of Paris lifted. France simply "chose not to risk having the force of loaned capital"\* turned upon herself. Austria also was suspect; in the Moroccan crisis of 1905-6 the ban was extended to Hungary. Financial circles in Paris pleaded for the admission of Hungarian securities, but industrial circles supported the government in its staunch opposition to any concession to a possible military antagonist. Politico-diplomatic rivalry continued unabated. Any move that might increase the presumptive enemy's potential was vetoed by the governments. Superficially, it more than once appeared as if the conflict had been quashed, but the inside circles were aware that it had been merely shifted to points even more deeply hidden under the amicable surface.
 
-Or take Germany's Eastern ambitions. Here also politics and finance intermingled, yet politics were supreme. After a quarter of a century of perilous bickering, Germany and England signed a comprehensive agreement on the Baghdad Railway, in June 1914—too late to prevent the Great War, it was often said. Others argued that, on the contrary, the signing of the agreement proved conclusively that the war between England and Germany was *not* caused by a clash of economic expansionism. Neither view is borne out by the facts. The agreement actually left the main issue undecided. The German railway line was still not to be carried on beyond Basra without the consent of the British government, and the economic zones of the treaty were bound to lead to a head-on collision at a future time. Meanwhile, the Powers would continue to prepare for The Day, which was even nearer than they reckoned.<sup>1</sup>
+Or take Germany's Eastern ambitions. Here also politics and finance intermingled, yet politics were supreme. After a quarter of a century of perilous bickering, Germany and England signed a comprehensive agreement on the Baghdad Railway, in June 1914—too late to prevent the Great War, it was often said. Others argued that, on the contrary, the signing of the agreement proved conclusively that the war between England and Germany was *not* caused by a clash of economic expansionism. Neither view is borne out by the facts. The agreement actually left the main issue undecided. The German railway line was still not to be carried on beyond Basra without the consent of the British government, and the economic zones of the treaty were bound to lead to a head-on collision at a future time. Meanwhile, the Powers would continue to prepare for The Day, which was even nearer than they reckoned.1
 
 International finance had to cope with the conflicting ambitions and intrigues of the great and small Powers; its plans were thwarted by diplomatic maneuvres, its long-term investments jeopardized, its constructive efforts hampered by political sabotage and backstairs obstruction. The national banking organizations without which it was helpless often acted as the accomplices of their respective govern-
 
-<sup>\*</sup> Feis, H., *op. cit.,* p. 201.
+\* Feis, H., *op. cit.,* p. 201.
 
 t Cf. Notes on Sources, p. 273.
 
@@ -534,7 +579,7 @@ The precise nature of this strictly pragmatic system, which guarded with extreme
 
 Thus the new organization of economic life provided the background of the Hundred Years' Peace. In the first period the nascent middle classes were mainly a revolutionary force endangering peace as witnessed in the Napoleonic upheaval; it was against this new factor of national disturbance that the Holy Alliance organized its reactionary peace. In the second period the new economy was victorious. The middle classes were now themselves the bearers of a peace interest, much more powerful than that of their reactionary predecessors had been, and nurtured by the national-international character of the new economy. But in both instances the peace interest became effective only because it was able to make the balance-of-power system serve its cause by providing that system with social organs capable of dealing directly with the internal forces active in the area of peace. Under the Holy Alliance these organs were feudalism and the thrones, supported by the spiritual and material power of the Church; under the Concert of Europe they were international finance and the national banking
 
-<sup>\*</sup> Hershey, A. S., *Essentials of International Public Law and Organization,* 1927, pp. 565-9.
+\* Hershey, A. S., *Essentials of International Public Law and Organization,* 1927, pp. 565-9.
 
 systems allied to it. There is no need to overdo the distinction. During the Thirty Years' Peace, 1816-46, Great Britain was already pressing for peace and business, nor did the Holy Alliance disdain the help of the Rothschilds. Under the Concert of Europe, again, international finance had often to rely on its dynastic and aristocratic affiliations. But such facts merely tend to strengthen our argument that in every case peace was maintained not simply through the chancelleries of the Great Powers but with the help of concrete organized agencies acting in the service of general interests. In other words, only on the background of the new economy could the balance-of-power system make general conflagrations avoidable. But the achievement of the Concert of Europe was incomparably greater than that of the Holy Alliance; for the latter maintained peace in a limited region in an unchanging Continent, while the former succeeded in the same task on a world scale while social and economic progress was revolutionizing the map of the globe. This great political feat was the result of the emergence of a specific entity, *haute finance,* which was the given link between the political and the economic organization of international life.
 
@@ -544,7 +589,7 @@ The era of Bismarck (1861-90) saw the Concert of Europe at its best. In two deca
 
 However, by the end of the seventies the free trade episode (1846- 79) was at an end; the actual use of the gold standard by Germany marked the beginnings of an era of protectionism and colonial expansion.\* Germany was now reinforcing her position by making a hard and fast alliance with Austria-Hungary and Italy; not much later Bismarck lost control of Reich policy. From then onward Great Britain was the leader of the peace interest in a Europe which still remained a group of independent sovereign states and thus subject to the balance of power. In the nineties *haute financewas* at its peak and peace seemed more secure than ever. British and French interests differed in Africa; the British and the Russians were competing with one another in Asia; the Concert, though lamely, continued to function; in spite of the Tri-
 
-<sup>\*</sup> Eulenburg, F., "Aussenhandel und Aussenhandelspolitik," in *Grundriss der Sozialokonomik,* Vol. VIII, 1929, p. 209.
+\* Eulenburg, F., "Aussenhandel und Aussenhandelspolitik," in *Grundriss der Sozialokonomik,* Vol. VIII, 1929, p. 209.
 
 pie Alliance, there were still more than two independent Powers to watch one another jealously. Not for long. In 1904, Britain made a sweeping deal with France over Morocco and Egypt; a couple of years later she compromised with Russia over Persia, and the counteralliance was formed. The Concert of Europe, that loose federation of independent powers, was finally replaced by two hostile power groupings; the balance of power as a system had now come to an end. With only two competing power groups left, its mechanism ceased to function. There was no longer a third group which would unite with one of the other two to thwart whichever one sought to increase its power. About the same time the symptoms of the dissolution of the existing forms of world economy—colonial rivalry and competition for exotic markets—became acute. The ability of *haute finance* to avert the spread of wars was diminishing rapidly. For another seven years peace dragged on but it was only a question of time before the dissolution of nineteenth-century economic organization would bring the Hundred Years' Peace to a close.
 
@@ -638,7 +683,7 @@ Enclosures have appropriately been called a revolution of the rich against the p
 
 It was almost a hundred years later when a second trial of strength came between the same opponents, but by that time the enclosers were much more frequently wealthy country gentlemen and merchants rather than lords and nobles. High politics, lay and ecclesiastical, were now involved in the Crown's deliberate use of its prerogative to prevent enclosures and in its no less deliberate use of the enclosure issue to strengthen its position against the gentry in a constitutional struggle, which brought death to Strafford and Laud at the hands of Parliament. But their policy was not only industrially but politically reactionary; furthermore, enclosures were now much more often than
 
-<sup>\*</sup> Tawney, R. H., *The Agrarian Problem in the Sixteenth Century,* 1912.
+\* Tawney, R. H., *The Agrarian Problem in the Sixteenth Century,* 1912.
 
 before intended for tillage, and not for pasture. Presently the tide of the Civil War engulfed Tudor and early Stuart public policy forever.
 
@@ -646,13 +691,13 @@ Nineteenth-century historians were unanimous in condemning Tudor and early Stuar
 
 Such an easy prevailing of private interests over justice is often regarded as a certain sign of the ineffectiveness of legislation, and the victory of the vainly obstructed trend is subsequently adduced as conclusive evidence of the alleged futility of "a reactionary intervention -
 
-<sup>\*</sup> Gibbins, H. deB., *The Industrial History of England,* 1895.
+\* Gibbins, H. deB., *The Industrial History of England,* 1895.
 
 t Innes, A. D., *England under the Tudors,* 1932.
 
 *t* Gairdner, J., "Henry VIII," in *Cambridge Modern History,* Vol. II, 1918.
 
-<sup>§</sup> Heckscher, E. F., *Mercantilism,* 1935, Vol. II, p. 104.
+§ Heckscher, E. F., *Mercantilism,* 1935, Vol. II, p. 104.
 
 ism." Yet such a view seems to miss the point altogether. Why should the ultimate victory of a trend be taken as a proof of the ineffectiveness of the efforts to slow down its progress? And why should the purpose of these measures not be seen precisely in that which they achieved, i.e., in the slowing down of the rate of change? That which is ineffectual in stopping a line of development altogether is not, on that account, altogether ineffectual. The rate of change is often of no less importance than the direction of the change itself; but while the latter frequently does not depend upon our volition, it is the rate at which we allow change to take place which well may depend upon us.
 
@@ -678,7 +723,7 @@ Since elaborate machines are expensive, they do not pay unless large amounts of 
 
 Now, in an agricultural society such conditions would not naturally be given; they would have to be created. That they would be created gradually in no way affects the startling nature of the changes involved. The transformation implies a change in the motive of action
 
-<sup>\*</sup> Clapham, J. H., *Economic History of Modern Britain,* Vol. III.
+\* Clapham, J. H., *Economic History of Modern Britain,* Vol. III.
 
 on the part of the members of society; for the motive of subsistence that of gain must be substituted. All transactions are turned into money transactions, and these in turn require that a medium of exchange be introduced into every articulation of industrial life. All incomes must derive from the sale of something or other, and whatever the actual source of a person's income, it must be regarded as resulting from sale. No less is implied in the simple term "market system," by which we designate the institutional pattern described. But the most startling peculiarity of the system lies in the fact that, once it is established, it must be allowed to function without outside interference. Profits are not any more guaranteed, and the merchant must make his profits on the market. Prices must be allowed to regulate themselves. Such a self-regulating system of markets is what we mean by a market economy.
 
@@ -718,7 +763,7 @@ The principle of redistribution is no less effective. A substantial part of all 
 
 However, principles of behavior such as these cannot become effective unless existing institutional patterns lend themselves to their
 
-<sup>\*</sup> Cf. Notes on Sources, p. 277. The works of Malinowski and Thurnwald have been extensively used in this chapter.
+\* Cf. Notes on Sources, p. 277. The works of Malinowski and Thurnwald have been extensively used in this chapter.
 
 application. Reciprocity and redistribution are able to ensure the working of an economic system without the help of written records and elaborate administration only because the organization of the societies in question meets the requirements of such a solution with the help of patterns such as *symmetry* and *centricity* 
 
@@ -764,7 +809,7 @@ Barter, truck, and exchange is a principle of economic behavior dependent for it
 
 However, in some other respects the principle of barter is not on a strict parity with the three other principles. The market pattern, with which it is associated, is more specific than either symmetry, centricity, or autarchy—which, in contrast to the market pattern, are mere "traits," and do not create institutions designed for one function only. Symmetry is no more than a sociological arrangement, which gives
 
-<sup>\*</sup> Cf. Notes on Sources, p. 280.
+\* Cf. Notes on Sources, p. 280.
 
 t Hawtrey, G. R., *The Economic Problem*, 1925, p. 13. "The practical application of the principle of individualism is entirely dependent on the practice of exchange." Hawtrey, however, was mistaken in assuming that the existence of markets simply followed from the practice of exchange.
 
@@ -790,7 +835,7 @@ We reach the conclusion that while human communities never seem to have forgone 
 
 The transition to peaceful barter can be traced in two directions, namely, in that of barter and in that of peace. A tribal expedition may have to comply, as indicated above, with the conditions set by the
 
-<sup>\*</sup> Thurnwald, R. C, *Economics in Primitive Communities,* 1932, p. 147.
+\* Thurnwald, R. C, *Economics in Primitive Communities,* 1932, p. 147.
 
 powers on the spot, who may exact some kind of counterpart from the strangers; this type of relationship, though not entirely peaceful, may give rise to barter—one-sided carrying will be transformed into twosided carrying. The other line of development is that of "silent trading" as in the African bush, where the risk of combat is avoided through an organized truce, and the element of peace, trust, and confidence is introduced into trade with due circumspection.
 
@@ -798,7 +843,7 @@ At a later stage, as we all know, markets become predominant in the organization
 
 These three types of trade which differ sharply in their economic function are also distinct in their origin. We have dealt with the beginnings of external trade. Markets developed naturally out of it where the carriers had to halt as at fords, seaports, riverheads, or where the routes of two land expeditions met. "Ports" developed at the places of transshipment.\* The short flowering of the famous fairs of Europe was another instance in which long-distance trade produced a definite type of market; England's staples were another example. But while
 
-<sup>\*</sup> Pirenne, H., *Medieval Cities,* 1925, p. 148 (footnote 12).
+\* Pirenne, H., *Medieval Cities,* 1925, p. 148 (footnote 12).
 
 fairs and staples disappeared again with an abruptness disconcerting to the dogmatic evolutionist, the *portus* was destined to play an enormous role in the settling of Western Europe with towns. Yet even where the towns were founded on the sites of external markets, the local markets often remained separate in respect not only to function but also to organization. Neither the port nor the fair nor the staple was the parent of internal or national markets. Where, then, should we seek for their origin?
 
@@ -806,7 +851,7 @@ It might seem natural to assume that, given individual acts of barter, these wou
 
 The customary way to behave is, rather, to give vent to the opposite motivation. The giver may simply drop the object on the ground and
 
-<sup>\*</sup> Firth, R., *Primitive Polynesian Economics,* 1939, p. 347.
+\* Firth, R., *Primitive Polynesian Economics,* 1939, p. 347.
 
 the receiver will pretend to pick it up accidentally, or even leave it to one of his hangers-on to do so for him. Nothing could be more contrary to accepted behavior than to have a good look at the counterpart received. As we have every reason to believe that this sophisticated attitude is not the outcome of a genuine lack of interest in the material side of the transaction, we might describe the etiquette of barter as a counteracting development designed to limit the scope of the trait.
 
@@ -820,7 +865,7 @@ Internal trade in Western Europe was actually created by the intervention of the
 
 Such a permanent severance of local trade and long-distance trade
 
-<sup>\*</sup> Thurnwald, R. C, *op. cit.,* pp. 162-64.
+\* Thurnwald, R. C, *op. cit.,* pp. 162-64.
 
 within the organization of the town must come as another shock to the evolutionist, with whom things always seem so easily to grow into one another. And yet this peculiar fact forms the key to the social history of urban life in Western Europe. It strongly tends to support our assertion in respect to the origin of markets which we inferred from conditions in primitive economies. The sharp distinction drawn between local and long-distance trade might have seemed too rigid, especially as it led us to the somewhat surprising conclusion that neither long-distance trade nor local trade was the parent of the internal trade of modern times—thus apparently leaving no alternative but to turn for an explanation to the *deus ex machina* of state intervention. We will see presently that in this respect also recent investigations bear out our conclusions. But let us first give a bare outline of the history of urban civilization as it was shaped by the peculiar severance of local and long-distance trade within the confines of the medieval town.
 
@@ -828,7 +873,7 @@ This severance was, indeed, at the heart of the institution of medieval urban ce
 
 As to food supplies, regulation involved the application of such methods as enforced publicity of transactions and exclusion of middlemen, in order to control trade and provide against high prices. But such regulation was effective only in respect to trade carried on between the town and its immediate surroundings. In respect to longdistance trade the position was entirely different. Spices, salted fish, or wine had to be transported from a long distance and were thus the domain of the foreign merchant and his capitalistic wholesale trade methods. This type of trade escaped local regulation and all that could be done was to exclude it as far as possible from the local market. The complete prohibition of retail sale by foreign merchants was designed to achieve this end. The more the volume of capitalistic wholesale
 
-<sup>\*</sup> Our presentation follows H. Pirenne's well-known works.
+\* Our presentation follows H. Pirenne's well-known works.
 
 trade grew, the more strictly was its exclusion from the local markets enforced as far as imports were concerned.
 
@@ -846,7 +891,7 @@ State intervention, which had freed trade from the confines of the privileged to
 
 This concludes our synopsis of the history of the market up to the time of the Industrial Revolution. The next stage in mankind's history brought, as we know, an attempt to set up one big self-regulating market. There was nothing in mercantilism, this distinctive policy of the Western nation-state, to presage such a unique development. The "freeing" of trade performed by mercantilism merely liberated trade from particularism, but at the same time extended the scope of regulation. The economic system was submerged in general social relations; markets were merely an accessory feature of an institutional setting controlled and regulated more than ever by social authority.
 
-<sup>\*</sup> Montesquieu, *L'Espritdes his,* 1748. "The English constrain the merchant, but it is in favour of commerce."
+\* Montesquieu, *L'Espritdes his,* 1748. "The English constrain the merchant, but it is in favour of commerce."
 
 # The Self-Regulating Market and the Fictitious Commodities: Labor, Land, and Money his cursory outline of the economic system and markets, taken separately, shows that never before our own time were markets more than accessories of economic life. As a rule, the economic system was absorbed in the social system, and whatever principle of behavior predominated in the economy, the presence of the market pattern was found to be compatible with it. The principle of barter or exchange, which underlies this pattern, revealed no tendency to expand at the expense of the rest. Where markets were most highly developed, as under the mercantile system, they throve under the control of a centralized administration which fostered autarchy both in the household of the peasantry and in respect to national life. Regulation and markets, in effect, grew up together. The self-regulating market was unknown; indeed the emergence of the idea of self-regulation was a complete reversal of the trend of development. It is in the light of these facts that the extraordinary assumptions underlying a market economy can alone be fully comprehended.
 
@@ -858,7 +903,7 @@ A further group of assumptions follows in respect to the state and its policy. N
 
 To realize fully what this means, let us return for a moment to the mercantile system and the national markets which it did so much to develop. Under feudalism and the guild system land and labor formed part of the social organization itself (money had yet hardly developed into a major element of industry). Land, the pivotal element in the feudal order, was the basis of the military, judicial, administrative, and
 
-<sup>\*</sup> Henderson, H. D., *Supply and Demand,* 1922. The function of the market is twofold: the apportionment of factors between different uses and the organizing of the forces influencing aggregate supplies of factors.
+\* Henderson, H. D., *Supply and Demand,* 1922. The function of the market is twofold: the apportionment of factors between different uses and the organizing of the forces influencing aggregate supplies of factors.
 
 political system; its status and function were determined by legal and customary rules. Whether its possession was transferable or not, and if so, to whom and under what restrictions; what the rights of property entailed; to what uses some types of land might be put—all these questions were removed from the organization of buying and selling, and subjected to an entirely different set of institutional regulations.
 
@@ -876,7 +921,7 @@ It is with the help of the commodity concept that the mechanism of the market is
 
 The crucial point is this: labor, land, and money are essential elements of industry; they also must be organized in markets; in fact, these markets form an absolutely vital part of the economic system. But labor, land, and money are obviously *not* commodities; the postulate that anything that is bought and sold must have been produced for sale is emphatically untrue in regard to them. In other words, according to the empirical definition of a commodity they are not commodities. Labor is only another name for a human activity which goes with life itself, which in its turn is not produced for sale but for entirely different reasons, nor can that activity be detached from the rest of life, be stored or mobilized; land is only another name for nature, which is not produced by man; actual money, finally, is merely a token of purchasing power which, as a rule, is not produced at all, but comes into
 
-<sup>\*</sup> Hawtrey, G. R., *op. cit.* Its function is seen by Hawtrey in making "the relative market values of all commodities mutually consistent."
+\* Hawtrey, G. R., *op. cit.* Its function is seen by Hawtrey in making "the relative market values of all commodities mutually consistent."
 
 being through the mechanism of banking or state finance. None of them is produced for sale. The commodity description of labor, land, and money is entirely fictitious.
 
@@ -884,13 +929,13 @@ Nevertheless, it is with the help of this fiction that the actual markets for la
 
 Now, in regard to labor, land, and money such a postulate cannot be upheld. To allow the market mechanism to be sole director of the fate of human beings and their natural environment indeed, even of the amount and use of purchasing power, would result in the demolition of society. For the alleged commodity "labor power" cannot be shoved about, used indiscriminately, or even left unused, without affecting also the human individual who happens to be the bearer of this peculiar commodity. In disposing of a man's labor power the system would, incidentally, dispose of the physical, psychological, and moral entity "man" attached to that tag. Robbed of the protective covering of cultural institutions, human beings would perish from the effects of social exposure; they would die as the victims of acute social dislocation through vice, perversion, crime, and starvation. Nature would be reduced to its elements, neighborhoods and landscapes defiled, rivers polluted, military safety jeopardized, the power to produce food and raw materials destroyed. Finally, the market administration of purchasing power would periodically liquidate business enterprise, for shortages and surfeits of money would prove as disastrous to business as floods and droughts in primitive society. Undoubtedly, labor, land, and money markets *are* essential to a market economy. But no society could stand the effects of such a system of crude fictions even for the shortest stretch of time unless its human
 
-<sup>\*</sup> Marx's assertion of the fetish character of the value of commodities refers to the exchange value of genuine commodities and has nothing in common with the fictitious commodities mentioned in the text.
+\* Marx's assertion of the fetish character of the value of commodities refers to the exchange value of genuine commodities and has nothing in common with the fictitious commodities mentioned in the text.
 
 The extreme artificiality of market economy is rooted in the fact that the process of production itself is here organized in the form of buying and selling. No other way of organizing production for the market is possible in a commercial society\* During the late Middle Ages industrial production for export was organized by wealthy burgesses, and carried on under their direct supervision in the home town. Later, in the mercantile society, production was organized by merchants and was not restricted any more to the towns; this was the age of "putting out" when domestic industry was provided with raw materials by the merchant capitalist, who controlled the process of production as a purely commercial enterprise. It was then that industrial production was definitely and on a large scale put under the organizing leadership of the merchant. He knew the market, the volume as well as the quality of the demand; and he could vouch also for the supplies which, incidentally, consisted merely of wool, woad, and, sometimes, the looms or the knitting frames used by the cottage industry. If supplies failed it was the cottager who was worst hit, for his employment was gone for the time; but no expensive plant was involved and the merchant incurred no serious risk in shouldering the responsibility for production. For centuries this system grew in power and scope until in a country like England the wool industry, the national staple, covered large sectors of the country where production was organized by the clothier. He who bought and sold, incidentally, provided for production—no separate motive was required. The creation of goods involved neither the reciprocating attitudes of mutual aid; nor the concern of the householder for those whose needs are left to his care; nor the craftsman's pride in the exercise of his trade; nor the satisfaction of public praise—nothing but the plain motive of gain so familiar to the man whose profession is buying and selling. Up to the end of the eighteenth century, industrial production in Western Europe was a mere accessory to commerce.
 
 As long as the machine was an inexpensive and unspecific tool there was no change in this position. The mere fact that the cottager could produce larger amounts than before within the same time might induce him to use machines to increase earnings, but this fact
 
-<sup>\*</sup> Cunningham, W., "Economic Change," in *Cambridge Modern History,* Vol. I.
+\* Cunningham, W., "Economic Change," in *Cambridge Modern History,* Vol. I.
 
 in itself did not necessarily affect the organization of production. Whether the cheap machinery was owned by the worker or by the merchant made some difference in the social position of the parties and almost certainly made a difference in the earnings of the worker, who was better off as long as he owned his tools; but it did not force the merchant to become an industrial capitalist, or to restrict himself to lending his money to such persons as were. The vent of goods rarely gave out; the greater difficulty continued to be on the side of supply of raw materials, which was sometimes unavoidably interrupted. But, even in such cases, the loss to the merchant who owned the machines was not substantial. It was not the coming of the machine as such but the invention of elaborate and therefore specific machinery and plant which completely changed the relationship of the merchant to production. Although the new productive organization was introduced by the merchant—a fact which determined the whole course of the transformation—the use of elaborate machinery and plant involved the development of the factory system and therewith a decisive shift in the relative importance of commerce and industry in favor of the latter. Industrial production ceased to be an accessory of commerce organized by the merchant as a buying and selling proposition; it now involved long-term investment with corresponding risks. Unless the, continuance of production was reasonably assured, such a risk was not bearable.
 
@@ -924,7 +969,7 @@ The paradox was merely apparent. Allegedly, Speenhamland meant that the Poor Law
 
 No measure was ever more universally popular.\* Parents were free of the care of their children, and children were no more dependent upon parents; employers could reduce wages at will and laborers were safe from hunger whether they were busy or slack; humanitarians ap-
 
-<sup>\*</sup> Meredith, H. *O., Outlines of the Economic History of England,* 1908.
+\* Meredith, H. *O., Outlines of the Economic History of England,* 1908.
 
 plauded the measure as an act of mercy even though not of justice, and the selfish gladly consoled themselves with the thought that though it was merciful at least it was not liberal; and even ratepayers were slow to realize what would happen to the rates under a system which proclaimed the "right to live" whether a man earned a living wage or not.
 
@@ -994,7 +1039,7 @@ This had the important consequence that the connection between unemployment and 
 
 The increase in the aggregate of trade naturally swelled the volume of employment while territorial division of labor combined with
 
-<sup>\*</sup> Martineau, H., *The Hamlet,* 1833.
+\* Martineau, H., *The Hamlet,* 1833.
 
 sharp fluctuations of trade was responsible for the severe dislocation of both village and town occupations, which resulted in the rapid growth of unemployment. The distant rumor of large wages made the poor dissatisfied with those which agriculture could afford, and it created a dislike for that labor as poorly recompensed. The industrial regions of that age resembled a new country, like another America, attracting immigrants by the thousand. Migration is usually accompanied by a very considerable remigration. That such a reflux toward the village must have taken place seems to find support also in the fact that no absolute decrease of the rural population was noted. Thus a cumulative unsettling of the population was proceeding as different groups were drawn for varying periods into the sphere of commercial and manufactural employment, and then left to drift back to their original rural habitat.
 
@@ -1024,17 +1069,17 @@ Undoubtedly, the social dislocation caused by the machine and the circumstances 
 
 Speenhamland was an unfailing instrument of popular demoralization. If a human society is a self-acting machine for maintaining the standards on which it is built, Speenhamland was an automaton for demolishing the standards on which any kind of society could be
 
-<sup>\*</sup> Professor Usher puts the date of the beginning of general urbanization at about 1795-
+\* Professor Usher puts the date of the beginning of general urbanization at about 1795-
 
 based. Not only did it put a premium on the shirking of work and the pretense of inadequacy, but it increased the attraction of pauperism precisely at the juncture when a man was straining to escape the fate of the destitute. Once a man was in the poorhouse (he would usually land there if he and his family had been for some time on the rates), he was morally and psychologically trapped. The decencies and self-respect of centuries of settled life wore off quickly in the promiscuity of the poorhouse, where a man had to be cautious not to be thought better off than his neighbor, lest he be forced to start out on the hunt for work, instead of "boondoggling" in the familiar fold. "The poorrate had become public spoil.... To obtain their share the brutal bullied the administrators, the profligate exhibited their bastards which must be fed, the idle folded their arms and waited till they got it; ignorant boys and girls married upon it; poachers, thieves and prostitutes extorted it by intimidation; country justices lavished it for popularity, and Guardians for convenience. This was the way the fund went...." "Instead of the proper number of labourers to till his land—labourers paid by himself—the farmer was compelled to take double the number, whose wages were paid partly out of the rates; and these men, being employed by compulsion on him, were beyond his control worked or not as they chose—let down the quality of his land, and disabled him from employing the better men who would have toiled hard for independence. These better men sank down amongst the worst; the rate-paying cottager, after a vain struggle, went to the pay table to seek relief...." Thus Harriet Martineau.\* Bashful latter-day liberals ungratefully neglected the memory of this outspoken apostle of their creed. Yet even her exaggerations, which they now feared, put the highlights in the right place. She herself belonged to that struggling middle class, whose genteel poverty made them all the more sensitive to the moral intricacies of the Poor Law. She understood and clearly expressed the need of society for a new class, a class of "independent laborers." They were the heroes of her dreams, and she makes one of them—a chronically unemployed laborer who refuses to go on relief—say proudly to a colleague who decides to go on the rates: "Here I stand, and defy anybody to despise me. I could set my children into the middle of the church aisle and dare anyone to taunt at them about the place they hold in society. There may be some wiser; there may be
 
-<sup>\*</sup> Martineau, H., *History of England during the Thirty Years' Peace (1816-46),* 1849.
+\* Martineau, H., *History of England during the Thirty Years' Peace (1816-46),* 1849.
 
 many richer; but there are none more honourable." The big men of the ruling class were still far from comprehending the need for this new class. Miss Martineau pointed to "the vulgar error of the aristocracy, of supposing only one class of society to exist below that wealthy one with which they are compelled by their affairs to have business." Lord Eldon, she complained, like others who must know better, "included under one head ['the lower classes'] everybody below the wealthiest bankers—manufacturers, tradesmen, artisans, labourers and paupers. .. ."\* But it was the distinction between these last two, she passionately insisted, that the future of society depended upon. "Except the distinction between sovereign and subject, there is no social difference in England so wide as that between the independent labourer and the pauper; and it is equally ignorant, immoral, and impolitic to confound the two," she wrote. This, of course, was hardly a statement of fact; the difference between the two strata had become nonexistent under Speenhamland. Rather, it was a statement of policy based upon a prophetic anticipation. The policy was that of the Poor Law Reform Commissioners; the prophecy looked to a free competitive labor market, and the consequent emergence of an industrial proletariat. The abolishment of Speenhamland was the true birthday of the modern working class, whose immediate self-interest destined them to become the protectors of society against the intrinsic dangers of a machine civilization. But whatever the future had in store for them, working-class and market economy, appeared in history together. The hatred of public relief, the distrust of state action, the insistence on respectability and self-reliance, remained for generations characteristics of the British worker.
 
 The repeal of Speenhamland was the work of a new class entering on the historical scene, the middle classes of England. Squirearchy could not do the job these classes were destined to perform: the transformation of society into a market economy. Dozens of laws were repealed and others enacted before that transformation was on the way. The Parliamentary Reform Bill of 1832 disfranchised the rotten boroughs and gave power in the Commons once and for all to businessmen. Their first great act of reform was the abolishing of Speenhamland. Now that we realize the degree to which its paternalist methods were merged with the life of the country, we will understand why even
 
-<sup>\*</sup> Martineau, H., *The Parish,* 1833.
+\* Martineau, H., *The Parish,* 1833.
 
 the most radical supporters of reform hesitated to suggest a shorter period of transition than ten or fifteen years. Actually, it took place with an abruptness which makes nonsense of the legend of English gradualism fostered at a later time when arguments against radical reform were sought. The memory of that brutal shock haunted for generations the British working class. And yet the success of this lacerating operation was due to the deep-seated convictions of the broad strata of the population, including the laborers themselves, that the system which to all appearances supported them was in truth despoiling them, and that the "right to live" was sickness unto death.
 
@@ -1054,7 +1099,7 @@ Up to the time of Speenhamland no satisfactory answer could be found to the ques
 
 Again, for an Englishman to forecast commercial stagnation was merely to echo a widely held opinion. If the rise in exports during the half-century preceding 1782 was striking, the ups and downs of trade were even more so. Trade was just starting to recover from a slump which had reduced export figures to the level of almost half a century before. To contemporaries the great expansion of trade and apparent growth of national prosperity which followed upon the Seven Years' War merely signified that England too had had her chance after Portugal, Spain, Holland, and France. Her steep rise was now a matter of the
 
-<sup>\*</sup> M'Farlane, J., *Enquiries Concerning the Poor*, 1782. Cf. also Postlethwayt's editorial remark in the Universal Dictionary of 1757 on the Dutch Poor Law of October 7,1531.
+\* M'Farlane, J., *Enquiries Concerning the Poor*, 1782. Cf. also Postlethwayt's editorial remark in the Universal Dictionary of 1757 on the Dutch Poor Law of October 7,1531.
 
 past, and there was no reason to believe in the continuance of her progress, which seemed merely the result of a lucky war. Almost unanimously, as we saw, a falling off of trade was expected.
 
@@ -1070,7 +1115,7 @@ It was exactly a century later that Jeremy Bentham, the most prolific of all soc
 
 cided to apply it to his convict-run factory; the place of the convicts was to be taken by the poor. Presently the Bentham brothers' private business venture merged into a general scheme of solving the social problem as a whole. The decision of the Speenhamland magistrates, Whitbread's minimum wage proposal, and, above all, Pitt's privately circulated draft of a comprehensive bill for the reform of the Poor Law had made pauperism a topic among statesmen. Bentham, whose criticism of Pitt's Bill was supposed to have brought about its withdrawal, now came forward in Arthur Young's *Annals* with elaborate proposals of his own (1797). His Industry-Houses, on the Panopticon plan—five stories in twelve sectors—for the exploitation of the labor of the assisted poor were to be ruled by a central board set up in the capital and modelled on the Bank of England's board, all members with shares worth five or ten pounds having a vote. A text published a few years later ran: "(1) The management of the concerns of the poor throughout South Britain to be vested in *one* authority, and the expense to be charged upon *one* fund. (2) This Authority, that *of a Joint-Stock Company* under some such name as that of the *National Charity Company?\** No less than 250 Industry-Houses were to be erected, with approximately 500,000 inmates. The plan was accompanied by a detailed analysis of the various categories of unemployed, in which Bentham anticipated by more than a century the results of other investigators in this field. His classifying mind showed its capacity for realism at its best. "Out of place hands" who had been recently dismissed from jobs were distinguished from such as could not find employment on account of "casual-stagnation"; "periodical stagnation" of seasonal workers was distinguished from "superseded hands," such as had been "rendered superfluous by the introduction of machinery" or, in even more modern terms, from the technologically unemployed; a last group consisted of "disbanded hands," another modern category brought into prominence, in Bentham's time, by the French War. The most significant category, however, was that of "casual-stagnation," mentioned above, which included not only craftsmen and artists exercising occupations "dependent upon fashion" but also the much more important group of those unemployed "in the event of a general stagnation of manufactures." Bentham's plan amounted to no less than
 
-<sup>\*</sup> Bentham, J., *Pauper Managemen t.* First published, 1797.
+\* Bentham, J., *Pauper Managemen t.* First published, 1797.
 
 the levelling out of the business cycle through the commercialization of unemployment on a gigantic scale.
 
@@ -1096,7 +1141,7 @@ Townsend's *Dissertation,* ten years afterward, centered on the theorem of the g
 
 We note that a search\* in the sources failed to authenticate the story. Juan Fernandez duly landed the goats; but the legendary dogs were described by William Funnell as beautiful cats, and neither dogs nor cats are known to have multiplied; also the goats were inhabiting inaccessible rocks, while the beaches—on this all reports agree—were teeming with fat seals which would have been a much more engaging prey for the wild dogs. However, the paradigm is not dependent upon empirical support. Lack of antiquarian authenticity can detract nothing from the fact that Malthus and Darwin owed their inspiration to this source—Malthus learned of it from Condorcet, Darwin from Malthus. Yet neither Darwin's theory of natural selection, nor Malthus's population laws might have exerted any appreciable influence on modern society but for the following maxims which Townsend deduced from his goats and dogs and wished to have applied to the reform of the Poor Law: "Hunger will tame the fiercest animals, it will teach decency and civility, obedience and subjection, to the most perverse. In general it is only hunger which can spur and goad them [the poor] on to labour; yet our laws have said they shall never hunger. The laws, it must be confessed, have likewise said, they shall be compelled to work. But then legal constraint is attended with much trouble, violence and noise; creates ill will, and never can be productive of good and acceptable service: whereas hunger is not only peaceable, silent, unremitting pressure, but, as the most natural motive to industry and labour, it calls forth the most powerful exertions; and, when satisfied by the free bounty of another, lays lasting and sure foundations for goodwill and gratitude. The slave must be compelled to work but the
 
-<sup>\*</sup> Cf. Antonio de Ulloa, Wafer, William Funnell, as well as Isaac James (which also contains Captain Wood Rogers's account on Alexander Selkirk) and the observations of Edward Cooke.
+\* Cf. Antonio de Ulloa, Wafer, William Funnell, as well as Isaac James (which also contains Captain Wood Rogers's account on Alexander Selkirk) and the observations of Edward Cooke.
 
 *Political Economy and the Discovery of Society* [ *119 ]* 
 
@@ -1114,17 +1159,17 @@ Burke approached the issue of pauperism squarely from the angle of public securi
 
 Clearly, a question of statesmanship was involved. Why should the poor be made a public charge and their maintenance put on the parish, if ultimately the parish discharged its obligation by farming out the able-bodied to the capitalist entrepreneurs, who were so eager to fill their mills with them that they would even spend money to obtain their services? Did this not clearly indicate that there was also a less expensive way of compelling the poor to earn their keep than the parish
 
-<sup>\*</sup> Webb, S. and B., *English Local Government,* Vols. VII-IX, "Poor Law History."
+\* Webb, S. and B., *English Local Government,* Vols. VII-IX, "Poor Law History."
 
 way? The solution lay in the abolishment of the Elizabethan legislation without replacing it by any other. No assessment of wages, no relief for the able-bodied unemployed, but no minimum wages either, nor a safeguarding of the right to live. Labor should be dealt with as that which it was, a commodity which must find its price in the market. The laws of commerce were the laws of nature and consequently the laws of God. What else was this than an appeal from the weaker magistrate to the stronger, from the justice of the peace to the all-powerful pangs of hunger? To the politician and administrator laissez-faire was simply a principle of the ensurance of law and order, at minimum cost. Let the market be given charge of the poor, and things will look after themselves.
 
 It was precisely on this point that Bentham, the rationalist, agreed with Burke, the traditionalist. The calculus of pain and pleasure required that no avoidable pain should be inflicted. If hunger would do the job, no other penalty was needed. To the question, "What can the law do relative to subsistence?" Bentham answered, "Nothing, directly."\* Poverty was Nature surviving in society; its physical sanction was hunger. "The force of the physical sanction being sufficient, the employment of the political sanction would be superfluous."\* All that was needed was the "scientific and economical" treatment of the poor.\* Bentham was strongly opposed to Pitt's Poor Law Bill, which would have amounted to an enactment of Speenhamland, as it permitted both outdoor relief and aid-in-wages. Yet Bentham, unlike his pupils, was at this time no rigid economic liberal, nor was he a democrat. His Industry-Houses were a nightmare of minute utilitarian administration enforced by all the chicanery of scientific management. He maintained that there always would be a need for them as the community could not quite disinterest itself in the fate of the indigent. Bentham believed that poverty was part of plenty." In the highest stage of social prosperity," he said, "the great mass of the citizens will most probably possess few other resources than their daily labour, and consequently will always be near to indigence...." Hence he recommended that "a regular contribution should be established for the wants of indigence," though thereby "in *theory* want is decreased and thus industry hit," as he regretfully added, since from the utilitarian
 
-<sup>\*</sup> Bentham, J. *Principles of Civil Code,* Ch. 4., Browning, Vol. I, p. 333.
+\* Bentham, J. *Principles of Civil Code,* Ch. 4., Browning, Vol. I, p. 333.
 
-## <sup>1</sup> Bentham, J., *ibid.*
+## 1 Bentham, J., *ibid.*
 
-<sup>\*</sup> Bentham, J., *Observation on the Poor Bill,* 1797.
+\* Bentham, J., *Observation on the Poor Bill,* 1797.
 
 *Political Economy and the Discovery of Society* [ *123 ]* point of view the task of the government was to increase want in order to make the physical sanction of hunger effective.\*
 
@@ -1132,7 +1177,7 @@ The acceptance of near-indigency of the mass of the citizens as the price to be 
 
 Edmund Burke was a man of different stature. Where men like Townsend failed in a small way, he failed in a great way. His genius exalted brutal fact into tragedy, and invested sentimentality with the halo of mysticism. "When we affect to pity as poor those who must labour or the world cannot exist, we are trifling with the condition of mankind." This was undoubtedly better than coarse indifference, empty lamentations, or the cant of sympathetic uplift. But the virility of this realistic attitude was impaired by the subtle complacency with
 
-<sup>\*</sup> Bentham, J., *Principles of Civil Code,* p. 314.
+\* Bentham, J., *Principles of Civil Code,* p. 314.
 
 which he spotlighted the scenes of aristocratic pageantry. The result was to out-Herod Herod, but to underestimate the chances of timely reform. It is a fair guess that had Burke lived, the Parliamentary Reform Bill of 1832, which put an end to the *ancien regime,* would have been passed only at the cost of an avoidable bloody revolution. And yet, Burke might have countered, once the masses were fated by the laws of political economy to toil in misery, what else was the idea of equality but a cruel bait to goad mankind into self-destruction?
 
@@ -1142,11 +1187,11 @@ Bentham himself was convinced that he had discovered a new social science, that 
 
 With Bentham's death, approximately, this period comes to an end\*; since the 1840s projectors in business were simply promoters of definite ventures, not any more the alleged discoverers of new applications of the universal principles of mutuality, trust, risk, and other elements of human enterprise. Henceforth businessmen imagined they knew what forms their activities should take; they rarely inquired into the nature of money before founding a bank. Social engineers were now usually found only amongst cranks or frauds, and then often confined behind iron bars. The spate of industrial and banking systems which from Paterson and John Law to the Pereires had flooded stock exchanges with the projects of religious, social, and academic sectarians had now become a mere trickle. With those engaged in the routine of business, analytical ideas were at a discount. The exploration of society, at least so it was thought, was concluded; no white spots were left on the human map. A man of Bentham's stamp had become impossible for a century. Once the market organization of industrial life had become dominant, all other institutional fields were subordinated to this pattern; the genius for social artifacts was homeless.
 
-Bentham's Panopticon was not only a "mill to grind rogues honest, and idle men industrious"<sup>1</sup> ; it would also pay dividends like the Bank of England. He sponsored proposals as different as an improved system for patents; limited liability companies; a decennial census of population; the establishment of a Ministry of Health; interestbearing notes to make savings general; a frigidarium for vegetables and fruit; armament factories on new technical principles, eventually run by convict labor, or alternatively, by the assisted poor; a Chrestomathic Day School to teach utilitarianism to the upper middle classes; a general register of real property; a system of public account keeping; reforms of public instruction; uniform registration; freedom from usury; the relinquishment of colonies; the use of contraceptives to keep the poor rate down; the junction of the Atlantic and the Pacific by means of a joint stock company; and others. Some of these projects harbored literally shoals of minor improvements as, for instance, that on Industry-Houses which were a congeries of innovations for the betterment and the exploitation of man based on the achievements of associationist psychology. While Townsend and Burke linked laissezfaire with legislative quietism, Bentham saw in it no obstacle to broadsides of reform.
+Bentham's Panopticon was not only a "mill to grind rogues honest, and idle men industrious"1 ; it would also pay dividends like the Bank of England. He sponsored proposals as different as an improved system for patents; limited liability companies; a decennial census of population; the establishment of a Ministry of Health; interestbearing notes to make savings general; a frigidarium for vegetables and fruit; armament factories on new technical principles, eventually run by convict labor, or alternatively, by the assisted poor; a Chrestomathic Day School to teach utilitarianism to the upper middle classes; a general register of real property; a system of public account keeping; reforms of public instruction; uniform registration; freedom from usury; the relinquishment of colonies; the use of contraceptives to keep the poor rate down; the junction of the Atlantic and the Pacific by means of a joint stock company; and others. Some of these projects harbored literally shoals of minor improvements as, for instance, that on Industry-Houses which were a congeries of innovations for the betterment and the exploitation of man based on the achievements of associationist psychology. While Townsend and Burke linked laissezfaire with legislative quietism, Bentham saw in it no obstacle to broadsides of reform.
 
-<sup>\* 1832.</sup> 
+\* 1832. 
 
-<sup>1</sup> Stephen, Sir L., *The English Utilitarians,* 1900.
+1 Stephen, Sir L., *The English Utilitarians,* 1900.
 
 Before we proceed to the answer which Malthus, in 1798, gave to Godwin and with which classical economics properly begins, let us remember the times. Godwin's *Political Justice* was written to counter Burke's *Reflections on the French Revolution* (1790). It appeared just before the wave of repression started with the suspension of habeas corpus (1794) and the persecution of the democratic Correspondence Societies. By this time England was at war with France and the *terreur* made the word "democracy" synonymous with social revolution. Yet the democratic movement in England, which was inaugurated with Dr. Price's "Old Jewry" sermon (1789) and reached its literary height in Paine's *The Rights of Man* (1791), was restricted to the political field; the discontent of the laboring poor found no echo in it; the question of the Poor Law was barely mentioned in the pamphlets which raised the cry for universal suffrage and annual parliaments. Yet actually, it was in the sphere of the Poor Law that the squires' decisive countermove came, in the form of Speenhamland. The parish retired behind an artificial morass under the cover of which it outlived Waterloo by twenty years. But while the evil consequences of the panicky acts of political repression of the 1790s might have been soon overcome, had they stood alone, the degenerative process started by Speenhamland left its indelible mark on the country. The forty years' prolongation of squirearchy which it produced was bought at the price of the sacrifice of the virility of the common people. "When the owning classes complained of the poor rate becoming heavier and heavier," says Mantoux, "they overlooked the fact that it really amounted to an insurance against revolution, while the working class, when they accepted the scanty allowance doled out to them, did not realize that it was partly obtained by a reduction of their own legitimate earnings. For the inevitable result of'allowances' was to keep wages down to the lowest level, and even to force them below the limit corresponding to the irreducible needs of the wage-earners. The farmer or the manufacturer relied on the parish to make up the difference between the sum he paid the men and the sum on which the men could live. For why should they incur an expense which could so easily be foisted on to the body of the ratepayers? On the other hand, those in receipt of the parish relief were willing to work for a lower wage, and thus made competition quite impossible to those who received no parish help. The paradoxical result arrived at was that the so-called 'poor-rate' meant an economy for the employers, and a loss for the industrious workman who expected nothing from public charity. Thus the pitiless interplay of interests had turned a charitable law into a bond of iron."\*
 
@@ -1156,13 +1201,13 @@ Townsend's naturalism was doubtless not the only possible basis for the new scie
 
 If ever the overwhelming evidence of the facts seemed to point in one direction, it was, therefore, in the case of the iron law of wages, which asserted that the bare subsistence level on which laborers actually lived was the result of a law which tended to keep their wages so low that no other standard was possible for them. This semblance was, of course, not only misleading but indeed implied an absurdity from
 
-<sup>\*</sup> Mantoux, P. L., *The Industrial Revolution in the Eighteenth Century,* 1928.
+\* Mantoux, P. L., *The Industrial Revolution in the Eighteenth Century,* 1928.
 
 the point of view of any consistent theory of prices and incomes under capitalism. Yet, in the last analysis, it was on account of this false appearance that the law of wages could not be based on any rational rule of human behavior, but had to be deduced from the naturalistic facts of the fertility of man and soil, as they were presented to the world by Malthus's law of population combined with the law of diminishing returns. The naturalistic element in the foundations of orthodox economics was the outcome of conditions primarily created by Speenhamland.
 
 It follows that neither Ricardo nor Malthus understood the working of the capitalist system. Not until a century after the publication of the *Wealth of Nations* was it clearly realized that under a market system the factors of production shared in the product, and as produce increased, their absolute share was bound to rise.\* Although Adam Smith had followed Locke's false start on the labor origins of value, his sense of realism saved him from being consistent. Hence he had confused views on the elements of price, while justly insisting that no society can flourish, the members of which, in their great majority, are poor and miserable. However, what appears as a truism to us was a paradox in his time. Smith's own view was that universal plenty could not help percolating down to the people; it was impossible that society should get wealthier and wealthier and the people poorer and poorer. Unfortunately, the facts did not seem to bear him out for a long time to come; and as theorists had to account for the facts, Ricardo proceeded to argue that the more society advanced the greater would be the difficulty of procuring food and the richer would landlords grow, exploiting both capitalists and workers; that the capitalists' and the workers' interests were in fatal opposition to one another, but that this opposition was ultimately ineffective as the workers' wages could never rise above the subsistence level and profits were bound to shrivel up in any case. In some remote sense all these assertions contained an element of truth, but as an explanation of capitalism nothing more unreal and abstruse could have been produced. However, the facts themselves were formed on contradictory patterns and even today we find it difficult to unravel them. No wonder that the *deus ex machina* of animal and plant propagation had to be invoked in a scientific sys-
 
-<sup>\*</sup> Cannan, E., *A Review of Economic Theory,* 1930.
+\* Cannan, E., *A Review of Economic Theory,* 1930.
 
 tern the authors of which claimed to deduce the laws of production and distribution from the behavior not of plants or of animals but of men.
 
@@ -1178,7 +1223,7 @@ The true significance of the tormenting problem of poverty now stood revealed: e
 
 The classical economists themselves were far from unconscious of such a need. Malthus and Ricardo were in no way indifferent to the fate of the poor but this humane concern merely forced a false theory into even more tortuous paths. The iron law of wages carried a well-known saving clause according to which the higher the customary needs of the laboring class, the higher the subsistence level below which not even the iron law could depress wages. It was this "standard of wretchedness" on which Malthus set his hopes\* and which he wished to have raised by every means, for thus alone, he thought, could those be saved from the lowest forms of wretchedness, who, by virtue of his law were doomed to be wretched. Ricardo, too, for the same reason, wished that in all countries the labouring classes should have a taste for comforts
 
-<sup>\*</sup> Hazlitt, W., *A Reply to the Essay on Population by the Rev. T. A. Malthus in a Series of Letters,* 1803.
+\* Hazlitt, W., *A Reply to the Essay on Population by the Rev. T. A. Malthus in a Series of Letters,* 1803.
 
 and enjoyments, "and that they should be stimulated by all legal means in their exertions to procure them." Ironically, in order to evade the law of nature, men were here enjoined to raise their own starvation level. And yet, these were undoubtedly sincere attempts on the part of the classical economists to rescue the poor from the fate which their theories helped to prepare for them.
 
@@ -1186,7 +1231,7 @@ In the case of Ricardo, theory itself included an element which counterbalanced 
 
 Within Ricardo's system itself the naturalistic and the humanistic factors coexisted which were contending for supremacy in economic society. The dynamic of this situation was of overwhelming power. As its result the drive for a competitive market acquired the irresistible impetus of a process of Nature. For the self-regulating market was now believed to follow from the inexorable laws of Nature, and the unshackling of the market to be an ineluctable necessity. The creation of a labor market was an act of vivisection performed on the body of society by such as were steeled to their task by an assurance which only science can provide. That the Poor Law must disappear was part of this certainty. "The principle of gravitation is not more certain than the tendency of such laws to change wealth and vigour into misery and weakness . . . until at last all classes should be infected with the plague of universal poverty," wrote Ricardo.\* He would have been, indeed, a moral coward who, knowing this, failed to find the strength to save mankind from itself by the cruel operation of the abolishment of poor relief. It was on this point that Townsend, Malthus and Ricardo, Bentham, and Burke were at one. Fiercely as they differed in method and outlook, they agreed on the principles of political economy and opposition to Speenhamland. What made economic liberalism an irresistible force was this congruence of opinion between diametrically opposed outlooks; for what the ultra-reformer Bentham and the
 
-<sup>\*</sup> *Ricardo,D.,Principlesof Political Economyand Taxation,* ed. Conner, 1929, p. 86.
+\* *Ricardo,D.,Principlesof Political Economyand Taxation,* ed. Conner, 1929, p. 86.
 
 *Political Economy and the Discovery of Society* [ *133 ]* ultra-traditionalist Burke equally approved of automatically took on the character of self-evidence.
 
@@ -1252,7 +1297,7 @@ A similar keying up of economic liberalism from academic interest to boundless a
 
 The currency issued was first brought home to the English community in the form of a general rise in the cost of living. Between 1790 and 1815 prices doubled. Real wages fell and business was hit by a
 
-## <sup>\*</sup> Webb, S. and B" *op. cit.*
+## \* Webb, S. and B" *op. cit.*
 
 slump in foreign exchanges. Yet not until the 1825 panic did sound currency become a tenet of economic liberalism, i.e., only when Ricardian principles were already so deeply impressed on the minds of politicians and businessmen alike that the "standard" was maintained in spite of the enormous number of financial casualties. This was the beginning of that unshakable belief in the automatic steering mechanism of the gold standard without which the market system could never have got under way.
 
@@ -1266,13 +1311,13 @@ The true implications of economic liberalism can now be taken in at a glance. No
 
 There was nothing natural about laissez-faire; free markets could never have come into being merely by allowing things to take their course. Just as cotton manufactures—the leading free trade industry—were created by the help of protective tariffs, export bounties, and indirect wage subsidies, laissez-faire itself was enforced by the state. The thirties and forties saw not only an outburst of legislation repealing restrictive regulations, but also an enormous increase in the administrative functions of the state, which was now being endowed with a central bureaucracy able to fulfil the tasks set by the adherents of liberalism. To the typical utilitarian, economic liberalism was a social project which should be put into effect for the greatest happiness of the greatest number; laissez-faire was not a method to achieve a thing, it was the thing to be achieved. True, legislation could do nothing directly, except by repealing harmful restrictions. But that did not mean that *government* could do nothing, especially indirectly. On the contrary, the utilitarian liberal saw in government the great agency for achieving happiness. In respect to material welfare, Bentham believed, the influence of legislation "is as nothing" in comparison with the unconscious contribution of the "minister of the police." Of the three things needed for economic success—inclination, knowledge, and power—the private person possessed only inclination. Knowledge and power, Bentham taught, can be administered much cheaper by government than by private persons. It was the task of the executive to collect statistics and information, to foster science and experiment, as well as to supply the innumerable instruments of final realization in the field of government. Benthamite liberalism meant the replacing of parliamentary action by action through administrative organs.
 
-For this there was ample scope. Reaction in England had not governed—as it did in France—through administrative methods but used exclusively Parliamentary legislation to put political repression into effect. "The revolutionary movements of 1785 and of 1815-1820 were combated, not by departmental action, but by Parliamentary legislation. The suspension of the Habeas Corpus Act, the passing of the Libel Act, and of the 'Six Acts' of 1819, were severely coercive measures; but they contain no evidence of any attempt to give a Continental character to administration. In so far as individual liberty was destroyed, it was destroyed by and in pursuance of Acts of Parliament."\* Economic liberals had hardly gained influence on government, in 1832, when the position changed completely in favor of administrative methods. "The net result of the legislative activity which has characterized, though with different degrees of intensity, the period since 1832, has been the building up piecemeal of an administrative machine of great complexity which stands in as constant need of repair, renewal, reconstruction, and adaptation to new requirements as the plant of a modern manufactory"<sup>1</sup> This growth of administration reflected the spirit of utilitarianism. Bentham's fabulous Panopticon, his most personal Utopia, was a star-shaped building from the center of which prison wardens could keep the greatest number of jailbirds under the most effective supervision at the smallest cost to the public. Similarly, in the utilitarian state his favorite principle of "inspectability" ensured that the minister at the top should keep effective control over all local administration.
+For this there was ample scope. Reaction in England had not governed—as it did in France—through administrative methods but used exclusively Parliamentary legislation to put political repression into effect. "The revolutionary movements of 1785 and of 1815-1820 were combated, not by departmental action, but by Parliamentary legislation. The suspension of the Habeas Corpus Act, the passing of the Libel Act, and of the 'Six Acts' of 1819, were severely coercive measures; but they contain no evidence of any attempt to give a Continental character to administration. In so far as individual liberty was destroyed, it was destroyed by and in pursuance of Acts of Parliament."\* Economic liberals had hardly gained influence on government, in 1832, when the position changed completely in favor of administrative methods. "The net result of the legislative activity which has characterized, though with different degrees of intensity, the period since 1832, has been the building up piecemeal of an administrative machine of great complexity which stands in as constant need of repair, renewal, reconstruction, and adaptation to new requirements as the plant of a modern manufactory"1 This growth of administration reflected the spirit of utilitarianism. Bentham's fabulous Panopticon, his most personal Utopia, was a star-shaped building from the center of which prison wardens could keep the greatest number of jailbirds under the most effective supervision at the smallest cost to the public. Similarly, in the utilitarian state his favorite principle of "inspectability" ensured that the minister at the top should keep effective control over all local administration.
 
 The road to the free market was opened and kept open by an enormous increase in continuous, centrally organized and controlled interventionism. To make Adam Smith's "simple and natural liberty" compatible with the needs of a human society was a most complicated affair. Witness the complexity of the provisions in the innumerable enclosure laws; the amount of bureaucratic control involved in the administration of the New Poor Laws which for the first time since Queen Elizabeth's reign were effectively supervised by central author -
 
-<sup>\*</sup> Redlich and Hirst, J., *Local Government in England,* Vol. II, p. 240, quoted Dicey, A. V., *Law and Opinion in England,* p. 305.
+\* Redlich and Hirst, J., *Local Government in England,* Vol. II, p. 240, quoted Dicey, A. V., *Law and Opinion in England,* p. 305.
 
-<sup>1</sup> Ilbert, *Legislative Methods,* pp. 212-13, quoted Dicey, A. V., *op. cit.* 
+1 Ilbert, *Legislative Methods,* pp. 212-13, quoted Dicey, A. V., *op. cit.* 
 
 ity; or the increase in governmental administration entailed in the meritorious task of municipal reform. And yet all these strongholds of governmental interference were erected with a view to the organizing of some simple freedom—such as that of land, labor, or municipal administration. Just as, contrary to expectation, the invention of laborsaving machinery had not diminished but actually increased the uses of human labor, the introduction of free markets, far from doing away with the need for control, regulation, and intervention, enormously increased their range. Administrators had to be constantly on the watch to ensure the free working of the system. Thus even those who wished most ardently to free the state from all unnecessary duties, and whose whole philosophy demanded the restriction of state activities, could not but entrust the self-same state with the new powers, organs, and instruments required for the establishment of laissez-faire.
 
@@ -1302,7 +1347,7 @@ The testimony of the facts contradicts the liberal thesis decisively. The anti-l
 
 Firstly, there is the amazing diversity of the matters on which action was taken. This alone would exclude the possibility of concerted action. Let us cite from a list of interventions which Herbert Spencer compiled in 1884, when charging liberals with having deserted their principles for the sake of "restrictive legislation."\* The variety of the subjects could hardly be greater. In i860 authority was given to provide "analysts of food and drink to be paid out of local rates"; there followed an Act providing "the inspection of gas works"; an extension of the Mines Act "making it penal to employ boys under twelve not attending schools and unable to read or write." In 1861 power was given "to poor law guardians to enforce vaccination"; local boards were authorized "to fix rates of hire for means of conveyance"; and certain locally formed bodies "had given them powers of taxing the locality for rural drainage and irrigation works, and for supplying water to cattle." In 1862 an act was passed making illegal "a coal-mine with a single shaft"; an act giving the Council of Medical Education exclusive right "to furnish a Pharmacopoeia, the price of which is to be fixed by the Treasury." Spencer, horror struck, filled several pages with an enumeration of these and similar measures. In 1863 came the "extension of compulsory vaccination to Scotland and Ireland." There was also an act appointing inspectors for the "wholesomeness, or unwholesomeness of food"; a Chimney-Sweeper's Act, to prevent the torture and eventual death of children set to sweep too narrow slots; a Contagious Diseases Act; a Public Libraries Act, giving local powers "by which a maj ority can tax a minority for their books." Spencer adduced them as so much irrefutable evidence of an anti-liberal conspiracy. And yet each of these acts dealt with some problem arising out of mod-
 
-<sup>\*</sup> Spencer, H., *The Man vs. the State,* 1884.
+\* Spencer, H., *The Man vs. the State,* 1884.
 
 ern industrial conditions and was aimed at the safeguarding of some public interest against dangers inherent either in such conditions or, at any rate, in the market method of dealing with them. To an unbiased mind they proved the purely practical and pragmatic nature of the "collectivist" countermove. Most of those who carried these measures were convinced supporters of laissez-faire, and certainly did not wish their consent to the establishment of a fire brigade in London to imply a protest against the principles of economic liberalism. On the contrary, the sponsors of these legislative acts were as a rule uncompromising opponents of socialism, or any other form of collectivism.
 
@@ -1328,7 +1373,7 @@ In popular Marxism this led to a crude class theory of social development. Press
 
 The liberal economic outlook thus found powerful support in a narrow class theory. Upholding the viewpoint of opposing classes, liberals and Marxists stood for identical propositions. They established a
 
-<sup>\*</sup> Marx, K., "Nationalokonomie und Philosophic," in *Der Historische Materialisms*, 1932.
+\* Marx, K., "Nationalokonomie und Philosophic," in *Der Historische Materialisms*, 1932.
 
 watertight case for the assertion that nineteenth-century protectionism was the result of class action, and that such action must have primarily served the economic interests of the members of the classes concerned. Between them they all but completely obstructed an overall view of market society, and of the function of protectionism in such a society
 
@@ -1364,11 +1409,11 @@ To the student of early capitalism the parallel is highly significant. The condi
 
 Some who would readily agree that life in a cultural void is no life at all nevertheless seem to expect that economic needs would automatically fill that void and make life appear livable under whatever conditions. This assumption is sharply contradicted by the result of anthropological research. "The goals for which individuals will work are culturally determined, and are not a response of the organism to
 
-<sup>\*</sup> Millin, Mrs. S. G., *The South Africans,* 1926.
+\* Millin, Mrs. S. G., *The South Africans,* 1926.
 
-<sup>1</sup> Goldenweiser, *A., Anthropology,* 1937.
+1 Goldenweiser, *A., Anthropology,* 1937.
 
-## <sup>\*</sup> Goldenweiser, A., *ibid.*
+## \* Goldenweiser, A., *ibid.*
 
 an external culturally undefined situation, like a simple scarcity of food," says Dr. Mead. "The process by which a group of savages is converted into gold-miners or ship's crew or merely robbed of all incentive to effort and left to die painlessly beside streams still filled with fish, may seem so bizarre, so alien to the nature of society and its normal functioning as to be pathological," yet, she adds, "precisely this will, as a rule, happen to a people in the midst of violent externally introduced, or at least externally produced change. ..." She concludes: "This rude contact, this uprooting of simple peoples from their *mores,* is too frequent to be undeserving of serious attention on the part of the social historian."
 
@@ -1376,7 +1421,7 @@ However, the social historian fails to take the hint. He still refuses to see th
 
 Nothing obscures our social vision as effectively as the economistic prejudice. So persistently has exploitation been put into the forefront of the colonial problem that the point deserves special attention. Also, exploitation in a humanly obvious sense has been perpetrated so often, so persistently, and with such ruthlessness on the backward peoples of the world by the white man that it would seem to argue utter insensibility not to accord it pride of place in any discussion of the colonial problem. Yet, it is precisely this emphasis put on exploitation which tends to hide from our view the even greater issue of cultural degradation. If exploitation is defined in strictly economic terms as a permanent inadequacy of ratios of exchange, it is doubtful
 
-<sup>\*</sup> Thurnwald, R. C, *Black and White in East Africa; The Fabric of a New Civilization,* 1935.
+\* Thurnwald, R. C, *Black and White in East Africa; The Fabric of a New Civilization,* 1935.
 
 whether, as a matter of fact, there was exploitation. The catastrophe of the native community is a direct result of the rapid and violent disruption of the basic institutions of the victim (whether force is used in the process or not does not seem altogether relevant). These institutions are disrupted by the very fact that a market economy is forced upon an entirely differently organized community; labor and land are made into commodities, which, again, is only a short formula for the liquidation of every and any cultural institution in an organic society. Changes in income and population figures are evidently incommensurable with such a process. Who, for instance, would care to deny that a formerly free people dragged into slavery was exploited, though their standard of life, in some artificial sense, may have been improved in the country to which they were sold as compared with what it was in their native bush? And yet nothing would be altered if we assumed that the conquered natives had been left free and not even been made to overpay the cheap cotton goods thrust upon them, and that their starvation was "merely" caused by the disruption of their social institutions.
 
@@ -1406,21 +1451,21 @@ Such a scheme of destruction was best served by the application of the principle
 
 This effect of the establishment of a labor market is conspicuously apparent in colonial regions today. The natives are to be forced to make a living by selling their labor. To this end their traditional institutions must be destroyed, and prevented from reforming, since, as a rule, the individual in primitive society is not threatened by starvation unless the community as a whole is in a like predicament. Under the *kraal-land* system of the Kaffirs, for instance, "destitution is impossible: whosoever needs assistance receives it unquestioningly."\* No Kwakiutl "ever ran the least risk of going hungry." "There is no starvation in societies living on the subsistence margin."\* The principle of freedom from want was equally acknowledged in the Indian village
 
-<sup>\*</sup> Mair, L. P., An African People in the Twentieth Century, 1934.
+\* Mair, L. P., An African People in the Twentieth Century, 1934.
 
-<sup>&</sup>lt;sup>1</sup> Loeb, E. M., "The Distribution and Function of Money in Early Society," in *Essays in Anthropology*, 1936.
+&lt;sup>1 Loeb, E. M., "The Distribution and Function of Money in Early Society," in *Essays in Anthropology*, 1936.
 
-<sup>\*</sup> Herskovits, M. J., The Economic Life of Primitive Peoples, 1940.
+\* Herskovits, M. J., The Economic Life of Primitive Peoples, 1940.
 
 community and, we might add, under almost every and any type of social organization up to about the beginning of sixteenth-century Europe, when the modern ideas on the poor put forth by the humanist Vives were argued before the Sorbonne. It is the absence of the threat of individual starvation which makes primitive society, in a sense, more humane than market economy, and at the same time less economic. Ironically, the white man's initial contribution to the black man's world mainly consisted in introducing him to the uses of the scourge of hunger. Thus the colonists may decide to cut the breadfruit trees down in order to create an artificial food scarcity or may impose a hut tax on the native to force him to barter away his labor. In either case the effect is similar to that of Tudor enclosures with their wake of vagrant hordes. A League of Nations report mentioned with due horror the recent appearance of that ominous figure of the sixteenthcentury European scene, the "masterless man," in the African bush.\* During the late Middle Ages he had been found only in the "interstices" of society.1 " Yet he was the forerunner of the nomadic laborer of the nineteenth century.\*
 
 Now, what the white man may still occasionally practice in remote regions today, namely, the smashing up of social structures in order to extract the element of labor from them, was done in the eighteenth century to white populations by white men for similar purposes. Hobbes's grotesque vision of the state—a human Leviathan whose vast body was made up of an infinite number of human bodies—was dwarfed by the Ricardian construct of the labor market: a flow of human lives the supply of which was regulated by the amount of food put at their disposal. Although it was acknowledged that there existed a customary standard below which no laborer's wages could sink, this limitation was thought to become effective only if the laborer was reduced to the choice of being left without food or of offering his labor in the market for the price it would fetch. This explains, incidentally, an otherwise inexplicable omission of the classical economists, namely, why only the penalty of starvation, not also the allurement of high wages, was deemed capable of creating a functioning labor market. Here also colonial experience confirmed their own. For the higher
 
-## <sup>\*</sup> Thurnwald, R. C, *op. cit.*
+## \* Thurnwald, R. C, *op. cit.*
 
-<sup>1</sup> Brinkmann, C, "Das soziale System des Kapitalismus," in *Grundriss der Sozialbkonomik,* 1924.
+1 Brinkmann, C, "Das soziale System des Kapitalismus," in *Grundriss der Sozialbkonomik,* 1924.
 
-<sup>\*</sup> Toynbee, A., *Lectures on the Industrial Revolution,* 1887, p. 98.
+\* Toynbee, A., *Lectures on the Industrial Revolution,* 1887, p. 98.
 
 ## *Market and Man [173]*
 
@@ -1430,7 +1475,7 @@ The protection of society, in the first instance, falls to the rulers, who can d
 
 By interest and inclination it fell to the landlords of England to protect the lives of the common people from the onrush of the Industrial Revolution. Speenhamland was a moat erected in defence of the traditional rural organization, when the turmoil of change was sweeping the countryside, and, incidentally, making agriculture a precarious industry. In their natural reluctance to bow to the needs of the manufacturing towns, the squires were the first to make a stand in what proved to be a century's losing fight. Yet their resistance was not in vain; it averted ruin for several generations and allowed time for almost complete readjustment. Over a critical span of forty years it re-
 
-<sup>\*</sup> Heckscher, E. R, *op. cit.,* Vol. II, p. 168.
+\* Heckscher, E. R, *op. cit.,* Vol. II, p. 168.
 
 tarded economic progress, and when, in 1834, the Reform Parliament abolished Speenhamland, the landlords shifted their resistance to the factory laws. The church and the manor were now rousing the people against the mill-owner whose predominance would make the cry for cheap food irresistible, and thus, indirectly, threaten to sap rents and tithes. Oastler, for one, was "a Churchman, a Tory, and a Protectionist"\*, moreover, he was also a Humanitarian. So were also, with varying mixtures of these ingredients of Tory socialism, the other great fighters in the factory movement: Sadler, Southey, and Lord Shaftesbury. But the premonition of threatening pecuniary losses which prompted the bulk of their followers proved only too well grounded: Manchester exporters were soon clamoring for lower wages involving cheaper grain—the repeal of Speenhamland and the growth of the factories actually prepared the way for the success of the Anti-Corn Law agitation, in 1846. Yet, for adventitious reasons, the ruin of agriculture was postponed in England for a whole generation. Meanwhile Disraeli grounded Tory socialism on a protest against the Poor Law Reform Act, and the conservative landlords of England forced radically new techniques of life upon an industrial society. The Ten Hours Bill of 1847, which Karl Marx hailed as the first victory of socialism, was the work of enlightened reactionaries.
 
@@ -1438,7 +1483,7 @@ The laboring people themselves were hardly a factor in this great movement the e
 
 There is a peculiar touch about the undirected excitements, the fumblings and blunders of a nascent class, the true nature of which history has long since revealed. Politically, the British working class was defined by the Parliamentary Reform Act of 1832, which refused them the vote; economically, by the Poor Law Reform Act of 1834, which excluded them from relief and distinguished them from the pauper. For some time to come the industrial working-class-to-be was uncertain
 
-<sup>\*</sup> Dicey, A. V., *op. cit.,* p. 226.
+\* Dicey, A. V., *op. cit.,* p. 226.
 
 ## *Market and Man [175]*
 
@@ -1452,7 +1497,7 @@ The strength of Owenism was that its inspiration was eminently practical, and ye
 
 Owenism was a religion of industry the bearer of which was the working class.\* Its wealth of forms and initiatives was unrivaled. Practically, it was the beginning of the modern trade union movement. Cooperative societies were founded, mainly engaged in retail to their members. These were not, of course, regular consumers' cooperatives, but rather stores backed by enthusiasts determined to devote the profits of the venture to the furtherance of Owenite plans, preferably to the establishment of Villages of Cooperation. "Their activities were quite as much educational and propagandist as commercial; their aim was the creation of the New Society by their associated effort." The "Union Shops" erected by members of trade unions were more in the nature of producers' cooperatives, unemployed artisans could find work there, or, in case of strikes, earn some money in lieu of strike pay. In the Owenite "Labor Exchange" the idea of the cooperative store was developed into an institution *sui generis.* At the heart of the Exchange or Bazaar there was reliance on the complementary nature of the
 
-<sup>\*</sup> Cole, G. D. H., *Robert Owen,* 1925, a work on which we have heavily drawn.
+\* Cole, G. D. H., *Robert Owen,* 1925, a work on which we have heavily drawn.
 
 ## *Market and Man [177]*
 
@@ -1464,13 +1509,13 @@ neighboring towns. The profits of New Lanark sprang mainly from the high product
 
 It was another tribute to his insight that in spite of this comprehensive outlook he grasped the incisive nature of the concrete physical facts dominating the laborer's existence. His religious sense revolted against the practical transcendentalism of a Hannah More and her Cheap Repository Tracts. One of them commended the example of a Lancashire colliery girl. She was taken down the pit, at the age of nine, to act as drawer with her brother, who was two years younger.\* "She cheerfully followed him [her father] down into the coal-pit, burying herself in the bowels of the earth, and there at a tender age, without excusing herself on account of her sex, she joined in the same work with the miners, a race of men rough indeed, but highly useful to the community." The father was killed by an accident down the pit in the sight of his children. She then applied for employment as a servant, but there was a prejudice against her because she had been a collier, and her application failed. Fortunately, by that comforting dispensation by which afflictions are turned into blessings, her bearing and patience attracted notice, inquiries were made at the colliery, and she received such a glowing character that she was taken into employment. "This story," the tract concluded, "may teach the poor that they can seldom be in any condition of life so low as to prevent their rising to some degree of independence if they choose to exert themselves, and there can be no situation whatever so mean as to forbid the practice of many noble virtues." The sisters More preferred to work among starving laborers, but refused so much as to be interested in their physical sufferings. They were inclined to solve the physical problem of industrialism by simply conferring status and function on the workers out of the plenitude of their magnanimity. Hannah More insisted that her heroine's father was a highly useful member of the community; the rank of his daughter was recognized by the acknowledgments of her employers.
 
-<sup>\*</sup> More, H., *The Lancashire Colliery Girl,* May, 1795; cf. Hammond, J. L. and B., *The Town Labourer,* 1917, p. 230.
+\* More, H., *The Lancashire Colliery Girl,* May, 1795; cf. Hammond, J. L. and B., *The Town Labourer,* 1917, p. 230.
 
 Hannah More believed that no more was needed for a functioning society.\* Robert Owen turned away from a Christianity which renounced the task of mastering the world of man, and preferred to extol the imaginary status and function of Hannah More's wretched heroine, instead of facing the awful revelation that transcended the New Testament, of man's condition in a complex society. Nobody can doubt the sincerity which inspired Hannah More's conviction that the more readily the poor acquiesced in their condition of degradation, the more easily they would turn to the heavenly solaces on which alone she relied both for their salvation and for the smooth functioning of a market society in which she firmly believed. But these empty husks of Christianity on which the inner life of the most generous of the upper classes was vegetating contrasted but poorly with the creative faith of that religion of industry in the spirit of which the common people of England were endeavouring to redeem society. However, capitalism had still a future in store.
 
 The Chartist Movement appealed to a set of impulses so different that its emergence after the practical failure of Owenism and its premature initiatives might have been almost predicted. It was a purely political effort which made a bid for influence on government through constitutional channels; its attempt to put pressure on the government was on the traditional lines of the Reform Movement which had secured the vote to the middle classes. The Six Points of the Charter demanded an effective popular suffrage. The uncompromising rigidity with which such an extension of the vote was rejected by the Reformed Parliament for a third of a century, the use of force in view of the mass support that was manifest for the Charter, the abhorrence in which the liberals of the 1840s held the idea of popular government all prove that the concept of democracy was foreign to the English middle classes. Only when the working class had accepted the principles of a capitalist economy and the trade unions had made the smooth running of industry their chief concern did the middle classes concede the vote to the better situated workers; that is, long after the Chartist Movement had subsided and it had become certain that the workers would not try to use the franchise in the service of any ideas of their own. From the
 
-<sup>\*</sup> Cf. Drucker, P. E, *The End of Economic Man,* 1939, p. 93, on the English Evangelicals; and *The Future of Industrial Man,* 1942, pp. 21 and 194, on status and function.
+\* Cf. Drucker, P. E, *The End of Economic Man,* 1939, p. 93, on the English Evangelicals; and *The Future of Industrial Man,* 1942, pp. 21 and 194, on status and function.
 
 ## *Market and Man* [ *181 ]*
 
@@ -1488,7 +1533,7 @@ Economistic preconceptions have blurred the outlines of the working-class proble
 
 The Continental worker needed protection not so much against the impact of the Industrial Revolution—in the social sense there never was such a thing on the Continent—as against the normal action of factory and labor market conditions. He achieved it mainly by the help of legislation, while his British comrades relied more on voluntary association—trade unions—and their power to monopolize labor. Social insurance came, relatively, very much sooner on the Continent than in England. The difference was readily explained by the Continental's political bent, and by the comparatively early extension of the vote to the working masses on the Continent. While economically the difference between compulsory and voluntary methods of protection—legislation versus unionism—can be easily overrated, politically its consequences were great. On the Continent trade unions were a creation of the political party of the working class; in England the political party was a creation of the trade unions. While on the Continent unionism became more or less socialist, in England even political socialism remained essentially trade unionist. Universal suffrage, therefore, which in England tended to increase national unity, had sometimes the opposite effect on the Continent. There,
 
-<sup>\*</sup> Knowles, L., *Industrial and Commercial Revolutions in Great Britain during the Nineteenth Century,* 1926.
+\* Knowles, L., *Industrial and Commercial Revolutions in Great Britain during the Nineteenth Century,* 1926.
 
 ## *Market and Man [185]*
 
@@ -1518,15 +1563,15 @@ Commercialization of the soil was only another name for the liquidation of feuda
 
 empted land from commerce or mortgage."\* Some of this was achieved by individual force and violence, some by revolution from above or below, some by war and conquest, some by legislative action, some by administrative pressure, some by spontaneous small-scale action of private persons over long stretches of time. Whether the dislocation was swiftly healed or whether it caused an open wound in the body social depended primarily on the measures taken to regulate the process. Powerful factors of change and adjustment were introduced by the governments themselves. Secularization of church lands, for instance, was one of the fundaments of the modern state up to the time of the Italian *Risorgimento* and, incidentally, one of the chief means of the ordered transference of land into the hands of private individuals.
 
-The biggest single steps were taken by the French Revolution and by the Benthamite reforms of the 1830s and 1840s. "The condition most favourable to the prosperity of agriculture exists," wrote Bentham, "when there are no entails, no unalienable endowments, no common lands, no right or redemptions, no tithes...." Such freedom in dealing with property, and especially property in land, formed an essential part of the Benthamite conception of individual liberty. To extend this freedom in one way or another was the aim and effect of legislation such as the Prescriptions Acts, the Inheritance Act, the Fines and Recoveries Act, the Real Property Act, the general Enclosure Act of 1801 and its successors,<sup>1</sup> as well as the Copyhold Acts from 1841 up to 1926. In France and parts of the Continent the *Code Napoleon* instituted middle-class forms of property, making land a commerciable good and making mortgage a private civil contract.
+The biggest single steps were taken by the French Revolution and by the Benthamite reforms of the 1830s and 1840s. "The condition most favourable to the prosperity of agriculture exists," wrote Bentham, "when there are no entails, no unalienable endowments, no common lands, no right or redemptions, no tithes...." Such freedom in dealing with property, and especially property in land, formed an essential part of the Benthamite conception of individual liberty. To extend this freedom in one way or another was the aim and effect of legislation such as the Prescriptions Acts, the Inheritance Act, the Fines and Recoveries Act, the Real Property Act, the general Enclosure Act of 1801 and its successors,1 as well as the Copyhold Acts from 1841 up to 1926. In France and parts of the Continent the *Code Napoleon* instituted middle-class forms of property, making land a commerciable good and making mortgage a private civil contract.
 
 The second step, overlapping the first, was the subordination of land to the needs of a swiftly expanding urban population. Although the soil cannot be physically mobilized, its produce can, if transportation facilities and the law permit. *"Thus the mobility of goods to some extent compensates the lack of interregional mobility of the factors;* or (what is really the same thing) trade mitigates the disadvantages of the unsuitable geographical distribution of the productive facilities."\* Such a notion was entirely foreign to the traditional outlook. "Neither with the ancients, nor during the early Middle Ages—this should be
 
-<sup>\*</sup> Brinkmann, C, "Das soziale System des Kapitalismus," in *Grundriss der Sozialokonomik,* 1924.
+\* Brinkmann, C, "Das soziale System des Kapitalismus," in *Grundriss der Sozialokonomik,* 1924.
 
-<sup>1</sup> Dicey, A. V., *op. cit.,* p. 226.
+1 Dicey, A. V., *op. cit.,* p. 226.
 
-<sup>\*</sup> Ohlin, B., *Interregional and International Trade,* 1935, p. 42.
+\* Ohlin, B., *Interregional and International Trade,* 1935, p. 42.
 
 emphatically asserted—were the goods of every day life regularly bought and sold."\* Surpluses of grain were supposed to provision the neighborhood, especially the local town; corn markets up to the fifteenth century had a strictly local organization. But the growth of towns induced landlords to produce primarily for sale on the market and—in England—the growth of the metropolis compelled authorities to loosen the restrictions on the corn trade and allow it to become regional, though never national.
 
@@ -1540,7 +1585,7 @@ In the advent of the labor market common law played mainly a positive part—the
 
 But, in respect to land, the common law shifted its role; it first encouraged, later opposed change. During the sixteenth and seventeenth centuries, more often than not common law insisted on the
 
-<sup>\*</sup> Biicher, K., *Entstehungder Volkswirtschaft,* 1904. Cf. also Penrose, E. R, *Population Theories and Their Application,* 1934; quotes Longfield, 1834, for the first mention of the idea that movements of commodities maybe regarded as substitutes for movements of the factors of production.
+\* Biicher, K., *Entstehungder Volkswirtschaft,* 1904. Cf. also Penrose, E. R, *Population Theories and Their Application,* 1934; quotes Longfield, 1834, for the first mention of the idea that movements of commodities maybe regarded as substitutes for movements of the factors of production.
 
 ## *Market and Nature* [ *191 ]*
 
@@ -1550,7 +1595,7 @@ The inertia of the common law was now deliberately enhanced by statutes expressl
 
 Presently, the problem of protection arose in regard to the agricultural populations of whole countries and continents. International free trade, if unchecked, must necessarily eliminate ever-larger compact bodies of agricultural producers.\* This inevitable process of destruction was very much aggravated by the inherent discontinuity in the development of modern means of transportation, which are too expensive to be extended into new regions of the planet unless the prize to be gained is high. Once the great investments involved in the building of steamships and railroads came to fruition, whole conti-
 
-<sup>\*</sup> Borkenau, R, "Towards Collectivism," in *The Totalitarian Enemy,* 1939.
+\* Borkenau, R, "Towards Collectivism," in *The Totalitarian Enemy,* 1939.
 
 nents were opened up and an avalanche of grain descended upon unhappy Europe. This was contrary to classical prognostication. Ricardo had erected it into an axiom that the most fertile land was settled first. This was turned to scorn in a spectacular manner when the railways found more fertile land in the antipodes. Central Europe, facing utter destruction of its rural society, was forced to protect its peasantry by introducing corn laws.
 
@@ -1564,7 +1609,7 @@ nation, according to which functionless institutions or traits may continue to e
 
 The economic argument could be easily expanded so as to include the conditions of safety and security attached to the integrity of the soil and its resources—such as the vigor and stamina of the population, the abundance of food supplies, the amount and character of defence materials, even the climate of the country which might suffer from the denudation of forests, from erosions and dust bowls, all of which, ultimately, depend upon the factor land, yet none of which respond to the supply-and-demand mechanism of the market. Given a system entirely dependent upon market functions for the safeguarding of its existential needs, confidence will naturally turn to such forces outside the market system which are capable of ensuring common interests jeopardized by that system. Such a view is in keeping with our appreciation of the true sources of class influence: instead of
 
-<sup>\*</sup> Hawtrey, R. G., *The Economic Problem,* 1933.
+\* Hawtrey, R. G., *The Economic Problem,* 1933.
 
 trying to explain developments that run counter to the general trend of the time by the (unexplained) influence of reactionary classes, we prefer to explain the influence of such classes by the fact that they, even though incidentally, stand for developments only seemingly contrary to the general interest of the community. That their own interests are often all too well served by such a policy offers only another illustration of the truth that classes manage to profit disproportionately from the services they may happen to render to the commonalty.
 
@@ -1584,7 +1629,7 @@ But army and church gained prestige also by being available for the "defence of 
 
 The history of the 1920s would be otherwise inexplicable. When, in Central Europe, the social structure broke down under the strain of war and defeat, the working class alone was available for the task of keeping things going. Everywhere power was thrust upon the trade unions and Social Democratic parties: Austria, Hungary, even Germany, were declared republics although no active republican party had ever been known to exist in any of these countries before. But hardly had the acute danger of dissolution passed and the services of the trade unions become superfluous than the middle classes tried to exclude the working class from all influence on public life. This is known as the counterrevolutionary phase of the postwar period. Actually, there was never any serious danger of a Communist regime since the workers were organized in parties and unions actively hostile
 
-<sup>\*</sup> Trevelyan, G. M., *History of England,* 1926, p. 533. "England under Walpole was still an aristocracy, tempered by rioting." Hannah More's "repository" song, "The Riot," was written "in ninety-five, a year of scarcity and alarm"—it was the year of Speenhamland. Cf. *The Repository Tracts,* Vol. I, New York, 1835. Also *The Library,* 1940, fourth series, Vol. XX, p. 295, on "Cheap Repository Tracts (1795-98)."
+\* Trevelyan, G. M., *History of England,* 1926, p. 533. "England under Walpole was still an aristocracy, tempered by rioting." Hannah More's "repository" song, "The Riot," was written "in ninety-five, a year of scarcity and alarm"—it was the year of Speenhamland. Cf. *The Repository Tracts,* Vol. I, New York, 1835. Also *The Library,* 1940, fourth series, Vol. XX, p. 295, on "Cheap Repository Tracts (1795-98)."
 
 ## *Market and Nature [197]*
 
@@ -1592,7 +1637,7 @@ to the Communists. (Hungary had a Bolshevik episode literally forced upon the co
 
 The fierce agrarianism of postwar Europe was a side light on the preferential treatment accorded to the peasant class for political reasons. From the Lappo movement in Finland to the Austrian *Heimwehr* the peasants proved the champions of market economy; this made them politically indispensable. The scarcity of food in the first postwar years to which their ascendency was sometimes credited had little to do with this. Austria, for instance, in order to benefit the peasants financially, had to lower her food standards by maintaining duties for grain, though she was heavily dependent upon imports for her food requirements. But the peasant interest had to be safeguarded at all cost even though agrarian protectionism might mean misery to the towndwellers and an unreasonably high cost of production to the exporting industries. The formerly uninfluential class of peasants gained in this manner an ascendency quite disproportionate to their economic importance. Fear of Bolshevism was the force which made their political position impregnable. And yet that fear, as we saw, was not fear of a working-class dictatorship—nothing faintly similar was on the horizon—but rather the dread of a paralysis of market economy, unless all forces were eliminated from the political scene that, under duress, might set aside the rules of the market game. As long as the peasants were the only class able to eliminate these forces, their prestige stood
 
-<sup>\*</sup> Hayes, C, *A Generation of Materialism, 18/0-1890,* remarks that "most of the individual States, at least in Western and Central Europe, now possessed a seemingly superlative internal stability."
+\* Hayes, C, *A Generation of Materialism, 18/0-1890,* remarks that "most of the individual States, at least in Western and Central Europe, now possessed a seemingly superlative internal stability."
 
 high and they could hold the urban middle class in ransom. As soon as the consolidation of the power of the state and—even before that the forming of the urban lower middle class into storm troops by the fascists, freed the bourgeoisie from dependence upon the peasantry, the latter's prestige was quickly deflated. Once the "internal enemy" in town and factory had been neutralized or subdued, the peasantry was relegated to its former modest position in industrial society.
 
@@ -1652,7 +1697,7 @@ While the commodity money theorem was far superior to its rival in the nineteent
 
 To turn from mechanisms and concepts to the social forces in play, it is important to realize that the ruling classes themselves lent their support to the management of the currency through the central bank. Such management was not, of course, regarded as an interference with the institution of the gold standard; on the contrary, it was part of the rules of the game under which the gold standard was supposed to function. Since maintenance of the gold standard was axiomatic and the central banking mechanism was never allowed to act in such a way as to make a country go off gold, but, on the contrary, the supreme directive of the bank was always and under all conditions to stay on gold, no question of principle seemed to be involved. But this was so only as long as the movements of the price level involved were the paltry 2-3 percent, at the most, that separated the so-called gold points. As soon as the movement of the internal price level necessary to keep the exchanges stable was much larger, when it jumped to 10 percent or 30
 
-<sup>\*</sup> The underlying theory has been elaborated by F. Schafer, Wellington, New Zealand.
+\* The underlying theory has been elaborated by F. Schafer, Wellington, New Zealand.
 
 percent, the situation was entirely changed. Such downward movements of the price level would spread misery and destruction. The fact that currencies were managed became of prime importance, since it meant that central banking methods were a matter of policy, i.e., something the body politic might have to decide about. Indeed, the great institutional significance of central banking lay in the fact that monetary policy was thereby drawn into the sphere of politics. The consequences could not be other than far reaching.
 
@@ -1698,7 +1743,7 @@ Labor and land accounted, primarily, for social legislation and corn duties, res
 
 Internal and external, social and national protectionism tended to fuse.\* The rising cost of living induced by corn laws invited the manufacturer's demand for protective tariffs, which he rarely failed to utilize as an implement of cartel policy. Trade unions naturally insisted on higher wages to compensate for an increased cost of living, and could not well object to such customs tariffs as permitted the employer to meet an inflated wage bill. But once the accountancy of social legislation had been based on a wage level conditioned by tariffs, employers could not in fairness be expected to carry the burden of such legislation unless they were assured of continued protection. Incidentally, this was the slender factual basis of the charge of collectivist conspiracy allegedly responsible for the protectionist movement. But this mistook effect for cause. The origins of the movement were spontaneous and widely dispersed, but once started it could not, of course, fail
 
-<sup>\*</sup> Carr, E. H., *The Twenty Years' Crisis, 1919-1939,*1940.
+\* Carr, E. H., *The Twenty Years' Crisis, 1919-1939,*1940.
 
 to create parallel interests which were committed to its continuation.
 
@@ -1736,7 +1781,7 @@ The nearest approach to the realization of the true position was perhaps the rhe
 
 The liberal argument, in so far as it became articulate, asserted that sometime in the early 1880s imperialist passions began to stir in the
 
-<sup>\*</sup> Haberler, G., *Der internationale Handel,* 1933, p. vi.
+\* Haberler, G., *Der internationale Handel,* 1933, p. vi.
 
 Western countries, and destroyed the fruitful work of economic thinkers by their emotional appeal to tribal prejudice. These sentimental policies gradually gathered strength and finally led to World War I. After the Great War the forces of Enlightenment had another chance of restoring the reign of reason but an unexpected outburst of imperialism, especially on the part of the small new countries, later on also of the "have-nots," such as Germany, Italy, and Japan, upset the wagon of progress. The "crafty animal," the politician, had defeated the brain centers of the race—Geneva, Wall Street, and the City of London.
 
@@ -1770,7 +1815,7 @@ All Western countries followed the same trend, irrespective of national mentalit
 
 Whether protection was justified or not, a debility of the world market system was brought to light by the effects of interventions. The import tariffs of one country hampered the exports of another and forced it to seek for markets in politically unprotected regions. Economic imperialism was mainly a struggle between the Powers for the privilege of extending their trade into politically unprotected mar-
 
-<sup>\*</sup> G. D. H. Cole calls the 1870s "by far the most active period for social legislation of the entire nineteenth century."
+\* G. D. H. Cole calls the 1870s "by far the most active period for social legislation of the entire nineteenth century."
 
 kets. Export pressure was reinforced by a scramble for raw material supplies caused by the manufacturing fever. Governments lent support to their nationals engaged in business in backward countries. Trade and flag were racing in one another's wake. Imperialism and half-conscious preparation for autarchy were the bent of Powers which found themselves more and more dependent upon an increasingly unreliable system of world economy. And yet rigid maintenance of the integrity of the international gold standard was imperative. This was one institutional source of disruption.
 
@@ -1816,9 +1861,9 @@ In England it became the unwritten law of the Constitution that the working clas
 
 The experience of the labor issue was repeated on the currency issue. Here also the 1920s were foreshadowed by the 1790s. Bentham was the first to recognize that inflation and deflation were interventions with the right of property: the former a tax on, the latter an interference with, business^ Ever since then labor and money, unemployment and inflation have been politically in the same category. Cobbett denounced the gold standard together with the New Poor Law; Ricardo
 
-<sup>\*</sup> Hadley,A. T., *Economics: An Account of'the Relations between Private Property and Public Welfare,* 1896.
+\* Hadley,A. T., *Economics: An Account of'the Relations between Private Property and Public Welfare,* 1896.
 
-<sup>1</sup> Bentham, J., *Manual of Political Economy,* p. 44, on inflation as "forced frugality"; p. 45 (footnote) as "indirect taxation." Cf. also *Principles of Civil Code,* Ch. 15.
+1 Bentham, J., *Manual of Political Economy,* p. 44, on inflation as "forced frugality"; p. 45 (footnote) as "indirect taxation." Cf. also *Principles of Civil Code,* Ch. 15.
 
 fought for both, with very similar arguments, labor as well as money being commodities and the government having no right to interfere with either. Bankers who opposed the introduction of the gold standard, like Atwood of Birmingham, found themselves on the same side with socialists, like Owen. And a century later Mises was still reiterating that labor and money were no more a concern of the government than any other commodity on the market. In eighteenth-century prefederation America cheap money was the equivalent of Speenhamland, that is, an economically demoralizing concession made by government to popular needs. The French Revolution and its *assignats* showed that the people might smash the currency, and the history of the American states did not help to dispel that suspicion. Burke identified American democracy with currency troubles and Hamilton feared not only factions but also inflation. But while in nineteenthcentury America the bickerings of populists and greenback parties with Wall Street magnates were endemic, in Europe the charge of inflationism became an effective argument against democratic legislatures only in the 1920s, with far-reaching political consequences.
 
@@ -1850,7 +1895,7 @@ The achievement of Geneva was remarkable in its way. Had the aim not been intrin
 
 But even more was involved. During the 1920s, according to Geneva, questions of social organization had to be wholly subordinated to the needs of the restoration of the currency. Deflation was the primary need; domestic institutions had to adjust as best they might. For the time being, even the restoration of free internal markets and of the liberal state had to be postponed. For in the words of the Gold Delegation, deflation had failed "to affect certain classes of goods and services, and failed, therefore, to bring about a stable new equilibrium." Governments had to intervene in order to reduce prices of monopoly articles, to reduce agreed wage schedules, and to cut rents. The deflationist's ideal came to be a "free economy under a strong government"; but while the phrase on government meant what it said, namely, emergency powers and suspension of public liberties, "free economy" meant in practice the opposite of what it said, namely, governmentally adjusted prices and wages (though the adjustment was made with the express purpose of restoring the freedom of the exchanges and free internal markets). Primacy of exchanges involved no less a sacrifice than that of free markets and free governments—the two pillars of liberal capitalism. Geneva thus represented a change in aim, but no change in method: while the inflationary governments condemned by Geneva subordinated the stability of the currency to stability of incomes and employment, the deflationary governments put in power by Geneva used no fewer interventions in order to subordinate the stability of incomes and employment to the stability of the
 
-<sup>\*</sup> Polanyi, K., "Der Mechanismus der Weltwirtschaftskrise," *Der Osterreichische Volkswirt,* 1933 (Supplement).
+\* Polanyi, K., "Der Mechanismus der Weltwirtschaftskrise," *Der Osterreichische Volkswirt,* 1933 (Supplement).
 
 currency. In 1932 the Report of the Gold Delegation of the League of Nations declared that with the return of the exchange uncertainty the main monetary achievement of the past decade had been eliminated. What the report did not say was that in the course of these vain deflationary efforts free markets had not been restored though free governments *had* been sacrificed. Though opposed in theory to interventionism and inflation alike, economic liberals had chosen between the two and set the sound-currency ideal above that of nonintervention. In so doing they followed the logic inherent in a self-regulating economy. Yet such a course of action tended to spread the crisis, it burdened finance with the unbearable strain of massive economic dislocation, and it heaped up the deficits of the various national economies to the point where a disruption of the remnants of international division of labor became inevitable. The stubbornness with which economic liberals, for a critical decade, had, in the service of deflationary policies, supported authoritarian interventionism, merely resulted in a decisive weakening of the democratic forces which might otherwise have averted the fascist catastrophe. Great Britain and the United States masters not servants of the currency—went off gold in time to escape this peril.
 
@@ -1872,7 +1917,7 @@ The fascist solution of the impasse reached by liberal capitalism can be describ
 
 The appearance of such a movement in the industrial countries of the globe, and even in a number of only slightly industrialized ones, should never have been ascribed to local causes, national mentalities, or historical backgrounds as was so consistently done by contemporaries. Fascism had as little to do with the Great War as with the Versailles Treaty, with Junker militarism as with the Italian temperament. The movement appeared in defeated countries like Bulgaria and in victorious ones like Jugoslavia, in countries of Northern temperament like Finland and Norway and of Southern temperament like
 
-<sup>\*</sup> Polanyi, K., "The Essence of Fascism," in *Christianity and the Social Revolution,* 1935-
+\* Polanyi, K., "The Essence of Fascism," in *Christianity and the Social Revolution,* 1935-
 
 Italy and Spain, in countries of Aryan race like England, Ireland, or Belgium and non-Aryan race like Japan, Hungary, or Palestine, in countries of Catholic traditions like Portugal and in Protestant ones like Holland, in soldierly communities like Prussia and civilian ones like Austria, in old cultures like France and new ones like the United States and the Latin-American countries. In fact, there was no type of background—of religious, cultural, or national tradition—that made a country immune to fascism, once the conditions for its emergence were given.
 
@@ -1894,15 +1939,15 @@ Yet it used this issue only as a stepping-stone; at other times it struck the pa
 
 In its struggle for political power fascism is entirely free to disregard or to use local issues, at will. Its aim transcends the political and economic framework: it is social. It puts a political religion into the service of a degenerative process. In its rise it excludes only a very few emotions from its orchestra; yet once victorious it bars from the band wagon all but a very small group of motivations, though again extremely characteristic ones. Unless we distinguish closely between this pseudo-intolerance on the road to power and the genuine intolerance in power, we can hardly hope to understand the subtle but decisive difference between the sham-nationalism of some fascist movements during the revolution, and the specifically imperialistic nonnationalism which they developed after the revolution.\*
 
-While conservatives were as a rule successful in carrying the domestic counterrevolutions alone, they were but rarely able to bring the national-international problem of their countries to an issue. Briining maintained in 1940 that German reparations and disarmament had been solved by him before the "clique around Hindenburg" decided to put him out of office and to hand over power to the Nazis, the reason for their action being that they did not want the honors to go to him.<sup>f</sup> Whether, in a very limited sense, this was so or not seems immaterial, since the question of Germany's equality of status was not restricted to technical disarmament, as Briining implied, but included the equally vital question of demilitarization; also, it was not really possible to disregard the strength which German diplomacy drew from the existence of Nazi masses sworn to radical nationalist policies. Events proved conclusively that Germany's equality of status could not have been attained without a revolutionary departure, and it is in this light that the awful responsibility of Nazism, which committed a free and equal Germany to a career of crime, becomes apparent. Both in Germany and in Italy fascism could seize power only because it was able to use as its lever unsolved national issues, while in France as in Great Britain fascism was decisively weakened by its antipatriotism. Only in small and naturally dependent countries could the spirit of subservience to a foreign power prove an asset to fascism.
+While conservatives were as a rule successful in carrying the domestic counterrevolutions alone, they were but rarely able to bring the national-international problem of their countries to an issue. Briining maintained in 1940 that German reparations and disarmament had been solved by him before the "clique around Hindenburg" decided to put him out of office and to hand over power to the Nazis, the reason for their action being that they did not want the honors to go to him.f Whether, in a very limited sense, this was so or not seems immaterial, since the question of Germany's equality of status was not restricted to technical disarmament, as Briining implied, but included the equally vital question of demilitarization; also, it was not really possible to disregard the strength which German diplomacy drew from the existence of Nazi masses sworn to radical nationalist policies. Events proved conclusively that Germany's equality of status could not have been attained without a revolutionary departure, and it is in this light that the awful responsibility of Nazism, which committed a free and equal Germany to a career of crime, becomes apparent. Both in Germany and in Italy fascism could seize power only because it was able to use as its lever unsolved national issues, while in France as in Great Britain fascism was decisively weakened by its antipatriotism. Only in small and naturally dependent countries could the spirit of subservience to a foreign power prove an asset to fascism.
 
 By accident only, as we see, was European fascism in the 1920s connected with national and counterrevolutionary tendencies. It was a case of symbiosis between movements of independent origin, which reinforced one another and created the impression of essential similarity, while being actually unrelated.
 
 In reality, the part played by fascism was determined by one factor: the condition of the market system.
 
-<sup>\*</sup> Rauschning, *H.,The Voice oj'Destruction,* 1940.
+\* Rauschning, *H.,The Voice oj'Destruction,* 1940.
 
-<sup>1</sup> Heymann, H., *Plan for Permanent Peace,* 1941. Cf. Briining's letter of January 8, 1940.
+1 Heymann, H., *Plan for Permanent Peace,* 1941. Cf. Briining's letter of January 8, 1940.
 
 During the period 1917-23 governments occasionally sought fascist help to restore law and order: no more was needed to set the market system going. Fascism remained undeveloped.
 
@@ -1932,7 +1977,7 @@ Germany reaped the advantages of those who help to kill that which is doomed to 
 
 Her greatest political asset, however, lay in her ability to compel
 
-<sup>\*</sup> *British Blue Book,* No. 74, Cmd. 6106,1939.
+\* *British Blue Book,* No. 74, Cmd. 6106,1939.
 
 the countries of the world into an alignment against Bolshevism. She made herself the foremost beneficiary of the transformation by taking the lead in that solution of the problem of market economy which for a long time appeared to enlist the unconditional allegiance of the propertied classes, and indeed not always of these alone. Under the liberal and Marxist assumption of the primacy of economic class interests, Hitler was bound to win. But the social unit of the nation proved, in the long run, even more cohesive than the economic unit of class.
 
@@ -2096,7 +2141,8 @@ The imbalance of *the first* group was carried for a time by the second. As soon
 
 The swing of the pendulum after World War I was general and swift, but its amplitude was small. In the great maj ority of countries of Central and Eastern Europe the period 1918-23 merely brought a conservative restoration following upon a democratic (or socialist) republic, the outcome of defeat; several years later almost universally one-party governments were established. And again, the movement was fairly general.
 
-| Country | Revolution | Counterrevolution | One-party<br>government |
+| Country | Revolution | Counterrevolution | One-party
+government |
 |------------|------------------------------|--------------------------------------|-------------------------|
 | Austria | Oct. 1928 soc. dem. republic | 1920 middle-class republic | 1934 |
 | Bulgaria | Oct. 1918 radical agrarian | 1923 fascist counter | 1934 |
@@ -2106,7 +2152,8 @@ The swing of the pendulum after World War I was general and swift, but its ampli
 | Germany | Nov. 1918 soc. dem. republic | 1920 middle-class republic | 1933 |
 | Hungary | Oct. 1918 dem. rep. | 1919 counterrevolution | — |
 | | Mar. 1919 Soviets | | |
-| Jugoslavia | 1918 democratic federation | 1926 authoritarian military<br>state | 1929 |
+| Jugoslavia | 1918 democratic federation | 1926 authoritarian military
+state | 1929 |
 | Latvia | 1917 socialist republic | 1918 middle-class republic | 1934 |
 | Lithuania | 1917 socialist republic | 1918 middle-class republic | 1926 |
 | Poland | 1919 soc. dem. republic | 1926 authoritarian state | — |

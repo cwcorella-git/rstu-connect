@@ -1,3 +1,8 @@
+---
+title: "how europe underdeveloped AFRICA"
+category: "international-solidarity"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 ## ![](_page_1_Picture_0.jpeg)
@@ -258,13 +263,13 @@ Anything less is inadequate for the perilous times. Anything less would be unwor
 
 ## VINCENT HARDING ROBERT HILL WILLIAM STRICKLAND
 
-<sup>\\*</sup>The dissertation was published by Clarendon Press in 1970, and recently reprinted in paperback by *Monthly Review Press*.
+\\*The dissertation was published by Clarendon Press in 1970, and recently reprinted in paperback by *Monthly Review Press*.
 
-<sup>\\*</sup>The new press was named after Paul Bogle, the leader of the 1865 Morant Bay rebellion in Jamaica and Toussaint L'Ouverture, the Haitian leader. Among those most actively involved in the endeavor were Andrew Salkey, Jessica and Eric Huntley, Richard Small, John La Rose, Selma James, Earl Greenwood and Chris Le Maitre. Not long after Rodney's assassination, Bogle-L'Ouverture Book Store was renamed the Walter Rodnev Book Store.
+\\*The new press was named after Paul Bogle, the leader of the 1865 Morant Bay rebellion in Jamaica and Toussaint L'Ouverture, the Haitian leader. Among those most actively involved in the endeavor were Andrew Salkey, Jessica and Eric Huntley, Richard Small, John La Rose, Selma James, Earl Greenwood and Chris Le Maitre. Not long after Rodney's assassination, Bogle-L'Ouverture Book Store was renamed the Walter Rodnev Book Store.
 
-<sup>\\*</sup>Among the colleagues who participated in the Summer Research Symposium (SRS) were C. L. R. James, St. Clair Drake, Katherine Dunham, George Beckford, Edward Braithwaite, Lerone Bennett, Mary Berry, Tran Van Dinh, Mack Jones and Frank Smith.
+\\*Among the colleagues who participated in the Summer Research Symposium (SRS) were C. L. R. James, St. Clair Drake, Katherine Dunham, George Beckford, Edward Braithwaite, Lerone Bennett, Mary Berry, Tran Van Dinh, Mack Jones and Frank Smith.
 
-<sup>\\*</sup>Known as the "Referendum Five," they included Walter Rodney, Rupert Roopnarine, Maurice Omawale, Kwame Apata and Karen De Souza. All five were denied trial by jury.
+\\*Known as the "Referendum Five," they included Walter Rodney, Rupert Roopnarine, Maurice Omawale, Kwame Apata and Karen De Souza. All five were denied trial by jury.
 
 # **CHAPTER**
 
@@ -356,19 +361,32 @@ The following table gives a clear picture of the gap between Africa and certain 
 
 The gap that can be seen from the evidence is not only great, but it is also increasing. Many people have come to realize that the developed countries are growing richer quite rapidly, while underdeveloped countries for the most part show stagnancy or slow rates of growth. In each country, a figure can be calculated to represent the rate at which the economy grows. The growth rate is highest in socialist countries, followed by the big capitalist countries, and with the colonies and ex-colonies trailing far behind. The proportion of international trade which is in the hands of the underdeveloped countries is declining. That proportion was roughly 30 per cent in 1938 and went down to less than 20 per cent in the 1960s. This is an important indicator because trade is both a reflection of the quantity of goods produced and a way of obtaining goods not locally produced.
 
-| Countries | Per<br>Capita<br>Income<br>in<br>U. S.<br>Dollar | | |
+| Countries | Per
+Capita
+Income
+in
+U. S.
+Dollar | | |
 |----------------------------|-------------------------------------------------|--|--|
 | Canada | 2,247 | | |
 | U. S. A. | 3,578 | | |
-| France | 1,738<br>(1967) | | |
-| United<br>Kingdom | 1,560<br>(1967) | | |
-| AFRICA<br>as<br>a<br>whole | 140<br>(1965) | | |
+| France | 1,738
+(1967) | | |
+| United
+Kingdom | 1,560
+(1967) | | |
+| AFRICA
+as
+a
+whole | 140
+(1965) | | |
 | Congo | 52 | | |
 | Ghana | 198 | | |
 | Kenya | 107 | | |
 | Malawi | 52 | | |
 | Morocco | 185 | | |
-| South<br>Africa | 543 | | |
+| South
+Africa | 543 | | |
 | Tanzania | 62 | | |
 | U. A. R. | 156 | | |
 ## | Zambia | 225 | | |
@@ -491,7 +509,8 @@ SAMIR AMIN, *The Class Struggle in Africa*. Cambridge, Mass.: Africa Research Gr
 
 Samir Amin is a North African. He stands out with regard both to the volume of his productions and the quality of his insights. The text cited above is very general—covering in outline the period of the roots of
 
-| development in ancient Africa right up to the present and the projected socialist future. It is likely that more of<br>his work will be translated into English (French being his working language). | | | | | |
+| development in ancient Africa right up to the present and the projected socialist future. It is likely that more of
+his work will be translated into English (French being his working language). | | | | | |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|--|--|--|--|
 | | | | | | |
 | | | | | | |
@@ -785,7 +804,7 @@ African historians have begun to provide syntheses of the continent's history by
 - G. J. AFOLABI OJO, *Yoruba Culture, a Geographical Analysis*. London: University of London Press, 1967.
 - B. M. FAGAN, *Southern Africa during the Iron Age*. New York: Praeger, 1965. What these two dissimilar books have in common is an awareness of the material environment. Afolabi Ojo is a Nigerian geographer and B. M. Fagan is an English archaeologist.
 
-<sup>\\*</sup> In Europe, communalism gave way to slavery, and therefore dynasties and strong states were present on the eve of the slavery epoch.
+\\* In Europe, communalism gave way to slavery, and therefore dynasties and strong states were present on the eve of the slavery epoch.
 
 # **CHAPTER**
 
@@ -1813,9 +1832,9 @@ PIERRE JALÉE, *The Pillage of the Third World*. New York: Monthly Review Press,
 
 These (Marxist) texts specifically about Africa and the exploited sector of the capitalist world do make the point that the metropoles were extracting huge colonial surpluses.
 
-<sup>\\*</sup>As is well known, those conditions still operate. However, this chapter presents matters in the past tense to picture the colonial epoch.
+\\*As is well known, those conditions still operate. However, this chapter presents matters in the past tense to picture the colonial epoch.
 
-<sup>\\*</sup>These facts came most dramatically to the attention of the outside world when Africans resorted to violence. For example, forced cultivation of cotton was a major grievance behind the outbreak of Maji Maji wars in Tanganyika and behind the nationalist revolt in Angola as late as 1960.
+\\*These facts came most dramatically to the attention of the outside world when Africans resorted to violence. For example, forced cultivation of cotton was a major grievance behind the outbreak of Maji Maji wars in Tanganyika and behind the nationalist revolt in Angola as late as 1960.
 
 # **CHAPTER**
 

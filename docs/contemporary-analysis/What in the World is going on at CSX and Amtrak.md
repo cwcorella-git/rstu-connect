@@ -1,3 +1,8 @@
+---
+title: "## **What in the World is going on at CSX and Amtrak?**"
+category: "contemporary-analysis"
+---
+
 ## **What in the World is going on at CSX and Amtrak?**
 
 | Date: Wed, 02/07/2018 - 18:06 |
@@ -7,7 +12,8 @@
 | By John Paul Wright - |
 | Railroad Workers United |
 | , February 7, 2018 |
-| The latest round of tragic incidents at CSX and AMTRAK is causing a number of news outlets<br>to reach out to |
+| The latest round of tragic incidents at CSX and AMTRAK is causing a number of news outlets
+to reach out to |
 | Railroad Workers United |
 | to gain a rank & file worker perspective. In the past few months, RWU has been contacted by |
 | The Wall Street Journal |

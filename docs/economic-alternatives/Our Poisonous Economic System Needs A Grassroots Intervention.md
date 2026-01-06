@@ -1,9 +1,15 @@
+---
+title: "## **Our Poisonous Economic System Needs A Grassroots Intervention**"
+category: "economic-alternatives"
+---
+
 ## **Our Poisonous Economic System Needs A Grassroots Intervention**
 
 | Date: Tue, 11/08/2016 - 09:55 |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Source: https://ecology.iww.org/node/1899|
-| Tags: climate justice, System Change not Climate Change (SCnCC), movement politics, green<br>unionism, just transition, indigenous |
+| Tags: climate justice, System Change not Climate Change (SCnCC), movement politics, green
+unionism, just transition, indigenous |
 | By Taj James - |
 | The Leap |
 | , November 2, 2016 |
@@ -11,7 +17,8 @@
 | climate deal |
 | seeking to phase out the greenhouse gases known as HFCs. And this Friday, the non-binding |
 | Paris Agreement |
-| will officially enter into force for seventy-six nations, which have made voluntary pledges to<br>keep global temperature rise below 2 degrees Celsius and if possible, below 1.5°C. |
+| will officially enter into force for seventy-six nations, which have made voluntary pledges to
+keep global temperature rise below 2 degrees Celsius and if possible, below 1.5°C. |
 
 These agreements are important, but they are not enough to save us. That is because admitting a problem is only the first step. To move forward, we must also properly diagnose and get to the root of the problem.
 
@@ -40,7 +47,8 @@ Thankfully, people all over the world are rising up to release their governments
 | and other states on the path to |
 | 100% clean energy |
 | |
-| The fight for democracy, peace, and climate justice is accelerating. It is time to join the chorus<br>of voices insisting that national governments do their part. |
+| The fight for democracy, peace, and climate justice is accelerating. It is time to join the chorus
+of voices insisting that national governments do their part. |
 
 We have the power to divest from climate chaos and reinvest in local democracy and flourishing. We can build the next regenerative economy and repair the harm of the current system by restoring wealth back to the communities and countries that produced it. Such
 
@@ -50,14 +58,17 @@ We have the power to divest from climate chaos and reinvest in local democracy a
 
 | Black Land and Liberation Initiative | |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
-| , a trans-local, Black-led land reclamation and reparations leadership network; and support for<br>internally displaced | |
+| , a trans-local, Black-led land reclamation and reparations leadership network; and support for
+internally displaced | |
 | climate refugees | |
-| that recognizes present and historical structures of racial injustice. Projects such as these are<br>crucial for eliminating the inequality on which our extractive economy thrives. | |
+| that recognizes present and historical structures of racial injustice. Projects such as these are
+crucial for eliminating the inequality on which our extractive economy thrives. | |
 | This is not a climate movement—it's a movement for the future of humanity. | |
 | It will take all of us to accelerate the solutions already in our hands. | |
 | This article was produced in collaboration with the | |
 | Island Press Urban Resilience Project | |
 | , with support from The Kresge Foundation and The JPB Foundation. | |
 | Disclaimer: | |
-| The views expressed here are not the official position of the IWW (or even the IWW's EUC)<br>and do not necessarily represent the views of anyone but the author's. | |
+| The views expressed here are not the official position of the IWW (or even the IWW's EUC)
+and do not necessarily represent the views of anyone but the author's. | |
 ## | | |

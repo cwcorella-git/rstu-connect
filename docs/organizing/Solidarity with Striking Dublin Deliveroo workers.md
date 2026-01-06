@@ -1,3 +1,8 @@
+---
+title: "## **Solidarity with Striking Dublin Deliveroo workers**"
+category: "organizing"
+---
+
 ## **Solidarity with Striking Dublin Deliveroo workers**
 
 ## **Date:** Unknown

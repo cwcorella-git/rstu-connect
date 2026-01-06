@@ -1,3 +1,8 @@
+---
+title: "## Race & Class http://rac.sagepub.com/"
+category: "contemporary-analysis"
+---
+
 ## Race & Class http://rac.sagepub.com/
 
 Review: The Darker Nations: a people's history of the Third World By VIJAY PRASHAD (New York and London, The New Press, 2007), 384 pp. Cloth \$26.95, Paper \$19.95

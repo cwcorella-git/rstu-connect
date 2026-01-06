@@ -1,14 +1,26 @@
+---
+title: "## **Trumka and building trades leaders join bosses, support Dakota Pipeline**"
+category: "indigenous-solidarity"
+---
+
 ## **Trumka and building trades leaders join bosses, support Dakota Pipeline**
 
 | Date: Sun, 09/25/2016 - 17:01 |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Source: https://ecology.iww.org/node/1817|
-| Tags: green unionism, yellow unionism, NoDAPL, trade unions, AFL-CIO, North America's Building<br>Trades Unions (NABTU), International Brotherhood of Teamsters (IBT), Laborers' International Union<br>of North America (LIUNA), National Nurses United, Communication Workers of America (CWA) |
+| Tags: green unionism, yellow unionism, NoDAPL, trade unions, AFL-CIO, North America's Building
+Trades Unions (NABTU), International Brotherhood of Teamsters (IBT), Laborers' International Union
+of North America (LIUNA), National Nurses United, Communication Workers of America (CWA) |
 | By Richard Mellior - |
 | Facts for Working People |
 | , September 22, 2016 |
-| In an article on its website, the liberal leaning Common Dreams has published a letter sent by<br>Sean Mc Garvey, president of North America's Building Trades Unions to the presidents of all<br>the AFL-CIO. The letter condemns those unions that support the Standing Rock Sioux in their<br>struggle to defend their sacred lands our environment. The article reads: |
-| In the letter, Mc Garvey questions top leadership for not taking a firmer position in defense of<br>the union members working on Dakota Access and calls out other AFL-CIO member<br>unions—specifically the |
+| In an article on its website, the liberal leaning Common Dreams has published a letter sent by
+Sean Mc Garvey, president of North America's Building Trades Unions to the presidents of all
+the AFL-CIO. The letter condemns those unions that support the Standing Rock Sioux in their
+struggle to defend their sacred lands our environment. The article reads: |
+| In the letter, Mc Garvey questions top leadership for not taking a firmer position in defense of
+the union members working on Dakota Access and calls out other AFL-CIO member
+unions—specifically the |
 | Amalgamated Transit Union (ATU) |
 | , the |
 ## | National Nurses United (NNU) |
@@ -18,12 +30,20 @@
 | Communications Workers of America (CWA) |
 | , and the |
 | American Postal Workers Union (APWU) |
-| —for aligning with "environmental extremists" opposed to the pipeline and participating in a<br>"misinformation campaign" alongside "professional agitators" and members of the Standing<br>Rock Sioux tribe. |
-| The letter condemns the other unions and the AFL-CIO for not defending the 4500 workers<br>who will lose their jobs if the project is halted. This horror that stopping the pipeline represents<br>for the heads of the building trades is not unlike the horror it represents to the capitalists and<br>investors who hope to profit from it: |
+| —for aligning with "environmental extremists" opposed to the pipeline and participating in a
+"misinformation campaign" alongside "professional agitators" and members of the Standing
+Rock Sioux tribe. |
+| The letter condemns the other unions and the AFL-CIO for not defending the 4500 workers
+who will lose their jobs if the project is halted. This horror that stopping the pipeline represents
+for the heads of the building trades is not unlike the horror it represents to the capitalists and
+investors who hope to profit from it: |
 | "Should the administration ultimately stop this construction, it would set a horrific precedent," |
 | I quoted one leader of a pro-pipeline coalition as saying |
 | in an earlier commentary. |
-| It's not just that the stifling bureaucracy that heads organized labor doesn't care about climate<br>change, they don't care about their own members or workers in general. The trade unions to<br>these leaders, especially those in the building trades, are employment agencies with them as<br>the CEO's. They are protecting a smaller and smaller dues base that will keep them in their |
+| It's not just that the stifling bureaucracy that heads organized labor doesn't care about climate
+change, they don't care about their own members or workers in general. The trade unions to
+these leaders, especially those in the building trades, are employment agencies with them as
+the CEO's. They are protecting a smaller and smaller dues base that will keep them in their |
 
 positions and preserve the relationships they have built with the bosses and the corporations based on labor peace.
 

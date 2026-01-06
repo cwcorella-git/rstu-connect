@@ -1,3 +1,8 @@
+---
+title: "## **"Haymarket Riot" of Kharkov: the Bloody Easter 1872**"
+category: "contemporary-analysis"
+---
+
 ## **"Haymarket Riot" of Kharkov: the Bloody Easter 1872**
 
 ## **Date:** Unknown

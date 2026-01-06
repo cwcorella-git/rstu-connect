@@ -1,3 +1,8 @@
+---
+title: "FRAGILITY"
+category: "contemporary-analysis"
+---
+
 # FRAGILITY
 
 ## WHY IT'S SO HARD
@@ -14,25 +19,97 @@
 
 | Cover |
 |--------------------------------------------------------------------------------------|
-| Title<br>Page |
+| Title
+Page |
 | Dedication |
 | Contents |
 | Foreword |
-| Author's<br>Note |
-| Introduction:<br>We<br>Can't<br>Get<br>There<br>from<br>Here |
-| 1.<br>The<br>Challenges<br>of<br>Talking<br>to<br>White<br>People<br>About<br>Racism |
-| 2.<br>Racism<br>and<br>White<br>Supremacy |
-| 3.<br>Racism<br>After<br>the<br>Civil<br>Rights<br>Movement |
-| 4.<br>How<br>Does<br>Race<br>Shape<br>the<br>Lives<br>of<br>White<br>People? |
-| 5.<br>The<br>Good/Bad<br>Binary |
-| 6.<br>Anti-Blackness |
-| 7.<br>Racial<br>Triggers<br>for<br>White<br>People |
-| 8.<br>The<br>Result:<br>White<br>Fragility |
-| 9.<br>White<br>Fragility<br>in<br>Action |
-| 10.<br>White<br>Fragility<br>and<br>the<br>Rules<br>of<br>Engagement |
-| 11.<br>White<br>Women's<br>Tears |
-| 12.<br>Where<br>Do<br>We<br>Go<br>from<br>Here? |
-| Resources<br>for<br>Continuing<br>Education |
+| Author's
+Note |
+| Introduction:
+We
+Can't
+Get
+There
+from
+Here |
+| 1.
+The
+Challenges
+of
+Talking
+to
+White
+People
+About
+Racism |
+| 2.
+Racism
+and
+White
+Supremacy |
+| 3.
+Racism
+After
+the
+Civil
+Rights
+Movement |
+| 4.
+How
+Does
+Race
+Shape
+the
+Lives
+of
+White
+People? |
+| 5.
+The
+Good/Bad
+Binary |
+| 6.
+Anti-Blackness |
+| 7.
+Racial
+Triggers
+for
+White
+People |
+| 8.
+The
+Result:
+White
+Fragility |
+| 9.
+White
+Fragility
+in
+Action |
+| 10.
+White
+Fragility
+and
+the
+Rules
+of
+Engagement |
+| 11.
+White
+Women's
+Tears |
+| 12.
+Where
+Do
+We
+Go
+from
+Here? |
+| Resources
+for
+Continuing
+Education |
 | Acknowledgments |
 | Notes |
 ## | |

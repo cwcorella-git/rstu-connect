@@ -1,15 +1,10 @@
 ---
-title: 1931 Chileans Overthrow Dictator Carlos Ibañez
-author: Del Campo
-slug: 1931 Chileans Overthrow Dictator Carlos Ibañez del Campo
-reconversion_status: ready_for_reconversion
-date: 1931
-tags:
-  - labor
-  - strikes
-  - police
-  - organizing
+title: "1931 Chileans Overthrow Dictator Carlos Ibañez"
+author: "Del Campo"
+date: "1931"
+category: "labor"
 ---
+
 ## **1931: Chileans Overthrow Dictator Carlos Ibañez del Campo**
 
 ## **Date:** Unknown

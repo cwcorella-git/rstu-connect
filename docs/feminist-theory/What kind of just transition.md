@@ -1,10 +1,17 @@
+---
+title: "## **What kind of "just transition"?**"
+category: "feminist-theory"
+---
+
 ## **What kind of "just transition"?**
 
 ## **Date:** Tue, 12/01/2015 - 18:07
 
 ## **Source:** https://ecology.iww.org/node/1410
 
-| Tags: just transition, energy democracy, System Change not Climate Change (SCnCC), Trade Unions<br>for Energy Democracy (TUED), Labor Network for Sustainability (LNS), green jobs, renewable energy,<br>renewable energy workers, greenwashing, green capitalism |
+| Tags: just transition, energy democracy, System Change not Climate Change (SCnCC), Trade Unions
+for Energy Democracy (TUED), Labor Network for Sustainability (LNS), green jobs, renewable energy,
+renewable energy workers, greenwashing, green capitalism |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | By |
 | Michael Ware |

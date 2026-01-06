@@ -1,3 +1,8 @@
+---
+title: "## **Hot Summer in Greece: The Lockdown Abates—the Struggle Continues**"
+category: "contemporary-analysis"
+---
+
 ## **Hot Summer in Greece: The Lockdown Abates—the Struggle Continues**
 
 ## **Date:** Unknown

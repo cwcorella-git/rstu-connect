@@ -1,3 +1,8 @@
+---
+title: "## **Monkeywrenching the Misogynists in our Movements: A historical exploration of call-outs and ant"
+category: "feminist-theory"
+---
+
 ## **Monkeywrenching the Misogynists in our Movements: A historical exploration of call-outs and anti-feminist backlash in Cascadia**
 
 ## **Date:** Wed, 12/23/2015 - 18:28
@@ -203,7 +208,8 @@ Kiera Loki Anderson is an artist-storyteller and PhD student currently residing 
 | 2015. |
 |-----------------------------------------------------------------------------------------------------------------------------------------|
 | [2] |
-| The zine Betrayal: A Critical Analysis of Rape Culture in Anarchist Subcultures explores how<br>this has manifested in our communities: |
+| The zine Betrayal: A Critical Analysis of Rape Culture in Anarchist Subcultures explores how
+this has manifested in our communities: |
 | https://libcom.org/library/betrayal-critical-analysis-rape-culture-anarc|
 | [3] |
 | Abraham, K. (2006) "Flames of Dissent Pt. III: Eco-Anarchy Imploding." |
@@ -242,14 +248,16 @@ Kiera Loki Anderson is an artist-storyteller and PhD student currently residing 
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Boadicea (2014). Oral History Interview 10 June. K. J. Anderson. |
 | [23] |
-| Rimerman, D. December 24, 2013, 1:10am, comment on Mc Gowan, D. (2013) "Rest In<br>Peace, Avalon." |
+| Rimerman, D. December 24, 2013, 1:10am, comment on Mc Gowan, D. (2013) "Rest In
+Peace, Avalon." |
 | Earth First! Newswire |
 | |
 | http://earthfirstjournal.org/newswire/2013/12/23/rest-in-peace-avalon/|
 | [24] |
 | Crow, S. (2013). Witness to Betrayal. K. Williams. |
 | [25] |
-| Language that some may deem inflammatory is actually an understandable response given<br>the prevalence of rape and other forms of interpersonal abuse. See Sarah Luckey (2014) |
+| Language that some may deem inflammatory is actually an understandable response given
+the prevalence of rape and other forms of interpersonal abuse. See Sarah Luckey (2014) |
 
 "Fuck the (Tone) Police: Why Men Can Stop Telling Me Not to Be Emotional About Feminist
 
@@ -271,4 +279,5 @@ Kiera Loki Anderson is an artist-storyteller and PhD student currently residing 
 | |
 | http://www.newrepublic.com/article/122110/i-dont-want-be-excuse-racist-v|
 | Disclaimer: |
-| The views expressed here are not the official position of the IWW (or even the IWW's EUC)<br>and do not necessarily represent the views of anyone but the author's. |
+| The views expressed here are not the official position of the IWW (or even the IWW's EUC)
+and do not necessarily represent the views of anyone but the author's. |

@@ -1,3 +1,8 @@
+---
+title: "**MAPPING DISCORD'S DARKSIDE: DISTRIBUTED HATE NETWORKS ON DISBOARD**"
+category: "technology-digital-justice"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 ## Virtual Event / 13-16 Oct 2021

@@ -1,3 +1,8 @@
+---
+title: "## **The Battle for Bread at Lawrence - Mary Marcy**"
+category: "labor"
+---
+
 ## **The Battle for Bread at Lawrence - Mary Marcy**
 
 ## **Date:** Unknown

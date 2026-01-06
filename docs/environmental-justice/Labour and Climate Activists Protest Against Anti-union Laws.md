@@ -1,3 +1,8 @@
+---
+title: "## **Labour and Climate Activists Protest Against Anti-union Laws**"
+category: "environmental-justice"
+---
+
 ## **Labour and Climate Activists Protest Against Anti-union Laws**
 
 ## **Date:** Wed, 10/12/2022 - 00:00
@@ -21,7 +26,8 @@ BEIS was chosen because it will likely be central to developing the legislation 
 | , and Earth Strike UK's |
 |---------------------------------------------------------------------------------------------------------------------------------------|
 | Empower the Unions initiative |
-| seeks to highlight the specific ways in which anti-union laws constrain workers' ability to take<br>action in defence of the climate. |
+| seeks to highlight the specific ways in which anti-union laws constrain workers' ability to take
+action in defence of the climate. |
 | Speakers at the protest included |
 | Mark Boothroyd |
 | (A&E nurse and Unite activist); |

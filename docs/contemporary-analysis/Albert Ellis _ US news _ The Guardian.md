@@ -1,3 +1,8 @@
+---
+title: "## [theguardian.com](https://www.theguardian.com/news/2007/aug/11/guardianobituaries.usa)"
+category: "contemporary-analysis"
+---
+
 ## [theguardian.com](https://www.theguardian.com/news/2007/aug/11/guardianobituaries.usa)
 
 ## **Obituary: Albert Ellis**

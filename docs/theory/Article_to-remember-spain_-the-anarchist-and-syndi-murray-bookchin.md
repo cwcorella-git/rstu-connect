@@ -1,13 +1,8 @@
 ---
-title: To Remember Spain the Anarchist and Syndi Murray Bookchin
-date: 2025
-author: Murray Bookchin
-tags:
-  - organizing
-  - strikes
-  - unions
-  - rent
-  - police
+title: "To Remember Spain the Anarchist and Syndi Murray Bookchin"
+author: "Murray Bookchin"
+date: "2025"
+category: "theory"
 ---
 
 # To Remember Spain the Anarchist and Syndi Murray Bookchin

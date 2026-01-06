@@ -1,13 +1,8 @@
 ---
-title: Combative Unionism Clarifications To Our Position Paper Prairie Struggle
-date: 2025
-author: Industrial Workers of the World
-tags:
-  - organizing
-  - strikes
-  - unions
-  - rent
-  - labor
+title: "Combative Unionism Clarifications To Our Position Paper Prairie Struggle"
+author: "Industrial Workers of the World"
+date: "2025"
+category: "labor"
 ---
 
 # Combative Unionism Clarifications To Our Position Paper Prairie Struggle

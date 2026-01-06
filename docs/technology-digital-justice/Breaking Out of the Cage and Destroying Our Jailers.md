@@ -1,3 +1,8 @@
+---
+title: "## James Herod"
+category: "technology-digital-justice"
+---
+
 ## James Herod
 
 ## Breaking Out of the Cage and Destroying Our Jailers

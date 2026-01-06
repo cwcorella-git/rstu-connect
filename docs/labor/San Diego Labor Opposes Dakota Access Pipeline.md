@@ -1,3 +1,8 @@
+---
+title: "## **San Diego Labor Opposes Dakota Access Pipeline**"
+category: "labor"
+---
+
 ## **San Diego Labor Opposes Dakota Access Pipeline**
 
 ## **Date:** Mon, 12/19/2016 - 14:16

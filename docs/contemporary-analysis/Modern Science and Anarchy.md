@@ -1,3 +1,8 @@
+---
+title: "**Pëtr Kropotkin**"
+category: "contemporary-analysis"
+---
+
 # **Pëtr Kropotkin**
 
 # **Modern Science and Anarchy**
@@ -588,21 +593,54 @@ Section I, *Modern Science and Anarchy*, has had a varied publication history. U
 
 | | French | English |
 |-------------|------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
-| I | "Les Origines de l'Anarchie," Les<br>Temps Nouveaux, 18 October<br>1902 | Modern Science and Anarchism<br>(Social Science Club, Philadelphia)<br>1903 |
-| II | "Mouvement intellectuel du<br>XVIIIme siècle," Les Temps<br>Nouveaux, 29 November 1902 | |
-| III | "La Réaction au commenecement<br>du dix-neuvième siècle," Les<br>Temps Nouveaux, 20 December<br>1902 | |
-| IV | "La Philosophie Positive de<br>Comte," Les Temps Nouveaux, 24<br>January 1903 | |
-| V | "Le Réveil des Années 1856–<br>1862," Les Temps Nouveaux, 21<br>February 1903 | |
-| VI | "La Philosophie synthétique de<br>Spencer," Les Temps Nouveaux,<br>28 February 1903 | |
-| VII | "La Role de la Loi dans la<br>sociéte," Les Temps Nouveaux, 2<br>May 1903 | |
-| VIII | "Position de l'anarchie dans la<br>science moderne," Les Temps<br>Nouveaux, 30 May 1903 | |
-| IX | "L'Idéal Anarchiste et les<br>révolutions précédentes," Les<br>Temps Nouveaux, 11 July 1903 | |
-| X | "L'Anarchie," Les Temps<br>Nouveaux, 21 January 1911 to 29<br>April 1911 | Chapters X to XII ("Anarchism") of<br>Modern Science and<br>Anarchism(Freedom Press, London),<br>1912 |
+| I | "Les Origines de l'Anarchie," Les
+Temps Nouveaux, 18 October
+1902 | Modern Science and Anarchism
+(Social Science Club, Philadelphia)
+1903 |
+| II | "Mouvement intellectuel du
+XVIIIme siècle," Les Temps
+Nouveaux, 29 November 1902 | |
+| III | "La Réaction au commenecement
+du dix-neuvième siècle," Les
+Temps Nouveaux, 20 December
+1902 | |
+| IV | "La Philosophie Positive de
+Comte," Les Temps Nouveaux, 24
+January 1903 | |
+| V | "Le Réveil des Années 1856–
+1862," Les Temps Nouveaux, 21
+February 1903 | |
+| VI | "La Philosophie synthétique de
+Spencer," Les Temps Nouveaux,
+28 February 1903 | |
+| VII | "La Role de la Loi dans la
+sociéte," Les Temps Nouveaux, 2
+May 1903 | |
+| VIII | "Position de l'anarchie dans la
+science moderne," Les Temps
+Nouveaux, 30 May 1903 | |
+| IX | "L'Idéal Anarchiste et les
+révolutions précédentes," Les
+Temps Nouveaux, 11 July 1903 | |
+| X | "L'Anarchie," Les Temps
+Nouveaux, 21 January 1911 to 29
+April 1911 | Chapters X to XII ("Anarchism") of
+Modern Science and
+Anarchism(Freedom Press, London),
+1912 |
 | XI | | |
-| XII<br>XIII | | |
-| XIV | "Quelques conclusions de<br>l'anarchie," Les Temps Nouveaux,<br>July 18 and 25 July 1903 | Modern Science and Anarchism<br>(Social Science Club, Philadelphia)<br>1903 |
-| XV | "Les Moyens d'action," Les Temps<br>Nouveaux, 15 August 1903 | |
-| XVI | "Conclusions," Les Temps<br>Nouveaux, 12 September 1903 | |
+| XII
+XIII | | |
+| XIV | "Quelques conclusions de
+l'anarchie," Les Temps Nouveaux,
+July 18 and 25 July 1903 | Modern Science and Anarchism
+(Social Science Club, Philadelphia)
+1903 |
+| XV | "Les Moyens d'action," Les Temps
+Nouveaux, 15 August 1903 | |
+| XVI | "Conclusions," Les Temps
+Nouveaux, 12 September 1903 | |
 
 The revised and expanded 1912 edition was reprinted by Freedom Press in
 
@@ -612,8 +650,13 @@ Section II, *Communism and Anarchy*, is made up of two distinct texts. Part I wa
 
 | | French | English |
 |-----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
-| I | "Communisme et anarchie," Les Temps<br>Nouveaux, January 1900 | |
-| II | "Communisme et anarchie," Les Temps<br>Nouveaux, supplément littéraire, no. 23, 29<br>September to 5 October 1900 | "Communism and<br>Anarchy," Freedom, July<br>and August 1901. |
+| I | "Communisme et anarchie," Les Temps
+Nouveaux, January 1900 | |
+| II | "Communisme et anarchie," Les Temps
+Nouveaux, supplément littéraire, no. 23, 29
+September to 5 October 1900 | "Communism and
+Anarchy," Freedom, July
+and August 1901. |
 | III | | |
 ## | IV | | |
 
@@ -633,20 +676,58 @@ The first few sections of *The Modern State* appeared in *Les Temps Nouveaux* in
 
 | | French | English |
 |------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
-| I | "La Société actuelle son principe," Les<br>Temps Nouveaux, 13 January 1900 | "The Essential Principle of<br>Modern Society," Freedom,<br>November 1913 |
-| II | "Serfs de L'état," Les Temps Nouveaux,<br>3 February 1900 | "Serfs of the State," Freedom,<br>December 1913 |
-| III | "L'Impôt," Les Temps Nouveaux, 3<br>March 1900 | "Taxation as a Means of<br>Increasing the Power of the<br>State," Freedom, January<br>1914 |
-| IV | "L'Impôt moyen d'enrichir les riches,"<br>Les Temps Nouveaux, 10 March 1900<br>and 17 March 1900; "A Propos de<br>l'impôt," Les Temps Nouveaux, 24<br>March 1900 | "Taxation a Means of<br>Enriching the Rich," Freedom,<br>February 1914 and March<br>1914 |
-| V | La Science moderne et l'anarchie(Paris<br>: Stock, 1913) | "The Monopolies," Freedom,<br>April 1914 |
-| VI | La Science moderne et l'anarchie(Paris<br>: Stock, 1913) | "The Monopolies in the<br>Nineteenth Century,"<br>Freedom, May 1914 |
-| VII | La Science moderne et l'anarchie(Paris<br>: Stock, 1913) | "Monopolies in Constitutional<br>England—In Germany—The<br>Kings of our own time,"<br>Freedom, September 1914 |
-| VIII | "La Guerre," Les Temps Nouveaux,2<br>March 1912; "La Guerre: La Haute<br>Finance," Les Temps Nouveaux, 9<br>March 1912 | "Modern Wars and<br>Capitalism," Freedom, May to<br>August 1913 |
-| IX | "La Guerre: La Guerre et l'Industrie,"<br>Les Temps Nouveaux,16 March 1912 ;<br>"La Guerre," Les Temps Nouveaux, 30<br>March 1912 | |
-| X | La Science moderne et l'anarchie(Paris<br>: Stock, 1913) | |
-| XI | La Science moderne et l'anarchie(Paris<br>: Stock, 1913) | |
-| XII | La Science moderne et l'anarchie(Paris<br>: Stock, 1913) | |
-| XIII | La Science moderne et l'anarchie(Paris<br>: Stock, 1913) | |
-| XIV | La Science moderne et l'anarchie(Paris<br>: Stock, 1913) | |
+| I | "La Société actuelle son principe," Les
+Temps Nouveaux, 13 January 1900 | "The Essential Principle of
+Modern Society," Freedom,
+November 1913 |
+| II | "Serfs de L'état," Les Temps Nouveaux,
+3 February 1900 | "Serfs of the State," Freedom,
+December 1913 |
+| III | "L'Impôt," Les Temps Nouveaux, 3
+March 1900 | "Taxation as a Means of
+Increasing the Power of the
+State," Freedom, January
+1914 |
+| IV | "L'Impôt moyen d'enrichir les riches,"
+Les Temps Nouveaux, 10 March 1900
+and 17 March 1900; "A Propos de
+l'impôt," Les Temps Nouveaux, 24
+March 1900 | "Taxation a Means of
+Enriching the Rich," Freedom,
+February 1914 and March
+1914 |
+| V | La Science moderne et l'anarchie(Paris
+: Stock, 1913) | "The Monopolies," Freedom,
+April 1914 |
+| VI | La Science moderne et l'anarchie(Paris
+: Stock, 1913) | "The Monopolies in the
+Nineteenth Century,"
+Freedom, May 1914 |
+| VII | La Science moderne et l'anarchie(Paris
+: Stock, 1913) | "Monopolies in Constitutional
+England—In Germany—The
+Kings of our own time,"
+Freedom, September 1914 |
+| VIII | "La Guerre," Les Temps Nouveaux,2
+March 1912; "La Guerre: La Haute
+Finance," Les Temps Nouveaux, 9
+March 1912 | "Modern Wars and
+Capitalism," Freedom, May to
+August 1913 |
+| IX | "La Guerre: La Guerre et l'Industrie,"
+Les Temps Nouveaux,16 March 1912 ;
+"La Guerre," Les Temps Nouveaux, 30
+March 1912 | |
+| X | La Science moderne et l'anarchie(Paris
+: Stock, 1913) | |
+| XI | La Science moderne et l'anarchie(Paris
+: Stock, 1913) | |
+| XII | La Science moderne et l'anarchie(Paris
+: Stock, 1913) | |
+| XIII | La Science moderne et l'anarchie(Paris
+: Stock, 1913) | |
+| XIV | La Science moderne et l'anarchie(Paris
+: Stock, 1913) | |
 
 Extracts from the *Freedom* translation of parts I to VI are included in *Direct Struggle Against Capital* while the sections on War (VIII and IX) were issued as a pamphlet by Freedom Press in 1914 entitled *Wars and Capitalism*.
 

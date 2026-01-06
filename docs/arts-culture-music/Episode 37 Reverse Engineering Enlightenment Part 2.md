@@ -1,3 +1,8 @@
+---
+title: "**Episode 37: Reverse Engineering Enlightenment Part 2/**"
+category: "arts-culture-music"
+---
+
 # **Episode 37: Reverse Engineering Enlightenment Part 2/**
 
 **Source:** https://www.meaningcrisis.co/ep-37-awakening-from-the-meaning-crisis-reverse-engineeringenlightenment-part-2/

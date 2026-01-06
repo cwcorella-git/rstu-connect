@@ -1,3 +1,8 @@
+---
+title: "**Decentralization, deconcentration and devolution: what do they mean?1**"
+category: "contemporary-analysis"
+---
+
 # **Decentralization, deconcentration and devolution: what do they mean?1**
 
 ## Compiled by Elizabeth Linda Yuliani2
@@ -20,7 +25,7 @@ Definitions and descriptions of decentralization used in the papers include:
 
  1 This document lists definitions of decentralization, deconcentration, devolution and other related terms used in papers presented at the Interlaken Workshop on Decentralization, 27-30 April 2004, Interlaken, Switzerland.
 
-<sup>2</sup> Elizabeth Linda Yuliani is an ecologist, working with the Forests and Governance Program at the Center for International Forestry Research, in Bogor, Indonesia.
+2 Elizabeth Linda Yuliani is an ecologist, working with the Forests and Governance Program at the Center for International Forestry Research, in Bogor, Indonesia.
 
 - the private sector, and arrangements for the Forest Fund are transferred to the regions/administrative units of the Federation, which are badly prepared to implement these rights (Malysheva).
 - "Definitions of the different types of decentralization vary and the same terms are sometimes used in inconsistent ways in the literature on the subject". The paper by Gregersen, Contreras-Hermosilla, White and Phillips adopts the following definitions:

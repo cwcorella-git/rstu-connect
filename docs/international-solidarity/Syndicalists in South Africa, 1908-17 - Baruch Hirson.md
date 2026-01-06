@@ -1,3 +1,8 @@
+---
+title: "## **Syndicalists in South Africa, 1908-17 - Baruch Hirson**"
+category: "international-solidarity"
+---
+
 ## **Syndicalists in South Africa, 1908-17 - Baruch Hirson**
 
 ## **Date:** Unknown

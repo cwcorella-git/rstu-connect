@@ -1,3 +1,8 @@
+---
+title: "## **If We Must Die: Bomani Shakur's statement on launching a hunger strike (January 2011)**"
+category: "food-justice"
+---
+
 ## **If We Must Die: Bomani Shakur's statement on launching a hunger strike (January 2011)**
 
 ## **Date:** Unknown

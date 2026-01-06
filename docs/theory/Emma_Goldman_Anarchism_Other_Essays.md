@@ -1,3 +1,8 @@
+---
+title: "**Emma Goldman Anarchism and Other Essays**"
+category: "theory"
+---
+
 # **Emma Goldman Anarchism and Other Essays**
 
 ## **Table of Context:**
@@ -919,7 +924,7 @@ On October fourth Ferrer sent the following letter to *L'Humanite*:
 
 "My dear Friends — Notwithstanding most absolute innocence, the prosecutor demands the death penalty,
 
-<sup>&</sup>quot;The Prison Cell, Oct. 4, 1909.
+&quot;The Prison Cell, Oct. 4, 1909.
 
 based on denunciations of the police, representing me as the chief of the world's Anarchists, directing the labor syndicates of France, and guilty of conspiracies and insurrections everywhere, and declaring that my voyages to London and Paris were undertaken with no other object.
 

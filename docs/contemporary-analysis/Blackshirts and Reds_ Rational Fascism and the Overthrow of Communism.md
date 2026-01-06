@@ -1,3 +1,8 @@
+---
+title: "**BLACKSHIRTS** &"
+category: "contemporary-analysis"
+---
+
 ## MICHAEL PARENTI
 
 # **BLACKSHIRTS** &
@@ -97,51 +102,271 @@ For him who knows only your color, red flag, you must really exist, so he may ex
 
 | Preface | xiu |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|
-| 1<br>RATIONAL FASCISM | 1 |
-| Fascism historically has been used to secure the interests of large<br>capitalist interests against the demands of popular<br>democracy.<br>Then and now, fascism has made irrational mass appeals in order<br>to secure the rational ends of class domination. | |
+| 1
+RATIONAL FASCISM | 1 |
+| Fascism historically has been used to secure the interests of large
+capitalist interests against the demands of popular
+democracy.
+Then and now, fascism has made irrational mass appeals in order
+to secure the rational ends of class domination. | |
 | Plutocrats Choose Autocrats | 2 |
-| W<br>h<br>o<br>m Did the Fascists Support? | 6 |
+| W
+h
+o
+m Did the Fascists Support? | 6 |
 | Kudos for Adolph and Benito | 10 |
 | The Rational Use of Irrational Ideology | 11 |
-| Patriarchy and<br>Pseudo-Revolution | 14 |
+| Patriarchy and
+Pseudo-Revolution | 14 |
 | Friendly to Fascism | 17 |
-| 2<br>LET US NOW PRAISE REVOLUTION<br>Revolutions<br>are<br>democratic<br>developments<br>that<br>expand<br>the<br>freedoms<br>of people who enjoyed no freedom under oppressive prerevolu | 23 |
-| tionary regimes. Revolutions are a mass empowerment against the<br>forces of exploitative privilege. They bring a dramatic reduction in<br>political<br>and<br>economic<br>oppression. | |
-| The<br>Costs<br>of<br>Counterrevolution | 24 |
-| Presumptions<br>of<br>Power | 26 |
+| 2
+LET US NOW PRAISE REVOLUTION
+Revolutions
+are
+democratic
+developments
+that
+expand
+the
+freedoms
+of people who enjoyed no freedom under oppressive prerevolu | 23 |
+| tionary regimes. Revolutions are a mass empowerment against the
+forces of exploitative privilege. They bring a dramatic reduction in
+political
+and
+economic
+oppression. | |
+| The
+Costs
+of
+Counterrevolution | 24 |
+| Presumptions
+of
+Power | 26 |
 | Whose Violence? | 28 |
-| Free<br>Market<br>for<br>the<br>Few | 31 |
+| Free
+Market
+for
+the
+Few | 31 |
 | The Freedom of Revolution | 34 |
-## | What<br>Measure<br>of<br>Pain? | 36 |
+## | What
+Measure
+of
+Pain? | 36 |
 
-| 3<br>L<br>E<br>F<br>T<br>A<br>N<br>T<br>I<br>C<br>O<br>M<br>M<br>U<br>N<br>I<br>S<br>T<br>E | 41 |
+| 3
+L
+E
+F
+T
+A
+N
+T
+I
+C
+O
+M
+M
+U
+N
+I
+S
+T
+E | 41 |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----|
-| Like<br>conservatives<br>and<br>reactionaries,<br>most<br>of<br>the<br>U. S.<br>Left<br>greeted<br>communism in the Soviet Union and Eastern Europe with fear<br>and<br>loathing,<br>and<br>with<br>idealized<br>expectations<br>that<br>took<br>no<br>account<br>of Western encirclement and the survival necessities of socialism<br>under<br>siege. | |
+| Like
+conservatives
+and
+reactionaries,
+most
+of
+the
+U. S.
+Left
+greeted
+communism in the Soviet Union and Eastern Europe with fear
+and
+loathing,
+and
+with
+idealized
+expectations
+that
+took
+no
+account
+of Western encirclement and the survival necessities of socialism
+under
+siege. | |
 | Genuflection to Orthodoxy | 42 |
 | Pure Socialism vs. Siege Socialism | 49 |
 | Decentralization vs. Survival | 53 |
-| 4<br>C<br>O<br>M<br>M<br>U<br>N<br>I<br>S<br>M<br>I<br>N<br>W<br>O<br>N<br>D<br>E<br>R<br>L<br>A<br>N<br>D | 59 |
-| The internal irrationalities and weaknesses of<br>past<br>communist<br>economies and the systemic reasons why productivity stagnated<br>and reforms were so difficult to effect. | |
-| Rewarding<br>Inefficiency | 59 |
+| 4
+C
+O
+M
+M
+U
+N
+I
+S
+M
+I
+N
+W
+O
+N
+D
+E
+R
+L
+A
+N
+D | 59 |
+| The internal irrationalities and weaknesses of
+past
+communist
+economies and the systemic reasons why productivity stagnated
+and reforms were so difficult to effect. | |
+| Rewarding
+Inefficiency | 59 |
 | Nobody Minding the Store | 62 |
 | Wanting It All | 65 |
 | Reactionism to the Surface | 68 |
 | Romanticizing Capitalism | 72 |
-| 5<br>S<br>T<br>A<br>L<br>I<br>N<br>G<br>F<br>I<br>N<br>G<br>E<br>R<br>S | 76 |
-| Newly published documentation on the gulag reveals a somewhat<br>different<br>picture<br>of<br>the<br>repressive<br>nature<br>of<br>communist<br>systems,<br>both in the past and in recent times. The historic accomplishments<br>in economic<br>development within communist<br>countries<br>repre<br>sented a positive gain in the lives of hundreds of millions. | |
-| H<br>o<br>w<br>Many<br>Victims? | 77 |
+| 5
+S
+T
+A
+L
+I
+N
+G
+F
+I
+N
+G
+E
+R
+S | 76 |
+| Newly published documentation on the gulag reveals a somewhat
+different
+picture
+of
+the
+repressive
+nature
+of
+communist
+systems,
+both in the past and in recent times. The historic accomplishments
+in economic
+development within communist
+countries
+repre
+sented a positive gain in the lives of hundreds of millions. | |
+| H
+o
+w
+Many
+Victims? | 77 |
 | Where Did the Gulag Go? | 81 |
 ## | Memories of Maldevelopment | 84 |
 
-| 6<br>T<br>H<br>E<br>F<br>R<br>E<br>E<br>-<br>M<br>A<br>R<br>K<br>E<br>T<br>P<br>A<br>R<br>A<br>D<br>I<br>S<br>E<br>G<br>O<br>E<br>S<br>EAST(I) | 87 |
+| 6
+T
+H
+E
+F
+R
+E
+E
+-
+M
+A
+R
+K
+E
+T
+P
+A
+R
+A
+D
+I
+S
+E
+G
+O
+E
+S
+EAST(I) | 87 |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|
-| Repression by conservative forces in the former communist states<br>in the name of<br>"democratic reform." Privileges from pre-communist<br>days restored to the old owning classes. Western investors plunder<br>the public sector at great profit to themselves, reducing the former<br>communist countries to Third World levels. | |
+| Repression by conservative forces in the former communist states
+in the name of
+"democratic reform." Privileges from pre-communist
+days restored to the old owning classes. Western investors plunder
+the public sector at great profit to themselves, reducing the former
+communist countries to Third World levels. | |
 | Suppression of the Left | 87 |
 | One-Way Democracy | 94 |
 | Must We Adore Vaclav Havel? | 97 |
 | Colonizing the East | 100 |
-| 7<br>T<br>H<br>E<br>F<br>R<br>E<br>E<br>-<br>M<br>A<br>R<br>K<br>E<br>T<br>P<br>A<br>R<br>A<br>D<br>I<br>S<br>E<br>G<br>O<br>E<br>S<br>EAST(II) | 105 |
-| The emergence of free-market rapacity and growing inequality,<br>widespread<br>crime,<br>social<br>maladies,<br>and<br>victimization,<br>especially<br>of<br>women,<br>children,<br>the<br>elderly,<br>and<br>the<br>poor.<br>The<br>Third<br>Worldization<br>and<br>cultural<br>decay<br>of<br>formerly<br>collectivist<br>societies. | |
+| 7
+T
+H
+E
+F
+R
+E
+E
+-
+M
+A
+R
+K
+E
+T
+P
+A
+R
+A
+D
+I
+S
+E
+G
+O
+E
+S
+EAST(II) | 105 |
+| The emergence of free-market rapacity and growing inequality,
+widespread
+crime,
+social
+maladies,
+and
+victimization,
+especially
+of
+women,
+children,
+the
+elderly,
+and
+the
+poor.
+The
+Third
+Worldization
+and
+cultural
+decay
+of
+formerly
+collectivist
+societies. | |
 | For Vipers and Bloodsuckers | 105 |
 | Shock Therapy for the Many | 108 |
 | Crime and Corruption | 111 |
@@ -151,16 +376,98 @@ For him who knows only your color, red flag, you must really exist, so he may ex
 
 ## "We Didn't Realize What We H a d " 116
 
-| 8<br>T<br>H<br>E<br>E<br>N<br>D<br>O<br>F<br>M<br>A<br>R<br>X<br>I<br>S<br>M<br>? | 121 |
+| 8
+T
+H
+E
+E
+N
+D
+O
+F
+M
+A
+R
+X
+I
+S
+M
+? | 121 |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|
-| Understanding<br>the<br>fundamental<br>concepts<br>and<br>discoveries<br>of<br>a<br>view of society and politics that today is more relevant than ever,<br>helping us to overcome truncated modes of thought, teaching us<br>to ask why things are as they are. | |
+| Understanding
+the
+fundamental
+concepts
+and
+discoveries
+of
+a
+view of society and politics that today is more relevant than ever,
+helping us to overcome truncated modes of thought, teaching us
+to ask why things are as they are. | |
 | Some Durable Basics | 122 |
 | More Right than Wrong | 125 |
-| More<br>Wealth,<br>More<br>Poverty | 129 |
+| More
+Wealth,
+More
+Poverty | 129 |
 | A Holistic Science | 132 |
 | Learning to Ask Why | 136 |
-| 9<br>A<br>N<br>Y<br>T<br>H<br>I<br>N<br>G<br>B<br>U<br>T<br>C<br>L<br>A<br>S<br>S<br>:<br>A<br>V<br>O<br>I<br>D<br>I<br>N<br>G<br>T<br>H<br>E<br>C<br>-<br>W<br>O<br>R<br>D | 141 |
-| Class<br>is<br>more<br>than<br>a<br>demographic<br>category.<br>Anything-but-class<br>explanations of social realities invite us to deny the obvious<br>links<br>between<br>wealth<br>and<br>power<br>and<br>the<br>collision<br>of<br>ecology<br>with capitalism. | |
+| 9
+A
+N
+Y
+T
+H
+I
+N
+G
+B
+U
+T
+C
+L
+A
+S
+S
+:
+A
+V
+O
+I
+D
+I
+N
+G
+T
+H
+E
+C
+-
+W
+O
+R
+D | 141 |
+| Class
+is
+more
+than
+a
+demographic
+category.
+Anything-but-class
+explanations of social realities invite us to deny the obvious
+links
+between
+wealth
+and
+power
+and
+the
+collision
+of
+ecology
+with capitalism. | |
 | The Class Denial of Class | 141 |
 | The ABC Theorists | 144 |
 | Everyday Class Struggle | 149 |
@@ -195,7 +502,7 @@ Truth is an uncomfortable venue for those who pretend to serve our society while
 
 While walking through New Yorks Little Italy, I passed a novelty shop that displayed posters and T-shirts of Benito Mussolini giving the fascist salute. When I entered the shop and asked the clerk why such items were being offered, he replied, "Well, some people like them. And, you know, maybe we need someone like Mussolini in this country." His comment was a reminder that fascism survives as something more than a historical curiosity.
 
-Worse than posters or T-shirts are the works by various writers bent on "explaining" Hitler, or "reevaluating" Franco, or in other ways sanitizing fascist history. In Italy, during the 1970s, there emerged a veritable cottage industry of books and articles claiming that Mussolini not only made the trains run on time but also made Italy work well. All these publications, along with many conventional academic studies, have one thing in common: They say little if anything about the class policies of fascist Italy and Nazi Germany. How did these regimes deal with social services, taxes, business, and the conditions of labor? For whose benefit and at whose expense? Most of the literature on fascism and Nazism does not tell us.<sup>1</sup>
+Worse than posters or T-shirts are the works by various writers bent on "explaining" Hitler, or "reevaluating" Franco, or in other ways sanitizing fascist history. In Italy, during the 1970s, there emerged a veritable cottage industry of books and articles claiming that Mussolini not only made the trains run on time but also made Italy work well. All these publications, along with many conventional academic studies, have one thing in common: They say little if anything about the class policies of fascist Italy and Nazi Germany. How did these regimes deal with social services, taxes, business, and the conditions of labor? For whose benefit and at whose expense? Most of the literature on fascism and Nazism does not tell us.1
 
 #### Plutocrats Choose Autocrats
 
@@ -203,7 +510,7 @@ Let us begin with a look at fascisms founder. Born in 1883, the son of a blacksm
 
 By the end of World War I, Mussolini, the socialist, who had organized strikes for workers and peasants had become Mussolini, the fascist, who broke strikes on behalf of financiers and landowners. Using the huge sums he received from wealthy interests, he projected himself onto the national scene as the acknowledged leader of i fasci di combattimento, a movement composed of black-shirted ex-army officers and sundry toughs who were guided by no clear political doctrine other than a militaristic patriotism and conservative dislike for anything associated with socialism and organized labor. The fascist Blackshirts spent their time attacking trade unionists, socialists, communists, and farm cooperatives.
 
-<sup>1</sup> Among the thousands of titles that deal with fascism, there are a few worthwhile exceptions that do not evade questions of political economy and class power, for instance: Gaetano Salvemini, Under the Ax of Fascism (New York: Howard Fertig, 1969); Daniel Guerin, Fascism and Big Business (New York: Monad Press/ Pathfinder Press, 1973); James Pool and Suzanne Pool, Who Financed Hitler (New York: Dial Press, 1978); Palmiro Togliatti, Lectures on Fascism (New York: International Publishers, 1976); Franz Neumann, Behemoth (New York: Oxford University Press, 1944); R. Palme Dutt, Fascism and Social Revolution (New York: International Publisher, 1935).
+1 Among the thousands of titles that deal with fascism, there are a few worthwhile exceptions that do not evade questions of political economy and class power, for instance: Gaetano Salvemini, Under the Ax of Fascism (New York: Howard Fertig, 1969); Daniel Guerin, Fascism and Big Business (New York: Monad Press/ Pathfinder Press, 1973); James Pool and Suzanne Pool, Who Financed Hitler (New York: Dial Press, 1978); Palmiro Togliatti, Lectures on Fascism (New York: International Publishers, 1976); Franz Neumann, Behemoth (New York: Oxford University Press, 1944); R. Palme Dutt, Fascism and Social Revolution (New York: International Publisher, 1935).
 
 After World War I, Italy had settled into a pattern of parliamentary democracy. The low pay scales were improving, and the trains were already running on time. But the capitalist economy was in a postwar recession. Investments stagnated, heavy industry operated far below capacity, and corporate profits and agribusiness exports were declining.
 
@@ -211,7 +518,7 @@ To maintain profit levels, the large landowners and industrialists would have to
 
 But the government was not completely free to pursue this course. By 1921, many Italian workers and peasants were unionized and had their own political organizations. With demonstrations, strikes, boycotts, factory takeovers, and the forceable occupation of farmlands, they had won the right to organize, along with concessions in wages and work conditions.
 
-To impose a full measure of austerity upon workers and peasants, the ruling economic interests would have to abolish the democratic rights that helped the masses defend their modest living standards. The solution was to smash their unions, political organizations, and civil liberties. Industrialists and big landowners wanted someone at the helm who could break the power of organized workers and farm laborers and impose a stern order on the masses. For this task Benito Mussolini, armed with his gangs of Blackshirts, seemed the likely candidate.<sup>2</sup>
+To impose a full measure of austerity upon workers and peasants, the ruling economic interests would have to abolish the democratic rights that helped the masses defend their modest living standards. The solution was to smash their unions, political organizations, and civil liberties. Industrialists and big landowners wanted someone at the helm who could break the power of organized workers and farm laborers and impose a stern order on the masses. For this task Benito Mussolini, armed with his gangs of Blackshirts, seemed the likely candidate.2
 
 Between January and May 1921, "the fascists destroyed 120 labor headquarters, attacked 243 socialist centers and other buildings, killed 202 workers (in addition to 44 killed by the police and gendarmerie), and wounded 1,144." During this time 2,240 workers were arrested and only 162 fascists. In the 1921-22 period up to Mussolini's seizure of state power, "500 labor halls and cooperative stores were burned, and 900 socialist municipalities were dissolved": Dutt, Fascism and Social Revolution, 124.
 
@@ -229,13 +536,13 @@ In that same campaign the Nazis received 37.3 percent of the vote, the highest t
 
 In the December 1932 election, three candidates ran for president: the conservative incumbent Field Marshal von Hindenburg, the Nazi candidate Adolph Hitler, and the Communist party candidate Ernst Thaelmann. In his campaign, Thaelmann argued that a vote for Hindenburg amounted to a vote for Hitler and that Hitler would lead Germany into war. The bourgeois press, including the Social Democrats, denounced this view as "Moscow inspired." Hindenburg was re-elected while the Nazis dropped approximately two million votes in the Reichstag election as compared to their peak of over 13.7 million.
 
-True to form, the Social Democrat leaders refused the Communist party's proposal to form an eleventh-hour coalition against Nazism. As in many other countries past and present, so in Germany, the Social Democrats would sooner ally themselves with the reactionary Right than make common cause with the Reds.<sup>3</sup> Meanwhile a number of right-wing parties coalesced behind the Nazis and in January 1933, just weeks after the election, Hindenburg invited Hitler to become chancellor.
+True to form, the Social Democrat leaders refused the Communist party's proposal to form an eleventh-hour coalition against Nazism. As in many other countries past and present, so in Germany, the Social Democrats would sooner ally themselves with the reactionary Right than make common cause with the Reds.3 Meanwhile a number of right-wing parties coalesced behind the Nazis and in January 1933, just weeks after the election, Hindenburg invited Hitler to become chancellor.
 
-<sup>3</sup> Earlier in 1924, Social Democratic officials in the Ministry of Interior used Reichswehr and Free Corps fascist paramilitary troops to attack left-wing demonstrators. They imprisoned seven thousand workers and suppressed Communist party newspapers: Richard Plant, The Pink Triangle (New York: Henry Holt, 1986), 47.
+3 Earlier in 1924, Social Democratic officials in the Ministry of Interior used Reichswehr and Free Corps fascist paramilitary troops to attack left-wing demonstrators. They imprisoned seven thousand workers and suppressed Communist party newspapers: Richard Plant, The Pink Triangle (New York: Henry Holt, 1986), 47.
 
 Upon assuming state power, Hitler and his Nazis pursued a politico-economic agenda not unlike Mussolini's. They crushed organized labor and eradicated all elections, opposition parties, and independent publications. Hundreds of thousands of opponents were imprisoned, tortured, or murdered. In Germany as in Italy, the communists endured the severest political repression of all groups.
 
-Here were two peoples, the Italians and Germans, with different histories, cultures, and languages, and supposedly different temperaments, who ended up with the same repressive solutions because of the compelling similarities of economic power and class conflict that prevailed in their respective countries. In such diverse countries as Lithuania, Croatia, Rumania, Hungary, and Spain, a similar fascist pattern emerged to do its utmost to save big capital from the impositions of democracy.<sup>4</sup>
+Here were two peoples, the Italians and Germans, with different histories, cultures, and languages, and supposedly different temperaments, who ended up with the same repressive solutions because of the compelling similarities of economic power and class conflict that prevailed in their respective countries. In such diverse countries as Lithuania, Croatia, Rumania, Hungary, and Spain, a similar fascist pattern emerged to do its utmost to save big capital from the impositions of democracy.4
 
 #### Whom Did the Fascists Support?
 
@@ -243,7 +550,7 @@ There is a vast literature on who supported the Nazis, but relatively little on 
 
 In both Italy in the 1920s and Germany in the 1930s, old industrial evils, thought to have passed permanently into history, re-emerged as the conditions of labor deteriorated precipitously. In the name of saving society from the Red Menace, unions and strikes were outlawed. Union property and farm cooperatives were confiscated and handed over to rich private owners. Minimum-wage laws, overtime pay, and factory safety regulations were abolished.
 
-<sup>4</sup> This is not to gainsay that cultural differences can lead to important variations. Consider, for instance, the horrific role played by anti-Semitism in Nazi Germany as compared to fascist Italy.
+4 This is not to gainsay that cultural differences can lead to important variations. Consider, for instance, the horrific role played by anti-Semitism in Nazi Germany as compared to fascist Italy.
 
 Speedups became commonplace. Dismissals or imprisonment awaited those workers who complained about unsafe or inhumane work conditions. Workers toiled longer hours for less pay. The already modest wages were severely cut> in Germany by 25 to 40 percent, in Italy by 50 percent. In Italy, child labor was reintroduced.
 
@@ -253,39 +560,39 @@ Both Mussolini and Hitler showed their gratitude to their big business patrons b
 
 At the same time, taxes were increased for the general populace but lowered or eliminated for the rich and big business. Inheritance taxes on the wealthy were greatly reduced or abolished altogether.
 
-The result of all this? In Italy during the 1930s the economy was gripped by recession, a staggering public debt, and widespread corruption. But industrial profits rose and the armaments factories busily rolled out weapons in preparation for the war to come. In Germany, unemployment was cut in half with the considerable expansion in armaments jobs, but overall poverty increased because of the drastic wage cuts. And from 1935 to 1943 industrial profits increased substantially while the net income of corporate leaders climbed 46 percent. During the radical 1930s, in the United States, Great Britain, and Scandanavia, upper-income groups experienced a modest decline in their share of the national income; but in Germany the top 5 percent enjoyed a 15 percent gain.<sup>5</sup>
+The result of all this? In Italy during the 1930s the economy was gripped by recession, a staggering public debt, and widespread corruption. But industrial profits rose and the armaments factories busily rolled out weapons in preparation for the war to come. In Germany, unemployment was cut in half with the considerable expansion in armaments jobs, but overall poverty increased because of the drastic wage cuts. And from 1935 to 1943 industrial profits increased substantially while the net income of corporate leaders climbed 46 percent. During the radical 1930s, in the United States, Great Britain, and Scandanavia, upper-income groups experienced a modest decline in their share of the national income; but in Germany the top 5 percent enjoyed a 15 percent gain.5
 
-Despite this record, most writers have ignored fascism's close collaboration with big business. Some even argue that business was not a beneficiary but a victim of fascism. Angelo Codevilla, a Hoover Institute conservative scribe, blithely announced: "If fascism means anything, it means government ownership and control of business" (Commentary, 8/94). Thus fascism is misrepresented as a mutant form of socialism. In fact, if fascism means anything, it means all-out government support for business and severe repression of antibusiness, prolabor forces.<sup>6</sup>
+Despite this record, most writers have ignored fascism's close collaboration with big business. Some even argue that business was not a beneficiary but a victim of fascism. Angelo Codevilla, a Hoover Institute conservative scribe, blithely announced: "If fascism means anything, it means government ownership and control of business" (Commentary, 8/94). Thus fascism is misrepresented as a mutant form of socialism. In fact, if fascism means anything, it means all-out government support for business and severe repression of antibusiness, prolabor forces.6
 
 Is fascism merely a dictatorial force in the service of capitalism? That may not be all it is, but that certainly is an important part of fascism's raison d'être, the function Hitler himself kept referring to when he talked about saving the industrialists and bankers from Bolshevism. It is a subject that deserves far more attention than it has received.
 
 While the fascists might have believed they were saving the plutocrats from the Reds, in fact the revolutionary Left was never strong enough to take state power in either Italy or Germany. Popular forces, however, were strong enough to cut into profit rates and
 
-<sup>5</sup> Simon Kuznets, "Qualitative Aspects of the Economic Growth of Nations" Economic Development and Cultural Change, 5, no. 1, 1956, 5-94.
+5 Simon Kuznets, "Qualitative Aspects of the Economic Growth of Nations" Economic Development and Cultural Change, 5, no. 1, 1956, 5-94.
 
-<sup>6</sup> Ex-leftist and reborn conservative Eugene Genovese (New Republic, 4/1/95) eagerly leaped to the conclusion that it is a "nonsensical interpretation" to see "fascism as a creature of big capital." Genovese was applauding Eric Hobsbawm, who argued that the capitalist class was not the primary force behind fascism in Spain. In response» Vicente Navarro (Monthly Review 1/96 and 4/96) noted that the "major economic interests of Spain," assisted by at least one Texas oil millionaire and other elements of international capital, did indeed finance Franco's fascist invasion and coup against the Spanish Republic. A crucial source, Navarro writes, was the financial empire of Joan March, founder of the Liberal Party and owner of a liberal newspaper. Considered a modernizer and an alternative to the oligarchic, land-based, reactionary sector of capital, March made common cause with these same oligarchs once he saw that working-class parties were gaining strength and his own economic interests were being affected by the reformist Republic.
+6 Ex-leftist and reborn conservative Eugene Genovese (New Republic, 4/1/95) eagerly leaped to the conclusion that it is a "nonsensical interpretation" to see "fascism as a creature of big capital." Genovese was applauding Eric Hobsbawm, who argued that the capitalist class was not the primary force behind fascism in Spain. In response» Vicente Navarro (Monthly Review 1/96 and 4/96) noted that the "major economic interests of Spain," assisted by at least one Texas oil millionaire and other elements of international capital, did indeed finance Franco's fascist invasion and coup against the Spanish Republic. A crucial source, Navarro writes, was the financial empire of Joan March, founder of the Liberal Party and owner of a liberal newspaper. Considered a modernizer and an alternative to the oligarchic, land-based, reactionary sector of capital, March made common cause with these same oligarchs once he saw that working-class parties were gaining strength and his own economic interests were being affected by the reformist Republic.
 
 interfere with the capital accumulation process. This frustrated capitalism s attempts to resolve its internal contradictions by shifting more and more of its costs onto the backs of the working populace. Revolution or no revolution, this democratic working-class resistance was troublesome to the moneyed interests.
 
 Along with serving the capitalists, fascist leaders served themselves, getting in on the money at every opportunity. Their personal greed and their class loyalties were two sides of the same coin. Mussolini and his cohorts lived lavishly, cavorting within the higher circles of wealth and aristocracy. Nazi officials and SS commanders amassed personal fortunes by plundering conquered territories and stealing from concentration camp inmates and other political victims. Huge amounts were made from secretly owned, well-connected businesses, and from contracting out camp slave labor to industrial firms like I. G. Farben and Krupp.
 
-Hitler is usually portrayed as an ideological fanatic, uninterested in crass material things. In fact, he accumulated an immense fortune, much of it in questionable ways. He expropriated art works from the public domain. He stole enormous sums from Nazi party coffers. He invented a new concept, the "personality right," that enabled him to charge a small fee for every postage stamp with his picture on it, a venture that made him hundreds of millions of marks.<sup>7</sup>
+Hitler is usually portrayed as an ideological fanatic, uninterested in crass material things. In fact, he accumulated an immense fortune, much of it in questionable ways. He expropriated art works from the public domain. He stole enormous sums from Nazi party coffers. He invented a new concept, the "personality right," that enabled him to charge a small fee for every postage stamp with his picture on it, a venture that made him hundreds of millions of marks.7
 
-The greatest source of Hitler s wealth was a secret slush fund to which leading German industrialists regularly donated. Hitler "knew that as long as German industry was making money, his private money sources would be inexhaustible. Thus, he'd see to it that German industry was never better off than under his rule—by launching, for one thing, gigantic armament projects,"<sup>8</sup> or what we today would call fat defense contracts.
+The greatest source of Hitler s wealth was a secret slush fund to which leading German industrialists regularly donated. Hitler "knew that as long as German industry was making money, his private money sources would be inexhaustible. Thus, he'd see to it that German industry was never better off than under his rule—by launching, for one thing, gigantic armament projects,"8 or what we today would call fat defense contracts.
 
 8 Wulf Schwarzwaeller, The Unknown Hitler, 197.
 
-<sup>7</sup> There already was a stamp of von Hindenburg to honor his presidency. Old Hindenburg, who had no love for Hitler, sarcastically said he would make Hitler his postal minister, because "then he can lick my backside"
+7 There already was a stamp of von Hindenburg to honor his presidency. Old Hindenburg, who had no love for Hitler, sarcastically said he would make Hitler his postal minister, because "then he can lick my backside"
 
 Far from being the ascetic, Hitler lived self-indulgently. During his entire tenure in office he got special rulings from the German tax office that allowed him to avoid paying income or property taxes. He had a motor pool of limousines, private apartments, country homes, a vast staff of servants, and a majestic estate in the Alps. His happiest times were spent entertaining European royalty, including the Duke and Duchess of Windsor, who numbered among his enthusiastic admirers.
 
 #### Kudos for Adolph and Benito
 
-Italian fascism and German Nazism had their admirers within the U. S. business community and the corporate-owned press. Bankers, publishers, and industrialists, including the likes of Henry Ford, traveled to Rome and Berlin to pay homage, receive medals, and strike profitable deals. Many did their utmost to advance the Nazi war effort, sharing military-industrial secrets and engaging in secret transactions with the Nazi government, even after the United States entered the war.<sup>9</sup> During the 1920s and early 1930s, major publications like Fortune, the Wallstreet Journal Saturday Evening Post, New York Times, Chicago Tribune, and Christian Science Monitor hailed Mussolini as the man who rescued Italy from anarchy and radicalism. They spun rhapsodic fantasies of a resurrected Italy where poverty and exploitation had suddenly disappeared, where Reds had been vanquished, harmony reigned, and Blackshirts protected a "new democracy."
+Italian fascism and German Nazism had their admirers within the U. S. business community and the corporate-owned press. Bankers, publishers, and industrialists, including the likes of Henry Ford, traveled to Rome and Berlin to pay homage, receive medals, and strike profitable deals. Many did their utmost to advance the Nazi war effort, sharing military-industrial secrets and engaging in secret transactions with the Nazi government, even after the United States entered the war.9 During the 1920s and early 1930s, major publications like Fortune, the Wallstreet Journal Saturday Evening Post, New York Times, Chicago Tribune, and Christian Science Monitor hailed Mussolini as the man who rescued Italy from anarchy and radicalism. They spun rhapsodic fantasies of a resurrected Italy where poverty and exploitation had suddenly disappeared, where Reds had been vanquished, harmony reigned, and Blackshirts protected a "new democracy."
 
 The Italian-language press in the United States eagerly joined the chorus. The two most influential newspapers, Vltalia of San Francisco, financed largely by A. R Giannini s Bank of America, and Il Progresso of New York, owned by multimillionaire Generoso Pope, looked favorably on the fascist regime and suggested that the United States could benefit from a similar social order.
 
-<sup>9</sup> Charles Higham, Trading with the Enemy (New York: Dell, 1983).
+9 Charles Higham, Trading with the Enemy (New York: Dell, 1983).
 
 Some dissenters refused to join the "We Adore Benito" chorus. The Nation reminded its readers that Mussolini was not saving democracy but destroying it. Progressives of all stripes and various labor leaders denounced fascism. But their critical sentiments received little exposure in the U. S. corporate media.
 
@@ -315,13 +622,13 @@ Schneider: My God, our class struggle, our strikes, they weren't an experience, 
 
 August: They were necessary, b u t . . . they are historical experiences. Schneider: So, and the future therefore will have your Volk community. Tell me how do you actually envision it? Poor, rich, healthy, upper, lower, all this ceases with you, eh?...
 
-August: Look, Papa, upper, lower, poor, rich, that always exists. It is only the importance one places on that question that's decisive. To us life is not chopped up into working hours and furnished with price charts. Rather, we believe in human existence as a whole. None of us regards making money as the most important thing; we want to serve. The individual is a corpuscle in the bloodstream of his people.<sup>10</sup>
+August: Look, Papa, upper, lower, poor, rich, that always exists. It is only the importance one places on that question that's decisive. To us life is not chopped up into working hours and furnished with price charts. Rather, we believe in human existence as a whole. None of us regards making money as the most important thing; we want to serve. The individual is a corpuscle in the bloodstream of his people.10
 
 The son's comments are revealing: "the class struggle is dying out." Papa's concern about the abuses of class power and class injustice is facilely dismissed as just a frame of m ind with no objective reality. It is even falsely equated with a crass concern for money. ("None of us regard making money as important") Presumably matters of wealth are to be left to those who have it. We have something better, August is saying: a totalistic, monistic experience as a people, all of us, rich and poor, working together for some greater glory. Conveniently overlooked is how the "glorious sacrifices" are borne by the poor for the benefit of the rich.
 
 The position enunciated in that play and in other Nazi propaganda does not reveal an indifference to class; quite the contrary, it represents a keen awareness of class interests, a well-engineered
 
-<sup>10</sup> George Mosse (ed.), Nazi Culture (New York: Grosset & Dunlap, 1966), 116-118.
+10 George Mosse (ed.), Nazi Culture (New York: Grosset & Dunlap, 1966), 116-118.
 
 effort to mask and mute the strong class consciousness that existed among workers in Germany. In the crafty denial, we often find the hidden admission.
 
@@ -335,13 +642,13 @@ The paramilitary SA had been used to win the battle of the streets against trade
 
 Having used the SA to take state power, Hitler then used the state to neutralize the SA. Now suddenly Roehm s homosexuality did conflict with National Socialist ideology. In truth, the SA had to be decapitated not because its leaders were homosexual—though that was the reason given—but because it threatened to turn into a serious problem. Roehm and about 300 other SA members were executed, not all of whom were gay. Among the victims was veteran Nazi propagandist Gregor Strasser, who was suspected of leftist leanings.
 
-Of course, many Nazis were virulently homophobic. One of the most powerful of all, SS leader Heinrich Himmler, saw homosexuals as a threat to German manhood and the moral fiber of Teutonic peoples, for a "homosexual sissy" would not procreate or make a good soldier. Himmler s homophobia and sexism came together when he announced: "If a man just looks at a girl in America, he can be forced to marry her or pay damages... therefore men protect themselves in the USA by turning to homosexuals. Women in the USA are like battie-axes—they hack away at males."<sup>11</sup> Thus spoke one of the great minds of Nazism. In time, Himmler succeeded in extending the oppression of gays beyond the SA leadership. Thousands of gay civilians perished in SS concentration camps.
+Of course, many Nazis were virulently homophobic. One of the most powerful of all, SS leader Heinrich Himmler, saw homosexuals as a threat to German manhood and the moral fiber of Teutonic peoples, for a "homosexual sissy" would not procreate or make a good soldier. Himmler s homophobia and sexism came together when he announced: "If a man just looks at a girl in America, he can be forced to marry her or pay damages... therefore men protect themselves in the USA by turning to homosexuals. Women in the USA are like battie-axes—they hack away at males."11 Thus spoke one of the great minds of Nazism. In time, Himmler succeeded in extending the oppression of gays beyond the SA leadership. Thousands of gay civilians perished in SS concentration camps.
 
 In societies throughout the ages, if able to find the opportunity, women have attempted to limit the number of children they bear. This poses a potential problem for a fascist patriarchy that needs vast numbers of soldiers and armaments workers. Women are less able to assert their procreative rights if kept subservient and dependent. So fascist ideology extolled patriarchal authority. Every man must be a husband, a father, and a soldier, il Duce said. Woman's greatest calling was to cultivate her domestic virtues, devotedly tending to the needs of her family while bearing as many offspring for the state as she could.
 
 Patriarchal ideology was linked to a conservative class ideology that saw all forms of social equality as a threat to hierarchal control
 
-<sup>11</sup> Richard Plant, The Pink Triangle, 91.
+11 Richard Plant, The Pink Triangle, 91.
 
 and privilege. The patriarchy buttressed the plutocracy: If women get out of line, what will happen to the family? And if the family goes, the entire social structure is threatened. What then will happen to the state and to the dominant class's authority, privileges, and wealth? The fascists were big on what today is called "family values"—though most of the top Nazi leaders could hardly be described as devoted family men.
 
@@ -361,35 +668,35 @@ Fascism is a false revolution. It cultivates the appearance of popular politics 
 
 One of the things conveniently overlooked by mainstream writers is the way Western capitalist states have cooperated with fascism. In his collaborationist efforts, British Prime Minister Neville
 
-<sup>12</sup> Chomsky interviewed by Husayn Al-Kurdi, Perception, March/April 1996.
+12 Chomsky interviewed by Husayn Al-Kurdi, Perception, March/April 1996.
 
 Chamberlain was positively cozy with the Nazis. He and many of his class saw Hitler as a bulwark against communism in Germany, and Nazi Germany as a bulwark against communism in Europe.
 
-After World War II, the Western capitalist allies did little to eradicate fascism from Italy or Germany, except for putting some of the top leaders on trial at Nuremberg. By 1947, German conservatives began to depict the Nuremberg prosecutors as dupes of the Jews and communists. In Italy, the strong partisan movement that had waged armed struggle against fascism was soon treated as suspect and unpatriotic. Within a year after the war, almost all Italian fascists were released from prison while hundreds of communists and other leftist partisans who had been fighting the Nazi occupation were jailed. History was turned on its head, transforming the Blackshirts into victims and the Reds into criminals. Allied authorities assisted in these measures.<sup>13</sup>
+After World War II, the Western capitalist allies did little to eradicate fascism from Italy or Germany, except for putting some of the top leaders on trial at Nuremberg. By 1947, German conservatives began to depict the Nuremberg prosecutors as dupes of the Jews and communists. In Italy, the strong partisan movement that had waged armed struggle against fascism was soon treated as suspect and unpatriotic. Within a year after the war, almost all Italian fascists were released from prison while hundreds of communists and other leftist partisans who had been fighting the Nazi occupation were jailed. History was turned on its head, transforming the Blackshirts into victims and the Reds into criminals. Allied authorities assisted in these measures.13
 
 Under the protection of U. S. occupation authorities, the police, courts, military, security agencies, and bureaucracy remained largely staffed by those who had served the former fascist regimes or by their ideological recruits—as is true to this day. The perpetrators of the Holocaust murdered six million Jews, half a million Gypsies, thousands of homosexuals, several million Ukranians, Russians, Poles, and others, and got away with it—in good part because the very people who were supposed to investigate these crimes were themselves complicit.
 
-<sup>13</sup> Roy Palmer Domenico, Italian Fascists on Trial, 1943-1948 (Chapel Hill: University of North Carolina Press, 1991), passim. So in France, very few of the Vichy collaborators were purged. "No one of any rank was seriously punished for his or her role in the roundup and deportation of Jews to Nazi camps": Herbert Lottman, The Purge (New York: William Morrow, 1986), 290. Much the same can be said about Germany; see Ingo Muller, Hitlers Justice (Cambridge, Mass.: Harvard University Press, 1991), part 3, "The Aftermath" U. S. military authorities restored fascist collaborators to power in various Far East nations« In South Korea, for instance, Koreans collaborators and the Japanese-trained police were used to suppress left democratic forces. The South Korean Army was commanded by officers who had served in the Imperial Japanese Army "and were proud of it." Numbers of them had been guilty of war crimes in the Philippines and China: Hugh Deane, "Korea, China and the United States: A Look Back," Monthly Review, Feb. 1995, 20 and 23.
+13 Roy Palmer Domenico, Italian Fascists on Trial, 1943-1948 (Chapel Hill: University of North Carolina Press, 1991), passim. So in France, very few of the Vichy collaborators were purged. "No one of any rank was seriously punished for his or her role in the roundup and deportation of Jews to Nazi camps": Herbert Lottman, The Purge (New York: William Morrow, 1986), 290. Much the same can be said about Germany; see Ingo Muller, Hitlers Justice (Cambridge, Mass.: Harvard University Press, 1991), part 3, "The Aftermath" U. S. military authorities restored fascist collaborators to power in various Far East nations« In South Korea, for instance, Koreans collaborators and the Japanese-trained police were used to suppress left democratic forces. The South Korean Army was commanded by officers who had served in the Imperial Japanese Army "and were proud of it." Numbers of them had been guilty of war crimes in the Philippines and China: Hugh Deane, "Korea, China and the United States: A Look Back," Monthly Review, Feb. 1995, 20 and 23.
 
 In comparison, when the Communists took over in East Germany, they removed some 80 percent of the judges, teachers, and officials for their Nazi collaboration; they imprisoned thousands, and they executed six hundred Nazi party leaders for war crimes. They would have shot more of the war criminals had not so many fled to the protective embrace of the West.
 
-What happened to the U. S. businesses that collaborated with fascism ? The Rockefeller family's Chase National Bank used its Paris office in Vichy France to help launder German money to facilitate Nazi international trade during the war, and did so with complete impunity.14 Corporations like Du Pont, Ford, General Motors, and ITT owned factories in enemy countries that produced fuel, tanks, and planes that wreaked havoc on Allied forces. After the war, instead of being prosecuted for treason, ITT collected \$27 million from the U. S. government for war damages inflicted on its German plants by Allied bombings. General Motors collected over \$33 million. Pilots were given instructions not to hit factories in Germany that were owned by U. S. firms. Thus Cologne was almost leveled by Allied bombing but its Ford plant, providing military equipment for the Nazi army, was untouched; indeed, German civilians began using the plant as an air raid shelter.<sup>15</sup>
+What happened to the U. S. businesses that collaborated with fascism ? The Rockefeller family's Chase National Bank used its Paris office in Vichy France to help launder German money to facilitate Nazi international trade during the war, and did so with complete impunity.14 Corporations like Du Pont, Ford, General Motors, and ITT owned factories in enemy countries that produced fuel, tanks, and planes that wreaked havoc on Allied forces. After the war, instead of being prosecuted for treason, ITT collected \$27 million from the U. S. government for war damages inflicted on its German plants by Allied bombings. General Motors collected over \$33 million. Pilots were given instructions not to hit factories in Germany that were owned by U. S. firms. Thus Cologne was almost leveled by Allied bombing but its Ford plant, providing military equipment for the Nazi army, was untouched; indeed, German civilians began using the plant as an air raid shelter.15
 
 For decades, U. S. leaders have done their part in keeping Italian fascism alive. From 1945 to 1975, U. S. government agencies gave an estimated \$75 million to right-wing organizations in Italy, including some with close ties to the neofascist Movimento Sociale Italiano (MSI). In 1975, then Secretary of State Henry Kissinger met with
 
-<sup>14</sup> After the war, Hermann Abs, head of the Deutsche Bank and in effect "Hitler's paymaster," was hailed by David Rockefeller as "the most important banker of our time." According to his New York Times obituary, Abs "played a dominant role in West Germany's reconstruction after World War II." Neither the Times nor Rockefeller said a word about Abs' Nazi connections, his banks predatory incursions across Nazi occupied Europe, and his participation, as a board member of I. G. Farben, in the use of slave labor at Auschwitz: Robert Carl Miller, Portland Free Press, Sept/Oct 1994.
+14 After the war, Hermann Abs, head of the Deutsche Bank and in effect "Hitler's paymaster," was hailed by David Rockefeller as "the most important banker of our time." According to his New York Times obituary, Abs "played a dominant role in West Germany's reconstruction after World War II." Neither the Times nor Rockefeller said a word about Abs' Nazi connections, his banks predatory incursions across Nazi occupied Europe, and his participation, as a board member of I. G. Farben, in the use of slave labor at Auschwitz: Robert Carl Miller, Portland Free Press, Sept/Oct 1994.
 
-<sup>15</sup> Charles Higham, Trading with the Enemy.
+15 Charles Higham, Trading with the Enemy.
 
 MSI leader Giorgio Almirante in Washington to discuss what "alternatives" might be considered should the Italian Communists win the elections and take control of the government.
 
-Hundreds of Nazi war criminals found a haven in the United States, either living in comfortable anonymity or actively employed by U. S. intelligence agencies during the cold war and otherwise enjoying the protection of high-placed individuals. Some of them found their way onto the Republican presidential campaign committees of Richard Nixon, Ronald Reagan, and George Bush.<sup>16</sup>
+Hundreds of Nazi war criminals found a haven in the United States, either living in comfortable anonymity or actively employed by U. S. intelligence agencies during the cold war and otherwise enjoying the protection of high-placed individuals. Some of them found their way onto the Republican presidential campaign committees of Richard Nixon, Ronald Reagan, and George Bush.16
 
 In Italy, from 1969 to 1974, high-ranking elements in Italian military intelligence and civilian intelligence agencies; members of P2, a secret lodge of upper-class reactionaries, pro-fascist Vatican officials, and top military brass; and GLADIO, a NATO-inspired anticommunist mercenary force, embarked upon a concerted campaign of terror and sabotage known as the "strategy of tension Other participants included a secret neofascist group called the Ordine Nuovo, NATO officials, members of the carabinieri, mafia bosses, thirty generals, eight admirals, and influential Freemasons like Licio Gelli (a fascist war criminal recruited by U. S. intelligence in 1944). The terrorism was aided and abetted by the "international security apparatus" including the CIA. In 1995, the CIA refused to cooperate with an Italian parliamentary commission investigating the strategy of tension ( Corriere della Sera, 4/12/95, 5/29/95).
 
 The terrorist conspirators carried out a series of kidnappings,
 
-<sup>16</sup> One of them, Boleslavs Maikovskis, a Latvian police chief who fled to West Germany to escape Soviet war crimes investigations and then to the United States, was heavily implicated in the Nazi slaughter of over two hundred Latvian villagers. He served for a time on a Republican party subcommittee to re-elect President Nixon, then fled back to Germany to avoid a belated U. S. war crimes investigation, dying at the ripe old age of 92 (New York Times, 5/8/96). Nazi war criminals have been aided by Western intelligence agencies, business interests, the military, and even the Vatican. In October 1944, German paratroop commander Major Walter Reder slaughtered 1,836 defenseless civilians in a village near Bologna, Italy as a reprisal against Partisan activities. He was released from prison in 1985, after Pope John Paul II, among others, made an appeal on his behalf—over the strenuous protests of relatives of the victims.
+16 One of them, Boleslavs Maikovskis, a Latvian police chief who fled to West Germany to escape Soviet war crimes investigations and then to the United States, was heavily implicated in the Nazi slaughter of over two hundred Latvian villagers. He served for a time on a Republican party subcommittee to re-elect President Nixon, then fled back to Germany to avoid a belated U. S. war crimes investigation, dying at the ripe old age of 92 (New York Times, 5/8/96). Nazi war criminals have been aided by Western intelligence agencies, business interests, the military, and even the Vatican. In October 1944, German paratroop commander Major Walter Reder slaughtered 1,836 defenseless civilians in a village near Bologna, Italy as a reprisal against Partisan activities. He was released from prison in 1985, after Pope John Paul II, among others, made an appeal on his behalf—over the strenuous protests of relatives of the victims.
 
 assassinations, and bombing massacres (i stragi), including the explosion that killed eighty-five people and injured some two hundred, many seriously, in the Bologna train station in August 1980. As subsequent judicial investigations concluded, the strategy of tension was not a simple product of neofascism but the consequence of a larger campaign conducted by state security forces against the growing popularity of the democratic parliamentary Left. The objective was to "combat by any means necessary the electoral gains of the Italian Communist party" and create enough fear and terror in the population so as to undermine the multiparty social democracy and replace it with an authoritarian "presidential republic," or in any case "a stronger and more stable executive." {La Repubblica, 4/9/95; Corriere della Sera, 3/27/95, 3/28/95, 5/29/95).
 
@@ -407,9 +714,9 @@ Conservatives in the Western nations utilize diluted forms of the fascist mass a
 
 ## LET US NOW PRAISE REVOLUTION
 
-For most of this century U. S. foreign policy has been devoted to the suppression of revolutionary governments and radical movements around the world. The turn of the twentieth century found the Mc Kinley administration in a war of attrition against the people of the Philippines lasting from 1898 to 1902 (with pockets of resistance continuing for years afterward). In that conflict, U. S. forces slaughtered some 200,000 Filipino women, men, and children.<sup>1</sup> At about that same time, in conjunction with various European colonial powers, the United States invaded China to help suppress the Boxer Rebellion at substantial loss of life to the Chinese rebels. U. S. forces took over Hawaii, Cuba, Puerto Rico, and Guam and in the following decades invaded Mexico, Soviet Russia, Nicaragua, Honduras, the Dominican Republic, and other countries, actions that usually inflicted serious losses upon the populations of these countries.
+For most of this century U. S. foreign policy has been devoted to the suppression of revolutionary governments and radical movements around the world. The turn of the twentieth century found the Mc Kinley administration in a war of attrition against the people of the Philippines lasting from 1898 to 1902 (with pockets of resistance continuing for years afterward). In that conflict, U. S. forces slaughtered some 200,000 Filipino women, men, and children.1 At about that same time, in conjunction with various European colonial powers, the United States invaded China to help suppress the Boxer Rebellion at substantial loss of life to the Chinese rebels. U. S. forces took over Hawaii, Cuba, Puerto Rico, and Guam and in the following decades invaded Mexico, Soviet Russia, Nicaragua, Honduras, the Dominican Republic, and other countries, actions that usually inflicted serious losses upon the populations of these countries.
 
-<sup>1</sup> Leon Wolf, Little Brown Brother (New York: Oxford University Press, 1960).
+1 Leon Wolf, Little Brown Brother (New York: Oxford University Press, 1960).
 
 #### The Costs of Counterrevolution
 
@@ -417,17 +724,17 @@ From grade school through grad school, few of us are taught anything about these
 
 The emergence of major communist powers like the Soviet Union and the Peoples Republic of China lent another dimension to U. S. global counterrevolutionary policy. The communists were depicted as evil incarnate, demonized conspirators who sought power for power's sake. The United States had to be everywhere to counteract this spreading "cancer," we were told.
 
-In the name of democracy, U. S. leaders waged a merciless war against revolutionaries in Indochina for the better part of twenty years. They dropped many times more tons of explosives on Vietnam than were used throughout World War II by all combatants combined. Testifying before a Congressional committee, former CIA director William Colby admitted that under his direction U. S. forces and their South Vietnam collaborators carried out the selective assassination of 24,000 Vietnamese dissidents, in what was known as the Phoenix Program. His associate, the South Vietnamese minister of information, maintained that 40,000 was a more accurate estimate.<sup>2</sup> U. S. policymakers and their media mouthpieces judged the war a "mistake" because the Vietnamese proved incapable of being properly instructed by B-52 bomber raids and death squads. By
+In the name of democracy, U. S. leaders waged a merciless war against revolutionaries in Indochina for the better part of twenty years. They dropped many times more tons of explosives on Vietnam than were used throughout World War II by all combatants combined. Testifying before a Congressional committee, former CIA director William Colby admitted that under his direction U. S. forces and their South Vietnam collaborators carried out the selective assassination of 24,000 Vietnamese dissidents, in what was known as the Phoenix Program. His associate, the South Vietnamese minister of information, maintained that 40,000 was a more accurate estimate.2 U. S. policymakers and their media mouthpieces judged the war a "mistake" because the Vietnamese proved incapable of being properly instructed by B-52 bomber raids and death squads. By
 
 Mark Lane, Plausible Denial (New York: Thunders Mouth Press, 1991), 79.
 
 prevailing against this onslaught, the Vietnamese supposedly demonstrated that they were "unprepared for our democratic institutions
 
-In pursuit of counterrevolution and in the name of freedom, U. S. forces or U. S.-supported surrogate forces slaughtered 2,000,000 North Koreans in a three-year war; 3,000,000 Vietnamese; over 500,000 in aerial wars over Laos and Cambodia; over 1,500,000 million in Angola; over 1,000,000 in Mozambique; over 500,000 in Afghanistan; 500,000 to 1,000,000 in Indonesia; 200,000 in East Timor; 100,000 in Nicaragua (combining the Somoza and Reagan eras); over 100,000 in Guatemala (plus an additional 40,000 disappeared); over 700,000 in Iraq;<sup>3</sup> over 60,000 in El Salvador; 30,000 in the "dirty war" of Argentina (though the government admits to only 9,000); 35,000 in Taiwan, when the Kuomintang military arrived from China; 20,000 in Chile; and many thousands in Haiti, Panama, Grenada, Brazil, South Africa, Western Sahara, Zaire, Turkey, and dozens of other countries, in what amounts to a free-market world holocaust.
+In pursuit of counterrevolution and in the name of freedom, U. S. forces or U. S.-supported surrogate forces slaughtered 2,000,000 North Koreans in a three-year war; 3,000,000 Vietnamese; over 500,000 in aerial wars over Laos and Cambodia; over 1,500,000 million in Angola; over 1,000,000 in Mozambique; over 500,000 in Afghanistan; 500,000 to 1,000,000 in Indonesia; 200,000 in East Timor; 100,000 in Nicaragua (combining the Somoza and Reagan eras); over 100,000 in Guatemala (plus an additional 40,000 disappeared); over 700,000 in Iraq;3 over 60,000 in El Salvador; 30,000 in the "dirty war" of Argentina (though the government admits to only 9,000); 35,000 in Taiwan, when the Kuomintang military arrived from China; 20,000 in Chile; and many thousands in Haiti, Panama, Grenada, Brazil, South Africa, Western Sahara, Zaire, Turkey, and dozens of other countries, in what amounts to a free-market world holocaust.
 
 Official sources either deny these U. S.-sponsored mass murders or justify them as necessary measures that had to be taken against an implacable communist foe. Anticommunist propaganda saturated our airwaves, schools, and political discourse. Despite repeated and often factitious references to the tyranny of the Red Menace, the anticommunist opinion makers never spelled out what communists actually did in the way of socio-economic policy. This might explain why, despite decades of Red-bashing propaganda, most Americans, including many who number themselves among the political cognoscenti, still cannot offer an informed statement about the social policies of communist societies.
 
-<sup>3</sup> The 1991 war waged by the Bush administration against Iraq, which claimed an estimated 200,000 victims, was followed by U. S.-led United Nations economic sanctions. A study by the United Nations Food and Agriculture Organization, The Children Are Dying (1996), reports that since the end of the war 576,000 Iraqi children have died of starvation and disease and tens of thousands more suffer defects and illnesses due to the five years of sanctions.
+3 The 1991 war waged by the Bush administration against Iraq, which claimed an estimated 200,000 victims, was followed by U. S.-led United Nations economic sanctions. A study by the United Nations Food and Agriculture Organization, The Children Are Dying (1996), reports that since the end of the war 576,000 Iraqi children have died of starvation and disease and tens of thousands more suffer defects and illnesses due to the five years of sanctions.
 
 The anti-Red propagandists uttered nary a word about how revolutionaries in Russia, China, Cuba, Vietnam, Nicaragua, and other countries nationalized the lands held by rich exploitative landlords and initiated mass programs for education, health, housing, and jobs. Not a word about how their efforts advanced the living standards and life chances of hundreds of millions in countries that had long suffered under the yoke of feudal oppression and Western colonial pillage, an improvement in mass well-being never before witnessed in history.
 
@@ -441,15 +748,15 @@ Ruling classes throughout the world hate and fear communism not for its lack of 
 
 1. "U. S. leaders have the right to define the limits of socioeconomic development within other nations." Not true. Under no canon of international law or any other legal stricture do the leaders of this country have the right to ordain what kind of economic system or mode of social development another country may adopt, no more right than do the leaders of other countries have to dictate such things to the United States. In practice, the option to dictate is exercised by the strong over the weak, a policy of might, not right.
 
-2. "The United States must play a counterrevolutionary containment role in order to protect our national interests." This is true only if we equate "our national interests" with the investment interests of high finance. U. S. interventionism has been very effective in building neo-imperialism, keeping the land, labor, natural resources, and markets of Third World countries available at bargain prices to multinational corporations. But these corporate interests do not represent the interests of the U. S. people. The public pays for the huge military budgets and endures the export of its jobs to foreign labor markets, the inflow of thousands of impoverished immigrants who compete for scarce employment and housing, and various other costs of empire.<sup>4</sup>
+2. "The United States must play a counterrevolutionary containment role in order to protect our national interests." This is true only if we equate "our national interests" with the investment interests of high finance. U. S. interventionism has been very effective in building neo-imperialism, keeping the land, labor, natural resources, and markets of Third World countries available at bargain prices to multinational corporations. But these corporate interests do not represent the interests of the U. S. people. The public pays for the huge military budgets and endures the export of its jobs to foreign labor markets, the inflow of thousands of impoverished immigrants who compete for scarce employment and housing, and various other costs of empire.4
 
 Furthermore, revolutionary governments like Cuba, Libya, Vietnam, and North Korea were—and still are—eager to trade and maintain peaceful relations with this country. These countries do not threaten the national security of the United States or its people, but the overseas interests of global capitalism. If allowed to multiply in numbers, countries with an alternative socialist system, one that uses the land, labor, capital, and natural resources in collectivist ways, placing people before profits, would eventually undermine global capitalism.
 
 3. "The United States has a moral obligation to guarantee the stability of nations that are undergoing democratic development but are threatened by revolutionaries and terrorists." In fact, most U. S. interventions are on behalf of corrupt and self-serving oligarchs and
 
-<sup>4</sup> For a further discussion of this and related points, see my book Against Empire (San Francisco: City Lights Books, 1995), chapter 4.
+4 For a further discussion of this and related points, see my book Against Empire (San Francisco: City Lights Books, 1995), chapter 4.
 
-antidemocratic militarists (who take power with or without the benefit of U. S.-sponsored showcase elections). Third World oligarchs are frequently educated at elite U. S. universities or end up on the CIA payroll, as do their police chiefs and military officers, many of whom receive training in torture and assassination at U. S. counterinsurgency institutions.<sup>5</sup>
+antidemocratic militarists (who take power with or without the benefit of U. S.-sponsored showcase elections). Third World oligarchs are frequently educated at elite U. S. universities or end up on the CIA payroll, as do their police chiefs and military officers, many of whom receive training in torture and assassination at U. S. counterinsurgency institutions.5
 
 4. "Fundamental social change should be peacefully pursued within the established order of nations rather than by revolutionary turmoil" U. S. policymakers maintain that they favor eliminating mass poverty in poorer countries and that they are not opposed to the laudatory objectives of social revolution but to its violent methods. They say that transformations must be effected gradually and peacefully, preferably through private investment and the benign workings of the free market. In fact, corporate investment is more likely to deter rather than encourage reform by preempting markets and restructuring the local economy to fit foreign capital extraction needs. International finance capital has no interest in bettering the life chances of Third World peoples. Generally, as Western investments have increased in the Third World, life conditions for the ordinary peasants and workers have grown steadily more desperate.
 
@@ -459,7 +766,7 @@ People throughout the world do not need more corporate investments, rather they 
 
 Even in countries like the United States, where reforms of limited scope have been achieved without revolution, the "peaceful" means
 
-<sup>5</sup> On the U. S. training of torturers and assassins, see Washington Posty 9/21/96.
+5 On the U. S. training of torturers and assassins, see Washington Posty 9/21/96.
 
 employed have entailed popular struggle and turmoil—and a considerable amount of violence and bloodshed, almost all of it inflicted by police and security forces.
 
@@ -491,7 +798,7 @@ Kennan revealed the ruthless realpolitik mentality of those dedicated to social 
 
 It is said that the United States cannot renege on its commitments to other peoples and must continue as world leader; the rest of the world expects that of us. But the ordinary peoples of the world have never called for U. S. world leadership. Quite the contrary, they usually want the United States to go home and leave them to their own affairs. This is because U. S. commitments are not to the ordinary people of other lands, but to the privileged reactionary factions that are most accomodating to Western investors. As Kennan s remarks indicate, the U. S. policymaking establishment has been concerned not with advancing the welfare of impoverished peoples around the world but with defeating whoever allies themselves with the common people, be they Reds or not.
 
-Whatever their grave shortcomings, do not U. S.-supported Third World rulers represent something better than the kind of tyranny that communists and revolutionary totalitarian bring? Academic cheerleaders for U. S. interventionism, such as Samuel P. Huntington of Harvard University, think so: "However bad a given evil maybe, a worse one is always possible and often likely," Huntington concludes, going on to defend as "lesser evils" the murderous regimes in Chile under Pinochet and South Africa under apartheid.<sup>6</sup>
+Whatever their grave shortcomings, do not U. S.-supported Third World rulers represent something better than the kind of tyranny that communists and revolutionary totalitarian bring? Academic cheerleaders for U. S. interventionism, such as Samuel P. Huntington of Harvard University, think so: "However bad a given evil maybe, a worse one is always possible and often likely," Huntington concludes, going on to defend as "lesser evils" the murderous regimes in Chile under Pinochet and South Africa under apartheid.6
 
 We might recall Jean Kirkpatricks distinction between "benign" authoritarian right-wing governments that supposedly are not all that brutal and allow gradual change, and horrid totalitarian leftwing ones that suppress everyone. The real distinction is that the right-wing government maintains the existing privileged order of the free market, keeping the world safe for the empowered hierarchies and wealthy classes of the world. In contrast, the left-wing "totalitarians" want to abolish exploitative property relations and create a more egalitarian economic system. Their favoring the have-nots over the haves is what makes them so despicable in the eyes of the latter.
 
@@ -499,7 +806,7 @@ U. S. leaders claim to be offended by certain features of social revolutionary g
 
 We might recall that unforgettable moment when President George
 
-<sup>6</sup> American Political Science Review, 82, March 1988, 5. In that same statement, Huntington describes Mangosutho Buthelezi, the CIA-supported head of the South African Inkatha Freedom Party, as a "notable contemporary democratic reformer." It is a matter of public record that Buthelezi collaborated with the toplevel apartheid military and police in the murder of thousands of African National Congress (ANC) supporters. Colonel Eugene de Kock, the highest ranking officer convicted of apartheid crimes, who once described himself as the government s most efficient assassin, testified that he had supplied weapons, vehicles, and training to Buthelezi's organization for a "total onslaught" strategy against democratic, anti-apartheid forces (AP report, San Francisco Chronicle, 9/18/96). There is no denying that Buthelezi is Huntington s kind of guy.
+6 American Political Science Review, 82, March 1988, 5. In that same statement, Huntington describes Mangosutho Buthelezi, the CIA-supported head of the South African Inkatha Freedom Party, as a "notable contemporary democratic reformer." It is a matter of public record that Buthelezi collaborated with the toplevel apartheid military and police in the murder of thousands of African National Congress (ANC) supporters. Colonel Eugene de Kock, the highest ranking officer convicted of apartheid crimes, who once described himself as the government s most efficient assassin, testified that he had supplied weapons, vehicles, and training to Buthelezi's organization for a "total onslaught" strategy against democratic, anti-apartheid forces (AP report, San Francisco Chronicle, 9/18/96). There is no denying that Buthelezi is Huntington s kind of guy.
 
 Bush—whose invasions of Panama and Iraq brought death and destruction to those nations and who presided over a U. S. military empire that is the single greatest purveyor of violence in the world lectured revolutionary leader Nelson Mandela on the virtues of nonviolence, even going so far as to quote Martin Luther King, Jr., during Mandelas visit to Washington, D. C. in June 1990. Mandela's real sin in Bushs eyes was that he was part of a revolutionary movement that engaged in armed struggle against a violently repressive apartheid regime in South Africa. Bushs capacity for selective perception had all the unexamined audacity of a dominant ideology that condemns only those who act against an unjust status quo, not those who use violence to preserve it. It would have come as a great relief to people around the world if the president of the United States had adopted a policy of nonviolence for his own government. In fact, he had done no such thing.
 
@@ -535,7 +842,7 @@ Even if the longstanding practice of children helping out on farms is acceptable
 
 Traveling across Cuba in 1959, immediately after the overthrow of the U. S.-supported right-wing Batista dictatorship, Mike Faulkner witnessed "a spectacle of almost unrelieved poverty." The rural population lived in makeshift shacks without minimal sanitation. Malnourished children went barefoot in the dirt and suffered "the familiar plague of parasites common to the Third World." There were almost no doctors or schools. And through much of the year, families that depended solely on the seasonal sugar harvest lived close to starvation (Monthly Review; 3/96). How does that victimization in prerevolutionary Cuba measure against the much more widely publicized repression that came after the revolution, when Castro's communists executed a few hundred of the previous regime's police assassins and torturers, drove assorted upper-class moneybags into exile, and intimidated various other opponents of radical reforms into silence?
 
-Today, Cuba is a different place. For all its mistakes and abuses, the Cuban Revolution brought sanitation, schools, health clinics, jobs, housing, and human services to a level not found throughout most of the Third World and in many parts of the First World. Infant mortality in Cuba has dropped from 60 per 1000 in 1960 to 9.7 per 1000 by 1991, while life expectancy rose from 55 to 75 in that same period. Smallpox, malaria, tuberculosis, typhoid, polio, and numerous other diseases have been wiped out by improved living standards and public health programs.<sup>7</sup> Cuba has enjoyed a level of literacy higher than in the United States and a life expectancy that compares well with advanced industrial nations (NACLA Report on the Americas, September/October 1995). Other peoples besides the Cubans have benefited. As Fidel Castro tells it:
+Today, Cuba is a different place. For all its mistakes and abuses, the Cuban Revolution brought sanitation, schools, health clinics, jobs, housing, and human services to a level not found throughout most of the Third World and in many parts of the First World. Infant mortality in Cuba has dropped from 60 per 1000 in 1960 to 9.7 per 1000 by 1991, while life expectancy rose from 55 to 75 in that same period. Smallpox, malaria, tuberculosis, typhoid, polio, and numerous other diseases have been wiped out by improved living standards and public health programs.7 Cuba has enjoyed a level of literacy higher than in the United States and a life expectancy that compares well with advanced industrial nations (NACLA Report on the Americas, September/October 1995). Other peoples besides the Cubans have benefited. As Fidel Castro tells it:
 
 The [Cuban] revolution has sent teachers, doctors, and workers to dozens of Third World countries without charging a penny. It shed its own blood fighting colonialism, fighting apartheid, and fascism. . . . At one point we had 25,000 Third World students studying on scholarships. We still have many scholarship students from Africa and other countries. In addition, our country has treated more children [13,000] who were victims of the Chernobyl tragedy than all other countries put together.
 
@@ -547,7 +854,7 @@ Cuba s sin in the eyes of global capitalists is not its "lack of democracy." Mos
 
 So a conservative think tank like the Heritage Foundation rated Cuba along with Laos, Iraq, and North Korea as countries with the
 
-<sup>7</sup> Theodore Mac Donald, Hippocrates in Havana: Cuba's Health Care System ( 1995).
+7 Theodore Mac Donald, Hippocrates in Havana: Cuba's Health Care System ( 1995).
 
 lowest level of "economic freedom ." Countries with a high level of economic freedom were those that imposed little or no taxes or regulations on business, and did without wage protections, price controls, environmental safeguards, and benefits for the poor. Economic freedom is the real concern of conservatives and plutocrats; the freedom to utilize vast sums of money to accumulate still vaster sums, regardless of the human and environmental costs.
 
@@ -579,11 +886,11 @@ Purging the Left of communists became a longstanding practice, having injurious 
 
 The strategy did not work. ADA and others on the Left were still attacked for being communist or soft on communism by those on the Right. Then and now, many on the Left have failed to realize that those who fight for social change on behalf of the less-privileged elements of society will be Red-baited by conservative elites whether they are communists or not. For ruling interests, it makes little difference whether their wealth and power is challenged by "communist subversives" or "loyal American liberals." All are lumped together as more or less equally abhorrent.
 
-Even when attacking the Right, left critics cannot pass up an opportunity to flash their anticommunist credentials. So Mark Green writes in a criticism of President Ronald Reagan that "when presented with a situation that challenges his conservative catechism, like an unyielding Marxist-Leninist, [Reagan] will change not his mind but the facts."<sup>1</sup> While professing a dedication to fighting dogmatism "both of the Right and Left," individuals who perform such de rigueur genuflections reinforce the anticommunist dogma. Redbaiting leftists contributed their share to the climate of hostility that has given U. S. leaders such a free hand in waging hot and cold wars against communist countries and which even today makes a progressive or even liberal agenda difficult to promote.
+Even when attacking the Right, left critics cannot pass up an opportunity to flash their anticommunist credentials. So Mark Green writes in a criticism of President Ronald Reagan that "when presented with a situation that challenges his conservative catechism, like an unyielding Marxist-Leninist, [Reagan] will change not his mind but the facts."1 While professing a dedication to fighting dogmatism "both of the Right and Left," individuals who perform such de rigueur genuflections reinforce the anticommunist dogma. Redbaiting leftists contributed their share to the climate of hostility that has given U. S. leaders such a free hand in waging hot and cold wars against communist countries and which even today makes a progressive or even liberal agenda difficult to promote.
 
 A prototypic Red-basher who pretended to be on the Left was George Orwell. In the middle of World War II, as the Soviet Union was fighting for its life against the Nazi invaders at Stalingrad, Orwell announced that a "willingness to criticize Russia and Stalin is the test of intellectual honesty. It is the only thing that from a literary intellectual's point of view is really dangerous" (Monthly Review, 5/83). Safely ensconced within a virulently anticommunist society, Orwell (with Orwellian doublethink) characterized the condemnation of communism as a lonely courageous act of defiance. Today, his ideological progeny are still at it, offering themselves as intrepid left critics of the Left, waging a valiant struggle against imaginary Marxist-Leninist-Stalinist hordes.
 
-<sup>1</sup> Mark Green and Gail Mac Coll, New York: Pantheon Books, There He Goes Again: Ronald Reagan's Reign of Error (1983), 12.
+1 Mark Green and Gail Mac Coll, New York: Pantheon Books, There He Goes Again: Ronald Reagan's Reign of Error (1983), 12.
 
 Sorely lacking within the U. S. Left is any rational evaluation of the Soviet Union, a nation that endured a protracted civil war and a multinational foreign invasion in the very first years of its existence, and that two decades later threw back and destroyed the Nazi beast at enormous cost to itself. In the three decades after the Bolshevik revolution, the Soviets made industrial advances equal to what capitalism took a century to accomplish—while feeding and schooling their children rather than working them fourteen hours a day as capitalist industrialists did and still do in many parts of the world. And the Soviet Union, along with Bulgaria, the German Democratic Republic, and Cuba, provided vital assistance to national liberation movements in countries around the world, including Nelson Mandela's African National Congress in South Africa.
 
@@ -591,21 +898,21 @@ Left anticommunists remained studiously unimpressed by the dramatic gains won by
 
 #### Slinging Labels
 
-Those of us who refused to join in the Soviet bashing were branded by left anticommunists as "Soviet apologists" and "Stalinists," even if we disliked Stalin and his autocratic system of rule and believed there were things seriously wrong with existing Soviet society.<sup>2</sup> Our real sin was that unlike many on the Left we
+Those of us who refused to join in the Soviet bashing were branded by left anticommunists as "Soviet apologists" and "Stalinists," even if we disliked Stalin and his autocratic system of rule and believed there were things seriously wrong with existing Soviet society.2 Our real sin was that unlike many on the Left we
 
 In the first edition of my book Inventing Reality (New York: St. Martins Press, 1986) I wrote: "The U. S. médias encompassing negativity in regard to the Soviet Union might induce some of us to react with an unqualifiedly glowing view of that society. The truth is, in the USSR there exist serious problems of labor productivity, industrialization, urbanization, bureaucracy, corruption, and alcoholism. There are production and distribution bottlenecks, plan failures, consumer scarcities, criminal abuses of power, suppression of dissidents, and expressions of alienation among some persons in the population."
 
-refused to uncritically swallow U. S. media propaganda about communist societies. Instead, we maintained that, aside from the wellpublicized deficiencies and injustices, there were positive features about existing communist systems that were worth preserving, that improved the lives of hundreds of millions of people in meaningful and humanizing ways. This claim had a decidedly unsettling effect on left anticommunists who themselves could not utter a positive word about any communist society (except possibly Cuba) and could not lend a tolerant or even courteous ear to anyone who did.<sup>3</sup>
+refused to uncritically swallow U. S. media propaganda about communist societies. Instead, we maintained that, aside from the wellpublicized deficiencies and injustices, there were positive features about existing communist systems that were worth preserving, that improved the lives of hundreds of millions of people in meaningful and humanizing ways. This claim had a decidedly unsettling effect on left anticommunists who themselves could not utter a positive word about any communist society (except possibly Cuba) and could not lend a tolerant or even courteous ear to anyone who did.3
 
-Saturated by anticommunist orthodoxy, most U. S. leftists have practiced a left Mc Carthyism against people who did have something positive to say about existing communism, excluding them from participation in conferences, advisory boards, political endorsements, and left publications. Like conservatives, left anticommunists tolerated nothing less than a blanket condemnation of the Soviet Union as a Stalinist monstrosity and a Leninist moral aberration.<sup>4</sup>
+Saturated by anticommunist orthodoxy, most U. S. leftists have practiced a left Mc Carthyism against people who did have something positive to say about existing communism, excluding them from participation in conferences, advisory boards, political endorsements, and left publications. Like conservatives, left anticommunists tolerated nothing less than a blanket condemnation of the Soviet Union as a Stalinist monstrosity and a Leninist moral aberration.4
 
 That many U. S. leftists have scant familiarity with Lenin s writings and political work does not prevent them from slinging the "Leninist" label. Noam Chomsky, who is an inexhaustible fount of anticommunist caricatures, offers this comment about Leninism: "Western and also Third World intellectuals were attracted to the
 
-<sup>3</sup> Many on the U. S. Left, who displayed only hostility and loathing toward the Soviet Union and other European communist states, have a warm feeling for Cuba, which they see as having a true revolutionary tradition and a somewhat more open society. In fact, at least until the present (January 1997), Cuba has had much the same system as the USSR and other communist nations: public ownership of industry, a planned economy, close relations with existing communist nations, and one-party rule—with the party playing a hegemonic role in the government, media, labor unions, women's federations, youth groups, and other institutions.
+3 Many on the U. S. Left, who displayed only hostility and loathing toward the Soviet Union and other European communist states, have a warm feeling for Cuba, which they see as having a true revolutionary tradition and a somewhat more open society. In fact, at least until the present (January 1997), Cuba has had much the same system as the USSR and other communist nations: public ownership of industry, a planned economy, close relations with existing communist nations, and one-party rule—with the party playing a hegemonic role in the government, media, labor unions, women's federations, youth groups, and other institutions.
 
-<sup>4</sup> Partly in reaction to the ubiquitous anticommunist propaganda that permeated U. S. media and public life, many U. S. communists, and others close to them, refrained from criticizing the autocratic features of the Soviet Union. Consequently, they were accused of thinking that the USSR was a workers "paradise" by critics who seemingly would settle for nothing less than paradisial standards. After the Khrushchev revelations in 1953, U. S. communists grudgingly allowed that Stalin had made "mistakes" and even had committed crimes.
+4 Partly in reaction to the ubiquitous anticommunist propaganda that permeated U. S. media and public life, many U. S. communists, and others close to them, refrained from criticizing the autocratic features of the Soviet Union. Consequently, they were accused of thinking that the USSR was a workers "paradise" by critics who seemingly would settle for nothing less than paradisial standards. After the Khrushchev revelations in 1953, U. S. communists grudgingly allowed that Stalin had made "mistakes" and even had committed crimes.
 
-Bolshevik counterrevolution [sic] because Leninism is, after all, a doctrine that says that the radical intelligentsia have a right to take state power and to run their countries by force, and that is an idea which is rather appealing to intellectuals"<sup>5</sup> Here Chomsky fashions an image of power-hungry intellectuals to go along with his cartoon image of power-hungry Leninists, villains seeking not the revolutionary means to fight injustice but power for power s sake. When it comes to Red-bashing, some of the best and brightest on the Left sound not much better than the worst on the Right.
+Bolshevik counterrevolution [sic] because Leninism is, after all, a doctrine that says that the radical intelligentsia have a right to take state power and to run their countries by force, and that is an idea which is rather appealing to intellectuals"5 Here Chomsky fashions an image of power-hungry intellectuals to go along with his cartoon image of power-hungry Leninists, villains seeking not the revolutionary means to fight injustice but power for power s sake. When it comes to Red-bashing, some of the best and brightest on the Left sound not much better than the worst on the Right.
 
 At the time of the 1996 terror bombing in Oklahoma City, I heard a radio commentator announce: "Lenin said that the purpose of terror is to terrorize." U. S. media commentators have repeatedly quoted Lenin in that misleading manner. In fact, his statement was disapproving of terrorism. He polemicized against isolated terrorist acts which do nothing but create terror among the populace, invite repression, and isolate the revolutionary movement from the masses. Far from being the totalitarian, tight-circled conspirator, Lenin urged the building of broad coalitions and mass organizations, encompassing people who were at different levels of political development. He advocated whatever diverse means were needed to advance the class struggle, including participation in parliamentary elections and existing trade unions. To be sure, the working class, like any mass group, needed organization and leadership to wage a successful revolutionary struggle, which was the role of a vanguard party, but that did not mean the proletarian revolution could be fought and won by putschists or terrorists.
 
@@ -613,11 +920,11 @@ Lenin constantly dealt with the problem of avoiding the two extremes of liberal 
 
 Chomsky interviewed by Husayn Al-Kurdi: Perception, March/April 1996.
 
-that warrants critical examination. But a useful evaluation is not likely to come from people who misrepresent his theory and practice.<sup>6</sup>
+that warrants critical examination. But a useful evaluation is not likely to come from people who misrepresent his theory and practice.6
 
 Left anticommunists find any association with communist organizations morally unacceptable because of the "crimes of communism" Yet many of them are themselves associated with the Democratic party in this country, either as voters or as members, apparently unconcerned about the morally unacceptable political crimes committed by leaders of that organization. Under one or another Democratic administration, 120,000 Japanese Americans were torn from their homes and livelihoods and thrown into detention camps; atomic bombs were dropped on Hiroshima and Nagasaki with an enormous loss of innocent life; the FBI was given authority to infiltrate political groups; the Smith Act was used to imprison leaders of the Trotskyist Socialist Workers Party and later on leaders of the Communist party for their political beliefs; detention camps were established to round up political dissidents in the event of a "national emergency"; during the late 1940s and 1950s, eight thousand federal workers were purged from government because of their political associations and views, with thousands more in all walks of life witchhunted out of their careers; the Neutrality Act was used to impose an embargo on the Spanish Republic that worked in favor of Franco's fascist legions; homicidal counterinsurgency programs were initiated in various Third World countries; and the Vietnam War was pursued and escalated. And for the better part of a century, the Congressional leadership of the Democratic party protected racial segregation and stymied all antilynching and fair employment bills. Yet all these crimes, bringing ruination and death to many, have not moved the liberals, the social democrats, and the "democratic socialist" anticommunists to insist
 
-<sup>6</sup> I refer the reader to Lenins books: The State and Revolution; "Left-Wing" Communism—an Infantile Disorder; What is to Be Doneand various articles and statements still available in collected editions. See also John Ehrenberg s treatment of Marxism-Leninism in his The Dictatorship of the Proletariat, Marxism's Theory of Socialist Democracy (New York: Routledge, 1992).
+6 I refer the reader to Lenins books: The State and Revolution; "Left-Wing" Communism—an Infantile Disorder; What is to Be Doneand various articles and statements still available in collected editions. See also John Ehrenberg s treatment of Marxism-Leninism in his The Dictatorship of the Proletariat, Marxism's Theory of Socialist Democracy (New York: Routledge, 1992).
 
 repeatedly that we issue blanket condemnations of either the Democratic party or the political system that produced it, certainly not with the intolerant fervor that has been directed against existing communism.
 
@@ -663,27 +970,27 @@ To be sure, the pure socialists are not entirely without specific agendas for bu
 
 For a peoples revolution to survive, it must seize state power and use it to (a) break the stranglehold exercised by the owning class over the society's institutions and resources, and (b) withstand the reactionary counterattack that is sure to come. The internal and external dangers a revolution faces necessitate a centralized state power that is not particularly to anyone's liking, not in Soviet Russia in 1917, nor in Sandinista Nicaragua in 1980.
 
-Engels offers an apposite account of an uprising in Spain in 1872- 73 in which anarchists seized power in municipalities across the country. At first, the situation looked promising. The king had abdicated and the bourgeois government could muster but a few thousand ill-trained troops. Yet this ragtag force prevailed because it faced a thoroughly parochialized rebellion. "Each town proclaimed itself as a sovereign canton and set up a revolutionary committee (junta)," Engels writes. "[E]ach town acted on its own, declaring that the important thing was not cooperation with other towns but separation from them, thus precluding any possibility of a combined attack [against bourgeois forces] " It was "the fragmentation and isolation of the revolutionary forces which enabled the government troops to smash one revolt after the other."<sup>7</sup>
+Engels offers an apposite account of an uprising in Spain in 1872- 73 in which anarchists seized power in municipalities across the country. At first, the situation looked promising. The king had abdicated and the bourgeois government could muster but a few thousand ill-trained troops. Yet this ragtag force prevailed because it faced a thoroughly parochialized rebellion. "Each town proclaimed itself as a sovereign canton and set up a revolutionary committee (junta)," Engels writes. "[E]ach town acted on its own, declaring that the important thing was not cooperation with other towns but separation from them, thus precluding any possibility of a combined attack [against bourgeois forces] " It was "the fragmentation and isolation of the revolutionary forces which enabled the government troops to smash one revolt after the other."7
 
 Decentralized parochial autonomy is the graveyard of insurgency—which may be one reason why there has never been a successful anarcho-syndicalist revolution. Ideally, it would be a fine thing to have only local, self-directed, worker participation, with minimal bureaucracy, police, and military. This probably would be the development of socialism, were socialism ever allowed to develop unhindered by counterrevolutionary subversion and attack.
 
 One might recall how, in 1918-20, fourteen capitalist nations, including the United States, invaded Soviet Russia in a bloody but unsuccessful attempt to overthrow the revolutionary Bolshevik gov-
 
-<sup>7</sup> Marx, Engels, Lenin, Anarchism and Anarcho-Syndicalism: Selected Writings (New York: International Publishers, 1972), 139. In her biography of Louise Michel, the anarchist historian Edith Thomas asserts that anarchism is "the absence of government, the direct adminstration by people of their own lives." Who could not want that? Thomas doesn't say how it would work except to assert that "anarchists want it right now, in all the confusion and disorder of right now." She notes proudly that anarchism "is still intact as an ideal, for it has never been tried." That is exactly the problem. Why in so many hundreds of actual rebellions, including ones led by anarchists themselves, has anarchism never been tried or never succeeded in surviving for any length of time in an "intact" anarchist form? (In the anarchist uprising Engels described, the rebels, in seeming violation of their own ideology, did not rely on Thomas's "direct administration by the people" but set up ruling juntas.) The unpracticed, unattainable quality of the ideal helps it to retain its better-than-anything appeal in the minds of some.
+7 Marx, Engels, Lenin, Anarchism and Anarcho-Syndicalism: Selected Writings (New York: International Publishers, 1972), 139. In her biography of Louise Michel, the anarchist historian Edith Thomas asserts that anarchism is "the absence of government, the direct adminstration by people of their own lives." Who could not want that? Thomas doesn't say how it would work except to assert that "anarchists want it right now, in all the confusion and disorder of right now." She notes proudly that anarchism "is still intact as an ideal, for it has never been tried." That is exactly the problem. Why in so many hundreds of actual rebellions, including ones led by anarchists themselves, has anarchism never been tried or never succeeded in surviving for any length of time in an "intact" anarchist form? (In the anarchist uprising Engels described, the rebels, in seeming violation of their own ideology, did not rely on Thomas's "direct administration by the people" but set up ruling juntas.) The unpracticed, unattainable quality of the ideal helps it to retain its better-than-anything appeal in the minds of some.
 
-ernment. The years of foreign invasion and civil war did much to intensify the Bolsheviks' siege psychology with its commitment to lockstep party unity and a repressive security apparatus. Thus, in May 1921, the same Lenin who had encouraged the practice of internal party democracy and struggled against Trotsky in order to give the trade unions a greater measure of autonomy, now called for an end to the Workers' Opposition and other factional groups within the party.<sup>8</sup> "The time has come," he told an enthusiastically concurring Tenth Party Congress, "to put an end to opposition, to put a lid on it: we have had enough opposition." Open disputes and conflicting tendencies within and without the party, the communists concluded, created an appearance of division and weakness that invited attack by formidable foes.
+ernment. The years of foreign invasion and civil war did much to intensify the Bolsheviks' siege psychology with its commitment to lockstep party unity and a repressive security apparatus. Thus, in May 1921, the same Lenin who had encouraged the practice of internal party democracy and struggled against Trotsky in order to give the trade unions a greater measure of autonomy, now called for an end to the Workers' Opposition and other factional groups within the party.8 "The time has come," he told an enthusiastically concurring Tenth Party Congress, "to put an end to opposition, to put a lid on it: we have had enough opposition." Open disputes and conflicting tendencies within and without the party, the communists concluded, created an appearance of division and weakness that invited attack by formidable foes.
 
-Only a month earlier, in April 1921, Lenin had called for more worker representation on the party's Central Committee. In short, he had become not anti-worker but anti-opposition. Here was a social revolution — like every other—that was not allowed to develop its political and material life in an unhindered way.<sup>9</sup>
+Only a month earlier, in April 1921, Lenin had called for more worker representation on the party's Central Committee. In short, he had become not anti-worker but anti-opposition. Here was a social revolution — like every other—that was not allowed to develop its political and material life in an unhindered way.9
 
 By the late 1920s, the Soviets faced the choice of (a) moving in a still more centralized direction with a command economy and forced agrarian collectivization and full-speed industrialization under a commandist, autocratic party leadership, the road taken by
 
-<sup>8</sup> Trotsky was among the more authoritarian Bolshevik leaders, least inclined to tolerate organizational autonomy, diverse views, and internal party democracy. But in the fall of 1923, finding himself in a minority position, outmaneuvered by Stalin and others, Trotsky developed a sudden commitment to open party procedures and workers' democracy. Ever since, he has been hailed by some followers as an anti-Stalinist democrat.
+8 Trotsky was among the more authoritarian Bolshevik leaders, least inclined to tolerate organizational autonomy, diverse views, and internal party democracy. But in the fall of 1923, finding himself in a minority position, outmaneuvered by Stalin and others, Trotsky developed a sudden commitment to open party procedures and workers' democracy. Ever since, he has been hailed by some followers as an anti-Stalinist democrat.
 
-<sup>9</sup> Regarding the several years before 1921, the Sovietologist Stephen Cohen writes, "The experience of civil war and war communism profoundly altered both the party and the emerging political system." Other socialist parties were expelled from the soviets. And the Communist party's "democratic norms . . . as well as its almost libertarian and reformist profile" gave way to a "rigid authoritarianism and pervasive 'militarization.' " Much of the popular control exercised by local soviets and factory committees was eliminated. In the words of one Bolshevik leader, "The republic is an armed camp": see Cohens Bukharin and the Bolshevik Revolution (New York: Oxford University Press, 1973), 79.
+9 Regarding the several years before 1921, the Sovietologist Stephen Cohen writes, "The experience of civil war and war communism profoundly altered both the party and the emerging political system." Other socialist parties were expelled from the soviets. And the Communist party's "democratic norms . . . as well as its almost libertarian and reformist profile" gave way to a "rigid authoritarianism and pervasive 'militarization.' " Much of the popular control exercised by local soviets and factory committees was eliminated. In the words of one Bolshevik leader, "The republic is an armed camp": see Cohens Bukharin and the Bolshevik Revolution (New York: Oxford University Press, 1973), 79.
 
 Stalin, or (b) moving in a liberalized direction, allowing more political diversity, more autonomy for labor unions and other organizations, more open debate and criticism, greater autonomy among the various Soviet republics, a sector of privately owned small businesses, independent agricultural development by the peasantry, greater emphasis on consumer goods, and less effort given to the kind of capital accumulation needed to build a strong militaryindustrial base.
 
-The latter course, I believe, would have produced a more comfortable, more humane and serviceable society. Siege socialism would have given way to worker-consumer socialism. The only problem is that the country would have risked being incapable of withstanding the Nazi onslaught. Instead, the Soviet Union embarked upon a rigorous, forced industrialization. This policy has often been mentioned as one of the wrongs perpetrated by Stalin upon his people.<sup>10</sup> It consisted mostly of building, within a decade, an entirely new, huge industrial base east of the Urals in the middle of the barren steppes, the biggest steel complex in Europe, in anticipation of an invasion from the West. "Money was spent like water, men froze, hungered and suffered but the construction went on with a disregard for individuals and a mass heroism seldom paralleled in history."<sup>11</sup>
+The latter course, I believe, would have produced a more comfortable, more humane and serviceable society. Siege socialism would have given way to worker-consumer socialism. The only problem is that the country would have risked being incapable of withstanding the Nazi onslaught. Instead, the Soviet Union embarked upon a rigorous, forced industrialization. This policy has often been mentioned as one of the wrongs perpetrated by Stalin upon his people.10 It consisted mostly of building, within a decade, an entirely new, huge industrial base east of the Urals in the middle of the barren steppes, the biggest steel complex in Europe, in anticipation of an invasion from the West. "Money was spent like water, men froze, hungered and suffered but the construction went on with a disregard for individuals and a mass heroism seldom paralleled in history."11
 
 Stalins prophecy that the Soviet Union had only ten years to do what the British had done in a century proved correct. When the Nazis invaded in 1941, that same industrial base, safely ensconced thousands of miles from the front, produced the weapons of war that eventually turned the tide. The cost of this survival included 22 million Soviet citizens who perished in the war and immeasurable devastation and suffering, the effects of which would distort Soviet society for decades afterward.
 
@@ -691,7 +998,7 @@ Stalins prophecy that the Soviet Union had only ten years to do what the British
 
 Houghton Mifflin, 1942).
 
-<sup>10</sup> To give one of innumerable examples, recently Roger Bürbach faulted Stalin for "rushing the Soviet Union headlong on the road to industrialization": see his correspondence, Monthly Review, March 1996, 35.
+10 To give one of innumerable examples, recently Roger Bürbach faulted Stalin for "rushing the Soviet Union headlong on the road to industrialization": see his correspondence, Monthly Review, March 1996, 35.
 
 All this is not to say that everything Stalin did was of historical necessity. The exigencies of revolutionary survival did not "make inevitable" the heartless execution of hundreds of Old Bolshevik leaders, the personality cult of a supreme leader who claimed every revolutionary gain as his own achievement, the suppression of party political life through terror, the eventual silencing of debate regarding the pace of industrialization and collectivization, the ideological regulation of all intellectual and cultural life, and the mass deportations of "suspect" nationalities.
 
@@ -713,9 +1020,9 @@ The various communist countries suffered from major systemic deficiencies. While
 
 #### Rewarding Inefficiency
 
-All communist nations were burdened by rigid economic command systems.<sup>1</sup> Central planning was useful and even necessary in the earlier period of siege socialism to produce steel, wheat, and tanks in order to build an industrial base and withstand the Nazi onslaught. But it eventually hindered technological development and growth, and proved incapable of supplying a wide-enough range of consumer goods and services. No computerized system could be devised to accurately model a vast and intricate economy.
+All communist nations were burdened by rigid economic command systems.1 Central planning was useful and even necessary in the earlier period of siege socialism to produce steel, wheat, and tanks in order to build an industrial base and withstand the Nazi onslaught. But it eventually hindered technological development and growth, and proved incapable of supplying a wide-enough range of consumer goods and services. No computerized system could be devised to accurately model a vast and intricate economy.
 
-<sup>1</sup> While framed in the past tense, the following discussion also applies to the few remaining communist countries still in existence.
+1 While framed in the past tense, the following discussion also applies to the few remaining communist countries still in existence.
 
 No system could gather and process the immense range of detailed information needed to make correct decisions about millions of production tasks.
 
@@ -773,7 +1080,7 @@ I listened to an East German friend complain of poor services and inferior produ
 
 The human capacity for discontent should not be underestimated. People cannot live on the social wage alone. Once our needs are satisfied, then our wants tend to escalate, and our wants become our needs. A rise in living standards often incites a still greater rise in expectations. As people are treated better, they want more of the good things and are not necessarily grateful for what they already have. Leading professionals who had attained relatively good living standards wanted to dress better, travel abroad, and enjoy the more abundant life styles available to people of means in the capitalist world.
 
-It was this desire for greater affluence rather than the quest for political freedom that motivated most of those who emigrated to the West. Material wants were mentioned far more often than the lack of democracy. The émigrés who fled Vietnam in 1989 were not persecuted political dissidents. Usually they were relatively prosperous craftsmen, small entrepreneurs, well-educated engineers, architects, and intellectuals seeking greater opportunities. To quote one: "I don't think my life here in Vietnam is very bad. In fact, I'm very well off. But that's human nature to always want something better." Another testified: "We had two shops and our income was decent but we wanted a better life." And another: "They left for the same reasons we did. They wanted to be richer, just like us."<sup>2</sup> Today a "get rich" mania is spreading throughout much of Vietnam, as that nation lurches toward a market economy (New York Times, 4/5/96).
+It was this desire for greater affluence rather than the quest for political freedom that motivated most of those who emigrated to the West. Material wants were mentioned far more often than the lack of democracy. The émigrés who fled Vietnam in 1989 were not persecuted political dissidents. Usually they were relatively prosperous craftsmen, small entrepreneurs, well-educated engineers, architects, and intellectuals seeking greater opportunities. To quote one: "I don't think my life here in Vietnam is very bad. In fact, I'm very well off. But that's human nature to always want something better." Another testified: "We had two shops and our income was decent but we wanted a better life." And another: "They left for the same reasons we did. They wanted to be richer, just like us."2 Today a "get rich" mania is spreading throughout much of Vietnam, as that nation lurches toward a market economy (New York Times, 4/5/96).
 
 Likewise, the big demand in the German Democratic Republic (GDR) was for travel, new appliances, and bigger apartments (Washington Post, 8/28/89). The New York Times (3/13/90) described East Germany as a "country of 16 million [who] seem transfixed by one issue: How soon can they become as prosperous as West Germany?" A national poll taken in China reported that 68 percent chose as their goal "to live well and get rich" (PBS-TV report, 6/96).
 
@@ -807,13 +1114,13 @@ A conservative deputy editor of the Wall Street Journal David Brooks, offers thi
 
 He is the master of contempt, and feels he is living in a world run by imbeciles. He is not unsure, casting about for the correct answers. The immediate answers are obvious—democracy and capitalism. His self-imposed task is to smash the idiots who stand in the way.... He has none of the rococco mannerisms of our intellectuals, but values bluntness, rudeness, and arrogance. . . . [These] democratic intellectuals [love) Ronald Reagan, Marlboros, and the South in the American Civil War. (National Review> 3/2/92)
 
-Consider Andrei Sakharov, a darling of the U. S. press, who regularly praised corporate capitalism while belittling the advances achieved by the Soviet people. He lambasted the U. S. peace movement for its opposition to the Vietnam War and accused the Soviets of being military expansionists and the sole culprits behind the arms race. Sakharov supported every U. S. armed intervention abroad as a defense of democracy and characterized new U. S. weapons systems like the neutron bomb as "primarily defensive." Anointed by U. S. leaders and media as a "human rights advocate," he never had an unkind word for the human rights violations perpetrated by the fascist regimes of faithful U. S. client states, including Pinochet's Chile and Suharto's Indonesia, and he directed snide remarks toward those who did. He regularly attacked those in the West who dissented from anticommunist orthodoxy and who opposed U. S. interventionism abroad. As with many other Eastern European intellectuals, Sakharov's advocacy of dissent did not extend to opinions that deviated to the left of his own.<sup>3</sup>
+Consider Andrei Sakharov, a darling of the U. S. press, who regularly praised corporate capitalism while belittling the advances achieved by the Soviet people. He lambasted the U. S. peace movement for its opposition to the Vietnam War and accused the Soviets of being military expansionists and the sole culprits behind the arms race. Sakharov supported every U. S. armed intervention abroad as a defense of democracy and characterized new U. S. weapons systems like the neutron bomb as "primarily defensive." Anointed by U. S. leaders and media as a "human rights advocate," he never had an unkind word for the human rights violations perpetrated by the fascist regimes of faithful U. S. client states, including Pinochet's Chile and Suharto's Indonesia, and he directed snide remarks toward those who did. He regularly attacked those in the West who dissented from anticommunist orthodoxy and who opposed U. S. interventionism abroad. As with many other Eastern European intellectuals, Sakharov's advocacy of dissent did not extend to opinions that deviated to the left of his own.3
 
 The tolerance for Western imperialism extended into the upper reaches of the Soviet government itself, as reflected in a remark made in 1989 by a high-ranking official in the Soviet Foreign Ministry, Andrey Kozyrev, who stated that Third World countries "suffer not so much from capitalism as from a lack of it." Either by design or stupidity he confused capital (which those nations lack) with capitalism (of which they have more than enough to victimize them). He also claimed that "none of the main [bourgeois groups] in America are connected with militarism." To think of them as imperialists who plunder Third World countries is a "stereotyped idea" that should be discarded (New York Times, 1/7/89).
 
 As a system of analysis mainly concerned with existing capitalism, Marxism has relatively little to say about the development of socialist societies. In the communist countries, Marxism was doled out
 
-<sup>3</sup> See Andrei Sakharov, My Country and the World (New York: Vintage Books, 1975), especially chapters 3, 4, and 5. A memorable moment was provided me by the noted journalist I. F. Stone, in Washington, D. C. in 1987. Izzy (as he was called) had just given a talk at the Institute for Policy Studies praising Sakharov as a courageous champion of democracy, a portrayal that seemed heavily indebted to the U. S. media image of Sakharov. Encountering Stone in the street after the event, I said to him that we should distinguish between Sakharov s right to speak, which I supported, and the reactionary, CIA-ridden content of his speech, which we were under no obligation to admire. He stopped me in mid-sentence and screamed: "I'm sick and tired of people who wipe the ass of the Soviet Union!" He then stomped away. Izzy Stone was normally a polite man, but as with many on the U. S. Left, his anti-Sovietism could cause him to discard both rational discourse and common courtesy. On subsequent occasions he talked to me in a most friendly manner but never once thought to apologize for that outburst.
+3 See Andrei Sakharov, My Country and the World (New York: Vintage Books, 1975), especially chapters 3, 4, and 5. A memorable moment was provided me by the noted journalist I. F. Stone, in Washington, D. C. in 1987. Izzy (as he was called) had just given a talk at the Institute for Policy Studies praising Sakharov as a courageous champion of democracy, a portrayal that seemed heavily indebted to the U. S. media image of Sakharov. Encountering Stone in the street after the event, I said to him that we should distinguish between Sakharov s right to speak, which I supported, and the reactionary, CIA-ridden content of his speech, which we were under no obligation to admire. He stopped me in mid-sentence and screamed: "I'm sick and tired of people who wipe the ass of the Soviet Union!" He then stomped away. Izzy Stone was normally a polite man, but as with many on the U. S. Left, his anti-Sovietism could cause him to discard both rational discourse and common courtesy. On subsequent occasions he talked to me in a most friendly manner but never once thought to apologize for that outburst.
 
 like a catechism. Its critique of capitalism had no vibrancy or meaning for those who lived in a noncapitalist society. Instead, most intellectuals found excitement in the forbidden fruit of Western bourgeois ideology. In looking to the West, they were not interested in broadening the ideological spectrum, a desirable goal, but in replacing the dominant view with a rightist anticommunist orthodoxy. They were not for an end to ideology but for replacing one ideology with another. Without hesitation, they added their voices to the chorus singing the glories of the free-market paradise.
 
@@ -857,17 +1164,17 @@ In 1989-1991, remarkable transformations swept across Eastern Europe and the Sov
 
 If the overthrow of communism was a victory for democracy, as some claimed, it was even more a victory for free-market capitalism and conservative anticommunism. Some of the credit should go to the CIA and other cold war agencies, along with the National Endowment for Democracy, the AFL-CIO, the Ford Foundation, the Rockefeller Brothers Fund, the Pew Charitable Trusts, and various right-wing groups, all of whom funded free-market, anticommunist political organizations and publications throughout Eastern Europe and the Soviet Union, in what swiftly became the best financed chain of "revolutions" in history.
 
-The upheavals occurred with remarkably little violence. As Lech Walesa boasted in November 1989, Polish Solidarity overthrew the communist government without breaking a single window. This says at least as much about the government that was overthrown as about the rebels. Rather than acting as might U. S.-supported rulers in El Salvador, Colombia, Zaire, or Indonesia—with death-squad terrorism and mass repression—the communists relinquished power almost without firing a shot. The relatively peaceful transition does not fit our image of unscrupulous totalitarians who stop at nothing to maintain power over captive populations. Why didn't the ruthless Reds act more ruthlessly?<sup>1</sup>
+The upheavals occurred with remarkably little violence. As Lech Walesa boasted in November 1989, Polish Solidarity overthrew the communist government without breaking a single window. This says at least as much about the government that was overthrown as about the rebels. Rather than acting as might U. S.-supported rulers in El Salvador, Colombia, Zaire, or Indonesia—with death-squad terrorism and mass repression—the communists relinquished power almost without firing a shot. The relatively peaceful transition does not fit our image of unscrupulous totalitarians who stop at nothing to maintain power over captive populations. Why didn't the ruthless Reds act more ruthlessly?1
 
 #### How Many Victims?
 
 We have heard much about the ruthless Reds, beginning with the reign of terror and repression perpetrated during the dictatorship of Joseph Stalin (1929-1953). Estimates of those who perished under Stalins rule—based principally on speculations by writers who never reveal how they arrive at such figures—vary wildly. Thus, Roy Medvedev puts Stalin's victims at 5 to 7 million; Robert Conquest decided on 7 to 8 million; Olga Shatunovskaia claims 19.8 million just for the 1935-40 period; Stephen Cohen says 9 million by 1939, with 3 million executed or dying from mistreatment during the 1936-39 period; and Arthur Koestler tells us it was 20 to 25 million. More recently, William Rusher, of the Claremont Institute, refers to the " 100 million people wantonly murdered by Communist dictators since the Bolshevik Revolution in 1917" (Oakland Tribune, 1/22/96) and Richard Lourie blames the Stalin era for "the slaughter of millions" (New York Times, 8/4/96).
 
-<sup>1</sup> During the mid-1980s, the police in communist Poland shot forty-four demonstrators in Gdansk and other cities. Ten former police and army officers were put on trial in 1996 for these killings. In Rumania, there reportedly were scores of fatalities in the disturbances immediately preceeding the overthrow of Ceaucescu, after which Ceaucescu and his wife were summarily executed without trial. The killings in Poland and Rumania are the sum total of fatalities, as far as I know.
+1 During the mid-1980s, the police in communist Poland shot forty-four demonstrators in Gdansk and other cities. Ten former police and army officers were put on trial in 1996 for these killings. In Rumania, there reportedly were scores of fatalities in the disturbances immediately preceeding the overthrow of Ceaucescu, after which Ceaucescu and his wife were summarily executed without trial. The killings in Poland and Rumania are the sum total of fatalities, as far as I know.
 
 Unburdened by any documentation, these "estimates" invite us to conclude that the sum total of people incarcerated in the labor camps over a twenty-two year period (allowing for turnovers due to death and term expirations) would have constituted an astonishing portion of the Soviet population. The support and supervision of the gulag (all the labor camps, labor colonies, and prisons of the Soviet system) would have been the USSR's single largest enterprise.
 
-In the absence of reliable evidence, we are fed anecdotes, such as the story Winston Churchill tells of the time he asked Stalin how many people died in the famine. According to Churchill, the Soviet leader responded by raising both his hands, a gesture that may have signified an unwillingness to broach the subject. But since Stalin happened to have five fingers on each hand, Churchill concluded without benefit of a clarifying follow-up question—that Stalin was confessing to ten million victims. Would the head of one state (especially the secretive Stalin) casually proffer such an admission to the head of another? To this day, Western writers treat this woolly tale as an ironclad confession of mass atrocities.<sup>2</sup>
+In the absence of reliable evidence, we are fed anecdotes, such as the story Winston Churchill tells of the time he asked Stalin how many people died in the famine. According to Churchill, the Soviet leader responded by raising both his hands, a gesture that may have signified an unwillingness to broach the subject. But since Stalin happened to have five fingers on each hand, Churchill concluded without benefit of a clarifying follow-up question—that Stalin was confessing to ten million victims. Would the head of one state (especially the secretive Stalin) casually proffer such an admission to the head of another? To this day, Western writers treat this woolly tale as an ironclad confession of mass atrocities.2
 
 What we do know of Stalin's purges is that many victims were Communist party officials, managers, military officers, and other strategically situated individuals whom the dictator saw fit to incarcerate or liquidate. In addition, whole catagories of people whom Stalin considered of unreliable loyalty—Cossacks, Crimean Tarters, and ethnic Germans—were selected for internal deportation. Though they never saw the inside of a prison or labor camp, they were subjected to noncustodial resettlement in Central Asia and Siberia.
 
@@ -877,47 +1184,47 @@ Stalin "confided the figure of 10 million to Winston Churchill": Stephen Cohen, 
 
 serve neither historical truth nor the cause of justice but merely help to reinforce a knee-jerk fear and loathing of those terrible Reds.
 
-In 1993, for the first time, several historians gained access to previously secret Soviet police archives and were able to establish welldocumented estimates of prison and labor camp populations. They found that the total population of the entire gulag as of January 1939, near the end of the Great Purges, was 2,022,976.<sup>3</sup> At about that time, there began a purge of the purgers, including many intelligence and secret police (NKVD) officials and members of the judiciary and other investigative committees, who were suddenly held responsible for the excesses of the terror despite their protestations of fidelity to the regime.<sup>4</sup>
+In 1993, for the first time, several historians gained access to previously secret Soviet police archives and were able to establish welldocumented estimates of prison and labor camp populations. They found that the total population of the entire gulag as of January 1939, near the end of the Great Purges, was 2,022,976.3 At about that time, there began a purge of the purgers, including many intelligence and secret police (NKVD) officials and members of the judiciary and other investigative committees, who were suddenly held responsible for the excesses of the terror despite their protestations of fidelity to the regime.4
 
-Soviet labor camps were not death camps like those the Nazis built across Europe. There was no systematic extermination of inmates, no gas chambers or crematoria to dispose of millions of bodies. Despite harsh conditions, the great majority of gulag inmates survived and eventually returned to society when granted amnesty or when their terms were finished. In any given year, 20 to 40 percent of the inmates were released, according to archive records. <sup>5</sup> Oblivious to these facts, the Moscow correspondent of the New York Times (7/31/96) continues to describe the gulag as "the largest system of death camps in modern history."
+Soviet labor camps were not death camps like those the Nazis built across Europe. There was no systematic extermination of inmates, no gas chambers or crematoria to dispose of millions of bodies. Despite harsh conditions, the great majority of gulag inmates survived and eventually returned to society when granted amnesty or when their terms were finished. In any given year, 20 to 40 percent of the inmates were released, according to archive records. 5 Oblivious to these facts, the Moscow correspondent of the New York Times (7/31/96) continues to describe the gulag as "the largest system of death camps in modern history."
 
 Almost a million gulag prisoners were released during World War II to serve in the military. The archives reveal that more than half of all gulag deaths for the 1934-53 period occurred during the war years (1941-45), mostly from malnutrition, when severe privation was the
 
-<sup>3</sup> By way of comparison, in 1995, according to the Bureau of Justice Statistics, in the United States there were 1.6 million in prison, three million on probation, and 700,000 on parole, for a total of 5.3 million under correctional supervision (San Francisco Chronicle, 7/1/96), Some millions of others have served time but are no longer connected to the custodial system in any way.
+3 By way of comparison, in 1995, according to the Bureau of Justice Statistics, in the United States there were 1.6 million in prison, three million on probation, and 700,000 on parole, for a total of 5.3 million under correctional supervision (San Francisco Chronicle, 7/1/96), Some millions of others have served time but are no longer connected to the custodial system in any way.
 
-<sup>4</sup> J. Arch Getty, Gabor Rittersporn, and Victor Zemskov, "Victims of the Soviet Penal System in the Pre-War Years: A First Approach on the Basis of Archival Evidence," American Historical Review, 98 (October 1993) 1017-1049.
+4 J. Arch Getty, Gabor Rittersporn, and Victor Zemskov, "Victims of the Soviet Penal System in the Pre-War Years: A First Approach on the Basis of Archival Evidence," American Historical Review, 98 (October 1993) 1017-1049.
 
-<sup>5</sup> Getty, et al., "Victims of the Soviet Penal System .. "
+5 Getty, et al., "Victims of the Soviet Penal System .. "
 
-common lot of the entire Soviet population. (Some 22 million Soviet citizens perished in the war.) In 1944, for instance, the labor-camp death rate was 92 per 1000. By 1953, with the postwar recovery, camp deaths had declined to 3 per 1000.<sup>6</sup>
+common lot of the entire Soviet population. (Some 22 million Soviet citizens perished in the war.) In 1944, for instance, the labor-camp death rate was 92 per 1000. By 1953, with the postwar recovery, camp deaths had declined to 3 per 1000.6
 
-Should all gulag inmates be considered innocent victims of Red repression? Contrary to what we have been led to believe, those arrested for political crimes ("counterrevolutionary offenses") numbered from 12 to 33 percent of the prison population, varying from year to year. The vast majority of inmates were charged with nonpolitical offenses: murder, assault, theft, banditry, smuggling, swindling, and other violations punishable in any society.<sup>7</sup>
+Should all gulag inmates be considered innocent victims of Red repression? Contrary to what we have been led to believe, those arrested for political crimes ("counterrevolutionary offenses") numbered from 12 to 33 percent of the prison population, varying from year to year. The vast majority of inmates were charged with nonpolitical offenses: murder, assault, theft, banditry, smuggling, swindling, and other violations punishable in any society.7
 
 Total executions from 1921 to 1953, a thirty-three year span inclusive, were 799,455. No breakdown of this figure was provided by the researchers. It includes those who were guilty of nonpolitical capital crimes, as well as those who collaborated in the Western capitalist invasion and subsequent White Guard Army atrocities. It also includes some of the considerable numbers who collaborated with the Nazis during World War II and probably German SS prisoners. In any case, the killings of political opponents were not in the millions or tens of millions—which is not to say that the actual number was either inconsequential or justifiable.
 
 The three historians who studied the heretofore secret gulag records concluded that the number of victims were far less than usually claimed in the West. This finding is ridiculed by anticommunist liberal Adam Hochschild, who prefers to repeat Churchills story about Stalin's fingers (New York Times, 5/8/96). Like many others, Hochschild has no trouble accepting undocumented speculations about the gulag but much difficulty accepting the documented figures drawn from NKVD archives.
 
-<sup>6</sup> Ibid.
+6 Ibid.
 
-<sup>7</sup> ibid.
+7 ibid.
 
 #### Where Did the Gulag Go?
 
-Some Russian anticommunist writers such as Solzhenitsyn and Sakharov, and many U. S. anticommunist liberals, maintain that the gulag existed right down to the last days of communism. <sup>8</sup> If so, where did it disappear to? After Stalins death in 1953, more than half of the gulag inmates were freed, according to the study of the NKVD files previously cited. But if so many others remained incarcerated, why have they not materialized? When the communist states were overthrown, where were the half-starved hordes pouring out of the internment camps with their tales of travail?
+Some Russian anticommunist writers such as Solzhenitsyn and Sakharov, and many U. S. anticommunist liberals, maintain that the gulag existed right down to the last days of communism. 8 If so, where did it disappear to? After Stalins death in 1953, more than half of the gulag inmates were freed, according to the study of the NKVD files previously cited. But if so many others remained incarcerated, why have they not materialized? When the communist states were overthrown, where were the half-starved hordes pouring out of the internment camps with their tales of travail?
 
 One of the last remaining Soviet labor camps, Perm 35, was visited in 1989 by Republican congressmen and again in 1990 by French journalists (see Washington Post, 11/28/89 and National Geographic, 3/90, respectively). Both parties found only a few dozen prisoners, some of whom were identified as outright spies. Others were "refuseniks" who had been denied the right to emigrate. Prisoners worked eight hours a day, six days a week, for 250 rubles (\$40) a month.
 
 What of the supposedly vast numbers of political prisoners said to exist in the other "communist totalitarian police states" of Eastern Europe? Why no evidence of their mass release in the postcommunist era? And where are the mass of political prisoners in Cuba? Asked about this, Professor Alberto Prieto of the University of Havana pointed out that even a recent State Department report on human rights showed hundreds of people being tortured, killed, or
 
-<sup>8</sup> The term "gulag" was incorporated into the English language in part because constant references were made to its presumed continued existence. A senior fellow at the liberal-oriented Institute for Policy Studies, Robert Borsage, sent me a note in December 1982, emphatically stating in part that "the gulag exists" When I gave talks at college campuses during the 1980s about President Reagan's domestic spending policies, I repeatedly encountered faculty members who regardless of the topic under discussion insisted that I also talk about the gulag which, they said, still contained many millions of victims. My refusal to genuflect to that orthodoxy upset a number of them.
+8 The term "gulag" was incorporated into the English language in part because constant references were made to its presumed continued existence. A senior fellow at the liberal-oriented Institute for Policy Studies, Robert Borsage, sent me a note in December 1982, emphatically stating in part that "the gulag exists" When I gave talks at college campuses during the 1980s about President Reagan's domestic spending policies, I repeatedly encountered faculty members who regardless of the topic under discussion insisted that I also talk about the gulag which, they said, still contained many millions of victims. My refusal to genuflect to that orthodoxy upset a number of them.
 
 "disappeared" in almost all the Latin American countries, but mentions only six alleged political prisoners in reference to Cuba (People's Weekly World, 2/26/94).
 
 If there were mass atrocities right down to the last days of communism, why did not the newly installed anticommunist regimes seize the opportunity to bring erstwhile communist rulers to justice? Why no Nuremberg-style public trials documenting widespread atrocities? Why were not hundreds of party leaders and security officials and thousands of camp guards rounded up and tried for the millions they supposedly exterminated? The best the West Germans could do was charge East German leader Erich Honecker, several other officials, and seven border guards with shooting people who tried to escape over the Berlin Wall, a serious charge but hardly indicative of a gulag.
 
-Authorities in the Western capitalist Federal Republic of Germany (FRG) did contrive a charge of "treason" against persons who served as officials, military officers, soldiers, judges, attorneys, and others of the now-defunct German Democratic Republic (GDR), a sovereign nation that once had full standing in the United Nations, and most of whose citizens had never been subjects of the FRG. As of 1996, more than three hundred "treason" cases had been brought to trial, including a former GDR intelligence chief, a defense minister, and six generals, all indicted for carrying out what were their legal duties under the constitution and laws of the GDR, in some instances fighting fascism and CIA sabotage. Many of the defendants were eventually acquitted but a number were sentenced to prison. What we witness here is the Nuremberg trials in reverse: Reds put on trial for their anti-fascist efforts by West German friendly-to-fascism prosecutors, using a retroactive application of FRG penal law for GDR citizens. As of the beginning of 1997, several thousand more trials were expected.<sup>9</sup>
+Authorities in the Western capitalist Federal Republic of Germany (FRG) did contrive a charge of "treason" against persons who served as officials, military officers, soldiers, judges, attorneys, and others of the now-defunct German Democratic Republic (GDR), a sovereign nation that once had full standing in the United Nations, and most of whose citizens had never been subjects of the FRG. As of 1996, more than three hundred "treason" cases had been brought to trial, including a former GDR intelligence chief, a defense minister, and six generals, all indicted for carrying out what were their legal duties under the constitution and laws of the GDR, in some instances fighting fascism and CIA sabotage. Many of the defendants were eventually acquitted but a number were sentenced to prison. What we witness here is the Nuremberg trials in reverse: Reds put on trial for their anti-fascist efforts by West German friendly-to-fascism prosecutors, using a retroactive application of FRG penal law for GDR citizens. As of the beginning of 1997, several thousand more trials were expected.9
 
-<sup>9</sup> The vice-president of the highest court in the GDR, was a man named Reinwarth, who had been put in a concentration camp by the Nazis during the war and who
+9 The vice-president of the highest court in the GDR, was a man named Reinwarth, who had been put in a concentration camp by the Nazis during the war and who
 
 In 1995, Miroslav Stephan, the former secretary of the Prague Communist party, was sentenced to two and a half years for ordering Czech police to use tear gas and water cannons against demonstrators in 1988. Is this the best example of bloodthirsty Red oppression that the capitalist restorationists in Czechoslovakia could find? An action that does not even qualify as a crime in most Western nations?
 
@@ -973,7 +1280,7 @@ The boldness of this investor class in the face of an armed coup might have anot
 
 In late 1993, facing strong popular resistance to his harsh freemarket policies, Yeltsin went further. He forcibly disbanded the Russian parliament and every other elected representative body in the country, including municipal and regional councils. He abolished Russia's Constitutional Court and launched an armed attack upon the parliamentary building, killing an estimated two thousand resisters and demonstrators. Thousands more were jailed without charges or a trial, and hundreds of elected officials were placed under investigation.
 
-Yeltsin banned labor unions from all political activities, suppressed dozens of publications, exercised monopoly control over all broadcast media, and permanently outlawed fifteen political parties. He unilaterally scrapped the constitution and presented the public with a new one that gave the president nearly absolute power over policy while reducing the democratically elected parliament to virtual impotence.<sup>1</sup> For these crimes he was hailed as a defender of democracy by U. S. leaders and media. What they most liked about Yeltsin was that he "never wavered in his support for privatization" (San Franicsco Chronicle, 7/6/94).<sup>2</sup>
+Yeltsin banned labor unions from all political activities, suppressed dozens of publications, exercised monopoly control over all broadcast media, and permanently outlawed fifteen political parties. He unilaterally scrapped the constitution and presented the public with a new one that gave the president nearly absolute power over policy while reducing the democratically elected parliament to virtual impotence.1 For these crimes he was hailed as a defender of democracy by U. S. leaders and media. What they most liked about Yeltsin was that he "never wavered in his support for privatization" (San Franicsco Chronicle, 7/6/94).2
 
 Yeltsin, the "democrat," twice suspended publication of the Communist party newspaper Pravda. He charged it exorbitant rent for the use of its own facilities. Then in March 1992, he confiscated the paper s twelve-story building and its press and turned full ownership over to Russiskaye Gazetay a government (pro-Yeltsin) newspaper.
 
@@ -981,17 +1288,17 @@ Yeltsins "elite" Omon troops repeatedly attacked leftist demonstrators and picke
 
 In 1996, Yeltsin won reelection as president, beating out a serious challenge from a communist rival. His campaign was assisted by
 
-<sup>1</sup> The new constitution was seemingly approved in a December 1993 referendum. However, a commission appointed by Yeltsin himself found that only 46 percent of eligible voters had participated, rather than the 50 percent required to ratify a constitution (Los Angeles Times, 6/3/94). Little note has been taken of the fact that Yeltsin was ruling under an illegal constitution.
+1 The new constitution was seemingly approved in a December 1993 referendum. However, a commission appointed by Yeltsin himself found that only 46 percent of eligible voters had participated, rather than the 50 percent required to ratify a constitution (Los Angeles Times, 6/3/94). Little note has been taken of the fact that Yeltsin was ruling under an illegal constitution.
 
-<sup>2</sup> For a more detailed account of the Yeltsin repression and the whitewash it received in the U. S. media, see "Yeltsin's Coup and the Media's Alchemy," in Michael Parenti, Dirty Truths (San Francisco: City Lights Books, 1996).
+2 For a more detailed account of the Yeltsin repression and the whitewash it received in the U. S. media, see "Yeltsin's Coup and the Media's Alchemy," in Michael Parenti, Dirty Truths (San Francisco: City Lights Books, 1996).
 
-teams of U. S. electoral advisors, who used sophisticated polling techniques and focus groups.<sup>3</sup> Yeltsin also benefited from multi-million dollar donations from U. S. sources and a \$10 billion aid package from the International Monetary Fund and World Bank. Equally important for victory was the crooked counting of ballots (as cursorily reported in one ABC late evening news story in July 1996).
+teams of U. S. electoral advisors, who used sophisticated polling techniques and focus groups.3 Yeltsin also benefited from multi-million dollar donations from U. S. sources and a \$10 billion aid package from the International Monetary Fund and World Bank. Equally important for victory was the crooked counting of ballots (as cursorily reported in one ABC late evening news story in July 1996).
 
 Yeltsin exercised monopoly control over Russia's television networks, enjoying campaign coverage that amounted to nonstop promotionals. In contrast, opposition candidates were reduced to nonpersons, given only fleeting exposure, if that. Yeltsins reelection was hailed in the West as a victory for democracy; in fact, it was a victory for private capital and monopoly media, which is not synonymous with democracy, though often treated as such by U. S. leaders and opinion makers.
 
 Yeltsins commitment is to captialism not democracy. In March 1996, several months before the election, when polls showed him trailing the Communist candidate, Gennadi Zyuganov, Yeltsin ordered decrees drawn up "that would have canceled the election, closed down parliament and banned the Communist Party" (New York Times, 7/2/96). But he was disuaded by advisors who feared the measures might incite too much resistance. Though he decided not to call off the election, "Yeltsin was never committed to turning over the government to a Communist if he lost" (San Francisco Chronicle, 7/26/96).
 
-<sup>3</sup> These U. S. political consultants operated in strict secrecy lest they be seen as interfering in Russian affairs—which indeed they were. They advised Yeltsin against making extended speeches and urged more sound bites and photo opportunities. They pointed to issues and images he could exploit and ones he should avoid. Political scientist Larry Sabato, who long opposed the involvement of U. S. consultants in foreign elections, observed that Americans can be stripped of their citizenship for voting in a foreign election. "Why then should it be acceptable to influence millions of votes in a foreign election?" I would add that no foreigner is allowed to contribute money to U. S. candidates or work on their campaign staffs. But U. S. leaders can send large sums and secret teams of consultants to manipulate and sway foreign elections. Just another example of the double standard under which U. S. policy operates.
+3 These U. S. political consultants operated in strict secrecy lest they be seen as interfering in Russian affairs—which indeed they were. They advised Yeltsin against making extended speeches and urged more sound bites and photo opportunities. They pointed to issues and images he could exploit and ones he should avoid. Political scientist Larry Sabato, who long opposed the involvement of U. S. consultants in foreign elections, observed that Americans can be stripped of their citizenship for voting in a foreign election. "Why then should it be acceptable to influence millions of votes in a foreign election?" I would add that no foreigner is allowed to contribute money to U. S. candidates or work on their campaign staffs. But U. S. leaders can send large sums and secret teams of consultants to manipulate and sway foreign elections. Just another example of the double standard under which U. S. policy operates.
 
 During the 1996 campaign, Yeltsin and his associates repeatedly announced that a communist victory would bring "civil war." In effect, they were voicing their willingness to discard democracy and resort to force and violence if the election did not go their way. Nor was it taken as an idle threat. At one point surveys showed that "about half the population believed that civil war would result if the Communists won" (Sacramento Bee, 7/9/96).
 
@@ -999,25 +1306,25 @@ Through all of this Yeltsin received vigorous support from the White House and t
 
 The question is posed rhetorically; the Nation editorial presumes that the answer is no. In fact, I would respond: Yes, of course. U. S. leaders would have no trouble supporting this "communist" president, for he would be communist in name only. In actual deed he would be a devoted agent of capitalist restoration. One need only look at how successive administrations in Washington have cultivated friendly relations with the present communist leaders in China, overlooking and even explaining away their transgressions. As Chinas leaders open their country to private investment and growing economic inequality, they offer up a dispossessed labor force ready to work double-digit hours for subsistence pay—at enormous profit for the multinationals. U. S. politico-economic leaders know what they are doing, even if some editorial writers in this country do not. Their eye is on the money, not the color of the vessel it comes in.
 
-Since the overthrow of communism, free-market right-wing forces in the various Eastern European countries enjoyed significant financial and organizational assistance from U. S.-financed agencies, such as the National Endowment for Democracy, the AFL-CIO s Free Trade Union Institute (a group intimately linked to the CIA), and the Free Congress Foundation, an organization with an anticommunist and conservative religious ideology.<sup>4</sup>
+Since the overthrow of communism, free-market right-wing forces in the various Eastern European countries enjoyed significant financial and organizational assistance from U. S.-financed agencies, such as the National Endowment for Democracy, the AFL-CIO s Free Trade Union Institute (a group intimately linked to the CIA), and the Free Congress Foundation, an organization with an anticommunist and conservative religious ideology.4
 
 Communists and other Marxists endured political repression throughout Eastern Europe. In East Germany, the Party of Democratic Socialism had its property and offices, paid for by party members, seized in an attempt to bankrupt it. In Latvia, the communist activist Alfreds Rubies, who protested the inequities of free-market "reform," has been kept in prison for years without benefit of trial In Lithuania, communist leaders were tortured and then imprisoned for long durations. Georgia's anticommunist president, Zviad Gamsakhurdia, incarcerated opponents from some seventy political groups without granting them a trial (San Francisco Chronicle, 4/17/91).
 
-Estonia held "free elections" in which 42 percent of the population was prohibited from voting because of their Russian, Ukranian, or Belorussian antecedents. Russians and other minorities were excluded from many jobs and faced discrimination in housing and schools. Latvia also disfranchised Russians and other non-Latvian nationals, many of whom had lived in the country for almost a half century. So much for the flowering of democracy.<sup>5</sup>
+Estonia held "free elections" in which 42 percent of the population was prohibited from voting because of their Russian, Ukranian, or Belorussian antecedents. Russians and other minorities were excluded from many jobs and faced discrimination in housing and schools. Latvia also disfranchised Russians and other non-Latvian nationals, many of whom had lived in the country for almost a half century. So much for the flowering of democracy.5
 
-<sup>4</sup> The reader might want to consult the late Sean Gervasi's two in-depth studies on Western destabilization of the Soviet Union: Covert Action Quarterly; Fall 1990 and Winter 1991-92.
+4 The reader might want to consult the late Sean Gervasi's two in-depth studies on Western destabilization of the Soviet Union: Covert Action Quarterly; Fall 1990 and Winter 1991-92.
 
-<sup>5</sup> The focus here is mostly on the former communist countries of Eastern Europe and Russia, but similar and more bloody repressions against deposed left revolutionaries have been conducted in Afghanistan and South Yemen. In 1995, in Ethiopia, three thousand former members of Mengitsu Haile Mariarns socialist government were put on trial for executing Emperor Haile Selassie, the feudal despot who once ruled that country.
+5 The focus here is mostly on the former communist countries of Eastern Europe and Russia, but similar and more bloody repressions against deposed left revolutionaries have been conducted in Afghanistan and South Yemen. In 1995, in Ethiopia, three thousand former members of Mengitsu Haile Mariarns socialist government were put on trial for executing Emperor Haile Selassie, the feudal despot who once ruled that country.
 
 #### One-Way Democracy
 
 More important than democratic rule was free-market "reform ," a code word for capitalist restoration. As long as democracy could be used to destabilize one-party communist rule, it was championed by the forces of reaction. But when democracy worked against freemarket restoration, the outcome was less tolerated.
 
-In 1990, in Bulgaria, capitalist restoration did not go according to plan. Despite generous financial and organizational assistance from U. S. sources, including the Free Congress Foundation, the Bulgarian conservatives ended up a poor second to the communists, in what Western European observers judged to be a fair and open election. What followed was a coordinated series of strikes, demonstrations, economic pressure, acts of sabotage, and other disruptions reminiscent of CIA-orchestrated campaigns against left governments in Chile, Jamaica, Nicaragua, and British Guyana. Within five months, the free-market oppositionists forced the democratically elected communist government to resign. Bulgarian communists "complained that the U. S. had violated democratic principles in working against freely elected officials."<sup>6</sup>
+In 1990, in Bulgaria, capitalist restoration did not go according to plan. Despite generous financial and organizational assistance from U. S. sources, including the Free Congress Foundation, the Bulgarian conservatives ended up a poor second to the communists, in what Western European observers judged to be a fair and open election. What followed was a coordinated series of strikes, demonstrations, economic pressure, acts of sabotage, and other disruptions reminiscent of CIA-orchestrated campaigns against left governments in Chile, Jamaica, Nicaragua, and British Guyana. Within five months, the free-market oppositionists forced the democratically elected communist government to resign. Bulgarian communists "complained that the U. S. had violated democratic principles in working against freely elected officials."6
 
 The same pattern emerged in Albania where the democratically elected communist government won an overwhelming victory at the polls, only to face demonstrations, a general strike, economic pressure from abroad, and campaigns of disruption financed by the National Endowment for Democracy and other U. S. sources. After two months the communist government collapsed. Once the Right took power, a new law was passed denying Albanian communists and other opponents of capitalist restoration the right to vote or otherwise participate in political activities. As a reward for having extended democratic rights to all citizens, the Albanian communists and all former state employees and judges were stripped of their civil rights.
 
-<sup>6</sup> For information on Bulgaria, see William Blum's report in Covert Action Quarterly; Winter 1994-95.
+6 For information on Bulgaria, see William Blum's report in Covert Action Quarterly; Winter 1994-95.
 
 In the 1996 Albanian elections, the Socialists and other opposition parties—who had been predicted to do well—withdrew from the election hours before the polls closed in protest of the "blatantly rigged" vote. Election monitors from the European Union and the United States said they witnessed numerous instances of police intimidation and the stuffing of ballot boxes. The Socialist party had its final campaign rally banned and a number of prominent leaders barred from running for office because of their past communist affiliations (New York Times, 5/28/96). When the Socialists and their allies tried to hold protest rallies, they were attacked by Albanian security forces who beat and severely injured dozens of demonstrators (Peoples Weekly World, 5/11/96 and 6/1/96).
 
@@ -1041,7 +1348,7 @@ In 1996, Belarus president Alexander Lukashenko, a self-professed admirer of Ado
 
 No figure among the capitalist restorationists in the East has won more adulation from U. S. officials, media pundits, and academics than Vaclav Havel, a playwright who became the first president of post-communist Czechoslovakia and later president of the Czech Republic. The many left-leaning people who also admire Havel seem to have overlooked some things about him: his reactionary religious obscurantism, his undemocratic suppression of leftist opponents, and his profound dedication to economic inequality and an unrestrained free-market capitalism.
 
-Raised by governesses and chauffeurs in a wealthy and fervently anticommunist family, Havel denounced democracy's "cult of objectivity and statistical average" and the idea that rational, collective social efforts should be applied to solving the environmental crisis. He called for a new breed of political leader who would rely less on "rational, cognitive thinking," show "humility in the face of the mysterious order of Being" and "trust in his own subjectivity as his principal link with the subjectivity of the world" Apparently, this new breed of leader would be a superior elitist cogitator, not unlike Plato's philosopher king, endowed with a "sense of transcendental responsibility" and "archetypal wisdom."<sup>7</sup> Havel never explained how this transcendent archetypal wisdom would translate into actual policy decisions, and for whose benefit at whose expense.
+Raised by governesses and chauffeurs in a wealthy and fervently anticommunist family, Havel denounced democracy's "cult of objectivity and statistical average" and the idea that rational, collective social efforts should be applied to solving the environmental crisis. He called for a new breed of political leader who would rely less on "rational, cognitive thinking," show "humility in the face of the mysterious order of Being" and "trust in his own subjectivity as his principal link with the subjectivity of the world" Apparently, this new breed of leader would be a superior elitist cogitator, not unlike Plato's philosopher king, endowed with a "sense of transcendental responsibility" and "archetypal wisdom."7 Havel never explained how this transcendent archetypal wisdom would translate into actual policy decisions, and for whose benefit at whose expense.
 
 Havel called for efforts to preserve the Christian family in the Christian nation. Presenting himself as a man of peace and stating that he would never sell arms to oppressive regimes, he sold weapons to the Philippines and the fascist regime in Thailand. In June 1994, General Pinochet, the man who butchered Chilean democracy, was reported to be arms shopping in Czechoslovakia—with no audible objections from Havel.
 
@@ -1049,7 +1356,7 @@ Havel joined wholeheartedly in George Bush's Gulf War, an enterprise that killed
 
 In 1992, while president of Czechoslovakia, Havel, the great democrat, demanded that parliament be suspended and he be allowed to rule by edict, the better to ram through free-market "reforms " That same year, he signed a law that made the advocacy of communism a felony with a penalty of up to eight years imprisonment. He claimed the Czech constitution required him to sign it. In fact, as he knew, the law violated the Charter of Human Rights which is incorporated into the Czech constitution. In any case, it did not require his signature to become law. In 1995, he supported and signed another undemocratic law barring communists and former communists from employment in public agencies.
 
-<sup>7</sup> See Havel's goofy op-ed in the New York Times (3/1/92); it caused an embarrassed silence among his U. S. admirers.
+7 See Havel's goofy op-ed in the New York Times (3/1/92); it caused an embarrassed silence among his U. S. admirers.
 
 The propagation of anticommunism has remained a top priority for Havel. He led "a frantic international campaign" (San Francisco Chronicle, 2/17/95) to keep in operation two U. S.-financed, cold war radio stations, Radio Free Europe and Radio Liberty, so they could continue saturating Eastern Europe with their anticommunist propaganda.
 
@@ -1067,7 +1374,7 @@ The former communist nations are being recolonized by Western capital. Most of t
 
 Multinational corporations are moving into Russia to exploit vast oil and natural gas reserves and rich mineral deposits at great profit to themselves and with little benefit to the Russian people. Over the protests of U. S. and Russian environmentalists, U. S. timber interests, with financial support from a venture fund sponsored by the Pentagon, are preparing to clear-cut the Siberian wilderness, a region that holds one-fifth of the planets forests and is the habitat of many rare species (New York Timesy 1/30/96).
 
-All aid to the former communist countries is fiinneled into the private sector. As noted in the Guardian (11/19/94), "The hundreds of millions of dollars spawned by Western aid programs have mainly benefited the Western companies which headed east to board the aid gravy train'' When Rumania inaugurated an over the lop market for trading privatization shares, the \$20 million in "start-up costs were largely covered by the U. S. Agency for International Development<sup>0</sup> (Wall St Journal 9/17/96).
+All aid to the former communist countries is fiinneled into the private sector. As noted in the Guardian (11/19/94), "The hundreds of millions of dollars spawned by Western aid programs have mainly benefited the Western companies which headed east to board the aid gravy train'' When Rumania inaugurated an over the lop market for trading privatization shares, the \$20 million in "start-up costs were largely covered by the U. S. Agency for International Development0 (Wall St Journal 9/17/96).
 
 In lyyfj, the International Monetary Fund extended a \$10.2 billion loan to Russia, with terms calling for the privatization of agriculture and other slate-owned assets, and the elimination of human service and fuel subsidies, U. S. aid is used to help private investors buy public ρ roper Lies and extract publicly owned raw materials from Eastern European countries under the most favorable investment conditions.
 
@@ -1083,19 +1390,19 @@ A drastic deterioration in agricultural production occurred in Bulgaria, once co
 
 In 1992, the Lithuanian government decreed that former owners and their descendants could reclaim property confiscated during the socialist era. As a result, tens of thousands of farming families, about 70 percent of the rural population, were evicted from land they had worked for over a half century, destroying the country's agricultural base in the process.
 
-Much production in East Germany was dismantled to prevent competition with West German firms. This was especially evident when collective agriculture was broken up to protect the heavily subsidized and less productive private farms of West Germany.<sup>8</sup> Without making compensation, West German capitalists grabbed almost all the socialized property in the GDR, including factories, mills, farms, apartments and other real estate, and the medical care system assets worth about \$2 trillion—in what has amounted to the largest expropriation of public wealth by private capital in European history.
+Much production in East Germany was dismantled to prevent competition with West German firms. This was especially evident when collective agriculture was broken up to protect the heavily subsidized and less productive private farms of West Germany.8 Without making compensation, West German capitalists grabbed almost all the socialized property in the GDR, including factories, mills, farms, apartments and other real estate, and the medical care system assets worth about \$2 trillion—in what has amounted to the largest expropriation of public wealth by private capital in European history.
 
 The end result of all this free-market privatization in East Germany is that rents, once 5 percent of one's income, have climbed to as much as two-thirds; likewise the costs of transportation, child care, health care, and higher education have soared beyond the reach of many.
 
 East Germans of various political stripes have a number of complaints: (a) The net money flow has been East to West, in what amounts to a colonization of the East, (b) The free market is a myth; the West German economy is heavily subsidized and fully regulated but against the interests of the East, (c) West German police are much more brutal than were the East German police, (d) If West Germany had denazified anywhere near as thoroughly as it forced the East to desocialize, it would be a totally different country (Z Magazine, 7/92).
 
-On that last point it should be noted that German officials are bringing criminal charges against those who "collaborated" with the GDR of East Germany in any official capacity, including even teachers and minor administrators.<sup>9</sup>
+On that last point it should be noted that German officials are bringing criminal charges against those who "collaborated" with the GDR of East Germany in any official capacity, including even teachers and minor administrators.9
 
 Emigrés from Communist states are astonished by the amount of bureaucracy they find in the West. Two Soviet immigrants to Canada complained, independently of each other, that "bureaucracy here
 
-<sup>8</sup> See Robert Mclntyre s report in Monthly Review; 12/93.
+8 See Robert Mclntyre s report in Monthly Review; 12/93.
 
-<sup>9</sup> Several thousand former GDR officials, judges, and others have been imprisoned or are facing prison terms for "treason." See the discussion in chapter five.
+9 Several thousand former GDR officials, judges, and others have been imprisoned or are facing prison terms for "treason." See the discussion in chapter five.
 
 was even worse than at home" {Monthly Review, 5/88). East Germans living in the West were staggered by the flood of complicated forms they had to fill out for taxes, health insurance, life insurance, unemployment compensation, job retraining, rent subsidies, and bank accounts. Furthermore, "because of the kind of personal information they had to give, they felt more observed and spied on than they were by the Stasi [the GDR security police]" (Z Magazine, 7/92).
 
@@ -1115,17 +1422,17 @@ In 1990, as the Soviet Union was preparing for its fatal plunge into the free-ma
 
 Today the former communist countries and China are clicking away with vipers and bloodsuckers. Thousands of luxury cars have appeared on the streets of Moscow and Prague. Rents and real estate prices have skyrocketed. Numerous stock exchanges have sprung up in China and Eastern Europe, sixteen in the former USSR alone. And a new class of investors, speculators, and racketeers are wallowing in wealth. The professed goal is no longer to provide a better life for all citizens but to maximize the opportunities for individuals to accumulate personal fortunes.
 
-More opulence for the few creates more poverty for the many. As one young female journalist in Russia put it: "Everytime someone gets richer, I get poorer" (New York Times, 10/15/95). In Russia, the living standard of the average family has fallen almost by half since the market "reforms" took hold (New York Times, 6/16/96). A report from Hungary makes the same point: "While the 'new rich<sup>5</sup> live in villas with a Mercedes parked in a garage, the number of poor people has been growing" (New York Times, 2/27/90)·
+More opulence for the few creates more poverty for the many. As one young female journalist in Russia put it: "Everytime someone gets richer, I get poorer" (New York Times, 10/15/95). In Russia, the living standard of the average family has fallen almost by half since the market "reforms" took hold (New York Times, 6/16/96). A report from Hungary makes the same point: "While the 'new rich5 live in villas with a Mercedes parked in a garage, the number of poor people has been growing" (New York Times, 2/27/90)·
 
 As socialist Vietnam opens itself to foreign investment and the free market, "gaps between rich and poor . . . have widened rapidly" and "the quality of education and health care for the poor has deteriorated" (New York Times, 4/8/96). Prosperity has come "only to a privileged few in Vietnam" leading to "an emerging class structure that is at odds with the country's professed egalitarian ideals" (AP report, 10/28/96).
 
-In the emerging free-market paradise of Russia and Eastern Europe, price deregulation produced not competitive prices but prices set by private monopolies, adding to the galloping inflation. Beggars, pimps, dope pushers, and other hustlers ply their trades as never before. And there has been a dramatic rise in unemployment, homelessness, air and water pollution, prostitution, spousal abuse, child abuse, and just about every other social ill.<sup>1</sup>
+In the emerging free-market paradise of Russia and Eastern Europe, price deregulation produced not competitive prices but prices set by private monopolies, adding to the galloping inflation. Beggars, pimps, dope pushers, and other hustlers ply their trades as never before. And there has been a dramatic rise in unemployment, homelessness, air and water pollution, prostitution, spousal abuse, child abuse, and just about every other social ill.1
 
-<sup>1</sup> Vladimir Bilenkin, "Russian Workers Under the Yeltsin Regime: Notes on a Class in Defeat," Monthly Review, 11/96, 1-12.
+1 Vladimir Bilenkin, "Russian Workers Under the Yeltsin Regime: Notes on a Class in Defeat," Monthly Review, 11/96, 1-12.
 
 In countries like Russia and Hungary, as widely reported in the U. S. press, the suicide rate has climbed by 50 percent in a few years. Reductions in fuel service, brought about by rising prices and unpaid bills, have led to a growing number of deaths or serious illnesses among the poor and the elderly during the long winters.
 
-In Russia, doctors and nurses in public clinics are now grossly underpaid. Free health clinics are closing. More than ever, hospitals suffer from unsanitary conditions and shortages of disposable syringes, needles, vaccines, and modern equipment. Many hospitals now have no hot water, some no water at all.<sup>2</sup> The deterioration of immunization programs and health standards has allowed polio to make a serious comeback, along with tuberculosis, cholera, diptheria, dysentery, and sexually transmitted diseases. Drug addiction has risen sharply. "Russia's hospitals are struggling to treat increasing numbers of addicts with decreasing levels of funding" (CNN news report, 2/2/92).
+In Russia, doctors and nurses in public clinics are now grossly underpaid. Free health clinics are closing. More than ever, hospitals suffer from unsanitary conditions and shortages of disposable syringes, needles, vaccines, and modern equipment. Many hospitals now have no hot water, some no water at all.2 The deterioration of immunization programs and health standards has allowed polio to make a serious comeback, along with tuberculosis, cholera, diptheria, dysentery, and sexually transmitted diseases. Drug addiction has risen sharply. "Russia's hospitals are struggling to treat increasing numbers of addicts with decreasing levels of funding" (CNN news report, 2/2/92).
 
 There has been a decline in nutritional levels and a sharp increase in stress and illness. Yet the number of visits to doctors has dropped by half because fees are so costly in the newly privatized health care systems. As a result, many illnesses go undetected and untreated until they become critical. Russian military officials describe the health of conscripts as "catastrophic." Within the armed forces suicides have risen dramatically and deaths from drug overdoses have climbed 80 percent in recent years. ( Toronto Stary 11/5/95).
 
@@ -1137,13 +1444,13 @@ born. The death rate rose nearly 20 percent for East German women in their late 
 
 With the end of subsidized rents, estimates of homelessness in Moscow alone run as high as 300,000. The loss of resident permits deprives the homeless of medical care and other state benefits, such as they are. Dressed in rags and victimized by both mobsters and government militia, thousands of indigents die of cold and hunger on the streets of various cities. In Rumania, thousands of homeless children live in sewers and train stations, sniffing glue to numb their hunger, begging and falling prey to various predators (National Public Radio news, 7/21/96).
 
-In Mongolia, hundreds of homeless children live in the sewers of Ulaanbaatar. Before 1990, Mongolia was a prosperous nation that had benefited from Soviet and East European financial assistance and technical aid. Its new industrial centers produced leather goods, woolen products, textiles, cement, meat, grain, and timber. "The communist era dramatically improved the quality of life of the p e o p l e . . . achieving commendable levels of social development through state-sponsored social welfare measures," but free-market privatization and deindustrialization has brought unemployment, mass poverty, and widespread malnutrition to Mongolia.<sup>3</sup>
+In Mongolia, hundreds of homeless children live in the sewers of Ulaanbaatar. Before 1990, Mongolia was a prosperous nation that had benefited from Soviet and East European financial assistance and technical aid. Its new industrial centers produced leather goods, woolen products, textiles, cement, meat, grain, and timber. "The communist era dramatically improved the quality of life of the p e o p l e . . . achieving commendable levels of social development through state-sponsored social welfare measures," but free-market privatization and deindustrialization has brought unemployment, mass poverty, and widespread malnutrition to Mongolia.3
 
 #### Shock Therapy for the Many
 
 Unemployment rates have risen as high as 30 percent in countries that once knew full employment under communism. One Polish worker claims that the jobless are pretty much unemployable after age 40. Polish women say economic demise comes earlier for them, since to get a job, as one puts it, "you must be young, childless and
 
-<sup>3</sup> K. L. Abeywickrama, "The Marketization of Mongolia," Monthly Review, 3/96, 25- 33, and reports cited therein.
+3 K. L. Abeywickrama, "The Marketization of Mongolia," Monthly Review, 3/96, 25- 33, and reports cited therein.
 
 have a big bosom" (Nation, 12/7/92). Occupational safety is now almost nonexistent and workplace injuries and deaths have drastically increased.
 
@@ -1153,7 +1460,7 @@ Even in the few remaining countries in which communist governments retain contro
 
 In China, there are workers who now put in twelve- to sixteenhour days for subsistence pay, without regularly getting a day off. Those who protest against poor safety and health conditions risk being fired or jailed. The market reforms in China have also brought a return of child labor (San Francisco Chronicle, 8/14/90). "I think this is what happens when you have private companies," says Ms. Peng, a young migrant who has doubts about the new China. "In private companies, you know, the workers don't have rights" ( Wall St. Journal 5/19/94).
 
-Throughout Eastern Europe, unions have been greatly weakened or broken. Sick leave, maternity leave, paid vacations, and other job benefits once taken for granted under communism have been cut or abolished. Worker sanitariums, vacation resorts, health clinics, sports and cultural centers, children's nurseries, day-care centers, and other features that made communist enterprises more than just workplaces, have nearly vanished. Rest homes formerly reserved for workers have been privatized and turned into casinos, night clubs, and restaurants for the nouveau riche.<sup>4</sup>
+Throughout Eastern Europe, unions have been greatly weakened or broken. Sick leave, maternity leave, paid vacations, and other job benefits once taken for granted under communism have been cut or abolished. Worker sanitariums, vacation resorts, health clinics, sports and cultural centers, children's nurseries, day-care centers, and other features that made communist enterprises more than just workplaces, have nearly vanished. Rest homes formerly reserved for workers have been privatized and turned into casinos, night clubs, and restaurants for the nouveau riche.4
 
 Real income has shrunk by as much as 30 to 40 percent in the excommunist countries. In 1992 alone, Russia saw its consumer spending drop by 38 percent. (By comparison, during the Great Depression, consumer spending in the United States fell 21 percent over four years.) In both Poland and Bulgaria, an estimated 70 percent now live below or just above the poverty line. In Russia, it is 75 to 85 percent, with a third of the population barely subsisting in absolute economic desperation. In Hungary, which has received most of the West s investment in Eastern Europe, over one-third of its citizens live in abject poverty, and 70 percent of the men hold two or more jobs, working up to 14 hours a day, according to the Ministry of Labor.
 
@@ -1161,7 +1468,7 @@ After months of not getting paid, coal miners in far eastern Russia were beginni
 
 Eastern Europeans are witnessing scenes "that are commonplace enough in the West, but are still wrenching here: the old man rummaging through trash barrels for castaway items, the old woman picking through a box of bones at a meat market in search of one with enough gristle to make a thin soup" (Los Angeles Times, 3/10/90). With their savings and pensions swallowed up by inflation, elderly pensioners crowd the sidewalks of Moscow selling articles of their
 
-<sup>4</sup> One booming employment area is the business security forces and private armies, which in the Soviet Union alone muster some 800,000 men. "Another employer of choicc for working class youth is the immense state apparatus of repression which is now more formidable than that of the Soviet period. Today, this apparatus is numerically superior to the Armed Forces, better paid and better equipped. The regimes real enemy is inside, after all": Bilenkin, u Russian Workers Under the Yeltsin Regime," Monthly Review, 11/96, 7.
+4 One booming employment area is the business security forces and private armies, which in the Soviet Union alone muster some 800,000 men. "Another employer of choicc for working class youth is the immense state apparatus of repression which is now more formidable than that of the Soviet period. Today, this apparatus is numerically superior to the Armed Forces, better paid and better equipped. The regimes real enemy is inside, after all": Bilenkin, u Russian Workers Under the Yeltsin Regime," Monthly Review, 11/96, 7.
 
 clothing and other pathetic wares, while enduring harassment by police and thugs {Washington Post, 1/1/96). A Russian senior citizen refers to "this poverty, which only a few have escaped" while some "have become wildly rich." (Modern Maturityy September/October 1994).
 
@@ -1197,7 +1504,7 @@ Facing forced privatization, news and entertainment media have had to find rich 
 
 #### Women and Children Last
 
-The overthrow of communism has brought a sharp increase in gender inequality. The new constitution adopted in Russia eliminates provisions that guaranteed women the right to paid maternity leave, job security during pregnancy, prenatal care, and affordable day-care centers.<sup>5</sup> Without the former communist stipulation that women get at least one third of the seats in any legislature, female political representation has dropped to as low as 5 percent in some countries.
+The overthrow of communism has brought a sharp increase in gender inequality. The new constitution adopted in Russia eliminates provisions that guaranteed women the right to paid maternity leave, job security during pregnancy, prenatal care, and affordable day-care centers.5 Without the former communist stipulation that women get at least one third of the seats in any legislature, female political representation has dropped to as low as 5 percent in some countries.
 
 In all communist countries about 90 percent of women had jobs in what was a full-employment economy. Today, women compose s Under Soviet law, women had been granted four months off with full pay for childbirth, and a year of partial pay if they elected to stay home with the child. In addition, they were allowed up to three years leave with a guarantee that their jobs would be held for them.
 
@@ -1237,13 +1544,13 @@ The belief propagated by the free-market "reformers" is that the transition from
 
 Like other Third World nations, the former communist countries are likely to remain in poverty indefinitely, so that a privileged few may continue to enjoy greater and greater opulence at the expense of the many. To secure that arrangement, the corporate class will resort to every known manipulation and repression against democratic resurgence. In these endeavors they will have the expert assistance of international capital, the CIA, and other agencies of state capitalist domination.
 
-According to Noam Chomsky, communism "was a monstrosity" and "the collapse of tyranny" in Eastern Europe and Russia is "an occasion for rejoicing for anyone who values freedom and human dignity"<sup>6</sup> 1 treasure freedom and human dignity yet find no occasion for rejoicing. The postcommunist societies do not represent a net gain for such values. If anything, the breakup of the communist states has brought a colossal victory for global capitalism and imperialism, with its correlative increase in human misery, and a historic setback for revolutionary liberation struggles everywhere. There will be harder times ahead even for modestly reformist nationalist governments, as the fate of Panama and Iraq have indicated. The breakup also means a net loss of global pluralism and a more intensive socio-economic inequality throughout the world.<sup>7</sup>
+According to Noam Chomsky, communism "was a monstrosity" and "the collapse of tyranny" in Eastern Europe and Russia is "an occasion for rejoicing for anyone who values freedom and human dignity"6 1 treasure freedom and human dignity yet find no occasion for rejoicing. The postcommunist societies do not represent a net gain for such values. If anything, the breakup of the communist states has brought a colossal victory for global capitalism and imperialism, with its correlative increase in human misery, and a historic setback for revolutionary liberation struggles everywhere. There will be harder times ahead even for modestly reformist nationalist governments, as the fate of Panama and Iraq have indicated. The breakup also means a net loss of global pluralism and a more intensive socio-economic inequality throughout the world.7
 
 The peoples of Eastern Europe believed they were going to keep all the social gains they had enjoyed under communism while adding on all the consumerism of the West. Many of their grievances about existing socialism were justified but their romanticized image of the capitalist West was not. They had to learn the hard way. Expecting to advance from Second World to First World status, they have been rammed down into the Third World, ending up like capitalist Indonesia, Mexico, Zaire, and Turkey. They wanted it all and have been left with almost nothing.
 
-<sup>6</sup> Noam Chomsky, Powers and Prospects (Boston: South End Press, 1996), 83.
+6 Noam Chomsky, Powers and Prospects (Boston: South End Press, 1996), 83.
 
-<sup>7</sup> The overthrow of communism, however, does not mean the end of the U. S. global military machine. Quite the contrary, huge sums continue to be spent, and new weapons systems and high-tech methods of killing continue to be developed in order that a tight grip be kept on the world by those who own it.
+7 The overthrow of communism, however, does not mean the end of the U. S. global military machine. Quite the contrary, huge sums continue to be spent, and new weapons systems and high-tech methods of killing continue to be developed in order that a tight grip be kept on the world by those who own it.
 
 #### C H A P T E R 8
 
@@ -1251,9 +1558,9 @@ The peoples of Eastern Europe believed they were going to keep all the social ga
 
 Some people say Marxism is a science and others say it is a dogma, a bundle of reductionist unscientific claims. I would suggest that Marxism is not a science in the positivist sense, formulating hypotheses and testing for predictability, but more accurately a social science, one that shows us how to conceptualize systematically and systemically, moving from surface appearances to deeper, broader features, so better to understand both the specific and the general, and the relationship between the two.
 
-Marxism has an explanatory power that is superior to mainstream bourgeois social science because it deals with the imperatives of class power and political economy, the motor forces of society and history. The class basis of political economy is not a subject for which mainstream social science has much understanding or tolerance.<sup>1</sup> In 1915, Lenin wrote that "[bourgeois] science will not even hear of Marxism, declaring that it has been refuted and annihilated. Marx is attacked
+Marxism has an explanatory power that is superior to mainstream bourgeois social science because it deals with the imperatives of class power and political economy, the motor forces of society and history. The class basis of political economy is not a subject for which mainstream social science has much understanding or tolerance.1 In 1915, Lenin wrote that "[bourgeois] science will not even hear of Marxism, declaring that it has been refuted and annihilated. Marx is attacked
 
-<sup>1</sup> This aversion to recognizing the realities of class power exists even among many who consider themselves to be on the Left; see the discussion on the Anything-But-Class theorists in the next chapter.
+1 This aversion to recognizing the realities of class power exists even among many who consider themselves to be on the Left; see the discussion on the Anything-But-Class theorists in the next chapter.
 
 with equal zest by young scholars who are making a career by refuting socialism, and by decrepit elders who are preserving the tradition of all kinds of outworn systems"
 
@@ -1285,7 +1592,7 @@ Big Capital has no commitment to anything but capital accumulation, no loyalty t
 
 Those who reject Marx frequently contend that his predictions about proletariat revolution have proven wrong. From this, they conclude that his analysis of the nature of capitalism and imperialism must also be wrong. But we should distinguish between Marx the chiliastic thinker, who made grandly optimistic predictions about the flowering of the human condition, and Marx the economist and social scientist, who provided us with fundamental insights into capitalist society that have held painfully true to the present day. The latter Marx has been regularly misrepresented by anti-Marxist writers. Consider the following predictions:
 
-Business Cycles and the Tendency toward Recession. Marx noted that something more than greed is involved in the capitalist s relentless pursuit of profit. Given the pressures of competition and rising wages, capitalists must make technological innovations to increase their productivity and diminish their labor costs. This creates problems of its own. The more capital goods (such as machinery, plants, technologies, fuels) needed for production, the higher the fixed costs and the greater the pressure to increase productivity to maintain profit margins.<sup>2</sup>
+Business Cycles and the Tendency toward Recession. Marx noted that something more than greed is involved in the capitalist s relentless pursuit of profit. Given the pressures of competition and rising wages, capitalists must make technological innovations to increase their productivity and diminish their labor costs. This creates problems of its own. The more capital goods (such as machinery, plants, technologies, fuels) needed for production, the higher the fixed costs and the greater the pressure to increase productivity to maintain profit margins.2
 
 As an industry becomes more capital intensive, proportionately more money must be invested to generate a given number of jobs. But business is not dedicated to creating jobs. In fact, capitalists are constantly devising ways to downsize the workforce. From 1980 to 1990, the net number of jobs created by the biggest corporations in the United States, the "Fortune 500," was zero. The new jobs of that period came mostly from less capital-intensive smaller firms, light industry, service industry, and the public sector.
 
@@ -1317,19 +1624,19 @@ So in other countries. In Nicaragua, a mass uprising brought down the hated Somo
 
 Marx believed that as wealth becomes more concentrated, poverty will become more widespread and the plight of working people evermore desperate. According to his critics, this prediction has proven wrong. They point out that he wrote during a time of raw industrialism, an era of robber barons and the fourteen-hour work day. Through persistent struggle, the working class improved its life conditions from the mid-nineteenth to the mid-twentieth centuries. Today, mainstream spokespersons portray the United States as a prosperous middle-class society.
 
-Yet one might wonder. During the Reagan-Bush-Clinton era, from 1981 to 1996, the share of the national income that went to those who work for a living shrank by over 12 percent. The share that went to those who live off investments increased almost 35 percent. Less than 1 percent of the population owns almost 50 percent of the nation s wealth. The richest families are hundreds of times wealthier than the average household in the lower 90 percent of the population. The gap between Americas rich and poor is greater than it has been in more than half a century and is getting ever-greater. Thus, between 1977 and 1989, the top 1 percent saw their earnings grow by over 100 percent, while the three lowest quintiles averaged a 3 to 10 percent drop in real income.<sup>3</sup>
+Yet one might wonder. During the Reagan-Bush-Clinton era, from 1981 to 1996, the share of the national income that went to those who work for a living shrank by over 12 percent. The share that went to those who live off investments increased almost 35 percent. Less than 1 percent of the population owns almost 50 percent of the nation s wealth. The richest families are hundreds of times wealthier than the average household in the lower 90 percent of the population. The gap between Americas rich and poor is greater than it has been in more than half a century and is getting ever-greater. Thus, between 1977 and 1989, the top 1 percent saw their earnings grow by over 100 percent, while the three lowest quintiles averaged a 3 to 10 percent drop in real income.3
 
 The New York Times (6/20/96) reported that income disparity in 1995 "was wider than it has been since the end of World War II." The average income for the top 20 percent jumped 44 percent, from \$73,754 to \$105,945, between 1968 and 1994, while the bottom 20
 
-<sup>3</sup> Paul Krugman, Peddling Prosperity (New York: W. W. Norton: 1994), 134-35.
+3 Paul Krugman, Peddling Prosperity (New York: W. W. Norton: 1994), 134-35.
 
-percent had a 7 percent increase from \$7>202 to \$7,762, or only \$560 in constant dollars. But these figures understate the problem. The Times story is based on a Census Bureau study that fails to report the income of the very rich. For years the reportable upper limit was \$300,000 yearly income. In 1994, the bureau lifted the allowable limit to \$1 million. This still leaves out the richest one percent, the hundreds of billionaires and thousands of multimillionaires who make many times more than \$1 million a year. The really big money is concentrated in a portion of the population so minuscule as to be judged statistically insignificant. But despite their tiny numbers, the amount of wealth they control is enormous and bespeaks an income disparity a thousand times greater than the spread allowed by the Census Bureau figures. Thus, the difference between a multibillionare who might make \$100 million in any one year and a janitor who makes \$8,000 is not 14 to 1 (the usually reported spread between highest and lowest) but over 14,000 to 1. Yet the highest incomes remain unreported and uncounted. In a word, most studies of this sort give us no idea of how rich the very rich really are.<sup>4</sup>
+percent had a 7 percent increase from \$7>202 to \$7,762, or only \$560 in constant dollars. But these figures understate the problem. The Times story is based on a Census Bureau study that fails to report the income of the very rich. For years the reportable upper limit was \$300,000 yearly income. In 1994, the bureau lifted the allowable limit to \$1 million. This still leaves out the richest one percent, the hundreds of billionaires and thousands of multimillionaires who make many times more than \$1 million a year. The really big money is concentrated in a portion of the population so minuscule as to be judged statistically insignificant. But despite their tiny numbers, the amount of wealth they control is enormous and bespeaks an income disparity a thousand times greater than the spread allowed by the Census Bureau figures. Thus, the difference between a multibillionare who might make \$100 million in any one year and a janitor who makes \$8,000 is not 14 to 1 (the usually reported spread between highest and lowest) but over 14,000 to 1. Yet the highest incomes remain unreported and uncounted. In a word, most studies of this sort give us no idea of how rich the very rich really are.4
 
-The number living below the poverty level in the United States climbed from 24 million in 1977 to over 35 million by 1995. People were falling more deeply into poverty than in earlier times and finding it increasingly difficult to emerge from it. In addition, various diseases related to hunger and poverty have been on the rise.<sup>5</sup>
+The number living below the poverty level in the United States climbed from 24 million in 1977 to over 35 million by 1995. People were falling more deeply into poverty than in earlier times and finding it increasingly difficult to emerge from it. In addition, various diseases related to hunger and poverty have been on the rise.5
 
-<sup>4</sup> When asked why this procedure was used, a Census Bureau official told my research assistant that the bureaus computers could not handle higher amounts. This excuse seems most improbable, since once the Census Bureau decided to raise the upper limit, it did so without any difficulty. Another reason he gave was confidentiality. Given place coordinates, someone with a very high income could be identified. In addition, high-income respondents understate their income. The interest and dividend earnings they report is only about 50 to 60 percent of actual investment returns. And since their actual numbers are so few, they are likely not to show up in a random sample of the entire nation. By designating the top 20 percent as the "richest " the Census Bureau is lumping in upper-middle professionals and other people who make as little as \$70,000 or so, people who are anything but the "richest "
+4 When asked why this procedure was used, a Census Bureau official told my research assistant that the bureaus computers could not handle higher amounts. This excuse seems most improbable, since once the Census Bureau decided to raise the upper limit, it did so without any difficulty. Another reason he gave was confidentiality. Given place coordinates, someone with a very high income could be identified. In addition, high-income respondents understate their income. The interest and dividend earnings they report is only about 50 to 60 percent of actual investment returns. And since their actual numbers are so few, they are likely not to show up in a random sample of the entire nation. By designating the top 20 percent as the "richest " the Census Bureau is lumping in upper-middle professionals and other people who make as little as \$70,000 or so, people who are anything but the "richest "
 
-<sup>5</sup> For more extensive data, see my essay "Hidden Holocaust, USA," in Michael Parenti, Dirty Truths (San Francisco: City Lights Books, 1996).
+5 For more extensive data, see my essay "Hidden Holocaust, USA," in Michael Parenti, Dirty Truths (San Francisco: City Lights Books, 1996).
 
 There has been a general downgrading of the work force. Regular employment is being replaced by contracted labor or temporary help, resulting in lower wages with fewer or no benefits. Many unions have been destroyed or seriously weakened. Protective government regulations are being rolled back or left unenforced, and there has been an increase in speedups, injuries, and other workplace abuses.
 
@@ -1363,7 +1670,7 @@ Marxists do not accept the prevalent view of institutions as just "being there" 
 
 If conventional social science has any one dedication, it is to ignore the linkages between social action and the systemic demands of capitalism, avoiding any view of power in its class dimensions, and any view of class as a power relationship. For conventional researchers, power is seen as fragmented and fluid, and class is nothing more than an occupational or income category to be correlated with voting habits, consumer styles or whatever, and not as a relationship between those who own and those who labor for those who own.
 
-In the Marxist view there can be no such thing as a class as such, a social entity unto itself. There can be no lords without serfs, no masters without slaves, no capitalists without workers. More than just a sociological category, class is a relationship to the means of production and to social and state power. This idea, so fundamental to an understanding of public policy, is avoided by conventional social scientists who prefer to concentrate on everything else but class power realities.<sup>6</sup>
+In the Marxist view there can be no such thing as a class as such, a social entity unto itself. There can be no lords without serfs, no masters without slaves, no capitalists without workers. More than just a sociological category, class is a relationship to the means of production and to social and state power. This idea, so fundamental to an understanding of public policy, is avoided by conventional social scientists who prefer to concentrate on everything else but class power realities.6
 
 It is remarkable, for instance, that some political scientists have studied the presidency and Congress for decades without uttering a word about capitalism, without so much as a sidelong glance at how the imperatives of a capitalist politico-economic order play such a crucial role in prefiguring the political agenda. Social science is cluttered with "community power studies" that treat communities and issues as isolated autonomous entities. Such investigations are usually limited to the immediate interplay of policy actors, with little said about how issues link up to a larger range of social interests.
 
@@ -1371,7 +1678,7 @@ Conservative ideological preconceptions regularly influence the research strateg
 
 (1) The relationships between industrial capitalist nations and Third World nations are described as (a) "dependency" and "interdependency" and as fostering a mutually beneficial development, rather than (b) an imperialism that exploits the land, labor, and
 
-<sup>6</sup> See the discussion on class in the following chapter.
+6 See the discussion on class in the following chapter.
 
 resources of weaker nations for the benefit of the favored classes in both the industrial and less-developed worlds.
 
@@ -1403,13 +1710,13 @@ A common method of devaluing Marxism is to misrepresent what it actually says an
 
 Capitalism and its various institutions affect the most personal dimensions of everyday life in ways not readily evident. A Marxist approach helps us to see connections to which we were previously blind, to relate effects to causes, and to replace the arbitrary and the mysterious with the regular and the necessary. A Marxist perspective helps us to see injustice as rooted in systemic causes that go beyond individual choice, and to view crucial developments not as neutral happenings but as the intended consequences of class power and interest. Marxism also shows how even unintended consequences can be utilized by those with superior resources to service their interests.
 
-Is Marx still relevant today? Only if you want to know why the media distort the news in a mostly mainstream direction; why more and more people at home and abroad face economic adversity while money continues to accumulate in the hands of relatively few; why there is so much private wealth and public poverty in this country and elsewhere; why U. S. forces find it necessary to intervene in so many regions of the world; why a rich and productive economy offers chronic recessions, underemployment, and neglect of social needs; and why many political officeholders are unwilling or unable to serve the public interest.<sup>7</sup>
+Is Marx still relevant today? Only if you want to know why the media distort the news in a mostly mainstream direction; why more and more people at home and abroad face economic adversity while money continues to accumulate in the hands of relatively few; why there is so much private wealth and public poverty in this country and elsewhere; why U. S. forces find it necessary to intervene in so many regions of the world; why a rich and productive economy offers chronic recessions, underemployment, and neglect of social needs; and why many political officeholders are unwilling or unable to serve the public interest.7
 
 Some Marxist theorists have so ascended into the numbing altitudes of abstract cogitation that they seldom touch political realities here on earth. They spend their time talking to each other in self-referential code, a scholastic ritual that Doug Dowd described as "How many Marxists can dance on the head of a surplus value." Fortunately there are others who not only tell us about Marxist theory but demonstrate its utility by applying it to political actualities. They know how to draw connections between immediate experience and the larger structural forces that shape that experience. They cross the forbidden line and talk about class power.
 
 This is why, for all the misrepresentation and suppression, Marxist scholarship survives. While not having all the answers, it does have a superior explanatory power, telling us something about reality that bourgeois scholarship refuses to do. Marxism offers the kind of subversive truths that cause fear and trembling among the high and mighty, those who live atop a mountain of lies.
 
-<sup>7</sup> To further pursue these questions, the reader is invited to read several of my books: Democracy for the Few, 6th edition, (New York: St. Martin's Press, 1995); Against Empire (San Francisco: City Lights Books, 1995); and Dirty Truths (San Francisco: City Lights Books, 1996).
+7 To further pursue these questions, the reader is invited to read several of my books: Democracy for the Few, 6th edition, (New York: St. Martin's Press, 1995); Against Empire (San Francisco: City Lights Books, 1995); and Dirty Truths (San Francisco: City Lights Books, 1996).
 
 #### CHAPTER 9
 
@@ -1427,13 +1734,13 @@ At the same time, they are careful to discourage public awareness of the class p
 
 The ruling class in this country has labored long to leave the impression that it does not exist, does not own the lion's share of just about everything, and does not exercise a vastly disproportionate influence over the affairs of the nation. Such precautions are themselves symptomatic of an acute awareness of class interests.
 
-Yet ruling class members are far from invisible. Their command positions in the corporate world, their control of international finance and industry, their ownership of the major media, and their influence over state power and the political process are all matters of public record—to some limited degree.<sup>1</sup> While it would seem a simple matter to apply the C-word to those who occupy the highest reaches of the C-world, the dominant class ideology dismisses any such application as a lapse into "conspiracy theory."
+Yet ruling class members are far from invisible. Their command positions in the corporate world, their control of international finance and industry, their ownership of the major media, and their influence over state power and the political process are all matters of public record—to some limited degree.1 While it would seem a simple matter to apply the C-word to those who occupy the highest reaches of the C-world, the dominant class ideology dismisses any such application as a lapse into "conspiracy theory."
 
 The C-word is also taboo when applied to the millions who do the work of society for what are usually niggardly wages, the "working class," a term that is dismissed as Marxist jargon. And it is verboten to refer to the "exploiting and exploited classes," for then one is talking about the very essence of the capitalist system, the accumulation of corporate wealth at the expense of labor.
 
 The C-word is an acceptable term when prefaced with the soothing adjective "middle." Every politician, publicist, and pundit will rhapsodize about the middle class, the object of their heartfelt concern. The much admired and much pitied middle class is suppos-
 
-<sup>1</sup> For a more detailed treatment of ruling-class resources and influences» see my Democracy for the Few, 6th edition (New York: St. Martins Press, 1995).
+1 For a more detailed treatment of ruling-class resources and influences» see my Democracy for the Few, 6th edition (New York: St. Martins Press, 1995).
 
 edly inhabited by virtuously self-sufficient people, free from the presumed profligacy of those who inhabit the lower rungs of society By including almost everyone, "middle class" serves as a conveniently amorphous concept that masks the exploitation and inequality of social relations. It is a class label that denies the actuality of class power.
 
@@ -1447,7 +1754,7 @@ Response: Wealth is enormously concentrated in the hands of relatively few in th
 
 Credo: Our social institutions and culture are autonomous entities in a pluralistic society, largely free of the influences of wealth and class power. To think otherwise is to entertain conspiracy theories.
 
-Response: Great concentrations of wealth exercise an influence in all aspects of life, often a dominating one. Our social and cultural institutions are run by boards of directors (or trustees or regents) drawn largely from interlocking, nonelective, self-selecting corporate elites. They and their faithful hirelings occupy most of the command positions of the executive state and other policymaking bodies, and manifest a keen awareness of their class interests when shaping domestic and international policies. This includes such policies as the General Agreement on Tariffs and Trade (GATT), designed to circumvent whatever democratic sovereignty exists within nations.<sup>2</sup>
+Response: Great concentrations of wealth exercise an influence in all aspects of life, often a dominating one. Our social and cultural institutions are run by boards of directors (or trustees or regents) drawn largely from interlocking, nonelective, self-selecting corporate elites. They and their faithful hirelings occupy most of the command positions of the executive state and other policymaking bodies, and manifest a keen awareness of their class interests when shaping domestic and international policies. This includes such policies as the General Agreement on Tariffs and Trade (GATT), designed to circumvent whatever democratic sovereignty exists within nations.2
 
 Credo: The differences between rich and poor are a natural given, not causally linked. Individual human behavior, not class, determines human performance and life chances. Existing social arrangements are a natural reflection of largely innate human proclivities.
 
@@ -1459,7 +1766,7 @@ Even among persons normally identified as progressive, one finds a reluctance to
 
 For a discussion of GATT see my Against Empire (San Francisco: City Lights Books, 1995).
 
-those he repeatedly referred to as "orthodox Marxists."<sup>3</sup>
+those he repeatedly referred to as "orthodox Marxists."3
 
 Another left academic, Ronald Aronson, in a book entitled After Marxism, claims—in the face of all recent evidence—that classes in capitalist society have become "less polarized" and class exploitation is not an urgent issue nowadays because labor unions "have achieved power to protect their members and affect social policy." This at a time when many unions are being destroyed, workers are being downgraded to the status of contract laborers, and the income gap is wider than in decades.
 
@@ -1467,19 +1774,19 @@ Many who pretend to be on the Left are so rabidly anti-Marxist as to seize upon 
 
 One is reminded of Robert Mc Chesney's comment: "At some universities the very term cultural studies has become an ongoing punchline to a bad joke. It signifies half-assed research, self-congratulation, and farcical pretension. At its worst, the proponents of this newfangled cultural studies are unable to defend their work, so they no longer try, merely claiming that their critics are hung up on outmoded notions like evidence, logic, science, and rationality" (Monthly Review, 3/96). In my opinion, one of the main effects of cultural studies is to draw attention away from the vital realities of class power, the "outmoded" things that cause Aronowitz and his associates to yawn.
 
-<sup>3</sup> Aronowitz and some other "left" academics do battle against Marxism by producing hypertheorized exegeses in a field called "cultural studies" That their often impenetrable writings seldom connect to the real world was demonstrated in 1996 by physicist Alan Sokal, himself a leftist, who wrote a cultural studies parody and submitted it to Aronowitz's Social Text, a journal devoted to articles that specialize in bloated verbiage, pedantic pretensions, and academic oneupmanship. Sokal's piece was laden with obscure but trendy jargon and footnoted references to the likes of Jacques Derrida and Aronowitz himself. It purported to be an "epistemic exposition" of "recent developments in quantum gravity" and "the space-time manifold" and "foundational conceptual categories of prior science" that have "become problematized and relativized" with "profound implications for the content of a future post-modern and liberatory science " Various Social Text editors read and accepted the piece as a serious contribution. After they published it, Sokal revealed that it was little more than fabricated gibberish that "wasn't obliged to respect any standards of evidence or logic " In effect, he demonstrated that the journal s editors were themselves so profoundly immersed in pretentiously inflated discourse as to be unable to distinguish between a genuine intellectual effort and a silly parody. Aronowitz responded by calling Sokal "ill-read and half-educated" (New York Times, 5/18/96).
+3 Aronowitz and some other "left" academics do battle against Marxism by producing hypertheorized exegeses in a field called "cultural studies" That their often impenetrable writings seldom connect to the real world was demonstrated in 1996 by physicist Alan Sokal, himself a leftist, who wrote a cultural studies parody and submitted it to Aronowitz's Social Text, a journal devoted to articles that specialize in bloated verbiage, pedantic pretensions, and academic oneupmanship. Sokal's piece was laden with obscure but trendy jargon and footnoted references to the likes of Jacques Derrida and Aronowitz himself. It purported to be an "epistemic exposition" of "recent developments in quantum gravity" and "the space-time manifold" and "foundational conceptual categories of prior science" that have "become problematized and relativized" with "profound implications for the content of a future post-modern and liberatory science " Various Social Text editors read and accepted the piece as a serious contribution. After they published it, Sokal revealed that it was little more than fabricated gibberish that "wasn't obliged to respect any standards of evidence or logic " In effect, he demonstrated that the journal s editors were themselves so profoundly immersed in pretentiously inflated discourse as to be unable to distinguish between a genuine intellectual effort and a silly parody. Aronowitz responded by calling Sokal "ill-read and half-educated" (New York Times, 5/18/96).
 
-political issues, do their part in stunting class consciousness.<sup>4</sup>
+political issues, do their part in stunting class consciousness.4
 
-The "left" ABC theorists say we are giving too much attention to class. Who exactly is doing that? Surveying the mainstream academic publications, radical journals, and socialist scholars conferences, one is hard put to find much class analysis of any kind. Far from giving too much attention to class power, most U. S. writers and commentators have yet to discover the subject. While pummeling a rather minuscule Marxist Left, the ABC theorists would have us think they are doing courageous battle against hordes of Marxists who dominate intellectual discourse in this country—yet another hallucination they hold in common with conservatives.<sup>3</sup>
+The "left" ABC theorists say we are giving too much attention to class. Who exactly is doing that? Surveying the mainstream academic publications, radical journals, and socialist scholars conferences, one is hard put to find much class analysis of any kind. Far from giving too much attention to class power, most U. S. writers and commentators have yet to discover the subject. While pummeling a rather minuscule Marxist Left, the ABC theorists would have us think they are doing courageous battle against hordes of Marxists who dominate intellectual discourse in this country—yet another hallucination they hold in common with conservatives.3
 
-In their endless search for conceptual schema that might mute Marxism s class analysis, "left" ABC theorists have twaddled for years over a false dichotomization between early Marx (culturalistic, humanistic, good) and later Marx (dogmatic, economistic, bad).<sup>6</sup> As
+In their endless search for conceptual schema that might mute Marxism s class analysis, "left" ABC theorists have twaddled for years over a false dichotomization between early Marx (culturalistic, humanistic, good) and later Marx (dogmatic, economistic, bad).6 As
 
-<sup>4</sup> For prime examples, try the bloated, pretentious prose of such left anticommunist theorists as Ernesto Laclau and Chantal Mouffe, both of whom are treated reverently by their counterparts in this country. One recent fad of the "left" ABC intellectuals is "post-modernism," which argues that the principles of rationality and evidence of modern times no longer apply; longstanding ideologies have lost their relevance as has most of political economy and history; and one cannot hope to develop a reliable critique of class and institutional forces. While claiming to search for new "meanings," post-modernism resembles the same old anti-class theories, both right and left. For a discussion and critique, see Ellen Meiksins Wood and John Bellamy Foster (eds.), In Defense of History (New York: Monthly Review Press, 1977).
+4 For prime examples, try the bloated, pretentious prose of such left anticommunist theorists as Ernesto Laclau and Chantal Mouffe, both of whom are treated reverently by their counterparts in this country. One recent fad of the "left" ABC intellectuals is "post-modernism," which argues that the principles of rationality and evidence of modern times no longer apply; longstanding ideologies have lost their relevance as has most of political economy and history; and one cannot hope to develop a reliable critique of class and institutional forces. While claiming to search for new "meanings," post-modernism resembles the same old anti-class theories, both right and left. For a discussion and critique, see Ellen Meiksins Wood and John Bellamy Foster (eds.), In Defense of History (New York: Monthly Review Press, 1977).
 
-<sup>\*</sup> Some publications that claim to be on the Left, such as Dissent, New Republic, New Politics, Telos, In These Times, and Democratic Left can often be as unyielding as any conservative rag in their anticommunism, anti-Marxism, and of course anti-Sovietism.
+\* Some publications that claim to be on the Left, such as Dissent, New Republic, New Politics, Telos, In These Times, and Democratic Left can often be as unyielding as any conservative rag in their anticommunism, anti-Marxism, and of course anti-Sovietism.
 
-<sup>b</sup> One of those who pretends to be on the Left is John Judis, whose impressive illiteracy in regard to Marxism does not prevent him from distinguishing between "humanistic" Marxists and Marxists who are "simple-minded economic determinists" (In These Times, 9/23/81 ). According to Judis, the latter fail to ascribe any importance to cultural conditions and political structures. I know of no Marxists who fit that description. I, for one, treat cultural and political institutions in much detail in various books of mine—but culture as anchored in an overall system of corporate ownership and control; see my Power and the Powerless (New York: St. Martins Press. 1978); Make-Believe Media: The Politics of Entertainment (New York: St. Martin's Press, 1992); Inventing Reality: The Politics of News Media,
+b One of those who pretends to be on the Left is John Judis, whose impressive illiteracy in regard to Marxism does not prevent him from distinguishing between "humanistic" Marxists and Marxists who are "simple-minded economic determinists" (In These Times, 9/23/81 ). According to Judis, the latter fail to ascribe any importance to cultural conditions and political structures. I know of no Marxists who fit that description. I, for one, treat cultural and political institutions in much detail in various books of mine—but culture as anchored in an overall system of corporate ownership and control; see my Power and the Powerless (New York: St. Martins Press. 1978); Make-Believe Media: The Politics of Entertainment (New York: St. Martin's Press, 1992); Inventing Reality: The Politics of News Media,
 
 Marxist scholar Berteli Oilman notes, this artificial counterpoising transforms a relatively minor development in Marx s work into a chasm between two ways of thinking that have little in c o m m o n /
 
@@ -1489,9 +1796,9 @@ Gramsci has become safe, tame, denatured—a wisp of his revolutionary self. Aca
 
 Gramsci himself would have considered the representations made about him by ABC theorists as oddly misplaced. He never treated culture and class as mutually exclusive terms but saw cultural hegemony as a vital instrument of the ruling class. Furthermore, he occu-
 
-<sup>2</sup>nd edition (New York: St. Martin's Press, 1993); Land of Idols: Political Mythology in America (New York: St. Martins Press, 1994 and Dirty Truths (San Francisco: City Lights Books, 1996).
+2nd edition (New York: St. Martin's Press, 1993); Land of Idols: Political Mythology in America (New York: St. Martins Press, 1994 and Dirty Truths (San Francisco: City Lights Books, 1996).
 
-<sup>7</sup> Oilman points out that Marx s analytic framework did not emerge from his head full blown. In the earlier works, such as the Economic and Philosophic Manuscripts and The German Ideology Marx is in the process of becoming a Marxist and is piecing together his understanding of capitalism in history, leaning more heavily on his philosophical training and his criticisms of the neo-Hegelians. Though more prevalent in the earlier writings, concepts such as alienation and the language of dialectics appear throughout his work, including Capital; see Berteli Oilman's forthcoming article, "The Myth of the Two Marxs"; also David Mc Lellan, The Young Hegelians and Karl Marx (London: Mc Millan: 1969).
+7 Oilman points out that Marx s analytic framework did not emerge from his head full blown. In the earlier works, such as the Economic and Philosophic Manuscripts and The German Ideology Marx is in the process of becoming a Marxist and is piecing together his understanding of capitalism in history, leaning more heavily on his philosophical training and his criticisms of the neo-Hegelians. Though more prevalent in the earlier writings, concepts such as alienation and the language of dialectics appear throughout his work, including Capital; see Berteli Oilman's forthcoming article, "The Myth of the Two Marxs"; also David Mc Lellan, The Young Hegelians and Karl Marx (London: Mc Millan: 1969).
 
 pied a prominent position of responsibility in the Italian Communist party and considered himself firmly within the Marxist-Leninist camp.
 
@@ -1515,13 +1822,13 @@ Capital's class war is waged with court injunctions, antilabor laws, police repr
 
 Class has a dynamic that goes beyond its immediate visibility. Whether we are aware of it or not, class realities permeate our society, determining much about our capacity to pursue our own interests. Class power is a factor in setting the political agenda, selecting leaders, reporting the news, funding science and education, distributing health care, mistreating the environment, depressing wages, resisting racial and gender equality, marketing entertainment and the arts, propagating religious messages, suppressing dissidence, and defining social reality itself.
 
-ABC theorists see the working class as not only incapable of revolution but as on the way out, declining in significance as a social formation.<sup>8</sup> Anyone who still thinks that class is of primary importance is labeled a diehard Marxist, guilty of "economism" and "reductionism" and unable to keep up with the "post-Marxist," "post-structuralist," "post-industrialist," "post-capitalist," "post-modernist," and "post-deconstructionist" times.
+ABC theorists see the working class as not only incapable of revolution but as on the way out, declining in significance as a social formation.8 Anyone who still thinks that class is of primary importance is labeled a diehard Marxist, guilty of "economism" and "reductionism" and unable to keep up with the "post-Marxist," "post-structuralist," "post-industrialist," "post-capitalist," "post-modernist," and "post-deconstructionist" times.
 
 It is ironic that some left intellectuals should deem class struggle to be largely irrelevant at the very time class power is becoming increasingly transparent, at the very time corporate concentration and profit accumulation is more rapacious than ever, and the tax system has become more regressive and oppressive, the upward transfer of income and wealth has accelerated, public sector assets are being privatized, corporate money exercises an increasing control over the political process, people at home and abroad are working harder for less, and throughout the world poverty is growing at a faster rate than overall population.
 
 There are neo-conservatives and mainstream centrists who man-
 
-<sup>8</sup> Most ABC theorists have very limited day-to-day experience with actual working people, a fact that may contribute to their impression that the working class is of marginal import.
+8 Most ABC theorists have very limited day-to-day experience with actual working people, a fact that may contribute to their impression that the working class is of marginal import.
 
 ifest a better awareness of class struggle than the "left" ABC theorists. Thus former managing editor of the New York Times A. M. Rosenthal sees the Republican party's "slash and burn" offensive against social programs as "not only a prescription for class struggle but the beginning of its reality" (New York Times, 3/21/95). Rosenthal goes on to quote Wall Street financier Felix Rohatyn who notes that "the big beneficiaries of our economic expansion have been the owners of financial assets" in what amounts to "a huge transfer of wealth from lower-skilled middle-class American workers to the owners of capital assets and to the new technological aristocracy" Increasingly, "working people see themselves as simply temporary assets to be hired or fired to protect the bottom line and create 'shareholder value.' "
 
@@ -1551,7 +1858,7 @@ Aside from the systemic imperatives that cause capitalism to accumulate without 
 
 Wealth buys every comfort and privilege in life, the fame of fortune, elevating the possessor to the highest social stratosphere, an expression of the aggrandizing self, an expansion of the egos boundary, an extension of one s existence beyond the grave, leaving one feeling almost invulnerable to time and mortality.
 
-Wealth is pursued without moral restraint. The very rich try to crush anyone who resists their endless, heartless, unprincipled accumulation. Like any addiction, money is pursued in that obsessive, amoral, singleminded way, revealing a total disregard for what is right or wrong, just or unjust, an indifference to other considerations and other peoples interests—and even ones own interests should they go beyond feeding the addiction.<sup>9</sup>
+Wealth is pursued without moral restraint. The very rich try to crush anyone who resists their endless, heartless, unprincipled accumulation. Like any addiction, money is pursued in that obsessive, amoral, singleminded way, revealing a total disregard for what is right or wrong, just or unjust, an indifference to other considerations and other peoples interests—and even ones own interests should they go beyond feeding the addiction.9
 
 Capitalism is a rational system, the well-calculated systematic maximization of power and profits, a process of accumulation anchored in material obsession that has the ultimately irrational consequence of devouring the system itself—and everything else with it.
 
@@ -1561,7 +1868,7 @@ In 1876, Marx's collaborator, Frederich Engels, offered a prophetic caveat: "Let
 
 With its never-ending emphasis on exploitation and expansion, and its indifference to environmental costs, capitalism appears determined to stand outside nature. The essence of capitalism, its raison
 
-<sup>9</sup> Thus it is necessary and desirable to have laws to protect the environment, workers' lives, and consumer health because big business has a total indifference to such things, and—to the extent that they cut into profits—an outright hostility toward regulations on behalf of the public interest. We sometimes forget how profoundly immoral is corporate power.
+9 Thus it is necessary and desirable to have laws to protect the environment, workers' lives, and consumer health because big business has a total indifference to such things, and—to the extent that they cut into profits—an outright hostility toward regulations on behalf of the public interest. We sometimes forget how profoundly immoral is corporate power.
 
 d'être, is to convert nature into commodities and commodities into capital, transforming the living earth into inanimate wealth. This capital accumulation process wreaks havoc upon the global ecological system. It treats the planet's life-sustaining resources (arable land, groundwater, wetlands, forests, fisheries, ocean beds, rivers, air quality) as dispensable ingredients of limitless supply, to be consumed or toxified at will. Consequently, the support systems of the entire ecosphere—the planet's thin skin of fresh air, water, and top soil—are at risk, threatened by such things as global warming, massive erosion, and ozone depletion.
 
@@ -1569,9 +1876,9 @@ Global warming is caused by tropical deforestation, motor vehicle exhaust, and o
 
 Another potential catastrophe is the shrinkage of the ozone layer that shields us from the sun's deadliest rays. Over 2.5 billion pounds of ozone-depleting chemicals are emitted into the earth's atmosphere every year, resulting in excessive ultraviolet radiation that is causing an alarming rise in skin cancer and other diseases. Increased radiation is damaging trees, crops, and coral reefs, and destroying the ocean s phytoplankton—source of about half of the planet's oxygen. If the oceans die, so do we.
 
-At the same time, the rise in pollution and population has given us acid rain, soil erosion, silting of waterways, shrinking grasslands, disappearing water supplies and wetlands, and the obliteration of thousands of species, with hundreds more on the endangered list.<sup>10</sup>
+At the same time, the rise in pollution and population has given us acid rain, soil erosion, silting of waterways, shrinking grasslands, disappearing water supplies and wetlands, and the obliteration of thousands of species, with hundreds more on the endangered list.10
 
-<sup>10</sup> Putting an end to the population explosion will not of itself save the ecosphere but not ending it will add greatly to the dangers the planet faces. The environment can sustain a quality life for just so many people.
+10 Putting an end to the population explosion will not of itself save the ecosphere but not ending it will add greatly to the dangers the planet faces. The environment can sustain a quality life for just so many people.
 
 In 1970, on what was called "Environment Day," President Richard Nixon intoned: "What a strange creature is man that he fouls his own nest ." With that utterance, Nixon was helping to propagate the myth that the ecological crisis we face is a matter of irrational individual behavior rather than being of a social magnitude. In truth, the problem is not individual choice but the system that imposes itself on individuals and prefigures their choice. Behind the ecological crisis is the reality of class interest and power.
 
@@ -1581,7 +1888,7 @@ Some environmental activists in this country have been the object of terrorist a
 
 In recent years, conservatives within and without Congress, fueled by corporate lobbyists, have supported measures that would (1) prevent the Environmental Protection Agency from keeping toxic fill out of lakes and harbors, (2) eliminate most of the wetland acreage that was to be set aside for a reserve, (3) completely deregulate the
 
-<sup>11</sup> To offer one example: the FBI was quick to make arrests when environmentalists Judi Bari and Darryl Cherney were seriously injured by a car bomb in 1990. They arrested Bari and Cherney, calling them "radical activists,<sup>3</sup> " charging that the bomb must have belonged to them. Both have long been outspoken advocates of nonviolence. The charges were eventually dropped for lack of evidence. (The bomb had been planted under the driver's seat.) The FBI named no other suspects and did no real investigation of the attack.
+11 To offer one example: the FBI was quick to make arrests when environmentalists Judi Bari and Darryl Cherney were seriously injured by a car bomb in 1990. They arrested Bari and Cherney, calling them "radical activists,3 " charging that the bomb must have belonged to them. Both have long been outspoken advocates of nonviolence. The charges were eventually dropped for lack of evidence. (The bomb had been planted under the driver's seat.) The FBI named no other suspects and did no real investigation of the attack.
 
 production of chlorofluorocarbons that deplete the ozone layer, (4) virtually eliminate clean water and clean air standards, (5) open the unspoiled Arctic wildlife refuge in Alaska to oil and gas drilling, (6) defund efforts to keep raw sewage out of rivers and away from beaches, (7) privatize and open national parks to commercial development, (8) give the few remaining ancient forests over to unrestrained logging, and (9) repeal the Endangered Species Act. In sum, their openly professed intent has been to eviscerate all our environmental protections, however inadequate these are.
 
@@ -1589,7 +1896,7 @@ Conservatives maintain that there is no environmental crisis. Technological adva
 
 In fact, they do not live exactly as everyone else. They experience a different class reality, residing in places where the air is somewhat better than in low and middle income areas. They have access to food that is organically raised and specially prepared. The nations toxic dumps and freeways usually are not situated in or near their swanky neighborhoods. The pesticide sprays are not poured over their trees and gardens. Clearcutting does not desolate their ranches, estates, and vacation spots. Even when they or their children succumb to a dread
 
-<sup>12</sup> A cover story in Forbes(8/14/95) derides the "health scare industry" and reassures readers that highly chemicalized and fat-ridden junk foods are perfectly safe for one s health. The magazine's owners and corporate advertisers are aware that if people begin to question the products offered by the corporate system, they may end up questioning the system itself. Not without good cause does Forbes describe itself as "a capitalist tool."
+12 A cover story in Forbes(8/14/95) derides the "health scare industry" and reassures readers that highly chemicalized and fat-ridden junk foods are perfectly safe for one s health. The magazine's owners and corporate advertisers are aware that if people begin to question the products offered by the corporate system, they may end up questioning the system itself. Not without good cause does Forbes describe itself as "a capitalist tool."
 
 disease like cancer, they do not link the tragedy to environmental factors—though scientists now believe that most cancers stem from human-made causes. They deny there is a larger problem because they themselves create that problem and owe much of their wealth to it.
 
@@ -1609,7 +1916,7 @@ The enormous interests of giant multinational corporations outweigh doomsayer pr
 
 Ecology is profoundly subversive of capitalism. It needs planned, environmentally sustainable production rather than the rapacious unregulated kind. It requires economical consumption rather than an artificially stimulated, ever-expanding consumerism. It calls for natural, low-cost energy systems rather than profitable, high-cost, polluting ones. Ecology's implications for capitalism are too horrendous for the capitalist to contemplate.
 
-Those in the higher circles, who once hired Blackshirts to destroy democracy out of fear that their class interests were threatened, have no trouble doing the same against "eco-terrorists." Those who have waged merciless war against the Reds have no trouble making war against the Greens. Those who have brought us poverty wages, exploitation, unemployment, homelessness, urban decay, and other oppressive economic conditions are not too troubled about bringing us ecological crisis. The plutocrats are more wedded to their wealth than to the Earth upon which they live, more concerned with the fate of their fortunes than with the fate of the planet.<sup>13</sup>
+Those in the higher circles, who once hired Blackshirts to destroy democracy out of fear that their class interests were threatened, have no trouble doing the same against "eco-terrorists." Those who have waged merciless war against the Reds have no trouble making war against the Greens. Those who have brought us poverty wages, exploitation, unemployment, homelessness, urban decay, and other oppressive economic conditions are not too troubled about bringing us ecological crisis. The plutocrats are more wedded to their wealth than to the Earth upon which they live, more concerned with the fate of their fortunes than with the fate of the planet.13
 
 The struggle over environmentalism is part of the class struggle itself, a fact that seems to have escaped many environmentalists. The impending eco-apocalypse is a class act. It has been created by and for the benefit of the few, at the expense of the many. The trouble is, this time the class act may take all of us down, once and forever.
 
@@ -1617,7 +1924,7 @@ In the relationship between wealth and power, what is at stake is not only econo
 
 The only countervailing force that might eventually turn things in a better direction is an informed and mobilized citizenry. Whatever their shortcomings, the people are our best hope. Indeed, we are they. Whether or not the ruling circles still wear blackshirts, and whether or not their opponents are Reds, la lutta continua, the struggle continues, today, tomorrow, and through all history.
 
-<sup>13</sup> In June 1996, speaking at a U. N. conference in Istanbul, Turkey, Fidel Castro noted: "Those who have almost destroyed the planet and poisoned the air, the seas, the rivers and the earth are those who are least interested in saving humanity."
+13 In June 1996, speaking at a U. N. conference in Istanbul, Turkey, Fidel Castro noted: "Those who have almost destroyed the planet and poisoned the air, the seas, the rivers and the earth are those who are least interested in saving humanity."
 
 #### Index
 
@@ -1629,55 +1936,152 @@ Czech and Slovak republics, 83, 97-99,
 
 ## Bulgaria, 94, 102, 107, 110, 118; in
 
-| D | Fertig,<br>Howard,<br>2 |
+| D | Fertig,
+Howard,
+2 |
 |-----------------------------------------------------|----------------------------------------------------------|
-| de<br>Kock,<br>Eugene,<br>33 | Feurerprinzip, 11 |
+| de
+Kock,
+Eugene,
+33 | Feurerprinzip, 11 |
 | Deane, Hugh, 18 | Fiske, Klaus, 83 |
-| Democratic<br>party<br>and<br>anticommunism, | Ford Foundation, 76 |
+| Democratic
+party
+and
+anticommunism, | Ford Foundation, 76 |
 | 48-49 | Ford, Henry, 10, 19, 76 |
-| Derrida,<br>Jacques,<br>145 | Forza<br>Italia,<br>21 |
+| Derrida,
+Jacques,
+145 | Forza
+Italia,
+21 |
 | Diem, Ngo Dinh, 36 | Foster, John Bellamy, 35, 146 |
-| Domenico,<br>Roy<br>Palmer,<br>18 | Franco, Francisco, 1, 8, 48 |
+| Domenico,
+Roy
+Palmer,
+18 | Franco, Francisco, 1, 8, 48 |
 | Dominican Republic, 23 | Free Congress Foundation, 93-94 |
-| Dowd,<br>Doug,<br>140 | Free market, 22, 28, 31, 33, 37, 58, 72, |
-| Du Pont, 19 | 88,<br>102-103,<br>106,<br>118,<br>138 |
-| Dutt,<br>R.<br>Palme,<br>2-3 | Free-market reforms; and the arts, 113; |
-| | and<br>books,<br>113;<br>and<br>corruption,<br>111; |
+| Dowd,
+Doug,
+140 | Free market, 22, 28, 31, 33, 37, 58, 72, |
+| Du Pont, 19 | 88,
+102-103,
+106,
+118,
+138 |
+| Dutt,
+R.
+Palme,
+2-3 | Free-market reforms; and the arts, 113; |
+| | and
+books,
+113;
+and
+corruption,
+111; |
 | E | and education, 113; employment, 108- |
-| Eastern Europe, socialism in, 49-52,65, | 111;<br>and<br>media,<br>114;<br>and<br>women<br>and |
-| 85,<br>115,<br>118-120 | children, 114 |
+| Eastern Europe, socialism in, 49-52,65, | 111;
+and
+media,
+114;
+and
+women
+and |
+| 85,
+115,
+118-120 | children, 114 |
 | Ebenstein, William, 17 | |
-| Ecology,<br>and<br>capitalism,<br>154-160 | G |
-| Ehrenberg, John, 48 | Gamsakhurdia,<br>Zviad,<br>93 |
-| Endangered<br>Species<br>Act,<br>157 | GATT (General Agreement on Tariffs |
+| Ecology,
+and
+capitalism,
+154-160 | G |
+| Ehrenberg, John, 48 | Gamsakhurdia,
+Zviad,
+93 |
+| Endangered
+Species
+Act,
+157 | GATT (General Agreement on Tariffs |
 | Engels, Frederick, 54 | and Trade), 37, 144 |
-| Environmental<br>Protection<br>Agency,<br>156 | Gelb,<br>Bruce,<br>105 |
+| Environmental
+Protection
+Agency,
+156 | Gelb,
+Bruce,
+105 |
 | Estonia, 93, 115, 118 | Gemeinschaft, 124 |
-| European<br>Union,<br>95 | General Motors, 19 |
+| European
+Union,
+95 | General Motors, 19 |
 | F | Genovese, Eugene, 8 |
-| Family<br>values,<br>16 | German<br>Democratic<br>Republic<br>(GDR) |
+| Family
+values,
+16 | German
+Democratic
+Republic
+(GDR) |
 | Farben, I. G., 9, 19 | [East Germany], 19, 45, 49, 64-67, 82- |
 | Fasci di combattimento, 2 | 83, 93, 96, 101, 103-104, 107, 112-113, |
-| Fascism (in Italy); collaboration with | 117-118;<br>Germany<br>and<br>socialism,<br>49-50 |
-| U. S.<br>businesses,<br>10,<br>19;<br>cooperation | Gervasi, Sean, 93 |
+| Fascism (in Italy); collaboration with | 117-118;
+Germany
+and
+socialism,
+49-50 |
+| U. S.
+businesses,
+10,
+19;
+cooperation | Gervasi, Sean, 93 |
 | with the West, 17-22; ideology of, 11- | Getty, J. Arch, 79 |
 | 12; labor unions in, 3; popular | Giannini, A. P., 10 |
-| opposition, 6, 9; taxes, 7; unemploy | Gingrich,<br>Newt,<br>22 |
-| ment,<br>7;<br>working<br>conditions<br>in,<br>6 | GLADIO, 20 |
+| opposition, 6, 9; taxes, 7; unemploy | Gingrich,
+Newt,
+22 |
+| ment,
+7;
+working
+conditions
+in,
+6 | GLADIO, 20 |
 | Fascism (in Nazi Germany); collabora | |
 | tion with capitalism, 4, 8-10, 19; | Global warming, 155, 158 |
-| collaboration with the West, 17-22; | Glasnost,<br>72-73 |
-| collaboration<br>with<br>U. S.<br>businesses,<br>10, | Gorbachev, Mikhail, 60, 88-89<br>Goring, Hermann, 11, 19 |
+| collaboration with the West, 17-22; | Glasnost,
+72-73 |
+| collaboration
+with
+U. S.
+businesses,
+10, | Gorbachev, Mikhail, 60, 88-89
+Goring, Hermann, 11, 19 |
 | 19; homophobia, 14-16; ideology of, | Gramsci, Antonio, 147, 149 |
-| 11-17; monist values, 12; popular | Green,<br>Mark,<br>44,<br>58,<br>156 |
+| 11-17; monist values, 12; popular | Green,
+Mark,
+44,
+58,
+156 |
 | opposition, 6, 9; racial supremacy, | Greens, 160 |
-| 14-16;<br>taxes,<br>7;<br>unemployment,<br>7; | Gregor,<br>A.<br>James,<br>15-16 |
+| 14-16;
+taxes,
+7;
+unemployment,
+7; | Gregor,
+A.
+James,
+15-16 |
 | working conditions in, 6 | Guatemala, 25, 33, 50 |
 | Faulkner, Mike, 38 | Guerin, Daniel, 2 |
 | F. B. I, 48, 156 | Gulag, 78-83 |
-| Febbo,<br>Tony,<br>52 | Gulf<br>War,<br>98 |
+| Febbo,
+Tony,
+52 | Gulf
+War,
+98 |
 | Federal Republic of Germany (FRG) | |
-| [West<br>Germany],<br>19-20,<br>66,<br>82-83, | H |
+| [West
+Germany],
+19-20,
+66,
+82-83, | H |
 | 96, 103 | Havel, Vaclav, 83, 97-99 |
 | Federazione Industriale, 4 | Hearst, William Randolph, 11 |
 
@@ -1689,99 +2093,218 @@ Czech and Slovak republics, 83, 97-99,
 | Heymann, Helene, 83 | L |
 | Higham, Charles, 10, 19 | Labor, conditions of, 6-7 |
 | Himmler, Heinrich, 15 | Labor unions, Left purges, 43 |
-| Hiroshima, 48 | Laclau,<br>Ernesto,<br>146 |
+| Hiroshima, 48 | Laclau,
+Ernesto,
+146 |
 | Hitler, Adolph, 1-2, 4-12, 14, 16, 18-19, | Lane, Mark, 24 |
-| 21,83,<br>97 | Latvia,<br>93,<br>107 |
+| 21,83,
+97 | Latvia,
+93,
+107 |
 | Hobsbawm, Eric, 8 | Lebed, Aleksandr, 96 |
-| Hochschild,<br>Adam,<br>43,<br>80 | Lenin, Vladimir, 46-48, 53-55, 121, 147 |
+| Hochschild,
+Adam,
+43,
+80 | Lenin, Vladimir, 46-48, 53-55, 121, 147 |
 | Holocaust, 18, 25, 130 | Levins, Richard, 58 |
-| Homophobia,<br>14-16,<br>151 | Libya, 27 |
+| Homophobia,
+14-16,
+151 | Libya, 27 |
 | Honecker, Erich, 82 | Lichtman, Richard, 57 |
-| Hoover<br>Institute,<br>8 | Licio Gelli, 20 |
+| Hoover
+Institute,
+8 | Licio Gelli, 20 |
 | Howe, Irving, 122 | Lithuania, 6, 85, 93, 95, 118 |
-| Hugo,<br>Victor<br>(Les<br>Misérables),<br>ix | Lodge, Henry Cabot, 20, 35 |
+| Hugo,
+Victor
+(Les
+Misérables),
+ix | Lodge, Henry Cabot, 20, 35 |
 | Hungary, 6, 72, 85, 95-96, 102, 106-107, | Lottman, Herbert, 18 |
-| 110,<br>112,<br>118 | Lourie, Richard, 77 |
+| 110,
+112,
+118 | Lourie, Richard, 77 |
 | Huntington, Samuel P., 33 | Lukashenko, Alexander, 97 |
 | I | |
 | India, 30, 50 | M |
-| Indonesia,<br>25,<br>33,<br>50,<br>70,<br>77,<br>98,<br>120, | Mac Coll, Gail, 44 |
+| Indonesia,
+25,
+33,
+50,
+70,
+77,
+98,
+120, | Mac Coll, Gail, 44 |
 | 137-138 | Mac Donald, Theodore, 39 |
-| Industrial<br>Revolution,<br>37 | Maikovskis,<br>Boleslavs,<br>20 |
+| Industrial
+Revolution,
+37 | Maikovskis,
+Boleslavs,
+20 |
 | International Monetary Fund (IMF), | Mandela, Nelson, 34, 45 |
 | 31,39,91,101-102 | March on Rome, 4 |
 | Iraq, 25, 34, 39, 120 | March, Joan, 8 |
-| Israel, 104 | Mariam,<br>Mengitsu<br>Haile,<br>93 |
-| Italian Communist Party, 4, 21, 147-148 | Martemyanov, Valentin, 90<br>Marx, Karl, and Capital, 128-129, |
+| Israel, 104 | Mariam,
+Mengitsu
+Haile,
+93 |
+| Italian Communist Party, 4, 21, 147-148 | Martemyanov, Valentin, 90
+Marx, Karl, and Capital, 128-129, |
 | ITT, 19 | |
 | ; | 136-140, 145-150, 154 |
-| Jackson, T. J., 147 | Marxism, as holistic science, 132-140;<br>postulates of, 122-124; and prediction, |
+| Jackson, T. J., 147 | Marxism, as holistic science, 132-140;
+postulates of, 122-124; and prediction, |
 | Jankowski, Father Henryk, 95 | 125-129 |
-| Jorst, Hans<br>(Schlageter), 12 | Mc Chesney, Robert, 145 |
-| Judis,<br>John,<br>146 | Mclntyre,<br>Robert,<br>103 |
+| Jorst, Hans
+(Schlageter), 12 | Mc Chesney, Robert, 145 |
+| Judis,
+John,
+146 | Mclntyre,
+Robert,
+103 |
 | Κ | Mc Kinley, William, 23 |
 | Kagarlitsky, Boris, 89 | Medvedev, Roy, 77 |
 | Kattau, Thomas, 116 | Michel, Louise, 54 |
-| Kennan,<br>George,<br>32 | Miller,<br>Robert<br>Carl,<br>19 |
-| Kerala<br>(India),<br>30 | Minh, Ho Chi, 53 |
-| Kessler,<br>Heinz,<br>118 | Mongolia, 50, 85, 107-108 |
+| Kennan,
+George,
+32 | Miller,
+Robert
+Carl,
+19 |
+| Kerala
+(India),
+30 | Minh, Ho Chi, 53 |
+| Kessler,
+Heinz,
+118 | Mongolia, 50, 85, 107-108 |
 | Kholodov, Dmitri, 90 | Mosse, George, 13 |
-| King, Jr., Martin Luther, 34, 54, 98 | Mouffe,<br>Chantal,<br>146 |
-| Kirkpatrick,<br>Jean,<br>33 | Movimento Sociale Italiano (MSI), 19-21 |
-| Kissinger,<br>Henry,<br>19 | Mugabe, Robert, 53 |
-| Koestler,<br>Arthur,<br>77 | Muller, Ingo, 18 |
-| Kozyrev,<br>Andrey,<br>70 | Multinational<br>corporations,<br>27,<br>100, |
-## | Krupp,<br>Adolph,<br>9 | 137-138, 159 |
+| King, Jr., Martin Luther, 34, 54, 98 | Mouffe,
+Chantal,
+146 |
+| Kirkpatrick,
+Jean,
+33 | Movimento Sociale Italiano (MSI), 19-21 |
+| Kissinger,
+Henry,
+19 | Mugabe, Robert, 53 |
+| Koestler,
+Arthur,
+77 | Muller, Ingo, 18 |
+| Kozyrev,
+Andrey,
+70 | Multinational
+corporations,
+27,
+100, |
+## | Krupp,
+Adolph,
+9 | 137-138, 159 |
 
 ## Kuomintang, 25, 84
 
 | Ν | R |
 |-------------------------------------------------------------|-------------------------------------------|
-| National Alliance (Italy), 21 | Radio<br>Free<br>Europe,<br>99 |
-| National<br>Endowment<br>for<br>Democracy, | Radio Liberty, 99 |
-| 76, 93-94 | Radosh,<br>Ronald,<br>43 |
-| National<br>Liberation<br>Front,<br>34 | Ramachandran, V. K., 30 |
-| National Socialist party (Nazi party), 4, | Randolph,<br>Eleanor,<br>11,<br>107 |
-| 9,<br>16,<br>19<br>(see<br>also<br>Nazism,<br>Fascism<br>in | Reactionism, 68-72 |
+| National Alliance (Italy), 21 | Radio
+Free
+Europe,
+99 |
+| National
+Endowment
+for
+Democracy, | Radio Liberty, 99 |
+| 76, 93-94 | Radosh,
+Ronald,
+43 |
+| National
+Liberation
+Front,
+34 | Ramachandran, V. K., 30 |
+| National Socialist party (Nazi party), 4, | Randolph,
+Eleanor,
+11,
+107 |
+| 9,
+16,
+19
+(see
+also
+Nazism,
+Fascism
+in | Reactionism, 68-72 |
 | Nazi Germany) | Reagan, Ronald, 20,25,44,69, 71,81,129 |
-| NATO,<br>20 | Red Cross, 117 |
+| NATO,
+20 | Red Cross, 117 |
 | Navarro, Vicente, 8 | Red Menace, 6, 25 |
-| Nazism,<br>2,<br>5,<br>10,<br>14-15,<br>95<br>(see<br>also | Red-baiting, 44 |
+| Nazism,
+2,
+5,
+10,
+14-15,
+95
+(see
+also | Red-baiting, 44 |
 | National Socialist party, Fascism in | Reder, Walter, 20 |
-| Nazi<br>Germany) | |
-| | Refusniks,<br>81 |
+| Nazi
+Germany) | |
+| | Refusniks,
+81 |
 | Neo-fascism in Italy, 20-22 | Reston, James, 35 |
-| Neumann,<br>Franz,<br>2 | Revolution and decentralization, 53 |
+| Neumann,
+Franz,
+2 | Revolution and decentralization, 53 |
 | Nicaragua, 23, 25-26, 53, 57, 94, 128 | Rittersporn, Gabor, 79 |
-| Nigeria,<br>156 | Rockefeller Brothers Fund, 76 |
+| Nigeria,
+156 | Rockefeller Brothers Fund, 76 |
 | NKVD Archives, 80 | Rockefeller, David, 19 |
-| Nixon,<br>Richard,<br>20,<br>156 | Roehm, Ernst, 14-15 |
+| Nixon,
+Richard,
+20,
+156 | Roehm, Ernst, 14-15 |
 | North Korea, 27, 39, 85, 87 | Rohatyn, Felix, 151 |
-| Nuremberg,<br>18,<br>82 | Rosemont, Jr., Henry, 84 |
+| Nuremberg,
+18,
+82 | Rosemont, Jr., Henry, 84 |
 | Ο | Rosenberg, Alfred, 11 |
 | Oilman, Berteli, 147 | Rosenthal, A. M., 151 |
 | Omon troops, 90 | Rubies, Alfreds, 93 |
-| Ordine Nuovo,<br>20 | Rumania, 6, 77, 85, 95, 101, 107-108 |
+| Ordine Nuovo,
+20 | Rumania, 6, 77, 85, 95, 101, 107-108 |
 | Ortega, Daniel, 53 | Rusher, William, 77 |
 | Orth, Maureen, 117 | Russia, 23, 26, 29, 37, 44,53-54, 56, 58, |
 | Orwell, George, 44 | 84-85, 88-89, 91-93, 95, 100-101, 106- |
 | Ozone depletion, 155, 158 | 107, 109-116, 118, 120, 128; and |
 | Ρ | Yeltsin coup of 1993, 106; crime in, |
 | | 111-112; healthcare in, 107; homeless |
-| Panama,<br>25, 34,120 | ness in, 108; poverty in, 110-120 |
+| Panama,
+25, 34,120 | ness in, 108; poverty in, 110-120 |
 | Perestroika, 74 | S |
 | Perm 35, 81 | SA (Sturmabteilung); storm troopers, |
 | Pew Charitable Trusts, 76 | 4-5, 14-16 |
 | Phelps, Christopher, 147 | Sabato, Larry, 91 |
-| Philippines,<br>18,<br>23,<br>98 | Sakharov, Andrei, 69-70, 81 |
+| Philippines,
+18,
+23,
+98 | Sakharov, Andrei, 69-70, 81 |
 | Phoenix Program, 24 | Salvemini, Gaetano, 2 |
 | Piccone, Paul, 147 | Schwarzwaeller, Wulf, 9 |
 | Pinochet, Gen. Augusto, 33, 70, 96,98 | Scott, John, 56 |
 | Poland, 64-65, 71-72, 77, 83, 85, 88, 95, | Selassie, Haile, 93 |
-| 101,<br>108,<br>110,<br>112,<br>118;<br>solidarity,<br>71, | Shames, Carl, 52 |
+| 101,
+108,
+110,
+112,
+118;
+solidarity,
+71, | Shames, Carl, 52 |
 | 77, 96 | Shatunovskaia, Olga, 77 |
 | Pollution, 106, 118, 155, 158 | Shell Oil, 111 |
-| Pool,<br>James<br>and<br>Suzanne,<br>2,<br>10,<br>49 | Smith Act, 48 |
+| Pool,
+James
+and
+Suzanne,
+2,
+10,
+49 | Smith Act, 48 |
 | Pope John Paul II, 20 | Socialism; pure socialism, vs. siege |
 | Pope, Generoso, 10 | socialism, 49, 53, 56, 59, 74-75 |
 | Prieto, Alberto, 81 | Socialist Union of Youth, 99 |

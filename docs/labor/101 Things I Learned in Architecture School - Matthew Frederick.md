@@ -1,14 +1,10 @@
 ---
-title: 101 Things I Learned in Architecture School
-author: Matthew Frederick
-slug: 101-things-architecture-school
-date: 2007
-tags:
-  - labor
-  - strikes
-  - rent
-  - organizing
+title: "101 Things I Learned in Architecture School"
+author: "Matthew Frederick"
+date: "2007"
+category: "labor"
 ---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 # **101 Things I Learned in Architecture School**
@@ -25,7 +21,7 @@ tags:
 
 All rights reserved. No part of this book may be reproduced in any form by any electronic or mechanical means (including photocopying, recording, or information storage and retrieval) without permission in writing from the publisher.
 
-MIT Press books may be purchased at special quantity discounts for business or sales promotional use. For information, please e-mail <special\_sales@mitpress.mit.edu> or write to Special Sales Department, The MIT Press, 55 Hayward Street, Cambridge, MA 02142.
+MIT Press books may be purchased at special quantity discounts for business or sales promotional use. For information, please e-mail  or write to Special Sales Department, The MIT Press, 55 Hayward Street, Cambridge, MA 02142.
 
 This book was set in Helvetica Neue by The MIT Press. Printed and bound in China.
 

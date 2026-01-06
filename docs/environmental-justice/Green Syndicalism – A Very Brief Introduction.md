@@ -1,3 +1,8 @@
+---
+title: "## **Green Syndicalism – A Very Brief Introduction**"
+category: "environmental-justice"
+---
+
 ## **Green Syndicalism – A Very Brief Introduction**
 
 ## **Date:** Unknown

@@ -1,13 +1,8 @@
 ---
-title: General Strike in South Africa
-date: 2025
-author: Global Nonviolent Action Database
-tags:
-  - organizing
-  - strikes
-  - unions
-  - rent
-  - police
+title: "General Strike in South Africa"
+author: "Global Nonviolent Action Database"
+date: "2025"
+category: "labor"
 ---
 
 # General Strike in South Africa

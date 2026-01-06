@@ -1,16 +1,10 @@
 ---
-title: Syndicalism And Anarchism
-slug: Syndicalism and Anarchism
-reconversion_status: ready_for_reconversion
-author: Pëtr Kropotkin
-date: 1908
-tags:
-  - theory
-  - anarchism
-  - strikes
-  - unions
-  - rent
+title: "Syndicalism And Anarchism"
+author: "Pëtr Kropotkin"
+date: "1908"
+category: "theory"
 ---
+
 ## **Syndicalism and Anarchism**
 
 ## **Date:** Unknown

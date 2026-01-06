@@ -1,3 +1,8 @@
+---
+title: "## **Another solidarity network/IWW case - A potential for a strategic leap**"
+category: "organizing"
+---
+
 ## **Another solidarity network/IWW case - A potential for a strategic leap**
 
 ## **Date:** Unknown

@@ -1,3 +1,8 @@
+---
+title: "THE SHAWSHANK REDEMPTION"
+category: "contemporary-analysis"
+---
+
 # THE SHAWSHANK REDEMPTION
 
 by

@@ -1,14 +1,23 @@
+---
+title: "## **AFL-CIO to Planet Earth: Drop Dead!**"
+category: "labor"
+---
+
 ## **AFL-CIO to Planet Earth: Drop Dead!**
 
 ## **Date:** Thu, 09/22/2016 - 15:26
 
 | Source: https://ecology.iww.org/node/1813|
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Tags: green unionism, yellow unionism, NoDAPL, trade unions, AFL-CIO, North America's Building<br>Trades Unions (NABTU), International Brotherhood of Teamsters (IBT), Laborers' International Union<br>of North America (LIUNA), National Nurses United, Communication Workers of America (CWA) |
+| Tags: green unionism, yellow unionism, NoDAPL, trade unions, AFL-CIO, North America's Building
+Trades Unions (NABTU), International Brotherhood of Teamsters (IBT), Laborers' International Union
+of North America (LIUNA), National Nurses United, Communication Workers of America (CWA) |
 | By Norman Soloman - |
 | Counter Punch |
 | , September 19, 2016 |
-| At a meeting with the deputy political director of the AFL-CIO during my campaign for<br>Congress, she looked across her desk and told me that I could get major union support by<br>coming out in favor of the Keystone XL oil pipeline. |
+| At a meeting with the deputy political director of the AFL-CIO during my campaign for
+Congress, she looked across her desk and told me that I could get major union support by
+coming out in favor of the Keystone XL oil pipeline. |
 | That was five years ago. Since then, the nation's biggest labor federation has |
 | continued |
 | to serve the fossil fuel industry. Call it union leadership for a dead planet. |

@@ -1,44 +1,8 @@
 ---
-title: Army of Altruists
-author: David Graeber
-date: '2007'
-pubdate: '2017-12-23T05:15:45'
-language: en
-source_url: >-
-  Retrieved November 30, 2017 from
-  [[http://www.minorcompositions.info/wp-content/uploads/2011/10/RevolutionsInReverse-web.pdf][www.minorcompositions.info]]
-notes: >-
-  This version appeared in the open access book <em>Revolutions in Reverse:
-  Essays on Politics, Violence, Art, and Imagination</em> which is a collection
-  of essays by David Graeber released in 2011 by Minor Compositions. | See also:
-  David Graeber Institute [[https://davidgraeber.institute/]] &
-  [[https://davidgraeber.org/]]
-topics:
-  - 21st century
-  - altruism
-  - egoism
-  - morality
-  - politics
-  - rational choice theory
-  - United States of America
-  - United States Army
-  - value
-  - the Right
-  - the Left
-original_format: muse
-converted_date: '2025-11-08T11:25:03.045320'
-tags:
-  - 21st Century
-  - Altruism
-  - Egoism
-  - Morality
-  - Politics
-  - Rational Choice Theory
-  - United States Of America
-  - United States Army
-  - Value
-  - The Right
-  - The Left
+title: "Army of Altruists"
+author: "David Graeber"
+date: "2007"
+category: "contemporary-analysis"
 ---
 
 > 

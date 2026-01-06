@@ -1,3 +1,8 @@
+---
+title: "**Lyndon B. Johnson**"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_2.jpeg)
 
 # **Lyndon B. Johnson**
@@ -128,7 +133,8 @@ three sisters, Rebekah, Josefa, and Lucia.[\[10\]](#page-34-3) Through his mothe
 |-------------------------------------------------------------------------------|----------------------|
 | Branch/ | United States Navy |
 | service | Naval Reserve |
-| Years<br>of | 1940–1941 (inactive) |
+| Years
+of | 1940–1941 (inactive) |
 | service | 1941–1942 (active) |
 | | 1942–1964 (reserve) |
 | Rank | Commander |
@@ -139,7 +145,9 @@ three sisters, Rebekah, Josefa, and Lucia.[\[10\]](#page-34-3) Through his mothe
 | awards | |
 | Lyndon B. Johnson's voice | |
 | | 4:58 |
-| Johnson on the Civil Rights Act of<br>1964's passage<br>Recorded July 2, 1964 | |
+| Johnson on the Civil Rights Act of
+1964's passage
+Recorded July 2, 1964 | |
 
 Johnson's paternal grandfather, [Samuel Ealy Johnson Sr.,](https://en.wikipedia.org/wiki/Samuel_Ealy_Johnson_Sr.) was raised Baptist and for a time was a member of the
 

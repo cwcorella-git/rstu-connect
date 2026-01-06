@@ -1,16 +1,10 @@
 ---
-title: Bullshit Jobs - David Graeber
-author: BULLSHIT JOBS
-slug: Bullshit Jobs - David Graeber
-reconversion_status: ready_for_reconversion
-date: '2018'
-tags:
-  - theory
-  - anarchism
-  - strikes
-  - unions
-  - housing
+title: "Bullshit Jobs - David Graeber"
+author: "BULLSHIT JOBS"
+date: "2018"
+category: "theory"
 ---
+
 # DAVID GRAEBER
 
 ## INTERNATIONAL BESTSELLING AUTHOR OF DEBT
@@ -1643,10 +1637,18 @@ F igure 5 Changes in the Supply of and Demand for Administrative Services, 1985�
 | Sta | 240% |
 |--------------------------------------------------|------|
 | Administrators | 5% |
-| Student<br>Enrollments | 56% |
+| Student
+Enrollments | 56% |
 | aculty | 50% |
-| No.<br>of<br>Degree-<br>Granting<br>Institutions | 50% |
-## | No.<br>of<br>BA<br>Degrees<br>Granted | 47% |
+| No.
+of
+DegreeGranting
+Institutions | 50% |
+## | No.
+of
+BA
+Degrees
+Granted | 47% |
 
 ## Source: Calculated from NCES, "Digest," 2006
 
@@ -1656,10 +1658,22 @@ What about the heavy hand of government, then? Ginsberg provides us with a refut
 
 F igure 6 Administrative Growth at Public and Private Institutions, 1975–2005
 
-| | 19<br>75 | 19<br>5 | 2005 | change |
+| | 19
+75 | 19
+5 | 2005 | change |
 |--------------------------------------------------------------|----------|---------|---------|--------|
-| Administrators<br>and<br>anagers<br>at<br>Public<br>Colleges | 60,733 | 82,396 | 101,011 | +66% |
-| Administrators<br>and<br>anagers<br>at<br>Public<br>Colleges | 40,530 | 65,049 | 65,049 | +135% |
+| Administrators
+and
+anagers
+at
+Public
+Colleges | 60,733 | 82,396 | 101,011 | +66% |
+| Administrators
+and
+anagers
+at
+Public
+Colleges | 40,530 | 65,049 | 65,049 | +135% |
 
 ## Source: Calculated from NCES, "Digest," 2006
 
@@ -1676,7 +1690,7 @@ Since this is the period that also saw the rise of nance capitalism, it might be
 - expedited frictionless convergences
 - coordinated interactive market institutions
 - contracted virtual clearinghouses
-- directed margin adjustments <sup>21</sup>
+- directed margin adjustments 21
 
 On a supercial level, of course, the immediate mechanisms that create bullshit jobs in the FIRE sector are the same ones that produce them anywhere else. I listed some of these in chapter 2, when I described the ve basic types of bullshit jobs and how they came about. Flunky positions are created because those in powerful positions in an organization see underlings as badges of prestige; goons are hired due to a dynamic of one-upmanship (if our rivals employ a top law rm, then so, too, must we); duct-taper positions are created because sometimes organizations nd it more dicult to x a problem than to deal with its consequences; box-ticker positions exist because, within large organizations, paperwork attesting to the fact that certain actions have been taken often comes to be seen as more important than the actions themselves; taskmasters exist largely as side eects of various forms of impersonal authority. If large organizations are conceived as a complex play of gravitational forces, pulling in many contradictory directions, one could say there will always be a certain pull in any of these ve. Even so, one must ask: Why is there not a greater pressure pulling in the opposite direction? Why is this not seen as more of a problem? Firms like to represent themselves as lean and mean.
 
@@ -2226,7 +2240,7 @@ To think of labor as valuable primarily because it is "productive," and producti
 
 - • •
 
-Most economists nowadays see the labor theory of value as a curiosity from the formative days of the discipline; and it's probably true that, if one's primary interest is to understand patterns of price formation, there are better tools available. But for the worker's movement—and arguably, for revolutionaries like Karl Marx—that was never the real point. The real point is philosophical. It is a recognition that the world we inhabit is something we made, collectively, as a society, and therefore, that we could also have made dierently. This is true of almost any physical object likely to be within reach of us at any given moment. Every one was grown or manufactured by someone on the basis of what someone imagined we might be like, and what they thought we might want or need. It's even more true of abstractions like "capitalism," "society," or "the government." They only exist because we produce them every day. John Holloway, perhaps the most poetic of contemporary Marxists, once proposed to write a book entitled Stop Making Capitalism. <sup>50</sup> After all, he noted, even though we all act as if capitalism is some kind of behemoth towering over us, it's really just something we produce. Every morning we wake up and re-create capitalism. If one morning we woke up and all decided to create something else, then there wouldn't be capitalism anymore. There would be something else.
+Most economists nowadays see the labor theory of value as a curiosity from the formative days of the discipline; and it's probably true that, if one's primary interest is to understand patterns of price formation, there are better tools available. But for the worker's movement—and arguably, for revolutionaries like Karl Marx—that was never the real point. The real point is philosophical. It is a recognition that the world we inhabit is something we made, collectively, as a society, and therefore, that we could also have made dierently. This is true of almost any physical object likely to be within reach of us at any given moment. Every one was grown or manufactured by someone on the basis of what someone imagined we might be like, and what they thought we might want or need. It's even more true of abstractions like "capitalism," "society," or "the government." They only exist because we produce them every day. John Holloway, perhaps the most poetic of contemporary Marxists, once proposed to write a book entitled Stop Making Capitalism. 50 After all, he noted, even though we all act as if capitalism is some kind of behemoth towering over us, it's really just something we produce. Every morning we wake up and re-create capitalism. If one morning we woke up and all decided to create something else, then there wouldn't be capitalism anymore. There would be something else.
 
 One might even say that this is the core question—perhaps ultimately the only question—of all social theory and all revolutionary thought. Together we create the world we inhabit. Yet if any one of us tried to imagine a world we'd like to live in, who would come up with one exactly like the one that currently exists? We can all imagine a better world. Why can't we just create one? Why does it seem so inconceivable to just stop making capitalism? Or government? Or at the very least bad service providers and annoying bureaucratic red tape?
 
@@ -3004,25 +3018,313 @@ Saint Augustine who was really responsible for the notion that all humans are ta
 - Gutman, Herbert G. "Protestantism and the American Labor Movement: The Christian Spirit in the Gilded Age." American Historical Review 72, no.1 (1966): 74–101.
 - Hajnal, John. "European Marriage Patterns in Perspective." In Population in History: Essays in Historical Demography, edited by D. V. Glass and D. E. C. Eversley, 101–43. London: Edward
 
-| Arnold,<br>1965. |
+| Arnold,
+1965. |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <br>"Two<br>Kinds<br>of<br>Preindustrial<br>Household<br>Formation<br>System."<br>Population<br>and<br>Development<br>Review<br>8,<br>no.<br>3<br>(September<br>1982):<br>449–94. |
-| Hanlon,<br>Gerard.<br>The<br>Dark<br>Side<br>of<br>Management:<br>A<br>Secret<br>History<br>of<br>Management<br>Theory.<br>London:<br>Routledge,<br>2016. |
-| Hardt,<br>Michael,<br>and<br>Antonio<br>Negri.<br>Labor<br>of<br>Dionysus:<br>A<br>Critique<br>of<br>the<br>State<br>Form.<br>Minneapolis:<br>University<br>of<br>Minnesota<br>Press,<br>1994. |
-| <br>Empire.<br>Cambridge,<br>MA:<br>Harvard<br>University<br>Press,<br>2000. |
-| Simplied<br>Hayes,<br>Robert<br>M.<br>"A<br>Model<br>for<br>the<br>Fine<br>Structure<br>of<br>National<br>Information<br>Economies."<br>In<br>Proceedings<br>of<br>NIT<br>1992:<br>The<br>Fifth<br>International<br>Conference<br>on<br>New<br>Information<br>Technology,<br>175–94.<br>W.<br>Newton,<br>MA.<br>Micro Use<br>Information,<br>1992. |
-| Hochschild,<br>Arlie<br>Russell.<br>The<br>Managed<br>Heart:<br>Commercialization<br>of<br>Human<br>Feeling.<br>Berkeley:<br>University<br>of<br>California<br>Press,<br>2012. |
-| Holloway,<br>John.<br>Crack<br>Capitalism.<br>London:<br>Pluto<br>Press,<br>2010. |
-| Ignatiev,<br>Noel.<br>How<br>the<br>Irish<br>Became<br>White.<br>New<br>York:<br>Routledge,<br>1995. |
-| Kazin,<br>Michael.<br>The<br>Populist<br>Persuasion:<br>An<br>American<br>History.<br>New<br>York:<br>Basic<br>Books,<br>1995. |
-| Keen,<br>Steve.<br>Debunking<br>Economics:<br>The<br>Naked<br>Emperor<br>Dethroned?<br>London:<br>ed,<br>2011. |
-| Klein,<br>G.<br>S.<br>"The<br>Vital<br>Pleasures."<br>In<br>Psychoanalytic<br>Theory:<br>An<br>Exploration<br>of<br>Essentials,<br>edited<br>by<br>M.<br>M.<br>Gill<br>and<br>Leo<br>Roseberger,<br>210–38.<br>New<br>York:<br>International<br>Universities<br>Press,<br>1967. |
-| Kraus,<br>M<br>. W.,<br>S.<br>Côté,<br>and<br>D.<br>Keltner.<br>"Social<br>Class,<br>Contextualism,<br>and<br>Empathic<br>Accuracy."<br>Psychological<br>Science<br>21,<br>no.<br>11<br>(2010):<br>1716–23. |
-| Kussmaul,<br>Anne.<br>Servants<br>in<br>Husbandry<br>in<br>Early-Modern<br>England.<br>Cambridge:<br>Cambridge<br>University<br>Press,<br>1981. |
-| Laslett,<br>Peter.<br>"Characteristics<br>of<br>the<br>Western<br>Family<br>Considered<br>over<br>Time."<br>In<br>Household<br>and<br>Family<br>in<br>Past<br>Time,<br>edited<br>by<br>P.<br>Laslett<br>and<br>R.<br>Wall.<br>Cambridge:<br>Cambridge<br>University<br>Press,<br>1972. |
-| <br>Family<br>Life<br>and<br>Illicit<br>Love<br>in<br>Earlier<br>Generations.<br>Cambridge:<br>Cambridge<br>University<br>Press,<br>1977. |
-| <br>"Family<br>and<br>Household<br>as<br>Work<br>Group<br>and<br>Kin<br>Group."<br>In<br>Family<br>Forms<br>in<br>Historic<br>Europe,<br>edited<br>by<br>R.<br>Wall.<br>Cambridge:<br>Cambridge<br>University<br>Press,<br>1983. |
-| <br>The<br>World<br>We<br>Have<br>Lost,<br>Further<br>Explored:<br>England<br>Before<br>the<br>Industrial<br>Revolution.<br>New<br>York:<br>Charles<br>Scribner's<br>Sons,<br>1984. |
+| 
+"Two
+Kinds
+of
+Preindustrial
+Household
+Formation
+System."
+Population
+and
+Development
+Review
+8,
+no.
+3
+(September
+1982):
+449–94. |
+| Hanlon,
+Gerard.
+The
+Dark
+Side
+of
+Management:
+A
+Secret
+History
+of
+Management
+Theory.
+London:
+Routledge,
+2016. |
+| Hardt,
+Michael,
+and
+Antonio
+Negri.
+Labor
+of
+Dionysus:
+A
+Critique
+of
+the
+State
+Form.
+Minneapolis:
+University
+of
+Minnesota
+Press,
+1994. |
+| 
+Empire.
+Cambridge,
+MA:
+Harvard
+University
+Press,
+2000. |
+| Simplied
+Hayes,
+Robert
+M.
+"A
+Model
+for
+the
+Fine
+Structure
+of
+National
+Information
+Economies."
+In
+Proceedings
+of
+NIT
+1992:
+The
+Fifth
+International
+Conference
+on
+New
+Information
+Technology,
+175–94.
+W.
+Newton,
+MA.
+Micro Use
+Information,
+1992. |
+| Hochschild,
+Arlie
+Russell.
+The
+Managed
+Heart:
+Commercialization
+of
+Human
+Feeling.
+Berkeley:
+University
+of
+California
+Press,
+2012. |
+| Holloway,
+John.
+Crack
+Capitalism.
+London:
+Pluto
+Press,
+2010. |
+| Ignatiev,
+Noel.
+How
+the
+Irish
+Became
+White.
+New
+York:
+Routledge,
+1995. |
+| Kazin,
+Michael.
+The
+Populist
+Persuasion:
+An
+American
+History.
+New
+York:
+Basic
+Books,
+1995. |
+| Keen,
+Steve.
+Debunking
+Economics:
+The
+Naked
+Emperor
+Dethroned?
+London:
+ed,
+2011. |
+| Klein,
+G.
+S.
+"The
+Vital
+Pleasures."
+In
+Psychoanalytic
+Theory:
+An
+Exploration
+of
+Essentials,
+edited
+by
+M.
+M.
+Gill
+and
+Leo
+Roseberger,
+210–38.
+New
+York:
+International
+Universities
+Press,
+1967. |
+| Kraus,
+M
+. W.,
+S.
+Côté,
+and
+D.
+Keltner.
+"Social
+Class,
+Contextualism,
+and
+Empathic
+Accuracy."
+Psychological
+Science
+21,
+no.
+11
+(2010):
+1716–23. |
+| Kussmaul,
+Anne.
+Servants
+in
+Husbandry
+in
+Early-Modern
+England.
+Cambridge:
+Cambridge
+University
+Press,
+1981. |
+| Laslett,
+Peter.
+"Characteristics
+of
+the
+Western
+Family
+Considered
+over
+Time."
+In
+Household
+and
+Family
+in
+Past
+Time,
+edited
+by
+P.
+Laslett
+and
+R.
+Wall.
+Cambridge:
+Cambridge
+University
+Press,
+1972. |
+| 
+Family
+Life
+and
+Illicit
+Love
+in
+Earlier
+Generations.
+Cambridge:
+Cambridge
+University
+Press,
+1977. |
+| 
+"Family
+and
+Household
+as
+Work
+Group
+and
+Kin
+Group."
+In
+Family
+Forms
+in
+Historic
+Europe,
+edited
+by
+R.
+Wall.
+Cambridge:
+Cambridge
+University
+Press,
+1983. |
+| 
+The
+World
+We
+Have
+Lost,
+Further
+Explored:
+England
+Before
+the
+Industrial
+Revolution.
+New
+York:
+Charles
+Scribner's
+Sons,
+1984. |
 
 - Lazerow, Jama. Religion and the Working Class in Antebellum America. Washington, DC: Smithsonian Institution Press, 1995.
 - Lazzarato, Maurizio. "Immaterial Labor." In Radical Thought in Italy, edited by Paolo Virno and Michael Hardt, 133–47. Minneapolis: University of Minnesota Press, 1996.

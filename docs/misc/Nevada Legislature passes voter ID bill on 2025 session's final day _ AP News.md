@@ -1,14 +1,10 @@
 ---
-date: 2023
-author: AP News
-tags:
-  - organizing
-  - unions
-  - tenants
-  - housing
-  - rent
 title: "Nevada Legislature passes voter ID bill on 2025 session's final day _ AP News"
+author: "AP News"
+date: "2023"
+category: "misc"
 ---
+
 # Nevada Legislature passes voter ID bill on 2025 session's final day _ AP News
 
 *Converted from: `./Nevada Legislature passes voter ID bill on 2025 session's final day _ AP News.pdf`*  
@@ -50,17 +46,12 @@ Nevada Legislature passes voter ID bill on 2025 session'...                     
              Voter ID is among the key bills to pass
 
 
-
-
              Blue skies sit above the Nevada Legislature building in Carson City, Nev., Tuesday, May 30, 2023. (AP Photo/Tom R. Smedes, File)
  Read More
 
 
-
                             BY RIO YAMAT
                             Updated 6:25 PM PDT, June 3, 2025
-
-
 
 
              LAS VEGAS (AP) — Nevada lawmakers in the Democratic-controlled Legislature ended their
@@ -86,7 +77,6 @@ Nevada Legislature passes voter ID bill on 2025 session'...                     
 Nevada Legislature passes voter ID bill on 2025 session'...   https://apnews.com/article/nevada-legislature-2025-edu...
 
 
-
           Ahead of the session, Lombardo urged the Legislature to put politics aside and come
           together to ﬁnd solutions for such issues as affordable housing and education. Some of his
           major bills failed, including a wide-ranging bill that would have created stiffer penalties for
@@ -100,10 +90,7 @@ Nevada Legislature passes voter ID bill on 2025 session'...   https://apnews.com
           session in Carson City.
 
 
-
           RELATED STORIES
-
-
 
 
 2 of 7                                                                                                 8/7/25, 1:33 PM
@@ -134,11 +121,7 @@ Nevada Legislature passes voter ID bill on 2025 session'...   https://apnews.com
 Nevada Legislature passes voter ID bill on 2025 session'...   https://apnews.com/article/nevada-legislature-2025-edu...
 
 
-
-
           Nevada governor's race shaping up as a marquee battle in a state carried by Trump
-
-
 
 
 3 of 7                                                                                                 8/7/25, 1:33 PM
@@ -163,14 +146,10 @@ Nevada Legislature passes voter ID bill on 2025 session'...   https://apnews.com
 Nevada Legislature passes voter ID bill on 2025 session'...   https://apnews.com/article/nevada-legislature-2025-edu...
 
 
-
           Tribes move to join lawsuit challenging Montana election laws
 
 
-
-
           California Republican lawmakers launch campaign to require voter ID
-
 
 
           Elections
@@ -185,10 +164,7 @@ Nevada Legislature passes voter ID bill on 2025 session'...   https://apnews.com
           amend the state constitution.
 
 
-
-
             ◆ Stay up to date with the latest U.S. news by signing up to our WhatsApp channel.
-
 
 
 4 of 7                                                                                                 8/7/25, 1:33 PM
@@ -206,7 +182,6 @@ Nevada Legislature passes voter ID bill on 2025 session'...   https://apnews.com
 Nevada Legislature passes voter ID bill on 2025 session'...   https://apnews.com/article/nevada-legislature-2025-edu...
 
 
-
           — Primary elections for nonpartisan voters: A week before the session ended, Democratic
           Assembly Speaker Steve Yeager introduced a bill as an emergency request that would allow
           nonpartisan voters to cast a ballot in Republican or Democratic primary elections, excluding
@@ -215,8 +190,6 @@ Nevada Legislature passes voter ID bill on 2025 session'...   https://apnews.com
 
           The bill is different from the effort voters rejected in November that would have
           implemented open primaries and ranked choice voting for all voters.
-
-
 
 
           Education
@@ -231,8 +204,6 @@ Nevada Legislature passes voter ID bill on 2025 session'...   https://apnews.com
           ﬁfth-largest in the nation and has its own police department.
 
 
-
-
           Housing
           — “Attainable” housing: Lombardo’s bill aimed at expanding affordable housing, one of his
           top priorities this session, would allocate $133 million in state funds for housing projects for
@@ -243,8 +214,6 @@ Nevada Legislature passes voter ID bill on 2025 session'...   https://apnews.com
           on party lines. They include a proposal that would create a pilot program capping rent prices
           for seniors for a year, and another that would allow tenants to quickly ﬁle legal complaints
           against landlords for unsafe living conditions like broken air conditioning or broken locks.
-
-
 
 
 5 of 7                                                                                                 8/7/25, 1:33 PM
@@ -269,8 +238,6 @@ Nevada Legislature passes voter ID bill on 2025 session'...   https://apnews.com
 Nevada Legislature passes voter ID bill on 2025 session'...             https://apnews.com/article/nevada-legislature-2025-edu...
 
 
-
-
           Public safety
           — Lombardo’s crime bill: The governor, who was a longtime police ofﬁcer and the former
           elected sheriff in Las Vegas, had vowed ahead of the session to crack down on crime. But his
@@ -280,8 +247,6 @@ Nevada Legislature passes voter ID bill on 2025 session'...             https://
           It would have created stiffer penalties for certain crimes, including “smash-and-grab” retail
           thefts and violent crimes against hospitality workers, a newly designated protected class
           under the proposal.
-
-
 
 
           Other issues
@@ -300,12 +265,9 @@ Nevada Legislature passes voter ID bill on 2025 session'...             https://
           on lotteries. It failed after the Legislature’s ﬁrst major deadline in April.
 
 
-
                       RIO YAMAT
                       Yamat is a national business reporter for The Associated Press. Based in Las Vegas, she
                       covers airlines, travel and tourism.
-
-
 
 
 6 of 7                                                                                                           8/7/25, 1:33 PM
@@ -330,11 +292,7 @@ Nevada Legislature passes voter ID bill on 2025 session'...             https://
 Nevada Legislature passes voter ID bill on 2025 session'...            https://apnews.com/article/nevada-legislature-2025-edu...
 
 
-
-
           MOST READ
-
-
 
 
               Fort Stewart Army sergeant in custody after he shot 5 soldiers, ofﬁcials say
@@ -349,9 +307,6 @@ Nevada Legislature passes voter ID bill on 2025 session'...            https://a
               Restoration of torn-down Confederate monument will cost $10 million over 2 years, military says
 
 
-
-
 7 of 7                                                                                                          8/7/25, 1:33 PM
 
 ---
-

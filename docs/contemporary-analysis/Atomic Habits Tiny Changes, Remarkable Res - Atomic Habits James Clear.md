@@ -1,3 +1,8 @@
+---
+title: "James Clear"
+category: "contemporary-analysis"
+---
+
 ## Tiny Changes, Remarkable Results
 
 ## ![](_page_0_Picture_1.jpeg)
@@ -48,23 +53,27 @@ While the author has made every effort to provide accurate Internet addresses at
 
 a·tom·ic
 
-<sup>ə</sup>ˈtämik
+əˈtämik
 
-| 1. an extremely small amount of a thing; the single irreducible unit of a<br>larger system. |
+| 1. an extremely small amount of a thing; the single irreducible unit of a
+larger system. |
 |----------------------------------------------------------------------------------------------------------------------|
 | 2. the source of immense energy or power. |
 | hab·it |
 | ˈhabət |
-| 1. a routine or practice performed regularly; an automatic response to a<br>specific situation. |
+| 1. a routine or practice performed regularly; an automatic response to a
+specific situation. |
 | Contents |
 | Title Page |
 | Copyright |
 | Epigraph |
 | Introduction: My Story |
 | The Fundamentals |
-| Why Tiny Changes Make a Big<br>Difference |
+| Why Tiny Changes Make a Big
+Difference |
 | 1 The Surprising Power of Atomic Habits |
-| 2 How Your Habits Shape Your Identity (and Vice Versa) 3 How to Build<br>Better Habits in 4 Simple Steps The 1st Law |
+| 2 How Your Habits Shape Your Identity (and Vice Versa) 3 How to Build
+Better Habits in 4 Simple Steps The 1st Law |
 | Make It Obvious |
 | 4 The Man Who Didn't Look Right |
 ## | 5 The Best Way to Start a New Habit |
@@ -873,7 +882,10 @@ FIGURE 16: The process of mastery requires that you progressively layer improvem
 | Hard |
 | Satisfying |
 | Unsatisfying |
-| You want to push your good habits toward the left side of the spectrum by<br>making them obvious, attractive, easy, and satisfying. Meanwhile, you want<br>to cluster your bad habits toward the right side by making them invisible,<br>unattractive, hard, and unsatisfying. |
+| You want to push your good habits toward the left side of the spectrum by
+making them obvious, attractive, easy, and satisfying. Meanwhile, you want
+to cluster your bad habits toward the right side by making them invisible,
+unattractive, hard, and unsatisfying. |
 | Appendix |
 ## | |
 

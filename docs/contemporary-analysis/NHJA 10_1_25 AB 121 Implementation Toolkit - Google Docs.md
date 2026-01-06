@@ -1,3 +1,8 @@
+---
+title: "**NHJA NEW Protections for Tenants!**"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 # **NHJA NEW Protections for Tenants!**
@@ -6,7 +11,7 @@
 
 #### **Overview**
 
-AB 121, e�ective Wednesday, October 1, 2025, will increase rental fee transparency for tenants. It sets new protections related to fee transparency for tenants in the rental process by establishing limitations on application fees, requiring a full, clear disclosure of all fees within a lease, and requiring a fee-free way for tenants to pay their rents.
+AB 121, eective Wednesday, October 1, 2025, will increase rental fee transparency for tenants. It sets new protections related to fee transparency for tenants in the rental process by establishing limitations on application fees, requiring a full, clear disclosure of all fees within a lease, and requiring a fee-free way for tenants to pay their rents.
 
 ### **Key Changes**
 
@@ -43,7 +48,7 @@ AB 121, e�ective Wednesday, October 1, 2025, will increase rental fee transpar
 
 #### **Talking Points**
 
-- Tenants often discover additional charges after signing a lease, making it harder to a�ord rent. These new protections will bring transparency in rental agreements and prevent surprise costs.
+- Tenants often discover additional charges after signing a lease, making it harder to aord rent. These new protections will bring transparency in rental agreements and prevent surprise costs.
 - Renters deserve to know exactly how much they will be paying before signing a lease.
 - Unmanageable fees can push tenants beyond the 30% income-to-housing cost threshold, leading to rental debt and eviction. These new protections will ensure the rent on your lease is the rent tenants pay every month.
 - These new protections for tenants and accountability for landlords are needed to prevent predatory practices that allowed landlords to collect applications fees to no ends for tenants trying to find a place to call home
@@ -77,7 +82,7 @@ Use this checklist below or visit [nvhousingjustice.org/fee-protections-2025](ht
 
 ## (USE CHECKLIST GRAPHIC)
 
-This #NVLeg, @NVHousing Justice advocated for and won new fee protections for tenants! On Oct 1, #AB121 will go into e�ect with more rental fee transparency! Thank you to @Nv18Venicia for sponsoring this critical step towards #housingjustice
+This #NVLeg, @NVHousing Justice advocated for and won new fee protections for tenants! On Oct 1, #AB121 will go into eect with more rental fee transparency! Thank you to @Nv18Venicia for sponsoring this critical step towards #housingjustice
 
 [nvhousingjustice.org/fee-protections-2025](http://nvhousingjustice.org/fee-protections-2025)
 

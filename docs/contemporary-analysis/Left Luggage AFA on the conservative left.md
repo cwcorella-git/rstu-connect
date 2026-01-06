@@ -1,3 +1,8 @@
+---
+title: "## **Left Luggage: AFA on the conservative left**"
+category: "contemporary-analysis"
+---
+
 ## **Left Luggage: AFA on the conservative left**
 
 ## **Date:** Unknown

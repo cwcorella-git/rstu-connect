@@ -1,3 +1,8 @@
+---
+title: "**Stories - Harpers Ferry National Historical Park (U. S. National Park Service)**"
+category: "contemporary-analysis"
+---
+
 [nps.gov](https://www.nps.gov/hafe/learn/historyculture/stories.htm)
 
 # **Stories - Harpers Ferry National Historical Park (U. S. National Park Service)**

@@ -1,3 +1,8 @@
+---
+title: "**the @ismatu.gwendolyn experiment: risk, love, conduction.**"
+category: "contemporary-analysis"
+---
+
 # **the @ismatu.gwendolyn experiment: risk, love, conduction.**
 
 ## **Date:** 2025-06-22
@@ -42,24 +47,39 @@ EES-mah-too. 'i' like E. 'S' like 'S', not like 'Z.' EEEEEEES-mah-too. Same emph
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ismatu is: |
 | a 26 year old addicted to tea. |
-| a descendent of sovereigns in both of their home places (Black America and Sierra Leone)<br>picking up the mantel of their predecessors. |
-| a young hustler who's like… ten consecutive bad days away from going right back to the strip<br>club. |
-| I actually keep a pair of shoes on me at all times, not just because I can't stand civilian heels;<br>you just literally never know. |
+| a descendent of sovereigns in both of their home places (Black America and Sierra Leone)
+picking up the mantel of their predecessors. |
+| a young hustler who's like… ten consecutive bad days away from going right back to the strip
+club. |
+| I actually keep a pair of shoes on me at all times, not just because I can't stand civilian heels;
+you just literally never know. |
 | perpetually sleepy. |
 | THE CONTEXT |
-| For starters: I didn't pick up the social internet because I had some grand desire to be… what<br>I am now. Some force for good? A source of inspiration? Capable of material change? A<br>reason for hope, as a lot of you all tell me that I am. |
+| For starters: I didn't pick up the social internet because I had some grand desire to be… what
+I am now. Some force for good? A source of inspiration? Capable of material change? A
+reason for hope, as a lot of you all tell me that I am. |
 | from the fall of 2024 |
 
 I picked it up originally because I thought I would be good at it! And becauase I was bored with my life as it stood. This was the winter of 2022 and I thought I wanted… a lot of shit that didn't end up mattering in the long term. I thought I wanted to do well at my quasi-corporate private practice field placement. I thought I wanted the apartment I had, with all the custom lighting fixtures. I thougt I wanted to be a skincare influencer. All these hallmarks of stability and growing up that we're all conditioned all throughout adolescence to want: a good job and
 
-| a beautiful place to live and money on the side being cute and young and pretty— I thought I<br>wanted these things. |
+| a beautiful place to live and money on the side being cute and young and pretty— I thought I
+wanted these things. |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| I had made a few Tik Toks for me and my twelve followers (all of which were friends from<br>college that I know IRL) but nothing like… serious. |
+| I had made a few Tik Toks for me and my twelve followers (all of which were friends from
+college that I know IRL) but nothing like… serious. |
 | banger. |
-| I also had really regimented social media use from a life of not going up on the social<br>internet— my friends bullied me into having an instagram when we all got sent home for Covid<br>lockdowns in my final year of college and even THEN, someone else ran it. So I had a pretty<br>easy time having designated Tik Tok time (on Wednesdays and Saturdays in one to two hour<br>blocks) and then putting things down. All this is only relevant to say when I started gaining<br>traction, I did not notice at first. I opened the app, made a video, captioned it, and then closed<br>the app. I would not have seen the snowball if my bestie hadn't texted me something like,<br>"babes you're going viral." |
+| I also had really regimented social media use from a life of not going up on the social
+internet— my friends bullied me into having an instagram when we all got sent home for Covid
+lockdowns in my final year of college and even THEN, someone else ran it. So I had a pretty
+easy time having designated Tik Tok time (on Wednesdays and Saturdays in one to two hour
+blocks) and then putting things down. All this is only relevant to say when I started gaining
+traction, I did not notice at first. I opened the app, made a video, captioned it, and then closed
+the app. I would not have seen the snowball if my bestie hadn't texted me something like,
+"babes you're going viral." |
 | what a movie moment this was. |
 | It was the first video |
-| I ever posted for the general Tik Tok public. It got about 60,000 views in five or so days. I went<br>from 12 followers to two thousand. And then we were full steam ahead. |
+| I ever posted for the general Tik Tok public. It got about 60,000 views in five or so days. I went
+from 12 followers to two thousand. And then we were full steam ahead. |
 | Dyed my hair pink |
 | and |
 | instantly |
@@ -89,9 +109,14 @@ And the outpouring from people that could see me— mind you, this was… a litt
 | young |
 | as I am, with |
 | no desires to be in the ivory tower whatsoever. |
-| The radicalization I experienced as a youth studying religion was supported and deepened<br>when I went to college and had professor after professor assign radical, black, indigenous,<br>feminist, world-making texts to apply to otherwise "straight-forward" educational focal points. I<br>studied English and Global Health. Did I |
+| The radicalization I experienced as a youth studying religion was supported and deepened
+when I went to college and had professor after professor assign radical, black, indigenous,
+feminist, world-making texts to apply to otherwise "straight-forward" educational focal points. I
+studied English and Global Health. Did I |
 | need |
-| to read Pedagogy of the Oppressed and Black Feminism Reimagined in those courses? No.<br>yet, my educators made pointed decisions to steer their students in the direction of focused,<br>disciplined liberation by whatever roads of access they had. |
+| to read Pedagogy of the Oppressed and Black Feminism Reimagined in those courses? No.
+yet, my educators made pointed decisions to steer their students in the direction of focused,
+disciplined liberation by whatever roads of access they had. |
 | A Third University Is Possible |
 | by la paperson talks all about this i fucking love that book anyways. |
 
@@ -234,10 +259,15 @@ No!
 | increase your skepticism for online figures. |
 | Someone reading a book is not the same thing as someone doing the thing! Anyways! |
 | People wrote to me frequently, |
-| ismatu, I am about to get evicted. I am in the hospital. I just had a baby. Can you connect me<br>with your mutual aid networks so that I can get money to deal with this particular emergency. |
-| Again… cannot stress enough… no secret mutual aid network existed. I never claimed<br>know… anything like that! I never claimed to be doing anything like that! |
+| ismatu, I am about to get evicted. I am in the hospital. I just had a baby. Can you connect me
+with your mutual aid networks so that I can get money to deal with this particular emergency. |
+| Again… cannot stress enough… no secret mutual aid network existed. I never claimed
+know… anything like that! I never claimed to be doing anything like that! |
 | All I did was read a book. |
-| For people to be so desperate to email me, an internet stranger, for like life-saving cash<br>assistance, for them to have enough faith in me that I could like actually fulfill such outlandish<br>requests, it clicked for me one day. Like this is like, this is the modern day version of shining<br>like the Batman symbol into the night sky. Batman, we need you. |
+| For people to be so desperate to email me, an internet stranger, for like life-saving cash
+assistance, for them to have enough faith in me that I could like actually fulfill such outlandish
+requests, it clicked for me one day. Like this is like, this is the modern day version of shining
+like the Batman symbol into the night sky. Batman, we need you. |
 | To be clear, |
 | this is not mutual aid |
 | |
@@ -285,11 +315,22 @@ You engage with the long-form materials.
 | You talk about the work! |
 | You don't |
 | have |
-| to talk to the work about me or about the things that you see me do, the things that become<br>possible because we do it together. You don't have to talk about it to the people that you know<br>in real life, but you do. So many of you will speak to the people that you know around you,<br>your family, your friends, your hairdressers. You know how high praise, high praise. Hey, I<br>was showing your videos to my braider and we talked about you. Are you kidding me? High<br>praise. |
-| You don't have to talk about it, but you do. You talk about me, you talk about the work that you<br>witnessed me doing. And so many of you all tell me that it galvanizes the work that you do,<br>that you feel compelled to do by witnessing me. That comes out of trust, and it comes out of a<br>sincere love. |
+| to talk to the work about me or about the things that you see me do, the things that become
+possible because we do it together. You don't have to talk about it to the people that you know
+in real life, but you do. So many of you will speak to the people that you know around you,
+your family, your friends, your hairdressers. You know how high praise, high praise. Hey, I
+was showing your videos to my braider and we talked about you. Are you kidding me? High
+praise. |
+| You don't have to talk about it, but you do. You talk about me, you talk about the work that you
+witnessed me doing. And so many of you all tell me that it galvanizes the work that you do,
+that you feel compelled to do by witnessing me. That comes out of trust, and it comes out of a
+sincere love. |
 | (3) |
 | You do not have to pay! For anything! But many of you do! |
-| This is the wildest part, and this is by far the least amount of people, but for those that can and<br>choose to: you ensure that I am safe and housed and fed enough to continue the work I put<br>out. You help guarantee this work for your internet neighbors. You do not have to (because I<br>don't charge for anything! if you just wait, anything that's ever existed behind a ) but yet you |
+| This is the wildest part, and this is by far the least amount of people, but for those that can and
+choose to: you ensure that I am safe and housed and fed enough to continue the work I put
+out. You help guarantee this work for your internet neighbors. You do not have to (because I
+don't charge for anything! if you just wait, anything that's ever existed behind a ) but yet you |
 
 do.
 
@@ -433,19 +474,25 @@ Again, this will be made available to the public after the fact. The first of th
 
 ## second week of July
 
-| . They were supposed to happen earlier than this. My mom has cancer!! Very sorry about that.<br>This talks about the money flow. What happens with the money? How much do particular<br>things cost? And what projects are that just need a little bit more funding? If you really want to<br>know the itty gritty nitty bitties of that, that's where you go. |
+| . They were supposed to happen earlier than this. My mom has cancer!! Very sorry about that.
+This talks about the money flow. What happens with the money? How much do particular
+things cost? And what projects are that just need a little bit more funding? If you really want to
+know the itty gritty nitty bitties of that, that's where you go. |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | sign me tf up!! |
 | So the goal for total project fulfillment is 10,000 recurring paid subscribers via |
 | threadings.io |
 | in the next 30 days. |
-| This feels buck wild. I've never asked for funding for myself before, but like, it's time, right? It's<br>time to do these things that I've just like felt like were impossible or didn't allow myself to do<br>because I didn't trust myself enough. |
+| This feels buck wild. I've never asked for funding for myself before, but like, it's time, right? It's
+time to do these things that I've just like felt like were impossible or didn't allow myself to do
+because I didn't trust myself enough. |
 | Also, the resource form is also live |
 | here |
 | |
 | You can click on it in the newsletter or in the description. |
 | https://www.jotform.com/form/251693630800151|
-| If you have skills, connections, resources, something otherwise that you think would be helpful<br>to these projects that you want to tell me about, experience, whatever, |
+| If you have skills, connections, resources, something otherwise that you think would be helpful
+to these projects that you want to tell me about, experience, whatever, |
 
 fill out the resource forum instead of sending me a DM
 
@@ -495,15 +542,18 @@ If that's where you are, all I want you to do is pay attention. Read the essays.
 
 I know that they're available in audio. Listen to the audio while you read them. I know that I now make them available for video. Video is the most passive form of learning. It's the hardest to stick in your brain. Please, please, please, please read the work and do your best to engage with the sources that I link.
 
-| Those are the three ways that I want to build up consistent constituency involvement in the<br>projects that we have going on. |
+| Those are the three ways that I want to build up consistent constituency involvement in the
+projects that we have going on. |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | I want the funding. |
 | I want the labor. |
 | And I want the time. |
-| And I'm going to give you for this for this period of time, right? I've kind of been doing social<br>media low key with like my little pinky fingerl I'm going to give it my all for the next— |
+| And I'm going to give you for this for this period of time, right? I've kind of been doing social
+media low key with like my little pinky fingerl I'm going to give it my all for the next— |
 | [Lemon exits stage right] |
 | yeah, she's done. Everybody say goodnight to Lemon. |
-| For the next three years, it's you and me. And also Little Lemon who's irritated that I'm still<br>looking at a computer screen. All right, everybody have a good night. |
+| For the next three years, it's you and me. And also Little Lemon who's irritated that I'm still
+looking at a computer screen. All right, everybody have a good night. |
 | ig |
 | |
 ## | |

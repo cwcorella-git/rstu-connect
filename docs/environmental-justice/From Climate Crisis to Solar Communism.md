@@ -1,3 +1,8 @@
+---
+title: "## **From Climate Crisis to Solar Communism**"
+category: "environmental-justice"
+---
+
 ## **From Climate Crisis to Solar Communism**
 
 socialist solution look like?
@@ -5,7 +10,8 @@ socialist solution look like?
 | Date: Fri, 12/04/2015 - 16:26 |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Source: https://ecology.iww.org/node/1412|
-| Tags: solar power, renewable energy, renewable energy workers, solar communism, ecosocialism,<br>post scarcity anarchism, green syndicalism, energy democracy, COP21 |
+| Tags: solar power, renewable energy, renewable energy workers, solar communism, ecosocialism,
+post scarcity anarchism, green syndicalism, energy democracy, COP21 |
 | By David Schwartzman |
 | - |
 | Jacobin |
@@ -13,7 +19,9 @@ socialist solution look like?
 | IWW EUC Note: |
 | readers should be aware that the term "communism" here does |
 | not |
-| mean "bureaucratic state capitalism", and can be inclusive of ecosocialism,<br>post-scarcity-anarchism, and/or green syndicalism (depending on one's implementation of the<br>ideas discussed here): |
+| mean "bureaucratic state capitalism", and can be inclusive of ecosocialism,
+post-scarcity-anarchism, and/or green syndicalism (depending on one's implementation of the
+ideas discussed here): |
 | The proposals elites are offering at COP21 wouldn't halt climate change. What would a |
 
 Jacobin Editor's Note:
@@ -120,13 +128,20 @@ Suren Moodliar, who wrote one of the most perceptive
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | of |
 | This Changes Everything |
-| , argues that Klein leaves out the importance of class struggle. While the book doesn't engage<br>much with Marxist theory, I disagree with Moodliar's assessment. Klein vividly describes the<br>myriad climate justice movements whose struggles constitute class struggle —<br>multidimensional and transnational — even if they don't self-identify, yet, in that way. |
-| Only when that class consciousness emerges will we have a chance to avoid climate<br>catastrophe |
+| , argues that Klein leaves out the importance of class struggle. While the book doesn't engage
+much with Marxist theory, I disagree with Moodliar's assessment. Klein vividly describes the
+myriad climate justice movements whose struggles constitute class struggle —
+multidimensional and transnational — even if they don't self-identify, yet, in that way. |
+| Only when that class consciousness emerges will we have a chance to avoid climate
+catastrophe |
 | |
 | How should the climate justice movement exercise class power and build this consciousness? |
-| Many people are thinking about this question today. Peter Frase conceptualizes class power<br>in relation to the workplace, |
+| Many people are thinking about this question today. Peter Frase conceptualizes class power
+in relation to the workplace, |
 | arguing |
-| that "the strengthening of the working class both inside and outside the workplace becomes<br>the force that pushes us toward the utopian ideal of a post-scarcity society and the abolition of<br>wage labor." |
+| that "the strengthening of the working class both inside and outside the workplace becomes
+the force that pushes us toward the utopian ideal of a post-scarcity society and the abolition of
+wage labor." |
 | Meanwhile, in an |
 | essay |
 

@@ -1,3 +1,8 @@
+---
+title: "**Video Game Writing and the Sense of Story [Writing]**"
+category: "contemporary-analysis"
+---
+
 [web.archive.org](https://web.archive.org/web/20250114154618/https://www.whatgamesare.com/2011/02/video-game-writing-and-the-sense-of-story-writing.html)
 
 # **Video Game Writing and the Sense of Story [Writing]**

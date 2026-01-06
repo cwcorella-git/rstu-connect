@@ -1,3 +1,8 @@
+---
+title: "**Kinesiology**"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 # **Kinesiology**
@@ -20,13 +25,13 @@ In 1965, the [University of Massachusetts Amherst](https://en.wikipedia.org/wiki
 
 #### Adaptation through exercise
 
-Adaptation through exercise is a key principle of kinesiology that relates to improved fitness in athletes as well as health wellness in clinical populations. Exercise is a simple and established intervention for many disorders movement and musculoskeletal conditions due to the neuroplasticity of brain<sup>[17]</sup> the and the adaptability of the musculoskeletal system.[12][13][14] Therapeutic exercise has been shown to improve neuromotor control and motor capabilities in both normal<sup>[18]</sup> and pathological
+Adaptation through exercise is a key principle of kinesiology that relates to improved fitness in athletes as well as health wellness in clinical populations. Exercise is a simple and established intervention for many disorders movement and musculoskeletal conditions due to the neuroplasticity of brain[17] the and the adaptability of the musculoskeletal system.[12][13][14] Therapeutic exercise has been shown to improve neuromotor control and motor capabilities in both normal[18] and pathological
 
 There are many different types of exercise interventions that can be applied in kinesiology to athletic, normal, and clinical populations. Aerobic exercise interventions help to populations.[6][19]
 
 ANAEROBIC EX.-AEROBIC EX. -> Strength RHR PCSA Neural Drive VO, Max SV Physiologic Resting Maximal Stroke Strength Neural Oxygen Volume (SV) Cross-Sectional Heart Drive Rate (RHR) Consumpton Area (PCSA) (VO2 Max)
 
-Summary of long-term adaptations to regular aerobic and anaerobic exercise. Aerobic exercise can cause several central cardiovascular adaptations, including an increase in stroke volume (SV)[5] and maximal aerobic capacity (VO<sub>2</sub> max),[5][6] as well as a decrease in resting heart rate (RHR).[7][8][9] Long-term adaptations to resistance training, the most common form of anaerobic exercise, include muscular hypertrophy, an increase in the physiological cross-sectional area (PCSA) of muscle(s), and an increase in neural drive, [12][13] both of which lead to increased muscular strength. Neural adaptations begin more quickly and plateau prior to the hypertrophic response. [15][16]
+Summary of long-term adaptations to regular aerobic and anaerobic exercise. Aerobic exercise can cause several central cardiovascular adaptations, including an increase in stroke volume (SV)[5] and maximal aerobic capacity (VO2 max),[5][6] as well as a decrease in resting heart rate (RHR).[7][8][9] Long-term adaptations to resistance training, the most common form of anaerobic exercise, include muscular hypertrophy, an increase in the physiological cross-sectional area (PCSA) of muscle(s), and an increase in neural drive, [12][13] both of which lead to increased muscular strength. Neural adaptations begin more quickly and plateau prior to the hypertrophic response. [15][16]
 
 improve cardiovascular endurance. Anaerobic strength training programs can increase muscular strength, power, and lean body mass. Decreased risk of falls and increased neuromuscular control can be attributed to balance intervention programs. Flexibility programs can increase functional range of motion and reduce the risk of injury.
 
@@ -50,7 +55,7 @@ Adaptive plasticity along with practice in three levels. In behavior level, perf
 
 Maladaptive plasticity is defined as neuroplasticity with negative effects or detrimental consequences in behavior. Movement abnormalities may occur among individuals with and without brain injuries due to abnormal remodeling in central nervous system. Learned non-use is an example commonly seen among patients with brain damage, such as stroke. Patients with stroke learned to suppress paretic limb movement after unsuccessful experience in paretic hand use; this may cause decreased neuronal activation at adjacent areas of the infarcted motor cortex. [52][53]
 
-There are many types of <u>therapies</u> that are designed to overcome maladaptive plasticity in clinic and research, such as <u>constraint-induced movement therapy</u> (CIMT), body weight support treadmill training (BWSTT) and <u>virtual reality therapy</u>. These interventions are shown to enhance motor function in paretic limbs<sup>[54][55][56]</sup> and stimulate cortical reorganization<sup>[57][58][59]</sup> in patients with brain damage.
+There are many types of therapies that are designed to overcome maladaptive plasticity in clinic and research, such as constraint-induced movement therapy (CIMT), body weight support treadmill training (BWSTT) and virtual reality therapy. These interventions are shown to enhance motor function in paretic limbs[54][55][56] and stimulate cortical reorganization[57][58][59] in patients with brain damage.
 
 ### **Motor redundancy**
 
@@ -58,7 +63,7 @@ There are many types of <u>therapies</u> that are designed to overcome maladapti
 
 Animation illustrating the concept of motor redundancy: the motor action of bringing the finger in contact with a point in space can be achieved using a wide variety of limb configurations.
 
-Motor redundancy is a widely used concept in kinesiology and <u>motor</u> <u>control</u> which states that, for any task the human body can perform, there are effectively an unlimited number of ways the nervous system could achieve that task. [60] This redundancy appears at multiple levels in the chain of motor execution:
+Motor redundancy is a widely used concept in kinesiology and motor control which states that, for any task the human body can perform, there are effectively an unlimited number of ways the nervous system could achieve that task. [60] This redundancy appears at multiple levels in the chain of motor execution:
 
 - Kinematic redundancy means that for a desired location of the endpoint (e.g. the hand or finger), there are many configurations of the joints that would produce the same endpoint location in space.
 - Muscle redundancy means that the same net joint torque could be generated by many different relative contributions of individual muscles.
@@ -431,4 +436,4 @@ Adapted Physical Activity in the rehabilitation process of people with disabilit
 
 The dictionary definition of *[kinesiology](https://en.wiktionary.org/wiki/Special:Search/kinesiology)* at Wiktionary
 
-Retrieved from "<https://en.wikipedia.org/w/index.php?title=Kinesiology&oldid=1324747381>"
+Retrieved from ""

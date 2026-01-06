@@ -1,3 +1,8 @@
+---
+title: "**The Irrepressible Anarchists**"
+category: "contemporary-analysis"
+---
+
 ## **Crimeth Inc.**
 
 # **The Irrepressible Anarchists**

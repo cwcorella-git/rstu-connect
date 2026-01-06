@@ -1,3 +1,8 @@
+---
+title: "**Proportional representation**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Proportional_representation)
 
 # **Proportional representation**
@@ -30,16 +35,26 @@ List PR involves parties in the election process. Voters do not primarily vote f
 
 An example election where the assembly has 200 seats to be filled is presented below. Every voter casts their vote for the list created by their favourite party and the results of the election are as follows (popular vote). Under party-list PR, every party gets a number of seats proportional to their share of the popular vote.
 
-| Party | Popular<br>vote | Party-list PR<br>– Sainte-Laguë<br>method | | |
+| Party | Popular
+vote | Party-list PR
+– Sainte-Laguë
+method | | |
 |------------|-----------------|-------------------------------------------|------------|--|
-| | | Number of<br>seats | Seats<br>% | |
-## | Party<br>A | 43.91% | 88 | 44% | |
+| | | Number of
+seats | Seats
+% | |
+## | Party
+A | 43.91% | 88 | 44% | |
 
-| Party<br>B | 39.94% | 80 | 40% | |
+| Party
+B | 39.94% | 80 | 40% | |
 |------------|-----------|-----|------|--|
-| Party<br>C | 9.98% | 20 | 10% | |
-| Party<br>D | 6.03% | 12 | 6% | |
-## | TOTAL | 99<br>86% | 200 | 100% | |
+| Party
+C | 9.98% | 20 | 10% | |
+| Party
+D | 6.03% | 12 | 6% | |
+## | TOTAL | 99
+86% | 200 | 100% | |
 
 This is done by a proportional formula or method; for example, the [Sainte-Laguë method](https://en.wikipedia.org/wiki/Sainte-Lagu%C3%AB_method) – these are the same methods that may be used to allocate seats for geographic proportional representation (for example, how many seats each states gets in the US House of Representatives). Votes and seats often cannot be mathematically perfectly allocated, so some amount of rounding has to be done. The various methods deal with this in different ways, although the difference is reduced if there are many seats – for example, if the whole country is one district. Party-list PR is also more complicated in reality than in the example, as countries often use more than one district, multiple tiers (e.g. local, regional and national), [open lists](https://en.wikipedia.org/wiki/Open_list) or an [electoral](https://en.wikipedia.org/wiki/Electoral_threshold) [threshold.](https://en.wikipedia.org/wiki/Electoral_threshold) This can mean that final seat allocations are frequently not proportional to the parties' vote share.
 
@@ -74,13 +89,24 @@ Quota is 25 percent plus 1. (Droop quota).
 
 Jane Doe and Fred Rubble are elected in the first round.
 
-| Candidate | Party | Popular vote<br>(first<br>preferences) | Elected? | If elected:<br>surplus<br>votes |
+| Candidate | Party | Popular vote
+(first
+preferences) | Elected? | If elected:
+surplus
+votes |
 |-----------------|------------|----------------------------------------|----------|---------------------------------|
-| Jane Doe | Party<br>A | 40% | Yes | 15% |
-| Fred<br>Rubble | Party<br>B | 30% | Yes | 5% |
-| Joe Smith | Party<br>A | 16% | | |
-| John<br>Citizen | Party<br>A | 11% | | |
-| Mary Hill | Party<br>B | 3% | | |
+| Jane Doe | Party
+A | 40% | Yes | 15% |
+| Fred
+Rubble | Party
+B | 30% | Yes | 5% |
+| Joe Smith | Party
+A | 16% | | |
+| John
+Citizen | Party
+A | 11% | | |
+| Mary Hill | Party
+B | 3% | | |
 ## | TOTAL | | 100% | | |
 
 Next, surplus votes belonging to those already elected, votes the candidates received above the quota (votes that they did not need to be elected), are transferred to the next preference marked by the voters who voted for them. Continuing the example, suppose that all voters who marked first preference for Jane Doe marked John Citizen as their second choice. Based on this, Jane Doe's surplus votes are transferred to John Citizen. John Citizen achieves the quota and so is declared elected to the third and last seat that had to be filled.
@@ -97,13 +123,38 @@ As well, the most popular candidates in each party won the party's seats. 81 per
 
 (quota is 25 percent plus 1)
 
-| Candidate | Party | Current<br>vote total | Elected? | Party | First<br>preference<br>votes<br>for<br>candidates<br>of party |
+| Candidate | Party | Current
+vote total | Elected? | Party | First
+preference
+votes
+for
+candidates
+of party |
 |-----------------|------------|----------------------------------------------------------------------|----------|-------------------|---------------------------------------------------------------|
-| Jane Doe | Party<br>A | already<br>elected<br>(25%+1<br>vote) | Yes | Party<br>67%<br>A | |
-| John<br>Citizen | Party<br>A | 11% + 15%<br>= 26% | Yes | | |
-| Joe Smith | Party<br>A | 16% | | | |
-| Fred<br>Rubble | Party<br>B | already<br>elected<br>(30%)<br>(surplus<br>votes not<br>transferred) | Yes | Party<br>B | 33% |
-| Mary Hill | Party<br>B | 3% | | | |
+| Jane Doe | Party
+A | already
+elected
+(25%+1
+vote) | Yes | Party
+67%
+A | |
+| John
+Citizen | Party
+A | 11% + 15%
+= 26% | Yes | | |
+| Joe Smith | Party
+A | 16% | | | |
+| Fred
+Rubble | Party
+B | already
+elected
+(30%)
+(surplus
+votes not
+transferred) | Yes | Party
+B | 33% |
+| Mary Hill | Party
+B | 3% | | | |
 ## | TOTAL | | 100% | 3 | | 100% |
 
 Under STV, to make up the 200-seat legislature as large as in the examples that follow, about 67 three-seat districts would be used. Districts with more seats would provide more proportional results – one form of STV in Australia uses a district with 21 members being elected at once. With a larger district magnitude, it is more likely that more than two parties will have some of their candidates elected.
@@ -125,11 +176,27 @@ A simple, yet common version of MMP has as many list-PR seats as there are singl
 | | | | Results under mixed-member proportional representation | | |
 |------------|-----------------|-----------------------------------------------------|--------------------------------------------------------|--------------------------------|-------|
 | | | | | | |
-| Party | Popular<br>vote | FPTP<br>seats<br>(Number<br>of<br>districts<br>won) | Compensatory<br>seats<br>(party-list PR<br>seats) | Total<br>number<br>of<br>seats | Seats |
-| Party<br>A | 43.91% | 64 | 24 | 88 | 44% |
-| Party<br>B | 39.94% | 33 | 47 | 80 | 40% |
-| Party<br>C | 9.98% | 0 | 20 | 20 | 10% |
-| Party<br>D | 6.03% | 3 | 9 | 12 | 6% |
+| Party | Popular
+vote | FPTP
+seats
+(Number
+of
+districts
+won) | Compensatory
+seats
+(party-list PR
+seats) | Total
+number
+of
+seats | Seats |
+| Party
+A | 43.91% | 64 | 24 | 88 | 44% |
+| Party
+B | 39.94% | 33 | 47 | 80 | 40% |
+| Party
+C | 9.98% | 0 | 20 | 20 | 10% |
+| Party
+D | 6.03% | 3 | 9 | 12 | 6% |
 ## | TOTAL | 100% | 100 | 100 | 200 | 100% |
 
 MMP gives only as many compensatory seats to a party as they need to have the number of seats of each party be proportional. Another way to say this is that MMP focuses on making the outcome proportional.
@@ -144,14 +211,29 @@ Compare the MMP example to a [mixed-member majoritarian](https://en.wikipedia.or
 
 #### Results under parallel voting
 
-| Party | Popular<br>vote | FPTP<br>seats<br>(Number<br>of<br>districts<br>won) | Party<br>list PR<br>seats | Total<br>number<br>of seats | Seats<br>% |
+| Party | Popular
+vote | FPTP
+seats
+(Number
+of
+districts
+won) | Party
+list PR
+seats | Total
+number
+of seats | Seats
+% |
 |------------|-----------------|-----------------------------------------------------|---------------------------|-----------------------------|------------|
-| Party<br>A | 43.91% | 64 | 44 | 108 | 54.0% |
-## | Party<br>B | 39.94% | 33 | 40 | 73 | 36.5% |
+| Party
+A | 43.91% | 64 | 44 | 108 | 54.0% |
+## | Party
+B | 39.94% | 33 | 40 | 73 | 36.5% |
 
-| Party<br>C | 9.98% | 0 | 10 | 10 | 5.0% |
+| Party
+C | 9.98% | 0 | 10 | 10 | 5.0% |
 |------------|-------|-----|-----|-----|------|
-| Party<br>D | 6.03% | 3 | 6 | 9 | 4.5% |
+| Party
+D | 6.03% | 3 | 6 | 9 | 4.5% |
 ## | TOTAL | 100% | 100 | 100 | 200 | 100% |
 
 The overall results are not proportional, although they are more balanced and fair than most single-winner first-past-the-post elections. Parallel voting is mostly [semi-proportional.](https://en.wikipedia.org/wiki/Semi-proportional_representation) [Mixed](https://en.wikipedia.org/wiki/Mixed_electoral_system) [systems](https://en.wikipedia.org/wiki/Mixed_electoral_system) are the most proportional if the additional members are allocated in a compensatory way.
@@ -517,145 +599,364 @@ Detailed information on electoral systems applying to the first chamber of the l
 
 [mixed-member majoritarian](https://en.wikipedia.org/wiki/Mixed-member_majoritarian_representation) (e.g. [parallel voting\)](https://en.wikipedia.org/wiki/Parallel_voting) system are not included.
 
-| Country | Body | Type of<br>body | Type of<br>proportional<br>system |
+| Country | Body | Type of
+body | Type of
+proportional
+system |
 |-----------|----------------------------------|-------------------------------------------|----------------------------------------------------------------------------|
-| Albania | Parliament<br>(Kuvendi) | Unicameral<br>national<br>legislature | Party-list PR |
-| Algeria | People's<br>National<br>Assembly | Lower house<br>of national<br>legislature | Party-list PR |
-| Angola | National<br>Assembly | Lower house<br>of national<br>legislature | Party-list PR |
-| Argentina | Chamber of<br>Deputies | Lower house<br>of national<br>legislature | Party-list PR |
-| Armenia | National<br>Assembly | Unicameral<br>national<br>legislature | Party-list PR<br>with majority<br>jackpot and<br>minority<br>jackpot [145] |
+| Albania | Parliament
+(Kuvendi) | Unicameral
+national
+legislature | Party-list PR |
+| Algeria | People's
+National
+Assembly | Lower house
+of national
+legislature | Party-list PR |
+| Angola | National
+Assembly | Lower house
+of national
+legislature | Party-list PR |
+| Argentina | Chamber of
+Deputies | Lower house
+of national
+legislature | Party-list PR |
+| Armenia | National
+Assembly | Unicameral
+national
+legislature | Party-list PR
+with majority
+jackpot and
+minority
+jackpot [145] |
 
-| Country | Body | Type of<br>body | Type of<br>proportional<br>system |
+| Country | Body | Type of
+body | Type of
+proportional
+system |
 |---------------------------------------------|---------------------|-----------------------------------------------------|-----------------------------------|
 | | | | |
 | | | | |
 | | | | |
 | | | | |
 | | | | |
-| Aruba<br>(Kingdom of<br>the<br>Netherlands) | Parliament | Unicameral<br>constituent<br>country<br>legislature | Party-list PR |
-| Australia | Senate | Upper house<br>of national<br>legislature | Single<br>transferable<br>vote |
-| Austria | National<br>Council | Lower house<br>of national | Party-list PR |
+| Aruba
+(Kingdom of
+the
+Netherlands) | Parliament | Unicameral
+constituent
+country
+legislature | Party-list PR |
+| Australia | Senate | Upper house
+of national
+legislature | Single
+transferable
+vote |
+| Austria | National
+Council | Lower house
+of national | Party-list PR |
 
-| Country | Body | Type of<br>body | Type of<br>proportional<br>system |
+| Country | Body | Type of
+body | Type of
+proportional
+system |
 |---------|-------------------------------|-------------------------------------------|-------------------------------------------------------------------------------------------------|
 | | | legislature | |
-| Belgium | Chamber of<br>Representatives | Lower house<br>of national<br>legislature | Party-list PR |
+| Belgium | Chamber of
+Representatives | Lower house
+of national
+legislature | Party-list PR |
 | Benin | | | Party-list PR |
-| Bolivia | Chamber of<br>Deputies | Lower house<br>of national<br>legislature | Additional<br>member<br>system<br>– MMP<br>(fixed number<br>of seats<br>– no<br>leveling seats) |
+| Bolivia | Chamber of
+Deputies | Lower house
+of national
+legislature | Additional
+member
+system
+– MMP
+(fixed number
+of seats
+– no
+leveling seats) |
 ## | | Chamber of | Upper house | Party-list PR |
 
-| Country | Body | Type of<br>body | Type of<br>proportional<br>system |
+| Country | Body | Type of
+body | Type of
+proportional
+system |
 |---------------------------|-----------------------------|-------------------------------------------|-----------------------------------|
-| | Senators | of national<br>legislature | |
-| Bosnia and<br>Herzegovina | House of<br>Representatives | Lower house<br>of national<br>legislature | Party-list PR |
-| Brazil | Chamber of<br>Deputies | Lower house<br>of national<br>legislature | Party-list PR |
-| Bulgaria | National<br>Assembly | Unicameral<br>national<br>legislature | Party-list PR |
-| Burkina Faso | National<br>Assembly | Unicameral<br>national<br>legislature | Party-list PR |
-| Burundi | National<br>Assembly | Lower house<br>of national<br>legislature | Party-list PR |
+| | Senators | of national
+legislature | |
+| Bosnia and
+Herzegovina | House of
+Representatives | Lower house
+of national
+legislature | Party-list PR |
+| Brazil | Chamber of
+Deputies | Lower house
+of national
+legislature | Party-list PR |
+| Bulgaria | National
+Assembly | Unicameral
+national
+legislature | Party-list PR |
+| Burkina Faso | National
+Assembly | Unicameral
+national
+legislature | Party-list PR |
+| Burundi | National
+Assembly | Lower house
+of national
+legislature | Party-list PR |
 
-| Country | Body | Type of<br>body | Type of<br>proportional<br>system |
+| Country | Body | Type of
+body | Type of
+proportional
+system |
 |-----------------------|-------------------------------|-------------------------------------------|-----------------------------------|
-| Cape Verde | National<br>Assembly | Unicameral<br>national<br>legislature | Party-list PR |
-| Chile | Chamber of<br>Deputies | Lower house<br>of national<br>legislature | Party-list PR |
-| Colombia | Chamber of<br>Representatives | Lower house<br>of national<br>legislature | Party-list PR |
-| | Senate | Upper house<br>of national<br>legislature | Party-list PR |
+| Cape Verde | National
+Assembly | Unicameral
+national
+legislature | Party-list PR |
+| Chile | Chamber of
+Deputies | Lower house
+of national
+legislature | Party-list PR |
+| Colombia | Chamber of
+Representatives | Lower house
+of national
+legislature | Party-list PR |
+| | Senate | Upper house
+of national
+legislature | Party-list PR |
 | Costa Rica | | | Party-list PR |
 | Croatia | | | Party-list PR |
 | Cyprus | | | Party-list PR |
-| Czech<br>Republic[73] | | | Party-list PR |
-| Denmark | Folketing | Unicameral<br>national<br>legislature | Party-list PR |
-| Dominican<br>Republic | | | Party-list PR |
+| Czech
+Republic[73] | | | Party-list PR |
+| Denmark | Folketing | Unicameral
+national
+legislature | Party-list PR |
+| Dominican
+Republic | | | Party-list PR |
 | Ecuador | National | Unicameral | Party-list PR |
 
-| Country | Body | Type of<br>body | Type of<br>proportional<br>system |
+| Country | Body | Type of
+body | Type of
+proportional
+system |
 |----------------------|---------------------------|---------------------------------------------------|--------------------------------------------------------|
-| | Congress | national<br>legislature | |
-| El Salvador | Legislative<br>Assembly | Unicameral<br>national<br>legislature | Party-list PR |
-| Equatorial<br>Guinea | | | Party-list PR |
+| | Congress | national
+legislature | |
+| El Salvador | Legislative
+Assembly | Unicameral
+national
+legislature | Party-list PR |
+| Equatorial
+Guinea | | | Party-list PR |
 | Estonia | | | Party-list PR |
-| European<br>Union | European<br>Parliament | Lower house<br>of<br>supranational<br>legislature | Party-list PR in<br>25 member<br>states |
-| | | | Single<br>transferable<br>vote in Ireland<br>and Malta |
+| European
+Union | European
+Parliament | Lower house
+of
+supranational
+legislature | Party-list PR in
+25 member
+states |
+| | | | Single
+transferable
+vote in Ireland
+and Malta |
 | Faroe Islands | | | Party-list PR |
 | Fiji | | | Party-list PR |
-| Finland | Parliament<br>(Eduskunta) | Unicameral<br>national<br>legislature | Party-list PR |
+| Finland | Parliament
+(Eduskunta) | Unicameral
+national
+legislature | Party-list PR |
 
-| Country | Body | Type of<br>body | Type of<br>proportional<br>system |
+| Country | Body | Type of
+body | Type of
+proportional
+system |
 |------------------|------------------------------------|-------------------------------------------|---------------------------------------------------------------------------|
-| Germany | Federal<br>Assembly<br>(Bundestag) | Lower house<br>of national<br>legislature | Mixed-member<br>PR |
-| Greece | Parliament<br>(Boule) | Unicameral<br>national<br>legislature | Majority bonus<br>system<br>(reinforced<br>party-list<br>proportionality) |
+| Germany | Federal
+Assembly
+(Bundestag) | Lower house
+of national
+legislature | Mixed-member
+PR |
+| Greece | Parliament
+(Boule) | Unicameral
+national
+legislature | Majority bonus
+system
+(reinforced
+party-list
+proportionality) |
 | Greenland | | | Party-list PR |
 | Guatemala | | | Party-list PR |
-| Guinea<br>Bissau | | | Party-list PR |
+| Guinea
+Bissau | | | Party-list PR |
 | Guyana | | | Party-list PR |
 | Honduras | | | Party-list PR |
 | Iceland | | | Party-list PR |
-| Indonesia | House of<br>Representatives | Lower house<br>of national<br>legislature | Party-list PR |
+| Indonesia | House of
+Representatives | Lower house
+of national
+legislature | Party-list PR |
 
-| Country | Body | Type of<br>body | Type of<br>proportional<br>system |
+| Country | Body | Type of
+body | Type of
+proportional
+system |
 |---------------|------------------------|-------------------------------------------|-----------------------------------|
-| Ireland | Dáil Éireann | Lower house<br>of national<br>legislature | Single<br>transferable<br>vote |
-| | | | seats with 3-5<br>members |
-| Israel | Knesset | Unicameral<br>national<br>legislature | Party-list PR |
+| Ireland | Dáil Éireann | Lower house
+of national
+legislature | Single
+transferable
+vote |
+| | | | seats with 3-5
+members |
+| Israel | Knesset | Unicameral
+national
+legislature | Party-list PR |
 | Kosovo | | | Party-list PR |
-| Latvia | Saeima | Unicameral<br>national<br>legislature | Party-list PR |
+| Latvia | Saeima | Unicameral
+national
+legislature | Party-list PR |
 | Lebanon | | | Party-list PR |
-| Lesotho | | | Mixed-member<br>PR |
-| Liechtenstein | Landtag | Unicameral<br>national<br>legislature | Party-list PR |
-| Luxembourg | Chamber of<br>Deputies | Unicameral<br>national<br>legislature | Party-list PR |
+| Lesotho | | | Mixed-member
+PR |
+| Liechtenstein | Landtag | Unicameral
+national
+legislature | Party-list PR |
+| Luxembourg | Chamber of
+Deputies | Unicameral
+national
+legislature | Party-list PR |
 
-| Country | Body | Type of<br>body | Type of<br>proportional<br>system |
+| Country | Body | Type of
+body | Type of
+proportional
+system |
 |-------------|-----------------------------|-------------------------------------------|-----------------------------------|
 | Macedonia | | | Party-list PR |
-| Malta | | | Single<br>transferable<br>vote |
+| Malta | | | Single
+transferable
+vote |
 | Moldova | | | Party-list PR |
 | Montenegro | | | Party-list PR |
 | Mozambique | | | Party-list PR |
 | Namibia | | | Party-list PR |
-| Netherlands | House of<br>Representatives | Lower house<br>of national<br>legislature | Party-list PR |
-| New Zealand | House of<br>Representatives | Unicameral<br>national<br>legislature | Mixed-member<br>PR |
-| Nepal | | | Mixed-member<br>PR |
+| Netherlands | House of
+Representatives | Lower house
+of national
+legislature | Party-list PR |
+| New Zealand | House of
+Representatives | Unicameral
+national
+legislature | Mixed-member
+PR |
+| Nepal | | | Mixed-member
+PR |
 | Norway | | | Party-list PR |
 | Palestine | | | Party-list PR |
 | Paraguay | | | Party-list PR |
 ## | Peru | | | Party-list PR |
 
-| Country | Body | Type of<br>body | Type of<br>proportional<br>system |
+| Country | Body | Type of
+body | Type of
+proportional
+system |
 |--------------------------|------|-------------------------------------------|-------------------------------------------------------------------|
-| Poland | Sejm | Lower house<br>of national<br>legislature | Party-list PR |
+| Poland | Sejm | Lower house
+of national
+legislature | Party-list PR |
 | Portugal | | | Party-list PR |
 | Romania | | | Party-list PR |
 | Rwanda | | | Party-list PR |
-| San Marino | | | Party-list PR<br>with<br>contingent<br>majority<br>jackpot runoff |
-| São Tomé<br>and Príncipe | | | Party-list PR |
+| San Marino | | | Party-list PR
+with
+contingent
+majority
+jackpot runoff |
+| São Tomé
+and Príncipe | | | Party-list PR |
 | Serbia | | | Party-list PR |
 ## | Sint Maarten | | | Party-list PR |
 
-| Country | Body | Type of<br>body | Type of<br>proportional<br>system |
+| Country | Body | Type of
+body | Type of
+proportional
+system |
 |--------------|-------------------------|-------------------------------------------|-------------------------------------|
 | Slovakia | | | Party-list PR |
 | Slovenia | | | Party-list PR |
 | South Africa | | | Party-list PR |
-| Spain | Congress of<br>Deputies | Lower house<br>of national<br>legislature | Party-list<br>PR[149] |
-| Sri Lanka | Parliament | | Party-list<br>PR[150][151]<br>[152] |
-| Suriname | National<br>Assembly | | Party-list<br>PR[154] |
+| Spain | Congress of
+Deputies | Lower house
+of national
+legislature | Party-list
+PR[149] |
+| Sri Lanka | Parliament | | Party-list
+PR[150][151]
+[152] |
+| Suriname | National
+Assembly | | Party-list
+PR[154] |
 ## | Sweden | Riksdag | | Party-list |
 
-| Country | Body | Type of<br>body | Type of<br>proportional<br>system |
+| Country | Body | Type of
+body | Type of
+proportional
+system |
 |-------------|-----------------------------------------------------------------------------------------------|-------------------------------------------|-----------------------------------|
 | | | | PR[155][156] |
-| Switzerland | National<br>Council | Lower house<br>of national<br>legislature | Party-list<br>PR[158] |
-| | Council of<br>States<br>(only to elect<br>Councillors in:<br>• Jura[161]<br>• Neuchâtel)[161] | | Party-list<br>PR[162] |
-| Thailand | House of<br>Representatives | Lower house<br>of national<br>legislature | Mixed-member<br>PR[165] |
+| Switzerland | National
+Council | Lower house
+of national
+legislature | Party-list
+PR[158] |
+| | Council of
+States
+(only to elect
+Councillors in:
+• Jura[161]
+• Neuchâtel)[161] | | Party-list
+PR[162] |
+| Thailand | House of
+Representatives | Lower house
+of national
+legislature | Mixed-member
+PR[165] |
 | Timor-Leste | | | Party-list PR |
-| Togo | National<br>Assembly | | Party-list<br>PR[166] |
+| Togo | National
+Assembly | | Party-list
+PR[166] |
 | Tunisia | Assembly of the | Lower house | Party-list |
 
-| Country | Body | Type of<br>body | Type of<br>proportional<br>system |
+| Country | Body | Type of
+body | Type of
+proportional
+system |
 |---------|----------------------------------|-------------------------------------------|-----------------------------------|
-| | Representatives<br>of the People | of national<br>legislature | PR[167] |
-| Turkey | Grand National<br>Assembly | Unicameral<br>national<br>legislature | Party-list<br>PR[168] |
-| Uruguay | Chamber of<br>Representatives | Lower house<br>of national<br>legislature | Party-list<br>PR[169][170] |
-| | Chamber of<br>Senators | Upper house<br>of national<br>legislature | |
+| | Representatives
+of the People | of national
+legislature | PR[167] |
+| Turkey | Grand National
+Assembly | Unicameral
+national
+legislature | Party-list
+PR[168] |
+| Uruguay | Chamber of
+Representatives | Lower house
+of national
+legislature | Party-list
+PR[169][170] |
+| | Chamber of
+Senators | Upper house
+of national
+legislature | |
 
 ## **Incentives for choosing an electoral system**
 
@@ -825,7 +1126,7 @@ Company.
 - 128. ^ ["The Hare-Clark System of Proportional Representation"](http://www.prsa.org.au/hareclar.htm). Melbourne: Proportional Representation Society of Australia. Retrieved 21 November 2014.
 - 129. ^ ["Adoption of Plan E"](https://web.archive.org/web/20141213015655/http://www.cambridgema.gov/election/programsandservices/cambridgemunicipalelections/Cambridge-City-Charter/adoptionofplane.aspx). Welcome to the City of Cambridge. City of Cambridge, MA. Archived from [the original](http://www.cambridgema.gov/election/programsandservices/cambridgemunicipalelections/Cambridge-City-Charter/adoptionofplane.aspx) on 13 December 2014. Retrieved 25 November 2014.
 
-- 130. ^ Charles Harry John Phillips, Challenges to the Voting System in Canada 1874–1974, University of Western Ontario, PhD thesis, 1976 (available on-line [https://ir.lib.uwo.ca/cgi/](https://ir.lib.uwo.ca/cgi/viewcontent.cgi?article=1860&context=digitizedtheses) [viewcontent.cgi?article=1860&context=digitizedtheses\)](https://ir.lib.uwo.ca/cgi/viewcontent.cgi?article=1860&context=digitizedtheses) <https://ir.lib.uwo.ca/digitizedtheses/861/>
+- 130. ^ Charles Harry John Phillips, Challenges to the Voting System in Canada 1874–1974, University of Western Ontario, PhD thesis, 1976 (available on-line [https://ir.lib.uwo.ca/cgi/](https://ir.lib.uwo.ca/cgi/viewcontent.cgi?article=1860&context=digitizedtheses) [viewcontent.cgi?article=1860&context=digitizedtheses\)](https://ir.lib.uwo.ca/cgi/viewcontent.cgi?article=1860&context=digitizedtheses) 
 - 131. ^ ["Proportional representation systems for Canada"](https://www.fairvote.ca/introprsystems/).
 - 132. ^ ["Proportional Representation in Most Robust Democracies"](http://www.fairvote.org/proportional_representation_in_most_robust_democracies). Fair Vote: The Center for Voting And Democracy. 7 March 2016. Retrieved 9 October 2017.
 - 133. ^ ["India - First Past the Post on a Grand Scale —"](https://aceproject.org/main/english/es/esy_in.htm).

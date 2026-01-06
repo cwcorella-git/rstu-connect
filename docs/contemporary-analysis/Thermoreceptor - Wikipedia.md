@@ -1,3 +1,8 @@
+---
+title: "[Thermoreceptor](https://en.wikipedia.org/wiki/Main_Page)"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_2.jpeg)
 
 # [Thermoreceptor](https://en.wikipedia.org/wiki/Main_Page)

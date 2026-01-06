@@ -1,3 +1,8 @@
+---
+title: "## **RESCHEDULE: Financial Transparency Meetings**"
+category: "feminist-theory"
+---
+
 ## **RESCHEDULE: Financial Transparency Meetings**
 
 ## **Date:** 2025-07-14

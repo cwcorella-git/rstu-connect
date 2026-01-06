@@ -1,3 +1,8 @@
+---
+title: "**No Coal in Oakland: a Report on the Campaign**"
+category: "labor"
+---
+
 # **No Coal in Oakland: a Report on the Campaign**
 
 ## **Date:** Mon, 08/01/2016 - 00:00
@@ -56,13 +61,25 @@ People could participate easily. A supporter could contribute by simply signing 
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Pro-coal |
 | Developers and operators |
-| Initially the face of the pro-coal forces was Phil Tagami, the President and Chief Executive<br>Officer of California Capital and Investment Group (CCIG), the developer chosen to build the<br>marine facility at the former army base. Tagami was known for the renovations of the Rotunda<br>Building in Frank Ogawa/Oscar Grant Plaza, opposite City Hall, and of the nearby Fox<br>Theater—both projects relying on public financing while garnering private profit. He is also<br>politically well-connected, having served on the Port Commission, the state Lottery<br>Commission, and other public agencies. He has close ties to Governor Brown, with whom he<br>owns property. ( |
-| http://nocoalinoakland.info/jerry-brown-remains-silent-on-coal-as-his-financial-ties-to-develop<br>er-are-exposed/ |
+| Initially the face of the pro-coal forces was Phil Tagami, the President and Chief Executive
+Officer of California Capital and Investment Group (CCIG), the developer chosen to build the
+marine facility at the former army base. Tagami was known for the renovations of the Rotunda
+Building in Frank Ogawa/Oscar Grant Plaza, opposite City Hall, and of the nearby Fox
+Theater—both projects relying on public financing while garnering private profit. He is also
+politically well-connected, having served on the Port Commission, the state Lottery
+Commission, and other public agencies. He has close ties to Governor Brown, with whom he
+owns property. ( |
+| http://nocoalinoakland.info/jerry-brown-remains-silent-on-coal-as-his-financial-ties-to-develop
+er-are-exposed/ |
 | ) |
-| He was also known for standing at the doors to the Rotunda Building with a shotgun when<br>Occupy Oakland took over the plaza. ( |
-| http://www.sfgate.com/bayarea/article/Developer-with-shotgun-scared-off-Oakland-rioters-23<br>24498.php |
+| He was also known for standing at the doors to the Rotunda Building with a shotgun when
+Occupy Oakland took over the plaza. ( |
+| http://www.sfgate.com/bayarea/article/Developer-with-shotgun-scared-off-Oakland-rioters-23
+24498.php |
 | ) |
-| His initial assertion that the Oakland Bulk and Oversized Terminal (OBOT) would not involve<br>coal is documented in his own newsletter and in conversation reported by Council Member<br>Dan Kalb. (See quote from newsletter in |
+| His initial assertion that the Oakland Bulk and Oversized Terminal (OBOT) would not involve
+coal is documented in his own newsletter and in conversation reported by Council Member
+Dan Kalb. (See quote from newsletter in |
 
 http://ww2.kqed.org/news/2015/07/06/oakland-mayor-port-developer-in-dispute-over-plan-to-ship-coal/
 
@@ -500,18 +517,24 @@ A crucial component of defeating the coal terminal was presenting the City Counc
 
 https://d3n8a8pro7vhmx.cloudfront.net/350bayarea/pages/2409/attachments/original/1445119795/Comment\_-\_No\_Coal\_in\_Oakland\_with\_Hyperlinks.pdf?1445119795
 
-| (e) All documents related to the coal issue, both those submitted to the City and those written<br>by city staff can be found at the City's website at |
+| (e) All documents related to the coal issue, both those submitted to the City and those written
+by city staff can be found at the City's website at |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| http://www2.oaklandnet.com/Government/o/City Administration/d/Neighborhood Investment/O<br>AK038485 |
+| http://www2.oaklandnet.com/Government/o/City Administration/d/Neighborhood Investment/O
+AK038485 |
 | |
 | (f) The report of the independent panel is at: |
 | http://www.humanimpact.org/news/health-risks-of-coal-transport/|
-| There were two other reports, one by a public health expert (Zoë Chafe), hired by the council<br>member sponsoring the ordinance to ban coal, and one by an environmental consulting firm<br>(Environmental Science Associates, or ESA), hired by the City and working with the City staff.<br>(These can be found at |
+| There were two other reports, one by a public health expert (Zoë Chafe), hired by the council
+member sponsoring the ordinance to ban coal, and one by an environmental consulting firm
+(Environmental Science Associates, or ESA), hired by the City and working with the City staff.
+(These can be found at |
 | http://www2.oaklandnet.com/oakca1/groups/ceda/documents/report/oak059408.pdf|
 | [Chafe] and |
 | http://www2.oaklandnet.com/oakca1/groups/ceda/documents/report/oak059404.pdf|
 | [ESA].) |
-| Together, all these documents provide the "substantial evidence" that justifies the City's<br>authority to ban coal under the Development Agreement. |
+| Together, all these documents provide the "substantial evidence" that justifies the City's
+authority to ban coal under the Development Agreement. |
 ## | Plan B |
 
 Although we focused on winning the ban by the Oakland City Council, we pursued several possible back-up plans.

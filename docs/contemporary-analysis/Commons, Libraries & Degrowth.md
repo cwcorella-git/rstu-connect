@@ -1,3 +1,8 @@
+---
+title: "**Commons, Libraries & Degrowth**"
+category: "contemporary-analysis"
+---
+
 ## **Andrewism**
 
 # **Commons, Libraries & Degrowth**

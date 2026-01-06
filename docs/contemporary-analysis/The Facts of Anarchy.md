@@ -1,3 +1,8 @@
+---
+title: "## **Itō Noe**"
+category: "contemporary-analysis"
+---
+
 ## **Itō Noe**
 
 ## **The Facts of Anarchy**

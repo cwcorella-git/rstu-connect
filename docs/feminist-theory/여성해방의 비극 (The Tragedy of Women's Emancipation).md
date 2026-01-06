@@ -1,3 +1,8 @@
+---
+title: "## **여성해방의 비극 (The Tragedy of Women's Emancipation)**"
+category: "feminist-theory"
+---
+
 ## **여성해방의 비극 (The Tragedy of Women's Emancipation)**
 
 ## **Author:** Emma Goldman

@@ -1,3 +1,8 @@
+---
+title: "## **The Green New Deal is Only a Beginning**"
+category: "environmental-justice"
+---
+
 ## **The Green New Deal is Only a Beginning**
 
 ## **Date:** Fri, 06/21/2019 - 17:18

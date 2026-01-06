@@ -1,15 +1,10 @@
 ---
-title: 'Arcology: The City in the Image of Man'
-author: Paolo Soleri
-slug: arcology-city-image-man
-date: 1970
-tags:
-  - housing
-  - tenants
-  - unions
-  - rent
-  - prisons
+title: "Arcology: The City in the Image of Man"
+author: "Paolo Soleri"
+date: "1970"
+category: "housing"
 ---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 ## ![](_page_1_Picture_0.jpeg)
@@ -96,28 +91,45 @@ Now that the energy crisis is catching up with our consciousness (if not conscie
 
 ## Preface
 
-| 1 Utopia<br>2 The Map of Despair<br>Ecumenopoly (1) | 1<br>2 |
+| 1 Utopia
+2 The Map of Despair
+Ecumenopoly (1) | 1
+2 |
 |----------------------------------------------------------|--------|
 | Arcology (2) | |
-| 3 Miniaturization<br>Miniaturization (3) | 2 |
+| 3 Miniaturization
+Miniaturization (3) | 2 |
 | Universal Miniaturization (4) | |
 | Miniaturization and Space (5) | |
-| 4 Equity and Congruence<br>Equity without Congruence (6) | 5 |
+| 4 Equity and Congruence
+Equity without Congruence (6) | 5 |
 | Equity with Congruence (7) | |
-| 5 The Condition of Man<br>The Condition of Man (8) | 6 |
+| 5 The Condition of Man
+The Condition of Man (8) | 6 |
 ## | | |
 
 | Axiality (9) | |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------|----|
 | Casualness (10) | |
 | 6 Yesterday's City and Today's Reality | 7 |
-| 7 Structure and Performance<br>Structure and Performance (11) | 8 |
+| 7 Structure and Performance
+Structure and Performance (11) | 8 |
 | 8 Life Is in the (Qualified) Thick of Things | 9 |
-| 9 The Bulb of Reality<br>Animal World (12) | 10 |
-| The World of Man and Society (13)<br>The Disassociated Human World (14) | |
-| 10 Priority Chart<br>Priority Chart (15)<br>Priority Chart (16) | 11 |
-| 11 The Organism of a Thousand Minds<br>The Biological Organism (17)<br>The Arcological Organism (the City) (18) | 12 |
-| 12 Arcology: The City in the Image of Man 13<br>Islands, Barriers, and Scattered Limbs (19)<br>Wholeness and Flux (20)<br>The Reach (21)<br>The Waste (22) | |
+| 9 The Bulb of Reality
+Animal World (12) | 10 |
+| The World of Man and Society (13)
+The Disassociated Human World (14) | |
+| 10 Priority Chart
+Priority Chart (15)
+Priority Chart (16) | 11 |
+| 11 The Organism of a Thousand Minds
+The Biological Organism (17)
+The Arcological Organism (the City) (18) | 12 |
+| 12 Arcology: The City in the Image of Man 13
+Islands, Barriers, and Scattered Limbs (19)
+Wholeness and Flux (20)
+The Reach (21)
+The Waste (22) | |
 | The Automobile and the Asphalt Nightmare (23) | |
 
 | Life as Flesh (25) | |
@@ -125,25 +137,54 @@ Now that the energy crisis is catching up with our consciousness (if not conscie
 | Apes and Men (26) | |
 | 13 The Characteristics of Arcology | |
 | 14 The Wastes | |
-| 15 Man on Earth<br>The Borderline is a Complex Membrane (27)<br>Compassionate Man and Statistical Universe (28)<br>The Man-Made: Neonature (29)<br>Science-Technology Cycle (30)<br>Craft (31)<br>Extravaganza's Involution (32)<br>Aesthetogenesis (33)<br>The Dead End (34) | |
+| 15 Man on Earth
+The Borderline is a Complex Membrane (27)
+Compassionate Man and Statistical Universe (28)
+The Man-Made: Neonature (29)
+Science-Technology Cycle (30)
+Craft (31)
+Extravaganza's Involution (32)
+Aesthetogenesis (33)
+The Dead End (34) | |
 | The Etherialization (35) | |
-| 16 Residual Anguish<br>Residual Anguish (36) | |
-| 17 Leisure<br>The Individual Emergence (37)<br>Means and Ends (38) | |
-| 18 Procedures<br>The Phoenix (39) | |
+| 16 Residual Anguish
+Residual Anguish (36) | |
+| 17 Leisure
+The Individual Emergence (37)
+Means and Ends (38) | |
+| 18 Procedures
+The Phoenix (39) | |
 ## | | |
 
 ## **Life as Varnish (24)**
 
-| | The Tornado (40)<br>The Land (41)<br>The Seas (42) | |
+| | The Tornado (40)
+The Land (41)
+The Seas (42) | |
 |--|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----|
-| | 19 Arcology for the Individual<br>The Statistical/Rational Pot<br>and the Poststatistical/Postrational Onion (43)<br>Ownership (44)<br>Use (45) | 25 |
-| | 20 Nature — Neonature — Man<br>Time and Duration (46)<br>Tenuity and Roundness (47)<br>The Plumbing for Reflection (48) | 26 |
-| | 21 Science and Human Environment<br>The Pulse of Life (49)<br>The Puddle and the River (50)<br>Man the Discoverer (51)<br>Man the Creator (52)<br>Structure and Form (53)<br>Amorphism and Structuration (54) | 27 |
-| | 22 Free Enterprise and Aesthetogenesis<br>Fate and Destiny (55) | 29 |
+| | 19 Arcology for the Individual
+The Statistical/Rational Pot
+and the Poststatistical/Postrational Onion (43)
+Ownership (44)
+Use (45) | 25 |
+| | 20 Nature — Neonature — Man
+Time and Duration (46)
+Tenuity and Roundness (47)
+The Plumbing for Reflection (48) | 26 |
+| | 21 Science and Human Environment
+The Pulse of Life (49)
+The Puddle and the River (50)
+Man the Discoverer (51)
+Man the Creator (52)
+Structure and Form (53)
+Amorphism and Structuration (54) | 27 |
+| | 22 Free Enterprise and Aesthetogenesis
+Fate and Destiny (55) | 29 |
 | | 23 Summary | 31 |
 ## | | | |
 
-| Part Two:<br>Thirty Arcologies | |
+| Part Two:
+Thirty Arcologies | |
 |--------------------------------|----|
 | Comparative Densities | 33 |
 | Comparative Densities | 34 |
@@ -593,89 +634,7 @@ To position the meaning of arcology so that the hindrance of the present becomes
 
 ## *wealth of a sustained duration.* (Fig. 46)
 
-5. Man operates horizontally. The field of his c stant influence is an extended space limited b\ zontal planes six to eight feet apart. As a cor *the most direct, shortest, most efficient, comf. nomic, and organic composition for the inte^a^ many men, of society, is vertically oriented, p< to the plane of action.* (Fig. 26) Complexity, th life, requires functional denseness. Logisticall obtainable only through organizational frugali pactness.
-
-## ![](_page_24_Picture_19.jpeg)
-
-## ![](_page_25_Picture_1.jpeg)
-
-## ![](_page_25_Picture_2.jpeg)
-
-**A** double pull works on man: **(1)** *The pull of what has been,* mainly prehistoric animality; therefore the primeval urges, the leasing of one's self to the omnipresent whole, the terror in it, the exhilaration of muscular prowess, instincts, joys, and fears in a cosmos that is so awesome. (2) *The pull of what will be,* weightless in its nonexisting form, arbitrary at the low price of its fancying, dogmatic, drained as it is of the sap of reality, and artificial.
-
-But man is prey to a much more real artificiality. He is always leaving nature, seeking the haven his mind prods him into seeing there, just around the last vestigials of the unconscious and vegetative. Leaving nature behind proves to be blood, tears, and even more, squalor, quite possibly all unnecessary.
-
-The fullness of man's life may lie in the balance between instinctive longing that reaches down through the flesh of ancestry and an intellectual unrest that seeks an etherialized universe. *Thus, man is positioned at the welding point where at the one " window" nature and wilderness are at sight and touch, and at the other is the mechanism of the man-made, displaying bold forms, sympathetic shelter, and a wealth of care and power for the human condition.* (Fig. 27)
-
-If society is able to put man on this borderline of nature and neonature (one displaying its unlimited and taletelling structure—the other, a superstructure, the new world man is creating) and keep him at the same time as a vital citizen, it is there at the cleavage point that man, the lonely individual, may seek and find identification.
-
-This identification translates physically into the container of his life and work, the home, in the whole and in the details such a life uses and expresses. Within it also is uninterrupted sowing for a richer present.
-
-This means that, if so inclined, the individual should be his own master builder. The fruits of technology will afford him this (see Leisure). Better education and a harmony-oriented society would be strong guidelines, channeling his expressions away from cleverness toward qualitative coherence. This coherence is fully colored by his own personal sensitivity but reflects whatever the body-social has given to him and is now articulated by him and reinserted as the infrastructure of society (the city).
-
-This is his contribution to the transfiguration of such structures into form (see Aesthetic Universe). *Neonature man is rooted in the earth landscape and seascape. The wealth and strength of his flight is founded* O: *the consciousness and in the sensing of such rooting, on the nursing and care in him and around him of that which is " earth oriented."*
-
-## **The Social (Collective) Premises**
-
-The social superorganism, contriving and nursing mores, culture, and destinies, lives within the physical, social body. Its metamorphoses are not sequences of obsolescent skins and interior gadgetries but the slow or rapid emergence of the new from within the historically real. (Fig. 28) The practical as a frozen likeness of the real is obsolescence. *A function of the real is to confine the practical to its function of lubricant in the cogs of the evolving present.* Then the structure of the bodysocial is slowly invested with the flesh of humanness, and its form disengages itself into freedom. The skeleton (structure) finds delivery from immobility through the supple exercise of the whole muscle-flex system, the superstructure. (The real thus becomes aesthetic and defies obsolescence.) (Figs. 33, 35, 38) So it is that the present may loose the brittleness of a flaking plane (obsolescence) separating an estranged past from a foreign future and may become instead the powerful thrust of an engrossing past pressing against that which is not yet.
-
-This shows the need for a spatial tridimensionality of large proportions (arcology) capable of letting life run throughout in every direction in conspicuous flow and in " warm" surroundings, with the energies stored in it by a not-obsolescent past; only this flow can carry and power the dynamics of ever-changing reality. (Fig. 50)
-
-## **The Instrumental (The Technological World) Premises**
-
-Defining neonature as all that was, is, and will be "manmade," a nature filtered and manipulated by man's mind and hands, this neonature can be grossly divided into two kinds: the instrumental and the aesthetic. (Fig. 38) A third, as residual from the two not in size but in meaning, is extravaganza. (Fig. 29) As in the blackest black an element of whiteness still persists and in the whitest white an element of blackness, so the pure technological does not exist any more than the pure aesthetic.
-
-*The technological could be defined as the substructure of the aesthetic which is essentially " formal,"* that is to say, the superstructuration engendered by man's compassion on the structure of existing things. Compassion in this context I regard as the fire that makes the purely just overreach itself into the genuinely human. Form would thus be the overreaching of structure. By this, structure finds its own full significance. *As the universe is structure, the purpose of life is to take hold of it and help it to find its meaning, its form. Man is the eyes and the ears of a blind and dumb universe.*
-
-At the hinge point where structure interlocks or transfigures into form, and partakes of both in function and meaning, is the crafted—that neonature that more aptly shows by the biotechnical character of its form the ties man has with nature, while at the same time indicating clearly the resort of the species to artificial instruments and media for extending its control and manipulation of things instead of the constant development of new somatic " tools." There is no symmetry between the two kinds, nor is craftsmanship constantly the separative or connective third kind.
-
-## ![](_page_25_Picture_19.jpeg)
-
-## ![](_page_26_Figure_0.jpeg)
-
-The situation can be illustrated by a man with no tools and determined to make an object for a gift.
-
-- 1. The man has an idea, and feelings brush and whisper around him, an everyday condition.
-- 2. If a particular material or object was the starting point for the making of the gift, the man will try to act upon it according to what he " knows" to be its character. Thus, *working in the "nature of materials," the man works at least potentially as a craftsman.* (Fig. 31) *If the idea is the dominant factor and its expression occupies his attention almost entirely, the man at least potentially acts as an artist.* (Figs. 32, 33) The material will be more of a choice from necessity rather than preference. (It will be a reference.) Here then is the man and the intention as the avowed object (the fairly irrelevant category of such object: spoon, portrait, carriage, still life. . .).
-- 3. The man needs an intermediate element that will permit his action (energy) to modify that material or object, if as a craftsman he had made the choice or if he tends to proceed as an artist. *Whatever the medium, man must*
-
-*make an instrument.* He proceeds by tooling himself, and with the use of his energies or borrowing them he will then act. (Fig. 30)
-
-*In embryo, one has the craftsman and/or artist borrowing from the technologist the instruments he needs, the means of achieving a definite end;* man, the knife, and the carved splinter.
-
-Is this sequence a yardstick valid beyond the elementarily of the situation? If in the situation man is the demiurge and if he must keep this position no matter how complex the parameters may become, then this elementary pattern has universal validity. If this is so, our civilization is in mortal danger. What is happening is that the man got so wrapped up in the making of his tool (man the maker) as to lose view of the aim—the gift (man the creator). *The giving, not the making of a tool or the selling or the bartering, is the unmistakable sign of caring, and the weight of the giving is in the nonobsolescent value of the gift.*
-
-The reason why the refrigerator or the TV set is not " the gift" is not because it is still an end to a means; the handmade spoon is so, too. It is because they are only a means to an end. Life rejects, as it must, as fundamentally irrelevant everything not directly and " physically" touched by the care of man (that is, the combination of intelligence, vision, compassion, and human awe peculiar to the species). That which is not so touched is and remains purely instrumental and indeed marginal to the fiber of evolving man, no matter how complicated and stringent its walled-in rationality. The substantial irrelevance of instrumentality is hard to grasp when man himself suffers from the same lack of " finality" or sacramentality. (Fig. 34) The tool and the gift are heterogeneous in the sense that the soil and the fruits are in the natural world, or better, as the physical and biological rules are relevant to the fruition of life—relevant to life but meaningless as soon as life itself is canceled by the real. *Their relevance is one of functionality, not of meaningfulness.*
-
-Technology is instrumental neonature. (Fig. 38) In it structure and function are overriding conditions, and their unadorned presence is the best sign of efficiency and coherence. But no amount of efficiency (good design) will keep the instrument away from the annihilation of obsolescence. Indeed, *obsolescence is the sure measuring scale for the validity of neonature.* All of neonature that is obsolescent is instrumental, and the rate of obsolescence measures the decay of its validity. (Exception is made for those tools that are direct extensions of man's biological structure: the spoon is a good example, footwear, sight devices. . . .) All of neonature that is not obsolescent is aesthetic. In a more encompassing proposition one may add: *Of all that which exists, nature and neonature, the aesthetic is that part and only that part of neonature which is not obsolescent* (hence the distinction between the beautiful/natural and the aesthetic neonatural).
-
-*The validity of the instrumental is its functionality within historical terms (one minute-one century). It is because it functions. Aesthetic neonature creates its own validity by its mere existence. It "functions" because it is.* In the environmental field, neonature of the instrumental kind is " construction" (obsolescent). Neonature of the aesthetic kind is " architecture" (nonobsolescent). Physical permanence is not a pertinent aspect.
-
-Architecture becomes ecological when a scale and complexity "explosion" occurs, and the sheer physical proportions of the organism, together with the potentiality of the life within, become an ecological determinant. Society must decide if the environment is purely instrumental (obsolescent) or if it has to contain in itself a different validity: aesthetic. *It must be remembered that the aesthetic is not the absence of the functional but the shrouding of it with the compassion of man (a person).*
-
-## ![](_page_27_Picture_0.jpeg)
-
-The aesthetic shroud is not an overcoat but flesh, that is, a vectoriality— permanently meaningful. This is why it has to be compassion, not whim, or greed, or fear, or bigotry, or hypocrisy, or arrogance. . . . A structuralized environment is a skeletal configuration in quest of a form (the aesthetic shroud), and unless this quest is given full opportunity, the society living in such a skeleton will be willfully forfeiting its human prerogatives and putting itself in the lap of a protohuman rationality. The end of the road is the total robotization of the species. What is more and, in short, worse, is that the skeletal condition being fundamentally repellent to man and life, man himself tries to camouflage the dried bones with fanciful dresses. This is fraud at its classical best. *Its whimsical moments cannot conceal the utter squalor of which it is cause and effect in one. Extravaganza is involution.* The anguish, deeply buried or clearly exposed in the " work of art" (all of them), is an almost biological consciousness of this " living death" pervasively scattered over the earth, overpowering by sheer mass and idolized by stultified life. This is the dark future with a technology for technology's sake, and the many grim pictures given in literature will never convey the total nightmare of its advent. (Fig. 34)
-
-## **The Aesthetic Premises**
-
-The common confusion of the aesthetic with the extravagant makes it difficult to try to convey the relevance of the aesthetic. At best, it is considered a pleasant superfluity, helpful for a status-seeking frame of mind, one of the amenities of life. Any effort to make of it something more is futile unless its place is found in the center of historical life.
-
-As nothing survives time but that which is essential, the aesthetic is not a worthy burden to carry on unless it is the burden of life itself. *The core of life is aesthetic.*
-
-The burden of life, its underbrush cared for, is the grasping of a universe statistically driven, finding its structure (science), retranslating it in rational terms (will-technology), and superstructuralizing it into a " form" in the image of man. *Man's intensity shapes the natural world into the instrumental world to the point where the "critical temperature" reached, a metamorphosis of the instrumental, makes it into an aesthetocompassionate universe.* (Fig. 35)
-
-*The aim of man is an aesthetocompassionate universe:* aesthetic, compassionate, the two aspects of the living at its "living best." The living is only the living best. The rest is the aura of a past no longer pertinent. There is in the Western languages an undeniable indication of the central position of the aesthetic in the life of man: *the beautiful, il bello, le beau, el hermoso* . . .; it is in any and all fields the ultimate qualification. It is as if the redeeming power of the aesthetic could redirect even the most evil of evils toward a positive pattern.
-
-## ![](_page_27_Picture_7.jpeg)
-
-## ![](_page_28_Picture_0.jpeg)
-
-## **36. Residual Anguish**
-
-**16. Residual Anguish** Access from the structural to the formal is possible only by leaping over all the structural, logical, and just diaphragms when they prove themselves inept because their presence does not disentangle the state of anguish that preys on the individual. *The residual anguish that does not abate in the comfort of the rational, the logical, the just is a residual that life carries in itself as the pressure of an immense megamachine*, all-enveloping and all-powerful, to which life is a dependent and fragile filiation. (Fig. 36) The megamachine is the physical universe. The rules of the physical universe are not benign to man because the stuff he is made of is soft, delicate, impermanent and because performance in life is dependent upon very few gauges of all the unlimited substance of the physical.
-
-> The combination of powerful mental processes and the utter precariousness of living tissue cannot but produce this residual anxiety, impervious to all attacks if one excludes faith in a providence instituted by a divine guidance.
+5. Man operates horizontally. The field of his c stant influence is an extended space limited b\ zontal planes six to eight feet apart. As a cor *the most direct, shortest, most efficient, comf. nomic, and organic composition for the inte^a^ many men, of society, is vertically oriented, p The combination of powerful mental processes and the utter precariousness of living tissue cannot but produce this residual anxiety, impervious to all attacks if one excludes faith in a providence instituted by a divine guidance.
 
 Residual anguish demands a resolution that can be found in the hands of a God or that can be created by the mind and the hands of man. In the absence of an extrahuman faith, the alternative is the metamorphosis of the real by the aesthetic act. By way of it inward-bent anguish mutates into outward-moving compassion, carried and fused within the formal substance of the creative.
 
@@ -1703,53 +1662,7 @@ Theodiga Population 3. Top view: scale **20,000 1:10,000**
 
 Stonebow Population **4.** Top view: scale **200,000** 1:10,000
 
--joHA *Atf LlCO* S|<£TCt\*6. *19b\*,*
-
-## ![](_page_70_Picture_11.jpeg)
-
-Babel IIC has a spatial and working pattern that is reflective. It sees and reflects upon itself as an organism could if conjunctly hollowed out and endowed with a capacity for inner observation. There is the passive reflection from a mirror or the engaged reflection from, for instance, the human face. The second is the kind of reflection that activates the living. That one sees what one does not like to see, demands far more reflection, not less of it. Nonplenitude, the reflection of scarcity, is the dissatisfaction which urges new deeds and the relative efforts that they demand.
-
-The lack of reflection cancels one's own physiognomy. Man and society are more and more at a loss for lack of such physiognomy and the willingness to reflect on it. Cubism with its distraught rearrangements started to suggest that what we saw as wholes were possibly not only made up of parts but also that such parts might be illfitted for each other. After such disturbing reflection, refraction, and diffraction, followed the tearing and mutilating of the elements closer to every-day life. That which the artist sees, environment is. To find a coordination of the environment and to offer reflectivity, better reflection, is to reactivate a need for coherence.
-
-In Babel IIC there is a recoordination of the landscape and, one hopes, a better grade of reflectivity.
-
-This is, though, the kind of reflection that does not advocate a disemboweled organism. The novelty of seeing a person draped by his own 36 feet of digestive tract does not present much more than a vague recollection of things not yet well composed, and the jolt that such an apparition causes in an individual whose entrails are contained, stored away, in a more suitable place is only the natural reaction of coherence in the presence of noncoherence. For the ''expose-all" functionalist here is a reminder that the entrails of our buildings, far from being sophisticated packages of functions, are gross, overextended, overstated, inefficient pretentious, gadgets very much like a swollen respiratory and digestive system whose structure and co-ordination may well be doomed in a short, very short, time.
-
-## ![](_page_71_Figure_0.jpeg)
-
-## ![](_page_72_Figure_0.jpeg)
-
-## **Comparative Arcologies**
-
-## Asteromo Population
-
-## 3. Elevation: scale Theodiga Population
-
-## 4. Elevation: scale Stonebow
-
-Population 5. Elevation: scale **200,000 1:10,000**
-
-## 75,000 1:10,000 **20,000 1:10,000**
-
-doctor may have his own comeback in functional terms. A nurse can care for many patients; instead of room to room, she moves from home to home without the intermediate obstacles of weather, traffic, cost, time . . . and exhaustion. This fact alone will cut into the mammoth size of general hospitals and specialized clinics.
-
-2. The possibility of quick interaction between separate institutions of health through the structural co-ordination of the city and the minimal distances so defined makes possible any amount of desirable decentralization.
-
-constitutional flexibility is the fundamental dynamism that characterizes arcology.
-
-Manufacturing will be mostly in the underground ''universal spaces," administration and offices within the vertical structures. In the upper crown are grouped most of the high-learning facilities. The grounds bejow the city are given to playgrounds, promenades, parks, and gardens.
-
-## ![](_page_72_Picture_11.jpeg)
-
-## ![](_page_73_Picture_0.jpeg)
-
-# **11 . Arcanyon Arcanyon**
-
-(Any type of land structure) Population per kilometer Density Height
-
-300-500 meters 46.5 hectares; 112 acres/ linear kilometer **1:10,000**
-
-> 250.000 **1:10,000** 400.000 **1:10,000** 4,600 **1:10,000**
+-joHA *Atf LlCO* S| 250.000 **1:10,000** 400.000 **1:10,000** 4,600 **1:10,000**
 
 864/hectare; 350/acre
 
@@ -2207,24 +2120,7 @@ Infrababel is somewhat of an answer to geology in geological terms, but naturall
 
 ## ![](_page_108_Picture_10.jpeg)
 
-## / 9<
-
-## ![](_page_109_Figure_0.jpeg)
-
-| LIVING-WORKING | |
-|----------------|---------------|
-| | |
-| 4 | |
-| | |
-| | To the second |
-| | |
-## | | 1 |
-
-## (In a stone quarry)
-
-Population Density Height . Surface covered 1. Transverse section: scale **100,000** 1,343/hectare; 495/acre 400 meters 60 hectares; 148 acres 1:5,000
-
-## > 13,000 1:5,000
+## / 9 13,000 1:5,000
 
 **Arcoindian II** Population 2. Section and projection: 5,000
 

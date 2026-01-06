@@ -1,3 +1,8 @@
+---
+title: "## **When Women Stop - Everything Stops**"
+category: "feminist-theory"
+---
+
 ## **When Women Stop - Everything Stops**
 
 ## **Date:** Unknown

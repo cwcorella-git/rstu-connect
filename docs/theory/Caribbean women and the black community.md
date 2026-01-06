@@ -1,3 +1,8 @@
+---
+title: "## **Caribbean women and the black community**"
+category: "theory"
+---
+
 ## **Caribbean women and the black community**
 
 **Date:** Unknown

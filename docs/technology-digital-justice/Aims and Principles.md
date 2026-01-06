@@ -1,3 +1,8 @@
+---
+title: "## **Anarchist Federation**"
+category: "technology-digital-justice"
+---
+
 ## **Anarchist Federation**
 
 ## **Aims and Principles**

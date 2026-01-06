@@ -1,3 +1,8 @@
+---
+title: "## **Llamada a la solidaridad con Malanquismo**"
+category: "contemporary-analysis"
+---
+
 ## **Llamada a la solidaridad con Malanquismo**
 
 ## **Date:** Unknown

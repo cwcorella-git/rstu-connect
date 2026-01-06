@@ -1,3 +1,8 @@
+---
+title: "## **The Wobblies: a radical world history - Peter Cole**"
+category: "contemporary-analysis"
+---
+
 ## **The Wobblies: a radical world history - Peter Cole**
 
 ## **Date:** Unknown

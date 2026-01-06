@@ -1,62 +1,303 @@
+---
+title: "**'Left-Wing' Communism: An Infantile Disorder**"
+category: "contemporary-analysis"
+---
+
 ## **Resistance Marxist Library**
 
 # **'Left-Wing' Communism: An Infantile Disorder**
 
 ## **V. I. Lenin**
 
-| 2<br>'Left-Wing'<br>Communism:<br>An<br>Infantile<br>Disorder |
+| 2
+'Left-Wing'
+Communism:
+An
+Infantile
+Disorder |
 |--------------------------------------------------------------------------------------------------------------------------------------------------|
 | |
 | |
 | |
 | |
-| Acknowledgement:<br>"The<br>Communist<br>Parties<br>and<br>Parliamentarism"<br>©<br>Pluto<br>Press,<br>London;<br>reprinted<br>by<br>permission. |
-| Resistance<br>Books<br>1999<br>ISBN<br>0909196<br>88<br>5<br>Published<br>by<br>Resistance<br>Books,<br>resistancebooks.com |
+| Acknowledgement:
+"The
+Communist
+Parties
+and
+Parliamentarism"
+©
+Pluto
+Press,
+London;
+reprinted
+by
+permission. |
+| Resistance
+Books
+1999
+ISBN
+0909196
+88
+5
+Published
+by
+Resistance
+Books,
+resistancebooks.com |
 
 ## **Contents**
 
-| | Introduction<br>by<br>Doug<br>Lorimer<br> | 5 |
+| | Introduction
+by
+Doug
+Lorimer
+ | 5 |
 |--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
-| I. | A<br>popular<br>exposition<br>of<br>Bolshevik<br>strategy<br>&<br>tactics | 5 |
-| II. | The<br>origin<br>&<br>development<br>of<br>Bolshevism<br> | 6 |
-| III. | Parliamentary<br>democracy<br>&<br>the<br>proletarian<br>revolution<br> | 8 |
-| IV. | The<br>German<br>Revolution<br>and<br>the<br>German<br>communists<br> | 10 |
-| V. | Marxism<br>&<br>the<br>working-class<br>vanguard<br> | 13 |
-| VI. | Winning<br>over<br>the<br>vanguard<br>&<br>winning<br>over<br>the<br>masses<br> | 18 |
-| VII. | Mass<br>action<br>&<br>tactical<br>compromises<br> | 20 |
-| VIII. | Mass<br>action<br>&<br>the<br>united-front<br>tactic<br> | 23 |
-| I. | In<br>What<br>Sense<br>We<br>Can<br>Speak<br>of<br>the<br>International<br>Significance<br>of<br>the<br>Russian<br>Revolution<br> | 27 |
+| I. | A
+popular
+exposition
+of
+Bolshevik
+strategy
+&
+tactics | 5 |
+| II. | The
+origin
+&
+development
+of
+Bolshevism
+ | 6 |
+| III. | Parliamentary
+democracy
+&
+the
+proletarian
+revolution
+ | 8 |
+| IV. | The
+German
+Revolution
+and
+the
+German
+communists
+ | 10 |
+| V. | Marxism
+&
+the
+working-class
+vanguard
+ | 13 |
+| VI. | Winning
+over
+the
+vanguard
+&
+winning
+over
+the
+masses
+ | 18 |
+| VII. | Mass
+action
+&
+tactical
+compromises
+ | 20 |
+| VIII. | Mass
+action
+&
+the
+united-front
+tactic
+ | 23 |
+| I. | In
+What
+Sense
+We
+Can
+Speak
+of
+the
+International
+Significance
+of
+the
+Russian
+Revolution
+ | 27 |
 | | | |
-| II. | An<br>Essential<br>Condition<br>of<br>the<br>Bolsheviks'<br>Success<br> | 30 |
-| III. | The<br>Principal<br>Stages<br>in<br>the<br>History<br>of<br>Bolshevism<br> | 33 |
-| IV. | The<br>Struggle<br>Against<br>Which<br>Enemies<br>Within<br>the<br>Working-Class<br>Movement<br>Helped<br>Bolshevism<br>Develop,<br>Gain<br>Strength<br>&<br>Become<br>Steeled<br> | 37 |
+| II. | An
+Essential
+Condition
+of
+the
+Bolsheviks'
+Success
+ | 30 |
+| III. | The
+Principal
+Stages
+in
+the
+History
+of
+Bolshevism
+ | 33 |
+| IV. | The
+Struggle
+Against
+Which
+Enemies
+Within
+the
+Working-Class
+Movement
+Helped
+Bolshevism
+Develop,
+Gain
+Strength
+&
+Become
+Steeled
+ | 37 |
 | | | |
-| V. | 'Left-Wing'<br>Communism<br>in<br>Germany. | |
-| | The<br>Leaders,<br>the<br>Party,<br>the<br>Class,<br>the<br>Masses<br> | 44 |
-| VI. | Should<br>Revolutionaries<br>Work<br>in<br>Reactionary | |
-| | Trade<br>Unions? | 50 |
-| VII. | Should<br>We<br>Participate<br>in<br>Bourgeois<br>Parliaments?<br> | 58 |
-| VIII. | No<br>Compromises?<br> | 66 |
-| IX. | 'Left-Wing'<br>Communism<br>in<br>Great<br>Britain<br> | 75 |
-| X. | Several<br>Conclusions<br> | 86 |
-| Appendix<br> | | |
-| I. | The<br>split<br>Among<br>the<br>German<br>Communists<br> | 97<br>97 |
+| V. | 'Left-Wing'
+Communism
+in
+Germany. | |
+| | The
+Leaders,
+the
+Party,
+the
+Class,
+the
+Masses
+ | 44 |
+| VI. | Should
+Revolutionaries
+Work
+in
+Reactionary | |
+| | Trade
+Unions? | 50 |
+| VII. | Should
+We
+Participate
+in
+Bourgeois
+Parliaments?
+ | 58 |
+| VIII. | No
+Compromises?
+ | 66 |
+| IX. | 'Left-Wing'
+Communism
+in
+Great
+Britain
+ | 75 |
+| X. | Several
+Conclusions
+ | 86 |
+| Appendix
+ | | |
+| I. | The
+split
+Among
+the
+German
+Communists
+ | 97
+97 |
 ## | | | |
 
-| II. | The<br>Communists<br>&<br>the<br>Independents<br>in<br>Germany<br> | 98 |
+| II. | The
+Communists
+&
+the
+Independents
+in
+Germany
+ | 98 |
 |-----------------------------------------------------------------------------|----------------------------------------------------------------------|-----|
-| III. | Turati<br>and<br>Co.<br>in<br>Italy<br> | 100 |
-| IV. | False<br>conclusions<br>from<br>correct<br>premises<br> | 101 |
+| III. | Turati
+and
+Co.
+in
+Italy
+ | 100 |
+| IV. | False
+conclusions
+from
+correct
+premises
+ | 101 |
 | V. | | 105 |
-| Appendix<br>1:<br>The<br>Communist<br>Parties<br>&<br>Parliamentarism<br> | | |
-| Appendix<br>2:<br>On<br>the<br>United<br>Front<br>by<br>Leon<br>Trotsky<br> | | 115 |
-| I. | General<br>considerations<br>on<br>the<br>united<br>front<br> | 119 |
-| II. | Groupings<br>in<br>the<br>French<br>labour<br>movement<br> | 120 |
-| Ill. | The<br>trade<br>union<br>movement<br>&<br>the<br>united<br>front<br> | 121 |
-| IV. | The<br>political<br>struggle<br>&<br>the<br>united<br>front<br> | 124 |
-| V. | Internal<br>tasks<br>of<br>the<br>Communist<br>Party<br> | 129 |
-| Notes<br> | | 132 |
-## | Glossary<br> | | 138 |
+| Appendix
+1:
+The
+Communist
+Parties
+&
+Parliamentarism
+ | | |
+| Appendix
+2:
+On
+the
+United
+Front
+by
+Leon
+Trotsky
+ | | 115 |
+| I. | General
+considerations
+on
+the
+united
+front
+ | 119 |
+| II. | Groupings
+in
+the
+French
+labour
+movement
+ | 120 |
+| Ill. | The
+trade
+union
+movement
+&
+the
+united
+front
+ | 121 |
+| IV. | The
+political
+struggle
+&
+the
+united
+front
+ | 124 |
+| V. | Internal
+tasks
+of
+the
+Communist
+Party
+ | 129 |
+| Notes
+ | | 132 |
+## | Glossary
+ | | 138 |
 
 ### **Introduction**
 
@@ -374,7 +615,7 @@
 
 *The Bolsheviks' boycott of "parliament" in 1905 enriched the revolutionary proletariat with highly valuable political experience and showed that, when legal and illegal, parliamentary and non-parliamentary forms of struggle are combined, it is sometimes useful and even essential to reject parliamentary forms. It would, however, be highly erroneous to apply this experience blindly, imitatively and uncritically to other conditions and othersituations. The Bolsheviks' boycott of the Duma in 1906 was a mistake although a minor and easily remediable one.\* The boycott of the Duma in 1907, 1908 and subsequent years was a most serious error and difficult to remedy, because, on the one hand, a very rapid rise of the revolutionary tide and its conversion into an uprising was not to be expected, and, on the other hand, the entire historical situation attendant upon the renovation of the bourgeois monarchy called for legal and illegal activities being combined. Today, when we look back at thisfully completed historical period, whose connection with subsequent periods has now become quite clear, it becomes most obvious that in 1908-14 the Bolshevikscould not have preserved (let alone strengthened and developed) the core of the revolutionary party of the proletariat, had they not upheld, in a most strenuous struggle, the viewpoint that it was obligatory to combine legal and illegal forms of struggle, and that it was obligatory to participate evenin amost reactionary parliament andin a number of other institutions*
 
-*<sup>\*</sup> What applies to individuals also applies — with necessary modifications — to politics and parties. It is not he who makes no mistakes that is intelligent. There are no such men, nor can there be. It is he whose errors are not very grave and who is able to rectify them easily and quickly that is intelligent.*
+*\* What applies to individuals also applies — with necessary modifications — to politics and parties. It is not he who makes no mistakes that is intelligent. There are no such men, nor can there be. It is he whose errors are not very grave and who is able to rectify them easily and quickly that is intelligent.*
 
 *hemmed in by reactionary laws (sick benefit societies, etc.).*
 
@@ -440,7 +681,7 @@
 
 *Repudiation of the party principle and of party discipline — that is what the opposition has arrivedat. And this is tantamount to completely disarming the proletariat in the interests of the bourgeoisie. It all adds up to that petty-bourgeois diffuseness and instability, that incapacity for sustained effort, unity and organised action, which, if encouraged, must inevitably destroy any proletarian revolutionary movement. From the standpoint of communism, repudiation of the party principle means attempting to leap from the eve of capitalism's collapse (in Germany), not to the lower or the*
 
-*<sup>\*</sup>Karl Erler, "The Dissolution of the Party",Kommunistische Arbeiterzeitung,Hamburg, February 7, 1920, No. 32: "The working class cannot destroy the bourgeois state without destroying bourgeois democracy, and it cannot destroy bourgeois democracy without destroying parties." The more muddle-headed of the syndicalists and anarchists in the Latin countries may derive "satisfaction" from the fact that solid Germans, who evidently consider themselves Marxists (by their articles in the above-mentioned paper K. Erler and K. Horner have shown most plainly that they consider themselves sound Marxists, but talk incredible nonsense in a most ridiculous manner and reveal their failure to understand the ABC of Marxism), go to the length of making utterly inept statements. Mere acceptance of Marxism does not save one from errors. We Russians know this especially well, because Marxism has been very often the "fashion" in our country.*
+*\*Karl Erler, "The Dissolution of the Party",Kommunistische Arbeiterzeitung,Hamburg, February 7, 1920, No. 32: "The working class cannot destroy the bourgeois state without destroying bourgeois democracy, and it cannot destroy bourgeois democracy without destroying parties." The more muddle-headed of the syndicalists and anarchists in the Latin countries may derive "satisfaction" from the fact that solid Germans, who evidently consider themselves Marxists (by their articles in the above-mentioned paper K. Erler and K. Horner have shown most plainly that they consider themselves sound Marxists, but talk incredible nonsense in a most ridiculous manner and reveal their failure to understand the ABC of Marxism), go to the length of making utterly inept statements. Mere acceptance of Marxism does not save one from errors. We Russians know this especially well, because Marxism has been very often the "fashion" in our country.*
 
 *intermediate phase of communism, but to the higher. We in Russia (in the third year since the overthrow of the bourgeoisie) are making the first steps in the transition from capitalism to socialism or the lower stage of communism. Classes still remain, and will remain everywhere for years afterthe proletariat's conquest of power. Perhaps in Britain, where there is no peasantry (but where petty proprietors exist), this period may be shorter. The abolition of classes means, not merely ousting the landowners and the capitalists — that is something we accomplished with comparative ease; it also means abolishing the small commodity producers, and they cannot be ousted, or crushed; we must learn to live with them. They can (and must) be transformed and re-educated only by means of very prolonged, slow, and cautious organisational work. They surround the proletariat on every side with a petty-bourgeois atmosphere, which permeates and corrupts the proletariat, and constantly causes among the proletariat relapses into petty-bourgeois spinelessness, disunity, individualism, and alternating moods of exaltation and dejection. The strictest centralisation and discipline are required within the political party of the proletariat in order to counteract this, in order that the organisationalrole of the proletariat (and that is its principalrole) may be exercised correctly, successfully and victoriously. The dictatorship of the proletariat means a persistent struggle — bloody and bloodless, violent and peaceful, military and economic, educational and administrative — against the forces and traditions of the old society. The force of habit in millions and tens of millions is a most formidable force. Without a party of iron that has been tempered in the struggle, a party enjoying the confidence of all honest people in the class in question, a party capable of watching and influencing the mood of the masses, such a struggle cannot be waged successfully. It is a thousand times easier to vanquish the centralised big bourgeoisie than to "vanquish" the millions upon millions of petty proprietors; however, through their ordinary, everyday, imperceptible, elusive and demoralising activities, they produce the very results which the bourgeoisie need and which tend to restore the bourgeoisie. Whoever brings about even the slightest weakening of the iron discipline of the party of the proletariat (especially during its dictatorship), is actually aiding the bourgeoisie against the proletariat.*
 
@@ -448,7 +689,7 @@
 
 *In many countries, including the most advanced, the bourgeoisie are undoubtedly sending agents provocateurs into the communist parties and will continue to do so. A skilful combining of illegal and legal work is one of the ways to combat this danger.* n
 
-*<sup>\*</sup> Malinovsky was a prisoner of war in Germany. On his return to Russia when the Bolsheviks were in power he was instantly put on trial and shot by our workers. The Mensheviks attacked us most bitterly for our mistake — the fact that an agent provocateur had become a member of the Central Committee of our party. But when, under Kerensky, we demanded the arrest and trial of Rodzyanko, the Chairman of the Duma, because he had known, even before the war, that Malinovsky was an agent provocateur and had not informed the Trudoviks17 and the workers in the Duma, neither the Mensheviks nor the Socialist-Revolutionaries in the Kerensky government supported our demand, and Rodzyanko remained at large and made off unhindered to join Denekin.*
+*\* Malinovsky was a prisoner of war in Germany. On his return to Russia when the Bolsheviks were in power he was instantly put on trial and shot by our workers. The Mensheviks attacked us most bitterly for our mistake — the fact that an agent provocateur had become a member of the Central Committee of our party. But when, under Kerensky, we demanded the arrest and trial of Rodzyanko, the Chairman of the Duma, because he had known, even before the war, that Malinovsky was an agent provocateur and had not informed the Trudoviks17 and the workers in the Duma, neither the Mensheviks nor the Socialist-Revolutionaries in the Kerensky government supported our demand, and Rodzyanko remained at large and made off unhindered to join Denekin.*
 
 # **VI. Should Revolutionaries Work in Reactionary Trade Unions?**
 
@@ -482,7 +723,7 @@
 
 *We are waging a struggle against the "labour aristocracy" in the name of the masses of the workers and in order to win them over to our side; we are waging the struggle against the opportunist and social-chauvinist leaders in order to win the working class over to our side. It would be absurd to forget this most elementary and most self-evident truth. Yet it is this very absurdity that the German "left" Communists perpetrate when, because of the reactionary and counterrevolutionary character of the trade union top leadership, they jump to the conclusion that … we must withdraw*
 
-*<sup>\*</sup> See V. I. Lenin, Collected Works (Progress Publishers: Moscow, 1965), Vol. 30 — Ed.*
+*\* See V. I. Lenin, Collected Works (Progress Publishers: Moscow, 1965), Vol. 30 — Ed.*
 
 *from the trade unions, refuse to work in them, and create new and artificial forms of labour organisation! This is so unpardonable a blunder that it is tantamount to the greatest service Communists could render the bourgeoisie. Like all the opportunist, social-chauvinist, and Kautskyite trade union leaders, our Mensheviks are nothing but "agents of the bourgeoisie in the working-class movement" (as we have always said the Mensheviks are), or "labour lieutenants of the capitalist class", to use the splendid and profoundly true expression of the followers of Daniel De Leon in America. To refuse to work in the reactionary trade unions means leaving the insufficiently developed or backward masses ofworkers under the influence of the reactionary leaders, the agents of the bourgeoisie, the labour aristocrats, or "workers who have become completely bourgeois" (cf. Engels's letter to Marx in 1858 about the British workers).\**
 
@@ -490,7 +731,7 @@
 
 *These facts make crystal clear something that is confirmed by thousands of other symptoms, namely, that class-consciousness and the desire for organisation are growing among the proletarianmasses, among the rank and file, among the backward elements.*
 
-*<sup>\*</sup> See K. Marx and F. Engels, Selected Correspondence (Progress Publishers: Moscow, 1975), pp. 102-103*
+*\* See K. Marx and F. Engels, Selected Correspondence (Progress Publishers: Moscow, 1975), pp. 102-103*
 
 *Millions ofworkers in Great Britain, France and Germany are for the first time passing from a complete lack of organisation to the elementary, lowest, simplest, and (to those still thoroughly imbued with bourgeois-democratic prejudices) most easily comprehensible form of organisation, namely, the trade unions; yet the revolutionary but imprudent left Communists stand by, crying out "the masses", "the masses!" but refusing to work within the trade unions, on the pretext that they are "reactionary", and invent a brand-new, immaculatelittle "Workers'Union", which is guiltless of bourgeoisdemocratic prejudices and innocent of craft or narrow-minded craft-union sins, a union which, they claim, will be (!) a broad organisation. "Recognition of the soviet system and the dictatorship" will be the only (!) condition of membership. (See the passage quoted above.)*
 
@@ -500,7 +741,7 @@
 
 *The Executive Committee of the Third International must, in my opinion, positively condemn, and call upon the next congress of the Communist International to condemn both the policy of refusing towork in reactionary trade unions in general (explaining in detail why such refusal is unwise, and what extreme harm it does to the cause of the proletarian revolution) and, in particular, the line of conduct of some members of the Communist Party of Holland, who— whether directly or indirectly, overtly or covertly, wholly or partly, it does not matter — have supported this erroneous policy. The Third International must break with the tactics of the Second International, it must not evade or play down points at issue, but must pose them in a straightforward fashion. The whole truth has been put squarely to the "Independents" (the Independent Social-Democratic Party of Germany); the whole truth must likewise be put squarely to the "left" Communists.*n
 
-*<sup>\*</sup> The Gomperses, Hendersons, Jouhaux and Legiens are nothing but Zubatovs, differing from our Zubatov only in their European garb and polish, and the civilised, refined and democratically suave manner of conducting their despicable policy.*
+*\* The Gomperses, Hendersons, Jouhaux and Legiens are nothing but Zubatovs, differing from our Zubatov only in their European garb and polish, and the civilised, refined and democratically suave manner of conducting their despicable policy.*
 
 # **VII. Should We Participate in Bourgeois Parliaments?**
 
@@ -546,7 +787,7 @@
 
 *The German "lefts" complain of bad "leaders" in their party, give way to despair, and even arrive at a ridiculous "negation" of "leaders". But in conditions in which it is often necessary to hide "leaders" underground, the evolutionof good "leaders", reliable, tested and authoritative, is avery difficult matter; these difficultiescannotbe successfully overcome without combining legal and illegal work, and without testing the "leaders", among other ways, in parliaments. Criticism — the most keen, ruthless and uncompromising criticism — should be directed, not against parliamentarianism or parliamentary activities, but against those leaders who are unable — and still more against those who are unwilling — to utilise parliamentary elections and the parliamentary rostrum in a revolutionary and communist manner. Only such criticism — combined, of course, with the dismissal of incapable leaders and their replacement by capable ones — will constitute useful and fruitful revolutionary work that will simultaneously train the "leaders" to be worthy of the working class and of all working people, and train the masses to be able properly to understand the political situation and the often very complicated and intricate tasks that spring from that situation.\** n
 
-*<sup>\*</sup> I have had too little opportunity to acquaint myself with "left-wing" communism in Italy. Comrade Bordiga and his faction of Abstentionist Communists (Comunista astensionista) are certainly wrong in advocating non-participation in parliament. But on one point, it seems to me, Comrade Bordiga is right — as far as can be judged from two issues of his paper, Il Soviet (Nos. 3 and 4, January 18 and February 1, 1920), from four issues of Comrade Serrati's excellent periodical, Comunismo (Nos. 1-4, October 1-November 30, 1919), and from separate issues of the Italian bourgeois newspapers which I have seen. Comrade Bordiga and his group are right in attacking Turati and his partisans, who remainin a party which has recognised soviet power and the dictatorship of the proletariat, and yet continue their former pernicious and opportunist policy as members of parliament. Of course in tolerating this, Comrade Serrati and the entire Italian Socialist Party are making a mistake which threatens to do as much harm and give rise to the same dangers as it did in Hungary, where the Hungarian Turatis sabotaged both the party and the soviet government from within. Such a mistaken, inconsistent, or spineless attitude towards the opportunist parliamentarians gives rise to "left-wing" communism, on the one hand, and to a certain extent justifies its existence, on the other. Comrade Serrati is obviously wrong when he accuses Deputy Turati of being "inconsistent" (Comunismo No. 3), for it is the Italian Socialist Party itself that is inconsistent in tolerating such opportunist parliamentarians as Turati and Co.*
+*\* I have had too little opportunity to acquaint myself with "left-wing" communism in Italy. Comrade Bordiga and his faction of Abstentionist Communists (Comunista astensionista) are certainly wrong in advocating non-participation in parliament. But on one point, it seems to me, Comrade Bordiga is right — as far as can be judged from two issues of his paper, Il Soviet (Nos. 3 and 4, January 18 and February 1, 1920), from four issues of Comrade Serrati's excellent periodical, Comunismo (Nos. 1-4, October 1-November 30, 1919), and from separate issues of the Italian bourgeois newspapers which I have seen. Comrade Bordiga and his group are right in attacking Turati and his partisans, who remainin a party which has recognised soviet power and the dictatorship of the proletariat, and yet continue their former pernicious and opportunist policy as members of parliament. Of course in tolerating this, Comrade Serrati and the entire Italian Socialist Party are making a mistake which threatens to do as much harm and give rise to the same dangers as it did in Hungary, where the Hungarian Turatis sabotaged both the party and the soviet government from within. Such a mistaken, inconsistent, or spineless attitude towards the opportunist parliamentarians gives rise to "left-wing" communism, on the one hand, and to a certain extent justifies its existence, on the other. Comrade Serrati is obviously wrong when he accuses Deputy Turati of being "inconsistent" (Comunismo No. 3), for it is the Italian Socialist Party itself that is inconsistent in tolerating such opportunist parliamentarians as Turati and Co.*
 
 ### **VIII. No Compromises?**
 
@@ -570,7 +811,7 @@
 
 *It is surprising that, with such views, these lefts do not emphatically condemn Bolshevism! After all, the German lefts cannot but know that the entire history of Bolshevism, both before and after the October Revolution, is full of instances of changes of tack, conciliatory tactics and compromises with other parties, including*
 
-*<sup>\*</sup> Within every class, even in the conditions prevailing in the most enlightened countries, even within the most advanced class, and even when the circumstances of the moment have aroused all its spiritual forces to an exceptional degree, there always are — and inevitably will be as long as classes exist, as long as a classless society has not fully consolidated itself, and has not developed on its own foundations — representatives of the class who do not think, and are incapable of thinking, for themselves. Capitalism would not be the oppressor of the masses that it actually is, if things were otherwise.*
+*\* Within every class, even in the conditions prevailing in the most enlightened countries, even within the most advanced class, and even when the circumstances of the moment have aroused all its spiritual forces to an exceptional degree, there always are — and inevitably will be as long as classes exist, as long as a classless society has not fully consolidated itself, and has not developed on its own foundations — representatives of the class who do not think, and are incapable of thinking, for themselves. Capitalism would not be the oppressor of the masses that it actually is, if things were otherwise.*
 
 #### *bourgeois parties!*
 
@@ -602,7 +843,7 @@
 
 *Thus, the main division is the same as in Germany, notwithstanding the enormous difference in the forms in which the disagreements manifest themselves (in Germany the form is far closer to the "Russian" than it is in Great Britain), and in a number of*
 
-*<sup>\*</sup> I believe this party is opposed to affiliation to the Labour Party but not all its members are opposed to participation in Parliament.*
+*\* I believe this party is opposed to affiliation to the Labour Party but not all its members are opposed to participation in Parliament.*
 
 *other things. Let us examine the arguments of the "lefts".*
 
@@ -618,7 +859,7 @@
 
 *The writer of the letter fully realises that only workers' soviets, not parliament, can be the instrument enabling the proletariat to achieve its aims; those who have failed to understand this are, of course, out-and-out reactionaries, even if they are most highly educated people, most experienced politicians, most sincere socialists, most erudite Marxists, and most honest citizens and fathers of families. But the writer of the letter does not even ask — it does not occur to him to ask — whether it is possible to bring about the soviets' victory over parliament without getting pro-soviet politicians into parliament, without disintegrating parliamentarianismfrom within, without working within parliament for the success of the soviets in their forthcoming task of dispersing parliament. Yet the writer of the letter expresses the absolutely correct idea that the Communist party in Great Britain must act on scientific principles. Science demands, first, that the experience of other countries be taken into account, especially if these other countries, which are also capitalist, are undergoing, or have recently undergone, a very similar experience; second, it demands that account be taken of all the forces,*
 
-## *<sup>\* &</sup>quot;Little people" — Ed.*
+## *\* &quot;Little people" — Ed.*
 
 *groups, parties, classes and masses operating in a given country, and also that policy should not be determined only by the desires and views, by the degree of classconsciousness and the militancy of one group or party alone.*
 
@@ -674,7 +915,7 @@
 
 *At present, British Communists very often find it hard even to approach the*
 
-*<sup>\*</sup> The results of the November 1917 elections to the Constituent Assembly in Russia, based on returns embracing over 36 million voters, were as follows: the Bolsheviks obtained 25% of the votes; the various parties of the landowners and the bourgeoisie obtained 13%, and the pettybourgeois-democratic parties, i.e., the Socialist-Revolutionaries, Mensheviks and a number of similar small groups obtained 62%.*
+*\* The results of the November 1917 elections to the Constituent Assembly in Russia, based on returns embracing over 36 million voters, were as follows: the Bolsheviks obtained 25% of the votes; the various parties of the landowners and the bourgeoisie obtained 13%, and the pettybourgeois-democratic parties, i.e., the Socialist-Revolutionaries, Mensheviks and a number of similar small groups obtained 62%.*
 
 *masses, and even to get a hearing from them. If I come out as a Communist and call upon them to vote for Henderson and against Lloyd George, they will certainly give me a hearing. And I shall be able to explain in a popular manner, not only why the soviets are better than a parliament and why the dictatorship of the proletariat is better than the dictatorship of Churchill (disguised with the signboard of bourgeois "democracy"), but also that, with my vote, I want to support Henderson in the same way as the rope supports a hanged man — that the impending establishment of a government of the Hendersonswill prove that I am right, will bring the masses over to my side, and will hasten the political death of the Hendersons and the Snowdens just as was the case with their kindred spirits in Russia and Germany.*
 
@@ -754,7 +995,7 @@
 
 *In this pamphlet I have expressed the opinion that a compromise between the Communists and the left-wing of the Independents is necessary and useful to communism, but will not be easy to bring about. Newspaperswhich I have subsequently received have confirmed this opinion on both points. No. 32 of The Red Flag, organ of the Central Committee, the Communist Party of Germany (Die Rote Fahne, Zentralorgan der Kommunistischen Partei Deutschlands, Spartakusbund, of March*
 
-*<sup>\*</sup> With regard to the question of future amalgamation of the "left" Communists, the antiparliamentarians, with the Communists in general, I would make the following additional remarks. In the measure in which I have been able to familiarise myself with the newspapers of the "left" Communists and the Communists in general in Germany, I find that the former have the advantage of being better able than the latter to carry on agitation among the masses. I have repeatedly observed something similar to this in the history of the Bolshevik Party, though on a smaller scale, in individual local organisations, and not on a national scale. For instance, in 1907-08 the "left" Bolsheviks, on certain occasions and in certain places, carried on more successful agitation among the masses than we did. This may partly have been due to the fact that at a revolutionary moment, or at a time when revolutionary recollections are still fresh, it is easier to approach the masses with tactics of sheer negation. This, however, is not an argument to prove the correctness of such tactics. At all events, there is not the least doubt that a Communist party that wishes to be the real vanguard, the advanced detachment, of the revolutionary class, of the proletariat — and which, in addition wishes to learn to lead the masses, not only the proletarian, but also the non-proletarian masses of working and exploited people — must know how to conduct propaganda, how to organise, and how to carry on agitation in a manner most simple and comprehensible, most clear and vivid, both to the urban, factory masses and to the rural masses.*
+*\* With regard to the question of future amalgamation of the "left" Communists, the antiparliamentarians, with the Communists in general, I would make the following additional remarks. In the measure in which I have been able to familiarise myself with the newspapers of the "left" Communists and the Communists in general in Germany, I find that the former have the advantage of being better able than the latter to carry on agitation among the masses. I have repeatedly observed something similar to this in the history of the Bolshevik Party, though on a smaller scale, in individual local organisations, and not on a national scale. For instance, in 1907-08 the "left" Bolsheviks, on certain occasions and in certain places, carried on more successful agitation among the masses than we did. This may partly have been due to the fact that at a revolutionary moment, or at a time when revolutionary recollections are still fresh, it is easier to approach the masses with tactics of sheer negation. This, however, is not an argument to prove the correctness of such tactics. At all events, there is not the least doubt that a Communist party that wishes to be the real vanguard, the advanced detachment, of the revolutionary class, of the proletariat — and which, in addition wishes to learn to lead the masses, not only the proletarian, but also the non-proletarian masses of working and exploited people — must know how to conduct propaganda, how to organise, and how to carry on agitation in a manner most simple and comprehensible, most clear and vivid, both to the urban, factory masses and to the rural masses.*
 
 *26, 1920) published a "statement" by this Central Committee regarding the Kapp-Lüttwitz military putsch and on the "socialist government".1 This statement is quite correct both in its basic premise and its practical conclusions. The basic premise is that at present there is no "objective basis" for the dictatorship of the proletariat because the "majority of the urban workers" support the Independents. The conclusion is: a promise to be a "loyal opposition" (i.e., renunciation of preparations for a "forcible overthrow") to a "socialist government ifit excludes bourgeois-capitalist parties".*
 
@@ -772,7 +1013,7 @@ The issues of the Italian newspaper *Il Soviet* referred to above fully confirm 
 
 Signor Turati's opinion is that the revolutionary peril is not such as to cause undue anxiety in Italy. The Maximalists are fanning the fire of soviet theories only to keep the masses awake and excited. These theories are, however, merely legendary notions, unripe programmes, incapable of being put to practical use. They are likely only to maintain the working classes in a state of expectation. The very men who use them as
 
-<sup>\*</sup> Incidentally, this has been dealt with in an exceptionally clear, concise, precise and Marxist way in the excellent organ of the Austrian Communist Party, *The Red Banner*, of March 28 and 30, 1920. (*Die Rote Fahne*, Wien, 1920, Nos. 266 and 267; L. L.: "Ein neuer Abschnitt der deutschen Revolution" ["A New Stage of the German Revolution"].
+\* Incidentally, this has been dealt with in an exceptionally clear, concise, precise and Marxist way in the excellent organ of the Austrian Communist Party, *The Red Banner*, of March 28 and 30, 1920. (*Die Rote Fahne*, Wien, 1920, Nos. 266 and 267; L. L.: "Ein neuer Abschnitt der deutschen Revolution" ["A New Stage of the German Revolution"].
 
 *a lure to dazzle proletarian eyes find themselves compelled to fight a daily battle for the extortion of some often trifling economic advantages so as to delay the moment when the working classes will lose their illusions and faith in their cherished myths. Hence a long string of strikes of all sizes and with all pretexts up to the very latest ones in the mail and railway services — strikes which make the already hard conditions of the country still worse. The country is irritated owing to the difficulties connected with its Adriatic problem, is weighed down by its foreign debt and by its inflated paper circulation, and yet it is still far from realising the necessity of adopting that discipline of work which alone can restore order and prosperity …*
 
@@ -958,7 +1199,7 @@ Signor Turati's opinion is that the revolutionary peril is not such as to cause 
 
 *In these clashes — insofar as they involve the vital interests of the entire working class, or its majority, or this or that section — the working masses sense the need of unity in action, of unity in resisting the onslaught of capitalism or unity in taking the offensive against it. Any party which mechanically counterposes itself to this need of the working class for unity in action will unfailingly be condemned in the minds of the workers.*
 
-*Consequently the question of the unitedfront is not at all, either in point of origin or substance, a question of the reciprocal relations between the Communist parliamentary fraction and that of the Socialists, or between the Central Committee of the two parties, or between l'Humanité<sup>1</sup> and Le Populaire. <sup>2</sup> The problem of the united front — despite the fact that a split is inevitable in this epoch between the various political organisations basing themselves on the working class — grows out of the urgent need to secure for the working class the possibility of a united front in the struggle against capitalism.*
+*Consequently the question of the unitedfront is not at all, either in point of origin or substance, a question of the reciprocal relations between the Communist parliamentary fraction and that of the Socialists, or between the Central Committee of the two parties, or between l'Humanité1 and Le Populaire. 2 The problem of the united front — despite the fact that a split is inevitable in this epoch between the various political organisations basing themselves on the working class — grows out of the urgent need to secure for the working class the possibility of a united front in the struggle against capitalism.*
 
 *For those who do not understand this task, the party is only a propaganda society and not an organisation for mass action.*
 
@@ -1069,7 +1310,7 @@ Signor Turati's opinion is that the revolutionary peril is not such as to cause 
 
 *18. The struggle for the unity of the trade union organisation and trade union action will remain in the future as well one of the most important tasks of the Communist Party— a struggle not only in the sense of constantly striving to unite ever larger numbers of workers around the program and tactics of Communism, but also in the sense that the Communist Party — on the road to the realisation of this goal both directly and through Communists in the trade unions, strives in action to reduce to a minimum those obstacles which are placed before the workers' movement by an organisational split.*
 
-*If in spite of all our efforts to restore unity, the split in the CGT becomes sealed in the immediate future, this would not at all signify that the CGT Unitaire<sup>4</sup> regardless of whether half or more than half of the unionised workers join it in the next period, will conduct its work by simply ignoring the existence of the reformist CGT. Such a policy would render difficult in the extreme — if not exclude altogether — the possibility of coordinated militant actions of the proletariat, and at the same time would make it extremely easy for the reformist CGT to play, in the interests of the bourgeoisie, the role of La Ligue Civique<sup>5</sup> as regards strikes, demonstrations, etc.; and it would simultaneously provide the reformist CGT with a semblance of justification in arguing that the revolutionary CGTU provokes inexpedient public actions and must bear full responsibility for them. It is perfectly self-evident that in all caseswhere circumstances permit, the revolutionary CGTU will, whenever it deems it necessary to undertake* *some campaign, openly address itself to the reformist CGT with specific proposals and demands for a concrete plan of coordinated actions, and bring to bear the pressure of labour's public opinion and expose before this public opinion each hesitating and evasive step of the reformists.*
+*If in spite of all our efforts to restore unity, the split in the CGT becomes sealed in the immediate future, this would not at all signify that the CGT Unitaire4 regardless of whether half or more than half of the unionised workers join it in the next period, will conduct its work by simply ignoring the existence of the reformist CGT. Such a policy would render difficult in the extreme — if not exclude altogether — the possibility of coordinated militant actions of the proletariat, and at the same time would make it extremely easy for the reformist CGT to play, in the interests of the bourgeoisie, the role of La Ligue Civique5 as regards strikes, demonstrations, etc.; and it would simultaneously provide the reformist CGT with a semblance of justification in arguing that the revolutionary CGTU provokes inexpedient public actions and must bear full responsibility for them. It is perfectly self-evident that in all caseswhere circumstances permit, the revolutionary CGTU will, whenever it deems it necessary to undertake* *some campaign, openly address itself to the reformist CGT with specific proposals and demands for a concrete plan of coordinated actions, and bring to bear the pressure of labour's public opinion and expose before this public opinion each hesitating and evasive step of the reformists.*
 
 *In thisway, even in the event that the split of the trade union organisation becomes permanent, the methods of struggle for the unitedfront will preserve all their meaning.*
 

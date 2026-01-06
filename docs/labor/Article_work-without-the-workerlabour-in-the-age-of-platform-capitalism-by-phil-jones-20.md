@@ -1,15 +1,8 @@
 ---
-title: >-
-  Work Without the Workerlabour in the Age of Platform Capitalism By Phil Jones
-  20
-date: 2025
-author: Phil Jones
-tags:
-  - organizing
-  - strikes
-  - unions
-  - tenants
-  - housing
+title: ">-"
+author: "Phil Jones"
+date: "2025"
+category: "labor"
 ---
 
 # Work Without the Workerlabour in the Age of Platform Capitalism By Phil Jones 20

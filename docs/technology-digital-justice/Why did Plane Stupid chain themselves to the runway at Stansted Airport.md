@@ -1,9 +1,15 @@
+---
+title: "## **Why did Plane Stupid chain themselves to the runway at Stansted Airport?**"
+category: "technology-digital-justice"
+---
+
 ## **Why did Plane Stupid chain themselves to the runway at Stansted Airport?**
 
 | Date: Mon, 04/03/2017 - 17:27 |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Source: https://ecology.iww.org/node/2168|
-| Tags: Plane Stupid, Black Lives Matter, migrant labor, intersectionality, combating racism,<br>environmental racism, Industrial Workers of the World (IWW) |
+| Tags: Plane Stupid, Black Lives Matter, migrant labor, intersectionality, combating racism,
+environmental racism, Industrial Workers of the World (IWW) |
 | By Plane Stupid - |
 | New Internationalist |
 | , March 29, 2017 |
@@ -11,7 +17,10 @@
 | Plane Stupid includes members of the IWW. |
 | Just over a year ago we were |
 | convicted |
-| for our part in the Heathrow 13 action. We occupied the Northern runway at Heathrow,<br>cancelling 25 flights, saving hundreds of tonnes of carbon dioxide from being emitted and<br>protesting against the construction of the proposed third runway. For this we nearly went to<br>prison. |
+| for our part in the Heathrow 13 action. We occupied the Northern runway at Heathrow,
+cancelling 25 flights, saving hundreds of tonnes of carbon dioxide from being emitted and
+protesting against the construction of the proposed third runway. For this we nearly went to
+prison. |
 
 So, why this move? Why is a well known environmental group now taking action against mass deportations?
 

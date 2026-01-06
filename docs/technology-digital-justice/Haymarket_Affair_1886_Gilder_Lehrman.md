@@ -1,3 +1,8 @@
+---
+title: "The Haymarket Affair, 1886"
+category: "technology-digital-justice"
+---
+
 ## Introduction
 
 The Haymarket Affair is considered a watershed moment for American labor history, at a time when fears about the loyalties and activities of immigrants, anarchists, and laborers became linked in the minds of many Americans.

@@ -1,3 +1,8 @@
+---
+title: "Reform or Revolution? Rosa Luxemburg"
+category: "contemporary-analysis"
+---
+
 # Reform or Revolution? Rosa Luxemburg
 
 ## ![](_page_0_Picture_1.jpeg)
@@ -26,9 +31,11 @@ https://creativecommons.org/licenses/by-sa/4.0/
 |---------------|-------------------------------------------------------------------------|----|
 | Chapter I. | The Opportunist Method | 5 |
 | Chapter II. | The Adaptation of Capital | 11 |
-| Chapter III. | The Realisation of Socialism through Social<br>Reforms | 21 |
+| Chapter III. | The Realisation of Socialism through Social
+Reforms | 21 |
 | Chapter IV. | Capitalism and the State | 29 |
-| Chapter V. | The Consequences of Social Reformism and<br>General Nature of Reformism | 35 |
+| Chapter V. | The Consequences of Social Reformism and
+General Nature of Reformism | 35 |
 | Chapter VI. | Economic Development and Socialism | 43 |
 | Chapter VII. | Co-operatives, Unions, Democracy | 51 |
 | Chapter VIII. | Conquest of Political Power | 61 |
@@ -39,11 +46,11 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 At first view the title of this work may be found surprising. Can the Social-Democracy be against reforms? Can we contrapose the social revolution, the transformation of the existing order, our final goal, to social reforms? Certainly not. The daily struggle for reforms, for the amelioration of the condition of the workers within the framework of the existing social order, and for democratic institutions, offers to the Social-Democracy the only means of engaging in the proletarian class war and working in the direction of the final goal—the conquest of political power and the suppression of wage labour. Between social reforms and revolution there exists for the Social Democracy an indissoluble tie. The struggle for reforms is its means; the social revolution, its aim.
 
-It is in Eduard Bernstein's theory, presented in his articles on *Problems of Socialism*, *Neue Zeit* of 1897–98, and in his book *Die Voraussetzungen des Socialismus und die Aufgaben der Sozialdemokratie*<sup>1</sup> that we find, for the first time, the opposition of the two factors of the labour movement. His theory tends to counsel us to renounce the social transformation, the final goal of Social-Democracy and, inversely, to make of social reforms, the means of the class struggle, its aim. Bernstein himself has very clearly and characteristically formulated this viewpoint when he wrote: "The Final goal, no matter what it is, is nothing; the movement is everything."
+It is in Eduard Bernstein's theory, presented in his articles on *Problems of Socialism*, *Neue Zeit* of 1897–98, and in his book *Die Voraussetzungen des Socialismus und die Aufgaben der Sozialdemokratie*1 that we find, for the first time, the opposition of the two factors of the labour movement. His theory tends to counsel us to renounce the social transformation, the final goal of Social-Democracy and, inversely, to make of social reforms, the means of the class struggle, its aim. Bernstein himself has very clearly and characteristically formulated this viewpoint when he wrote: "The Final goal, no matter what it is, is nothing; the movement is everything."
 
 But since the final goal of socialism constitutes the only decisive factor distinguishing the Social-Democratic movement from bourgeois democracy and from bourgeois radicalism, the only factor transforming the entire labour movement from a vain effort to repair the capitalist order into a class struggle against this order, for the suppression of this order—the question: "Reform or Revolution?" as it is posed by Bernstein, equals for the Social-Democracy the question: "To be or not to be?" In the controversy with Bernstein and his followers, everybody in
 
-<sup>1.</sup> *The Pre-Conditions of Socialism and the Tasks for Social Democracy* [English transla- tion: *Evolutionary Socialism*]
+1. *The Pre-Conditions of Socialism and the Tasks for Social Democracy* [English transla- tion: *Evolutionary Socialism*]
 
 the Party ought to understand clearly it is not a question of this or that method of struggle, or the use of this or that set of tactics, but of the very existence of the Social-Democratic movement.
 
@@ -387,7 +394,7 @@ However, the transformation of the trade union into an instrument for the progre
 
 Co-operatives and trade unions are totally incapable of transforming the capitalist mode of production. This is really understood by Bernstein, though in a confused manner. For he refers to co-operatives and trade unions as a means of reducing the profit of the capitalists and thus enriching the workers. In this way, he renounces the struggle against the capitalist mode of production and attempts to direct the socialist movement to struggle against "capitalist distribution." Again and again, Bernstein refers to socialism as an effort towards a "just, juster and still more just" mode of distribution. (Vorwärts, March 26, 1899).
 
-<sup>1.</sup> The mythological king of Corinth who was condemned to roll a huge stone to the top of a hill. It constantly rolled back down against making his task incessant.
+1. The mythological king of Corinth who was condemned to roll a huge stone to the top of a hill. It constantly rolled back down against making his task incessant.
 
 It cannot be denied that the direct cause leading the popular masses into the socialist movement is precisely the "unjust" mode of distribution characteristic of capitalism. When the Social-Democracy struggles for the socialisation of the entire economy, it aspires therewith also to a "just" distribution of the social wealth. But, guided by Marx's observation that the mode of distribution of a given epoch is a natural consequence of the mode of production of that epoch, the Social-Democracy does not struggle against distribution in the framework of capitalist production. It struggles instead for the suppression of the capitalist production itself. In a word, the Social-Democracy wants to establish the mode of socialist distribution by suppressing the capitalist mode of production. Bernstein's method, on the contrary, proposes to combat the capitalist mode of distribution in the hopes of gradually establishing, in this way, the socialist mode of production.
 
@@ -421,7 +428,7 @@ As a result of the development of the world economy and the aggravation and gene
 
 In Germany the era of great armament, began in 1893, and the policy of world politics inaugurated with the seizure of Kiao-Cheou were paid for immediately with the following sacrificial victim: the decom-
 
-<sup>2.</sup> The German revolution of 1848, which struck an effective blow against the feudal institutions in Germany.
+2. The German revolution of 1848, which struck an effective blow against the feudal institutions in Germany.
 
 position of liberalism, the deflation of the Centre Party, which passed from opposition to government. The recent elections to the Reichstag of 1907 unrolling under the sign of the German colonial policy were, at the same time, the historical burial of German liberalism.
 

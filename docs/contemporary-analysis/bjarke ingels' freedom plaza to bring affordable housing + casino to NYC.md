@@ -1,3 +1,8 @@
+---
+title: "FREEDOM PLAZA: A MEGAPROJECT ALONG THE WATERFRONT"
+category: "contemporary-analysis"
+---
+
 [home](https://www.designboom.com/) > [architecture](https://www.designboom.com/architecture/) > bjarke ingels group's 'freedom plaza' could bring affordable housing and casino to NYC
 
 ## ![](_page_0_Picture_4.jpeg)
@@ -10,7 +15,7 @@ bjarke ingels group's 'freedom plaza' could bring affordable housing and casino 
 
 (divine comedy, dante alighieri)
 
-we use cookies to make your reading a be�er experience. [got it!](https://www.designboom.com/architecture/bjarke-ingels-group-big-freedom-plaza-new-york-02-13-2024/#) [more info](https://www.designboom.com/cookie-policy) [>](https://www.designboom.com/cookie-policy)
+we use cookies to make your reading a beer experience. [got it!](https://www.designboom.com/architecture/bjarke-ingels-group-big-freedom-plaza-new-york-02-13-2024/#) [more info](https://www.designboom.com/cookie-policy) [>](https://www.designboom.com/cookie-policy)
 
 ## 1 of 22 5/29/24, 8:04 PM
 
@@ -60,7 +65,7 @@ Along with the Freedom Plaza's public space, two **Bjarke Ingels Group**-designe
 
 ## ![](_page_2_Picture_12.jpeg)
 
-SO—IL completes perforated aluminum facade of downtown brooklyn's 'nine
+SO--IL completes perforated aluminum facade of downtown brooklyn's 'nine
 
 12k views
 

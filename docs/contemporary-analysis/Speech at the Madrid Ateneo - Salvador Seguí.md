@@ -1,3 +1,8 @@
+---
+title: "## **Speech at the Madrid Ateneo - Salvador Seguí**"
+category: "contemporary-analysis"
+---
+
 ## **Speech at the Madrid Ateneo - Salvador Seguí**
 
 ## **Date:** Unknown

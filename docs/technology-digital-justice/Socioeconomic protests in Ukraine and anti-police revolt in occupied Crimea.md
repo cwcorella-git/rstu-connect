@@ -1,3 +1,8 @@
+---
+title: "## **Socioeconomic protests in Ukraine and anti-police revolt in occupied Crimea**"
+category: "technology-digital-justice"
+---
+
 ## **Socioeconomic protests in Ukraine and anti-police revolt in occupied Crimea**
 
 ## **Date:** Unknown
@@ -44,16 +49,20 @@ No war but the social war! Dyjbas 3 years 1 month ago Thanks for these updates. 
 
 ## In reply to Thanks for these updates…by Dyjbas
 
-| Dyjbas wrote:Thanks for these updates. The CWO-ICT has republished this one on its<br>website (leftcom.org) with a brief intro. |
+| Dyjbas wrote:Thanks for these updates. The CWO-ICT has republished this one on its
+website (leftcom.org) with a brief intro. |
 |----------------------------------------------------------------------------------------------------------------------------------------|
-| Thank you very much but why you reprinted the version with inaccuracies? Where are all the<br>editorial changes? |
+| Thank you very much but why you reprinted the version with inaccuracies? Where are all the
+editorial changes? |
 | Dyjbas |
 | 3 years 1 month ago |
-| We did not see the text had been updated. The changes should be introduced now, but let us<br>know if we missed anything! |
+| We did not see the text had been updated. The changes should be introduced now, but let us
+know if we missed anything! |
 | Thunderbird |
 | 3 years 1 month ago |
 | In reply to We did not see the text had…by Dyjbas |
-| Dyjbas wrote:We did not see the text had been updated. The changes should be introduced<br>now, but let us know if we missed anything! |
+| Dyjbas wrote:We did not see the text had been updated. The changes should be introduced
+now, but let us know if we missed anything! |
 | The text was updated yesterday, you took it today |
 | Dyjbas |
 | 3 years 1 month ago |
@@ -64,26 +73,35 @@ No war but the social war! Dyjbas 3 years 1 month ago Thanks for these updates. 
 | Steven. |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 3 years 1 month ago |
-| This is a super-interesting article, thank you for posting. Particularly interesting to see tensions<br>within Ukraine between the working class and employers/the government begin to be<br>expressed. Especially given recent developments, like Ukrainian government attack on<br>workers' rights. |
+| This is a super-interesting article, thank you for posting. Particularly interesting to see tensions
+within Ukraine between the working class and employers/the government begin to be
+expressed. Especially given recent developments, like Ukrainian government attack on
+workers' rights. |
 | Thunderbird |
 | 3 years 1 month ago |
 | In reply to This is a super-interesting…by Steven. |
-| Steven. wrote:This is a super-interesting article, thank you for posting. Particularly interesting<br>to see tensions within Ukraine between the working class and employers/the government<br>begin to be expressed. Especially given recent developments, like Ukrainian government<br>attack on workers' rights. |
+| Steven. wrote:This is a super-interesting article, thank you for posting. Particularly interesting
+to see tensions within Ukraine between the working class and employers/the government
+begin to be expressed. Especially given recent developments, like Ukrainian government
+attack on workers' rights. |
 | Delete that today's bullshit, please, don't disgrace us in the eyes of audience! |
 | Dyjbas |
 | 3 years 1 month ago |
-| Hi Thunderbird, I've deleted Steven's upload for you. Now the only version of the interview is<br>your one:libcom.org |
+| Hi Thunderbird, I've deleted Steven's upload for you. Now the only version of the interview is
+your one:libcom.org |
 ## | Thunderbird |
 
 | 3 years 1 month ago |
 |------------------------------------------------------------------------------------------------------------------------------------|
 | In reply to Hi Thunderbird, I've deleted…by Dyjbas |
-| Dyjbas wrote:Hi Thunderbird, I've deleted Steven's upload for you. Now the only version of the<br>interview is your one:libcom.org |
+| Dyjbas wrote:Hi Thunderbird, I've deleted Steven's upload for you. Now the only version of the
+interview is your one:libcom.org |
 | Okay |
 | Steven. |
 | 3 years 1 month ago |
 | In reply to Steven. wrote: This is a…by Thunderbird |
-| Thunderbird wrote:Delete that today's bullshit, please, don't disgrace us in the eyes of<br>audience! |
+| Thunderbird wrote:Delete that today's bullshit, please, don't disgrace us in the eyes of
+audience! |
 | sorry what do you mean? |
 | Dyjbas |
 | 3 years 1 month ago |

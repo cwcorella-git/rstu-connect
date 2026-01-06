@@ -1,3 +1,8 @@
+---
+title: "**Paradox of tolerance**"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_2.jpeg)
 
 # **Paradox of tolerance**
@@ -122,7 +127,7 @@ In their 2022 book, *Paradox of Democracy*, Zac Gershberg and [Sean Illing](http
 
 #### [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier)) [9780847687862.](https://en.wikipedia.org/wiki/Special:Book Sources/9780847687862)
 
-- O'Toole, F., & Beckett, L. (1997). The Limits of Tolerance. Studies: An Irish Quarterly Review, 86(344), 346–359.<http://www.jstor.org/stable/30091841>
+- O'Toole, F., & Beckett, L. (1997). The Limits of Tolerance. Studies: An Irish Quarterly Review, 86(344), 346–359.
 - [Blumner, Robyn E.](https://en.wikipedia.org/wiki/Robyn_Blumner) (August–September 2016). ["Is My Intolerance of Your Intolerance](https://secularhumanism.org/2016/07/cont-is-my-intolerance-of-your-intolerance-intolerant/) [Intolerant?" \(https://secularhumanism.org/2016/07/cont-is-my-intolerance-of-your-in](https://secularhumanism.org/2016/07/cont-is-my-intolerance-of-your-intolerance-intolerant/) [tolerance-intolerant/\).](https://secularhumanism.org/2016/07/cont-is-my-intolerance-of-your-intolerance-intolerant/) [Free Inquiry](https://en.wikipedia.org/wiki/Free_Inquiry). Retrieved 15 February 2025.
 - [Totten, Michael](https://en.wikipedia.org/wiki/Michael_Totten) (9 July 2006). ["Tolerating the Intolerant" \(https://web.archive.org/we](https://web.archive.org/web/20190331140731/http://www.michaeltotten.com/archives/2006/07/tolerating-the-intolerant.php) [b/20190331140731/http://www.michaeltotten.com/archives/2006/07/tolerating-the](https://web.archive.org/web/20190331140731/http://www.michaeltotten.com/archives/2006/07/tolerating-the-intolerant.php)[intolerant.php\).](https://web.archive.org/web/20190331140731/http://www.michaeltotten.com/archives/2006/07/tolerating-the-intolerant.php) Michael Totten.com. self-published. Archived from [the original \(htt](http://www.michaeltotten.com/archives/2006/07/tolerating-the-intolerant.php) [p://www.michaeltotten.com/archives/2006/07/tolerating-the-intolerant.php\)](http://www.michaeltotten.com/archives/2006/07/tolerating-the-intolerant.php) on 31 March 2019. Retrieved 12 December 2009.
 

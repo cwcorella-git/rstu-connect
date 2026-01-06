@@ -1,3 +1,8 @@
+---
+title: "## **IWW report from the 30th SAC Congress**"
+category: "contemporary-analysis"
+---
+
 ## **IWW report from the 30th SAC Congress**
 
 ## **Date:** Unknown

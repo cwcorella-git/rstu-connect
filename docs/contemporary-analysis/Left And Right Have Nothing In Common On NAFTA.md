@@ -1,3 +1,8 @@
+---
+title: "## **Left And Right Have Nothing In Common On NAFTA**"
+category: "contemporary-analysis"
+---
+
 ## **Left And Right Have Nothing In Common On NAFTA**
 
 ## **Date:** Mon, 10/16/2017 - 16:27

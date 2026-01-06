@@ -1,16 +1,10 @@
 ---
-title: Anarchism And Education
-slug: Anarchism and Education
-reconversion_status: ready_for_reconversion
-author: Judith Suissa
-date: '2006'
-tags:
-  - theory
-  - anarchism
-  - strikes
-  - unions
-  - rent
+title: "Anarchism And Education"
+author: "Judith Suissa"
+date: "2006"
+category: "theory"
 ---
+
 # **Judith Suissa**
 
 ## **Anarchism and Education**

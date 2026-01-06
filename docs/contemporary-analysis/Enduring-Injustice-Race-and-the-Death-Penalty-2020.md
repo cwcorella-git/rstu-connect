@@ -1,3 +1,8 @@
+---
+title: "*Rocky Myers*"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Figure_0.jpeg)
 
 MAY 28, 2010, 8:45 P. M.
@@ -148,7 +153,7 @@ No white person was prosecuted for the violence in Phillips County, but dozens o
 
 The Red Summer of 1919 was particularly violent, but instances of mass racial terror continued in the following years. In 1921, white Oklahomans razed an affluent section of Tulsa that had been nicknamed "Black Wall Street" under the pretext that a Black man had raped a white woman. In reality, white residents felt threatened by the economic success of the Black community. In 1923, all the Black residents of Rosewood, Florida fled for their lives after local white mobs killed at least six and burnt down the church and all the homes in the
 
-Black section of Rosewood. As was often the case, the violence began with an allegation that a Black man had raped a white woman.<sup>25</sup>
+Black section of Rosewood. As was often the case, the violence began with an allegation that a Black man had raped a white woman.25
 
 ## ![](_page_14_Picture_3.jpeg)
 
@@ -176,7 +181,7 @@ What is to be done? e crime of rape is always horrible, but (sic) the Southern m
 
 Stereotypes of Black criminality were pervasive, even in criticisms of lynching. In 1906, President Theodore Roosevelt condemned the "epidemic of lynching and mob violence" and called for "even handed justice." However, he asserted that "the greatest existing cause of lynching is the perpetration, especially by Black men, of the hideous crime of rape." He went on to opine that rape should always be a capital crime and that the death penalty should be available as a punishment for attempted rape.
 
-Despite organized anti-lynching campaigns and expressions of disapproval from the national and international media, lynchings continued with impunity. Only 1% of all lynchings committed after 1900 resulted in any criminal conviction, and even fewer produced murder convictions.<sup>29</sup> Advocates failed to win passage of federal anti-lynching laws.<sup>30</sup> The circulation of postcards commemorating lynchings was impeded but not completely stopped by a 1908 amendment to the Comstock Act that banned the mailing of "matter of a character tending to incite arson, murder or assassination." <sup>31</sup> However, Congress adopted this prohibition in response to fears of anarchist violence, and officials applied the ban to lynching postcards only as an afterthought. <sup>32</sup>
+Despite organized anti-lynching campaigns and expressions of disapproval from the national and international media, lynchings continued with impunity. Only 1% of all lynchings committed after 1900 resulted in any criminal conviction, and even fewer produced murder convictions.29 Advocates failed to win passage of federal anti-lynching laws.30 The circulation of postcards commemorating lynchings was impeded but not completely stopped by a 1908 amendment to the Comstock Act that banned the mailing of "matter of a character tending to incite arson, murder or assassination." 31 However, Congress adopted this prohibition in response to fears of anarchist violence, and officials applied the ban to lynching postcards only as an afterthought. 32
 
 Capital Punishment as an Acceptable Alternative to Lynchings
 
@@ -184,7 +189,7 @@ Capital Punishment as an Acceptable Alternative to Lynchings
 
 ## Lynchings of Black Victims Between 1883 and 1940
 
-Public discussion about lynchings highlighted the connection between non-officially sanctioned mob violence and the legal capital punishment system. "Neither lynching nor 'legal executions' required reliable findings of guilt, and complicit law enforcement officers handed over prisoners to the lynch mob." At times, the promise of a swift officially sanctioned death penalty was used to deter would-be participants in lynch mobs. Executions following these show trials with little process and a preordained outcome were described by activists as "legal lynchings." <sup>34</sup> In debates about the abolition or reinstatement of capital punishment, public officials were concerned that the absence of capital punishment would lead to communities resorting to lynching for vengeance. <sup>35</sup>
+Public discussion about lynchings highlighted the connection between non-officially sanctioned mob violence and the legal capital punishment system. "Neither lynching nor 'legal executions' required reliable findings of guilt, and complicit law enforcement officers handed over prisoners to the lynch mob." At times, the promise of a swift officially sanctioned death penalty was used to deter would-be participants in lynch mobs. Executions following these show trials with little process and a preordained outcome were described by activists as "legal lynchings." 34 In debates about the abolition or reinstatement of capital punishment, public officials were concerned that the absence of capital punishment would lead to communities resorting to lynching for vengeance. 35
 
 For interactive visualizations about race and the death penalty, visit the Death Penalty Information Center's website at deathpenaltyinfo.org
 
@@ -192,9 +197,9 @@ For interactive visualizations about race and the death penalty, visit the Death
 
 #### Executions of Black Defendants Between 1972 and 2020
 
-Following an 1890 lynching in Colorado, the *Rocky Mountain Daily News* called for the reinstatement of capital punishment: "The people of Colorado and the next legislature might as well face the fact that in the absence of capital punishment under the law it is inflicted through the angry mob violence, whenever an especially atrocious crime is committed. . . . To prevent the recurrence of such horrors the death penalty should be restored in this state." <sup>36</sup>
+Following an 1890 lynching in Colorado, the *Rocky Mountain Daily News* called for the reinstatement of capital punishment: "The people of Colorado and the next legislature might as well face the fact that in the absence of capital punishment under the law it is inflicted through the angry mob violence, whenever an especially atrocious crime is committed. . . . To prevent the recurrence of such horrors the death penalty should be restored in this state." 36
 
-In 1914, a Shreveport, Louisiana paper expressed a similar sentiment about the prospect of abolition: "We are having suggestions from some of the newspapers of the State that Louisiana follow the lead of a few other States and abolish the death penalty. . . . Would not one result be to increase the number of lynchings? . . . Would the murderer be permitted to reach State prison in safety from the vengeance of an outraged citizenship, there to plan to elude the guards at the first opportunity?" <sup>37</sup>
+In 1914, a Shreveport, Louisiana paper expressed a similar sentiment about the prospect of abolition: "We are having suggestions from some of the newspapers of the State that Louisiana follow the lead of a few other States and abolish the death penalty. . . . Would not one result be to increase the number of lynchings? . . . Would the murderer be permitted to reach State prison in safety from the vengeance of an outraged citizenship, there to plan to elude the guards at the first opportunity?" 37
 
 ## ![](_page_19_Picture_1.jpeg)
 
@@ -210,9 +215,9 @@ The 1936 execution of Rainey Bethea in Owensboro, Kentucky
 
 #### The Last Public Execution
 
-In August 1936, more than 20,000 people gathered in Owensboro, Kentucky to watch the hanging of Rainey Bethea, a 22-year-old African-American man who was accused of raping and murdering an elderly white woman.<sup>40</sup> At the time, Kentucky law provided that executions for murder would be conducted inside the state prison. Executions for rape, however, could be conducted by public hanging in the county in which the crime occurred.
+In August 1936, more than 20,000 people gathered in Owensboro, Kentucky to watch the hanging of Rainey Bethea, a 22-year-old African-American man who was accused of raping and murdering an elderly white woman.40 At the time, Kentucky law provided that executions for murder would be conducted inside the state prison. Executions for rape, however, could be conducted by public hanging in the county in which the crime occurred.
 
-To ensure a public execution, prosecutors tried and convicted Bethea only on the rape charge.<sup>41</sup> The execution had a carnival-like atmosphere. Newspapers across the country ran articles with headlines like "They Ate Hotdogs While a Man Died on the Gallows" and "Children Picnic as Killer Pays." Although local officials maintained that the event had been somber and respectful, Kentucky banned public executions eighteen months later.<sup>42</sup>
+To ensure a public execution, prosecutors tried and convicted Bethea only on the rape charge.41 The execution had a carnival-like atmosphere. Newspapers across the country ran articles with headlines like "They Ate Hotdogs While a Man Died on the Gallows" and "Children Picnic as Killer Pays." Although local officials maintained that the event had been somber and respectful, Kentucky banned public executions eighteen months later.42
 
 #### Race and Executions Between the Lynching Era and the Civil Rights Era
 
@@ -231,7 +236,7 @@ In Alabama, Arkansas, Florida, Georgia, Louisiana, South Carolina, and Tennessee
 
 U. S. Dep't of Justice, Bureau of Prisons, National Prisoner Statistics, Bulletin No. 45, *Capital Punishment 1930-1968* (1969).
 
-1930 and 1972, 455 men were executed for rape across the U. S. Four hundred and ve, or 89.1%, were African American.45 e vast majority (443) of these executions occurred in former Confederate states.46 An examination of death sentencing for rape in Texas between 1924 and 1972 concluded that "when a black oender was convicted of raping a white woman, he was virtually assured of a death sentence." <sup>47</sup>
+1930 and 1972, 455 men were executed for rape across the U. S. Four hundred and ve, or 89.1%, were African American.45 e vast majority (443) of these executions occurred in former Confederate states.46 An examination of death sentencing for rape in Texas between 1924 and 1972 concluded that "when a black oender was convicted of raping a white woman, he was virtually assured of a death sentence." 47
 
 roughout U. S. history, no white man has ever been executed for the rape of a Black woman or girl in which the victim was not killed.
 
@@ -261,9 +266,9 @@ Shortly after deciding *Gregg,* the Supreme Court had an opportunity to address 
 
 #### Race Disparities in ARMED ROBBERY ATTEMPTED **MURDER** RAPE RAPE Virginia Executions from Black Black White White Black Black White 1900-1969 185 46 48 0 20 0 O Virginia provides an illustration of how much race determined who was executed for non-murder crimes. Before the Civil War, Virginia explicitly provided different penalties for white people and its enslaved population. By 1848, white people could be sentenced to death only for first-degree murder while enslaved Black people could be executed for a number of non-homicide offenses.58 Although this formal distinction was gone by the twentieth century, the state's executions showed that in practice different rules were being applied to white and Black defendants.
 
-by a homicide. Although the briefing in the case described in detail the racially biased application of capital rape statutes, race was never mentioned in the Court's opinion.<sup>59</sup>
+by a homicide. Although the briefing in the case described in detail the racially biased application of capital rape statutes, race was never mentioned in the Court's opinion.59
 
-In its 1986 decision in *Turner v. Murray*, the Court finally acknowledged the unique susceptibility of capital sentencing decisions to racial prejudice.<sup>60</sup> Turner, an African-American man, had been sentenced to death by a Virginia jury for killing a white man. During jury selection, the judge denied defense counsel's request to question potential jurors about racial prejudice. e Supreme Court reversed. Justice Byron White, writing for four Justices, stated:
+In its 1986 decision in *Turner v. Murray*, the Court finally acknowledged the unique susceptibility of capital sentencing decisions to racial prejudice.60 Turner, an African-American man, had been sentenced to death by a Virginia jury for killing a white man. During jury selection, the judge denied defense counsel's request to question potential jurors about racial prejudice. e Supreme Court reversed. Justice Byron White, writing for four Justices, stated:
 
 Because of the range of discretion entrusted to a jury in a capital sentencing hearing, there is a unique opportunity for racial prejudice to operate, but remain undetected. On the facts of this case, a juror who believes that blacks are violence prone or morally inferior might well be inuenced by that belief in deciding whether petitioner's crime involved the aggravating factors specied under Virginia law. Such a juror might also be less favorably inclined toward petitioner's evidence of mental disturbance as a mitigating circumstance. More subtle, less consciously held racial attitudes could also inuence a juror's decision in this case. Fear of blacks, which could easily be stirred up by the violent facts of petitioner's crime, might incline a juror to favor the death penalty.61
 
@@ -321,7 +326,7 @@ As the United States' territorial ambitions expanded to the west coast in the 19
 
 e hanging of Josefa Loaiza is one of the most notorious of these lynchings. Josefa was hanged in 1851 for killing an Anglo miner in Downieville, California.83 After an alcohol-fueled Fourth of July celebration, the miner had knocked the door o of Josefa's house and barged in. Although news accounts were vague about the details, some speculated that the miner assaulted Josefa. Josefa's husband confronted the miner the next day, and after an argument the miner entered the house again. Josefa then stabbed him. A hastily gathered tribunal was convened, presided over by a local rancher known as Judge Lynch. e tribunal found Josefa guilty and arranged her hanging.
 
-Josefa's case garnered national attention, with news accounts full of Mexican stereotypes about her "uneven temper" and "the erceness of [her] anger." <sup>84</sup> Frederick Douglass called the lynching shameful. He believed that if Josefa had been a white woman her act of self-defense would have been praised and that she was killed because of her "caste and Mexican blood." 85
+Josefa's case garnered national attention, with news accounts full of Mexican stereotypes about her "uneven temper" and "the erceness of [her] anger." 84 Frederick Douglass called the lynching shameful. He believed that if Josefa had been a white woman her act of self-defense would have been praised and that she was killed because of her "caste and Mexican blood." 85
 
 Some authorities describe Loaiza's hanging as an execution, but contemporaneous accounts described it as a lynching. is discrepancy highlights the thin line between legal and extralegal executions in the Southwest.86
 
@@ -377,7 +382,7 @@ Researchers have also considered connections between death-sentencing and homici
 
 Race continues to aect case outcomes after a death sentence has been imposed. In a study of capital cases reversed on appeal between 1973 and 1995, researchers found that the race of the victim in a particular case did not aect the chances that the case would be overturned on appeal or in other post-conviction review.108 Instead, the state's capital reversal rate was aected by the size of the African-American population and the relative risk of homicide. Death penalty cases were reversed for constitutional error more frequently in states with a large African-American population and where the murder rate for white people was relatively high compared to the murder rate for Black people.109 To explain this pattern, the authors proposed that "[t]he larger a state's African-American minority, … the more fear of violent crime some members of the majority may feel, and the more pressure politically inuential members of that group may generate to use the death penalty as a protective measure." 110
 
-In 2019, Scott Phillips and Justin F. Marceau examined the case outcomes of the Georgia defendants in David Baldus' seminal study which formed the basis for the *Mc Cleskey v. Kemp* challenge to the death penalty. 111 Phillips and Marceau found that "racial disparities persist and indeed are magnied by the appellate and clemency processes," resulting in an overall execution rate that "is a staggering 17 times greater . . . for defendants who killed a white victim." <sup>112</sup>
+In 2019, Scott Phillips and Justin F. Marceau examined the case outcomes of the Georgia defendants in David Baldus' seminal study which formed the basis for the *Mc Cleskey v. Kemp* challenge to the death penalty. 111 Phillips and Marceau found that "racial disparities persist and indeed are magnied by the appellate and clemency processes," resulting in an overall execution rate that "is a staggering 17 times greater . . . for defendants who killed a white victim." 112
 
 A comparison of national homicide data and execution data between 1976 and 2014 found that those who kill "white victims have more than four times the likelihood of execution than" those who kill African Americans. 113 e study also found signicant disparities based on the race and gender of victims in death penalty cases resulting in execution. e researchers explained:
 
@@ -401,7 +406,7 @@ Structural racism also contributes to implicit bias, the unconscious attitudes a
 
 People are often unaware of these biases and the effects they have on their thoughts and behavior. Social scientists have been exploring the role of implicit bias in human behavior for more than a quarter century. This emerging science of cognition has confirmed that humans "are not perceptually, cognitively, or behaviorally colorblind." In recent years, the general public's awareness of the role of implicit racial bias has grown mainly through conversations about police violence against African Americans.
 
-internalize the concepts in racial terms. People who have more anti-Black implicit racial bias are more likely to support retribution as a goal of criminal punishment. <sup>127</sup>
+internalize the concepts in racial terms. People who have more anti-Black implicit racial bias are more likely to support retribution as a goal of criminal punishment. 127
 
 Structural racism and implicit and explicit bias influence decisions made from the earliest stages of a case, before a crime has even been charged, all the way to its conclusion.
 
@@ -417,7 +422,7 @@ Capital punishment is supposed to be reserved for those who commit the 'worst of
 
 ### The Long Shadow of Lynching Over Today's Death Penalty
 
-The heyday of lynching was in the late 1800s and early 1900s. Yet, its legacy remains a part of the American consciousness. Professor Charles Ogletree has argued that "the racially disproportionate application of the death penalty can be seen as being in historical continuity with the long and sordid history of lynching in this country." <sup>128</sup>
+The heyday of lynching was in the late 1800s and early 1900s. Yet, its legacy remains a part of the American consciousness. Professor Charles Ogletree has argued that "the racially disproportionate application of the death penalty can be seen as being in historical continuity with the long and sordid history of lynching in this country." 128
 
 The history of lynching has been connected with a variety of modern-day outcomes: counties' failures to enforce federal hate crime laws, states' incarceration rates, and counties' rates of white-on-black homicides.129 States' lynching histories have also been connected to death sentencing and attitudes toward the death penalty. States with higher numbers of lynchings and large Black populations have higher rates of death sentencing.130 White residents of states with higher numbers of lynchings are more likely to support the death penalty than those in states where lynchings were not common.131
 
@@ -463,7 +468,7 @@ Ramseur sought to move the trial to a less hostile venue, but the trial court re
 
 #### *Arrest and Homicide Clearance Rates*
 
-From the very beginning of a homicide case, the race of the victim has implications for whether a crime is solved. Race can aect whether a homicide is seen as high prole, how aggressively police respond to homicide, and how well police departments collaborate with communities to solve crimes.134 Overall, only 60% of homicides are "cleared" by the arrest of a suspect.135 A study of reported homicides between 1976 and 2009 found that "homicides with White victims are signicantly more likely to be 'cleared' . . . than are homicides with minority victims." <sup>136</sup> is disparity can only partially be explained by county-level dierences in social and demographic characteristics.137
+From the very beginning of a homicide case, the race of the victim has implications for whether a crime is solved. Race can aect whether a homicide is seen as high prole, how aggressively police respond to homicide, and how well police departments collaborate with communities to solve crimes.134 Overall, only 60% of homicides are "cleared" by the arrest of a suspect.135 A study of reported homicides between 1976 and 2009 found that "homicides with White victims are signicantly more likely to be 'cleared' . . . than are homicides with minority victims." 136 is disparity can only partially be explained by county-level dierences in social and demographic characteristics.137
 
 e dierence between clearance rates for white victim and Black victim cases means that homicides involving white victims are not only more likely to lead to death sentences, but are more likely to be prosecuted at all.
 
@@ -507,7 +512,7 @@ Flowers' case is extreme only because of the sheer number of trials; it is not u
 
 #### Prosecutors' jury selection notes from three Georgia death penalty cases qualified Black jurors were struck from juries at more than twice the rate of qualified white jurors in 173 North Carolina capital cases between 1990-2010. As of 2010, twenty percent of those on North Carolina's death row were sentenced to death by all-white juries. Yet, in the thirty years after the *Batson v. Kentucky* decision, neither the North Carolina Court of Appeals nor the North Carolina Supreme Court ever granted relief in the more than 100 cases in which a *Batson* issue was contested. The North Carolina Supreme Court's sole grant of *Batson* relief to date occurred in May 2020. The North Carolina Supreme Court's sole grant of *Batson* relief to date occurred in May 2020.
 
-A recent review of California *Batson* cases reveals similar treatment of jury discrimination. Between 1989 and 2019, the California Supreme Court granted relief in only three of the 142 *Batson* cases that came before it, a reversal rate of 2.1%. <sup>171</sup> The California courts of appeal had a similarly low rate of reversal, finding *Batson* error in only 2.6% of cases between 2006 and 2018. <sup>172</sup> This does not mean that California prosecutors scrupulously adhere to fair jury selection practices. Between 1993 and 2019, the United States Court of Appeals for the Ninth Circuit found *Batson* error in 15% of California cases in which the issue was raised. <sup>173</sup> The gulf between the reversal rates in California courts and the Ninth Circuit is striking given the deferential standard that federal courts apply to the review of state criminal cases.
+A recent review of California *Batson* cases reveals similar treatment of jury discrimination. Between 1989 and 2019, the California Supreme Court granted relief in only three of the 142 *Batson* cases that came before it, a reversal rate of 2.1%. 171 The California courts of appeal had a similarly low rate of reversal, finding *Batson* error in only 2.6% of cases between 2006 and 2018. 172 This does not mean that California prosecutors scrupulously adhere to fair jury selection practices. Between 1993 and 2019, the United States Court of Appeals for the Ninth Circuit found *Batson* error in 15% of California cases in which the issue was raised. 173 The gulf between the reversal rates in California courts and the Ninth Circuit is striking given the deferential standard that federal courts apply to the review of state criminal cases.
 
 ## ![](_page_47_Picture_0.jpeg)
 
@@ -642,7 +647,7 @@ All of these issues are tied to the history and the future of the death penalty 
 
 #### Targeting Mass Incarceration
 
-Much of the discussion about the role of race in the criminal legal system has focused on mass incarceration. e United States is a world leader in imprisonment, with almost 2.3 million people in prisons or jails.225 is carceral system is incredibly costly and has not been shown to enhance public safety. <sup>226</sup> It also disproportionately aects communities of color with African Americans imprisoned at a rate that is 5.1 times that of white people and Latinx people imprisoned at 1.4 times the white imprisonment rate.227
+Much of the discussion about the role of race in the criminal legal system has focused on mass incarceration. e United States is a world leader in imprisonment, with almost 2.3 million people in prisons or jails.225 is carceral system is incredibly costly and has not been shown to enhance public safety. 226 It also disproportionately aects communities of color with African Americans imprisoned at a rate that is 5.1 times that of white people and Latinx people imprisoned at 1.4 times the white imprisonment rate.227
 
 Initially it may seem that the death penalty is out of place in this conversation since the death row population of 2,600 people is a miniscule portion of the entire incarcerated population. 228 However, the death penalty is an important anchor for mass incarceration and long sentences. It drives sentencing lengths by framing life without parole as a compassionate or less severe alternative. It also entrenches one of the attitudes that perpetuates mass incarceration, legitimizing the notion that whole classes of people are unredeemable.
 
@@ -718,9 +723,9 @@ Jones' lawyers petitioned the Oklahoma Pardon and Parole Board for clemency, arg
 
 #### Recognizing the Power of the Prosecutor
 
-As policy makers, activists, courts, and legislatures focus on ending mass incarceration and ensuring accountability for police violence, reforming the use of prosecutorial discretion throughout the criminal legal system has become a top priority.<sup>255</sup>
+As policy makers, activists, courts, and legislatures focus on ending mass incarceration and ensuring accountability for police violence, reforming the use of prosecutorial discretion throughout the criminal legal system has become a top priority.255
 
-Racial disparities in the death penalty go hand in hand with geographic disparities in the pursuit of the death penalty. When researchers examine the places of greatest concentration of executions and death sentences, it is clear that a small minority of jurisdictions are responsible for the majority of capital punishment activity.<sup>256</sup> A 2013 Death Penalty Information Center report compiled data on death sentences and executions across the country to find that 2% of the counties in the U. S. have been responsible for the majority of modern executions, and the same percentage of counties are responsible for the majority of the death row population.<sup>257</sup> By 2020 just 1.2% of U. S. counties accounted for half of the nation's death row.<sup>258</sup> And just three high-execution states—Texas, Missouri, and Virginia—accounted for more than half of the federal death row.<sup>259</sup>
+Racial disparities in the death penalty go hand in hand with geographic disparities in the pursuit of the death penalty. When researchers examine the places of greatest concentration of executions and death sentences, it is clear that a small minority of jurisdictions are responsible for the majority of capital punishment activity.256 A 2013 Death Penalty Information Center report compiled data on death sentences and executions across the country to find that 2% of the counties in the U. S. have been responsible for the majority of modern executions, and the same percentage of counties are responsible for the majority of the death row population.257 By 2020 just 1.2% of U. S. counties accounted for half of the nation's death row.258 And just three high-execution states—Texas, Missouri, and Virginia—accounted for more than half of the federal death row.259
 
 The role of prosecutorial discretion in the geographically isolated use of the death penalty cannot be overstated. A study of capital charging in Georgia between 1993 and 2000 showed a wide variation in
 
@@ -728,7 +733,7 @@ The role of prosecutorial discretion in the geographically isolated use of the d
 
 1994 campaign ad for Oklahoma County DA "Cowboy Bob" Macy touting "44 Murderers Put on Death Row"
 
-whether prosecutors would pursue the death penalty against a defendant accused of committing a death-eligible crime. The probability was 6% in the judicial circuit that charged the least often and 62% in the highest charging judicial circuit. <sup>260</sup> Racial disparities also varied widely depending on the judicial circuit in which the crime was charged. However, cases with white victims were consistently charged capitally at a higher rate than death-eligible murders of Black victims. <sup>261</sup>
+whether prosecutors would pursue the death penalty against a defendant accused of committing a death-eligible crime. The probability was 6% in the judicial circuit that charged the least often and 62% in the highest charging judicial circuit. 260 Racial disparities also varied widely depending on the judicial circuit in which the crime was charged. However, cases with white victims were consistently charged capitally at a higher rate than death-eligible murders of Black victims. 261
 
 #### Philadelphia: Race, Prosecution, and Death Sentencing
 
@@ -764,7 +769,7 @@ Caddo Parish, Louisiana, exemplies the historical legacy of racism and defenses 
 
 While Caddo Parish made up ve percent of Louisiana's population, it generated a third of the state's death sentences between 2010 and 2015.283 Of the 22 defendants sentenced to death in the parish in the modern era, 15 were sentenced for killing white victims. By contrast, no white person has been sentenced to death for killing a Black victim.284 Caddo Parish prosecutors removed African Americans from juries at a rate triple that of other potential jurors.285 One Caddo Parish death penalty case has been reversed because of racial discrimination in jury selection.286
 
-Two of Louisiana's eleven death row exonerees, Glenn Ford and Rodricus Crawford, are Black men from Caddo Parish.287 In response to Ford's release, Caddo Parish Acting District Attorney Dale Cox vowed to pursue the death penalty with even more fervor. He stated, "I think we need to kill more people." He later justied his pursuit of the death penalty by explaining that "[r]evenge brings to us a visceral satisfaction." <sup>288</sup> Voters elected a new district attorney in 2015, and in line with sentencing trends throughout the state, no new death sentences have been imposed to date.289
+Two of Louisiana's eleven death row exonerees, Glenn Ford and Rodricus Crawford, are Black men from Caddo Parish.287 In response to Ford's release, Caddo Parish Acting District Attorney Dale Cox vowed to pursue the death penalty with even more fervor. He stated, "I think we need to kill more people." He later justied his pursuit of the death penalty by explaining that "[r]evenge brings to us a visceral satisfaction." 288 Voters elected a new district attorney in 2015, and in line with sentencing trends throughout the state, no new death sentences have been imposed to date.289
 
 Caddo Parish is just one example of prosecutorial overzealousness intersecting with a history of racial injustice and present-day racial disparities. But this combination of factors is not unique. e Fair Punishment Project highlighted sixteen outlier counties in which prosecutors aggressively pursued the death penalty.290e authors concluded that "these counties frequently share at least three systemic deciencies: a history of overzealous prosecutions, inadequate defense lawyering, and a pattern of racial bias and exclusion." 291 A companion report focusing on the "deadliest prosecutors" highlighted the role of personality-driven prosecution in fueling death sentencing in some of the counties with the highest number of death sentences. 292
 

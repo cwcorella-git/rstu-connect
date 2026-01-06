@@ -1,13 +1,8 @@
 ---
-title: The Union On Our Own Terms Alexis Buss
-date: 2025
-author: Industrial Workers of the World
-tags:
-  - organizing
-  - strikes
-  - unions
-  - rent
-  - labor
+title: "The Union On Our Own Terms Alexis Buss"
+author: "Industrial Workers of the World"
+date: "2025"
+category: "labor"
 ---
 
 # The Union On Our Own Terms Alexis Buss

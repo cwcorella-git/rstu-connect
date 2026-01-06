@@ -1,3 +1,8 @@
+---
+title: "After Deschooling, What? Ivan Illich, et al. Edited by Alan Gartner, Collin Grange and Frank Riessman"
+category: "theory"
+---
+
 # After Deschooling, What? Ivan Illich, et al. Edited by Alan Gartner, Collin Grange and Frank Riessman
 
 ## Colin Greer, and Frank Riessman
@@ -74,13 +79,15 @@ JUDSON JEROME/After Illich, What?
 | Preface | ix |
 |-------------------------------------------------------------------|-----|
 | After Deschooling, What? IVAN ILLICH | 1 |
-| Toward a Political Economy of Education:<br>A Radical Critique of | |
+| Toward a Political Economy of Education:
+A Radical Critique of | |
 | Ivan Illich's Deschooling Society HERBERT GINTIS | 29 |
 | All Schooled Up COLIN GREER | 77 |
 | Taking Illich Seriously SUMNER M. ROSEN | 85 |
 | After Illich, What? JUDSON JEROME | 104 |
 | The Case for Schooling America ARTHUR PEARL | 112 |
-| Need for a Risk Quotient<br>ROY P. FAIRFIELD | 118 |
+| Need for a Risk Quotient
+ROY P. FAIRFIELD | 118 |
 ## | And It Still Is News | 129 |
 
 | | в | ю | а | |
@@ -288,7 +295,7 @@ I believe that a desirable future depends on our deliberately... engendering a l
 
 Commodity fetishism is institutionalized in two senses. First, the "delivery systems" in modern industrial economies (i.e., the suppliers of goods and services) are huge, bureaucratic institutions which treat individuals as mere receptors for their products. Goods are supplied by hierarchical and impersonal corporate enterprises, while services
 
-<sup>&</sup>lt;sup>1</sup>Illich himself does not use the term "commodity fetishism." I shall do so, however, as it is more felicitous than "institutionalized values" in many contexts.
+&lt;sup>1Illich himself does not use the term "commodity fetishism." I shall do so, however, as it is more felicitous than "institutionalized values" in many contexts.
 
 are provided by welfare bureaucracies which enjoy "... a professional, political and financial monopoly over the social imagination, setting standards of what is valuable and what is feasible.... A whole society is initiated into the Myth of Unending Consumption of services" (DS, p. 44).
 
@@ -298,7 +305,7 @@ or psychologically "addictive." Social addiction... consists in the tendency to 
 
 These delivery systems moreover "both invite compulsively repetitive use and frustrate alternative ways of achieving similar results." For example, General Motors and Ford and more importantly, manipulate public taste in such a way that the need for transportation is expressed as a demand for private cars rather than public buses. They sell the desire to control a machine, to race at high speeds in luxurious comfort, while also offering the fantasy at the end of the road. [DS, p. 57]
 
-This analysis of addictive manipulation in private production is, of course, well-developed in the literature.<sup>2</sup> Illich's contribution is to extend it to the sphere of service and welfare bureaucracies:
+This analysis of addictive manipulation in private production is, of course, well-developed in the literature.2 Illich's contribution is to extend it to the sphere of service and welfare bureaucracies:
 
 Finally, teachers, doctors, and social workers realize that their distinct professional ministrations have one aspect—at least—in common. They create further demands for the institutional treatments they provide, faster than they can provide service institutions. [DS, p. 112]
 
@@ -308,7 +315,7 @@ The well-socialized naturally react to these failures simply by increasing the p
 
 As the basis for his educational proposals, Illich's overall framework bears close attention. Since commodity fetishism is basically a psychological stance, it must first be attacked on an individual rather than political level. For Illich, each individual is responsible for his/her own demystification. The institutionalization of values occurs
 
-<sup>\*</sup>See, for instance, Herbert Gintis, "Commodity Fetishism and Irrational Production" (Cambridge, Mass.: Harvard Institute for Economic Research, 1970); "Consumer Behavior and the Concept of Sovereignty," American Economic Review, forthcoming; "A Radical Analysis of Welfare Economics and Individual Development," Quarterly Journal of Economics, forthcoming; John K. Galbraith, The New Industrial State (Boston: Houghton Mifflin, 1963); Herbert Marcuse, One Dimensional Man (Boston: Beacon Press, 1964).
+\*See, for instance, Herbert Gintis, "Commodity Fetishism and Irrational Production" (Cambridge, Mass.: Harvard Institute for Economic Research, 1970); "Consumer Behavior and the Concept of Sovereignty," American Economic Review, forthcoming; "A Radical Analysis of Welfare Economics and Individual Development," Quarterly Journal of Economics, forthcoming; John K. Galbraith, The New Industrial State (Boston: Houghton Mifflin, 1963); Herbert Marcuse, One Dimensional Man (Boston: Beacon Press, 1964).
 
 not through external coercion, but through psychic manipulation, so its rejection is an apolitical act of individual will. The movement for social change thus becomes a cultural one of raising consciousness.
 
@@ -332,7 +339,7 @@ Illich's model of consumption-manipulation is crucial at every stage of his poli
 
 First, Illich locates the source of social decay in the autonomous, manipulative behavior of corporate bureaucracies. I shall argue, in contrast, that the source must be sought in the normal operation of the basic economic institutions of capitalism (markets in factors of production, private control of resources and technology, etc.),3 which con-
 
-<sup>&</sup>lt;sup>a</sup> Throughout this paper, I restrict my analysis to capitalist as opposed to other economic systems of advanced industrial societies (e.g., state-socialism of the Soviet Union type). As Illich suggests, the outcomes are much the same, but the mechanisms are in fact quite different. The private-administrative economic power of a capitalist elite is mirrored by the public-administrative political power of a bureaucratic elite in state-socialist countries, and both are used to reproduce a similar complex of social relations of production and a structurally equivalent system of class relations. The capitalist variety is emphasized here because of its special relevance in the American context.
+&lt;sup>a Throughout this paper, I restrict my analysis to capitalist as opposed to other economic systems of advanced industrial societies (e.g., state-socialism of the Soviet Union type). As Illich suggests, the outcomes are much the same, but the mechanisms are in fact quite different. The private-administrative economic power of a capitalist elite is mirrored by the public-administrative political power of a bureaucratic elite in state-socialist countries, and both are used to reproduce a similar complex of social relations of production and a structurally equivalent system of class relations. The capitalist variety is emphasized here because of its special relevance in the American context.
 
 sistently sacrifice the healthy development of community, work, environment, education, and social equality to the accumulation of capital and the growth of marketable goods and services. Moreover, given that individuals must participate in economic activity, these social outcomes are quite insensitive to the preferences or values of individuals, and are certainly in no sense a reflection of the autonomous wills of manipulating bureaucrats or gullible consumers. Hence merely ending "manipulation" while maintaining basic economic institutions will affect the rate of social decay only minimally.
 
@@ -356,23 +363,23 @@ These activity contexts, as I shall show, are structured in turn by the way peop
 
 The most important of these institutions are: (1) private ownership of factors of production (land, labor, and capital), according to which the owner has full control over their disposition and development; (2) a market in labor, according to which (a) the worker is divorced, by and large, from ownership of nonhuman factors of production (land and capital) (b) the worker relinquishes control over the disposition of his labor during the stipulated workday by exchanging it for money, and (c) the price of a particular type of labor
 
-(skilled or unskilled, white collar or blue collar, physical, mental, managerial, or technical) is determined essentially by supply and demand; (3) a market in land, according to which the price of each parcel of land is determined by supply and demand, and the use of such parcels is individually determined by the highest bidder; (4) income determination on the basis of the market-dictated returns to owned factors of production; (5) markets in essential commodities—food, shelter, social insurance, medical care; and (6) control of the productive process by owners of capital or their managerial representatives.<sup>5</sup>
+(skilled or unskilled, white collar or blue collar, physical, mental, managerial, or technical) is determined essentially by supply and demand; (3) a market in land, according to which the price of each parcel of land is determined by supply and demand, and the use of such parcels is individually determined by the highest bidder; (4) income determination on the basis of the market-dictated returns to owned factors of production; (5) markets in essential commodities—food, shelter, social insurance, medical care; and (6) control of the productive process by owners of capital or their managerial representatives.5
 
 Because essential goods, services, and activity contexts are marketed, income is a prerequisite to social existence. Because factors of production are privately owned and market-determined factor returns are the legitimate source of income, and because most workers possess little more than their own labor services, they are required to provide these services to the economic system. Thus control over the developing of work roles and of the social technology of production passes into the hands of the representatives of capital.
 
 Thus the activity context of work becomes alienated in the sense that its structure and historical development do not conform to the needs of the
 
-<sup>&</sup>lt;sup>6</sup> The arguments in this section are presented at greater length in Gintis, "Power and Alienation," in *Readings in Political Economy*, ed. James Weaver (Rockleigh, N. J.: Allyn and Bacon, 1972) and "Consumer Behavior and the Concept of Sovereignty."
+&lt;sup>6 The arguments in this section are presented at greater length in Gintis, "Power and Alienation," in *Readings in Political Economy*, ed. James Weaver (Rockleigh, N. J.: Allyn and Bacon, 1972) and "Consumer Behavior and the Concept of Sovereignty."
 
 individuals it affects.6 Bosses determine the technologies and social relations of production within the enterprise on the basis of three criteria. First, production must be flexibly organized for decision-making and secure managerial control from the highest levels downward. This means generally that technologies employed must be compatible with hierarchical authority and a fragmented, taskspecific division of labor.7 The need to maintain effective administrative power leads to bureaucratic order in production, the hallmark of modern corporate organization. Second, among all technologies and work roles compatible with secure and flexible control from the top, bosses choose those which minimize costs and maximize profits. Finally, bosses determine product attributes-and hence the "craft rationality" of production-according to their contribution to gross sales and growth of the enterprise. Hence the decline in pride of workmanship and quality of production associated with the Industrial Revolution.
 
 There is no reason to believe that a great deal of desirable work is not possible. On the contrary, evidence indicates that decentralization, worker control, the reintroduction of craft in production, job rotation, and the elimination of the most con-
 
-<sup>7</sup> See the essay by Stephen Marglin, "What Do Bosses Do?" Unpublished, Department of Economics, Harvard Univer-
+7 See the essay by Stephen Marglin, "What Do Bosses Do?" Unpublished, Department of Economics, Harvard Univer-
 
 sity, 1971.
 
-<sup>&</sup>lt;sup>6</sup> This definition conforms to Marxist usage in that "alienation" refers to social processes, not psychological states. For some discussion of this term in Marxist literature, see Gintis, "Power and Alienation" and "Consumer Behavior and the Concept of sovereignty."
+&lt;sup>6 This definition conforms to Marxist usage in that "alienation" refers to social processes, not psychological states. For some discussion of this term in Marxist literature, see Gintis, "Power and Alienation" and "Consumer Behavior and the Concept of sovereignty."
 
 straining aspects of hierarchy are both feasible and potentially efficient. But such work roles develop in an institutional context wherein control, profit, and growth regulate the development of the social relations of production. Unalienated production must be the result of the revolutionary transformation of the basic institutions which Illich implicitly accepts.
 
@@ -398,7 +405,7 @@ Likewise from a systematic point of view, penal, mental illness, and poverty age
 
 Further, the cause of expansion of service agencies lies not in their addictive nature, but in their
 
-<sup>&</sup>lt;sup>9</sup> See Gintis, "Power and Alienation," for a concise summary.
+&lt;sup>9 See Gintis, "Power and Alienation," for a concise summary.
 
 failure even to attempt to deal with the institutional sources of social problems. The normal operation of basic economic institutions progressively aggravates these problems, hence requiring increased response on the part of welfare agencies.
 
@@ -418,7 +425,7 @@ In conclusion, it is clear that the motivational basis of consumer behavior deri
 
 Since Illich's views the "psychological impotence" of the individual in his/her "addictedness" to the ministrations of corporate and state bureaucracies as the basic problem of contemporary society, he defines the desirable "left-convivial" institutions by the criterion of "non-addictiveness."
 
-Applied to commodities or welfare services, this criterion is perhaps sufficient. But applied to major contexts of social activities, it is inappropriate. It is not possible for individuals to treat their work, their communities, and their environment in a simply instrumental manner. For better or worse, these social spheres, by regulating the individual's social activity, became a major determinant of his/her psychic development, and in an important sense define who he/she is. Indeed, the solution to the classical "problem of order" in society<sup>10</sup> is solved only by the individual's becoming "addicted" to his/her social forms by participating through them.<sup>11</sup> In remaking society, individuale do more than expand their freedom of choice—they change who they are, their self-definition, in the process. The criticism of alienated social spheres is not simply that they deprive individuals of necessary instruments of activity, but that in so doing they tend to produce in all of us something less than we intend to be.
+Applied to commodities or welfare services, this criterion is perhaps sufficient. But applied to major contexts of social activities, it is inappropriate. It is not possible for individuals to treat their work, their communities, and their environment in a simply instrumental manner. For better or worse, these social spheres, by regulating the individual's social activity, became a major determinant of his/her psychic development, and in an important sense define who he/she is. Indeed, the solution to the classical "problem of order" in society10 is solved only by the individual's becoming "addicted" to his/her social forms by participating through them.11 In remaking society, individuale do more than expand their freedom of choice—they change who they are, their self-definition, in the process. The criticism of alienated social spheres is not simply that they deprive individuals of necessary instruments of activity, but that in so doing they tend to produce in all of us something less than we intend to be.
 
 The irony of Illich's analysis is that by erecting "addictiveness vs. instrumentality" as the central welfare criterion, he himself assumes a commodity fetishist mentality. In essence, he posits the individual outside of society and using social forms as instruments in his/her preexisting ends. For instance, Illich does not speak of work as "addictive," because in fact individuals treat work first as a "disutility" and second as an instrument toward other ends (consumption). The alienation of work poses no threat to the "sovereignty" of the worker because he is not addicted to it. By definition, then, capitalist work, communities, and environments are "nonaddictive" and left-convivial.
 
@@ -426,7 +433,7 @@ The irony of Illich's analysis is that by erecting "addictiveness vs. instrument
 
 York: Free Press, 1939).
 
-<sup>&</sup>lt;sup>11</sup> Karl Marx, The Economic and Philosophical Manuscripts of 1844 (Moscow: Foreign Language Publishing House, 1959), and Karl Marx and Friedrich Engels, The Germany Ideology (New York: International Publishers, 1947).
+&lt;sup>11 Karl Marx, The Economic and Philosophical Manuscripts of 1844 (Moscow: Foreign Language Publishing House, 1959), and Karl Marx and Friedrich Engels, The Germany Ideology (New York: International Publishers, 1947).
 
 Illich's consideration of the capitalist enterprise as "right-manipulative" only with respect to the consumer is a perfect example of this "reification" of the social world. In contrast, I would argue that work is necessarily addictive in the larger sense of determining who a man/woman is as a human being.
 
@@ -472,7 +479,7 @@ People who have been schooled down to size let unmeasured experience slip out of
 
 Recent research justifies Illich's emphasis on the "hidden curriculum" of schooling. Mass public education has not evolved into its present bureaucratic, hierarchical, and authoritarian form because of the organizational prerequisites of imparting cognitive skills. Such skills may in fact be more efficiently developed in democratic, nonrepressive atmospheres. Rather, the social relations of edu-
 
-<sup>&</sup>lt;sup>19</sup> The literature on this subject is immense. Illich himself is quite persuasive, but see also Charles E. Silberman, *Crisis in the Classroom* (New York: Random House, 1970), for a more detailed treatment.
+&lt;sup>19 The literature on this subject is immense. Illich himself is quite persuasive, but see also Charles E. Silberman, *Crisis in the Classroom* (New York: Random House, 1970), for a more detailed treatment.
 
 57 cation produce and reinforce those values, attitudes, and affective capacities which allow individuals to move smoothly into an alienated and class-stratified society. That is, schooling reproduces the social relations of the larger society from generation to generation.13
 
@@ -480,13 +487,13 @@ Again, however, it does not follow that schooling finds its predominant function
 
 A production orientation to the analysis of schooling-that the "hidden curriculum" in mass education reproduces the social relations of production—is reinforced in several distinct bodies of current educational research. First, economists have shown that education, in its role of providing a properly trained labor force, takes its place alongside capital accumulation and technological
 
-<sup>&</sup>lt;sup>13</sup> Gintis, "Contre-Culture et Militantisme Politique," Les Temps Modernes (February 1971), "New Working Class and Revolutionary Youth," Socialist Revolution (May 1970), and "Education and the Characteristics of Worker Productivity," American Economic Review (May 1971); David Cohen and Marvin Lazerson, "Education and the Corporate Order," Socialist Revolution (March 1972); Clarence Karrier, "Testing for Order and Control," Education Theory (forthcoming); Michael B. Katz, The Irony of Early School Reform (Cambridge, Mass.: Harvard University Press, 1968), and "From Voluntarism to Bureaucracy in American Education," Sociology of Education, 1972; Joel Spring, "Education and Progressivism," History of Education (Spring 1970); and Robert Dreeben, On What Is Learned in Schools (Reading, Mass.: Addison-Wesley, 1968).
+&lt;sup>13 Gintis, "Contre-Culture et Militantisme Politique," Les Temps Modernes (February 1971), "New Working Class and Revolutionary Youth," Socialist Revolution (May 1970), and "Education and the Characteristics of Worker Productivity," American Economic Review (May 1971); David Cohen and Marvin Lazerson, "Education and the Corporate Order," Socialist Revolution (March 1972); Clarence Karrier, "Testing for Order and Control," Education Theory (forthcoming); Michael B. Katz, The Irony of Early School Reform (Cambridge, Mass.: Harvard University Press, 1968), and "From Voluntarism to Bureaucracy in American Education," Sociology of Education, 1972; Joel Spring, "Education and Progressivism," History of Education (Spring 1970); and Robert Dreeben, On What Is Learned in Schools (Reading, Mass.: Addison-Wesley, 1968).
 
 change as a major source of economic growth.14 Level of educational attainment is the major nonscriptive variable in furthering the economic position of individuals.
 
 Second, research shows that the type of personal development produced through schooling and relevant to the individual's productivity as a worker in a capitalist enterprise is primarily noncognitive. That is, profit-maximizing firms find it remunerative to hire more highly educated workers at higher pay, essentially irrespective of differences among individuals in cognitive abilities or attainments.15 In other words, two individuals (white American males) with identical cognitive achievements (intelligence or intellectual attainment) but differing educational levels will not command, on the average, the same income or occupational status. Rather, the economic success of each will correspond closely to the average for his educational level. All individuals with the same level of educational attainment tend to have the same expected mean economic success (racial and sexual discrimination aside). This is not to say that cogni-
 
-<sup>14</sup> See Edward F. Denison, The Sources of Economic Growth in the United States and the Alternatives Before Us (New York: Committee for Economic Development, 1962), and Theodore Schultz, The Economic Value of Education (New York: Columbia University Press, 1963).
+14 See Edward F. Denison, The Sources of Economic Growth in the United States and the Alternatives Before Us (New York: Committee for Economic Development, 1962), and Theodore Schultz, The Economic Value of Education (New York: Columbia University Press, 1963).
 
 15 This surprising result is developed in Gintis, "Education and the Characteristics of Worker Productivity," and is based on a wide variety of statistical data. It is validated and extended by Christopher Jencks et al., Education and Inequality (New York: Basic Books, 1972).
 
@@ -494,9 +501,9 @@ tive skills are not necessary to job adequacy in a technological society. Rather
 
 Thus the education-related worker attributes that employers willingly pay for must be predominantly affective characteristics—personality traits, attitudes, modes of self-presentation and motivation. How affective traits that are rewarded in schools come to correspond to the needs of alienated production is revealed by direct inspection of the social relations of the classroom. First, students are rewarded in terms of grades for exhibiting the personality characteristics of good workers in bureaucratic work roles proper subordinancy in relation to authority and the primacy of cognitive as opposed to affective and creative modes of social response—above and beyond any
 
-<sup>26</sup> See, e.g., Jencks et al.
+26 See, e.g., Jencks et al.
 
-<sup>&</sup>lt;sup>27</sup> For more extensive treatment, see Jencks et al. and Gintis, "Education and the Characteristics of Worker Productivity."
+&lt;sup>27 For more extensive treatment, see Jencks et al. and Gintis, "Education and the Characteristics of Worker Productivity."
 
 actual effect they may have on cognitive achievement. 18 Second, the hierarchical structure of schooling itself mirrors the social relations of industrial production: students cede control over their learning activities to teachers in the classroom. Just as workers are alienated from both the process and the product of their work activities, and must be motivated by the external reward of pay and hierarchical status, so the student learns to operate efficiently through the external reward of grades and promotion, effectively alienated from the process of education (learning) and its product (knowledge). Just as the work process is stratified, and workers on different levels in the hierarchy of authority and status are required to display substantively distinct patterns of values, aspirations, personality traits, and modes of "social presentation" (dress, manner of speech, personal identification, and loyalties to a particular social stratum),19 so the school system stratifies, tracks, and structures social interaction according to criteria of social class and relative scholastic success.20 The
 
@@ -504,25 +511,25 @@ actual effect they may have on cognitive achievement. 18 Second, the hierarchica
 
 Verlaganstalt, 1970).
 
-<sup>18</sup> For an analysis of relevant data and an extensive bibliography, see Gintis, "Education and the Characteristics of Worker Productivity," and "Alienation and Power" (Ph. D. diss., Harvard University, 1969).
+18 For an analysis of relevant data and an extensive bibliography, see Gintis, "Education and the Characteristics of Worker Productivity," and "Alienation and Power" (Ph. D. diss., Harvard University, 1969).
 
-<sup>&</sup>lt;sup>20</sup> See Merle Curti, The Social Ideas of American Educators (New York: Scribners, 1935); Gintis, "Contre-Culture et Militantisme Politique"; Gorz, "Capitalist Relations of Production and the Socially Necessary Labor Force," in All We Are Saying . . . , ed. Arthur Lothstein (New York: Putnam, 1970), and "Technique, Techniciens, et Lutte de Classes";
+&lt;sup>20 See Merle Curti, The Social Ideas of American Educators (New York: Scribners, 1935); Gintis, "Contre-Culture et Militantisme Politique"; Gorz, "Capitalist Relations of Production and the Socially Necessary Labor Force," in All We Are Saying . . . , ed. Arthur Lothstein (New York: Putnam, 1970), and "Technique, Techniciens, et Lutte de Classes";
 
-most effectively indoctrinated students are the most valuable to the economic enterprise or state bureaucracy, and also the most successfully integrated into a particular stratum within the hierarchical educational process.<sup>21</sup>
+most effectively indoctrinated students are the most valuable to the economic enterprise or state bureaucracy, and also the most successfully integrated into a particular stratum within the hierarchical educational process.21
 
-Third, a large body of historical research indicates that the system of mass, formal, and compulsory education arose more or less directly out of changes in productive relations associated with the Industrial Revolution, in its role of supplying a properly socialized and stratified labor force.<sup>22</sup>
+Third, a large body of historical research indicates that the system of mass, formal, and compulsory education arose more or less directly out of changes in productive relations associated with the Industrial Revolution, in its role of supplying a properly socialized and stratified labor force.22
 
 The critical turning points in the history of American education have coincided with the perceived failure of the school system to fulfill its functional role in reproducing a properly socialized and stratified labor force, in the face of important qualitative or quantitative changes in the social relations of production. In these periods
 
 Samuel Bowles, "Unequal Education and the Reproduction of the Social Division of Labor," in *The Capitalist System*, ed. Edwards, Reich, and Weisskopf, and "Contradictions de L'enseignement Superieure" *Les Temps Modernes* (August-September, 1971); and David Bruck, "The Schools of Lowell," honors thesis (unpublished), Harvard University, 1971.
 
-<sup>&</sup>lt;sup>2</sup>
+&lt;sup>2
 
 This statement is supported by the statistical results of Richard C. Edwards, Ph. D. diss., Department of Economics, Harvard University, in progress.
 
-<sup>\*\*</sup> Katz, The Irony of Early School Reform and "From Voluntarism to Bureaucracy in American Education"; Lawrence Cremin, The Transformation of the School (New York: Knopf, 1964); Raymond E. Callahan, Education and the Cult of Efficiency (Chicago: University of Chicago Press, 1962); Curti; Bowles, "Unequal Education and the Reproduction of the Social Division of Labor"; Spring; Cohen and Lazerson.
+\*\* Katz, The Irony of Early School Reform and "From Voluntarism to Bureaucracy in American Education"; Lawrence Cremin, The Transformation of the School (New York: Knopf, 1964); Raymond E. Callahan, Education and the Cult of Efficiency (Chicago: University of Chicago Press, 1962); Curti; Bowles, "Unequal Education and the Reproduction of the Social Division of Labor"; Spring; Cohen and Lazerson.
 
-(e.g., the emergence of the common school system) numerous options were open and openly discussed.<sup>23</sup> The conflict of economic interests eventually culminated in the functional reorientation of the educational system to new labor needs of an altered capitalism.
+(e.g., the emergence of the common school system) numerous options were open and openly discussed.23 The conflict of economic interests eventually culminated in the functional reorientation of the educational system to new labor needs of an altered capitalism.
 
 In the mid- to late nineteenth century, this took the form of the economy's need to generate a labor force compatible with the factory system from a predominantly agricultural populace. Later, the crisis in education corresponded to the economy's need to import peasant European labor whose social relations of production and derivative culture were incompatible with industrial wage-labor. The resolution of this crisis was a hierarchical, centralized school system corresponding to the ascendance of corporate production. This resolution was not without its own contradictions. It is at this time that the modern school became the focus of tensions between work and play, between the culture of school and the culture of immigrant children, and between the notion of meritocracy and equality. Thus while Illich can describe the characteristics of contemporary education, his consumption orientation prevents him from understanding how the system came to be.
 
@@ -540,17 +547,17 @@ But a reorganization of production has other goals as well. For example, any for
 
 The main elements in Illich's left-convivial "learning web" alternative to manipulative education are all fundamentally dispersive and fragmenting of a learning community:
 
-<sup>1.</sup> Reference Services to Educational Objects—which facilitate access to things or processes used for formal
+1. Reference Services to Educational Objects—which facilitate access to things or processes used for formal
 
 ### POLITICAL ECONOMY OF EDUCATION 65
 
 The second setting for a politics of education is the transitional society—one which bears the technological and cultural heritage of the capitalist class/caste system, but whose social institutions and patterns of social consciousness are geared toward the progresive realization of "ideal forms" (i.e., revolutionary goals). In this setting, the social relations of education will themselves be transitional in nature, mirroring the transformation process of social relations of production.25 For instance, the elimination of boring, unhealthy, fragmented, uncreative, constraining, and otherwise alienated but socially necessary labor requires an extended process of technological change in a transitional phase. As we have observed, the repressive application of technology toward the learning. Some of these things can be reserved for this purpose, stored in libraries, rental agencies, laboratories, and showrooms like museums and theaters; others can be in daily use in factories, airports, or on farms, but made available to students as apprentices or on off-hours.
 
-<sup>2.</sup> Skill Exchanges—which permit persons to list their skills, the conditions under which they are willing to serve as models for others who want to learn these skills, and the addresses at which they can be reached.
+2. Skill Exchanges—which permit persons to list their skills, the conditions under which they are willing to serve as models for others who want to learn these skills, and the addresses at which they can be reached.
 
 3. Peer-Matching—a communications network which permits persons to describe the learning activity in which they wish to engage, in the hope of finding a partner for the inquiry.
 
-<sup>4.</sup> Reference Services to Educators-at-Large—who can be listed in a directory giving the addresses and self-descriptions of professionals, paraprofessionals, and free-lancers, along with conditions of access to their services.
+4. Reference Services to Educators-at-Large—who can be listed in a directory giving the addresses and self-descriptions of professionals, paraprofessionals, and free-lancers, along with conditions of access to their services.
 
 Bowles, "Cuban Education and the Revolutionary Ideology," Harvard Educational Review, 41 (November 1971).
 
@@ -558,9 +565,9 @@ formation of occupational roles is not due to the intrinsic nature of physical s
 
 In a transitional setting, liberating technologies cannot arise in education, any more than in production, spontaneously or by imposition from above. The social relations of unalienated education must evolve from conscious cooperation and struggle among educational administrators (managers), teachers (technicians), and students (work-
 
-<sup>&</sup>lt;sup>20</sup> Marco Maccio, "Parti, Technicien, et Classe Ouvriere dans la Revolution Chinoise," *Les Temps Modernes* (August-September, 1970), and Gorz, "Techniques, Techniciens et Lutte de Classes."
+&lt;sup>20 Marco Maccio, "Parti, Technicien, et Classe Ouvriere dans la Revolution Chinoise," *Les Temps Modernes* (August-September, 1970), and Gorz, "Techniques, Techniciens et Lutte de Classes."
 
-ers), although admittedly in a context of radically redistributed power among the three. The outcome of such a struggle is not only the positive development of education but the fostering of work-capacities in individuals adequate to the task of social transition in work and community life as well.<sup>27</sup>
+ers), although admittedly in a context of radically redistributed power among the three. The outcome of such a struggle is not only the positive development of education but the fostering of work-capacities in individuals adequate to the task of social transition in work and community life as well.27
 
 The inadequacy of Illich's conception of education in transitional societies is striking in his treatment of China and Cuba. It is quite evident that these countries are following new and historically unprecedented directions of social development. But Illich argues the necessity of their failure from the simple fact that they have not deschooled. That they were essentially "deschooled" before the revolution (with no appreciable social benefits) does not faze him. While we may welcome and embrace Illich's emphasis on the social relations of education as a crucial variable in their internal development toward new
 
@@ -578,13 +585,13 @@ This inventory is partial, incomplete, and insufficiently analyzed. But only on 
 
 20 For a general discussion of these issues, see Edwards, Reich, and Weisskopf, eds., The Capitalist System.
 
-<sup>28</sup> Bowles, "Contradictions de L'enseignement Superieure," and Gintis, "Contre-Culture et Militantisme Politique" and "New Working Class and Revolutionary Youth."
+28 Bowles, "Contradictions de L'enseignement Superieure," and Gintis, "Contre-Culture et Militantisme Politique" and "New Working Class and Revolutionary Youth."
 
 I have already argued that deschooling will inevitably lead to a situation of social chaos, but probably not to a serious mass movement toward constructive social change. In this case the correspondence principle simply fails to hold, producing at best a temporary (in case the ruling elites can find an alternative mode of worker socialization) or ultimately fatal (in case they cannot) breakdown in the social fabric. But only if we posit some essential presocial human nature on which individuals draw when normal paths of individual development are abolished, might this lead in itself to liberating alternatives.
 
 But the argument over the sufficiency of deschooling is nearly irrelevant. For schools are so important to the reproduction of capitalist society that they are unlikely to crumble under any but the most massive political onslaughts. "Each of us," says Illich, "is personally responsible for his or her own deschooling, and only we have the power to do it." This is not true. Schooling is legally obligatory, and is the major means of access to welfare-relevant activity contexts. The political consciousness behind a frontal attack on institutionalized education would necessarily spill over to attacks on other major institutions. "The risks of a revolt against school," says Illich,
 
-<sup>...</sup> are unforeseeable, but they are not as horrible as those of a revolution starting in any other major institution. School is not yet organized for self-protection as effectively as a nation-state, or even a large corporation. Liberation from the grip of schools could be bloodless. [DS, p. 49]
+... are unforeseeable, but they are not as horrible as those of a revolution starting in any other major institution. School is not yet organized for self-protection as effectively as a nation-state, or even a large corporation. Liberation from the grip of schools could be bloodless. [DS, p. 49]
 
 This is no more than whistling in the dark.
 
@@ -610,7 +617,7 @@ The cost of his failure to pass beyond negation in the sphere of social relation
 
 The most serious lapse in Illich's analysis is his implicit postulation of a human "essence" in all of us, preceding all social experience—potentially blossoming but repressed by manipulative institutions. Indeed, Illich is logically compelled to accept such a conception by the very nature of his
 
-<sup>\*\*</sup>O Indeed to stop one's analysis at negation normally leads to implicit affirmation. For a discussion of this, see "The Affirmative Character of Culture," in Herbert Marcuse, Negations (Boston: Beacon Press, 1968).
+\*\*O Indeed to stop one's analysis at negation normally leads to implicit affirmation. For a discussion of this, see "The Affirmative Character of Culture," in Herbert Marcuse, Negations (Boston: Beacon Press, 1968).
 
 methodology of negation. The given is capitalist (or state socialist) socialization-repressive and dehumanizing. The antithesis is no socialization at all-individuals seeking independently and detached from any mode of social integration their personal paths of development. Such a view of personal growth becomes meaningful in human terms only when anchored in some absolute human standard within the individual and anterior to the social experience that it generates.
 
@@ -716,15 +723,15 @@ ing changes in the organization of county or municipal hospitals. They have been
 
 None of these activities corresponds to the roles that form the hidden curriculum of medical education, and all of them require that doctors learn new skills, new roles, and new ways of defining who they are and whom they serve. The methods of diagnosis and treatment that constitute the bulk of their education assume that doctors and patients will normally have certain relatively fixed relations to one another. Eliot Friedson has delineated these in his two recent books;1 at their core are the roles of the doctor as a dominant figure and of the patient as a passive and presumably grateful recipient. Doctors control the deployment of the array of healing resources, human and technological. They arrange things so that the rich fare better than the poor. They determine research priorities that slight diseases that afflict the poor and the black-sickle-cell anemia -in favor of those that affect the middle classesheart disease, stroke, and cancer. They reward and
 
-<sup>&</sup>lt;sup>1</sup> Eliot Friedson, The Profession of Medicine (Dodd-Mead, 1970); Professional Dominance (Atherton, 1970).
+&lt;sup>1 Eliot Friedson, The Profession of Medicine (Dodd-Mead, 1970); Professional Dominance (Atherton, 1970).
 
-thus reinforce standards of behavior that are approved by the affluent and punish those that are disapproved. David Sudnow's study of hospital emergency rooms showed this in one dimension; patients who reek of alcohol or who are shabbily dressed get less serious attention than the well-dressed.<sup>2</sup> Other examples are the uphill struggle to provide funds for an effective attack on venereal diseases and the neglect of the narcotics problem as long as it was confined to black urban ghettos; there are many others.
+thus reinforce standards of behavior that are approved by the affluent and punish those that are disapproved. David Sudnow's study of hospital emergency rooms showed this in one dimension; patients who reek of alcohol or who are shabbily dressed get less serious attention than the well-dressed.2 Other examples are the uphill struggle to provide funds for an effective attack on venereal diseases and the neglect of the narcotics problem as long as it was confined to black urban ghettos; there are many others.
 
 In short, doctors survive and thrive because they perform class-determined roles in the society. The education that produces doctors and thus admits them to the upper 5 percent of income receivers depends for its support on its continuing ability to reinforce these roles. To ignore class, as Illich does, is to misconceive an important, indeed critical, aspect of the question of whether and how education is linked to revolution. Illich calls for a social revolution, a revolution of institutions, but these institutions are themselves instruments of class purposes, and unless this is made clear his call for revolution cannot succeed.
 
 Strikingly many of the reforms now being discussed and tested respond in their way to Illich's fundamental criticism. Among them are the paraprofessional movement, the community control movement in education, school decentralization and minischools, the replacement of large, imper-
 
-<sup>&</sup>lt;sup>2</sup> David Sudnow, "Dead on Arrival," in Where Medicine Fails, ed. Anselm L. Strauss (Transaction Books, 1970).
+&lt;sup>2 David Sudnow, "Dead on Arrival," in Where Medicine Fails, ed. Anselm L. Strauss (Transaction Books, 1970).
 
 sonal, remote, and bureaucratic service centers by small, community-based ones, and the development of the therapeutic community to replace the prison or the mental hospital. They involve new ways to recruit, train, and utilize people in the service of other people, challenging the assumptions and the accepted procedures of traditional professional education. They represent efforts to humanize institutions, to widen access to the ranks of those who are deemed qualified to render service, and to shift from peer to client-community scrutiny and accountability. Many of these reforms imply new kinds of education that admit new people, greatly reduce credential tests for status, and-perhaps most critical to Illich's argument—reduce status differences between those who already possess knowledge and those who seek to acquire it and to put it to use. These are serious new efforts. They may not offer the prospect of total transformation of the society, but they are far more than simple reforms accepted in order to preserve existing structures of power and status. As such they need to be taken more seriously than Illich takes them: indeed, they are hardly mentioned in his work.
 
@@ -1092,7 +1099,9 @@ The book you have in your hands is made up of articles from SOCIAL POLICY's seri
 
 | | | | _ |
 |------|----------------------------------------------------|-------------------------------------|---|
-| | social policy magazine<br>Suite 500, 184 Fifth Ave | e<br>enue, New York, New York 10010 | |
+| | social policy magazine
+Suite 500, 184 Fifth Ave | e
+enue, New York, New York 10010 | |
 | | er my subscription for Societ t \$8 | 4 3 years at \$19 | |
 | Name | | | |
 | City | 2 | | |

@@ -1,3 +1,8 @@
+---
+title: "## **Episode 31: Embodied Embedded Rr As Dynamical Developmental Gi/**"
+category: "contemporary-analysis"
+---
+
 ## **Episode 31: Embodied Embedded Rr As Dynamical Developmental Gi/**
 
 **Source:** https://www.meaningcrisis.co/ep-31-awakening-from-the-meaning-crisis-embodied-embedded-rr-as-dynamical-developmental-gi/

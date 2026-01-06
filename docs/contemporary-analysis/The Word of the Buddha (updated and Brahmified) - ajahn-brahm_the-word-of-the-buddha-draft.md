@@ -1,3 +1,8 @@
+---
+title: "The Word of the Buddha"
+category: "contemporary-analysis"
+---
+
 # The Word of the Buddha
 
 An outline of the Teachings of the Buddha in the Words of the Pali Canon
@@ -7,20 +12,35 @@ An outline of the Teachings of the Buddha in the Words of the Pali Canon
 | Table of Contents 2 | |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
 | The Four Noble Truths 5 | |
-| I. The Noble Truth of Suffering 7<br>The Five Components of Existence (The Khandha) 8<br>The Form (Body) Component of Existence 9<br>The Experience (Vedanā) Component of Existence<br>9<br>The Perception Component of Existence 9<br>The Will (and other mental formations) Component of | |
+| I. The Noble Truth of Suffering 7
+The Five Components of Existence (The Khandha) 8
+The Form (Body) Component of Existence 9
+The Experience (Vedanā) Component of Existence
+9
+The Perception Component of Existence 9
+The Will (and other mental formations) Component of | |
 | Existence10 | |
-| The Consciousnesses Component of Existence10<br>Dependent Origination of Consciousnesses10<br>Sankhāra<br>11 | |
+| The Consciousnesses Component of Existence10
+Dependent Origination of Consciousnesses10
+Sankhāra
+11 | |
 | Dependency of Consciousnesses 11 | |
 | The Three Characteristics of Existence 11 | |
-| The Anattā<br>Doctrine<br>12 | |
+| The Anattā
+Doctrine
+12 | |
 | The Three Warnings14 | |
-| Samsāra<br>14 | |
-| II. The Noble Truth of the Origin of Suffering16<br>The Threefold Wanting16 | |
+| Samsāra
+14 | |
+| II. The Noble Truth of the Origin of Suffering16
+The Threefold Wanting16 | |
 | The Origin of Wanting16 | |
 | Dependent Origination of All Phenomena 17 | |
 | Kamma 17 | |
-| Present Kamma-Result<br>(Sanditthika) 17 | |
-| Future Kamma-Result<br>(Samparāyika) 17 | |
+| Present Kamma-Result
+(Sanditthika) 17 | |
+| Future Kamma-Result
+(Samparāyika) 17 | |
 | Kamma as Volition18 | |
 | Inheritance of Deeds18 | |
 | III. The Noble Truth of the Cessation of Suffering19 | |
@@ -30,7 +50,8 @@ An outline of the Teachings of the Buddha in the Words of the Pali Canon
 | IV. The Noble Truth of the Way Leading to the Cessation of Suffering 21 | |
 | 1. Right View 21 | |
 | Right View22 | |
-| The Four Noble Truths22<br>The Good and the Bad23 | |
+| The Four Noble Truths22
+The Good and the Bad23 | |
 | Right View Regarding the Five Components of Existence23 | |
 | Unprofitable Questions23 | |
 | The Five Basic Fetters 24 | |
@@ -41,7 +62,8 @@ An outline of the Teachings of the Buddha in the Words of the Pali Canon
 | Wise Contemplations 28 | |
 | The Sotāpanna or Stream-Enterer 28 | |
 | The Noble Ones and the Ten Fetters 28 | |
-## | Jhānānāgāmī<br>30 | |
+## | Jhānānāgāmī
+30 | |
 
 | Scent of 'I am' 31 | |
 |--------------------------------------------------------|--|
@@ -82,8 +104,10 @@ An outline of the Teachings of the Buddha in the Words of the Pali Canon
 | The Six Sense Bases 49 | |
 | The Four Noble Truths 50 | |
 | Summary of Mind-Objects 50 | |
-| Summary of Satipatthāna<br>50 | |
-| Nibbāna through<br>Ānāpānasati 50 | |
+| Summary of Satipatthāna
+50 | |
+| Nibbāna through
+Ānāpānasati 50 | |
 | Mindfulness of Breathing Completes the Four Focuses of | |
 | Mindfulness 51 | |
 | Four Focuses of Mindfulness Complete the Seven | |
@@ -91,7 +115,8 @@ An outline of the Teachings of the Buddha in the Words of the Pali Canon
 | 8. Right Stillness (Jhāna)53 | |
 | The Four Jhānas 54 | |
 | Summing Up of the Noble Eightfold Path55 | |
-| Nibbāna<br>56 | |
+| Nibbāna
+56 | |
 | The True Goal 56 | |
 | The Gradual Training 58 | |
 ## | | |
@@ -638,7 +663,7 @@ Absolute rule over the earth, going to heaven, supreme sovereignty over all worl
 
 ## Bhikkhu Bodhi's commentary
 
-On entering the irreversible path to the attainment of Nibbāna, one becomes <sup>a</sup> noble person (ariyapuggala), the word "noble" (ariya) here denoting spiritual nobility. There are four major types of noble persons. Each stage is divided into two phases: the path (magga) and its fruition (phala). In the path phase, one is said to be practicing for the attainment of <sup>a</sup> particular fruition, which one is bound to realize within that same life; in the resultant phase, one is said to be established in that fruition. Thus the four major types of noble persons actually comprise four pairs or eight types of noble individuals. As enumerated these are:
+On entering the irreversible path to the attainment of Nibbāna, one becomes a noble person (ariyapuggala), the word "noble" (ariya) here denoting spiritual nobility. There are four major types of noble persons. Each stage is divided into two phases: the path (magga) and its fruition (phala). In the path phase, one is said to be practicing for the attainment of a particular fruition, which one is bound to realize within that same life; in the resultant phase, one is said to be established in that fruition. Thus the four major types of noble persons actually comprise four pairs or eight types of noble individuals. As enumerated these are:
 
 - (1) one practicing for the realization of the fruit of stream-entry,
 - (2) the stream-enterer,
@@ -657,11 +682,11 @@ The four main stages themselves are defined in two ways:
 - (1) by way of the defilements eradicated by the path leading to the corresponding fruit; and
 - (2) by way of the destiny after death that awaits one who has realized that particular fruit.
 
-The suttas group the defilements abandoned into <sup>a</sup> set of ten fetters (samyojana).
+The suttas group the defilements abandoned into a set of ten fetters (samyojana).
 
 The stream-enterer abandons the first three fetters:
 
-- (1) the view of <sup>a</sup> soul (sakkāyaditthi), that is, the view of <sup>a</sup> truly existent permanent essence either as identical with the five components of existence or as existing in some relation to them;
+- (1) the view of a soul (sakkāyaditthi), that is, the view of a truly existent permanent essence either as identical with the five components of existence or as existing in some relation to them;
 - (2) doubt (vicikicchā) about the Buddha, the Dhamma, the San*̇*gha, and the training; and
 - (3) the wrong grasp of rules and observances (sīlabbataparāmāsa), the belief that mere external observances, particularly religious rituals and ascetic practices, can lead to liberation.
 
@@ -692,7 +717,7 @@ Those who cut off the five higher fetters have no more ties binding them to exis
 
 ## Bhikkhu Bodhi's commentary
 
-This phrase normally denotes the attainment of non-returning. The commentary, however, identifies this disciple as <sup>a</sup> "jhāna non-returner" (Jhānānāgāmī), that is, <sup>a</sup> stream-enterer or once-returner who also attains jhāna. Though such <sup>a</sup> practitioner has not yet eliminated the two fetters of sensual desire and aversion, by attaining jhāna he or she is bound to be reborn in the jhāna realm and attain Nibbāna there, without taking another rebirth in the sense sphere.
+This phrase normally denotes the attainment of non-returning. The commentary, however, identifies this disciple as a "jhāna non-returner" (Jhānānāgāmī), that is, a stream-enterer or once-returner who also attains jhāna. Though such a practitioner has not yet eliminated the two fetters of sensual desire and aversion, by attaining jhāna he or she is bound to be reborn in the jhāna realm and attain Nibbāna there, without taking another rebirth in the sense sphere.
 
 #### Scent of 'I am'
 
@@ -1066,7 +1091,7 @@ When mindfulness of the body has been repeatedly practised, and developed, these
 
 ## SN 47,42
 
-I will teach you the origination (samudaya) and the passing away (atthagamana) of the Four Focuses of Mindfulness. 1. Supported by the Four Nutriments, there is the origination and continuance of the body. With the cessation of the Four Nutriments, the body ceases. (The Four Nutriments are: food, six sense contacts (phassa), will and consciousnesses) 2. Supported by the six sense contacts (phassa), there is the origination of experience. With the cessation of six sense contacts, experience ceases. 3. Supported by <sup>n</sup>āma-rūpa (objects of consciousness), there is the origination of the citta. With the cessation of <sup>n</sup>āma-rūpa, the citta (mind) ceases. 4. Supported by attention, there is the origination of mind objects. With the cessation of attention, mind objects cease.
+I will teach you the origination (samudaya) and the passing away (atthagamana) of the Four Focuses of Mindfulness. 1. Supported by the Four Nutriments, there is the origination and continuance of the body. With the cessation of the Four Nutriments, the body ceases. (The Four Nutriments are: food, six sense contacts (phassa), will and consciousnesses) 2. Supported by the six sense contacts (phassa), there is the origination of experience. With the cessation of six sense contacts, experience ceases. 3. Supported by nāma-rūpa (objects of consciousness), there is the origination of the citta. With the cessation of nāma-rūpa, the citta (mind) ceases. 4. Supported by attention, there is the origination of mind objects. With the cessation of attention, mind objects cease.
 
 ### Mindfulness of Experience
 
@@ -1088,7 +1113,7 @@ You understand an exalted mind, a surpassed mind, a still mind and a liberated m
 
 In this way you are aware of your own citta, or you are aware that others' cittas are of the same nature as yours, or you abide aware of both your own and others' cittas.
 
-Or else you abide aware of what causes the arising of the citta, (nāma<sup>r</sup>ūpa), or you abide aware that the citta is of the nature to cease (when <sup>n</sup>āma-rūpa cease); or you abide contemplating the citta's causal nature of both arising and ceasing.
+Or else you abide aware of what causes the arising of the citta, (nāmarūpa), or you abide aware that the citta is of the nature to cease (when nāma-rūpa cease); or you abide contemplating the citta's causal nature of both arising and ceasing.
 
 Or else mindfulness that 'it is just a citta' (impermanent, suffering and not me, not mine and not a soul) is established in you to the extent necessary for mindfulness and wisdom essential to liberation. And you abide independent, not clinging to anything in the world.
 
@@ -1396,13 +1421,23 @@ Abandoning doubt, you abide having gone beyond doubt, unperplexed about wholesom
 
 ## Abbreviations
 
-| DN | Dīgha Nikāya, The Long Discourses (the number refers to the<br>sutta) |
+| DN | Dīgha Nikāya, The Long Discourses (the number refers to the
+sutta) |
 |------|------------------------------------------------------------------------------------------------------------------------------------------------------|
-| MN | Majjhima Nikāya, The Middle Length Discourses (the number<br>refers to the sutta) |
-| SN | Saṃyutta Nikāya, The Connected Discourses, (the first number<br>refers to the division into groups or saṃyuttas, the second<br>number to the sutta). |
-| AN | Aṅguttara Nikāya, The Numerical Discourses (the first number<br>refers to the main division into parts or nipātas, the second<br>number to the sutta) |
-| Dhp | Dhammapada (by<br>verse) |
-| Ud | Udāna, The Inspired Utterances (by<br>chapter and sutta) |
+| MN | Majjhima Nikāya, The Middle Length Discourses (the number
+refers to the sutta) |
+| SN | Saṃyutta Nikāya, The Connected Discourses, (the first number
+refers to the division into groups or saṃyuttas, the second
+number to the sutta). |
+| AN | Aṅguttara Nikāya, The Numerical Discourses (the first number
+refers to the main division into parts or nipātas, the second
+number to the sutta) |
+| Dhp | Dhammapada (by
+verse) |
+| Ud | Udāna, The Inspired Utterances (by
+chapter and sutta) |
 | Sn | Suttanipāta, Early Buddhist Poems, (by verse) |
-| Vism | Visuddhimagga, The Path of Purification, (by chapter and<br>section) |
-## | Thag | Theragāthā<br>(by verse) |
+| Vism | Visuddhimagga, The Path of Purification, (by chapter and
+section) |
+## | Thag | Theragāthā
+(by verse) |

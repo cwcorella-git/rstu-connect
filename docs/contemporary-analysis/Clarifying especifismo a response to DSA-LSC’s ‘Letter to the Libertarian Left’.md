@@ -1,3 +1,8 @@
+---
+title: "## **Clarifying especifismo: a response to DSA-LSC's 'Letter to the Libertarian Left'**"
+category: "contemporary-analysis"
+---
+
 ## **Clarifying especifismo: a response to DSA-LSC's 'Letter to the Libertarian Left'**
 
 ## **Date:** Unknown

@@ -1,3 +1,8 @@
+---
+title: "Accept All Reject Settings no longer be effective discriminators it for interactions exclusively with ent. Similar to how users can filter e.g. "Following" and "For You" nt or accounts that have been bles the implementation of e spread of inauthentic information, or not. This can also help ing bots."
+category: "technology-digital-justice"
+---
+
 [World Blog](https://world.org/blog) [Research and Engineering](https://world.org/blog/engineering) Humanness in the Age of AI
 
 ## Humanness in the Age of AI
@@ -48,9 +53,9 @@ eneral to perfectly mimic highly
 
 ## Fig. 1
 
-The performance of deep learning models is improving at an accelerating pace, reaching <u>superhuman</u>
+The performance of deep learning models is improving at an accelerating pace, reaching superhuman
 
-<u>levels in benchmarks</u> with ever-increasing speed. Language models have recently experienced significant
+levels in benchmarks with ever-increasing speed. Language models have recently experienced significant
 
 By clicking "Accept All", you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. We do not sell your personal information.
 
@@ -66,7 +71,7 @@ been leaked and can be run on a
 
 A significant short-term consequence is that, until recently, we deemed
 
-World Blog Research and Engineering Humanness in the Age of Al most instances, it was feasible to differentiate them from authentic human users. Now, modern AI either has already passed the Turing Test or is very close to doing so. This will make it impossible in the future to determine humanness based solely on intelligence. Furthermore, recent impersonations using deep fakes<sup>[3]</sup> have demonstrated that even videobased attestation of humanness is becoming increasingly unreliable. Consequently, there is no longer a reliable method to verify humanness online.
+World Blog Research and Engineering Humanness in the Age of Al most instances, it was feasible to differentiate them from authentic human users. Now, modern AI either has already passed the Turing Test or is very close to doing so. This will make it impossible in the future to determine humanness based solely on intelligence. Furthermore, recent impersonations using deep fakes[3] have demonstrated that even videobased attestation of humanness is becoming increasingly unreliable. Consequently, there is no longer a reliable method to verify humanness online.
 
 However, proving humanness in the digital domain will be an essential and likely inevitable tool for empowering individuals, especially in this new chapter of human history. While there are various approaches to how a proof of personhood (PoP) might end up being implemented, it is crucial that such an important infrastructure prioritizes privacy, self-sovereignty, inclusivity and decentralization in order to benefit and protect individuals.
 
@@ -76,7 +81,7 @@ By clicking "Accept All", you agree to the storing of cookies on your device to 
 
 ## Reject
 
-## Settings lvancement of AI has rendered data int for attesting one's human status. Indiverifying humanness through an status based on unique physical Humanity—a technology company as supported the design of a The state-of-the-art device, which liveness and uniqueness without storing any image data, issues an Ai-sate PoP credential on World ID. While
+## Settings lvancement of AI has rendered data int for attesting one's human status. Indiverifying humanness through an status based on unique physical Humanity--a technology company as supported the design of a The state-of-the-art device, which liveness and uniqueness without storing any image data, issues an Ai-sate PoP credential on World ID. While
 
 4 of 25
 
@@ -100,11 +105,11 @@ By clicking "Accept All", you agree to the storing of cookies on your device to 
 
 World Blog Research and Engineering Humanness in the Age of Al generated Content, while it is virtually mulatinguishable normalinant-created content, to deceive or spread disinformation at scale.
 
-While there is no silver bullet<sup>[5]</sup>, proof of personhood addresses both challenges.
+While there is no silver bullet[5], proof of personhood addresses both challenges.
 
-Authentication of accounts via PoP provides natural rate limiting<sup>[6]</sup>, which essentially eliminates sybil attacks. Naturally, people could use their credentials to authenticate bots, but the scale is very limited. For instance, creating 1,000 bot accounts would require finding 1,000 human users willing to consistently verify their authenticity.
+Authentication of accounts via PoP provides natural rate limiting[6], which essentially eliminates sybil attacks. Naturally, people could use their credentials to authenticate bots, but the scale is very limited. For instance, creating 1,000 bot accounts would require finding 1,000 human users willing to consistently verify their authenticity.
 
-Distinguishing between human-created and AI-generated content is more difficult. It's important to note that content generated or co-authored by AI is not necessarily undesirable—likely the opposite, in fact. It only becomes a problem if it is used to spread disinformation in a credible way and at scale.
+Distinguishing between human-created and AI-generated content is more difficult. It's important to note that content generated or co-authored by AI is not necessarily undesirable--likely the opposite, in fact. It only becomes a problem if it is used to spread disinformation in a credible way and at scale.
 
 By clicking "Accept All", you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. We do not sell your personal information.
 
@@ -117,9 +122,16 @@ World Blog Research and Engineering Humanness in the Age of Al second layer, dig
 | | Layers of Digital Identity | |
 |-------------------------------|--------------------------------|-----------------------------------------------------------------------------------------------------------|
 | Layers | Answering the Question | Challenges |
-| Digital Identity Verification | "Who are you?" | <ul> <li>Lack of foundational<br/>layers, opening doors<br/>for fraud</li> </ul> |
+| Digital Identity Verification | "Who are you?" |  - Lack of foundational
+layers, opening doors
+for fraud
+  |
 | Digital Authentication | "Are you who you say you are?" | Impersonation attacks |
-| Proof of Personhood | "Are you human and unique?" | <ul> <li>Sybil Attacks</li> <li>Intelligence not a<br/>discriminator of<br/>humanness any more</li> </ul> |
+| Proof of Personhood | "Are you human and unique?" |  - Sybil Attacks
+ - Intelligence not a
+discriminator of
+humanness any more
+  |
 
 By clicking "Accept All", you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. We do not sell your personal information.
 
@@ -140,7 +152,7 @@ World Blog Research and Engineering Humanness in the Age of Al
 
 Upon establishing a global network of genuine, unique human identities, numerous possibilities arise for enhancing various aspects of society.
 
-Redistribute wealth created by systems in the age of AI: As AI advances, fairly distributing access and some of the created value through UBI will play an increasingly vital role in counteracting the concentration of economic power<sup>[7]</sup>. To ensure that each individual registers only once and to guarantee equitable distribution, a global proof of personhood protocol is needed.
+Redistribute wealth created by systems in the age of AI: As AI advances, fairly distributing access and some of the created value through UBI will play an increasingly vital role in counteracting the concentration of economic power[7]. To ensure that each individual registers only once and to guarantee equitable distribution, a global proof of personhood protocol is needed.
 
 Advanced spam filters: By exclusively processing messages verified by humans, proof of personhood lays the foundation for advanced spam
 
@@ -224,7 +236,7 @@ By clicking "Accept All", you agree to the storing of cookies on your device to 
 
 ## Potential proof of personhood mechanisms
 
-There are di�erent mechanisms to establish global PoP. The following table compares di�erent approaches and their e�ectiveness in addressing the requirements outlined above.
+There are dierent mechanisms to establish global PoP. The following table compares dierent approaches and their eectiveness in addressing the requirements outlined above.
 
 | By clicking "Accept All", you agree to the | | | | |
 |--------------------------------------------|--|--|--|--|
@@ -235,7 +247,7 @@ not sell your personal information.
 
 essential requirements, provided the system is implemented appropriately. Reject
 
-An overview of proof of personhood mechanisms reveals that biometrics is the only method that can ful�ll all
+An overview of proof of personhood mechanisms reveals that biometrics is the only method that can fulll all
 
 ## Settings
 
@@ -267,7 +279,7 @@ ta needs to be shared with them.
 
 World Blog Research and Engineering Humanness in the Age of Al occurrence rate of such into readable ids is considerably lower than that of regular IDs.
 
-Where NFC readable IDs are not available, ID verification can be prone to fraud—especially in emerging markets. IDs are issued by states and national governments, with no global system for verification or accountability. Many verification services (i.e. KYC providers) rely on data from credit bureaus that is accumulated over time, hence stale, without the means to verify its authenticity with the issuing authority (i.e. governments), as there are often no APIs available. Fake IDs, as well as real data to create them, are easily available on the black market. Additionally, due to their centralized nature, corruption at the level of the issuing and verification organizations cannot be eliminated.
+Where NFC readable IDs are not available, ID verification can be prone to fraud--especially in emerging markets. IDs are issued by states and national governments, with no global system for verification or accountability. Many verification services (i.e. KYC providers) rely on data from credit bureaus that is accumulated over time, hence stale, without the means to verify its authenticity with the issuing authority (i.e. governments), as there are often no APIs available. Fake IDs, as well as real data to create them, are easily available on the black market. Additionally, due to their centralized nature, corruption at the level of the issuing and verification organizations cannot be eliminated.
 
 Even if the authenticity of provided data can be verified, it is non-trivial to establish global uniqueness among different types of identity documents:
 
@@ -490,4 +502,4 @@ By clicking "Accept All", you agree to the storing of cookies on your device to 
 
 ## Settings
 
-<sup>\*</sup>Eligibility for Worldcoin (WLD) tokens is restricted based on geography, age, and other factors. WLD are not available to, or intended for, people, companies or organizations who are residents of, or are located or incorporated in the United States or certain other restricted territories (or have beneficial ownership in the United States or such other restricted territories). However, World ID and TFH's World App remain available in the United States. For details, go to: https://world.org/tos. Crypto products can be highly risky. Important User Information can be found at https://world.org/risks.
+\*Eligibility for Worldcoin (WLD) tokens is restricted based on geography, age, and other factors. WLD are not available to, or intended for, people, companies or organizations who are residents of, or are located or incorporated in the United States or certain other restricted territories (or have beneficial ownership in the United States or such other restricted territories). However, World ID and TFH's World App remain available in the United States. For details, go to: https://world.org/tos. Crypto products can be highly risky. Important User Information can be found at https://world.org/risks.

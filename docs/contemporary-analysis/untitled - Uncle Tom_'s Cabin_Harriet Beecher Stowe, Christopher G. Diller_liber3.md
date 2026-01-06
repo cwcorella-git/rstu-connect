@@ -1,3 +1,8 @@
+---
+title: "**UNCLE TOM'S CABIN**"
+category: "contemporary-analysis"
+---
+
 This electronic material is under copyright protection and is provided to a single recipient for review purposes only.
 
 # **UNCLE TOM'S CABIN**
@@ -370,7 +375,7 @@ HOBART & ROBBINS, NEW ENGLAND TYPE AND STEREOTYPE FOUNDERY, BOSTON.
 
 THE scenes of this story, as its title indicates, lie among a race hitherto ignored by the associations of polite and refined society; an exotic race, whose ancestors, born beneath a tropic sun, brought with them, and perpetuated to their descendants, a character so essentially unlike the hard and dominant Anglo-Saxon race, as for many years to have won from it only misunderstanding and contempt.
 
-But, another and better day is dawning; every influence of literature, of poetry and of art, in our times, is becoming more and more in unison with the great master chord of Christianity, "goodwill to man."<sup>1</sup>
+But, another and better day is dawning; every influence of literature, of poetry and of art, in our times, is becoming more and more in unison with the great master chord of Christianity, "goodwill to man."1
 
 The poet, the painter, and the artist, now seek out and embellish the common and gentler humanities of life, and, under the allurements of fiction, breathe a humanizing and subduing influence, favorable to the development of the great principles of Christian brotherhood.
 
@@ -384,19 +389,19 @@ The object of these sketches is to awaken sympathy and feeling for the African r
 
 In doing this, the author can sincerely disclaim any invidious feeling towards those individuals who, often without any fault of their own, are involved in the trials and embarrassments of the legal relations of slavery.
 
-<sup>1</sup> See Luke 2:14: "Glory to God in the highest, and on earth peace, good will toward man."
+1 See Luke 2:14: "Glory to God in the highest, and on earth peace, good will toward man."
 
 Experience has shown her that some of the noblest of minds and hearts are often thus involved; and no one knows better than they do, that what may be gathered of the evils of slavery from sketches like these, is not the half that could be told, of the unspeakable whole.
 
-In the northern states, these representations may, perhaps, be thought caricatures; in the southern states are witnesses who know their fidelity. What personal knowledge the author has had, of the truth of incidents such as here are related, will appear in its time.<sup>1</sup>
+In the northern states, these representations may, perhaps, be thought caricatures; in the southern states are witnesses who know their fidelity. What personal knowledge the author has had, of the truth of incidents such as here are related, will appear in its time.1
 
 It is a comfort to hope, as so many of the world's sorrows and wrongs have, from age to age, been lived down, so a time shall come when sketches similar to these shall be valuable only as memorials of what has long ceased to be.
 
-When an enlightened and Christianized community shall have, on the shores of Africa, laws, language and literature, drawn from among us,<sup>2</sup> may then the scenes of the house of bondage be to them like the remembrance of Egypt to the Israelite,3—a motive of thankfulness to Him who hath redeemed them!
+When an enlightened and Christianized community shall have, on the shores of Africa, laws, language and literature, drawn from among us,2 may then the scenes of the house of bondage be to them like the remembrance of Egypt to the Israelite,3—a motive of thankfulness to Him who hath redeemed them!
 
 For, while politicians contend, and men are swerved this way and that by conflicting tides of interest and passion, the great cause of human liberty is in the hands of one, of whom it is said:
 
-"He shall not fail nor be discouraged Till He have set judgment in the earth." "He shall deliver the needy when he crieth, The poor, and him that hath no helper." "He shall redeem their soul from deceit and violence, And precious shall their blood be in His sight."<sup>4</sup>
+"He shall not fail nor be discouraged Till He have set judgment in the earth." "He shall deliver the needy when he crieth, The poor, and him that hath no helper." "He shall redeem their soul from deceit and violence, And precious shall their blood be in His sight."4
 
 - 1 One of Stowe's earliest references to her next book, A Key to Uncle Tom's Cabin (1853), which began as a defense of the realism of the characters and incidents in her first novel but evolved into a powerful critique of Southern slave law.
 - 2 A reference to what was known as "colonization": the American Colonization Society, founded in 1817, purchased land on the west coast of Africa with the financial aid of the federal government and founded a colony for freed American slaves. In 1847, the colony became the independent nation of Liberia.
@@ -407,7 +412,7 @@ For, while politicians contend, and men are swerved this way and that by conflic
 
 LATE in the afternoon of a chilly day in February, two gentlemen were sitting alone over their wine, in a well-furnished dining parlor, in the town of P——, in Kentucky. There were no servants present, and the gentlemen, with chairs closely approaching, seemed to be discussing some subject with great earnestness.
 
-For convenience sake, we have said, hitherto, two gentlemen. One of the parties, however, when critically examined, did not seem, strictly speaking, to come under the species. He was a short, thick-set man, with coarse, commonplace features, and that swaggering air of pretension which marks a low man who is trying to elbow his way upward in the world. He was much overdressed, in a gaudy vest of many colors, a blue neckerchief, bedropped gayly with yellow spots, and arranged with a flaunting tie, quite in keeping with the general air of the man. His hands, large and coarse, were plentifully bedecked with rings; and he wore a heavy gold watch-chain, with a bundle of seals of portentous size, and a great variety of colors, attached to it,—which, in the ardor of conversation, he was in the habit of flourishing and jingling with evident satisfaction. His conversation was in free and easy defiance of Murray's Grammar,<sup>1</sup> and was garnished at convenient intervals with various profane expressions, which not even the desire to be graphic in our account shall induce us to transcribe.
+For convenience sake, we have said, hitherto, two gentlemen. One of the parties, however, when critically examined, did not seem, strictly speaking, to come under the species. He was a short, thick-set man, with coarse, commonplace features, and that swaggering air of pretension which marks a low man who is trying to elbow his way upward in the world. He was much overdressed, in a gaudy vest of many colors, a blue neckerchief, bedropped gayly with yellow spots, and arranged with a flaunting tie, quite in keeping with the general air of the man. His hands, large and coarse, were plentifully bedecked with rings; and he wore a heavy gold watch-chain, with a bundle of seals of portentous size, and a great variety of colors, attached to it,—which, in the ardor of conversation, he was in the habit of flourishing and jingling with evident satisfaction. His conversation was in free and easy defiance of Murray's Grammar,1 and was garnished at convenient intervals with various profane expressions, which not even the desire to be graphic in our account shall induce us to transcribe.
 
 His companion, Mr. Shelby, had the appearance of a gentleman; and the arrangements of the house, and the general air of the housekeeping, indicated easy, and even opulent circumstances. As we before stated, the two were in the midst of an earnest conversation.
 
@@ -415,23 +420,23 @@ His companion, Mr. Shelby, had the appearance of a gentleman; and the arrangemen
 
 "Why, the fact is, Haley, Tom is an uncommon fellow; he is certainly worth that sum anywhere,—steady, honest, capable, manages my whole farm like a clock."
 
-<sup>1</sup> A reference to the American scholar Lindley Murray's popular English Grammar (1795) which went through many editions in the early nineteenth century.
+1 A reference to the American scholar Lindley Murray's popular English Grammar (1795) which went through many editions in the early nineteenth century.
 
-"You mean honest, as niggers<sup>1</sup> go," said Haley, helping himself to a glass of brandy.
+"You mean honest, as niggers1 go," said Haley, helping himself to a glass of brandy.
 
-"No; I mean, really, Tom is a good, steady, sensible, pious fellow. He got religion at a camp-meeting,<sup>2</sup> four years ago; and I believe he really did get it. I've trusted him, since then, with everything I have,—money, house, horses,—and let him come and go round the country; and I always found him true and square in everything."
+"No; I mean, really, Tom is a good, steady, sensible, pious fellow. He got religion at a camp-meeting,2 four years ago; and I believe he really did get it. I've trusted him, since then, with everything I have,—money, house, horses,—and let him come and go round the country; and I always found him true and square in everything."
 
 "Some folks don't believe there is pious niggers, Shelby," said Haley, with a candid flourish of his hand, "but I do. I had a fellow, now, in this yer last lot I took to Orleans—'t was as good as a meeting, now, really to hear that critter pray; and he was quite gentle and quiet like. He fetched me a good sum, too, for I bought him cheap of a man that was 'bliged to sell out, so I realized six hundred on him. Yes, I consider religion a valeyable thing in a nigger, when it's the genuine article, and no mistake."
 
-"Well,Tom's got the real article, if ever a fellow had," rejoined the other. "Why, last fall, I let him go to Cincinnati alone, to do business for me, and bring home five hundred dollars. 'tom,' says I to him, 'I trust you, because I think you 're a Christian—I know you would n't cheat.' Tom comes back, sure enough; I knew he would. Some low fellows, they say, said to him—'Tom, why don't you make tracks for Canada?'<sup>3</sup> 'Ah, master trusted me, and I couldn't,'—they told me about it. I am sorry to part with Tom, I must say. You ought to let him cover the whole balance of the debt; and you would, Haley, if you had any conscience."
+"Well,Tom's got the real article, if ever a fellow had," rejoined the other. "Why, last fall, I let him go to Cincinnati alone, to do business for me, and bring home five hundred dollars. 'tom,' says I to him, 'I trust you, because I think you 're a Christian—I know you would n't cheat.' Tom comes back, sure enough; I knew he would. Some low fellows, they say, said to him—'Tom, why don't you make tracks for Canada?'3 'Ah, master trusted me, and I couldn't,'—they told me about it. I am sorry to part with Tom, I must say. You ought to let him cover the whole balance of the debt; and you would, Haley, if you had any conscience."
 
 "Well, I've got just as much conscience as any man in business
 
-<sup>1</sup> Although initially a neutral term used to describe dark skinned peoples of the Carribean (likely derived from the Middle French word for "black person" (Ne`gre) or post-classical Latin (niger), the term was used in increasingly derogatory ways from the middle of the eighteenth century and now is considered extremely insulting when used by a white person. Both African American and lower class white characters in Uncle Tom's Cabin use this term, but Stowe's narrator almost always does not and, instead, employs the more genteel term "Negro."
+1 Although initially a neutral term used to describe dark skinned peoples of the Carribean (likely derived from the Middle French word for "black person" (Ne`gre) or post-classical Latin (niger), the term was used in increasingly derogatory ways from the middle of the eighteenth century and now is considered extremely insulting when used by a white person. Both African American and lower class white characters in Uncle Tom's Cabin use this term, but Stowe's narrator almost always does not and, instead, employs the more genteel term "Negro."
 
-<sup>2</sup> I.e., an outdoor camp revival or religious gathering sometimes lasting for days.
+2 I.e., an outdoor camp revival or religious gathering sometimes lasting for days.
 
-<sup>3</sup> Located on the Ohio River between the slave state of Kentucky and the free state of Ohio, Cincinnati was a central stopping point on the Underground Railroad—a series of safehouses organized and maintained by ex-slaves and antislavery activists to help fugitive slaves escape from the South into the North and, after the passage of the Fugitive Slave Act in 1850, increasingly into Canada.
+3 Located on the Ohio River between the slave state of Kentucky and the free state of Ohio, Cincinnati was a central stopping point on the Underground Railroad—a series of safehouses organized and maintained by ex-slaves and antislavery activists to help fugitive slaves escape from the South into the North and, after the passage of the Fugitive Slave Act in 1850, increasingly into Canada.
 
 can afford to keep,—just a little, you know, to swear by, as 't were," said the trader, jocularly; "and, then, I'm ready to do anything in reason to 'blige friends; but this yer, you see, is a leetle too hard on a fellow—a leetle too hard." The trader sighed contemplatively, and poured out some more brandy.
 
@@ -441,9 +446,9 @@ can afford to keep,—just a little, you know, to swear by, as 't were," said th
 
 "Hum!—none that I could well spare; to tell the truth, it's only hard necessity makes me willing to sell at all. I don't like parting with any of my hands, that's a fact."
 
-Here the door opened, and a small quadroon<sup>1</sup> boy, between four and five years of age, entered the room. There was something in his appearance remarkably beautiful and engaging. His black hair, fine as floss silk, hung in glossy curls about his round, dimpled face, while a pair of large dark eyes, full of fire and softness, looked out from beneath the rich, long lashes, as he peered curiously into the apartment. A gay robe of scarlet and yellow plaid, carefully made and neatly fitted, set off to advantage the dark and rich style of his beauty; and a certain comic air of assurance, blended with bashfulness, showed that he had been not unused to being petted and noticed by his master.
+Here the door opened, and a small quadroon1 boy, between four and five years of age, entered the room. There was something in his appearance remarkably beautiful and engaging. His black hair, fine as floss silk, hung in glossy curls about his round, dimpled face, while a pair of large dark eyes, full of fire and softness, looked out from beneath the rich, long lashes, as he peered curiously into the apartment. A gay robe of scarlet and yellow plaid, carefully made and neatly fitted, set off to advantage the dark and rich style of his beauty; and a certain comic air of assurance, blended with bashfulness, showed that he had been not unused to being petted and noticed by his master.
 
-"Hulloa, Jim Crow!"<sup>2</sup> said Mr. Shelby, whistling, and snapping a bunch of raisins towards him, "pick that up, now!"
+"Hulloa, Jim Crow!"2 said Mr. Shelby, whistling, and snapping a bunch of raisins towards him, "pick that up, now!"
 
 - 1 Given that identity was assumed to tie directly to skin color, hair, blood, and other physical markers, the inescapable fact of miscegenation entailed convoluted distinctions about the relative ratio of "white" and "black." A "mulatto" was one half black and one half white; a "quadroon" was a person with one fourth black ancestry (the offspring of a mulatto and a white); and an "octoroon" was a person with one eighth black ancestry (the offspring of a quadroon and a white). Other terms in the novel such as "yellow" also reference the ultimate criterion of whiteness in this caste system of color.
 - 2 A reference to the song and dance "Jump Jim Crow" attributed to white comedian Thomas Dartmouth "Daddy" Rice (1808-60). It became wildly popular and generated an antebellum entertainment industry known as minstrelsy in which white entertainers put on blackface, sang, danced, told stories, and impersonated various African American characters in a derogatory manner. The boy performs a kind of minstrel dance for Haley here, but "Jim Crow" was also used as a generic reference for "slave." After the Civil War, the phrase became associated with a variety of enforced segregation laws that required separate public facilities for whites and blacks and denied the latter basic civil rights such as voting.
@@ -510,7 +515,7 @@ Mr. Shelby did not know what to say, and so he said, "Indeed!"
 
 "Now, I've been laughed at for my notions, sir, and I've been talked to. They an't pop'lar, and they an't common; but I stuck to 'em, sir; I' ve stuck to 'em, and realized well on 'em; yes, sir,
 
-<sup>1</sup> William Wilberforce (1759-1833) was an abolitionist who fought for fifty years to eliminate slavery in the British colonies. Legislation to this effect was passed in 1833 just before his death.
+1 William Wilberforce (1759-1833) was an abolitionist who fought for fifty years to eliminate slavery in the British colonies. Legislation to this effect was passed in 1833 just before his death.
 
 they have paid their passage, I may say," and the trader laughed at his joke.
 
@@ -528,7 +533,7 @@ Mr. Shelby's laugh encouraged the trader to proceed. "It's strange, now, but I n
 
 "It's a happy thing to be satisfied," said Mr. Shelby, with a slight shrug, and some perceptible feelings of a disagreeable nature.
 
-"Well," said Haley, after they had both silently picked their nuts for a season,<sup>1</sup> "what do you say?"
+"Well," said Haley, after they had both silently picked their nuts for a season,1 "what do you say?"
 
 "I'll think the matter over, and talk with my wife," said Mr. Shelby. "Meantime, Haley, if you want the matter carried on in the quiet way you speak of, you'd best not let your business in this neighborhood be known. It will get out among my boys, and it will not be a particularly quiet business getting away any of my fellows, if they know it, I'll promise you."
 
@@ -536,23 +541,23 @@ Mr. Shelby's laugh encouraged the trader to proceed. "It's strange, now, but I n
 
 "Well, call up this evening, between six and seven, and you shall have my answer," said Mr. Shelby, and the trader bowed himself out of the apartment.
 
-"I'd like to have been able to kick the fellow down the steps," said he to himself, as he saw the door fairly closed, "with his impudent assurance; but he knows how much he has me at advantage. If anybody had ever said to me that I should sell Tom down south to one of those rascally traders, I should have said, 'Is thy servant a dog, that he should do this thing?'<sup>2</sup> And now it must come, for aught I see. And Eliza's child, too! I know that I shall have some fuss with wife about that; and, for that matter, about Tom, too. So much for being in debt,—heigho! The fellow sees his advantage, and means to push it."
+"I'd like to have been able to kick the fellow down the steps," said he to himself, as he saw the door fairly closed, "with his impudent assurance; but he knows how much he has me at advantage. If anybody had ever said to me that I should sell Tom down south to one of those rascally traders, I should have said, 'Is thy servant a dog, that he should do this thing?'2 And now it must come, for aught I see. And Eliza's child, too! I know that I shall have some fuss with wife about that; and, for that matter, about Tom, too. So much for being in debt,—heigho! The fellow sees his advantage, and means to push it."
 
-<sup>1</sup> I.e., after they had thought things over for a time.
+1 I.e., after they had thought things over for a time.
 
-<sup>2</sup> A paraphrase of 2 Kings 8.13: "Is thy servant a dog, that he should do this great thing?"
+2 A paraphrase of 2 Kings 8.13: "Is thy servant a dog, that he should do this great thing?"
 
 Perhaps the mildest form of the system of slavery is to be seen in the State of Kentucky. The general prevalence of agricultural pursuits of a quiet and gradual nature, not requiring those periodic seasons of hurry and pressure that are called for in the business of more southern districts, makes the task of the negro a more healthful and reasonable one; while the master, content with a more gradual style of acquisition, has not those temptations to hardheartedness which always overcome frail human nature when the prospect of sudden and rapid gain is weighed in the balance, with no heavier counterpoise than the interests of the helpless and unprotected.
 
 Whoever visits some estates there, and witnesses the goodhumored indulgence of some masters and mistresses, and the affectionate loyalty of some slaves, might be tempted to dream the oft-fabled poetic legend of a patriarchal institution, and all that; but over and above the scene there broods a portentous shadow—the shadow of law. So long as the law considers all these human beings, with beating hearts and living affections, only as so many things belonging to a master,—so long as the failure, or misfortune, or imprudence, or death of the kindest owner, may cause them any day to exchange a life of kind protection and indulgence for one of hopeless misery and toil,—so long it is impossible to make anything beautiful or desirable in the best regulated administration of slavery.
 
-Mr. Shelby was a fair average kind of man, good-natured and kindly, and disposed to easy indulgence of those around him, and there had never been a lack of anything which might contribute to the physical comfort of the negroes on his estate. He had, however, speculated largely and quite loosely; had involved himself deeply, and his notes to a large amount had come into the hands of Haley;<sup>1</sup> and this small piece of information is the key to the preceding conversation.
+Mr. Shelby was a fair average kind of man, good-natured and kindly, and disposed to easy indulgence of those around him, and there had never been a lack of anything which might contribute to the physical comfort of the negroes on his estate. He had, however, speculated largely and quite loosely; had involved himself deeply, and his notes to a large amount had come into the hands of Haley;1 and this small piece of information is the key to the preceding conversation.
 
 Now, it had so happened that, in approaching the door, Eliza had caught enough of the conversation to know that a trader was making offers to her master for somebody. She would gladly have stopped at the door to listen, as she came out; but her mistress just then calling, she was obliged to hasten away.
 
 Still she thought she heard the trader make an offer for her boy;—could she be mistaken? Her heart swelled and throbbed, and she involuntarily strained him so tight that the little fellow looked up into her face in astonishment.
 
-<sup>1</sup> Notes: papers acknowledging debt and promising repayment.
+1 Notes: papers acknowledging debt and promising repayment.
 
 "Eliza, girl, what ails you to-day?" said her mistress, when Eliza had upset the wash-pitcher, knocked down the work-stand, and finally was abstractedly offering her mistress a long nightgown in place of the silk dress she had ordered her to bring from the wardrobe.
 
@@ -586,7 +591,7 @@ ELIZA had been brought up by her mistress, from girlhood, as a petted and indulg
 
 The traveller in the south must often have remarked that peculiar air of refinement, that softness of voice and manner, which seems in many cases to be a particular gift to the quadroon and mulatto women. These natural graces in the quadroon are often united with beauty of the most dazzling kind, and in almost every case with a personal appearance prepossessing and agreeable. Eliza, such as we have described her, is not a fancy sketch, but taken from remembrance, as we saw her, years ago, in Kentucky. Safe under the protecting care of her mistress, Eliza had reached maturity without those temptations which make beauty so fatal an inheritance to a slave. She had been married to a bright and talented young mulatto man, who was a slave on a neighboring estate, and bore the name of George Harris.
 
-This young man had been hired out by his master to work in a bagging factory, where his adroitness and ingenuity caused him to be considered the first hand in the place. He had invented a machine for the cleaning of the hemp, which, considering the education and circumstances of the inventor, displayed quite as much mechanical genius as Whitney's cottongin.<sup>1</sup>
+This young man had been hired out by his master to work in a bagging factory, where his adroitness and ingenuity caused him to be considered the first hand in the place. He had invented a machine for the cleaning of the hemp, which, considering the education and circumstances of the inventor, displayed quite as much mechanical genius as Whitney's cottongin.1
 
 He was possessed of a handsome person and pleasing manners, and was a general favorite in the factory. Nevertheless, as this young man was in the eye of the law not a man, but a thing, all these superior qualifications were subject to the control of a vulgar, narrow-minded, tyrannical master. This same gentleman, having heard of the fame of George's invention, took a ride over to the factory, to see what this intelligent chattel had been about. He was received with great enthusiasm by the employer, who congratulated him on possessing so valuable a slave.
 
@@ -610,7 +615,7 @@ He was waited upon over the factory, shown the machinery by George, who, in high
 
 1 A machine of this description was really the invention of a young colored man in Kentucky [Stowe's note]. In 1794, Eli Whitney (1765- 1825) patented the cotton gin—a machine used to separate cotton from its seeds—but there were rumors during Stowe's lifetime that the invention was actually that of a slave.
 
-George had stood like one transfixed, at hearing his doom thus suddenly pronounced by a power that he knew was irresistible. He folded his arms, tightly pressed in his lips, but a whole volcano of bitter feelings burned in his bosom, and sent streams of fire through his veins. He breathed short, and his large dark eyes flashed like live coals; and he might have broken out into some dangerous ebullition,<sup>1</sup> had not the kindly manufacturer touched him on the arm, and said, in a low tone,
+George had stood like one transfixed, at hearing his doom thus suddenly pronounced by a power that he knew was irresistible. He folded his arms, tightly pressed in his lips, but a whole volcano of bitter feelings burned in his bosom, and sent streams of fire through his veins. He breathed short, and his large dark eyes flashed like live coals; and he might have broken out into some dangerous ebullition,1 had not the kindly manufacturer touched him on the arm, and said, in a low tone,
 
 "Give way, George; go with him for the present. We'll try to help you, yet."
 
@@ -620,7 +625,7 @@ George was taken home, and put to the meanest drudgery of the farm. He had been 
 
 It was during the happy period of his employment in the factory that George had seen and married his wife. During that period,—being much trusted and favored by his employer,—he had free liberty to come and go at discretion. The marriage was highly approved of by Mrs. Shelby, who, with a little womanly complacency in match-making, felt pleased to unite her handsome favorite with one of her own class who seemed in every way suited to her; and so they were married in her mistress' great parlor, and her mistress herself adorned the bride's beautiful hair with orange-blossoms, and threw over it the bridal veil, which certainly could scarce have rested on a fairer head; and there was no lack of white gloves, and cake and wine,—of admiring guests to praise the bride's beauty, and her mistress' indulgence and liberality. For a year or two Eliza saw her husband frequently, and there was nothing to interrupt their happiness, except the loss of two infant children, to whom she was passionately attached, and whom she mourned with a grief so intense as to call for gentle remonstrance from her mistress, who sought, with maternal anxiety, to direct her naturally passionate feelings within the bounds of reason and religion.
 
-<sup>1</sup> The process of boiling or being in a state of high agitation.
+1 The process of boiling or being in a state of high agitation.
 
 After the birth of little Harry, however, she had gradually become tranquillized and settled; and every bleeding tie and throbbing nerve, once more entwined with that little life, seemed to become sound and healthful, and Eliza was a happy woman up to the time that her husband was rudely torn from his kind employer, and brought under the iron sway of his legal owner.
 
@@ -660,7 +665,7 @@ Surprised and frightened, Eliza sat down, leaned her head on her husband's shoul
 
 ## "O, George, how can you!"
 
-"Yes, Eliza, it's all misery, misery, misery! My life is bitter as wormwood;<sup>1</sup> the very life is burning out of me. I'm a poor, miserable, forlorn drudge; I shall only drag you down with me, that's all. What's the use of our trying to do anything, trying to know anything, trying to be anything? What's the use of living? I wish I was dead!"
+"Yes, Eliza, it's all misery, misery, misery! My life is bitter as wormwood;1 the very life is burning out of me. I'm a poor, miserable, forlorn drudge; I shall only drag you down with me, that's all. What's the use of our trying to do anything, trying to know anything, trying to be anything? What's the use of living? I wish I was dead!"
 
 "O, now, dear George, that is really wicked! I know how you feel about losing your place in the factory, and you have a hard master; but pray be patient, and perhaps something—"
 
@@ -670,7 +675,7 @@ Surprised and frightened, Eliza sat down, leaned her head on her husband's shoul
 
 "My master! and who made him my master? That's what I think of—what right has he to me? I'm a man as much as he is. I'm a better man than he is. I know more about business than he
 
-<sup>1</sup> A bitter plant used to make medicine but also the powerful liquors vermouth and absinthe. See also Proverbs 5.3-4: "For the lips of a strange woman drop as an honeycomb, and her mouth is smoother than oil: But her end is bitter as wormwood, sharp as a two-edged sword."
+1 A bitter plant used to make medicine but also the powerful liquors vermouth and absinthe. See also Proverbs 5.3-4: "For the lips of a strange woman drop as an honeycomb, and her mouth is smoother than oil: But her end is bitter as wormwood, sharp as a two-edged sword."
 
 does; I am a better manager than he is; I can read better than he can; I can write a better hand,—and I've learned it all myself, and no thanks to him,—I've learned it in spite of him; and now what right has he to make a dray-horse of me?—to take me from things I can do, and do better than he can, and put me to work that any horse can do? He tries to do it; he says he'll bring me down and humble me, and he puts me to just the hardest, meanest and dirtiest work, on purpose!"
 
@@ -704,11 +709,11 @@ Eliza trembled, and was silent. She had never seen her husband in this mood befo
 
 ## "What can be coming now?"
 
-"Well, lately Mas'r has been saying that he was a fool to let me marry off the place; that he hates Mr. Shelby and all his tribe, because they are proud, and hold their heads up above him, and that I've got proud notions from you; and he says he won't let me come here any more, and that I shall take a wife and settle down on his place. At first he only scolded and grumbled these things; but yesterday he told me that I should take Mina for a wife, and settle down in a cabin with her, or he would sell me down river."<sup>1</sup>
+"Well, lately Mas'r has been saying that he was a fool to let me marry off the place; that he hates Mr. Shelby and all his tribe, because they are proud, and hold their heads up above him, and that I've got proud notions from you; and he says he won't let me come here any more, and that I shall take a wife and settle down on his place. At first he only scolded and grumbled these things; but yesterday he told me that I should take Mina for a wife, and settle down in a cabin with her, or he would sell me down river."1
 
 "Why—but you were married to me, by the minister, as much as if you'd been a white man!" said Eliza, simply.
 
-"Don't you know a slave can't be married? There is no law in this country for that; I can't hold you for my wife, if he chooses to part us.<sup>2</sup> That's why I wish I'd never seen you,—why I wish I'd never been born; it would have been better for us both,—it would have been better for this poor child if he had never been born. All this may happen to him yet!"
+"Don't you know a slave can't be married? There is no law in this country for that; I can't hold you for my wife, if he chooses to part us.2 That's why I wish I'd never seen you,—why I wish I'd never been born; it would have been better for us both,—it would have been better for this poor child if he had never been born. All this may happen to him yet!"
 
 ## "O, but master is so kind!"
 
@@ -728,9 +733,9 @@ The words smote heavily on Eliza's heart; the vision of the trader came before h
 
 "I won't be taken, Eliza; I'll die first! I'll be free, or I'll die!"
 
-<sup>1</sup> To be "sold down the river" was to be sent to plantations in the deep South where working and living conditions were at their worst and quite literally deadly.
+1 To be "sold down the river" was to be sent to plantations in the deep South where working and living conditions were at their worst and quite literally deadly.
 
-<sup>2</sup> Because slaves themselves were considered a form of property, they could not themselves own property or enter into legal contracts such as marriage.
+2 Because slaves themselves were considered a form of property, they could not themselves own property or enter into legal contracts such as marriage.
 
 ## "You won't kill yourself!"
 
@@ -748,33 +753,33 @@ The words smote heavily on Eliza's heart; the vision of the trader came before h
 
 THE cabin of Uncle Tom was a small log building, close adjoining to "the house," as the negro par excellence designates his master's dwelling. In front it had a neat garden-patch, where, every summer, strawberries, raspberries, and a variety of fruits and vegetables, flourished under careful tending. The whole front of it was covered by a large scarlet bignonia and a native multiflora rose, which, entwisting and interlacing, left scarce a vestige of the rough logs to be seen. Here, also, in summer, various brilliant annuals, such as marigolds, petunias, four-o'clocks, found
 
-<sup>1</sup> Job 8.13-14: "So are the paths of all that forget God; and the hypocrite's hope shall perish: Whose hope shall be cut off, and whose trust shall be a spider's web."
+1 Job 8.13-14: "So are the paths of all that forget God; and the hypocrite's hope shall perish: Whose hope shall be cut off, and whose trust shall be a spider's web."
 
-an indulgent corner in which to unfold their splendors, and were the delight and pride of Aunt Chloe's heart.<sup>1</sup>
+an indulgent corner in which to unfold their splendors, and were the delight and pride of Aunt Chloe's heart.1
 
 Let us enter the dwelling. The evening meal at the house is over, and Aunt Chloe, who presided over its preparation as head cook, has left to inferior officers in the kitchen the business of clearing away and washing dishes, and come out into her own snug territories, to "get her ole man's supper;" therefore, doubt not that it is her you see by the fire, presiding with anxious interest over certain frizzling items in a stew-pan, and anon with grave consideration lifting the cover of a bake-kettle, from whence steam forth indubitable intimations of "something good." A round, black, shining face is hers, so glossy as to suggest the idea that she might have been washed over with white of eggs, like one of her own tea rusks.2 Her whole plump countenance beams with satisfaction and contentment from under her well-starched checked turban, bearing on it, however, if we must confess it, a little of that tinge of self-consciousness which becomes the first cook of the neighborhood, as Aunt Chloe was universally held and acknowledged to be.
 
-A cook she certainly was, in the very bone and centre of her soul. Not a chicken or turkey or duck in the barn-yard but looked grave when they saw her approaching, and seemed evidently to be reflecting on their latter end; and certain it was that she was always meditating on trussing, stuffing and roasting, to a degree that was calculated to inspire terror in any reflecting fowl living. Her corn-cake, in all its varieties of hoe-cake, dodgers, muffins, and other species too numerous to mention, was a sublime mystery to all less practised compounders;<sup>3</sup> and she would shake her fat sides with honest pride and merriment, as she would narrate the fruitless efforts that one and another of her compeers had made to attain to her elevation.
+A cook she certainly was, in the very bone and centre of her soul. Not a chicken or turkey or duck in the barn-yard but looked grave when they saw her approaching, and seemed evidently to be reflecting on their latter end; and certain it was that she was always meditating on trussing, stuffing and roasting, to a degree that was calculated to inspire terror in any reflecting fowl living. Her corn-cake, in all its varieties of hoe-cake, dodgers, muffins, and other species too numerous to mention, was a sublime mystery to all less practised compounders;3 and she would shake her fat sides with honest pride and merriment, as she would narrate the fruitless efforts that one and another of her compeers had made to attain to her elevation.
 
 The arrival of company at the house, the arranging of dinners and suppers "in style," awoke all the energies of her soul; and no sight was more welcome to her than a pile of travelling trunks launched on the verandah, for then she foresaw fresh efforts and fresh triumphs.
 
 Just at present, however, Aunt Chloe is looking into the bakepan; in which congenial operation we shall leave her till we finish our picture of the cottage.
 
-<sup>1</sup> The terms "Uncle" and "Aunt" were generic designations for older African American men and women.
+1 The terms "Uncle" and "Aunt" were generic designations for older African American men and women.
 
-<sup>2</sup> A soft-textured sweetened biscuit.
+2 A soft-textured sweetened biscuit.
 
-<sup>3</sup> Compounders: competitors.
+3 Compounders: competitors.
 
 In one corner of it stood a bed, covered neatly with a snowy spread; and by the side of it was a piece of carpeting, of some considerable size. On this piece of carpeting Aunt Chloe took her stand, as being decidedly in the upper walks of life; and it and the bed by which it lay, and the whole corner, in fact, were treated with distinguished consideration, and made, so far as possible, sacred from the marauding inroads and desecrations of little folks. In fact, that corner was the drawing-room of the establishment. In the other corner was a bed of much humbler pretensions, and evidently designed for use. The wall over the fireplace was adorned with some very brilliant scriptural prints, and a portrait of General Washington, drawn and colored in a manner which would certainly have astonished that hero, if ever he had happened to meet with its like.
 
 On a rough bench in the corner, a couple of woolly-headed boys, with glistening black eyes and fat shining cheeks, were busy in superintending the first walking operations of the baby, which, as is usually the case, consisted in getting up on its feet, balancing a moment, and then tumbling down,—each successive failure being violently cheered, as something decidedly clever.
 
-A table, somewhat rheumatic in its limbs, was drawn out in front of the fire, and covered with a cloth, displaying cups and saucers of a decidedly brilliant pattern, with other symptoms of an approaching meal. At this table was seated Uncle Tom, Mr. Shelby's best hand, who, as he is to be the hero of our story, we must daguerreotype<sup>1</sup> for our readers. He was a large, broadchested, powerfully-made man, of a full glossy black, and a face whose truly African features were characterized by an expression of grave and steady good sense, united with much kindliness and benevolence. There was something about his whole air selfrespecting and dignified, yet united with a confiding and humble simplicity.
+A table, somewhat rheumatic in its limbs, was drawn out in front of the fire, and covered with a cloth, displaying cups and saucers of a decidedly brilliant pattern, with other symptoms of an approaching meal. At this table was seated Uncle Tom, Mr. Shelby's best hand, who, as he is to be the hero of our story, we must daguerreotype1 for our readers. He was a large, broadchested, powerfully-made man, of a full glossy black, and a face whose truly African features were characterized by an expression of grave and steady good sense, united with much kindliness and benevolence. There was something about his whole air selfrespecting and dignified, yet united with a confiding and humble simplicity.
 
 He was very busily intent at this moment on a slate lying before him, on which he was carefully and slowly endeavoring to accomplish a copy of some letters, in which operation he was overlooked by young Mas'r George, a smart, bright boy of thirteen, who appeared fully to realize the dignity of his position as instructor.
 
-<sup>1</sup> Daguerreotype was a very early form of photography perfected by the French artist and chemist Louis J. M. Daguerre (1787-1851), but Stowe uses the term here in the sense of "provide a detailed description."
+1 Daguerreotype was a very early form of photography perfected by the French artist and chemist Louis J. M. Daguerre (1787-1851), but Stowe uses the term here in the sense of "provide a detailed description."
 
 "Not that way, Uncle Tom,—not that way," said he, briskly, as Uncle Tom laboriously brought up the tail of his g the wrong side out; "that makes a q, you see."
 
@@ -828,7 +833,7 @@ Aunt Chloe sat back in her chair, and indulged in a hearty guffaw of laughter, a
 
 "Did n't I? And wan't I behind de dinin'-room door dat bery day? and didn't I see de General pass his plate three times for some more dat bery pie?—and, says he, 'You must have an uncommon cook, Mrs. Shelby.' Lor! I was fit to split myself.
 
-"And de Gineral, he knows what cookin' is," said Aunt Chloe, drawing herself up with an air. "Bery nice man, de Gineral! He comes of one of de bery fustest families in Old Virginny!<sup>1</sup> He knows what's what, now, as well as I do—de Gineral. Ye see, there's pints in all pies, Mas'r George; but tan't everybody knows what they is, or as orter be. But the Gineral, he knows; I knew by his 'marks he made. Yes, he knows what de pints is!"
+"And de Gineral, he knows what cookin' is," said Aunt Chloe, drawing herself up with an air. "Bery nice man, de Gineral! He comes of one of de bery fustest families in Old Virginny!1 He knows what's what, now, as well as I do—de Gineral. Ye see, there's pints in all pies, Mas'r George; but tan't everybody knows what they is, or as orter be. But the Gineral, he knows; I knew by his 'marks he made. Yes, he knows what de pints is!"
 
 By this time, Master George had arrived at that pass to which even a boy can come (under uncommon circumstances, when he really could not eat another morsel), and, therefore, he was at leisure to notice the pile of woolly heads and glistening eyes which were regarding their operations hungrily, from the opposite corner.
 
@@ -864,13 +869,13 @@ The house now resolved itself into a committee of the whole, to consider the acc
 
 "Old Uncle Peter sung both de legs out of dat oldest cheer, last week," suggested Mose.
 
-"You go long! I'll boun' you pulled 'em out; some o' your shines,"<sup>1</sup> said Aunt Chloe.
+"You go long! I'll boun' you pulled 'em out; some o' your shines,"1 said Aunt Chloe.
 
 "Well, it'll stand, if it only keeps jam up agin de wall!" said Mose.
 
 "Den Uncle Peter mus'n't sit in it, cause he al'ays hitches when he gets a singing. He hitched pretty nigh across de room, t' other night," said Pete.
 
-"Good Lor! get him in it, then," said Mose, "and den he'd begin, 'Come saints and sinners, hear me tell,'<sup>2</sup> and den down he'd go,"—and Mose imitated precisely the nasal tones of the old man, tumbling on the floor, to illustrate the supposed catastrophe.
+"Good Lor! get him in it, then," said Mose, "and den he'd begin, 'Come saints and sinners, hear me tell,'2 and den down he'd go,"—and Mose imitated precisely the nasal tones of the old man, tumbling on the floor, to illustrate the supposed catastrophe.
 
 "Come now, be decent, can't ye?" said Aunt Chloe; "an't yer shamed?"
 
@@ -878,15 +883,15 @@ Mas'r George, however, joined the offender in the laugh, and declared decidedly 
 
 "Well, ole man," said Aunt Chloe, "you'll have to tote in them ar bar'ls."
 
-"Mother's bar'ls is like dat ar widder's, Mas'r George was reading 'bout, in de good book,—dey never fails," said Mose, aside to Pete.<sup>3</sup>
+"Mother's bar'ls is like dat ar widder's, Mas'r George was reading 'bout, in de good book,—dey never fails," said Mose, aside to Pete.3
 
 "I'm sure one on 'em caved in last week," said Pete, "and let
 
-<sup>1</sup> Shines: mischievous behavior, but also a derogatory term for African Americans.
+1 Shines: mischievous behavior, but also a derogatory term for African Americans.
 
-<sup>2</sup> A reference to the Methodist hymn "Come Saints and Sinners."
+2 A reference to the Methodist hymn "Come Saints and Sinners."
 
-<sup>3</sup> A paraphrase of 1 Kings 17.14 in which a widow, at the command of God, provides the prophet Elijah with food and drink: "For thus saith the LORD God of Israel, the barrel of meal shall not waste, neither shall the cruse of oil fail, until the day that the LORD sendeth rain upon the earth."
+3 A paraphrase of 1 Kings 17.14 in which a widow, at the command of God, provides the prophet Elijah with food and drink: "For thus saith the LORD God of Israel, the barrel of meal shall not waste, neither shall the cruse of oil fail, until the day that the LORD sendeth rain upon the earth."
 
 'em all down in de middle of de singin'; dat ar was failin', warnt it?"
 
@@ -896,21 +901,21 @@ During this aside between Mose and Pete, two empty casks had been rolled into th
 
 George very readily consented, for your boy is always ready for anything that makes him of importance.
 
-The room was soon filled with a motley assemblage, from the old gray-headed patriarch of eighty, to the young girl and lad of fifteen. A little harmless gossip ensued on various themes, such as where old Aunt Sally got her new red head-kerchief, and how "Missis was a going to give Lizzy that spotted muslin gown, when she 'd got her new berage made up;"<sup>1</sup> and how Mas'r Shelby was thinking of buying a new sorel colt, that was going to prove an addition to the glories of the place. A few of the worshippers belonged to families hard by, who had got permission to attend, and who brought in various choice scraps of information, about the sayings and doings at the house and on the place, which circulated as freely as the same sort of small change does in higher circles.
+The room was soon filled with a motley assemblage, from the old gray-headed patriarch of eighty, to the young girl and lad of fifteen. A little harmless gossip ensued on various themes, such as where old Aunt Sally got her new red head-kerchief, and how "Missis was a going to give Lizzy that spotted muslin gown, when she 'd got her new berage made up;"1 and how Mas'r Shelby was thinking of buying a new sorel colt, that was going to prove an addition to the glories of the place. A few of the worshippers belonged to families hard by, who had got permission to attend, and who brought in various choice scraps of information, about the sayings and doings at the house and on the place, which circulated as freely as the same sort of small change does in higher circles.
 
 After a while the singing commenced, to the evident delight of all present. Not even all the disadvantage of nasal intonation could prevent the effect of the naturally fine voices, in airs at once wild and spirited. The words were sometimes the well-known and common hymns sung in the churches about, and sometimes of a wilder, more indefinite character, picked up at camp-meetings.
 
 The chorus of one of them, which ran as follows, was sung with great energy and unction:
 
-"Die on the field of battle, Die on the field of battle, Glory in my soul."<sup>2</sup>
+"Die on the field of battle, Die on the field of battle, Glory in my soul."2
 
-<sup>1</sup> Barage: usually "bare´ge," a light, silky dress-fabric originally made in Bare´ges, France.
+1 Barage: usually "bare´ge," a light, silky dress-fabric originally made in Bare´ges, France.
 
-<sup>2</sup> From the hymn "Die in the Field" by Samuel Wakefield (1799-1895).
+2 From the hymn "Die in the Field" by Samuel Wakefield (1799-1895).
 
 Another special favorite had oft repeated the words—
 
-"O, I'm going to glory,—won't you come along with me? Don't you see the angels beck'ning, and a calling me away? Don't you see the golden city and the everlasting day?"<sup>1</sup>
+"O, I'm going to glory,—won't you come along with me? Don't you see the angels beck'ning, and a calling me away? Don't you see the golden city and the everlasting day?"1
 
 There were others, which made incessant mention of "Jordan's banks," and "Canaan's fields," and the "New Jerusalem;"2 for the negro mind, impassioned and imaginative, always attaches itself to hymns and expressions of a vivid and pictorial nature; and, as they sung, some laughed, and some cried, and some clapped hands, or shook hands rejoicingly with each other, as if they had fairly gained the other side of the river.
 
@@ -918,19 +923,19 @@ Various exhortations, or relations of experience, followed, and intermingled wit
 
 "Well, chil'en! Well, I'm mighty glad to hear ye all and see ye all once more, 'cause I don't know when I'll be gone to glory; but I've done got ready, chil'en; 'pears like I'd got my little bundle all tied up, and my bonnet on, jest a waitin' for the stage to come along and take me home; sometimes, in the night, I think I hear the wheels a rattlin', and I'm lookin' out all the time; now, you jest be ready too, for I tell ye all, chil'en," she said, striking her staff hard on the floor, "dat ar glory is a mighty thing! It's a mighty thing, chil'en,—you don'no nothing about it,—it's wonderful." And the old creature sat down, with streaming tears, as wholly overcome, while the whole circle struck up—
 
-"O Canaan, bright Canaan, I'm bound for the land of Canaan."<sup>3</sup>
+"O Canaan, bright Canaan, I'm bound for the land of Canaan."3
 
-<sup>1</sup> A paraphrase of the Negro spiritual "Bound for the Promised Land."
+1 A paraphrase of the Negro spiritual "Bound for the Promised Land."
 
-<sup>2</sup> The Jordan River marked the boundary of the promised land—known as Canaan—for the ancient Israelites who fled Egypt; for American slaves, it metaphorically described the boundary between slavery and freedom. For most Christians, the "new Jerusalem" was the promised residing place after judgment as described in Revelation 3.12.
+2 The Jordan River marked the boundary of the promised land—known as Canaan—for the ancient Israelites who fled Egypt; for American slaves, it metaphorically described the boundary between slavery and freedom. For most Christians, the "new Jerusalem" was the promised residing place after judgment as described in Revelation 3.12.
 
-<sup>3 &</sup>quot;Bound for the Land of Canaan" by the famous English hymnwriter John Wesley (1703-91) who, with his brother Charles Wesley (1707-88), helped to found Methodism.
+3 &quot;Bound for the Land of Canaan" by the famous English hymnwriter John Wesley (1703-91) who, with his brother Charles Wesley (1707-88), helped to found Methodism.
 
 Mas'r George, by request, read the last chapters of Revelation, often interrupted by such exclamations as "The sakes now!" "Only hear that!" "Jest think on 't!" "Is all that a comin' sure enough?"
 
 George, who was a bright boy, and well trained in religious things by his mother, finding himself an object of general admiration, threw in expositions of his own, from time to time, with a commendable seriousness and gravity, for which he was admired by the young and blessed by the old; and it was agreed, on all hands, that "a minister could n't lay it off better than he did;" that "'t was reely 'mazin'!"
 
-Uncle Tom was a sort of patriarch in religious matters, in the neighborhood. Having, naturally, an organization in which the morale<sup>1</sup> was strongly predominant, together with a greater breadth and cultivation of mind than obtained among his companions, he was looked up to with great respect, as a sort of minister among them; and the simple, hearty, sincere style of his exhortations might have edified even better educated persons. But it was in prayer that he especially excelled. Nothing could exceed the touching simplicity, the child-like earnestness, of his prayer, enriched with the language of Scripture, which seemed so entirely to have wrought itself into his being, as to have become a part of himself, and to drop from his lips unconsciously; in the language of a pious old negro, he "prayed right up." And so much did his prayer always work on the devotional feelings of his audiences, that there seemed often a danger that it would be lost altogether in the abundance of the responses which broke out everywhere around him.
+Uncle Tom was a sort of patriarch in religious matters, in the neighborhood. Having, naturally, an organization in which the morale1 was strongly predominant, together with a greater breadth and cultivation of mind than obtained among his companions, he was looked up to with great respect, as a sort of minister among them; and the simple, hearty, sincere style of his exhortations might have edified even better educated persons. But it was in prayer that he especially excelled. Nothing could exceed the touching simplicity, the child-like earnestness, of his prayer, enriched with the language of Scripture, which seemed so entirely to have wrought itself into his being, as to have become a part of himself, and to drop from his lips unconsciously; in the language of a pious old negro, he "prayed right up." And so much did his prayer always work on the devotional feelings of his audiences, that there seemed often a danger that it would be lost altogether in the abundance of the responses which broke out everywhere around him.
 
 While this scene was passing in the cabin of the man, one quite otherwise passed in the halls of the master.
 
@@ -944,7 +949,7 @@ Mr. Shelby was busy in counting some bundles of bills, which, as they were count
 
 Mr. Shelby hastily drew the bills of sale towards him, and signed them, like a man that hurries over some disagreeable busi-
 
-## <sup>1</sup> French: "moral faculties."
+## 1 French: "moral faculties."
 
 ness, and then pushed them over with the money. Haley produced, from a well-worn valise, a parchment, which, after looking over it a moment, he handed to Mr. Shelby, who took it with a gesture of suppressed eagerness.
 
@@ -1020,7 +1025,7 @@ Mrs. Shelby stood like one stricken. Finally, turning to her toilet, she rested 
 
 "This is God's curse on slavery!—a bitter, bitter, most accursed thing!—a curse to the master and a curse to the slave! I was a fool to think I could make anything good out of such a deadly evil. It is a sin to hold a slave under laws like ours,—I always felt it was,—I always thought so when I was a girl,—I thought so still more after I joined the church; but I thought I could gild it over,—I thought, by kindness, and care, and instruction, I could make the condition of mine better than freedom fool that I was!"
 
-"Why, wife, you are getting to be an abolitionist,<sup>1</sup> quite."
+"Why, wife, you are getting to be an abolitionist,1 quite."
 
 "Abolitionist! if they knew all I know about slavery, they might talk! We don't need them to tell us; you know I never thought that slavery was right—never felt willing to own slaves."
 
@@ -1030,7 +1035,7 @@ Mrs. Shelby stood like one stricken. Finally, turning to her toilet, she rested 
 
 "Well," said Shelby, "I must say these ministers sometimes carry matters further than we poor sinners would exactly dare to do. We men of the world must wink pretty hard at various things, and get used to a deal that is n't the exact thing. But we don't quite fancy, when women and ministers come out broad and square, and go beyond us in matters of either modesty or morals,
 
-<sup>1</sup> Initially, an abolitionist was anyone who opposed slavery and sought the voluntary and gradual emancipation of American slaves, but by the early 1830s both the term and the antislavery movement itself had become radicalized in large part by the effort of William Lloyd Garrison (1805- 79) who advocated immediate and unconditional emancipation. See Appendix C of this edition.
+1 Initially, an abolitionist was anyone who opposed slavery and sought the voluntary and gradual emancipation of American slaves, but by the early 1830s both the term and the antislavery movement itself had become radicalized in large part by the effort of William Lloyd Garrison (1805- 79) who advocated immediate and unconditional emancipation. See Appendix C of this edition.
 
 that's a fact. But now, my dear, I trust you see the necessity of the thing, and you see that I have done the very best that circumstances would allow."
 
@@ -1154,7 +1159,7 @@ When, at last, Haley appeared, booted and spurred, he was saluted with the bad t
 
 "Sir," said Mr. Shelby, "if you wish to communicate with me, you must observe something of the decorum of a gentleman. Andy, take Mr. Haley's hat and riding-whip. Take a seat, sir. Yes, sir; I regret to say that the young woman, excited by overhearing, or having reported to her, something of this business, has taken her child in the night, and made off."
 
-"I did expect fair dealing in this matter, I confess," said Haley. "Well, sir," said Mr. Shelby, turning sharply round upon him, "what am I to understand by that remark? If any man calls my honor in question, I have but one answer for him."<sup>1</sup>
+"I did expect fair dealing in this matter, I confess," said Haley. "Well, sir," said Mr. Shelby, turning sharply round upon him, "what am I to understand by that remark? If any man calls my honor in question, I have but one answer for him."1
 
 The trader cowered at this, and in a somewhat lower tone said that "it was plaguy hard on a fellow, that had made a fair bargain, to be gulled that way."
 
@@ -1170,7 +1175,7 @@ Mrs. Shelby now rose, and said her engagements would prevent her being at the br
 
 "Some jokes are less agreeable than others," rejoined Shelby.
 
-<sup>1</sup> I.e., a duel.
+1 I.e., a duel.
 
 "Devilish free, now I've signed those papers, cuss him!" muttered Haley to himself; "quite grand, since yesterday!"
 
@@ -1186,13 +1191,13 @@ Black Sam, as he was commonly called, from his being about three shades blacker 
 
 ## "High! what's afoot now, young un?"
 
-"Why, you don't know, I s'pose, that Lizy's cut stick,<sup>2</sup> and clared out, with her young un?"
+"Why, you don't know, I s'pose, that Lizy's cut stick,2 and clared out, with her young un?"
 
 "You teach your granny!" said Sam, with infinite contempt; "knowed it a heap sight sooner than you did; this nigger an't so green, now!"
 
-<sup>1</sup> In African and Creole cultures, day names were given to a child to indicate the child's sex and day of birth such that the male and female names existed for each day of the week. Cuffee (or Cuffy) and Pheba (or Phibbi) are the male and female names for Friday. Here, however, Sam uses "Cuffee" as a generic term for "slave" just as Augustine St. Clare will use "Quashy," a variant of the male Sunday name "Quashee," in his invocation of enslaved African Americans in Chapter 19.
+1 In African and Creole cultures, day names were given to a child to indicate the child's sex and day of birth such that the male and female names existed for each day of the week. Cuffee (or Cuffy) and Pheba (or Phibbi) are the male and female names for Friday. Here, however, Sam uses "Cuffee" as a generic term for "slave" just as Augustine St. Clare will use "Quashy," a variant of the male Sunday name "Quashee," in his invocation of enslaved African Americans in Chapter 19.
 
-<sup>2</sup> I.e., she has disappeared hastily.
+2 I.e., she has disappeared hastily.
 
 "Well, anyhow, Mas'r wants Bill and Jerry geared right up; and you and I's to go with Mas'r Haley, to look arter her."
 
@@ -1226,7 +1231,7 @@ There was a large beech-tree overshadowing the place, and the small, sharp, tria
 
 "Dar!" he said, rolling his eyes with an approving grin; "me fix 'em!"
 
-At this moment Mrs. Shelby appeared on the balcony, beckoning to him. Sam approached with as good a determination to pay court as did ever suitor after a vacant place at St. James' or Washington.<sup>1</sup>
+At this moment Mrs. Shelby appeared on the balcony, beckoning to him. Sam approached with as good a determination to pay court as did ever suitor after a vacant place at St. James' or Washington.1
 
 "Why have you been loitering so, Sam? I sent Andy to tell you to hurry."
 
@@ -1248,7 +1253,7 @@ At this moment Mrs. Shelby appeared on the balcony, beckoning to him. Sam approa
 
 Mrs. Shelby spoke the last words with a low voice, and strong emphasis.
 
-<sup>1</sup> A suitor: a seeker of political favors; St. James in Westminster, England was a royal palace; Washington refers to Washington, DC.
+1 A suitor: a seeker of political favors; St. James in Westminster, England was a royal palace; Washington refers to Washington, DC.
 
 "Let dis child alone for dat!" said Sam, rolling up his eyes with a volume of meaning. "Lord knows! High! Did n't say dat!" said he, suddenly catching his breath, with a ludicrous flourish of apprehension, which made his mistress laugh, spite of herself. "Yes, Missis, I'll look out for de hosses!"
 
@@ -1264,23 +1269,23 @@ Andy grinned.
 
 At this instant, Haley appeared on the verandah. Somewhat mollified by certain cups of very good coffee, he came out smiling and talking, in tolerably restored humor. Sam and Andy, clawing for certain fragmentary palm-leaves, which they were in the habit of considering as hats, flew to the horse-posts, to be ready to "help Mas'r."
 
-Sam's palm-leaf had been ingeniously disentangled from all pretensions to braid, as respects its brim; and the slivers starting apart, and standing upright, gave it a blazing air of freedom and defiance, quite equal to that of any Fejee<sup>1</sup> chief; while the whole brim of Andy's being departed bodily, he rapped the crown on his head with a dexterous thump, and looked about well pleased, as if to say, "Who says I have n't got a hat?"
+Sam's palm-leaf had been ingeniously disentangled from all pretensions to braid, as respects its brim; and the slivers starting apart, and standing upright, gave it a blazing air of freedom and defiance, quite equal to that of any Fejee1 chief; while the whole brim of Andy's being departed bodily, he rapped the crown on his head with a dexterous thump, and looked about well pleased, as if to say, "Who says I have n't got a hat?"
 
 "Well, boys," said Haley, "look alive now; we must lose no time."
 
 "Not a bit of him, Mas'r!" said Sam, putting Haley's rein in his hand, and holding his stirrup, while Andy was untying the other two horses.
 
-<sup>1</sup> Usually, Fiji; a reference to the Fiji Islands in the southeast Pacific.
+1 Usually, Fiji; a reference to the Fiji Islands in the southeast Pacific.
 
 The instant Haley touched the saddle, the mettlesome creature bounded from the earth with a sudden spring, that threw his master sprawling, some feet off, on the soft, dry turf. Sam, with frantic ejaculations, made a dive at the reins, but only succeeded in brushing the blazing palm-leaf afore-named into the horse's eyes, which by no means tended to allay the confusion of his nerves. So, with great vehemence, he overturned Sam, and, giving two or three contemptuous snorts, flourished his heels vigorously in the air, and was soon prancing away towards the lower end of the lawn, followed by Bill and Jerry, whom Andy had not failed to let loose, according to contract, speeding them off with various direful ejaculations. And now ensued a miscellaneous scene of confusion. Sam and Andy ran and shouted,—dogs barked here and there,—and Mike, Mose, Mandy, Fanny, and all the smaller specimens on the place, both male and female, raced, clapped hands, whooped, and shouted, with outrageous officiousness and untiring zeal.
 
 Haley's horse, which was a white one, and very fleet and spirited, appeared to enter into the spirit of the scene with great gusto; and having for his coursing ground a lawn of nearly half a mile in extent, gently sloping down on every side into indefinite woodland, he appeared to take infinite delight in seeing how near he could allow his pursuers to approach him, and then, when within a hand's breadth, whisk off with a start and a snort, like a mischievous beast as he was, and career far down into some alley of the wood-lot.
 
-Nothing was further from Sam's mind than to have any one of the troop taken until such season as should seem to him most befitting,—and the exertions that he made were certainly most heroic. Like the sword of Cœur De Lion,<sup>1</sup> which always blazed in the front and thickest of the battle, Sam's palm-leaf was to be seen everywhere when there was the least danger that a horse could be caught;—there he would bear down full tilt, shouting, "Now for it! cotch him! cotch him!" in a way that would set everything to indiscriminate rout in a moment.
+Nothing was further from Sam's mind than to have any one of the troop taken until such season as should seem to him most befitting,—and the exertions that he made were certainly most heroic. Like the sword of Cœur De Lion,1 which always blazed in the front and thickest of the battle, Sam's palm-leaf was to be seen everywhere when there was the least danger that a horse could be caught;—there he would bear down full tilt, shouting, "Now for it! cotch him! cotch him!" in a way that would set everything to indiscriminate rout in a moment.
 
 Haley ran up and down, and cursed and swore and stamped miscellaneously. Mr. Shelby in vain tried to shout directions from the balcony, and Mrs. Shelby from her chamber window alternately laughed and wondered,—not without some inkling of what lay at the bottom of all this confusion.
 
-<sup>1</sup> Literally "lion heart" (French); a reference to King Richard I (1157-99) of England whose courage on the battlefield earned him this nickname.
+1 Literally "lion heart" (French); a reference to King Richard I (1157-99) of England whose courage on the battlefield earned him this nickname.
 
 At last, about twelve o'clock, Sam appeared triumphant, mounted on Jerry, with Haley's horse by his side, reeking with sweat, but with flashing eyes and dilated nostrils, showing that the spirit of freedom had not yet entirely subsided.
 
@@ -1352,7 +1357,7 @@ After a while, they came to a thick patch of woodland, through which murmured a 
 
 She was many miles past any neighborhood where she was personally known. If she should chance to meet any who knew her, she reflected that the well-known kindness of the family would be of itself a blind to suspicion, as making it an unlikely supposition that she could be a fugitive. As she was also so white as not to be known as of colored lineage, without a critical survey, and her child was white also, it was much easier for her to pass on unsuspected.
 
-On this presumption, she stopped at noon at a neat farmhouse, to rest herself, and buy some dinner for her child and self;<sup>1</sup> for, as the danger decreased with the distance, the supernatural tension of the nervous system lessened, and she found herself both weary and hungry.
+On this presumption, she stopped at noon at a neat farmhouse, to rest herself, and buy some dinner for her child and self;1 for, as the danger decreased with the distance, the supernatural tension of the nervous system lessened, and she found herself both weary and hungry.
 
 The good woman, kindly and gossipping, seemed rather pleased than otherwise with having somebody come in to talk with; and accepted, without examination, Eliza's statement, that she "was going on a little piece, to spend a week with her friends,"—all which she hoped in her heart might prove strictly true.
 
@@ -1372,7 +1377,7 @@ The hostess, who was busy in various fizzing and stewing operations over the fir
 
 Eliza's look of dismay and disappointment struck the woman, and she said, inquiringly,
 
-<sup>1</sup> Slaves sometimes were entrusted with money (as with Mr. Shelby's description of Tom in Chapter 1) and were also sometimes allowed to earn money for themselves or their masters by being hired out.
+1 Slaves sometimes were entrusted with money (as with Mr. Shelby's description of Tom in Chapter 1) and were also sometimes allowed to earn money for themselves or their masters by being hired out.
 
 "May be you 're wanting to get over?—anybody sick? Ye seem mighty anxious?"
 
@@ -1384,7 +1389,7 @@ Eliza's look of dismay and disappointment struck the woman, and she said, inquir
 
 "He said he should try, if 't was any way prudent," said the man.
 
-"There's a man a piece down here, that's going over with some truck<sup>1</sup> this evening, if he durs' to; he'll be in here to supper tonight, so you 'd better set down and wait. That's a sweet little fellow," added the woman, offering him a cake.
+"There's a man a piece down here, that's going over with some truck1 this evening, if he durs' to; he'll be in here to supper tonight, so you 'd better set down and wait. That's a sweet little fellow," added the woman, offering him a cake.
 
 But the child, wholly exhausted, cried with weariness.
 
@@ -1398,15 +1403,15 @@ Though Mrs. Shelby had promised that the dinner should be hurried on table, yet 
 
 For some singular reason, an impression seemed to reign among the servants generally that Missis would not be particularly disobliged by delay; and it was wonderful what a number of
 
-<sup>1</sup> I.e., some goods or persons.
+1 I.e., some goods or persons.
 
-counter accidents occurred constantly, to retard the course of things. One luckless wight contrived to upset the gravy; and then gravy had to be got up de novo, <sup>1</sup> with due care and formality, Aunt Chloe watching and stirring with dogged precision, answering shortly, to all suggestions of haste, that she "warn't a going to have raw gravy on the table, to help nobody's catchings." One tumbled down with the water, and had to go to the spring for more; and another precipitated the butter into the path of events; and there was from time to time giggling news brought into the kitchen that "Mas'r Haley was mighty oneasy, and that he could n't sit in his cheer no ways, but was a walkin' and stalkin' to the winders and through the porch."
+counter accidents occurred constantly, to retard the course of things. One luckless wight contrived to upset the gravy; and then gravy had to be got up de novo, 1 with due care and formality, Aunt Chloe watching and stirring with dogged precision, answering shortly, to all suggestions of haste, that she "warn't a going to have raw gravy on the table, to help nobody's catchings." One tumbled down with the water, and had to go to the spring for more; and another precipitated the butter into the path of events; and there was from time to time giggling news brought into the kitchen that "Mas'r Haley was mighty oneasy, and that he could n't sit in his cheer no ways, but was a walkin' and stalkin' to the winders and through the porch."
 
 "Sarves him right!" said Aunt Chloe, indignantly. "He'll get wus nor oneasy, one of these days, if he don't mend his ways. His master'll be sending for him, and then see how he'll look!"
 
 "He'll go to torment, and no mistake," said little Jake.
 
-"He desarves it!" said Aunt Chloe, grimly; "he's broke a many, many, many hearts,—I tell ye all!" she said, stopping, with a fork uplifted in her hands; "it's like what Mas'r George reads in Ravelations,—souls a callin' under the altar! and a callin' on the Lord for vengeance on sich!—and by and by the Lord he'll hear 'em so he will!"<sup>2</sup>
+"He desarves it!" said Aunt Chloe, grimly; "he's broke a many, many, many hearts,—I tell ye all!" she said, stopping, with a fork uplifted in her hands; "it's like what Mas'r George reads in Ravelations,—souls a callin' under the altar! and a callin' on the Lord for vengeance on sich!—and by and by the Lord he'll hear 'em so he will!"2
 
 Aunt Chloe, who was much revered in the kitchen, was listened to with open mouth; and, the dinner being now fairly sent in, the whole kitchen was at leisure to gossip with her, and to listen to her remarks.
 
@@ -1418,15 +1423,15 @@ Aunt Chloe, who was much revered in the kitchen, was listened to with open mouth
 
 "Chil'en!" he said, "I'm afeard you don't know what ye're sayin'. Forever is a dre'ful word, chil'en; it's awful to think on't. You oughtenter wish that ar to any human crittur."
 
-<sup>1</sup> Wight: a living creature; de novo: anew or once again (Latin).
+1 Wight: a living creature; de novo: anew or once again (Latin).
 
-<sup>2</sup> In Revelation 6, Christ opens, one by one, seven seals of a book on Judgment Day—here, a reference to the fifth seal. See Revelation 6.9- 10: "And when he had opened the fifth seal, I saw under the altar the souls of them that were slain for the word of God, and for the testimony which they held: and they cried with a loud voice, saying, How long, O Lord, holy and true, dost thou not judge and avenge our blood on them that dwell on the earth?"
+2 In Revelation 6, Christ opens, one by one, seven seals of a book on Judgment Day—here, a reference to the fifth seal. See Revelation 6.9- 10: "And when he had opened the fifth seal, I saw under the altar the souls of them that were slain for the word of God, and for the testimony which they held: and they cried with a loud voice, saying, How long, O Lord, holy and true, dost thou not judge and avenge our blood on them that dwell on the earth?"
 
 "We wouldn't to anybody but the soul-drivers," said Andy; "nobody can help wishing it to them, they's so awful wicked."
 
 "Don't natur herself kinder cry out on em?" said Aunt Chloe. "Don't dey tear der suckin' baby right off his mother's breast, and sell him, and der little children as is crying and holding on by her clothes,—don't dey pull 'em off and sells em? Don't dey tear wife and husband apart?" said Aunt Chloe, beginning to cry, "when it's jest takin' the very life on 'em?—and all the while does they feel one bit,—don't dey drink and smoke, and take it oncommon easy? Lor, if the devil don't get them, what's he good for?" And Aunt Chloe covered her face with her checked apron, and began to sob in good earnest.
 
-"Pray for them that 'spitefully use you, the good book says,"<sup>1</sup> says Tom.
+"Pray for them that 'spitefully use you, the good book says,"1 says Tom.
 
 "Pray for 'em!" said Aunt Chloe; "Lor, it's too tough! I can't pray for 'em."
 
@@ -1440,7 +1445,7 @@ The bell here rang, and Tom was summoned to the parlor.
 
 "Tom," said his master, kindly, "I want you to notice that I give this gentleman bonds to forfeit a thousand dollars if you are not on the spot when he wants you; he's going to-day to look after his other business, and you can have the day to yourself. Go anywhere you like, boy."
 
-<sup>1</sup> See Luke 6.28: "Bless them that curse you, and pray for them which spitefully use you."
+1 See Luke 6.28: "Bless them that curse you, and pray for them which spitefully use you."
 
 "Thank you, Mas'r," said Tom.
 
@@ -1570,7 +1575,7 @@ The woman folded her child to her bosom, and walked firmly and swiftly away. The
 
 "Shelby, now, mebbe won't think this yer the most neighborly thing in the world; but what's a feller to do? If he catches one of my gals in the same fix, he's welcome to pay back. Somehow I never could see no kind o' critter a strivin' and pantin', and trying to clar theirselves, with the dogs arter 'em, and go agin 'em. Besides, I don't see no kind of 'casion for me to be hunter and catcher for other folks, neither."
 
-So spoke this poor, heathenish Kentuckian, who had not been instructed in his constitutional relations,<sup>1</sup> and consequently was betrayed into acting in a sort of Christianized manner, which, if he had been better situated and more enlightened, he would not have been left to do.
+So spoke this poor, heathenish Kentuckian, who had not been instructed in his constitutional relations,1 and consequently was betrayed into acting in a sort of Christianized manner, which, if he had been better situated and more enlightened, he would not have been left to do.
 
 Haley had stood a perfectly amazed spectator of the scene, till Eliza had disappeared up the bank, when he turned a blank, inquiring look on Sam and Andy.
 
@@ -1598,11 +1603,11 @@ Both ducked, and ran shouting up the bank, and were on their horses before he wa
 
 ELIZA made her desperate retreat across the river just in the dusk of twilight. The gray mist of evening, rising slowly from the river, enveloped her as she disappeared up the bank, and the swollen current and floundering masses of ice presented a hopeless barrier between her and her pursuer. Haley therefore slowly and discontentedly returned to the little tavern, to ponder further what was to be done. The woman opened to him the door of a little parlor, covered with a rag carpet, where stood a table with a very shining black oil-cloth, sundry lank, high-backed wood chairs, with some plaster images in resplendent colors on the mantel-shelf, above a very dimly-smoking grate; a long hardwood settle extended its uneasy length by the chimney, and here Haley sat him down to meditate on the instability of human hopes and happiness in general.
 
-"What did I want with the little cuss, now," he said to himself, "that I should have got myself treed like a coon,<sup>1</sup> as I am, this yer way?" and Haley relieved himself by repeating over a not very select litany of imprecations on himself, which, though there was the best possible reason to consider them as true, we shall, as a matter of taste, omit.
+"What did I want with the little cuss, now," he said to himself, "that I should have got myself treed like a coon,1 as I am, this yer way?" and Haley relieved himself by repeating over a not very select litany of imprecations on himself, which, though there was the best possible reason to consider them as true, we shall, as a matter of taste, omit.
 
 He was startled by the loud and dissonant voice of a man who was apparently dismounting at the door. He hurried to the window.
 
-<sup>1</sup> I.e., a raccoon, but the term "coon" was also a designation for an African American in the nineteenth century, a usage that is now highly offensive.
+1 I.e., a raccoon, but the term "coon" was also a designation for an African American in the nineteenth century, a usage that is now highly offensive.
 
 "By the land! if this yer an't the nearest, now, to what I've heard folks call Providence," said Haley. "I do b'lieve that ar 's Tom Loker."
 
@@ -1620,7 +1625,7 @@ The mousing man, who bore the name of Marks, instantly stopped his sipping, and,
 
 "You've got a friend here?" said Haley, looking doubtfully at Marks; "partner, perhaps?"
 
-"Yes, I have. Here, Marks! here's that ar feller that I was in with in Natchez."<sup>1</sup>
+"Yes, I have. Here, Marks! here's that ar feller that I was in with in Natchez."1
 
 "Shall be pleased with his acquaintance," said Marks, thrusting out a long, thin hand, like a raven's claw. "Mr. Haley, I believe?"
 
@@ -1640,27 +1645,27 @@ Haley began a pathetic recital of his peculiar troubles. Loker shut up his mouth
 
 "Wal, Mr. Haley," said Marks, "jest pass the hot water. Yes, sir; you say jest what I feel and all'us have. Now, I bought a gal once, when I was in the trade,—a tight, likely wench she was, too, and
 
-<sup>1</sup> Natchez, Mississippi.
+1 Natchez, Mississippi.
 
 quite considerable smart,—and she had a young un that was mis- 'able sickly; it had a crooked back, or something or other; and I jest gin't away to a man that thought he'd take his chance raising on't, being it didn't cost nothin';—never thought, yer know, of the gal's takin' on about it,—but, Lord, yer oughter seen how she went on. Why, re'lly, she did seem to me to valley the child more 'cause 't was sickly and cross, and plagued her; and she warn't making b'lieve, neither,—cried about it, she did, and lopped round, as if she'd lost every friend she had. It re'lly was droll to think on't. Lord, there an't no end to women's notions."
 
-"Wal, jest so with me," said Haley. "Last summer, down on Red river,<sup>1</sup> I got a gal traded off on me, with a likely lookin' child enough, and his eyes looked as bright as yourn; but, come to look, I found him stone blind. Fact—he was stone blind. Wal, ye see, I thought there warn't no harm in my jest passing him along, and not sayin' nothin'; and I'd got him nicely swapped off for a keg o' whiskey; but come to get him away from the gal, she was jest like a tiger. So 't was before we started, and I hadn't got my gang chained up; so what should she do but ups on a cotton-bale, like a cat, ketches a knife from one of the deck hands, and, I tell ye, she made all fly for a minit, till she saw 'twan't no use; and she jest turns round, and pitches head first, young un and all, into the river,—went down plump, and never ris."
+"Wal, jest so with me," said Haley. "Last summer, down on Red river,1 I got a gal traded off on me, with a likely lookin' child enough, and his eyes looked as bright as yourn; but, come to look, I found him stone blind. Fact—he was stone blind. Wal, ye see, I thought there warn't no harm in my jest passing him along, and not sayin' nothin'; and I'd got him nicely swapped off for a keg o' whiskey; but come to get him away from the gal, she was jest like a tiger. So 't was before we started, and I hadn't got my gang chained up; so what should she do but ups on a cotton-bale, like a cat, ketches a knife from one of the deck hands, and, I tell ye, she made all fly for a minit, till she saw 'twan't no use; and she jest turns round, and pitches head first, young un and all, into the river,—went down plump, and never ris."
 
 "Bah!" said Tom Loker, who had listened to these stories with ill-repressed disgust,—"shif'less, both on ye! my gals don't cut up no such shines, I tell ye!"
 
 "Indeed! how do you help it?" said Marks, briskly.
 
-"Help it? why, I buys a gal, and if she's got a young un to be sold, I jest walks up and puts my fist to her face, and says, 'Look here, now, if you give me one word out of your head, I'll smash yer face in. I won't hear one word—not the beginning of a word,' I says to 'em, 'this yer young un's mine, and not yourn, and you 've no kind o' business with it. I'm going to sell it, first chance; mind, you don't cut up none o' yer shines about it, or I'll make ye wish ye 'd never been born.' I tell ye, they sees it an't no play, when I gets hold. I makes 'em as whist<sup>2</sup> as fishes; and if one on 'em begins and gives a yelp, why,—" and Mr. Loker brought down his fist with a thump that fully explained the hiatus.
+"Help it? why, I buys a gal, and if she's got a young un to be sold, I jest walks up and puts my fist to her face, and says, 'Look here, now, if you give me one word out of your head, I'll smash yer face in. I won't hear one word—not the beginning of a word,' I says to 'em, 'this yer young un's mine, and not yourn, and you 've no kind o' business with it. I'm going to sell it, first chance; mind, you don't cut up none o' yer shines about it, or I'll make ye wish ye 'd never been born.' I tell ye, they sees it an't no play, when I gets hold. I makes 'em as whist2 as fishes; and if one on 'em begins and gives a yelp, why,—" and Mr. Loker brought down his fist with a thump that fully explained the hiatus.
 
 "That ar's what ye may call emphasis," said Marks, poking Haley in the side, and going into another small giggle. "An't Tom
 
-<sup>1</sup> A river that runs from New Orleans into Arkansas.
+1 A river that runs from New Orleans into Arkansas.
 
-<sup>2</sup> I.e., silent.
+2 I.e., silent.
 
 peculiar? he! he! he! I say,Tom, I s'pect you make 'em understand, for all niggers' heads is woolly. They don't never have no doubt o' your meaning, Tom. If you an't the devil, Tom, you's his twin brother, I'll say that for ye!"
 
-Tom received the compliment with becoming modesty, and began to look as affable as was consistent, as John Bunyan<sup>1</sup> says, "with his doggish nature."
+Tom received the compliment with becoming modesty, and began to look as affable as was consistent, as John Bunyan1 says, "with his doggish nature."
 
 Haley, who had been imbibing very freely of the staple of the evening, began to feel a sensible elevation and enlargement of his moral faculties,—a phenomenon not unusual with gentlemen of a serious and reflective turn, under similar circumstances.
 
@@ -1676,7 +1681,7 @@ Haley, who had been imbibing very freely of the staple of the evening, began to 
 
 "Stop that ar jaw o' yourn, there," said Tom, gruffly. "I can stand most any talk o' yourn but your pious talk,—that kills me right up. After all, what's the odds between me and you? 'tan't
 
-<sup>1</sup> A reference to a description of Satan's devilish nature found in the English preacher John Bunyan's (1628-88) widely-read Christian allegory The Pilgrim's Progress (1678; 1684).
+1 A reference to a description of Satan's devilish nature found in the English preacher John Bunyan's (1628-88) widely-read Christian allegory The Pilgrim's Progress (1678; 1684).
 
 that you care one bit more, or have a bit more feelin',—it's clean, sheer, dog meanness, wanting to cheat the devil and save your own skin; don't I see through it? And your 'gettin' religion,' as you call it, arter all, is too p'isin mean for any crittur;—run up a bill with the devil all your life, and then sneak out when pay time comes! Boh!"
 
@@ -1690,17 +1695,17 @@ that you care one bit more, or have a bit more feelin',—it's clean, sheer, dog
 
 "Wal! white and handsome—well brought up. I'd a gin Shelby eight hundred or a thousand, and then made well on her."
 
-"White and handsome—well brought up!" said Marks, his sharp eyes, nose and mouth, all alive with enterprise, "look here, now, Loker, a beautiful opening. We'll do a business here on our own account;—we does the catchin'; the boy, of course, goes to Mr. Haley,—we takes the gal to Orleans<sup>1</sup> to speculate on. An't it beautiful?"
+"White and handsome—well brought up!" said Marks, his sharp eyes, nose and mouth, all alive with enterprise, "look here, now, Loker, a beautiful opening. We'll do a business here on our own account;—we does the catchin'; the boy, of course, goes to Mr. Haley,—we takes the gal to Orleans1 to speculate on. An't it beautiful?"
 
 Tom, whose great heavy mouth had stood ajar during this communication, now suddenly snapped it together, as a big dog closes on a piece of meat, and seemed to be digesting the idea at his leisure.
 
 "Ye see," said Marks to Haley, stirring his punch as he did so, "ye see, we has justices convenient at all p'ints along shore, that does up any little jobs in our line quite reasonable.2Tom, he does
 
-<sup>1</sup> An abbreviation for New Orleans and a veiled reference to its flourishing sexual market for attractive young slave women (and men). Sexual liaisons between free persons of color and whites were also common in this city.
+1 An abbreviation for New Orleans and a veiled reference to its flourishing sexual market for attractive young slave women (and men). Sexual liaisons between free persons of color and whites were also common in this city.
 
-<sup>2</sup> A reference to the corrupt practice of legal officials making out false bills of sale so that captured runaway slaves, or even free black persons, could be kidnapped and sold into slavery.
+2 A reference to the corrupt practice of legal officials making out false bills of sale so that captured runaway slaves, or even free black persons, could be kidnapped and sold into slavery.
 
-the knockin' down and that ar; and I come in all dressed up shining boots—everything first chop, when the swearin' 's to be done. You oughter see, now," said Marks, in a glow of professional pride, "how I can tone it off.<sup>1</sup> One day, I'm Mr. Twickem, from New Orleans; 'nother day, I'm just come from my plantation on Pearl river,<sup>2</sup> where I works seven hundred niggers; then, again, I come out a distant relation of Henry Clay,<sup>3</sup> or some old cock in Kentuck. Talents is different, you know. Now, Tom's a roarer when there's any thumping or fighting to be done; but at lying he an't good, Tom an't,—ye see it don't come natural to him; but, Lord, if thar's a feller in the country that can swear to anything and everything, and put in all the circumstances and flourishes with a longer face, and carry't through better'n I can, why, I'd like to see him, that's all! I b'lieve my heart, I could get along and snake through, even if justices were more particular than they is. Sometimes I rather wish they was more particular; 't would be a heap more relishin' if they was,—more fun, yer know."
+the knockin' down and that ar; and I come in all dressed up shining boots—everything first chop, when the swearin' 's to be done. You oughter see, now," said Marks, in a glow of professional pride, "how I can tone it off.1 One day, I'm Mr. Twickem, from New Orleans; 'nother day, I'm just come from my plantation on Pearl river,2 where I works seven hundred niggers; then, again, I come out a distant relation of Henry Clay,3 or some old cock in Kentuck. Talents is different, you know. Now, Tom's a roarer when there's any thumping or fighting to be done; but at lying he an't good, Tom an't,—ye see it don't come natural to him; but, Lord, if thar's a feller in the country that can swear to anything and everything, and put in all the circumstances and flourishes with a longer face, and carry't through better'n I can, why, I'd like to see him, that's all! I b'lieve my heart, I could get along and snake through, even if justices were more particular than they is. Sometimes I rather wish they was more particular; 't would be a heap more relishin' if they was,—more fun, yer know."
 
 Tom Loker, who, as we have made it appear, was a man of slow thoughts and movements, here interrupted Marks by bringing his heavy fist down on the table, so as to make all ring again. "It'll do!" he said.
 
@@ -1714,11 +1719,11 @@ Tom Loker, who, as we have made it appear, was a man of slow thoughts and moveme
 
 "Now," said Loker, with a tremendous oath, and striking the table with his heavy fist, "don't I know you, Dan Haley? Don't you think to come it over me! Suppose Marks and I have taken up the catchin' trade, jest to 'commodate gentlemen like you, and get nothin' for ourselves?—Not by a long chalk! we'll have the gal out and out, and you keep quiet, or, ye see, we'll have both,—what's to hinder? Han't you show'd us the game? It's as free to us as you, I hope. If you or Shelby wants to chase us, look where the partridges was last year; if you find them or us, you're quite welcome."
 
-<sup>1</sup> I.e., to fool people.
+1 I.e., to fool people.
 
-<sup>2</sup> A river in central Mississippi.
+2 A river in central Mississippi.
 
-<sup>3</sup> A senator from Kentucky known as the "Great Compromiser" for his roles in the political compromises of 1820, 1832, and 1850.
+3 A senator from Kentucky known as the "Great Compromiser" for his roles in the political compromises of 1820, 1832, and 1850.
 
 "O, wal, certainly, jest let it go at that," said Haley, alarmed; "you catch the boy for the job;—you allers did trade far with me, Tom, and was up to yer word."
 
@@ -1742,7 +1747,7 @@ Marks had got from his pocket a greasy pocket-book, and taking a long paper from
 
 "I'm jest a runnin' over our business, to see if we can take up this yer handily. Loker," he said, after a pause, "we must set Adams and Springer on the track of these yer; they've been booked some time."
 
-<sup>1</sup> A county in north central Kentucky.
+1 A county in north central Kentucky.
 
 "They'll charge too much," said Tom.
 
@@ -1764,7 +1769,7 @@ Marks had got from his pocket a greasy pocket-book, and taking a long paper from
 
 "Dear me," said Marks, fidgeting, "it'll be—I say," he said, walking to the window, "it's dark as a wolf's mouth and,Tom—"
 
-"The long and short is, you 're scared, Marks; but I can't help that,—you've got to go. Suppose you want to lie by a day or two, till the gal's been carried on the underground line up to Sandusky<sup>1</sup> or so, before you start."
+"The long and short is, you 're scared, Marks; but I can't help that,—you've got to go. Suppose you want to lie by a day or two, till the gal's been carried on the underground line up to Sandusky1 or so, before you start."
 
 "O, no; I an't a grain afraid," said Marks, "only—"
 
@@ -1772,7 +1777,7 @@ Marks had got from his pocket a greasy pocket-book, and taking a long paper from
 
 "Well, about the boat. Yer see there an't any boat."
 
-"I heard the woman say there was one coming along this evening, and that a man was going to cross over in it. Neck or nothing,<sup>2</sup> we must go with him," said Tom.
+"I heard the woman say there was one coming along this evening, and that a man was going to cross over in it. Neck or nothing,2 we must go with him," said Tom.
 
 "I s'pose you've got good dogs," said Haley.
 
@@ -1784,11 +1789,11 @@ Marks had got from his pocket a greasy pocket-book, and taking a long paper from
 
 "Though the dogs might damage the gal, if they come on her unawars," said Haley.
 
-<sup>1</sup> Sandusky, Ohio, on Lake Erie, was a port town and a frequent point of departure for runaway slaves traveling to Canada.
+1 Sandusky, Ohio, on Lake Erie, was a port town and a frequent point of departure for runaway slaves traveling to Canada.
 
-<sup>2</sup> I.e., dangerous or not.
+2 I.e., dangerous or not.
 
-"That ar's a consideration," said Marks. "Our dogs tore a feller half to pieces, once, down in Mobile,<sup>1</sup> 'fore we could get 'em off."
+"That ar's a consideration," said Marks. "Our dogs tore a feller half to pieces, once, down in Mobile,1 'fore we could get 'em off."
 
 "Well, ye see, for this sort that's to be sold for their looks, that ar won't answer, ye see," said Haley.
 
@@ -1804,11 +1809,11 @@ While this scene was going on at the tavern, Sam and Andy, in a state of high fe
 
 ## ——
 
-Sam was in the highest possible feather, and expressed his exultation by all sorts of supernatural howls and ejaculations, by divers odd motions and contortions of his whole system. Sometimes he would sit backward, with his face to the horse's tail and sides, and then, with a whoop and a somerset,<sup>2</sup> come right side up in his place again, and, drawing on a grave face, begin to lecture Andy in high-sounding tones for laughing and playing the fool. Anon, slapping his sides with his arms, he would burst forth in peals of laughter, that made the old woods ring as they passed.
+Sam was in the highest possible feather, and expressed his exultation by all sorts of supernatural howls and ejaculations, by divers odd motions and contortions of his whole system. Sometimes he would sit backward, with his face to the horse's tail and sides, and then, with a whoop and a somerset,2 come right side up in his place again, and, drawing on a grave face, begin to lecture Andy in high-sounding tones for laughing and playing the fool. Anon, slapping his sides with his arms, he would burst forth in peals of laughter, that made the old woods ring as they passed.
 
-<sup>1</sup> The coastal town of Mobile, Alabama.
+1 The coastal town of Mobile, Alabama.
 
-<sup>2</sup> Somersault.
+2 Somersault.
 
 With all these evolutions, he contrived to keep the horses up to the top of their speed, until, between ten and eleven, their heels resounded on the gravel at the end of the balcony. Mrs. Shelby flew to the railings.
 
@@ -1822,13 +1827,13 @@ With all these evolutions, he contrived to keep the horses up to the top of thei
 
 "Why, Sam, what do you mean?" said Mrs. Shelby, breathless, and almost faint, as the possible meaning of these words came over her.
 
-"Wal, Missis, de Lord he persarves his own. Lizy's done gone over the river into 'Hio, as 'markably as if de Lord took her over in a charrit of fire and two hosses."<sup>1</sup>
+"Wal, Missis, de Lord he persarves his own. Lizy's done gone over the river into 'Hio, as 'markably as if de Lord took her over in a charrit of fire and two hosses."1
 
 Sam's vein of piety was always uncommonly fervent in his mistress' presence; and he made great capital of scriptural figures and images.
 
 "Come up here, Sam," said Mr. Shelby, who had followed on to the verandah, "and tell your mistress what she wants. Come, come, Emily," said he, passing his arm round her, "you are cold and all in a shiver; you allow yourself to feel too much."
 
-"Feel too much! Am not I a woman,—a mother?<sup>2</sup> Are we not both responsible to God for this poor girl? My God! lay not this sin to our charge."
+"Feel too much! Am not I a woman,—a mother?2 Are we not both responsible to God for this poor girl? My God! lay not this sin to our charge."
 
 "What sin, Emily? You see yourself that we have only done what we were obliged to."
 
@@ -1836,9 +1841,9 @@ Sam's vein of piety was always uncommonly fervent in his mistress' presence; and
 
 "Here, Andy, you nigger, be alive!" called Sam, under the verandah; "take these yer hosses to der barn; don't ye hear Mas'r a callin'?" and Sam soon appeared, palm-leaf in hand, at the parlor door.
 
-<sup>1 &</sup>quot;And it came to pass, as they still went on, and talked, that, behold, there appeared a chariot of fire, and horses of fire, and parted them both asunder; and Elijah went up by a whirlwind into heaven" (2 Kings 2.11).
+1 &quot;And it came to pass, as they still went on, and talked, that, behold, there appeared a chariot of fire, and horses of fire, and parted them both asunder; and Elijah went up by a whirlwind into heaven" (2 Kings 2.11).
 
-<sup>2</sup> A reference to Sojourner Truth's famous speech "Ar'n't I a Woman?" given at the Women's Rights Conference in Akron, Ohio, in 1851. Mrs. Shelby narrows the categorical force of this title to a subset of womanhood—namely, motherhood.
+2 A reference to Sojourner Truth's famous speech "Ar'n't I a Woman?" given at the Women's Rights Conference in Akron, Ohio, in 1851. Mrs. Shelby narrows the categorical force of this title to a subset of womanhood—namely, motherhood.
 
 "Now, Sam, tell us distinctly how the matter was," said Mr. Shelby. "Where is Eliza, if you know?"
 
@@ -1872,15 +1877,15 @@ It must be observed that one of Sam's especial delights had been to ride in atte
 
 Now, between Sam and Aunt Chloe there had existed, from ancient times, a sort of chronic feud, or rather a decided coolness; but, as Sam was meditating something in the provision department, as the necessary and obvious foundation of his operations, he determined, on the present occasion, to be eminently conciliatory; for he well knew that although "Missis' orders" would undoubtedly be followed to the letter, yet he should gain a considerable deal by enlisting the spirit also. He therefore appeared before Aunt Chloe with a touchingly subdued, resigned expression, like one who has suffered immeasurable hardships in behalf of a persecuted fellow-creature,—enlarged upon the fact that Missis had directed him to come to Aunt Chloe for whatever might be wanting to make up the balance in his solids and fluids,—and thus unequivocally acknowledged her right and supremacy in the cooking department, and all thereto pertaining.
 
-The thing took accordingly. No poor, simple, virtuous body was ever cajoled by the attentions of an electioneering politician with more ease than Aunt Chloe was won over by Master Sam's suavities; and if he had been the prodigal son himself,<sup>1</sup> he could not have been overwhelmed with more maternal bountifulness; and he soon found himself seated, happy and glorious, over a large tin pan, containing a sort of olla podrida<sup>2</sup> of all that had appeared on the table for two or three days past. Savory morsels of ham, golden blocks of corn-cake, fragments of pie of every conceivable mathematical figure, chicken wings, gizzards, and drumsticks, all appeared in picturesque confusion; and Sam, as monarch of all he surveyed, sat with his palm-leaf cocked rejoicingly to one side, and patronizing Andy at his right hand.
+The thing took accordingly. No poor, simple, virtuous body was ever cajoled by the attentions of an electioneering politician with more ease than Aunt Chloe was won over by Master Sam's suavities; and if he had been the prodigal son himself,1 he could not have been overwhelmed with more maternal bountifulness; and he soon found himself seated, happy and glorious, over a large tin pan, containing a sort of olla podrida2 of all that had appeared on the table for two or three days past. Savory morsels of ham, golden blocks of corn-cake, fragments of pie of every conceivable mathematical figure, chicken wings, gizzards, and drumsticks, all appeared in picturesque confusion; and Sam, as monarch of all he surveyed, sat with his palm-leaf cocked rejoicingly to one side, and patronizing Andy at his right hand.
 
-The kitchen was full of all his compeers, who had hurried and crowded in, from the various cabins, to hear the termination of the day's exploits. Now was Sam's hour of glory. The story of the day was rehearsed, with all kinds of ornament and varnishing which might be necessary to heighten its effect; for Sam, like some of our fashionable dilettanti,<sup>3</sup> never allowed a story to lose any of its gilding by passing through his hands. Roars of laughter
+The kitchen was full of all his compeers, who had hurried and crowded in, from the various cabins, to hear the termination of the day's exploits. Now was Sam's hour of glory. The story of the day was rehearsed, with all kinds of ornament and varnishing which might be necessary to heighten its effect; for Sam, like some of our fashionable dilettanti,3 never allowed a story to lose any of its gilding by passing through his hands. Roars of laughter
 
-<sup>1</sup> A reference to the parable of the prodigal son told by Jesus in Luke 15.11-32.
+1 A reference to the parable of the prodigal son told by Jesus in Luke 15.11-32.
 
-<sup>2</sup> A spicy Spanish stew made of a random variety of ingredients; hence, an incongruous mix of things.
+2 A spicy Spanish stew made of a random variety of ingredients; hence, an incongruous mix of things.
 
-<sup>3</sup> Italian: literally, "amateurs," but here used to signify lovers of the fine arts.
+3 Italian: literally, "amateurs," but here used to signify lovers of the fine arts.
 
 attended the narration, and were taken up and prolonged by all the smaller fry, who were lying, in any quantity, about on the floor, or perched in every corner. In the height of the uproar and laughter, Sam, however, preserved an immovable gravity, only from time to time rolling his eyes up, and giving his auditors divers inexpressibly droll glances, without departing from the sententious elevation of his oratory.
 
@@ -1888,7 +1893,7 @@ attended the narration, and were taken up and prolonged by all the smaller fry, 
 
 "Why, but Sam, yer telled me, only this mornin', that you'd help this yer Mas'r to cotch Lizy; seems to me yer talk don't hang together," said Andy.
 
-"I tell you now, Andy," said Sam, with awful superiority, "don't yer be a talkin' 'bout what yer don't know nothin' on; boys like you, Andy, means well, but they can't be spected to collusitate<sup>1</sup> the great principles of action."
+"I tell you now, Andy," said Sam, with awful superiority, "don't yer be a talkin' 'bout what yer don't know nothin' on; boys like you, Andy, means well, but they can't be spected to collusitate1 the great principles of action."
 
 Andy looked rebuked, particularly by the hard word collusitate, which most of the youngerly members of the company seemed to consider as a settler in the case, while Sam proceeded.
 
@@ -1898,11 +1903,11 @@ Sam's audience hanging on his words with open mouth, he could not but proceed.
 
 "Dis yer matter 'bout persistence, feller-niggers," said Sam, with the air of one entering into an abstruse subject, "dis yer 'sistency's a thing what an't seed into very clar, by most anybody. Now, yer see, when a feller stands up for a thing one day and
 
-<sup>1</sup> I.e., to "colligate": to bind together or unify into a common function.
+1 I.e., to "colligate": to bind together or unify into a common function.
 
 night, de contrar de next, folks ses (and nat'rally enough dey ses), why he an't persistent,—hand me dat ar bit o' corn-cake, Andy. But let's look inter it. I hope the gen'lmen and der fair sex will scuse my usin' an or'nary sort o' 'parison. Here! I'm a tryin' to get top o' der hay. Wal, I puts up my larder dis yer side; 'tan't no go;—den, cause I don't try dere no more, but puts my larder right de contrar side, an't I persistent? I'm persistent in wantin' to get up which ary side my larder is; don't you see, all on yer?"
 
-"It's the only thing ye ever was persistent in, Lord knows!" muttered Aunt Chloe, who was getting rather restive; the merriment of the evening being to her somewhat after the Scripture comparison,—like "vinegar upon nitre."<sup>1</sup>
+"It's the only thing ye ever was persistent in, Lord knows!" muttered Aunt Chloe, who was getting rather restive; the merriment of the evening being to her somewhat after the Scripture comparison,—like "vinegar upon nitre."1
 
 "Yes, indeed!" said Sam, rising, full of supper and glory, for a closing effort. "Yes, my feller-citizens and ladies of de other sex in general, I has principles,—I 'm proud to 'oon 'em,—they's perquisite to dese yer times, and ter all times. I has principles, and I sticks to 'em like forty,—jest anything that I thinks is principle, I goes in to't;—I would n't mind if dey burnt me 'live,—I'd walk right up to de stake, I would, and say, here I comes to shed my last blood fur my principles, fur my country, fur der gen'l interests of s'ciety."
 
@@ -1916,15 +1921,15 @@ And, with this pathetic benediction, the assembly dispersed.
 
 THE light of the cheerful fire shone on the rug and carpet of a cosey parlor, and glittered on the sides of the tea-cups and wellbrightened tea-pot, as Senator Bird was drawing off his boots, preparatory to inserting his feet in a pair of new handsome slippers, which his wife had been working for him while away on his
 
-<sup>1 &</sup>quot;As he that taketh away a garment in cold weather, and as vinegar upon nitre, so is he that singeth songs to an heavy heart" (Proverbs 25.20).
+1 &quot;As he that taketh away a garment in cold weather, and as vinegar upon nitre, so is he that singeth songs to an heavy heart" (Proverbs 25.20).
 
-senatorial tour. Mrs. Bird, looking the very picture of delight, was superintending the arrangements of the table, ever and anon mingling admonitory remarks to a number of frolicsome juveniles, who were effervescing in all those modes of untold gambol and mischief that have astonished mothers ever since the flood.<sup>1</sup>
+senatorial tour. Mrs. Bird, looking the very picture of delight, was superintending the arrangements of the table, ever and anon mingling admonitory remarks to a number of frolicsome juveniles, who were effervescing in all those modes of untold gambol and mischief that have astonished mothers ever since the flood.1
 
 "Tom, let the door-knob alone,—there's a man! Mary! Mary! don't pull the cat's tail,—poor pussy! Jim, you must n't climb on that table,—no, no!—You don't know, my dear, what a surprise it is to us all, to see you here to-night!" said she, at last, when she found a space to say something to her husband.
 
 "Yes, yes, I thought I'd just make a run down, spend the night, and have a little comfort at home. I 'm tired to death, and my head aches!"
 
-Mrs. Bird cast a glance at a camphor-bottle,<sup>2</sup> which stood in the half-open closet, and appeared to meditate an approach to it, but her husband interposed.
+Mrs. Bird cast a glance at a camphor-bottle,2 which stood in the half-open closet, and appeared to meditate an approach to it, but her husband interposed.
 
 "No, no, Mary, no doctoring! a cup of your good hot tea, and some of our good home living, is what I want. It's a tiresome business, this legislating!"
 
@@ -1936,7 +1941,7 @@ Now, it was a very unusual thing for gentle little Mrs. Bird ever to trouble her
 
 ## "Not very much of importance."
 
-"Well; but is it true that they have been passing a law forbidding people to give meat and drink to those poor colored folks that come along? I heard they were talking of some such law, but I did n't think any Christian legislature would pass it!"<sup>3</sup>
+"Well; but is it true that they have been passing a law forbidding people to give meat and drink to those poor colored folks that come along? I heard they were talking of some such law, but I did n't think any Christian legislature would pass it!"3
 
 "Why, Mary, you are getting to be a politician, all at once."
 
@@ -1944,11 +1949,11 @@ Now, it was a very unusual thing for gentle little Mrs. Bird ever to trouble her
 
 "There has been a law passed forbidding people to help off the slaves that come over from Kentucky, my dear; so much of that
 
-<sup>1</sup> A reference to the floodwaters that covered the earth as described in the Bible (see Genesis 7).
+1 A reference to the floodwaters that covered the earth as described in the Bible (see Genesis 7).
 
-<sup>2</sup> A resin from the camphor tree used as a pain reliever.
+2 A resin from the camphor tree used as a pain reliever.
 
-<sup>3</sup> Another reference to the Fugitive Slave Act of 1850.
+3 Another reference to the Fugitive Slave Act of 1850.
 
 thing has been done by these reckless Abolitionists, that our brethren in Kentucky are very strongly excited, and it seems necessary, and no more than Christian and kind, that something should be done by our state to quiet the excitement."
 
@@ -1986,7 +1991,7 @@ On the present occasion, Mrs. Bird rose quickly, with very red cheeks, which qui
 
 Now, if the truth must be told, our senator had the misfortune to be a man who had a particularly humane and accessible nature, and turning away anybody that was in trouble never had been his forte; and what was worse for him in this particular pinch of the argument was, that his wife knew it, and, of course, was making an assault on rather an indefensible point. So he had recourse to the usual means of gaining time for such cases made and provided; he said "ahem," and coughed several times, took
 
-<sup>1</sup> A reference to Matthew 25.34-36: "Then the King will say to those on His right, 'Come, you who are blessed of My Father, inherit the kingdom prepared for you from the foundation of the world. For I was hungry, and you gave Me something to eat; I was thirsty, and you gave Me something to drink; I was a stranger, and you invited Me in; naked, and you clothed Me; I was sick, and you visited Me; I was in prison, and you came to Me.'"
+1 A reference to Matthew 25.34-36: "Then the King will say to those on His right, 'Come, you who are blessed of My Father, inherit the kingdom prepared for you from the foundation of the world. For I was hungry, and you gave Me something to eat; I was thirsty, and you gave Me something to drink; I was a stranger, and you invited Me in; naked, and you clothed Me; I was sick, and you visited Me; I was in prison, and you came to Me.'"
 
 out his pocket-handkerchief, and began to wipe his glasses. Mrs. Bird, seeing the defenceless condition of the enemy's territory, had no more conscience than to push her advantage.
 
@@ -2040,7 +2045,7 @@ Another pause, and Mr. Bird again broke out,
 
 ## "Well! What now?"
 
-"Why, there's that old bombazin<sup>1</sup> cloak, that you keep on purpose to put over me when I take my afternoon's nap; you might as well give her that,—she needs clothes."
+"Why, there's that old bombazin1 cloak, that you keep on purpose to put over me when I take my afternoon's nap; you might as well give her that,—she needs clothes."
 
 At this instant, Dinah looked in to say that the woman was awake, and wanted to see Missis.
 
@@ -2072,7 +2077,7 @@ A long-drawn, shivering sigh was the only answer; but she lifted her dark eyes, 
 
 "I know it was—I know it!" said she, wildly; "but I did it! I would n't have thought I could,—I did n't think I should get over,
 
-<sup>1</sup> Bombazine, a twilled fabric originally made of silk or silk and wool sometimes used in mourning.
+1 Bombazine, a twilled fabric originally made of silk or silk and wool sometimes used in mourning.
 
 but I did n't care! I could but die, if I did n't. The Lord helped me; nobody knows how much the Lord can help 'em, till they try," said the woman, with a flashing eye.
 
@@ -2128,7 +2133,7 @@ The quiet tone in which the woman pronounced these words might have led a superf
 
 Mrs. Bird and her husband reentered the parlor. She sat down in her little rocking-chair before the fire, swaying thoughtfully to and fro. Mr. Bird strode up and down the room, grumbling to himself, "Pish! pshaw! confounded awkward business!" At length, striding up to his wife, he said.
 
-"I say, wife, she'll have to get away from here, this very night. That fellow will be down on the scent bright and early to-morrow morning; if 't was only the woman, she could lie quiet till it was over; but that little chap can't be kept still by a troop of horse and foot,<sup>1</sup> I'll warrant me; he'll bring it all out, popping his head out of some window or door. A pretty kettle of fish it would be for me, too, to be caught with them both here, just now! No; they'll have to be got off to-night."
+"I say, wife, she'll have to get away from here, this very night. That fellow will be down on the scent bright and early to-morrow morning; if 't was only the woman, she could lie quiet till it was over; but that little chap can't be kept still by a troop of horse and foot,1 I'll warrant me; he'll bring it all out, popping his head out of some window or door. A pretty kettle of fish it would be for me, too, to be caught with them both here, just now! No; they'll have to be got off to-night."
 
 ## "To-night! How is it possible?—where to?"
 
@@ -2140,7 +2145,7 @@ Now, little Mrs. Bird was a discreet woman,—a woman who never in her life said
 
 "You see," he said, "there's my old client, Van Trompe, has come over from Kentucky, and set all his slaves free; and he has bought a place seven miles up the creek, here, back in the woods, where nobody goes, unless they go on purpose; and it's a place that is n't found in a hurry. There she'd be safe enough; but the plague of the thing is, nobody could drive a carriage there tonight, but me."
 
-<sup>1</sup> During the English Civil War, armies were divided into separate regiments of foot soldiers and cavalry and further divided into smaller troops of horsemen and companies of foot soldiers.
+1 During the English Civil War, armies were divided into separate regiments of foot soldiers and cavalry and further divided into smaller troops of horsemen and companies of foot soldiers.
 
 ## "Why not? Cudjoe is an excellent driver."
 
@@ -2154,7 +2159,7 @@ His wife opened the little bed-room door adjoining her room, and, taking the can
 
 Mrs. Bird slowly opened the drawer. There were little coats of many a form and pattern, piles of aprons, and rows of small stockings; and even a pair of little shoes, worn and rubbed at the toes, were peeping from the folds of a paper. There was a toy horse and wagon, a top, a ball,—memorials gathered with many a tear and many a heart-break! She sat down by the drawer, and, leaning her head on her hands over it, wept till the tears fell through her fingers into the drawer; then suddenly raising her
 
-<sup>1</sup> Columbus, Ohio, the state capital.
+1 Columbus, Ohio, the state capital.
 
 head, she began, with nervous haste, selecting the plainest and most substantial articles, and gathering them into a bundle.
 
@@ -2206,7 +2211,7 @@ Honest old John Van Trompe was once quite a considerable land-holder and slave-o
 
 "If there's anybody comes," said the good man, stretching his tall, muscular form upward, "why here I'm ready for him: and
 
-<sup>1 &</sup>quot;Orson:" bear-like. In the French romance Ourson et Valetin (1489; translated 1550), Ourson has been raised by bears and becomes a wild man.
+1 &quot;Orson:" bear-like. In the French romance Ourson et Valetin (1489; translated 1550), Ourson has been raised by bears and becomes a wild man.
 
 I've got seven sons, each six foot high, and they'll be ready for 'em. Give our respects to 'em," said John; "tell 'em it's no matter how soon they call,—make no kinder difference to us," said John, running his fingers through the shock of hair that thatched his head, and bursting out into a great laugh.
 
@@ -2248,9 +2253,9 @@ Aunt Chloe did not answer, only rubbed away over and over on the coarse shirt, a
 
 "S'pose we must be resigned; but oh Lord! how ken I? If I know'd anything whar you 's goin', or how they 'd sarve you!
 
-<sup>1</sup> I.e., Bible.
+1 I.e., Bible.
 
-<sup>2</sup> See Genesis 21.16, 27.38, and 29.11, among other passages, for this common phrase.
+2 See Genesis 21.16, 27.38, and 29.11, among other passages, for this common phrase.
 
 Missis says she'll try and 'deem ye, in a year or two; but Lor! nobody never comes up that goes down thar! They kills 'em! I've hearn 'em tell how dey works 'em up on dem ar plantations."
 
@@ -2270,21 +2275,21 @@ Ah, brave, manly heart,—smothering thine own sorrow, to comfort thy beloved on
 
 "Wal, any way, thar's wrong about it somewhar," said Aunt Chloe, in whom a stubborn sense of justice was a predominant trait; "I can't jest make out whar 't is, but thar's wrong somewhar, I'm clar o' that."
 
-"Yer ought ter look up to the Lord above—he's above all—thar don't a sparrow fall without him."<sup>1</sup>
+"Yer ought ter look up to the Lord above—he's above all—thar don't a sparrow fall without him."1
 
 "It don't seem to comfort me, but I spect it orter," said Aunt Chloe. "But dar's no use talkin'; I'll jes wet up de corn-cake, and get ye one good breakfast, 'cause nobody knows when you'll get another."
 
 In order to appreciate the sufferings of the negroes sold south, it must be remembered that all the instinctive affections of that race are peculiarly strong. Their local attachments are very abiding. They are not naturally daring and enterprising, but home-loving and affectionate. Add to this all the terrors with which ignorance invests the unknown, and add to this, again, that selling to the south is set before the negro from childhood as the last severity of punishment. The threat that terrifies more than whipping or torture of any kind is the threat of being sent down river. We have ourselves heard this feeling expressed by them, and seen the unaffected horror with which they will sit in their gossipping hours, and tell frightful stories of that "down river," which to them is
 
-"That undiscovered country, from whose bourn No traveller returns."<sup>2</sup>
+"That undiscovered country, from whose bourn No traveller returns."2
 
 A missionary among the fugitives in Canada told us that many of the fugitives confessed themselves to have escaped from comparatively kind masters, and that they were induced to brave the perils of escape, in almost every case, by the desperate horror with which they regarded being sold south,—a doom which was hanging either over themselves or their husbands, their wives or children. This nerves the African, naturally patient, timid and unenterprising, with heroic courage, and leads him to suffer hunger, cold, pain, the perils of the wilderness, and the more dread penalties of re-capture.
 
 The simple morning meal now smoked on the table, for Mrs. Shelby had excused Aunt Chloe's attendance at the great house that morning. The poor soul had expended all her little energies on this farewell feast,—had killed and dressed her choicest chicken, and prepared her corn-cake with scrupulous exactness, just to her husband's taste, and brought out certain mysterious jars on the mantel-piece, some preserves that were never produced except on extreme occasions.
 
-<sup>1</sup> A paraphrase of Matthew 6.29.
+1 A paraphrase of Matthew 6.29.
 
-<sup>2</sup> See Shakespeare, Hamlet, III.1.56-7, where Hamlet discourses on death in his famous "To be, or not to be" soliloquy.
+2 See Shakespeare, Hamlet, III.1.56-7, where Hamlet discourses on death in his famous "To be, or not to be" soliloquy.
 
 "Lor, Pete," said Mose, triumphantly, "han't we got a buster of a breakfast!" at the same time catching at a fragment of the chicken.
 
@@ -2428,7 +2433,7 @@ Haley now came to the door, with the handcuffs in his hands.
 
 "Well, good-by, Uncle Tom; keep a stiff upper lip," said George. "Good-by, Mas'r George," said Tom, looking fondly and admiringly at him. "God Almighty bless you! Ah! Kentucky han't got many like you!" he said, in the fulness of his heart, as the frank, boyish face was lost to his view. Away he went, and Tom looked, till the clatter of his horse's heels died away, the last
 
-<sup>1</sup> A reference to Ecclesiastes 12.1: "Remember now your Creator in the days of your youth, while the evil days come not, nor the years draw near, when you shall say, I have no pleasure in them."
+1 A reference to Ecclesiastes 12.1: "Remember now your Creator in the days of your youth, while the evil days come not, nor the years draw near, when you shall say, I have no pleasure in them."
 
 sound or sight of his home. But over his heart there seemed to be a warm spot, where those young hands had placed that precious dollar. Tom put up his hand, and held it close to his heart.
 
@@ -2444,15 +2449,15 @@ IT was late in a drizzly afternoon that a traveller alighted at the door of a sm
 
 Mine host, who stood behind the bar, like most of his countrymen, was great of stature, good-natured, and loose-jointed, with an enormous shock of hair on his head, and a great tall hat on the top of that.
 
-In fact, everybody in the room bore on his head this characteristic emblem of man's sovereignty; whether it were felt hat, palm-leaf, greasy beaver, or fine new chapeau,<sup>1</sup> there it reposed with true republican independence. In truth, it appeared to be the characteristic mark of every individual. Some wore them tipped rakishly to one side—these were your men of humor, jolly, free-and-easy dogs; some had them jammed independently down over their noses—these were your hard characters, thorough men, who, when they wore their hats, wanted to wear them, and to wear them just as they had a mind to; there were those who had them set far over back—wide-awake men, who wanted a clear prospect; while careless men, who did not know, or care, how their hats sat, had them shaking about in all directions. The various hats, in fact, were quite a Shakespearean study.
+In fact, everybody in the room bore on his head this characteristic emblem of man's sovereignty; whether it were felt hat, palm-leaf, greasy beaver, or fine new chapeau,1 there it reposed with true republican independence. In truth, it appeared to be the characteristic mark of every individual. Some wore them tipped rakishly to one side—these were your men of humor, jolly, free-and-easy dogs; some had them jammed independently down over their noses—these were your hard characters, thorough men, who, when they wore their hats, wanted to wear them, and to wear them just as they had a mind to; there were those who had them set far over back—wide-awake men, who wanted a clear prospect; while careless men, who did not know, or care, how their hats sat, had them shaking about in all directions. The various hats, in fact, were quite a Shakespearean study.
 
 Divers negroes, in very free-and-easy pantaloons, and with no redundancy in the shirt line, were scuttling about, hither and thither, without bringing to pass any very particular results, except expressing a generic willingness to turn over everything in creation generally for the benefit of Mas'r and his guests. Add to this picture a jolly, crackling, rollicking fire, going rejoicingly up a great wide chimney,—the outer door and every window being set wide open, and the calico window-curtain flopping and snapping in a good stiff breeze of damp raw air,—and you have an idea of the jollities of a Kentucky tavern.
 
 Your Kentuckian of the present day is a good illustration of the doctrine of transmitted instincts and peculiarities. His fathers were mighty hunters,—men who lived in the woods, and slept under the free, open heavens, with the stars to hold their candles; and their descendant to this day always acts as if the house were his camp,—wears his hat at all hours, tumbles himself about, and puts his heels on the tops of chairs or mantel-pieces, just as his father rolled on the green sward, and put his upon trees and logs,—keeps all the windows and doors open, winter and summer, that he may get air enough for his great lungs,—calls
 
-<sup>1</sup> Various hats of the period. Chapeau: a low crowned hat with an upturned brim (French).
+1 Various hats of the period. Chapeau: a low crowned hat with an upturned brim (French).
 
-everybody "stranger," with nonchalant bonhommie,<sup>1</sup> and is altogether the frankest, easiest, most jovial creature living.
+everybody "stranger," with nonchalant bonhommie,1 and is altogether the frankest, easiest, most jovial creature living.
 
 Into such an assembly of the free and easy our traveller entered. He was a short, thick-set man, carefully dressed, with a round, good-natured countenance, and something rather fussy and particular in his appearance. He was very careful of his valise and umbrella, bringing them in with his own hands, and resisting, pertinaciously, all offers from the various servants to relieve him of them. He looked round the bar-room with rather an anxious air, and, retreating with his valuables to the warmest corner, disposed them under his chair, sat down, and looked rather apprehensively up at the worthy whose heels illustrated the end of the mantelpiece, who was spitting from right to left, with a courage and energy rather alarming to gentlemen of weak nerves and particular habits.
 
@@ -2478,7 +2483,7 @@ The old gentleman uniformly gave a little start whenever his long-sided brother 
 
 Mr. Wilson, for that was the old gentleman's name, rose up, and, after carefully adjusting his valise and umbrella, proceeded deliberately to take out his spectacles and fix them on his nose; and, this operation being performed, read as follows:
 
-<sup>1</sup> Good-natured; easy and pleasant (French).
+1 Good-natured; easy and pleasant (French).
 
 "Ran away from the subscriber, my mulatto boy, George. Said George six feet in height, a very light mulatto, brown curly hair; is very intelligent, speaks handsomely, can read and write; will probably try to pass for a white man; is deeply scarred on his back and shoulders; has been branded in his right hand with the letter H.
 
@@ -2496,13 +2501,13 @@ The long-legged veteran, who had been besieging the fireiron, as before related,
 
 "Well, now, that's a fact," said mine host, as he made an entry in his book.
 
-"I've got a gang of boys, sir," said the long man, resuming his attack on the fire-irons, "and I jest tells 'em—'Boys,' says I,—'run now! dig! put! jest when ye want to! I never shall come to look after you!'That's the way I keep mine. Let 'em know they are free to run any time, and it jest breaks up their wanting to. More'n all, I've got free papers1 for 'em all recorded, in case I gets keeled up any o' these times, and they knows it; and I tell ye, stranger, there an't a fellow in our parts gets more out of his niggers than I do. Why, my boys have been to Cincinnati, with five hundred dollars' worth of colts, and brought me back the money, all straight, time and agin. It stands to reason they should. Treat 'em like dogs, and you'll have dogs' works and dogs' actions. Treat 'em like men, and you'll have men's works." And the honest drover, in his warmth, endorsed this moral sentiment by firing a perfect feu de joie<sup>2</sup> at the fireplace.
+"I've got a gang of boys, sir," said the long man, resuming his attack on the fire-irons, "and I jest tells 'em—'Boys,' says I,—'run now! dig! put! jest when ye want to! I never shall come to look after you!'That's the way I keep mine. Let 'em know they are free to run any time, and it jest breaks up their wanting to. More'n all, I've got free papers1 for 'em all recorded, in case I gets keeled up any o' these times, and they knows it; and I tell ye, stranger, there an't a fellow in our parts gets more out of his niggers than I do. Why, my boys have been to Cincinnati, with five hundred dollars' worth of colts, and brought me back the money, all straight, time and agin. It stands to reason they should. Treat 'em like dogs, and you'll have dogs' works and dogs' actions. Treat 'em like men, and you'll have men's works." And the honest drover, in his warmth, endorsed this moral sentiment by firing a perfect feu de joie2 at the fireplace.
 
 "I think you're altogether right, friend," said Mr. Wilson; "and this boy described here is a fine fellow—no mistake about that.
 
-<sup>1</sup> Legal papers given to freed slaves as proof of their manumission.
+1 Legal papers given to freed slaves as proof of their manumission.
 
-<sup>2</sup> A victory salute (French).
+2 A victory salute (French).
 
 He worked for me some half-dozen years in my bagging factory, and he was my best hand, sir. He is an ingenious fellow, too: he invented a machine for the cleaning of hemp—a really valuable affair; it's gone into use in several factories. His master holds the patent of it."
 
@@ -2554,9 +2559,9 @@ When all was done, and the servants departed, the young man deliberately locked 
 
 "I can do it on my own responsibility," said George, with the same proud smile.
 
-We remark, en passant, <sup>1</sup> that George was, by his father's side, of white descent. His mother was one of those unfortunates of her race, marked out by personal beauty to be the slave of the passions of her possessor, and the mother of children who may never know a father. From one of the proudest families in Kentucky he had inherited a set of fine European features, and a high, indomitable spirit. From his mother he had received only a slight mulatto tinge, amply compensated by its accompanying rich, dark eye. A slight change in the tint of the skin and the color of his hair had metamorphosed him into the Spanish-looking fellow he then appeared; and as gracefulness of movement and gentlemanly manners had always been perfectly natural to him, he found no difficulty in playing the bold part he had adopted—that of a gentleman travelling with his domestic.
+We remark, en passant, 1 that George was, by his father's side, of white descent. His mother was one of those unfortunates of her race, marked out by personal beauty to be the slave of the passions of her possessor, and the mother of children who may never know a father. From one of the proudest families in Kentucky he had inherited a set of fine European features, and a high, indomitable spirit. From his mother he had received only a slight mulatto tinge, amply compensated by its accompanying rich, dark eye. A slight change in the tint of the skin and the color of his hair had metamorphosed him into the Spanish-looking fellow he then appeared; and as gracefulness of movement and gentlemanly manners had always been perfectly natural to him, he found no difficulty in playing the bold part he had adopted—that of a gentleman travelling with his domestic.
 
-Mr. Wilson, a good-natured but extremely fidgety and cautious old gentleman, ambled up and down the room, appearing, as John Bunyan hath it, "much tumbled up and down in his mind,"<sup>2</sup> and divided between his wish to help George, and a certain confused notion of maintaining law and order: so, as he shambled about, he delivered himself as follows:
+Mr. Wilson, a good-natured but extremely fidgety and cautious old gentleman, ambled up and down the room, appearing, as John Bunyan hath it, "much tumbled up and down in his mind,"2 and divided between his wish to help George, and a certain confused notion of maintaining law and order: so, as he shambled about, he delivered himself as follows:
 
 "Well, George, I s'pose you're running away—leaving your lawful master, George—(I don't wonder at it)—at the same time, I'm sorry, George,—yes, decidedly—I think I must say that, George—it's my duty to tell you so."
 
@@ -2566,11 +2571,11 @@ Mr. Wilson, a good-natured but extremely fidgety and cautious old gentleman, amb
 
 "My country!" said George, with a strong and bitter emphasis; "what country have I, but the grave,—and I wish to God that I was laid there!"
 
-<sup>1</sup> In passing (French).
+1 In passing (French).
 
-<sup>2</sup> From Part 2 of John Bunyan's Pilgrim's Progress (see page 111, note 1 above).
+2 From Part 2 of John Bunyan's Pilgrim's Progress (see page 111, note 1 above).
 
-"Why, George, no—no—it won't do; this way of talking is wicked—unscriptural. George, you 've got a hard master—in fact, he is—well he conducts himself reprehensibly—I can't pretend to defend him. But you know how the angel commanded Hagar to return to her mistress, and submit herself under her hand; and the apostle sent back Onesimus<sup>1</sup> to his master."
+"Why, George, no—no—it won't do; this way of talking is wicked—unscriptural. George, you 've got a hard master—in fact, he is—well he conducts himself reprehensibly—I can't pretend to defend him. But you know how the angel commanded Hagar to return to her mistress, and submit herself under her hand; and the apostle sent back Onesimus1 to his master."
 
 "Don't quote Bible at me that way, Mr. Wilson," said George, with a flashing eye, "don't! for my wife is a Christian, and I mean to be, if ever I get to where I can; but to quote Bible to a fellow in my circumstances, is enough to make him give it up altogether. I appeal to God Almighty;—I'm willing to go with the case to Him, and ask Him if I do wrong to seek my freedom."
 
@@ -2584,9 +2589,9 @@ The little old gentleman stared with both eyes at this illustration of the case;
 
 "You see, George, you know, now, I always have stood your friend; and whatever I've said, I've said for your good. Now, here, it seems to me, you 're running an awful risk. You can't hope to
 
-<sup>1</sup> In Genesis, Hagar was the handmaiden of Sarah, wife of Abraham; Onesimus (c. 90 CE) was a slave who returned to his master Philemon and was subsequently freed at the Apostle Paul's request. Read simply as a rationale for slaves to return to their masters, Mr. Wilson seems to have an incomplete knowledge of this Biblical passage.
+1 In Genesis, Hagar was the handmaiden of Sarah, wife of Abraham; Onesimus (c. 90 CE) was a slave who returned to his master Philemon and was subsequently freed at the Apostle Paul's request. Read simply as a rationale for slaves to return to their masters, Mr. Wilson seems to have an incomplete knowledge of this Biblical passage.
 
-<sup>2</sup> In 1 Corinthians 7.20, Paul writes "Let every man abide in the same calling wherein he was called."
+2 In 1 Corinthians 7.20, Paul writes "Let every man abide in the same calling wherein he was called."
 
 carry it out. If you 're taken, it will be worse with you than ever; they'll only abuse you, and half kill you, and sell you down river."
 
@@ -2594,7 +2599,7 @@ carry it out. If you 're taken, it will be worse with you than ever; they'll onl
 
 "Why, George, this state of mind is awful; it's getting really desperate, George. I'm concerned. Going to break the laws of your country!"
 
-"MY country again! Mr. Wilson, you have a country; but what country have I, or any one like me, born of slave mothers? What laws are there for us? We don't make them,—we don't consent to them,—we have nothing to do with them; all they do for us is to crush us, and keep us down. Have n't I heard your Fourth-of-July speeches? Don't you tell us all, once a year, that governments derive their just power from the consent of the governed?<sup>1</sup> Can't a fellow think, that hears such things? Can't he put this and that together, and see what it comes to?"
+"MY country again! Mr. Wilson, you have a country; but what country have I, or any one like me, born of slave mothers? What laws are there for us? We don't make them,—we don't consent to them,—we have nothing to do with them; all they do for us is to crush us, and keep us down. Have n't I heard your Fourth-of-July speeches? Don't you tell us all, once a year, that governments derive their just power from the consent of the governed?1 Can't a fellow think, that hears such things? Can't he put this and that together, and see what it comes to?"
 
 Mr. Wilson's mind was one of those that may not unaptly be represented by a bale of cotton,—downy, soft, benevolently fuzzy and confused. He really pitied George with all his heart, and had a sort of dim and cloudy perception of the style of feeling that agitated him; but he deemed it his duty to go on talking good to him, with infinite pertinacity.
 
@@ -2604,11 +2609,11 @@ Mr. Wilson's mind was one of those that may not unaptly be represented by a bale
 
 1 An allusion to the Declaration of Independence and its doctrine of natural rights: "We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain inalienable Rights, that among these are Life, Liberty and the pursuit of Happiness. That to secure these rights, Governments are instituted among Men, deriving their just powers from the consent of the governed …"
 
-think enough of me to keep me from being sold with his dogs and horses, to satisfy the estate, when he died. I saw my mother put up at sheriff's sale,<sup>1</sup> with her seven children. They were sold before her eyes, one by one, all to different masters; and I was the youngest. She came and kneeled down before old Mas'r, and begged him to buy her with me, that she might have at least one child with her; and he kicked her away with his heavy boot. I saw him do it; and the last that I heard was her moans and screams, when I was tied to his horse's neck, to be carried off to his place." "Well, then?"
+think enough of me to keep me from being sold with his dogs and horses, to satisfy the estate, when he died. I saw my mother put up at sheriff's sale,1 with her seven children. They were sold before her eyes, one by one, all to different masters; and I was the youngest. She came and kneeled down before old Mas'r, and begged him to buy her with me, that she might have at least one child with her; and he kicked her away with his heavy boot. I saw him do it; and the last that I heard was her moans and screams, when I was tied to his horse's neck, to be carried off to his place." "Well, then?"
 
 "My master traded with one of the men, and bought my oldest sister. She was a pious, good girl,—a member of the Baptist church,—and as handsome as my poor mother had been. She was well brought up, and had good manners. At first, I was glad she was bought, for I had one friend near me. I was soon sorry for it. Sir, I have stood at the door and heard her whipped, when it seemed as if every blow cut into my naked heart, and I could n't do anything to help her; and she was whipped, sir, for wanting to live a decent Christian life, such as your laws give no slave girl a right to live; and at last I saw her chained with a trader's gang, to be sent to market in Orleans,—sent there for nothing else but that,—and that's the last I know of her. Well, I grew up,—long years and years,—no father, no mother, no sister, not a living soul that cared for me more than a dog; nothing but whipping, scolding, starving. Why, sir, I 've been so hungry that I have been glad to take the bones they threw to their dogs; and yet, when I was a little fellow, and laid awake whole nights and cried, it was n't the hunger, it was n't the whipping, I cried for. No, sir; it was for my mother and my sisters, it was because I hadn't a friend to love me on earth. I never knew what peace or comfort was. I never had a kind word spoken to me till I came to work in your factory. Mr. Wilson, you treated me well; you encouraged me to do well, and to learn to read and write, and to try to make something of myself; and God knows how grateful I am for it. Then, sir, I found my wife; you 've seen her,—you know how beautiful she is. When I found she loved me, when I married her, I scarcely could believe I was alive, I was so happy; and, sir, she is as good as she is beautiful. But now what? Why, now comes my master, takes me right away from my work, and my friends, and all I like, and grinds me down into the very dirt! And why? Because, he says, I forgot who I was; he says, to teach me that I am only a nigger! After all, and last of all, he comes between me and
 
-<sup>1</sup> A public auction.
+1 A public auction.
 
 my wife, and says I shall give her up, and live with another woman. And all this your laws give him power to do, in spite of God or man. Mr. Wilson, look at it! There is n't one of all these things, that have broken the hearts of my mother and my sister, and my wife and myself, but your laws allow, and give every man power to do, in Kentucky; and none can say to him nay! Do you call these the laws of my country? Sir, I have n't any country, any more than I have any father. But I 'm going to have one. I don't want anything of your country, except to be let alone,—to go peacably out of it; and when I get to Canada, where the laws will own me and protect me, that shall be my country, and its laws I will obey. But if any man tries to stop me, let him take care, for I am desperate. I'll fight for my liberty to the last breath I breathe. You say your fathers did it; if it was right for them, it is right for me!"
 
@@ -2698,15 +2703,15 @@ The real piety and benevolence of the simple old man invested him with a tempora
 
 #### CHAPTER XII. SELECT INCIDENT OF LAWFUL TRADE
 
-"In Ramah there was a voice heard,—weeping, and lamentation, and great mourning; Rachel weeping for her children, and would not be comforted."<sup>2</sup>
+"In Ramah there was a voice heard,—weeping, and lamentation, and great mourning; Rachel weeping for her children, and would not be comforted."2
 
 MR. HALEY and Tom jogged onward in their wagon, each, for a time, absorbed in his own reflections. Now, the reflections of two men sitting side by side are a curious thing,—seated on the same seat, having the same eyes, ears, hands and organs of all sorts, and having pass before their eyes the same objects,—it is wonderful what a variety we shall find in these same reflections!
 
 As, for example, Mr. Haley: he thought first of Tom's length, and breadth, and height, and what he would sell for, if he was kept fat and in good case till he got him into market. He thought of how he should make out his gang; he thought of the respective market value of certain superstitious men and women and children who were to compose it, and other kindred topics of the
 
-<sup>1</sup> A paraphrase of Psalms 97.1-2.
+1 A paraphrase of Psalms 97.1-2.
 
-<sup>2</sup> See Jeremiah 3.15.
+2 See Jeremiah 3.15.
 
 business; then he thought of himself, and how humane he was, that whereas other men chained their "niggers" hand and foot both, he only put fetters on the feet, and left Tom the use of his hands, as long as he behaved well; and he sighed to think how ungrateful human nature was, so that there was even room to doubt whether Tom appreciated his mercies. He had been taken in so by "niggers" whom he had favored; but still he was astonished to consider how good-natured he yet remained!
 
@@ -2720,11 +2725,11 @@ Mr. Haley pulled out of his pocket sundry newspapers, and began looking over the
 
 "This yer I must look at," said he to Tom, for want of somebody else to talk to.
 
-<sup>1</sup> I.e., the Bible. The phrase is from Hebrews 13.14-16.
+1 I.e., the Bible. The phrase is from Hebrews 13.14-16.
 
-<sup>2</sup> See Hebrews 12.14-16.
+2 See Hebrews 12.14-16.
 
-<sup>3</sup> A reference to Acts 4.13: "Now as they observed the confidence of Peter and John and understood that they were uneducated and untrained men, they were amazed, and began to recognize them as having been with Jesus."
+3 A reference to Acts 4.13: "Now as they observed the confidence of Peter and John and understood that they were uneducated and untrained men, they were amazed, and began to recognize them as having been with Jesus."
 
 "Ye see, I'm going to get up a prime gang to take down with ye, Tom; it'll make it sociable and pleasant like,—good company will, ye know. We must drive right to Washington first and foremost, and then I'll clap you into jail, while I does the business."
 
@@ -2814,7 +2819,7 @@ The La Belle Rivie`re,1 as brave and beautiful a boat as ever walked the waters 
 
 "Boys," said Haley, coming up, briskly, "I hope you keep up good heart, and are cheerful. Now, no sulks, ye see; keep stiff upper lip, boys; do well by me, and I'll do well by you."
 
-The boys addressed responded the invariable "Yes, Mas'r," for ages the watchword of poor Africa;<sup>2</sup> but it's to be owned they did not look particularly cheerful; they had their various little prejudices in favor of wives, mothers, sisters, and children, seen for the last time,—and though "they that wasted them required of them mirth,"<sup>3</sup> it was not instantly forthcoming.
+The boys addressed responded the invariable "Yes, Mas'r," for ages the watchword of poor Africa;2 but it's to be owned they did not look particularly cheerful; they had their various little prejudices in favor of wives, mothers, sisters, and children, seen for the last time,—and though "they that wasted them required of them mirth,"3 it was not instantly forthcoming.
 
 "I've got a wife," spoke out the article enumerated as "John, aged thirty," and he laid his chained hand on Tom's knee,—"and she don't know a word about this, poor girl!"
 
@@ -2824,11 +2829,11 @@ The boys addressed responded the invariable "Yes, Mas'r," for ages the watchword
 
 Poor John! It was rather natural; and the tears that fell, as he spoke, came as naturally as if he had been a white man. Tom drew a long breath from a sore heart, and tried, in his poor way, to comfort him.
 
-<sup>1 &</sup>quot;The Beautiful River" (French).
+1 &quot;The Beautiful River" (French).
 
-<sup>2</sup> I.e., of slaves from Africa.
+2 I.e., of slaves from Africa.
 
-<sup>3</sup> A phrase from Psalm 137.3.
+3 A phrase from Psalm 137.3.
 
 And over head, in the cabin, sat fathers and mothers, husbands and wives; and merry, dancing children moved round among them, like so many little butterflies, and everything was going on quite easy and comfortable.
 
@@ -2858,7 +2863,7 @@ And over head, in the cabin, sat fathers and mothers, husbands and wives; and me
 
 The lady said "Indeed!" yawned, and looked out the cabin window, and finally repeated, for a finale, the remark with which she had begun,—"After all, I think they are better off than they would be to be free."
 
-"It's undoubtedly the intention of Providence that the African race should be servants,—kept in a low condition," said a gravelooking gentleman in black, a clergyman, seated by the cabin door. "'Cursed be Canaan; a servant of servants shall he be,' the scripture says."<sup>1</sup>
+"It's undoubtedly the intention of Providence that the African race should be servants,—kept in a low condition," said a gravelooking gentleman in black, a clergyman, seated by the cabin door. "'Cursed be Canaan; a servant of servants shall he be,' the scripture says."1
 
 "I say, stranger, is that ar what that text means?" said a tall man, standing by.
 
@@ -2872,15 +2877,15 @@ The lady said "Indeed!" yawned, and looked out the cabin window, and finally rep
 
 "And now you'll save yerself the trouble, won't ye?" said the tall man. "See what 't is, now, to know scripture. If ye 'd only studied yer Bible, like this yer good man, ye might have know'd it before, and saved ye a heap o' trouble. Ye could jist have said, 'Cussed be'—what's his name?—'and 't would all have come right.'" And the stranger, who was no other than the honest drover whom we introduced to our readers in the Kentucky tavern, sat down, and began smoking, with a curious smile on his long, dry face.
 
-A tall, slender young man, with a face expressive of great feeling and intelligence, here broke in, and repeated the words, "'All things whatsoever ye would that men should do unto you, do ye even so unto them.' I suppose," he added, "that is scripture, as much as 'Cursed be Canaan.'"<sup>2</sup>
+A tall, slender young man, with a face expressive of great feeling and intelligence, here broke in, and repeated the words, "'All things whatsoever ye would that men should do unto you, do ye even so unto them.' I suppose," he added, "that is scripture, as much as 'Cursed be Canaan.'"2
 
 "Wal, it seems quite as plain a text, stranger," said John the drover, "to poor fellows like us, now;" and John smoked on like a volcano.
 
 The young man paused, looked as if he was going to say more, when suddenly the boat stopped, and the company made the usual steamboat rush, to see where they were landing.
 
-<sup>1</sup> See Genesis 9.21-27, where Noah curses the descendents of his son Ham—an Old Testament passage frequently cited in defenses of slavery.
+1 See Genesis 9.21-27, where Noah curses the descendents of his son Ham—an Old Testament passage frequently cited in defenses of slavery.
 
-<sup>2</sup> From the New Testament—specifically, Christ's Sermon on the Mount. See Matthew 7.12.
+2 From the New Testament—specifically, Christ's Sermon on the Mount. See Matthew 7.12.
 
 "Both them ar chaps parsons?" said John to one of the men, as they were going out.
 
@@ -2902,13 +2907,13 @@ Haley gave an uneasy growl.
 
 Haley walked reflectively to the other end of the boat.
 
-"If I make pretty handsomely on one or two next gangs," he thought, "I reckon I'll stop off this yer; it's really getting dangerous." And he took out his pocket-book, and began adding over his accounts,—a process which many gentlemen besides Mr. Haley have found a specific<sup>1</sup> for an uneasy conscience.
+"If I make pretty handsomely on one or two next gangs," he thought, "I reckon I'll stop off this yer; it's really getting dangerous." And he took out his pocket-book, and began adding over his accounts,—a process which many gentlemen besides Mr. Haley have found a specific1 for an uneasy conscience.
 
 The boat swept proudly away from the shore, and all went on merrily, as before. Men talked, and loafed, and read, and smoked. Women sewed, and children played, and the boat passed on her way.
 
 One day, when she lay to for a while at a small town in Kentucky, Haley went up into the place on a little matter of business.
 
-<sup>1</sup> I.e., a balm or cure.
+1 I.e., a balm or cure.
 
 Tom, whose fetters did not prevent his taking a moderate circuit, had drawn near the side of the boat, and stood listlessly gazing over the railings. After a time, he saw the trader returning, with an alert step, in company with a colored woman, bearing in her arms a young child. She was dressed quite respectably, and a colored man followed her bringing along a small trunk. The woman came cheerfully onward, talking, as she came, with the man who bore her trunk, and so passed up the plank into the boat. The bell rung, the steamer whizzed, the engine groaned and coughed, and away swept the boat down the river.
 
@@ -2930,11 +2935,11 @@ Tom soon noticed a heavy cloud passing over the woman's brow; and that she answe
 
 The woman's passionate exclamations collected a crowd around her, and the trader briefly explained to them the cause of the agitation.
 
-"He told me that I was going down to Louisville,<sup>1</sup> to hire out as cook to the same tavern where my husband works,—that's what Mas'r told me, his own self; and I can't believe he'd lie to me," said the woman.
+"He told me that I was going down to Louisville,1 to hire out as cook to the same tavern where my husband works,—that's what Mas'r told me, his own self; and I can't believe he'd lie to me," said the woman.
 
 "But he has sold you, my poor woman, there's no doubt about
 
-<sup>1</sup> Louisville, Kentucky, on the Ohio River.
+1 Louisville, Kentucky, on the Ohio River.
 
 it," said a good-natured looking man, who had been examining the papers; "he has done it, and no mistake."
 
@@ -3018,7 +3023,7 @@ When the boat, creaking, and groaning, and puffing, had loosed from the wharf, a
 
 "Lucy," said the trader, "your child's gone; you may as well know it first as last. You see, I know'd you could n't take him down south; and I got a chance to sell him to a first-rate family, that'll raise him better than you can."
 
-The trader had arrived at that stage of Christian and political perfection which has been recommended by some preachers and politicians of the north, lately, in which he had completely overcome every humane weakness and prejudice. His heart was exactly where yours, sir, and mine could be brought, with proper effort and cultivation. The wild look of anguish and utter despair that the woman cast on him might have disturbed one less practised; but he was used to it. He had seen that same look hundreds of times. You can get used to such things, too, my friend; and it is the great object of recent efforts to make our whole northern community used to them, for the glory of the Union.<sup>1</sup> So the trader only regarded the mortal anguish which he saw working in those dark features, those clenched hands, and suffocating breathings, as necessary incidents of the trade, and merely calculated whether she was going to scream, and get up a commotion on the boat; for, like other supporters of our peculiar institution, he decidedly disliked agitation. But the woman did not scream. The shot had passed too straight and direct through the heart, for cry or tear.
+The trader had arrived at that stage of Christian and political perfection which has been recommended by some preachers and politicians of the north, lately, in which he had completely overcome every humane weakness and prejudice. His heart was exactly where yours, sir, and mine could be brought, with proper effort and cultivation. The wild look of anguish and utter despair that the woman cast on him might have disturbed one less practised; but he was used to it. He had seen that same look hundreds of times. You can get used to such things, too, my friend; and it is the great object of recent efforts to make our whole northern community used to them, for the glory of the Union.1 So the trader only regarded the mortal anguish which he saw working in those dark features, those clenched hands, and suffocating breathings, as necessary incidents of the trade, and merely calculated whether she was going to scream, and get up a commotion on the boat; for, like other supporters of our peculiar institution, he decidedly disliked agitation. But the woman did not scream. The shot had passed too straight and direct through the heart, for cry or tear.
 
 Dizzily she sat down. Her slack hands fell lifeless by her side. Her eyes looked straight forward, but she saw nothing. All the noise and hum of the boat, the groaning of the machinery, mingled dreamily to her bewildered ear; and the poor, dumbstricken heart had neither cry nor tear to show for its utter misery. She was quite calm.
 
@@ -3038,9 +3043,9 @@ The trader walked up and down for a time, and occasionally stopped and looked at
 
 Tom had watched the whole transaction from first to last, and had a perfect understanding of its results. To him, it looked like something unutterably horrible and cruel, because, poor, ignorant black soul! he had not learned to generalize, and to take enlarged views. If he had only been instructed by certain ministers of Christianity, he might have thought better of it, and seen
 
-<sup>1</sup> Another reference to the Compromise of 1850 and the Fugitive Slave Bill.
+1 Another reference to the Compromise of 1850 and the Fugitive Slave Bill.
 
-in it an every-day incident of a lawful trade; a trade which is the vital support of an institution which an American divine<sup>1</sup> tells us has "no evils but such as are inseparable from any other relations in social and domestic life." But Tom, as we see, being a poor, ignorant fellow, whose reading had been confined entirely to the New Testament, could not comfort and solace himself with views like these. His very soul bled within him for what seemed to him the wrongs of the poor suffering thing that lay like a crushed reed on the boxes; the feeling, living, bleeding, yet immortal thing, which American state law coolly classes with the bundles, and bales, and boxes, among which she is lying.
+in it an every-day incident of a lawful trade; a trade which is the vital support of an institution which an American divine1 tells us has "no evils but such as are inseparable from any other relations in social and domestic life." But Tom, as we see, being a poor, ignorant fellow, whose reading had been confined entirely to the New Testament, could not comfort and solace himself with views like these. His very soul bled within him for what seemed to him the wrongs of the poor suffering thing that lay like a crushed reed on the boxes; the feeling, living, bleeding, yet immortal thing, which American state law coolly classes with the bundles, and bales, and boxes, among which she is lying.
 
 Tom drew near, and tried to say something; but she only groaned. Honestly, and with tears running down his own cheeks, he spoke of a heart of love in the skies, of a pitying Jesus, and an eternal home; but the ear was deaf with anguish, and the palsied heart could not feel.
 
@@ -3048,11 +3053,11 @@ Night came on,—night calm, unmoved, and glorious, shining down with her innume
 
 At midnight, Tom waked, with a sudden start. Something black passed quickly by him to the side of the boat; and he heard a splash in the water. No one else saw or heard anything. He raised his head,—the woman's place was vacant! He got up, and sought about him in vain. The poor bleeding heart was still, at last, and the river rippled and dimpled just as brightly as if it had not closed above it.
 
-Patience! patience! ye whose hearts swell indignant at wrongs like these. Not one throb of anguish, not one tear of the oppressed, is forgotten by the Man of Sorrows, the Lord of Glory. In his patient, generous bosom he bears the anguish of a world. Bear thou, like him, in patience, and labor in love; for sure as he is God, "the year of his redeemed shall come."<sup>2</sup>
+Patience! patience! ye whose hearts swell indignant at wrongs like these. Not one throb of anguish, not one tear of the oppressed, is forgotten by the Man of Sorrows, the Lord of Glory. In his patient, generous bosom he bears the anguish of a world. Bear thou, like him, in patience, and labor in love; for sure as he is God, "the year of his redeemed shall come."2
 
-<sup>1</sup> Dr. Joel Parker, of Philadelphia [Stowe's note].
+1 Dr. Joel Parker, of Philadelphia [Stowe's note].
 
-<sup>2</sup> From Isaiah 63.4: "For the day of vengeance was in My heart, And My year of redemption has come."
+2 From Isaiah 63.4: "For the day of vengeance was in My heart, And My year of redemption has come."
 
 The trader waked up bright and early, and came out to see to his live stock. It was now his turn to look about in perplexity,
 
@@ -3084,21 +3089,21 @@ In the day of a future Judgment, these very considerations may make it more tole
 
 In concluding these little incidents of lawful trade, we must beg the world not to think that American legislators are entirely destitute of humanity, as might, perhaps, be unfairly inferred from the great efforts made in our national body to protect and perpetuate this species of traffic.
 
-Who does not know how our great men are outdoing themselves, in declaiming against the foreign slave-trade. There are a perfect host of Clarksons and Wilberforces<sup>1</sup> risen up among us on that subject, most edifying to hear and behold. Trading negroes from Africa, dear reader, is so horrid! It is not to be thought of! But trading them from Kentucky,—that's quite another thing!
+Who does not know how our great men are outdoing themselves, in declaiming against the foreign slave-trade. There are a perfect host of Clarksons and Wilberforces1 risen up among us on that subject, most edifying to hear and behold. Trading negroes from Africa, dear reader, is so horrid! It is not to be thought of! But trading them from Kentucky,—that's quite another thing!
 
-#### CHAPTER XIII THE QUAKER SETTLEMENT<sup>2</sup>
+#### CHAPTER XIII THE QUAKER SETTLEMENT2
 
 A QUIET scene now rises before us. A large, roomy, neatlypainted kitchen, its yellow floor glossy and smooth, and without a particle of dust; a neat, well-blacked cooking-stove; rows of shining tin, suggestive of unmentionable good things to the appetite; glossy green wood chairs, old and firm; a small flag-bottomed rocking-chair, with a patch-work cushion in it, neatly contrived out of small pieces of different colored woollen goods, and a larger sized one, motherly and old, whose wide arms breathed hospitable invitation, seconded by the solicitation of its feather cushions,—a real comfortable, persuasive old chair, and worth, in
 
-<sup>1</sup> Like Wilberforce (see page 52, note 1 above), Thomas Clarkson (1760- 1846) was a leading English abolitionist who helped to bring about the emancipation of slaves in the British colonies.
+1 Like Wilberforce (see page 52, note 1 above), Thomas Clarkson (1760- 1846) was a leading English abolitionist who helped to bring about the emancipation of slaves in the British colonies.
 
-<sup>2</sup> A popular name for the Religious Society of Friends, the Quakers use no scripture and practice austerity in worship and daily life. Theirs was among the first religious groups to actively oppose slavery in England and America.
+2 A popular name for the Religious Society of Friends, the Quakers use no scripture and practice austerity in worship and daily life. Theirs was among the first religious groups to actively oppose slavery in England and America.
 
 the way of honest, homely enjoyment, a dozen of your plush or brochetelle1 drawing-room gentry; and in the chair, gently swaying back and forward, her eyes bent on some fine sewing, sat our old friend Eliza. Yes, there she is, paler and thinner than in her Kentucky home, with a world of quiet sorrow lying under the shadow of her long eyelashes, and marking the outline of her gentle mouth! It was plain to see how old and firm the girlish heart was grown under the discipline of heavy sorrow; and when, anon, her large dark eye was raised to follow the gambols of her little Harry, who was sporting, like some tropical butterfly, hither and thither over the floor, she showed a depth of firmness and steady resolve that was never there in her earlier and happier days.
 
 By her side sat a woman with a bright tin pan in her lap, into which she was carefully sorting some dried peaches. She might be fifty-five or sixty; but hers was one of those faces that time seems to touch only to brighten and adorn. The snowy lisse crape cap, made after the strait Quaker pattern,—the plain white muslin handkerchief, lying in placid folds across her bosom,—the drab shawl and dress,—showed at once the community to which she belonged. Her face was round and rosy, with a healthful downy softness, suggestive of a ripe peach. Her hair, partially silvered by age, was parted smoothly back from a high placid forehead, on which time had written no inscription, except peace on earth, good will to men, and beneath shone a large pair of clear, honest, loving brown eyes; you only needed to look straight into them, to feel that you saw to the bottom of a heart as good and true as ever throbbed in woman's bosom. So much has been said and sung of beautiful young girls, why don't somebody wake up to the beauty of old women? If any want to get up an inspiration under this head, we refer them to our good friend Rachel Halliday, just as she sits there in her little rocking-chair. It had a turn for quacking and squeaking,—that chair had,—either from having taken cold in early life, or from some asthmatic affection, or perhaps from nervous derangement; but, as she gently swung backward and forward, the chair kept up a kind of subdued "creechy crawchy," that would have been intolerable in any other chair. But old Simeon Halliday often declared it was as good as any music to him, and the children all avowed that they would n't miss of hearing mother's chair for anything in the world. For why? for twenty years or more, nothing but loving words, and gentle moralities, and motherly loving kindness, had come from
 
-<sup>1</sup> A heavy fabric with a raised design (French: brocatelle).
+1 A heavy fabric with a raised design (French: brocatelle).
 
 that chair;—head-aches and heart-aches innumerable had been cured there,—difficulties spiritual and temporal solved there, all by one good, loving woman, God bless her!
 
@@ -3240,11 +3245,11 @@ Rachel never looked so truly and benignly happy as at the head of her table. The
 
 It was the first time that ever George had sat down on equal
 
-<sup>1</sup> Venus was the Roman goddess of love and beauty whose cestus (girdle) gave the wearer grace, beauty, and power over others in matters of love. A cestus is therefore a symbol of female power.
+1 Venus was the Roman goddess of love and beauty whose cestus (girdle) gave the wearer grace, beauty, and power over others in matters of love. A cestus is therefore a symbol of female power.
 
 terms at any white man's table; and he sat down, at first, with some constraint and awkwardness; but they all exhaled and went off like fog, in the genial morning rays of this simple, overflowing kindness.
 
-This, indeed, was a home,—home,—a word that George had never yet known a meaning for; and a belief in God, and trust in his providence, began to encircle his heart, as, with a golden cloud of protection and confidence, dark, misanthropic, pining, atheistic doubts, and fierce despair, melted away before the light of a living Gospel, breathed in living faces, preached by a thousand unconscious acts of love and good will, which like the cup of cold water given in the name of a disciple, shall never lose their reward.<sup>1</sup>
+This, indeed, was a home,—home,—a word that George had never yet known a meaning for; and a belief in God, and trust in his providence, began to encircle his heart, as, with a golden cloud of protection and confidence, dark, misanthropic, pining, atheistic doubts, and fierce despair, melted away before the light of a living Gospel, breathed in living faces, preached by a thousand unconscious acts of love and good will, which like the cup of cold water given in the name of a disciple, shall never lose their reward.1
 
 "Father, what if thee should get found out again?" said Simeon second, as he buttered his cake.
 
@@ -3268,7 +3273,7 @@ Simeon second blushed scarlet; but his mother only smiled, and said, "Simeon is 
 
 "Fear nothing, George, for therefore are we sent into the world. If we would not meet trouble for a good cause, we were not worthy of our name."
 
-<sup>1</sup> See Matthew 10.42: "And whoever shall give to drink to one of these little ones a cup of cold water only in the name of a disciple, truly I say to you, he shall in no wise lose his reward."
+1 See Matthew 10.42: "And whoever shall give to drink to one of these little ones a cup of cold water only in the name of a disciple, truly I say to you, he shall in no wise lose his reward."
 
 "But, for me," said George, "I could not bear it."
 
@@ -3280,17 +3285,17 @@ Simeon second blushed scarlet; but his mother only smiled, and said, "Simeon is 
 
 #### CHAPTER XIV EVANGELINE
 
-"A young star! which shone O'er life—too sweet an image for such glass! A lovely being, scarcely formed or moulded; A rose with all its sweetest leaves yet folded."<sup>1</sup>
+"A young star! which shone O'er life—too sweet an image for such glass! A lovely being, scarcely formed or moulded; A rose with all its sweetest leaves yet folded."1
 
-THE Mississippi! How, as by an enchanted wand, have its scenes been changed, since Chateaubriand<sup>2</sup> wrote his prose-poetic description of it, as a river of mighty, unbroken solitudes, rolling amid undreamed wonders of vegetable and animal existence.
+THE Mississippi! How, as by an enchanted wand, have its scenes been changed, since Chateaubriand2 wrote his prose-poetic description of it, as a river of mighty, unbroken solitudes, rolling amid undreamed wonders of vegetable and animal existence.
 
 But, as in an hour, this river of dreams and wild romance has emerged to a reality scarcely less visionary and splendid. What other river of the world bears on its bosom to the ocean the wealth and enterprise of such another country?—a country whose products embrace all between the tropics and the poles! Those turbid waters, hurrying, foaming, tearing along, an apt resemblance of that headlong tide of business which is poured along its wave by a race more vehement and energetic than any the old world ever saw. Ah! would that they did not also bear along a more fearful freight,—the tears of the oppressed, the sighs of the helpless, the bitter prayers of poor, ignorant hearts to an
 
-<sup>1</sup> From Lord (George Gordon) Byron's (1788-1824) long poem Don Juan, 14.43. Byron was a British poet and leader in the Romantic literary movement.
+1 From Lord (George Gordon) Byron's (1788-1824) long poem Don Juan, 14.43. Byron was a British poet and leader in the Romantic literary movement.
 
-<sup>2</sup> François-Rene´ de Chateaubriand (1768-1848) was a French writer and politician who traveled to America in 1791. Although he apparently did not go further west than Niagara Falls, he nevertheless described the Mississippi and the destruction of the Natchez Indians by the French in his novel Les Natchez (written 1793-99; published 1826).
+2 François-Rene´ de Chateaubriand (1768-1848) was a French writer and politician who traveled to America in 1791. Although he apparently did not go further west than Niagara Falls, he nevertheless described the Mississippi and the destruction of the Natchez Indians by the French in his novel Les Natchez (written 1793-99; published 1826).
 
-unknown God—unknown, unseen and silent; but who will yet "come out of his place to save all the poor of the earth!"<sup>1</sup>
+unknown God—unknown, unseen and silent; but who will yet "come out of his place to save all the poor of the earth!"1
 
 The slanting light of the setting sun quivers on the sea-like expanse of the river; the shivery canes, and the tall, dark cypress, hung with wreaths of dark, funereal moss, glow in the golden ray, as the heavily-laden steamboat marches onward.
 
@@ -3306,23 +3311,23 @@ When there seemed to be nothing for him to do, he would climb to a nook among th
 
 For a hundred or more miles above New Orleans, the river is higher than the surrounding country, and rolls its tremendous volume between massive levees twenty feet in height. The traveller from the deck of the steamer, as from some floating castle top, overlooks the whole country for miles and miles around. Tom, therefore, had spread out full before him, in plantation after plantation, a map of the life to which he was approaching.
 
-<sup>1</sup> An unknown reference or quotation, but perhaps a loose paraphrase of Isaiah 26.21: "For behold, the LORD is about to come out from His place To punish the inhabitants of the earth for their iniquity; And the earth will reveal her bloodshed And will no longer cover her slain."
+1 An unknown reference or quotation, but perhaps a loose paraphrase of Isaiah 26.21: "For behold, the LORD is about to come out from His place To punish the inhabitants of the earth for their iniquity; And the earth will reveal her bloodshed And will no longer cover her slain."
 
-He saw the distant slaves at their toil; he saw afar their villages of huts gleaming out in long rows on many a plantation, distant from the stately mansions and pleasure-grounds of the master; and as the moving picture passed on, his poor, foolish heart would be turning backward to the Kentucky farm, with its old shadowy beeches,—to the master's house, with its wide, cool halls, and, near by, the little cabin, overgrown with the multiflora and bignonia. There he seemed to see familiar faces of comrades, who had grown up with him from infancy; he saw his busy wife, bustling in her preparations for his evening meals; he heard the merry laugh of his boys at their play, and the chirrup of the baby at his knee; and then, with a start, all faded, and he saw again the cane-brakes<sup>1</sup> and cypresses and gliding plantations, and heard again the creaking and groaning of the machinery, all telling him too plainly that all that phase of life had gone by forever.
+He saw the distant slaves at their toil; he saw afar their villages of huts gleaming out in long rows on many a plantation, distant from the stately mansions and pleasure-grounds of the master; and as the moving picture passed on, his poor, foolish heart would be turning backward to the Kentucky farm, with its old shadowy beeches,—to the master's house, with its wide, cool halls, and, near by, the little cabin, overgrown with the multiflora and bignonia. There he seemed to see familiar faces of comrades, who had grown up with him from infancy; he saw his busy wife, bustling in her preparations for his evening meals; he heard the merry laugh of his boys at their play, and the chirrup of the baby at his knee; and then, with a start, all faded, and he saw again the cane-brakes1 and cypresses and gliding plantations, and heard again the creaking and groaning of the machinery, all telling him too plainly that all that phase of life had gone by forever.
 
 In such a case, you write to your wife, and send messages to your children; but Tom could not write,—the mail for him had no existence, and the gulf of separation was unbridged by even a friendly word or signal.
 
 Is it strange, then, that some tears fall on the pages of his Bible, as he lays it on the cotton-bale, and, with patient finger, threading his slow way from word to word, traces out its promises? Having learned late in life, Tom was but a slow reader, and passed on laboriously from verse to verse. Fortunate for him was it that the book he was intent on was one which slow reading cannot injure,—nay, one whose words, like ingots of gold, seem often to need to be weighed separately, that the mind may take in their priceless value. Let us follow him a moment, as, pointing to each word, and pronouncing each half aloud, he reads,
 
-"Let—not—your—heart—be—troubled. In—my—Father's house—are—many—mansions. I—go—to—prepare—a—place for—you."<sup>2</sup>
+"Let—not—your—heart—be—troubled. In—my—Father's house—are—many—mansions. I—go—to—prepare—a—place for—you."2
 
-Cicero,<sup>3</sup> when he buried his darling and only daughter, had a heart as full of honest grief as poor Tom's,—perhaps no fuller, for both were only men;—but Cicero could pause over no such sublime words of hope, and look to no such future reu¨nion; and if he had seen them, ten to one he would not have believed,—he must fill his head first with a thousand questions of authenticity
+Cicero,3 when he buried his darling and only daughter, had a heart as full of honest grief as poor Tom's,—perhaps no fuller, for both were only men;—but Cicero could pause over no such sublime words of hope, and look to no such future reu¨nion; and if he had seen them, ten to one he would not have believed,—he must fill his head first with a thousand questions of authenticity
 
-<sup>1</sup> I.e., sugar cane thickets.
+1 I.e., sugar cane thickets.
 
-<sup>2</sup> See John 14.1-2.
+2 See John 14.1-2.
 
-<sup>3</sup> Marcus Tullius Cicero (106-43 BCE) was a famous Roman lawyer, orator, statesman, and philosopher.
+3 Marcus Tullius Cicero (106-43 BCE) was a famous Roman lawyer, orator, statesman, and philosopher.
 
 of manuscript, and correctness of translation. But, to poor Tom, there it lay, just what he needed, so evidently true and divine that the possibility of a question never entered his simple head. It must be true; for, if not true, how could he live?
 
@@ -3340,9 +3345,9 @@ Tom, who had the soft, impressible nature of his kindly race, ever yearning towa
 
 Often and often she walked mournfully round the place where Haley's gang of men and women sat in their chains. She would glide in among them, and look at them with an air of perplexed and sorrowful earnestness; and sometimes she would lift their chains with her slender hands, and then sigh wofully, as she glided away. Several times she appeared suddenly among them, with her hands full of candy, nuts, and oranges, which she would distribute joyfully to them, and then be gone again.
 
-<sup>1</sup> On a steam powered boat, the person who stokes the furnaces that power the boilers.
+1 On a steam powered boat, the person who stokes the furnaces that power the boilers.
 
-Tom watched the little lady a great deal, before he ventured on any overtures towards acquaintanceship. He knew an abundance of simple acts to propitiate and invite the approaches of the little people, and he resolved to play his part right skilfully. He could cut cunning little baskets out of cherrystones, could make grotesque faces on hickory-nuts, or odd-jumping figures out of elder-pith, and he was a very Pan<sup>1</sup> in the manufacture of whistles of all sizes and sorts. His pockets were full of miscellaneous articles of attraction, which he had hoarded in days of old for his master's children, and which he now produced, with commendable prudence and economy, one by one, as overtures for acquaintance and friendship.
+Tom watched the little lady a great deal, before he ventured on any overtures towards acquaintanceship. He knew an abundance of simple acts to propitiate and invite the approaches of the little people, and he resolved to play his part right skilfully. He could cut cunning little baskets out of cherrystones, could make grotesque faces on hickory-nuts, or odd-jumping figures out of elder-pith, and he was a very Pan1 in the manufacture of whistles of all sizes and sorts. His pockets were full of miscellaneous articles of attraction, which he had hoarded in days of old for his master's children, and which he now produced, with commendable prudence and economy, one by one, as overtures for acquaintance and friendship.
 
 The little one was shy, for all her busy interest in everything going on, and it was not easy to tame her. For a while, she would perch like a canary-bird on some box or package near Tom, while busy in the little arts afore-named, and take from him, with a kind of grave bashfulness, the little articles he offered. But at last they got on quite confidential terms.
 
@@ -3368,7 +3373,7 @@ The boat here stopped at a small landing to take in wood, and Eva, hearing her f
 
 Eva and her father were standing together by the railings to see the boat start from the landing-place, the wheel had made two or three revolutions in the water, when, by some sudden movement, the little one suddenly lost her balance, and fell sheer over the side
 
-<sup>1</sup> The Greek god of Nature, usually represented as having the legs of a goat and playing a set of pipes, who watched over shepherds and their flocks.
+1 The Greek god of Nature, usually represented as having the legs of a goat and playing a set of pipes, who watched over shepherds and their flocks.
 
 of the boat into the water. Her father, scarce knowing what he did, was plunging in after her, but was held back by some behind him, who saw that more efficient aid had followed his child.
 
@@ -3382,7 +3387,7 @@ On the lower deck sat our friend Tom, with his arms folded, and anxiously, from 
 
 There stood the fair Evangeline, a little paler than the day before, but otherwise exhibiting no traces of the accident which had befallen her. A graceful, elegantly-formed young man stood by her, carelessly leaning one elbow on a bale of cotton, while a large pocket-book lay open before him. It was quite evident, at a glance, that the gentleman was Eva's father. There was the same noble cast of head, the same large blue eyes, the same goldenbrown hair; yet the expression was wholly different. In the large, clear blue eyes, though in form and color exactly similar, there was wanting that misty, dreamy depth of expression; all was clear, bold, and bright, but with a light wholly of this world: the beautifully cut mouth had a proud and somewhat sarcastic expression, while an air of free-and-easy superiority sat not ungracefully in every turn and movement of his fine form. He was listening, with a good-humored, negligent air, half comic, half contemptuous, to Haley, who was very volubly expatiating on the quality of the article for which they were bargaining.
 
-"All the moral and Christian virtues bound in black morocco,<sup>1</sup> complete!" he said, when Haley had finished. "Well, now, my good fellow, what's the damage, as they say in Kentucky; in short, what's to be paid out for this business? How much are you going to cheat me, now? Out with it!"
+"All the moral and Christian virtues bound in black morocco,1 complete!" he said, when Haley had finished. "Well, now, my good fellow, what's the damage, as they say in Kentucky; in short, what's to be paid out for this business? How much are you going to cheat me, now? Out with it!"
 
 "Wal," said Haley, "if I should say thirteen hundred dollars for that ar fellow, I should n't but just save myself; I should n't, now, re'ly."
 
@@ -3400,7 +3405,7 @@ There stood the fair Evangeline, a little paler than the day before, but otherwi
 
 "And I might use him for a family chaplain, possibly," added the young man, dryly. "That's quite an idea. Religion is a remarkably scarce article at our house."
 
-<sup>1</sup> Fine leather made of goatskin.
+1 Fine leather made of goatskin.
 
 ## "You're joking, now."
 
@@ -3454,11 +3459,11 @@ Tom looked surprised, and rather hurt, and said, "I never drink, Mas'r."
 
 SINCE the thread of our humble hero's life has now become interwoven with that of higher ones, it is necessary to give some brief introduction to them.
 
-Augustine St. Clare was the son of a wealthy planter of Louisiana. The family had its origin in Canada. Of two brothers, very similar in temperament and character, one had settled on a flourishing farm in Vermont, and the other became an opulent planter in Louisiana. The mother of Augustine was a Huguenot<sup>1</sup> French lady, whose family had emigrated to Louisiana during the days of its early settlement. Augustine and another brother were the only children of their parents. Having inherited from his mother an exceeding delicacy of constitution, he was, at the instance of physicians, during many years of his boyhood, sent to the care of his uncle in Vermont, in order that his constitution might be strengthened by the cold of a more bracing climate.
+Augustine St. Clare was the son of a wealthy planter of Louisiana. The family had its origin in Canada. Of two brothers, very similar in temperament and character, one had settled on a flourishing farm in Vermont, and the other became an opulent planter in Louisiana. The mother of Augustine was a Huguenot1 French lady, whose family had emigrated to Louisiana during the days of its early settlement. Augustine and another brother were the only children of their parents. Having inherited from his mother an exceeding delicacy of constitution, he was, at the instance of physicians, during many years of his boyhood, sent to the care of his uncle in Vermont, in order that his constitution might be strengthened by the cold of a more bracing climate.
 
 In childhood, he was remarkable for an extreme and marked sensitiveness of character, more akin to the softness of woman than the ordinary hardness of his own sex. Time, however, overgrew this softness with the rough bark of manhood, and but few knew how living and fresh it still lay at the core. His talents were of the very first order, although his mind showed a preference always for the ideal and the æsthetic, and there was about him that repugnance to the actual business of life which is the common result of this balance of the faculties. Soon after the completion of his college course, his whole nature was kindled into one intense and passionate effervescence of romantic passion. His hour came,—the hour that comes only once; his star rose in the horizon,—that star that rises so often in vain, to be remembered only as a thing of dreams; and it rose for him in vain. To drop the figure,—he saw and won the love of a high-minded and beautiful woman, in one of the northern states, and they were affianced. He returned south to make arrangements for their marriage, when, most unexpectedly, his letters were returned to him by mail, with a short note from her guardian, stating to him that ere this reached him the lady would be the wife of another. Stung to madness, he vainly hoped, as many another has done, to fling the whole thing from his heart by one
 
-<sup>1</sup> Huguenots were Protestants who emigrated from France because of religious persecution by the Catholic majority.
+1 Huguenots were Protestants who emigrated from France because of religious persecution by the Catholic majority.
 
 desperate effort. Too proud to supplicate or seek explanation, he threw himself at once into a whirl of fashionable society, and in a fortnight from the time of the fatal letter was the accepted lover of the reigning belle of the season; and as soon as arrangements could be made, he became the husband of a fine figure, a pair of bright dark eyes, and a hundred thousand dollars; and, of course, everybody thought him a happy fellow.
 
@@ -3470,13 +3475,13 @@ And thus ended the whole romance and ideal of life for Augustine St. Clare. But 
 
 Of course, in a novel, people's hearts break, and they die, and that is the end of it; and in a story this is very convenient. But in real life we do not die when all that makes life bright dies to us. There is a most busy and important round of eating, drinking, dressing,
 
-<sup>1</sup> A large but shallow and brackish lake just outside New Orleans, Louisiana.
+1 A large but shallow and brackish lake just outside New Orleans, Louisiana.
 
 walking, visiting, buying, selling, talking, reading, and all that makes up what is commonly called living, yet to be gone through; and this yet remained to Augustine. Had his wife been a whole woman, she might yet have done something—as woman can—to mend the broken threads of life, and weave again into a tissue of brightness. But Marie St. Clare could not even see that they had been broken. As before stated, she consisted of a fine figure, a pair of splendid eyes, and a hundred thousand dollars; and none of these items were precisely the ones to minister to a mind diseased.
 
 When Augustine, pale as death, was found lying on the sofa, and pleaded sudden sick-headache as the cause of his distress, she recommended to him to smell of hartshorn;1 and when the paleness and headache came on week after week, she only said that she never thought Mr. St. Clare was sickly; but it seems he was very liable to sick-headaches, and that it was a very unfortunate thing for her, because he did n't enjoy going into company with her, and it seemed odd to go so much alone, when they were just married. Augustine was glad in his heart that he had married so undiscerning a woman; but as the glosses and civilities of the honeymoon wore away, he discovered that a beautiful young woman, who has lived all her life to be caressed and waited on, might prove quite a hard mistress in domestic life. Marie never had possessed much capability of affection, or much sensibility, and the little that she had, had been merged into a most intense and unconscious selfishness; a selfishness the more hopeless, from its quiet obtuseness, its utter ignorance of any claims but her own. From her infancy, she had been surrounded with servants, who lived only to study her caprices; the idea that they had either feelings or rights had never dawned upon her, even in distant perspective. Her father, whose only child she had been, had never denied her anything that lay within the compass of human possibility; and when she entered life, beautiful, accomplished, and an heiress, she had, of course, all the eligibles and non-eligibles of the other sex sighing at her feet, and she had no doubt that Augustine was a most fortunate man in having obtained her. It is a great mistake to suppose that a woman with no heart will be an easy creditor in the exchange of affection. There is not on earth a more merciless exactor of love from others than a thoroughly selfish woman; and the more unlovely she grows, the more jealously and scrupulously she exacts love, to the uttermost farthing. When, therefore, St.
 
-<sup>1</sup> Quite literally, ammonia or smelling salts derived from the horn of a hart (a male deer).
+1 Quite literally, ammonia or smelling salts derived from the horn of a hart (a male deer).
 
 Clare began to drop off those gallantries and small attentions which flowed at first through the habitude of courtship, he found his sultana1 no way ready to resign her slave; there were abundance of tears, poutings, and small tempests, there were discontents, pinings, upbraidings. St. Clare was good-natured and selfindulgent, and sought to buy off with presents and flatteries; and when Marie became mother to a beautiful daughter, he really felt awakened, for a time, to something like tenderness.
 
@@ -3488,23 +3493,23 @@ And now, while the distant domes and spires of New Orleans rise to our view, the
 
 Whoever has travelled in the New England States will remember, in some cool village, the large farm-house, with its cleanswept grassy yard, shaded by the dense and massive foliage of the sugar maple; and remember the air of order and stillness, of per-
 
-<sup>1</sup> The wife or concubine of a sultan (sovereign leader) in the Mideast.
+1 The wife or concubine of a sultan (sovereign leader) in the Mideast.
 
-<sup>2</sup> A beautiful or charming young woman (French).
+2 A beautiful or charming young woman (French).
 
-<sup>3</sup> Household (French).
+3 Household (French).
 
-petuity and unchanging repose, that seemed to breathe over the whole place. Nothing lost, or out of order; not a picket loose in the fence, not a particle of litter in the turfy yard, with its clumps of lilac-bushes growing up under the windows. Within, he will remember wide, clean rooms, where nothing ever seems to be doing or going to be done, where everything is once and forever rigidly in place, and where all household arrangements move with the punctual exactness of the old clock in the corner. In the family "keeping-room," as it is termed, he will remember the staid, respectable old book-case, with its glass doors, where Rollin's History, Milton's Paradise Lost, Bunyan's Pilgrim's Progress, and Scott's Family Bible,<sup>1</sup> stand side by side in decorous order, with multitudes of other books, equally solemn and respectable. There are no servants in the house, but the lady in the snowy cap, with the spectacles, who sits sewing every afternoon among her daughters, as if nothing ever had been done, or were to be done,—she and her girls, in some long-forgotten fore part of the day, "did up the work," and for the rest of the time, probably, at all hours when you would see them, it is "done up." The old kitchen floor never seems stained or spotted; the tables, the chairs, and the various cooking utensils, never seem deranged or disordered; though three and sometimes four meals a day are got there, though the family washing and ironing is there performed, and though pounds of butter and cheese are in some silent and mysterious manner there brought into existence.
+petuity and unchanging repose, that seemed to breathe over the whole place. Nothing lost, or out of order; not a picket loose in the fence, not a particle of litter in the turfy yard, with its clumps of lilac-bushes growing up under the windows. Within, he will remember wide, clean rooms, where nothing ever seems to be doing or going to be done, where everything is once and forever rigidly in place, and where all household arrangements move with the punctual exactness of the old clock in the corner. In the family "keeping-room," as it is termed, he will remember the staid, respectable old book-case, with its glass doors, where Rollin's History, Milton's Paradise Lost, Bunyan's Pilgrim's Progress, and Scott's Family Bible,1 stand side by side in decorous order, with multitudes of other books, equally solemn and respectable. There are no servants in the house, but the lady in the snowy cap, with the spectacles, who sits sewing every afternoon among her daughters, as if nothing ever had been done, or were to be done,—she and her girls, in some long-forgotten fore part of the day, "did up the work," and for the rest of the time, probably, at all hours when you would see them, it is "done up." The old kitchen floor never seems stained or spotted; the tables, the chairs, and the various cooking utensils, never seem deranged or disordered; though three and sometimes four meals a day are got there, though the family washing and ironing is there performed, and though pounds of butter and cheese are in some silent and mysterious manner there brought into existence.
 
-On such a farm, in such a house and family, Miss Ophelia had spent a quiet existence of some forty-five years, when her cousin invited her to visit his southern mansion. The eldest of a large family, she was still considered by her father and mother as one of "the children," and the proposal that she should go to Orleans was a most momentous one to the family circle. The old grayheaded father took down Morse's Atlas out of the book-case, and looked out the exact latitude and longitude; and read Flint's Travels in the South and West, to make up his own mind as to the nature of the country.<sup>2</sup>
+On such a farm, in such a house and family, Miss Ophelia had spent a quiet existence of some forty-five years, when her cousin invited her to visit his southern mansion. The eldest of a large family, she was still considered by her father and mother as one of "the children," and the proposal that she should go to Orleans was a most momentous one to the family circle. The old grayheaded father took down Morse's Atlas out of the book-case, and looked out the exact latitude and longitude; and read Flint's Travels in the South and West, to make up his own mind as to the nature of the country.2
 
-<sup>1</sup> See Charles Rollin's The Ancient History of the Egyptians (1725); the famous English poet John Milton's Paradise Lost (1667); John Bunyan's Pilgrim's Progress (1678; 1684); and Thomas Scott's popular Commentary on the Bible (1788-92).
+1 See Charles Rollin's The Ancient History of the Egyptians (1725); the famous English poet John Milton's Paradise Lost (1667); John Bunyan's Pilgrim's Progress (1678; 1684); and Thomas Scott's popular Commentary on the Bible (1788-92).
 
-<sup>2</sup> There are at least two possible sources for this reference: Jedidiah Morse (1761-1826) published many textbooks, maps, and atlases on American geography such as Geography Made Easy (1784), The American Geogra-
+2 There are at least two possible sources for this reference: Jedidiah Morse (1761-1826) published many textbooks, maps, and atlases on American geography such as Geography Made Easy (1784), The American Geogra-
 
 The good mother inquired, anxiously, "if Orleans was n't an awful wicked place," saying, "that it seemed to her most equal to going to the Sandwich Islands,1 or anywhere among the heathen."
 
-It was known at the minister's, and at the doctor's, and at Miss Peabody's milliner<sup>2</sup> shop, that Ophelia St. Clare was "talking about" going away down to Orleans with her cousin; and of course the whole village could do no less than help this very important process of talking about the matter.
+It was known at the minister's, and at the doctor's, and at Miss Peabody's milliner2 shop, that Ophelia St. Clare was "talking about" going away down to Orleans with her cousin; and of course the whole village could do no less than help this very important process of talking about the matter.
 
 The minister, who inclined strongly to abolitionist views, was quite doubtful whether such a step might not tend somewhat to encourage the southerners in holding on to their slaves; while the doctor, who was a stanch3 colonizationist, inclined to the opinion that Miss Ophelia ought to go, to show the Orleans people that we don't think hardly of them, after all. He was of opinion, in fact, that southern people needed encouraging. When, however, the fact that she had resolved to go was fully before the public mind, she was solemnly invited out to tea by all her friends and neighbors for the space of a fortnight, and her prospects and plans duly canvassed and inquired into. Miss Moseley, who came into the house to help to do the dress-making, acquired daily accessions of importance from the developments with regard to Miss Ophelia's wardrobe which she had been enabled to make. It was credibly ascertained that Squire Sinclare, as his name was commonly contracted in the neighborhood, had counted out fifty dollars, and given them to Miss Ophelia, and told her to buy any clothes she thought best; and that two new silk dresses, and a bonnet, had been sent for from Boston. As to the propriety of this extraordinary outlay, the public mind was divided,—some affirming that it was well enough, all things considered, for once in one's life, and others stoutly affirming that the money had better have been sent to the missionaries; but all parties agreed that there had been no such parasol seen in those parts as had been sent on from New York, and that she had one silk dress that might fairly be trusted to stand alone, whatever phy (1789), North America (1822) and A New Universal Atlas of the World (1822), but Stowe is probably referring to the more recent The Cerographic Atlas of the United States (1842-44) published by Sidney Edwards Morse (1794-1871) and Samuel Breese. "Flint's Travels" is a reference to the missionary Timothy Flint's Recollections of the Last Ten Years in the Valley of the Mississippi (1826), a text that recounts his travels in Ohio, Kentucky, and Missouri.
 
@@ -3534,7 +3539,7 @@ There she is, sitting now in her state-room, surrounded by a mixed multitude of 
 
 "Now, Eva, have you kept count of your things? Of course you
 
-<sup>1 &</sup>quot;Carpet-bag" and "Hair trunk" (below): traveling bags or luggage. A "bandbox" and "collarbox" are small boxes used to hold hats, collars, and other articles of clothing.
+1 &quot;Carpet-bag" and "Hair trunk" (below): traveling bags or luggage. A "bandbox" and "collarbox" are small boxes used to hold hats, collars, and other articles of clothing.
 
 have n't,—children never do: there's the spotted carpet-bag and the little blue band-box with your best bonnet,—that's two; then the India rubber satchel is three; and my tape and needle box is four; and my band-box, five; and my collar-box, six; and that little hair trunk, seven. What have you done with your sunshade? Give it to me, and let me put a paper round it, and tie it to my umbrella with my shade—there, now."
 
@@ -3592,11 +3597,11 @@ Miss Ophelia seated herself resolutely on the lately vanquished trunk, and marsh
 
 "Well, at any rate, I'll carry this, and this, and this," said Miss Ophelia, singling out three boxes and a small carpet-bag.
 
-"My dear Miss Vermont, positively, you mustn't come the Green Mountains<sup>2</sup> over us that way. You must adopt at least a piece of a southern principle, and not walk out under all that load. They'll take you for a waiting-maid; give them to this fellow; he'll put them down as if they were eggs, now."
+"My dear Miss Vermont, positively, you mustn't come the Green Mountains2 over us that way. You must adopt at least a piece of a southern principle, and not walk out under all that load. They'll take you for a waiting-maid; give them to this fellow; he'll put them down as if they were eggs, now."
 
-<sup>1</sup> I.e., the cabdriver.
+1 I.e., the cabdriver.
 
-<sup>2</sup> The Green Mountains of Vermont; here, St. Clare playfully asks Ophelia not to impose her Northern ways upon them.
+2 The Green Mountains of Vermont; here, St. Clare playfully asks Ophelia not to impose her Northern ways upon them.
 
 Miss Ophelia looked despairingly, as her cousin took all her treasures from her, and rejoiced to find herself once more in the carriage with them, in a state of preservation.
 
@@ -3606,11 +3611,11 @@ Miss Ophelia looked despairingly, as her cousin took all her treasures from her,
 
 "O, Tom will make a splendid driver, I know," said Eva; "he'll never get drunk."
 
-The carriage stopped in front of an ancient mansion, built in that odd mixture of Spanish and French style, of which there are specimens in some parts of New Orleans. It was built in the Moorish<sup>1</sup> fashion,—a square building enclosing a court-yard, into which the carriage drove through an arched gateway. The court, in the inside, had evidently been arranged to gratify a picturesque and voluptuous ideality. Wide galleries ran all around the four sides, whose Moorish arches, slender pillars, and arabesque ornaments, carried the mind back, as in a dream, to the reign of oriental romance in Spain. In the middle of the court, a fountain threw high its silvery water, falling in a never-ceasing spray into a marble basin, fringed with a deep border of fragrant violets. The water in the fountain, pellucid as crystal, was alive with myriads of gold and silver fishes, twinkling and darting through it like so many living jewels. Around the fountain ran a walk, paved with a mosaic of pebbles, laid in various fanciful patterns; and this, again, was surrounded by turf, smooth as green velvet, while a carriage-drive enclosed the whole. Two large orange-trees, now fragrant with blossoms, threw a delicious shade; and, ranged in a circle round upon the turf, were marble vases of arabesque sculpture, containing the choicest flowering plants of the tropics. Huge pomegranate trees, with their glossy leaves and flame-colored flowers, dark-leaved Arabian jessamines,<sup>2</sup> with their silvery stars, geraniums, luxuriant roses bending beneath their heavy abundance of flowers, golden jessamines, lemon-scented verbenum, all united their bloom and fragrance, while here and there a mystic old aloe, with its strange, massive leaves, sat looking like some hoary old enchanter, sitting in weird grandeur among the more perishable bloom and fragrance around it.
+The carriage stopped in front of an ancient mansion, built in that odd mixture of Spanish and French style, of which there are specimens in some parts of New Orleans. It was built in the Moorish1 fashion,—a square building enclosing a court-yard, into which the carriage drove through an arched gateway. The court, in the inside, had evidently been arranged to gratify a picturesque and voluptuous ideality. Wide galleries ran all around the four sides, whose Moorish arches, slender pillars, and arabesque ornaments, carried the mind back, as in a dream, to the reign of oriental romance in Spain. In the middle of the court, a fountain threw high its silvery water, falling in a never-ceasing spray into a marble basin, fringed with a deep border of fragrant violets. The water in the fountain, pellucid as crystal, was alive with myriads of gold and silver fishes, twinkling and darting through it like so many living jewels. Around the fountain ran a walk, paved with a mosaic of pebbles, laid in various fanciful patterns; and this, again, was surrounded by turf, smooth as green velvet, while a carriage-drive enclosed the whole. Two large orange-trees, now fragrant with blossoms, threw a delicious shade; and, ranged in a circle round upon the turf, were marble vases of arabesque sculpture, containing the choicest flowering plants of the tropics. Huge pomegranate trees, with their glossy leaves and flame-colored flowers, dark-leaved Arabian jessamines,2 with their silvery stars, geraniums, luxuriant roses bending beneath their heavy abundance of flowers, golden jessamines, lemon-scented verbenum, all united their bloom and fragrance, while here and there a mystic old aloe, with its strange, massive leaves, sat looking like some hoary old enchanter, sitting in weird grandeur among the more perishable bloom and fragrance around it.
 
-<sup>1</sup> An Islamic-influenced style of Spanish architecture characterized by horseshoe arches and ornate decoration.
+1 An Islamic-influenced style of Spanish architecture characterized by horseshoe arches and ornate decoration.
 
-<sup>2</sup> A fragrant jasmine bush from Asia.
+2 A fragrant jasmine bush from Asia.
 
 The galleries that surrounded the court were festooned with a curtain of some kind of Moorish stuff, and could be drawn down at pleasure, to exclude the beams of the sun. On the whole, the appearance of the place was luxurious and romantic.
 
@@ -3628,7 +3633,7 @@ St. Clare, who was in his heart a poetical voluptuary, smiled as Miss Ophelia ma
 
 "Yes, Mas'r, it looks about the right thing," said Tom.
 
-All this passed in a moment, while trunks were being hustled off, hackman paid, and while a crowd, of all ages and sizes,—men, women, and children,—came running through the galleries, both above and below, to see Mas'r come in. Foremost among them was a highly-dressed young mulatto man, evidently a very distingue<sup>1</sup> personage, attired in the ultra extreme of the mode,2 and gracefully waving a scented cambric handkerchief in his hand.
+All this passed in a moment, while trunks were being hustled off, hackman paid, and while a crowd, of all ages and sizes,—men, women, and children,—came running through the galleries, both above and below, to see Mas'r come in. Foremost among them was a highly-dressed young mulatto man, evidently a very distingue1 personage, attired in the ultra extreme of the mode,2 and gracefully waving a scented cambric handkerchief in his hand.
 
 This personage had been exerting himself, with great alacrity, in driving all the flock of domestics to the other end of the verandah.
 
@@ -3638,9 +3643,9 @@ All looked abashed at this elegant speech, delivered with quite an air, and stoo
 
 Owing to Mr. Adolph's systematic arrangements, when St.
 
-<sup>1</sup> Distinguised or fancily dressed (French).
+1 Distinguised or fancily dressed (French).
 
-<sup>2</sup> Fashion or style of dress.
+2 Fashion or style of dress.
 
 Clare turned round from paying the hackman, there was nobody in view but Mr. Adolph himself, conspicuous in satin vest, gold guard-chain, and white pants, and bowing with inexpressible grace and suavity.
 
@@ -3648,7 +3653,7 @@ Clare turned round from paying the hackman, there was nobody in view but Mr. Ado
 
 "Well, well," said St. Clare, passing on, with his usual air of negligent drollery, "that's very well got up, Adolph. See that the baggage is well bestowed. I'll come to the people in a minute;" and, so saying, he led Miss Ophelia to a large parlor that opened on to the verandah.
 
-While this had been passing, Eva had flown like a bird, through the porch and parlor, to a little boudoir<sup>1</sup> opening likewise on the veranda.
+While this had been passing, Eva had flown like a bird, through the porch and parlor, to a little boudoir1 opening likewise on the veranda.
 
 A tall, dark-eyed, sallow woman, half rose from a couch on which she was reclining.
 
@@ -3668,7 +3673,7 @@ This woman did not tell her that she made her head ache, but, on the contrary, s
 
 "Well, I want to be kind to everybody, and I would n't have anything hurt; but as to kissing—"
 
-<sup>1</sup> A woman's bedroom or private sitting room.
+1 A woman's bedroom or private sitting room.
 
 "Niggers," said St. Clare, "that you 're not up to,—hey?" "Yes, that's it. How can she?"
 
@@ -3692,11 +3697,11 @@ And Adolph tossed his head, and passed his fingers through his scented hair, wit
 
 "Here, Tom," said St. Clare, beckoning.
 
-Tom entered the room. He looked wistfully<sup>1</sup> on the velvet carpets, and the before unimagined splendors of mirrors, pictures, statues, and curtains, and, like the Queen of Sheba before
+Tom entered the room. He looked wistfully1 on the velvet carpets, and the before unimagined splendors of mirrors, pictures, statues, and curtains, and, like the Queen of Sheba before
 
-<sup>1</sup> I.e., intently or with amazement.
+1 I.e., intently or with amazement.
 
-Solomon,<sup>1</sup> there was no more spirit in him. He looked afraid even to set his feet down.
+Solomon,1 there was no more spirit in him. He looked afraid even to set his feet down.
 
 "See here, Marie," said St. Clare to his wife, "I've bought you a coachman, at last, to order. I tell you, he's a regular hearse for blackness and sobriety, and will drive you like a funeral, if you want. Open your eyes, now, and look at him. Now, don't say I never think about you when I'm gone."
 
@@ -3738,7 +3743,7 @@ Marie looked at it with a dissatisfied air.
 
 "If you don't think anything of my opinion in one case, I
 
-<sup>1</sup> Sheba was an ancient country comprising present-day Yemen on the Arabian peninsula. In the Bible, the Queen of Sheba visited Solomon, king of Israel, to test his celebrated wisdom and, after hearing his answers, "there was no more spirit in her" (see 1 Kings 10.1-13).
+1 Sheba was an ancient country comprising present-day Yemen on the Arabian peninsula. In the Bible, the Queen of Sheba visited Solomon, king of Israel, to test his celebrated wisdom and, after hearing his answers, "there was no more spirit in her" (see 1 Kings 10.1-13).
 
 suppose you wouldn't in another," said the lady, shutting the daguerreotype.
 
@@ -3756,11 +3761,11 @@ suppose you wouldn't in another," said the lady, shutting the daguerreotype.
 
 #### CHAPTER XVI TOM'S MISTRESS AND HER OPINIONS
 
-"AND now, Marie," said St. Clare, "your golden days are dawning. Here is our practical, business-like New England cousin, who will take the whole budget of cares off your shoulders, and give you time to refresh yourself, and grow young and handsome. The ceremony of delivering the keys had better come off forthwith."<sup>1</sup>
+"AND now, Marie," said St. Clare, "your golden days are dawning. Here is our practical, business-like New England cousin, who will take the whole budget of cares off your shoulders, and give you time to refresh yourself, and grow young and handsome. The ceremony of delivering the keys had better come off forthwith."1
 
 This remark was made at the breakfast-table, a few mornings after Miss Ophelia had arrived.
 
-<sup>1</sup> I.e., the transfer of the keys to the household stores, closets, etc.
+1 I.e., the transfer of the keys to the household stores, closets, etc.
 
 "I'm sure she's welcome," said Marie, leaning her head languidly on her hand. "I think she'll find one thing, if she does, and that is, that it's we mistresses that are the slaves, down here."
 
@@ -3832,7 +3837,7 @@ Of course, there was rather a foolish silence. Finally, St. Clare got up, looked
 
 Miss Ophelia did not exactly know what she was expected to answer to this.
 
-While she was thinking what to say, Marie gradually wiped away her tears, and smoothed her plumage in a general sort of way, as a dove might be supposed to make toilet after a shower, and began a housewifely chat with Miss Ophelia, concerning cupboards, closets, linen-presses,<sup>1</sup> store-rooms, and other matters, of which the latter was, by common understanding, to assume the direction,—giving her so many cautious directions and charges, that a head less systematic and business-like than Miss Ophelia's would have been utterly dizzied and confounded.
+While she was thinking what to say, Marie gradually wiped away her tears, and smoothed her plumage in a general sort of way, as a dove might be supposed to make toilet after a shower, and began a housewifely chat with Miss Ophelia, concerning cupboards, closets, linen-presses,1 store-rooms, and other matters, of which the latter was, by common understanding, to assume the direction,—giving her so many cautious directions and charges, that a head less systematic and business-like than Miss Ophelia's would have been utterly dizzied and confounded.
 
 "And now," said Marie, "I believe I've told you everything; so that, when my next sick turn comes on, you'll be able to go forward entirely, without consulting me;—only about Eva,—she requires watching."
 
@@ -3848,19 +3853,19 @@ Again Miss Ophelia sat in blank silence.
 
 "Now, there's no way with servants," said Marie, "but to put them down, and keep them down. It was always natural to me, from a child. Eva is enough to spoil a whole house-full. What she will do when she comes to keep house herself, I'm sure I don't know. I hold to being kind to servants—I always am; but you must make 'em know their place. Eva never does; there's no getting into the child's head the first beginning of an idea what a servant's place is! You heard her offering to take care of me nights, to let Mammy sleep! That's just a specimen of the way the child would be doing all the time, if she was left to herself."
 
-<sup>1</sup> Closets in which linens or clothes are stored.
+1 Closets in which linens or clothes are stored.
 
 "Why," said Miss Ophelia, bluntly, "I suppose you think your servants are human creatures, and ought to have some rest when they are tired."
 
-"Certainly, of course. I'm very particular in letting them have everything that comes convenient,—anything that does n't put one at all out of the way, you know. Mammy can make up her sleep, some time or other; there's no difficulty about that. She's the sleepiest concern that ever I saw; sewing, standing, or sitting, that creature will go to sleep, and sleep anywhere and everywhere. No danger but Mammy gets sleep enough. But this treating servants as if they were exotic flowers, or china vases, is really ridiculous," said Marie, as she plunged languidly into the depths of a voluminous and pillowy lounge, and drew towards her an elegant cut-glass vinaigrette.<sup>1</sup>
+"Certainly, of course. I'm very particular in letting them have everything that comes convenient,—anything that does n't put one at all out of the way, you know. Mammy can make up her sleep, some time or other; there's no difficulty about that. She's the sleepiest concern that ever I saw; sewing, standing, or sitting, that creature will go to sleep, and sleep anywhere and everywhere. No danger but Mammy gets sleep enough. But this treating servants as if they were exotic flowers, or china vases, is really ridiculous," said Marie, as she plunged languidly into the depths of a voluminous and pillowy lounge, and drew towards her an elegant cut-glass vinaigrette.1
 
 "You see," she continued, in a faint and lady-like voice, like the last dying breath of an Arabian jessamine, or something equally ethereal, "you see, Cousin Ophelia, I don't often speak of myself. It is n't my habit; 'tisn't agreeable to me. In fact, I have n't strength to do it. But there are points where St. Clare and I differ. St. Clare never understood me, never appreciated me. I think it lies at the root of all my ill health. St. Clare means well, I am bound to believe; but men are constitutionally selfish and inconsiderate to woman. That, at least, is my impression."
 
-Miss Ophelia, who had not a small share of the genuine New England caution, and a very particular horror of being drawn into family difficulties, now began to foresee something of this kind impending; so, composing her face into a grim neutrality, and drawing out of her pocket about a yard and a quarter of stocking, which she kept as a specific against what Dr. Watts<sup>2</sup> asserts to be a personal habit of Satan when people have idle hands, she proceeded to knit most energetically, shutting her lips together in a way that said, as plain as words could, "You needn't try to make me speak. I don't want anything to do with your affairs,"—in fact, she looked about as sympathizing as a stone lion. But Marie did n't care for that. She had got somebody to talk to, and she felt it her duty to talk, and that was enough; and reinforcing herself by smelling again at her vinaigrette, she went on.
+Miss Ophelia, who had not a small share of the genuine New England caution, and a very particular horror of being drawn into family difficulties, now began to foresee something of this kind impending; so, composing her face into a grim neutrality, and drawing out of her pocket about a yard and a quarter of stocking, which she kept as a specific against what Dr. Watts2 asserts to be a personal habit of Satan when people have idle hands, she proceeded to knit most energetically, shutting her lips together in a way that said, as plain as words could, "You needn't try to make me speak. I don't want anything to do with your affairs,"—in fact, she looked about as sympathizing as a stone lion. But Marie did n't care for that. She had got somebody to talk to, and she felt it her duty to talk, and that was enough; and reinforcing herself by smelling again at her vinaigrette, she went on.
 
-<sup>1</sup> A small ornamental bottle or box for holding aromatic vinegar or smelling salts.
+1 A small ornamental bottle or box for holding aromatic vinegar or smelling salts.
 
-<sup>2</sup> Isaac Watts (1674-1748) was an English clergyman and prolific author of celebrated church hymns; Ophelia alludes to his Divine Songs 20 (1715): "For Satan finds some mischief still for idle hands to do."
+2 Isaac Watts (1674-1748) was an English clergyman and prolific author of celebrated church hymns; Ophelia alludes to his Divine Songs 20 (1715): "For Satan finds some mischief still for idle hands to do."
 
 "You see, I brought my own property and servants into the connection, when I married St. Clare, and I am legally entitled to manage them my own way. St. Clare had his fortune and his servants, and I'm well enough content he should manage them his way; but St. Clare will be interfering. He has wild, extravagant notions about things, particularly about the treatment of servants. He really does act as if he set his servants before me, and before himself, too; for he lets them make him all sorts of trouble, and never lifts a finger. Now, about some things, St. Clare is really frightful—he frightens me—good-natured as he looks, in general. Now, he has set down his foot that, come what will, there shall not be a blow struck in this house, except what he or I strike; and he does it in a way that I really dare not cross him. Well, you may see what that leads to; for St. Clare would n't raise his hand, if every one of them walked over him, and I—you see how cruel it would be to require me to make the exertion. Now, you know these servants are nothing but grown-up children."
 
@@ -3882,19 +3887,19 @@ Marie seemed wonderfully supported, always, when she got upon this topic; and sh
 
 Miss Ophelia looked very much as if she was afraid she should say something; but she rattled away with her needles in a way that had volumes of meaning in it, if Marie could only have understood it.
 
-"So, you just see," she continued, "what you've got to manage. A household without any rule; where servants have it all their own way, do what they please, and have what they please, except so far as I, with my feeble health, have kept up government. I keep my cowhide<sup>1</sup> about, and sometimes I do lay it on; but the exertion is always too much for me. If St. Clare would only have this thing done as others do—"
+"So, you just see," she continued, "what you've got to manage. A household without any rule; where servants have it all their own way, do what they please, and have what they please, except so far as I, with my feeble health, have kept up government. I keep my cowhide1 about, and sometimes I do lay it on; but the exertion is always too much for me. If St. Clare would only have this thing done as others do—"
 
 ## "And how's that?"
 
-"Why, send them to the calaboose,<sup>2</sup> or some of the other places to be flogged. That's the only way. If I was n't such a poor, feeble piece, I believe I should manage with twice the energy that St. Clare does."
+"Why, send them to the calaboose,2 or some of the other places to be flogged. That's the only way. If I was n't such a poor, feeble piece, I believe I should manage with twice the energy that St. Clare does."
 
 "And how does St. Clare contrive to manage?" said Miss Ophelia. "You say he never strikes a blow."
 
 "Well, men have a more commanding way, you know; it is easier for them; besides, if you ever looked full in his eye, it's peculiar,—that eye,—and if he speaks decidedly, there's a kind of flash. I'm afraid of it, myself; and the servants know they must mind. I could n't do as much by a regular storm and scolding as St. Clare can by one turn of his eye, if once he is in earnest. O, there's no trouble about St. Clare; that's the reason he's no more feeling for me. But you 'll find, when you come to manage, that
 
-<sup>1</sup> I.e., leather whip.
+1 I.e., leather whip.
 
-<sup>2</sup> A jail or a holding cell.
+2 A jail or a holding cell.
 
 there's no getting along without severity,—they are so bad, so deceitful, so lazy."
 
@@ -3938,7 +3943,7 @@ Miss Ophelia thought she had said enough, and therefore sat silent. St. Clare wh
 
 "St. Clare, I wish you would n't whistle," said Marie; "it makes my head worse."
 
-<sup>1</sup> St. Clare's humorous term for a meddling preacher.
+1 St. Clare's humorous term for a meddling preacher.
 
 "I won't," said St. Clare. "Is there anything else you wouldn't wish me to do?"
 
@@ -3982,17 +3987,17 @@ Tom had a sober, benevolent smile, and seemed, in his quiet way, to be enjoying 
 
 ## "What makes you talk so, then?"
 
-"Nothing is easier than talking," said St. Clare. "I believe Shakspeare makes somebody say, 'I could sooner show twenty what were good to be done, than be one of the twenty to follow my own showing.'<sup>1</sup> Nothing like division of labor. My forte lies in talking, and yours, cousin, lies in doing."
+"Nothing is easier than talking," said St. Clare. "I believe Shakspeare makes somebody say, 'I could sooner show twenty what were good to be done, than be one of the twenty to follow my own showing.'1 Nothing like division of labor. My forte lies in talking, and yours, cousin, lies in doing."
 
 ## ——
 
 In Tom's external situation, at this time, there was, as the world says, nothing to complain of. Little Eva's fancy for him the instinctive gratitude and loveliness of a noble nature—had led her to petition her father that he might be her especial attendant, whenever she needed the escort of a servant, in her walks or rides; and Tom had general orders to let everything else go, and attend to Miss Eva whenever she wanted him,—orders which our readers may fancy were far from disagreeable to him. He was kept well dressed, for St. Clare was fastidiously particular on this point. His stable services were merely a sinecure, and consisted simply in a daily care and inspection, and directing an underservant in his duties; for Marie St. Clare declared that she could not have any smell of the horses about him when he came near her, and that he must positively not be put to any service that would make him unpleasant to her, as her nervous system was entirely inadequate to any trial of that nature; one snuff of anything disagreeable being, according to her account, quite sufficient to close the scene, and put an end to all her earthly trials at once. Tom, therefore, in his well-brushed broad-cloth suit,
 
-<sup>1</sup> See Shakespeare, The Merchant of Venice, I.2.15.
+1 See Shakespeare, The Merchant of Venice, I.2.15.
 
-smooth beaver,<sup>1</sup> glossy boots, faultless wristbands and collar, with his grave, good-natured black face, looked respectable enough to be a Bishop of Carthage,<sup>2</sup> as men of his color were, in other ages.
+smooth beaver,1 glossy boots, faultless wristbands and collar, with his grave, good-natured black face, looked respectable enough to be a Bishop of Carthage,2 as men of his color were, in other ages.
 
-Then, too, he was in a beautiful place, a consideration to which his sensitive race are never indifferent; and he did enjoy with a quiet joy the birds, the flowers, the fountains, the perfume, and light and beauty of the court, the silken hangings, and pictures, and lustres, and statuettes, and gilding, that made the parlors within a kind of Aladdin's palace<sup>3</sup> to him.
+Then, too, he was in a beautiful place, a consideration to which his sensitive race are never indifferent; and he did enjoy with a quiet joy the birds, the flowers, the fountains, the perfume, and light and beauty of the court, the silken hangings, and pictures, and lustres, and statuettes, and gilding, that made the parlors within a kind of Aladdin's palace3 to him.
 
 If ever Africa shall show an elevated and cultivated race,—and come it must, some time, her turn to figure in the great drama of human improvement,—life will awake there with a gorgeousness and splendor of which our cold western tribes faintly have conceived. In that far-off mystic land of gold, and gems, and spices, and waving palms, and wondrous flowers, and miraculous fertility, will awake new forms of art, new styles of splendor; and the negro race, no longer despised and trodden down, will, perhaps, show forth some of the latest and most magnificent revelations of human life. Certainly they will, in their gentleness, their lowly docility of heart, their aptitude to repose on a superior mind and rest on a higher power, their childlike simplicity of affection, and facility of forgiveness. In all these they will exhibit the highest form of the peculiarly Christian life, and, perhaps, as God chasteneth whom he loveth,4 he hath chosen poor Africa in the furnace of affliction, to make her the highest and noblest in that kingdom which he will set up, when every other kingdom has been tried, and failed; for the first shall be last, and the last first.5
 
@@ -4068,13 +4073,13 @@ St. Clare stood on the steps and kissed his hand to her, as the carriage drove a
 
 "O, Evangeline! rightly named," he said; "hath not God made thee an evangel to me?"
 
-So he felt a moment; and then he smoked a cigar, and read the Picayune,<sup>1</sup> and forgot his little gospel. Was he much unlike other folks?
+So he felt a moment; and then he smoked a cigar, and read the Picayune,1 and forgot his little gospel. Was he much unlike other folks?
 
 "You see, Evangeline," said her mother, "it's always right and proper to be kind to servants, but it is n't proper to treat them just as we would our relations, or people in our own class of life. Now, if Mammy was sick, you would n't want to put her in your own bed."
 
 "I should feel just like it, mamma," said Eva, "because then it would be handier to take care of her, and because, you know, my bed is better than hers."
 
-<sup>1</sup> The name of New Orleans's first newspaper, founded in 1837.
+1 The name of New Orleans's first newspaper, founded in 1837.
 
 Marie was in utter despair at the entire want of moral perception evinced in this reply.
 
@@ -4090,7 +4095,7 @@ Eva looked sorry and disconcerted for a moment; but children, luckily, do not ke
 
 "It must have been very improving," said St. Clare. "The subject must have been an extensive one."
 
-"Well, I mean all my views about society, and such things," said Marie. "The text was, 'He hath made everything beautiful in its season;'<sup>1</sup> and he showed how all the orders and distinctions in society came from God; and that it was so appropriate, you know, and beautiful, that some should be high and some low, and that some were born to rule and some to serve, and all that, you know; and he applied it so well to all this ridiculous fuss that is made about slavery, and he proved distinctly that the Bible was on our side, and supported all our institutions so convincingly. I only wish you'd heard him."
+"Well, I mean all my views about society, and such things," said Marie. "The text was, 'He hath made everything beautiful in its season;'1 and he showed how all the orders and distinctions in society came from God; and that it was so appropriate, you know, and beautiful, that some should be high and some low, and that some were born to rule and some to serve, and all that, you know; and he applied it so well to all this ridiculous fuss that is made about slavery, and he proved distinctly that the Bible was on our side, and supported all our institutions so convincingly. I only wish you'd heard him."
 
 "O, I did n't need it," said St. Clare. "I can learn what does me as much good as that from the Picayune, any time, and smoke a cigar besides; which I can't do, you know, in a church."
 
@@ -4140,9 +4145,9 @@ Eva looked sorry and disconcerted for a moment; but children, luckily, do not ke
 
 ## "Hearing Tom sing, hey?"
 
-"O, yes! he sings such beautiful things about the New Jerusalem,<sup>1</sup> and bright angels, and the land of Canaan."
+"O, yes! he sings such beautiful things about the New Jerusalem,1 and bright angels, and the land of Canaan."
 
-<sup>1</sup> See page 75, note 2 above.
+1 See page 75, note 2 above.
 
 "I dare say; it's better than the opera, is n't it?"
 
@@ -4154,7 +4159,7 @@ Eva looked sorry and disconcerted for a moment; but children, luckily, do not ke
 
 "On my word," said Marie, laughing, "that is the latest joke of the season."
 
-"Tom is n't a bad hand, now, at explaining Scripture, I'll dare swear," said St. Clare. "Tom has a natural genius for religion. I wanted the horses out early, this morning, and I stole up to Tom's cubiculum<sup>1</sup> there, over the stables, and there I heard him holding a meeting by himself; and, in fact, I have n't heard anything quite so savory as Tom's prayer, this some time. He put in for me, with a zeal that was quite apostolic."
+"Tom is n't a bad hand, now, at explaining Scripture, I'll dare swear," said St. Clare. "Tom has a natural genius for religion. I wanted the horses out early, this morning, and I stole up to Tom's cubiculum1 there, over the stables, and there I heard him holding a meeting by himself; and, in fact, I have n't heard anything quite so savory as Tom's prayer, this some time. He put in for me, with a zeal that was quite apostolic."
 
 "Perhaps he guessed you were listening. I've heard of that trick before."
 
@@ -4170,7 +4175,7 @@ THERE was a gentle bustle at the Quaker house, as the afternoon drew to a close.
 
 "Yes, Eliza," said George, "I know all you say is true. You are a good child,—a great deal better than I am; and I will try to do
 
-<sup>1</sup> A Latin word for a burial chamber but here used comically by St. Clare for sleeping quarters.
+1 A Latin word for a burial chamber but here used comically by St. Clare for sleeping quarters.
 
 as you say; I'll try to act worthy of a free man. I'll try to feel like a Christian. God Almighty knows that I've meant to do well, tried hard to do well,—when everything has been against me; and now I'll forget all the past, and put away every hard and bitter feeling, and read my Bible, and learn to be a good man."
 
@@ -4184,15 +4189,15 @@ as you say; I'll try to act worthy of a free man. I'll try to feel like a Christ
 
 At this moment, voices were heard in the outer apartment, in earnest conversation, and very soon a rap was heard on the door. Eliza started and opened it.
 
-Simeon Halliday was there, and with him a Quaker brother, whom he introduced as Phineas Fletcher. Phineas was tall and lathy,<sup>1</sup> red-haired, with an expression of great acuteness and shrewdness in his face. He had not the placid, quiet, unworldly air of Simeon Halliday; on the contrary, a particularly wideawake and au fait <sup>2</sup> appearance, like a man who rather prides himself on knowing what he is about, and keeping a bright lookout ahead; peculiarities which sorted rather oddly with his broad brim and formal phraseology.
+Simeon Halliday was there, and with him a Quaker brother, whom he introduced as Phineas Fletcher. Phineas was tall and lathy,1 red-haired, with an expression of great acuteness and shrewdness in his face. He had not the placid, quiet, unworldly air of Simeon Halliday; on the contrary, a particularly wideawake and au fait 2 appearance, like a man who rather prides himself on knowing what he is about, and keeping a bright lookout ahead; peculiarities which sorted rather oddly with his broad brim and formal phraseology.
 
 "Our friend Phineas hath discovered something of importance to the interests of thee and thy party, George," said Simeon; "it were well for thee to hear it."
 
-<sup>1</sup> I.e., lanky.
+1 I.e., lanky.
 
-<sup>2</sup> I.e., fully informed (French).
+2 I.e., fully informed (French).
 
-"That I have," said Phineas, "and it shows the use of a man's always sleeping with one ear open, in certain places, as I've always said. Last night I stopped at a little lone tavern, back on the road. Thee remembers the place, Simeon, where we sold some apples, last year, to that fat woman, with the great ear-rings. Well, I was tired with hard driving; and, after my supper, I stretched myself down on a pile of bags in the corner, and pulled a buffalo<sup>1</sup> over me, to wait till my bed was ready; and what does I do, but get fast asleep."
+"That I have," said Phineas, "and it shows the use of a man's always sleeping with one ear open, in certain places, as I've always said. Last night I stopped at a little lone tavern, back on the road. Thee remembers the place, Simeon, where we sold some apples, last year, to that fat woman, with the great ear-rings. Well, I was tired with hard driving; and, after my supper, I stretched myself down on a pile of bags in the corner, and pulled a buffalo1 over me, to wait till my bed was ready; and what does I do, but get fast asleep."
 
 "With one ear open, Phineas?" said Simeon, quietly.
 
@@ -4200,9 +4205,9 @@ Simeon Halliday was there, and with him a Quaker brother, whom he introduced as 
 
 The group that stood in various attitudes, after this communication, were worthy of a painter. Rachel Halliday, who had taken her hands out of a batch of biscuit, to hear the news, stood with them upraised and floury, and with a face of the deepest concern. Simeon looked profoundly thoughtful; Eliza had thrown her arms around her husband, and was looking up to him. George stood with clenched hands and glowing eyes, and looking as any other man might look, whose wife was to be sold at auction, and
 
-<sup>1</sup> A blanket or rug made from bison.
+1 A blanket or rug made from bison.
 
-<sup>2</sup> To reveal or show oneself.
+2 To reveal or show oneself.
 
 son sent to a trader, all under the shelter of a Christian nation's laws.
 
@@ -4236,15 +4241,15 @@ son sent to a trader, all under the shelter of a Christian nation's laws.
 
 "If man should ever resist evil," said Simeon, "then George should feel free to do it now: but the leaders of our people taught
 
-<sup>1</sup> Matthew 18.7.
+1 Matthew 18.7.
 
-a more excellent way; for the wrath of man worketh not the righteousness of God;<sup>1</sup> but it goes sorely against the corrupt will of man, and none can receive it save they to whom it is given. Let us pray the Lord that we be not tempted."
+a more excellent way; for the wrath of man worketh not the righteousness of God;1 but it goes sorely against the corrupt will of man, and none can receive it save they to whom it is given. Let us pray the Lord that we be not tempted."
 
 "And so I do," said Phineas; "but if we are tempted too much——why, let them look out, that's all."
 
-"It's quite plain thee was n't born a Friend,"<sup>2</sup> said Simeon, smiling. "The old nature hath its way in thee pretty strong as yet."
+"It's quite plain thee was n't born a Friend,"2 said Simeon, smiling. "The old nature hath its way in thee pretty strong as yet."
 
-To tell the truth, Phineas had been a hearty, two-fisted backwoodsman, a vigorous hunter, and a dead shot at a buck; but, having wooed a pretty Quakeress, had been moved by the power of her charms to join the society in his neighborhood; and though he was an honest, sober, and efficient member, and nothing particular could be alleged against him, yet the more spiritual among them could not but discern an exceeding lack of savor<sup>3</sup> in his developments.
+To tell the truth, Phineas had been a hearty, two-fisted backwoodsman, a vigorous hunter, and a dead shot at a buck; but, having wooed a pretty Quakeress, had been moved by the power of her charms to join the society in his neighborhood; and though he was an honest, sober, and efficient member, and nothing particular could be alleged against him, yet the more spiritual among them could not but discern an exceeding lack of savor3 in his developments.
 
 "Friend Phineas will ever have ways of his own," said Rachel Halliday, smiling; "but we all think that his heart is in the right place, after all."
 
@@ -4254,11 +4259,11 @@ To tell the truth, Phineas had been a hearty, two-fisted backwoodsman, a vigorou
 
 "Phineas is pretty shrewd," said Simeon. "He will do the best that can be done for thee, George."
 
-<sup>1</sup> See James 1.19-20: "Be swift to hear, slow to speak, slow to wrath: For the wrath of man worketh not the righteousness of God."
+1 See James 1.19-20: "Be swift to hear, slow to speak, slow to wrath: For the wrath of man worketh not the righteousness of God."
 
-<sup>2</sup> I.e., a Quaker.
+2 I.e., a Quaker.
 
-<sup>3</sup> Distinguishing qualities or characteristics.
+3 Distinguishing qualities or characteristics.
 
 "All I am sorry for," said George, "is the risk to you."
 
@@ -4366,7 +4371,7 @@ Phineas went before, springing up the rocks like a goat, with the boy in his arm
 
 "I do see," said George; "and now, as this matter is ours, let us take all the risk, and do all the fighting."
 
-"Thee's quite welcome to do the fighting, George," said Phineas, chewing some checkerberry-leaves<sup>1</sup> as he spoke; "but I may have the fun of looking on, I suppose. But see, these fellows are kinder debating down there, and looking up, like hens when they are going to fly up on to the roost. Had n't thee better give 'em a word of advice, before they come up, just to tell 'em handsomely they 'll be shot if they do?"
+"Thee's quite welcome to do the fighting, George," said Phineas, chewing some checkerberry-leaves1 as he spoke; "but I may have the fun of looking on, I suppose. But see, these fellows are kinder debating down there, and looking up, like hens when they are going to fly up on to the roost. Had n't thee better give 'em a word of advice, before they come up, just to tell 'em handsomely they 'll be shot if they do?"
 
 The party beneath, now more apparent in the light of the dawn, consisted of our old acquaintances,Tom Loker and Marks, with two constables, and a posse consisting of such rowdies at the last tavern as could be engaged by a little brandy to go and help the fun of trapping a set of niggers.
 
@@ -4386,7 +4391,7 @@ At this moment, George appeared on the top of a rock above them, and, speaking i
 
 "We want a party of runaway niggers," said Tom Loker. "One
 
-<sup>1</sup> I.e., wintergreen leaves.
+1 I.e., wintergreen leaves.
 
 George Harris, and Eliza Harris, and their son, and Jim Selden, and an old woman. We 've got the officers, here, and a warrant to take 'em; and we're going to have 'em, too. D'ye hear? An't you George Harris, that belongs to Mr. Harris, of Shelby county, Kentucky?"
 
@@ -4398,9 +4403,9 @@ George Harris, and Eliza Harris, and their son, and Jim Selden, and an old woman
 
 George stood out in fair sight, on the top of the rock, as he made his declaration of independence; the glow of dawn gave a flush to his swarthy cheek, and bitter indignation and despair gave fire to his dark eye; and, as if appealing from man to the justice of God, he raised his hand to heaven as he spoke.
 
-If it had been only a Hungarian youth, now bravely defending in some mountain fastness the retreat of fugitives escaping from Austria into America,<sup>1</sup> this would have been sublime heroism; but as it was a youth of African descent, defending the retreat of
+If it had been only a Hungarian youth, now bravely defending in some mountain fastness the retreat of fugitives escaping from Austria into America,1 this would have been sublime heroism; but as it was a youth of African descent, defending the retreat of
 
-<sup>1</sup> A reference to Hungary's failed bid for independence from Austria in 1848; the Hungarian resistence leader Lajos Kossuth was praised by Stowe and honored and celebrated when he toured England and the United States in 1851.
+1 A reference to Hungary's failed bid for independence from Austria in 1848; the Hungarian resistence leader Lajos Kossuth was praised by Stowe and honored and celebrated when he toured England and the United States in 1851.
 
 fugitives through America into Canada, of course we are too well instructed and patriotic to see any heroism in it; and if any of our readers do, they must do it on their own private responsibility. When despairing Hungarian fugitives make their way, against all the search-warrants and authorities of their lawful government, to America, press and political cabinet ring with applause and welcome. When despairing African fugitives do the same thing, it is—what is it?
 
@@ -4516,7 +4521,7 @@ A ride of about an hour more brought the party to a neat farmhouse, where the we
 
 #### CHAPTER XVIII MISS OPHELIA'S EXPERIENCES AND OPINIONS
 
-OUR friend Tom, in his own simple musings, often compared his more fortunate lot, in the bondage into which he was cast, with that of Joseph in Egypt;<sup>1</sup> and, in fact, as time went on, and he developed more and more under the eye of his master, the strength of the parallel increased.
+OUR friend Tom, in his own simple musings, often compared his more fortunate lot, in the bondage into which he was cast, with that of Joseph in Egypt;1 and, in fact, as time went on, and he developed more and more under the eye of his master, the strength of the parallel increased.
 
 St. Clare was indolent and careless of money. Hitherto the providing and marketing had been principally done by Adolph, who was, to the full, as careless and extravagant as his master; and, between them both, they had carried on the dispersing process with great alacrity. Accustomed, for many years, to regard his master's property as his own care, Tom saw, with an uneasiness he could scarcely repress, the wasteful expenditure of the establishment; and, in the quiet, indirect way which his class often acquire, would sometimes make his own suggestions.
 
@@ -4524,15 +4529,15 @@ St. Clare at first employed him occasionally; but, struck with his soundness of 
 
 "No, no, Adolph," he said, one day, as Adolph was deprecating the passing of power out of his hands; "let Tom alone. You only understand what you want;Tom understands cost and come to; and there may be some end to money, bye and bye if we don't let somebody do that."
 
-<sup>1</sup> Joseph was sold into slavery by his brothers. Because of his talents, however, he was freed by the Egyptian official Potiphar and became a trusted advisor of the Pharaoh. See Genesis 37-50.
+1 Joseph was sold into slavery by his brothers. Because of his talents, however, he was freed by the Egyptian official Potiphar and became a trusted advisor of the Pharaoh. See Genesis 37-50.
 
 Trusted to an unlimited extent by a careless master, who handed him a bill without looking at it, and pocketed the change without counting it,Tom had every facility and temptation to dishonesty; and nothing but an impregnable simplicity of nature, strengthened by Christian faith, could have kept him from it. But, to that nature, the very unbounded trust reposed in him was bond and seal for the most scrupulous accuracy.
 
-With Adolph the case had been different. Thoughtless and self-indulgent, and unrestrained by a master who found it easier to indulge than to regulate, he had fallen into an absolute confusion as to meum tuum<sup>1</sup> with regard to himself and his master, which sometimes troubled even St. Clare. His own good sense taught him that such a training of his servants was unjust and dangerous. A sort of chronic remorse went with him everywhere, although not strong enough to make any decided change in his course; and this very remorse rea¨cted again into indulgence. He passed lightly over the most serious faults, because he told himself that, if he had done his part, his dependents had not fallen into them.
+With Adolph the case had been different. Thoughtless and self-indulgent, and unrestrained by a master who found it easier to indulge than to regulate, he had fallen into an absolute confusion as to meum tuum1 with regard to himself and his master, which sometimes troubled even St. Clare. His own good sense taught him that such a training of his servants was unjust and dangerous. A sort of chronic remorse went with him everywhere, although not strong enough to make any decided change in his course; and this very remorse rea¨cted again into indulgence. He passed lightly over the most serious faults, because he told himself that, if he had done his part, his dependents had not fallen into them.
 
 Tom regarded his gay, airy, handsome young master with an odd mixture of fealty, reverence, and fatherly solicitude. That he never read the Bible; never went to church; that he jested and made free with any and every thing that came in the way of his wit; that he spent his Sunday evenings at the opera or theatre; that he went to wine parties, and clubs, and suppers, oftener than was at all expedient,—were all things that Tom could see as plainly as anybody, and on which he based a conviction that "Mas'r was n't a Christian;"—a conviction, however, which he would have been very slow to express to any one else, but on which he founded many prayers, in his own simple fashion, when he was by himself in his little dormitory. Not that Tom had not his own way of speaking his mind occasionally, with something of the tact often observable in his class; as, for example, the very day after the Sabbath we have described, St. Clare was invited out to a convivial party of choice spirits, and was helped home, between one and two o'clock at night, in a condition when the physical had decidedly attained the upper hand of the intellectual. Tom and Adolph assisted to get him composed for the night, the latter in high spirits, evidently regarding the matter as a good joke, and laughing heartily at the rusticity of Tom's horror, who really was
 
-<sup>1</sup> Literally, "mine and thine" from a Latin phrase "What is thine is mine and what is mine is thine" (see Plautus, Trinummus 2.2.47).
+1 Literally, "mine and thine" from a Latin phrase "What is thine is mine and what is mine is thine" (see Plautus, Trinummus 2.2.47).
 
 simple enough to lie awake most of the rest of the night, praying for his young master.
 
@@ -4558,7 +4563,7 @@ Tom said this with his back to his master, and his hand on the door-knob. St. Cl
 
 "O, that's all, is it?" he said, gayly.
 
-"All!" said Tom, turning suddenly round and falling on his knees. "O, my dear young Mas'r! I'm 'fraid it will be loss of all all—body and soul. The good Book says, 'it biteth like a serpent and stingeth like an adder!' my dear Mas'r!"<sup>1</sup>
+"All!" said Tom, turning suddenly round and falling on his knees. "O, my dear young Mas'r! I'm 'fraid it will be loss of all all—body and soul. The good Book says, 'it biteth like a serpent and stingeth like an adder!' my dear Mas'r!"1
 
 Tom's voice choked, and the tears ran down his cheeks.
 
@@ -4568,7 +4573,7 @@ But Tom would n't rise, and looked imploring.
 
 "Well, I won't go to any more of their cursed nonsense,Tom," said St. Clare; "on my honor, I won't. I don't know why I have n't stopped long ago. I've always despised it, and myself for it, so now, Tom, wipe up your eyes, and go about your errands. Come, come," he added, "no blessings. I'm not so wonderfully good, now," he said, as he gently pushed Tom to the door.
 
-<sup>1</sup> See Proverbs 23.31-32: "Look thou not upon the wine when it is red, when it giveth his color in the cup, when it moveth itself aright. At the last it biteth like a serpent, and stingeth like an adder."
+1 See Proverbs 23.31-32: "Look thou not upon the wine when it is red, when it giveth his color in the cup, when it moveth itself aright. At the last it biteth like a serpent, and stingeth like an adder."
 
 "There, I'll pledge my honor to you, Tom, you don't see me so again," he said; and Tom went off, wiping his eyes, with great satisfaction.
 
@@ -4588,9 +4593,9 @@ Such a housekeeper Marie St. Clare was not, nor her mother before her. Indolent 
 
 The first morning of her regency, Miss Ophelia was up at four o'clock; and having attended to all the adjustments of her own chamber, as she had done ever since she came there, to the great amazement of the chamber-maid, she prepared for a vigorous onslaught on the cupboards and closets of the establishment of which she had the keys.
 
-The store-room, the linen-presses, the china-closet, the kitchen and cellar, that day, all went under an awful review. Hidden things of darkness were brought to light to an extent that alarmed all the principalities and powers<sup>1</sup> of kitchen and chamber, and caused many wonderings and murmurings about "dese yer northern ladies" from the domestic cabinet.
+The store-room, the linen-presses, the china-closet, the kitchen and cellar, that day, all went under an awful review. Hidden things of darkness were brought to light to an extent that alarmed all the principalities and powers1 of kitchen and chamber, and caused many wonderings and murmurings about "dese yer northern ladies" from the domestic cabinet.
 
-Old Dinah, the head cook, and principal of all rule and authority in the kitchen department, was filled with wrath at what she considered an invasion of privilege. No feudal baron in Magna Charta<sup>2</sup> times could have more thoroughly resented some incursion of the crown.
+Old Dinah, the head cook, and principal of all rule and authority in the kitchen department, was filled with wrath at what she considered an invasion of privilege. No feudal baron in Magna Charta2 times could have more thoroughly resented some incursion of the crown.
 
 Dinah was a character in her own way, and it would be injustice to her memory not to give the reader a little idea of her. She was a native and essential cook, as much as Aunt Chloe,—cooking being an indigenous talent of the African race; but Chloe was a trained and methodical one, who moved in an orderly domestic harness, while Dinah was a self-taught genius, and, like geniuses in general, was positive, opinionated and erratic, to the last degree.
 
@@ -4600,9 +4605,9 @@ This was the easier, in that she was perfect mistress of that diplomatic art whi
 
 Dinah was mistress of the whole art and mystery of excusemaking, in all its branches. Indeed, it was an axiom with her that the cook can do no wrong; and a cook in a Southern kitchen finds abundance of heads and shoulders on which to lay off every sin
 
-<sup>1</sup> See Ephesians 6.12: "For our struggle is not against flesh and blood, but against the rulers, against the powers, against the world forces of this darkness, against the spiritual forces of wickedness in the heavenly places." But also see Book X, lines 183-187 of Milton's Paradise Lost: "When Jesus, son of Mary second Eve,/Saw Satan fall, like lightning down from Heav'n,/Prince of the Aire; then, rising from his Grave/Spoild Principalities and Powers, triumpht/In open shew [show]."
+1 See Ephesians 6.12: "For our struggle is not against flesh and blood, but against the rulers, against the powers, against the world forces of this darkness, against the spiritual forces of wickedness in the heavenly places." But also see Book X, lines 183-187 of Milton's Paradise Lost: "When Jesus, son of Mary second Eve,/Saw Satan fall, like lightning down from Heav'n,/Prince of the Aire; then, rising from his Grave/Spoild Principalities and Powers, triumpht/In open shew [show]."
 
-<sup>2</sup> Issued by King John of England in 1215, the Magna Carta (Latin for "great charter") placed limits on monarchial powers for the first time and is therefore one of the most important documents in the legal history.
+2 Issued by King John of England in 1215, the Magna Carta (Latin for "great charter") placed limits on monarchial powers for the first time and is therefore one of the most important documents in the legal history.
 
 and frailty, so as to maintain her own immaculateness entire. If any part of the dinner was a failure, there were fifty indisputably good reasons for it; and it was the fault undeniably of fifty other people, whom Dinah berated with unsparing zeal.
 
@@ -4616,11 +4621,11 @@ Miss Ophelia, after passing on her reformatory tour through all the other parts 
 
 The kitchen was a large brick-floored apartment, with a great old-fashioned fireplace stretching along one side of it,—an arrangement which St. Clare had vainly tried to persuade Dinah
 
-<sup>1</sup> In Greek mythology, the muses were patron goddesses of the arts and humanities.
+1 In Greek mythology, the muses were patron goddesses of the arts and humanities.
 
-to exchange for the convenience of a modern cook-stove. Not she. No Puseyite,<sup>1</sup> or conservative of any school, was ever more inflexibly attached to time-honored inconveniencies than Dinah.
+to exchange for the convenience of a modern cook-stove. Not she. No Puseyite,1 or conservative of any school, was ever more inflexibly attached to time-honored inconveniencies than Dinah.
 
-When St. Clare had first returned from the north, impressed with the system and order of his uncle's kitchen arrangements, he had largely provided his own with an array of cupboards, drawers, and various apparatus, to induce systematic regulation, under the sanguine illusion that it would be of any possible assistance to Dinah in her arrangements. He might as well have provided them for a squirrel or a magpie. The more drawers and closets there were, the more hiding-holes could Dinah make for the accommodation of old rags, hair-combs, old shoes, ribbons, cast-off artificial flowers, and other articles of vertu, <sup>2</sup> wherein her soul delighted.
+When St. Clare had first returned from the north, impressed with the system and order of his uncle's kitchen arrangements, he had largely provided his own with an array of cupboards, drawers, and various apparatus, to induce systematic regulation, under the sanguine illusion that it would be of any possible assistance to Dinah in her arrangements. He might as well have provided them for a squirrel or a magpie. The more drawers and closets there were, the more hiding-holes could Dinah make for the accommodation of old rags, hair-combs, old shoes, ribbons, cast-off artificial flowers, and other articles of vertu, 2 wherein her soul delighted.
 
 When Miss Ophelia entered the kitchen, Dinah did not rise, but smoked on in sublime tranquillity, regarding her movements obliquely out of the corner of her eye, but apparently intent only on the operations around her.
 
@@ -4634,15 +4639,15 @@ Miss Ophelia commenced opening a set of drawers.
 
 "O Lor, Missis, no; the towels was all a missin',—so I jest did it. I laid out to wash that ar,—that's why I put it thar."
 
-"Shif'less!" said Miss Ophelia to herself, proceeding to tumble over the drawer, where she found a nutmeg-grater and two or three nutmegs, a Methodist hymn-book, a couple of soiled Madras<sup>3</sup> handkerchiefs, some yarn and knitting-work, a paper of tobacco and a pipe, a few crackers, one or two gilded chinasaucers with some pomade<sup>4</sup> in them, one or two thin old shoes, a piece of flannel carefully pinned up enclosing some small white onions, several damask table-napkins, some coarse crash towels,
+"Shif'less!" said Miss Ophelia to herself, proceeding to tumble over the drawer, where she found a nutmeg-grater and two or three nutmegs, a Methodist hymn-book, a couple of soiled Madras3 handkerchiefs, some yarn and knitting-work, a paper of tobacco and a pipe, a few crackers, one or two gilded chinasaucers with some pomade4 in them, one or two thin old shoes, a piece of flannel carefully pinned up enclosing some small white onions, several damask table-napkins, some coarse crash towels,
 
-<sup>1</sup> A reference to Edward Bouverie Pusey (1800-82), a leading figure in the Anglican Church and an advocate of traditional forms of worship.
+1 A reference to Edward Bouverie Pusey (1800-82), a leading figure in the Anglican Church and an advocate of traditional forms of worship.
 
-<sup>2</sup> I.e., small and curious antique artworks.
+2 I.e., small and curious antique artworks.
 
-<sup>3</sup> A light cotton fabric, especially one with a pattern of multicolored plaid or stripes.
+3 A light cotton fabric, especially one with a pattern of multicolored plaid or stripes.
 
-<sup>4</sup> Perfumed ointment for the hair or scalp.
+4 Perfumed ointment for the hair or scalp.
 
 some twine and darning-needles, and several broken papers, from which sundry sweet herbs were sifting into the drawer.
 
@@ -4702,7 +4707,7 @@ Miss Ophelia lifted out the sifting papers of sweet herbs.
 
 To do Dinah justice, she had, at irregular periods, paroxysms of reformation and arrangement, which she called "clarin' up times," when she would begin with great zeal, and turn every drawer and closet wrong side outward, on to the floor or tables, and make the ordinary confusion seven-fold more confounded. Then she would light her pipe, and leisurely go over her arrangements, looking things over, and discoursing upon them; making all the young fry scour most vigorously on the tin things, and keeping up for several hours a most energetic state of confusion, which she would explain to the satisfaction of all inquirers, by the remark that she was a "clarin' up." "She could n't hev things a gwine on so as they had been, and she was gwine to make these yer young ones keep better order;" for Dinah herself, somehow, indulged the illusion that she, herself, was the soul of order, and it was only the young uns, and the everybody else in the house, that were the cause of anything that fell short of perfection in this respect. When all the tins were scoured, and the tables scrubbed snowy white, and everything that could offend tucked out of sight in holes and corners, Dinah would dress herself up in a smart dress, clean apron, and high, brilliant Madras turban, and tell all marauding "young uns" to keep out of the kitchen, for she was gwine to have things kept nice. Indeed, these periodic seasons were often an inconvenience to the whole household; for Dinah would contract such an immoderate attachment to her scoured tin, as to insist upon it that it should n't be used again for any possible purpose,—at least, till the ardor of the "clarin' up" period abated.
 
-Miss Ophelia, in a few days, thoroughly reformed every department of the house to a systematic pattern; but her labors in all departments that depended on the coo¨peration of servants were like those of Sisyphus or the Danaides.<sup>1</sup> In despair, she one day appealed to St. Clare.
+Miss Ophelia, in a few days, thoroughly reformed every department of the house to a systematic pattern; but her labors in all departments that depended on the coo¨peration of servants were like those of Sisyphus or the Danaides.1 In despair, she one day appealed to St. Clare.
 
 "There is no such thing as getting anything like system in this family!"
 
@@ -4720,9 +4725,9 @@ Miss Ophelia, in a few days, thoroughly reformed every department of the house t
 
 "My dear Vermont, you natives up by the North Pole set an extravagant value on time! What on earth is the use of time to a fellow who has twice as much of it as he knows what to do with? As to order and system, where there is nothing to be done but to lounge on the sofa and read, an hour sooner or later in breakfast
 
-<sup>1</sup> In Greek mythology, Sisyphus was a cruel king condemned to roll a huge stone up a hill that repeatedly rolled back down; similarly, for the murder of their bridegrooms, the fifty daughters of King Danaus were sentenced in Hades to fill a leaking vessel with water.
+1 In Greek mythology, Sisyphus was a cruel king condemned to roll a huge stone up a hill that repeatedly rolled back down; similarly, for the murder of their bridegrooms, the fifty daughters of King Danaus were sentenced in Hades to fill a leaking vessel with water.
 
-or dinner is n't of much account. Now, there's Dinah gets you a capital dinner,—soup, ragout, roast fowl, dessert, ice-creams and all,—and she creates it all out of chaos and old night<sup>1</sup> down there, in that kitchen. I think it really sublime, the way she manages. But, Heaven bless us! if we are to go down there, and view all the smoking and squatting about, and hurryscurryation of the preparatory process, we should never eat more! My good cousin, absolve yourself from that! It's more than a Catholic penance, and does no more good. You 'll only lose your own temper, and utterly confound Dinah. Let her go her own way."
+or dinner is n't of much account. Now, there's Dinah gets you a capital dinner,—soup, ragout, roast fowl, dessert, ice-creams and all,—and she creates it all out of chaos and old night1 down there, in that kitchen. I think it really sublime, the way she manages. But, Heaven bless us! if we are to go down there, and view all the smoking and squatting about, and hurryscurryation of the preparatory process, we should never eat more! My good cousin, absolve yourself from that! It's more than a Catholic penance, and does no more good. You 'll only lose your own temper, and utterly confound Dinah. Let her go her own way."
 
 "But, Augustine, you don't know how I found things."
 
@@ -4746,7 +4751,7 @@ Augustine laughed immoderately at the grave and anxious face with which Miss Oph
 
 "Well, now and then one, whom Nature makes so impracticably simple, truthful and faithful, that the worst possible influence can't destroy it. But, you see, from the mother's breast the colored child feels and sees that there are none but underhand ways open to it. It can get along no other way with its parents, its mistress, its young master and missie playfellows. Cunning and deception become necessary, inevitable habits. It is n't fair to
 
-<sup>1</sup> From John Milton's Paradise Lost, Book I, line 543.
+1 From John Milton's Paradise Lost, Book I, line 543.
 
 expect anything else of him. He ought not to be punished for it. As to honesty, the slave is kept in that dependent, semi-childish state, that there is no making him realize the rights of property, or feel that his master's goods are not his own, if he can get them. For my part, I don't see how they can be honest. Such a fellow as Tom, here, is—is a moral miracle!"
 
@@ -4852,7 +4857,7 @@ Here the conversation was interrupted in a two-fold manner. St. Clare's voice wa
 
 Our friend Tom, who had been in the kitchen during the con-
 
-<sup>1</sup> A thin, stiffly starched cotton dress.
+1 A thin, stiffly starched cotton dress.
 
 versation with the old rusk-woman, had followed her out into the street. He saw her go on, giving every once in a while a suppressed groan. At last she set her basket down on a door-step, and began arranging the old, faded shawl which covered her shoulders.
 
@@ -4888,13 +4893,13 @@ Tom shuddered at these frightful words, spoken with a sullen, impassioned earnes
 
 ## "What set you into this bad way of drinkin'?"
 
-"To get shet o' my misery. I had one child after I come here; and I thought then I'd have one to raise, cause Mas'r wasn't a speculator. It was de peartest little thing! and Missis she seemed to think a heap on 't, at first; it never cried,—it was likely and fat. But Missis tuck sick, and I tended her; and I tuck the fever, and my milk all left me, and the child it pined to skin and bone, and Missis would n't buy milk for it. She would n't hear to me, when I telled her I had n't milk. She said she knowed I could feed it on what other folks eat; and the child kinder pined, and cried, and cried, and cried, day and night, and got all gone to skin and bones, and Missis got sot agin it, and she said 't wan't nothin' but crossness. She wished it was dead, she said; and she would n't let me have it o' nights, cause, she said, it kept me awake, and made me good for nothing. She made me sleep in her room; and I had to put it away off in a little kind o' garret,<sup>1</sup> and thar it cried itself to death, one night. It did; and I tuck to drinkin', to keep its crying out of my ears! I did,—and I will drink! I will, if I do go to torment for it! Mas'r says I shall go to torment, and I tell him I've got thar now!"
+"To get shet o' my misery. I had one child after I come here; and I thought then I'd have one to raise, cause Mas'r wasn't a speculator. It was de peartest little thing! and Missis she seemed to think a heap on 't, at first; it never cried,—it was likely and fat. But Missis tuck sick, and I tended her; and I tuck the fever, and my milk all left me, and the child it pined to skin and bone, and Missis would n't buy milk for it. She would n't hear to me, when I telled her I had n't milk. She said she knowed I could feed it on what other folks eat; and the child kinder pined, and cried, and cried, and cried, day and night, and got all gone to skin and bones, and Missis got sot agin it, and she said 't wan't nothin' but crossness. She wished it was dead, she said; and she would n't let me have it o' nights, cause, she said, it kept me awake, and made me good for nothing. She made me sleep in her room; and I had to put it away off in a little kind o' garret,1 and thar it cried itself to death, one night. It did; and I tuck to drinkin', to keep its crying out of my ears! I did,—and I will drink! I will, if I do go to torment for it! Mas'r says I shall go to torment, and I tell him I've got thar now!"
 
 "O, ye poor crittur!" said Tom, "han't nobody never telled ye how the Lord Jesus loved ye, and died for ye? Han't they telled ye that he 'll help ye, and ye can go to heaven, and have rest, at last?"
 
 "I looks like gwine to heaven," said the woman; "an't thar where white folks is gwine? S'pose they'd have me thar? I'd rather go to torment, and get away from Mas'r and Missis. I had so," she said, as, with her usual groan, she got her basket on her head, and walked sullenly away.
 
-Tom turned, and walked sorrowfully back to the house. In the court he met little Eva,—a crown of tuberoses<sup>2</sup> on her head, and her eyes radiant with delight.
+Tom turned, and walked sorrowfully back to the house. In the court he met little Eva,—a crown of tuberoses2 on her head, and her eyes radiant with delight.
 
 "O,Tom! here you are. I'm glad I've found you. Papa says you may get out the ponies, and take me in my little new carriage," she said, catching his hand. "But what's the matter, Tom?—you look sober."
 
@@ -4904,9 +4909,9 @@ Tom turned, and walked sorrowfully back to the house. In the court he met little
 
 Tom, in simple, earnest phrase, told Eva the woman's history. She did not exclaim, or wonder, or weep, as other children do. Her cheeks grew pale, and a deep, earnest shadow passed over her eyes. She laid both hands on her bosom, and sighed heavily.
 
-<sup>1</sup> I.e., a small attic.
+1 I.e., a small attic.
 
-<sup>2</sup> White and fragrant flowers.
+2 White and fragrant flowers.
 
 ## Review Copy
 
@@ -4960,7 +4965,7 @@ Miss Ophelia anxiously inquired the woman's story. Dinah gave a very garrulous v
 
 "I thought it would come to that, some time," said St. Clare, going on with his paper.
 
-"Thought so!—an't you going to do anything about it?" said Miss Ophelia. "Have n't you got any selectmen, <sup>1</sup> or anybody, to interfere and look after such matters?"
+"Thought so!—an't you going to do anything about it?" said Miss Ophelia. "Have n't you got any selectmen, 1 or anybody, to interfere and look after such matters?"
 
 "It's commonly supposed that the property interest is a sufficient guard in these cases. If people choose to ruin their own possessions, I don't know what's to be done. It seems the poor creature was a thief and a drunkard; and so there won't be much hope to get up sympathy for her."
 
@@ -4970,17 +4975,17 @@ Miss Ophelia anxiously inquired the woman's story. Dinah gave a very garrulous v
 
 "How can you shut your eyes and ears? How can you let such things alone?"
 
-"My dear child, what do you expect? Here is a whole class, debased, uneducated, indolent, provoking,—put, without any sort of terms or conditions, entirely into the hands of such people as the majority in our world are; people who have neither consideration nor self-control, who have n't even an enlightened regard to their own interest,—for that's the case with the largest half of mankind. Of course, in a community so organized, what can a man of honorable and humane feelings do, but shut his eyes all he can, and harden his heart? I can't buy every poor wretch I see. I can't turn knight-errant,<sup>2</sup> and undertake to redress every
+"My dear child, what do you expect? Here is a whole class, debased, uneducated, indolent, provoking,—put, without any sort of terms or conditions, entirely into the hands of such people as the majority in our world are; people who have neither consideration nor self-control, who have n't even an enlightened regard to their own interest,—for that's the case with the largest half of mankind. Of course, in a community so organized, what can a man of honorable and humane feelings do, but shut his eyes all he can, and harden his heart? I can't buy every poor wretch I see. I can't turn knight-errant,2 and undertake to redress every
 
-<sup>1</sup> In New England states, town officials elected to manage public affairs.
+1 In New England states, town officials elected to manage public affairs.
 
-<sup>2</sup> A chivalrous knight who searches for adventures.
+2 A chivalrous knight who searches for adventures.
 
 individual case of wrong in such a city as this. The most I can do is to try and keep out of the way of it."
 
 St. Clare's fine countenance was for a moment overcast; he looked annoyed, but suddenly calling up a gay smile, he said,
 
-"Come, cousin, don't stand there looking like one of the Fates;<sup>1</sup> you've only seen a peep through the curtain,—a specimen of what is going on, the world over, in some shape or other. If we are to be prying and spying into all the dismals of life, we should have no heart to anything. 't is like looking too close into the details of Dinah's kitchen;" and St. Clare lay back on the sofa, and busied himself with his paper.
+"Come, cousin, don't stand there looking like one of the Fates;1 you've only seen a peep through the curtain,—a specimen of what is going on, the world over, in some shape or other. If we are to be prying and spying into all the dismals of life, we should have no heart to anything. 't is like looking too close into the details of Dinah's kitchen;" and St. Clare lay back on the sofa, and busied himself with his paper.
 
 Miss Ophelia sat down, and pulled out her knitting-work, and sat there grim with indignation. She knit and knit, but while she mused the fire burned; at last she broke out—
 
@@ -5012,7 +5017,7 @@ Miss Ophelia sat down, and pulled out her knitting-work, and sat there grim with
 
 "Well, I have been resolving I won't, off and on, these ten
 
-<sup>1</sup> In Greek and Roman mythology, the Fates were three goddesses who controlled human destiny.
+1 In Greek and Roman mythology, the Fates were three goddesses who controlled human destiny.
 
 years," said St. Clare; "but I haven't, some how, got clear. Have you got clear of all your sins, cousin?"
 
@@ -5026,27 +5031,27 @@ years," said St. Clare; "but I haven't, some how, got clear. Have you got clear 
 
 ## "O, Auguste, you are a sad rattle-brain!"
 
-"Am I? Well, so I am, I suppose; but for once I will be serious, now; but you must hand me that basket of oranges;—you see, you'll have to 'stay me with flagons and comfort me with apples,'<sup>1</sup> if I'm going to make this effort. Now," said Augustine, drawing the basket up, "I'll begin:When, in the course of human events,<sup>2</sup> it becomes necessary for a fellow to hold two or three dozen of his fellow-worms in captivity, a decent regard to the opinions of society requires—"
+"Am I? Well, so I am, I suppose; but for once I will be serious, now; but you must hand me that basket of oranges;—you see, you'll have to 'stay me with flagons and comfort me with apples,'1 if I'm going to make this effort. Now," said Augustine, drawing the basket up, "I'll begin:When, in the course of human events,2 it becomes necessary for a fellow to hold two or three dozen of his fellow-worms in captivity, a decent regard to the opinions of society requires—"
 
 "I don't see that you are growing more serious," said Miss Ophelia.
 
 "Wait,—I'm coming on,—you'll hear. The short of the matter is, cousin," said he, his handsome face suddenly settling into an earnest and serious expression, "on this abstract question of slavery there can, as I think, be but one opinion. Planters, who have money to make by it,—clergymen, who have planters to
 
-<sup>1</sup> From the Song of Solomon 2.5.
+1 From the Song of Solomon 2.5.
 
-<sup>2</sup> The opening phrase of the Declaration of Independence.
+2 The opening phrase of the Declaration of Independence.
 
 please,—politicians, who want to rule by it,—may warp and bend language and ethics to a degree that shall astonish the world at their ingenuity; they can press nature and the Bible, and nobody knows what else, into the service; but, after all, neither they nor the world believe in it one particle the more. It comes from the devil, that's the short of it;—and, to my mind, it's a pretty respectable specimen of what he can do in his own line."
 
 Miss Ophelia stopped her knitting, and looked surprised; and St. Clare, apparently enjoying her astonishment, went on.
 
-"You seem to wonder; but if you will get me fairly at it, I'll make a clean breast of it. This cursed business, accursed of God and man, what is it? Strip it of all its ornament, run it down to the root and nucleus of the whole, and what is it? Why, because my brother Quashy<sup>1</sup> is ignorant and weak, and I am intelligent and strong,—because I know how, and can do it,—therefore, I may steal all he has, keep it, and give him only such and so much as suits my fancy. Whatever is too hard, too dirty, too disagreeable, for me, I may set Quashy to doing. Because I don't like work, Quashy shall work. Because the sun burns me, Quashy shall stay in the sun. Quashy shall earn the money, and I will spend it. Quashy shall lie down in every puddle, that I may walk over dry-shod. Quashy shall do my will, and not his, all the days of his mortal life, and have such chance of getting to heaven, at last, as I find convenient. This I take to be about what slavery is. I defy anybody on earth to read our slave-code, as it stands in our law-books, and make anything else of it. Talk of the abuses of slavery! Humbug! The thing itself is the essence of all abuse! And the only reason why the land don't sink under it, like Sodom and Gomorrah,<sup>2</sup> is because it is used in a way infinitely better than it is. For pity's sake, for shame's sake, because we are men born of women, and not savage beasts, many of us do not, and dare not,—we would scorn to use the full power which our savage laws put into our hands. And he who goes the furthest, and does the worst, only uses within limits the power that the law gives him."
+"You seem to wonder; but if you will get me fairly at it, I'll make a clean breast of it. This cursed business, accursed of God and man, what is it? Strip it of all its ornament, run it down to the root and nucleus of the whole, and what is it? Why, because my brother Quashy1 is ignorant and weak, and I am intelligent and strong,—because I know how, and can do it,—therefore, I may steal all he has, keep it, and give him only such and so much as suits my fancy. Whatever is too hard, too dirty, too disagreeable, for me, I may set Quashy to doing. Because I don't like work, Quashy shall work. Because the sun burns me, Quashy shall stay in the sun. Quashy shall earn the money, and I will spend it. Quashy shall lie down in every puddle, that I may walk over dry-shod. Quashy shall do my will, and not his, all the days of his mortal life, and have such chance of getting to heaven, at last, as I find convenient. This I take to be about what slavery is. I defy anybody on earth to read our slave-code, as it stands in our law-books, and make anything else of it. Talk of the abuses of slavery! Humbug! The thing itself is the essence of all abuse! And the only reason why the land don't sink under it, like Sodom and Gomorrah,2 is because it is used in a way infinitely better than it is. For pity's sake, for shame's sake, because we are men born of women, and not savage beasts, many of us do not, and dare not,—we would scorn to use the full power which our savage laws put into our hands. And he who goes the furthest, and does the worst, only uses within limits the power that the law gives him."
 
 St. Clare had started up, and, as his manner was when excited, was walking, with hurried steps, up and down the floor. His fine face, classic as that of a Greek statue, seemed actually to burn with the fervor of his feelings. His large blue eyes flashed, and he gestured with an unconscious eagerness. Miss Ophelia had never seen him in this mood before, and she sat perfectly silent.
 
-<sup>1</sup> See page 88, note 1 above.
+1 See page 88, note 1 above.
 
-<sup>2</sup> In Genesis 18-19, cities destroyed by God for their wickedness.
+2 In Genesis 18-19, cities destroyed by God for their wickedness.
 
 "I declare to you," said he, suddenly stopping before his cousin "(it's no sort of use to talk or to feel on this subject), but I declare to you, there have been times when I have thought, if the whole country would sink, and hide all this injustice and misery from the light, I would willingly sink with it. When I have been travelling up and down on our boats, or about on my collecting tours, and reflected that every brutal, disgusting, mean, low-lived fellow I met, was allowed by our laws to become absolute despot of as many men, women and children, as he could cheat, steal, or gamble money enough to buy,—when I have seen such men in actual ownership of helpless children, of young girls and women,—I have been ready to curse my country, to curse the human race!"
 
@@ -5056,9 +5061,9 @@ St. Clare had started up, and, as his manner was when excited, was walking, with
 
 "Well, but the question is," said Miss Ophelia.
 
-"O, yes; to be sure, the question is,—and a deuce of a question it is! How came you in this state of sin and misery? Well, I shall answer in the good old words you used to teach me, Sundays.<sup>1</sup> I came so by ordinary generation. My servants were my father's, and, what is more, my mother's; and now they are mine, they and their increase, which bids fair to be a pretty considerable item. My father, you know, came first from New England; and he was just such another man as your father,—a regular old Roman, upright, energetic, noble-minded, with an iron will. Your father settled down in New England, to rule over rocks and stones, and to force an existence out of Nature; and mine settled in Louisiana, to rule over men and women, and force existence out of them. My mother," said St. Clare, getting up and walking to a picture at the end of the room, and gazing upward with a face fervent with veneration, "she was divine! Don't look at me so! you know what I mean! She probably was of mortal birth; but, as
+"O, yes; to be sure, the question is,—and a deuce of a question it is! How came you in this state of sin and misery? Well, I shall answer in the good old words you used to teach me, Sundays.1 I came so by ordinary generation. My servants were my father's, and, what is more, my mother's; and now they are mine, they and their increase, which bids fair to be a pretty considerable item. My father, you know, came first from New England; and he was just such another man as your father,—a regular old Roman, upright, energetic, noble-minded, with an iron will. Your father settled down in New England, to rule over rocks and stones, and to force an existence out of Nature; and mine settled in Louisiana, to rule over men and women, and force existence out of them. My mother," said St. Clare, getting up and walking to a picture at the end of the room, and gazing upward with a face fervent with veneration, "she was divine! Don't look at me so! you know what I mean! She probably was of mortal birth; but, as
 
-<sup>1</sup> A reference to The Westminster Catechism (1647). A shorter version was used in New England to educate children and lay persons in religious doctrine; the catechism was arranged in the question and answer format (that Ophelia begins to use with Topsy) to encourage memorization.
+1 A reference to The Westminster Catechism (1647). A shorter version was used in New England to educate children and lay persons in religious doctrine; the catechism was arranged in the question and answer format (that Ophelia begins to use with Topsy) to encourage memorization.
 
 far as ever I could observe, there was no trace of any human weakness or error about her; and everybody that lives to remember her, whether bond or free, servant, acquaintance, relation, all say the same. Why, cousin, that mother has been all that has stood between me and utter unbelief for years. She was a direct embodiment and personification of the New Testament,—a living fact, to be accounted for, and to be accounted for in no other way than by its truth. O, mother! mother!" said St. Clare, clasping his hands, in a sort of transport; and then suddenly checking himself, he came back, and seating himself on an ottoman, he went on:
 
@@ -5068,7 +5073,7 @@ far as ever I could observe, there was no trace of any human weakness or error a
 
 "In those days, this matter of slavery had never been canvassed as it has now; nobody dreamed of any harm in it.
 
-<sup>1</sup> See Revelation 15.6: "And the seven angels came out of the temple, having the seven plagues, clothed in pure and white linen, and having their breasts girded with golden girdles."
+1 See Revelation 15.6: "And the seven angels came out of the temple, having the seven plagues, clothed in pure and white linen, and having their breasts girded with golden girdles."
 
 "My father was a born aristocrat. I think, in some pree¨xistent state, he must have been in the higher circles of spirits, and brought all his old court pride along with him; for it was ingrain, bred in the bone, though he was originally of poor and not in any way of noble family. My brother was begotten in his image.
 
@@ -5080,7 +5085,7 @@ far as ever I could observe, there was no trace of any human weakness or error a
 
 "I was a little fellow then, but I had the same love that I have now for all kinds of human things,—a kind of passion for the study of humanity, come in what shape it would. I was found in the cabins and among the field-hands a great deal, and, of course,
 
-<sup>1</sup> A protectorate of Great Britain in southeastern Asia that achieved independence in 1948.
+1 A protectorate of Great Britain in southeastern Asia that achieved independence in 1948.
 
 was a great favorite; and all sorts of complaints and grievances were breathed in my ear; and I told them to mother, and we, between us, formed a sort of committee for a redress of grievances. We hindered and repressed a great deal of cruelty, and congratulated ourselves on doing a vast deal of good, till, as often happens, my zeal overacted. Stubbs complained to my father that he could n't manage the hands, and must resign his position. Father was a fond, indulgent husband, but a man that never flinched from anything that he thought necessary; and so he put down his foot, like a rock, between us and the field-hands. He told my mother, in language perfectly respectful and deferential, but quite explicit, that over the house-servants she should be entire mistress, but that with the field-hands he could allow no interference. He revered and respected her above all living beings; but he would have said it all the same to the virgin Mary herself, if she had come in the way of his system.
 
@@ -5098,7 +5103,7 @@ Miss Ophelia felt rather disposed to cavil at this picture, and was laying down 
 
 "Now, I know every word you are going to say. I do not say they were alike, in fact. One fell into a condition where everything
 
-<sup>1</sup> This act is described in John 9.
+1 This act is described in John 9.
 
 acted against the natural tendency, and the other where everything acted for it; and so one turned out a pretty wilful, stout, overbearing old democrat, and the other a wilful, stout old despot. If both had owned plantations in Louisiana, they would have been as like as two old bullets cast in the same mould."
 
@@ -5130,7 +5135,7 @@ acted against the natural tendency, and the other where everything acted for it;
 
 "Well," said Miss Ophelia, "how came you to give up your plantation life?"
 
-"Well, we jogged on<sup>1</sup> together some time, till Alfred saw plainly that I was no planter. He thought it absurd, after he had reformed, and altered, and improved everywhere, to suit my notions, that I still remained unsatisfied. The fact was, it was, after all, the THING that I hated,—the using these men and women, the perpetuation of all this ignorance, brutality and vice,—just to make money for me!
+"Well, we jogged on1 together some time, till Alfred saw plainly that I was no planter. He thought it absurd, after he had reformed, and altered, and improved everywhere, to suit my notions, that I still remained unsatisfied. The fact was, it was, after all, the THING that I hated,—the using these men and women, the perpetuation of all this ignorance, brutality and vice,—just to make money for me!
 
 "Besides, I was always interfering in the details. Being myself one of the laziest of mortals, I had altogether too much fellowfeeling for the lazy; and when poor, shiftless dogs put stones at the bottom of their cotton-baskets to make them weigh heavier, or filled their sacks with dirt, with cotton at the top, it seemed so exactly like what I should do if I were they, I could n't and would n't have them flogged for it. Well, of course, there was an end of plantation discipline; and Alf and I came to about the same point that I and my respected father did, years before. So he told me that I was a womanish sentimentalist, and would never do for business life; and advised me to take the bank-stock and the New Orleans family mansion, and go to writing poetry, and let him manage the plantation. So we parted, and I came here."
 
@@ -5138,31 +5143,31 @@ acted against the natural tendency, and the other where everything acted for it;
 
 "Well, I was n't up to that. To hold them as tools for money-
 
-<sup>1</sup> I.e., trudged along.
+1 I.e., trudged along.
 
 making, I could not;—have them to help spend money, you know, did n't look quite so ugly to me. Some of them were old houseservants, to whom I was much attached; and the younger ones were children to the old. All were well satisfied to be as they were." He paused, and walked reflectively up and down the room.
 
 "There was," said St. Clare, "a time in my life when I had plans and hopes of doing something in this world, more than to float and drift. I had vague, indistinct yearnings to be a sort of emancipator,—to free my native land from this spot and stain. All young men have had such fever-fits, I suppose, some time,—but then—"
 
-"Why did n't you?" said Miss Ophelia;—"you ought not to put your hand to the plough, and look back."<sup>1</sup>
+"Why did n't you?" said Miss Ophelia;—"you ought not to put your hand to the plough, and look back."1
 
-"O, well, things did n't go with me as I expected, and I got the despair of living that Solomon did.<sup>2</sup> I suppose it was a necessary incident to wisdom in us both; but, some how or other, instead of being actor and regenerator in society, I became a piece of driftwood, and have been floating and eddying about, ever since. Alfred scolds me, every time we meet; and he has the better of me, I grant,—for he really does something; his life is a logical result of his opinions, and mine is a contemptible non sequitur."<sup>3</sup>
+"O, well, things did n't go with me as I expected, and I got the despair of living that Solomon did.2 I suppose it was a necessary incident to wisdom in us both; but, some how or other, instead of being actor and regenerator in society, I became a piece of driftwood, and have been floating and eddying about, ever since. Alfred scolds me, every time we meet; and he has the better of me, I grant,—for he really does something; his life is a logical result of his opinions, and mine is a contemptible non sequitur."3
 
 "My dear cousin, can you be satisfied with such a way of spending your probation?"
 
 "Satisfied! Was I not just telling you I despised it? But, then, to come back to this point,—we were on this liberation business. I don't think my feelings about slavery are peculiar. I find many men who, in their hearts, think of it just as I do. The land groans under it; and, bad as it is for the slave, it is worse, if anything, for the master. It takes no spectacles to see that a great class of vicious, improvident, degraded people, among us, are an evil to us, as well as to themselves. The capitalist and aristocrat of England cannot feel that as we do, because they do not mingle with the class they degrade as we do. They are in our houses; they are the associates of our children, and they form their minds faster than we can; for they are a race that children always will cling to and assimilate with. If Eva, now, was not more angel than
 
-<sup>1</sup> See Luke 9.62: "No man, having put his hand to the plow, and looking back, is fit for the kingdom of heaven."
+1 See Luke 9.62: "No man, having put his hand to the plow, and looking back, is fit for the kingdom of heaven."
 
-<sup>2</sup> See Ecclesiastes 2.17: "So I hated life, because the work that is wrought under the sun was grievous unto me; for all is vanity and a striving after wind."
+2 See Ecclesiastes 2.17: "So I hated life, because the work that is wrought under the sun was grievous unto me; for all is vanity and a striving after wind."
 
-<sup>3</sup> An illogical sequence of thought; literally, "it does not follow" (Latin).
+3 An illogical sequence of thought; literally, "it does not follow" (Latin).
 
 ordinary, she would be ruined. We might as well allow the smallpox to run among them, and think our children would not take it, as to let them be uninstructed and vicious, and think our children will not be affected by that. Yet our laws positively and utterly forbid any efficient general educational system, and they do it wisely, too; for, just begin and thoroughly educate one generation, and the whole thing would be blown sky high. If we did not give them liberty, they would take it."
 
 "And what do you think will be the end of this?" said Miss Ophelia.
 
-"I don't know. One thing is certain,—that there is a mustering among the masses, the world over; and there is a dies iræ<sup>1</sup> coming on, sooner or later. The same thing is working in Europe, in England, and in this country. My mother used to tell me of a millennium that was coming, when Christ should reign, and all men should be free and happy. And she taught me, when I was a boy, to pray, 'thy kingdom come.'<sup>2</sup> Sometimes I think all this sighing, and groaning, and stirring among the dry bones foretells what she used to tell me was coming. But who may abide the day of His appearing?"<sup>3</sup>
+"I don't know. One thing is certain,—that there is a mustering among the masses, the world over; and there is a dies iræ1 coming on, sooner or later. The same thing is working in Europe, in England, and in this country. My mother used to tell me of a millennium that was coming, when Christ should reign, and all men should be free and happy. And she taught me, when I was a boy, to pray, 'thy kingdom come.'2 Sometimes I think all this sighing, and groaning, and stirring among the dry bones foretells what she used to tell me was coming. But who may abide the day of His appearing?"3
 
 "Augustine, sometimes I think you are not far from the kingdom," said Miss Ophelia, laying down her knitting, and looking anxiously at her cousin.
 
@@ -5178,11 +5183,11 @@ At table, Marie alluded to the incident of Prue. "I suppose you'll think, cousin
 
 "O, fiddlestick! as if that were any excuse! I'm unhappy, very often. I presume," she said, pensively, "that I've had greater trials
 
-<sup>1</sup> A day of wrath or reckoning (Latin).
+1 A day of wrath or reckoning (Latin).
 
-<sup>2</sup> From the Lord's Prayer (see Matthew 6.9-13).
+2 From the Lord's Prayer (see Matthew 6.9-13).
 
-<sup>3</sup> See Malachi 3.1-2.
+3 See Malachi 3.1-2.
 
 than ever she had. It's just because they are so bad. There's some of them that you cannot break in by any kind of severity. I remember father had a man that was so lazy he would run away just to get rid of work, and lie round in the swamps, stealing and doing all sorts of horrid things. That man was caught and whipped, time and again, and it never did him any good; and the last time he crawled off, though he could n't but just go, and died in the swamp. There was no sort of reason for it, for father's hands were always treated kindly."
 
@@ -5200,7 +5205,7 @@ than ever she had. It's just because they are so bad. There's some of them that 
 
 "And did he go?" said Miss Ophelia.
 
-"No. The foolish fellow tore the paper in two, and absolutely refused to leave me. I never had a braver, better fellow,—trusty and true as steel. He embraced Christianity afterwards, and became as gentle as a child. He used to oversee my place on the lake, and did it capitally, too. I lost him the first cholera<sup>1</sup> season. In fact, he laid down his life for me. For I was sick, almost to death; and when, through the panic, everybody else fled, Scipio worked for me like a giant, and actually brought me back into life again. But, poor fellow! he was taken, right after, and there was no saving him. I never felt anybody's loss more."
+"No. The foolish fellow tore the paper in two, and absolutely refused to leave me. I never had a braver, better fellow,—trusty and true as steel. He embraced Christianity afterwards, and became as gentle as a child. He used to oversee my place on the lake, and did it capitally, too. I lost him the first cholera1 season. In fact, he laid down his life for me. For I was sick, almost to death; and when, through the panic, everybody else fled, Scipio worked for me like a giant, and actually brought me back into life again. But, poor fellow! he was taken, right after, and there was no saving him. I never felt anybody's loss more."
 
 Eva had come gradually nearer and nearer to her father, as he told the story,—her small lips apart, her eyes wide and earnest with absorbing interest.
 
@@ -5220,7 +5225,7 @@ Eva took it, and smiled, though there was still a nervous twitching about the co
 
 "Come, look at the gold-fish," said St. Clare, taking her hand and stepping on to the verandah. A few moments, and merry
 
-<sup>1</sup> A bacterial disease caused by infected water or food that was a cause of frequent epidemics in the nineteenth century; Stowe had recently lost a beloved child to a cholera epidemic in Cincinnati in 1849.
+1 A bacterial disease caused by infected water or food that was a cause of frequent epidemics in the nineteenth century; Stowe had recently lost a beloved child to a cholera epidemic in Cincinnati in 1849.
 
 laughs were heard through the silken curtains, as Eva and St. Clare were pelting each other with roses, and chasing each other among the alleys of the court.
 
@@ -5280,11 +5285,11 @@ She was one of the blackest of her race; and her round, shining eyes, glittering
 
 "Augustine, what in the world have you brought that thing here for?"
 
-"For you to educate, to be sure, and train in the way she should go. I thought she was rather a funny specimen in the Jim Crow line.<sup>1</sup> Here, Topsy," he added, giving a whistle, as a man would to call the attention of a dog, "give us a song, now, and show us some of your dancing."
+"For you to educate, to be sure, and train in the way she should go. I thought she was rather a funny specimen in the Jim Crow line.1 Here, Topsy," he added, giving a whistle, as a man would to call the attention of a dog, "give us a song, now, and show us some of your dancing."
 
 The black, glassy eyes glittered with a kind of wicked drollery, and the thing struck up, in a clear shrill voice, an odd negro melody, to which she kept time with her hands and feet, spinning round, clapping her hands, knocking her knees together, in a wild, fantastic sort of time, and producing in her throat all those odd guttural sounds which distinguish the native music of her race; and finally, turning a summerset or two, and giving a prolonged closing note, as odd and unearthly as that of a steam-
 
-<sup>1</sup> See page 49, note 2 above.
+1 See page 49, note 2 above.
 
 whistle, she came suddenly down on the carpet, and stood with her hands folded, and a most sanctimonious expression of meekness and solemnity over her face, only broken by the cunning glances which she shot askance from the corners of her eyes.
 
@@ -5300,7 +5305,7 @@ St. Clare, like a mischievous fellow as he was, appeared to enjoy her astonishme
 
 "Now, Augustine, what upon earth is this for?" said Miss Ophelia. "Your house is so full of these little plagues, now, that a body can't set down their foot without treading on 'em. I get up in the morning, and find one asleep behind the door, and see one black head poking out from under the table, one lying on the door-mat,—and they are mopping and mowing and grinning between all the railings, and tumbling over the kitchen floor! What on earth did you want to bring this one for?"
 
-"For you to educate—did n't tell you? You're always preaching about educating. I thought I would make you a present of a freshcaught specimen, and let you try your hand on her, and bring her up in the way she should go."<sup>1</sup>
+"For you to educate—did n't tell you? You're always preaching about educating. I thought I would make you a present of a freshcaught specimen, and let you try your hand on her, and bring her up in the way she should go."1
 
 "I don't want her, I am sure;—I have more to do with 'em now than I want to."
 
@@ -5310,7 +5315,7 @@ St. Clare, like a mischievous fellow as he was, appeared to enjoy her astonishme
 
 St. Clare had touched the right string. Miss Ophelia's conscientiousness was ever on the alert. "But," she added, "I really did
 
-<sup>1</sup> A reference to Proverbs 23.6: "Train up a child in the way he should go: and when he is old, he will not depart from it."
+1 A reference to Proverbs 23.6: "Train up a child in the way he should go: and when he is old, he will not depart from it."
 
 n't see the need of buying this one;—there are enough now, in your house, to take all my time and skill."
 
@@ -5350,7 +5355,7 @@ Sitting down before her, she began to question her.
 
 "Never had any mother? What do you mean? Where were you born?"
 
-"Never was born!" persisted Topsy, with another grin, that looked so goblin-like, that, if Miss Ophelia had been at all nervous, she might have fancied that she had got hold of some sooty gnome from the land of Diablerie;<sup>1</sup> but Miss Ophelia was not nervous, but plain and business-like, and she said, with some sternness,
+"Never was born!" persisted Topsy, with another grin, that looked so goblin-like, that, if Miss Ophelia had been at all nervous, she might have fancied that she had got hold of some sooty gnome from the land of Diablerie;1 but Miss Ophelia was not nervous, but plain and business-like, and she said, with some sternness,
 
 "You must n't answer me in that way, child; I'm not playing with you. Tell me where you were born, and who your father and mother were."
 
@@ -5360,7 +5365,7 @@ The child was evidently sincere; and Jane, breaking into a short laugh, said,
 
 "Laws, Missis, there's heaps of 'em. Speculators buys 'em up cheap, when they's little, and gets 'em raised for market."
 
-<sup>1</sup> Gnome: in folklore, a dwarflike creature who lives underground and guards treasure hoards; Diablerie: the realm of devils, Hell.
+1 Gnome: in folklore, a dwarflike creature who lives underground and guards treasure hoards; Diablerie: the realm of devils, Hell.
 
 "How long have you lived with your master and mistress?"
 
@@ -5514,7 +5519,7 @@ Eva stood looking at Topsy.
 
 There stood the two children, representatives of the two extremes of society. The fair, high-bred child, with her golden head, her deep eyes, her spiritual, noble brow, and prince-like movements; and her black, keen, subtle, cringing, yet acute neighbor. They stood the representatives of their races. The Saxon, born of ages of cultivation, command, education, physical and moral eminence; the Afric, born of ages of oppression, submission, ignorance, toil, and vice!
 
-Something, perhaps, of such thoughts struggled through Eva's mind. But a child's thoughts are rather dim, undefined instincts; and in Eva's noble nature many such were yearning and working, for which she had no power of utterance. When Miss Ophelia expatiated<sup>1</sup> on Topsy's naughty, wicked conduct, the child looked perplexed and sorrowful, but said, sweetly,
+Something, perhaps, of such thoughts struggled through Eva's mind. But a child's thoughts are rather dim, undefined instincts; and in Eva's noble nature many such were yearning and working, for which she had no power of utterance. When Miss Ophelia expatiated1 on Topsy's naughty, wicked conduct, the child looked perplexed and sorrowful, but said, sweetly,
 
 "Poor Topsy, why need you steal? You're going to be taken good care of, now. I'm sure I'd rather give you anything of mine, than have you steal it."
 
@@ -5524,7 +5529,7 @@ But what was to be done with Topsy? Miss Ophelia found the case a puzzler; her r
 
 "I don't see," said Miss Ophelia to St. Clare, "how I'm going to manage that child, without whipping her."
 
-<sup>1</sup> I.e., spoke at length.
+1 I.e., spoke at length.
 
 "Well, whip her, then, to your heart's content; I'll give you full power to do what you like."
 
@@ -5542,7 +5547,7 @@ But what was to be done with Topsy? Miss Ophelia found the case a puzzler; her r
 
 "I'm sure it's more than I can say," said Miss Ophelia.
 
-"Or I either," said St. Clare. "The horrid cruelties and outrages that once and a while find their way into the papers,—such cases as Prue's, for example,—what do they come from? In many cases, it is a gradual hardening process on both sides,—the owner growing more and more cruel, as the servant more and more callous. Whipping and abuse are like laudanum;<sup>1</sup> you have to double the dose as the sensibilities decline. I saw this very early when I became an owner; and I resolved never to begin, because I did not know when I should stop,—and I resolved, at least, to protect my own moral nature. The consequence is, that my servants act like spoiled children; but I think that better than for us both to be brutalized together. You have talked a great deal about our responsibilities in educating, Cousin. I really wanted you to try with one child, who is a specimen of thousands among us."
+"Or I either," said St. Clare. "The horrid cruelties and outrages that once and a while find their way into the papers,—such cases as Prue's, for example,—what do they come from? In many cases, it is a gradual hardening process on both sides,—the owner growing more and more cruel, as the servant more and more callous. Whipping and abuse are like laudanum;1 you have to double the dose as the sensibilities decline. I saw this very early when I became an owner; and I resolved never to begin, because I did not know when I should stop,—and I resolved, at least, to protect my own moral nature. The consequence is, that my servants act like spoiled children; but I think that better than for us both to be brutalized together. You have talked a great deal about our responsibilities in educating, Cousin. I really wanted you to try with one child, who is a specimen of thousands among us."
 
 "It is your system makes such children," said Miss Ophelia.
 
@@ -5550,13 +5555,13 @@ But what was to be done with Topsy? Miss Ophelia found the case a puzzler; her r
 
 "Well, I can't say I thank you for the experiment. But, then, as it appears to be a duty, I shall persevere and try, and do the best I can," said Miss Ophelia; and Miss Ophelia, after this, did labor, with a commendable degree of zeal and energy, on her new
 
-<sup>1</sup> An addictive narcotic derived from opium formerly used for medicinal purposes.
+1 An addictive narcotic derived from opium formerly used for medicinal purposes.
 
 subject. She instituted regular hours and employments for her, and undertook to teach her to read and to sew.
 
 In the former art, the child was quick enough. She learned her letters as if by magic, and was very soon able to read plain reading; but the sewing was a more difficult matter. The creature was as lithe as a cat, and as active as a monkey, and the confinement of sewing was her abomination; so she broke her needles, threw them slyly out of windows, or down in chinks of the walls; she tangled, broke, and dirtied her thread, or, with a sly movement, would throw a spool away altogether. Her motions were almost as quick as those of a practised conjurer, and her command of her face quite as great; and though Miss Ophelia could not help feeling that so many accidents could not possibly happen in succession, yet she could not, without a watchfulness which would leave her no time for anything else, detect her.
 
-Topsy was soon a noted character in the establishment. Her talent for every species of drollery,<sup>1</sup> grimace, and mimicry,—for dancing, tumbling, climbing, singing, whistling, imitating every sound that hit her fancy,—seemed inexhaustible. In her playhours, she invariably had every child in the establishment at her heels, open-mouthed with admiration and wonder,—not excepting Miss Eva, who appeared to be fascinated by her wild diablerie, as a dove is sometimes charmed by a glittering serpent. Miss Ophelia was uneasy that Eva should fancy Topsy's society so much, and implored St. Clare to forbid it.
+Topsy was soon a noted character in the establishment. Her talent for every species of drollery,1 grimace, and mimicry,—for dancing, tumbling, climbing, singing, whistling, imitating every sound that hit her fancy,—seemed inexhaustible. In her playhours, she invariably had every child in the establishment at her heels, open-mouthed with admiration and wonder,—not excepting Miss Eva, who appeared to be fascinated by her wild diablerie, as a dove is sometimes charmed by a glittering serpent. Miss Ophelia was uneasy that Eva should fancy Topsy's society so much, and implored St. Clare to forbid it.
 
 "Poh! let the child alone," said St. Clare. "Topsy will do her good."
 
@@ -5570,9 +5575,9 @@ Topsy was soon a noted character in the establishment. Her talent for every spec
 
 Topsy was at first despised and contemned2 by the upper servants. They soon found reason to alter their opinion. It was very soon discovered that whoever cast an indignity on Topsy was sure to meet with some inconvenient accident shortly after;—either a pair of earrings or some cherished trinket would be missing, or an article of
 
-<sup>1</sup> I.e., humor or joking.
+1 I.e., humor or joking.
 
-<sup>2</sup> I.e., condemned.
+2 I.e., condemned.
 
 dress would be suddenly found utterly ruined, or the person would stumble accidentally into a pail of hot water, or a libation of dirty slop would unaccountably deluge them from above when in full gala dress;—and on all these occasions, when investigation was made, there was nobody found to stand sponsor for the indignity. Topsy was cited, and had up before all the domestic judicatories, time and again; but always sustained her examinations with most edifying innocence and gravity of appearance. Nobody in the world ever doubted who did the things; but not a scrap of any direct evidence could be found to establish the suppositions, and Miss Ophelia was too just to feel at liberty to proceed to any lengths without it.
 
@@ -5580,7 +5585,7 @@ The mischiefs done were always so nicely timed, also, as further to shelter the 
 
 Topsy was smart and energetic in all manual operations, learning everything that was taught her with surprising quickness. With a few lessons, she had learned to do the proprieties of Miss Ophelia's chamber in a way with which even that particular lady could find no fault. Mortal hands could not lay spread smoother, adjust pillows more accurately, sweep and dust and arrange more perfectly, than Topsy, when she chose,—but she did n't very often choose. If Miss Ophelia, after three or four days of careful and patient supervision, was so sanguine as to suppose that Topsy had at last fallen into her way, could do without overlooking, and so go off and busy herself about something else, Topsy would hold a perfect carnival of confusion, for some one or two hours. Instead of making the bed, she would amuse herself with pulling off the pillow-cases, butting her woolly head among the pillows, till it would sometimes be grotesquely ornamented with feathers sticking out in various directions; she would climb the posts, and hang head downward from the tops; flourish the sheets and spreads all over the apartment; dress the bolster up in Miss Ophelia's nightclothes, and enact various scenic performances with that,—singing and whistling, and making grimaces at herself in the looking-glass; in short, as Miss Ophelia phrased it, "raising Cain"1 generally.
 
-<sup>1</sup> Creating unrest or causing trouble—a phrase derived from the story of the brothers Cain and Abel described in Genesis 4.1-16.
+1 Creating unrest or causing trouble—a phrase derived from the story of the brothers Cain and Abel described in Genesis 4.1-16.
 
 On one occasion, Miss Ophelia found Topsy with her very best scarlet India Canton crape shawl wound round her head for a turban, going on with her rehearsals before the glass in great style,—Miss Ophelia having, with carelessness most unheard-of in her, left the key for once in her drawer.
 
@@ -5624,7 +5629,7 @@ Miss Ophelia busied herself very earnestly on Sundays, teaching Topsy the catech
 
 Topsy, who had stood like a black statue during this discussion, with hands decently folded, now, at a signal from Miss Ophelia, went on:
 
-"Our first parents, being left to the freedom of their own will, fell from the state wherein they were created."<sup>1</sup>
+"Our first parents, being left to the freedom of their own will, fell from the state wherein they were created."1
 
 Topsy's eyes twinkled, and she looked inquiringly.
 
@@ -5646,7 +5651,7 @@ St. Clare laughed.
 
 "How do you think I can do anything with the child, if you will go on so, Augustine?" she would say.
 
-<sup>1</sup> A reference to the story of Adam and Eve and, more specifically, to the catechism of the New England Primer (c. 1690): "Q: Did our first parents continue in the estate wherein they were created? A: Our first parents being left to the freedom of their own Will, fell from the state wherein they were created, by sinning against God."
+1 A reference to the story of Adam and Eve and, more specifically, to the catechism of the New England Primer (c. 1690): "Q: Did our first parents continue in the estate wherein they were created? A: Our first parents being left to the freedom of their own Will, fell from the state wherein they were created, by sinning against God."
 
 "Well, it is too bad,—I won't again; but I do like to hear the droll little image stumble over those big words!"
 
@@ -5660,7 +5665,7 @@ St. Clare laughed.
 
 In very much this way Topsy's training proceeded, for a year or two,—Miss Ophelia worrying herself, from day to day, with her, as a kind of chronic plague, to whose inflictions she became, in time, as accustomed, as persons sometimes do to the neuralgia or sick head-ache.
 
-St. Clare took the same kind of amusement in the child that a man might in the tricks of a parrot or a pointer. Topsy, whenever her sins brought her into disgrace in other quarters, always took refuge behind his chair; and St. Clare, in one way or other, would make peace for her. From him she got many a stray picayune,<sup>1</sup> which she laid out in nuts and candies, and distributed, with careless generosity, to all the children in the family; for Topsy, to do her justice, was good-natured and liberal, and only spiteful in self-defence. She is fairly introduced into our corps de ballet, <sup>2</sup> and will figure, from time to time, in her turn, with other performers.
+St. Clare took the same kind of amusement in the child that a man might in the tricks of a parrot or a pointer. Topsy, whenever her sins brought her into disgrace in other quarters, always took refuge behind his chair; and St. Clare, in one way or other, would make peace for her. From him she got many a stray picayune,1 which she laid out in nuts and candies, and distributed, with careless generosity, to all the children in the family; for Topsy, to do her justice, was good-natured and liberal, and only spiteful in self-defence. She is fairly introduced into our corps de ballet, 2 and will figure, from time to time, in her turn, with other performers.
 
 # CHAPTER XXI KENTUCK
 
@@ -5668,9 +5673,9 @@ OUR readers may not be unwilling to glance back, for a brief interval, at Uncle 
 
 It was late in the summer afternoon, and the doors and windows of the large parlor all stood open, to invite any stray breeze, that might feel in a good humor, to enter. Mr. Shelby sat in a large hall opening into the room, and running through the whole length of the house, to a balcony on either end. Leisurely tipped back, in one chair, with his heels in another, he was enjoying his after-dinner cigar. Mrs. Shelby sat in the door, busy about
 
-<sup>1</sup> Any small, trifling thing, but also a small coin equal to half a Spanish real.
+1 Any small, trifling thing, but also a small coin equal to half a Spanish real.
 
-<sup>2</sup> Dancers in a ballet company who dance as a group and have no solo parts.
+2 Dancers in a ballet company who dance as a group and have no solo parts.
 
 some fine sewing; she seemed like one who had something on her mind, which she was seeking an opportunity to introduce.
 
@@ -5696,7 +5701,7 @@ And Mr. Shelby, not knowing any other way of enforcing his ideas, raised his voi
 
 Mrs. Shelby ceased talking, with something of a sigh. The fact was, that though her husband had stated she was a woman, she had a clear, energetic, practical mind, and a force of character every way superior to that of her husband; so that it would not
 
-<sup>1</sup> I.e., collection notices.
+1 I.e., collection notices.
 
 have been so very absurd a supposition, to have allowed her capable of managing, as Mr. Shelby supposed. Her heart was set on performing her promise to Tom and Aunt Chloe, and she sighed as discouragements thickened around her.
 
@@ -5718,7 +5723,7 @@ have been so very absurd a supposition, to have allowed her capable of managing,
 
 "Degrade! would it degrade me as much as to break my faith with the helpless? No, indeed!"
 
-"Well, you are always heroic and transcendental," said Mr. Shelby, "but I think you had better think before you undertake such a piece of Quixotism."<sup>1</sup>
+"Well, you are always heroic and transcendental," said Mr. Shelby, "but I think you had better think before you undertake such a piece of Quixotism."1
 
 Here the conversation was interrupted by the appearance of Aunt Chloe, at the end of the verandah.
 
@@ -5730,7 +5735,7 @@ Here the conversation was interrupted by the appearance of Aunt Chloe, at the en
 
 Chloe had a particular fancy for calling poultry poetry,—an application of language in which she always persisted, notwith-
 
-<sup>1</sup> Idealistic and without regard to practicality; a term derived from the protagonist of the picaresque novel Don Quixote by Miguel de Cervantes (1547-1616).
+1 Idealistic and without regard to practicality; a term derived from the protagonist of the picaresque novel Don Quixote by Miguel de Cervantes (1547-1616).
 
 standing frequent corrections and advisings from the young members of the family.
 
@@ -5752,7 +5757,7 @@ Chloe stood handling them over abstractedly; it was quite evident that the chick
 
 "Well, Chloe, who do you propose that we should hire out?"
 
-"Laws! I an't a proposin nothin; only Sam he said der was one of dese yer perfectioners, <sup>1</sup> dey calls 'em, in Louisville, said he wanted a good hand at cake and pastry; and said he'd give four dollars a week to one, he did."
+"Laws! I an't a proposin nothin; only Sam he said der was one of dese yer perfectioners, 1 dey calls 'em, in Louisville, said he wanted a good hand at cake and pastry; and said he'd give four dollars a week to one, he did."
 
 ## "Well, Chloe."
 
@@ -5764,7 +5769,7 @@ Chloe stood handling them over abstractedly; it was quite evident that the chick
 
 ## "But, Chloe, do you want to leave your children?"
 
-<sup>1</sup> I.e., a confectioner or person who makes and sells candies, cakes, etc.
+1 I.e., a confectioner or person who makes and sells candies, cakes, etc.
 
 "Laws, Missis! de boys is big enough to do day's works; dey does well enough; and Sally, she'll take de baby,—she's such a peart young un, she won't take no lookin arter."
 
@@ -5794,7 +5799,7 @@ As when a bright sunbeam turns a dark cloud to silver, so Chloe's dark face brig
 
 "Don't fear, Chloe; I'll take care of the honor of the family," said Mrs. Shelby, smiling. "But when do you expect to go?"
 
-"Well, I want spectin nothin; only Sam, he's a gwine to de river with some colts, and he said I could go long with him; so I jes put my things together. If Missis was willin, I'd go with Sam tomorrow morning, if Missis would write my pass, and write me a commendation."<sup>1</sup>
+"Well, I want spectin nothin; only Sam, he's a gwine to de river with some colts, and he said I could go long with him; so I jes put my things together. If Missis was willin, I'd go with Sam tomorrow morning, if Missis would write my pass, and write me a commendation."1
 
 "Well, Chloe, I'll attend to it, if Mr. Shelby has no objections. I must speak to him."
 
@@ -5802,7 +5807,7 @@ Mrs. Shelby went up stairs, and Aunt Chloe, delighted, went out to her cabin, to
 
 "Law sakes, Mas'r George! ye did n't know I 's a gwine to Louisville to-morrow!" she said to George, as, entering her cabin,
 
-<sup>1</sup> I.e., a permission to travel and a recommendation of her character.
+1 I.e., a permission to travel and a recommendation of her character.
 
 he found her busy in sorting over her baby's clothes. "I thought I 'd jis look over sis's things, and get 'em straightened up. But I 'm gwine, Mas'r George,—gwine to have four dollars a week; and Missis is gwine to lay it all up, to buy back my old man agin!"
 
@@ -5814,17 +5819,17 @@ he found her busy in sorting over her baby's clothes. "I thought I 'd jis look o
 
 "Sartin, sartin, Mas'r George; you go 'long, and I 'll get ye up a bit o' chicken, or some sich; ye won't have many more suppers wid yer poor old aunty."
 
-# CHAPTER XXII "THE GRASS WITHERETH— THE FLOWER FADETH"<sup>1</sup>
+# CHAPTER XXII "THE GRASS WITHERETH— THE FLOWER FADETH"1
 
 LIFE passes, with us all, a day at a time; so it passed with our friend Tom, till two years were gone. Though parted from all his soul held dear, and though often yearning for what lay beyond, still was he never positively and consciously miserable; for, so well is the harp of human feeling strung, that nothing but a crash that breaks every string can wholly mar its harmony; and, on looking back to seasons which in review appear to us as those of deprivation and trial, we can remember that each hour, as it glided, brought its diversions and alleviations, so that, though not happy wholly, we were not, either, wholly miserable.
 
-Tom read, in his only literary cabinet, of one who had "learned in whatsoever state he was, therewith to be content."<sup>2</sup> It seemed to him good and reasonable doctrine, and accorded well with the settled and thoughtful habit which he had acquired from the reading of that same book.
+Tom read, in his only literary cabinet, of one who had "learned in whatsoever state he was, therewith to be content."2 It seemed to him good and reasonable doctrine, and accorded well with the settled and thoughtful habit which he had acquired from the reading of that same book.
 
 His letter homeward, as we related in the last chapter, was in due time answered by Master George, in a good, round, school-
 
-<sup>1</sup> See Isaiah 40.6-8 and 1 Peter 1.24.
+1 See Isaiah 40.6-8 and 1 Peter 1.24.
 
-<sup>2</sup> I.e., Tom reads from his only book (the Bible). See Philippians 4.11: "Not that I speak in respect of want: for I have learned, in whatever state I am, therewith to be content."
+2 I.e., Tom reads from his only book (the Bible). See Philippians 4.11: "Not that I speak in respect of want: for I have learned, in whatever state I am, therewith to be content."
 
 boy hand, that Tom said might be read "most acrost the room." It contained various refreshing items of home intelligence, with which our reader is fully acquainted: stated how Aunt Chloe had been hired out to a confectioner in Louisville, where her skill in the pastry line was gaining wonderful sums of money, all of which,Tom was informed, was to be laid up to go to make up the sum of his redemption money; Mose and Pete were thriving, and the baby was trotting all about the house, under the care of Sally and the family generally.
 
@@ -5836,21 +5841,21 @@ The friendship between Tom and Eva had grown with the child's growth. It would b
 
 Nor was Eva less zealous in kind offices, in return. Though a child, she was a beautiful reader;—a fine musical ear, a quick poetic fancy, and an instinctive sympathy with what is grand and noble, made her such a reader of the Bible as Tom had never before heard. At first, she read to please her humble friend; but soon her own earnest nature threw out its tendrils, and wound itself around the majestic book; and Eva loved it, because it woke in her strange yearnings, and strong, dim emotions, such as impassioned, imaginative children love to feel.
 
-The parts that pleased her most were the Revelations and the Prophecies,1—parts whose dim and wondrous imagery, and fervent language, impressed her the more, that she questioned vainly of their meaning;—and she and her simple friend, the old child and the young one, felt just alike about it. All that they knew was, that they spoke of a glory to be revealed,—a wondrous something yet to come, wherein their soul rejoiced, yet knew not why; and though it be not so in the physical, yet in moral science that which cannot be understood is not always profitless. For the soul awakes, a trembling stranger, between two dim eternities, the eternal past, the eternal future. The light shines only on a small space around her; therefore, she needs must yearn towards the unknown; and the voices and shadowy movings which come to her from out the cloudy pillar of inspiration have each one echoes and answers in her own expecting nature. Its mystic imagery are so many talismans and gems inscribed with unknown hieroglyphics;<sup>2</sup> she folds them in her bosom, and expects to read them when she passes beyond the veil.
+The parts that pleased her most were the Revelations and the Prophecies,1—parts whose dim and wondrous imagery, and fervent language, impressed her the more, that she questioned vainly of their meaning;—and she and her simple friend, the old child and the young one, felt just alike about it. All that they knew was, that they spoke of a glory to be revealed,—a wondrous something yet to come, wherein their soul rejoiced, yet knew not why; and though it be not so in the physical, yet in moral science that which cannot be understood is not always profitless. For the soul awakes, a trembling stranger, between two dim eternities, the eternal past, the eternal future. The light shines only on a small space around her; therefore, she needs must yearn towards the unknown; and the voices and shadowy movings which come to her from out the cloudy pillar of inspiration have each one echoes and answers in her own expecting nature. Its mystic imagery are so many talismans and gems inscribed with unknown hieroglyphics;2 she folds them in her bosom, and expects to read them when she passes beyond the veil.
 
 At this time in our story, the whole St. Clare establishment is, for the time being, removed to their villa on Lake Pontchartrain. The heats of summer had driven all who were able to leave the sultry and unhealthy city, to seek the shores of the lake, and its cool sea-breezes.
 
-St. Clare's villa was an East Indian cottage,<sup>3</sup> surrounded by light verandahs of bamboo-work, and opening on all sides into gardens and pleasure-grounds. The common sitting-room opened on to a large garden, fragrant with every picturesque plant and flower of the tropics, where winding paths ran down to the very shores of the lake, whose silvery sheet of water lay there, rising and falling in the sunbeams,—a picture never for an hour the same, yet every hour more beautiful.
+St. Clare's villa was an East Indian cottage,3 surrounded by light verandahs of bamboo-work, and opening on all sides into gardens and pleasure-grounds. The common sitting-room opened on to a large garden, fragrant with every picturesque plant and flower of the tropics, where winding paths ran down to the very shores of the lake, whose silvery sheet of water lay there, rising and falling in the sunbeams,—a picture never for an hour the same, yet every hour more beautiful.
 
-<sup>1</sup> The book of Revelation in the New Testament and the prophetic books of the Old Testament (beginning with Isaiah and ending with Malachi).
+1 The book of Revelation in the New Testament and the prophetic books of the Old Testament (beginning with Isaiah and ending with Malachi).
 
-<sup>2</sup> Talismans: objects supposed to possess special power; hieroglyphics: writing that uses pictorial images rather than letters as script and often associated in the antebellum era with hidden or sacred knowledge.
+2 Talismans: objects supposed to possess special power; hieroglyphics: writing that uses pictorial images rather than letters as script and often associated in the antebellum era with hidden or sacred knowledge.
 
-<sup>3</sup> I.e., a cottage designed with architectural ideas derived from the East Indies and suited to hot weather.
+3 I.e., a cottage designed with architectural ideas derived from the East Indies and suited to hot weather.
 
 It is now one of those intensely golden sunsets which kindles the whole horizon into one blaze of glory, and makes the water another sky. The lake lay in rosy or golden streaks, save where white-winged vessels glided hither and thither, like so many spirits, and little golden stars twinkled through the glow, and looked down at themselves as they trembled in the water.
 
-Tom and Eva were seated on a little mossy seat, in an arbor, at the foot of the garden. It was Sunday evening, and Eva's Bible lay open on her knee. She read,—"And I saw a sea of glass, mingled with fire."<sup>1</sup>
+Tom and Eva were seated on a little mossy seat, in an arbor, at the foot of the garden. It was Sunday evening, and Eva's Bible lay open on her knee. She read,—"And I saw a sea of glass, mingled with fire."1
 
 "Tom," said Eva, suddenly stopping, and pointing to the lake, "there 't is."
 
@@ -5866,7 +5871,7 @@ I'd fly away to Canaan's shore;
 
 Bright angels should convey me home,
 
-## To the new Jerusalem."<sup>2</sup>
+## To the new Jerusalem."2
 
 "Where do you suppose new Jerusalem is, Uncle Tom?" said Eva.
 
@@ -5882,9 +5887,9 @@ Tom sung the words of a well-known Methodist hymn,
 
 Tom had no doubt of it at all; it did not surprise him in the least. If Eva had told him she had been to heaven, he would have thought it entirely probable.
 
-<sup>1</sup> See Revelation 15.2. For Eva's exclamation about the "great gates of pearl" below, see Revelation 21.21.
+1 See Revelation 15.2. For Eva's exclamation about the "great gates of pearl" below, see Revelation 21.21.
 
-<sup>2</sup> Tom sings from "The Wings of Morning" and Eva, below, sings from "A World of Spirits Bright."
+2 Tom sings from "The Wings of Morning" and Eva, below, sings from "A World of Spirits Bright."
 
 "They come to me sometimes in my sleep, those spirits;" and Eva's eyes grew dreamy, and she hummed, in a low voice,
 
@@ -5896,7 +5901,7 @@ The child rose, and pointed her little hand to the sky; the glow of evening lit 
 
 "I 'm going there," she said, "to the spirits bright, Tom; I'm going, before long."
 
-The faithful old heart felt a sudden thrust; and Tom thought how often he had noticed, within six months, that Eva's little hands had grown thinner, and her skin more transparent, and her breath shorter; and how, when she ran or played in the garden, as she once could for hours, she became soon so tired and languid. He had heard Miss Ophelia speak often of a cough, that all her medicaments could not cure;<sup>1</sup> and even now that fervent cheek and little hand were burning with hectic fever; and yet the thought that Eva's words suggested had never come to him till now.
+The faithful old heart felt a sudden thrust; and Tom thought how often he had noticed, within six months, that Eva's little hands had grown thinner, and her skin more transparent, and her breath shorter; and how, when she ran or played in the garden, as she once could for hours, she became soon so tired and languid. He had heard Miss Ophelia speak often of a cough, that all her medicaments could not cure;1 and even now that fervent cheek and little hand were burning with hectic fever; and yet the thought that Eva's words suggested had never come to him till now.
 
 Has there ever been a child like Eva? Yes, there have been; but their names are always on grave-stones, and their sweet smiles, their heavenly eyes, their singular words and ways, are among the buried treasures of yearning hearts. In how many families do you hear the legend that all the goodness and graces of the living are nothing to the peculiar charms of one who is not. It is as if heaven had an especial band of angels, whose office it was to sojourn for a season here, and endear to them the wayward human heart, that they might bear it upward with them in their homeward flight. When you see that deep, spiritual light in the eye,—when the little soul reveals itself in words sweeter and wiser than the ordinary words of children,—hope not to retain that child; for the seal of heaven is on it, and the light of immortality looks out from its eyes.
 
@@ -5904,7 +5909,7 @@ Even so, beloved Eva! fair star of thy dwelling! Thou art passing away; but they
 
 The colloquy between Tom and Eva was interrupted by a hasty call from Miss Ophelia.
 
-<sup>1</sup> I.e., tuberculosis, commonly known as consumption because of its wasting effects on the body.
+1 I.e., tuberculosis, commonly known as consumption because of its wasting effects on the body.
 
 "Eva—Eva!—why, child, the dew is falling; you must n't be out there!"
 
@@ -5916,7 +5921,7 @@ She had noted the slight, dry cough, the daily brightening cheek; nor could the 
 
 She tried to communicate her fears to St. Clare; but he threw back her suggestions with a restless petulance, unlike his usual careless good-humor.
 
-"Don't be croaking,<sup>1</sup> Cousin,—I hate it!" he would say; "don't you see that the child is only growing. Children always lose strength when they grow fast."
+"Don't be croaking,1 Cousin,—I hate it!" he would say; "don't you see that the child is only growing. Children always lose strength when they grow fast."
 
 ## "But she has that cough!"
 
@@ -5930,7 +5935,7 @@ So St. Clare said; but he grew nervous and restless. He watched Eva feverishly d
 
 If it must be told, the thing that struck a deeper pang to his heart than anything else was the daily increasing maturity of the child's mind and feelings. While still retaining all a child's fanciful graces, yet she often dropped, unconsciously, words of such a reach of thought, and strange unworldly wisdom, that they seemed to be an inspiration. At such times, St. Clare would feel
 
-<sup>1</sup> I.e., don't be so dismal.
+1 I.e., don't be so dismal.
 
 a sudden thrill, and clasp her in his arms, as if that fond clasp could save her; and his heart rose up with wild determination to keep her, never to let her go.
 
@@ -5996,9 +6001,9 @@ No sight could be more singular and beautiful than that of these twin brothers. 
 
 They used to saunter, arm in arm, up and down the alleys and walks of the garden. Augustine, with his blue eyes and golden hair, his ethereally flexible form and vivacious features; and Alfred, dark-eyed, with haughty Roman profile, firmly-knit limbs, and decided bearing. They were always abusing each other's opinions and practices, and yet never a whit the less absorbed in each other's society; in fact, the very contrariety seemed to unite them, like the attraction between opposite poles of the magnet.
 
-Henrique, the eldest son of Alfred, was a noble, dark-eyed, princely boy, full of vivacity and spirit; and, from the first moment of introduction, seemed to be perfectly fascinated by the spirituelle<sup>1</sup> graces of his cousin Evangeline.
+Henrique, the eldest son of Alfred, was a noble, dark-eyed, princely boy, full of vivacity and spirit; and, from the first moment of introduction, seemed to be perfectly fascinated by the spirituelle1 graces of his cousin Evangeline.
 
-Eva had a little pet pony, of a snowy whiteness. It was easy as a cradle, and as gentle as its little mistress; and this pony was now brought up to the back verandah by Tom, while a little mulatto boy of about thirteen led along a small black Arabian,<sup>2</sup> which had just been imported, at a great expense, for Henrique.
+Eva had a little pet pony, of a snowy whiteness. It was easy as a cradle, and as gentle as its little mistress; and this pony was now brought up to the back verandah by Tom, while a little mulatto boy of about thirteen led along a small black Arabian,2 which had just been imported, at a great expense, for Henrique.
 
 Henrique had a boy's pride in his new possession; and, as he advanced and took the reins out of the hands of his little groom, he looked carefully over him, and his brow darkened.
 
@@ -6024,9 +6029,9 @@ Henrique struck him across the face with his riding-whip, and, seizing one of hi
 
 "How could you be so cruel and wicked to poor Dodo?" said Eva.
 
-<sup>1</sup> I.e., refined or graceful; light and airy movements.
+1 I.e., refined or graceful; light and airy movements.
 
-<sup>2</sup> A breed of horse originating in North Africa.
+2 A breed of horse originating in North Africa.
 
 "Cruel,—wicked!" said the boy, with unaffected surprise. "What do you mean, dear Eva?"
 
@@ -6080,23 +6085,23 @@ Augustine's cheek flushed; but he only observed, with his usual sarcastic carele
 
 "And this by way of teaching Henrique the first verse of a republican's catechism, 'All men are born free and equal!'"
 
-"Poh!" said Alfred; "one of Tom Jefferson's pieces of French sentiment and humbug.<sup>1</sup> It's perfectly ridiculous to have that going the rounds among us, to this day."
+"Poh!" said Alfred; "one of Tom Jefferson's pieces of French sentiment and humbug.1 It's perfectly ridiculous to have that going the rounds among us, to this day."
 
 "I think it is," said St. Clare, significantly.
 
-"Because," said Alfred, "we can see plainly enough that all men are not born free, nor born equal; they are born anything else. For my part, I think half this republican talk sheer humbug. It is the educated, the intelligent, the wealthy, the refined, who ought to have equal rights, and not the canaille"<sup>2</sup>
+"Because," said Alfred, "we can see plainly enough that all men are not born free, nor born equal; they are born anything else. For my part, I think half this republican talk sheer humbug. It is the educated, the intelligent, the wealthy, the refined, who ought to have equal rights, and not the canaille"2
 
-"If you can keep the canaille of that opinion," said Augustine. "They took their turn once, in France."<sup>3</sup>
+"If you can keep the canaille of that opinion," said Augustine. "They took their turn once, in France."3
 
 "Of course, they must be kept down, consistently, steadily, as I should," said Alfred, setting his foot hard down, as if he were standing on somebody.
 
-<sup>1</sup> French Enlightenment philosophers, like Charles de Montesquieu (1689-1755), criticized monarchial power and advocated separate judicial, legislative, and executive branches of government—an important influence on the Founding Fathers' view of natural rights and constitutional government.
+1 French Enlightenment philosophers, like Charles de Montesquieu (1689-1755), criticized monarchial power and advocated separate judicial, legislative, and executive branches of government—an important influence on the Founding Fathers' view of natural rights and constitutional government.
 
-<sup>2</sup> Canaille: the rabble; the masses (French, from the Italian for "pack of dogs").
+2 Canaille: the rabble; the masses (French, from the Italian for "pack of dogs").
 
-<sup>3</sup> An allusion to the French Revolution (1789-94) in which the "canaille" overthrew the monarchy of Louis XVI; below, Augustine also refers to the 1804 slave revolt and revolution in Haiti, a French colony, led by Toussaint L'Ouverture (1743-1803).
+3 An allusion to the French Revolution (1789-94) in which the "canaille" overthrew the monarchy of Louis XVI; below, Augustine also refers to the 1804 slave revolt and revolution in Haiti, a French colony, led by Toussaint L'Ouverture (1743-1803).
 
-"It makes a terrible slip when they get up," said Augustine,— "in St. Domingo,<sup>1</sup> for instance."
+"It makes a terrible slip when they get up," said Augustine,— "in St. Domingo,1 for instance."
 
 "Poh!" said Alfred, "we'll take care of that, in this country. We must set our face against all this educating, elevating talk, that is getting about now; the lower class must not be educated."
 
@@ -6108,25 +6113,25 @@ Augustine's cheek flushed; but he only observed, with his usual sarcastic carele
 
 "Well," said Alfred, "we will see. I'm not afraid to sit on the escape-valve, as long as the boilers are strong, and the machinery works well."
 
-"The nobles in Louis XVI's time thought just so; and Austria and Pius IX<sup>2</sup> think so now; and, some pleasant morning, you may all be caught up to meet each other in the air, when the boilers burst."
+"The nobles in Louis XVI's time thought just so; and Austria and Pius IX2 think so now; and, some pleasant morning, you may all be caught up to meet each other in the air, when the boilers burst."
 
-"Dies declarabit,"<sup>3</sup> said Alfred, laughing.
+"Dies declarabit,"3 said Alfred, laughing.
 
 "I tell you," said Augustine, "if there is anything that is revealed with the strength of a divine law in our times, it is that the masses are to rise, and the under class become the upper one."
 
-"That's one of your red republican humbugs, Augustine! Why did n't you ever take to the stump;—you'd make a famous stump orator!<sup>4</sup> Well, I hope I shall be dead before this millennium of your greasy masses comes on."
+"That's one of your red republican humbugs, Augustine! Why did n't you ever take to the stump;—you'd make a famous stump orator!4 Well, I hope I shall be dead before this millennium of your greasy masses comes on."
 
 "Greasy or not greasy, they will govern you, when their time comes," said Augustine; "and they will be just such rulers as you make them. The French noblesse chose to have the people 'sans
 
-<sup>1</sup> I.e., Haiti.
+1 I.e., Haiti.
 
-<sup>2</sup> Louis XVI (1754-93) was guillotined during the French Revolution. In 1848, the Austrian empire was convulsed by rebellions in Vienna, Italy, Bohemia, and Hungary, and Pope Pius IX (1792-1878) was driven out of Rome by Italian nationalists.
+2 Louis XVI (1754-93) was guillotined during the French Revolution. In 1848, the Austrian empire was convulsed by rebellions in Vienna, Italy, Bohemia, and Hungary, and Pope Pius IX (1792-1878) was driven out of Rome by Italian nationalists.
 
-<sup>3</sup> Literally, "the day will declare" (Latin); time will tell.
+3 Literally, "the day will declare" (Latin); time will tell.
 
-<sup>4</sup> I.e., a political speechmaker (George Caleb Bingham's Stump Speaking, or, the County Canvass [1853-54] is a famous painting that depicts an orator on a stump addressing a crowd).
+4 I.e., a political speechmaker (George Caleb Bingham's Stump Speaking, or, the County Canvass [1853-54] is a famous painting that depicts an orator on a stump addressing a crowd).
 
-culottes,'<sup>1</sup> and they had 'sans culotte' governors to their hearts' content. The people of Hayti—"
+culottes,'1 and they had 'sans culotte' governors to their hearts' content. The people of Hayti—"
 
 "O, come, Augustine! as if we had n't had enough of that abominable, contemptible Hayti! The Haytiens were not Anglo Saxons; if they had been, there would have been another story. The Anglo Saxon is the dominant race of the world, and is to be so."
 
@@ -6134,9 +6139,9 @@ culottes,'<sup>1</sup> and they had 'sans culotte' governors to their hearts' co
 
 ## "Stuff!—nonsense!"
 
-"Well," said Augustine, "there goes an old saying to this effect, 'As it was in the days of Noah, so shall it be;—they ate, they drank, they planted, they builded, and knew not till the flood came and took them.'"<sup>2</sup>
+"Well," said Augustine, "there goes an old saying to this effect, 'As it was in the days of Noah, so shall it be;—they ate, they drank, they planted, they builded, and knew not till the flood came and took them.'"2
 
-"On the whole, Augustine, I think your talents might do for a circuit rider,"<sup>3</sup> said Alfred, laughing. "Never you fear for us; possession is our nine points. We've got the power. This subject race," said he, stamping firmly, "is down, and shall stay down! We have energy enough to manage our own powder."<sup>4</sup>
+"On the whole, Augustine, I think your talents might do for a circuit rider,"3 said Alfred, laughing. "Never you fear for us; possession is our nine points. We've got the power. This subject race," said he, stamping firmly, "is down, and shall stay down! We have energy enough to manage our own powder."4
 
 "Sons trained like your Henrique will be grand guardians of your powder-magazines," said Augustine,—"so cool and self-possessed! The proverb says, 'they that cannot govern themselves cannot govern others.'"
 
@@ -6165,11 +6170,11 @@ The two brothers ran up the verandah steps, and were soon seated at a light bamb
 
 "Why, elevate your own servants, for a specimen," said Alfred, with a half-scornful smile.
 
-"You might as well set Mount Ætna<sup>1</sup> on them flat, and tell them to stand up under it, as tell me to elevate my servants under all the superincumbent mass of society upon them. One man can do nothing, against the whole action of a community. Education, to do anything, must be a state education; or there must be enough agreed in it to make a current."
+"You might as well set Mount Ætna1 on them flat, and tell them to stand up under it, as tell me to elevate my servants under all the superincumbent mass of society upon them. One man can do nothing, against the whole action of a community. Education, to do anything, must be a state education; or there must be enough agreed in it to make a current."
 
 "You take the first throw," said Alfred; and the brothers were soon lost in the game, and heard no more till the scraping of horses' feet was heard under the verandah.
 
-<sup>1</sup> An active volcanic mountain in Sicily.
+1 An active volcanic mountain in Sicily.
 
 "There come the children," said Augustine, rising. "Look here, Alf! Did you ever see anything so beautiful?" And, in truth, it was a beautiful sight. Henrique, with his bold brow, and dark, glossy curls, and glowing cheek, was laughing gayly, as he bent towards his fair cousin, as they came on. She was dressed in a blue riding-dress, with a cap of the same color. Exercise had given a brilliant hue to her cheeks, and heightened the effect of her singularly transparent skin, and golden hair.
 
@@ -6209,7 +6214,7 @@ Eva soon found herself much better. Her father and uncle resumed their game, and
 
 ## "How odd!"
 
-"Don't the Bible say we must love everybody?"<sup>1</sup>
+"Don't the Bible say we must love everybody?"1
 
 "O, the Bible! To be sure, it says a great many such things; but, then, nobody ever thinks of doing them,—you know, Eva, nobody does."
 
@@ -6229,7 +6234,7 @@ But, for a day or two, Eva was so unwell as to be confined to the house; and the
 
 Marie St. Clare had taken no notice of the child's gradually decaying health and strength, because she was completely absorbed in studying out two or three new forms of disease to which she believed she herself was a victim. It was the first prin-
 
-<sup>1</sup> See Matthew 5.43-44: "You have heard that it has been said,You shall love your neighbor, and hate your enemy. But I say to you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which spitefully use you, and persecute you."
+1 See Matthew 5.43-44: "You have heard that it has been said,You shall love your neighbor, and hate your enemy. But I say to you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which spitefully use you, and persecute you."
 
 ciple of Marie's belief that nobody ever was or could be so great a sufferer as herself; and, therefore, she always repelled quite indignantly any suggestion that any one around her could be sick. She was always sure, in such a case, that it was nothing but laziness, or want of energy; and that, if they had had the suffering she had, they would soon know the difference.
 
@@ -6393,9 +6398,9 @@ And, in a moment after, Miss Ophelia, in high indignation, came dragging the cul
 
 "I don't doubt it," said St. Clare. "Tell me of the lovely rule of woman! I never saw above a dozen women that would n't half kill a horse, or a servant, either, if they had their own way with them!—let alone a man."
 
-"There is no use in this shilly-shally<sup>1</sup> way of yours, St. Clare!" said Marie. "Cousin is a woman of sense, and she sees it now, as plain as I do."
+"There is no use in this shilly-shally1 way of yours, St. Clare!" said Marie. "Cousin is a woman of sense, and she sees it now, as plain as I do."
 
-<sup>1</sup> I.e., to be indecisive.
+1 I.e., to be indecisive.
 
 Miss Ophelia had just the capability of indignation that belongs to the thorough-paced housekeeper, and this had been pretty actively roused by the artifice and wastefulness of the child; in fact, many of my lady readers must own that they should have felt just so in her circumstances; but Marie's words went beyond her, and she felt less heat.
 
@@ -6449,17 +6454,17 @@ Topsy gave the short, blunt laugh that was her common mode of expressing incredu
 
 "No; she can't bar me, 'cause I'm a nigger!—she 'd 's soon have a toad touch her! There can't nobody love niggers, and niggers can't do nothin'! I don't care," said Topsy, beginning to whistle.
 
-"O, Topsy, poor child, I love you!" said Eva, with a sudden burst of feeling, and laying her little thin, white hand on Topsy's shoulder; "I love you, because you have n't had any father, or mother, or friends;—because you've been a poor, abused child! I love you, and I want you to be good. I am very unwell,Topsy, and I think I shan't live a great while; and it really grieves me, to have you be so naughty. I wish you would try to be good, for my sake;—it 's only a little while I shall be with you."<sup>1</sup>
+"O, Topsy, poor child, I love you!" said Eva, with a sudden burst of feeling, and laying her little thin, white hand on Topsy's shoulder; "I love you, because you have n't had any father, or mother, or friends;—because you've been a poor, abused child! I love you, and I want you to be good. I am very unwell,Topsy, and I think I shan't live a great while; and it really grieves me, to have you be so naughty. I wish you would try to be good, for my sake;—it 's only a little while I shall be with you."1
 
 The round, keen eyes of the black child were overcast with tears;—large, bright drops rolled heavily down, one by one, and fell on the little white hand. Yes, in that moment, a ray of real belief, a ray of heavenly love, had penetrated the darkness of her heathen soul! She laid her head down between her knees, and wept and sobbed,—while the beautiful child, bending over her, looked like the picture of some bright angel stooping to reclaim a sinner.
 
-<sup>1</sup> See John 7.33: "Then said Jesus to them,Yet a little while am I with you, and then I go to him that sent me."
+1 See John 7.33: "Then said Jesus to them,Yet a little while am I with you, and then I go to him that sent me."
 
 "Poor Topsy!" said Eva, "don't you know that Jesus loves all alike? He is just as willing to love you, as me. He loves you just as I do,—only more, because he is better. He will help you to be good; and you can go to Heaven at last, and be an angel forever, just as much as if you were white. Only think of it, Topsy!—you can be one of those spirits bright, Uncle Tom sings about."
 
 "O, dear Miss Eva, dear Miss Eva!" said the child; "I will try, I will try; I never did care nothin' about it before."
 
-St. Clare, at this instant, dropped the curtain. "It puts me in mind of mother," he said to Miss Ophelia. "It is true what she told me; if we want to give sight to the blind, we must be willing to do as Christ did,—call them to us, and put our hands on them."<sup>1</sup>
+St. Clare, at this instant, dropped the curtain. "It puts me in mind of mother," he said to Miss Ophelia. "It is true what she told me; if we want to give sight to the blind, we must be willing to do as Christ did,—call them to us, and put our hands on them."1
 
 "I 've always had a prejudice against negroes," said Miss Ophelia, "and it 's a fact, I never could bear to have that child touch me; but, I don't think she knew it."
 
@@ -6475,21 +6480,21 @@ St. Clare, at this instant, dropped the curtain. "It puts me in mind of mother,"
 
 # CHAPTER XXVI DEATH
 
-Weep not for those whom the veil of the tomb, In life's early morning, hath hid from our eyes.<sup>2</sup>
+Weep not for those whom the veil of the tomb, In life's early morning, hath hid from our eyes.2
 
 EVA'S bed-room was a spacious apartment, which, like all the other rooms in the house, opened on to the broad verandah. The
 
-<sup>1</sup> See Matthew 19.13-15, where Jesus lays his hands on little children.
+1 See Matthew 19.13-15, where Jesus lays his hands on little children.
 
-<sup>2</sup> From the popular Irish poet Thomas Moore's (1779-1852) "Weep Not for Those" (1816).
+2 From the popular Irish poet Thomas Moore's (1779-1852) "Weep Not for Those" (1816).
 
 room communicated, on one side, with her father and mother's apartment; on the other, with that appropriated to Miss Ophelia. St. Clare had gratified his own eye and taste, in furnishing this room in a style that had a peculiar keeping with the character of her for whom it was intended. The windows were hung with curtains of rose-colored and white muslin, the floor was spread with a matting which had been ordered in Paris, to a pattern of his own device, having round it a border of rose-buds and leaves, and a centre-piece with full-blown roses. The bedstead, chairs, and lounges, were of bamboo, wrought in peculiarly graceful and fanciful patterns. Over the head of the bed was an alabaster bracket, on which a beautiful sculptured angel stood, with drooping wings, holding out a crown of myrtle-leaves. From this depended, over the bed, light curtains of rose-colored gauze, striped with silver, supplying that protection from mosquitos which is an indispensable addition to all sleeping accommodation in that climate. The graceful bamboo lounges were amply supplied with cushions of rose-colored damask, while over them, depending from the hands of sculptured figures, were gauze curtains similar to those of the bed.
 
-A light, fanciful bamboo table stood in the middle of the room, where a Parian vase,<sup>1</sup> wrought in the shape of a white lily, with its buds, stood, ever filled with flowers. On this table lay Eva's books and little trinkets, with an elegantly wrought alabaster writing-stand, which her father had supplied to her when he saw her trying to improve herself in writing. There was a fireplace in the room, and on the marble mantle above stood a beautifully wrought statuette of Jesus receiving little children, and on either side marble vases, for which it was Tom's pride and delight to offer bouquets every morning. Two or three exquisite paintings of children, in various attitudes, embellished the wall. In short, the eye could turn nowhere without meeting images of childhood, of beauty, and of peace. Those little eyes never opened, in the morning light, without falling on something which suggested to the heart soothing and beautiful thoughts.
+A light, fanciful bamboo table stood in the middle of the room, where a Parian vase,1 wrought in the shape of a white lily, with its buds, stood, ever filled with flowers. On this table lay Eva's books and little trinkets, with an elegantly wrought alabaster writing-stand, which her father had supplied to her when he saw her trying to improve herself in writing. There was a fireplace in the room, and on the marble mantle above stood a beautifully wrought statuette of Jesus receiving little children, and on either side marble vases, for which it was Tom's pride and delight to offer bouquets every morning. Two or three exquisite paintings of children, in various attitudes, embellished the wall. In short, the eye could turn nowhere without meeting images of childhood, of beauty, and of peace. Those little eyes never opened, in the morning light, without falling on something which suggested to the heart soothing and beautiful thoughts.
 
 The deceitful strength which had buoyed Eva up for a little while was fast passing away; seldom and more seldom her light footstep was heard in the verandah, and oftener and oftener she was found reclined on a little lounge by the open window, her large, deep eyes fixed on the rising and falling waters of the lake.
 
-<sup>1</sup> A common vase of white porcelain made to resemble marble from Paros, a Greek island.
+1 A common vase of white porcelain made to resemble marble from Paros, a Greek island.
 
 It was towards the middle of the afternoon, as she was so reclining,—her Bible half open, her little transparent fingers lying listlessly between the leaves,—suddenly she heard her mother's voice, in sharp tones, in the verandah.
 
@@ -6507,7 +6512,7 @@ In a moment, Eva was off from her lounge, and in the verandah.
 
 "I can't have too many," said Eva. "Topsy, do bring them here."
 
-Topsy, who had stood sullenly, holding down her head, now came up and offered her flowers. She did it with a look of hesitation and bashfulness, quite unlike the eldrich<sup>1</sup> boldness and brightness which was usual with her.
+Topsy, who had stood sullenly, holding down her head, now came up and offered her flowers. She did it with a look of hesitation and bashfulness, quite unlike the eldrich1 boldness and brightness which was usual with her.
 
 "It's a beautiful bouquet!" said Eva, looking at it.
 
@@ -6517,7 +6522,7 @@ Topsy looked pleased, as Eva said,—"Topsy, you arrange flowers very prettily. 
 
 "Well, that 's odd!" said Marie. "What in the world do you want that for?"
 
-"Never mind, mamma; you 'd as lief<sup>2</sup> as not Topsy should do it,—had you not?"
+"Never mind, mamma; you 'd as lief2 as not Topsy should do it,—had you not?"
 
 "Of course, anything you please, dear! Topsy, you hear your young mistress;—see that you mind."
 
@@ -6527,9 +6532,9 @@ Topsy made a short courtesy, and looked down; and, as she turned away, Eva saw a
 
 "O, nonsense! it's only because she likes to do mischief. She
 
-<sup>1 &</sup>quot;Elritch": odd, spooky, or eerie.
+1 &quot;Elritch": odd, spooky, or eerie.
 
-<sup>2</sup> Gladly or willingly.
+2 Gladly or willingly.
 
 knows she must n't pick flowers,—so she does it; that 's all there is to it. But, if you fancy to have her pluck them, so be it."
 
@@ -6651,7 +6656,7 @@ At last, all were gone but Tom and Mammy.
 
 "O Miss Eva, don't see how I can live without ye, no how!" said the faithful creature. "'Pears like it 's just taking everything off the place to oncet!"1 and Mammy gave way to a passion of grief.
 
-<sup>1</sup> At once; immediately.
+1 At once; immediately.
 
 Miss Ophelia pushed her and Tom gently from the apartment, and thought they were all gone; but, as she turned, Topsy was standing there.
 
@@ -6677,7 +6682,7 @@ He gave a sudden start and shiver; but made no answer.
 
 "Dear papa!" said Eva.
 
-"I cannot," said St. Clare, rising, "I cannot have it so! The Almighty hath dealt very bitterly with me!"<sup>1</sup> and St. Clare pronounced these words with a bitter emphasis, indeed.
+"I cannot," said St. Clare, rising, "I cannot have it so! The Almighty hath dealt very bitterly with me!"1 and St. Clare pronounced these words with a bitter emphasis, indeed.
 
 "Augustine! has not God a right to do what he will with his own?" said Miss Ophelia.
 
@@ -6689,7 +6694,7 @@ He gave a sudden start and shiver; but made no answer.
 
 Eva soon lay like a wearied dove in her father's arms; and he,
 
-<sup>1</sup> See Ruth 1.20: "She said to them, 'Do not call me Naomi; call me Mara, for the Almighty has dealt very bitterly with me.'"
+1 See Ruth 1.20: "She said to them, 'Do not call me Naomi; call me Mara, for the Almighty has dealt very bitterly with me.'"
 
 bending over her, soothed her by every tender word he could think of.
 
@@ -6717,11 +6722,11 @@ Marie rose and threw herself out of the apartment into her own, when she fell in
 
 St. Clare said no more. It was a feeling which he had seen before in his mother; but no chord within vibrated to it.
 
-Eva, after this, declined rapidly; there was no more any doubt of the event; the fondest hope could not be blinded. Her beautiful room was avowedly a sick room; and Miss Ophelia day and night performed the duties of a nurse,—and never did her friends appreciate her value more than in that capacity. With so welltrained a hand and eye, such perfect adroitness and practice in every art which could promote neatness and comfort, and keep out of sight every disagreeable incident of sickness,—with such a perfect sense of time, such a clear, untroubled head, such exact accuracy in remembering every prescription and direction of the doctors,—she was everything to him. They who had shrugged their shoulders at her little peculiarities and setnesses,<sup>1</sup> so unlike the careless freedom of southern manners, acknowledged that now she was the exact person that was wanted.
+Eva, after this, declined rapidly; there was no more any doubt of the event; the fondest hope could not be blinded. Her beautiful room was avowedly a sick room; and Miss Ophelia day and night performed the duties of a nurse,—and never did her friends appreciate her value more than in that capacity. With so welltrained a hand and eye, such perfect adroitness and practice in every art which could promote neatness and comfort, and keep out of sight every disagreeable incident of sickness,—with such a perfect sense of time, such a clear, untroubled head, such exact accuracy in remembering every prescription and direction of the doctors,—she was everything to him. They who had shrugged their shoulders at her little peculiarities and setnesses,1 so unlike the careless freedom of southern manners, acknowledged that now she was the exact person that was wanted.
 
 Uncle Tom was much in Eva's room. The child suffered much from nervous restlessness, and it was a relief to her to be carried;
 
-<sup>1</sup> I.e., strange and inflexible ideas.
+1 I.e., strange and inflexible ideas.
 
 and it was Tom's greatest delight to carry her little frail form in his arms, resting on a pillow, now up and down her room, now out into the verandah; and when the fresh sea-breezes blew from the lake,—and the child felt freshest in the morning,—he would sometimes walk with her under the orange-trees in the garden, or, sitting down in some of their old seats, sing to her their favorite old hymns.
 
@@ -6743,13 +6748,13 @@ Poor Mammy's heart yearned towards her darling; but she found no opportunity, ni
 
 "You talk like a man, St. Clare,—just as if a mother could be relieved of the care of a child in that state; but, then, it 's all alike,—no one ever knows what I feel! I can't throw things off, as you do."
 
-St. Clare smiled. You must excuse him, he could n't help it, for St. Clare could smile yet. For so bright and placid was the farewell voyage of the little spirit,—by such sweet and fragrant breezes was the small bark<sup>1</sup> borne towards the heavenly shores, that it was impossible to realize that it was death that was approaching. The child felt no pain,—only a tranquil, soft weakness, daily and almost insensibly increasing; and she was so beautiful, so loving, so trustful, so happy, that one could not resist the soothing influence of that air of innocence and peace which seemed to breathe around her. St. Clare found a strange calm coming over him. It was not hope,—that was impossible; it was not resignation; it was only a calm resting in the present, which seemed so beautiful that he wished to think of no future. It was like that hush of spirit which we feel amid the bright, mild woods of autumn, when the bright hectic flush is on the trees, and the last lingering flowers by the brook; and we joy in it all the more, because we know that soon it will all pass away.
+St. Clare smiled. You must excuse him, he could n't help it, for St. Clare could smile yet. For so bright and placid was the farewell voyage of the little spirit,—by such sweet and fragrant breezes was the small bark1 borne towards the heavenly shores, that it was impossible to realize that it was death that was approaching. The child felt no pain,—only a tranquil, soft weakness, daily and almost insensibly increasing; and she was so beautiful, so loving, so trustful, so happy, that one could not resist the soothing influence of that air of innocence and peace which seemed to breathe around her. St. Clare found a strange calm coming over him. It was not hope,—that was impossible; it was not resignation; it was only a calm resting in the present, which seemed so beautiful that he wished to think of no future. It was like that hush of spirit which we feel amid the bright, mild woods of autumn, when the bright hectic flush is on the trees, and the last lingering flowers by the brook; and we joy in it all the more, because we know that soon it will all pass away.
 
-The friend who knew most of Eva's own imaginings and foreshadowings was her faithful bearer, Tom. To him she said what she would not disturb her father by saying. To him she imparted those mysterious intimations which the soul feels, as the cords begin to unbind, ere it leaves its clay<sup>2</sup> forever.
+The friend who knew most of Eva's own imaginings and foreshadowings was her faithful bearer, Tom. To him she said what she would not disturb her father by saying. To him she imparted those mysterious intimations which the soul feels, as the cords begin to unbind, ere it leaves its clay2 forever.
 
 Tom, at last, would not sleep in his room, but lay all night in the outer verandah, ready to rouse at every call.
 
-"Uncle Tom, what alive<sup>3</sup> have you taken to sleeping anywhere and everywhere, like a dog, for?" said Miss Ophelia. "I thought you was one of the orderly sort, that liked to lie in bed in a Christian way."
+"Uncle Tom, what alive3 have you taken to sleeping anywhere and everywhere, like a dog, for?" said Miss Ophelia. "I thought you was one of the orderly sort, that liked to lie in bed in a Christian way."
 
 "I do, Miss Feely," said Tom, mysteriously. "I do, but now—" "Well, what now?"
 
@@ -6757,23 +6762,23 @@ Tom, at last, would not sleep in his room, but lay all night in the outer verand
 
 ## "What do you mean, Tom?"
 
-"You know it says in Scripture, 'At midnight there was a great cry made. Behold, the bridegroom cometh.'<sup>4</sup> That's what I'm spectin now, every night, Miss Feely,—and I could n't sleep out o' hearin, no ways."
+"You know it says in Scripture, 'At midnight there was a great cry made. Behold, the bridegroom cometh.'4 That's what I'm spectin now, every night, Miss Feely,—and I could n't sleep out o' hearin, no ways."
 
 ## "Why, Uncle Tom, what makes you think so?"
 
-<sup>1</sup> I.e., boat.
+1 I.e., boat.
 
-<sup>2</sup> I.e., the body.
+2 I.e., the body.
 
-<sup>3</sup> I.e., why on earth.
+3 I.e., why on earth.
 
-<sup>4</sup> See Matthew 25.1-12: "Then shall the kingdom of heaven be likened unto ten virgins, which took their lamps, and went forth to meet the bridegroom."
+4 See Matthew 25.1-12: "Then shall the kingdom of heaven be likened unto ten virgins, which took their lamps, and went forth to meet the bridegroom."
 
 "Miss Eva, she talks to me. The Lord, he sends his messenger in the soul. I must be thar, Miss Feely; for when that ar blessed child goes into the kingdom, they 'll open the door so wide, we 'll all get a look in at the glory, Miss Feely."
 
 "Uncle Tom, did Miss Eva say she felt more unwell than usual to-night?"
 
-"No; but she telled me, this morning, she was coming nearer,—thar's them that tells it to the child, Miss Feely. It 's the angels,—'it 's the trumpet sound afore the break o' day,'" said Tom, quoting from a favorite hymn.<sup>1</sup>
+"No; but she telled me, this morning, she was coming nearer,—thar's them that tells it to the child, Miss Feely. It 's the angels,—'it 's the trumpet sound afore the break o' day,'" said Tom, quoting from a favorite hymn.1
 
 This dialogue passed between Miss Ophelia and Tom, between ten and eleven, one evening, after her arrangements had all been made for the night, when, on going to bolt her outer door, she found Tom stretched along by it, in the outer verandah.
 
@@ -6789,7 +6794,7 @@ There was a sound in that chamber, first of one who stepped quickly. It was Miss
 
 Those words fell on his heart like clods upon a coffin. Why did they? He was up and in the room in an instant, and bending over Eva, who still slept.
 
-<sup>1</sup> A reference to a camp-meeting hymn now called "The Wings of the Morning."
+1 A reference to a camp-meeting hymn now called "The Wings of the Morning."
 
 What was it he saw that made his heart stand still? Why was no word spoken between the two? Thou canst say, who hast seen that same expression on the face dearest to thee;—that look indescribable, hopeless, unmistakable, that says to thee that thy beloved is no longer thine.
 
@@ -6839,21 +6844,21 @@ A bright, a glorious smile passed over her face, and she said, brokenly,—"O! l
 
 #### CHAPTER XXVII "THIS IS THE LAST OF EARTH"
 
-## —John Q. Adams.<sup>1</sup>
+## —John Q. Adams.1
 
 THE statuettes and pictures in Eva's room were shrouded in white napkins, and only hushed breathings and muffled foot-falls were heard there, and the light stole in solemnly through windows partially darkened by closed blinds.
 
 The bed was draped in white; and there, beneath the drooping angel-figure, lay a little sleeping form,—sleeping never to waken!
 
-There she lay, robed in one of the simple white dresses she had been wont to wear when living; the rose-colored light through the curtains cast over the icy coldness of death a warm glow. The heavy eyelashes drooped softly on the pure cheek; the head was turned a little to one side, as if in natural sleep, but there was diffused over every lineament of the face that high celestial expression, that mingling of rapture and repose, which showed it was no earthly or temporary sleep, but the long, sacred rest which "He giveth to his beloved."<sup>2</sup>
+There she lay, robed in one of the simple white dresses she had been wont to wear when living; the rose-colored light through the curtains cast over the icy coldness of death a warm glow. The heavy eyelashes drooped softly on the pure cheek; the head was turned a little to one side, as if in natural sleep, but there was diffused over every lineament of the face that high celestial expression, that mingling of rapture and repose, which showed it was no earthly or temporary sleep, but the long, sacred rest which "He giveth to his beloved."2
 
-<sup>1</sup> John Quincy Adams (1767-1848), sixth president of the United States, was an ardent antislavery lawyer and member of Congress whose last words, reportedly, were "This is the last of earth! I am content."
+1 John Quincy Adams (1767-1848), sixth president of the United States, was an ardent antislavery lawyer and member of Congress whose last words, reportedly, were "This is the last of earth! I am content."
 
-<sup>2</sup> See Psalms 127.2: "It is vain for you to rise up early, to sit up late, to eat the bread of sorrows: for so he giveth to his beloved sleep."
+2 See Psalms 127.2: "It is vain for you to rise up early, to sit up late, to eat the bread of sorrows: for so he giveth to his beloved sleep."
 
 There is no death to such as thou, dear Eva! neither darkness nor shadow of death; only such a bright fading as when the morning star fades in the golden dawn. Thine is the victory without the battle,—the crown without the conflict.
 
-So did St. Clare think, as, with folded arms, he stood there gazing. Ah! who shall say what he did think? for, from the hour that voices had said, in the dying chamber, "she is gone," it had been all a dreary mist, a heavy "dimness of anguish."<sup>1</sup> He had heard voices around him; he had had questions asked, and answered them; they had asked him when he would have the funeral, and where they should lay her; and he had answered, impatiently, that he cared not.
+So did St. Clare think, as, with folded arms, he stood there gazing. Ah! who shall say what he did think? for, from the hour that voices had said, in the dying chamber, "she is gone," it had been all a dreary mist, a heavy "dimness of anguish."1 He had heard voices around him; he had had questions asked, and answered them; they had asked him when he would have the funeral, and where they should lay her; and he had answered, impatiently, that he cared not.
 
 Adolph and Rosa had arranged the chamber; volatile, fickle and childish, as they generally were, they were soft-hearted and full of feeling; and, while Miss Ophelia presided over the general details of order and neatness, it was their hands that added those soft, poetic touches to the arrangements, that took from the death-room the grim and ghastly air which too often marks a New England funeral.
 
@@ -6865,7 +6870,7 @@ The door opened again, and Topsy, her eyes swelled with crying, appeared, holdin
 
 "O, do let me! I brought a flower,—such a pretty one!" said Topsy, holding up a half-blown tea rose-bud. "Do let me put just one there."
 
-<sup>1</sup> See Isaiah 8.22: "And they shall look unto the earth and behold trouble and darkness, dimness of anguish; and they shall be driven to darkness."
+1 See Isaiah 8.22: "And they shall look unto the earth and behold trouble and darkness, dimness of anguish; and they shall be driven to darkness."
 
 "Get along!" said Rosa, more decidedly.
 
@@ -6907,15 +6912,15 @@ And then all were gone, and the mourners went back to the place which should kno
 
 "St. Clare did not shed a tear," she said; "he did n't sympathize with her; it was perfectly wonderful to think how hard-hearted and unfeeling he was, when he must know how she suffered."
 
-So much are people the slave of their eye and ear, that many of the servants really thought that Missis was the principal sufferer in the case, especially as Marie began to have hysterical spasms, and sent for the doctor, and at last declared herself dying; and, in the running and scampering, and bringing up hot bottles, and heating of flannels, and chafing,<sup>2</sup> and fussing, that ensued, there was quite a diversion.
+So much are people the slave of their eye and ear, that many of the servants really thought that Missis was the principal sufferer in the case, especially as Marie began to have hysterical spasms, and sent for the doctor, and at last declared herself dying; and, in the running and scampering, and bringing up hot bottles, and heating of flannels, and chafing,2 and fussing, that ensued, there was quite a diversion.
 
 Tom, however, had a feeling at his own heart, that drew him to his master. He followed him wherever he walked, wistfully and sadly; and when he saw him sitting, so pale and quiet, in Eva's room, holding before his eyes her little open Bible, though seeing no letter or word of what was in it, there was more sorrow to Tom in that still, fixed, tearless eye, than in all Marie's moans and lamentations.
 
-<sup>1</sup> John 11.25-26.
+1 John 11.25-26.
 
-<sup>2</sup> Actually, rubbing or massaging.
+2 Actually, rubbing or massaging.
 
-In a few days the St. Clare family were back again in the city; Augustine, with the restlessness of grief, longing for another scene, to change the current of his thoughts. So they left the house and garden, with its little grave, and came back to New Orleans; and St. Clare walked the streets busily, and strove to fill up the chasm in his heart with hurry and bustle, and change of place; and people who saw him in the street, or met him at the cafe´, knew of his loss only by the weed<sup>1</sup> on his hat; for there he was, smiling and talking, and reading the newspaper, and speculating on politics, and attending to business matters; and who could see that all this smiling outside was but a hollowed shell over a heart that was a dark and silent sepulchre?
+In a few days the St. Clare family were back again in the city; Augustine, with the restlessness of grief, longing for another scene, to change the current of his thoughts. So they left the house and garden, with its little grave, and came back to New Orleans; and St. Clare walked the streets busily, and strove to fill up the chasm in his heart with hurry and bustle, and change of place; and people who saw him in the street, or met him at the cafe´, knew of his loss only by the weed1 on his hat; for there he was, smiling and talking, and reading the newspaper, and speculating on politics, and attending to business matters; and who could see that all this smiling outside was but a hollowed shell over a heart that was a dark and silent sepulchre?
 
 "Mr. St. Clare is a singular man," said Marie to Miss Ophelia, in a complaining tone. "I used to think, if there was anything in the world he did love, it was our dear little Eva; but he seems to be forgetting her very easily. I cannot ever get him to talk about her. I really did think he would show more feeling!"
 
@@ -6927,15 +6932,15 @@ In a few days the St. Clare family were back again in the city; Augustine, with 
 
 "Well, at all events, he has no consideration for me," said Marie; "he has n't spoken one word of sympathy, and he must know how much more a mother feels than any man can."
 
-"The heart knoweth its own bitterness,"<sup>2</sup> said Miss Ophelia, gravely.
+"The heart knoweth its own bitterness,"2 said Miss Ophelia, gravely.
 
 "That 's just what I think. I know just what I feel,—nobody else seems to. Eva used to, but she is gone!" and Marie lay back on her lounge, and began to sob disconsolately.
 
 Marie was one of those unfortunately constituted mortals, in whose eyes whatever is lost and gone assumes a value which it never had in possession. Whatever she had, she seemed to survey
 
-<sup>1</sup> I.e., a band of black cloth (usually crepe) worn as a token of mourning.
+1 I.e., a band of black cloth (usually crepe) worn as a token of mourning.
 
-<sup>2</sup> See Proverbs 14.10: "The heart knows its own bitterness, and no stranger shares its joy."
+2 See Proverbs 14.10: "The heart knows its own bitterness, and no stranger shares its joy."
 
 only to pick flaws in it; but, once fairly away, there was no end to her valuation of it.
 
@@ -6953,19 +6958,19 @@ Tom sighed heavily.
 
 "It seems to be given to children, and poor, honest fellows, like you, to see what we can't," said St. Clare. "How comes it?"
 
-"Thou hast 'hid from the wise and prudent, and revealed unto babes,'" murmured Tom; "'even so, Father, for so it seemed good in thy sight.'"<sup>1</sup>
+"Thou hast 'hid from the wise and prudent, and revealed unto babes,'" murmured Tom; "'even so, Father, for so it seemed good in thy sight.'"1
 
 "Tom, I don't believe,—I can't believe,—I 've got the habit of doubting," said St. Clare. "I want to believe this Bible,—and I can't."
 
-"Dear Mas'r, pray to the good Lord,—'Lord, I believe; help thou my unbelief.'"<sup>2</sup>
+"Dear Mas'r, pray to the good Lord,—'Lord, I believe; help thou my unbelief.'"2
 
 "Who knows anything about anything?" said St. Clare, his eyes wandering dreamily, and speaking to himself. "Was all that beautiful love and faith only one of the ever-shifting phases of human feeling, having nothing real to rest on, passing away with the little breath? And is there no more Eva,—no heaven,—no Christ, nothing?"
 
 "O, dear Mas'r, there is! I know it; I'm sure of it," said Tom, falling on his knees. "Do, do, dear Mas'r, believe it!"
 
-<sup>1</sup> See Matthew 11.25.
+1 See Matthew 11.25.
 
-<sup>2</sup> From Mark 9.24.
+2 From Mark 9.24.
 
 "How do you know there 's any Christ, Tom? You never saw the Lord."
 
@@ -6983,17 +6988,17 @@ Tom spoke with fast-running tears and choking voice. St. Clare leaned his head o
 
 "How do you know that, Tom?" said St. Clare.
 
-"Feels it in my soul. O, Mas'r! 'the love of Christ, that passeth knowledge.'"<sup>1</sup>
+"Feels it in my soul. O, Mas'r! 'the love of Christ, that passeth knowledge.'"1
 
 "Singular!" said St. Clare, turning away, "that the story of a man that lived and died eighteen hundred years ago can affect people so yet. But he was no man," he added, suddenly. "No man ever had such long and living power! O, that I could believe what my mother taught me, and pray as I did when I was a boy!"
 
 "If Mas'r pleases," said Tom, "Miss Eva used to read this so beautifully. I wish Mas'r 'd be so good as read it. Don't get no readin', hardly, now Miss Eva's gone."
 
-The chapter was the eleventh of John,—the touching account of the raising of Lazarus.<sup>2</sup> St. Clare read it aloud, often pausing to wrestle down feelings which were roused by the pathos of the story. Tom knelt before him, with clasped hands, and with an absorbed expression of love, trust, adoration, on his quiet face.
+The chapter was the eleventh of John,—the touching account of the raising of Lazarus.2 St. Clare read it aloud, often pausing to wrestle down feelings which were roused by the pathos of the story. Tom knelt before him, with clasped hands, and with an absorbed expression of love, trust, adoration, on his quiet face.
 
-<sup>1</sup> See Ephesians 3.19: "And to know the love of Christ, which passeth knowledge, that ye might be filled with all the fullness of God."
+1 See Ephesians 3.19: "And to know the love of Christ, which passeth knowledge, that ye might be filled with all the fullness of God."
 
-<sup>2</sup> As described in John 11.1-44, Christ raised a man named Lazarus from the dead.
+2 As described in John 11.1-44, Christ raised a man named Lazarus from the dead.
 
 "Tom," said his Master, "this is all real to you!"
 
@@ -7037,13 +7042,13 @@ WEEK after week glided away in the St. Clare mansion, and the waves of life sett
 
 All the interests and hopes of St. Clare's life had unconsciously wound themselves around this child. It was for Eva that he had managed his property; it was for Eva that he had planned the disposal of his time; and, to do this and that for Eva,—to buy, improve, alter, and arrange, or dispose something for her,—had been so long his habit, that now she was gone, there seemed nothing to be thought of, and nothing to be done.
 
-True, there was another life,—a life which, once believed in, stands as a solemn, significant figure before the otherwise unmeaning ciphers of time, changing them to orders of mysterious, untold value. St. Clare knew this well; and often, in many a weary hour, he heard that slender, childish voice calling him to the skies, and saw that little hand pointing to him the way of life; but a heavy lethargy of sorrow lay on him,—he could not arise. He had one of those natures which could better and more clearly conceive of religious things from its own perceptions and instincts, than many a matter-of-fact and practical Christian. The gift to appreciate and the sense to feel the finer shades and relations of moral things, often seems an attribute of those whose whole life shows a careless disregard of them. Hence Moore, Byron, Goethe,<sup>1</sup> often speak words more wisely descriptive of the true religious sentiment, than another man, whose whole life is governed by it. In such minds, disregard of religion is a more fearful treason,—a more deadly sin.
+True, there was another life,—a life which, once believed in, stands as a solemn, significant figure before the otherwise unmeaning ciphers of time, changing them to orders of mysterious, untold value. St. Clare knew this well; and often, in many a weary hour, he heard that slender, childish voice calling him to the skies, and saw that little hand pointing to him the way of life; but a heavy lethargy of sorrow lay on him,—he could not arise. He had one of those natures which could better and more clearly conceive of religious things from its own perceptions and instincts, than many a matter-of-fact and practical Christian. The gift to appreciate and the sense to feel the finer shades and relations of moral things, often seems an attribute of those whose whole life shows a careless disregard of them. Hence Moore, Byron, Goethe,1 often speak words more wisely descriptive of the true religious sentiment, than another man, whose whole life is governed by it. In such minds, disregard of religion is a more fearful treason,—a more deadly sin.
 
 St. Clare had never pretended to govern himself by any religious obligation; and a certain fineness of nature gave him such an instinctive view of the extent of the requirements of Christianity, that he shrank, by anticipation, from what he felt would be the exactions of his own conscience, if he once did resolve to assume them. For, so inconsistent is human nature, especially in the ideal, that not to undertake a thing at all seems better than to undertake and come short.
 
 Still St. Clare was, in many respects, another man. He read his little Eva's Bible seriously and honestly; he thought more soberly
 
-<sup>1</sup> The Irish poet Thomas Moore (1779-1852), the English poet Lord Byron (1788-1824), and the German writer Johann Wolfgang von Goethe (1749-1832) were all influential figures associated with the Romantic literary movement.
+1 The Irish poet Thomas Moore (1779-1852), the English poet Lord Byron (1788-1824), and the German writer Johann Wolfgang von Goethe (1749-1832) were all influential figures associated with the Romantic literary movement.
 
 and practically of his relations to his servants,—enough to make him extremely dissatisfied with both his past and present course; and one thing he did, soon after his return to New Orleans, and that was to commence the legal steps necessary to Tom's emancipation, which was to be perfected as soon as he could get through the necessary formalities. Meantime, he attached himself to Tom more and more, every day. In all the wide world, there was nothing that seemed to remind him so much of Eva; and he would insist on keeping him constantly about him, and, fastidious and unapproachable as he was with regard to his deeper feelings, he almost thought aloud to Tom. Nor would any one have wondered at it, who had seen the expression of affection and devotion with which Tom continually followed his young master.
 
@@ -7121,7 +7126,7 @@ St. Clare smiled; but there were tears in his eyes, as he said,
 
 "Come, come,—don't cry; you shall have them!" and, putting them together, he threw them into her lap, and drew Miss Ophelia with him into the parlor.
 
-<sup>1</sup> I.e., none of your sauce (impudence or disrespect).
+1 I.e., none of your sauce (impudence or disrespect).
 
 "I really think you can make something of that concern," he said, pointing with his thumb backward over his shoulder, "Any mind that is capable of a real sorrow is capable of good. You must try and do something with her."
 
@@ -7135,7 +7140,7 @@ St. Clare smiled; but there were tears in his eyes, as he said,
 
 "O, nonsense! I want her mine, that I may have a right to take her to the free States, and give her her liberty, that all I am trying to do be not undone."
 
-"O, cousin, what an awful 'doing evil that good may come'!<sup>1</sup> I can't encourage it."
+"O, cousin, what an awful 'doing evil that good may come'!1 I can't encourage it."
 
 "I don't want you to joke, but to reason," said Miss Ophelia. "There is no use in my trying to make this child a Christian child, unless I save her from all the chances and reverses of slavery; and, if you really are willing I should have her, I want you to give me a deed of gift, or some legal paper."
 
@@ -7149,11 +7154,11 @@ St. Clare smiled; but there were tears in his eyes, as he said,
 
 St. Clare, like most men of his class of mind, cordially hated the present tense of action, generally; and, therefore, he was considerably annoyed by Miss Ophelia's downrightness.
 
-"Why, what's the matter?" said he. "Can't you take my word? One would think you had taken lessons of the Jews,<sup>2</sup> coming at a fellow so!"
+"Why, what's the matter?" said he. "Can't you take my word? One would think you had taken lessons of the Jews,2 coming at a fellow so!"
 
-<sup>1</sup> From Romans 3.8: "And why not say (as we are slanderously reported and as some claim that we say), 'Let us do evil that good may come?' Their condemnation is just."
+1 From Romans 3.8: "And why not say (as we are slanderously reported and as some claim that we say), 'Let us do evil that good may come?' Their condemnation is just."
 
-<sup>2</sup> St. Clare invokes the then-widespread stereotype that Jews were greedy businessmen.
+2 St. Clare invokes the then-widespread stereotype that Jews were greedy businessmen.
 
 "I want to make sure of it," said Miss Ophelia. "You may die, or fail, and then Topsy be hustled off to auction, spite of all I can do."
 
@@ -7193,7 +7198,7 @@ St. Clare had often thought the same thing himself; but he answered, negligently
 
 "Cousin, what 's the matter?" said St. Clare, laying down his paper and looking at her. "Do you think I show symptoms of yellow fever or cholera, that you are making post mortem arrangements with such zeal?"
 
-"'In the midst of life we are in death,'"<sup>1</sup> said Miss Ophelia.
+"'In the midst of life we are in death,'"1 said Miss Ophelia.
 
 St. Clare rose up, and laying the paper down, carelessly, walked to the door that stood open on the verandah, to put an end to a conversation that was not agreeable to him. Mechanically, he repeated the last word again,—"Death!"—and, as he leaned against the railings, and watched the sparkling water as it rose and fell in the fountain; and, as in a dim and dizzy haze, saw flowers and trees and vases of the courts, he repeated again the mystic word so common in every mouth, yet of such fearful power,—"DEATH!"
 
@@ -7213,9 +7218,9 @@ St. Clare took the book and glanced at the place, and began reading one of the p
 
 St. Clare seemed struck with this last passage, for he read it
 
-<sup>1</sup> From the burial service of the Episcopalian Book of Common Prayer.
+1 From the burial service of the Episcopalian Book of Common Prayer.
 
-<sup>2</sup> See Matthew 25.31-45.
+2 See Matthew 25.31-45.
 
 twice,—the second time slowly, and as if he were revolving the words in his mind.
 
@@ -7227,9 +7232,9 @@ St. Clare rose up and walked thoughtfully up and down the verandah, seeming to f
 
 St. Clare was absent and thoughtful, all tea-time. After tea, he and Marie and Miss Ophelia took possession of the parlor, almost in silence.
 
-Marie disposed herself on a lounge, under a silken mosquito curtain, and was soon sound asleep. Miss Ophelia silently busied herself with her knitting. St. Clare sat down to the piano, and began playing a soft and melancholy movement with the Æolian<sup>1</sup> accompaniment. He seemed in a deep reverie, and to be soliloquizing to himself by music. After a little, he opened one of the drawers, took out an old music-book whose leaves were yellow with age, and began turning it over.
+Marie disposed herself on a lounge, under a silken mosquito curtain, and was soon sound asleep. Miss Ophelia silently busied herself with her knitting. St. Clare sat down to the piano, and began playing a soft and melancholy movement with the Æolian1 accompaniment. He seemed in a deep reverie, and to be soliloquizing to himself by music. After a little, he opened one of the drawers, took out an old music-book whose leaves were yellow with age, and began turning it over.
 
-"There," he said to Miss Ophelia, "this was one of my mother's books,—and here is her handwriting,—come and look at it. She copied and arranged this from Mozart's Requiem."<sup>2</sup> Miss Ophelia came accordingly.
+"There," he said to Miss Ophelia, "this was one of my mother's books,—and here is her handwriting,—come and look at it. She copied and arranged this from Mozart's Requiem."2 Miss Ophelia came accordingly.
 
 "It was something she used to sing often," said St. Clare. "I think I can hear her now."
 
@@ -7237,11 +7242,11 @@ He struck a few majestic chords, and began singing that grand old Latin piece, t
 
 Tom, who was listening in the outer verandah, was drawn by the sound to the very door, where he stood earnestly. He did not understand the words, of course; but the music and manner of singing appeared to affect him strongly, especially when St. Clare sang the more pathetic parts. Tom would have sympathized more heartily, if he had known the meaning of the beautiful words:
 
-<sup>1</sup> An eccelsiastical style of music, but also a reference to the Greek God of winds, Aeolus.
+1 An eccelsiastical style of music, but also a reference to the Greek God of winds, Aeolus.
 
-<sup>2</sup> A medieval Latin hymn about Judgment Day but here a reference to a popular choral work by Wolfgang Amadeus Mozart (1756-91); St. Clare sings from the work's third movement, "Dies Irae," below.
+2 A medieval Latin hymn about Judgment Day but here a reference to a popular choral work by Wolfgang Amadeus Mozart (1756-91); St. Clare sings from the work's third movement, "Dies Irae," below.
 
-Recordare Jesu pie Quod sum causa tuæ viæ Ne me perdas, illa die Quarens me sedisti lassus Redemisti crucem passus Tantus labor non sit cassus.<sup>1</sup>
+Recordare Jesu pie Quod sum causa tuæ viæ Ne me perdas, illa die Quarens me sedisti lassus Redemisti crucem passus Tantus labor non sit cassus.1
 
 St. Clare threw a deep and pathetic expression into the words; for the shadowy veil of years seemed drawn away, and he seemed to hear his mother's voice leading his. Voice and instrument seemed both living, and threw out with vivid sympathy those strains which the ethereal Mozart first conceived as his own dying requiem.
 
@@ -7261,7 +7266,7 @@ When St. Clare had done singing, he sat leaning his head upon his hand a few mom
 
 "Always practical and to the point!" said St. Clare, his face
 
-<sup>1 &</sup>quot;These lines have been thus rather inadequately translated:Think, O Jesus, for what reason/Thou endured'st earth's spite and treason,/Nor me lose, in that dread season;/Seeking me, thy worn feet hasted,/On the cross thy soul death tasted,/Let not all these toils be wasted" [Stowe's note].
+1 &quot;These lines have been thus rather inadequately translated:Think, O Jesus, for what reason/Thou endured'st earth's spite and treason,/Nor me lose, in that dread season;/Seeking me, thy worn feet hasted,/On the cross thy soul death tasted,/Let not all these toils be wasted" [Stowe's note].
 
 breaking out into a smile. "You never leave me any time for general reflections, Cousin; you always bring me short up against the actual present; you have a kind of eternal now, always in your mind."
 
@@ -7287,7 +7292,7 @@ It was the first time since Eva's death that he had ever said as many words as t
 
 "Do you suppose it possible that a nation ever will voluntarily emancipate?" said Miss Ophelia.
 
-"I don't know," said St. Clare. "This is a day of great deeds. Heroism and disinterestedness are rising up, here and there, in the earth. The Hungarian nobles set free millions of serfs,<sup>1</sup> at an immense pecuniary loss; and, perhaps, among us may be found generous spirits, who do not estimate honor and justice by dollars and cents."
+"I don't know," said St. Clare. "This is a day of great deeds. Heroism and disinterestedness are rising up, here and there, in the earth. The Hungarian nobles set free millions of serfs,1 at an immense pecuniary loss; and, perhaps, among us may be found generous spirits, who do not estimate honor and justice by dollars and cents."
 
 "I hardly think so," said Miss Ophelia.
 
@@ -7297,7 +7302,7 @@ It was the first time since Eva's death that he had ever said as many words as t
 
 "You would, I know," said St. Clare. "I'd like to see anything you would n't do, if you thought it your duty!"
 
-<sup>1</sup> Russan serfs differed from slaves in that they could own property themselves, but they also were in servitude and were forced to perform labor in exchange for certain rights from landowners. Austria-Hungary abolished its serf system in 1848.
+1 Russan serfs differed from slaves in that they could own property themselves, but they also were in servitude and were forced to perform labor in exchange for certain rights from landowners. Austria-Hungary abolished its serf system in 1848.
 
 "Well, I'm not uncommonly good," said Miss Ophelia. "Others would, if they saw things as I do. I intend to take Topsy home, when I go. I suppose our folks will wonder, at first; but I think they will be brought to see as I do. Besides, I know there are many people at the north who do exactly what you said."
 
@@ -7341,7 +7346,7 @@ St. Clare could say but little; he lay with his eyes shut, but it was evident th
 
 St. Clare hastily shook his head, and said again to Tom, more earnestly, "Pray!"
 
-And Tom did pray, with all his mind and strength, for the soul that was passing,—the soul that seemed looking so steadily and mournfully from those large, melancholy blue eyes. It was literally prayer offered with strong crying and tears.<sup>1</sup>
+And Tom did pray, with all his mind and strength, for the soul that was passing,—the soul that seemed looking so steadily and mournfully from those large, melancholy blue eyes. It was literally prayer offered with strong crying and tears.1
 
 When Tom ceased to speak, St. Clare reached out and took his hand, looking earnestly at him, but saying nothing. He closed his eyes, but still retained his hold; for, in the gates of eternity, the black hand and the white hold each other with an equal clasp. He murmured softly to himself, at broken intervals,
 
@@ -7361,7 +7366,7 @@ The effort of speaking exhausted him. The sinking paleness of death fell on him;
 
 So he lay for a few moments. They saw that the mighty hand was on him. Just before the spirit parted, he opened his eyes, with a sudden light, as of joy and recognition, and said "Mother!" and then he was gone!
 
-<sup>1</sup> See Hebrews 5.7: "Who in the days of his flesh, when he had offered up prayers and supplications with strong crying and tears unto him that was able to save him from death, and was heard in that he feared."
+1 See Hebrews 5.7: "Who in the days of his flesh, when he had offered up prayers and supplications with strong crying and tears unto him that was able to save him from death, and was heard in that he feared."
 
 ### CHAPTER XXIX THE UNPROTECTED
 
@@ -7379,7 +7384,7 @@ Miss Ophelia, with characteristic strength and self-control, had remained with h
 
 When they were arranging him for his last rest, they found upon his bosom a small, plain miniature case, opening with a spring. It was the miniature of a noble and beautiful female face; and on the reverse, under a crystal, a lock of dark hair. They laid them back on the lifeless breast,—dust to dust,—poor mournful relics of early dreams, which once made that cold heart beat so warmly!
 
-Tom's whole soul was filled with thoughts of eternity; and while he ministered around the lifeless clay, he did not once think that the sudden stroke had left him in hopeless slavery. He felt at peace about his master; for in that hour, when he had poured forth his prayer into the bosom of his Father, he had found an answer of quietness and assurance springing up within himself. In the depths of his own affectionate nature, he felt able to perceive something of the fulness of Divine love; for an old oracle hath thus written,—"He that dwelleth in love dwelleth in God, and God in him."<sup>1</sup> Tom hoped and trusted, and was at peace.
+Tom's whole soul was filled with thoughts of eternity; and while he ministered around the lifeless clay, he did not once think that the sudden stroke had left him in hopeless slavery. He felt at peace about his master; for in that hour, when he had poured forth his prayer into the bosom of his Father, he had found an answer of quietness and assurance springing up within himself. In the depths of his own affectionate nature, he felt able to perceive something of the fulness of Divine love; for an old oracle hath thus written,—"He that dwelleth in love dwelleth in God, and God in him."1 Tom hoped and trusted, and was at peace.
 
 But the funeral passed, with all its pageant of black crape, and prayers, and solemn faces; and back rolled the cool, muddy waves of every-day life; and up came the everlasting hard inquiry of "What is to be done next?"
 
@@ -7395,9 +7400,9 @@ It was an order, written in Marie's delicate Italian hand,2 to the master of a w
 
 "You know, Miss Feely, I've got such a bad temper; it's very bad of me. I was trying on Miss Marie's dress, and she slapped my face; and I spoke out before I thought, and was saucy; and she
 
-<sup>1</sup> See 1 John 4.16.
+1 See 1 John 4.16.
 
-<sup>2</sup> A medieval script often used in early printing and later considered a standard of fine handwriting.
+2 A medieval script often used in early printing and later considered a standard of fine handwriting.
 
 said that she'd bring me down, and have me know, once for all, that I was n't going to be so topping as I had been; and she wrote this, and says I shall carry it. I'd rather she 'd kill me, right out."
 
@@ -7425,9 +7430,9 @@ Marie's eyes were open wide enough now, and a flush rose to her sallow cheeks, a
 
 ## "She is very sorry for her fault."
 
-"She is, is she? She 'll be sorrier, before I've done with her! I've endured that child's impudence long enough; and now I 'll bring her down,—I 'll make her lie in the dust!"<sup>1</sup>
+"She is, is she? She 'll be sorrier, before I've done with her! I've endured that child's impudence long enough; and now I 'll bring her down,—I 'll make her lie in the dust!"1
 
-<sup>1</sup> See Job 21.26: "Together they lie down in the dust, And worms cover them."
+1 See Job 21.26: "Together they lie down in the dust, And worms cover them."
 
 "But could not you punish her some other way,—some way that would be less shameful?"
 
@@ -7515,7 +7520,7 @@ The next day,Tom and Adolph, and some half a dozen other servants, were marched 
 
 ### CHAPTER XXX THE SLAVE WAREHOUSE
 
-A SLAVE warehouse! Perhaps some of my readers conjure up horrible visions of such a place. They fancy some foul, obscure den, some horrible Tartarus "informis, ingens, cui lumen ademptum."<sup>1</sup> But no, innocent friend; in these days men have learned the art of sinning expertly and genteelly, so as not to shock the eyes and senses of respectable society. Human property is high in the market; and is, therefore, well fed, well cleaned, tended, and looked after, that it may come to sale sleek, and strong, and shining. A slavewarehouse in New Orleans is a house externally not much unlike many others, kept with neatness; and where every day you may see arranged, under a sort of shed along the outside, rows of men and women, who stand there as a sign of the property sold within.
+A SLAVE warehouse! Perhaps some of my readers conjure up horrible visions of such a place. They fancy some foul, obscure den, some horrible Tartarus "informis, ingens, cui lumen ademptum."1 But no, innocent friend; in these days men have learned the art of sinning expertly and genteelly, so as not to shock the eyes and senses of respectable society. Human property is high in the market; and is, therefore, well fed, well cleaned, tended, and looked after, that it may come to sale sleek, and strong, and shining. A slavewarehouse in New Orleans is a house externally not much unlike many others, kept with neatness; and where every day you may see arranged, under a sort of shed along the outside, rows of men and women, who stand there as a sign of the property sold within.
 
 Then you shall be courteously entreated to call and examine, and shall find an abundance of husbands, wives, brothers, sisters, fathers, mothers, and young children, to be "sold separately, or in lots to suit the convenience of the purchaser;" and that soul immortal, once bought with blood and anguish by the Son of God, when the earth shook, and the rocks rent, and the graves were opened,2 can be sold, leased, mortgaged, exchanged for groceries or dry goods, to suit the phases of trade, or the fancy of the purchaser.
 
@@ -7527,9 +7532,9 @@ Tom had with him quite a sizable trunk full of clothing, as had most others of t
 
 As might be imagined,Tom was in no humor to join these proceedings; and, therefore, setting his trunk as far as possible from the noisy group, he sat down on it, and leaned his face against the wall.
 
-<sup>1</sup> In Greek mythology,Tartarus is the impenetrable dark region below Hades where the Titans were imprisoned by Zeus and the wicked punished. The Latin quotation means "frightful, formless, immense, with light removed" (from the Roman poet Virgil's (70-19 BCE) Aeneid 3.658).
+1 In Greek mythology,Tartarus is the impenetrable dark region below Hades where the Titans were imprisoned by Zeus and the wicked punished. The Latin quotation means "frightful, formless, immense, with light removed" (from the Roman poet Virgil's (70-19 BCE) Aeneid 3.658).
 
-<sup>2</sup> See Matthew 27.51-52: "And behold, the veil of the temple was torn in two from top to bottom; and the earth shook and the rocks were split. The tombs were opened, and many bodies of the saints who had fallen asleep were raised."
+2 See Matthew 27.51-52: "And behold, the veil of the temple was torn in two from top to bottom; and the earth shook and the rocks were split. The tombs were opened, and many bodies of the saints who had fallen asleep were raised."
 
 The dealers in the human article make scrupulous and systematic efforts to promote noisy mirth among them, as a means of drowning reflection, and rendering them insensible to their condition. The whole object of the training to which the negro is put, from the time he is sold in the northern market till he arrives south, is systematically directed towards making him callous, unthinking, and brutal. The slave-dealer collects his gang in Virginia or Kentucky, and drives them to some convenient, healthy place,—often a watering place,—to be fattened. Here they are fed full daily; and, because some incline to pine, a fiddle is kept commonly going among them, and they are made to dance daily; and he who refuses to be merry—in whose soul thoughts of wife, or child, or home, are too strong for him to be gay—is marked as sullen and dangerous, and subjected to all the evils which the ill will of an utterly irresponsible and hardened man can inflict upon him. Briskness, alertness, and cheerfulness of appearance, especially before observers, are constantly enforced upon them, both by the hope of thereby getting a good master, and the fear of all that the driver may bring upon them, if they prove unsalable.
 
@@ -7549,9 +7554,9 @@ The dealers in the human article make scrupulous and systematic efforts to promo
 
 "Lor, now, how touchy we is,—we white niggers! Look at us, now!" and Sambo gave a ludicrous imitation of Adolph's manner; "here 's de airs and graces. We 's been in a good family, I specs."
 
-"Yes," said Adolph; "I had a master that could have bought you all for old truck!"<sup>1</sup>
+"Yes," said Adolph; "I had a master that could have bought you all for old truck!"1
 
-<sup>1</sup> I.e., old junk.
+1 I.e., old junk.
 
 "Laws, now, only think," said Sambo, "the gentlemens that we is!"
 
@@ -7603,11 +7608,11 @@ Susan remembered the man's looks and words. With a deadly sickness at her heart,
 
 "And, Emmeline, if we should n't ever see each other again, after to-morrow,—if I 'm sold way up on a plantation somewhere, and you somewhere else,—always remember how you 've been brought up, and all Missis has told you; take your Bible with you, and your hymn-book; and if you 're faithful to the Lord, he 'll be faithful to you."
 
-So speaks the poor soul, in sore discouragement; for she knows that to-morrow any man, however vile and brutal, however godless and merciless, if he only has money to pay for her, may become owner of her daughter, body and soul; and then, how is the child to be faithful? She thinks of all this, as she holds her daughter in her arms, and wishes that she were not handsome and attractive. It seems almost an aggravation to her to remember how purely and piously, how much above the ordinary lot, she has been brought up. But she has no resort but to pray; and many such prayers to God have gone up from those same trim, neatly-arranged, respectable slave-prisons,—prayers which God has not forgotten, as a coming day shall show; for it is written, "Who causeth one of these little ones to offend, it were better for him that a mill-stone were hanged about his neck, and that he were drowned in the depths of the sea."<sup>1</sup>
+So speaks the poor soul, in sore discouragement; for she knows that to-morrow any man, however vile and brutal, however godless and merciless, if he only has money to pay for her, may become owner of her daughter, body and soul; and then, how is the child to be faithful? She thinks of all this, as she holds her daughter in her arms, and wishes that she were not handsome and attractive. It seems almost an aggravation to her to remember how purely and piously, how much above the ordinary lot, she has been brought up. But she has no resort but to pray; and many such prayers to God have gone up from those same trim, neatly-arranged, respectable slave-prisons,—prayers which God has not forgotten, as a coming day shall show; for it is written, "Who causeth one of these little ones to offend, it were better for him that a mill-stone were hanged about his neck, and that he were drowned in the depths of the sea."1
 
 The soft, earnest, quiet moonbeam looks in fixedly, marking the bars of the grated windows on the prostrate, sleeping forms. The mother and daughter are singing together a wild and melancholy dirge, common as a funeral hymn among the slaves:
 
-"O, where is weeping Mary? O, where is weeping Mary? 'Rived in the goodly land. She is dead and gone to Heaven; She is dead and gone to Heaven; 'Rived in the goodly land."<sup>2</sup>
+"O, where is weeping Mary? O, where is weeping Mary? 'Rived in the goodly land. She is dead and gone to Heaven; She is dead and gone to Heaven; 'Rived in the goodly land."2
 
 These words, sung by voices of a peculiar and melancholy sweetness, in an air which seemed like the sighing of earthly despair after heavenly hope, floated through the dark prison rooms with a pathetic cadence, as verse after verse was breathed out:
 
@@ -7615,17 +7620,17 @@ These words, sung by voices of a peculiar and melancholy sweetness, in an air wh
 
 Sing on, poor souls! The night is short, and the morning will part you forever!
 
-But now it is morning, and everybody is astir; and the worthy Mr. Skeggs is busy and bright, for a lot of goods is to be fitted out for auction. There is a brisk look-out on the toilet; injunctions passed around to every one to put on their best face and be spry; and now all are arranged in a circle for a last review, before they are marched up to the Bourse.<sup>3</sup>
+But now it is morning, and everybody is astir; and the worthy Mr. Skeggs is busy and bright, for a lot of goods is to be fitted out for auction. There is a brisk look-out on the toilet; injunctions passed around to every one to put on their best face and be spry; and now all are arranged in a circle for a last review, before they are marched up to the Bourse.3
 
-Mr. Skeggs, with his palmetto<sup>4</sup> on and his cigar in his mouth, walks around to put farewell touches on his wares.
+Mr. Skeggs, with his palmetto4 on and his cigar in his mouth, walks around to put farewell touches on his wares.
 
-<sup>1</sup> From Matthew 18.6 and Luke 17.2.
+1 From Matthew 18.6 and Luke 17.2.
 
-<sup>2</sup> This and the following stanza are from the popular folk hymn "The Hebrew Children."
+2 This and the following stanza are from the popular folk hymn "The Hebrew Children."
 
-<sup>3</sup> Stock exchange or place where money exchanges hands.
+3 Stock exchange or place where money exchanges hands.
 
-<sup>4</sup> A kind of hat made from palm leaves.
+4 A kind of hat made from palm leaves.
 
 "How 's this?" he said, stepping in front of Susan and Emmeline. "Where 's your curls, gal?"
 
@@ -7639,19 +7644,19 @@ The girl looked timidly at her mother, who, with the smooth adroitness common am
 
 ## \_\_\_\_\_\_\_\_
 
-Beneath a splendid dome were men of all nations, moving to and fro, over the marble pave.<sup>2</sup> On every side of the circular area were little tribunes, or stations, for the use of speakers and auctioneers. Two of these, on opposite sides of the area, were now occupied by brilliant and talented gentlemen, enthusiastically forcing up, in English and French commingled, the bids of connoisseurs in their various wares. A third one, on the other side, still unoccupied, was surrounded by a group, waiting the moment of sale to begin. And here we may recognize the St. Clare servants,—Tom, Adolph, and others; and there, too, Susan and Emmeline, awaiting their turn with anxious and dejected faces. Various spectators, intending to purchase, or not intending, as the case might be, gathered around the group, handling, examining, and commenting on their various points and faces with the same freedom that a set of jockeys discuss the merits of a horse.
+Beneath a splendid dome were men of all nations, moving to and fro, over the marble pave.2 On every side of the circular area were little tribunes, or stations, for the use of speakers and auctioneers. Two of these, on opposite sides of the area, were now occupied by brilliant and talented gentlemen, enthusiastically forcing up, in English and French commingled, the bids of connoisseurs in their various wares. A third one, on the other side, still unoccupied, was surrounded by a group, waiting the moment of sale to begin. And here we may recognize the St. Clare servants,—Tom, Adolph, and others; and there, too, Susan and Emmeline, awaiting their turn with anxious and dejected faces. Various spectators, intending to purchase, or not intending, as the case might be, gathered around the group, handling, examining, and commenting on their various points and faces with the same freedom that a set of jockeys discuss the merits of a horse.
 
-"Hulloa, Alf! what brings you here?" said a young exquisite,<sup>3</sup> slapping the shoulder of a sprucely-dressed young man, who was examining Adolph through an eye-glass.
+"Hulloa, Alf! what brings you here?" said a young exquisite,3 slapping the shoulder of a sprucely-dressed young man, who was examining Adolph through an eye-glass.
 
 "Well, I was wanting a valet, and I heard that St. Clare's lot was going. I thought I 'd just look at his—"
 
 "Catch me ever buying any of St. Clare's people! Spoilt niggers, every one. Impudent as the devil!" said the other.
 
-<sup>1</sup> A stem from a climbing palm used as a walking stick or as a cane for punishment.
+1 A stem from a climbing palm used as a walking stick or as a cane for punishment.
 
-<sup>2</sup> Pave: flooring.
+2 Pave: flooring.
 
-<sup>3</sup> A person, especially a man, excessively attracted to fine clothes, grooming, etc.
+3 A person, especially a man, excessively attracted to fine clothes, grooming, etc.
 
 "Never fear that!" said the first. "If I get 'em, I 'll soon have their airs out of them; they 'll soon find that they've another kind of master to deal with than Monsieur St. Clare. 'Pon my word, I 'll buy that fellow. I like the shape of him."
 
@@ -7693,41 +7698,41 @@ The blood flushes painfully in her otherwise colorless cheek, her eye has a feve
 
 "I 'll do anything in reason," said the benevolent-looking gentleman, pressing in and joining with the bids. In a few moments they have run beyond his purse. He is silent; the auctioneer grows warmer; but bids gradually drop off. It lies now between an aristocratic old citizen and our bullet-headed acquaintance. The citizen bids for a few turns, contemptuously measuring his opponent; but the bullet-head has the advantage over him, both in obstinacy and concealed length of purse, and the controversy lasts but a moment; the hammer falls,—he has got the girl, body and soul, unless God help her!
 
-Her master is Mr. Legree, who owns a cotton plantation on the Red river.<sup>1</sup> She is pushed along into the same lot with Tom and two other men, and goes off, weeping as she goes.
+Her master is Mr. Legree, who owns a cotton plantation on the Red river.1 She is pushed along into the same lot with Tom and two other men, and goes off, weeping as she goes.
 
 The benevolent gentleman is sorry; but, then, the thing happens every day! One sees girls and mothers crying, at these sales, always! it can't be helped, &c.; and he walks off, with his acquisition, in another direction.
 
-Two days after, the lawyer of the Christian firm of B. & Co., New York, sent on their money to them. On the reverse of that draft, so obtained, let them write these words of the great Paymaster, to whom they shall make up their account in a future day: "When he maketh inquisition for blood, he forgetteth not the cry of the humble!"<sup>2</sup>
+Two days after, the lawyer of the Christian firm of B. & Co., New York, sent on their money to them. On the reverse of that draft, so obtained, let them write these words of the great Paymaster, to whom they shall make up their account in a future day: "When he maketh inquisition for blood, he forgetteth not the cry of the humble!"2
 
-#### CHAPTER XXXI THE MIDDLE PASSAGE<sup>3</sup>
+#### CHAPTER XXXI THE MIDDLE PASSAGE3
 
 "Thou art of purer eyes than to behold evil, and canst not look upon iniquity: wherefore lookest thou upon them that deal
 
-<sup>1</sup> A river running from the Arkansas/Texas border through Louisiana and into the Mississippi.
+1 A river running from the Arkansas/Texas border through Louisiana and into the Mississippi.
 
-<sup>2</sup> See Psalms 9.12: "When he maketh inquisition for blood, he remembereth them: he forgetteth not the cry of the humble."
+2 See Psalms 9.12: "When he maketh inquisition for blood, he remembereth them: he forgetteth not the cry of the humble."
 
-<sup>3</sup> In the transatlantic slave trade, this term refers to the deadly "Middle Passage" between Africa and the Americas, where slaves were packed into cargo holds without fresh air, water, or sanitary facilities.
+3 In the transatlantic slave trade, this term refers to the deadly "Middle Passage" between Africa and the Americas, where slaves were packed into cargo holds without fresh air, water, or sanitary facilities.
 
-treacherously, and holdest thy tongue when the wicked devoureth the man that is more righteous than he?" —HAB. 1:13.<sup>1</sup>
+treacherously, and holdest thy tongue when the wicked devoureth the man that is more righteous than he?" —HAB. 1:13.1
 
 ON the lower part of a small, mean boat, on the Red river, Tom sat,—chains on his wrists, chains on his feet, and a weight heavier than chains lay on his heart. All had faded from his sky,—moon and star; all had passed by him, as the trees and banks were now passing, to return no more. Kentucky home, with wife and children, and indulgent owners; St. Clare home, with all its refinements and splendors; the golden head of Eva, with its saint-like eyes; the proud, gay, handsome, seemingly careless, yet ever-kind St. Clare; hours of ease and indulgent leisure,—all gone! and in place thereof, what remains?
 
-It is one of the bitterest apportionments of a lot of slavery, that the negro, sympathetic and assimilative, after acquiring, in a refined family, the tastes and feelings which form the atmosphere of such a place, is not the less liable to become the bond-slave of the coarsest and most brutal,—just as chair or table, which once decorated the superb saloon, comes, at last, battered and defaced, to the bar-room of some filthy tavern, or some low haunt of vulgar debauchery. The great difference is, that the table and chair cannot feel, and the man can; for even a legal enactment that he shall be "taken, reputed, adjudged in law, to be a chattel personal,"<sup>2</sup> cannot blot out his soul, with its own private little world of memories, hopes, loves, fears, and desires.
+It is one of the bitterest apportionments of a lot of slavery, that the negro, sympathetic and assimilative, after acquiring, in a refined family, the tastes and feelings which form the atmosphere of such a place, is not the less liable to become the bond-slave of the coarsest and most brutal,—just as chair or table, which once decorated the superb saloon, comes, at last, battered and defaced, to the bar-room of some filthy tavern, or some low haunt of vulgar debauchery. The great difference is, that the table and chair cannot feel, and the man can; for even a legal enactment that he shall be "taken, reputed, adjudged in law, to be a chattel personal,"2 cannot blot out his soul, with its own private little world of memories, hopes, loves, fears, and desires.
 
 Mr. Simon Legree,Tom's master, had purchased slaves at one place and another, in New Orleans, to the number of eight, and driven them, handcuffed, in couples of two and two, down to the good steamer Pirate, which lay at the levee, ready for a trip up the Red river.
 
 Having got them fairly on board, and the boat being off, he came round, with that air of efficiency which ever characterized him, to take a review of them. Stopping opposite to Tom, who had been attired for sale in his best broadcloth suit, with well-starched linen and shining boots, he briefly expressed himself as follows:
 
-<sup>1</sup> From Habakkuk 1.13, a lesser known book of the Hebrew Bible.
+1 From Habakkuk 1.13, a lesser known book of the Hebrew Bible.
 
-<sup>2</sup> In A Key to Uncle Tom's Cabin, Stowe identifies the source of this phrase as a South Carolina legal statute, an attribution corroborated by William Goodell in the first chapter of his antislavery publication tract, The American Slave Code in Theory and Practice: Its Distinctive Features Shown by Its Statutes, Judicial Decisions, and Illustrative Facts (1853).
+2 In A Key to Uncle Tom's Cabin, Stowe identifies the source of this phrase as a South Carolina legal statute, an attribution corroborated by William Goodell in the first chapter of his antislavery publication tract, The American Slave Code in Theory and Practice: Its Distinctive Features Shown by Its Statutes, Judicial Decisions, and Illustrative Facts (1853).
 
 ## "Stand up."
 
 Tom stood up.
 
-"Take off that stock!"<sup>1</sup> and, as Tom, encumbered by his fetters, proceeded to do it, he assisted him, by pulling it, with no gentle hand, from his neck, and putting it in his pocket.
+"Take off that stock!"1 and, as Tom, encumbered by his fetters, proceeded to do it, he assisted him, by pulling it, with no gentle hand, from his neck, and putting it in his pocket.
 
 Legree now turned to Tom's trunk, which, previous to this, he had been ransacking, and, taking from it a pair of old pantaloons and a dilapidated coat, which Tom had been wont to put on about his stable-work, he said, liberating Tom's hands from the handcuffs, and pointing to a recess in among the boxes,
 
@@ -7755,11 +7760,11 @@ Something within the silent black man answered No! and, as if repeated by an inv
 
 But Simon Legree heard no voice. That voice is one he never shall hear. He only glared for a moment on the downcast face of
 
-<sup>1</sup> Stock: an iron neck collar sometimes imposed upon slaves.
+1 Stock: an iron neck collar sometimes imposed upon slaves.
 
-<sup>2</sup> See Isaiah 43.1.
+2 See Isaiah 43.1.
 
-Tom, and walked off. He took Tom's trunk, which contained a very neat and abundant wardrobe, to the forecastle,<sup>1</sup> where it was soon surrounded by various hands of the boat. With much laughing, at the expense of niggers who tried to be gentlemen, the articles very readily were sold to one and another, and the empty trunk finally put up at auction. It was a good joke, they all thought, especially to see how Tom looked after his things, as they were going this way and that; and then the auction of the trunk, that was funnier than all, and occasioned abundant witticisms.
+Tom, and walked off. He took Tom's trunk, which contained a very neat and abundant wardrobe, to the forecastle,1 where it was soon surrounded by various hands of the boat. With much laughing, at the expense of niggers who tried to be gentlemen, the articles very readily were sold to one and another, and the empty trunk finally put up at auction. It was a good joke, they all thought, especially to see how Tom looked after his things, as they were going this way and that; and then the auction of the trunk, that was funnier than all, and occasioned abundant witticisms.
 
 This little affair being over, Simon sauntered up again to his property.
 
@@ -7777,11 +7782,11 @@ The involuntary look of horror, fright and aversion, with which the girl regarde
 
 As by a fascination, every eye was now directed to the glaring greenish-gray eye of Simon.
 
-"Now," said he, doubling his great, heavy fist into something resembling a blacksmith's hammer, "d' ye see this fist? Heft it!" he said, bringing it down on Tom's hand. "Look at these yer bones! Well, I tell ye this yer fist has got as hard as iron knocking down niggers. I never see the nigger, yet, I could n't bring down with one crack," said he, bringing his fist down so near to the face of Tom that he winked<sup>2</sup> and drew back. "I don't keep none o' yer cussed overseers; I does my own overseeing; and I tell you things
+"Now," said he, doubling his great, heavy fist into something resembling a blacksmith's hammer, "d' ye see this fist? Heft it!" he said, bringing it down on Tom's hand. "Look at these yer bones! Well, I tell ye this yer fist has got as hard as iron knocking down niggers. I never see the nigger, yet, I could n't bring down with one crack," said he, bringing his fist down so near to the face of Tom that he winked2 and drew back. "I don't keep none o' yer cussed overseers; I does my own overseeing; and I tell you things
 
-<sup>1</sup> The forward part of a ship where sailors usually live.
+1 The forward part of a ship where sailors usually live.
 
-<sup>2</sup> I.e., blinked.
+2 I.e., blinked.
 
 is seen to. You 's every one on ye got to toe the mark, I tell ye; quick,—straight,—the moment I speak. That 's the way to keep in with me. Ye won't find no soft spot in me, nowhere. So, now, mind yerselves; for I don't show no mercy!"
 
@@ -7797,7 +7802,7 @@ The stranger applied his fingers to the implement in question, and simply said,
 
 "'T is hard enough; and, I suppose," he added, "practice has made your heart just like it."
 
-"Why, yes, I may say so," said Simon, with a hearty laugh. "I reckon there 's as little soft in me as in any one going. Tell you, nobody comes it over me!<sup>1</sup> Niggers never gets round me, neither with squalling nor soft soap,—that 's a fact."
+"Why, yes, I may say so," said Simon, with a hearty laugh. "I reckon there 's as little soft in me as in any one going. Tell you, nobody comes it over me!1 Niggers never gets round me, neither with squalling nor soft soap,—that 's a fact."
 
 ## "You have a fine lot there."
 
@@ -7807,7 +7812,7 @@ The stranger applied his fingers to the implement in question, and simply said,
 
 "Well, donno; 'cordin' as their constitution is. Stout fellers last six or seven years; trashy ones gets worked up in two or three. I used to, when I fust begun, have considerable trouble fussin' with 'em and trying to make 'em hold out,—doctorin' on 'em up when
 
-<sup>1</sup> I.e., nobody fools me.
+1 I.e., nobody fools me.
 
 they 's sick, and givin' on 'em clothes and blankets, and what not, tryin' to keep 'em all sort o' decent and comfortable. Law, 't was n't no sort o' use; I lost money on 'em, and 't was heaps o' trouble. Now, you see, I just put 'em straight through, sick or well. When one nigger's dead, I buy another; and I find it comes cheaper and easier, every way."
 
@@ -7835,7 +7840,7 @@ The young gentleman colored and smiled, and the two were soon busy in a game of 
 
 "Was he good to you?" said Emmeline.
 
-"Mostly, till he tuk sick. He 's lain sick, off and on, more than six months, and been orful oneasy.<sup>1</sup> 'Pears like he warnt willin' to have nobody rest, day nor night; and got so curous,<sup>2</sup> there could n't nobody suit him. 'Pears like he just grew crosser, every day; kep me up nights till I got farly beat out, and could n't keep awake no longer; and cause I got to sleep, one night, Lors, he talk so orful to me, and he tell me he 'd sell me to just the hardest master he could find; and he 'd promised me my freedom, too, when he died."
+"Mostly, till he tuk sick. He 's lain sick, off and on, more than six months, and been orful oneasy.1 'Pears like he warnt willin' to have nobody rest, day nor night; and got so curous,2 there could n't nobody suit him. 'Pears like he just grew crosser, every day; kep me up nights till I got farly beat out, and could n't keep awake no longer; and cause I got to sleep, one night, Lors, he talk so orful to me, and he tell me he 'd sell me to just the hardest master he could find; and he 'd promised me my freedom, too, when he died."
 
 "Had you any friends?" said Emmeline.
 
@@ -7847,15 +7852,15 @@ True, there is religious trust for even the darkest hour. The mulatto woman was 
 
 The boat moved on,—freighted with its weight of sorrow,—up the red, muddy, turbid current, through the abrupt, tortuous windings of the Red river; and sad eyes gazed wearily on the steep redclay banks, as they glided by in dreary sameness. At last the boat stopped at a small town, and Legree, with his party, disembarked.
 
-<sup>1</sup> I.e., awful uneasy.
+1 I.e., awful uneasy.
 
-<sup>2</sup> Curous: strange.
+2 Curous: strange.
 
 #### CHAPTER XXXII DARK PLACES
 
-"The dark places of the earth are full of the habitations of cruelty."<sup>1</sup>
+"The dark places of the earth are full of the habitations of cruelty."1
 
-TRAILING wearily behind a rude<sup>2</sup> wagon, and over a ruder road, Tom and his associates faced onward.
+TRAILING wearily behind a rude2 wagon, and over a ruder road, Tom and his associates faced onward.
 
 In the wagon was seated Simon Legree; and the two women, still fettered together, were stowed away with some baggage in the back part of it, and the whole company were seeking Legree's plantation, which lay a good distance off.
 
@@ -7869,15 +7874,15 @@ Simon rode on, however, apparently well pleased, occasionally pulling away at a 
 
 "I say, you!" he said, as he turned back and caught a glance at the dispirited faces behind him. "Strike up a song, boys,—come!"
 
-The men looked at each other, and the "come" was repeated, with a smart crack of the whip which the driver carried in his hands. Tom began a Methodist hymn,<sup>3</sup>
+The men looked at each other, and the "come" was repeated, with a smart crack of the whip which the driver carried in his hands. Tom began a Methodist hymn,3
 
 "Jerusalem, my happy home, Name ever dear to me!
 
-<sup>1</sup> From Psalms 74.20: "Have respect unto the covenant: for the dark places of the earth are full of the habitations of cruelty."
+1 From Psalms 74.20: "Have respect unto the covenant: for the dark places of the earth are full of the habitations of cruelty."
 
-<sup>2</sup> I.e., crude or roughly made.
+2 I.e., crude or roughly made.
 
-<sup>3</sup> A hymn called "Song of Mary" (1601).
+3 A hymn called "Song of Mary" (1601).
 
 
 When shall my sorrows have an end,
@@ -7998,7 +8003,7 @@ Tom waited till a late hour, to get a place at the mills; and then, moved by the
 
 "Read a piece, anyways!" said the first woman, curiously, seeing Tom attentively poring over it.
 
-Tom read,—"Come unto ME, all ye that labor and are heavy laden, and I will give you rest."<sup>2</sup>
+Tom read,—"Come unto ME, all ye that labor and are heavy laden, and I will give you rest."2
 
 "Them 's good words, enough," said the woman; "who says 'em?"
 
@@ -8010,27 +8015,27 @@ Tom read,—"Come unto ME, all ye that labor and are heavy laden, and I will giv
 
 "Lor, you an't gwine to make me believe dat ar! I know de Lord an't here," said the woman; "'tan't no use talking, though. I 's jest gwine to camp down, and sleep while I ken."
 
-<sup>1</sup> I.e., dying embers.
+1 I.e., dying embers.
 
-<sup>2</sup> See Matthew 11.28: "For they bind heavy burdens and grievous to be borne, and lay them on men's shoulders; but they themselves will not move them with one of their fingers."
+2 See Matthew 11.28: "For they bind heavy burdens and grievous to be borne, and lay them on men's shoulders; but they themselves will not move them with one of their fingers."
 
 The women went off to their cabins, and Tom sat alone, by the smouldering fire, that flickered up redly in his face.
 
 The silver, fair-browed moon rose in the purple sky, and looked down, calm and silent, as God looks on the scene of misery and oppression,—looked calmly on the lone black man, as he sat, with his arms folded, and his Bible on his knee.
 
-"Is God HERE?" Ah, how is it possible for the untaught heart to keep its faith, unswerving, in the face of dire misrule, and palpable, unrebuked injustice? In that simple heart waged a fierce conflict: the crushing sense of wrong, the foreshadowing of a whole life of future misery, the wreck of all past hopes, mournfully tossing in the soul's sight, like dead corpses of wife, and child, and friend, rising from the dark wave, and surging in the face of the half-drowned mariner! Ah, was it easy here to believe and hold fast the great password of Christian faith, that "God IS, and is the REWARDER of them that diligently seek Him"?<sup>1</sup>
+"Is God HERE?" Ah, how is it possible for the untaught heart to keep its faith, unswerving, in the face of dire misrule, and palpable, unrebuked injustice? In that simple heart waged a fierce conflict: the crushing sense of wrong, the foreshadowing of a whole life of future misery, the wreck of all past hopes, mournfully tossing in the soul's sight, like dead corpses of wife, and child, and friend, rising from the dark wave, and surging in the face of the half-drowned mariner! Ah, was it easy here to believe and hold fast the great password of Christian faith, that "God IS, and is the REWARDER of them that diligently seek Him"?1
 
 Tom rose, disconsolate, and stumbled into the cabin that had been allotted to him. The floor was already strewn with weary sleepers, and the foul air of the place almost repelled him; but the heavy night-dews were chill, and his limbs weary, and, wrapping about him a tattered blanket, which formed his only bed-clothing, he stretched himself in the straw and fell asleep.
 
 In dreams, a gentle voice came over his ear; he was sitting on the mossy seat in the garden by Lake Pontchartrain, and Eva, with her serious eyes bent downward, was reading to him from the Bible; and he heard her read,
 
-"When thou passest through the waters, I will be with thee, and the rivers they shall not overflow thee; when thou walkest through the fire, thou shalt not be burned, neither shall the flame kindle upon thee; for I am the Lord thy God, the Holy One of Israel, thy Saviour."<sup>2</sup>
+"When thou passest through the waters, I will be with thee, and the rivers they shall not overflow thee; when thou walkest through the fire, thou shalt not be burned, neither shall the flame kindle upon thee; for I am the Lord thy God, the Holy One of Israel, thy Saviour."2
 
 Gradually the words seemed to melt and fade, as in a divine music; the child raised her deep eyes, and fixed them lovingly on him, and rays of warmth and comfort seemed to go from them to his heart; and, as if wafted on the music, she seemed to rise on shining wings, from which flakes and spangles of gold fell off like stars, and she was gone.
 
-<sup>1</sup> From Hebrews 11.6: "But without faith it is impossible to please him: for he that cometh to God must believe that he is, and that he is a rewarder of them that diligently seek him."
+1 From Hebrews 11.6: "But without faith it is impossible to please him: for he that cometh to God must believe that he is, and that he is a rewarder of them that diligently seek him."
 
-<sup>2</sup> See Isaiah 4.2-3.
+2 See Isaiah 4.2-3.
 
 Tom woke. Was it a dream? Let it pass for one. But who shall say that that sweet young spirit, which in life so yearned to comfort and console the distressed, was forbidden of God to assume this ministry after death?
 
@@ -8040,15 +8045,15 @@ Tom woke. Was it a dream? Let it pass for one. But who shall say that that sweet
 
 "And behold, the tears of such as were oppressed, and they had no comforter; and on the side of their oppressors there was power, but they had no comforter."
 
-## —ECCL. 4:1.<sup>2</sup>
+## —ECCL. 4:1.2
 
 IT took but a short time to familiarize Tom with all that was to be hoped or feared in his new way of life. He was an expert and efficient workman in whatever he undertook; and was, both from habit and principle, prompt and faithful. Quiet and peaceable in his disposition, he hoped, by unremitting diligence, to avert from himself at least a portion of the evils of his condition. He saw enough of abuse and misery to make him sick and weary; but he determined to toil on, with religious patience, committing himself to Him that judgeth righteously, not without hope that some way of escape might yet be opened to him.
 
 Legree took silent note of Tom's availability. He rated him as a first-class hand; and yet he felt a secret dislike to him,—the native antipathy of bad to good. He saw, plainly, that when, as was often the case, his violence and brutality fell on the helpless, Tom took notice of it; for, so subtle is the atmosphere of opinion, that it will make itself felt, without words; and the opinion even of a slave may annoy a master. Tom in various ways manifested a tenderness of feeling, a commiseration for his fellow-sufferers, strange and new to them, which was watched with a jealous eye by Legree. He had purchased Tom with a view of eventually making
 
-<sup>1</sup> The source of this poetic verse has not been identified and, indeed, may be Stowe's own composition.
+1 The source of this poetic verse has not been identified and, indeed, may be Stowe's own composition.
 
-<sup>2</sup> I.e., Ecclesiastes 4.1.
+2 I.e., Ecclesiastes 4.1.
 
 him a sort of overseer, with whom he might, at times, intrust his affairs, in short absences; and, in his view, the first, second, and third requisite for that place, was hardness. Legree made up his mind, that, as Tom was not hard to his hand, he would harden him forthwith; and some few weeks after Tom had been on the place, he determined to commence the process.
 
@@ -8110,9 +8115,9 @@ A glance like sheet-lightning suddenly flashed from black eyes; and, facing abou
 
 "Keep your distance, then!" said the woman. And, in truth, the man seemed greatly inclined to attend to something at the other end of the field, and started off in quick time.
 
-The woman suddenly turned to her work, and labored with a despatch that was perfectly astonishing to Tom. She seemed to work by magic. Before the day was through, her basket was filled, crowded down, and piled, and she had several times put largely into Tom's. Long after dusk, the whole weary train, with their baskets on their heads, defiled<sup>1</sup> up to the building appropriated to the storing and weighing the cotton. Legree was there, busily conversing with the two drivers.
+The woman suddenly turned to her work, and labored with a despatch that was perfectly astonishing to Tom. She seemed to work by magic. Before the day was through, her basket was filled, crowded down, and piled, and she had several times put largely into Tom's. Long after dusk, the whole weary train, with their baskets on their heads, defiled1 up to the building appropriated to the storing and weighing the cotton. Legree was there, busily conversing with the two drivers.
 
-<sup>1</sup> Defiled: walked one by one in single file.
+1 Defiled: walked one by one in single file.
 
 "Dat ar Tom's gwine to make a powerful deal o' trouble; kept a puttin' into Lucy's basket.—One o' these yer dat will get all der niggers to feelin' 'bused, if Mas'r don't watch him!" said Sambo.
 
@@ -8192,11 +8197,11 @@ Legree looked stupefied and confounded; but at last burst forth,—
 
 Tom spoke in a mild voice, but with a decision that could not be mistaken. Legree shook with anger; his greenish eyes glared fiercely, and his very whiskers seemed to curl with passion; but, like some ferocious beast, that plays with its victim before he devours it, he kept back his strong impulse to proceed to immediate violence, and broke out into bitter raillery.
 
-"Well, here 's a pious dog, at last, let down among us sinners!—a saint, a gentleman, and no less, to talk to us sinners about our sins! Powerful holy critter, he must be! Here, you rascal, you make believe to be so pious,—did n't you never hear, out of yer Bible, 'Servants, obey yer masters'?<sup>1</sup> An't I yer master? Did n't I pay down twelve hundred dollars, cash, for all there is inside yer old cussed black shell? An't yer mine, now, body and soul?" he said, giving Tom a violent kick with his heavy boot; "tell me!"
+"Well, here 's a pious dog, at last, let down among us sinners!—a saint, a gentleman, and no less, to talk to us sinners about our sins! Powerful holy critter, he must be! Here, you rascal, you make believe to be so pious,—did n't you never hear, out of yer Bible, 'Servants, obey yer masters'?1 An't I yer master? Did n't I pay down twelve hundred dollars, cash, for all there is inside yer old cussed black shell? An't yer mine, now, body and soul?" he said, giving Tom a violent kick with his heavy boot; "tell me!"
 
 In the very depth of physical suffering, bowed by brutal oppression, this question shot a gleam of joy and triumph through Tom's soul. He suddenly stretched himself up, and, looking earnestly to heaven, while the tears and blood that flowed down his face mingled, he exclaimed,
 
-<sup>1</sup> See Colossians 3.22: "Slaves, in all things obey those who are your masters on earth, not with external service, as those who merely please men, but with sincerity of heart, fearing the Lord."
+1 See Colossians 3.22: "Slaves, in all things obey those who are your masters on earth, not with external service, as those who merely please men, but with sincerity of heart, fearing the Lord."
 
 "No! no! no! my soul an't yours, Mas'r! You have n't bought it,—ye can't buy it! It's been bought and paid for, by one that is able to keep it;—no matter, no matter, you can't harm me!"
 
@@ -8222,7 +8227,7 @@ The woman Cassy—for it was she—set down her lantern, and, pouring water from
 
 "Drink all ye want," she said; "I knew how it would be. It is n't the first time I 've been out in the night, carrying water to such as you."
 
-"Thank you, Missis," said Tom, when he had done drinking. "Don't call me Missis! I'm a miserable slave, like yourself,—a lower one than you can ever be!" said she, bitterly; "but now," said she, going to the door, and dragging in a small pallaise,<sup>1</sup> over which she had spread linen cloths wet with cold water, "try, my poor fellow, to roll yourself on to this."
+"Thank you, Missis," said Tom, when he had done drinking. "Don't call me Missis! I'm a miserable slave, like yourself,—a lower one than you can ever be!" said she, bitterly; "but now," said she, going to the door, and dragging in a small pallaise,1 over which she had spread linen cloths wet with cold water, "try, my poor fellow, to roll yourself on to this."
 
 Stiff with wounds and bruises,Tom was a long time in accomplishing this movement; but, when done, he felt a sensible relief from the cooling application to his wounds.
 
@@ -8244,7 +8249,7 @@ Tom closed his eyes, and shuddered at the dark, atheistic words.
 
 "You see," said the woman, "you don't know anything about it;—I do. I've been on this place five years, body and soul, under this man's foot; and I hate him as I do the devil! Here you are, on a lone plantation, ten miles from any other, in the swamps; not a white person here, who could testify, if you were burned alive, if you were scalded, cut into inch-pieces, set up for the dogs to
 
-<sup>1</sup> Usually spelled "palliasse" (French), a thin mattress filled with straw or sawdust.
+1 Usually spelled "palliasse" (French), a thin mattress filled with straw or sawdust.
 
 tear, or hung up and whipped to death. There 's no law here, of God or man, that can do you, or any one of us, the least good; and, this man! there 's no earthly thing that he 's too good to do. I could make any one's hair rise, and their teeth chatter, if I should only tell what I've seen and been knowing to, here,—and it 's no use resisting! Did I want to live with him? Was n't I a woman delicately bred; and he—God in heaven! what was he, and is he? And yet, I 've lived with him, these five years, and cursed every moment of my life,—night and day! And now, he 's got a new one,—a young thing, only fifteen, and she brought up, she says, piously. Her good mistress taught her to read the Bible; and she 's brought her Bible here—to hell with her!"—and the woman laughed a wild and doleful laugh, that rung, with a strange, supernatural sound, through the old ruined shed.
 
@@ -8282,7 +8287,7 @@ Tom was weeping, also, and occasionally uttering a smothered ejaculation.
 
 "Missis," said Tom, after a while, "I can see that, some how, you 're quite 'bove me in everything; but there 's one thing Missis might learn even from poor Tom. Ye said the Lord took sides against us, because he lets us be 'bused and knocked round; but ye see what come on his own Son,—the blessed Lord of Glory, wan't he allays poor? and have we, any on us, yet come so low as he come? The Lord han't forgot us,—I 'm sartin' o' that ar'. If we suffer with him, we shall also reign, Scripture says; but, if we deny Him, he also will deny us. Did n't they all suffer?—the Lord and all his? It tells how they was stoned and sawn asunder, and wandered about in sheep-skins and goat-skins, and was destitute, afflicted, tormented. Sufferin' an't no reason to make us think the Lord 's turned agin us; but jest the contrary, if only we hold on to him, and does n't give up to sin."
 
-<sup>1</sup> See Luke 23.34 and the account of Christ on the cross: "Then said Jesus, 'Father, forgive them; for they know not what they do.' And they parted his raiment, and cast lots."
+1 See Luke 23.34 and the account of Christ on the cross: "Then said Jesus, 'Father, forgive them; for they know not what they do.' And they parted his raiment, and cast lots."
 
 "But why does he put us where we can't help but sin?" said the woman.
 
@@ -8304,7 +8309,7 @@ The woman did not answer; she sat with her black eyes intently fixed on the floo
 
 "I wanted only one thing—I did want him to marry me. I thought, if he loved me as he said he did, and if I was what he seemed to think I was, he would be willing to marry me and set me free. But he convinced me that it would be impossible; and he told me that, if we were only faithful to each other, it was marriage before God. If that is true, was n't I that man's wife? Was n't I faithful? For seven years, did n't I study every look and motion, and only live and breathe to please him? He had the yellow fever,1 and for twenty days and nights I watched with him. I alone,—and gave him all his medicine, and did everything for him; and then he called me his good angel, and said I 'd saved his life. We had two beautiful children. The first was a boy, and we called him Henry. He was the image of his father,—he had such beautiful eyes, such a forehead, and his hair hung all in curls around it; and he had all his father's spirit, and his talent, too. Little Elise, he said, looked like me. He used to tell me that I was the most beautiful woman in Louisiana, he was so proud of me and the children. He used to love to have me dress them up, and take them and me about in an open carriage, and hear the remarks that people would make on us; and he used to fill my ears constantly with the fine things that were said in praise of me and the children. O, those were happy days! I thought I was as happy as any one could be; but then there
 
-<sup>1</sup> An infectious disease transmitted by mosquitoes.
+1 An infectious disease transmitted by mosquitoes.
 
 came evil times. He had a cousin come to New Orleans, who was his particular friend,—he thought all the world of him;—but, from the first time I saw him, I could n't tell why, I dreaded him; for I felt sure he was going to bring misery on us. He got Henry to going out with him, and often he would not come home nights till two or three o'clock. I did not dare say a word; for Henry was so high-spirited, I was afraid to. He got him to the gaming-houses;1 and he was one of the sort that, when he once got a going there, there was no holding back. And then he introduced him to another lady, and I saw soon that his heart was gone from me. He never told me, but I saw it,—I knew it, day after day,—I felt my heart breaking, but I could not say a word! At this, the wretch offered to buy me and the children of Henry, to clear off his gambling debts, which stood in the way of his marrying as he wished;—and he sold us. He told me, one day, that he had business in the country, and should be gone two or three weeks. He spoke kinder than usual, and said he should come back; but it did n't deceive me. I knew that the time had come; I was just like one turned into stone; I couldn't speak, nor shed a tear. He kissed me and kissed the children, a good many times, and went out. I saw him get on his horse, and I watched him till he was quite out of sight; and then I fell down, and fainted.
 
@@ -8314,7 +8319,7 @@ came evil times. He had a cousin come to New Orleans, who was his particular fri
 
 "I gave up, for my hands were tied. He had my children;—whenever I resisted his will anywhere, he would talk about selling them, and he made me as submissive as he desired. O, what a life it was! to live with my heart breaking, every day,—to keep on, on, on, loving, when it was only misery; and to be bound, body and soul, to one I hated. I used to love to read to Henry, to play to him, to waltz with him, and sing to him; but everything I did for this one was a
 
-<sup>1</sup> I.e., gambling houses.
+1 I.e., gambling houses.
 
 perfect drag,—yet I was afraid to refuse anything. He was very imperious, and harsh to the children. Elise was a timid little thing; but Henry was bold and high-spirited, like his father, and he had never been brought under, in the least, by any one. He was always finding fault, and quarrelling with him; and I used to live in daily fear and dread. I tried to make the child respectful;—I tried to keep them apart, for I held on to those children like death; but it did no good. He sold both those children. He took me to ride, one day, and when I came home, they were nowhere to be found! He told me he had sold them; he showed me the money, the price of their blood. Then it seemed as if all good forsook me. I raved and cursed, cursed God and man; and, for a while, I believe, he really was afraid of me. But he did n't give up so. He told me that my children were sold, but whether I ever saw their faces again, depended on him; and that, if I was n't quiet, they should smart for it. Well, you can do anything with a woman, when you've got her children. He made me submit; he made me be peaceable; he flattered me with hopes that, perhaps, he would buy them back; and so things went on, a week or two. One day, I was out walking, and passed by the calaboose; I saw a crowd about the gate, and heard a child's voice,—and suddenly my Henry broke away from two or three men who were holding him, and ran, screaming, and caught my dress. They came up to him, swearing dreadfully; and one man, whose face I shall never forget, told him that he would n't get away so; that he was going with him into the calaboose, and he 'd get a lesson there he 'd never forget. I tried to beg and plead,—they only laughed; the poor boy screamed and looked into my face, and held on to me, until, in tearing him off, they tore the skirt of my dress half away; and they carried him in, screaming 'Mother! mother! mother!'There was one man stood there seemed to pity me. I offered him all the money I had, if he 'd only interfere. He shook his head, and said that the boy had been impudent and disobedient, ever since he bought him; that he was going to break him in, once for all. I turned and ran; and every step of the way, I thought that I heard him scream. I got into the house; ran, all out of breath, to the parlor, where I found Butler. I told him, and begged him to go and interfere. He only laughed, and told me the boy had got his deserts. He 'd got to be broken in, the sooner the better; 'what did I expect?' he asked.
 
@@ -8326,7 +8331,7 @@ perfect drag,—yet I was afraid to refuse anything. He was very imperious, and 
 
 The woman stopped. She had hurried on through her story,
 
-<sup>1</sup> See page 113, note 2.
+1 See page 113, note 2.
 
 with a wild, passionate utterance; sometimes seeming to address it to Tom, and sometimes speaking as in a soliloquy. So vehement and overpowering was the force with which she spoke, that, for a season,Tom was beguiled even from the pain of his wounds, and, raising himself on one elbow, watched her as she paced restlessly up and down, her long black hair swaying heavily about her, as she moved.
 
@@ -8360,15 +8365,15 @@ Tom looked as if he would speak again; but she cut him short, with a decided ges
 
 "And slight, withal, may be the things that bring Back on the heart the weight which it would fling Aside forever; it may be a sound, A flower, the wind, the ocean, which shall wound,— Striking the electric chain wherewith we're darkly bound."
 
-## Childe Harold's Pilgrimage, Can. 4.<sup>1</sup>
+## Childe Harold's Pilgrimage, Can. 4.1
 
 THE sitting-room of Legree's establishment was a large, long room, with a wide, ample fireplace. It had once been hung with a showy and expensive paper, which now hung mouldering, torn and discolored, from the damp walls. The place had that peculiar sickening, unwholesome smell, compounded of mingled damp, dirt and decay, which one often notices in close old houses. The wall-paper was defaced, in spots, by slops of beer and wine; or garnished with chalk memorandums, and long sums footed up,2 as if somebody had been practising arithmetic there. In the fireplace stood a brazier full of burning charcoal; for, though the weather was not cold, the evenings always seemed damp and chilly in that great room; and Legree, moreover, wanted a place to light his cigars, and heat his water for punch. The ruddy glare of the charcoal displayed the confused and unpromising aspect of the room,—saddles, bridles, several sorts of harness, riding-whips, overcoats, and various articles of clothing, scattered up and down the room in confused variety; and the dogs, of whom we have before spoken, had encamped themselves among them, to suit their own taste and convenience.
 
-<sup>1</sup> From Lord Byron's narrative poem Childe Harold's Pilgrimage (1812- 18), Canto 4.23.
+1 From Lord Byron's narrative poem Childe Harold's Pilgrimage (1812- 18), Canto 4.23.
 
-<sup>2</sup> I.e., added up.
+2 I.e., added up.
 
-Legree was just mixing himself a tumbler of punch,<sup>1</sup> pouring his hot water from a cracked and broken-nosed pitcher grumbling, as he did so,
+Legree was just mixing himself a tumbler of punch,1 pouring his hot water from a cracked and broken-nosed pitcher grumbling, as he did so,
 
 "Plague on that Sambo, to kick up this yer row between me and the new hands! The fellow won't be fit to work for a week, now,—right in the press of the season!"
 
@@ -8394,7 +8399,7 @@ The last words she whispered in a hissing tone, close to his ear.
 
 Cassy had always kept over Legree the kind of influence that a strong, impassioned woman can ever keep over the most brutal man; but, of late, she had grown more and more irritable and restless, under the hideous yoke of her servitude, and her irritability, at times, broke out into raving insanity; and this liability made her a sort of object of dread to Legree, who had that superstitious horror of insane persons which is common to coarse and uninstructed minds. When Legree brought Emmeline to the house, all the smouldering embers of womanly feeling flashed up in the worn heart of Cassy, and she took part with the girl; and a fierce quarrel ensued between her and Legree. Legree, in a fury, swore she should be put to field service, if she would not be peaceable. Cassy, with proud scorn, declared she would go to the
 
-<sup>1</sup> I.e., a mixed drink.
+1 I.e., a mixed drink.
 
 field. And she worked there one day, as we have described, to show how perfectly she scorned the threat.
 
@@ -8406,7 +8411,7 @@ The outrageous treatment of poor Tom had roused her still more; and she had foll
 
 "You talk about behaving decently! And what have you been doing?—you, who have n't even sense enough to keep from spoiling one of your best hands, right in the most pressing season, just for your devilish temper!"
 
-"I was a fool, it 's a fact, to let any such brangle<sup>1</sup> come up," said Legree; "but, when the boy set up his will, he had to be broke in."
+"I was a fool, it 's a fact, to let any such brangle1 come up," said Legree; "but, when the boy set up his will, he had to be broke in."
 
 ## "I reckon you won't break him in!"
 
@@ -8430,7 +8435,7 @@ There dropped out of it a silver dollar, and a long, shining curl of fair hair,�
 
 Sambo stood, with his heavy mouth wide open, and aghast
 
-<sup>1</sup> I.e., a squabble.
+1 I.e., a squabble.
 
 with wonder; and Cassy, who was preparing to leave the apartment, stopped, and looked at him in perfect amazement.
 
@@ -8444,21 +8449,21 @@ And what was the matter with Legree? and what was there in a simple curl of fair
 
 That was Legree's day of grace; then good angels called him; then he was almost persuaded, and mercy held him by the hand. His heart inly relented,—there was a conflict,—but sin got the victory, and he set all the force of his rough nature against the conviction of his conscience. He drank and swore,—was wilder and more brutal than ever. And, one night, when his mother, in the last agony of her despair, knelt at his feet, he spurned her from him, threw her senseless on the floor, and, with brutal curses, fled to his ship. The next Legree heard of his mother was, when, one night, as he was carousing among drunken companions, a letter was put into his hand. He opened it, and a lock of long, curling hair fell from it, and twined about his fingers. The letter told him his mother was dead, and that, dying, she blest and forgave him.
 
-There is a dread, unhallowed necromancy of evil, that turns things sweetest and holiest to phantoms of horror and affright. That pale, loving mother,—her dying prayers, her forgiving love,—wrought in that demoniac heart of sin only as a damning sentence, bringing with it a fearful looking for of judgment and fiery indignation. Legree burned the hair, and burned the letter; and when he saw them hissing and crackling in the flame, inly shuddered as he thought of everlasting fires. He tried to drink, and revel, and swear away the memory; but often, in the deep night, whose solemn stillness arraigns the bad soul in forced communion with herself, he had seen that pale mother rising by his bedside, and felt the soft twining of that hair around his fingers, till the cold sweat would roll down his face, and he would spring from his bed in horror. Ye who have wondered to hear, in the same evangel,<sup>1</sup> that God is love, and that God is a consuming fire, see ye not how, to the soul resolved in evil, perfect love is the most fearful torture, the seal and sentence of the direst despair?
+There is a dread, unhallowed necromancy of evil, that turns things sweetest and holiest to phantoms of horror and affright. That pale, loving mother,—her dying prayers, her forgiving love,—wrought in that demoniac heart of sin only as a damning sentence, bringing with it a fearful looking for of judgment and fiery indignation. Legree burned the hair, and burned the letter; and when he saw them hissing and crackling in the flame, inly shuddered as he thought of everlasting fires. He tried to drink, and revel, and swear away the memory; but often, in the deep night, whose solemn stillness arraigns the bad soul in forced communion with herself, he had seen that pale mother rising by his bedside, and felt the soft twining of that hair around his fingers, till the cold sweat would roll down his face, and he would spring from his bed in horror. Ye who have wondered to hear, in the same evangel,1 that God is love, and that God is a consuming fire, see ye not how, to the soul resolved in evil, perfect love is the most fearful torture, the seal and sentence of the direst despair?
 
 "Blast it!" said Legree to himself, as he sipped his liquor; "where did he get that? If it did n't look just like—whoo! I thought I 'd forgot that. Curse me, if I think there's any such thing as forgetting anything, any how,—hang it! I'm lonesome! I mean to call Em. She hates me—the monkey! I don't care,—I 'll make her come!"
 
-Legree stepped out into a large entry, which went up stairs, by what had formerly been a superb winding staircase; but the passage-way was dirty and dreary, encumbered with boxes and unsightly litter. The stairs, uncarpeted, seemed winding up, in the gloom, to nobody knew where! The pale moonlight streamed through a shattered fanlight over the door; the air was unwholesome and chilly, like that of a vault.<sup>2</sup>
+Legree stepped out into a large entry, which went up stairs, by what had formerly been a superb winding staircase; but the passage-way was dirty and dreary, encumbered with boxes and unsightly litter. The stairs, uncarpeted, seemed winding up, in the gloom, to nobody knew where! The pale moonlight streamed through a shattered fanlight over the door; the air was unwholesome and chilly, like that of a vault.2
 
 Legree stopped at the foot of the stairs, and heard a voice singing. It seemed strange and ghostlike in that dreary old house, perhaps because of the already tremulous state of his nerves. Hark! what is it?
 
 A wild, pathetic voice, chants a hymn common among the slaves:
 
-<sup>1</sup> Strictly speaking, one of the four gospels of the Bible (Matthew, Mark, Luke, and John), but here a more general reference to the "good news" of Christ's coming and redemption. Consuming fire: see Deuteronomy 4.24: "For the Lord thy God is a consuming fire, even a jealous God."
+1 Strictly speaking, one of the four gospels of the Bible (Matthew, Mark, Luke, and John), but here a more general reference to the "good news" of Christ's coming and redemption. Consuming fire: see Deuteronomy 4.24: "For the Lord thy God is a consuming fire, even a jealous God."
 
-<sup>2</sup> A tomb or burial chamber.
+2 A tomb or burial chamber.
 
-"O there 'll be mourning, mourning, mourning, O there 'll be mourning, at the judgment-seat of Christ!"<sup>1</sup>
+"O there 'll be mourning, mourning, mourning, O there 'll be mourning, at the judgment-seat of Christ!"1
 
 "Blast the girl!" said Legree. "I 'll choke her.—Em! Em!" he called, harshly; but only a mocking echo from the walls answered him. The sweet voice still sung on:
 
@@ -8476,13 +8481,13 @@ Ah, Legree! that golden tress was charmed; each hair had in it a spell of terror
 
 "'I 'll have Sambo and Quimbo up here, to sing and dance one of their hell dances, and keep off these horrid notions," said Legree; and, putting on his hat, he went on to the verandah, and blew a horn, with which he commonly summoned his two sable drivers.
 
-Legree was often wont,<sup>2</sup> when in a gracious humor, to get these two worthies into his sitting-room, and, after warming them up with whiskey, amuse himself by setting them to singing, dancing or fighting, as the humor took him.
+Legree was often wont,2 when in a gracious humor, to get these two worthies into his sitting-room, and, after warming them up with whiskey, amuse himself by setting them to singing, dancing or fighting, as the humor took him.
 
 It was between one and two o'clock at night, as Cassy was returning from her ministrations to poor Tom, that she heard the sound of wild shrieking, whooping, halloing, and singing, from
 
-<sup>1</sup> From the spiritual entitled "Judgment Seat."
+1 From the spiritual entitled "Judgment Seat."
 
-<sup>2</sup> Accustomed.
+2 Accustomed.
 
 the sitting-room, mingled with the barking of dogs, and other symptoms of general uproar.
 
@@ -8514,7 +8519,7 @@ CASSY entered the room, and found Emmeline sitting, pale with fear, in the furth
 
 "What would n't he do, you 'd better ask," said Cassy. "He 's learned his trade well, among the pirates in the West Indies.1You
 
-<sup>1</sup> The many islands of the Caribbean.
+1 The many islands of the Caribbean.
 
 wouldn't sleep much, if I should tell you things I 've seen, things that he tells of, sometimes, for good jokes. I 've heard screams here that I have n't been able to get out of my head for weeks and weeks. There 's a place way out down by the quarters, where you can see a black, blasted tree, and the ground all covered with black ashes. Ask any one what was done there, and see if they will dare to tell you."
 
@@ -8590,11 +8595,11 @@ Legree, like many other planters, had but one form of ambition,—to have in the
 
 "Who a cuss cares what he knows? The nigger shall say what I please, or—"
 
-"Or, you 'll lose your bet on the cotton crop, by keeping him out of the field, just at this very press."<sup>1</sup>
+"Or, you 'll lose your bet on the cotton crop, by keeping him out of the field, just at this very press."1
 
 "But he will give up,—course, he will; don't I know what niggers is? He 'll beg like a dog, this morning."
 
-<sup>1</sup> I.e., just at the height of the season when labor needs are greatest.
+1 I.e., just at the height of the season when labor needs are greatest.
 
 "He won't, Simon; you don't know this kind. You may kill him by inches,—you won't get the first word of confession out of him."
 
@@ -8604,9 +8609,9 @@ Legree, like many other planters, had but one form of ambition,—to have in the
 
 Legree, though he talked so stoutly to Cassy, still sallied forth from the house with a degree of misgiving which was not common with him. His dreams of the past night, mingled with Cassy's prudential suggestions, considerably affected his mind. He resolved that nobody should be witness of his encounter with Tom; and determined, if he could not subdue him by bullying, to defer his vengeance, to be wreaked in a more convenient season.
 
-The solemn light of dawn—the angelic glory of the morningstar—had looked in through the rude window of the shed where Tom was lying; and, as if descending on that star-beam, came the solemn words, "I am the root and offspring of David, and the bright and morning star."<sup>1</sup> The mysterious warnings and intimations of Cassy, so far from discouraging his soul, in the end had roused it as with a heavenly call. He did not know but that the day of his death was dawning in the sky; and his heart throbbed with solemn throes of joy and desire, as he thought that the wondrous all, of which he had often pondered,—the great white throne, with its ever radiant rainbow; the white-robed multitude, with voices as many waters; the crowns, the palms, the harps, might all break upon his vision before that sun should set again. And, therefore, without shuddering or trembling, he heard the voice of his persecutor, as he drew near.
+The solemn light of dawn—the angelic glory of the morningstar—had looked in through the rude window of the shed where Tom was lying; and, as if descending on that star-beam, came the solemn words, "I am the root and offspring of David, and the bright and morning star."1 The mysterious warnings and intimations of Cassy, so far from discouraging his soul, in the end had roused it as with a heavenly call. He did not know but that the day of his death was dawning in the sky; and his heart throbbed with solemn throes of joy and desire, as he thought that the wondrous all, of which he had often pondered,—the great white throne, with its ever radiant rainbow; the white-robed multitude, with voices as many waters; the crowns, the palms, the harps, might all break upon his vision before that sun should set again. And, therefore, without shuddering or trembling, he heard the voice of his persecutor, as he drew near.
 
-"Well, my boy," said Legree, with a contemptuous kick, "how do you find yourself? Did n't I tell yer I could larn yer a thing or two? How do yer like it,—eh? How did yer whaling agree with yer, Tom? An't quite so crank<sup>2</sup> as ye was last night. Ye could n't treat a poor sinner, now, to a bit of a sermon, could ye,—eh?"
+"Well, my boy," said Legree, with a contemptuous kick, "how do you find yourself? Did n't I tell yer I could larn yer a thing or two? How do yer like it,—eh? How did yer whaling agree with yer, Tom? An't quite so crank2 as ye was last night. Ye could n't treat a poor sinner, now, to a bit of a sermon, could ye,—eh?"
 
 Tom answered nothing.
 
@@ -8616,9 +8621,9 @@ This was a difficult matter for one so bruised and faint; and, as Tom made effor
 
 "What makes ye so spry, this morning, Tom? Cotched cold, may be, last night."
 
-<sup>1</sup> See Revelation 22.16: "'I, Jesus, have sent mine angel to testify unto you these things in the churches. I am the root and the offspring of David, and the bright and morning star.'"
+1 See Revelation 22.16: "'I, Jesus, have sent mine angel to testify unto you these things in the churches. I am the root and the offspring of David, and the bright and morning star.'"
 
-<sup>2</sup> I.e., high-spirited or impudent.
+2 I.e., high-spirited or impudent.
 
 Tom by this time had gained his feet, and was confronting his master with a steady, unmoved front.
 
@@ -8664,7 +8669,7 @@ Legree turned, and went out.
 
 "There you go," said Cassy, looking darkly after him; "your reckoning 's to come, yet!—My poor fellow, how are you?"
 
-"The Lord God hath sent his angel, and shut the lion's mouth, for this time,"<sup>1</sup> said Tom.
+"The Lord God hath sent his angel, and shut the lion's mouth, for this time,"1 said Tom.
 
 "For this time, to be sure," said Cassy; "but now you 've got his ill will upon you, to follow you day in, day out, hanging like a dog on your throat,—sucking your blood, bleeding away your life, drop by drop. I know the man."
 
@@ -8672,13 +8677,13 @@ Legree turned, and went out.
 
 "No matter with what solemnities he may have been devoted upon the altar of slavery, the moment he touches the sacred soil of Britain, the altar and the God sink together in the dust, and he stands redeemed, regenerated, and disenthralled, by the irresistible genius of universal emancipation."
 
-## —Curran.<sup>2</sup>
+## —Curran.2
 
 A WHILE we must leave Tom in the hands of his persecutors, while we turn to pursue the fortunes of George and his wife, whom we left in friendly hands, in a farm-house on the road-side.
 
-<sup>1</sup> See Daniel 6.12-28.
+1 See Daniel 6.12-28.
 
-<sup>2</sup> John Philpot Curran (1750-1817), an Irish statesman and lawyer, here alludes to the famous case of James Somerset, an American slave who claimed and was awarded his freedom after his master brought him to England.
+2 John Philpot Curran (1750-1817), an Irish statesman and lawyer, here alludes to the famous case of James Somerset, an American slave who claimed and was awarded his freedom after his master brought him to England.
 
 Tom Loker we left groaning and touzling1 in a most immaculately clean Quaker bed, under the motherly supervision of Aunt Dorcas, who found him to the full as tractable a patient as a sick bison.
 
@@ -8712,7 +8717,7 @@ Dorcas removed a comforter from the bed, straightened the clothes again, and tuc
 
 "We will attend to that matter," said Dorcas, with characteristic composure.
 
-<sup>1</sup> I.e., tossing.
+1 I.e., tossing.
 
 As we at this place take leave of Tom Loker, we may as well say, that, having lain three weeks at the Quaker dwelling, sick with a rheumatic fever, which set in, in company with his other afflictions,Tom arose from his bed a somewhat sadder and wiser man; and, in place of slave-catching, betook himself to life in one of the new settlements, where his talents developed themselves more happily in trapping bears, wolves, and other inhabitants of the forest, in which he made himself quite a name in the land. Tom always spoke reverently of the Quakers. "Nice people," he would say; "wanted to convert me, but could n't come it, exactly. But, tell ye what, stranger, they do fix up a sick fellow first rate, no mistake. Make jist the tallest kind o' broth and knicknacks."
 
@@ -8770,7 +8775,7 @@ The child clung shyly to the woman.
 
 "I advise you to keep them on pretty strictly," said George. "Your little slender paw might bring us all out. Now, Mrs. Smyth, you are to go under our charge, and be our aunty,—you mind."
 
-"I 've heard," said Mrs. Smyth, "that there have been men down, warning all the packet<sup>1</sup> captains against a man and woman, with a little boy."
+"I 've heard," said Mrs. Smyth, "that there have been men down, warning all the packet1 captains against a man and woman, with a little boy."
 
 "They have!" said George. "Well, if we see any such people, we can tell them."
 
@@ -8784,7 +8789,7 @@ George was standing at the captain's office, settling for his party, when he ove
 
 "I 've watched every one that came on board," said one, "and I know they 're not on this boat."
 
-<sup>1</sup> A boat that carried passengers and mail.
+1 A boat that carried passengers and mail.
 
 The voice was that of the clerk of the boat. The speaker whom he addressed was our sometime friend Marks, who, with that valuable perseverance which characterized him, had come on to Sandusky, seeking whom he might devour.
 
@@ -8804,7 +8809,7 @@ But the boat swept on. Hours fleeted, and, at last, clear and full rose the bles
 
 George and his wife stood arm in arm, as the boat neared the small town of Amherstberg, in Canada. His breath grew thick and short; a mist gathered before his eyes; he silently pressed the little hand that lay trembling on his arm. The bell rang; the boat stopped. Scarcely seeing what he did, he looked out his baggage, and gathered his little party. The little company were landed on the shore. They stood still till the boat had cleared; and then, with tears and embracings, the husband and wife, with their wondering child in their arms, knelt down and lifted up their hearts to God!
 
-"'Twas something like the burst from death to life; From the grave's cerements to the robes of heaven; From sin's dominion, and from passion's strife, To the pure freedom of a soul forgiven; Where all the bonds of death and hell are riven, And mortal puts on immortality, When Mercy's hand hath turned the golden key, And Mercy's voice hath said, Rejoice, thy soul is free."<sup>1</sup>
+"'Twas something like the burst from death to life; From the grave's cerements to the robes of heaven; From sin's dominion, and from passion's strife, To the pure freedom of a soul forgiven; Where all the bonds of death and hell are riven, And mortal puts on immortality, When Mercy's hand hath turned the golden key, And Mercy's voice hath said, Rejoice, thy soul is free."1
 
 The little party were soon guided, by Mrs. Smyth, to the hospitable abode of a good missionary, whom Christian charity has placed here as a shepherd to the out-cast and wandering, who are constantly finding an asylum on this shore.
 
@@ -8812,7 +8817,7 @@ Who can speak the blessedness of that first day of freedom? Is not the sense of 
 
 ### CHAPTER XXXVIII THE VICTORY
 
-"Thanks be unto God, who giveth us the victory."<sup>3</sup>
+"Thanks be unto God, who giveth us the victory."3
 
 - 1 The sources of this verse and the others in this passage have not been identified and may have been written by Stowe herself.
 - 2 See Matthew 6.26-28: "Look at the birds of the air, that they do not sow, nor reap nor gather into barns, and yet your heavenly Father feeds them. And who of you by being worried can add a single hour to his life? And why are you worried about clothing? Observe how the lilies of the field grow."
@@ -8840,21 +8845,21 @@ The cruel taunt was more than hunger and cold and nakedness. Tom was silent.
 
 "The Lord forbid!" said Tom, fervently.
 
-"You see the Lord an't going to help you; if he had been, he would n't have let me get you! This yer religion is all a mess of lying trumpery,Tom. I know all about it. Ye 'd better hold to me;<sup>1</sup> I 'm somebody, and can do something!"
+"You see the Lord an't going to help you; if he had been, he would n't have let me get you! This yer religion is all a mess of lying trumpery,Tom. I know all about it. Ye 'd better hold to me;1 I 'm somebody, and can do something!"
 
 "No, Mas'r," said Tom; "I 'll hold on. The Lord may help me, or not help; but I 'll hold to him, and believe him to the last!"
 
 "The more fool you!" said Legree, spitting scornfully at him, and spurning him with his foot. "Never mind; I 'll chase you down, yet, and bring you under,—you'll see!" and Legree turned away.
 
-When a heavy weight presses the soul to the lowest level at which endurance is possible, there is an instant and desperate effort of every physical and moral nerve to throw off the weight; and hence the heaviest anguish often precedes a return tide of joy and courage. So was it now with Tom. The atheistic taunts of his cruel master sunk his before dejected soul to the lowest ebb; and, though the hand of faith still held to the eternal rock,<sup>2</sup> it was with a numb, despairing grasp. Tom sat, like one stunned, at the fire. Suddenly everything around him seemed to fade, and a vision rose before him of one crowned with thorns, buffeted and bleeding. Tom gazed, in awe and wonder, at the majestic patience of the face; the deep, pathetic eyes thrilled him to his inmost heart; his soul woke, as, with floods of emotion, he stretched out his hands and fell upon his knees,—when, gradually, the vision changed: the sharp thorns became rays of glory; and, in splendor inconceivable, he saw that same face bending compassionately towards him, and a voice said, "He that overcometh shall sit down with me on my throne, even as I also overcame, and am set down with my Father on his throne."<sup>3</sup>
+When a heavy weight presses the soul to the lowest level at which endurance is possible, there is an instant and desperate effort of every physical and moral nerve to throw off the weight; and hence the heaviest anguish often precedes a return tide of joy and courage. So was it now with Tom. The atheistic taunts of his cruel master sunk his before dejected soul to the lowest ebb; and, though the hand of faith still held to the eternal rock,2 it was with a numb, despairing grasp. Tom sat, like one stunned, at the fire. Suddenly everything around him seemed to fade, and a vision rose before him of one crowned with thorns, buffeted and bleeding. Tom gazed, in awe and wonder, at the majestic patience of the face; the deep, pathetic eyes thrilled him to his inmost heart; his soul woke, as, with floods of emotion, he stretched out his hands and fell upon his knees,—when, gradually, the vision changed: the sharp thorns became rays of glory; and, in splendor inconceivable, he saw that same face bending compassionately towards him, and a voice said, "He that overcometh shall sit down with me on my throne, even as I also overcame, and am set down with my Father on his throne."3
 
 How long Tom lay there, he knew not. When he came to himself, the fire was gone out, his clothes were wet with the chill and drenching dews; but the dread soul-crisis was past, and, in the joy that filled him, he no longer felt hunger, cold, degradation, disappointment, wretchedness. From his deepest soul, he that hour loosed and parted from every hope in the life that now is, and offered his own will an unquestioning sacrifice to the Infinite. Tom looked up to the silent, ever-living stars,—types of the angelic hosts who ever look down on man; and the solitude of the
 
-<sup>1</sup> An allusion to Matthew 6.24: "No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon."
+1 An allusion to Matthew 6.24: "No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon."
 
-<sup>2</sup> See Isaiah 26.4: "Trust in the LORD forever, For in GOD the LORD, we have an everlasting Rock."
+2 See Isaiah 26.4: "Trust in the LORD forever, For in GOD the LORD, we have an everlasting Rock."
 
-<sup>3</sup> See Revelation 3.21.
+3 See Revelation 3.21.
 
 night rung with the triumphant words of a hymn, which he had sung often in happier days, but never with such feeling as now:
 
@@ -8862,15 +8867,15 @@ night rung with the triumphant words of a hymn, which he had sung often in happi
 
 "And when this mortal life shall fail, And flesh and sense shall cease, I shall possess within the veil A life of joy and peace.
 
-"When we've been there ten thousand years, Bright shining like the sun, We 've no less days to sing God's praise Than when we first begun."<sup>1</sup>
+"When we've been there ten thousand years, Bright shining like the sun, We 've no less days to sing God's praise Than when we first begun."1
 
-Those who have been familiar with the religious histories of the slave population know that relations like what we have narrated are very common among them. We have heard some from their own lips, of a very touching and affecting character. The psychologist tells us of a state, in which the affections and images of the mind become so dominant and overpowering, that they press into their service the outward senses, and make them give tangible shape to the inward imagining. Who shall measure what an all-pervading Spirit may do with these capabilities of our mortality, or the ways in which He may encourage the desponding souls of the desolate? If the poor forgotten slave believes that Jesus hath appeared and spoken to him, who shall contradict him? Did He not say that his mission, in all ages, was to bind up the broken-hearted, and set at liberty them that are bruised?<sup>2</sup>
+Those who have been familiar with the religious histories of the slave population know that relations like what we have narrated are very common among them. We have heard some from their own lips, of a very touching and affecting character. The psychologist tells us of a state, in which the affections and images of the mind become so dominant and overpowering, that they press into their service the outward senses, and make them give tangible shape to the inward imagining. Who shall measure what an all-pervading Spirit may do with these capabilities of our mortality, or the ways in which He may encourage the desponding souls of the desolate? If the poor forgotten slave believes that Jesus hath appeared and spoken to him, who shall contradict him? Did He not say that his mission, in all ages, was to bind up the broken-hearted, and set at liberty them that are bruised?2
 
 When the dim gray of dawn woke the slumberers to go forth
 
-<sup>1</sup> From John Newton's (1725-1807) famous hymn "Amazing Grace" (c. 1772).
+1 From John Newton's (1725-1807) famous hymn "Amazing Grace" (c. 1772).
 
-<sup>2</sup> See Isaiah 61.1 ("The Spirit of the Lord GOD is upon me; because the LORD hath anointed me to preach good tidings unto the meek; he hath sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to them that are bound") and Luke 4.18 ("The Spirit of the Lord is upon me, because he hath anointed me to preach the gospel to the poor; he hath sent me to heal the brokenhearted, to preach deliverance to the captives, and recovering of sight to the blind, to set at liberty them that are bruised").
+2 See Isaiah 61.1 ("The Spirit of the Lord GOD is upon me; because the LORD hath anointed me to preach good tidings unto the meek; he hath sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to them that are bound") and Luke 4.18 ("The Spirit of the Lord is upon me, because he hath anointed me to preach the gospel to the poor; he hath sent me to heal the brokenhearted, to preach deliverance to the captives, and recovering of sight to the blind, to set at liberty them that are bruised").
 
 to the field, there was among those tattered and shivering wretches one who walked with an exultant tread; for firmer than the ground he trod on was his strong faith in Almighty, eternal love. Ah, Legree, try all your forces now! Utmost agony, woe, degradation, want, and loss of all things, shall only hasten on the process by which he shall be made a king and a priest unto God!
 
@@ -8900,9 +8905,9 @@ It was a superb moonlight night, and the shadows of the graceful China trees lay
 
 "Should earth against my soul engage, And hellish darts be hurled, Then I can smile at Satan's rage, And face a frowning world.
 
-"Let cares like a wild deluge come, And storms of sorrow fall, May I but safely reach my home, My God, my Heaven, my All."<sup>1</sup>
+"Let cares like a wild deluge come, And storms of sorrow fall, May I but safely reach my home, My God, my Heaven, my All."1
 
-"So ho!" said Legree to himself, "he thinks so, does he? How I hate these cursed Methodist hymns! Here, you nigger," said he, coming suddenly out upon Tom, and raising his riding-whip, "how dare you be gettin' up this yer row, when you ought to be in bed? Shut yer old black gash,<sup>2</sup> and get along in with you!"
+"So ho!" said Legree to himself, "he thinks so, does he? How I hate these cursed Methodist hymns! Here, you nigger," said he, coming suddenly out upon Tom, and raising his riding-whip, "how dare you be gettin' up this yer row, when you ought to be in bed? Shut yer old black gash,2 and get along in with you!"
 
 "Yes, Mas'r," said Tom, with ready cheerfulness, as he rose to go in.
 
@@ -8912,15 +8917,15 @@ Legree was provoked beyond measure by Tom's evident happiness; and, riding up to
 
 But the blows fell now only on the outer man, and not, as before, on the heart. Tom stood perfectly submissive; and yet Legree could not hide from himself that his power over his bond thrall was somehow gone. And, as Tom disappeared in his cabin, and he wheeled his horse suddenly round, there passed through his mind one of those vivid flashes that often send the lightning of conscience across the dark and wicked soul. He understood full well that it was GOD who was standing between him and his victim, and he blasphemed him. That submissive and silent man, whom taunts, nor threats, nor stripes, nor cruelties, could disturb, roused a voice within him, such as of old his Master roused in the
 
-<sup>1</sup> Issac Watts, "When I Can Read My Title Clear," from the frequently reprinted Hymns and Spiritual Songs (1707).
+1 Issac Watts, "When I Can Read My Title Clear," from the frequently reprinted Hymns and Spiritual Songs (1707).
 
-<sup>2</sup> I.e., shut your mouth.
+2 I.e., shut your mouth.
 
 demoniac soul, saying, "What have we to do with thee, thou Jesus of Nazareth?—art thou come to torment us before the time?"1
 
 Tom's whole soul overflowed with compassion and sympathy for the poor wretches by whom he was surrounded. To him it seemed as if his life-sorrows were now over, and as if, out of that strange treasury of peace and joy, with which he had been endowed from above, he longed to pour out something for the relief of their woes. It is true, opportunities were scanty; but, on the way to the fields, and back again, and during the hours of labor, chances fell in his way of extending a helping-hand to the weary, the disheartened and discouraged. The poor, worn-down, brutalized creatures, at first, could scarce comprehend this; but, when it was continued week after week, and month after month, it began to awaken long-silent chords in their benumbed hearts. Gradually and imperceptibly the strange, silent, patient man, who was ready to bear every one's burden, and sought help from none,—who stood aside for all, and came last, and took least, yet was foremost to share his little all with any who needed,—the man who, in cold nights, would give up his tattered blanket to add to the comfort of some woman who shivered with sickness, and who filled the baskets of the weaker ones in the field, at the terrible risk of coming short in his own measure,—and who, though pursued with unrelenting cruelty by their common tyrant, never joined in uttering a word of reviling or cursing,—this man, at last, began to have a strange power over them; and, when the more pressing season was past, and they were allowed again their Sundays for their own use, many would gather together to hear from him of Jesus. They would gladly have met to hear, and pray, and sing, in some place, together; but Legree would not permit it, and more than once broke up such attempts, with oaths and brutal execrations,—so that the blessed news had to circulate from individual to individual. Yet who can speak the simple joy with which some of those poor outcasts, to whom life was a joyless journey to a dark unknown, heard of a compassionate Redeemer and a heavenly home? It is the statement of missionaries, that, of all races of the earth, none have received the Gospel with such eager docility as the African. The principle of reliance and unquestioning faith, which is its foundation, is more a native element in this race than any other; and it has often been found among them, that a stray
 
-<sup>1</sup> See Matthew 8.29: "And, behold, they cried out, saying, 'What have we to do with thee, Jesus, thou Son of God? Art thou come hither to torment us before the time?'"
+1 See Matthew 8.29: "And, behold, they cried out, saying, 'What have we to do with thee, Jesus, thou Son of God? Art thou come hither to torment us before the time?'"
 
 seed of truth, borne on some breeze of accident into hearts the most ignorant, has sprung up into fruit, whose abundance has shamed that of higher and more skilful culture.
 
@@ -8950,7 +8955,7 @@ Tom hesitated.
 
 "But think of all these poor creatures," said Cassy. "We might set them all free, and go somewhere in the swamps, and find an
 
-<sup>1</sup> I.e., holy writing.
+1 I.e., holy writing.
 
 island, and live by ourselves; I 've heard of its being done. Any life is better than this."
 
@@ -8962,7 +8967,7 @@ island, and live by ourselves; I 've heard of its being done. Any life is better
 
 "Wait!" said Cassy. "Have n't I waited?—waited till my head is dizzy and my heart sick? What has he made me suffer? What has he made hundreds of poor creatures suffer? Is n't he wringing the life-blood out of you? I'm called on; they call me! His time's come, and I'll have his heart's blood!"
 
-"No, no, no!" said Tom, holding her small hands, which were clenched with spasmodic violence. "No, ye poor, lost soul, that ye must n't do. The dear, blessed Lord never shed no blood but his own, and that he poured out for us when we was enemies. Lord, help us to follow his steps, and love our enemies."<sup>1</sup>
+"No, no, no!" said Tom, holding her small hands, which were clenched with spasmodic violence. "No, ye poor, lost soul, that ye must n't do. The dear, blessed Lord never shed no blood but his own, and that he poured out for us when we was enemies. Lord, help us to follow his steps, and love our enemies."1
 
 "Love!" said Cassy, with a fierce glare; "love such enemies! It is n't in flesh and blood."
 
@@ -8974,7 +8979,7 @@ The deep fervor of Tom's feelings, the softness of his voice, his tears, fell li
 
 "Did n't I tell you that evil spirits followed me? O! Father Tom, I can't pray,—I wish I could. I never have prayed since my children were sold! What you say must be right, I know it
 
-<sup>1</sup> See Matthew 5.43-44: "You have heard that it has been said,You shall love your neighbor, and hate your enemy. But I say to you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which spitefully use you, and persecute you."
+1 See Matthew 5.43-44: "You have heard that it has been said,You shall love your neighbor, and hate your enemy. But I say to you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which spitefully use you, and persecute you."
 
 must; but when I try to pray, I can only hate and curse. I can't pray!"
 
@@ -9002,11 +9007,11 @@ Cassy had often revolved, for hours, all possible or probable schemes of escape,
 
 ## "Amen!" said Tom; "the Lord help ye!"
 
-<sup>1</sup> See Daniel 6.12-28, Daniel 3.9-26, and Matthew 8.24-27.
+1 See Daniel 6.12-28, Daniel 3.9-26, and Matthew 8.24-27.
 
 #### CHAPTER XXXIX THE STRATAGEM
 
-"The way of the wicked is as darkness; he knoweth not at what he stumbleth."<sup>1</sup>
+"The way of the wicked is as darkness; he knoweth not at what he stumbleth."1
 
 THE garret of the house that Legree occupied, like most other garrets, was a great, desolate space, dusty, hung with cobwebs, and littered with cast-off lumber. The opulent family that had inhabited the house in the days of its splendor had imported a great deal of splendid furniture, some of which they had taken away with them, while some remained standing desolate in mouldering, unoccupied rooms, or stored away in this place. One or two immense packing-boxes, in which this furniture was brought, stood against the sides of the garret. There was a small window there, which let in, through its dingy, dusty panes, a scanty, uncertain light on the tall, high-backed chairs and dusty tables, that had once seen better days. Altogether, it was a weird and ghostly place; but, ghostly as it was, it wanted not in legends among the superstitious negroes, to increase its terrors. Some few years before, a negro woman, who had incurred Legree's displeasure, was confined there for several weeks. What passed there, we do not say; the negroes used to whisper darkly to each other; but it was known that the body of the unfortunate creature was one day taken down from there, and buried; and, after that, it was said that oaths and cursings, and the sound of violent blows, used to ring through that old garret, and mingled with wailings and groans of despair. Once, when Legree chanced to overhear something of this kind, he flew into a violent passion, and swore that the next one that told stories about that garret should have an opportunity of knowing what was there, for he would chain them up there for a week. This hint was enough to repress talking, though, of course, it did not disturb the credit of the story in the least.
 
@@ -9014,7 +9019,7 @@ Gradually, the staircase that led to the garret, and even the passage-way to the
 
 The sleeping-room of Cassy was directly under the garret.
 
-<sup>1</sup> See Proverbs 4.19.
+1 See Proverbs 4.19.
 
 One day, without consulting Legree, she suddenly took it upon her, with some considerable ostentation, to change all the furniture and appurtenances of the room to one at some considerable distance. The under-servants, who were called on to effect this movement, were running and bustling about with great zeal and confusion, when Legree returned from a ride.
 
@@ -9050,7 +9055,7 @@ In a knot-hole of the garret, that had opened, she had inserted the neck of an o
 
 These sounds were, from time to time, heard by the servants, and revived in full force the memory of the old ghost legend. A superstitious creeping horror seemed to fill the house; and though no one dared to breathe it to Legree, he found himself encompassed by it, as by an atmosphere.
 
-No one is so thoroughly superstitious as the godless man. The Christian is composed by the belief of a wise, all-ruling Father, whose presence fills the void unknown with light and order; but to the man who has dethroned God, the spirit-land is, indeed, in the words of the Hebrew poet, "a land of darkness and the shadow of death,"<sup>1</sup> without any order, where the light is as darkness. Life and death to him are haunted grounds, filled with goblin forms of vague and shadowy dread.
+No one is so thoroughly superstitious as the godless man. The Christian is composed by the belief of a wise, all-ruling Father, whose presence fills the void unknown with light and order; but to the man who has dethroned God, the spirit-land is, indeed, in the words of the Hebrew poet, "a land of darkness and the shadow of death,"1 without any order, where the light is as darkness. Life and death to him are haunted grounds, filled with goblin forms of vague and shadowy dread.
 
 Legree had had the slumbering moral element in him roused by his encounters with Tom,—roused, only to be resisted by the determinate force of evil; but still there was a thrill and commotion of the dark, inner world, produced by every word, or prayer, or hymn, that rea¨cted in superstitious dread.
 
@@ -9060,7 +9065,7 @@ This influence had become more harassing and decided, since partial insanity had
 
 A night or two after this, Legree was sitting in the old sittingroom, by the side of a flickering wood fire, that threw uncertain glances round the room. It was a stormy, windy night, such as raises whole squadrons of nondescript noises in rickety old houses. Windows were rattling, shutters flapping, the wind carousing, rumbling, and tumbling down the chimney, and, every once in a while, puffing out smoke and ashes, as if a legion of spirits were coming after them. Legree had been casting up accounts and reading newspapers for some hours, while Cassy sat in the corner, sullenly looking into the fire. Legree laid down his paper, and seeing an old book lying on the table, which he had
 
-<sup>1</sup> See Job 10.21.
+1 See Job 10.21.
 
 noticed Cassy reading, the first part of the evening, took it up, and began to turn it over. It was one of those collections of stories of bloody murders, ghostly legends, and supernatural visitations, which, coarsely got up and illustrated, have a strange fascination for one who once begins to read them.
 
@@ -9150,7 +9155,7 @@ Anticipating the rising of the wind, that very evening Cassy had been up and ope
 
 This may serve as a specimen of the game that Cassy played with Legree, until he would sooner have put his head into a lion's mouth than to have explored that garret. Meanwhile, in the night, when everybody else was asleep, Cassy slowly and carefully accumulated there a stock of provisions sufficient to afford subsistence for some time; she transferred, article by article, a greater part of her own and Emmeline's wardrobe. All things being arranged, they only waited a fitting opportunity to put their plan in execution.
 
-By cajoling Legree, and taking advantage of a good-natured interval, Cassy had got him to take her with him to the neighboring town, which was situated directly on the Red river. With a memory sharpened to almost preternatural clearness, she remarked<sup>1</sup> every turn in the road, and formed a mental estimate of the time to be occupied in traversing it.
+By cajoling Legree, and taking advantage of a good-natured interval, Cassy had got him to take her with him to the neighboring town, which was situated directly on the Red river. With a memory sharpened to almost preternatural clearness, she remarked1 every turn in the road, and formed a mental estimate of the time to be occupied in traversing it.
 
 At the time when all was matured for action, our readers may, perhaps, like to look behind the scenes, and see the final coup d'e´tat. 2
 
@@ -9162,9 +9167,9 @@ It was now near evening. Legree had been absent, on a ride to a neighboring farm
 
 "I mean they shall," said Cassy, coolly. "Don't you know that they must have their chase after us, at any rate? The way of the thing is to be just this:—We will steal out of the back door, and run down by the quarters. Sambo or Quimbo will be sure to see
 
-<sup>1</sup> I.e., noted or remembered.
+1 I.e., noted or remembered.
 
-<sup>2</sup> A sudden and often violent overthrow of government (French).
+2 A sudden and often violent overthrow of government (French).
 
 us. They will give chase, and we will get into the swamp; then, they can't follow us any further till they go up and give the alarm, and turn out the dogs, and so on; and, while they are blundering round, and tumbling over each other, as they always do, you and I will just slip along to the creek, that runs back of the house, and wade along in it, till we get opposite the back door. That will put the dogs all at fault; for scent won't lie in the water. Every one will run out of the house to look after us, and then we 'll whip in at the back door, and up into the garret, where I 've got a nice bed made up in one of the great boxes. We must stay in that garret a good while; for, I tell you, he will raise heaven and earth after us. He 'll muster some of those old overseers on the other plantations, and have a great hunt; and they 'll go over every inch of ground in that swamp. He makes it his boast that nobody ever got away from him. So let him hunt at his leisure."
 
@@ -9184,7 +9189,7 @@ The diversion accomplished the purpose. Emmeline did not faint, and succeeded in
 
 "Hulloa, there! Sambo! Quimbo! All hands!" called Legree, coming to the quarters, when the men and women were just returning from work. "There 's two runaways in the swamps. I 'll give five dollars to any nigger as catches 'em. Turn out the dogs! Turn out Tiger, and Fury, and the rest!"
 
-The sensation produced by this news was immediate. Many of the men sprang forward, officiously, to offer their services, either from the hope of the reward, or from that cringing subserviency which is one of the most baleful effects of slavery. Some ran one way, and some another. Some were for getting flambeaux<sup>1</sup> of pine-knots. Some were uncoupling the dogs, whose hoarse, savage bay added not a little to the animation of the scene.
+The sensation produced by this news was immediate. Many of the men sprang forward, officiously, to offer their services, either from the hope of the reward, or from that cringing subserviency which is one of the most baleful effects of slavery. Some ran one way, and some another. Some were for getting flambeaux1 of pine-knots. Some were uncoupling the dogs, whose hoarse, savage bay added not a little to the animation of the scene.
 
 "Mas'r, shall we shoot 'em, if we can't cotch 'em?" said Sambo, to whom his master brought out a rifle.
 
@@ -9204,7 +9209,7 @@ She unlocked the desk, took from it a roll of bills, which she counted over rapi
 
 "It would be stealing," said Emmeline, in a distressed whisper. "Stealing!" said Cassy, with a scornful laugh. "They who steal body and soul need n't talk to us. Every one of these bills is
 
-<sup>1</sup> Flaming torches (French).
+1 Flaming torches (French).
 
 stolen,—stolen from poor, starving, sweating creatures, who must go to the devil at last, for his profit. Let him talk about stealing! But come, we may as well go up garret; I 've got a stock of candles there, and some books to pass away the time. You may be pretty sure they won't come there to inquire after us. If they do, I 'll play ghost for them."
 
@@ -9238,13 +9243,13 @@ At length the stillness of midnight settled down over the house. Legree, cursing
 
 "Deem not the just by Heaven forgot! Though life its common gifts deny,— Though, with a crushed and bleeding heart, And spurned of man, he goes to die! For God hath marked each sorrowing day, And numbered every bitter tear; And heaven's long years of bliss shall pay For all his children suffer here."
 
-#### BRYANT<sup>1</sup>
+#### BRYANT1
 
 THE longest way must have its close,—the gloomiest night will wear on to a morning. An eternal, inexorable lapse of moments is ever hurrying the day of the evil to an eternal night, and the night of the just to an eternal day. We have walked with our humble friend thus far in the valley of slavery; first through flowery fields of ease and indulgence, then through heart-breaking separations from all that man holds dear. Again, we have waited with him in a sunny island, where generous hands concealed his chains with flowers; and, lastly, we have followed him when the last ray of earthly hope went out in night, and seen how, in the blackness of earthly darkness, the firmament of the unseen has blazed with stars of new and significant lustre.
 
 The morning-star now stands over the tops of the mountains, and gales and breezes, not of earth, show that the gates of day are unclosing.
 
-<sup>1</sup> From the American romantic poet William Cullen Bryant's (1794-1878) "Blessed Are They That Mourn" (1832); the first line of this excerpt should actually read "Nor let the good man's trust depart."
+1 From the American romantic poet William Cullen Bryant's (1794-1878) "Blessed Are They That Mourn" (1832); the first line of this excerpt should actually read "Nor let the good man's trust depart."
 
 The escape of Cassy and Emmeline irritated the before surly temper of Legree to the last degree; and his fury, as was to be expected, fell upon the defenceless head of Tom. When he hurriedly announced the tidings among his hands, there was a sudden light in Tom's eye, a sudden upraising of his hands, that did not escape him. He saw that he did not join the muster of the pursuers. He thought of forcing him to do it; but, having had, of old, experience of his inflexibility when commanded to take part in any deed of inhumanity, he would not, in his hurry, stop to enter into any conflict with him.
 
@@ -9262,9 +9267,9 @@ Ye say that the interest of the master is a sufficient safe-guard for the slave.
 
 "Well," said Cassy, the next day, from the garret, as she reconnoitred through the knot-hole, "the hunt 's going to begin again, to-day!"
 
-Three or four mounted horsemen were curvetting<sup>1</sup> about, on
+Three or four mounted horsemen were curvetting1 about, on
 
-<sup>1</sup> A leap of a horse from a rearing position but, more generally, frolicking and bounding.
+1 A leap of a horse from a rearing position but, more generally, frolicking and bounding.
 
 the space front of the house; and one or two leashes of strange dogs were struggling with the negroes who held them, baying and barking at each other.
 
@@ -9302,15 +9307,15 @@ Sambo and Quimbo, both, though hating each other, were joined in one mind by a n
 
 Tom heard the message with a forewarning heart; for he knew all the plan of the fugitives' escape, and the place of their present concealment;—he knew the deadly character of the man he had to deal with, and his despotic power. But he felt strong in God to meet death, rather than betray the helpless.
 
-He sat his basket down by the row, and, looking up, said, "Into thy hands I commend my spirit! Thou hast redeemed me, oh Lord God of truth!"<sup>1</sup> and then quietly yielded himself to the rough, brutal grasp with which Quimbo seized him.
+He sat his basket down by the row, and, looking up, said, "Into thy hands I commend my spirit! Thou hast redeemed me, oh Lord God of truth!"1 and then quietly yielded himself to the rough, brutal grasp with which Quimbo seized him.
 
 "Ay, ay!" said the giant, as he dragged him along; "ye 'll cotch it, now! I 'll boun' Mas'r's back 's up high! No sneaking out, now! Tell ye, ye 'll get it, and no mistake! See how ye 'll look, now, helpin' Mas'r's niggers to run away! See what ye 'll get!"
 
 The savage words none of them reached that ear!—a higher voice there was saying, "Fear not them that kill the body, and,
 
-<sup>1</sup> See Luke 23.46, where Christ's last words on the cross are reported to have been, "Father, into thy hands I commend my spirit."
+1 See Luke 23.46, where Christ's last words on the cross are reported to have been, "Father, into thy hands I commend my spirit."
 
-after that, have no more that they can do."<sup>1</sup> Nerve and bone of that poor man's body vibrated to those words, as if touched by the finger of God; and he felt the strength of a thousand souls in one. As he passed along, the trees and bushes, the huts of his servitude, the whole scene of his degradation, seemed to whirl by him as the landscape by the rushing car. His soul throbbed,—his home was in sight,—and the hour of release seemed at hand.
+after that, have no more that they can do."1 Nerve and bone of that poor man's body vibrated to those words, as if touched by the finger of God; and he felt the strength of a thousand souls in one. As he passed along, the trees and bushes, the huts of his servitude, the whole scene of his degradation, seemed to whirl by him as the landscape by the rushing car. His soul throbbed,—his home was in sight,—and the hour of release seemed at hand.
 
 "Well, Tom!" said Legree, walking up, and seizing him grimly by the collar of his coat, and speaking through his teeth, in a paroxysm of determined rage, "do you know I 've made up my mind to KILL you?"
 
@@ -9336,7 +9341,7 @@ Legree drew in a long breath; and, suppressing his rage, took Tom by the arm, an
 
 Tom looked up to his master, and answered, "Mas'r, if you was sick, or in trouble, or dying, and I could save ye, I 'd give ye my heart's blood; and, if taking every drop of blood in this poor old body would save your precious soul, I 'd give 'em freely, as the Lord gave his for me. O, Mas'r! don't bring this great sin on your soul! It will hurt you more than 't will me! Do the worst you can,
 
-<sup>1</sup> See Matthew 11.28, where Christ tells his Apostles: "Fear not them which kill the body, but are not able to kill the soul: but rather fear him which is able to destroy both soul and body in hell."
+1 See Matthew 11.28, where Christ tells his Apostles: "Fear not them which kill the body, but are not able to kill the soul: but rather fear him which is able to destroy both soul and body in hell."
 
 my troubles 'll be over soon; but, if ye don't repent, yours won't never end!"
 
@@ -9348,25 +9353,25 @@ It was but a moment. There was one hesitating pause,—one irresolute, relenting
 
 Scenes of blood and cruelty are shocking to our ear and heart. What man has nerve to do, man has not nerve to hear. What brother-man and brother-Christian must suffer, cannot be told us, even in our secret chamber, it so harrows up the soul! And yet, oh my country! these things are done under the shadow of thy laws! O, Christ! thy church sees them, almost in silence!
 
-But, of old, there was One whose suffering changed an instrument of torture, degradation and shame,<sup>1</sup> into a symbol of glory, honor, and immortal life; and, where His spirit is, neither degrading stripes, nor blood, nor insults, can make the Christian's last struggle less than glorious.
+But, of old, there was One whose suffering changed an instrument of torture, degradation and shame,1 into a symbol of glory, honor, and immortal life; and, where His spirit is, neither degrading stripes, nor blood, nor insults, can make the Christian's last struggle less than glorious.
 
 Was he alone, that long night, whose brave, loving spirit was bearing up, in that old shed, against buffeting and brutal stripes?
 
-Nay! There stood by him ONE,—seen by him alone,—"like unto the Son of God."<sup>2</sup>
+Nay! There stood by him ONE,—seen by him alone,—"like unto the Son of God."2
 
-The tempter<sup>3</sup> stood by him, too,—blinded by furious, despotic will,—every moment pressing him to shun that agony by the betrayal of the innocent. But the brave, true heart was firm on the Eternal Rock. Like his Master, he knew that, if he saved others, himself he could not save; nor could utmost extremity wring from him words, save of prayer and holy trust.
+The tempter3 stood by him, too,—blinded by furious, despotic will,—every moment pressing him to shun that agony by the betrayal of the innocent. But the brave, true heart was firm on the Eternal Rock. Like his Master, he knew that, if he saved others, himself he could not save; nor could utmost extremity wring from him words, save of prayer and holy trust.
 
 "He's most gone, Mas'r," said Sambo, touched, in spite of himself, by the patience of his victim.
 
-<sup>1</sup> I.e., Christ on the cross.
+1 I.e., Christ on the cross.
 
-<sup>2</sup> See Hebrews 7.3: "Without father, without mother, without descent, having neither beginning of days, nor end of life; but made like unto the Son of God; abideth a priest continually."
+2 See Hebrews 7.3: "Without father, without mother, without descent, having neither beginning of days, nor end of life; but made like unto the Son of God; abideth a priest continually."
 
-<sup>3</sup> I.e., Satan.
+3 I.e., Satan.
 
 "Pay away, till he gives up! Give it to him!—give it to him!" shouted Legree. "I 'll take every drop of blood he has, unless he confesses!"
 
-Tom opened his eyes, and looked upon his master. "Ye poor miserable critter!" he said, "there an't no more ye can do! I forgive ye, with all my soul!"<sup>1</sup> and he fainted entirely away.
+Tom opened his eyes, and looked upon his master. "Ye poor miserable critter!" he said, "there an't no more ye can do! I forgive ye, with all my soul!"1 and he fainted entirely away.
 
 "I b'lieve, my soul, he 's done for, finally," said Legree, stepping forward, to look at him. "Yes, he is! Well, his mouth 's shut up, at last,—that 's one comfort!"
 
@@ -9394,7 +9399,7 @@ They wept,—both the two savage men.
 
 That prayer was answered!
 
-<sup>1</sup> An allusion to Christ on the cross from Luke 23.24: "Then said Jesus, Father, forgive them; for they know not what they do. And they parted his raiment, and cast lots."
+1 An allusion to Christ on the cross from Luke 23.24: "Then said Jesus, Father, forgive them; for they know not what they do. And they parted his raiment, and cast lots."
 
 #### CHAPTER XLI THE YOUNG MASTER
 
@@ -9440,7 +9445,7 @@ When George entered the shed, he felt his head giddy and his heart sick.
 
 Something in the voice penetrated to the ear of the dying. He moved his head gently, smiled, and said,
 
-"Jesus can make a dying-bed Feel soft as downy pillows are."<sup>1</sup>
+"Jesus can make a dying-bed Feel soft as downy pillows are."1
 
 Tears which did honor to his manly heart fell from the young man's eyes, as he bent over his poor friend.
 
@@ -9458,7 +9463,7 @@ Slowly the idea seemed to fill his soul; and the vacant eye became fixed and bri
 
 "O, don't die! It 'll kill me!—it 'll break my heart to think what
 
-<sup>1</sup> From the fourth stanza of Hymn 2:31 by Isaac Watts. This verse was also a popular epitaph on gravestones in the nineteenth century. In New Portland, Maine, for example, near New Brunswick where Stowe wrote most of Uncle Tom's Cabin, the stone of one Caleb Walker (d. 1839) is inscribed with the full stanza: "Jesus can make a dying bed/Feel soft as downy pillows are,/While on his brest I lay my head,/And breathe my life out sweetly there."
+1 From the fourth stanza of Hymn 2:31 by Isaac Watts. This verse was also a popular epitaph on gravestones in the nineteenth century. In New Portland, Maine, for example, near New Brunswick where Stowe wrote most of Uncle Tom's Cabin, the stone of one Caleb Walker (d. 1839) is inscribed with the full stanza: "Jesus can make a dying bed/Feel soft as downy pillows are,/While on his brest I lay my head,/And breathe my life out sweetly there."
 
 you 've suffered,—and lying in this old shed, here! Poor, poor fellow!"
 
@@ -9482,7 +9487,7 @@ At this moment, the sudden flush of strength which the joy of meeting his young 
 
 He began to draw his breath with long, deep inspirations; and his broad chest rose and fell, heavily. The expression of his face was that of a conqueror.
 
-"Who,—who,—who shall separate us from the love of Christ?"<sup>1</sup> he said, in a voice that contended with mortal weakness; and, with a smile, he fell asleep.
+"Who,—who,—who shall separate us from the love of Christ?"1 he said, in a voice that contended with mortal weakness; and, with a smile, he fell asleep.
 
 George sat fixed with solemn awe. It seemed to him that the place was holy; and, as he closed the lifeless eyes, and rose up from the dead, only one thought possessed him,—that expressed by his simple old friend,—"What a thing it is to be a Christian!"
 
@@ -9508,13 +9513,13 @@ George spread his cloak in the wagon, and had the body carefully disposed of in 
 
 George saw, at once, the force of this defiance. There was not a white person on the place; and, in all southern courts, the testimony of colored blood is nothing. He felt, at that moment, as if
 
-<sup>1</sup> See Romans 8.35: "Who shall separate us from the love of Christ? Shall tribulation, or distress, or persecution, or famine, or nakedness, or peril, or sword?"
+1 See Romans 8.35: "Who shall separate us from the love of Christ? Shall tribulation, or distress, or persecution, or famine, or nakedness, or peril, or sword?"
 
 he could have rent the heavens with his heart's indignant cry for justice; but in vain.
 
 "After all, what a fuss, for a dead nigger!" said Legree.
 
-The word was as a spark to a powder magazine. Prudence was never a cardinal virtue of the Kentucky boy. George turned, and, with one indignant blow, knocked Legree flat upon his face; and, as he stood over him, blazing with wrath and defiance, he would have formed no bad personification of his great namesake triumphing over the dragon.<sup>1</sup>
+The word was as a spark to a powder magazine. Prudence was never a cardinal virtue of the Kentucky boy. George turned, and, with one indignant blow, knocked Legree flat upon his face; and, as he stood over him, blazing with wrath and defiance, he would have formed no bad personification of his great namesake triumphing over the dragon.1
 
 Some men, however, are decidedly bettered by being knocked down. If a man lays them fairly flat in the dust, they seem immediately to conceive a respect for him; and Legree was one of this sort. As he rose, therefore, and brushed the dust from his clothes, he eyed the slowly-retreating wagon with some evident consideration; nor did he open his mouth till it was out of sight.
 
@@ -9542,9 +9547,9 @@ The poor fellows looked dejected, and walked off in silence.
 
 There is no monument to mark the last resting-place of our friend. He needs none! His Lord knows where he lies, and will raise him up, immortal, to appear with him when he shall appear in his glory.
 
-<sup>1</sup> An allusion to Saint George (c. 275-303), a Christian martyr, and the legend of his defeat of a dragon.
+1 An allusion to Saint George (c. 275-303), a Christian martyr, and the legend of his defeat of a dragon.
 
-Pity him not! Such a life and death is not for pity! Not in the riches of omnipotence is the chief glory of God; but in selfdenying, suffering love! And blessed are the men whom he calls to fellowship with him, bearing their cross after him with patience. Of such it is written, "Blessed are they that mourn, for they shall be comforted."<sup>1</sup>
+Pity him not! Such a life and death is not for pity! Not in the riches of omnipotence is the chief glory of God; but in selfdenying, suffering love! And blessed are the men whom he calls to fellowship with him, bearing their cross after him with patience. Of such it is written, "Blessed are they that mourn, for they shall be comforted."1
 
 # CHAPTER XLII AN AUTHENTIC GHOST STORY
 
@@ -9554,15 +9559,15 @@ It was whisperingly asserted that footsteps, in the dead of night, had been hear
 
 Authorities were somewhat divided, as to the outward form of the spirit, owing to a custom quite prevalent among negroes, and, for aught we know, among whites, too,—of invariably shutting the eyes, and covering up heads under blankets, petticoats, or whatever else might come in use for a shelter, on these occasions. Of course, as everybody knows, when the bodily eyes are thus out of the lists, the spiritual eyes are uncommonly vivacious and perspicuous; and, therefore, there were abundance of fulllength portraits of the ghost, abundantly sworn and testified to, which, as is often the case with portraits, agreed with each other in no particular, except the common family peculiarity of the ghost tribe,—the wearing of a white sheet. The poor souls were not versed in ancient history, and did not know that Shakspeare had authenticated this costume, by telling how
 
-"The sheeted dead Did squeak and gibber in the streets of Rome."<sup>2</sup>
+"The sheeted dead Did squeak and gibber in the streets of Rome."2
 
 And, therefore, their all hitting upon this is a striking fact in
 
-<sup>1</sup> See Matthew 5.3-11.
+1 See Matthew 5.3-11.
 
-<sup>2</sup> See Shakespeare, Hamlet I.1.113 (the italics are Stowe's).
+2 See Shakespeare, Hamlet I.1.113 (the italics are Stowe's).
 
-pneumatology,<sup>1</sup> which we recommend to the attention of spiritual media generally.
+pneumatology,1 which we recommend to the attention of spiritual media generally.
 
 Be it as it may, we have private reasons for knowing that a tall figure in a white sheet did walk, at the most approved ghostly hours, around the Legree premises,—pass out the doors, glide about the house,—disappear at intervals, and, rea¨ppearing, pass up the silent stair-way, into that fatal garret; and that, in the morning, the entry doors were all found shut and locked as firm as ever.
 
@@ -9574,7 +9579,7 @@ But Legree locked his door and set a chair against it; he set a night-lamp at th
 
 Well, he slept, for he was tired,—slept soundly. But, finally, there came over his sleep a shadow, a horror, an apprehension of something dreadful hanging over him. It was his mother's shroud, he thought; but Cassy had it, holding it up, and showing it to him. He heard a confused noise of screams and groanings; and, with it all, he knew he was asleep, and he struggled to wake himself. He was half awake. He was sure something was coming into his room. He knew the door was opening, but he could not stir hand or foot. At last he turned, with a start; the door was open, and he saw a hand putting out his light.
 
-<sup>1</sup> The study of spiritual beings and especially those intervening between humans and God.
+1 The study of spiritual beings and especially those intervening between humans and God.
 
 It was a cloudy, misty moonlight, and there he saw it!—something white, gliding in! He heard the still rustle of its ghostly garments. It stood still by his bed;—a cold hand touched his; a voice said, three times, in a low, fearful whisper, "Come! come! come!" And, while he lay sweating with terror, he knew not when or how, the thing was gone. He sprang out of bed, and pulled at the door. It was shut and locked, and the man fell down in a swoon.
 
@@ -9612,7 +9617,7 @@ From the moment that George got the first glimpse of her face, he was troubled w
 
 Cassy became uneasy. She began to think that he suspected something; and finally resolved to throw herself entirely on his generosity, and intrusted him with her whole history.
 
-<sup>1</sup> An encounter, especially a hostile one.
+1 An encounter, especially a hostile one.
 
 George was heartily disposed to sympathize with anyone who had escaped from Legree's plantation,—a place that he could not remember or speak of with patience,—and, with the courageous disregard of consequences which is characteristic of his age and state, he assured her that he would do all in his power to protect and bring them through.
 
@@ -9712,7 +9717,7 @@ Harry has lost his long curls; but he can never lose those eyes and eyelashes, a
 
 At this moment, there is a rap at the door; and Eliza goes and opens it. The delighted—"Why!—this you?"—calls up her husband; and the good pastor of Amherstberg is welcomed. There are two more women with him, and Eliza asks them to sit down.
 
-Now, if the truth must be told, the honest pastor had arranged a little programme,<sup>1</sup> according to which this affair was to develop itself; and, on the way up, all had very cautiously and prudently exhorted each other not to let things out, except according to previous arrangement.
+Now, if the truth must be told, the honest pastor had arranged a little programme,1 according to which this affair was to develop itself; and, on the way up, all had very cautiously and prudently exhorted each other not to let things out, except according to previous arrangement.
 
 What was the good man's consternation, therefore, just as he had motioned to the ladies to be seated, and was taking out his pocket-handkerchief to wipe his mouth, so as to proceed to his introductory speech in good order, when Madame de Thoux upset the whole plan, by throwing her arms around George's neck, and letting all out at once, by saying, "O, George! don't you know me? I 'm your sister Emily."
 
@@ -9740,11 +9745,11 @@ The good looks of the latter won the affection of the first mate of the vessel; 
 
 George remained four years at a French university, and, applying himself with an unintermitted zeal, obtained a very thorough education.
 
-Political troubles in France, at last, led the family again to seek an asylum in this country.<sup>1</sup>
+Political troubles in France, at last, led the family again to seek an asylum in this country.1
 
 George's feelings and views, as an educated man, may be best expressed in a letter to one of his friends.
 
-<sup>1</sup> Most likely, a reference to Canada.
+1 Most likely, a reference to Canada.
 
 "I feel somewhat at a loss, as to my future course. True, as you have said to me, I might mingle in the circles of the whites, in this country, my shade of color is so slight, and that of my wife and family scarce perceptible. Well, perhaps, on sufferance, I might. But, to tell you the truth, I have no wish to.
 
@@ -9760,7 +9765,7 @@ George's feelings and views, as an educated man, may be best expressed in a lett
 
 "I grant that this Liberia may have subserved all sorts of purposes, by being played off, in the hands of our oppressors, against
 
-<sup>1</sup> The recently founded republic of Liberia. See page 46, note 2.
+1 The recently founded republic of Liberia. See page 46, note 2.
 
 us. Doubtless the scheme may have been used, in unjustifiable ways, as a means of retarding our emancipation. But the question to me is, Is there not a God above all man's schemes? May He not have overruled their designs, and founded for us a nation by them?
 
@@ -9768,11 +9773,11 @@ us. Doubtless the scheme may have been used, in unjustifiable ways, as a means o
 
 "Do you say that I am deserting my enslaved brethren? I think not. If I forget them one hour, one moment of my life, so may God forget me! But, what can I do for them, here? Can I break their chains? No, not as an individual; but, let me go and form part of a nation, which shall have a voice in the councils of nations, and then we can speak. A nation has a right to argue, remonstrate, implore, and present the cause of its race,—which an individual has not.
 
-"If Europe ever becomes a grand council of free nations,—as I trust in God it will,—if, there, serfdom, and all unjust and oppressive social inequalities, are done away; and if they, as France and England have done, acknowledge our position, then, in the great congress of nations, we will make our appeal, and present the cause of our enslaved and suffering race; and it cannot be that free, enlightened America will not then desire to wipe from her escutcheon that bar sinister<sup>1</sup> which disgraces her among nations, and is as truly a curse to her as to the enslaved.
+"If Europe ever becomes a grand council of free nations,—as I trust in God it will,—if, there, serfdom, and all unjust and oppressive social inequalities, are done away; and if they, as France and England have done, acknowledge our position, then, in the great congress of nations, we will make our appeal, and present the cause of our enslaved and suffering race; and it cannot be that free, enlightened America will not then desire to wipe from her escutcheon that bar sinister1 which disgraces her among nations, and is as truly a curse to her as to the enslaved.
 
 "But, you will tell me, our race have equal rights to mingle in the American republic as the Irishman, the German, the Swede. Granted, they have. We ought to be free to meet and mingle,—to rise by our individual worth, without any consideration of caste or color; and they who deny us this right are false to their own professed principles of human equality. We ought, in particular, to be allowed here. We have more than the rights of common men;—we have the claim of an injured race for reparation. But, then, I do not want it; I want a country, a nation, of my own. I think that the African race has peculiarities, yet to be unfolded in the light of civilization and Christianity, which, if not the same
 
-<sup>1</sup> A shield with a coat of arms, but here with a "bar sinister" or sign of shame, such as illegitimate birth.
+1 A shield with a coat of arms, but here with a "bar sinister" or sign of shame, such as illegitimate birth.
 
 with those of the Anglo-Saxon, may prove to be, morally, of even a higher type.
 
@@ -9782,21 +9787,21 @@ with those of the Anglo-Saxon, may prove to be, morally, of even a higher type.
 
 "In myself, I confess, I am feeble for this,—full half the blood in my veins is the hot and hasty Saxon; but I have an eloquent preacher of the Gospel ever by my side, in the person of my beautiful wife. When I wander, her gentler spirit ever restores me, and keeps before my eyes the Christian calling and mission of our race. As a Christian patriot, as a teacher of Christianity, I go to my country,—my chosen, my glorious Africa!—and to her, in my heart, I sometimes apply those splendid words of prophecy: 'Whereas thou hast been forsaken and hated, so that no man went through thee; I will make thee an eternal excellence, a joy of many generations!'1
 
-"You will call me an enthusiast:<sup>2</sup> you will tell me that I have not well considered what I am undertaking. But I have considered, and counted the cost. I go to Liberia, not as to an Elysium<sup>3</sup> of romance, but as to a field of work. I expect to work with both hands,—to work hard; to work against all sorts of difficulties and discouragements; and to work till I die. This is what I go for; and in this I am quite sure I shall not be disappointed.
+"You will call me an enthusiast:2 you will tell me that I have not well considered what I am undertaking. But I have considered, and counted the cost. I go to Liberia, not as to an Elysium3 of romance, but as to a field of work. I expect to work with both hands,—to work hard; to work against all sorts of difficulties and discouragements; and to work till I die. This is what I go for; and in this I am quite sure I shall not be disappointed.
 
 "Whatever you may think of my determination, do not divorce me from your confidence; and think that, in whatever I do, I act with a heart wholly given to my people. "GEORGE HARRIS."
 
 George, with his wife, children, sister and mother, embarked for Africa, some few weeks after. If we are not mistaken, the world will yet hear from him there.
 
-<sup>1</sup> See Isaiah 60.15.
+1 See Isaiah 60.15.
 
-<sup>2</sup> I.e., idealist.
+2 I.e., idealist.
 
-<sup>3</sup> In classical mythology, the resting place of the blessed after death.
+3 In classical mythology, the resting place of the blessed after death.
 
 Of our other characters we have nothing very particular to write, except a word relating to Miss Ophelia and Topsy, and a farewell chapter, which we shall dedicate to George Shelby.
 
-Miss Ophelia took Topsy home to Vermont with her, much to the surprise of that grave deliberative body whom a New Englander recognizes under the term "Our folks." "Our folks," at first, thought it an odd and unnecessary addition to their well-trained domestic establishment; but, so thoroughly efficient was Miss Ophelia in her conscientious endeavor to do her duty by her ele`ve,<sup>1</sup> that the child rapidly grew in grace and in favor with the family and neighborhood. At the age of womanhood, she was, by her own request, baptized, and became a member of the Christian church in the place; and showed so much intelligence, activity and zeal, and desire to do good in the world, that she was at last recommended, and approved, as a missionary to one of the stations in Africa; and we have heard that the same activity and ingenuity which, when a child, made her so multiform and restless in her developments, is now employed, in a safer and wholesomer manner, in teaching the children of her own country.
+Miss Ophelia took Topsy home to Vermont with her, much to the surprise of that grave deliberative body whom a New Englander recognizes under the term "Our folks." "Our folks," at first, thought it an odd and unnecessary addition to their well-trained domestic establishment; but, so thoroughly efficient was Miss Ophelia in her conscientious endeavor to do her duty by her ele`ve,1 that the child rapidly grew in grace and in favor with the family and neighborhood. At the age of womanhood, she was, by her own request, baptized, and became a member of the Christian church in the place; and showed so much intelligence, activity and zeal, and desire to do good in the world, that she was at last recommended, and approved, as a missionary to one of the stations in Africa; and we have heard that the same activity and ingenuity which, when a child, made her so multiform and restless in her developments, is now employed, in a safer and wholesomer manner, in teaching the children of her own country.
 
 P. S.—It will be a satisfaction to some mother, also, to state, that some inquiries, which were set on foot by Madame de Thoux, have resulted recently in the discovery of Cassy's son. Being a young man of energy, he had escaped, some years before his mother, and been received and educated by friends of the oppressed in the north. He will soon follow his family to Africa.
 
@@ -9808,7 +9813,7 @@ There was a pleased bustle all through the Shelby mansion, that day, in expectat
 
 Mrs. Shelby was seated in her comfortable parlor, where a cheerful hickory fire was dispelling the chill of the late autumn evening. A supper-table, glittering with plate and cut glass, was
 
-<sup>1</sup> Ele`ve: a student (French).
+1 Ele`ve: a student (French).
 
 set out, on whose arrangements our former friend, old Chloe, was presiding.
 
@@ -9826,7 +9831,7 @@ Arrayed in a new calico dress, with clean, white apron, and high, well-starched 
 
 Mrs. Shelby smiled.
 
-"I 'm a thinkin' my old man won't know de boys and de baby. Lor'! she 's de biggest gal, now,—good she is, too, and peart, Polly is. She 's out to the house, now, watchin' de hoe-cake. I 's got jist de very pattern<sup>1</sup> my old man liked so much, a bakin'. Jist sich as I gin him the mornin' he was took off. Lord bless us! how I felt, dat ar morning!"
+"I 'm a thinkin' my old man won't know de boys and de baby. Lor'! she 's de biggest gal, now,—good she is, too, and peart, Polly is. She 's out to the house, now, watchin' de hoe-cake. I 's got jist de very pattern1 my old man liked so much, a bakin'. Jist sich as I gin him the mornin' he was took off. Lord bless us! how I felt, dat ar morning!"
 
 Mrs. Shelby sighed, and felt a heavy weight on her heart, at this allusion. She had felt uneasy, ever since she received her son's letter, lest something should prove to be hidden behind the veil of silence which he had drawn.
 
@@ -9836,7 +9841,7 @@ Mrs. Shelby sighed, and felt a heavy weight on her heart, at this allusion. She 
 
 "'Cause I wants to show my old man dem very bills de perfectioner gave me. 'And,' says he, 'Chloe, I wish you 'd stay longer.' 'thank you, Mas'r,' says I, 'I would, only my old man 's coming home, and Missis,—she can't do without me no longer.' There's jist what I telled him. Berry nice man, dat Mas'r Jones was."
 
-<sup>1</sup> I.e., kind.
+1 I.e., kind.
 
 Chloe had pertinaciously insisted that the very bills in which her wages had been paid should be preserved, to show to her husband, in memorial of her capability. And Mrs. Shelby had readily consented to humor her in the request.
 
@@ -9864,13 +9869,13 @@ Mrs. Shelby followed her softly, and took one of her hands, drew her down into a
 
 Chloe leaned her head on her mistress' shoulder, and sobbed out, "O Missis! 'scuse me, my heart's broke,—dat 's all!"
 
-"I know it is," said Mrs. Shelby, as her tears fell fast; "and I cannot heal it, but Jesus can. He healeth the broken hearted, and bindeth up their wounds."<sup>1</sup>
+"I know it is," said Mrs. Shelby, as her tears fell fast; "and I cannot heal it, but Jesus can. He healeth the broken hearted, and bindeth up their wounds."1
 
 There was a silence for some time, and all wept together. At last, George, sitting down beside the mourner, took her hand, and, with simple pathos, repeated the triumphant scene of her husband's death, and his last messages of love.
 
 About a month after this, one morning, all the servants of the Shelby estate were convened together in the great hall that ran through the house, to hear a few words from their young master.
 
-<sup>1</sup> See Psalms 147.3.
+1 See Psalms 147.3.
 
 To the surprise of all, he appeared among them with a bundle of papers in his hand, containing a certificate of freedom to every one on the place, which he read successively, and presented, amid the sobs and tears and shouts of all present.
 
@@ -9880,7 +9885,7 @@ Many, however, pressed around him, earnestly begging him not to send them away; 
 
 "My good friends," said George, as soon as he could get a silence, "there 'll be no need for you to leave me. The place wants as many hands to work it as it did before. We need the same about the house that we did before. But, you are now free men and free women. I shall pay you wages for your work, such as we shall agree on. The advantage is, that in case of my getting in debt, or dying,—things that might happen,—you cannot now be taken up and sold. I expect to carry on the estate, and to teach you what, perhaps, it will take you some time to learn,—how to use the rights I give you as free men and women. I expect you to be good, and willing to learn; and I trust in God that I shall be faithful, and willing to teach. And now, my friends, look up, and thank God for the blessing of freedom."
 
-An aged, patriarchal negro, who had grown gray and blind on the estate, now rose, and, lifting his trembling hand said, "Let us give thanks unto the Lord!" As all kneeled by one consent, a more touching and hearty Te Deum<sup>1</sup> never ascended to heaven, though borne on the peal of organ, bell and cannon, than came from that honest old heart.
+An aged, patriarchal negro, who had grown gray and blind on the estate, now rose, and, lifting his trembling hand said, "Let us give thanks unto the Lord!" As all kneeled by one consent, a more touching and hearty Te Deum1 never ascended to heaven, though borne on the peal of organ, bell and cannon, than came from that honest old heart.
 
 On rising, another struck up a Methodist hymn, of which the burden was,
 
@@ -9890,35 +9895,35 @@ On rising, another struck up a Methodist hymn, of which the burden was,
 
 George here gave a short narration of the scene of his death, and of his loving farewell to all on the place, and added,
 
-<sup>1</sup> From an ancient Latin hymn sung in praise of God "Te Deum laudamus" (Thee, God, we praise).
+1 From an ancient Latin hymn sung in praise of God "Te Deum laudamus" (Thee, God, we praise).
 
-<sup>2</sup> From the English hymn writer Charles Wesley's (1707-88) "Blow Ye The Trumpet, Blow," but also see Leviticus 25.8-12.
+2 From the English hymn writer Charles Wesley's (1707-88) "Blow Ye The Trumpet, Blow," but also see Leviticus 25.8-12.
 
 "It was on his grave, my friends, that I resolved, before God, that I would never own another slave, while it was possible to free him; that nobody, through me, should ever run the risk of being parted from home and friends, and dying on a lonely plantation, as he died. So, when you rejoice in your freedom, think that you owe it to that good old soul, and pay it back in kindness to his wife and children. Think of your freedom, every time you see UNCLE TOM'S CABIN; and let it be a memorial to put you all in mind to follow in his steps, and be as honest and faithful and Christian as he was."
 
 #### CHAPTER XLV CONCLUDING REMARKS
 
-THE writer has often been inquired of, by correspondents from different parts of the country, whether this narrative is a true one;<sup>1</sup> and to these inquiries she will give one general answer.
+THE writer has often been inquired of, by correspondents from different parts of the country, whether this narrative is a true one;1 and to these inquiries she will give one general answer.
 
 The separate incidents that compose the narrative are, to a very great extent, authentic, occurring, many of them, either under her own observation, or that of her personal friends. She or her friends have observed characters the counterpart of almost all that are here introduced; and many of the sayings are word for word as heard herself, or reported to her.
 
 The personal appearance of Eliza, the character ascribed to her, are sketches drawn from life. The incorruptible fidelity, piety and honesty, of Uncle Tom, had more than one development, to her personal knowledge. Some of the most deeply tragic and romantic, some of the most terrible incidents, have also their parallel in reality. The incident of the mother's crossing the Ohio river on the ice is a well-known fact. The story of "old Prue," in the second volume, was an incident that fell under the personal observation of a brother of the writer, then collecting-clerk to a large mercantile house, in New Orleans. From the same source was derived the character of the planter Legree. Of him her brother thus wrote, speaking of visiting his plantation, on a collecting tour: "He actually made me feel of his fist, which was like a blacksmith's hammer, or a nodule of iron, telling me that it was 'calloused with knocking down niggers.' When I left the planta-
 
-<sup>1</sup> This chapter was written after the serial publication of much of the novel; thus, Stowe was able to take into account the responses of readers and address them in this final chapter.
+1 This chapter was written after the serial publication of much of the novel; thus, Stowe was able to take into account the responses of readers and address them in this final chapter.
 
-tion, I drew a long breath, and felt as if I had escaped from an ogre's den."<sup>1</sup>
+tion, I drew a long breath, and felt as if I had escaped from an ogre's den."1
 
 That the tragical fate of Tom, also, has too many times had its parallel, there are living witnesses, all over our land, to testify. Let it be remembered that in all southern states it is a principle of jurisprudence that no person of colored lineage can testify in a suit against a white, and it will be easy to see that such a case may occur, wherever there is a man whose passions outweigh his interests, and a slave who has manhood or principle enough to resist his will. There is, actually, nothing to protect the slave's life, but the character of the master. Facts too shocking to be contemplated occasionally force their way to the public ear, and the comment that one often hears made on them is more shocking than the thing itself. It is said, "Very likely such cases may now and then occur, but they are no sample of general practice." If the laws of New England were so arranged that a master could now and then torture an apprentice to death, without a possibility of being brought to justice, would it be received with equal composure? Would it be said, "These cases are rare, and no samples of general practice"? This injustice is an inherent one in the slave system,—it cannot exist without it.
 
-The public and shameless sale of beautiful mulatto and quadroon girls has acquired a notoriety, from the incidents following the capture of the Pearl.<sup>2</sup> We extract the following from the speech of Hon. Horace Mann,<sup>3</sup> one of the legal counsel for the defendants in that case. He says: "In that company of seventysix persons, who attempted, in 1848, to escape from the District of Columbia in the schooner Pearl, and whose officers I assisted in defending, there were several young and healthy girls, who had those peculiar attractions of form and feature which connoisseurs prize so highly. Elizabeth Russel was one of them. She immediately fell into the slave-trader's fangs, and was doomed for the
+The public and shameless sale of beautiful mulatto and quadroon girls has acquired a notoriety, from the incidents following the capture of the Pearl.2 We extract the following from the speech of Hon. Horace Mann,3 one of the legal counsel for the defendants in that case. He says: "In that company of seventysix persons, who attempted, in 1848, to escape from the District of Columbia in the schooner Pearl, and whose officers I assisted in defending, there were several young and healthy girls, who had those peculiar attractions of form and feature which connoisseurs prize so highly. Elizabeth Russel was one of them. She immediately fell into the slave-trader's fangs, and was doomed for the
 
-<sup>1</sup> Stowe's brother Charles Beecher had worked for a time in a cotton commission warehouse in New Orleans, traveled to surrounding parishes, and written to his family of his experiences and impressions.
+1 Stowe's brother Charles Beecher had worked for a time in a cotton commission warehouse in New Orleans, traveled to surrounding parishes, and written to his family of his experiences and impressions.
 
-<sup>2</sup> In April, 1848, antislavery activists planned an escape in which seventysix slaves on "The Pearl," a schooner anchored in Washington, D. C., would sail down the Potomac and up the Chesapeake Bay to Philadelphia. The escape failed, but the Beecher family raised funds for the purchase of the six children of Paul and Amelia Edmundson, including the two girls, Mary and Emily Edmundson, Stowe alludes to here.
+2 In April, 1848, antislavery activists planned an escape in which seventysix slaves on "The Pearl," a schooner anchored in Washington, D. C., would sail down the Potomac and up the Chesapeake Bay to Philadelphia. The escape failed, but the Beecher family raised funds for the purchase of the six children of Paul and Amelia Edmundson, including the two girls, Mary and Emily Edmundson, Stowe alludes to here.
 
-<sup>3</sup> Horace Mann (1796-1859) was a lawyer and prominent educational reformer and abolitionist.
+3 Horace Mann (1796-1859) was a lawyer and prominent educational reformer and abolitionist.
 
-New Orleans market. The hearts of those that saw her were touched with pity for her fate. They offered eighteen hundred dollars to redeem her; and some there were who offered to give, that would not have much left after the gift; but the fiend of a slave-trader was inexorable. She was despatched to New Orleans; but, when about half way there, God had mercy on her, and smote her with death. There were two girls named Edmundson in the same company. When about to be sent to the same market, an older sister went to the shambles,<sup>1</sup> to plead with the wretch who owned them, for the love of God, to spare his victims. He bantered her, telling what fine dresses and fine furniture they would have. 'Yes,' she said, 'that may do very well in this life, but what will become of them in the next?' They too were sent to New Orleans; but were afterwards redeemed, at an enormous ransom, and brought back." Is it not plain, from this, that the histories of Emmeline and Cassy may have many counterparts?
+New Orleans market. The hearts of those that saw her were touched with pity for her fate. They offered eighteen hundred dollars to redeem her; and some there were who offered to give, that would not have much left after the gift; but the fiend of a slave-trader was inexorable. She was despatched to New Orleans; but, when about half way there, God had mercy on her, and smote her with death. There were two girls named Edmundson in the same company. When about to be sent to the same market, an older sister went to the shambles,1 to plead with the wretch who owned them, for the love of God, to spare his victims. He bantered her, telling what fine dresses and fine furniture they would have. 'Yes,' she said, 'that may do very well in this life, but what will become of them in the next?' They too were sent to New Orleans; but were afterwards redeemed, at an enormous ransom, and brought back." Is it not plain, from this, that the histories of Emmeline and Cassy may have many counterparts?
 
 Justice, too, obliges the author to state that the fairness of mind and generosity attributed to St. Clare are not without a parallel, as the following anecdote will show. A few years since, a young southern gentleman was in Cincinnati, with a favorite servant, who had been his personal attendant from a boy. The young man took advantage of this opportunity to secure his own freedom, and fled to the protection of a Quaker, who was quite noted in affairs of this kind. The owner was exceedingly indignant. He had always treated the slave with such indulgence, and his confidence in his affection was such, that he believed he must have been practised upon to induce him to revolt from him. He visited the Quaker, in high anger; but, being possessed of uncommon candor and fairness, was soon quieted by his arguments and representations. It was a side of the subject which he never had heard,—never had thought on; and he immediately told the Quaker that, if his slave would, to his own face, say that it was his desire to be free, he would liberate him. An interview was forthwith procured, and Nathan was asked by his young master whether he had ever had any reason to complain of his treatment, in any respect.
 
@@ -9926,7 +9931,7 @@ Justice, too, obliges the author to state that the fairness of mind and generosi
 
 "Mas'r may die, and then who get me?—I 'd rather be a free man."
 
-<sup>1</sup> Used here metaphorically as any place of carnage, such as a slaughterhouse.
+1 Used here metaphorically as any place of carnage, such as a slaughterhouse.
 
 After some deliberation, the young master replied, "Nathan, in your place, I think I should feel very much so, myself. You are free."1
 
@@ -9934,23 +9939,23 @@ He immediately made him out free papers; deposited a sum of money in the hands o
 
 The author hopes she has done justice to that nobility, generosity, and humanity, which in many cases characterize individuals at the South. Such instances save us from utter despair of our kind. But, she asks any person, who knows the world, are such characters common, anywhere?
 
-For many years of her life, the author avoided all reading upon or allusion to the subject of slavery, considering it as too painful to be inquired into, and one which advancing light and civilization would certainly live down. But, since the legislative act of 1850,<sup>2</sup> when she heard, with perfect surprise and consternation, Christian and humane people actually recommending the remanding escaped fugitives into slavery, as a duty binding on good citizens,—when she heard, on all hands, from kind, compassionate and estimable people, in the free states of the North, deliberations and discussions as to what Christian duty could be on this head,—she could only think, These men and Christians cannot know what slavery is; if they did, such a question could never be open for discussion. And from this arose a desire to exhibit it in a living dramatic reality. She has endeavored to show it fairly, in its best and its worst phases. In its best aspect, she has, perhaps, been successful; but, oh! who shall say what yet remains untold in that valley and shadow of death, that lies the other side?
+For many years of her life, the author avoided all reading upon or allusion to the subject of slavery, considering it as too painful to be inquired into, and one which advancing light and civilization would certainly live down. But, since the legislative act of 1850,2 when she heard, with perfect surprise and consternation, Christian and humane people actually recommending the remanding escaped fugitives into slavery, as a duty binding on good citizens,—when she heard, on all hands, from kind, compassionate and estimable people, in the free states of the North, deliberations and discussions as to what Christian duty could be on this head,—she could only think, These men and Christians cannot know what slavery is; if they did, such a question could never be open for discussion. And from this arose a desire to exhibit it in a living dramatic reality. She has endeavored to show it fairly, in its best and its worst phases. In its best aspect, she has, perhaps, been successful; but, oh! who shall say what yet remains untold in that valley and shadow of death, that lies the other side?
 
 To you, generous, noble-minded men and women, of the South,—you, whose virtue, and magnanimity, and purity of character, are the greater for the severer trial it has encountered,—to you is her appeal. Have you not, in your own secret souls, in your own private conversings, felt that there are woes and evils, in this accursed system, far beyond what are here shadowed, or can be shadowed? Can it be otherwise? Is man ever a creature to be trusted with wholly irresponsible power? And does not the slave system, by denying the slave all legal right of testimony, make
 
-<sup>1</sup> A similar story is found in Stowe's 1845 antislavery sketch "Immediate Abolition."
+1 A similar story is found in Stowe's 1845 antislavery sketch "Immediate Abolition."
 
-<sup>2</sup> Stowe's final references to the Compromise of 1850 and its Fugitive Slave Bill.
+2 Stowe's final references to the Compromise of 1850 and its Fugitive Slave Bill.
 
 every individual owner an irresponsible despot? Can anybody fail to make the inference what the practical result will be? If there is, as we admit, a public sentiment among you, men of honor, justice and humanity, is there not also another kind of public sentiment among the ruffian, the brutal and debased? And cannot the ruffian, the brutal, the debased, by slave law, own just as many slaves as the best and purest? Are the honorable, the just, the highminded and compassionate, the majority anywhere in this world?
 
-The slave-trade is now, by American law, considered as piracy.<sup>1</sup> But a slave-trade, as systematic as ever was carried on on the coast of Africa, is an inevitable attendant and result of American slavery. And its heart-break and its horrors, can they be told?
+The slave-trade is now, by American law, considered as piracy.1 But a slave-trade, as systematic as ever was carried on on the coast of Africa, is an inevitable attendant and result of American slavery. And its heart-break and its horrors, can they be told?
 
 The writer has given only a faint shadow, a dim picture, of the anguish and despair that are, at this very moment, riving thousands of hearts, shattering thousands of families, and driving a helpless and sensitive race to frenzy and despair. There are those living who know the mothers whom this accursed traffic has driven to the murder of their children; and themselves seeking in death a shelter from woes more dreaded than death. Nothing of tragedy can be written, can be spoken, can be conceived, that equals the frightful reality of scenes daily and hourly acting on our shores, beneath the shadow of American law, and the shadow of the cross of Christ.
 
 And now, men and women of America, is this a thing to be trifled with, apologized for, and passed over in silence? Farmers of Massachusetts, of New Hampshire, of Vermont, of Connecticut, who read this book by the blaze of your winter-evening fire,—strong-hearted, generous sailors and ship-owners of Maine,—is this a thing for you to countenance and encourage? Brave and generous men of New York, farmers of rich and joyous Ohio, and ye of the wide prairie states,—answer, is this a thing for you to protect and countenance? And you, mothers of America,—you, who have learned, by the cradles of your own children, to love and feel for all mankind,—by the sacred love you bear your child; by your joy in his beautiful, spotless infancy; by the motherly pity and tenderness with which you guide his growing years; by the anxieties of his education; by the prayers you breathe for his soul's eternal good;—I beseech you, pity the mother who has all your affections, and not one legal right to protect, guide, or educate, the child of her bosom! By the sick
 
-<sup>1</sup> In 1808, Congress banned the importation of slaves into the United States; this acted as a spur on the "internal" slave trade, however, and the growth of the slave population through forced reproduction.
+1 In 1808, Congress banned the importation of slaves into the United States; this acted as a spur on the "internal" slave trade, however, and the growth of the slave population through forced reproduction.
 
 hour of your child; by those dying eyes, which you can never forget; by those last cries, that wrung your heart when you could neither help nor save; by the desolation of that empty cradle, that silent nursery,—I beseech you, pity those mothers that are constantly made childless by the American slave-trade! And say, mothers of America, is this a thing to be defended, sympathized with, passed over in silence?
 
@@ -9978,14 +9983,14 @@ The writer has lived, for many years, on the frontier-line of slave states, and 
 
 The first desire of the emancipated slave, generally, is for education. There is nothing that they are not willing to give or do to have their children instructed; and, so far as the writer has observed herself, or taken the testimony of teachers among them, they are remarkably intelligent and quick to learn. The results of schools, founded for them by benevolent individuals in Cincinnati, fully establish this.
 
-The author gives the following statement of facts, on the authority of Professor C. E. Stowe,<sup>1</sup> then of Lane Seminary, Ohio, with regard to emancipated slaves, now resident in Cincinnati; given to show the capability of the race, even without any very particular assistance or encouragement. The initial letters alone are given. They are all residents of Cincinnati.
+The author gives the following statement of facts, on the authority of Professor C. E. Stowe,1 then of Lane Seminary, Ohio, with regard to emancipated slaves, now resident in Cincinnati; given to show the capability of the race, even without any very particular assistance or encouragement. The initial letters alone are given. They are all residents of Cincinnati.
 
 - "B——. Furniture maker; twenty years in the city; worth ten thousand dollars, all his own earnings; a Baptist.
 - "C——. Full black; stolen from Africa; sold in New Orleans; been free fifteen years; paid for himself six hundred dollars; a farmer; owns several farms in Indiana; Presbyterian; probably worth fifteen or twenty thousand dollars, all earned by himself.
 - "K——. Full black; dealer in real estate; worth thirty thousand dollars; about forty years old; free six years; paid eighteen hundred dollars for his family; member of the Baptist church; received a legacy from his master, which he has taken good care of, and increased.
 - "G——. Full black; coal dealer; about thirty years old; worth eighteen thousand dollars; paid for himself twice, being once defrauded to the amount of sixteen hundred dollars; made all his money by his own efforts—much of it while a slave, hiring his time of his master, and doing business for himself; a fine, gentlemanly fellow.
 
-<sup>1</sup> When Stowe's husband Calvin Ellis Stowe (1802-86) accepted a position on the faculty of Bowdoin College in Maine, he was still teaching at Lane Theological Seminary in Cincinnati. Stowe moved to Maine ahead of her husband and wrote most of Uncle Tom's Cabin there.
+1 When Stowe's husband Calvin Ellis Stowe (1802-86) accepted a position on the faculty of Bowdoin College in Maine, he was still teaching at Lane Theological Seminary in Cincinnati. Stowe moved to Maine ahead of her husband and wrote most of Uncle Tom's Cabin there.
 
 "W——. Three-fourths black; barber and waiter; from Kentucky; nineteen years free; paid for self and family over three thousand dollars; deacon in the Baptist church.
 
@@ -10001,27 +10006,27 @@ And let it be remembered that these individuals have thus bravely succeeded in c
 
 If this persecuted race, with every discouragement and disadvantage, have done thus much, how much more they might do, if the Christian church would act towards them in the spirit of her Lord!
 
-<sup>1</sup> A reference to the "black codes" of Midwestern states that placed severe restrictions on the civil rights of free blacks.
+1 A reference to the "black codes" of Midwestern states that placed severe restrictions on the civil rights of free blacks.
 
-<sup>2</sup> James William Charles Pennington (1809-71) was a pastor and performed the marriage ceremony of Frederick Douglass and Anna Murray after Douglass's escape from slavery in 1838; Pennington also published his autobiography, The Fugitive Blacksmith, in 1850. Samuel Ringgold Ward (1817-66) was an abolitionist, school teacher, and newspaper editor. His autobiography, Autobiography of a Fugitive Negro: His Anti-slavery Labours in the United States, Canada, & England, was published in 1855.
+2 James William Charles Pennington (1809-71) was a pastor and performed the marriage ceremony of Frederick Douglass and Anna Murray after Douglass's escape from slavery in 1838; Pennington also published his autobiography, The Fugitive Blacksmith, in 1850. Samuel Ringgold Ward (1817-66) was an abolitionist, school teacher, and newspaper editor. His autobiography, Autobiography of a Fugitive Negro: His Anti-slavery Labours in the United States, Canada, & England, was published in 1855.
 
 This is an age of the world when nations are trembling and convulsed. A mighty influence is abroad, surging and heaving the world, as with an earthquake. And is America safe? Every nation that carries in its bosom great and unredressed injustice has in it the elements of this last convulsion.
 
 For what is this mighty influence thus rousing in all nations and languages those groanings that cannot be uttered, for man's freedom and equality?
 
-O, Church of Christ, read the signs of the times!<sup>1</sup> Is not this power the spirit of HIM whose kingdom is yet to come, and whose will to be done on earth as it is in heaven?
+O, Church of Christ, read the signs of the times!1 Is not this power the spirit of HIM whose kingdom is yet to come, and whose will to be done on earth as it is in heaven?
 
-But who may abide the day of his appearing? "for that day shall burn as an oven: and he shall appear as a swift witness against those that oppress the hireling in his wages, the widow and the fatherless, and that turn aside the stranger in his right: and he shall break in pieces the oppressor."<sup>2</sup>
+But who may abide the day of his appearing? "for that day shall burn as an oven: and he shall appear as a swift witness against those that oppress the hireling in his wages, the widow and the fatherless, and that turn aside the stranger in his right: and he shall break in pieces the oppressor."2
 
 Are not these dread words for a nation bearing in her bosom so mighty an injustice? Christians! every time that you pray that the kingdom of Christ may come, can you forget that prophecy associates, in dread fellowship, the day of vengeance with the year of his redeemed?
 
-A day of grace is yet held out to us. Both North and South have been guilty before God; and the Christian church has a heavy account to answer. Not by combining together, to protect injustice and cruelty, and making a common capital of sin, is this Union to be saved,—but by repentance, justice and mercy; for, not surer is the eternal law by which the millstone sinks in the ocean,<sup>3</sup> than that stronger law, by which injustice and cruelty shall bring on nations the wrath of Almighty God!
+A day of grace is yet held out to us. Both North and South have been guilty before God; and the Christian church has a heavy account to answer. Not by combining together, to protect injustice and cruelty, and making a common capital of sin, is this Union to be saved,—but by repentance, justice and mercy; for, not surer is the eternal law by which the millstone sinks in the ocean,3 than that stronger law, by which injustice and cruelty shall bring on nations the wrath of Almighty God!
 
-<sup>1</sup> See Matthew 16.3: "And in the morning, 'It will be foul weather to day: for the sky is red and lowering.' O ye hypocrites, ye can discern the face of the sky; but can ye not discern the signs of the times?"
+1 See Matthew 16.3: "And in the morning, 'It will be foul weather to day: for the sky is red and lowering.' O ye hypocrites, ye can discern the face of the sky; but can ye not discern the signs of the times?"
 
-<sup>2</sup> See Malachi 4.1: "For, behold, the day cometh, it burneth as a furnace; and all the proud, and all that work wickedness, shall be stubble; and the day that cometh shall burn them up,' saith Jehovah of hosts, 'that it shall leave them neither root nor branch.'"
+2 See Malachi 4.1: "For, behold, the day cometh, it burneth as a furnace; and all the proud, and all that work wickedness, shall be stubble; and the day that cometh shall burn them up,' saith Jehovah of hosts, 'that it shall leave them neither root nor branch.'"
 
-<sup>3</sup> A reference to Matthew 18.6: "But whoso shall offend one of these little ones which believe in me, it were better for him that a millstone were hanged about his neck, and that he were drowned in the depth of the sea." See also Mark 9.2, Luke 17.2, and Revelation 18.21.
+3 A reference to Matthew 18.6: "But whoso shall offend one of these little ones which believe in me, it were better for him that a millstone were hanged about his neck, and that he were drowned in the depth of the sea." See also Mark 9.2, Luke 17.2, and Revelation 18.21.
 
 # Appendix A: Frontispiece and Illustrations for the First American Edition (1852)
 
@@ -10091,7 +10096,7 @@ The following letter to the "New York Tribune" is that alluded to above:—
 
 Brunswick, Maine, Sept. 12, 1852.
 
-"Mr. Greeley,—I have received the subjoined letter from an English publisher, and it struck me as so truly noble in its spirit that I have enclosed it for publication.<sup>1</sup> I wish very much that you would make some remarks upon it, in answer to the following questions:—
+"Mr. Greeley,—I have received the subjoined letter from an English publisher, and it struck me as so truly noble in its spirit that I have enclosed it for publication.1 I wish very much that you would make some remarks upon it, in answer to the following questions:—
 
 - "1. Have any American publishers shown a similar liberality with regard to English Authors?
 - "2. Is there, or is there not, a truth in the sentiment of the author of this letter, that the imperfect state of our copyright law does not alter the right of the thing, nor make it just for a publisher to avail himself of an author's talents for his own purposes without offering him a fair remuneration?
@@ -10107,7 +10112,7 @@ The above extracts, as far as they relate to the law of copyright, are given her
 
 The Author of "Uncle Tom's Cabin" cannot but express gratification at the feeling and generous response which it has awak-
 
-<sup>1</sup> Stowe writes to Horace Greeley (1811-72), the longstanding editor of the New York Tribune, who was a political reformer and, toward the end of his life, the liberal Republican party's 1872 Presidential candidate. Stowe complains here that American authors, in the absence of international copyright, must depend upon the probity of publishers for authorized editions and royalties.
+1 Stowe writes to Horace Greeley (1811-72), the longstanding editor of the New York Tribune, who was a political reformer and, toward the end of his life, the liberal Republican party's 1872 Presidential candidate. Stowe complains here that American authors, in the absence of international copyright, must depend upon the probity of publishers for authorized editions and royalties.
 
 ened in that old and noble nation from which her country derives its birth.
 
@@ -10117,27 +10122,27 @@ The public sentiment of the generous and just in England cannot but act powerful
 
 Unintentional injustice has often been done to the American nation by imagining that the General Government of the United States has the same power over slavery in the States that the British Parliament had in the Colonies. It must be borne in mind, that each particular State is in this respect as independent of the General Government as the island of Great Britain herself. The Free States, therefore, have no power at all over this subject, excepting that of example, of argument, and public sentiment.
 
-But for the Fugitive Slave Law—its framers, aiders, and abettors, both north and south, no mercy is claimed at the hands of the British public, or of the civilised world. One of our most eminent senators, Hon. Charles Sumner,<sup>1</sup> in his late masterly expose´ of this enactment, has proved conclusively that it is as much opposed to the letter and spirit of the United States' constitution as it is to the spirit of religion and humanity.
+But for the Fugitive Slave Law—its framers, aiders, and abettors, both north and south, no mercy is claimed at the hands of the British public, or of the civilised world. One of our most eminent senators, Hon. Charles Sumner,1 in his late masterly expose´ of this enactment, has proved conclusively that it is as much opposed to the letter and spirit of the United States' constitution as it is to the spirit of religion and humanity.
 
 The Author has seen in English prints some strictures respecting the parallel drawn in a part of the book between the condition of the English labouring poor and that of the slave population of the United States.
 
 It must be borne in mind that these ideas occur in the dramatic part of the book, and are placed in the mouth of an honourable
 
-<sup>1</sup> Charles Sumner (1811-74) was a lawyer and US Senator from Massachusetts who, in 1856, was viciously beaten with a cane on the floor of the US Senate by the South Carolina senator Preston Brooks.
+1 Charles Sumner (1811-74) was a lawyer and US Senator from Massachusetts who, in 1856, was viciously beaten with a cane on the floor of the US Senate by the South Carolina senator Preston Brooks.
 
 and high-minded slaveholder.1 It was impossible to give a dramatic representation of such a character without the introduction of this parallel. Every Southern print, every Southern politician, makes it a stereotyped apology for slavery, that the slave is better off than the labouring class of any other part of the world,—with the exception, perhaps, of the Free States of America; and statistics with regard to the condition of the English poor are more eagerly seized upon by them than those of any other nation, because England's national example and public sentiment with regard to slavery would otherwise be a weight too intolerable to be borne.
 
-Our ideas with regard to the condition of the English poor are drawn from current English literature. Such works as Charlotte Elizabeth's little "Pin-headers," and "Lace-makers," and "Helen Fleetwood,"<sup>2</sup> where all the worst details are established by Parliamentary reports and other documents,—the works of Dickens, of the author of "Alton Locke" and "Yeast,"<sup>3</sup> have had a wide circulation in this country, and have excited a sensation with regard to the condition of the English poor little inferior to that excited in England by the details of American slavery.
+Our ideas with regard to the condition of the English poor are drawn from current English literature. Such works as Charlotte Elizabeth's little "Pin-headers," and "Lace-makers," and "Helen Fleetwood,"2 where all the worst details are established by Parliamentary reports and other documents,—the works of Dickens, of the author of "Alton Locke" and "Yeast,"3 have had a wide circulation in this country, and have excited a sensation with regard to the condition of the English poor little inferior to that excited in England by the details of American slavery.
 
-So inextricably are the destinies of humanity interwoven, that every effort made in England to improve the condition of the labouring poor tells immediately upon the interests of freedom in America; and when all the various causes now in operation, and yet to be set in operation, shall have materially and permanently bettered their condition, then the noble example of England with regard to human freedom will act with unbroken force. Daniel Webster<sup>4</sup> has truly said that there is a force rising in these days superior to that of fleets and armies,—the "public sentiment of
+So inextricably are the destinies of humanity interwoven, that every effort made in England to improve the condition of the labouring poor tells immediately upon the interests of freedom in America; and when all the various causes now in operation, and yet to be set in operation, shall have materially and permanently bettered their condition, then the noble example of England with regard to human freedom will act with unbroken force. Daniel Webster4 has truly said that there is a force rising in these days superior to that of fleets and armies,—the "public sentiment of
 
-<sup>1</sup> In chapter 19, Augustine St. Clare, who abhors slavery, tells his cousin Miss Ophelia that he has to agree with his brother Alfred who argues that many slaves are better off than the working poor in England (and, by implication, the capitalist north in the United States). This fictional analogy sparked a transatlantic debate in which Stowe became embroiled (see Appendix F).
+1 In chapter 19, Augustine St. Clare, who abhors slavery, tells his cousin Miss Ophelia that he has to agree with his brother Alfred who argues that many slaves are better off than the working poor in England (and, by implication, the capitalist north in the United States). This fictional analogy sparked a transatlantic debate in which Stowe became embroiled (see Appendix F).
 
-<sup>2</sup> Charlotte Elizabeth Browne Phelan Tonna (1790-1846) was an English fiction writer and an advocate of labor reform; she was best known for her novel Helen Fleetwood: A Tale of the Factories (1841).
+2 Charlotte Elizabeth Browne Phelan Tonna (1790-1846) was an English fiction writer and an advocate of labor reform; she was best known for her novel Helen Fleetwood: A Tale of the Factories (1841).
 
-<sup>3</sup> Charles Dickens (1812-70), the great social realist English writer; Charles Kingsley (1819-75) published Alton Locke,Tailor and Poet (1849) and Yeast: A Problem (1851).
+3 Charles Dickens (1812-70), the great social realist English writer; Charles Kingsley (1819-75) published Alton Locke,Tailor and Poet (1849) and Yeast: A Problem (1851).
 
-<sup>4</sup> The famous lawyer, orator, and statesman from Massachusetts who, to the dismay of many Northerners and especially the abolitionists, supported the Compromise of 1850.
+4 The famous lawyer, orator, and statesman from Massachusetts who, to the dismay of many Northerners and especially the abolitionists, supported the Compromise of 1850.
 
 nations."That, at last, must put an end to every form of injustice and cruelty.
 
@@ -10155,9 +10160,9 @@ In reply to this, it can only be stated that the slave is to all intents and pur
 
 If the family ties of any class of labouring people in England
 
-<sup>1</sup> Black Code (French): laws regulating and curtailing certain legal and civil rights of free blacks.
+1 Black Code (French): laws regulating and curtailing certain legal and civil rights of free blacks.
 
-<sup>2</sup> Horace Mann (1796-1859) was a lawyer, judge, and abolitionist, but he is better remembered today as an educational reformer.
+2 Horace Mann (1796-1859) was a lawyer, judge, and abolitionist, but he is better remembered today as an educational reformer.
 
 are more uncertain than these facts and statistics show, they are much to be pitied.
 
@@ -10175,11 +10180,11 @@ The beauty of Eliza, and the spirit, intelligence, and gentlemanly language of G
 
 With regard to the practical results of slavery, the picture cannot be overdrawn: the half is not told, and cannot be told,—it
 
-<sup>1</sup> Abel P. Upshur (1790-1844) of Virginia; John Tyler (1790-1862) was the tenth president of the United States from 1841 to 1845.
+1 Abel P. Upshur (1790-1844) of Virginia; John Tyler (1790-1862) was the tenth president of the United States from 1841 to 1845.
 
 could neither be believed nor read, if it were. It can only be expressed in the eloquent words of Hon. Horace Mann, in a late debate on the repeal of the Fugitive Slave Law:—
 
-As the complex and infinite meaning of the word GOD cannot be adequately understood, until you analyse it, and divide and subdivide it, and give to it the thousand names of omnipotence, and omniscience, and omnipresence, of infinite justice, and holiness, and benevolence, of all sanctities, and verities, and benignities, of all energies and beauties, of all wisdom and all law; so when you penetrate and lay open the infinite meaning of the word SLAVERY, it resolves itself into all crimes and all cruelties, all debasements and all horrors. The telescope of the astronomer resolves the star-dust of the universe into refulgent systems that glorify their Maker; the telescope of the moralist resolves the Tartarean<sup>1</sup> cloud of Slavery into all the impieties and wickednesses that deform humanity.
+As the complex and infinite meaning of the word GOD cannot be adequately understood, until you analyse it, and divide and subdivide it, and give to it the thousand names of omnipotence, and omniscience, and omnipresence, of infinite justice, and holiness, and benevolence, of all sanctities, and verities, and benignities, of all energies and beauties, of all wisdom and all law; so when you penetrate and lay open the infinite meaning of the word SLAVERY, it resolves itself into all crimes and all cruelties, all debasements and all horrors. The telescope of the astronomer resolves the star-dust of the universe into refulgent systems that glorify their Maker; the telescope of the moralist resolves the Tartarean1 cloud of Slavery into all the impieties and wickednesses that deform humanity.
 
 ### 2. Harriet Beecher Stowe, Preface to the European Edition of Uncle Tom's Cabin (Leipzig: Bernhard Tauchnitz, 1852)
 
@@ -10189,7 +10194,7 @@ As the complex and infinite meaning of the word GOD cannot be adequately underst
 
 In authorizing the circulation of this work on the continent of
 
-<sup>1</sup> Characterizing an infernal region; in Greek mythology, Tartarus was the region below Hades.
+1 Characterizing an infernal region; in Greek mythology, Tartarus was the region below Hades.
 
 Europe the author has only the apology that the love of man is higher than the love of country.
 
@@ -10213,7 +10218,7 @@ The internal struggles of no other nation in the world can be so interesting to 
 
 If therefore the oppressed of the other nations desire to find in America an asylum of permanent freedom let them come prepared heart, hand, and vote, against the institution of slavery, for they who enslave others cannot long themselves remain free.
 
-True are the great living words, NO NATION CAN REMAIN FREE WITH WHOM FREEDOM IS A PRIVILEGE AND NOT A PRINCIPLE.<sup>2</sup>
+True are the great living words, NO NATION CAN REMAIN FREE WITH WHOM FREEDOM IS A PRIVILEGE AND NOT A PRINCIPLE.2
 
 Andover, Sept. 21, 1852.
 
@@ -10221,35 +10226,35 @@ Andover, Sept. 21, 1852.
 
 [In early 1853, Stowe wrote new prefaces for two French editions of Uncle Tom's Cabin: the first, translated by Louise Swanton Belloc, was published by Pierre Charpentier; the second, translated by Le´on Pilatte, was published by Victor Lecou (but is republished here in the form of a transcription of Stowe's handwritten draft that resides at the Stowe Center in Hartford, CT). Although religious
 
-<sup>1</sup> Pyrrhus (318-272 BCE) was an ancient king in present-day northern Greece who defeated the Romans at Heraclea (280) and Asculum (279), despite staggering losses. Thus, a pyrrhic victory is one purchased at great and perhaps fatal cost.
+1 Pyrrhus (318-272 BCE) was an ancient king in present-day northern Greece who defeated the Romans at Heraclea (280) and Asculum (279), despite staggering losses. Thus, a pyrrhic victory is one purchased at great and perhaps fatal cost.
 
-<sup>2</sup> The words are those of the Hungarian political revolutionary Lajos (Louis) Kossuth (1802-94) who, after leading a failed independence in Austria in 1848-49, was celebrated in the United States as a revolutionary hero.
+2 The words are those of the Hungarian political revolutionary Lajos (Louis) Kossuth (1802-94) who, after leading a failed independence in Austria in 1848-49, was celebrated in the United States as a revolutionary hero.
 
 appeals inform all of the prefaces that Stowe wrote for Uncle Tom's Cabin, they become quite pronounced in the two French prefaces as Stowe leaves political arguments behind and instead argues that Jesus Christ invests even the lowliest of individuals, such as her protagonist Tom, with moral authority and "majesty."]
 
 #### PREFACE TO THE FRENCH ILLUSTRATED EDITION.
 
-The author of Uncle Tom's Cabin is deeply touched by the outpouring of enthusiasm with which the beautiful country of France is responding to the cry for brotherhood and freedom from the American slave. It is to France's credit that she has abolished slavery throughout her colonies;<sup>1</sup> it is her glory that not a single drop of the slave's blood stains her coat of honour.
+The author of Uncle Tom's Cabin is deeply touched by the outpouring of enthusiasm with which the beautiful country of France is responding to the cry for brotherhood and freedom from the American slave. It is to France's credit that she has abolished slavery throughout her colonies;1 it is her glory that not a single drop of the slave's blood stains her coat of honour.
 
 France and England, formerly bitter enemies, are united in our time to give a great example to the world. They have thrown open the prisons, broken the chains, and delivered the oppressed. How peacefully, how calmly has this work of love been accomplished! Insurrections, tumults, dreadful disturbances, the bloodshed that threatened us—where are they?—The sun of liberty rose radiantly in a cloudless dawn, while songs and prayers of liberated slaves ascended like precious incense to the feet of Him for whom the liberty of man is of infinite worth.
 
-Alas! America, skeptical and faithless, still lingers and refuses to follow the noble course that England and France have gloriously charted. Oh! May the kind and fervent hearts of the French nation unite their prayers to ours, so my homeland, proud of herself, can reject this creeping vine, which chokes the liberty tree, and whose grip is death.<sup>2</sup>
+Alas! America, skeptical and faithless, still lingers and refuses to follow the noble course that England and France have gloriously charted. Oh! May the kind and fervent hearts of the French nation unite their prayers to ours, so my homeland, proud of herself, can reject this creeping vine, which chokes the liberty tree, and whose grip is death.2
 
-The author, in this book, aimed at an even loftier goal than emancipation; she wanted to turn our attention to the source of all liberty, to the Saviour Jesus-Christ. False prophets, lying ministers who deceitfully came in his name, but whom he never sent, will say that Christ authorizes oppression and approves slavery. The apostle Paul answers them all in these words: "Where there is the Spirit of the Lord, there is liberty."<sup>3</sup>
+The author, in this book, aimed at an even loftier goal than emancipation; she wanted to turn our attention to the source of all liberty, to the Saviour Jesus-Christ. False prophets, lying ministers who deceitfully came in his name, but whom he never sent, will say that Christ authorizes oppression and approves slavery. The apostle Paul answers them all in these words: "Where there is the Spirit of the Lord, there is liberty."3
 
 The Christian Church, since its beginning, has taught that God and man are inseparably united in the person of Jesus-Christ. Did
 
-<sup>1</sup> Slavery in the French colonies was abolished in 1794, re-established by Napoleon I, and abolished again in 1848.
+1 Slavery in the French colonies was abolished in 1794, re-established by Napoleon I, and abolished again in 1848.
 
-<sup>2</sup> The Liberty Tree was a famous elm in Boston used as a rallying point by American revolutionaries; it was cut down by a party of Loyalists in 1775.
+2 The Liberty Tree was a famous elm in Boston used as a rallying point by American revolutionaries; it was cut down by a party of Loyalists in 1775.
 
-<sup>3</sup> See 2 Corinthians 3.17.
+3 See 2 Corinthians 3.17.
 
 she not teach us in this way, with equal certainty, that the cause of God and the cause of man are identical, and that there can be no disagreement between true religion and true humanity?
 
 Oh! How powerful this thought of a Redeemer, man and God as one, exalts and enhances the human race! How such faith fills those who pray for the progress of mankind! How dread stricken are those who oppress their brothers! If each human being is a brother of Christ, injustice toward man is not only cruel and barbaric but ungodly and sacrilegious.
 
-"We see the dawning of the great day, the day of Christ. Like the sound of running waters heard at the first faint light of dawn, the prayers of the Just rise and surround his throne.<sup>1</sup>
+"We see the dawning of the great day, the day of Christ. Like the sound of running waters heard at the first faint light of dawn, the prayers of the Just rise and surround his throne.1
 
 "Yet a little longer and His presence shall once again shine over the world.
 
@@ -10275,7 +10280,7 @@ Amen, Amen.
 
 The author of the work has been requested to preface the French Edition with a few words.
 
-<sup>1</sup> Stowe freely paraphrases sentiments from the Bible here, and then more directly paraphrases Psalm 72.
+1 Stowe freely paraphrases sentiments from the Bible here, and then more directly paraphrases Psalm 72.
 
 In the Author's own country the work had a special & local errand & object.
 
@@ -10285,27 +10290,27 @@ In the history of Uncle Tom we have the history of the relation of the human sou
 
 That no man might be deemed so poor & so low as to be beneath the reach of his majesty he was born in the lowest poverty & deepest humiliation—That he might still further show his love for that class on which the foot of human scorn has always trod, he chose the apostles who were to spread his gospel, not among the learned, or powerful or influential of this times he chose the despised publican, the simple fisherman—
 
-So says Paul "ye see your calling brethren that not many rich, not many mighty not many noble are called, but God hath chosen the weak things of this world to confound those which are mighty—& base things of the world yea and things that are not to bring to naught things that are.["]<sup>1</sup>
+So says Paul "ye see your calling brethren that not many rich, not many mighty not many noble are called, but God hath chosen the weak things of this world to confound those which are mighty—& base things of the world yea and things that are not to bring to naught things that are.["]1
 
 This story is to show how Jesus Christ who liveth & was dead, & now is alive & forever more, still has a brothers['] love for the poor & lowly—& that no man can sink so low as that Jesus Christ will not stoop to take his hand.
 
 Who so low, who so poor who so despised as the poor American slave. The law almost denies his existence as a person & regards him for the most part as less than a man—a mere thing the property of another. The law forbids him to read, or write, to hold a legal marriage—it takes from him all legal right to the wife of his bosom the children of his body. He can "do nothing possess nothing acquire nothing but what must belong to his master"2— Yet even to this slave[.]
 
-<sup>1</sup> See 1 Corinthians 1.26-28.
+1 See 1 Corinthians 1.26-28.
 
-<sup>2</sup> A frequently cited part of the Louisiana slave code—see, for example, William Goodell's The American Slave Code in Theory and Practice: Its Distinctive Features Shown by Its Statutes, Judicial Decisions, and Illustrative Facts (1853) and William and Ellen Craft's Running a Thousand Miles to Freedom (1860). Stowe herself cited this passage in Part II, Chapter II of A Key To Uncle Tom's Cabin (1853).
+2 A frequently cited part of the Louisiana slave code—see, for example, William Goodell's The American Slave Code in Theory and Practice: Its Distinctive Features Shown by Its Statutes, Judicial Decisions, and Illustrative Facts (1853) and William and Ellen Craft's Running a Thousand Miles to Freedom (1860). Stowe herself cited this passage in Part II, Chapter II of A Key To Uncle Tom's Cabin (1853).
 
 Jesus Christ stoops from where he sits at the right hand of the father—& says—Fear not thou whom man despiseth for I am thy brother—Fear not for I have redeemed thee I have called thee by thy name—thou art mine!—
 
 This poor slave, thro the teachings of Jesus, and a simple faith in him gains a steadiness a patience a fortitude a calmness in reverses, an enduring peace in the deepest tribulations—which the highest philosopher might envy—He that is born of God overcometh the world—who shall separate him from the love of Christ—shall tribulation or persecution or distress, or famine or nakedness or peril or sword—Nay in all these things he is more than conqueror thro Him that loveth.—The living Jesus, it is said, hath ascended on high, & led captivity captive & giveth gifts unto men—And what gifts Christ can give to the poorest the most illiterate the power to overcome all the sorrows of life, by a spirit of steady love & patient prayer—he gives the power to over come hatred by love, & evil with good & thro every assault of mans cruelty and injustice to maintain unbroken peace by maintaining unbroken love. Christ gives the power to the soul to rise above threats & fear & bodily torture—& to face death with calmness rather than to betray a good cause—& Christ at last—turns the last night, into day & the dark & horrible gates of the grave—into the portals of eternal glory.—
 
-Oh ye who read remember that he saith I am he that liveth & was dead—& behold I am alive forever more—<sup>1</sup>
+Oh ye who read remember that he saith I am he that liveth & was dead—& behold I am alive forever more—1
 
-At the right hand of the Father, in the splendours of that light which no man can approach unto sits now he that was cradled in the manger—Amid the songs and adorations of eternity that brothers heart still throbs for us,—& no one is so poor—no one so lowly that his wrongs are not Christs wrongs & his sorrows Christs sorrows—Wherever a human heart is crushed, wherever the foot of pride treads down the lowly—& the tears & blood of the poor fall unregarded—He regardeth it, & it is treasured up for a future account—A day of reckoning is coming & the year of his redeemed is in his heart.<sup>2</sup>
+At the right hand of the Father, in the splendours of that light which no man can approach unto sits now he that was cradled in the manger—Amid the songs and adorations of eternity that brothers heart still throbs for us,—& no one is so poor—no one so lowly that his wrongs are not Christs wrongs & his sorrows Christs sorrows—Wherever a human heart is crushed, wherever the foot of pride treads down the lowly—& the tears & blood of the poor fall unregarded—He regardeth it, & it is treasured up for a future account—A day of reckoning is coming & the year of his redeemed is in his heart.2
 
-<sup>1</sup> See Revelation 1.18.
+1 See Revelation 1.18.
 
-<sup>2</sup> Isaiah 2.12 and Matthew 12.36.
+2 Isaiah 2.12 and Matthew 12.36.
 
 ## ![](_page_505_Figure_1.jpeg)
 
@@ -10355,7 +10360,7 @@ Men of colour, who are also of sense, for you particularly is my APPEAL designed
 
 In the month of August, I issued proposals for publishing "THE LIBERATOR" in Washington city; but the enterprise, though hailed in different sections of the country, was palsied by public indifference. Since that time, the removal of the Genius of Universal Emancipation to the Seat of Government has rendered less imperious the establishment of a similar periodical in that quarter.1
 
-<sup>1</sup> Garrison refers here to his mentor Benjamin Lundy's abolitionist paper, The Genius of Universal Emancipation.
+1 Garrison refers here to his mentor Benjamin Lundy's abolitionist paper, The Genius of Universal Emancipation.
 
 During my recent tour for the purpose of exciting the minds of the people by a series of discourses on the subject of slavery, every place that I visited gave fresh evidence of the fact, that a greater revolution in public sentiment was to be effected in the free states—and particularly in New-England—than at the south. I found contempt more bitter, opposition more active, detraction more relentless, prejudice more stubborn, and apathy more frozen, than among slave owners themselves. Of course, there were individual exceptions to the contrary. This state of things afflicted, but did not dishearten me. I determined, at every hazard, to lift up the standard of emancipation in the eyes of the nation, within sight of Bunker Hill and in the birth place of liberty. That standard is now unfurled; and long may it float, unhurt by the spoliations of time or the missiles of a desperate foe—yea, till every chain be broken, and every bondman set free! Let southern oppressors tremble—let their secret abettors tremble—let their northern apologists tremble—let all the enemies of the persecuted blacks tremble.
 
@@ -10363,7 +10368,7 @@ I deem the publication of my original Prospectus unnecessary, as it has obtained
 
 I am aware, that many object to the severity of my language; but is there not cause for severity? I will be as harsh as truth, and as uncompromising as justice. On this subject, I do not wish to think, or speak, or write, with moderation. No! no! Tell a man whose house is on fire, to give a moderate alarm; tell him to moderately rescue his wife from the hands of the ravisher; tell the mother to gradually extricate her babe from the fire into which it has fallen;—but urge me not to use moderation in a cause like the present. I am in earnest—I will not equivocate—I will not excuse—I will not retreat a single inch—AND I WILL BE HEARD. The apathy of the people is enough to make every statue leap from its pedestal, and to hasten the resurrection of the dead.
 
-It is pretended, that I am retarding the cause of emancipation by the coarseness of my invective, and the precipitancy of my measures. The charge is not true. On this question my influence, humble as it is,—is felt at this moment to a considerable extent, and shall be felt in coming years—not perniciously, but beneficially—not as a curse, but as a blessing; and posterity will bear testimony that I was right. I desire to thank God, that he enables me to disregard "the fear of man which bringeth a snare,"<sup>1</sup> and to speak his truth in its simplicity and power. And here I close with this fresh dedication:
+It is pretended, that I am retarding the cause of emancipation by the coarseness of my invective, and the precipitancy of my measures. The charge is not true. On this question my influence, humble as it is,—is felt at this moment to a considerable extent, and shall be felt in coming years—not perniciously, but beneficially—not as a curse, but as a blessing; and posterity will bear testimony that I was right. I desire to thank God, that he enables me to disregard "the fear of man which bringeth a snare,"1 and to speak his truth in its simplicity and power. And here I close with this fresh dedication:
 
 Oppression! I have seen thee, face to face, And met thy cruel eye and cloudy brow; But thy soul-withering glance fear I not now— For dread to prouder feelings doth give place Of deep abhorrence! Scorning the disgrace Of slavish knees that at thy footstool bow, I also kneel—but with far other vow Do hail thee and thy hord of hirelings base:— I swear, while life-blood warms my throbbing veins, Still to oppose and thwart, with heart and hand, Thy brutalising sway—till Afric's chains Are burst, and Freedom rules the rescued land,— Trampling Oppression and his iron rod: Such is the vow I take—SO HELP ME GOD!
 
@@ -10371,7 +10376,7 @@ Oppression! I have seen thee, face to face, And met thy cruel eye and cloudy bro
 
 [Before David Walker and William Lloyd Garrison, gradualism and colonization were the common sense positions on the issue of slavery even for antislavery advocates. After the emergence of the radical abolitionist movement in the early 1830s, however, proponents of gradualism and colonization were put on the defensive. Harriet Beecher Stowe's own father, Lyman Beecher,
 
-<sup>1</sup> From Proverbs 29.25.
+1 From Proverbs 29.25.
 
 was a staunch supporter of colonization from the early days of the movement, and his views are a fairly accurate index of the position of a majority of Northerners in the 1830s and 1840s. In the excerpt below, Beecher calls for a truce between the immediate abolitionists and the advocates of colonization and argues that the noble end of emancipation justifies a multiplicity of means.]
 
@@ -10417,7 +10422,7 @@ And furthermore, we believe, and declare, that the conduct of the Abolitionists,
 
 With these views of the subject, we declare our solemn conviction, that it is the duty of all good citizens, by word, deed and example, to condemn and discountenance the violent measures of the Abolitionists, and to use all reasonable and peaceable means, consistent with their own rights, to put an end to them; to restore quiet to the public mind, and harmony and confidence among the people of every section of our happy confederacy. HARTFORD, OCTOBER, 1835.
 
-<sup>1</sup> This is a reference to an ongoing mass mailing campaign by the radical abolitionists that inundated Southern post offices with antislavery tracts and newspapers and sent scores of petitions to Congress demanding action on the issue during the summer of 1835. The mailing campaign sparked vigorous debate about the limits of free speech in both the North and the South and, in 1836, Congress passed measures that allowed the seizure of mail banned by state law and a "gag rule" that permanently tabled and left unread any antislavery petitions received. Appendix C6 offers an example of such petitions.
+1 This is a reference to an ongoing mass mailing campaign by the radical abolitionists that inundated Southern post offices with antislavery tracts and newspapers and sent scores of petitions to Congress demanding action on the issue during the summer of 1835. The mailing campaign sparked vigorous debate about the limits of free speech in both the North and the South and, in 1836, Congress passed measures that allowed the seizure of mail banned by state law and a "gag rule" that permanently tabled and left unread any antislavery petitions received. Appendix C6 offers an example of such petitions.
 
 # 6. Maria Chapman, et al., "Address of the Boston Female Anti-Slavery Society to the Women of Massachusetts," The Liberator, 13 August 1836
 
@@ -10463,21 +10468,21 @@ We also respectfully announce our intention, to present the same petition, yearl
 
 [Among the many stalwart individuals of the abolitionist movement, it was finally Garrison who most consistently and provocatively seized the field of public debate as exemplified in this incendiary article. By the early 1840s, Garrison was arguing that the North should secede from the Union rather than remain complicit with slavery a moment longer. In "No Union With Slaveholders!" he performs in words what he would later perform in deed when he burned a copy of the US Constitution in 1854.]
 
-Tyrants of the old world! contemners of the rights of man! disbelievers in human freedom and equality! enemies of mankind! console not yourselves with the delusion, that REPUBLICAN-ISM and the AMERICAN UNION are synonymous terms—or that the downfall of the latter will be the extinction of the former, and, consequently, a proof of the incapacity of the people for selfgovernment, and a confirmation of your own despotic claims! Your thrones must crumble to dust; your sceptre of domination drop from your powerless hands; your rod of oppression be broken; yourselves so vilely abased, that there shall be "none so poor to do you reverence."<sup>1</sup> The will of God, the beneficent Creator of the human family, cannot always be frustrated. It is his will that every form of usurpation, every kind of injustice, every device of tyranny, shall come to nought; that peace, and liberty, and righteousness, shall "reign from sea to sea, and from the rivers to the ends of the earth"; and that, throughout the earth, in the fulness of a sure redemption, there shall be "none to molest or make afraid." Humanity, covered with gore, cries with a voice that pierces the heavens. "His will be done!" Justice, discrowned by the hand of violence, exclaims in tones of deep solemnity, "HIS WILL BE DONE!" Liberty, burdened with chains, and driven into exile, in thunder-tones responds "HIS WILL BE DONE!"
+Tyrants of the old world! contemners of the rights of man! disbelievers in human freedom and equality! enemies of mankind! console not yourselves with the delusion, that REPUBLICAN-ISM and the AMERICAN UNION are synonymous terms—or that the downfall of the latter will be the extinction of the former, and, consequently, a proof of the incapacity of the people for selfgovernment, and a confirmation of your own despotic claims! Your thrones must crumble to dust; your sceptre of domination drop from your powerless hands; your rod of oppression be broken; yourselves so vilely abased, that there shall be "none so poor to do you reverence."1 The will of God, the beneficent Creator of the human family, cannot always be frustrated. It is his will that every form of usurpation, every kind of injustice, every device of tyranny, shall come to nought; that peace, and liberty, and righteousness, shall "reign from sea to sea, and from the rivers to the ends of the earth"; and that, throughout the earth, in the fulness of a sure redemption, there shall be "none to molest or make afraid." Humanity, covered with gore, cries with a voice that pierces the heavens. "His will be done!" Justice, discrowned by the hand of violence, exclaims in tones of deep solemnity, "HIS WILL BE DONE!" Liberty, burdened with chains, and driven into exile, in thunder-tones responds "HIS WILL BE DONE!"
 
 Tyrants! know that the rights of man are inherent and unalienable, and therefore, not to be forfeited by the failure of any form of government, however democratic. Let the American Union perish; let these allied States be torn with faction, or drenched in blood;
 
-<sup>1</sup> From Antony's famous oration over Caesar's corpse in Shakespeare's Julius Caesar, III.2: "But yesterday the word of Caesar might/Have stood against the world; now lies he there./And none so poor to do him reverence."
+1 From Antony's famous oration over Caesar's corpse in Shakespeare's Julius Caesar, III.2: "But yesterday the word of Caesar might/Have stood against the world; now lies he there./And none so poor to do him reverence."
 
 let this republic realize the fate of Rome and Carthage, of Babylon and Tyre; still those rights would remain undiminished in strength, unsullied in purity, unaffected in value, and sacred as their Divine Author. If nations perish, it is not because of their devotion to liberty, but for their disregard of its requirements. Man is superior to all political compacts, all governmental arrangements, all religious institutions. As means to an end, these may sometimes be useful, though never indispensable; but that end must always be the freedom and happiness of man, INDIVIDUAL MAN. It can never be true that the public good requires the violent sacrifice of any, even the humblest citizen; for it is absolutely dependent on his preservation, not destruction. To do evil that good may come, is equally absurd and criminal. The time for the overthrow of any government, the abandonment of any alliance, the subversion of any institution, is, whenever it justifies the immolation of the individual to secure the general welfare; for the welfare of the many cannot be hostile to the safety of the few. In all agreements, in all measure, in all political or religious enterprises, in all attempts to redeem the human race, man, as an individual, is to be held paramount:—"Him first, him last, him midst, and without end."1
 
-The doctrine, that the end sanctifies the means, is the maxim of profligates and impostors, of usurpers and tyrants. They who, to promote the cause of truth will sanction the utterance of a falsehood are to be put in the category of liars. So, likewise, they who are for trampling on the rights of the minority, in order to benefit the majority, are to be registered as the monsters of their race. Might is never right, excepting when it sees in every human being, "a man and a brother," and protects him with a divine fidelity. It is the recognition of these truths, the adoption of these principles, which alone can extirpate tyranny from the earth, perpetuate a free government, and cause the dwellers in every clime, "like kindred drops, to mingle into one."<sup>2</sup>
+The doctrine, that the end sanctifies the means, is the maxim of profligates and impostors, of usurpers and tyrants. They who, to promote the cause of truth will sanction the utterance of a falsehood are to be put in the category of liars. So, likewise, they who are for trampling on the rights of the minority, in order to benefit the majority, are to be registered as the monsters of their race. Might is never right, excepting when it sees in every human being, "a man and a brother," and protects him with a divine fidelity. It is the recognition of these truths, the adoption of these principles, which alone can extirpate tyranny from the earth, perpetuate a free government, and cause the dwellers in every clime, "like kindred drops, to mingle into one."2
 
 Tyrants! confident of its overthrow, proclaim not to your vassals that the AMERICAN UNION is an experiment of Freedom, which, if it fail, will forever demonstrate the necessity of whips for the backs, and chains for the limbs of the people. Know that its subversion is essential to the triumph of justice, the deliv-
 
-<sup>1</sup> From Book V of the English poet John Milton's epic poem Paradise Lost.
+1 From Book V of the English poet John Milton's epic poem Paradise Lost.
 
-<sup>2</sup> From the poem "The Timepiece" from the English poet William Cowper's (1731-1800) collection The Task and other poems (1785): "Mountains interposed/Make enemies of nations, who had else/Like kindred drops been mingled into one."
+2 From the poem "The Timepiece" from the English poet William Cowper's (1731-1800) collection The Task and other poems (1785): "Mountains interposed/Make enemies of nations, who had else/Like kindred drops been mingled into one."
 
 erance of the oppressed, the vindication of the BROTHER-HOOD OF THE RACE. It was conceived in sin, and brought forth in iniquity; and its career has been marked by unparalleled hypocrisy, by high-handed tyranny, by a bold defiance of the omniscience and omnipotence of God. Freedom indignantly disowns it, and calls for its extinction; for within its borders are three millions of Slaves, whose blood constitutes its cement, whose flesh forms a large and flourishing branch of its commerce, and who are ranked with four-footed beasts and creeping things. To secure the adoption of the Constitution of the United States, it was agreed, that the African slave-trade,—till that time, a feeble, isolated colonial traffic,—should for at least twenty years be prosecuted as a national interest under the American flag, and protected by the national arm;—secondly, that a slaveholding oligarchy, created by allowing three-fifths of the slave population to be represented by their taskmasters, should be allowed a permanent seat in Congress;—thirdly, that the slave system should be secured against internal revolt and external invasion, by the united physical force of the country;—fourthly, that not a foot of national territory should be granted, on which the panting fugitive from Slavery might stand, and be safe from his pursuers—thus making every citizen a slave-hunter and slave-catcher.1 To say that this "covenant with death" shall not be annulled—that this "agreement with hell" shall continue to stand—that this "refuge of lies" shall not be swept away—is to hurl defiance at the eternal throne, and to give the life to Him who sits thereon. It is an attempt, alike monstrous and impracticable, to blend the light of heaven with the darkness of the bottomless pit, to unite the living with the dead, to associate the Son of God with the prince of evil.
 
@@ -10487,7 +10492,7 @@ Accursed be it, as the most frightful despotism, with regard to three millions o
 
 Accursed be it, as the most subtle and atrocious compromise ever made to gratify power and selfishness!
 
-<sup>1</sup> Garrison alludes here to compromises made over slavery during the Constitutional Convention of 1787 and the late eighteenth century. In fact, the importation of slaves continued until 1808, the Constitution recognized slavery (without explicitly naming it) in a clause that counted a slave as three-fifths of a person for the purpose of political representation, and the Fugitive Slave Act of 1793 required the return of fugitive slaves.
+1 Garrison alludes here to compromises made over slavery during the Constitutional Convention of 1787 and the late eighteenth century. In fact, the importation of slaves continued until 1808, the Constitution recognized slavery (without explicitly naming it) in a clause that counted a slave as three-fifths of a person for the purpose of political representation, and the Fugitive Slave Act of 1793 required the return of fugitive slaves.
 
 Accursed be it, as stained with human blood, and supported by human sacrifices!
 
@@ -10611,25 +10616,25 @@ It is even so—you know and have said what is a deep yet not often spoken sorro
 
 Evening—To day I read over Storrs article in answer to the N York observer.1You dont know how my heart burns within me at the blindness and obtuseness of good people on so very simple a point of morality as this—Storrs piece is a very fine one—I thought it was yours till I got thro and saw the signature.
 
-If I thank God for anything it is that you and Charles<sup>2</sup> are enlisted in this cause as you are heartily, wholly over shoes and stockings—Some of the defences of these principles are so very guarded and candid and cautious and sweet and explanatory that they put me in the mind of little Dr. Chillip laying his head on
+If I thank God for anything it is that you and Charles2 are enlisted in this cause as you are heartily, wholly over shoes and stockings—Some of the defences of these principles are so very guarded and candid and cautious and sweet and explanatory that they put me in the mind of little Dr. Chillip laying his head on
 
-<sup>1</sup> Richard Storrs published an article entitled "The Right of Self-Defense" in The Independent in response to the New York Observer's opposing claim that fugitive slaves possessed no such right.
+1 Richard Storrs published an article entitled "The Right of Self-Defense" in The Independent in response to the New York Observer's opposing claim that fugitive slaves possessed no such right.
 
-<sup>2</sup> Stowe's younger brother Charles Edward (1815-1900), who delivered a sermon entitled "The Duty of Disobedience to Wicked Laws" on the Fugitive Slave Act on 11 November 1850.
+2 Stowe's younger brother Charles Edward (1815-1900), who delivered a sermon entitled "The Duty of Disobedience to Wicked Laws" on the Fugitive Slave Act on 11 November 1850.
 
-one side and saying "Do you know Mr. Copperfield—that I dont find Mr. and Miss Murdstone in the New Testament?"<sup>1</sup>
+one side and saying "Do you know Mr. Copperfield—that I dont find Mr. and Miss Murdstone in the New Testament?"1
 
 As if a man should get up and with great parade and begging a thousand pardons tell us that he really as an individual could not see his way clear to murder his father and mother in bed even tho required to do it by the laws of his country—that as far as he could see—he could not bring himself to think that any law could make that right. Must we forever keep calm and smile and smile when every sentiment of manliness and humanity is kicked and rolled in the dust and lies trampled and bleeding and make it a moment to be exceedingly cool! I feel as if my heart would burn itself out in grief and shame that such things are. I wish I had your chance, but next best to that it is to have you have it, so fire away, give them no rest day nor night.
 
-I read your Shakspear Sabbath. You feel a stronger sympathy with him than I do. So I have felt, but not perhaps I should feel at that shrine. Martin Luthers grave might be a more likely spot. Why dont you publish your criticisms on the paintings I should like to have that. Bailey sent me a check the other day for \$100 and wanted me to furnish as much as I chose and what I chose for it next year.<sup>2</sup> Can you furnish me suggestions and materials for some graphic sketches that shall have some bearing on slave power and principle instead of a political idea[?]
+I read your Shakspear Sabbath. You feel a stronger sympathy with him than I do. So I have felt, but not perhaps I should feel at that shrine. Martin Luthers grave might be a more likely spot. Why dont you publish your criticisms on the paintings I should like to have that. Bailey sent me a check the other day for \$100 and wanted me to furnish as much as I chose and what I chose for it next year.2 Can you furnish me suggestions and materials for some graphic sketches that shall have some bearing on slave power and principle instead of a political idea[?]
 
-Would to God I could do something even the humblest in this cause. I have actually and really found tears dropping on my pillow when I have thought of the wrongs and sorrows of those oppressed ones. Is it possible that Henry Long<sup>3</sup> is hopelessly sold
+Would to God I could do something even the humblest in this cause. I have actually and really found tears dropping on my pillow when I have thought of the wrongs and sorrows of those oppressed ones. Is it possible that Henry Long3 is hopelessly sold
 
-<sup>1</sup> A reference to Charles Dickens's novel David Copperfield (1850) in which the protagonist is mistreated by his stepfather and his stepfather's sister, the Murdstones; Dr. Chillip is a meek physician who assisted in David's birth.
+1 A reference to Charles Dickens's novel David Copperfield (1850) in which the protagonist is mistreated by his stepfather and his stepfather's sister, the Murdstones; Dr. Chillip is a meek physician who assisted in David's birth.
 
-<sup>2</sup> This paragraph alludes, first, to Henry Ward Beecher's recently published article "A Sabbath at Stratford-on-Avon" (The Independent 4 August 1850) which gives an account of his visit to Shakespeare's birthplace. Martin Luther (1483-1546) was a German monk whose writings fired the Protestant Reformation. Gamaliel Bailey (1807-59) was the editor of the antislavery The National Era, in which Uncle Tom's Cabin was first serialized.
+2 This paragraph alludes, first, to Henry Ward Beecher's recently published article "A Sabbath at Stratford-on-Avon" (The Independent 4 August 1850) which gives an account of his visit to Shakespeare's birthplace. Martin Luther (1483-1546) was a German monk whose writings fired the Protestant Reformation. Gamaliel Bailey (1807-59) was the editor of the antislavery The National Era, in which Uncle Tom's Cabin was first serialized.
 
-<sup>3</sup> Henry Long, a free black working in New York City, was accused of being a fugitive slave and legally remanded to his Southern claimants despite evidence to the contrary. For many in the North, the Long case was a scandalous example of how the Fugitive Slave Act endangered free blacks as well as fugitive slaves themselves.
+3 Henry Long, a free black working in New York City, was accused of being a fugitive slave and legally remanded to his Southern claimants despite evidence to the contrary. For many in the North, the Long case was a scandalous example of how the Fugitive Slave Act endangered free blacks as well as fugitive slaves themselves.
 
 and that all in this nation of freemen there is not one deliverer brave enough and strong enough to recover him—be delivered up by freemen and northern men and are there Christians that can find nothing better to do than cry peace when such things are done. How I detest that cool way of lumping together all the woes and crimes, the heart-breaks, the bitter untold agonies of [a] thousand poor bleeding helpless hearts, many creatures with the bland expression its very sad to be sure—very dreadful—but we mustn't allow our feelings to run away with us, we must consider &c., &c., &c.
 
@@ -10687,19 +10692,19 @@ So you want to know something about what sort of woman I am—well, if this is a
 
 To begin with, I am a little bit of a woman—somewhat more than 40—about as thin & dry as a pinch of snuff—never very much to look at in my best days—& looking like a used up article now. I was married when I was 25 years old to a man rich in Greek & Hebrew, Latin & Arabic, & alas! rich in nothing else. When I went to housekeeping, my entire stock of china for parlour & kitchen was bought for 11 dollars, & this lasted very well for 2 years, till my brother who was married & brought in his bride to visit me & found upon review that I had neither plates nor teacups enough to set a table for my father's family, wherefore I thought it best to reinforce the establishment by getting me a tea-set which cost 10 dollars more, & this, I believe, formed my whole stock in trade for some years.
 
-But then I was abundantly enriched with wealth of another kind. I had 2 little curly headed twin daughters to begin with, & my stock in this line has gradually increased till I have been the mother of 7 children, the most beautiful of which, the most loved, lies buried near my Cincinati residence. It was at his dying bed & at his grave, that I learnt what a poor slave mother may feel when her child is torn away from her. In the depths of sorrow, which seemed to me immeasurable, it was my only prayer to God that such anguish might not be suffered in vain! There were circumstances about his death, of such peculiar bitterness, of what might seem almost cruel suffering, that I felt I could never be consoled for it, unless it should appear that this crushing of my own heart might enable me to work out some great good to others. It was during the cholera summer, when in a circle of 5 miles around me, in the short space of 3 months, 9000 were buried around me, a mortality which I have never heard exceeded any where. My husband in feeble health was obliged to be absent the whole time, & I had sole charge of a family of 15 persons. He could not return to me because I would not permit it, for in many instances, where parents abroad had returned to their families in the infected atmosphere, the result had been sudden death, & the physicians warned me that if he returned it would be only to die. My poor Charlie died for want of medical aid timely rendered for in the universal confusion & despair that prevailed, it was often impossible to obtain assistance till it was too late.<sup>1</sup>
+But then I was abundantly enriched with wealth of another kind. I had 2 little curly headed twin daughters to begin with, & my stock in this line has gradually increased till I have been the mother of 7 children, the most beautiful of which, the most loved, lies buried near my Cincinati residence. It was at his dying bed & at his grave, that I learnt what a poor slave mother may feel when her child is torn away from her. In the depths of sorrow, which seemed to me immeasurable, it was my only prayer to God that such anguish might not be suffered in vain! There were circumstances about his death, of such peculiar bitterness, of what might seem almost cruel suffering, that I felt I could never be consoled for it, unless it should appear that this crushing of my own heart might enable me to work out some great good to others. It was during the cholera summer, when in a circle of 5 miles around me, in the short space of 3 months, 9000 were buried around me, a mortality which I have never heard exceeded any where. My husband in feeble health was obliged to be absent the whole time, & I had sole charge of a family of 15 persons. He could not return to me because I would not permit it, for in many instances, where parents abroad had returned to their families in the infected atmosphere, the result had been sudden death, & the physicians warned me that if he returned it would be only to die. My poor Charlie died for want of medical aid timely rendered for in the universal confusion & despair that prevailed, it was often impossible to obtain assistance till it was too late.1
 
 I allude to this now, because I have often felt that much that is in this book had its root in the awful scenes & bitter sorrows of that summer. It has left now, I trust, no trace in any mind except a deep compassion for the sorrowful, especially for mothers who are separated from their children. [...]
 
 I lived 2 miles from the city of Cincinati [sic], in the country, & domestic service you know, not always to be found in the city, is next to an impossibility to be obtained in the country, even by those who are willing to give the highest wages. So what was to be expected for poor me who had very little of this world's good to offer? Had it not been for my inseparable friend Anna a noble hearted English girl, who landed on our American shores in destitution & sorrow, & who clave unto me as Ruth to Naomi, I had never lived through all the toil which this uncertainty & absolute want of Domestic service imposed on both; you may imagine therefore how glad I was when our Seminary property being divided into small lots, which were rented out at a low price, a number of poor families settled in our vicinity, from whom we could occasionally obtain domestic services.—About a dozen families of liberated slaves were among the number, & they became my favorite resorts in cases of emergency.—If any body wants to have a black face look handsome, let them be left as I have been, in feeble health, in oppressive, hot weather, with a sick baby in arms, & two or three other little ones in the nursery, and not a servant in the whole house to do a single turn: & then if they should see my good old aunt Frankie, coming in with her honest, bluff, black face, her long, strong arms, her chest as big & stout as a barrel, & her hilarious hearty laugh, perfectly delighted to take
 
-<sup>1</sup> A reference to Stowe's son infant Samuel Charles (Charlie [1848-49]) who died in a cholera epidemic in Cincinnati.
+1 A reference to Stowe's son infant Samuel Charles (Charlie [1848-49]) who died in a cholera epidemic in Cincinnati.
 
 one's washing, & do it at a fair price, they would appreciate the beauty of black people—My cook, poor Eliza Buck (how she would stare to think of her name's going to England) was a regular epitome of slave life in herself, fat gentle, easy, loving & loveable, always calling my very modest house & door yard, "The Place" as if it had been a plantation with 700 hands on it.—Her way of arranging the kitchen was at first somewhat like Dinah's, though she imbibed our ideas more rapidly, & seemed more ready to listen to suggestions, than did that dignitary. She had lived through the whole sad story of a Virginia-raised slave's life. In her youth she must have been a very handsome mulatto girl. Her voice was sweet & her manner refined & agreeable. She was raised in a good family as nurse & sempstress. When the family became embarrased, she was suddenly sold onto a plantation in Louisiana; She has often told me how without any warning, she was suddenly forced into a carriage, & saw her little mistress screaming & stretching her arms from the window towards her, as she was driven away. She has told me of scenes on the Louisiana plantations & how she has often been out in the night by stealth, ministering to poor slaves, who had been mangled & lacerated by the whip.—Thence she was sold again into Kentucky, & her last master was the father of all her children. On this point she always maintained a delicacy & reserve, which, though it is not at all uncommon among slave women, always appeared to me remarkable—She always called him her husband, & spoke of him with the same apparent feeling with which any woman regards her husband, & it was not till after she had lived with me some years that I discovered accidentally, the real nature of the connexion.— I shall never forget how sorry I felt for her, nor my feelings at her humble apology—"You know, Mrs. Stowe, slave women can't help themselves." She had two very pretty quadroon daughters with beautiful hair & eyes, interesting children, whom I had instructed in the family school with my children. Time would fail me to tell you all that I learnt incidentally of the working of the slave system, in the history of various slaves, who came into my family and of the underground railroad, which I may say ran through our barn. But I have made my labor already too long.— [...]
 
 I am now writing a work which will contain perhaps an equal amount of matter with Uncle Tom's Cabin.1 It will contain all the
 
-<sup>1</sup> A Key to Uncle Tom's Cabin (1853), Stowe's defense of her novel's realism and a scathing indictment of Southern slave law.
+1 A Key to Uncle Tom's Cabin (1853), Stowe's defense of her novel's realism and a scathing indictment of Southern slave law.
 
 facts & documents, on which that story was founded, & an immense body of facts, reports of trials, legal decisions & testimony of people living in the South, which will more than confirm every statement in it & show how much more fact than fiction it is.
 
@@ -10707,7 +10712,7 @@ I must confess that till I commenced the examinations necessary to write this, m
 
 I suffer excessively in writing these things. It may truly be said I write with heart's blood.—Many times in writing "Uncle Tom's Cabin" I thought my health wd fail utterly, but I prayed earnestly that God would help me till I got thro'—& now I am pressed above measure, & beyond strength—This horror, this nightmare, abomination! can it be in my country! It lies like lead on my heart, it shadows my life with sorrow, the more so, that I feel, as for my own brothers, for the South—& I am pained by every horror that I am obliged to write, as one who is forced by an awful oath, to disclose in a court, some family disgrace! Many times I have thought I must die, & yet, I pray God that I may live to see something done.
 
-I shall probably be in London in May.—shall I see you? It seems to me so odd & dream-like, that so many people want to see me—and I can't help thinking, that they will think that God hath "chosen the weak things of the world"<sup>1</sup> when they do.—If I live till Spring, then I shall hope to see Shakespeare's grave & Britton's mulberry tree & the good land of my fathers—old, old England! May that day come
+I shall probably be in London in May.—shall I see you? It seems to me so odd & dream-like, that so many people want to see me—and I can't help thinking, that they will think that God hath "chosen the weak things of the world"1 when they do.—If I live till Spring, then I shall hope to see Shakespeare's grave & Britton's mulberry tree & the good land of my fathers—old, old England! May that day come
 
 ## YRS AFFECTLY
 
@@ -10715,7 +10720,7 @@ I shall probably be in London in May.—shall I see you? It seems to me so odd &
 
 ## [Dr. Daniel Williams's Library, London]
 
-<sup>1</sup> See Corinthians 1.27: "But God hath chosen the foolish things of the world to confound the wise; and God hath chosen the weak things of the world to confound the things which are mighty."
+1 See Corinthians 1.27: "But God hath chosen the foolish things of the world to confound the wise; and God hath chosen the weak things of the world to confound the things which are mighty."
 
 ## ![](_page_545_Picture_1.jpeg)
 
@@ -10737,11 +10742,11 @@ Sec. 3. And be it further enacted,That the Circuit Courts of the United States, 
 
 Sec. 4. And be it further enacted,That the commissioners above named shall have concurrent jurisdiction with the judges of the Circuit and District courts of the United States, in their respective circuits and districts within the several States, and the judges of the Superior Courts of the Territories, severally and collectively, in term-time and vacation; and shall grant certificates to such claimants, upon satisfactory proof being made, with authority to take and remove such fugitives from service or labor, under the restrictions herein contained, to the State or Territory from which such persons may have escaped or fled.
 
-Sec. 5. And be it further enacted, That it shall be the duty of all marshals and deputy marshals to obey and execute all warrants and precepts issued under the provisions of this act, when to them directed; and should any marshal or deputy marshal refuse to receive such warrant, or other process, when tendered, or to use all proper means diligently to execute the same, he shall, on conviction thereof, be fined in the sum of one thousand dollars, to the use of such claimant, on the motion of such claimant, by the Circuit or District Court for the district of such marshal; and after arrest of such fugitive, by such marshal or his deputy, or whilst at any time in his Custody under the provisions of this act, should such fugitive escape, whether with or without the assent of such marshal or his deputy, such marshal shall be liable, on his official bond, to be prosecuted for the benefit of such claimant, for the full value of the service or labor of said fugitive in the State, Territory or District whence he escaped: and the better to enable the said commissioners, when thus appointed, to execute their duties faithfully and efficiently, in conformity with the requirements of the Constitution of the United States and of this act, they are hereby authorized and empowered, within their counties respectively, to appoint, in writing under their hands, any one or more suitable persons, from time to time, to execute all such warrants and other process as may be issued by them in the lawful performance of their respective duties; with authority to such commissioners, or the persons to be appointed by them, to execute process as aforesaid, to summon and call to their aid the bystanders, or posse comitatus<sup>1</sup> of the proper county, when necessary to ensure a faithful observance of the clause of the Constitution referred to, in conformity with the provisions of this act; and all good citizens are hereby commanded to aid and assist in the prompt and efficient execution of this law, whenever their services may be required, as aforesaid, for that purpose; and said warrants shall run, and be executed by said officers, any where in the State within which they are issued.
+Sec. 5. And be it further enacted, That it shall be the duty of all marshals and deputy marshals to obey and execute all warrants and precepts issued under the provisions of this act, when to them directed; and should any marshal or deputy marshal refuse to receive such warrant, or other process, when tendered, or to use all proper means diligently to execute the same, he shall, on conviction thereof, be fined in the sum of one thousand dollars, to the use of such claimant, on the motion of such claimant, by the Circuit or District Court for the district of such marshal; and after arrest of such fugitive, by such marshal or his deputy, or whilst at any time in his Custody under the provisions of this act, should such fugitive escape, whether with or without the assent of such marshal or his deputy, such marshal shall be liable, on his official bond, to be prosecuted for the benefit of such claimant, for the full value of the service or labor of said fugitive in the State, Territory or District whence he escaped: and the better to enable the said commissioners, when thus appointed, to execute their duties faithfully and efficiently, in conformity with the requirements of the Constitution of the United States and of this act, they are hereby authorized and empowered, within their counties respectively, to appoint, in writing under their hands, any one or more suitable persons, from time to time, to execute all such warrants and other process as may be issued by them in the lawful performance of their respective duties; with authority to such commissioners, or the persons to be appointed by them, to execute process as aforesaid, to summon and call to their aid the bystanders, or posse comitatus1 of the proper county, when necessary to ensure a faithful observance of the clause of the Constitution referred to, in conformity with the provisions of this act; and all good citizens are hereby commanded to aid and assist in the prompt and efficient execution of this law, whenever their services may be required, as aforesaid, for that purpose; and said warrants shall run, and be executed by said officers, any where in the State within which they are issued.
 
 Sec. 6. And be it further enacted, That when a person held to service or labor in any State or Territory of the United States, has heretofore or shall hereafter escape into another State or Territory of the United States, the person or persons to whom such service or labor may be due, or his, her, or their agent or attorney, duly authorized, by power of attorney, in writing, acknowledged and certified under the seal of some legal officer or court of the State or Territory in which the same may be executed, may pursue and reclaim such fugitive person, either by procuring a warrant from some one of the courts, judges, or commissioners aforesaid, of the proper circuit, district, or county, for the apprehension of such fugi-
 
-<sup>1</sup> Latin, meaning "power of the county," the common law power to compel people to assist law enforcement in unusual circumstances.
+1 Latin, meaning "power of the county," the common law power to compel people to assist law enforcement in unusual circumstances.
 
 tive from service or labor, or by seizing and arresting such fugitive, where the same can be done without process, and by taking, or causing such person to be taken, forthwith before such court, judge, or commissioner, whose duty it shall be to hear and determine the case of such claimant in a summary manner; and upon satisfactory proof being made, by deposition or affidavit, in writing, to be taken and certified by such court, judge, or commissioner, or by other satisfactory testimony, duly taken and certified by some court, magistrate, justice of the peace, or other legal officer authorized to administer an oath and take depositions under the laws of the State or Territory from which such person owing service or labor may have escaped, with a certificate of such magistracy or other authority, as aforesaid, with the seal of the proper court or officer thereto attached, which seal shall be sufficient to establish the competency of the proof, and with proof, also by affidavit, of the identity of the person whose service or labor is claimed to be due as aforesaid, that the person so arrested does in fact owe service or labor to the person or persons claiming him or her, in the State or Territory from which such fugitive may have escaped as aforesaid, and that said person escaped, to make out and deliver to such claimant, his or her agent or attorney, a certificate setting forth the substantial facts as to the service or labor due from such fugitive to the claimant, and of his or her escape from the State or Territory in which such service or labor was due to the State or Territory in which he or she was arrested, with authority to such claimant, or his or her agent or attorney, to use such reasonable force and restraint as may be necessary, under the circumstances of the case, to take and remove such fugitive person back to the State or Territory whence he or she may have escaped as aforesaid. In no trial or hearing under this act shall the testimony of such alleged fugitive be admitted in evidence; and the certificates in the first [fourth] section mentioned, shall be conclusive of the right of the person or persons in whose favor granted, to remove such fugitive to the State or Territory from which he escaped, and shall prevent all molestation of said person or persons by any process issued by any court, judge, magistrate, or other person whomsoever.
 
@@ -10759,7 +10764,7 @@ Sec. 10. And be it further enacted,That when any person held to service or labor
 
 Objections.—It violates the spirit and letter of the Constitution, in the form and manner of seizures or arrests; in its requirements upon good citizens, in imposing excessive fines, in crushing the Habeas Corpus, and in depriving the person arrested of a trial by a jury of his peers. 2. It contravenes the Law of Nature,
 
-<sup>1</sup> Latin for "you [should] have the body," the name of a legal action in which detainees can seek relief from unlawful imprisonment.
+1 Latin for "you [should] have the body," the name of a legal action in which detainees can seek relief from unlawful imprisonment.
 
 which is the foundation of all human laws, and which, being dictated by the Almighty himself, is of course superior in obligation to any other. Therefore this enactment of Congress is both unjust and unreasonable, consequently becomes of no binding force—is null and void.
 
@@ -10807,7 +10812,7 @@ If this be right, then any law which means no more than this is right also. If t
 
 This at once raised a question of natural right. Has a man, made in God's image, a right to himself greater than another man has to him? Has a man in the interior of Africa a right to himself greater than the right of the slave-trader? Has the slave-trader any right to him after he has bought him? Our Government, by
 
-<sup>1</sup> Sir William Blackstone (1723-80) was a famous English jurist and professor who wrote an influential account of common law, Commentaries on the Laws of England (1765-69).
+1 Sir William Blackstone (1723-80) was a famous English jurist and professor who wrote an influential account of common law, Commentaries on the Laws of England (1765-69).
 
 making the slave-trade piracy, say No. But if the slave-trader has no right, how can he sell his right? How can he transfer a claim when he [has] no claim to transfer? But if so, has the Southern purchaser any right to the man? Can any number of fraudulent sales make a good title? And if the man had a right to run away from the slaver, has he not a right to run away from the slaver's customer? But if the man has this right to himself, and to exercise that right, can a law of Georgia make that right wrong? And still more if he flies to a free State, can a law to deliver him up make it right? Why, then, could not a law make it right to catch him in Africa in the first instance? If it is right by law to recapture him in a free State, and reconsign him to slavery, it would be right by law to capture him [in] Africa in the first place.
 
@@ -10819,9 +10824,9 @@ The deep instinct of every heart pronounces sentence here, as it will in the jud
 
 In conclusion, therefore, my application of the subject is— DISOBEY THIS LAW. If you have ever dreamed of obeying it, repent before God, and ask his forgiveness. I counsel no violence. I suggest no warlike measures of resistance. I incite no man to deeds of blood. I speak as the minister of the Prince of Peace. As much as lieth in you, live peaceably with all men. To the fugitive, touching the question of self-defense is unquestionable here, if ever. Of the expediency of its exercise, every man must judge for himself. I leave the question of self-defense undiscussed, to the settlement of every man's own judgment, according to circumstances.
 
-But if a fugitive claim your help on this journey, break the law and give it him. The law is broken as thoroughly by INDI-RECTLY aiding his escape as DIRECTLY, for both are penal. Therefore, break the law, and help him on his way, directly if you can, indirectly if you must. Feed him, clothe him, harbor him, by day and by night, and conceal him from his pursuers and from the officers of the law. If you are summoned to aid in his capture, refuse to obey. If you are commanded by the officer to lay hands on the fugitive, decline to comply; rather, if possible, detain the officer, if you conveniently can, without injury to his person, until the victim is clean gone. If for these things you are accused and brought to trial, appear and defend yourself. If asked how you dared disobey the laws of this realm, answer with Bunyan's Pilgrim in Vanity Fair:<sup>1</sup> tell the court that you obey Christ, not Belial. If they fine you, and imprison you, take joyfully the spoiling of your goods, wear gladly your chain, and in the last day you shall be rewarded for your fidelity to God. Do not think any true disgrace can attach such penalties. It is the devil, and the devil's people only, who enact, enforce, or respect such penalties. If you are disgraced, it is the disgrace that Washington bore when he was called a rebel, and it is inflicted on [you] for the support of a cause and of principles as holy as his.
+But if a fugitive claim your help on this journey, break the law and give it him. The law is broken as thoroughly by INDI-RECTLY aiding his escape as DIRECTLY, for both are penal. Therefore, break the law, and help him on his way, directly if you can, indirectly if you must. Feed him, clothe him, harbor him, by day and by night, and conceal him from his pursuers and from the officers of the law. If you are summoned to aid in his capture, refuse to obey. If you are commanded by the officer to lay hands on the fugitive, decline to comply; rather, if possible, detain the officer, if you conveniently can, without injury to his person, until the victim is clean gone. If for these things you are accused and brought to trial, appear and defend yourself. If asked how you dared disobey the laws of this realm, answer with Bunyan's Pilgrim in Vanity Fair:1 tell the court that you obey Christ, not Belial. If they fine you, and imprison you, take joyfully the spoiling of your goods, wear gladly your chain, and in the last day you shall be rewarded for your fidelity to God. Do not think any true disgrace can attach such penalties. It is the devil, and the devil's people only, who enact, enforce, or respect such penalties. If you are disgraced, it is the disgrace that Washington bore when he was called a rebel, and it is inflicted on [you] for the support of a cause and of principles as holy as his.
 
-You will suffer with Wickliffe and Huss, with the Albigenses and Huguenots,<sup>2</sup> with the early Christian martyrs, with the Apostles, and Jesus their head; and with that mighty army of still more ancient worthies, who were stoned, sawn asunder, and of whom the world was not worthy. With them to suffer is honor; with them to be defamed, reviled, and spit upon, is glory. With them to rise and reign eternally, will be ample reward.
+You will suffer with Wickliffe and Huss, with the Albigenses and Huguenots,2 with the early Christian martyrs, with the Apostles, and Jesus their head; and with that mighty army of still more ancient worthies, who were stoned, sawn asunder, and of whom the world was not worthy. With them to suffer is honor; with them to be defamed, reviled, and spit upon, is glory. With them to rise and reign eternally, will be ample reward.
 
 3. John C. Lord, "'The Higher Law' in its Application to the Fugitive Slave Bill. A Sermon on the Duties Men Owe to God and to Governments." Delivered at the Central Presbyterian Church, Buffalo, on Thanksgivingday, New York: Published by the order of the "Union Safety Committee," 1851
 
@@ -10834,23 +10839,23 @@ Buffalo, New York. According to Appleton's Cyclopedia of American Biography (188
 
 [N]ot alone for private and personal mercies should we render thanks today. As citizens of this State, and of the great Republic of which it is the chief member, we are called to consider the preservation of public tranquility, the adjustment of sectional difficulties, and the continuance of the bends of our union, amid excitements which threatened its integrity; amid a storm, the original violence of which is manifest in the clouds which yet obscure our political horizon; in the deep-toned thunders that are yet muttering in the distance. It is not necessary to adopt the opinions of the extreme alarmists in either section of the country, to conclude that great dangers have threatened, if they do not still threaten, the union of these States. It does not require very great discernment to see that the continued agitation of the vexed question of Slavery, producing alienation and distrust between the North and the South, must, in the end, either sever the bonds between the free and the slave States, or render them not worth preserving. A unity maintained by force, if this were possible, would not pay the cost of its keeping. If, in the heat of the existing controversies, these two great sections of the Union come at last to forget their common ancestry, and the mutual perils shared by them in the revolutionary struggle; if South Carolina and Massachusetts, who stood shoulder to shoulder in the doubtful contest for American freedom, come to disregard the voices of their illustrious dead, who lie side by side in every battle-field of the Revolution; if Virginia and New-York refuse, in the heats engendered by this unhappy strife, to listen longer to the voice of Washington, warning them in his farewell address of this very rock of sectional jealousy and alienation; if the words of the Father of his country are no longer regarded with reverence in the ancient commonwealth of his birth, or in the great State whose deliverance from a foreign enemy was the crowning achievement of his military career; and if the compromises upon which the Union was consummated, continue to be denied or disregarded; there is an end of the confederacy. If the stronger should crush the weaker, and hold on to an apparent union with the grasp of military power, it would no longer be a confederacy, but a conquest. When there is no longer mutual respect; no more fraternal forbearance; no more regard for each other's local interests; no more obedience in one section to the laws which protect the guaranteed rights of the other; the basis of union is wanting, and nothing but a military despotism, with a grasp of iron, and a wall of fire, can hold the discordant elements together.
 
-In the discussions which the recent agitations of the country have originated, grave questions have arisen in regard to the obligation of the citizen to obey laws which he may disapprove; appeals have been made to a HIGHER LAW, as a justification, not merely of a neglect to aid in enforcing a particular statute, but of an open and forcible resistance by arms. Those subject to the operations of the recent enactment of Congress in regard to fugitive slaves have been counselled from the pulpit, and by men who profess a higher Christianity than others, to carry deadly weapons and shoot down any who should attempt to execute its provisions. The whole community at the North have been excited by passionate appeals to a violent and revolutionary resistance to laws, passed by their own representatives to sustain an express provision of the Constitution of the United States, which, if defective in their details, are yet clearly within the delegated powers and jurisdiction of our national Legislature. The acknowledged principle that the law of God is supreme, and when in direct conflict with any mere human enactment renders it nugatory,<sup>1</sup> has been used to justify an abandonment of the compromises of the Constitution; an armed resistance to the civil authorities, and a dissolution of that Union with which are inseparably connected our national peace and prosperity. The consideration of the duties which men owe to God, as subjects of his moral gov-
+In the discussions which the recent agitations of the country have originated, grave questions have arisen in regard to the obligation of the citizen to obey laws which he may disapprove; appeals have been made to a HIGHER LAW, as a justification, not merely of a neglect to aid in enforcing a particular statute, but of an open and forcible resistance by arms. Those subject to the operations of the recent enactment of Congress in regard to fugitive slaves have been counselled from the pulpit, and by men who profess a higher Christianity than others, to carry deadly weapons and shoot down any who should attempt to execute its provisions. The whole community at the North have been excited by passionate appeals to a violent and revolutionary resistance to laws, passed by their own representatives to sustain an express provision of the Constitution of the United States, which, if defective in their details, are yet clearly within the delegated powers and jurisdiction of our national Legislature. The acknowledged principle that the law of God is supreme, and when in direct conflict with any mere human enactment renders it nugatory,1 has been used to justify an abandonment of the compromises of the Constitution; an armed resistance to the civil authorities, and a dissolution of that Union with which are inseparably connected our national peace and prosperity. The consideration of the duties which men owe to God, as subjects of his moral gov-
 
-<sup>1</sup> Of no force or effect; futile.
+1 Of no force or effect; futile.
 
-ernment, and which, as citizens, they owe the commonwealth, is at all times of importance, but now of especial interest in view of the agitations of the day. It is high time to determine whether one of the highest duties enforced by the Gospel, obedience to the law of God as supreme, can be made to justify a violent resistance to the late enactment of Congress; whether our Christianity enjoins the dissolution of our Union; whether the advocates of a higher law stand really upon this lofty vantage ground of conscience, or are scattering "firebrands, arrows, and death,"<sup>1</sup> either under a mistaken view of duty, or the impulses of passion and fanaticism, or inflamed by that demagogueism, which, if it cannot rule, would ruin; which, like Milton's fallen angel,<sup>2</sup> would rather "reign in Hell than serve in Heaven."
+ernment, and which, as citizens, they owe the commonwealth, is at all times of importance, but now of especial interest in view of the agitations of the day. It is high time to determine whether one of the highest duties enforced by the Gospel, obedience to the law of God as supreme, can be made to justify a violent resistance to the late enactment of Congress; whether our Christianity enjoins the dissolution of our Union; whether the advocates of a higher law stand really upon this lofty vantage ground of conscience, or are scattering "firebrands, arrows, and death,"1 either under a mistaken view of duty, or the impulses of passion and fanaticism, or inflamed by that demagogueism, which, if it cannot rule, would ruin; which, like Milton's fallen angel,2 would rather "reign in Hell than serve in Heaven."
 
 ## [...]
 
-We take the ground, that the action of civil governments within their appropriate jurisdiction is final and conclusive upon the citizen; and that, to plead a higher law to justify disobedience to a human law, the subject matter of which is within the [cognizance] of the State, is to reject the authority of God himself; who has committed to governments the power and authority which they exercise in civil affairs. This is expressly declared by the Apostle in the Epistle to the Romans: "Let every soul be subject to the higher powers, for there is no power but of God; the powers that be are ordained of God; whosoever, therefore, resisteth the power, resisteth the ordinance of God. For he (that is, the civil magistrate) beareth not the sword in vain, for he is the minister of God, a revenger to execute wrath upon him that doeth evil. Wherefore ye must needs be subject, not only for wrath, but also for conscience' sake; reader therefore to all their dues, tribute to whom tribute is due, custom to whom custom, fear to whom fear, honor to whom honor."<sup>3</sup>
+We take the ground, that the action of civil governments within their appropriate jurisdiction is final and conclusive upon the citizen; and that, to plead a higher law to justify disobedience to a human law, the subject matter of which is within the [cognizance] of the State, is to reject the authority of God himself; who has committed to governments the power and authority which they exercise in civil affairs. This is expressly declared by the Apostle in the Epistle to the Romans: "Let every soul be subject to the higher powers, for there is no power but of God; the powers that be are ordained of God; whosoever, therefore, resisteth the power, resisteth the ordinance of God. For he (that is, the civil magistrate) beareth not the sword in vain, for he is the minister of God, a revenger to execute wrath upon him that doeth evil. Wherefore ye must needs be subject, not only for wrath, but also for conscience' sake; reader therefore to all their dues, tribute to whom tribute is due, custom to whom custom, fear to whom fear, honor to whom honor."3
 
 The language here cannot be misunderstood. Obedience to governments, in the exercise of their legitimate powers, is a religious duty, positively enjoined by God himself. The same authority which commands us to render to God the things which are God's, enjoins us, by the same high sanctions, to render to Cæsar the things which are Cæsar's.
 
-<sup>1</sup> See Proverbs 26.18: "Like a madman who throws Firebrands, arrows and death, So is the man who deceives his neighbor, And says, 'Was I not joking?'"
+1 See Proverbs 26.18: "Like a madman who throws Firebrands, arrows and death, So is the man who deceives his neighbor, And says, 'Was I not joking?'"
 
-<sup>2</sup> An allusion to Satan in John Milton's Paradise Lost.
+2 An allusion to Satan in John Milton's Paradise Lost.
 
-<sup>3</sup> Romans 13.1-7.
+3 Romans 13.1-7.
 
 SERVANT WOMAN FOR SALE .- We have for private sale a very valuable servant woman, a good cook, washer, &c. Apply to R. W. DYER & Co.
 
@@ -10908,23 +10913,23 @@ The Alexandria Gazette, as quoted above, adds:--" Here you may behold fathers an
 
 In the execution of her very familiar task, Mrs. Stowe has displayed rare descriptive powers, a familiar acquaintance with slavery under its best and its worst phases, uncommon moral and philosophical acumen, great facility of thought and expression, feelings and emotions of the strongest character. Intimate as we have been, for a score of years, with the features and operations of the slave system, and often as we have listened to the recitals of its horrors from the lips of the poor hunted fugitives, we confess to the frequent moistening of our eyes, and the making of our heart grow liquid as water, and the trembling of every nerve within us, in the perusal of the incidents and scenes so vividly depicted in her pages. The effect of such a work upon all intelligent and humane minds coming in contact with it, and especially upon the rising generation in its plastic condition, to awaken the strongest compassion for the oppressed and the utmost abhorrence of the system which grinds them to the dust, cannot be estimated: it must be prodigious, and therefore eminently serviceable in the tremendous conflict now waged for the immediate and entire suppression of slavery on the American soil.
 
-The appalling liabilities which constantly impend over such slaves as have "kind and indulgent masters," are thrillingly illustrated in various personal narratives; especially in that of "Uncle Tom," over whose fate every reader will drop the scalding tear, and for whose character the highest reverence will be felt. No insult, no outrage, no suffering, could ruffle the Christlike meekness of his spirit, or shake the steadfastness of his faith. Towards his merciless oppressors he cherished no animosity, and breathed nothing of retaliation. Like his Lord and Master, he was willing to be "led as a lamb to slaughter,"<sup>1</sup> returning blessing for cursing, and anxious only for the salvation of his enemies. His character is sketched with great power and rare religious perception. It triumphantly exemplifies the nature, tendency, and results of CHRISTIAN NON-RESISTANCE.
+The appalling liabilities which constantly impend over such slaves as have "kind and indulgent masters," are thrillingly illustrated in various personal narratives; especially in that of "Uncle Tom," over whose fate every reader will drop the scalding tear, and for whose character the highest reverence will be felt. No insult, no outrage, no suffering, could ruffle the Christlike meekness of his spirit, or shake the steadfastness of his faith. Towards his merciless oppressors he cherished no animosity, and breathed nothing of retaliation. Like his Lord and Master, he was willing to be "led as a lamb to slaughter,"1 returning blessing for cursing, and anxious only for the salvation of his enemies. His character is sketched with great power and rare religious perception. It triumphantly exemplifies the nature, tendency, and results of CHRISTIAN NON-RESISTANCE.
 
 WE are curious to know whether Mrs. Stowe is a believer in the duty of non-resistance for the white man, under all possible outrage and peril, as well as for the black man; whether she is for self-defense on her own part, or that of her husband or friends or country, in case of malignant assault, or whether she impartially disarms all mankind in the name of Christ, be the danger or the suffering what it may. We are curious to know this, because our opinion of her, as a religious teacher, would be greatly strengthened or lessened as the inquiry might terminate. That all the slaves of the South ought, "if smitten on one cheek, to turn the other also,"2—to repu-
 
-<sup>1</sup> See Isaiah 53.7 and Acts 8.32.
+1 See Isaiah 53.7 and Acts 8.32.
 
-<sup>2</sup> See Matthew 5.39: "But I say to you, do not resist an evil person; but whoever slaps you on your right cheek, turn the other to him also."
+2 See Matthew 5.39: "But I say to you, do not resist an evil person; but whoever slaps you on your right cheek, turn the other to him also."
 
 diate all carnal weapons, shed no blood, "be obedient to their masters,"1 wait for a peaceful deliverance, and abstain from any insurrectionary movements—is everywhere taken for granted, because the VICTIMS ARE BLACK. They cannot be animated by a Christian spirit and yet return blow for blow, or conspire for the destruction of their oppressors. They are required by the Bible to put away all wrath, to submit to every conceivable outrage without resistance, to suffer with Christ if they would reign with him. None of their advocates may seek to inspire them to imitate the example of the Greeks, the Poles, the Hungarians,2 our Revolutionary sires; for such teaching would evince a most unchristian and bloodthirsty disposition. For them there is no hope of heaven unless they give the most literal interpretations to the non-resisting injunctions contained in the Sermon on the Mount, touching the treatment of enemies. It is for them, though despoiled of all their rights and deprived of all protection, to "threaten not, but to commit the keeping of their souls to God in well-doing, as unto a faithful Creator."3
 
 Nothing can be plainer that that such conduct is obligatory upon them; and when, through the operations of divine grace, they are enabled to manifest a spirit like this, it is acknowledged to be worthy of great commendation, as in the case of "Uncle Tom." But, for those whose skin is of a different complexion, the case is materially altered. When they are spit upon and buffeted, outraged and oppressed, talk not then of a non-resisting Saviour—it is fanaticism! Talk not of overcoming evil with good it is madness! Talk not of peacefully submitting to chains and stripes—it is base servility! Talk not of servants being obedient to their masters—let the blood of the tyrants flow! How can this be explained or reconciled? Is there one law of submission and non-
 
-<sup>1</sup> See Ephesians 6.5: "Slaves, be obedient to those who are your masters according to the flesh, with fear and trembling, in the sincerity of your heart, as to Christ not by way of eye-service, as men-pleasers, but as slaves of Christ, doing the will of God from the heart."
+1 See Ephesians 6.5: "Slaves, be obedient to those who are your masters according to the flesh, with fear and trembling, in the sincerity of your heart, as to Christ not by way of eye-service, as men-pleasers, but as slaves of Christ, doing the will of God from the heart."
 
-<sup>2</sup> Greece fought a ten-year war to obtain its independence from the Ottoman Empire, which it finally achieved in 1832; between 1795 and 1918, Poland was partitioned and administered by a series of foreign powers, despite a strong independence movement; Lajos Kossuth led Hungary's failed bid for independence from the Austrian Empire in 1848.
+2 Greece fought a ten-year war to obtain its independence from the Ottoman Empire, which it finally achieved in 1832; between 1795 and 1918, Poland was partitioned and administered by a series of foreign powers, despite a strong independence movement; Lajos Kossuth led Hungary's failed bid for independence from the Austrian Empire in 1848.
 
-<sup>3</sup> See 1 Peter 4.19: "Wherefore let them that suffer according to the will of God commit the keeping of their souls to him in well doing, as unto a faithful Creator."
+3 See 1 Peter 4.19: "Wherefore let them that suffer according to the will of God commit the keeping of their souls to him in well doing, as unto a faithful Creator."
 
 resistance for the black man, and another law of rebellion and conflict for the white man? When it is the whites who are trodden in the dust, does Christ justify them in taking up arms to vindicate their rights? And when it is the blacks who are thus treated, does Christ require them to be patient, harmless, long-suffering, and forgiving? And are there two Christs?
 
@@ -10938,7 +10943,7 @@ The work, towards its conclusion, contains some objectionable sentiments respect
 
 Uncle Tom was a good soul, thoroughly and perfectly pious.
 
-Indeed, if any man had too much piety, Uncle Tom was that man. I confess to more of "total depravity." More shame to me, possibly, but nevertheless, such is the fact. My non-resistance is that of the Douglass, Parker, and Phillips<sup>1</sup> school. I believe, as you do, that it is not light the slaveholder wants, but fire, and he ought to have it. I do not advocate revenge, but simply, resistance to tyrants, if need be, to the death.
+Indeed, if any man had too much piety, Uncle Tom was that man. I confess to more of "total depravity." More shame to me, possibly, but nevertheless, such is the fact. My non-resistance is that of the Douglass, Parker, and Phillips1 school. I believe, as you do, that it is not light the slaveholder wants, but fire, and he ought to have it. I do not advocate revenge, but simply, resistance to tyrants, if need be, to the death.
 
 The religious conversation between the slave-traders, on the 102nd and 3rd pages, is a capital thing. Why do you not copy it?— How it tells upon the miserable spittle-licking religionists of the present day; who, as Tom Loker has it, are running up a bill all their lives with the devil, calculating to sneak out when pay time comes. Such religion is "p'ison mean,"—it is "dog meanness."
 
@@ -10950,29 +10955,29 @@ I have no objection to the Christianization of Africa. God speed the missionarie
 
 As to the talk about African nationality, this is sheer nonsense if by African nationality is meant a nation composed entirely of pure
 
-<sup>1</sup> A reference to Frederick Douglass,Theodore Parker (1810-60), and Wendell Phillips (1811-84), all well-known radical abolitionists of the day.
+1 A reference to Frederick Douglass,Theodore Parker (1810-60), and Wendell Phillips (1811-84), all well-known radical abolitionists of the day.
 
 Africans. Nations worthy of the name, are only produced by a fusion of races. If Americans had less prejudice, they could read history more clearly. Whence the Romans! The Magyars!1The English! The Americans! The latter, at least, notwithstanding they roll up their eyes, and go into pretended fits, at the mere mention of amalgamation, are, of all the races, the most amalgamated under the sun; and, as a matter of course—the most energetic and powerful. Indeed, fusion of races seems to be a trait, distinctive of Americans. The shades of night scarce gather round them, ere they (the Americans) seek amalgamation with even the very race which they affect most to despise. Talk of the "instincts of nature"—the hypocrites!
 
 That the bona fide2 African race has peculiarities, I admit; and I admit, farther, that if these peculiarities are drawn out without intermixture, they will develop a civilization very good indeed; indeed, so good as to be almost good for nothing. The Saxons unmixed with the Romans, the Normans and the Danes were a clever people—no more—The feeble Asiatics unmixed with the Persians and the Hunns,3 are not Magyars. And the Jews, who are Jews still, excite next to no interest in the great world of science, literature and art. The plain truth is, God has made us of one blood, and thereby, to intermingle. We progress by adhering to this rule, we go backwards by its violation. Nations, there must be, but merely as conveniences, not to abrogate the great law of equal brotherhood.
 
-One word more, with regard to the book. It contains some happy hits at prejudice against color. These are timely. Abolitionists, by the hundreds, are not yet rid of this soul-harrowing and heart-belittling feeling, this "blasphemy against God," and "quarrel with Jehovah." It is so easy to talk, and so comparitively [sic] easy to practice within circles not exceedingly obnoxious to the community, that many delude themselves with the belief that they are at one with the doctrine of equal brotherhood, and are even christian, when their hearts are polluted, with a prejudice which is, beyond all question, a sin meaner than which none ever rankled in the freeman's heart. Oh, for more good, great men, and more great good men. A friend wrote me, not long since, and in his letter, wished that the Lord would let Gerrit Smith<sup>4</sup> live to be as old as Methuselah. Did I believe that slavery and prejudice
+One word more, with regard to the book. It contains some happy hits at prejudice against color. These are timely. Abolitionists, by the hundreds, are not yet rid of this soul-harrowing and heart-belittling feeling, this "blasphemy against God," and "quarrel with Jehovah." It is so easy to talk, and so comparitively [sic] easy to practice within circles not exceedingly obnoxious to the community, that many delude themselves with the belief that they are at one with the doctrine of equal brotherhood, and are even christian, when their hearts are polluted, with a prejudice which is, beyond all question, a sin meaner than which none ever rankled in the freeman's heart. Oh, for more good, great men, and more great good men. A friend wrote me, not long since, and in his letter, wished that the Lord would let Gerrit Smith4 live to be as old as Methuselah. Did I believe that slavery and prejudice
 
-<sup>1</sup> I.e., Hungarians.
+1 I.e., Hungarians.
 
-<sup>2</sup> I.e., genuine; literally, in good faith (Latin).
+2 I.e., genuine; literally, in good faith (Latin).
 
-<sup>3</sup> A nomadic people of central Asia, their most famous leader was Attila (406-53).
+3 A nomadic people of central Asia, their most famous leader was Attila (406-53).
 
-<sup>4</sup> Gerrit Smith (1797-1874) was a leading social reformer, abolitionist, politician, and, repeatedly, an unsuccessful candidate for the US presidency.
+4 Gerrit Smith (1797-1874) was a leading social reformer, abolitionist, politician, and, repeatedly, an unsuccessful candidate for the US presidency.
 
-could exist in this land nine hundred years longer, I would second the wish, and not only that Gerrit Smith should live thus long, but Lyndon King, Beriah Green,<sup>1</sup> Garrison, and such as these, who have bedwarfed themselves in their age, as Milton did in his, by keeping ahead so far. These are earth's noble spirits. Thank God, the time will come if not speedily, still surely, when men shall acknowledge, by word as in their inmost soul, that righteousness is true greatness, and that there is no glory but in living in accordance with principles which are just and holy, and true.
+could exist in this land nine hundred years longer, I would second the wish, and not only that Gerrit Smith should live thus long, but Lyndon King, Beriah Green,1 Garrison, and such as these, who have bedwarfed themselves in their age, as Milton did in his, by keeping ahead so far. These are earth's noble spirits. Thank God, the time will come if not speedily, still surely, when men shall acknowledge, by word as in their inmost soul, that righteousness is true greatness, and that there is no glory but in living in accordance with principles which are just and holy, and true.
 
 I do not despair.
 
 "Still achieving, still pursuing,
 
-## Learn to labor and to wait."<sup>2</sup>
+## Learn to labor and to wait."2
 
 Let us take this to our hearts, at least, that slavery is a national sin, and nations are not fixed facts, but are continually, though may be slowly, passing away.
 
@@ -10982,9 +10987,9 @@ Faithfully yours, WILLIAM G. ALLEN MCGRAWVILLE, N. Y., May 6, 1852.
 
 [Martin Delany (1812-85) was an outspoken critic of white racism and perhaps the nation's first black nationalist who, in The Condition, Elevation, Emigration, and Destiny of the Colored People of the United States, Politically Considered (1852) and his novel Blake: or, the Huts of America (1859), advocated black separatism. For a time, Delany was the co-editor with Frederick Douglass of the abolitionist paper The North Star, but the two men were increasingly rivals during the 1850s: whereas Douglass generally believed that white Americans like Garrison and Stowe were sincere in their motives and instrumental in their antislavery efforts, Delany argued that "Our elevation must be the result of self-efforts, and the work of our own hands." In the following letter
 
-<sup>1</sup> Lyndon King (1796-1854) was an itinerant Methodist minister in upstate New York; Beriah Green (1794-1874) was a noted social reformer and abolitionist.
+1 Lyndon King (1796-1854) was an itinerant Methodist minister in upstate New York; Beriah Green (1794-1874) was a noted social reformer and abolitionist.
 
-<sup>2</sup> These lines are taken from the last stanza of Henry Wadsworth Longfellow's (1807-82) poem "A Psalm for Today" (1838). The full stanza reads: "Let us, then, be up and doing,/With a heart for any fate;/Still achieving, still pursuing,/Learn to labor and to wait."
+2 These lines are taken from the last stanza of Henry Wadsworth Longfellow's (1807-82) poem "A Psalm for Today" (1838). The full stanza reads: "Let us, then, be up and doing,/With a heart for any fate;/Still achieving, still pursuing,/Learn to labor and to wait."
 
 and response, Delany and Douglass square off over these issues, the direction of the black convention movement (begun in 1830), and the prospects for future political alliances, in light of the enormous success of Stowe's novel.]
 
@@ -10994,11 +10999,11 @@ FREDERICK DOUGLASS, ESQ.: DEAR SIR:—I notice in your paper of March 4 an artic
 
 Now, I simply wish to say, that we have always fallen into great errors in efforts of this kind, going to others than the intelligent and experienced among ourselves; and in all due respect and deference to Mrs. Stowe, I beg leave to say, that she knows nothing about us, "the Free Colored people of the United States," neither does any other white person—and, consequently, can contrive no successful scheme for our elevation; it must be done by ourselves. I am aware, that I differ with many in thus expressing myself, but I cannot help it; though I stand alone, and offend my best friends, so help me God! in a matter of such moment and importance, I will express my opinion. Why, in God's name, don't the leaders among our people make suggestions, and consult the most competent among their own brethren concerning our elevation? This they do not do; and I have not known one, whose province it was to do so, to go ten miles for such a purpose. We shall never effect anything until this is done.
 
-I accord with the suggestions of H. O. Wagoner1 for a National Council or Consultation of our people, provided intelligence, maturity and experience in matters among them, could be so gathered together; other than this, would be a mere mockery—like the Convention of 1848,<sup>2</sup> a coming together of rivals, to test their success for the "biggest offices." As God lives, I will never, knowingly, lend my aid to any such work, while our brethren groan in
+I accord with the suggestions of H. O. Wagoner1 for a National Council or Consultation of our people, provided intelligence, maturity and experience in matters among them, could be so gathered together; other than this, would be a mere mockery—like the Convention of 1848,2 a coming together of rivals, to test their success for the "biggest offices." As God lives, I will never, knowingly, lend my aid to any such work, while our brethren groan in
 
-<sup>1</sup> Henry O. Wagoner (1816-1901) was an African American pioneer (he lived in Illinois and Colorado) and Frederick Douglass's Chicago correspondent in the early 1850s.
+1 Henry O. Wagoner (1816-1901) was an African American pioneer (he lived in Illinois and Colorado) and Frederick Douglass's Chicago correspondent in the early 1850s.
 
-<sup>2</sup> This national meeting of the Black Convention movement had been held in Cleveland, Ohio.
+2 This national meeting of the Black Convention movement had been held in Cleveland, Ohio.
 
 vassalage and bondage, and I and mine under oppression and degradation, such as we now suffer.
 
@@ -11010,9 +11015,9 @@ Yours for God and Humanity,
 
 M. R. DELANY.
 
-REMARKS—That colored men would agree among themselves to do something for the efficient and permanent aid of themselves and their race, "is a consummation devoutly to be wished;"<sup>1</sup> but until they do, it is neither wise nor graceful for them, or for any one of them to throw cold water upon plans and efforts made for that purpose by others. To scornfully reject all aid from our white friends, and to denounce them as unworthy of our confidence, looks high and mighty enough on paper; but unless the back ground is filled up with facts demonstrating our independence and self-sustaining power, of what use is such display of self-consequence? Brother DELANY has worked long and hard, he has written vigorously, and spoken eloquently to colored people—beseeching them, in the name of liberty, and all the dearest interests of humanity, to unite their energies, and to increase their activities in the work of their own elevation; yet where has his voice been heeded? and where is the practical result? Echo answers, where? Is not the field open? Why, then, should any man object to the efforts of Mrs. Stowe, or any one else, who is moved to do anything on our behalf? The assertion that Mrs. Stowe "knows nothing about us," shows that bro. DELANY knows nothing about Mrs. Stowe; for he certainly would not so violate his moral, or common sense if he did. When
+REMARKS—That colored men would agree among themselves to do something for the efficient and permanent aid of themselves and their race, "is a consummation devoutly to be wished;"1 but until they do, it is neither wise nor graceful for them, or for any one of them to throw cold water upon plans and efforts made for that purpose by others. To scornfully reject all aid from our white friends, and to denounce them as unworthy of our confidence, looks high and mighty enough on paper; but unless the back ground is filled up with facts demonstrating our independence and self-sustaining power, of what use is such display of self-consequence? Brother DELANY has worked long and hard, he has written vigorously, and spoken eloquently to colored people—beseeching them, in the name of liberty, and all the dearest interests of humanity, to unite their energies, and to increase their activities in the work of their own elevation; yet where has his voice been heeded? and where is the practical result? Echo answers, where? Is not the field open? Why, then, should any man object to the efforts of Mrs. Stowe, or any one else, who is moved to do anything on our behalf? The assertion that Mrs. Stowe "knows nothing about us," shows that bro. DELANY knows nothing about Mrs. Stowe; for he certainly would not so violate his moral, or common sense if he did. When
 
-<sup>1</sup> From Hamlet's famous "To be, or not to be" soliloquy in Shakespeare's Hamlet, III.1.
+1 From Hamlet's famous "To be, or not to be" soliloquy in Shakespeare's Hamlet, III.1.
 
 Brother DELANY will submit any plan for benefitting the colored people, or will candidly criticize any plan already submitted, he will be heard with pleasure. But we expect no plan from him. He has written a book—and we may say that it is, in many respects, an excellent book—on the condition, character and destiny of the colored people; but it leaves us just where it finds us, without chart or compass, and in more doubt and perplexity than before we read it.
 
@@ -11038,9 +11043,9 @@ Extract from the N. Y. Courier and Enquirer.
 
 In the comments we have given upon the controversy in question, we of course shall not be suspected of sympathy with the authoress of "Uncle Tom's Cabin." She manifestly has borne false witness against her neighbor. Though she did it unwittingly she is none the more excusable. She asserted that to be true which she never knew to be true, and which she is now compelled to admit was untrue. The same carelessness of representation, which was practised towards Dr. Parker, characterises her whole book. "Uncle Tom's Cabin" is a fiction in every sense of the word. It is not only untrue, but it is untruthful. It conveys erroneous impressions, it introduces false conclusions. It is not, as it purports to be, a picture of slavery as it is. All of the two hundred thousand Englishmen, and no small number of the one hundred thousand Americans, who now have it in their hands, are duped men. It is not one individual alone against whom Mrs. Stowe has borne false witness; she has slandered hundreds of thousand of her own countrymen. She has done it by attaching to them as slaveholders, in the eyes of the world, the guilt of the abuses of an institution, of which they are absolutely guiltless. Her story is so devised as to present slavery in three dark aspects—first, the cruel treatment of the slaves, second, the separation of families, and third, their want of religious instruction.
 
-To show the first she causes a reward to be offered for the recovery of a runaway slave "dead or alive," when it has been decided over and over again in Southern courts that "a slave who is merely flying away cannot be killed."<sup>1</sup> She puts such language
+To show the first she causes a reward to be offered for the recovery of a runaway slave "dead or alive," when it has been decided over and over again in Southern courts that "a slave who is merely flying away cannot be killed."1 She puts such language
 
-<sup>1</sup> Drawing from Jacob Wheeler's A Practical Treatise on the Law of Slavery (1837),William Goodell notes the full passage from the following source in his American Slave Code in Theory and Practice (1853): "'Westell vs. Earnest and Parker, Jan. T., 1818. 1 Nott and Mc Cord's S. C. Rep., 182.'This was another suit for damages in killing a runaway slave by shooting him, as he ran towards a swamp. Verdict for the defendants. Motion to set it aside, which motion prevailed. Judge Colcock said: 'If the slave assaults a white person, he may be killed; but a slave merely flying away cannot be'" (184).
+1 Drawing from Jacob Wheeler's A Practical Treatise on the Law of Slavery (1837),William Goodell notes the full passage from the following source in his American Slave Code in Theory and Practice (1853): "'Westell vs. Earnest and Parker, Jan. T., 1818. 1 Nott and Mc Cord's S. C. Rep., 182.'This was another suit for damages in killing a runaway slave by shooting him, as he ran towards a swamp. Verdict for the defendants. Motion to set it aside, which motion prevailed. Judge Colcock said: 'If the slave assaults a white person, he may be killed; but a slave merely flying away cannot be'" (184).
 
 as this into the mouth of one of her speakers: "The master who goes furthest and does the worst only uses within limits the power that the law gives him," when in fact the Civil Code of the very State where it is represented the language was uttered— Louisiana—declares that:—
 
@@ -11070,7 +11075,7 @@ The peculiar falsity of this whole book consists in making exceptional or imposs
 
 Truly it would seem that the labour of Sisyphus1 is laid upon us, the slaveholders of these southern United States. Again and again have we, with all the power and talent of our clearest heads and strongest intellects, forced aside the foul load of slander and villainous aspersion so often hurled against us, and still, again and again, the unsightly mass rolls back, and, heavily as ever, fall the old refuted libels, vamped, remodelled, and lumbering down upon us with all the force, or at least impudent assumption, of new argument. We anticipate here the answer and application of our charitable opponents. We, too, have studied our mythology, and remember well, that the aforesaid Sisyphus was condemned to his torment for the sins of injustice, oppression, and tyranny. Like punishment to like sin, will, no doubt, be their corollary. Boldly, however, before God and man, we dare hold up our hand and plead "not guilty." Clearly enough do we see through the juggle of this game. It is no hand of destiny, no fiat of Jove, which rolls back upon us the labouring bulk. There is an agent behind the curtain, vulnerable at least as our-
 
-<sup>1</sup> In Greek mythology, Sisyphus was a cruel king condemned to repeatedly roll a huge stone up a hill only to have it roll back down.
+1 In Greek mythology, Sisyphus was a cruel king condemned to repeatedly roll a huge stone up a hill only to have it roll back down.
 
 selves; and the day may yet come when, if this unlucky game cease not, the destructive mass shall find another impetus, and crush beneath its unexpected weight, the hand which now directs it, we scarce know whether in idle wantonness or diabolic malice.
 
@@ -11080,13 +11085,13 @@ There is nothing new in these volumes. They are, as we have said, only the old S
 
 As Mrs. Stowe seems to forget, or rather to deny, the possibility of all human feeling in slaveholders, we will not pretend to argue against her grossest imaginations on that ground, but will base what further we have to say, upon the moral impossibility of her facts, and their improbability, as connected with the one question of "dollars and cents," which she represents as the all-absorbing one of the system. This consideration would, certainly, be alone sufficient to prevent a man from whipping to death a property, a chattel, an ox, or an ass, for which he had paid, and for which, he could obtain a large equivalent, by a simple transfer of the property to other hands. By Mrs. Stowe's own argument, the slave, being a chattel and a property, would, in the natural law of things, fall under the same rule. But her ingenious malignity, cleverly as it generally works, sometimes, in the zeal of argument, forgets its logic. While her effort is, constantly, to represent the slave as a mere chattel in the eye of the master, occasionally, in order to exhibit the action of some demoniac cruelty, she suddenly forgets her own reasoning and argues upon the supposition of a rivality1 of feeling; a hatred, not simply as of man to man, even in the indifferent positions of life, but such a hatred, such a rivality, as could only exist among individuals whose clashing ambitions and contending interests should have cast them struggling together in the closest juxtaposition, in one arena, with similar aims, similar hazards, similar hopes and similar jealousies. In the ordinary relations of master and slave, such feelings are not only impossible, but the mere supposition of them becomes ludicrous, to any one who has looked into the institution as it exists in the United States, between the white man and the African. Such human links as exist between the races under this system are, necessarily, all of a softening character. The natural antipathies of race are checked, and almost obliterated, by the peculiar relation which, at once, unites and separates the races, acting in social life like the disjunctive conjunction in grammar, linking, yet severing so distinctly, that there is no possibility of confusion among the objects thus connected. The master gives protection; the slave looks for it. Interest combines with humanity to tighten these bonds, and it would be impossible for the most satanic malignity of disposition to imagine laws which, under this system, could sever these two great incentives to action. Occasional acts of cruelty, of maiming, or of murder, when they do
 
-<sup>1</sup> I.e., rivalry.
+1 I.e., rivalry.
 
 occur, (as undoubtedly, in all relations of life, the nearest, the dearest, they do and must occur,) are always, when exercised from master to slave, the result of violent passion and impulsive anger. A man will, perhaps, in a fit of rage, shoot the horse which has thrown him; but can it be imagined, that he would subject to a long course of torture, with the purpose of disabling or subjecting to a lingering death, in cold-blooded revenge, the animal, which, if he have taken a dislike to it, he can more easily rid himself of, by sale or transfer, with pecuniary profit to himself. Mrs. Stowe forgets that even the vices of men are so arranged by an Omniscient Providence, that they are frequently found to balance one another, and even were the slave-owner the devil she imagines him, his malignity must be checked by his avarice. [...]
 
-We thought we had done; but one point more we must glance upon. Mrs. Stowe, in spite of experience, in spite of science, determines that the negro is intellectually the white man's equal. She "has lived on the frontiers of a slave State," "she has the testimony of missionaries," &c., and "her deductions, with regard to the capabilities of the race, are encouraging in the highest degree." Bravo! Mrs. Stowe! Your deductions are bold things, and override sense and reason with wonderful facility. Perhaps they would become a little more amenable to ordinary reasoning, if, instead of living "on the frontiers of a slave State," you should see fit to carry your experience, not theoretically, but practically, into the heart of one; or still better, perhaps, avoiding the contaminating system, to explore at once the negro nature in its negro home, and behold in native majesty the undegraded negro nature. In native and in naked majesty, the lords of the wild might probably suggest more appreciable arguments, for difference of race, than any to which Mrs. Stowe has chosen to hearken. The negro alone has, of all races of men, remained entirely without all shadow of civilization.<sup>1</sup> It is a mere quibble to talk of his want of opportunities and instruction. Where were the white man's opportunities and instruction, when the power of mind guided him to the destiny for which Heaven created him! when, by the
+We thought we had done; but one point more we must glance upon. Mrs. Stowe, in spite of experience, in spite of science, determines that the negro is intellectually the white man's equal. She "has lived on the frontiers of a slave State," "she has the testimony of missionaries," &c., and "her deductions, with regard to the capabilities of the race, are encouraging in the highest degree." Bravo! Mrs. Stowe! Your deductions are bold things, and override sense and reason with wonderful facility. Perhaps they would become a little more amenable to ordinary reasoning, if, instead of living "on the frontiers of a slave State," you should see fit to carry your experience, not theoretically, but practically, into the heart of one; or still better, perhaps, avoiding the contaminating system, to explore at once the negro nature in its negro home, and behold in native majesty the undegraded negro nature. In native and in naked majesty, the lords of the wild might probably suggest more appreciable arguments, for difference of race, than any to which Mrs. Stowe has chosen to hearken. The negro alone has, of all races of men, remained entirely without all shadow of civilization.1 It is a mere quibble to talk of his want of opportunities and instruction. Where were the white man's opportunities and instruction, when the power of mind guided him to the destiny for which Heaven created him! when, by the
 
-<sup>1</sup> We speak, of course, of the real negro, and not of the African. All Africans are no more negroes, than all fish are flying-fish. The real woolly-headed and thick-lipped negro is as distinct from many African races as he is from the Saxon. And when Mrs. Stowe tells us that "Tom looked respectable enough to be Bishop of Carthage, as men of colour were in other ages," either she chooses to forget that all men of colour are not negroes, or she is lamentably ignorant of the facts to which she refers. [Mc Cord's note]
+1 We speak, of course, of the real negro, and not of the African. All Africans are no more negroes, than all fish are flying-fish. The real woolly-headed and thick-lipped negro is as distinct from many African races as he is from the Saxon. And when Mrs. Stowe tells us that "Tom looked respectable enough to be Bishop of Carthage, as men of colour were in other ages," either she chooses to forget that all men of colour are not negroes, or she is lamentably ignorant of the facts to which she refers. [Mc Cord's note]
 
 sunlight of reason, he burst the bonds of ignorance, and, echoing the Almighty fiat, "let there be light," saw the day beam, which still to the negro was darkness? What guide had he? what opportunities? what instruction? further than the God-given intellect which nature has denied to his lowlier fellow? The white man needed no leading strings. God created him for the leader and the teacher. The mind of the white man sprang by its own power to that eminence which to the negro nature is unattainable.
 
@@ -11102,13 +11107,13 @@ Now, this assemblage of army women or Confederate matrons talked pretty freely t
 
 "You people who have been everywhere, stationed all over the U. S.—states, frontiers—been to Europe and all that, tell us homebuilding ones: are our men worse than the others? Does Mrs. Stowe know? You know?"
 
-"No, Lady Mary Montagu<sup>1</sup> did. After all, only men and women—everywhere. But Mrs. Stowe's exceptional cases may be true. You can pick out horrors from any criminal court record or newspaper in any country."
+"No, Lady Mary Montagu1 did. After all, only men and women—everywhere. But Mrs. Stowe's exceptional cases may be true. You can pick out horrors from any criminal court record or newspaper in any country."
 
 "You see, irresponsible men, county magnates, city millionaires, princes, &c do pretty much as they please. They are above law and morals."
 
 Russell once more, to whom London and Paris and India have been an everyday sight—and every night, too, streets and all—for
 
-<sup>1</sup> Lady Mary (Wortley) Montagu (1689-1762), Letters (1763), volume 1. Lady Montagu, the wife of an adviser to George I, chronicled the scandals of London society.
+1 Lady Mary (Wortley) Montagu (1689-1762), Letters (1763), volume 1. Lady Montagu, the wife of an adviser to George I, chronicled the scandals of London society.
 
 him to go on in indignation because there are women on negro plantations who were not vestal virgins! Negro women are married and after marriage behave as well as other people. Marrying is the amusement of their life. They take life easily. So do their class everywhere. Bad men are hated here as elsewhere.
 
@@ -11116,7 +11121,7 @@ him to go on in indignation because there are women on negro plantations who wer
 
 "Fancy such a man finding his daughter reading Don Juan. 1 'You with that unmoral book!' And he orders her out of his sight.
 
-"You see, Mrs. Stowe did not hit the sorest spot. She makes Legree a bachelor. Remember George II and his like."<sup>2</sup>
+"You see, Mrs. Stowe did not hit the sorest spot. She makes Legree a bachelor. Remember George II and his like."2
 
 "Oh, I knew half a Legree, a man said to be as cruel as Legree—but the other half of him did not correspond. He was a man of polished manners. And the best husband and father and member of the church in the world."
 
@@ -11132,9 +11137,9 @@ him to go on in indignation because there are women on negro plantations who wer
 
 "The one I have in my eye—my half of Legree, the dissolute half—was so furious in his temper and thundered his wrath so at the poor women they were glad to let him do as he pleased in
 
-<sup>1</sup> Lord Byron, Don Juan (1824).
+1 Lord Byron, Don Juan (1824).
 
-<sup>2</sup> The ten-year relationship of George II with Mrs. Henrietta Howard was an open secret, as were several more casual liaisons.
+2 The ten-year relationship of George II with Mrs. Henrietta Howard was an open secret, as were several more casual liaisons.
 
 peace, if they could only escape his everlasting faultfinding and noisy bluster. Making everybody so uncomfortable."
 
@@ -11170,9 +11175,9 @@ peace, if they could only escape his everlasting faultfinding and noisy bluster.
 
 November 27, 1861.
 
-"Ye who listen with credulity to the whispers of fancy,"<sup>1</sup> pause and look on this picture and that.
+"Ye who listen with credulity to the whispers of fancy,"1 pause and look on this picture and that.
 
-<sup>1 [</sup>From the opening sentence of Samuel Johnson's (1709-84) Rasselas (1759).]
+1 [From the opening sentence of Samuel Johnson's (1709-84) Rasselas (1759).]
 
 On one side Mrs. Stowe, Greeley,Thoreau, Emerson, Sumner, in nice New England homes—clean, clear, sweet-smelling—shut up in libraries, writing books which ease their hearts of their bitterness to us, or editing newspapers—all [of] which pays better than anything else in the world. Even the politician's hobbyhorse—antislavery is the beast to carry him highest.
 
@@ -11180,15 +11185,15 @@ What self-denial do they practice? It is the cheapest philanthropy trade in the 
 
 Now, what I have seen of my mother's life, my grandmother's, my mother-in-law's:
 
-These people were educated at Northern schools mostly read the same books as their Northern contemners, the same daily newspapers, the same Bibles—have the same ideas of right and wrong—are highbred, lovely, good, pious—doing their duty as they conceive it. They live in negro villages. They do not preach and teach hate as a gospel and the sacred duty of murder and insurrection, but they strive to ameliorate the condition of these Africans in every particular. They set them the example of a perfect life—life of utter self-abnegation. Think of these holy New Englanders, forced to have a negro village walk through their houses whenever they saw fit—dirty, slatternly, idle, ill-smelling by nature (when otherwise, it is the exception). These women are more troubled by their duty to negroes, have less chance to live their own lives in peace than if they were African missionaries. They have a swarm of blacks about them as children under their care—not as Mrs. Stowe's fancy paints them, but the hard, unpleasant, unromantic, undeveloped savage Africans. And they hate slavery worse than Mrs. Stowe. Bookmaking which leads you to a round of visits among crowned heads is an easier way to be a saint than martyrdom down here, doing unpleasant duty among them—with no reward but John-Browning<sup>1</sup> drawn over your head in this world and threats of what is to come to you from blacker devils in the next.
+These people were educated at Northern schools mostly read the same books as their Northern contemners, the same daily newspapers, the same Bibles—have the same ideas of right and wrong—are highbred, lovely, good, pious—doing their duty as they conceive it. They live in negro villages. They do not preach and teach hate as a gospel and the sacred duty of murder and insurrection, but they strive to ameliorate the condition of these Africans in every particular. They set them the example of a perfect life—life of utter self-abnegation. Think of these holy New Englanders, forced to have a negro village walk through their houses whenever they saw fit—dirty, slatternly, idle, ill-smelling by nature (when otherwise, it is the exception). These women are more troubled by their duty to negroes, have less chance to live their own lives in peace than if they were African missionaries. They have a swarm of blacks about them as children under their care—not as Mrs. Stowe's fancy paints them, but the hard, unpleasant, unromantic, undeveloped savage Africans. And they hate slavery worse than Mrs. Stowe. Bookmaking which leads you to a round of visits among crowned heads is an easier way to be a saint than martyrdom down here, doing unpleasant duty among them—with no reward but John-Browning1 drawn over your head in this world and threats of what is to come to you from blacker devils in the next.
 
-<sup>1 [</sup>Most likely a reference to the radical abolitionist John Brown (1800- 59) who advocated and practiced armed insurrection against slavery, led the massacre of five pro-slavery settlers in Kansas in May 1856, and was tried and executed for treason for leading an unsuccessful raid on the federal armory at Harper's Ferry, Virginia, in 1859. Many abolitionists in the North viewed Brown as a martyr for his actions, whereas Southerners villified him as an anarchist.]
+1 [Most likely a reference to the radical abolitionist John Brown (1800- 59) who advocated and practiced armed insurrection against slavery, led the massacre of five pro-slavery settlers in Kansas in May 1856, and was tried and executed for treason for leading an unsuccessful raid on the federal armory at Harper's Ferry, Virginia, in 1859. Many abolitionists in the North viewed Brown as a martyr for his actions, whereas Southerners villified him as an anarchist.]
 
 March 13, 1862.
 
 Read Uncle Tom's Cabin again.
 
-Keating Simons<sup>1</sup> said: "Putting down distilleries can only be done at the point of a bayonet. By stopping cotton from going out, they mean to try and lower the price of cotton osnaburgs."<sup>2</sup>
+Keating Simons1 said: "Putting down distilleries can only be done at the point of a bayonet. By stopping cotton from going out, they mean to try and lower the price of cotton osnaburgs."2
 
 These negro women have a chance here women have nowhere else. They can redeem themselves. The "impropers." They can marry decently—and nothing is remembered against them, these colored ladies. It is not a nice topic, but Mrs. Stowe revels in it. How delightfully pharisaic a feeling it must be, to rise superior and fancy we are so degraded as to defend and like to live with such degraded creatures around us. Such men as Legare [Legree] and his women.
 
@@ -11204,17 +11209,17 @@ They even like the excitement of seeing people suffer. I speak now of what I hav
 
 Topsys I have known—but none that were beauties—or illused. Evas are mostly in the heaven of Mrs. Stowe's imagination. People can't love things dirty, ugly, repulsive, simply because they ought, but they can be good to them—at a distance. You see, I cannot rise very high. I can only judge by what I see.
 
-<sup>1</sup> A wealthy planter of Charleston District.
+1 A wealthy planter of Charleston District.
 
-<sup>2 [</sup>A type of coarse, heavy cloth used to make sacks or work clothes.]
+2 [A type of coarse, heavy cloth used to make sacks or work clothes.]
 
 #### June 12, 1862.
 
-After all this—tried to read Uncle Tom. Could not. Too sickening. A man send his little son to beat a human being tied to a tree? It is bad as Squeers beating Smike in the hack.<sup>1</sup> Flesh and blood revolts. You must skip that—it is too bad—or the pulling out of eyeballs in Lear. 2
+After all this—tried to read Uncle Tom. Could not. Too sickening. A man send his little son to beat a human being tied to a tree? It is bad as Squeers beating Smike in the hack.1 Flesh and blood revolts. You must skip that—it is too bad—or the pulling out of eyeballs in Lear. 2
 
 #### September 23, 1863.
 
-Reading Mrs. Stowe or Redpath's John Brown, <sup>3</sup> one feels utterly confounded at the atrocity of African slavery. We look upon the miserable black race as crushed to earth, habitually knocked down, as John Brown says, "by an iron shovel or anything that comes handy." At home we see them, the idlest, laziest, fattest, most comfortably contented peasantry that have ever cumbered the earth—and we forget there is any wrong in slavery at all.
+Reading Mrs. Stowe or Redpath's John Brown, 3 one feels utterly confounded at the atrocity of African slavery. We look upon the miserable black race as crushed to earth, habitually knocked down, as John Brown says, "by an iron shovel or anything that comes handy." At home we see them, the idlest, laziest, fattest, most comfortably contented peasantry that have ever cumbered the earth—and we forget there is any wrong in slavery at all.
 
 I daresay the truth lies between the two extremes.
 
@@ -11222,11 +11227,11 @@ I daresay the truth lies between the two extremes.
 
 [In the wake of the European Revolutions of 1848, Stowe's homegrown protest novel was received even more enthusiastically abroad than in the United States. As noted in the introduction to this edition, Uncle Tom's Cabin sold over one million copies in less than eight months in England, but perhaps a better measure of its popularity is an anecdote to the effect that "a village in England had been so isolated in 1848 that three weeks passed before anyone there had heard of the revolution in France. The same village, however, had 'scarcely a cottage' where the inhabitants had not wept over the death of Eva, and laughed till their sides ached at the absurdities of Topsy" (qtd. in Gossett 239). Similarly, a correspondent for The New York Daily Times reported that in France at least fourteen new translations of the novel had been printed by early January 1853 and that "Three melodramas, two vaudevilles, and one opera, are in preparation, founded upon that romance" (New York Daily Times, "France," 3). And Stowe's text was also "circulated in translation in every town and city of Germany, adapted and presented on the stage, and imitated by well-known and obscure writers and translators,
 
-<sup>1 [</sup>A reference to Charles Dickens's (1812-70) novel The Life and Adventures of Nicholas Nickleby (1838-39).]
+1 [A reference to Charles Dickens's (1812-70) novel The Life and Adventures of Nicholas Nickleby (1838-39).]
 
-<sup>2 [</sup>A reference to William Shakespeare's play King Lear (circa 1603-06).]
+2 [A reference to William Shakespeare's play King Lear (circa 1603-06).]
 
-<sup>3 [</sup>James Redpath (1833-91) wrote an autobiography of the radical abolitionist John Brown.]
+3 [James Redpath (1833-91) wrote an autobiography of the radical abolitionist John Brown.]
 
 ## ![](_page_587_Picture_1.jpeg)
 
@@ -11246,21 +11251,21 @@ Evils of Slavery—Method of its Removal—Dangers of Agitation— Colonization,
 
 From the London Times, Friday, Sept. 3.
 
-Twenty thousand copies of this book, according to its title-page, are circulating among the American people, but three times as many thousands more have probably been issued from the American press since the title page was written. According to the Boston Traveller, the authoress has already received from her publishers the sum of "\$10,000 as her copyright premium on three months' sales of the work—we believe the largest sum of money ever received by any author, either American or European, from the sale of a single work in so short a period of time." Uncle Tom's Cabin is at every railway book-stall in England, and in every third traveler's hand. The book is a decided hit. It takes its place with "Pickwick," with Louis Napoleon,<sup>1</sup> with the mendicant who suddenly discovers himself heir to £20,000 a year, and, in fact, with every man whose good fortune it has been to fall asleep Nobody, and to awake in the morning an institution in the land. It is impossible not to feel respect for Uncle Tom's Cabin.
+Twenty thousand copies of this book, according to its title-page, are circulating among the American people, but three times as many thousands more have probably been issued from the American press since the title page was written. According to the Boston Traveller, the authoress has already received from her publishers the sum of "\$10,000 as her copyright premium on three months' sales of the work—we believe the largest sum of money ever received by any author, either American or European, from the sale of a single work in so short a period of time." Uncle Tom's Cabin is at every railway book-stall in England, and in every third traveler's hand. The book is a decided hit. It takes its place with "Pickwick," with Louis Napoleon,1 with the mendicant who suddenly discovers himself heir to £20,000 a year, and, in fact, with every man whose good fortune it has been to fall asleep Nobody, and to awake in the morning an institution in the land. It is impossible not to feel respect for Uncle Tom's Cabin.
 
-The object of the work is revealed in the pictorial frontispiece. Mrs. Harriet Beecher Stowe is an abolitionist, and her book is a vehement and unrestrained argument in favor of her creed. She does not preach a sermon, for men are accustomed to nap and nod under the pulpit: she does not indite [sic] a philosophical discourse, for philosophy is exacting, is solicitous for truth, and scorns exaggeration. Nor does the lady condescend to survey her intricate subject in the capacity of a judge, for the judicial seat is fixed high above human passion, and she is in no temper to mount it. With the instinct of her sex, the clever authoress takes the shortest road to her purpose, and strikes at the convictions of her readers by assailing their hearts. She cannot hold the scales of justice with a steady hand, but she has learnt to perfection the craft of the advocate. Euclid, <sup>2</sup> she well knows, is no child for effecting social revolutions, but an impassioned song may set a world in conflagration. Who shall deny to a true woman the use of her true weapons? We are content to warn the unsuspecting reader of their real presence!
+The object of the work is revealed in the pictorial frontispiece. Mrs. Harriet Beecher Stowe is an abolitionist, and her book is a vehement and unrestrained argument in favor of her creed. She does not preach a sermon, for men are accustomed to nap and nod under the pulpit: she does not indite [sic] a philosophical discourse, for philosophy is exacting, is solicitous for truth, and scorns exaggeration. Nor does the lady condescend to survey her intricate subject in the capacity of a judge, for the judicial seat is fixed high above human passion, and she is in no temper to mount it. With the instinct of her sex, the clever authoress takes the shortest road to her purpose, and strikes at the convictions of her readers by assailing their hearts. She cannot hold the scales of justice with a steady hand, but she has learnt to perfection the craft of the advocate. Euclid, 2 she well knows, is no child for effecting social revolutions, but an impassioned song may set a world in conflagration. Who shall deny to a true woman the use of her true weapons? We are content to warn the unsuspecting reader of their real presence!
 
-<sup>1</sup> References to Charles Dickens's Pickwick Papers (1836) and Napoleon III (1808-73).
+1 References to Charles Dickens's Pickwick Papers (1836) and Napoleon III (1808-73).
 
-<sup>2</sup> Euclid (325-265 BCE) was a Greek mathematician.
+2 Euclid (325-265 BCE) was a Greek mathematician.
 
 Perhaps there is, after all, but one method of carrying on a crusade, and that unscrupulous fighting is the rightful warfare of the crusader. Mrs. Stowe having made up her mind that slavery is an abomination in the sight of God and man, thinks of nothing but the annihilation of the pernicious system. From the first page of her narrative to the last, this idea is paramount in her mind, and colors all her drawing. That she will secure proselytes we take for granted; for it is in the nature of enthusiasm to inoculate with passionate zeal the strong-hearted as well as the feeble-minded. That she will convince the world of the purity of her own motives and of the hatefulness of the sin she denounces, is equally clear; but that she will help, in the slightest degree towards the removal of the gigantic evil that afflicts her soul, is a point upon which we may express the greatest doubt; nay, is a matter upon which, unfortunately, we have very little doubt at all, inasmuch, as we are certain that the very readiest way to rivet the fetters of slavery in these critical times is to direct against all slaveholders in America the opprobrium and indignation which such works as Uncle Tom's Cabin are sure to excite.
 
-It is scarcely necessary to give in this place and in detail the plot of Mrs. Stowe's striking production; for striking and meritorious it undoubtedly is. The lady has great skill in the delineation of character; her hand is vigorous and firm, her mastery over human feeling is unquestionable, and her humorous efforts are unimpeachable. We know of no book in which the negro character finds such successful interpretation, and appears so life-like and so fresh. The scenes in which the negroes are represented at their domestic labors or conversing with each other, reveal a familiar acquaintance with negro life, and a capacity for displaying it that cannot be mistaken. The slang of "Ethiopian Serenaders"<sup>1</sup> for once gives place to thoughts and language racy of the soil, and we need not say how refreshing it is to be separated for a season from the conventional Sambo of the modern stage. But even as an artist Mrs. Stowe is not faultless. She exhibits but ordinary ability in the construction of her story. Her narrative is rather a succession of detached scenes than a compact, welljointed whole; and many of the scenes are tedious from their similarity and repetition. The reader is interested in the fate of two heroes, but their own streams of adventure never blend. The scene closes upon Uncle Tom to open upon George Harris, and
+It is scarcely necessary to give in this place and in detail the plot of Mrs. Stowe's striking production; for striking and meritorious it undoubtedly is. The lady has great skill in the delineation of character; her hand is vigorous and firm, her mastery over human feeling is unquestionable, and her humorous efforts are unimpeachable. We know of no book in which the negro character finds such successful interpretation, and appears so life-like and so fresh. The scenes in which the negroes are represented at their domestic labors or conversing with each other, reveal a familiar acquaintance with negro life, and a capacity for displaying it that cannot be mistaken. The slang of "Ethiopian Serenaders"1 for once gives place to thoughts and language racy of the soil, and we need not say how refreshing it is to be separated for a season from the conventional Sambo of the modern stage. But even as an artist Mrs. Stowe is not faultless. She exhibits but ordinary ability in the construction of her story. Her narrative is rather a succession of detached scenes than a compact, welljointed whole; and many of the scenes are tedious from their similarity and repetition. The reader is interested in the fate of two heroes, but their own streams of adventure never blend. The scene closes upon Uncle Tom to open upon George Harris, and
 
-<sup>1</sup> The Ethiopian Serenaders was a blackface minstrel troupe that toured England in 1846.
+1 The Ethiopian Serenaders was a blackface minstrel troupe that toured England in 1846.
 
-it closes upon George Harris to open upon Uncle Tom,—a style of proceeding well understood at the Adelphi Theatre, where the facetioe of Wright must duly relieve the diablerie<sup>1</sup> of O. Smith, but certainly not yet recognized in the classic realms of art.
+it closes upon George Harris to open upon Uncle Tom,—a style of proceeding well understood at the Adelphi Theatre, where the facetioe of Wright must duly relieve the diablerie1 of O. Smith, but certainly not yet recognized in the classic realms of art.
 
 8. George Sand, "Review of Uncle Tom's Cabin," La Presse, 17 December 1852 (reprinted from Critical Essays on Harriet Beecher Stowe, ed. Elizabeth Ammons, Boston: C. K. Hall, 1980, 3-6)
 
@@ -11272,21 +11277,21 @@ It is not, then, it cannot be, an officious and needless task to review this boo
 
 If the best eulogy which one can make of the author is to love her, the truest that one can make of the book is to love its very faults. It has faults,—we need not pass them in silence, we need not evade the discussion of them,—but you need not be disturbed about them, you who are rallied on the tears you have shed over the fortunes of the poor victims in a narrative so simple and true.
 
-<sup>1</sup> Facetioe: usually spelled "facetiae," amusing or witty remarks; diablerie: mischief or reckless behavior.
+1 Facetioe: usually spelled "facetiae," amusing or witty remarks; diablerie: mischief or reckless behavior.
 
 These defects exist only in relation to the conventional rules of art, which never have been and never will be absolute. IF its judges, possessed with the love of what they call "artistic work," find unskillful treatment in the book, look well at them to see if their eyes are dry when they are reading this or that chapter. [...]
 
 For this book is essentially domestic and of the family,—this book, with its long discussions, its minute details, its portraits carefully studied. Mothers of families, young girls, little children, servants even, can read and understand them, and men themselves, even the most superior, cannot disdain them. We do not say that the success of the book is because its great merits redeem its faults; we say its success is because of these very alleged faults.
 
-For a long time we have striven in France against the prolix explanations of Walter Scott.<sup>1</sup> We have cried out against those of Balzac,<sup>2</sup> but on consideration have perceived that the painter on manners and character has never done too much, that every stroke of the pencil was needed for the general effect. Let us learn then to appreciate all kinds of treatment, when the effect is good, and when they bear the seal of a master hand.
+For a long time we have striven in France against the prolix explanations of Walter Scott.1 We have cried out against those of Balzac,2 but on consideration have perceived that the painter on manners and character has never done too much, that every stroke of the pencil was needed for the general effect. Let us learn then to appreciate all kinds of treatment, when the effect is good, and when they bear the seal of a master hand.
 
 Mrs. Stowe is all instinct; it is the very reason that she appears to some not to have talent. Has she not talent? What is talent? Nothing, doubtless, compared to genius; but has she genius? I cannot say that she has talent as one understands it in the world of letters, but she has genius, as humanity feels the need of genius,—the genius of goodness, not that of the man of letters, but of the saint. Yes,—a saint! Thrice holy the soul which thus loves, blesses, and consoles the martyrs. Pure, penetrating, and profound the spirit which thus fathoms the recesses of the human soul. Noble, generous, and great the heart which embraces in her pity, in her love, an entire race, trodden down in blood and mire under the whip of ruffians and the maledictions of the impious.
 
 Thus should it be, thus would we value things ourselves. We should feel that genius is heart, that power is faith, that talent is sincerity, and, finally, success is sympathy, since this book overcomes us, since it penetrates the breast, pervades the spirit, and fills us with a strange sentiment of mingled tenderness and admiration for a poor negro lacerated by blows, prostrate in the dust, there gasping on a miserable pallet, his last sigh exhaled towards God.
 
-<sup>1</sup> One of Stowe's favorite novelists was Sir Walter Scott (1771-1832), the Scottish writer and poet.
+1 One of Stowe's favorite novelists was Sir Walter Scott (1771-1832), the Scottish writer and poet.
 
-<sup>2</sup> Honore´ de Balzac (1799-1850) was a French novelist and playwright.
+2 Honore´ de Balzac (1799-1850) was a French novelist and playwright.
 
 In matters of art there is but one rule, to paint and to move. And where shall we find creations more complete, type more vivid, situations more touching, more original, than in "Uncle Tom,"—those beautiful relations of the slave with the child of his master, indicating a state of things unknown among us; the protest of the master himself against slavery during that innocent part of life when his soul belongs to God alone? Afterwards, when society takes him, the law chases away God, and interest deposes conscience. In coming to mature years the infant ceases to be man and become master. God dies in his soul.
 
@@ -11310,17 +11315,17 @@ Honor and respect to you, Mrs. Stowe! Some day your recompense, which is already
 
 [E´ mile Monte´gut (1825-95) was the leading literary critic for the flagship literary periodical Revue des deux mondes, and he was quite familiar with the English and American literary traditions. Upholding his reputation for "probity and disinterestness" (Chadbourne 553), Monte´gut wrote a 30-page review of Uncle Tom's Cabin that identifies Stowe's novel with the picaresque novel —a genre in which aesthetic unity and philosophical ideas are subordinated to episodic plot encounters and sheer exuberance of expression.]
 
-[... The most recent] denunciation of social injustice ... [in literature is] from America under this title: Uncle Tom's Cabin, a book that portrays the complete and multifaceted horror of the Negroes' life in the Southern states. The author of the book is a woman, Harriet Beecher Stowe. Of all the human beings rebelling against injustice, it seems like most of them are women, because of their nervous sensibility, their impressionable imagination, but also because of their unbridled control of the world and the type of authority generated by their natural weakness and condition. This book, published when passions and opinions are dividing America into two camps on this sad issue of slavery, has had the same effect as pouring oil on a blazing fire, and obtained incomparable success in the United States. It has been sold by the hundreds of thousands, and bought and read in all the states. It has filled the North with joy and irritated the South. Nothing prevents its success: neither the rapid sales, nor, as it has been said, the substantial profits, neither the many successive editions, nor the attacks. Very recently still, the South responded through a certain mistress Eastman in a book entitled: Aunt Phillis's Cabin, or Southern Life as it is; <sup>1</sup> but the response, based on the fragments we read, will unlikely receive the same success as the attack. Here, as always, the response to a "raw", unequivocal and tangible fact, is an abstract defense, a sentimental anecdote, a picture of an ideal and impossible happiness. The success of Uncle Tom's Cabin that began in America fully developed in Great-Britain. Half a dozen editions (sumptuous illustrated editions for the aristocracy; nice hard covered editions for the middle class, one shilling edition for the working class), have been published at the same time. An estimation shows that 150,000 copies have been sold in France since June. A great success, isn't it? A tremendous success never reached by more remarkable books such as Don Quixote, Hamlet or Paradise Lost<sup>2</sup> for example. Is this immense popularity, this incredible success for a book characterized by an ordinary talent, not the proof of what we were saying at the beginning of this essay
+[... The most recent] denunciation of social injustice ... [in literature is] from America under this title: Uncle Tom's Cabin, a book that portrays the complete and multifaceted horror of the Negroes' life in the Southern states. The author of the book is a woman, Harriet Beecher Stowe. Of all the human beings rebelling against injustice, it seems like most of them are women, because of their nervous sensibility, their impressionable imagination, but also because of their unbridled control of the world and the type of authority generated by their natural weakness and condition. This book, published when passions and opinions are dividing America into two camps on this sad issue of slavery, has had the same effect as pouring oil on a blazing fire, and obtained incomparable success in the United States. It has been sold by the hundreds of thousands, and bought and read in all the states. It has filled the North with joy and irritated the South. Nothing prevents its success: neither the rapid sales, nor, as it has been said, the substantial profits, neither the many successive editions, nor the attacks. Very recently still, the South responded through a certain mistress Eastman in a book entitled: Aunt Phillis's Cabin, or Southern Life as it is; 1 but the response, based on the fragments we read, will unlikely receive the same success as the attack. Here, as always, the response to a "raw", unequivocal and tangible fact, is an abstract defense, a sentimental anecdote, a picture of an ideal and impossible happiness. The success of Uncle Tom's Cabin that began in America fully developed in Great-Britain. Half a dozen editions (sumptuous illustrated editions for the aristocracy; nice hard covered editions for the middle class, one shilling edition for the working class), have been published at the same time. An estimation shows that 150,000 copies have been sold in France since June. A great success, isn't it? A tremendous success never reached by more remarkable books such as Don Quixote, Hamlet or Paradise Lost2 for example. Is this immense popularity, this incredible success for a book characterized by an ordinary talent, not the proof of what we were saying at the beginning of this essay
 
-<sup>1</sup> An "anti-Tom" novel written to counter Stowe's novel, Eastman's Aunt Phillis's Cabin; or, Southern Life As It Is was published in Philadelphia in 1852.
+1 An "anti-Tom" novel written to counter Stowe's novel, Eastman's Aunt Phillis's Cabin; or, Southern Life As It Is was published in Philadelphia in 1852.
 
-<sup>2</sup> Don Quixote (1605; 1615) by Miguel de Cervantes, Hamlet (1601) by Shakespeare, and Paradise Lost (1667) by John Milton.
+2 Don Quixote (1605; 1615) by Miguel de Cervantes, Hamlet (1601) by Shakespeare, and Paradise Lost (1667) by John Milton.
 
 about the incredible speed by which the denunciation of injustice spreads? [...]
 
-[Yet] "Mistress" Stowe's book lacks unity: it is a panorama, a succession of scenes with little unity between them, and which could easily be independent and become autonomous works. There are two or three short stories sown together and intermeshed in such a way that the book gives us the same impression as a volume made of pages of different sizes, with several types of printing, using various colorful papers. That is its great flaw; but, to us, it has a major quality: the author doesn't not indulge in analysis nor in commentary, a rare quality nowadays; she tells us what she saw in the simplest way possible. Few or no observations or philosophical thoughts. Fact and facts only, presented crudely and without any tact. The book reaches its goal from the first to the last page. It is easy to see that the author is more than a simple observer. "Mistress" Stowe is an abolitionist and a truly committed one. She doesn't forget anything, doesn't miss anything, insists with restrained anger and subtle irony on the saddest scenes, and uses everything. It is obvious that, for nothing in the world, would she agree to eliminate a secondary character: he will be included in her book for the only reason that she knew him. Don't talk to her about art, literature or unity of composition: she would answer you that she wrote the book for a very different reason. Of people she only saw the silhouettes, she only portrays the silhouettes, but she draws them with talent. Of the conversations she listened to by chance and for which she only heard a few words, she only repeats these words, but she has to repeat them. Her book is not a story based on an isolated fact: it is a summary of all her experience and of all her observations about the life of the Black people. We cannot explain why, during the entire reading, the reminiscence of some old novels, from Gil Blas to Tom Jones<sup>1</sup> for example, kept on following us. Obviously, there is no literary resemblance between these books and Uncle Tom's Cabin; but the way this book is composed is the same: it is a summary of facts, of opinions. And, the same way Tom Jones is the summary of all of Fielding's observations, and Gil Blas the summary of all of Lesage's observations on the world and life, the same way Uncle Tom's Cabin is the summary of all the author's observations on a particular world, the world of Blacks and slaves. "Mistress" Stowe's book has been composed completely the old way which is
+[Yet] "Mistress" Stowe's book lacks unity: it is a panorama, a succession of scenes with little unity between them, and which could easily be independent and become autonomous works. There are two or three short stories sown together and intermeshed in such a way that the book gives us the same impression as a volume made of pages of different sizes, with several types of printing, using various colorful papers. That is its great flaw; but, to us, it has a major quality: the author doesn't not indulge in analysis nor in commentary, a rare quality nowadays; she tells us what she saw in the simplest way possible. Few or no observations or philosophical thoughts. Fact and facts only, presented crudely and without any tact. The book reaches its goal from the first to the last page. It is easy to see that the author is more than a simple observer. "Mistress" Stowe is an abolitionist and a truly committed one. She doesn't forget anything, doesn't miss anything, insists with restrained anger and subtle irony on the saddest scenes, and uses everything. It is obvious that, for nothing in the world, would she agree to eliminate a secondary character: he will be included in her book for the only reason that she knew him. Don't talk to her about art, literature or unity of composition: she would answer you that she wrote the book for a very different reason. Of people she only saw the silhouettes, she only portrays the silhouettes, but she draws them with talent. Of the conversations she listened to by chance and for which she only heard a few words, she only repeats these words, but she has to repeat them. Her book is not a story based on an isolated fact: it is a summary of all her experience and of all her observations about the life of the Black people. We cannot explain why, during the entire reading, the reminiscence of some old novels, from Gil Blas to Tom Jones1 for example, kept on following us. Obviously, there is no literary resemblance between these books and Uncle Tom's Cabin; but the way this book is composed is the same: it is a summary of facts, of opinions. And, the same way Tom Jones is the summary of all of Fielding's observations, and Gil Blas the summary of all of Lesage's observations on the world and life, the same way Uncle Tom's Cabin is the summary of all the author's observations on a particular world, the world of Blacks and slaves. "Mistress" Stowe's book has been composed completely the old way which is
 
-<sup>1</sup> Alain Rene´ Lesage (1668-1747) was a French writer and the author of the multivolume novel Gil Blas (1715-47); Henry Fielding (1707-54) published the novel The History of Tom Jones, a Foundling in 1749.
+1 Alain Rene´ Lesage (1668-1747) was a French writer and the author of the multivolume novel Gil Blas (1715-47); Henry Fielding (1707-54) published the novel The History of Tom Jones, a Foundling in 1749.
 
 an excellent way, full of looseness of style, but of precision too, of thorough investigation and clarity, of honesty and rawness in the expression [...]. As for the style, it is sober without any pretension, sometimes strong but not artificial, and often eloquent. It is made of concentration and of this type of aggressive strength in the words and epithets which have often characterized political writings. Therefore, Uncle Tom's Cabin is a very interesting book whose main quality is that it says precisely what the author intended it to say, and has the impact the author gave it.
 
@@ -11334,13 +11339,13 @@ At the same time, the author uses no hollow rhetorical phraseology. Unlike so ma
 
 The author has made it her main task to fight against the optimists among the anti-emancipationists, the humanistic mediators, and those who seek to conceal the truth. She shows how, despite the best intentions of the most human and educated slaveholders, whose own hearts bleed at the terrible enterprise, the most terrible consequences must arise for the class of owners out of the very nature of the system itself. For what is evil and accursed can only ever bring forth evil and accursed fruit. This is why we spend well more than the whole first half of the book exclusively on the plantations of humane slaveholders, whose slaves—the characters in the story—then wind up, through a series of unfortunate events, in the hands of cruel owners, or else must seek to escape. [...]
 
-This instruction and its bleak result cannot fail to shake all pious souls in Europe and America. But the author has made it her task to show how it is in the interests of the slaveowners to humiliate these unfortunates as much as possible, to prevent the spread of Christian revelation among them as much as possible, and to keep the liberating light of knowledge from them—in short, to prevent them from having contact with anything that could awaken in them a sense of human dignity and human equality. Thus poor Topsy has been taught to think she was born of a "business deal". Thus the owner of the above-mentioned slave [George Harris], the one who invented a machine, condemns the latter to ruinous physical labor for this attempt to raise himself above his station. Thus the planter Legree, in whom the author places before our mind's eye the distillate of all barbarism and brutality of the slaveowners (though it be the exception, such barbarism and brutality can indeed exist) in the person of one, drawn to frightful effect—thus, we say, does this Legree clench his fist in anger when he hears that Uncle Tom, whom he purchased at the auction after St. Clare's death, is a Christian, and says that he "will get this Methodist stuff back out of him". It is curious: whereas in Europe Christianity is so often reproached for shoring up the absolutist state and its strict relations of subjection, in America, according to the author's depictions, it happens that the individual despotism (for only fools and political 'illuminati'<sup>1</sup> imagine that the roots of despotism are limited to government systems) of the "would-be aristocracy" (to use the Yankee term) actually stands in the way of the spread of the Christian message. "For the Spirit will set them free." This is what the writer shows us in the glorious character of Tom, the Christian slave, who, a victim of his convictions, dies under the whip of the brutal Legree, with Psalms on his lips, with the result that his persecutors are struck with awe and, stopping for a moment, ask him "where the Lord is who gave him succor in his pain"? This, we say, is what the writer shows us with the figure of this slave in a Christianity that, with the pure hymnological effusions of a self-sacrificing, altruistic love, is far superior to all the pious little tracts and the stylish, unctuous sermons of the preachers of court and fashion. This is a Christianity of the first centuries of the Christian community, where the "brothers and sisters" whispered their songs of praise to the Savior under the desert palms, in quiet chambers, or in the catacombs of the Eternal City. It is the greatness of this novel that it breathes afresh the spirit of this Christianity, in the face of which the chains of the slave and the purple of the Caesars fell to the dust once already, and the Roman eagle, dealt a mortal blow, lowered his proud pinions. Reading this novel we, oppressed by the sultriness of the age, feel the breezes of a new world blow refreshingly across our brow.
+This instruction and its bleak result cannot fail to shake all pious souls in Europe and America. But the author has made it her task to show how it is in the interests of the slaveowners to humiliate these unfortunates as much as possible, to prevent the spread of Christian revelation among them as much as possible, and to keep the liberating light of knowledge from them—in short, to prevent them from having contact with anything that could awaken in them a sense of human dignity and human equality. Thus poor Topsy has been taught to think she was born of a "business deal". Thus the owner of the above-mentioned slave [George Harris], the one who invented a machine, condemns the latter to ruinous physical labor for this attempt to raise himself above his station. Thus the planter Legree, in whom the author places before our mind's eye the distillate of all barbarism and brutality of the slaveowners (though it be the exception, such barbarism and brutality can indeed exist) in the person of one, drawn to frightful effect—thus, we say, does this Legree clench his fist in anger when he hears that Uncle Tom, whom he purchased at the auction after St. Clare's death, is a Christian, and says that he "will get this Methodist stuff back out of him". It is curious: whereas in Europe Christianity is so often reproached for shoring up the absolutist state and its strict relations of subjection, in America, according to the author's depictions, it happens that the individual despotism (for only fools and political 'illuminati'1 imagine that the roots of despotism are limited to government systems) of the "would-be aristocracy" (to use the Yankee term) actually stands in the way of the spread of the Christian message. "For the Spirit will set them free." This is what the writer shows us in the glorious character of Tom, the Christian slave, who, a victim of his convictions, dies under the whip of the brutal Legree, with Psalms on his lips, with the result that his persecutors are struck with awe and, stopping for a moment, ask him "where the Lord is who gave him succor in his pain"? This, we say, is what the writer shows us with the figure of this slave in a Christianity that, with the pure hymnological effusions of a self-sacrificing, altruistic love, is far superior to all the pious little tracts and the stylish, unctuous sermons of the preachers of court and fashion. This is a Christianity of the first centuries of the Christian community, where the "brothers and sisters" whispered their songs of praise to the Savior under the desert palms, in quiet chambers, or in the catacombs of the Eternal City. It is the greatness of this novel that it breathes afresh the spirit of this Christianity, in the face of which the chains of the slave and the purple of the Caesars fell to the dust once already, and the Roman eagle, dealt a mortal blow, lowered his proud pinions. Reading this novel we, oppressed by the sultriness of the age, feel the breezes of a new world blow refreshingly across our brow.
 
 ### 11. "B," "Mistress Harriet Beecher-Stowe and the Novel," El Universo Pintoresco [The Picturesque Universe], No. 25, 15 July 1853: 1-2. Translation by Julee Tate
 
 [Although Spain had abolished slavery in 1811, the practice continued in the Spanish colonies of Cuba, Puerto Rico, and Santo Domingo until the late nineteenth century. Stowe's novel was therefore greeted enthusiastically in Spain where the political climate remained tense over the issue of slavery. Here, the anonymous reviewer "B" emphasizes the enormous popularity of Uncle Tom's Cabin in Europe as both novel and dramatic production; more like George Sand than E´ mile Monte´gut, he praises Stowe as "a kind of saint because of the elevation and purity of her intentions and feelings."]
 
-<sup>1</sup> Persons claiming superior intelligence or enlightenment.
+1 Persons claiming superior intelligence or enlightenment.
 
 Uncle Tom's Cabin is more than a book, it's an event. Harriet Beecher-Stowe is more than a novelist. She is an apostle [...]. As soon as Uncle Tom's Cabin leaves its corner of America, it creates an explosion from one hemisphere to another, yielding editions and tears and praise. Many copies are printed and disseminated; every newspaper translates and publishes it, and England sets an example for all of Europe: there is not a shop in London that does not have on display the prestigious title, Uncle Tom's Cabin!
 
@@ -11635,28 +11640,28 @@ Credit: Harry Birdoff Collection, Harriet Beecher Stowe Center, Hartford, CT
 - Alexander, Robert. "I Ain't Yo' Uncle:The New Jack Revisionist Uncle Tom's Cabin." Colored Contradictions:An Anthology of Contemporary African American Plays. Ed. Harry J. Elam and Robert Alexander. New York: Plume, 1996. 22-90.
 - "American Writers in England." The National Era. 26 May 1853.
 - Arnett, Frank S. "Fifty Years of Uncle Tom." Munsey's Magazine (September 1902)
- - <<http://www.iath.virginia.edu/utc/onstage/revus/osar71at.html>>.
+ - >.
 - Baldwin, James. "Everybody's Protest Novel." James Baldwin: Collected Essays. Selected by Toni Morrison. New York: Library Classics, 1998. 11-18.
 - Brantley, Ben. "Stowe's 'Cabin,' Reshaped as a Multistory Literary Home." 12 December 1997
- - <<http://query.nytimes.com/gst/fullpage.html?res=9E01E0DD103CF931A25751C1A961958260 >>.
+ - >.
 - Brickhouse, Anna. "The Writing of Haiti: Pierre Faubert, Harriet Beecher Stowe, and Beyond." American Literary History 13.3 (Fall 2001): 407-44.
 - Chadbourne, Richard M. "E´ mile Monte´gut and French Romanticism." PMLA 74.5 (December 1959): 553-57.
 - Crane, Gregg D. Race, Citizenship, and Law in American Literature. New York: Cambridge University Press, 2002.
 - Davis, J. Frank. "Tom Shows." Scribner's Magazine 77.4 (April 1925): 350-60
- - <<http://www.iath.virginia.edu/utc/onstage/revus/osar42at.html>>.
+ - >.
 - Diller, Christopher. "Sentimental Types and Social Reform in Uncle Tom's Cabin." Studies in American Fiction 32.1 (Spring 2004): 21-48.
 - Dobson, Joanne. "Reclaiming Sentimental Literature." American Literature 69.2 (June 1997): 263-28.
 - Douglass, Frederick. "The Meaning of July Fourth for the Negro, Speech at Rochester, New York, July 5, 1852." Frederick Douglass: Selected Speeches and Writings. Ed. Phillip S. Foner and Yuval Taylor. Chicago: Lawrence Hill Books, 2000. 188-205.
 - Ellison, Ralph. "Introduction." Invisible Man. New York:Vintage, 1982. vii-xxii.
 - Fiedler, Leslie A. Love and Death in the American Novel. New York: Criterion, 1960.
 - Fisher, Marc. "Literary Landmark Is Sold: Uncle Tom's Cabin." The Washington Post. 8 January 2006
- - <<http://www.signonsandiego.com/uniontrib/20060108/news\_1h08cabin.html>>.
+ - >.
 
 - Fisher, Philip. Hard Facts: Setting and Form in the American Novel. New York: Oxford University Press, 1985.
 - Frederick, Bonnie. "Harriet Beecher Stowe and the Virtuous Mother: Argentina, 1852-1910." Journal of Women's History 18.1 (2006): 101-10.
 - Frederickson, George M. The Black Image in the White Mind:The Debate on Afro-American Character and Destiny, 1817-1914. 2nd ed. Hanover, NH: University Press of New England, 1987.
 - Freneau, Philip. "To a New England Poet." The Norton Anthology of American Literature: Literature to 1820. Ed. Nina Baym, et al. 6th ed. Volume A. New York: Norton, 2003. 807-08.
-- Garrison,William Lloyd. Untitled Review. The Liberator 26 (March 1852) <<http://www.iath.virginia.edu/utc/reviews/rere02at.html>>.
+- Garrison,William Lloyd. Untitled Review. The Liberator 26 (March 1852) >.
 - Gossett,Thomas F. Uncle Tom's Cabin and American Culture. Dallas,TX: Southern Methodist University Press, 1985.
 - Hamilton, Kendra. "The Strange Career of Uncle Tom." Black Issues in Higher Education 19.8 (6 June 2002): 22-27.
 - Hedrick, Joan D. Harriet Beecher Stowe:A Life. New York: Oxford University Press, 1990.
@@ -11673,14 +11678,14 @@ Credit: Harry Birdoff Collection, Harriet Beecher Stowe Center, Hartford, CT
 - Meer, Sarah. Uncle Tom Mania: Slavery, Minstrelsy, and the Transatlantic Culture in the 1850s. Athens, GA: University of Georgia Press, 2005.
 - Melville, Herman. "Hawthorne and His Mosses." Moby-Dick. Eds. Hershel Parker, and Harrison Hayford. 2nd ed. New York: Norton, 2002. 517-32.
 - Patkus, Ronald D. and Mary C. Schlosser. "Aspects of the Publishing History of Uncle Tom's Cabin, 1851-1900." Vassar College Libraries: Archives and Special Collections
- - <<http://specialcollections.vassar.edu/exhibits/stowe/essay2.html>>.
-- Philo-Africanus. "A New Compromise." The Independent. 26 August 1852 <<http://www.iath.virginia.edu/utc/notices/noar12agt.html>>.
+ - >.
+- Philo-Africanus. "A New Compromise." The Independent. 26 August 1852 >.
 - Railton, Stephen. "Conway's Uncle Tom." Uncle Tom's Cabin and American Culture (web site)
- - <<http://www.iath.virginia.edu/utc/onstage/scripts/conwayhp.html>>.
-- Railton, Stephen. "First Edition Illustrations." Uncle Tom's Cabin and American Culture (web site) <<http://www.iath.virginia.edu/utc/uncletom/illustra/52illf.html>>.
+ - >.
+- Railton, Stephen. "First Edition Illustrations." Uncle Tom's Cabin and American Culture (web site) >.
 - Richards, Jason. "Imitation Nation: Blackface Minstrelsy and the Making of African American Selfhood in Uncle Tom's Cabin." Novel:A Forum on Fiction 39.2 (March 2006): 204-20.
 - Riss, Arthur. "Racial Essentialism and Family Values in Uncle Tom's Cabin." American Quarterly 46.4 (December 1994): 513-44.
-- Rose, R. Burton. "The Death of Uncle Tom's Cabin." Overland Monthly and Out West Magazine (December 1931) <<http://jefferson.village.virginia.edu/utc/onstage/revus/osar43at.html>>.
+- Rose, R. Burton. "The Death of Uncle Tom's Cabin." Overland Monthly and Out West Magazine (December 1931) >.
 - Simms,William Gilmore. "Notices of New Works." Southern Literary Messenger 18.10 (October 1850): 630-40.
 - Smith, Rogers. Civic Ideals: Conflicting Visions of Citizenship in U. S. History. New Haven:Yale University Press, 1997.
 - Stowe, Harriet Beecher. A Key to Uncle Tom's Cabin. Boston: John P. Jewett & Company, 1853.

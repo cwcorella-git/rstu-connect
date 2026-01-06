@@ -1,3 +1,8 @@
+---
+title: "[Emotional intelligence in action:](https://www.frontiersin.org/articles/10.3389/fpsyg.2025.1660296/full) [theoretical models for educators](https://www.frontiersin.org/articles/10.3389/fpsyg.2025.1660296/full) [to enhance learning and](https://www.frontiersin.org/articles/10.3389/fpsyg.2025.1660296/full) [connection in the classroom: a](https://www.frontiersin.org/articles/10.3389/fpsyg.2025.1660296/full) [conceptual review](https://www.frontiersin.org/articles/10.3389/fpsyg.2025.1660296/full)"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_2.jpeg)
 
 #### OPEN ACCESS
@@ -58,12 +63,55 @@ Emotional intelligence represents a critical competency involving the ability to
 
 TABLE 1 Relations between types of intelligence.
 
-| Intelligence<br>type | Definition | Key<br>attributes | Core focus |
+| Intelligence
+type | Definition | Key
+attributes | Core focus |
 |--------------------------------|-----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|-------------------------------------------|
-| Physical Intelligence<br>(PI) | The ability to<br>effectively<br>manage and<br>listen to one's<br>body. | Body awareness,<br>energy<br>management,<br>health habits,<br>and coordination | Health, stamina,<br>and presence |
-| Cognitive<br>Intelligence (CI) | The capacity to<br>think, learn,<br>reason, and solve<br>problems. | Logic, memory,<br>analysis, and<br>knowledge<br>acquisition | Thinking and<br>problem<br>solving |
-| Emotional<br>Intelligence (EI) | The ability to<br>recognise,<br>understand, and<br>manage emotions<br>in oneself and<br>others. | Empathy,<br>emotional<br>regulation, and<br>social skills | Relationships<br>and self<br>awareness |
-| Spiritual Intelligence<br>(SI) | The ability to<br>apply meaning,<br>values, and a<br>sense of purpose<br>to one's life and<br>work. | Meaning<br>making, purpose,<br>integrity,<br>compassion | Vision, ethics,<br>and life<br>fulfilment |
+| Physical Intelligence
+(PI) | The ability to
+effectively
+manage and
+listen to one's
+body. | Body awareness,
+energy
+management,
+health habits,
+and coordination | Health, stamina,
+and presence |
+| Cognitive
+Intelligence (CI) | The capacity to
+think, learn,
+reason, and solve
+problems. | Logic, memory,
+analysis, and
+knowledge
+acquisition | Thinking and
+problem
+solving |
+| Emotional
+Intelligence (EI) | The ability to
+recognise,
+understand, and
+manage emotions
+in oneself and
+others. | Empathy,
+emotional
+regulation, and
+social skills | Relationships
+and self
+awareness |
+| Spiritual Intelligence
+(SI) | The ability to
+apply meaning,
+values, and a
+sense of purpose
+to one's life and
+work. | Meaning
+making, purpose,
+integrity,
+compassion | Vision, ethics,
+and life
+fulfilment |
 
 emotional regulation, and social skills, which collectively facilitate effective communication, conflict resolution, and nurturing of relationships (Nachiappan et al., 2014). Research studies have demonstrated how EI and CI differ. While EI can be learned and acquired as a skill, CI is largely predetermined (Bar-On, 1997; Goleman, 1996; Goleman et al., 2013; Zohar and Marshall, 2004\).
 
@@ -216,29 +264,72 @@ Howard Gardner's Multiple Intelligences Theory (Gardner, 1983\) challenges the t
 
 TABLE 2 Gardner's multiple intelligences, learning styles and their characteristics.
 
-| Learning<br>style | Relevant<br>intelligence | Learning methods | Characteristics |
+| Learning
+style | Relevant
+intelligence | Learning methods | Characteristics |
 |------------------------|--------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Visual learners | Spatial | Prefer learning methods that combine visual<br>aspects, such as presentations, pictures and others<br>(Yavich and Rotnitsky, 2020) | Learners are influenced by educators' body language and tend to prefer<br>sitting at the front of the classroom (Sener and Cokcaliskan, 2018). |
-| Auditory<br>learners | Musical | Perceive the environment with the sense of hearing:<br>music, sounds, words (Yavich and Rotnitsky, 2020) | The volume, frequency, and speed of speech significantly impact their<br>learning. Research shows that auditory learners prefer reading in class,<br>enhancing their engagement with the material (Sener and Cokcaliskan,<br>2018). |
-| Verbal learners | Linguistic | Learn by verbalising words and writing (Yavich and<br>Rotnitsky, 2020) | These learners actively engage with what they read and take notes while<br>listening, enhancing their comprehension and retention of information<br>(Sener and Cokcaliskan, 2018). |
-| Intangible<br>learners | Bodily kinesthetics | They prefer combining movements and tactile<br>sensation, such as using hands (Yavich and<br>Rotnitsky, 2020) | Learners gather information by interacting with the physical and motion<br>world, needing hands-on engagement. They struggle with tasks requiring<br>prolonged focus (Sener and Cokcaliskan, 2018). |
-| Group learners | Interpersonal | Prefer group activities and learning through social<br>interaction (Yavich and Rotnitsky, 2020) | Very good communication skills, both verbally and non-verbally. Leaners<br>prefer to teach and guide others (Sener and Cokcaliskan, 2018). |
-| Individual<br>learners | Intrapersonal | Prefer self-study and are intrinsically motivated.<br>They can gauge their learning efforts (Yavich and<br>Rotnitsky, 2020) | Emotionally competent learners who can express their learning process and<br>express personal feelings (Sener and Cokcaliskan, 2018). |
-| Logical<br>learners | Logical<br>mathematical | They learn when making logical connections with<br>the content (Yavich and Rotnitsky, 2020) | These learners can analyse different ways of thinking (Sener and<br>Cokcaliskan, 2018). |
-| Hands-on<br>learners | Naturalist | Hands-on activities, outdoor explorations, and<br>projects related to the natural world can be highly<br>engaging and effective (Gardner, 1999; Sadiku et al.,<br>2020) | Students prefer outside environments learning elements of nature like<br>plants, animals, and weather patterns (biology, zoology, or environmental<br>science) (Gardner, 1999; Sadiku et al., 2020) |
+| Visual learners | Spatial | Prefer learning methods that combine visual
+aspects, such as presentations, pictures and others
+(Yavich and Rotnitsky, 2020) | Learners are influenced by educators' body language and tend to prefer
+sitting at the front of the classroom (Sener and Cokcaliskan, 2018). |
+| Auditory
+learners | Musical | Perceive the environment with the sense of hearing:
+music, sounds, words (Yavich and Rotnitsky, 2020) | The volume, frequency, and speed of speech significantly impact their
+learning. Research shows that auditory learners prefer reading in class,
+enhancing their engagement with the material (Sener and Cokcaliskan,
+2018). |
+| Verbal learners | Linguistic | Learn by verbalising words and writing (Yavich and
+Rotnitsky, 2020) | These learners actively engage with what they read and take notes while
+listening, enhancing their comprehension and retention of information
+(Sener and Cokcaliskan, 2018). |
+| Intangible
+learners | Bodily kinesthetics | They prefer combining movements and tactile
+sensation, such as using hands (Yavich and
+Rotnitsky, 2020) | Learners gather information by interacting with the physical and motion
+world, needing hands-on engagement. They struggle with tasks requiring
+prolonged focus (Sener and Cokcaliskan, 2018). |
+| Group learners | Interpersonal | Prefer group activities and learning through social
+interaction (Yavich and Rotnitsky, 2020) | Very good communication skills, both verbally and non-verbally. Leaners
+prefer to teach and guide others (Sener and Cokcaliskan, 2018). |
+| Individual
+learners | Intrapersonal | Prefer self-study and are intrinsically motivated.
+They can gauge their learning efforts (Yavich and
+Rotnitsky, 2020) | Emotionally competent learners who can express their learning process and
+express personal feelings (Sener and Cokcaliskan, 2018). |
+| Logical
+learners | Logical
+mathematical | They learn when making logical connections with
+the content (Yavich and Rotnitsky, 2020) | These learners can analyse different ways of thinking (Sener and
+Cokcaliskan, 2018). |
+| Hands-on
+learners | Naturalist | Hands-on activities, outdoor explorations, and
+projects related to the natural world can be highly
+engaging and effective (Gardner, 1999; Sadiku et al.,
+2020) | Students prefer outside environments learning elements of nature like
+plants, animals, and weather patterns (biology, zoology, or environmental
+science) (Gardner, 1999; Sadiku et al., 2020) |
 
 TABLE 3 Gardner's multiple intelligences and implementation examples.
 
-| Intelligence | Key strengths | Practical implementation examples (education/<br>students) |
+| Intelligence | Key strengths | Practical implementation examples (education/
+students) |
 |------------------------------------------------------|--------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
 | 1. Linguistic (word smart) | Language, reading, writing, storytelling | Essays, debates, poetry writing, role-plays, and student presentations |
-| 2. Logical-mathematical (number/<br>reasoning smart) | Problem-solving, reasoning, patterns, numbers | Puzzles, coding, case studies, experiments, and real-world math<br>applications |
-| 3. Spatial (picture smart) | Visualisation, design, drawing, spatial reasoning | Mind maps, infographics, posters, 3D models, and design software<br>projects |
-| 4. Bodily-kinesthetic (body smart) | Movement, coordination, hands-on activities | Drama, dance, sports, lab experiments, simulations, and building<br>prototypes |
-| 5. Musical (music smart) | Rhythm, sound, tones, music creation | Learning songs, composing rhymes about lessons, and using background<br>music for memorisation |
-| 6. Interpersonal (people smart) | Empathy, teamwork, leadership, and communication | Group projects, peer teaching, debates, role-plays, and mentoring<br>activities |
-| 7. Intrapersonal (self smart) | Self-awareness, reflection, and independent work | Journals, self-assessment, mindfulness tasks, personal goal setting, and<br>independent study |
-| 8. Naturalistic (nature smart) | Connection with nature, ecosystems, and classification | Nature walks, field trips, gardening, environmental projects, and using<br>real-world ecological data |
+| 2. Logical-mathematical (number/
+reasoning smart) | Problem-solving, reasoning, patterns, numbers | Puzzles, coding, case studies, experiments, and real-world math
+applications |
+| 3. Spatial (picture smart) | Visualisation, design, drawing, spatial reasoning | Mind maps, infographics, posters, 3D models, and design software
+projects |
+| 4. Bodily-kinesthetic (body smart) | Movement, coordination, hands-on activities | Drama, dance, sports, lab experiments, simulations, and building
+prototypes |
+| 5. Musical (music smart) | Rhythm, sound, tones, music creation | Learning songs, composing rhymes about lessons, and using background
+music for memorisation |
+| 6. Interpersonal (people smart) | Empathy, teamwork, leadership, and communication | Group projects, peer teaching, debates, role-plays, and mentoring
+activities |
+| 7. Intrapersonal (self smart) | Self-awareness, reflection, and independent work | Journals, self-assessment, mindfulness tasks, personal goal setting, and
+independent study |
+| 8. Naturalistic (nature smart) | Connection with nature, ecosystems, and classification | Nature walks, field trips, gardening, environmental projects, and using
+real-world ecological data |
 
 diverse methods to engage different intelligences, such as storytelling (linguistic), hands-on experiments (bodily-kinesthetic), and visual aids (spatial) \(Armstrong, 2017). It leads to motivation and engagement by valuing students' unique strengths; the theory fosters self-confidence and a positive learning environment \(Bas, 2016). And it can be applied widely, because it is relevant beyond education, influencing leadership, organizational learning, and career development (Shearer, 2018) (see Table 3\).
 
@@ -442,7 +533,7 @@ Farah-Franco, S. M., Fung, B., Taylor, L. C., Chui, B., Islamoglu, H., and Steve
 
 Felder, R. M., and Brent, R. (2005). Understanding Student Differences. *J. Eng. Educ.* 94, 57–72. doi: [10.1002/j.2168-9830.2005.tb00829.x](https://doi.org/10.1002/j.2168-9830.2005.tb00829.x)
 
-Fleming, N., (2001). Teaching and learning styles: VARK strategies. Neil D. Fleming. Available online at: <https://books.google.co.id/books?id=K04uyQEACAAJ>(Accessed June 5, 2025).
+Fleming, N., (2001). Teaching and learning styles: VARK strategies. Neil D. Fleming. Available online at: (Accessed June 5, 2025).
 
 Fleming, N. D. (2006). *V. A. R. K visual, aural/auditory, read/write, Kinesthetic*. New Zealand: Bonwell Green Mountain Falls.
 
@@ -506,7 +597,7 @@ Mac Cann, C., Jiang, Y., Brown, L. E., Double, K. S., Bucich, M., and Minbashian
 
 Mackintosh, N. J. (1978). Limits on reinterpreting instrumental conditioning in terms of classical conditioning. *Behav. Brain Sci.* 1:67. doi: [10.1017/S0140525X00059586](https://doi.org/10.1017/S0140525X00059586)
 
-Matjie, M. A. (2025). "The psychology of leadership: harnessing emotional intelligence for success. " In *The Startup generation: Shaping futures through Psychology & Business*, edited by A. Narula, 118–132. Psychopedia Journals, National Press Associates. Available online at:<https://psychopediajournals.com/index.php/ijiap/article/view/753>
+Matjie, M. A. (2025). "The psychology of leadership: harnessing emotional intelligence for success. " In *The Startup generation: Shaping futures through Psychology & Business*, edited by A. Narula, 118–132. Psychopedia Journals, National Press Associates. Available online at:
 
 Mayer, J. D., Caruso, D. R., and Salovey, P. (2016). The ability model of emotional intelligence: principles and updates. *Emot. Rev.* 8, 290–300. doi: [10.1177/1754073916639667](https://doi.org/10.1177/1754073916639667)
 
@@ -584,7 +675,7 @@ Vaughan, F. (2002). What is spiritual intelligence? *J. Humanist. Psychol.* 42, 
 
 Visser, B. A., Ashton, M. C., and Vernon, P. A. (2006). Beyond g: putting multiple intelligences theory to the test. *Intelligence* 34, 487–502. doi: [10.1016/j.intell.2006.02.004](https://doi.org/10.1016/j.intell.2006.02.004)
 
-Wang, Z., and Liu, P., (2000). The influence of motivational factors, learning strategy, and the level of intelligence on the academic achievement of students. *Acta Psychol. Sin.*, 32:65. Available online at: <https://journal.psych.ac.cn/acps/EN/Y2000/V32/I01/65>
+Wang, Z., and Liu, P., (2000). The influence of motivational factors, learning strategy, and the level of intelligence on the academic achievement of students. *Acta Psychol. Sin.*, 32:65. Available online at: 
 
 Waterhouse, L. (2006). Multiple intelligences, the Mozart effect, and emotional intelligence: a critical review. *Educ. Psychol.* 41, 207–225. doi: [10.1207/](https://doi.org/10.1207/s15326985ep4104_1) [s15326985ep4104\\_1](https://doi.org/10.1207/s15326985ep4104_1)
 
@@ -612,7 +703,7 @@ Zhi, R., Wang, Y., and Wang, Y. (2024). The role of emotional intelligence and s
 
 Zhou, Z., Tavan, H., Kavarizadeh, F., Sarokhani, M., and Sayehmiri, K. (2024). The relationship between emotional intelligence, spiritual intelligence, and student achievement: a systematic review and meta-analysis. *BMC Med. Educ.* 24:217. doi: [10.1186/s12909-024-05208-5](https://doi.org/10.1186/s12909-024-05208-5)
 
-Zohar, D. (2005). "Spiritually intelligent leadership. " *Lead. Lead.* 38 45–51. Available online at:<http://ocw.knu.edu.tw/sysdata/doc/0/0615c5ca0e84309a/pdf.pdf>
+Zohar, D. (2005). "Spiritually intelligent leadership. " *Lead. Lead.* 38 45–51. Available online at:
 
 Zohar, D., and Marshall, I. (2004). *SQ: Connecting with our spiritual intelligence*. Bloomsbury Publishing.
 

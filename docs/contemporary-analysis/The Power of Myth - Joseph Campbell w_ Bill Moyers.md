@@ -1,3 +1,8 @@
+---
+title: "JOSEPH CAMPBELL"
+category: "contemporary-analysis"
+---
+
 # JOSEPH CAMPBELL
 
 # THE POWER OFMYTH
@@ -188,7 +193,7 @@ Greek and Latin and biblical literature used to be part of everyone's education.
 
 MOYERS: So we tell stories to try to come to terms with the world, to harmonize our lives with reality?
 
-CAMPBELL: I think so, yes. Novels -- great novels -- can be wonderfully instructive. In my twenties and thirties and even on into my forties, James Joyce and Thomas Mann were my teachers. I read everything they wrote. Both were writing in terms of what might be called the mythological traditions. Take, for example, the story of Tonio, in Thomas Mann's Tonio Kröger. Tonio's father was <sup>a</sup> substantial businessman, a major citizen in his hometown. Little Tonio, however, had an artistic temperament, so he moved to Munich and joined a group of literary people who felt themselves above the mere money earners and family men.
+CAMPBELL: I think so, yes. Novels -- great novels -- can be wonderfully instructive. In my twenties and thirties and even on into my forties, James Joyce and Thomas Mann were my teachers. I read everything they wrote. Both were writing in terms of what might be called the mythological traditions. Take, for example, the story of Tonio, in Thomas Mann's Tonio Kröger. Tonio's father was a substantial businessman, a major citizen in his hometown. Little Tonio, however, had an artistic temperament, so he moved to Munich and joined a group of literary people who felt themselves above the mere money earners and family men.
 
 So here is Tonio between two poles: his father, who was a good father, responsible and all of that, but who never did the thing he wanted to in all his life -- and, on the other hand, the one who leaves his hometown and becomes a critic of that kind of life. But Tonio found that he really loved these hometown people. And although he thought himself a little superior in an intellectual way to them and could describe them with cutting words, his heart was nevertheless with them.
 
@@ -2689,7 +2694,7 @@ CAMPBELL: Yes, how to help keep it going.
 
 MOYERS: I've always liked that image of life being breathed back into the dry bones, back into the ruins and the relics.
 
-CAMPBELL: There is a kind of secondary hero to revitalize the tradition. This hero reinterprets the tradition and makes it valid as a living experience today instead of <sup>a</sup> lot of outdated clichés. This has to be done with all traditions.
+CAMPBELL: There is a kind of secondary hero to revitalize the tradition. This hero reinterprets the tradition and makes it valid as a living experience today instead of a lot of outdated clichés. This has to be done with all traditions.
 
 MOYERS: So many of the religions began with their own hero stories. The whole of the Orient has been blessed with the teaching of the good law brought back by Buddha, and the Occident has been blessed by the laws Moses brought back from Sinai. The tribal or local heroes perform their deeds for a single folk, and universal heroes like Mohammed, Jesus, and Buddha bring the message from afar. These heroes of religion came back with the wonder of God, not with a blueprint of God.
 

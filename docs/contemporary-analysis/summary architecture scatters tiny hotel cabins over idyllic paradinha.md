@@ -1,3 +1,8 @@
+---
+title: "[designboom.com](https://www.designboom.com/architecture/summary-architecture-paradinha-cabins-portu"
+category: "contemporary-analysis"
+---
+
 [designboom.com](https://www.designboom.com/architecture/summary-architecture-paradinha-cabins-portugal-07-12-2022/)
 
 ## summary architecture scatters tiny hotel cabins over idyllic landscape of paradinha

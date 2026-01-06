@@ -1,13 +1,8 @@
 ---
-title: Union Violence in the United States Wikipedia
-date: 2025
-author: Wikipedia
-tags:
-  - organizing
-  - strikes
-  - unions
-  - rent
-  - police
+title: "Union Violence in the United States Wikipedia"
+author: "Wikipedia"
+date: "2025"
+category: "labor"
 ---
 
 # Union Violence in the United States Wikipedia

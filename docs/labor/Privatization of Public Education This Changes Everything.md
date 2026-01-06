@@ -1,3 +1,8 @@
+---
+title: "## **Privatization of Public Education: This Changes Everything**"
+category: "labor"
+---
+
 ## **Privatization of Public Education: This Changes Everything**
 
 | Date: Tue, 09/27/2016 - 17:51 |
@@ -8,7 +13,11 @@
 | - |
 | Educational Alchemy |
 | , January 16, 2016 |
-| "The process of taking on the corporate-state power nexus that underpins the extractive<br>economy is leading a great many people to face up to the underlying democratic crisis that<br>has allowed multinationals to be the authors of the laws under which they operate What is<br>a democracy if it doesn't encompass the capacity to decide, collectively, to protect something<br>that no one can live without" |
+| "The process of taking on the corporate-state power nexus that underpins the extractive
+economy is leading a great many people to face up to the underlying democratic crisis that
+has allowed multinationals to be the authors of the laws under which they operate What is
+a democracy if it doesn't encompass the capacity to decide, collectively, to protect something
+that no one can live without" |
 | ( |
 | Naomi Klein, |
 | This Changes Everything |
@@ -90,14 +99,19 @@ Reclaim it.
 
 ## I add, education challenge
 
-| ) will be fruitless unless it is understood as part of a much broader battle of world views, a<br>process of rebuilding and reinventing the very idea of the collective, the communal, the<br>commons, the civil, and the civic after so many decades of attack and neglect" (p. 460). |
+| ) will be fruitless unless it is understood as part of a much broader battle of world views, a
+process of rebuilding and reinventing the very idea of the collective, the communal, the
+commons, the civil, and the civic after so many decades of attack and neglect" (p. 460). |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | I'll conclude with Klein's own conclusion to the book ( |
 | with my own insertions in italics |
 | ): |
 | Because these moments… ( |
 | of crisis which create opportunities to seize change |
-| )… when the impossible seems suddenly possible are excruciatingly rare and precious. This<br>means we must make more of them. The next time one arises, it must be harnessed not only<br>to denounce the world as it is, and build fleeting pockets of liberated space. It must be the<br>catalyst to actually build the world |
+| )… when the impossible seems suddenly possible are excruciatingly rare and precious. This
+means we must make more of them. The next time one arises, it must be harnessed not only
+to denounce the world as it is, and build fleeting pockets of liberated space. It must be the
+catalyst to actually build the world |
 | (…and public education |
 | ) that will keep us all safe. The stakes are simply too high, and the time too short (… |
 | and our children and democracy matter too much |

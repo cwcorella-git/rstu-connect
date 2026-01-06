@@ -1,3 +1,8 @@
+---
+title: "## **Railroad Workers United Supports Public Ownership of the Rails**"
+category: "technology-digital-justice"
+---
+
 ## **Railroad Workers United Supports Public Ownership of the Rails**
 
 ## **Date:** Wed, 10/05/2022 - 00:00

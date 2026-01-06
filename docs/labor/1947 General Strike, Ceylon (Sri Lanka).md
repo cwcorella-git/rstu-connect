@@ -1,15 +1,10 @@
 ---
-title: 1947 General Strike Ceylon
-slug: '1947 General Strike, Ceylon (Sri Lanka)'
-reconversion_status: ready_for_reconversion
-date: 1958
-author: Global Nonviolent Action Database
-tags:
-  - labor
-  - strikes
-  - unions
-  - police
+title: "1947 General Strike Ceylon"
+author: "Global Nonviolent Action Database"
+date: "1958"
+category: "labor"
 ---
+
 ## **1947 General Strike, Ceylon (Sri Lanka)**
 
 ## **Date:** Unknown

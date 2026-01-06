@@ -1,3 +1,8 @@
+---
+title: "**Ivan Illich**"
+category: "feminist-theory"
+---
+
 # **Ivan Illich**
 
 # **Gender**

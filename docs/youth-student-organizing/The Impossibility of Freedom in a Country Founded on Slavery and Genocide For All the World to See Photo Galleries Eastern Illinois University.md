@@ -1,3 +1,8 @@
+---
+title: "## [thekeep.eiu.edu](https://thekeep.eiu.edu/civilrights_slavery_genocide/)"
+category: "youth-student-organizing"
+---
+
 ## [thekeep.eiu.edu](https://thekeep.eiu.edu/civilrights_slavery_genocide/)
 
 ## The Impossibility of Freedom in a Country Founded on Slavery and Genocide | For All the World to See: Photo Galleries

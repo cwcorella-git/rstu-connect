@@ -1,3 +1,8 @@
+---
+title: "**Racist Murder In America And The Bifurcation Of The Modern World System**"
+category: "contemporary-analysis"
+---
+
 # **Racist Murder In America And The Bifurcation Of The Modern World System**
 
 ## **Date:** Unknown

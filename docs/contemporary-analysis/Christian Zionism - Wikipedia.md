@@ -1,3 +1,8 @@
+---
+title: "**Christian Zionism**"
+category: "contemporary-analysis"
+---
+
 [en.wikipedia.org](https://en.wikipedia.org/wiki/Christian_Zionism)
 
 # **Christian Zionism**
@@ -168,7 +173,7 @@ Popular interest in Christian Zionism was given a boost around the year 2000 in 
 
 For most Christians [the City of God](https://en.wikipedia.org/wiki/The_City_of_God) [\(Psalm](https://en.wikipedia.org/wiki/Psalm) [46:4](https://en.wikisource.org/wiki/Bible_(King_James)/Psalms#46:4) [\(Septuagint:](https://en.wikipedia.org/wiki/Septuagint) [ΜΕ](https://en.wikisource.org/wiki/el:%CE%A8%CE%B1%CE%BB%CE%BC%CE%BF%CE%AF_%CF%84%CE%BF%CF%85_%CE%94%CE%B1%CF%85%CE%AF%CE%B4/%CE%9C%CE%95#p5):5): "ἡ πόλις τοῦ Θεοῦ", romanized: "hē pólis toũ theoũ", [lit.](https://en.wikipedia.org/wiki/Literal_translation)'the city of God') has nothing to do with [Jewish immigration to Israel](https://en.wikipedia.org/wiki/Aliyah) and the ongoing [Israeli–Palestinian conflict;](https://en.wikipedia.org/wiki/Israeli%E2%80%93Palestinian_conflict) instead, it predicts the [sack of Rome \(410\)](https://en.wikipedia.org/wiki/Sack_of_Rome_(410)) and it is cited in the [teaching of Saint](https://en.wikipedia.org/wiki/Teaching_of_Saint_Augustine_of_Hippo) [Augustine of Hippo.](https://en.wikipedia.org/wiki/Teaching_of_Saint_Augustine_of_Hippo) That is why neither [Eastern Orthodox](https://en.wikipedia.org/wiki/Eastern_Orthodox_Christians) [Christians](https://en.wikipedia.org/wiki/Eastern_Orthodox_Christians) nor traditional [Catholic Christians](https://en.wikipedia.org/wiki/Catholic_Church)[\[84\]](#page-45-3) did consider Zionism in any political form: "[The Eastern Orthodox Church
 
-[...] upheld a historic lack of emphasis on pilgrimage, insisting that the land of promise was not Palestine but the Kingdom of God. Thus, <u>Patriarch Ignatius IV</u>, head of the church in the Middle East, reiterated that the people were his concern in Jerusalem, not the stones."[85] Not a worldly kingdom, not an earthly Jerusalem is sought after, [2][7][8] but the focus is on the heavenly Jerusalem, [86] the kingdom of the <u>triune God</u>:[87]
+[...] upheld a historic lack of emphasis on pilgrimage, insisting that the land of promise was not Palestine but the Kingdom of God. Thus, Patriarch Ignatius IV, head of the church in the Middle East, reiterated that the people were his concern in Jerusalem, not the stones."[85] Not a worldly kingdom, not an earthly Jerusalem is sought after, [2][7][8] but the focus is on the heavenly Jerusalem, [86] the kingdom of the triune God:[87]
 
 At first you will see prayer as a ladder, then as a book which you read, and finally, as you advance further and further, you will see it as the heavenly Jerusalem, the city of the King of Hosts, Who is together with His Father — with Whom He is of one Essence — and with the venerable Holy Spirit.
 

@@ -1,13 +1,8 @@
 ---
-title: Socialist Labor Party Pamphlets
-date: 2025
-author: Unknown
-tags:
-  - organizing
-  - strikes
-  - unions
-  - police
-  - labor
+title: "Socialist Labor Party Pamphlets"
+author: "Unknown"
+date: "2025"
+category: "labor"
 ---
 
 # Socialist Labor Party Pamphlets

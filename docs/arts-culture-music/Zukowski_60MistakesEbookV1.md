@@ -1,3 +1,8 @@
+---
+title: "GUGAME MARKETING MISTAKES"
+category: "arts-culture-music"
+---
+
 ## ![](_page_0_Figure_0.jpeg)
 
 ## **CHRIS ZUKOWSKI**
@@ -353,7 +358,7 @@ Every Steam page has a link to the developer and the publisher. Clicking the lin
 
 ### Solution
 
-Ensure that you create a homepage for your studio and that the link on your game's page links to it. Stop giving more traffic to your publisher! For more information see <https://store.steampowered.com/publisher/>.
+Ensure that you create a homepage for your studio and that the link on your game's page links to it. Stop giving more traffic to your publisher! For more information see .
 
 # Mistake #15: Not translating your Steam page
 
@@ -828,7 +833,7 @@ Indies on a show floor cover their booth in merch and posters of their beautiful
 
 ### Solution
 
-Tell visitors right up front what your game is and what genre it is in. For instance, you might say "A <genre X> and <Genre Y> adventure" or "The most in-depth city builder ever created." If someone walks up to your booth say, "Here is our roguelike dungeon crawler." Don't be coy. Don't give them a lore dump. Just tell them the genre and the hook.
+Tell visitors right up front what your game is and what genre it is in. For instance, you might say "A  and  adventure" or "The most in-depth city builder ever created." If someone walks up to your booth say, "Here is our roguelike dungeon crawler." Don't be coy. Don't give them a lore dump. Just tell them the genre and the hook.
 
 # Mistake #56: Not having a demo that lets them play
 
@@ -884,7 +889,7 @@ People visited an indie developers booth, left their email information, traded b
 
 ### Solution
 
-After a conference, go through all the business cards you got and just send a quick email to say, "Hi, nice meeting you. I am the person making <game name>. Here is a link if you'd like to explore more."
+After a conference, go through all the business cards you got and just send a quick email to say, "Hi, nice meeting you. I am the person making . Here is a link if you'd like to explore more."
 
 If you put out an email signup sheet, on the day after the conference, send an email to them that wraps up how it went and a reminder to wishlist the game. If you met any journalists or influencers at your booth, email them thanking them for their time. Also follow them on social media and stay in touch.
 

@@ -1,3 +1,8 @@
+---
+title: "**Freetown Christiania**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Freetown_Christiania)
 
 # **Freetown Christiania**
@@ -8,11 +13,14 @@
 
 # **Freetown Christiania Fristaden Christiania (**[Danish](https://en.wikipedia.org/wiki/Danish_language)**)** [Micronation](https://en.wikipedia.org/wiki/Micronation) (unrecognised entity) **Location** [55°40](https://geohack.toolforge.org/geohack.php?pagename=Freetown_Christiania¶ms=55_40_25_N_12_35_59_E_type:city_region:DK)′25″[N](https://geohack.toolforge.org/geohack.php?pagename=Freetown_Christiania¶ms=55_40_25_N_12_35_59_E_type:city_region:DK) [12°35](https://geohack.toolforge.org/geohack.php?pagename=Freetown_Christiania¶ms=55_40_25_N_12_35_59_E_type:city_region:DK)′59″[E / 55.67361°N](https://geohack.toolforge.org/geohack.php?pagename=Freetown_Christiania¶ms=55_40_25_N_12_35_59_E_type:city_region:DK) [12.59972°E](https://geohack.toolforge.org/geohack.php?pagename=Freetown_Christiania¶ms=55_40_25_N_12_35_59_E_type:city_region:DK) **Area claimed** 34 hectares (0.34 km2)
 
-| Type | Anarchist commune/intentional<br>community under a consensus |
+| Type | Anarchist commune/intentional
+community under a consensus |
 |--------------------------------|--------------------------------------------------------------|
 | | democracy[1] |
-| Dates<br>claimed | 26 September 1971–present |
-## | Website<br>www.christiania.org | |
+| Dates
+claimed | 26 September 1971–present |
+## | Website
+www.christiania.org | |
 
 **Freetown Christiania** [\(Danish:](https://en.wikipedia.org/wiki/Danish_language) Fristaden Christiania), also known as **Christiania** or simply Staden, is an [intentional](https://en.wikipedia.org/wiki/Intentional_community) [community](https://en.wikipedia.org/wiki/Intentional_community) and [anarchist](https://en.wikipedia.org/wiki/Anarchism) [commune](https://en.wikipedia.org/wiki/Anarchist_communism) in the [Christianshavn](https://en.wikipedia.org/wiki/Christianshavn) neighbourhood of the Danish capital city of [Copenhagen.](https://en.wikipedia.org/wiki/Copenhagen) It began in 1971 as a [squatted](https://en.wikipedia.org/wiki/Squatting) military base. Its main selling street, Pusher Street, was famous for its open [illegal](https://en.wikipedia.org/wiki/Cannabis_in_Denmark) trade of [cannabis](https://en.wikipedia.org/wiki/Cannabis) until 2024, when a large portion of the trade was shut down in a collaborative effort between Danish police and the majority of the inhabitants[,\[2\]](#page-12-1) with the street being physically dug up[.\[3\]](#page-13-0)
 

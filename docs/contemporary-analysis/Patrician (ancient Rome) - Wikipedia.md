@@ -1,3 +1,8 @@
+---
+title: "**Patrician (ancient Rome)**"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_2.jpeg)
 
 # **Patrician (ancient Rome)**

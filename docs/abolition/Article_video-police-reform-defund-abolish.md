@@ -1,13 +1,8 @@
 ---
-title: Video Police Reform Defund Abolish
-date: 2025
-author: Unknown
-tags:
-  - organizing
-  - strikes
-  - housing
-  - rent
-  - police
+title: "Video Police Reform Defund Abolish"
+author: "Unknown"
+date: "2025"
+category: "abolition"
 ---
 
 # Video Police Reform Defund Abolish

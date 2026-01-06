@@ -1,3 +1,8 @@
+---
+title: "**Gramsci and Geography**"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_4.jpeg)
 
 # **Gramsci and Geography**

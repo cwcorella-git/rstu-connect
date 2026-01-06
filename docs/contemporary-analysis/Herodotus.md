@@ -1,3 +1,8 @@
+---
+title: "**Herodotus**"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 # **Herodotus**
@@ -168,7 +173,7 @@ a. [/h](https://en.wikipedia.org/wiki/Help:IPA/English)əˈrɒdətəs/ [\[1\]](#
 
 - 8. Cartledge, Paul (2002). *The Greeks : a portrait of self and others*. Oxford ; New York : Oxford University Press. p. 52.
 - 9. Waters, K. H. (1985). *Herodotos the Historian: His problems, methods and originality*. Tulsa: University of Oklahoma Press. ISBN 978-0-8061-1928-1.
-- 10. <u>Dandamaev, M. A.</u> (1989). *A Political History of the Achaemenid Empire*. Brill. p. 153. <u>ISBN 978-90-04-09172-6</u>. "The 'Father of History', Herodotus, was born at Halicarnassus, and before his emigration to mainland Greece was a subject of the Persian empire."
+- 10. Dandamaev, M. A. (1989). *A Political History of the Achaemenid Empire*. Brill. p. 153. ISBN 978-90-04-09172-6. "The 'Father of History', Herodotus, was born at Halicarnassus, and before his emigration to mainland Greece was a subject of the Persian empire."
 - 11. Kia, Mehrdad (2016). *The Persian Empire: A historical encyclopedia*. ABC-CLIO. p. 161. ISBN 978-1-61069-391-2. "At the time of Herodotus' birth southwestern Asia Minor, including Halicarnassus, was under Persian Achaemenid rule."
 - 12. "Histories of Herodotus" (https://ia804708.us.archive.org/30/items/historiesofherod00herorich/historiesofherod00herorich djvu.txt).
 - 13. Plutarch De Malign. Herod. II p. 862 A, cited by. [6]: Introduction
@@ -179,8 +184,8 @@ a. [/h](https://en.wikipedia.org/wiki/Help:IPA/English)əˈrɒdətəs/ [\[1\]](#
 - 18. Tzetzes *Chil.* 1.19, cited by. [6]:15
 - 19. Marcellinus, in Vita. Thucyd. p. ix, cited by. [6]:25
 - 20. "Herodotus" (http://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/herodotus). *Encyclopedia of World Biography*. The Gale Group. Retrieved 11 March 2018.
-- 21. Dewald, Carolyn, ed. (1998). *The Histories by Herodotus*. Translated by Waterfield, Robin. Oxford, UK: Oxford University Press. "Introduction", p. xviii. <u>ISBN 9780199535668</u>.
-- 22. ,<sup>[5]:23</sup> citing Dionysius *On Thucydides*
+- 21. Dewald, Carolyn, ed. (1998). *The Histories by Herodotus*. Translated by Waterfield, Robin. Oxford, UK: Oxford University Press. "Introduction", p. xviii. ISBN 9780199535668.
+- 22. ,[5]:23 citing Dionysius *On Thucydides*
 - 23. Pipes, David. "Herodotus: Father of History, Father of Lies" (http://www.loyno.edu/~history/journal/1998-9/Pipes.htm). Archived (https://web.archive.org/web/20080127105636/http://www.loyno.edu/history/journal/1998-9/Pipes.htm) from the original on 27 January 2008. Retrieved 16 November 2009.
 - 24. Tritle., Lawrence A. (2004). *The Peloponnesian War*. Greenwood Publishing Group. pp. 147–148.
 - 25. Hart, John (1982). Herodotus and Greek History. Taylor and Francis. p. 174.
@@ -283,4 +288,4 @@ a. [/h](https://en.wikipedia.org/wiki/Help:IPA/English)əˈrɒdətəs/ [\[1\]](#
 - ["Herodotus" \(https://en.wikisource.org/wiki/1911\\_Encyclop%C3%A6dia\\_Britannica/Herodot](https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Herodotus) [us\).](https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Herodotus) *[Encyclopædia Britannica](https://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica_Eleventh_Edition)*. Vol. 13 (11th ed.). 1911. pp. 381–384.
 - Mendelsohn, Daniel (28 April 2008). ["Arms and the Man" \(http://www.newyorker.com/arts/cri](http://www.newyorker.com/arts/critics/books/2008/04/28/080428crbo_books_mendelsohn) [tics/books/2008/04/28/080428crbo\\_books\\_mendelsohn\).](http://www.newyorker.com/arts/critics/books/2008/04/28/080428crbo_books_mendelsohn) *[The New Yorker](https://en.wikipedia.org/wiki/The_New_Yorker)*. Retrieved
 
-Retrieved from "<https://en.wikipedia.org/w/index.php?title=Herodotus&oldid=1323256447>"
+Retrieved from ""

@@ -1,3 +1,8 @@
+---
+title: "**The Educational enterprise in the Light of the Gospel**"
+category: "youth-student-organizing"
+---
+
 ## **Ivan Illich**
 
 # **The Educational enterprise in the Light of the Gospel**

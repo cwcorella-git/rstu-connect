@@ -1,3 +1,8 @@
+---
+title: "How Children Learn"
+category: "theory"
+---
+
 # How Children Learn
 
 # John Holt
@@ -1104,7 +1109,7 @@ A musical friend of mine, who just for the fun of it has taught himself (in midd
 
 It is ironical that China, a country vastly poorer than we are, should attach so much importance to children's art and devote so much energy and resources to it at the very same time that all over our country we are taking art--admittedly most of it not very good--out of our schools.
 
-<sup>\*</sup> 1982 Children's Art Calendar, Guoji Shudian ( China Publications Centre, P. O. Box 399. Beijing. People's Republic of China)
+\* 1982 Children's Art Calendar, Guoji Shudian ( China Publications Centre, P. O. Box 399. Beijing. People's Republic of China)
 
 At any rate, I will insist once again, and more strongly than before, that art is a very powerful and essential way for many children both to explore the world around (and inside) them and to express much of what they have learned and felt about it. It is not a "frill" but a central human activity and need, one we neglect at our peril.
 

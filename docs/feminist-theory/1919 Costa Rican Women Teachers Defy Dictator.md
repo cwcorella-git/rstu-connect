@@ -1,3 +1,8 @@
+---
+title: "## **1919: Costa Rican Women Teachers Defy Dictator**"
+category: "feminist-theory"
+---
+
 ## **1919: Costa Rican Women Teachers Defy Dictator**
 
 ## **Date:** Unknown

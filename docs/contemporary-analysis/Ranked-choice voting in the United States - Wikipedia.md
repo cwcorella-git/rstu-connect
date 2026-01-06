@@ -1,3 +1,8 @@
+---
+title: "**Ranked-choice voting in the United States**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Ranked-choice_voting_in_the_United_States)
 
 # **Ranked-choice voting in the United States**
@@ -108,28 +113,81 @@ According to Deb Otis, director of research and policy at [Fair Vote,](https://e
 
 ### California
 
-| Municipality | Office(s) | Date<br>Passed | Margin<br>Passed | First Use<br>Date |
+| Municipality | Office(s) | Date
+Passed | Margin
+Passed | First Use
+Date |
 |----------------------|-------------------------------------------------------------------------------------------|--------------------------------------------|--------------------|------------------------------------|
-| Berkeley[56] | Mayor,<br>auditor, and<br>city council | March 2,<br>2004 | 72% | November<br>2,<br>2010[57]<br>[58] |
-| Oakland[59] | Mayor, city<br>council, city<br>attorney,<br>city auditor,<br>and school<br>directors[60] | November<br>7, 2006 | 67% | November<br>2,<br>2010[57]<br>[58] |
-| Ojai[61] | City<br>council[62] | November<br>8, 2022 | 56%[63] | November<br>5, 2024<br>(Planned) |
-| San<br>Francisco[64] | All city<br>officials | March 5.<br>2002 | 55% | October<br>2004[65] |
-| San Leandro | Mayor and<br>city council | November<br>7, 2000<br>January<br>19, 2010 | 63%[66]<br>5-2[67] | November<br>2, 2010 |
-| Palm<br>Desert[68] | City council | May 14,<br>2020[69] | 5-0 | November<br>8, |
+| Berkeley[56] | Mayor,
+auditor, and
+city council | March 2,
+2004 | 72% | November
+2,
+2010[57]
+[58] |
+| Oakland[59] | Mayor, city
+council, city
+attorney,
+city auditor,
+and school
+directors[60] | November
+7, 2006 | 67% | November
+2,
+2010[57]
+[58] |
+| Ojai[61] | City
+council[62] | November
+8, 2022 | 56%[63] | November
+5, 2024
+(Planned) |
+| San
+Francisco[64] | All city
+officials | March 5.
+2002 | 55% | October
+2004[65] |
+| San Leandro | Mayor and
+city council | November
+7, 2000
+January
+19, 2010 | 63%[66]
+5-2[67] | November
+2, 2010 |
+| Palm
+Desert[68] | City council | May 14,
+2020[69] | 5-0 | November
+8, |
 
 | | | | | 2022[70] |
 |------------|---------------------------|---------------------|-----|------------------------------------------|
-| Eureka[71] | Mayor and<br>city council | November<br>3, 2020 | 63% | November<br>5, 2024<br>(Planned)<br>[72] |
+| Eureka[71] | Mayor and
+city council | November
+3, 2020 | 63% | November
+5, 2024
+(Planned)
+[72] |
 
 #### Colorado
 
-| Municipality | Office(s) | Date<br>Passed | Margin<br>Passed | First Use<br>Date |
+| Municipality | Office(s) | Date
+Passed | Margin
+Passed | First Use
+Date |
 |------------------|------------------------------|---------------------|------------------|-------------------------|
 | Basalt | Mayor | 2002[73] | — | 2004[74] |
-| Boulder[75] | Mayor | November<br>3, 2020 | 78% | November 7,<br>2023[76] |
-| Broomfield[77] | Mayor<br>and city<br>council | November<br>2, 2021 | 52% | November 7<br>2023 |
-| Carbondale[78] | — | April 29,<br>2003 | 80% | Yet to<br>implement[79] |
-| Fort Collins[80] | All city<br>officials | November<br>8, 2022 | 58% | 2025[81] |
+| Boulder[75] | Mayor | November
+3, 2020 | 78% | November 7,
+2023[76] |
+| Broomfield[77] | Mayor
+and city
+council | November
+2, 2021 | 52% | November 7
+2023 |
+| Carbondale[78] | — | April 29,
+2003 | 80% | Yet to
+implement[79] |
+| Fort Collins[80] | All city
+officials | November
+8, 2022 | 58% | 2025[81] |
 
 #### Illinois
 
@@ -137,21 +195,48 @@ According to Deb Otis, director of research and policy at [Fair Vote,](https://e
 |--------------|-----------|--------|--------|-----------|
 ## | | | Passed | Passed | Date |
 
-| Evanston | Mayor, city<br>council<br>and city<br>clerk | November<br>8, 2022[82] | 82% | April 1,<br>2025<br>(Planned) |
+| Evanston | Mayor, city
+council
+and city
+clerk | November
+8, 2022[82] | 82% | April 1,
+2025
+(Planned) |
 |----------|---------------------------------------------|-------------------------|-----|-------------------------------|
-| Oak Park | Village<br>President<br>and<br>Trustees | November<br>5, 2024[83] | 79% | April 2027<br>(Planned) |
+| Oak Park | Village
+President
+and
+Trustees | November
+5, 2024[83] | 79% | April 2027
+(Planned) |
 
 #### Maine
 
-| Municipality | Office(s) | Date<br>Passed | Margin<br>Passed | First Use<br>Date |
+| Municipality | Office(s) | Date
+Passed | Margin
+Passed | First Use
+Date |
 |---------------|------------------------------------|----------------------------|------------------|----------------------------|
-| Portland | Mayor | November<br>2,<br>2010[84] | 52% | November<br>8,<br>2011[85] |
-| | All other<br>city<br>officials[86] | March 3,<br>2020 | — | |
-| Westbrook[87] | All city<br>elections | November<br>2, 2021 | 63% | — |
+| Portland | Mayor | November
+2,
+2010[84] | 52% | November
+8,
+2011[85] |
+| | All other
+city
+officials[86] | March 3,
+2020 | — | |
+| Westbrook[87] | All city
+elections | November
+2, 2021 | 63% | — |
 
 #### Maryland
 
-| Municipality | Office(s) | Date<br>Passed | Margin<br>Passed | First<br>Use<br>Date |
+| Municipality | Office(s) | Date
+Passed | Margin
+Passed | First
+Use
+Date |
 |--------------|--------------|----------------|------------------|----------------------|
 | Takoma | Mayor and | November | 84% | January |
 | Park[88] | city council | 8, 2005 | | 30, |
@@ -159,35 +244,81 @@ According to Deb Otis, director of research and policy at [Fair Vote,](https://e
 
 | Massachusetts | | | | |
 |-----------------|------------------------------------------------------------------------------------------------------------------------|---------------------|------------------|-----------------------------------------------------|
-| Municipality | Office(s) | Date<br>Passed | Margin<br>Passed | First Use Date |
-| Easthampton[89] | Mayor and<br>city council | November<br>5, 2019 | 55% | November 2,<br>2021[90]<br>[better<br>source needed |
-| Amherst | Town<br>Council,<br>school<br>committee,<br>library<br>trustees<br>(using<br>multi<br>member<br>districts)<br>[91][92] | 2018 | | tbd*[93] |
+| Municipality | Office(s) | Date
+Passed | Margin
+Passed | First Use Date |
+| Easthampton[89] | Mayor and
+city council | November
+5, 2019 | 55% | November 2,
+2021[90]
+[better
+source needed |
+| Amherst | Town
+Council,
+school
+committee,
+library
+trustees
+(using
+multi
+member
+districts)
+[91][92] | 2018 | | tbd*[93] |
 
-## <sup>\*</sup>Requires state approval
+## \*Requires state approval
 
 #### Michigan
 
-| Municipality | Office(s) | Date<br>Passed | Margin<br>Passed | First<br>Use<br>Date |
+| Municipality | Office(s) | Date
+Passed | Margin
+Passed | First
+Use
+Date |
 |---------------------|------------------------------|----------------|------------------|----------------------|
 | Ann Arbor[94] | All city officials | 2021 | | tbd* |
-| East<br>Lansing[95] | Mayor, City<br>Commissioners | 2023 | 52.5% | tbd* |
+| East
+Lansing[95] | Mayor, City
+Commissioners | 2023 | 52.5% | tbd* |
 
 | | [96] | | | |
 |----------------|---------------------------------------|------|---------|------|
 | Ferndale | | 2004 | 68%[97] | tbd* |
-| Kalamazoo[98] | Mayor, City<br>Commissioners<br>[99] | 2023 | 71% | tbd* |
-| Royal Oak[100] | Mayor, City<br>Commissioners<br>[101] | 2023 | 50.5% | tbd* |
+| Kalamazoo[98] | Mayor, City
+Commissioners
+[99] | 2023 | 71% | tbd* |
+| Royal Oak[100] | Mayor, City
+Commissioners
+[101] | 2023 | 50.5% | tbd* |
 
-<sup>\*</sup>Would require state approval to be implemented
+\*Would require state approval to be implemented
 
 #### Minnesota
 
-| Municipality | Office(s) | Date<br>Passed | Margin<br>Passed | First Use<br>Date |
+| Municipality | Office(s) | Date
+Passed | Margin
+Passed | First Use
+Date |
 |------------------------|------------------------------|---------------------|------------------|-----------------------------|
-| Minneapolis | All city<br>officials | November<br>7, 2006 | 65%[102] | November<br>3,<br>2009[103] |
-| St. Louis<br>Park[104] | Mayor<br>and city<br>council | April 2018 | — | November<br>5 2019 |
-| Saint Paul[105] | Mayor<br>and city<br>council | November<br>4, 2009 | 52% | November<br>2011[106] |
-| Minnetonka[107] | Mayor<br>and city<br>council | November<br>3, 2020 | 55% | November<br>2021 |
+| Minneapolis | All city
+officials | November
+7, 2006 | 65%[102] | November
+3,
+2009[103] |
+| St. Louis
+Park[104] | Mayor
+and city
+council | April 2018 | — | November
+5 2019 |
+| Saint Paul[105] | Mayor
+and city
+council | November
+4, 2009 | 52% | November
+2011[106] |
+| Minnetonka[107] | Mayor
+and city
+council | November
+3, 2020 | 55% | November
+2021 |
 
 | Bloomington, | Mayor | November | 51%[108] | November |
 |---------------|----------|----------|----------|-----------|
@@ -196,17 +327,41 @@ According to Deb Otis, director of research and policy at [Fair Vote,](https://e
 
 #### New Mexico
 
-| Municipality | Office(s) | Date<br>Passed | Margin<br>Passed | First Use<br>Date |
+| Municipality | Office(s) | Date
+Passed | Margin
+Passed | First Use
+Date |
 |--------------------|---------------------------|------------------|------------------|-----------------------|
-| Santa Fe[110] | Mayor and<br>city council | March 4,<br>2008 | 65% | March 6,<br>2018[111] |
-| Las<br>Cruces[112] | Mayor and<br>city council | June<br>2018 | 6-0 | November<br>5, 2019 |
+| Santa Fe[110] | Mayor and
+city council | March 4,
+2008 | 65% | March 6,
+2018[111] |
+| Las
+Cruces[112] | Mayor and
+city council | June
+2018 | 6-0 | November
+5, 2019 |
 
 #### New York
 
-| Municipality | Office(s) | Date<br>Passed | Margin<br>Passed | First<br>Use<br>Date |
+| Municipality | Office(s) | Date
+Passed | Margin
+Passed | First
+Use
+Date |
 |----------------------------|------------------------------------------------------------------------|---------------------|------------------|-----------------------------|
-| New York<br>City[113][114] | Mayor,<br>public<br>advocate,<br>comptroller,<br>borough<br>president, | November<br>5, 2019 | 73% | February<br>2,<br>2021[115] |
-| | and city<br>council | | | |
+| New York
+City[113][114] | Mayor,
+public
+advocate,
+comptroller,
+borough
+president, | November
+5, 2019 | 73% | February
+2,
+2021[115] |
+| | and city
+council | | | |
 
 ## ![](_page_14_Picture_7.jpeg)
 
@@ -234,12 +389,31 @@ A ranked choice ballot for [Portland, Oregon's](https://en.wikipedia.org/wiki/Po
 
 #### Oregon
 
-| Municipality | Office(s) | Date<br>Passed | Margin<br>Passed | First Use<br>Date |
+| Municipality | Office(s) | Date
+Passed | Margin
+Passed | First Use
+Date |
 |--------------------------|----------------------------|---------------------|------------------|-----------------------------|
-| Benton<br>County[116] | All county<br>officials | November<br>8, 2016 | 54% | November<br>3,<br>2020[117] |
-| Corvallis | All city<br>officials[118] | January<br>19, 2022 | 9-0[119] | November<br>8,<br>2022[120] |
-| Multnomah<br>County[121] | All county<br>officials | November<br>8, 2022 | 67% | 2026 |
-| Portland[122]<br>[123] | Mayor and<br>auditor | November<br>8, 2022 | — | November<br>5, 2024 |
+| Benton
+County[116] | All county
+officials | November
+8, 2016 | 54% | November
+3,
+2020[117] |
+| Corvallis | All city
+officials[118] | January
+19, 2022 | 9-0[119] | November
+8,
+2022[120] |
+| Multnomah
+County[121] | All county
+officials | November
+8, 2022 | 67% | 2026 |
+| Portland[122]
+[123] | Mayor and
+auditor | November
+8, 2022 | — | November
+5, 2024 |
 
 In 2018, Utah passed a law allowing municipalities to opt in to a temporary [instant runoff](https://en.wikipedia.org/wiki/Instant-runoff_voting) trial, the Municipal Alternative Voting Methods Pilot Project, starting with the 2019 municipal elections and ending with the 2025 elections[.\[124\]](#page-48-6)[\[125\]](#page-48-7)
 
@@ -252,36 +426,57 @@ In 2018, Utah passed a law allowing municipalities to opt in to a temporary [ins
 | Vineyard[126][127] | — | 2019-2023 |
 |------------------------------|--------------------------------|-----------|
 | Payson[126][127] | — | 2019-2023 |
-| Salt Lake City[126]<br>[127] | — | 2021-2023 |
+| Salt Lake City[126]
+[127] | — | 2021-2023 |
 | Springville[128] | — | 2021 |
 | Draper[126] | — | 2021 |
 | Lehi[126][127] | — | 2021-2023 |
 | Riverton[126] | — | 2021 |
 | Goshen[126] | — | 2021 |
 | Newton[126] | Town council[129] | 2021 |
-| Woodland<br>Hills[126][127] | — | 2021-2023 |
-| Heber City[126]<br>[127] | Mayor and city<br>council[130] | 2021-2023 |
-| Moab[131] | Mayor and city<br>council[132] | 2021 |
+| Woodland
+Hills[126][127] | — | 2021-2023 |
+| Heber City[126]
+[127] | Mayor and city
+council[130] | 2021-2023 |
+| Moab[131] | Mayor and city
+council[132] | 2021 |
 | Genola[127][128] | — | 2021-2023 |
 | Sandy[128] | — | 2021 |
-## | South Salt<br>Lake[127] | — | 2021-2023 |
+## | South Salt
+Lake[127] | — | 2021-2023 |
 
 | Magna[127] | — | 2021-2023 |
 |-----------------------|-------------------------------------|-----------|
 | Bluffdale | — | 2021 |
-| Nibley | Mayor and city<br>council[133][134] | 2021 |
+| Nibley | Mayor and city
+council[133][134] | 2021 |
 | Millcreek[127] | — | 2021-2023 |
 | River Heights | City council[135] | 2021 |
-| Cottonwood<br>Heights | — | 2021 |
+| Cottonwood
+Heights | — | 2021 |
 | Midvale[127] | — | 2021-2023 |
 ## | Kearns[127] | — | 2023 |
 
 #### Vermont
 
-| Municipality | Office(s) | Date<br>Passed | Margin<br>Passed | First<br>Use<br>Date |
+| Municipality | Office(s) | Date
+Passed | Margin
+Passed | First
+Use
+Date |
 |--------------|------------------------------------------------------------------------------------------|------------------|------------------|----------------------|
-| Burlington | City<br>Council[136]<br>[137] | March<br>2, 2021 | 64% | 2022[138] |
-| | Mayor, city<br>councilors,<br>school<br>commissioners,<br>ward Clerks,<br>and inspectors | March<br>2023 | 64% | 2024[140] |
+| Burlington | City
+Council[136]
+[137] | March
+2, 2021 | 64% | 2022[138] |
+| | Mayor, city
+councilors,
+school
+commissioners,
+ward Clerks,
+and inspectors | March
+2023 | 64% | 2024[140] |
 
 | | of election[139] | | | | |
 |--|------------------|--|--|--|--|
@@ -291,7 +486,11 @@ The Virginia legislature passed a bill in 2020 providing a local option for muni
 
 ### Virginia
 
-| Municipality | Office(s) | Date<br>Passed | Margin<br>Passed | First<br>Use<br>Date |
+| Municipality | Office(s) | Date
+Passed | Margin
+Passed | First
+Use
+Date |
 |--------------|-----------|----------------|------------------|----------------------|
 | Arlington | County | December | — | June |
 | County[142] | Board | 2022 | | 20, |
@@ -352,18 +551,51 @@ Some jurisdictions have adopted the [single transferable vote,](https://en.wikip
 
 | Local Governments using single transferable vote | | | | |
 |--------------------------------------------------|-----------------------------------------|-----------------------|------------------|--------------------------|
-| Local<br>Government | Office(s) | Date<br>Passed | Margin<br>Passed | First Use |
-| Arden, Delaware | Board of<br>Assessors[160] | 1912[161] | — | — |
-| Cambridge,<br>Massachusetts[124] | City council<br>and school<br>committee | — | — | 1941 |
-| Minneapolis,<br>Minnesota | Park<br>Board[103] | November<br>7th, 2006 | 65%[102] | November<br>3, 2009 |
-| Eastpointe,<br>Michigan[162][163] | City Council | June 5,<br>2019 | — | 2019 |
-| Albany, California | City Council<br>and School<br>Board[60] | November<br>3rd, 2020 | 73%[164] | November<br>8th,<br>2022 |
-| Portland,<br>Maine[165] | All multi-seat<br>offices[166] | November<br>8th, 2022 | 63% | — |
+| Local
+Government | Office(s) | Date
+Passed | Margin
+Passed | First Use |
+| Arden, Delaware | Board of
+Assessors[160] | 1912[161] | — | — |
+| Cambridge,
+Massachusetts[124] | City council
+and school
+committee | — | — | 1941 |
+| Minneapolis,
+Minnesota | Park
+Board[103] | November
+7th, 2006 | 65%[102] | November
+3, 2009 |
+| Eastpointe,
+Michigan[162][163] | City Council | June 5,
+2019 | — | 2019 |
+| Albany, California | City Council
+and School
+Board[60] | November
+3rd, 2020 | 73%[164] | November
+8th,
+2022 |
+| Portland,
+Maine[165] | All multi-seat
+offices[166] | November
+8th, 2022 | 63% | — |
 
-| Portland,<br>Oregon[122][123] | City<br>commissioner | November<br>8, 2022 | 58% | November<br>4th, 2024 |
+| Portland,
+Oregon[122][123] | City
+commissioner | November
+8, 2022 | 58% | November
+4th, 2024 |
 |---------------------------------------------|-----------------------------------------|-----------------------|-----|-----------------------|
-| Arlington<br>County[142] | County Board | December<br>2022 | — | June 20,<br>2023 |
-| Easthampton,<br>Massachusetts[167]<br>[168] | City council<br>and school<br>committee | November<br>7th, 2023 | 62% | 2025 |
+| Arlington
+County[142] | County Board | December
+2022 | — | June 20,
+2023 |
+| Easthampton,
+Massachusetts[167]
+[168] | City council
+and school
+committee | November
+7th, 2023 | 62% | 2025 |
 
 The Virginia legislature passed a bill in 2020 allowing for local governing bodies to adopt the single transferable vote through 2031[.\[141\]](#page-50-0)
 
@@ -385,7 +617,7 @@ Between 1912 and 1930, limited forms of ranked-choice voting were implemented an
 
 Indiana, Maryland, Minnesota, and Wisconsin. [citation needed] In the 1970s, it was implemented in Ann Arbor, Michigan, but quickly repealed after only a single election. [183] More recently, it was adopted and repealed in Pierce County, Washington (2006–2009); [184] Burlington, Vermont (2005–2010); [11] and Aspen, Colorado (2007–2010). [10] It has since been reinstated in Burlington, [185] and Ann Arbor residents voted to reinstate it as well, with that use likely needing approval from Michigan's state legislature. [186]
 
-Aspen, Colorado<sup>[73]</sup> passed ranked-choice voting in November 2007<sup>[187]</sup> for the mayoral race and for at-large council races with two winners. In March 2009, the Aspen council adopted a unique variation of RCV for the council races.<sup>[188]</sup> A block voting tally based on the first and second rank choices was used to determine first round support. Any candidate with initial majority support was elected. If there were not two first-round winners, there was a batch elimination of low-placing candidates to reduce the number of continuing candidates before the instant runoff. In the latter case, separate rounds of ranked-choice counting would be conducted for each council seat, with the winner of the first seat eliminated from the race for the second seat.
+Aspen, Colorado[73] passed ranked-choice voting in November 2007[187] for the mayoral race and for at-large council races with two winners. In March 2009, the Aspen council adopted a unique variation of RCV for the council races.[188] A block voting tally based on the first and second rank choices was used to determine first round support. Any candidate with initial majority support was elected. If there were not two first-round winners, there was a batch elimination of low-placing candidates to reduce the number of continuing candidates before the instant runoff. In the latter case, separate rounds of ranked-choice counting would be conducted for each council seat, with the winner of the first seat eliminated from the race for the second seat.
 
 Aspen's first elections with RCV and the new city council system were on May 5, 2009. The number of voters was the highest in the history of Aspen elections. [189] Mick Ireland was re-elected as mayor in the fourth round of a four-candidate race. Both city council incumbents were defeated in the two-
 
@@ -431,7 +663,12 @@ In October 2007, the city of [Cary, North Carolina](https://en.wikipedia.org/wik
 
 | Don Frantz | 1151 | (38.1%) | 1401 | (46.4%) | |
 |-------------------|------|---------|------------------------------------------|---------|--|
-| Vickie Maxwell | 1075 | (35.6%) | 1353<br>(44.8%)<br><br><br>268<br>(8.9%) | | |
+| Vickie Maxwell | 1075 | (35.6%) | 1353
+(44.8%)
+
+
+268
+(8.9%) | | |
 | Nels Roseland | 793 | (26.2%) | | | |
 | Other | 3 | (0.0%) | | | |
 | Exhausted ballots | | | | | |

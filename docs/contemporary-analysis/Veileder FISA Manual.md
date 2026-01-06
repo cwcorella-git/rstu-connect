@@ -1,3 +1,8 @@
+---
+title: "**FISA Manual**"
+category: "contemporary-analysis"
+---
+
 # **FISA Manual**
 
 ## ![](_page_0_Picture_1.jpeg)
@@ -17,8 +22,16 @@
 | A.2.2. THE FISA MANUAl | 4 |
 | A.2.3. BID UNDERTAKING AND EVENT AGREEMENT | 5 |
 | A.3. Financial & Commercial ASPECTs | 6 |
-| A.3.1. BUDGETS<br>A.3.1.1. Foreign Exchange Risk | 6<br>6 |
-| A.3.2. Organising Committee INSURANCe<br>A.3.2.1. Civil Liability Insurance<br>A.3.2.2. Indemnity<br>A.3.2.3. Cancellation Insurance Cover | 7<br>7<br>7<br>7 |
+| A.3.1. BUDGETS
+A.3.1.1. Foreign Exchange Risk | 6
+6 |
+| A.3.2. Organising Committee INSURANCe
+A.3.2.1. Civil Liability Insurance
+A.3.2.2. Indemnity
+A.3.2.3. Cancellation Insurance Cover | 7
+7
+7
+7 |
 | A.3.3. GuaranteeS | 7 |
 | A.3.4. COMMERCIAL RIGHTS | 7 |
 | A.4. THE Organising Committee AND fisa | 8 |
@@ -31,7 +44,8 @@
 | A.5.2. PROMOTIONS AND MEDIA PLANS | 10 |
 | A.6. Environmental Good Practice | 11 |
 | Appendix A : Hosting a World Championships | |
-| Section B : The venue -<br>facilities & operations | |
+| Section B : The venue -
+facilities & operations | |
 | B.1. INTRODUCTion | 2 |
 ## | B.1.1. planning and design | 2 |
 
@@ -57,7 +71,17 @@
 | B.5.3. RESULTS LISTS AND START LISTS | 29 |
 | B.5.4. DISTRIBUTION Service | 29 |
 | B.5.5. Score & Video boardS | 31 |
-| B.5.6. Communications at the Course<br>B.5.6.1. Telephones<br>B.5.6.2. WALKIE TALKIES (Radios)<br>B.5.6.3. Intercom System<br>B.5.6.4. Cell Phones<br>B.5.6.5. Internet | 32<br>32<br>34<br>34<br>35<br>35 |
+| B.5.6. Communications at the Course
+B.5.6.1. Telephones
+B.5.6.2. WALKIE TALKIES (Radios)
+B.5.6.3. Intercom System
+B.5.6.4. Cell Phones
+B.5.6.5. Internet | 32
+32
+34
+34
+35
+35 |
 | B.6. MOTOR BOATs | 36 |
 | B.6.1. Umpires' CATAMARANS | 36 |
 | B.6.2. TELEVISION CATAMARANS | 36 |
@@ -79,9 +103,23 @@
 | B.7.8. BOAT WEIGHING | 49 |
 | B.7.9. Adaptive Classification AREA | 50 |
 | B.7.10. ERGOMETERS | 51 |
-| B.7.11. BOAT REPAIR AND BOAT WASHIng<br>B.7.11.1. Boat Repair<br>B.7.11.2. Major Repairs<br>B.7.11.3. Boat Washing | 51<br>51<br>52<br>52 |
+| B.7.11. BOAT REPAIR AND BOAT WASHIng
+B.7.11.1. Boat Repair
+B.7.11.2. Major Repairs
+B.7.11.3. Boat Washing | 51
+51
+52
+52 |
 | B.7.12. Information Centre | 52 |
-| B.7.13. REST AND RELAXATION AREAS<br>B.7.13.1. Rest Areas<br>B.7.13.2. Hospitality Area<br>B.7.13.3. Athlete Lounge<br>B.7.14. COACHES VIEWIng | 53<br>53<br>54<br>54<br>54 |
+| B.7.13. REST AND RELAXATION AREAS
+B.7.13.1. Rest Areas
+B.7.13.2. Hospitality Area
+B.7.13.3. Athlete Lounge
+B.7.14. COACHES VIEWIng | 53
+53
+54
+54
+54 |
 | B.8. OFFICES AND MEETING rooms | 55 |
 | B.8.1. MEETING ROOMS | 55 |
 | B.8.2. THE DRAW | 55 |
@@ -92,7 +130,11 @@
 | B.9.1. GENERAl | 58 |
 | B.9.2. MEDICAL CENTre | 58 |
 | B.9.3. DOPING CONTrol | 59 |
-| B.9.4. PHYSIOTHERAPY AND MASSAge<br>B.9.4.1. Physiotherapy<br>B.9.4.2. Massage | 60<br>60<br>60 |
+| B.9.4. PHYSIOTHERAPY AND MASSAge
+B.9.4.1. Physiotherapy
+B.9.4.2. Massage | 60
+60
+60 |
 | B.9.5. FIRST AID | 61 |
 | B.9.6. AMBULANCES | 61 |
 | B.9.7. Lifesaving and Safety | 61 |
@@ -122,13 +164,18 @@
 | B.12.8. Postal serviceS | 77 |
 | B.13. HOSPITALITY FACILITIES | 78 |
 | B.14. Merchandising AND EXHIBITIONS | 80 |
-| Appendix B : The venue -<br>facilities & operations<br>Section C : Event operations | |
+| Appendix B : The venue -
+facilities & operations
+Section C : Event operations | |
 | | 2 |
-| C.1. EVENT programme<br>C.1.1. TimelineS | 2 |
+| C.1. EVENT programme
+C.1.1. TimelineS | 2 |
 | C.1.2. EVENT PROGRAMMe | 2 |
 | | |
 | C.2. Publications | 5 |
-| C.2.1. Organising Committee PUBLICATIONS<br>C.2.1.1. Bulletins | 5<br>5 |
+| C.2.1. Organising Committee PUBLICATIONS
+C.2.1.1. Bulletins | 5
+5 |
 | C.2.1.2. Team Managers' Information | 5 |
 | C.2.1.3. Souvenir Programme | 6 |
 | C.2.2. FISA INFORMATION BULLETIn | 6 |
@@ -137,7 +184,11 @@
 | C.3. MEDIA INFORMATion | 7 |
 |------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|
 | C.4. ENTRIES and ACCREDITATion | 8 |
-| C.4.1. Entries and Provisional Time Table<br>C.4.1.1. Before The Championships<br>C.4.1.2. At The Championships | 8<br>8<br>8 |
+| C.4.1. Entries and Provisional Time Table
+C.4.1.1. Before The Championships
+C.4.1.2. At The Championships | 8
+8
+8 |
 | C.4.2. CREW PHOTOGRAPHS AND Athlete'S REGISTRATIon | 9 |
 | C.4.3. ACCREDITATIon | 9 |
 | C.5. RACE ORGANISATion | 12 |
@@ -150,7 +201,17 @@
 | C.5.7. Organising Committee Officials - DUTIES ON RACE DAYS | 16 |
 | C.6. SECURITY | 17 |
 | C.7. OFFICIAL CEREMONIES AND SOCIAL EVENTs | 18 |
-| C.7.1. CEREMONIES<br>C.7.1.1. General<br>C.7.1.2. Opening Ceremony<br>C.7.1.3. Victory Ceremony<br>C.7.1.4. Closing Ceremony<br>C.7.2. SOCIAL EVENTS | 18<br>18<br>18<br>19<br>20<br>21 |
+| C.7.1. CEREMONIES
+C.7.1.1. General
+C.7.1.2. Opening Ceremony
+C.7.1.3. Victory Ceremony
+C.7.1.4. Closing Ceremony
+C.7.2. SOCIAL EVENTS | 18
+18
+18
+19
+20
+21 |
 | Appendix C : Event operations | |
 | Section D : Logistical aspects | |
 | D.1. ACCOMMODATION | 2 |
@@ -173,13 +234,35 @@
 | D.2.6. MEDIA | 8 |
 | D.2.7. SpectatorS | 8 |
 | D.3. TRANSPORTATION AND PARKING SERVICes | 9 |
-| D.3.1. TEAMS<br>D.3.1.1. General<br>D.3.1.2. Team Travel - International Arrival<br>D.3.1.3. Team Travel To The Venue - Official Bus Service<br>D.3.1.4. Team Travel To The Venue - Private Vehicles<br>D.3.1.5. Traffic Control<br>D.3.1.6. Trailers | 9<br>9<br>9<br>9<br>10<br>11<br>11 |
+| D.3.1. TEAMS
+D.3.1.1. General
+D.3.1.2. Team Travel - International Arrival
+D.3.1.3. Team Travel To The Venue - Official Bus Service
+D.3.1.4. Team Travel To The Venue - Private Vehicles
+D.3.1.5. Traffic Control
+D.3.1.6. Trailers | 9
+9
+9
+9
+10
+11
+11 |
 | D.3.2. NF DELEGATES and GueSTS | 11 |
-| D.3.3. FISA AND JURY TRANSPORTATIon<br>D.3.3.1. Transportation<br>D.3.3.2. Parking And Access | 11<br>11<br>12 |
+| D.3.3. FISA AND JURY TRANSPORTATIon
+D.3.3.1. Transportation
+D.3.3.2. Parking And Access | 11
+11
+12 |
 | D.3.4. VIPs AND SPONSORS | 12 |
 | D.3.5. Organising Committee OfficialS | 12 |
 | D.3.6. MEDIA | 12 |
-| D.3.7. SpectatorS<br>D.3.7.1. Spectator Access To The Venue<br>D.3.7.2. Spectator Drop Off And Bus Parking Area<br>D.3.7.3. Traffic Control And Parking | 13<br>13<br>13<br>13 |
+| D.3.7. SpectatorS
+D.3.7.1. Spectator Access To The Venue
+D.3.7.2. Spectator Drop Off And Bus Parking Area
+D.3.7.3. Traffic Control And Parking | 13
+13
+13
+13 |
 | D.4. DEVELOPMENT programme | 14 |
 | D.4.1. ACCOMMODATIon | 14 |
 | D.4.2. ADVANCE INFORMATIon | 14 |
@@ -188,7 +271,17 @@
 | Section E : The FISA Congress | |
 | E.1.1. GENERAL INFORMATIon | 2 |
 | E.1.2. PROCEDUre | 2 |
-| E.1.3. PREPARATION BEFORE THE CONGRESS<br>E.1.3.1. The Congress Room<br>E.1.3.2. Facilities adjacent to the Congress Room<br>E.1.3.3. Participants<br>E.1.3.4. Accommodation<br>E.1.3.5. Accreditation | 3<br>3<br>4<br>4<br>5<br>5 |
+| E.1.3. PREPARATION BEFORE THE CONGRESS
+E.1.3.1. The Congress Room
+E.1.3.2. Facilities adjacent to the Congress Room
+E.1.3.3. Participants
+E.1.3.4. Accommodation
+E.1.3.5. Accreditation | 3
+3
+4
+4
+5
+5 |
 ## | E.1.3.6. Security | 6 |
 
 | E.1.4. Congress FACILITIES | 6 |
@@ -451,11 +544,15 @@ For more details on FISA's environmental sustainability policies and guidelines 
 
 | | | Provisional Operating Budget | | |
 |------|--------------------------------|------------------------------|---------------------|------------------------------------------------------------------------------------------------------------------------|
-| | Income and Expense | INCOME<br>in euros | EXPENSE<br>in euros | Comments |
+| | Income and Expense | INCOME
+in euros | EXPENSE
+in euros | Comments |
 | | SECTION A. GENERAL INFORMATION | | | |
 | | OC personnel | | 0.00 | |
 | | OC Travel | | 0.00 | |
-| G1.1 | FISA Visits - within Europe* | | 0.00 | Up to 12 visits before the event - cost of<br>flights (accommodation and meals to be<br>covered separately by the OC). |
+| G1.1 | FISA Visits - within Europe* | | 0.00 | Up to 12 visits before the event - cost of
+flights (accommodation and meals to be
+covered separately by the OC). |
 | | Other | | 0.00 | |
 ## | | | | | |
 
@@ -467,7 +564,8 @@ For more details on FISA's environmental sustainability policies and guidelines 
 | B3 The Course | | | |
 | B3.2 | Warming up, Cooling down area | 0.00 | Swimming lines, big buoys, anchors |
 | B3.4 | Albano system | 0.00 | Buoys, wires, anchors |
-| B3.5 | Advertising fixing | 0.00 | 8mm wire along the course, anchors, cross<br>wires |
+| B3.5 | Advertising fixing | 0.00 | 8mm wire along the course, anchors, cross
+wires |
 | | Course signs | 0.00 | |
 | | Other | 0.00 | |
 | | B4 Regatta Facilities | | |
@@ -479,13 +577,16 @@ For more details on FISA's environmental sustainability policies and guidelines 
 | B4.5 | Finish Tower | 0.00 | |
 | | Timing cabling | 0.00 | |
 | | Other | 0.00 | |
-| B4.6-10 | Pontoons in Finish Area | 0.00 | Victory Ceremony, motorboats, rescue, TV<br>work pontoon |
+| B4.6-10 | Pontoons in Finish Area | 0.00 | Victory Ceremony, motorboats, rescue, TV
+work pontoon |
 | B4.11 | Public address | 0.00 | |
 | B4.12 | Local presentation | 0.00 | Local commentators & announcer |
-| G1.1 | Sports presentation service* | 0.00 | Costs of FISA Presentation Team (fees and<br>travel costs) |
+| G1.1 | Sports presentation service* | 0.00 | Costs of FISA Presentation Team (fees and
+travel costs) |
 | | Other | 0.00 | |
 | B5 Technology | | | |
-| B5 | Results & Data Service* | 0.00 | Provided by the FISA contract partner<br>(includes equipment) |
+| B5 | Results & Data Service* | 0.00 | Provided by the FISA contract partner
+(includes equipment) |
 | B5.1 | Photocopying Service | 0.00 | |
 | B5.2 | Athletes' scoreboard | 0.00 | 3 rows, If applicable |
 | B5.3 | Video board | 0.00 | |
@@ -521,7 +622,8 @@ For more details on FISA's environmental sustainability policies and guidelines 
 | B7.8 | Boat weighing | 0.00 | |
 | B7.9 | Adaptive classification | 0.00 | |
 | B7.10 | Ergometers | 0.00 | |
-| B7.11 | Boat repair & boat builders | 0.00 | Serviced space (with electricity supply) for at<br>least 6 boatbuilders |
+| B7.11 | Boat repair & boat builders | 0.00 | Serviced space (with electricity supply) for at
+least 6 boatbuilders |
 | B7.12 | Boat washing | 0.00 | |
 | | | | |
 | B7.13 | Welcome and Information Centre | 0.00 | At the airport (train station) and at the venue |
@@ -541,7 +643,8 @@ For more details on FISA's environmental sustainability policies and guidelines 
 | | B9 Medical Facilities/Services | | |
 | B9.1 | Medical Centre and Services | 0.00 | Medical Centre, ambulances, access to |
 | | | | hospitals |
-| B9.2 | Doping Control Centre and Testing costs | 0.00 | Estimated cost of testing, transport of samples<br>and analysis at WADA-approved laboratory |
+| B9.2 | Doping Control Centre and Testing costs | 0.00 | Estimated cost of testing, transport of samples
+and analysis at WADA-approved laboratory |
 | B9.3 | Massage Area | 0.00 | |
 | B9.4 | First aid | 0.00 | |
 | B9.5 | Ambulances | 0.00 | |
@@ -549,7 +652,10 @@ For more details on FISA's environmental sustainability policies and guidelines 
 | | Other | 0.00 | |
 | | B10 Written media | | |
 | | | | |
-| B10.1<br>B10.2 | Media Centre<br>Press Operations | 0.00<br>0.00 | |
+| B10.1
+B10.2 | Media Centre
+Press Operations | 0.00
+0.00 | |
 | | | | |
 | B10.3 | Press copy centre | 0.00 | |
 | B10.4 | | | |
@@ -561,14 +667,21 @@ For more details on FISA's environmental sustainability policies and guidelines 
 | | Cost of host broadcast | 0.00 | |
 | | TV compound | 0.00 | |
 | | Commentary positions | 0.00 | |
-| B11.1<br>B11.2<br>B11.3<br>B11.4 | Closed Circuit TV production | 0.00 | |
+| B11.1
+B11.2
+B11.3
+B11.4 | Closed Circuit TV production | 0.00 | |
 | | | | |
 | | TV monitors | 0.00 | |
 | | B12 Spectators Facilities and Services | | |
 | | Grandstands | | |
-| B11.5<br>B12.1-3 | Construction of Permanent Grandstands | 0.00 | |
+| B11.5
+B12.1-3 | Construction of Permanent Grandstands | 0.00 | |
 | | Rental of Grandstands | 0.00 | |
-| B12.4<br>B12.5 | Food & beverage services<br>Information service | 0.00<br>0.00 | |
+| B12.4
+B12.5 | Food & beverage services
+Information service | 0.00
+0.00 | |
 
 | B12.7 | Sanitary facilities | 0.00 | |
 |-------------------|-----------------------------------------|------|------------------------------------------------------------|
@@ -579,7 +692,8 @@ For more details on FISA's environmental sustainability policies and guidelines 
 | B13.1-2 | VIP facilities | 0.00 | Facilities |
 | | VIP services | 0.00 | Catering, other services |
 | | B14 Environmental Sustainability | | |
-| B14.1-3 | Environmental sustainability costs | 0.00 | EMS, consultation fees, water and air quality<br>measuring |
+| B14.1-3 | Environmental sustainability costs | 0.00 | EMS, consultation fees, water and air quality
+measuring |
 ## | Venue - Sub-Total | | 0.00 | |
 
 | | C. EVENT OPERATIONS | | |
@@ -602,7 +716,8 @@ For more details on FISA's environmental sustainability policies and guidelines 
 | | Crew photo albums | | |
 | | C4 Ceremonies and Social Events | | |
 | C4 | Opening Ceremony | 0.00 | |
-| C4 | Victory Ceremony* | 0.00 | Medals, Diplomas, flags, backdrop, anthems<br>per FISA Regulations |
+| C4 | Victory Ceremony* | 0.00 | Medals, Diplomas, flags, backdrop, anthems
+per FISA Regulations |
 | C4 | Nations Dinner | 0.00 | For approximately 200 people |
 | C4 | FISA/OC receptions | 0.00 | |
 | C4 | Media Reception | 0.00 | For approximately 50 people |
@@ -611,18 +726,26 @@ For more details on FISA's environmental sustainability policies and guidelines 
 | | Other | 0.00 | |
 | 0 | C5. Event Promotion | | |
 | C5 | PR Agency fee | 0.00 | |
-| C5 | Promotional activities | 0.00 | Newspapers, TV, radio, posters, promotional<br>tours etc |
+| C5 | Promotional activities | 0.00 | Newspapers, TV, radio, posters, promotional
+tours etc |
 | | Other | 0.00 | |
 ## | | Event Operations Sub-Total | 0.00 | |
 
 | D. EVENT LOGISTICS | | | |
 |---------------------------------------|--------------------------------------------------------|------|-------------------------------------------------------------|
 | D1 Accommodation | | | |
-| D1.1<br>Teams<br>0.00<br>(room) costs | | | Any costs other than actual accommodation |
-| D1.2, G1.1 | FISA Council, Commission and staff<br>members (B&B) | 0.00 | Per FISA Regulations (30 persons x 10 days<br>single rooms) |
-| G1.1 | Jury (Full Board) | 0.00 | Per FISA Regulations (18 persons x 10 days<br>single rooms) |
+| D1.1
+Teams
+0.00
+(room) costs | | | Any costs other than actual accommodation |
+| D1.2, G1.1 | FISA Council, Commission and staff
+members (B&B) | 0.00 | Per FISA Regulations (30 persons x 10 days
+single rooms) |
+| G1.1 | Jury (Full Board) | 0.00 | Per FISA Regulations (18 persons x 10 days
+single rooms) |
 | G1.1 | FISA Commentary Team (B&B) | 0.00 | 4 persons x 10 days single rooms |
-| G1.1 | FISA Timing & Results Service Provider (Full<br>board) | 0.00 | 7 persons x 12 days single rooms |
+| G1.1 | FISA Timing & Results Service Provider (Full
+board) | 0.00 | 7 persons x 12 days single rooms |
 | | OC personnel | 0.00 | |
 | | Other | 0.00 | e.g. TV catamaran drivers |
 | D2 Food Services | | | |
@@ -643,22 +766,43 @@ For more details on FISA's environmental sustainability policies and guidelines 
 | D3.6 | Transport facilities | 0.00 | Dispatch office, waiting areas, drop off, etc. |
 | D3.7 | FISA vehicles | 0.00 | |
 | D3.8 | Spectator transport | 0.00 | e.g. Park and Ride |
-| | Parking | 0.00 | Teams, Officials, Media, VIP/Sponsors, and<br>Spectators |
+| | Parking | 0.00 | Teams, Officials, Media, VIP/Sponsors, and
+Spectators |
 | | Boat Transport | 0.00 | |
 | | OC vehicles | 0.00 | |
 | | Signage | 0.00 | Within the venue, and outside (to help |
 | | | | Spectators find the venue from the city). |
 | | Other | 0.00 | |
 | | D4 Development Programme | | |
-| D4.1 | Meals, accommodation and transport | 0.00 | x persons for 10 days, full board, free of<br>charge |
-| D4.2 | Training Camps | 0.00 | Co-ordinated with the FISA Development<br>Programme. |
-| D4.3 | Boat Provision | 0.00 | Assistance with boats for developing<br>countries where requested. |
+| D4.1 | Meals, accommodation and transport | 0.00 | x persons for 10 days, full board, free of
+charge |
+| D4.2 | Training Camps | 0.00 | Co-ordinated with the FISA Development
+Programme. |
+| D4.3 | Boat Provision | 0.00 | Assistance with boats for developing
+countries where requested. |
 | | Other | 0.00 | |
 ## | | Event Logistics Sub-Total | 0.00 | |
 
 | E1.1 | Facility Rental | 0.00 | To accommodate 300 people |
 |------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|---------------------------|
-| | SECTION E - THE FISA CONGRESS<br>Audio Visual Equipment Rental<br>0.00<br>Computer projector and big screen video<br>board<br>Translation Equipment Rental<br>0.00<br>4 interpretation booths and 300 head sets<br>Interpreters<br>0.00<br>FISA approved professional interpreters (at<br>the cost of the Organising Committee).<br>Congress Lunch<br>0.00<br>For up to 250 people<br>Other<br>0.00<br>0.00 | | |
+| | SECTION E - THE FISA CONGRESS
+Audio Visual Equipment Rental
+0.00
+Computer projector and big screen video
+board
+Translation Equipment Rental
+0.00
+4 interpretation booths and 300 head sets
+Interpreters
+0.00
+FISA approved professional interpreters (at
+the cost of the Organising Committee).
+Congress Lunch
+0.00
+For up to 250 people
+Other
+0.00
+0.00 | | |
 | E1.2 | | | |
 | E1.2 | | | |
 | | | | |
@@ -679,7 +823,8 @@ For more details on FISA's environmental sustainability policies and guidelines 
 | | Regional Government | 0.00 | | |
 | | Local Government | 0.00 | | |
 | | Military Forces | 0.00 | | |
-| | Local sponsors | 0.00 | | From sale of Commercial Rights purchased<br>from FISA. |
+| | Local sponsors | 0.00 | | From sale of Commercial Rights purchased
+from FISA. |
 | | Foundations | 0.00 | | |
 | | Individuals | 0.00 | | |
 | | Other | 0.00 | | |
@@ -701,12 +846,14 @@ For more details on FISA's environmental sustainability policies and guidelines 
 | | Market place | 0.00 | | |
 | | Food services | 0.00 | | |
 | | Tourist packages | 0.00 | | |
-| | Souvenir program, start and result lists. | 0.00 | | Official event souvenir programme<br>advertising, sales |
+| | Souvenir program, start and result lists. | 0.00 | | Official event souvenir programme
+advertising, sales |
 | | General Admission | 0.00 | | Spectators (non-numbered seats) |
 | | Reserved Seats | 0.00 | | Spectators (numbered seat) |
-| | FISA Family Grandstand | 0.00 | | Pre-sales to National Federations - reserve<br>1000 tickets |
+| | FISA Family Grandstand | 0.00 | | Pre-sales to National Federations - reserve
+1000 tickets |
 
-<sup>\*</sup> These amounts are fixed at the time of the bid. Any costs relating to these expense items over and above this total amount will be covered by FISA.
+\* These amounts are fixed at the time of the bid. Any costs relating to these expense items over and above this total amount will be covered by FISA.
 
 ## ![](_page_28_Picture_0.jpeg)
 
@@ -719,11 +866,65 @@ Note: This is a generic Marketing Manual. A Marketing Manual will be issued that
 | DEFINITIONS | 1 |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|
 | FOREWord | 4 |
-| SECTION A: Background<br>1. Ownership of the Championship's Commercial and Broadcast and Media Rights<br>2. Marketing Partnership<br>3. FISA's Marketing Objectives<br>4. Commercial Rights package(s) for the Organisers | 5<br>5<br>5<br>5<br>5 |
-| SECTION B: Preparing a Bid to Host the World Championships - Some Marketing Considerations<br>1. Revenue sources for the National Federation and Organiser<br>2. FISA's Commercial Responsibilities<br>3. Preparation of the Championships' budget - some guidelines<br>4. Suppliers<br>5. Contingency insurance<br>6. Television<br>7. Mascots, Symbols and Logos<br>8. Franchises, concessions and other sales facilities - where required by Sponsors<br>9. Complimentary Tickets<br>10. Hospitality<br>11. Sponsorship of Candidate's bid | 7<br>7<br>11<br>11<br>12<br>13<br>13<br>17<br>18<br>18<br>19<br>19 |
-| SECTION C: Pre-Conditions of Host Appointment<br>1. Clean (of advertising) Venue<br>2. Existing Sponsorships or advertising contracts or Commitments<br>3. This Marketing Manual<br>4. Championship Budget<br>5. Advertising Regulations and responsibility<br>6. Timing and data Services<br>7. Commercial identifications on Scoreboards and/or Timing and/or Data Equipment<br>8. Access to the Venue<br>9. Official Transport | 20<br>20<br>20<br>20<br>20<br>21<br>21<br>21<br>21<br>21 |
-| SECTION D: A Summary of Marketing-Related Responsibilities<br>1. Fulfilment of contractual obligations to Sponsors and Suppliers | 22<br>22 |
-| SECTION E: Pre-Event Planning and Conclusion<br>1. Pre-Event Planning<br>2. Conclusion | 24<br>24<br>24 |
+| SECTION A: Background
+1. Ownership of the Championship's Commercial and Broadcast and Media Rights
+2. Marketing Partnership
+3. FISA's Marketing Objectives
+4. Commercial Rights package(s) for the Organisers | 5
+5
+5
+5
+5 |
+| SECTION B: Preparing a Bid to Host the World Championships - Some Marketing Considerations
+1. Revenue sources for the National Federation and Organiser
+2. FISA's Commercial Responsibilities
+3. Preparation of the Championships' budget - some guidelines
+4. Suppliers
+5. Contingency insurance
+6. Television
+7. Mascots, Symbols and Logos
+8. Franchises, concessions and other sales facilities - where required by Sponsors
+9. Complimentary Tickets
+10. Hospitality
+11. Sponsorship of Candidate's bid | 7
+7
+11
+11
+12
+13
+13
+17
+18
+18
+19
+19 |
+| SECTION C: Pre-Conditions of Host Appointment
+1. Clean (of advertising) Venue
+2. Existing Sponsorships or advertising contracts or Commitments
+3. This Marketing Manual
+4. Championship Budget
+5. Advertising Regulations and responsibility
+6. Timing and data Services
+7. Commercial identifications on Scoreboards and/or Timing and/or Data Equipment
+8. Access to the Venue
+9. Official Transport | 20
+20
+20
+20
+20
+21
+21
+21
+21
+21 |
+| SECTION D: A Summary of Marketing-Related Responsibilities
+1. Fulfilment of contractual obligations to Sponsors and Suppliers | 22
+22 |
+| SECTION E: Pre-Event Planning and Conclusion
+1. Pre-Event Planning
+2. Conclusion | 24
+24
+24 |
 | ANNEX 1: A Summary of the Commercial Rights | 25 |
 | ANNEX 2: Local Sponsors' Rights | 27 |
 | ANNEX 3: Local Suppliers' Rights | 28 |
@@ -1441,7 +1642,8 @@ The right to have a display/sales stand at the Championships' Venue in a locatio
 | International Director, UK Sport | BBC Television | Promotional Strategy | Training |
 | UK Sport | Dorney Lake Facilities | Protocol | Volunteer Welfare |
 | | Dorney Lake Management | Regatta Control & On-water | Website |
-| | Catering | Facilities<br>Site Communications | |
+| | Catering | Facilities
+Site Communications | |
 | | Finance and Budget | Site Facilities | |
 | | Health & Safety Coordination | Spectator Services | |
 ## | | Information | | |
@@ -5050,16 +5252,20 @@ Race commentary as early as possible down to the Finish line Results (1st place 
 | | and minimum 5 slides OUT | | | |
 | >> | 1 slide for the main public announcement system | ISDN | | |
 | >> | 1 slide for TV | connection = | | |
-| >> | 1 slide for live streaming (Note: This needs an ISDN connection, the respective PC for<br>connection to the Internet comes from Swiss Timing) | local OC | | |
+| >> | 1 slide for live streaming (Note: This needs an ISDN connection, the respective PC for
+connection to the Internet comes from Swiss Timing) | local OC | | |
 | >> | 1 slide for the control monitor of the producer | | | |
 | >> | 1 slide reserve | | | |
 
 | Type of equipment | Organised by | Remarks | √ |
 |---------------------------------------------------------------------------------------------------|--------------|---------|---|
 | 3 micros | FISA | | |
-| >><br>1 micro for the tower announcer 1 | | | |
-| >><br>1 micro for the tower announcer 2 | | | |
-| >><br>1 radio micro for the Victory Ceremony announcer | | | |
+| >>
+1 micro for the tower announcer 1 | | | |
+| >>
+1 micro for the tower announcer 2 | | | |
+| >>
+1 radio micro for the Victory Ceremony announcer | | | |
 | 1 PC with music and anthems | FISA | | |
 | 1 CD Player (not MP3 player) | Local | | |
 | | Organising | | |
@@ -5071,17 +5277,23 @@ Race commentary as early as possible down to the Finish line Results (1st place 
 | 1 telephone or radio for contacts to the Starter/jury and to the local Organising Committee (esp. | Local OC | | |
 | to responsible of the car / motorboat) | | | |
 | 1 race commentary kit including | FISA | | |
-| >><br>4 senders / receivers with head set and microphone for the commentators in the cars / boats | | | |
-| >><br>1 sender / receiver with loudspeaker and microphone for the producer | | | |
-| >><br>1 special long range antenna | | | |
+| >>
+4 senders / receivers with head set and microphone for the commentators in the cars / boats | | | |
+| >>
+1 sender / receiver with loudspeaker and microphone for the producer | | | |
+| >>
+1 special long range antenna | | | |
 
 | Type of equipment | Organised by | Remarks | √ |
 |---------------------------------------------------------------------------------------------------|--------------|---------|---|
 | Permission from local authorities for the use of the radio frequency of the race commentator kit, | Local OC | | |
 | the specifications are: | | | |
-| >><br>5 radios type Kenwood TK-3202 | | | |
-| >><br>HF Power 2,5 Watt | | | |
-| >><br>Radio Frequency 430.1375 MHz (or 430.1625 or 430.3375) | | | |
+| >>
+5 radios type Kenwood TK-3202 | | | |
+| >>
+HF Power 2,5 Watt | | | |
+| >>
+Radio Frequency 430.1375 MHz (or 430.1625 or 430.3375) | | | |
 | PA-System (details to be provided to FISA in advance for approval) | Local OC | | |
 | 2 cars or boats, incl. min. 2 spare tanks for the boats | Local OC | | |
 | Scenario | FISA | | |
@@ -5091,9 +5303,12 @@ Race commentary as early as possible down to the Finish line Results (1st place 
 | | Organising | | |
 | | Committee | | |
 | Guideline for emergency cases | Local OC | | |
-| >><br>Important telephone numbers | | | |
-| >><br>Instructions for evacuation | | | |
-| >><br>Responsible person for instructions to be given to the producer | | | |
+| >>
+Important telephone numbers | | | |
+| >>
+Instructions for evacuation | | | |
+| >>
+Responsible person for instructions to be given to the producer | | | |
 | List of sponsors and honorary guests | Local OC | | |
 | Information about special events (music shows, sweepstakes, race of legends, etc.) | Local OC | | |
 
@@ -5102,15 +5317,21 @@ Race commentary as early as possible down to the Finish line Results (1st place 
 | Screen operation equipment | FISA / Local | | |
 | (to be discussed during the site visit) | OC | | |
 | List of contents of the screen | Local OC | | |
-| >><br>List of logos / trailers / commercials / videos with | | | |
-| •<br>duration in seconds | | | |
-| •<br>no. of repetitions required per day | | | |
-| information, whether there is sound or not<br>• | | | |
+| >>
+List of logos / trailers / commercials / videos with | | | |
+| •
+duration in seconds | | | |
+| •
+no. of repetitions required per day | | | |
+| information, whether there is sound or not
+• | | | |
 | Big screen content - commercial: | | | |
-| >><br>Local Organising Committee to provide details of local sponsor requirements for big screen. | Local OC | | |
+| >>
+Local Organising Committee to provide details of local sponsor requirements for big screen. | Local OC | | |
 | Material must be received at least 2 weeks before the event in format 16x9/4x3 [Define for | | | |
 | each event]. DVD, Beta SP, jpg images, etc) | | | |
-| >><br>FISA to collect and provide material from FISA sponsors as above | FISA | | |
+| >>
+FISA to collect and provide material from FISA sponsors as above | FISA | | |
 | Big screen content - information: | FISA | | |
 | FISA will create and provide information slides package for use on big screen | | | |
 
@@ -5465,17 +5686,33 @@ The Cable Connections between Graphic Mobile/Hut and OB Van The Cable Connection
 
 | Rank | Lane | Code | Name | | 500m | 1000m | 1500m | 2000m | Code | |
 |------|------------------------|------|------------------|---------|---------|--------------------|----------------------------|--------------------|------|------|
-| 1 | 4 | GBR1 | (b) CAMPBELL Ala | an | 1:41.34 | 3:27.02<br>1:45.68 | 5:12.63<br>1:45.61<br>0.25 | 6:55.18<br>1:42.55 | FA | |
+| 1 | 4 | GBR1 | (b) CAMPBELL Ala | an | 1:41.34 | 3:27.02
+1:45.68 | 5:12.63
+1:45.61
+0.25 | 6:55.18
+1:42.55 | FA | |
 | 2 | 2 | CAN | (b) HOWARD Malo | colm | DNA | DNA | DNA | 6:56.27 | FA | |
 | | | | | | | | | 1.09 | | |
-| 3 | 6 | SWE | (b) KARONEN Las | si | 1:42.66 | 3:27.78<br>1:45.12 | 5:12.38<br>1:44.60 | 6:56.45<br>1:44.07 | FA | |
+| 3 | 6 | SWE | (b) KARONEN Las | si | 1:42.66 | 3:27.78
+1:45.12 | 5:12.38
+1:44.60 | 6:56.45
+1:44.07 | FA | |
 | | | | | | 1.32 | 0.76 | | 1.27 | | |
-| 4 | 5 | LTU | (b) GRISKONIS Mi | ndaugas | 1:43.60 | 3:31.23<br>1:47.63 | 5:15.88<br>1:44.65 | 6:56.73<br>1:40.85 | FB | ÷ (5 |
+| 4 | 5 | LTU | (b) GRISKONIS Mi | ndaugas | 1:43.60 | 3:31.23
+1:47.63 | 5:15.88
+1:44.65 | 6:56.73
+1:40.85 | FB | ÷ (5 |
 | | | | | | 2.26 | 4.21 | 3.50 | 1.55 | | |
-| 5 | 1 | GER2 | (b) NOLTE Falko | | 1:43.97 | 3:32.99<br>1:49.02 | 5:23.76<br>1:50.77 | 7:22.61<br>1:58.85 | FB | |
+| 5 | 1 | GER2 | (b) NOLTE Falko | | 1:43.97 | 3:32.99
+1:49.02 | 5:23.76
+1:50.77 | 7:22.61
+1:58.85 | FB | |
 | | | | | | 2.63 | 5.97 | 11.38 | 27.43 | | |
 | 6 | 3 BEL1 (b) MAEYENS Tim | | | 1:42.48 | 3:29.87 | 5:37.16 | 7:54.75 | FB | | |
-| | | | | | 1.14 | 1:47.39<br>2.85 | 2:07.29<br>24.78 | 2:17.59<br>59.57 | | |
+| | | | | | 1.14 | 1:47.39
+2.85 | 2:07.29
+24.78 | 2:17.59
+59.57 | | |
 
 Qualification Rules: 1-3 to Final A, Remainder to Final B (1-3->FA, 4..->FB)
 
@@ -5522,8 +5759,11 @@ Note: Boats not moving on to the next round of races shall be ranked last in the
 | 440 | 0.00 | | 1001 | | | | 6:47.36 | 6:49.02 | | 7:14.14 | 4.4.54.5.55 |
 | 118 | 9:06 | LM4x | [22] | Repechage | DEN | GER2 | IRL | GER1 | 1 | ARG | 1-4->FA, 5>FB |
 | 110 | 9:12 | May | [7] | Final F | | | 6:09.99 | 6:10.63 | 6:11.13 | 6:12.14 | |
-| 119 | 9.12 | IVIIX | [7] | FIIIdi F | TUR | MDA<br>7:53.63 | ITA<br>DNS | | | | |
-| 120 | 0.10 | 1 1/1/4 v | [47] | Final E | 7.32.41<br><b>HKG</b> | JPN4 | VEN | | | | |
+| 119 | 9.12 | IVIIX | [7] | FIIIdi F | TUR | MDA
+7:53.63 | ITA
+DNS | | | | |
+| 120 | 0.10 | 1 1/1/4 v | [47] | Final E | 7.32.41
+HKG | JPN4 | VEN | | | | |
 | 120 | 9.10 | LW1x | [17] | riliai E | | | 8:50.00 | | | | |
 | 121 | 0.24 | LM1x | [18] | Final E | TUR3 | FIN | BEL3 | SUI2 | CHI | COL | |
 | 121 | 5.24 | LIVITA | [10] | T III CI | | | 7:22.34 | 7:23.37 | 7:30.39 | | |
@@ -5572,32 +5812,116 @@ FISA Data Service data processing by Service Report Created SAT 10 JUL 2010 / 19
 
 ## **As of 10 JUL 2010**
 
-| Race | | Date Round | 1 | 2 | 3 | Rank<br>4 | 5 | 6 | Qualification<br>Rules |
+| Race | | Date Round | 1 | 2 | 3 | Rank
+4 | 5 | 6 | Qualification
+Rules |
 |------|-------------|---------------------------------------|----------------------------|---------------------------|---------------------------|----------------------------------|--------------------|---------------------------|----------------------------------|
 | | | | | | | | | | |
 | | | Heats | | | | | | | |
-| 1 | 09 JUL 2010 | 1 | GER1<br>7:49.63 | BRA<br>7:50.22 | JPN2<br>7:55.07 | AUS<br>7:58.85 | FRA<br>8:10.38 | | 1-3->Q, 4>Q OR FE |
-| 2 | 09 JUL 2010 | 2 | AUT<br>7:57.54 | SWE2<br>7:59.84 | DEN3<br>8:08.10 | DEN1<br>8:13.92 | VEN<br>8:38.52 | | 1-3->Q, 4>Q OR FE |
+| 1 | 09 JUL 2010 | 1 | GER1
+7:49.63 | BRA
+7:50.22 | JPN2
+7:55.07 | AUS
+7:58.85 | FRA
+8:10.38 | | 1-3->Q, 4>Q OR FE |
+| 2 | 09 JUL 2010 | 2 | AUT
+7:57.54 | SWE2
+7:59.84 | DEN3
+8:08.10 | DEN1
+8:13.92 | VEN
+8:38.52 | | 1-3->Q, 4>Q OR FE |
 | 3 | 09 JUL 2010 | 3 | IRL | JPN1 | SUI | ZAM | HKG | | 1-3->Q, 4>Q OR FE |
-| 4 | 09 JUL 2010 | 4 | 7:56.17<br>GRE | 7:58.86<br>CAN | 8:02.36<br>DEN4 | 8:06.15<br>PAR | 8:13.50 | | 1-3->Q, 4>Q OR FE |
-| 5 | 09 JUL 2010 | 5 | 7:58.36<br>GBR | 8:03.08<br>USA | 8:07.84<br>NED<br>POL | 8:11.46 | | | 1-3->Q, 4>Q OR FE |
-| 6 | 09 JUL 2010 | 6 | 7:53.01<br>SWE1 | 7:54.39<br>ITA | 7:57.34<br>DEN2 | 7:58.28<br>JPN4 | | | 1-3->Q, 4>Q OR FE |
+| 4 | 09 JUL 2010 | 4 | 7:56.17
+GRE | 7:58.86
+CAN | 8:02.36
+DEN4 | 8:06.15
+PAR | 8:13.50 | | 1-3->Q, 4>Q OR FE |
+| 5 | 09 JUL 2010 | 5 | 7:58.36
+GBR | 8:03.08
+USA | 8:07.84
+NED
+POL | 8:11.46 | | | 1-3->Q, 4>Q OR FE |
+| 6 | 09 JUL 2010 | 6 | 7:53.01
+SWE1 | 7:54.39
+ITA | 7:57.34
+DEN2 | 7:58.28
+JPN4 | | | 1-3->Q, 4>Q OR FE |
 | | | | 8:00.93 | 8:02.00 | 8:03.02 | 8:13.92 | | | |
 | | | Quarterfinals | | | | | | | |
-| 71 | 09 JUL 2010 | 1 | AUT<br>7:49.91 | JPN2<br>7:50.58 | CAN<br>7:53.70 | USA<br>7:54.40 | SUI<br>8:01.20 | POL<br>8:04.92 | 1-3->SA/B, 4->FC, 5->?, 6<br>>FD |
-| 72 | 09 JUL 2010 | 2 | ITA<br>7:48.29 | BRA<br>7:50.58 | IRL<br>7:51.44 | DEN3<br>8:02.13 | DEN4<br>8:02.94 | FRA<br>8:04.38 | 1-3->SA/B, 4->FC, 5->?, 6<br>>FD |
-| 73 | 09 JUL 2010 | 3 | GER1<br>7:51.93 | SWE1<br>7:55.55 | NED<br>7:58.49 | JPN1<br>8:04.54 | DEN1<br>8:06.04 | PAR<br>8:15.61 | 1-3->SA/B, 4->FC, 5->?, 6<br>>FD |
-| 74 | 09 JUL 2010 | 4 | GRE<br>7:45.64 | GBR SWE2<br>7:49.83 | 7:53.38 | ZAM<br>7:57.72 | AUS<br>7:58.74 | DEN2<br>8:11.41 | 1-3->SA/B, 4->FC, 5->?, 6<br>>FD |
+| 71 | 09 JUL 2010 | 1 | AUT
+7:49.91 | JPN2
+7:50.58 | CAN
+7:53.70 | USA
+7:54.40 | SUI
+8:01.20 | POL
+8:04.92 | 1-3->SA/B, 4->FC, 5->?, 6
+>FD |
+| 72 | 09 JUL 2010 | 2 | ITA
+7:48.29 | BRA
+7:50.58 | IRL
+7:51.44 | DEN3
+8:02.13 | DEN4
+8:02.94 | FRA
+8:04.38 | 1-3->SA/B, 4->FC, 5->?, 6
+>FD |
+| 73 | 09 JUL 2010 | 3 | GER1
+7:51.93 | SWE1
+7:55.55 | NED
+7:58.49 | JPN1
+8:04.54 | DEN1
+8:06.04 | PAR
+8:15.61 | 1-3->SA/B, 4->FC, 5->?, 6
+>FD |
+| 74 | 09 JUL 2010 | 4 | GRE
+7:45.64 | GBR SWE2
+7:49.83 | 7:53.38 | ZAM
+7:57.72 | AUS
+7:58.74 | DEN2
+8:11.41 | 1-3->SA/B, 4->FC, 5->?, 6
+>FD |
 | | | Semifinals | | | | | | | |
 | 112 | 10 JUL 2010 | A/B 1 | GER1 | GBR | BRA | AUT | CAN | SWE2 | 1-3->FA, 4>FB |
 | | | | 7:50.83 | 7:53.57 | 7:54.63 | 8:00.73 | 8:03.22 | 8:18.29 | |
-| 113 | 10 JUL 2010 | A/B 2 | GRE<br>7:54.34 | IRL<br>7:55.71 | ITA<br>7:56.21 | JPN2<br>7:56.29 | SWE1<br>7:59.27 | NED<br>8:17.52 | 1-3->FA, 4>FB |
+| 113 | 10 JUL 2010 | A/B 2 | GRE
+7:54.34 | IRL
+7:55.71 | ITA
+7:56.21 | JPN2
+7:56.29 | SWE1
+7:59.27 | NED
+8:17.52 | 1-3->FA, 4>FB |
 | | | Finals | | | | | | | |
-| 120 | 10 JUL 2010 | E | HKG<br>8:12.48 | JPN4<br>8:19.81 | VEN<br>8:50.00 | | | | |
-| 125 | 10 JUL 2010 | D | POL<br>7:59.13 | DEN4<br>8:03.27 | FRA<br>8:04.84 | PAR<br>8:06.82 | DEN1<br>8:11.40 | DEN2<br>8:14.25 | |
-| 135 | 10 JUL 2010 | C | USA<br>7:48.57 | SUI<br>7:56.42 | ZAM<br>7:58.31 | JPN1<br>8:02.20 | AUS<br>8:07.46 | DEN3<br>8:11.53 | |
+| 120 | 10 JUL 2010 | E | HKG
+8:12.48 | JPN4
+8:19.81 | VEN
+8:50.00 | | | | |
+| 125 | 10 JUL 2010 | D | POL
+7:59.13 | DEN4
+8:03.27 | FRA
+8:04.84 | PAR
+8:06.82 | DEN1
+8:11.40 | DEN2
+8:14.25 | |
+| 135 | 10 JUL 2010 | C | USA
+7:48.57 | SUI
+7:56.42 | ZAM
+7:58.31 | JPN1
+8:02.20 | AUS
+8:07.46 | DEN3
+8:11.53 | |
 | 176 | 10 JUL 2010 | B | CAN | AUT | JPN2 | SWE1 | SWE2 | NED | |
-| 180 | 10 JUL 2010 | A | 7:54.88<br>GER1<br>7:48.92 | 7:55.91<br>GRE<br>7:50.69 | 7:57.55<br>BRA<br>7:53.16 | 7:57.81<br>GBR<br>ITA<br>7:57.47 | 7:59.19<br>7:58.14 | 8:10.17<br>IRL<br>8:04.60 | |
+| 180 | 10 JUL 2010 | A | 7:54.88
+GER1
+7:48.92 | 7:55.91
+GRE
+7:50.69 | 7:57.55
+BRA
+7:53.16 | 7:57.81
+GBR
+ITA
+7:57.47 | 7:59.19
+7:58.14 | 8:10.17
+IRL
+8:04.60 | |
 | | | INTERNET Service: www.worldrowing.com | | | | | | | Page 1 / 2 |
 
 ## Report Created SAT 10 JUL 2010 / 18:30
@@ -5620,7 +5944,8 @@ FISA Data Service data processing by Service Report Created SAT 10 JUL 2010 / 19
 
 | | | | F1 | | 10 |
 |------|-------|--------|-----------------|-----------------|------------------------------------------|
-| Race | Start | Codo | Event<br>Number | Round | Lanes Qualification |
+| Race | Start | Codo | Event
+Number | Round | Lanes Qualification |
 | | | Code | _ | 2 17 11/2 1 | |
 | 112 | | LW1x | [17] | Semifinal A/B 1 | CAN BRA GER1 AUT GBR SWE2 1-3->FA, 4>FB |
 | 113 | 8:36 | LW1x | [17] | Semifinal A/B 2 | NED SWE1 GRE ITA JPN2 IRL 1-3->FA, 4>FB |
@@ -5686,7 +6011,8 @@ data processing by 🏰 swiss nuw
 
 ## **Races 52,53**
 
-| Lane 1<br>Race 52 / 13:06 / Heat 1 | Lane 2 | Lane 3 | Lane 4 | Lane 5 | Lane 6 | |
+| Lane 1
+Race 52 / 13:06 / Heat 1 | Lane 2 | Lane 3 | Lane 4 | Lane 5 | Lane 6 | |
 |------------------------------------|----------------|--------------|-------------|-------------|--------|--|
 | NED | UKR | BLR | GBR | CHN2 | | |
 | (b) WIELAARD K. | KOZHENKOVA A. | PRYVALAVA N. | VERNON A. | PAN F. | | |
@@ -5703,7 +6029,8 @@ data processing by 🏰 swiss nuw
 | | Note: Boats not moving on to the next round of races shall be ranked last in the overall event placing. | | | | | |
 |------------|---------------------------------------------------------------------------------------------------------|---------|------|-----|--------|------------|
 | Legend: | | | | | | |
-| (b)<br>bow | | (2)-(3) | seat | (s) | stroke | |
+| (b)
+bow | | (2)-(3) | seat | (s) | stroke | |
 | | INTERNET Service: www.worldrowing.com | | | | | Page 1 / 1 |
 
 **FISA Data Service data processing by** Report Created THU 8 JUL 2010 / 18:38
@@ -5728,11 +6055,51 @@ World Best Time: **GER** KOEPPEN/ BORON/ RUTSCHOW/ SORGERS Duisburg (GER) 1996 *
 
 | Lane | NOC Code | Pos | Name | Date of Birth |
 |------|----------|-------------------|-------------------------------------------------------------------------------------------|----------------------------------------------------------|
-| 1 | NED | (b)<br>(2)<br>(3) | WIELAARD Kirsten<br>VEENHOVEN Jacobine<br>BOUW Carline<br>(s) de HAAN Annemiek | 26 JUN 1989<br>30 JAN 1984<br>14 DEC 1984<br>15 JUL 1981 |
-| 2 | UKR | (b)<br>(2)<br>(3) | KOZHENKOVA Anastasiia<br>KOLESNIKOVA Tetiana<br>TARASENKO Kateryna<br>(s) DEMENTIEVA Yana | 19 JAN 1986<br>09 AUG 1977<br>06 AUG 1987<br>23 OCT 1978 |
-| 3 | BLR | (b)<br>(2)<br>(3) | PRYVALAVA Natallia<br>KUKHTA Tatsiana<br>BICHYK Yuliya<br>(s) BONDARAVA Nina | 19 FEB 1987<br>13 JUN 1990<br>01 APR 1983<br>30 JUN 1986 |
-| 4 | GBR | (b)<br>(2)<br>(3) | VERNON Annabel<br>RODFORD Beth<br>WATKINS Anna<br>(s) GRAINGER Katherine | 01 SEP 1982<br>28 DEC 1982<br>13 FEB 1983<br>12 NOV 1975 |
-| 5 | CHN2 | (b)<br>(2)<br>(3) | PAN Feihong<br>WANG Xinnan<br>LIU Tingting<br>(s) YAN Shimin | 17 JUL 1989<br>12 JUL 1989<br>08 SEP 1990<br>24 AUG 1987 |
+| 1 | NED | (b)
+(2)
+(3) | WIELAARD Kirsten
+VEENHOVEN Jacobine
+BOUW Carline
+(s) de HAAN Annemiek | 26 JUN 1989
+30 JAN 1984
+14 DEC 1984
+15 JUL 1981 |
+| 2 | UKR | (b)
+(2)
+(3) | KOZHENKOVA Anastasiia
+KOLESNIKOVA Tetiana
+TARASENKO Kateryna
+(s) DEMENTIEVA Yana | 19 JAN 1986
+09 AUG 1977
+06 AUG 1987
+23 OCT 1978 |
+| 3 | BLR | (b)
+(2)
+(3) | PRYVALAVA Natallia
+KUKHTA Tatsiana
+BICHYK Yuliya
+(s) BONDARAVA Nina | 19 FEB 1987
+13 JUN 1990
+01 APR 1983
+30 JUN 1986 |
+| 4 | GBR | (b)
+(2)
+(3) | VERNON Annabel
+RODFORD Beth
+WATKINS Anna
+(s) GRAINGER Katherine | 01 SEP 1982
+28 DEC 1982
+13 FEB 1983
+12 NOV 1975 |
+| 5 | CHN2 | (b)
+(2)
+(3) | PAN Feihong
+WANG Xinnan
+LIU Tingting
+(s) YAN Shimin | 17 JUL 1989
+12 JUL 1989
+08 SEP 1990
+24 AUG 1987 |
 
 **Qualification Rules:** 1-2 to Final A, Remainder to Repechage (1-2->FA, 3..->R)
 
@@ -5754,19 +6121,79 @@ World Best Time: **GER** KOEPPEN/ BORON/ RUTSCHOW/ SORGERS Duisburg (GER) 1996 *
 
 ## Before the Draw
 
-| | Entries by Event | Entry List by<br>Event (with<br>names) | Timetable | Entry List by<br>Country and Event<br>(with names) |
+| | Entries by Event | Entry List by
+Event (with
+names) | Timetable | Entry List by
+Country and Event
+(with names) |
 |-----------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|-------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| Teams<br>Delivered at the Information Centre or in the<br>Accreditation centre at Teams' arrival | 100 - 150 | 1 set per team (40<br>- 70) | 100 - 150 | 1 page per team with<br>names of the respec<br>tive Team (40 - 70) |
-| FISA Council & Commissions<br>Delivered 3 days before racing starts at FISA<br>office area in four separate trays labelled as<br>shown. | 10 - 15<br>1 tray labelled:<br>"FISA - Entries by "FISA - Entry List<br>Event" | 5 sets<br>1 tray labelled:<br>by Event" | 10 - 15<br>1 tray labelled:<br>"FISA - Timetable" | 3 sets<br>1 tray labelled:<br>"FISA - Entry List by<br>Country and Event" |
-| International Jury<br>Delivered 3 days before racing starts at the<br>Information Centre in two separate trays<br>labelled as shown | 10 - 20<br>1 tray labelled:<br>"Jury - Entries by<br>Event" | - | 10 - 20<br>1 tray labelled:<br>"Jury - Timetable" | - |
-| Control Commission<br>Delivered 3 days before racing starts at the<br>Information Centre in four separate trays<br>labelled as shown. | 1 set<br>1 tray labelled:<br>"Control<br>Commission -<br>Entries by Event" | 1 set<br>1 tray labelled:<br>"Control<br>Commission<br>Entry List by<br>Event" | 5 sets<br>1 tray labelled:<br>"Control Commission<br>- Timetable" | 1 set<br>1 tray labelled:<br>"Control<br>Commission - Entry<br>List by Country and<br>Event" |
-| Media<br>Printed at the Media Centre 1 days before<br>racing starts | - | - | J/U23<br>WC<br>WCH<br>20<br>50<br>80<br>1 tray | - |
+| Teams
+Delivered at the Information Centre or in the
+Accreditation centre at Teams' arrival | 100 - 150 | 1 set per team (40
+- 70) | 100 - 150 | 1 page per team with
+names of the respec
+tive Team (40 - 70) |
+| FISA Council & Commissions
+Delivered 3 days before racing starts at FISA
+office area in four separate trays labelled as
+shown. | 10 - 15
+1 tray labelled:
+"FISA - Entries by "FISA - Entry List
+Event" | 5 sets
+1 tray labelled:
+by Event" | 10 - 15
+1 tray labelled:
+"FISA - Timetable" | 3 sets
+1 tray labelled:
+"FISA - Entry List by
+Country and Event" |
+| International Jury
+Delivered 3 days before racing starts at the
+Information Centre in two separate trays
+labelled as shown | 10 - 20
+1 tray labelled:
+"Jury - Entries by
+Event" | - | 10 - 20
+1 tray labelled:
+"Jury - Timetable" | - |
+| Control Commission
+Delivered 3 days before racing starts at the
+Information Centre in four separate trays
+labelled as shown. | 1 set
+1 tray labelled:
+"Control
+Commission -
+Entries by Event" | 1 set
+1 tray labelled:
+"Control
+Commission
+Entry List by
+Event" | 5 sets
+1 tray labelled:
+"Control Commission
+- Timetable" | 1 set
+1 tray labelled:
+"Control
+Commission - Entry
+List by Country and
+Event" |
+| Media
+Printed at the Media Centre 1 days before
+racing starts | - | - | J/U23
+WC
+WCH
+20
+50
+80
+1 tray | - |
 
 ## At the Draw
 
 | | Entries by Event | Start List Summary | |
 |------------------------------------------------------------------------------------------------------------|------------------|--------------------|--|
-| For all participants in the Draw delivered<br>at the Draw meeting room before the<br>beginning of the Draw | 100 - 150 | 150 | |
+| For all participants in the Draw delivered
+at the Draw meeting room before the
+beginning of the Draw | 100 - 150 | 150 | |
 
 ## START LISTS
 
@@ -5790,8 +6217,15 @@ World Best Time: **GER** KOEPPEN/ BORON/ RUTSCHOW/ SORGERS Duisburg (GER) 1996 *
 | | of the racing session. | of the racing session. |
 | International Jury | 20 | 5 - 10 sets |
 | Delivered at the Information | 1 tray labelled "Jury - Start Lists Summary" | 1 tray labelled "Jury - Start Lists" |
-| Centre in two separate trays<br>labelled as shown: | Before first racing day:<br>Delivered 30 minutes after the Draw | Before first racing day:<br>Delivered 30 minutes after the Draw |
-| | On racing days:<br>Delivered 15 minutes after the end of the last race<br>of the racing session. | On racing days:<br>Delivered 30 minutes after the end of the last race<br>of the racing session. |
+| Centre in two separate trays
+labelled as shown: | Before first racing day:
+Delivered 30 minutes after the Draw | Before first racing day:
+Delivered 30 minutes after the Draw |
+| | On racing days:
+Delivered 15 minutes after the end of the last race
+of the racing session. | On racing days:
+Delivered 30 minutes after the end of the last race
+of the racing session. |
 | Control Commission | 10 | 5 sets |
 | Delivered at the Information | 1 tray labelled "Control Commission - Start Lists | 1 tray labelled "Control Commission - Start |
 | Centre in two separate trays | Summary" | Lists" |
@@ -5805,33 +6239,136 @@ World Best Time: **GER** KOEPPEN/ BORON/ RUTSCHOW/ SORGERS Duisburg (GER) 1996 *
 
 | | | Start Lists Summary | | | | | Media Start Lists (with names) | | | | |
 |------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|--------------------------------|------|-----------------------|----------------------|------------------------------------------------------------|------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|--|--|
-| Media<br>Printed at the Media Centre<br>Displayed on the Information<br>boards in the Media areas<br>* Number depends on the | | J/U23 | WC | WCH | | J/U23 | WC | WCH | | | |
-| number of accredited media | Non<br>Finals<br>days | 10/15 | 30/40 | >50 | Non<br>Finals<br>days | 10/15 | 30/40 | >50 | Note:<br>Copied double sided.<br>4 - 6 sets of copies single sided<br>for the commentators<br>? sets of copies single sided for<br>the TV/Radio commentators | | |
+| Media
+Printed at the Media Centre
+Displayed on the Information
+boards in the Media areas
+* Number depends on the | | J/U23 | WC | WCH | | J/U23 | WC | WCH | | | |
+| number of accredited media | Non
+Finals
+days | 10/15 | 30/40 | >50 | Non
+Finals
+days | 10/15 | 30/40 | >50 | Note:
+Copied double sided.
+4 - 6 sets of copies single sided
+for the commentators
+? sets of copies single sided for
+the TV/Radio commentators | | |
 | | Finals | 20/30 | >80 | >100 | Finals | 20/30 | >80 | >100 | | | |
 | | day | 1 tray | | | day | 1 tray for each race | | | | | |
-| | Draw | Before first racing day: | Delivered 30 minutes after the | | Draw | | Before first racing day:<br>Delivered 30 minutes after the | | | | |
-| | On racing days:<br>Delivered 15 minutes after the<br>end of the last race of the racing<br>session. | On racing days:<br>Delivered 30 minutes after the<br>end of the last race of the racing<br>session. | | | | | | | | | |
-| VIP & Sponsors<br>Delivered at the VIP areas<br>* Number depends on the<br>number of attending VIPs | | | OC to decide | | | | No | | | | |
-| Spectators<br>For sale at the Information<br>booths.<br>Displayed on the Information<br>boards in Spectators areas | | | | | | | No | | | | |
+| | Draw | Before first racing day: | Delivered 30 minutes after the | | Draw | | Before first racing day:
+Delivered 30 minutes after the | | | | |
+| | On racing days:
+Delivered 15 minutes after the
+end of the last race of the racing
+session. | On racing days:
+Delivered 30 minutes after the
+end of the last race of the racing
+session. | | | | | | | | | |
+| VIP & Sponsors
+Delivered at the VIP areas
+* Number depends on the
+number of attending VIPs | | | OC to decide | | | | No | | | | |
+| Spectators
+For sale at the Information
+booths.
+Displayed on the Information
+boards in Spectators areas | | | | | | | No | | | | |
 
 ## Results Lists after each Racing session
 
 | | Results Lists Summary | Results Lists (with names) | |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
-| Teams<br>Results Lists Summary -<br>delivered in a single tray in the<br>Information Centre immediately<br>after the end of each racing<br>session labelled as shown<br>above.<br>Results Lists delivered<br>immediately after each race<br>in a race specific tray in the<br>Information Centre labelled<br>with the race number and event<br>code.<br>Both Results Lists above to be<br>displayed on the Information<br>boards in the boathouse area | 100 - 150<br>1 tray labelled:<br>"Results Lists Summary" | (Depends on the number of<br>participating countries)<br>1 tray for each race<br>Labelled with the individual<br>race number and event code.<br>In addition:<br>Build up 10 complete (and<br>separate) lists of all results<br>immediately after each race. | |
-| FISA Council & Commissions<br>Delivered at the end of each<br>racing day to FISA office area in<br>two separate trays labelled as<br>shown: | 20<br>1 tray labelled:<br>"FISA - Results Lists<br>Summary" | 4 sets<br>1 tray labelled:<br>"FISA - Results Lists" | |
-| International Jury<br>Delivered at the end of each<br>racing day to the Information<br>Centre office area in two<br>separate trays labelled as<br>shown: | 20<br>1 tray labelled:<br>"Jury - Results Lists<br>Summary" | 3 sets<br>1 tray labelled:<br>"Jury - Results Lists" | |
-| Control Commission<br>Delivered at the end of each<br>racing day to the Information<br>Centre office area in two<br>separate trays labelled as<br>shown: | 5 sets<br>1 tray labelled:<br>"Control Commission -<br>Results Lists Summary" | 3 sets<br>1 tray labelled:<br>"Control Commission -<br>Results Lists" | |
+| Teams
+Results Lists Summary -
+delivered in a single tray in the
+Information Centre immediately
+after the end of each racing
+session labelled as shown
+above.
+Results Lists delivered
+immediately after each race
+in a race specific tray in the
+Information Centre labelled
+with the race number and event
+code.
+Both Results Lists above to be
+displayed on the Information
+boards in the boathouse area | 100 - 150
+1 tray labelled:
+"Results Lists Summary" | (Depends on the number of
+participating countries)
+1 tray for each race
+Labelled with the individual
+race number and event code.
+In addition:
+Build up 10 complete (and
+separate) lists of all results
+immediately after each race. | |
+| FISA Council & Commissions
+Delivered at the end of each
+racing day to FISA office area in
+two separate trays labelled as
+shown: | 20
+1 tray labelled:
+"FISA - Results Lists
+Summary" | 4 sets
+1 tray labelled:
+"FISA - Results Lists" | |
+| International Jury
+Delivered at the end of each
+racing day to the Information
+Centre office area in two
+separate trays labelled as
+shown: | 20
+1 tray labelled:
+"Jury - Results Lists
+Summary" | 3 sets
+1 tray labelled:
+"Jury - Results Lists" | |
+| Control Commission
+Delivered at the end of each
+racing day to the Information
+Centre office area in two
+separate trays labelled as
+shown: | 5 sets
+1 tray labelled:
+"Control Commission -
+Results Lists Summary" | 3 sets
+1 tray labelled:
+"Control Commission -
+Results Lists" | |
 
 | | | | Results Lists Summary | | | | Results Lists (with names) | | |
 |----------------------------------------------------------------------------------------------------------------|----------------------|------------------------------------------------------|-----------------------|-------------------------------------|----------------------|-------------------------------------------------------|----------------------------|-----|--|
 | Media | | J/U23 | WC | WCH | | J/U23 | WC | WCH | |
-| Printed at the Media Centre<br>Displayed on the Information<br>boards in the Media areas | Non<br>Final<br>days | 10/15<br>30/40<br>>50 | | | Non<br>Final<br>days | 10/15 | 30/40 | >50 | |
-| * Number depends on the<br>number of accredited media | | 20/30 | >80 | >100 | | 20/30 | >80<br>>100 | | |
-| | Final<br>days | In 1 tray delivered at the<br>end of each racing day | | Final<br>days | | In 1 tray delivered<br>immediately after each<br>race | | | |
+| Printed at the Media Centre
+Displayed on the Information
+boards in the Media areas | Non
+Final
+days | 10/15
+30/40
+>50 | | | Non
+Final
+days | 10/15 | 30/40 | >50 | |
+| * Number depends on the
+number of accredited media | | 20/30 | >80 | >100 | | 20/30 | >80
+>100 | | |
+| | Final
+days | In 1 tray delivered at the
+end of each racing day | | Final
+days | | In 1 tray delivered
+immediately after each
+race | | | |
 | | | | | 80 - 100 trays for the Press Centre | | | | | |
-| VIP & Sponsors<br>Delivered at the VIP areas<br>* Number depends on the<br>number of attending VIPs | | | | | | | | | |
-| Spectators<br>For sale at the Information booths<br>Displayed on the Information<br>boards in Spectators areas | | | | | | | | | |
+| VIP & Sponsors
+Delivered at the VIP areas
+* Number depends on the
+number of attending VIPs | | | | | | | | | |
+| Spectators
+For sale at the Information booths
+Displayed on the Information
+boards in Spectators areas | | | | | | | | | |
 
 ## **Hard copies of Start lists must be personally delivered to:**
 
@@ -6017,12 +6554,19 @@ FISA Data Services Data processing by *SWISS Timing*
 | | City, Country | | | | | date: dd mm yy |
 | | | | Crew Change Form | | | |
 | | Reason for Change: | | | | | |
-| | Withdrawal | Change of Rower(s) | Medical Substitution | Change in Seating<br>Position(s) of<br>Rower(s) | Spelling | |
-| (Rule 49) | (Rule 50)<br>(See Rule Book - edition yyyy) | | (Rule 51) | | | |
+| | Withdrawal | Change of Rower(s) | Medical Substitution | Change in Seating
+Position(s) of
+Rower(s) | Spelling | |
+| (Rule 49) | (Rule 50)
+(See Rule Book - edition yyyy) | | (Rule 51) | | | |
 | | Boat Class | Event No: | | | | |
 | | National Federation : | | | | | |
 | | | | | | | |
-| | Family (last) Name | Entered Crew<br>Given (first) Name | File<br>Code | Family (last) Name | Changed Crew<br>Given (first) Name | File<br>Code |
+| | Family (last) Name | Entered Crew
+Given (first) Name | File
+Code | Family (last) Name | Changed Crew
+Given (first) Name | File
+Code |
 | b | | | | | | |
 | 2 | | | | | | |
 | 3 | | | | | | |
@@ -6035,9 +6579,11 @@ FISA Data Services Data processing by *SWISS Timing*
 | | | | | | | |
 | | Signature: | Time: | Date: | | year | |
 | | Name (printed): | | | | | |
-| | [IF MEDICAL SUBSTITUTION]<br>Confirmed by FISA Doctor (signature): | | | Time: | Date: | year |
+| | [IF MEDICAL SUBSTITUTION]
+Confirmed by FISA Doctor (signature): | | | Time: | Date: | year |
 | | Control Comm. Receipt by (signature): | | | Time: | Date: | year |
-| | Forward to:<br>FISA Office | Finish Tower | | Media Centre | | |
+| | Forward to:
+FISA Office | Finish Tower | | Media Centre | | |
 
 ## ![](_page_209_Picture_0.jpeg)
 
@@ -6807,7 +7353,7 @@ Applicable for Senior World Championships.
 - **•** Note the following important points:
  - -- FISA and the Organising Committee are the partners in the preparation of the Bulletins.
  - -- The Bulletins must be in English and may include the local national language. FISA is available to assist in the final editing of the English text.
- - -- As with all official publications, the World Rowing Championships logo (the logo agreed between the Organising Committee and FISA and approved for use) must appear on the Bulletin cover and the correct name for the event must be used i.e. "The <year> World Rowing Championships" or "The <year> World Rowing Junior Championships", etc.
+ - -- As with all official publications, the World Rowing Championships logo (the logo agreed between the Organising Committee and FISA and approved for use) must appear on the Bulletin cover and the correct name for the event must be used i.e. "The  World Rowing Championships" or "The  World Rowing Junior Championships", etc.
  - -- The Organising Committee must also be aware of the need to mention Sponsors if necessary. FISA will provide the relevant information when it receives the first draft.
  - -- The first draft is to be prepared by the Organising Committee and sent to FISA at least **two (2) months** before the distribution date. FISA will comment and add any additional relevant information within two weeks of receipt. The draft should be submitted to FISA in English in Word format.
  - -- The Organising Committee will incorporate the changes to the Bulletin, send a final draft for FISA approval and upon receiving FISA's approval shall have 500 copies printed.
@@ -7525,32 +8071,44 @@ It is essential that all social events are carefully planned, a list of invitati
 | B + 3 months | Incorporation of OC | Event Agreement | OC to notify FISA of details | |
 | C - 2 years & 2 months | Bulletin 1 - draft | C.2.1.1 | OC to send to FISA | |
 | C - 2 years & 6 weeks | Bulletin 1 - draft with comments | C.2.1.1 | FISA to send to OC | FISA |
-| X - 2 years | Bulletin 1 | C.2.1.1 | OC to distribute to all NF's plus<br>60 to FISA | FISA |
+| X - 2 years | Bulletin 1 | C.2.1.1 | OC to distribute to all NF's plus
+60 to FISA | FISA |
 | X - 1 year & 2 months | Bulletin 2 - draft | C.2.1.1 | OC to send to FISA | |
 | X - 1 year & 6 weeks | Bulletin 2 - draft with comments | C.2.1.1 | FISA to send to OC | FISA |
-| X - 1 year | Bulletin 2 | C.2.1.1 | OC to distribute to all NF's, to<br>FISA and to Media reps | |
+| X - 1 year | Bulletin 2 | C.2.1.1 | OC to distribute to all NF's, to
+FISA and to Media reps | |
 | X - 1 year | FISA Site visit | A.4.2 | OC to send to FISA | |
 | X - 1 year | Provisional racing timetable | C.4.1 | FISA to distribute | |
 | End February | FISA Information Bulletin | C.2.2 | FISA to distribute | |
 | X - 6 months | Proposals for ceremonies | C.7.1.2 | OC to send to FISA | FISA |
-| End April | Accommodation deadline | D.1.1 | FISA, Jury, NF and media to send<br>back to OC | |
-| X - 4 months | Request for proposals re:<br>congress | E.1.2 | FISA Executive to send to all NF's | |
+| End April | Accommodation deadline | D.1.1 | FISA, Jury, NF and media to send
+back to OC | |
+| X - 4 months | Request for proposals re:
+congress | E.1.2 | FISA Executive to send to all NF's | |
 | X - 3 months | Team Managers Manual | C.2.1.2 | OC to send draft to FISA | FISA |
 | X - 3 months | List of FISA VIP's | B.13 | FISA to send to OC | |
 | X - 10 weeks | Team Managers Manual | C.2.1.2 | FISA to send comments to OC | |
-| X - 10 weeks | List of FISA VIP's | B.13 | OC to send invitations and<br>confirmations | FISA |
-| X - 10 weeks | Final proposals from NFs for<br>Congress | E.1.2 | NFs to send to FISA | |
+| X - 10 weeks | List of FISA VIP's | B.13 | OC to send invitations and
+confirmations | FISA |
+| X - 10 weeks | Final proposals from NFs for
+Congress | E.1.2 | NFs to send to FISA | |
 | X - 2 months | Agenda Papers Congress | E.1.2 | FISA to distribute | |
-| X - 1 month | Accreditation Deadline (Teams<br>excl rowers) | C.4.3 | NFs to send to FISA | FISA |
-| X - 1 month | Accreditation List (Teams excl<br>rowers) | C.4.3 | FISA to send to OC | |
-| X - 1 month | Media information | C.3 | OC to send to all media<br>representatives | |
-| X - 1 month | Team Managers Manual | C.2.1.2 | OC to distribute to NF's<br>electronically or online | |
-| X - 21 days | International Media<br>Accreditation Deadline | B.10.5 | FISA to manage applications | FISA |
+| X - 1 month | Accreditation Deadline (Teams
+excl rowers) | C.4.3 | NFs to send to FISA | FISA |
+| X - 1 month | Accreditation List (Teams excl
+rowers) | C.4.3 | FISA to send to OC | |
+| X - 1 month | Media information | C.3 | OC to send to all media
+representatives | |
+| X - 1 month | Team Managers Manual | C.2.1.2 | OC to distribute to NF's
+electronically or online | |
+| X - 21 days | International Media
+Accreditation Deadline | B.10.5 | FISA to manage applications | FISA |
 | X - 12 days | List of entries | | FISA to send to OC | |
 | X - 12 days | Provisional timetable | | FISA to send out | |
 | X - 12 days | Entry Lists | | FISA to send to all NF's | |
 | X | First day of the Championships | | Action OC | |
-| C | Congress 2 years before the<br>Champs | | Action FISA | |
+| C | Congress 2 years before the
+Champs | | Action FISA | |
 
 ## **Timeline for FISA World Rowing Championships**
 
@@ -7560,8 +8118,11 @@ It is essential that all social events are carefully planned, a list of invitati
 
 | Timeline | Program Elements | Ref. In FISA Manual | Action | Approved by |
 |------------|----------------------------------------------|---------------------|--------------------------------------------------------|-------------|
-| X - 6 days | Provisional timetable and list of<br>entries | C.4.1 | OC to distribute to all Team<br>Managers and Officials | |
-| X - 6 days | Team Managers Manual | C.2.1.2 | OC to distribute to all Team<br>Managers and Officials | |
+| X - 6 days | Provisional timetable and list of
+entries | C.4.1 | OC to distribute to all Team
+Managers and Officials | |
+| X - 6 days | Team Managers Manual | C.2.1.2 | OC to distribute to all Team
+Managers and Officials | |
 | X - 6 days | Open FISA Offices | B.8.5 | OC | |
 | X - 4 days | Official opening of the venue | D.3.1.3 | OC | |
 | X - 4 days | Start of transport service | D.3.1.3 | OC | |
@@ -7572,7 +8133,8 @@ It is essential that all social events are carefully planned, a list of invitati
 | X - 4 days | Start of Rescue service | B.9.7 | OC | |
 |---------------|--------------------------------------|---------|---------|--|
 | X - 4 days | Open Medical service | B.9.2 | OC | |
-| X - 3 days | Preliminary Team Managers<br>Meeting | B.8.2 | OC | |
+| X - 3 days | Preliminary Team Managers
+Meeting | B.8.2 | OC | |
 | X - 2 days | Practice Starts | | OC | |
 | X - 2 days | Technical dress rehearsal | C.5.2 | FISA/OC | |
 | X - 2 days | Draw | B.8.2 | FISA/OC | |
@@ -7595,15 +8157,20 @@ It is essential that all social events are carefully planned, a list of invitati
 
 | Timeline | Program Elements | Ref. In FISA Manual | Action | Approved by |
 |------------|--------------------------------------------------|---------------------|--------|-------------|
-| X - 2 days | Welcome Reception for FISA<br>and NF del. | C.7.3 | OC | |
-| X - 2 days | Welcome drink for FISA, Jury<br>and OC | C.7.3 | OC | |
-| X + 1 day | Dinner FISA Council, NF Board<br>and OC | C.7.3 | OC | |
+| X - 2 days | Welcome Reception for FISA
+and NF del. | C.7.3 | OC | |
+| X - 2 days | Welcome drink for FISA, Jury
+and OC | C.7.3 | OC | |
+| X + 1 day | Dinner FISA Council, NF Board
+and OC | C.7.3 | OC | |
 | X + 1 day | Jury Reception | C.7.3 | OC | |
-| X + 3 days | FISA Reception (Commissions,<br>Council, Staff ) | C.7.3 | | |
+| X + 3 days | FISA Reception (Commissions,
+Council, Staff ) | C.7.3 | | |
 | X + 4 days | Media Reception | C.7.3 | OC | |
 | X + 6 days | Nations dinner | C.7.3 | OC | |
 | X + 7 days | Athletes' Farewell party | C.7.3 | OC | |
-| X + 7 days | NF Delegates Reception<br>(optional) | C.7.3 | OC | |
+| X + 7 days | NF Delegates Reception
+(optional) | C.7.3 | OC | |
 ## | X + 8 days | Congress lunch | E1.5.1 | OC | |
 
 # **Appendix C.1.1.b Timeline World Junior & U23 Championships**
@@ -7617,24 +8184,35 @@ It is essential that all social events are carefully planned, a list of invitati
 | B + 3 months | Incorporation of OC | Event Agreement | OC to notify FISA of details | |
 | C - 2 years & 2 months | Bulletin 1 - draft | | OC to send to FISA | |
 | C - 2 years & 6 weeks | Bulletin 1 - draft with comments | C.2.1.1 | FISA to send to OC | FISA |
-| C | Bulletin 1 | C.2.1.1 | OC to distribute to NF's & 60<br>to FISA | |
+| C | Bulletin 1 | C.2.1.1 | OC to distribute to NF's & 60
+to FISA | |
 | X - 1 year & 2 months | Bulletin 2 - draft | C.2.1.1 | OC to send to FISA | |
 | X - 1 year & 6 weeks | Bulletin 2 - draft with comments | C.2.1.1 | FISA to send to OC | FISA |
-| X - 1 year | Bulletin 2 | C.2.1.1 | OC to distribute to NF's, FISA<br>and Media | |
+| X - 1 year | Bulletin 2 | C.2.1.1 | OC to distribute to NF's, FISA
+and Media | |
 | X - 1 year | FISA Site visit | A.4.2 | FISA to coordinate with OC | |
 | X - 1 year | Provisional racing timetable | C.4.1 | FISA to distribute | |
 | X - 6 months | Proposal for Opening ceremony | C.7.1.2 | OC to send to FISA | FISA |
-| End February | FISA Information Bulletin | C.2.2 | FISA to send out to Jury, NF's,<br>Media | |
-| End April | Accommodation booking<br>deadline | D.1.1 | FISA, Jury, NF and media to send<br>back to OC | |
+| End February | FISA Information Bulletin | C.2.2 | FISA to send out to Jury, NF's,
+Media | |
+| End April | Accommodation booking
+deadline | D.1.1 | FISA, Jury, NF and media to send
+back to OC | |
 | X - 3 months | Team Managers Manual | C.2.1.2 | OC to send draft to FISA | FISA |
 | X - 3 months | List of FISA VIP's | B.13 | FISA to send to OC | |
 | X - 10 weeks | Team Managers Manual | C.2.1.2 | FISA to send comments to OC | |
-| X - 10 weeks | List of FISA VIP's | B.13 | OC to send invitations/tickets<br>and confirmations | FISA |
-| X - 1 month | Accreditation Deadline (Teams<br>excl rowers) | C.4.3 | NFs to send to FISA | FISA |
-| X - 1 month | Accreditation List (Teams excl<br>rowers) | C.4.3 | FISA to send to OC | |
-| X - 1 month | Media information | C.3 | OC to send to all media<br>representatives | |
-| X - 1 month | Team Managers Manual | C.2.1.2 | OC to distribute to NF's<br>electronically or online | |
-| X - 21 days | International Media<br>Accreditation Deadline | B.10.5 | FISA to manage applications | FISA |
+| X - 10 weeks | List of FISA VIP's | B.13 | OC to send invitations/tickets
+and confirmations | FISA |
+| X - 1 month | Accreditation Deadline (Teams
+excl rowers) | C.4.3 | NFs to send to FISA | FISA |
+| X - 1 month | Accreditation List (Teams excl
+rowers) | C.4.3 | FISA to send to OC | |
+| X - 1 month | Media information | C.3 | OC to send to all media
+representatives | |
+| X - 1 month | Team Managers Manual | C.2.1.2 | OC to distribute to NF's
+electronically or online | |
+| X - 21 days | International Media
+Accreditation Deadline | B.10.5 | FISA to manage applications | FISA |
 | X - 6 days | Entry lists | C.4.1 | FISA to send to OC | |
 | X - 6 days | Provisional timetable | C.4.1 | FISA to send to OC | |
 | X - 6 days | Entry lists | C.4.1 | FISA to send to all NF's | |
@@ -7647,8 +8225,11 @@ It is essential that all social events are carefully planned, a list of invitati
 
 | Timeline | Program Elements | Ref. In FISA Manual | Action | Approved by |
 |------------|----------------------------------------------|---------------------|--------------------------------------------------------|-------------|
-| X - 6 days | Provisional timetable and list of<br>entries | C.4.1 | OC to distribute to all Team<br>Managers and Officials | |
-| X - 6 days | Team Managers Manual | C.2.1.2 | OC to distribute to all Team<br>Managers and Officials | |
+| X - 6 days | Provisional timetable and list of
+entries | C.4.1 | OC to distribute to all Team
+Managers and Officials | |
+| X - 6 days | Team Managers Manual | C.2.1.2 | OC to distribute to all Team
+Managers and Officials | |
 | X - 6 days | Open FISA Offices | B.8.5 | OC | |
 | X - 4 days | Official opening of the venue | C.1.1 | OC | |
 | X - 4 days | Start of transport service | D.3.1.3 | OC | |
@@ -7658,7 +8239,8 @@ It is essential that all social events are carefully planned, a list of invitati
 | X - 4 days | Start of Rescue service | B.9.7 | OC | |
 | X - 4 days | Open Medical Centre | B.9.2 | OC | |
 
-| X - 2 days | Preliminary Team Managers<br>Meeting | B.8.2 | OC | |
+| X - 2 days | Preliminary Team Managers
+Meeting | B.8.2 | OC | |
 |----------------|--------------------------------------|---------|----------------|--|
 | X - 2 days | Technical dress rehearsal | C.5.2 | FISA/OC | |
 | X - 1 day | Open Athlete Weighing | B.7.7 | OC | |
@@ -7666,7 +8248,8 @@ It is essential that all social events are carefully planned, a list of invitati
 | X - 1 day | Jury inspection | C.5.1 | OC | |
 | X - 1 day | Open Media Centre | B.10.2 | OC | |
 | X - 1 day | Coaches' Meeting | B.8.1 | FISA | |
-| X - 1 day | Draw and Team Managers<br>Meeting | B.8.2 | FISA/OC | |
+| X - 1 day | Draw and Team Managers
+Meeting | B.8.2 | FISA/OC | |
 | X - 1 day | Spares' Races | C.5.3 | OC | |
 | X - 1 day | Practice Starts | | OC | |
 | X - 1 (2) days | Opening Ceremony | C.7.1.2 | OC | |
@@ -7681,7 +8264,8 @@ It is essential that all social events are carefully planned, a list of invitati
 | Timeline | Program Elements | Ref. In FISA Manual | Action | Approved by |
 |------------|----------------------------------------|---------------------|--------|-------------|
 | X - 1 day | Opening Ceremony | C.7.1.2 | OC | |
-| X - 1 day | Welcome drink for FISA, Jury<br>and OC | C.7.3 | OC | |
+| X - 1 day | Welcome drink for FISA, Jury
+and OC | C.7.3 | OC | |
 | X | FISA Outing | C.7.3 | OC | |
 | X + 1 day | Jury Outing | C.7.3 | OC | |
 | X + 1 day | Media Reception | C.7.3 | OC | |
@@ -7699,24 +8283,35 @@ It is essential that all social events are carefully planned, a list of invitati
 | B + 3 months | Incorporation of OC | Event Agreement | OC to notify FISA of details | |
 | C - 2 years & 2 months | Bulletin 1 - draft | | OC to send to FISA | |
 | C - 2 years & 6 weeks | Bulletin 1 - draft with comments | C.2.1.1 | FISA to send to OC | FISA |
-| C | Bulletin 1 | C.2.1.1 | OC to distribute to NF's & 60<br>to FISA | |
+| C | Bulletin 1 | C.2.1.1 | OC to distribute to NF's & 60
+to FISA | |
 | X - 1 year & 2 months | Bulletin 2 - draft | C.2.1.1 | OC to send to FISA | |
 | X - 1 year & 6 weeks | Bulletin 2 - draft with comments | C.2.1.1 | FISA to send to OC | FISA |
-| X - 1 year | Bulletin 2 | C.2.1.1 | OC to distribute to NF's, FISA<br>and Media | |
+| X - 1 year | Bulletin 2 | C.2.1.1 | OC to distribute to NF's, FISA
+and Media | |
 | X - 1 year | FISA Site visit | A.4.2 | FISA to coordinate with OC | |
 | X - 1 year | Provisional racing timetable | C.4.1 | FISA to distribute | |
 | X - 6 months | Proposal for Opening ceremony | C.7.1.2 | OC to send to FISA | FISA |
-| End February | FISA Information Bulletin | C.2.2 | FISA to send out to Jury, NF's,<br>Media | |
-| End April | Accommodation booking<br>deadline | D.1.1 | FISA, Jury, NF and media to<br>send back to OC | |
+| End February | FISA Information Bulletin | C.2.2 | FISA to send out to Jury, NF's,
+Media | |
+| End April | Accommodation booking
+deadline | D.1.1 | FISA, Jury, NF and media to
+send back to OC | |
 | X - 3 months | Team Managers Manual | C.2.1.2 | OC to send draft to FISA | FISA |
 | X - 3 months | List of FISA VIP's | B.13 | FISA to send to OC | |
 | X - 10 weeks | Team Managers Manual | C.2.1.2 | FISA to send comments to OC | |
-| X - 10 weeks | List of FISA VIP's | B.13 | OC to send invitations/tickets<br>and confirmations | FISA |
-| X - 1 month | Accreditation Deadline (Teams<br>excl rowers) | C.4.3 | NFs to send to FISA | FISA |
-| X - 1 month | Accreditation List (Teams excl<br>rowers) | C.4.3 | FISA to send to OC | |
-| X - 1 month | Media information | C.3 | OC to send to all media<br>representatives | |
-| X - 1 month | Team Managers Manual | C.2.1.2 | OC to distribute to NF's<br>electronically or online | |
-| X - 21 days | International Media<br>Accreditation Deadline | B.10.5 | FISA to manage applications | FISA |
+| X - 10 weeks | List of FISA VIP's | B.13 | OC to send invitations/tickets
+and confirmations | FISA |
+| X - 1 month | Accreditation Deadline (Teams
+excl rowers) | C.4.3 | NFs to send to FISA | FISA |
+| X - 1 month | Accreditation List (Teams excl
+rowers) | C.4.3 | FISA to send to OC | |
+| X - 1 month | Media information | C.3 | OC to send to all media
+representatives | |
+| X - 1 month | Team Managers Manual | C.2.1.2 | OC to distribute to NF's
+electronically or online | |
+| X - 21 days | International Media
+Accreditation Deadline | B.10.5 | FISA to manage applications | FISA |
 | X - 6 days | Entry lists | C.4.1 | FISA to send to OC | |
 | X - 6 days | Provisional timetable | C.4.1 | FISA to send to OC | |
 | X - 6 days | Entry lists | C.4.1 | FISA to send to all NF's | |
@@ -7734,8 +8329,11 @@ It is essential that all social events are carefully planned, a list of invitati
 
 | Timeline | Program Elements | Ref. In FISA Manual | Action | Approved by |
 |------------|----------------------------------------------|---------------------|--------------------------------------------------------|-------------|
-| X - 6 days | Provisional timetable and list<br>of entries | C.4.1 | OC to distribute to all Team<br>Managers and Officials | |
-| X - 6 days | Team Managers Manual | C.2.1.2 | OC to distribute to all Team<br>Managers and Officials | |
+| X - 6 days | Provisional timetable and list
+of entries | C.4.1 | OC to distribute to all Team
+Managers and Officials | |
+| X - 6 days | Team Managers Manual | C.2.1.2 | OC to distribute to all Team
+Managers and Officials | |
 | X - 6 days | Open FISA Offices | B.8.5 | OC | |
 | X - 4 days | Official opening of the venue | C.1.1 | OC | |
 | X - 4 days | Start of transport service | D.3.1.3 | OC | |
@@ -7745,7 +8343,8 @@ It is essential that all social events are carefully planned, a list of invitati
 | X - 4 days | Start of Rescue service | B.9.7 | OC | |
 | X - 4 days | Open Medical Centre | B.9.2 | OC | |
 
-| X - 2 days | Preliminary Team Managers<br>Meeting | B.8.2 | OC | |
+| X - 2 days | Preliminary Team Managers
+Meeting | B.8.2 | OC | |
 |----------------|--------------------------------------|---------|----------------|--|
 | X - 2 days | Technical dress rehearsal | C.5.2 | FISA/OC | |
 | X - 1 day | Open Athlete Weighing | B.7.7 | OC | |
@@ -7753,7 +8352,8 @@ It is essential that all social events are carefully planned, a list of invitati
 | X - 1 day | Jury inspection | C.5.1 | OC | |
 | X - 1 day | Open Media Centre | B.10.2 | OC | |
 | X - 1 day | Coaches' Meeting | B.8.1 | FISA | |
-| X - 1 day | Draw and Team Managers<br>Meeting | B.8.2 | FISA/OC | |
+| X - 1 day | Draw and Team Managers
+Meeting | B.8.2 | FISA/OC | |
 | X - 1 day | Spares' Races | C.5.3 | OC | |
 | X - 1 day | Practice Starts | | OC | |
 | X - 1 (2) days | Opening Ceremony | C.7.1.2 | OC | |
@@ -7767,15 +8367,21 @@ It is essential that all social events are carefully planned, a list of invitati
 | Timeline | Program Elements | Ref. In FISA Manual | Action | Approved by |
 |----------------|--------------------------------------------------|---------------------|--------|-------------|
 | X - 1 (2) days | Opening Ceremony | C.7.1.2 | OC | |
-| X - 1 day | Welcome drink for FISA, Jury<br>and OC | C.7.3 | OC | |
-| X + 1 day | Dinner FISA Council, NF Board<br>and OC | C.7.3 | OC | |
+| X - 1 day | Welcome drink for FISA, Jury
+and OC | C.7.3 | OC | |
+| X + 1 day | Dinner FISA Council, NF Board
+and OC | C.7.3 | OC | |
 | X + 1 day | Jury Reception | C.7.3 | OC | |
-| X + 3 days | FISA Reception (Commissions,<br>Council, Staff ) | C.7.3 | | |
+| X + 3 days | FISA Reception (Commissions,
+Council, Staff ) | C.7.3 | | |
 | X + 4 days | Media Reception | C.7.3 | OC | |
 | X + 5 days | Nations dinner | C.7.3 | OC | |
-| X + 4 days | Farewell party for Juniors<br>(optional) | C.7.3 | OC | |
-| X + 5 days | Farewell party for Seniors<br>(optional) | C.7.3 | OC | |
-| X + 5 days | NF Delegates Reception<br>(optional) | C.7.3 | OC | |
+| X + 4 days | Farewell party for Juniors
+(optional) | C.7.3 | OC | |
+| X + 5 days | Farewell party for Seniors
+(optional) | C.7.3 | OC | |
+| X + 5 days | NF Delegates Reception
+(optional) | C.7.3 | OC | |
 ## | X + 6 days | Congress lunch | E1.5.1 | OC | |
 
 # Appendix C.1.2. printed Weather Reports Sample -Beijing 2008
@@ -7810,14 +8416,19 @@ UV Index: 8. Avoid being outside during midday hours.
 
 ## 3. Hourly Wind Forecast
 
-| Time<br>Elements | 10:00 | 11:00 | 12:00 | 13:00 | 14:00 | 15:00 |
+| Time
+Elements | 10:00 | 11:00 | 12:00 | 13:00 | 14:00 | 15:00 |
 |----------------------------|-------|-------|----------|-------|-------|-------|
-| Course<br>Wind Directions | V N | NE NE | <b>▼</b> | SE | SE | SE |
-| Course<br>Wind Speed (m/s) | 2 | 2 | 2 | 2 | 2 | 2 |
+| Course
+Wind Directions | V N | NE NE | ▼ | SE | SE | SE |
+| Course
+Wind Speed (m/s) | 2 | 2 | 2 | 2 | 2 | 2 |
 | Gust Wind (m/s) | 3 | 3 | 3 | 4 | 4 | 4 |
 | Time | 16:00 | 17:00 | 1800 | 19:00 | 20:00 | 21:00 |
-| Course<br>Wind Directions | SE | SE | SE | SE SE | SE | SE |
-| Course<br>Wind Speed (m/s) | 2 | 3 | 2 | 2 | 2 | 1 |
+| Course
+Wind Directions | SE | SE | SE | SE SE | SE | SE |
+| Course
+Wind Speed (m/s) | 2 | 3 | 2 | 2 | 2 | 1 |
 ## | Gust Wind (m/s) | 4 | 4 | 4 | 4 | 3 | 3 |
 
 The next forecast will be issued at 12:30, Aug 15, 2008.
@@ -7848,12 +8459,16 @@ Partly cloudy with increasing clouds later in the afternoon. High 30°C/86°F. R
 
 | Time | 13:00 | 14:00 | 15:00 | 16:00 | |
 |----------------------------|------------|-------|-------|-------|-------|
-| Course<br>Wind Directions | <b>▼</b> . | SE | SE | SE | |
-| Course<br>Wind Speed (m/s) | 2 | 3 | 3 | 3 | |
+| Course
+Wind Directions | ▼ . | SE | SE | SE | |
+| Course
+Wind Speed (m/s) | 2 | 3 | 3 | 3 | |
 | Gust Wind (m/s) | 3 | 4 | 4 | 4 | |
 | Time | 17:00 | 1800 | 19:00 | 20:00 | 21:00 |
-| Course<br>Wind Directions | SE | SE | SE | SE | SE |
-| Course<br>Wind Speed (m/s) | 3 | 3 | 3 | 2 | 2 |
+| Course
+Wind Directions | SE | SE | SE | SE | SE |
+| Course
+Wind Speed (m/s) | 3 | 3 | 3 | 2 | 2 |
 ## | Gust Wind (m/s) | 5 | 5 | 4 | 4 | 3 |
 
 The next forecast will be issued at 09:30, Aug13, 2008.
@@ -7867,9 +8482,9 @@ The next forecast will be issued at 09:30, Aug13, 2008.
 | | | | | 4.07 | | Cloudy | Cloudy | Cloudy | Cloudy | Cloudy | |
 | Temp (°C/T) | 25/77 | 28/82 | 29/84 | 28/82 | 23/73 | 21/70 | 20/68 | 20/08 | 25/77 | 28/82 | 28/82 |
 | Relative Humidity (%) | 7.0 | 45 | 35 | 40 | 75 | 80 | 85 | 85 | 7.0 | 90 | 45 |
-| Wind Direction (True) | N | NE | NE | SE | SE | z | Z | Z | N | <b>E</b> | SE |
+| Wind Direction (True) | N | NE | NE | SE | SE | z | Z | Z | N | E | SE |
 | Wind Speed (m/s) | 2 | 2 | 3 | 65 | 2 | 2 | 2 | 3 | 2 | 2 | 89 |
-| 3 Hourly Rainfall <sup>1</sup> (mm) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 3 Hourly Rainfall 1 (mm) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | Time | Aug. 17 | | Aug. 18 | | | | | | | | |
 | Elements | 1800 | 2100 | 0000 | 0300 | 0090 | 0060 | 1200 | 1500 | 1800 | 2100 | |
 | Status of Sky | Cloudy | Showers | Showers | Cloudy | Partly | Partly | Clear | Clear | Clear | Clear | |
@@ -7893,7 +8508,7 @@ The next forecast will be issued at 09:30, Aug13, 2008.
 | Relative Humidity (%) | 40 | 50 | 99 | 7.0 | 80 | 85 | 99 | 20 | 40 | 90 |
 | Wind Direction (True) | SE | s | s | s | s | N | NE | SE | SS | S |
 | Wind Speed (m/s) | 89 | 3 | 89 | 67 | CH | 2 | 2 | 63 | 69 | 00 |
-| 3 Hourly Rainfall <sup>1</sup> (mm) | 0 | 0 | 0 | 0 | D | 0 | 0 | 0 | 0 | 0 |
+| 3 Hourly Rainfall 1 (mm) | 0 | 0 | 0 | 0 | D | 0 | 0 | 0 | 0 | 0 |
 | Time | Aug. 16 | Aug. 17 | | | | | | | | |
 | Elements | 2100 | 0000 | 0300 | 0090 | 0080 | 1200 | 1500 | 1800 | 2100 | |
 | Status of Sky | Cloudy | Cloudy | Cloudy | Cloudy | Cloudy | Cloudy | Cloudy | Showers | Showers | |
@@ -7901,7 +8516,7 @@ The next forecast will be issued at 09:30, Aug13, 2008.
 | Relative Humidity (%) | 65 | 75 | 80 | 822 | 75 | 09 | 50 | 76 | 86 | |
 | Wind Direction (True) | S | z | Z | z | NE | SE | S | SS | 92 | |
 | Wind Speed (m/s) | 3 | 2 | 2 | 2 | 2 | 2 | 3 | 69 | 9 | |
-| 3 Hourly Rainfall <sup>1</sup> (mm) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | - 2 | |
+| 3 Hourly Rainfall 1 (mm) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | - 2 | |
 ## | | | | | | | | | | | |
 
 ## ![](_page_278_Picture_1.jpeg)
@@ -7914,7 +8529,7 @@ The next forecast will be issued at 09:30, Aug13, 2008.
 | Relative Humidity (%) | 90 | 7.0 | 75 | 80 | 09 | 40 | 30 | 40 | 20 | 75 |
 | Wind Direction (True) | SE | z | z | z | NE | SE | SE | SE | SE | N |
 | Wind Speed (m/s) | 2 | 2 | 2 | 5 | 64 | 53 | 8 | 60 | 2 | 2 |
-| 3 Hourly Rainfall <sup>1</sup> (mm) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 3 Hourly Rainfall 1 (mm) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | Time | Aug. 17 | | | | | | | Aug. 18 | | |
 | Elements | 0300 | 0090 | 0060 | 1200 | 1500 | 1800 | 2100 | 0000 | 0300 | 0090 |
 | Status of Sky | Partly | Partly | Partly | Partly | Cloudy | Cloudy | Showers | Showers | Cloudy | Partly |
@@ -7923,7 +8538,7 @@ The next forecast will be issued at 09:30, Aug13, 2008.
 | Relative Humidity (%) | 80 | 82 | 65 | 50 | 45 | 22 | 7.5 | 85 | 90 | 96 |
 | Wind Direction (True) | z | N | NE | SE | SE | SE | SE | N | Z | N |
 | Wind Speed (m/s) | 5 | 2 | 2 | 2 | es | 3 | 53 | 64 | 2 | 2 |
-| 3 Hourly Rainfall <sup>1</sup> (mm) | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 |
+| 3 Hourly Rainfall 1 (mm) | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 |
 
 ## ![](_page_278_Picture_12.jpeg)
 
@@ -8338,10 +8953,20 @@ Set out below are the terms upon which the Bidding Organisation and the Organisi
 - 8. Notwithstanding the fact that FISA is exclusively entitled to exploit all the Commercial /Internet rights in connection with the Championships, the Organising Committee may (subject to FISA's prior written approval in each case) enter into sponsorship and/or advertising agreements in connection with the Organising Committee Event Site, provided they do not include rights reserved for FISA under the Organising Committee's Event Agreement with FISA in respect of the Championships and do not devalue or conflict in any way with such rights and/or with any exclusive rights granted to FISA's sponsors.
 - 9. FISA reserves the right to grant or withhold specific rights in respect of the Organising Committee Event Site on a case-by-case basis and to review and amend this policy from time to time.
 
-| 10. If the Organising Committee breaches any provision(s) of this Website Policy and, where capable of<br>remedy, fails to do so within 24 hours after receiving notice from FISA requiring it to be remedied, then<br>FISA reserves the right to terminate these arrangements and require that the Organising Committee<br>Event Site be closed down and/or that all references to the Championships and FISA/World Rowing be<br>immediately removed from it. |
+| 10. If the Organising Committee breaches any provision(s) of this Website Policy and, where capable of
+remedy, fails to do so within 24 hours after receiving notice from FISA requiring it to be remedied, then
+FISA reserves the right to terminate these arrangements and require that the Organising Committee
+Event Site be closed down and/or that all references to the Championships and FISA/World Rowing be
+immediately removed from it. |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 11. After closure of the Organising Committee Event Site no further use shall be made by the Organising<br>Committee of the FISA or World Rowing logos or of any other proprietary material of FISA unless and to<br>the extent expressly permitted in writing by FISA. |
-| I hold the position of<br>within the National Rowing Federation of<br>and I confirm<br>that I have the authority to make such commitments on behalf of the National Rowing Federation and the<br>potential Organising Committee. |
+| 11. After closure of the Organising Committee Event Site no further use shall be made by the Organising
+Committee of the FISA or World Rowing logos or of any other proprietary material of FISA unless and to
+the extent expressly permitted in writing by FISA. |
+| I hold the position of
+within the National Rowing Federation of
+and I confirm
+that I have the authority to make such commitments on behalf of the National Rowing Federation and the
+potential Organising Committee. |
 | Read, understood and agreed to: |
 | |
 | For and on behalf of the National Rowing Federation of |
@@ -8481,7 +9106,208 @@ The FISA Events Representative in the FISA Office who then communicates the info
 | [31] | [32] | [33] | [34] | [35] | [36] | [37] | [38] | [39] | [40] | [41] | [42] | [43] |
 | | | | | | | | | | | | | |
 | 12 | 14 | 20 | 26 | 9 | 18 | 20 | 27 | 12 | 12 | 25 | 7 | 12 |
-| AUS<br>BLR<br>CZE<br>ESP<br>FRA<br>GER<br>HUN<br>NED<br>NZL<br>RSA<br>UKR<br>USA | AUS<br>CRO<br>CZE<br>FRA<br>GBR<br>GER<br>ITA<br>NZL<br>POL<br>RSA<br>SRB<br>SUI<br>UKR<br>USA | AZE<br>CHI<br>CZE<br>EST<br>GER<br>GRE<br>HUN<br>ITA<br>LAT<br>LTU<br>NED<br>NOR<br>PAK<br>POL<br>ROU<br>SLO<br>SUI<br>TUN<br>USA<br>ZIM | ALB<br>ARG<br>BLR<br>CHI<br>CRO<br>CZE<br>ESA<br>EST<br>GEO<br>GER<br>GRE<br>HUN<br>IRL<br>ITA<br>LTU<br>PAK<br>PER<br>POR<br>RSA<br>RUS<br>SRB<br>SVK<br>SWE<br>TUN<br>UKR<br>USA | BLR<br>BUL<br>CZE<br>FRA<br>GER<br>GRE<br>HUN<br>ROU<br>USA | ARG<br>AZE<br>BUL<br>CHI<br>CRO<br>CZE<br>ESP<br>FRA<br>GER<br>GRE<br>HUN<br>LTU<br>RSA<br>RUS<br>SLO<br>SRB<br>TUR<br>USA | AUS<br>BEL<br>CRO<br>CZE<br>EST<br>FRA<br>GER<br>GRE<br>ITA<br>JPN<br>KOR<br>LAT<br>NED<br>NOR<br>PAK<br>POL<br>ROU<br>SWE<br>USA<br>ZIM | ARG<br>ARM<br>BEL<br>BLR<br>BUL<br>CRO<br>CZE<br>DEN<br>EST<br>FRA<br>GEO<br>GER<br>GRE<br>HUN<br>ITA<br>JPN<br>KOR<br>LAT<br>LTU<br>NED<br>NZL<br>POL<br>POR<br>ROU<br>SLO<br>SUI<br>USA | AUS<br>BLR<br>CRO<br>CZE<br>ESP<br>FRA<br>GBR<br>GER<br>LTU<br>ROU<br>RUS<br>USA | AUS<br>BLR<br>CAN<br>CZE<br>GER<br>ITA<br>NZL<br>POL<br>ROU<br>RUS<br>UKR<br>USA | ARG<br>AUS<br>AUT<br>BLR<br>CAN<br>CRO<br>CZE<br>DEN<br>FRA<br>GBR<br>GER<br>GRE<br>ITA<br>LTU<br>NOR<br>NZL<br>PER<br>POL<br>POR<br>RUS<br>SLO<br>SRB<br>UKR<br>USA<br>ZIM | CZE<br>FRA<br>GBR<br>GER<br>ROU<br>RUS<br>USA | CAN<br>CZE<br>ESP<br>FRA<br>GBR<br>GER<br>ITA<br>NZL<br>ROU<br>RUS<br>UKR<br>USA |
+| AUS
+BLR
+CZE
+ESP
+FRA
+GER
+HUN
+NED
+NZL
+RSA
+UKR
+USA | AUS
+CRO
+CZE
+FRA
+GBR
+GER
+ITA
+NZL
+POL
+RSA
+SRB
+SUI
+UKR
+USA | AZE
+CHI
+CZE
+EST
+GER
+GRE
+HUN
+ITA
+LAT
+LTU
+NED
+NOR
+PAK
+POL
+ROU
+SLO
+SUI
+TUN
+USA
+ZIM | ALB
+ARG
+BLR
+CHI
+CRO
+CZE
+ESA
+EST
+GEO
+GER
+GRE
+HUN
+IRL
+ITA
+LTU
+PAK
+PER
+POR
+RSA
+RUS
+SRB
+SVK
+SWE
+TUN
+UKR
+USA | BLR
+BUL
+CZE
+FRA
+GER
+GRE
+HUN
+ROU
+USA | ARG
+AZE
+BUL
+CHI
+CRO
+CZE
+ESP
+FRA
+GER
+GRE
+HUN
+LTU
+RSA
+RUS
+SLO
+SRB
+TUR
+USA | AUS
+BEL
+CRO
+CZE
+EST
+FRA
+GER
+GRE
+ITA
+JPN
+KOR
+LAT
+NED
+NOR
+PAK
+POL
+ROU
+SWE
+USA
+ZIM | ARG
+ARM
+BEL
+BLR
+BUL
+CRO
+CZE
+DEN
+EST
+FRA
+GEO
+GER
+GRE
+HUN
+ITA
+JPN
+KOR
+LAT
+LTU
+NED
+NZL
+POL
+POR
+ROU
+SLO
+SUI
+USA | AUS
+BLR
+CRO
+CZE
+ESP
+FRA
+GBR
+GER
+LTU
+ROU
+RUS
+USA | AUS
+BLR
+CAN
+CZE
+GER
+ITA
+NZL
+POL
+ROU
+RUS
+UKR
+USA | ARG
+AUS
+AUT
+BLR
+CAN
+CRO
+CZE
+DEN
+FRA
+GBR
+GER
+GRE
+ITA
+LTU
+NOR
+NZL
+PER
+POL
+POR
+RUS
+SLO
+SRB
+UKR
+USA
+ZIM | CZE
+FRA
+GBR
+GER
+ROU
+RUS
+USA | CAN
+CZE
+ESP
+FRA
+GBR
+GER
+ITA
+NZL
+ROU
+RUS
+UKR
+USA |
 
 | | NOCs | Crews | Competitors |
 |--------------|------|-------|-------------|
@@ -8653,11 +9479,23 @@ The FISA Events Representative in the FISA Office who then communicates the info
 
 | | | Olympic Events | | | | | | | | | | | | | | |
 |------------------------------|----------|----------------|----------|----------|----------|----------|----------|----------|-----|------|-----------|-----------|------|-----------|------------------|-----|
-| NOC<br>CodeNOC | W2- | M2- | W2x | M2x | M4- | W1x | M1x | LW2xLM2x | | LM4- | W4x | M4x | W8+ | M8+ | NOC<br>Code Total | |
-| UKR Ukraine | [1]<br>1 | [2] | [3]<br>1 | [4]<br>1 | [5]<br>1 | [6]<br>1 | [7]<br>1 | [8] | [9] | [10] | [11]<br>1 | [12]<br>1 | [13] | [14]<br>1 | UKR | 15 |
+| NOC
+CodeNOC | W2- | M2- | W2x | M2x | M4- | W1x | M1x | LW2xLM2x | | LM4- | W4x | M4x | W8+ | M8+ | NOC
+Code Total | |
+| UKR Ukraine | [1]
+1 | [2] | [3]
+1 | [4]
+1 | [5]
+1 | [6]
+1 | [7]
+1 | [8] | [9] | [10] | [11]
+1 | [12]
+1 | [13] | [14]
+1 | UKR | 15 |
 | USA United States of America | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | USA | 24 |
 | UZB Uzbekistan | | | | | | | 1 | | | | | | | | UZB | 2 |
-| 54<br>Total | 14 | 14 | 14 | 17 | 16 | 20 | 26 | 15 | 22 | 21 | 8 | 14 | 8 | 10 | 54 | 357 |
+| 54
+Total | 14 | 14 | 14 | 17 | 16 | 20 | 26 | 15 | 22 | 21 | 8 | 14 | 8 | 10 | 54 | 357 |
 
 **INTERNET Service: www.worldrowing.com** Page 2 / 6
 
@@ -8675,7 +9513,8 @@ The FISA Events Representative in the FISA Office who then communicates the info
 
 | NOC | | International Events | | | | | | | | NOC | |
 |-------------|---------------------------|----------------------|------|----------------|----------------|------|------|------|------|-------|-------|
-| NOC<br>Code | NOC | W4- | M2+ | | LM1x | LM8+ | LM2- | LW4x | LM4x | Code | Total |
+| NOC
+Code | NOC | W4- | M2+ | | LM1x | LM8+ | LM2- | LW4x | LM4x | Code | Total |
 | | | [15] | [16] | [17] | [18] | [19] | [20] | [21] | [22] | | |
 | ALG | Algeria | | | 1 | | | | | | ALG | 2 |
 | ARG | Argentina | | | | | | | | | ARG | 2 |
@@ -8691,18 +9530,19 @@ The FISA Events Representative in the FISA Office who then communicates the info
 | CRO | Croatia | _ | 1 | 1 | _ | _ | - | + | _ | CRO | 6 |
 | CUB | Cuba | - | - | - | - | - | - | + | - | CUB | 6 |
 | CZE | Czech Republic | _ | 1 | 1 | 1 | - | 1 | - | _ | CZE | 12 |
-| DEN | Denmark | _ | | <del>l i</del> | <del>l i</del> | | l i | + | 1 | DEN | 8 |
+| DEN | Denmark | _ | | l i | l i | | l i | + | 1 | DEN | 8 |
 | EGY | Egypt | - | - | - | - | - | | - | - | EGY | 3 |
 | ESP | Spain | _ | - | 1 | 1 | - | - | - | - | ESP | 6 |
-| EST | Estonia | - | - | <u> </u> | <u> </u> | - | - | - | - | EST | 4 |
+| EST | Estonia | - | - |   |   | - | - | - | - | EST | 4 |
 | FIN | Finland | - 1 | - | - | 1 | - | | - | - | FIN | 2 |
 | FRA | France | _ | 1 | - | - | 1 | 1 | - | 1 | FRA | 15 |
 | GBR | Great Britain | | ' | 1 | 1 | - ' | H-i | 1 | | GBR | 21 |
 | GER | Germany | 1 | 1 | 1 | + | 1 | + | 1 | 1 | GER | 24 |
 | GRE | Greece | - 1 | 1 | 1 | 1 | 1 | - | - | - | GRE | 7 |
-| HKG | Hong Kong, China | | | ⊢ <del>i</del> | ⊢ <del>i</del> | | | | | HKG | 4 |
+| HKG | Hong Kong, China | | | ⊢ i | ⊢ i | | | | | HKG | 4 |
 | HUN | 0 0 | - | | ' | 1 | 1 | | | | HUN | 5 |
-| INA | Hungary<br>Indonesia | _ | | | <u> </u> | ' | | | | NA | |
+| INA | Hungary
+Indonesia | _ | | |   | ' | | | | NA | |
 | IND | India | | | | | | | | | ND ND | 2 |
 | | | - 1 | | | 1 | | | | | RI | |
 | IRI | Islamic Republic of Iran | | | 1 | 1 | | | 1 | | | 8 |
@@ -8727,7 +9567,7 @@ The FISA Events Representative in the FISA Office who then communicates the info
 | SRB | Serbia | | | _ | | | 1 | | | SRB | 6 |
 | SUI | Switzerland | | | 1 | 1 | | 1 | | | SUI | 5 |
 | SVK | Slovakia | - | | _ | 1 | | | _ | | SVK | 1 |
-| | Sweden | _ | | 1 | <u> </u> | | | _ | _ | SWE | 4 |
+| | Sweden | _ | | 1 |   | | | _ | _ | SWE | 4 |
 ## | | Turkey | | | | | 1 | | _ | | TUR | 1 |
 
 ## INTERNET Service: www.worldrowing.com
@@ -8746,7 +9586,9 @@ FISA Data Service data processing by 🤧 swiss 7000000 Report Created TUE 11 AU
 
 | NOC | | | International Events | | | | | | | | |
 |-------------|--------------------------|------|----------------------|------|------|------|------|------|------|-------------|-------|
-| NOC<br>Code | NOC | W4- | M2+ | LW1x | | LM8+ | | LW4x | | NOC<br>Code | Total |
+| NOC
+Code | NOC | W4- | M2+ | LW1x | | LM8+ | | LW4x | | NOC
+Code | Total |
 | Couc | | [15] | [16] | [17] | [18] | [19] | [20] | [21] | [22] | | |
 | UKR | Ukraine | | 1 | | 1 | | | | | JUKR | 15 |
 | USA | United States of America | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | USA | 24 |
@@ -8769,13 +9611,20 @@ data processing by 🤧 swiss number
 
 | | · · | | | Adaptive Even | ts | | NOO | |
 |-------------|---------------------------|---------------|--------------------------------------------------|-----------------|--------------------|------------------|-------------|-------|
-| NOC<br>Code | NOC | ASW1x<br>[81] | ASM1x<br>[82] | TAMix2x<br>[83] | LTAIDMix4+<br>[84] | LTAMix4+<br>[85] | NOC<br>Code | Total |
-| ALG | Algeria | - | <del> </del> | + | + | | ALG | - |
+| NOC
+Code | NOC | ASW1x
+[81] | ASM1x
+[82] | TAMix2x
+[83] | LTAIDMix4+
+[84] | LTAMix4+
+[85] | NOC
+Code | Total |
+| ALG | Algeria | - |   | + | + | | ALG | - |
 | | Argentina | | - | | _ | | ARG | - 2 |
 | | Australia | | 1 | | | 1 | AUS | 10 |
-| | | | - | | | <u>'</u> | AUT | 1 2 |
+| | | | - | | | ' | AUT | 1 2 |
 | | Austria | - 5 | | | | | | |
-| | Belgium | | <u> </u> | L., | | | BEL | |
+| | Belgium | |   | L., | | | BEL | |
 | | Belarus | 1 | 1 | 1 | | | BLR | 1: |
 | | Brazil | 1 | 1 | 1 | | 1 | BRA | |
 | | Bulgaria | | | | | | BUL | 1 2 |
@@ -8797,7 +9646,7 @@ data processing by 🤧 swiss number
 | GRE | Greece | - | _ | | | | GRE | |
 | HKG | Hong Kong, China | | | | 1 1 | | HKG | - |
 | | Hungary | 1 | 1 1 | | _ | | HUN | |
-| INA | Indonesia | <u>'</u> | - | - | _ | | INA | 2 |
+| INA | Indonesia | ' | - | - | _ | | INA | 2 |
 | IND | India | | | | | | IND | 2 |
 | IRI | | | | | | | IRI | |
 | | Islamic Republic of Iran | | | | | | | 8 |
@@ -8844,7 +9693,14 @@ data processing by 🥇 swiss number
 
 | NOC | | | Adaptive Events | | | | | | | |
 |-------------|--------------------------|---------------|-----------------|-----------------|--------------------|------------------|-------------|-------|--|--|
-| NOC<br>Code | NOC | ASW1x<br>[81] | ASM1x<br>[82] | TAMix2x<br>[83] | LTAIDMix4+<br>[84] | LTAMix4+<br>[85] | NOC<br>Code | Total | | |
+| NOC
+Code | NOC | ASW1x
+[81] | ASM1x
+[82] | TAMix2x
+[83] | LTAIDMix4+
+[84] | LTAMix4+
+[85] | NOC
+Code | Total | | |
 | UKR | Ukraine | 1 1 | 1 | 1 | | . 1 | UKR | 15 | | |
 | USA | United States of America | | 1 | | | 1 | USA | 24 | | |
 | UZB | Uzbekistan | | | | | | UZB | 2 | | |
@@ -9182,12 +10038,14 @@ Please complete this form and submit for approval. Please report to the accredit
 |---------------------------------------------------------------------------------------|--------------------------------|-------|--------------|---------------------------------------------------|
 | Last name: | First name: | | | |
 | Date & place of birth: | | | Nationality: | |
-| Sex: Male<br>Female | | | | |
+| Sex: Male
+Female | | | | |
 | Street & no: | | | | |
 | City: | Postal code: | | Country: | |
 | Tel: | Fax: | | E-mail: | |
 | Type of Accreditation Requested | | | | |
-| Team<br>FISA | OC | Media | VIP | Other |
+| Team
+FISA | OC | Media | VIP | Other |
 | Function | | | | |
 | Date: | Signature of applicant: | | | |
 | Approval of Team Manager or NF Secretary General (if Team Accreditation is requested) | | | | |
@@ -9195,7 +10053,8 @@ Please complete this form and submit for approval. Please report to the accredit
 | Date: | Signature: | | | |
 | Approval by FISA or OC: | | | | |
 | Accreditation approved for issue: | | | | |
-| Team<br>FISA | OC | Media | VIP | Other |
+| Team
+FISA | OC | Media | VIP | Other |
 | Function | | | | |
 | Date: | Signature of applicant: | | | |
 | Approved Access: | | | | |
@@ -9216,7 +10075,9 @@ Please complete this form and submit for approval. Please report to the accredit
 
 # **Appendix C.4.3.e Accreditation Chart**
 
-| | Responsible<br>Person | | | | Venue Access and<br>Athletes Area | Media Areas |
+| | Responsible
+Person | | | | Venue Access and
+Athletes Area | Media Areas |
 |-----------|-----------------------|--------|------------------------------------------------|-----------------|-----------------------------------|-------------|
 | | | | | | A | M |
 | Accredit. | | Colour | Groups | Access to Zones | Authorised by: | |
@@ -9226,7 +10087,8 @@ Please complete this form and submit for approval. Please report to the accredit
 | 3 | DO | " | FISA Commission | A, Media Pass* | A | M |
 | 4 | DO | " | International Jury | A | A | |
 | 5 | DO | " | FISA Staff / Consultant | A, Media Pass* | A | M |
-| 6 | DO | " | Future FISA Organising Committees / Bid<br>OCs | A | A | |
+| 6 | DO | " | Future FISA Organising Committees / Bid
+OCs | A | A | |
 | | | | Teams | | NF Team Manager | |
 | 11 | DO | Blue | Rower | A | A | |
 | 12 | DO | " | Team Manager | A, Media Pass* | A | |
@@ -9256,13 +10118,13 @@ Please complete this form and submit for approval. Please report to the accredit
 | | | " | Umpires | | | |
 ## | 44 | DO | " | Candidate / Renewal | A | A | |
 
-<sup>»»</sup> Team Managers may obtain a numbered Media Pass from the Media Centre.
+»» Team Managers may obtain a numbered Media Pass from the Media Centre.
 
 ## »» MG - Marion Gallimore (FISA)
 
-<sup>»»</sup> Access to all Grandstand and Hospitality areas is through a ticket only except for service providers in these areas.
+»» Access to all Grandstand and Hospitality areas is through a ticket only except for service providers in these areas.
 
-## <sup>»»</sup> DO - Daniela Oronova (FISA)
+## »» DO - Daniela Oronova (FISA)
 
 ## ![](_page_325_Picture_0.jpeg)
 
@@ -10087,7 +10949,25 @@ Lemonade Soft drinks (regular and diet) Fruit juice Water (regular and mineral)
 | Route 1 | | Route 2 | | Route 3 | | Route 4 | | Route 6 | | Route 5 | |
 |------------------------------|-------------------|------------------------------|-------------------|------------------------------|-------------------|------------------------------|-------------------|------------------------------|-------------------|------------------------------|-------------------|
 | Hotels: | | Hotels: | | Hotels: | | Hotels: | | Hotels: | | Hotels: | |
-| From<br>Hotels to<br>Regatta | No. of<br>Persons | From<br>Hotels to<br>Regatta | No. of<br>Persons | From<br>Hotels to<br>Regatta | No. of<br>Persons | From<br>Hotels to<br>Regatta | No. of<br>Persons | From<br>Hotels to<br>Regatta | No. of<br>Persons | From<br>Hotels to<br>Regatta | No. of<br>Persons |
+| From
+Hotels to
+Regatta | No. of
+Persons | From
+Hotels to
+Regatta | No. of
+Persons | From
+Hotels to
+Regatta | No. of
+Persons | From
+Hotels to
+Regatta | No. of
+Persons | From
+Hotels to
+Regatta | No. of
+Persons | From
+Hotels to
+Regatta | No. of
+Persons |
 | 06:00 hrs | | 06:00 hrs | | 06:00 hrs | | 06:00 hrs | | 06:00 hrs | | 06:00 hrs | |
 | 06:30 hrs | | 06:30 hrs | | 06:30 hrs | | 06:30 hrs | | 06:30 hrs | | 06:30 hrs | |
 | 07:00 hrs | | 07:00 hrs | | 07:00 hrs | | 07:00 hrs | | 07:00 hrs | | 07:00 hrs | |
@@ -10106,7 +10986,25 @@ Lemonade Soft drinks (regular and diet) Fruit juice Water (regular and mineral)
 | 17:30 hrs | | 17:30 hrs | | 17:30 hrs | | 17:30 hrs | | 17:30 hrs | | 17:30 hrs | |
 | 18:00 hrs | | 18:00 hrs | | 18:00 hrs | | 18:00 hrs | | 18:00 hrs | | 18:00 hrs | |
 
-| From<br>Regatta to<br>Hotels | No. of<br>Persons | From<br>Regatta to<br>Hotels | No. of<br>Persons | From<br>Regatta to<br>Hotels | No. of<br>Persons | From<br>Regatta to<br>Hotels | No. of<br>Persons | From<br>Regatta to<br>Hotels | No. of<br>Persons | From<br>Regatta to<br>Hotels | No. of<br>Persons |
+| From
+Regatta to
+Hotels | No. of
+Persons | From
+Regatta to
+Hotels | No. of
+Persons | From
+Regatta to
+Hotels | No. of
+Persons | From
+Regatta to
+Hotels | No. of
+Persons | From
+Regatta to
+Hotels | No. of
+Persons | From
+Regatta to
+Hotels | No. of
+Persons |
 |------------------------------|-------------------|------------------------------|-------------------|------------------------------|-------------------|------------------------------|-------------------|------------------------------|-------------------|------------------------------|-------------------|
 | 09:30 hrs | | 09:30 hrs | | 09:30 hrs | | 09:30 hrs | | 09:30 hrs | | 09:30 hrs | |
 | 10:00 hrs | | 10:00 hrs | | 10:00 hrs | | 10:00 hrs | | 10:00 hrs | | 10:00 hrs | |
@@ -10140,7 +11038,7 @@ Lemonade Soft drinks (regular and diet) Fruit juice Water (regular and mineral)
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|-------|--|---------------|------|-----|-------|
 | | 09:30 hrs | | | | | | 0 |
 | | 10:00 hrs | | | | | | 0 |
-| | 10:30 hrs | 20 90 | | <i>2</i> - 92 | 2 83 | | 0 |
+| | 10:30 hrs | 20 90 | | 2 - 92 | 2 83 | | 0 |
 | | 11:00 hrs | | | | | | 0 |
 | | 11:30 hrs | | | | | | 0 |
 | | 12:00 hrs | | | | | | 0 |
@@ -10165,7 +11063,13 @@ Lemonade Soft drinks (regular and diet) Fruit juice Water (regular and mineral)
 | Route 1 | Route 2 | Route 3 | Route 4 | Route 5 | Route 6 |
 |---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|
 | Hotels: | Hotels: | Hotels: | Hotels: | Hotels: | Hotels: |
-| From Hotels to<br>Regatta | From Hotels to<br>Regatta | From Hotels to<br>Regatta | From Hotels to<br>Regatta | From Hotels to<br>Regatta | From Hotels to<br>Regatta |
+| From Hotels to
+Regatta | From Hotels to
+Regatta | From Hotels to
+Regatta | From Hotels to
+Regatta | From Hotels to
+Regatta | From Hotels to
+Regatta |
 | 06:00 hrs | 06:00 hrs | 06:00 hrs | 06:00 hrs | 06:00 hrs | 06:00 hrs |
 | 06:30 hrs | 06:30 hrs | 06:30 hrs | 06:30 hrs | 06:30 hrs | 06:30 hrs |
 | 07:00 hrs | 07:00 hrs | 07:00 hrs | 07:00 hrs | 07:00 hrs | 07:00 hrs |
@@ -10183,7 +11087,13 @@ Lemonade Soft drinks (regular and diet) Fruit juice Water (regular and mineral)
 | 17:00 hrs | 17:00 hrs | 17:00 hrs | 17:00 hrs | 17:00 hrs | 17:00 hrs |
 | 17:30 hrs | 17:30 hrs | 17:30 hrs | 17:30 hrs | 17:30 hrs | 17:30 hrs |
 | 18:00 hrs | 18:00 hrs | 18:00 hrs | 18:00 hrs | 18:00 hrs | 18:00 hrs |
-| From Regatta to<br>Hotels | From Regatta to<br>Hotels | From Regatta to<br>Hotels | From Regatta to<br>Hotels | From Regatta to<br>Hotels | From Regatta to<br>Hotels |
+| From Regatta to
+Hotels | From Regatta to
+Hotels | From Regatta to
+Hotels | From Regatta to
+Hotels | From Regatta to
+Hotels | From Regatta to
+Hotels |
 | 09:30 hrs | 09:30 hrs | 09:30 hrs | 09:30 hrs | 09:30 hrs | 09:30 hrs |
 | 10:00 hrs | 10:00 hrs | 10:00 hrs | 10:00 hrs | 10:00 hrs | 10:00 hrs |
 | 10:30 hrs | 10:30 hrs | 10:30 hrs | 10:30 hrs | 10:30 hrs | 10:30 hrs |

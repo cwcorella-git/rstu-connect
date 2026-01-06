@@ -1,3 +1,8 @@
+---
+title: "## **Two new anarchist feminist projects in Scotland**"
+category: "feminist-theory"
+---
+
 ## **Two new anarchist feminist projects in Scotland**
 
 ## **Date:** Unknown
@@ -54,7 +59,8 @@ We also haven't had our creches organised by them - we have one creche which is 
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 7 years 4 months ago |
 | In reply to Welcomebylibcom.org |
-| The inclusion statement for the bookfair clearly states terfs are not welcome, fyi. If they turn<br>up, they'll be asked to leave. http://edinburghafb.org/inclusion.html|
+| The inclusion statement for the bookfair clearly states terfs are not welcome, fyi. If they turn
+up, they'll be asked to leave. http://edinburghafb.org/inclusion.html|
 | Ramona |
 | 7 years 4 months ago |
 | In reply to Welcomebylibcom.org |

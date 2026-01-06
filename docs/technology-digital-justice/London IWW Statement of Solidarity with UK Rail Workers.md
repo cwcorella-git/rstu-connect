@@ -1,3 +1,8 @@
+---
+title: "## **London IWW Statement of Solidarity with UK Rail Workers**"
+category: "technology-digital-justice"
+---
+
 ## **London IWW Statement of Solidarity with UK Rail Workers**
 
 ## **Date:** Mon, 08/01/2022 - 00:00

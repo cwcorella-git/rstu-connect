@@ -1,10 +1,10 @@
 ---
-date: 2025
-author: Unknown
-tags:
-  - organizing
 title: "Inside the DNC’s money problems - POLITICO"
+author: "Unknown"
+date: "2025"
+category: "misc"
 ---
+
 # Inside the DNC’s money problems - POLITICO
 
 *Converted from: `./Inside the DNC’s money problems - POLITICO.pdf`*  
@@ -56,13 +56,9 @@ title: "Inside the DNC’s money problems - POLITICO"
 Inside the DNC’s money problems - POLITICO                            https://www.politico.com/news/2025/08/18/dnc-fundrais...
 
 
-
-
             Inside the DNC’s money problems
             Big donors have pulled back from giving to the party, and small donors are not growing enough to make up the
             gap.
-
-
 
 
             Democratic National Committee Chair Ken Martin speaks at the Gaylord National Resort and Convention
@@ -74,14 +70,11 @@ Inside the DNC’s money problems - POLITICO                            https://
             Updated: 08/18/2025 07:05 AM EDT
 
 
-
-
             The Democratic National Committee has fallen far behind in the cash race.
 
             After a brutal 2024 election and several months into rebuilding eﬀorts under new party
             leadership, the DNC wildly trails the Republican National Committee by nearly every
             fundraising metric. By the end of June, the RNC had $80 million on hand, compared to
-
 
 
 1 of 7                                                                                                               9/8/25, 12:18 PM
@@ -100,7 +93,6 @@ Inside the DNC’s money problems - POLITICO                  https://www.politi
 
 
             $15 million for the DNC.
-
 
 
             And the gap — nearly twice as large as it was at this stage in Donald Trump’s ﬁrst
@@ -136,7 +128,6 @@ Inside the DNC’s money problems - POLITICO                  https://www.politi
             require all hands on deck to meet this moment.”
 
 
-
 2 of 7                                                                                              9/8/25, 12:18 PM
 
 ---
@@ -150,8 +141,6 @@ Inside the DNC’s money problems - POLITICO                  https://www.politi
 
 
 Inside the DNC’s money problems - POLITICO                   https://www.politico.com/news/2025/08/18/dnc-fundrais...
-
-
 
 
             The DNC’s money woes stand out among major Democratic groups, POLITICO’s
@@ -188,7 +177,6 @@ Inside the DNC’s money problems - POLITICO                   https://www.polit
             want.”
 
 
-
 3 of 7                                                                                                 9/8/25, 12:18 PM
 
 ---
@@ -218,15 +206,10 @@ Inside the DNC’s money problems - POLITICO                         https://www
             ﬁgure was 37.)
 
 
-
                                          W AT C H : T H E P L AY B O O K P O D C A S T
 
 
-
-
                 Trump’s jobs report dilemma
-
-
 
 
             That means dozens of the DNC’s biggest donors from early last cycle have not yet given
@@ -238,9 +221,7 @@ Inside the DNC’s money problems - POLITICO                         https://www
             cash — though often not as much, and not to the DNC.
 
 
-
             In the run-up to the DNC chair election earlier this year, several large donors publicly
-
 
 
 4 of 7                                                                                                    9/8/25, 12:18 PM
@@ -337,8 +318,6 @@ Inside the DNC’s money problems - POLITICO                                    
             C A M PA I G N F U N D R A I S I N G
 
 
-
-
                 Playbook
                 The unofficial guide to official Washington, every morning and weekday afternoons.
 
@@ -364,8 +343,6 @@ Inside the DNC’s money problems - POLITICO                                    
                 of Service apply.
 
 
-
-
 6 of 7                                                                                                                                                     9/8/25, 12:18 PM
 
 ---
@@ -379,8 +356,6 @@ Inside the DNC’s money problems - POLITICO                                    
 
 
 Inside the DNC’s money problems - POLITICO                  https://www.politico.com/news/2025/08/18/dnc-fundrais...
-
-
 
 
                                                   About Us
@@ -416,20 +391,14 @@ Inside the DNC’s money problems - POLITICO                  https://www.politi
                                                    Site Map
 
 
-
                                                Terms of Service
 
                                                 Privacy Policy
 
 
-
-
                                              © 2025 POLITICO LLC
-
-
 
 
 7 of 7                                                                                             9/8/25, 12:18 PM
 
 ---
-

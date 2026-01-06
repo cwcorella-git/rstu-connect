@@ -1,3 +1,8 @@
+---
+title: "## **June 11th: Interview with Panagioti from Fight Toxic Prisons**"
+category: "contemporary-analysis"
+---
+
 ## **June 11th: Interview with Panagioti from Fight Toxic Prisons**
 
 ## **Date:** Tue, 05/15/2018 - 16:22
@@ -20,15 +25,24 @@ June 11th International Day of Solidarity with Marius Mason and all long-term an
 
 ## June11.org
 
-| . They turned out so amazing and moving. They turned out so amazing and we really<br>encourage everyone to check them out if they haven't yet! |
+| . They turned out so amazing and moving. They turned out so amazing and we really
+encourage everyone to check them out if they haven't yet! |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | That brings us to 2018. |
 | The theme for |
 | June 11th this year |
-| is how to maintain the long-term movements and commitments that are necessary for<br>supporting our comrades both 7, 10 years and in turn be regenerating and nourishing to us in<br>our struggles. We hope through y'alls engagement with June 11th events, writing, music,<br>actions and these interviews, we can really dig into these questions. |
-| So with all of our guests this year, we'll be discussing those concepts that as well as their own<br>stories, their passions, and their work. First we have with us Panagioti from |
+| is how to maintain the long-term movements and commitments that are necessary for
+supporting our comrades both 7, 10 years and in turn be regenerating and nourishing to us in
+our struggles. We hope through y'alls engagement with June 11th events, writing, music,
+actions and these interviews, we can really dig into these questions. |
+| So with all of our guests this year, we'll be discussing those concepts that as well as their own
+stories, their passions, and their work. First we have with us Panagioti from |
 | Fight Toxic Prisons |
-| , or FTP as it's often been affectionately referred to, which is "organizing resistance at the<br>intersection of mass incarceration and the environment." One of the main ways they do this is<br>holding a major convergence every year right around June 11th. And those connections is<br>really important because of the history of June 11th beginning with solidarity for eco prisoner<br>Jeff Leurs in 2004, and then after Jeff's release eco-anarchists |
+| , or FTP as it's often been affectionately referred to, which is "organizing resistance at the
+intersection of mass incarceration and the environment." One of the main ways they do this is
+holding a major convergence every year right around June 11th. And those connections is
+really important because of the history of June 11th beginning with solidarity for eco prisoner
+Jeff Leurs in 2004, and then after Jeff's release eco-anarchists |
 | Marius Mason |
 ## | and Eric Mc David. |
 

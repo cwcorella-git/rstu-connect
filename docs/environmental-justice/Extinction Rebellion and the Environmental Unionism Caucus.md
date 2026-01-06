@@ -1,3 +1,8 @@
+---
+title: "## **Extinction Rebellion and the Environmental Unionism Caucus**"
+category: "environmental-justice"
+---
+
 ## **Extinction Rebellion and the Environmental Unionism Caucus**
 
 **Date:** Tue, 11/20/2018 - 20:35 **Source:** https://ecology.iww.org/node/2991**Tags:** Extinction Rebellion (XR), Industrial Workers of the World (IWW), Bristol IWW, green syndicalism, climate justice, direct action, IWW Environmental Unionism Caucus By staff - Bristol IWW , November 15, 2018 Bristol IWW has voted to give it's full support to Rising Up! and it's Extinction Rebellion campaign and establish an Environmental Unionism Caucus. Please join us in London this Saturday to demand action on the impending climate catastrophe.

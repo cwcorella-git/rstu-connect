@@ -1,3 +1,8 @@
+---
+title: "Socialism: Utopian and Scientific"
+category: "contemporary-analysis"
+---
+
 # Socialism: Utopian and Scientific
 
 # Frederick Engels

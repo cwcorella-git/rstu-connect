@@ -1,3 +1,8 @@
+---
+title: "## **'We need social ownership and democratic control of energy'**"
+category: "environmental-justice"
+---
+
 ## **'We need social ownership and democratic control of energy'**
 
 **Date:** Thu, 12/17/2015 - 17:39 **Source:** https://ecology.iww.org/node/1441**Tags:** Trade Unions for Energy Democracy (TUED), COP21, green unionism, just transition, labor and environment, green jobs By Tabby Spence - New Internationalist , December 16, 2015

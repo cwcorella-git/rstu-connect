@@ -1,3 +1,8 @@
+---
+title: "## [pcwrede.com](https://pcwrede.com/pcw-wp/first-novels-part-4-the-first-veil/)"
+category: "arts-culture-music"
+---
+
 ## [pcwrede.com](https://pcwrede.com/pcw-wp/first-novels-part-4-the-first-veil/)
 
 ## **First Novels, Part 4-The First Veil – Patricia C. Wrede**

@@ -1,15 +1,8 @@
 ---
-title: >-
-  To Remember Spain the Anarchist and Syndicalist Revolution of 1936 Murray
-  Bookch
-date: 2025
-author: Murray Bookchin
-tags:
-  - organizing
-  - strikes
-  - unions
-  - rent
-  - police
+title: ">-"
+author: "Murray Bookchin"
+date: "2025"
+category: "theory"
 ---
 
 # To Remember Spain the Anarchist and Syndicalist Revolution of 1936 Murray Bookch

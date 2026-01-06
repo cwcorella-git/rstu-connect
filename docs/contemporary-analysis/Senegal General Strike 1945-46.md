@@ -1,3 +1,8 @@
+---
+title: "## **Senegal General Strike: 1945-46**"
+category: "contemporary-analysis"
+---
+
 ## **Senegal General Strike: 1945-46**
 
 ## **Date:** Unknown

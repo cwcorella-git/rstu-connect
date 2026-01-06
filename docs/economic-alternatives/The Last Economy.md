@@ -1,3 +1,8 @@
+---
+title: "THE LAST ECONOMY"
+category: "economic-alternatives"
+---
+
 # THE LAST ECONOMY
 
 ## A Guide to the Age of Intelligent Economics
@@ -8,10 +13,16 @@
 
 | © Emad Mostaque, 2025. All rights reserved. | |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
-| No part of this publication may be reproduced, stored in a retrieval system, or transmitted<br>in any form or by any means—electronic, mechanical, photocopying, recording, or<br>otherwise—without the prior written permission of the author and publisher, except for brief<br>quotations used in reviews, articles, or scholarly works. | |
-| All rights reserved worldwide. This book may not be distributed, resold, licensed, translated,<br>adapted, or otherwise exploited in any form or by any means, including electronic, audio, or<br>digital reproduction, without the express written consent of the author or publisher. | |
+| No part of this publication may be reproduced, stored in a retrieval system, or transmitted
+in any form or by any means—electronic, mechanical, photocopying, recording, or
+otherwise—without the prior written permission of the author and publisher, except for brief
+quotations used in reviews, articles, or scholarly works. | |
+| All rights reserved worldwide. This book may not be distributed, resold, licensed, translated,
+adapted, or otherwise exploited in any form or by any means, including electronic, audio, or
+digital reproduction, without the express written consent of the author or publisher. | |
 | The author asserts the moral right to be identi Ped as the author of this work. | |
-| This publication is provided for informational purposes only. The author and publisher<br>disclaim any liability arising from its use. | |
+| This publication is provided for informational purposes only. The author and publisher
+disclaim any liability arising from its use. | |
 
 ## Iublished by (ntelligent (nternet L4)2 4td
 
@@ -31,36 +42,167 @@ And to you who read these words, may they be seeds you carry forward, until they
 
 | Introduction: | | 1 |
 |---------------|--------------------------------------------------------------------------------|----|
-| The | Thousand-Day<br>Window | |
-| 1. | The<br>Intelligence<br>Inversion | 7 |
-| 2. | Harbingers<br>of<br>the<br>Storm | 15 |
-| 3. | The<br>Seven<br>Fatal<br>Lies<br>of<br>a<br>Dying<br>Paradigm | 21 |
-| 4.<br>4. | The<br>Dashboard<br>for<br>Insanity:<br>GDP<br>and<br>the<br>Meaning<br>Crisis | 29 |
-| 5. | The<br>Trial<br>by<br>Fire | 35 |
-| 6. | The<br>Engine<br>of<br>Order: | 42 |
-| 6. | Intelligence<br>Against<br>Entropy | |
-| 7. | The<br>Generative<br>Engine | 49 |
-| 8. | The<br>MIND<br>of<br>a<br>Civilization | 55 |
-| 9.<br>9. | The<br>Three<br>Flows:<br>The<br>Blind<br>Scholars<br>and<br>the<br>Elephant | 62 |
-| 10. | The<br>Network<br>Prison | 71 |
-| 11. | The<br>Cathedral<br>and<br>the<br>Bazaar<br>2.0 | 78 |
-## | 12. | Intelligent<br>Game<br>Theory | 83 |
+| The | Thousand-Day
+Window | |
+| 1. | The
+Intelligence
+Inversion | 7 |
+| 2. | Harbingers
+of
+the
+Storm | 15 |
+| 3. | The
+Seven
+Fatal
+Lies
+of
+a
+Dying
+Paradigm | 21 |
+| 4.
+4. | The
+Dashboard
+for
+Insanity:
+GDP
+and
+the
+Meaning
+Crisis | 29 |
+| 5. | The
+Trial
+by
+Fire | 35 |
+| 6. | The
+Engine
+of
+Order: | 42 |
+| 6. | Intelligence
+Against
+Entropy | |
+| 7. | The
+Generative
+Engine | 49 |
+| 8. | The
+MIND
+of
+a
+Civilization | 55 |
+| 9.
+9. | The
+Three
+Flows:
+The
+Blind
+Scholars
+and
+the
+Elephant | 62 |
+| 10. | The
+Network
+Prison | 71 |
+| 11. | The
+Cathedral
+and
+the
+Bazaar
+2.0 | 78 |
+## | 12. | Intelligent
+Game
+Theory | 83 |
 
-| 13.<br>The<br>Dual<br>Engine:<br>13.<br>The<br>Rhythms<br>of<br>Change | 90 |
+| 13.
+The
+Dual
+Engine:
+13.
+The
+Rhythms
+of
+Change | 90 |
 |-----------------------------------------------------------------------------------------|-----|
-| 14.<br>The<br>New<br>Social<br>Contract | 96 |
-| 15.<br>The<br>Alignment<br>Economy:<br>15.<br>Who<br>Commands<br>the<br>Machines? | 102 |
-| 16.<br>The<br>Three<br>Futures | 109 |
-| 17.<br>The<br>Symbiotic<br>State:<br>17.<br>Governance<br>as<br>Geometry<br>Engineering | 116 |
-| 18.<br>Money<br>for<br>Two<br>Worlds | 122 |
-| 19.<br>The<br>Nucleation<br>of<br>the<br>New:<br>19.<br>A<br>Strategy<br>for<br>Hope | 127 |
-| 20.<br>Intelligent<br>Macroeconomics | 133 |
-| 21.<br>After<br>Economics | 138 |
-| Epilogue:<br>The<br>Thousandth<br>Day | 145 |
-| Appendix<br>A:<br>The<br>Formal<br>Foundations<br>of<br>Intelligence<br>Theory | 150 |
-| Appendix<br>B:<br>The<br>Generative<br>AI<br>Mirror | 158 |
-| Appendix<br>C:<br>The<br>MIND<br>Dashboard:<br>A<br>Practitioner's<br>Guide | 163 |
-| Appendix<br>D:<br>A<br>Lexicon<br>of<br>Intelligent<br>Economics | 168 |
+| 14.
+The
+New
+Social
+Contract | 96 |
+| 15.
+The
+Alignment
+Economy:
+15.
+Who
+Commands
+the
+Machines? | 102 |
+| 16.
+The
+Three
+Futures | 109 |
+| 17.
+The
+Symbiotic
+State:
+17.
+Governance
+as
+Geometry
+Engineering | 116 |
+| 18.
+Money
+for
+Two
+Worlds | 122 |
+| 19.
+The
+Nucleation
+of
+the
+New:
+19.
+A
+Strategy
+for
+Hope | 127 |
+| 20.
+Intelligent
+Macroeconomics | 133 |
+| 21.
+After
+Economics | 138 |
+| Epilogue:
+The
+Thousandth
+Day | 145 |
+| Appendix
+A:
+The
+Formal
+Foundations
+of
+Intelligence
+Theory | 150 |
+| Appendix
+B:
+The
+Generative
+AI
+Mirror | 158 |
+| Appendix
+C:
+The
+MIND
+Dashboard:
+A
+Practitioner's
+Guide | 163 |
+| Appendix
+D:
+A
+Lexicon
+of
+Intelligent
+Economics | 168 |
 ## | Bibliography | 177 |
 
 # Introduction:

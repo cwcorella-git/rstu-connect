@@ -1,3 +1,8 @@
+---
+title: "**Interpersonal deception theory**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Interpersonal_deception_theory)
 
 # **Interpersonal deception theory**

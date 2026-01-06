@@ -1,3 +1,8 @@
+---
+title: "## **A Brilliant But Forgotten Idea: The Class Union**"
+category: "labor"
+---
+
 ## **A Brilliant But Forgotten Idea: The Class Union**
 
 **Date:** Unknown

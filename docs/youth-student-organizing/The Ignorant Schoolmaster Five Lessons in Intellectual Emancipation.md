@@ -1,3 +1,8 @@
+---
+title: "## **The Ignorant Schoolmaster: Five Lessons in Intellectual Emancipation**"
+category: "youth-student-organizing"
+---
+
 ## **The Ignorant Schoolmaster: Five Lessons in Intellectual Emancipation**
 
 ## **Date:** Unknown

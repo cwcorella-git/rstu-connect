@@ -1,15 +1,10 @@
 ---
-title: 'Marxism, Freedom and the State'
-author: Mikhail Bakunin
-slug: marxism-freedom-and-the-state
-date: 1950
-tags:
-  - theory
-  - anarchism
-  - strikes
-  - rent
-  - police
+title: "Marxism, Freedom and the State"
+author: "Mikhail Bakunin"
+date: "1950"
+category: "theory"
 ---
+
 # Marxism Freedom and the State
 
 #### Translated and Edited with a Biographical Sketch by

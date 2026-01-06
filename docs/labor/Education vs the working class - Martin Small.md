@@ -1,3 +1,8 @@
+---
+title: "## **Education vs the working class - Martin Small**"
+category: "labor"
+---
+
 ## **Education vs the working class - Martin Small**
 
 ## **Date:** Unknown

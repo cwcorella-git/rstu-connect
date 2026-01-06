@@ -1,3 +1,8 @@
+---
+title: "**Praise**"
+category: "technology-digital-justice"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 # **Praise**
@@ -144,4 +149,4 @@ Looking through this cultural lens, clear differences in the use and impact of p
 
 # **External links**
 
-Retrieved from "<https://en.wikipedia.org/w/index.php?title=Praise&oldid=1317436376>"
+Retrieved from ""

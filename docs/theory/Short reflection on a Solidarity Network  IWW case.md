@@ -1,3 +1,8 @@
+---
+title: "## **Short reflection on a Solidarity Network / IWW case**"
+category: "theory"
+---
+
 ## **Short reflection on a Solidarity Network / IWW case**
 
 ## **Date:** Unknown
@@ -18,7 +23,8 @@ The builder decided not to accept the offer. We told him that we supported him, 
 
 This is a pretty unsatisfying result, but not uncommon, given the type of work (cash in hand), the 'community pressure' and the legal system (harassment charges and court fees). We don't do this out of charity or humanism - we want to build a network of working class people who spread the message: solidarity and direct action is our best self-defence. We want to grow to a critical mass where we can support strikes during their initial stage from outside.
 
-| https://angryworkersworld.wordpress.com/2017/06/24/from-solidarity-networks-to-class-organ<br>isation-in-times-of-labour-hallucinations/ |
+| https://angryworkersworld.wordpress.com/2017/06/24/from-solidarity-networks-to-class-organ
+isation-in-times-of-labour-hallucinations/ |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | wojtek |
 | 6 years ago |
@@ -31,7 +37,8 @@ This is a pretty unsatisfying result, but not uncommon, given the type of work (
 | Plotnikov |
 | 6 years ago |
 | In reply to Welcomebylibcom.org |
-| Did the boss ever try to make good on the threat to get him evicted? How would you deal with<br>that? Can you elaborate more on how community pressure from within the Punjabi community |
+| Did the boss ever try to make good on the threat to get him evicted? How would you deal with
+that? Can you elaborate more on how community pressure from within the Punjabi community |
 
 played a role in the case?
 

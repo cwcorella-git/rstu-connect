@@ -1,3 +1,8 @@
+---
+title: "## **Death of a paper tiger: reflections on Class War**"
+category: "anti-war-peace"
+---
+
 ## **Death of a paper tiger: reflections on Class War**
 
 ## **Date:** Unknown
@@ -62,12 +67,17 @@ This was preceded by the following text as part of a collection of features abou
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | In reply to Welcomebylibcom.org |
 | Slight problem with the footnotes. |
-| Good article. Reading Rebel Alliancesat the moment it appears they have been given a history<br>slightly skewed towards their PR image than their actual impact in terms of praxis, which<br>makes some references of the book almost worthless. |
+| Good article. Reading Rebel Alliancesat the moment it appears they have been given a history
+slightly skewed towards their PR image than their actual impact in terms of praxis, which
+makes some references of the book almost worthless. |
 | Steven. |
 | 15 years 10 months ago |
 | In reply to Welcomebylibcom.org |
 | Thanks, now fixed. |
-| Yes, you're right. Much of what is said about them was just hype invented by people like Ian<br>bone, to big themselves up. That kind of behaviour is counterproductive, trying to get across<br>the idea that some small group of activist superheroes can save the working class or<br>whatever. |
+| Yes, you're right. Much of what is said about them was just hype invented by people like Ian
+bone, to big themselves up. That kind of behaviour is counterproductive, trying to get across
+the idea that some small group of activist superheroes can save the working class or
+whatever. |
 | Farce |
 | 15 years 10 months ago |
 ## | In reply to Welcomebylibcom.org |
@@ -82,7 +92,8 @@ This was preceded by the following text as part of a collection of features abou
 | 15 years 10 months ago |
 | In reply to Welcomebylibcom.org |
 | Farce |
-| Is issue 73 archived anywhere on libcom? [] I do really respect the honesty that went into<br>that one. |
+| Is issue 73 archived anywhere on libcom? [] I do really respect the honesty that went into
+that one. |
 | Above article |
 | Many of the criticisms in this article were shared by some of Class War and were voiced |
 
@@ -96,14 +107,17 @@ Is issue 73 archived anywhere on libcom? (I know that this is a terribly lazy qu
 
 Spikymike 14 years 5 months ago In reply to Welcomebylibcom.org I think the Aufheben and AF articles together provide a good critical summary of the early Class War Federation and it's paper. Just to say that whilst I have never been a big fan of thenational Class War Federation, the original 'Wildcat' group in Britain (of which I was a member) did, around 1984/85, have a pretty good working relationship with the short lived Manchester based Class War group who's members I had a lot of respect for, and we experimented a bit with a Class War style paper of our own although the content was inevitably a lot different. I understand that a few of the old Leeds based Class War group who were instrumental in organising the critical Bradford national conference have spun off into a new direction with this: http://freelyassociating.org/I picked up a leaflet by them at the Manchester Network X gathering but didn't get to discuss it with anyone there. rat 14 years 5 months ago In reply to Welcomebylibcom.org
 
-| Spikeymike, thanks for pointing out the site of The Free Association I'll take a look at that. I'd<br>like to know what people on Libcom think. |
+| Spikeymike, thanks for pointing out the site of The Free Association I'll take a look at that. I'd
+like to know what people on Libcom think. |
 |-------------------------------------------------------------------------------------------------------------------------------------------------|
 | Samotnaf |
 | 14 years 5 months ago |
 | In reply to Welcomebylibcom.org |
-| Should point out that this article, though it appeared in Aufheben as an "intake" , was not<br>written by anyone involved in Aufheben. |
+| Should point out that this article, though it appeared in Aufheben as an "intake" , was not
+written by anyone involved in Aufheben. |
 | Spikymike |
 | 9 years 6 months ago |
 | In reply to Welcomebylibcom.org |
-| In an effort to link up discussions on this site I'd mention this related<br>thread:http://libcom.org/forums/theory/free-association-05052011|
+| In an effort to link up discussions on this site I'd mention this related
+thread:http://libcom.org/forums/theory/free-association-05052011|
 ## | |

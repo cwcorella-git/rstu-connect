@@ -1,3 +1,8 @@
+---
+title: "## **Taking Liberties newsletter - Anarchist Black Cross (Sheffield/London)**"
+category: "contemporary-analysis"
+---
+
 ## **Taking Liberties newsletter - Anarchist Black Cross (Sheffield/London)**
 
 ## **Date:** Unknown

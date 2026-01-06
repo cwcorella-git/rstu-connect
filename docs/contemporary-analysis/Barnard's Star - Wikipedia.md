@@ -1,3 +1,8 @@
+---
+title: "[Barnard](https://en.wikipedia.org/wiki/Main_Page)'[s Star](https://en.wikipedia.org/wiki/Main_Page)"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_2.jpeg)
 
 # [Barnard](https://en.wikipedia.org/wiki/Main_Page)'[s Star](https://en.wikipedia.org/wiki/Main_Page)
@@ -18,19 +23,35 @@ The location of Barnard's Star, c. 2006 (south is up)
 
 | Observation data | |
 |-------------------------------|-------------------------|
-| Epoch<br>J2000.0 Equinox | J2000.0 |
+| Epoch
+J2000.0 Equinox | J2000.0 |
 | Constellation | Ophiuchus |
 | Right ascension | 17h 57m 48.49847s[1] |
-| Declination | 41′ 36.1139″[1]<br>+04° |
-| Apparent<br>magnitude<br>(V) | 9.511[2] |
+| Declination | 41′ 36.1139″[1]
++04° |
+| Apparent
+magnitude
+(V) | 9.511[2] |
 | Characteristics | |
-| Spectral<br>type | M4.0V[3] |
-| Apparent magnitude<br>(U) | 12.497[2] |
-| Apparent<br>magnitude<br>(B) | 11.240[2] |
-| Apparent<br>magnitude<br>(R) | 8.298[2] |
-| Apparent<br>magnitude<br>(I) | 6.741[2] |
-| Apparent<br>magnitude<br>(J) | 5.24[4] |
-## | Apparent<br>magnitude<br>(H) | 4.83[4] |
+| Spectral
+type | M4.0V[3] |
+| Apparent magnitude
+(U) | 12.497[2] |
+| Apparent
+magnitude
+(B) | 11.240[2] |
+| Apparent
+magnitude
+(R) | 8.298[2] |
+| Apparent
+magnitude
+(I) | 6.741[2] |
+| Apparent
+magnitude
+(J) | 5.24[4] |
+## | Apparent
+magnitude
+(H) | 4.83[4] |
 
 ## Naming
 
@@ -46,34 +67,68 @@ The proper motion of Barnard's Star corresponds to a relative lateral speed of 9
 
 The radial velocity of Barnard's Star is −110 km/s, as measured from the [blueshift](https://en.wikipedia.org/wiki/Blueshift) due to its motion toward the Sun. Combined with its proper motion and distance, this gives a ["space velocity"](https://en.wikipedia.org/wiki/Stellar_kinematics#Space_velocity) (actual speed relative to the Sun) of 142.6 ± 0.2 km/s. Barnard's Star will make its closest approach to the Sun around 11,800 CE, when it will approach to within about 3.75 light-years.[\[26\]](https://en.wikipedia.org/wiki/Barnard%27s_Star#cite_note-Bobylev-26)
 
-| Apparent<br>magnitude<br>(K) | 4.524[4] |
+| Apparent
+magnitude
+(K) | 4.524[4] |
 |----------------------------------------------------------------------|-------------------------------------------|
 | U−B color index | 1.257[2] |
 | B−V color index | 1.713[2] |
 | V−R color index | 1.213[2] |
 | R−I color index | 1.557[2] |
-| Variable<br>type | BY Draconis[5] |
+| Variable
+type | BY Draconis[5] |
 | Astrometry | |
-| Radial velocity (Rv) | ±0.13[1]<br>−110.47<br>km/s |
-| Proper motion (μ) | mas/yr[1]<br>RA: −801.551 |
-| | mas/yr[1]<br>Dec.:<br>10362.394 |
-| Parallax (π) | mas[1]<br>546.9759<br>±<br>0.0401 |
-| Distance | 5.9629 ± 0.0004<br>ly |
-| | (1.8282 ± 0.0001<br>pc) |
-| Absolute<br>magnitude<br>(MV) | 13.21[2] |
+| Radial velocity (Rv) | ±0.13[1]
+−110.47
+km/s |
+| Proper motion (μ) | mas/yr[1]
+RA: −801.551 |
+| | mas/yr[1]
+Dec.:
+10362.394 |
+| Parallax (π) | mas[1]
+546.9759
+±
+0.0401 |
+| Distance | 5.9629 ± 0.0004
+ly |
+| | (1.8282 ± 0.0001
+pc) |
+| Absolute
+magnitude
+(MV) | 13.21[2] |
 | Details | |
-| Mass | +0.0036<br>[6]<br>0.1610<br>M☉<br>−0.0035 |
-| Radius | ±0.001[6]<br>0.187<br>R☉ |
-| Luminosity (bolometric) | ±0.00006[6]<br>0.00340<br>L☉ |
-| Luminosity (visual, LV) | 0.0004[7]<br>L☉ |
-| Temperature | ±17[6]<br>3,223<br>K |
-| Rotation | d[8]<br>145<br>±15 |
-| Age | ≈ 10[9]<br>Gyr |
+| Mass | +0.0036
+[6]
+0.1610
+M☉
+−0.0035 |
+| Radius | ±0.001[6]
+0.187
+R☉ |
+| Luminosity (bolometric) | ±0.00006[6]
+0.00340
+L☉ |
+| Luminosity (visual, LV) | 0.0004[7]
+L☉ |
+| Temperature | ±17[6]
+3,223
+K |
+| Rotation | d[8]
+145
+±15 |
+| Age | ≈ 10[9]
+Gyr |
 | Other designations | |
-| Proxima Ophiuchi[10], "Barnard's<br>Runaway Star"[11], "Greyhound of | |
+| Proxima Ophiuchi[10], "Barnard's
+Runaway Star"[11], "Greyhound of | |
 | the Skies"[12], V2500 Ophiuchi, | |
-| BD+04°3561a, GJ<br>699, HIP | 87937, |
-## | LFT<br>1385, LHS<br>57, LTT<br>15309, | |
+| BD+04°3561a, GJ
+699, HIP | 87937, |
+## | LFT
+1385, LHS
+57, LTT
+15309, | |
 
 ## ![](_page_2_Picture_2.jpeg)
 

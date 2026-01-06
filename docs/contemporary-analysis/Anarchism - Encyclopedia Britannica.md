@@ -1,3 +1,8 @@
+---
+title: "## **Anarchism - Encyclopedia Britannica**"
+category: "contemporary-analysis"
+---
+
 ## **Anarchism - Encyclopedia Britannica**
 
 ## **Date:** Unknown

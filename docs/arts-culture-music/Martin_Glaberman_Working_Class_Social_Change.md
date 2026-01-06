@@ -1,3 +1,8 @@
+---
+title: "**Martin Glaberman The Working Class and Social Change**"
+category: "arts-culture-music"
+---
+
 # **Martin Glaberman The Working Class and Social Change**
 
 ## **Preface**

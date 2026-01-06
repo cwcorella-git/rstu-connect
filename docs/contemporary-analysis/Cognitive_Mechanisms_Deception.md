@@ -1,3 +1,8 @@
+---
+title: "UvA-DARE (Digital Academic Repository)"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Figure_0.jpeg)
 
 # UvA-DARE (Digital Academic Repository)
@@ -30,7 +35,7 @@ Suchotzki, K.; Crombez, G.; Smulders, F. T. Y.; Meijer, E.; Verschuere, B.
 
 Citation for published version (APA):
 
-Suchotzki, K., Crombez, G., Smulders, F. T. Y., Meijer, E., & Verschuere, B. (2015). The cognitive mechanisms underlying deception: An event-related potential study. International Journal of Psychophysiology, 95(3), 395-405. <https://doi.org/10.1016/j.ijpsycho.2015.01.010>
+Suchotzki, K., Crombez, G., Smulders, F. T. Y., Meijer, E., & Verschuere, B. (2015). The cognitive mechanisms underlying deception: An event-related potential study. International Journal of Psychophysiology, 95(3), 395-405. 
 
 ## General rights
 
@@ -54,11 +59,11 @@ UvA-DARE is a service provided by the library of the University of Amsterdam (ht
 
 ## ![](_page_1_Picture_7.jpeg)
 
-Kristina Suchotzki <sup>a,\*</sup>, Geert Crombez <sup>a</sup>, Fren T. Y. Smulders <sup>b</sup>, Ewout Meijer <sup>b</sup>, Bruno Verschuere <sup>c, a, b</sup>
+Kristina Suchotzki a,\*, Geert Crombez a, Fren T. Y. Smulders b, Ewout Meijer b, Bruno Verschuere c, a, b
 
-- <sup>a</sup> Department of Experimental–Clinical and Health Psychology, Ghent University, Henri Dunantlaan 2, 9000 Ghent, Belgium
-- <sup>b</sup> Faculty of Psychology and Neuroscience, Maastricht University, Universiteitssingel 5, 6200 MD Maastricht, The Netherlands
-- <sup>c</sup> Department of Clinical Psychology, University of Amsterdam, Weesperplein 4, 1018 XA Amsterdam, The Netherlands
+- a Department of Experimental–Clinical and Health Psychology, Ghent University, Henri Dunantlaan 2, 9000 Ghent, Belgium
+- b Faculty of Psychology and Neuroscience, Maastricht University, Universiteitssingel 5, 6200 MD Maastricht, The Netherlands
+- c Department of Clinical Psychology, University of Amsterdam, Weesperplein 4, 1018 XA Amsterdam, The Netherlands
 
 #### ARTICLE INFO
 
@@ -84,7 +89,7 @@ For a long time, researchers and practitioners have relied on the assumption tha
 
 Event-related potentials (ERPs) provide an attractive means to study the cognitive processes involved in deception more closely. Of specific relevance in this context are studies using the Contingent Negative Variation (CNV; Brunia et al., 2012; Walter et al., 1964). The CNV is a slow negative-going brain potential, evolving after a cue and before an imperative stimulus. It is thought to reflect processes of anticipation and response preparation. Using different paradigms and stimuli, three deception studies found an enhanced CNV for lying compared to truth telling (Dong and Wu, 2010; Fang et al., 2003; Sun et al., 2011). In the study by Fang et al. (2003), participants were instructed to deceptively deny knowledge of familiar target faces, and to truthfully admit knowledge of other familiar faces and deny knowledge of unknown faces. In the study by Sun et al. (2011), participants chose for their own financial gain whether to truthfully or deceptively evaluate banknotes as genuine, Dong and Wu (2010) instructed participants to truthfully or deceptively indicate the attractiveness of faces. In line with the cognitive theory of deception, authors of all three studies interpreted these CNV deception effects as indication for a higher effortful involvement and higher cognitive load for lying compared to truth telling. It should, however, be noticed that in the three studies, the CNV was measured after participants had already been given all stimulus information necessary to prepare their correct deceptive responses. As a consequence, the CNV in these studies did not purely measure the
 
-<sup>\*</sup> Corresponding author at: Department of Experimental Clinical and Health Psychology, Ghent University, Henri Dunantlaan 2, B-9000 Ghent, Belgium. Tel.: +32 9 264 94 46.
+\* Corresponding author at: Department of Experimental Clinical and Health Psychology, Ghent University, Henri Dunantlaan 2, B-9000 Ghent, Belgium. Tel.: +32 9 264 94 46.
 
 E-mail address: Kristina. Suchotzki@UGent.be (K. Suchotzki).
 
@@ -140,37 +145,11 @@ To circumvent the potentially problematic sphericity assumption of univariate re
 
 #### 3.1. Behavioral data
 
-Error rates, reaction times (RT), and RT standard deviations were analyzed with a 2 (Deception: truth vs. lie) $\times$ 2 (Enactment: enacted vs. intended crime) repeated measures MANOVA. The 2 $\times$ 2 MANOVA on error percentage revealed a significant main effect of Deception, F(1,19)=30.97, p<.001, d=1.24, 95% CI [0.66, 1.83], with a higher error rate (%) in the lie condition (M=16.94, SD=12.31) compared to the truth condition (M=8.93, SD=6.66). The Enactment effect and the interaction effect were not significant, Fs<1. The 2 $\times$ 2 MANOVA on reaction times indicated a significant main effect of Deception F(1,19)=73.36, p<.001, d=1.91, 95% CI [1.18, 2.65], with longer RTs (in milliseconds) in the lie condition (M=784, SD=104) compared to the truth condition (M=680, SD=85). The
+Error rates, reaction times (RT), and RT standard deviations were analyzed with a 2 (Deception: truth vs. lie) $\times$ 2 (Enactment: enacted vs. intended crime) repeated measures MANOVA. The 2 $\times$ 2 MANOVA on error percentage revealed a significant main effect of Deception, F(1,19)=30.97, p^1$ We calculated the effect size f using the following formula: $f=\sqrt{\lceil\eta_p^2\ /\ (1-\eta_p^2)\rceil}.$ $^2$ We calculated the effect size d using the following formula: $d=M_1-M_2\ /\ (\sqrt{SD_1^2+SD_2^2-2*r_{12}*SD_1*SD_2}).$ 
 
-Enactment effect and the interaction effect were not significant, Fs < 2.36. The 2 $\times$ 2 MANOVA on the RT standard deviations revealed a significant main effect of Deception, F(1, 19) = 5.13, p < .05, d = 0.51, 95% CI [0.04, 0.97], with a higher mean RT standard deviation in the lie condition (M = 259, SD = 46) compared to the truth condition (M = 247, SD = 44). The Enactment effect and the interaction effect were not significant, Fs < 1.
+&lt;sup>3 Both question types (enacted/planned crime and control crime) were taken into the analyses. Because there was no significant interaction of Question type with Deception or Enactment in our analyses, the factor Ouestion type was dropped.
 
-#### 3.2. ERP data
-
-#### 3.2.1. CNV
-
-Visual inspection of the grand average waveforms revealed a CNV at all three electrodes, starting around 1000 ms after the presentation of the cue (Fig. 2). Furthermore, visual inspection suggested a difference between truth telling and lying in CNV at the frontal electrodes.
-
-The mean activity for the CNV in the interval between 1000 and 1500 ms was analyzed with a 2 (Deception: truth vs. lie) $\times$ 2 (Enactment: enacted vs. intended crime) $\times$ 3 (Electrode: Fz vs. FCz vs. Cz) MANOVA. There were no significant main effects of Deception, F(1,19)=1.71, p=.206, d=0.29, 95% CI [-0.16,0.74], or Enactment, F(1,19)=0.00, p=.953, d=0.01,95% CI [-0.43,0.45]. The significant main effect of Electrode, F(2,18)=4.39, p<.05 was subsumed under the significant interaction effect of Deception $\times$ Electrode, F(2,18)=3.69, p<.05, f=0.64. All other effects were not significant, all Fs<1.90. Paired sample t-tests on the difference between the truth and the lie condition at every electrode revealed a marginally significant effect for a more negative CNV for the lie condition compared to the truth condition at Fz, t(19)=1.98, p=.062, d=0.44, 95% CI [-0.02, 0.90], and no significant effects at the other two electrodes, ts<1.36.
-
-#### 3.2.2. Stimulus-locked LRP
-
-The grand average waveforms of the stimulus-locked LRP revealed a clear LRP in both truth conditions starting around 250 ms after the keyword. Compared to the LRPs in the truth conditions, the LRPs in the lie conditions appeared flatter and slower rising (Fig. 3). We did not observe an initial activation towards the incorrect truth response in both lie conditions.
-
-As the visual inspection of the grand averages of the stimulus-locked LRPs suggested differences between truth and lie conditions between 300–600 ms and between 600–900 ms, mean activity in both interval was analyzed with a 2 (Deception: truth vs. lie) $\times$ 2 (Enactment: enacted vs. intended crime) MANOVA. For the 300–600 ms interval, there were no significant main effects of Deception, F(1,19)=0.02, p=.889, d=0.03, 95% CI [-0.41,0.47], or Enactment, F(1,19)=0.39, p=.542, d=0.14, 95% CI [-0.30,0.58]. There was also no significant interaction effect, F(1,19)=0.70, p=.413, f=0.19. For the 600–900 ms interval, there were no significant main effects of Deception, F(1,19)=2.20, p=.154, d=0.33,95% CI [-0.19,0.78], or Enactment, F(1,19)=0.05, p=.826, d=0.05,95% CI [-0.39,0.49]. There was also no significant interaction effect, $F(1,19)=0.73, p=.402, f=0.20.^4$ 
-
-To explore further possible deception effects, exploratory analyses were run on the response-locked LRPs as well as on the onsets of stimulus- and response-locked LRPs. As we did not have any a-priori hypotheses and the analyses did not yield clear results, they are reported in the Appendix A.
-
-#### 3.2.3. CRN
-
-Visual inspection of the grand average waveforms of the CRN revealed a negative peak around 50 ms after correct responses (Fig. 4).
-
-The mean activity for the CRN in the interval between 0 and 100 ms was analyzed with a 2 (Deception: truth vs. lie) $\times$ 2 (Enactment: enacted vs. intended crime) $\times$ 4 (Electrode: Fz vs. FCz vs. Cz vs. Pz)
-
-$<sup>^1</sup>$ We calculated the effect size f using the following formula: $f=\sqrt{\lceil\eta_p^2\ /\ (1-\eta_p^2)\rceil}.$ $^2$ We calculated the effect size d using the following formula: $d=M_1-M_2\ /\ (\sqrt{SD_1^2+SD_2^2-2*r_{12}*SD_1*SD_2}).$ 
-
-<sup>&</sup>lt;sup>3</sup> Both question types (enacted/planned crime and control crime) were taken into the analyses. Because there was no significant interaction of Question type with Deception or Enactment in our analyses, the factor Ouestion type was dropped.
-
-<sup>&</sup>lt;sup>4</sup> Note that we also explored LRP results at FC3/FC4. Including the LRP at these electrodes in our analyses did not change the pattern of results.
+&lt;sup>4 Note that we also explored LRP results at FC3/FC4. Including the LRP at these electrodes in our analyses did not change the pattern of results.
 
 ![](_page_5_Figure_2.jpeg)
 

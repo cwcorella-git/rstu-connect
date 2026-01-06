@@ -1,3 +1,8 @@
+---
+title: "**GLUED TO GAMES**"
+category: "contemporary-analysis"
+---
+
 # **GLUED TO GAMES**
 
 ## How Video Games Draw Us In and Hold Us Spellbound
@@ -1553,7 +1558,7 @@ Around the time Atari was plugging Pong machines into bars around the country, a
 
 the world. Dungeons and Dragons (DnD) was rst released in 1974 and involved a group of players embarking on a fantasy adventure in which each would "embody"
 
-a character with speci<sup>\*</sup>A c abilities. "Rockface the Fighter" might take the lead battling orcs in a murky dungeon while "Kevork the Healer" stood behind patching him up.
+a character with speci\*A c abilities. "Rockface the Fighter" might take the lead battling orcs in a murky dungeon while "Kevork the Healer" stood behind patching him up.
 
 As players succeeded in their roles, they had opportunities to increase their abilities.
 
@@ -3085,7 +3090,7 @@ is opens up a whole new universe for rich enjoyment, but at the same time has th
 
 We have focused on the strong ability of games to satisfy intrinsic motivational needs, but there are other ideas about what exactly the sugar is in video games that makes the experience so sweet for so many. One popular theory in the media is the "dopamine hypothesis." Dopamine is a neurotransmitter that has a number of functions in the brain and is involved in mood, sleep, voluntary movements, and situations of reward. It is this latter function that draws our attention. A lot of experiments suggest that dopamine is released when unexpected rewards are obtained, and is inhibited when expected rewards are not delivered. Dopamine is associated with the "pleasure system" of the brain, often described as the system that provides feelings of enjoyment and pleasure to
 
-<sup>&</sup>quot;motivate" or reinforce behaviors.
+&quot;motivate" or reinforce behaviors.
 
 Dopamine is released by naturally enjoyable experiences such as eating tasty foods, physical intimacy, as well as when drugs like cocaine or the nicotine in cigarettes are ingested. Accordingly, many theories of addiction implicate dopamine, and suggest that in addicted persons, the dopamine mechanisms of the brain create strong cravings for the source of the addiction.
 

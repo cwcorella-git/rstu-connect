@@ -1,3 +1,8 @@
+---
+title: "**Railroad Shop Workers Vote No on Merging Jobs**"
+category: "technology-digital-justice"
+---
+
 # **Railroad Shop Workers Vote No on Merging Jobs**
 
 ## **Date:** Sun, 02/21/2016 - 10:06
@@ -90,7 +95,8 @@ While craft union divisions have always been a problem in rail, the work of mech
 
 The last international IAM election saw the first real opposition slate in decades. Former railroad machinist Jay Cronk's slate won in about 100 locals, including the largest industrial locals at Boeing, while losing the overall vote.
 
-| Jon Flanders is a retired railroad machinist and past president of IAM Local Lodge 1145,<br>which represents Machinists at CSX in upstate New York. A version of this article appeared in |
+| Jon Flanders is a retired railroad machinist and past president of IAM Local Lodge 1145,
+which represents Machinists at CSX in upstate New York. A version of this article appeared in |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Labor Notes #443, February 2016 |
 | . Don't miss an issue, |

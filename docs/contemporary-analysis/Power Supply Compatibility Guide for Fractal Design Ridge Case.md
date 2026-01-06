@@ -1,3 +1,8 @@
+---
+title: "**Power supply compatibility guide for Fractal Design Ridge case**"
+category: "contemporary-analysis"
+---
+
 # **Power supply compatibility guide for Fractal Design Ridge case**
 
 Your Fractal Design Ridge case supports a maximum PSU size of **125mm × 63.5mm × 130mm** (W × H × D). After extensive research from official manufacturer specifications and technical reviews, I've compiled the exact dimensions for all requested 750W+ SFX/SFX-L power supplies.

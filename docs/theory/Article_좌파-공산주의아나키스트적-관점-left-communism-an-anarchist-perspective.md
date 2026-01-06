@@ -1,11 +1,8 @@
 ---
-title: 좌파 공산주의아나키스트적 관점 Left Communism an Anarchist Perspective
-date: 2025
-author: Rosa Luxemburg
-tags:
-  - organizing
-  - labor
-  - anarchism
+title: "좌파 공산주의아나키스트적 관점 Left Communism an Anarchist Perspective"
+author: "Rosa Luxemburg"
+date: "2025"
+category: "theory"
 ---
 
 # 좌파 공산주의아나키스트적 관점 Left Communism an Anarchist Perspective

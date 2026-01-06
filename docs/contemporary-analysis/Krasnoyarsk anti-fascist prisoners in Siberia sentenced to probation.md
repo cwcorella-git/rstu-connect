@@ -1,3 +1,8 @@
+---
+title: "## **Krasnoyarsk anti-fascist prisoners in Siberia sentenced to probation**"
+category: "contemporary-analysis"
+---
+
 ## **Krasnoyarsk anti-fascist prisoners in Siberia sentenced to probation**
 
 ## **Date:** Unknown

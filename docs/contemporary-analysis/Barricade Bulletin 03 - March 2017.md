@@ -1,3 +1,8 @@
+---
+title: "## **Barricade Bulletin 03 - March 2017**"
+category: "contemporary-analysis"
+---
+
 ## **Barricade Bulletin 03 - March 2017**
 
 ## **Date:** Unknown

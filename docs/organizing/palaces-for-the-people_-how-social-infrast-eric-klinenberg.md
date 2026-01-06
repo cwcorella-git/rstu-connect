@@ -1,13 +1,8 @@
 ---
-author: Eric Klinenberg
-date: 2018
-title: 'Palaces for the People: How Social Infrast - Eric Klinenberg'
-tags:
-  - organizing
-  - direct action
-  - strikes
-  - unions
-  - housing
+title: "Palaces for the People: How Social Infrast - Eric Klinenberg"
+author: "Eric Klinenberg"
+date: "2018"
+category: "organizing"
 ---
 
 # Palaces for the People_ How Social Infrast - Eric Klinenberg
@@ -32,7 +27,6 @@ tags:
 ![Page 1 Complete](images/page_001_full.png)
 
 ### Extracted Text
-
 
 
 ---
@@ -103,7 +97,6 @@ tags:
 ### Extracted Text
 
 
-
 “Fine reading for community activists seeking to expand the social infrastructure of their own home places.”
                                                   —Kirkus Reviews
 
@@ -131,7 +124,6 @@ tags:
 ### Extracted Text
 
 
-
 ---
 
 ## Page 6
@@ -149,7 +141,6 @@ tags:
 ### Extracted Text
 
 
-
 ---
 
 ## Page 7
@@ -160,7 +151,6 @@ tags:
 ### Extracted Text
 
 
-
 ---
 
 ## Page 8
@@ -169,7 +159,6 @@ tags:
 ![Page 8 Complete](images/page_008_full.png)
 
 ### Extracted Text
-
 
 
 ---
@@ -190,8 +179,6 @@ tags:
 
 
                                CONTENTS
-
-
 
 
 Cover Title Page Copyright
@@ -216,10 +203,7 @@ Dedication Acknowledgments Notes Photo Captions and Credits About the Author Ext
 ### Extracted Text
 
 
-
        The Social Infrastructure
-
-
 
 
 On July 12, 1995, a tropical air mass with searing heat and high humidity settled over Chicago, making it feel like Jakarta or Kuala Lumpur. On July 13, the temperature hit 106 degrees and the heat index, which measures how a typical person experiences the weather, reached 126. Local newspapers and television stations announced that the heat wave could be dangerous, but they didn’t recognize its severity. Along with basic health warnings and meteorological reports, they also ran humorous stories about how to “ward off wardrobe wilt and makeup meltdown” and shop for air conditioners. “This is the kind of weather we pray for,” said a spokesperson for one regional supplier. The Chicago Tribune advised readers to “slow down” and “think cool thoughts.” 
@@ -324,10 +308,6 @@ me wonder whether social infrastructure was even more important than I’d reali
 ### Extracted Text
 
 
-
-
-
-
 This time, I really did leave Chicago. After all, my hometown’s depleted neighborhoods are not the only places that suffer from social disconnection, and the problems affected by social infrastructure transcend heat and health. I moved to New York City, where I began teaching at New York University, and I spent two years at Stanford University. I conducted research in many American cities as well as Argentina, England, France, the Netherlands, Japan, and Singapore. While each of the places I’ve studied has distinctive ecological challenges, political systems, and cultural orientations, their residents share similar concerns. Today, societies around the world are becoming more fragmented, divided, and conflicted. The social glue has come undone.
     According to Canada’s Global News, “We all live in a bubble.” The
 BBC warns that “class segregation” is “on the rise,” in England. Today Online reports that “India is regressing in the happiness rankings primarily due to abysmal social capital and a lack of interpersonal trust.” Distrust and fear stemming from extreme inequality have fueled a spike in gated communities and armed private security across Latin America. The Associated Press reports that “private guards outnumber public officers” by four to one in Brazil, five to one in Guatemala, and nearly seven to one in Honduras. Foreign Policy notes that in China, “stratification has emerged in a society that had hitherto tried to eradicate the very concept….Social class has become increasingly entrenched, opportunities for upward mobility increasingly limited.” Even the Internet, which was supposed to deliver unprecedented cultural diversity and democratic communication, has become an echo chamber where people see and hear what they already believe.
@@ -387,8 +367,6 @@ these social fault lines. As a citizen, I can’t help asking how we can rebuild
 solution, though increasing national prosperity helps a society become more cohesive only if everyone—not just the most successful—shares in the gains. Besides economic growth, two ideas about how to rebuild society have dominated the conversation: One is technocratic, and involves engineering physical systems that enhance security and facilitate the circulation of people and goods. The other is civic, and involves promoting voluntary associations—the Masons, the National Association for the Advancement of Colored People, block clubs, gardening groups, and bowling leagues—that bind people into communities. Both ideas are important, but they’re only partial solutions. Social infrastructure is the missing piece of the puzzle, and building places where all kinds of people can gather is the best way to repair the fractured societies we live in today.
 
 
-
-
 It’s long been understood that social cohesion develops through repeated human interaction and joint participation in shared projects, not merely from a principled commitment to abstract values and beliefs. Alexis de Tocqueville admired the laws that formally established America’s democratic order, but he argued that voluntary organizations were the real source of the nation’s robust civic life. John Dewey claimed that social connection is predicated on “the vitality and depth of close and direct intercourse and attachment.” “Democracy must begin at home,” he famously wrote, “and its home is the neighborly community.”
      Contemporary students of civil society have made similar observations.
 In Bowling Alone, the Harvard political scientist Robert Putnam attributes declines in health, happiness, education, economic productivity, and trust to the collapse of community and diminished participation in civic 
@@ -427,8 +405,6 @@ Harvard sociologist Peter Marsden shows that, surprisingly, trends in social act
 
     Moral suasion has failed to increase our level of engagement in local
 institutions, where democracy takes root. But cultural values, and exhortations to change them, are not the only influences on our everyday social routines. As proponents of the New Urbanism movement have demonstrated, people with the same interest in social connection, community building, and civic participation have varying opportunities to achieve those things depending on the conditions in the places where they spend time. The social and physical environment shapes our behavior in ways we’ve failed to recognize; it helps make us who we are and determines how we live.
-
-
 
 
 This book argues that social infrastructure plays a critical but underappreciated role in modern societies. It influences seemingly mundane but actually consequential patterns, from the way we move about our cities and suburbs to the opportunities we have to casually interact with strangers, friends, and neighbors. It is especially important for children, the elderly, and other people whose limited mobility or lack of autonomy binds them to the places where they live. But social infrastructure affects everyone. And while social infrastructure alone isn’t sufficient to unite polarized societies, protect vulnerable communities, or connect alienated individuals, we can’t address these challenges without it. In this book, I’ll explain how and why.
@@ -541,10 +517,6 @@ visibly as a fallen bridge or a downed electrical line, and their breakdowns don
 ### Extracted Text
 
 
-
-
-
-
 Robust social infrastructure doesn’t just protect our democracy; it contributes to economic growth. One of the most influential trends in urban and regional planning involves converting old hard infrastructure, like discontinued rail lines and shipping docks, into vibrant social infrastructures for pedestrian activities. The High Line, which has driven billions of dollars of real estate and commercial development in Lower Manhattan, generated explosive social activity—and, alas, fueled runaway gentrification and displacement—is the most prominent model of this emerging urban form. But many other recent or current projects are reviving dead infrastructure with social infrastructure networks that attract residents, tourists, and businesses. The BeltLine in Atlanta is developing slowly, but will ultimately repurpose a twenty-two-mile rail corridor circling the city into thirty-three miles of trails, as well as a string of parks, public artworks, and affordable housing projects, that help connect some forty-five neighborhoods. In New Orleans, the Lafitte Greenway is a bicycle and pedestrian trail that’s designed to connect people and neighborhoods that might otherwise remain divided. The 606 Trail in Chicago, the Philadelphia Viaduct Rail Park, the Los Angeles River Revitalization, and the Petite Ceinture in Paris are being designed to do similar work. After burying the highway, Boston built a greenway on top of the Big Dig. Today, the Toronto City Council is trying to develop an urban park in the underpass of the Gardiner Expressway. A coalition in Sydney, Australia, is pushing to convert the Anzac Bridge into a massive pedestrian green space. The garden and walking path that Rotterdam developed on an abandoned elevated train track has environmental as well as social benefits. The designer, Doepel Strijkers, engineered a system that uses industrial waste to heat buildings along rails, dramatically reducing their carbon emissions and making the air that pedestrians breathe a little cleaner. 
 ---
 
@@ -595,10 +567,7 @@ social infrastructure is just as important as the critical networks we’ve alwa
 ### Extracted Text
 
 
-
         A Place to Gather
-
-
 
 
 It’s a balmy Thursday morning in the New Lots neighborhood of East New York, Brooklyn, 70 degrees and sunny on the last day of March. The sidewalks have awakened. Small groups of middle-aged men banter outside bodegas and on stoops of the small, semidetached brick houses that are common in the area. Mothers and grandmothers push strollers and watch over preschool children who hop and skip and revel in the unseasonable warmth. It seems early for recess, but the schoolyards are buzzing. Traffic is light on the narrow residential streets, but occasionally someone honks, a motorcycle engine fires, a truck roars past.
@@ -719,8 +688,6 @@ watching people who hardly know one another turn their neighborhood into a commu
 distrustful and afraid—and the demographics are as challenging as the politics. There are more people living alone than at any point in history, including more than a quarter of Americans over the age of sixty-five, who are at particular risk of becoming isolated. That’s worrisome, because, as a large body of scientific research now shows, social isolation and loneliness can be as dangerous as more publicized health hazards, including obesity and smoking. But some places have the power to bring us together, and the kind of social bonding I witnessed that morning in Brooklyn happens in thousands of libraries throughout the year.
 
 
-
-
 Libraries are not the kinds of institutions that most social scientists, policy makers, and community leaders usually bring up when they discuss social capital and how to build it. Since Tocqueville, most leading thinkers about social and civic life have extolled the value of voluntary associations like bowling leagues and gardening clubs without looking closely at the physical and material conditions that make people more or less likely to associate. But social infrastructure provides the setting and context for social participation, and the library is among the most critical forms of social infrastructure that we have.
     It’s also one of the most undervalued. In recent years, modest declines
 in the circulation of bound books in some parts of the country have led some critics to argue that the library is no longer serving its historic function as a place for public education and social uplift. Elected officials 
@@ -740,8 +707,7 @@ neighborhood branches. But the problem libraries face isn’t that people no lon
 attendance is up, program sessions are up, and the average number of hours that people spend in libraries is up too. But New York City doesn’t have an exceptionally busy library culture, nor is it a national leader. The distinctions belong to other places: Seattle leads the nation in annual circulation per capita, followed by Columbus, Indianapolis, San Jose, San Francisco, Jacksonville, and Phoenix. Columbus has the highest level of program attendance: five of every ten thousand residents participate in library activities there each year. San Francisco and Philadelphia are close behind, as are Boston, Detroit, and Charlotte. New York City trails them all.
     New York City also ranks low in per capita government spending for the
 system. The New York Public Library receives $32 for every resident, on par with Austin and Chicago but less than one-third of the San Francisco Public Library, which gets $101 per resident.
-    Urban library systems in the United States have long been public-
-private partnerships, and city governments have long relied on philanthropists to fund much of the library’s work. Still, it’s hard to understand why most cities give so little public support to their libraries. According to recent reports from the Pew Research Center, more than 
+    Urban library systems in the United States have long been publicprivate partnerships, and city governments have long relied on philanthropists to fund much of the library’s work. Still, it’s hard to understand why most cities give so little public support to their libraries. According to recent reports from the Pew Research Center, more than 
 ---
 
 ## Page 39
@@ -757,10 +723,6 @@ private partnerships, and city governments have long relied on philanthropists t
 ![Page 39 Complete](images/page_039_full.png)
 
 ### Extracted Text
-
-
-
-
 
 
 Doing research in New York City, I learned that libraries and the social infrastructure are essential not only for a neighborhood’s vitality but also for buffering all kinds of personal problems—including isolation and loneliness. And while these problems may be particularly acute in struggling neighborhoods like East New York, they’re hardly confined to them. Consider Denise, a fashion photographer in her late thirties whom I met in the Seward Park Library children’s floor on a chilly April morning. She’s wearing jeans, a long black coat, and large tortoiseshell glasses. As she sits, she scans the room and quickly decompresses. The children’s floor might not be a second home anymore, not since her daughter started preschool, but during her first few years of being a mother Denise was here almost every day.
@@ -815,10 +777,6 @@ herself as a mother, and eventually she gained enough confidence to return to wo
 ### Extracted Text
 
 
-
-
-
-
 Why have so many public officials and civic leaders failed to recognize the value of libraries and their role in our social infrastructure? Perhaps it’s because the founding principle behind the library—that all people deserve free, open access to our shared culture and heritage, which they can use to any end they see fit—is out of sync with the market logic that dominates our time. (If, today, the library didn’t already exist, it’s hard to imagine our society’s leaders inventing it.) But perhaps it’s because so few influential people understand the role that libraries already play in modern communities, or the many roles they could play if they had more support.
     In New York, as in cities across the United States and around the world,
 neighborhood libraries and librarians do all kinds of unexpected things for surprisingly large numbers of people. Their core mission is to help people elevate themselves and improve their situation. Libraries do this, principally, by providing free access to the widest possible variety of cultural materials to people of all ages, from all ethnicities and groups.
@@ -845,8 +803,6 @@ alone, libraries are places for culture and companionship, through book clubs, m
 infants and toddlers to books and stories that would otherwise be inaccessible. They help youths inch toward independence, giving them library cards and letting them choose how to use them. Libraries offer refuge and safe space to teenagers who’d rather study or socialize than hang out in the streets. Librarians help students with homework and offer after- school programs in art, science, music, language, and math. They recommend books, authors, even entire genres to young people who are searching for something different but can’t yet name it. Libraries help children and teenagers feel responsible, to themselves and to their neighbors, by teaching them what it means to borrow and take care of something public, and to return it so others can have it too.
     By doing all this, libraries also help families and caretakers. They
 provide a social space and shared activities for new parents, grandparents, and nannies who feel lonely, disconnected, or overwhelmed when watching an infant or a toddler by themselves. They help build friendships and support networks among neighbors who’d never met before taking a library class. They teach parenting skills to people who want or need them. They watch children, sometimes very young ones, whose parents work late or on weekends and who can’t afford childcare. They give families confidence that their kids are in good hands.
-
-
 
 
 Libraries may be the textbook example of social infrastructure in action, but other places and institutions do similarly vital work connecting people who need a hand. The Harvard sociologist Mario Small has looked at how the organization of different childcare centers shapes relationships among parents, particularly single mothers. In centers that encourage parental involvement, even if only at drop-off and pickup, mothers build friendships even when they’re not looking for companions. These institutions, he 
@@ -883,8 +839,6 @@ quality and individual student achievement. That’s sensible, since schools pla
 
     Schools are organizations, but they’re also social infrastructures. The
 way they’re planned, designed, and programmed shapes the interactions that develop in and around them. For students, teachers, parents, and entire communities, schools can either foster or inhibit trust, solidarity, and a shared commitment to the common good. They can also set boundaries that define who is part of the community and who is excluded. They can integrate or segregate, create opportunities or keep people in their place.
-
-
 
 
 Schools, of course, are particularly important social spaces for children. They’re the physical places where students make the friendships that shape who they become. In fact, there’s a considerable body of psychological research showing that peer groups and school social environments affect child development far more than parents do. Since the advent of social media, however, the Internet and the mobile phone have challenged the primacy of schools—and not just schools, but all other physical places where people meet for face-to-face interaction, from pubs to playgrounds, churches to community groups. Whether and how this affects social isolation and human connection are two of the most difficult questions of our time.
@@ -980,8 +934,6 @@ open access, especially when other institutions, from methadone clinics to homel
 
     Everyday life in libraries is a democratic experiment, and people cram
 into libraries to participate in it whenever the doors are open.
-
-
 
 
 The openness and diversity that flourishes in neighborhood libraries was once a hallmark of urban culture; in fact, the most influential theories about what makes city life culturally distinctive emphasize the pleasures as well as the challenges of dealing with difference on a daily basis.
@@ -1088,7 +1040,6 @@ attracting a regular group of older patrons and a steady stream of newcomers who
 ### Extracted Text
 
 
-
 ---
 
 ## Page 57
@@ -1106,10 +1057,7 @@ attracting a regular group of older patrons and a steady stream of newcomers who
 ### Extracted Text
 
 
-
        Safe Spaces
-
-
 
 
 The Pruitt-Igoe housing project, a complex of thirty-three eleven-story buildings that opened in North St. Louis between 1954 and 1956, is perhaps the most famous failure in the history of American public housing. The initial design, by the highly regarded architect Minoru Yamasaki (who went on to design the World Trade Center), called for a mixed-rise set of towers connected by walking paths and “a river of trees,” but the Public Housing Administration forced a revision to bring down costs. The housing agency standardized the plan and substituted cheaper construction materials than those Yamasaki wanted. Ultimately, each of the thirty-three identical buildings featured an open first floor for community activity; a corridor with common rooms, laundry facilities, and a garbage room on several 
@@ -1153,8 +1101,7 @@ differences were stark. In Carr Square Village, each row house contained just a 
 ### Extracted Text
 
 
-    Newman included an account of the physical factors that made Pruitt-
-Igoe so much more dangerous than Carr Square Village in his 1972 report, Defensible Space. That same year, the government began to demolish the Pruitt-Igoe complex, a process that would go on until 1976, when the last doomed building came down. Newman’s theory of defensible space gained considerable influence among urban planners and criminologists and helped shape the design of new housing projects throughout the world. (Newman even became a character in the 2015 HBO miniseries Show Me a Hero.) Subsequent research has questioned whether all of Newman’s findings are generalizable. In some cities, we know, poor neighborhoods with high-rise public housing are safer than poor neighborhoods without it, and Newman failed to identify which conditions make some projects more successful than others. He was wrong to conclude that, in the case of crime and housing, “the apartment tower itself…is the real and final villain.” But Newman’s main point, that the built environment helps determine local crime levels, is widely accepted. In fact, the evidence for it is now stronger than ever.
+    Newman included an account of the physical factors that made PruittIgoe so much more dangerous than Carr Square Village in his 1972 report, Defensible Space. That same year, the government began to demolish the Pruitt-Igoe complex, a process that would go on until 1976, when the last doomed building came down. Newman’s theory of defensible space gained considerable influence among urban planners and criminologists and helped shape the design of new housing projects throughout the world. (Newman even became a character in the 2015 HBO miniseries Show Me a Hero.) Subsequent research has questioned whether all of Newman’s findings are generalizable. In some cities, we know, poor neighborhoods with high-rise public housing are safer than poor neighborhoods without it, and Newman failed to identify which conditions make some projects more successful than others. He was wrong to conclude that, in the case of crime and housing, “the apartment tower itself…is the real and final villain.” But Newman’s main point, that the built environment helps determine local crime levels, is widely accepted. In fact, the evidence for it is now stronger than ever.
     Some of that evidence comes from a school of crime prevention that
 emerged around the same time as Newman’s defensible space theory. Crime Prevention Through Environmental Design (CPTED) begins with the insight that a person who is likely to commit a crime in a certain environment would never consider doing so in another. As C. Ray Jeffery, the criminologist who conceived CPTED, puts it, “There are no criminals, only environmental circumstances which result in criminal behavior. Given the proper environmental structure, anyone will be a criminal or a noncriminal.” It follows, then, that crime control measures are unlikely to 
 ---
@@ -1180,8 +1127,6 @@ punishing people rather than improving places. The president has called for a na
 potentially dangerous people rather than on demonstrably dangerous places, but the scientific grounds are shaky.
      We have other more effective and less expensive ways to reduce crime
 today. And a growing body of scientific research shows that some of the best options involve investing in social infrastructure.
-
-
 
 
 In the nineteenth century, British researchers began studying the variation in crime rates between and within cities. While some of this work offered relatively simple accounts in which concentrated poverty led to higher crime, others pushed to another level, asking why there was so much variation in crime rates among poor neighborhoods. “Most of this work was descriptive and offered theories,” writes the University of Pennsylvania criminologist John MacDonald, “but did not attempt to provide guidance on how to curb crime.” He compares this tradition, unfavorably, with the work of British health scholars, most notably John Snow, whose research on cholera “noted the importance of the spatial environment in shaping human 
@@ -1238,8 +1183,6 @@ of disorder and decay get started. “A piece of property is abandoned, weeds gr
 their readers—many of whom were mayors and police chiefs—to think more carefully about the social infrastructure. What if vacant buildings and empty lots had gotten the attention that was showered on petty criminals instead? What if neighborhood crime prevention efforts focused on inspecting and remediating dangerous properties rather than stopping and frisking suspected people?
     This is not a rhetorical question; it’s a puzzle that drove John
 MacDonald, the Penn criminologist, and his collaborator, the epidemiologist Charles Branas, to start one of the most exciting research experiments in contemporary social science.
-
-
 
 
 Branas, who’s now the chair of epidemiology at Columbia University, is a leading scholar of gun violence, a topic he got to know viscerally while working as a paramedic. Branas often found himself responding to calls for victims of gunshot wounds. On a typical day, more than ninety Americans die from gun violence, and two hundred more are injured. And although gun violence has decreased dramatically in recent decades, it remains far higher in the United States than in other affluent nations—the US gun homicide rate is about twenty-five times greater than the average among other high-income societies. It is stubbornly high in particular cities, some midsize (New Orleans, St. Louis, Buffalo) and some large (Detroit, Philadelphia, Chicago); and, within these cities, it’s especially high in very specific places—not just neighborhoods, but blocks. Branas and MacDonald wanted to understand why certain places were so dangerous.
@@ -1365,8 +1308,6 @@ on the impact of fixing up abandoned properties, cities and universities through
 launched blight remediation projects in New Orleans, Louisiana; Newark and Camden, New Jersey; Flint, Michigan; and Youngstown, Ohio. Each experiment included local academic partners and, at Branas’s insistence, the frontline researchers were community residents who were trained and paid for their contributions. “We’re proud that we’ve been able to employ people in these neighborhoods,” Branas said. “But the bigger, more sustainable effect will come from fixing places.”
 
 
-
-
 Policing will always be a key component of crime reduction, and there’s no question that some policing strategies are better and more humane than others. But in recent years, small-scale, place-based policies in some of the world’s most dangerous cities—including Rio de Janeiro, São Paulo, and Johannesburg—have yielded substantial declines in violent crime. In some cases, they’ve improved the quality of everyday life too.
     In São Paulo, for instance, the local government has supplemented
 policing programs with policies that reduce opportunities for crime in specific “hot spots,” while incentivizing young people to spend more time in safe places, particularly schools. Social scientists have long observed that the presence of bars and liquor stores tends to increase local levels of violence, especially in high-crime areas. History shows that prohibition is not a wise response to this problem, not only because it generates more crime but also because it fails to reduce overall consumption and often shifts consumption to more dangerous substances. But there’s good evidence that reducing the hours when bars and liquor stores operate helps. Between 2001 and 2004, for instance, sixteen of the thirty-nine São Paulo municipalities implemented a “dry law,” which forced bars and liquor stores to close between 11 p.m. and 6 a.m. When the Brazilian economist Ciro Biderman examined the impact on violent behavior, he discovered that the dry laws caused “a 10% reduction in homicides” and had similar effects “on battery and deaths by car accidents.” Although the restrictions were 
@@ -1421,8 +1362,6 @@ maintained low crime levels inside their protected environments. But the segrega
 impoverished, crime-ridden community taking control of their own territory and using unauthorized security devices to monitor violence perpetrated against them by police. But their low status and lack of political power made the project short-lived. In 2001, while the University of Texas anthropologist João Costa Vargas was conducting fieldwork in Rio de Janeiro, a neighborhood association in the city’s second largest favela, Jacarezinho, installed large gates and cameras at several access points. On a popular political website, leaders of the association demanded “their right” to “more and better social programs focusing on health, education, and job training, and public transportation. In short, they demanded full citizenship,” Vargas writes. Gating themselves into a protected community was a political tactic that local leaders used to publicize both their social problems and their struggles with violently abusive police.
     The Brazilian media was fascinated by the story. But, as Vargas reports,
 the stigma around Jacarezinho and the low status of its poor, dark-skinned community made journalists skeptical of the neighborhood association’s claims that police, not residents, were the main perpetrators of violence. The news media consistently denied the legitimacy of the residents’ demands and, in turn, of the gates. Officials insisted that drug dealers were using gates and cameras to create a zone of lawlessness where police couldn’t operate. Whereas the white neighborhoods in South Africa had managed to defend their neighborhood enclaves, the poor, mostly black slum dwellers of Rio did not have that privilege. Their gates came down quickly, and the militarized police force reasserted control.
-
-
 
 
 Battles to control the social infrastructure are usually not so dramatic. In the United States and Europe, disputes over safety and the social infrastructure are more likely to unfold slowly and quietly, and they’re often centered in 
@@ -1485,10 +1424,6 @@ similar protest movement in the late 1990s, when the city announced that it woul
 ### Extracted Text
 
 
-
-
-
-
 As it happens, research conducted in another public housing complex in Chicago points to a more desirable way to reduce crime with social infrastructure. In a fascinating series of natural experiments, the landscape architect William Sullivan and the environmental scientist Frances Kuo, both professors at the University of Illinois, discovered the extraordinary power of vegetation to reduce crime in a high-poverty residential development.
     Neither Sullivan nor Kuo knew what they would find when they began
 their two-year study of crime patterns across ninety-eight apartment buildings in the Ida B. Wells project on Chicago’s South Side. They were advocates of greening urban neighborhoods. But it was the 1990s, and at the time urban planners who had studied places like Pruitt-Igoe were convinced that trees and grass in poor neighborhoods created opportunities for criminal behavior, because the green canopy made spaces beneath hard to monitor and control. Some older research supported this view, but Kuo and Sullivan noted that several recent studies reported lower levels of fear, less aggressive and violent behavior, and more civility in green areas. Their project, the first to use police crime data to measure the impact of green ecologies on public housing, would help establish a better answer.
@@ -1520,7 +1455,6 @@ crime is once again on the rise in some cities. Public investment in these matte
 ### Extracted Text
 
 
-
 ---
 
 ## Page 81
@@ -1538,10 +1472,7 @@ crime is once again on the rise in some cities. Public investment in these matte
 ### Extracted Text
 
 
-
         Learning Together
-
-
 
 
 I have young children, and for years taking them to school has been one of my greatest daily pleasures. We live about a mile from my children’s school, and the walk, a straight shot down one of the big avenues in Manhattan, is occasion for conversations about everything from homework to homelessness, fashion (it’s below Fourteenth Street, after all), family, and friends. It’s neither bucolic nor relaxing. There’s lots of street traffic and constant construction in downtown Manhattan. We occasionally encounter an aggressive panhandler or a trail of spilled garbage. But we all enjoy participating in the parade of humanity that animates the city’s sidewalks each morning. We’re together, with all kinds of stimulation around us, in a place that’s full of strangers but still feels like home. 
@@ -1596,8 +1527,6 @@ core mission: educating children. The physical layout and organizational structu
 
     Campus landscapes, teaching halls, research centers, and dormitories
 are the most visible elements of a school’s social infrastructure. But the edges and borders matter too, because they shape whether and how students learn to engage in public culture and interact with people who are not like them. Some schools—private as well as public—have open, accessible grounds with amenities for everyone in the area. Others put gates and security guards on the perimeter to ensure that only a select group comes in. In recent years, some high schools and universities have discarded the idea of a physical campus altogether, using the Internet as the main infrastructure for delivering education and eliminating most of the school’s social life. But the most notable improvements in academic achievement are concentrated in schools that have doubled down on the places where face- to-face interaction between teachers and students happens regularly. Small, intimate settings where people get to know one another well are not only ideal places for young people to develop skills for civic engagement and community building but also ideal places to learn.
-
-
 
 
 In the 1980s, when American political leaders had grown anxious about a new “urban underclass” and local governments throughout the country deployed armed security guards to monitor high school campuses, public schools—particularly those in poor areas—had ceased to be ideal places for anything. With metal detectors at the gates and pass cards restricting the circulation of students, educational institutions had come to resemble prisons. And that’s where a growing number of students were heading, after failing out of schools that were set up to fail them.
@@ -1668,8 +1597,6 @@ were neat and well organized, and students seemed to have a warm and familiar re
 it has proven to make a tremendous impact on student attention, achievement, and college matriculation as well as teacher satisfaction and positive feelings about the school climate. A recent study of twenty-one thousand New York City students by the independent, nonpartisan research firm MDRC found that, compared with students in ordinary high schools, students who attended small schools were 9.4 percentage points more likely to graduate, 8.4 percentage points more likely to enroll in college, and even more likely to attend selective universities. These numbers may not sound high, but—as countless school administrators and academic researchers know from experience—producing meaningful improvements in educational outcomes is notoriously difficult; there’s a heated, long- standing debate, for instance, over whether spending more money on schools has any impact on performance at all. In this context, gains near 10 percent are extraordinary. There’s no magic bullet for improving school performance in difficult environments, but designing campuses that students, teachers, and administrators can collectively control is among the most effective techniques we’ve found.
 
 
-
-
 Designing campuses that promote learning and community building may be a relatively new priority in public education circles, where resources are scarce, but it has always been a central concern of universities, which play an outsize role in modern societies. The late Richard Dober, a renowned scholar at Harvard and MIT who designed college campuses throughout the 
 ---
 
@@ -1738,8 +1665,6 @@ the monastic model that influenced European institutions, and designed them to b
 communities, and they had novel ideas for fostering social ties. Harvard was but one of many American schools to organize student life around colleges, each with its own spaces for dining, studying, and fraternizing. Princeton developed dining societies, which later became eating clubs, as the foundation for college social activities. Students played a role in creating campus culture too. In 1776, five men at the College of William and Mary started a new student society, Phi Beta Kappa, which eventually added chapters at universities across the country, becoming the first intercollegiate fraternity.
 
 
-
-
 Fraternities whose agenda was more social than academic are, of course, another hallmark of American universities. The first, the Kappa Alpha Society, was started in 1825 by a group of male students at Union College in New York who wanted to form an exclusive collegiate organization that would mirror the social clubs for affluent white men that were prominent at the time. In 1846, a chapter of Chi Psi at the University of Michigan opened the first fraternity house in a wooded area off-campus, where they could operate without official supervision. At the time, most college fraternities were secret societies, and administrators—at Union, Princeton, and Brown, among other schools—tried to prohibit them. But fraternities slowly gained acceptance as legitimate social institutions, in part because they were so 
 ---
 
@@ -1776,8 +1701,6 @@ spaces that sustain a campus’s Greek life, particularly on party nights. They 
 
     In recent years, concerned faculty, students, and the victims of violence
 on fraternity rows have called for universities to reform the Greek system. After completing a massive study of sex on college campuses, however, the sociologist Lisa Wade concluded that nothing short of abolition would stem the damage. “Reform is not possible because the old-line, historically white social fraternities have been synonymous with risk-taking and defiance from their very inception,” she writes. “They are a brotherhood born in mutiny and forged in the fire of rebellion. These fraternities have drink, danger and debauchery in their blood—right alongside secrecy and self- protection.” It’s difficult to abolish a social institution that has so many loyal and influential champions, and equally difficult to unbuild a social infrastructure that shapes so much of university life. But fraternities have earned an expulsion.
-
-
 
 
 Fraternities are not the only divisive social infrastructures on college campuses. American universities rarely built the kind of high walls that protected colleges at Oxford and Cambridge from the communities around them, but many schools, particularly those in cities, have buttressed their exclusive admissions standards with elaborate physical and organizational systems that separate students and faculty from neighboring people and places perceived as dangerous. Today, large campus security operations 
@@ -1878,10 +1801,6 @@ communal table. He sat right next to one of our regulars, someone who’s
 ![Page 100 Complete](images/page_100_full.png)
 
 ### Extracted Text
-
-
-
-
 
 
 No one thinks that the deeply rooted town and gown conflicts in places like Chicago’s South Side will be resolved quickly, but there is one set of higher-education institutions that’s attempting an immediate, radical transformation of the way that colleges interact with the outside world: new online universities that rely solely on massive open online courses, or MOOCs. Rather than building traditional campuses, or any kind of physical structure embedded in a larger town or city, these schools use the Internet as the lecture hall and seminar room, and as the core social infrastructure too.
@@ -2067,10 +1986,7 @@ will be formed in the places where they go to learn about themselves and the wor
 ### Extracted Text
 
 
-
         Healthy Bonds
-
-
 
 
 Every four years, the American Society of Civil Engineers (ASCE) issues grades for the nation’s infrastructure, and if the federal government were a high school student, it would tear up the report before bringing it home. In 2017, as in 2013, America’s overall infrastructure score was a D+, but it could have been worse. The rail network, despite high-profile failures of the Amtrak line in the busy Northeast Corridor and the New York City subway system, got a B. Seven systems, including hazardous waste, levees, ports, schools, and wastewater, received modestly better grades than in the previous assessment. Parks, transit, and solid waste did worse, while others, such as aviation (D), roads (D), drinking water (D), and energy (D+), retained their miserably low scores. 
@@ -2189,10 +2105,6 @@ are working on Methadone Mile have been trying to do outreach with residents and
 ### Extracted Text
 
 
-
-
-
-
 As devastating as the opioid crisis is, it’s not the only—or the biggest— threat to public health in the United States. Indeed, in many poor and segregated African American neighborhoods, the most urgent problems stem from the absence of basic goods and services that other Americans take for granted, including the most fundamental form of market activity: selling healthy food.
      Consider Englewood, the neighborhood on the South Side of Chicago
 where so many people died in the heat wave, and where life expectancy is far below the city average. Abandoned homes, boarded storefronts, and empty lots with tall grass and weeds the size of trees actively discourage people from walking around the area, and there are frighteningly high levels of violent crime on the broken-down, depleted city blocks. “We’ve lost so many people here that I had to stop counting,” said Cordia Pugh, who has lived in the neighborhood for nearly five decades. “It was just too much.”
@@ -2281,8 +2193,6 @@ helping to end the food desert. Its two farms are producing a steady supply of f
 training and economic development. “When we spoke with people in the community, we learned that helping to break the cycle that led from poverty to prison and back was incredibly important here,” Rhodes told me. “So we set up a program for people who’d just left prison, giving them fourteen- week jobs as production assistants and then helping them get full-time jobs when they finished.” Once that was set, Growing Home formally added community development to its mission. “It makes a big difference to have a place that produces good food and helps to make all these social connections. We now see a lot of ways that we can help make Englewood a healthier place.”
 
 
-
-
 It took years, and an enormous amount of hard labor in the long-neglected urban soil, to persuade public officials that they could use infrastructure funds to support urban farms and community gardens. “When we first started the city kind of laughed at us,” Rhodes recalled. “ ‘A farm in Englewood! Right.’ Now they can see that this is a good idea. We’re about to get a new site next to the farm on Honore, and for that one the city will actually do the environmental cleanup, cap it, fence it. That’s a lot more support than we had a decade ago. It would be nice if the support was more systematic. But they see the difference we’re making, and maybe we will get that someday.”
      They will if the American Public Health Association has influence in the
 emerging space where social infrastructure planning meets urban health. According to one of the main policy recommendations from the APHA report on nature: “Community gardens should be considered as a primary and permanent open space option as part of master planning efforts; gardens 
@@ -2321,8 +2231,6 @@ vacant lot, acute stress caused their average heart rates to increase by 9.5
 
     The effects were reversed when the subjects walked by lots that had
 been transformed into green spaces. “Our results indicate that in-view proximity to a greened vacant lot decreases heart rate, compared with in- view proximity to a nongreened vacant lot,” South and her colleagues conclude. “The reduction in heart rate suggests a biological link between vacant lot greening and reduction in acute stress.” More pragmatically, it indicates that “improvements to…physical conditions”—even inexpensive changes, like turning vacant lots into pocket parks—“may lead to widespread downstream health benefits.” Like the APHA, they urge governments to consider structural improvements to neighborhoods as “first-line solutions to difficult urban problems.” In Philadelphia, and around the world as well, the evidence that vibrant green places promote health by reducing stress, especially among the most vulnerable, is hard to ignore.
-
-
 
 
 I’ve been concerned about the fate of one rapidly expanding group of vulnerable people, the elderly, since I began studying the Chicago heat wave. There are nearly six hundred million people aged sixty-five and above around the world today, and the United Nations estimates that “almost half of women living independently [i.e., not with family or in an institution] live alone.” These numbers are expected to rise dramatically in coming decades, as the population ages. According to a joint report by the 
@@ -2407,8 +2315,6 @@ specialized recreational areas for old people—they call them “geriatric park
 through outdoor play comes from Finland, where the playground manufacturing company Lappset has been working with local governments to create “three-generational play spaces.” Lappset’s parks feature equipment such as crawlers, climbing frames, and swings that are designed to be accessible regardless of age. They require some risk taking and cultural adaptation, since middle-aged and old people can feel awkward and uncomfortable on recreational facilities long associated with early childhood. According to market research, the French are least inclined to jump in and use the playgrounds, while the Germans and Scandinavians show the most enthusiasm for multigenerational play. No matter their nationality, once older people start using them, the benefits come quickly: A study by researchers at Rovaniemi Polytechnic, for example, found that three months of exercising on the playground equipment improved the balance, speed, and coordination of a group of forty senior citizens between the ages of sixty-five and eighty-one, reducing their vulnerability to falls. One sixty-three-year-old told the BBC that when she started using the playground’s balancing equipment she felt like “an elephant walking on a narrow beam,” but that after three months she’d cut her time from more than a minute to seventeen seconds. The real payoff, however, came outside the playground, on the streets and sidewalks where she could walk with the power and confidence she’d had when she was young.
 
 
-
-
 Old people, of course, are not the only ones who need easy access to parks and other recreational facilities for their well-being; we all do. Children’s need for open-air play spaces is particularly important: their physical health and social development depend on them. But in recent decades, as research by the renowned environmental psychologist Roger Hart and the scholars he has assembled at the City University of New York [CUNY] Children’s 
 ---
 
@@ -2483,10 +2389,6 @@ frustration with the city’s disinvestment from parks, beaches, and open spaces
 ### Extracted Text
 
 
-
-
-
-
 The research on environmental inequalities leaves little doubt that race and class shape who has access to nature. But poor people are not the only ones who suffer when they live far from green social infrastructure; middle-class and affluent people also need time in verdant settings, and those who cannot get it pay a high price. That, at least, is the conclusion of a fascinating paper by a team of British researchers headed by the geographer Jamie Pearce. Pearce and his colleagues wanted to know which environmental characteristics help drive health disparities in the United Kingdom. They developed a “Multiple Environmental Deprivation Index,” which incorporates a wide set of ecological “disamenities,” and measured census wards across the United Kingdom.
     At the national level, the new index confirmed what Pearce’s team
 expected: on average, impoverished neighborhoods had far fewer ecological amenities than wealthier ones. The effects are readily apparent. Mortality records at the census ward level show that environmental deprivation has a significant effect on health, even after controlling for a ward’s age, sex, and socioeconomic status. The relationship is straightforward too: the more physical environmental deprivation, the worse the community’s health. This finding was important to Pearce and his collaborators, because until recently some scholars, including Richard Mitchell, an epidemiologist who was part of Pearce’s team, had wondered about “confounds,” such as social class, that might better explain why environmentally deprived people fare worse than those in greener surroundings. Here, using reliable and 
@@ -2519,10 +2421,7 @@ environmental deprivation on the health and longevity of people in more affluent
 ### Extracted Text
 
 
-
         Common Ground
-
-
 
 
 In 1890, my great-grandfather, Edward Klinenberg, moved from a small village outside Prague to Chicago, and within a few years he settled down on the city’s South Side. The University of Chicago was founded nearby that same year, but Edward didn’t come to the United States to study—that would be a luxury for future generations. Chicago already had a string of small Jewish neighborhoods, with tightly knit communities organized around a synagogue, a school, a kosher market, and all the other establishments Jews had relied on in the European ghettos. Edward wanted none of that. He was intent on escaping military service to the Austro- Hungarian Empire and experiencing the kinds of opportunity America promised. His first challenge was to make ends meet, which he did by 
@@ -2623,8 +2522,6 @@ whose “architecture,” he warns, insulates us in echo chambers and shores up 
 projects is best captured by the refrain “Build a Wall,” in others it remains “Only Connect!” The integrated blue-collar community may no longer be a viable model for large-scale development, but there are other exemplary forms of social infrastructure—some small scale, some large, some old, some relatively new—that suggest better ways to work and live together. It’s urgent that we understand them.
 
 
-
-
 Iceland is a small, homogeneous nation, without the fierce racial, religious, and regional divisions that make civic life so challenging in places like the United States and the United Kingdom. But it’s not without its share of social problems and divisions, many of which deepened after the country’s economic crisis in 2008. For much of the year Iceland is cold and dark, yet in recent decades the place that has best sustained warmth, intimacy, and spirited interaction across generational and class lines is the sundlaug, or public pool. The sundlaug, which often includes large swimming areas, “hot pots” for adults, and shallow children’s pools, is a relatively recent invention: one guidebook reports that in 1900 less than 1 percent of Icelanders knew how to swim. But today, thanks to public investment in a geothermal heating system that runs throughout the country and social infrastructure projects that help residents commingle despite the frigid weather, there are more than 120 public pools in the nation of some 330,000 people, one for every 2,750 residents. Most Icelanders live near a pool, and they use them day and night, throughout the year, as a social space for gatherings of friends and family and as a forum for casual banter or more political debate among strangers. Access is basically universal, since most hot pots are free and the select swimming complexes that charge ask for 
 ---
 
@@ -2703,10 +2600,6 @@ June 2015, McKinney, Texas, gained the national spotlight after local police got
 ![Page 148 Complete](images/page_148_full.png)
 
 ### Extracted Text
-
-
-
-
 
 
 Stories like these help explain the popularity—or perhaps the necessity—of social infrastructures that serve as safe spaces for members of excluded groups that are subjected to prejudice, discrimination, and violence. Oppressed communities often endure extreme social and economic pressures that inhibit the formation of stable, enduring relationships. In the United States, as the Harvard sociologist Orlando Patterson has argued, the history of slavery, ghettoization, segregation, and mass incarceration has led to high levels of instability within the black community. “Afro-Americans are the most unpartnered and isolated group of people in America,” Patterson writes, “and quite possibly in the world.” Black Americans, and all other groups that face severe discrimination, need spaces that foster support and cohesion.
@@ -2814,8 +2707,6 @@ touched everyone in the neighborhood, regardless of age, gender, or ethnicity. I
 neighborhood groups protested the decision and demanded that the city retain the guards. A library official responded by blaming “latch key kids” from black families for the problems, and condemning their families for failing to supervise their children. A decade before, this argument might have resonated with white, Asian, and Hispanic residents and deepened the wedge between them. But after years of working together in neighborhood associations, Sanjek writes, the people who packed the community board jumped to the defense of local black families. Thousands of good parents in Elmhurst-Corona sent their kids to libraries after school, they argued, precisely because these places promised safe, positive, educational experiences for everyone. This argument, forcefully articulated by a community that stood together, proved difficult to counter. Library officials found the funds they needed to keep the guards on duty.
 
 
-
-
 Although some large-scale social infrastructure projects are expensive, in general communities do not require massive funding to build places or institutions that bring diverse sets of people together for sustained interaction. Consider how, throughout the world, athletic facilities attract people of different backgrounds into a shared social space, allowing for competitive, playful, often joyous activity, and sparking relationships that would never have been formed off the field or court. Athletic fields can be sacred places, set aside for community purposes, where categories and hierarchies that matter so much for social and political life often lose their significance. The great anthropologist Victor Turner referred to such places as “anti-structural,” because they allow people who might otherwise be hostile to one another play together in an experience that he calls communitas: a liminal moment when all participants have the same social status and forbidden social bonds are suddenly encouraged. In some cases, these special interactions have lasting significance, helping divided groups 
 ---
 
@@ -2912,10 +2803,6 @@ sites for playful social integration, acts of violence committed on them take on
 ### Extracted Text
 
 
-
-
-
-
 Establishing meaningful connections with people we conceive as different is not only a challenge in historically divided places like South Africa and politically contentious cities like Washington, DC. Scholars such as Sherry Turkle, Cass Sunstein, and Jonathan Haidt argue that the rapid rise of the Internet has changed the ways that people everywhere view and treat one another, creating vast terrains of social distance, even between friends.
     There’s no doubt that parts of the Internet bring out the worst in human
 behavior, but does it actually cause polarization? Sunstein and Haidt believe it does. “As a result of the Internet, we live increasingly in an era of enclaves and niches—much of it voluntary, much of it produced by those who think they know, and often do know, what we’re likely to like,” Sunstein claims. “So long as we are all immersed in a constant stream of unbelievable outrages perpetrated by the other side,” Haidt writes, “I don’t see how we can ever trust each other and work together again.” But other research casts doubt on the causal relationship between political polarization and use of the Internet or social media. Drawing on data from the American National Election Studies, one team of economists finds that, surprisingly, “the increase in polarization is largest among the groups least likely to use the internet and social media.” For instance, polarization has risen far more among people over the age of seventy-five, who are avid 
@@ -2980,10 +2867,7 @@ make social bridging difficult. They foster polarization, and divided we fall. T
 ### Extracted Text
 
 
-
         Ahead of the Storm
-
-
 
 
 Paul and Shelle Simon have lived in Houston long enough to know that rain can be dangerous. In a typical year, the nation’s fourth-largest city gets about fifty inches of rainfall, and it’s prone to torrential downpours and the occasional hurricane or tornado. Although Houston is not one of the wettest American cities, its hard infrastructure and physical plan were designed to facilitate private automobiles and nearly limitless growth, without much regard for storm water management. The sprawling, six-hundred-square- mile metropolis has massive amounts of impermeable paved surfaces and scores of residential communities in the floodplain. When the rain is heavy, drainage channels, sewers, and detention ponds fill up quickly. Water courses through the city’s vital arteries, inundating roads and, on occasion, 
@@ -3180,8 +3064,6 @@ learning firsthand why social ties matter. He must have been thinking of the imp
 Health Security Strategy that emphasized preparedness and resilience, calling for the participation of the “whole community”—government agencies, civic organizations, corporations, and citizens—in all aspects of the security plan. After March 2011, when Obama issued a directive on national preparedness, FEMA began to embrace a similar approach to community resilience. “Community-engagement” programs funded by the Centers for Disease Control and Prevention have been launched in Los Angeles, Chicago, New York City, and Washington, DC. “There’s always been a big focus on classic infrastructure in mitigation,” Alonzo Plough, a former director of emergency preparedness and response for the County of Los Angeles, says. “But it’s not just engineering that matters. It’s social capital. And what this movement is bringing to the fore is that the social infrastructure matters, too.”
 
 
-
-
 Today, a growing network of policy makers and designers recognize the advantages of building social infrastructure into larger vital system upgrades. Their goal is to carry out “multipurpose projects” so that public investments in security don’t just mitigate disaster damage but also strengthen the networks that promote health and prosperity during ordinary times.
     Hurricane Sandy marked a turning point in the way government and
 civic groups think about climate security. The “superstorm” of 2012 covered an area more than one thousand miles in diameter, making it one of the largest hurricanes in American history. Its winds were both punishingly severe and painfully slow, and like Harvey, Sandy seemed to pause so that it could inflict extra damage on nearly everything in its path. Sandy hit the Atlantic coast on October 29—the worst possible moment. Not only was there a full moon with high tides, there was also an early winter storm with 
@@ -3323,8 +3205,6 @@ libraries” program, led by Shidhulai Swanirvar Sangstha, a nonprofit that’s 
 the importance of these climate-driven programs, but Bangladeshi leaders credit grassroots education projects like floating schools with dramatically reducing mortality during extreme weather crises. Social infrastructure is not a substitute for well-designed hard infrastructure, but it’s just as important. In Bangladesh, as in so many low-lying, developing nations facing dire threats from climate change, it’s the best way for communities to protect themselves.
 
 
-
-
 In recent years, as ferocious hurricanes, searing heat waves, and raging wildfires have threatened life and destroyed valuable property in the world’s most affluent societies, governments that long denied or delayed action on global warming have begun to act more like Bangladesh. It was easy to ignore remote and abstract ecological transformations like sea-level rise and warmer temperatures. But today, climate change is coming to mean something specific, and scary. “Even on a clear day a hundred years from 
 ---
 
@@ -3379,8 +3259,6 @@ funded part of the project, features lushly planted berms that protect neighborh
 strong hinges on the ugly underside of the FDR Drive, are another key part of the proposal. Most of the time, the structures, which will be designed by local artists, operate as decorative ceiling panels that enhance the experience of walking beneath the highway, which, lacking good alternatives, thousands of residents do each day. Occasionally the walls will flip down for other functions, such as blocking out wind and framing space for a protected seasonal food market. And when hurricanes hit, the walls become hard barriers, reducing the odds that floodwaters will devastate the area again.
 
 
-
-
 Staten Island, a sprawling barrier island at the mouth of the Hudson River and directly exposed to the Atlantic, also needs better protection. Residents there have endured repeated, occasionally devastating flooding since the late 1950s, when the government began building the Verrazano-Narrows Bridge, expanding infrastructure, and encouraging people to settle there. Although Staten Island has a smaller population than any other New York City borough, it had the greatest number of fatalities during Sandy. Tremendous waves crashed into its low-lying neighborhoods, eviscerating homes, carrying cars off the roads, and penetrating communities blocks from the ocean, where no one expected a deluge.
     You can’t wall off an ocean, but you can reduce the energy of its waves
 and protect against catastrophic flooding. Doing this, while also promoting social life and encouraging collective climate action in vulnerable waterfront communities, is the core goal of Living Breakwaters, a creative plan to build natural infrastructure—rocky sloped walls full of finfish, shellfish, and lobsters—that cuts the risk of flood damage and erosion on the south shore of Staten Island. The landscape architecture firm Scape, which is directed by the pioneering designer Kate Orff, leads the project. 
@@ -3417,10 +3295,6 @@ support the innovative projects, and other cities, in the United States and arou
 ![Page 188 Complete](images/page_188_full.png)
 
 ### Extracted Text
-
-
-
-
 
 
 Unless we dramatically reduce greenhouse gas emissions, however, climate adaptation will be nothing more than a temporary survival strategy, one fated to make environmental injustice a more serious problem within and across nation-states. Consider, again, Houston: Many of its neighborhoods already benefit from social infrastructure that fosters cohesion and support in disasters. Since it’s one of the world’s wealthiest cities, embedded in one of the world’s wealthiest and most powerful nations, it has resources to build better hard infrastructure for flood protection too. But as long as Houston continues its current trajectory, with an economy rooted in oil and gas and a city plan that promotes continuous sprawl, single-family homes, and dependence on private automobiles, the great metropolis will wind up fueling global warming and increasing its own risk. Houston, like all the world’s cities, needs to become more compact, dense, and amenable to walking and biking, which means building taller, multiunit residential towers in central places. It needs more trees to absorb carbon and cool the air, more urban parks and greenways where people can enjoy themselves without using their cars. It needs to replace its seemingly endless span of paved, impermeable roadways that channel floodwater to low-lying areas. All of this means building better social infrastructure, which is no easy project in a city that famously lacks zoning ordinances, and rebuilding after Harvey is the ideal moment to begin.
@@ -3469,10 +3343,7 @@ and clean transit networks, exemplifies the kind of new infrastructure project t
 ### Extracted Text
 
 
-
        Before We Lift the Next Shovel
-
-
 
 
 In February 2017, Facebook founder and CEO Mark Zuckerberg posted a six-thousand-word open letter on the site he created. It’s addressed “To our community,” and within a few sentences Zuckerberg asks his company’s two billion or so users a straightforward question: “Are we building the world we all want?”
@@ -3542,10 +3413,6 @@ intervention into the democratic process; and yet, as investigative reporters
 ![Page 195 Complete](images/page_195_full.png)
 
 ### Extracted Text
-
-
-
-
 
 
 There is another community that has suffered devastating losses since Facebook and other big tech companies began setting up shop in the Bay Area: poor, working-class, and middle-class residents of the region, who have been steadily priced and crowded out. Gentrification hardly seems like a strong enough word to describe what’s happened in the Bay Area during the historic tech boom. Housing costs in San Francisco are so outrageously high that few members of the middle class can afford to live there. Research by the University of California’s Urban Displacement Project shows that 47 percent of all the region’s census tracts, and 60 percent of low-income households, are in neighborhoods at risk of or already experiencing displacement or gentrification pressures. San Francisco’s African American population is declining sharply, while low-income and middle-class families are moving farther from urban centers and spending ever more time on long commutes. The impact is apparent everywhere. There’s heavy traffic on local roads and freeways, insufficient parking on city streets and at malls. A few decades ago, Silicon Valley was full of pristine suburbs that provided a high quality of life; today it is terribly congested and on the brink of being overrun.
@@ -3694,8 +3561,6 @@ published, and I’ll never forget the pleasure of seeing it on the shelves of t
 books (and everything else), and my family is hardly immune to their appeal. No matter how much we love bookshops, we often opt to make purchases on the Internet when we’re in a hurry or looking for a better price. But inevitably, as ever more people choose online vendors over brick- and-mortar establishments, bookshops close and social infrastructures disappear. It happened in our neighborhood, when both of the Barnes & Noble shops on Avenue of the Americas closed within a few years of each other. One building became a chain grocery, but the other, on Eighth Street, quickly went from being a vibrant community center to the site of a homicidal hate crime, which took place in front of the shuttered building just months after it closed. In late 2016, Barnes & Noble, facing a steep rent increase, announced that it would close its Baychester operation too, to be replaced by a Saks Off 5th discount outlet. The change left 1.5 million people, in a borough whose former residents include the celebrated writers Mark Twain, Edgar Allan Poe, Cynthia Ozick, and Richard Price, without a social infrastructure that the community had enjoyed for as long as anyone can remember. A Barnes & Noble executive pledged that the company was “committed to working diligently with local officials to reopen a store in the Bronx in the future.” I very much hope they do.
 
 
-
-
 In an era characterized by urgent social needs and gridlock stemming from political polarization, it is tempting to give up on government and reach almost desperately for new solutions—many in our time tech-driven, experimental, and privatized, based on faith that the market will deliver what we want and need. For communities without grocery stores, there’s Amazon and FreshDirect. For communities without enough corner stores, two former Google employees have created Bodega, pantry boxes stocked to meet local demand and programmed so that customers can make all their 
 ---
 
@@ -3778,8 +3643,6 @@ already developed the Polis Station concept, both in her practice and in her arc
 in North Lawndale, but it’s a place that local youths use often, and each time they visit, the officers who work there become a little more familiar, a little less threatening. Hopefully, the proximity will have the same effect on police officers too. Chicago has not yet committed to developing any larger Polis Station projects, yet other cities, including Baltimore, where Gang redesigned the aquarium, are interested in experimenting with a more expansive version of the concept, and New York City is discussing ways to do something similar with fire stations. As in Chicago, civic leaders in these municipalities recognize that architecture alone will not resolve the roiling conflicts between the police and people of color. But it’s hard not to believe that turning station houses into social infrastructures would be a productive first step.
 
 
-
-
 The president of the United States has pledged to rebuild the nation’s infrastructure, and he’s left no question about his preferred first step: a wall. There’s no simpler design idea, nothing easier to erect. But a wall is both 
 ---
 
@@ -3835,7 +3698,6 @@ unfolding before us requires harnessing all kinds of collective intelligence abo
 ### Extracted Text
 
 
-
 ---
 
 ## Page 214
@@ -3847,8 +3709,6 @@ unfolding before us requires harnessing all kinds of collective intelligence abo
 
 
                                ACKNOWLEDGMENTS
-
-
 
 
 It’s been more than fifteen years since I moved out of Chicago, but I attribute my interest in social infrastructure to the experience of growing up and, later, doing immersive fieldwork in a great city of neighborhoods. My childhood home in Old Town was directly across the street from the original Menomonee Club, a nonprofit community organization that offered daily after-school programs at virtually no cost. Old Town was gentrifying during the 1970s and 1980s. The neighborhood, which was adjacent to both the opulent Gold Coast and the impoverished Cabrini-Green housing projects, was a site of conflict and occasional violence. I spent several afternoons per week at both the club and the local park where its charismatic director, Basil Kane, taught soccer to a diverse if not especially talented group of city kids. For years I took for granted all the things I learned in this special community center. Now I understand how much it shaped me.
@@ -3920,8 +3780,6 @@ my love knows no limits. I dedicate this book to them. They deserve a better wor
 
 
                                               NOTES
-
-
 
 
         INTRODUCTION: THE SOCIAL INFRASTRUCTURE
@@ -5099,7 +4957,6 @@ organize economy and society: David Billington, The Tower and the Bridge: The Ne
                            ABOUT THE AUTHOR
 
 
-
 ERIC KLINENBERG is the Helen Gould Shepard Professor in the Social Sciences and director of the Institute for Public Knowledge at New York University. He also serves as research director for Rebuild by Design, a federal competition that generates innovative infrastructure projects for twenty-first- century challenges. Klinenberg is the coauthor, with Aziz Ansari, of the #1 New York Times bestseller Modern Romance, and author of the acclaimed books Going Solo, Heat Wave, and Fighting for Air. He has contributed to The New Yorker, The New York Times Magazine, Rolling Stone, Wired, and This American Life. 
 ---
 
@@ -5116,7 +4973,6 @@ ERIC KLINENBERG is the Helen Gould Shepard Professor in the Social Sciences and 
 ![Page 246 Complete](images/page_246_full.png)
 
 ### Extracted Text
-
 
 
 A Conversation with Eric Klinenberg 
@@ -5226,7 +5082,6 @@ A Conversation with Eric Klinenberg
 ### Extracted Text
 
 
-
 Q. This idea of “social infrastructure”—the physical places that shape the way we interact—came out of your dissertation and your award-winning book Heat Wave. You have written several books since then, on topics ranging from the American media landscape to the appeal of living alone and the challenges of modern dating. What brought you back to social infrastructure? A. The truth is that I never stopped thinking and writing about social infrastructure. I just kept the idea in the background. That changed after Hurricane Sandy, when I did a lot of writing about how social infrastructure shaped local experiences of the disaster in New York City. One day, out of the blue, the director of President Obama’s task force on rebuilding the region asked me if I’d serve as the research director for Rebuild by Design (RBD), a federal competition to generate innovative plans for twenty-first-century infrastructure. I jumped at the opportunity. Since then, I’ve been working with architects, engineers, and political officials who want to build social infrastructure into their designs, and I’ve learned what a difference it makes.
 
 Q. What makes this such an urgent topic today? A. Here in the United States, we are more polarized than we’ve been since the Civil War. We’ve grown more segregated by class, more distrustful, and more politically divided too. We’re hardly an outlier. Democratic societies throughout the world face massive challenges. From Brazil to Great Britain, Spain to South Africa, the social glue is coming undone.
@@ -5260,7 +5115,6 @@ Q. The book focuses on the social infrastructure of cities and suburbs. What are
 ### Extracted Text
 
 
-
 Q. Harvard political scientist James Q. Wilson and Rutgers criminologist George Kelling’s 1982 Atlantic article introduced the “broken windows” model of policing, which essentially argues that criminals perceive broken windows, graffiti, and abandoned lots as signals of weak social control and therefore as tacit permission to act outside the law. While this now infamous theory has encountered plenty of criticism, what interests you most is the way it was framed, interpreted, and widely implemented for decades. Has social infrastructure been the missing piece of this particular policy puzzle? A. Social infrastructure is actually a big part of the story that Wilson and Kelling tell in “Broken Windows.” I didn’t realize this until I reread the piece and found this amazing passage where they introduce their theory: “A piece of property is abandoned, weeds grow up, a window is smashed….People start drinking in front of the grocery; in time, an inebriate slumps to the sidewalk and is allowed to sleep it off. Pedestrians are approached by panhandlers.” From there it gets worse.
      What’s curious is that the first two steps of this vicious cycle—“A piece of property is
 abandoned, weeds grow up”—never registered in the public debate about why some neighborhoods have such high crime rates. The third step—“a window is smashed”— inspired the article’s catchy title and took center stage. Debates about Wilson and Kelling’s theory ignored the two problems at the root of their story—poverty and a collective incapacity to reinvest—and jumped straight to the criminal behavior. The policy implications are straightforward, we get zero-tolerance and stop-and-frisk policing to crack down on criminals, but precious little investment in repairing abandoned places.
@@ -5276,7 +5130,6 @@ the project, features lushly planted berms that protect neighborhoods, infrastru
 ![Page 252 Complete](images/page_252_full.png)
 
 ### Extracted Text
-
 
 
 Q. As we have seen in the 2016 election and in the ongoing conversations about Facebook’s vulnerability to Russian hacking, digital “social infrastructure” can actually serve to exploit our existing social divisions. What is the key difference between the spaces we inhabit online versus those we occupy in real life (IRL)? A. I don’t doubt that Mark Zuckerberg wants his products to connect humanity and increase solidarity. But the digital social infrastructure that he has created exploits existing social divisions. Facebook’s algorithms are designed to optimize users’ time on the screen, not civility and the common good. As a result, they amplify extreme, emotional messages that stoke polarization and downplay more nuanced, deliberative posts.
@@ -5298,7 +5151,6 @@ Q. What do you hope readers take away from Palaces for the People?
 ### Extracted Text
 
 
-
 ---
 
 ## Page 254
@@ -5314,7 +5166,6 @@ Q. What do you hope readers take away from Palaces for the People?
 ![Page 254 Complete](images/page_254_full.png)
 
 ### Extracted Text
-
 
 
 ---
@@ -5362,6 +5213,4 @@ Get personalized book picks and up-to-date news about this author.
 ### Extracted Text
 
 
-
 ---
-

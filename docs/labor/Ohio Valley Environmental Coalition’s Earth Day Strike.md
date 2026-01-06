@@ -1,3 +1,8 @@
+---
+title: "## **Ohio Valley Environmental Coalition's Earth Day Strike**"
+category: "labor"
+---
+
 ## **Ohio Valley Environmental Coalition's Earth Day Strike**
 
 ## **Date:** Tue, 05/04/2021 - 00:00

@@ -1,16 +1,10 @@
 ---
-title: 생디칼리슴과 아나키즘 표트르 알렉세예비치 크로포트킨 Syndicalism And Anarchism Pyotr
-author: Alexeyevich Kropotk
-slug: >-
-  생디칼리슴과 아나키즘 - 표트르 알렉세예비치 크로포트킨 (Syndicalism and Anarchism - Pyotr Alexeyevich
-  Kropotkin)
-reconversion_status: ready_for_reconversion
-date: 1977
-tags:
-  - theory
-  - anarchism
-  - unions
+title: "생디칼리슴과 아나키즘 표트르 알렉세예비치 크로포트킨 Syndicalism And Anarchism Pyotr"
+author: "Alexeyevich Kropotk"
+date: "1977"
+category: "theory"
 ---
+
 ## **생디칼리슴과 아나키즘 - 표트르 알렉세예비치 크로포트킨 (Syndicalism and Anarchism - Pyotr Alexeyevich Kropotkin)**
 
 ## **Author:** Peter Kropotkin

@@ -1,3 +1,8 @@
+---
+title: "## **Hong Kong, a struggle for bourgeois freedoms trapped within the limits of capitalism and politi"
+category: "technology-digital-justice"
+---
+
 ## **Hong Kong, a struggle for bourgeois freedoms trapped within the limits of capitalism and political submission to US/UK imperialism - Mouvement Communiste/Kolektivn**■ **proti Kapit**■**lu**
 
 ## **Date:** Unknown
@@ -227,7 +232,8 @@ The figures for social welfare expenditure speak for themselves. In the 1970-71 
 | Dan Radnika |
 |--------------------------------------------------------------------------------------------------------------|
 | 3 years 6 months ago |
-| Hey, libcom comrades! I need the permissions to edit this, given that your upgrades broke the<br>formatting! |
+| Hey, libcom comrades! I need the permissions to edit this, given that your upgrades broke the
+formatting! |
 | Steven. |
 | 3 years 6 months ago |
 | In reply to Hey, libcom comrades! I need…by Dan Radnika |

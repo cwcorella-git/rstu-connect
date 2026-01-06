@@ -1,3 +1,8 @@
+---
+title: "**Anarchism: An Introductory Bibliography | Anarcho-Syndicalist Review**"
+category: "contemporary-analysis"
+---
+
 #### [syndicalist.us](https://syndicalist.us/theory/anarchism-an-introductory-bibliography/)
 
 # **Anarchism: An Introductory Bibliography | Anarcho-Syndicalist Review**
@@ -1082,7 +1087,7 @@ Kenyon, Emily, editor, Let Them Be Free: An Unschooling Reader. Huntington, Verm
 
 Brian Oliver Sheppard, Anarchism vs. Primitivism. Tucson: See Sharp Press, 2003, 44 pages.
 
-Andrew Flood, Civilisation, Primitivism, and Anarchism, available online at:<http://struggle.ws/andrew.html>
+Andrew Flood, Civilisation, Primitivism, and Anarchism, available online at:
 
 Murray Bookchin, "The Myth of the Primitive," Ch. 5, pp. 120-147, in his book Re-Enchanting Humanity. Cassell, 1995.
 
@@ -1104,13 +1109,13 @@ Cornelius Castoriadis, "What Democracy?" (1990), in his Figures of the Thinkable
 
 Colin Ward, The Case Against Voting. Available in the Anarchist Library.
 
-Resource List for Anti-Elections / Pro-Anarchy Campaign. Online at:<http://neanarchist.net/antielect08/bib>
+Resource List for Anti-Elections / Pro-Anarchy Campaign. Online at:
 
 #### **Critiques of Participatory Economics**
 
 Schweickart, David, "Nonsense on Stilts: Michael Albert's Parecon," and "I Still Think It's Nonsense." Online at: [http://](http://www.zmag.org/content/showarticle.cfm?ItemID=9795) [www.zmag.org/content/showarticle.cfm?ItemID=9795](http://www.zmag.org/content/showarticle.cfm?ItemID=9795) and [9918.](http://www.zmag.org/content/showarticle.cfm?ItemID=9918)
 
-"Anarchist Debate of Participatory Economics." Online at: <http://nefac.net/parecon/>
+"Anarchist Debate of Participatory Economics." Online at: 
 
 Fotopoulos, Takis, "Inclusive Democracy and Participatory Economics." [http://www.inclusivedemocracy.org/dn/vol9/](http://www.inclusivedemocracy.org/dn/vol9/takis_parecon.htm) [takis\\_parecon.htm](http://www.inclusivedemocracy.org/dn/vol9/takis_parecon.htm)
 
@@ -1216,7 +1221,7 @@ Philadelphia: Temple University Press, 1981, 214 pages.
 
 # **Pamphlets Galore**
 
-## From See Sharp Press <http://seesharppress.com>
+## From See Sharp Press 
 
 Voltairine De Cleyre, Anarchism and American Traditions
 
@@ -1232,9 +1237,7 @@ Chaz Bufe, A Future Worth Living: Thoughts on Getting There
 
 Sebastien Faure, Does God Exist?
 
-**From Kate Sharpley Library** [<http://](http://www.katesharpleylibrary.net/)
-
-[www.katesharpleylibrary.net>](http://www.katesharpleylibrary.net/)
+**From Kate Sharpley Library** [](http://www.katesharpleylibrary.net/)
 
 ## Bartolomeo Vanzetti, Story of a Proletarian Life
 
@@ -1242,9 +1245,7 @@ Sebastien Faure, Does God Exist?
 
 Efim Yartchuk, Kronstadt in the Russian Revolution
 
-**From Zabalaza Books** (downloadable) [<http://](http://zabalazabooks.net/)
-
-[zabalazabooks.net/>](http://zabalazabooks.net/)
+**From Zabalaza Books** (downloadable) [](http://zabalazabooks.net/)
 
 Wayne Price, Insurrectional Anarchism versus Class-Struggle
 
@@ -1256,7 +1257,7 @@ Wayne Price, Insurrectional Anarchism versus Class-Struggle
 
 ## Alain Pengam, Anarchist-Communism
 
-**From AK Press** [<http://www.akpress.org/>](http://www.akpress.org/)
+**From AK Press** [](http://www.akpress.org/)
 
 Workers Solidarity Movement, Anarchism and Ireland
 
@@ -1264,7 +1265,7 @@ Graham Purchase, Anarchist Organization: Suggestions and Possibilities
 
 Graham Purchase, Anarchist Society and Its Practical Realization
 
-**From Kersplebedeb** [<http://www.kersplebedeb.com/>](http://www.kersplebedeb.com/)
+**From Kersplebedeb** [](http://www.kersplebedeb.com/)
 
 ## Elisee Reclus, Anarchy
 
@@ -1292,7 +1293,7 @@ Alexander Trachtenberg, The Lessons of the Paris Commune
 
 ## George Barrett, Objections to Anarchism
 
-**From the Anarchist Library** <http://theanarchistlibrary.org/> (downloadable)
+**From the Anarchist Library**  (downloadable)
 
 ## Judi Bari, Revolutionary Ecology
 
@@ -1524,29 +1525,29 @@ See also: Nursey-Bray, Paul, editor, Anarchist Thinkers and Thought: An Annotate
 
 (See also the sources listed under Pamphlets Galore)
 
-Libcom.org [<http://www.libcom.org>](http://www.libcom.org/)
+Libcom.org [](http://www.libcom.org/)
 
-Spunk Library [<http://www.spunklibrary.org>](http://www.spunklibrary.org/)
+Spunk Library [](http://www.spunklibrary.org/)
 
-Anarchismo [<http//:www.anarchismo.net>](https://syndicalist.us/theory/anarchism-an-introductory-bibliography/http//:www.anarchismo.net)
+Anarchismo [](https://syndicalist.us/theory/anarchism-an-introductory-bibliography/http//:www.anarchismo.net)
 
-Zine Library [<http//:www.zinelibrary.info>](https://syndicalist.us/theory/anarchism-an-introductory-bibliography/http//:www.zinelibrary.info)
+Zine Library [](https://syndicalist.us/theory/anarchism-an-introductory-bibliography/http//:www.zinelibrary.info)
 
-A People's Libertarian Index, at [<http://flag.blackened.net/](http://flag.blackened.net/liberty) [liberty>](http://flag.blackened.net/liberty)
+A People's Libertarian Index, at [](http://flag.blackened.net/liberty)
 
-## A-Infos <<http://www.ainfos.ca/>>
+## A-Infos >
 
-Infoshop News < [http://news.infoshop.org/>](http://news.infoshop.org/)
+Infoshop News ](http://news.infoshop.org/)
 
-Infoshop < [http://www.infoshop.org/page/Anarchism>](http://www.infoshop.org/page/Anarchism)
+Infoshop ](http://www.infoshop.org/page/Anarchism)
 
-Revolt <http://flag.blackened.net/revolt/revolt.html>
+Revolt 
 
-Anarchist News < [http://www.anarchistnews.org/>](http://www.anarchistnews.org/)
+Anarchist News ](http://www.anarchistnews.org/)
 
-Jay's Leftist Info and Internet Resources Directory < [http://](http://www.jaysleftist.info/) [www.jaysleftist.info/>](http://www.jaysleftist.info/) Click on "Anarchisms" for a long list of internet links
+Jay's Leftist Info and Internet Resources Directory ](http://www.jaysleftist.info/) Click on "Anarchisms" for a long list of internet links
 
-Anarchist Writers < [http://anarchism.pageabode.com/>](http://anarchism.pageabode.com/)
+Anarchist Writers ](http://anarchism.pageabode.com/)
 
 Many of the major anarchist writers have separate web sites now. Many of the web sites listed above and the magazines and publishers listed below also have links to other anarchist sites, publications, and organizations.
 

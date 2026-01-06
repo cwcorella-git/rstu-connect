@@ -1,3 +1,8 @@
+---
+title: "## **The Image Seen 'Round the World**"
+category: "contemporary-analysis"
+---
+
 ## **The Image Seen 'Round the World**
 
 **Date:** Mon, 08/21/2017 - 18:30 **Source:** https://ecology.iww.org/node/2385**Tags:** anti-fascism, Earth First!, Headwaters Forest, Green is the New Red, Humboldt County By Judy Hodgson - North Coast Journal , December 1997; with contemporary IWW EUC Commentary by the Ramblin' Dude [ Trigger Warning! - the embedded video depicts scenes of young women being tortured by police] We present this retrospective article and video to illustrate a point:

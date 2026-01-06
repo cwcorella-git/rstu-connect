@@ -1,3 +1,8 @@
+---
+title: "## **It Starts On Your Job: Syndicalist proposals**"
+category: "arts-culture-music"
+---
+
 ## **It Starts On Your Job: Syndicalist proposals**
 
 ## **Date:** Unknown

@@ -1,26 +1,8 @@
 ---
-title: Buncombe
-author: David Graeber
-date: August 2013
-language: en
-source_url: >-
-  Retrieved on 3<sup>rd</sup> September 2020 from
-  https://thebaffler.com/odds-and-ends/buncombe
-notes: >-
-  Published in Issue No.23 of The Baffler | See also: David Graeber Institute
-  [[https://davidgraeber.institute/]] & [[https://davidgraeber.org/]]
-topics:
-  - USA
-  - democracy
-  - The Baffler
-  - academy
-original_format: muse
-converted_date: '2025-11-08T11:25:03.070189'
-tags:
-  - USA
-  - Democracy
-  - The Baffler
-  - Academy
+title: "Buncombe"
+author: "David Graeber"
+date: "August 2013"
+category: "contemporary-analysis"
 ---
 
 America is a country made possible by hucksterism and carnival buncombe. It is the birthplace of both modern PR and advertising, the first place on earth to apply techniques of commercial marketing to politics, and a country where, for at least thirty years, the economy has been driven by the engine of finance—that is, by the magical creation of wealth through financial securities and derivatives. When you consider that those U.S. companies that still produce commodities now devote themselves mainly to developing brands and images, you realize that American capitalism conjures value into being chiefly by convincing everyone it’s there.

@@ -1,3 +1,8 @@
+---
+title: "## **Peter Lamborn Wilson Islam and the Internet Net-religion, a War in Heaven October 6, 1995**"
+category: "technology-digital-justice"
+---
+
 ## **Peter Lamborn Wilson Islam and the Internet Net-religion, a War in Heaven October 6, 1995**
 
 I don't even own a computer. Is there anybody else in here who doesn't own a computer? It's interesting to watch the net and to approach media ecology, and the internet, specifically from the point of view of what I do.

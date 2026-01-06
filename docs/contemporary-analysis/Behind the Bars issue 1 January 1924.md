@@ -1,3 +1,8 @@
+---
+title: "## **Behind the Bars issue 1 January 1924**"
+category: "contemporary-analysis"
+---
+
 ## **Behind the Bars issue 1 January 1924**
 
 ## **Date:** Unknown

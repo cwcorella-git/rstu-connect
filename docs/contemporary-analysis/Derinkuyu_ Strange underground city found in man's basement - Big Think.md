@@ -1,3 +1,8 @@
+---
+title: "**Derinkuyu: Mysterious underground city in Turkey found in man's basement**"
+category: "contemporary-analysis"
+---
+
 *[S T R A N G E M A P S](https://bigthink.com/strange-maps/) — D E C E M B E R 2 8 , 2 0 2 3*
 
 # **Derinkuyu: Mysterious underground city in Turkey found in man's basement**
@@ -98,7 +103,8 @@ Derinkuyu is now one of Cappadocia's biggest tourist attractions, so it no longe
 
 | Tags | | |
 |-------------|--------------------|--------|
-| archaeology | culture<br>history | travel |
+| archaeology | culture
+history | travel |
 
 # **Sign up for Big Think on Substack**
 

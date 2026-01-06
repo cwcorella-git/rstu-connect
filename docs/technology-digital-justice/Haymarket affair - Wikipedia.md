@@ -1,3 +1,8 @@
+---
+title: "**Haymarket affair**"
+category: "technology-digital-justice"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Haymarket_affair)
 
 # **Haymarket affair**
@@ -17,7 +22,8 @@ This 1886 engraving was the most widely reproduced image of the Haymarket massac
 | Date | May 4, 1886 | |
 |----------|-------------------------------------------|--|
 | Location | Chicago, Illinois, United States | |
-## | | 41°53′5.6″N<br>87°38′38.9″W / 41.884889°N | |
+## | | 41°53′5.6″N
+87°38′38.9″W / 41.884889°N | |
 
 | | 87.644139°W | | |
 |----------------------------------------------------|---------------------|------------------------------|--|
@@ -26,7 +32,9 @@ This 1886 engraving was the most widely reproduced image of the Haymarket massac
 | | • protest | | |
 | | • demonstrations | | |
 | Parties | | | |
-| Federation of Organized Trades<br>and Labor Unions | | Chicago Police<br>Department | |
+| Federation of Organized Trades
+and Labor Unions | | Chicago Police
+Department | |
 
 ## **Lead figures**
 

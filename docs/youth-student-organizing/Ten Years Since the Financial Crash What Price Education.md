@@ -1,3 +1,8 @@
+---
+title: "## **Ten Years Since the Financial Crash: What Price Education?**"
+category: "youth-student-organizing"
+---
+
 ## **Ten Years Since the Financial Crash: What Price Education?**
 
 ## **Date:** Unknown

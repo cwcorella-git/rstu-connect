@@ -1,15 +1,8 @@
 ---
-title: >-
-  Indispensable Reading For Wobblies Labor Historians a Review of the Wobblies
-  in
-date: 2025
-author: Bill Haywood
-tags:
-  - organizing
-  - strikes
-  - unions
-  - rent
-  - prisons
+title: ">-"
+author: "Bill Haywood"
+date: "2025"
+category: "labor"
 ---
 
 # Indispensable Reading For Wobblies Labor Historians a Review of the Wobblies in

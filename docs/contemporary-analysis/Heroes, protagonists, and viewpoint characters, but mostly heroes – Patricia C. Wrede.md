@@ -1,3 +1,8 @@
+---
+title: "## [pcwrede.com](https://pcwrede.com/pcw-wp/heroes-protagonists-and-viewpoint-characters-but-mostly-"
+category: "contemporary-analysis"
+---
+
 ## [pcwrede.com](https://pcwrede.com/pcw-wp/heroes-protagonists-and-viewpoint-characters-but-mostly-heroes/)
 
 ## **Heroes, protagonists, and viewpoint characters, but mostly heroes – Patricia C. Wrede**

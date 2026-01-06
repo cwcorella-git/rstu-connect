@@ -1,3 +1,8 @@
+---
+title: "Metal Gear Solid 2 Grand Game Plan Translation"
+category: "contemporary-analysis"
+---
+
 # Metal Gear Solid 2 Grand Game Plan Translation
 
 ## Translation by Marc Laidlaw
@@ -473,9 +478,9 @@ Like the previous game, the focus of the game will be to enjoy the atmosphere of
 
 - Arsenal Ship[4]
 
-<sup>3</sup> This probably refers to Max, but is substituted with the word '(the) data' to, in my guess, match the other elements mentioned that Raiden has to deal with during his mission (i.e., 'the Colonel', 'the girlfriend'). The word 'data', used in this sense, is not mentioned anywhere else in the document.
+3 This probably refers to Max, but is substituted with the word '(the) data' to, in my guess, match the other elements mentioned that Raiden has to deal with during his mission (i.e., 'the Colonel', 'the girlfriend'). The word 'data', used in this sense, is not mentioned anywhere else in the document.
 
-<sup>4</sup> This is an actual project still under consideration by the US military, and is not to be confused with Arsenal Gear.
+4 This is an actual project still under consideration by the US military, and is not to be confused with Arsenal Gear.
 
 - Force XXI
 - Cyberterrorism (and anti-cyberterrorism units)
@@ -507,11 +512,11 @@ Flowchart: Infiltrate tanker deck (amid fierce wind and rain) → Infiltrate int
 
 ### 2) Arsenal Chapter (the main game)
 
-Time: 2007 (1 year after Aircraft Carrier Chapter<sup>[5]</sup>)
+Time: 2007 (1 year after Aircraft Carrier Chapter[5])
 
-Possible dates: April 30<sup>th</sup>, 2007, the anniversary of the day George Washington declared independence in New York City (Washington was inaugurated as the first
+Possible dates: April 30th, 2007, the anniversary of the day George Washington declared independence in New York City (Washington was inaugurated as the first
 
-President of the United States at Federal Hall on April 30<sup>th</sup>, 1789)
+President of the United States at Federal Hall on April 30th, 1789)
 
 Black Monday, the day of the collapse of the New York Stock Exchange
 
@@ -529,7 +534,7 @@ Contact security guard → Defuse C4s → Deactivate PAL → Destroy AI (Washing
 
 ## Solidus
 
-<sup>5</sup> It is my guess that Mr. Kojima used this and 'Tanker Chapter' interchangeably, as he has stated elsewhere that the game's opening chapter was originally going to revolve around an aircraft carrier.
+5 It is my guess that Mr. Kojima used this and 'Tanker Chapter' interchangeably, as he has stated elsewhere that the game's opening chapter was originally going to revolve around an aircraft carrier.
 
 ### Flowchart:
 
@@ -689,9 +694,9 @@ There is a lot of pressure from Navy brass, especially those with submarine and 
 
 ## But this project is vital to the Marine Corps.[7]
 
-<sup>6</sup> See 5.
+6 See 5.
 
-<sup>7</sup> A version of the first two lines of this section can be found in a draft of the game's Japanese script, as part of the Commandant's speech (see Appendix). As the latter four lines remain in the final game virtually unchanged, I used here the translations found in the English version of the game.
+7 A version of the first two lines of this section can be found in a draft of the game's Japanese script, as part of the Commandant's speech (see Appendix). As the latter four lines remain in the final game virtually unchanged, I used here the translations found in the English version of the game.
 
 Avoiding the troops (he cannot use firearms) and knocking them out when necessary, Snake makes it to the Metal Gear. But then at that very moment, Ocelot and Gurlukovich suddenly appear, seizing the prototype. After taking control of it, Ocelot kills the Commandant, crushes Gurlukovich and his men, and fires a massive beam from its mouth, sinking the ship along with Snake. Ocelot then disappears into the depths of the ocean.
 
@@ -721,7 +726,7 @@ An oil fence has been laid around the New York Harbor area in order to contain t
 
 After the accident, a massive offshore decontamination facility, Big Blue Apple, is constructed at the site of the spill, its purpose to salvage the tanker, recover the oil and remove the pollution from the water. Although its decontamination facilities operate around-the-clock, day and night, it is now a year after the
 
-<sup>8</sup> The original Japanese here is similar to the Japanese equivalent of Sergei's line in the final game, 'Ocelot, you…! Have you sold us out?'
+8 The original Japanese here is similar to the Japanese equivalent of Sergei's line in the final game, 'Ocelot, you…! Have you sold us out?'
 
 accident and the cleanup work still remains to be completed. The media and the public are beginning to question both the federal government's and the city's response to the problem.
 
@@ -906,7 +911,7 @@ A new recruit to FOXHOUND. The main character of the main part of the game.
 
 ## The girlfriend (Rosemary)
 
-<sup>9</sup> The original word used here is 俺 (ore), literally meaning 'I' or 'me'.
+9 The original word used here is 俺 (ore), literally meaning 'I' or 'me'.
 
 Raiden's girlfriend. She recently started working as a news anchor for a New York City cable TV station. Well versed in the world of finance, she attends night classes at NYU's School of Business and wants to become a stock trader.
 
@@ -939,11 +944,11 @@ Wears a high-speed reinforced exoskeletal suit. Pilots vehicles such as a Sea Ha
 
 The scientist who developed Arsenal Gear's AI. A brilliant mathematician in his early 30s. Offers hints to Raiden via Codec. An AI he made while in his teens defeated Deep Blue, the computer that famously beat the world chess champion of its time. During his college years, he worked on the AI for soccer robots,
 
-<sup>10</sup> Also the name of the protagonist (a writer of detective novels) of Paul Auster's novel City of Glass. It should be noted that for part of the story the protagonist assumes the name of a private detective also called Paul Auster, after a Peter Stillman, Jr. calls him thinking he is calling Auster. One of the main themes of both City of Glass and Metal Gear Solid 2 is that of identity.
+10 Also the name of the protagonist (a writer of detective novels) of Paul Auster's novel City of Glass. It should be noted that for part of the story the protagonist assumes the name of a private detective also called Paul Auster, after a Peter Stillman, Jr. calls him thinking he is calling Auster. One of the main themes of both City of Glass and Metal Gear Solid 2 is that of identity.
 
-<sup>11</sup> Also the name of an identity (and the star of the writer's novels) assumed by the protagonist of City of
+11 Also the name of an identity (and the star of the writer's novels) assumed by the protagonist of City of
 
-Glass. <sup>12</sup> Also the pen name (sans the 'Doctor') of the protagonist of City of Glass.
+Glass. 12 Also the pen name (sans the 'Doctor') of the protagonist of City of Glass.
 
 winning successive championships at the World Robocup Tournament. You can talk to him via Codec after learning about Arsenal (from Emma). Actually an AI construct. Also knowledgeable about marine life. Offers various information about marine life and the marine environment, similar to Master from MGS1.
 
@@ -1016,7 +1021,7 @@ Codec support consists of:
 
 The daughter of Colonel Sergei Gurlukovich, the former Spetsnaz unit commander and head of GRU whose dream is the rebuilding of Russia. Sergei dies in the Tanker Chapter, with Olga inheriting command of his private unit. In her early 30s. She has lived with her father's unit (all men) since she was little, and has never been involved in a romantic relationship.
 
-<sup>13</sup> The name of a company featured in Policenauts, one of Mr. Kojima's other games that was released only in Japan.
+13 The name of a company featured in Policenauts, one of Mr. Kojima's other games that was released only in Japan.
 
 Uses a Mauser C96 that belonged to her father. Is actually a spy for the Patriots. The vast number of soldiers and spies in her unit, the victims of military restructuring, are killed by Ocelot near the end of the game. She had agreed to work with the Patriots on the condition that they take them in. Comes to Raiden's aid throughout the game in order to support the S3 Plan.
 
@@ -1044,9 +1049,9 @@ Raiden must look for him following the failed rescue of the President.
 
 Calls himself a hero. He shows Raiden a photo of his family, and talks about them with great pride. He injured one of his legs in another accident that occurred while trying to defuse a bomb. His failure to defuse the device resulted in heavy civilian casualties. His photo is actually that of some of the victims of that bomb. It was he who taught Fatman, which led to him being forced to participate in the operation despite his bad leg.
 
-<sup>14</sup> The actual name used here is 'Gurlukovich', though in light of the information specifying that it is Olga, and not her father, who is actively working for the Patriots, I have changed this to 'Olga' to help avoid confusion.
+14 The actual name used here is 'Gurlukovich', though in light of the information specifying that it is Olga, and not her father, who is actively working for the Patriots, I have changed this to 'Olga' to help avoid confusion.
 
-<sup>15</sup> Also the name of two of the main characters, father and son, in City of Glass.
+15 Also the name of two of the main characters, father and son, in City of Glass.
 
 He offers support for bomb defusal as well as information about the plant and Arsenal. The explosion that occurred during Vamp's childhood was also his fault. He taught Fatman everything he knows about explosives, and therefore knows everything Fatman could possibly be thinking.
 
@@ -1090,7 +1095,7 @@ They don't need you anymore.
 
 # Solidus:
 
-<sup>16</sup> The original Japanese here is identical to the Japanese equivalent of Ames's line in the final game, 'You'll never escape the La-li-lu-le-lo!' except for the changing of 'Patriots' to 'La-li-lu-le-lo' and the dropping of Solidus's name.
+16 The original Japanese here is identical to the Japanese equivalent of Ames's line in the final game, 'You'll never escape the La-li-lu-le-lo!' except for the changing of 'Patriots' to 'La-li-lu-le-lo' and the dropping of Solidus's name.
 
 I couldn't care less about the Patriots.
 
@@ -1144,7 +1149,7 @@ Identity unknown. Wears a new aquatic version of the exoskeleton from MGS1. Help
 
 The only clue as to her identity is the breast area on her suit, which suggests she is a woman. Players who have played MGS1 will guess that she could be either Naomi, Meryl or Wolf. However, her identity will not be revealed – she is whoever the player wants it to be. Therefore, there will be 3 different voice actors
 
-<sup>17</sup> Although this line does not appear in the final game, I felt it was worth commenting on. The original Japanese is a little vague, as it could mean that either Solidus was literally helped by Nastasha in some indirect way, or Solidus could just be saying this to play with Ames and annoy him. It is impossible to say without the full context (known only to Mr. Kojima) that would have been provided had it made it into the final game.
+17 Although this line does not appear in the final game, I felt it was worth commenting on. The original Japanese is a little vague, as it could mean that either Solidus was literally helped by Nastasha in some indirect way, or Solidus could just be saying this to play with Ames and annoy him. It is impossible to say without the full context (known only to Mr. Kojima) that would have been provided had it made it into the final game.
 
 for the character, with her voice changing depending on the situation. The tone of her voice and her lines will change as well. In neutral situations, she will have a highly synthesized voice.
 
@@ -1198,7 +1203,7 @@ Leader of the anti-Metal Gear NGO. Also a reportage writer, she wrote In the Dar
 
 A graduate student at MIT. She secretly provides the anti-Metal Gear group with various sensor technologies.
 
-<sup>18</sup> The original Japanese here is very similar to the Japanese equivalent of the Ninja's line in the final game, 'Hmm…if you like.'
+18 The original Japanese here is very similar to the Japanese equivalent of the Ninja's line in the final game, 'Hmm…if you like.'
 
 ### Naomi Hunter
 
@@ -1236,9 +1241,9 @@ Part of Solidus's troops.
 
 Part of Gurlukovich's unit. Special security room soldiers. They guard the room where the hostages are being held, which is protected by a door that reads retinal patterns.
 
-<sup>19</sup> Also the name of one of the main characters in another of Auster's novels (which is part of The New York Trilogy along with City of Glass), The Locked Room. The use of the name here most likely does not refer to his father's actual name, but the fact that, like Fanshawe, Raiden's father remains an elusive ghost (at least in this early version of the story).
+19 Also the name of one of the main characters in another of Auster's novels (which is part of The New York Trilogy along with City of Glass), The Locked Room. The use of the name here most likely does not refer to his father's actual name, but the fact that, like Fanshawe, Raiden's father remains an elusive ghost (at least in this early version of the story).
 
-<sup>20</sup> This could be referring to either Sergei or Olga.
+20 This could be referring to either Sergei or Olga.
 
 # SEALs (Plant Chapter)
 
@@ -1286,9 +1291,9 @@ Ocelot > The Terrorists Good
 ## 
 ### 1) The Patriots
 
-<sup>21</sup> See 5.
+21 See 5.
 
-<sup>22</sup> This could be either singular or plural, but, going by the final game, I left it as singular.
+22 This could be either singular or plural, but, going by the final game, I left it as singular.
 
 The greatest evil, they are the 'invisible force' controlling the American government. No one knows of their existence. After the failure that was the Shadow Moses incident, they plan on eliminating Solidus (the President), who they have come to view as a threat, and replace him with a successor.
 
@@ -1296,15 +1301,15 @@ Fox Die is ineffective on Solidus as he is in possession of its antidote. Solidu
 
 The Patriots learn of Solidus's plan to destroy them, and decide to implant their mentality into Arsenal Gear's AI. Furthermore, Arsenal's nuclear launch capabilities do not work off the traditional briefcase used in other launch systems.
 
-They buy off Olga<sup>[23]</sup> and use her to spy on Solidus and his compatriots. She also supports Raiden in order to fulfill the S3 Plan.
+They buy off Olga[23] and use her to spy on Solidus and his compatriots. She also supports Raiden in order to fulfill the S3 Plan.
 
-The S3 Plan was the Patriots' idea, and they were therefore the ones responsible for sending in Raiden. It was also the Patriots who arranged for the appearances of the AI constructs – the Colonel, Data<sup>[24]</sup>, Doc and the Female Ninja – though Solidus does not know this.
+The S3 Plan was the Patriots' idea, and they were therefore the ones responsible for sending in Raiden. It was also the Patriots who arranged for the appearances of the AI constructs – the Colonel, Data[24], Doc and the Female Ninja – though Solidus does not know this.
 
 People used by them:
 
 - Raiden
 - Johnny Sasaki
-- Olga<sup>[25]</sup>
+- Olga[25]
 - Emma
 - Richard Ames
 
@@ -1326,11 +1331,11 @@ People used by him:
 
 ### 3) Ocelot
 
-<sup>&</sup>lt;sup>23</sup> See 14.
+&lt;sup>23 See 14.
 
-<sup>&</sup>lt;sup>24</sup> The word 'Data' is used here, this time as a name, though as before it probably refers to Max.
+&lt;sup>24 The word 'Data' is used here, this time as a name, though as before it probably refers to Max.
 
-<sup>&</sup>lt;sup>25</sup> See 14.
+&lt;sup>25 See 14.
 
 He uses and later betrays his friend Gurlukovich, and then goes to serve Solidus. His relationship with Solidus is the same as his relationship with Liquid in MGS1. In the latter half of the game, Liquid's right arm takes over Ocelot's mind, with Ocelot becoming a part of Liquid.
 
@@ -1366,7 +1371,7 @@ Evil in Hollywood films has always changed depending on the time in which the fi
 
 Westerns Native Americans Post-WWII war films Germany, Japan Cold War-era spy films Russia Post-Cold War films China
 
-<sup>26</sup> See 14.
+26 See 14.
 
 Following the signing of the friendship treaty between the US and China Japanese businesses (the collapse of the bubble economy)
 

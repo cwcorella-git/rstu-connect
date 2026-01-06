@@ -1,3 +1,8 @@
+---
+title: "## **From one crisis to another. An interview with Helen Arnold and Daniel Blanchard**"
+category: "contemporary-analysis"
+---
+
 ## **From one crisis to another. An interview with Helen Arnold and Daniel Blanchard**
 
 ## **Date:** Unknown

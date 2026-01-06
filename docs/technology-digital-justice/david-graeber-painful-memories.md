@@ -1,23 +1,8 @@
 ---
-title: Painful memories
-author: David Graeber
-date: '1997'
-pubdate: '2021-11-28T20:18:34'
-language: en
-source_url: >-
-  Retrieved on 28<sup>th</sup> November 2021 from
-  [[https://davidgraeber.org/articles/painful-memories/][davidgraeber.org]]
-notes: >-
-  Published in <em>Journal of Religion in Africa</em>, Vol. 27, Fasc. 4,
-  Religion in Madagascar II (Nov., 1997), pp. 374–400
-topics:
-  - anthropology
-  - Africa
-original_format: muse
-converted_date: '2025-11-08T11:25:03.169206'
-tags:
-  - Anthropology
-  - Africa
+title: "Painful memories"
+author: "David Graeber"
+date: "1997"
+category: "technology-digital-justice"
 ---
 
 In this essay I would like to talk about people who lost everything. Imerina (the traditional name for the northern half of the central plateau of Madagascar) is a place where people attach enormous importance to the memory of their ancestors and the lands on which their ancestors once lived. History, in Imerina, is largely a matter of placing the living in an historical landscape created by the dead. About a third of the Merina population, however, is made up of the descendants of slaves, and in Madagascar, slaves are by definition people without ancestors, ‘lost people’ *(obna very)* who have been ripped from their ancestral landscapes, left unanchored to any place. These were people who had been literally stripped of history. Even today, almost a hundred years after emancipation, most ‘black people’ (as their descendants are called) remain in a kind of historical limbo, unable to make a real claim to the territories in which they live and are buried.
@@ -73,7 +58,7 @@ Actually, Nety had previously wondered whether Razanamavo would be willing to ta
 
 Razanamavo had an oddly distant manner of speaking, somehow absent; she crouched wrapped in a yellow cloth staring off into the courtyard as she talked, as if looking at something far away, or perhaps nothing at all, and never once gazed at the other people in the room, even when she was more or less speaking to them. In part she was probably exhausted from an afternoon at work; but her manner seemed to complement the content of her discourse, which was much more evocative and dreamy than the usual, matter-of-fact style of historical narration. After telling her story, and answering a few of Nety’s questions about her relatives, she seemed to just fade away, staring off as if so lost in thought that she didn’t even notice anyone was talking to her, until after a little while, we gave up and started talking about something else.
 
-<quote>
+
 *Razanamavo’.* He, you know—our grandmother said that when he was about to die, he said: ‘I am about to die now, so take me to the north of the village, to the dam. And as for me’ he said, ‘don’t bury me in a tomb but just release me in the current of the river. And get a *lamba arin-drano* [10] he said, ‘like you would for burying a son-in-law.’
 
 And they said: ‘maybe we won’t put you in the river, because we’d be embarrassed.’
@@ -89,7 +74,7 @@ But they didn’t do it. They just buried him normally and left him there.
 ‘If you do this thing, then a great blessing will come to you.’ Then the water flooded... he was dead. ‘I don’t like *lambammd* he said, ‘but *lamba arin-drano*, and...’ those were to be the mourning clothes. ‘So your children will never become poor, nor the generations of your descendants to come ...’ This is something they all dreamed, all of them absolutely. But we didn’t get the blessing because we didn’t do it. They put him in the center of the top shelf to the north of the tomb, and he still hasn’t been moved to this day.
 
 Once, there were a good number of descendants, but there are few left any more.[11]
-</quote>
+
 
 She too told how he had moved from the pool to the east of the village to the one near Antandrokomby. She wasn’t sure where he had gone after that, but she suspected he had finally returned to his original home in Betsileo.
 
@@ -103,9 +88,9 @@ Unrealized promises, currents, dispersal, disappearance ... the traditions surro
 
 Part of how it could do this was by seizing on the richness of the term ‘Vazimba,’ a word which can be used to refer to ancient aborigines, lost ancestors, or dangerous spirits of the water—categories which tend to overlap considerably. It might be helpful to explore some of the term’s meanings: not least because it has become something of a notorious issue in the scholarly literature.
 
-The so-called ‘Vazimba problem’ has, in fact, generated a very long and (in my opinion) largely poindess intellectual history. It all started in the 19<sup>th</sup> century, when early missionaries heard stories about dark, diminutive Vazimba spirits lurking in wild places, and concluded that they must reflect the memory of an ancient ‘aboriginal race’ that had occupied the highlands of Madagascar before its present-day inhabitants (see Berg 1975, 1977). The logic seems to have been this: the people of Imerina tended to have straight hair and more Asian features than most other Malagasy. Therefore, they had to be the descendants of recent immigrants from the Malay archipelago.[14] The Vazimba, then, would have to be the people already living in the highlands when they arrived: backward, dark-skinned savages, originally from East Africa. For English and French missionaries working in Imerina, this soon became a matter of simple common sense. There was some speculation the Vazimba might have been pygmies; others argued that the Crace of pygmies’ (called Kimosy) was an even earlier strata the (perhaps pastoral) Vazimba drove out, before they were in turn put to flight by conquering Malays.
+The so-called ‘Vazimba problem’ has, in fact, generated a very long and (in my opinion) largely poindess intellectual history. It all started in the 19th century, when early missionaries heard stories about dark, diminutive Vazimba spirits lurking in wild places, and concluded that they must reflect the memory of an ancient ‘aboriginal race’ that had occupied the highlands of Madagascar before its present-day inhabitants (see Berg 1975, 1977). The logic seems to have been this: the people of Imerina tended to have straight hair and more Asian features than most other Malagasy. Therefore, they had to be the descendants of recent immigrants from the Malay archipelago.[14] The Vazimba, then, would have to be the people already living in the highlands when they arrived: backward, dark-skinned savages, originally from East Africa. For English and French missionaries working in Imerina, this soon became a matter of simple common sense. There was some speculation the Vazimba might have been pygmies; others argued that the Crace of pygmies’ (called Kimosy) was an even earlier strata the (perhaps pastoral) Vazimba drove out, before they were in turn put to flight by conquering Malays.
 
-Needless to say, no evidence was ever produced to back up any of this, and there would be litde reason to go into it were it not for the fact that this picture of Malagasy history has become entrenched in schoolbooks and, therefore, that anyone who has been to school has been exposed to it. When the descendants of free Merina call themselves ‘white people’ today, in contrast to the descendants of slaves, who like people of the coast are called Cblack’ they draw on this picture of Malagasy history.[15] On the other hand, popular conceptions of Vazimba themselves seem to have changed little from the ones Gerald Berg (1977: 7–12) documents for the early 19<sup>th</sup> century—the stories that missionaries first seized on and misinterpreted.[16]
+Needless to say, no evidence was ever produced to back up any of this, and there would be litde reason to go into it were it not for the fact that this picture of Malagasy history has become entrenched in schoolbooks and, therefore, that anyone who has been to school has been exposed to it. When the descendants of free Merina call themselves ‘white people’ today, in contrast to the descendants of slaves, who like people of the coast are called Cblack’ they draw on this picture of Malagasy history.[15] On the other hand, popular conceptions of Vazimba themselves seem to have changed little from the ones Gerald Berg (1977: 7–12) documents for the early 19th century—the stories that missionaries first seized on and misinterpreted.[16]
 
 First and foremost, Vazimba were ancestors whose bodies had been lost. If a man or woman drowned or died in a far-off country and their body was not recovered, they were often said to have ‘become a Vazimba.’ This could be a simple figure of speech; one did not necessarily mean anything more than that the person would never become a proper ancestor, never be wrapped and placed inside the tomb. But, more often, the term Vazimba was applied to the ghosts of such unfortunates, dangerous spirits, angry because they were cut off from proper relations with their descendants.[17]
 
@@ -115,9 +100,9 @@ I heard a lot of speculation about the origin of such ghosts. One medium from Ar
 
 Many refused to even speculate. The important thing about Vazimba, Armand’s brother Germain once told me, is that you don’t know what they are or where they come from. They are by definition mysterious, invisible, a kind of unknown power:
 
-<quote>
+
 *Germain*: Vazimba are a kind of thing that isn’t seen. They don’t show their bodies like, say, people do, or the divine spirits who possess mediums and cure people. If you carry pork to a place where one is, then that night, as soon as you kill the light you look and there’s this hand moving towards you. As soon as you light the candle again, it’s gone. Or, say you’re washing your face in you don’t know what... and likely as not your face will swell up hugely like this, and it absolutely won’t go away until you bum incense over it. You take it to someone who will make offerings, and then you’re cured. But that’s all you know—you have absolutely no idea what was in the water.[18]
-</quote>
+
 
 As this quote makes clear, when people thought about Vazimba, it was usually not as a matter for abstract historical speculation but as one of immediate practical concern. One discovered that a place was haunted by Vazimba because someone had taken ill. A child playing in the fields had drunk some water from a reedy pool, or taken fishes that they shouldn’t have, or they had been tending pigs or taking some other polluting substance to the place where a Vazimba was. Such children would often fall into a fever, or parts of their body would swell up; usually, they would be tormented by dreams or apparitions. Vazimba were normally invisible; when they did appear, it was almost always in the nightmare visions of an adolescent or a child. Normally they appear either as horribly mutilated—fingerless, noseless—reaching out to snatch the children, or else, especially with older children as extremely attractive members of the opposite sex, trying to lure them into their watery domains. The ritual for expelling Vazimba was similar to rituals for expelling hostile ghosts: the curer would burn things, there would be incense, smoke. But one would usually also leave offerings at the place, almost exactly those one would give to ancestors at *famadihana:* rum or honey, candies, ginger, suet, bananas, bread. If nothing else, these rituals would ‘clean’ the place of the pollution that had offended the creature and made it ‘fierce,’ to soothe it, placate it, and at the same time, ensure it remained confined there.[19]
 
@@ -127,7 +112,7 @@ For present purposes, what is really important is the relationship between Vazim
 
 ### *Nymphs and Mediums*
 
-The only well documented example of how such ritual ties first developed is a story preserved in the *Tantara ny Andriana*, a collection of 19<sup>th</sup> century Malagasy texts (Callet 1908: 240–243; Dahle and Sims 1984: 197): about a woman originally from Betsileo, who became the medium for a Vazimba spirit named Ranoro.
+The only well documented example of how such ritual ties first developed is a story preserved in the *Tantara ny Andriana*, a collection of 19th century Malagasy texts (Callet 1908: 240–243; Dahle and Sims 1984: 197): about a woman originally from Betsileo, who became the medium for a Vazimba spirit named Ranoro.
 
 First, a word about Ranoro. Ranoro remains, even today, probably the most famous Vazimba in Madagascar (Domenichini 1985: 416–445; Rajaofera 1912; Aujas 1927: 16–17; Peetz 1951; Haring 1982: 358–359; see Bloch 1991).[22] She is considered one of the most ancient ancestors of a large and historically significant descent group called the Antehi-roka, whose territory is just to the north of the capital. The Antehiroka are sometimes described as ‘Vazimbas themselves—if only because they were the original inhabitants of the hill on which Antananarivo, the Merina capital, was later built, displaced when it was taken over by an early king.
 
@@ -137,7 +122,7 @@ Some versions explain the reason for this unusual demand. Ranoro knew that if sh
 
 The taboo on salt is the main claim to fame the Antehiroka had among people I knew in Arivonimamo: it was considered the most difficult taboo anyone had ever heard of. And salt does seem the key to the story. In fact I suspect the whole story is a kind of play on a Malagasy proverb: *sira latsaka an-drano, tsy himpody intsony*, ‘like salt fallen into the water, it will never again return to its previous form.’ As with Rainitaba, a broken trust leads to a very literal dissolution: what was once a single object becomes an infinity of tiny things which flow away in all directions.
 
-Already in the 19<sup>th</sup> century, Ranoro’s sanctuary, like her husband’s tomb, had become a place where people came from far and wide to make vows, and ask for favors; Ranoro is still famous for helping infertile women to conceive.[23] But in the 19<sup>th</sup> century, these were places which slaves were not allowed to enter. The presence of slaves was considered to be polluting, in much the same way as pork. This makes it all the more surprising that the most famous disciple of Ranoro of that century was, in fact, a slave—she was a woman originally from the Betsileo country in the southern highlands of Madagascar. During the reign of Ranavalona I (1828–1861), this woman—always herself referred to as Ranoro—began periodically to fall into trance and be possessed (*tsindriana)* by the Vazimba’s spirit. Her fame began to spread after she cured a woman who had been struck blind for having sullied Ranoro’s grotto; soon, even free people were beginning to frequent her, seeking advice and cures. According to the story preserved in Callet (1908), the news eventually reached the Queen, who ordered the woman to be put to the poison ordeal. When she survived, Ranavalona recognized her claims to be legitimate and granted her an honorary guard of thirty Merina soldiers.
+Already in the 19th century, Ranoro’s sanctuary, like her husband’s tomb, had become a place where people came from far and wide to make vows, and ask for favors; Ranoro is still famous for helping infertile women to conceive.[23] But in the 19th century, these were places which slaves were not allowed to enter. The presence of slaves was considered to be polluting, in much the same way as pork. This makes it all the more surprising that the most famous disciple of Ranoro of that century was, in fact, a slave—she was a woman originally from the Betsileo country in the southern highlands of Madagascar. During the reign of Ranavalona I (1828–1861), this woman—always herself referred to as Ranoro—began periodically to fall into trance and be possessed (*tsindriana)* by the Vazimba’s spirit. Her fame began to spread after she cured a woman who had been struck blind for having sullied Ranoro’s grotto; soon, even free people were beginning to frequent her, seeking advice and cures. According to the story preserved in Callet (1908), the news eventually reached the Queen, who ordered the woman to be put to the poison ordeal. When she survived, Ranavalona recognized her claims to be legitimate and granted her an honorary guard of thirty Merina soldiers.
 
 The mortal Ranoro appears to have become a figure of some fame and influence—despite her continued status as a slave. She is said to have slept on an elevated bed suspended from the rafters, to have walked across the room on a tightrope when possessed, and performed other remarkable feats. For her last miracle, she went to Ranoro’s grotto and dived into the water; it was only three days later, according to the story, that she emerged. In the interim, she told her followers, she had lived with Vazimba in the bottom of the cave, who fed on raw fish and raw crabs. They tried to make her join them in their meals, but the food repelled her, and having refused them, she was returned to the surface. The spirits had rejected her. Claiming her contact had thus been broken, the woman left and went back to find her father, who she believed was still alive somewhere in Betsileo.
 
@@ -147,7 +132,7 @@ In her case at least—and hers was clearly very unusual—it was possible to us
 
 It is worth exploring the connection to Betsileo in more detail, since most ‘black people’ in Imerina today claim Betsileo origins.
 
-Betsileo is the name given the country directly to the south of Imerina, including most of the southern part of the vast plateau that forms the center of Madagascar, as well as to the people who live there. In the 18<sup>th</sup> century, they were divided into a number of independent kingdoms; in the beginning of the 19<sup>th</sup>, Betsileo was conquered by the
+Betsileo is the name given the country directly to the south of Imerina, including most of the southern part of the vast plateau that forms the center of Madagascar, as well as to the people who live there. In the 18th century, they were divided into a number of independent kingdoms; in the beginning of the 19th, Betsileo was conquered by the
 
 Merina king Andrianampoinimerina. From the point of view of present-day Merina, the Betsileo are a bit of an anomaly. On the one hand, like all other Malagasy they are considered ‘black people’—if only because they are much less likely to have straight hair. However, in almost every other way, they are indistinguishable from Merina. Their way of speaking is similar; so are their houses, clothes, and ritual practices. If any differences are widely remarked upon, it is that Betsileo tend to be more open and easy-going than Merina (those from Amba-lavao are widely held to be the most talkative people in Madagascar), and are much more sophisticated farmers: their skill at irrigation and terracing, for example, is famous throughout Madagascar.
 
@@ -157,27 +142,27 @@ To understand the story of Rainitaba, though, one has to understand something ab
 
 *Fanany* are striking-looking snakes, easily identifiable because of their coloration, which is said to resemble that of a *lamba arin-drano*, with bands of white, orange, and black. But they are rarely sighted on dry land.
 
-<quote>
-When one of these is found the people assemble and ask it if it is the *fangany* of So-and-so, mentioning in succession the names of the various chiefs who are dead; and the animal is asserted to nod its head when the right name is mentioned. The relatives of the man at whose name the beast moves its head then take possession of it by inducing it to wriggle on to a clean *lamba,* by which it is carried to the former residence of the dead man. Oxen are killed, feasting commences, and a scene similar to that at a funeral ensues. A little of the blood is presented to the *fangany,* after which it is set free in the neighborhood of the chief’s grave (Shaw 1878: 411).
-</quote>
 
-While this was a 19<sup>th</sup> century Betsileo custom restricted to royalty, just about everyone I spoke to in 20<sup>th</sup> century Imerina had heard of it. Certainly, all *olona mainty.* Almost all of them though were under the impression that this was something that can happen spontaneously to anyone from Betsileo.
+When one of these is found the people assemble and ask it if it is the *fangany* of So-and-so, mentioning in succession the names of the various chiefs who are dead; and the animal is asserted to nod its head when the right name is mentioned. The relatives of the man at whose name the beast moves its head then take possession of it by inducing it to wriggle on to a clean *lamba,* by which it is carried to the former residence of the dead man. Oxen are killed, feasting commences, and a scene similar to that at a funeral ensues. A little of the blood is presented to the *fangany,* after which it is set free in the neighborhood of the chief’s grave (Shaw 1878: 411).
+
+
+While this was a 19th century Betsileo custom restricted to royalty, just about everyone I spoke to in 20th century Imerina had heard of it. Certainly, all *olona mainty.* Almost all of them though were under the impression that this was something that can happen spontaneously to anyone from Betsileo.
 
 The way I usually heard the story was this: should a *fanany* happen to appear in a Betsileo’s house, the family immediately assembles and lists the names of their ancestors, until it nods its head to tell them which it is. After that, they feed it rice with milk and honey, sometimes play music or otherwise celebrate its presence, but afterwards, the head of the family makes a speech, thanking it for coming, but asking it to leave now ‘because’ (as Nety put it) ‘you’re frightening the children.’
 
 Here are two different stories I heard from old men from Betafo, stories about Betsileo wage laborers which both seem to date back to around the 1920s[26]—well before the massive migrations of the 1950s and ’60s. One was told me by the catechist from the village of Amba-ribe, in the far west of Betafo’s territory. His uncle, he explained to me, had once employed an ancient Betsileo cattleherd, who was also a medium,[27] and his great-uncle had also once employed him to catch a Vazimba and move it into a nearby moat—which he did, trapping the spirit in a giant *sobika* basket. Later the medium himself grew sick and was about to die.
 
-<quote>
+
 *Ramena*: However, when he was about to die—and he was very old—he wouldn’t let them wrap him in a *lambamena*, or bind him. They put him in the bottom of a *sobika*, and covered it up with earth. Three days later, when they looked again, sure enough he wasn’t in there any more. The hole was wide open.[28]
-</quote>
+
 
 The refusal of proper shrouds of course echoes the story of Rainitaba, as does the disappearing body. But Ramena leaves the rest ambiguous. An old man from Andrianony told me a much more explicit story about a Betsileo laborer who turned into a *fanany*:
 
-<quote>
+
 *Ramwao:* It was a long time ago, back when they used to drive cattle over the rice fields instead of harrowing them. And there was a hireling of Rakotomanga’s, who lived in Antanety. He was Betsileo. The man had been hired to harvest rice, but he got sick and died while he was working in the fields. So they buried the Betsileo in the ground above the rice field. After he’d been in there for a year, he came out as a *fanany.* Came out as an animal.
 
 And having come out as an animal, he went up to Rakotomanga’s house. And they said ‘What?’ And they said: ‘Are you what’s left of So-and-so?’ The creature nodded his head. They gave it rice. The creature ate the rice (they say it was really huge, but I didn’t see it with my own eyes) and after a while, they told it ‘if this is truly you who are here before us, then leave us and go home. Go back to your ancestral lands.’ When the creature had its fill of rice, it headed off. And when it had arrived there, then the man had a dream where it told him ‘I have arrived at my ancestral lands.’[29]
-</quote>
+
 
 Such stories—about isolated Betsileo workers—already overlap with ideas about lost travelers who die away from home and become Vazimba. But in this case, transformation contains the possibility of resolution; a number of people told me that Betsileo who happen to die and are buried far from home will almost always turn into serpents and go home.
 
@@ -231,7 +216,7 @@ I should thank Bruce Applebaum, Jennifer Cole, Jean Comaroff, Nhu Thi Le, Stuart
 
 [2] Raombana’s ‘Annals,’ A2, no. 5: p. 74 (693–696). Raombana wrote his history in English; in part to ensure that no one else at court could read it.
 
-[3] My generalizations about slavery are based partly on European sources (e.g., Sewell 1876, Cousins 1896, Piolet 1896) but even more on my readings of 19<sup>th</sup> century Malagasy documents preserved in the National Archives, notably court cases and the AKTA series (etat civil).
+[3] My generalizations about slavery are based partly on European sources (e.g., Sewell 1876, Cousins 1896, Piolet 1896) but even more on my readings of 19th century Malagasy documents preserved in the National Archives, notably court cases and the AKTA series (etat civil).
 
 [4] I never found anyone in the present who recalled how slaves were buried, though some pointed out that there were a few, exceptionally generous masters who set aside a shelf within their own family tombs for slaves; others built modest slave-tombs near their own.
 
@@ -259,7 +244,7 @@ I should thank Bruce Applebaum, Jennifer Cole, Jean Comaroff, Nhu Thi Le, Stuart
 
 [14] The first settlers of Madagascar undoubtedly came from somewhere in this area: this is why Malagasy is an Austronesian language. But no one has ever managed to come up with any evidence (linguistic, archaeological or otherwise) for such a second migration. Despite this it appears to remain unchallenged in the literature, it apparently never occurring to anyone that, if the first inhabitants of Madagascar came from Indonesia, and people had been coming from Africa ever since, the inhabitants of the most isolated central highlands would be likely to look the most like the original inhabitants.
 
-[15] I am not suggesting that terms like *fotsy* and *mainty*, ‘white’ and ‘black,’ sure simply the products of missionary influence: they go back to 19<sup>th</sup> century social classifications which, however, originally had a very different meaning. For further exploration of this point, see Graeber, 1996a.
+[15] I am not suggesting that terms like *fotsy* and *mainty*, ‘white’ and ‘black,’ sure simply the products of missionary influence: they go back to 19th century social classifications which, however, originally had a very different meaning. For further exploration of this point, see Graeber, 1996a.
 
 [16] Occasionally, people I asked about Vazimba would reply with something to the effect of ‘well, you have to understand that the Vazimba were really an entirely separate race’ (always using the French word, *race);* and then go on to cite things they had read in books about Malagasy history, or heard professors discussing on the radio. Even Armand (who had been to college) did this the first time I asked him about Vazimba; but it was a one-time thing, a kind of bow to the authority of scholarship which seemed to have nothing to do with anything else he had to say on the subject thereafter.
 
@@ -277,7 +262,7 @@ I should thank Bruce Applebaum, Jennifer Cole, Jean Comaroff, Nhu Thi Le, Stuart
 
 [23] An interesting parallel with Rainitaba.
 
-[24] Pier Larson (personal communication) has pointed out to me that in the 18<sup>th</sup> century, most Merina slaves were, in fact, Betsileo. Later this was not the case, but since no single group ever gained the same numerical dominance Bestileo once had, the identity might well have lingered.
+[24] Pier Larson (personal communication) has pointed out to me that in the 18th century, most Merina slaves were, in fact, Betsileo. Later this was not the case, but since no single group ever gained the same numerical dominance Bestileo once had, the identity might well have lingered.
 
 [25] Betsileo in fact are the only other people in Madagascar who regularly perform *famadihana.*
 
@@ -296,7 +281,7 @@ I should thank Bruce Applebaum, Jennifer Cole, Jean Comaroff, Nhu Thi Le, Stuart
 
 ### *Bibliography*
 
-<quote>
+
 Abinal, A.
 
 1885 *Vingt ans a Madagascar: colonisation*, *traditions historiques, moeurs et croyances*. Paris. Aujas, Luis
@@ -498,4 +483,3 @@ Van Gennep, Arnold
 Vig, Lars
 
 1977 *Croyances et Moeurs des Malgaches* (2 volumes). Antananarivo: TPFLM.
-</quote>

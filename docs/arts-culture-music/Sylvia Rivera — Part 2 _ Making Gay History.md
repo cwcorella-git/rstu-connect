@@ -1,3 +1,8 @@
+---
+title: "**Sylvia Rivera — Part 2**"
+category: "arts-culture-music"
+---
+
 #### [makinggayhistory.org](https://makinggayhistory.org/podcast/sylvia-rivera-part-2/)
 
 # **Sylvia Rivera — Part 2**

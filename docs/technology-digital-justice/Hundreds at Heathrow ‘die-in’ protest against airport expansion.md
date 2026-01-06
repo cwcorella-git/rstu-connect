@@ -1,3 +1,8 @@
+---
+title: "## **Hundreds at Heathrow 'die-in' protest against airport expansion**"
+category: "technology-digital-justice"
+---
+
 ## **Hundreds at Heathrow 'die-in' protest against airport expansion**
 
 **Date:** Mon, 10/03/2016 - 17:42 **Source:** https://ecology.iww.org/node/1834**Tags:** Plane Stupid, Heathrow, climate justice, direct action, green unionism By staff - Reclaim the Power , October 1, 2016 Hundreds of activists stage 'die-in' and disruptive 'critical mass' bike ride at Heathrow to protest aviation expansion and highlight injustice of climate change impacts. ecology.iww.org editor's note: IWW members particopated in organizing this action.

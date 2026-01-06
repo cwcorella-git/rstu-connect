@@ -1,3 +1,8 @@
+---
+title: "**Illinois**"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 # **Illinois**
@@ -58,7 +63,7 @@ Illinois has a highly diverse [economy,](https://en.wikipedia.org/wiki/Economy_o
 
 ## **Area**
 
-**• Total** 57,914 sq mi (149,997 km<sup>2</sup> ) **• Land** 55,587 sq mi (143,969 km<sup>2</sup> ) **• Water** 2,309 sq mi (5,981 km<sup>2</sup> ) 3.99%
+**• Total** 57,914 sq mi (149,997 km2 ) **• Land** 55,587 sq mi (143,969 km2 ) **• Water** 2,309 sq mi (5,981 km2 ) 3.99%
 
 **[Judiciary](https://en.wikipedia.org/wiki/Judiciary)** [Supreme](https://en.wikipedia.org/wiki/Supreme_Court_of_Illinois) Court of
 
@@ -70,7 +75,7 @@ Illinois has a highly diverse [economy,](https://en.wikipedia.org/wiki/Economy_o
 
 # **Etymology**
 
-"Illinois" is the modern spelling for the early <u>French</u> <u>Catholic</u> <u>missionaries</u> and explorers' name for the <u>Illinois</u> <u>Native Americans</u>, a name that was spelled in many different ways in the early records. [12]
+"Illinois" is the modern spelling for the early French Catholic missionaries and explorers' name for the Illinois Native Americans, a name that was spelled in many different ways in the early records. [12]
 
 American scholars previously thought the name *Illinois* meant 'man' or 'men' in the Miami-Illinois language, with the original *iliniwek* transformed via French into Illinois. [13][14] This etymology is not supported by the Illinois language, as the word for "man" is *ireniwa*, and plural of "man" is *ireniwaki*. The name *Illiniwek* has also been said to mean 'tribe of superior men', [16] which is a false etymology. The name *Illinois* derives from the Miami-Illinois verb *irenwe·wa* 'he speaks the regular way'. This was taken into the Ojibwe language, perhaps in the Ottawa dialect, and modified into *ilinwe·* (pluralized as *ilinwe·k*). The French borrowed these forms, spelling the /we/ ending as *ois*, a transliteration of that sound in the French of that time. The current spelling form, *Illinois*, began to appear in the early 1670s, when French colonists had settled in the western area. The Illinois's name for themselves, as attested in all three of the French missionary-period dictionaries of Illinois, was *Inoka*, of unknown meaning and unrelated to the other terms. [17][18]
 
@@ -78,34 +83,34 @@ American scholars previously thought the name *Illinois* meant 'man' or 'men' in
 
 #### Pre-European
 
-American Indians of successive cultures lived along the waterways of the Illinois area for thousands of years before the arrival of Europeans. The <u>Koster Site</u> has been excavated and demonstrates 7,000 years of continuous habitation. <u>Cahokia</u>, the largest regional chiefdom and Urban Center of the Pre-Columbian Mississippian culture, was
+American Indians of successive cultures lived along the waterways of the Illinois area for thousands of years before the arrival of Europeans. The Koster Site has been excavated and demonstrates 7,000 years of continuous habitation. Cahokia, the largest regional chiefdom and Urban Center of the Pre-Columbian Mississippian culture, was
 
 ## ![](_page_1_Picture_6.jpeg)
 
 Mississippian copper plate found at the Saddle Site in Union County, Illinois
 
-Collinsville, located near present-day Illinois. They built an urban complex of more than 100 platform and burial mounds, a 50acre (20 ha) plaza larger than 35 football fields, [19] and a woodhenge of sacred cedar, all in a planned design expressing the culture's cosmology. Monks Mound, the center of the site, is the largest Pre-Columbian structure north of the Valley of Mexico. It is 100 ft (30 m) high, 951 ft (290 m) long, 836 ft (255 m) wide, and covers 13.8 acres (5.6 ha).[20] It contains about 814,000 cu yd $(622,000 \text{ m}^3)$ of earth. [21] It was topped by a structure thought to have measured about 105 ft (32 m) in length and 48 ft (15 m) in width, covered an area 5,000 sq ft (460 m<sup>2</sup>), and been as much as 50 ft (15 m) high, making its peak 150 ft (46 m) above the level of the plaza. The finely crafted ornaments and tools recovered by archaeologists at <u>Cahokia</u> include elaborate ceramics, finely sculptured stonework, carefully embossed and engraved copper and <u>mica</u> sheets, and one funeral blanket for an important chief fashioned from 20,000 shell beads. These artifacts indicate that Cahokia was truly an urban center, with clustered housing, markets, and specialists in toolmaking, hide dressing, potting, jewelry making, shell engraving, weaving and salt making. [22]
+Collinsville, located near present-day Illinois. They built an urban complex of more than 100 platform and burial mounds, a 50acre (20 ha) plaza larger than 35 football fields, [19] and a woodhenge of sacred cedar, all in a planned design expressing the culture's cosmology. Monks Mound, the center of the site, is the largest Pre-Columbian structure north of the Valley of Mexico. It is 100 ft (30 m) high, 951 ft (290 m) long, 836 ft (255 m) wide, and covers 13.8 acres (5.6 ha).[20] It contains about 814,000 cu yd $(622,000 \text{ m}^3)$ of earth. [21] It was topped by a structure thought to have measured about 105 ft (32 m) in length and 48 ft (15 m) in width, covered an area 5,000 sq ft (460 m2), and been as much as 50 ft (15 m) high, making its peak 150 ft (46 m) above the level of the plaza. The finely crafted ornaments and tools recovered by archaeologists at Cahokia include elaborate ceramics, finely sculptured stonework, carefully embossed and engraved copper and mica sheets, and one funeral blanket for an important chief fashioned from 20,000 shell beads. These artifacts indicate that Cahokia was truly an urban center, with clustered housing, markets, and specialists in toolmaking, hide dressing, potting, jewelry making, shell engraving, weaving and salt making. [22]
 
-The civilization vanished in the 15th century for unknown reasons, but historians and archeologists have speculated that the people depleted the area of resources. Many indigenous tribes engaged in constant warfare. According to Suzanne Austin Alchon, "At one site in the central <u>Illinois River</u> valley, one third of all adults died as a result of violent injuries." The next major power in the region was the <u>Illinois Confederation</u> or Illini, a political alliance. Around the time of European contact in 1673, the Illinois confederation had an estimated population of over 10,000 people.
+The civilization vanished in the 15th century for unknown reasons, but historians and archeologists have speculated that the people depleted the area of resources. Many indigenous tribes engaged in constant warfare. According to Suzanne Austin Alchon, "At one site in the central Illinois River valley, one third of all adults died as a result of violent injuries." The next major power in the region was the Illinois Confederation or Illini, a political alliance. Around the time of European contact in 1673, the Illinois confederation had an estimated population of over 10,000 people.
 
 | Elevation | 590 ft (180 m) |
 |---------------------------------------------------------|-----------------------------------|
-| Highest elevation (Charles Mound <sup>[4][5][a]</sup> ) | 1,235 ft (376.4 m) |
+| Highest elevation (Charles Mound [4][5][a] ) | 1,235 ft (376.4 m) |
 | Lowest elevation | 279 ft (85 m) |
 | (Confluence of | |
-| Mississippi River and Ohio River <sup>[5][a]</sup> ) | |
+| Mississippi River and Ohio River [5][a] ) | |
 | Onio River | |
 | Population (2024) | |
-| • Total | ▲ 12,710,158 <sup>[1]</sup> |
+| • Total | ▲ 12,710,158 [1] |
 | • Rank | 6th |
-| Density | 232/sq mi (89.4/km <sup>2</sup> ) |
+| Density | 232/sq mi (89.4/km 2 ) |
 | • Rank | 12th |
-| • Median household | ▲ \$80,300 (2023) <sup>[2]</sup> |
+| • Median household | ▲ \$80,300 (2023) [2] |
 | income | , , |
-| • Income rank | <u>17th</u> |
+| • Income rank | 17th |
 | Demonyms | Illinoisan |
 | Language | |
-| Official language | English <sup>[3]</sup> |
+| Official language | English [3] |
 | • Spoken language | English (80.8%) |
 | | Spanish (14.9%) |
 | | Other (5.1%) |
@@ -137,7 +142,7 @@ A few British soldiers were posted in Illinois, but few British or American sett
 
 The [Illinois-Wabash Company](https://en.wikipedia.org/wiki/Illinois-Wabash_Company) was an early claimant to much of Illinois. The [Illinois Territory](https://en.wikipedia.org/wiki/Illinois_Territory) was created on February 3, 1809, with its capital at [Kaskaskia](https://en.wikipedia.org/wiki/Kaskaskia,_Illinois), an early French settlement.
 
-During the discussions leading up to Illinois's [admission to the Union,](https://en.wikipedia.org/wiki/Admission_to_the_Union) the proposed northern boundary of the state was moved twice.[\[30\]](#page-30-17) The original provisions of the [Northwest Ordinance](https://en.wikipedia.org/wiki/Northwest_Ordinance) had specified a boundary that would have been tangent to the southern tip of Lake Michigan. Such a boundary would have left Illinois with no shoreline on Lake Michigan at all. However, as Indiana had successfully been granted a 10 mi (16 km) northern extension of its boundary to provide it with a usable lakefront, the original bill for Illinois statehood, submitted to Congress on January 23, 1818, stipulated a northern border at the same latitude as Indiana's, which is defined as 10 miles north of the southernmost extremity of Lake Michigan. However, the Illinois delegate, [Nathaniel Pope,](https://en.wikipedia.org/wiki/Nathaniel_Pope) wanted more, and lobbied to have the boundary moved further north. The final bill passed by Congress included an amendment to shift the border to 42° 30' north, which is approximately 51 mi (82 km) north of the Indiana northern border. This shift added 8,500 sq mi (22,000 km<sup>2</sup> ) to the state, including the [lead mining](https://en.wikipedia.org/wiki/Lead_mining) region near [Galena.](https://en.wikipedia.org/wiki/Galena,_Illinois) More importantly, it added nearly 50 miles of Lake Michigan shoreline and the Chicago River. Pope and others envisioned a canal that would connect the Chicago and Illinois rivers and thus connect the Great Lakes to the Mississippi.
+During the discussions leading up to Illinois's [admission to the Union,](https://en.wikipedia.org/wiki/Admission_to_the_Union) the proposed northern boundary of the state was moved twice.[\[30\]](#page-30-17) The original provisions of the [Northwest Ordinance](https://en.wikipedia.org/wiki/Northwest_Ordinance) had specified a boundary that would have been tangent to the southern tip of Lake Michigan. Such a boundary would have left Illinois with no shoreline on Lake Michigan at all. However, as Indiana had successfully been granted a 10 mi (16 km) northern extension of its boundary to provide it with a usable lakefront, the original bill for Illinois statehood, submitted to Congress on January 23, 1818, stipulated a northern border at the same latitude as Indiana's, which is defined as 10 miles north of the southernmost extremity of Lake Michigan. However, the Illinois delegate, [Nathaniel Pope,](https://en.wikipedia.org/wiki/Nathaniel_Pope) wanted more, and lobbied to have the boundary moved further north. The final bill passed by Congress included an amendment to shift the border to 42° 30' north, which is approximately 51 mi (82 km) north of the Indiana northern border. This shift added 8,500 sq mi (22,000 km2 ) to the state, including the [lead mining](https://en.wikipedia.org/wiki/Lead_mining) region near [Galena.](https://en.wikipedia.org/wiki/Galena,_Illinois) More importantly, it added nearly 50 miles of Lake Michigan shoreline and the Chicago River. Pope and others envisioned a canal that would connect the Chicago and Illinois rivers and thus connect the Great Lakes to the Mississippi.
 
 #### **The State of Illinois prior to the Civil War**
 
@@ -191,7 +196,7 @@ During the [American Civil War,](https://en.wikipedia.org/wiki/American_Civil_Wa
 
 [Union](https://en.wikipedia.org/wiki/Union_(American_Civil_War)) troops embarking at [Cairo](https://en.wikipedia.org/wiki/Cairo,_Illinois) on January 10, 1862
 
-During the Civil War, and more so afterwards, Chicago's population skyrocketed, which increased its prominence. The [Pullman Strike](https://en.wikipedia.org/wiki/Pullman_Strike) and [Haymarket Riot,](https://en.wikipedia.org/wiki/Haymarket_affair) in particular, greatly influenced the development of the American [labor movement](https://en.wikipedia.org/wiki/Labour_movement). From Sunday, October 8, 1871, until Tuesday, October 10, 1871, the [Great Chicago Fire](https://en.wikipedia.org/wiki/Great_Chicago_Fire) burned in downtown Chicago, killing 300 people and destroying four sq mi (10 km<sup>2</sup> ).[\[45\]](#page-31-12)
+During the Civil War, and more so afterwards, Chicago's population skyrocketed, which increased its prominence. The [Pullman Strike](https://en.wikipedia.org/wiki/Pullman_Strike) and [Haymarket Riot,](https://en.wikipedia.org/wiki/Haymarket_affair) in particular, greatly influenced the development of the American [labor movement](https://en.wikipedia.org/wiki/Labour_movement). From Sunday, October 8, 1871, until Tuesday, October 10, 1871, the [Great Chicago Fire](https://en.wikipedia.org/wiki/Great_Chicago_Fire) burned in downtown Chicago, killing 300 people and destroying four sq mi (10 km2 ).[\[45\]](#page-31-12)
 
 # **20th century**
 
@@ -265,15 +270,15 @@ At 279 feet (85 m) above sea level, [\[67\]](#page-32-10) the lowest elevation p
 
 originally part of the [Military Tract of 1812](https://en.wikipedia.org/wiki/Military_Tract_of_1812) and forms the conspicuous western bulge of the state. Agriculture, particularly [corn](https://en.wikipedia.org/wiki/Maize) and [soybeans,](https://en.wikipedia.org/wiki/Soybean) as well as educational institutions and manufacturing centers, figure prominently in Central Illinois. Cities include [Peoria](https://en.wikipedia.org/wiki/Peoria,_Illinois); [Springfield](https://en.wikipedia.org/wiki/Springfield,_Illinois), the state capital; [Quincy;](https://en.wikipedia.org/wiki/Quincy,_Illinois) [Decatur](https://en.wikipedia.org/wiki/Decatur,_Illinois); [Bloomington-Normal;](https://en.wikipedia.org/wiki/Bloomington-Normal,_Illinois) and [Champaign-](https://en.wikipedia.org/wiki/Champaign,_Illinois)[Urbana](https://en.wikipedia.org/wiki/Urbana,_Illinois). [\[26\]](#page-30-14)
 
-The third division is [Southern Illinois,](https://en.wikipedia.org/wiki/Southern_Illinois) comprising the area south of [U. S. Route 50](https://en.wikipedia.org/wiki/U. S._Route_50_in_Illinois), including [Little Egypt](https://en.wikipedia.org/wiki/Southern_Illinois), near the juncture of the [Mississippi River](https://en.wikipedia.org/wiki/Mississippi_River) and [Ohio River.](https://en.wikipedia.org/wiki/Ohio_River) Southern Illinois is the site of the ancient city of [Cahokia,](https://en.wikipedia.org/wiki/Cahokia) as well as the site of the first state capital at [Kaskaskia,](https://en.wikipedia.org/wiki/Kaskaskia,_Illinois) which today is separated from the rest of the state by the Mississippi River. [\[26\]](#page-30-14)[\[68\]](#page-32-13) This region has a somewhat warmer winter climate, different variety of crops (including some cotton farming in the past), more rugged topography (due to the area remaining unglaciated during the [Illinoian Stage,](https://en.wikipedia.org/wiki/Illinoian_(stage)) unlike most of the rest of the state), as well as small-scale oil deposits and [coal mining](https://en.wikipedia.org/wiki/Coal_mining). The Illinois suburbs of [St. Louis](https://en.wikipedia.org/wiki/St._Louis,_Missouri), such as [East St. Louis,](https://en.wikipedia.org/wiki/East_St._Louis) are located in this region, and collectively, they are known as the [Metro-East](https://en.wikipedia.org/wiki/Metro-East). The other somewhat significant concentration of population in Southern Illinois is the Carbondale-Marion-Herrin, Illinois Combined Statistical Area centered on <u>Carbondale</u> and <u>Marion</u>, a two-county area that is home to 123,272 residents. [26] A portion of southeastern Illinois is part of the extended <u>Evansville</u>, <u>Indiana</u>, Metro Area, locally referred to as the Tri-State with Indiana and Kentucky. Seven Illinois counties are in the area.
+The third division is [Southern Illinois,](https://en.wikipedia.org/wiki/Southern_Illinois) comprising the area south of [U. S. Route 50](https://en.wikipedia.org/wiki/U. S._Route_50_in_Illinois), including [Little Egypt](https://en.wikipedia.org/wiki/Southern_Illinois), near the juncture of the [Mississippi River](https://en.wikipedia.org/wiki/Mississippi_River) and [Ohio River.](https://en.wikipedia.org/wiki/Ohio_River) Southern Illinois is the site of the ancient city of [Cahokia,](https://en.wikipedia.org/wiki/Cahokia) as well as the site of the first state capital at [Kaskaskia,](https://en.wikipedia.org/wiki/Kaskaskia,_Illinois) which today is separated from the rest of the state by the Mississippi River. [\[26\]](#page-30-14)[\[68\]](#page-32-13) This region has a somewhat warmer winter climate, different variety of crops (including some cotton farming in the past), more rugged topography (due to the area remaining unglaciated during the [Illinoian Stage,](https://en.wikipedia.org/wiki/Illinoian_(stage)) unlike most of the rest of the state), as well as small-scale oil deposits and [coal mining](https://en.wikipedia.org/wiki/Coal_mining). The Illinois suburbs of [St. Louis](https://en.wikipedia.org/wiki/St._Louis,_Missouri), such as [East St. Louis,](https://en.wikipedia.org/wiki/East_St._Louis) are located in this region, and collectively, they are known as the [Metro-East](https://en.wikipedia.org/wiki/Metro-East). The other somewhat significant concentration of population in Southern Illinois is the Carbondale-Marion-Herrin, Illinois Combined Statistical Area centered on Carbondale and Marion, a two-county area that is home to 123,272 residents. [26] A portion of southeastern Illinois is part of the extended Evansville, Indiana, Metro Area, locally referred to as the Tri-State with Indiana and Kentucky. Seven Illinois counties are in the area.
 
-In addition to these three, largely latitudinally defined divisions, all of the region outside the Chicago metropolitan area is often called "downstate" Illinois. This term is flexible, but is generally meant to mean everything outside the influence of the Chicago area. Thus, some cities in *Northern* Illinois, such as <u>De Kalb</u>, which is west of Chicago, and <u>Rockford</u>—which is actually north of Chicago—are sometimes incorrectly considered to be 'downstate'.
+In addition to these three, largely latitudinally defined divisions, all of the region outside the Chicago metropolitan area is often called "downstate" Illinois. This term is flexible, but is generally meant to mean everything outside the influence of the Chicago area. Thus, some cities in *Northern* Illinois, such as De Kalb, which is west of Chicago, and Rockford—which is actually north of Chicago—are sometimes incorrectly considered to be 'downstate'.
 
 #### Climate
 
 Illinois has a climate that varies widely throughout the year. Because of its nearly 400-mile distance between its northernmost and southernmost extremes, as well as its mid-continental situation, most of Illinois has a humid continental climate (Köppen climate classification Dfa), with hot, humid summers and cold winters. The southern part of the state, from about Carbondale southward, has a humid subtropical climate (Koppen Cfa), with more moderate winters. Average yearly precipitation for Illinois varies from just over 48 in (1,219 mm) at the southern tip to around 35 in (889 mm) in the northern portion of the state. Normal annual snowfall exceeds 38 in (965 mm) in the Chicago area, while the southern portion of the state normally receives less than 14 in (356 mm). [69] The all-time high temperature was 117 °F (47 °C), recorded on July 14, 1954, at East St. Louis, and the all-time low temperature was -38 °F (-39 °C), recorded on January 31, 2019, during the January 2019 North American cold wave at a weather station near Mount Carroll, [70][71] and confirmed on March 5, 2019. [72] This followed the previous record of -36 °F (-38 °C) recorded on January 5, 1999, near Congerville. Prior to the Mount Carroll record, a temperature of -37 °F (-38 °C) was recorded on January 15, 2009, at Rochelle, but at a weather station not subjected to the same quality control as official records. [73][74]
 
-Illinois averages approximately 51 days of <u>thunderstorm</u> activity a year, which ranks somewhat above average in the number of thunderstorm days for the United States. Illinois is vulnerable to tornadoes, with an average of 54 occurring annually, which puts much of the state at around five tornadoes per 10,000 sq mi (30,000 km²) annually. Some of <u>Tornado Alley</u>'s deadliest tornadoes on record have occurred in the state. The <u>Tri-State Tornado</u> of 1925 killed 695 people in three states; 613 of the victims died in Illinois.
+Illinois averages approximately 51 days of thunderstorm activity a year, which ranks somewhat above average in the number of thunderstorm days for the United States. Illinois is vulnerable to tornadoes, with an average of 54 occurring annually, which puts much of the state at around five tornadoes per 10,000 sq mi (30,000 km²) annually. Some of Tornado Alley's deadliest tornadoes on record have occurred in the state. The Tri-State Tornado of 1925 killed 695 people in three states; 613 of the victims died in Illinois.
 
 ## ![](_page_6_Figure_5.jpeg)
 
@@ -282,21 +287,21 @@ Illinois averages approximately 51 days of <u>thunderstorm</u> activity a year, 
 | | Monthly Normal High and Low Temperatures For Various Illinois Cities (°F) | | | | | | | | | | | |
 |------------------------------|---------------------------------------------------------------------------|----------|-------|-------|-------|-------|-------|--------|-----------|---------|----------|----------|
 | City | January | February | March | April | May | June | July | August | September | October | November | December |
-| <u>Cairo<sup>[77]</sup></u> | 43/25 | 48/29 | 59/37 | 70/46 | 78/57 | 86/67 | 90/71 | 88/69 | 81/61 | 71/49 | 57/39 | 46/30 |
-| Chicago <sup>[78]</sup> | 31/16 | 36/21 | 47/31 | 59/42 | 70/52 | 81/61 | 85/65 | 83/65 | 75/57 | 64/45 | 48/34 | 36/22 |
-| Edwardsville <sup>[79]</sup> | 36/19 | 42/24 | 52/34 | 64/45 | 75/55 | 84/64 | 89/69 | 86/66 | 79/58 | 68/46 | 53/35 | 41/25 |
-| Moline <sup>[80]</sup> | 30/12 | 36/18 | 48/29 | 62/39 | 73/50 | 83/60 | 86/64 | 84/62 | 76/53 | 64/42 | 48/30 | 34/18 |
-| Peoria <sup>[81]</sup> | 31/14 | 37/20 | 49/30 | 62/40 | 73/51 | 82/60 | 86/65 | 84/63 | 77/54 | 64/42 | 49/31 | 36/20 |
-| Rockford <sup>[82]</sup> | 27/11 | 33/16 | 46/27 | 59/37 | 71/48 | 80/58 | 83/63 | 81/61 | 74/52 | 62/40 | 46/29 | 32/17 |
-| Springfield <sup>[83]</sup> | 33/17 | 39/22 | 51/32 | 63/42 | 74/53 | 83/62 | 86/66 | 84/64 | 78/55 | 67/44 | 51/34 | 38/23 |
+| Cairo[77] | 43/25 | 48/29 | 59/37 | 70/46 | 78/57 | 86/67 | 90/71 | 88/69 | 81/61 | 71/49 | 57/39 | 46/30 |
+| Chicago [78] | 31/16 | 36/21 | 47/31 | 59/42 | 70/52 | 81/61 | 85/65 | 83/65 | 75/57 | 64/45 | 48/34 | 36/22 |
+| Edwardsville [79] | 36/19 | 42/24 | 52/34 | 64/45 | 75/55 | 84/64 | 89/69 | 86/66 | 79/58 | 68/46 | 53/35 | 41/25 |
+| Moline [80] | 30/12 | 36/18 | 48/29 | 62/39 | 73/50 | 83/60 | 86/64 | 84/62 | 76/53 | 64/42 | 48/30 | 34/18 |
+| Peoria [81] | 31/14 | 37/20 | 49/30 | 62/40 | 73/51 | 82/60 | 86/65 | 84/63 | 77/54 | 64/42 | 49/31 | 36/20 |
+| Rockford [82] | 27/11 | 33/16 | 46/27 | 59/37 | 71/48 | 80/58 | 83/63 | 81/61 | 74/52 | 62/40 | 46/29 | 32/17 |
+| Springfield [83] | 33/17 | 39/22 | 51/32 | 63/42 | 74/53 | 83/62 | 86/66 | 84/64 | 78/55 | 67/44 | 51/34 | 38/23 |
 
 #### **Urban areas**
 
 Chicago is the largest city in the state and the third-most populous city in the United States, with a population of 2,746,388 in 2020. Furthermore, over 7 million residents of the Chicago metropolitan area reside in Illinois. The U. S. Census Bureau currently lists seven other cities with populations of over 100,000 within the state. This includes the Chicago satellite towns of Aurora, Joliet, Naperville, and Elgin, as well as the cities of Rockford, the most populous city in the state outside of the Chicago area; Springfield, the state's capital; and Peoria.
 
-The most populated city in the state south of Springfield is <u>Belleville</u>, with 42,000 residents. It is located in the <u>Metro East</u> region of <u>Greater St. Louis</u>, the second-most populous urban area in Illinois with over 700,000 residents. Other major urban areas include the <u>Peoria metropolitan area</u>, <u>Rockford metropolitan area</u>, <u>Champaign–Urbana metropolitan area</u> (home to the <u>University of Illinois</u>), <u>Springfield metropolitan area</u>, the Illinois portion of the Quad Cities area, and the Bloomington–Normal metropolitan area.
+The most populated city in the state south of Springfield is Belleville, with 42,000 residents. It is located in the Metro East region of Greater St. Louis, the second-most populous urban area in Illinois with over 700,000 residents. Other major urban areas include the Peoria metropolitan area, Rockford metropolitan area, Champaign–Urbana metropolitan area (home to the University of Illinois), Springfield metropolitan area, the Illinois portion of the Quad Cities area, and the Bloomington–Normal metropolitan area.
 
-| | Largest cities or towns in Illinois 2020 U. S. census <sup>[84]</sup> | | | | | | | |
+| | Largest cities or towns in Illinois 2020 U. S. census [84] | | | | | | | |
 |---------------------------------------------|----------------------------------------------------------------------|--|--|--|--|--|--|--|
 | Rank Name County Pop. Rank Name County Pop. | | | | | | | | |
 
@@ -322,7 +327,8 @@ Illinois is the most racially and ethnically diverse state in the Midwest. By se
 
 | Historical population | | | | | | | |
 |-----------------------|--------------------------------|--------|--|--|--|--|--|
-| Census | Pop.<br>%± | | | | | | |
+| Census | Pop.
+%± | | | | | | |
 | 1800 | 2,458 | — | | | | | |
 | 1810 | 12,282 | 399.7% | | | | | |
 | 1820 | 55,211 | 349.5% | | | | | |
@@ -346,8 +352,10 @@ Illinois is the most racially and ethnically diverse state in the Midwest. By se
 | 2000 | 12,419,293 | 8.6% | | | | | |
 | 2010 | 12,830,632 | 3.3% | | | | | |
 | 2020 | 12,812,508 | −0.1% | | | | | |
-| | [90]<br>2024 (est.) 12,710,158 | −0.8% | | | | | |
-## | | [91]<br>Source: 1910–2020 | | | | | | |
+| | [90]
+2024 (est.) 12,710,158 | −0.8% | | | | | |
+## | | [91]
+Source: 1910–2020 | | | | | | |
 
 ## ![](_page_7_Picture_6.jpeg)
 
@@ -361,7 +369,7 @@ Illinois is the most racially and ethnically diverse state in the Midwest. By se
 
 Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.
 
-| Race / Ethnicity (NH = Non-Hispanic) | Pop 2000 <sup>[92]</sup> | Pop 2010 <sup>[93]</sup> | Pop 2020 <sup>[94]</sup> | % 2000 | % 2010 | % 2020 |
+| Race / Ethnicity (NH = Non-Hispanic) | Pop 2000 [92] | Pop 2010 [93] | Pop 2020 [94] | % 2000 | % 2010 | % 2020 |
 |------------------------------------------------|--------------------------|--------------------------|--------------------------|---------|---------|---------|
 | White alone (NH) | 8,424,140 | 8,167,753 | 7,472,751 | 67.83% | 63.66% | 58.32% |
 | Black or African American alone (NH) | 1,856,152 | 1,832,924 | 1,775,612 | 14.95% | 14.29% | 13.86% |
@@ -375,10 +383,10 @@ Note: the US Census treats Hispanic/Latino as an ethnic category. This table exc
 
 #### Ethnic composition as of the 2020 census
 
-| Race and ethnicity <sup>[95]</sup> | | Alone | | Total |
+| Race and ethnicity [95] | | Alone | | Total |
 |------------------------------------|-------|-------|-------|-------|
 | White (non-Hispanic) | 58.3% | | 61.3% | |
-| Hispanic or Latino <sup>[C]</sup> | _ | | 18.2% | |
+| Hispanic or Latino [C] | _ | | 18.2% | |
 | African American (non-Hispanic) | 13.9% | | 15.0% | |
 | Asian | 5.8% | | 6.7% | |
 | Native American | 0.1% | | 1.1% | 1 |
@@ -399,7 +407,7 @@ Map of counties in Illinois by racial plurality, per the 2020 U. S. census
 
 #### Illinois Racial Breakdown of Population [96]
 
-| Racial composition | 1940 | <b>1950</b> <sup>[96]</sup> | <b>1960</b> <sup>[96]</sup> | <b>1970</b> <sup>[96][97]</sup> | <b>1980</b> <sup>[96][98]</sup> | <b>1990</b> <sup>[46][99]</sup> | <b>2000</b> <sup>[100]</sup> | <b>2010</b> <sup>[101]</sup> | <b>2020</b> <sup>[102]</sup> |
+| Racial composition | 1940 | 1950 [96] | 1960 [96] | 1970 [96][97] | 1980 [96][98] | 1990 [46][99] | 2000 [100] | 2010 [101] | 2020 [102] |
 |--------------------------------------|---------------------|-----------------------------|-----------------------------|---------------------------------|---------------------------------|---------------------------------|------------------------------|------------------------------|------------------------------|
 | White | 95.0% | 92.4% | 89.4% | 86.4% | 80.8% | 78.3% | 73.5% | 71.5% | 61.4% |
 | Black | 4.9% | 7.4% | 10.3% | 12.8% | 14.7% | 14.8% | 15.1% | 14.5% | 14.1% |
@@ -407,12 +415,13 @@ Map of counties in Illinois by racial plurality, per the 2020 U. S. census
 | Native American | 0% | 0% | 0% | 0.1% | 0.1% | 0.2% | 0.2% | 0.3% | 0.8% |
 | Pacific Islander | _ | _ | _ | _ | _ | _ | 0.0% | 0.0% | 0.0% |
 | 'Some Other race' | _ | _ | _ | 0.2% | 3% | 4.2% | 5.8% | 6.7% | 8.9% |
-| Two or more races | <u> </u> | _ | _ | _ | _ | _ | 1.9% | 2.3% | 8.9% |
-| <u>Hispanic or Latino</u> (Any race) | 0.3% <sup>[d]</sup> | _ | _ | 3.3% | 5.6% | 7.9% | 12.3% | 15.8% | 18.2% |
+| Two or more races |   | _ | _ | _ | _ | _ | 1.9% | 2.3% | 8.9% |
+| Hispanic or Latino (Any race) | 0.3% [d] | _ | _ | 3.3% | 5.6% | 7.9% | 12.3% | 15.8% | 18.2% |
 | Non-Hispanic white | 94.7% | _ | _ | 83.5% | 78% | 74.8% | 67.8% | 63.7% | 58.3% |
-| Non-Hispanic black | <b> </b> | _ | _ | 12.6% | 14.6% | 14.7% | 15.0% | 14.3% | 13.9% |
+| Non-Hispanic black |   | _ | _ | 12.6% | 14.6% | 14.7% | 15.0% | 14.3% | 13.9% |
 | Non-Hispanic Asian | Ī- | _ | _ | 0.4% | 1.4% | 2.4% | 3.4% | 4.5% | 5.8% |
-| Non-Hispanic Native<br>American | _ | _ | _ | 0.1% | 0.1% | 0.2% | 0.2% | 0.2% | 0.1% |
+| Non-Hispanic Native
+American | _ | _ | _ | 0.1% | 0.1% | 0.2% | 0.2% | 0.2% | 0.1% |
 | Non-Hispanic 'Some other race' | _ | _ | _ | 0.2% | 0.4% | 0.1% | 0.1% | 0.1% | 0.4% |
 | Non-Hispanic two or more races | _ | _ | _ | _ | _ | _ | 1.2% | 1.4% | 3.2% |
 
@@ -444,7 +453,7 @@ Outside of Chicagoland, urban areas in Southern and Central Illinois, including 
 
 The per-capita income of Black residents, at \$30,295, is the second lowest of all major ethnic or racial groups in the state, after Hispanics of any race. However, Black Illinoisans have the highest overall poverty rate of all groups in the state, at 23%. [126] The median age of Black residents in Illinois is 36.8 years.
 
-Illinois has a long history of milestones regarding <u>African American</u> involvement in politics. It was the first state to elect a Black person to the U. S. <u>House of Representatives</u> in the post-reconstruction era, with the election of <u>Oscar De Priest</u> in 1928. It was also the first state to elect a Black woman to the <u>US Senate</u>, with the election of <u>Carol Mosley Brown</u> in 1992. Illinois senator <u>Barack Obama</u> would become the first Black president of the United States following his victory in the 2008 presidential election.
+Illinois has a long history of milestones regarding African American involvement in politics. It was the first state to elect a Black person to the U. S. House of Representatives in the post-reconstruction era, with the election of Oscar De Priest in 1928. It was also the first state to elect a Black woman to the US Senate, with the election of Carol Mosley Brown in 1992. Illinois senator Barack Obama would become the first Black president of the United States following his victory in the 2008 presidential election.
 
 #### **Asian-Americans**
 
@@ -460,7 +469,7 @@ In 2023, 271,494 Illinoisans identified as Native American alone or in combinati
 
 #### **Pacific Islanders**
 
-The state has a very small number of <u>Pacific Islanders</u>, numbering 17,982 and making only 0.1% of the population in 2023. The majority of Pacific Islanders in the state identify as multiracial, with only 5,852 identifying as Pacific Islander alone. The largest Pacific Islander groups in the state are Native Hawaiians (6,362), Samoans (2,211), and Chamorros (1,519).
+The state has a very small number of Pacific Islanders, numbering 17,982 and making only 0.1% of the population in 2023. The majority of Pacific Islanders in the state identify as multiracial, with only 5,852 identifying as Pacific Islander alone. The largest Pacific Islander groups in the state are Native Hawaiians (6,362), Samoans (2,211), and Chamorros (1,519).
 
 #### **European-Americans**
 
@@ -468,9 +477,9 @@ In 2023, 7,260,529 Illinoisans identified as non-Hispanic white alone, making up
 
 In the Chicago metro area, the white population is located mostly in suburban areas, with non-Hispanic white residents making up a majority of the population (between $53\%^{[146]}$ and $75\%^{[147]}$ ) in every metropolitan county other than Cook County, while making up only 31.7% of the population in the city of Chicago itself. Within Chicago, there is significant racial segregation, with the white population concentrated primarily on the North Side of the city, while many predominantly African-American or Hispanic neighborhoods on the West Side and South Side of the city have almost no non-Hispanic white residents. [149]
 
-The largest European ancestry reported in Illinois is <u>German.</u> 1,983,050 Illinoisans, or 15.8% of the total population, identify with German ancestry, making it the single largest ancestry group in the state. German ancestry predominates among the white population in every county in <u>northern Illinois</u>, as well as most counties in the southwestern part of the state, while <u>English-Americans</u>, making up 6.8% of Illinois' population, predominate in most of the southeastern counties. The state's white population also includes a large number of <u>Irish</u> (10.5%), <u>Polish</u> (6.1%), and <u>Italian-Americans</u> (5.5%), with these groups concentrated mainly in Chicago and the surrounding suburbs. Illinois' Polish-American population of 761,948 is the highest out of any state. The state is also home to a significant population of other <u>Eastern European</u> ethnicities, also largely concentrated around the Chicago area, including 86,814 <u>Russians</u>, 83,679 <u>Czechs</u>, 71,279 <u>Ukrainians</u>, and 35,407 <u>Croatians</u>.
+The largest European ancestry reported in Illinois is German. 1,983,050 Illinoisans, or 15.8% of the total population, identify with German ancestry, making it the single largest ancestry group in the state. German ancestry predominates among the white population in every county in northern Illinois, as well as most counties in the southwestern part of the state, while English-Americans, making up 6.8% of Illinois' population, predominate in most of the southeastern counties. The state's white population also includes a large number of Irish (10.5%), Polish (6.1%), and Italian-Americans (5.5%), with these groups concentrated mainly in Chicago and the surrounding suburbs. Illinois' Polish-American population of 761,948 is the highest out of any state. The state is also home to a significant population of other Eastern European ethnicities, also largely concentrated around the Chicago area, including 86,814 Russians, 83,679 Czechs, 71,279 Ukrainians, and 35,407 Croatians.
 
-Most Illinoisans who report any European ancestry identify with multiple ancestries. Those of partial descent make up the majority of most European ancestry groups in Illinois, including 58% of Polish-Americans, 68% of English-Americans, 69% of German-Americans, and 75% of Irish-Americans in the state. Of all European ancestries numbering over 50,000 in Illinois, those identifying solely with that ancestry are only a majority among the state's 71,279 <u>Ukrainian-Americans</u>, with two thirds of this group identifying as Ukrainian alone. [154][121]
+Most Illinoisans who report any European ancestry identify with multiple ancestries. Those of partial descent make up the majority of most European ancestry groups in Illinois, including 58% of Polish-Americans, 68% of English-Americans, 69% of German-Americans, and 75% of Irish-Americans in the state. Of all European ancestries numbering over 50,000 in Illinois, those identifying solely with that ancestry are only a majority among the state's 71,279 Ukrainian-Americans, with two thirds of this group identifying as Ukrainian alone. [154][121]
 
 Along with white residents reporting multiple European ancestries, around 3% of the state's population identifies as non-Hispanic white in combination with another racial group. [95] Additionally, while those of Hispanic ethnicity are not distinguished between total and partial Hispanic origin, an estimated 1.7% of Illinois' population are Hispanics who report a non-Spanish European ancestry. [116]
 
@@ -478,7 +487,7 @@ Non-Hispanic whites have the second highest per-capita income of any racial grou
 
 #### **Arab Americans**
 
-The state is home to a significant Middle Eastern population, with 101,464 people (0.8% of the population) identifying as <u>Arab</u>. [e][121] 71,422, (0.6% of the population) identify as Arab alone. [154] The highest concentration of Arab-Americans in the state are found in the southern suburbs of Chicago, in the towns of <u>Brigeview</u>, [156] Oak Lawn, [157] Palos Hills, [158] and <u>Hickory Hills</u>, where they make up between 5–12% of the population.[\[159\]](#page-36-4)
+The state is home to a significant Middle Eastern population, with 101,464 people (0.8% of the population) identifying as Arab. [e][121] 71,422, (0.6% of the population) identify as Arab alone. [154] The highest concentration of Arab-Americans in the state are found in the southern suburbs of Chicago, in the towns of Brigeview, [156] Oak Lawn, [157] Palos Hills, [158] and Hickory Hills, where they make up between 5–12% of the population.[\[159\]](#page-36-4)
 
 Illinois has the largest [Palestinian](https://en.wikipedia.org/wiki/Palestinian_Americans) population in the United States. According to census estimates, 19,255 Illinoisans have Palestinian ancestry, while other estimates place the population of Palestinian descent in the Chicago area as high as 85,000.[\[160\]](#page-36-5)
 
@@ -492,23 +501,33 @@ The state's most populous ethnic group, non-Hispanic white, has declined from 83
 
 According to 2022 estimates from the American Community Survey, 16% of the population had [German](https://en.wikipedia.org/wiki/German_Americans) ancestry, 14% had [Mexican](https://en.wikipedia.org/wiki/Mexican_Americans) ancestry, 10.4% had [Irish](https://en.wikipedia.org/wiki/Irish_Americans) ancestry, 7.1% had [English](https://en.wikipedia.org/wiki/English_Americans) ancestry, 6.2% had [Polish](https://en.wikipedia.org/wiki/Polish_Americans) ancestry, 5.2% had [Italian](https://en.wikipedia.org/wiki/Italian_Americans) ancestry, 3.4% listed themselves as [American](https://en.wikipedia.org/wiki/American_ancestry), 2.3% had [Indian](https://en.wikipedia.org/wiki/Indian_Americans) ancestry, 1.7% had [Puerto Rican](https://en.wikipedia.org/wiki/Puerto_Ricans) ancestry, 1.7% had [Swedish](https://en.wikipedia.org/wiki/Swedish_Americans) ancestry, 1.4% had [Filipino](https://en.wikipedia.org/wiki/Filipino_Americans) ancestry, 1.4% had [French](https://en.wikipedia.org/wiki/French_Americans) ancestry, and 1.2% had [Chinese](https://en.wikipedia.org/wiki/Chinese_Americans) ancestry. The state also has a large population of [African-Americans](https://en.wikipedia.org/wiki/African_Americans), making up 15.3% of the population alone or in combination.[\[150\]](#page-35-27)[\[132\]](#page-35-9)[\[106\]](#page-34-12)[\[119\]](#page-34-25) This table displays all self-reported [ancestries](https://en.wikipedia.org/wiki/Ancestries_of_Americans) with over 50,000 members in Illinois, alone or in combination, according to estimates from the 2022 American Community Survey. Hispanic groups are not distinguished between total and partial ancestry:
 
-| Ancestry | Number in 2022<br>[154][133]<br>(Alone) | Number as of 2022 (Alone or in any<br>[166][150][131]<br>combination) | %<br>Total |
+| Ancestry | Number in 2022
+[154][133]
+(Alone) | Number as of 2022 (Alone or in any
+[166][150][131]
+combination) | %
+Total |
 |----------------------------------------------------------------------------------|-----------------------------------------|-----------------------------------------------------------------------|------------|
 | German | 649,997 | 2,014,297 | 16.0% |
-| Black or African American<br>(Including Afro-Caribbean & Sub-Saharan<br>African) | 1,689,724 | 1,931,027 | 15.3% |
+| Black or African American
+(Including Afro-Caribbean & Sub-Saharan
+African) | 1,689,724 | 1,931,027 | 15.3% |
 | Mexican | — | 1,759,842 | 14.0% |
 | Irish | 338,198 | 1,312,888 | 10.4% |
 | English | 278,564 | 891,189 | 7.1% |
 | Polish | 336,810 | 780,152 | 6.2% |
 | Italian | 205,189 | 657,830 | 5.2% |
-| American<br>(Mostly old-stock white Americans of British<br>descent) | 345,772 | 428,431 | 3.4% |
+| American
+(Mostly old-stock white Americans of British
+descent) | 345,772 | 428,431 | 3.4% |
 | Indian | 270,311 | 287,101 | 2.3% |
 | Puerto Rican | — | 214,835 | 1.7% |
 | Swedish | 48,814 | 210,128 | 1.7% |
 | Filipino | 131,433 | 175,619 | 1.4% |
 | French | 27,025 | 174,964 | 1.4% |
 | Chinese | 130,864 | 153,277 | 1.2% |
-| Broadly "European"<br>(No country specified) | 114,209 | 146,671 | 1.2% |
+| Broadly "European"
+(No country specified) | 114,209 | 146,671 | 1.2% |
 | Scottish | 33,638 | 136,636 | 1.1% |
 | Norwegian | 33,099 | 133,538 | 1.1% |
 | Dutch | 32,184 | 122,139 | 1.0% |
@@ -525,7 +544,8 @@ According to 2022 estimates from the American Community Survey, 16% of the popul
 
 At the 2022 estimates from the [U. S. Census Bureau,](https://en.wikipedia.org/wiki/United_States_Census_Bureau) there were 1,810,100 foreign-born inhabitants of the state or 14.4% of the population, with 37.8% from Mexico or Central America, 31% from Asia, 20.2% from Europe, 4.3% from South America, 4.2% from Africa, 1% from Canada, and 0.2% from Oceania.[\[167\]](#page-36-12)[\[168\]](#page-36-13) Of the foreign-born population, 53.5% were [naturalized U. S. citizens](https://en.wikipedia.org/wiki/United_States_nationality_law), and 46.5% were not U. S. citizens.[\[169\]](#page-36-14) The top countries of origin for immigrants in Illinois were [Mexico,](https://en.wikipedia.org/wiki/Mexico) [India](https://en.wikipedia.org/wiki/India), [Poland,](https://en.wikipedia.org/wiki/Poland) the [Philippines](https://en.wikipedia.org/wiki/Philippines) and [China](https://en.wikipedia.org/wiki/China) in 2018 and 2023.[\[170\]](#page-36-15)
 
-| Place of birth | [171][172]<br>Population (2022) | % of total |
+| Place of birth | [171][172]
+Population (2022) | % of total |
 |-----------------------------------|---------------------------------|------------|
 | United States | 10,660,218 | 84.7% |
 | Illinois | 8,379,091 | 66.6% |
@@ -608,7 +628,10 @@ At the 2022 estimates from the [U. S. Census Bureau,](https://en.wikipedia.org/w
 | China | 77,933 | 0.7% |
 | East Asia | 137,098 | 1.1% |
 | Europe, unspecified country | 1,353 | 0.0% |
-| Ireland<br>Other Northern European countries | 5,465<br>2,985 | 0.0%<br>0.0% |
+| Ireland
+Other Northern European countries | 5,465
+2,985 | 0.0%
+0.0% |
 | | | |
 | (Including overseas Crown Dependencies) | 19,123 | 0.2% |
 
@@ -636,11 +659,15 @@ As of 2023, the [per-capita income](https://en.wikipedia.org/wiki/Per_capita_inc
 
 | Race/Ethnicity | Per capita income (2023) | Poverty Rate (2023) |
 |------------------------------------|--------------------------|---------------------|
-| [137]<br>Asian | \$54,122 | 10.4% |
-| [113][138]<br>White (Non-Hispanic) | \$53,591 | 8.3% |
+| [137]
+Asian | \$54,122 | 10.4% |
+| [113][138]
+White (Non-Hispanic) | \$53,591 | 8.3% |
 | All residents | \$45,043 | 11.6% |
-| [178][126]<br>Black | \$30,295 | 23.0% |
-| [113][114]<br>Hispanic (Any Race) | \$28,541 | 14.1% |
+| [178][126]
+Black | \$30,295 | 23.0% |
+| [113][114]
+Hispanic (Any Race) | \$28,541 | 14.1% |
 
 There are 5,071,288 households in Illinois, with an average size of 2.4 people per household. 48% of the population over the age of 15 is married. As of 2023, Illinois' [total fertility rate](https://en.wikipedia.org/wiki/Total_fertility_rate) is the 11th lowest of all US states, with a lifetime average of 1.50 births per woman, in comparison to an average of 1.64 on the national level.[\[179\]](#page-36-24)
 
@@ -656,7 +683,7 @@ According to 2022 data from the [Prison Policy Initiative,](https://en.wikipedia
 
 ## Live Births by Single Race/Ethnicity of Mother
 
-| Race | <b>2013</b> <sup>[186]</sup> | <b>2014</b> <sup>[187]</sup> | <b>2015</b> <sup>[188]</sup> | <b>2016</b> <sup>[189]</sup> | <b>2017</b> <sup>[190]</sup> | <b>2018</b> <sup>[191]</sup> | <b>2019</b> <sup>[192]</sup> | <b>2020</b> <sup>[193]</sup> | <b>2021</b> <sup>[194]</sup> | <b>2022</b> <sup>[195]</sup> | <b>2023</b> <sup>[179]</sup> |
+| Race | 2013 [186] | 2014 [187] | 2015 [188] | 2016 [189] | 2017 [190] | 2018 [191] | 2019 [192] | 2020 [193] | 2021 [194] | 2022 [195] | 2023 [179] |
 |---------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
 | White | 85,866 | 86,227 | 85,424 | 82,318 | 78,925 | 77,244 | 74,434 | 70,550 | 71,482 | 68,107 | 64,698 |
 | | (54.7%) | (54.4%) | (54.0%) | (53.3%) | (52.8%) | (53.3%) | (53.1%) | (52.9%) | (54.1%) | (53.1%) | (51.8%) |
@@ -666,18 +693,31 @@ According to 2022 data from the [Prison Policy Initiative,](https://en.wikipedia
 | | (6.3%) | (6.4%) | (6.5%) | (6.5%) | (6.5%) | (6.5%) | (6.5%) | (6.4%) | (6.3%) | (6.4%) | (6.7%) |
 | American | 234 | 227 | 205 | 110 | 133 | 129 | 119 | 79 | 86 | 87 | 97 |
 | Indian | (0.1%) | (0.1%) | (0.1%) | (0.0%) | (0.1%) | (0.1%) | (0.1%) | (>0.1%) | (>0.1%) | (>0.1%) | (>0.1%) |
-| Hispanic<br>(any<br>race) | 33,454<br>(21.3%) | 33,803<br>(21.3%) | 33,902<br>(21.4%) | 32,635<br>(21.1%) | 31,428<br>(21.0%) | 30,362<br>(21.0%) | 30,097<br>(21.5%) | 28,808<br>(21.6%) | 28,546<br>(21.6%) | 29,710<br>(23.1%) | 30,465<br>(24.4%) |
-| Total | <b>156,931</b> (100%) | <b>158,556</b> (100%) | <b>158,116</b> (100%) | <b>154,445</b> (100%) | <b>149,390</b> (100%) | <b>144,815</b> (100%) | <b>140,128</b> (100%) | <b>133,298</b> (100%) | <b>132,189</b> (100%) | <b>128,350</b> (100%) | <b>124,820</b> (100%) |
+| Hispanic
+(any
+race) | 33,454
+(21.3%) | 33,803
+(21.3%) | 33,902
+(21.4%) | 32,635
+(21.1%) | 31,428
+(21.0%) | 30,362
+(21.0%) | 30,097
+(21.5%) | 28,808
+(21.6%) | 28,546
+(21.6%) | 29,710
+(23.1%) | 30,465
+(24.4%) |
+| Total | 156,931 (100%) | 158,556 (100%) | 158,116 (100%) | 154,445 (100%) | 149,390 (100%) | 144,815 (100%) | 140,128 (100%) | 133,298 (100%) | 132,189 (100%) | 128,350 (100%) | 124,820 (100%) |
 
-Since 2013, births of <u>Hispanic</u> origin are not collected by race, but included in one *Hispanic* group; persons of Hispanic origin may be of any race.
+Since 2013, births of Hispanic origin are not collected by race, but included in one *Hispanic* group; persons of Hispanic origin may be of any race.
 
 ## Languages
 
-The <u>official language</u> of Illinois is <u>English</u>, [196] although between 1923 and 1969, state law gave official status to "the American language". Nearly 80% of people in Illinois speak English natively, and most of the rest speak it fluently as a second language. [197] A number of dialects of <u>American English</u> are spoken, ranging from <u>Inland Northern American English</u> and <u>African-American English</u> around Chicago, to Midland American English in Central Illinois, to Southern American English in the far south.
+The official language of Illinois is English, [196] although between 1923 and 1969, state law gave official status to "the American language". Nearly 80% of people in Illinois speak English natively, and most of the rest speak it fluently as a second language. [197] A number of dialects of American English are spoken, ranging from Inland Northern American English and African-American English around Chicago, to Midland American English in Central Illinois, to Southern American English in the far south.
 
 Over 24% of Illinoians speak a language other than English at home, of which $\underline{Spanish}$ is by far the most widespread, at more than 14% of the total population. A sizeable number of $\underline{Polish}$ speakers is present in the $\underline{Chicago}$ Metropolitan Area. Illinois Country French has mostly gone extinct in Illinois, although it is still celebrated in the French Colonial Historic District.
 
-| Language spoken at home | % of total (2023) <sup>[199]</sup> | Population (2023) |
+| Language spoken at home | % of total (2023) [199] | Population (2023) |
 |-------------------------------------|------------------------------------|-------------------|
 | English only | 75.7% | 9,004,820 |
 | Spanish | 14.1% | 1,672,496 |
@@ -695,10 +735,10 @@ Over 24% of Illinoians speak a language other than English at home, of which $\u
 | West African Languages | 0.3% | 32,917 |
 | German | 0.3% | 31,305 |
 | Serbo-Croatian | 0.2% | 26,399 |
-| <u>Italian</u> | 0.2% | 26,018 |
+| Italian | 0.2% | 26,018 |
 | Greek | 0.2% | 23,751 |
 | Telugu | 0.2% | 23,163 |
-| Other <u>Dravidian</u> Languages | 0.2% | 20,193 |
+| Other Dravidian Languages | 0.2% | 20,193 |
 | Vietnamese | 0.2% | 19,468 |
 | All other languages | 2.0% | 232,046 |
 ## | Total population aged 5+ | 100% | 11,888,663 |
@@ -779,7 +819,7 @@ Illinois is a net importer of fuels for energy, despite large coal resources and
 
 The coal industry of Illinois has its origins in the middle 19th century, when entrepreneurs such as [Jacob Loose](https://en.wikipedia.org/wiki/Jacob_Loose) discovered coal in locations such as [Sangamon County](https://en.wikipedia.org/wiki/Sangamon_County). [Jacob Bunn](https://en.wikipedia.org/wiki/Jacob_Bunn) contributed to the development of the Illinois coal industry. Coal mining in central and southern Illinois was important in the late 19th and early 20th centuries. The [1909 Cherry Mine disaster](https://en.wikipedia.org/wiki/1909_Cherry_Mine_disaster) was an underground fire that killed 259 miners in the third worst disaster in the history of American coal mining. After 1940 there was a slow decline in coal mining.[\[223\]](#page-38-19) About 68% of Illinois has coal-bearing strata of the [Pennsylvanian](https://en.wikipedia.org/wiki/Pennsylvanian_(geology)) geologic period. According to the Illinois State Geological Survey, 211 billion tons of [bituminous coal](https://en.wikipedia.org/wiki/Bituminous_coal) are estimated to lie under the surface, having a total heating value greater than the estimated oil deposits in the [Arabian](https://en.wikipedia.org/wiki/Arabian_Peninsula) [Peninsula.](https://en.wikipedia.org/wiki/Arabian_Peninsula) [\[224\]](#page-38-20) However, this coal has a high [sulfur](https://en.wikipedia.org/wiki/Sulfur) content, which causes [acid rain](https://en.wikipedia.org/wiki/Acid_rain), unless special equipment is used to reduce [sulfur dioxide](https://en.wikipedia.org/wiki/Sulfur_dioxide) [emissions](https://en.wikipedia.org/wiki/Air_pollution). [\[26\]](#page-30-14)[\[29\]](#page-30-16)[\[68\]](#page-32-13) Many Illinois [power plants](https://en.wikipedia.org/wiki/Power_station) are not equipped to burn high-sulfur coal. In 1999, Illinois produced 40.4 million tons of coal, but only 17 million tons (42%) of Illinois coal was consumed in Illinois. Most of the coal produced in Illinois is exported to other states and countries. In 2008, Illinois exported three million tons of coal and was projected to export nine million in 2011, as demand for energy grows in places such as China, India, and elsewhere in Asia and Europe. [225] As of 2010, Illinois was ranked third in recoverable coal reserves at producing mines in the nation. [216] Most of the coal produced in Illinois is exported to other states, while much of the coal burned for power in Illinois (21 million tons in 1998) is mined in the Powder River Basin of Wyoming. [222]
 
-<u>Mattoon</u> was chosen as the site for the <u>Department of Energy</u>'s <u>Future Gen</u> project, a 275-megawatt experimental <u>zero emission</u> coal-burning power plant that the DOE just gave a second round of funding. In 2010, after a number of setbacks, the city of Mattoon backed out of the project. [226]
+Mattoon was chosen as the site for the Department of Energy's Future Gen project, a 275-megawatt experimental zero emission coal-burning power plant that the DOE just gave a second round of funding. In 2010, after a number of setbacks, the city of Mattoon backed out of the project. [226]
 
 #### Petroleum
 
@@ -813,7 +853,7 @@ Illinois is ranked second in $\underline{\text{corn}}$ production among U. S. st
 
 The National Corn-to-Ethanol Research Center (NCERC), the world's only facility dedicated to researching the ways and means of converting corn (maize) to ethanol is located on the campus of Southern Illinois University Edwardsville. [237][238]
 
-<u>University of Illinois Urbana-Champaign</u> is one of the partners in the <u>Energy Biosciences Institute</u> (EBI), a \$500 million biofuels research project funded by petroleum giant $\underline{BP}$ .
+University of Illinois Urbana-Champaign is one of the partners in the Energy Biosciences Institute (EBI), a \$500 million biofuels research project funded by petroleum giant $\underline{BP}$ .
 
 #### **Taxes**
 
@@ -933,9 +973,9 @@ The [administrative divisions of Illinois](https://en.wikipedia.org/wiki/Adminis
 
 #### Party balance
 
-In modern national and state politics, Illinois is a <u>Democratic stronghold. [268]</u> Historically, Illinois was a political <u>swing state</u>, with near-parity existing between the <u>Republican</u> and the <u>Democratic</u> parties. However, in recent elections, the Democratic Party has gained ground, and Illinois has come to be seen as a solid <u>"blue" state</u> in both presidential and congressional campaigns. [269][270] Illinois's Democratic tendencies are mostly attributable to <u>Cook County</u> and <u>Chicago</u>, by far the state's largest county and city, respectively, which have long been strongly Democratic. The <u>collar counties</u>, affluent suburban counties that surround Cook County, historically voted Republican and helped keep the state competitive; however, they have swung toward the left in recent elections as the national Republican Party has become increasingly conservative, which has cemented Democratic dominance in state politics. [271] Outside of the
+In modern national and state politics, Illinois is a Democratic stronghold. [268] Historically, Illinois was a political swing state, with near-parity existing between the Republican and the Democratic parties. However, in recent elections, the Democratic Party has gained ground, and Illinois has come to be seen as a solid "blue" state in both presidential and congressional campaigns. [269][270] Illinois's Democratic tendencies are mostly attributable to Cook County and Chicago, by far the state's largest county and city, respectively, which have long been strongly Democratic. The collar counties, affluent suburban counties that surround Cook County, historically voted Republican and helped keep the state competitive; however, they have swung toward the left in recent elections as the national Republican Party has become increasingly conservative, which has cemented Democratic dominance in state politics. [271] Outside of the
 
-<u>Chicago metropolitan area</u>, the state's rural areas are heavily Republican. The dominance of the Chicago area in state elections is so overwhelming that it has influenced a <u>secessionist movement</u> in the downstate region. [272]
+Chicago metropolitan area, the state's rural areas are heavily Republican. The dominance of the Chicago area in state elections is so overwhelming that it has influenced a secessionist movement in the downstate region. [272]
 
 Illinois was long seen as a national bellwether, [273] supporting the winner in every election in the 20th century, except for 1916 and 1976. Since the 1992 election, however, Illinois has trended more toward the Democratic Party and is part of the "blue wall" of states that have consistently voted Democratic in the last six presidential elections. In 2000, George W. Bush became the first Republican to win the presidency without carrying either Illinois or Vermont, with Donald Trump repeating the feat in 2016. Illinois has not elected a Republican to the Senate since Mark Kirk won in 2010; the last Republicans to hold statewide office were Governor Bruce Rauner and Lieutenant Governor Evelyn Sanguinetti, who both left office in 2019.
 
@@ -949,19 +989,19 @@ Illinois was long seen as a national bellwether, [273] supporting the winner in 
 
 #### **History of corruption**
 
-Politics in the state have been infamous for highly visible corruption cases, as well as for crusading reformers, such as governors <u>Adlai Stevenson</u> and <u>James R. Thompson</u>. In 2006, former governor <u>George Ryan</u> was convicted of racketeering and bribery, leading to a six-and-a-half-year prison sentence. On December 7, 2011, former governor <u>Rod Blagojevich</u> was sentenced to 14 years in prison for allegations that he conspired to sell the vacated Senate seat left by President <u>Barack Obama</u> to the highest bidder. Blagojevich had earlier been impeached and convicted by the legislature, resulting in his removal from office. In the late 20th century, Congressman <u>Dan Rostenkowski</u> was imprisoned for mail fraud; former governor and federal judge <u>Otto Kerner Jr.</u> was imprisoned for bribery; Secretary of State <u>Paul Powell</u> was investigated and found to have gained great wealth through bribes, and State Auditor of Public Accounts (Comptroller) <u>Orville Hodge</u> was imprisoned for embezzlement. In 1912, William Lorimer, the GOP boss of Chicago, was expelled from the U. S. Senate for bribery, and in 1921, Governor Len Small was found to have defrauded the state of a million dollars.
+Politics in the state have been infamous for highly visible corruption cases, as well as for crusading reformers, such as governors Adlai Stevenson and James R. Thompson. In 2006, former governor George Ryan was convicted of racketeering and bribery, leading to a six-and-a-half-year prison sentence. On December 7, 2011, former governor Rod Blagojevich was sentenced to 14 years in prison for allegations that he conspired to sell the vacated Senate seat left by President Barack Obama to the highest bidder. Blagojevich had earlier been impeached and convicted by the legislature, resulting in his removal from office. In the late 20th century, Congressman Dan Rostenkowski was imprisoned for mail fraud; former governor and federal judge Otto Kerner Jr. was imprisoned for bribery; Secretary of State Paul Powell was investigated and found to have gained great wealth through bribes, and State Auditor of Public Accounts (Comptroller) Orville Hodge was imprisoned for embezzlement. In 1912, William Lorimer, the GOP boss of Chicago, was expelled from the U. S. Senate for bribery, and in 1921, Governor Len Small was found to have defrauded the state of a million dollars.
 
 #### U. S. presidential elections
 
 Illinois has shown a strong presence in presidential elections. Three presidents have claimed Illinois as their political base when running for president: Abraham Lincoln, Ulysses S. Grant, and most recently Barack Obama. Lincoln was born in Kentucky, but he moved to Illinois at age 21. He served in the General Assembly and represented the 7th congressional district in the U. S. House of Representatives before his election to the presidency in 1860. Ulysses S. Grant was born in Ohio and had a military career that precluded settling down, but on the eve of the Civil War and approaching middle age, he moved to Illinois and thus utilized the state as his home and political base when running for president. Barack Obama was born in Hawaii and made Illinois his home after graduating from law school, and later represented Illinois in the U. S. Senate. He then became president in 2008, running as a candidate from his Illinois base.
 
-<u>Ronald Reagan</u> was born in Illinois, in the city of <u>Tampico</u>, raised in <u>Dixon</u>, <u>Illinois</u>, and educated at <u>Eureka College</u>, outside <u>Peoria</u>. Reagan later moved to <u>California</u> during his young adulthood. He then became an actor, and later became <u>California's Governor</u> before being elected president.
+Ronald Reagan was born in Illinois, in the city of Tampico, raised in Dixon, Illinois, and educated at Eureka College, outside Peoria. Reagan later moved to California during his young adulthood. He then became an actor, and later became California's Governor before being elected president.
 
-<u>Hillary Clinton</u> was born and raised in the suburbs of Chicago and became the first woman to represent a major political party in the general election of the U. S. presidency. Clinton ran from a platform based in New York State.
+Hillary Clinton was born and raised in the suburbs of Chicago and became the first woman to represent a major political party in the general election of the U. S. presidency. Clinton ran from a platform based in New York State.
 
 #### African-American U. S. senators
 
-<u>Twelve African-Americans</u> have served as members of the <u>United States Senate</u>. Of which three have represented Illinois, the most of any single state: <u>Carol Moseley-Braun</u>, <u>[129]</u> <u>Barack Obama</u>, <u>[275]</u> and <u>Roland Burris</u>, who was appointed to replace Obama after his election to the presidency. Moseley-Braun was the first African-American woman to become a U. S. Senator.
+Twelve African-Americans have served as members of the United States Senate. Of which three have represented Illinois, the most of any single state: Carol Moseley-Braun, [129] Barack Obama, [275] and Roland Burris, who was appointed to replace Obama after his election to the presidency. Moseley-Braun was the first African-American woman to become a U. S. Senator.
 
 #### **Political families**
 

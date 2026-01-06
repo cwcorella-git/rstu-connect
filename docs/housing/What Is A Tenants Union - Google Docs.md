@@ -1,12 +1,10 @@
 ---
-date: 2025
-author: Google Docs
-tags:
-  - organizing
-  - unions
-  - tenants
 title: "What Is A Tenants Union - Google Docs"
+author: "Google Docs"
+date: "2025"
+category: "housing"
 ---
+
 # What Is A Tenants Union - Google Docs
 
 *Converted from: `./What Is A Tenants Union - Google Docs.pdf`*  
@@ -36,4 +34,3 @@ Check for info:      Reno-Sparks Tenant Union Presentation.pptx
 Check media fact sheet for wins from tenants unions
 
 ---
-

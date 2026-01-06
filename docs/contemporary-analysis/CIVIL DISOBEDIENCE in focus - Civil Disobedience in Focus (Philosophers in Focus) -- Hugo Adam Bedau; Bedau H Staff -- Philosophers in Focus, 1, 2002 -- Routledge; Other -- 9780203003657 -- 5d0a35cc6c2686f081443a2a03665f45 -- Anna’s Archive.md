@@ -1,3 +1,8 @@
+---
+title: "Civil Disobedience Focus"
+category: "contemporary-analysis"
+---
+
 # Civil Disobedience Focus
 
 ## \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
@@ -69,17 +74,21 @@ Library of Congress Cataloguing in Publication Data A catalogue record for this 
 | | Plato | |
 | 2 | CIVIL DISOBEDIENCE | 28 |
 | | Henry David Thoreau | |
-| 3 | CIVIL DISOBEDIENCE AND PERSONAL<br>RESPONSIBILITY FOR INJUSTICE | 49 |
+| 3 | CIVIL DISOBEDIENCE AND PERSONAL
+RESPONSIBILITY FOR INJUSTICE | 49 |
 | | H. A. Bedau | |
 | 4 | LETTER FROM BIRMINGHAM CITY JAIL | 68 |
 | | Martin Luther King, Jr | |
 | 5 | THE CASE AGAINST CIVIL DISOBEDIENCE | 85 |
 | | Herbert J. Storing | |
-| 6 | DEFINITION AND JUSTIFICATION OF CIVIL<br>DISOBEDIENCE | 103 |
+| 6 | DEFINITION AND JUSTIFICATION OF CIVIL
+DISOBEDIENCE | 103 |
 | | John Rawls | |
-| 7 | DISOBEDIENCE AS A PLEA FOR<br>RECONSIDERATION | 122 |
+| 7 | DISOBEDIENCE AS A PLEA FOR
+RECONSIDERATION | 122 |
 | | Peter Singer | |
-| 8 | THE JUSTIFIABILITY OF VIOLENT CIVIL<br>DISOBEDIENCE | 130 |
+| 8 | THE JUSTIFIABILITY OF VIOLENT CIVIL
+DISOBEDIENCE | 130 |
 | | John Morreall | |
 | 9 | CIVIL DISOBEDIENCE AND NON-CO-OPERATION | 144 |
 | | Vinit Haksar | |
@@ -132,7 +141,7 @@ The problem of the individual's relation to the state and its government – its
 
 The theory of civil disobedience, freed from its religious setting, does not emerge as a distinctive subject for secular thought until
 
-<sup>1</sup> See David Daube, Civil Disobedience in Antiquity (Edinburgh: Edinburgh University Press, 1972).
+1 See David Daube, Civil Disobedience in Antiquity (Edinburgh: Edinburgh University Press, 1972).
 
 the middle of the last century. It is introduced (along with the term, 'civil disobedience,' itself) in the nonpareil essay by the American naturalist Henry David Thoreau. Thoreau's refusal in the 1840s to pay his poll tax was intended to be symbolic of his objections to the federal government's aggressive war against Mexico, support for chattel slavery in the southern states, and continued violation of the rights of the native Indian population. Thoreau's disobedience had no discernible effect on these injustices, but his ideas were none the less a good example of how actual practice can yield a reflective theoretical product.2
 
@@ -140,9 +149,9 @@ Half a century later Thoreau's ideas were brought to international attention fir
 
 Despite its historic American origin in Thoreau's practice and writings, civil disobedience did not become a household term or a topic of interest to political and legal philosophy until the early 1950s. In the United States, the Montgomery Bus Boycott (1955) became the opening salvo in a decade-long struggle by black Americans to achieve civil rights under law equal to those of white Americans. In England, the Committee for Nonviolent Action advocated 'nuclear pacifism' and under the leadership of the ageing Bertrand Russell used civil disobedience mainly in order to secure publicity for its cause.4 In the United States, the leading figure in the Civil Rights Movement was Martin Luther
 
-<sup>2</sup> See Walter Harding and Michael Meyer, The New Thoreau Handbook (New York: NYU Press, 1980), pp. 41–2, 80–1, 135–9; Walter Harding, The Variorum Civil Disobedience (New York: Twayne, 1967).
+2 See Walter Harding and Michael Meyer, The New Thoreau Handbook (New York: NYU Press, 1980), pp. 41–2, 80–1, 135–9; Walter Harding, The Variorum Civil Disobedience (New York: Twayne, 1967).
 
-<sup>3</sup> See Mohandas K. Gandhi, Non-Violent Resistance (New York: Schocken, 1961). 4 See Bertrand Russell, 'Civil Disobedience and the Threat of Nuclear Warfare,' in Clara Urquhart (ed.), A Matter of Life (London: Jonathan Cape, 1963), pp. 189–96, and reprinted in H. A. Bedau (ed.), Civil Disobedience: Theory and Practice (New York: Pegasus, 1969), pp. 153–9. See also his essays, 'Civil Disobedience,' New Statesman (Feb. 17, 1961), 245–6, and 'On Civil Disobedience,' in Arthur and Lila Weinberg (eds.), Instead of Violence (Boston: Beacon, 1965), pp. 51–7.
+3 See Mohandas K. Gandhi, Non-Violent Resistance (New York: Schocken, 1961). 4 See Bertrand Russell, 'Civil Disobedience and the Threat of Nuclear Warfare,' in Clara Urquhart (ed.), A Matter of Life (London: Jonathan Cape, 1963), pp. 189–96, and reprinted in H. A. Bedau (ed.), Civil Disobedience: Theory and Practice (New York: Pegasus, 1969), pp. 153–9. See also his essays, 'Civil Disobedience,' New Statesman (Feb. 17, 1961), 245–6, and 'On Civil Disobedience,' in Arthur and Lila Weinberg (eds.), Instead of Violence (Boston: Beacon, 1965), pp. 51–7.
 
 #### Introduction
 
@@ -152,13 +161,13 @@ Even before King's death, civil disobedience in the United States was aimed at n
 
 The slow response by philosophers to the practice of civil disobedience is but one more illustration of the truth of Hegel's observation that the owl of Minerva flies only at dusk. In 1961, the American Philosophical Association organized a symposium on 'Political Obligation and Civil Disobedience,' perhaps the first occasion on which the whole subject received official attention from the academic community.7 During the rest of that decade, however, political theorists, legal philosophers, and moralists of various persuasions subjected civil disobedience to intensive scrutiny. By the mid-1980s, a dozen books and another dozen anthologies, along with scores of articles, provided a wide range of discussion on every important aspect of the subject.8
 
-<sup>5</sup> On civil disobedience in the Civil Rights Movement and Martin Luther King, Jr., see Juan Williams, Eyes on the Prize: America's Civil Rights Years 1954–65 (New York: Viking, 1987); Arthur Wascow, From Race-Riot to Sit-In (New York: Anchor, 1966); Howard Zinn, SNCC: The New Abolitionists (Boston: Beacon, 1965).
+5 On civil disobedience in the Civil Rights Movement and Martin Luther King, Jr., see Juan Williams, Eyes on the Prize: America's Civil Rights Years 1954–65 (New York: Viking, 1987); Arthur Wascow, From Race-Riot to Sit-In (New York: Anchor, 1966); Howard Zinn, SNCC: The New Abolitionists (Boston: Beacon, 1965).
 
-<sup>6</sup> On the circumstances of civil disobedience and related protests during the Vietnam War, see 'Trials of the Resistance' (New York NY: New York Review of Books, 1970); Alice Lynd (ed.), We Won't Go (Boston: Beacon, 1968).
+6 On the circumstances of civil disobedience and related protests during the Vietnam War, see 'Trials of the Resistance' (New York NY: New York Review of Books, 1970); Alice Lynd (ed.), We Won't Go (Boston: Beacon, 1968).
 
-<sup>7</sup> See Richard A. Wasserstrom, Hugo A. Bedau, and Stuart M. Brown, Jr., 'Symposium: Political Obligation and Civil Disobedience,' Journal of Philosophy, 58 (1961), 641–65, 669–81.
+7 See Richard A. Wasserstrom, Hugo A. Bedau, and Stuart M. Brown, Jr., 'Symposium: Political Obligation and Civil Disobedience,' Journal of Philosophy, 58 (1961), 641–65, 669–81.
 
-<sup>8</sup> No comprehensive bibliography on civil disobedience has been published; see, however, the bibliographies in Paul Harris (ed.), Civil Disobedience (Lanham MD: University Press of America, 1989), pp. 287–92; Elliot M. Zashin, Civil Disobedience and Democracy (New York: Free Press, 1972), pp. 351–5; Jeffrie G. Murphy (ed.), Civil Disobedience and Violence (Belmont CA: Wadsworth, 1971), pp. 146–51.
+8 No comprehensive bibliography on civil disobedience has been published; see, however, the bibliographies in Paul Harris (ed.), Civil Disobedience (Lanham MD: University Press of America, 1989), pp. 287–92; Elliot M. Zashin, Civil Disobedience and Democracy (New York: Free Press, 1972), pp. 351–5; Jeffrie G. Murphy (ed.), Civil Disobedience and Violence (Belmont CA: Wadsworth, 1971), pp. 146–51.
 
 #### II
 
@@ -182,17 +191,17 @@ What holds for lawful protest generally thus holds for strikes, boycotts, poster
 
 Another obvious alternative when confronted with a law with which one does not agree is to refuse to comply, but to keep one's noncompliance hidden, again in a prudent desire to avoid the unpleasant consequences – arrest and trial, conviction and punishment, perhaps public opprobrium – that typically ensue when one's unlawful conduct is done openly. Can conduct of this sort ever be regarded as civil disobedience?
 
-<sup>9</sup> See Archibald Cox, 'Direct Action, Civil Disobedience, and the Constitution,' in his Civil Rights, the Constitution and the Courts (Cambridge MA: Harvard, 1967); also Charles L. Black, Jr., 'The Problem of the Compatibility of Civil Disobedience with American Institutions of Government,' Texas Law Review, 43 (1965), 492–506.
+9 See Archibald Cox, 'Direct Action, Civil Disobedience, and the Constitution,' in his Civil Rights, the Constitution and the Courts (Cambridge MA: Harvard, 1967); also Charles L. Black, Jr., 'The Problem of the Compatibility of Civil Disobedience with American Institutions of Government,' Texas Law Review, 43 (1965), 492–506.
 
-<sup>10</sup> Ronald Dworkin, 'On Not Prosecuting Civil Disobedience' (1968), reprinted in his Taking Rights Seriously (Cambridge MA: Harvard, 1977), pp. 206–22.
+10 Ronald Dworkin, 'On Not Prosecuting Civil Disobedience' (1968), reprinted in his Taking Rights Seriously (Cambridge MA: Harvard, 1977), pp. 206–22.
 
 It certainly meets the test of disobedience, but is it civil? As the readings in this volume show, neither King nor Rawls think so, and their shared view is the dominant one. But the position of Socrates and Thoreau is less clear. In Socrates' case, the sole issue he examines is whether he should bribe his jailer to escape the death sentence, unfairly but lawfully imposed by the people of Athens for his (alleged) crimes. As Gregory Vlastos has noted, 'The disobedient action contemplated in the Crito would not have been open defiance of the law, but fraudulent evasion of it, involving lying and the corruption of public servants.'11 And one must wonder whether Socrates or any of his contemporaries even had the concept of civil disobedience as we have come to understand it. 'The Greeks did not go on protest marches; Socrates never engaged in a sit-in.'12 Yet we know from Plato's Apology that Socrates did have the concept of justified disobedience of the law and, as Crito amply proves, he certainly had the concept of unjustified disobedience. As for Thoreau, it appears that he made no effort whatever for several years to make public his noncompliance with the poll tax law. Since his own conduct was never far from his mind when he later lectured and wrote in defense of 'civil disobedience,' it seems unlikely that he meant to exclude his own illegal conduct – consisting of silent evasion of taxes – from the reach of his argument.
 
 The matter is not so easily disposed of, however. Crucial to the question under discussion is what one believes to be the point, or purpose, or aim of one's lawbreaking. What is it, in other words, that turns some but not all disobedience into civil disobedience? If one's disobedience is nothing more than the attempt to avoid having to comply with a given law, then covert disobedience can often accomplish that end quite well. This is true whether or not one believes the law disobeyed to be unjust (think, for example, of those who gave aid to Jews in Nazi-occupied Europe) and whether or not one is right. But in the conduct of Gandhi as well as King, and in Rawls's and virtually all other modern discussions of the subject (even if not in Thoreau's), there is a distinctive purpose to civil disobedience: Its purpose is to frustrate and then change the law itself, by making an appeal to conscience,
 
-<sup>11</sup> Gregory Vlastos, 'Socrates on Political Obedience and Disobedience,' Yale Review (Summer 1974), 517–34, at 531.
+11 Gregory Vlastos, 'Socrates on Political Obedience and Disobedience,' Yale Review (Summer 1974), 517–34, at 531.
 
-<sup>12</sup> Richard Kraut, Socrates and the State (Princeton NJ: Princeton University Press, 1984), p. 75.
+12 Richard Kraut, Socrates and the State (Princeton NJ: Princeton University Press, 1984), p. 75.
 
 the conscience of the authorities and especially the conscience of the majority of the public – the conscience, in short, of whoever it is that issues, enforces, and supports the law being broken. Civil disobedience thus conceived must be viewed as an exercise in public moral education, as a tactic to achieve law reform. Hence the disobedience is properly called 'civil' because it is part of the civic life of the society. But no such appeal to the public conscience can be made unless the illegal conduct is done openly, in the public forum, as a political act.
 
@@ -206,11 +215,11 @@ Second, we can see that the place of nonviolence in civil disobedience is proble
 
 Does this suffice to mark off civil disobedience not only from rebellion and revolution but also from ordinary criminal conduct?
 
-<sup>13</sup> On conscientious objection and the appeal to conscience, see John Rawls, A Theory of Justice (Cambridge MA: Harvard), pp. 368–71, 377–81; Lillian Schlissel (ed.), Conscience in America: A Documentary History of Conscientious Objection in America, 1757–1967 (New York: Dutton, 1968).
+13 On conscientious objection and the appeal to conscience, see John Rawls, A Theory of Justice (Cambridge MA: Harvard), pp. 368–71, 377–81; Lillian Schlissel (ed.), Conscience in America: A Documentary History of Conscientious Objection in America, 1757–1967 (New York: Dutton, 1968).
 
-<sup>14</sup> See Francine du Plessix Gray, Divine Disobedience: Profiles in Catholic Radicalism (New York: Knopf, 1970); William Van Etten Casey and Philip Nobile (eds.), The Berrigans (New York: Avon, 1971).
+14 See Francine du Plessix Gray, Divine Disobedience: Profiles in Catholic Radicalism (New York: Knopf, 1970); William Van Etten Casey and Philip Nobile (eds.), The Berrigans (New York: Avon, 1971).
 
-<sup>15</sup> On nonviolent protest, see Arthur and Lila Weinberg (eds.), Instead of Violence (Boston: Beacon, 1965); Staughton Lynd (ed.), Nonviolence in America: A Documentary History (Indianapolis: Bobbs-Merrill, 1966).
+15 On nonviolent protest, see Arthur and Lila Weinberg (eds.), Instead of Violence (Boston: Beacon, 1965); Staughton Lynd (ed.), Nonviolence in America: A Documentary History (Indianapolis: Bobbs-Merrill, 1966).
 
 #### Introduction
 
@@ -230,9 +239,9 @@ In King's case, several different principles are mentioned, all of which King cl
 
 It must be conceded, I believe, that a truly adequate approach to the justification of civil disobedience cannot be found in the classic writings of Socrates, Thoreau, and King, nor can a clear impression be formed of what such a justification would look like. For progress on this important matter we are principally indebted to John Rawls, who was perhaps the first philosopher
 
-<sup>16</sup> See A. John Simmons, Moral Principles and Political Obligations (Princeton NJ: Princeton University Press, 1979).
+16 See A. John Simmons, Moral Principles and Political Obligations (Princeton NJ: Princeton University Press, 1979).
 
-<sup>17</sup> For other criticisms of King, see Louis Waldman, 'Civil Rights – Yes; Civil Disobedience – No (A Reply to Dr. Martin Luther King)' (1965), reprinted in H. A. Bedau (ed.), Civil Disobedience: Theory and Practice (New York: Pegasus, 1969), pp. 106–15; Herbert Brownell, 'Civil Disobedience – A Lawyer's Challenge,' American Criminal Law Quarterly, 3 (Fall 1964), 27–32; Morris Liebman, 'Civil Disobedience – A Threat to our Law Society,' American Bar Association Journal (July 1965), 645–47; Charles Rice, 'Civil Disobedience: Formula for Chaos,' Alabama Lawyer, 27 (1966), pp. 249–79.
+17 For other criticisms of King, see Louis Waldman, 'Civil Rights – Yes; Civil Disobedience – No (A Reply to Dr. Martin Luther King)' (1965), reprinted in H. A. Bedau (ed.), Civil Disobedience: Theory and Practice (New York: Pegasus, 1969), pp. 106–15; Herbert Brownell, 'Civil Disobedience – A Lawyer's Challenge,' American Criminal Law Quarterly, 3 (Fall 1964), 27–32; Morris Liebman, 'Civil Disobedience – A Threat to our Law Society,' American Bar Association Journal (July 1965), 645–47; Charles Rice, 'Civil Disobedience: Formula for Chaos,' Alabama Lawyer, 27 (1966), pp. 249–79.
 
 #### Introduction really to devote careful thought to the nature and justification of civil disobedience from within the framework of a general theory of social justice and liberal democracy.18 The issues raised by Rawls's approach concern not only all those already noticed but several others as well.
 
@@ -244,9 +253,9 @@ Rawls thinks of civil disobedience as noncoercive because it is nonviolent. Vini
 
 Rawls (as was noted in passing above) thinks the justification of civil disobedience requires that the protesters appeal to moral or constitutional principles shared with the general public. Peter Singer finds this far too restrictive.
 
-<sup>18</sup> For other views of civil disobedience in a constitutional democracy, see Burton Zweibach, Civility and Disobedience (New York, Cambridge University Press, 1975); Zashin, op. cit., note 8; Carl Cohen, Civil Disobedience: Conscience, Tactics, and the Law (New York, Columbia, 1971).
+18 For other views of civil disobedience in a constitutional democracy, see Burton Zweibach, Civility and Disobedience (New York, Cambridge University Press, 1975); Zashin, op. cit., note 8; Carl Cohen, Civil Disobedience: Conscience, Tactics, and the Law (New York, Columbia, 1971).
 
-<sup>19</sup> Sidney Hook, The Paradoxes of Freedom (Berkeley CA: University of California Press, 1964), pp. 106–39.
+19 Sidney Hook, The Paradoxes of Freedom (Berkeley CA: University of California Press, 1964), pp. 106–39.
 
 Rawls writes as if a line between nonviolent and violent disobedience can be drawn, and claims that within a constitutional democracy only nonviolent disobedience is justifiable. Morreall, along with some other writers who are reluctant to condemn political violence out of hand, finds this unconvinc ing.20
 
@@ -256,7 +265,7 @@ Finally, any account of the justification of civil disobedience of course turns 
 
 One might well complain that the evaluation of civil disobedience has a dimension not represented by the writings selected for this volume, namely the assessment of the actual effects (for good or ill) on the political community in which acts of civil disobedience have been committed. I would agree. Neither advocates and activists, such as Thoreau and King, nor academic philosophers, such as Rawls, provide such an account, and one cannot fully understand civil disobedience without some attention to its political results. My response, apart from this willing concession, is to point out that another whole book at least would be needed to fulfil this task. And that book – say, a more comprehensive and up-todate version of Jerome Skolnick's useful volume, The Politics of Protest (1969) – must be left for others to edit and write.
 
-<sup>20</sup> For a useful discussion of violence and its justifications, see Jerome A. Shaffer (ed.), Violence (New York: Mc Kay, 1971).
+20 For a useful discussion of violence and its justifications, see Jerome A. Shaffer (ed.), Violence (New York: Mc Kay, 1971).
 
 ## CRITO
 
@@ -614,33 +623,33 @@ disobedience and our understanding of them. I do wish, however, to single out fo
 
 What gives urgency to the study of these distinctions and their correlation is that the use of indirect civil disobedience for the purpose of protest has come under explicit and sharp attack by various writers, including two prominently placed legal spokesmen, viz., the current Solicitor General and a (then) Associate Justice of the Supreme Court. Writing within a few weeks of each other, Mr. Erwin Griswold concluded that '. . . it is illicit to violate otherwise valid laws either as a symbol of protest or in the course of protest . . .';1 and Mr. Justice Fortas agreed, saying that '. . . civil disobedience . . . is never justified in our nation where the law being violated is not itself the focus or target of the protest.'2 'The law violation is excused only if the law which is violated . . . itself is unconstitutional or invalid' (F, 16). The common thesis
 
-<sup>1</sup> Erwin N. Griswold, 'Dissent – 1968,' Tulane Law Review, 42 (1968), 726–39, at 735. Hereinafter cited in the text as G.
+1 Erwin N. Griswold, 'Dissent – 1968,' Tulane Law Review, 42 (1968), 726–39, at 735. Hereinafter cited in the text as G.
 
-<sup>2</sup> Abe Fortas, Concerning Dissent and Civil Disobedience (New York: Signet Broadside, 1968), p. 62. Hereinafter cited in the text as F. (NB: This booklet has appeared in two different paginations with unaltered text; my references are to the first printing in sixty-four pages.) For further criticism of indirect civil disobedience, see, e.g., Francis A. Allen, 'Civil Disobedience and the Legal Order,' University of Cincinnati Law Review, 36 (1967), 12–13, and Charles Frankel, Education and the Barricades (New York: W. W. Norton and Co., 1968), p. 65.
+2 Abe Fortas, Concerning Dissent and Civil Disobedience (New York: Signet Broadside, 1968), p. 62. Hereinafter cited in the text as F. (NB: This booklet has appeared in two different paginations with unaltered text; my references are to the first printing in sixty-four pages.) For further criticism of indirect civil disobedience, see, e.g., Francis A. Allen, 'Civil Disobedience and the Legal Order,' University of Cincinnati Law Review, 36 (1967), 12–13, and Charles Frankel, Education and the Barricades (New York: W. W. Norton and Co., 1968), p. 65.
 
 of Fortas and Griswold is that indirect civil disobedience – at least, in a constitutional democracy and by a person who understands and accepts its principles (a set of qualifications which neither Griswold nor Fortas mentions but which each assumes and which we may grant) – is never justified.3 But even the casual observer during the past decade must know that much, if not most, civil disobedience (as well as much illegal conduct not to be understood as civil disobedience) in this country was indirect and presumably thought to be justified by those who undertook it. Plainly, there is on this point a major disagreement between these critics and a large number of activists. I think it is worth attempting to clarify the basic issues on both sides.
 
 At the outset, let me declare that the central or paradigm cases of civil disobedience I take to be acts which are illegal (or presumed to be so by those committing them, or by those coping with them, at the time), committed openly (not evasively or covertly), nonviolently (not intentionally or negligently destructive of property or harmful of persons), and conscientiously (not impulsively, unwillingly, thoughtlessly, etc.) within the framework of the rule of law (and thus with a willingness on the part of the disobedient to accept the legal consequences of his act, save in the special case where his act is intended to overthrow the government) and with the intention of frustrating or protesting some law, policy, or decision (or the absence thereof) of the government (or of some of its officers).4 It is sufficient for present purposes to report that all of the parties to the argument about to be examined seem to accept essentially such a conception of civil disobedience (especially that it is illegal, not violent, conscientious, not covert), and do so without thinking they have prejudged any issue as to the justifiability of particular acts of civil disobedience (or, for that matter, of other sorts of acts, e.g., of violent protest, including rebellion).
 
-<sup>3</sup> Fortas, it will be noticed, refers first to 'justified' civil disobedience and then to 'excusable' civil disobedience; this should, but does not, mark a change in his objection. For a concise statement that indicates the importance of this distinction, see H. L. A. Hart, Punishment and Responsibility (Oxford: Oxford University Press, 1968), pp. 13–14.
+3 Fortas, it will be noticed, refers first to 'justified' civil disobedience and then to 'excusable' civil disobedience; this should, but does not, mark a change in his objection. For a concise statement that indicates the importance of this distinction, see H. L. A. Hart, Punishment and Responsibility (Oxford: Oxford University Press, 1968), pp. 13–14.
 
-<sup>4</sup> This is a somewhat broader definition than the one offered some years ago in my article, 'On Civil Disobedience,' Journal of Philosophy, 58 (1961), 661. For a sample of recent definitions and their divergence from one another, see H. A. Bedau (ed.), Civil Disobedience (New York: Pegasus, 1969), pp. 217–19.
+4 This is a somewhat broader definition than the one offered some years ago in my article, 'On Civil Disobedience,' Journal of Philosophy, 58 (1961), 661. For a sample of recent definitions and their divergence from one another, see H. A. Bedau (ed.), Civil Disobedience (New York: Pegasus, 1969), pp. 217–19.
 
 II. Why does anyone consider committing indirect civil disobedience? Possible reasons are legion, e.g., the wish to disrupt otherwise legal and justifiable practices in order to foment confusion and disorder, fear of the consequences of committing direct civil disobedience, frustration and impatience. But surely the main and obvious reason is the undeniable fact that some injustices are inaccessible to direct resistance by some who would protest them. In this regard as in others, it is convenient to reconsider Thoreau's case. It will be recalled that Thoreau refused to pay his state poll tax, not as a protest or obstruction to this particular (admittedly unpopular) tax law or to the principle of personal taxation. On the contrary, he pointedly conceded that in general taxation is fully justified.5 Rather, it was his inaccessibility to the precincts of injustice which led Thoreau to his tax refusal: no one was trying to return him to a slave plantation, no one was forcing him to join in the expeditionary forces invading Mexico, no one was mistreating him in Indian territory. Yet it was precisely these injustices which his tax resistance was aimed at.6 If the Fortas-Griswold theory (as I shall call it) were correct, the only persons who could commit civil disobedience justifiably would be those who are directly involved in injustice. This would limit the class of prospective disobedients to two sorts: those who are the direct victims of injustice (e.g., fugitive slaves, Indians) or those who are the direct agents of injustice (e.g., bounty hunters, soldiers). But the typical citizen, not being in either of these positions with regard to many social injustices, may neither attempt to frustrate nor even protest these injustices by means of civil disobedience. The individual's right of conscientious dissent, which both Fortas and Griswold profess to recognize (G, 728; F, 48 ff.), and its peremptory authority justifies the disobedient only for resisting the precise act he is ordered by law to accept or to enforce; this and this only he may conscientiously resist through civil disobedience.
 
 A theory with such consequences is a bit daunting. At first impression it seems as though any government ought to be able to be subjected to justified conscientious resistance, in one way
 
-<sup>5</sup> Henry David Thoreau, 'Civil Disobedience,' in his A Yankee in Canada with Anti-Slavery and Reform Papers (Boston: Ticknor and Fields, 1866), p. 145.
+5 Henry David Thoreau, 'Civil Disobedience,' in his A Yankee in Canada with Anti-Slavery and Reform Papers (Boston: Ticknor and Fields, 1866), p. 145.
 
-<sup>6</sup> Thoreau, op. cit., p. 136. What constitutes an injustice I cannot attempt to discuss here. Suffice to say that Thoreau himself shows that he thinks his civil disobedience is justified because his protest is against the systematic violation of others' human rights. See Thoreau, op. cit., pp. 127–8, 151.
+6 Thoreau, op. cit., p. 136. What constitutes an injustice I cannot attempt to discuss here. Suffice to say that Thoreau himself shows that he thinks his civil disobedience is justified because his protest is against the systematic violation of others' human rights. See Thoreau, op. cit., pp. 127–8, 151.
 
 or another, within or without the law, on account of any of its laws or policies (including its failure to pass or to enforce certain laws or certain policies) by anyone in the society, whether or not he is directly affected by those laws or policies. The Fortas-Griswold theory implicitly denies this and would severely restrict the number of persons in a position to make such a protest through illegal but justifiable acts. I submit it is strange and needs argument which, as we shall see, neither Fortas nor Griswold provide, to show that the proper relation between an individual and his government, especially when he is a committed democrat and his government a professing constitutional democracy, is such that the vast majority of the injustices perpetrated and perpetuated by his government are forever beyond his protest through justifiable civil disobedience. He may, thanks to his civil rights, protest at the polls and, thanks to his civil liberties, protest from a soapbox. He may even protest through civil disobedience with justification provided it is his ox that is gored or forced to do the goring. But beyond this he may not go.
 
 I suspect that one of the unavowed reasons why Fortas and Griswold come to this conclusion is that they think a person remote from a social injustice can have little or no responsibility for it. Such a person does not in any way authorize or sanction it, he or she does not in any way cause or contribute to it; therefore, he or she has no reason to take matters into his or her own hands so as to act illegally to protest it. If this is their view, it is in sharp contrast with Thoreau's. As he put it, 'What I have to do is to see . . . that I do not lend myself to the wrong which I condemn.'7 Such a concern invites inquiry into causal and other connections more subtle than those manifested in being the direct agent of injustice or its direct victim. A few years ago, the same concern Thoreau expressed was put in this way: each of us must accept 'personal responsibility for injustice.'8 If the Fortas–Griswold theory is correct, the principle involved here – which I shall call henceforth, partly for brevity's sake, Thoreau's Principle – must be mistaken. On their theory, it must be true that each individual bears so little responsibility for the acts of his government that he need not mitigate or acquit himself of blame and fault for injustices authorized by his government, because no blame or fault accrues to him at all. Griswold, it is
 
-<sup>7</sup> Thoreau, op. cit., p. 134.
+7 Thoreau, op. cit., p. 134.
 
-<sup>8</sup> Harris Wofford, Jr., 'Non-Violence and the Law,' Journal of Religious Thought, 15 (1957–58), 29.
+8 Harris Wofford, Jr., 'Non-Violence and the Law,' Journal of Religious Thought, 15 (1957–58), 29.
 
 true, quotes favorably an author who asserts, 'In a democracy . . . every citizen bears a measure of personal responsibility for misgovernment, bad laws, or wrong policies . . .' But the quotation immediately continues '. . . unless he has played his full part in trying to get a better government into power, better laws on the statute book, and better policies adopted'9 (G, 729). Presumably, all such efforts are to be conducted entirely within the law as it stands and without recourse to Thoreauvian disobedience. Such is the position of the Fortas–Griswold theory.
 
@@ -648,16 +657,16 @@ III. By what arguments, by appeal to what principles, does the Fortas–Griswold
 
 (1) The only way in which indirect civil disobedience could be justified is under the 'symbolic speech' doctrine of the First Amendment, whereby since the 'Red Flag' case10 various objects and acts other than the mere written or spoken word are to be accorded the status of protected 'speech'. But all acts of indirect civil disobedience involve destruction of property, interference with the safety and liberty of others, assault on public decorum, and thus cannot receive such constitutional protection. Since the Constitution cannot protect such acts, nothing can: they are not justified (F, 16–19; G, 730–31).
 
-<sup>9</sup> The source Griswold quotes is J. N. D. Anderson, Into the World–the Need and Limits of Christian Involvement (London: 1968), p. 41.
+9 The source Griswold quotes is J. N. D. Anderson, Into the World–the Need and Limits of Christian Involvement (London: 1968), p. 41.
 
-<sup>10</sup> Stromberg v. California, 283 U. S. 359 (1931), cited in Griswold, op. cit., p. 730. The Court held that a California statute banning display of any flag as a symbol of opposition to organized government was inconsistent with the right of free speech as guaranteed under the First and Fourteenth Amendments. For a perceptive discussion of constitutional protections afforded and denied nonspeech acts, see Louis Henkin in Harvard Law Review, 82 (1968), 76–82; also Fred P. Graham, 'Is It Action or "Symbolic Speech"?,' The New York Times, June 2, 1968, p. E5; and Note, 'Symbolic Conduct,' Columbia Law Review, 68 (1968), 1091–126.
+10 Stromberg v. California, 283 U. S. 359 (1931), cited in Griswold, op. cit., p. 730. The Court held that a California statute banning display of any flag as a symbol of opposition to organized government was inconsistent with the right of free speech as guaranteed under the First and Fourteenth Amendments. For a perceptive discussion of constitutional protections afforded and denied nonspeech acts, see Louis Henkin in Harvard Law Review, 82 (1968), 76–82; also Fred P. Graham, 'Is It Action or "Symbolic Speech"?,' The New York Times, June 2, 1968, p. E5; and Note, 'Symbolic Conduct,' Columbia Law Review, 68 (1968), 1091–126.
 
 - (2) The sole excuse for civil disobedience in a constitutional democracy is as an ingredient in securing judicial review of the constitutionality or validity of a given law thought to be unjust or otherwise objectionable. But where the law broken is not the law protested, even the invalidity or unconstitutionality of the latter will not excuse the conduct in violation of the former, because there is no logical or legal relation between the two laws (F, 16).
 - (3) Indirect civil disobedience is always an 'act of rebellion, not merely of dissent' (F, 63). But rebellion cannot be justified in a constitutional democracy 'so long as our government obeys the mandate of the constitution' and provides full 'facility and protection' for dissent within the law. Therefore, indirect civil disobedience 'is never justified in our nation' (F, 63).
 - (4) Any justification of indirect civil disobedience will also justify social chaos, but this is a reductio ad absurdum; therefore indirect civil disobedience cannot be justified. Put somewhat less abruptly, there is no logical limit to the laws someone might choose to break in the name of protesting a given injustice inaccessible to his direct protest. Some such acts would clearly be absurd, e.g., refusing to obey an eviction notice in New York in May 1969 in order to protest the execution of Sacco and Vanzetti in Massachusetts in August 1927 (a hypothetical case), or obstructing traffic at the rush hour on a major metropolitan thoroughfare in order to protest discriminatory hiring practices by a city-sponsored consessionaire some miles away (an actual case, the Triborough Bridge 'stall-in' of 1964). Since there is no logical way to distinguish the plainly absurd cases from the other cases, civil disobedience of this sort must be categorically unjustified. It is impossible to 'distinguish in principle the legal quality of the determination to halt a troop train to protest the Vietnam war or to block workmen from entering a segregated job site to protest employment discrimination, from the determination to fire shots into a civil rights leader's home to protest integration' (G, 733–34).
 - (5) If the purpose of civil disobedience is primarily an 'educative' one,11 and if mass civil disobedience especially is typically an 'important effort at communication,'12 then indirect civil
 
-<sup>11</sup> Richard Wasserstrom, in Civil Disobedience (Santa Barbara: Center for the Study of Democratic Institutions, 1966), p. 18.
+11 Richard Wasserstrom, in Civil Disobedience (Santa Barbara: Center for the Study of Democratic Institutions, 1966), p. 18.
 
 - disobedience fails to accomplish this purpose, or fails to accomplish it sufficiently well, given its failure to affect directly the injustice being protested and the confusion and other harm it causes. Such acts convey a mixed message, which is precisely what good propaganda should not do.
 - (6) Personal responsibility for injustice, such as there is anything of this sort at all, is sufficiently met by playing one's full part within the existing political and legal system, with its constitutional provisions for minority rights, and without breaking any laws not themselves the object of protest as unjust, in order to obtain a government which will undo by exercise of its constitutional powers whatever injustices its predecessor may have perpetrated or perpetuated (G, 729).
@@ -665,7 +674,7 @@ III. By what arguments, by appeal to what principles, does the Fortas–Griswold
 
 These arguments are of distinctly uneven merit, save that all are alike in being unsound; their errors, however, are of varied interest and significance. In (1), the factual premise as to interference with the liberties or safety of others is simply false, even if it is true in some cases. Nor is it persuasive that what the Constitution cannot justify (or what the Justices will not read as the meaning of the Constitution) settles the question of justification, barring prior proof that the Constitution itself is truly just. The argument in (2) simply relies on an arbitrary assumption, and moreover one which the Supreme Court has elsewhere already eroded, notably in many of the Civil Rights cases of the early 1960s. The claim of rebellion in argument (3) is simply gratuitous, false, and questionbegging. The argument in (4) is the product of willful and culpable blindness to distinctions (between violence and nonviolence, between risk of harm to others and risk of harm to oneself) which not only a philosopher should be able to see. Along these lines, and no doubt others, a thorough refutation of the first four of the above arguments can be advanced, and I forbear any further development of these counter-arguments out of the desire not to
 
-<sup>12</sup> Harris Wofford, Jr., as quoted in The New York Times, August 11, 1968, p. E 11.
+12 Harris Wofford, Jr., as quoted in The New York Times, August 11, 1968, p. E 11.
 
 belabor the obvious and from residual qualms that I may have misunderstood Fortas and Griswold. Argument (5) is not one of their arguments, but it is much in the air today; it has its point, but it cannot suffice to provide sweeping and universal condemnation of indirect civil disobedience. This leaves arguments (6) and (7) for closer study, and I intend to devote the rest of the paper to examining them. Instead, however, of any further quarrel directly with these two arguments and with the Fortas–Griswold theory,13 I shall turn to an explication and interpretation of their opponents' position, so far as I understand it, and insofar as it rests upon the principle I have called Thoreau's Principle, a principle of doubtful clarity and plausibility.
 
@@ -699,9 +708,9 @@ One might argue that it is only by paying taxes that a person satisfies the memb
 
 (6) If an individual pays taxes, knowing how they have been spent and will be spent, he becomes responsible for whatever are the deliberate acts on behalf of which those taxes are levied, collected, and spent. (Never mind that he is under
 
-<sup>14</sup> The phrase is from Russell Grice, The Grounds of Moral Judgment (Cambridge University Press, 1967), pp. 36, 155ff.
+14 The phrase is from Russell Grice, The Grounds of Moral Judgment (Cambridge University Press, 1967), pp. 36, 155ff.
 
-<sup>15</sup> The New York Times, May 26, 1969, p. 8.
+15 The New York Times, May 26, 1969, p. 8.
 
 a legal obligation to pay the taxes, i.e., they are not his voluntary contribution to defray his share of the costs of government.)
 
@@ -711,7 +720,7 @@ Thoreau makes much of the way payment of taxes signifies 'allegiance' to governm
 
 Now (7) is not only a more elaborate version of (5); it expresses Thoreau's Principle insofar as it is a principle of nonstrict partial individual vicarious responsibility with fault. It is not to be supposed, of course, that this principle is a principle of legal fault, that is, that someone of whom (7) is true is to be held legally accountable and liable for criminal punishment or civil damages. This is no objection to (7), however, as a sound principle of moral responsibility or as one actually held by Thoreau and others.17 Furthermore,
 
-<sup>16</sup> Thoreau, op. cit., p. 145.
+16 Thoreau, op. cit., p. 145.
 
 although tax paying is a specially vivid sort of act in virtue of which a person could become responsible under (7), (7) is sufficiently broad so that other acts, too, could have this consequence; e.g., voting to re-elect a government, or accepting appointment in the government, could be construed as fulfilling these conditions.
 
@@ -723,11 +732,11 @@ The rest of Thoreau's Principle, which is admonitory or injunctive in character,
 
 Thoreau remarks, 'If the injustice is part of the necessary friction of the machine of government, let it go, let it go . . . but if it is of such a nature that it requires you to be the agent of injustice to another, then I say, break the law.'19 This passage, better than any other, shows us that Thoreau's justification of
 
-<sup>17</sup> The degree to which principles such as (4)–(7) depart from those whereby partial responsibility and criminal liability are established may be gauged from consulting Glanville Williams, Criminal Law: The General Part, 2nd edn (London: Stevens & Sons, 1961). For a recent discussion of both collective and distributive legal and moral responsibility, but with no defense of Thoreauvian principles, see Joel Feinberg, 'Collective Responsibility,' Journal of Philosophy, 45 (1968), 674– 88. Although it is not addressed to the justification of civil disobedience, nor usefully applicable to that subject, the line of argument used by Karl Jaspers in his The Question of German Guilt (New York: Capricorn Books, 1961), has some interesting contrasts with Thoreauvian reasoning as I reconstruct it. This is especially true of Jaspers' 'Scheme of Distinctions' (pp. 31–46), in which ordinary 'criminal' guilt is contrasted progressively with 'political', 'moral', and 'metaphysical' guilt. None of these notions of 'guilt' quite coincides with the fault which results from (4)–(7).
+17 The degree to which principles such as (4)–(7) depart from those whereby partial responsibility and criminal liability are established may be gauged from consulting Glanville Williams, Criminal Law: The General Part, 2nd edn (London: Stevens & Sons, 1961). For a recent discussion of both collective and distributive legal and moral responsibility, but with no defense of Thoreauvian principles, see Joel Feinberg, 'Collective Responsibility,' Journal of Philosophy, 45 (1968), 674– 88. Although it is not addressed to the justification of civil disobedience, nor usefully applicable to that subject, the line of argument used by Karl Jaspers in his The Question of German Guilt (New York: Capricorn Books, 1961), has some interesting contrasts with Thoreauvian reasoning as I reconstruct it. This is especially true of Jaspers' 'Scheme of Distinctions' (pp. 31–46), in which ordinary 'criminal' guilt is contrasted progressively with 'political', 'moral', and 'metaphysical' guilt. None of these notions of 'guilt' quite coincides with the fault which results from (4)–(7).
 
-<sup>18</sup> See Hart, op. cit., p. 223.
+18 See Hart, op. cit., p. 223.
 
-<sup>19</sup> Thoreau, op. cit., p. 134.
+19 Thoreau, op. cit., p. 134.
 
 tax withholding turns out to depend on showing that tax paying is a form of agency responsibility after all, albeit a remote and indirect one.
 
@@ -871,7 +880,7 @@ I will consider civil disobedience in the context of the Negro movement. This ha
 
 According to King, the Negro found in the doctrine of nonviolent resistance a practical and a moral answer to his centuries-old cry for justice. Decades of patient submission had produced no acceptable results; yet a resort to violence was practically and morally out of the question. Direct nonviolent resistance permits the Negro to move positively to foster a crisis and thus to expose a cleavage which his former passivity had helped to conceal.1 By actively refusing to cooperate with an unjust system – the injustice, say, of segregated lunch counters – and at the same
 
-<sup>1</sup> Martin Luther King, Jr Stride Toward Freedom (New York: Harper & Brothers, 1958), pp. 193–4; Why We Can't Wait (New York: New American Library Signet Book, 1964), p. 79.
+1 Martin Luther King, Jr Stride Toward Freedom (New York: Harper & Brothers, 1958), pp. 193–4; Why We Can't Wait (New York: New American Library Signet Book, 1964), p. 79.
 
 #### Herbert J. Storing time by turning the other cheek to the violence that his resistance stimulates, the Negro wields a sword far more effective than violence could ever be. Large-scale non-cooperation calls attention to the unjust system and strains its facilities. The demonstrators' failure to resist the billy club and the fire hose underlines the difference between oppressor and oppressed. Nonviolent resistance is the sword that heals. It ennobles its user and cuts without wounding. Loving the oppressor while standing nonviolently against the unjust system of segregation, the demonstrator turns his enemy into a friend, thus doubly contributing to the ultimate end, integration, which is 'genuine intergroup and interpersonal living' or 'total interrelatedness.'2
 
@@ -879,11 +888,11 @@ One of the sharpest and most penetrating attacks on King's nonviolent resistance
 
 Many moderates in the Civil Rights Movement, while rejecting the most extreme statements of men like Malcolm X and Stokely Carmichael, also find themselves increasingly unwilling to defend the doctrine of nonviolent resistance. There has consequently been much discussion lately – often rather shallow discussion – about the limits of nonviolence and the forms, effectiveness, and justifiability of violence. But at a deeper level the tendency to reject the nonviolent part of King's teaching derives from a taking seriously of the revolutionary part of that teaching.
 
-<sup>2</sup> Stride Toward Freedom, p. 220; Why We Can't Wait, p. 152.
+2 Stride Toward Freedom, p. 220; Why We Can't Wait, p. 152.
 
-<sup>3</sup> George Brietman (ed.), Malcolm X Speaks (New York: Grove Press, Inc., 1966), p. 12.
+3 George Brietman (ed.), Malcolm X Speaks (New York: Grove Press, Inc., 1966), p. 12.
 
-<sup>4</sup> ibid., pp. 33–4.
+4 ibid., pp. 33–4.
 
 King frequently spoke of the Negro Revolution, the third American revolution; and in former times, at least, he adopted the revolutionary's uncompromising rejection of politics as usual. Scorning 'moderate' contentions that the Negro demonstrations in Birmingham in 1963 were ill-timed, King asserted 'that it was ridiculous to speak of timing when the clock of history showed that the Negro had already suffered one hundred years of delay.' 'Gradualism and moderation are not the answer to the great moral indictment which, in the Revolution of 1963, finally came to stand in the center of our national stage.' The Negro wants 'absolute and immediate freedom and equality . . . right here in this land today. . . . Negroes no longer are tolerant of or interested in compromise. . . . In the bursting mood that has overtaken the Negro in 1963, the word "compromise" is profane and pernicious.'5 In the words of SNCC chairman, John Lewis, in 1963, 'the revolution is at hand, and we must free ourselves of the chains of political and economic slavery. . . . To those who have said "Be Patient and Wait," we must say that "Patience is a dirty and nasty word."'6
 
@@ -891,17 +900,17 @@ Perhaps all this is only the exaggeration of the partisan, legitimate in times w
 
 Malcolm X rejected nonviolence in the name of the truly revolutionary character of the Negro movement: 'There's no such thing as a nonviolent revolution. . . .' 'Revolution is bloody, revolution is hostile, revolution knows no compromise, revolution overturns and destroys everything that gets in its way.' 'These
 
-<sup>5</sup> Why We Can't Wait, pp. 66, 128, 131.
+5 Why We Can't Wait, pp. 66, 128, 131.
 
-<sup>6</sup> John Lewis, 'Speech at March on Washington, 1963,' Staughton Lynd (ed.), Nonviolence in America: A Documentary History (Indianapolis: Bobbs-Merrill, 1966), p. 484.
+6 John Lewis, 'Speech at March on Washington, 1963,' Staughton Lynd (ed.), Nonviolence in America: A Documentary History (Indianapolis: Bobbs-Merrill, 1966), p. 484.
 
-<sup>7</sup> Why We Can't Wait, p. 119.
+7 Why We Can't Wait, p. 119.
 
 Negroes aren't asking for any nation – they're trying to crawl back on the plantation.' 'Revolution is always based on land. Revolution is never based on begging somebody for an integrated cup of coffee. Revolutions are never fought by turning the other cheek. Revolutions are never based upon love-your-enemy and pray-for-those-who-spitefully-use-you. And revolutions are never waged singing "We Shall Overcome." Revolutions are based upon bloodshed. Revolutions are never compromising. Revolutions are never based upon negotiations. Revolutions are never based upon any kind of tokenism whatsoever. Revolutions are never based upon that which is begging a corrupt society or a corrupt system to accept us into it. Revolutions overturn systems. And there is no system on this earth which has proven itself more corrupt, more criminal, than this system that in 1964 still colonizes 22 million African-Americans, still enslaves 22 million Africo-Americans.'8
 
 Malcolm urged that Negroes take seriously the idea of revolution, so loosely used by King. He tested King's moderation against King's extremism; and he found that moderation weak, false, and untenable. Although the assassin's bullet prevented Malcolm from concluding his reflections on the character of the Negro revolution and on the means open to the Negro to overturn the American system or abandon it, he was remarkably successful in exposing the revolutionary side – the system-over-turning, violent side – of nonviolent resistance. It will be part of the business of the immediate future to explore the fundamental questions raised by the radical versions of black power and black nationalism. There are questions of ends. Is the problem simply that whites have power and blacks do not? Or is there some fundamental and ineradicable injustice in the American system? If the latter, is that injustice essentially the 'racism' now officially acknowledged, or is it a deeper defect, such as a preoccupation with material comfort and a lessening of concern for the 'human values'? What are the valued and valuable characteristics of the Negro? Have they grown out of his heroic resistance to and survival under oppression? Are they of African derivation? What will be the character of the new society? There are also questions of means. Is the future to be sought in separation? In some form of internal 'separation'? What are the possible modes and
 
-<sup>8</sup> Malcolm X Speaks, pp. 9–10, 50.
+8 Malcolm X Speaks, pp. 9–10, 50.
 
 outcomes of revolutionary action by Negroes within the United States? Of violent confrontation? There are many fundamental questions raised if a Negro revolution is taken seriously, but civil disobedience is not one of them. If what is called for is revolution, civil disobedience is at most a mere tactic, of no more independent significance as a principle and of no greater moral or political stature than the tactics of guerrilla warfare, boycott, and sabotage.
 
@@ -909,25 +918,25 @@ Granting, however, that the most strident voices of the Negro movement today rej
 
 One of the striking characteristics of Martin Luther King's doctrine, a characteristic that it seems to share with other versions of civil disobedience, is the extent to which this crucial distinction is obscured. In Stride Toward Freedom, King described his concern when the impending 1955 boycott against segregated busses in Montgomery, Alabama, was likened to the White Citizens' Councils' resistance to school desegregation. Reflecting on the differences between these cases and on the teachings of Thoreau, King said, 'Something began to say to me, "He who passively accepts evil is as much involved in it as he who helps to perpetrate it. He who accepts evil without protesting against it is really cooperating with it."'9 King's major statement of civil disobedience is his famous 'Letter from Birmingham City Jail,' written in 1963, in which he replies to those who ask how Negroes can urge others to obey the 1954 school desegregation decision while themselves breaking laws.10 'The answer lies in the fact that there are two
 
-<sup>9</sup> Stride Toward Freedom, p. 51; cf. p. 212.
+9 Stride Toward Freedom, p. 51; cf. p. 212.
 
-<sup>10</sup> The 'Letter from Birmingham City Jail' is printed in Why We Can't Wait, pp. 76–95; [it is reprinted in this volume, pp. 68–84].
+10 The 'Letter from Birmingham City Jail' is printed in Why We Can't Wait, pp. 76–95; [it is reprinted in this volume, pp. 68–84].
 
 #### Herbert J. Storing types of laws; just and unjust. I would be the first to advocate obeying just laws.' King goes on to provide some rules of thumb for distinguishing just from unjust laws (to which we shall return), and he concedes that some respect is due to law per se. 'In no sense do I advocate evading or defying the law, as would the rabid segregationist. That would lead to anarchy. One who breaks an unjust law must do so openly, lovingly, and with a willingness to accept the penalty.' He argues 'that an individual who breaks a law that conscience tells him is unjust, and who willingly accepts the penalty of imprisonment in order to arouse the conscience of the community over its injustice, is in reality expressing the highest respect for law.' Indeed, such behavior is not only permitted but demanded. 'We must learn that passively to accept an unjust system is to cooperate with that system, and thereby to become a participant in its evil.' 'To cooperate passively with an unjust system makes the oppressed as evil as the oppressor.'11
 
 There are several issues here that deserve to be sorted out and considered. First is the problem of discovering justice, which is the aim and the test of law. King, unlike some other advocates of nonviolent resistance, adheres to the view that there are just and unjust laws, and that this distinction is not merely a matter of personal preference. Individual 'conscience' is, for him, not merely personal but directed by a cosmic guide towards the truly just. The foundation of civil disobedience must be, in King's view, not mere 'feeling' or 'commitment', but justice. Yet King's discussion of justice is exceedingly loose. The heart of his definition is that 'Any law that uplifts human personality is just. Any law that degrades human personality is unjust. All segregation statutes are unjust because segregation distorts the soul and damages the personality.'12 As John Lewis said, 'segregation is evil and . . . it must be destroyed in all forms.'13 Now it is becoming
 
-<sup>11</sup> ibid., pp. 61–77; Martin Luther King, Strength To Love (New York: Harper & Row, 1963), pp. 6, 83; cf. Stride Toward Freedom, p. 212.
+11 ibid., pp. 61–77; Martin Luther King, Strength To Love (New York: Harper & Row, 1963), pp. 6, 83; cf. Stride Toward Freedom, p. 212.
 
-<sup>12</sup> In his 'Letter from Birmingham City Jail,' King suggests two other 'examples' of unjust laws – when a majority inflicts on a minority a code that is not binding on itself, or when a code is inflicted on a minority which the minority had no part in enacting because not permitted to vote. The latter is important but insufficient, since King would not confine unjust laws to those adopted without the participation of some minority. The former is a simple statement of the extremely complex 'equal protection' problem that has so vexed the courts and takes on substance only when seen in the light of King's view of the injustice of racial segregation.
+12 In his 'Letter from Birmingham City Jail,' King suggests two other 'examples' of unjust laws – when a majority inflicts on a minority a code that is not binding on itself, or when a code is inflicted on a minority which the minority had no part in enacting because not permitted to vote. The latter is important but insufficient, since King would not confine unjust laws to those adopted without the participation of some minority. The former is a simple statement of the extremely complex 'equal protection' problem that has so vexed the courts and takes on substance only when seen in the light of King's view of the injustice of racial segregation.
 
-<sup>13</sup> Lynd (ed.), Nonviolence in America, p. 483.
+13 Lynd (ed.), Nonviolence in America, p. 483.
 
 increasingly clear to growing numbers of people that segregation is not always and under all circumstances unjust, that the assimilationist test by which King judged race relations is inadequate if not false, and that the questions of what it means to 'uplift the human personality' and how that can be done are a good deal more complicated than they appeared to King in the context of legally segregated southern cities. The growing reaction against nonviolent resistance includes a more or less emphatic rejection of the assimilationist end. For our present purpose, however, the important point is that to the extent that the demands of justice are obscure the ground for civil disobedience is weakened and the need for political deliberation and political working out of the answers is strengthened.
 
 A second issue is whether even an open and loving breaking of the law with a willingness to accept the penalty does not constitute or lead to a defiance of the law and whether it would not on any substantial scale lead to anarchy.14 An open refusal to obey an unjust law shows the highest respect for law in the same way that an open insult to a degraded woman, with a willingness to be slapped for the insult, shows the highest respect for womanhood. Our usual view, however, is that we owe respect to the law as law, to women as women, even when they do not in fact exhibit the traits we respect them for. We think that those traits are strengthened by our acting on the presumption of their presence, even when they are not present. This is not the whole story, obviously, and there are circumstances where the rule does not apply. But do we not treat the respectable qualities as the rule because we want to maintain them as the rule, and do we not carefully identify and circumscribe the exceptions in order to help maintain their exceptional character? Do we not, as beneficiaries of the law, have an interest in having the law obeyed even where there is disagreement about its justice? Do we not benefit from a community of law-abiding men? Are we seriously prepared to say, with Thoreau, 'For my own part, I should not
 
-<sup>14</sup> Consider the reasonable, if perhaps rather strict, rule of CORE: 'When in an action project, a CORE member will obey the order issued by the authorized leader or spokesman of the project, whether these orders please him or not. If he does not approve of such orders, he shall later refer the criticism back to the group or to the committee which was the source of the project plan.' Francis Broderick and August Meier (eds.), Negro Protest Thought in the Twentieth Century (Indianapolis: Bobbs-Merrill Co., 1965), p. 302.
+14 Consider the reasonable, if perhaps rather strict, rule of CORE: 'When in an action project, a CORE member will obey the order issued by the authorized leader or spokesman of the project, whether these orders please him or not. If he does not approve of such orders, he shall later refer the criticism back to the group or to the committee which was the source of the project plan.' Francis Broderick and August Meier (eds.), Negro Protest Thought in the Twentieth Century (Indianapolis: Bobbs-Merrill Co., 1965), p. 302.
 
 #### Herbert J. Storing like to think that I ever rely on the protection of the State'?15 The advocates of civil disobedience contend that we are protected from these dangers to the law by the practical and moral consequences of the rule that the lawbreaker must act openly and with a willingness to accept the punishment. But are we so sure that we can enforce this rule, as the teaching of disobedience extends through the populace, especially the desperately poor, the degraded, and the bitter? Despite some outstanding successes in limited areas under special circumstances, I think it is now clear – as it should have been from the beginning – that the broad result of the propagation of civil disobedience is disobedience. The question then becomes whether the encouragement of disobedience endangers law and civil society, and the answer seems clear enough today, if it was ever in doubt, that it does.
 
@@ -935,7 +944,7 @@ Indeed, why should the breaker of an unjust law do so 'openly, lovingly and with
 
 We should never forget that everything Adolf Hitler did in Germany was 'legal' and everything the Hungarian freedom fighters did in Hungary was 'illegal'. It was 'illegal' to aid and comfort a Jew in Hitler's Germany. Even so, I am sure that, had I lived in Germany at the time, I would have aided and comforted my Jewish brothers. If today I lived in a Communist country where certain principles dear to the Christian faith are suppressed, I would openly advocate disobeying that country's antireligious laws.16
 
-<sup>15</sup> Henry David Thoreau, 'Civil Disobedience', this volume, p. 39.
+15 Henry David Thoreau, 'Civil Disobedience', this volume, p. 39.
 
 But would King have openly aided and comforted Jews in Hitler's Germany? Precious few Jews he would have aided! Would he openly advocate disobeying the antireligious laws of a Communist country at the price of leaving his and other Christian flocks untended? And would he – ought he to? – disobey the laws of Hitler's Germany lovingly? Is he obliged to show his respect for 'law' in general by willingly accepting the punishment imposed by the 'laws' of that regime? The extension of the principles of civil disobedience to such cases makes a mockery of law and justice.
 
@@ -949,9 +958,9 @@ If the injustice is part of the necessary friction of the machine of government,
 
 But the distinction manifestly breaks down (as Thoreau virtually concedes later in the essay)18 once one recognizes the obvious fact of the interdependence of the parts of a political system. The nexus of taxes, the specific ground of Thoreau's disobedience, connects every man with every wrong (as well as every right) done by the state. And if a man pays no tax – and is so consistent as to permit no one to pay it for him – he would still be connected by commerce or civil intercourse. If the lesson of civil disobedience is to become in nowise the agent of injustice, the result is revolution against this government, both in Thoreau's time and ours, and against every government I have read of or heard of. That does indeed seem to be the drift of this hero of civil disobedience, who milked so much out of one night in jail. 'Under a government which imprisons any unjustly, the true place for a just man is also in prison.' King never expressed himself quite so foolishly. But if, on the other hand, the advocates of civil disobedience are to be understood to say not that one must never in any way contribute to injustice but that one should consider whether he is, through his cooperation or compromise with a given political system, the instrument of too much injustice in comparison with
 
-<sup>17</sup> Thoreau, 'Civil Disobedience' this volume, p. 39.
+17 Thoreau, 'Civil Disobedience' this volume, p. 39.
 
-<sup>18 &#</sup>x27;In fact, I quietly declare war with the State, after my fashion, though I will still make what use and get what advantage of her as I can, as is usual in such cases.'
+18 &#x27;In fact, I quietly declare war with the State, after my fashion, though I will still make what use and get what advantage of her as I can, as is usual in such cases.'
 
 the good that his cooperation does, then he has begun – barely begun – to think and act politically, which is to say, beyond civil disobedience. [. . .]
 
@@ -967,7 +976,7 @@ This is obviously an attractive idea. Civil disobedience may at last find solid 
 
 Law – our law at any rate – is not merely command, but is it not that in the first place? Wofford argues that 'implicit in each law is the alternative of obedience or of respectful civil disobedience and full acceptance of the consequences.'21 It is difficult to take seriously the suggestion that the law intends to offer the 'option' of civil disobedience. The law does not present itself in the form of an either-or proposition. It is in the form of a command that men behave in a certain way, with a penalty attached as punishment if the command is disobeyed. If, on the other hand, Wofford means merely to describe the alternatives that are 'implicit' in the sense of logically consistent, then the statement is too narrow, for secretive disobedience, avoidance, and violent rejection are also implicit in this sense. So far as enforcement is concerned, we may recall that the American Founders had experienced, under the Articles of Confederation, a system of law that attempted to dispense with sanctions, penalties, or punishments for disobedience; and they learned that such laws amount in fact 'to nothing more than advice or recommendation.' Law does not address itself merely to the reason. It is precisely 'because the passions of men will not conform to the dictates of reason and justice without constraint' that government is necessary.22 Moreover, the law rests on and encourages habitual law-abidingness, the 'taking for granted' of the justice of the law and its title to obedience. If mere habituation threatens freedom, sound habituation provides its necessary foundation. The man who seeks his freedom in a resistance to law as law will find instead anarchy or, more likely, paralysis. It is only through command, enforcement, and habituation that the law of the liberal regime performs one of its most admired
 
-<sup>21</sup> The Journal of Religious Thought, Autumn-Winter, 1957–8, p. 31. 22 The Federalist, no. 15.
+21 The Journal of Religious Thought, Autumn-Winter, 1957–8, p. 31. 22 The Federalist, no. 15.
 
 functions, to provide the basis for political deliberation and political education.
 
@@ -985,21 +994,21 @@ How shall we turn the ghettos into a vast school? How shall we make every street
 
 This political and social action by the Negro will be, in the first place, in pursuit of his own immediate needs and interests.
 
-<sup>23</sup> Commentary, February, 1965; in Broderick and Meier (eds.), Negro Protest Thought in the Twentieth Century, p. 407.
+23 Commentary, February, 1965; in Broderick and Meier (eds.), Negro Protest Thought in the Twentieth Century, p. 407.
 
-<sup>24</sup> Martin Luther King, Where Do We Go From Here, Chaos or Community? (Boston: Beacon Press, 1967), p. 137. 25 ibid., pp. 138, 156.
+24 Martin Luther King, Where Do We Go From Here, Chaos or Community? (Boston: Beacon Press, 1967), p. 137. 25 ibid., pp. 138, 156.
 
 'We can no longer rely on pressuring and cajoling political units toward desired actions,' James Farmer has said. 'We must be in a position of power, a position to change these political units when they are not responsive. The only way to achieve political objectives is through power, political power.'26 This is the beginning of democratic politics. There is not yet much evidence among major Negro leaders of the understanding that a Frederick Douglass had of an Abraham Lincoln. (There may, it must be conceded, be more than one reason for that.) The emphasis that even the moderates place upon power is a sign, not only of their rhetorical problem in the face of a radical challenge, but also of the relatively narrow view they take of citizenship and political leadership. But the decent pursuit of self-interest through politics is, in the American system of ruling and being ruled, the beginning from which the subject of the law is stimulated and guided, through alliances and bargaining and compromises, to something like the comprehensive view of the true citizen. In such citizenship, as King suggests, lies not only a power but a dignity surpassing anything accessible through the mere subject's tactics of civil disobedience.
 
 The circumstances of the Negro in America, under slavery and after the Civil War, taught Frederick Douglass a lesson which many whites at that time and many whites and blacks today have forgotten: that a fundamentally decent and just civil society, in which men are protected and encouraged in the pursuit of happiness, is a rare and precious thing. Not so rare and precious that it cannot be vigorously used, changed, and improved. American civil society is robust enough to take a good deal of mauling – that is one of its rare and precious qualities. The advocates of civil disobedience are surely right in asserting that American society can tolerate and be improved by vigorous criticism and dissent. Accepting the fundamental soundness of the American political system, its capacity to do justice, does not require any lessening in the energy directed toward the huge imperfections that this system suffers. It does require that that soundness, that capacity to do justice, be taken as the first principle of
 
-<sup>26</sup> James Farmer, 'Annual Report to the CORE National Convention,' July 1, 1965; Broderick and Meier (eds.) Negro Protest Thought in the Twentieth Century, p. 425. See also James Farmer, 'Civil Disobedience and Beyond,' in Robert A. Goldwin (ed.), On Civil Disobedience: Essays Old and New, (Chicago, IL.: Rand Mc Nally, 1969), pp. 133–45.
+26 James Farmer, 'Annual Report to the CORE National Convention,' July 1, 1965; Broderick and Meier (eds.) Negro Protest Thought in the Twentieth Century, p. 425. See also James Farmer, 'Civil Disobedience and Beyond,' in Robert A. Goldwin (ed.), On Civil Disobedience: Essays Old and New, (Chicago, IL.: Rand Mc Nally, 1969), pp. 133–45.
 
 #### Herbert J. Storing political reason and political action. No action can be well taken, no words wisely spoken, except in reference to that first principle.
 
 Let it be granted that the injunction to 'obey the law merely because it is a law' is not a sufficient principle of political action or of political duty – though, in all conscience, it seems to come closer than an injunction not to obey the law merely because it is a law. Injustice can be protested and private conscience gratified from a protest march or a jail cell, but the positive demands of justice cannot be served there. What Frederick Douglass once said of the uncompromising abolitionism of men like Garrison and Thoreau may be said today of civil disobedience: 'As a mere expression of abhorrence' of injustice, 'the sentiment is a good one; but it expresses no intelligible principle of action, and throws no light on the pathway of duty.'27
 
-<sup>27</sup> Life and Writings of Frederick Douglass, Philip S. Foner (ed.) (New York: International Publishers, 1950), Vol. II, p. 351.
+27 Life and Writings of Frederick Douglass, Philip S. Foner (ed.) (New York: International Publishers, 1950), Vol. II, p. 351.
 
 # DEFINITION AND JUSTIFICATION OF CIVIL DISOBEDIENCE
 
@@ -1019,11 +1028,11 @@ Before I take up these matters, a word of caution. We should not expect too much
 
 I shall begin by defining civil disobedience as a public, nonviolent, conscientious yet political act contrary to law usually done with the aim of bringing about a change in the law or policies of the
 
-<sup>1</sup> Here I follow H. A. Bedau's definition of civil disobedience. See his 'On Civil Disobedience,' Journal of Philosophy, vol. 58 (1961), pp. 653–61. It should be noted that this definition is narrower than the meaning suggested by Thoreau's essay [. . .]. A statement of a similar view is found in Martin Luther King's 'Letter from Birmingham City Jail' (1963), reprinted in H. A. Bedau (ed.), Civil Disobedience (New York: Pegasus, 1969), pp. 72–89. The theory of civil disobedience in the text tries to set this sort of conception into a wider framework. Some recent writers have also defined civil disobedience more broadly. For example, Howard Zinn, Disobedience and Democracy (New York: Random House, 1968), pp. 119f, defines it as 'the deliberate, discriminate violation of law for a vital social purpose. ' I am concerned with a more restricted notion. I do not government.1 By acting in this way one addresses the sense of justice of the majority of the community and declares that in one's considered opinion the principles of social cooperation among free and equal men are not being respected. A preliminary gloss on this definition is that it does not require that the civilly disobedient act breach the same law that is being protested.2 It allows for what some have called indirect as well as direct civil disobedience. And this a definition should do, as there are sometimes strong reasons for not infringing on the law or policy held to be unjust. Instead, one may disobey traffic ordinances or laws of trespass as a way of presenting one's case. Thus, if the government enacts a vague and harsh statute against treason, it would not be appropriate to commit treason as a way of objecting to it, and in any event, the penalty might be far more than one should reasonably be ready to accept. In other cases there is no way to violate the government's policy directly, as when it concerns foreign affairs, or affects another part of the country. A second gloss is that the civilly disobedient act is indeed thought to be contrary to law, at least in the sense that those engaged in it are not simply presenting a test case for a constitutional decision; they are prepared to oppose the statute even if it should be upheld. To be sure, in a constitutional regime, the courts may finally side with the dissenters and declare the law or policy objected to unconstitutional. It often happens, then, that there is some uncertainty as to whether the dissenters' action will be held illegal or not. But this is merely a complicating element. Those who use civil disobedience to protest unjust laws are not prepared to desist should the courts eventually disagree with them, however pleased they might have been with the opposite decision.
+1 Here I follow H. A. Bedau's definition of civil disobedience. See his 'On Civil Disobedience,' Journal of Philosophy, vol. 58 (1961), pp. 653–61. It should be noted that this definition is narrower than the meaning suggested by Thoreau's essay [. . .]. A statement of a similar view is found in Martin Luther King's 'Letter from Birmingham City Jail' (1963), reprinted in H. A. Bedau (ed.), Civil Disobedience (New York: Pegasus, 1969), pp. 72–89. The theory of civil disobedience in the text tries to set this sort of conception into a wider framework. Some recent writers have also defined civil disobedience more broadly. For example, Howard Zinn, Disobedience and Democracy (New York: Random House, 1968), pp. 119f, defines it as 'the deliberate, discriminate violation of law for a vital social purpose. ' I am concerned with a more restricted notion. I do not government.1 By acting in this way one addresses the sense of justice of the majority of the community and declares that in one's considered opinion the principles of social cooperation among free and equal men are not being respected. A preliminary gloss on this definition is that it does not require that the civilly disobedient act breach the same law that is being protested.2 It allows for what some have called indirect as well as direct civil disobedience. And this a definition should do, as there are sometimes strong reasons for not infringing on the law or policy held to be unjust. Instead, one may disobey traffic ordinances or laws of trespass as a way of presenting one's case. Thus, if the government enacts a vague and harsh statute against treason, it would not be appropriate to commit treason as a way of objecting to it, and in any event, the penalty might be far more than one should reasonably be ready to accept. In other cases there is no way to violate the government's policy directly, as when it concerns foreign affairs, or affects another part of the country. A second gloss is that the civilly disobedient act is indeed thought to be contrary to law, at least in the sense that those engaged in it are not simply presenting a test case for a constitutional decision; they are prepared to oppose the statute even if it should be upheld. To be sure, in a constitutional regime, the courts may finally side with the dissenters and declare the law or policy objected to unconstitutional. It often happens, then, that there is some uncertainty as to whether the dissenters' action will be held illegal or not. But this is merely a complicating element. Those who use civil disobedience to protest unjust laws are not prepared to desist should the courts eventually disagree with them, however pleased they might have been with the opposite decision.
 
 It should also be noted that civil disobedience is a political act not only in the sense that it is addressed to the majority that holds political power, but also because it is an act guided and justified by political principles, that is, by the principles of justice which regulate the constitution and social institutions generally. In justifying civil disobedience one does not appeal to principles of personal morality or to religious doctrines, though at all mean to say that only this form of dissent is ever justified in a democratic state.
 
-<sup>2</sup> This and the following gloss are from Marshall Cohen, 'Civil Disobedience in a Constitutional Democracy,' The Massachusetts Review, vol. 10 (1969), pp. 224–6, 218–21, respectively.
+2 This and the following gloss are from Marshall Cohen, 'Civil Disobedience in a Constitutional Democracy,' The Massachusetts Review, vol. 10 (1969), pp. 224–6, 218–21, respectively.
 
 these may coincide with and support one's claims; and it goes without saying that civil disobedience cannot be grounded solely on group or self-interest. Instead one invokes the commonly shared conception of justice that underlies the political order. It is assumed that in a reasonably just democratic regime there is a public conception of justice by reference to which citizens regulate their political affairs and interpret the constitution. The persistent and deliberate violation of the basic principles of this conception over any extended period of time, especially the infringement of the fundamental equal liberties, invites either submission or resistance. By engaging in civil disobedience a minority forces the majority to consider whether it wishes to have its actions construed in this way, or whether, in view of the common sense of justice, it wishes to acknowledge the legitimate claims of the minority.
 
@@ -1031,13 +1040,13 @@ A further point is that civil disobedience is a public act. Not only is it addre
 
 Civil disobedience is nonviolent for another reason. It expresses disobedience to law within the limits of fidelity to law, although it is at the outer edge thereof.3 The law is broken, but fidelity to law is expressed by the public and nonviolent nature of the act, by the willingness to accept the legal consequences of one's
 
-<sup>3</sup> For a fuller discussion of this point, see Charles Fried, 'Moral Causation,' Harvard Law Review, vol. 77 (1964), pp. 1268f. For clarification below of the notion of militant action, I am indebted to Gerald Loev.
+3 For a fuller discussion of this point, see Charles Fried, 'Moral Causation,' Harvard Law Review, vol. 77 (1964), pp. 1268f. For clarification below of the notion of militant action, I am indebted to Gerald Loev.
 
 conduct.4 This fidelity to law helps to establish to the majority that the act is indeed politically conscientious and sincere, and that it is intended to address the public's sense of justice. To be completely open and nonviolent is to give bond of one's sincerity, for it is not easy to convince another that one's acts are conscientious, or even to be sure of this before oneself. No doubt it is possible to imagine a legal system in which conscientious belief that the law is unjust is accepted as a defense for noncompliance. Men of great honesty with full confidence in one another might make such a system work. But as things are, such a scheme would presumably be unstable even in a state of near justice. We must pay a certain price to convince others that our actions have, in our carefully considered view, a sufficient moral basis in the political convictions of the community.
 
 Civil disobedience has been defined so that it falls between legal protest and the raising of test cases on the one side, and conscientious refusal and the various forms of resistance on the other. In this range of possibilities it stands for that form of dissent at the boundary of fidelity to law. Civil disobedience, so understood, is clearly distinct from militant action and obstruction; it is far removed from organized forcible resistance. The militant, for example, is much more deeply opposed to the existing political system. He does not accept it as one which is nearly just or reasonably so; he believes either that it departs widely from its professed principles or that it pursues a mistaken conception of justice altogether. While his action is conscientious in its own terms, he does not appeal to the sense of justice of the majority (or those having effective political power), since he thinks that their sense of justice is erroneous, or else without effect. Instead, he seeks by well-framed militant acts of disruption and resistance, and the like, to attack the prevalent view of justice or to force a movement in the desired direction. Thus the militant may try to evade the penalty, since he is not prepared
 
-<sup>4</sup> Those who define civil disobedience more broadly might not accept this description. See, for example, Zinn, Disobedience and Democracy, pp. 27–31, 39, 119f. Moreover he denies that civil disobedience need be nonviolent. Certainly one does not accept the punishment as right, that is, as deserved for an unjustified act. Rather one is willing to undergo the legal consequences for the sake of fidelity to law, which is a different matter. There is room for latitude here in that the definition allows that the charge may be contested in court, should this prove appropriate. But there comes a point beyond which dissent ceases to be civil disobedience as defined here.
+4 Those who define civil disobedience more broadly might not accept this description. See, for example, Zinn, Disobedience and Democracy, pp. 27–31, 39, 119f. Moreover he denies that civil disobedience need be nonviolent. Certainly one does not accept the punishment as right, that is, as deserved for an unjustified act. Rather one is willing to undergo the legal consequences for the sake of fidelity to law, which is a different matter. There is room for latitude here in that the definition allows that the charge may be contested in court, should this prove appropriate. But there comes a point beyond which dissent ceases to be civil disobedience as defined here.
 
 to accept the legal consequences of his violation of the law; this would not only be to play into the hands of forces that he believes cannot be trusted, but also to express a recognition of the legitimacy of the constitution to which he is opposed. In this sense militant action is not within the bounds of fidelity to law, but represents a more profound opposition to the legal order. The basic structure is thought to be so unjust or else to depart so widely from its own professed ideals that one must try to prepare the way for radical or even revolutionary change. And this is to be done by trying to arouse the public to an awareness of the fundamental reforms that need to be made. Now in certain circumstances militant action and other kinds of resistance are surely justified. I shall not, however, consider these cases. As I have said, my aim here is the limited one of defining a concept of civil disobedience and understanding its role in a nearly just constitutional regime.
 
@@ -1057,7 +1066,7 @@ The ideal solution from a theoretical point of view calls for a cooperative poli
 
 Certainly the situation envisaged is a special one, and it is quite possible that these sorts of considerations will not be a
 
-<sup>5</sup> For a discussion of the conditions when some fair arrangement is called for, see Kurt Baier, The Moral Point of View (Ithaca, NY: Cornell University Press, 1958), pp. 207–13; and David Lyons, Forms and Limits of Utilitarianism (Oxford: The Clarendon Press, 1965), pp. 160–76. Lyons gives an example of a fair rotation scheme and he also observes that (waiving costs of setting them up) such fair procedures may be reasonably efficient. See pp. 169–71. I accept the conclusions of his account, including his contention that the notion of fairness cannot be explained by assimilating it to utility, pp. 176f. The earlier discussion by C. D. Broad, 'On the Function of False Hypotheses in Ethics,' International Journal of Ethics, vol. 26 (1916), esp. pp. 385–90, should also be noted here.
+5 For a discussion of the conditions when some fair arrangement is called for, see Kurt Baier, The Moral Point of View (Ithaca, NY: Cornell University Press, 1958), pp. 207–13; and David Lyons, Forms and Limits of Utilitarianism (Oxford: The Clarendon Press, 1965), pp. 160–76. Lyons gives an example of a fair rotation scheme and he also observes that (waiving costs of setting them up) such fair procedures may be reasonably efficient. See pp. 169–71. I accept the conclusions of his account, including his contention that the notion of fairness cannot be explained by assimilating it to utility, pp. 176f. The earlier discussion by C. D. Broad, 'On the Function of False Hypotheses in Ethics,' International Journal of Ethics, vol. 26 (1916), esp. pp. 385–90, should also be noted here.
 
 bar to justified civil disobedience. There are not likely to be many groups similarly entitled to engage in this form of dissent while at the same time recognizing a duty to a just constitution. One should note, however, that an injured minority is tempted to believe its claims as strong as those of any other; and therefore even if the reasons that different groups have for engaging in civil disobedience are not equally compelling, it is often wise to presume that their claims are indistinguishable. Adopting this maxim, the circumstance imagined seems more likely to happen. This kind of case is also instructive in showing that the exercise of the right to dissent, like the exercise of rights generally, is sometimes limited by others having the very same right. Everyone's exercising this right would have deleterious consequences for all, and some equitable plan is called for.
 
@@ -1069,7 +1078,7 @@ Now in this account of the justification of civil disobedience I have not mentio
 
 The third aim of a theory of civil disobedience is to explain its role within a constitutional system and to account for its connection with a democratic polity. As always, I assume that the society in question is one that is nearly just; and this implies that it has
 
-<sup>6</sup> For a discussion of these obligations, see Michael Walzer, Obligations: Essays on Disobedience, War, and Citizenship (Cambridge MA: Harvard University Press, 1970), ch. III.
+6 For a discussion of these obligations, see Michael Walzer, Obligations: Essays on Disobedience, War, and Citizenship (Cambridge MA: Harvard University Press, 1970), ch. III.
 
 some form of democratic government, although serious injustices may nevertheless exist. In such a society I assume that the principles of justice are for the most part publicly recognized as the fundamental terms of willing cooperation among free and equal persons. By engaging in civil disobedience one intends, then, to address the sense of justice of the majority and to serve fair notice that in one's sincere and considered opinion the conditions of free cooperation are being violated. We are appealing to others to reconsider, to put themselves in our position, and to recognize that they cannot expect us to acquiesce indefinitely in the terms they impose upon us.
 
@@ -1081,7 +1090,7 @@ In a fuller account the same kind of explanation could presumably be given for t
 
 One distinction between medieval and modern constitutionalism is that in the former the supremacy of law was not secured by established institutional controls. The check to the ruler who in his judgments and edicts opposed the sense of justice of the community was limited for the most part to the right of resistance by the whole society, or any part. Even this right seems not to have been interpreted as a corporate act; an unjust king was simply put aside.7 Thus the Middle Ages lacked the basic ideas of modern constitutional government, the idea of the sovereign people who have final authority and the institutionalizing of this authority by means of elections and parliaments, and other constitutional forms. Now, in much the same way that the modern conception of constitutional government builds upon the medieval, the theory of civil
 
-<sup>7</sup> See J. H. Franklin (ed.), Constitutionalism and Resistance in the Sixteenth Century (New York: Pegasus, 1969), in the introduction, pp. 11–15.
+7 See J. H. Franklin (ed.), Constitutionalism and Resistance in the Sixteenth Century (New York: Pegasus, 1969), in the introduction, pp. 11–15.
 
 disobedience supplements the purely legal conception of constitutional democracy. It attempts to formulate the grounds upon which legitimate democratic authority may be dissented from in ways that while admittedly contrary to law nevertheless express a fidelity to law and appeal to the fundamental political principles of a democratic regime. Thus to the legal forms of constitutionalism one may adjoin certain modes of illegal protest that do not violate the aims of a democratic constitution in view of the principles by which such dissent is guided. I have tried to show how these principles can be accounted for by the contract doctrine.
 
@@ -1093,7 +1102,7 @@ There may be some misapprehension about the manner in which the sense of justice
 
 In these remarks I have assumed that in a nearly just society there is a public acceptance of the same principles of justice. Fortunately this assumption is stronger than necessary. There can, in fact, be considerable differences in citizens' conceptions of justice provided that these conceptions lead to similar political judgments. And this is possible, since different premises can
 
-<sup>8</sup> For a general discussion, see Ronald Dworkin, 'On Not Prosecuting Civil Disobedience,' The New York Review of Books, June 6, 1968.
+8 For a general discussion, see Ronald Dworkin, 'On Not Prosecuting Civil Disobedience,' The New York Review of Books, June 6, 1968.
 
 yield the same conclusion. In this case there exists what we may refer to as overlapping rather than strict consensus. In general, the overlapping of professed conceptions of justice suffices for civil disobedience to be a reasonable and prudent form of political dissent. Of course, this overlapping need not be perfect; it is enough that a condition of reciprocity is satisfied. Both sides must believe that however much their conceptions of justice differ, their views support the same judgment in the situation at hand, and would do so even should their respective positions be interchanged. Eventually, though, there comes a point beyond which the requisite agreement in judgment breaks down and society splits into more or less distinct parts that hold diverse opinions on fundamental political questions. In this case of strictly partitioned consensus, the basis for civil disobedience no longer obtains. For example, suppose those who do not believe in toleration, and who would not tolerate others had they the power, wish to protest their lesser liberty by appealing to the sense of justice of the majority which holds the principle of equal liberty. While those who accept this principle should, as we have seen, tolerate the intolerant as far as the safety of free institutions permits, they are likely to resent being reminded of this duty by the intolerant who would, if positions were switched, establish their own dominion. The majority is bound to feel that their allegiance to equal liberty is being exploited by others for unjust ends. This situation illustrates once again the fact that a common sense of justice is a great collective asset which requires the cooperation of many to maintain. The intolerant can be viewed as free-riders, as persons who seek the advantages of just institutions while not doing their share to uphold them. Although those who acknowledge the principles of justice should always be guided by them, in a fragmented society as well as in one moved by group egoisms, the conditions for civil disobedience do not exist. Still, it is not necessary to have strict consensus, for often a degree of overlapping consensus allows the reciprocity condition to be fulfilled.
 
@@ -1105,7 +1114,7 @@ There are parallels with the common understandings and conclusions reached in th
 
 In a democratic society, then, it is recognized that each citizen is responsible for his interpretation of the principles of justice and for his conduct in the light of them. There can be no legal or socially approved rendering of these principles that we are always morally bound to accept, not even when it is given by a supreme court or legislature. Indeed, each constitutional agency, the legislature, the executive, and the court, puts forward its interpretation of the constitution and the political ideals that inform it.9 Although the court may have the last say in settling any particular case, it is not immune from powerful political influences that may force a revision of its reading of the constitution. The court presents its doctrine by reason and argument; its conception of the constitution must, if it is to endure, persuade the major part of the citizens of its soundness. The final court of appeal is not the court, nor the executive, nor the legislature, but the electorate as a whole. The civilly disobedient appeal in a special way to this body. There is no danger of anarchy so long as there is a sufficient working agreement in citizens' conceptions of justice and the conditions for resorting to civil disobedience are respected. That men can achieve such an understanding and honor these limits when the basic political liberties are maintained is an assumption implicit in a democratic polity. There is no way to avoid entirely the danger of divisive strife, any more than one can rule out the possibility of profound scientific controversy. Yet if justified civil disobedience seems to threaten civil concord, the responsibility falls not upon those who protest but upon those whose abuse of authority and power justifies such opposition. For to employ the coercive apparatus of the state in order to maintain manifestly unjust institutions is itself a form of illegitimate force that men in due course have a right to resist. [. . .]
 
-<sup>9</sup> For a presentation of this view to which I am indebted, see A. M. Bickel, The Least Dangerous Branch (New York: Bobbs-Merrill, 1962), esp. chs. V and VI.
+9 For a presentation of this view to which I am indebted, see A. M. Bickel, The Least Dangerous Branch (New York: Bobbs-Merrill, 1962), esp. chs. V and VI.
 
 # DISOBEDIENCE AS A PLEA FOR RECONSIDERATION
 
@@ -1121,9 +1130,9 @@ very much about an issue can out-vote a minority for which the issue is of vital
 
 It is of course possible that a decision by a majority causing hardship to a minority results neither from oversight, nor from a regrettable necessity, but is part of a policy of deliberate exploitation of the minority by a majority which does not have equal concern for the welfare of all its citizens. This kind of situation has been discussed earlier.
 
-This is an appropriate point at which to consider the theory of civil disobedience proposed by John Rawls in his much-discussed book, A Theory of Justice,<sup>1</sup> for Rawls's conception of the proper role of disobedience in a constitutional democracy has much in common with the kind of disobedience we have just been discussing. According to Rawls, civil disobedience is an act which 'addresses the sense of justice of the community and declares that in one's considered opinion the principles of social co-operation among free and equal men are not being respected'.2 Civil disobedience is here regarded as a form of address, or an appeal. Accordingly,
+This is an appropriate point at which to consider the theory of civil disobedience proposed by John Rawls in his much-discussed book, A Theory of Justice,1 for Rawls's conception of the proper role of disobedience in a constitutional democracy has much in common with the kind of disobedience we have just been discussing. According to Rawls, civil disobedience is an act which 'addresses the sense of justice of the community and declares that in one's considered opinion the principles of social co-operation among free and equal men are not being respected'.2 Civil disobedience is here regarded as a form of address, or an appeal. Accordingly,
 
-<sup>1</sup> Clarendon Press, Oxford, 1972. The theory of civil disobedience is to be found in ch. 6, mostly in sects. 55, 57 and 59 [this volume, pp. 103–21]. 2 ibid., p. 364.
+1 Clarendon Press, Oxford, 1972. The theory of civil disobedience is to be found in ch. 6, mostly in sects. 55, 57 and 59 [this volume, pp. 103–21]. 2 ibid., p. 364.
 
 Rawls comes to conclusions similar to those I have reached about the form which such disobedience should take. It should, he says, be non-violent and refrain from hurting or interfering with others because violence or interference tends to obscure the fact that what is being done is a form of address. While civil disobedience may 'warn and admonish, it is not itself a threat'. Similarly, to show sincerity and general fidelity to law, one should be completely open about what one is doing, willing to accept the legal consequences of one's act.
 
@@ -1131,7 +1140,7 @@ I am therefore in agreement with Rawls on the main point: limited disobedience, 
 
 This is not the place to discuss Rawls's theory of justice as a whole. I want to discuss only its application to our topic.
 
-<sup>3</sup> ibid., pp. 386–7 [Ed: this and subsequent footnotes have been renumbered].
+3 ibid., pp. 386–7 [Ed: this and subsequent footnotes have been renumbered].
 
 From his view that civil disobedience is justified by 'the principles of justice which regulate the constitution and social institutions generally', Rawls draws the consequence that 'in justifying civil disobedience one does not appeal to principles of personal morality or to religious doctrines. . . . Instead one invokes the commonly shared conception of justice which underlies the political order.'4
 
@@ -1159,9 +1168,9 @@ There will, of course, be some instances in a society when the actions of the ma
 
 When we go beyond religious persecution and the denial of voting rights, it is even easier to find complex disputes on which sincere disagreement over the justice of an action is likely to occur. Many of the issues which have led to civil disobedience
 
-<sup>7</sup> ibid., p. 365–6.
+7 ibid., p. 365–6.
 
-<sup>8</sup> ibid., p. 372.
+8 ibid., p. 372.
 
 #### Disobedience as a plea for reconsideration in recent years have been of this more complex kind. This is why I do not think it helpful to assume that most issues arise from deliberate disregard of some common principles, or to try to specify limits, whether in the form of rights or of principles of justice, on what the majority can legitimately do.
 
@@ -1177,9 +1186,9 @@ It is not our aim to argue about how words are or should be used, and so it is n
 
 From: John Morreall, 'The Justifiability of Violent Civil Disobedience,' Canadian Journal of Philosophy, 6 (1976), pp. 35–47.
 
-<sup>1</sup> Though, curiously, Bedau admits that taking 'civil' disobedience as nonviolent disobedience involves a pun. See Hugo Adam Bedau, 'On Civil Disobedience,' Journal of Philosophy, LVII (1961), p. 656. Also Richard Wasserstrom, in H. A. Freeman et al., Civil Disobedience (Santa Barbara: Center for the Study of Democratic Institutions, 1966), p. 18.
+1 Though, curiously, Bedau admits that taking 'civil' disobedience as nonviolent disobedience involves a pun. See Hugo Adam Bedau, 'On Civil Disobedience,' Journal of Philosophy, LVII (1961), p. 656. Also Richard Wasserstrom, in H. A. Freeman et al., Civil Disobedience (Santa Barbara: Center for the Study of Democratic Institutions, 1966), p. 18.
 
-<sup>2</sup> Stuart M. Brown Jr., 'Civil Disobedience,' Journal of Philosophy, LVII (1961), p. 678; Rex Martin, 'Civil Disobedience,' Ethics, LXXX (January, 1970); Michael Bayles, 'The Justifiability of Civil Disobedience,' Review of Metaphysics, XXIV, No. 1 (1970), pp. 17–18.
+2 Stuart M. Brown Jr., 'Civil Disobedience,' Journal of Philosophy, LVII (1961), p. 678; Rex Martin, 'Civil Disobedience,' Ethics, LXXX (January, 1970); Michael Bayles, 'The Justifiability of Civil Disobedience,' Review of Metaphysics, XXIV, No. 1 (1970), pp. 17–18.
 
 of the kind which, except for the violence, would count for Bedau as civil disobedience.3 Our concern is rather to see whether selective political disobedience directed against certain immoral laws or policies can be violent and still be justifiable. And because we cannot hope to establish everything in one paper, we shall be assuming that some acts of nonviolent civil disobedience are justifiable. Here we have in mind such things as sit-ins, illegal boycotts, illegal blocking of automobile or rail traffic, etc., the justifiability of which has, I think, been sufficiently well established.
 
@@ -1187,7 +1196,7 @@ Our first task, then, is to find the significant difference between a violent ac
 
 But to think of violence only in terms of the unlimited violence found in riots and revolutions not only prejudices the issue of whether violence could ever be deliberately limited in scope to achieve limited ends (which, as we shall argue, is the kind of violence used in justifiably violent civil disobedience): this kind of thinking also gives us an extremely narrow view of what it is that is objectionable about violence. Now we grant that Bedau's
 
-<sup>3</sup> We should mention that Bedau cannot claim anything near universal agreement on his calling only nonviolent acts, acts of civil disobedience. See, for example, Berel Lang, 'Civil Disobedience and Nonviolence: A Distinction with a Difference,' Ethics, LXXX (January, 1970); Christian Bay, 'Civil Disobedience: Prerequisite for Democracy in Mass Society,' in David Spitz (ed.), Political Theory and Social Change (New York: Atherton Press, 1967), p. 169; and the articles by Brown, Martin and Bayles. Nor could Bedau claim that nonviolence was analytically tied to the notion of civil disobedience by the most outstanding proponents of civil disobedience; for as he admits on p. 656, Thoreau, the man who coined the term 'civil disobedience,' did not consider nonviolence a necessary part of what he meant by that term. A reasonable case can be made, moreover, for saying that Mohandas Gandhi and Martin Luther King saw nonviolence as one tactic of civil disobedience, but not necessarily the only one. 4 Bedau, op. cit. p. 656.
+3 We should mention that Bedau cannot claim anything near universal agreement on his calling only nonviolent acts, acts of civil disobedience. See, for example, Berel Lang, 'Civil Disobedience and Nonviolence: A Distinction with a Difference,' Ethics, LXXX (January, 1970); Christian Bay, 'Civil Disobedience: Prerequisite for Democracy in Mass Society,' in David Spitz (ed.), Political Theory and Social Change (New York: Atherton Press, 1967), p. 169; and the articles by Brown, Martin and Bayles. Nor could Bedau claim that nonviolence was analytically tied to the notion of civil disobedience by the most outstanding proponents of civil disobedience; for as he admits on p. 656, Thoreau, the man who coined the term 'civil disobedience,' did not consider nonviolence a necessary part of what he meant by that term. A reasonable case can be made, moreover, for saying that Mohandas Gandhi and Martin Luther King saw nonviolence as one tactic of civil disobedience, but not necessarily the only one. 4 Bedau, op. cit. p. 656.
 
 examples are examples of violence – but only of overt physical violence. And the essence of violence does not lie in the use of great physical force, as Bedau and others5 seem to assume. Not only are there instances of great physical force being used which are not acts of violence, but, more importantly, there are many acts of violence done to people in which no physical contact is ever made.
 
@@ -1199,7 +1208,7 @@ Obviously, too, there are other ways of doing violence to a person than by physi
 
 7 Holmes, op. cit., p. 110.
 
-<sup>5</sup> See, e.g., Ronald B. Miller, 'Violence, Force, and Coercion,' in Jerome A. Shaffer (ed.), Violence (New York: David Mc Kay, 1971), pp. 11–26. 6 Robert L. Holmes, 'Violence and Nonviolence,' in Shaffer, op. cit., pp. 110–13; and Newton Garver, 'What Violence Is,' The Nation (June 24, 1968), p. 819.
+5 See, e.g., Ronald B. Miller, 'Violence, Force, and Coercion,' in Jerome A. Shaffer (ed.), Violence (New York: David Mc Kay, 1971), pp. 11–26. 6 Robert L. Holmes, 'Violence and Nonviolence,' in Shaffer, op. cit., pp. 110–13; and Newton Garver, 'What Violence Is,' The Nation (June 24, 1968), p. 819.
 
 more violence to their children in not respecting them as free persons, than would be done by even a considerable amount of physical violence. Psychological violence is often far more damaging than mere physical injury.
 
@@ -1209,11 +1218,11 @@ There is another basic right that arises from the nature of human autonomy. Sinc
 
 Acts of violence are always acts which 'get at' persons. Unless the destruction of some physical object will 'get at' a person, it is not an act of violence. Throwing rocks through the windows of my neighbor's new car would be an act of violence: throwing
 
-<sup>8</sup> Garver, op. cit., p. 820.
+8 Garver, op. cit., p. 820.
 
-<sup>9</sup> Consider, e.g., the basic and universal activities of gathering food and building shelters.
+9 Consider, e.g., the basic and universal activities of gathering food and building shelters.
 
-<sup>10</sup> We are leaving aside here, as outside the scope of political philosophy, a consideration of whether any 'respect' is due to animals or even to plans merely in virtue of what they are, and not as the property of persons.
+10 We are leaving aside here, as outside the scope of political philosophy, a consideration of whether any 'respect' is due to animals or even to plans merely in virtue of what they are, and not as the property of persons.
 
 #### John Morreall rocks through the windows of a junked car at the city dump (assuming that this has no ecological overtones nor makes it harder for dump personnel to dispose of the car) would not be an act of violence.
 
@@ -1223,7 +1232,7 @@ Before concluding our discussion of the nature of violence we should add that al
 
 With this understanding of the nature of violence, it becomes difficult to defend a theory in which civil disobedience is justifiable but violence is not. If the position is taken that the nonviolence requirement in civil disobedience rules out physical violence because such violence would violate the rights people have to their own bodies, rights, it is usually stressed, which are protected by law; then it would seem that the same requirement would also have to rule out psychological violence, including any kind of coercion; inasmuch as this also violates the (law-protected11) rights of persons, especially their right to autonomy. Indeed, it would seem that the rights which are not respected in cases of psychological violence should be even more sacred than the right to own property, the latter being one which many writers on civil disobedience insist should never be violated in acts of civil disobedience. To say that only physical violence is to be ruled out in civil disobedience
 
-<sup>11</sup> E.g., laws against making loud noise at night, laws against harassment, laws against blackmail.
+11 E.g., laws against making loud noise at night, laws against harassment, laws against blackmail.
 
 seems an arbitrary stipulation. Why should getting at people by making physical contact with them, or by damaging their property, be singled out as in principle unjustifiable, while other violent means of getting at people, including, incidentally, their right to control over their own property through illegal trespassing, are accepted as justifiable? If acts like sitting in large groups on railroad tracks in order to stop troop trains can sometimes be justified, the prima facie right of the railroad to control over its property somehow being justifiably violated; how is it that destroying a few feet of the track before assembling the crowd on the track, in order to prolong the inconvenience and insure more publicity, cannot be justified?
 
@@ -1231,7 +1240,7 @@ If civil disobedience is to be truly nonviolent, then it seems that not only mus
 
 The line is usually drawn between physically violent means of changing laws and physically nonviolent means of doing so (a distinction which is supposed to give us a way of separating justifiable from unjustifiable acts); when in reality the important distinction to be made (though it does not give us a test of justifiability) is between tactics which achieve change by forcing those in power to change the law or policy, and tactics which
 
-<sup>12 &#</sup>x27;Limits to the Moral Claim in Civil Disobedience,' Ethics, LXXV (1965), pp. 104–5.
+12 &#x27;Limits to the Moral Claim in Civil Disobedience,' Ethics, LXXV (1965), pp. 104–5.
 
 work by changing people's minds. The significant line to be drawn here is between coercion – physical or psychological – and persuasion.
 
@@ -1273,19 +1282,19 @@ The first reason which Brown advances for the unjustifiability of violent civil 
 
 Brown's claims here are patently false. First of all, in at least some cases of violent civil disobedience, the alternative to the act of civil disobedience (which act is seen, of course, as part of a campaign to eliminate an immoral law or policy) is 'an even greater evil' than the violence inflicted by the act. In the slaveowner case, for example, not only would my helping him capture the slave be a greater evil than my tackling him to give the slave a chance to get away; but my just standing back in 'nonparticipation,' which Brown suggests could not be evil because it is merely negative, would also be a greater evil than tackling him.16 We can often commit such sins of omission, doing evil by merely 'doing nothing'. The act of tackling the slaveowner, furthermore, need not be a revolutionary act, for we can consistently both endorse the government on the whole and wish to change certain of its laws which are immoral.
 
-<sup>14</sup> Brown, op. cit., pp. 678–9.
+14 Brown, op. cit., pp. 678–9.
 
-<sup>15</sup> ibid., p. 679.
+15 ibid., p. 679.
 
-<sup>16</sup> Leslie Mac Farlane, in 'Justifying Political Disobedience,' Ethics, LXXIX (1968), considers the case of the railway clerks who arranged the transit of Jews to the Nazi extermination camps. These men not only had the negative duty of not participating in such evil acts, he argues: they had 'a positive duty to resist, sabotage, and frustrate the evil,' p. 44.
+16 Leslie Mac Farlane, in 'Justifying Political Disobedience,' Ethics, LXXIX (1968), considers the case of the railway clerks who arranged the transit of Jews to the Nazi extermination camps. These men not only had the negative duty of not participating in such evil acts, he argues: they had 'a positive duty to resist, sabotage, and frustrate the evil,' p. 44.
 
 Brown's contention that unless a rebellion overthrowing the government is justifiable, the use of any violence is not justifiable, would need a great deal of fleshing out even to sound superficially plausible. The state uses violence all the time – in wars, police action, executions – and presumably, does so justifiably. As private citizens we corporally punish our children. And if we are being attacked on the street with no policeman in sight, we use violence to defend ourselves. Part of Brown's misunderstanding of the whole issue of violence and its justification stems from his failure to distinguish between limited violence designed to achieve selective particular ends, as is found in the above examples and in cases of justifiable violent civil disobedience, and the all-out violence of a total revolution. Not all acts of violence threaten the existence of the government; many of them do not even threaten our lives or bodily security (e.g. the pouring of blood on draft files). We grant that a situation justifying revolution would be necessary to justify starting mass fires and throwing grenades into restaurants, for these are the means of a revolution. But we insist that the justifiability of a revolution is not a prerequisite for justifying the limited use of violent means to achieve selective ends in acts of civil disobedience.
 
 At this point it is sometimes argued that even the carefully limited violence which we have appealed to is always unjustifiable. Rex Martin, for example, says that the sovereignty of a democratic state 'resides largely in its ability to proscribe individual violence by law on the one hand, and to monopolize coercive force, at least in principle, on the other.'17 If we have given our allegiance to a government, then, we would be acting inconsistently and wrongly if we ever used violence against democratic laws and policies. In holding that the democrat qua democrat has an unconditional obligation never to use such violence, however, Martin is wrong. The democrat's endorsement of a democratic state no more entails this kind of obligation than it entails the obligation to always obey democratic law.18 For just as we can justifiably break immoral democratic laws and not act inconsistently with our endorsement of the democracy as a decision-making procedure, we can also sometimes use justifiable violence in an act of civil disobedience against an immoral law or policy, without
 
-<sup>17</sup> Martin, op. cit., p. 132.
+17 Martin, op. cit., p. 132.
 
-<sup>18</sup> On this latter non-entailment see Marvin Schiller, 'On the Logic of Being a Democrat,' Philosophy, XLIV (1969).
+18 On this latter non-entailment see Marvin Schiller, 'On the Logic of Being a Democrat,' Philosophy, XLIV (1969).
 
 acting inconsistently without endorsement of the democracy as a whole.
 
@@ -1295,15 +1304,15 @@ What Brown has failed to take into account, leaving aside the issue of whether h
 
 Brown's claim that acts of civil disobedience could be used to start off a revolution shows just how thoroughly he misunderstands the nature of civil disobedience. For, as Bayles points out, the person who objects morally to the entire political–legal system and is working for a complete change of the existing structure, is a revolutionary, not a civil disobedient.23 The mere fact that some of a revolutionary's acts may be physically nonviolent, or even the fact that he may break only a few laws at a time, does not make his acts any less revolutionary, and certainly could not make them acts of civil disobedience, the prerequisite for which is that the person performing the act endorse, on the
 
-<sup>19</sup> Brown, op. cit., p. 679.
+19 Brown, op. cit., p. 679.
 
-<sup>20</sup> ibid., p. 678, emphasis mine.
+20 ibid., p. 678, emphasis mine.
 
-<sup>21</sup> ibid., p. 677.
+21 ibid., p. 677.
 
-<sup>22</sup> Bayles, op. cit., p. 5.
+22 Bayles, op. cit., p. 5.
 
-<sup>23</sup> ibid., p. 4.
+23 ibid., p. 4.
 
 whole, the system within which he is trying to make specific changes.24
 
@@ -1311,9 +1320,9 @@ The third reason Brown offers is that we must 'preserve civil disobedience as a 
 
 Here we need only note that this is not really an argument against the possibility of a justifiable violent act of civil disobedience. It can at most be a warning that more thought and attention to how the public will react must go into a violent act of civil disobedience than into a nonviolent one, or into a physically violent act than into one involving only, say, illegal trespass. People in general, it seems, tend to disapprove of violence in general; and so the limited scope of any violence used in an act of civil disobedience, as well as the specific goals of that act, must be clearly set out in order for the act to have the proper effect on the public. I myself found some violent acts used against the U. S. involvement in Vietnam, the destruction of draft files, for example, more acceptable – because more effective in achieving their ends – than some nonviolent acts, e.g. the overdone 'peace march'. The point, however, is simply that unless Brown could show that no violent act of civil disobedience could include the necessary safeguards or could achieve its ends, then mere contingent facts about who happens to respond better to which forms of civil disobedience cannot invalidate the claim that violent acts of civil disobedience are in principle justifiable.
 
-<sup>24</sup> Even if we were to stretch the notion of civil disobedience to cover certain physically nonviolent acts used to start off a revolution, the selected and limited nature of those acts would still distinguish them from the acts of a full-scale revolution.
+24 Even if we were to stretch the notion of civil disobedience to cover certain physically nonviolent acts used to start off a revolution, the selected and limited nature of those acts would still distinguish them from the acts of a full-scale revolution.
 
-<sup>25</sup> Brown, op. cit., p. 680.
+25 Brown, op. cit., p. 680.
 
 # CIVIL DISOBEDIENCE AND NON-COOPERATION
 
@@ -1329,7 +1338,7 @@ He also believed that the breaking of the laws of an evil state should not take 
 
 From: Vinit Haksar, Civil Disobedience, Threats and Offers: Gandhi and Rawls (Delhi: Oxford University Press, 1986), pp. 29–41.
 
-<sup>\* [</sup>The reference is to M. K. Gandhi, Nonviolent Resistance (New York: Schocken Books, 1961) ].
+\* [The reference is to M. K. Gandhi, Nonviolent Resistance (New York: Schocken Books, 1961) ].
 
 that 'civil disobedience is a necessary part of non-cooperation' (N. V. R., p. 238). This is quite consistent with his earlier belief that non-cooperation is not necessarily involved in civil disobedience (N. V. R., pp. 214–15), though it is inconsistent with his earlier belief that non-cooperation is possible and often desirable without civil disobedience (N. V. R., pp. 3–4). What is common to his earlier and later positions is the view that civil disobedience is at least one important method of non-cooperating with the régime.
 
@@ -1339,9 +1348,9 @@ Perhaps one can attempt to reconcile these two sorts of justifications by making
 
 Peter Singer, in his valuable book,2 is unfair to the person who breaks the law because he does not want to co-operate with evil. He considers Thoreau's view, 'I do not lend myself to the
 
-<sup>1 &#</sup>x27;Non-violence' in J. G. Murphy (ed.), Civil Disobedience and Violence (Belmont CA: Wadsworth Publishing Company, 1971), p. 100.
+1 &#x27;Non-violence' in J. G. Murphy (ed.), Civil Disobedience and Violence (Belmont CA: Wadsworth Publishing Company, 1971), p. 100.
 
-<sup>2</sup> Peter Singer, Democracy and Disobedience (Oxford: The Clarendon Press, 1973).
+2 Peter Singer, Democracy and Disobedience (Oxford: The Clarendon Press, 1973).
 
 #### Vinit Haksar wrong which I condemn', and criticizes it for being more concerned with preserving one's moral purity than with removing the evil. I think Singer is unfair to Thoreau. Thoreau argued that by going to prison the protester not only preserves his honour but also increases his power of influencing the evil state. Those who believe that in jail the protester loses his influence:
 
@@ -1355,7 +1364,7 @@ I want to show that Gandhian non-cooperation can be, at the same time, both non-
 
 Now I think Rawls and Singer would not deny that sometimes coercion and even violence may be justified (T. of J., p. 368). They do not imply that coercion and violence should never be used as a form of disobedience; what they maintain is that coercion
 
-<sup>3 &#</sup>x27;On the Duty of Civil Disobedience,' in Civil Disobedience and Violence, p. 28.
+3 &#x27;On the Duty of Civil Disobedience,' in Civil Disobedience and Violence, p. 28.
 
 and violence must not be used as a form of civil disobedience. I think they rule out coercive civil disobedience on the grounds that it blurs the distinction between publicity and addressing the authorities on the one hand, and coercion and intimidation on the other. But what does it matter if this distinction is blurred? It may be replied that this would make civil disobedience pointless, for if one of the objects of civil disobedience is to function as a mode of address, then how can it achieve this if the public begins to think of it as coercive and intimidating? Now, I think obstructive and coercive devices are not necessarily incompatible with the goal of publicity. It is quite possible that in some circumstances the protesters could get even more publicity by resorting to such tactics, however deplorable such tactics may be on other grounds. Theoretically, it is also possible to imagine circumstances where such tactics may promote the goal of rational persuasion of one's opponent. For instance, suppose the opponent refuses to listen to the protesters' case, then the protesters could forcibly surround the opponent and force the opponent into entering a rational discussion about the grievances of the protesters. Theoretically, it is possible to imagine situations where, though coercive tactics are used to get the discussions started, they are not used once the discussions have begun. But, of course, in practice it is highly likely that if the protesters use coercive (or violent) tactics to get the discussions started, they may attempt to continue using such tactics even after the discussions have begun. The temptation to do so may be too strong. The same point applies to the goal of publicity. The protesters may achieve more publicity by the use of coercive tactics, but then they will be strongly tempted to use such tactics to extract concessions from the authorities forcibly. Such considerations show that coercive or violent tactics may in practice be incompatible with the aim of getting the authorities to accede freely to the protesters' demands. But they do not show that the aim of publicity for one's cause is inconsistent with the use of coercive tactics.
 
@@ -1377,7 +1386,7 @@ Non-cooperation is no more coercive than the ordinary shopkeeper's raising of hi
 
 Is there perhaps this difference, that the civil disobedient noncooperator is non-cooperating in order to change the policy of the opponent, while the shopkeeper charges prices in order to make a reasonable income or profit from the sale of his goods? But the shopkeeper, too, is in a sense putting pressure on the customer; he is in effect saying, 'you won't get my goods unless you pay me the stated price'. Many customers may want to buy his goods at less than his stated price, even when the stated price is a fair one; and when he refuses to sell it at a price lower than the fair one, he is doing something more than just appealing to the sense of justice (actual or potential) of the customer. The seller does not give the goods and then request the customer to give the fair price, leaving the customer free to decide after he has taken the goods whether or not to pay the fair price. Yet it cannot be inferred that the seller is therefore using evil means, or that he is coercing in some evil sense. Similarly, when the civil disobedient non-cooperates with the authorities and refuses simply to wait patiently until the authorities have had a change of heart; it is true that he does not merely appeal to the sense of justice (actual or potential) of the authorities, but it does follow
 
-<sup>4</sup> Harijan, 29 April 1939, p. 101.
+4 Harijan, 29 April 1939, p. 101.
 
 that he is using evil means, such as coercion in any evil sense, in order to promote his legitimate goals. True, sometimes civil disobedient non-cooperators can use their great powers to exploit the authorities. The same is true of sellers: a monopolist can exploit the customer. But one cannot infer that, wherever civil disobedients non-cooperate with the authorities, they are using evil means such as being coercive in some evil sense – just as one cannot infer that the ordinary seller is using evil means from the fact that the monopolist is doing so. Indeed, even the monopolist who has the power to coerce (in an evil sense) the customer may not exercise this power; he may just charge the fair price. Similarly, even civil disobedient non-cooperators who are very powerful may not coerce the authorities when they refuse to co-operate on unjust terms, or when they refuse to assist the régime in its wicked policies; they could be willing to co-operate on just and honourable terms.
 
@@ -1387,7 +1396,7 @@ The problem, then, for Rawls and Singer is this. If they are willing to commend 
 
 Of course, the danger of chaos and anarchy must not be dismissed lightly. Gandhi himself stressed such dangers, and that is why he insisted that very stringent conditions must be satisfied before civil disobedience can be justified; moreover [. . .] he insisted that individuals must have the appropriate personal qualifications
 
-<sup>5 &#</sup>x27;A Fallacy on Law and Order: That Civil Disobedience Must be Absolutely Nonviolent,' in Civil Disobedience and Violence, pp. 103–11.
+5 &#x27;A Fallacy on Law and Order: That Civil Disobedience Must be Absolutely Nonviolent,' in Civil Disobedience and Violence, pp. 103–11.
 
 before they can acquire the right to embark on civil disobedience. Without such precautions things can get out of hand and nonviolence can give way to violence. Indeed, even Gandhian movements sometimes degenerated in this fashion, and Gandhi has admitted to his own 'Himalayan blunder', which he attributed to the neglect of such precautions.
 
@@ -1453,7 +1462,7 @@ Herein lies the difference between asserting that civil disobedience is sometime
 
 I have said that more writers than those who openly endorse such a right gravitate towards supporting its existence. This tendency is manifested in their concern with setting formal limits on the permissible forms of civil disobedience. Consider one often discussed limitation: civil disobedience, it is often said, must be non-violent. It is clear that, other things being equal, non-violent disobedience is much to be preferred to violent disobedience. First, the direct harm caused by the violence is avoided. Secondly, the possible encouragement to resort to violence in cases where this would be wrong, which even an otherwise justified use of violence provides, is avoided. Thirdly, the use of violence is a highly emotional and explosive issue in many countries and in turning to violence one is likely to antagonize potential allies and confirm in their opposition many of one's opponents. All these considerations, and others, suggest great reluctance to turn to the use of violence, most particularly violence against the person. But do they justify
 
-<sup>1</sup> These comments on rights to act are in keeping with the general analysis of rights developed in several articles by H. L. A. Hart, even though they do not commit me to all the details of his views. Cf., for example, 'Bentham on Legal Rights,' in A. W. B. Simpson (ed.), Oxford Essays in Jurisprudence, 2nd series (Oxford, 1973).
+1 These comments on rights to act are in keeping with the general analysis of rights developed in several articles by H. L. A. Hart, even though they do not commit me to all the details of his views. Cf., for example, 'Bentham on Legal Rights,' in A. W. B. Simpson (ed.), Oxford Essays in Jurisprudence, 2nd series (Oxford, 1973).
 
 the total proscription of violence as a means to achieving a political aim? They do not. The evil the disobedience is designed to rectify may be so great, may indeed itself involve violence against innocent persons (such as the imprisonment of dissidents in labour camps in the Soviet Union), that it may be right to use violence to bring it to an end. It may be relevant here to draw attention to the fact that certain non-violent acts, indeed some lawful acts, may well have much more severe consequences than many an act of violence: consider the possible effects of a strike by ambulance drivers.
 
@@ -1461,9 +1470,9 @@ Some people do of course reject the use of violence absolutely regardless of any
 
 To say that there is a right to civil disobedience is to allow the legitimacy of resorting to this form of political action to one's political opponents. It is to allow that the legitimacy of civil disobedience does not depend on the rightness of one's cause. The comments above make clear that by all accounts the rightness of the cause it is meant to support. There is always the question of the appropriateness of the means. Will they not contribute to an even greater evil, are there not less harmful or less risky ways of supporting the same cause, etc.? Those who hold that there is a right to civil disobedience are committed to the view that in general3 the rightness of the cause contributes
 
-<sup>2</sup> Some will say that violent action cannot be considered civil disobedience because by its meaning civil disobedience does not apply to such action. But even if right this is irrelevant. Such a linguistic point cannot prove the wrongness of my action.
+2 Some will say that violent action cannot be considered civil disobedience because by its meaning civil disobedience does not apply to such action. But even if right this is irrelevant. Such a linguistic point cannot prove the wrongness of my action.
 
-<sup>3</sup> Many if not all political theories rule out certain political goals as altogether illegitimate and do not extend to them any toleration.
+3 Many if not all political theories rule out certain political goals as altogether illegitimate and do not extend to them any toleration.
 
 not at all to the justification of civil disobedience. Such a view leads quite naturally to a consideration of formal limits on the forms such disobedience may take.
 
@@ -1473,7 +1482,7 @@ Considered against this background it is understandable that so much intellectua
 
 Such objections are correct. But to be completely successful they must tackle directly the reasoning which leads to such
 
-<sup>4</sup> Subject to the proviso above.
+4 Subject to the proviso above.
 
 apparently arbitrary restrictions on legitimate civil disobedience. It is necessary to examine the question of the right to civil disobedience.
 
@@ -1489,7 +1498,7 @@ There are some bad arguments for a right to civil disobedience:
 
 We need to make a new beginning, to find a way of relating the general principles governing the right to lawful political activity
 
-<sup>5</sup> This argument shows that nothing in this essay presupposes either the truth or falsity of relativism.
+5 This argument shows that nothing in this essay presupposes either the truth or falsity of relativism.
 
 to the question of civil disobedience. But it is not possible to return here to first principles. Instead I shall take it for granted that every person has a right to political participation in his society. Let me call this the liberal principle. I do not call it the democratic principle for in itself it does not commit one to a democratic government, only to a right to a certain degree of political participation. Nothing in the argument that follows depends on one's assessment of the precise limits of the right and I shall not attempt to specify them. It is clear, nevertheless, that the right to political participation is limited. It is limited because of the need to respect the same right in others and because the right to political participation is neither the only nor an absolute value and it has to be limited in order to safeguard other values. It is further clear that, subject to certain limited possible objections, the limitations on the scope of the right are independent of the political objective sought. The right means nothing if it does not mean the right of every member of a society to try to get his society to endorse, at least to some degree, political objectives which he supports, be they what they may. Given that by and large the limitations on the right are independent of the political objectives the right is used to support, they must inevitably turn on the means used to support such objectives. It must be a right confined to certain forms of action and not to others.
 
@@ -1541,13 +1550,13 @@ Among innumerable variations in circumstances I will consider three basic situat
 
 In the first situation, Clay is reasonably sure his constitutional claim will be upheld. Any reasonable view of an individual's duties in a political order providing judicial review must include the appropriateness of testing the validity of laws that appear invalid.4 No otherwise applicable deontological principle would
 
-<sup>1</sup> Often a constitutional claim will be joined with a claim of moral right; here I am concerned only with the moral force of the claim that one's act is justifiable within the legal system itself.
+1 Often a constitutional claim will be joined with a claim of moral right; here I am concerned only with the moral force of the claim that one's act is justifiable within the legal system itself.
 
-<sup>2</sup> People who raise test cases often have radically different motivations from those who engage in civil disobedience. See L. Buzzard and P. Campbell, Holy Disobedience (1984), 179, quoting an unpublished dissertation by Thomas Rekdal.
+2 People who raise test cases often have radically different motivations from those who engage in civil disobedience. See L. Buzzard and P. Campbell, Holy Disobedience (1984), 179, quoting an unpublished dissertation by Thomas Rekdal.
 
-<sup>3</sup> Generally, the validity of a criminal prohibition can be tested only by disobedience. Sometimes injunctions or declaratory judgments will afford a means to challenge legal norms without noncompliance.
+3 Generally, the validity of a criminal prohibition can be tested only by disobedience. Sometimes injunctions or declaratory judgments will afford a means to challenge legal norms without noncompliance.
 
-<sup>4</sup> The point is even more obvious if a statute is clearly and blatantly unconstitutional.
+4 The point is even more obvious if a statute is clearly and blatantly unconstitutional.
 
 require obedience when disobedience is the only avenue for testing validity. From a utilitarian perspective, a challenge to a probably invalid law serves the objective of eliminating improper legal norms; the existence of the legal claim will also affect perceptions of a violation, making it appear as something other than a challenge to the legal order. The question about obedience becomes somewhat more difficult if already pending cases adequately raise all legal issues, or if these can be raised without anyone's disobeying. Since one's own violation serves no testing objective, disobedience cannot be justified on that score. But, at least if the likelihood of invalidation is very high and disobedience will not be seriously unsettling, one should simply not be thought bound to comply with such 'laws.'5
 
@@ -1557,9 +1566,9 @@ In the third situation, Clay has a firm personal view about constitutionality th
 
 How nonconsequential duties are affected by Clay's view is more difficult. Clay might argue that his consent, duty of fair
 
-<sup>5</sup> This conclusion would be strengthened if the probably invalid law inhibited an important personal liberty. Were the legal system to demand initial compliance with invalid laws, as the American system does demand compliance with improper injunctions, the conclusion would be altered.
+5 This conclusion would be strengthened if the probably invalid law inhibited an important personal liberty. Were the legal system to demand initial compliance with invalid laws, as the American system does demand compliance with improper injunctions, the conclusion would be altered.
 
-<sup>6</sup> The reactions of people who know him well might be significantly affected by his constitutional conviction.
+6 The reactions of people who know him well might be significantly affected by his constitutional conviction.
 
 play, or natural duty extends only to laws he regards as valid. But that position would be too simple. A duty to obey the law should be understood in relation to a whole system of governance, including processes of interpretation, and one's own views about what should be declared legally invalid should not count for very much. Very few people even have reflective views about the content of constitutional standards; for them the constitutional claim will be little more than an elaboration of a moral or political conviction, one that does not gain greater force by being put in the language of legal validity.7 Within a stable legal order and with respect to issues that courts adjudicate,8 the special claim that one is really acting within the law changes the nature of obedience only when a real prospect exists that the norm that is disobeyed will be held invalid.
 
@@ -1569,9 +1578,9 @@ In the sections that follow, I will assume that no claim of legal invalidity is 
 
 A commonly stated condition of justifiable disobedience is that lawful alternatives for changing a law or policy have been pursued. The illustration [omitted here] involving the faculty resolution about the content of the constitutional law course shows the basic soundness of this position. Presenting one's views in a full and orderly fashion to those who have made or are to make a decision can be an important aspect of duties based on consent or fairness. Even if one is permitted finally to disobey, one at least owes it to one's fellows to try to avoid that impasse by persuading them to change their minds. From a utilitarian perspective, considerations of mutual respect and avoidance of unnecessary disruption counsel a similar course. Of course, in a large political unit, few individuals will have an opportunity
 
-<sup>7</sup> I am not suggesting that the actor should disregard his moral conviction, only that his idiosyncratic view about the scope of the Constitution should carry little weight by itself.
+7 I am not suggesting that the actor should disregard his moral conviction, only that his idiosyncratic view about the scope of the Constitution should carry little weight by itself.
 
-<sup>8</sup> If the actor's claim is that a law is unconstitutional and no relatively detached organ of government stands ready to interpret the Constitution with respect to that claim – say, because of the political question doctrine – the individual's interpretation may carry more moral significance, particularly if it enjoys some support by others.
+8 If the actor's claim is that a law is unconstitutional and no relatively detached organ of government stands ready to interpret the Constitution with respect to that claim – say, because of the political question doctrine – the individual's interpretation may carry more moral significance, particularly if it enjoys some support by others.
 
 to air their views fully; but individuals can wait until the positions they accept have been presented by someone about as well as they can be.
 
@@ -1581,7 +1590,7 @@ The principle that people should exhaust lawful political remedies before turnin
 
 People disobey the law with some frequency, believing that pursuit of their own personal objectives justifies rather trivial violations or that a competing obligation overrides the duty to obey. But the most serious and notable instances in which people who break the law think they are morally justified are ones in which they object to a law, policy, or practice. If the law compels an act that a person cannot conscientiously perform, say to join the military, an outsider cannot evaluate his justification for refusing to do the act short of assessing all the moral reasons that led him to think the act is absolutely forbidden. Not much of general application can be said about these clashes of conscience and law. Nor can much be said if the actor's position is that the harm done to other persons by a rule of law is so great that its circumvention
 
-<sup>9</sup> The disagreement, of course, will not be merely or mainly factual. People will have different views on how great the efforts must be and how long they must continue without success before disobedience is warranted.
+9 The disagreement, of course, will not be merely or mainly factual. People will have different views on how great the efforts must be and how long they must continue without success before disobedience is warranted.
 
 is demanded by conscience – the position taken by those who aided fugitive slaves and, more recently, by many in the 'Sanctuary' movement who have helped persons they consider victims of injustice to evade immigration restrictions.10
 
@@ -1591,19 +1600,19 @@ I ask particularly whether it is crucial to justification of nonviolent disobedi
 
 Various authors have expressed the ideas that justified civil disobedience must appeal to the sense of justice of the majority13 or must involve claims of genuine injustice,14 or both; but since these notions receive systematic explication in John Rawls's well-known account, I will concentrate on that. According to Rawls, a person who engages in civil disobedience 'invokes the commonly shared conception of justice that underlies the political order,'15 declaring that principles of justice are not being respected16 and aiming to make the majority reconsider the justice of its actions. Ordinarily, justified civil disobedience will be limited 'to instances
 
-<sup>10</sup> See Buzzard and Campbell, op. cit. note 2 at 17, 148; 'Trial Opening in Arizona in Alien Sanctuary Case,' New York Times, Oct. 21, 1985, Section A.
+10 See Buzzard and Campbell, op. cit. note 2 at 17, 148; 'Trial Opening in Arizona in Alien Sanctuary Case,' New York Times, Oct. 21, 1985, Section A.
 
-<sup>11</sup> See M. Walzer, Obligations: Essays on Disobedience, War and Citizenship (1970); Flynn, 'Collective Responsibility and Obedience to Law,' 18 Ga. L. Rev. (1984), 845, 859.
+11 See M. Walzer, Obligations: Essays on Disobedience, War and Citizenship (1970); Flynn, 'Collective Responsibility and Obedience to Law,' 18 Ga. L. Rev. (1984), 845, 859.
 
-<sup>12</sup> See, e.g., J. Rawls, A Theory of Justice, (1971), 363–68.
+12 See, e.g., J. Rawls, A Theory of Justice, (1971), 363–68.
 
-<sup>13</sup> See, e.g., P. Singer, Practical Ethics, (1979) 192, who speaks of civil disobedience as trying to get a genuine expression of majority rule.
+13 See, e.g., P. Singer, Practical Ethics, (1979) 192, who speaks of civil disobedience as trying to get a genuine expression of majority rule.
 
-<sup>14</sup> See, e.g., Buzzard and Campbell, op. cit. note 2 at 100. H. Bedau (ed.), Civil Disobedience: Theory and Practice (1969), 23.
+14 See, e.g., Buzzard and Campbell, op. cit. note 2 at 100. H. Bedau (ed.), Civil Disobedience: Theory and Practice (1969), 23.
 
-<sup>15</sup> Rawls, op. cit. at 365.
+15 Rawls, op. cit. at 365.
 
-<sup>16</sup> ibid., at 364.
+16 ibid., at 364.
 
 #### Kent Greenawalt of substantial and clear injustice, and preferably to those which obstruct the path to removing other injustices.'17 Involving resistance to injustice within the limits of fidelity of law, civil disobedience will help inhibit and correct departures from justice and can contribute to stability in a well-ordered society.18
 
@@ -1615,23 +1624,23 @@ Vegetarians who believe that the killing of nonhuman animals for food violates t
 
 From the vegetarians' point of view, a grave moral wrong is being committed against defenseless beings who deserve protection. They seek to draw attention to this moral wrong in much the same way that other illegal demonstrations attempt to highlight wrongs. Even if human beings can have duties of justice to animals,
 
-<sup>17</sup> ibid., at 372.
+17 ibid., at 372.
 
-<sup>18</sup> ibid., at 382.
+18 ibid., at 382.
 
-<sup>19</sup> Compare Hugo Bedau's definition, in Bedau, op. cit., note 14 at 218: 'Anyone commits an act of civil disobedience if and only if he acts illegally, publicly, nonviolently, and conscientiously with the intent to frustrate (one of) the laws, policies, or decisions of his government.'
+19 Compare Hugo Bedau's definition, in Bedau, op. cit., note 14 at 218: 'Anyone commits an act of civil disobedience if and only if he acts illegally, publicly, nonviolently, and conscientiously with the intent to frustrate (one of) the laws, policies, or decisions of his government.'
 
-<sup>20</sup> Some may quarrel with the terminology of rights and justice for entities that are not potential participants in the moral community. The crucial question is whether we can have moral duties toward such entities. Rawls assumes that we can (see Rawls, op. cit. note 12 at 17, 512), although he apparently believes that the vocabulary of justice is inappropriate for those duties.
+20 Some may quarrel with the terminology of rights and justice for entities that are not potential participants in the moral community. The crucial question is whether we can have moral duties toward such entities. Rawls assumes that we can (see Rawls, op. cit. note 12 at 17, 512), although he apparently believes that the vocabulary of justice is inappropriate for those duties.
 
 the vegetarians do not appeal to the majority's shared conception of justice, which recognizes no rights of the sort they claim. No doubt, the vegetarians' hope to influence the views of their fellow citizens is based on a point of connection between their views and ordinary moral sympathies, which include respect for life and a limited concern for nonhuman animals. But when Rawls talks of 'invoking a commonly shared conception,' he requires a much stronger identity between the moral convictions of the majority and those disobeying than any the vegetarians can claim. Moreover, the vegetarians in this particular demonstration are mainly aiming at a passive minority that is already sympathetic to their position, so only in a very long-term sense are the demonstrators really addressing the majority at all. Yet if they are at all successful, the immediate result will be both some reduction in a practice they consider barbarous and an initial positive step toward wider reform.
 
 If the aim of civil disobedience must be to keep the nearly just society true to its own present convictions, then the vegetarians cannot engage in justifiable civil disobedience. But what the illustration shows is that the reasons for open and peaceful disobedience are not limited to that purpose. The vegetarians do lack a justification derived from the existing political order that Rawlsian demonstrators will have,21 but the two aims to transform a society's moral consciousness over time22 and to reach a minority who themselves can quickly reduce the incidence of serious wrongs might also warrant peaceful disobedience. If the demonstrators submit to physical risk and to legal processes and possible punishment, their tactics are not likely to be so widely replicated as to threaten the society's stability. The claims of obedience are often weighty, and they are especially strong when the law represents the considered opinion of the majority; but these claims do not absolutely preclude every instance of disobedience that is intended to sensitize people to grave moral wrongs that are not yet widely recognized.23
 
-<sup>21</sup> In Practical Ethics (op. cit., note 13, at 182–95), Peter Singer discusses violations of law by Britain's Animal Liberation Front. He apparently supposes that the particular aims of the demonstrators, such as to stop the exploitation of factory farming, are consonant with the majority's moral sense.
+21 In Practical Ethics (op. cit., note 13, at 182–95), Peter Singer discusses violations of law by Britain's Animal Liberation Front. He apparently supposes that the particular aims of the demonstrators, such as to stop the exploitation of factory farming, are consonant with the majority's moral sense.
 
-<sup>22</sup> See B. Zwiebach, Civility and Disobedience (1975), 154, who points out 'the historical rule of disobedience in the and articulation of new and valuable rights.'
+22 See B. Zwiebach, Civility and Disobedience (1975), 154, who points out 'the historical rule of disobedience in the and articulation of new and valuable rights.'
 
-<sup>23</sup> See P. Singer, op. cit., note 13 at 192–5. Rawls himself, it should be noted, does not assert any absolute preclusion, and he does not develop how much harder it may be to justify nonviolent disobedience that does not qualify as justified civil disobedience.
+23 See P. Singer, op. cit., note 13 at 192–5. Rawls himself, it should be noted, does not assert any absolute preclusion, and he does not develop how much harder it may be to justify nonviolent disobedience that does not qualify as justified civil disobedience.
 
 #### Illustration 10–2:
 
@@ -1651,9 +1660,9 @@ Maintaining that success through such pressure is never a legitimate aim of civi
 
 Opponents of civilian nuclear power consider a trespassory demonstration at a site of a nuclear power plant to be built by a privately owned electric company. They hope both to persuade the
 
-<sup>25</sup> M. K. Gandhi, Non-Violent Resistance, (1961); M. L. King, Jr, Strength to Love (1963), 54.
+25 M. K. Gandhi, Non-Violent Resistance, (1961); M. L. King, Jr, Strength to Love (1963), 54.
 
-<sup>26</sup> See King's 'Letter from a Birmingham Jail' (1963), reprinted in Bedau, op. cit. note 14 at 72 [this volume, pp. 68–89].
+26 See King's 'Letter from a Birmingham Jail' (1963), reprinted in Bedau, op. cit. note 14 at 72 [this volume, pp. 68–89].
 
 #### Kent Greenawalt company to abandon its plans and to alter public laws and policies that permit and favor such projects. Gerald believes that the public acceptance of such projects represents a clear injustice toward nearby residents and toward future generations. Wilma's view is somewhat different. She thinks that what has happened is an honest and understandable but terribly unfortunate misappraisal of the dangers of nuclear plants. She does not really blame anyone and thinks that the building of the plants would be warranted if the facts were as they are widely supposed. She has enormous respect for the minority of scientists who have estimated the dangers as very great and accepts their judgment.
 
@@ -1661,9 +1670,9 @@ One point of this illustration is to show how civil disobedience can be directed
 
 The main objective of this illustration is to use the difference between George's and Wilma's views to test Rawls's assertion that one must appeal to the majority's sense of justice, a claim that follows from his more general position [. . .] that justice takes priority over utility. No doubt, Wilma is artificially drawn; those willing to put their bodies on the line usually find severe injustice someplace. But it is also true that many who consider illegal action draw no clear distinction between injustice and great harm. For Rawls, civil disobedience concerns only injustice, and a demonstration by Wilma and people of like view would be something other than civil disobedience. Rawls's approach would apparently require people considering disobedience to discount their fears about harms that do not derive from injustice. Yet if, as Wilma believes, what has happened is only a very bad
 
-<sup>27</sup> See, generally, M. Walzer, op. cit. note 11, at 25–43, who discusses illegal strikes mainly directed at changes in company policies.
+27 See, generally, M. Walzer, op. cit. note 11, at 25–43, who discusses illegal strikes mainly directed at changes in company policies.
 
-<sup>28</sup> One might argue that any stumbling decision by the government with very bad consequences is unjust to citizens but that extension of the concept of justice would turn any pressing utilitarian basis for public action into an issue of justice. For another interpretation of Rawls that sharply restricts instances of possibly policy decision28 and disobedience is likely to produce a careful reappraisal and possible reversal, the disobedience might well be warranted.29 The intensity of opposition demonstrated by selfsacrificing disobedience can serve to promote reexamination of crucial factual data as well as claims of justice.
+28 One might argue that any stumbling decision by the government with very bad consequences is unjust to citizens but that extension of the concept of justice would turn any pressing utilitarian basis for public action into an issue of justice. For another interpretation of Rawls that sharply restricts instances of possibly policy decision28 and disobedience is likely to produce a careful reappraisal and possible reversal, the disobedience might well be warranted.29 The intensity of opposition demonstrated by selfsacrificing disobedience can serve to promote reexamination of crucial factual data as well as claims of justice.
 
 #### Illustration 10–4:
 
@@ -1687,9 +1696,9 @@ These perplexities of application mainly highlight the basic indefensibility of 
 
 If justifiable protests were limited in the way Fortas suggested, some laws and policies – for example, a highly unjust definition of treason or an egregious use of military force abroad – might be entirely immune from law-violating protest, as would be any injustice that results from a failure to enact laws to prevent great wrongs. A means of protest is more appropriate when it is reasonably related to the matter under protest;31 a trespassory demonstration at the Pentagon is a better means of protesting an unjust war than setting a fire in a national forest. But the strict principle
 
-<sup>30</sup> A Fortas, Concerning Dissent and Civil Disobedience (1968), 63.
+30 A Fortas, Concerning Dissent and Civil Disobedience (1968), 63.
 
-<sup>31</sup> See J. F. Childress, Civil Disobedience and Political Obligation (1971), 33; B. Zwiebach, op. cit. note 22 at 181–4; and W. L. Taylor, 'Civil Disobedience: Observations on the Strategies of Protest,' in H. Bedau, op. cit. note 14 at 98, 104–5.
+31 See J. F. Childress, Civil Disobedience and Political Obligation (1971), 33; B. Zwiebach, op. cit. note 22 at 181–4; and W. L. Taylor, 'Civil Disobedience: Observations on the Strategies of Protest,' in H. Bedau, op. cit. note 14 at 98, 104–5.
 
 that the very law that is violated must be what is protested makes no sense.32
 
@@ -1701,15 +1710,15 @@ Violations of law can have radically different impacts on the interests of other
 
 Violations of law that affect people's interests do so in various ways. Some illegal acts cause inconvenience to others. A loudspeaker that exceeds permissible limits of noise disturbs people; a subway strike in a big city can disrupt travel for millions of commuters. In yet other situations, something that people own is taken, destroyed, or interfered with. The line between inconvenience and deprivation of rights35 is not a clear one, and it depends largely on which interests the legal system recognizes as rights.36 Some forms of illegality, such as illegal sit-ins, may involve aspects
 
-<sup>32</sup> The thoughts in this section are developed at greater length in Greenawalt, 'A Contextual Approach to Disobedience,' 70 Colum. L. Rev. 48, 67–9 (1970); also in J. R. Pennock and J. Chapman (eds), Nomos XII, Political and Legal Obligation (1970), 332.
+32 The thoughts in this section are developed at greater length in Greenawalt, 'A Contextual Approach to Disobedience,' 70 Colum. L. Rev. 48, 67–9 (1970); also in J. R. Pennock and J. Chapman (eds), Nomos XII, Political and Legal Obligation (1970), 332.
 
-<sup>33</sup> I have in mind here examples such as the low speed limit that is really unnecessary at the time of day it is violated.
+33 I have in mind here examples such as the low speed limit that is really unnecessary at the time of day it is violated.
 
-<sup>34</sup> Of course, the citizenry, as beneficiaries of public expenditures, has an interest of a sort in each person paying his or her taxes, and each taxpayer may have an 'interest' in fair sharing of the burden. I am referring here to more concrete interference with interests.
+34 Of course, the citizenry, as beneficiaries of public expenditures, has an interest of a sort in each person paying his or her taxes, and each taxpayer may have an 'interest' in fair sharing of the burden. I am referring here to more concrete interference with interests.
 
-<sup>35</sup> Obvious instances of deprivations of rights are interferences with property rights, but the sense of owning something might extend to other kinds of rights, such as contract rights. I do not pause over the subtlety of whether or not people generally attach a special psychological significance to property rights.
+35 Obvious instances of deprivations of rights are interferences with property rights, but the sense of owning something might extend to other kinds of rights, such as contract rights. I do not pause over the subtlety of whether or not people generally attach a special psychological significance to property rights.
 
-<sup>36</sup> A sense of ownership does not always track legal ownership; a member of a family or a corporate employee, for example, may have such a sense about something he or she does not legally own.
+36 A sense of ownership does not always track legal ownership; a member of a family or a corporate employee, for example, may have such a sense about something he or she does not legally own.
 
 of both inconvenience and impairment of property or other rights. The most severe harm is physical injury to persons. On some occasions, harm to persons may be a greater or lesser risk of acts that would not be characterized as violent, such as an illegal strike in winter by fuel-oil drivers, but I will disregard this complication.
 
@@ -1717,9 +1726,9 @@ One reason the nature of interference with the interests of others can affect ju
 
 Regarding many instances of obedience that cause harm to others, an important difference exists between expected harmful consequences and hoped-for beneficial ones. The former are virtually certain, the latter problematic. The greater the uncertainty that any good will be achieved, the greater that good would have to be to outweigh certain or highly probable harm.
 
-<sup>37</sup> This distinction may not apply when the only property that is injured is property held by the government or a large private institution.
+37 This distinction may not apply when the only property that is injured is property held by the government or a large private institution.
 
-<sup>38</sup> Keeping other students away from class was considered a device for radicalizing them.
+38 Keeping other students away from class was considered a device for radicalizing them.
 
 I turn now to two longer-term effects that Rawls discusses. One of his conditions of justifiable civil obedience is that a group's violations of law will not lead to the kind of serious damage to the political order that may occur if too many groups, with various claims of injustice, disobey within a short time.39 Within a nearly just society, such an overload should be avoided, although Rawls fails to suggest how hard it will be for any single group to decide whether its own choice to disobey will significantly worsen existing conditions.
 
@@ -1731,11 +1740,11 @@ Unfortunately, this idea rests on an unrealistic picture of many large demonstra
 
 If obedience is to be justifiable within a generally just system, must those who disobey act openly and submit to punishment?
 
-<sup>39</sup> Rawls, op. cit. note 12 at 373–5.
+39 Rawls, op. cit. note 12 at 373–5.
 
-<sup>40</sup> ibid., at 376.
+40 ibid., at 376.
 
-<sup>41</sup> Rawls does recognize that possible injury to innocent third parties must be considered, but he does not seem aware of how typical the risk of such injury is. 42 See, generally, Peter Singer's account of escalating force in Northern Ireland. Democracy and Disobedience (1973), 139–45.
+41 Rawls does recognize that possible injury to innocent third parties must be considered, but he does not seem aware of how typical the risk of such injury is. 42 See, generally, Peter Singer's account of escalating force in Northern Ireland. Democracy and Disobedience (1973), 139–45.
 
 I have already said enough to indicate that this cannot be an absolute rule about morally justified disobedience. Some applications of some laws are not reached by any obligation to obey, and many violations in these situations will not be open. Moreover, when an obligation to obey is outweighed by a more pressing moral duty to prevent severe injustice or harm to individuals, one's effectiveness may depend on secrecy. To take an extreme example, a person who openly tries to help a fugitive slave escape is likely to make escape impossible, and someone who surrenders to authorities after aiding a successful escape will compromise the chance of giving future assistance to others. Relieving people from the bonds of slavery justifies secretive violation of law, at least if it is nonviolent. Finding a non-controversial example for more just societies is not as easy, but in the United States some concerned people now think that application of our immigration laws in certain instances is so unfair and inhumane that covert evasion is warranted.
 
@@ -1743,7 +1752,7 @@ The claims about openness and acceptance of punishment are mainly relevant to il
 
 A willingness to submit to punishment, which may combine two distinguishable elements, is often a critical ingredient of justified disobedience. One element is that the actor behaves so that
 
-<sup>43</sup> These matters are explored in a somewhat different way in Greenawalt, op. cit. note 32 at 69–71 [this volume, p. 183]. The discussion here proceeds on the assumption that the punishment to which one submits is one seriously intended by society. For the interesting suggestion that such was not the case when Socrates was sentenced to death, see Olsen, 'Socrates on Legal Obligation: Legitimation Theory and Civil Disobedience,' 18 Ga. L. Rev. (1984), 828, 844–7.
+43 These matters are explored in a somewhat different way in Greenawalt, op. cit. note 32 at 69–71 [this volume, p. 183]. The discussion here proceeds on the assumption that the punishment to which one submits is one seriously intended by society. For the interesting suggestion that such was not the case when Socrates was sentenced to death, see Olsen, 'Socrates on Legal Obligation: Legitimation Theory and Civil Disobedience,' 18 Ga. L. Rev. (1984), 828, 844–7.
 
 authorities may impose punishment if they wish. The second element, not necessarily present with the first, is that the actor acknowledge the appropriateness of punishment if it is determined that the law has been violated. Raising possible legal defenses is not, of course, inconsistent with either element.
 
@@ -1755,7 +1764,7 @@ Submission to punishment also serves as a helpful test of the actor's strength o
 
 The reasons so far suggested for willing submission are largely satisfied by a course of action that allows the authorities to impose
 
-<sup>44</sup> See King, op. cit., note 26 at 78.
+44 See King, op. cit., note 26 at 78.
 
 #### Kent Greenawalt punishment. An acknowledgment of its moral appropriateness goes even further, demonstrating a commitment to the fundamentals of the existing social order. Although the actor does not accept the judgment of society as expressed in the law about the proper course of behavior, he or she does ultimately accept that judgment in the form of punishment for behavior society considers wrongful. In so doing, the actor may express a certain humility about his moral judgment, but even if he does not, he reaffirms his sense of being a member of the community by admitting the appropriateness of enforcement efforts.45 Such acknowledgments will reduce anger directed at protesters and minimize the chances of massive repression.
 
@@ -1773,9 +1782,9 @@ That is the primitive model for the underlying structure of these diverse action
 
 From: Brian Smart, 'Defining Civil Disobedience,' Inquiry, 21 (1978), pp. 249–69.
 
-<sup>1</sup> H. P. Grice, 'Meaning,' Philosophical Review, 66 (1957), pp. 377–88.
+1 H. P. Grice, 'Meaning,' Philosophical Review, 66 (1957), pp. 377–88.
 
-<sup>2</sup> Thomas Schelling, The Strategy of Conflict (New York: Galaxy Books, 1963). 3 Erving Goffman, Relations in Public (Harmondsworth: Allen Lane, The Penguin Press, 1971).
+2 Thomas Schelling, The Strategy of Conflict (New York: Galaxy Books, 1963). 3 Erving Goffman, Relations in Public (Harmondsworth: Allen Lane, The Penguin Press, 1971).
 
 definitional flesh of civil disobedience to these rather dry theoretical bones.
 
@@ -1791,7 +1800,7 @@ In 'Meaning' Grice drew a broad distinction between natural and non-natural mean
 
 Now ringing the bell is not a linguistic act since it does not consist of lexical items or proper names strung together by a grammar. But since it does have non-natural meaning let us call it an NLNN action. My proposal is that in spite of Rawls's emphasis upon the linguistic notion of 'address', standard cases of civil disobedience are to be construed as NLNN actions. Though non-linguistic they may of course be protests, vehicles of information and persuasion, and arguably threats. Just as explicit inscriptions
 
-<sup>4</sup> John Rawls, A Theory of Justice (Oxford: The Clarendon Press, 1972), p. 363: henceforth referred to as TJ.
+4 John Rawls, A Theory of Justice (Oxford: The Clarendon Press, 1972), p. 363: henceforth referred to as TJ.
 
 #### Defining civil disobedience inside the bus allow us to decode the rings on the bell, so accompanying leaflets or speeches allow the decoding of acts of civil disobedience. The necessarily non-standard exeptions are provided by cases where the civilly disobedient act involves the performance of a speech act in direct violation of law, e.g. making a speech from the Public Gallery of the House of Commons, writing slogans across buildings or sky-writing.
 
@@ -1815,11 +1824,11 @@ Stephen Schiffer5 has questioned the need for (3). He finds plausible the sugges
 
 Many writers, including Grice in a later paper,6 have raised the question of whether an infinite regress of intentions is generated by the Gricean triad: whether that regress is vicious and, if so, how a non-arbitrary cut-off point can be decided upon. It will be enough for our purposes if we rule that U does not rely for the success of his evoking A's response upon some misunderstanding of U's intentions.7 This rule together with (1) and (2) and (indeterminately) (3) supplies the necessary and jointly sufficient conditions for non-natural meaning and bypasses the need to establish whether an infinite series of intentions is inherent within acts of communication,8 and makes our analysis of civil disobedience easier to handle.
 
-<sup>5</sup> Stephen Schiffer, Meaning (Oxford: The Clarendon Press, 1972), pp. 56–7. 6 H. P. Grice, 'Utterer's Meaning and Intentions,' Philosophical Review, 78 (1969), pp. 147–77; also P. F. Strawson, 'Intention and Convention in Speech Acts,' Philosophical Review, 73 (1964), pp. 439–60; and Schiffer op. cit.
+5 Stephen Schiffer, Meaning (Oxford: The Clarendon Press, 1972), pp. 56–7. 6 H. P. Grice, 'Utterer's Meaning and Intentions,' Philosophical Review, 78 (1969), pp. 147–77; also P. F. Strawson, 'Intention and Convention in Speech Acts,' Philosophical Review, 73 (1964), pp. 439–60; and Schiffer op. cit.
 
-<sup>7</sup> I roughly follow Jonathan Bennett, Linguistic Behaviour (Cambridge University Press, 1976), pp. 126–7.
+7 I roughly follow Jonathan Bennett, Linguistic Behaviour (Cambridge University Press, 1976), pp. 126–7.
 
-<sup>8</sup> In their introduction to Truth and Meaning (Oxford: The Clarendon Press, 1976), the editors, Gareth Evans and John Mc Dowell, are so anxious to avoid
+8 In their introduction to Truth and Meaning (Oxford: The Clarendon Press, 1976), the editors, Gareth Evans and John Mc Dowell, are so anxious to avoid
 
 #### Defining civil disobedience
 
@@ -1835,9 +1844,9 @@ For purposes of this discussion civil disobedience may be defined as selective a
 
 It is worth noting that Bayles intends 'public' to be taken in the sense that the person does not try to hide his violation of the law from the authorities. Now it is clear that by defining civil disobedience as deliberate and conscientious violation of the law Bayles does not even require intention (1). I suggest that the absence of (1) is sufficient to destroy both Hall's and Bayles's definitions. My point is that (1) introduces both an audience and a response that U intends to elicit from the audience and that the proffered definitions introduce neither. In a democracy, for example, the audience is the government or the public or both. The response may be acquiring the belief that a law or governmental policy or public attitude is wrong and that appropriate action should be taken. My contention is that conscientious illegalities constitute a much wider class that includes civil disobedience and more. An example of what this more includes is someone who continues to practise his religion privately even though he knows that it has been banned: he chooses ascribing superhuman capacities to language-users and money-users that they prefer to eliminate altogether the positive ascription of belief and intention in the understanding of non-natural meaning and put their faith in the unreflective use of language and money. But this is going too far.
 
-<sup>9</sup> Robert T. Hall, The Morality of Civil Disobedience (New York: Harper & Row, 1971), p. 15.
+9 Robert T. Hall, The Morality of Civil Disobedience (New York: Harper & Row, 1971), p. 15.
 
-<sup>10</sup> Michael Bayles, 'The Justification of Civil Disobedience,' Review of Metaphysics, 24 (1970), p. 4.
+10 Michael Bayles, 'The Justification of Civil Disobedience,' Review of Metaphysics, 24 (1970), p. 4.
 
 to ignore the law but does not intend to induce in anyone the belief that the ban should be lifted. He has no audience and hence no response in mind: ergo he is no civil disobedient.
 
@@ -1849,7 +1858,7 @@ Within the Gricean framework the expression 'causing people to know (or believe)
 
 The difficulty with Russell's formulation as so understood is that civil disobedience could be practised without anyone except the civil disobedient either knowing or being intended to know that it had been practised. Proof of the perils to which Russell refers could be illegally obtained and placed where it can be brought to public attention in such a way that the public would acquire the intended knowledge or belief and oppose their government's insanity in the way intended. So on this account civil disobedience could have (1) and lack (2), as in the case of the man who left B's handkerchief at the scene of the murder for the detective to see. And the trouble with an act of this structure is that while a response is intended to be elicited, it cannot be from an audience that the response is forthcoming. The relation between the handkerchief-planter and the detective is not that of 'utterer' and audience but that of manipulator and intended spectator.
 
-<sup>11</sup> The Autobiography of Bertrand Russell, III (London: Allen & Unwin, 1969), p. 139.
+11 The Autobiography of Bertrand Russell, III (London: Allen & Unwin, 1969), p. 139.
 
 #### Defining civil disobedience
 
@@ -1863,9 +1872,9 @@ Here, unlike the Bayles definition, it is reasonable to assume that the public n
 
 Let us suppose that Peshwataro intended (1) that the law prescribing the sacrifice should be revoked and (2) that his tribe should recognize his intention (1). A necessary condition of civil disobedience is that there should be an addressee: is Peshwataro's tribe the addressee or just a spectator of his act? According to
 
-<sup>12</sup> Hugo Bedau, 'On Civil Disobedience,' Journal of Philosophy, 58 (1961), p. 661.
+12 Hugo Bedau, 'On Civil Disobedience,' Journal of Philosophy, 58 (1961), p. 661.
 
-<sup>13</sup> See Robert T. Hall, 'Legal Toleration of Civil Disobedience,' Ethics, 81 (1971), p. 128.
+13 See Robert T. Hall, 'Legal Toleration of Civil Disobedience,' Ethics, 81 (1971), p. 128.
 
 the original Gricean model it was essential for non-natural meaning that Peshwataro should have intention (3), i.e. that he should intend that the tribe's recognition of (1) should be one of their reasons for realizing what a hideous practice the sacrifice was and for revoking the law that prescribed it. But I doubt whether (3) can be plausibly ascribed to Peshwataro. The mechanism inducing the tribe's response involves natural meaning: the moral nature of the practice is revealed or shown to the tribe by the fact that a brave with his qualities should be moved to save the girl: that fact meant that the practice had to be abandoned – a case of natural meaning.
 
@@ -1877,7 +1886,7 @@ If the defining feature of traditional civil disobedience was that it could be c
 
 As I read him Frazier wishes to expand the traditional notion of civil disobedience to embrace not only resistance but resistance which does not incorporate speech at all. Though the only vehicle of non-natural meaning to which he alludes is that of speech or of linguistic communication in general, I shall assume that he would wish to reject my thesis that civil disobedience must have
 
-<sup>14</sup> Clyde Frazier, 'Between Obedience and Revolution,' Philosophy and Public Affairs, 1 (1972), pp. 324–5.
+14 Clyde Frazier, 'Between Obedience and Revolution,' Philosophy and Public Affairs, 1 (1972), pp. 324–5.
 
 a non-natural meaning component in the sense that it must have intentions (1) and (2) and be free of any cross-purposes mechanism: such a requirement might take a linguistic or a non-linguistic form and might or might not involve natural meaning. Frazier's objection might be twofold:
 
@@ -1898,9 +1907,9 @@ Given that gold does have the atomic number 79, could something be gold without 
 
 Clearly Kripke does not intend to suggest that gold and iron pyrites share all of their superficial characteristics but only some of them.16 Chemical experimentation no doubt leads to differences observable by the naked eye, just as it does with the different colour of litmus paper according to whether it is an acid or alkali that is being tested. But it does mean that without a theory of
 
-<sup>15</sup> Saul Kripke, 'Naming and Necessity,' in Donald Davidson and Gilbert Harman (eds.), Semantics of Natural Language (Dordrecht: D. Reidel, 1972), pp. 319–20.
+15 Saul Kripke, 'Naming and Necessity,' in Donald Davidson and Gilbert Harman (eds.), Semantics of Natural Language (Dordrecht: D. Reidel, 1972), pp. 319–20.
 
-<sup>16</sup> For some of this clarification of Kripke cf. Colin Mc Ginn, 'A Note on the Essence of Natural Kinds', Analysis, 35 (1974–75), pp. 177–83.
+16 For some of this clarification of Kripke cf. Colin Mc Ginn, 'A Note on the Essence of Natural Kinds', Analysis, 35 (1974–75), pp. 177–83.
 
 metallurgy or chemistry one might be forced to treat gold and iron pyrites as one kind of metal. And even if some superficial differences could be detected, lack of a theory might simply lead to one of the metals being regarded as a deviant type of the other.
 
@@ -1974,7 +1983,7 @@ Violence is a considerable or destroying use of force against persons or their p
 
 For Morreall civil disobedience can include violence since violence is a form of force and force can certainly be used in civil disobedience as in the case of sit-ins, lying down in the road, and mass tax refusals. As I read him, Morreall envisages such civil disobedience as a form of threat, using force and the threat of force as a lever to attain the aims of the civil disobedients. I agree that this is a form of civil disobedience but I shall argue that both violence and force can enter civil disobedience without it constituting a threat either in the speech act sense or in the sense of imminent danger.
 
-Honderich too believes that civil disobedience may involve violence and, again, only on condition that it consists of a threat, but not any kind of threat. He distinguishes between the coercion of force and the coercion of persuasion.<sup>23</sup> Coercion of force is illustrated by my giving up my wallet at the point of a gun: while the threat poses two theoretical alternatives only one action is humanly possible: 'I am not left room for effectual reflection and judgement about
+Honderich too believes that civil disobedience may involve violence and, again, only on condition that it consists of a threat, but not any kind of threat. He distinguishes between the coercion of force and the coercion of persuasion.23 Coercion of force is illustrated by my giving up my wallet at the point of a gun: while the threat poses two theoretical alternatives only one action is humanly possible: 'I am not left room for effectual reflection and judgement about
 
 21 Ted Honderich, Three Essays on Political Violence (Basil Blackwell, Oxford 1976), p. 9: 'Political violence, roughly defined, is a considerable or destroying use of force against persons or things, a use of force prohibited by law, directed to a change in policies, personnel or system of government, and hence also directed to changes in the existence of individuals in the society and perhaps other societies.' I want to omit the political element of the definition and change the reference from law to human rights, since the law might not protect one from wrongful uses of force, e.g., execution or corporal punishment which violate human rights, and might paternalistically protect one from force which does not violate human rights, e.g., boxing or ice-hockey.
 
@@ -1992,9 +2001,9 @@ either Threatening by (a) Coercion of Force of Violence (b) Coercion of Force of
 
 Rawls accepts as the only possibilities (e) and (f), Morreall (a), (b), (c), and (f), Honderich (c), (e), and (f). I understand (a) and (b) to exhaust the Coercion of Force, and contend that (a) – (f)
 
-<sup>24</sup> ibid., p. 111.
+24 ibid., p. 111.
 
-<sup>25</sup> Cf. J. P. Day, 'Threats, Offers, Law, Opinion and Liberty,' American Philosophical Quarterly, Vol. 14 (1977), pp. 252–72. For example, I can no longer perform the complex action of both holding on to my wallet and living; the board cannot vote against the takeover and retain the director.
+25 Cf. J. P. Day, 'Threats, Offers, Law, Opinion and Liberty,' American Philosophical Quarterly, Vol. 14 (1977), pp. 252–72. For example, I can no longer perform the complex action of both holding on to my wallet and living; the board cannot vote against the takeover and retain the director.
 
 are all forms of civil disobedience with violence entering via (a), (c), and (d).
 
@@ -2032,7 +2041,7 @@ But who are the definitionally permissible addressees of civil disobedience? The
 
 How are we to capture both Rawls's cases and Singer's counterexamples? Inevitably our attempt is going to be vague, but the formula 'moral principles relating to matters of public concern' will suffice, though it will suffice only as a way of capturing Singer's broader and better notion of invocable principles. It is doubtful if the formula will cover the following grounds for civil disobedience: the damage to the national interest of laws permitting any works of art to leave the country; the ruin of a minority's pleasure by allowing the construction of motorways across moorlands; the irrationality and waste of much government bureaucracy. Here we must note that Rawls's idea was to exclude not only personal moralities and religious doctrines but also any reference to group or self-interest. Let us agree that reference to self-interest must be excluded, but what about groups such as
 
-<sup>26</sup> Peter Singer, Democracy and Disobedience (Oxford: The Clarendon Press, 1973), pp. 86–92 [this volume, pp. 122–29].
+26 Peter Singer, Democracy and Disobedience (Oxford: The Clarendon Press, 1973), pp. 86–92 [this volume, pp. 122–29].
 
 #### Defining civil disobedience of those who share a distinctive interest like walking or a culture?27 There seems to be no good reason for excluding reference to their interest from our invocable principles.
 
@@ -2040,7 +2049,7 @@ We are driven to the very broad formula that 'invocable principles are only thos
 
 (ii) Definitionally possible addressees. Given the nature of the invocable principles it is clear that the public of one's own state is to be normally included among the addressees. In the quotation from Russell we saw the possibility that while the protest may be directed at the government the primary non-natural meaning of an act of civil disobedience may be to inform the public and to urge it to put pressure on the government. Yet there is no reason why the addressees should be restricted to one's own state in an era of mass communications: other governments and peoples may be informed and urged to put pressure on one's own government. Within one's own state a repressive majority may be protested to, but the primary aim may be to inform and urge the minority to put pressure on the government or to resort to further campaigns of civil disobedience and so forth. The addressees do not therefore have to be restricted to either the authors or victims of the violations of invocable principles but to any public which, consistent with those principles, can put pressure on one's government. So we can rule out the case in which a man breaks the law in order to get the public to put pressure on his wife to return to him: it is not the government's or the public's business.
 
-<sup>27</sup> Cf. Vernon Van Dyke, 'Justice as Fairness: For Groups?,' The American Political Science Review, 69 (1975), pp. 607–14. Van Dyke convincingly argues that recognition of group interest should be built into a conception of justice.
+27 Cf. Vernon Van Dyke, 'Justice as Fairness: For Groups?,' The American Political Science Review, 69 (1975), pp. 607–14. Van Dyke convincingly argues that recognition of group interest should be built into a conception of justice.
 
 #### 7. The sense of justice is mainly incorporated in the law and social institutions
 
@@ -2050,11 +2059,11 @@ Both Brian Barry28 and Vinit Haksar29 have rightly criticized Rawls for so defin
 
 It is time now to construct our own definition out of the nonnatural meaning core of Part I and the polemical material of Part II. Just one complication prevents us from proceeding directly to it, for there is an apparent tension between allowing coercion by violence and Gandhi-like campaigns into civil disobedience but excluding revolutions from it. The difficulty is that disobedience with Gandhi-like aims – the overthrow of a régime and replacement of the constitution – combined with the coercion of force through violence just is revolution, not civil disobedience. One response to this might be to give up the idea that Gandhi and his followers practised civil disobedience since their aims were revolutionary.30 But that Gandhi did practise civil disobedience is one of those hard pieces of data which one should ignore or explain away
 
-<sup>28</sup> Brian Barry, The Liberal Theory of Justice (Oxford: The Clarendon Press, 1973), p. 153.
+28 Brian Barry, The Liberal Theory of Justice (Oxford: The Clarendon Press, 1973), p. 153.
 
-<sup>29</sup> Vinit Haksar, 'Rawls and Gandhi on Civil Disobedience,' Inquiry, 19 (1976), pp. 151–92.
+29 Vinit Haksar, 'Rawls and Gandhi on Civil Disobedience,' Inquiry, 19 (1976), pp. 151–92.
 
-<sup>30</sup> Cf. Clyde Frazier, op. cit., who thinks it is the aim rather than the manner of disobedience which is decisive for its classification as either civil or revolutionary. For the standard view that Gandhi did practise civil disobedience see Haksar, op. cit., and Marshall Cohen in a generally Rawlsian paper, 'Liberalism and Disobedience,' Philosophy and Public Affairs, 1 (1972), pp. 283–314.
+30 Cf. Clyde Frazier, op. cit., who thinks it is the aim rather than the manner of disobedience which is decisive for its classification as either civil or revolutionary. For the standard view that Gandhi did practise civil disobedience see Haksar, op. cit., and Marshall Cohen in a generally Rawlsian paper, 'Liberalism and Disobedience,' Philosophy and Public Affairs, 1 (1972), pp. 283–314.
 
 #### Defining civil disobedience only as a last resort. Another response is to exclude violence as coercion as many writers do, but for bad reasons. I suggest the solution lies in neither of these responses but in the exclusion of the conjunction of revolutionary aims with coercion by violence. In this way we can contrast civil disobedience quite sharply with revolution and yet retain the many varieties of civil disobedience that on reflection seem to be possible.
 
@@ -2062,7 +2071,7 @@ I conclude with a definition of civil disobedience which may also serve to summa
 
 Civil disobedience must be a vehicle of non-natural meaning: it is a protest and may also be a threat and information addressed to governments and the public; it is either a deliberate violation of the law or of an injunction or a deliberate challenge of the official interpretation of the law; it involves an appeal to principles of public concern that are held to have been breached; it may involve violence either as the coercion of force or as the coercion of persuasion or as a merely dramatic device but it cannot combine the coercion of force by violence with the overthrow of the government and the constitution.31
 
-<sup>31</sup> I am very grateful to Clive Borst, Jonathan Dancy, Patrick Day, David Mc Naughton, John Rogers, and Richard Swinburne for acute and helpful discussion of an earlier draft. I am also indebted to Alastair Hannay for criticisms and clarifications at the final stage of preparation.
+31 I am very grateful to Clive Borst, Jonathan Dancy, Patrick Day, David Mc Naughton, John Rogers, and Richard Swinburne for acute and helpful discussion of an earlier draft. I am also indebted to Alastair Hannay for criticisms and clarifications at the final stage of preparation.
 
 ## SELECT BIBLIOGRAPHY
 

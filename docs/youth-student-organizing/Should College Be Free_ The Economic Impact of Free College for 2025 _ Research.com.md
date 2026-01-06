@@ -1,3 +1,8 @@
+---
+title: "**Should College Be Free? The Economic Impact of Free College for 2025**"
+category: "youth-student-organizing"
+---
+
 #### [research.com](https://research.com/universities-colleges/should-college-be-free)
 
 # **Should College Be Free? The Economic Impact of Free College for 2025**

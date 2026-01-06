@@ -1,15 +1,10 @@
 ---
-title: The Ecology Of Freedom The Emergence And Dissolution Of Hierarchy
-author: Murray Bookchin
-slug: >-
-  The ecology of freedom the emergence and dissolution of hierarchy - Murray
-  Bookchin
-reconversion_status: ready_for_reconversion
-date: '1982'
-tags:
-  - theory
-  - anarchism
+title: "The Ecology Of Freedom The Emergence And Dissolution Of Hierarchy"
+author: "Murray Bookchin"
+date: "1982"
+category: "theory"
 ---
+
 ## **The ecology of freedom: the emergence and dissolution of hierarchy - Murray Bookchin**
 
 ## **Date:** Unknown

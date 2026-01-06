@@ -1,3 +1,8 @@
+---
+title: "## **Our activism will be intersectional, or it will be bullshit…**"
+category: "contemporary-analysis"
+---
+
 ## **Our activism will be intersectional, or it will be bullshit…**
 
 **Date:** Mon, 04/24/2017 - 16:41 **Source:** https://ecology.iww.org/node/2207**Tags:** intersectionality, Black Lives Matter, Plane Stupid, NGO-industrial complex, Big Green By Ali Tamlit - Red Pepper

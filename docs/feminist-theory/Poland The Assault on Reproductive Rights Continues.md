@@ -1,3 +1,8 @@
+---
+title: "## **Poland: The Assault on Reproductive Rights Continues**"
+category: "feminist-theory"
+---
+
 ## **Poland: The Assault on Reproductive Rights Continues**
 
 ## **Date:** Unknown

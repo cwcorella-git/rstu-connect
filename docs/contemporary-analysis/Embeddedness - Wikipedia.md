@@ -1,3 +1,8 @@
+---
+title: "Embeddedness"
+category: "contemporary-analysis"
+---
+
 # Embeddedness
 
 In [economics](https://en.m.wikipedia.org/wiki/Economics) and [economic sociology,](https://en.m.wikipedia.org/wiki/Economic_sociology) **embeddedness** refers to the degree to which economic activity is constrained by non-economic institutions. The term was created by economic historian [Karl Polanyi](https://en.m.wikipedia.org/wiki/Karl_Polanyi) as part of his [substantivist](https://en.m.wikipedia.org/wiki/Substantivism) approach. Polanyi argued that in non-market societies there are no pure economic institutions to which formal economic models can be applied. In these cases economic activities such as "provisioning" are "embedded" in non-economic kinship, religious and political institutions. In market societies, in contrast, economic activities have been rationalized, and economic action is "disembedded" from society and able to follow its own distinctive logic, captured in economic modeling. Polanyi's ideas were widely adopted and discussed in anthropology in what has been called the [formalist–substantivist debate.](https://en.m.wikipedia.org/wiki/Formalist%E2%80%93substantivist_debate) [\[1\]](#page-2-0) Subsequently, the term "embeddedness" was further developed by economic sociologist [Mark](https://en.m.wikipedia.org/wiki/Mark_Granovetter) [Granovetter,](https://en.m.wikipedia.org/wiki/Mark_Granovetter) who argued that even in market societies, economic activity is not as disembedded from society as economic models would suggest[.\[2\]](#page-2-1)

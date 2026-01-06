@@ -1,16 +1,10 @@
 ---
-title: The Abolition Of Work And Other Essays
-author: Ed Lawrence
-slug: The Abolition of Work and Other Essays
-reconversion_status: ready_for_reconversion
-date: '2024'
-tags:
-  - abolition
-  - police
-  - strikes
-  - unions
-  - rent
+title: "The Abolition Of Work And Other Essays"
+author: "Ed Lawrence"
+date: "2024"
+category: "abolition"
 ---
+
 ## **Bob Black**
 
 # **The Abolition of Work and Other Essays**
@@ -574,21 +568,52 @@ PULL THE PLUG on radio evangelists. Less aural sects, more oral sex! *Ranters*.
 
 | Going broke is IN. | "The tribes" are IN. |
 |--------------------------------------------------------|------------------------------------------------------------------|
-| Mentation is OUT.<br>Regimentation is IN. | Intoxication is OUT.<br>Toxicity is IN. |
-| Creativity is OUT.<br>Creationism is IN. | The "boat people" are OUT<br>The miss-the-boat people are IN. |
-| Dope is OUT.<br>Dopes are IN. | Punk is OUT.<br>Bunk is IN. |
-| Strikes are OUT.<br>First-strikes are IN. | Wilhelm Reich is OUT.<br>The Third Reich is IN. |
-| "Back to the land" is OUT.<br>Backs-to-the-wall is IN. | Radicals are OUT.<br>Radiation is IN. |
-| Reality is OUT.<br>Realty is IN. | 69 is OUT.<br>666 is IN. |
-| The obscene is OUT.<br>The "scene" is IN. | Bohemianism is OUT.<br>The Bohemian Grove is IN. |
-| "Making it" is IN.<br>Making somebody else is<br>OUT. | Nukes are IN.<br>Kooks are OUT. |
-| Polish workers are IN.<br>American workers are OUT. | The space program is IN.<br>Spacing out your programming is OUT. |
-| 9-digit ZIP codes are IN.<br>3-digit IQ's are OUT. | Organic is IN.<br>Orgasmic is OUT. |
-| Castration is IN.<br>Castigation is OUT. | Realpolitik is IN.<br>The impolitic are OUT. |
-| Designer jeans are IN.<br>Superior genes are OUT. | Celibacy is IN.<br>Celebration is OUT. |
-| Conserv!'ltism is IN.<br>Conservation is OUT. | Libertarians are IN.<br>Liberty is OUT. |
-| Couplism is IN.<br>Copulation is OUT. | Hero-worship is IN.<br>Heroism is OUT. |
-| Positive thinking is IN.<br>Positive drinking is OUT. | Poseurs like you are IN. Proseurs like me are<br>OUT. |
+| Mentation is OUT.
+Regimentation is IN. | Intoxication is OUT.
+Toxicity is IN. |
+| Creativity is OUT.
+Creationism is IN. | The "boat people" are OUT
+The miss-the-boat people are IN. |
+| Dope is OUT.
+Dopes are IN. | Punk is OUT.
+Bunk is IN. |
+| Strikes are OUT.
+First-strikes are IN. | Wilhelm Reich is OUT.
+The Third Reich is IN. |
+| "Back to the land" is OUT.
+Backs-to-the-wall is IN. | Radicals are OUT.
+Radiation is IN. |
+| Reality is OUT.
+Realty is IN. | 69 is OUT.
+666 is IN. |
+| The obscene is OUT.
+The "scene" is IN. | Bohemianism is OUT.
+The Bohemian Grove is IN. |
+| "Making it" is IN.
+Making somebody else is
+OUT. | Nukes are IN.
+Kooks are OUT. |
+| Polish workers are IN.
+American workers are OUT. | The space program is IN.
+Spacing out your programming is OUT. |
+| 9-digit ZIP codes are IN.
+3-digit IQ's are OUT. | Organic is IN.
+Orgasmic is OUT. |
+| Castration is IN.
+Castigation is OUT. | Realpolitik is IN.
+The impolitic are OUT. |
+| Designer jeans are IN.
+Superior genes are OUT. | Celibacy is IN.
+Celebration is OUT. |
+| Conserv!'ltism is IN.
+Conservation is OUT. | Libertarians are IN.
+Liberty is OUT. |
+| Couplism is IN.
+Copulation is OUT. | Hero-worship is IN.
+Heroism is OUT. |
+| Positive thinking is IN.
+Positive drinking is OUT. | Poseurs like you are IN. Proseurs like me are
+OUT. |
 ## | | |
 
 ## Ronald Reagan is **IN.**
@@ -631,7 +656,8 @@ Getting the In's out and the Out's in still leaves the inside in and the outside
 | | think Christianity is the Greatest Story Ever Sold; | |
 | | long for an alternative alternative; | |
 | | have no patience with patients; | |
-| | enjoy "6669";<br>oppose a first strike and propose a general strike; | |
+| | enjoy "6669";
+oppose a first strike and propose a general strike; | |
 | | | |
 ## | THEN | you already know that | |
 
@@ -1416,7 +1442,7 @@ If Loompanics readers are attuned to its wavelength as I receive it, they pursue
 
 ## ![](_page_80_Picture_2.jpeg)
 
-[<archive.org/details/Black The Abolition OfWork And Other Essays>](https://archive.org/details/Black The Abolition OfWork And Other Essays)
+[](https://archive.org/details/Black The Abolition OfWork And Other Essays)
 
 ## Cover by Donna Kossy
 

@@ -1,3 +1,8 @@
+---
+title: "**Is the Paris Climate Conference Designed to Fail?**"
+category: "environmental-justice"
+---
+
 # **Is the Paris Climate Conference Designed to Fail?**
 
 ## **Date:** Fri, 11/13/2015 - 18:55

@@ -1,3 +1,8 @@
+---
+title: "**Eleven blind leaders or "practical socialism" and "revolutionary tactics" from an I. W. W.standpoint – B. H. Williams**"
+category: "theory"
+---
+
 # **Eleven blind leaders or "practical socialism" and "revolutionary tactics" from an I. W. W.standpoint – B. H. Williams**
 
 ## **Date:** Unknown
@@ -329,11 +334,21 @@ Was it like an autonomous group then? I mean in general it was open and publishe
 | doug |
 | 10 years 7 months ago |
 | In reply to Welcomebylibcom.org |
-| Great pamphlet. Always fascinating to see so many of the same arguments aired today on the<br>left being critiqued 100 + years ago. |
-| Think the point about government ownership could have been made better, but this is<br>speaking in hindsight with loads more evidence to draw on. It also says "the Chicago street<br>railway workers are organized and in position to strike against their employers, those of the<br>city-owned railways of Glasgow have no union in the same sense", which is untrue. The<br>Glasgow tramway workers were organised and, as just one example, went on strikeagainst the<br>Corporation for a 48-hour week in 1911. |
+| Great pamphlet. Always fascinating to see so many of the same arguments aired today on the
+left being critiqued 100 + years ago. |
+| Think the point about government ownership could have been made better, but this is
+speaking in hindsight with loads more evidence to draw on. It also says "the Chicago street
+railway workers are organized and in position to strike against their employers, those of the
+city-owned railways of Glasgow have no union in the same sense", which is untrue. The
+Glasgow tramway workers were organised and, as just one example, went on strikeagainst the
+Corporation for a 48-hour week in 1911. |
 | fnbrill |
 | Wasn't official. |
-| What about the conclusions themselves? I'd suspect, even if the Bureau itself wasn't official<br>these were views shared by a significant number of Wobblies. It's also similar to the type of<br>stuff put out by industrial unionists, and syndicalists in Britain around the same time. Even in<br>the British SLP, who were nominally De Leonist, you find in practice the same antagonism to<br>politicians and the state. |
+| What about the conclusions themselves? I'd suspect, even if the Bureau itself wasn't official
+these were views shared by a significant number of Wobblies. It's also similar to the type of
+stuff put out by industrial unionists, and syndicalists in Britain around the same time. Even in
+the British SLP, who were nominally De Leonist, you find in practice the same antagonism to
+politicians and the state. |
 | fnbrilll |
 | 10 years 7 months ago |
 

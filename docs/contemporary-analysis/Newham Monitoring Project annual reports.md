@@ -1,13 +1,21 @@
+---
+title: "## **Newham Monitoring Project annual reports**"
+category: "contemporary-analysis"
+---
+
 ## **Newham Monitoring Project annual reports**
 
 | Date: Unknown |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Source: https://libcom.org/article/newham-monitoring-project-annual-reports|
 | Tags: Newham, 1970s-80s Asians fight racism, Newham Monitoring Project, police |
-| Annual reports of the Newham Monitoring Project, an anti-racist and police monitoring group<br>that emerged from black and Asian struggles in the 1970s and 1980s. The reports cover a<br>22-year period from 1983 to 2005. |
+| Annual reports of the Newham Monitoring Project, an anti-racist and police monitoring group
+that emerged from black and Asian struggles in the 1970s and 1980s. The reports cover a
+22-year period from 1983 to 2005. |
 | E7Blackbird |
 | 1 year 6 months ago |
-| Two reports on the official site are missing from this batch (1984, and 1991-1992). I can't add<br>them myself, so just putting the link here for admin/research interest. |
+| Two reports on the official site are missing from this batch (1984, and 1991-1992). I can't add
+them myself, so just putting the link here for admin/research interest. |
 | https://e6e.5f3.myftpupload.com/timeline/|
 | (yes, that is the official link, I promise) |
 | Lia |

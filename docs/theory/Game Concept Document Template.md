@@ -1,3 +1,8 @@
+---
+title: "**Game Design Concept and Pitch Template**"
+category: "theory"
+---
+
 Product Design
 
 # **Game Design Concept and Pitch Template**

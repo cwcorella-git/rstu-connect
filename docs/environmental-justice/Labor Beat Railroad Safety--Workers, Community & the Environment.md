@@ -1,9 +1,15 @@
+---
+title: "## **Labor Beat: Railroad Safety--Workers, Community & the Environment**"
+category: "environmental-justice"
+---
+
 ## **Labor Beat: Railroad Safety--Workers, Community & the Environment**
 
 | Date: Wed, 10/28/2015 - 15:30 |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Source: https://ecology.iww.org/node/1360|
-| Tags: Railcon15, Railroad Workers United (RWU), railroad workers, crude-by-rail, health and safety,<br>Lac-Mégantic, green unionism, Ron Kaminkow, Richard La Brie, Tom Harding |
+| Tags: Railcon15, Railroad Workers United (RWU), railroad workers, crude-by-rail, health and safety,
+Lac-Mégantic, green unionism, Ron Kaminkow, Richard La Brie, Tom Harding |
 | By Milo Wolf - |
 | Labor Beat |
 | , October 26, 2015 |

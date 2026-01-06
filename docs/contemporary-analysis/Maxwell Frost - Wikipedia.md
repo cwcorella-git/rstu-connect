@@ -1,3 +1,8 @@
+---
+title: "**Maxwell Frost**"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_2.jpeg)
 
 # **Maxwell Frost**
@@ -176,8 +181,9 @@ Bankman-Fried, Frost donated the individual donation to the Zebra Coalition, an 
 
 | Year | Office | Party | Primary | | | General | | | Result | Swing | Ref. |
 |------|---------------|------------|---------|--------|------------|---------|--------|-----|--------|-------|------|
-| | | | Total | % | <u>P</u> . | Total | % | P. | Result | Swing | nei. |
-| 2022 | U. S.<br>House | Democratic | 19,288 | 34.77% | 1st | 117,955 | 59.00% | 1st | Won | Hold | [58] |
+| | | | Total | % | P . | Total | % | P. | Result | Swing | nei. |
+| 2022 | U. S.
+House | Democratic | 19,288 | 34.77% | 1st | 117,955 | 59.00% | 1st | Won | Hold | [58] |
 | 2024 | | | 33,208 | 81.77% | 1st | 181,455 | 62.37% | 1st | Won | Hold | [59] |
 
 **Source:** Secretary of State of Florida | Election Results (https://dos.fl.gov/elections/data-statistics/elections-data/election-results-archive/)
@@ -196,8 +202,8 @@ Bankman-Fried, Frost donated the individual donation to the Zebra Coalition, an 
 - 4. Mc Menamin, Lexi (November 8, 2021). "Candidates to Watch in the 2022 Midterms" (https://www.teenvogue.com/story/2022-midterms-candidates-to-watch). *Teen Vogue*. Retrieved June 29, 2022.
 - 5. Sotomayor, Marianna (September 3, 2022). "Maxwell Frost is figuring out how to be Gen Z's likely first congressman" (https://www.washingtonpost.com/politics/2022/09/03/maxwell-frost-congress-generation/). *The Washington Post*. Retrieved November 9, 2022.
 - 6. Metzger, Bryan (May 28, 2022). "Meet the 25-year-old gun violence prevention advocate who could become the first Gen Z member of Congress" (https://www.businessinsider.com/maxwell-alejandro-frost-gun-violence-prevention-generation-z-congress-2022-5). Business Insider. Retrieved June 28, 2022.
-- 7. Lipson, Molly (March 31, 2022). <u>"For This 25-Year-Old Running For Congress, Friends Are The Key To His Campaign"</u> (https://www.elitedaily.com/news/maxwell-frost-campaign-congress-florida). *Elite Daily*. Retrieved June 30, 2022.
-- 8. Allen, Greg (January 20, 2013). <u>"A High School Salsa Band In The Inaugural Parade? 'Of Course!' " (https://www.npr.org/2013/01/20/169733038/a-high-school-salsa-band-in-the-inaugural-parade-of-course)</u>. NPR. Retrieved August 24, 2022.
+- 7. Lipson, Molly (March 31, 2022). "For This 25-Year-Old Running For Congress, Friends Are The Key To His Campaign" (https://www.elitedaily.com/news/maxwell-frost-campaign-congress-florida). *Elite Daily*. Retrieved June 30, 2022.
+- 8. Allen, Greg (January 20, 2013). "A High School Salsa Band In The Inaugural Parade? 'Of Course!' " (https://www.npr.org/2013/01/20/169733038/a-high-school-salsa-band-in-the-inaugural-parade-of-course). NPR. Retrieved August 24, 2022.
 
 - 9. [Omokha, Rita](https://en.wikipedia.org/wiki/Rita_Omokha) (January 5, 2023). ["Maxwell Alejandro Frost Wants to Be a New Type of](https://www.teenvogue.com/story/maxwell-frost-congress-january-2023-cover) [Congressman" \(https://www.teenvogue.com/story/maxwell-frost-congress-january-2023-cover\).](https://www.teenvogue.com/story/maxwell-frost-congress-january-2023-cover) Teen Vogue. Retrieved July 18, 2023.
 - 10. @Maxwell FrostFL (March 15, 2023). ["For almost a decade I was in the @Civil Air Patrol and ended](https://x.com/Maxwell FrostFL/status/1636148394405031938) [as a Cadet Major when I aged out of the Cadet program" \(https://x.com/Maxwell FrostFL/status/16](https://x.com/Maxwell FrostFL/status/1636148394405031938) [36148394405031938\)](https://x.com/Maxwell FrostFL/status/1636148394405031938) [\(Tweet\)](https://en.wikipedia.org/wiki/Tweet_(social_media)) – via [Twitter.](https://en.wikipedia.org/wiki/Twitter)

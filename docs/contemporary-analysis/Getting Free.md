@@ -1,3 +1,8 @@
+---
+title: "**Getting Free**"
+category: "contemporary-analysis"
+---
+
 # **Getting Free**
 
 # *Getting Free*
@@ -14,13 +19,12 @@
 
 First edition 1998 Second (Internet) edition 2000 Third (Internet) edition 2002 Fourth (Internet) edition 2004
 
-*Getting Free* is available on the web at: <http://www.jamesherod.info> It is mirror posted at:
+*Getting Free* is available on the web at:  It is mirror posted at:
 
-<http://site.www.umb.edu/faculty/salzman\_g/Strate/Get Fre/index.htm>
 
-A Portuguese translation of the second Internet edition is available at: <http://www.geocities.com/projetoperiferia/gettingfreept.htm>
+A Portuguese translation of the second Internet edition is available at: 
 
-> A Spanish translation of this edition, in preparation, will be available at: <http://www.jamesherod.info>
+> A Spanish translation of this edition, in preparation, will be available at: 
 
 The first edition was translated into Farsi by Payman Piedar and published in three installments in the Persian journal of anarcho-communism, *Nakhdar,* issues #2 (2001), #3 (2003), and #4 (2005), P. O. Box 380473, Cambridge, Massachusetts 02139.
 
@@ -32,24 +36,110 @@ Printed and bound by Book Mobile 5120 Cedar Lake Road Minneapolis, Minnesota 554
 
 # Table of Contents
 
-| Acknowledgments<br>vii | |
+| Acknowledgments
+vii | |
 |-------------------------------------------------------------------------------------------------------------------------------|-----|
-| A<br>Note<br>on<br>Terminology<br>ix | |
-| Introduction<br> | 1 |
-| 1.<br>An<br>Awareness<br>of<br>How<br>We<br>Do<br>Not<br>Want<br>to<br>Live<br>7 | |
-| 2.<br>A<br>Notion<br>of<br>How<br>We<br>Might<br>Want<br>to<br>Live<br>11 | |
-| 3. Basic<br>Agreements<br>of<br>the<br>Association17 | |
-| 4. Obstacles<br>19 | |
-| 5.<br>Strategies<br>That<br>Have<br>Failed24 | |
-| 6. The<br>Strategy<br>Described<br>Abstractly<br>38 | |
-| 7. Ways<br>to<br>Begin<br>Gutting<br>Capitalism42 | |
-| 8. General<br>Comments<br>on<br>the<br>Strategy<br>82 | |
-| 9. Ways<br>to<br>Finish<br>Gutting<br>Capitalism85 | |
-| 10.<br>Further<br>Discussion<br>of<br>Topics<br>Relevant<br>to<br>the<br>Proposed<br>Strategy<br>86 | |
-| 11.<br>Some<br>Comments<br>on<br>the<br>Literature<br>121 | |
-| Postscript<br>B<br>March<br>2007<br> | 139 |
-| Appendix:<br>Draft<br>General<br>Agreement<br>for<br>an<br>Association<br>of<br>Democratic<br>Autonomous<br>Neighborhoods<br> | 145 |
-## | Recommended<br>Reading<br> | 150 |
+| A
+Note
+on
+Terminology
+ix | |
+| Introduction
+ | 1 |
+| 1.
+An
+Awareness
+of
+How
+We
+Do
+Not
+Want
+to
+Live
+7 | |
+| 2.
+A
+Notion
+of
+How
+We
+Might
+Want
+to
+Live
+11 | |
+| 3. Basic
+Agreements
+of
+the
+Association17 | |
+| 4. Obstacles
+19 | |
+| 5.
+Strategies
+That
+Have
+Failed24 | |
+| 6. The
+Strategy
+Described
+Abstractly
+38 | |
+| 7. Ways
+to
+Begin
+Gutting
+Capitalism42 | |
+| 8. General
+Comments
+on
+the
+Strategy
+82 | |
+| 9. Ways
+to
+Finish
+Gutting
+Capitalism85 | |
+| 10.
+Further
+Discussion
+of
+Topics
+Relevant
+to
+the
+Proposed
+Strategy
+86 | |
+| 11.
+Some
+Comments
+on
+the
+Literature
+121 | |
+| Postscript
+B
+March
+2007
+ | 139 |
+| Appendix:
+Draft
+General
+Agreement
+for
+an
+Association
+of
+Democratic
+Autonomous
+Neighborhoods
+ | 145 |
+## | Recommended
+Reading
+ | 150 |
 
 # Acknowledgments
 
@@ -139,7 +229,7 @@ As will become evident, I'm writing from the perspective of someone who lives in
 
 This book has been written for those who already want to destroy capitalism; it is not intended to persuade anyone why it should be destroyed. That is a task of a different kind. What is self-evident to me, as it is to most radicals, is unfortunately not so self-evident to others, not even to the working class itself. Nevertheless, I have included a short initial section on how we do *not* want to live in hopes of attracting a wider range of readers B readers who may be quite unhappy with their lives, but who are far from attributing their misery to capitalists. I've also included a list of recommended readings for those who want to explore emancipatory social thought further.
 
-Several of my essays from the past decade are directly relevant to this book and can serve as supplementary material for the issues discussed here. They are posted on my web site under >Selected Papers: 1998 to Present,= at: <http://www.jamesherod.info>. I would like to call your attention to the following papers: (a) "Seeing the Inadequacies of ACF's Strategy Statement" (February 1999); (b) "Breaking Out of the Cage and Destroying Our Jailers" (June 1999); (c) "The Weakness of a Politics of Protest" (June 2000); (d) "Notes on Building a Movement for Direct Democracy" (June 2004); and (e) "Anarchist Revolutionary Strategy" (April 2006).
+Several of my essays from the past decade are directly relevant to this book and can serve as supplementary material for the issues discussed here. They are posted on my web site under >Selected Papers: 1998 to Present,= at: . I would like to call your attention to the following papers: (a) "Seeing the Inadequacies of ACF's Strategy Statement" (February 1999); (b) "Breaking Out of the Cage and Destroying Our Jailers" (June 1999); (c) "The Weakness of a Politics of Protest" (June 2000); (d) "Notes on Building a Movement for Direct Democracy" (June 2004); and (e) "Anarchist Revolutionary Strategy" (April 2006).
 
 # 1
 
@@ -819,7 +909,7 @@ Maybe some general comments are now in order about the aboveproposed tactics. Pl
 
 You may notice also that many of the items listed above are designed to stop the ruling class from controlling what we think. This is in many ways the front line of the war. There are no longer any historical conditions, and haven't been for a long time, that prevent us from building a new social world. It is the consciousness-controlling weapons the ruling class has deployed against our minds that prevent us. They have managed to erase, for example, practically all knowledge of former anticapitalist struggles. Instead, they fill our brains with sports and media trivia. A top priority for an opposition movement must be to counter and neutralize these weapons so that we can learn to think for ourselves again.
 
-Several of the items listed above are *acts of resistance* <sup>B</sup> for example, not voting, not watching television, or not becoming a boss. It is necessary to reject, refuse, and break with a host of small practices that support capitalist relations. It is mainly through such acts of resistance that we can generate an opposition movement and a counterconsciousness.
+Several of the items listed above are *acts of resistance* B for example, not voting, not watching television, or not becoming a boss. It is necessary to reject, refuse, and break with a host of small practices that support capitalist relations. It is mainly through such acts of resistance that we can generate an opposition movement and a counterconsciousness.
 
 Many of the items are intended to weaken and subvert the government and corporations. The first and easiest step toward weakening a government is simply to withdraw our support and declare our opposition. After that, we can start finding dozens of concrete ways to subvert it, including all those listed above. For example, we can increase our demands on the government, asking for more and more. The wealth is ours, after all. We can demand far more than the government can ever deliver. This puts the system under stress and opens up avenues for us to take action elsewhere. We can support tax resistance B a strategy that can't get far as long as a government is strong enough to impose heavy fines and prison sentences, but one that can perhaps lay the groundwork for later tax resistance on a massive scale. We can support draft resistance movements and generally discourage anyone from fighting in ruling-class wars. We can oppose corporations. We should join every anticorporate campaign we hear about. We can try to destroy corporations' credibility, expose all the tax breaks they get, expose all the government subsidies they receive, show how they never have to pay to clean up the messes they make, and reveal how they buy off the legislators. Once we have gotten over the idea that the government is ours, we can think of a hundred ways to weaken and subvert it.
 

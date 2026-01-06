@@ -1,3 +1,8 @@
+---
+title: "**Climate Change As Class War: A Review**"
+category: "environmental-justice"
+---
+
 # **Climate Change As Class War: A Review**
 
 ## **Date:** Tue, 12/06/2022 - 00:00
@@ -132,7 +137,8 @@ Re-organize jobs and education to eliminate the bureaucratic concentration of po
 
 Reduce the workweek and share work responsibilities among all who can work, and
 
-| Create a new logic of development for technology that is friendly to workers and the<br>environment. |
+| Create a new logic of development for technology that is friendly to workers and the
+environment. |
 |------------------------------------------------------------------------------------------------------|
 | Tom Wetzel is the author of |
 | Overcoming Capitalism: Strategy for the Working Class in the 21 |

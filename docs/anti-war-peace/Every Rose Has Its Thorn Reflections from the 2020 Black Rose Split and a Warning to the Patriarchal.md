@@ -1,3 +1,8 @@
+---
+title: "**Every Rose Has Its Thorn: Reflections from the 2020 Black Rose Split and a Warning to the Patriarchal Revolutionary Left**"
+category: "anti-war-peace"
+---
+
 # **Every Rose Has Its Thorn: Reflections from the 2020 Black Rose Split and a Warning to the Patriarchal Revolutionary Left**
 
 ## **Date:** Unknown

@@ -1,3 +1,8 @@
+---
+title: "**Attica Prison riot**"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_2.jpeg)
 
 # **Attica Prison riot**

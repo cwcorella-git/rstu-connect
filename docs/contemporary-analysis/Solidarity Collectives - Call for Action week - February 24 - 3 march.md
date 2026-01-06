@@ -1,3 +1,8 @@
+---
+title: "## **Solidarity Collectives - Call for Action week - February 24 - 3 march**"
+category: "contemporary-analysis"
+---
+
 ## **Solidarity Collectives - Call for Action week - February 24 - 3 march**
 
 ## **Date:** Unknown

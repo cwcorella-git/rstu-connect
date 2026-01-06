@@ -1,3 +1,8 @@
+---
+title: "## **Bristol Earth Strike: Action for Earth Day**"
+category: "arts-culture-music"
+---
+
 ## **Bristol Earth Strike: Action for Earth Day**
 
 ## **Date:** Wed, 04/21/2021 - 00:00
@@ -58,7 +63,8 @@ for example
 
 You might want to consider talking with other workers about co-signing and submitting this letter together, as collective support for changes in your workplace is often more effective and safer. Setting up a group for workers to discuss this action (and other workplace environmental issues) on an ongoing basis can be effective for making the changes that you
 
-| want to see beyond Earth Day, and holding your employer accountable for any promises they<br>make. |
+| want to see beyond Earth Day, and holding your employer accountable for any promises they
+make. |
 |----------------------------------------------------------------------------------------------------|
 | Click on the link to download our template letter to employers - |
 | letter to Employers |

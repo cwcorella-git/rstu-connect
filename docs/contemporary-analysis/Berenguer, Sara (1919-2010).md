@@ -1,3 +1,8 @@
+---
+title: "## **Berenguer, Sara (1919-2010)**"
+category: "contemporary-analysis"
+---
+
 ## **Berenguer, Sara (1919-2010)**
 
 ## **Date:** Unknown

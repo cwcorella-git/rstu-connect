@@ -1,3 +1,8 @@
+---
+title: "**Juan Carlos Pérez Cortés Relationship Anarchy Occupy Intimacy!**"
+category: "theory"
+---
+
 # **Juan Carlos Pérez Cortés Relationship Anarchy Occupy Intimacy!**
 
 # **December 2022**

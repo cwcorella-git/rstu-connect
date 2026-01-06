@@ -1,3 +1,8 @@
+---
+title: "CONSPICUOUS ASCETICISM: COLLAPSING CONSUMERS' HUNGRY GHOSTS"
+category: "contemporary-analysis"
+---
+
 #### University of T ersity of Texas Rio Gr exas Rio Grande Valley
 
 ## [Scholar Works @ UTRGV](https://scholarworks.utrgv.edu/)
@@ -80,19 +85,24 @@ I would particularly like to thank my committee for seeing my potential early on
 | TABLE OF CONTENTS vii | |
 | LIST OF TABLES | x |
 | LIST OF FIGURES xi | |
-| CHAPTER I. INTRODUCTION1<br>The Hungry Ghost Throughout History3 | |
+| CHAPTER I. INTRODUCTION1
+The Hungry Ghost Throughout History3 | |
 | Statement of the Problem7 | |
 | Statement of the Purpose10 | |
 | CHAPTER II. LITERATURE REVIEWAND THEORETICAL FRAMEWORK14 | |
-| The main effects of Adverse Childhood Experience on Narcissism, Conspicuous<br>Consumption, and Compulsive Consumption14 | |
+| The main effects of Adverse Childhood Experience on Narcissism, Conspicuous
+Consumption, and Compulsive Consumption14 | |
 | Narcissism in Postmodernism16 | |
-| The Main Effect of ACEs on Conspicuous Consumption and Compulsive<br>Consumption19 | |
+| The Main Effect of ACEs on Conspicuous Consumption and Compulsive
+Consumption19 | |
 | ACEs effect on Compulsive Consumption21 | |
 | Temporary narcissism and pathological consumption24 | |
-| The Main Effect of Conspicuous Consumption and Compulsive Consumption on Collapsed<br>Narcissism26 | |
+| The Main Effect of Conspicuous Consumption and Compulsive Consumption on Collapsed
+Narcissism26 | |
 | Conspicuous Consumption's Effect on Collapsed Narcissism28 | |
 | Compulsive Consumption's effect on Collapsed Narcissism29 | |
-| The Moderating Effect of Treatment Modalities on Collapsed Narcissism and Conspicuous<br>Asceticism31 | |
+| The Moderating Effect of Treatment Modalities on Collapsed Narcissism and Conspicuous
+Asceticism31 | |
 | Classical Serotonergic Psychedelic Medicines: Ayahuasca34 | |
 
 | Classical Serotonergic Psychedelic Medicines: Iboga | 37 |
@@ -133,14 +143,28 @@ I would particularly like to thank my committee for seeing my potential early on
 
 | | Page |
 |-------------------------------------------------------------------------------------------------------------------------------------------------|------|
-| Table 1.1: List of Treatment Modalities<br>42 | |
-| Table 1.2: Latent Variables' Measurement Model<br>50 | |
-| Table 1.3: Inter-construct Correlations<br>Between Latent Variables<br>53 | |
-| Table 2.1: Composite Reliability Scores, Average Variance Extracted (AVE), along with the<br>inter-correlations of the composite scores<br>68 | |
-| Table 2.2: Inter-construct Correlations<br>Between Latent Variables<br>70 | |
-| Table 3.1<br>Composite Reliability Scores, Average Variance Extracted (AVE), along with the<br>inter-correlations of the composite scores<br>90 | |
-| Table 3.2: Factor Loadings for CMC, CNC, and CNA<br>91 | |
-| Table 3.3: Inter-construct Correlations<br>Between Latent Variables<br>92 | |
+| Table 1.1: List of Treatment Modalities
+42 | |
+| Table 1.2: Latent Variables' Measurement Model
+50 | |
+| Table 1.3: Inter-construct Correlations
+Between Latent Variables
+53 | |
+| Table 2.1: Composite Reliability Scores, Average Variance Extracted (AVE), along with the
+inter-correlations of the composite scores
+68 | |
+| Table 2.2: Inter-construct Correlations
+Between Latent Variables
+70 | |
+| Table 3.1
+Composite Reliability Scores, Average Variance Extracted (AVE), along with the
+inter-correlations of the composite scores
+90 | |
+| Table 3.2: Factor Loadings for CMC, CNC, and CNA
+91 | |
+| Table 3.3: Inter-construct Correlations
+Between Latent Variables
+92 | |
 
 ## LIST OF FIGURES
 
@@ -374,9 +398,42 @@ H5d: Forgiveness moderates the relationship between collapsed narcissism and con
 
 | Exposure to Treatment Modality | | | |
 |-----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|--|
-| Meditation<br>(Epstein 1986) | •<br>Relives Early Childhood Memories<br>•<br>Recreates traumatic experiences<br>•<br>Release negative emotion<br>•<br>Reduces agentic values<br>•<br>Enlightenment fully dissipates narcissistic<br>structures<br>•<br>Shifts mode of ego ideal toward ideal ego | | |
-| Forgiveness<br>(Tutu et. al 2014) | •<br>Based on principles of empathy<br>•<br>Used in twelve step programs<br>•<br>Focuses on reconnection and communal<br>values<br>•<br>Seeks to transform narcissism | | |
-| Classic Serotonergic psychedelic (CSP)<br>medicines<br>(Van Mulukom, Patterson, Van Elk 2020) | •<br>Restores a sense of spirituality<br>•<br>Relives Early Childhood Memories<br>•<br>Claims to clean the multiple bodies of<br>consumers (i.e. mind, body, spirit, and<br>social body)<br>•<br>Helps consumers establish boundaries | | |
+| Meditation
+(Epstein 1986) | •
+Relives Early Childhood Memories
+•
+Recreates traumatic experiences
+•
+Release negative emotion
+•
+Reduces agentic values
+•
+Enlightenment fully dissipates narcissistic
+structures
+•
+Shifts mode of ego ideal toward ideal ego | | |
+| Forgiveness
+(Tutu et. al 2014) | •
+Based on principles of empathy
+•
+Used in twelve step programs
+•
+Focuses on reconnection and communal
+values
+•
+Seeks to transform narcissism | | |
+| Classic Serotonergic psychedelic (CSP)
+medicines
+(Van Mulukom, Patterson, Van Elk 2020) | •
+Restores a sense of spirituality
+•
+Relives Early Childhood Memories
+•
+Claims to clean the multiple bodies of
+consumers (i.e. mind, body, spirit, and
+social body)
+•
+Helps consumers establish boundaries | | |
 
 ## ![](_page_62_Figure_2.jpeg)
 
@@ -404,55 +461,57 @@ At the start of the survey, participants were given an informed option to consen
 
 ## **Reliability and Validity Analysis**
 
-Both exploratory and confirmatory factor analyses were performed to gauge the robustness of each of the scales to ensure convergent and discriminant validity for seven constructs (Hair 2009), not including treatment modalities as it is determined by frequency with the exception of the forgiveness construct. Each construct and their loadings satisfied convergent validity at a cutoff of 0.4 (Williams, Onsman, and Brown 1996). A reliability analysis was conducted on SPSS for each of the seven constructs to ensure the reliability of each of the scales used in the instrument. A reliability of 0.5 or greater is the general cutoff point for consensus (Hair 2009). A cutoff value between 0.6-0.7 for a Cronbach's alpha is considered acceptable according to Hulin, Netemeyer, and Cudeck (2001). The cutoff value used in this study, however, was a 0.7. Cronbach's alphas for each of the seven constructs was obtained as guaranteeing a strong reliability at the following values, and ranges from 0.7 < α < 1. The smallest composite reliability of the seven constructs was 0.89, and the greatest was 0.94.
+Both exploratory and confirmatory factor analyses were performed to gauge the robustness of each of the scales to ensure convergent and discriminant validity for seven constructs (Hair 2009), not including treatment modalities as it is determined by frequency with the exception of the forgiveness construct. Each construct and their loadings satisfied convergent validity at a cutoff of 0.4 (Williams, Onsman, and Brown 1996). A reliability analysis was conducted on SPSS for each of the seven constructs to ensure the reliability of each of the scales used in the instrument. A reliability of 0.5 or greater is the general cutoff point for consensus (Hair 2009). A cutoff value between 0.6-0.7 for a Cronbach's alpha is considered acceptable according to Hulin, Netemeyer, and Cudeck (2001). The cutoff value used in this study, however, was a 0.7. Cronbach's alphas for each of the seven constructs was obtained as guaranteeing a strong reliability at the following values, and ranges from 0.7 2 = .038) of the model's variance. Thus, H1 is supported.
 
-The composite reliabilities of all seven factors were at least 0.70 or greater, and the AVE were greater than 0.50 (Fornell and Larcker 1981) that can be seen in detail in Table 1.2. Of the seven factors, only five of them were able to satisfy the criteria of confirmatory factor analysis (CFA), which included authority, need for admiration, exploitation, superiority, and selfsufficiency. Grandiosity and vanity were removed due to insufficient factor loadings of the items having an AVE<0.5. The average variance extracted (AVEs) among the constructs must present a numerical value greater than the correlations between the composite scores. This criteria are consistent throughout Table 2.1, thus each factor satisfies an adequacy of meeting convergent validity The square root of average variance extracted (AVE) signifies that its values need to be greater than the composite correlations in each column in Table 2.1 to confirm discriminant validity.
+Testing H2a, the relationship between ACEs M[SD]: 2.50[0.34] and conspicuous consumption M[SD]: 3.02[1.55] was not significantly supported as the level of significance was p>.05 at p = .10. The regression explained 1.9% of the variance (R2= .019) with an unstandardized beta coefficient of (β = .139; SE = .391; t = 1.64; p = .10). Overall, H2a was not supported. Given the support for H1, but not for H2a, narcissism does not mediate the relationship between ACEs and conspicuous consumption. H2b is supported as there is a relationship between narcissism and conspicuous consumption (β = .430; SE = .132; t = 5.58; p 2= .185).
 
-## **Hypotheses Testing**
+However, for H3a, ACE M[SD]: 2.50[0.34] as a predictor of compulsive consumption M[SD]: 3.62[1.66] was significant at the p2 = .146) using ACE scores as a predictor. H3a was positively and significantly supported. Narcissism as a mediator between ACE scores and compulsive consumption was tested, and revealed that its significance level of p = .469 was not significant. The standardized coefficient of narcissism as a predictor for compulsive consumption was (β = .062; SE = .155; t = 0.725 ; p = .469). The model summary shows that narcissism as a mediator between ACE scores and compulsive consumption accounts for .4% of the variance (R2 = .004), therefore, H3b is not supported.
 
-For H1, a regression analysis was performed to gauge the relationship between ACEs and narcissism. The relationship was significantly supported at the p<.05 level. ACE scores M[SD]: 2.50[0.34] suggest a comprehensive predictor of narcissism M[SD]: 3.30[0.91] in consumers at p = .02. While theory outside of the marketing literature strongly supports a relationship between ACEs and narcissism, it has not been recorded in the marketing literature. The standardized beta coefficient of the regression (β = .194; SE = .227; t = 2.31; p = .02) explained 3.8% (R<sup>2</sup> = .038) of the model's variance. Thus, H1 is supported.
-
-Testing H2a, the relationship between ACEs M[SD]: 2.50[0.34] and conspicuous consumption M[SD]: 3.02[1.55] was not significantly supported as the level of significance was p>.05 at p = .10. The regression explained 1.9% of the variance (R<sup>2</sup>= .019) with an unstandardized beta coefficient of (β = .139; SE = .391; t = 1.64; p = .10). Overall, H2a was not supported. Given the support for H1, but not for H2a, narcissism does not mediate the relationship between ACEs and conspicuous consumption. H2b is supported as there is a relationship between narcissism and conspicuous consumption (β = .430; SE = .132; t = 5.58; p < .001) as confirmed by empirical research, explaining 18.5% of the variance (R <sup>2</sup>= .185).
-
-However, for H3a, ACE M[SD]: 2.50[0.34] as a predictor of compulsive consumption M[SD]: 3.62[1.66] was significant at the p<.01 level. ACE scores as a predictor of compulsive consumption had an unstandardized beta coefficient of (β = .382; SE = .389; t = 4.84; p<.01). Approximately 14.6% of compulsive consumption was explained (R<sup>2</sup> = .146) using ACE scores as a predictor. H3a was positively and significantly supported. Narcissism as a mediator between ACE scores and compulsive consumption was tested, and revealed that its significance level of p = .469 was not significant. The standardized coefficient of narcissism as a predictor for compulsive consumption was (β = .062; SE = .155; t = 0.725 ; p = .469). The model summary shows that narcissism as a mediator between ACE scores and compulsive consumption accounts for .4% of the variance (R2 = .004), therefore, H3b is not supported.
-
-As a mediator, conspicuous consumption does not explain the relationship between narcissism and collapsed narcissism M[SD]: 3.11[1.55] at p = .382. The relationship between conspicuous consumption and collapsed narcissism is unsupported, given the standardized coefficients (β = -.075; SE = .085; t = -.878; p = .469). Its model summary displays 0.6% of the relationship is explained between conspicuous consumption as a predictor of collapsed narcissism. Thus, H4a is not supported. Since H3b was unsupported, as narcissism is not a predictor of compulsive consumption, the mediation effect of H4b is also unsupported, although narcissism is a predictor of collapsed narcissism (β = .609; SE = .063; t = 9.00; p < .001), explaining 37.5% of the variance (R<sup>2</sup> = .375).
+As a mediator, conspicuous consumption does not explain the relationship between narcissism and collapsed narcissism M[SD]: 3.11[1.55] at p = .382. The relationship between conspicuous consumption and collapsed narcissism is unsupported, given the standardized coefficients (β = -.075; SE = .085; t = -.878; p = .469). Its model summary displays 0.6% of the relationship is explained between conspicuous consumption as a predictor of collapsed narcissism. Thus, H4a is not supported. Since H3b was unsupported, as narcissism is not a predictor of compulsive consumption, the mediation effect of H4b is also unsupported, although narcissism is a predictor of collapsed narcissism (β = .609; SE = .063; t = 9.00; p 2 = .375).
 
 The four different moderators in H5 were tested on SPSS using a PROCESS moderation method (Hayes 2017). For H5a, the interaction effect between ayahuasca and collapsed narcissism on conspicuous asceticism M[SD]: 3.15[1.36] was insignificant at p = .14 and its model summary values were expressed as the following (β = .017; SE = .012; t = 1.47; p = .14) with a R2 = .088, thus explaining 8.8% of the total variance.
 
-For the moderating effect of iboga was the least insignificant of the different interaction effects at p = .06. Iboga's moderating influence on collapsed narcissism and conspicuous asceticism stood at the following values (β = .024; SE = .013; t = 1.89; p = .06) with a R<sup>2</sup>= .082, and illustrates 8.2% of the total variance of the model summary. While close to a p = .05 value, the interaction effect for the second treatment modality, H5b, was unsupported. Regarding H5c, an interaction effect of meditation and collapsed narcissism on conspicuous asceticism was also unsupported at p = .32. The model was insignificantly explained by the following values (β = - .04; SE = .037; t = -0.999; p = .32) whose concomitant R<sup>2</sup> = .065, which describes a 6.5% explanation of the variance.
+For the moderating effect of iboga was the least insignificant of the different interaction effects at p = .06. Iboga's moderating influence on collapsed narcissism and conspicuous asceticism stood at the following values (β = .024; SE = .013; t = 1.89; p = .06) with a R2= .082, and illustrates 8.2% of the total variance of the model summary. While close to a p = .05 value, the interaction effect for the second treatment modality, H5b, was unsupported. Regarding H5c, an interaction effect of meditation and collapsed narcissism on conspicuous asceticism was also unsupported at p = .32. The model was insignificantly explained by the following values (β = - .04; SE = .037; t = -0.999; p = .32) whose concomitant R2 = .065, which describes a 6.5% explanation of the variance.
 
-In H5d, the moderating effect of forgiveness M[SD]:3.98[0.44] as a treatment modality was consistently unsupported with the rest of the treatment modalities at a p-value of p = .20 whose standardized coefficient indicates the following value (β = .181; SE = .141; t = 1.28; p = .20), and a variance represented by a R<sup>2</sup> = .074, explaining 7.4% of the relationship. Collapsed narcissism is an accurate predictor of conspicuous asceticism at p<.01 level. A direct relationship is isomorphic comparatively to the four tested interaction effects. The relationship's predictor mechanisms is represented by the following values (β = .219; SE = .073; t = 2.63; p = .01). The impact collapsed narcissism has on conspicuous asceticism represents a R<sup>2</sup> = .048 of the variance. Thus, H5 is partially supported.
+In H5d, the moderating effect of forgiveness M[SD]:3.98[0.44] as a treatment modality was consistently unsupported with the rest of the treatment modalities at a p-value of p = .20 whose standardized coefficient indicates the following value (β = .181; SE = .141; t = 1.28; p = .20), and a variance represented by a R2 = .074, explaining 7.4% of the relationship. Collapsed narcissism is an accurate predictor of conspicuous asceticism at p2 = .048 of the variance. Thus, H5 is partially supported.
 
 **Table 1.2: Latent Variables' Measurement Model**
 
 | Xi | Latent Variables/Items | Factor | Item | Delta | A. V. E | CR | Alpha |
 |------|----------------------------------|---------|-------------|-----------------|-------------|-----|-------|
-| | | Loading | Reliability | 2<br>(1- λ<br>) | ∑(λ2<br>)/n | | (α) |
-| | | λ | 2<br>λ | | | | |
+| | | Loading | Reliability | 2
+(1- λ
+) | ∑(λ2
+)/n | | (α) |
+| | | λ | 2
+λ | | | | |
 | F1 | NAR1 -Authority (AUT) | | | | .69 | .87 | .82 |
 | AUT1 | Leadership Quality | .90 | .77 | .23 | | | |
 | AUT2 | Influential | .87 | .72 | .28 | | | |
 | AUT3 | Innate Leadership | .86 | .58 | .42 | | | |
 | ∑= | | 2.49 | 2.07 | 0.93 | | | |
-| F2 | NAR2 –<br>Self Sufficiency (SUF) | | | | .57 | .79 | .75 |
+| F2 | NAR2 –
+Self Sufficiency (SUF) | | | | .57 | .79 | .75 |
 | SUF1 | Dependent | .84 | .71 | .29 | | | |
 | SUF2 | Decision-making | .75 | .58 | .42 | | | |
 | SUF3 | Perceived Overcompetence | .64 | .41 | .59 | | | |
 | ∑= | | 2.23 | 1.70 | 1.30 | | | |
-| F3 | NAR3 –<br>Superiority (SUP) | | | | .54 | .86 | .87 |
+| F3 | NAR3 –
+Superiority (SUP) | | | | .54 | .86 | .87 |
 | SUP1 | Future Success | .72 | .52 | .48 | | | |
 | SUP2 | Self Overvaluation | .76 | .58 | .42 | | | |
 | SUP3 | External Self-regulation | .72 | .52 | .48 | | | |
 | SUP4 | Likes Compliments | .74 | .55 | .45 | | | |
 | SUP5 | Perceived Self-unique | .74 | .55 | .45 | | | |
 | ∑= | | 3.68 | 2.72 | 2.28 | | | |
-| F4 | NAR4 –<br>Need for Adm. (ADM) | | | | .61 | .82 | .80 |
+| F4 | NAR4 –
+Need for Adm. (ADM) | | | | .61 | .82 | .80 |
 | ADM1 | Desire for Fame | .72 | .52 | .48 | | | |
 | ADM2 | Showy | .83 | .69 | .31 | | | |
 | ADM3 | Center of Attention | .79 | .62 | .38 | | | |
 | ∑= | | 2.34 | 1.83 | 1.17 | | | |
-| F5 | NAR5 –<br>Exploitativeness (EXP) | | | | .69 | .82 | .83 |
+| F5 | NAR5 –
+Exploitativeness (EXP) | | | | .69 | .82 | .83 |
 
 ## **Table 1.2, cont.**
 
@@ -483,7 +542,8 @@ In H5d, the moderating effect of forgiveness M[SD]:3.98[0.44] as a treatment mod
 | CMC6 | Persistent Behavior | .86 | .74 | .26 | | | |
 | CMC7 | Indulgent Self-regulation | .79 | .62 | .38 | | | |
 | ∑= | | 5.72 | 4.68 | 2.32 | | | |
-| F8 | Forgiveness –<br>Father | | | | .59 | .92 | .88 |
+| F8 | Forgiveness –
+Father | | | | .59 | .92 | .88 |
 
 ## **Table 1.2, cont.**
 
@@ -497,7 +557,8 @@ In H5d, the moderating effect of forgiveness M[SD]:3.98[0.44] as a treatment mod
 | F7 | No Grudge | .78 | .61 | .39 | | | |
 | F8 | Increased Negative Perception | .81 | .66 | .34 | | | |
 | ∑= | | 6.12 | 4.69 | 3.31 | | | |
-| F9 | Forgiveness –<br>Mother | | | | .61 | .92 | .84 |
+| F9 | Forgiveness –
+Mother | | | | .61 | .92 | .84 |
 | F1 | Easily Forgive | .82 | .67 | .33 | | | |
 | F2 | Positive Perception | .81 | .66 | .34 | | | |
 | F3 | Holding Grudge | .77 | .59 | .41 | | | |
@@ -554,9 +615,10 @@ In H5d, the moderating effect of forgiveness M[SD]:3.98[0.44] as a treatment mod
 
 | FOR | .17* | 14 | 28 | 14 | 09 | 14 | |
 |-------------------------------------------|-------|-------|-------|-------|-------|-------|------|
-| Error! Filename not specified.<br>AVE=.78 | (.03) | (.02) | (.08) | (.02) | (.01) | (.02) | 1.00 |
+| Error! Filename not specified.
+AVE=.78 | (.03) | (.02) | (.08) | (.02) | (.01) | (.02) | 1.00 |
 
-**<sup>\*</sup>** Numbers in parentheses are the squared of inter-factor correlations
+**\*** Numbers in parentheses are the squared of inter-factor correlations
 
 **Table 1.3:** Composite Reliability Scores, Average Variance Extracted (AVE), along with the inter-correlations of the composite scores: (Note: (1) Square Rooted AVEs (Average Variance Extracted) are listed in the first colum in the table in bold) (2) NARC – G/NAD = Narcissism/Grandiosity-Need for Admiration, NARC-/A = Narcissism/Leadership-Authoritarian, NARC-A = Narcissism-Arrogance, CMC = Compulsive Consumption, CNC = Conspicuous Consumption, CON = Collapsed Narcissism, CNA = Conspicuous Asceticism, FOR = Forgiveness
 
@@ -572,192 +634,102 @@ One of the biggest research gaps this research stream faces is highlighting how 
 
 A direct relationship between collapsed narcissism and conspicuous asceticism may result in a choice to publicly go sober. Sobriety as a form of conspicuous asceticism may be expressed through twelve step programs, social media posts, and public lectures (Fox and Bacile 2018). Through these outlets, consumers may elicit praise as a form of narcissistic supply that contemporizes the phenomenon of conspicuous asceticism. Conspicuous asceticism may be used as an identity for consumers to establish communal values that are used to regulate self-esteem. Collapsed narcissism had only one formative factor, and as a new construct that has only been discussed at the theoretical level, its understanding can be benefited by being tested through being composed of two-factors, clinical depression and rage, which it is exigent to use a PNI-52 whose one of seven factors is demarcated by rage.
 
-While treatment modalities do not seem to moderate the relationship between collapsed narcissism and conspicuous asceticism, more investigation needs to be conducted with respect to iboga, as it may be a possible avenue in moderating collapsed narcissism and conspicuous asceticism at p = .06, and a direct treatment for conspicuous consumption at p = .08. A sample size of n =32 is preliminary at best, and given the difficulty to be treated with iboga in ceremonial contexts (i.e. a flight to Mexico or Africa for a one week retreat/clinical visit), larger sample sizes may be promising to reject the null hypothesis of no relationship. However, it was ascertained that iboga has a direct impact on compulsive consumption in treating addiction, and as confirmed in the literature review, more so than ayahuasca at the p<.01 level (β = .219; SE = .326; t = -2.84; p = .005), while ayahuasca was significant at the p< .05 level (β = -.195; SE = .286; t = -2.33; p = .02).
-
-Operationalizing CSP's frequency as a construct in determining its impact on compulsive consumption was insignificant at p>.05 perhaps given the high variability of the frequency where the range of use was between 0 and 100 ceremonies. However, operationalizing CSP use as a categorical variable suggests that CSP use have diminishing returns when referring to the mode and median scores of those drinking ayahuasca Mo = 7 and Md = 7; and iboga Mo = 2, Md = 3. Statistical scores suggest that in ameliorating compulsive consumption, consumers do not typically require ongoing usage regarding CSPs. Comparatively, meditation β = -.08; SE = .07; t = -0.923; p = .358) is insignificant as a healing modality compared to these two CSPs,
+While treatment modalities do not seem to moderate the relationship between collapsed narcissism and conspicuous asceticism, more investigation needs to be conducted with respect to iboga, as it may be a possible avenue in moderating collapsed narcissism and conspicuous asceticism at p = .06, and a direct treatment for conspicuous consumption at p = .08. A sample size of n =32 is preliminary at best, and given the difficulty to be treated with iboga in ceremonial contexts (i.e. a flight to Mexico or Africa for a one week retreat/clinical visit), larger sample sizes may be promising to reject the null hypothesis of no relationship. However, it was ascertained that iboga has a direct impact on compulsive consumption in treating addiction, and as confirmed in the literature review, more so than ayahuasca at the p.05 perhaps given the high variability of the frequency where the range of use was between 0 and 100 ceremonies. However, operationalizing CSP use as a categorical variable suggests that CSP use have diminishing returns when referring to the mode and median scores of those drinking ayahuasca Mo = 7 and Md = 7; and iboga Mo = 2, Md = 3. Statistical scores suggest that in ameliorating compulsive consumption, consumers do not typically require ongoing usage regarding CSPs. Comparatively, meditation β = -.08; SE = .07; t = -0.923; p = .358) is insignificant as a healing modality compared to these two CSPs,
 
 Moreover, forgiveness had a moderating effect on compulsive consumption and collapsed narcissism (β = .358; SE = .127; t = 2.81; p = .006). Interestingly, as forgiveness moderates the relationship between compulsive consumption and collapsed narcissism, collapsed narcissism increases. Theoretically, the collapse is induced when consumers are challenged to face the emancipation of their ACE memories via active imagination. Grudges, or in other words, refusal to forgive, defines consumers' self-concept. Through letting go of harrowing memories that manifest as grudges and resentments, beliefs as the core component to consumers' self-concept are created around these defense mechanisms in which, for example, a CSP ceremony may circumscribe consumers to compel them to forgive their parents. These beliefs that mire consumers in compulsive consumption are to then be ameliorated, and forgiveness is integrated by the end of the collapsed state. Once the collapsed state is transcended, a transformed narcissistic state allows consumers to express conspicuous asceticism via consumer contexts they find fit to suit their recovery. To provide a reductionist account of how forgiveness induces collapse, "addictions begin in pain, and end in pain," (pp. 52, Tolle, 2010).
 
-Remarkably, narcissism is alleviated by both ayahuasca and meditation at the p<.05, but not by iboga nor forgiveness. These findings are confirmed by Van Mulukom et. al in (2020) and Epstein in (1985) respectively. Theoretically, lowering narcissism in consumers may lead to an indirect reduction in conspicuous consumption in consumers. Gender as a moderator was found to be significant at p = .01, however, it represents an equal amount of significance as without an interaction effect. Finally, when consumers escape a collapsed phase, qualitative investigations are necessary to reveal a presumed choice consumers make since the pain of their ACEs are exacerbated by compulsive consumption. Potentially, it is through unbearable pain that consumers may make a choice, and conspicuous asceticism may function as its own treatment modality.
-
-## CHAPTER IV
-
-## STUDY II
-
-## **The Main Effect of Gratitude on Narcissism, Conspicuous Consumption, and Conspicuous Asceticism**
-
-"I shall meet today inquisitive, ungrateful, violent, treacherous, envious, uncharitable men. All these things have come upon them through ignorance of real good and ill." – Marcus Aurelius
-
-Often, narcissistic consumers find the expression of gratitude to be highly unpleasant (Bono, Emmons, Mc Cullough 2004). Solom, Watkins, Mc Currach, and Scheibe (2016) have demonstrated that expressing gratitude is inhibited by narcissistic traits in consumers, particularly with respect to narcissism's dimension of entitlement (Bono, Emmons, Mc Cullough 2004). One key theoretical issue is the encouragement of consumers scoring moderate to high in narcissism to practice gratitude. Initiating mass marketing campaigns on the importance of gratitude (Lee, Chugani, Namkoong 2022) may be an effective first step. Entitlement is one of five dimensions of narcissism (Raskin and Hall 1988), and marketing scholars observed that when consumers practice gratitude, their level of entitlement toward resources decrease (Lee, Chugani, and Namkoong 2022). However, it is still not known how gratitude impacts the other dimensions of narcissism, i.e. if gratitude reduces narcissism in consumers wholistically. It is important to note, a priori, narcissistic consumers can experience gratitude, but rather they are oblivious to the occurrences in their life to be grateful for (Watkins, Emmons, and Mc Cullough 2004). This assumption is consistent with Marcus Aurelius's observation on "ungratefulness"
-
-and "enviousness," also a dimension of narcissism. It is primarily through ignorance, and unpleasantness secondary, that inhibits the practice of gratitude of narcissistic consumers.
-
-H1: There is a negative relationship between expressing gratitude and narcissism.
-
-## **"To feel so whole . . . it becomes impossible to want." – Joe Dispenza**
-
-To date, there have been no direct studies on the relationship between gratitude and conspicuous consumption outside of the effect of gratitude's appeal on sustainable luxury brand consumption in a social media context (Septianto, Seo, and Errmann 2021). Scholars found that the element of sustainability was heightened by gratitude and thus had a positive effect on luxury brand consumption (Septianto, Seo, and Errmann 2021). Few scholars have set the foundation for addressing this direct relationship between materialism and gratitude (Polak and Mc Cullough 2006; Lee, Chugani, and Namkoong 2022), and while conspicuous consumption represents a small segment of materialism, it should present no theoretical anomalies in empirically testing the effect gratitude has on conspicuous consumption.
-
-Both materialism and conspicuous consumption are behaviors driven by consumers reared in dysfunctional families (Burroughs and Rindfleisch 2002), which set the template for and narcissism respectively. Moreover, both constructs indicate that consumers elevate consumption over their interpersonal relationships. Gratitude and conspicuous consumption are theoretically indirectly related, as gratitude has been negatively correlated to narcissism, and conspicuous consumption have been positively linked. I therefore suspect a negative relationship between expressing gratitude and conspicuous consumption.
-
-H2: There is a negative relationship between expressing gratitude and conspicuous consumption.
-
-## **"Gratitude is the wine for the soul. Go on. Get drunk." - Rumi**
-
-The role of gratitude and its impact on compulsive consumption is seen as one major component of a consumer's recovery bank (Chen 2017). It has been empirically supported in a marketing context that as consumers continuously express gratitude, it mitigates consumers' relations with materialism (Lee, Chugani, Namkoong 2022). However, it is imperative to understand how this impact can extend into the role compulsive consumption plays out in the lives of consumers. As previously stated in this paper, the semantic antithesis of compulsive consumption is a state of connection, and gratitude functions as a stepping stone that can help improve consumers' interpersonal relationships (Chen 2017), which in turn callouses consumers' propensities against the traps of pathological consumer behaviors and relapse. It has only been of recent that gratitude has been empirically tested in the context of recovery programs (Charzynska, Gruszczynska, and Hesznen 2018).
-
-Anecdotally speaking, the expression of gratitude is a tool of paramount importance in recovery programs such as the twelve-steps (La Belle and Edelstein 2018; Charzynska 2021). La Belle and Edelstein in (2018) revealed that consumers who practice daily gratitude were more likely to adhere to the twelve-steps of recovery than those who did not incorporate gratitude into their treatment. It is worth noting that although research on the relationship between gratitude and compulsive consumption is limited, the moderating effects of gender differences have shown that women are more likely to practice gratitude than men in their efforts of recovery
-
-(Charzynska 2015). Moreover, this may show that narcissistic women are more likely to express gratitude in regaining their well-being than men.
-
-H3: There is a negative relationship between expressing gratitude and compulsive consumption.
-
-While not a single study has deliberated an existing relationship between gratitude's effect on narcissism, and while highlighting the difficulty for narcissistic consumers to practice gratitude and seek help from others (Jennings 2007), it is unknown the effect it will have on their consumer behavior at the empirical level. More importantly, semantically speaking, it is paramount to mention that narcissism and asceticism run antithetical to each other, as narcissism lies in the domain of hyper-desire, and asceticism emphasizes repudiation, but not to a necessary extreme. Regrettably, literary investigations of narcissism and asceticism drawing parallels to one another are meager. Asceticism can be conceptualized as a spectrum ranging from Hermetic (moderate) to Dionysian (extreme).
-
-The most adjacent research to gratitude's mediation effects on narcissism and asceticism is captured in Jennings (2007) paper, which discusses how narcissistic consumers may seek eastern tenets of practice to minimize their pathological suffering, such as meditation and asceticism to escape the perpetual loop of consumption—such that these consumers have entered into a state of collapse, where the mechanisms of narcissism are no longer sustainable. Conversely, asceticism can be approached from a state of reinforcing narcissistic concepts, of one's uniqueness, specialness, or fixation of becoming more so an idealized image
-
-(p. 10)—therefore asceticism is not always separate from narcissism, but can become an extension of a seemingly transcendental state.
-
-Despite the pursuit of asceticism as a response toward their unhinged narcissism or reinforcing self-imago, addressing one's narcissistic rage is essential. A capricious task, consumers willing to overcome their compulsive emotions lash out at their teachers or guides whom reluctantly received their trust to transcend toward a relinquishment of pathological behavior (p. 13), both consumption and relational. Though there is no research on the relation between gratitude and narcissistic rage and object loss, rage and grief go hand in hand (Carroll and Forester 2015), and gratitude may mediate these reactive emotions. An attempt to abdicate from narcissistic rage is unpredictable and can be a breaking point for consumers that signals a return to and a further underpinning of pathological consumption, or auspiciously, gesticulates a genuine transcendence of diseased consumption, thus setting the foundation for asceticism.
-
-Narcissism reflects addiction to power, addiction to the symbolic, and addiction to relief through goods, services, and relationships. Asceticism relinquishes power, relinquishes the symbolic at the level of ideology and thought forms. It emphasizes pursuit of relief at the tangible and the intangible—where the expression of gratitude is the vehicle that can influence its transition. Perhaps through desperation, consumers are implicitly or explicitly experiencing bouts of emotional discharge of depression, rage, and anhedonia (Dawood and Pincus 2018; Krizan and Johar 2015; Linke-Jankowska and Jankowski 2016). Conspicuous asceticism may combine both elements of narcissism and asceticism, as its underlying anti-consumer message could be portrayed in consumer contexts that reflect perceived superiority and the elicitation of center stage as a way of differentiating one's self from their peers. Moreover, consumers' intentions in acting out conspicuously ascetic ways of being can indicate simultaneous contradictions of their desire to influence other consumers to emancipate from consumption for sustainable reasons and/or to develop social capital. As previously stated in study one, conspicuous asceticism balances Hermetic (moderation) and Mercurian (narcissistic) elements.
-
-Narcissism may present difficulties in being empirically measured, as consumers who repress their narcissistic qualities be liable to withholding their presence out of temporary contempt from their peers, family, friends, and even strangers, but rather repress these qualities in a codependent fashion that can later manifest as illness (Mate 2009). As Mate in (2011) has stated, consumers who repress their assertiveness, anger, and desires, which constitutes the shadow side, and in its place project openness and agreeableness become susceptible to collapsed state. While projected narcissism may present itself as being difficult to measure, latent narcissism is repressed at the archetypal stage. Furthermore, those who score high in narcissism may fluctuate back and forth through episodes of rage and grief and a primary state of insatiable consumption, and may present being in recovery from time to time between primary and secondary narcissism.
-
-If conspicuous asceticism emerges out of gratitude, then consumers' intentions would shift and reflect that of communal rather than agentic values. This disposition would reinforce Kohutz's three-dimensional construct of transformed narcissism (Kohut 1977), that the act of conspicuous asceticism would be catalyzed by wisdom, humor, and empathy to the contraries of power and admiration. Lastly, conspicuous asceticism may not be a popular, lucrative marketing practice, however, it enables consumers to set a precedent for an emerging consumer segment mediated by messages of gratitude, despite zero empirical evidence thus far to support such a hypothesis.
-
-H4: Gratitude transforms consumers' narcissism into conspicuous asceticism.
-
-## ![](_page_85_Picture_2.jpeg)
-
-## **Figure 2.1 – Conceptual Model**
-
-## CHAPTER V
-
-## METHODOLOGY
-
-## **Participants**
-
-A total of n = 67 junior and senior level undergraduate university students were recruited to participate in the study. Students were a mix of majors from business administration, health administration, psychology, marketing, finance, management, and operations & analytics. Their ages ranged from 19-22. To ensure consensual anonymity of the students, no demographic questions were asked from them to control for uncontaminated efforts in the experiment.
-
-## **Materials/Measures**
-
-The questionnaire included a total of 79 items, which did not include demographic questions (e.g. gender, income, and education levels) to ensure anonymity of the students. A gratitude scale (Watkins, Woodward, Stone, and Kolts 2003), narcissism scale (Raskin and Hall 1981), compulsive consumption scale (Gearhardt, Corbin, Brownell 2016), and conspicuous consumption scale (Roy Chaudhuri, Mazumdar, and Ghoshal 2011), as well as conspicuous asceticism scale, and collapsed narcissism scale that was adopted and adapted by Radloff in (1977), which was a semantic and reverse coded inversion scale of the conspicuous consumption scale. Each scale was used to measure the different relationships between each of the aforementioned constructs, then the means of each relationship between groups were compared.
-
-The narcissism scale is compartmentalized into three dimensions of grandiosity/need for admiration (G/NAD), leadership/authoritarianism (L/A), and arrogance (A) (Raskin and Hall 1981).
-
-## **Procedure**
-
-At the beginning of the survey, participants were given a verbal and written caveat to consent to the study taking place via Qualtrics, and were eligible to opt out at any time given some of the sensitive and personal nature of the questions or by personal choice. Participants were given a pre-test to measure their levels of gratitude, compulsive consumption, conspicuous consumption, narcissism collapsed narcissism, and conspicuous asceticism before they began the experiment that took 15-20 minutes to complete. They were required to enter electronic entries for two weeks as recommended by Chaplin, John, Rindfleisch and Froh in (2019). The entirety of the experiment began on a Monday, and even included participating on two weekends in a row. They were to report their completed entries throughout the day for the duration of the two weeks. At the end of the experiment, students were then to fill out the post-test questionnaire for another 15-20 minutes, and then were thanked and notified about the therapeutic nature of gratitude on well-being backed by existing literature via participation guidelines at the end of the questionnaire.
-
-## **Manipulation Check**
-
-Each student was required to check in everyday to report their completed entries through email or to be dropped from the experiment. Because of the nature of the sensitive questions, they were promised anonymity throughout the survey but were required to report completed entries. Through the two weeks, they were required to write three sentences they were grateful for per day. The variability of gratitude, as a manipulation check, can cause differences in the outcome of the dependent variables, which are in this case, narcissism, compulsive consumption, conspicuous consumption, and conspicuous asceticism, but as according to the extant literature, a minimum of two weeks is required to produce meaningful results.
-
-**Table 2.1:** Composite Reliability Scores, Average Variance Extracted (AVE), along with the inter-correlations of the composite scores:
-
-| Xi | Latent Variables/Items | Factor | A. V. E | CR | Alpha |
-|------|---------------------------|---------|-------------|-----|-------|
-| | | Loading | ∑(λ2<br>)/n | | (α) |
-| | | λ | | | |
-| F1 | Authority (AUT) | | .69 | .87 | .82 |
-| AUT1 | Perceived Good Leadership | .88 | | | |
-| AUT2 | Natural Talent as Leader | .85 | | | |
-| AUT3 | Born Leader | .76 | | | |
-| ∑= | | 2.49 | | | |
-| F2 | Self Sufficiency (SUF) | | .57 | .79 | .75 |
-| SUF1 | Independent | .84 | | | |
-| SUF2 | Responsible | .75 | | | |
-| SUF3 | Perceived Overcompetence | .64 | | | |
-| ∑= | | 2.23 | | | |
-| F3 | Superiority (SUP) | | .54 | .86 | .87 |
-| SUP1 | Overconfident | .72 | | | |
-| SUP2 | Conceited | .76 | | | |
-| SUP3 | External Locus of Control | .72 | | | |
-| SUP4 | Enjoys Compliments | .74 | | | |
-| SUP5 | Vain | .74 | | | |
-| ∑= | | 3.68 | | | |
-| F4 | Need for Admiration (ADM) | | .61 | .82 | .80 |
-
-## **Table 2.1, cont.**
-
-| ADM1 | Biographical Desire | .72 | | | |
-|------|----------------------------------|------|-----|-----|-----|
-| ADM2 | Exhibitionist | .83 | | | |
-| ADM3 | Limelight Seeking | .79 | | | |
-| ∑= | | 2.34 | | | |
-| F5 | Exploitativeness (EXP) | | .69 | .82 | .83 |
-| EXP1 | Innate Manipulation | .86 | | | |
-| EXP2 | Persuasive | .80 | | | |
-| ∑= | | 1.66 | | | |
-| F7 | Conspicuous Consumption (CNC) | | .64 | .91 | .90 |
-| CNC1 | Original Taste of Common Items | .78 | | | |
-| CNC2 | Skillful Taste | .72 | | | |
-| CNC3 | Exotic Taste | .86 | | | |
-| CNC4 | Unique Product Admiration | .83 | | | |
-| CNC5 | Original Taste of Everyday Items | .84 | | | |
-| CNC6 | Display of Sophistication | .74 | | | |
-| ∑= | | 4.77 | | | |
-| F6 | Conspicuous Asceticism (CNA) | | .60 | .86 | .78 |
-| CNA1 | Anticonsumer Exhibitionism | .72 | | | |
-| CNA2 | Antifad Anticonsumption | .77 | | | |
-| CNA3 | Anticonsumer Vanity | .82 | | | |
-| CNA4 | Anticonsumer Admiration | .78 | | | |
-| ∑= | | 3.09 | | | |
-| F7 | Compulsive Consumption (CMC) | | .59 | .90 | .86 |
-| CMC1 | Start-Stop Possibility | .71 | | | |
-| CMC2 | Indulgence-Sickness | .79 | | | |
-| CMC3 | Abstinence-Sickness | .77 | | | |
-| CMC4 | Problematic Impulsivity | .78 | | | |
-| CMC5 | Desire to Stop | .77 | | | |
-| CMC6 | Consistent Behavior | .80 | | | |
-| ∑= | | 4.62 | | | |
-| F8 | Gratitude (GRA) | | .69 | .90 | .85 |
-| GRA1 | General Gratitude | .90 | | | |
-| GRA2 | Overall Appreciation | .85 | | | |
-| GRA3 | Gratitude Challenges | .79 | | | |
-| GRA4 | Peer Appreciation | .77 | | | |
-## | ∑= | | 3.31 | | | |
-
-**Table 2.2: Inter-construct Correlation between Latent Variables** 
-
-| Latent Variables | AUT | SUF | SUP | ADM | EXP | CNC | CNA | CMC | GRA |
-|---------------------------------------------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------|---------------|---------------|
-| AUT Error! Filename not specified. AVE=.83 | 1.00 | .27**<br>(.07) | .31**<br>(.10) | .30**<br>(.09) | .18** (.03) | .12*<br>(.01) | .00 (.00.) | 18<br>(.03) | 21<br>(.04) |
-| SUF <b>Error! Filename not specified.</b> AVE=.75 | .27**<br>(.07) | 1.00 | .55**<br>(.30) | .32**<br>(.10) | .29**<br>(.08) | .23**<br>(.05) | .02<br>(.00) | 24<br>(.06) | .20<br>(.04) |
-| SUP<br>Error! Filename not specified.<br>AVE=.73 | .31**<br>(.10) | .55**<br>(.30) | 1.00 | .52**<br>(.27) | .46**<br>(.21) | .38**<br>(.14) | .07<br>(.00) | 42**<br>(.18) | .20<br>(.04) |
-| ADM Error! Filename not specified. AVE=.78 | .30**<br>(.09) | .32**<br>(.10) | .52**<br>(.27) | 1.00 | .40**<br>(.16) | .29**<br>(.08) | .03<br>(.00) | .08 (.00) | .12<br>(.01) |
-| EXP<br>Error! Filename not specified.<br>AVE=.83 | .18**<br>(.03) | .29**<br>(.09) | .46**<br>(.21) | .40**<br>(.16) | 1.00 | .34**<br>(.12) | 02<br>(.00) | 17<br>(.03) | 13<br>(.02) |
-| CNC Error! Filename not specified. AVE=.80 | .12*<br>(.01) | .23**<br>(.05) | .38**<br>(.14) | .29**<br>(.08) | .34**<br>(.12) | 1.00 | .19**<br>(.04) | 32**<br>(.10) | 02<br>(.00) |
-| CNA Error! Filename not specified. AVE=.77 | .00<br>(.00) | .02<br>(.00) | .07<br>(.00) | .03<br>(.00) | 02<br>(.00) | .31**<br>(.10) | 1.00 | .17<br>(.03) | 18<br>(.03) |
-| CMC <b>Error! Filename not specified.</b> AVE=.77 | 18<br>(.03) | 24<br>(.06) | 42**<br>(.18) | .08 (.00) | 17<br>(.03) | 32**<br>(.10) | .17<br>(.03) | 1.00 | 37**<br>(.14) |
-| GRA Error! Filename not specified. AVE=.83 | 21<br>(.04) | .20<br>(.04) | .20<br>(.04) | .12<br>(.01) | 13<br>(.02) | 02<br>(.00) | 18<br>(.03) | 37**<br>(.14) | 1.00 |
+Remarkably, narcissism is alleviated by both ayahuasca and meditation at the pError! Filename not specified. AVE=.75 | .27**
+(.07) | 1.00 | .55**
+(.30) | .32**
+(.10) | .29**
+(.08) | .23**
+(.05) | .02
+(.00) | 24
+(.06) | .20
+(.04) |
+| SUP
+Error! Filename not specified.
+AVE=.73 | .31**
+(.10) | .55**
+(.30) | 1.00 | .52**
+(.27) | .46**
+(.21) | .38**
+(.14) | .07
+(.00) | 42**
+(.18) | .20
+(.04) |
+| ADM Error! Filename not specified. AVE=.78 | .30**
+(.09) | .32**
+(.10) | .52**
+(.27) | 1.00 | .40**
+(.16) | .29**
+(.08) | .03
+(.00) | .08 (.00) | .12
+(.01) |
+| EXP
+Error! Filename not specified.
+AVE=.83 | .18**
+(.03) | .29**
+(.09) | .46**
+(.21) | .40**
+(.16) | 1.00 | .34**
+(.12) | 02
+(.00) | 17
+(.03) | 13
+(.02) |
+| CNC Error! Filename not specified. AVE=.80 | .12*
+(.01) | .23**
+(.05) | .38**
+(.14) | .29**
+(.08) | .34**
+(.12) | 1.00 | .19**
+(.04) | 32**
+(.10) | 02
+(.00) |
+| CNA Error! Filename not specified. AVE=.77 | .00
+(.00) | .02
+(.00) | .07
+(.00) | .03
+(.00) | 02
+(.00) | .31**
+(.10) | 1.00 | .17
+(.03) | 18
+(.03) |
+| CMC Error! Filename not specified. AVE=.77 | 18
+(.03) | 24
+(.06) | 42**
+(.18) | .08 (.00) | 17
+(.03) | 32**
+(.10) | .17
+(.03) | 1.00 | 37**
+(.14) |
+| GRA Error! Filename not specified. AVE=.83 | 21
+(.04) | .20
+(.04) | .20
+(.04) | .12
+(.01) | 13
+(.02) | 02
+(.00) | 18
+(.03) | 37**
+(.14) | 1.00 |
 
 (Note: (1) Square Rooted AVEs (Average Variance Extracted) are listed in the first column in bold) (2) GRAT = Gratitude, NARC –NAD = Narcissism/Grandiosity-Need for Admiration, NARC-/A = Narcissism/Leadership-Authoritarian, NARC-A = Narcissism-Arrogance, CON = Collapsed Narcissism, CNC = Conspicuous Consumption, CA = Conspicuous Asceticism
 
 ## **Results**
 
-A paired sample t-test was performed to ensure gratitude had an impact on the measurement scores of each participant over the course of two weeks. The overall mean scores of the respective pre-test and post-test score were the following: 1) NARC-AUT (M[SD] = 3.63[0.93] vs. 2.42[.96]; t[df] = -5.43[66]; p<.001), thus there was a significant change over the two weeks regarding the authoritarian dimension of narcissism. 2) NARC-EXP (M[SD] = 3.14[0.97] vs. 3.17[1.10]; t[df] = .314[66]; p=.754), no significant change occurred regarding the exploitation dimension of narcissism. 3) NARC-SUF (M[SD] = 2.41[0.86] vs. 3.13[0.51]; t[df] = 7.07[66]; p<.01), a significant and positive change occurred with respect to the sufficiency dimension of narcissism. 4) NARC-SUP (M[SD] = 2.42[0.92] vs. 3.07[0.42]; t[df] = 5.96[66]; p<.001), a significant and positive change occurred with respect to the superiority dimension of narcissism. 5) NARC-ADM (M[SD] = 2.87[1.04] vs. 3.10[0.58]; t[df] = 1.47[66]; p=.146).
+A paired sample t-test was performed to ensure gratitude had an impact on the measurement scores of each participant over the course of two weeks. The overall mean scores of the respective pre-test and post-test score were the following: 1) NARC-AUT (M[SD] = 3.63[0.93] vs. 2.42[.96]; t[df] = -5.43[66]; p2=.001). For H2, gratitude's effect on compulsive consumption was both significant and negative at p2=.203, explaining 20.3% of the variance. Hypothesis 3 exhibited no significant relationship between gratitude and conspicuous consumption (β = 0.33; SE = .180; t = 0.270; p =.788), explaining 0.1% of the variance (R2=.001).
 
-For CNC, (M[SD] = 3.82[0.99] vs. 3.81[1.18]; t[df] = -0.162[66]; p=.872), thus gratitude had no significant change on CNC. Regarding CNA, (M[SD] = 3.38[0.96] vs. 3.43[1.10]; t[df] = 0.350[1.18]; p=.872), therefore, gratitude presented no significant impact on conspicuous asceticism. The mean difference for CMC, (M[SD] = 3.93[1.37] vs. 3.22[1.32]; t[df] = - 5.84[1.18]; p<.001), gratitude influences compulsive consumption both significantly and negatively. Gratitude, M[SD] = 5.44[0.55] vs. 6.29[0.81]; t[df] = 17.94[66]; p<.001), overall feelings of gratitude were increased over the two week experiment.
-
-Linear regression was then used to determine significance of the relationships hypothesized in my literature review using participants' post scores. In H1, gratitude's relationship to composite narcissism scores were insignificant at p = 0.807 due to the various magnitudes of impact to no impact gratitude has on the different dimensions of narcissism (β = 0.03; SE = .076; t = -0.246; p = .807). The relationship's model summary explains 0.1% of the variance (R<sup>2</sup>=.001). For H2, gratitude's effect on compulsive consumption was both significant and negative at p<.001 (β = -4.50; SE = .180; t = -4.07; p <.001), with a R<sup>2</sup>=.203, explaining 20.3% of the variance. Hypothesis 3 exhibited no significant relationship between gratitude and conspicuous consumption (β = 0.33; SE = .180; t = 0.270; p =.788), explaining 0.1% of the variance (R<sup>2</sup>=.001).
-
-Narcissism's mediating effect in H1 showed no support with respect to the independent variable of gratitude, and thus, cannot fully mediate the relationship between gratitude and conspicuous asceticism for H4. However, narcissism's relationship with conspicuous asceticism is positive and significant at p<.05 level, (β = -.243; SE = .267; t = -2.02; p = .047). Moreover, its model summary explains 5.9% (R<sup>2</sup> = .059) of the variance. Therefore, H4 is partially supported, though not fully mediated by narcissism.
+Narcissism's mediating effect in H1 showed no support with respect to the independent variable of gratitude, and thus, cannot fully mediate the relationship between gratitude and conspicuous asceticism for H4. However, narcissism's relationship with conspicuous asceticism is positive and significant at p2 = .059) of the variance. Therefore, H4 is partially supported, though not fully mediated by narcissism.
 
 One possible path toward conspicuous asceticism is understanding how the different dimensions of narcissism (e.g. superiority, self-sufficiency, need for admiration, authority, and exploitativeness) are mediated by conspicuous consumption. A linear regression reveals the following, conspicuous consumption is the biggest predictor of conspicuous asceticism (β =
 
-0.214; SE = .057; t = 3.30; p =.001), thus predicting 4.8% of the variance with a R<sup>2</sup> = .048. The biggest predictor of conspicuous consumption with respect to the different dimensions of narcissism is the factor of superiority (β = 0.243; SE = .100; t = 3.23; p =.001). The second biggest predictor of conspicuous consumption is the factor of exploitativeness, (β = .190; SE = 0.075; t = 3.02; p =.003), overall these two factors explain approximately 18.3% of the variance (R<sup>2</sup> = .183).
+0.214; SE = .057; t = 3.30; p =.001), thus predicting 4.8% of the variance with a R2 = .048. The biggest predictor of conspicuous consumption with respect to the different dimensions of narcissism is the factor of superiority (β = 0.243; SE = .100; t = 3.23; p =.001). The second biggest predictor of conspicuous consumption is the factor of exploitativeness, (β = .190; SE = 0.075; t = 3.02; p =.003), overall these two factors explain approximately 18.3% of the variance (R2 = .183).
 
-Other factors of narcissism can predict one another. Exploitativeness can be predicted by superiority and a need for admiration respectively. Superiority's prediction power of exploitativeness is as follows (β = 0.328; SE = .057; t = 3.30; p<.001), while a need for admiration's prediction power of exploitativeness is (β = 0.215; SE = .066; t = 3.48; p =.001); both predictors explain approximately 25.1% of the variance (R<sup>2</sup> = .251). The biggest predictor of a need for admiration are the factors of authoritarianism, exploitativeness, and superiority. Authoritarianism predicted a need for admiration (β = 0.141; SE = .054; t = 2.68; p =.008), in tandem with superiority (β = 0.379; SE = .067; t = 5.87; p <.001), and exploitativeness (β = 0.195; SE = .052; t = 3.48; p =.001), with an overall R<sup>2</sup> = .321, explaining 32.1% of the variance. Finally, the predictors of self-sufficiency is superiority and authority, (R<sup>2</sup> = .251), explaining 25.1% of the variance with respect to superiority (β = 0.486; SE = .063; t = 7.77; p <.001), and authority (β = 0.115; SE = .053; t = 2.16; p = .032).
-
-## ![](_page_94_Figure_0.jpeg)
-
-<sup>\*</sup>Note all relationships are positive and significant.
+Other factors of narcissism can predict one another. Exploitativeness can be predicted by superiority and a need for admiration respectively. Superiority's prediction power of exploitativeness is as follows (β = 0.328; SE = .057; t = 3.30; p2 = .251). The biggest predictor of a need for admiration are the factors of authoritarianism, exploitativeness, and superiority. Authoritarianism predicted a need for admiration (β = 0.141; SE = .054; t = 2.68; p =.008), in tandem with superiority (β = 0.379; SE = .067; t = 5.87; p 2 = .321, explaining 32.1% of the variance. Finally, the predictors of self-sufficiency is superiority and authority, (R2 = .251), explaining 25.1% of the variance with respect to superiority (β = 0.486; SE = .063; t = 7.77; p \*Note all relationships are positive and significant.
 
 ## **Figure 2.2 – Empirical Model**
 
-Another empirical model of interest was generated using a linear regression. The most accurate predictors for decreasing compulsive consumption were superiority (β = -0.360; SE = .164; t = -3.28; p =.002) and gratitude (β = -0.298; SE = .186; t = -2.72; p =.008) respectively, with an overall R<sup>2</sup> = .261, explaining 26.1% of the variance. The third largest predictor of decreasing compulsive consumption is conspicuous consumption (β = -0.324; SE = .162; t = - 2.76; p =.007), with a R<sup>2</sup> = .106, thus explaining 10.6% of the variance of the model summary. As previously empirically confirmed, narcissism is a suitable predictor of conspicuous consumption (β = -0.313; SE = .279; t = -2.66; p =.01), with a R<sup>2</sup> = .106, explaining 10.6% of the total variance. The two largest predictors of conspicuous asceticism were conspicuous consumption (β = 0.648; SE = .089; t = 6.85; p <.001), and narcissism (β = 0.243; SE = .267; t = 2.02; p <.05), with a R<sup>2</sup> = .059, which explains 5.9% of the variance of the model summary.
+Another empirical model of interest was generated using a linear regression. The most accurate predictors for decreasing compulsive consumption were superiority (β = -0.360; SE = .164; t = -3.28; p =.002) and gratitude (β = -0.298; SE = .186; t = -2.72; p =.008) respectively, with an overall R2 = .261, explaining 26.1% of the variance. The third largest predictor of decreasing compulsive consumption is conspicuous consumption (β = -0.324; SE = .162; t = - 2.76; p =.007), with a R2 = .106, thus explaining 10.6% of the variance of the model summary. As previously empirically confirmed, narcissism is a suitable predictor of conspicuous consumption (β = -0.313; SE = .279; t = -2.66; p =.01), with a R2 = .106, explaining 10.6% of the total variance. The two largest predictors of conspicuous asceticism were conspicuous consumption (β = 0.648; SE = .089; t = 6.85; p 2 = .059, which explains 5.9% of the variance of the model summary.
 
 ## ![](_page_95_Figure_0.jpeg)
 
@@ -849,7 +821,8 @@ The average variance extracted (AVEs) among the constructs must present a numeri
 
 **Table 3.1 Factor Loadings for Narcissism and their Measurement Scales (Raskin and Hall 1979)**
 
-| Exhibitionism<br>(Dim. 1) | Loadings |
+| Exhibitionism
+(Dim. 1) | Loadings |
 |---------------------------------------------------------|----------|
 | Special Person-No Better than Peers | .63 |
 | Show Off-Not Show Off | .83 |
@@ -863,17 +836,24 @@ The average variance extracted (AVEs) among the constructs must present a numeri
 | Demanding - Service | .63 |
 | | |
 | Authoritarian (Dim. 2) | Loadings |
-| Leader Preference – Leader<br>Indifference | .75 |
-| Good Leader –<br>Uncertain Leader | .73 |
-| Authoritary Recognition-Authority<br>Indifference | .80 |
+| Leader Preference – Leader
+Indifference | .75 |
+| Good Leader –
+Uncertain Leader | .73 |
+| Authoritary Recognition-Authority
+Indifference | .80 |
 | Born Leader – Trained Leader | .68 |
 | Manipulative - Indifferent | .58 |
 | | |
 | Arrogance (Dim. 3) | Loadings |
 | Arrogance - Humble | .74 |
-| Entitled Lifestyle –<br>Humble Lifestyle | .76 |
-| Unchecked Responsibility –<br>Checked<br>Responsibility | .81 |
-| Willingly Independent – Willingly<br>Dependent | .64 |
+| Entitled Lifestyle –
+Humble Lifestyle | .76 |
+| Unchecked Responsibility –
+Checked
+Responsibility | .81 |
+| Willingly Independent – Willingly
+Dependent | .64 |
 
 **Table 3.2 Factor Loadings for CMC, CNC, CNC, and CNA Loadings**
 
@@ -911,7 +891,9 @@ The average variance extracted (AVEs) among the constructs must present a numeri
 
 | | CR | AVE | NARC | NARC | NARC | CMC | CNC | CNA |
 |--------|-----|-----|----------|-------|----------|-------|-------|-----|
-| | | | –<br>EXH | AUT | –<br>ARR | | | |
+| | | | –
+EXH | AUT | –
+ARR | | | |
 | NARC - | .91 | .51 | .71 | | | | | |
 | G/NAD | | | | | | | | |
 | NARC – | .84 | .51 | .50 | .71 | | | | |
@@ -929,9 +911,9 @@ The average variance extracted (AVEs) among the constructs must present a numeri
 
 ## **Hypotheses Testing**
 
-H1 was expressed by the relationship of consumer dietary choices and narcissism M[SD]: 2.73[0.79]. There was a negative relationship between consumer dietary choices and narcissism, such that the ketogenic animal-based diet group displayed lower narcissistic tendencies across its three factors (β = -.383; SE = .167; t = -3.60; p = .001). H1's R<sup>2</sup> = .147, thus explaining 14.7% of the variance. Hence, H1 is supported. Regarding H2, consumer dietary choices has a negative and significant relationship with compulsive consumption M[SD]: 3.82[1.46] at p<.01. The animal-based diet group showed a significant decrease on the effects of compulsive consumption (β = -.303; SE = .320; t = -2.75; p = .007). Moreover, the R<sup>2</sup> = .092, which describes 9.2% of the variance of the model summary.
+H1 was expressed by the relationship of consumer dietary choices and narcissism M[SD]: 2.73[0.79]. There was a negative relationship between consumer dietary choices and narcissism, such that the ketogenic animal-based diet group displayed lower narcissistic tendencies across its three factors (β = -.383; SE = .167; t = -3.60; p = .001). H1's R2 = .147, thus explaining 14.7% of the variance. Hence, H1 is supported. Regarding H2, consumer dietary choices has a negative and significant relationship with compulsive consumption M[SD]: 3.82[1.46] at p2 = .092, which describes 9.2% of the variance of the model summary.
 
-However, H3 was unsupported, as the p>.05, thus I failed to reject the null hypothesis of consumer dietary choices influence on conspicuous consumption M[SD]: 3.00[1.37] (β = .182; SE = .309; t = 1.60; p = .113). Therefore, there is no significant and negative relationship between the two constructs since the R<sup>2</sup> = .033, which comprises only 3.3% of the variance. Finally, H4's mediated relationship was unsubstantiated as there is no two-tailed directional relationship between narcissism and conspicuous asceticism at p>.05. While there is a significant relationship between consumer dietary choices and narcissism, the mediator effect fails as narcissism's effect on conspicuous asceticism M[SD]: 3.57[1.24] is insignificant (β = .080; SE = .180; t = .698; p = .487) with a R<sup>2</sup> = .006, thus explaining 0.6% of the variance.
+However, H3 was unsupported, as the p>.05, thus I failed to reject the null hypothesis of consumer dietary choices influence on conspicuous consumption M[SD]: 3.00[1.37] (β = .182; SE = .309; t = 1.60; p = .113). Therefore, there is no significant and negative relationship between the two constructs since the R2 = .033, which comprises only 3.3% of the variance. Finally, H4's mediated relationship was unsubstantiated as there is no two-tailed directional relationship between narcissism and conspicuous asceticism at p>.05. While there is a significant relationship between consumer dietary choices and narcissism, the mediator effect fails as narcissism's effect on conspicuous asceticism M[SD]: 3.57[1.24] is insignificant (β = .080; SE = .180; t = .698; p = .487) with a R2 = .006, thus explaining 0.6% of the variance.
 
 ## ![](_page_113_Figure_1.jpeg)
 

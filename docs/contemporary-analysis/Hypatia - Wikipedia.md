@@ -1,3 +1,8 @@
+---
+title: "**Hypatia**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Hypatia)
 
 # **Hypatia**
@@ -9,13 +14,18 @@
 | Hypatia | |
 |--------------------|----------------------------------------------------------------------------------------|
 | Born | c. 350–370 AD |
-| | Alexandria, Province of Egypt, Eastern<br>Roman Empire |
-| Died | March 415 AD (aged 45–65)[1]<br>Alexandria, Province of Egypt, Eastern<br>Roman Empire |
+| | Alexandria, Province of Egypt, Eastern
+Roman Empire |
+| Died | March 415 AD (aged 45–65)[1]
+Alexandria, Province of Egypt, Eastern
+Roman Empire |
 | Philosophical work | |
 | Era | Ancient philosophy |
 | Region | Western philosophy |
 | School | Neoplatonism |
-| Main<br>interests | • Mathematics<br>• Astronomy |
+| Main
+interests | • Mathematics
+• Astronomy |
 
 **Hypatia**[\[a\]](#page-36-1) (born c. 350–370 – March 415 AD[\)\[1\]](#page-36-0)[\[4\]](#page-37-0) was a
 
@@ -25,13 +35,13 @@ Hypatia constructed [astrolabes](https://en.wikipedia.org/wiki/Astrolabe) and [h
 
 ## Hypatia - Wikipedia
 
-# a <u>lector</u> named Peter.[8][9]
+# a lector named Peter.[8][9]
 
-Hypatia's murder shocked the empire and transformed her into a "martyr for philosophy", leading future Neoplatonists such as the historian Damascius (c. 458 - c. 538) to become increasingly fervent in their opposition to Christianity. During the Middle Ages, Hypatia was co-opted as a symbol of Christian virtue and scholars believe she was part of the basis for the legend of Saint Catherine of Alexandria. During the Age of Enlightenment, she became a symbol of opposition to <u>Catholicism</u>. In the nineteenth century, European literature, especially Charles Kingsley's 1853 novel Hypatia, romanticized her as "the last of the Hellenes". In the twentieth century, Hypatia became seen as an icon for women's rights and a precursor to the **feminist movement**. Since the late twentieth century, some portrayals have associated Hypatia's death with the destruction of the Library of Alexandria, despite the historical fact that the library no longer existed during Hypatia's lifetime.[10]
+Hypatia's murder shocked the empire and transformed her into a "martyr for philosophy", leading future Neoplatonists such as the historian Damascius (c. 458 - c. 538) to become increasingly fervent in their opposition to Christianity. During the Middle Ages, Hypatia was co-opted as a symbol of Christian virtue and scholars believe she was part of the basis for the legend of Saint Catherine of Alexandria. During the Age of Enlightenment, she became a symbol of opposition to Catholicism. In the nineteenth century, European literature, especially Charles Kingsley's 1853 novel Hypatia, romanticized her as "the last of the Hellenes". In the twentieth century, Hypatia became seen as an icon for women's rights and a precursor to the **feminist movement**. Since the late twentieth century, some portrayals have associated Hypatia's death with the destruction of the Library of Alexandria, despite the historical fact that the library no longer existed during Hypatia's lifetime.[10]
 
 ![](_page_2_Picture_4.jpeg)
 
-Hypatia's father <u>Theon of Alexandria</u> is best known for having edited the existing text of <u>Euclid</u>'s <u>Elements</u>, [11][12][13] shown here in a ninth-century manuscript
+Hypatia's father Theon of Alexandria is best known for having edited the existing text of Euclid's Elements, [11][12][13] shown here in a ninth-century manuscript
 
 Hypatia was the daughter of the mathematician [Theon of](https://en.wikipedia.org/wiki/Theon_of_Alexandria) [Alexandria.](https://en.wikipedia.org/wiki/Theon_of_Alexandria) [\[14\]](#page-37-10)[\[15\]](#page-38-0)[\[16\]](#page-38-1) According to classical historian [Edward J.](https://en.wikipedia.org/wiki/Edward_J._Watts) [Watts,](https://en.wikipedia.org/wiki/Edward_J._Watts) Theon was the head of a school called the "Mouseion", which was named in emulation of the [Hellenistic](https://en.wikipedia.org/wiki/Hellenistic_period) [Mouseion,](https://en.wikipedia.org/wiki/Musaeum) [\[15\]](#page-38-0) whose membership had ceased in the 260s AD[.\[17\]](#page-38-2) Theon's school was exclusive, highly prestigious, and doctrinally conservative. Theon rejected the teachings of [Iamblichus](https://en.wikipedia.org/wiki/Iamblichus) and may have taken pride in teaching a pure, [Plotinian](https://en.wikipedia.org/wiki/Plotinus) [Neoplatonism.](https://en.wikipedia.org/wiki/Neoplatonism) [\[18\]](#page-38-3) Although he was widely seen as a great mathematician at the time[,\[11\]](#page-37-7)[\[13\]](#page-37-9)[\[19\]](#page-38-4) Theon's mathematical work has been deemed by modern standards as essentially "minor"[,\[11\]](#page-37-7) "trivial"[,\[13\]](#page-37-9) and "completely unoriginal"[.\[19\]](#page-38-4) His primary achievement was the production of a new edition of Euclid's Elements, in which he corrected scribal errors that had been made over the course of nearly 700 years of copying.[\[11\]](#page-37-7) [\[12\]](#page-37-8)[\[13\]](#page-37-9) Theon's edition of Euclid's Elements became the most widely used edition of the textbook for centurie[s\[12\]](#page-37-8)[\[20\]](#page-38-5) and almost totally supplanted all other editions[.\[20\]](#page-38-5) Nothing is known about Hypatia's mother, who is never mentioned in any of the extant sources[.\[21\]](#page-38-6)[\[22\]](#page-38-7)[\[23\]](#page-38-8) Theon dedicates his commentary on Book IV of Ptolemy's Almagest to an individual named Epiphanius, addressing him as "my dear son"[,\[24\]](#page-38-9)[\[25\]](#page-38-10) indicating that he may have been Hypatia's brother[,\[24\]](#page-38-9) but the Greek word Theon uses (teknon) does not always mean "son" in the biological sense and was often used merely to signal strong feelings of paternal connection.[\[24\]](#page-38-9)[\[25\]](#page-38-10) Hypatia's exact year of birth is still under debate, with suggested dates ranging from 350 to 370 AD[.\[26\]](#page-38-11)[\[27\]](#page-38-12)[\[28\]](#page-38-13) Many scholars have followed [Richard Hoche](https://en.wikipedia.org/wiki/Richard_Hoche) in inferring that Hypatia was born around 370. According to Damascius's lost work Life of Isidore, preserved in the entry for Hypatia in the [Suda](https://en.wikipedia.org/wiki/Suda), a tenth-century [Byzantine](https://en.wikipedia.org/wiki/Byzantine_Empire) encyclopedia, Hypatia flourished during the reign of [Arcadius.](https://en.wikipedia.org/wiki/Arcadius) Hoche reasoned that Damascius's description of her physical beauty would imply that she was at most 30 at that time, and the year 370 was 30 years prior to the midpoint of Arcadius's reign[.\[29\]](#page-38-14)[\[30\]](#page-38-15) In contrast, theories that she was born as early as 350 are based on the wording of the chronicler [John Malalas](https://en.wikipedia.org/wiki/John_Malalas) (c.491 – 578), who calls her old at the time of her death in 415[.\[28\]](#page-38-13)[\[31\]](#page-38-16) Robert Penella argues that both theories are weakly based, and that her birth date should be left unspecified[.\[29\]](#page-38-14)
 
@@ -85,7 +95,7 @@ Hypatia has been described as a [universal genius,](https://en.wikipedia.org/wik
 
 ## ![](_page_14_Picture_6.jpeg)
 
-Hypatia is known to have edited at least Book III of <u>Ptolemy</u>'s <u>Almagest</u>, [126][127][128] which supported the <u>geocentric model</u> of the universe shown in this diagram. [129][127]
+Hypatia is known to have edited at least Book III of Ptolemy's Almagest, [126][127][128] which supported the geocentric model of the universe shown in this diagram. [129][127]
 
 Hypatia is now known to have edited the existing text of Book III of Ptolemy's *Almagest*.[126][127][128] It was once thought that Hypatia had merely revised Theon's commentary on the Almagest.[130] based on the title of Theon's commentary on the third book of *Almagest*, which reads "Commentary by Theon of Alexandria on Book III of Ptolemy's Almagest, edition revised by my daughter Hypatia, the philosopher", [130][131] but, based on analysis of the titles of Theon's other commentaries and similar titles from the time period, scholars have concluded that Hypatia corrected, not her father's commentary, but the text of *Almagest* itself.[130][132] Her contribution is thought to be an improved method for the long division algorithms needed for astronomical computation. The Ptolemaic model of the universe was geocentric, meaning it taught that the Sun revolved around the Earth. In the Almagest, Ptolemy proposed a division problem for calculating the number of degrees swept out by the Sun in a single day as it orbits the Earth. In his early commentary, Theon had tried to improve upon Ptolemy's division calculation. In the text edited by Hypatia, a tabular method is detailed. [129] This tabular method might be the "astronomical table" which historic sources attribute to Hypatia. [129] Classicist Alan Cameron additionally states that it is possible Hypatia may have edited, not only Book III, but all nine extant books of the Almagest. [127]
 
@@ -95,9 +105,9 @@ Hypatia is now known to have edited the existing text of Book III of Ptolemy's *
 
 ## ![](_page_16_Picture_4.jpeg)
 
-Hypatia wrote a commentary on <u>Apollonius of Perga</u>'s treatise on <u>conic</u> sections, [34][133][134] but this commentary is no longer extant. [133]
+Hypatia wrote a commentary on Apollonius of Perga's treatise on conic sections, [34][133][134] but this commentary is no longer extant. [133]
 
-Hypatia wrote a commentary on <u>Diophantus</u>'s thirteen-volume *Arithmetica*, which had been written sometime around the year 250 AD. [19][34][135][136] It set out more than 100 mathematical problems, for which solutions are proposed using algebra. [137] For centuries, scholars believed that this commentary had been lost. [123] Only volumes one through six of the *Arithmetica* have survived in the original Greek, [19][138] [134] but at least four additional volumes have been preserved in an Arabic translation produced around the year 860. [19][136] The Arabic text contains numerous expansions not found in the Greek text, [19][136] including verifications of Diophantus's examples and additional problems. [19]
+Hypatia wrote a commentary on Diophantus's thirteen-volume *Arithmetica*, which had been written sometime around the year 250 AD. [19][34][135][136] It set out more than 100 mathematical problems, for which solutions are proposed using algebra. [137] For centuries, scholars believed that this commentary had been lost. [123] Only volumes one through six of the *Arithmetica* have survived in the original Greek, [19][138] [134] but at least four additional volumes have been preserved in an Arabic translation produced around the year 860. [19][136] The Arabic text contains numerous expansions not found in the Greek text, [19][136] including verifications of Diophantus's examples and additional problems. [19]
 
 Cameron states that the most likely source of the additional material is Hypatia, since Hypatia is the only ancient writer known to have written a commentary on the Arithmetica and the additions appear to follow the same methods used by her father Theon[.\[19\]](#page-38-4) The first person to deduce that the additional material in the Arabic manuscripts came from Hypatia was the nineteenth-century scholar [Paul Tannery.](https://en.wikipedia.org/wiki/Paul_Tannery) [\[133\]](#page-43-18)[\[139\]](#page-44-4) In 1885, [Sir](https://en.wikipedia.org/wiki/Thomas_Little_Heath) [Thomas Heath](https://en.wikipedia.org/wiki/Thomas_Little_Heath) published the first English translation of the surviving portion of the Arithmetica. Heath argued that surviving text of Arithmetica is actually a school edition produced by Hypatia to aid her students[.\[138\]](#page-44-3) According to Mary Ellen Waithe, Hypatia used an unusual [algorithm](https://en.wikipedia.org/wiki/Algorithm) for [division](https://en.wikipedia.org/wiki/Division_(mathematics)) (in the then-standard [sexagesimal](https://en.wikipedia.org/wiki/Sexagesimal) numeral system), making it easy for scholars to pick out which parts of the text she had written[.\[133\]](#page-43-18)
 
@@ -105,9 +115,9 @@ The consensus that Hypatia's commentary is the source of the additional material
 
 ![](_page_18_Picture_3.jpeg)
 
-Hypatia is known to have constructed <u>plane astrolabes</u>, [144] such as the one shown above, which dates to the eleventh century.
+Hypatia is known to have constructed plane astrolabes, [144] such as the one shown above, which dates to the eleventh century.
 
-One of Synesius's letters describes Hypatia as having taught him how to construct a silver <u>plane astrolabe</u> as a gift for an official[.\[52\]](#page-39-18)[\[144\]](#page-44-9)[\[145\]](#page-44-10)[\[146\]](#page-44-11) An astrolabe is a device used to calculate date and time based on the positions of the stars and planets. It can also be used to predict where the stars and planets will be on any given date[.\[144\]](#page-44-9)[\[147\]](#page-44-12)[\[148\]](#page-44-13) A "little astrolabe", or "plane astrolabe", is a kind of astrolabe that used [stereographic projection](https://en.wikipedia.org/wiki/Stereographic_projection) of the celestial sphere to represent the heavens on a plane surface, as opposed to an [armillary](https://en.wikipedia.org/wiki/Armillary_sphere) [sphere,](https://en.wikipedia.org/wiki/Armillary_sphere) which was globe-shaped[.\[129\]](#page-43-14)[\[147\]](#page-44-12) Armillary spheres were large and normally used for display, whereas a plane astrolabe was portable and could be used for practical measurements[.\[147\]](#page-44-12)
+One of Synesius's letters describes Hypatia as having taught him how to construct a silver plane astrolabe as a gift for an official[.\[52\]](#page-39-18)[\[144\]](#page-44-9)[\[145\]](#page-44-10)[\[146\]](#page-44-11) An astrolabe is a device used to calculate date and time based on the positions of the stars and planets. It can also be used to predict where the stars and planets will be on any given date[.\[144\]](#page-44-9)[\[147\]](#page-44-12)[\[148\]](#page-44-13) A "little astrolabe", or "plane astrolabe", is a kind of astrolabe that used [stereographic projection](https://en.wikipedia.org/wiki/Stereographic_projection) of the celestial sphere to represent the heavens on a plane surface, as opposed to an [armillary](https://en.wikipedia.org/wiki/Armillary_sphere) [sphere,](https://en.wikipedia.org/wiki/Armillary_sphere) which was globe-shaped[.\[129\]](#page-43-14)[\[147\]](#page-44-12) Armillary spheres were large and normally used for display, whereas a plane astrolabe was portable and could be used for practical measurements[.\[147\]](#page-44-12)
 
 The statement from Synesius's letter has sometimes been wrongly interpreted to mean that Hypatia invented the plane astrolabe[,\[37\]](#page-39-3)[\[149\]](#page-44-14) but the plane astrolabe was in use at least 500 years before Hypatia was born[.\[52\]](#page-39-18)[\[144\]](#page-44-9)[\[149\]](#page-44-14)[\[150\]](#page-44-15) Hypatia may have learned how to construct a plane astrolabe from her father Theon[,\[129\]](#page-43-14)[\[145\]](#page-44-10)[\[147\]](#page-44-12) who had written two treatises on astrolabes: one entitled Memoirs on the Little Astrolabe and another study on the armillary sphere in Ptolemy's Almagest. [\[147\]](#page-44-12) Theon's treatise is now lost, but it was well known to the Syrian bishop [Severus Sebokht](https://en.wikipedia.org/wiki/Severus_Sebokht) (575–667), who describes its contents in his own treatise on astrolabes[.\[147\]](#page-44-12)[\[151\]](#page-44-16) Hypatia and Theon may have also studied Ptolemy's Planisphaerium, which describes the calculations necessary in order to construct an astrolabe[.\[152\]](#page-45-0) Synesius's wording indicates that Hypatia did not design or construct the astrolabe, but acted as a guide and mentor during the process of constructing it.[\[13\]](#page-37-9)
 

@@ -1,3 +1,8 @@
+---
+title: "KEY BENEFITS"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Figure_0.jpeg)
 
 ## ANEMOI'S MISSION IS TO ACCELERATE THE MARITIME INDUSTRY'S TRANSITION TO ZERO EMISSIONS BY DELIVERING MARKET-LEADING WIND TECHNOLOGY
@@ -173,9 +178,14 @@ Estimated Savings (IMO Route):
 
 | | Consumption | Fuel cost | Savings |
 |------------------------------------------|-------------|------------|---------|
-| Shortest<br>route without<br>rotor sails | 1,674 mt | 1,274k UŠD | * |
-| With 5 rotor<br>sails (5x35m) | 1,494 mt | 1,145k USD | ~10% |
-| With NAPA<br>Voyage<br>Optimization | 1,250 mt | 964k USD | ~25% |
+| Shortest
+route without
+rotor sails | 1,674 mt | 1,274k UŠD | * |
+| With 5 rotor
+sails (5x35m) | 1,494 mt | 1,145k USD | ~10% |
+| With NAPA
+Voyage
+Optimization | 1,250 mt | 964k USD | ~25% |
 
 # EEXI COMPLIANCE ACHIEVED WITH ROTOR SAILS INSTALLATION ON VLOC SOHAR MAX
 
@@ -209,14 +219,134 @@ Wind can buy you time and flexibility in the transition to expensive green fuels
 
 ## How ANEMOI Rotor Sails Compare…
 
-| Easy<br>to<br>Install | Relatively<br>easy<br>to<br>install,<br>typically<br>sails<br>are<br>of<br>modular<br>design<br>with<br>simple<br>connection<br>to<br>foundation.<br>Some<br>electrical<br>equipment<br>to<br>install<br>at<br>MSB<br>and<br>bridge<br>plus<br>cabling<br>to<br>sails<br>and<br>sensors |
+| Easy
+to
+Install | Relatively
+easy
+to
+install,
+typically
+sails
+are
+of
+modular
+design
+with
+simple
+connection
+to
+foundation.
+Some
+electrical
+equipment
+to
+install
+at
+MSB
+and
+bridge
+plus
+cabling
+to
+sails
+and
+sensors |
 |------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Suitable<br>to<br>retrofit | Minimal<br>or<br>no<br>structural<br>modifications<br>needed<br>below<br>deck |
-| Compact<br>but<br>high-performing | Small<br>size<br>due<br>to<br>high<br>lift<br>coefficient<br>of<br>~12<br>generated<br>by<br>spinning<br>rotor |
-| Low<br>impact<br>to<br>cargo<br>capacity | Low<br>weight<br>due<br>to<br>small<br>size,<br>negligible<br>impact<br>on<br>cargo<br>capacity<br>or<br>stability |
-| Visibility<br>compliance | Sufficient<br>sail<br>area<br>can<br>normally<br>be<br>installed<br>in<br>compliance<br>with<br>SOLAS<br>bridge<br>visibility<br>regulations |
-| Inherently<br>safe | Switching<br>off<br>reduces<br>thrust<br>coefficient<br>by<br>~95%<br>so<br>there<br>is<br>no<br>requirement<br>to<br>fold<br>sails<br>down<br>in<br>storms. |
-| Low<br>maintenance<br>&<br>OPEX | Few<br>moving<br>parts,<br>well<br>protected<br>inside<br>rotor,<br>simple<br>lubrication<br>schedule<br>with<br>easy<br>access<br>from<br>inside<br>tower |
+| Suitable
+to
+retrofit | Minimal
+or
+no
+structural
+modifications
+needed
+below
+deck |
+| Compact
+but
+high-performing | Small
+size
+due
+to
+high
+lift
+coefficient
+of
+~12
+generated
+by
+spinning
+rotor |
+| Low
+impact
+to
+cargo
+capacity | Low
+weight
+due
+to
+small
+size,
+negligible
+impact
+on
+cargo
+capacity
+or
+stability |
+| Visibility
+compliance | Sufficient
+sail
+area
+can
+normally
+be
+installed
+in
+compliance
+with
+SOLAS
+bridge
+visibility
+regulations |
+| Inherently
+safe | Switching
+off
+reduces
+thrust
+coefficient
+by
+~95%
+so
+there
+is
+no
+requirement
+to
+fold
+sails
+down
+in
+storms. |
+| Low
+maintenance
+&
+OPEX | Few
+moving
+parts,
+well
+protected
+inside
+rotor,
+simple
+lubrication
+schedule
+with
+easy
+access
+from
+inside
+tower |
 
 ## ![](_page_16_Picture_2.jpeg)
 

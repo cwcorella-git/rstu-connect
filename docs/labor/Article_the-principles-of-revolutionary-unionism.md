@@ -1,13 +1,8 @@
 ---
-title: The Principles Of Revolutionary Unionism
-date: 2025
-author: International Workers Association
-tags:
-  - organizing
-  - strikes
-  - unions
-  - labor
-  - anarchism
+title: "The Principles Of Revolutionary Unionism"
+author: "International Workers Association"
+date: "2025"
+category: "labor"
 ---
 
 # The Principles Of Revolutionary Unionism

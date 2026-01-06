@@ -1,3 +1,8 @@
+---
+title: "Marcus Tullius Cicero"
+category: "arts-culture-music"
+---
+
 ## An Ancient Guide to the Art of Persuasion
 
 ## ![](_page_0_Picture_2.jpeg)
@@ -42,7 +47,7 @@ Names: Cicero, Marcus Tullius, author. | May, James M., editor, translator. Titl
 
 Identifiers: LCCN 2016012361 | ISBN 9780691164335 (hardcover : alk. paper) Subjects: LCSH: Rhetoric, Ancient. | Persuasion (Rhetoric) | Cicero, Marcus Tullius.
 
-Classification: LCC PA6307. A2 M39 2016 | DDC 808—dc23 LC record available at <http://lccn.loc.gov/2016012361>
+Classification: LCC PA6307. A2 M39 2016 | DDC 808—dc23 LC record available at 
 
 British Library Cataloging-in-Publication Data is available
 
@@ -56,23 +61,96 @@ Printed in the United States of America 1 3 5 7 9 10 8 6 4 2
 
 | PREFACE | vii |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|
-| CICERO'S<br>LIFE:<br>A<br>BRIEF<br>SKETCH | xiii |
-| HOW<br>TO<br>WIN<br>AN<br>ARGUMENT | 1 |
-| The<br>Origins<br>of<br>Eloquent<br>and<br>Persuasive<br>Speech | 1 |
-| Nature,<br>Art,<br>Practice | 1 |
-| Rhetoric<br>and<br>Truth | 8 |
-| The<br>Parts<br>of<br>Rhetoric,<br>or<br>Activities<br>of<br>the<br>Orator | 12 |
-| Invention:<br>Identifying<br>and<br>Classifying<br>the<br>Question<br>at<br>Issue<br>According<br>to<br>the<br>Stance<br>of<br>Argument,<br>and<br>Discovering<br>the | |
-| Sources<br>of<br>Proof | 13 |
+| CICERO'S
+LIFE:
+A
+BRIEF
+SKETCH | xiii |
+| HOW
+TO
+WIN
+AN
+ARGUMENT | 1 |
+| The
+Origins
+of
+Eloquent
+and
+Persuasive
+Speech | 1 |
+| Nature,
+Art,
+Practice | 1 |
+| Rhetoric
+and
+Truth | 8 |
+| The
+Parts
+of
+Rhetoric,
+or
+Activities
+of
+the
+Orator | 12 |
+| Invention:
+Identifying
+and
+Classifying
+the
+Question
+at
+Issue
+According
+to
+the
+Stance
+of
+Argument,
+and
+Discovering
+the | |
+| Sources
+of
+Proof | 13 |
 | Arrangement | 40 |
 | Style | 69 |
 | Memory | 103 |
 | Delivery | 110 |
-| The<br>Value<br>of<br>Imitating<br>Good<br>Models<br>of<br>Speaking | 118 |
-| The<br>Value<br>of<br>Writing<br>to<br>Prepare<br>for<br>Effective<br>Speaking | 122 |
-| The<br>Requirements<br>and<br>Education<br>of<br>the<br>Ideal<br>Speaker | 126 |
-| A<br>CICERONIAN<br>CHEAT<br>SHEET<br>FOR<br>EFFECTIVE<br>SPEAKING | 135 |
-| LATIN<br>TEXTS | 141 |
+| The
+Value
+of
+Imitating
+Good
+Models
+of
+Speaking | 118 |
+| The
+Value
+of
+Writing
+to
+Prepare
+for
+Effective
+Speaking | 122 |
+| The
+Requirements
+and
+Education
+of
+the
+Ideal
+Speaker | 126 |
+| A
+CICERONIAN
+CHEAT
+SHEET
+FOR
+EFFECTIVE
+SPEAKING | 135 |
+| LATIN
+TEXTS | 141 |
 ## | | 223 |
 
 #### **GLOSSARY**
@@ -671,7 +749,7 @@ Ad actionis autem usum atque laudem maximam, sine dubio partem vox obtinet; quae
 
 ## THE VALUE OF IMITATING GOOD MODELS OF SPEAKING
 
-*De oratore* 2.88–92, 96: Atque ut a familiari nostro exordiar, hunc ego, Catule, Sulpicium primum in causa parvola adulescentulum audivi voce et forma et motu corporis et reliquis rebus aptis ad hoc munus, de quo quaerimus, oratione autem celeri et concitata, quod erat ingenii, sed verbis effervescentibus et paulo nimium redundantibus, quod erat aetatis. non sum aspernatus; volo enim se efferat in adulescente fecunditas. nam facilius sicut in vitibus revocantur ea quae se nimium profuderunt quam, si nihil valet materies, nova sarmenta cultura excitantur; item volo esse in adulescente unde aliquid amputem. non enim potest in eo sucus esse diuturnus, quod nimis celeriter est maturitatem adsecutum. vidi statim indolem neque dimisi tempus et eum sum cohortatus ut forum sibi ludum putaret esse ad discendum, magistrum autem quem vellet eligeret; me quidem si audiret, L. Crassum. quod iste adripuit et ita sese facturum confirmavit atque etiam addidit, gratiae scilicet causa, me quoque sibi magistrum futurum. vix annus intercesserat ab hoc sermone cohortationis meae, cum iste accusavit C. Norbanum, defendente me. non est credibile quid interesse mihi sit visum inter eum, qui tum erat et qui anno ante fuerat. omnino in illud genus eum Crassi magnificum atque praeclarum natura ipsa ducebat, sed ea non satis proficere potuisset, nisi eodem studio atque imitatione intendisset atque ita dicere consuesset, ut tota mente Crassum atque omni animo intueretur. ergo hoc sit primum in praeceptis meis, ut demonstremus quem imitetur, [atque ita ut quae maxime excellant in eo quem imitabitur, ea diligentissime persequatur]. tum accedat exercitatio, qua illum quem delegerit imitando effingat atque ita exprimat <at non> ita ut multos imitatores saepe cognovi, qui aut ea, quae facilia sunt, aut etiam illa, quae insignia ac paene vitiosa, consectentur imitando. nihil est facilius quam amictum imitari alicuius aut statum aut motum. si vero etiam vitiosi aliquid est, id sumere et in eo vitiosum esse non magnum est, ut ille, qui nunc etiam amissa voce furit in republica, Fufius nervos in dicendo C. Fimbriae, quos tamen habuit ille, non adsequitur, oris pravitatem et verborum latitudinem imitatur. sed tamen ille nec deligere scivit cuius potissimum similis esset, et in eo ipso quem delegerat imitari etiam vitia voluit. qui autem ita faciet ut oportet, primum vigilet necesse est in deligendo; deinde, quem probavit in eo quae maxime excellent, ea diligentissime persequatur.
+*De oratore* 2.88–92, 96: Atque ut a familiari nostro exordiar, hunc ego, Catule, Sulpicium primum in causa parvola adulescentulum audivi voce et forma et motu corporis et reliquis rebus aptis ad hoc munus, de quo quaerimus, oratione autem celeri et concitata, quod erat ingenii, sed verbis effervescentibus et paulo nimium redundantibus, quod erat aetatis. non sum aspernatus; volo enim se efferat in adulescente fecunditas. nam facilius sicut in vitibus revocantur ea quae se nimium profuderunt quam, si nihil valet materies, nova sarmenta cultura excitantur; item volo esse in adulescente unde aliquid amputem. non enim potest in eo sucus esse diuturnus, quod nimis celeriter est maturitatem adsecutum. vidi statim indolem neque dimisi tempus et eum sum cohortatus ut forum sibi ludum putaret esse ad discendum, magistrum autem quem vellet eligeret; me quidem si audiret, L. Crassum. quod iste adripuit et ita sese facturum confirmavit atque etiam addidit, gratiae scilicet causa, me quoque sibi magistrum futurum. vix annus intercesserat ab hoc sermone cohortationis meae, cum iste accusavit C. Norbanum, defendente me. non est credibile quid interesse mihi sit visum inter eum, qui tum erat et qui anno ante fuerat. omnino in illud genus eum Crassi magnificum atque praeclarum natura ipsa ducebat, sed ea non satis proficere potuisset, nisi eodem studio atque imitatione intendisset atque ita dicere consuesset, ut tota mente Crassum atque omni animo intueretur. ergo hoc sit primum in praeceptis meis, ut demonstremus quem imitetur, [atque ita ut quae maxime excellant in eo quem imitabitur, ea diligentissime persequatur]. tum accedat exercitatio, qua illum quem delegerit imitando effingat atque ita exprimat  ita ut multos imitatores saepe cognovi, qui aut ea, quae facilia sunt, aut etiam illa, quae insignia ac paene vitiosa, consectentur imitando. nihil est facilius quam amictum imitari alicuius aut statum aut motum. si vero etiam vitiosi aliquid est, id sumere et in eo vitiosum esse non magnum est, ut ille, qui nunc etiam amissa voce furit in republica, Fufius nervos in dicendo C. Fimbriae, quos tamen habuit ille, non adsequitur, oris pravitatem et verborum latitudinem imitatur. sed tamen ille nec deligere scivit cuius potissimum similis esset, et in eo ipso quem delegerat imitari etiam vitia voluit. qui autem ita faciet ut oportet, primum vigilet necesse est in deligendo; deinde, quem probavit in eo quae maxime excellent, ea diligentissime persequatur.
 
 ## …
 
@@ -679,11 +757,11 @@ Hanc igitur similitudinem qui imitatione adsequi volet, cum exercitationibus cre
 
 #### THE VALUE OF WRITING TO PREPARE FOR EFFECTIVE SPEAKING
 
-*De oratore* 1.149–55: Equidem probo ista, Crassus inquit, quae vos facere soletis, ut causa aliqua posita consimili causarum earum quae in forum deferuntur, dicatis quam maxime ad veritatem accommodate. sed plerique in hoc vocem modo, neque eam scienter, et vires exercent suas et linguae celeritatem incitant verborumque frequentia delectantur. in quo fallit eos quod audierunt, dicendo homines ut dicant efficere solere. vere enim etiam illud dicitur, perverse dicere homines perverse dicendo facillime consequi. quam ob rem in istis ipsis exercitationibus etsi utile est etiam subito saepe dicere, tamen illud utilius, sumpto spatio ad cogitandum, paratius atque accuratius dicere. caput autem est quod ut vere dicam minime facimus—est enim magni laboris, quem plerique fugimus—quam plurimum scribere. <stilus est> stilus optimus et praestantissimus dicendi effector ac magister; neque iniuria: nam si subitam et fortuitam orationem commentatio et cogitatio facile vincit, hanc ipsam profecto adsidua ac diligens scriptura superabit. omnes enim, sive artis sunt loci sive ingenii cuiusdam atque prudentiae, qui modo insunt in ea re de qua scribimus, inquirentibus nobis omnique acie ingenii contemplantibus ostendunt se et occurrunt; omnesque sententiae verbaque omnia quae sunt cuiusque generis <maxime propria> maximeque inlustria, sub acumen stili subeant et succedant necesse est; tum ipsa conlocatio conformatioque verborum perficitur in scribendo, non poetico sed quodam oratorio numero et modo. haec sunt quae clamores et admirationes in bonis oratoribus efficiunt, neque ea quisquam, nisi diu multumque scriptitarit, etiam si vehementissime se in his subitis dictionibus exercuerit, consequetur. et qui a scribendi consuetudine ad dicendum venit, hanc adfert facultatem, ut etiam subito si dicat, tamen illa quae dicantur similia scriptorum esse videantur; atque etiam, si quando in dicendo scriptum attulerit aliquid, cum ab eo discesserit, reliqua similis oratio consequetur. ut concitato navigio cum remiges inhibuerunt, retinet tamen ipsa navis motum et cursum suum intermisso impetu pulsuque remorum, sic in oratione perpetua, cum scripta deficiunt, parem tamen obtinet oratio reliqua cursum scriptorum similitudine et vi concitata. in cotidianis autem commentationibus equidem mihi adulescentulus proponere solebam illam exercitationem maxime, qua C. Carbonem nostrum illum inimicum solitum esse uti sciebam, ut aut versibus propositis quam maxime gravibus aut oratione aliqua lecta ad eum finem quem memoria possem comprehendere, eam rem ipsam quam legissem verbis aliis quam maxime possem lectis pronuntiarem. sed post animadverti hoc esse in hoc vitii, quod ea verba, quae maxime cuiusque rei propria quaeque essent ornatissima atque optima occupasset aut Ennius, si ad eius versus me exercerem, aut Gracchus si eius orationem mihi forte posuissem: ita, si isdem verbis uterer nihil prodesse, si aliis etiam obesse, cum minus idoneis uti consuescerem. postea mihi placuit eoque sum usus adulescens, ut summorum oratorum Graecas orationes explicarem. quibus lectis hoc assequebar, ut cum ea quae legerem Graece, Latine redderem, non solum optimis verbis uterer et tamen usitatis, sed etiam exprimerem quaedam verba imitando, quae nova nostris essent, dum modo essent idonea.
+*De oratore* 1.149–55: Equidem probo ista, Crassus inquit, quae vos facere soletis, ut causa aliqua posita consimili causarum earum quae in forum deferuntur, dicatis quam maxime ad veritatem accommodate. sed plerique in hoc vocem modo, neque eam scienter, et vires exercent suas et linguae celeritatem incitant verborumque frequentia delectantur. in quo fallit eos quod audierunt, dicendo homines ut dicant efficere solere. vere enim etiam illud dicitur, perverse dicere homines perverse dicendo facillime consequi. quam ob rem in istis ipsis exercitationibus etsi utile est etiam subito saepe dicere, tamen illud utilius, sumpto spatio ad cogitandum, paratius atque accuratius dicere. caput autem est quod ut vere dicam minime facimus—est enim magni laboris, quem plerique fugimus—quam plurimum scribere.  stilus optimus et praestantissimus dicendi effector ac magister; neque iniuria: nam si subitam et fortuitam orationem commentatio et cogitatio facile vincit, hanc ipsam profecto adsidua ac diligens scriptura superabit. omnes enim, sive artis sunt loci sive ingenii cuiusdam atque prudentiae, qui modo insunt in ea re de qua scribimus, inquirentibus nobis omnique acie ingenii contemplantibus ostendunt se et occurrunt; omnesque sententiae verbaque omnia quae sunt cuiusque generis  maximeque inlustria, sub acumen stili subeant et succedant necesse est; tum ipsa conlocatio conformatioque verborum perficitur in scribendo, non poetico sed quodam oratorio numero et modo. haec sunt quae clamores et admirationes in bonis oratoribus efficiunt, neque ea quisquam, nisi diu multumque scriptitarit, etiam si vehementissime se in his subitis dictionibus exercuerit, consequetur. et qui a scribendi consuetudine ad dicendum venit, hanc adfert facultatem, ut etiam subito si dicat, tamen illa quae dicantur similia scriptorum esse videantur; atque etiam, si quando in dicendo scriptum attulerit aliquid, cum ab eo discesserit, reliqua similis oratio consequetur. ut concitato navigio cum remiges inhibuerunt, retinet tamen ipsa navis motum et cursum suum intermisso impetu pulsuque remorum, sic in oratione perpetua, cum scripta deficiunt, parem tamen obtinet oratio reliqua cursum scriptorum similitudine et vi concitata. in cotidianis autem commentationibus equidem mihi adulescentulus proponere solebam illam exercitationem maxime, qua C. Carbonem nostrum illum inimicum solitum esse uti sciebam, ut aut versibus propositis quam maxime gravibus aut oratione aliqua lecta ad eum finem quem memoria possem comprehendere, eam rem ipsam quam legissem verbis aliis quam maxime possem lectis pronuntiarem. sed post animadverti hoc esse in hoc vitii, quod ea verba, quae maxime cuiusque rei propria quaeque essent ornatissima atque optima occupasset aut Ennius, si ad eius versus me exercerem, aut Gracchus si eius orationem mihi forte posuissem: ita, si isdem verbis uterer nihil prodesse, si aliis etiam obesse, cum minus idoneis uti consuescerem. postea mihi placuit eoque sum usus adulescens, ut summorum oratorum Graecas orationes explicarem. quibus lectis hoc assequebar, ut cum ea quae legerem Graece, Latine redderem, non solum optimis verbis uterer et tamen usitatis, sed etiam exprimerem quaedam verba imitando, quae nova nostris essent, dum modo essent idonea.
 
 # THE REQUIREMENTS AND EDUCATION OF THE IDEAL SPEAKER
 
-*De oratore* 1.6–20: Ac mihi quidem saepenumero in summos homines ac summis ingeniis praeditos intuenti quaerendum esse visum est quid esset cur plures in omnibus artibus quam in dicendo admirabiles extitissent. nam quocumque te animo et cogitatione converteris, permultos excellentis in quoque genere videbis non mediocrium artium sed prope maximarum. quis enim est qui si clarorum hominum scientiam rerum gestarum vel utilitate vel magnitudine metiri velit, non anteponat oratori imperatorem? quis autem dubitet quin belli duces praestantissimos ex hac una civitate paene innumerabiles, in dicendo autem excellentis vix paucos proferre possimus? iam vero, consilio ac sententia qui regere ac gubernare rem p(ublicam) possent multi nostra plures patrum memoria atque etiam maiorum extiterunt, cum boni perdiu nulli, vix autem singulis aetatibus singuli tolerabiles oratores invenirentur. ac ne qui forte cum aliis studiis quae reconditis in artibus atque in quadam varietate litterarum versentur magis hanc dicendi rationem quam cum imperatoris laude aut cum boni senatoris prudentia comparandam putet, convertat animum ad ea ipsa artium genera circumspiciatque qui in iis floruerint quamque multi: sic facillime quanta oratorum sit et semper fuerit paucitas iudicabit. neque enim te fugit laudandarum artium omnium procreatricem quandam et quasi parentem eam quam φιλοσοφίαν Graeci vocant ab hominibus doctissimis iudicari, in qua difficile est numerare quot viri quanta scientia quantaque in suis studiis varietate et copia fuerint qui non una aliqua in re separatim elaborarint, sed omnia quaecumque essent vel scientiae pervestigatione vel disserendi ratione comprehenderint. quis ignorat ii qui mathematici vocantur quanta in obscuritate rerum et quam recondita in arte et multiplici subtilique versentur? quo tamen in genere ita multi perfecti homines extiterunt, ut nemo fere studuisse ei scientiae vehementius videatur quin quod voluerit consecutus sit. quis musicis, quis huic studio litterarum quod profitentur ei qui grammatici vocantur penitus se dedit quin omnem illarum artium paene infinitam vim et materiam scientia et cogitatione comprehenderit? vere mihi hoc videor esse dicturus, ex omnibus iis qui in harum artium liberalissimis studiis sint doctrinisque versati minimam copiam poetarum <et oratorum> egregiorum extitisse. atque in hoc ipso numero in quo perraro exoritur aliquis excellens, si diligenter et ex nostrorum et ex Graecorum copia comparare voles, multo tamen pauciores oratores quam poetae boni reperientur. quod hoc etiam mirabilius debet videri, quia ceterarum artium studia fere reconditis atque abditis e fontibus hauriuntur, dicendi autem omnis ratio in medio posita communi quodam in usu atque in hominum more et sermone versatur, ut in ceteris id maxime excellat quod longissime sit ab imperitorum intellegentia sensuque diiunctum, in dicendo autem vitium vel maximum sit a vulgari genere orationis atque a consuetudine communis sensus abhorrere. ac ne illud quidem vere dici potest aut pluris ceteris artibus inservire aut maiore delectatione aut spe uberiore aut praemiis ad perdiscendum amplioribus commoveri. atque ut omittam Graeciam quae semper eloquentiae princeps esse voluit atque illas omnium doctrinarum inventrices Athenas in quibus summa dicendi vis et inventa est et perfecta, in hac ipsa civitate profecto nulla unquam vehementius quam eloquentiae studia viguerunt. nam posteaquam imperio omnium gentium constituto diuturnitas pacis otium confirmavit, nemo fere laudis cupidus adulescens non sibi ad dicendum studio omni enitendum putavit. ac primo quidem totius rationis ignari qui neque exercitationis ullam viam neque aliquod praeceptum artis esse arbitrarentur, tantum quantum ingenio et cogitatione poterant consequebantur. post autem auditis oratoribus Graecis cognitisque eorum litteris adhibitisque doctoribus incredibili quodam nostri homines discendi studio flagraverunt. excitabat eos magnitudo et varietas multitudoque in omni genere causarum, ut ad eam doctrinam quam suo quisque studio consecutus esset adiungeretur usus frequens qui omnium magistrorum praecepta superaret. erant autem huic studio maxima quae nunc quoque sunt exposita praemia vel ad gratiam vel ad opes vel ad dignitatem, ingenia vero, ut multis rebus possumus iudicare, nostrorum hominum multum ceteris hominibus omnium gentium praestiterunt. quibus de causis quis non iure miretur ex omni memoria aetatum temporum civitatum tam exiguum oratorum numerum inveniri?
+*De oratore* 1.6–20: Ac mihi quidem saepenumero in summos homines ac summis ingeniis praeditos intuenti quaerendum esse visum est quid esset cur plures in omnibus artibus quam in dicendo admirabiles extitissent. nam quocumque te animo et cogitatione converteris, permultos excellentis in quoque genere videbis non mediocrium artium sed prope maximarum. quis enim est qui si clarorum hominum scientiam rerum gestarum vel utilitate vel magnitudine metiri velit, non anteponat oratori imperatorem? quis autem dubitet quin belli duces praestantissimos ex hac una civitate paene innumerabiles, in dicendo autem excellentis vix paucos proferre possimus? iam vero, consilio ac sententia qui regere ac gubernare rem p(ublicam) possent multi nostra plures patrum memoria atque etiam maiorum extiterunt, cum boni perdiu nulli, vix autem singulis aetatibus singuli tolerabiles oratores invenirentur. ac ne qui forte cum aliis studiis quae reconditis in artibus atque in quadam varietate litterarum versentur magis hanc dicendi rationem quam cum imperatoris laude aut cum boni senatoris prudentia comparandam putet, convertat animum ad ea ipsa artium genera circumspiciatque qui in iis floruerint quamque multi: sic facillime quanta oratorum sit et semper fuerit paucitas iudicabit. neque enim te fugit laudandarum artium omnium procreatricem quandam et quasi parentem eam quam φιλοσοφίαν Graeci vocant ab hominibus doctissimis iudicari, in qua difficile est numerare quot viri quanta scientia quantaque in suis studiis varietate et copia fuerint qui non una aliqua in re separatim elaborarint, sed omnia quaecumque essent vel scientiae pervestigatione vel disserendi ratione comprehenderint. quis ignorat ii qui mathematici vocantur quanta in obscuritate rerum et quam recondita in arte et multiplici subtilique versentur? quo tamen in genere ita multi perfecti homines extiterunt, ut nemo fere studuisse ei scientiae vehementius videatur quin quod voluerit consecutus sit. quis musicis, quis huic studio litterarum quod profitentur ei qui grammatici vocantur penitus se dedit quin omnem illarum artium paene infinitam vim et materiam scientia et cogitatione comprehenderit? vere mihi hoc videor esse dicturus, ex omnibus iis qui in harum artium liberalissimis studiis sint doctrinisque versati minimam copiam poetarum  egregiorum extitisse. atque in hoc ipso numero in quo perraro exoritur aliquis excellens, si diligenter et ex nostrorum et ex Graecorum copia comparare voles, multo tamen pauciores oratores quam poetae boni reperientur. quod hoc etiam mirabilius debet videri, quia ceterarum artium studia fere reconditis atque abditis e fontibus hauriuntur, dicendi autem omnis ratio in medio posita communi quodam in usu atque in hominum more et sermone versatur, ut in ceteris id maxime excellat quod longissime sit ab imperitorum intellegentia sensuque diiunctum, in dicendo autem vitium vel maximum sit a vulgari genere orationis atque a consuetudine communis sensus abhorrere. ac ne illud quidem vere dici potest aut pluris ceteris artibus inservire aut maiore delectatione aut spe uberiore aut praemiis ad perdiscendum amplioribus commoveri. atque ut omittam Graeciam quae semper eloquentiae princeps esse voluit atque illas omnium doctrinarum inventrices Athenas in quibus summa dicendi vis et inventa est et perfecta, in hac ipsa civitate profecto nulla unquam vehementius quam eloquentiae studia viguerunt. nam posteaquam imperio omnium gentium constituto diuturnitas pacis otium confirmavit, nemo fere laudis cupidus adulescens non sibi ad dicendum studio omni enitendum putavit. ac primo quidem totius rationis ignari qui neque exercitationis ullam viam neque aliquod praeceptum artis esse arbitrarentur, tantum quantum ingenio et cogitatione poterant consequebantur. post autem auditis oratoribus Graecis cognitisque eorum litteris adhibitisque doctoribus incredibili quodam nostri homines discendi studio flagraverunt. excitabat eos magnitudo et varietas multitudoque in omni genere causarum, ut ad eam doctrinam quam suo quisque studio consecutus esset adiungeretur usus frequens qui omnium magistrorum praecepta superaret. erant autem huic studio maxima quae nunc quoque sunt exposita praemia vel ad gratiam vel ad opes vel ad dignitatem, ingenia vero, ut multis rebus possumus iudicare, nostrorum hominum multum ceteris hominibus omnium gentium praestiterunt. quibus de causis quis non iure miretur ex omni memoria aetatum temporum civitatum tam exiguum oratorum numerum inveniri?
 
 Sed nimirum maius est hoc quiddam quam homines opinantur et pluribus ex artibus studiisque collectum. quid enim quis aliud in maxima discentium multitudine summa magistrorum copia praestantissimis hominum ingeniis infinita causarum varietate amplissimis eloquentiae propositis praemiis esse causae putet nisi rei quandam incredibilem magnitudinem ac difficultatem? est enim et scientia comprendenda rerum plurimarum sine qua verborum volubilitas inanis atque inridenda est et ipsa oratio conformanda non solum electione sed etiam constructione verborum et omnes animorum motus quos hominum generi rerum natura tribuit penitus pernoscendi, quod omnis vis ratioque dicendi in eorum qui audiunt mentibus aut sedandis aut excitandis expromenda est. accedat eodem oportet lepos quidam facetiaeque et eruditio libero digna celeritasque et brevitas et respondendi et lacessendi subtili venustate atque urbanitate coniuncta. tenenda praeterea est omnis antiquitas exemplorumque vis neque legum aut iuris civilis scientia neglegenda est. nam quid ego de actione ipsa plura dicam quae motu corporis, quae gestu, quae vultu, quae vocis conformatione ac varietate moderanda est? quae sola per se ipsa quanta sit histrionum levis ars et scaena declarat in qua cum omnes in oris et vocis et motus moderatione elaborent, quis ignorat quam pauci sint fuerintque quos animo aequo spectare possimus? quid dicam de thesauro rerum omnium memoria? quae nisi custos inventis cogitatisque rebus et verbis adhibeatur, intellegimus omnia, etiam si praeclarissima fuerint in oratore, peritura. quam ob rem mirari desinamus quae causa sit eloquentium paucitatis, cum ex illis rebus universis eloquentia constet quibus in singulis elaborare permagnum est, hortemurque potius liberos nostros ceterosque quorum gloria nobis et dignitas cara est, ut animo rei magnitudinem complectantur neque eis aut praeceptis aut magistris aut exercitationibus quibus utuntur omnes, sed aliis quibusdam se id quod expetunt consequi posse confidant. ac mea quidem sententia nemo poterit esse omni laude cumulatus orator, nisi erit omnium rerum magnarum atque artium scientiam consecutus. etenim ex rerum cognitione efflorescat et redundet oportet oratio; quae nisi subest res ab oratore percepta et cognita, inanem quamdam habet elocutionem et paene puerilem.
 

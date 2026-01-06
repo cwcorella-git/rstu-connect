@@ -1,3 +1,8 @@
+---
+title: "**Universal Declaration of Human Rights | United Nations**"
+category: "contemporary-analysis"
+---
+
 [un.org](https://www.un.org/en/about-us/universal-declaration-of-human-rights)
 
 # **Universal Declaration of Human Rights | United Nations**

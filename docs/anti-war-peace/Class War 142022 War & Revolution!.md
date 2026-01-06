@@ -1,3 +1,8 @@
+---
+title: "## **Class War 14/2022: War & Revolution!?**"
+category: "anti-war-peace"
+---
+
 ## **Class War 14/2022: War & Revolution!?**
 
 ## **Date:** Unknown

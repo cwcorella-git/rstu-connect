@@ -1,30 +1,8 @@
 ---
-title: Rebel Without A God
-author: David Graeber
-date: 'December 27, 1998'
-language: en
-source_url: >-
-  Retrieved on 3<sup>rd</sup> September 2020 from
-  https://penseenoir.wordpress.com/2008/11/26/rebel-without-a-god-the-anti-authoritarian-attributes-of-buffy-the-vampire-slayer/
-notes: First appeared in an issue of In These Times.
-topics:
-  - anti-authoritarianism
-  - Buffy the Vampire Slayer
-  - review
-  - atheism
-  - religion
-  - culture
-  - In These Times
-original_format: muse
-converted_date: '2025-11-08T11:25:03.194888'
-tags:
-  - Anti Authoritarianism
-  - Buffy The Vampire Slayer
-  - Review
-  - Atheism
-  - Religion
-  - Culture
-  - In These Times
+title: "Rebel Without A God"
+author: "David Graeber"
+date: "December 27, 1998"
+category: "contemporary-analysis"
 ---
 
 Some years ago, an anarchist calling himself E.G. Eccarius wrote a novel, The Last Days of Jesus Christ, Vampire. Admittedly Buffy the Vampire Slayer, TV cult sensation, does not aspire to quite this level of subversiveness. But there are times when it comes close. It’s also quite possibly the best show on television.

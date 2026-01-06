@@ -1,3 +1,8 @@
+---
+title: "[Thermal energy storage](https://en.wikipedia.org/wiki/Main_Page)"
+category: "environmental-justice"
+---
+
 ## ![](_page_0_Picture_2.jpeg)
 
 # [Thermal energy storage](https://en.wikipedia.org/wiki/Main_Page)
@@ -177,8 +182,17 @@ Heat energy can be added to or removed from a GHEX at any point in time. However
 | Type | Energy |
 |-------------------|-------------------------------------------------------------------------------------------------------------------|
 | Working principle | Thermodynamics |
-| Invented | Heat pumps, as<br>used by the<br>GHEX depicted<br>above, were<br>invented in the<br>1940s by Robert<br>C. Webber. |
-| First production | Heat pumps<br>were first<br>produced in the<br>1970s. |
+| Invented | Heat pumps, as
+used by the
+GHEX depicted
+above, were
+invented in the
+1940s by Robert
+C. Webber. |
+| First production | Heat pumps
+were first
+produced in the
+1970s. |
 
 modelling of the building served. A thermal battery used in this mode is a [renewable energy](https://en.wikipedia.org/wiki/Renewable_energy) source as the energy extracted in the winter will be restored to the GHEX the next summer in a continually repeating cycle. This type is solar powered because it is the heat from the sun in the summer that is removed from a building and stored in the ground for use in the next winter season for heating. There are two main methods of Thermal Response Testing that are used to characterize the [thermal conductivity](https://en.wikipedia.org/wiki/Thermal_conductivity) and Thermal Capacity/Diffusivity of GHEX Thermal Batteries— Log-Time 1-Dimensional Curve Fit[\[49\]](https://en.wikipedia.org/wiki/Thermal_energy_storage#cite_note-49) and newly released Advanced Thermal Response Testing[.\[50\]](https://en.wikipedia.org/wiki/Thermal_energy_storage#cite_note-50)[\[51\]](https://en.wikipedia.org/wiki/Thermal_energy_storage#cite_note-51)
 
@@ -326,7 +340,7 @@ Another proposed system uses [turbomachinery](https://en.wikipedia.org/wiki/Turb
 ## External links
 
 - [ASHRAE](https://en.wikipedia.org/wiki/ASHRAE) [white paper \(https://web.archive.org/web/20050818190039/http://pwi-energy.com/main/whitepapers/tsd](https://web.archive.org/web/20050818190039/http://pwi-energy.com/main/whitepapers/tsdereg.htm) [ereg.htm\)](https://web.archive.org/web/20050818190039/http://pwi-energy.com/main/whitepapers/tsdereg.htm) on the economies of load shifting
-- [MSN article on Ice Storage Air Conditioning \(https://archive.today/20130119140153/http://msn-cnet.com.com/Ice](https://archive.today/20130119140153/http://msn-cnet.com.com/Ice-powered+air+conditioner+could+cut+costs/2100-1008_3-6101045.html?part=msn-cnet&subj-ns_3-6101045&tag=msn_home>1=8486)[powered+air+conditioner+could+cut+costs/2100-1008\\_3-6101045.html?part=msn-cnet&subj-ns\\_3-6101045&ta](https://archive.today/20130119140153/http://msn-cnet.com.com/Ice-powered+air+conditioner+could+cut+costs/2100-1008_3-6101045.html?part=msn-cnet&subj-ns_3-6101045&tag=msn_home>1=8486) [g=msn\\_home&GT1=8486\)](https://archive.today/20130119140153/http://msn-cnet.com.com/Ice-powered+air+conditioner+could+cut+costs/2100-1008_3-6101045.html?part=msn-cnet&subj-ns_3-6101045&tag=msn_home>1=8486) at [archive.today](https://en.wikipedia.org/wiki/Archive.today) (archived 19 January 2013)
+- [MSN article on Ice Storage Air Conditioning \(https://archive.today/20130119140153/http://msn-cnet.com.com/Ice](https://archive.today/20130119140153/http://msn-cnet.com.com/Ice-powered+air+conditioner+could+cut+costs/2100-1008_3-6101045.html?part=msn-cnet&subj-ns_3-6101045&tag=msn_home>1=8486)[powered+air+conditioner+could+cut+costs/2100-1008\\_3-6101045.html?part=msn-cnet&subj-ns\\_3-6101045&ta](https://archive.today/20130119140153/http://msn-cnet.com.com/Ice-powered+air+conditioner+could+cut+costs/2100-1008_3-6101045.html?part=msn-cnet&subj-ns_3-6101045&tag=msn_home>1=8486) [g=msn\\_home>1=8486\)](https://archive.today/20130119140153/http://msn-cnet.com.com/Ice-powered+air+conditioner+could+cut+costs/2100-1008_3-6101045.html?part=msn-cnet&subj-ns_3-6101045&tag=msn_home>1=8486) at [archive.today](https://en.wikipedia.org/wiki/Archive.today) (archived 19 January 2013)
 - [ICE TES Thermal Energy Storage IDE-Tech \(https://web.archive.org/web/20110914173645/http://www.ide-therm](https://web.archive.org/web/20110914173645/http://www.ide-thermalenergystorage.com/?page_id=12) [alenergystorage.com/?page\\_id=12\)](https://web.archive.org/web/20110914173645/http://www.ide-thermalenergystorage.com/?page_id=12)
 - [Laramie, Wyoming \(http://thermalbatterysystems.com/featured-systems/laramie-wyoming-thermal-battery-syste](http://thermalbatterysystems.com/featured-systems/laramie-wyoming-thermal-battery-system-example/#. U8Whdo1d Xx8) [m-example/#. U8Whdo1d Xx8\)](http://thermalbatterysystems.com/featured-systems/laramie-wyoming-thermal-battery-system-example/#. U8Whdo1d Xx8)
 - "Prepared for the Thermal Energy-Storage Systems Collaborative of the California Energy Commission" Report titled "Source Energy and Environmental Impacts of Thermal Energy Storage." Tabors Caramanis & Assoc [energy.ca.gov \(http://www.energy.ca.gov/reports/500-95-005\\_TES-REPORT. PDF\)](http://www.energy.ca.gov/reports/500-95-005_TES-REPORT. PDF) [Archived \(https://web.archive.org/](https://web.archive.org/web/20140823211838/http://www.energy.ca.gov/reports/500-95-005_TES-REPORT. PDF) [web/20140823211838/http://www.energy.ca.gov/reports/500-95-005\\_TES-REPORT. PDF\)](https://web.archive.org/web/20140823211838/http://www.energy.ca.gov/reports/500-95-005_TES-REPORT. PDF) 23 August 2014 at the [Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine)

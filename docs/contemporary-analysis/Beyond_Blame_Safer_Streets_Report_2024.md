@@ -1,3 +1,8 @@
+---
+title: "**Beyond Blame:**"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 # **Beyond Blame:**
@@ -67,7 +72,7 @@ Any transportation corridor where the design facilitates automobile speeds excee
 
 Any location featuring elements of a complex human environment, such as crosswalks, bike lanes, public transit or multiple land uses — homes, businesses, parks, etc. — is considered an urban area.
 
-#### <sup>1</sup> DEFINITION
+#### 1 DEFINITION
 
 #### 85th Percentile Speed:
 
@@ -79,7 +84,10 @@ The most frequently cited contributing factor in our analysis was the presence o
 
 Of these 16 crashes on high-speed roadways, 14 occurred where the posted speed limit was 30 mph or greater. All 16 occurred where the 85th percentile speed was greater than the posted speed limit.
 
-| CRASH STUDIO SESSION | POSTED SPEED<br>LIMIT | MEASURED 85TH<br>PERCENTILE SPEED (1) | VARIATION FROM THE<br>POSTED SPEED LIMIT |
+| CRASH STUDIO SESSION | POSTED SPEED
+LIMIT | MEASURED 85TH
+PERCENTILE SPEED (1) | VARIATION FROM THE
+POSTED SPEED LIMIT |
 |-----------------------|-----------------------|---------------------------------------|------------------------------------------|
 | Hyattsville, Md. | 30 mph | 39 mph | +30% |
 | Richmond, Va. | 25 mph | 32 mph | +28% |
@@ -350,7 +358,14 @@ The Strong Towns Crash Analysis Studio is a tool for local leaders, both inside 
 
 ## ![](_page_15_Figure_0.jpeg)
 
-| CRASH STUDIO SESSION | HIGH-SPEED ROAD<br>DESIGN IN URBAN<br>AREAS | DESIGN THAT INADEQUATELY ACCOUNTS FOR PEOPLE WALKING AND BIKING | DANGEROUS<br>INTERSECTION<br>DESIGN | VISIBILITY AND<br>LIGHTING ISSUES | DEVIATION FROM<br>THE DESIGNER'S<br>INTENT |
+| CRASH STUDIO SESSION | HIGH-SPEED ROAD
+DESIGN IN URBAN
+AREAS | DESIGN THAT INADEQUATELY ACCOUNTS FOR PEOPLE WALKING AND BIKING | DANGEROUS
+INTERSECTION
+DESIGN | VISIBILITY AND
+LIGHTING ISSUES | DEVIATION FROM
+THE DESIGNER'S
+INTENT |
 |-----------------------|---------------------------------------------|-----------------------------------------------------------------|-------------------------------------|-----------------------------------|--------------------------------------------|
 | Indianapolis, In. | $\odot$ | $\bigcirc$ | $\odot$ | $\odot$ | $\bigcirc$ |
 | Hyattsville, Md. | $\bigcirc$ | $\odot$ | $\odot$ | | |
@@ -501,4 +516,4 @@ If you want to bring Strong Towns to your community to speak about the Crash Ana
 
 844-218-1681 1001 Kingwood Street Studio 116 Brainerd, MN 56401
 
-<sup>&</sup>quot;Beyond Blame: How Cities Can Learn From Crashes To Create Safer Streets Today" was published by Strong Towns in October 2024.
+&quot;Beyond Blame: How Cities Can Learn From Crashes To Create Safer Streets Today" was published by Strong Towns in October 2024.

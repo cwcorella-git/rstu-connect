@@ -1,3 +1,8 @@
+---
+title: "bell hooks"
+category: "contemporary-analysis"
+---
+
 ### NATIONAL BESTSELLER
 
 ### all about love NEW VISIONS

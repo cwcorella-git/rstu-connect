@@ -1,3 +1,8 @@
+---
+title: "## [designboom.com](https://www.designboom.com/architecture/house-hayashisaki-akio-isshiki-architect"
+category: "contemporary-analysis"
+---
+
 ## [designboom.com](https://www.designboom.com/architecture/house-hayashisaki-akio-isshiki-architects-matsue-beach-japan-06-20-2023/)
 
 ## akio isshiki's house evokes tropical design on japan's hayashisaki matsue beach

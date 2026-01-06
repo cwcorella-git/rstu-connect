@@ -1,3 +1,8 @@
+---
+title: "James Herod"
+category: "contemporary-analysis"
+---
+
 # James Herod
 
 # Money: An Introductory Bibliography
@@ -32,11 +37,11 @@ Hutchinson, Francis, Mary Mellor, and Wendy Olsen, The Politics of Money: Toward
 
 Smithin, John, editor. What Is Money? New York: Routledge, 2000, 276 pages. This is a collection of essays which explores various theories of money.
 
-Arthus, Christopher. "The Concept of Money," Radical Philosophy, No. 134, Nov/Dec 2005. Abstract online at: [<http://www.radicalphilosophy.com/print.asp?editorial\\_id=19782>](http://www.radicalphilosophy.com/print.asp?editorial_id=19782)
+Arthus, Christopher. "The Concept of Money," Radical Philosophy, No. 134, Nov/Dec 2005. Abstract online at: [](http://www.radicalphilosophy.com/print.asp?editorial_id=19782)
 
 Hess, Moses. "The Essence of Money," [1845], online at:
 
-[<http://www2.cddc.vt.edu/marxists/archive/hess/1845/essence-money.htm>](http://www2.cddc.vt.edu/marxists/archive/hess/1845/essence-money.htm).
+[](http://www2.cddc.vt.edu/marxists/archive/hess/1845/essence-money.htm).
 
 Simmel, Georg. The Philosophy of Money [1907]. London: Routledge & Kegal Paul, 1978, 512 pages.
 

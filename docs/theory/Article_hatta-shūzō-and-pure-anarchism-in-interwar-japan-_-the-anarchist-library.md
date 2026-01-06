@@ -1,13 +1,8 @@
 ---
-title: Hatta Shūzō and Pure Anarchism in Interwar Japan the Anarchist Library
-date: 2025
-author: John Crump
-tags:
-  - organizing
-  - strikes
-  - unions
-  - tenants
-  - rent
+title: "Hatta Shūzō and Pure Anarchism in Interwar Japan the Anarchist Library"
+author: "John Crump"
+date: "2025"
+category: "theory"
 ---
 
 # Hatta Shūzō and Pure Anarchism in Interwar Japan the Anarchist Library
@@ -9127,7 +9122,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## collectivist system. Instead it should be a movement for
                 constructing a libertarian federation system of decentralised
 ## local production. And Kokushoku Seinen was the one which
-## devoted the most energy to this.’ (<em>Nihon Museifushugi
+## devoted the most energy to this.’ (Nihon Museifushugi
 
 284 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 Undō Shi</em [1970], p. 55.)

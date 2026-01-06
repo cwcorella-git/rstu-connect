@@ -1,3 +1,8 @@
+---
+title: "## **Saskatchewan workers in solidarity with Standing Rock**"
+category: "environmental-justice"
+---
+
 ## **Saskatchewan workers in solidarity with Standing Rock**
 
 ## **Date:** Mon, 12/05/2016 - 21:10

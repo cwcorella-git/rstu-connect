@@ -1,3 +1,8 @@
+---
+title: "## **Serious Game Design Document Outline**"
+category: "contemporary-analysis"
+---
+
 ## **Serious Game Design Document Outline**
 
 A game design document is the blueprint from which a game is to be built. As such, every single detail necessary to build the game should be addressed. The larger the team and the longer the design and development cycle, the more critical is the need. For your purpose, the intent is to capture as much as possible of your design. I want you to think big...bigger than what you are able to develop. I also want you to be clear about what the software delivers and what the design entails. Use this document to define the ultimate game, but be clear about what you have delivered.

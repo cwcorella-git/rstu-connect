@@ -1,16 +1,10 @@
 ---
-title: An Open Letter To The Labor Movement Stand In Solidarity With Nodapl
-author: Dakota Access
-slug: An Open Letter to the Labor Movement Stand in Solidarity With
-reconversion_status: ready_for_reconversion
-date: 2016
-tags:
-  - theory
-  - anarchism
-  - unions
-  - rent
-  - labor
+title: "An Open Letter To The Labor Movement Stand In Solidarity With Nodapl"
+author: "Dakota Access"
+date: "2016"
+category: "theory"
 ---
+
 ## **An Open Letter to the Labor Movement: Stand in Solidarity With #NoDAPL**
 
 | Date: Fri, 09/02/2016 - 15:36 |
@@ -19,11 +13,13 @@ tags:
 | Tags: NoDAPL, green unionism, indigenous, just transition |
 | September 4, 2016 |
 | Editor's Note: |
-| This appeal has been updated to address the attack on the demonstrators were attacked by<br>private security led dogs. |
+| This appeal has been updated to address the attack on the demonstrators were attacked by
+private security led dogs. |
 | Fellow Workers: |
 | If you've not read or seen the news about the |
 | Dakota Access Pipeline |
-| , and the vast and growing opposition to it (#NoDAPL) by now, you've not been paying<br>attention. |
+| , and the vast and growing opposition to it (#NoDAPL) by now, you've not been paying
+attention. |
 | According to |
 | One Account |
 ## | , |
@@ -156,7 +152,8 @@ since this appeal was first published, the following unions have taken a stand i
 | - October 10, 2016 |
 | UConn Graduate Employee Union, UAW Local 6950 |
 | - October 10, 2016 |
-| (This may not be a complete list, but we will endeavor to correct any oversights as we find<br>them. If you know of additional unions who have joined this list, please contact us at |
+| (This may not be a complete list, but we will endeavor to correct any oversights as we find
+them. If you know of additional unions who have joined this list, please contact us at |
 | euc@iww.org |
 | .) |
 | Signed: |
@@ -295,7 +292,8 @@ Todd Vachon, President, UAW Local 6950, Storrs, Connecticut, US
 | Jerry Peace, Florence, South Carolina, US |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | F. S. Hussain, UAW Local 6950, Storrs, Connecticut, US |
-| Michael Ellis, International Association of Machinists and Aerospace Workers Indiana Local<br>2410 (former), Madison, Indiana, US |
+| Michael Ellis, International Association of Machinists and Aerospace Workers Indiana Local
+2410 (former), Madison, Indiana, US |
 | Laurie Mc Lemore, NALC, US |
 | Organizational Endorsements |
 | San Francisco Peace and Freedom Party County Central Committee |
@@ -305,4 +303,5 @@ Todd Vachon, President, UAW Local 6950, Storrs, Connecticut, US
 | this online petition |
 | , which you should also sign. |
 | Disclaimer: |
-| The views expressed here are not the official position of the IWW (or even the IWW's EUC)<br>and do not necessarily represent the views of anyone but the author's. |
+| The views expressed here are not the official position of the IWW (or even the IWW's EUC)
+and do not necessarily represent the views of anyone but the author's. |

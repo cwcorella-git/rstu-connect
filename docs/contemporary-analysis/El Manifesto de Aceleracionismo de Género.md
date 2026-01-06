@@ -1,3 +1,8 @@
+---
+title: "**El Manifesto de Aceleracionismo de Género**"
+category: "contemporary-analysis"
+---
+
 # **El Manifesto de Aceleracionismo de Género**
 
 ## **Date:** Unknown

@@ -1,13 +1,8 @@
 ---
-title: Boston Police Strike Wikipedia
-date: 2025
-author: Wikipedia
-tags:
-  - organizing
-  - strikes
-  - unions
-  - rent
-  - police
+title: "Boston Police Strike Wikipedia"
+author: "Wikipedia"
+date: "2025"
+category: "labor"
 ---
 
 # Boston Police Strike Wikipedia

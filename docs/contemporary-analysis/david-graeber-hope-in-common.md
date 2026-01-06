@@ -1,23 +1,8 @@
 ---
-title: Hope in Common
-author: David Graeber
-date: '2008'
-pubdate: '2009-05-16 22:58:24 +0200'
-language: en
-source_url: >-
-  Retrieved on May 16<sup>th</sup>, 2009 from
-  [[http://slash.autonomedia.org/node/11569][slash.autonomedia.org]]
-notes: >-
-  This also appeared in “Adbusters”, #82, volume 17, number 2. March/April 2009.
-  Under the title of “Tactical Briefing”
-topics:
-  - anti-globalization
-  - economics
-original_format: muse
-converted_date: '2025-11-08T11:25:03.138338'
-tags:
-  - Anti Globalization
-  - Economics
+title: "Hope in Common"
+author: "David Graeber"
+date: "2008"
+category: "contemporary-analysis"
 ---
 
 We seem to have reached an impasse. Capitalism as we know it appears to be coming apart. But as financial institutions stagger and crumble, there is no obvious alternative. Organized resistance appears scattered and incoherent; the global justice movement a shadow of its former self. There is good reason to believe that, in a generation or so, capitalism will no longer exist: for the simple reason that it’s impossible to maintain an engine of perpetual growth forever on a finite planet. Faced with the prospect, the knee-jerk reaction — even of “progressives” — is, often, fear, to cling to capitalism because they simply can’t imagine an alternative that wouldn’t be even worse.

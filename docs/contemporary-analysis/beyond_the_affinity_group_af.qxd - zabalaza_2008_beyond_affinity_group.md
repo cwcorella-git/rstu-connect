@@ -1,3 +1,8 @@
+---
+title: "**Beyond the Affinity Group**"
+category: "contemporary-analysis"
+---
+
 **This collection of three articles examines the how and why of anarchist organisation. The first is a look at the success of the network form of organisation and why it came to the fore in the current period. It then looks at the limitations of that form or organisation. The second article looks at the organisational practise of the first anarchists and in particular Michael Bakunin and re-examines the different levels of organisation he advocated in the light of the needs of anarchists today. The final article asks why anarchist organisations mostly failed to grow following the collapse of the left and identifies why large-scale anarchist organisations are essential if we are to ever overthrow capitalism.**
 
 ## ![](_page_0_Picture_1.jpeg)
@@ -22,10 +27,13 @@
 
 ### **Contents:**
 
-| M | The Origins and Limitations of the Network Form of<br>Organisation for Anarchists Page 3 | |
+| M | The Origins and Limitations of the Network Form of
+Organisation for Anarchists Page 3 | |
 |---|-------------------------------------------------------------------------------------------------------|--|
-| M | Michael Bakunin - Biography and Contribution<br>to Models of Anarchist Organisation Page 8 | |
-| M | Building the Anti-Capitalist Movement - Organisational<br>Choices for Anarchists and the Left Page 19 | |
+| M | Michael Bakunin - Biography and Contribution
+to Models of Anarchist Organisation Page 8 | |
+| M | Building the Anti-Capitalist Movement - Organisational
+Choices for Anarchists and the Left Page 19 | |
 
 ### **Andrew Flood** M **Page 35**
 
@@ -151,6 +159,6 @@ From the late 19th century, anarchists have advocated a number of forms of organ
 
 What is needed is that committed anarchists also organise in anarchist political organisations that seek to provide the continuity, theoretical depth and tactical unity that networks, because of their advantages, lack. The main goal of networks is to organise lots and lots of people around a limited project (e.g. a single day's protest). Trying to develop any agreed theoretical depth in such a project would just limit the number of people who can be involved.
 
-"class traitors" (readers will be aware of how Leninist groups relate to each other).**<sup>22</sup>** A third difference is that members would be free to carry on whatever activity they were interested in providing it did not contradict the agreed policy of their organisation, rather than having their political activity monopolised by the party leadership.
+"class traitors" (readers will be aware of how Leninist groups relate to each other).**22** A third difference is that members would be free to carry on whatever activity they were interested in providing it did not contradict the agreed policy of their organisation, rather than having their political activity monopolised by the party leadership.
 
 Many of the readers of this article may find themselves agreeing with the sort of organisational structure and principles it outlines. But this is not written merely as a set of ideas to be thought about and then laid aside. If you agree with the core ideas presented here then you have a responsibility to start to put these into action by searching out others who also agree and taking the first steps in building such organisation(s). It is my experience that many of the anarchists I have met are completely selfless when it comes to putting themselves in exposed physical positions in the struggles of our class, it is time to put the same sort of energy into building anarchist organisations that can re-define the traditions of working class struggle and prepare for a successful revolution.

@@ -1,3 +1,8 @@
+---
+title: "GAIA'S GARDEN"
+category: "arts-culture-music"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 ## ![](_page_0_Picture_1.jpeg)
@@ -838,7 +843,8 @@ Some designers begin with visioning, and that's fine. In truth, the observation 
 
 ### Table 3-1. What to Observe—a Designer's Checklist
 
-| ☐ History of the land: neighbors' knowledge, library and public records, historical society, maps, photos, backyard | Points of sunrise and sunset and their change over the<br>seasons |
+| ☐ History of the land: neighbors' knowledge, library and public records, historical society, maps, photos, backyard | Points of sunrise and sunset and their change over the
+seasons |
 |---------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
 | archaeology (dig test pits) | ☐ Topography, slope, and aspect |
 | ☐ Homeowners association and government activities: | ☐ Rock outcrops, boulders, gravel |
@@ -984,13 +990,64 @@ Zones help us organize the elements and the energy flows of our property in the 
 
 Table 3-3. The Zone System: Functions and Contents
 
-| | Functions | Structures | Crops | Garden<br>Techniques | Water Sources | Animals |
+| | Functions | Structures | Crops | Garden
+Techniques | Water Sources | Animals |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------|
-| Zone t Most<br>intensive use and<br>care. Zone of self-<br>reliance | Modify house<br>microclimate,<br>provide daily<br>food and flowers,<br>social space, plant<br>propagation | Greenhouse, trellis,<br>arbor, deck, patio,<br>bird bath, storage,<br>potting shed,<br>workshop, worm bin | Salad greens,<br>herbs, flowers,<br>dwarf trees, low<br>shrubs, lawn, trees<br>for microclimate | Intensive weeding<br>and mulching,<br>dense stacking,<br>square-foot and<br>biointensive<br>beds, espalier,<br>propagation | Rain barrels,<br>small ponds,<br>graywater,<br>household tap | Rabbits, guinea<br>pigs, small<br>poultry, worms |
-| Zone 2: Semi- intensely cultivated. Domestic production zone Domestic production | | Weekly weeding<br>and care, Spot<br>mulch, cover<br>crops, seasonal<br>pruning | Well, pond, large<br>tanks, greywater,<br>irrigation, swales | Rabbits, fish,<br>poultry | | |
-| | | Cover crops,<br>coppicing, light<br>pruning, moveable<br>fences | Large ponds,<br>swales, storage<br>in soil | Goats, pigs,<br>cows, horses,<br>sheep, other<br>large animals,<br>free-range<br>poultry | | |
-| Zone 4: Minimal care. Forage zone gathering, grazing gathering, grazing gathering, grazing gathering, grazing gathering, grazing gathering, grazing gathering, grazing gathering, grazing gathering, grazing gathering, grazing gathering, grazing grazing gathering, grazing grazing gathering, grazing grazing gathering, grazing gathering, grazing gathering, grazing grazing gathering, grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing g | | | Pasturing and selective forestry | Ponds, swales,<br>creeks | Grazing animals | |
-| Zone 5: Unmanaged.<br>Wilderness zone | Inspiration,<br>foraging,<br>meditation | None | Native plants,<br>mushrooms | Unmanaged,<br>occasional<br>wildcrafting | Lakes, creeks | Native animals |
+| Zone t Most
+intensive use and
+care. Zone of selfreliance | Modify house
+microclimate,
+provide daily
+food and flowers,
+social space, plant
+propagation | Greenhouse, trellis,
+arbor, deck, patio,
+bird bath, storage,
+potting shed,
+workshop, worm bin | Salad greens,
+herbs, flowers,
+dwarf trees, low
+shrubs, lawn, trees
+for microclimate | Intensive weeding
+and mulching,
+dense stacking,
+square-foot and
+biointensive
+beds, espalier,
+propagation | Rain barrels,
+small ponds,
+graywater,
+household tap | Rabbits, guinea
+pigs, small
+poultry, worms |
+| Zone 2: Semi- intensely cultivated. Domestic production zone Domestic production | | Weekly weeding
+and care, Spot
+mulch, cover
+crops, seasonal
+pruning | Well, pond, large
+tanks, greywater,
+irrigation, swales | Rabbits, fish,
+poultry | | |
+| | | Cover crops,
+coppicing, light
+pruning, moveable
+fences | Large ponds,
+swales, storage
+in soil | Goats, pigs,
+cows, horses,
+sheep, other
+large animals,
+free-range
+poultry | | |
+| Zone 4: Minimal care. Forage zone gathering, grazing gathering, grazing gathering, grazing gathering, grazing gathering, grazing gathering, grazing gathering, grazing gathering, grazing gathering, grazing gathering, grazing gathering, grazing grazing gathering, grazing grazing gathering, grazing grazing gathering, grazing gathering, grazing gathering, grazing grazing gathering, grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing grazing g | | | Pasturing and selective forestry | Ponds, swales,
+creeks | Grazing animals | |
+| Zone 5: Unmanaged.
+Wilderness zone | Inspiration,
+foraging,
+meditation | None | Native plants,
+mushrooms | Unmanaged,
+occasional
+wildcrafting | Lakes, creeks | Native animals |
 
 Look what's happening here. The edges of the house are beginning to blur a bit. Where does the building end and the garden begin? Ordering our landscape by use and not by shape or size fuzzes some of the old categories. Those espaliered dwarf pears against the fence—is that the orchard, the hedge, or, after the wood posts rot, perhaps the fence itself?
 
@@ -1456,7 +1513,8 @@ Dozens of cover crops exist. How do you choose the best ones? As in so much of e
 
 Table 4-2. Cover Crops Annual Cool Weather Cover Crops These crops are planted in the late summer or fall, and are mowed or tilled in in the spring, while they are flowering and before they set seed (the time of maximum root growth, nitrogen content, and biomass). Most are hardy to 0 to 20° F.
 
-| Common Name | Botanical Name | N-fixer | Soil preference | Tolerates<br>poor soil | Height | Insectary | Comments |
+| Common Name | Botanical Name | N-fixer | Soil preference | Tolerates
+poor soil | Height | Insectary | Comments |
 |----------------------|-------------------------------|---------|-----------------|------------------------|--------|-----------|--------------------------|
 | Austrian winter pea | Pisum arvense | | Heavy | | 2 ft | | hardy to 0° |
 | Barley | Hordeum vulgare | | Loam | | 2-4 ft | | mild winters only |
@@ -1465,13 +1523,14 @@ Table 4-2. Cover Crops Annual Cool Weather Cover Crops These crops are planted i
 | Clover, alsike | Trifolium hybridum | | Heavy | | 2 ft | | can take acid soils |
 | Clover, berseem | Trifolium alexandrinum | | Many | | 2 ft | | hardy to 18" |
 | Clover, crimson | Trifolium incarnatum | | Loam | | 18 in | | hardy to 10° |
-| Clover, red Kenland | Trifolium pratense | • | Loam | | 2 ft | | short-lived<br>perennial |
+| Clover, red Kenland | Trifolium pratense | • | Loam | | 2 ft | | short-lived
+perennial |
 | Clover, sweet white | Melilotus alba | | Heavy | | 3-6 ft | | |
 | Clover, sweet yellow | Melilotus officinalis | • | Loam | | 3-6 ft | | drought tolerant |
 | Cover, nitro Persian | Trifolium resupinatum | | Many | 1360 | 2 ft | | hardy to 15° |
 | Fava bean | Vicia fava | | Many | | 4-8 ft | | hardy to 15" |
 | Fescue, zorro | Vulpia myuros | | Many | | 2 ft | | mix with legumes |
-| Foenugreek | Trigonella foenum-<br>graecum | • | Many | | 2 ft | • | opens heavy soil |
+| Foenugreek | Trigonella foenumgraecum | • | Many | | 2 ft | • | opens heavy soil |
 | Garbanzo bean | Cicer arientinum | | Many | | 3-5 ft | | slow in cold soils |
 | Mustard | Brassica spp. | | Heavy | | 2-4 ft | | opens heavy soil |
 | Oats | Avena sativa | | Many | | 2-4 ft | | mild winters only |
@@ -1488,7 +1547,8 @@ The first decision to make in choosing cover crops is between annual and perenni
 
 Annual Warm Weather Cover Crops These crops are planted in spring or summer, and are tilled or mowed before they set seed. With ample water and warmth, they can create enormous quantities of biomass.
 
-| Common Name | Botanical Name | N-fixer | Soil preference | Tolerates<br>poor soil | Height | Insectary | Comments |
+| Common Name | Botanical Name | N-fixer | Soil preference | Tolerates
+poor soil | Height | Insectary | Comments |
 |-----------------|----------------------|---------|-----------------|------------------------|---------|-----------|--------------------------|
 | Black-eyed peas | Vigna unguiculata | • | Many | | 3-4 ft | | chokes weeds |
 | Buckwheat | Fagopyrum esculentum | | Loam | | 1-3 ft | | chokes weeds |
@@ -1496,13 +1556,14 @@ Annual Warm Weather Cover Crops These crops are planted in spring or summer, and
 | Lablab | Lablab purpureus | | Many | | 5-10 ft | | drought resistant |
 | Pinto beans | Phaseolus vulgaris | | Loam | | 2-4 ft | | drought resistant |
 | Sesbania | Sesbania macrocarpa | | Many | | 6-8 ft | | drought resistant |
-| Soybeans | Glycine max | • | Many | | 2-4 ft | | mix with non-<br>legumes |
+| Soybeans | Glycine max | • | Many | | 2-4 ft | | mix with nonlegumes |
 | Sudan grass | Sorghum bicolor | | Many | | 6-8 ft | | mix with legumes |
 | Sunn Hemp | Crotolaria juncea | | Loam | | 3-6 ft | | tolerates acid soil |
 
 Perennial Cover Crops These are excellent for no-till gardens, and can be mowed to generate mulch and compost. Some of the shorter varieties, such as white Dutch clover, can be used as a living mulch, interplanted with other crops.
 
-| Common Name | Botanical Name | N-fixer | Soil preference | Tolerates<br>poor soil | Height | Insectary | Comments |
+| Common Name | Botanical Name | N-fixer | Soil preference | Tolerates
+poor soil | Height | Insectary | Comments |
 |------------------------------|----------------------|---------|-----------------|------------------------|---------|-----------|-------------------|
 | Alfalfa | Medicago sativa | | Loam | | 2-3 ft | | well-limed soil |
 | Birdsfoot trefoil | Lotus comiculatus | | Many | | 3-5 ft | | drought resistant |
@@ -1510,7 +1571,8 @@ Perennial Cover Crops These are excellent for no-till gardens, and can be mowed 
 | Clover, strawberry | Trifolium fragiferum | | Many | | 1ft | | needs moisture |
 | Clover, white Dutch | Trifolium repens | | Many | | 6-10 in | | needs moisture |
 | Clover, white Ladino | Trifolium repens | | Many | | 1ft | | needs moisture |
-| Clover, white New<br>Zealand | Trifolium repens | | Many | | 1ft | | needs moisture |
+| Clover, white New
+Zealand | Trifolium repens | | Many | | 1ft | | needs moisture |
 | Fescue, creeping red | Festuca rubra | | Many | | 2-3 ft | | |
 | Orchardgrass | Dactylis glomerata | | Many | | 1-2 ft | | |
 | Ryegrass, perennial | Lolium perenne | | Heavy | | 2-3 ft | | |
@@ -1912,7 +1974,10 @@ The water depth is controlled by a water-level box such as that shown in the dia
 | Cattail | Typha spp. | wildlife value, dwarf varieties available |
 | Soft rush | Juncus effusus | fiber plant |
 | Reed canary grass | Phragmites communis | on some "invasive" species lists, accumulator |
-| Additional Wetland Plants<br>These species can make up 20<br>species here can survive winte<br>Arrowhead | | nower and laundry water is entering the wetland, even the less-hardy ornamental |
+| Additional Wetland Plants
+These species can make up 20
+species here can survive winte
+Arrowhead | | nower and laundry water is entering the wetland, even the less-hardy ornamental |
 | Chokeberry | Aronia spp. | wildlife value |
 | Comfrey | Symphytum officinale | mulch, insectary |
 | Cranberry | Vaccinium macrocarpon | wildlife value, foliage |
@@ -2171,7 +2236,7 @@ A warning: Many of the species that accumulate metals such as copper and zinc al
 | Apple | Malus spp. | | | х | | | | | | | | | П |
 | Beech | Fagus spp. | | | X | | | | | | | | | |
 | Alyssum | Alyssum murale | | | | . * | | | x | | | | × | |
-| Bentgrass | Agrostis spp. | | | | | X. | | ( <b>X</b> ) | | ж | | (X) | |
+| Bentgrass | Agrostis spp. | | | | | X. | | ( X ) | | ж | | (X) | |
 | Birch | Betula spp. | | × | | | | | | | | | | |
 | Borage | Borago officinalis | | | ı | | | | | | | | | 2 |
 | Bracken, eastern | Pteridium aquifolium | | × | x | | | | -X- | Х. | х | ж | X: | |
@@ -2556,7 +2621,8 @@ Table 6-5. Nurse Plants All of these plants are fast growing and can take harsh 
 | Hackberry | Celtis occidentalis | Drought-tolerant shrub |
 | Hawthorn | Crataegus spp. | Hardy small tree |
 | Hebe | Hebe salicifolia | Fast-growing shrub |
-| Hybrid broom | Cytisus × spachianus | N-fixer. Hybrids do not<br>spread, unlike non-hybrids |
+| Hybrid broom | Cytisus × spachianus | N-fixer. Hybrids do not
+spread, unlike non-hybrids |
 | Mesquite | Prosopis spp. | N-fixing, drought-tolerant tree |
 | Mulberry | Morus spp. | Pioneer tree, but can tolerate shade |
 | Sea buckthorn | Hippophae rhamnoides | N-fixing shrub, edible fruit |
@@ -2724,67 +2790,122 @@ Without a reliable supply of prey, predators and parasitoids won't stay around. 
 
 | Plant | lant | | Insect | Insect Attracted | | | | | | | | |
 |-----------------------|----------------------------------|--------------------------|-------------|------------------|----------------------|----------|--------------------|------------------|----------|--|--|--|
-| Common Name | Botanical Name | Bloom Time | Lady<br>bug | Tachinid<br>Fly | Minute Pirate<br>Bug | Hoverfly | Parasitic<br>Wasps | Big-eyed<br>Bugs | Lacewing | | | |
+| Common Name | Botanical Name | Bloom Time | Lady
+bug | Tachinid
+Fly | Minute Pirate
+Bug | Hoverfly | Parasitic
+Wasps | Big-eyed
+Bugs | Lacewing | | | |
 | Alfalfa | Medicago sativa | Sum-Fall | | | | | | | | | | |
 | Alpine cinquefoil | Potentilla villosa | Spr | | | | | | | | | | |
 | Angelica | Angelica gigas | Mid-late Sum | | | | | | | • | | | |
-| Anise hyssop | Agastache<br>foeniculum | Sum | | | | | • | | (*) | | | |
+| Anise hyssop | Agastache
+foeniculum | Sum | | | | | • | | (*) | | | |
 | Basket of gold | Alyssum saxatilis | Early Spr | 10/ | | | | | | | | | |
-| Buckwheat | Fagopyrum<br>esculentum | Early Fall | 1,925 | 2. | • | • | | | 101 | | | |
-| Bugle | Ajuga reptans | Late Spr or<br>early Sum | 188 | | | • | | | | | | |
+| Buckwheat | Fagopyrum
+esculentum | Early Fall | 1,925 | 2. | • | • | | | 101 | | | |
+| Bugle | Ajuga reptans | Late Spr or
+early Sum | 188 | | | • | | | | | | |
 | Butter and eggs | Linaria vulgaris | Sum, early Fall | | | | | | | | | | |
-| Butterfly weed | Asclepias<br>tuberosa | Sum | • | | | | | | | | | |
+| Butterfly weed | Asclepias
+tuberosa | Sum | • | | | | | | | | | |
 | Caraway | Carum carvi | Sum | | | | | | | • | | | |
 | Clover | Trifolium spp. | Late Spr-Sum | 183 | | | | | | (*) | | | |
-| Coriander | Coriandrum<br>sativum | Sum-Fall | 1,922 | | | •.1 | | | | | | |
-| Cosmos | Cosmos<br>bipinnatus | Sum-Fall | | | | * | | | | | | |
-| Crimson thyme | Thymus<br>serpyllum<br>coccineus | Sum | | (*) | | | | | | | | |
-| Dandelion | Taraxacum<br>officinale | Spr, Fall | :e//( | | | | | | 1.0 | | | |
-| Dill | Anethum<br>gravealens | Sum | 1.00 | | | • | | | () | | | |
-| Dwarf alpine<br>aster | Aster alpinus | Sum | | | | * | | | | | | |
-| English lavender | Lavandula<br>angustifolia | Sum | | | | • | | | | | | |
-| False indigo | Amorpha<br>fruticosa | Sum | | | | | • | | • | | | |
-| Fennel | Foeniculum<br>vulgare | Sum | 100 | | | • | :• | | • | | | |
-| Fern-leaf yarrow | Achillea<br>filipendulina | Sum-Fall | • | | | ** | | | 187 | | | |
+| Coriander | Coriandrum
+sativum | Sum-Fall | 1,922 | | | •.1 | | | | | | |
+| Cosmos | Cosmos
+bipinnatus | Sum-Fall | | | | * | | | | | | |
+| Crimson thyme | Thymus
+serpyllum
+coccineus | Sum | | (*) | | | | | | | | |
+| Dandelion | Taraxacum
+officinale | Spr, Fall | :e//( | | | | | | 1.0 | | | |
+| Dill | Anethum
+gravealens | Sum | 1.00 | | | • | | | () | | | |
+| Dwarf alpine
+aster | Aster alpinus | Sum | | | | * | | | | | | |
+| English lavender | Lavandula
+angustifolia | Sum | | | | • | | | | | | |
+| False indigo | Amorpha
+fruticosa | Sum | | | | | • | | • | | | |
+| Fennel | Foeniculum
+vulgare | Sum | 100 | | | • | :• | | • | | | |
+| Fern-leaf yarrow | Achillea
+filipendulina | Sum-Fall | • | | | ** | | | 187 | | | |
 | Feverfew | Chrysanthemum parthenium | Sum-early Fall | | | | • | | | | | | |
 | Four-wing saltbush | Atriplex canescens | Sum | 1.00 | | | • | | | 192 | | | |
 
 | Plant | Plant | | Insect Attracted | | | | | | | | |
 |-----------------------------|--------------------------------|-----------------------|------------------|-----------------|----------------------|----------|--------------------|------------------|----------|--|--|
-| Common Name | Botanical Name | Bloom Time | Lady<br>bug | Tachinid<br>Fly | Minute Pirate<br>Bug | Hoverfly | Parasitic<br>Wasps | Big-eyed<br>Bugs | Lacewing | | |
-| Gloriosa daisy | Rudbeckia<br>fulgida | Late Sum-Fall | | | | • | | | | | |
-| Golden<br>marguerite | Anthemis<br>tinctoria | Spr-Fall | 1.00 | | | • \ | | | 363 | | |
-| Goldenrod | Solidago<br>virgaurea | Late Sum-Fall | | | | *: | | | | | |
+| Common Name | Botanical Name | Bloom Time | Lady
+bug | Tachinid
+Fly | Minute Pirate
+Bug | Hoverfly | Parasitic
+Wasps | Big-eyed
+Bugs | Lacewing | | |
+| Gloriosa daisy | Rudbeckia
+fulgida | Late Sum-Fall | | | | • | | | | | |
+| Golden
+marguerite | Anthemis
+tinctoria | Spr-Fall | 1.00 | | | • \ | | | 363 | | |
+| Goldenrod | Solidago
+virgaurea | Late Sum-Fall | | | | *: | | | | | |
 | Hairy vetch | Vicia villosa | Sum-Fall | 189 | | | | | | | | |
-| Lavender globe<br>lily | Allium<br>tanguticum | Sum | | | | • 5 | | | | | |
+| Lavender globe
+lily | Allium
+tanguticum | Sum | | | | • 5 | | | | | |
 | Lemon balm | Melissa officinalis | Sum | | 1100 | | | | | | | |
 | Lobelia | Lobelia erinus | Sum | | | | | | | | | |
 | Marigold | Tagetes tenuifolia | Sum-Fall | 1.00 | | | | | | | | |
 | Masterwort | Astrantia major | Sum | | | | | | | | | |
-| Maximilian sunflower | Helianthus<br>maximilianii | Late Sum | | | | | | | • ( | | |
-| Orange stonecrop | Sedum<br>kamtschaticum | Sum | | | | • | • | | | | |
-| Parsley | Petroselinum<br>crispum | Sum | | (10) | | •: | | | | | |
+| Maximilian sunflower | Helianthus
+maximilianii | Late Sum | | | | | | | • ( | | |
+| Orange stonecrop | Sedum
+kamtschaticum | Sum | | | | • | • | | | | |
+| Parsley | Petroselinum
+crispum | Sum | | (10) | | •: | | | | | |
 | Pennyroyal | Mentha pulegium | Sum | | 1.5 | | | | | | | |
-| Phacelia | Phacelia<br>tanacetifolia | Late Spr-early<br>Sum | | 1.0 | | | | | | | |
-| Poached-egg<br>plant | Limnanthes<br>douglasii | Sum | | | | • 5 | | | | | |
-| Purple poppy<br>mallow | Callirhoe<br>involucrata | Sum | | | | | 3 | | | | |
-| Queen Anne's<br>lace | Daucus carota | Sum-Fall | •0 | | | • | | | .•// | | |
-| Rocky mountain<br>penstemon | Penstemon<br>strictus | Late Spr-Sum | •) | | | • | | | | | |
+| Phacelia | Phacelia
+tanacetifolia | Late Spr-early
+Sum | | 1.0 | | | | | | | |
+| Poached-egg
+plant | Limnanthes
+douglasii | Sum | | | | • 5 | | | | | |
+| Purple poppy
+mallow | Callirhoe
+involucrata | Sum | | | | | 3 | | | | |
+| Queen Anne's
+lace | Daucus carota | Sum-Fall | •0 | | | • | | | .•// | | |
+| Rocky mountain
+penstemon | Penstemon
+strictus | Late Spr-Sum | •) | | | • | | | | | |
 | Spearmint | Mentha spicata | Sum | | | | | | | | | |
 | Spike speedwell | Veronica spicata | Sum | 1.5% | | | | | | | | |
-| Statice | Limonium<br>latifolium | Sum-Fall | | | | | ė | | | | |
+| Statice | Limonium
+latifolium | Sum-Fall | | | | | ė | | | | |
 | Stonecrops | Sedum spurium & album | Sum | | | | • | | | | | |
-| Sulfur cinquefoil | Potentilla recta<br>'warrenii' | Sum, early Fall | 150 | | | | | | | | |
+| Sulfur cinquefoil | Potentilla recta
+'warrenii' | Sum, early Fall | 150 | | | | | | | | |
 
 | Plant | | 011 | Insect Attracted | | | | | | | | |
 |----------------|-------------------------|----------------|------------------|-----------------|----------------------|----------|--------------------|------------------|----------|--|--|
-| Common Name | Botanical Name | Bloom Time | Lady<br>bug | Tachinid<br>Fly | Minute Pirate<br>Bug | Hoverfly | Parasitic<br>Wasps | Big-eyed<br>Bugs | Lacewing | | |
-| Sweet alyssum | Lobularia<br>maritima | Sum | | | | • | • | | | | |
-| Tansy | Tanacetum<br>vulgare | Late Sum-Fall | • | A1.00 | | | | | | | |
+| Common Name | Botanical Name | Bloom Time | Lady
+bug | Tachinid
+Fly | Minute Pirate
+Bug | Hoverfly | Parasitic
+Wasps | Big-eyed
+Bugs | Lacewing | | |
+| Sweet alyssum | Lobularia
+maritima | Sum | | | | • | • | | | | |
+| Tansy | Tanacetum
+vulgare | Late Sum-Fall | • | A1.00 | | | | | | | |
 | Toothpick ammi | Ammi majus | Sum-Fall | | | | | | | | | |
-| Wild bergamot | Monarda<br>fistulosa | Sum | | | | • | | | | | |
-| Wood betony | Stachys<br>officinalis | Spr-Sum | | | | ٠ | | | | | |
-| Yarrow | Achillea<br>millefolium | Sum-early Fall | 1.00 | | | | | | | | |
+| Wild bergamot | Monarda
+fistulosa | Sum | | | | • | | | | | |
+| Wood betony | Stachys
+officinalis | Spr-Sum | | | | ٠ | | | | | |
+| Yarrow | Achillea
+millefolium | Sum-early Fall | 1.00 | | | | | | | | |
 | Zinnia | Zinnia elegans | Sum-frost | | | | 11.0 | | | | | |
 
 Helpful bugs also require shelter, which includes dense foliage, mulch, dead brush and leaves, and rock piles and walls. Shrubs, hedges, and thick perennial beds are ideal. Research shows that many beneficial insects overwinter or lay eggs in dead vegetation, so gardeners should delay their postseason cleanup until spring. That fastidiously neat garden is poor habitat for beneficials. (Isn't it wonderful to find sound ecological reasons for procrastinating?)
@@ -2833,7 +2954,9 @@ An ideal, diverse habitat for birds will have four key elements. They are:
 
 | Nan | ne of Plant | Provides | | | | | | |
 |--------------------------|------------------------|----------|---------|--------|------------------|----------------------|------------|--|
-| Common Name | Botanical Name | Seeds | Insects | Fruits | Winter<br>Fruits | Shelter and<br>Cover | Nest Sites | |
+| Common Name | Botanical Name | Seeds | Insects | Fruits | Winter
+Fruits | Shelter and
+Cover | Nest Sites | |
 | Alder | Alnus spp. | 141 | | | | | 2. | |
 | American cranberry | Viburnum trilobum | | | | | | | |
 | Amur cork tree | Phellodendron amurense | | | | | | | |
@@ -2871,7 +2994,9 @@ An ideal, diverse habitat for birds will have four key elements. They are:
 
 | Nan | ne of Plant | | | | Provides | | |
 |----------------------------|-------------------------|-------|---------|--------|------------------|----------------------|------------|
-| Common Name | Botanical Name | Seeds | Insects | Fruits | Winter<br>Fruits | Shelter and<br>Cover | Nest Sites |
+| Common Name | Botanical Name | Seeds | Insects | Fruits | Winter
+Fruits | Shelter and
+Cover | Nest Sites |
 | Rose (wild, bramble, etc.) | Rosa spp. | | | | | | • |
 | Russian olive | Eleagnus angustifolia | | | | | | |
 | Salal | Gaultheria shallon | | | • | | | • |
@@ -2967,7 +3092,7 @@ Animals not well suited for tractors but useful in the garden are ducks and thei
 | | Oak | Quercus spp. | Acorns high in protein |
 | | Pistachio | Pistacia spp. | Nuts eaten |
 | | Honey locust | Gleditsia triacanthos | Pods can be ground |
-| Shrubs <sup>1</sup> | | | |
+| Shrubs 1 | | | |
 | | Autumn olive | Elaeagnus umbellata | |
 | | Barberry | Berberis spp. | |
 | | Boxthorn | Lycium spp. | |
@@ -2983,7 +3108,7 @@ Animals not well suited for tractors but useful in the garden are ducks and thei
 | | Russian ofive | Eleagnus angustifolia | |
 | | Serviceberry | Amelianchier spp. | |
 | | Siberian pea shrub | Caragana arborescens | edible pods |
-| Herbaceous plants <sup>2</sup> | | | * |
+| Herbaceous plants 2 | | | * |
 | | Alfalfa | Medicago sativa | |
 | | Buckwheat | Fagopyrum esculentum | |
 | | Swiss chard | Beta vulgaris | |
@@ -3426,7 +3551,7 @@ These six form a nucleus that we can build on. We've got bird attracting in the 
 
 ## Table 9-2. Guild Plant Functions
 
-| <b>Ecological Function</b> | Description |
+| Ecological Function | Description |
 |--------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Air Purifier | Cleans pollutants from the air. Sample plants include English vy, common milkweed, and chrysanthemum (known to remove benzene). |
 | Animal Forage | Provides food for domestic animals. Sample plants include Siberian pea shrub, buffalo grass, and buckwheat. |
@@ -3438,11 +3563,12 @@ These six form a nucleus that we can build on. We've got bird attracting in the 
 | Mulch Maker | Decomposes quickly providing "on-site" mulching. Sample plants include comfrey, cattail, and cardoon. |
 | Nitrogen Fixer | Hosts nitrogen-fixing bacteria. Sample plants include wild lupine, sweet pea, and bladder senna. |
 | Nitrogen Scavenger | Removes excess nitrogen from soil. Examples include berseem clover, barley, and oats. |
-| Nurse/Scaffold/<br>Chaperone | Hardy pioneer plants that support establishment of other plants. Sample plants include alder, flowering quince, and Spanish broom. |
+| Nurse/Scaffold/
+Chaperone | Hardy pioneer plants that support establishment of other plants. Sample plants include alder, flowering quince, and Spanish broom. |
 | Nutrient Accumulator | Deep-rooted plants that draw nutrients from soil, concentrating them in tissue. Sample plants include stinging nettle, yarrow, and sunflower. |
 | Pest Repellent | Repets pests, eliminating pesticides. Sample plants include peppermint (repels insects and mice), lemon balm (repels flies and ants) and garlic (repels aphids, deer, and rabbits). |
 | Soil Builder | Produces organic matter and improves soil structure. Sample plants include rape, Sudan grass, and crotolaria. |
-| Soil Cultivator/Spike-<br>Root | Deep-rooted plants that penetrate, loosen, and aerate the soil. Sample plants include little bluestern, daikon, and fava bean. |
+| Soil Cultivator/SpikeRoot | Deep-rooted plants that penetrate, loosen, and aerate the soil. Sample plants include little bluestern, daikon, and fava bean. |
 | Toxin Absorption | Sample plants include black nightshade (removes PCBs from soil) and curlytop-gumweed (absorbs selenium). |
 | Water Purification | Sample plants include cattail, common rush, canna lily, and ostrich fern. |
 | Wildlife Food | Examples include blackberry (small birds) witch hazel (ruffled grouse, pheasant), and elderberry (many bird species). |
@@ -4418,7 +4544,8 @@ This refers to the USDA Hardiness Zone system, representing the lowest annual te
 
 Also, as of this writing, the USDA has not released new zone maps, which may indicate shifting zone boundaries as a result of global climate change. However, the minimum temperatures defining the zones remain the same, as follows:
 
-| Zone | Minimum Annual<br>Temperature (°F) |
+| Zone | Minimum Annual
+Temperature (°F) |
 |------|------------------------------------|
 | 2 | -50 to -40 |
 | 3 | -40 to -30 |
@@ -4469,7 +4596,9 @@ Biomass Plant produces large quantities of biomass Bskt Stem, branches, or root 
 
 ## Tall Tress, 50 Feet and Larger
 
-| Common Name | Botanical Name | Hardy to<br>USDA Zone | Туре | Light | Edible Part<br>or Use | Animal Use | Other Uses | Comments |
+| Common Name | Botanical Name | Hardy to
+USDA Zone | Туре | Light | Edible Part
+or Use | Animal Use | Other Uses | Comments |
 |-------------------|-----------------------|-----------------------|------|-------|-----------------------|--------------------|---------------------------|--------------------------------------------|
 | Beech | Fagus spp. | 5 | D Tr | 00 | Sd, y Lf, Med | Hab, For | Wbr, Hr | |
 | Black locust | Robinia pseudoacacia | 3 | D Tr | 0 | FI, Sd | Ins, Hab, Chk, For | Wbr, Hr, Wood | N-fixer |
@@ -4488,21 +4617,27 @@ Biomass Plant produces large quantities of biomass Bskt Stem, branches, or root 
 | Shellbark hickory | Carya laciniosa | 6 | D Tr | 0.0 | Sd, Sap | Ins, Hab, Chk, For | Wood | |
 | Sour cherry | Prunus cerasus | 3 | D Tr | 0 | Fr, Tea | Ins, Hab, For | Wbr, Hr | |
 | Stone pine | Pinus pinea | 4 | E Tr | 0 | Sd | Hab, For | Wbr, Hr, Wood | Many other species have edible seeds |
-| Sugar maple | Acer saccharum | 3 | D Tr | 00 | Sap | Ins, Hab, For | Wood | Many other species good for maple<br>syrup |
+| Sugar maple | Acer saccharum | 3 | D Tr | 00 | Sap | Ins, Hab, For | Wood | Many other species good for maple
+syrup |
 | Sweet chestnut | Castanea sativa | 5 | D Tr | 0 | Sd, Med | Ins, Hab, Chk, For | Wbr, Hr, Wood | |
 | Tree of heaven | Ailanthus altissima | 7 | D Tr | 0 | | Ins, Hab | Wbr, Hr, Soil stab. | Tolerates pollution |
 | Yellow buckeye | Aesculus flava | 3 | D Tr | 00 | Sd, Sap | Ins. Hab, For | Wood, soap | |
 
-| Common Name | Botanical Name | Hardy to<br>USDA Zone | Туре | Light | Edible part<br>or use | Animal use | Other uses | Comments |
+| Common Name | Botanical Name | Hardy to
+USDA Zone | Туре | Light | Edible part
+or use | Animal use | Other uses | Comments |
 |------------------------|------------------------------|-----------------------|-------|-------|-----------------------|--------------------|-------------------------------------|--------------------------------------------------|
-| Silk tree or<br>mimosa | Albizzia julibrisin | 6 | D Tr | 00 | Lf | Ins, Hab | Hr. N-fixer | |
+| Silk tree or
+mimosa | Albizzia julibrisin | 6 | D Tr | 00 | Lf | Ins, Hab | Hr. N-fixer | |
 | Alder | Alnus spp. | 3 | D Tr | 0 | Med | Ins, Hab | Wbr, Hr, Dye, Wood | |
 | Juneberry | Amelanchier spp. | 4 | D Sh | 0 | Fr | Ins, Hab, Chk, For | Wbr, Hr | |
 | Angelica tree | Aralia chinensis | 7 | D Sh | 00 | Sht | | | |
 | Chokeberry | Aronia melanocarpa | 3 | D 5h | 00 | Fr, Med | Ins, Hab, Chk, For | Hr. Dye | |
 | Strawberry tree | Arbutus unedo | 7 | E Tr | 0 | Fr | Ins, Hab, For | Wbr, Hr | |
-| Manzanita | Arctostaphyllos<br>mantanita | 7 | ESh | 0.0 | Fr | Ins, Hab, Chk, For | Wbr, Hr, Dye | |
-| Giant reed | Arundo donax | 6 | Grass | 0 | Root, Med | | Bskt, Wbr, Hr, Soil<br>stab | |
+| Manzanita | Arctostaphyllos
+mantanita | 7 | ESh | 0.0 | Fr | Ins, Hab, Chk, For | Wbr, Hr, Dye | |
+| Giant reed | Arundo donax | 6 | Grass | 0 | Root, Med | | Bskt, Wbr, Hr, Soil
+stab | |
 | Pawpaw | Asimina trilabata | 6 | D Tr | 0.0 | Fr: | Hab, Chk, For | Dye, Fiber | |
 | Salt bush | Atriplex canescens | 7 | E Sh | 0 | Lf, Sd | | Wbr; Hr | |
 | Spotted laurel | Aucuba japonica | 7 | ESh | •0 | | | Wbr, Hr | |
@@ -4512,10 +4647,14 @@ Biomass Plant produces large quantities of biomass Bskt Stem, branches, or root 
 | Barberry | Berberis vulgaris | 3 | D Sh | 0.0 | Fr, Tea | Hab, For | Wbr, Hr, Fiber | |
 | Butterfly bush | Buddleia davidii | 5 | D Sh | 0 | | Ins | Wbr, Hr, Dye | |
 | Box | Buxus sempervirens | 5 | ESh | 0.0 | Med | | Wbr, Hr | |
-| Bottlebrush | Callistemon citrinus | 8 | E Sh | 0 | Tea | Ins | Wbr, Hr | C. sieberi & C. viridiflorus can also<br>be used |
+| Bottlebrush | Callistemon citrinus | 8 | E Sh | 0 | Tea | Ins | Wbr, Hr | C. sieberi & C. viridiflorus can also
+be used |
 | Scotch heather | Calluna vulgaris | 4 | ESh | 0 | Tea, Med | Ins | Wbr, Hr, Bskt, Dye | Acid soil |
-| Siberian pea<br>shrub | Caragana arborescens | 3 | E Sh | 0 | Sd | Ins, Chk, For | Wbr, Hr, Dye, Soil<br>stab, N-fixer | |
-| American<br>hornbeam | Carpinus caroliniana | 5 | D Tr | 00 | Sd | Hab, For | Wbr, Hr, Dye | |
+| Siberian pea
+shrub | Caragana arborescens | 3 | E Sh | 0 | Sd | Ins, Chk, For | Wbr, Hr, Dye, Soil
+stab, N-fixer | |
+| American
+hornbeam | Carpinus caroliniana | 5 | D Tr | 00 | Sd | Hab, For | Wbr, Hr, Dye | |
 | Bittersweet | Celastrus orbiculatus | 4 | DTr | 00 | YLf Med | Hab, For | Wbr, Hr | Leaves should be cooked |
 | Hackberry | Celtis sop. | 4 | ESh | 0 | Fr. Sd | Hab, Chk, For | Wbr. Hr. Dye | |
 
@@ -4532,8 +4671,10 @@ Biomass Plant produces large quantities of biomass Bskt Stem, branches, or root 
 | Black hawthorn | Crataegus douglasii | 5 | DTr | 0 | Fr | Ins, Hab, Chk, For | Wbr, Hr | Many other species have edible fruits |
 | Persimmon | Diospyros kaki | 8 | D Tr | 00 | Fr | Hab, For | Hr | |
 | Date plum | Diaspyros lotus | 5 | D. Tr | 00 | Fr | Hab, For | Hr | |
-| American<br>persimmon | Diospyros virginiana | 5 | D Tr | 00 | Fr | Hab, For | Hr | |
-| Mountain pepper | Drimys lanceolata | 8 | ESh | 00 | Fr (spice),<br>Med | | Wbt Hr | |
+| American
+persimmon | Diospyros virginiana | 5 | D Tr | 00 | Fr | Hab, For | Hr | |
+| Mountain pepper | Drimys lanceolata | 8 | ESh | 00 | Fr (spice),
+Med | | Wbt Hr | |
 | Winter's bark | Drimys winteri | 8 | ESh | 00 | Bark, Med | Hab | Hr | |
 | Russian olive | Elaragnus angustifalia | 2 | D Sh | 0 | Fr | Ins, Hab, Chk, For | Wbr, Hr, N-fixer | |
 | Silverberry | Elaeagrus commutata | 2 | D Sh | 0 | Fr | Ins, Hab, Chk, For | Wbr, Hr, Fiber, N-fixer | |
@@ -4545,16 +4686,20 @@ Biomass Plant produces large quantities of biomass Bskt Stem, branches, or root 
 | Fig | Ficus carica | 7: | DTr | 0 | Fr | Hab, chk, For | Hr | |
 | Fuchsia | Fuchsia magellanica | 6 | D Sh | 0.0 | Med | Hum | Wbr, Hr | |
 | Maidenhair tree | Ginkgo biloha | 2 | ETr | 0 | Sd, Med | | | |
-| Kentucky coffee<br>tree | Gymnocladus dioica | 4 | D Tr | 0 | Sd pod | Hab. For | Hr. Soap, N-fixer | |
+| Kentucky coffee
+tree | Gymnocladus dioica | 4 | D Tr | 0 | Sd pod | Hab. For | Hr. Soap, N-fixer | |
 | Witch hazel | Hamamelis virginiana | 5 | D:Sh | 0 | Sd, Med | Hab | Hr | |
 | Curry plant | Helichrysum stalicum | 8 | ESh | 0 | Spice | | Wbr, Hr | |
 
-| Common Name | Botanical Name | Hardy to<br>USDA Zone | Type | Light | Edible part<br>or use | Animal use | Other uses | Comments |
+| Common Name | Botanical Name | Hardy to
+USDA Zone | Type | Light | Edible part
+or use | Animal use | Other uses | Comments |
 |-------------------------|---------------------------------|-----------------------|------|-------|-----------------------|---------------|-----------------------|--------------------------------------------------------------|
 | Mallow | Hibiscus syriacus | 5 | D Sh | 0 | Lf. Fl. Oil. Tea | Ins, Hab | Wbr, Hr, Fiber | |
 | Sea buckthorn | Hippophae rhamnoides | 3 | D Sh | 0 | Fr, Med | Hab, For | Wbr, Hr, Dye, N-fixer | |
 | Oceanspray | Holodiscus discolor | 5 | D Sh | 00 | Fr | Hab | Hr, Wood | |
-| Japanese raisin<br>tree | Hovenia dulcis | 6 | D Tr | 0 | Fr | Hab | Hr | |
+| Japanese raisin
+tree | Hovenia dulcis | 6 | D Tr | 0 | Fr | Hab | Hr | |
 | Hyssop | Hyssopus officinalis | 3 | E Sh | 0 | Tea, Med | Ins | Wbr, Hr | |
 | ligeri tree | ldesia polycarpa | 5 | D Tr | 0 | Fr | | | |
 | Bachelor's button | Kerria japonica | 4 | D Sh | 0.0 | YLf | | | Drought tolerant |
@@ -4563,7 +4708,8 @@ Biomass Plant produces large quantities of biomass Bskt Stem, branches, or root 
 | Lavender | Lavandula spp. | 5 | E Sh | 0 | Med | Ins | Wbr, Hr | |
 | Tree mallow | Lavatera arborea | 8 | D Sh | 00 | Lf | Ins | Fiber | |
 | Bush clover | Lespedeza thunbergii | 5 | D Sh | 0 | | Ins | N-fixer | |
-| Honeysuckle | Loniceta caerula vet.<br>edulis | 3 | D Sh | 0 | F | Ins, Chk | Hr | Disperses easily |
+| Honeysuckle | Loniceta caerula vet.
+edulis | 3 | D Sh | 0 | F | Ins, Chk | Hr | Disperses easily |
 | Chinese privet | Ligustrum lucidum | 7 | E Sh | 0. | Med | | Wbr, Hr | |
 | Boxthorn | Lycium barbarum | 6 | E Sh | 0 | Fr, Sht, Med | Hab | Wbr, Hr | |
 | Amur Maackia | Maackia amurensis | 4 | D Sh | 0 | YLF | Ins | Hr, N-fixer | |
@@ -4571,7 +4717,8 @@ Biomass Plant produces large quantities of biomass Bskt Stem, branches, or root 
 | Apple | Malus sylvestris | 3 | D Tr | 0 | Fr | Ins, Hab, For | Hr | |
 | Medlar | Mespilus germanica | 6 | DTr | 0 | Fr | Hab | | |
 | White mulberry | Morus alba | 3 | D Tr | 0 | Fr, YLF | Chk, Hab, For | Wbr, Hr, Dye, Fiber | |
-| Black mulberry | Morus nigra | 3 | D Tr | 0 | Fr | Chk, Hab, For | | Also: M. australis, M. mongolica, M.<br>rubra and M. serrata |
+| Black mulberry | Morus nigra | 3 | D Tr | 0 | Fr | Chk, Hab, For | | Also: M. australis, M. mongolica, M.
+rubra and M. serrata |
 | Myrtle | Myrtus communis | 8 | ETr | 0 | Med | | Wbr, Hr | |
 | Heavenly bamboo | Nandina domestica | 6 | D Sh | 00 | Sht | Hab | Wbr, Hr, Poles, Fiber | |
 | Tupelo | Nyssa sylvatica | 3 | D Tr | 0 | Fr | Ins, Hab | | Alkaline soil |
@@ -4580,8 +4727,11 @@ Biomass Plant produces large quantities of biomass Bskt Stem, branches, or root 
 | Olive | Olea europaea | 8 | E. Tr | 0 | Fr, Oil | Hab | Dye, Soil stab | |
 |---------------------------|----------------------------|----|------|----|------------|--------------------|------------------------------|-----------------------------------------------------------------------------|
 | Devil's club | Oplopanax horridus | 4: | D Sh | • | Sht, Med | Hab | | |
-| Mock orange | Philadelphus<br>coronarius | 5 | D Sh | 0 | | Ins, Hab | Wbr, Hr | Also useful: P. delavayi, P. pubescens<br>P. purpurascens & P. x virginalis |
-| New Zealand flax | Phormium tenax | 8 | E Sh | 0 | | | Wbr, Hr, Bskt, Fiber.<br>Dye | 200 |
+| Mock orange | Philadelphus
+coronarius | 5 | D Sh | 0 | | Ins, Hab | Wbr, Hr | Also useful: P. delavayi, P. pubescens
+P. purpurascens & P. x virginalis |
+| New Zealand flax | Phormium tenax | 8 | E Sh | 0 | | | Wbr, Hr, Bskt, Fiber.
+Dye | 200 |
 | Bitter orange | Poncirus trifoliata | 5 | E Tr | 0 | Fr, Med | Hab | Wbr, Hr | |
 | Cinquefoil | Potentilla fruticosa | 5 | D Sh | 00 | Tea | | Wbr, Hr, Soil stab | |
 | Apricot | Prunus armeniaca | 4 | D Tr | 0 | Fr | Ins, Hab, For | | |
@@ -4598,7 +4748,8 @@ Biomass Plant produces large quantities of biomass Bskt Stem, branches, or root 
 | Sloe | Prunus spinosa | 4 | D Tr | 0 | Fr, Med | Ins, Hab, For | Wbr, Hr, Dye | |
 | Nanking cherry | Prunus tomentosa | 5 | D Sh | 0 | Fit | Ins, Hab, For | Wbr, Hr | |
 | Bamboo | Pseudosasa japonica | 6 | ESh | 00 | Sht, Med | Hab, For | Wbr, Hr, Poles, Fiber | |
-| California<br>coffeeberry | Rhamnus californica | 7 | D Tr | 00 | Fr. Med | Ins, Hab, Chk, For | Wbr. Hr | |
+| California
+coffeeberry | Rhamnus californica | 7 | D Tr | 00 | Fr. Med | Ins, Hab, Chk, For | Wbr. Hr | |
 | Indian cherry | Rhamnus caroliniana | 6 | D Tr | 00 | Fr | Ins, Hab, Chk, For | Hr | |
 | Cascara | Rhamnus purshiana | 6 | D. Tr | 0 | Med | Ins, Hab | Hr | |
 | Lemonade berry | Rhus integrifolia | 3 | D-Sh | 00 | Fr, FI | Ins. Hab. For | Ht | |
@@ -4607,13 +4758,16 @@ Biomass Plant produces large quantities of biomass Bskt Stem, branches, or root 
 | Wax current | Ribes cereum | 3 | D Sh | 00 | Fr: | Ins, Hab, Chk, For | Hr, Dye | |
 | Black currant | Ribes nigrum | 5 | D 5h | 0. | Fe | Ins, Hab, Chk, For | Hr | |
 
-| Common Name | Botanical Name | Hardy to<br>USDA Zone | Туре | Light | Edible part<br>or use | Animal use | Other uses | Comments |
+| Common Name | Botanical Name | Hardy to
+USDA Zone | Туре | Light | Edible part
+or use | Animal use | Other uses | Comments |
 |-------------------------|-------------------------|-----------------------|------|-------|-----------------------|--------------------|---------------------------------|-----------------------------------------------------|
 | Red currant | Ribes rubrum | 5 | D Sh | 00 | Fr | Ins, Hab, Chk, For | Hr | |
 | Gooseberry | Ribes uva-crispa | 5 | D Sh | 00 | Fr | Ins, Hab, Chk, For | Hr | |
 | Rose | Rosa spp. | 2 | D Sh | 00 | Fr | Ins. Hab, For | Wbr, Hr | Hybrids and cultivars are less useful |
 | Rosemary | Rosmarinus officinale | 7 | E Sh | 0 | Seas | Ins | Ins, Hr | |
-| Himalayan<br>blackberry | Rubus discolor | 5 | DCI | 0.0 | Fr | Ins, Hab, Chk, For | Hr | |
+| Himalayan
+blackberry | Rubus discolor | 5 | DCI | 0.0 | Fr | Ins, Hab, Chk, For | Hr | |
 | Red raspberry | Rubus idaeus | 3 | D Sh | 00 | Fr | Ins, Hab, Chk, For | He | |
 | Black raspberry | Rubus occidentalis | 4 | D Sh | 0. | Fr. Tea | Ins, Hab, Chk, For | Hr | |
 | Hooker's willow | Salix hookeriana | 6 | D Tr | 0 | Med | Hab | Wbr, Hr | Many species are useful |
@@ -4623,15 +4777,19 @@ Biomass Plant produces large quantities of biomass Bskt Stem, branches, or root 
 | Sassafras | Sassafras albidum | 5 | D Tr | 0.0 | Lf, Bark, Fr | Hab | Dye | |
 | Buffaloberry | Shepherdia argentea | 2 | D Sh | 0 | Fr | Ins, Hab, Chk, For | Wbr, Hr, Dye, N-fixer | Drought resistant |
 | Mountain ash | Sorbus spp. | 5 | D Tr | 0 | Fr | For | Wbr, Hr | |
-| Spanish broom | Spartium junceum | 8 | D Sh | 0 | Med | Ins, Hab | Wbr, Hr, Fiber, Dye,<br>N-fixer | |
+| Spanish broom | Spartium junceum | 8 | D Sh | 0 | Med | Ins, Hab | Wbr, Hr, Fiber, Dye,
+N-fixer | |
 | Lilac | Syringa vulgaris | 5 | D Sh | 0 | Med | Ins, Hab | Wbr, Hr. Dye | |
 | Tamarisk | Tamarix gallica | 5 | D Tr | 0 | Med | Нав | Wbr, Hr | Also: T. africana, T. parviflora and T. ramosissima |
-| Blueberry | Vaccinium<br>corymbosum | 2 | D Sh | 00 | Fr | Ins, Hab, For | Hr | Acid soil |
+| Blueberry | Vaccinium
+corymbosum | 2 | D Sh | 00 | Fr | Ins, Hab, For | Hr | Acid soil |
 | Cranberry | Viburnum trilobum | 2 | E Sh | 0.0 | Fr | Ins, Hab, For | Hr | Acid soil |
 | Yucca | Уисси spp. | 4 | E Sh | 0 | Fr | Ins, Hab | Hr | |
 | Jujube | Ziziphus zizyphus | 6 | D Tr | 0 | Fr | Hab | Hr | |
 
-| Common Name | Botanical Name | Hardy to<br>USDA Zone | Type | Light | Edible part<br>or use | Animal use | Other use | Comments |
+| Common Name | Botanical Name | Hardy to
+USDA Zone | Type | Light | Edible part
+or use | Animal use | Other use | Comments |
 |--------------------|------------------------------|-----------------------|------|-------|-----------------------|---------------|--------------------|---------------------------------------|
 | Alfalfa | Medicago sativa | 5 | HP | 0 | Lf, Sd | Ins, Hab, For | N-fixer | |
 | American licorice | Glycyrrhiza lepidota | 3 | HP | 00 | Root, Med | | N-fixer | Less sweet than G. lepidota; invasive |
@@ -4640,29 +4798,37 @@ Biomass Plant produces large quantities of biomass Bskt Stem, branches, or root 
 | Balsamroot | Balsamorhiza hookeri | 5 | HP | 0 | Fl, Sd, Root | Ins | | |
 | Breadroot | Psoralea esculenta | 7 | HP | 0 | Root | | N-Fixer, soil stab | Also P. hypogaea |
 | Bugle | Ajuga reptans | 6 | HP | 0.0 | Uf | Ins | | ***** |
-| Bulrush | Scirpus spp. | 4 | HP | 0.0 | Lf, Sd, Root,<br>Med | Hab | Fiber | |
+| Bulrush | Scirpus spp. | 4 | HP | 0.0 | Lf, Sd, Root,
+Med | Hab | Fiber | |
 | Bunchberry | Cornus canadensis | 2 | HP | 0.0 | Fr | For | | |
 | Camas | Camassia quamash | 3 | HP | 00 | Root | Ins | | |
 | Cardoon | Cynora cardunculus | 5 | HB | 0 | Fr | Ins | | Self-seeds |
-| Cattail | Typha angustifolia | 3 | HP | 0.0 | FI, Lf, Sht.<br>Root, | Hab, For | Fiber, soil stab | Bog plant |
-| Cattail | Typha latifolia | 3 | HP | 00 | FI, Lf, Sht,<br>Root | Hab | Fiber | Bog plant |
+| Cattail | Typha angustifolia | 3 | HP | 0.0 | FI, Lf, Sht.
+Root, | Hab, For | Fiber, soil stab | Bog plant |
+| Cattail | Typha latifolia | 3 | HP | 00 | FI, Lf, Sht,
+Root | Hab | Fiber | Bog plant |
 | Chamomile | Chamaemelum nobile | 4 | HP | 00 | Tea | Ins | Dye | |
 | Chicory | Cichorium intybus | 3 | HP | 0 | FI, Lf, Root | Ins | Nutr | |
 | Chinese artichoke | Stachys affinis | 5 | HP | 0 | LF, Root | | | |
 | Chives | Allium schoenoprasum | 5 | HP | 00 | FI, Lf, Root | Ins | Nutr | |
-| Collards | Brassica oleracea<br>viridis | 6 | HP | 00 | R, Lf | Hab | | |
+| Collards | Brassica oleracea
+viridis | 6 | HP | 00 | R, Lf | Hab | | |
 | Columbine | Aquilegia vulgaris | 4 | HP | 0 | Fl, Tea | Ins | | |
 | Comfrey | Symphytum officinale | 5 | HP | 0.0 | Lf, Med | Ins, Chk | Nutr, biomass | |
-| Common<br>milkweed | Asclepias comuti | 3 | HP | 0 | R, Lf | Ins | Dye; Fiber | |
+| Common
+milkweed | Asclepias comuti | 3 | HP | 0 | R, Lf | Ins | Dye; Fiber | |
 | Creeping thyme | Thymus serpyllum | 5 | E Sh | 0 | Lf, Tea, Med | Ins | Repellent | Also T. vulgaris |
 | Dandelion | Taraxacum officinale | 5 | HP | 00 | FI, Lf, Root | Ins | Nutr | |
 | Daylily | Hemerocallis fulva | 4 | HP | 00 | FI, Lf, Root | Hum | Fiber | |
 
-| Common Name | Botanical Name | Hardy to<br>USDA Zone | Туре | Light | Edible part<br>or use | Animal use | Other use | Comments |
+| Common Name | Botanical Name | Hardy to
+USDA Zone | Туре | Light | Edible part
+or use | Animal use | Other use | Comments |
 |-------------------------|--------------------------------|-----------------------|------|-------|-----------------------|---------------|----------------------|-----------------|
 | Egyptian onion | Allium cepa proliferum | 5 | HP | 0 | Fl, Lf, Root | | Nutr, Dye, Repellent | |
 | European licorice | Glycyrrhiza glabra | 7 | HP | 00 | Root, Med | | N-fixer | |
-| Fairy thimble | Campanula<br>cochleariifolia | 6 | HP | 00 | FLLf | Ins, For | | |
+| Fairy thimble | Campanula
+cochleariifolia | 6 | HP | 00 | FLLf | Ins, For | | |
 | Fennel | Foeniculum vulgare | 5 | HP | 0.0 | Lf, Sd, Root | Ins, Hab, Chk | Nutr | |
 | French sorrel | Rumex scutatus | 6 | HP | 00 | Lf | | Dye | Also R. acetosa |
 | Garlic | Allium sativum | 5 | HP. | 0 | Fl, Lf, Root | | Nutr | |
@@ -4671,31 +4837,42 @@ Biomass Plant produces large quantities of biomass Bskt Stem, branches, or root 
 | Ginseng | Panax ginseng | 6 | HP | 0.0 | Root, Med | | | |
 | Globe artichoke | Cynara scolymus | 6 | HP | 0 | Fl. Lf | Ins | | |
 | Goldenberry | Physalis peruviana | 8 | HP | 0 | Fr | | | |
-| Good King Henry | Chenopodium bonus-<br>henricus | 5 | HP | 0 | Fl. Lf. Med | Ins | Nutr, Dye | |
-| Greek oregano | Origanum vulgare<br>hirtum | 5 | HP | 00 | Lf, Seas | Ins | | |
+| Good King Henry | Chenopodium bonushenricus | 5 | HP | 0 | Fl. Lf. Med | Ins | Nutr, Dye | |
+| Greek oregano | Origanum vulgare
+hirtum | 5 | HP | 00 | Lf, Seas | Ins | | |
 | Groundnut | Apios americana | 3 | HP | 00 | Sd, Root | | N-fixer | |
-| Groundplum<br>milkvetch | Astragalus crassicarpus | 4 | HP. | 0 | Seedpod | Ins | N-fixer | |
+| Groundplum
+milkvetch | Astragalus crassicarpus | 4 | HP. | 0 | Seedpod | Ins | N-fixer | |
 | Harebell | Campanula persicifolia | 3 | HP | 00 | FL Lf. Root | Ins. For | | |
 | Indian water lotus | Nelumbo nucifera | 5 | HP | 0 | FL Lf, Root | | | Water plant |
-| Jerusalem<br>artichoke | Helianthus tuberosus | 4 | HP | 00 | Root | Ins, Hab | Hr. Biomass | |
-| Kale, curly | Brassica oleracea<br>sabellica | 6 | HP | 00 | Fl. Lf | Hab | | |
-| Kale, perennial | Brassica oleracea<br>ramosa | 6 | HP | 00 | R. Lf | Hab | | |
+| Jerusalem
+artichoke | Helianthus tuberosus | 4 | HP | 00 | Root | Ins, Hab | Hr. Biomass | |
+| Kale, curly | Brassica oleracea
+sabellica | 6 | HP | 00 | Fl. Lf | Hab | | |
+| Kale, perennial | Brassica oleracea
+ramosa | 6 | HP | 00 | R. Lf | Hab | | |
 | King's spear | Asphodeline lutea | 7 | HP | 0.0 | Fl. Lf. Root | | | |
 | Lupine | Lupinus spp. | 5 | HP | 0 | Sd. Med | Ins | N-fixer | |
 
 | Maca or Peruvian ginseng | Lepidium meyenii | 6 | HP | 00 | Root, Med | Ins | | |
 |---------------------------------|-------------------------------------------|---|------|-----|--------------|---------------|------------------|--------------------------------------------|
-| Maximilian<br>sunflower | Helianthus maximilianii | 4 | HP | 0 | Root, Sht | Ins | | |
+| Maximilian
+sunflower | Helianthus maximilianii | 4 | HP | 0 | Root, Sht | Ins | | |
 | Mexican tarragon | Tagetes lucida | 9 | HP | 0 | Tea | | Dye, Repellent | Grown as annual |
 | Mitsuba | Cryptotaenia japonica | 5 | HP | 0.0 | Lf | Ins | | |
 | Musk mallow | Malva moschata | 3 | HP | 00 | Fl. Lf, Sd | ins | Fiber | |
 | Nasturtium | Tropaeolum minus | 9 | HP | 0 | Fl, Lf, Sd | | Repellent | Grown as annual |
-| Nine-star<br>perennial broccoli | Brassica oleracea<br>botrytis aparagoides | 6 | HP | 0.0 | FLLf | Ins | | |
+| Nine-star
+perennial broccoli | Brassica oleracea
+botrytis aparagoides | 6 | HP | 0.0 | FLLf | Ins | | |
 | Oca | Oxalis tuberosa | 7 | HP | 00 | Fl. Lf, Root | | | Can be grown as annual |
-| Painted milkvetch | Astragalus pictus-<br>filifolius | 5 | HP | 0 | Root | Ins | N-fixer | |
-| Peppermint | Mentha × piperita<br>vulgaris | 3 | HP | 0. | Lf, Tea | ins | | |
-| Perennial<br>buckwheat | Fagapyrum dibatrys | 5 | HP | 00 | Lf, Sd | Ins, Hab, Chk | | |
-| Pig nut | Bunium<br>bulbocastanum | 5 | HP | 00 | Lf, Root | Ins | | |
+| Painted milkvetch | Astragalus pictusfilifolius | 5 | HP | 0 | Root | Ins | N-fixer | |
+| Peppermint | Mentha × piperita
+vulgaris | 3 | HP | 0. | Lf, Tea | ins | | |
+| Perennial
+buckwheat | Fagapyrum dibatrys | 5 | HP | 00 | Lf, Sd | Ins, Hab, Chk | | |
+| Pig nut | Bunium
+bulbocastanum | 5 | HP | 00 | Lf, Root | Ins | | |
 | Pink purslane | Claytonia sibirica | 3 | HP | 00 | Lf | Ins. For | | |
 | Pleurisy root | Asclepias tuberosa | 3 | HP | 0 | FI, Lf | Ins | Fiber | |
 | Pokeweed | Phytolacca americana | 4 | HP | 0 | Lf, Med | Hab | Dye | Leaves toxic unless cooked and rinsed well |
@@ -4709,10 +4886,13 @@ Biomass Plant produces large quantities of biomass Bskt Stem, branches, or root 
 | Seakale | Crambe maritima | 5 | HP | 00 | FLLf | | | |
 | Showy milkweed | Asclepias speciosa | 2 | HP | 0 | FI, LF | ins | Dye, Fiber | |
 
-| Common Name | Botanical Name | Hardy to<br>USDA Zone | Type | Light | Edible part<br>or use | Animal use | Other use | Comments |
+| Common Name | Botanical Name | Hardy to
+USDA Zone | Type | Light | Edible part
+or use | Animal use | Other use | Comments |
 |------------------------|----------------------------|-----------------------|------|-------|-----------------------|------------|------------------------------|------------------------|
 | Spearmint | Mentha spicata | 3 | HP | 0.0 | Lf. Tea | ins | | |
-| Stinging nettle | Urtica dioica | 6 | HP | 00 | Lf | | Nutr. Dye, Fiber,<br>Biomass | |
+| Stinging nettle | Urtica dioica | 6 | HP | 00 | Lf | | Nutr. Dye, Fiber,
+Biomass | |
 | Stonecrop | Sedum spp. | 5 | HP | 00 | Lf, Med | Ins | | |
 | Strawberry | Fragaria spp. | 3 | HP | 00 | Fr, Lf, | Ins | Nutr | |
 | Sweet cicely | Myrrhis odorata | 5 | HP | 0.0 | Lf, Sd, Root | Ins | Polish | |
@@ -4721,8 +4901,10 @@ Biomass Plant produces large quantities of biomass Bskt Stem, branches, or root 
 | Sweet violet | Viola odorata | 5 | HP | 00 | FI, LF | Ins | | |
 | Tarragon | Artemisia dracunculus | 6 | HP | 0. | Lf (seas) | Ins | | |
 | Thrift | Phlox subulata | 4 | HP | 00 | | Ins | Ground cover | |
-| Trailing beliflower | Campanula<br>poscharskyana | 3 | HP | 00 | FI, Lf | Ins, For | | |
-| Tuberous water<br>lily | Nymphaea tuberosa | 5 | HP | 0 | Root, Sd | | | Water plant |
+| Trailing beliflower | Campanula
+poscharskyana | 3 | HP | 00 | FI, Lf | Ins, For | | |
+| Tuberous water
+lily | Nymphaea tuberosa | 5 | HP | 0 | Root, Sd | | | Water plant |
 | Turkish rocket | Bunios orientalis | 7 | HP | 00 | FI, Lf | Ins | | |
 | Wapato | Sagittaria latifolia | 6 | HP | 00 | Root | | | Also S. sagittifolia |
 | Water chestnut | Trapa natans | 5 | HP | 0 | Sd | | | Water plant |
@@ -4734,17 +4916,21 @@ Biomass Plant produces large quantities of biomass Bskt Stem, branches, or root 
 | Yampah | Perideridia gairdneri | 7 | HP | 00 | Lf, Root | | | |
 | Yarrow | Achillea millefolium | 2 | HP | 0 | Lf, Tea, Med | Ins | Nutr. Dye | |
 
-| Common Name | Botanical Name | Hardy to<br>USDA Zone | Туре | Light | Edible part<br>or use | Animal use | Other use | Comments |
+| Common Name | Botanical Name | Hardy to
+USDA Zone | Туре | Light | Edible part
+or use | Animal use | Other use | Comments |
 |------------------------|--------------------------|-----------------------|--------|-------|-----------------------|------------|---------------|------------------------------------------------|
 | Akebia | Akebia quinata | 5 | DCI | 0.0 | Fr | | Bskt | Also A. trifoliata |
 | Clematis | Clematis spp. | 5 | DCI | 0.0 | | Ins | | |
 | Cucumber | Cucumis sativus | 9 | DCI | 0 | Fr, FI | Ins | | Grown as annual |
 | Grape | Vitis vinifera | 6 | DCI | 0 | Fr. Lf | Hab, Food | Dye | |
 | Hardy kiwi | Actinidia arguta | 4 | DCI | 0 | Fr | | | |
-| He Shou Wu | Polygonum<br>multiflorum | 7 | DCI | 00 | Fr, Lf, Med | | | |
+| He Shou Wu | Polygonum
+multiflorum | 7 | DCI | 00 | Fr, Lf, Med | | | |
 | Honeysuckle | Lonicera spp. | 4 | DCI | 00 | FI, Tea | Ins, Hab | Bskt | |
 | Hops | Humulus lopulus | 5 | DCI | 0 | FI, Lf, Med | Ins, Hab | Fiber, Dye | |
-| Jasmine | Jasminum officinale | 6 | D CI | 00 | FL | Ins, Hab | Fragrance | Also J. beesianum, J. humile,<br>J. nudiflorum |
+| Jasmine | Jasminum officinale | 6 | D CI | 00 | FL | Ins, Hab | Fragrance | Also J. beesianum, J. humile,
+J. nudiflorum |
 | Kiwi | Actinidia deliciosa | 7 | DCI | 0 | Fr | | | |
 | Mashua | Tropaeolum tuberosum | 8 | DCI | 0 | Fl, Lf, Root | | | Can be grown as annual |
 | Маурор | Passiflora incarnata | 6 | ECI | 0 | Fr, Fl, Lf, Med | Ins | | Also P. edulis, P. mollisima |
@@ -4754,8 +4940,10 @@ Biomass Plant produces large quantities of biomass Bskt Stem, branches, or root 
 | Passionflower | Passiflora caerulea | 7 | ECI | 0 | Fr, Fl | Ins | | |
 | Pea | Pisum sativum | Annual | A CI | 0 | Fr, Fl | Ins | N-fixer | |
 | Perennial pea | Lathyrus latifolius | 6 | DCI | 0.0 | YLF | Ins | N-fixer | |
-| Sarsapanila | Smilax aspera | 8 | ECI | 00 | Sht, Root,<br>Med | | Wbr, Hr, dye | |
-| Scarlet runner<br>bean | Phaseolus coccineus | 9 | D CI | 0 | Fr; Fl | Ins | N-fixer | Grown as annual |
+| Sarsapanila | Smilax aspera | 8 | ECI | 00 | Sht, Root,
+Med | | Wbr, Hr, dye | |
+| Scarlet runner
+bean | Phaseolus coccineus | 9 | D CI | 0 | Fr; Fl | Ins | N-fixer | Grown as annual |
 | Squash | Cucurbita spp. | 9 | DCI | 0 | Fr, Fl | Ins | Gourd | Grown as annual |
 | Wisteria | Wisteria floribunda | 6 | DCI | 0 | | Ins | Bskt, N-fixer | |
 

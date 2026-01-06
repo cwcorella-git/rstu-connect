@@ -1,3 +1,8 @@
+---
+title: "**Against the (new and old) familism down with the family! - humanaesfera**"
+category: "technology-digital-justice"
+---
+
 # **Against the (new and old) familism down with the family! - humanaesfera**
 
 ## **Date:** Unknown
@@ -47,4 +52,5 @@ EXIT: ABOLITION OF THE FAMILYSome people ask us, "What new family will replace t
 | blackmail or threat.7 |
 |-------------------------------------------------------------------------------------------------------------|
 | humanaesfera, November 2015 |
-| [Translated from the original article in Portuguese:Contra o familismo novo e velho - abaixo a<br>família!] |
+| [Translated from the original article in Portuguese:Contra o familismo novo e velho - abaixo a
+família!] |

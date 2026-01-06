@@ -1,3 +1,8 @@
+---
+title: "## **To kick ICE out requires action, to keep them out requires organization**"
+category: "contemporary-analysis"
+---
+
 ## **To kick ICE out requires action, to keep them out requires organization**
 
 ## **Date:** Unknown

@@ -1,3 +1,8 @@
+---
+title: "## [SUPPORT US](https://proteanmag.com/donate)"
+category: "theory"
+---
+
 ## [SUPPORT US](https://proteanmag.com/donate)
 
 ## ![](_page_1_Picture_2.jpeg)

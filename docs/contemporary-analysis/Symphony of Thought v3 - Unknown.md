@@ -1,3 +1,8 @@
+---
+title: "Symphony of Thought"
+category: "contemporary-analysis"
+---
+
 # Symphony of Thought
 
 ## Orchestrating Artificial Cognition
@@ -18,33 +23,59 @@ Subjects: Computer Science | Artificial Intelligence | Ethics and Philosophy
 
 # Table of Contents
 
-| Introduction<br>6 |
+| Introduction
+6 |
 |---------------------------------------------------------|
-| Part 1: The Problem<br>10 |
-| Technological Trends<br>10 |
-| The Human Brain<br>11 |
-| Exponential Growth of Machine Intelligence<br>12 |
-| Machine Autonomy<br>14 |
-| Robotic Integration<br>14 |
-| Quick Recap<br>15 |
-| Modeling Ethics and Morality in Machines<br>16 |
-| Why give machines morality?<br>16 |
-| How will morality solve the Control Problem?<br>17 |
-| Characteristics of a Moral Framework for Machines<br>17 |
-| Quick Recap<br>19 |
-| The Philosophical Zeitgeist<br>20 |
-| Capitalism and Neoliberalism<br>21 |
-| Materialism, Nihilism, and Postmodernism<br>23 |
-| Ethical Paradigms<br>26 |
-| Science of Morality<br>30 |
-| Universal Principles<br>33 |
-| Recap<br>35 |
-| Part 2: Architecture & Methods<br>36 |
-| Thinking Machines<br>36 |
-| Architectural Components<br>38 |
-| Nexus<br>38 |
-| Conductor<br>39 |
-## | Loops<br>40 |
+| Part 1: The Problem
+10 |
+| Technological Trends
+10 |
+| The Human Brain
+11 |
+| Exponential Growth of Machine Intelligence
+12 |
+| Machine Autonomy
+14 |
+| Robotic Integration
+14 |
+| Quick Recap
+15 |
+| Modeling Ethics and Morality in Machines
+16 |
+| Why give machines morality?
+16 |
+| How will morality solve the Control Problem?
+17 |
+| Characteristics of a Moral Framework for Machines
+17 |
+| Quick Recap
+19 |
+| The Philosophical Zeitgeist
+20 |
+| Capitalism and Neoliberalism
+21 |
+| Materialism, Nihilism, and Postmodernism
+23 |
+| Ethical Paradigms
+26 |
+| Science of Morality
+30 |
+| Universal Principles
+33 |
+| Recap
+35 |
+| Part 2: Architecture & Methods
+36 |
+| Thinking Machines
+36 |
+| Architectural Components
+38 |
+| Nexus
+38 |
+| Conductor
+39 |
+## | Loops
+40 |
 
 
 Microservices 42

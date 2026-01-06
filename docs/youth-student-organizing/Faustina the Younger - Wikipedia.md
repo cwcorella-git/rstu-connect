@@ -1,3 +1,8 @@
+---
+title: "**Faustina the Younger**"
+category: "youth-student-organizing"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Faustina_the_Younger)
 
 # **Faustina the Younger**
@@ -18,15 +23,18 @@
 
 | Roman empress consort | |
 |-----------------------|-------------------------------------------------------|
-| Tenure | 7 March 161 – 175<br>(alongside Lucilla from 164–169) |
+| Tenure | 7 March 161 – 175
+(alongside Lucilla from 164–169) |
 ## | Born | c. 130 |
 
 | | Rome, Italy |
 |--------------------------------------|-------------------------------------------|
-| Died | 175/76 (aged c. 45)<br>Halala, Cappadocia |
+| Died | 175/76 (aged c. 45)
+Halala, Cappadocia |
 | Burial | Mausoleum of Hadrian |
 | Spouse | Marcus Aurelius |
-| | (m.<br>145) |
+| | (m.
+145) |
 | Issue | Lucilla |
 | Among others | Faustina |
 | | Fadilla |

@@ -1,3 +1,8 @@
+---
+title: "**Sumak kawsay**"
+category: "contemporary-analysis"
+---
+
 #### [en.m.wikipedia.org](https://en.m.wikipedia.org/wiki/Sumak_kawsay)
 
 # **Sumak kawsay**

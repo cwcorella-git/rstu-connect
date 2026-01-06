@@ -1,25 +1,8 @@
 ---
-title: Culture as creative refusal
-author: David Graeber
-date: '2013'
-pubdate: '2021-11-28T20:59:08'
-language: en
-source_url: >-
-  Retrieved on 28<sup>th</sup> November 2021 from
-  [[https://davidgraeber.org/papers/culture-as-creative-refusal/][davidgraeber.org]]
-notes: >-
-  Published in <em>The Cambridge Journal of Anthropology</em> — September 2013.
-  doi: 10.3167/ca.2013.310201
-topics:
-  - culture
-  - creativity
-  - anthropology
-original_format: muse
-converted_date: '2025-11-08T11:25:03.079060'
-tags:
-  - Culture
-  - Creativity
-  - Anthropology
+title: "Culture as creative refusal"
+author: "David Graeber"
+date: "2013"
+category: "arts-culture-music"
 ---
 
 **Notes:** What I would like to do in this essay is to talk about cultural comparison as an active force in history. That is, I want to address the degree to which cultures are not just conceptions of what the world is like, not just ways of being and acting in the world, but active political projects which often operate by the explicit rejection of other ones.
@@ -213,7 +196,7 @@ I have tried to outline in this essay, somewhat schematically, a cascading serie
 
 ### References
 
-<biblio>
+
 Adelaar, K. A. 1989. Malay Influence on Malagasy: Linguistic and Culture-Historical Inferences. *Oceanic Linguistics* 28, no. 1: 1–46.
 
 Adelaar, K. A. 1991. New Ideas on the Early History of Malagasy. In *Papers in Austronesian Linguistics No.* 1 (ed.) H. Steinhauer, 1–22. Pacific Linguistics Series A, No. 81. Canberra: Department of Linguistics, Research School of Pacific Studies, The Australian National University.
@@ -222,7 +205,7 @@ Adelaar, K. A. 1995a. Malay and Javanese Loanwords in Malagasy, Tagalog and Sira
 
 Adelaar, K. A. 1995b. The Asian Roots of Malagasy: A Linguistic Perspective. *Bijdragen tot de Taal-, Land- en Volkenkunde* 151: 325–56.
 
-Adelaar, K. A. 2005. Borneo as a Cross-Roads for Comparative Austronesian Linguistics. In *The Austronesians: Historical and Comparative Perspectives* (2<sup>nd</sup> edition) (ed.) P. Bellwood, L. J. Fox and D. Tryon, 81–102. Canberra: Australian National University Press. Adelaar, K. A. 2009. Towards an Integrated Theory about the Indonesian Migrations to Madagascar. In *Ancient Human Migrations* (ed.) P. Pergine, I. Peiros and M. Feldman, 149–72. Salt Lake City: University of Utah Press.
+Adelaar, K. A. 2005. Borneo as a Cross-Roads for Comparative Austronesian Linguistics. In *The Austronesians: Historical and Comparative Perspectives* (2nd edition) (ed.) P. Bellwood, L. J. Fox and D. Tryon, 81–102. Canberra: Australian National University Press. Adelaar, K. A. 2009. Towards an Integrated Theory about the Indonesian Migrations to Madagascar. In *Ancient Human Migrations* (ed.) P. Pergine, I. Peiros and M. Feldman, 149–72. Salt Lake City: University of Utah Press.
 
 Allibert, C. 2007. Migration austronésienne et mise en place de la civilisation malgache. Lectures croisées: linguistique, archéologie, génétique, anthropologie culturelle. *Diogène* 218: 6–17.
 
@@ -338,7 +321,7 @@ Wengrow, D. 2001. The Evolution of Simplicity: Aesthetic Labour and Social Chang
 
 Wengrow, D. 2010. *What Makes Civilization? The Ancient Near East and the Future of the West*. New York, Oxford University Press.
 
-Wengrow, D. 2011. ‘Archival’ and ‘Sacrificial’ Economies in Bronze Age Eurasia: An Interactionist Approach to the Hoarding of Metals. In <em>Interweaving Worlds: Systemic Interactions in Eurasia, 7<sup>th</sup> to the 1<sup>st</sup> Millennia BC</em> (ed.) T. C. Wilkinson, S. Sherratt and J. Bennet, 135–44. Oxbow: Oxford.
+Wengrow, D. 2011. ‘Archival’ and ‘Sacrificial’ Economies in Bronze Age Eurasia: An Interactionist Approach to the Hoarding of Metals. In Interweaving Worlds: Systemic Interactions in Eurasia, 7th to the 1st Millennia BC (ed.) T. C. Wilkinson, S. Sherratt and J. Bennet, 135–44. Oxbow: Oxford.
 
 Wilson, P. L. 1998. The Shamanic Trace. In *Escape From the Nineteenth Century and Other Essays*, 72–142. Brooklyn: Autonomedia.
 
@@ -349,4 +332,3 @@ Wright, H. T. and C. Radimilahy 2005. L’évolution des systèmes d’installat
 Wright, H. T. and J. Rakotoarisoa 2003. The Rise of Malagasy societies: New Developments in the Archaeology of Madagascar. In *The Natural History of Madagascar* (ed.) S. M. Goodman and J. P. Bensted, 112–19. Chicago: University of Chicago Press.
 
 Wright, H. T. and P. Verin 1999. Madagascar and Indonesia: New Evidence from Archaeology and Linguistics. *Indo-Pacific Prehistory Association Bulletin* 18: 35–41.
-</biblio>

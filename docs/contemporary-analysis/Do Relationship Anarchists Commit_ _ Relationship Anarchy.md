@@ -1,3 +1,8 @@
+---
+title: "## [relationship-anarchy.com](https://relationship-anarchy.com/2016-6-20-do-relationship-anarchists-"
+category: "contemporary-analysis"
+---
+
 ## [relationship-anarchy.com](https://relationship-anarchy.com/2016-6-20-do-relationship-anarchists-commit/)
 
 ## **Do Relationship Anarchists Commit? | Relationship Anarchy**
@@ -6,7 +11,8 @@
 
 3–4 minutes
 
-## <br />
+## 
+
 
 Hi, I'm Kale. Today I want to clear up some misconceptions about relationship anarchy and commitment.
 

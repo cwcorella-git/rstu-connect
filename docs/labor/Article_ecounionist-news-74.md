@@ -1,13 +1,8 @@
 ---
-title: Ecounionist News 74
-date: 2025
-author: Industrial Workers of the World
-tags:
-  - organizing
-  - strikes
-  - unions
-  - prisons
-  - labor
+title: "Ecounionist News 74"
+author: "Industrial Workers of the World"
+date: "2025"
+category: "labor"
 ---
 
 # Ecounionist News 74

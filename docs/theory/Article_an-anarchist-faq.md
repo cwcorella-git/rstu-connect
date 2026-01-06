@@ -1,13 +1,8 @@
 ---
-title: An Anarchist Faq
-date: 2025
-author: 'Dave Neal, Ed Boraas, Gary Elkin, Iain Mckay'
-tags:
-  - organizing
-  - strikes
-  - unions
-  - tenants
-  - housing
+title: "An Anarchist Faq"
+author: "Dave Neal, Ed Boraas, Gary Elkin, Iain Mckay"
+date: "2025"
+category: "theory"
 ---
 
 # An Anarchist Faq

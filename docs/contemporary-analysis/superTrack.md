@@ -1,3 +1,8 @@
+---
+title: "Super Track: Motion Tracking for Physically Simulated Characters using Supervised Learning"
+category: "contemporary-analysis"
+---
+
 # Super Track: Motion Tracking for Physically Simulated Characters using Supervised Learning
 
 LEVI FUSSELL, Ubisoft La Forge and The University of Edinburgh KEVIN BERGAMIN, Ubisoft La Forge, Ubisoft, Canada DANIEL HOLDEN, Ubisoft La Forge, Ubisoft, Canada

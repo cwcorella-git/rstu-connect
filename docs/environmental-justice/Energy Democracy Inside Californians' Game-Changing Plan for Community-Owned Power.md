@@ -1,3 +1,8 @@
+---
+title: "## **Energy Democracy: Inside Californians' Game-Changing Plan for Community-Owned Power**"
+category: "environmental-justice"
+---
+
 ## **Energy Democracy: Inside Californians' Game-Changing Plan for Community-Owned Power**
 
 ## **Date:** Thu, 03/31/2016 - 19:07

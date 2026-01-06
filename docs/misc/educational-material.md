@@ -1,14 +1,10 @@
 ---
-date: 2025
-author: Unknown
-tags:
-  - organizing
-  - unions
-  - tenants
-  - housing
-  - rent
 title: "educational-material"
+author: "Unknown"
+date: "2025"
+category: "misc"
 ---
+
 # educational-material
 
 *Converted from: `./educational-material.pdf`*  
@@ -47,8 +43,6 @@ title: "educational-material"
                             Quick Links
 
        Meeting Notes                           All Draft Documents
-
-
 
 
                              In Progress
@@ -95,4 +89,3 @@ Brief Overview of How to Organize a Tenants Association (deadline July
        - Or make a short version and reprint as updates happen?
 
 ---
-

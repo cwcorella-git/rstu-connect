@@ -1,3 +1,8 @@
+---
+title: "**Episode 25: The Clash/**"
+category: "contemporary-analysis"
+---
+
 # **Episode 25: The Clash/**
 
 **Source:** https://www.meaningcrisis.co/ep-25-awakening-from-the-meaning-crisis-the-clash/

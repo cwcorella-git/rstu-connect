@@ -1,3 +1,8 @@
+---
+title: "**The paradox of tolerance: do we have to tolerate intolerant?**"
+category: "contemporary-analysis"
+---
+
 #### [uisjournal.com](https://uisjournal.com/the-paradox-of-tolerance-do-we-have-to-tolerate-intolerant/)
 
 # **The paradox of tolerance: do we have to tolerate intolerant?**

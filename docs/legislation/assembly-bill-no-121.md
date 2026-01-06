@@ -1,13 +1,10 @@
 ---
-date: 2023
-author: Assembly Bill No
-tags:
-  - legislation
-  - Nevada
-  - rent
-  - prisons
 title: "assembly-bill-no-121"
+author: "Assembly Bill No"
+date: "2023"
+category: "legislation"
 ---
+
 # assembly-bill-no-121
 
 *Converted from: `./assembly-bill-no-121.pdf`*  
@@ -74,8 +71,6 @@ ability to update the completed form as necessary. If an offender in the custody
 the Department is hospitalized for or diagnosed with a critical medical condition
 
 
-
-
    -                                                           82nd Session (2023)
 
 ---
@@ -110,8 +105,6 @@ conform with the provisions of sections 2-4.
  EXPLANATION – Matter in bolded italics is new; matter between brackets [omitted material] is material to be omitted.
 
 
-
-
    THE PEOPLE OF THE STATE OF NEVADA, REPRESENTED IN
       SENATE AND ASSEMBLY, DO ENACT AS FOLLOWS:
 
@@ -139,7 +132,6 @@ the health and safety of the staff or offenders in institutions or
 facilities.
    4. As soon as reasonably practicable after adopting a
 regulation pursuant to subsection 2, the Director shall submit the
-
 
 
    -                                                                                  82nd Session (2023)
@@ -201,7 +193,6 @@ alcohol overdose.
 in NRS 453C.150.
 
 
-
    -                                               82nd Session (2023)
 
 ---
@@ -261,7 +252,6 @@ by a provider of health care that:
 limitation, a drug or alcohol overdose.
 
 
-
    -                                               82nd Session (2023)
 
 ---
@@ -292,8 +282,6 @@ medication is exhausted.
 practicable, amend or repeal any existing regulations that conflict or
 are inconsistent with the provisions of sections 2, 3 and 4 of this act.
                               20   ~~~~~   23
-
-
 
 
    -                                                82nd Session (2023)
@@ -332,4 +320,3 @@ are inconsistent with the provisions of sections 2, 3 and 4 of this act.
 
 
 ---
-

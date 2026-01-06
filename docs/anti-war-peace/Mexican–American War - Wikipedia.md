@@ -1,3 +1,8 @@
+---
+title: "**Mexican–American War**"
+category: "anti-war-peace"
+---
+
 ## ![](_page_0_Picture_2.jpeg)
 
 # **Mexican–American War**

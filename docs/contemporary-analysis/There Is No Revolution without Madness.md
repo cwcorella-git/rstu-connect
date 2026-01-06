@@ -1,3 +1,8 @@
+---
+title: "## **There Is No Revolution without Madness.**"
+category: "contemporary-analysis"
+---
+
 ## **There Is No Revolution without Madness.**
 
 ## **Date:** 2023-11-08
@@ -20,24 +25,38 @@ And the third thing we (those reading, writing, watching) will do together is co
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | minds as we move towards means of |
 | world-making |
-| . Because: there is a world coming after this one. I consider it inevitable. Not "wishful thinking,"<br>not the idealism or hubris of being youg— a new world is coming like the dawn. It's like a baby<br>being born. It's inevitable. Capitalism is crumbling around us; the world that comes after this<br>one is up to us. But |
+| . Because: there is a world coming after this one. I consider it inevitable. Not "wishful thinking,"
+not the idealism or hubris of being youg— a new world is coming like the dawn. It's like a baby
+being born. It's inevitable. Capitalism is crumbling around us; the world that comes after this
+one is up to us. But |
 | something |
 | is coming. |
 | At the top of this essay, I remind us all: |
 | to call for revolution is to call for death. |
 | There is no iteration of Western, sanitized Reason that will co-sign the destruction of |
 | itself |
-| — the system that keeps us at the mercy of our extractors. Death makes the ground fertile for<br>life, as per the design of nature. |
-| Thesis: there is no future that belongs to the people in which we stay Sane. Revolutionary<br>thought, intent, and action requires insanity. |
+| — the system that keeps us at the mercy of our extractors. Death makes the ground fertile for
+life, as per the design of nature. |
+| Thesis: there is no future that belongs to the people in which we stay Sane. Revolutionary
+thought, intent, and action requires insanity. |
 
 | I am ahead of myself. |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | First, the context. |
 | This essay marks the start of the Revolutionary Healers series. |
-| Originally, when I planned the Revolutionary Healers series, I did so to contextualize the<br>decision to practice mental healthcare for free. The works from my unwavering faith in the<br>world I see coming compel my hands to do what I have been previously told is impossible. I<br>spent the entire arch of my personal story dreaming aloud of healthcare for free, and was told<br>by everyone Reasonable it was not possible |
-| . In part, I deliver this essay to argue that to negotiate Reasonability is to negotiate with<br>terrorists. |
+| Originally, when I planned the Revolutionary Healers series, I did so to contextualize the
+decision to practice mental healthcare for free. The works from my unwavering faith in the
+world I see coming compel my hands to do what I have been previously told is impossible. I
+spent the entire arch of my personal story dreaming aloud of healthcare for free, and was told
+by everyone Reasonable it was not possible |
+| . In part, I deliver this essay to argue that to negotiate Reasonability is to negotiate with
+terrorists. |
 | Within world-making, the ends are the means. |
-| Every decision I make propels me forward, shifts my timeline, grants me access to new and<br>different modes of being. I am just as capable of world-making as you, as our neighbors, or<br>our statesman in the ruling class. I study the work of people that came before to guide my<br>steps forward in the decisions I make (that lead to the world my hands touch). Two<br>foundational principles from the words of Che Guevara: |
+| Every decision I make propels me forward, shifts my timeline, grants me access to new and
+different modes of being. I am just as capable of world-making as you, as our neighbors, or
+our statesman in the ruling class. I study the work of people that came before to guide my
+steps forward in the decisions I make (that lead to the world my hands touch). Two
+foundational principles from the words of Che Guevara: |
 | On Revolutionary Medicine |
 | : |
 | For one to be a revolutionary doctor or to be a revolutionary at all, |
@@ -51,10 +70,14 @@ And the third thing we (those reading, writing, watching) will do together is co
 | revolutionary theory |
 | , there is |
 | no revolutionary movement. |
-| So I do not consider revolution or world-making as a young person because I romanticize<br>war— |
+| So I do not consider revolution or world-making as a young person because I romanticize
+war— |
 | once again, I cannot stress enough, |
 | to call for revolution is to call for death. |
-| I consider revolutionary theory and praxis because I prepare for when war comes to my door,<br>as it must eventually when you live in a country whose the largest asset and most lucrative<br>export is the US Military. Or when you are from a country that is considered "war-torn" as<br>foreign powers |
+| I consider revolutionary theory and praxis because I prepare for when war comes to my door,
+as it must eventually when you live in a country whose the largest asset and most lucrative
+export is the US Military. Or when you are from a country that is considered "war-torn" as
+foreign powers |
 | quietly ransack the diamonds and gold in droves. |
 | And. |
 | Beyond surviving the violences of slavery-backed capitalism, I consider world-making to be |
@@ -73,7 +96,8 @@ universally-accessible work. We currently wade through a world order born from t
 | the person I dream of being in as real a time, I decided to practice for free and study in public. |
 | [Editor's note: if you're new here, I have my |
 | master's in clinical social work |
-| and a concentration in health administration and policy. Dissemination of accessible<br>healthcare, in this case mental healthcare, is kinda my jam and jelly.] |
+| and a concentration in health administration and policy. Dissemination of accessible
+healthcare, in this case mental healthcare, is kinda my jam and jelly.] |
 ## | |
 
 The announcement came after months of ruminating, of feeling unsatisfied, of considering the financial precarity, attempting to charge (poorly) and finding that I had no other choice but to find a way to provide my works for free. Work done for the benefit of the community needs to be accessible to the community at large; all cost is a barrier; cost eradicated. Done.
@@ -100,11 +124,16 @@ It might send you staggering across asylum hallways, heckled by disembodied voic
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | How to Go Mad without Losing Your Mind: Madness and Black Radical Creativity |
 | mandatory for world-building praxis. |
-| When discussing revolution, we think about violence first. We think about [joke about, are<br>tempted by] the burning and the bombing and the tearing down—and yes. Duh. All of that is<br>necessary [and I do repeat: necessary] |
+| When discussing revolution, we think about violence first. We think about [joke about, are
+tempted by] the burning and the bombing and the tearing down—and yes. Duh. All of that is
+necessary [and I do repeat: necessary] |
 | for the purpose |
 | of |
 | having a new world stand on top |
-| of fertile ground. Death makes the ground fertile by the design of nature. "Civilians" become<br>martyrs because we, the world-makers left behind, do not allow them to die for the gain of<br>colonizers. What do we want? What do we build? Do we remember how crucial the work of<br>honing our imagination is as |
+| of fertile ground. Death makes the ground fertile by the design of nature. "Civilians" become
+martyrs because we, the world-makers left behind, do not allow them to die for the gain of
+colonizers. What do we want? What do we build? Do we remember how crucial the work of
+honing our imagination is as |
 | part |
 | of revolutionary theory? Thus: |
 | How to Go Mad |
@@ -112,13 +141,17 @@ It might send you staggering across asylum hallways, heckled by disembodied voic
 
 | means |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| to think up world makings we cannot yet see/taste/touch, what do we take up arms for? What<br>do you burn and fight and kill for if you cannot |
+| to think up world makings we cannot yet see/taste/touch, what do we take up arms for? What
+do you burn and fight and kill for if you cannot |
 | taste |
 | the sweet plum of freedom bursting on the other side? Revolution is to call for |
 | death you cannot hide |
-| for the sweet plums ripened on the other side. The first and most necessary death of<br>revolution is the death of all semblance of Reason. |
+| for the sweet plums ripened on the other side. The first and most necessary death of
+revolution is the death of all semblance of Reason. |
 | Questions for your reading and my writing consideration: |
-| What is Reason? What is un Reason? What kinds of madness are there? Which madness(es)<br>calls to us? Why is it so important that we reject the lens of the current world-markers when<br>thinking about what freedom will actually cost us? |
+| What is Reason? What is un Reason? What kinds of madness are there? Which madness(es)
+calls to us? Why is it so important that we reject the lens of the current world-markers when
+thinking about what freedom will actually cost us? |
 | What is Reason? |
 | From the text |
 | : For the purposes of this study, I distinguish reason ( |
@@ -190,24 +223,36 @@ With this, I wish to briefly jump forward in the text a tad to highlight an inst
 | clears another |
 | genocidal occupation of Haiti |
 | through the use of Ugandan and Rwandan soldiers. |
-| Note: I might input spiritual madness as a category separately, due to the spiritual bloomings<br>of voodoo in the Haitian revolution. I use the word "bloomings" not because voodoo found its<br>birthplace in the burgeoning nation, but how |
+| Note: I might input spiritual madness as a category separately, due to the spiritual bloomings
+of voodoo in the Haitian revolution. I use the word "bloomings" not because voodoo found its
+birthplace in the burgeoning nation, but how |
 | voodoo played a massive part in the ceremony which inaugurated the war. |
-| Spiritual practices that honor ancestral lines, venerate and strengthen deities and spiritual<br>figures outside of the Judeo-Christian pantheon, how intensely white genocidal world-makers<br>shroud indigenous traditional religions and spiritual praxes across the globe with complete<br>demonization— as if we don't |
+| Spiritual practices that honor ancestral lines, venerate and strengthen deities and spiritual
+figures outside of the Judeo-Christian pantheon, how intensely white genocidal world-makers
+shroud indigenous traditional religions and spiritual praxes across the globe with complete
+demonization— as if we don't |
 | sacrifice children on the altar of white capitalism |
 | all the time |
 
 | — constitutes its own type of madness. But again. That's an entirely separate essay. |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Psychosocial Madness: |
-| radical deviation from the normal within a given psychosocial milieu. Any person or practice<br>that perplexes and vexes the psycho-normative status quo is liable to be labeled |
+| radical deviation from the normal within a given psychosocial milieu. Any person or practice
+that perplexes and vexes the psycho-normative status quo is liable to be labeled |
 | crazy |
 | |
-| Psychosocial madness is one where an individual person (or a group of people) deviating<br>from the status quo is policed by the collective, who legitimize themselves not through elite<br>education or a degree of expertise, but from the Reasonable understanding that they are<br>within correct and polite society. Individually felt, communally-policed. |
+| Psychosocial madness is one where an individual person (or a group of people) deviating
+from the status quo is policed by the collective, who legitimize themselves not through elite
+education or a degree of expertise, but from the Reasonable understanding that they are
+within correct and polite society. Individually felt, communally-policed. |
 | What madness(es) call to us? Collectively and personally? |
 | So then, where is Reason in liberation? Let's focus in on Nat Turner's Rebellion. |
-| Nat Turner was a "self-avowed prophet" (20)— though in my personal text, I scribbled out the<br>"self-avowed" because it felt too much like |
+| Nat Turner was a "self-avowed prophet" (20)— though in my personal text, I scribbled out the
+"self-avowed" because it felt too much like |
 | allegedly— |
-| who led his constituency to kill their genocidal overseers. Around sixty total fell dead at the<br>hands of people they [white landowners, allegedly "civilians"] butchered slowly for the<br>purposes of labor extraction and capital gains. |
+| who led his constituency to kill their genocidal overseers. Around sixty total fell dead at the
+hands of people they [white landowners, allegedly "civilians"] butchered slowly for the
+purposes of labor extraction and capital gains. |
 ## | Nothing |
 
 about this sort of armed resistance was Reasonable, and ( because)

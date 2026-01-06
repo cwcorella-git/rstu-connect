@@ -1,3 +1,8 @@
+---
+title: "Some Possible Topics for a Workshop on Anarchism"
+category: "contemporary-analysis"
+---
+
 ## James Herod
 
 # Some Possible Topics for a Workshop on Anarchism

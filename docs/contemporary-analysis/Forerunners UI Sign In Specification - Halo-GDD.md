@@ -1,6 +1,13 @@
+---
+title: "**Table of Contents**"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
-| Forerunners<br>HUD<br>Specification | | | | |
+| Forerunners
+HUD
+Specification | | | | |
 |-------------------------------------|--------------------------------|--|--|--|
 | Design | David Candland, Jaime Griesmer | | | |
 | Engineering | Adrian Perez | | | |
@@ -22,7 +29,9 @@ This document is a UI specification that covers the HUD features for Halo 3.
 | 2 | Ove | rview | . 5 |
 | | 2.1 | Scope | 5 |
 | | 2.2. | Related Specs | |
-| | 2.3<br>2.3.7<br>2.3.2 | | 5 |
+| | 2.3
+2.3.7
+2.3.2 | | 5 |
 | 3 | Mul | tiple Resolution Support | . 7 |
 | | 3.1 | Full resolution support: | 7 |
 | | 3.2 | Multiple element support: | 8 |
@@ -64,7 +73,8 @@ This document is a UI specification that covers the HUD features for Halo 3.
 | 11.1 | Mapping to curvature: | 19 |
 | 11.2 | Visor elements: | 20 |
 | 11.3 | Movement: | 20 |
-| 11.4<br>11 | Static: | |
+| 11.4
+11 | Static: | |
 | 11.5 | Shield meter: | 21 |
 | 12 | Waypoints/Objectives | 22 |
 | 12.1 | Waypoint effects: | 22 |
@@ -75,25 +85,96 @@ This document is a UI specification that covers the HUD features for Halo 3.
 | 13.4 | Waypoints | 24 |
 | | | |
 | 13.5 | Colors and shapes | 24 |
-| 13.5<br><b>14</b> | Colors and shapes | |
+| 13.5
+14 | Colors and shapes | |
 | | | 24 |
-| 14 | Special animations Coming online: | . <b>24</b><br>24 |
-| <b>14</b><br>14.1 | Special animations | |
-| <b>14</b><br>14.1<br>14.2 | Special animations | |
-| 14.1<br>14.2<br>15<br>15.1 | Special animations Coming online: Swapping weapons: Screen Effects Effects: | |
-| 14.1<br>14.2<br>15<br>15.1 | Special animations Coming online: Swapping weapons: Screen Effects Effects: Crosshairs | |
-| 14.1<br>14.2<br>15<br>15.1<br>16<br>16.1 | Special animations. Coming online: Swapping weapons: Screen Effects Effects: Crosshairs Standard: | |
-| 14.1<br>14.2<br>15<br>15.1 | Special animations Coming online: Swapping weapons: Screen Effects Effects: Crosshairs Standard: Lock-on: | |
-| 14.1<br>14.2<br>15<br>15.1<br>16.1<br>16.2<br>16.3 | Special animations. Coming online: Swapping weapons: Screen Effects Effects: Crosshairs Standard: Lock-on: Map Editor: | |
-| 14.1<br>14.2<br>15<br>15.1<br>16.1<br>16.2<br>16.3 | Special animations Coming online: Swapping weapons: Screen Effects Effects: Crosshairs Standard: Lock-on: Map Editor: Camera Cycling Error! Bookmark | |
-| 14.1<br>14.2<br>15<br>15.1<br>16.1<br>16.2<br>16.3<br>17 | Special animations Coming online: Swapping weapons: Screen Effects Effects: Crosshairs Standard: Lock-on: Map Editor: Camera Cycling Error! Bookmark Choosing a player: Error! Bookmark | |
-| 14.1<br>14.2<br>15<br>15.1<br>16.1<br>16.2<br>16.3<br>17<br>17.1 | Special animations Coming online: Swapping weapons: Screen Effects Effects: Crosshairs Standard: Lock-on: Map Editor: Camera Cycling Choosing a player: Error! Bookmark Choosing a player: Error! Bookmark | |
-| 14.1<br>14.2<br>15<br>15.1<br>16.1<br>16.2<br>16.3<br>17<br>17.1<br>18<br>18.1<br>18<br>18 | Special animations Coming online: Swapping weapons: Screen Effects Effects: Crosshairs Standard: Lock-on: Map Editor: Camera Cycling Error! Bookmark Choosing a player: Error! Bookmark | |
-| 14.1<br>14.2<br>15<br>15.1<br>16.1<br>16.2<br>16.3<br>17<br>17.1<br>18<br>18.1<br>18<br>18 | Special animations Coming online: Swapping weapons: Screen Effects Effects: Crosshairs Standard: Lock-on: Map Editor: Camera Cycling Choosing a player: Mini Scoreboard Multiplayer Scoreboard: 3.1.1 Variant name 3.1.2 Progress bars 3.1.3 Score. 3.1.4 Possession marker | |
+| 14 | Special animations Coming online: | . 24
+24 |
+| 14
+14.1 | Special animations | |
+| 14
+14.1
+14.2 | Special animations | |
+| 14.1
+14.2
+15
+15.1 | Special animations Coming online: Swapping weapons: Screen Effects Effects: | |
+| 14.1
+14.2
+15
+15.1 | Special animations Coming online: Swapping weapons: Screen Effects Effects: Crosshairs | |
+| 14.1
+14.2
+15
+15.1
+16
+16.1 | Special animations. Coming online: Swapping weapons: Screen Effects Effects: Crosshairs Standard: | |
+| 14.1
+14.2
+15
+15.1 | Special animations Coming online: Swapping weapons: Screen Effects Effects: Crosshairs Standard: Lock-on: | |
+| 14.1
+14.2
+15
+15.1
+16.1
+16.2
+16.3 | Special animations. Coming online: Swapping weapons: Screen Effects Effects: Crosshairs Standard: Lock-on: Map Editor: | |
+| 14.1
+14.2
+15
+15.1
+16.1
+16.2
+16.3 | Special animations Coming online: Swapping weapons: Screen Effects Effects: Crosshairs Standard: Lock-on: Map Editor: Camera Cycling Error! Bookmark | |
+| 14.1
+14.2
+15
+15.1
+16.1
+16.2
+16.3
+17 | Special animations Coming online: Swapping weapons: Screen Effects Effects: Crosshairs Standard: Lock-on: Map Editor: Camera Cycling Error! Bookmark Choosing a player: Error! Bookmark | |
+| 14.1
+14.2
+15
+15.1
+16.1
+16.2
+16.3
+17
+17.1 | Special animations Coming online: Swapping weapons: Screen Effects Effects: Crosshairs Standard: Lock-on: Map Editor: Camera Cycling Choosing a player: Error! Bookmark Choosing a player: Error! Bookmark | |
+| 14.1
+14.2
+15
+15.1
+16.1
+16.2
+16.3
+17
+17.1
+18
+18.1
+18
+18 | Special animations Coming online: Swapping weapons: Screen Effects Effects: Crosshairs Standard: Lock-on: Map Editor: Camera Cycling Error! Bookmark Choosing a player: Error! Bookmark | |
+| 14.1
+14.2
+15
+15.1
+16.1
+16.2
+16.3
+17
+17.1
+18
+18.1
+18
+18 | Special animations Coming online: Swapping weapons: Screen Effects Effects: Crosshairs Standard: Lock-on: Map Editor: Camera Cycling Choosing a player: Mini Scoreboard Multiplayer Scoreboard: 3.1.1 Variant name 3.1.2 Progress bars 3.1.3 Score. 3.1.4 Possession marker | |
 
 ## ![](_page_3_Picture_0.jpeg)
 
-| 20 | Document<br>History | 29 |
+| 20 | Document
+History | 29 |
 |------|-------------------------|----|
 | 19.2 | Capture/Arming meter 29 | |
 | 19.1 | Territory indicators 28 | |
@@ -722,10 +803,12 @@ In games that require a meter to indicate progress (such as capturing a territor
 
 ## ![](_page_28_Picture_4.jpeg)
 
-| 19Document<br>History | | | | | | |
+| 19Document
+History | | | | | | |
 |-----------------------|-----------|----------|--------------------------------------------------|--|--|--|
 | Version | Date | Author | Summary | | | |
 | 0.1 | 5/12/2006 | davidcan | Initial draft | | | |
-| 0.3 | 5/15/2006 | Allenm | Formatting edits<br>Added and updated features. | | | |
+| 0.3 | 5/15/2006 | Allenm | Formatting edits
+Added and updated features. | | | |
 | 0.5 | 6/13/06 | Davidcan | Updated based on feedback, added minor features. | | | |
 | 0.7 | 6/20/06 | Davidcan | Updated based on feedback in spec review. | | | |

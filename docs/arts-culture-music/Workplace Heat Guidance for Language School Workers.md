@@ -1,3 +1,8 @@
+---
+title: "## **Workplace Heat: Guidance for Language School Workers**"
+category: "arts-culture-music"
+---
+
 ## **Workplace Heat: Guidance for Language School Workers**
 
 ## **Date:** Thu, 07/14/2022 - 00:00
@@ -22,17 +27,22 @@ Workplace temperature is covered under an employer's general duty of care toward
 
 What should my employer do?
 
-| All employers are required to undertake a risk assessment once a risk – such as high heat –<br>has been identified. |
+| All employers are required to undertake a risk assessment once a risk – such as high heat –
+has been identified. |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Risk assessments must be undertaken by a |
 | competent person |
-| and employees should be consulted in any assessment. The results of the assessment should<br>be available to staff. |
+| and employees should be consulted in any assessment. The results of the assessment should
+be available to staff. |
 | With any workplace risk, employers should implement the " |
 | hierarchy of controls |
 | " to manage the risk. |
 | What can I do? |
-| If you're concerned about the temperature in your workplace, you should raise the matter with<br>management. This is especially the case if you are pregnant or you have a long-term<br>condition that may be affected by high heat. Don't ever suffer in silence! |
-| You may want to consider raising your concern collectively with your workmates. This can be<br>done with a petition, a group email, or a request for a staff meeting. |
+| If you're concerned about the temperature in your workplace, you should raise the matter with
+management. This is especially the case if you are pregnant or you have a long-term
+condition that may be affected by high heat. Don't ever suffer in silence! |
+| You may want to consider raising your concern collectively with your workmates. This can be
+done with a petition, a group email, or a request for a staff meeting. |
 | If there is a recognised union in your workplace, employers are required to create a |
 | workplace safety committee |
 

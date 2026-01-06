@@ -1,3 +1,8 @@
+---
+title: "After the Revolution"
+category: "contemporary-analysis"
+---
+
 ## Anark
 
 # After the Revolution
@@ -8,7 +13,7 @@ Introduction Preface Goals Proposal Process Individual Workplace Community Munic
 
 #### Introduction
 
-The following is the script of the video I published on my channel Anark. If you would like to watch that video, it is here:<https://youtu.be/s MoTWFZjoYA>
+The following is the script of the video I published on my channel Anark. If you would like to watch that video, it is here:
 
 Minor edits have been made to the script to instead refer to itself as an essay instead of a video. Other than this, the content has remained the same and may be seen as a copy of the video, in text form, that can be distributed wholly in place of the video.
 

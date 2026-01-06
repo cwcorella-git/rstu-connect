@@ -1,3 +1,8 @@
+---
+title: "**Fighting for Our Lives**"
+category: "contemporary-analysis"
+---
+
 ## **Noam Deguerre, Crimeth Inc. Writers' Bloc**
 
 # **Fighting for Our Lives**
@@ -296,4 +301,4 @@ When one of us defies the protection racket of public opinion and "necessity" an
 
 See you on the front page of the last newspaper those motherfuckers ever print—
 
-<crimethinc.com/2017/11/28/fi[ghting-for-our-lives-an-anarchist-primer>](https://crimethinc.com/2017/11/28/fighting-for-our-lives-an-anarchist-primer)
+](https://crimethinc.com/2017/11/28/fighting-for-our-lives-an-anarchist-primer)

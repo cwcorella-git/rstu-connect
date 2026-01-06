@@ -1,3 +1,8 @@
+---
+title: "## **Floods, climate change and job cuts**"
+category: "environmental-justice"
+---
+
 ## **Floods, climate change and job cuts**
 
 **Date:** Wed, 12/30/2015 - 15:23 **Source:** https://ecology.iww.org/node/1450**Tags:** green jobs, climate justice, just transition, COP21, climate change, green unionism, United Kingdom (UK) By Martin Empson - One Million Climate Jobs , December 28, 2015

@@ -1,3 +1,8 @@
+---
+title: "**Five Houses - Dora Schemme and Barbara Rosenberg**"
+category: "contemporary-analysis"
+---
+
 # **Five Houses - Dora Schemme and Barbara Rosenberg**
 
 ## **Date:** Unknown

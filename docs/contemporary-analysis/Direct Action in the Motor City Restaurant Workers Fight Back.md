@@ -1,3 +1,8 @@
+---
+title: "## **Direct Action in the Motor City: Restaurant Workers Fight Back**"
+category: "contemporary-analysis"
+---
+
 ## **Direct Action in the Motor City: Restaurant Workers Fight Back**
 
 ## **Date:** Unknown

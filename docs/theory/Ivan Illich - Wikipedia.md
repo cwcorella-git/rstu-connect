@@ -1,3 +1,8 @@
+---
+title: "**Ivan Illich**"
+category: "theory"
+---
+
 ## ![](_page_0_Picture_2.jpeg)
 
 # **Ivan Illich**

@@ -1,3 +1,8 @@
+---
+title: "Dedication to my friend Atticus"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 ## Ancient Wisdom for the Second Half of Life

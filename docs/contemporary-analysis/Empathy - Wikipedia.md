@@ -1,3 +1,8 @@
+---
+title: "**Empathy**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Empathy)
 
 # **Empathy**

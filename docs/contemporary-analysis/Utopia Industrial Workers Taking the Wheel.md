@@ -1,3 +1,8 @@
+---
+title: "## **Utopia: Industrial Workers Taking the Wheel**"
+category: "contemporary-analysis"
+---
+
 ## **Utopia: Industrial Workers Taking the Wheel**
 
 ## **Date:** Thu, 01/12/2017 - 16:35

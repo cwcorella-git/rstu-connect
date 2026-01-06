@@ -1,3 +1,8 @@
+---
+title: "## **"If Gezi never happened, the anger at mass murder at Soma could not have burst forth from the p"
+category: "technology-digital-justice"
+---
+
 ## **"If Gezi never happened, the anger at mass murder at Soma could not have burst forth from the people"**
 
 ## **Date:** Unknown
@@ -70,19 +75,26 @@ Excellent article. I hope you won't mind if we republish it on http://ecology.iw
 | 11 years 5 months ago |
 | In reply to Welcomebylibcom.org |
 | Great article. |
-| I'll link this, even though it's a bit of a long read and less from a movement perspective and<br>more by way of a backgrounder on Western media's puzzlement about what to make of<br>Erdogan's increasingly despotic tendencies. Jadaliyya: Stillbirth: The New<br>Liberal-Conservative Mobilization in Turkey |
+| I'll link this, even though it's a bit of a long read and less from a movement perspective and
+more by way of a backgrounder on Western media's puzzlement about what to make of
+Erdogan's increasingly despotic tendencies. Jadaliyya: Stillbirth: The New
+Liberal-Conservative Mobilization in Turkey |
 | ocelot |
 | 11 years 5 months ago |
 | In reply to Welcomebylibcom.org |
-| edited: the comment originally posted here was a mislocated comment to this thread<br>http://libcom.org/news/anarchism-context-civil-war-08052014|
-| (I would link to the individual comment, but individual comment links seem unavailable at the<br>moment?) |
+| edited: the comment originally posted here was a mislocated comment to this thread
+http://libcom.org/news/anarchism-context-civil-war-08052014|
+| (I would link to the individual comment, but individual comment links seem unavailable at the
+moment?) |
 
 | Chilli Sauce |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 11 years 5 months ago |
 | In reply to Welcomebylibcom.org |
-| Interesting articleherethat relates to the second question about the role of the union at the<br>mine. |
-| Basically, miners' protests forced a regional official to resign and some miners are refusing to<br>go back to work without further safety checks. Worth a read. |
+| Interesting articleherethat relates to the second question about the role of the union at the
+mine. |
+| Basically, miners' protests forced a regional official to resign and some miners are refusing to
+go back to work without further safety checks. Worth a read. |
 | Synthesis anar… |
 | 5 years 6 months ago |
 | In reply to Welcomebylibcom.org |

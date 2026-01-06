@@ -1,3 +1,8 @@
+---
+title: "## **Worker Solidarity with Camp Makwa and the Movement for Environmental Justice**"
+category: "environmental-justice"
+---
+
 ## **Worker Solidarity with Camp Makwa and the Movement for Environmental Justice**
 
 ## **Date:** Tue, 12/19/2017 - 18:50

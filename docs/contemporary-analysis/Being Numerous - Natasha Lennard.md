@@ -1,3 +1,8 @@
+---
+title: "BEING NUMEROUS SSAYS ()/V"
+category: "contemporary-analysis"
+---
+
 ## "Compassionate and merciless."
 
 ## —ANDREA LONG CHU
@@ -1235,4 +1240,4 @@ Yiannopoulos, Milo, 12, 21, 46, 77–78
 Younge, Gary, 13
 "Your Sex Is Not Radical" (Nair), 95
 Youth Act, 51
-## 
+##

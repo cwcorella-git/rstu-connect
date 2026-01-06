@@ -1,17 +1,29 @@
+---
+title: "**What I Believe**"
+category: "feminist-theory"
+---
+
 # **What I Believe**
 
 ## Emma Goldman
 
 # **Contents**
 
-| I. As To Property<br> | |
+| I. As To Property
+ | |
 |-------------------------------------|--|
-| II. As To Government<br> | |
-| III. As To Militarism<br> | |
-| IV. As To Free Speech and Press<br> | |
-| V. As To The Church<br> | |
-| VI. As To Marriage And Love<br> | |
-## | VII. As To Acts Of Violence<br> | |
+| II. As To Government
+ | |
+| III. As To Militarism
+ | |
+| IV. As To Free Speech and Press
+ | |
+| V. As To The Church
+ | |
+| VI. As To Marriage And Love
+ | |
+## | VII. As To Acts Of Violence
+ | |
 
 "What I believe" has many times been the target of hack writers. Such blood-curdling and incoherent stories have been circulated about me, it is no wonder that the average human being has palpitation of the heart at the very mention of the name Emma Goldman. It is too bad that we no longer live in the times when witches were burned at the stake or tortured to drive the evil spirit out of them. For, indeed, Emma Goldman is a witch! True, she does not eat little children, but she does many worse things. She manufactures bombs and gambles in crowned heads. B-r-rr!
 

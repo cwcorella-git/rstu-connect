@@ -1,12 +1,19 @@
+---
+title: "Contents"
+category: "anti-war-peace"
+---
+
 ## **The Science of Revolutionary Warfare**
 
 ## Johann Most
 
 # Contents
 
-| WARNING | <br> | | | | | | | | | | | | | | | | 3 |
+| WARNING | 
+ | | | | | | | | | | | | | | | | 3 |
 |--------------|------|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|---|
-| INTRODUCTION | <br> | | | | | | | | | | | | | | | | 3 |
+| INTRODUCTION | 
+ | | | | | | | | | | | | | | | | 3 |
 
 ### **WARNING**
 

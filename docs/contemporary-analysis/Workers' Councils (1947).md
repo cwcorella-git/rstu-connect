@@ -1,3 +1,8 @@
+---
+title: "**Workers' Councils**"
+category: "contemporary-analysis"
+---
+
 #### **Anton Pannekoek**
 
 # **Workers' Councils**

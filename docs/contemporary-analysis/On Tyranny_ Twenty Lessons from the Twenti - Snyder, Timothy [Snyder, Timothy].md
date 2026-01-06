@@ -1,3 +1,8 @@
+---
+title: "ONTYRANNY"
+category: "contemporary-analysis"
+---
+
 ## ON TYRANNY
 
 TWENTY LESSONS

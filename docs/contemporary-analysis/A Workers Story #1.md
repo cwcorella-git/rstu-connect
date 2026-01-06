@@ -1,3 +1,8 @@
+---
+title: "## **A Workers Story #1**"
+category: "contemporary-analysis"
+---
+
 ## **A Workers Story #1**
 
 ## **Date:** Unknown

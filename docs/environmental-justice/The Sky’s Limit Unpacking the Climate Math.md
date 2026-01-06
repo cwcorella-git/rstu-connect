@@ -1,13 +1,26 @@
+---
+title: "## **The Sky's Limit: Unpacking the Climate Math**"
+category: "environmental-justice"
+---
+
 ## **The Sky's Limit: Unpacking the Climate Math**
 
-| Date: Sun, 10/09/2016 - 11:36<br>Source: https://ecology.iww.org/node/1847<br>Tags: just transition, global warming, climate change, oil, coal, tar sands, carbon bubble |
+| Date: Sun, 10/09/2016 - 11:36
+Source: https://ecology.iww.org/node/1847
+Tags: just transition, global warming, climate change, oil, coal, tar sands, carbon bubble |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | By David Turnbull - |
 | Oil Change International |
 | , October 6, 2016 |
-| Four years ago, the concept of "unburnable carbon" hit the mainstream when Bill Mc Kibben<br>published "Global Warming's Terrifying New Math" in |
+| Four years ago, the concept of "unburnable carbon" hit the mainstream when Bill Mc Kibben
+published "Global Warming's Terrifying New Math" in |
 | Rolling Stone |
-| magazine, based off of work by the analysts at Carbon Tracker and before that Greenpeace.<br>The research underlying that concept showed that the carbon embedded in proven fossil fuel<br>reserves on the books of fossil fuel companies is many times greater than what climate<br>scientists have determined the atmosphere can withstand in a safe climate scenario. This<br>month, new analysis by Oil Change International updated that math, took it further, and is<br>making waves. |
+| magazine, based off of work by the analysts at Carbon Tracker and before that Greenpeace.
+The research underlying that concept showed that the carbon embedded in proven fossil fuel
+reserves on the books of fossil fuel companies is many times greater than what climate
+scientists have determined the atmosphere can withstand in a safe climate scenario. This
+month, new analysis by Oil Change International updated that math, took it further, and is
+making waves. |
 | In the |
 | new report |
 

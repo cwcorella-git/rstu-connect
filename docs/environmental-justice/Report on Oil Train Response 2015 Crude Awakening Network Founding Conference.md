@@ -1,3 +1,8 @@
+---
+title: "## **Report on Oil Train Response 2015 Crude Awakening Network Founding Conference**"
+category: "environmental-justice"
+---
+
 ## **Report on Oil Train Response 2015 Crude Awakening Network Founding Conference**
 
 ## **Date:** Sun, 12/13/2015 - 14:54

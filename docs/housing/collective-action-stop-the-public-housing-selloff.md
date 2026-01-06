@@ -1,22 +1,8 @@
 ---
-title: Stop the Public Housing Selloff
-author: Collective Action
-date: 'February 14, 2018'
-pubdate: '2021-10-14T15:41:05'
-language: en
-source_url: >-
-  Retrieved on March 11, 2021 from
-  [[https://web.archive.org/web/20210311113749/http://www.collectiveaction.org.au/2018/02/14/stop-the-public-housing-selloff/][web.archive.org]]
-topics:
-  - housing
-  - austerity
-  - Australia
-original_format: muse
-converted_date: '2025-11-08T11:25:02.059151'
-tags:
-  - Housing
-  - Austerity
-  - Australia
+title: "Stop the Public Housing Selloff"
+author: "Collective Action"
+date: "February 14, 2018"
+category: "housing"
 ---
 
 The Victorian Labor government is planning to privatise nine public housing estates, selling off the land to private developers in a deal that would see only 50% of this land returned to public housing. It is unclear at this stage whether the government would own this 50%, or whether they would rent a certain number of apartments in the new developments to be used as public housing. It is no coincidence that the estates being targeted first are all located in the inner north suburbs with high property prices and as such lucrative expected returns on real estate development.

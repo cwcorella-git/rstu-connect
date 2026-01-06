@@ -1,13 +1,10 @@
 ---
-date: 2025
-author: Senate Bill No
-tags:
-  - legislation
-  - Nevada
-  - housing
-  - rent
 title: "senate-bill-no-391"
+author: "Senate Bill No"
+date: "2025"
+category: "legislation"
 ---
+
 # senate-bill-no-391
 
 *Converted from: `./senate-bill-no-391.pdf`*  
@@ -43,8 +40,6 @@ title: "senate-bill-no-391"
                                                                ~
 
       EXPLANATION – Matter in bolded italics is new; matter between brackets [omitted material] is material to be omitted.
-
-
 
 
      AN ACT relating to real property; limiting, with certain exceptions,
@@ -91,11 +86,9 @@ title: "senate-bill-no-391"
                                                –2–
 
 12   and any affiliates of such entities that purchase or own residential real property in
-13   this State. Section 2 requires, with certain exceptions, a corporation, limited-
-14   liability company or any affiliate of such an entity to register with the Securities
+13   this State. Section 2 requires, with certain exceptions, a corporation, limited14   liability company or any affiliate of such an entity to register with the Securities
 15   Division each time before the entity purchases any unit of residential real property
-16   in this State. Section 2 exempts from that requirement a corporation, limited-
-17   liability company or affiliate of such an entity that owns less than 10 units of
+16   in this State. Section 2 exempts from that requirement a corporation, limited17   liability company or affiliate of such an entity that owns less than 10 units of
 18   residential real property in this State. Section 2: (1) authorizes the Secretary of
 19   State to charge a fee to each such corporation, limited-liability company or affiliate
 20   of such an entity; and (2) requires the Secretary of State to adopt regulations
@@ -325,7 +318,6 @@ title: "senate-bill-no-391"
 44          For the Fiscal Year 2026-2027 .................................... $81,705
 
 
-
      -                                                   *SB391_R1*
 
 ---
@@ -363,8 +355,6 @@ title: "senate-bill-no-391"
                                       H
 
 
-
-
      -                                            *SB391_R1*
 
 ---
@@ -390,4 +380,3 @@ title: "senate-bill-no-391"
 
 
 ---
-

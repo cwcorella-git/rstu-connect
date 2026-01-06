@@ -1,3 +1,8 @@
+---
+title: "**Slave patrol**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Slave_patrol)
 
 # **Slave patrol**
@@ -18,10 +23,13 @@ This article is about patrols to capture runaway slaves. For information on nava
 
 | Occupation | |
 |--------------------|--------------------------------------------------------------------|
-| Synonyms | Patrollers, patterrollers, pattyrollers,<br>paddy rollers, sheriff |
-| Occupation<br>type | Law enforcement or military (1704–1865) |
+| Synonyms | Patrollers, patterrollers, pattyrollers,
+paddy rollers, sheriff |
+| Occupation
+type | Law enforcement or military (1704–1865) |
 
-| Activity<br>sectors | U. S. southern states |
+| Activity
+sectors | U. S. southern states |
 |---------------------|----------------------|
 | Description | |
 ## | Related jobs | Slave catcher |

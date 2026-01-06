@@ -1,3 +1,8 @@
+---
+title: "**EXT. AVENUE OF TRASH**"
+category: "feminist-theory"
+---
+
 ### **WALL-E**
 
 ### Written by

@@ -1,16 +1,56 @@
+---
+title: "Contents"
+category: "contemporary-analysis"
+---
+
 ## Are Prisons Obsolete?
 
 ## Angela Y. Davis
 
 # Contents
 
-| Chaper<br>1.<br>Inroducion:<br>Prison<br>Reorm<br>or<br>Prison<br>Aboliion? | 3 |
+| Chaper
+1.
+Inroducion:
+Prison
+Reorm
+or
+Prison
+Aboliion? | 3 |
 |----------------------------------------------------------------------------------------------------------|----|
-| Chaper<br>2.<br>Slavery,<br>Civil<br>Righs,<br>and<br>Aboliionis<br>Perspecives<br>oward<br>Prison | 8 |
-| Chaper<br>3.<br>Imprisonmen<br>and<br>Reorm | 16 |
-| Chaper<br>4.<br>How<br>Gender<br>Srucures<br>Te<br>Prison<br>Sysem | 25 |
-| Chaper<br>5.<br>Te<br>Prison<br>Indusrial<br>Complex | 36 |
-| Chaper<br>6.<br>Aboliionis<br>Alernaives | 45 |
+| Chaper
+2.
+Slavery,
+Civil
+Righs,
+and
+Aboliionis
+Perspecives
+oward
+Prison | 8 |
+| Chaper
+3.
+Imprisonmen
+and
+Reorm | 16 |
+| Chaper
+4.
+How
+Gender
+Srucures
+Te
+Prison
+Sysem | 25 |
+| Chaper
+5.
+Te
+Prison
+Indusrial
+Complex | 36 |
+| Chaper
+6.
+Aboliionis
+Alernaives | 45 |
 
 ### Chapter 1. Introduction: Prison Reform or Prison Abolition?
 

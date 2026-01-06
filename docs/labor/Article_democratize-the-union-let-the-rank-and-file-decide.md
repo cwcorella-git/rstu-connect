@@ -1,13 +1,8 @@
 ---
-title: Democratize the Union Let the Rank and File Decide
-date: 2025
-author: Industrial Workers of the World
-tags:
-  - organizing
-  - strikes
-  - unions
-  - housing
-  - rent
+title: "Democratize the Union Let the Rank and File Decide"
+author: "Industrial Workers of the World"
+date: "2025"
+category: "labor"
 ---
 
 # Democratize the Union Let the Rank and File Decide

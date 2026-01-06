@@ -1,15 +1,8 @@
 ---
-title: >-
-  Alameda County Central Labor Council: Climate and Environmental Justice
-  Mission
-date: 2025
-author: Alameda County Central
-tags:
-  - organizing
-  - unions
-  - housing
-  - rent
-  - labor
+title: ">-"
+author: "Alameda County Central"
+date: "2025"
+category: "labor"
 ---
 
 # Alameda County Central Labor Council Climate and Environmental Justice Caucus Mi

@@ -1,3 +1,8 @@
+---
+title: "## **Labor activists for Standing Rock**"
+category: "environmental-justice"
+---
+
 ## **Labor activists for Standing Rock**
 
 ## **Date:** Tue, 11/22/2016 - 18:05
@@ -23,12 +28,21 @@ NYN:
 | Why is a nurse from Colorado involved with a struggle in North Dakota? |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Willmeng: |
-| Quite simply, advocating for our patients is a primary role and responsibility of nurses and all<br>health care professionals. When we take a wider view of this, we have to conclude that the<br>fight for the environment is really advocating for patients everywhere. |
-| Where I live and work in Lafayette, Colorado, we are among communities nationally that are<br>fighting the oil and gas industry, or as many people know it "fracking". We experience the<br>spills, explosions, fires and leaks that the fossil fuel industry is synonymous with everywhere.<br>When Standing Rock began to find its way into the national news, it was an easy connection<br>for many people living in the shadow of the oil and gas industry to make. |
+| Quite simply, advocating for our patients is a primary role and responsibility of nurses and all
+health care professionals. When we take a wider view of this, we have to conclude that the
+fight for the environment is really advocating for patients everywhere. |
+| Where I live and work in Lafayette, Colorado, we are among communities nationally that are
+fighting the oil and gas industry, or as many people know it "fracking". We experience the
+spills, explosions, fires and leaks that the fossil fuel industry is synonymous with everywhere.
+When Standing Rock began to find its way into the national news, it was an easy connection
+for many people living in the shadow of the oil and gas industry to make. |
 | NYN: |
 | Can you talk more about the healthcare impacts of these pipelines in particular? |
 | Willmeng: |
-| When the pipelines leak and fail there are no scientific remedies to restore the comprehensive<br>damage to the environment they affect. Every living thing that depends on that environment is<br>then exposed in multiple ways to the oil — which is both carcinogenic and disrupts the<br>endocrine system. |
+| When the pipelines leak and fail there are no scientific remedies to restore the comprehensive
+damage to the environment they affect. Every living thing that depends on that environment is
+then exposed in multiple ways to the oil — which is both carcinogenic and disrupts the
+endocrine system. |
 | NYN: |
 | What can unions and individual members do to participate in Labor for Standing Rock? |
 ## | Willmeng: |

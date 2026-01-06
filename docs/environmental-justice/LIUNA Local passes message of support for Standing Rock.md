@@ -1,3 +1,8 @@
+---
+title: "## **LIUNA Local passes message of support for Standing Rock**"
+category: "environmental-justice"
+---
+
 ## **LIUNA Local passes message of support for Standing Rock**
 
 ## **Date:** Wed, 11/09/2016 - 18:26

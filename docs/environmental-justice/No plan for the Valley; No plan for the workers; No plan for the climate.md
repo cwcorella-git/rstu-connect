@@ -1,3 +1,8 @@
+---
+title: "## **No plan for the Valley; No plan for the workers; No plan for the climate**"
+category: "environmental-justice"
+---
+
 ## **No plan for the Valley; No plan for the workers; No plan for the climate**
 
 ## **Date:** Mon, 03/20/2017 - 17:01

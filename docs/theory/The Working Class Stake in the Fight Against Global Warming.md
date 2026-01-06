@@ -1,16 +1,10 @@
 ---
-title: The Working Class Stake In The Fight Against Global Warming
-slug: The Working Class Stake in the Fight Against Global Warming
-reconversion_status: ready_for_reconversion
-date: 2023
-author: Tom Wetzel
-tags:
-  - theory
-  - anarchism
-  - strikes
-  - unions
-  - rent
+title: "The Working Class Stake In The Fight Against Global Warming"
+author: "Tom Wetzel"
+date: "2023"
+category: "theory"
 ---
+
 # **The Working Class Stake in the Fight Against Global Warming**
 
 ## **Date:** Tue, 08/22/2023 - 00:00

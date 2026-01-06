@@ -1,16 +1,10 @@
 ---
-title: 3 Positions Against Prison
-slug: 3 Positions Against Prison
-reconversion_status: ready_for_reconversion
-author: August O’Clairre
-date: '2011'
-tags:
-  - labor
-  - strikes
-  - rent
-  - police
-  - prisons
+title: "3 Positions Against Prison"
+author: "August O’Clairre"
+date: "2011"
+category: "labor"
 ---
+
 ## **August O'Clairre**
 
 # **3 Positions Against Prison**
@@ -135,6 +129,6 @@ The prisons are being destroyed, right now. Prisoners around the world are takin
 
 It is not enough – and what's more, it is not a joyful approach – to gradually empty the prisons of the prisoners through new social programs and campaigns, letting their shells stand hollow. The silhouettes of empty prisons would stand as reminders of a grave mistake, but we would never be free. Let us seek the feeling of a prisoner taking a sledgehammer to her cell.
 
-There is a story that comes from the occupation of the abandoned Alcatraz prison island by the Indians of All Tribes between 1969 and 1971. We do not know where this story came from or if it 'really' happened, only that it has taken root in our minds. According to the legend, one of the people involved in the occupation had been imprisoned at Alcaltraz in his earlier years. When he arrived on the island, he searched through the prison for some time and eventually came to the cell in which he'd been locked up. Taking up <sup>a</sup> sledgehammer, the man destroyed the walls of the cell, block by cement block. It was hard work, and he was many years in age, and by the time he was done he was exhausted. He put down the sledgehammer and sank to the ground, with the ruins of the old cage around him.
+There is a story that comes from the occupation of the abandoned Alcatraz prison island by the Indians of All Tribes between 1969 and 1971. We do not know where this story came from or if it 'really' happened, only that it has taken root in our minds. According to the legend, one of the people involved in the occupation had been imprisoned at Alcaltraz in his earlier years. When he arrived on the island, he searched through the prison for some time and eventually came to the cell in which he'd been locked up. Taking up a sledgehammer, the man destroyed the walls of the cell, block by cement block. It was hard work, and he was many years in age, and by the time he was done he was exhausted. He put down the sledgehammer and sank to the ground, with the ruins of the old cage around him.
 
 Transcribed from a zine-printable copy on the Internet Archive: https:// ia802707.us.archive.org/15/ items/3Positions Against Prison/3\_position\_against\_prison.pdf

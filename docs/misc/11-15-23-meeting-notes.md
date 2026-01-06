@@ -1,14 +1,10 @@
 ---
-date: 2023
-author: the county
-tags:
-  - organizing
-  - unions
-  - tenants
-  - housing
-  - rent
 title: "11-15-23-meeting-notes"
+author: "the county"
+date: "2023"
+category: "misc"
 ---
+
 # 11-15-23-meeting-notes
 
 *Converted from: `./11-15-23-meeting-notes.pdf`*  
@@ -125,4 +121,3 @@ Next Meeting
     ●   Discuss communication plan and how to share the work
 
 ---
-

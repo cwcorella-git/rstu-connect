@@ -1,3 +1,8 @@
+---
+title: "## **Unrest in Panama**"
+category: "contemporary-analysis"
+---
+
 ## **Unrest in Panama**
 
 ## **Date:** Unknown

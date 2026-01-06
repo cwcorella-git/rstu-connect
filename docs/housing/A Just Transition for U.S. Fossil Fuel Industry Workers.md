@@ -1,16 +1,10 @@
 ---
-title: A Just Transition For Us Fossil Fuel Industry Workers
-author: Laura Powers
-slug: A Just Transition for U.S. Fossil Fuel Industry Workers
-reconversion_status: ready_for_reconversion
-date: 2011
-tags:
-  - housing
-  - tenants
-  - unions
-  - rent
-  - labor
+title: "A Just Transition For Us Fossil Fuel Industry Workers"
+author: "Laura Powers"
+date: "2011"
+category: "housing"
 ---
+
 ## **A Just Transition for U. S. Fossil Fuel Industry Workers**
 
 ## **Date:** Wed, 07/06/2016 - 19:01

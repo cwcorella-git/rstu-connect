@@ -1,3 +1,8 @@
+---
+title: "## THE CAPITALIST SYSTEM"
+category: "technology-digital-justice"
+---
+
 ## THE CAPITALIST SYSTEM
 
 ## by Michael Bakunin

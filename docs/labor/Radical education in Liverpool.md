@@ -1,3 +1,8 @@
+---
+title: "## **Radical education in Liverpool**"
+category: "labor"
+---
+
 ## **Radical education in Liverpool**
 
 ## **Date:** Unknown

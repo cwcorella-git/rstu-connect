@@ -1,15 +1,8 @@
 ---
-title: >-
-  A E I O U Agitate Educate Inoculate Organize Union Push From Wages So Low
-  Youll
-date: 2025
-author: Industrial Workers of the World
-tags:
-  - organizing
-  - strikes
-  - unions
-  - rent
-  - labor
+title: ">-"
+author: "Industrial Workers of the World"
+date: "2025"
+category: "labor"
 ---
 
 # A E I O U Agitate Educate Inoculate Organize Union Push From Wages So Low Youll

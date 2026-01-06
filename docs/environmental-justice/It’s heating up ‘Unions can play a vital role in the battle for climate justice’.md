@@ -1,3 +1,8 @@
+---
+title: "## **It's heating up: 'Unions can play a vital role in the battle for climate justice'**"
+category: "environmental-justice"
+---
+
 ## **It's heating up: 'Unions can play a vital role in the battle for climate justice'**
 
 **Date:** Tue, 09/20/2016 - 18:16 **Source:** https://ecology.iww.org/node/1809**Tags:** green unionism, climate justice, jobs versus environment, labor and environment, just transition Anabella Rosemberg interviewed by Danny Chivers - New Internationalist , August 2016 Image:

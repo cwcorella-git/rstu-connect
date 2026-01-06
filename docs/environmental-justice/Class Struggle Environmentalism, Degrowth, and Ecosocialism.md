@@ -1,19 +1,28 @@
+---
+title: "## **Class Struggle Environmentalism, Degrowth, and Ecosocialism**"
+category: "environmental-justice"
+---
+
 ## **Class Struggle Environmentalism, Degrowth, and Ecosocialism**
 
 ## **Date:** Sat, 05/27/2023 - 00:00
 
 | Source: https://ecology.iww.org/node/5736|
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Tags: IWW Environmental Unionism Caucus, green syndicalism, ecosocialism, Lucas Plan, Political<br>Economy Research Institute (PERI), Climate Jobs Network, green unionism, just transition,<br>decarbonization, COVID-19 |
+| Tags: IWW Environmental Unionism Caucus, green syndicalism, ecosocialism, Lucas Plan, Political
+Economy Research Institute (PERI), Climate Jobs Network, green unionism, just transition,
+decarbonization, COVID-19 |
 | By x344543 - |
 | IWW Eco Union Caucus |
 | , May 27, 2023 |
 | Calling for " |
 | De Growth |
-| " without conditions or even "Ecosocialist De Growth" is far too vague and could potentially<br>alienate the working class (and no version of socialism, let alone |
+| " without conditions or even "Ecosocialist De Growth" is far too vague and could potentially
+alienate the working class (and no version of socialism, let alone |
 | ecosocialism |
 | , can be achieved without support of the working class. |
-| Consider the report that the UC Labor Just Released: Fossil fuel layoff - The economic and<br>employment effects of a refinery closure on workers in the Bay Area. This |
+| Consider the report that the UC Labor Just Released: Fossil fuel layoff - The economic and
+employment effects of a refinery closure on workers in the Bay Area. This |
 
 details the experience of union refinery workers who have lost their jobs at the Martinez
 
@@ -30,7 +39,9 @@ Overall, workers reported worse working conditions at their post-layoff jobs, ev
 | alarming characteristics of degraded working conditions. |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Some caveats: |
-| While this report frames the closure as a result of energy transition in its press releases and in<br>the media, they admit that the refinery really closed due to COVID, although the employer is<br>opportunistically retooling the refinery for "renewable biodiesel" (a |
+| While this report frames the closure as a result of energy transition in its press releases and in
+the media, they admit that the refinery really closed due to COVID, although the employer is
+opportunistically retooling the refinery for "renewable biodiesel" (a |
 | greenwashing |
 | scam, mostly); |
 | Job losses and retooling happens all the time under capitalism. |
@@ -38,8 +49,11 @@ Overall, workers reported worse working conditions at their post-layoff jobs, ev
 | Decarbonization |
 | " or " |
 | Energy Transition |
-| ", because fossil fuel profits are experiencing record and/or near record highs (for a variety of<br>reasons) |
-| However wrongheaded it might seem to refer to this as an example of "De Growth",<br>Decarbonization", or "Energy Transition", the workers will likely perceive this as the case, and<br>develop (or deepen) hostile stances towards such things. |
+| ", because fossil fuel profits are experiencing record and/or near record highs (for a variety of
+reasons) |
+| However wrongheaded it might seem to refer to this as an example of "De Growth",
+Decarbonization", or "Energy Transition", the workers will likely perceive this as the case, and
+develop (or deepen) hostile stances towards such things. |
 
 cited poor safety practices and increased worksite hazards as the most significant and
 
@@ -101,7 +115,8 @@ Indeed, we're seeing many examples of Lucas Plan type proposals (some more radic
 | (otherwise known as "The Pollin Report"), which was endorsed by at least two dozen unions. |
 | The aforementioned is one of many such " |
 | reports |
-| " for various US states, including: Colorado, Maine, New York, Ohio, Pennsylvania,<br>Washington, West Virginia, which are published by the |
+| " for various US states, including: Colorado, Maine, New York, Ohio, Pennsylvania,
+Washington, West Virginia, which are published by the |
 
 ## Political Economy Research Institute
 

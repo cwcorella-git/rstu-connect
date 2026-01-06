@@ -1,3 +1,8 @@
+---
+title: "## **Class Power can Remake Society: Remembering Australia's "Green Ban" Movement**"
+category: "organizing"
+---
+
 ## **Class Power can Remake Society: Remembering Australia's "Green Ban" Movement**
 
 ## **Date:** Wed, 03/24/2021 - 00:00

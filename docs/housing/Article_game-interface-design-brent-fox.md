@@ -1,13 +1,8 @@
 ---
-title: Game Interface Design Brent Fox
-date: 2025
-author: |-
-  TeAM
-          YYePG
-tags:
-  - organizing
-  - rent
-  - labor
+title: "Game Interface Design Brent Fox"
+author: "|-"
+date: "2025"
+category: "housing"
 ---
 
 # Game Interface Design Brent Fox

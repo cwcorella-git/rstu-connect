@@ -1,3 +1,8 @@
+---
+title: "## **Defend Our Sperrins Not Toxic Gold Mining**"
+category: "contemporary-analysis"
+---
+
 ## **Defend Our Sperrins Not Toxic Gold Mining**
 
 ## **Date:** Sat, 05/11/2019 - 11:58

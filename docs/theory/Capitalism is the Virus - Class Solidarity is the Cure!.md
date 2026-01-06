@@ -1,3 +1,8 @@
+---
+title: "## **Capitalism is the Virus - Class Solidarity is the Cure!**"
+category: "theory"
+---
+
 ## **Capitalism is the Virus - Class Solidarity is the Cure!**
 
 ## **Date:** Unknown

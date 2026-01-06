@@ -1,3 +1,8 @@
+---
+title: "Three K's, Two A's in AmeriKKKa, I'm just a black spade spawn out the nebula."
+category: "contemporary-analysis"
+---
+
 Three K's, Two A's in AmeriKKKa, I'm just a black spade spawn out the nebula.
 
 ## 0:06

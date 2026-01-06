@@ -1,3 +1,8 @@
+---
+title: "loneliness"
+category: "contemporary-analysis"
+---
+
 # loneliness
 
 ## Human Nature and the Need for Social Connection

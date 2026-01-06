@@ -1,3 +1,8 @@
+---
+title: "## **1957: Colombian General Strike**"
+category: "labor"
+---
+
 ## **1957: Colombian General Strike**
 
 **Date:** Unknown
@@ -52,8 +57,11 @@ The new ruling junta held free elections for the National Constituent Assembly a
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Not Known                                                                                                                                                                                              |
 | Sources:                                                                                                                                                                                               |
-| Parkman, Patricia. Insurrectionary Civic Strikes in Latin America 1931-1961. Cambridge: The<br>Albert Einstein Institution, 1990.Szulc, Tad. Twilight of Tyrants. New York: Holt, 1959. pp.<br>204-248 |
-| Martz, John D. Colombia: a Contemporary Political Survey. Chapel Hill: University of North<br>Carolina Press, 1962. pp. 228-245                                                                        |
+| Parkman, Patricia. Insurrectionary Civic Strikes in Latin America 1931-1961. Cambridge: The
+Albert Einstein Institution, 1990.Szulc, Tad. Twilight of Tyrants. New York: Holt, 1959. pp.
+204-248 |
+| Martz, John D. Colombia: a Contemporary Political Survey. Chapel Hill: University of North
+Carolina Press, 1962. pp. 228-245                                                                        |
 
 Additional Notes:
 

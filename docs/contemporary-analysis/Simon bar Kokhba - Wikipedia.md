@@ -1,3 +1,8 @@
+---
+title: "**Simon bar Kokhba**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Simon_bar_Kokhba)
 
 # **Simon bar Kokhba**
@@ -18,12 +23,20 @@ Watercolour and gouache impression of Bar Kokhba by Polish-Jewish artist [Arthur
 
 | Reign | 132–135[1] |
 |------------|---------------------------------------------------------------------|
-| Born | [2](<br>Simon<br>bar<br>Koseba<br>)<br>אָבֵסֹכ<br>רַּב<br>ןֹועְמִׁש |
-| Died | 135<br>Betar, Judea, Roman Empire |
+| Born | [2](
+Simon
+bar
+Koseba
+)
+אָבֵסֹכ
+רַּב
+ןֹועְמִׁש |
+| Died | 135
+Betar, Judea, Roman Empire |
 | Religion | Judaism |
 ## | Occupation | Military leader |
 
-(Kōḵḇāʾ bar ōn'Šī<sup>m</sup> ןֹועְמִׁש רַּב כּ אָבְכֹו [:Hebrew](https://en.wikipedia.org/wiki/Hebrew_language) [\(](https://en.wikipedia.org/wiki/Hebrew_language)**Kokhba bar Simon** ,(Ḵōsēḇa<sup>ʾ</sup> bar ōn'Šī<sup>m</sup> ןֹועְמִׁש רַּב אָבֵסֹכ ) **Koseba bar Simon** or commonly referred to simply as **Bar Kokhba**, [\[a\]](#page-11-2) was a Jewish military leader in [Judea.](https://en.wikipedia.org/wiki/Judaea_(Roman_province)) He lent his name to the [Bar Kokhba](https://en.wikipedia.org/wiki/Bar_Kokhba_revolt) [revolt,](https://en.wikipedia.org/wiki/Bar_Kokhba_revolt) which he initiated against the [Roman Empire](https://en.wikipedia.org/wiki/Roman_Empire) in 132 CE. Though they were ultimately unsuccessful, Bar Kokhba and his rebels did manage to establish and maintain a [Jewish state](https://en.wikipedia.org/wiki/History_of_the_Jews_and_Judaism_in_the_Land_of_Israel) for about three years after beginning the rebellion. Bar Kokhba served as the state's leader, crowning himself as [nasi](https://en.wikipedia.org/wiki/Nasi_(Hebrew_title)) (lit.'prince')[.\[3\]](#page-12-0) Some of the [rabbinic scholars](https://en.wikipedia.org/wiki/Rabbinic_literature) in his time believed him to be the long-expected [Messiah.](https://en.wikipedia.org/wiki/Messiah_in_Judaism) In 135, Bar Kokhba was killed by Roman troops in the fortified town of [Betar.](https://en.wikipedia.org/wiki/Betar_(ancient_village)) The Judean rebels who remained after his death were all killed or enslaved within the next year, and their defeat was followed by a harsh crackdown on the Judean populace by the Roman emperor [Hadrian.](https://en.wikipedia.org/wiki/Hadrian)
+(Kōḵḇāʾ bar ōn'Šīm ןֹועְמִׁש רַּב כּ אָבְכֹו [:Hebrew](https://en.wikipedia.org/wiki/Hebrew_language) [\(](https://en.wikipedia.org/wiki/Hebrew_language)**Kokhba bar Simon** ,(Ḵōsēḇaʾ bar ōn'Šīm ןֹועְמִׁש רַּב אָבֵסֹכ ) **Koseba bar Simon** or commonly referred to simply as **Bar Kokhba**, [\[a\]](#page-11-2) was a Jewish military leader in [Judea.](https://en.wikipedia.org/wiki/Judaea_(Roman_province)) He lent his name to the [Bar Kokhba](https://en.wikipedia.org/wiki/Bar_Kokhba_revolt) [revolt,](https://en.wikipedia.org/wiki/Bar_Kokhba_revolt) which he initiated against the [Roman Empire](https://en.wikipedia.org/wiki/Roman_Empire) in 132 CE. Though they were ultimately unsuccessful, Bar Kokhba and his rebels did manage to establish and maintain a [Jewish state](https://en.wikipedia.org/wiki/History_of_the_Jews_and_Judaism_in_the_Land_of_Israel) for about three years after beginning the rebellion. Bar Kokhba served as the state's leader, crowning himself as [nasi](https://en.wikipedia.org/wiki/Nasi_(Hebrew_title)) (lit.'prince')[.\[3\]](#page-12-0) Some of the [rabbinic scholars](https://en.wikipedia.org/wiki/Rabbinic_literature) in his time believed him to be the long-expected [Messiah.](https://en.wikipedia.org/wiki/Messiah_in_Judaism) In 135, Bar Kokhba was killed by Roman troops in the fortified town of [Betar.](https://en.wikipedia.org/wiki/Betar_(ancient_village)) The Judean rebels who remained after his death were all killed or enslaved within the next year, and their defeat was followed by a harsh crackdown on the Judean populace by the Roman emperor [Hadrian.](https://en.wikipedia.org/wiki/Hadrian)
 
 Documents discovered in the 20th century in the [Cave of](https://en.wikipedia.org/wiki/Cave_of_Letters) [Letters](https://en.wikipedia.org/wiki/Cave_of_Letters) give his original name, with variations: Simeon bar Kosevah ( הבסוכ רב ןועמש( , Bar Kosevaʾ ( אבסוכ רב ( or Ben Kosevaʾ ( אבסוכ ןב( [.\]4 \[](#page-12-1)It is probable that his original name was Bar Koseba[.\[5\]](#page-12-2) The name may indicate that his father or his place of origin was named Koseva(h), with [Khirbet Kuwayzibah](https://en.wikipedia.org/wiki/Khirbet_Kuwayzibah) being a likely nominee for identification[;\[6\]](#page-12-3)[\[7\]](#page-12-4)[\[8\]](#page-12-5) Others, namely [Emil](https://en.wikipedia.org/wiki/Emil_Sch%C3%BCrer) [Schürer,](https://en.wikipedia.org/wiki/Emil_Sch%C3%BCrer) think the surname may have been an indication of his place of birth, in the village known as Chozeba (maybe [Chezib\)](https://en.wikipedia.org/wiki/Chezib_of_Judah) [\[9\]](#page-12-6) but might as well be a general family name[.\[5\]](#page-12-2)
 

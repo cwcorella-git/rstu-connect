@@ -1,3 +1,8 @@
+---
+title: "[Gravity battery](https://en.wikipedia.org/wiki/Main_Page)"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_2.jpeg)
 
 # [Gravity battery](https://en.wikipedia.org/wiki/Main_Page)

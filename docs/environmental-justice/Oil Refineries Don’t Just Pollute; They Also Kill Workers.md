@@ -1,16 +1,24 @@
+---
+title: "## **Oil Refineries Don't Just Pollute; They Also Kill Workers**"
+category: "environmental-justice"
+---
+
 ## **Oil Refineries Don't Just Pollute; They Also Kill Workers**
 
 | Date: Thu, 12/15/2016 - 19:51 |
 |----------------------------------------------------------------------------------------------------------------------------|
 | Source: https://ecology.iww.org/node/1974|
-| Tags: oil workers, Tesoro, health and safety, refineries, Anacortes, Chemical Safety Board (CSB),<br>green unionism |
+| Tags: oil workers, Tesoro, health and safety, refineries, Anacortes, Chemical Safety Board (CSB),
+green unionism |
 | By Jim Morris - |
 | Center for Public Integrity |
 | , December 13, 2016 |
-| ANACORTES, Washington—From 500 yards away, John Moore felt the concussion before he<br>heard it. |
+| ANACORTES, Washington—From 500 yards away, John Moore felt the concussion before he
+heard it. |
 | Moore was midway through a 6 p.mto-6 a.m. shift as an operator at the |
 | Tesoro Corporation's |
-| oil refinery in Anacortes, an island town 80 miles north of Seattle. It was 35 minutes after<br>midnight on April 2, 2010. |
+| oil refinery in Anacortes, an island town 80 miles north of Seattle. It was 35 minutes after
+midnight on April 2, 2010. |
 
 Up the hill from Moore, in the Naphtha Hydrotreater unit, seven workers were restoring to service a bank of heat exchangers—radiator-like devices
 

@@ -1,15 +1,24 @@
+---
+title: "## **Information Anarchy: The Case Against Sponsorships**"
+category: "technology-digital-justice"
+---
+
 ## **Information Anarchy: The Case Against Sponsorships**
 
-| Date: 2023-10-13<br>Source: https://www.threadings.io/care-infrastructure-online-wikipedia/|
+| Date: 2023-10-13
+Source: https://www.threadings.io/care-infrastructure-online-wikipedia/|
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| an essay I wanted to title, "If you see me hold up skinny tummy tea smilin for a Nikon, gon'<br>head and |
+| an essay I wanted to title, "If you see me hold up skinny tummy tea smilin for a Nikon, gon'
+head and |
 | Of Mice and Men |
 | me. It's been a good run." but that was too long. |
 | an image search for the word |
 | influencer |
 | conducted on Thursday, September 28 2023 via Duck Duck Go |
 | Introductions: |
-| Hello and welcome to threadings., the newsletter and podcast where where I tell you about<br>the pieces of my politic that stitch my life together. this includes (but most certainly is not<br>limited to): |
+| Hello and welcome to threadings., the newsletter and podcast where where I tell you about
+the pieces of my politic that stitch my life together. this includes (but most certainly is not
+limited to): |
 | Black feminism, |
 | love studies, |
 
@@ -17,12 +26,18 @@
 
 | with secondary goals as following: |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| to commit myself to The People and my people publicly by way of refusing to sell my word<br>online, and |
-| to name explicitly the ways refusing traditional sponsorship places me in a decent amount of<br>precarity. |
+| to commit myself to The People and my people publicly by way of refusing to sell my word
+online, and |
+| to name explicitly the ways refusing traditional sponsorship places me in a decent amount of
+precarity. |
 | I'ma spoil the ending for you: I don't |
 | want |
-| to run from precarity. Being unsteady forces me to lean on the communities that I say I value. I<br>continually argue that refusing sponsorships as my primary mode of income forces me to<br>expand. Now, I must trust the people for care instead of trusting them as a willing and endless<br>site of extraction. |
-| Plus… willing? How much can you consent to extraction anyways? Bah. I get ahead of<br>myself. |
+| to run from precarity. Being unsteady forces me to lean on the communities that I say I value. I
+continually argue that refusing sponsorships as my primary mode of income forces me to
+expand. Now, I must trust the people for care instead of trusting them as a willing and endless
+site of extraction. |
+| Plus… willing? How much can you consent to extraction anyways? Bah. I get ahead of
+myself. |
 | One last quick note before we dive in: |
 | this is all very |
 | me |
@@ -31,12 +46,18 @@
 
 I (Ismatu) am thinking about my actions in context of the world I say that I want. I (me, Ismatu) feel an unrelenting call to live in accordance with my ideals as consistently as possible, because I know there are a lot of eyes on me; a lot of ears listening; a lot of people taking note, taking inspiration, formulating critique that pushes us collectively to be better. You (reader, listener, internet friend or wayward web-surfer) would do well to consider me critically. In writing this, I am loaning you my lenses from which I see the world. I am not generalizable and I don't intend to be. What I do intend is to be careful of my personhood as it tumbles out of my exclusive control. And to be kind to myself, and to us all 1 . Questions of the essay: (1) what is information anarchy? and (2) what does that mean in terms of how we place value on information? (3) how do we find value if there is no monetary exchange? (1) anarchy is, simply put, a society without centralized human hierarchy or leaders. The use of the term anarchy
 
-| in contemporary, US-American society has become synonymized with violent, unruly chaos.<br>It's essentially always deployed to be insulting— and past that, fear-mongering. Anarchy<br>within Western definitions refers to a society without centralized government or systematic<br>rule. I find the |
+| in contemporary, US-American society has become synonymized with violent, unruly chaos.
+It's essentially always deployed to be insulting— and past that, fear-mongering. Anarchy
+within Western definitions refers to a society without centralized government or systematic
+rule. I find the |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Wikipedia page on anarchy |
-| such a delicious feat of creation. All of my grade-school teachers warned against the<br>inaccurate mumbo-jumbo that would be caused by such a lack of hierarchal knowledge. Now,<br>twenty-two years after its first edit, Wikipedia has not only proven itself |
+| such a delicious feat of creation. All of my grade-school teachers warned against the
+inaccurate mumbo-jumbo that would be caused by such a lack of hierarchal knowledge. Now,
+twenty-two years after its first edit, Wikipedia has not only proven itself |
 | as |
-| accurate as curated, institutionally-sponsored collections of knowledge, it also gives us the<br>very definition for what it is, for free. Stunning |
+| accurate as curated, institutionally-sponsored collections of knowledge, it also gives us the
+very definition for what it is, for free. Stunning |
 | 2 |
 | |
 | I also personally argue that a lack of centralized laws is not |
@@ -52,14 +73,19 @@ only
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | The words of |
 | Klee Benally, |
-| Diné multi-faceted artist and organizer: For distinction I would add that an Anarchist would<br>pronounce, "There is no authority above yourself." An Indigenous Anarchist would offer,<br>"There is no authority but nature." |
+| Diné multi-faceted artist and organizer: For distinction I would add that an Anarchist would
+pronounce, "There is no authority above yourself." An Indigenous Anarchist would offer,
+"There is no authority but nature." |
 | 3 |
 | The words of Brandon Benalli, a Navajo+Hopi organizer: |
-| "Being Diné could be considered anarchist because we never had chiefs; we didn't have a<br>hierarchy. It was always horizontal," Benallie said. "Communism and anarchism derived<br>ideology from Franciscan missionaries who came here in the 1500s and 1600s and |
+| "Being Diné could be considered anarchist because we never had chiefs; we didn't have a
+hierarchy. It was always horizontal," Benallie said. "Communism and anarchism derived
+ideology from Franciscan missionaries who came here in the 1500s and 1600s and |
 | studied Indigenous societies |
 | . And you have Engels, Marx, and Bakunin |
 | reading the journals |
-| of these religious figures and how these religious figures describe Indigenous societies at that<br>time." |
+| of these religious figures and how these religious figures describe Indigenous societies at that
+time." |
 
 ## 4
 
@@ -71,11 +97,16 @@ Indigenous peoples across the globe have been practicing anarchy with generation
 | information anarchy |
 | , which is also… continually described as |
 | bad |
-| . From my preliminary research and musings on information anarchy, I had to shift through<br>article after article that decries the ease of misinformation, the dangers of uncurated access,<br>the woes of a lack of structure. And… it's not that that's |
+| . From my preliminary research and musings on information anarchy, I had to shift through
+article after article that decries the ease of misinformation, the dangers of uncurated access,
+the woes of a lack of structure. And… it's not that that's |
 | not |
 | true. It's that, from where I'm sitting: |
-| governing bodies (both judicial and wealthy extra-judicial forces) continually exploit the ease<br>of mis and disinformation to woo a populace to their sides, explicitly against their own best<br>interest as the masses ( |
-| like when President Biden says he's personally seen pictures of Hamas groups beheading<br>babies and the White House had to |
+| governing bodies (both judicial and wealthy extra-judicial forces) continually exploit the ease
+of mis and disinformation to woo a populace to their sides, explicitly against their own best
+interest as the masses ( |
+| like when President Biden says he's personally seen pictures of Hamas groups beheading
+babies and the White House had to |
 | put out a record |
 | that they have no such pictures and homie has most definitely not seen any |
 
@@ -99,9 +130,11 @@ In my own words:
 
 Property is the transitioning of public goods and space to private enterprises capable of extracting profit (where profit is the difference between the cost of the labor and the value of the product resulting from that labor)
 
-| also shoutout to indigenous folks across the world who had been saying that since the dawn<br>of colonization. but ya there's the white man who wrote it down first |
+| also shoutout to indigenous folks across the world who had been saying that since the dawn
+of colonization. but ya there's the white man who wrote it down first |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| the current economy allows us to imagine it is permissible and even encouraged to sell<br>"private" information for profit |
+| the current economy allows us to imagine it is permissible and even encouraged to sell
+"private" information for profit |
 
 .
 
@@ -117,11 +150,19 @@ I got a lot of beef for my alma mater, for example, who has the largest Africana
 | information, |
 | in which individual persons or collectives of people decide what |
 | truth |
-| is for themselves (rather than accepting Truth from a source legitimized by the governing<br>state, corporate powers, or elite + exclusive educational bodies). |
+| is for themselves (rather than accepting Truth from a source legitimized by the governing
+state, corporate powers, or elite + exclusive educational bodies). |
 | Here's where it gets hairy: |
 | in the realm of information, private is relative. |
-| What constitutes private enough to own? The ability to build or enforce a gate? The sensitivity<br>of the subject matter? Do we live in a society where people are sharing freely and completely<br>without economic compulsion, or is it ever for financial gain in otherwise dire economic<br>straits? |
-| Thinking about my days as a stripper, where my private information (read: my body) was<br>made accessible to the public for a price. I liked stripping more than I liked minimum wage<br>service jobs. And… would I have ever chosen to negotiate my privacy without economic<br>stress? Oh okay. So…Why do we think differently about memoir sales or story-time<br>influencers? |
+| What constitutes private enough to own? The ability to build or enforce a gate? The sensitivity
+of the subject matter? Do we live in a society where people are sharing freely and completely
+without economic compulsion, or is it ever for financial gain in otherwise dire economic
+straits? |
+| Thinking about my days as a stripper, where my private information (read: my body) was
+made accessible to the public for a price. I liked stripping more than I liked minimum wage
+service jobs. And… would I have ever chosen to negotiate my privacy without economic
+stress? Oh okay. So…Why do we think differently about memoir sales or story-time
+influencers? |
 
 So then: in charging for information that I gleaned from the public, I create privatized intellectual property—
 
@@ -137,7 +178,8 @@ Jackie Aina (2019) reveals her collaboration with Anastasia Beverly Hills in the
 |----------------------------------------------------------------------------------------------------------------|
 | elated |
 | for her when this palette dropped.] |
-| Then, we have this air of legitimacy that comes with being sponsored by a large, recognizable<br>brand that is |
+| Then, we have this air of legitimacy that comes with being sponsored by a large, recognizable
+brand that is |
 | undeniable. |
 | Because we (as the audience) understand how |
 | lucrative |
@@ -149,11 +191,13 @@ Jackie Aina (2019) reveals her collaboration with Anastasia Beverly Hills in the
 | monetization |
 ## | ), |
 
-| are marketed to us by the influencer themself showing us a product or service they were<br>compensated for recommending ( |
+| are marketed to us by the influencer themself showing us a product or service they were
+compensated for recommending ( |
 |------------------------------------------------------------------------------------------------------------------------------|
 | sponsorships |
 | ), |
-| can be found as click-through web-links provide data that allow websites to track activity back<br>to their recommendation ( |
+| can be found as click-through web-links provide data that allow websites to track activity back
+to their recommendation ( |
 | affiliate links |
 | ). |
 | Big-ticket sponsorships (such as a |
@@ -192,19 +236,24 @@ Narrator: In this moment, Ismatu Gwendolyn's blood runs cold. For only a second�
 
 the days where they still regarded the masses as The People rather than endless sites of extraction. As indistinguishable, colonizable mounds of pricked flesh
 
-| . And you cannot yell on the internet about the injustice. Because it's theirs. And if they let you<br>speak, Ismatu, know that you were |
+| . And you cannot yell on the internet about the injustice. Because it's theirs. And if they let you
+speak, Ismatu, know that you were |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | allowed |
 | to. |
 | https://www.zdnet.com/article/google-advertising-and-search-engine-bias/|
 | There's a |
 | reprint here |
-| that I suspect might have the original text, and conveniently, it's only available via formalized<br>academic institutional access. In case that's helpful to anyone here. |
+| that I suspect might have the original text, and conveniently, it's only available via formalized
+academic institutional access. In case that's helpful to anyone here. |
 | Narrator: Ismatu, go to bed. |
 | I cannot. |
 | Narrator: you will drive yourself crazy asking the same questions. |
 | Well then. Grief polishes my trophies of insanity as her favorite household chore. |
-| How different do we think the internet would be today if they had not gone the venture<br>capitalist route? If they had not been in a position where their beautiful machine was<br>profit-driven, if they never decided to become surveillance capitalists to increase their<br>individual fortunes to the billions… if they had never |
+| How different do we think the internet would be today if they had not gone the venture
+capitalist route? If they had not been in a position where their beautiful machine was
+profit-driven, if they never decided to become surveillance capitalists to increase their
+individual fortunes to the billions… if they had never |
 
 if we had never
 
@@ -220,18 +269,23 @@ Narrator: Ismatu takes a long time to shower that night before bed. And, as they
 
 Having worked through points one and two, I find the need reappraise what I consider "of value." I want my work to be valuable because of the effects of the work in the hands of the public. Valuable because it enriches the lives of the masses and not because it is marketable. Marketability (how well an idea, physical product or item for obtainment moves through the masses and compels them to action) is then a byproduct of how useful people find the information presented. I hone my work to increase the sovereignty of the people at large.
 
-| one method information hierarchy uses to uphold itself is the use of paywalls, by<br>understanding that information you pay for is |
+| one method information hierarchy uses to uphold itself is the use of paywalls, by
+understanding that information you pay for is |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | more valuable |
-| than information that is free (thus justifying the payment). i have no desires to legitimize my<br>work through extortion. |
+| than information that is free (thus justifying the payment). i have no desires to legitimize my
+work through extortion. |
 | and it is extortion. |
-| Do we really consent to the constant advertisements? To essential news costing you a<br>subscription? Do we have the agency necessary to consent to the debt slavery involved with<br>formalized, academic education? |
+| Do we really consent to the constant advertisements? To essential news costing you a
+subscription? Do we have the agency necessary to consent to the debt slavery involved with
+formalized, academic education? |
 | Or is our participation/subjection begrudging acceptance |
 | without |
 | strong knowledge of what constant exposure to the |
 | buy-buy-buy-brainwashing |
 | does to our beings? |
-| I copy-pasted a "free" New York Times article and highlighted every time it advertised to me.<br>There is one advertisement every 250 words or so, making for |
+| I copy-pasted a "free" New York Times article and highlighted every time it advertised to me.
+There is one advertisement every 250 words or so, making for |
 | nine |
 | in the article overall. |
 
@@ -273,15 +327,22 @@ I consider that a very different thing than selling my word.
 
 ## Sponsorships are designed to promote sales by the say-so of the person holding the item. Thus, using marketing, affiliate links, or traditional product-pushing sponsorships to pay for my basic necessities means that I am willing to sell my opinion to the highest bidder to eat.
 
-| Which also places me in a position of extreme precarity— except now, I am at the mercy of<br>stocks, shareholders, and corporate conglomerates instead of in the hands of the people. |
+| Which also places me in a position of extreme precarity— except now, I am at the mercy of
+stocks, shareholders, and corporate conglomerates instead of in the hands of the people. |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Either way, it's precarious. I trust you all more and I don't want to place myself in a position of<br>involuntary extractor. Because that means that I am extracting from you, this community I<br>have grown to love. |
+| Either way, it's precarious. I trust you all more and I don't want to place myself in a position of
+involuntary extractor. Because that means that I am extracting from you, this community I
+have grown to love. |
 | also. |
 | look at my teachers. |
-| imagine if Che Guevara advertised a can of hairspray before his speeches before the UN.<br>think about Fred Hampton encouraging us to pick up a bottle of cognac to relax after a<br>demonstration. ??? be so serious. |
-| I am putting myself in a position of precarity. essentially, by giving up extorting my community<br>and by, instead, working |
+| imagine if Che Guevara advertised a can of hairspray before his speeches before the UN.
+think about Fred Hampton encouraging us to pick up a bottle of cognac to relax after a
+demonstration. ??? be so serious. |
+| I am putting myself in a position of precarity. essentially, by giving up extorting my community
+and by, instead, working |
 | for |
-| my community, I give up traditional means of income. If you can, please help me continue this<br>work: |
+| my community, I give up traditional means of income. If you can, please help me continue this
+work: |
 | monetarily |
 | by stretching your attention. |
 | by talking about these ideas with people you know in physical person and online |
@@ -303,14 +364,18 @@ word to
 
 | ■ |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| if you did not already slide Wikipedia a dollar, please do. I give just a handful of bucks every<br>year because I love it. do you love it? do you have literally two USD? it's okay if you don't!! if<br>you do, slide some bread their way!!! |
+| if you did not already slide Wikipedia a dollar, please do. I give just a handful of bucks every
+year because I love it. do you love it? do you have literally two USD? it's okay if you don't!! if
+you do, slide some bread their way!!! |
 | ■ |
-| full article here:<br>https://www.indigenousaction.org/unknowable-against-an-indigenous-anarchist-theory-zine/|
+| full article here:
+https://www.indigenousaction.org/unknowable-against-an-indigenous-anarchist-theory-zine/|
 | ■ |
 | full article here: https://www.thenation.com/article/activism/anarchism-navajo-aid/|
 | ■ |
 | Abbie Richards |
-| (@tofology on Tik Tok) has really great resources on mis vs. disinformation in regards to<br>ongoing events and conspiracy theories should you wish to explore more <3 |
+| (@tofology on Tik Tok) has really great resources on mis vs. disinformation in regards to
+ongoing events and conspiracy theories should you wish to explore more <3 |
 | ■ |
 | word to |
 ## | Between the World and Me |
@@ -324,7 +389,8 @@ word to
 | ■ |
 | https://fairsearch.org/wp-content/uploads/2011/06/Fair Search_Fact_Sheet.pdf|
 | ■ |
-| an affectionate name for teenagers, who often do not have enough autonomous income for<br>subscriptions supporting online creators |
+| an affectionate name for teenagers, who often do not have enough autonomous income for
+subscriptions supporting online creators |
 | ■ |
 | |
 ## | |

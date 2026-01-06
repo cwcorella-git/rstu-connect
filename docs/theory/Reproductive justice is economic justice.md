@@ -1,3 +1,8 @@
+---
+title: "## **Reproductive justice is economic justice.**"
+category: "theory"
+---
+
 ## **Reproductive justice is economic justice.**
 
 ## **Date:** 2023-02-19
@@ -32,12 +37,19 @@ Threadings is a reader-supported publication. Thank you for subscribing, free or
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
 | Resources for this section: | |
 | https://www.sistersong.net/reproductive-justice/| |
-| https://blackvoicenews.com/2023/02/15/op-ed-reproductive-justice-is-black-history-how-twelv<br>e-black-women-sparked-a-movement/ | |
+| https://blackvoicenews.com/2023/02/15/op-ed-reproductive-justice-is-black-history-how-twelv
+e-black-women-sparked-a-movement/ | |
 | https://ncnw.org/files/We Remember Brochure.pdf| |
-| At the end of this essay, I will read the We Remember Brochure, cover pictured above,<br>disseminated by Women of African Descent for Reproductive Justice because it's some bars.<br>You can find it linked in bold in this section of the essay, or by clicking on the picture in the<br>newsletter. | |
-| Reproductive Justice is a critical feminist framework designed by a group of Black women,<br>who organized and called themselves Women of African Descent for Reproductive Justice.<br>It's an | |
+| At the end of this essay, I will read the We Remember Brochure, cover pictured above,
+disseminated by Women of African Descent for Reproductive Justice because it's some bars.
+You can find it linked in bold in this section of the essay, or by clicking on the picture in the
+newsletter. | |
+| Reproductive Justice is a critical feminist framework designed by a group of Black women,
+who organized and called themselves Women of African Descent for Reproductive Justice.
+It's an | |
 | active politic | |
-| designed to stand against fascist reproduction policies in the United States and the rest of the<br>world with | |
+| designed to stand against fascist reproduction policies in the United States and the rest of the
+world with | |
 | three core beliefs: | |
 | (1) the right | |
 | to | |
@@ -108,10 +120,15 @@ A Politic of Deservingness organizes around granting access to an individual, a 
 
 In this context, a politic of Deservingness pops up when we discuss how children do not deserve poverty. At face value, that's not a sentiment I disagree with. The problem arises when we ask the alternate question: so, who does deserve poverty? At what age is poverty is officially your fault? When we think about who does and does not deserve poverty, why are children our first thought? Why is it never disabled adults, the elderly, laborers in colonized countries still being exploited for fractions of pennies on the billions they make corporations? Why don't we think of refugees and those displaced by rampant, unchecked imperialism? Do they deserve their circumstances?
 
-| This is why I heavily warn against thinking of resources and rights in terms of what we do and<br>do not |
+| This is why I heavily warn against thinking of resources and rights in terms of what we do and
+do not |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | deserve: |
-| it's far too inconsistent. Who deserves what and when and why changes depending on who is<br>holding the resources. If the impoverished of the world are only deserving of our sympathy<br>and humanizing if they agree to be voluntarily sterile, we have not made any moves toward<br>justice. We are enacting the same vicious control the state does. We reduce the beauty of<br>reproduction down to a dollar sign. |
+| it's far too inconsistent. Who deserves what and when and why changes depending on who is
+holding the resources. If the impoverished of the world are only deserving of our sympathy
+and humanizing if they agree to be voluntarily sterile, we have not made any moves toward
+justice. We are enacting the same vicious control the state does. We reduce the beauty of
+reproduction down to a dollar sign. |
 | And furthermore! Just because it bears restating: |
 | You should consider yourself a future poor person rather than a future rich one. |
 | Let's revisit tenant one of "why poverty exists." |
@@ -130,7 +147,10 @@ In this context, a politic of Deservingness pops up when we discuss how children
 | having an endless workforce |
 | to |
 | exploit |
-| Take a look at the word "endless." If impoverished populations in this world suddenly, by way<br>of some magic button, ceased to produce children… where do you think the ultra-wealthy<br>would get the workforce they need to exploit? What fate have we already seen the mythical<br>"middle class" subjected to? |
+| Take a look at the word "endless." If impoverished populations in this world suddenly, by way
+of some magic button, ceased to produce children… where do you think the ultra-wealthy
+would get the workforce they need to exploit? What fate have we already seen the mythical
+"middle class" subjected to? |
 | Let's remind ourselves of the birth climate in this world. |
 
 Births are trending downward worldwide and in the United States, and countries experiencing high birth trends are usually doing so because of the stage of development they're in. The people currently least likely to have a kid in the United States are people experiencing poverty.
@@ -175,7 +195,8 @@ They look at you like you're being unreasonable for not complying with this worl
 | mama!!) wanted to call you "unreasonable." "Stubborn." "Too idealistic." |
 | My blessed, darling, whip of a girl: they were all right. |
 | You will not reason with this world that wishes you dead. |
-| You will not budge on what you know to be true. And you are absolutely idealistic, in part<br>because you |
+| You will not budge on what you know to be true. And you are absolutely idealistic, in part
+because you |
 | remember |
 | what it is like to be voiceless and downtrodden. And you |
 | stay |

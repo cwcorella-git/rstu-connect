@@ -1,3 +1,8 @@
+---
+title: "## **How labor is working on climate justice**"
+category: "labor"
+---
+
 ## **How labor is working on climate justice**
 
 **Date:** Tue, 12/15/2015 - 17:26 **Source:** https://ecology.iww.org/node/1438**Tags:** COP21, Trade Unions for Energy Democracy (TUED), just transition, green unionism, International Trade Union Confederation (ITUC), Sean Petty, nurses, climate justice, Keystone XL Pipeline (KXL) By Sean Petty - Socialist Worker , December 14, 2015 Many political leaders and the mainstream media are hailing the agreement signed by nearly 200 countries at the United Nations climate summit in Paris as "groundbreaking." But for the many thousands of people and hundreds of organizations struggling for climate justice, the deal struck at COP 21 doesn't go far enough--and not nearly fast enough. Sean Petty , a pediatric ER nurse in New York City and member of the New York State Nurses Association, traveled to Paris during the two weeks of COP 21 to be part of protests and discussions organized by climate justice organizations. Here, he answered SW's questions about the presence of unions during the summit and what lies ahead for labor and the struggle to save the planet:

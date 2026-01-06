@@ -1,14 +1,26 @@
+---
+title: "## **Editorial: The Jevons Paradox Myth**"
+category: "contemporary-analysis"
+---
+
 ## **Editorial: The Jevons Paradox Myth**
 
 ## **Date:** Sat, 04/08/2023 - 00:00
 
 | Source: https://ecology.iww.org/node/5532|
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Tags: Jevon's Paradox, degrowth, ecosocialism, renewable energy, energy, energy democracy, Trade<br>Unions for Energy Democracy (TUED), green unionism, IWW Environmental Unionism Caucus, energy<br>transition |
+| Tags: Jevon's Paradox, degrowth, ecosocialism, renewable energy, energy, energy democracy, Trade
+Unions for Energy Democracy (TUED), green unionism, IWW Environmental Unionism Caucus, energy
+transition |
 | By x344543 - |
 | IWW Environmental Union Caucus |
 | , April 6, 2023 |
-| As the climate crises deepens and the push to decarbonize the world's energy systems<br>intensifies, a chorus of skeptical and pessimistic voices continually warns against placing<br>hope in renewable energy as a solution (whether partial or wholly), arguing instead for vastly<br>reducing energy consumption (as well as everything else). One of the most commonly<br>invoked pieces of putative evidence made to bolster the argument is the oft cited, but poorly<br>understood concept known as " |
+| As the climate crises deepens and the push to decarbonize the world's energy systems
+intensifies, a chorus of skeptical and pessimistic voices continually warns against placing
+hope in renewable energy as a solution (whether partial or wholly), arguing instead for vastly
+reducing energy consumption (as well as everything else). One of the most commonly
+invoked pieces of putative evidence made to bolster the argument is the oft cited, but poorly
+understood concept known as " |
 | Jevon's Paradox |
 | " (see also |
 | Wikipedia |
@@ -39,11 +51,17 @@ A century and a half later, researchers from the Massachusetts Institute of Tech
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ) the expansion of coal usage elsewhere, there's no hard and fast rule that this will |
 | always |
-| be so. A perfect counter example, is the transition from horse drawn carriages to automobiles.<br>If Jevon's Paradox were an immutable rule, then we'd expect to see a vast increase in the use<br>of horses as beasts of burden even though the automobile replaced horse-drawn carriages,<br>and yet, Bliss insists that Jevon's Paradox "is all but inevitable". |
+| be so. A perfect counter example, is the transition from horse drawn carriages to automobiles.
+If Jevon's Paradox were an immutable rule, then we'd expect to see a vast increase in the use
+of horses as beasts of burden even though the automobile replaced horse-drawn carriages,
+and yet, Bliss insists that Jevon's Paradox "is all but inevitable". |
 | It's a misapplied argument. |
-| The argument is almost always used to demonstrate the futility of energy transition (or even<br>simply arguing in favor of greatly increasing the amount of wind, solar, and storage) and<br>counterpose degrowth and conservation of energy usage, but The |
+| The argument is almost always used to demonstrate the futility of energy transition (or even
+simply arguing in favor of greatly increasing the amount of wind, solar, and storage) and
+counterpose degrowth and conservation of energy usage, but The |
 | original case |
-| featured in Jevon's Paradox was supposedly an example of where conservation (in other<br>words |
+| featured in Jevon's Paradox was supposedly an example of where conservation (in other
+words |
 | using less |
 | energy) |
 | proved ineffective |
@@ -51,17 +69,21 @@ A century and a half later, researchers from the Massachusetts Institute of Tech
 
 | Jevon's Paradox has never been conclusively proven |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| either examining the data used in his original example or in any subsequent attempt to show a<br>similar causation. At best |
+| either examining the data used in his original example or in any subsequent attempt to show a
+similar causation. At best |
 | the results have been inconclusive |
 | |
 | Jevon's Paradox is essentially Malthusianism in another form |
-| . It's arguing that demand will always grow to exceed demand, but this isn't supported by the<br>facts. |
+| . It's arguing that demand will always grow to exceed demand, but this isn't supported by the
+facts. |
 | Jevon's Paradox doesn't make sense on an individual level |
 | . Quoting Chris Nelder, who devoted |
 | an entire podcast |
 | of T |
 | he Energy Transition Show |
-| to Jevon's Paradox, "it's highly unlikely that an individual homeowner, who upgrades from low<br>efficiency electrical equipment to high efficiency alternatives which can—in many<br>cases—save them sufficient energy to light up their home like a sports stadium, is going to |
+| to Jevon's Paradox, "it's highly unlikely that an individual homeowner, who upgrades from low
+efficiency electrical equipment to high efficiency alternatives which can—in many
+cases—save them sufficient energy to light up their home like a sports stadium, is going to |
 
 light up their home like a sports stadium!"
 
@@ -77,15 +99,22 @@ In fact it's likely that this is precisely the motivation behind Bliss's article
 
 To be certain, reducing excessive consumption is a laudable and sensible goal (though the vast majority of consumption can be eliminated simply by abolishing capitalism--though the latter is no simple act in and of itself--because it's the super rich and capitalist businesses that account for it), but simplistically arguing against the replacement of fossil fuels (and nuclear fission) power with renewable energy sources, in favor of using less (especially by invoking the very dubious Jevon's Paradox as reasoning) would actually have worse outcomes,
 
-| fuels, which will continue to spew additional greenhouse gasses into the Earth's atmosphere,<br>and these must be eliminated. (Plus, it can't be emphasized enough, the original application of<br>Jevon's Paradox was a case of growth continuing in spite of |
+| fuels, which will continue to spew additional greenhouse gasses into the Earth's atmosphere,
+and these must be eliminated. (Plus, it can't be emphasized enough, the original application of
+Jevon's Paradox was a case of growth continuing in spite of |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | conservation |
 | of resources not |
 | substitution |
 | of them!) |
-| Casual and careless invocation of Jevon's Paradox isn't limited to Degrowth advocates,<br>however. Many |
+| Casual and careless invocation of Jevon's Paradox isn't limited to Degrowth advocates,
+however. Many |
 | ecosocialists |
-| also cite it for slightly different reasons. A great many ecosocialists firmly believe that unless<br>capitalism is completely and utterly and abolished, or at least a working class socialist party<br>controls the state and the means of production, including specifically energy production, is<br>brought under centralized state ownership, energy transition will not happen in any<br>meaningful way. For example, |
+| also cite it for slightly different reasons. A great many ecosocialists firmly believe that unless
+capitalism is completely and utterly and abolished, or at least a working class socialist party
+controls the state and the means of production, including specifically energy production, is
+brought under centralized state ownership, energy transition will not happen in any
+meaningful way. For example, |
 | Trade Unions for Energy Democracy (TUED) |
 | , routinely argues that under neoliberal capitalism, what has occurred hasn't been an energy |
 | transition |

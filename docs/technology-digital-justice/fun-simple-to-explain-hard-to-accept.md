@@ -1,3 +1,8 @@
+---
+title: "**[What Games Are](https://web.archive.org/web/20250914181500/https://www.whatgamesare.com/)**"
+category: "technology-digital-justice"
+---
+
 The Wayback Machine - https://web.archive.org/web/20250914181500/https://www.whatgamesare.com/2011/09/fun-simple-to-explain-hard-to-ac…
 
 # **[What Games Are](https://web.archive.org/web/20250914181500/https://www.whatgamesare.com/)**

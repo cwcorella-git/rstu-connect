@@ -1,20 +1,10 @@
 ---
-title: >-
-  Talking About A Revolution Federica Montseny And Emma Goldman During The
-  Spanish
-author: Robert Kern
-slug: >-
-  Talking about a revolution Federica Montseny and Emma Goldman during the
-  Spanish Civil War - Catarin
-reconversion_status: ready_for_reconversion
-date: 1885
-tags:
-  - theory
-  - anarchism
-  - rent
-  - prisons
-  - labor
+title: ">-"
+author: "Robert Kern"
+date: "1885"
+category: "theory"
 ---
+
 ## **Talking about a revolution: Federica Montseny and Emma Goldman during the Spanish Civil War - Catarina von Wedemeyer**
 
 ## **Date:** Unknown

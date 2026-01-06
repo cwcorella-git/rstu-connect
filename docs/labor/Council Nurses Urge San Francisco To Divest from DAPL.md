@@ -1,9 +1,15 @@
+---
+title: "## **Council Nurses Urge San Francisco To Divest from DAPL**"
+category: "labor"
+---
+
 ## **Council Nurses Urge San Francisco To Divest from DAPL**
 
 | Date: Mon, 03/20/2017 - 17:28 |
 |----------------------------------------------------------------------------------------------------------------------------|
 | Source: https://ecology.iww.org/node/2145|
-| Tags: National Nurses United, nurses, Labor for Standing Rock (L4SR), NoDAPL, divestment, San<br>Francisco, green unionism |
+| Tags: National Nurses United, nurses, Labor for Standing Rock (L4SR), NoDAPL, divestment, San
+Francisco, green unionism |
 | |
 | By staff - |
 | California Nurses Association |

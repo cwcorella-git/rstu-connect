@@ -1,3 +1,8 @@
+---
+title: "**Cenotaph**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Cenotaph)
 
 # **Cenotaph**

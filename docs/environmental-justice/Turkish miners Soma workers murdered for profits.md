@@ -1,3 +1,8 @@
+---
+title: "## **Turkish miners: Soma workers murdered for profits**"
+category: "environmental-justice"
+---
+
 ## **Turkish miners: Soma workers murdered for profits**
 
 ## **Date:** Unknown
@@ -71,6 +76,7 @@ Mark.
 | In reply to Welcomebylibcom.org |
 |----------------------------------------------------------------------------------------------------------------------------------------|
 | According to Twitter: |
-| Soma miners raided Mine Workers' Union building and resigned from union membership,<br>saying the union do not stand for their rights. |
+| Soma miners raided Mine Workers' Union building and resigned from union membership,
+saying the union do not stand for their rights. |
 | https://mobile.twitter.com/AChristie Miller/statuses/470864456231440385|
 ## | Edit: Hurriyet reporthere |

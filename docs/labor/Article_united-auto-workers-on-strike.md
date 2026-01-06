@@ -1,13 +1,8 @@
 ---
-title: United Auto Workers On Strike
-date: 2025
-author: Shawn Fain
-tags:
-  - organizing
-  - strikes
-  - unions
-  - rent
-  - police
+title: "United Auto Workers On Strike"
+author: "Shawn Fain"
+date: "2025"
+category: "labor"
 ---
 
 # United Auto Workers On Strike

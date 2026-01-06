@@ -1,3 +1,8 @@
+---
+title: "## **Class War #12 1984**"
+category: "anti-war-peace"
+---
+
 ## **Class War #12 1984**
 
 ## **Date:** Unknown

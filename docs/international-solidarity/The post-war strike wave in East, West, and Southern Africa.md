@@ -1,3 +1,8 @@
+---
+title: "## **The post-war strike wave in East, West, and Southern Africa**"
+category: "international-solidarity"
+---
+
 ## **The post-war strike wave in East, West, and Southern Africa**
 
 ## **Date:** Unknown

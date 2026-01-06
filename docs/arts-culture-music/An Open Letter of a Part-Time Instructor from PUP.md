@@ -1,3 +1,8 @@
+---
+title: "## **An Open Letter of a Part-Time Instructor from PUP**"
+category: "arts-culture-music"
+---
+
 ## **An Open Letter of a Part-Time Instructor from PUP**
 
 ## **Date:** Unknown

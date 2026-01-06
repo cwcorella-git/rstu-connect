@@ -1,3 +1,8 @@
+---
+title: "**Beyond May Day: From Ritual to Resistance**"
+category: "contemporary-analysis"
+---
+
 # **Beyond May Day: From Ritual to Resistance**
 
 ## **Date:** Unknown

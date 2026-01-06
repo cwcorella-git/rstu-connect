@@ -1,3 +1,8 @@
+---
+title: "## **Interview: Adil Rahman of Newham Monitoring Project - Black Flag**"
+category: "contemporary-analysis"
+---
+
 ## **Interview: Adil Rahman of Newham Monitoring Project - Black Flag**
 
 ## **Date:** Unknown

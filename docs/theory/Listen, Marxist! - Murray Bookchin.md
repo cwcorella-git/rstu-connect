@@ -1,3 +1,8 @@
+---
+title: "## **Listen, Marxist! - Murray Bookchin**"
+category: "theory"
+---
+
 ## **Listen, Marxist! - Murray Bookchin**
 
 ## **Date:** Unknown
@@ -99,11 +104,16 @@ For a full version of this (having text after page 189): http://www.nasalam.org/
 | Django |
 | 16 years 8 months ago |
 | In reply to Welcomebylibcom.org |
-| I read this years ago. Looking at this again now, I realise how poor it is. The fact that he<br>defines "proletariat" as "industrial working class" in the process of hacking at strawmen tells<br>you how insightful it is. Its fair enough in as far as he's reacting against the "Marxists" in the<br>SDS of the time, but this text is pretty embarrassing today. |
+| I read this years ago. Looking at this again now, I realise how poor it is. The fact that he
+defines "proletariat" as "industrial working class" in the process of hacking at strawmen tells
+you how insightful it is. Its fair enough in as far as he's reacting against the "Marxists" in the
+SDS of the time, but this text is pretty embarrassing today. |
 | Ex-temp |
 | 16 years 7 months ago |
 | In reply to Welcomebylibcom.org |
-| I have disagreements with Bookchin Django, but it should be borne in mind that this text was<br>directed at people around the dominant force in SDS, which was the highly orthodox pretty<br>Maoist PDP. |
+| I have disagreements with Bookchin Django, but it should be borne in mind that this text was
+directed at people around the dominant force in SDS, which was the highly orthodox pretty
+Maoist PDP. |
 
 Bookchin's error later is that he pretty much uses the caricature of Marxism held by the PDP
 

@@ -1,3 +1,8 @@
+---
+title: "## **Bay Area IWW Environmental Unionism Caucus: Three Years and Going Strong**"
+category: "environmental-justice"
+---
+
 ## **Bay Area IWW Environmental Unionism Caucus: Three Years and Going Strong**
 
 **Date:** Thu, 05/05/2016 - 14:26 **Source:** https://ecology.iww.org/node/1631**Tags:** IWW Environmental Unionism Caucus, Bay Area IWW, green unionism, green syndicalism, Sunflower Alliance, Oakland, System Change not Climate Change (SCnCC), refineries, Railcon15, Railroad Workers United (RWU) By x344543 - IWW Environmental Unionism Caucus , May 3, 2016; image by Jon Flanders. The Bay Area IWW Environmental Unionism Caucus was cofounded in February 2013 by three members of the Bay Area IWW General Membership Branch . The group also helped launch the IWW EUC proper shortly after that. The Bay Area IWW EUC quickly launched as well as the EUC social media presence on Facebook & Twitter.

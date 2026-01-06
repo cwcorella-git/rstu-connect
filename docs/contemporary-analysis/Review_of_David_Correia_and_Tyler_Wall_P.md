@@ -1,3 +1,8 @@
+---
+title: "## ![](_page_0_Picture_2.jpeg)"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_2.jpeg)
 
 ## REVIEW BY JORDAN T CAMP

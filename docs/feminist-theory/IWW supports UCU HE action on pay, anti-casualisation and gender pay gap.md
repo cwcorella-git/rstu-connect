@@ -1,3 +1,8 @@
+---
+title: "## **IWW supports UCU HE action on pay, anti-casualisation and gender pay gap**"
+category: "feminist-theory"
+---
+
 ## **IWW supports UCU HE action on pay, anti-casualisation and gender pay gap**
 
 ## **Date:** Unknown

@@ -1,28 +1,40 @@
+---
+title: "## **Answering Annihilation: Some Notes on Earth's Execution**"
+category: "arts-culture-music"
+---
+
 ## **Answering Annihilation: Some Notes on Earth's Execution**
 
 | Date: Tue, 07/18/2017 - 18:10 |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Source: https://ecology.iww.org/node/2353|
-| Tags: climate justice, Anthropocene, climate change, Dan Fischer, Dragonfly Collective (Capitalism<br>versus the Climate), green-anarchism, green syndicalism |
+| Tags: climate justice, Anthropocene, climate change, Dan Fischer, Dragonfly Collective (Capitalism
+versus the Climate), green-anarchism, green syndicalism |
 | By Dan Fischer - |
 | Dragonfly Collective |
 | , July 17, 2017 |
-| Half of all wild animals on Earth have been wiped out. You may have missed the news. It<br>came from a scientific study mentioned on page 5 of last Wednesday's |
+| Half of all wild animals on Earth have been wiped out. You may have missed the news. It
+came from a scientific study mentioned on page 5 of last Wednesday's |
 | New York Times |
-| . You had to flip past the usual stories of Trump regime scandals, four jewelry advertisements,<br>and an ode to a slain officer from the New York Police Department. |
+| . You had to flip past the usual stories of Trump regime scandals, four jewelry advertisements,
+and an ode to a slain officer from the New York Police Department. |
 | "'Biological Annihilation' Said to Be Underway." The |
 | article |
-| took up only as much space as a Sootheby's ad on the same page announcing jewelry sales<br>in New York City. |
+| took up only as much space as a Sootheby's ad on the same page announcing jewelry sales
+in New York City. |
 
-| While "biological annihilation" sounds like an evil plot thought up by a Bond villain, the term<br>actually comes from a peer-reviewed |
+| While "biological annihilation" sounds like an evil plot thought up by a Bond villain, the term
+actually comes from a peer-reviewed |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | study |
 | in the prestigious |
 | Proceedings of the National Academy of Sciences |
 | ( |
 | PNAS |
-| ). The authors Gerardo Ceballos, Paul Ehrlich, and Rodolfo Dirzo use it to describe the<br>ongoing destruction of local populations within different species. |
-| Due to the pressures of habitat destruction, pollution, and climate change, species are going<br>extinct at 100 times the rate they normally would. The |
+| ). The authors Gerardo Ceballos, Paul Ehrlich, and Rodolfo Dirzo use it to describe the
+ongoing destruction of local populations within different species. |
+| Due to the pressures of habitat destruction, pollution, and climate change, species are going
+extinct at 100 times the rate they normally would. The |
 | PNAS |
 | study shows that populations |
 | within |
@@ -104,13 +116,22 @@ It was recently calculated in the "Carbon Majors Report" that just
 | PNAS |
 | and |
 | New York |
-| pieces omit this reality. With an optimism about new technological fixes, Wallace-Wells seems<br>to think governments will voluntarily shift their course in an ecologically sound direction. He<br>reports, "[C]limate scientists have a strange kind of faith: We will find a way to forestall radical<br>warming, they say, because we must." Repeatedly, Wallace-Wells uses the pronoun "we" to<br>lump together all humans, rich and poor alike, into the same political category: "if we stop<br>burning fossil fuels," "should we stay the present course." This lumping obscures key social<br>antagonisms. |
+| pieces omit this reality. With an optimism about new technological fixes, Wallace-Wells seems
+to think governments will voluntarily shift their course in an ecologically sound direction. He
+reports, "[C]limate scientists have a strange kind of faith: We will find a way to forestall radical
+warming, they say, because we must." Repeatedly, Wallace-Wells uses the pronoun "we" to
+lump together all humans, rich and poor alike, into the same political category: "if we stop
+burning fossil fuels," "should we stay the present course." This lumping obscures key social
+antagonisms. |
 | In today's plutocratic world, a mere |
 | 5 people |
-| are as wealthy as 50 percent of humanity combined. "We" are not the problem, and no<br>solution will come about unless the false unity implied by Wallace-Wells's "we" is dismantled.<br>The capitalists causing the crisis do not, and structurally |
+| are as wealthy as 50 percent of humanity combined. "We" are not the problem, and no
+solution will come about unless the false unity implied by Wallace-Wells's "we" is dismantled.
+The capitalists causing the crisis do not, and structurally |
 | cannot |
 
-| , care about their victims. To quote the Industrial Workers of the World, "The working class<br>and the employing class have nothing in common." |
+| , care about their victims. To quote the Industrial Workers of the World, "The working class
+and the employing class have nothing in common." |
 |--------------------------------------------------------------------------------------------------------------------------------------------------|
 | " |
 ## | |
@@ -143,7 +164,8 @@ There may still be time to stop the Earth's executioners before they finish the 
 
 | Dan Fischer |
 |-------------------------------------------------------------------------------------------------------------------------------------------|
-| is a member of Dragonfly Climate Collective (affiliated with Rising Tide) and Industrial<br>Workers of the World-CT. He can be reached at |
+| is a member of Dragonfly Climate Collective (affiliated with Rising Tide) and Industrial
+Workers of the World-CT. He can be reached at |
 | dfischer@riseup.net |
 | |
 ## | Disclaimer: |

@@ -1,3 +1,8 @@
+---
+title: "Scientists discover a gel that whitens teeth and kills 94% of bacteria"
+category: "environmental-justice"
+---
+
 #### [freethink.com](https://www.freethink.com/health/teeth-whitening-hydrogel)
 
 # Scientists discover a gel that whitens teeth and kills 94% of bacteria

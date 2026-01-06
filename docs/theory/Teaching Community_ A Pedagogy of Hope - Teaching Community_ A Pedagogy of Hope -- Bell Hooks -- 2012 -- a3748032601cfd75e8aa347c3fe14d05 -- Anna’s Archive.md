@@ -1,3 +1,8 @@
+---
+title: "Teaching Community"
+category: "theory"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 # Teaching Community
@@ -31,19 +36,26 @@ It is imperative that we maintain hope even when the harshness of reality may su
 | | Classrooms without Boundaries | |
 | Teach 3 | Talking Race and Racism | 25 |
 | Teach 4 | Democratic Education | 41 |
-| Teach 5 | What Happens When<br>White People Change | 51 |
+| Teach 5 | What Happens When
+White People Change | 51 |
 | Teach 6 | Standards | 67 |
 ## | Teach 7 | How Can We Serve | 83 |
 
 | Teach 8 | Moving beyond Shame | | |
 |----------|--------------------------------------------|-----|--|
-| Teach 9 | Keepers of Hope<br>Teaching in Communities | 105 | |
-| Teach 10 | Progressive Learning<br>A Family Value | 117 | |
-| Teach 11 | Heart to Heart<br>Teaching with Love | 127 | |
-| Teach 12 | Good Sex<br>Passionate Pedagogy | 139 | |
+| Teach 9 | Keepers of Hope
+Teaching in Communities | 105 | |
+| Teach 10 | Progressive Learning
+A Family Value | 117 | |
+| Teach 11 | Heart to Heart
+Teaching with Love | 127 | |
+| Teach 12 | Good Sex
+Passionate Pedagogy | 139 | |
 | Teach 13 | Spirituality in Education | 157 | |
-| Teach 14 | This Is Our Life<br>Teaching toward Death | 165 | |
-| Teach 15 | Spiritual Matters<br>in the Classroom | 175 | |
+| Teach 14 | This Is Our Life
+Teaching toward Death | 165 | |
+| Teach 15 | Spiritual Matters
+in the Classroom | 175 | |
 | Teach 16 | Practical Wisdom | 185 | |
 ## | | Index | 199 | |
 
@@ -1020,7 +1032,8 @@ Fundamentally the dedicated students at Southwestern, both professors and underg
 | anti-racist, 27, 37, 52, 61 | 116, 194 |
 | apartheid, 53, 186 | dislocation, 21 |
 | authoritarian practice, 43 | diversity, 33, 45, 47, 80 |
-| autobiography, 119 | dominator culture, 11, 75, 83, 91,<br>131 |
+| autobiography, 119 | dominator culture, 11, 75, 83, 91,
+131 |
 | Baldwin, James, 135, 136 | |
 | Bambara, Toni, 169 | Eisenstein, Zillah, 9, 59–60 |
 | black power, 53 | erotic, 144 |
@@ -1063,7 +1076,8 @@ Fundamentally the dedicated students at Southwestern, both professors and underg
 | King, Martin Luther, 35, 75, 177 | shame, 93–94, 96, 101 |
 | | sisterhood, 58 |
 | lesbian, 62–63, 65, 123, 191 | slavery, 95 |
-| Lewis, John, 51 | solidarity,<br>114 |
+| Lewis, John, 51 | solidarity,
+114 |
 | literacy, 41 | spirituality, 179–81 |
 | love, 39, 127, 132–33, 136, | Spivak, Gayatri, 7 |
 | 160–62 | |

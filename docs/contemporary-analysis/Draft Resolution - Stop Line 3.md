@@ -1,31 +1,48 @@
+---
+title: "## **Draft Resolution - Stop Line 3**"
+category: "contemporary-analysis"
+---
+
 ## **Draft Resolution - Stop Line 3**
 
 | Date: Fri, 12/21/2018 - 17:36 |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Source: https://ecology.iww.org/node/3070|
-| Tags: Line 3, green unionism, green syndicalism, Industrial Workers of the World (IWW), blockadia,<br>indigenous |
+| Tags: Line 3, green unionism, green syndicalism, Industrial Workers of the World (IWW), blockadia,
+indigenous |
 | Draft Resolution - |
 | IWW Environmental Unionism Caucus |
 | , December 24, 2018 |
 | The following resolution is a draft |
 | only |
-| and has not yet been adopted by any IWW branch or the union as a whole. We will update<br>this post if and when that changes. We are posting it here as a |
+| and has not yet been adopted by any IWW branch or the union as a whole. We will update
+this post if and when that changes. We are posting it here as a |
 | recommended |
 | resolution. |
 | Whereas: |
-| The existing Line 3 is an Enbridge pipeline that transports crude oil from Alberta to Superior,<br>Wisconsin spanning northern Minnesota and crossing the Leech Lake and Fond du Lac |
+| The existing Line 3 is an Enbridge pipeline that transports crude oil from Alberta to Superior,
+Wisconsin spanning northern Minnesota and crossing the Leech Lake and Fond du Lac |
 
 reservations and the 1855, 1854, and 1842 treaty areas;
 
 | Whereas: |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Since Enbridge Line 3's construction in 1961 it has experienced severe corrosion that has led<br>to countless spills and ruptures; |
+| Since Enbridge Line 3's construction in 1961 it has experienced severe corrosion that has led
+to countless spills and ruptures; |
 | Whereas: |
-| Instead of decommissioning Line 3 and paying for its removal and the rehabilitation of the<br>lands it has despoiled, Enbridge is pushing to expand and replace it (they call it a<br>"replacement" but it is larger, with a higher volume and in a new corridor); |
+| Instead of decommissioning Line 3 and paying for its removal and the rehabilitation of the
+lands it has despoiled, Enbridge is pushing to expand and replace it (they call it a
+"replacement" but it is larger, with a higher volume and in a new corridor); |
 | Whereas: |
-| At \$7.5 billion, the proposed new Line 3 would be the "largest project in Enbridge's history"<br>and one of the largest crude oil pipelines in the world, carrying up to 915,000 barrels per day<br>of one of the dirtiest fuels on earth, tar sands crude; |
+| At \$7.5 billion, the proposed new Line 3 would be the "largest project in Enbridge's history"
+and one of the largest crude oil pipelines in the world, carrying up to 915,000 barrels per day
+of one of the dirtiest fuels on earth, tar sands crude; |
 | Whereas: |
-| Line 3 is poised to be a linchpin in tar-sands infrastructure, committed for decades to<br>advancing a dying industry that is a major source of greenhouse gases, poses a direct threat<br>to the lives and livelihoods of indigenous communities, and creates a perpetual risk to large<br>sources of clean water including Lake Superior (also a large part of Minnesota's tourist<br>economy and a potent symbol to the region's people); |
+| Line 3 is poised to be a linchpin in tar-sands infrastructure, committed for decades to
+advancing a dying industry that is a major source of greenhouse gases, poses a direct threat
+to the lives and livelihoods of indigenous communities, and creates a perpetual risk to large
+sources of clean water including Lake Superior (also a large part of Minnesota's tourist
+economy and a potent symbol to the region's people); |
 | Whereas: |
 | Economically, the tar-sands are doomed; and environmentally, they are a disaster; |
 ## | Whereas: |
@@ -48,35 +65,55 @@ Whereas:
 
 Far more permanent union jobs can be created at comparable wages by repairing other aging and far more vital pipeline infrastructure, such as water mains in Flint, Michigan and elsewhere, or repairing leaks in existing oil and gas pipelines which, if unfixed, release
 
-| harmful amounts of methanea known greenhouse gas that contributes to global warming at<br>a rate multiples greater than carbon dioxide; |
+| harmful amounts of methanea known greenhouse gas that contributes to global warming at
+a rate multiples greater than carbon dioxide; |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Whereas: |
-| Far more jobs currently exist in the growing renewable energy sector than in the declining<br>fossil fuel sector; |
+| Far more jobs currently exist in the growing renewable energy sector than in the declining
+fossil fuel sector; |
 | Whereas: |
-| Though these renewable energy jobs are currently typically nonunion, unions, if so<br>determined, could easily develop a successful organizing program using solidarity unionism<br>that could revitalize the struggling labor movement; |
+| Though these renewable energy jobs are currently typically nonunion, unions, if so
+determined, could easily develop a successful organizing program using solidarity unionism
+that could revitalize the struggling labor movement; |
 | Whereas: |
-| Enbridge Line 3 will not deliver the promised "energy security" or "energy independence"<br>promised by its promoters (many building trades and AFL-CIO union officials among them); |
+| Enbridge Line 3 will not deliver the promised "energy security" or "energy independence"
+promised by its promoters (many building trades and AFL-CIO union officials among them); |
 | Whereas: |
-| Oil pipelines such as the proposed Line 3 "replacement" tend to leak and create unnecessary<br>risks to the surrounding environment, both through methane gas leaks as well as crude oil<br>spillswhich in the case of heavy tar sands oil are literally impossible to clean up as the toxic<br>substance sinks deep into the ground and into aquifers that supply millions of people with<br>water; |
+| Oil pipelines such as the proposed Line 3 "replacement" tend to leak and create unnecessary
+risks to the surrounding environment, both through methane gas leaks as well as crude oil
+spillswhich in the case of heavy tar sands oil are literally impossible to clean up as the toxic
+substance sinks deep into the ground and into aquifers that supply millions of people with
+water; |
 | Whereas: |
-| Such pipelines endanger the communities along their routes, including many indigenous<br>communities whose tribal sovereignty has been ignored and violated during permitting |
+| Such pipelines endanger the communities along their routes, including many indigenous
+communities whose tribal sovereignty has been ignored and violated during permitting |
 
-| processes by agencies subject to regulatory capture by the capitalist interests that promote<br>them; |
+| processes by agencies subject to regulatory capture by the capitalist interests that promote
+them; |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Whereas: |
-| Continued new construction of such pipelines will contribute massively to the acceleration of<br>already dangerous levels of greenhouse gas emissions, which in turn are contributing to<br>already dangerous levels of climate change and could lead to a dead planet with no jobs of<br>any kind; |
+| Continued new construction of such pipelines will contribute massively to the acceleration of
+already dangerous levels of greenhouse gas emissions, which in turn are contributing to
+already dangerous levels of climate change and could lead to a dead planet with no jobs of
+any kind; |
 | Be it Resolved that: |
-| the IWW declares and reiterates its steadfast opposition to the construction of the Line 3<br>"replacement"; |
+| the IWW declares and reiterates its steadfast opposition to the construction of the Line 3
+"replacement"; |
 | Be it Further Resolved that: |
-| the IWW stands in solidarity with First Nations, union members, environmental activists, and<br>community members who oppose it; |
+| the IWW stands in solidarity with First Nations, union members, environmental activists, and
+community members who oppose it; |
 | Be it Further Resolved that: |
-| the IWW urges rank-and-file members of building trades unions, the Teamsters, and other<br>unions who have declared support for Enbridge Line 3 to agitate and call upon their elected<br>officials to reverse their support; and |
+| the IWW urges rank-and-file members of building trades unions, the Teamsters, and other
+unions who have declared support for Enbridge Line 3 to agitate and call upon their elected
+officials to reverse their support; and |
 | Be it Finally Resolved that: |
-| the IWW supports a just transition away from fossil-fueled colonial capitalism which countless<br>workers and activists of all stripes have been developing and visioning for decades, and |
+| the IWW supports a just transition away from fossil-fueled colonial capitalism which countless
+workers and activists of all stripes have been developing and visioning for decades, and |
 
 declares its intention to fight for the implementation of a real and transformative--in other
 
 | | words, anti-capitalist and anti-racist Green New Deal. |
 |-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Disclaimer: | |
-| | The views expressed here are not the official position of the IWW (or even the IWW's EUC)<br>and do not necessarily represent the views of anyone but the author's. |
+| | The views expressed here are not the official position of the IWW (or even the IWW's EUC)
+and do not necessarily represent the views of anyone but the author's. |

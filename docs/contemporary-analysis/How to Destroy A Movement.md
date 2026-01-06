@@ -1,3 +1,7 @@
+---
+title: "We live in a society."
+category: "contemporary-analysis"
+---
 
 0:00
 We live in a society.

@@ -1,3 +1,8 @@
+---
+title: "## **Pedagogy of the Oppressed**"
+category: "theory"
+---
+
 ## **Pedagogy of the Oppressed**
 
 ## **Date:** Unknown

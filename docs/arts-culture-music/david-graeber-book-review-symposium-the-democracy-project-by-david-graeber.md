@@ -1,23 +1,8 @@
 ---
-title: 'Book review symposium: <em>The Democracy Project</em>, by David Graeber'
-author: David Graeber
-date: 1 July 2014
-pubdate: '2023-02-05T15:23:23'
-language: en
-source_url: 'Global Discourse, Volume 4, Issue 2-3, pp. 380-387'
-notes: >-
-  Online at
-  [[https://bristoluniversitypressdigital.com/view/journals/gd/4/2-3/article-p380.xml][bristoluniversitypressdigital.com]].
-  DOI: https://doi.org/10.1080/23269995.2014.891397 | See also: David Graeber
-  Institute [[https://davidgraeber.institute/]] & [[https://davidgraeber.org/]]
-original_format: muse
-converted_date: '2025-11-08T11:25:03.055432'
-tags:
-  - theory
-  - contemporary
-  - rent
-  - police
-  - labor
+title: "Book review symposium: <em>The Democracy Project</em>, by David Graeber"
+author: "David Graeber"
+date: "1 July 2014"
+category: "arts-culture-music"
 ---
 
 First of all, let me say how honored I feel to receive such thoughtful and intellectually generous reviews. *The Democracy Project* was mostly written in the early months of 2012. At the time I had no idea where the whole project of OWS was ultimately going – none of us did – and what its long-term impact might be. Of course, in a way we still don’t. But if I am right that one of the chief aims of revolutionary activity is to transform political common sense, then the very fact that conversations like this are going is already something of a victory; the questions being asked are at this stage more important than the (always provisional) answers we can provide; for this reason, the quality of the critical reflections here is if anything even more gratifying to me than the praise (however pleasant to read) because they raise such important questions in such a constructive way. Let me try to respond to one or two points from each in the spirit in which they were given.

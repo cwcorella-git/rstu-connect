@@ -1,3 +1,8 @@
+---
+title: "**Murray Bookchin**"
+category: "contemporary-analysis"
+---
+
 # **Murray Bookchin**
 
 # **Free Cities**
@@ -1222,13 +1227,13 @@ Above all, communalism stakes out a claim as a continuation of all that is emanc
 
 This self-actualization of humanity's potentiality for reason, creativity, and self-consciousness is more than a distant ideal; it is the one abiding goal that gives meaning to any effort to change the world. Indeed, the magnificent goal of advancing reason, creativity, and self-consciousness in human affairs is all that gives meaning to the evolution of humanity itself as the potentially creative agent; in its absence the world has no meaning. This goal should hover over *every* transformative project that communalists undertake in their efforts to make an inhuman world into a human one and an irrational society into a rational one – favoring a commitment to truth and innovation, irrespective of what is so misleadingly called realism and adaptation. It is not by any pragmatic map but by this flame, which is fueled by reason's conception of "what should be" as against "what is," that humanity can fulfill its potentiality for reason and self-consciousness, thereby justifying itself in the scheme of things.
 
-[<sup>\[1\]</sup>](#page-2-0) The most comprehensive and accessible overview of these ideas is Janet Biehl's book *The Politics of Social Ecology: Libertarian Municipalism* (Montréal: Black Rose Books, 1998), a work that Bookchin himself often recommended as the best introduction to his political ideas.
+[\[1\]](#page-2-0) The most comprehensive and accessible overview of these ideas is Janet Biehl's book *The Politics of Social Ecology: Libertarian Municipalism* (Montréal: Black Rose Books, 1998), a work that Bookchin himself often recommended as the best introduction to his political ideas.
 
-[<sup>\[2\]</sup>](#page-2-1) The book was originally published by Sierra Club Books (San Francisco) as *The Rise of Urbanization and the Decline of Citizenship* in 1987; republished by Black Rose Books (Montréal) in 1992 as *Urbanization Without Cities: The Rise and Decline of Citizenship*; and finally republished in a revised version as *From Urbanization to Cities: Toward a Politics of Citizenship*, by Cassell (London) in 1995. Despite the fairly dry titles, the book gives a vivid account of the emergence and meaning of politics, citizenship, and civic development.
+[\[2\]](#page-2-1) The book was originally published by Sierra Club Books (San Francisco) as *The Rise of Urbanization and the Decline of Citizenship* in 1987; republished by Black Rose Books (Montréal) in 1992 as *Urbanization Without Cities: The Rise and Decline of Citizenship*; and finally republished in a revised version as *From Urbanization to Cities: Toward a Politics of Citizenship*, by Cassell (London) in 1995. Despite the fairly dry titles, the book gives a vivid account of the emergence and meaning of politics, citizenship, and civic development.
 
-[<sup>\[3\]</sup>](#page-4-0) This small book was published by AK Press in 2007.
+[\[3\]](#page-4-0) This small book was published by AK Press in 2007.
 
-[<sup>\[4\]</sup>](#page-4-1) We also discussed his manuscript on philosophy, *The Politics of Cosmology*, which he wanted me to work on; he gave me a copy with instructions on how to edit it, and I gave him my promise that I would see to its publication.
+[\[4\]](#page-4-1) We also discussed his manuscript on philosophy, *The Politics of Cosmology*, which he wanted me to work on; he gave me a copy with instructions on how to edit it, and I gave him my promise that I would see to its publication.
 
 - [\[5\]](#page-4-2) *Communalism* was first launched in October 2002 on the Internet. Apart from Murray Bookchin and myself, the other members of the editorial board were Janet Biehl, Peter Zegers, Gary Sisco, and Sveinung Legard. (At our first meeting, in August 1999, I was elected general editor.) Bookchin suggested the subtitle on its masthead – *International Journal for a Rational Society* – and took a great interest in the workings of the journal, although his declining health impeded him from playing a more active role. (The journal continues to appear, at www.communalism.net; now available in print.)
 - [\[6\]](#page-6-0) For Janet Biehl's account of this ideological break, see "Bookchin Breaks with Anarchism," in L. Gambone and P. Murtagh, eds., *Anarchism for the 21st Century* (Edinburgh and Oakland: AK Press, forthcoming). This essay was also published in *Communalism*, no. 12 (October 2007).

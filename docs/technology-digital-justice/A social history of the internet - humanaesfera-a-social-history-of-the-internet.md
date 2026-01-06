@@ -1,3 +1,8 @@
+---
+title: "The Anarchist Library Anti-Copyright"
+category: "technology-digital-justice"
+---
+
 ## A social history of the internet
 
 Of conjuration, bubbles, and subsumption to capital
@@ -6,24 +11,95 @@ Of conjuration, bubbles, and subsumption to capital
 
 ## Contents
 
-| 1.<br>UNSOPPABLE<br>FORMS<br>OF<br>UNAMABLE<br>SOCIAL<br>CONEN | 3 |
+| 1.
+UNSOPPABLE
+FORMS
+OF
+UNAMABLE
+SOCIAL
+CONEN | 3 |
 |------------------------------------------------------------------------------------------------|----|
-| 2.<br>CONJURAION<br>OF<br>UNCONROLLABLE<br>CREAIVE<br>FORCES | 4 |
-| 3.<br>CREAION<br>INO<br>DESRUCION:<br>REACIONARY<br>NEWORKS | 5 |
-| 4.<br>PACKAGED<br>WIHIN<br>HE<br>COMMODIY-FORM | 7 |
-| 5.<br>PERSONALIZAION,<br>OVERSIGH,<br>AND<br>MASS<br>ROLLIFERAION | 9 |
-| 6.<br>SUBSUMPION<br>OF<br>HE<br>GEARS<br>HA<br>MAKE<br>UP<br>HE<br>MIND:<br>MEMORY, | |
-| HOUGH,<br>VOLIION,<br>APPEIE | 10 |
-| 7.<br>LABORIZAION<br>OF<br>EXISENCE | 11 |
-| 8.<br>RANSFUSION<br>OF<br>DESRUCIVE<br>FORCES<br>INO<br>HE<br>PORES<br>OF<br>HE<br>PHYSI | |
-| CAL<br>WORLD.<br>HE<br>INLAYING<br>OF<br>PRIVAE<br>PROPERY<br>IN<br>HE<br>"NAURE<br>OF | |
-| HINGS":<br>HE<br>SUPREME<br>UOPIA<br>OF<br>CAPIAL<br>(FORUNAELY<br>SILL<br>UNRE | |
+| 2.
+CONJURAION
+OF
+UNCONROLLABLE
+CREAIVE
+FORCES | 4 |
+| 3.
+CREAION
+INO
+DESRUCION:
+REACIONARY
+NEWORKS | 5 |
+| 4.
+PACKAGED
+WIHIN
+HE
+COMMODIY-FORM | 7 |
+| 5.
+PERSONALIZAION,
+OVERSIGH,
+AND
+MASS
+ROLLIFERAION | 9 |
+| 6.
+SUBSUMPION
+OF
+HE
+GEARS
+HA
+MAKE
+UP
+HE
+MIND:
+MEMORY, | |
+| HOUGH,
+VOLIION,
+APPEIE | 10 |
+| 7.
+LABORIZAION
+OF
+EXISENCE | 11 |
+| 8.
+RANSFUSION
+OF
+DESRUCIVE
+FORCES
+INO
+HE
+PORES
+OF
+HE
+PHYSI | |
+| CAL
+WORLD.
+HE
+INLAYING
+OF
+PRIVAE
+PROPERY
+IN
+HE
+"NAURE
+OF | |
+| HINGS":
+HE
+SUPREME
+UOPIA
+OF
+CAPIAL
+(FORUNAELY
+SILL
+UNRE | |
 | ALIZABLE). | 13 |
-## | 9.<br>CONCLUSION:<br>FORGE<br>HOPE | 16 |
+## | 9.
+CONCLUSION:
+FORGE
+HOPE | 16 |
 
 #### 1. UNSTOPPABLE FORMS OF UNTAMABLE SOCIAL CONTENT
 
-Te iniial public appearance o he Inerne (1990s, wih he World Wide Web)<sup>1</sup> generaed a series o unprecedened social circumsances which capial or decades was unable o really subsume o he commodiy- and capial-orm. For abou weny years, piracy (o sofware, knowledge, and ar) was irrepressible and widespread. Tere were lierally housands o media (debae orums, sies dealing wih specific hemes) where i was possible or anyone — usually operaing under pseudonyms — o appropriae, develop, creae, and share all sors o knowledge and ar or ree, direcly, wih any human being on he ace o he earh searching or hem on he Inerne.
+Te iniial public appearance o he Inerne (1990s, wih he World Wide Web)1 generaed a series o unprecedened social circumsances which capial or decades was unable o really subsume o he commodiy- and capial-orm. For abou weny years, piracy (o sofware, knowledge, and ar) was irrepressible and widespread. Tere were lierally housands o media (debae orums, sies dealing wih specific hemes) where i was possible or anyone — usually operaing under pseudonyms — o appropriae, develop, creae, and share all sors o knowledge and ar or ree, direcly, wih any human being on he ace o he earh searching or hem on he Inerne.
 
 Te physical inrasrucure o he iniial Inerne was a maerial orm reared and atened by an immense influx o capial rom around he world, in crazed pursui o promising venures or accumulaion. A side-effec o all his was o creae unruly [selvagens] echnical condiions, which gave rise (a leas inellecually and arisically) o a prolieraion o ree social conen. Here he principle "rom each according o his abiliies, o each according o his needs" was direcly praciced, as a general rule, no merely given lip service.
 
@@ -33,7 +109,7 @@ O course, his online effervescence by isel was no enough o overcome or abolish c
 
 Leaving aside all he ideological illusions o ha era, which were no a ew, i was no unusual o ake he resrucuring o global sociey according o he principles o he world wide web as easible and obvious: a sociey in which no jus inellecual and arisic privae propery, bu even is "physical" counerpar, would be abolished along wih commodiy-producion, capial,
 
-<sup>1</sup> A brie hisory on how he Inerne was creaed, and how, by acciden, is undamenal communicaion pro ocols were developed by hackers who volunarily conribued o he IEF (Inerne Engineering ask Force) wih a universalis bias, where every resource should be reely and equally accessible o anyone on he nework, can be ound in he aricle "Immaerial Arisocracy."
+1 A brie hisory on how he Inerne was creaed, and how, by acciden, is undamenal communicaion pro ocols were developed by hackers who volunarily conribued o he IEF (Inerne Engineering ask Force) wih a universalis bias, where every resource should be reely and equally accessible o anyone on he nework, can be ound in he aricle "Immaerial Arisocracy."
 
 borders, and he Sae.2 Many assumed his would happen auomaically, once he separaion beween he online and offline worlds was gone.3
 
@@ -45,15 +121,15 @@ In realiy, class sruggle — he movemen o direc and universal associaion in whic
 
 Qie he conrary: he sruggle or conrol over he producive orces o humaniy always akes place wihin he human species isel. I consiss precisely in developing he needs and aculies o human beings as ends in hemselves, no as means or he ends o ohers. Tis is wha periodically pus a risk he producion and reproducion o capial, which neverheless canno expand wihou invoking hese very orces. Bu i invokes hem only o separae hem violenly, using he policial-penal wedge ha is privae propery. On he one hand, in order o conrol and shape human needs (subjecing hem o coninuous scarciy, as his is he only way o coninually sell commodiies). On he oher hand, in order o exploi and exrac surplus value rom human aculies (or coninuous scarciy requires ha money consanly be procured o pay or i, imposing compeiion every individual o coninually sell his own capaciies, his very sel, o capial in he labor marke). From here, prolearians are variously subjeced o hreas
 
-<sup>2</sup> On some obvious poenialiies o he inerne or he prolearia o abolish privae propery and he sae, creaing generalized communism, see "Agains he Meaphysics o Scarciy, or Pracical Copiousness."
+2 On some obvious poenialiies o he inerne or he prolearia o abolish privae propery and he sae, creaing generalized communism, see "Agains he Meaphysics o Scarciy, or Pracical Copiousness."
 
-<sup>3</sup> In he 2000s here was even a echnocraic endency ha preached ha he developmen o 3D priners will make he "communism o he inerne" overflow o he offline world, causing a echnical revoluion ha will wipe ou capialism (hese ideas were advocaed, or example, by Adrian Bowyer, Jeremy Riin, Paul Mason, and Alex Williams). Briefly, he idea was as ollows: he diffusion o 3D priners will allow anyone o produce anyhing ha he wan, using digial designs and models creaed reely by heir users and made available or ree on he inerne. Te 3D priners hemselves will be reproduced exponenially in he same way, by oher oher 3D priners, so ha anyone who wan will own one or ree. Tis will bring o an end he need o exchange commodiies, hereore, o he end o money, o he end o he privae propery o he means o lie, and, consequenly, o he end o capial. Te perec ideal would be o develop a molecular 3D priner, which would orm any raw maerial and build everyhing rom hydrogen aoms, which are he mos abundan hing in he universe.
+3 In he 2000s here was even a echnocraic endency ha preached ha he developmen o 3D priners will make he "communism o he inerne" overflow o he offline world, causing a echnical revoluion ha will wipe ou capialism (hese ideas were advocaed, or example, by Adrian Bowyer, Jeremy Riin, Paul Mason, and Alex Williams). Briefly, he idea was as ollows: he diffusion o 3D priners will allow anyone o produce anyhing ha he wan, using digial designs and models creaed reely by heir users and made available or ree on he inerne. Te 3D priners hemselves will be reproduced exponenially in he same way, by oher oher 3D priners, so ha anyone who wan will own one or ree. Tis will bring o an end he need o exchange commodiies, hereore, o he end o money, o he end o he privae propery o he means o lie, and, consequenly, o he end o capial. Te perec ideal would be o develop a molecular 3D priner, which would orm any raw maerial and build everyhing rom hydrogen aoms, which are he mos abundan hing in he universe.
 
 Te misconcepion o all his view, as o all echnocracy, is ha i atribues o echnology an imaginary power, which presupposes in ac he commodiy eishism, in which he echnics, hings, and means o producion are seen as having an auonomous, independen virue, separaed rom social relaions and deermining i. In realiy, he very concep o "echnology" — i.e., an auonomous logic ha governs echnics regardless o social relaions, human needs and capaciies, and he class sruggle — is nohing less han a synonym or capial, dead labor's sel movemen.
 
 o punishmen or promises o reward o keep hem working o he max, producing commodiies ha will be sold so as o realize surplus value and hus reproduce capial on an expanded scale [ampliadamente].
 
-In shor, since he indusrial revoluion o he eigheenh cenury he expansion o capial canno occur wihou provoking an irrupion o producive orces — human capaciies and needs — which periodically escape is conrol and overflow is limis, hreaening o abolish or deea i. Capial hen sruggles agains hese living, creaive energies, rying o conain hem. Tey mus be ransmued ino deadly, desrucive orces ha deny, dull, diminish, vampirize, and impoverish he aculies and needs o he human species. Neverheless, capial is nohing oher han hese same capaciies and needs (he producive orces hemselves) which urn accidenally agains hemselves, hrough a mechanism (dead labor, capial) ha reproduces cumulaively as i i were a sel-moving, auomaic, and sponaneous power, as irresisible as naural law. Tis is he background o he class sruggle.<sup>4</sup>
+In shor, since he indusrial revoluion o he eigheenh cenury he expansion o capial canno occur wihou provoking an irrupion o producive orces — human capaciies and needs — which periodically escape is conrol and overflow is limis, hreaening o abolish or deea i. Capial hen sruggles agains hese living, creaive energies, rying o conain hem. Tey mus be ransmued ino deadly, desrucive orces ha deny, dull, diminish, vampirize, and impoverish he aculies and needs o he human species. Neverheless, capial is nohing oher han hese same capaciies and needs (he producive orces hemselves) which urn accidenally agains hemselves, hrough a mechanism (dead labor, capial) ha reproduces cumulaively as i i were a sel-moving, auomaic, and sponaneous power, as irresisible as naural law. Tis is he background o he class sruggle.4
 
 #### 3. CREATION INTO DESTRUCTION: REACTIONARY NETWORKS
 
@@ -61,27 +137,27 @@ Everyhing indicaes ha he Inerne oday has a las been convered rom a creaive ino a
 
 Te ree, universalis inerne o unbridled piracy, open ora, reeware communiies, ec., was brually depopulaed and abandoned during his period. Is ormer paricipans were hen sucked
 
-<sup>4</sup> See Anti-Oedipus: Capitalism and Schizophrenia by Deleuze & Guatari, as well as he concep o class composiion, developed by autonomia operaia beween 1960 and 1970, and he book Signs, Machines, and Subjectivities, by Maurizio Lazzarao. Marx's Grundrisse, as well as Marx's Draf o an Article on Friedrich List's book: «Indusry can be regarded as a grea workshop in which man firs akes possession o his own orces and he orces o naure, objecifies himsel and creaes or himsel he condiions or a human exisence. When indusry is regarded in his way, one abstracts rom he circumsances in which i operaes oday, and in which i exiss as industry; one's sandpoin is no rom wihin he indusrial epoch, bu above i; indusry is regarded no by wha i is or man oday, bu by wha presen-day man is or human history, wha he is hisorically; i is no is presen-day exisence (no industry as such) ha is recognized, bu raher he power which indusry has wihou knowing or willing i and which destroys i and creaes he basis or a human exisence… Tis assessmen o indusry is hen a he same ime he recogniion ha he hour has come or i o be done away wih, or or he aboliion o he maerial and social condiions in which mankind has had o develop is abiliies as a slave. For as soon as indusry is no longer regarded as a hucksering ineres, bu as he developmen o man, man, insead o hucksering ineres, is made he principle and' wha in indusry could develop only in conradicion wih indusry isel is given he basis which is in harmony wih ha which is o be developed… Te Saint-Simon school has given us an insrucive example o wha i leads o i he productive orce ha indusry creaes unconsciously and agains is will is pu o he credi o presen-day indusry and he wo are conused: industry and he orces which indusry brings ino being unconsciously and wihou is will, bu which will only become human orces, man's power, when indusry is abolished. […] Te orces o naure and he social orces which indusry brings ino being (conjures up), sand in he same relaion o i as he prolearia. oday hey are sill he slaves o he bourgeois, and in hem he sees nohing bu he insrumens (he bearers) o his diry (selfish) lus or profi; omorrow hey will break heir chains and reveal hemselves as he bearers o human developmen which will blow him sky-high ogeher wih his indusry, which assumes he diry ouer shell — which he regards as is essence only unil he human kernel has gained sufficien srengh o burs his shell and appear in is own shape. omorrow hey will burs he chains by which he bourgeois separaes hem rom man and so disors (ransorms) hem rom a real social bond ino eters o sociey.» (Marx, "Draf o an Aricle on Friedrich Lis's Book Das Nationale System der Politischen Ökonomie," March 1845)
+4 See Anti-Oedipus: Capitalism and Schizophrenia by Deleuze & Guatari, as well as he concep o class composiion, developed by autonomia operaia beween 1960 and 1970, and he book Signs, Machines, and Subjectivities, by Maurizio Lazzarao. Marx's Grundrisse, as well as Marx's Draf o an Article on Friedrich List's book: «Indusry can be regarded as a grea workshop in which man firs akes possession o his own orces and he orces o naure, objecifies himsel and creaes or himsel he condiions or a human exisence. When indusry is regarded in his way, one abstracts rom he circumsances in which i operaes oday, and in which i exiss as industry; one's sandpoin is no rom wihin he indusrial epoch, bu above i; indusry is regarded no by wha i is or man oday, bu by wha presen-day man is or human history, wha he is hisorically; i is no is presen-day exisence (no industry as such) ha is recognized, bu raher he power which indusry has wihou knowing or willing i and which destroys i and creaes he basis or a human exisence… Tis assessmen o indusry is hen a he same ime he recogniion ha he hour has come or i o be done away wih, or or he aboliion o he maerial and social condiions in which mankind has had o develop is abiliies as a slave. For as soon as indusry is no longer regarded as a hucksering ineres, bu as he developmen o man, man, insead o hucksering ineres, is made he principle and' wha in indusry could develop only in conradicion wih indusry isel is given he basis which is in harmony wih ha which is o be developed… Te Saint-Simon school has given us an insrucive example o wha i leads o i he productive orce ha indusry creaes unconsciously and agains is will is pu o he credi o presen-day indusry and he wo are conused: industry and he orces which indusry brings ino being unconsciously and wihou is will, bu which will only become human orces, man's power, when indusry is abolished. […] Te orces o naure and he social orces which indusry brings ino being (conjures up), sand in he same relaion o i as he prolearia. oday hey are sill he slaves o he bourgeois, and in hem he sees nohing bu he insrumens (he bearers) o his diry (selfish) lus or profi; omorrow hey will break heir chains and reveal hemselves as he bearers o human developmen which will blow him sky-high ogeher wih his indusry, which assumes he diry ouer shell — which he regards as is essence only unil he human kernel has gained sufficien srengh o burs his shell and appear in is own shape. omorrow hey will burs he chains by which he bourgeois separaes hem rom man and so disors (ransorms) hem rom a real social bond ino eters o sociey.» (Marx, "Draf o an Aricle on Friedrich Lis's Book Das Nationale System der Politischen Ökonomie," March 1845)
 
 ino he windmill en masse by privaely-owned "social media" or "social neworks," which render collecively-produced conen scarce by processing i wih algorihms and resricing i o privae, amilial, and even neo-eudal virual spaces (so-called "bubbles").
 
-All signs poin oward ensnaremen in a Pavlovian rap.<sup>5</sup> In exchange or addicive simuli responses, occupying all o is users' ree ime, i exposes hem o a consan sream o adverisemen while a he same ime imposing a ee (by which some o he conen hus creaed becomes momenarily accessible o wider eudal domains). One hypohesis is ha his ensnaremen has become so oal a criical mass has been reached, so ha afer a cerain poin anyone ouside he Pavlovian rap is incommunicado, excluded rom social lie and even he labor marke, hus orcing even he mos recalciran o accep capure.
+All signs poin oward ensnaremen in a Pavlovian rap.5 In exchange or addicive simuli responses, occupying all o is users' ree ime, i exposes hem o a consan sream o adverisemen while a he same ime imposing a ee (by which some o he conen hus creaed becomes momenarily accessible o wider eudal domains). One hypohesis is ha his ensnaremen has become so oal a criical mass has been reached, so ha afer a cerain poin anyone ouside he Pavlovian rap is incommunicado, excluded rom social lie and even he labor marke, hus orcing even he mos recalciran o accep capure.
 
 "Social neworks" are a roo neworks o reactions. Tey are hus deeply reactionary in heir essenial srucure. Indeed, his is so much he case ha any conen alling under heir purview is immediaely voided o is universalisic, raional aspec. Every aspec which migh conribue humaniy, compulsively dragged and convered ino ye anoher o he endless personal disposable rubbishes ha compee or an inerminable "now" ha an inanilized, or even animalized mass responds in Pavlovian ashion [pavlovianamente] wih emoional reacions. Under hese condiions, memory, reason, and hisory are uneasible and no longer exis, and everyhing is reduced o he las emoional polarizaion on his or ha "urgen" ashion issue. In social neworks here is nohing lef o he richness o human expressions; he only permissible expression is he uninerruped adverisemen o onesel, o producs or enerprises.
 
-In he period immediaely preceding his caasrophe, he sruggle or ree and open conen on he Inerne even seemed incredibly vicorious, wih almos all he grea innovaions o he inerne appearing o go agains he companies.<sup>6</sup> As we have seen, unlike condiions o privae propery, he inerne was iniially composed o circumsances in which he reedom o each individual was no based on compeiion. Tereore i did no deprive ohers o heir reedom, bu on he conrary poeniaed he reedom and auonomy (i.e., capaciies and needs) o all hroughou he human species. For example, wih each person conribuing his or her knowledge, inormaion, ec., o a cerain subjec, alongside he knowledge o everyone else in he world similarly ineresed, a much richer and deeper knowledge would be generaed — one ha was universally accessible, or a leas accessible o anyone in he world wih access o he inerne. Tis was a basic eaure o he inerne since is incepion in he 1990s.
+In he period immediaely preceding his caasrophe, he sruggle or ree and open conen on he Inerne even seemed incredibly vicorious, wih almos all he grea innovaions o he inerne appearing o go agains he companies.6 As we have seen, unlike condiions o privae propery, he inerne was iniially composed o circumsances in which he reedom o each individual was no based on compeiion. Tereore i did no deprive ohers o heir reedom, bu on he conrary poeniaed he reedom and auonomy (i.e., capaciies and needs) o all hroughou he human species. For example, wih each person conribuing his or her knowledge, inormaion, ec., o a cerain subjec, alongside he knowledge o everyone else in he world similarly ineresed, a much richer and deeper knowledge would be generaed — one ha was universally accessible, or a leas accessible o anyone in he world wih access o he inerne. Tis was a basic eaure o he inerne since is incepion in he 1990s.
 
 Around 2006–2010, however, his began o be ermed "he sharing economy" or "collabora ive economy." Srangely, rom hen on, hese erms have seemingly appeared everywhere, applied o businesses, governmens, adverisemens or any produc, and even sel-help books. Mos criics were wary, bu many naïve individuals were seduced by he hough ha he "anarchocommunis model" o he inerne had proved isel so superior ha businesses and governmens
 
-<sup>5</sup> Tis behavioral manipulaion owes much o an academic field o sudy, par o he so called cogniive psychology, ha exiss since he 1980s called "atenion managemen" or "atenion economy," whose objecive is o manipulae he percepion and he cogniion o he populaion, a he service o capial accumulaion. "Social ne works" have been designed by companies using his "science," so ha users are addiced o direcing heir atenion o hem, leaving everyhing else ou o ocus.
+5 Tis behavioral manipulaion owes much o an academic field o sudy, par o he so called cogniive psychology, ha exiss since he 1980s called "atenion managemen" or "atenion economy," whose objecive is o manipulae he percepion and he cogniion o he populaion, a he service o capial accumulaion. "Social ne works" have been designed by companies using his "science," so ha users are addiced o direcing heir atenion o hem, leaving everyhing else ou o ocus.
 
-<sup>6</sup> E.g., Linux, Apache, PHP, MySL, Pyhon, wiki, ec.
+6 E.g., Linux, Apache, PHP, MySL, Pyhon, wiki, ec.
 
 were now adhering o i. Tis would hen change he world in a more cooperaive (even poscapialis) direcion, conrary o compeiion.
 
 Suddenly, many noiced — albei oo lae — ha hese ashionable "collaboraive economies" being used en masse were in realiy privae enerprises: Youube, Google, Facebook, witer, ec.
 
-Wha had happened was ha numerous enerprises, emiting visionary or uopian auras (vir ually all uilized reeware and open source echnologies)<sup>78</sup> ha concealed heir capialis naure, were able o induce Inerne users o generae conen or heir privae venures. Users did no realize hey were no longer conribuing o he ree communiy o he inerne, a communiy which had been empied and replaced by companies whose fixed capial algorihmically deermines he condiions hrough which users mee and access he res o he web.
+Wha had happened was ha numerous enerprises, emiting visionary or uopian auras (vir ually all uilized reeware and open source echnologies)78 ha concealed heir capialis naure, were able o induce Inerne users o generae conen or heir privae venures. Users did no realize hey were no longer conribuing o he ree communiy o he inerne, a communiy which had been empied and replaced by companies whose fixed capial algorihmically deermines he condiions hrough which users mee and access he res o he web.
 
 Henceorh, capured in his Pavlovian rap, volunary conribuions no longer poeniae one's own auonomy or ha o ohers, bu on he conrary only serves o accumulae more capial. Tis in urn breeds more dependence, more scarciy, and more subjecion o he properied class.
 
@@ -91,13 +167,13 @@ From ha poin on, wih he Inerne a las domesicaed, he rigid barrier ha ormerly hel
 
 #### 4. PACKAGED WITHIN THE COMMODITY-FORM
 
-One o he mos basic eaures o compuing is he exac copy o inormaion a almos zero cos.<sup>9</sup> Even beore he Inerne, ever since he emergence o digial compuers (especially PCs),
+One o he mos basic eaures o compuing is he exac copy o inormaion a almos zero cos.9 Even beore he Inerne, ever since he emergence o digial compuers (especially PCs),
 
-<sup>7</sup> Tis ex, writen a ha ime, describes wha was happening. See also: "Feishism o Digial Commodiies and Hidden exploiaion: Te Cases o Amazon and Apple."
+7 Tis ex, writen a ha ime, describes wha was happening. See also: "Feishism o Digial Commodiies and Hidden exploiaion: Te Cases o Amazon and Apple."
 
-<sup>8</sup> Te reeware and open source communiy, which was made volunarily by hackers agains privae ownership o sofware, and agains corporae and sae dominaion, was largely empied and he uncion previously filled by hem was overwhelmingly replaced by "sarup" enerprises. In hem an immense mass o young people ("nerds") is financed direcly by he world capial o creae "innovaions," developing more and more ways o profi and "moneize" everyhing ha unil hen had no been able o be submited o privae propery.
+8 Te reeware and open source communiy, which was made volunarily by hackers agains privae ownership o sofware, and agains corporae and sae dominaion, was largely empied and he uncion previously filled by hem was overwhelmingly replaced by "sarup" enerprises. In hem an immense mass o young people ("nerds") is financed direcly by he world capial o creae "innovaions," developing more and more ways o profi and "moneize" everyhing ha unil hen had no been able o be submited o privae propery.
 
-<sup>9</sup> Signals ransmited in he old analog elecommunicaions neworks degraded wih every reransmission and copy, adding o he signal received he accumulaed noise along he whole roue rom iniial poin o he end. On he conrary, he signal ransmited in digial neworks is regeneraed in is exac original orm a each copy and reransmission, since wha is ransmited is no longer a coninuously variable signal (i.e., analog), bu a binary signal (i.e., digial: "zeroes and ones"). Tus, i is necessary o deec in he received signal only hose wo discree levels o regenerae i and o copy i. Tis allows o discard he noise beween he wo levels (or measure i, correc i by calculaions or, i he signal-o-noise raio is oo low, discard he signal and reques a reransmission, all auomaically), while in he analog era, i was necessary o deec he enire waveorm o he levels in coninuous variaion, which made i impossible o disinguish he original signal rom he noise added by he ransmission medium (hence, in he analog era, he original noise-ree signal was necessarily he privae propery o he ransmiter in ron o he receivers, whereas in he digial age his physical basis or privae ownership o inormaion was inrinsically overcome, since everyone may have he exac copy o he original). In addiion, unlike he old analog ransmission, once a digial ransmission nework has been esablished, he energy consumpion needed o regenerae (rerieve he original binary signal, correc errors, ec.) and reransmi he digial signal on all physical links (submarines cables, opical fibers, saellies, elecric cables, microwave radios) is always he same, wheher or no nework users are rans-
+9 Signals ransmited in he old analog elecommunicaions neworks degraded wih every reransmission and copy, adding o he signal received he accumulaed noise along he whole roue rom iniial poin o he end. On he conrary, he signal ransmited in digial neworks is regeneraed in is exac original orm a each copy and reransmission, since wha is ransmited is no longer a coninuously variable signal (i.e., analog), bu a binary signal (i.e., digial: "zeroes and ones"). Tus, i is necessary o deec in he received signal only hose wo discree levels o regenerae i and o copy i. Tis allows o discard he noise beween he wo levels (or measure i, correc i by calculaions or, i he signal-o-noise raio is oo low, discard he signal and reques a reransmission, all auomaically), while in he analog era, i was necessary o deec he enire waveorm o he levels in coninuous variaion, which made i impossible o disinguish he original signal rom he noise added by he ransmission medium (hence, in he analog era, he original noise-ree signal was necessarily he privae propery o he ransmiter in ron o he receivers, whereas in he digial age his physical basis or privae ownership o inormaion was inrinsically overcome, since everyone may have he exac copy o he original). In addiion, unlike he old analog ransmission, once a digial ransmission nework has been esablished, he energy consumpion needed o regenerae (rerieve he original binary signal, correc errors, ec.) and reransmi he digial signal on all physical links (submarines cables, opical fibers, saellies, elecric cables, microwave radios) is always he same, wheher or no nework users are rans-
 
 there was already an extensive network of users around the world who transmitted free or pirated programs, files, books, images, codes, etc., on magnetic tapes or diskettes. The world wide web is nothing other than this data-copying network become automatic and instantaneous via telecommunication repeater stations, which span the entire globe with fiber optics, cables, and radio frequencies.
 
@@ -139,9 +215,9 @@ Tis algorihmic operaionalizaion o he mind or privae propery can be seen in he cu
 
 Companies now sell a supposed maximum aciliaion ha saves he maximum amoun o ime (which is "money," he absrac ime o capial), and his is made possible by algorihms ha invisibly monior he acions, he lie o each person, and analyze heir bio-socio-psychomeric profile o presen o hem, a he human-machine inerace, he ree-choice objecs she is supposedly al-
 
-<sup>10</sup> Te book A Teory o the Drone by Grégoire Chamayou, explores he implicaions o sysems o oal vigilance, is relaion wih he repression and he war.
+10 Te book A Teory o the Drone by Grégoire Chamayou, explores he implicaions o sysems o oal vigilance, is relaion wih he repression and he war.
 
-ready wan o choose.<sup>11</sup> As we saw earlier in chaper 4, his "aciliaion" was only possible due o he flood o arificially injeced noise on he Inerne. And so, programs like orren, where movies, programs, and music were downloaded or ree have been empied, and privae proper ies specialized in sreaming whose algorihms "aciliae all" (as long as you pay), such as Neflix and Spoiy, ook heir place overwhelmingly.
+ready wan o choose.11 As we saw earlier in chaper 4, his "aciliaion" was only possible due o he flood o arificially injeced noise on he Inerne. And so, programs like orren, where movies, programs, and music were downloaded or ree have been empied, and privae proper ies specialized in sreaming whose algorihms "aciliae all" (as long as you pay), such as Neflix and Spoiy, ook heir place overwhelmingly.
 
 #### 7. LABORIZATION OF EXISTENCE
 
@@ -149,29 +225,29 @@ A specific human-machine inerace almos brings o he absolue he power o capialis c
 
 Te daa colleced by companies allows hem o implemen, hrough he same smarphones, a subsumpion o sociey o capial ha covers he smalles deails o daily lie. Te disincion be ween work and consumpion disappears more and more, wih everyhing becoming in one way or anoher some orm o labor, a "value addiion". Even unconsciously, by he developmen and applicaion o gamificaion echniques, ha is, designing he condiions o any and all aciviies o make i look like a game, pavlovly manipulaing he user o perorm unpaid asks under he command o he owner o hese condiionscapialis class.
 
-Wih a millenarianis and uopian ideology, companies o he "collaboraive economy" like Uber announce o offer he Midas ouch ha ransorms objecs o consumpion o prolearians (home, car, ools, urniure, appliances, oys, ec., which are only coss – are now consumed, ha is, wear ou every day, every use), as well as heir body and mind. Tey announce he ransubsaniaion o he prolearians ino capialiss, finally made ree rom wage labor and owners o heir own ime.<sup>12</sup>
+Wih a millenarianis and uopian ideology, companies o he "collaboraive economy" like Uber announce o offer he Midas ouch ha ransorms objecs o consumpion o prolearians (home, car, ools, urniure, appliances, oys, ec., which are only coss – are now consumed, ha is, wear ou every day, every use), as well as heir body and mind. Tey announce he ransubsaniaion o he prolearians ino capialiss, finally made ree rom wage labor and owners o heir own ime.12
 
 In ac, wih all his pos-indusrial uuris rheoric, capial merely resurreced, wih high echnology, he mos archaic orm o subsumpion o labor o indusrial capial: he "puting-ou sysem", including even he gloomy figure o he "middleman". Te difference is ha now, hrough is "ricionless" algorihms ha analyze and compare he perormance o everyone wih each and each wih everyone, o he exen ha i involves he enire plane, he owner class more and more impose on he prolearians a coninually opimized global compeiion or offering he maximum amoun and inensiy o work in exchange or he minimum wage. Te only hing ha separaes his maximum rom being absolue is he ime o eeding and sleep (alhough ofen inerruped by bosses, hanks o smarphones). Eaing and sleeping are sill inescapable needs o
 
-<sup>11</sup> Ineresing aricle on his: Syle Is an Algorihm https://www.racked.com/2018/4/17/17219166/fashion-style-algorith
+11 Ineresing aricle on his: Syle Is an Algorihm https://www.racked.com/2018/4/17/17219166/fashion-style-algorith
 
-<sup>12</sup> On his, Dossiê: Luta nos aplicativos (Passapalavra) http://passapalavra.info/2016/11/110470. Also, Adam Greenfield's book Radical echnologies: Te Design o Everyday Lie, i sheds ligh on he implicaions or everyday lie o a range o echnologies, such as smarhphone, inerne o hings, augmened realiy, digial abricaion, cripocurrency, blockchain, auomaion, machine learning and arificial inelligence.
+12 On his, Dossiê: Luta nos aplicativos (Passapalavra) http://passapalavra.info/2016/11/110470. Also, Adam Greenfield's book Radical echnologies: Te Design o Everyday Lie, i sheds ligh on he implicaions or everyday lie o a range o echnologies, such as smarhphone, inerne o hings, augmened realiy, digial abricaion, cripocurrency, blockchain, auomaion, machine learning and arificial inelligence.
 
 prolearians around he world. Tey are he las ronier o exploiaion, unaccepable, inolerable, inconceivable or he sysem o privae propery.13
 
-In addiion, he producion, ransporaion and disribuion o all goods became inseparable rom he inerne. In supply chains, he increase or decrease in demand or goods commands direcly (wihou human, wih algorihms), hrough he ransmission o inormaion hrough he inerne, he auomaic acivaion o he various phases o producion, assembly, sock and flow (mariime, road , rail, air) o goods hroughou he world. Ofen he ransmited signals direcly drive he machines, robos, conveyor bels, conainer handling o and rom ships, and he hiring and mobilizaion o workers scatered and ragmened all over he plane, all o which are conneced by hese logisic chains, privae propery o mighy and invisible "middlemen".<sup>14</sup>
+In addiion, he producion, ransporaion and disribuion o all goods became inseparable rom he inerne. In supply chains, he increase or decrease in demand or goods commands direcly (wihou human, wih algorihms), hrough he ransmission o inormaion hrough he inerne, he auomaic acivaion o he various phases o producion, assembly, sock and flow (mariime, road , rail, air) o goods hroughou he world. Ofen he ransmited signals direcly drive he machines, robos, conveyor bels, conainer handling o and rom ships, and he hiring and mobilizaion o workers scatered and ragmened all over he plane, all o which are conneced by hese logisic chains, privae propery o mighy and invisible "middlemen".14
 
-Prolearians around he world have never been so close, bu hey are increasingly placed in a siuaion where hey do no direcly see ha hey are working or capial, or bosses, or he owner class. Everyhing makes hem seem o work immediaely or hemselves and agains he oher compeing prolearians (he renaissance o provincialism, racism, xenophobia, naionalism, lef and righ ideniarianism, separaism, miliarism, ascism … which or many is an unahomable mysery is nohing more han a banal expression o he exreme inensiy o compeiion or survival among workers, compeiion or he "meri" o exclusive submission o "heir" owning classes). Tey hink hey are only making money in reurn or saisying he auomaic demands o he world marke ha are signaled in he man-machine ineraces ha surround hem.<sup>1516</sup>
+Prolearians around he world have never been so close, bu hey are increasingly placed in a siuaion where hey do no direcly see ha hey are working or capial, or bosses, or he owner class. Everyhing makes hem seem o work immediaely or hemselves and agains he oher compeing prolearians (he renaissance o provincialism, racism, xenophobia, naionalism, lef and righ ideniarianism, separaism, miliarism, ascism … which or many is an unahomable mysery is nohing more han a banal expression o he exreme inensiy o compeiion or survival among workers, compeiion or he "meri" o exclusive submission o "heir" owning classes). Tey hink hey are only making money in reurn or saisying he auomaic demands o he world marke ha are signaled in he man-machine ineraces ha surround hem.1516
 
 On sleep, see Jonahan Crary's book 24/7: Late Capitalism and the Ends o Sleep.
 
-<sup>13</sup> o undersand how all hese "novelies" only reierae and inensiy endencies o capialis sociey ha have appeared since he deea o he prolearian sruggles o 1968 and he world crisis o profiabiliy ha lass rom he years 1970 unil oday, see his ex o 1988, which remains incredibly curren: Te Luster o Capital, by Alliez and Michel Feher.
+13 o undersand how all hese "novelies" only reierae and inensiy endencies o capialis sociey ha have appeared since he deea o he prolearian sruggles o 1968 and he world crisis o profiabiliy ha lass rom he years 1970 unil oday, see his ex o 1988, which remains incredibly curren: Te Luster o Capital, by Alliez and Michel Feher.
 
-<sup>14</sup> See Logistics and the actory without walls, by Brian Ashon. http://www.metamute.org/editorial/articles/logistics-an
+14 See Logistics and the actory without walls, by Brian Ashon. http://www.metamute.org/editorial/articles/logistics-an
 
-<sup>15</sup> Tis submission o he owner class which has he appearance o making workers small capialiss, en repreneurs, human capial, pety-bourgeois, also leads o an illusory sruggle on he par o he workers, a kind o Proudhonism. Tis illusion presupposes ha, in order or heir ineress o be achieved, i is necessary o pu an end o he monopolies o big corporaions and o esablish a sociey o small producers (sel-managemen) ha, wih applicaion sofwares, exchange commodiies "airly" wih each oher, esablishing he "air value" which remuneraes each one. However, his is illusory because he exchange o commodiies is a social relaion ha, regardless o he will and good inenions, implies compeiion (or "cusomers" buy heir goods insead o ohers, compeiion or buy cheap and sell expensive, ec.). By definiion, compeiion is always compeiion or monopoly, or muually exclusive ownership: privae propery. Compeiion and monopoly are mere adjecives o privae propery, which presuppose deprivaion o propery, i.e. prolearianizaion, and hence wage labor, accumulaion o capial, capialis class, sae … As or "value", i is also a social relaion ha is independen o he will or good inenions: value is he command ha a privae propery, hrough compeiion, obains over he labor o ohers, by making he buyers have o work o he maximum o buy rom i (i.e., o is commodiy becomes equivalen o he maximum absrac labor o sociey in exchange or he minimum labor in i), and o impose ha he workers agree o work a heir maximum in exchange or he minimum o ry o win he compeiion. Tus, his illusion mus always be openly opposed in he sruggles o he workers.
+15 Tis submission o he owner class which has he appearance o making workers small capialiss, en repreneurs, human capial, pety-bourgeois, also leads o an illusory sruggle on he par o he workers, a kind o Proudhonism. Tis illusion presupposes ha, in order or heir ineress o be achieved, i is necessary o pu an end o he monopolies o big corporaions and o esablish a sociey o small producers (sel-managemen) ha, wih applicaion sofwares, exchange commodiies "airly" wih each oher, esablishing he "air value" which remuneraes each one. However, his is illusory because he exchange o commodiies is a social relaion ha, regardless o he will and good inenions, implies compeiion (or "cusomers" buy heir goods insead o ohers, compeiion or buy cheap and sell expensive, ec.). By definiion, compeiion is always compeiion or monopoly, or muually exclusive ownership: privae propery. Compeiion and monopoly are mere adjecives o privae propery, which presuppose deprivaion o propery, i.e. prolearianizaion, and hence wage labor, accumulaion o capial, capialis class, sae … As or "value", i is also a social relaion ha is independen o he will or good inenions: value is he command ha a privae propery, hrough compeiion, obains over he labor o ohers, by making he buyers have o work o he maximum o buy rom i (i.e., o is commodiy becomes equivalen o he maximum absrac labor o sociey in exchange or he minimum labor in i), and o impose ha he workers agree o work a heir maximum in exchange or he minimum o ry o win he compeiion. Tus, his illusion mus always be openly opposed in he sruggles o he workers.
 
-<sup>16</sup> In he book Plaorm Capialism (by Nick Srnicek) his new configuraion o capialis sociey is called "pla orm capialism." According o him, plaorms are characerized by he exracion o daa rom sociey as raw maerial o profi. I classifies five differen ypes o plaorm: «[…] he imporan elemen is ha he capialis class owns he plaorm, no necessarily ha i produces a physical produc. Te firs ype is ha o advertising platorms (e.g. Google, Facebook), which exrac inormaion on users, underake a labour o analysis, and hen use he producs o ha pro-
+16 In he book Plaorm Capialism (by Nick Srnicek) his new configuraion o capialis sociey is called "pla orm capialism." According o him, plaorms are characerized by he exracion o daa rom sociey as raw maerial o profi. I classifies five differen ypes o plaorm: «[…] he imporan elemen is ha he capialis class owns he plaorm, no necessarily ha i produces a physical produc. Te firs ype is ha o advertising platorms (e.g. Google, Facebook), which exrac inormaion on users, underake a labour o analysis, and hen use he producs o ha pro-
 
 #### 8. TRANSFUSION OF DESTRUCTIVE FORCES INTO THE PORES OF THE PHYSICAL WORLD. THE INLAYING OF PRIVATE PROPERTY IN THE "NATURE OF THINGS": THE SUPREME UTOPIA OF CAPITAL (FORTUNATELY STILL UNREALIZABLE).
 
@@ -205,7 +281,7 @@ Forunaely, all his is sill jus he dream o capial. And here is no doub ha he slig
 
 I is much more likely ha, in he end, blockchain echnology will be used primarily by saes o keep heir records insanly up-o-dae and o make surveillance, judgmen, punishmen and policing schemes auomaically unified and immediae o he umos. Or else, wha in ac makes no difference, by enerprises ha in he division o labor will play he uniying role ("ineroperabiliy") necessary or he coninuiy o capialis sociey (which, wihou i, collapses orn by compeiion, he war o all agains all ha moves i), charging a bill or access o he blockchain ha is is privae propery (e.g. blockchain implemenaions such as Ehereum are hus). I is a pri-
 
-<sup>17</sup> Felix Guatari, Eric Alliez and Maurizio Lazzarao use he conceps o social subjection and machinic enslavement o describe his modificaion o dominaion. According o his hypohesis, he rend in recen decades is ha capialis sociey ceases o legiimize isel by an affirmaion o he reedom o he subjec ha volunarily crosses several comparmens o capialis sociey o subjec himsel o hem (social subjecion). Tis reedom or subjeciviy o cross comparmens (such as working ime and res ime, imprisonmen and reedom, school and ime ouside o school) culminaed in auonomy as a volunary ciizen subjecion o he rule o law, and hence he legiimacy o capi alis sociey hrough democraic righs and reedoms, he welare sae, and so on, considered as ree and exernal o he machinic dominaion o capial. Afer he 1980s, capialis sociey end o ransmue isel overhrowing all o hese comparmens in which he subjeciviy ha wen hrough hem was presened as ree rom dominaion, o presen isel immediaely as machinic enslavemen, which is exacly wha we described in his chaper on he supreme uopia o capial.
+17 Felix Guatari, Eric Alliez and Maurizio Lazzarao use he conceps o social subjection and machinic enslavement o describe his modificaion o dominaion. According o his hypohesis, he rend in recen decades is ha capialis sociey ceases o legiimize isel by an affirmaion o he reedom o he subjec ha volunarily crosses several comparmens o capialis sociey o subjec himsel o hem (social subjecion). Tis reedom or subjeciviy o cross comparmens (such as working ime and res ime, imprisonmen and reedom, school and ime ouside o school) culminaed in auonomy as a volunary ciizen subjecion o he rule o law, and hence he legiimacy o capi alis sociey hrough democraic righs and reedoms, he welare sae, and so on, considered as ree and exernal o he machinic dominaion o capial. Afer he 1980s, capialis sociey end o ransmue isel overhrowing all o hese comparmens in which he subjeciviy ha wen hrough hem was presened as ree rom dominaion, o presen isel immediaely as machinic enslavemen, which is exacly wha we described in his chaper on he supreme uopia o capial.
 
 vate property that will be the indispensable unifying infrastructure for all transactions and things produced in capitalist society. In practice, this bill will be the same as a taxation, just as these enterprises will be the same as a state. The latter will only cease to adorn itself with the democratic ideological façade ("republic", "constitutional monarchy", "socialism") to become directly an absolutist corporate monarchy (in fact, as it always was, in one way or another: dictatorship of capital).
 
@@ -237,6 +313,6 @@ For example, in he ace o he ac ha srikes, proess, and occupaions have become dom
 
 # Humanaesfera A social history of the internet Of conjuration, bubbles, and subsumption to capital 2018
 
-Retrieved on 18<sup>th</sup> November 2019 from http://humanaesfera.blogspot.com/2018/07/a-internet-uma-historia-de-invocacao.html English translation by Intransigence: Part I & Part II.
+Retrieved on 18th November 2019 from http://humanaesfera.blogspot.com/2018/07/a-internet-uma-historia-de-invocacao.html English translation by Intransigence: Part I & Part II.
 
 theanarchistlibrary.org

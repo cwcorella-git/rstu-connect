@@ -1,3 +1,8 @@
+---
+title: "## **After Brexit and Trump: don't demonise; localise!**"
+category: "contemporary-analysis"
+---
+
 ## **After Brexit and Trump: don't demonise; localise!**
 
 ## **Date:** Sun, 11/27/2016 - 18:03

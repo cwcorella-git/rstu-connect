@@ -1,3 +1,8 @@
+---
+title: "**Horst Stowasser**"
+category: "contemporary-analysis"
+---
+
 # **Horst Stowasser**
 
 # **Pure Freedom**
@@ -2217,6 +2222,6 @@ Certainly worth mentioning here is the often misunderstood German philosopher Fr
 
 Nietzsche himself, incidentally, gave the decisive reason why he did not see himself as an "anarchist." Despite the intellectual proximity, he believed the anarchism of his time was headed in the wrong direction because its "complaints about others and about society sprang from weakness and narrow-minded resentment." That was, in fact, a rather accurate criticism of the anarchist movement in the late 19th century — and in a sense, it still applies to certain cherished self-pitying tendencies found among some anarchists today.
 
-#### [<archive.org/details/Freihtei Pur Plus>](https://archive.org/details/Freihtei Pur Plus)
+#### [](https://archive.org/details/Freihtei Pur Plus)
 
 First translation into English by Michael Schreiber, 2025.

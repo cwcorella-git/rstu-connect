@@ -1,13 +1,8 @@
 ---
-title: Oakland Strike Balance Sheet Lessons and What Next
-date: 2025
-author: Oakland Strike Balance
-tags:
-  - organizing
-  - strikes
-  - unions
-  - housing
-  - rent
+title: "Oakland Strike Balance Sheet Lessons and What Next"
+author: "Oakland Strike Balance"
+date: "2025"
+category: "labor"
 ---
 
 # Oakland Strike Balance Sheet Lessons and What Next

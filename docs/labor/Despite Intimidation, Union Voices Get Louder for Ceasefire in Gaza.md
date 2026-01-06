@@ -1,3 +1,8 @@
+---
+title: "## **Despite Intimidation, Union Voices Get Louder for Ceasefire in Gaza**"
+category: "labor"
+---
+
 ## **Despite Intimidation, Union Voices Get Louder for Ceasefire in Gaza**
 
 ## **Date:** Tue, 10/31/2023 - 00:00
@@ -26,15 +31,19 @@ Management retaliation has struck journalists and academics. Michael Eisen, edit
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | , was fired after sharing a satirical article from |
 | The Onion |
-| that criticized media responses to the loss of Palestinian life. Jackson Frank, a sports writer<br>for |
+| that criticized media responses to the loss of Palestinian life. Jackson Frank, a sports writer
+for |
 | Philly Voice |
 | , was fired after criticizing a pro-Israel post by the Philadelphia 76ers. |
-| After publishing and signing a letter of prominent artists and critics for a ceasefire, to stop an<br>"escalating genocide," |
+| After publishing and signing a letter of prominent artists and critics for a ceasefire, to stop an
+"escalating genocide," |
 | Artforum |
-| Editor-in-Chief David Velasco was fired after 18 years at the magazine and six in that role.<br>Three other editors resigned from the high-profile magazine in protest. |
+| Editor-in-Chief David Velasco was fired after 18 years at the magazine and six in that role.
+Three other editors resigned from the high-profile magazine in protest. |
 | The National Writers Union |
 | is documenting |
-| such cases—both to connect writers with individual support, and to push for industry-wide<br>reforms. |
+| such cases—both to connect writers with individual support, and to push for industry-wide
+reforms. |
 | Meanwhile in Gaza, at least 25 journalists have been killed by Israeli airstrikes. |
 
 ## COVER FOR UNION-BUSTING
@@ -74,11 +83,14 @@ In the past week 27,000 labor activists have signed a
 | calling on top U. S. union leaders to "break your silence" and push for a ceasefire. |
 | The national |
 | AFL-CIO statement |
-| from October 11 closed with a call "to end the bloodshed of innocent civilians, and to promote<br>a just and long-lasting peace between Israelis and Palestinians." |
+| from October 11 closed with a call "to end the bloodshed of innocent civilians, and to promote
+a just and long-lasting peace between Israelis and Palestinians." |
 | The |
 | New York Times |
 | reported |
-| on October 27 that Postal Workers (APWU) President Mark Dimondstein, who described<br>himself as an "anti-Zionist Jew," was a lone voice on the AFL-CIO executive council pushing<br>others to stand for a ceasefire. He spoke for 30 minutes in the council meeting, the |
+| on October 27 that Postal Workers (APWU) President Mark Dimondstein, who described
+himself as an "anti-Zionist Jew," was a lone voice on the AFL-CIO executive council pushing
+others to stand for a ceasefire. He spoke for 30 minutes in the council meeting, the |
 | Times |
 | reported. |
 | REPRESSION, AN OLD FOE |

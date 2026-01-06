@@ -1,13 +1,8 @@
 ---
-title: Direct Unionism a Different Approach To Union Activity
-date: 2025
-author: Industrial Workers of the World
-tags:
-  - organizing
-  - strikes
-  - unions
-  - rent
-  - labor
+title: "Direct Unionism a Different Approach To Union Activity"
+author: "Industrial Workers of the World"
+date: "2025"
+category: "housing"
 ---
 
 # Direct Unionism a Different Approach To Union Activity

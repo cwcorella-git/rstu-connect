@@ -1,13 +1,8 @@
 ---
-title: Winnipeg General Strike Wikipedia
-date: 2025
-author: Prairie Struggle
-tags:
-  - organizing
-  - strikes
-  - unions
-  - housing
-  - rent
+title: "Winnipeg General Strike Wikipedia"
+author: "Prairie Struggle"
+date: "2025"
+category: "labor"
 ---
 
 # Winnipeg General Strike Wikipedia

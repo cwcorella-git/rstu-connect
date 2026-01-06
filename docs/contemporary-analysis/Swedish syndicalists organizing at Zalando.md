@@ -1,3 +1,8 @@
+---
+title: "## **Swedish syndicalists organizing at Zalando**"
+category: "contemporary-analysis"
+---
+
 ## **Swedish syndicalists organizing at Zalando**
 
 ## **Date:** Unknown

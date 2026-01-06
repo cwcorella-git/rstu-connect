@@ -1,15 +1,23 @@
+---
+title: "## **Review - A Planet to Win:Why We Need a Green New Deal**"
+category: "environmental-justice"
+---
+
 ## **Review - A Planet to Win:Why We Need a Green New Deal**
 
 | Date: Tue, 05/09/2023 - 18:22 |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Source: https://ecology.iww.org/node/5646|
-| Tags: Green New Deal (GND), green unionism, ecosocialism, ecological movements and<br>organizations, movements, unions, and organizations, movement politics, strategy and tactics,<br>reformism, fossil fuel capitalism, green capitalism |
+| Tags: Green New Deal (GND), green unionism, ecosocialism, ecological movements and
+organizations, movements, unions, and organizations, movement politics, strategy and tactics,
+reformism, fossil fuel capitalism, green capitalism |
 | By x344543 - |
 | IWW Environmental Union Caucus |
 | , May 11, 2023 |
 | In spite of this book's straightforward sounding title, |
 | A Planet to Win, Why We Need a Green New Deal |
-| (Verso, 2019), by Kate Aronoff, Alyssa Battistoni, Daniel Aldana Cohen, and The Riofrancos,<br>this relatively short and concise book would be much more accurately titled, " |
+| (Verso, 2019), by Kate Aronoff, Alyssa Battistoni, Daniel Aldana Cohen, and The Riofrancos,
+this relatively short and concise book would be much more accurately titled, " |
 | Why we think our version of the Green New Deal is the best one of the lot, |
 | " because there isn't a single " |
 | Green New Deal |

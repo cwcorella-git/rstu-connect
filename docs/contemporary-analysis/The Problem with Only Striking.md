@@ -1,3 +1,8 @@
+---
+title: "## **The Problem with Only Striking**"
+category: "contemporary-analysis"
+---
+
 ## **The Problem with Only Striking**
 
 **Date:** Wed, 04/26/2023 - 00:00 **Source:** https://ecology.iww.org/node/5667

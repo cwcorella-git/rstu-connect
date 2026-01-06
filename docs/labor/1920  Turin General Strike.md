@@ -1,3 +1,8 @@
+---
+title: "## **1920: Turin General Strike**"
+category: "labor"
+---
+
 ## **1920: Turin General Strike**
 
 **Date:** Unknown
@@ -44,7 +49,9 @@ Unfortunately, the bureaucratic labor union and the national Socialist Party wer
 | This campaign influenced similar labor movements throughout Italy (2) |
 | Sources:                                                              |
 
-| Gramsci, Antonio. Turin 1920: Factory Councils and General StrikesWetzel, Tom. Italy 1920:<br>When 600,000 Workers Seized Control of their Workplaces.<br>http://www.uncanny.net/~wsa/ital1920.html |
+| Gramsci, Antonio. Turin 1920: Factory Councils and General StrikesWetzel, Tom. Italy 1920:
+When 600,000 Workers Seized Control of their Workplaces.
+http://www.uncanny.net/~wsa/ital1920.html |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Additional notes:                                                                                                                                                                                   |
 | Edited by Max Rennebohm (25/06/2011)                                                                                                                                                                |

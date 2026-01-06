@@ -1,3 +1,8 @@
+---
+title: "## Black Liberation and Left Renewal"
+category: "contemporary-analysis"
+---
+
 ## Black Liberation and Left Renewal
 
 ## BY

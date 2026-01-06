@@ -1,3 +1,8 @@
+---
+title: "[Agrivoltaics](https://en.wikipedia.org/wiki/Main_Page)"
+category: "technology-digital-justice"
+---
+
 ## ![](_page_0_Picture_2.jpeg)
 
 # [Agrivoltaics](https://en.wikipedia.org/wiki/Main_Page)

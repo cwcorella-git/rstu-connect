@@ -1,20 +1,8 @@
 ---
-title: 'For the first time in my life, I’m frightened to be Jewish'
-author: David Graeber
-date: 6 September 2019
-pubdate: '2022-01-23T22:23:42'
-language: en
-source_url: >-
-  Retrieved on 23<sup>rd</sup> January 2022 from
-  [[https://www.opendemocracy.net/en/opendemocracyuk/first-time-my-life-im-frightened-be-jewish/][www.opendemocracy.net]]
-topics:
-  - antisemitism
-  - the Labour Party
-original_format: muse
-converted_date: '2025-11-08T11:25:03.130877'
-tags:
-  - Antisemitism
-  - The Labour Party
+title: "For the first time in my life, I’m frightened to be Jewish"
+author: "David Graeber"
+date: "6 September 2019"
+category: "contemporary-analysis"
 ---
 
 I am 58 years old, and for the first time in my life, I am frightened to be Jewish.

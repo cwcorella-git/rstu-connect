@@ -1,3 +1,8 @@
+---
+title: "**Bay Area IWW Resolution Defending the West Berkeley Shellmound**"
+category: "contemporary-analysis"
+---
+
 # **Bay Area IWW Resolution Defending the West Berkeley Shellmound**
 
 ## **Date:** Sat, 01/07/2017 - 20:27

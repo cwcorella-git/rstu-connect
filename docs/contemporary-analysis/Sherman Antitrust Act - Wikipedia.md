@@ -1,3 +1,8 @@
+---
+title: "**Sherman Antitrust Act**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Sherman_Antitrust_Act)
 
 # **Sherman Antitrust Act**

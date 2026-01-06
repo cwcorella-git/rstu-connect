@@ -1,10 +1,15 @@
+---
+title: "The Checklist to End Tyranny"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 # The Checklist to End Tyranny
 
 ## HOW DISSIDENTS WILL WIN
 
-## 21<sup>ST</sup> CENTURY
+## 21ST CENTURY
 
 ## CIVIL RESISTANCE CAMPAIGNS
 
@@ -112,15 +117,15 @@ I approached Professor Schelling aer a lecture to discuss how protagonists with 
 
 Professor Schelling introduced me to Gene Sharp, who was about to publish his iconic three-volume study, The Politics of Nonviolent Action. At the center of Sharp's thinking was a thesis about power which harkened back to the centuries-old work of Étienne de La Boétie in his Discourse on Voluntary Servitude, published in 1576. De La Boétie wrote:
 
-Resolve to serve no more, and you are at once freed. I do not ask that you place hands upon the tyrant to topple him over, but simply that you support him no longer; then you will behold him, like a great Colossus whose pedestal has been pulled away, fall of his own weight and break in pieces.<sup>1</sup>
+Resolve to serve no more, and you are at once freed. I do not ask that you place hands upon the tyrant to topple him over, but simply that you support him no longer; then you will behold him, like a great Colossus whose pedestal has been pulled away, fall of his own weight and break in pieces.1
 
-<sup>1</sup> Etienne de La Boétie, "Discours de la Servitude Volontaire," Oeuvres Complètes d'Etienne de La Boétie (Paris: J. Rouam & Cie, 1892): 12–14, quoted in Gene Sharp, The Politics of Nonviolent Action, Part One: Power and Struggle (Boston, MA: Porter Sargent Publishers, 1973), 34.
+1 Etienne de La Boétie, "Discours de la Servitude Volontaire," Oeuvres Complètes d'Etienne de La Boétie (Paris: J. Rouam & Cie, 1892): 12–14, quoted in Gene Sharp, The Politics of Nonviolent Action, Part One: Power and Struggle (Boston, MA: Porter Sargent Publishers, 1973), 34.
 
 Here is Sharp's contemporary version of this insight:
 
 In political terms, nonviolent action is based on a very simple postulate: people do not always do what they are told to do, and sometimes they act in ways that have been forbidden to them. Subjects may disobey laws they reject. Workers may halt work, which may paralyze the economy. The bureaucracy may refuse to carry out instructions. Soldiers and police may become lax in inicting repression; they may even mutiny. When all such events happen simultaneously, the persons who have been "rulers" become just other persons. This dissolution of power can happen in a wide variety of social and political conicts.
 
-When people refuse cooperation, withhold their help, and persist in their disobedience and deance, they are denying their opponents the basic human assistance and cooperation which any government or hierarchical system requires. If people do this in sucient numbers for long enough, that government or hierarchical system will no longer have power. This is the basic political assumption of nonviolent action.<sup>2</sup>
+When people refuse cooperation, withhold their help, and persist in their disobedience and deance, they are denying their opponents the basic human assistance and cooperation which any government or hierarchical system requires. If people do this in sucient numbers for long enough, that government or hierarchical system will no longer have power. This is the basic political assumption of nonviolent action.2
 
 Exposure to Sharp's work was a pivotal intellectual moment for me, and in my continual commitment to the study of nonviolent action over the next four and half decades, I have never found an occasion to dispute its accuracy or revolutionary signicance.
 
@@ -132,7 +137,7 @@ ate it with the concept of "nonviolence." "Nonviolence" refers to a moral positi
 
 Another example of terminological confusion in this eld is the use of the term "protest movements" as a synonym for civil resistance. This ignores the fact that civil resistance incorporates many tactics other than mass protests—including strikes and
 
-<sup>2</sup> Gene Sharp, The Politics of Nonviolent Action, Part One: Power and Struggle (Boston, MA: Porter Sargent Publishers, 1973), 63.
+2 Gene Sharp, The Politics of Nonviolent Action, Part One: Power and Struggle (Boston, MA: Porter Sargent Publishers, 1973), 63.
 
 ## TERMS OF NONVIOLENT ACTION: EXPLAINED
 
@@ -182,13 +187,13 @@ In today's world, eleven of Sharp's tactics that are likely to prove the most da
 
 Under Sharp's tutelage, I wrote my doctoral thesis titled Strategic Aspects of Nonviolent Resistance Movements, which I successfully defended in 1976.
 
-<sup>3</sup> Gene Sharp, The Politics of Nonviolent Action, Part Two: The Methods of Nonviolent Action (Boston, MA: Porter Sargent Publishers, 1973).
+3 Gene Sharp, The Politics of Nonviolent Action, Part Two: The Methods of Nonviolent Action (Boston, MA: Porter Sargent Publishers, 1973).
 
-<sup>4</sup> See Krishnalal Shridharani, War Without Violence: A Study of Gandhi's Method and Its Accomplishments (New York: Harcourt, Brace and Co., 1939); and Martin Oppenheimer and George Lakey, A Manual for Direct Action: Strategy and Tactics for Civil Rights and all other Nonviolent Protest Movements (Chicago, IL: Quadrangle Books, 1965).
+4 See Krishnalal Shridharani, War Without Violence: A Study of Gandhi's Method and Its Accomplishments (New York: Harcourt, Brace and Co., 1939); and Martin Oppenheimer and George Lakey, A Manual for Direct Action: Strategy and Tactics for Civil Rights and all other Nonviolent Protest Movements (Chicago, IL: Quadrangle Books, 1965).
 
 My thesis was inspired by an essay writtenby Professor Schelling over sixty years ago in the book Civilian Resistance as a National Defence: Non-violent Action Against Aggression. Schelling observed:
 
-The tyrant and his subjects are in somewhat symmetrical positions. They can deny him most of what he wants—they can, that is, if they have the disciplined organization to refuse collaboration. And he can deny them just about everything they want—he can deny it by using the force at his command…. It is a bargaining situation in which either side, if adequately disciplined and organized, can deny most of what the others wants; and it remains to see who wins.<sup>5</sup>
+The tyrant and his subjects are in somewhat symmetrical positions. They can deny him most of what he wants—they can, that is, if they have the disciplined organization to refuse collaboration. And he can deny them just about everything they want—he can deny it by using the force at his command…. It is a bargaining situation in which either side, if adequately disciplined and organized, can deny most of what the others wants; and it remains to see who wins.5
 
 According to Schelling the tactics that civil resisters choose have costs and benets, as do the tactics used by their authoritarian opponents. The winner is the protagonist who distributes these costs and benets most eciently for their side. Skillful civil resist-
 
@@ -200,7 +205,7 @@ bers of defections. The skillful authoritarian needs to enforce obedience, oen t
 
 Capitalizing on Schelling's insight, I hoped to expand the eld of research about civil resistance from a study of power (i.e., a determination of which side has the most) to the study of strategy (i.e., a determination of which side is gaining the most). I wanted to understand more fully who wins campaigns of civil resistance and why. The purpose was never to create a predictive model but to highlight those features that may favor either side. My thesis compared two cases of nonviolent action that could not be more dierent: the First Russian Revolution from 1905 to 1907 and the Indian Independence Movement, with particular emphasis on the period of time from 1929 to 1931.
 
-<sup>5</sup> Thomas C. Schelling, "Some Questions on Civilian Defence," in Civilian Resistance as a National Defence: Non-violent Action Against Aggression, ed. Adam Roberts (Harrisburg, PA: Stackpole Books, 1968), 304.
+5 Thomas C. Schelling, "Some Questions on Civilian Defence," in Civilian Resistance as a National Defence: Non-violent Action Against Aggression, ed. Adam Roberts (Harrisburg, PA: Stackpole Books, 1968), 304.
 
 The First Russian Revolution was a spontaneous mass nonviolent uprising with no leadership, but it achieved one early success against the tsar in the creation of the First Duma (parliament). Unfortunately, the movement was coopted by Bolsheviks and Mensheviks. It then degraded into sporadic acts of violence in Moscow and St. Petersburg that were easily suppressed by the tsar's forces, and the Duma was dissolved.
 
@@ -253,7 +258,7 @@ The second lm I co-produced, Bringing Down a Dictator, aired on PBS in 2002. It 
 
 Bringing Down a Dictator won a Peabody Award for documentary excellence in 2002 and in the same year was selected by the International Documentary Association as the best documentary of that year. In combination with two other award-winning documentaries on civil resistance these lms have been translated in over 20 languages and dialects.6 They have been viewed by millions of people in over 100 countries.
 
-<sup>6</sup> Orange Revolution documents events Ukraine in 2004 and Egypt: Revolution Interrupted? documents events in Egypt in the years before and aer the Egyptian revolution in 2011. All lms can be streamed for free from https://www.nonviolent-conict.org/icnclms/.
+6 Orange Revolution documents events Ukraine in 2004 and Egypt: Revolution Interrupted? documents events in Egypt in the years before and aer the Egyptian revolution in 2011. All lms can be streamed for free from https://www.nonviolent-conict.org/icnclms/.
 
 The success of these movies conrmed there was a far greater demand for civil resistance knowledge than the Albert Einstein Institution (AEI) was prepared to address. Sharp wanted AEI to focus primarily on his work, and I wanted to be more aggressive in creating and distributing knowledge to pro-democracy activists. In 2002, I founded the International Center on Nonviolent Conict (ICNC) to support original research and share knowledge in this eld in order to advance democratic governance consistent with the Universal Declaration of Human Rights.
 
@@ -321,7 +326,8 @@ These activities were recognized when ICNC was nominated in 2014 for the Nobel P
 | Burmese | Georgian | Khmer | Mayan | Sindhi | Uzbek |
 | Catalan | German | Kirundi | Mon | Slovak | Vietnamese |
 | Chin | Gujarati | Kituba | Mongolian | Spanish | Xhosa |
-| Chinese | Haitian<br>Creole | Korean | Nepali | Swahili | |
+| Chinese | Haitian
+Creole | Korean | Nepali | Swahili | |
 
 Lawson, a leading strategist of the US Civil Rights Movement and organizer of the Nashville lunch counter sit-ins in 1960 (see Table 3).
 
@@ -410,9 +416,9 @@ Since 2011, the NAVCO Data Project has continued to add cases of nonviolent coni
 
 The publication of the book Why Civil Resistance Works created enormous worldwide credibility and interest in nonviolent conict as a eld of study. Furthermore, the data upon which it is based provides conrmation of the wisdom, but not the uniqueness, of the decision to begin a campaign of civil resistance.
 
-<sup>7</sup> Why Civil Resistance Works: The Strategic Logic of Nonviolent Conict won the 2012 Woodrow Wilson Foundation Award from the American Political Science Association for the best book on government, politics, or international aairs.
+7 Why Civil Resistance Works: The Strategic Logic of Nonviolent Conict won the 2012 Woodrow Wilson Foundation Award from the American Political Science Association for the best book on government, politics, or international aairs.
 
-<sup>8</sup> NAVCO data project is currently hosted by Harvard University at: https://dataverse.harvard.edu/dataverse/navco.
+8 NAVCO data project is currently hosted by Harvard University at: https://dataverse.harvard.edu/dataverse/navco.
 
 ## IDEA #2
 
@@ -434,7 +440,7 @@ There are two reasons for this conclusion. One is structural and one is based on
 
 ## ![](_page_32_Figure_4.jpeg)
 
-<sup>9</sup> Eleanor Marchant and Arch Puddington, Enabling Environments for Civic Movements and the Dynamics of Democratic Transition (Washington, DC: Freedom House, July 2008), 1.
+9 Eleanor Marchant and Arch Puddington, Enabling Environments for Civic Movements and the Dynamics of Democratic Transition (Washington, DC: Freedom House, July 2008), 1.
 
 elites from every part of society that give the leadership leverage to execute their oppressive mandates. The third are the workers and managers from each pillar of support required for a functioning society. Pillars vary by country and culture, and the only constant is the pillar representing the security forces. The fourth is the general population. Some citizens within the general population are responsible for maintaining and serving the pillars. Others are working in the less formal areas of society that are harder to identify and control.
 
@@ -457,7 +463,7 @@ The relative futility of violent insurrection is corroborated by data from many 
 - Mass killings of a thousand civil resisters or more are approximately three times more likely to occur during a violent insurrection than during a civil resistance campaign.
 
 - A winning campaign of civil resistance can be as much as nine times more likely to transition to a democratic outcome than with a tyranny overthrown by a violent insurrection.
-- Even when a civil resistance campaign fails, there is still a 35 percent chance that it will succeed in transitioning to a democratic outcome within the next five years. This resilience stands in stark contrast to a failed violent insurrection, which has virtually no chance of succeeding five years later.<sup>10</sup>
+- Even when a civil resistance campaign fails, there is still a 35 percent chance that it will succeed in transitioning to a democratic outcome within the next five years. This resilience stands in stark contrast to a failed violent insurrection, which has virtually no chance of succeeding five years later.10
 
 This data makes clear that it is irrational to inject violence into an insurrection against a tyrant and that a civil resistance campaign has a far better risk vs. return.
 
@@ -465,13 +471,13 @@ A campaign of civil resistance is the most reliable driver of democratic transit
 
 **S** cholar Jonathan Pinckney studies the state of democracy before and after nonviolent conflicts. In his study, *When Civil Resistance* Succeeds: Building Democracy After Popular Nonviolent Uprisings, he established that political transitions resulting from civil resistance campaigns were most likely to lead to democratic outcomes, regardless of a country's pre-transition state of democratic governance (see Figure 8). Pinckney concludes:
 
-The statistical evidence strongly supports the contention that nonviolent resistance plays a strong democratizing role. This role cannot be explained by favorable conditions. Civil resistance occurs and succeeds in some of the worst and most repressive regimes. It is not a foolproof panacea, and factors like a country's regional political context or level of socio-economic development play an important role in shaping the likelihood of democratization. However, even in extremely undemocratic countries, civil resistance dramatically shapes a country's political transition, leading to a much higher likelihood of democratization.<sup>11</sup>
+The statistical evidence strongly supports the contention that nonviolent resistance plays a strong democratizing role. This role cannot be explained by favorable conditions. Civil resistance occurs and succeeds in some of the worst and most repressive regimes. It is not a foolproof panacea, and factors like a country's regional political context or level of socio-economic development play an important role in shaping the likelihood of democratization. However, even in extremely undemocratic countries, civil resistance dramatically shapes a country's political transition, leading to a much higher likelihood of democratization.11
 
 This finding is vital information for dissidents. It is also relevant for the world's assumption about how democracy is advanced and protected.
 
-<sup>10</sup> Consult Peter Ackerman and Hardy Merriman's Preventing Mass Atrocities: From a Responsibility to Protect (RtoP) to a Right to Assist (RtoA) Campaigns of Civil Resistance for a discussion of these data points, available as a free download from www.nonviolent-conflict.org.
+10 Consult Peter Ackerman and Hardy Merriman's Preventing Mass Atrocities: From a Responsibility to Protect (RtoP) to a Right to Assist (RtoA) Campaigns of Civil Resistance for a discussion of these data points, available as a free download from www.nonviolent-conflict.org.
 
-<sup>11</sup> Jonathan Pinckney, When Civil Resistance Succeeds: Building Democracy After Popular Nonviolent Uprisings (Washington, DC: ICNC Press, 2018), 40.
+11 Jonathan Pinckney, When Civil Resistance Succeeds: Building Democracy After Popular Nonviolent Uprisings (Washington, DC: ICNC Press, 2018), 40.
 
 ### FIGURE 8: Pre-Transition Levels of Democracy and Post-Transition Democracy
 
@@ -577,9 +583,9 @@ Students holding a sit-in at segregated lunch counters in Nashville, United Stat
 
 On this point, the surgeon and author Atul Gawande, who has researched the importance of checklists in a variety of contexts, writes that:
 
-Checklists seem able to defend anyone, even the experienced, against failure in many more tasks than we realized. They provide a kind of cognitive net. They catch mental aws inherent in all of us—aws of memory and attention and thoroughness….<sup>12</sup>
+Checklists seem able to defend anyone, even the experienced, against failure in many more tasks than we realized. They provide a kind of cognitive net. They catch mental aws inherent in all of us—aws of memory and attention and thoroughness….12
 
-Under conditions of true complexity—where the knowledge required exceeds that of any individual and unpredictably reigns… [eective checklists] ensure the stupid but critical stu is not overlooked, and… ensure people talk and coordinate… to manage the nuances and unpredictabilities the best they know.<sup>13</sup>
+Under conditions of true complexity—where the knowledge required exceeds that of any individual and unpredictably reigns… [eective checklists] ensure the stupid but critical stu is not overlooked, and… ensure people talk and coordinate… to manage the nuances and unpredictabilities the best they know.13
 
 The eight checklist questions are generic and should be relevant to any nonviolent conict. Yet they should never be understood as or confused with a formula for success. Likewise, the Checklist cannot determine who will prevail, the dissident or the tyrant. However, it can oer a critical and continuing set of indicators to understand how citizen demands for freedom are (or are not) overcoming the entrenched power of tyrannical regimes.
 
@@ -587,9 +593,9 @@ The generic checklist questions will yield very specic answers that are based on
 
 The questions help to maximize a civil resistance campaign's probability of winning. They should invite careful consideration by individual dissidents as well as organized groups of pro-democracy activists. The answers can help to form a rallying cry to mobilize a population of millions of people. Maximizing the probability for this to occur is described in Chapter 5, "The Checklist Exercise for Freedom." The greatest value of this exercise is to create consensus among the people as to priorities for action. This reduces wasted energy and keeps expectations high. Meanwhile, the tyrant's hope for apathy and despair is crushed by a condent population.
 
-<sup>12</sup> Atul Gawande, The Checklist Manifesto: How to Get Things Right (New York: Picador, 2009), 47.
+12 Atul Gawande, The Checklist Manifesto: How to Get Things Right (New York: Picador, 2009), 47.
 
-<sup>13</sup> Gawande, 79.
+13 Gawande, 79.
 
 **Civil resistance strategies operate successfully in many different conflicts because tyrants depend on wide-scale obedience to remain in power. However, over time many citizens living under dictatorships refuse to remain apathetic forever.**
 
@@ -655,7 +661,7 @@ Pro-democracy activists are far more likely to support coordinated leadership if
 
 On the national level, it is not possible, nor necessarily advisable, for all of a movement's supporters to try to decide the movement's primary strategic direction. Conversely, it may not make sense for the most senior leadership to decide on specic tactics in a particular locality.
 
-<sup>14</sup> Mary Hui, Twitter post, June 25, 2019, 11:07 p.m. https://twitter.com/maryhui/status/1143717367521824768.
+14 Mary Hui, Twitter post, June 25, 2019, 11:07 p.m. https://twitter.com/maryhui/status/1143717367521824768.
 
 A civil resistance campaign should be designed to account for the environment, threats, opportunities, and capabilities of the various actors in the conict. At the local level, no one will know these factors better than dissidents who live and organize themselves in these communities.
 
@@ -675,11 +681,11 @@ wide-scale obedience among the populations they oppress in order to maintain the
 
 The opportunity illustrated in Figure 11 has been described by Natan Sharansky, the iconic refusenik from the Russian gulags.
 
-Every totalitarian society consists of three groups: true believers, double-thinkers and dissidents. In every totalitarian regime, no matter its cultural or geographical circumstances, the majority undergo a conversion over time from true belief in the revolutionary message into double-thinking. They no longer believe the regime but are too scared to say so. Then there are the dissidents—pioneers who dare to cross the line between double-thinking and everything that lies on the other side. In doing so, they rst internalize, then articulate and nally act on the innermost feelings of the nation.<sup>15</sup>
+Every totalitarian society consists of three groups: true believers, double-thinkers and dissidents. In every totalitarian regime, no matter its cultural or geographical circumstances, the majority undergo a conversion over time from true belief in the revolutionary message into double-thinking. They no longer believe the regime but are too scared to say so. Then there are the dissidents—pioneers who dare to cross the line between double-thinking and everything that lies on the other side. In doing so, they rst internalize, then articulate and nally act on the innermost feelings of the nation.15
 
 Double thinkers can move from "latent" to "revealed" and potentially become defectors themselves. A successful civil resistance
 
-<sup>15</sup> Natan Sharansky, "Street Smart," Los Angeles Times, June 26, 2009. https://www.latimes.com/archives/la-xpm-2009-jun-26-oe-sharansky26-story.html (accessed July 8, 2021).
+15 Natan Sharansky, "Street Smart," Los Angeles Times, June 26, 2009. https://www.latimes.com/archives/la-xpm-2009-jun-26-oe-sharansky26-story.html (accessed July 8, 2021).
 
 | FIGURE 11: The Opportunity | | | | | | | | | |
 |----------------------------|--|--|--|--------------------|--|--|--|--|--|
@@ -708,7 +714,7 @@ Nonviolent conict succeeds when tactical disruptions accumulate to induce defect
 
 ## ![](_page_53_Figure_3.jpeg)
 
-With civil resistance as a superior alternative to violent insurrection, there can be no more consequential decision than how to confront the cruelty of a tyrannical regime. Getting that strategy wrong—as was the case in Syria in 2011 to the present day—can cost hundreds of thousands of lives and displace millions.<sup>16</sup>
+With civil resistance as a superior alternative to violent insurrection, there can be no more consequential decision than how to confront the cruelty of a tyrannical regime. Getting that strategy wrong—as was the case in Syria in 2011 to the present day—can cost hundreds of thousands of lives and displace millions.16
 
 CHECKLIST | Is the civil resistance campaign diversifying its tactical options while QUESTION #2 | maintaining nonviolent discipline?
 
@@ -716,70 +722,394 @@ tactic during a civil resistance campaign is conducted over a finite period of t
 
 Tactical possibilities during a civil resistance campaign are only circumscribed by the imagination. The range is unlimited because tactical options emanate from how to undermine the tyrant's expectation of acceptable citizen behavior for all facets of a society. One caveat is that tactics with the intent to injure are excluded from nonviolent conflict. They are an integral part of a strategy of violent insurrection. Nonviolent tactics can augment violent strategies, but the reverse is not the case.
 
-Gene Sharp's list of 198 methods was created fifty years ago during a simpler time. In today's increasingly complex and interdependent world, there are infinitely more opportunities to shut down normal commercial and social institutions that the tyrant expects to control. ICNC has published a list created by Michael Beer of 346 tactics that includes Sharp's 198 original tactics.<sup>17</sup>
+Gene Sharp's list of 198 methods was created fifty years ago during a simpler time. In today's increasingly complex and interdependent world, there are infinitely more opportunities to shut down normal commercial and social institutions that the tyrant expects to control. ICNC has published a list created by Michael Beer of 346 tactics that includes Sharp's 198 original tactics.17
 
 What follows are 41 civil resistance campaigns that provide specific examples of nonviolent tactics.
 
-<sup>16</sup> See Maciej Bartkowski and Julia Taleb, "Myopia of the Syrian Struggle and Key Lessons," in Is Authoritarianism Staging a Comeback?, eds. Mathew J. Burrows and Maria J. Stephan (Washington, DC: Atlantic Council, 2015). https://www.nonviolent-conflict.org/wp-content/uploads/2016/01/Authoritarianism\_Chapter10.pdf
+16 See Maciej Bartkowski and Julia Taleb, "Myopia of the Syrian Struggle and Key Lessons," in Is Authoritarianism Staging a Comeback?, eds. Mathew J. Burrows and Maria J. Stephan (Washington, DC: Atlantic Council, 2015). https://www.nonviolent-conflict.org/wp-content/uploads/2016/01/Authoritarianism\_Chapter10.pdf
 
-<sup>17</sup> Michael Beer, Civil Resistance Tactics in the 21st Century (Washington, DC: ICNC Press, 2021).
+17 Michael Beer, Civil Resistance Tactics in the 21st Century (Washington, DC: ICNC Press, 2021).
 
 | | TABLE 7: 41 Civil Resistance Campaigns with Examples of Nonviolent Tactics | | | | | | |
 |----|----------------------------------------------------------------------------------|--------------|---------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|--|--|
-| | Nonviolent<br>Campaign | Location | Years | Key Nonviolent Tactics | | | |
-| 1. | Revolution of<br>Smiles against<br>President<br>Abdelaziz<br>Bouteika | Algeria | 2019–<br>2020 | Weekly protests and demonstrations; students' strikes (stu<br>dents boycott classes); general strike; women launched the<br>"feminist square" for equal rights; workers' strikes and shutting<br>down the transportation system; massive boycott of the presi<br>dential election | | | |
-| 2. | Anti-extradition<br>and pro-autono<br>my campaign | Hong<br>Kong | 2019–<br>2020 | Mass demonstrations, rallies; occupations of public spaces<br>including university campuses and parks; general strike; labor<br>strike; mass sit-ins at the Hong Kong International Airport; form<br>ing a 50km human chain called the "Hong Kong Way," inspired<br>by the 1989 Baltic Way organized in three Baltic states during<br>their nonviolent campaign for independence; election organiz<br>ing that led to a landslide victory for a pro-democracy camp in<br>the District Council election with a record high voter turnout in<br>November 2019 | | | |
-| 3. | Revolution<br>against President<br>Omar al-Bashir | Sudan | 2018–<br>2019 | Demonstrations; general strike; soldiers shielding protests<br>against regime's security forces; protests to honor women<br>who led the uprising; march to the headquarters of the armed<br>forces; sit-ins; stay-in strikes | | | |
-| 4. | Women-led cam<br>paign against<br>compulsory hijab | Iran | 2018–<br>2019 | Women standing on utility boxes and removing hijabs in public<br>places; posting photos of their actions on social media; men<br>joined the protest by reenacting similar actions and posting<br>them on social media | | | |
-| 5. | Velvet Revolution | Armenia | 2018 | Protest walk through various towns and cities in Armenia; sit-in<br>on the main square in the capital; mass marches; members of<br>the Armed Forces of Armenia join the protests; blocking streets;<br>workers' strike | | | |
-| 6. | "You Stink!"<br>Campaign | Lebanon | 2015–<br>2016 | Chants protest; comical slogans; linking political gures to<br>trash crisis; street protests in the capital | | | |
-| 7. | Ficha Limpa<br>("Clean Record")<br>movement to<br>enact anti-cor<br>ruption bill | Brazil | 2008–<br>2010 | Sending regular alerts via social networks with calls for spe<br>cic actions; online petition in support of the anti-corruption<br>bill; email messaging and phone calls to legislators; e-petition<br>memes; tweets; videos | | | |
-| 8. | Campaign in<br>defense of the<br>Anticorruption<br>Commission | Indonesia | 2009 | Popular singers created anti-corruption songs; petitions; leaf<br>leting; hanging banners; sit-ins; gathering in front of the police<br>station; concerts; street theater; public stunts; Happening art,<br>such as "For a Healthy Indonesia, Fight Corruption" with a<br>mass group exercise for the country's well- being | | | |
-| 9. | Campaign to<br>curb police<br>corruption | Uganda | 2009–<br>2019 | Developing a memorandum of understanding with law enforce<br>ment authorities about cooperation between anti-corruption<br>campaign and police; community monitoring of police behavior;<br>ethics training workshops with police integrity pledge signed<br>at the end of the training; information gathering survey on<br>whether people paid a bribe to the police in the last six months;<br>meetings with residents about police codes of conduct and<br>reporting police abuse and corruption | | | |
+| | Nonviolent
+Campaign | Location | Years | Key Nonviolent Tactics | | | |
+| 1. | Revolution of
+Smiles against
+President
+Abdelaziz
+Bouteika | Algeria | 2019–
+2020 | Weekly protests and demonstrations; students' strikes (stu
+dents boycott classes); general strike; women launched the
+"feminist square" for equal rights; workers' strikes and shutting
+down the transportation system; massive boycott of the presi
+dential election | | | |
+| 2. | Anti-extradition
+and pro-autono
+my campaign | Hong
+Kong | 2019–
+2020 | Mass demonstrations, rallies; occupations of public spaces
+including university campuses and parks; general strike; labor
+strike; mass sit-ins at the Hong Kong International Airport; form
+ing a 50km human chain called the "Hong Kong Way," inspired
+by the 1989 Baltic Way organized in three Baltic states during
+their nonviolent campaign for independence; election organiz
+ing that led to a landslide victory for a pro-democracy camp in
+the District Council election with a record high voter turnout in
+November 2019 | | | |
+| 3. | Revolution
+against President
+Omar al-Bashir | Sudan | 2018–
+2019 | Demonstrations; general strike; soldiers shielding protests
+against regime's security forces; protests to honor women
+who led the uprising; march to the headquarters of the armed
+forces; sit-ins; stay-in strikes | | | |
+| 4. | Women-led cam
+paign against
+compulsory hijab | Iran | 2018–
+2019 | Women standing on utility boxes and removing hijabs in public
+places; posting photos of their actions on social media; men
+joined the protest by reenacting similar actions and posting
+them on social media | | | |
+| 5. | Velvet Revolution | Armenia | 2018 | Protest walk through various towns and cities in Armenia; sit-in
+on the main square in the capital; mass marches; members of
+the Armed Forces of Armenia join the protests; blocking streets;
+workers' strike | | | |
+| 6. | "You Stink!"
+Campaign | Lebanon | 2015–
+2016 | Chants protest; comical slogans; linking political gures to
+trash crisis; street protests in the capital | | | |
+| 7. | Ficha Limpa
+("Clean Record")
+movement to
+enact anti-cor
+ruption bill | Brazil | 2008–
+2010 | Sending regular alerts via social networks with calls for spe
+cic actions; online petition in support of the anti-corruption
+bill; email messaging and phone calls to legislators; e-petition
+memes; tweets; videos | | | |
+| 8. | Campaign in
+defense of the
+Anticorruption
+Commission | Indonesia | 2009 | Popular singers created anti-corruption songs; petitions; leaf
+leting; hanging banners; sit-ins; gathering in front of the police
+station; concerts; street theater; public stunts; Happening art,
+such as "For a Healthy Indonesia, Fight Corruption" with a
+mass group exercise for the country's well- being | | | |
+| 9. | Campaign to
+curb police
+corruption | Uganda | 2009–
+2019 | Developing a memorandum of understanding with law enforce
+ment authorities about cooperation between anti-corruption
+campaign and police; community monitoring of police behavior;
+ethics training workshops with police integrity pledge signed
+at the end of the training; information gathering survey on
+whether people paid a bribe to the police in the last six months;
+meetings with residents about police codes of conduct and
+reporting police abuse and corruption | | | |
 
-| Nonviolent<br>Campaign | Location | Years | Key Nonviolent Tactics |
+| Nonviolent
+Campaign | Location | Years | Key Nonviolent Tactics |
 |----------------------------------------------------------------------------------------------------------------------------|-------------------|---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 10. Democracy rev<br>olution against<br>the absolutist<br>monarchy | Nepal | 2006 | General regional and nationwide strikes (bandhs); marches;<br>demonstrations; surrounding government buildings; mass<br>protests; student-led protests and demonstrations |
-| 11. Social Audit<br>Anti-Corruption<br>Campaign | Kenya | 2005 | Holding community forums to educate people on public proj<br>ects and their budgeting process; collecting input on commu<br>nity needs; gathering information on whether public projects<br>were completed, their quality and costs; inspecting public<br>projects; holding public hearings with residents and ocials;<br>puppet plays and using humor to ridicule and shame corruption<br>and corrupt ocials |
-| 12. Shayfeen<br>("We See You")<br>anti-corruption<br>campaign | Egypt | 2005 | Launching of the popular website shayfeen.com; logo of an<br>eye, implying people watching the authority; distributing<br>100,000 tea glasses with the Shayfeen logo and a quarter<br>of a million plastic bags for carrying bread with the slogan:<br>"We see you, and at the elections we are observing you";<br>lming voting process and collecting evidence of fraud |
-| 13. Independence<br>Intifada against<br>Syrian troops in<br>the country and<br>the domination<br>of state institu<br>tions | Lebanon | 2005 | Public funeral and funeral protests; rallies for "truth"; setting<br>up a permanent protest encampment on the Martyr's square in<br>the capital; voluntary contributions from people to sustain the<br>tent encampment on the square; appropriating national anthem<br>and national ag by nonviolent activists; no party ags were<br>displayed; mass protests. |
-| 14. Addiopizzo<br>("Goodbye<br>Protection<br>Money") cam<br>paign against<br>Maa in Sicily | Italy | 2004 | Sticker campaign on lampposts in Palermo: "An entire people<br>who pays pizzo is a people without dignity"; hanging out sheets<br>with anti-maa slogans on railings and bridges; at a soccer<br>match unfurling a sheet "United against Pizzo"; collecting<br>signatures of people who will buy at pizzo-free businesses;<br>supporting owners that refused to pay pizzo by patronizing<br>their stores; ethical consumerism action (patronizing pizzo-free<br>businesses) that united businesses and customers against<br>pizzo; distributing special stickers on windows of pizzo-free<br>shops, pizzo-free yellow pages; pizzo-free product labeling;<br>joint rallies and demonstrations; creating a sports team for the<br>movement; supporting pizzo-free tourism; doing compliance<br>checks to ensure businesses are being honest in their renuncia<br>tion of doing business with the maa |
-| 15. Nonviolent<br>self-determi<br>nation struggle<br>by Western<br>Saharans | Western<br>Sahara | 1999–<br>2010 | Student vigils; sit-ins in the city center; occupation of the sym<br>bolic square; displaying banned Saharawi ag; protest encamp<br>ment just outside main city |
+| 10. Democracy rev
+olution against
+the absolutist
+monarchy | Nepal | 2006 | General regional and nationwide strikes (bandhs); marches;
+demonstrations; surrounding government buildings; mass
+protests; student-led protests and demonstrations |
+| 11. Social Audit
+Anti-Corruption
+Campaign | Kenya | 2005 | Holding community forums to educate people on public proj
+ects and their budgeting process; collecting input on commu
+nity needs; gathering information on whether public projects
+were completed, their quality and costs; inspecting public
+projects; holding public hearings with residents and ocials;
+puppet plays and using humor to ridicule and shame corruption
+and corrupt ocials |
+| 12. Shayfeen
+("We See You")
+anti-corruption
+campaign | Egypt | 2005 | Launching of the popular website shayfeen.com; logo of an
+eye, implying people watching the authority; distributing
+100,000 tea glasses with the Shayfeen logo and a quarter
+of a million plastic bags for carrying bread with the slogan:
+"We see you, and at the elections we are observing you";
+lming voting process and collecting evidence of fraud |
+| 13. Independence
+Intifada against
+Syrian troops in
+the country and
+the domination
+of state institu
+tions | Lebanon | 2005 | Public funeral and funeral protests; rallies for "truth"; setting
+up a permanent protest encampment on the Martyr's square in
+the capital; voluntary contributions from people to sustain the
+tent encampment on the square; appropriating national anthem
+and national ag by nonviolent activists; no party ags were
+displayed; mass protests. |
+| 14. Addiopizzo
+("Goodbye
+Protection
+Money") cam
+paign against
+Maa in Sicily | Italy | 2004 | Sticker campaign on lampposts in Palermo: "An entire people
+who pays pizzo is a people without dignity"; hanging out sheets
+with anti-maa slogans on railings and bridges; at a soccer
+match unfurling a sheet "United against Pizzo"; collecting
+signatures of people who will buy at pizzo-free businesses;
+supporting owners that refused to pay pizzo by patronizing
+their stores; ethical consumerism action (patronizing pizzo-free
+businesses) that united businesses and customers against
+pizzo; distributing special stickers on windows of pizzo-free
+shops, pizzo-free yellow pages; pizzo-free product labeling;
+joint rallies and demonstrations; creating a sports team for the
+movement; supporting pizzo-free tourism; doing compliance
+checks to ensure businesses are being honest in their renuncia
+tion of doing business with the maa |
+| 15. Nonviolent
+self-determi
+nation struggle
+by Western
+Saharans | Western
+Sahara | 1999–
+2010 | Student vigils; sit-ins in the city center; occupation of the sym
+bolic square; displaying banned Saharawi ag; protest encamp
+ment just outside main city |
 
-| Nonviolent<br>Campaign | Location | Years | Key Nonviolent Tactics |
+| Nonviolent
+Campaign | Location | Years | Key Nonviolent Tactics |
 |------------------------------------------------------------------------------------|----------------|------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 16. Fifth Pillar<br>anti-corruption<br>campaign | India | 2004–<br>Present | Training people in how to le requests under the "right to infor<br>mation" law; refusal to pay bribes; public pledges against cor<br>ruption; symbolic resistance (creation of the zero-rupee note as<br>a way to show people were unwilling to pay for bribery); hold<br>ing essay contests; human chains; sit-ins; ash public meetings;<br>leaeting; signature collections; commemorations; community<br>service in villages; theatre/performance; establishing a phone<br>hotline for people to report corruption; posting accurate<br>bureaucratic fees (for licenses, for example) publicly outside<br>government oces so that people would know the legal cost<br>of various services |
-| 17. Orange<br>Revolution | Ukraine | 2004–<br>2005 | Occupation of Maidan Square; tent encampment; social ser<br>vices organized to support the encampment; strikes; demon<br>strations; daily concerts; staged performances; reaching out to<br>the security forces via retired military ocials and international<br>contacts; bring army to the side of the protesters; the army<br>informed security forces loyal to the regime that they would<br>protect protesters without arms |
-| 18. Women-led<br>peace movement<br>to end civil war | Liberia | 2003 | United group of Christian and Muslim women launched the<br>campaign to end civil war; wearing all-white clothing symbol<br>izing peace and gathering at the sh market every day for a<br>week; sex strike to deny men intimacy until the war would end;<br>organizing marches through the street of Monrovia; organized<br>sit-ins in front of the building where peace negotiations were<br>taking place in Accra, Ghana; threatening to disrobe and hold<br>men in the building unless the peace agreement was signed |
-| 19. Blacklisting Cor<br>rupt Candidates | South<br>Korea | 2000 | Launching a popular website featuring blacklisted political can<br>didates; documentation about the unt nominees and endorse<br>ments of uncorrupt candidates; getting candidate pledges<br>to enact political reforms; promulgating a Peace Charter to<br>instill nonviolent discipline during the protests; waiving yellow<br>cards during rallies when names of blacklisted candidates<br>were called out; organized the Red Festival where audience<br>waived red cards and chanted "out"; candlelight rallies; signa<br>ture drives; bicycle rally; farmers' convoys; children's protest;<br>deploying shadow uncorrupt and respected candidates to<br>'shadow' blacklisted candidates |
-| 20. The Papuan<br>Spring | West<br>Papua | 1999–<br>2004 | Creation of the Papuan parallel governing institutions; protests<br>and demonstrations including by Papuan women market sell<br>ers; raising banned Papuan ag (Morning star) |
-| 21. Nonviolent cam<br>paign against<br>President<br>Slobodan<br>Milosevic | Serbia | 1998–<br>2000 | Rallies; marches; demonstrations; rock concerts; anti-Milosevic<br>materials; strikes; boycotts; petitions; public statements; block<br>ing of main roads; occupation of public spaces and buildings;<br>street theatre and humorous skits with political and anti-Mi<br>losevic messages; opposition communicating with the security<br>forces |
-| 22. One Minute of<br>Darkness for<br>Constant Light<br>anti-corruption<br>campaign | Turkey | 1997 | Each evening people would turn o their lights for one minute<br>at the same time; banging pots and pans; ashlights; honk<br>ing horns at intersections; candlelight vigils; neighborhood<br>marches |
+| 16. Fifth Pillar
+anti-corruption
+campaign | India | 2004–
+Present | Training people in how to le requests under the "right to infor
+mation" law; refusal to pay bribes; public pledges against cor
+ruption; symbolic resistance (creation of the zero-rupee note as
+a way to show people were unwilling to pay for bribery); hold
+ing essay contests; human chains; sit-ins; ash public meetings;
+leaeting; signature collections; commemorations; community
+service in villages; theatre/performance; establishing a phone
+hotline for people to report corruption; posting accurate
+bureaucratic fees (for licenses, for example) publicly outside
+government oces so that people would know the legal cost
+of various services |
+| 17. Orange
+Revolution | Ukraine | 2004–
+2005 | Occupation of Maidan Square; tent encampment; social ser
+vices organized to support the encampment; strikes; demon
+strations; daily concerts; staged performances; reaching out to
+the security forces via retired military ocials and international
+contacts; bring army to the side of the protesters; the army
+informed security forces loyal to the regime that they would
+protect protesters without arms |
+| 18. Women-led
+peace movement
+to end civil war | Liberia | 2003 | United group of Christian and Muslim women launched the
+campaign to end civil war; wearing all-white clothing symbol
+izing peace and gathering at the sh market every day for a
+week; sex strike to deny men intimacy until the war would end;
+organizing marches through the street of Monrovia; organized
+sit-ins in front of the building where peace negotiations were
+taking place in Accra, Ghana; threatening to disrobe and hold
+men in the building unless the peace agreement was signed |
+| 19. Blacklisting Cor
+rupt Candidates | South
+Korea | 2000 | Launching a popular website featuring blacklisted political can
+didates; documentation about the unt nominees and endorse
+ments of uncorrupt candidates; getting candidate pledges
+to enact political reforms; promulgating a Peace Charter to
+instill nonviolent discipline during the protests; waiving yellow
+cards during rallies when names of blacklisted candidates
+were called out; organized the Red Festival where audience
+waived red cards and chanted "out"; candlelight rallies; signa
+ture drives; bicycle rally; farmers' convoys; children's protest;
+deploying shadow uncorrupt and respected candidates to
+'shadow' blacklisted candidates |
+| 20. The Papuan
+Spring | West
+Papua | 1999–
+2004 | Creation of the Papuan parallel governing institutions; protests
+and demonstrations including by Papuan women market sell
+ers; raising banned Papuan ag (Morning star) |
+| 21. Nonviolent cam
+paign against
+President
+Slobodan
+Milosevic | Serbia | 1998–
+2000 | Rallies; marches; demonstrations; rock concerts; anti-Milosevic
+materials; strikes; boycotts; petitions; public statements; block
+ing of main roads; occupation of public spaces and buildings;
+street theatre and humorous skits with political and anti-Mi
+losevic messages; opposition communicating with the security
+forces |
+| 22. One Minute of
+Darkness for
+Constant Light
+anti-corruption
+campaign | Turkey | 1997 | Each evening people would turn o their lights for one minute
+at the same time; banging pots and pans; ashlights; honk
+ing horns at intersections; candlelight vigils; neighborhood
+marches |
 
-| Nonviolent<br>Campaign | Location | Years | Key Nonviolent Tactics |
+| Nonviolent
+Campaign | Location | Years | Key Nonviolent Tactics |
 |--------------------------------------------------|--------------------|----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 23. March<br>Revolution | Mali | 1991 | Using hereditary musicians called griots to disseminate infor<br>mation and stories about resistance; demonstrations; student<br>strikes; march for peace |
-| 24. Civil resistance<br>campaign | Kosovo | 1989–<br>1997 | Establishment of parallel Albanian government and school<br>system in Kosovo; protests; labor strikes; boycott of the<br>Serbian-run schools and government institutions |
-| 25. Pro-democracy<br>protest | China | 1987–<br>1989 | Holding democratic salons; wall posters as a key communica<br>tion strategy; posters; student petitions; student-led demon<br>strations; megaphoning residents with the information about<br>the protests; school boycotts; open letters to the authorities;<br>hunger strike occupation of Tiananmen Square |
-| 26. First Intifada | Palestine | 1987–<br>1993 | Palestinian labor strikes; boycotts; parallel institutions; estab<br>lishment of the joint Israeli–Palestinian committees |
-| 27. Solidarity<br>Movement | Poland | 1980s | Occupation of factories by workers; setting up independent<br>professional associations; underground publications to break<br>censorships; underground schooling; strikes; demonstrations;<br>protests; resistance songs and humor |
-| 28. Anti-apartheid<br>campaign | South<br>Africa | 1980s–<br>1994 | Boycotts of white-owned businesses in Port Elizabeth; civil<br>disobedience of apartheid legislation and practices; public<br>funeral processions; public declarations; multi-racial peace<br>marches; kneeling marches; demonstrations; strikes and stay<br>aways; rent boycotts; school boycotts; sport and cultural event<br>boycotts; international sanctions, divestment, and boycott cam<br>paign; creating alternative community-based institutions such<br>as cooperatives, community clinics, legal resource centers |
-| 29. Struggle<br>against military<br>dictatorship | Chile | 1985–<br>1988 | Labor strikes and labor slowdowns; church-based training in<br>nonviolent resistance; demonstrations; singing; slowdowns in<br>which people walked and drove slowly on a designated day;<br>banging pots and pans; artistic protests; electoral organizing |
-| 30. People Power<br>Revolution | Philip<br>pines | 1983–<br>1986 | Candlelight vigils; rallies; demonstrations; electoral organizing;<br>boycott of pro-regime media; school strikes; general strikes;<br>mobilizing to protect nonviolent garrison of soldiers who<br>defected from the regime; demonstrators greeting soldiers<br>loyal to the regime with hugs and prayers |
-| 31. Resistance<br>against Soviet<br>invasion | Czecho<br>slovakia | 1968 | Political non-cooperation; sit-ins; demonstrations; "Ten<br>Commandments" of nonviolent resistance by Czechs and<br>Slovaks against the Soviet troops published in the newspaper<br>Vecerni Prah on August 26, 1968—six days after the Soviet<br>invasion. When a Soviet soldier approaches the local people<br>for any type of assistance, the commandments called on people<br>to do the following:<br>1. Don't know;<br>6. Don't give;<br>2. Don't care;<br>7. Can't do;<br>3. Don't tell;<br>8. Don't sell;<br>4. Don't have;<br>9. Don't show; and<br>5. Don't know how to;<br>10. Do nothing. |
+| 23. March
+Revolution | Mali | 1991 | Using hereditary musicians called griots to disseminate infor
+mation and stories about resistance; demonstrations; student
+strikes; march for peace |
+| 24. Civil resistance
+campaign | Kosovo | 1989–
+1997 | Establishment of parallel Albanian government and school
+system in Kosovo; protests; labor strikes; boycott of the
+Serbian-run schools and government institutions |
+| 25. Pro-democracy
+protest | China | 1987–
+1989 | Holding democratic salons; wall posters as a key communica
+tion strategy; posters; student petitions; student-led demon
+strations; megaphoning residents with the information about
+the protests; school boycotts; open letters to the authorities;
+hunger strike occupation of Tiananmen Square |
+| 26. First Intifada | Palestine | 1987–
+1993 | Palestinian labor strikes; boycotts; parallel institutions; estab
+lishment of the joint Israeli–Palestinian committees |
+| 27. Solidarity
+Movement | Poland | 1980s | Occupation of factories by workers; setting up independent
+professional associations; underground publications to break
+censorships; underground schooling; strikes; demonstrations;
+protests; resistance songs and humor |
+| 28. Anti-apartheid
+campaign | South
+Africa | 1980s–
+1994 | Boycotts of white-owned businesses in Port Elizabeth; civil
+disobedience of apartheid legislation and practices; public
+funeral processions; public declarations; multi-racial peace
+marches; kneeling marches; demonstrations; strikes and stay
+aways; rent boycotts; school boycotts; sport and cultural event
+boycotts; international sanctions, divestment, and boycott cam
+paign; creating alternative community-based institutions such
+as cooperatives, community clinics, legal resource centers |
+| 29. Struggle
+against military
+dictatorship | Chile | 1985–
+1988 | Labor strikes and labor slowdowns; church-based training in
+nonviolent resistance; demonstrations; singing; slowdowns in
+which people walked and drove slowly on a designated day;
+banging pots and pans; artistic protests; electoral organizing |
+| 30. People Power
+Revolution | Philip
+pines | 1983–
+1986 | Candlelight vigils; rallies; demonstrations; electoral organizing;
+boycott of pro-regime media; school strikes; general strikes;
+mobilizing to protect nonviolent garrison of soldiers who
+defected from the regime; demonstrators greeting soldiers
+loyal to the regime with hugs and prayers |
+| 31. Resistance
+against Soviet
+invasion | Czecho
+slovakia | 1968 | Political non-cooperation; sit-ins; demonstrations; "Ten
+Commandments" of nonviolent resistance by Czechs and
+Slovaks against the Soviet troops published in the newspaper
+Vecerni Prah on August 26, 1968—six days after the Soviet
+invasion. When a Soviet soldier approaches the local people
+for any type of assistance, the commandments called on people
+to do the following:
+1. Don't know;
+6. Don't give;
+2. Don't care;
+7. Can't do;
+3. Don't tell;
+8. Don't sell;
+4. Don't have;
+9. Don't show; and
+5. Don't know how to;
+10. Do nothing. |
 
-| Nonviolent<br>Campaign | Location | Years | Key Nonviolent Tactics |
+| Nonviolent
+Campaign | Location | Years | Key Nonviolent Tactics |
 |-------------------------------------------------------------------------------------------------|-----------------------------------|-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 32. Nashville<br>campaign in the<br>US Civil Rights<br>Movement | United<br>States | 1960 | Activist trainings and drills in a church basement; lunch counter<br>sit-ins; lling in jails; boycott of downtown businesses; mass<br>march to the mayor's oce |
-| 33. Positive Action<br>independence<br>campaign | Ghana | 1949–<br>1951 | Economic boycotts against British goods, closing stores;<br>sit-downs; establishment of independence schools |
-| 34. Bengali<br>Language<br>Movement | Bangla<br>desh | 1948–<br>1952 | General strike; funeral homages; establishment of language<br>action committee and sociocultural organizations; strikes<br>(International Mother Language Day was established by the<br>UN in commemoration of this peaceful movement) |
-| 35. Nonviolent re<br>sistance against<br>Nazi occupation | Denmark | 1940–<br>1944 | "Ten Commandments" of Danish civil resistance that advocated<br>and promoted working slowly, ineectively, and badly for the<br>Nazis; delaying or stopping transportation useful for Nazis;<br>boycott German lms and newspapers; boycott Nazis' stores;<br>protect anyone that is pursued by Germans, which helped save<br>90 percent of the Danish Jews |
-| 36. Indian Indepen<br>dence Struggle | India | 1930–<br>1931 | General civil disobedience against the British salt tax and<br>monopoly on production and sale of salt; public statements and<br>speeches by Gandhi and his supporters; mass petition; sym<br>bolic acts including public prayers and the display of a national<br>Indian ag; singing; dancing; procession (the Salt March); pub<br>lic mourning of unarmed demonstrators killed by the British;<br>economic boycott of British goods; hartals ("limited strikes");<br>school boycotts; occupation of salt depos; economic noncoop<br>eration and self-sustainability (homespun) |
-| 37. Egyptian Revo<br>lution of 1919 for<br>independence<br>from Britain | Egypt | 1919–<br>1921 | Signature collection campaign in support of full independence;<br>student strikes; workers' and peasants' strikes; women wore<br>veils in protest; demonstrations at public funerals; boycott of<br>British goods; mass prayer for independence; use of plays,<br>music, and literature advocating disobedience |
-| 38. Persian<br>Tobacco Protest | Iran | 1890–<br>1892 | Boycott of tobacco products and nonviolent demonstrations<br>against a British company's monopoly over the production,<br>sale, and export of Persian tobacco |
-| 39. Resisting<br>Russication in<br>Russian Poland | Poland<br>under<br>partitions | 1885–<br>1914 | Development of the Polish Flying University (Marie Curie,<br>future rst woman's Nobel laureate, graduated from this illegal<br>university); boycott of the Russian state school system; launch<br>ing of the Polish Motherland Schools |
-| 40. Passive Resis<br>tance campaign<br>for equal political<br>rights in the<br>Habsburg Empire | Hungary | 1850s–<br>1860s | Refusal of military service; refusal to speak German socially;<br>boycott of ocial celebrations; boycott of courts; boycott<br>of Austrian goods; refusal to provide board and lodging for<br>Austrian soldiers |
-| 41. Campaigns<br>against the<br>Stamp Act in<br>the US colonies<br>against the<br>British crown | Britain's<br>American<br>Colonies | 1765–<br>1766 | Nonimportation; boycotts; tax refusal; nonconsumption of<br>British products |
+| 32. Nashville
+campaign in the
+US Civil Rights
+Movement | United
+States | 1960 | Activist trainings and drills in a church basement; lunch counter
+sit-ins; lling in jails; boycott of downtown businesses; mass
+march to the mayor's oce |
+| 33. Positive Action
+independence
+campaign | Ghana | 1949–
+1951 | Economic boycotts against British goods, closing stores;
+sit-downs; establishment of independence schools |
+| 34. Bengali
+Language
+Movement | Bangla
+desh | 1948–
+1952 | General strike; funeral homages; establishment of language
+action committee and sociocultural organizations; strikes
+(International Mother Language Day was established by the
+UN in commemoration of this peaceful movement) |
+| 35. Nonviolent re
+sistance against
+Nazi occupation | Denmark | 1940–
+1944 | "Ten Commandments" of Danish civil resistance that advocated
+and promoted working slowly, ineectively, and badly for the
+Nazis; delaying or stopping transportation useful for Nazis;
+boycott German lms and newspapers; boycott Nazis' stores;
+protect anyone that is pursued by Germans, which helped save
+90 percent of the Danish Jews |
+| 36. Indian Indepen
+dence Struggle | India | 1930–
+1931 | General civil disobedience against the British salt tax and
+monopoly on production and sale of salt; public statements and
+speeches by Gandhi and his supporters; mass petition; sym
+bolic acts including public prayers and the display of a national
+Indian ag; singing; dancing; procession (the Salt March); pub
+lic mourning of unarmed demonstrators killed by the British;
+economic boycott of British goods; hartals ("limited strikes");
+school boycotts; occupation of salt depos; economic noncoop
+eration and self-sustainability (homespun) |
+| 37. Egyptian Revo
+lution of 1919 for
+independence
+from Britain | Egypt | 1919–
+1921 | Signature collection campaign in support of full independence;
+student strikes; workers' and peasants' strikes; women wore
+veils in protest; demonstrations at public funerals; boycott of
+British goods; mass prayer for independence; use of plays,
+music, and literature advocating disobedience |
+| 38. Persian
+Tobacco Protest | Iran | 1890–
+1892 | Boycott of tobacco products and nonviolent demonstrations
+against a British company's monopoly over the production,
+sale, and export of Persian tobacco |
+| 39. Resisting
+Russication in
+Russian Poland | Poland
+under
+partitions | 1885–
+1914 | Development of the Polish Flying University (Marie Curie,
+future rst woman's Nobel laureate, graduated from this illegal
+university); boycott of the Russian state school system; launch
+ing of the Polish Motherland Schools |
+| 40. Passive Resis
+tance campaign
+for equal political
+rights in the
+Habsburg Empire | Hungary | 1850s–
+1860s | Refusal of military service; refusal to speak German socially;
+boycott of ocial celebrations; boycott of courts; boycott
+of Austrian goods; refusal to provide board and lodging for
+Austrian soldiers |
+| 41. Campaigns
+against the
+Stamp Act in
+the US colonies
+against the
+British crown | Britain's
+American
+Colonies | 1765–
+1766 | Nonimportation; boycotts; tax refusal; nonconsumption of
+British products |
 
 Despite the wide range of tactics employed in these 41 cases, they can be usefully categorized in two ways. First, nonviolent tactics can be categorized according to the risks taken by dissidents. Tactics of concentration, such as assemblies of protest or support, are high risk as they are big targets for violence by dictators. Tactics of dispersion, such as withdrawal from social institutions, are lower risk because they represent too many discrete and nonessential targets for violent repression.
 
@@ -803,7 +1133,7 @@ Chenoweth and Schock's ndings of the incompatibility of violence and civil resis
 
 Anyone who argues that a civil resistance campaign needs to be tolerant of allies who want to engage in violence is wrong. To go along with such a "big tent" argument functionally means that a civil resistance campaign should welcome into its midst forces that are alien to the idea of nonviolent conict. Any reliance on allies willing to use violence will undermine the condence and clarity that
 
-<sup>18</sup> Erica Chenoweth and Kurt Schock, "Do Contemporaneous Armed Challenges Aect the Outcomes of Mass Nonviolent Campaigns?," in Mobilization: An International Quarterly 20, no. 4 (2015): 427–451.
+18 Erica Chenoweth and Kurt Schock, "Do Contemporaneous Armed Challenges Aect the Outcomes of Mass Nonviolent Campaigns?," in Mobilization: An International Quarterly 20, no. 4 (2015): 427–451.
 
 comes with maintaining nonviolent discipline. Disruption and defection of the tyrant's key supporters, which is key to success, is inhibited by the presence of violent insurrectionists. Common sense dictates that latent double thinkers will be unlikely to reveal themselves when they are being threatened with bodily harm or even death by the very people who desire them to defect to their side.
 
@@ -839,7 +1169,7 @@ In a counterattack (not unlike what happened in Hong Kong in 2020), the Venezuel
 
 In the essay "The Future of Nonviolent Resistance," Chenoweth explains the different outcomes between Serbia, China, and Venezuela by oering advice to today's pro-democracy activist:
 
-…movements that engage in careful planning, organization, training, and coalition-building prior to mass mobilization are more likely to draw a large and diverse following than movements that take to the streets before hashing out a political program and strategy.<sup>19</sup>
+…movements that engage in careful planning, organization, training, and coalition-building prior to mass mobilization are more likely to draw a large and diverse following than movements that take to the streets before hashing out a political program and strategy.19
 
 In her essay, Chenoweth goes on to point out two contradictory trends in civil resistance during this century: the dramatic acceleration of cases of nonviolent conict and the substantial reduction in success rates of those conicts. This can be explained because fewer are unfolding like Serbia, where the momentum was with the dissidents, and more are unfolding like China and Venezuela where the momentum was with the tyrants.
 
@@ -850,7 +1180,7 @@ To maintain momentum, dissidents must prioritize tactics that:
 
 These relationships are illustrated in Figure 14. The upper right quadrant describes the dissident's terrain. It is the dissident's task to prioritize tactics so they will move along Line A with minimal levels of societal disruptions creating the maximum number of defections from the tyrant. The tyrant wants to reduce the eciency of dissidents' tactics as seen on Line B, where even high levels of disruption through nonviolent tactics lead to fewer defections. If the
 
-<sup>19</sup> Erica Chenoweth, "The Future of Nonviolent Resistance," in Journal of Democracy 31, no. 3 (July 2020): 69–84.
+19 Erica Chenoweth, "The Future of Nonviolent Resistance," in Journal of Democracy 31, no. 3 (July 2020): 69–84.
 
 ## ![](_page_66_Figure_0.jpeg)
 
@@ -874,9 +1204,9 @@ One exception to this is mass protests, the tactic which occurs most frequently 
 
 "The Power of Words: State Reactions to Protest Announcements," Iohannes Vüllers and Elisa Schwarz note:
 
-Organizations often announce their protest activities prior to their implementation to mobilize awareness, recruit supporters, and receive media attention.<sup>20</sup>
+Organizations often announce their protest activities prior to their implementation to mobilize awareness, recruit supporters, and receive media attention.20
 
-Facing a protest announcement, the government has three different options: (a) ignoring the announcement, (b) taking preventive measures to ensure the protest will not be implemented, or (c) providing concessions to prevent the protest from taking place.<sup>21</sup>
+Facing a protest announcement, the government has three different options: (a) ignoring the announcement, (b) taking preventive measures to ensure the protest will not be implemented, or (c) providing concessions to prevent the protest from taking place.21
 
 If the tyrant refuses to accept the risk of ignoring the protest announcement and does not take preventative measures, then the tyrant is forced to provide concessions. This immediately gives pro-democracy activists leverage because latent double thinkers will become aware of the tyrant's discomfort and reluctance to use force.
 
@@ -892,9 +1222,9 @@ Is the civil resistance campaign discovering ways to make external support more 
 
 oo often dissidents feel the missing link to their success is external support. The most common manifestation of this is the desperate desire for the world's recognition of their plight.
 
-<sup>20</sup> Johannes Vüllers and Elisa Schwarz, "The Power of Words: State Reaction to Protest Announcements," *Comparative Political Studies* 52, no. 3 (2019): 347.
+20 Johannes Vüllers and Elisa Schwarz, "The Power of Words: State Reaction to Protest Announcements," *Comparative Political Studies* 52, no. 3 (2019): 347.
 
-<sup>21</sup> Vüllers and Schwarz, "The Power of Words," 353.
+21 Vüllers and Schwarz, "The Power of Words," 353.
 
 Erica Chenoweth and Maria Stephan's groundbreaking study The Role of External Support in Nonviolent Campaigns: Poisoned Chalice or Holy Grail? systematically evaluates the eects of external assistance on maximalist nonviolent conicts (i.e., those seeking to eect regime change). Chenoweth and Stephan recognize the ubiquity of external actors in twenty-rst century nonviolent conict and how they can help "generate high participation, maintain nonviolent discipline, deter crackdowns, and elicit security force defections."22 At the same time, they reject the notion that civil resistance campaigns must rely on outside assistance to avoid failure.
 
@@ -913,9 +1243,9 @@ By integrating these qualitative and quantitative data, the study reviews:
 
 Tables 8–11 organize the data to demonstrate how external assistance can "sustain high participation, maintain nonviolent discipline, deter crackdowns and elicit defections."23
 
-<sup>22</sup> Erica Chenoweth and Maria J. Stephan, The Role of External Support in Nonviolent Campaigns: Poisoned Chalice or Holy Grail? (Washington, DC: ICNC Press, 2021), 1.
+22 Erica Chenoweth and Maria J. Stephan, The Role of External Support in Nonviolent Campaigns: Poisoned Chalice or Holy Grail? (Washington, DC: ICNC Press, 2021), 1.
 
-<sup>23</sup> Chenoweth and Stephan, The Role of External Support*,* 18.
+23 Chenoweth and Stephan, The Role of External Support*,* 18.
 
 ## ![](_page_70_Figure_0.jpeg)
 
@@ -982,19 +1312,19 @@ This extraordinary encyclopedia of information allows pro-democracy activists to
 - Concurrent external support to armed groups tends to undermine nonviolent movements in numerous ways….
 - Repressive regimes oen benet from outside support from powerful allies, posing a signicant challenge for activists….
 - Direct funding to movements has few eects on movement characteristics or outcomes.... Flexible donor funding that minimizes bureaucratic obstacles has been most helpful to movements.
-- Donor coordination is important to be able to eectively support and leverage nonviolent campaigns…. This insight helps us understand not just the who and what of external assistance, but also the how. Unity and cohesion are important for movements and donors alike….<sup>24</sup>
+- Donor coordination is important to be able to eectively support and leverage nonviolent campaigns…. This insight helps us understand not just the who and what of external assistance, but also the how. Unity and cohesion are important for movements and donors alike….24
 
-<sup>24</sup> Chenoweth and Stephan, The Role of External Support, 1–3.
+24 Chenoweth and Stephan, The Role of External Support, 1–3.
 
 ## ![](_page_78_Picture_0.jpeg)
 
 Anti-Marcos farmers protest during the People Power Movement in the Philippines, 1986.
 
-While this study affirms the many opportunities to capitalize on the availability of outside assistance, there are caveats with every form of intervention except one: "training seems to effectively support nonviolent campaigns more consistently than any other form of assistance."<sup>25</sup>
+While this study affirms the many opportunities to capitalize on the availability of outside assistance, there are caveats with every form of intervention except one: "training seems to effectively support nonviolent campaigns more consistently than any other form of assistance."25
 
 It is clear that in order for new and old tyrants of the world to "retire," pro-democracy activists must become more competitive. There are no negative effects of training as many dissidents as humanly possible. This transfer of knowledge to hundreds of thousands of key pro-democracy activists can provide one of the greatest opportunities for all humanity to undermine tyranny. This should be the focus of worldwide efforts—particularly from private, foundational support.
 
-<sup>25</sup> Ibid., 5.
+25 Ibid., 5.
 
 **When it comes to measuring the resilience of a civil resistance campaign, numbers matter the most. Tyrants are well aware that more campaign participants will reduce the impact of their violent repression and therefore their capacity to control the population they currently govern.**
 
@@ -1016,13 +1346,13 @@ High rates of civilian participation also increase the probability of defections
 
 One category of participants requires special attention, namely, the role of women in civil resistance. Women have been more important in past campaigns then generally recognized. Between 1949 and 2013, there were at least 95 nonviolent campaigns with women's frontline participation that succeeded against a militarily more powerful foreign occupier, colonizer, or repressive domestic regime (see Table 12). The Women in Resistance (Wi Re) dataset has shown that "women's participation is highly correlated with successful resistance campaigns."27 Women's involvement increases levels of public participation, heightens the prospects of defections from the military, and improves the likelihood of maintaining nonviolent discipline. Indeed, lack of women's frontline participation makes civil resistance 24 percent more likely to fail.28
 
-<sup>26</sup> See also Maciej Bartkowski, "Alternative Institution-Building as Civil Resistance," Minds of the Movement, posted June 13, 2018. https://www.nonviolent-conict.org/blog\_post/alternative-institution-building-civil-resistance/.
+26 See also Maciej Bartkowski, "Alternative Institution-Building as Civil Resistance," Minds of the Movement, posted June 13, 2018. https://www.nonviolent-conict.org/blog\_post/alternative-institution-building-civil-resistance/.
 
-<sup>27</sup> Erica Chenoweth, Conor Seyle, and Sahana Dharmapuri, Women's Participation and the Fate of Nonviolent Campaigns: A Report on the Women in Resistance (WIRE) Data Set (Policy Brief). Broomeld, CO: One Earth Future, October 2019. https://www.oneearthfuture.org/le/1964/download?token=VUc OhryR.
+27 Erica Chenoweth, Conor Seyle, and Sahana Dharmapuri, Women's Participation and the Fate of Nonviolent Campaigns: A Report on the Women in Resistance (WIRE) Data Set (Policy Brief). Broomeld, CO: One Earth Future, October 2019. https://www.oneearthfuture.org/le/1964/download?token=VUc OhryR.
 
-<sup>28</sup> Ibid.
+28 Ibid.
 
-**TABLE 12:** 95 Successful Civil Resistance Campaigns with Signicant Women's Frontline Participation Against Foreign or Domestic Tyrannies Between 1949–2013<sup>29</sup>
+**TABLE 12:** 95 Successful Civil Resistance Campaigns with Signicant Women's Frontline Participation Against Foreign or Domestic Tyrannies Between 1949–201329
 
 | Campaign | Location | Start | End | Target |
 |------------------------------------------|------------------|-------|------|------------------------------------------------------------------|
@@ -1031,13 +1361,17 @@ One category of participants requires special attention, namely, the role of wom
 | April Revolution | South Korea | 1960 | 1960 | Rhee regime |
 | Zambian independence movement | Zambia | 1961 | 1963 | British rule |
 | Anti-Karamanlis campaign | Greece | 1963 | 1963 | Karamanlis regime |
-| Anti-Huong campaign | South<br>Vietnam | 1964 | 1965 | Government of South<br>Vietnam, Prime Minister<br>Tran Van Huong |
+| Anti-Huong campaign | South
+Vietnam | 1964 | 1965 | Government of South
+Vietnam, Prime Minister
+Tran Van Huong |
 | Anti-Tsiranana campaign | Madagascar | 1972 | 1972 | Tsiranana regime |
 | Greek anti-military campaign | Greece | 1973 | 1974 | Military rule |
 | Carnation Revolution | Portugal | 1973 | 1974 | Military rule |
 | 1973 Thai Uprising | Thailand | 1973 | 1973 | Military dictatorship |
 | Pro-democracy movement | Argentina | 1977 | 1983 | Military junta |
-| Anti-Bhutto campaign | Pakistan | 1977 | 1977 | Prime Minister Zulkar<br>Ali Bhutto |
+| Anti-Bhutto campaign | Pakistan | 1977 | 1977 | Prime Minister Zulkar
+Ali Bhutto |
 | Bolivian anti-juntas campaign | Bolivia | 1977 | 1982 | Military juntas |
 | Anti-Indira Campaign (Phase 3) | India | 1977 | 1977 | Prime Minister Indira Gandhi |
 | Iranian Revolution | Iran | 1977 | 1979 | Shah Reza Pahlavi |
@@ -1046,11 +1380,12 @@ One category of participants requires special attention, namely, the role of wom
 | Anti-Pinochet campaign | Chile | 1983 | 1989 | Augusto Pinochet |
 | People Power | Philippines | 1983 | 1986 | Ferdinand Marcos |
 | Uruguay anti-military campaign | Uruguay | 1984 | 1985 | Military rule |
-| South African Second Deance<br>Campaign | South Africa | 1984 | 1994 | Apartheid |
+| South African Second Deance
+Campaign | South Africa | 1984 | 1994 | Apartheid |
 | Diretas já | Brazil | 1984 | 1985 | Military rule |
 | Anti-Duvalier campaign | Haiti | 1985 | 1986 | Jean Claude Duvalier |
 
-<sup>29</sup> Based on Erica Chenoweth, Women in Resistance Dataset, V1 (2019), distributed by Harvard Dataverse, V3, https://doi.org/10.7910/DVN/BYFJ3Z.
+29 Based on Erica Chenoweth, Women in Resistance Dataset, V1 (2019), distributed by Harvard Dataverse, V3, https://doi.org/10.7910/DVN/BYFJ3Z.
 
 | Campaign | Location | Start | End | Target |
 |------------------------------------------|------------------------------|-------|------|------------------------------------|
@@ -1067,20 +1402,25 @@ One category of participants requires special attention, namely, the role of wom
 | Ivorian pro-democracy movement | Ivory Coast | 1989 | 1990 | Felix Houphouët Boigny regime |
 | Benin anti-communist | Benin | 1989 | 1990 | Communist regime |
 | Pro-democracy movement | Latvia | 1989 | 1991 | Communist regime |
-| Velvet Revolution | Czechoslo<br>vakia | 1989 | 1989 | Communist regime |
+| Velvet Revolution | Czechoslo
+vakia | 1989 | 1989 | Communist regime |
 | Public Against Violence | Slovakia | 1989 | 1992 | Czech communist government |
 | Slovenia anti-communist | Slovenia | 1989 | 1990 | Communist regime |
 | Pro-democracy movement | Hungary | 1989 | 1989 | Communist regime |
-| Anti-Burnham/Hoyte campaign | Guyana | 1990 | 1992 | Burnham/Hoyte autocratic<br>regime |
+| Anti-Burnham/Hoyte campaign | Guyana | 1990 | 1992 | Burnham/Hoyte autocratic
+regime |
 | Niger anti-military campaign | Niger | 1990 | 1992 | Military rule |
-| CCCN and union pro-democracy<br>movement | Central Afri<br>can Republic | 1990 | 1993 | Kolingba presidency |
+| CCCN and union pro-democracy
+movement | Central Afri
+can Republic | 1990 | 1993 | Kolingba presidency |
 | Kyrgyzstan Democratic Movement | Kyrgyzstan | 1990 | 1991 | Communist regime |
 | Zambia anti-single party rule | Zambia | 1990 | 1991 | One-party rule |
 | Mali anti-military campaign | Mali | 1990 | 1991 | Military rule |
 | The Stir | Nepal | 1990 | 1990 | Monarchy/Panchayat regime |
 | Students union protests | Ukraine | 1990 | 1990 | Masol Regime |
 | Pro-democracy movement | Russia | 1990 | 1991 | Anti-coup |
-| Slovenian independence<br>movement | Slovenia | 1990 | 1991 | Yugoslavian rule |
+| Slovenian independence
+movement | Slovenia | 1990 | 1991 | Yugoslavian rule |
 | Albanian anti-communist | Albania | 1990 | 1991 | Communist regime |
 ## | | | | | |
 
@@ -1100,46 +1440,60 @@ One category of participants requires special attention, namely, the role of wom
 | Anti-Rawlings campaign | Ghana | 2000 | 2000 | Rawlings government |
 | Second People Power Movement | Philippines | 2001 | 2001 | Estrada regime |
 | Anti-Chiluba campaign | Zambia | 2001 | 2001 | Chiluba regime |
-| Nepalese anti-government | Nepal | 2002 | 2006 | Nepalese government;<br>martial law |
+| Nepalese anti-government | Nepal | 2002 | 2006 | Nepalese government;
+martial law |
 | Pro-democracy movement | Madagascar | 2002 | 2002 | Radsiraka regime |
 | Anti-Sanchez de Lozada Campaign | Bolivia | 2003 | 2003 | President Sanchez de Lozada |
 | Anti-Gayoom Campaign | Maldives | 2003 | 2008 | Gayoom regime |
-| Anti-Aristide Campaign | Haiti | 2003 | 2004 | Haitian President Jean<br>Bertrand Aristide |
+| Anti-Aristide Campaign | Haiti | 2003 | 2004 | Haitian President Jean
+Bertrand Aristide |
 | Rose Revolution | Georgia | 2003 | 2003 | Shevardnadze regime |
 | Tulip Revolution | Kyrgyzstan | 2005 | 2005 | Akayev regime |
-| Togo anti-Gnassingbe/Coup Crisis | Togo | 2005 | 2005 | President Faure<br>Gnassingbe Regime |
+| Togo anti-Gnassingbe/Coup Crisis | Togo | 2005 | 2005 | President Faure
+Gnassingbe Regime |
 | Anti-Thaksin campaign | Thailand | 2005 | 2006 | Thaksin regime |
-| Rebellion of the Forajidos | Ecuador | 2005 | 2005 | Ecuadorian President<br>Colonel Lucio Gutierrez |
+| Rebellion of the Forajidos | Ecuador | 2005 | 2005 | Ecuadorian President
+Colonel Lucio Gutierrez |
 | Cedar Revolution | Lebanon | 2005 | 2005 | Syrian forces |
 | Awami League Protests | Bangladesh | 2006 | 2007 | Interim government |
-| Lebanon Political Crisis | Lebanon | 2006 | 2008 | Government of Prime<br>Minister Fouad Siniora |
+| Lebanon Political Crisis | Lebanon | 2006 | 2008 | Government of Prime
+Minister Fouad Siniora |
 ## | | | | | |
 
 | Campaign | Location | Start | End | Target |
 |-------------------------------------------------------------------|-------------|-------|------|--------------------------------------------|
-| Anti-Musharraf campaign<br>(Lawyer's Movement) | Pakistan | 2007 | 2008 | Musharraf Government |
+| Anti-Musharraf campaign
+(Lawyer's Movement) | Pakistan | 2007 | 2008 | Musharraf Government |
 | Anti-Saakashvilli campaign | Georgia | 2007 | 2013 | Saakashvili Regime |
 | Anti-Mubarak movement | Egypt | 2007 | 2011 | Government |
-| Cutlery Revolution (Kitchenware/<br>Kitchen Implement Revolution) | Iceland | 2008 | 2009 | Prime Minister Geir Haarde<br>Government |
-| People's Alliance for Democracy<br>Campaign | Thailand | 2008 | 2008 | People Power Party<br>Government |
+| Cutlery Revolution (Kitchenware/
+Kitchen Implement Revolution) | Iceland | 2008 | 2009 | Prime Minister Geir Haarde
+Government |
+| People's Alliance for Democracy
+Campaign | Thailand | 2008 | 2008 | People Power Party
+Government |
 | Anti-Ravalomanana movement | Madagascar | 2009 | 2009 | Ravalomanana government |
-| Second Revolution | Kyrgyzstan | 2010 | 2010 | Kyrgyz president Kurmanbek<br>Bakiyev |
+| Second Revolution | Kyrgyzstan | 2010 | 2010 | Kyrgyz president Kurmanbek
+Bakiyev |
 | Pro-Ouattara campaign | Ivory Coast | 2010 | 2011 | Gbagbo Regime |
 | Jasmine Revolution | Tunisia | 2010 | 2011 | Ben Ali Regime |
-| Maoist anti-government protests | Nepal | 2010 | 2010 | Madhav Kumar Nepal<br>Government |
-| Anti-Mutharika campaign | Malawi | 2011 | 2012 | President Mutharika<br>Government |
+| Maoist anti-government protests | Nepal | 2010 | 2010 | Madhav Kumar Nepal
+Government |
+| Anti-Mutharika campaign | Malawi | 2011 | 2012 | President Mutharika
+Government |
 | Anti-Ali Abdullah Saleh campaign | Yemen | 2011 | 2012 | Government (Saleh regime) |
 | Anti-Islamist government protests | Tunisia | 2013 | 2014 | Ennahda Party |
-| Dance with Me Campaign | Bulgaria | 2013 | 2014 | Government of Prime<br>Minister Oresharski |
+| Dance with Me Campaign | Bulgaria | 2013 | 2014 | Government of Prime
+Minister Oresharski |
 | Civil Movement for Democracy | Thailand | 2013 | 2014 | Yingluck government |
 | Euromaidan | Ukraine | 2013 | 2014 | President Yanukovych |
 | Anti-Morsi protests | Egypt | 2013 | 2013 | President Morsi |
 
 One question to consider is whether there is ever a circumstance when campaigns should seek to minimize participation? The answer is no. There is no circumstance in which low levels of participation are preferable to high levels. According to Chenoweth and Stephan:
 
-Over space and time, large campaigns are much more likely to succeed than small campaigns. A single unit increase of active participants makes a campaign over 10 percent more likely to achieve its ultimate outcome. Consider [Figure 16], which shows the effects of number of participants per capita on the predicted probability of campaign success. The trend is clear that as participation increases, the probability of success also increases. <sup>30</sup>
+Over space and time, large campaigns are much more likely to succeed than small campaigns. A single unit increase of active participants makes a campaign over 10 percent more likely to achieve its ultimate outcome. Consider [Figure 16], which shows the effects of number of participants per capita on the predicted probability of campaign success. The trend is clear that as participation increases, the probability of success also increases. 30
 
-<sup>30</sup> Chenoweth and Stephan, Why Civil Resistance Works, 39.
+30 Chenoweth and Stephan, Why Civil Resistance Works, 39.
 
 #### **FIGURE 16:** The Eect of Participation on the Probability of Campaign Success
 
@@ -1153,9 +1507,9 @@ In their quantitative research, Chenoweth and Stephan dene "participation" in a 
 
 The participation of 3.5 percent of a society's population might seem remarkably small, and in many ways it is. However, it is also
 
-<sup>31</sup> Chenoweth and Stephan, 30.
+31 Chenoweth and Stephan, 30.
 
-<sup>32</sup> Erica Chenoweth, "Questions, Answers, and Some Cautionary Updates Regarding the 3.5% Rule," Carr Discussion Paper Series, 2020-05 (Cambridge, MA: Harvard Kennedy School, Spring 2020).
+32 Erica Chenoweth, "Questions, Answers, and Some Cautionary Updates Regarding the 3.5% Rule," Carr Discussion Paper Series, 2020-05 (Cambridge, MA: Harvard Kennedy School, Spring 2020).
 
 important to note that the Chenoweth–Stephan denition of "participation" looks at the highest observable number of people who are visibly engaged in civil resistance tactics in any single day (i.e., the number of people at protests or other demonstrations nationwide). Therefore, it is not necessarily representative of the full scale of movement participation, since many forms of participation in civil resistance are not easily observable to outside researchers in a post-mortem evaluation. Specically, dispersed tactics or tactics of omission (i.e., strikes and boycotts) are much harder to measure in terms of participation rates.
 
@@ -1173,13 +1527,13 @@ One way to maintain high participation rates is to give citizens tasks that requ
 
 The current expression of Gandhi's constructive program is the creation of alternative institutions. Luke Abbs writes in his study The Impact of Nonviolent Resistance on the Peaceful Transformation of Civil War:
 
-Alternative institutions are oen formed by nonviolent campaigns to counter state institutions that may be inecient or simply discriminatory. Alternative institutions, such as parallel education and governance systems, are self-sucient and based on grassroots activities that can promote inclusivity.<sup>33</sup>
+Alternative institutions are oen formed by nonviolent campaigns to counter state institutions that may be inecient or simply discriminatory. Alternative institutions, such as parallel education and governance systems, are self-sucient and based on grassroots activities that can promote inclusivity.33
 
 By keeping participation rates high through the creation of alternative institutions latent double thinkers will remain encouraged to consider revealing themselves as the conict evolves.
 
 To mobilize people, a movement rst has to analyze why people remain obedient in society in the rst place. Gene Sharp cites seven core reasons why people obey oppressive systems, and others have expanded on Sharp's list. Ten core reasons are included here. Identifying which of these reasons are operative on dierent segments of the population, even down to the individual encounter, is an important task.
 
-<sup>33</sup> Luke Abbs, The Impact of Nonviolent Resistance on the Peaceful Transformation of Civil War (Washington, DC: ICNC Press, 2021), 45.
+33 Luke Abbs, The Impact of Nonviolent Resistance on the Peaceful Transformation of Civil War (Washington, DC: ICNC Press, 2021), 45.
 
 - FEAR OF PUNISHMENT
  - 2 HABIT
@@ -1282,23 +1636,23 @@ A skillful leader of a civil resistance campaign must keep the prospect of nonco
 
 However, some note that what has been true in the past may not necessarily be true in the future. For example, one could argue that today's newest technologies have permanently conferred advantages for tyrants in their battles with dissidents. In a recent article in Foreign Aairs titled "Digital Dictators: How Technology Strengthens Autocracy" written by Andrea Kendall-Taylor, Erica Frantz, and Joseph Wright, the authors observe:
 
-The advancement of AI-powered surveillance is the most signicant evolution in digital authoritarianism. High-resolution cameras, facial recognition, spying malware, automated text analysis, and big-data processing have opened up a wide range of new methods of citizen control.<sup>34</sup>
+The advancement of AI-powered surveillance is the most signicant evolution in digital authoritarianism. High-resolution cameras, facial recognition, spying malware, automated text analysis, and big-data processing have opened up a wide range of new methods of citizen control.34
 
 The authors also believe that technology strengthens the link between repression and obedience that the dissident hopes to dissolve. In the same article they note:
 
-Dictatorships harness technology not only to suppress protests but also to stien older methods of control. Our analysis… suggests that dictatorships that increase their use of digital repression also tend to increase their use of violent forms of repression "in real life," particularly torture and the killing of opponents. This indicates that authoritarian leaders don't replace traditional repression with digital repression. Instead, by making it easier for authoritarian regimes to identify their opposition, digital repression allows them to more eectively determine who should get a knock on the door or be thrown in a cell. This closer targeting of opponents reduces the need to resort to indiscriminate repression, which can trigger a popular backlash and elite defections.<sup>35</sup>
+Dictatorships harness technology not only to suppress protests but also to stien older methods of control. Our analysis… suggests that dictatorships that increase their use of digital repression also tend to increase their use of violent forms of repression "in real life," particularly torture and the killing of opponents. This indicates that authoritarian leaders don't replace traditional repression with digital repression. Instead, by making it easier for authoritarian regimes to identify their opposition, digital repression allows them to more eectively determine who should get a knock on the door or be thrown in a cell. This closer targeting of opponents reduces the need to resort to indiscriminate repression, which can trigger a popular backlash and elite defections.35
 
-<sup>34</sup> Andrea Kendall-Taylor, Erica Frantz, and Joseph Wright, "The Digital Dictators: How Technology Strengthens Autocracy," in *Foreign Affairs* (March/April 2020), https://www.foreignaairs.com/articles/china/2020-02-06/digital-dictators
+34 Andrea Kendall-Taylor, Erica Frantz, and Joseph Wright, "The Digital Dictators: How Technology Strengthens Autocracy," in *Foreign Affairs* (March/April 2020), https://www.foreignaairs.com/articles/china/2020-02-06/digital-dictators
 
-<sup>35</sup> Kendall-Taylor, Frantz, and Wright, "Digital Dictators."
+35 Kendall-Taylor, Frantz, and Wright, "Digital Dictators."
 
 Is this the end of discussion? Will current advances in technology continue to advantage tyrants until they are the winner in every nonviolent conict going forward? This is very unlikely. Twenty-six years ago, I observed:
 
-A nal factor that is transforming the environment of conict is technology, and especially communications technology. Since organized social conict requires improved access to cheap, ecient, and discreet communications should make strategic nonviolent conict both easier to perform and more relevant. Indeed, new technologies from personal computing to fax machines, beepers, and cellular telephones have already created a whole new range of opportunities for practitioners of nonviolent struggle. Despite many impressive examples of strategists exploiting these new opportunities, we must note that technological advances confer no permanent advantage on those who are democratic and nonviolent. The same tools can be used for domination and repression. They do not relieve nonviolent strategists of their fundamental strategic obligation: to outperform their adversaries.<sup>36</sup>
+A nal factor that is transforming the environment of conict is technology, and especially communications technology. Since organized social conict requires improved access to cheap, ecient, and discreet communications should make strategic nonviolent conict both easier to perform and more relevant. Indeed, new technologies from personal computing to fax machines, beepers, and cellular telephones have already created a whole new range of opportunities for practitioners of nonviolent struggle. Despite many impressive examples of strategists exploiting these new opportunities, we must note that technological advances confer no permanent advantage on those who are democratic and nonviolent. The same tools can be used for domination and repression. They do not relieve nonviolent strategists of their fundamental strategic obligation: to outperform their adversaries.36
 
 We should therefore not assume that new technological developments will convey a permanent benet to the tyrant over the dissident, as the situation can rapidly reverse. For example, today the food industry uses very small radio frequency tags to track totes that hold products for home delivery. Imagine taking that tag, improving the range of transmission, and putting it on a postage stamp-sized card with adhesive on the other side. Send millions of tags into Iran, China, and Russia or other authoritarian country. Dissidents will now have a new form of signage to put on outdoor walls to express subversive messages or to communicate how and where to execute a specic nonviolent tactic. Another example of technological opportunity could be a lapel pin that gives o a signal to make an individual's face undetectable for state high-resolution scanners placed on the streets. Or a small ashlight device that burns a surveillance camera lens, rendering it useless. Furthermore, is there any reason that the newest and most damaging forms of malware will be available only for the use of tyrants?
 
-<sup>36</sup> Peter Ackerman and Christopher Kruegler, Strategic Nonviolent Conict: The Dynamics of People Power in the Twentieth Century (Westport, CT: Praeger Publishers, 1994), xxiii.
+36 Peter Ackerman and Christopher Kruegler, Strategic Nonviolent Conict: The Dynamics of People Power in the Twentieth Century (Westport, CT: Praeger Publishers, 1994), xxiii.
 
 Kendall-Taylor, Frantz, and Wright, the authors of "Digital Dictators," point out the most pernicious (and clever) uses of artificial intelligence (AI) in China:
 
@@ -1314,7 +1668,7 @@ Are potential defections among the tyrant's key supporters likely to increase?
 
 Inless the tyrant and his closest allies have a crisis of faith and unilaterally renounce their power, nonviolent conflicts cannot succeed without defections, especially among security forces.
 
-<sup>37</sup> Kendall-Taylor, Frantz, and Wright, "Digital Dictators."
+37 Kendall-Taylor, Frantz, and Wright, "Digital Dictators."
 
 Defections have the greatest benet if they occur among supporters on which the tyrant most depends to exert his control over the population. To the extent that a defection surprises the tyrant, it will create hesitation in his use of force because he will become uncertain as to which of his allies will disappoint him next.
 
@@ -1324,13 +1678,14 @@ Most political realists think the capacities of these constituencies are xed con
 
 Security forces are not the only group that defects from a tyrant during the course of a conict, but they are the group that has received the most research interest. In a comparative study of Serbia (2000) and Ukraine (2004), Anika Binnendijk and Ivan Marovic made the following conclusion about the signicance of military defection in nonviolent conict:
 
-Strategic attention to state security forces may serve three major functions of force on the battleeld of a nonviolent struggle: defence, deterrence, and compellent. Defensively, it may mute the impact of a regime's violent weapons again the movement and its allies (Ackerman and Kruegler, 1994). As the costs of repression mount and capacity to suppress opposition diminishes, the regime leadership may be deterred from attempting to wield coercive force at all (Dahl, 1971). Finally, by weakening one of the regime's core centers of gravity, a movement may compel it into new election standards, or even removal from oce.<sup>38</sup>
+Strategic attention to state security forces may serve three major functions of force on the battleeld of a nonviolent struggle: defence, deterrence, and compellent. Defensively, it may mute the impact of a regime's violent weapons again the movement and its allies (Ackerman and Kruegler, 1994). As the costs of repression mount and capacity to suppress opposition diminishes, the regime leadership may be deterred from attempting to wield coercive force at all (Dahl, 1971). Finally, by weakening one of the regime's core centers of gravity, a movement may compel it into new election standards, or even removal from oce.38
 
 Chenoweth and Stephan have identied cases of "large-scale, systematic breakdowns [by security forces] in the execution of a regime's orders" 39 during civil resistance movements, and they have found that the presence of such defections increases the movement's probability of success by 58 percent.
 
 Below are eleven important examples where security force defections have had a decisive inuence on the outcome of a nonviolent conict.
 
-| TABLE 14: Nonviolent Campaigns with Signicant<br>Security Force Defections | | | | |
+| TABLE 14: Nonviolent Campaigns with Signicant
+Security Force Defections | | | | |
 |-----------------------------------------------------------------------------|-----------|--|--|--|
 | Campaign | Year | | | |
 | Nonviolent revolution against Shah Mohammad Reza Pahlavi in Iran | 1978–79 | | | |
@@ -1345,9 +1700,9 @@ Below are eleven important examples where security force defections have had a d
 | Popular uprising against President Evo Morales in Bolivia | 2018–2019 | | | |
 | Algeria's Revolution of Smiles | 2019–2020 | | | |
 
-<sup>38</sup> Anika Binnendijk and Ivan Marovic, "Power and Persuasion: Nonviolent Strategies to Inuence State Security Forces in Serbia (2000) and Ukraine (2004)," in Communist and Post-Communist Studies 39, no. 3 (September 2006): 411–429.
+38 Anika Binnendijk and Ivan Marovic, "Power and Persuasion: Nonviolent Strategies to Inuence State Security Forces in Serbia (2000) and Ukraine (2004)," in Communist and Post-Communist Studies 39, no. 3 (September 2006): 411–429.
 
-<sup>39</sup> Chenoweth and Stephan, Why Civil Resistance Works*,* 48.
+39 Chenoweth and Stephan, Why Civil Resistance Works*,* 48.
 
 The research by Chenoweth and Stephan does not focus on routine individual defections from security forces, nor does it link success rates of campaigns to defections from leaders of the judiciary, business community, political parties, state-run media, bureaucracies, religious institutions, or revered cultural gures. However, as a standard rule we can conclude all defections from an authoritarian regime are helpful for pro-democracy activists.
 
@@ -1362,7 +1717,7 @@ What types of arguments encourage citizens to defect from a tyrannical regime? T
 - Coercion; and
 - Disintegration.
 
-<sup>40</sup> Gene Sharp, The Politics of Nonviolent Action, Part Three: The Dynamics of Nonviolent Action (Boston, MA: Porter Sargent Publishers, 1973).
+40 Gene Sharp, The Politics of Nonviolent Action, Part Three: The Dynamics of Nonviolent Action (Boston, MA: Porter Sargent Publishers, 1973).
 
 #### ■ CONVERSION
 
@@ -1390,7 +1745,7 @@ Dierent people have dierent thresholds of risk tolerance when it comes to exposi
 
 While I was the Chairman of Freedom House between the years of 2005 and 2009, one of my co-chairs was Mark Palmer. Mark was an American icon for advancing democracy. His famous book, Breaking the Real Axis of Evil: How to Oust the World's Last Dictators by 2025, was motivated by the same values as this volume. Mark was the United States Ambassador to Hungary during the momentous years of 1986–1990. He told me that during this volatile period he was approached by the Hungarian minister of propaganda. Seeing his position under threat, he asked Mark what job he could possibly do in a post-Communist Hungary. Mark had a quick response: "Why, of course, you should start a communications company." Mark told me that this was precisely what the former minister of propaganda ended up doing. Think of the comfort Mark's words must have been to him. His fear of the abyss, of some ill-dened but dangerous "transitional justice," was dissolved and replaced by hope and optimism about his future. This allowed the minister of propaganda to
 
-<sup>41</sup> Timur Kuran, Private Truths, Public Lies (Cambridge, MA: Harvard University Press, 1995).
+41 Timur Kuran, Private Truths, Public Lies (Cambridge, MA: Harvard University Press, 1995).
 
 cease clinging to his instrumental role in propping up the increasingly illegitimate Communist leadership.
 
@@ -1402,7 +1757,7 @@ Chenoweth and Stephan show that high levels of civilian participation signicantl
 
 Another aspect of the Checklist that helps lead to defections is maintaining nonviolent discipline. A tyrant's supporter will never signal an intention to defect if they feel threatened physically. Furthermore, because nonviolent discipline correlates with high levels of public participation in movements, the maintenance of nonviolent discipline can also indirectly contribute to inducing defections.
 
-<sup>42</sup> Chenoweth and Stephan, Why Civil Resistance Works, 48.
+42 Chenoweth and Stephan, Why Civil Resistance Works, 48.
 
 In contrast, while security force defections can and do happen in the midst of violent insurgencies, they happen less frequently. This makes sense for several reasons. Violent insurgencies can actually increase cohesion between a regime and its supporters, who feel united by a common threat. Security forces are unlikely to believe that they will be safe from retribution if they shi loyalties to a violent insurgency.
 
@@ -1423,7 +1778,7 @@ Probably nothing in a nonviolent campaign correlates more neatly with success th
 
 ## Is a post-conflict political order likely to emerge consistent with democratic values?
 
-successful campaign against a tyrannical regime is most likely to lead to democracy if it is driven by civil resistance. Dissidents can be highly confident of this assertion as there are multiple sources of supporting data. One of these is an important study by scholar Jonathan Pinckney, who examined 331 transitions among non-democratic regimes, which included 78 that were induced by civil resistance.<sup>43</sup>
+successful campaign against a tyrannical regime is most likely to lead to democracy if it is driven by civil resistance. Dissidents can be highly confident of this assertion as there are multiple sources of supporting data. One of these is an important study by scholar Jonathan Pinckney, who examined 331 transitions among non-democratic regimes, which included 78 that were induced by civil resistance.43
 
 Commenting on the array of countries in which civil resistance drove a political transition, Pinckney finds that "the countries are highly diverse. This is not simply a Latin American story, or an African story, or a European story, but the story of a global phenomenon that has had deeply transformational effects."
 
@@ -1437,11 +1792,11 @@ Source: Jonathan Pinckney, When Civil Resistance Succeeds: Building Democracy Af
 
 Countries with at least one civil resistance-induced transition from 1945 to 2015
 
-<sup>43</sup> Jonathan Pinckney, When Civil Resistance Succeeds: Building Democracy After Popular Nonviolent Uprisings (Washington, DC: ICNC Press, 2018).
+43 Jonathan Pinckney, When Civil Resistance Succeeds: Building Democracy After Popular Nonviolent Uprisings (Washington, DC: ICNC Press, 2018).
 
-<sup>44</sup> Pinckney, When Civil Resistance Succeeds, 27.
+44 Pinckney, When Civil Resistance Succeeds, 27.
 
-with at least some basic minimum level of democracy…. Without civil resistance, the probability of crossing the democratic threshold at the end of a transition is roughly 30%. With civil resistance, this probability jumps to around 70%.<sup>45</sup>
+with at least some basic minimum level of democracy…. Without civil resistance, the probability of crossing the democratic threshold at the end of a transition is roughly 30%. With civil resistance, this probability jumps to around 70%.45
 
 Pinckney's nding of a 70 percent probability of a democratic outcome aer a successful civil resistance campaign validates the impact of a nonviolent uprising.
 
@@ -1453,7 +1808,7 @@ Being preoccupied early on with the minutia of local issues can sap the energy o
 
 As the psychological need for certainty about the future inevitably grows, it will be dicult for leaders who are preoccupied with weakening the tyrant to fulll this need. Absent condence that movement leadership can produce an orderly transition that improves people's lives, at some point people may put their desire for predictable (even if meager) material well-being oered by the tyrant ahead of an ill-dened transition to "democracy."
 
-<sup>45</sup> Pinckney, When Civil Resistance Succeeds, 38.
+45 Pinckney, When Civil Resistance Succeeds, 38.
 
 ## ![](_page_110_Picture_0.jpeg)
 
@@ -1463,7 +1818,7 @@ Further, the more that tensions emerge among pro-democracy activists, the less l
 
 In some circumstances, the organizers of a civil resistance campaign may need to defer to the political leaders who will be important to inspire the population to accept a post-tyrannical order. During the anti-apartheid struggle in South Africa, there were 300 civic groups in the 1980s who acted as surrogates for the African National Congress (ANC) leaders who were in jail. In fact, those still imprisoned were the beneficiaries of the civil resistance campaign even though they did not necessarily embrace the strategy that set them free. Nelson Mandela never renounced the use of violence to end apartheid. Despite his revered status, the anti-apartheid movement leadership became committed to engaging in a civil resistance campaign after the frustration of the unsuccessful reliance on guerilla violence in the 1970s. One of the best examples of the new 1980s face of nonviolent conflict was the Port Elizabeth consumer boycott led by Mkhuseli Jack, as documented in the film A Force More Powerful. 46
 
-<sup>46</sup> The documentary is available in several languages at the following webpage: https://www.nonviolent-conflict.org/force-powerful-english/.
+46 The documentary is available in several languages at the following webpage: https://www.nonviolent-conflict.org/force-powerful-english/.
 
 While Mandela's openness to using violence against apartheid was not strategically sound, it should not belittle his critical role and genius once he was out of jail. He was so successful in his politics that he put in motion a nonviolent transfer of power, culminating in free elections that made him the rst post-apartheid president of South Africa.
 
@@ -1487,15 +1842,15 @@ Source: Karatnycky and Ackerman, How Freedom Is Won, 18.
 
 of a new leadership cohort, oen creating a talent pool that can sustain the transition toward freedom.
 
-In short, broad-based democracy coalitions can imbue leaders and activists with the principles and experience that make for successful democratic governance.<sup>47</sup>
+In short, broad-based democracy coalitions can imbue leaders and activists with the principles and experience that make for successful democratic governance.47
 
 Figure 18 sorts the 67 transitions into three categories based on the strength of civic coalitions: strong, moderate, and weak/absent. The study analyzed the gains in political rights and civil liberties using Freedom House's Combined Average Rating (CAR) scores in the Freedom in the World index.48
 
 Combined average ratings for each country, applied consistently year to year, can be uniquely aggregated to illustrate worldwide trends
 
-<sup>47</sup> Adrian Karatnycky and Peter Ackerman, How Freedom Is Won: From Civic Struggle to Durable Democracy (Washington, DC: Freedom House, 2005), 12.
+47 Adrian Karatnycky and Peter Ackerman, How Freedom Is Won: From Civic Struggle to Durable Democracy (Washington, DC: Freedom House, 2005), 12.
 
-<sup>48</sup> Every year since 1972, Freedom House ranks each country from 1 (most free) to 7 (least free). They assign the ratings by two matrices—political rights and civil liberties—as dened by the Universal Declaration of Human Rights. The average of these two numbers is the combined average rating (CAR). For example, since inception, North Korea has never improved on its double seven ranking, which is a CAR of 7.
+48 Every year since 1972, Freedom House ranks each country from 1 (most free) to 7 (least free). They assign the ratings by two matrices—political rights and civil liberties—as dened by the Universal Declaration of Human Rights. The average of these two numbers is the combined average rating (CAR). For example, since inception, North Korea has never improved on its double seven ranking, which is a CAR of 7.
 
 #### **FIGURE 19:** Average Levels of Democracy Across Dierent Breakthroughs
 
@@ -1526,13 +1881,13 @@ Figure 19 shows that two breakthrough events in particular offer the best prospe
 
 Pro-democracy activists should expect that the international community will continue to be helpful in fostering free and fair elections and negotiating for peace.52
 
-<sup>49</sup> Jonathan Pinckney, How to Win Well: Civil Resistance Breakthroughs and the Path to Democracy (Washington, DC: ICNC Press, 2021), 5.
+49 Jonathan Pinckney, How to Win Well: Civil Resistance Breakthroughs and the Path to Democracy (Washington, DC: ICNC Press, 2021), 5.
 
-<sup>50</sup> This is the equivalent of Sharp's mechanism when the tyranny disintegrates.
+50 This is the equivalent of Sharp's mechanism when the tyranny disintegrates.
 
-<sup>51</sup> Pinckney, How to Win Well, 13.
+51 Pinckney, How to Win Well, 13.
 
-<sup>52</sup> For further discussion of the role of the international community, please see the Declaration of Global Principles by the Global Network of Domestic Election Monitors (GNDEM) which has 251 member organizations in 89 countries and territories, and the recent paper "Mediating Mass Movements" by Maria Stephan, which discusses the value of outside negotiators in mediating the end of a nonviolent campaign. https://www.hdcentre.org/wp-content/uploads/2020/09/Mediating-Mass-Movements.pdf.
+52 For further discussion of the role of the international community, please see the Declaration of Global Principles by the Global Network of Domestic Election Monitors (GNDEM) which has 251 member organizations in 89 countries and territories, and the recent paper "Mediating Mass Movements" by Maria Stephan, which discusses the value of outside negotiators in mediating the end of a nonviolent campaign. https://www.hdcentre.org/wp-content/uploads/2020/09/Mediating-Mass-Movements.pdf.
 
  **It is possible that the one million people living under the most tyrannical regimes will become significantly more aware of the possibilities of civil resistance. While this number may seem low compared to the billions of citizens on this planet, it is a frightening statistic for authoritarians, especially because this number can continue to rise rapidly.**
 
@@ -1636,19 +1991,27 @@ The commitment phase does not need a solitary component. It is a group discussio
 | 10:00 am – 10:30 am | Break | | | |
 | 10:30 am – 1:00 pm | Assessment Phase | | | |
 | 1:00 pm – 2:00 pm | Lunch | | | |
-| 2:00 pm – 4:30 pm | Innovation Phase for the Key Checklist Question on Building<br>Capabilities (45 minutes solitary, 1:45 minutes group) | | | |
+| 2:00 pm – 4:30 pm | Innovation Phase for the Key Checklist Question on Building
+Capabilities (45 minutes solitary, 1:45 minutes group) | | | |
 | 4:30 pm – 5:00 pm | Break | | | |
-| 5:00 pm – 5:45 pm | Commitment Phase for the Key Checklist Question<br>on Building Capabilities (Session 1) | | | |
+| 5:00 pm – 5:45 pm | Commitment Phase for the Key Checklist Question
+on Building Capabilities (Session 1) | | | |
 | 6:15 pm – 7:15 pm | Dinner | | | |
-| 7:15 pm – 9:00 pm | Commitment Phase for the Key Checklist Question<br>on Building Capabilities (Session 2) | | | |
+| 7:15 pm – 9:00 pm | Commitment Phase for the Key Checklist Question
+on Building Capabilities (Session 2) | | | |
 | DAY 2 | | | | |
 | 7:00 am – 8:00 am | Breakfast | | | |
-| 8:00 am – 10:30 am | Innovation Phase for the Key Checklist Question on<br>Navigating Conict (45 minutes solitary, 1:45 minutes group) | | | |
+| 8:00 am – 10:30 am | Innovation Phase for the Key Checklist Question on
+Navigating Conict (45 minutes solitary, 1:45 minutes group) | | | |
 | 10:30 am – 11:00 am | Break | | | |
-| 11:00 am – 12:30 pm | Commitment Phase for the Key Checklist Question<br>on Navigating Conict (Session 1) | | | |
+| 11:00 am – 12:30 pm | Commitment Phase for the Key Checklist Question
+on Navigating Conict (Session 1) | | | |
 | 12:30 pm – 1:30 pm | Lunch | | | |
-| 1:30 pm – 3:00 pm | Commitment Phase for the Key Checklist Question<br>on Navigating Conict (Session 2) | | | |
-| 3:00 pm – 7:00 pm | Unstructured time (for example, the group might decide<br>to work on Innovation and Commitment for other<br>Checklist Questions) | | | |
+| 1:30 pm – 3:00 pm | Commitment Phase for the Key Checklist Question
+on Navigating Conict (Session 2) | | | |
+| 3:00 pm – 7:00 pm | Unstructured time (for example, the group might decide
+to work on Innovation and Commitment for other
+Checklist Questions) | | | |
 
 A measure of success will be whether participants choose to reconvene a future Checklist Exercise among themselves aer a period of months in order to review their progress. This will show that they understand that they have signicant power to inuence the course of their conict. It will also show their determination to recommit to what needs to be done at that moment in time to maximize the prospect of winning. Checklist Exercises are a way to simultaneously conrm progress and respond to the changing realities for the nonviolent conict. Having experienced the power of the assessment, innovation, and commitment phases they will be condent of the results of going through those phases again. They may even want to choose their own facilitator which would be an indicator that they would want to convene new groups on their own.
 
@@ -1662,7 +2025,7 @@ This points to the passage of time as one of the most important advantages that 
 
 By way of contrast, nonviolent movements can take their time. They can deescalate and then escalate and again deescalate their tactics of resistance. They can play a long-term game of attrition against a tyrant, reaping strategic gains even if their resistance
 
-<sup>53</sup> The best option for the Checklist Exercise, if circumstances permit, is to have an in-person meeting. This will foster sustained interest and depth of interaction among participants. However, if public health, nancial limitations, or logistical or security challenges prevent an in-person meeting, people can try to organize the exercise virtually on an online conferencing platform if that is possible for them and communication can be secured. Which platform participants use and how they use it will depend on the usability and security implications of the country or countries in which participants are based.
+53 The best option for the Checklist Exercise, if circumstances permit, is to have an in-person meeting. This will foster sustained interest and depth of interaction among participants. However, if public health, nancial limitations, or logistical or security challenges prevent an in-person meeting, people can try to organize the exercise virtually on an online conferencing platform if that is possible for them and communication can be secured. Which platform participants use and how they use it will depend on the usability and security implications of the country or countries in which participants are based.
 
 seemingly retreats to private and family spaces before it publicly reemerges with force. Throughout this entire time, the authoritarian needs to stay alert, keeping his resources committed, which drives up the costs of trying to maintain his control.
 
@@ -1680,13 +2043,13 @@ For several years leading up to the revolution, a number of international organi
 
 One of the groups which played an important role in promoting nonviolent means of resistance was the Organisation for Nonviolence and Development [ONAD]…. For years, the organization oered workshops throughout the country on such issues as peacebuilding, gender, human rights, civic education, institutional development, good governance, conict resolution, interfaith dialogue, and group process. Given the destruction of most civil society institutions under the 30-year dictatorship and the divide-and-rule tactics of the regime, such seemingly apolitical topics ended up having signicant political implications. In addition to the trainings in these areas, ONAD also led workshops focusing directly on strategic nonviolent action and maintaining nonviolent discipline in the face of attacks and other provocations by security forces….
 
-While it developed its own curricula, ONAD was inuenced by training manuals from various European and Indian groups, including the Gandhian Institute, War Resisters' International, and Swedish Fellowship of Reconciliation. Also valuable were DVDs and other materials documenting civil resistance campaigns and lessons learnt for activists from American educational foundations like the International Center on Nonviolent Conict and the Albert Einstein Institution. ONAD estimates that it trained at least 10,000 people directly and 50,000 indirectly through its training for trainers. The organization's emphasis on nonviolent action increased over time, with close to 70% of its trainings focused on direct challenges to the government and other oppressive institutions.<sup>54</sup>
+While it developed its own curricula, ONAD was inuenced by training manuals from various European and Indian groups, including the Gandhian Institute, War Resisters' International, and Swedish Fellowship of Reconciliation. Also valuable were DVDs and other materials documenting civil resistance campaigns and lessons learnt for activists from American educational foundations like the International Center on Nonviolent Conict and the Albert Einstein Institution. ONAD estimates that it trained at least 10,000 people directly and 50,000 indirectly through its training for trainers. The organization's emphasis on nonviolent action increased over time, with close to 70% of its trainings focused on direct challenges to the government and other oppressive institutions.54
 
 What happened to al-Bashir, which was a total surprise to regional experts, is no uke but is the result of educating pro-democracy activists in the power of civil resistance.
 
 ICNC will post this book for free online and also translate it into many languages. Because we expect tyrannical regimes will seek to expunge it from online reading by its citizens, we will also distribute it in exible paperback form. This book, one way or the other, will cross borders even if tyrants try to stop it and be available to everyone who wants to become a more eective pro-democracy activist. It cannot be easily interdicted, and once inside a country it can be copied and shared. At this moment, there exists an opportunity to multiply a thousandfold the number of pro-democracy activists exposed to the skills needed to win their nonviolent conict.
 
-<sup>54</sup> Stephen Zunes, Sudan's 2019 Revolution: The Power of Civil Resistance (Washington, DC: ICNC Press, 2021), 14–15.
+54 Stephen Zunes, Sudan's 2019 Revolution: The Power of Civil Resistance (Washington, DC: ICNC Press, 2021), 14–15.
 
 **At this very moment tyrants may be underestimating the risks that nonviolent conflict poses to them. This complacency creates vulnerabilities that can threaten the viability of even the most entrenched regimes including Iran, Russia, China, North Korea, Venezuela, and Myanmar.**
 
@@ -1713,23 +2076,23 @@ In the continuing competition for power between tyrants and pro-democracy activi
 
 The rst "long" wave of democratization began in the 1820s, with the widening of the surage to a large proportion of the male population in the United States, and continued for almost a century… until 1926, bringing into being some 29 democracies. In 1922, however, the coming to power of Mussolini in Italy marked the beginning of a rst 'reverse wave' that by 1942 had reduced the number of democratic states in the world to 12. The triumph of the Allies in
 
-World War II initiated a second wave of democratization that reached its zenith in 1962 with 36 countries governed democratically, only to be followed by a second reverse wave (1960-1975) that brought the number of democracies back down to 30.<sup>55</sup>
+World War II initiated a second wave of democratization that reached its zenith in 1962 with 36 countries governed democratically, only to be followed by a second reverse wave (1960-1975) that brought the number of democracies back down to 30.55
 
 The Third Democratic Wave began in 1974 with the Carnation Revolution in Portugal. It then migrated to countries in Latin America, Asia Pacic, Eastern Europe, and Sub-Saharan Africa. According to the Freedom House rankings, 35 countries during this approximate period (1972–2005) went from a ranking of "not free" or "partly free" to "free."56 The most signicant feature of the Third Democratic Wave was how the overwhelming majority of these transitions to freedom occurred via nonviolent campaigns of civil resistance.
 
 The last half of the Third Wave was met with great optimism. Its spirit was codied in Francis Fukuyama's seminal work, The End of History and the Last Man, published in 1992 just aer the end of the Cold War, as the Third Wave was gathering additional momentum. Fukuyama's central argument was that human political organizing has a nal destination or equilibrium point for all mankind which is Western liberal democracy.
 
-All political communities must make use of the desire for recognition, while at the same time protecting themselves from its destructive eects. If contemporary constitutional government has indeed found a formula whereby all are recognized in a way that nonetheless avoids the emergence of tyranny, then it would indeed have a special claim to stability and longevity among the regimes that have emerged on earth.<sup>57</sup>
+All political communities must make use of the desire for recognition, while at the same time protecting themselves from its destructive eects. If contemporary constitutional government has indeed found a formula whereby all are recognized in a way that nonetheless avoids the emergence of tyranny, then it would indeed have a special claim to stability and longevity among the regimes that have emerged on earth.57
 
 Unfortunately, since 2005, Freedom House has recorded een straight years of declining aggregate world rankings. As the Third Democratic Wave recedes from memory, the growth of authoritarian rule and its handmaiden, which is corrupt governance, may seem unstoppable. Not surprisingly, Fukuyama's thesis is now wrongly held in derision as the brand name for naivety.
 
 The question today is, will the counter-wave we are now in be followed by a Fourth Democratic Wave? If this occurs Fukuyama's central thesis will ultimately be proven correct.
 
-<sup>55</sup> Samuel P. Huntington, "Democracy's Third Wave," in Journal of Democracy 2, no. 2 (1991): 1.
+55 Samuel P. Huntington, "Democracy's Third Wave," in Journal of Democracy 2, no. 2 (1991): 1.
 
-<sup>56</sup> Karatnycky and Ackerman, 18.
+56 Karatnycky and Ackerman, 18.
 
-<sup>57</sup> Francis Fukuyama, The End of History and the Last Man (New York, NY: Free Press, 2006), xxi–xxii.
+57 Francis Fukuyama, The End of History and the Last Man (New York, NY: Free Press, 2006), xxi–xxii.
 
 Realists reject the possibility of a Fourth Democratic Wave, believing that tyranny will remain a dominant force in world aairs. They think that now that the Third Democratic Wave has passed, civil resistance campaigns no longer threaten authoritarian rulers and cannot compete against the power of the state.
 
@@ -1737,9 +2100,9 @@ Tyrants once caught napping against the numerous civil resistance campaigns duri
 
 Realists argue that the key reason why authoritarianism is now ascendant is because the United States—the ag-bearer of the "freedom" message—is no longer the sole superpower. Instead, the United States is in multi-dimensional competition between China, Russia, Iran, North Korea, and other hostile dictatorships. Without the prestige of American backing, the democracy promotion community that did such remarkable work aer the Berlin Wall fell is now in full retreat.
 
-The conceit that the United States can turn all countries into consolidated democracies has been disproved over and over again, from Vietnam to Afghanistan to Iraq. The view that Washington should offer a shining example but nothing more fails to appreciate the dangers of the contemporary world, in which groups and individuals with few resources can kill thousands or even hundreds of thousands of Americans. The United States cannot fix the world's problems, but nor does it have the luxury of ignoring them.<sup>58</sup>
+The conceit that the United States can turn all countries into consolidated democracies has been disproved over and over again, from Vietnam to Afghanistan to Iraq. The view that Washington should offer a shining example but nothing more fails to appreciate the dangers of the contemporary world, in which groups and individuals with few resources can kill thousands or even hundreds of thousands of Americans. The United States cannot fix the world's problems, but nor does it have the luxury of ignoring them.58
 
-<sup>58</sup> Stephen Krasner, "Learning to Live with Despots: The Limits of Democracy Promotion" Foreign Aairs 99, no. 2, (February 10, 2020). https://www.foreignaairs.com/articles/2020-02-10/learning-live-despots.
+58 Stephen Krasner, "Learning to Live with Despots: The Limits of Democracy Promotion" Foreign Aairs 99, no. 2, (February 10, 2020). https://www.foreignaairs.com/articles/2020-02-10/learning-live-despots.
 
 The realist perspective is ingrained in almost all regional specialists whose primary focus is to explain the behavior of elites. They have diculty according signicance to developments at the grassroots level particularly with respect to changes in a tyrant's capacity to defend against nonviolent conict. This explains why realists and regional specialists have an abysmal record in predicting when a civil resistance campaign is likely to begin. They are always surprised and tend to view mass protests, strikes, and boycotts as ukes that will soon end with no consequence.
 
@@ -1753,7 +2116,7 @@ Realists do not dierentiate between the fallout from failed violent insurrection
 
 During the last een years of democratic backsliding, realists have pointed to the so-called demise of the Arab Spring as proof that advancement of democracy will be limited in the future. Others, however, view the Arab Uprisings as having never ended:
 
-In 2021, there may be few beliefs more universally shared than that the Arab uprisings failed. It is easy to understand the appeal of this idea, eagerly promoted by autocratic regimes and foreign policy realists alike. It means a return to business as usual. Both the Obama and the Trump administrations tacitly accepted that view as they shied their gaze to other goals in the region—the former to nuclear negotiations with Iran, the latter to normalizing Arab relations with Israel. Yet that conviction is in fact just the latest in a series of premature conclusions. Despite the Arab uprising's premature obituary and dark legacy, the revolutionary wave of 2011 was not a passing mirage. Ten years on, the region's autocratic façade is cracking once again. Major uprisings recently blocked the reelection of Algeria's inrm president, led to the overthrow of Sudan's long-ruling leader, and challenged sectarian political orders in Iraq and Lebanon. Lebanon barely has a government aer a year of protests, nancial disaster, and the fallout of an incomprehensible explosion at Beirut's port. Saudi Arabia has witnessed rapid change at home as it prepares for MBS's presumed royal ascension.<sup>59</sup>
+In 2021, there may be few beliefs more universally shared than that the Arab uprisings failed. It is easy to understand the appeal of this idea, eagerly promoted by autocratic regimes and foreign policy realists alike. It means a return to business as usual. Both the Obama and the Trump administrations tacitly accepted that view as they shied their gaze to other goals in the region—the former to nuclear negotiations with Iran, the latter to normalizing Arab relations with Israel. Yet that conviction is in fact just the latest in a series of premature conclusions. Despite the Arab uprising's premature obituary and dark legacy, the revolutionary wave of 2011 was not a passing mirage. Ten years on, the region's autocratic façade is cracking once again. Major uprisings recently blocked the reelection of Algeria's inrm president, led to the overthrow of Sudan's long-ruling leader, and challenged sectarian political orders in Iraq and Lebanon. Lebanon barely has a government aer a year of protests, nancial disaster, and the fallout of an incomprehensible explosion at Beirut's port. Saudi Arabia has witnessed rapid change at home as it prepares for MBS's presumed royal ascension.59
 
 Tyrants never feel they have enough power to be secure. They are the poster children for Lord Acton's infamous dictum, "Power tends to corrupt, and absolute power corrupts absolutely." The more they impose suocating control on the populations they rule, the more likely it is that latent double thinkers will proliferate and over time transform into revealed double thinkers, and ultimately, defectors. This explains why even with the overall reduction in world freedom, the number of people power campaigns is growing at a record pace.
 
@@ -1761,7 +2124,7 @@ At this very moment tyrants may be underestimating the risks that nonviolent con
 
 To prepare for the presentation of the Checklist Questions, in Chapter 2 I listed ve ideas that dissidents must know rst. However, there is a sixth idea for dissidents that is the most hopeful one of all (and which will become clearer as pro-democracy activists have gone through the Checklist Exercise for Freedom): While a dictator can destroy a guerrilla force and end a violent insurrection for decades if not forever, dictators can never really end a civil resistance campaign in support of democracy and human rights. One of the most encouraging pieces of research data is Figure 20, which shows that even a nonviolent conict that has failed to achieve its goal still has a 35 percent chance of doing so in the next ve years.
 
-<sup>59</sup> Marc Lynch, "The Arab Uprisings Never Ended: The Enduring Struggle to Remake the Middle East," in Foreign Aairs (January/February 2021).
+59 Marc Lynch, "The Arab Uprisings Never Ended: The Enduring Struggle to Remake the Middle East," in Foreign Aairs (January/February 2021).
 
 #### **FIGURE 20:** Probability That a Country Will Be a Democracy Five Years After a Campaign Ends
 
@@ -1780,7 +2143,7 @@ As campaigns of nonviolent conict increase, it is inevitable that without a prop
 
 As of this writing, great power conicts are intensifying between the United States and its democratic (and certain undemocratic)
 
-<sup>60</sup> Chenoweth, "The Future of Nonviolent Resistance."
+60 Chenoweth, "The Future of Nonviolent Resistance."
 
 allies versus China, Russia, and Iran. In a US-led alliance, media pundits, think tank professionals, and government policymakers are focused nearly exclusively on pressuring authoritarians with sanctions, military buildups, and alliance building—all externally induced measures. Very little consideration is being given regarding how to magnify the pressure tyrants may feel from within their borders, despite the impressive record of civil resistance campaigns against dictatorial rule.
 
@@ -1788,15 +2151,15 @@ Even China—the mother of all tyrannies and the greatest strategic threat to de
 
 Perhaps the CCP has managed to perfect an entirely new model of development that does not require such quaint values as freedom, justice, and liberty. But modern history suggests that the absence of these elements can imperil a country. Think of fascist Italy and Germany, imperial Japan, Francoist Spain, theocratic Iran, and the Soviet Union.
 
-.... Might the Chinese just be dierent from everyone else, especially those in the West? Perhaps, some say, Chinese citizens will prove content to gain wealth and power alone, without these aspects of life that other societies have commonly considered fundamental to being human. Such an assumption seems unrealistic, not to say patronizing. In the end, the Chinese people will likely prove little dierent in their yearnings from Canadians, Czechs, Japanese, or Koreans. Just because those outside China cannot see or hear a more fulsome expression of universal values right now does not mean that such desires do not exist. Stilled for the moment, they have appeared again and again in the past and are bound to reappear in the future.<sup>61</sup>
+.... Might the Chinese just be dierent from everyone else, especially those in the West? Perhaps, some say, Chinese citizens will prove content to gain wealth and power alone, without these aspects of life that other societies have commonly considered fundamental to being human. Such an assumption seems unrealistic, not to say patronizing. In the end, the Chinese people will likely prove little dierent in their yearnings from Canadians, Czechs, Japanese, or Koreans. Just because those outside China cannot see or hear a more fulsome expression of universal values right now does not mean that such desires do not exist. Stilled for the moment, they have appeared again and again in the past and are bound to reappear in the future.61
 
 Leaders past and present, policy analysts, and media from the world's oldest democracies need to study civil resistance with fresh eyes. They need to abandon widely held beliefs that civil resistance must fail, or worse, be pointless during conicts with one or more violent protagonists. There is no context where realists are more certain that civil resistance cannot initiate a democratic transition than in civil wars. The reasoning is that at the conclusion of such
 
-<sup>61</sup> Orville Schell, "Life of the Party: How Secure Is the CCP?" Foreign Aairs (July/August 2021): 74–75.
+61 Orville Schell, "Life of the Party: How Secure Is the CCP?" Foreign Aairs (July/August 2021): 74–75.
 
 intensely violent conicts, the winner will certainly impose a cruel dictatorship over the loser. However, Luke Abbs, having analyzed nearly six decades of data on the impact of nonviolent resistance in civil wars, presents an unexpected nding:
 
-Figure 21 visualizes the likelihood of civil war "surviving" on the y-axis and the number of civil war episodes' years on the x-axis. At all stages of the lifecycle in all civil wars in the data, the likelihood of the violent conict continuing is substantially reduced when largescale nonviolent campaigns are present within the conict. For instance, aer 5 years of civil war, a peace agreement is around 25 percent more likely when nonviolent campaigns are present compared to when they are not.<sup>62</sup>
+Figure 21 visualizes the likelihood of civil war "surviving" on the y-axis and the number of civil war episodes' years on the x-axis. At all stages of the lifecycle in all civil wars in the data, the likelihood of the violent conict continuing is substantially reduced when largescale nonviolent campaigns are present within the conict. For instance, aer 5 years of civil war, a peace agreement is around 25 percent more likely when nonviolent campaigns are present compared to when they are not.62
 
 #### **FIGURE 21:** Nonviolent Campaigns and the Duration of Civil War (1955–2013)
 
@@ -1806,13 +2169,13 @@ Source: Luke Abbs, The Impact of Nonviolent Resistance on the Peaceful Transform
 
 The policy opportunity is to identify how outsiders can help nurture nonviolent movements, which are already arising organically. In their research, The Role of External Support in Nonviolent Campaigns, Chenoweth and Stephan's most salient nding was that "training support is consistently impactful":
 
-<sup>62</sup> Abbs, The Impact of Nonviolent Resistance, 38.
+62 Abbs, The Impact of Nonviolent Resistance, 38.
 
-Training is the only form of assistance that is positively correlated with nonviolent campaign characteristics. This is particularly true during the pre-campaign period, where higher incidence of training is correlated with higher participation rates, lower campaign fatalities, and higher probabilities of security force defections once the campaign has mobilized. Training during the campaign's peak mobilization is also correlated with an increase in participation size and with the ultimate success of the campaign. Across all models, training appears to have no systematic, observed downsides—and it is the only form of support with consistently positive correlations across all models.<sup>63</sup>
+Training is the only form of assistance that is positively correlated with nonviolent campaign characteristics. This is particularly true during the pre-campaign period, where higher incidence of training is correlated with higher participation rates, lower campaign fatalities, and higher probabilities of security force defections once the campaign has mobilized. Training during the campaign's peak mobilization is also correlated with an increase in participation size and with the ultimate success of the campaign. Across all models, training appears to have no systematic, observed downsides—and it is the only form of support with consistently positive correlations across all models.63
 
 #### Larry Diamond, the preeminent scholar on democracy, observes:
 
-The world is now immersed in a erce global contest of ideas, information, and norms. In the digital age, that contest is moving at lightning speed on an hourly basis, and it is shaping how people think about their political systems and the future world order. Now especially—when doubts and threats to democracy are mounting in the West—this is not a contest that the democracies can aord to lose.<sup>64</sup>
+The world is now immersed in a erce global contest of ideas, information, and norms. In the digital age, that contest is moving at lightning speed on an hourly basis, and it is shaping how people think about their political systems and the future world order. Now especially—when doubts and threats to democracy are mounting in the West—this is not a contest that the democracies can aord to lose.64
 
 Reversing the democratic decline of the last een years will require dissidents winning nonviolent conict with increasing frequency. If there is to be a Fourth Democratic Wave, dissidents must be trained in far greater numbers than today.
 
@@ -1822,11 +2185,11 @@ This book, in the hands of dissidents, is a next step in the evolution of commun
 
 At right: Lech Walesa, leader of Solidarity, celebrates the establishment of the farmers' union in Poland, 1981.
 
-<sup>63</sup> Chenoweth and Stephan, The Role of External Support, 65–66.
+63 Chenoweth and Stephan, The Role of External Support, 65–66.
 
-<sup>64</sup> Larry Diamond, "America's Silence Helps Autocrats Triumph," Foreign Policy, September 6, 2019, https://foreignpolicy.com/2019/09/06/americas-silence-helps-autocrats-triumphdemocratic-rollback-recession-larry-diamond-ill-winds/#.
+64 Larry Diamond, "America's Silence Helps Autocrats Triumph," Foreign Policy, September 6, 2019, https://foreignpolicy.com/2019/09/06/americas-silence-helps-autocrats-triumphdemocratic-rollback-recession-larry-diamond-ill-winds/#.
 
-<sup>65</sup> Chenoweth and Stephan, The Role of External Support, 67.
+65 Chenoweth and Stephan, The Role of External Support, 67.
 
 ## ![](_page_138_Picture_0.jpeg)
 
@@ -1848,7 +2211,7 @@ Online Courses: ICNC began running its agship online course in 2012, in conjunct
 
 **MODULE 1.** Introduction to the Course: Welcome and Orientation Webinars • Participant Introductions • Present Knowledge Survey
 
-<sup>66</sup> In 2020, ICNC started to run the course without Rutgers University.
+66 In 2020, ICNC started to run the course without Rutgers University.
 
 **MODULE 2.** Foundation of Civil Resistance: What Is Civil Resistance? • The Effectiveness of Civil Resistance
 
@@ -1870,28 +2233,98 @@ Going beyond written and verbal feedback, our quantitative data reinforces what 
 - An immediate post-course assessment to discern participant knowledge, attitudes, and activities, so that changes as a result of the course can be ascertained
 - An overall course evaluation in which participants give feedback on the course itself
 
-| TABLE | 17: Sample Su | mmer Institute <i>I</i> | Agenda | | |
+| TABLE | 17: Sample Su | mmer Institute I | Agenda | | |
 |-----------------|---------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
 | Session | Monday | Tuesday | Wednesday | Thursday | Friday |
-| 9:00 –<br>10:30 | Introductions<br>of All Participants<br>and Faculty for<br>the Week | Nonviolent<br>Discipline and<br>Violent Flanks | Repression and<br>Backfire | Language and<br>Meaning in<br>Movements | Civilian Agency<br>in Disrupted<br>Societies and/or<br>Countering Violent<br>Non-State Actors |
+| 9:00 –
+10:30 | Introductions
+of All Participants
+and Faculty for
+the Week | Nonviolent
+Discipline and
+Violent Flanks | Repression and
+Backfire | Language and
+Meaning in
+Movements | Civilian Agency
+in Disrupted
+Societies and/or
+Countering Violent
+Non-State Actors |
 | | | Exercise – Activity optional | Exercise – Activity optional | | |
-| 10:30-<br>11:00 | | | Break | | |
-| 11:00-<br>12:30 | Introduction to<br>Civil Resistance | Why Civil<br>Resistance<br>Movements Fail? | External Actors<br>and Civil<br>Resistance<br>Movements | Nonviolent<br>Defense<br>against External<br>Aggression | Campaigns<br>against<br>Corruption |
-| 12:30 –<br>2:00 | Lunch Movement Emergence and Sustainability | Lunch Speaker:<br>Peter Ackerman | James Lawson<br>Award<br>Luncheon | Lunch | Group photo |
-| | | | | Breakout<br>Session 2: | Lunch |
-| 2:00 –<br>3:30 | | Panel:<br>Gender and Civil<br>Resistance | | Civil Resistance Strategies for Peacebuilding and Transitional Justice Civil Resistance against Unjust | Consolidating<br>Gains and<br>Democratic<br>Transitions |
+| 10:3011:00 | | | Break | | |
+| 11:0012:30 | Introduction to
+Civil Resistance | Why Civil
+Resistance
+Movements Fail? | External Actors
+and Civil
+Resistance
+Movements | Nonviolent
+Defense
+against External
+Aggression | Campaigns
+against
+Corruption |
+| 12:30 –
+2:00 | Lunch Movement Emergence and Sustainability | Lunch Speaker:
+Peter Ackerman | James Lawson
+Award
+Luncheon | Lunch | Group photo |
+| | | | | Breakout
+Session 2: | Lunch |
+| 2:00 –
+3:30 | | Panel:
+Gender and Civil
+Resistance | | Civil Resistance Strategies for Peacebuilding and Transitional Justice Civil Resistance against Unjust | Consolidating
+Gains and
+Democratic
+Transitions |
 | | Exercise – Activity optional | | Break | Corporate Actors Break Breakout | |
 | 3:30- | | Break | | Session 3: | Break |
-| 4:00 | Break Strategy and Tactics | Breakout<br>Session 1:<br>How and Why<br>Civil Resistance<br>Movements Cause<br>Defections?<br>Arts and Cultural<br>Resistance<br>Civil Resistance<br>and International<br>Human Rights | Breakout<br>Groups<br>Exercise and<br>Mid-week<br>Evaluation | Countering<br>Violent Extremism | Бгеак |
-| 4:00 –<br>5:30 | | | | Diasporas and<br>Civil Resistance | |
+| 4:00 | Break Strategy and Tactics | Breakout
+Session 1:
+How and Why
+Civil Resistance
+Movements Cause
+Defections?
+Arts and Cultural
+Resistance
+Civil Resistance
+and International
+Human Rights | Breakout
+Groups
+Exercise and
+Mid-week
+Evaluation | Countering
+Violent Extremism | Бгеак |
+| 4:00 –
+5:30 | | | | Diasporas and
+Civil Resistance | |
 | | | | | Violent Extremism Digital Resistance | |
 | | | | | | |
-| | | | | Breakout<br>Session 4: | Continuing<br>Engagement |
-| | | | | Teaching, Sharing,<br>and Translating<br>Knowledge about<br>Civil Resistance | and<br>Final<br>Evaluations |
-| | | | | Media Coverage<br>for Movement<br>Success | |
+| | | | | Breakout
+Session 4: | Continuing
+Engagement |
+| | | | | Teaching, Sharing,
+and Translating
+Knowledge about
+Civil Resistance | and
+Final
+Evaluations |
+| | | | | Media Coverage
+for Movement
+Success | |
 | | Exercise – Activity optional | | | | |
-| 5:30 -<br>7:00 | Dinner | Dinner | Charles River<br>Cruise | Dinner | Free Time |
-| 7:00 –<br>9:00 | "Ignite"<br>Presentations<br>Stories of Civil<br>Resistance | Special Guest<br>Presentations | | Free Evening | Graduation<br>Ceremony<br>and Dinner |
+| 5:30 -
+7:00 | Dinner | Dinner | Charles River
+Cruise | Dinner | Free Time |
+| 7:00 –
+9:00 | "Ignite"
+Presentations
+Stories of Civil
+Resistance | Special Guest
+Presentations | | Free Evening | Graduation
+Ceremony
+and Dinner |
 
 ■ A three-month post-course assessment, so that we can determine how knowledge from the course has inuenced participants' subsequent choices and actions
 
@@ -1938,63 +2371,138 @@ These ndings are conrmed by other quantitative evaluation data that ICNC has rec
 
 | TABLE 18: Key Program Outcomes | | | | |
 |----------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|--|--|
-| Increased knowledge | Peacebuilding concepts, theories, and cases that allow participants<br>to socialize into the eld, engage with other practitioners, and design<br>better-informed interventions that reect current best practices and<br>well-developed theories of change. | | | |
-| Personal capacity<br>building and profes<br>sional development | Results in participants becoming more skilled at key tasks or having<br>a more competitive prole for jobs, grants, academic programs. | | | |
-| Attitude changes,<br>inspiration, and<br>motivation | Encourages participants to continue in the eld or to invest time/<br>resources in peacebuilding work. | | | |
-| New projects | May include nongovernmental organizations, campaigns, replication<br>trainings, and so on that build peace amongst a broader community<br>that did not participate in the original training themselves, aided by<br>technical assistance provided within the original training program<br>(i.e., project incubators). | | | |
-| Greater social capital | Access to alumni networks or sponsoring organization portals that<br>a. increase awareness/access to opportunities and resources that<br>make subsequent actions possible,<br>b. allow scaling up smaller initiatives by collaborating with people<br>in other localities or issue areas, and<br>c. disseminate information. | | | |
-| Amplied voices | Published articles, interviews, and newsletter spotlights bring great<br>er visibility to the peacebuilding work of participants and provide a<br>larger audience that they can reach to tell their own story of change<br>(rather than having these stories ltered through donor reports or<br>other mediated dissemination channels). | | | |
+| Increased knowledge | Peacebuilding concepts, theories, and cases that allow participants
+to socialize into the eld, engage with other practitioners, and design
+better-informed interventions that reect current best practices and
+well-developed theories of change. | | | |
+| Personal capacity
+building and profes
+sional development | Results in participants becoming more skilled at key tasks or having
+a more competitive prole for jobs, grants, academic programs. | | | |
+| Attitude changes,
+inspiration, and
+motivation | Encourages participants to continue in the eld or to invest time/
+resources in peacebuilding work. | | | |
+| New projects | May include nongovernmental organizations, campaigns, replication
+trainings, and so on that build peace amongst a broader community
+that did not participate in the original training themselves, aided by
+technical assistance provided within the original training program
+(i.e., project incubators). | | | |
+| Greater social capital | Access to alumni networks or sponsoring organization portals that
+a. increase awareness/access to opportunities and resources that
+make subsequent actions possible,
+b. allow scaling up smaller initiatives by collaborating with people
+in other localities or issue areas, and
+c. disseminate information. | | | |
+| Amplied voices | Published articles, interviews, and newsletter spotlights bring great
+er visibility to the peacebuilding work of participants and provide a
+larger audience that they can reach to tell their own story of change
+(rather than having these stories ltered through donor reports or
+other mediated dissemination channels). | | | |
 
-<sup>67</sup> Some of these results were also published in peer-reviewed academic journals. See Jerey Pugh, "A Catalyst for Action: Training and Education as Networking Platforms for Peace Projects," Journal of Peacebuilding & Development 15, no. 1 (April 2020): 127–132; Jerey Pugh, "Weaving Transnational Activist Networks: Balancing International and Bottom-up Capacity-building Strategies for Nonviolent Action in Latin America," Middle Atlantic Review of Latin American Studies 2, no. 1 (June 2018): 130–144.
+67 Some of these results were also published in peer-reviewed academic journals. See Jerey Pugh, "A Catalyst for Action: Training and Education as Networking Platforms for Peace Projects," Journal of Peacebuilding & Development 15, no. 1 (April 2020): 127–132; Jerey Pugh, "Weaving Transnational Activist Networks: Balancing International and Bottom-up Capacity-building Strategies for Nonviolent Action in Latin America," Middle Atlantic Review of Latin American Studies 2, no. 1 (June 2018): 130–144.
 
-<sup>68</sup> Pugh, "A Catalyst for Action," 130.
+68 Pugh, "A Catalyst for Action," 130.
 
 #### List of Tables
 
-| TABLE 1: | Terms of Nonviolent Action: Explained .<br>6–7 |
+| TABLE 1: | Terms of Nonviolent Action: Explained .
+6–7 |
 |----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| TABLE 2: | The 74 Languages in ICNC's Resource Library .<br>20 |
-| TABLE 3: | ICNC's Nomination for the 2014 Nobel Peace Prize .<br>21 |
-| TABLE 4: | 5 Ideas Dissidents Must Know .<br>24 |
-| TABLE 5: | Key Findings from Participant Evaluations .<br>34 |
-| TABLE 6: | The Checklist to End Tyranny .<br>37 |
-| TABLE 7: | 41 Civil Resistance Campaigns with<br>Examples of Nonviolent Tactics .<br>50–54 |
-| TABLE 8: | Timing of Assistance .<br>65 |
-| TABLE 9: | Types of Support .<br>66–67 |
-| | TABLE 10: Types of Supporters<br>68–69 |
-| | TABLE 11: Types of Recipients .<br>70–71 |
-| | TABLE 12: 95 Successful Civil Resistance Campaigns with<br>Signicant Women's Frontline Participation Against<br>Foreign or Domestic Tyrannies Between 1949–2013 .<br>77–80 |
-| | TABLE 13: 10 Core Reasons Why People Obey Oppressive Systems .<br>84 |
-| | TABLE 14: Nonviolent Campaigns with Signicant Security<br>Force Defections .<br>96 |
-| | TABLE 15: Assessment Phase: The Checklist Exercise for Freedom .<br>115 |
-| | TABLE 16: The 36-Hour Checklist Exercise Schedule .<br>118 |
-| | TABLE 17: Sample Summer Institute Agenda .<br>137 |
-## | | TABLE 18: Key Program Outcomes .<br>140 |
+| TABLE 2: | The 74 Languages in ICNC's Resource Library .
+20 |
+| TABLE 3: | ICNC's Nomination for the 2014 Nobel Peace Prize .
+21 |
+| TABLE 4: | 5 Ideas Dissidents Must Know .
+24 |
+| TABLE 5: | Key Findings from Participant Evaluations .
+34 |
+| TABLE 6: | The Checklist to End Tyranny .
+37 |
+| TABLE 7: | 41 Civil Resistance Campaigns with
+Examples of Nonviolent Tactics .
+50–54 |
+| TABLE 8: | Timing of Assistance .
+65 |
+| TABLE 9: | Types of Support .
+66–67 |
+| | TABLE 10: Types of Supporters
+68–69 |
+| | TABLE 11: Types of Recipients .
+70–71 |
+| | TABLE 12: 95 Successful Civil Resistance Campaigns with
+Signicant Women's Frontline Participation Against
+Foreign or Domestic Tyrannies Between 1949–2013 .
+77–80 |
+| | TABLE 13: 10 Core Reasons Why People Obey Oppressive Systems .
+84 |
+| | TABLE 14: Nonviolent Campaigns with Signicant Security
+Force Defections .
+96 |
+| | TABLE 15: Assessment Phase: The Checklist Exercise for Freedom .
+115 |
+| | TABLE 16: The 36-Hour Checklist Exercise Schedule .
+118 |
+| | TABLE 17: Sample Summer Institute Agenda .
+137 |
+## | | TABLE 18: Key Program Outcomes .
+140 |
 
 #### List of Figures
 
-| FIGURE 1: | ICNC's Theory of Change .<br>14 | |
+| FIGURE 1: | ICNC's Theory of Change .
+14 | |
 |-----------|------------------------------------------------------------------------------------------------------------------------|--|
-| FIGURE 2: | Onsets of Nonviolent and Violent Mass<br>Campaigns by Decade (1900–2019) .<br>15 | |
-| FIGURE 3: | Success Rates of Nonviolent and<br>Violent Mass Campaigns by Decade (1930–2019) .<br>15 | |
-| FIGURE 4: | ICNC's Global Reach Engaging Pro-Democracy Activists,<br>Scholars, Policymakers, and Journalists by Country .<br>22–23 | |
-| FIGURE 5: | Common View of the Battleeld .<br>27 | |
-| FIGURE 6: | Violent Insurrection: The Theory .<br>28 | |
-| FIGURE 7: | Violent Insurrection: The Risk<br>29 | |
-| FIGURE 8: | Pre-Transition Levels of Democracy<br>and Post-Transition Democracy .<br>31 | |
-| FIGURE 9: | ICNC Online Course Participants by Place of Origin .<br>33 | |
-| | FIGURE 10: Common View of the Battleeld .<br>46 | |
-| | FIGURE 11: The Opportunity .<br>47 | |
-| | FIGURE 12: Civil Resistance Disrupts .<br>47 | |
-| | FIGURE 13: Civil Resistance Wins .<br>48 | |
-| | FIGURE 14: Prioritizing by Expected Impact .<br>61 | |
-| | FIGURE 15: Eight Histories of Early 21st Century Campaigns .<br>65 | |
-| | FIGURE 16: The Eect of Participation on the<br>Probability of Campaign Success .<br>81 | |
-| | FIGURE 17: Countries with at Least One<br>Civil Resistance-Induced Transition (1945–2015) .<br>103 | |
-| | FIGURE 18: The Stronger a Nonviolent Civic Coalition,<br>the Larger the Gains for Freedom .<br>107 | |
-| | FIGURE 19: Average Levels of Democracy<br>Across Dierent Breakthroughs .<br>108 | |
-| | FIGURE 20: Probability that a Country Will Be a<br>Democracy Five Years After a Campaign Ends .<br>129 | |
-| | FIGURE 21: Nonviolent Campaigns and the<br>Duration of Civil War (1955–2013) .<br>131 | |
+| FIGURE 2: | Onsets of Nonviolent and Violent Mass
+Campaigns by Decade (1900–2019) .
+15 | |
+| FIGURE 3: | Success Rates of Nonviolent and
+Violent Mass Campaigns by Decade (1930–2019) .
+15 | |
+| FIGURE 4: | ICNC's Global Reach Engaging Pro-Democracy Activists,
+Scholars, Policymakers, and Journalists by Country .
+22–23 | |
+| FIGURE 5: | Common View of the Battleeld .
+27 | |
+| FIGURE 6: | Violent Insurrection: The Theory .
+28 | |
+| FIGURE 7: | Violent Insurrection: The Risk
+29 | |
+| FIGURE 8: | Pre-Transition Levels of Democracy
+and Post-Transition Democracy .
+31 | |
+| FIGURE 9: | ICNC Online Course Participants by Place of Origin .
+33 | |
+| | FIGURE 10: Common View of the Battleeld .
+46 | |
+| | FIGURE 11: The Opportunity .
+47 | |
+| | FIGURE 12: Civil Resistance Disrupts .
+47 | |
+| | FIGURE 13: Civil Resistance Wins .
+48 | |
+| | FIGURE 14: Prioritizing by Expected Impact .
+61 | |
+| | FIGURE 15: Eight Histories of Early 21st Century Campaigns .
+65 | |
+| | FIGURE 16: The Eect of Participation on the
+Probability of Campaign Success .
+81 | |
+| | FIGURE 17: Countries with at Least One
+Civil Resistance-Induced Transition (1945–2015) .
+103 | |
+| | FIGURE 18: The Stronger a Nonviolent Civic Coalition,
+the Larger the Gains for Freedom .
+107 | |
+| | FIGURE 19: Average Levels of Democracy
+Across Dierent Breakthroughs .
+108 | |
+| | FIGURE 20: Probability that a Country Will Be a
+Democracy Five Years After a Campaign Ends .
+129 | |
+| | FIGURE 21: Nonviolent Campaigns and the
+Duration of Civil War (1955–2013) .
+131 | |
 
 #### Photo Credits
 

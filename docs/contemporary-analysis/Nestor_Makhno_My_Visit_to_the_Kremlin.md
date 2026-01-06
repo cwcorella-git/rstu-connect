@@ -1,20 +1,36 @@
+---
+title: "**My Visit to the Kremlin**"
+category: "contemporary-analysis"
+---
+
 # **My Visit to the Kremlin**
 
 ## Nestor Makhno
 
 # **Contents**
 
-| Translators Introduction<br> | |
+| Translators Introduction
+ | |
 |-------------------------------------------------|--|
-| Moscow in June 1918<br> | |
-| The Ukraine in 1918<br> | |
-| Makhno<br> | |
-| Lenin and Sverdlov<br> | |
-| The lnterviews<br> | |
-| MY VlSIT TO THE KREMLIN<br>by Nestor Makhno<br> | |
-| First Encounters<br> | |
-| My Interview With Sverdlov<br> | |
-## | My interview with Lenin<br> | |
+| Moscow in June 1918
+ | |
+| The Ukraine in 1918
+ | |
+| Makhno
+ | |
+| Lenin and Sverdlov
+ | |
+| The lnterviews
+ | |
+| MY VlSIT TO THE KREMLIN
+by Nestor Makhno
+ | |
+| First Encounters
+ | |
+| My Interview With Sverdlov
+ | |
+## | My interview with Lenin
+ | |
 
 **Cover notes:** The Ukrainian peasant Nestor Makhno visited Moscow in June, 1918 and had extensive interviews with the Bolshevik leaders Sverdlov and Lenin. This account amounts to two chapters from his memoirs and deals with with his encounters with the Bolshevik murderers. It is presented for the second time in English by the KSL, originally being published by Black Cat Press in 1979.
 
@@ -24,7 +40,7 @@
 
 ## **Translators Introduction**
 
-The Ukrainian peasant anarchist Nestor Makhno visited Moscow in June 1918 and was granted extensive interviews with the Bolshevik leaders Sverdlov and Lenin. Many years later Makhno, an exile in France, wrote his memoirs of the tumultuous years 1917–18. "My Visit to the Kremlin" is a translation of the two chapters which deal with his encounters with the Bolshevik titans. Excerpts from these interviews have been quoted in various works in English but the full account was presented here for the first time (1979).<sup>1</sup>
+The Ukrainian peasant anarchist Nestor Makhno visited Moscow in June 1918 and was granted extensive interviews with the Bolshevik leaders Sverdlov and Lenin. Many years later Makhno, an exile in France, wrote his memoirs of the tumultuous years 1917–18. "My Visit to the Kremlin" is a translation of the two chapters which deal with his encounters with the Bolshevik titans. Excerpts from these interviews have been quoted in various works in English but the full account was presented here for the first time (1979).1
 
 (This pamphlet was sent by us to a Moscow publisher in 1992 and will appear in a re-translated edition in Russia for the first time simultaneously with this new edition — *1993 note*).
 
@@ -32,75 +48,75 @@ The Ukrainian peasant anarchist Nestor Makhno visited Moscow in June 1918 and wa
 
 In June 1918 the Bolshevik regime was enjoying a brief respite from the rigours of revolution and civil war. Although surrounded on all sides by hostile forces, the Bolsheviks were in no immediate military danger. This welcome hiatus, lasting from the Treaty of Brest-Litovsk (march 1918) to the collapse of the Central Powers at the end of the year, allowed the Bolsheviks to consolidate their political and military strength.
 
-From the point of view of the Russian anarchists, the Treaty of Brest-Litovsk represented the watershed of the Revolution. In coming to terms with the Central Powers, the Bolsheviks had paid a staggering price in territory and resources. But, more importantly, they had preferred to make a pact with the imperialists rather than attempt to propagate the Revolution through popular initiatives, in particular, by partisan warfare.<sup>2</sup>
+From the point of view of the Russian anarchists, the Treaty of Brest-Litovsk represented the watershed of the Revolution. In coming to terms with the Central Powers, the Bolsheviks had paid a staggering price in territory and resources. But, more importantly, they had preferred to make a pact with the imperialists rather than attempt to propagate the Revolution through popular initiatives, in particular, by partisan warfare.2
 
 Shortly after Brest-Litovsk the Bolsheviks turned against their erstwhile allies, the Left Socialist Revolutionaries and the anarchists. The Cheka, ostensibly created to suppress counterrevolutionaries, was unleashed on the Bolsheviks' critics on the left. The immediate pretext for the suppression of the Moscow anarchists occurred when the representative of the US government complained his automobile had been stolen by anarchists. (According to a representative of the British Government, Bruce Lockhart, it was Trotsky's car that was taken). 0n the night of
 
-<sup>1</sup> David Footman in "Civil War in Russia" (London 1961), chap 6. Paul Avrich, "The Russian Anarchists" (Princeton 1967) pp.210–211. Michael Palij, "The Anarchism of Nestor Makhno 1918–21" (Seattle 1976) chaps 7,9.
+1 David Footman in "Civil War in Russia" (London 1961), chap 6. Paul Avrich, "The Russian Anarchists" (Princeton 1967) pp.210–211. Michael Palij, "The Anarchism of Nestor Makhno 1918–21" (Seattle 1976) chaps 7,9.
 
-<sup>2</sup> Voline, "The Unknown Revolution 1917–1921" (Detroit 1974) pp 239–246
+2 Voline, "The Unknown Revolution 1917–1921" (Detroit 1974) pp 239–246
 
-April 11, twenty-six anarchist centres were raided by the Cheka. The largest centre, the House of Anarchy on Malaia Dimitrovka Streeet (formerly the Chamber of Commerce) was the scene of a fierce battle. Dozens of anarchists and Chekists were killed and hundreds arrested during the night of terror.<sup>3</sup> This unequal battle was repeated in many other Russian cities.
+April 11, twenty-six anarchist centres were raided by the Cheka. The largest centre, the House of Anarchy on Malaia Dimitrovka Streeet (formerly the Chamber of Commerce) was the scene of a fierce battle. Dozens of anarchists and Chekists were killed and hundreds arrested during the night of terror.3 This unequal battle was repeated in many other Russian cities.
 
-The official suppression of the anarchists was not without repercussions within the Communist Party itself.<sup>4</sup> For a time after Brest-Litovsk a group within the top leadership associated with Bukharin contemplated a coup against Lenin, in order to halt the rapid slide to the right. But these dissidents soon reverted to uncritical support of the regime.<sup>5</sup>
+The official suppression of the anarchists was not without repercussions within the Communist Party itself.4 For a time after Brest-Litovsk a group within the top leadership associated with Bukharin contemplated a coup against Lenin, in order to halt the rapid slide to the right. But these dissidents soon reverted to uncritical support of the regime.5
 
 ### **The Ukraine in 1918**
 
-While the Revolution had already spent itself in Russia, in the Ukraine it had hardly begun. The Ukraine was predominantly a peasant region: in 1918 only one per cent of the population could be classified as industrial workers and these were concentrated in a few centres in the east and south. The peasants of the Ukraine reacted slowly to the overthrow of Tsarist power and the resulting political vacuum. But their revolution gradually gained momentum, until it became an all-encompassing movement with few parallels in the history of popular insurrection.<sup>6</sup>
+While the Revolution had already spent itself in Russia, in the Ukraine it had hardly begun. The Ukraine was predominantly a peasant region: in 1918 only one per cent of the population could be classified as industrial workers and these were concentrated in a few centres in the east and south. The peasants of the Ukraine reacted slowly to the overthrow of Tsarist power and the resulting political vacuum. But their revolution gradually gained momentum, until it became an all-encompassing movement with few parallels in the history of popular insurrection.6
 
-After the February revolution in 1917, a weak nationalist government, the Central Rada<sup>7</sup> was established in Kiev. This government failed to gain recognition from either the Provisional Government ln Petrograd or the successor Bolshevik regime. Early in 1918 a Bolshevlk army under General Antonov invaded the Ukraine. The Central Rada was unable to muster popular support to repel the invasion force, which consisted almost entirely of non-Ukrainian soldiers. After the invaders captured Kiev in early February, the Central Rada signed a peace treaty with the Central Powers and sought military aid against the Bolsheviks. Austrian and German troops then entered the Ukraine, clearing it of Russlan troops and various partisan groups by the end of April. Once they had occupied the Ukraine, the Central Powers proceeded to loot the country of alI the foodstuffs and raw materials they could lay their hands on. Finding the Central Rada more of a nuisance than an aid in this project, the occupying forces engineered a coup by the aristocratic landowner Pavel Skoropadsky on April 29th. Skoropadsky proclaimed himself Hetman of alI the Ukraine.<sup>8</sup> The Hetmanate represented a return to feudal reaction complete with elaborate costumes and religious-historical ceremonies. In the countryside the revolutionary elements were driven underground or into exile.
+After the February revolution in 1917, a weak nationalist government, the Central Rada7 was established in Kiev. This government failed to gain recognition from either the Provisional Government ln Petrograd or the successor Bolshevik regime. Early in 1918 a Bolshevlk army under General Antonov invaded the Ukraine. The Central Rada was unable to muster popular support to repel the invasion force, which consisted almost entirely of non-Ukrainian soldiers. After the invaders captured Kiev in early February, the Central Rada signed a peace treaty with the Central Powers and sought military aid against the Bolsheviks. Austrian and German troops then entered the Ukraine, clearing it of Russlan troops and various partisan groups by the end of April. Once they had occupied the Ukraine, the Central Powers proceeded to loot the country of alI the foodstuffs and raw materials they could lay their hands on. Finding the Central Rada more of a nuisance than an aid in this project, the occupying forces engineered a coup by the aristocratic landowner Pavel Skoropadsky on April 29th. Skoropadsky proclaimed himself Hetman of alI the Ukraine.8 The Hetmanate represented a return to feudal reaction complete with elaborate costumes and religious-historical ceremonies. In the countryside the revolutionary elements were driven underground or into exile.
 
-<sup>3</sup> Avrich, "The Russian Anarchists". pp 183–185. In anarchist historiography, this event is comparable to the suppression of left-wing militants in Barcelona in May 1937 by the Communist and republican forces.
+3 Avrich, "The Russian Anarchists". pp 183–185. In anarchist historiography, this event is comparable to the suppression of left-wing militants in Barcelona in May 1937 by the Communist and republican forces.
 
-<sup>4</sup> The name of the party was changed from Russian Social-Democratic Workers Party (Bolshevik) to Russian Communist Party (Bolshevik) in March 1918. The capital of the Russian state was moved at the same time from Petrograd to Moscow.
+4 The name of the party was changed from Russian Social-Democratic Workers Party (Bolshevik) to Russian Communist Party (Bolshevik) in March 1918. The capital of the Russian state was moved at the same time from Petrograd to Moscow.
 
-<sup>5</sup> Robert V. Daniels, "The Conscience of the Revolution", chap.3.
+5 Robert V. Daniels, "The Conscience of the Revolution", chap.3.
 
-<sup>6</sup> Arthur E. Adams, "The Great Ukrainian Jacquerie", in Taras Hunczak, ed. "The Ukraine 1917–1921, A Study in Revolution" (Cambridge, Mass. 1977)
+6 Arthur E. Adams, "The Great Ukrainian Jacquerie", in Taras Hunczak, ed. "The Ukraine 1917–1921, A Study in Revolution" (Cambridge, Mass. 1977)
 
-<sup>&#</sup>x27;Rada' means 'council' and is the Ukrainian equivalent of the Russian word 'soviet'.
+&#x27;Rada' means 'council' and is the Ukrainian equivalent of the Russian word 'soviet'.
 
-<sup>8</sup> 'Hetman' is roughly translated as 'chieftain' and was the title held by leaders of the Ukrainian Cossacks during the 17th and 18th centuries.
+8 'Hetman' is roughly translated as 'chieftain' and was the title held by leaders of the Ukrainian Cossacks during the 17th and 18th centuries.
 
 #### **Makhno**
 
-Nestor Makhno was 27 when he visited the Russian capital in 1918. He had spent a third of his life behind bars, including seven years in Moscow's Butyrki prison. Arrested in 1908 for anarchist activities in the region of his native village of Guylai-Polye, he was sentenced to life imprisonment at hard labour. Released by the February Revolution, he returned to Gulai-Polye. The only surviyor of the revolutionary group which had been crushed there a decade earlier<sup>9</sup> . Makhno immediately threw himself into organising unions, communes and soviets- The Central Rada's authorily scarcely extended into the region of the Ukraine where Makhno was active; the local peasant groups proceeded to expropriate the landed gentry on their own initiative. When the Bolsheviks invaded lhe Ukraine for the first time in January 1918, Makhno and his anarchist partisan group assisted them by expelling the weak forces of the Central Rada from the Left Bank Ukralne (east of the Dnieper river).
+Nestor Makhno was 27 when he visited the Russian capital in 1918. He had spent a third of his life behind bars, including seven years in Moscow's Butyrki prison. Arrested in 1908 for anarchist activities in the region of his native village of Guylai-Polye, he was sentenced to life imprisonment at hard labour. Released by the February Revolution, he returned to Gulai-Polye. The only surviyor of the revolutionary group which had been crushed there a decade earlier9 . Makhno immediately threw himself into organising unions, communes and soviets- The Central Rada's authorily scarcely extended into the region of the Ukraine where Makhno was active; the local peasant groups proceeded to expropriate the landed gentry on their own initiative. When the Bolsheviks invaded lhe Ukraine for the first time in January 1918, Makhno and his anarchist partisan group assisted them by expelling the weak forces of the Central Rada from the Left Bank Ukralne (east of the Dnieper river).
 
-Three months later when the Bolsheviks were pushed out of the eastern end of the Ukraine by combined Austro-German and Central Rada forces, Makhno's partisans and several other anarchist bands retreated with them. At the end of April a conference of Ukrainian anarchists was held in the coastal town of Taganrog, temporarily under Bolshevik control. The conference decided on a policy of organising an underground movement in the Ukrainian villages. Makhno was delegated to make a two-month trip to Russia to contact other anarchist groups and determine the Bolsheviks' attitude towards anarchist activity in the Ukraine10. Makhno made his way alowly across the chaotic hinterland of young Soviet Russia, surviving several harrowing adventures. Arriving in Moscow at the beginning of June, he met with the leading anarchists as well as representatives of other political factions. The anti-Bolshevik left was leading a tenuous existence, still tolerated by the authorities, but deprived of freedom of action. Coming from a region where revolutionary activity was still on the upswing and the old social order had yet to be overthrown, Makhno was impatient with the stagnation and defeatism he encountered in Moscow . In his memoirs he writes disparagingly of the "paper revolution" of the Russian intellectuals as opposed to the vigorous anarchist movement he expected to evolve in the Ukraine<sup>11</sup> .
+Three months later when the Bolsheviks were pushed out of the eastern end of the Ukraine by combined Austro-German and Central Rada forces, Makhno's partisans and several other anarchist bands retreated with them. At the end of April a conference of Ukrainian anarchists was held in the coastal town of Taganrog, temporarily under Bolshevik control. The conference decided on a policy of organising an underground movement in the Ukrainian villages. Makhno was delegated to make a two-month trip to Russia to contact other anarchist groups and determine the Bolsheviks' attitude towards anarchist activity in the Ukraine10. Makhno made his way alowly across the chaotic hinterland of young Soviet Russia, surviving several harrowing adventures. Arriving in Moscow at the beginning of June, he met with the leading anarchists as well as representatives of other political factions. The anti-Bolshevik left was leading a tenuous existence, still tolerated by the authorities, but deprived of freedom of action. Coming from a region where revolutionary activity was still on the upswing and the old social order had yet to be overthrown, Makhno was impatient with the stagnation and defeatism he encountered in Moscow . In his memoirs he writes disparagingly of the "paper revolution" of the Russian intellectuals as opposed to the vigorous anarchist movement he expected to evolve in the Ukraine11 .
 
 #### **Lenin and Sverdlov**
 
 Makhno's ostensible purpose in visiting the Kremlin was to apply for a free room ticket. But one can be sure he hoped to sound out the Bolshevik leaders on their attitude toward peasant revolution in the Ukraine. In this he was eminently successful. In June 1918 the Bolshevik government was still sufficiently flexible and informal that a "semi-literate peasant" (as Makhno describes himse!f) could wander through the corridors of power and meet face to face with lhe mightiest leaders. After a chance encounter with Bukharin, Makhno spoke next to Sverdlov's secretary, then Sverdlov himself, who later introduced Makhno to Lenin. The Bolshevik leaders were generally young men, not much older than Makhno, with long records of experience in the revolutionary movement. Bukharin was 30, Sverdlov 33 when Makhno met them. Lenin at 48 had long been referred to by his associates as the "Old Man". At one point in 1918 Lenin remarked to Trotsky, "If the White Generals kill us, you and me, do you think Bukharin and Sverdlov could
 
-## <sup>9</sup> The same, pp.67–70
+## 9 The same, pp.67–70
 
-<sup>10</sup> The same, chap. 8.
+10 The same, chap. 8.
 
-<sup>11</sup> The same, pp 90–91.
+11 The same, pp 90–91.
 
-manage things?"<sup>12</sup> This indicates that Makhno was able to meet three of the top four Bolsheviks (Trotsky seems to have been in Moscow at the time but was totally occupied in organising the Red Army).
+manage things?"12 This indicates that Makhno was able to meet three of the top four Bolsheviks (Trotsky seems to have been in Moscow at the time but was totally occupied in organising the Red Army).
 
 Yakov Sverdlov is little remembered today because of his early death In March 1919, a victim of the world-wide influenza epidemic. But in 1918, as chairman of the AII-Russian Central Executive Committee of the Soviets he was technically the head of the Soviet state. Of more practical significance, Sverdlov was also the de facto General Secretary of the Russian Communist Party, a position later made more famous by his eventual successor, Josef Stalin.
 
-Sverdlov's qualifications for these exalted positions were his many years of service to the Bolshevik underground and his slavish devotion to Lenin. Unlike his colleagues in the top echelon, Sverdlov had no reputation as a theorist. Indeed, according to a biographical sketch written by another Bolshevik leader, Sverdlov "had no ideas … he never originated anything." Sverdlov was noted rather for his organising talents and an encyclopaedic knowledge of the Party.<sup>13</sup> In his capacity as Party Secretary, Sverdlov was constantly called upon to make quick judgments of character in assigning Party members to suitable posts. Presumably it was his ability to size up people which caused him to devote so much time to an obscure peasant agitator and commend him to Lenin's attention.
+Sverdlov's qualifications for these exalted positions were his many years of service to the Bolshevik underground and his slavish devotion to Lenin. Unlike his colleagues in the top echelon, Sverdlov had no reputation as a theorist. Indeed, according to a biographical sketch written by another Bolshevik leader, Sverdlov "had no ideas … he never originated anything." Sverdlov was noted rather for his organising talents and an encyclopaedic knowledge of the Party.13 In his capacity as Party Secretary, Sverdlov was constantly called upon to make quick judgments of character in assigning Party members to suitable posts. Presumably it was his ability to size up people which caused him to devote so much time to an obscure peasant agitator and commend him to Lenin's attention.
 
 #### **The lnterviews**
 
 Since these interviews were written by Makhno many years after the event, it is necessary to consider the accuracy of his account. Evidently the Bolshevik leaders made a strong impression on Makhno and he must have discussed his encounters with them thoroughly with his Moscow comrades. So while the record cannot be taken as a literal transcript, it seems reasonable to infer that it represents a close approximation to what actually transpired.
 
-But it must be remembered that in writing his memoirs, an effort he pursued doggedly under the most difficult circumstances, Makhno was not interested primarily in serving the needs of professional historians. Rather he was writing to the Ukrainian peasants and workers whose aspirations he had tried to advance, explaining the interpretations of their lost revolution. In this connection, the authenticity of Makhno's clashes with the Bolsheviks over Ukrainian sovereignty is open to question. He portrays Sverdlov and Lenin as Great Russian chauvinists and himself as a supporter of some form of Ukrainian autonomy.<sup>14</sup> There is little doubt Sverdlov and Lenin were opposed to Ukrainian autonomy in 1918, but for Makhno at that time "Ukrainian" was more of a political than a national designation, reserved for his enemies the adherents of the Central Rada. So the emphasis on his nationality may be a later interpolation. Makhno's views on the national question evidently underwent some development during his exile, although his commitment to anti-statism precluded his becoming a nationalist.
+But it must be remembered that in writing his memoirs, an effort he pursued doggedly under the most difficult circumstances, Makhno was not interested primarily in serving the needs of professional historians. Rather he was writing to the Ukrainian peasants and workers whose aspirations he had tried to advance, explaining the interpretations of their lost revolution. In this connection, the authenticity of Makhno's clashes with the Bolsheviks over Ukrainian sovereignty is open to question. He portrays Sverdlov and Lenin as Great Russian chauvinists and himself as a supporter of some form of Ukrainian autonomy.14 There is little doubt Sverdlov and Lenin were opposed to Ukrainian autonomy in 1918, but for Makhno at that time "Ukrainian" was more of a political than a national designation, reserved for his enemies the adherents of the Central Rada. So the emphasis on his nationality may be a later interpolation. Makhno's views on the national question evidently underwent some development during his exile, although his commitment to anti-statism precluded his becoming a nationalist.
 
-<sup>12</sup> Leon Trotsky, "My Life" (New York 1930) p. 338. Trotsky replied, "Perhaps they won't kill us."
+12 Leon Trotsky, "My Life" (New York 1930) p. 338. Trotsky replied, "Perhaps they won't kill us."
 
-<sup>13</sup> Anatol Lunacharsky, "Revolutionary Silhouettes" (London 1967). Lunacharsky includes the bizarre detail that Sverdlov was in the habit of dressing entirely in black leather.
+13 Anatol Lunacharsky, "Revolutionary Silhouettes" (London 1967). Lunacharsky includes the bizarre detail that Sverdlov was in the habit of dressing entirely in black leather.
 
-<sup>14</sup> Frank Sysyn, "Nestor Makhno and the Ukrainian Revolution", in Hunczak (already mentioned).
+14 Frank Sysyn, "Nestor Makhno and the Ukrainian Revolution", in Hunczak (already mentioned).
 
 ## **MY VlSIT TO THE KREMLIN by Nestor Makhno**
 
 #### **First Encounters**
 
-I arrived at the gates of the Kremlin determined to see Lenin and, if possible, Sverdlov, and to have a talk with them. A soldier was seated behind a wicket. I handed him my credentials from the Moscow Soviet. After reading it carefully, he made out a pass, attached it to my credential, and I passed through into the interior of the Kremlin. Inside a Latvian rifleman was pacing back and forth.<sup>15</sup> I went round him and started to enter the main square when I found myself nose to nose with another sentry. I asked him to point out the building to which I was to go. From that point on, I was free to walk around, to look at the various cannon and shot dating as far back as before the time of Peter the Great, to stop in front of the Tsar's Great Bell and other well-known curiosities, or to go directly into one of the palaces.
+I arrived at the gates of the Kremlin determined to see Lenin and, if possible, Sverdlov, and to have a talk with them. A soldier was seated behind a wicket. I handed him my credentials from the Moscow Soviet. After reading it carefully, he made out a pass, attached it to my credential, and I passed through into the interior of the Kremlin. Inside a Latvian rifleman was pacing back and forth.15 I went round him and started to enter the main square when I found myself nose to nose with another sentry. I asked him to point out the building to which I was to go. From that point on, I was free to walk around, to look at the various cannon and shot dating as far back as before the time of Peter the Great, to stop in front of the Tsar's Great Bell and other well-known curiosities, or to go directly into one of the palaces.
 
 I turned to the left and was swallowed up in one of these palaces (I've forgotten its name) and I climbed a stair up to the third floor. Then I strode down a long, empty corridor where there were placards hanging on the doors reading 'Central Committee of the Party' or 'Library'. Having need of neither the one nor the other I continued on my way without being aware whether or not anyone was behind these doors.
 
@@ -120,7 +136,7 @@ I went to the door, knocked and entered. A girl asked me what I wanted.
 
 Without saying a word, the girl sat down at a table, took my credentials and pass, studied them, copied out some information, and made out another pass on which was indicated the number of the office to which I was to go.
 
-<sup>15</sup> The Latvian riflemen, 17,000 strong, were one of the mainstays of early Bolshevik power. They took part in the first Bolshevik invasion of the Ukraine in January 1918. John Erickson "The Origins of the Red Army" in Richard Pipes (ed.) "Revolutionary Russia".
+15 The Latvian riflemen, 17,000 strong, were one of the mainstays of early Bolshevik power. They took part in the first Bolshevik invasion of the Ukraine in January 1918. John Erickson "The Origins of the Red Army" in Richard Pipes (ed.) "Revolutionary Russia".
 
 In the office to which the girl sent me I found the secretary of the CCE, a sturdy man, who looked well-fed but with tired features. He asked me for my papers and I handed them over. He found them interesting and started asking questions.
 
@@ -128,7 +144,7 @@ In the office to which the girl sent me I found the secretary of the CCE, a stur
 
 ## "Yes, I'm from the Ukraine."
 
-"You were already chairman of a Committee for the Defence of the Revolution at the time of Kerensky?"<sup>16</sup>
+"You were already chairman of a Committee for the Defence of the Revolution at the time of Kerensky?"16
 
 ## "Yes."
 
@@ -158,7 +174,7 @@ Comrade Sverdlov looked even more prosperous than his secretary. He also seemed 
 
 "The work in which the great masses of the revolutionary workers of the Ukraine are engaged. These workers, having taken an active part in the Revolution, went on to struggle for their total emancipation. In their ranks, I was, if I may say so, always the first to advance towards this objective. Today, because of the collapse of the revolutionary Ukrainian front, I find myself temporarily stranded in Moscow."
 
-<sup>16</sup> This committee was set up at Gulai-Polye in September 1917 in response to the attempted rightist coup by General Kornilov. The committee carried out revolutionary expropriations in the area of Gulai-Polye. Palij, "Anarchism of Nestor Makhno", p.71
+16 This committee was set up at Gulai-Polye in September 1917 in response to the attempted rightist coup by General Kornilov. The committee carried out revolutionary expropriations in the area of Gulai-Polye. Palij, "Anarchism of Nestor Makhno", p.71
 
 "What are you saying, comrade?" exclaimed Sverdlov, interrupting me. "The peasants of the South are mostly kulaks or partisans of the Central Rada."
 
@@ -170,17 +186,17 @@ Evidently unsettled, comrade Sverdlov nevertheless continued:
 
 Agitatedly I began to refute Sverdlov's information about the Ukrainian campaign. I admitted to him that I myself was the organiser and chief of several battalions of peasant volunteers which were leading the revolutionary struggle against the Germans and the Central Rada. I assured him that the peasants could recruit from their own midst a powerful army to combat these enemies but they did not see clearly the purpose of the Revolutionary War. The units of Red Guards, fighting from their armoured trains, stayed close to the railway lines. They fell back at the first reverse without even bothering to pick up their own soldiers, abandoning tens of miles regardless of whether the enemy was advancing. These units, I complained, did not inspire confidence in the peasants who, isolated in their villages and lacking arms, were at the mercy of the hangmen of the Revolution. In fact the armoured trains of the Red Guards never even bothered to send detachments into villages situated close to the railways. They didn't give arms to the peasants nor encourage them to revolt against the enemies of the Revolution, to join the struggle themselves.
 
-Sverdlov listened attentively, from time to time exclaiming, "Is this possible?" I cited several units of the Red Guard belonging to the groups of Bogdanov, Svirski, Sablin and others. Becoming more composed, I pointed out that the Red Guards could not inspire confidence in the peasant masses so long as they concentrated on defending the railways by means of armoured trains which allowed them to take the offensive rapidly but more often to retreat. Yet these masses saw in the Revolution the means of getting rid of their oppressors — not only the great landowners and rich kulaks, but also their lackeys, the State officials with their political and administrative power. Thus the peasants were ready to detend their conquests against the massacres and wholesale destruction of the Prussian Junkers<sup>17</sup> as well as the forces of the Hetman.
+Sverdlov listened attentively, from time to time exclaiming, "Is this possible?" I cited several units of the Red Guard belonging to the groups of Bogdanov, Svirski, Sablin and others. Becoming more composed, I pointed out that the Red Guards could not inspire confidence in the peasant masses so long as they concentrated on defending the railways by means of armoured trains which allowed them to take the offensive rapidly but more often to retreat. Yet these masses saw in the Revolution the means of getting rid of their oppressors — not only the great landowners and rich kulaks, but also their lackeys, the State officials with their political and administrative power. Thus the peasants were ready to detend their conquests against the massacres and wholesale destruction of the Prussian Junkers17 as well as the forces of the Hetman.
 
-"Yes," said Sverdlov. "I think you are right about the Red Guards…but we have now reorganised them into the Red Army which is currently building up its forces.<sup>18</sup> If the peasants of the South are endowed with a revolutionary spirit such as you describe, there is a good chance the Germans will be wiped out and the Hetman will bite the dust in short order. Then Soviet Power will triumph in the Ukraine as well."
+"Yes," said Sverdlov. "I think you are right about the Red Guards…but we have now reorganised them into the Red Army which is currently building up its forces.18 If the peasants of the South are endowed with a revolutionary spirit such as you describe, there is a good chance the Germans will be wiped out and the Hetman will bite the dust in short order. Then Soviet Power will triumph in the Ukraine as well."
 
 "That will depend on an underground movement being organised in the Ukraine. Personally I consider this movement more necessary than ever. Provided it takes a militant form it will incite the masses to open revolt in the cities and villages against the Germans and the Hetman. Without an insurrection of an essentially revolutionary character in the interior of the Ukraine,
 
-<sup>17</sup> Prussian Junkers – aristocratic landowners who dominated the officer corps of the German Army. The alliance between the Ukrainian landowners backing Skoropadsky and the German officers was a natural one.
+17 Prussian Junkers – aristocratic landowners who dominated the officer corps of the German Army. The alliance between the Ukrainian landowners backing Skoropadsky and the German officers was a natural one.
 
-<sup>18</sup> The Red Guards, the Bolshevik regime's first military force, were phased out and replaced by the Red Army in the spring of 1918. The Red Guard featured voluntary service and elected officers; the Red Army was based on conscription and control from above. Compulsory military service for the Russian working class was introduced on May 29 1918 and the first Red Army divisions were deployed about the time of Makhno's visit. Erickson, as before.
+18 The Red Guards, the Bolshevik regime's first military force, were phased out and replaced by the Red Army in the spring of 1918. The Red Guard featured voluntary service and elected officers; the Red Army was based on conscription and control from above. Compulsory military service for the Russian working class was introduced on May 29 1918 and the first Red Army divisions were deployed about the time of Makhno's visit. Erickson, as before.
 
-the Germans and Austrians will not be forced to evacuate the country and it will not be possible to threaten the Hetman and his supporters or to force them to flee with their protectors. Don't forget that because of the Treaty of Brest-Litovsk and political factors relating to foreign powers which our Revolution must take into account, an offensive by the Red Army at this time is inconceivable."<sup>19</sup>
+the Germans and Austrians will not be forced to evacuate the country and it will not be possible to threaten the Hetman and his supporters or to force them to flee with their protectors. Don't forget that because of the Treaty of Brest-Litovsk and political factors relating to foreign powers which our Revolution must take into account, an offensive by the Red Army at this time is inconceivable."19
 
 While I was presenting my opinions, comrade Sverdlov was taking notes.
 
@@ -192,7 +208,7 @@ I was perplexed and Sverdlov realised it. I didn't want to reveal my conception 
 
 "Why are you so interested in my political affiliation? My papers show you who I am, where I am from, and the role I have played in a certain region, organising the workers of town and village as well as partisan groups and battalions of volunteers to fight against the counter-revolution raging in the Ukraine. Isn't that enough for you?"
 
-Comrade Sverdlov apologised and asked me not to doubt his honour as a revolutionary or suspect him of losing confidence in me. His excuses seemed so sincere I felt ill at ease and, without further hesitation, declared I was an anarchist-communist of the Bakunin-Kropotkin type.<sup>20</sup>
+Comrade Sverdlov apologised and asked me not to doubt his honour as a revolutionary or suspect him of losing confidence in me. His excuses seemed so sincere I felt ill at ease and, without further hesitation, declared I was an anarchist-communist of the Bakunin-Kropotkin type.20
 
 "What sort of anarchist-communist are you, comrade, since you advocate organising the labouring masses and directing them in the struggle against capitalist power?" inquired Sverdlov, with a disarming smile.
 
@@ -208,9 +224,9 @@ Sverdlov muttered something into his beard and, rising from his chair, came up t
 
 "I see you are very well-informed about what has transpired since our retreat from the Ukraine and especially about the real feelings of the peasants. Ilyich, our comrade Lenin, would certainly be delighted to listen to you. Would you like me to phone him?"
 
-<sup>19</sup> Bolshevik Russia was officially at peace with Germany and Austria-Hungary. A Bolshevik invasion of the Ukraine would also be likely to provoke intervention by France and Great Britain.
+19 Bolshevik Russia was officially at peace with Germany and Austria-Hungary. A Bolshevik invasion of the Ukraine would also be likely to provoke intervention by France and Great Britain.
 
-<sup>20</sup> The anarchists in Russia were split into various factions, the main groupings being the anarcho-syndicalists and the anarchist-communists. Both tendencies drew inspiration from the writings of Bakunin and Kropotkin. Avrich, "The Russian Anarchists".
+20 The anarchists in Russia were split into various factions, the main groupings being the anarcho-syndicalists and the anarchist-communists. Both tendencies drew inspiration from the writings of Bakunin and Kropotkin. Avrich, "The Russian Anarchists".
 
 I replied that there wasn't much I could add for the benefit of comrade Lenin, but Sverdlov was already on the phone, advising Lenin that he had on hand a comrade possessing very important information about the peasants of the South of Russia and their attitude towards the German forces of occupation. And right away he asked Lenin when he could see me.
 
@@ -222,7 +238,7 @@ A moment later, Sverdlov hung up, and made out a pass allowing me to return the 
 
 "We will arrange everything tomorrow," Sverdlov replied. And I, saying goodbye to him, made my way out of the Tsar's palace to the gates of the Kremlin, again passing around the Latvian sentry, the rows of different calibre shot and cannon, casting a quick glance at the Tsar's Great Cannon. Until tomorrow…
 
-I did not return to the apartment belonging to the Peasant Section of the Congress of Soviets, the chief of which was Burtsev, a former cellmate of comrade Arshinov.<sup>21</sup> Burtsev had provided shelter for many comrades including Archinov who were gradually becoming a burden to him. Instead I went to see the head of the Trade Union Centre, who had also served time in prison with Arshinov. But not finding him very receptive I went to find one noted, as they say, for being a "crazy", the anarchist Maslov.
+I did not return to the apartment belonging to the Peasant Section of the Congress of Soviets, the chief of which was Burtsev, a former cellmate of comrade Arshinov.21 Burtsev had provided shelter for many comrades including Archinov who were gradually becoming a burden to him. Instead I went to see the head of the Trade Union Centre, who had also served time in prison with Arshinov. But not finding him very receptive I went to find one noted, as they say, for being a "crazy", the anarchist Maslov.
 
 Knowing comrade Maslov from our stint at hard labour together, I announced to him that since I had no place to spend the night, I was going to move in with him.
 
@@ -236,11 +252,11 @@ His first question was: "What region are you from?" Then: "How did the peasants 
 
 To all these questions I gave brief replies. With his own peculiar talent, Lenin endeavoured to pose his questions in such a way that I could answer point by point. For example, the question:
 
-<sup>21</sup> Peter Arshinov, a fellow alumnus of Batyrki Prison, had a great influence on Makhno. He joined Makhno in the Ukraine in 1919 and later wrote the standard anarchist account of the Makhnovshchina.
+21 Peter Arshinov, a fellow alumnus of Batyrki Prison, had a great influence on Makhno. He joined Makhno in the Ukraine in 1919 and later wrote the standard anarchist account of the Makhnovshchina.
 
 "How did the peasants of your region understand the slogan ALL POWER TO THE SOVIETS IN THE VILLAGES?" Lenin repeated three times. He was astonished at my reply:
 
-"The peasants understood this slogan in their own way. According to their interpretation, all power, in all areas of life, must be identified with the consciousness and will of the working people. The peasants understand that the soviets of workers and peasants of village, country and district are neither more nor less than the means of revolutionary organisation and economic self-management of working people in the struggle against the bourgeoisie and its lackeys, the Right socialists and their coalition government."<sup>22</sup>
+"The peasants understood this slogan in their own way. According to their interpretation, all power, in all areas of life, must be identified with the consciousness and will of the working people. The peasants understand that the soviets of workers and peasants of village, country and district are neither more nor less than the means of revolutionary organisation and economic self-management of working people in the struggle against the bourgeoisie and its lackeys, the Right socialists and their coalition government."22
 
 "Do you think this way of interpreting our slogan is corect?" asked Lenin.
 
@@ -270,13 +286,13 @@ The interview turned next to the other questions posed by Lenin. To one of them,
 
 "Since I participated in the disarming of many Cossacks retreating from the German front at the end of December 1917 and the beginning of 1918, I am well informed on the 'revolution-
 
-<sup>22</sup> Makhno is referring to the Central Rada, which was dominated by members of the several Ukrainian socialist parties.
+22 Makhno is referring to the Central Rada, which was dominated by members of the several Ukrainian socialist parties.
 
-ary courage' of the Red Army and on its leaders in particular.<sup>23</sup> But it seems to me, comrade Lenin, that, basing yourself on second and third hand information, you are exaggerating their performance."
+ary courage' of the Red Army and on its leaders in particular.23 But it seems to me, comrade Lenin, that, basing yourself on second and third hand information, you are exaggerating their performance."
 
 ## "How's that? You disagree?"
 
-"The Red Guards have shown revolutionary spirit and courage, but not in the way you describe. The struggle of the Red Guards against the Haidamaks<sup>24</sup> of the Central Rada and, especially, against the German forces, has known moments when the revolutionary spirit and courage, as well as the actions of the Red Guards and their leaders, were revealed to be very weak. Certainly in most cases this can he attributed to the fact that Red Guard detachments have been formed hastily and operated against the enemy in a way quite different from either partisan troops or regular units.
+"The Red Guards have shown revolutionary spirit and courage, but not in the way you describe. The struggle of the Red Guards against the Haidamaks24 of the Central Rada and, especially, against the German forces, has known moments when the revolutionary spirit and courage, as well as the actions of the Red Guards and their leaders, were revealed to be very weak. Certainly in most cases this can he attributed to the fact that Red Guard detachments have been formed hastily and operated against the enemy in a way quite different from either partisan troops or regular units.
 
 "You must know that the Red Guards, regardless of their numbers, carried on the attack against the enemy by moving along the railroads. But the territory ten or fifteen miles from the railway lines was not occupied; the defenders of the revolution or the counter-revolution could come and go there freely. For this reason, surprise attacks succeeded almost inevitably. It was only near the cities and towns on the railway that the Red Guards organised a front from which to launch their attacks. But the rear areas and the immediate vicinity of the railway junctions remained without defenders. The offensive thrust of the revolution collapsed in the face of the counter-coup. The Red Guard units had hardly finished distributing their proclamations in a given region when the counter-revolutionary forces were on the offensive and forced them to retreat in their armoured trains. In fact the people in the villages didn't even see the Red Guards and therefore couldn't support them."
 
@@ -290,9 +306,9 @@ Turning to Sverdlov, he added, "By reorganising the Red Guard into the Red Army 
 
 "Yes, yes," replied Sverdlov enthusiastically.
 
-<sup>23</sup> The episode Makhno is referring to came about when the Central Rada allowed several troop trains of Cossacks to pass through the Ukraine on their way from the German front to their home in the Don basin, where an anti-Bolshevik uprising was in progress. Makhno's anarchist partisans collaborated with local Bolsheviks in seizing a railway bridge over the Dneipr and disarming the Cossacks. Palij, "Anarchism of Nestor Makhno" pp.83–84.
+23 The episode Makhno is referring to came about when the Central Rada allowed several troop trains of Cossacks to pass through the Ukraine on their way from the German front to their home in the Don basin, where an anti-Bolshevik uprising was in progress. Makhno's anarchist partisans collaborated with local Bolsheviks in seizing a railway bridge over the Dneipr and disarming the Cossacks. Palij, "Anarchism of Nestor Makhno" pp.83–84.
 
-<sup>24</sup> The original Haidamaks were Ukrainian rebels of the 18th century who rose against the Russian tsar and the Polish king. The name was revived by the nationalists of the Central Rada.
+24 The original Haidamaks were Ukrainian rebels of the 18th century who rose against the Russian tsar and the Polish king. The name was revived by the nationalists of the Central Rada.
 
 Next Lenin said to me: "What work do you intend to accomplish in Moscow?"
 
@@ -342,7 +358,7 @@ Lenin was hard pressed to deal with this change in my attitude. He endeavoured t
 
 "With pleasure," I said.
 
-<sup>25</sup> Maria Nikiforova was an anarchist partisan leader whose career closely parallels Makhno's up to the point of her capture and execution by the Whites in the autumn of 1919. In April 1918 she received a commendation from the Bolshevik general Antonov for her revolutionary activities. Palij, "Anarchism of Nestor Makhno", pp 87–88.
+25 Maria Nikiforova was an anarchist partisan leader whose career closely parallels Makhno's up to the point of her capture and execution by the Whites in the autumn of 1919. In April 1918 she received a commendation from the Bolshevik general Antonov for her revolutionary activities. Palij, "Anarchism of Nestor Makhno", pp 87–88.
 
 Turning to Sverdlov, Lenin asked, "Who is currently in charge of sending our agents into the South?"
 
@@ -354,7 +370,7 @@ While Sverdlov was phoning to find out which one was in charge of sending underc
 
 "Do you have any evidence," I asked Lenin, "proving that the anarchists of the Malaia Dmitrovska were harbouring bandits?"
 
-"Yes, the Extraordinary Commission<sup>26</sup> collected and verified it. Otherwise our party would not have authorised the measures taken," Lenin replied.
+"Yes, the Extraordinary Commission26 collected and verified it. Otherwise our party would not have authorised the measures taken," Lenin replied.
 
 Meanwhile Sverdlov had sat down with us again and announced that comrade Karpenko was in charge of passing secret agents, but that comrade Zatonski was also well-informed in this matter.
 
@@ -362,7 +378,7 @@ Lenin exclaimed immediately: "So, comrade, go tomorrow afternoon or whenever to 
 
 "What frontier?" I asked.
 
-"Aren't you up to date? A frontier has been set up between Russia and the Ukraine.<sup>27</sup> There are German troops guarding it," Lenin said irritably.
+"Aren't you up to date? A frontier has been set up between Russia and the Ukraine.27 There are German troops guarding it," Lenin said irritably.
 
 "Yet you consider the Ukraine as 'the South of Russia'," I replied.
 
@@ -376,33 +392,33 @@ I quickly found myself at the gate of the Kremlin and immediately set off to see
 
 #### **Translator's Epilogue**
 
-Thanks to Lenin's assistance, Makhno was able to return to the Ukraine after a long and dangerous journey. The Bolsheviks provided him with the passport of a schoolteacher; they also tried to recruit him as one of their agents in the Ukraine, but he refused their offer. Arriving at his native Gulai-Polye, Makhno learned that in his absence his mother's house had been burned to the ground and his older brother, a war invalid, murdered by the forces of reaction.<sup>28</sup>
+Thanks to Lenin's assistance, Makhno was able to return to the Ukraine after a long and dangerous journey. The Bolsheviks provided him with the passport of a schoolteacher; they also tried to recruit him as one of their agents in the Ukraine, but he refused their offer. Arriving at his native Gulai-Polye, Makhno learned that in his absence his mother's house had been burned to the ground and his older brother, a war invalid, murdered by the forces of reaction.28
 
-<sup>26</sup> Better known as the Cheka. According to the head of this organ, Felix Dzerzhinsky, "Simultaneously with the disarmament of the anarchists, crime in Moscow decreased 80 per cent." Quoted in Palij, same place, p.63.
+26 Better known as the Cheka. According to the head of this organ, Felix Dzerzhinsky, "Simultaneously with the disarmament of the anarchists, crime in Moscow decreased 80 per cent." Quoted in Palij, same place, p.63.
 
-<sup>27</sup> On June 12 1919 the Bolsheviks signed an armistice with the Hetman's government, which involved recognition of the Ukrainian state. Same place, p.37.
+27 On June 12 1919 the Bolsheviks signed an armistice with the Hetman's government, which involved recognition of the Ukrainian state. Same place, p.37.
 
-<sup>28</sup> Peter Arshinov, "History of the Makhnovist Movement 1918–1921" (Detroit, 1974) p.54.
+28 Peter Arshinov, "History of the Makhnovist Movement 1918–1921" (Detroit, 1974) p.54.
 
-There is little evidence that Makhno's interview with Sverdlov and Lenin were of any historical significance. The Bolsheviks continued to pursue an unenlightened policy towards the Ukraine. Completely misjudging their strength in the countryside, they called for a mass uprising on August 7th, 1918, which resulted in a fiasco.<sup>29</sup> And when they invaded the Ukraine for the second time at the end of 1918 they repeated all the same mistakes in their dealings with the peasants with all the same results.<sup>30</sup> Ironically, Makhno's ideas on waging a 'people's war' in the countryside were eventually to be emulated (unwittingly) by Marxist-Leninist leaders in the Third World – for very different ends.
+There is little evidence that Makhno's interview with Sverdlov and Lenin were of any historical significance. The Bolsheviks continued to pursue an unenlightened policy towards the Ukraine. Completely misjudging their strength in the countryside, they called for a mass uprising on August 7th, 1918, which resulted in a fiasco.29 And when they invaded the Ukraine for the second time at the end of 1918 they repeated all the same mistakes in their dealings with the peasants with all the same results.30 Ironically, Makhno's ideas on waging a 'people's war' in the countryside were eventually to be emulated (unwittingly) by Marxist-Leninist leaders in the Third World – for very different ends.
 
 Makhno went on to organise the movement which bears his name, the Makhnovschins, which struggled for three years to establish an anarchist society in the south-eastern Ukraine. From a purely military point of view, Makhno's partisan army had a great deal to do with the outcome of the Civil War: many of the anarchist militants gave their lives in a desperate battle with the armies of the 'White' General Deniken and succeeded in cutting his supply lines just as his forces were closing in on Moscow.
 
-Lenin and Trotsky followed Makhno's activities with the greatest interest.<sup>31</sup> At one point they even considered ceding part of the Ukraine to the anarchists to carry out their social experiment.<sup>32</sup> But in the end the Makhnovschina was drowned in the blood of thousands of executed peasants.<sup>33</sup>
+Lenin and Trotsky followed Makhno's activities with the greatest interest.31 At one point they even considered ceding part of the Ukraine to the anarchists to carry out their social experiment.32 But in the end the Makhnovschina was drowned in the blood of thousands of executed peasants.33
 
-When Emma Goldman and Alexander Berkman visited Lenin in 1920 to plead the case of anarchists in Russian prisons, Lenin expostulated: "Anarchists? Nonsense! We do have bandits in prison, and Makhnovites, but no ideological anarchists."<sup>34</sup>
+When Emma Goldman and Alexander Berkman visited Lenin in 1920 to plead the case of anarchists in Russian prisons, Lenin expostulated: "Anarchists? Nonsense! We do have bandits in prison, and Makhnovites, but no ideological anarchists."34
 
-<sup>29</sup> Adams, "The Great Ukrainian Jacquerie", in Hunczak, mentioned before, p.254.
+29 Adams, "The Great Ukrainian Jacquerie", in Hunczak, mentioned before, p.254.
 
-<sup>30</sup> Arthur E. Adams, "Bolsheviks in the Ukraine: The Second Campaign 1918–1919" (New Haven, 1963)
+30 Arthur E. Adams, "Bolsheviks in the Ukraine: The Second Campaign 1918–1919" (New Haven, 1963)
 
-<sup>31</sup> M. Malet, "Makhno and his Enemies", META Vol.1, p.14.
+31 M. Malet, "Makhno and his Enemies", META Vol.1, p.14.
 
-<sup>32</sup> Victor Serge, "Memoirs of a Revolutionary" (London 1963) p.119.
+32 Victor Serge, "Memoirs of a Revolutionary" (London 1963) p.119.
 
-<sup>33</sup> G. P. Maximoff, "The Guillotine at Work" (Chicago 1940), chap.7.
+33 G. P. Maximoff, "The Guillotine at Work" (Chicago 1940), chap.7.
 
-<sup>34</sup> Emma Goldman, "Living My Life" (Garden City NY 1931) p.765
+34 Emma Goldman, "Living My Life" (Garden City NY 1931) p.765
 
 ## The Anarchist Library Anti-Copyright
 

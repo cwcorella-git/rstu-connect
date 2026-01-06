@@ -1,3 +1,8 @@
+---
+title: "## **Statutes of the Red and Black Coordination**"
+category: "contemporary-analysis"
+---
+
 ## **Statutes of the Red and Black Coordination**
 
 ## **Date:** Unknown

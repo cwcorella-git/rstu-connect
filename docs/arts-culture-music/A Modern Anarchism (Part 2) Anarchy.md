@@ -1,3 +1,8 @@
+---
+title: "## **A Modern Anarchism (Part 2): Anarchy**"
+category: "arts-culture-music"
+---
+
 ## **A Modern Anarchism (Part 2): Anarchy**
 
 ## **Date:** Unknown

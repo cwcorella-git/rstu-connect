@@ -1,31 +1,8 @@
 ---
-title: A Practical Utopian’s Guide to the Coming Collapse
-author: David Graeber
-date: April 2013
-language: en
-source_url: >-
-  Retrieved on 3<sup>rd</sup> September 2020 from
-  https://thebaffler.com/salvos/a-practical-utopians-guide-to-the-coming-collapse
-notes: >-
-  Originally published in Issue No.22 of The Baffler. This article is an excerpt
-  from <em>The Democracy Project: A History, a Crisis, a Movement</em>, by David
-  Graeber.
-topics:
-  - utopian
-  - utopianism
-  - collapse
-  - green anarchism
-  - green anarchy
-  - The Baffler
-original_format: muse
-converted_date: '2025-11-08T11:25:02.987528'
-tags:
-  - Utopian
-  - Utopianism
-  - Collapse
-  - Green Anarchism
-  - Green Anarchy
-  - The Baffler
+title: "A Practical Utopian’s Guide to the Coming Collapse"
+author: "David Graeber"
+date: "April 2013"
+category: "contemporary-analysis"
 ---
 
 What is a revolution? We used to think we knew. Revolutions were seizures of power by popular forces aiming to transform the very nature of the political, social, and economic system in the country in which the revolution took place, usually according to some visionary dream of a just society. Nowadays, we live in an age when, if rebel armies do come sweeping into a city, or mass uprisings overthrow a dictator, it’s unlikely to have any such implications; when profound social transformation does occur—as with, say, the rise of feminism—it’s likely to take an entirely different form. It’s not that revolutionary dreams aren’t out there. But contemporary revolutionaries rarely think they can bring them into being by some modern-day equivalent of storming the Bastille.

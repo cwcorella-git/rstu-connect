@@ -1,3 +1,8 @@
+---
+title: "## **(R)evolution in the 21st Century: The case for a syndicalist strategy**"
+category: "contemporary-analysis"
+---
+
 ## **(R)evolution in the 21st Century: The case for a syndicalist strategy**
 
 ## **Date:** Unknown
@@ -185,16 +190,20 @@ Rasmus Hästbacka is a lawyer and has been a member of the Umeå Local of SAC si
 | 2 years 11 months ago |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | See also these very refreshing texts on syndicalist strategy from Sol Fed |
-| https://libcom.org/article/strategy-and-struggle-anarcho-syndicalism-21st-century#comment-6<br>23905 |
+| https://libcom.org/article/strategy-and-struggle-anarcho-syndicalism-21st-century#comment-6
+23905 |
 | And |
-| https://libcom.org/article/fighting-ourselves-anarcho-syndicalism-and-class-struggle-solidarity<br>federation |
+| https://libcom.org/article/fighting-ourselves-anarcho-syndicalism-and-class-struggle-solidarity
+federation |
 | Joakim |
 | 2 years 11 months ago |
 | And do check out this long but nice nugget |
 | https://libcom.org/article/build-revolution-anarcho-syndicalism-21st-century|
 | adri |
 | 1 year 3 months ago |
-| The French-Peruvian feminist Flora Tristan coined a truism in 1843 that still holds true: "the<br>emancipation of the working classes must be conquered by the working classes themselves"<br>(see Tristan's book The Workers' Union). |
+| The French-Peruvian feminist Flora Tristan coined a truism in 1843 that still holds true: "the
+emancipation of the working classes must be conquered by the working classes themselves"
+(see Tristan's book The Workers' Union). |
 
 On which page does Tristan "coin" this truism? I read the book/pamphlet and I know for a fact that she never says that. It is true that she called for workers to "act in the interest of their own cause,"[1] in addition to arguing that workers should unite internationally in a way that anticipated the International Workingmen's Association,[2] but it is simply false to claim that Tristan "coined" the self-emancipation expression found in Marx's "Rules" to the IWA. There was also nothing particularly unique about Tristan (or Marx) arguing for workers to act in the interest of their own cause; countless people had said similar things about the lower classes in various places before her (e.g. labor newspapers). While I respect Tristan's concern for the lower classes, she also did not really embody the belief that the working classes should act to free themselves when she appealed extensively to the upper classes for their support, when her vision of "emancipation" was merely the amelioration of the working classes' condition (which is hardly any kind of "emancipation" at all), and when she likened herself to the "Christ-like" savior of the laboring poor.[3]
 

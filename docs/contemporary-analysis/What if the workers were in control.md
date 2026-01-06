@@ -1,3 +1,8 @@
+---
+title: "## **What if the workers were in control?**"
+category: "contemporary-analysis"
+---
+
 ## **What if the workers were in control?**
 
 ## **Date:** Tue, 11/01/2016 - 19:11

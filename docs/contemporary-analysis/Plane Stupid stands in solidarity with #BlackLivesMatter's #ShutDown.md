@@ -1,3 +1,8 @@
+---
+title: "## **Plane Stupid stands in solidarity with #Black Lives Matter's #Shut Down**"
+category: "contemporary-analysis"
+---
+
 ## **Plane Stupid stands in solidarity with #Black Lives Matter's #Shut Down**
 
 ## **Date:** Tue, 08/09/2016 - 16:08

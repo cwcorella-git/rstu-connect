@@ -1,22 +1,8 @@
 ---
-title: HAU Apology
-author: David Graeber
-date: '2018'
-pubdate: '2021-11-28T19:14:03'
-language: en
-source_url: >-
-  Retrieved on 28<sup>th</sup> November 2021 from
-  [[https://davidgraeber.org/articles/hau-apology/][davidgraeber.org]]
-topics:
-  - letter
-  - journal
-  - abuse
-original_format: muse
-converted_date: '2025-11-08T11:25:03.137618'
-tags:
-  - Letter
-  - Journal
-  - Abuse
+title: "HAU Apology"
+author: "David Graeber"
+date: "2018"
+category: "contemporary-analysis"
 ---
 
 I would like to make a public apology to anyone who has been hurt by their involvement with HAU.

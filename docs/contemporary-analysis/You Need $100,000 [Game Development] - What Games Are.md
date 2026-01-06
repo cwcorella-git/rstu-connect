@@ -1,3 +1,8 @@
+---
+title: "[web.archive.org](https://web.archive.org/web/20250114153012/https://www.whatgamesare.com/2011/04/yo"
+category: "contemporary-analysis"
+---
+
 [web.archive.org](https://web.archive.org/web/20250114153012/https://www.whatgamesare.com/2011/04/you-need-100000-game-development.html)
 
 ## **You Need \$100,000 [Game Development]**

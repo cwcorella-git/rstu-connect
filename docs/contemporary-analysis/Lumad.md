@@ -1,3 +1,8 @@
+---
+title: "**Lumad**"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 # **Lumad**
@@ -163,9 +168,9 @@ The Sangil people (also called Sangir, Sangu, Marore, Sangirezen, or Talaoerezen
 
 #### **Subanon**
 
-The Subanons are the first settlers of the <u>Zamboanga Peninsula</u> and Misamis Occidental. The family is patriarchal while the village is led by a chief called a Timuay. He acts as the village judge and is concerned with all communal matters.
+The Subanons are the first settlers of the Zamboanga Peninsula and Misamis Occidental. The family is patriarchal while the village is led by a chief called a Timuay. He acts as the village judge and is concerned with all communal matters.
 
-History has better words to speak for Misamis Occidental. Its <u>principal city</u> was originally populated by the Subanon, a cultural group that once roamed the seas in great number; the province was an easy prey to the marauding sea pirates of <u>Lanao</u> whose habit were to stage lightning forays along the coastal areas in search of slaves. As the Subanon retreated deeper and deeper into the interior, the coastal areas became home to inhabitants from Bukidnon who were steadily followed by settlers from nearby Cebu and Bohol.
+History has better words to speak for Misamis Occidental. Its principal city was originally populated by the Subanon, a cultural group that once roamed the seas in great number; the province was an easy prey to the marauding sea pirates of Lanao whose habit were to stage lightning forays along the coastal areas in search of slaves. As the Subanon retreated deeper and deeper into the interior, the coastal areas became home to inhabitants from Bukidnon who were steadily followed by settlers from nearby Cebu and Bohol.
 
 ## ![](_page_4_Picture_5.jpeg)
 
@@ -187,11 +192,11 @@ Talaandig are originally from the foothills of $\underline{\text{Mount Kitanglad
 
 #### **Tasaday**
 
-The Tasaday is a group of about two dozen people living within the deep and mountainous rainforests of Mindanao, who attracted wide media attention in 1971 when they were first "discovered" by western scientists who reported that they were living at a "stone age" level of technology and had been completely isolated from the rest of Philippine society. They later attracted attention in the 1980s when it was reported that their discovery had in fact been an elaborate <u>hoax</u>, and doubt was raised both about their status as isolated from other societies and even about the reality of their existence as a separate ethnic group. The question of whether Tasaday studies published in the seventies are accurate is still being discussed. [46][47]
+The Tasaday is a group of about two dozen people living within the deep and mountainous rainforests of Mindanao, who attracted wide media attention in 1971 when they were first "discovered" by western scientists who reported that they were living at a "stone age" level of technology and had been completely isolated from the rest of Philippine society. They later attracted attention in the 1980s when it was reported that their discovery had in fact been an elaborate hoax, and doubt was raised both about their status as isolated from other societies and even about the reality of their existence as a separate ethnic group. The question of whether Tasaday studies published in the seventies are accurate is still being discussed. [46][47]
 
 #### **Teduray**
 
-The <u>Teduray people</u> live in the municipalities of <u>Datu Blah T. Sinsuat</u>, <u>Upi</u> in <u>Maguindanao del Norte</u>, and <u>South Upi</u> in <u>Maguindanao del Sur</u>; and in <u>Lebak</u> municipality, northwestern <u>Sultan Kudarat</u>. They speak the <u>Teduray language</u>, which is related to <u>Bagobo</u>, <u>B'laan</u>, and <u>T'boli</u>. Coastal Tedurays are mostly farmers, hunters, fishermen, and basket weavers; those living in the mountains engage in dry field agriculture, supplemented by hunting and the gathering of forest products. Tedurays are famous for their craftsmanship in weaving baskets with two-toned geometric designs. While many have adopted the cultures of neighboring <u>Muslims</u> and <u>Christians</u> people, a high percentage of their population still believe and practice their indigenous customs and rituals.
+The Teduray people live in the municipalities of Datu Blah T. Sinsuat, Upi in Maguindanao del Norte, and South Upi in Maguindanao del Sur; and in Lebak municipality, northwestern Sultan Kudarat. They speak the Teduray language, which is related to Bagobo, B'laan, and T'boli. Coastal Tedurays are mostly farmers, hunters, fishermen, and basket weavers; those living in the mountains engage in dry field agriculture, supplemented by hunting and the gathering of forest products. Tedurays are famous for their craftsmanship in weaving baskets with two-toned geometric designs. While many have adopted the cultures of neighboring Muslims and Christians people, a high percentage of their population still believe and practice their indigenous customs and rituals.
 
 #### **Tboli**
 
@@ -352,7 +357,7 @@ In 2019, Lumad youth and urban poor children joined the [global climate strike](
 - 40. ["Population by Region and Religion - Kepulauan Sangihe Regency" \(https://sp2010.bps.go.id/index.php/site/tabel?tid=3](https://sp2010.bps.go.id/index.php/site/tabel?tid=321&wid=7103000000) [21&wid=7103000000\)](https://sp2010.bps.go.id/index.php/site/tabel?tid=321&wid=7103000000). *sp2010.bps.go.id*. Retrieved 16 August 2018.
 - 41. Hayase, Shinzō (2007). *Mindanao Ethnohistory Beyond Nations: Maguindanao, Sangir, and Bagobo Societies in East Maritime Southeast Asia*. University of Hawaii Press. p. 96. [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier)) [978-97-155-0511-6](https://en.wikipedia.org/wiki/Special:Book Sources/978-97-155-0511-6).
 - 42. Basa, Mick (9 March 2014). ["The Indonesian Sangirs in Mindanao" \(https://www.rappler.com/world/specials/southeast](https://www.rappler.com/world/specials/southeast-asia/52543-indonesian-sangirs-mindanao)[asia/52543-indonesian-sangirs-mindanao\)](https://www.rappler.com/world/specials/southeast-asia/52543-indonesian-sangirs-mindanao). *Rappler*. Retrieved 9 July 2019.
-- 43. <http://www.joshuaproject.net/people-profile.php?rop3=109689&rog3=RP>Joshua Project – Bagobo, Tagabawa of Philippines Ethnic Profile
+- 43. Joshua Project – Bagobo, Tagabawa of Philippines Ethnic Profile
 - 44. ["Tagakaolo" \(https://web.archive.org/web/20150925124052/http://litera1no4.tripod.com/tagakaolo\\_frame.html\).](https://web.archive.org/web/20150925124052/http://litera1no4.tripod.com/tagakaolo_frame.html) Archived from [the original \(http://litera1no4.tripod.com/tagakaolo\\_frame.html\)](http://litera1no4.tripod.com/tagakaolo_frame.html) on 25 September 2015. Retrieved 10 September 2015.
 - 45. ["Talaandigs" \(http://www.bukidnon.gov.ph/home/index.php/about-bukidnon/traditional-people/the-talaandig\).](http://www.bukidnon.gov.ph/home/index.php/about-bukidnon/traditional-people/the-talaandig) *Official Website of the Province of Bukidnon*. Retrieved 13 April 2019.
 - 46. Yengoyan, Aram A. (1991). "Shaping and Reshaping the Tasaday: A Question of Cultural Identity—A Review Article". *The Journal of Asian Studies*. **50** (3): 565–573. [doi](https://en.wikipedia.org/wiki/Doi_(identifier))[:10.2307/2057561 \(https://doi.org/10.2307%2F2057561\).](https://doi.org/10.2307%2F2057561) [JSTOR](https://en.wikipedia.org/wiki/JSTOR_(identifier)) [2057561 \(https://www.jstor.org/stable/2057561\).](https://www.jstor.org/stable/2057561) [S2CID](https://en.wikipedia.org/wiki/S2CID_(identifier)) [161647407 \(https://api.semanticscholar.org/CorpusID:1](https://api.semanticscholar.org/CorpusID:161647407) [61647407\)](https://api.semanticscholar.org/CorpusID:161647407). S\
@@ -397,7 +402,7 @@ In 2019, Lumad youth and urban poor children joined the [global climate strike](
 - 83. ["About Sabokahan" \(https://web.archive.org/web/20210429011613/https://www.liyangnetwork.org/about-sabokahan\)](https://web.archive.org/web/20210429011613/https://www.liyangnetwork.org/about-sabokahan). *Liyang Network*. Archived from [the original \(https://www.liyangnetwork.org/about-sabokahan\)](https://www.liyangnetwork.org/about-sabokahan) on 29 April 2021. Retrieved 14 May 2021.
 - 84. Liyang Network. Liyang Network Discussions. Accumulation of info from meetings with Liyang Network supervisor and attending events such as webinars and forums. 2021.
 - 85. ["Liyang Network" \(https://www.liyangnetwork.org/\).](https://www.liyangnetwork.org/) *Liyang Network*. Retrieved 14 May 2021.
-- 86. Alamon, Arnold P. "Wars of Extinction: The Lumad Killings in Mindanao, Philippines." Kyoto Review of Southeast Asia, 2015,<https://kyotoreview.org/issue-21/lumad-killings-philippines/> . Accessed 7 April 2021.
+- 86. Alamon, Arnold P. "Wars of Extinction: The Lumad Killings in Mindanao, Philippines." Kyoto Review of Southeast Asia, 2015, . Accessed 7 April 2021.
 - 87. ["Karapatan asks UN to probe Lumad killings in Mindanao" \(https://www.philstar.com/headlines/2017/12/08/1766493/kar](https://www.philstar.com/headlines/2017/12/08/1766493/karapatan-asks-un-probe-lumad-killings-mindanao) [apatan-asks-un-probe-lumad-killings-mindanao\)](https://www.philstar.com/headlines/2017/12/08/1766493/karapatan-asks-un-probe-lumad-killings-mindanao). *Philstar.com*. 8 December 2017. Retrieved 17 July 2018.
 - 88. Leonen, Julius N. ["Militant group seeks UN probe on Lumad killings" \(http://newsinfo.inquirer.net/950789/militant-group](http://newsinfo.inquirer.net/950789/militant-group-seeks-un-probe-on-lumad-killings-karapatan-ngo-un-palabay-duterte-evacuation-indigenous-people-killings)[seeks-un-probe-on-lumad-killings-karapatan-ngo-un-palabay-duterte-evacuation-indigenous-people-killings\)](http://newsinfo.inquirer.net/950789/militant-group-seeks-un-probe-on-lumad-killings-karapatan-ngo-un-palabay-duterte-evacuation-indigenous-people-killings). *Inquirer.net*. Retrieved 17 July 2018.
 - 89. Espina-Varona, Inday (11 November 2015). ["In PH, they kill people for their thoughts" \(https://www.abs-cbn.com/opinio](https://www.abs-cbn.com/opinions/11/11/15/in-ph-they-kill-people-for-their-thoughts) [ns/11/11/15/in-ph-they-kill-people-for-their-thoughts\).](https://www.abs-cbn.com/opinions/11/11/15/in-ph-they-kill-people-for-their-thoughts) *ABS-CBN News*. Retrieved 15 May 2021.

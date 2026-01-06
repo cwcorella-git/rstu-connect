@@ -1,3 +1,8 @@
+---
+title: "You don't need any expert's permission to write your story, your way. Repeat that."
+category: "arts-culture-music"
+---
+
 ## BRIAN KOPPELMAN
 
 ## ALL Screenwriting Books Are Bullshit

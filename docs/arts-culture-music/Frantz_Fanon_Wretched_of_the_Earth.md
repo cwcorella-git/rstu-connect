@@ -1,3 +1,8 @@
+---
+title: "AND A PREFACE BY JEAN-PAUL SARTRE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF THE SALE OF"
+category: "arts-culture-music"
+---
+
 A NEW TRANSLATION FROM THE FRENCH BY
 RICHARD PHILCOX
 WITH A FOREWORD BY
@@ -70,15 +75,79 @@ Grove Press an imprint of Grove/Atlantic, Inc. 841 Broadway New York, NY 10003 D
 
 # **Contents**
 
-| Foreword:<br>Framing<br>Fanon,<br>by<br>Homi<br>K.<br>Bhabha |
+| Foreword:
+Framing
+Fanon,
+by
+Homi
+K.
+Bhabha |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Preface,<br>by<br>Jean-Paul<br>Sartre |
-| I.<br>On<br>Violence<br>Violence<br>in<br>the<br>International<br>On<br>Context |
-| II.<br>Grandeur<br>and<br>Weakness<br>of<br>Spontaneity |
-| III.<br>The<br>Trials<br>and<br>Tribulations<br>of<br>National<br>Consciousness |
-| IV.<br>On<br>National<br>Culture<br>Mutual<br>Foundations<br>for<br>National<br>Culture<br>and<br>Liberation<br>Struggles<br>V.<br>Colonial<br>War<br>and<br>Mental<br>Disorders |
-| Series<br>A<br>Series<br>B<br>Series<br>C<br>Series<br>D |
-| the<br>North<br>Africans<br>Criminal<br>From<br>Impulsiveness<br>the<br>of<br>National<br>Liberation<br>War<br>to |
+| Preface,
+by
+Jean-Paul
+Sartre |
+| I.
+On
+Violence
+Violence
+in
+the
+International
+On
+Context |
+| II.
+Grandeur
+and
+Weakness
+of
+Spontaneity |
+| III.
+The
+Trials
+and
+Tribulations
+of
+National
+Consciousness |
+| IV.
+On
+National
+Culture
+Mutual
+Foundations
+for
+National
+Culture
+and
+Liberation
+Struggles
+V.
+Colonial
+War
+and
+Mental
+Disorders |
+| Series
+A
+Series
+B
+Series
+C
+Series
+D |
+| the
+North
+Africans
+Criminal
+From
+Impulsiveness
+the
+of
+National
+Liberation
+War
+to |
 ## | Conclusion |
 
 On Retranslating Fanon, Retrieving a Lost Voice
@@ -1275,7 +1344,7 @@ In 1958 he was assigned to a mission abroad. Just before rejoining his unit an u
 
 On the second day the smoke screen of optimism vanished and we had on our hands a bedridden anorexic suffering from melancholic depression. He avoided any political discussion and manifested a marked disinterest for anything concerning the national struggle. He avoided listening to news about the war of liberation. Identifying his problems was extremely laborious, but after several days we managed to reconstruct his story:
 
-During his stay abroad he had tried to have sexual intercourse but failed. Thinking it was merely fatigue, normal after forced marches and periods of malnutrition, he tried again two weeks later and failed again. Spoke to a comrade about it who advised him to take vitamin B<sup>12</sup> . Took it in tablet form. New attempt, new failure. Furthermore, a few moments before the act he had an irresistible impulse to tear up a photo of his little girl. Such a symbolic connection could raise the possibility of unconscious incestuous drives. However, several conversations and a dream in which the patient witnessed the rapid putrefying of a kitten giving off a nauseating smell, led us in a completely new direction.
+During his stay abroad he had tried to have sexual intercourse but failed. Thinking it was merely fatigue, normal after forced marches and periods of malnutrition, he tried again two weeks later and failed again. Spoke to a comrade about it who advised him to take vitamin B12 . Took it in tablet form. New attempt, new failure. Furthermore, a few moments before the act he had an irresistible impulse to tear up a photo of his little girl. Such a symbolic connection could raise the possibility of unconscious incestuous drives. However, several conversations and a dream in which the patient witnessed the rapid putrefying of a kitten giving off a nauseating smell, led us in a completely new direction.
 
 "This girl," he told us one day, referring to his daughter, "has something rotten inside her." From that moment on his insomnia became extremely troubling, and despite a fairly large dose of neuroleptics, he developed a state of nervous anxiety that was particularly alarming. He then spoke to us for the first time about his wife and said laughingly: "She got a bit of French meat." It was then we were able to reconstruct the whole story. The fabric of events became clear. He told us that every time he tried to have sexual intercourse, he thought of his wife. What he confided to us seemed to be of fundamental interest.
 
@@ -1920,7 +1989,7 @@ Perhaps Fanon reached such heights and his vision was so broad because he was a 
  - Macey, 503.
 
 - 15 Joseph E. Stiglitz, Globalization and Its Discontents (New York: W. W. Norton, 2003), 40.
-- 16 Anil K. Rajvanshi, "Key Issues in Rural Electrification," published in Projects Monitor, 16 October 2003, <http://pune.sancharnet.in/nariphaltan/ruralelec.htm>.
+- 16 Anil K. Rajvanshi, "Key Issues in Rural Electrification," published in Projects Monitor, 16 October 2003, .
 
 - WE, 3.
 - WE, 5.
@@ -1958,7 +2027,7 @@ Perhaps Fanon reached such heights and his vision was so broad because he was a 
 - 44 Hussein Abdilahi Bulhan, "Revolutionary Psychiatry of Fanon," in Rethinking Fanon: The Continuing Dialogue, ed. Nigel Gibson (Amherst, NY: Humanity Books, 1999), 155.
  - 45 Le Sueur, 23-27.
 
-- <del>46</del> WE, 149.
+- 46 WE, 149.
 - 47 Sartre, 45.
 
 - Macey, 159.

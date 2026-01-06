@@ -1,3 +1,8 @@
+---
+title: "[Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/index.html)"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_2.jpeg)
 
 # [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/index.html)

@@ -1,14 +1,10 @@
 ---
-date: 2025
-author: Google Docs
-tags:
-  - organizing
-  - strikes
-  - unions
-  - tenants
-  - housing
 title: "Current Bylaws Draft - Google Docs"
+author: "Google Docs"
+date: "2025"
+category: "housing"
 ---
+
 # Current Bylaws Draft - Google Docs
 
 *Converted from: `./Current Bylaws Draft - Google Docs.pdf`*  
@@ -144,8 +140,6 @@ I. General Meetings
      F. Meetings will be facilitated using stack.
 
 
-
-
 II. Voting
      A. Votes can be a local majority (consisting of the people present at a meeting), a
         simple majority (consisting of all voting members), or a supermajority (consisting
@@ -182,8 +176,6 @@ II. Voting
               50% of the votes and a supermajority passes with over 66%.
 
 
-
-
 III. Changing or Adding Bylaws/ Core Values
            A. The Bylaws and Core Values will be reviewed each year at the same time as the
               annual elections will take place.
@@ -191,8 +183,6 @@ III. Changing or Adding Bylaws/ Core Values
               discussion. Then the proposed change must be announced to all members
               before a motion to vote at the following meeting. Core values may only be
               changed at the annual Convention.
-
-
 
 
 IV. Committees
@@ -357,8 +347,6 @@ B.Position Descriptions
                               (2) RSTU votes to begin collecting dues.
 
 
-
-
 VII. Accountability
        A. Any member may introduce a grievance against another member whose conduct
           does not align with the Core Values. Grounds for grievances include, but are not
@@ -411,4 +399,3 @@ VIII. Data Collection and Security
           shared with any non-members, outside organizations, or other 3rd parties.
 
 ---
-

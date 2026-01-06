@@ -1,3 +1,8 @@
+---
+title: "**THE BHAGAVAD GITA**"
+category: "contemporary-analysis"
+---
+
 # **THE BHAGAVAD GITA**
 
 **Translated from the Sanskrit with Introduction and Notes by** 
@@ -59,7 +64,12 @@ Printed in the United States of America.
 | 5. | The Yoga of Renunciation | 57 |
 | 6. | The Yoga of Meditation | 63 |
 | 7. | Knowledge and Experience | 71 |
-| 8. | The<br>Way<br>to<br>the<br>Eternal<br>Brahman | 75 |
+| 8. | The
+Way
+to
+the
+Eternal
+Brahman | 75 |
 | 9. | The Yoga of Mysticism | 81 |
 | 10. | The Divine Manifestations | 87 |
 | 11. | The Vision of the Universal Form | 93 |
@@ -68,7 +78,10 @@ Printed in the United States of America.
 | 14. | The Three Gunas | 111 |
 | 15. | The Yoga of the Supreme Self | 115 |
 | 16. | Divine and Demonic Traits | 119 |
-| 17. | Three<br>Kinds<br>of<br>Faith | 123 |
+| 17. | Three
+Kinds
+of
+Faith | 123 |
 | 18. | Liberation through Renunciation | 127 |
 | | Notes | 137 |
 | | Glossary | 145 |
@@ -120,9 +133,9 @@ B. Srinivasa Murthy January 1991 California State University, Long Beach
 
 #### **INTRODUCTION**
 
-The *Bhagavad Gita,* popularly known as the *Gita,* is one of the most important philosophical and religious classics in the world. The *Gita* synthesizes both rational analysis and religious inspiration in answering the fundamental questions of the meaning of life and death. It has inspired the Indian people for centuries, guiding them in their daily struggles and giving them spiritual strength to lead a life of goodness, tolerance and harmony. When faced with existential crises and critical life decisions, one can turn to the words of the *Bhagavad Gita* for direction and consolation. Mahatma Gandhi aptly summarized his indebtedness to this great work: "When disappointment stares me in the face and all alone I see not one ray of light, I go back to the *Bhagavadgita.* I find a verse here and a verse there and I immediately begin to smile in the midst of overwhelming tragedies — and my life has been full of external tragedies — and if they have left no visible, no indelible scar on me, I owe it all to the teachings of the *Bhagavadgita."* <sup>1</sup>
+The *Bhagavad Gita,* popularly known as the *Gita,* is one of the most important philosophical and religious classics in the world. The *Gita* synthesizes both rational analysis and religious inspiration in answering the fundamental questions of the meaning of life and death. It has inspired the Indian people for centuries, guiding them in their daily struggles and giving them spiritual strength to lead a life of goodness, tolerance and harmony. When faced with existential crises and critical life decisions, one can turn to the words of the *Bhagavad Gita* for direction and consolation. Mahatma Gandhi aptly summarized his indebtedness to this great work: "When disappointment stares me in the face and all alone I see not one ray of light, I go back to the *Bhagavadgita.* I find a verse here and a verse there and I immediately begin to smile in the midst of overwhelming tragedies — and my life has been full of external tragedies — and if they have left no visible, no indelible scar on me, I owe it all to the teachings of the *Bhagavadgita."* 1
 
-The impact of the *Gita's* teachings have been widespread, reaching far beyond the borders of India. As the nuclear physicist, Robert Oppenheimer,<sup>2</sup> watched the first stunning explosion of the atom bomb in tests conducted in New Mexico, he remembered the following words of the *Gita:* "If the light of a thousand suns were to blaze all at once in the sky, it would be like the splendor of that great Being" (11.12). The famous German philosopher-humanist, Wilhelm von Humboldt, commented that this classic is "the most beautiful, perhaps the only true philosophical song existing in any known tongue."<sup>3</sup> Ralph Waldo Emerson, Henry David Thoreau, T. S. Eliot, Arthur Schopenhauer, Aldous Huxley, and Sir Edwin Arnold were all deeply influenced by the *Gita.* 
+The impact of the *Gita's* teachings have been widespread, reaching far beyond the borders of India. As the nuclear physicist, Robert Oppenheimer,2 watched the first stunning explosion of the atom bomb in tests conducted in New Mexico, he remembered the following words of the *Gita:* "If the light of a thousand suns were to blaze all at once in the sky, it would be like the splendor of that great Being" (11.12). The famous German philosopher-humanist, Wilhelm von Humboldt, commented that this classic is "the most beautiful, perhaps the only true philosophical song existing in any known tongue."3 Ralph Waldo Emerson, Henry David Thoreau, T. S. Eliot, Arthur Schopenhauer, Aldous Huxley, and Sir Edwin Arnold were all deeply influenced by the *Gita.* 
 
 The reason why the *Bhagavad Gita* has been so popular in India is due to the fact that it is both an inspirational and practical guide to daily living. The *Gita's* teachings are simple and direct, whereas most of the ancient Indian writings on philosophy and religion, in contrast, are accessible only to scholars. From the deep well of the *Gita,* both scholars and laymen can draw the waters of faith, reason, and natural law, in accordance with their individual needs.
 
@@ -182,7 +195,7 @@ In the *Gita,* Arjuna is the symbolic representative of the individual self and 
 
 Krishna presents three main aspects of the Self: the immortality of the Self, the need for self-realization, and the method of self-realization. Since the Self is immortal, the questions of life and death should be viewed from that ultimate perspective. One can destroy the body but not the Self. Krishna advises Arjuna: "You have been grieving for those who should not be grieved for, yet you speak words about wisdom. The wise grieve neither for the living nor for the dead" (2.11) and, again, "he who understands that this self is a slayer, and he who understands that it is slain; neither of them have wisdom. The self neither slays nor is slain" (2.19). Lord Krishna elucidates further that nothing can harm the Self, for "weapons cannot cut It; fire cannot burn It; waters do not drench It; nor does the wind wither It" (2.23).
 
-Socrates expressed the similar idea of the indestructible nature of the self in Plato's *Phaedo.* After Socrates was condemned to die, his follower, Crito, asked: "'In what way shall we bury you, Socrates?' Socrates replied: 'In any way you like, but first you must catch me, the real me. . . . Be of good cheer, my dear Crito, and say that you are burying my body only, and do with that whatever is usual and what you think best."<sup>4</sup>
+Socrates expressed the similar idea of the indestructible nature of the self in Plato's *Phaedo.* After Socrates was condemned to die, his follower, Crito, asked: "'In what way shall we bury you, Socrates?' Socrates replied: 'In any way you like, but first you must catch me, the real me. . . . Be of good cheer, my dear Crito, and say that you are burying my body only, and do with that whatever is usual and what you think best."4
 
 Man has the innate need to realize a higher destiny and to find meaning in existence. The longing to reach a plateau of peace and tranquility in the experience of daily living has been evident throughout history. Empirical knowledge, the satisfaction of sensual desires, and material possessions and achievements do not culminate in self-realization. Inner harmony and peace become a reality only when one realizes that the self is part of a greater Self. "Let a man raise himself by the Self, let him not degrade himself. . . for the Self alone is the friend of the self and the Self alone is the enemy of the self" (6.5). A routine existence, bogged down in everydayness, rusts the mind and robs the spark of life. When we transcend the empirical conditions of our experience and reach a higher state of consciousness, we are able to accept any events in life with equanimity, whether success or failure, pleasure or pain, joy or sorrow.
 
@@ -198,11 +211,11 @@ The doctrine of *karma,* as found in the Vedas and the Upanishads, is infused th
 
 *Karma* is the cosmic force of moral cause and effect. It should not be construed merely as the automatic recycler of souls. The doctrine of *karma* is fundamentally the application of the scientific law of causation to the spiritual plane. Every act performed by an individual has its inexorable consequences. *Karma* is established in one's past lives, operates in the present life and will continue to operate in the future. If proper steps are not taken to attain liberation from *samsara* (reincarnation), the wheel of *karma* continues to revolve.
 
-Since *karma* is linked to past actions, it can be considered deterministic. Nonetheless, one has the moral freedom in the present life to offset bad *karma* through self-realization. Christopher Chapple, in his excellent book *Karma and Creativity,* remarks: "Through activity, the binding influences of the past are overcome and a new order, a new vision is brought forth, a new way of life anchored in creativity rather than mired in past actions."<sup>5</sup> Radhakrishnan writes that ". . . the cards in the game of life are given to us. We do not select them. They are traced to our past *karma* but we can call as we please, lead what suit we will and as we play, we gain or lose. And there is freedom … ."<sup>6</sup> Although the theory of *karma* determines one's *kshetra* (field of action), it never determines one's mode of action. *Karma* is, therefore, more positive than normative and more descriptive than deterministic. According to the law of *karma,* no one escapes moral retribution, although the results of unethical action may not become immediately apparent. The only way to escape the meshes of past evil action is through selfless action. The past may be distressing but the future is filled with hope. Man is indeed the architect of his destiny and he has the power to mold his future. The author of the *Yoga Vasistha* says: "There is hardly anything in existence which is not attainable through right and earnest effort. . . . Through effort alone, the wise always come out of dangerous situations and not through the absurd belief in destiny."
+Since *karma* is linked to past actions, it can be considered deterministic. Nonetheless, one has the moral freedom in the present life to offset bad *karma* through self-realization. Christopher Chapple, in his excellent book *Karma and Creativity,* remarks: "Through activity, the binding influences of the past are overcome and a new order, a new vision is brought forth, a new way of life anchored in creativity rather than mired in past actions."5 Radhakrishnan writes that ". . . the cards in the game of life are given to us. We do not select them. They are traced to our past *karma* but we can call as we please, lead what suit we will and as we play, we gain or lose. And there is freedom … ."6 Although the theory of *karma* determines one's *kshetra* (field of action), it never determines one's mode of action. *Karma* is, therefore, more positive than normative and more descriptive than deterministic. According to the law of *karma,* no one escapes moral retribution, although the results of unethical action may not become immediately apparent. The only way to escape the meshes of past evil action is through selfless action. The past may be distressing but the future is filled with hope. Man is indeed the architect of his destiny and he has the power to mold his future. The author of the *Yoga Vasistha* says: "There is hardly anything in existence which is not attainable through right and earnest effort. . . . Through effort alone, the wise always come out of dangerous situations and not through the absurd belief in destiny."
 
 In the *Gita,* Lord Krishna advises Arjuna to carry on action in the spirit of *nishkama karma* (actionless action) and not to worry about the consequences. Krishna counsels Arjuna not to grieve for the inevitable because "as the embodied self passes through childhood, youth and old age in the body, so does it pass into another body" (2.13), and "just as a person discards worn out clothes and puts on new ones, so too the embodied self casts off old and worn out bodies and enters into other new ones" (2.22). Both birth and death are inevitable in the wheel of karma. The only escape from this cycle is to free oneself from attachment through meditation and through the unselfish performance of duty and sacrificial works.
 
-The belief in *karma* and reincarnation has been a strong moral force in Indian society. Centuries ago, Shankara persuasively remarked that' 'unless a person is aware of the existence of the self in a future life, he will not be inclined to attain what is good in this life and avoid what is evil."<sup>7</sup>
+The belief in *karma* and reincarnation has been a strong moral force in Indian society. Centuries ago, Shankara persuasively remarked that' 'unless a person is aware of the existence of the self in a future life, he will not be inclined to attain what is good in this life and avoid what is evil."7
 
 #### **THE SANKHYA SYSTEM**
 
@@ -364,14 +377,14 @@ The essential teachings of the *Gita* and the three yogas point the way to perfe
 
 #### **THE GRIEF OF ARJUNA**
 
-- 1 Dhritarashtra<sup>1</sup> said:
-- In the field of righteousness, the field2 of the Kurus, what did my men3 and the sons of Pandu<sup>4</sup> do, O Sanjaya, when they assembled together ready to fight?
-- 2 Sanjaya<sup>5</sup> said:
- - Having seen the army of the Pandavas drawn up for the battle, King Duryodhana approached his teacher Drona<sup>6</sup> and spoke these words:
-- 3 Behold, O master, this mighty army of the sons of Pandu arrayed by your intelligent disciple, the son of Drupada.<sup>7</sup>
-- 4 Here on our side are heroes, powerful archers, in battle equal to Bhima<sup>8</sup> and Arjuna, Yuyudhana,<sup>9</sup> Viratal10 and King Drupada, a mighty warrior,
-- 5 Dhrishtaketu<sup>11</sup> and Chekitana<sup>12</sup> and the heroic King of Kashi (Benares), Purujit and Kuntibhoja13 and Shaibya,14 all the best of men.
-- 6 And powerful Yudhamanyu,<sup>15</sup> Uttamaujal6 the valiant, the son of Subhadra,17 and the sons of Draupadi,18 all excellent warriors indeed.
+- 1 Dhritarashtra1 said:
+- In the field of righteousness, the field2 of the Kurus, what did my men3 and the sons of Pandu4 do, O Sanjaya, when they assembled together ready to fight?
+- 2 Sanjaya5 said:
+ - Having seen the army of the Pandavas drawn up for the battle, King Duryodhana approached his teacher Drona6 and spoke these words:
+- 3 Behold, O master, this mighty army of the sons of Pandu arrayed by your intelligent disciple, the son of Drupada.7
+- 4 Here on our side are heroes, powerful archers, in battle equal to Bhima8 and Arjuna, Yuyudhana,9 Viratal10 and King Drupada, a mighty warrior,
+- 5 Dhrishtaketu11 and Chekitana12 and the heroic King of Kashi (Benares), Purujit and Kuntibhoja13 and Shaibya,14 all the best of men.
+- 6 And powerful Yudhamanyu,15 Uttamaujal6 the valiant, the son of Subhadra,17 and the sons of Draupadi,18 all excellent warriors indeed.
 - 7 Also know, O best of the twice-born, the leaders of our own army. I will name those who are most distinguished that you may recognize them all.
 - 8 Yourself and Bhishma19 and Kama2O and Kripa21 who is victorious in battle, Ashvatthama22 and Vikama,23 Jayadratha and Somadatta's son.
 - 9 And many other heroes are here who will risk their lives for me. All of them are armed with many weapons and all are well skilled in war.
@@ -383,8 +396,8 @@ The essential teachings of the *Gita* and the three yogas point the way to perfe
 - 13 The conches and kettle drums, cymbals, trumpets and horns, all blared suddenly and the uproar was tremendous.
 - 14 Thereupon, Krishna and Arjuna, standing in their magnificent chariot drawn by white horses, also blew their divine conches.
 - 15 Krishna blew his conch Panchajanya and Arjuna his Devadatta; and Bhima, the doer of formidable deeds, blew his great conch Paundra.
-- 16 King Yudhishthira, the son of Kunti, blew his conch Anantavijaya; and Nakula and Sahadeva<sup>24</sup> blew their Sughosha and Manipushpaka.
-- 17 And the King of Kashi, the mighty archer, Shikandi the great warrior, Dhrishtadyumna<sup>25</sup> and Virata and Satyaki the invincible,
+- 16 King Yudhishthira, the son of Kunti, blew his conch Anantavijaya; and Nakula and Sahadeva24 blew their Sughosha and Manipushpaka.
+- 17 And the King of Kashi, the mighty archer, Shikandi the great warrior, Dhrishtadyumna25 and Virata and Satyaki the invincible,
 - 18 Drupada and the sons of Draupadi, and the strong-armed son of Subhadra, blew their own conches on all sides, O lord of the earth.
 - 19 Resounding through earth and sky, that tumultuous up roar shook the hearts of the sons of Dhritarashtra.
 - 20 Then seeing the sons of Dhritarashtra drawn up in battle array and the clash of arms about to begin, Arjuna, the son of Pandu whose banner bore the emblem of Hanuman, took up his bow,
@@ -396,7 +409,7 @@ The essential teachings of the *Gita* and the three yogas point the way to perfe
 - 24 Sanjaya said: Thus requested by Gudakesha, Hrishikesha stationed that fine chariot between the two armies, O Bharata.
 - 25 Facing Bhishma and Orona and all the rulers of the earth, he said: See, O Partha, all the Kurus gathered here.
 - 26 Arjuna saw lined up in both armies, fathers, grandfathers, teachers, maternal uncles, brothers, sons, grandsons and companions;
-- 27 Also fathers-in-law and the dear ones in both armies. When the son of Kunti<sup>26</sup> sawall these kinsmen standing on opposite sides,
+- 27 Also fathers-in-law and the dear ones in both armies. When the son of Kunti26 sawall these kinsmen standing on opposite sides,
 - 28 He was overcome with tremendous compassion and grief, and he sorrowfully spoke: Seeing my own people, O Krishna, assembled here eager to fight,
 - 29 My limbs fail, my mouth dries up, my body trembles and my hair stands on end;
 - 30 The bow Gandiva slips from my hand and my skin is burning all over my body. I am unable to stand and my mind is reeling.
@@ -433,14 +446,14 @@ To him who was thus overwhelmed by compassion, whose troubled eyes were filled w
 
 #### 2 The Blessed Lord said:
 
-Whence has come to you such faintheartedness in this hour of peril? It is unworthy of an Aryan,<sup>1</sup> it is dishonorable, it does not lead to heaven, O Arjuna.
+Whence has come to you such faintheartedness in this hour of peril? It is unworthy of an Aryan,1 it is dishonorable, it does not lead to heaven, O Arjuna.
 
 - 3 Fall not into cowardly impotence, O Partha, for it does not befit you. Shake off this petty faintheartedness and arise; O scorcher of the foe.
 - 4 Arjuna said:
 - But how, O Madhusudana, can I fight with arrows in battle against Bhishma and Orona, who are worthy of veneration, O slayer of foes?
 - 5 It is better to live on alms in this world rather than to slay these honorable masters. By slaying these venerable masters, I would enjoy wealth and pleasures smeared with their blood.
 - 6 Nor do we know which is better for us, whether we should conquer them or they should conquer us. The sons of Dhritarashtra are facing us here; we should not even wish to live after slaying them.
-- 7 My very being is overwhelmed with the weakness of pity and my mind is puzzled about my duty *(dharma).<sup>2</sup>* I appeal to You to tell me which is better. Teach me, your disciple, who have taken refuge in You.
+- 7 My very being is overwhelmed with the weakness of pity and my mind is puzzled about my duty *(dharma).2* I appeal to You to tell me which is better. Teach me, your disciple, who have taken refuge in You.
 - 8 I do not indeed see what will dispel the grief which is drying up my senses, even if I should obtain a rich and unrivaled kingdom on earth or even lordship over the gods in heaven.
 
 #### 9 Sanjaya said:
@@ -454,10 +467,10 @@ Having thus spoken to Hrishikesha, the mighty Gudakesha said to Govinda, "I will
 You have been grieving for those who should not be grieved for, yet you speak words about wisdom. The wise grieve neither for the living nor for the dead.
 
 - 12 Never was there a time when I was not, nor you, nor these ruling princes. Never will there be a time hereafter when we all shall cease to be.
-- 13 As the embodied Self<sup>3</sup> passes through childhood, \youth and old age in this body, so does It pass into another body. The wise man is not bewildered by this.
+- 13 As the embodied Self3 passes through childhood, \youth and old age in this body, so does It pass into another body. The wise man is not bewildered by this.
 - 14 a Son of Kunti, material sensations give rise to heat and cold, pain and pleasure. They are transient; they come and go. Bear them patiently, a Bharata.
 - 15 The man who is not disturbed by these sensations, a best of men, who remains calm in pain and pleasure, who is wise, is able to attain immortality.
-- 16 The Unreal never is, the Real<sup>4</sup> never ceases to be. This conclusion is perceived by the seers of truth.
+- 16 The Unreal never is, the Real4 never ceases to be. This conclusion is perceived by the seers of truth.
 - 17 Know that all by which this universe is pervaded is indestructible. No one can bring the annihilation of that which is immutable.
 - 18 All these bodies of the eternal embodied soul, which is imperishable and incomprehensible, are said to have to come to an end. Therefore fight, a
 
@@ -476,21 +489,21 @@ You have been grieving for those who should not be grieved for, yet you speak wo
 
 - knows It.
 - 30 The Self, which dwells in the body of everyone, O Bharata, is eternal and can never be slain.5 Therefore, you should not grieve for any creature.
-- 31 Moreover, after considering your own duty, <sup>6</sup> you should not waver. There is no greater good for a Kshatriya<sup>7</sup> than a battle fought for a just cause.
+- 31 Moreover, after considering your own duty, 6 you should not waver. There is no greater good for a Kshatriya7 than a battle fought for a just cause.
 - 32 Happy are the Kshatriyas, O Partha, for whom such a battle has come on its own accord as a gateway to heaven.
 - 33 Now, if you refuse to fight this righteous battle, then, by failing in your own duty and honor, you will incur sin.
 - 34 People will recount forever your lasting dishonor. And for one who has been honored, dishonor is much worse than death.
-- 35 The great warriors will believe that you have retreated from the battle out of fear and those who have thought highly of you will lose esteem for you.<sup>8</sup>
+- 35 The great warriors will believe that you have retreated from the battle out of fear and those who have thought highly of you will lose esteem for you.8
 - 36 Your enemies will speak of you with ill will, slandering your manhood. Could anything be more miserable than that?
 - 37 If you are killed, you will go to heaven; if victorious, you will enjoy the earth. Therefore, arise resolved to fight, O son of Kunti.
 - 38 Treating alike pleasure and pain, gain and loss, victory and defeat, prepare yourself for battle. Thus you will incur no sin.
-- 39 This is the wisdom *(buddhi)<sup>9</sup>* of the Sankhya10 imparted to you, O Partha. Now listen to the wisdom of the Yoga. Disciplined by this thought, you will free yourself from the bondage of works.
+- 39 This is the wisdom *(buddhi)9* of the Sankhya10 imparted to you, O Partha. Now listen to the wisdom of the Yoga. Disciplined by this thought, you will free yourself from the bondage of works.
 - 40 No effort is lost and no harm prevails in this path (of Yoga). Even a little of this righteousness *(dharma)* saves a man from great fear.
 
 - 41 In this, O joy of the Kurus, there is only one earnest and resolute understanding; but the thoughts of the irresolute are many-branched and unending.
 - 42-43 The unwise who delight in the letter of the Vedas and say that there is nothing else, whose selves are filled with desire, who are intent on heaven, utter flowery words and lay down specific rites for the attainment of pleasure and power, resulting in rebirth as the reward for their actions.
 - 44 The discriminating intelligence is not set in self concentration for those who cling to pleasure and power and whose minds are carried away by these words of the Vedas.
-- 45 The action of the three *gunas*<sup>11</sup> is the subject matter of the Vedas. Be free, O Arjuna, from the three *gunas;* be free from the dualities; be firmly fixed in goodness *(sattva).* Do not care for acquisition of property or its preservation and be established in the Self.
+- 45 The action of the three *gunas*11 is the subject matter of the Vedas. Be free, O Arjuna, from the three *gunas;* be free from the dualities; be firmly fixed in goodness *(sattva).* Do not care for acquisition of property or its preservation and be established in the Self.
 - 46 As much use as there is in a pond flooded with water on every side, so much use is there in all the Vedas for an enlightened seer who has knowledge.
 - 47 To action alone you have a right and never to its fruits. Let not your motive be the fruits of action; nor let there be in you any attachment to inaction.
 - 48 Fixed in yoga, O winner of wealth, do your work, renouncing attachment and remaining even-minded in both success and failure. This equanimity12 of mind is called yoga.
@@ -512,7 +525,7 @@ You have been grieving for those who should not be grieved for, yet you speak wo
 - 60 The churning and restless senses, O son of Kunti, violently carry away the mind of even a wise man striving toward perfection.
 - 61 Having brought them all under control, he should sit disciplined in yoga, focused on Mc. He whose senses are under control has a steady mind.
 - 62 When a man broods over the sense objects, attachment to them arises. From attachment arises desire. and desire breeds anger.
-- 63 From anger comes delusion of mind, and from delusion, the loss of memory; from loss of memory; from loss of memory, the destruction of descrimation;<sup>13</sup> and from the destruction of discrimination, the man perishes.
+- 63 From anger comes delusion of mind, and from delusion, the loss of memory; from loss of memory; from loss of memory, the destruction of descrimation;13 and from the destruction of discrimination, the man perishes.
 - 64 But a man of self-control, who moves in the world of the senses with his senses restrained, is free from attraction and aversion and thereby attains serenity of mind.
 - 65 Through that serenity comes the cessation of all his sorrows. The intelligence of such a man of serene mind is soon grounded in peace.
 - 66 There is no wisdom nor power of contemplation for the uncontrolled mind. Without contemplation, there is no peace; and without peace, how can there be happiness?
@@ -529,21 +542,21 @@ You have been grieving for those who should not be grieved for, yet you speak wo
 #### **THE YOGA OF ACTION**
 
 - 1 Arjuna said:
-- If you hold, O Janardana, that knowledge is superior to action, why then do you urge me, O Keshava, to do this violent deed?<sup>1</sup>
+- If you hold, O Janardana, that knowledge is superior to action, why then do you urge me, O Keshava, to do this violent deed?1
 - 2 With these apparently perplexing words, You seem to confuse my understanding. Therefore, tell me definitely the one way by which I can reach the Supreme Good.
 - 3 The Blessed Lord said:
-- O sinless one, since the beginning, a twofold way has been taught by Me in this world; the path of knowledge for the contemplative and that of works for men of action.<sup>2</sup>
+- O sinless one, since the beginning, a twofold way has been taught by Me in this world; the path of knowledge for the contemplative and that of works for men of action.2
 - 4 Not by abstention from works does a man attain freedom from action; nor by mere renunciation (of works) alone does he rise to perfection.
 - 5 Indeed, no one can exist, even for a moment, without doing some action. Everyone is forced to work, helplessly driven by the forces born of nature.
 - 6 He who restrains his senses, but continues remembering in his mind the pleasures of the senses, is deluded and is said to be a hypocrite.
 - 7 But he who curbs his senses with the mind, O Arjuna, and then, free from attachment, directs his senses in the path of works *(karma yoga),* he is superior.
 - 8 Do your allotted work, for action is indeed better than inaction and even the mere maintenance of your body is not possible without action.
 
-- 9 This world is bound by action *(karma),* except for work done as a sacrifice. Therefore, O son of Kunti, do your work as a sacrifice<sup>3</sup> and become free from the bonds of desire.
-- 10 In the beginning, Prajapati<sup>4</sup> created mankind together with sacrifice and said: "By this shall you multiply and it (Kamadhuk<sup>5</sup> ) shall grant all your desires."
+- 9 This world is bound by action *(karma),* except for work done as a sacrifice. Therefore, O son of Kunti, do your work as a sacrifice3 and become free from the bonds of desire.
+- 10 In the beginning, Prajapati4 created mankind together with sacrifice and said: "By this shall you multiply and it (Kamadhuk5 ) shall grant all your desires."
 - 11 By this (sacrifice) may you cherish the gods and may the gods cherish you. Thus by cherishing each other, you shall attain the Supreme Good.
 - 12 Cherished by your sacrifice, the gods will give you your desired pleasures. He is indeed a thief who enjoys their gifts without offering anything to them in return.
-- 13 The good persons who eat what is left of the sacrifice are released from all sins;<sup>6</sup> but the wicked who cook food only for themselves verily eat sin.
+- 13 The good persons who eat what is left of the sacrifice are released from all sins;6 but the wicked who cook food only for themselves verily eat sin.
 - 14 From food creatures are born; from rain food is produced; from sacrifice rain comes into being; and sacrifice is born of work.
 - 15 Know that action originates from Brahman, and Brahman springs from the imperishable. Therefore, the all-pervading Brahman is eternally established in sacrifice.
 - 16 Here on earth, he who does not follow the wheel thus set in motion is evil in nature; by indulging in the senses, he lives in vain, O Partha.
@@ -551,14 +564,14 @@ You have been grieving for those who should not be grieved for, yet you speak wo
 - 18 He who has nothing to gain by actions done in this world, nor anything to lose by actions not done, he is not dependent upon mortal creatures for any object.
 - 19 Therefore, always perform without attachment the work that should be done. By doing work without attachment, man attains the Supreme.
 
-- 20 Through the path of action alone, men like Janaka<sup>7</sup> and others reached perfection. You should perform action also with the intention of guiding the people in the right direction.<sup>8</sup>
+- 20 Through the path of action alone, men like Janaka7 and others reached perfection. You should perform action also with the intention of guiding the people in the right direction.8
 - 21 Whatever a great man does, others will copy. The people will follow whatever standard he sets.
 - 22 O Partha, there is no work which I need to accomplish in all the three worlds, nor is there anything which I have yet to gain; nevertheless, I am still engaged in action.
 - 23 If I did not engage tirelessly in action, O Partha, men everywhere would follow My lead.
 - 24 If I should cease to work, these worlds should perish and I should be the cause of cosmic confusion and would destroy all these creatures.
 - 25 As the unwise act with attachment to their work, O Bharata, so should a wise man act without attachment for the good of the world.
 - 26 Let no wise man create confusion in the minds of the ignorant who are attached to (selfish) action. He should, rather, inspire others to act by his disciplined performance of actions.
-- 27 All kinds of actions<sup>9</sup> are done by the modes of nature but he whose mind is confused by egotism thinks, "I am the doer."
+- 27 All kinds of actions9 are done by the modes of nature but he whose mind is confused by egotism thinks, "I am the doer."
 - 28 He who knows the true distinction between the soul and the modes of nature and their works, O mighty-armed, realizes that it is the modes which operate upon the modes, and he does not get attached.
 - 29 Those who are deluded by the modes of nature become attached to the actions of the modes. However, let no one who understands this unsettle the ignorant, whose knowledge is imperfect.
 
@@ -566,7 +579,7 @@ You have been grieving for those who should not be grieved for, yet you speak wo
 - 31 Those men, full of faith and without murmuring, who steadfastly practice this teaching of Mine are also released from the bondage of actions.
 - 32 But those who sneer at my teaching and do not follow it, know them to be blind to all wisdom, devoid of discrimination, and doomed to destruction.
 - 33 Even the man of knowledge behaves according to his own nature. Beings follow their own nature. Of what use is restraint?
-- 34 The attachment and aversion which the senses feel for their objects are seated (in the senses). Let no one come under the sway of these two,<sup>10</sup> for they are his enemies.
+- 34 The attachment and aversion which the senses feel for their objects are seated (in the senses). Let no one come under the sway of these two,10 for they are his enemies.
 - 35 Better to perform one's own duty *(dharma)* imperfectly than to perform the duty of another perfectly. Better to carry out one's own duty, even unto death, for to follow another's duty is perilous.
 - 36 Arjuna said:
 - Then, what makes a man commit sin unwillingly, as if driven by force, O Varshneya?
@@ -600,7 +613,7 @@ You have been grieving for those who should not be grieved for, yet you speak wo
 - 10 Delivered from passion, fear and anger, immersed in Me, seeking refuge in Me alone, and purified by the fire of wisdom, many have become one with My being.
 - 11 In whatever way men take refuge in Me, I love them in that way. Men everywhere follow My path, O Partha.
 - 12 Those who desire success in their work on earth worship the gods here, for in this world of men success comes swiftly through works.
-- 13 The four castes<sup>2</sup> were created by Me according to the divisions of qualities *(gunas)* and work *(karma);* although I am its creator, yet know Me to be beyond action or change.
+- 13 The four castes2 were created by Me according to the divisions of qualities *(gunas)* and work *(karma);* although I am its creator, yet know Me to be beyond action or change.
 - 14 Actions do not contaminate Me, nor do I yearn for the fruit of action. He who knows Me thus is not bound by his actions.
 - 15 Knowing this, the ancients worked while seeking liberation. Therefore, do your work just as the ancients did earlier.
 - 16 Even the sages are perplexed about what action is and what inaction is. Therefore, I will tell you what action is so that you may know and be delivered from evil.
@@ -615,10 +628,10 @@ You have been grieving for those who should not be grieved for, yet you speak wo
 - 24 Brahman is the offering and Brahman is the oblation. By Brahman it is offered into the (sacrificial) fire of Brahman. Brahman is to be attained by him who thus realizes Brahman in his actions.
 - 25 Some yogis offer oblations to the gods, while others offer the self as sacrifice by the self into the fire of Brahman.
 - 26 Others offer their senses like hearing and the other senses into the fires of restraint, while others offer sound and the other objects of the senses into the fires of the senses.
-- 27 Yet others offer all the actions of the senses and all the functions of the life force *(prana)*<sup>3</sup> into the yoga of self-restraint, which is kindled by knowledge.
+- 27 Yet others offer all the actions of the senses and all the functions of the life force *(prana)*3 into the yoga of self-restraint, which is kindled by knowledge.
 - 28 Likewise, some offer as sacrifice their wealth, their penance, or their practice of yoga; while others of disciplined mind and strict vows offer their scriptural learning and knowledge.
 
-- 29 Some, who are devoted to the regulation of breath control *'pranayamd',<sup>4</sup>* having restrained the movement of *prana* (inhalation) and *apana* (exhalation), offer as sacrifice *prana* into *apana* and *apana* into *prana.*
+- 29 Some, who are devoted to the regulation of breath control *'pranayamd',4* having restrained the movement of *prana* (inhalation) and *apana* (exhalation), offer as sacrifice *prana* into *apana* and *apana* into *prana.*
 - 30 Still others, who have controlled their diet, offer life breaths into life breaths as sacrifice. All these are knowers of sacrifice and by sacrifice their sins have been cleansed.
 - 31 Those who eat the sacred food remaining from sacrificial ceremonies attain to the eternal Brahman. This world is not for him who offers no sacrifice, how then the other world, O best of the Kurus?
 - 32 Thus, different kinds of sacrifices are spread through the Vedic scriptures. Know them all to be born of action and you shall be released.
@@ -679,7 +692,7 @@ You have been grieving for those who should not be grieved for, yet you speak wo
 
 - 1. The Blessed Lord said:
 - He who performs ritual action which ought to be done without seeking its fruit is a true renouncer and a yogi; not he who fails to light the sacred fire and fails to perform the ritual acts.
-- 2. Know that yoga is that which is called renunciation, O Pandava; for no one becomes a yogi without renouncing his heart's desires.<sup>1</sup>
+- 2. Know that yoga is that which is called renunciation, O Pandava; for no one becomes a yogi without renouncing his heart's desires.1
 - 3. For the sage who seeks to attain yoga, work is said to be the means. When he has attained yoga, peace is said to be the means.
 - 4. When a man is attached neither to the sense-objects nor to works, and when he has renounced all the desires of the heart, then he is said to have attained yoga.
 - 5. Let a man raise himself by the Self, let him not degrade himself; for the Self alone is the friend of the self and the Self alone is the enemy of the self.
@@ -707,7 +720,7 @@ You have been grieving for those who should not be grieved for, yet you speak wo
 - 25 Let him gain tranquility little by little. With a firm grip on reason and the mind abiding in the Self, let him not think of anything else.
 - 26 No matter what causes his wavering and unstable mind to wander, let him restrain it and bring it under the control of the Self alone.
 - 27 Supreme bliss comes to the yogi whose mind is peaceful, whose passions are calmed, who is free from sin and has become one with Brahman.
-- 28 Freed from all sins, the yogi who steadfastly disciplines himself joyfully experiences the infinitely blissful touch of Brahman.<sup>2</sup>
+- 28 Freed from all sins, the yogi who steadfastly disciplines himself joyfully experiences the infinitely blissful touch of Brahman.2
 - 29 He whose self is disciplined by yoga sees the Self present in all beings and all beings present in the Self; he sees the same self everywhere.
 - 30 For him who sees Me everywhere and sees everything in Me, I am not lost to him and he is not lost to Me.
 - 31 The yogi who is established in oneness worships Me as abiding in all beings; he dwells in Me, whatever his mode of living.
@@ -752,7 +765,7 @@ If one is endowed with complete faith but is unable to control himself, if his m
 - With your mind absorbed in Me, O Partha, taking refuge in Me and practicing yoga, hear how you shall know Me entirely, without any doubt.
 - 2 I shall teach you in full this knowledge and wisdom; when once understood, nothing more remains to be known in this world.
 - 3 Among thousands of people, hardly one strives for perfection; and even among those who strive and succeed, scarcely one knows Me in truth.
-- 4 My material nature is eightfold:<sup>1</sup> earth, water, fire, air, ether, mind, reason and ego.
+- 4 My material nature is eightfold:1 earth, water, fire, air, ether, mind, reason and ego.
 - 5 This is My lower nature, but also learn of My higher nature, O mighty-armed one, which is the indwelling spirit by which this world is sustained.
 - 6 Realize that all beings are born from these two. I am the origin of the entire universe and also its dissolution.
 - 7 Nothing higher than Me exists, O winner of wealth. Everything in this universe is strung on Me like pearls on a thread.
@@ -761,7 +774,7 @@ If one is endowed with complete faith but is unable to control himself, if his m
 - 10 Know Me to be the eternal seed of all beings, O Partha. I am the intelligence of the intelligent and the splendor of the splendid.
 
 - 11 I am the might of the mighty devoid of lust and passion. I am the desire in all beings which is in accordance with righteousness *(dharma),* O lord of the Bharatas.
-- 12 And whatever states of being there may be, whether harmonious *(sattvic),* passionate *(rajasic),* or slothful *(tamasic),* know that they all stem from Me alone. I am not in them but they are in Me.<sup>2</sup>
+- 12 And whatever states of being there may be, whether harmonious *(sattvic),* passionate *(rajasic),* or slothful *(tamasic),* know that they all stem from Me alone. I am not in them but they are in Me.2
 - 13 Deluded by these three modes of nature, the whole world fails to recognize Me, who am eternal and above them (the modes of nature).
 - 14 Divine indeed is My illusion *(maya),* consisting of the modes *(gunas),* which is hard to escape. Only those who take refuge in Me alone transcend this illusion.
 - 15 Evildoers, the deluded and men of low mentality do not seek refuge in Me. Their minds are carried away by illusion and they are attached to demonic ways.
@@ -790,8 +803,8 @@ If one is endowed with complete faith but is unable to control himself, if his m
 - What is Brahman? What is the individual self? What is karma? What is it that is said to underlie all the material elements? What is it that is said to underlie all the gods, O Supreme Person?
 - 2 In what manner are all sacrifices sustained here in this body, O Madhusudana? And how are you to be known by the self-controlled persons at the hour of death?
 - 3 The Blessed Lord said:
-- Brahman is the Imperishable, the Supreme. One's essential nature is called the individual self.<sup>1</sup> The creative power which brings beings into existence is known by the name *karma.*
-- 4 The basis of all material elements is of perishable nature, the basis of all divine elements is the cosmic spirit *(Purusha),<sup>2</sup>* and I am the basis of all sacrifice here in the body, O best of the embodied.
+- Brahman is the Imperishable, the Supreme. One's essential nature is called the individual self.1 The creative power which brings beings into existence is known by the name *karma.*
+- 4 The basis of all material elements is of perishable nature, the basis of all divine elements is the cosmic spirit *(Purusha),2* and I am the basis of all sacrifice here in the body, O best of the embodied.
 - 5 And whosoever remembers Me alone at the hour of death, when he leaves his body and departs, comes into My state of being—of this there is no doubt.
 - 6 Whatever state of being one thinks of while leaving his body at the time of death, he goes into that state of being,3 O son of Kunti, and is ever absorbed in that state.
 - 7 Therefore, think of Me at all times and fight. With your mind and spirit set on Me alone, you shall definitely come to Me.
@@ -800,12 +813,12 @@ If one is endowed with complete faith but is unable to control himself, if his m
 - 9 He who meditates on the ancient seer, the ruler, who is smaller than the atom, who is the supporter of all, whose form is incomprehensible, and who is bright like the sun, beyond the darkness;
 - 10 He who meditates at the hour of death, with a steady mind filled with devotion and the strength of yoga, setting his vital breath *(prana)* between his eyebrows, he reaches the resplendent Supreme Person.
 - 11 I shall briefly describe to you that state which the knowers of the Vedas call the Imperishable, into which the ascetics freed from passion enter, and desiring which they follow a life of self-control.
-- 12-13 By firmly controlling all the avenues of the senses, by confining the mind within the heart,<sup>4</sup> and by drawing the life force into the head, he who is wellestablished in the practice of yoga, uttering the syllable "Om" which is Brahman, and meditating on Me as he departs, giving up his body, he goes to the Supreme Goal.
+- 12-13 By firmly controlling all the avenues of the senses, by confining the mind within the heart,4 and by drawing the life force into the head, he who is wellestablished in the practice of yoga, uttering the syllable "Om" which is Brahman, and meditating on Me as he departs, giving up his body, he goes to the Supreme Goal.
 - 14 I am easy to reach for the yogi who is ever disciplined and who meditates on Me constantly with no other thoughts, O Partha.
 - 15 Having come to Me and having reached the highest perfection, these great souls are no more subject to rebirth, which is transitory and an abode of pain.
 - 16 From the realm of Brahma downward, the dwellers in all the worlds are subject to successive births, O Arjuna, but those who reach Me are not born again, O son of Kunti.
 
-- 17 Those who know that the day of Brahma lasts thousands of eons,<sup>5</sup> and that the night of Brahma ends only after thousands of eons, they are the knowers of night and day.
+- 17 Those who know that the day of Brahma lasts thousands of eons,5 and that the night of Brahma ends only after thousands of eons, they are the knowers of night and day.
 - 18 At the dawn of the day, all manifestations are born from the unmanifest; and at nightfall, they dissolve again into that which is called the unmanifest.
 - 19 The same multitude of beings, coming into existence again and again, are dissolved helplessly at nightfall, O Partha, and come into existence again at the dawn of the day.
 - 20 But beyond the unmanifest, there is yet another unmanifest Eternal Being, who does not perish even when all beings perish.
@@ -825,7 +838,7 @@ If one is endowed with complete faith but is unable to control himself, if his m
 
 - 1 The Blessed Lord said:
  - To you, who do not disbelieve, I shall declare this most profound secret of wisdom accompanied by knowledge and discrimination. Once having learned this, you shall be released from evil.
-- 2 This is the royal knowledge<sup>1</sup> , the royal secret, the supreme purifier, which is known by direct experience, conforms to *dharma*, is easy to practice and imperishable.
+- 2 This is the royal knowledge1 , the royal secret, the supreme purifier, which is known by direct experience, conforms to *dharma*, is easy to practice and imperishable.
 - 3 Men who have no faith in this *dharma* fail to reach Me, O scorcher of the foe; rather, they return to the path of the cycle of birth and death (*samsara*).
 - 4 This whole universe is pervaded by Me in My unmanifest form. All beings exist in Me but I do not exist in them.
 - 5 And yet, beings do not exist in Me; behold My majestic power! My spirit which is the source and sustainer of all beings does not exist in them.
@@ -836,12 +849,12 @@ If one is endowed with complete faith but is unable to control himself, if his m
 - 9 And these actions do not bind Me, O conqueror of wealth. I am seated above them as if unconcerned and detached from all this.
 - 10 Under My supervision, material nature gives birth to all things, animate and inanimate; and for this reason, O son of Kunti, the universe revolves.
 - 11 Not knowing My higher nature as the Supreme Lord of all beings, the deluded disregard Me when I assume a human form;
-- 12 Being devoid of judgment and clinging to the deceptive nature of fiends and demons,<sup>2</sup> all their hopes, their actions, and their knowledge are in vain.
+- 12 Being devoid of judgment and clinging to the deceptive nature of fiends and demons,2 all their hopes, their actions, and their knowledge are in vain.
 - 13 But the great souls abiding in the divine nature, O Partha, worship Me singlemindedly, knowing Me as the eternal source of all beings.
 - 14 Ever glorifying Me and striving with firm resolve, bowing before Me in adoration, they worship Me devoutly.
 - 15 Others, offering the oblation of knowledge, worship Me as the one or as the distinct or as the many, facing in all directions.
 - 16 I am the ritual, I am the sacrifice, I am the oblation to the ancestors, I am the medicinal herb, I am the sacred chant, I am the clarified butter, and I am both the fire and the offering.
-- 17 I am the father of this universe, the mother, the guardian, the grandfather, the object of knowledge, the purifier, the sacred syllable *Om*. I am also the Rik, the Sama, and the Yajus.<sup>3</sup>
+- 17 I am the father of this universe, the mother, the guardian, the grandfather, the object of knowledge, the purifier, the sacred syllable *Om*. I am also the Rik, the Sama, and the Yajus.3
 - 18 I am the way, the sustainer, the lord, the witness, the abode, the refuge, and the loving friend. 1 am the origin, the dissolution, the ground, the treasure house, and the imperishable seed.
 - 19 1 radiate heat; I withhold and send forth rain; I am both immortality and death. I am being as well as non-being, O Arjuna.
 
@@ -858,7 +871,7 @@ If one is endowed with complete faith but is unable to control himself, if his m
 - 29 I am impartial toward all beings. There is none hateful or dear to Me. But those who worship Me with devotion are in Me and I am also in them.
 - 30 Even if a man of the most sinful conduct worships Me with single-minded devotion, he must be regarded as righteous, for he has rightly resolved.
 - 31 Swiftly he becomes altogether righteous and attains everlasting peace. Know certainly, O son of Kunti, that My loving devotee never perishes.
-- 32 For those who take refuge in Me, O Partha, even those born of low origin including women, Vaishyas and Shudras<sup>4</sup> —also attain the supreme goal.
+- 32 For those who take refuge in Me, O Partha, even those born of low origin including women, Vaishyas and Shudras4 —also attain the supreme goal.
 - 33 How much more then, the holy Brahmins and the devoted royal seers! Having entered into this impermanent and joyless world, devote yourself to Me.
 - 34 Fix your mind on Me, be devoted to Me, worship Me, bow down to Me. Thus having disciplined yourself, taking Me as the Supreme Goal, you shall come to Me.
 
@@ -871,17 +884,17 @@ If one is endowed with complete faith but is unable to control himself, if his m
 - 2 Neither the hosts of gods nor the great seers know My origin. In reality, I am the source of the gods and the great seers.
 - 3 He who knows Me as the unborn, the beginning less, the mighty Lord of the world, is undeluded among mortals and is liberated from all sins.
 - 4-5 Intelligence, knowledge, freedom from delusion, patience, truth, self-control, tranquillity, pleasure and pain, birth and death, fear and fearlessness, nonviolence, equanimity, contentment, austerity, charity, fame and dishonour, all these different qualities of beings arise from Me alone.
-- 6 The seven great sages of ancient times, as well as the four Manus,<sup>1</sup> are of My nature and were born from My mind. From them, all these creatures in the world have originated.
+- 6 The seven great sages of ancient times, as well as the four Manus,1 are of My nature and were born from My mind. From them, all these creatures in the world have originated.
 - 7 He who truly knows My manifested lordship and power is united with Me by unwavering devotion, of this there is no doubt.
 - 8 I am the source of everything, from Me everything evolves. Knowing this, the wise worship Me, endowed with faith.
 - 9 With their hearts set on Me, their whole lives given to Me, enlightening one another and always speaking of Me, the wise find contentment and delight.
-- 10 To those who are constantly devoted to Me and worship Me with love, 1 grant the yoga of discrimination<sup>2</sup> by which they come to Me.
+- 10 To those who are constantly devoted to Me and worship Me with love, 1 grant the yoga of discrimination2 by which they come to Me.
 
 - 11 Out of compassion for them, I who reside in their hearts destroy the darkness born of ignorance with the shining lamp of wisdom.
 - 12 Arjuna said:
 - You are the supreme Brahman, the Supreme Abode, the Supreme Purifier, the everlasting Divine Spirit, the Primal God, the unborn and all-pervading Lord.
 - 13 All the sages have declared this, the divine seers Narada, Asita, Devala and Vyasa. So also You have told me.
-- 14 All that You have told me I believe to be true, O Keshava. For neither the gods nor the demons know Your manifestations, O Lord.<sup>3</sup>
+- 14 All that You have told me I believe to be true, O Keshava. For neither the gods nor the demons know Your manifestations, O Lord.3
 - 15 You know Yourself through Yourself alone, O Supreme Person, O Creator of beings, O Lord of mankind, O God of gods, O Lord of the universe.
 - 16 Please describe to me completely Your divine manifestations, by which You pervade these worlds and abide in them.
 - 17 How may I know You, O Yogi, by constant meditation? In what forms are you to be thought of by Me, O Blessed Lord?
@@ -889,25 +902,25 @@ If one is endowed with complete faith but is unable to control himself, if his m
 - 19 The Blessed Lord said: I will narrate to you My divine manifestations, but only those that are
  - prominent. O best of the Kurus, for my manifestations are endless.
 - 20 O Gudakesha, I am the self dwelling in the heart of all beings. I am the beginning, the middle and also the end of all beings.
-- 21 Of the Adityas<sup>4</sup> I am Vishnu; of lights I am the radiant sun; of the Maruts<sup>5</sup> I am the Marichi and of the stars I am the moon.
+- 21 Of the Adityas4 I am Vishnu; of lights I am the radiant sun; of the Maruts5 I am the Marichi and of the stars I am the moon.
 
-- 22 Of the Vedas I am the Sama Veda;<sup>6</sup> of the gods I am Indra; of the senses I am the mind; and of the living beings I am consciousness.
-- 23 Of the Rudras<sup>7</sup> I am Shiva; of the Yakshas and Rakshasas8 I am Kubera9 ; of the Vasus10 I am Agni11; and of the mountains I am Meru.
-- 24 Of household priests, O Partha, know Me to be the chief Brihaspati;<sup>12</sup> of the military generals I am Skanda;13 of waters I am the ocean.
+- 22 Of the Vedas I am the Sama Veda;6 of the gods I am Indra; of the senses I am the mind; and of the living beings I am consciousness.
+- 23 Of the Rudras7 I am Shiva; of the Yakshas and Rakshasas8 I am Kubera9 ; of the Vasus10 I am Agni11; and of the mountains I am Meru.
+- 24 Of household priests, O Partha, know Me to be the chief Brihaspati;12 of the military generals I am Skanda;13 of waters I am the ocean.
 - 25 Of the great seers I am Bhrigu; of words I am the sacred syllable *Om*; of sacrifices I am the silent prayer; and of immovable things 1 am the Himalaya.
 - 26 Of all trees I am the sacred fig tree (*Ashvattha*); of the divine seers I am Narada; of the Gandharvas14 I am Chitraratha; and of the perfected ones15 I am Kapila the sage.
 - 27 Of horses know Me to be Ucchaisravas, born of Amrita; of princely elephants I am Airavata; and of men I am the ruler;
 - 28 Of weapons I am the thunderbolt; of cows I am Kamadhuk; of the procreators I am Kandarpa;16 of the serpents 1 am Vasuki.17
-- 29 Of the Nagas18 I am Ananta; of the water creatures I am Varuna; of the ancestors I am Aryama; and of the enforcers of law and order I am Yama.<sup>19</sup>
-- 30 Of the titans I am Prahlada; of measures I am time; of beasts I am the lion; and of birds 1 am Garuda.<sup>20</sup>
+- 29 Of the Nagas18 I am Ananta; of the water creatures I am Varuna; of the ancestors I am Aryama; and of the enforcers of law and order I am Yama.19
+- 30 Of the titans I am Prahlada; of measures I am time; of beasts I am the lion; and of birds 1 am Garuda.20
 - 31 Of purifiers I am the wind; of warriors I am Rama;21 of fishes I am the shark; and of rivers I am the Ganges.
 - 32 Of creations, I am the beginning, the middle and the end, O Arjuna. Of sciences, I am the science of the Supreme Self; and of those who debate, I am reason.
 
-- 33 Of letters I am the letter "A" and of compound words I am the *Dvandva*. <sup>22</sup> I am also the infinite time and the creator facing everywhere.
+- 33 Of letters I am the letter "A" and of compound words I am the *Dvandva*. 22 I am also the infinite time and the creator facing everywhere.
 - 34 I am all-consuming death and I am the source of all beings that are yet to be born; and of the feminine qualities, I am fame, fortune, speech, memory, wisdom, courage and patience.
-- 35 Of the Saman hymns, I am the Brihatsaman;23 of meters I am the Gayatri;24 of months I am Margashirsha;<sup>25</sup> and of seasons I am the flowering spring.
+- 35 Of the Saman hymns, I am the Brihatsaman;23 of meters I am the Gayatri;24 of months I am Margashirsha;25 and of seasons I am the flowering spring.
 - 36 Of the gambler I am the gambling; of the splendid 1 am the splendor; I am victory, I am effort, and I am the goodness of the good.
-- 37 Of the Vrishnis<sup>26</sup> I am Vasudeva;27 of the Pandavas I am Dhananjaya; of the sages I am Vyasa;<sup>28</sup> and of poets, Ushana.
+- 37 Of the Vrishnis26 I am Vasudeva;27 of the Pandavas I am Dhananjaya; of the sages I am Vyasa;28 and of poets, Ushana.
 - 38 Of rulers 1 am the power; of those desirous of victory I am the guidance; of secret things I am the silence; and of the wise I am the wisdom.
 - 39 And that which is the seed of all beings, that am I, O Arjuna; nor is there any being, moving or unmoving, that can exist without Me.
 - 40 There is no end to My divine manifestations, O scorcher of the foe. I have told you this to illustrate My manifold forms.
@@ -929,7 +942,7 @@ If one is endowed with complete faith but is unable to control himself, if his m
 - 7 Behold now the entire universe, with everything moving and unmoving centered in My body, O Gudakesha, and whatever else you desire to see.
 - 8 You cannot see Me with your human eye. I will give you divine sight. Behold My majestic power.
 - 9 Sanjaya said:
-- Having thus spoken, O King,<sup>1</sup> the great Lord of yoga, Hari, revealed to Partha His majestic divine form.
+- Having thus spoken, O King,1 the great Lord of yoga, Hari, revealed to Partha His majestic divine form.
 
 - 10 With many mouths and eyes, with many wondrous aspects, with many divine ornaments, with many divine uplifted weapons;
 - 11 Wearing celestial garlands and robes, with divine perfumes and ointments, made up of all marvels, resplendent, endless and with face turned in all directions;
@@ -955,7 +968,7 @@ If one is endowed with complete faith but is unable to control himself, if his m
 - 30 You lick Your lips, swallowing all the worlds on every side with Your flaming mouths; Your fiery rays fill the whole universe with radiance and scorch it, O Vishnu.
 - 31 Tell me who you are, O Lord of terrible form. Salutations to You and have mercy, O great Godhead. I seek to know You, O Primal One, but I do not comprehend Your ways.
 - 32 The Blessed Lord said:
-- I am the mighty, world-destroying Time<sup>2</sup> now engaged here in annihilating the world. Even without your action, all these warriors standing arrayed in opposing armies shall not survive.
+- I am the mighty, world-destroying Time2 now engaged here in annihilating the world. Even without your action, all these warriors standing arrayed in opposing armies shall not survive.
 - 33 Therefore, stand up and gain glory. Defeat your enemies and enjoy a prosperous kingdom. They have already been slain by Me, so be merely an instrument, O Arjuna.
 - 34 Slay Drona, Bhishma and Jayadratha, Karna, and the other great warriors who have already been killed by Me. Do not hesitate, fight! You shall conquer your enemies in battle.
 - 35 Sanjaya said:
@@ -1033,11 +1046,11 @@ Those who fix their minds on Me, who are disciplined in yoga, and who worship Me
 Arjuna said: "O Keshava, I would like to know about nature (*Prakriti*) and spirit (*Purusha*), the field and the knower of the field, and knowledge and the object of knowledge."
 
 - 1 The Blessed Lord said:
-- This body is called the field,<sup>1</sup> O son of Kunti, and he who knows these things is called the knower of the field by those who know.
-- 2 Know Me as the knower of the field<sup>2</sup> in all fields, O Bharata. The knowledge of the field and its knower I consider to be true knowledge indeed.
+- This body is called the field,1 O son of Kunti, and he who knows these things is called the knower of the field by those who know.
+- 2 Know Me as the knower of the field2 in all fields, O Bharata. The knowledge of the field and its knower I consider to be true knowledge indeed.
 - 3 What the field is and what its properties are, what its modifications are and whence it comes, who he (the knower of the field) is and what his powers are, now hear all this briefly from Me.
 - 4 This has been chanted distinctly many times by the seers both in various sacred hymns and also in well-reasoned and convincing statements on the aphorisms of Brahman.
-- 5 The great elements,<sup>3</sup> the I-consciousness,<sup>4</sup> understanding5 and the unmanifest,6 the ten senses,<sup>7</sup> the mind and the five objects of the senses;<sup>8</sup>
+- 5 The great elements,3 the I-consciousness,4 understanding5 and the unmanifest,6 the ten senses,7 the mind and the five objects of the senses;8
 - 6 Desire, hatred, pleasure, pain, the bodily organism, intelligence, firmness, all this in brief is described as the field with its modifications.
 - 7 Humility, integrity, non-injury, patience, honesty, service to the teacher, purity, constancy and self-control;
 - 8 Detachment from sense-objects, the absence of egotism, and the awareness of the evils of birth, death, old age, sickness and pain;
@@ -1053,7 +1066,7 @@ Arjuna said: "O Keshava, I would like to know about nature (*Prakriti*) and spir
 - 17 He is said to be the light of lights beyond darkness. He is knowledge, the object of knowledge, and the goal of knowledge. He is seated in the hearts of all.
 
 - 18 Thus the field, knowledge and the object of knowledge has been briefly described. My devotee who understands this becomes worthy of My state of being.
-- 19 Know that nature (*Prakriti*) and spirit (*Purusha*) are both beginningless <sup>9</sup> and know also that the modes (*gunas*) and forms are born of nature.
+- 19 Know that nature (*Prakriti*) and spirit (*Purusha*) are both beginningless 9 and know also that the modes (*gunas*) and forms are born of nature.
 - 20 Nature (*Prakriti*) is said to be the cause in the generation of the body and the senses. The spirit (*Purusha*) is said to be the cause of the experience of pleasure and pain.
 - 21 For spirit (*Purusha*), residing in nature {*Prakriti*), experiences the modes (*gunas*) born of nature. Attachment to the modes is the cause of its births in good and eviJ wombs.
 - 22 The Supreme Spirit in the body is called the witness, the approver, the supporter, the experiencer, the great Lord, and also the Highest Self,
@@ -1078,7 +1091,7 @@ Arjuna said: "O Keshava, I would like to know about nature (*Prakriti*) and spir
 - 1 The Blessed Lord said:
 - I shall instruct you again on that supreme knowledge, the highest of all knowledge, by knowing which all the sages have passed from this world to the supreme perfection.
 - 2 Resorting to this knowledge, they have reached My state of being. They are not born at the time of creation, nor do they tremble at the time of dissolution.
-- 3 Great nature is My womb;<sup>1</sup> in it I plant the seed and from it comes the birth of all beings, O Bharata.
+- 3 Great nature is My womb;1 in it I plant the seed and from it comes the birth of all beings, O Bharata.
 - 4 Whatever forms are produced in any womb, O son of Kunti, great nature is their womb and I am the seed-giving father.
 - 5 *Sattva* (goodness), *rajas* (passion) and *tamas* (dullness) are the three *gunas* (modes) born of nature and they bind the imperishable embodied soul (*atman*) in the body, O mighty-armed one
 - 6 Of these, *sattva,* being pure, is luminous and healthy. It binds (the soul), O blameless one, by attachment to joy and attachment to knowledge.
@@ -1108,8 +1121,8 @@ By what sign, O Lord, is he recognized who has passed beyond the three *gunas*? 
 - He does not hate illumination, activity and delusion2 when they are present, nor does he desire them when they are absent, O Pandava.
 - 23 He who is seated indifferently, unperturbed by the *gunas*, knowing that the *gunas* alone are at work, who remains firm and does not waver;
 - 24 He who regards pain and pleasure alike, who dwells in the Self, who looks upon a clod, a stone, and gold as of equal value, who remains the same in happiness or unhappiness, who is firm and sees no difference between blame and praise;
-- 25 He who remains the same in honor and dishonor, who treats friend and foe alike, and who has renounced all undertakings,<sup>3</sup> such a person is said to have risen above the *gunas*.
-- 26 And he who serves Me with faithful devotion,<sup>4</sup> transcending the three *gunas*, is fit to become Brahman.
+- 25 He who remains the same in honor and dishonor, who treats friend and foe alike, and who has renounced all undertakings,3 such a person is said to have risen above the *gunas*.
+- 26 And he who serves Me with faithful devotion,4 transcending the three *gunas*, is fit to become Brahman.
 - 27 For I am the abode of Brahman, the Immortal and the Imperishable, and of eternal *dharma* and absolute bliss.
 
 #### **Chapter Fifteen**
@@ -1134,7 +1147,7 @@ By what sign, O Lord, is he recognized who has passed beyond the three *gunas*? 
 - 14 Becoming the vital fire, entering the bodies of all living beings and uniting with the life breath, I digest four kinds of food.
 - 15 And I have entered into the hearts of all; from Me comes memory, knowledge and reasoning, as well as their loss. It is I who am to be known through all the Vedas. I am the author of the Vedanta and I am indeed the knower of the Vedas.
 - 16 There are two kinds of spirits in the world, the perishable and the imperishable. The perishable encompasses all beings and the imperishable is said to be unchanging.
-- 17 But the highest Spirit is another, called the Supreme Self,<sup>1</sup> who as the everlasting Lord, permeates and sustains the three worlds.
+- 17 But the highest Spirit is another, called the Supreme Self,1 who as the everlasting Lord, permeates and sustains the three worlds.
 
 - 18 Because I transcend the perishable and am even higher than the imperishable, I am celebrated in the world and in the Vedas as the Supreme Person (Purushottama).
 - 19 He who knows Me thus, undeluded, as the Supreme Person, is the knower of all. He worships Me with his whole heart, O Bharata.
@@ -1169,7 +1182,7 @@ By what sign, O Lord, is he recognized who has passed beyond the three *gunas*? 
 
 - 21 The gateway to hell which destroys the soul is threefold: lust, anger and greed. Therefore one should renounce these three.
 - 22 The man who is liberated from these three gates of darkness, O son of Kunti, practices what is good for himself and thereby reaches the highest state
-- 23 He, who casts aside the injunctions of the scriptures<sup>1</sup> and follows his own impulsive desires, reaches neither perfection, nor happiness nor the highest goal.
+- 23 He, who casts aside the injunctions of the scriptures1 and follows his own impulsive desires, reaches neither perfection, nor happiness nor the highest goal.
 - 24 Therefore let the scripture be your authority in deciding what should be done and what should not be done. By knowing what is prescribed by the scriptural injunctions, you should perform your work in this world.
 
 #### **Chapter Seventeen**
@@ -1179,7 +1192,7 @@ By what sign, O Lord, is he recognized who has passed beyond the three *gunas*? 
 - 1 Arjuna said:
 - What position are they in who offer sacrifices filled with faith but ignore the scriptural injunctions, O Krishna? Is it *sattva, rajas* or *lamas?*
 - 2 The Blessed Lord said:
-- Faith<sup>1</sup> is of three kinds in accordance with the innate nature of embodied beings. It is *sattvic, rajasic* or *tamasic*. Now listen.
+- Faith1 is of three kinds in accordance with the innate nature of embodied beings. It is *sattvic, rajasic* or *tamasic*. Now listen.
 - 3 The faith of each person is in accordance with his innate2 disposition, O Bharata. A man is made of his faith and, whatever faith he has, that he becomes.
 - 4 The *sattvic* persons worship the gods, the *rajasic* persons worship demigods and demons, and the *tamasic* worship ghosts and ghouls.
 - 5 Those persons who practice severe austerities which are not sanctioned by the scriptures, impelled by hypocrisy and egotism, and filled with desire, rage and violence;
@@ -1201,7 +1214,7 @@ By what sign, O Lord, is he recognized who has passed beyond the three *gunas*? 
 - 19 That penance, which is performed with foolish obstinacy and self-torture, or with the purpose of ruining another, is declared to be *tamasic.*
 - 20 That gift, which is given to one from whom no favor is expected, and which is given to a worthy person at the right place and time, because it is one's duty to give it, such a gift is held to be *sattvic*.
 - 21 But that gift, which is given for the sake of recompense, or given with the anticipation of a benefit in return, or given grudgingly, is thought to be *rajasic*.
-- 22 That gift which is given contemptuously to an unworthy person at the wrong place<sup>4</sup> and time, without proper respect, that is declared to be tamasic.
+- 22 That gift which is given contemptuously to an unworthy person at the wrong place4 and time, without proper respect, that is declared to be tamasic.
 - 23 "*0m Tat Sat*"—this is recorded as the threefold symbol of Brahman. By this, the Brahmins, the Vedas, and the sacrifices were created in the beginning.
 - 24 Therefore acts of sacrifice, giving gifts and performing penances, as prescribed in the scriptures, are always begun with the utterance of the syllable "*Om*" by the expounders of Brahman.
 - 25 With the utterance of "*Tat*", the rites of sacrifice, penance and various acts of giving are performed by those who aspire to liberation without expecting any reward.

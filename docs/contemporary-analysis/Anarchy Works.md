@@ -1,3 +1,8 @@
+---
+title: "**Peter Gelderloos**"
+category: "contemporary-analysis"
+---
+
 # **Peter Gelderloos**
 
 # **Anarchy Works**
@@ -2000,7 +2005,7 @@ Peaceful Societies around the World, New York: Routledge, 2004, p. 163.
 
 [\[83\]](#page-102-0) Philly's Pissed, [www.phillyspissed.net](http://www.phillyspissed.net/) [Viewed May 20, 2008]
 
-[\[84\]](#page-105-0) George R. Edison, MD, "The Drug Laws: Are They Effective and Safe?" The Journal of the American Medial Association. Vol. 239 No.24, June 16, 1978. A. W. Mac Leod, Recidivism: <sup>a</sup> Deficiency Disease, Philadelphia: University of Pennsylvania Press, 1965.
+[\[84\]](#page-105-0) George R. Edison, MD, "The Drug Laws: Are They Effective and Safe?" The Journal of the American Medial Association. Vol. 239 No.24, June 16, 1978. A. W. Mac Leod, Recidivism: a Deficiency Disease, Philadelphia: University of Pennsylvania Press, 1965.
 
 [\[85\]](#page-105-1) Jamie Bissonette, When the Prisoners Ran Walpole: A True Story in the Movement for Prison Abolition, Cambridge: South End Press, 2008, p. 201. Also consider the stories of John
 

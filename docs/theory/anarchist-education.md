@@ -1,13 +1,8 @@
 ---
-title: Anarchist Education
-date: 2025
-author: Judith Suissa
-tags:
-  - organizing
-  - unions
-  - rent
-  - labor
-  - anarchism
+title: "Anarchist Education"
+author: "Judith Suissa"
+date: "2025"
+category: "theory"
 ---
 
 # Anarchist Education

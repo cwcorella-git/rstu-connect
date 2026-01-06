@@ -1,3 +1,8 @@
+---
+title: "![](_page_0_Picture_0.jpeg)"
+category: "theory"
+---
+
 ![](_page_0_Picture_0.jpeg)
 
 ## **NASA proposes a magnetic shield to protect Mars' atmosphere**
@@ -72,6 +77,6 @@ Source: [Universe Today](http://www.universetoday.com)
 
 ![](_page_3_Picture_0.jpeg)
 
-APA citation: NASA proposes a magnetic shield to protect Mars' atmosphere (2017, March 3) retrieved 1 November 2021 from <https://phys.org/news/2017-03-nasa-magnetic-shield-mars-atmosphere.html>
+APA citation: NASA proposes a magnetic shield to protect Mars' atmosphere (2017, March 3) retrieved 1 November 2021 from 
 
 This document is subject to copyright. Apart from any fair dealing for the purpose of private study or research, no part may be reproduced without the written permission. The content is provided for information purposes only.

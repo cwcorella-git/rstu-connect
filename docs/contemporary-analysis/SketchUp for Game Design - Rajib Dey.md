@@ -1,3 +1,8 @@
+---
+title: "sketchup for Paline DESIGN"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Figure_0.jpeg)
 
 outliner and components
@@ -382,8 +387,8 @@ Sistema de protecció que impedeix el pas d'aigua en forma líquida o de vapor e
 http://www.boe.es/aeboe/consultas/bases\_datos/doc.php?id=BOE-A-2005-5274
 
 - V. Disposiciones para la libre circulación de productos de construcción, en aplicación de la Directiva 8g/so6/CEE (RD s63o/s992, B. O. E.: 9 de febrero de s993) http://www.boe.es/aeboe/consultas/bases\_datos/doc.php?id=BOE-A-1993-3344
-- VI. Ampliación de los anexos I, II y III de la Orden de 29 de noviembre de 2001, por la que se publican las referencias a las normas UNE que son transposición de normas armonizadas, así como el período de coexistencia y la entrada en vigor del marcado CE relativo a varias familias de productos de construcción (Resolución de 13 de mayo de 2008,B. O. E.; 2 de junio de 2008) <a href="http://www.boe.es/boe/dias/2008/06/02/pdfs/A25457-25480.pdf">http://www.boe.es/boe/dias/2008/06/02/pdfs/A25457-25480.pdf</a>
-- VII. RL-88 (Pliego General de Condiciones para la Recepción de los Ladrillos Cerámicos en las Obras de Construcción, B. O. E. 3 agosto). <a href="http://www.boe.es/aeboe/consultas/bases\_datos/doc.php?id=BOE. Atos88.19100">http://www.boe.es/aeboe/consultas/bases\_datos/doc.php?id=BOE. Atos88.19100</a>
+- VI. Ampliación de los anexos I, II y III de la Orden de 29 de noviembre de 2001, por la que se publican las referencias a las normas UNE que son transposición de normas armonizadas, así como el período de coexistencia y la entrada en vigor del marcado CE relativo a varias familias de productos de construcción (Resolución de 13 de mayo de 2008,B. O. E.; 2 de junio de 2008) http://www.boe.es/boe/dias/2008/06/02/pdfs/A25457-25480.pdf
+- VII. RL-88 (Pliego General de Condiciones para la Recepción de los Ladrillos Cerámicos en las Obras de Construcción, B. O. E. 3 agosto). http://www.boe.es/aeboe/consultas/bases\_datos/doc.php?id=BOE. Atos88.19100
 - VIII. NBE FL-90 Muros resistentes de fábrica de ladrillo (RD 1723/1990, de 20 de Diciembre).
 - IX. NBE-CT-79. Condiciones térmicas en los edificios. (RD 2429/1979, de 6 de Julio).
 - X. NBE-CA-81. Condiciones acústicas de los edificios y modificaciones posteriores. (RD 1909/1981, de 24 de Julio).
@@ -580,9 +585,9 @@ issue of Popular Woodworking Magazine. The first image (at right) is the illust 
 | NO. ITEM | DIMENSIONS (INCHES) | | | MATERIAL | COMMENTS |
 |-------------------|---------------------|-----|------------|----------|-------------------------|
 | | т | w | L | | |
-| □ 2 Ends | <sup>13</sup> /16 | 10 | 31 | QSWO* | |
-| ☐ 1 Lower shelf | <sup>13</sup> /16 | 8 | $33^{5/8}$ | QSWO | 1 <sup>3</sup> /4" TBE* |
-| ☐ 2 Upper shelves | <sup>13</sup> /16 | 4 | $33^{5/8}$ | QSWO | 1 <sup>3</sup> /4" TBE |
+| □ 2 Ends | 13 /16 | 10 | 31 | QSWO* | |
+| ☐ 1 Lower shelf | 13 /16 | 8 | $33^{5/8}$ | QSWO | 1 3 /4" TBE* |
+| ☐ 2 Upper shelves | 13 /16 | 4 | $33^{5/8}$ | QSWO | 1 3 /4" TBE |
 | □ 8 Keys | 5/8 | 5/8 | 5 | QSWO | Trim after fitting |
 
 When I built the piece, I worked from a Sketch Up model. I did make some prints from the model to use as a reference in the shop, but what I find useful when building doesn't look like a t raditional drawing. After completing the model, I navigate to an empt y area and drag parts of the model from the components window into the model space. This is a simple piece with few parts, but I use the same approach with more complex projects. When the parts are in the model, I move and rotate them so that they are in the same neighborhood. What I'm after is an arrangement where I can clearly see the size and shape of each part.

@@ -1,10 +1,15 @@
+---
+title: "## [en.wikipedia.org](https://en.wikipedia.org/wiki/Satyagraha)"
+category: "contemporary-analysis"
+---
+
 ## [en.wikipedia.org](https://en.wikipedia.org/wiki/Satyagraha)
 
 ## **Satyagraha**
 
 ## Contributors to Wikimedia projects
 
-21–26 minutes
+21-26 minutes
 
 ## From Wikipedia, the free encyclopedia
 
@@ -12,9 +17,9 @@
 
 [Mahatma Gandhi](https://en.wikipedia.org/wiki/Mahatma_Gandhi) leading the famous 1930 [Salt March,](https://en.wikipedia.org/wiki/Salt_March) a notable example of satyagraha.
 
-**Satyāgraha** (from [Sanskrit:](https://en.wikipedia.org/wiki/Sanskrit_language) स�यागरह् ; satya: "truth", āgraha: "insistence" or "holding firmly to"), or "holding firmly to truth",[\[1\]](about:reader?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSatyagraha#cite_note-1) or "truth force", is a particular form of [nonviolent resistance](https://en.wikipedia.org/wiki/Nonviolent_resistance) or [civil resistance.](https://en.wikipedia.org/wiki/Civil_resistance) Someone who practises satyagraha is a **satyagrahi**.
+**Satyāgraha** (from [Sanskrit:](https://en.wikipedia.org/wiki/Sanskrit_language) सयागरह् ; satya: "truth", āgraha: "insistence" or "holding firmly to"), or "holding firmly to truth",[\[1\]](about:reader?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSatyagraha#cite_note-1) or "truth force", is a particular form of [nonviolent resistance](https://en.wikipedia.org/wiki/Nonviolent_resistance) or [civil resistance.](https://en.wikipedia.org/wiki/Civil_resistance) Someone who practises satyagraha is a **satyagrahi**.
 
-The term satyagraha was coined and developed by [Mahatma](https://en.wikipedia.org/wiki/Mahatma_Gandhi) [Gandhi](https://en.wikipedia.org/wiki/Mahatma_Gandhi) (1869–1948[\)\[2\]](about:reader?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSatyagraha#cite_note-Majmudar_p38-2) as early as 1919[.\[3\]](about:reader?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSatyagraha#cite_note-3) Gandhi practised satyagraha as part of the [Indian independence movement](https://en.wikipedia.org/wiki/Indian_independence_movement) and
+The term satyagraha was coined and developed by [Mahatma](https://en.wikipedia.org/wiki/Mahatma_Gandhi) [Gandhi](https://en.wikipedia.org/wiki/Mahatma_Gandhi) (1869-1948[\)\[2\]](about:reader?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSatyagraha#cite_note-Majmudar_p38-2) as early as 1919[.\[3\]](about:reader?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSatyagraha#cite_note-3) Gandhi practised satyagraha as part of the [Indian independence movement](https://en.wikipedia.org/wiki/Indian_independence_movement) and
 
 ## 1 of 17 7/23/25, 6:51 PM
 

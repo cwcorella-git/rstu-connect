@@ -1,3 +1,8 @@
+---
+title: "## **Humanitarian aid is brought only by volunteers: a refugee about self-organization in occupied K"
+category: "labor"
+---
+
 ## **Humanitarian aid is brought only by volunteers: a refugee about self-organization in occupied Kherson**
 
 ## **Date:** Unknown

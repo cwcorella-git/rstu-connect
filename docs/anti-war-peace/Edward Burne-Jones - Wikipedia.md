@@ -1,3 +1,8 @@
+---
+title: "**Edward Burne-Jones**"
+category: "anti-war-peace"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Edward_Burne-Jones)
 
 # **Edward Burne-Jones**
@@ -18,15 +23,20 @@
 
 ## **Born** Edward Coley Burne Jones
 
-| | 28 August 1833<br>Birmingham, England |
+| | 28 August 1833
+Birmingham, England |
 |--------------|----------------------------------------------|
-| Died | 17 June 1898 (aged<br>64)<br>London, England |
-| Known<br>for | Painting |
+| Died | 17 June 1898 (aged
+64)
+London, England |
+| Known
+for | Painting |
 | Movement | • Pre-Raphaelite Brotherhood |
 | | • Aesthetic Movement |
 | | • Arts and Crafts Movement |
 | Spouse | Georgiana Mac Donald |
-| | (m.<br>1860) |
+| | (m.
+1860) |
 | Partner | Maria Zambaco (1866–1869) |
 | Relatives | • Philip Burne-Jones (son) |
 | | • John William Mackail (son-in-law) |
@@ -545,7 +555,8 @@ All at [Smarthistory](https://en.wikipedia.org/wiki/Smarthistory)[\[45\]](#page-
 
 | Baronetage of the United Kingdom | | | |
 |----------------------------------|----------------------------|-----------------|--|
-| New | Baronet | Succeeded<br>by | |
+| New | Baronet | Succeeded
+by | |
 | creation | (of Rottingdean and of the | Philip Burne | |
 | | Grange) | Jones | |
 ## | | 1894–1898 | | |

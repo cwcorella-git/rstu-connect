@@ -1,18 +1,10 @@
 ---
-title: 100 Years Ago The Philadelphia Dockers Strike And Local 8 Of The Iww
-author: Mouvement Communiste
-slug: >-
-  100 Years Ago The Philadelphia dockers strike and Local 8 of the IWW -
-  Mouvement Communiste and Kole
-reconversion_status: ready_for_reconversion
-date: 1918
-tags:
-  - labor
-  - strikes
-  - unions
-  - rent
-  - police
+title: "100 Years Ago The Philadelphia Dockers Strike And Local 8 Of The Iww"
+author: "Mouvement Communiste"
+date: "1918"
+category: "labor"
 ---
+
 ## **100 Years Ago: The Philadelphia dockers strike and Local 8 of the IWW - Mouvement Communiste and Kolektivn**■ **proti Kapit**■**lu**
 
 ## **Date:** Unknown
@@ -240,11 +232,15 @@ The example of Local 8 that we have tried to present in the most nuanced possibl
 | 11 years 6 months ago |
 | In reply to Welcomebylibcom.org |
 | Interesting info on IWW and a no strike policy during the first world war. |
-| Worse still, at the beginning of April 1917, Fletcher, Nef and Walsh held a meeting in the Local<br>8 office, in front of 600 militants, where they called for no strikes for the duration of the war. If<br>Local 8 went on strike, as in all years apart from 1918, on 16 May, to celebrate the strike of<br>1913, it was the only strike during the war. |
+| Worse still, at the beginning of April 1917, Fletcher, Nef and Walsh held a meeting in the Local
+8 office, in front of 600 militants, where they called for no strikes for the duration of the war. If
+Local 8 went on strike, as in all years apart from 1918, on 16 May, to celebrate the strike of
+1913, it was the only strike during the war. |
 | Oliver Twister |
 | 11 years 6 months ago |
 | In reply to Welcomebylibcom.org |
-| Is three leading militants calling for no strikes the same as a "no-strike policy"? I'm not sure.<br>Definitely depends on the union and just how influential the "leading militants" are. |
+| Is three leading militants calling for no strikes the same as a "no-strike policy"? I'm not sure.
+Definitely depends on the union and just how influential the "leading militants" are. |
 | Also, what did they actually say? |
 ## | Wobbly |
 

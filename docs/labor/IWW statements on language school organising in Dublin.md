@@ -1,3 +1,8 @@
+---
+title: "## **IWW statements on language school organising in Dublin**"
+category: "labor"
+---
+
 ## **IWW statements on language school organising in Dublin**
 
 ## **Date:** Unknown

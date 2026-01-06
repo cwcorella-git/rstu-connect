@@ -1,16 +1,10 @@
 ---
-title: How Nonviolence Protects The State
-slug: How Nonviolence Protects the State
-reconversion_status: ready_for_reconversion
-author: Peter Gelderloos
-date: '2007'
-tags:
-  - theory
-  - anarchism
-  - strikes
-  - unions
-  - tenants
+title: "How Nonviolence Protects The State"
+author: "Peter Gelderloos"
+date: "2007"
+category: "theory"
 ---
+
 ## **Peter Gelderloos**
 
 # **How Nonviolence Protects the State**
@@ -703,7 +697,7 @@ With enough bold, empowering resistance, we can move beyond small victories to a
 
 [\[2\]](#page-2-0) Because it may be presumptuous to refer to someone who is not engaged in open conflict with the state as a revolutionary, I define a revolutionary activist as someone who, at the least, is building toward the point when such a conflict is practical. Some people have qualms with the term activist, or associate it with reformist types of activism. To avoid being too particular about words and terminology, I will ask readers simply to receive this term in the best possible way.
 
-[\[3\]](#page-3-1) This particular list comes from an article written by Spruce Houser (Spruce Houser, "Domestic Anarchist Movement Increasingly Espouses Violence," Athens News, August 12, 2004, http://athensnews.com/index.php?action=viewarticle&section=archive&story\_id=17497), a peace activist and self-proclaimed anarchist. I have seen these same putative victories declared by other pacifists time and again.
+[\[3\]](#page-3-1) This particular list comes from an article written by Spruce Houser (Spruce Houser, "Domestic Anarchist Movement Increasingly Espouses Violence," Athens News, August 12, 2004, http://athensnews.com/index.php?action=viewarticle§ion=archive&story\_id=17497), a peace activist and self-proclaimed anarchist. I have seen these same putative victories declared by other pacifists time and again.
 
 [\[4\]](#page-3-2) Hell NYC, 2/15: The Day the World Said No to War (Oakland, CA: AK Press, 2003). This book gives one a feel for the way peace activists celebrate these protests.
 
@@ -797,7 +791,7 @@ www.playboy.com/arts-entertainment/features/mlk/index.html.
 - [\[63\]](#page-18-0) Personal e-mail to author, December 2003.
 - [\[64\]](#page-19-0) David Cortright, "The Power of Nonviolence," The Nation, February 18, 2002, http:// www.thenation.com/doc/20020218/cortright. This article attributes a one-word quote to Cesar Chavez, but it is left to white pacifists to explain the meaning and implementation of nonviolent strategies.
 - [\[65\]](#page-19-1) Bob Irwin and Gordon Faison, "Why Nonviolence? Introduction to Theory and Strategy," Vernal Project, 1978, http://www.vernalproject.org/OPapers/WhyNV/Why Nonviolence2.html.
-- [\[66\]](#page-19-2) Staughton Lvnd and Alice Lynd, Nonviolence in America: <sup>A</sup> Documentary History (Maryknoll, New York: Orbis Books, 1995).
+- [\[66\]](#page-19-2) Staughton Lvnd and Alice Lynd, Nonviolence in America: A Documentary History (Maryknoll, New York: Orbis Books, 1995).
  - [\[67\]](#page-19-3) Quotes from white organizers at the time, in Ward Churchill, Pacifism as Pathology. 60–62.
 - [\[68\]](#page-20-0) Art Gish, "Violence/Nonviolence" (panel discussion, North American Anarchist Conference, Athens, OH, August 13, 2004).
  - [\[69\]](#page-20-1) Tani and Sera, False Nationalism, 101—102.
@@ -1020,7 +1014,7 @@ Washington, DC, September 20, 2001); http://www.whitehouse.gov/news/releases/200
 
 [\[190\]](#page-66-1) Borum and Tilby, "Anarchist Direct Actions," 220.
 
-[\[191\]](#page-67-0) As of January 2006, 88 percent of Sunnis in Iraq and 41 percent of Shiites admit that they approve of attacks on US-led forces (Editor & Publisher, "Half of Iraqis Back Attacks on US," reprinted in Asheville Global Report, no. 369 [February 9–15, 2006]: http://www.agrnews.org/?section=archives&cat\_id=13&section\_id=10&briefs=true). It is possible that, given the climate of political repression in Iraq, the actual percentages are higher but many did not wish to disclose their support for the insurgency to pollsters. In August 2005, 82 percent of Iraqis said they "strongly oppose" the presence of occupation troops, according to a secret British military poll that was leaked to the press. The same percentage reported that they wanted US troops out of their country in a May 2004 poll taken by the Coalition Provisional Authority (Thomas E. Ricks, "82 Percent of Iraqis Oppose US Occupation," Washington Post (May 13, 2004): http:// www.globalpolicy.org/ngos/advocacy/protest/iraq/2004/0513poll.htm). However, these days it is hard to talk about an Iraqi resistance, because Western media coverage would have us believe the only thing going on is the sectarian bombing of civilians. The strong possibility exists that these bombings are orchestrated by the occupiers, though from our current vantage we really cannot know what is going on in the resistance. Suffice it to say, most Iraqi resistance groups have taken a position against killing civilians, and it is to these groups that I refer. I wrote more on the possibility of US involvement in sectarian killings in "An Anarchist Critique of the Iraq War," available on www.signalfire.org.
+[\[191\]](#page-67-0) As of January 2006, 88 percent of Sunnis in Iraq and 41 percent of Shiites admit that they approve of attacks on US-led forces (Editor & Publisher, "Half of Iraqis Back Attacks on US," reprinted in Asheville Global Report, no. 369 [February 9–15, 2006]: http://www.agrnews.org/?section=archives&cat\_id=13§ion\_id=10&briefs=true). It is possible that, given the climate of political repression in Iraq, the actual percentages are higher but many did not wish to disclose their support for the insurgency to pollsters. In August 2005, 82 percent of Iraqis said they "strongly oppose" the presence of occupation troops, according to a secret British military poll that was leaked to the press. The same percentage reported that they wanted US troops out of their country in a May 2004 poll taken by the Coalition Provisional Authority (Thomas E. Ricks, "82 Percent of Iraqis Oppose US Occupation," Washington Post (May 13, 2004): http:// www.globalpolicy.org/ngos/advocacy/protest/iraq/2004/0513poll.htm). However, these days it is hard to talk about an Iraqi resistance, because Western media coverage would have us believe the only thing going on is the sectarian bombing of civilians. The strong possibility exists that these bombings are orchestrated by the occupiers, though from our current vantage we really cannot know what is going on in the resistance. Suffice it to say, most Iraqi resistance groups have taken a position against killing civilians, and it is to these groups that I refer. I wrote more on the possibility of US involvement in sectarian killings in "An Anarchist Critique of the Iraq War," available on www.signalfire.org.
 
 [\[192\]](#page-67-1) Martin Oppenheimer, The Urban Guerrilla (Chicago: Quadrangle Books, 1969), 141–142.
 
@@ -1046,7 +1040,7 @@ Washington, DC, September 20, 2001); http://www.whitehouse.gov/news/releases/200
 
 [\[203\]](#page-71-0) Spruce Houser, "Violence/Nonviolence" panel discussion. Houser is a self-proclaimed anarchist and pacifist.
 
-[\[204\]](#page-71-1) Houser, "Domestic Anarchist Movement Increasingly Espouses Violence," http:// athensnews.com/index.php?action=viewarticle&section=archives&story\_id=17497. In true pacifist form, Houser submitted his article to the Athens News in preparation for the coming North American Anarchist Conference, in an attempt to bolster pacifism by turning local public opinion against the "violent anarchists." He meekly protests the fact that his article was turned by the corporate media into propaganda against the entire anarchist movement with a handwritten note, scrawled on the many photocopies of the article he handed out, stating that his original title was "Anarchism and Violence," but the editor changed it.
+[\[204\]](#page-71-1) Houser, "Domestic Anarchist Movement Increasingly Espouses Violence," http:// athensnews.com/index.php?action=viewarticle§ion=archives&story\_id=17497. In true pacifist form, Houser submitted his article to the Athens News in preparation for the coming North American Anarchist Conference, in an attempt to bolster pacifism by turning local public opinion against the "violent anarchists." He meekly protests the fact that his article was turned by the corporate media into propaganda against the entire anarchist movement with a handwritten note, scrawled on the many photocopies of the article he handed out, stating that his original title was "Anarchism and Violence," but the editor changed it.
 
 [\[205\]](#page-71-2) Burt Green, "The Meaning of Tiananmen," Anarchy: A Journal of Desire Armed, no. 58 (Fall-Winter 2004): 44.
 

@@ -1,10 +1,17 @@
+---
+title: "## **you've been traumatized into hating reading (and it makes you easier to oppress).**"
+category: "contemporary-analysis"
+---
+
 ## **you've been traumatized into hating reading (and it makes you easier to oppress).**
 
-| Date: 2024-02-15<br>Source: https://www.threadings.io/youve-been-traumatized-into-hating/|
+| Date: 2024-02-15
+Source: https://www.threadings.io/youve-been-traumatized-into-hating/|
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | introduction: |
 | We begin with a morsel from Toni Morrison, great Black American author: |
-| The point is so that it doesn't look like it's sweating, like that effort, you see? It must appear<br>effortless! No matter what the style, it must have that. I mean, the seams can't show. |
+| The point is so that it doesn't look like it's sweating, like that effort, you see? It must appear
+effortless! No matter what the style, it must have that. I mean, the seams can't show. |
 | —Toni Morrison, interviewed by Jane Bakerman for |
 | Black American Literature Forum's |
 | Summer 1978 issue |
@@ -36,8 +43,12 @@ I write to you today because I have apparently made it look easy. There's a cade
 | but because it's |
 | cheap |
 | analysis. The better question is: |
-| Why do I, among so many, have a knee-jerk reaction of doubt, disbelief, and anger when<br>someone asks me to read? |
-| I announce myself as the narrator as I compete with for your attention for the next… forty<br>minutes or so. Hello, my name is ismatu; I am a poet; I am writing a persuasive essay. I am<br>doing you a favor announcing these things to you rather than silently wiggling into your brain<br>to change your mind and have |
+| Why do I, among so many, have a knee-jerk reaction of doubt, disbelief, and anger when
+someone asks me to read? |
+| I announce myself as the narrator as I compete with for your attention for the next… forty
+minutes or so. Hello, my name is ismatu; I am a poet; I am writing a persuasive essay. I am
+doing you a favor announcing these things to you rather than silently wiggling into your brain
+to change your mind and have |
 | you |
 | think it was |
 | your |
@@ -65,11 +76,14 @@ We have four central theses interwoven throughout the essay. Challenge yourself 
 | The reason you hate reading is because the ruling class benefits from illiteracy. |
 | Not |
 | total |
-| illiteracy, mind you. That's bad for business. The ruling class (law and policy makers, oligarch<br>businessmen, celebrity, hedge fund managers buying up single-family housing, etc.) want you<br>literate enough to be able to work |
+| illiteracy, mind you. That's bad for business. The ruling class (law and policy makers, oligarch
+businessmen, celebrity, hedge fund managers buying up single-family housing, etc.) want you
+literate enough to be able to work |
 | for |
 | them, but not |
 | so |
-| literate that you realize how badly the working class gets fucked over in this world-making.<br>Read enough to be able to consume and to execute, not to consider critically, certainly not |
+| literate that you realize how badly the working class gets fucked over in this world-making.
+Read enough to be able to consume and to execute, not to consider critically, certainly not |
 
 enough to create. Because then what? A mass of people realizing we can create and recreate everything we see and touch to something kinder for us?
 
@@ -83,12 +97,19 @@ Countless journalism, podcast projects, quantitative and qualitative research de
 | . We know! We know that illiteracy— the inability to read, or the inability to read |
 | well enough to have it serve you |
 | — we know it's a massive problem. An epidemic of sorts. We're simply too exhausted to care. |
-| I'm not spending time analyzing data here. Others have already done it— for my purposes, it's<br>kinda useless— not that data analysis is useless, but that . Why? |
+| I'm not spending time analyzing data here. Others have already done it— for my purposes, it's
+kinda useless— not that data analysis is useless, but that . Why? |
 | (I'm saying this as a trained therapist, okay? Deep breath.) |
-| Your relationship with reading is more than likely a direct result of your experiences with<br>authority figures as a child. |
+| Your relationship with reading is more than likely a direct result of your experiences with
+authority figures as a child. |
 | In a |
 | great |
-| many iterations. If you were lauded for reading, put on a pedestal in front of your peership, it<br>might be stress-inducing to return to work the muscles you know have atrophied. Are you still<br>good or worthy of help if you cannot read voraciously, like you did as a child? If you were<br>labeled a problem, difficult in class, slow… I bless and keep you. Worse, if you were made to<br>feel less than because of your reading ability (unintelligent. burdensome. a waste of space.<br>bound for prison) then you likely have a literal stress-response when someone mentions or |
+| many iterations. If you were lauded for reading, put on a pedestal in front of your peership, it
+might be stress-inducing to return to work the muscles you know have atrophied. Are you still
+good or worthy of help if you cannot read voraciously, like you did as a child? If you were
+labeled a problem, difficult in class, slow… I bless and keep you. Worse, if you were made to
+feel less than because of your reading ability (unintelligent. burdensome. a waste of space.
+bound for prison) then you likely have a literal stress-response when someone mentions or |
 
 suggests reading to you. Reading is a site of trauma your body holds onto for most of us.
 
@@ -99,8 +120,11 @@ Anyone that suggests reading must not understand what
 | went through. Every objection imaginable will materialize when someone suggests that you |
 | try |
 | to read. |
-| This is why I think the data here is irrelevant to spurring anyone to real action. You can't just<br>brute force your way through a trauma response. |
-| Many of us were given reading as homework exclusively— never as a fun or revolutionary<br>tool, a tool of imagination— so it often feels like drudgery, even still. None of us have a neutral<br>experience with the discipline of reading and |
+| This is why I think the data here is irrelevant to spurring anyone to real action. You can't just
+brute force your way through a trauma response. |
+| Many of us were given reading as homework exclusively— never as a fun or revolutionary
+tool, a tool of imagination— so it often feels like drudgery, even still. None of us have a neutral
+experience with the discipline of reading and |
 | that is by design. |
 | We live in a world ran and ruled by the written word. Similar to money, right? The tool |
 | itself |
@@ -115,27 +139,37 @@ However, in this iteration of world-making, proper literacy in reading and writi
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Which means: |
 | If the empire wanted you to have a good relationship with reading, they would ensure one. |
-| Just look at Cuba, beating our US adult literacy rates despite decades of overt economic<br>warfare. |
+| Just look at Cuba, beating our US adult literacy rates despite decades of overt economic
+warfare. |
 | Your relationship with reading is fucked up because burning books is a bad look. |
 | The empire utilizes overt, violent oppression like that as a |
 | last |
-| resort, because it makes it near impossible to seamlessly convince people they are not<br>oppressed. And to hide an empire like this? Of this size? People need to not know. |
-| Editor's note: where else is the empire seamless in their oppression? Look for those threads<br>everywhere. |
-| The far easier route: traumatize the kids. Make them hate reading. Tie plenty of guilt, shame,<br>and fear in the process of returning to reading in adulthood. Make them feel like it's an innate<br>talent— you have it or you don't— rather than a skill you need to learn, hone, and practice.<br>You never have to |
+| resort, because it makes it near impossible to seamlessly convince people they are not
+oppressed. And to hide an empire like this? Of this size? People need to not know. |
+| Editor's note: where else is the empire seamless in their oppression? Look for those threads
+everywhere. |
+| The far easier route: traumatize the kids. Make them hate reading. Tie plenty of guilt, shame,
+and fear in the process of returning to reading in adulthood. Make them feel like it's an innate
+talent— you have it or you don't— rather than a skill you need to learn, hone, and practice.
+You never have to |
 | burn |
-| the books if no one ever wants to read them in the first place. And this means you can allow<br>texts that chronicle blueprints for our collective liberation to hang out in |
+| the books if no one ever wants to read them in the first place. And this means you can allow
+texts that chronicle blueprints for our collective liberation to hang out in |
 
 | plain sight |
 |---------------------------------------------------------------------------------------------------------------------------------------|
-| . The internet age is the most collective access to information we have ever had as humans in<br>every iteration of our timeline— and |
+| . The internet age is the most collective access to information we have ever had as humans in
+every iteration of our timeline— and |
 | most of us cannot read it well enough to allow it to change our lives. |
-| I could spend this section pulling numbers and analyzing data, but I don't think that would<br>change much. We |
+| I could spend this section pulling numbers and analyzing data, but I don't think that would
+change much. We |
 | know |
 | it's a problem— we |
 | exist |
 | in and under the consequences. Instead, I want to tell you instead about my life. |
 | why does the narrator, ismatu gwendolyn, like reading? |
-| I was an avid reader as a child as a means of escapism because home was spooky. So I<br>didn't like |
+| I was an avid reader as a child as a means of escapism because home was spooky. So I
+didn't like |
 | reading |
 | , I liked |
 | not feeling |
@@ -153,47 +187,65 @@ what was happening around me. Reading had the same allure as TV or video games Y
 | Inkheart |
 | by Cornelia Funke. Someone just… |
 | made up |
-| the world cast between the pages of this book. Multiple worlds, in fact. What does that mean<br>for this world? How much of |
+| the world cast between the pages of this book. Multiple worlds, in fact. What does that mean
+for this world? How much of |
 
 | my |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | world can I make up? |
 | Listen: the |
 | best |
-| gig in the world is to be a little black girlchild that reads. Everyone is rooting for you all the time<br>and |
+| gig in the world is to be a little black girlchild that reads. Everyone is rooting for you all the time
+and |
 | everyone leaves you alone |
 | ! Nobody asks you no questions. No one |
 | bothers |
-| you with a book in your hand. This was (and is) a great relief to me— even as a bitty little<br>being I was trapped in the body of a girlchild, which means that people always expected me to<br>be socially graceful and kind and extroverted (of which I was none). |
-| Another editor's note: Literacy is just your ability to use a tool fluidly. Wherever there is a<br>human skill, there is literacy: data literacy, social literacy, ecological literacy. I consistently find<br>my generation (Gen-Z) to be high in media literacy and low on aural and written literacy. This<br>essay focuses on literacy within the written word with this in mind. |
+| you with a book in your hand. This was (and is) a great relief to me— even as a bitty little
+being I was trapped in the body of a girlchild, which means that people always expected me to
+be socially graceful and kind and extroverted (of which I was none). |
+| Another editor's note: Literacy is just your ability to use a tool fluidly. Wherever there is a
+human skill, there is literacy: data literacy, social literacy, ecological literacy. I consistently find
+my generation (Gen-Z) to be high in media literacy and low on aural and written literacy. This
+essay focuses on literacy within the written word with this in mind. |
 | Take a breath. |
 | The reason I champion reading is because I am from peoples who cannot read easily. |
 
-| I did not come to reading consistently because the act in itself was easy. I have multiple<br>learning divergences— dyslexia, autism, ADHD. I still ( |
+| I did not come to reading consistently because the act in itself was easy. I have multiple
+learning divergences— dyslexia, autism, ADHD. I still ( |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | still!) |
-| struggle to focus my mind on the page, and at this point I read for a living. I came to reading<br>because |
+| struggle to focus my mind on the page, and at this point I read for a living. I came to reading
+because |
 | not reading was worse. |
-| Not reading meant someone tried impose the role of a girlchild onto me: to rope me into<br>chores, or force me to talk to them, or otherwise engage in ways that felt foreign to me and my<br>body. I didn't know how to answer the questions of my constant discomforts— |
+| Not reading meant someone tried impose the role of a girlchild onto me: to rope me into
+chores, or force me to talk to them, or otherwise engage in ways that felt foreign to me and my
+body. I didn't know how to answer the questions of my constant discomforts— |
 | why |
 | words swam on a page, |
 | why |
 | I couldn't move my body in certain ways, |
 | why |
-| I had to look people in the eyes and speak to them on demand— until early adulthood. I just<br>knew then that reading was safer than pretty much anything else I managed to do poorly. |
-| I also advocate heavily for written-word literacy because I know the reality of illiteracy. My<br>mother spent her life being told she was too unintelligent to realy make something of herself. |
+| I had to look people in the eyes and speak to them on demand— until early adulthood. I just
+knew then that reading was safer than pretty much anything else I managed to do poorly. |
+| I also advocate heavily for written-word literacy because I know the reality of illiteracy. My
+mother spent her life being told she was too unintelligent to realy make something of herself. |
 
 She—brilliant seamstress, prolific orator, hostess, event organizer, master chef (as in fed a
 
-| being able to help me with my homework once I reached the fourth grade in the United States.<br>She knows her letters, so she is not |
+| being able to help me with my homework once I reached the fourth grade in the United States.
+She knows her letters, so she is not |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | completely |
 | illiterate. She is not |
 | fluently literate ( |
-| as in, she has too little practice with the tool of the written word to have it under her full<br>command) |
+| as in, she has too little practice with the tool of the written word to have it under her full
+command) |
 | |
-| I inherited my dyslexia from her. Nobody thought to check for learning disabilities or<br>alternative modes of learning in newly independent Sierra Leone. They just thought— or it<br>was just easier to believe— she was "slow." |
-| My father is from the only tribe indigenous to Sierra Leone. He is an anomaly because he got<br>to pursue his associates degree in the United States. He was a reading |
+| I inherited my dyslexia from her. Nobody thought to check for learning disabilities or
+alternative modes of learning in newly independent Sierra Leone. They just thought— or it
+was just easier to believe— she was "slow." |
+| My father is from the only tribe indigenous to Sierra Leone. He is an anomaly because he got
+to pursue his associates degree in the United States. He was a reading |
 | fool |
 | . Uncommon for his area: he comes from |
 | upline |
@@ -253,21 +305,27 @@ what you don't know will make worlds).
 
 Let's zoom in on that tidbit about teaching and accountability. There's a drop of that last paragraph I left out.
 
-| "I frequently discovered that I was dangerous, a menace, virtually unfit to move the students<br>and myself into certain waters. I would have to go into the classroom and beat them up for not<br>taking me to the wall, for succumbing to mere charm and flesh, when they should have been<br>challenging me, "kicking my ass." |
+| "I frequently discovered that I was dangerous, a menace, virtually unfit to move the students
+and myself into certain waters. I would have to go into the classroom and beat them up for not
+taking me to the wall, for succumbing to mere charm and flesh, when they should have been
+challenging me, "kicking my ass." |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ah. |
 | You all take my word for it WAY too much for my liking |
 | ! |
-| I am able to inject emotion into you from video with a sickening ease. Reading what I write,<br>sans my beautiful speaking voice and pretty face, gives you a moment to taste the words in |
+| I am able to inject emotion into you from video with a sickening ease. Reading what I write,
+sans my beautiful speaking voice and pretty face, gives you a moment to taste the words in |
 | your |
 | mouth to see if you ACTUALLY agree. |
 | This is not to say emotions do not contribute to our sense of knowing. |
 | I did a |
 | whole talk |
-| with Boston Ujima where we as a thinking community highlight our bodies and emotions as<br>important sites of knowledge. I am saying here: |
+| with Boston Ujima where we as a thinking community highlight our bodies and emotions as
+important sites of knowledge. I am saying here: |
 | social media television is designed to embue you with emotion. |
 
-| or agree with the narrator, or listen to the "facts." That's what images and music do for us.<br>They're vehicles of emotion. |
+| or agree with the narrator, or listen to the "facts." That's what images and music do for us.
+They're vehicles of emotion. |
 |----------------------------------------------------------------------------------------------------------------------------------------------|
 | This video is on its way to two million views and I know it's because I was crying. |
 | Feeling with the person on screen is… not |
@@ -275,7 +333,8 @@ Let's zoom in on that tidbit about teaching and accountability. There's a drop o
 | a bad thing. |
 | And |
 | : |
-| your emotions can most definitely be hijacked into buying, supporting, adopting things outside<br>your best interest if you are not careful. |
+| your emotions can most definitely be hijacked into buying, supporting, adopting things outside
+your best interest if you are not careful. |
 | As an educator, I don't |
 | just |
 | want you to feel what I feel. I don't want you to consider me correct because I said it |
@@ -288,15 +347,21 @@ I want to sharpen your critical thinking skills and your world-making capacities
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | with me |
 | without further thought. |
-| The videos of mine that go most viral are ones where I show the most emotion, whatever that<br>emotion is: hopeful, cheery, despondent, grieved, furious, combative. We love emotion. We<br>live such isolated, stifled lives. |
-| The challenge of reading is to navigate the narrative without the overtures of overt feelings.<br>There is no face to latch onto, no music that sways you. Words on a page especially cannot<br>compete with screen-time. They're not |
+| The videos of mine that go most viral are ones where I show the most emotion, whatever that
+emotion is: hopeful, cheery, despondent, grieved, furious, combative. We love emotion. We
+live such isolated, stifled lives. |
+| The challenge of reading is to navigate the narrative without the overtures of overt feelings.
+There is no face to latch onto, no music that sways you. Words on a page especially cannot
+compete with screen-time. They're not |
 | meant |
 | to. The boredom opens up space in your mindscape to your |
 | own |
 | thoughts, opinions, and feelings. |
 | Listen again: reading is |
 | still |
-| uncomfortable in certain seasons of life, especially seasons that require high screen time from<br>me. I still have a week, two weeks go by without reading. I still pick up a book and blink and<br>realize I've spent forty minutes on my phone. I read specifically because I notice how much |
+| uncomfortable in certain seasons of life, especially seasons that require high screen time from
+me. I still have a week, two weeks go by without reading. I still pick up a book and blink and
+realize I've spent forty minutes on my phone. I read specifically because I notice how much |
 
 my brain expands his capacity when I force him into the mode of expansion. Expansion is itchy! It's uncomfortable!! Reading does not always feel good, just like going to the gym or doing your dishes or eat vegetables does not feel good (especially if you haven't done it in a long time) and yet!! I
 
@@ -349,14 +414,19 @@ am indigenous.
 | heavy |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | , considering it was illegal for us to read for most of our existence in the United States.] |
-| (3) I dedicated my undergraduate thesis work to oral history and storytelling because of<br>widespread rural illiteracy in Sierra Leone (my country of origin and also much of my family). |
+| (3) I dedicated my undergraduate thesis work to oral history and storytelling because of
+widespread rural illiteracy in Sierra Leone (my country of origin and also much of my family). |
 | While I would normally use the rebuttal section to grapple with better researched |
 | critiques, I instead must review |
 | my own work |
-| because short-form engagement did not give said critics the time, space, or incentive to root<br>their critiques in research of the author. Because all of the above is publicly available<br>information previous to this. |
+| because short-form engagement did not give said critics the time, space, or incentive to root
+their critiques in research of the author. Because all of the above is publicly available
+information previous to this. |
 | Bite-sized thoughts— especially short form video— convince you that |
 | the whole thing |
-| is right in front of you. I am trapped in an academic zoo, wherein I produce thoughts or<br>emotions or projects what have you and often receive nothing meaningful back. The critique I<br>receive on Tik Tok and Instagram… just… constantly lacks basis. Disappointing! |
+| is right in front of you. I am trapped in an academic zoo, wherein I produce thoughts or
+emotions or projects what have you and often receive nothing meaningful back. The critique I
+receive on Tik Tok and Instagram… just… constantly lacks basis. Disappointing! |
 | Lackluster! |
 | I |
 | like |

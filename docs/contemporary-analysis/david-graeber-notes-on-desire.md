@@ -1,20 +1,8 @@
 ---
-title: Notes on Desire
-author: David Graeber
-date: '2012'
-pubdate: '2021-11-28T18:44:39'
-language: en
-source_url: >-
-  Retrieved on 28<sup>th</sup> November 2021 from
-  [[https://davidgraeber.org/articles/desire/][davidgraeber.org]]
-topics:
-  - notes
-  - desire
-original_format: muse
-converted_date: '2025-11-08T11:25:03.150814'
-tags:
-  - Notes
-  - Desire
+title: "Notes on Desire"
+author: "David Graeber"
+date: "2012"
+category: "contemporary-analysis"
 ---
 
 **David Graeber:** The idea that alienation is a bad thing is a modernist problem. Most philosophical movements—and, by extension, social movements—actually *embrace* alienation. You’re trying to achieve a state of alienation. That’s the ideal if you’re a Buddhist or an early Christian, for example; alienation is a sign that you understand something about the reality of the world.

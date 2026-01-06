@@ -1,3 +1,8 @@
+---
+title: "## **Ovambo migrant workers general strike for rights, Namibia: 1971-72**"
+category: "labor"
+---
+
 ## **Ovambo migrant workers general strike for rights, Namibia: 1971-72**
 
 ## **Date:** Unknown
@@ -58,12 +63,14 @@ Bauer, Gretchen. Labor and Democracy in Namibia, 1971-1996. Athens, OH: Ohio Uni
 
 | Additional Notes: |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| The campaign had an underlying political goal, as well, which was further independence from<br>South African Rule. This goal was never explicitly stated. |
+| The campaign had an underlying political goal, as well, which was further independence from
+South African Rule. This goal was never explicitly stated. |
 | Name of researcher, and date dd/mm/yyyy: |
 | Max Rennebohm 18/10/2009 |
 | Originally posted on theglobal nonviolence action database. |
 | Steven. |
 | 8 years 11 months ago |
 | In reply to Welcomebylibcom.org |
-| Great stuff thanks for posting! Have added this to our working class history calendar to post<br>on its anniversary |
+| Great stuff thanks for posting! Have added this to our working class history calendar to post
+on its anniversary |
 ## | |

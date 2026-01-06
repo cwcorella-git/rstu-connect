@@ -1,13 +1,8 @@
 ---
-title: Anarchism As Extreme Democracy the Anarchist Library
-date: 2025
-author: Wayne Price
-tags:
-  - organizing
-  - unions
-  - rent
-  - police
-  - prisons
+title: "Anarchism As Extreme Democracy the Anarchist Library"
+author: "Wayne Price"
+date: "2025"
+category: "theory"
 ---
 
 # Anarchism As Extreme Democracy the Anarchist Library

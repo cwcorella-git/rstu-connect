@@ -1,3 +1,8 @@
+---
+title: "Take Back the Economy"
+category: "contemporary-analysis"
+---
+
 ## AN ETHICAL GUIDE FOR TRANSFORMING DUR COMMUNITIES
 
 > J. K. GIBSON-GRAHAM **JENNY CAMERON** AND STEPHEN HEALY
@@ -55,11 +60,12 @@ T Uvrsy Ms s qu-ppruy dur d mpyr.
 | | Take Back the Economy xiii Why Now? |
 | | willy Now: |
 | 1. | Reframing the Economy, Reframing Ourselves 1 |
-| 2. | <b>Take Back Work</b> 17 Surviving Well |
-| 3. | <b>Take Back Business</b> 49 Distributing Surplus |
-| 4. | <b>Take Back the Market</b> 85 Encountering Others |
-| 5. | <b>Take Back Property</b> 125<br>Commoning |
-| 6. | <b>Take Back Finance</b> 159 Investing in Futures |
+| 2. | Take Back Work 17 Surviving Well |
+| 3. | Take Back Business 49 Distributing Surplus |
+| 4. | Take Back the Market 85 Encountering Others |
+| 5. | Take Back Property 125
+Commoning |
+| 6. | Take Back Finance 159 Investing in Futures |
 | | Any Time, Any Place 189 |
 | | Notes 199 |
 ## | | Index 215 |
@@ -114,7 +120,7 @@ k
 
 Conscious and reaisica uid or onese, and one's couni and naion, sources o ope.
 
-toas Princen, treadin So: Pa<sup>s</sup> o Ecooica Order
+toas Princen, treadin So: Pas o Ecooica Order
 
 #### Tii Bi
 
@@ -232,7 +238,7 @@ Smg s gvs us p s xrrdry prr m xprms r bg dud rud us. Frm mmuy grds vr wrd Arg's 
 
 Nur s gvs us p. As w udrsd mr bu ur r gg wrd's ur sysms, w r s gg grr kwdg bu rprv dyms sysms. Nur s us
 
-<u>--m-</u>
+--m-
 
 - diversity produces resilience,
 - · maintaining habitats sustains life, and
@@ -284,7 +290,7 @@ Ts bk gvs xmps y sm s rrmg s. Our s gg dr rrmg mks d w mrgs w pp k m mrs r w ds.
 
 #### a Sii i ErET TrES
 
-I 2009, r yrs dvrsg dusry Nw Yrk Cy, S Mk ddd "rb" r d gv smg bk Id, wr s d b brug up. S ddd d s wy ws rv d ggg d ws bsd rsrm g smp dy ru. S pdgd wr drss (uy sv ps sm drss) vry dy yr. A rd dsgd rvrsb bk u mdd r vr drsss. Ad S jzzd up s bk drss dy wu buyg yg w. Hr g ws us y dmd r sdd ssrs grd rm r srs r dd s gs. T Urm Prj<sup>M</sup> ws br.
+I 2009, r yrs dvrsg dusry Nw Yrk Cy, S Mk ddd "rb" r d gv smg bk Id, wr s d b brug up. S ddd d s wy ws rv d ggg d ws bsd rsrm g smp dy ru. S pdgd wr drss (uy sv ps sm drss) vry dy yr. A rd dsgd rvrsb bk u mdd r vr drsss. Ad S jzzd up s bk drss dy wu buyg yg w. Hr g ws us y dmd r sdd ssrs grd rm r srs r dd s gs. T Urm PrjM ws br.
 
 ## Fr 365 dys S psd p r "w u"
 
@@ -342,7 +348,7 @@ Ad w rrmgs r uy mrgg. O w us rugu s bk s r rrmg wrd's s. W r m r w d rs d rd wrd
 
 Fasion, wic usua connes ise o woress ins, was seen or once in e onorae oce o prooin e cause o jusice, uani, and reedo.
 
-toas Carkson, 1808, te hisor o e Rise, Proress, and ccopisen o <sup>e</sup> oiion o e rican Sae-trade gg w ms urs wrd ppry k ("dvpm") d br sr prgrss y vry sm umbr s v vd (w sdrb gv squs r vrm d r pp r prs wrd).
+toas Carkson, 1808, te hisor o e Rise, Proress, and ccopisen o e oiion o e rican Sae-trade gg w ms urs wrd ppry k ("dvpm") d br sr prgrss y vry sm umbr s v vd (w sdrb gv squs r vrm d r pp r prs wrd).
 
 I ry 1990s, Bgds pgrpr Sdu Am pr psd dr rmgy s bm wdy dpd mjry (d mry) wrds. Rr rprsg mjr y umkd rms w y k, Am suggsd w rp rms "rd wrd" d "LDCs" w ss judgm, mr dsrpv rm "mjry wrd." I s grz, "mr y wrd" rrs r umkd s rvy w . Ts rrmg s rdy rmdr rspsby ms w bg pr mry wrd— b wrd's sv b pp w v urs wr pr p m s mr US\$12,195 per year.
 
@@ -379,8 +385,13 @@ E um dvrs my gur rprss dr sp my—br prs, busss rprss, rs s gds d srvs, prpry wr
 | TE iv ErSE Em | | | | | | | |
 |---------------------|---------------------------|-----------------------|------------------------|-----------------------|--|--|--|
 | lbOR | ENtERPRISE | tRNSCtIONS | PROPERty | FINNCE | | | |
-| Wae | Capiais | marke | Priae | mainsrea<br>marke | | | |
-| ernaie Paid | ernaie<br>Capiais | ernaie<br>marke | ernaie<br>Priae | ernaie<br>marke | | | |
+| Wae | Capiais | marke | Priae | mainsrea
+marke | | | |
+| ernaie Paid | ernaie
+Capiais | ernaie
+marke | ernaie
+Priae | ernaie
+marke | | | |
 | Unpaid | Noncapiais | Nonarke | Open ccess | Nonarke | | | |
 
 Uk m my, s dvrs my mks pr sumps bu prdb rsps bw m vs. Nr ds grz pp sss rdg r m vvms. I s rrmg ggs dvrsy d mup y. Pp prp my dr vs rss dvrs my. Ty r m rs my rs.
@@ -395,12 +406,160 @@ E pr s bk ks um rm dvrs my gur d xprs rm prspv community economies ms w gs rud u
 
 Tr r smp swrs dmms w vrvwd Irdu—dmms s w survv w, w dsrbu surpus, w ur rs s w sk survv w, w d w sum, w r r ur mms w d
 
-| | aTrS a aTiS i a iv ErSE Em<br><br>aSi | | | | | |
+| | aTrS a aTiS i a iv ErSE Em
+
+aSi | | | | | |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|--|--|
 | lbOR | ENtERPRISE | tRNSCtIONS | PROPERty | FINNCE | | |
-| Wae<br>• Lw-wg<br>wrkrs <br><br>g<br>ry<br> Cs R<br>• Srd ss<br>mgr <br><br>g rr<br> Hg Kg | Capiais<br>• Lrg<br>g<br>muurr<br>prg rss<br>Sus As<br>• Sm<br>g<br>rr <br>Ld<br><br>mpys <br>s | marke<br>• R<br>us <br>sppg ms,<br>rprs, d<br>m srs<br>rss  Ud<br>Ss<br>• Ir<br>m-rdr d<br> ss by<br>prê-à-prr<br>bs bsd <br> Ud Ss | Priae<br>• rdmrkd<br>bs d<br>dsgs <br>s<br>uss<br> Prs | mainsrea<br>marke<br>• Bk <br>r xps<br> Cd<br>r<br><br><br> Ud<br>Ss | | |
-| ernaie<br>Paid<br>• S-mpyd<br>s dsgr<br> Nw Zd<br>• Hm-bsd<br>p wrkr <br>Hdurs | ernaie<br>Capiais<br>• Org<br><br>mpy<br> uss <br>rbds r<br>psds<br>• SFC -r<br>pr<br>mpy<br> w<br><br>mbrdrrs r<br>srdrs | ernaie<br>marke<br>• r sps ru<br>by rs<br>• O ss by<br>dvdus<br>• Mumb<br>(sd-d<br>g) mrks<br><br>z | ernaie<br>Priae<br>• Cg<br>srd bw<br>sbgs <br><br>usd | ernaie<br>marke<br>• Mr<br><br><br><br>wm<br><br>Bgds<br><br>buy  swg<br>m | | |
-| Unpaid<br>• Husdr<br>swg s<br>r s<br>d<br>my mmbrs<br>• Frds pg<br><br>r sr<br>u<br>r g<br>wrdrbs | Noncapiais<br>• Cprv<br><br>mss <br>Arg | Nonarke<br>• Prs gvg<br>bby s r<br>bs<br>rd's w<br>bby<br>• Fmy dg<br>wr s <br><br>r<br>ry wrkg<br><br><br>rquk-<br>d<br>r | Open ccess<br>• S's<br> bg<br> dsrbs<br>w dr<br>s<br>ks<br>v b pu<br>gr | Nonarke<br>• L<br>rm<br>my<br>mmbrs <br>p sr<br><br>sm<br>s<br>busss | | |
+| Wae
+• Lw-wg
+wrkrs 
+
+g
+ry
+ Cs R
+• Srd ss
+mgr 
+
+g rr
+ Hg Kg | Capiais
+• Lrg
+g
+muurr
+prg rss
+Sus As
+• Sm
+g
+rr 
+Ld
+
+mpys 
+s | marke
+• R
+us 
+sppg ms,
+rprs, d
+m srs
+rss  Ud
+Ss
+• Ir
+m-rdr d
+ ss by
+prê-à-prr
+bs bsd 
+ Ud Ss | Priae
+• rdmrkd
+bs d
+dsgs 
+s
+uss
+ Prs | mainsrea
+marke
+• Bk 
+r xps
+ Cd
+r
+
+
+ Ud
+Ss | | |
+| ernaie
+Paid
+• S-mpyd
+s dsgr
+ Nw Zd
+• Hm-bsd
+p wrkr 
+Hdurs | ernaie
+Capiais
+• Org
+
+mpy
+ uss 
+rbds r
+psds
+• SFC -r
+pr
+mpy
+ w
+
+mbrdrrs r
+srdrs | ernaie
+marke
+• r sps ru
+by rs
+• O ss by
+dvdus
+• Mumb
+(sd-d
+g) mrks
+
+z | ernaie
+Priae
+• Cg
+srd bw
+sbgs 
+
+usd | ernaie
+marke
+• Mr
+
+
+
+wm
+
+Bgds
+
+buy  swg
+m | | |
+| Unpaid
+• Husdr
+swg s
+r s
+d
+my mmbrs
+• Frds pg
+
+r sr
+u
+r g
+wrdrbs | Noncapiais
+• Cprv
+
+mss 
+Arg | Nonarke
+• Prs gvg
+bby s r
+bs
+rd's w
+bby
+• Fmy dg
+wr s 
+
+r
+ry wrkg
+
+
+rquk-
+d
+r | Open ccess
+• S's
+ bg
+ dsrbs
+w dr
+s
+ks
+v b pu
+gr | Nonarke
+• L
+rm
+my
+mmbrs 
+p sr
+
+sm
+s
+busss | | |
 
 uur, d w sr d us svgs d surpus s w d r sps u v s p.
 
@@ -561,7 +720,8 @@ T susss mvm r wrkgm's g-ur dy d susss ms mvm v rd mpx d rdry wys vr m. dy sms wm
 
 #### WELL-BEING SCORECARD
 
-| SINGLE MOTHER'S<br>WELL-BEING | 1 | 2 | 3 |
+| SINGLE MOTHER'S
+WELL-BEING | 1 | 2 | 3 |
 |-------------------------------|---|---|---|
 | Material | Х | | |
 | Occupational | Х | | |
@@ -649,7 +809,8 @@ Jus s r s mrkd vr rud umy's g pr, r s ug vr w . Usg y umbr rg urs, w sm ur dvdu 
 
 I Ausr, r xmp, vrg g pr s 3.7, bu w w u Js's pr w d s prd-dw sy b susd w y 1.5 ps. I umbr wys, Js's wrkg s smr D, pr rmr d r
 
-| a Tia Eia<br>TriTS 2008 | | | | | |
+| a Tia Eia
+TriTS 2008 | | | | | |
 |----------------------------------------|---------|--|--|--|--|
 | COUNt Ry | PlNEtS | | | | |
 | US | 4.0 | | | | |
@@ -699,426 +860,7 @@ W mpr D's g pr w r pp dr sus rud wrd. Fr xmp, 's jus sy D s vrg pr r Ppps 0.7, d
 | Community | | | Х |
 ## | Physical | | Х | |
 
-# PHILIPPINES FARMER Paid work ECOLOGICAL FOOTPRINT OF < 0.7 PLANETS Paid work Paid work Paid work Paid work Paid work Paid work Paid work Paid work Paid work Paid work Paid work
-
-## ![](_page_61_Picture_2.jpeg)
-
-r, w rrg smrs d drs d sr k bu w wud k r us prsy d vy rdu ur g pr. As pr mmuy my, w sr k rspsby r mp ur mds survvg w r um d um bs ur p.
-
-#### TS r Srvivi E
-
-kg bk wrk r pp d p ms kg mx vs pp r ggg survv w. I ms br g d supprg s rms br r dry rbug sps dvdu d usd w-bg. Tr s dm p pd wrk s bs ms surg w-bg bus prvds m r pursg w w d. Cry mr w-bg s r, bu s r s. Ovr w bg s vd by rs mg mr, up, s, mmuy, d pys w-bg. Pd br pys r, bu s d r rms br.
-
-I s pr w v ud sm dvrs br v s pp r prpg sur r vr w-bg rvy pd wrk su s rpr br r wrk s pd kd, s w s upd br su s uswrk, my r, g brd wrk, vurg, d s-prvsg. T Dvrs Lbr Idr b usd dsgus s dr kds wrk. T dr s uds wdr rg br w v dsussd, udg durd d sv br d wrk r wr. N s wrk prs r dsrb; dd, w wud w s sm smpd u bus y d p pp survv w ( x s w k sm xmps rgzs d mpgs r kg s yps prs).
-
-I mmuy my w d kp ur ys rd pds bw dr kds wrk w d. W d b wr w kd w-bg rs w r kds d w br w r dg survv w dvduy s r pp d p. W d s w p wy-Fur-Hur Ck k vs w gg . W ssss w rbus ur prs, usd, d pry w-bg. Usg W-bg Srrd, w pp rd-s w mg b mkg bw dr kds w-bg d r wr s r rbug wrk– b s y d susb. T r's ur g pr sdr. By usg
-
-| iv ErSE aBr iETii Er | | | | | |
-|--------------------------|----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|--|--|--|
-| PID lbOR | ltERNt IvE PID lbOR<br>Se-epoed<br>Cooperaie<br>Indenured<br>Reciproca<br>aor<br>In-kind<br>Work or weare | UNPID lbOR<br>housework<br>Fai care<br>Neiorood work<br>vouneerin<br>Se-proisionin<br>Sae aor | | | |
-
-y rdy vb g pr u rs r vb w ssss r bu ur wrkg s mkg p's w bg r dsru. Ar w mkg rgr mp ur p br? Ar w mkg mp ur p sus? Or r w mkg smr mp, s w w ur p's by rgr? Ag gr, w b- s, dvpg w bs wrkg dr y rdu ur mp.
-
-| INDIVIDUAL | 1<br>poor | 2<br>sufficient | 3<br>excellent |
-|--------------|-----------|-----------------|----------------|
-| Material | | | |
-| Occupational | | | |
-| Social | | | |
-| Community | | | |
-## | Physical | | | |
-
-| PLANETARY | 1 | 2 | 3 |
-|----------------------|--------|------|---------|
-| | larger | same | smaller |
-## | Ecological Footprint | | | |
-
-#### ETivE a TiS r Srvivi E
-
-In a community economy we take ethical action by acknowledging how our survival is connected with that o others.
-
-I s s w k s by w pp r kg bk wrk s prdus w-bg r pp d p.
-
-#### Questons to consde s you ed bout these collecte ctons
-
-- W sps mr, up, s, mmuy, d pys w-bg r bg ddrssd, d w r y bg gd?
-- W yps wrk r bg mbd v dr yps w-bg? W kd wrk s rsg, d w kd s drsg?
-- Ar rd-s bg md bw dr yps w-bg d dr yps wrk? W r s rd-s?
-- W mp w s s v r pp's w-bg?
-- W mp w s s v pry w-bg?
-
-#### ok nd ges
-
-Fr my pp s p, wrk s prrus. I b s pry pd v g urs r mup jbs bry gur survv. Wrkg ds b us d busv. I s rumss, mr w-bg s du v, r yps w bg. Budg g sry wrkrs' sruggs, rgzs rss gb r gg r r wgs d wrkg ds.
-
-ethical action: Making sure people work in saety and have enough to meet their needs
-
-I Ud Ss, Uvrs Lvg Wg (ULW) mpg ms rrm gs s pyms r wg wrk r su r pp m r usg ss. T mpg s drv by 42 pr 's 3.5 m pp xpr mssss urs yr r wrkg. T urr dr mmum wg s \$7.25 pr ur; ds m usg ss ms U. S. usg mrks. Adpg rmu Dprm Hus g d Urb Dvpm sud spd mr 30 pr- r m usg, ULW us mmum wg rqurd r prs wrkg u m b b rd usg d r rgs. I mmum wg md rg usg mrks, gg ss mssss dvdus d wud b mmzd d wrkrs ud sr v mr w-bg.
-
-I Ud Kgdm, Lvg Wg Cmpg ws ud by Czs UK 2001 dv r mmum wg ws wrkrs m r ss vg d prvd r r ms. Ovr udrd mpyrs r w rdd s Lvg Wg Empyrs, udg KPMG, Brys, d Oymp Dvry Aury. O ms u s Grr Ld Aury (GLA). E yr Lvg Wg U GLA us w mu vg wg sud b. I 2011 vg wg r u-m wrk Ld ws £8.30 pr ur; usd Ld, ws £7.20 pr ur. Lk Uvrs Lvg Wg mpg Ud Ss, Brs Lvg Wg Cmpg s ryg mk sur mr w-bg s vd d pp d d wrk dd jbs r dd urs d rby mprms r sps r w-bg.
-
-Aswsp mpgs ddrss jus wgs wrkrs r pd bu s ds w pp wrk. Esbsd 1989, C Cs Cmpg (CCC) s rd us d gvrm rgzs (NGOs) rm Eurp urs. CCC wrks w vr w udrd us d NGOs ps wr g s bg prdud swsp ds. W prbms r dd, bbs mps vvd, wrks w wrkrs, d rms sumrs. CCC s b sussu rsvg 250 ss w wrkrs wr bg rd ury, d sm mps v w dpd ds du. Or rgz s wrkg smr prgrms ud Fr Lbr Ass (U. S.), N Sw Cmpg (U. K.), d Wrkrs' Rgs (Oxm Ausr). A r ryg mk sur wrkrs' mr d up w-bg ds r m d wrkrs sr v r sps w-bg.
-
-#### oenent inputs o Eeyone's Sul
-
-I my prs mjry wrd, pp k D d subss vs. Ty grw w y d d sur xr ms rug xg rsps w r gbrs. Tr r srg vg-v supprs r mbddd r s d mmuy rds. Hwvr, pp s rumss v py r bs s srvs, prury du, r, d rspr. Ts pus prssur ms d pd wrk, d s s pry wy mrs d dugrs D's gbrs r mvg vrss s dms wrkrs.
-
-Prvdg s srvs k du, r, d rspr ps pp survv w. Ty u d w mp subss vs, kwg r s vb w y d , r dr w v du pprus, d rspr s vb p m g rud.
-
-Ts yps bs srvs r s r mry wrd. W gvrms prvd s srvs, pp d d vrwrk v mr w-bg; y r rd up ddrss sps r w-bg. T ss prvdg s bs srvs r mr s by vg vr ss m d pys s vrwrk, mu srss, d w vs s d mmuy w-bg.
-
-ethical action: Making sure governments provide the basic supports that everyone benets rom
-
-H s ky r r my pp rss gb. Ardg Wrd H Orgz, ms urs pp r s " r gs prrs . . . bd y m rs, su s umpym, w wgs d g s vg." Gvrms p ddrss s r by prvdg uvrs r r wrds, r (r ms r) r r r zs. A ug my mry-wrd urs k Grmy d Ud Kgdm v g-sdg pub sysms, urs m jry wrd v y rvy ry dvpd uvrs -r sysms. I Vzu, 2003 Msó Brr Adr (r Isd Ngbrd prgrm) ws d us pp vg brrs (r sums). I rs yr prgrm r wr vr m p vss. T prgrm ws s sussu ws quky xdd vr r ury, d by 2006 sm 73 pr ppu ws vrd w md r d 71 pr w d r. As rsu, r s b d mr y d dd dsss su s mgs d mur, d dus r s b mprvd dgss d w-up rms r sss su s dbs d rdvsur dss. Ag w s yps ums, uvrs r ks prssur ms v wrk r s py r r (r mk ds g wu r d sur rug p d ss).
-
-rspr b r ky r usds. T y Curb Sur Brz s brd xmp mss rs: Bus Rpd rs. Lk my Brz s, Curb sw xpsv urb grw r w ury, prury w rm vs (r syws) uyg rs. Curb rd sgd xsg rd sysm mk rm r ddd bus s. I rrmd zg ws s w rprss d usg, s d usg mpxs mus b bu g bus rus. I 2010
-
-r ws U. S. quv \$1.10, \$0.50 Sudys. Sm grups rv r r, udg pp vr g sxy-v d dr udr g v. Bus Rpd rs s s ppur ds v b subsdzd. T bus mps r pd by gvrm r vry kmr drv—w gvs m v xpd r srvs. T p rs d xps bus sysm mk pub rspr ssb vry—udg pr uyg rs. Ms zs Curb spd ss 10 pr r m rs, rdug w s rqurd survv w. T sysm s s rdud pu rm prv mr vs, ddrssg jus pry bu s r pu. A smd udrd smr bus wys v b mpd r urs, d r udrd r vrus sgs mp. Impry, md s b k up jus mry wrd bu rpdy urbzg Ar urs k Ngr d Su Ar, s w s Id d C.
-
-I mry wrd, gvrms v dvpd rg prgrms p r zs b pd wrk w r wrk-
-
-g rspsbs. W ms rg r wbr, urs Orgs r Em C-pr d Dvpm pr vd pd pr v r pr r vrg rud wy wks r br d. I sm urs, r s rr's w r pp w k r du w g-rm r ds r d w svr ds by. I Ud Kgdm, rgvrs r v dr pym p m m r w pys, s, d mmuy w bg. Crrs r v urgd d gs k k dy!
-
-## ![](_page_67_Picture_5.jpeg)
-
-k work can ake i dicu or carers o eecie od down a paid jo.
-
-## ndrew lei, Inora Care and laor marke Paricipaion
-
-#### redefnng ok
-
-I s pr w v kd bu dwsrs w r ug bk pd wrk rdr mk m r mr gs . O
-
-gs dwsrs mk m r s surg w y d wu vg buy . Ty mg prdu msvs r qur by wrkg w rs. Ers k s p rdu pry mp sump.
-
-ethical action: Minimizing our use o resources and directly providing or ourselves and others p pp dws d prrz dr p , r r Wb ss su s A Hmmd L d Sppg O. My pp
-
-I don' eiee a ein rua eans a ou ae o e iserae. bein rua is no spendin ardearned one on e su a's no iporan.
-
-## Ca rsron, Ceapskae k
-
-dws u , bur sm s mr ssy. C Armsrg, udr Cpsk, ws mdd m rvs w s ws d , r usbd ws d , d s dsvrd s ws prg w r rd d. S bg by srg r my's d budg s r s ud g d dsvrd s d r r s-prvsg—rm m bkg d prsrvg m grdg d sw g. S v m up w wys mk r w wsg pwdr (r pr rdy-
-
-md prdus rm suprmrk). C s w urd r pss r bg psk Wb s d mmr wsr grs d srs ps w v w ss.
-
-Dw, udr bg Frug r L, ws vg xss. Hr vrspdg d vrsumg d brug r p w s d r bkrupy. As s u bk, smg ppd. Dw k mr d mr psur gs; s dsvrd r s-wr ws ' bsd gs s d rud r. S Dw less is ore in word: ess o worr aou, ess o nd space or, ess o keep up.
-
-## Dawn, Frua or lie k
-
-s mmd rs g prj v g rugy— dg wys sum ss w kg psur dg mr r rs. Trug r bg Dw srs r xprs w rs.
-
-Lk r dwsrs d rugss, Dw d C v rvud w s ssry survv w. Ty v md rs rm bg spdrs bg svrs, d y v d s by sumg ss d s-prvsg mr. Ty w dbr w ry mrs d w ry rbus r ppss d survvg w.
-
-Sm wrkps r dg wys mps kd dwsg r mpys—wu g r mpys' bk pks. I Ud Ss, w mps v rdud 30/40 wrkwk—mpys wrk r ry urs bu r pd r ry urs. T udr 30/40 wrkwk, R Hy, rgus pr duvy s wrkrs rss bus y r mr usd d rgzd w jb—d ppr rud.
-
-T Nw Ems Fud Br rgus r wy- ur wrkwk rdr p ddrss wrk– d wrk– pry survv mb (s w s r prbms su s grwg dvds bw r d pr d bw vrwrkd d udrwrkd).
-
-Ts yp ubk s b rd br. I 1930s (durg Gr Dprss), Kgg's ry B Crk, M g, rdud sx-ur wrkdy s wy mpy r udrd mr wrkrs (w srd vb wrk). T ury r ws rsd sgy s wrkrs wr y mmy d. Pr duvy rsd, d w v yrs wrkrs wr bg pd r sx-ur dy w y wud v b pd r g-ur dy. Ar Sd Wrd Wr d s sumrs vus sprd, wrk rs bg prrz gr wgs vr srr wrkdys. Hwvr, sx-ur dy ws ppur w my wm wrkrs, w ud wrk srr urs u 1985, w pr ws y dsud.
-
-#### Shng ht e eed to Sue ell
-
-Ar ppr s ry mmz w w d mry by srg w r pp. Ts rg rm rm rrg ms—sy, w grup gbrs sr grd s dvpm w mmus sr jus bu vryg, udg r m.
-
-ethical action: Minimizing our use o resources by sharing with others
-
-Cusg s rrgm w pp v r w prv rsds bu sr sm vg rs—sy, ks, udrs, wrksps, d udr rs. Cusg s ms rdug w pp d mry. Isd vg wsg m vry- 's us, r mg b r w wsg ms vry k
-
-#### liin oeer on one's own.
-
-Naiona ssociaion o housin Couniies or Eder Peope in e Neerands srs. T srd sps s m r s srg s bw g brs—usrs v dvp wys vg gsd r w usrs. Cusg s prur rs sm grups. Fr p p w yug dr, srd udr sps b dsgd s dr py sy -
-
-gr. Fr dr pp, r's b vg b prvy r w ms d s s w r gbrs. Fr w m grups, usg b ms rdug jus s usg bu s g u ms.
-
-#### ectly ontbutng to the ell-beng o thes
-
-Gvrms prvd bs srvs p mprv p p's w-bg by rdug ss ssd w gs k r d rspr. Lkws, mmuy rgzs s us xsg rsurs, udg br, rdr rs pp's w-bg dry r rdu s y d sur srvs su s du r gds su s usg.
-
-ethical action: Volunteering to help meet the needs o others
-
-I prvus pr w rdud Akks, du rgz prvds g-quy du srvs yug pp sums Mumb d Pu, Id. I ws srd 1990 by g-yr-d S Msr d by 2011 ws wrkg w ur usd dr rug ry-sv r-s rs d ss. Akks uss ds rm dvdus d rp rs ru s du srvs. I s rs vur br, k d mr usd pp v vu rd. Ts dr rbu br ds jus p Akks prvd du srvs p yug pp br pv ry "brk y"; s prvds ppruy r s w gv r m r r w s, mmuy, d v up w-bg.
-
-Mrd Fur, s-md U. S. mr, wd smg mr rm s . I 1965 jd K Frm, rr Crs kanksa as een a urnin poin in ie. Wie I a rin o ake a dierence in cidren's ies, e cidren and e eperience are akin
-
-## Poori Didi, ouneer, kanksa Foundaion a dierence in ie.
-
-mmuy Amr Dp Su. Isprd by s grup, udd Hb r Humy. Iy prvdd usg mr s s w-m rsds w ud rd py r mrs bu wr ps g rm bk bud us. S , Hb s vvd us vur br p rdu s budg ms r pp w d m—wg pr rs ds survv w by surg sr r msvs w p rs. Hb s sprd y dr urs, s bu r rprd mr 500,000 uss, d s prvdd sr r mr w m pp wrdwd.
-
-#### ErE T rm ErE?
-
-I s pr w v s xmps dr yps s r bg k p pp survv w. Tr r rs mprv pp's mr w-bg w mr survv s du v. Tr r s rs u bk mr w-bg, spy w vrwrk s udrmg r sps w-bg d vrsump s udrmg p's by survv. W v s s w vurg dry b rp's mr w-bg w s bg vur.
-
-W wud k r yu survv w r rbu r pp's r p's by survv w? g srd wrd s g, yu mg sdr wg:
-
-1. Ar yur wgs r d yur wrkg ds s? I , r r grups r wrks, su s C Cs Cmpg r Uvrs Lvg Wg mpg, yu ud w? Ar yu rd bu pp ws wgs r ur d r wrkg ds us? W ud yu d mprv r mr d up w-bg d p m survv w?
-
-- 2. D yu v bs pus d supprs yu d r yur survv? Ar r mpgs d vs yu ud rbu wud p urg gvrms prvd s srvs r r zs?
-- 3. Ar r gs yu ud d dry p pp w s yps srvs? Cud yu vur yur br vs su s Akks r Hb r Humy? W mg v yur w-bg?
-- 4. W bu r sps yur w-bg? D yu wrk su wy yu r mprmsg yur s, mmuy, d pys w-bg r mr w-bg? Cud yu u bk br r my d sur w yu d by usg yur br dr wy? Cud yu g yur mpyr sdr r prs wrk? W mp mg v yu, rs rud yu, d p? W ud yu sr w gburs r rds d my rdr u bk w yu d mry?
-
-I s pr w v usd yp wrk w d d w s wrk rbus ur w by, d r pp d p, survv w. W'v rgud rdr bud mmu y ms w d sdr mx pd wrk, rvy pd wrk, d upd wrk p us bd w bg. I x pr w ur ps wr pd wrk s udrk d sk w bussss mg b rspd mmuy ms rdr k u rdpds bw pp d bw pp d vrm.
-
-3.
-
-# Tke Bck Busness
-
-## Disriuin Surpus
-
-#### aT iS BSiESS?
-
-Bussss r rgzs w gds d srvs r prdud d xgd. Ty r wr rprurs d wrkrs rsrm rsurs, gy, d br smg w. T msrm mssg s busss s m grw rm w w d w-bg w.
-
-Dsp s rr, ms busss s prmry rgzd rud prdug r grr gd. us mr prs, "Busss s bu prbm-svg pr." I s dsr r prs us dd—v bsss—spy pr busss wrs.
-
-Aug r sm, busss s sur gr dvdu rwrd, r rs s s rdsp d pprss— p wr xp s r. Fr y rs, busss s jus p wrk d r vg, vrm ms bs urs r wkg dy.
-
-S w uy gs busss rprs? O wy k s w prss wrby d w s rsrmd w. Fr mm, 's us rms wr smg— gd r srv—s prdud d sd rr s buy d s rdy xsg mmds.
-
-Bussss us srd-up w, usuy rrrd s , purs mr pus su s rw mrs, d, budgs d mry, d br pus. Durg prdu prss br dds k
-
-te socia responsiii o usiness is o increase pros.
-
-## mion Friedan, New york ties xsg w pus prdu smg ws xpdd vu s rd s s pr. Dpdg wrsp d gv r sruur rm, s w w s srd w prdurs d prdurs b w rprs d byd.
-
-Ovr s w udrd yrs, rm busss rprs, ps rm, s b udd s bs wy rgzg w rsrm d vg ms prdu. T p d qupm ps busss r prvy wd, mpys r pd wgs wrk r s prds, mmds r prdud d sd mrks, d prs r prvy umud by busss wr r srdrs. T rgum gs prv prs prvd pprpr v r rprurs k rsks, mp w rs, d pu r v br ums. Ad prv rwrd s w- bs r my rm pr gds.
-
-A mjr w s rgum s by prbm-svg pr w v vrsppd susb v rsur us. T dp ur vrm s xpy rs. T w w prdud by ps busss s gbbd up mrs, rwb rgy, s ry, d p d m sps vrus r. Ts u sd "gs" ur v b rsrmd prv prs w gs d msprs v b dgrdd su x vds r rd. Oy w r w rzg jus w vy w udrd yrs dusrz s d pry .
-
-O p s udm prbm, w w rd by ps busss s rsd vg sdrds quby rss brd. I's ru sm ps dvdu d s sump vs v rs quky d my pp r w dg vs wr umgb v gr r w g. Bu b w d bw urs, dsrbu w w s prdud grr qus vr br. I 2000, 1 pr wrd's ppu wd 40 pr gb w d 10 pr ppu wd 85 pr w, w 50 pr wrd's ppu wd bry 1 pr. I s s yp quy s prpd Oupy W Sr mvms s rss gb d gv rs ryg ry "W r 99 pr" (s ppsd 1 pr p m rrs w wm w s rd).
-
-I sms busss s mjr rbur prbms w d ur p . Bu s b r v r g? Cud busss dr w w wrd pry w-bg?
-
-I my rprss (ug s rgzd s "bus ss," su s usds, rms, prvs, d mmuy d s rgzs), w gds d srvs r prdud d d d w s d r srd dr wys. E rs bu ms w d dsrbu bs r dd d d bd. Tr s g sp msrm busss rm bmg vv s g bw prdurs d prdurs bu prdu d dsrbu w w.
-
-W gs busss s mjr mpr w w v ur dy vs d b ur p. k busss bk s rbus w-bg pp d p, w d k mr sy w mks dss bu prdug d dsrbug w w. I sm bussss Arg, ds-mkg pwr s sd w drm ums.
-
-### Tai Ba a BaE a TriES i arETia
-
-I Obr 2001, wrkrs L Amr's rgs rm mu urr, Zó, sd ry's gs, kg msvs d bsss u. Ar ms wu py, wrkrs d k m rs r w ds d k vr ry. Fv ms r, Mr 2002, urs wr r, ms rsrd, d s g rd prdu . T wrkr kvr ws vdd w, sv yrs r, Augus 2009, gsur Pg prv Nuqué vd xprpr ry rm s prv wrs d d vr wrkrs. FSP (rm Fábr S Pró r Fry wu Bss) d gy m g.
-
-Zó's sry s uqu. Trugu 2000s, wrkrs rss Arg wr prmpd by xrrdry rumss upy d k bk ms w udrd ps bussss. A Zó, wrkrs ud udrsd wy, dsp prs rud \$50 m- yr, prdu ws bg wud dw, wrkrs wr bg d , d wgs wr upd v ug Zó d b d my rm prv gvrm r wg pyms. I ss v b rpyd bussss rss Arg, wrkrs ypszd prs d b s vrss r s mrk spu. Owrs d mgrs ud b rusd w wrkrs' jbs d vds.
-
-I prd s wrkrs k r rms ry, FSP s g rm srg srg. T wrkr s ms dubd, 470 wrkrs, d upu s rsd rm 5,000 squr mrs s m 400,000. Ts s b vd rug prv d dmr busss md. Dss r dsussd wky ssmbs, d m wrk ss r g urs r gr dsusss d ds mkg mrs su s w d w prs d wr r w wrkrs. A wrkrs rv k
-
-We rin e scoocidren o isi o nd ou or esees wa a acor in producion ooks ike and so e know e can uid anoer kind o socie. te rs quesion e ask is, "W isn' ere a oss?"
-
-## Oar viabanca, Fa Sin Pa worker sm sry (xp r s ky rs su s mry m, w rv xr 10 pr). Pss rspsby r rd. Tr s xr py d s pss, s, s wrkr mms, "Wrk rs w k jb rspsby s d s r smg w."
-
-My wrkrs FSP v r rm du. T ssmby s r r vd dv sm r prv surpus srg prmry s d g s r wrkrs. A gr ry, Jrg Brmudz, xps r m " ms xg g wud b r mpñrs v ppruy r jb pss ry, g du, d r msvs prss."
-
-Prps ms rmrkb s FSP's ud wrd pp Nuqué, ud purd wrds Rd Gméz, yug wrkrs: "W wys sd ry s ' urs. W r usg , bu bgs mmuy." Ts mmm s d wrds r wrkr, Crs Auñ: "T prs sud ' g us . . . bu mmuy." FSP s wd rug s ud. Fr xmp, r wy yrs pr gbrd dj ry d b skg prv gvrm r . A FSP ssmby p, wrkrs vd us sm r w w, r prv's surpus, bud mmuy r gbrd—d ws mpd r ms.
-
-FSP s dd rms udrds mmuy rs, brrs, ss, d sps. I s bu ms r wrkg ms, d ss uur, du, d rr prgrms, my r dr y Nuqué. O sdu v ws Spmbr 2006, w FSP sd rk r urd gd ry Arg vy m bd R B. Ovr usd pp grd gruds ry d r.
-
-T wrkrs rgzd v d wr b kp k prs w by dg wrk, udg budg mssv sg.
-
-T srugg s b g d rd r FSP. Wrkrs d r ms wr pys y kd d, ss rms Arg's mry drsp, v bdud d rurd. Bu g wy, wrkrs v dmsrd jus w b vd ry wu bss. Ty v k rg w w ( surpus) y vy prdu
-
-Zanon is no an isoaed eperience or craz idea; i is a concree eperience a a roup o workers ae pu ino acion.
-
-k
-
-## ejandro Quiroa, Fa Sin Pa worker d v gd mr dgd sdrds survv y r r w ms bu r wdr mmuy. FSP s bm symb r wrkrs r Arg rs d ry.
-
-#### TE Srviva–SrS ES: a E Er r a mmiT Em
-
-W s surpus? Ad w ds r survv? Surpus s sm g xr, vr, r mmdy dd. I s smg b rvy srd r ssy szd. Tr r my dr wys kg bu surpus, w mpr mps r d wrd spg.
-
-I mmuy grd, s dsussd Irdu, surpus ks rm mr vgbs grdrs d r usds . I wrkr-wd prv FSP, surpus s pr w w (r wy prdud vu) s vr r wrkrs' wgs d rdrs v b pd.
-
-As w s rm s w xmps, m surpus b dd usd rsp w surpus—w s ssry r survv. Hw budrs surpus–survv xus r drw s vy mpr. Ws survv ss vr w smg b s s "xr" r surpus? Ad w dds w pps xr b? I mmuy my w'r rsd w surpus s prdud, w ws , w dds w b usd, d w b dpyd prdu w-bg r pp d p.
-
-I w zm u r mm d vw ur p m rm ur sp, s bvus y r surpus pry survv s xss sug bs ur rmm, brgg gs d psyss. O spsp r ds bw surpus d ssy s pury ug rm rvs up w. Nvrss, dw grud, w w k bu surpus–survv xus s sg mps r w kd wrd w b.
-
-I ps busss, mrs surpus d survv r w dd. Prdu s rgzd, wrkrs r pd, prs r md (r ), d s s d sry, r s mss us. Y ps dusrz s grd sry uprdd vums w w, mu w s b dsrbud wrd wdsprd s r vrm w-bg bu s b prvy pprprd d umud.
-
-Frm mmuy my prspv, s w w s mpsd w m rms surpus, prdud by um br, r "gv"—r, mr ury, s—rm r's rsrvs. rm surpus s d mmuy ws survv ds r vrusy m r grd. I s surpus prdud by br, s wrkrs, r ms, d wdr mmus ws survv ds r mpd. I s surpus grd rm xp r's gs, s mpx wb pry bgs ws survv ds r d.
-
-I mmuy my w d ug sysm ps us kp ur y survv–surpus rs. W xpr s r sp w d
-
-#### 1. a People's Account and 2. Decision Flashpoints.
-
-Fr gud w ur ug rm s sprd mvms k bk surpus br (kw s surpus vu) rm ps wrs d rdr wrd survv ds wrkg pp. L's bg by dg Pp's Au gy prb (us bu rs) ps rprs.
-
-Byswr Bskry ws srd 1970s by Jrry, w ws wrk g u s prs' grg wvg dmd bsks d wkr urur. W up yrs, Jrry d mvd sm ry kp up w srm rdrs rm rrs. Jrry's bg brk m w ddd mv mu rgr ry s r ppur bysd urs w. Tr ws rm r r r d é d rsur r ugry rvrs. T busss k d bm bggs r, s w s ppur urs ds. S Jrry's dsv bsks d urur d r mrk.
-
-Byswr Bskry w s wrkr w udrd, d Jrry s rgzd s gd mpyr. Ev ug pys s s r vy w wg, prvds gd bs (udg sur, us rm é, -s d r d gym, d rdy, v gr, wrk mspr). Jrry's busss s s xrmy pr b, d s dd ms drs sprg grups d rs. I rg, Jrry s gy rspd d d up s vv rprur wrkg r b s w d s mmu y's b.
-
-L's k w Jrry's busss wrks usg smp br grp p us vsuz ur Pp's Au. T grss rvu (r kgs) Byswr Bsks s rud \$100 m yr. Frm s rvu Jrry pys u \$60 m uy vr
-
-- prdu pus (.g., bsk- d urur-mkg supps, dpr mry d qupm),
-
-- s rug ry (.g., pwr d wr),
-- rspr ss (.g., pkgg d sppg), d
-- mr pus d ss rug r u, é, d rsur.
-
-Ts vs \$40 m uy, w, rdg sm us, s w vu Jrry and his workers v ddd rug pr du prss \$60 m pus.
-
-| | a EE'S aT  BaSaTEr BaSETr | | | | | | | | |
-|----------------------------------------|-----------------------------------------------------|----------------------------|--------------|--|--|--|----------------------------------------------------------------|--|--|
-| toa reenue (in iions o doars) | | | | | | | | | |
-| 10 | 20<br>30<br>40<br>50<br>60<br>70<br>80<br>90<br>100 | | | | | | | | |
-| | | Nonaor producion inpus | \$60 iion | | | | vaue added  Jerr and e<br>workers' aor<br>\$40 iion | | |
-
-Wrkrs Byswr Bskry rv u vrg wg \$20,000, d, w bs r ddd , vrg mps s mr k \$25,000. S Jrry's b r wgs (udg b s) ms bu \$5 m yr. Ts \$5 m mus survv pym Jrry's wrkr rvs—ug rmur py r gds d srvs sur y ur up vry dy r r s. I ur Pp's Au s mus b xrd rm \$40 m "vu ddd" bus rprss s br pu.
-
-O s mu s xrd rm \$40 m, r s r mg \$35 m. Ts s w w prdud—w w dsg s surpus vu.
-
-W surpus vu, r w w, rss rm prdu- b usd r rsrmv ds, r r my ms py rdu s pwr. Surpus vu s by ms w w mmy udrsd s pr.
-
-Tr r dd busss pyms Jrry s bgd mk ws s busss survv. Ts mus mk rm
-
-| | a EE'S<br>aT  BaSaTEr BaSETr | | | | | | | | |
-|-----------------------------------------------------------|--------------------------------------------------------------------------------------------------------|--|--|--|--|--|--|--|--|
-| toa reenue (in iions o doars) | | | | | | | | | |
-| 10<br>20<br>30<br>40<br>50<br>60<br>70<br>80<br>90<br>100 | | | | | | | | | |
-| | laor<br>Nonaor producion inpus<br>Surpus aue<br>\$5<br>\$60 iion<br>\$35 iion<br>iion | | | | | | | | |
-
-dsrbus surpus vu. Sm s rs gs d rs mmz, su s , s, d dr xs. Ors wgy purss s rsk-vrs dvdu, su s sur, ug, d dvrsg srvs.
-
-Tr r s rd rgs b pu sd r vsm uur xps r wr m dwur. Dpdg w xpss r uky Jrry s y yr, mu ss sd s rd rgs vrs.
-
-A gr, s g s busss pyms mus \$15 m- — bs u Jrry's p. Bu urs u r's wys smg vr. I , r's \$20 m w w yr r Jrry. N bd r by w srd u s prs' grg.
-
-| | a EE'S<br>aT  BaSaTEr BaSETr | | | | | | | | | |
-|----|---------------------------------------------|----------------------------|--------------|----|----|-------------------------|-----------------------------------------|---------|---------------------------------------|--|
-| | toa reenue (in iions o doars) | | | | | | | | | |
-| 10 | 20 | 30 | 40 | 50 | 60 | 70 | 80 | 90 | 100 | |
-| | | Nonaor producion inpus | \$60 iion | | | laor<br>\$5<br>iion | business<br>paens<br>\$15<br>iion | Surpus | Jerr's new<br>wea<br>\$20 iion | |
-
-The large amounts of earnings that flow to business owners like Jerry are usually justified as a reward for entrepreneurial accomplishments and the business risks that owners take. But how just is it that an owner receives \$20 million each year while each worker is paid 1,000 times less (\$20,000 per year without benefits)?
-
-How has Jerry's success been created? Why does the bulk of the new wealth created flow into Jerry's pocket? Is it a just return on Jerry's entrepreneurial skill? Or is something else going on? Could this something else be important in taking back the economy for planetary and social health?
-
-Let's unpack the mystery of Jerry's success by looking at the annual \$40 million of "value added" through the lens of what happens in an average workday of eight hours. The total workforce's annual wage bill of \$5 million represents 12.5 percent or one-eighth of the \$40 million of value added in production. This means that the workers are making the value of what they are paid as a wage (their survival payment) in just one hour of their eight-hour workday.
-
-| A PEOP | A PEOPLE'S ACCOUNT OF BAYSWATER BASKETRY | | | | | | | | | |
-|----------------------|------------------------------------------|---------------|--|--|--|--|--|--|--|--|
-| Hours of the workday | | | | | | | | | | |
-| 1 | 2 | 2 3 4 5 6 7 8 | | | | | | | | |
-| Survival payment | Surplus value | | | | | | | | | |
-
-In the remaining seven hours the workers produce value that amounts to seven times what they earn. The workers are paid enough to keep them going, but they have no claim on the rest of the new wealth that they helped to produce. In the same way, the natural environment has no claim on the new wealth—even though Jerry uses its resources in his production process. These resources include the various ecosystems that support the willows, sweetgrasses, and bulrushes that are woven into different types of baskets, as well as the habitats that are lost w mups r rmvd xr prdus pwr Byswr Bskry sums.
-
-Jrry ws w w r surpus vu by vru bg pr v busss wr. Ad s s w w ud , , s pwr dsrbu. Sur, gvrm xs, sur mps, ug d dvrsg rms, d g-rm survv ds s busss p r dmds s surpus. Bu rs s Jrry's r m d w w w. As w s bw, Jrry s s ds bu w jy s w w.
-
-| a EE'S aT  BaSaTEr BaSETr | | | | | | | | | |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|---------------------------------------------------|--|--|
-| | Decision faspoins | | | | | | | | |
-| | hours o<br>e workda | | | | | | | | |
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | | |
-| Suria<br>paen | | Surpus aue | | | | | | | |
-| I<br><br>ur,<br>wrkrs prdu<br>prdus qu<br><br>r wg<br>Wgs r usd r:<br>• d<br>• usg<br>• md<br>r<br>• sg<br>• g<br>• svgs | I<br>r<br> vu<br><br>• xs<br>• rs<br>• r<br>• sur<br>• ug<br>• dvrsg<br>• rd rgs | te res o<br>Jrry's busss pyms<br>urs,<br>wrkrs<br>prdu prdus qu | e workda<br> | e workers produce surpus or Jerr<br>Jrry's prv w<br>T<br>s<br>ur<br>. H spds s surpus <br>• <br>w us w<br>s ur<br>• gus<br>r r rm<br>• mg s uxury -gg rusr<br>d j sks<br>• skg dys  Eurp<br>• prv s<br>• vsm<br>s w<br>• ds<br> | urs<br><br><br>mmds rprg  mv<br>s r s dr<br> sks d srs <br><br>sprg | wrkdy<br>bg<br>gs su<br> swmmg p<br>grups<br>d | <br>Jrry<br>s<br>d<br>rs<br>rs | | |
-
-Byswr Bskry s ps rprs—Jrry ws bus ss, d ws surpus vu "s" wrkrs prdu. A "ds sps" sw gur, s Jrry w dds w pps—wr surpus–survv ds s drw d w dsrbu s surpus. I s w drms w s d qu survv pym r s wrkr d wr spd my mr dvrsg r busss r sm sump m r s w mr.
-
-T prms prs g s xg v m vs v sms prr. My wud-b Jrrys r wrkg rd s s-mpyd s prprrs, pg mk bg. I s prprrsps, busss wrs r wrkrs, rs, mgrs, jrs, d mrkrs . Owrs mus wrk rdby g urs, r mry rwrd bv d byd survv pym. Hdys r rr d uxurs rg. T g s r, rdm dpd rm bss, d p r mkg r r rwrds ug kp gg. Fr ur us Jrry, s p ws rzd. Bu ry 50 pr w rms ( buk w r sm bussss) r rs v yrs. Fr my rprurs wrk– mb bms rb d surpus sd survv–surpus xus rms mrg.
-
-Wrkrs Arg k vr Zó ry 2001 bus w y sw s wr's msmgm r survv pyms d surpus y d prdud. Empys wr bg pd, d ry ws bg gd. Ev bs rs d qupm ws bg md, su ws brug d 2000 w wy-yr-d wrkr dd rm rsprry-rd r k d s wrkrs ud xyg ks ry wr mpy—d usss.
-
-Ar kvr, FSP wrkrs prrzd pyg msvs mmum vg wg. Ty grd sr sm wg w xp s ky rs su s mry m, w wr grd xr 10 pr. Ts ds ws bsd s ry r v du bu w ss wrk ws dy--dy muurg pr. T wrkrs s grd pu d y py rss.
-
-I my busss kvrs Arg 2000s, wrkr prvs y ddd rdu r survv pym—r wg rdr py d dbs prvus w rs d umud. Sm v w r wks wrkg wu py. Ty k s drs s mprry msur rdr gr ug surpus rvs d g bussss bk r d rby sur r w jb sby. As w sw Pp's Au FSP, s wrkr-wrs ws their d s g survv–surpus xus, d, w r bussss wr bk bk, ws their ds rs r wgs d dsrbu surpus wdy mmuy. E mmms r d r ms, k
-
-Now a we'e increased producion, iproin quai and producion oupu wi ecoe easier. Par o e pros are ein pu oward creain new jos, ipro[in] aciner, and [uin] repaceens or e acines. te oer par o e pros eneraed is ein pu oward socie.
-
-## Francisco murio, Fa Sin Pa worker r mmus, d uur rmd r dss.
-
-T Pp's Au s ggs survv–surpus xus d dsrbu surpus w busss d byd. I ps us dy mpr Ds Fsps rud w w r d w s mkg s ru dss. My s sps r us sdrb , spy p s rprss wr drv rs prv w vrrd dgd survv ds wrkrs, mmus, d vg sysms.
-
-S dvpm ps rprss g ury, r s b ud srugg bw busss wrs d wrkrs rud survv–surpus xus. Wrkrs v rg zd us pus wgs up m r w d r m s' survv ss, d wrs ps rprss v usd srs ms drv dw survv pyms wrkrs s s rs mu surpus vu y pprpr. O ss srgy s b rss wg rss, r brk up us by r r by p g.
-
-Aug gvrms vr wrd v rsgy rgu d wrkps d wrkg ds, ggrpy rgu
-
-| | | a EE'S aT  | a SiaT | | | | | | | |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-------------------------------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|--|--|
-| | Decision faspoins | | | | | | | | | |
-| | hours o<br>e workda | | | | | | | | | |
-| 1 | 2 | 3 | 4 | 5 | 6 | | 7 | 8 | | |
-| | | Cooperaors' suria paen | | | Cooperaors' surpus | | | | | |
-| Cprrs dd<br>(r wg), udg<br>• <br>• <br>wg<br>• wg<br>Wgs r usd r<br>• d<br>• usg<br>• md<br>r<br>• sg<br>• g<br>• svgs | dg r ss wrkrs<br>rz |  survv pyms<br>rss s ry bms vb | | Busss pyms<br>I<br>w<br><br>qu<br><br>• xs<br>• rs<br>• r<br>• sur<br>• ug<br>• dvrsg<br>Cprrs dd<br><br>rg.<br>Cprrs<br>prdu<br>wrkr-wrs. | r<br>urs,<br>prrs prdu prdus<br> vu<br><br><br>rs rd rgs <br>ry upgrd<br>dd<br><br>d k<br> | d<br>xpd<br>w | Cv<br>w<br>dd<br>dsrbu<br>v<br>w<br>r<br><br>• uur<br>vs | Cprrs<br>w <br>r<br><br>• srsps<br>r<br>dr's<br>du<br>• mmuy<br> | | |
-
-rms uv. Sm ps bussss v rspdd wrk rs' dmds r gr wgs by mvg rs pr wgs d urgud wrkg urs. S 1970s, busss mgr s rsgy b w-wg urs rud gb, jus w-wg rgs w ury. k, r xmp, r-wrd s P Brds, w-kw ps g muurr Ausr. T brd drrs ry ddd r svr muurg s C, sddg ry w usd Aus r jbs prss.
-
-## ![](_page_87_Figure_2.jpeg)
-
-Fr P Brds, mxmzg surpus vu ms skg p wr survv ss r wr Ausr. N y ury wg rs b rdud bu wrkdy C s mu gr. T mb w wg pyms d g urs prdus mu rgr surpus, s dd ypy Pp's Au P Brds.
-
-Ts r rdrws budrs m mmu y, pg Cs d Ausr wrkrs, w r vry dr survv ds (r vrg sdrds vg), gsd d mp w r. A vr rprur udrms y r d r d by mry-wrd wrkrs w rgrd wrkrs wy dusrzg mjry-wrd xs. I mmuy my w mus k w ur rdpd w rs s mpud s wy r prv g.
-
-## Mz s s mp gr w w d s dsrbu. Trugu sry, v ms d
-
-## ![](_page_88_Figure_2.jpeg)
-
-r wdsprd dp v b wmd r pys brsvg d sy bs y rd. Bu prdxy r s s b mu pps smg gs burd wrk. Hw ms r rdud prdu d w bs rm m s mpr mps.
-
-Ms r ps rprur ppruy r p br, drv wg b dw, d rs surpus vu pr du. Ms s spd up d sy prdu, d s ms wrkrs prdu r survv pym srr prd m d spd mr wrkdy prdug surpus. Ovr m, s ms r wdy dpd, gds bm pr, vu survv gds ds, d surpus vu prdu s urr rsd.
-
-T sry gsm rdu mry sms rm rs rdudy pr wrkrs w v r ms suppr r survv wg pym. W rsg ms wr rdud Egd ry pr ury, usds gruur brrs wr md rdud d rd mgr s sr wrk. Tr y jd u-
-
-k sds x wrkrs w d s s r jbs bus rdu wd-rm ms. I b rur d urb sgs, gry pp brk ms r rusr, d Ludd mvm (md r Nd Ludd, ry m brkr) ws br.
-
-I xp ss, wrkrs v b pr d rm jb sss by prp busss wrs d v b b br b s br-svg ms. T "Od Trs g Sg," dg rm 1830s, mks su s. I ws d by Cppr my r Egd wr Qukr s wrs md mmms wrkg ms rug sss yr, gs gy d vr grs.
-
-I's a er we o ae a acine to ras our wea and are cean, to ras i and wi i a or sae ten o o o arke so risk and we Sinin rue-du-dair fare up mar nd ake er od ae sine.
-
-## tradiiona, Copper Fai Son book
-
-Prrb ug ps prpy my b, s y w survv–surpus xus bms us dmr dbr by vvd r s sm gur m jus. I s x, mz b vry dr xpr. W wrkrs r wrs r w prv busss, s w sw s FSP, dmr dbr s pssb. Ad s y survv–surpus xus bms us g; s s dsrbus surpus b dmry ddd up. rur r gudg r mmuy my, w k w surpus b dpyd prdu w-bg r pp d p.
-
-#### SrS iSTriBTi: aTEr E Er r a mmiT Em
-
-Surpus, b vr r xr, s g w v wrk w r w wrds. S r w v rd vry dr wys gg surpus–survv xus w dr kds rprss d mms w r dss r md bu s xus. W v prdud Pp's Au rk w surpus vu s pprprd d dpyd d by wm, s w s dy ds sps. I s s w k r r busss py s v r drg w w w ws pp d p.
-
-Fr mm 's rur ssu mz d s w, w dmry ddd up, surpus b dsrbud s s sm u jrrg s br dspm. k, r x mp, upgrdg w gds prdu wrkr-wd prvs Mdrgó Sp.
-
-T Mdrgó Cprv Crpr (MCC) s md up wrk wrkr-wd prvs mmd dmr rg z d mg mpym Bsqu rg Sp. T prrs, k rm mpv r mrks, u upgrd r prdu prsss rug m-
-
-k te mondraon Corporaion is srikin in a eir annua sraeic pan usua incudes a jo creaion are. mos are corporaions, in conras, deeop sraeies o increase earnins rou jo reducion.
-
-gre macleod, harard Inernaiona Reiew z. W w s---r br-svg mry s rdud, dspd wrkrs r dpyd r jbs r r prvs rg wrk. Sm r urgd g bk g b rd w pr du qus. W dg s, y r supprd by m wg.
-
-Durg rss 1980s, sm p rvs usd up 45 pr r surpus mz and k r wrkr-wrs w wr d. Sm s surpus m rm w wud usuy w dvdu prrs s prv dvdd. I s r ss, prr ws wg rg s r r dvdu sr rdr kp r busss v b d r r dspd wrkrs.
-
-Dss rud surpus dsrbus vv rd-s bw sr- d g-rm mps. As w s xmp Mdrgó, m r mrk sr wrkr-wrs v kp y uur by upgrdg gy d vsg rsr d dvpm. Bu sm m y v s sg sr rm s d v dvpd srgs suppr wrkrs w r d by s gs.
-
-I mmdy sr dmd by ps rms -b rdug prdu ss, mg mrk sr s mjr g r wrkr-wr prvs. Udr su prssurs, r mmm mg d rsg mpym wrkr wd prvs Bsqu rg Sp s d w sm mg judg uwm dvpm— mpym prr wrkrs swr. I r yrs MCC s sd sm mps prdu sr d mpyd prr wrkrs ps rprss. Uk P Brds mv, w vr, s srgy s ps wrkr gs r bu surs gg mpym r wrkr-wr prrs p d prv mpym r. T MCC s mmd rsg wrkrs' prp wrsp d mgm mps s wrk. I s, wvr, rs bu m ks bud ruy prv uur wrk, mg m, d wrsp. Hbs d g vrg, d prv sm b mpsd bu mus b uy rrmd d bd. Tus mjr vsm r MCC s prv du rm suppr r r prv du prgrms s w s s prv uvrsy d gs.
-
-I w w k bk my r pp d p, w d rspry bu w bs rm busss busss. W d pp w mmms rm w bus sss dsrbu surpus vrus wys— r vsrs, wrs d srdrs, mgrs, wrkrs, usmrs, d mmus r p and w rd-s k p bw s skdrs d wy.
-
-L's k k w g r muurrs Gr Mrs (GM) d y s w r ms y v dvrd prv bs r srdr-wrs d xuv rs (CEOs) xps r wrkrs.
-
-I 1980 GM rd vr 45 pr U. S. u mrk. Frm s dm mrk ps mpy d rg pr surpus vu ud s srvs dvs, GMAC. GM d ud ud mk mr my rm rs r s ud rm mkg d sg rs. A sm m, s GMAC ws xpdg, GM ws sug rs, sg prduv sss, yg wrkrs—d pyg xrb buss sr mgrs rwrd m r ug bk ss.
-
-GMAC grduy brd u rm u dg r srvs, udg subprm mrgg mrk. Bu w rss 2008, GMAC ws rd. By 2010 d prssurd U. S. gvrm r bu js pub my d s d bm rgs srdr mpy (wg 56 pr ).
-
-GM sd s prs rm rg w w dg d brrwg my. y, by rs, rmd usd r mu urg. I drd s surpus vu w prdu s bgg ddrss prbm rb msss. T mpy rd ps w-wg ss Ud Ss, u bk wrkrs' bs, d d surpus vu rsr d dvpm prdud rs mss-mrk ybrd rs.
-
-B mps v pursud srgs v dvsd wrk rs sd rgs. Bu y s k d ur pry uur d s urg s vv rgs wrd prdu dvpm w p rdu grus msss. Mg b pssb r busss rr s dr uurs wu s s wrkrs y s xd?
-
-## T ps rpr Ir Crps I. sws wy r-
-
-wrd. Ts mpy s wrd's rgs prdur mdur rp d s vr \$1 b u ss. I 1994 CEO d udr, Ry Adrs, ws prprg sp dg Ir's vrm ps. A m ws rdg Pu Hwk's bk e Ecology o Commerce. Ts bk prmpd m rz s busss ws dpg p's ur vrm d ws "pudrr." Adrs s g sy s mm s-rg ws k spr prd s s. 
-
-Frm mm, Ry Adrs mmd mpy mpy mg s gv vrm mps by 2020. Ir-
-
-k
-
-I reaized I was a punderer and i was no a eac I waned o eae eind.
-
-## Ra nderson, l ties
-
-Crps s gd s prdus s y sy dgrd r b ryd. I s mmzd rgy pus d mmd p v mprvs vrm w rdug ws d mr pu ss. By 2010, mpy's grus gs msss wr dw by 35 pr rm r v 1996. T mpy s s "d" s rpr rry mp urg vry rm prp brv rdsg prdus d prdu prss.
-
-Ir Crps s ud wy rdu s g pr w mg gd wg vs. I s mbrd gy rspsb r r p d wdd budrs ws survv supprs. I w drs surpus w-bg ur p rg gs rvs d, sm m, ps rspsby r s rpr.
-
-Pudrg ur s rdy b bss gr rs. I rpr ps mg sr, urmpsd gs ur prvd mssv w w, surg mms m pwr. Surpus s grd by prvy ssg mrs d ssrus us rppd r's rus d d udr s. I my s s "svrg w" s prvy xpd w rgrd r survv d w-bg r's sysms d mspr. Wrkrs gy mzd mg d rgy dusrs r s mgd drv wgs up, w bv r pp's survv sdrds (s w sw prvus pr). Ty v bm brs, g w srdrs d CEOs, rd-s bg md by rprs bw prv g d p ry dgrd.
-
-I s sruv r d p prgrssv b s rs survv pyms r rdwrkg pp ug by mrs' us s bgg Idusr Rvu. Ar wrkrs d kp uppg r dmds r gr d gr wgs r msvs? W ds sdr survv s mrs r um bgs g rd ? I mmuy my w mus k w ur rdpd w rs s dd r grd r b w.
-
-## I s s w v s w mmms gvr wys prv rprss dsrbu surpus d w v p s rprss drw r r pp d p p gud r dss bu surpus vu. Tr s w brd rprs s spy dsgd su prv g d wrk wrd ddrssg s d vrm rs dry. S rprss, smms d mmuy rprss, prdu gds d srvs w m mss srvg sd s r v rm purps. Tr us my b r d mpy grups w r usuy xudd rm br mrk (su s pp w dsbs), r y my us vrm prjs su s rvg d vrm up. Tr r my dr rms s rprs; sm r "prs," wrs rs s msvs s "mr--prs." Ardg Orgs r Em C-pr d Dvpm, "Ty m vry rms udg mpy wd bussss, rd us, -prvs, s prvs, dvpm russ, s rms, rmd bur mrk (ILM) rgss, mmuy bussss, r rs' rd g rms."
-
-W mmm grd mss s r r busss, s rprss vrusy m r dmr ds mkg bu
-
-> gvr d surpus dsrbu. A rg busss skdrs—mpys, usmrs, supprs, wdr mmuy, d v rm, s w s vsrs, rprurs, d mgrs—r rgzd s vg sy w busss s d d w bs rm .
+# PHILIPPINES FARMER Paid work ECOLOGICAL FOOTPRINT OF  gvr d surpus dsrbu. A rg busss skdrs—mpys, usmrs, supprs, wdr mmuy, d v rm, s w s vsrs, rprurs, d mgrs—r rgzd s vg sy w busss s d d w bs rm .
 
 > Hmby Idusrs s mud s rprs bsd Ls Ags, ws r busss s "gg rb." As r m rds, "Ng sps bu k jb." Ts rgz rs usg, du, rmv, subs bus d dd sss, jb rg, d jb pms yug pp w r rmr gg mmbrs, my wm v sp m j. Hmby Idusrs rus sv sm bus sss, udg bkry, dr, Hmgr C
 
@@ -1126,14 +868,29 @@ k socia enerprise is no dened is ea saus u is naure: is socia ais and oucoes; e 
 
 New Econoic Foundaion / Soreank disor Serices, Unockin e Poenia
 
-| a EE'S aT <br>E  TE mEB iSTriES | | | | | | | | | | |
+| a EE'S aT 
+E  TE mEB iSTriES | | | | | | | | | | |
 |--------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|---|---|-------------------------------------|-------------------|-----------------------------------------------------------------------|-------------------|--|--|--|
 | | Decision faspoins | | | | | | | | | |
-| hours o<br>e workda | | | | | | | | | | |
+| hours o
+e workda | | | | | | | | | | |
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | | | |
 | | youn workers' suria paen | | | Surpus aue and socia surpus | | | | | | |
-| r | Ex-gg mmbrs pd <br>vg wg<br>d gv<br>ss  srvs (usg,  rmv,<br>g srvs, du, rg, s). | | | | Busss pyms | S w srd <br>• suppr srvs r<br>yug pp | | | | |
-| Wgs r usd r<br>• d<br>• usg | | | | • ug<br>• rd rgs | | • dvp w<br>bussss <br> rg<br>rg pssbs | xpd<br> jb- | | | |
+| r | Ex-gg mmbrs pd 
+vg wg
+d gv
+ss  srvs (usg,  rmv,
+g srvs, du, rg, s). | | | | Busss pyms | S w srd 
+• suppr srvs r
+yug pp | | | | |
+| Wgs r usd r
+• d
+• usg | | | | • ug
+• rd rgs | | • dvp w
+bussss 
+ rg
+rg pssbs | xpd
+ jb- | | | |
 
 d Crg, d sksr d mbrdry busss. Yug pp g sks rg d jb xpr s bussss d r sssd d mpym r bussss. T s rprs rs grs rm gvrm d gs rm supprrs s w s m rm s Hmby bussss rm my vb.
 
@@ -1352,7 +1109,10 @@ Ms prdus w buy v "Md . . . " b. Ts ury- -rg bg ws us bg dy w ds rs r w r d v rd.
 |------------------------------------------------------------------|----------|----------------|----------------|--|--|--|--|--|--|
 | ITEM | DOMESTIC | MINORITY WORLD | MAJORITY WORLD | | | | | | |
 | FOOD Fresh Canned Frozen Preserved or dried | | | | | | | | | |
-| CLOTHING<br>Outerwear<br>Underwear<br>FOOTWEAR | | | | | | | | | |
+| CLOTHING
+Outerwear
+Underwear
+FOOTWEAR | | | | | | | | | |
 | ELECTRONICS Appliances Communication and entertainment equipment | | | | | | | | | |
 
 told only that the product was made from imported and local ingredients. In these cases we have to guess, or do more research, to find out more about the product's background.
@@ -1421,7 +1181,21 @@ Bu w Ds Ors Dd md w r prmpd sk dr quss. Ar prdurs prdus I buy rm my
 | SEr'S EiST | | | | | | | |
 |-----------------------------|--------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|--|--|--|--|--|
 | thE COSt | thE Ut IlIty | OUR SENSORy RESPONSE | | | | | |
-|  Is i<br>e ri price? |  Is i<br>unciona?<br> Wi i<br>as?<br> Is i sae?<br> Is i a reiae rand? |  Does i<br>ook ood?<br> Does i<br>ee ri?<br> Does i<br>ase nice?<br> Does i sound ri?<br> Does i se<br>ood? | | | | | |
+|  Is i
+e ri price? |  Is i
+unciona?
+ Wi i
+as?
+ Is i sae?
+ Is i a reiae rand? |  Does i
+ook ood?
+ Does i
+ee ri?
+ Does i
+ase nice?
+ Does i sound ri?
+ Does i se
+ood? | | | | | |
 
 w ury r vrss gg r d? Ar r y rmu v rm s prdu? Ar ms bg rd umy s prdu prss? I x br, vrm, d um ds prdu ud vry drmy.
 
@@ -1456,7 +1230,7 @@ T suppy ggs mpxy vvd gg my prdus ds sumrs—rm surg d rg rw mrs ssmbg s mp prs s
 
 Demand does indeed stimulate supply. But what else does our demand stimulate? Let's take another look at one of the links on our Distant Others Dandelion and identify just a few of the raw materials that were used in the mobile phone that was assembled in China (and was one of the products in Katherine's Where From? Inventory).
 
-When we buy a slick new mobile phone we may be indirectly funding ongoing warfare in Africa. Electronic gadgets like mobile phones require inputs of rare minerals—gold, as part of the wiring; tantalum, for electrical storage; tin, as a solder on circuit boards; and tungsten, for the vibration function on cell phones.<sup>6</sup> These minerals are called k
+When we buy a slick new mobile phone we may be indirectly funding ongoing warfare in Africa. Electronic gadgets like mobile phones require inputs of rare minerals—gold, as part of the wiring; tantalum, for electrical storage; tin, as a solder on circuit boards; and tungsten, for the vibration function on cell phones.6 These minerals are called k
 
 " mrs." Wy? Bus y r surd rm s r Cg, wr ms ms r prd by rb d m grups. Ts grups mk ms drs by gy xprg mrs rug sr Ar rgs k Es As r prssg d ry gb mrk.
 
@@ -1592,7 +1366,7 @@ S xps rud g gvg v b srd gs. dy, my urs gs my -r-pr rgzs r bv ds b md s x ddus. H
 
 k
 
-Coua toure on da<sup>a</sup> (e i econo) in mai, in Recaiin e gi Cuure grd by r r pr. Ts rs vvd dwrs r gzg survv ds s w ud ss r w d r wr r prp rvs br d b r sr s pym. I r g ury E gd, s Idusr Rvu bg, s smd -g u usd rgs brg pp ws gd rm gg, d prpr ws v gr r ms wdws.
+Coua toure on daa (e i econo) in mai, in Recaiin e gi Cuure grd by r r pr. Ts rs vvd dwrs r gzg survv ds s w ud ss r w d r wr r prp rvs br d b r sr s pym. I r g ury E gd, s Idusr Rvu bg, s smd -g u usd rgs brg pp ws gd rm gg, d prpr ws v gr r ms wdws.
 
 dy pr gg s k w mg. I r jug Ls Ags, urb ru-r gg s bg
 
@@ -1654,8 +1428,37 @@ Using the Ethical Interconnection Checklist to help navigate the various exchang
 
 | ETia iTErETi | EiST | |
 |-----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| thE EthICl CONCERN | thE EthICl QUEStIONS | thE PEOPlE ND<br>PlNEt CONNECtIONS |
-|  re o<br> needs and e<br>needs o oers ein<br>e? |   I connecin wi<br>oers ore direc?<br>  I akin on wa I<br>need?<br> re ere was I can ie<br>ack o ep oers ee<br>eir needs?<br> re ere oer was I can<br>sare or reciprocae? | ails<br> re anias reaed<br>uane?<br>evirt<br> re e enironena<br>ipacs o producion<br>addressed?<br>Ppl<br> Is we-ein<br>aken ino<br>accoun?<br>Plitis<br> re e poiics jus?<br>Sustibility<br> Does e produc<br>ae<br>a neura or posiie<br>ipac? |
+| thE EthICl CONCERN | thE EthICl QUEStIONS | thE PEOPlE ND
+PlNEt CONNECtIONS |
+|  re o
+ needs and e
+needs o oers ein
+e? |   I connecin wi
+oers ore direc?
+  I akin on wa I
+need?
+ re ere was I can ie
+ack o ep oers ee
+eir needs?
+ re ere oer was I can
+sare or reciprocae? | ails
+ re anias reaed
+uane?
+evirt
+ re e enironena
+ipacs o producion
+addressed?
+Ppl
+ Is we-ein
+aken ino
+accoun?
+Plitis
+ re e poiics jus?
+Sustibility
+ Does e produc
+ae
+a neura or posiie
+ipac? |
 
 #### ETivE a TiS r ETEri TErS
 
@@ -1691,7 +1494,7 @@ Equ Exg Ud Ss srd md-1980s w ry rdd grw by sm-s rmrs Nrgu. Frm s sm bggs, Equ Ex
 
 Mr rm r-rd wrks dvp rug prs s. Ls Crus-Cps C ss wvgs rm My wm's prvs Cps, Mx. Frm s U. S. rmrs' mrk Ls Crus, C s xpdd p s prdus r w vb . I uss vur br (udg vur br U. S. uvrsy-bsd rpgs w d sm). T my rm ss gs bk My wm's prvs. Ts pr ps mmbrs survv w, r vg r w d, d m r u ur prs. T C s prvds srsps r s dr d grs r wm d dr sudy wvg dsgs.
 
-#### Joinin or Sarin a Consuer Cooperai<sup>e</sup>
+#### Joinin or Sarin a Consuer Cooperaie
 
 A sumr prv s grup sumrs w j gr mupy r buyg pwr. Sm sumr prvs us g-
 
@@ -1721,7 +1524,7 @@ As dsussd rdy, sumr guds r rdy vb, d y gv us rm bu s prdus suprmrk svs d mps prd
 
 O s Wb s, E Csumr Grup prvds rm grup rds r my ds r s-gudd suprmrk ur d u mr bu prdus y purs d r s pp d vrm. T grup s suggss sd sg s r s ud-rsrs, grups s sumr gud.
 
-#### Supporin New marke<sup>s</sup>
+#### Supporin New markes
 
 Nw mrks r bg dvpd ddrss m g. Crb ss b pursd s pr r k r wy kwdgg mp ur rv vrm d pyg r vy w mps r ur mp (sy, r pg). "Cp-d-rd" mrks pr v, w p (r g) pd v grus gss b md y. Prms v p r pu mrk, d purs v buy prms vr r GGEs. Ovr m, p s rdud, d srkg suppy prms drvs up pr purs py, rby urgg m rdu r GGEs—sy, by rdu g w gs.
 
@@ -1864,7 +1667,7 @@ k
 
 We urn and we encourae our enironens, our ecosses, o coe aie aain.
 
-## Dean yiaruk, Naie tie Repor<sup>2007</sup>
+## Dean yiaruk, Naie tie Repor2007
 
 Impry, Abrg pp r rg g w rsps bw pp d vrms w rsp "r" prpry. Fr bm Abrg d ps ps rss dj prprs, w gr r d ss rm wdrs. I s rgrs gs d s survv ps d ms v rg. I Drw, sm surrs usuy d by smk r bg rm d wd-br pru mr. Ad r s b rdu- 450,000 mr s grus gs msss vr r yrs— sg rbu pry d Ausr's mmm r bgs. By gg rm prv d , Abrg pp v rd rdpds d s xd rss w sr–Idgus d um–um dvds. Ty v rsbsd mms.
 
@@ -1886,9 +1689,9 @@ Commons are continually made and remade, drawn down and replenished, maintained 
 
 All too often the commons that sustain us come to our attention only when they are being extinguished, polluted, or otherwise debased—when the air around us has become thick with smog, when the last speakers of a language pass from us, when the final few specimens of a species are preserved only in zoos, when the parkland our children play on is covered with concrete by a private urban development. With the realization of this loss comes the recognition that a community has failed to take responsibility for caring what supports it. A loss of a commons is a loss of a community.
 
-In many people's minds, the loss of commons is inevitable. This misunderstanding has come from an influential article written in 1968 by Garrett Hardin.<sup>3</sup> Hardin introduced the phrase "the tragedy of the commons" through the example of a pasture that is used by a number of herdsmen. Each herdsman keeps
+In many people's minds, the loss of commons is inevitable. This misunderstanding has come from an influential article written in 1968 by Garrett Hardin.3 Hardin introduced the phrase "the tragedy of the commons" through the example of a pasture that is used by a number of herdsmen. Each herdsman keeps
 
-<u>-------------------------------------</u>
+-------------------------------------
 
 A community economy makes and shares a commons—without a commons, there is no community, without a community, there is no commons.
 
@@ -1926,7 +1729,35 @@ T WALFA prj r mg sm g wy rm ps wr my us v ur dy vs, bu w k mm w w d mms r s rm s
 | | a mmS aaSiS  TE aa rjET | | | | | | | | |
 |---------------------------------------------|--------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|---------------------------------------------|---------------------------------------|---------------------------------------------------------------------------------|--|--|--|--|
 | CCESS | USE | bENEFIt | CRE | RESPONSIb IlIty | PROPERty | | | | |
-| Sared<br><br>e<br>Indienous<br>roups | Neoiaed<br><br>e<br>Indienous<br>roups and<br>e WlF<br>projec<br>coordinaor | to Indienous<br>and non<br>Indienous<br>peope near<br>and a a<br>disance | Sared<br><br>e<br>Indienous<br>roups | Sared <br>e<br>Indienous roups | Priae<br>and<br>coecie<br>owned<br>under<br>oriina<br>and enure | | | | |
+| Sared
+
+e
+Indienous
+roups | Neoiaed
+
+e
+Indienous
+roups and
+e WlF
+projec
+coordinaor | to Indienous
+and non
+Indienous
+peope near
+and a a
+disance | Sared
+
+e
+Indienous
+roups | Sared 
+e
+Indienous roups | Priae
+and
+coecie
+owned
+under
+oriina
+and enure | | | | |
 
 - 1. Time–Property Geography w ur vs sp r rrdd vr wy-ur-ur prd d
 - 2. Commons Identi-Kit, w w us dy wr vs vv us mms.
@@ -1949,7 +1780,25 @@ prur dy , Su, d r dr v my dr b ub. W y rur m, B d dr w vs v pub brdsr, w Su ds r
 | mmS iETi-iT | | | | | | | | | |
 |--------------------|---------------------------------|------------------------------------------------------------------|-----------------------------------------|------------------------------------|--------------------------------------------------------------------------|--|--|--|--|
 | CCESS | USE | bENEFIt | CRE | RESPONSIb IlIty | PROPERty | | | | |
-| Sared<br>and wide | Neoiaed<br> a<br>couni | Wide<br>disriued o<br>couni<br>eers (and<br>eond) | Perored<br><br>couni<br>eers | ssued <br>couni<br>eers | n<br>or o<br>ownersip<br>(priae,<br>sae,<br>or open<br>access) | | | | |
+| Sared
+and wide | Neoiaed
+ a
+couni | Wide
+disriued o
+couni
+eers (and
+eond) | Perored
+
+couni
+eers | ssued 
+couni
+eers | n
+or o
+ownersip
+(priae,
+sae,
+or open
+access) | | | | |
 
 kds mmuy r, w rs r-s r, r vs, d Ir ss. Ar w urs r, Su d kds jd B b ub r dr.
 
@@ -1967,13 +1816,55 @@ O urs, Su d dr ss Ir rug pr vdr. Ts prvdr s prvy wd rpr, d Su d r usrs r usmrs w
 
 W summrz mms B d Su d r dr r pr rby Cmms Id-K. Frm s br yss w s y r ggd mkg d srg umbr mpr mms rbu w-bg r w ( prmry s, b ub, d mmuy r) d wrd (Wkmd Cmms). I rs gsms prvd prv wrkps r py mpy
 
-| mmS iETi-iT r Bi, SE, a<br>ami | | | | | | |
+| mmS iETi-iT r Bi, SE, a
+ami | | | | | | |
 |-------------------------------------------------|-----------------------------------|---------------------------------------------------|-----------------------------------|--------------------------------------------|-----------------------------------------------------|------------------------------------------------------|
 | | CCESS | USE | bENEFIt | CRE | RESPONSIb IlIty | PROPERty |
-| Priar<br>scoo | teacers,<br>cidren,<br>parens | teacers,<br>cidren,<br>parens | teacers,<br>cidren,<br>parens | teacers,<br>cidren,<br>parens | teacers, cidren,<br>parens, sae<br>oernen | Sae-owned<br>puic<br>proper |
-| Fooa<br>cu | meers<br>and<br>aiies | meers<br>and aiies | meers<br>and aiies | Paid<br>epoees,<br>eers | Fooa cu<br>coiee o<br>anaeen | Priae and<br>coecie<br>owned <br>eers |
-| Couni<br>cener | Couni<br>eers | Couni<br>eers | Couni<br>eers | Paid<br>epoees,<br>couni<br>eers | Coiee o<br>anaeen,<br>oca<br>oernen | Sae-owned<br>puic<br>proper |
-| Wikipedia | Open | none<br>wo oows<br>e icense<br>areeen | none | vouneer<br>adinisraors |  users | Open access |
+| Priar
+scoo | teacers,
+cidren,
+parens | teacers,
+cidren,
+parens | teacers,
+cidren,
+parens | teacers,
+cidren,
+parens | teacers, cidren,
+parens, sae
+oernen | Sae-owned
+puic
+proper |
+| Fooa
+cu | meers
+and
+aiies | meers
+and aiies | meers
+and aiies | Paid
+epoees,
+eers | Fooa cu
+coiee o
+anaeen | Priae and
+coecie
+owned 
+eers |
+| Couni
+cener | Couni
+eers | Couni
+eers | Couni
+eers | Paid
+epoees,
+couni
+eers | Coiee o
+anaeen,
+oca
+oernen | Sae-owned
+puic
+proper |
+| Wikipedia | Open | none
+wo oows
+e icense
+areeen | none | vouneer
+adinisraors |  users | Open access |
 
 us pub rsurs, s mmus B d Su rg r spu d vv s w rs, rg d g w g vg w gr.
 
@@ -2031,10 +1922,53 @@ I ink oce is essenia o e suria o e species. te ae suc a specic aia . . . e rea n
 
 I w us Cmms Yrdsk, w s p r v wdr mmuy k sp— uur grs sjks d r rms w ppr m. T Cmms Yrdsk pss Sprs' mmg mv s sr x. O yrdsk w gg 1870s s prd mrkd d bdy d br srugg bw Abrg grups d s rs s pr ury d w Eurp sm ws rmy sbsd. T, s rsu rg-s d rg d
 
-| mmS iETi-iT r TE aSja<br>mmS | | | | | |
+| mmS iETi-iT r TE aSja
+mmS | | | | | |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
 | CCESS | USE | bENEFIt | CRE | RESPONSIb IlIty | PROPERty |
-| Spr my,<br>sprg<br>srs,<br>mmuy<br>vurs,<br>rsrrs,<br>rgrs, ,<br>d v<br>sps  ps<br>d ms | Rus s by <br>srv<br>grm<br>d<br>rsrrs d<br>rgrs  pr<br>brgw b<br>d sjks<br>d rd<br>wds, r<br>ms, pss,<br>d r | Fsjks,<br>,<br>brgw<br>srub, d<br>uur<br>grs | Spr<br>my,<br>sprg<br>srs,<br>mmuy<br>vurs,<br>mmuy<br>rgzs,<br>rsrrs,<br>d rgrs | Spr my,<br>rsrrs,<br>vurs, d<br>Brdd N<br>Wby rus | Idvduy<br>wd prv<br>prpry gd<br>by  Spr<br>my |
+| Spr my,
+sprg
+srs,
+mmuy
+vurs,
+rsrrs,
+rgrs, ,
+d v
+sps  ps
+d ms | Rus s by 
+srv
+grm
+d
+rsrrs d
+rgrs  pr
+brgw b
+d sjks
+d rd
+wds, r
+ms, pss,
+d r | Fsjks,
+,
+brgw
+srub, d
+uur
+grs | Spr
+my,
+sprg
+srs,
+mmuy
+vurs,
+mmuy
+rgzs,
+rsrrs,
+d rgrs | Spr my,
+rsrrs,
+vurs, d
+Brdd N
+Wby rus | Idvduy
+wd prv
+prpry gd
+by  Spr
+my |
 
 rdu r ms, sjks wr ug b x u- sm ppu ws dsvrd 1973. W gg 1990s d ry 2000s, w Av Nur Rsrv ws sbsd d sjks wr rs rsd.
 
@@ -2113,9 +2047,38 @@ ospere
 | | WAYS OF COMMONING | | | | | |
 |----------------------------------------------------|-----------------------|---------------------------------|-----------------------------------------------------|--------------------------------------|-------------------------|------------------------------------------------------------------|
 | | ACCESS | USE | BENEFIT | CARE | RESPONSIBILITY | OWNERSHIP |
-| Commoning<br>enclosed<br>property | Narrow | Restricted<br>by owner | Private | Performed by<br>owner or<br>employee | Assumed by<br>owner | Private individual<br>Private collective<br>State |
-| Creating<br>new<br>commons | Shared<br>and<br>wide | Negotiated<br>by a<br>community | Widely<br>distributed to<br>community<br>and beyond | Performed by<br>community<br>members | Assumed by<br>community | Private individual<br>Private collective<br>State<br>Open access |
-| Commoning<br>unmanaged<br>open-access<br>resources | Unrestricted | Open and<br>unregulated | Finders,<br>keepers | None | None | Open access<br>State |
+| Commoning
+enclosed
+property | Narrow | Restricted
+by owner | Private | Performed by
+owner or
+employee | Assumed by
+owner | Private individual
+Private collective
+State |
+| Creating
+new
+commons | Shared
+and
+wide | Negotiated
+by a
+community | Widely
+distributed to
+community
+and beyond | Performed by
+community
+members | Assumed by
+community | Private individual
+Private collective
+State
+Open access |
+| Commoning
+unmanaged
+open-access
+resources | Unrestricted | Open and
+unregulated | Finders,
+keepers | None | None | Open access
+State |
 
 ur gruur d dusr "dvms" v wrug ur ry mms. Ad r s us vgg rky rgums bu v d u prpry. I s gs, s mpr rgz rdss dr mms d r mmus. Fr xmp, rdr rpr ur mspr mms w d sur s kwdg s vb rug ur kwdg mms.
 
@@ -2174,7 +2137,7 @@ As rsu br m ps vr wrd, s wd prpry, prury pub srvs, s b prvzd. I sm ss mmus v mbz
 
 ethical action: Reclaiming and expanding commons to share the things that sustain us
 
-#### Reunicipaizin Waer and Sewerae Sse<sup>s</sup>
+#### Reunicipaizin Waer and Sewerae Sses
 
 Grb, Fr, s sm mu w r brdr w Sw zrd. I 1989 s wr d swg rm us wr prvzd. Immdy prs r s us srd. Ev srvg wr ws p zs, bus mpy ud rg mr pr u wr usg drppd bw r v. T urgd zs dmdd vsg. T vsg d subsqu prsu uvrd uur p rrup d mp. T y u "rmupzd" wr d swg rm sysms 1990s. Fry r mups, udg Prs 2010, v wd su. T rmupzg wr d swg rm sys ms s mkg sur s rsurs r mgd r b zry d r b prv rprs.
 
@@ -2206,7 +2169,7 @@ Gdw Lk s wrk prgrss vvs prg r busd ms 650 ms g Ausr's suwsr rr. T r srs rm , w r
 
 I Cgy d Or Cy Ppps, gvrm s pd up gs w prv dwrs grups pr urb rsds us uupd d grw vgbs. Tr s r s sbsg grms wud gv x brks d r vs dwrs w mk r d vb r s grds b d pr urb dwrs. Ev su mprry mms r v mpr pr urb rsds.
 
-#### Spiin e land ro e ho<sup>e</sup>
+#### Spiin e land ro e hoe
 
 Arss mry wrd r s grwg mmuy d rus mvm. I d rus d s wd by pr grup. T d vr b sd bu s mgd by rus r s purps, su s prvdg rdb usg r w-m grups. T us g d s wd by dvdu wr-uprs r smms by r grup (sy, usg prv). I s dvdu prv m wrsp, us b sd d rsd, d r ms rdb bus vu d s udd vu us. Ts s prury mpr rs wr d vus r rsg d usg s bmg urdb r s w ms (r xmp, r-y gbrds r b g grd). By mbg v d wrsp w dvdu m wrsp, grups r surg ss usg rms p w-m grups.
 
@@ -2377,7 +2340,7 @@ T sur Id s Kr prss mzg xmp g-rm vsm mprvg w-bg r . Kr s s ry-r m pp w mxd ppu s 
 
 eraa as soed one-ird o e equaion a dries enironena desrucion e word oer. nd, dein coneniona wisdo, i as done so wiou rapid econoic row—as done so wiou ecoin a ue consuer o resources and us desroin e enironen in oer was.
 
-bi mcien, te Enia o era<sup>a</sup> w Ud Ss (d sm yrs grr r Id s w). Sm 94 pr brs r dd by prsss, d d r s wr r Ar Amrs Wsg, D. C. T ry r s w brs pr wm, d ppu grw r s bw rpm v. Cmpr s 1950s, w Kr d gs ppu grw r Id.
+bi mcien, te Enia o eraa w Ud Ss (d sm yrs grr r Id s w). Sm 94 pr brs r dd by prsss, d d r s wr r Ar Amrs Wsg, D. C. T ry r s w brs pr wm, d ppu grw r s bw rpm v. Cmpr s 1950s, w Kr d gs ppu grw r Id.
 
 Ts dmgrp gs v b vd without rv s prs pursud C r rs Id, w v rdud ppu grw bu s rs brm sx rs ms ms. I Id s w, s r s 91 wm 100 m. I Kr, r vry 100 m r r 109 wm.
 
@@ -3011,31 +2974,57 @@ Bds," p://www.ury.u.rg/d/u//s.m, ssd 3 Dmbr 2012; UNOOSA, "ry Sgurs," p://www.s.
 
 ## Idx
 
-| Akks Fud, 46, 47<br>Am, Sdu, 9<br>A<br> Dvp Pwr, 152<br>Ar rd Jp, 87–88, 102, 115<br>Adrs, Ry, 68<br>swsp mpgs, 41<br>Armsrg, C, 44<br>Av Nur Rsrv, 140–42 | 55–61, 72; d  sur<br>pus dsrbu, 79, 80;<br>d mz, 63–64;<br>d surpus d survv,<br>54–55, 60–61. See also Gr<br>Mrs; Ir Crps;<br>P Brds; y<br>rb<br>msss, 126, 129 |
+| Akks Fud, 46, 47
+Am, Sdu, 9
+A
+ Dvp Pwr, 152
+Ar rd Jp, 87–88, 102, 115
+Adrs, Ry, 68
+swsp mpgs, 41
+Armsrg, C, 44
+Av Nur Rsrv, 140–42 | 55–61, 72; d  sur
+pus dsrbu, 79, 80;
+d mz, 63–64;
+d surpus d survv,
+54–55, 60–61. See also Gr
+Mrs; Ir Crps;
+P Brds; y
+rb
+msss, 126, 129 |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | | rgvrs, 43 |
 | B S, 22–32, 37 | CFCs, 144–45 |
 | By, J, 163 | Cry Bk, 184 |
 | brr, 121 | Cpsk Wb s, 44 |
 | By, Dvd, 182 | Crks, Tms, 9 |
-| Brkspr, Crs, 19 | m<br>g, 117, 127, 138, |
-| Brs Lvg Wg<br>mpg, | 144–46 |
+| Brkspr, Crs, 19 | m
+g, 117, 127, 138, |
+| Brs Lvg Wg
+mpg, | 144–46 |
 | 40 | usg, 46 |
-| busss, 49; d ds- | v<br>s: d <br>m |
+| busss, 49; d ds- | v
+s: d 
+m |
 | mkg pwr, 51, 52; d | ms, 148–57; r dsrbug |
-| w w<br>ws, 51, 66; | surpus, 73–81; r ur |
+| w w
+ws, 51, 66; | surpus, 73–81; r ur |
 | d surpus, 53–65, 61; d | g rs, 112–22; r vs |
-| w-bg, 51; d wrkr | g  dr<br>uurs, 177– |
+| w-bg, 51; d wrkr | g  dr
+uurs, 177– |
 | kvr  Arg, 51–53. | 87; r survvg w, 39–47 |
-| rprss<br>See also | Cv Cps, 76 |
+| rprss
+See also | Cv Cps, 76 |
 | Bus Rpd rs, 42, 43 | mmg, 138–47; d - |
-| buy-<br>mpgs, 115, 116 | v<br>s, 148–57; d s |
+| buy-
+mpgs, 115, 116 | v
+s, 148–57; d s |
 | | r, 147–48 |
 | Cvr Fud, 185 | mms, 130–37, 147; d |
-| ps<br>rprss, 14, 50, | Abrg pp, 127–29; |
+| ps
+rprss, 14, 50, | Abrg pp, 127–29; |
 ## | | |
 
-and the atmosphere, 144-46; commoning, 138-48; and creating new commons, 155-57; and natural resources, 156; and private property, 152–55; protecting, 149-52 Commons Identi-Kit, 133, 135-37, 141, 194 Commons Yardstick, 138, 139, 141-43, 145-46 community and becoming, viv Community Bank<sup>®</sup>, 184 community economy, xix, xx; and investing in the future, 163-64, 172-78; and the market, 89, 103–22; property, 129, 130-57; and reframing the economy, 7-8, 189, 194-97; and surplus, 55-63, 65, 73-81; and surviving well, 21-22, 30-33, 37-39 Community Economy Return on Investment, 174-78 Community Energy Solutions, 79 Community Exchange System, community garden, xv-xvii, 53, 156, 164-65 community-supported agriculture, 107-8, 119 Community Supported Coffee, community-supported organizations, 119
+and the atmosphere, 144-46; commoning, 138-48; and creating new commons, 155-57; and natural resources, 156; and private property, 152–55; protecting, 149-52 Commons Identi-Kit, 133, 135-37, 141, 194 Commons Yardstick, 138, 139, 141-43, 145-46 community and becoming, viv Community Bank®, 184 community economy, xix, xx; and investing in the future, 163-64, 172-78; and the market, 89, 103–22; property, 129, 130-57; and reframing the economy, 7-8, 189, 194-97; and surplus, 55-63, 65, 73-81; and surviving well, 21-22, 30-33, 37-39 Community Economy Return on Investment, 174-78 Community Energy Solutions, 79 Community Exchange System, community garden, xv-xvii, 53, 156, 164-65 community-supported agriculture, 107-8, 119 Community Supported Coffee, community-supported organizations, 119
 
 complementary currencies, 120, conflict minerals, 96-99 consumer boycotts, 118 cooperatives: consumer, 87; and fair trade, 102, 114-15, 119; Fa Sin Pat, 52-53, 61-62; in Kerala, 170; Landless Workers Movement, 75; Mondragón, 66-67, 161-63, 166, 175-76; worker-owned, 75-77 creative commons community, 136
 
@@ -3049,7 +3038,7 @@ kg guds s, xv m grw: d busss, 49; msrm Kr, 169; d uqu w ds rbu, 50 my, : s mmuy 
 
 33–37; d sump d rd, 93, 94, 103; d vsm, 173, 183, 185–87; Kr, 168; d rrm g my, 5–8, 10, 13, 15, 192–95, 1993; d s rprss, 70, 77; d wrk, 21, 33
 
-Equ Exg, 114 , xv; d mms, 138, 149, 152, 154, 155; d dsrbug surpus, 67, 73, 74, 79; d urg rs, 89, 112; d rprss, 74, 76, 78; d gg, 110, 121; d gvrms, 42; r vsg, 177–78, 181, 183, 185–86; d mrks, 89–100, 106–20; d r pry, 118; d rrmg my, xv, 189, 191, 196; d rsurs, 44, 46; d s-mpym, 81; d rd, 87–88, 102–3, 118; d vurg, 46; d wrk, 40. See also Ir Crps; SEWA rd F Cr; Urm Prj<sup>M</sup>
+Equ Exg, 114 , xv; d mms, 138, 149, 152, 154, 155; d dsrbug surpus, 67, 73, 74, 79; d urg rs, 89, 112; d rprss, 74, 76, 78; d gg, 110, 121; d gvrms, 42; r vsg, 177–78, 181, 183, 185–86; d mrks, 89–100, 106–20; d r pry, 118; d rrmg my, xv, 189, 191, 196; d rsurs, 44, 46; d s-mpym, 81; d rd, 87–88, 102–3, 118; d vurg, 46; d wrk, 40. See also Ir Crps; SEWA rd F Cr; Urm PrjM
 
 E Csumr Grup, 93, 117 sumr guds, 93, 117 E Csumr Rsr Ass, 93, 94
 

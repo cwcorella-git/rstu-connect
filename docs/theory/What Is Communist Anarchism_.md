@@ -1,16 +1,10 @@
 ---
-title: What Is Communist Anarchism
-slug: What Is Communist Anarchism_
-reconversion_status: ready_for_reconversion
-author: Alexander Berkman
-date: '1929'
-tags:
-  - theory
-  - anarchism
-  - strikes
-  - unions
-  - tenants
+title: "What Is Communist Anarchism"
+author: "Alexander Berkman"
+date: "1929"
+category: "theory"
 ---
+
 # **Alexander Berkman**
 
 # **What Is Communist Anarchism?**
@@ -3049,7 +3043,7 @@ Only liberty can make the social revolution effective and wholesome. It alone ca
  - [\[8\]](#page-84-2) November 7, new style.
 - [\[9\]](#page-85-0) In the South of Russia (the Ukraine) the bourgeoisie did offer some resistance, but only during the rule of the Hetmen Skoropadsky and Petlura, aided by the Allied armies. As soon as foreign aid was withdrawn, the Ukrainian bourgeoisie also became helpless.
 - [\[10\]](#page-85-1) Real counter-revolution began much later, when Bolshevik terror and dictatorship were in full sway, which alienated the masses and resulted in insurrections.
- - [\[11\]](#page-87-0) <sup>1917</sup>, by Leon Trotsky. Moscow, 1925.
+ - [\[11\]](#page-87-0) 1917, by Leon Trotsky. Moscow, 1925.
 - [\[12\]](#page-90-0) See the official protests by Bolsheviki of long standing, such as Lodovsky and others, quoted by Trotsky in his work 1917.
 - [\[13\]](#page-90-1) The revolt of the Kronstadt sailors in March, 1921. See The Kronstadt Rebellion, by the author.
  - [\[14\]](#page-96-0) July 13, 1874.

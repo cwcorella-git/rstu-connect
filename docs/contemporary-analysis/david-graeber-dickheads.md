@@ -1,20 +1,8 @@
 ---
-title: Dickheads
-author: David Graeber
-date: March 2015
-language: en
-source_url: >-
-  Retrieved on 3<sup>rd</sup> September 2020 from
-  https://thebaffler.com/salvos/dickheads
-notes: Published in Issue No. 27 of The Baffler
-topics:
-  - fashion
-  - The Baffler
-original_format: muse
-converted_date: '2025-11-08T11:25:03.094509'
-tags:
-  - Fashion
-  - The Baffler
+title: "Dickheads"
+author: "David Graeber"
+date: "March 2015"
+category: "contemporary-analysis"
 ---
 
 Some people (me, for instance) put a great deal of energy into organizing their lives so that they’ll never have to wear a tie. I’ve often wondered why this should be. Why should ties have such symbolic power? It’s not as if other parts of a formal suit—white shirts, tailored slacks, vests, or blazers—inspire the same sort of indignation. Somehow, it feels as if tying the necktie around your neck marks a final act of closure. It’s the act that transforms all those items into a suit, with all the suit implies, whether it’s the power of the boardroom or the ceremonial formalities of weddings and funerals—that whole world of official business over which men in suits invariably preside. No doubt, part of the objection to the tie is to the pure arbitrariness of the thing. A tie serves no function. It doesn’t hold your trousers up or keep you warm. But at the same time, it’s uncomfortable, so much so that putting it on does somehow feel like a gesture of submission, a reluctant pledge of allegiance to everything the suit is supposed to represent.

@@ -1,3 +1,8 @@
+---
+title: "## **Socialist Rifle Association Staff Join the IWW**"
+category: "contemporary-analysis"
+---
+
 ## **Socialist Rifle Association Staff Join the IWW**
 
 ## **Date:** Sat, 03/13/2021 - 00:00

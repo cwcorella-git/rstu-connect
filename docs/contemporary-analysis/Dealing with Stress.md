@@ -1,3 +1,7 @@
+---
+title: "In 2019, I was doing administrative work at an insurance company."
+category: "contemporary-analysis"
+---
 
 0:01
 In 2019, I was doing administrative work at an insurance company.
@@ -511,4 +515,4 @@ the whole, which exists in each
 of us.
 12:37
 Peace.
-## 
+##

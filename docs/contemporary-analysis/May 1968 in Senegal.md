@@ -1,3 +1,8 @@
+---
+title: "## **May 1968 in Senegal**"
+category: "contemporary-analysis"
+---
+
 ## **May 1968 in Senegal**
 
 ## **Date:** Unknown

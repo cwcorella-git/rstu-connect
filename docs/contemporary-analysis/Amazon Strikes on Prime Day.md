@@ -1,3 +1,8 @@
+---
+title: "## **Amazon Strikes on Prime Day**"
+category: "contemporary-analysis"
+---
+
 ## **Amazon Strikes on Prime Day**
 
 ## **Date:** Unknown

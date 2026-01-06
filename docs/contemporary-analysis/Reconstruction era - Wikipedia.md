@@ -1,3 +1,8 @@
+---
+title: "**Reconstruction era**"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_2.jpeg)
 
 # **Reconstruction era**
@@ -496,7 +501,9 @@ elsewhere. Other African American men elected to office were already leaders in 
 
 #### Race of delegates to 1867 state constitutional conventions[\[136\]](#page-60-11)
 
-| State | White | Black | % White | Statewide White<br>population<br>(% in 1870)[201] |
+| State | White | Black | % White | Statewide White
+population
+(% in 1870)[201] |
 |----------------|-------|-------|---------|---------------------------------------------------|
 | Virginia | 80 | 25 | 76 | 58 |
 | North Carolina | 107 | 13 | 89 | 63 |
@@ -512,7 +519,10 @@ There were few African Americans elected or appointed to national office. Africa
 
 African Americans in Office 1870–1876[\[203\]](#page-63-6)
 
-| State | State<br>Legislators | U. S.<br>Senators | U. S.<br>Congressmen |
+| State | State
+Legislators | U. S.
+Senators | U. S.
+Congressmen |
 |----------------|----------------------|------------------|---------------------|
 | Alabama | 69 | 0 | 4 |
 | Arkansas | 8 | 0 | 0 |
@@ -605,15 +615,30 @@ The following table shows property tax rates for South Carolina and Mississippi.
 
 | Year | South Carolina | Mississippi |
 |---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1869 | 5 mills (0.5%) | 1 mill (0.1%) (lowest rate between 1822 and<br>1898) |
+| 1869 | 5 mills (0.5%) | 1 mill (0.1%) (lowest rate between 1822 and
+1898) |
 | 1870 | 9 mills | 5 mills |
 | 1871 | 7 mills | 4 mills |
 | 1872 | 12 mills | 8.5 mills |
 | 1873 | 12 mills | 12.5 mills |
-| 1874 | 10.3–8 mills | 14 mills (1.4%) "a rate which virtually<br>amounted to confiscation" (highest rate<br>between 1822 and 1898) |
+| 1874 | 10.3–8 mills | 14 mills (1.4%) "a rate which virtually
+amounted to confiscation" (highest rate
+between 1822 and 1898) |
 | 1875 | 11 mills | |
 | 1876 | 7 mills | |
-| Sources | Reynolds, J. S. (1905). Reconstruction<br>in<br>South Carolina, 1865–1877 (https://archiv<br>e.org/details/reconstructioni00reyngoog/p<br>age/n538). Columbia, SC: The State Co.<br>p.<br>329. | Hollander, J. H. (1900). Studies<br>in State<br>Taxation with Particular Reference to the<br>Southern States (https://books.google.com/bo<br>oks?id=Idw0AAAAIAAJ&pg=PA13). Baltimore:<br>Johns Hopkins Press. p.<br>192. |
+| Sources | Reynolds, J. S. (1905). Reconstruction
+in
+South Carolina, 1865–1877 (https://archiv
+e.org/details/reconstructioni00reyngoog/p
+age/n538). Columbia, SC: The State Co.
+p.
+329. | Hollander, J. H. (1900). Studies
+in State
+Taxation with Particular Reference to the
+Southern States (https://books.google.com/bo
+oks?id=Idw0AAAAIAAJ&pg=PA13). Baltimore:
+Johns Hopkins Press. p.
+192. |
 
 Called upon to pay taxes on their property, essentially for the first time, angry plantation owners revolted. The conservatives shifted their focus away from race to taxes.[\[244\]](#page-65-11) Former Congressman [John R. Lynch,](https://en.wikipedia.org/wiki/John_R._Lynch) a Black Republican leader from Mississippi, later wrote:[\[223\]](#page-64-10)
 
@@ -1183,7 +1208,7 @@ The Zinn Education Project's report, *Erasing the Black Freedom Struggle: How St
 - 238. Jacqueline P. Bull, "The General Merchant in the Economic History of the New South." Journal of Southern History 18.1 (1952): 37-59. [in JSTOR \(https://www.jstor.o](https://www.jstor.org/stable/2954791) [rg/stable/2954791\)](https://www.jstor.org/stable/2954791)
 - 239. Lacy K. Ford, "Rednecks and Merchants: Economic Development and Social Tensions in the South Carolina Upcountry, 1865-1900." Journal of American History 71#2 (1984), pp. 294–318. [online \(https://doi.org/10.2307/1901757\)](https://doi.org/10.2307/1901757)
 - 240. Holland Thompson, "Life in a Southern Mill Town." Political Science Quarterly 15.1 (1900): 1-13. [online \(https://www.jstor.org/stable/pdf/2140703.pdf\)](https://www.jstor.org/stable/pdf/2140703.pdf)
-- 241. Dale Newman, "Work and community life in a southern textile town." Labor History 19.2 (1978): 204-225.<https://doi.org/10.1080/00236567808584489>
+- 241. Dale Newman, "Work and community life in a southern textile town." Labor History 19.2 (1978): 204-225.
 - 242. Foner \(1988\), p. 375.
 - 243. Foner \(1988\), p. 376.
 - 244. Foner \(1988\), pp. 415–416.
@@ -1308,7 +1333,7 @@ The Zinn Education Project's report, *Erasing the Black Freedom Struggle: How St
 - ▪ Brown, Thomas J., ed. (2008). Reconstructions: New Perspectives on the Postbellum United States.
 - ▪ [Calhoun, Charles W.](https://en.wikipedia.org/wiki/Charles_W._Calhoun) (2017). [The Presidency of Ulysses S. Grant](https://books.google.com/books?id=KWXdswEACAAJ) [\(https://books.googl](https://books.google.com/books?id=KWXdswEACAAJ) [e.com/books?id=KWXdswEACAAJ\).](https://books.google.com/books?id=KWXdswEACAAJ) Lawrence: University Press of Kansas. [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier)) [978-0-7006-2484-3.](https://en.wikipedia.org/wiki/Special:Book Sources/978-0-7006-2484-3) scholarly review and response by Calhoun at [doi:](https://en.wikipedia.org/wiki/Doi_(identifier))[10.14296/RiH/2014/2270 \(https://doi.org/10.14296%2FRiH%2F2014%2F2270\)](https://doi.org/10.14296%2FRiH%2F2014%2F2270)
 - ▪ [Chernow, Ron](https://en.wikipedia.org/wiki/Ron_Chernow) (2017). [Grant](https://books.google.com/books?id=wRYc DgAAQBAJ) [\(https://books.google.com/books?id=wRYc DgAAQBAJ\).](https://books.google.com/books?id=wRYc DgAAQBAJ) New York: Penguin Press. [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier)) [978-1-59420-487-6.](https://en.wikipedia.org/wiki/Special:Book Sources/978-1-59420-487-6)
-- Cimbala, Paul, and Randall Miller, eds. The Freedmen's Bureau and Reconstruction (Fordham UP, 2020).<https://doi.org/10.1515/9780823296828>
+- Cimbala, Paul, and Randall Miller, eds. The Freedmen's Bureau and Reconstruction (Fordham UP, 2020).
 - Cimbala, Paul Alan; Miller, Randall M.; Simpson, Brooks D. (2002). [An Uncommon](https://archive.org/details/uncommontimecivi00paul) [Time: The Civil War and the Northern Home Front](https://archive.org/details/uncommontimecivi00paul) [\(https://archive.org/details/uncom](https://archive.org/details/uncommontimecivi00paul) [montimecivi00paul\).](https://archive.org/details/uncommontimecivi00paul) Fordham University Press. [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier)) [978-0-8232-2195-0.](https://en.wikipedia.org/wiki/Special:Book Sources/978-0-8232-2195-0)
 - ▪ [Donald, David Herbert;](https://en.wikipedia.org/wiki/David_Herbert_Donald) [Baker, Jean H.;](https://en.wikipedia.org/wiki/Jean_H._Baker) Holt, Michael F. (2001). The Civil War and Reconstruction. New York: Norton. [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier)) [978-0393974270.](https://en.wikipedia.org/wiki/Special:Book Sources/978-0393974270) [OCLC](https://en.wikipedia.org/wiki/OCLC_(identifier)) [247969097 \(http](https://search.worldcat.org/oclc/247969097) [s://search.worldcat.org/oclc/247969097\).](https://search.worldcat.org/oclc/247969097)
 - Downs, Gregory P. (2015). After Appomattox: Military Occupation and the Ends of War. Cambridge, MA: Harvard University Press.

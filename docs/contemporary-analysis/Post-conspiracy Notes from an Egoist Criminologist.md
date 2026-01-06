@@ -1,3 +1,8 @@
+---
+title: "## **Post-conspiracy: Notes from an Egoist Criminologist**"
+category: "contemporary-analysis"
+---
+
 ## **Post-conspiracy: Notes from an Egoist Criminologist**
 
 ## **Date:** Unknown

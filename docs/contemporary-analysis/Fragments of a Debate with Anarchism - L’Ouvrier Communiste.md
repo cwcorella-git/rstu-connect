@@ -1,3 +1,8 @@
+---
+title: "## **Fragments of a Debate with Anarchism - L'Ouvrier Communiste**"
+category: "contemporary-analysis"
+---
+
 ## **Fragments of a Debate with Anarchism - L'Ouvrier Communiste**
 
 ## **Date:** Unknown

@@ -1,3 +1,8 @@
+---
+title: "**When to time the release of your indie game - Fungies.io**"
+category: "contemporary-analysis"
+---
+
 [fungies.io](https://fungies.io/when-to-time-the-release-of-your-indie-game/)
 
 # **When to time the release of your indie game - Fungies.io**

@@ -1,3 +1,8 @@
+---
+title: "## **Winter of Dissent**"
+category: "contemporary-analysis"
+---
+
 ## **Winter of Dissent**
 
 | Date: Tue, 12/13/2016 - 13:22 |
@@ -8,27 +13,35 @@
 | x356039 - |
 | IWW Environmental Unionism Caucus |
 | , December 14, 2016 |
-| The Establishment is at war with itself. On one side you have two national security agencies,<br>the |
+| The Establishment is at war with itself. On one side you have two national security agencies,
+the |
 | CIA |
 | and |
 | NSA |
-| , who are claiming the Russian government used hackers to rig the outcome of the election in<br>Trump's favor. On the other you have the FBI who, ten days before the election, |
+| , who are claiming the Russian government used hackers to rig the outcome of the election in
+Trump's favor. On the other you have the FBI who, ten days before the election, |
 | put their thumb on the scale |
 
 ## ![](_page_1_Figure_0.jpeg)
 
-| to anti-Russian sanctions, as Secretary of State. All around this chaos and corruption the<br>pattern of |
+| to anti-Russian sanctions, as Secretary of State. All around this chaos and corruption the
+pattern of |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | racist, classist |
 | vote suppression operations |
 | and |
 | electoral fraud |
 | is coming into sharp, clear focus. |
-| There's been a mixed response to this news from radicals of all stripes. Many, quite<br>understandably, are wary of all the agencies involved feeling none of these actors are credible<br>or trustworthy. Others are busy processing the sudden lurch of political conditions from |
+| There's been a mixed response to this news from radicals of all stripes. Many, quite
+understandably, are wary of all the agencies involved feeling none of these actors are credible
+or trustworthy. Others are busy processing the sudden lurch of political conditions from |
 | House of Cards |
 | to |
 | Game of Thrones |
-| . None of what is being said by the CIA, the FBI, or the NSA needs to be true for it to be clear<br>as glass they are slugging it out. Never before in American history have agencies of the<br>national security establishment so openly gone to war over any presidential election. By the<br>standards of American history this is a constitutional crisis in a state already suffering from |
+| . None of what is being said by the CIA, the FBI, or the NSA needs to be true for it to be clear
+as glass they are slugging it out. Never before in American history have agencies of the
+national security establishment so openly gone to war over any presidential election. By the
+standards of American history this is a constitutional crisis in a state already suffering from |
 
 a serious crisis of legitimacy
 

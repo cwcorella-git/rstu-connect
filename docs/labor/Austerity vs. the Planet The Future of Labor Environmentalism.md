@@ -1,3 +1,8 @@
+---
+title: "**Austerity vs. the Planet: The Future of Labor Environmentalism**"
+category: "labor"
+---
+
 # **Austerity vs. the Planet: The Future of Labor Environmentalism**
 
 ## **Date:** Mon, 04/11/2016 - 18:37

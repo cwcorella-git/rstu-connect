@@ -1,3 +1,8 @@
+---
+title: "## [cnbc.com](https://www.cnbc.com/amp/2023/05/25/chinese-augmented-reality-glasses-maker-nreal-rebr"
+category: "contemporary-analysis"
+---
+
 ## [cnbc.com](https://www.cnbc.com/amp/2023/05/25/chinese-augmented-reality-glasses-maker-nreal-rebrands-as-xreal.html)
 
 ## Chinese augmented reality glasses maker Nreal rebrands as Xreal as it takes on tech giants

@@ -1,3 +1,8 @@
+---
+title: "**Abraham De Leon**"
+category: "theory"
+---
+
 # **Abraham De Leon**
 
 # **Oh No, Not the "A" word! Proposing an "Anarchism" for Education**
@@ -134,7 +139,7 @@ Antliff, Allan. 2007. "Breaking free: Anarchist pedagogy." In Utopian Pedagogy: 
 
 Anyon, Jean. 2005. Radical Possibilities: Public Policy,Urban Education, and A New Social Movement. New York: Routledge.
 
-Apple, Michael. 2000. Official Knowledge: Democratic Education in <sup>a</sup> Conservative Age, 2nd Ed. New York: Routledge.
+Apple, Michael. 2000. Official Knowledge: Democratic Education in a Conservative Age, 2nd Ed. New York: Routledge.
 
 - . 2003. The State and the Politics of Knowledge. New York: Routledge Falmer.
  - . 2004a. Ideology and Curriculum, 3rd Ed. New York: Routledge.
@@ -176,7 +181,7 @@ Day, Richard. 2004. "From Hegemony to Affinity: The Political Logic of the Newes
 
 De Leon, Abraham. 2006. "The Time for Action is Now! Anarchist Theory, Critical Pedagogy, and Radical Possibilities." The Journal of Critical Education
 
-Policy Studies, 4. Accessed 1.25.2008. Ferguson, Ann. 2000. "Resisting the Veil of Privilege: Building Bridge Identities as an Ethico-Politics of Global Feminisms." In Decentering the Center: Philosophy for <sup>a</sup> Multicultural, Postcolonial, and Feminist World, edited by Uma Narayan and Sandra Harding, 189–207. Bloomington: Indiana University Press.
+Policy Studies, 4. Accessed 1.25.2008. Ferguson, Ann. 2000. "Resisting the Veil of Privilege: Building Bridge Identities as an Ethico-Politics of Global Feminisms." In Decentering the Center: Philosophy for a Multicultural, Postcolonial, and Feminist World, edited by Uma Narayan and Sandra Harding, 189–207. Bloomington: Indiana University Press.
 
 Foucault, Michel. 1995. Discipline and Punish: The Birth of the Prison. New York: Random House.
 
@@ -276,6 +281,6 @@ Retrieved on December 22nd, 2010 from ERIC online database
 
 University of Rochester, New York; Margaret Warner Graduate School of Education and Human Development
 
-[<sup>\[1\]</sup>](#page-1-0) Because of the diversity of anarchist thought, when I refer to anarchism, I actually mean anarchisms, and this better represents the diverse theoretical traditions that anarchist theory encompasses.
+[\[1\]](#page-1-0) Because of the diversity of anarchist thought, when I refer to anarchism, I actually mean anarchisms, and this better represents the diverse theoretical traditions that anarchist theory encompasses.
 
-[<sup>\[2\]</sup>](#page-2-0) [www.animalliberationfron.com](http://www.animalliberationfron.com/ALFront/WhatisALF.htm)
+[\[2\]](#page-2-0) [www.animalliberationfron.com](http://www.animalliberationfron.com/ALFront/WhatisALF.htm)

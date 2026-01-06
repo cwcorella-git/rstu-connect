@@ -1,3 +1,8 @@
+---
+title: "Innovations in Agriculture; and Innovations in Archaeology"
+category: "contemporary-analysis"
+---
+
 #### [thoughtco.com](https://www.thoughtco.com/catalhoyuk-turkey-167405)
 
 # Innovations in Agriculture; and Innovations in Archaeology

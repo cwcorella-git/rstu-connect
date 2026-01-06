@@ -1,3 +1,8 @@
+---
+title: "**Cayden Mak**"
+category: "contemporary-analysis"
+---
+
 # **Cayden Mak**
 
 # **Building Online Power**
@@ -110,7 +115,7 @@ We live in a time of tremendous opportunity for online action. Beyond the work t
 
 The internet itself will not yield transformation and greater freedom unless we act on it strategically and in alignment with our values. It's my hope that this offering can be of use as we contend for power on the internet, using the internet.
 
-**Cayden Mak** is Executive Director at 18 Million Rising, <sup>a</sup> national organizing formation for young Asian Americans online. He is a movement technologist whose work focuses on making technology work for the people, while fighting coercive, extractive, and carceral technologies. He is the 2019
+**Cayden Mak** is Executive Director at 18 Million Rising, a national organizing formation for young Asian Americans online. He is a movement technologist whose work focuses on making technology work for the people, while fighting coercive, extractive, and carceral technologies. He is the 2019
 
 recipient of the Everett C. Parker Award for his work on media justice and internet freedom. He lives in Oakland, California.
 

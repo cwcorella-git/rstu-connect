@@ -1,3 +1,8 @@
+---
+title: "**Kathleen Cleaver**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Kathleen_Cleaver)
 
 # **Kathleen Cleaver**
@@ -16,7 +21,9 @@ Cleaver delivering a speech in [Ruby Diamond Auditorium](https://en.wikipedia.or
 
 ## **Born** Kathleen Neal
 
-| | May 13, 1945 (age<br>80)<br>Dallas, Texas, U. S. |
+| | May 13, 1945 (age
+80)
+Dallas, Texas, U. S. |
 |-----------------|-------------------------------------------------|
 | Occupation | Academic |
 | Political party | Black Panther Party |
@@ -24,7 +31,9 @@ Cleaver delivering a speech in [Ruby Diamond Auditorium](https://en.wikipedia.or
 | Spouse | Eldridge Cleaver |
 | | |
 | | |
-| | (m.<br>1967; div.<br>1987) |
+| | (m.
+1967; div.
+1987) |
 ## | Children | 2 |
 
 **Kathleen Neal Cleaver** (born May 13, 1945) is an American law professor and activist known for her involvement with the [Black Power movement](https://en.wikipedia.org/wiki/Black_Power_movement) and the [Black Panther Party.](https://en.wikipedia.org/wiki/Black_Panther_Party)

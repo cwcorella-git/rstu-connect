@@ -1,3 +1,8 @@
+---
+title: "## **"Now and then the flame dies down, but solidarity is a stream of sparks"**"
+category: "contemporary-analysis"
+---
+
 ## **"Now and then the flame dies down, but solidarity is a stream of sparks"**
 
 ## **Date:** Unknown

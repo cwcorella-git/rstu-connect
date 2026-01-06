@@ -1,3 +1,8 @@
+---
+title: "## Nanodiamonds May Help Make Lithium-Ion Batteries Better and Safer"
+category: "contemporary-analysis"
+---
+
 ## Nanodiamonds May Help Make Lithium-Ion Batteries Better and Safer
 
 ## ![](_page_0_Picture_4.jpeg)

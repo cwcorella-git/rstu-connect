@@ -1,3 +1,8 @@
+---
+title: "## **Unify Fights Against Austerity and Climate Change**"
+category: "environmental-justice"
+---
+
 ## **Unify Fights Against Austerity and Climate Change**
 
 ## **Date:** Sun, 01/03/2016 - 20:01

@@ -1,16 +1,10 @@
 ---
-title: Socialism The Hope Of The Working Class
-author: Bill Haywood
-slug: Socialism The Hope of the Working Class - Bill Haywood
-reconversion_status: ready_for_reconversion
-date: 1913
-tags:
-  - theory
-  - anarchism
-  - strikes
-  - unions
-  - rent
+title: "Socialism The Hope Of The Working Class"
+author: "Bill Haywood"
+date: "1913"
+category: "theory"
 ---
+
 ## **Socialism: The Hope of the Working Class - Bill Haywood**
 
 ## **Date:** Unknown

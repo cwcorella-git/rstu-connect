@@ -1,3 +1,8 @@
+---
+title: "On Emancipation"
+category: "technology-digital-justice"
+---
+
 ## ![](_page_0_Figure_2.jpeg)
 
 # On Emancipation

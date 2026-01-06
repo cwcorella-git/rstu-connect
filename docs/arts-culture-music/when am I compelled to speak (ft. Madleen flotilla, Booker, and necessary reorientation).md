@@ -1,15 +1,22 @@
+---
+title: "## **when am I compelled to speak? (ft. Madleen flotilla, Booker, and necessary reorientation)**"
+category: "arts-culture-music"
+---
+
 ## **when am I compelled to speak? (ft. Madleen flotilla, Booker, and necessary reorientation)**
 
 | Date: 2025-06-11 |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Source: https://www.threadings.io/when-am-i-compelled-to-speak-ft-madleen-flotilla-booker-and-neces<br>sary-reorientation/ |
+| Source: https://www.threadings.io/when-am-i-compelled-to-speak-ft-madleen-flotilla-booker-and-neces
+sary-reorientation/ |
 | June 10 2025 reading |
 | 0:00 |
 | / |
 | 1859.9967346938774 |
 | 1× |
 | I generally do not take requests. |
-| I haven't felt compelled to write down my thoughts in a very long time. That's because I was<br>writing (finishing, editing, living amongst, drowning in) this book called |
+| I haven't felt compelled to write down my thoughts in a very long time. That's because I was
+writing (finishing, editing, living amongst, drowning in) this book called |
 | small prophecies |
 ## | |
 
@@ -29,10 +36,12 @@ please. It's a really lovely existence, just being able to write and breathe for
 
 ## This
 
-| is why I am impressed with such a collection of work, by the way. Not because I wrote it (I<br>didn't), but because I am impressed with my ability to withstand |
+| is why I am impressed with such a collection of work, by the way. Not because I wrote it (I
+didn't), but because I am impressed with my ability to withstand |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | this |
-| level of spiritual conduction without completely shattering my mind or falling (back) into fatal<br>alcoholism. That being said: |
+| level of spiritual conduction without completely shattering my mind or falling (back) into fatal
+alcoholism. That being said: |
 | I only write what I feel |
 | compelled |
 | to speak on. |
@@ -41,7 +50,9 @@ please. It's a really lovely existence, just being able to write and breathe for
 | why aren't you talking about |
 | X |
 | thing happening in the world????" |
-| Honestly, this is one of the (many) reasons I stopped checking my social media notifications.<br>This is (one of the many) reasons you can't DM me on Instagram. I don't feel a need to take<br>requests. I… feel sometimes that we forget that I am not a news source, or some sort of little |
+| Honestly, this is one of the (many) reasons I stopped checking my social media notifications.
+This is (one of the many) reasons you can't DM me on Instagram. I don't feel a need to take
+requests. I… feel sometimes that we forget that I am not a news source, or some sort of little |
 
 animatron you can program to interest you specifically. I am a person who shares what I think about the world whenever find myself… I was about to say helpful. Really, I write when I am unable to ignore writing. Most times, most days, I feel absolutely no compulsion to speak. I know it might be difficult to believe because of my various chosen professions but
 
@@ -65,19 +76,24 @@ I would not have progressed into different, longer forms of speaking. I would no
 
 ## For the record, I do occasionally try and disobey. My life dissolves accordingly and without ceremony. I both like the feeling of pleasing God and abhor the dissolution that distance with my benevolent divine creates. I am in covenants I cannot deviate from peacefully. I have to tell God thank you with every day of my life— that includes, in this stage of life, a relationship with being on stage, speaking.
 
-| I don't feel a need to provide an opinion on every geopolitical event that flits across our news<br>screens— that's not to say the event itself is not important; that is to say |
+| I don't feel a need to provide an opinion on every geopolitical event that flits across our news
+screens— that's not to say the event itself is not important; that is to say |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | my particular opinion |
 | is not, |
 | the |
 | vast majority of the time. |
-| I have loyalties and desires to particular people, missions, and states of beings that I… feel<br>like I espouse relatively often. |
-| You can probably guess how I feel about one thing because I've laid out pretty strong thesis<br>points about what I work towards. That process is called |
+| I have loyalties and desires to particular people, missions, and states of beings that I… feel
+like I espouse relatively often. |
+| You can probably guess how I feel about one thing because I've laid out pretty strong thesis
+points about what I work towards. That process is called |
 | extrapolation |
 | and it's good for you, I swear. |
 | Here is an easy example of why I do not take recommendations. |
-| The recurring request for comment at the moment is the Madleen Gaza aid flotilla, which can<br>be summarized in this picture below: |
-| I would like to introduce a concept I learned as a street medic that applies itself well to the<br>news cycle. |
+| The recurring request for comment at the moment is the Madleen Gaza aid flotilla, which can
+be summarized in this picture below: |
+| I would like to introduce a concept I learned as a street medic that applies itself well to the
+news cycle. |
 ## | Look for the people who cannot scream. |
 
 ## ![](_page_7_Figure_0.jpeg)
@@ -101,12 +117,16 @@ Thirty six more Palestinians shot dead today,
 | Now that I've laid out that background work: |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | people have already said this. |
-| Everything I just said, from the summaries to the caveats has already been said. Even the bit<br>about the uneven news coverage! |
+| Everything I just said, from the summaries to the caveats has already been said. Even the bit
+about the uneven news coverage! |
 | sourced from |
 | Palestine Reveals |
 | on Instagram |
 | What reasonably do you want me to add? |
-| Especially because, I am someone with ever accumulating power and connections. I am<br>thinking on, strategizing, postulating, and executing means of media that result in better<br>material outcomes. That work needs me to be in my physical life making connections and<br>plans and |
+| Especially because, I am someone with ever accumulating power and connections. I am
+thinking on, strategizing, postulating, and executing means of media that result in better
+material outcomes. That work needs me to be in my physical life making connections and
+plans and |
 | away |
 
 from screens, writing essays, possessed, maniacal. I cannot strategize when I'm attending to the screaming thing. Harder question for those that emailed/commented/beseeched me to speak about the Madleen: what materially changes if I talk about the flotilla, other than maybe your opinion of me? Public figures reveal to us our personal values as we project our ideals onto them. Is your most valiant understanding of a cultural hero, someone brave and powerful, simply someone that comments on and reacts to the most popular event news cycle? Why was it important that I said something about— not Gaza as a whole, nor the suffering that the West Bank suffers, never mind the happenings in the rest of the world, but the
@@ -119,7 +139,8 @@ from screens, writing essays, possessed, maniacal. I cannot strategize when I'm 
 | ICE raids in Flatbush, targeting Haitians. |
 | No one is asking me about the |
 | activists from Kenya and Uganda detained in Tanzania tortured and dumped elsewhere, |
-| and the greater trial for treason that's attached to. No one is even asking me to comment<br>about the aid massacres mentioned in this essay. |
+| and the greater trial for treason that's attached to. No one is even asking me to comment
+about the aid massacres mentioned in this essay. |
 | Why the flotilla? |
 | Reactionary news cycles are designed to keep us talking about the |
 | thing |
@@ -131,25 +152,39 @@ from screens, writing essays, possessed, maniacal. I cannot strategize when I'm 
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | responding |
 | right now |
-| rather than looking at the global chess board, making connections, and taking notes. Struggle<br>is protracted; resistance is protracted; victory is protracted. I'm certain there's a non-zero<br>amount of people going, "But I would not have known about the flotilla, or any of the things<br>about genocidal humanitarian aid, if you did not write this piece." Genuinely: I am pleased you<br>now know. Also: I don't think I've ever expressed to you all that my primary goal is not actually<br>to keep you informed; my goal, fundamentally, is to be in blissful and blessed covenant with<br>God. Every productive or humbling or life-changing thing that happens from that is a |
+| rather than looking at the global chess board, making connections, and taking notes. Struggle
+is protracted; resistance is protracted; victory is protracted. I'm certain there's a non-zero
+amount of people going, "But I would not have known about the flotilla, or any of the things
+about genocidal humanitarian aid, if you did not write this piece." Genuinely: I am pleased you
+now know. Also: I don't think I've ever expressed to you all that my primary goal is not actually
+to keep you informed; my goal, fundamentally, is to be in blissful and blessed covenant with
+God. Every productive or humbling or life-changing thing that happens from that is a |
 | byproduct |
 | , not the |
 | point |
-| . I'm taking this moment of personal lucidity to cement this into our collective understandings<br>of me: |
+| . I'm taking this moment of personal lucidity to cement this into our collective understandings
+of me: |
 | ismatu gwendolyn: someone who loves the masses |
 | because |
 | of divine love. I was radicalized in my youth by studying religion and went onwards from there. |
 
-| don't. I do not actually like talking! I do so because it allows me to touch God and I am rarely<br>stirred to speak if that is not the case. |
+| don't. I do not actually like talking! I do so because it allows me to touch God and I am rarely
+stirred to speak if that is not the case. |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ismatu gwendolyn: |
 | not |
 | an unbiased news source! |
-| I'm getting to know an idea as I write it down for you. I always liken essays to math homework:<br>I am practicing the theories, teaching myself something previously unfamiliar to me. In<br>sounding it out, concepts go from nothing to something not just for you all, but for me as well. I<br>do not feel compelled to write down what is widely observable, already been discussed, and<br>where I have nothing new to add and no incentive to engage beyond joining in the pointing at<br>the spectacle. Especially because the gaze of spectacle here was not actually |
+| I'm getting to know an idea as I write it down for you. I always liken essays to math homework:
+I am practicing the theories, teaching myself something previously unfamiliar to me. In
+sounding it out, concepts go from nothing to something not just for you all, but for me as well. I
+do not feel compelled to write down what is widely observable, already been discussed, and
+where I have nothing new to add and no incentive to engage beyond joining in the pointing at
+the spectacle. Especially because the gaze of spectacle here was not actually |
 | on |
 | Palestinians, who are suffering actively and in ways I struggle to comprehend. |
 | so then why did i feel compelled to speak on… |
-| cory booker<br>? |
+| cory booker
+? |
 | This |
 ## | |
 

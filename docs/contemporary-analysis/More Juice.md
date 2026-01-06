@@ -1,3 +1,8 @@
+---
+title: "## **More Juice?**"
+category: "contemporary-analysis"
+---
+
 ## **More Juice?**
 
 **Date:** Thu, 10/19/2023 - 00:00 **Source:** https://ecology.iww.org/node/6080**Tags:** Industrial Workers of the World (IWW), solidarity unionism, revolutionary unions, trade unions, unions, movements, unions, and organizations, strategy and tactics, strikes, deep organizing, COVID-19 By x364181 - Industrial Worker , October 19, 2023 Is that all labor needs? Ever since the sharp decline of unions in the latter half of the 1900s people have been scrambling to "revive" the labor movement. The call to action gained momentum recently during the stresses of the COVID-19 pandemic. Hopes were rekindled with new Amazon and Starbucks organizing attempts. People shout for more unions, more certification elections, more contracts, more workers organizing, more oomph – We mean it this time, dammit!

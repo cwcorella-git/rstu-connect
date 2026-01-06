@@ -1,3 +1,8 @@
+---
+title: "## [studentsofhistory.com](https://www.studentsofhistory.com/comparing-patricians-plebeians)"
+category: "contemporary-analysis"
+---
+
 ## [studentsofhistory.com](https://www.studentsofhistory.com/comparing-patricians-plebeians)
 
 ## **Comparing Patricians and Plebeians**

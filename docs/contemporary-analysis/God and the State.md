@@ -1,3 +1,8 @@
+---
+title: "**Michail Bakunin God and the State 1882**"
+category: "contemporary-analysis"
+---
+
 # **Michail Bakunin God and the State 1882**
 
 **Preface to the First French Edition I II III IV Credo quod absurdum**

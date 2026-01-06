@@ -1,3 +1,8 @@
+---
+title: "**Fascist Entryism: Ad Busters and the Problem of Hazy Politics**"
+category: "contemporary-analysis"
+---
+
 # **Fascist Entryism: Ad Busters and the Problem of Hazy Politics**
 
 ## **Date:** Sun, 03/06/2016 - 11:56

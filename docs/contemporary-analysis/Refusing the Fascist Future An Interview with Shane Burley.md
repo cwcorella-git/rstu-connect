@@ -1,3 +1,8 @@
+---
+title: "## **Refusing the Fascist Future: An Interview with Shane Burley**"
+category: "contemporary-analysis"
+---
+
 ## **Refusing the Fascist Future: An Interview with Shane Burley**
 
 ## **Date:** Wed, 12/20/2017 - 16:35

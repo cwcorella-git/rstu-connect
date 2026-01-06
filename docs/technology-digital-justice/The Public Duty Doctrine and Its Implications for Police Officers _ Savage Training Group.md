@@ -1,3 +1,8 @@
+---
+title: "## [savagetraininggroup.com](https://savagetraininggroup.com/public-duty-doctrine-implications-polic"
+category: "technology-digital-justice"
+---
+
 ## [savagetraininggroup.com](https://savagetraininggroup.com/public-duty-doctrine-implications-police-officers/)
 
 ## **The Public Duty Doctrine and Its Implications for Police Officers**

@@ -1,3 +1,8 @@
+---
+title: "[gnu.org](https://www.gnu.org/philosophy/right-to-read.html)"
+category: "technology-digital-justice"
+---
+
 [gnu.org](https://www.gnu.org/philosophy/right-to-read.html)
 
 ## **The Right to Read - GNU Project**

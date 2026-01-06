@@ -1,3 +1,8 @@
+---
+title: "## **Class Struggle, Autonomy, and the State in Iran**"
+category: "economic-alternatives"
+---
+
 ## **Class Struggle, Autonomy, and the State in Iran**
 
 ## **Date:** Unknown

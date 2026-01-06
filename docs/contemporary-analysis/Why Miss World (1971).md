@@ -1,3 +1,8 @@
+---
+title: "## **Why Miss World? (1971)**"
+category: "contemporary-analysis"
+---
+
 ## **Why Miss World? (1971)**
 
 ## **Date:** Unknown

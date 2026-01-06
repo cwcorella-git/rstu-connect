@@ -1,3 +1,8 @@
+---
+title: "**Richmond IWW May Day Platform**"
+category: "labor"
+---
+
 # **Richmond IWW May Day Platform**
 
 ## **Date:** Mon, 04/30/2018 - 12:07

@@ -1,3 +1,8 @@
+---
+title: "## **Interview With John Paul Wright**"
+category: "contemporary-analysis"
+---
+
 ## **Interview With John Paul Wright**
 
 ## **Date:** Sat, 03/26/2016 - 19:22
@@ -28,8 +33,20 @@ So, to move to a sustainable future, I think we as a people are going to need to
 | : |
 | What are some of your favorite labor stories? |
 | John Paul Wright |
-| : The story of Joe Hill because of how much myth it has with it. There are so many stories<br>about who Joe was as a person. What I like about his story is how important he really was to<br>the process of culture and the I. W. W. Joe Hill was a journalist, organizer and songwriter. His<br>skills at organizing are mostly myth or, one would have to do extensive research into the<br>drives that he worked on. But his music is a very big insight to what he was thinking back in<br>the 1910s. There were many writers that were writing the Socialist/Communist literature such<br>as Upton Sinclair and Eugene V. Debs. We can only imagine how connected as people they<br>really were, but their muckraking style was very similar. I also think Upton Sinclair's EPIC<br>(End Poverty In California) campaign is something very interesting. |
-| As for labor issues today, without a doubt, the story about CORE (caucus of rank and file<br>educators) and the Chicago Teachers Union rise of Karen Lewis, is one of the greatest labor<br>stories of my lifetime. Especially as someone who has been very involved in many reform<br>movements. What Labor Notes Magazine has done to keep a more radical element to the<br>labor movement alive is nothing to shake a stick at either. |
+| : The story of Joe Hill because of how much myth it has with it. There are so many stories
+about who Joe was as a person. What I like about his story is how important he really was to
+the process of culture and the I. W. W. Joe Hill was a journalist, organizer and songwriter. His
+skills at organizing are mostly myth or, one would have to do extensive research into the
+drives that he worked on. But his music is a very big insight to what he was thinking back in
+the 1910s. There were many writers that were writing the Socialist/Communist literature such
+as Upton Sinclair and Eugene V. Debs. We can only imagine how connected as people they
+really were, but their muckraking style was very similar. I also think Upton Sinclair's EPIC
+(End Poverty In California) campaign is something very interesting. |
+| As for labor issues today, without a doubt, the story about CORE (caucus of rank and file
+educators) and the Chicago Teachers Union rise of Karen Lewis, is one of the greatest labor
+stories of my lifetime. Especially as someone who has been very involved in many reform
+movements. What Labor Notes Magazine has done to keep a more radical element to the
+labor movement alive is nothing to shake a stick at either. |
 | John Carico |
 | : |
 | What are your thoughts on Big Box Unions, Bernie Sanders, and reform politics? |
@@ -73,7 +90,10 @@ John Carico : What are your favorite labor songs? John Paul Wright
 | I Hate The Capitalist System – Sarah Ogan Gunning |
 | War On The Workers – Anne Feeney |
 | Anything Utah Phillips |
-| Anne Feeney is an awesome woman. I was honored to carry her guitar for her on the Joe Hill<br>Roadshow Tour. I have a deep respect for labor musicians who have made it their career/job,<br>to document and teach people how to tell their own stories through music. I wish the labor<br>movement found value in us more. |
+| Anne Feeney is an awesome woman. I was honored to carry her guitar for her on the Joe Hill
+Roadshow Tour. I have a deep respect for labor musicians who have made it their career/job,
+to document and teach people how to tell their own stories through music. I wish the labor
+movement found value in us more. |
 | John Carico |
 | : |
 | Tell us about your music: |

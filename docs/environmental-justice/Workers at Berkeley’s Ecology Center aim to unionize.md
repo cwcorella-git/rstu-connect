@@ -1,3 +1,8 @@
+---
+title: "## **Workers at Berkeley's Ecology Center aim to unionize**"
+category: "environmental-justice"
+---
+
 ## **Workers at Berkeley's Ecology Center aim to unionize**
 
 ## **Date:** Tue, 02/28/2023 - 00:00
@@ -24,11 +29,17 @@ Organizers are seeking voluntary recognition from management, but have not yet r
 
 | equity program. |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| They are asking that inflation-based cost of living adjustments be guaranteed to help afford<br>the cost of living in the Bay Area. They also hope a union will ensure worker protections and<br>eliminate favoritism. |
-| "Having the ability to negotiate with management as a group will help us to gain respect and<br>make our workplace more equitable," worker Beth Williams said in a press release issued by<br>organizers. |
-| Martin Borque, the Ecology Center's executive director, has not responded to emails and<br>phone calls requesting comment. |
+| They are asking that inflation-based cost of living adjustments be guaranteed to help afford
+the cost of living in the Bay Area. They also hope a union will ensure worker protections and
+eliminate favoritism. |
+| "Having the ability to negotiate with management as a group will help us to gain respect and
+make our workplace more equitable," worker Beth Williams said in a press release issued by
+organizers. |
+| Martin Borque, the Ecology Center's executive director, has not responded to emails and
+phone calls requesting comment. |
 | Read the rest of the article |
 | here |
 | |
 | Disclaimer: |
-| The views expressed here are not the official position of the IWW (or even the IWW's EUC)<br>and do not necessarily represent the views of anyone but the author. |
+| The views expressed here are not the official position of the IWW (or even the IWW's EUC)
+and do not necessarily represent the views of anyone but the author. |

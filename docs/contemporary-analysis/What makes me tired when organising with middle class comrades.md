@@ -1,3 +1,8 @@
+---
+title: "## **What makes me tired when organising with middle class comrades**"
+category: "contemporary-analysis"
+---
+
 ## **What makes me tired when organising with middle class comrades**
 
 **Date:** Wed, 06/15/2016 - 12:36 **Source:** https://ecology.iww.org/node/1682**Tags:** class struggle, movement politics, Industrial Workers of the World (IWW), green unionism By Nicole Vosper - The Guardian , June 8, 2016
@@ -52,11 +57,15 @@ They're empathetic but not judgemental or patronising. They don't pretend to hav
 
 They take risks and do frontline work that threatens their privilege. They don't expect it to be anyone else's responsibility. Likewise they do the boring behind the scenes work too.
 
-| They leverage their privilege to support others. That might be lending someone money, or<br>giving them a free place to stay for a while. Or it might be informally mentoring someone to<br>improve their writing. |
+| They leverage their privilege to support others. That might be lending someone money, or
+giving them a free place to stay for a while. Or it might be informally mentoring someone to
+improve their writing. |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| They're aware of their speech and behaviour, how they phrase things so they are not<br>offensive. |
+| They're aware of their speech and behaviour, how they phrase things so they are not
+offensive. |
 | They don't dominate meetings or movements or think they have all the answers. |
-| They practically support people to participate by being militant that events are structured to<br>support people to get stuck in (childcare, travel expenses). No one's input is taken for granted. |
+| They practically support people to participate by being militant that events are structured to
+support people to get stuck in (childcare, travel expenses). No one's input is taken for granted. |
 | I hope people find this constructive, rather than critical. |
 | Nicole Vosper blogs |
 | here |

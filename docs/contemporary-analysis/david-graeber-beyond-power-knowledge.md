@@ -1,26 +1,8 @@
 ---
-title: Beyond Power/Knowledge
-author: David Graeber
-date: 25<sup>th</sup> May 2006
-language: en
-source_url: >-
-  Retrieved on 4<sup>th</sup> September 2020 from
-  https://libcom.org/library/beyond-powerknowledge-exploration-power-ignorance-stupidity
-notes: >-
-  See also: David Graeber Institute [[https://davidgraeber.institute/]] &
-  [[https://davidgraeber.org/]]
-topics:
-  - power
-  - anthropology
-  - social anarchism
-  - bureaucracy
-original_format: muse
-converted_date: '2025-11-08T11:25:03.051933'
-tags:
-  - Power
-  - Anthropology
-  - Social Anarchism
-  - Bureaucracy
+title: "Beyond Power/Knowledge"
+author: "David Graeber"
+date: "25<sup>th</sup> May 2006"
+category: "contemporary-analysis"
 ---
 
 Let me begin with a brief story about bureaucracy.
@@ -86,9 +68,9 @@ We are not used to thinking of nursing homes or banks or even HMOs as violent in
 
 All of this is obvious enough. What’s of ethnographic interest, perhaps, is how rarely citizens in industrial democracies actually think about this fact, or how instinctively we try to discount its importance. This is what makes it possible, for example, for graduate students to be able to spend days in the stacks of university libraries poring over theoretical tracts about the declining importance of coercion as a factor in modern life, without ever reflecting on that fact that, had they insisted on their right to enter the stacks without showing a properly stamped and validated ID, armed men would have been summoned to physically remove them. It’s almost as the more we allow aspects of our everyday existence to fall under the purview of bureaucratic regulations, the more everyone concerned colludes to downplay the fact (perfectly obvious to those actually running the system) that all of it ultimately depends on the threat of violence.
 
-In many of the rural communities that anthropologists are most familiar with, where modern administrative techniques are explicitly seen as alien impositions, many of these connections are much easier to see. In the part of rural Madagascar where I did my fieldwork, for example, that governments operate primarily by inspiring fear was seen as obvious. At the same time, in the absence of any significant government interference in the minutiae of daily life (via building codes, open container laws, the mandatory insuring of vehicles and so on), it became all the more apparent that the main business of government bureaucracy was the registration of taxable property. One curious result was that it was precisely the sort of information that was available from the Malagasy archives for the 19<sup>th</sup> and early 20<sup>th</sup> centuries for the community I was studying—precise figures about the size of each family and its holdings in land and cattle (and in the earlier period, slaves)—that I was least able to attain for the time I was there, simply because that was precisely what most people assumed an outsider coming from the capital would be likely to be asking about, and therefore, which they were least inclined to tell them.
+In many of the rural communities that anthropologists are most familiar with, where modern administrative techniques are explicitly seen as alien impositions, many of these connections are much easier to see. In the part of rural Madagascar where I did my fieldwork, for example, that governments operate primarily by inspiring fear was seen as obvious. At the same time, in the absence of any significant government interference in the minutiae of daily life (via building codes, open container laws, the mandatory insuring of vehicles and so on), it became all the more apparent that the main business of government bureaucracy was the registration of taxable property. One curious result was that it was precisely the sort of information that was available from the Malagasy archives for the 19th and early 20th centuries for the community I was studying—precise figures about the size of each family and its holdings in land and cattle (and in the earlier period, slaves)—that I was least able to attain for the time I was there, simply because that was precisely what most people assumed an outsider coming from the capital would be likely to be asking about, and therefore, which they were least inclined to tell them.
 
-What’s more, one result of the colonial experience was that what might be called relations of command—basically, any ongoing relationship in which one adult renders another an extension of his or her will—had become identified with slavery, and slavery, with the essential nature of the state. In the community I studied, such associations were most likely to come to the fore when people were talking about the great slave-holding families of the 19<sup>th</sup> century whose children went on to become the core of the colonial-era administration, largely (it was always remarked) by dint of their devotion to education and skill with paperwork. In other contexts, relations of command, particularly in bureaucratic contexts, were linguistically coded: they were firmly identified with French; Malagasy, in contrast, was seen as the language appropriate to deliberation, explanation, and consensus decision-making. Minor functionaries, when they wished to impose arbitrary dictates, would almost invariably switch to French. I particularly remember one occasion when an official who had had many conversations with me in Malagasy, and had no idea I even understood French, was flustered one day to discover me dropping by at exactly the moment everyone had decided to go home early. “The office is closed,” he announced, in French, “if you have any business you must return tomorrow at 8AM.” When I pretended confusion and claimed, in Malagasy, not to understand French, he proved utterly incapable of repeating the sentence in the vernacular, but just kept repeating the French over and over. Others later confirmed what I suspected: that if he had switched to Malagasy, he would at the very least have had to explain why the office had closed at such an unusual time. French is actually referred to in Malagasy as “the language of command”; it was characteristic of contexts where explanations, deliberation, ultimately, consent, was not really required, since they were ultimately premised on the threat of violence.
+What’s more, one result of the colonial experience was that what might be called relations of command—basically, any ongoing relationship in which one adult renders another an extension of his or her will—had become identified with slavery, and slavery, with the essential nature of the state. In the community I studied, such associations were most likely to come to the fore when people were talking about the great slave-holding families of the 19th century whose children went on to become the core of the colonial-era administration, largely (it was always remarked) by dint of their devotion to education and skill with paperwork. In other contexts, relations of command, particularly in bureaucratic contexts, were linguistically coded: they were firmly identified with French; Malagasy, in contrast, was seen as the language appropriate to deliberation, explanation, and consensus decision-making. Minor functionaries, when they wished to impose arbitrary dictates, would almost invariably switch to French. I particularly remember one occasion when an official who had had many conversations with me in Malagasy, and had no idea I even understood French, was flustered one day to discover me dropping by at exactly the moment everyone had decided to go home early. “The office is closed,” he announced, in French, “if you have any business you must return tomorrow at 8AM.” When I pretended confusion and claimed, in Malagasy, not to understand French, he proved utterly incapable of repeating the sentence in the vernacular, but just kept repeating the French over and over. Others later confirmed what I suspected: that if he had switched to Malagasy, he would at the very least have had to explain why the office had closed at such an unusual time. French is actually referred to in Malagasy as “the language of command”; it was characteristic of contexts where explanations, deliberation, ultimately, consent, was not really required, since they were ultimately premised on the threat of violence.
 
 In Madagascar, bureaucratic power was somewhat redeemed in most people’s minds by its tie to education. Comparative analysis suggests there is a direct relation however between the level of violence employed in a bureaucratic system, and the level of absurdity it is seen to produce. Keith Breckenridge, for example, has documented at some length the regimes of “power without knowledge” typical of colonial South Africa (2003), where coercion and paperwork largely substituted for the need for understanding African subjects. The actual installation of apartheid beginning in the 1950s, for example, was heralded by a new pass system that was designed to simplify earlier rules that obliged African workers to carry extensive documentation of labor contracts, substituting a single identity booklet, marked with their “names, locale, fingerprints, tax status, and their officially prescribed ‘rights’ to live and work in the towns and cities” (2005:84), and nothing else. Government functionaries appreciated it for streamlining administration, police for relieving them of the responsibility of having to actually talk to African workers; the latter universally referred to as the “dompas”, or “stupid pass”, for precisely that reason.
 
@@ -150,7 +132,7 @@ I’d like to thank David Apter, Keith Breckenridge, Kryzstina Fevervary, Andrej
 
 ### **BIBLIOGRAPHY**
 
-<biblio>
+
 Apter, David
 
 1965 The Politics of Modernization. Chicago: University of Chicago Press.
@@ -198,4 +180,3 @@ Rosaldo, Renato
 Smith, Adam
 
 XXX Theory of Moral Sentiments
-</biblio>

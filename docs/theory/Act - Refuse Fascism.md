@@ -1,3 +1,8 @@
+---
+title: "## [refusefascism.org](https://refusefascism.org/act/)"
+category: "theory"
+---
+
 ## [refusefascism.org](https://refusefascism.org/act/)
 
 ## **Act - Refuse Fascism**

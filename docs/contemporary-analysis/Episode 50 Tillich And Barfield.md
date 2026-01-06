@@ -1,3 +1,8 @@
+---
+title: "**Episode 50: Tillich And Barfield/**"
+category: "contemporary-analysis"
+---
+
 # **Episode 50: Tillich And Barfield/**
 
 **Source:** https://www.meaningcrisis.co/ep-50-awakening-from-the-meaning-crisis-tillich-and-barfield/

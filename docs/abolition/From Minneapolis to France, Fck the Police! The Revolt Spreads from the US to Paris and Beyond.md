@@ -1,20 +1,10 @@
 ---
-title: >-
-  From Minneapolis To France Fck The Police The Revolt Spreads From The Us To
-  Pari
-slug: >-
-  From Minneapolis to France, Fck the Police! The Revolt Spreads from the US to
-  Paris and Beyond
-reconversion_status: ready_for_reconversion
-date: 2005
-author: CrimethInc
-tags:
-  - abolition
-  - police
-  - rent
-  - anarchism
-  - organizing
+title: ">-"
+author: "CrimethInc"
+date: "2005"
+category: "abolition"
 ---
+
 ## **From Minneapolis to France, F\*ck the Police!: The Revolt Spreads from the US to Paris and Beyond**
 
 ## **Date:** Unknown

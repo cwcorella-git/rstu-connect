@@ -1,3 +1,8 @@
+---
+title: "Our world is dying. Or more accurately, it is being killed."
+category: "contemporary-analysis"
+---
+
 Our world is dying. Or more accurately, it is being killed.
 
 ## 0:07

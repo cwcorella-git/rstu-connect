@@ -1,3 +1,8 @@
+---
+title: "**THE WOMAN OF COLOR AND THE WHITE MAN**"
+category: "contemporary-analysis"
+---
+
 ## Magh Skin While masks
 
 ## Introductions by Homi Bhabha and Ziauddin Sardar
@@ -100,7 +105,7 @@ The opening gambit of *Black Skin, White Masks* ushers us towards an imminent ex
 
 But this not simply a historic landscape, although *Black Skin, White Masks* is a historic text, fi rmly located in time and place. Fanon's anger has a strong contemporary echo. It is the silent scream of all those who toil in abject poverty simply to exist in the hinterlands and vast conurbations of Africa. It is the resentment of all those marginalized and fi rmly located on the fringes in Asia and Latin America. It is the bitterness of those demonstrating against the Empire, the superiority complex of the neo-conservative ideology, and the banality of the "War on Terror." It is the anger of all whose cultures, knowledge systems and ways of being that are ridiculed, demonized, declared inferior and irrational, and, in some cases, eliminated. This is not just any anger. It is the universal
 
-<sup>\*</sup> Direct quotations from *Black Skin, White Masks* are set in italics.
+\* Direct quotations from *Black Skin, White Masks* are set in italics.
 
 fury against oppression in general, and the perpetual domination of the Western civilization in particular.
 
@@ -452,7 +457,7 @@ In the fourth chapter I examine a work2 that in my opinion is dangerous. The aut
 
 The fi fth chapter, which I have called *The Fact of Blackness*, is important for more than one reason. It portrays the Negro face to face with his race. It will be observed that there is no common link between the Negro of this chapter and the Negro who wants to go to bed with a white woman. In the latter there is clearly a wish to be white. A lust for revenge, in any case. Here, in contrast, we observe the desperate struggles of a Negro who is driven to discover the meaning of black identity. White civilization and European culture have forced an existential deviation on the Negro. I shall demonstrate elsewhere that what is often called the black soul is a white man's artifact.
 
-<sup>2. [</sup>Dominique] O. Mannoni, *Prospero and Caliban: The Psychology of Colonization* (New York, Praeger, 1964). Originally *Psychologie de la Colonisation* (Paris, Editions du Seuil, 1950).
+2. [Dominique] O. Mannoni, *Prospero and Caliban: The Psychology of Colonization* (New York, Praeger, 1964). Originally *Psychologie de la Colonisation* (Paris, Editions du Seuil, 1950).
 
 The educated Negro, slave of the spontaneous and cosmic Negro myth, feels at a given stage that his race no longer understands him.
 
@@ -486,9 +491,9 @@ There is the city, there is the country. There is the capital, there is the prov
 
 The process repeats itself with the man of Martinique. First of all on his island: Basse-Pointe, Marigot, Gros-Morne, and, opposite, the imposing Fort-de-France. Then, and this is the important point, beyond his island. The Negro who knows the mother country is a demigod. In this connection I offer a fact that must have struck
 
-<sup>1.</sup> *Charmes* (Paris, Gallimard, 1952).
+1. *Charmes* (Paris, Gallimard, 1952).
 
-## <sup>2.</sup> *Le langage et l'agressivité.*
+## 2. *Le langage et l'agressivité.*
 
 my compatriots. Many of them, after stays of varying length in metropolitan France, go home to be deifi ed. The most eloquent form of ambivalence is adopted toward them by the native, theone-who-never-crawled-out-of-his-hole, the *bitaco.* The black man who has lived in France for a length of time returns radically changed. To express it in genetic terms, his phenotype undergoes a defi nitive, an absolute mutation.3 Even before he had gone away, one could tell from the almost aerial manner of his carriage that new forces had been set in motion. When he met a friend or an acquaintance, his greeting was no longer the wide sweep of the arm: With great reserve our "new man" bowed slightly. The habitually raucous voice hinted at a gentle inner stirring as of rustling breezes. For the Negro knows that over there in France there *is* a stereotype of him that will fasten on to him at the pier in Le Havre or Marseille: "Ah come fom Mahtinique, it's the fuhst time Ah've eveh come to Fance." He knows that what the poets call the *divine gurgling* (listen to Creole) is only a halfway house between pidgin-nigger and French. The middle class in the Antilles never speak Creole except to their servants. In school the children of Martinique are taught to scorn the dialect. One avoids *Creolisms.* Some families completely forbid the use of Creole, and mothers ridicule their children for speaking it.
 
@@ -509,7 +514,7 @@ There is a psychological phenomenon that consists in the belief that the world w
 
 Césaire's description of it is anything but poetic. It is understandable, then, when at the news that he is getting into France
 
-<sup>5.</sup> *Cahiers* (Paris, Présence Africaine, 1956), p. 30.
+5. *Cahiers* (Paris, Présence Africaine, 1956), p. 30.
 
 (quite like someone who, in the colloquial phrase, is "getting a start in life") the black man is jubilant and makes up his mind to change. There is no thematic pattern, however; his structure changes independently of any refl ective process. In the United States there is a center directed by Pearce and Williamson; it is called Peckham. These authors have shown that in married couples a biochemical alteration takes place in the partners, and, it seems, they have discovered the presence of certain hormones in the husband of a pregnant woman. It would be equally interesting—and there are plenty of subjects for the study—to investigate the modifi cations of body fl uids that occur in Negroes when they arrive in France. Or simply to study through tests the psychic changes both before they leave home and after they have spent a month in France.
 
@@ -535,9 +540,9 @@ What is the origin of this personality change? What is the source of this new wa
 
 On the basis of other studies and my own personal observations, I want to try to show why the Negro adopts such a position, peculiar to him, with respect to European languages. Let me point out once more that the conclusions I have reached pertain to the French Antilles; at the same time, I am not unaware that the same behavior patterns obtain in every race that has been subjected to colonization.
 
-I have known—and unfortunately I still know—people born in Dahomey or the Congo who pretend to be natives of the Antilles; I have known, and I still know, Antilles Negroes who are annoyed when they are suspected of being Senegalese. This is because the Antilles Negro is more "civilized" than the African, that is, he is closer to the white man; and this difference prevails not only in back streets and on boulevards but also in public service and the army. Any Antilles Negro who performed his military service in a Senegalese infantry regiment is familiar with this disturbing climate: On one side he has the Europeans, whether born in his own country or in France, and on the other he has the Senegalese. I remember a day when, in the midst of combat, we had to wipe out a machine-gun nest. The Senegalese were ordered to attack three times, and each time they were forced back. Then one of them wanted to know why the *toubabs*<sup>6</sup> did not go into action. At such times, one no longer knows whether one is *toubab* or "native." And yet many Antilles Negroes see nothing to upset them in such European identifi cation; on the contrary, they fi nd it altogether normal. That would be all we need, to be taken for niggers! The Europeans despise the Senegalese, and the Antilles Negro rules the black roost as its unchallenged master. Admittedly as an extreme example, I offer a detail that is at least amusing. I was talking recently with someone from Martinique who told me with considerable resentment that some Guadeloupe Negroes were trying to "pass" as Martinicans. But, he added, the lie was rapidly discovered, because they are more savage than we are; which, again, means they are farther away from the white man. It is said that the Negro loves to jabber; in my own case, when
+I have known—and unfortunately I still know—people born in Dahomey or the Congo who pretend to be natives of the Antilles; I have known, and I still know, Antilles Negroes who are annoyed when they are suspected of being Senegalese. This is because the Antilles Negro is more "civilized" than the African, that is, he is closer to the white man; and this difference prevails not only in back streets and on boulevards but also in public service and the army. Any Antilles Negro who performed his military service in a Senegalese infantry regiment is familiar with this disturbing climate: On one side he has the Europeans, whether born in his own country or in France, and on the other he has the Senegalese. I remember a day when, in the midst of combat, we had to wipe out a machine-gun nest. The Senegalese were ordered to attack three times, and each time they were forced back. Then one of them wanted to know why the *toubabs*6 did not go into action. At such times, one no longer knows whether one is *toubab* or "native." And yet many Antilles Negroes see nothing to upset them in such European identifi cation; on the contrary, they fi nd it altogether normal. That would be all we need, to be taken for niggers! The Europeans despise the Senegalese, and the Antilles Negro rules the black roost as its unchallenged master. Admittedly as an extreme example, I offer a detail that is at least amusing. I was talking recently with someone from Martinique who told me with considerable resentment that some Guadeloupe Negroes were trying to "pass" as Martinicans. But, he added, the lie was rapidly discovered, because they are more savage than we are; which, again, means they are farther away from the white man. It is said that the Negro loves to jabber; in my own case, when
 
-<sup>6.</sup> Literally, this dialect word means *European*; by extension it was applied to any offi cer. (Translator's note.)
+6. Literally, this dialect word means *European*; by extension it was applied to any offi cer. (Translator's note.)
 
 I think of the word *jabber* I see a gay group of children calling and shouting for the sake of calling and shouting—children in the midst of play, to the degree to which play can be considered an initiation into life. The Negro loves to jabber, and from this theory it is not a long road that leads to a new proposition: The Negro is just a child. The psychoanalysts have a fi ne start here, and the term *orality* is soon heard.
 
@@ -551,7 +556,7 @@ Even now, despite the fact that it is a language that everyone knows more or les
 
 In the case of the poets that I am discussing here, there is no question of their deliberately becoming "Antilleans"—on the Provençal picturesque model—by employing a dead language which, furthermore, is utterly devoid of all external radiance regardless of its intrinsic qualities; it is rather a matter of their asserting, in opposition to white men fi lled with the worst racial prejudices, whose arrogance is more and more plainly demonstrated to be unfounded, the integrity of their personalities.7
 
-<sup>7. &</sup>quot;Martinique-Guadeloupe-Haiti," *Les Temps Modernes*, February, 1950, p. 1347.
+7. &quot;Martinique-Guadeloupe-Haiti," *Les Temps Modernes*, February, 1950, p. 1347.
 
 If there is, for instance, a Gilbert Gratiant who writes in dialect, it must be admitted that he is a rarity. Let us point out, furthermore, that the poetic merit of such creation is quite dubious. There are, in contrast, real works of art translated from the Peul and Wolof dialects of Senegal, and I have found great interest in following the linguistic studies of Sheik Anta Diop.
 
@@ -569,9 +574,9 @@ Dr. H. L. Gordon, attending physician at the Mathari Mental Hospital in Nairobi,
 
 It has been said that the Negro is the link between monkey and man—meaning, of course, white man. And only on page 108 of his book does Sir Alan Burns come to the conclusion that "we are unable to accept as scientifi cally proved the theory that the black man is inherently inferior to the white, or that he comes from a different stock. . . ." Let me add that it would be easy to prove the absurdity of statements such as this: "It is laid down in the Bible that the separation of the white and black races will be continued in heaven as on earth, and those blacks who are admitted into the Kingdom of Heaven will fi nd themselves separately lodged in certain of those many mansions of Our Father that are mentioned in the New Testament." Or this: "We are the chosen people—look
 
-<sup>8.</sup> Jean-Paul Sartre, *Orphée Noir*, in *Anthologie de la nouvelle poésie nègre et malgache*, p. ix.
+8. Jean-Paul Sartre, *Orphée Noir*, in *Anthologie de la nouvelle poésie nègre et malgache*, p. ix.
 
-<sup>9.</sup> Quoted in Sir Alan Burns, *Colour Prejudice* (London, Allen & Unwin, 1948), p. 101.
+9. Quoted in Sir Alan Burns, *Colour Prejudice* (London, Allen & Unwin, 1948), p. 101.
 
 at the color of our skins. The others are black or yellow: That is because of their sins."
 
@@ -656,7 +661,7 @@ Historically, it must be understood that the Negro wants to speak French because
 
 13. Compare for example the almost incredible store of anecdotes to which the election of any candidate gives rise. A fi lthy newspaper called the *Canard Déchainé* could not get its fi ll of overwhelming Monsieur B. with devastating Creolisms. This is indeed the bludgeon of the Antilles: *He can't express himself in French.*
 
-a deputy's seat, addressed a large audience in the boys' school in Fort-de-France. In the middle of his speech a woman fainted. The next day, an acquaintance told me about this, and commented: *"Français a té tellement chaud que la femme là tombé malcadi.*<sup>14</sup> The power of language!
+a deputy's seat, addressed a large audience in the boys' school in Fort-de-France. In the middle of his speech a woman fainted. The next day, an acquaintance told me about this, and commented: *"Français a té tellement chaud que la femme là tombé malcadi.*14 The power of language!
 
 Some other facts are worth a certain amount of attention: for example, Charles-André Julien introducing Aimé Césaire as "a Negro poet with a university degree," or again, quite simply, the expression, "a great black poet."
 
@@ -668,9 +673,9 @@ Again we fi nd this in Michel Leiris:
 
 If in the writers of the Antilles there does exist a desire to break away from the literary forms associated with formal education, such a desire, oriented toward a purer future, could not take on an aspect of folklore. Seeking above all, in literature, to formulate the message that is properly theirs, and in the case of some of them at least, to be the spokesmen of an authentic race whose potentials have never been acknowledged, they scorn such devices. Their intellectual growth took place almost exclusively within the framework of the French language, and it would be artifi ce for
 
-<sup>14.</sup> *"Le français (l'élégance de la forme) était tellement chaud que la femme est tombée en transes"* [His French (the refi nement of his style) was so exciting that the woman swooned away].
+14. *"Le français (l'élégance de la forme) était tellement chaud que la femme est tombée en transes"* [His French (the refi nement of his style) was so exciting that the woman swooned away].
 
-<sup>15.</sup> Introduction to *Cahier d'un retour au pays natal*, p. 14.
+15. Introduction to *Cahier d'un retour au pays natal*, p. 14.
 
 them to resort to a mode of speech that they virtually never use now except as something learned.16
 
@@ -700,15 +705,15 @@ There were evenings, unhappily, when he had to leave me alone in order to fulfi 
 
 Among André's colleagues, who like him had been marooned in the Antilles by the war, some had managed to have their wives join them. I understood that André could not always hold himself aloof from them. I
 
-<sup>1.</sup> Mayotte Capécia, *Je suis Martiniquaise* (Paris, Corréa, 1948), p. 202.
+1. Mayotte Capécia, *Je suis Martiniquaise* (Paris, Corréa, 1948), p. 202.
 
 also accepted the fact that I was barred from this society because I was a woman of color; but I could not help being jealous. It was no good his explaining to me that his private life was something that belonged to him alone and that his social and military life was something else, which was not within his control; I nagged so much that one day he took me to Didier. We spent the evening in one of those little villas that I had admired since my childhood, with two offi cers and their wives. The women kept watching me with a condescension that I found unbearable. I felt that I was wearing too much makeup, that I was not properly dressed, that I was not doing André credit, perhaps simply because of the color of my skin—in short, I spent so miserable an evening that I decided I would never again ask André to take me with him.2
 
 It was Didier, the preserve of the richest people in Martinique, that magnetized all the girl's wishes. And she makes the point herself: One is white above a certain fi nancial level. The houses in this section had long dazzled the lady. I have the feeling, however, that Mayotte Capécia is laying it on: She tells us that she did not go to Fort-de-France until she was grown, at about the age of eighteen; and yet the mansions of Didier had beguiled her childhood. There is an inconsistency here that becomes understandable when one grasps the background. It is in fact customary in Martinique to dream of a form of salvation that consists of magically turning white. A house in Didier, acceptance into that high society (Didier is on a hill that dominates the city), and there you have Hegel's subjective certainty made fl esh. And in another way it is quite easy to see the place that the dialectic of being and having3 would occupy in a description of this behavior. Such, however, is not the case with Mayotte. She is looked at with distaste. Things begin their usual course. . . . It is because she is a woman of color that she is not accepted in this society. Her resentment feeds on her own artifi ciality. We shall see why love is beyond the reach of the Mayotte Capécias of all nations. For the beloved should not allow me to turn my infantile fantasies into reality: On the contrary, he should help me to go beyond them.
 
-<sup>2.</sup> *Ibid.*, p. 150.
+2. *Ibid.*, p. 150.
 
-<sup>3.</sup> Gabriel Marcel, *Être et Avoir* (Paris, Aubier, 1935).
+3. Gabriel Marcel, *Être et Avoir* (Paris, Aubier, 1935).
 
 The childhood of Mayotte Capécia shows us a certain number of characteristics that illustrate the line of orientation she follows as an adult. And each time there is a movement or a contact, it will have a direct relation to her goal. It would seem indeed that for her white and black represent the two poles of a world, two poles in perpetual confl ict: a genuinely Manichean concept of the world; the word has been spoken, it must be remembered—white or black, that is the question.
 
@@ -770,9 +775,9 @@ As a method of avoiding "pain," ego-restriction, like the various forms of denia
 
 Golliwog toilet water and perfume. Shoeshines, clothes white as snow, comfortable lower berths, quick baggage-handling; jazz, jitterbug, jive, jokes, and the wonderful stories of Br'er Rabbit to amuse the little children. Service with a smile, every time. . . . "The blacks," writes anthropologist Geoffrey Gorer in *The American Spirit: A Study in National Character*, "are kept in their obsequious attitude by the extreme penalties of fear and force, and this is common knowledge to both the whites and the blacks. Nevertheless, the whites demand that the blacks be always smiling, attentive, and friendly in all their relationships with them. . . ." ("L'oncle Rémus et son lapin," by Bernard Wolfe, *Les Temps Modernes*, May, 1949, p. 888.)
 
-<sup>8. &</sup>quot;Sur le *Martinique* de M. Michel Cournot," *Les Temps Modernes*, February, 1950.
+8. &quot;Sur le *Martinique* de M. Michel Cournot," *Les Temps Modernes*, February, 1950.
 
-<sup>9.</sup> Anna Freud, *The Ego and the Mechanism of Defence* (New York, International Universities Press, 1946), p. 111.
+9. Anna Freud, *The Ego and the Mechanism of Defence* (New York, International Universities Press, 1946), p. 111.
 
 We understand now why the black man cannot take pleasure in his insularity. For him there is only one way out, and it leads into the white world. Whence his constant preoccupation with attracting the attention of the white man, his concern with being powerful like the white man, his determined effort to acquire protective qualities—that is, the proportion of being or having that enters into the composition of an ego. As I said earlier, it is from within that the Negro will seek admittance to the white sanctuary. The attitude derives from the intention.
 
@@ -788,15 +793,15 @@ What about dignity? He had no need now to achieve it: It was injected now into t
 
 And what about the father? This is what Etiemble has to say about him: "A fi ne specimen of his kind; he talked about the family, work, the nation, our good Pétain and our good God, all of which
 
-<sup>10.</sup> Capécia, *op. cit.*, p. 65.
+10. Capécia, *op. cit.*, p. 65.
 
-<sup>11.</sup> *Ibid.*, p. 185.
+11. *Ibid.*, p. 185.
 
 allowed him to make her pregnant according to form. God has made use of us, said the handsome swine, the handsome white man, the handsome offi cer. After which, under the same Godfearing Pétainist proprieties, I shove her over to the next man."
 
 Before we have fi nished with her whose white lord is "like one dead" and who surrounds herself with dead men in a book crowded with deplorably dead things, we feel that we should like to ask Africa to send us a special envoy.12
 
-Nor are we kept waiting. Abdoulaye Sadji, in *Nini*, <sup>13</sup> offers us a description of how black men can behave in contact with Europeans. I have said that Negrophobes exist. It is not hatred of the Negro, however, that motivates them; they lack the courage for that, or they have lost it. Hate is not inborn; it has to be constantly cultivated, to be brought into being, in confl ict with more or less recognized guilt complexes. Hate demands existence, and he who hates has to show his hate in appropriate actions and behavior; in a sense, he has to become hate. That is why the Americans have substituted discrimination for lynching. Each to his own side of the street. Therefore we are not surprised that in the cities of (French?) black Africa there are European quarters. Mournier's work, *L'éveil de l'Afrique noire*, had already attracted my interest, but I was impatiently awaiting an African voice. Thanks to Alioune Diop's magazine, I have been able to coordinate the psychological motivations that govern men of color.
+Nor are we kept waiting. Abdoulaye Sadji, in *Nini*, 13 offers us a description of how black men can behave in contact with Europeans. I have said that Negrophobes exist. It is not hatred of the Negro, however, that motivates them; they lack the courage for that, or they have lost it. Hate is not inborn; it has to be constantly cultivated, to be brought into being, in confl ict with more or less recognized guilt complexes. Hate demands existence, and he who hates has to show his hate in appropriate actions and behavior; in a sense, he has to become hate. That is why the Americans have substituted discrimination for lynching. Each to his own side of the street. Therefore we are not surprised that in the cities of (French?) black Africa there are European quarters. Mournier's work, *L'éveil de l'Afrique noire*, had already attracted my interest, but I was impatiently awaiting an African voice. Thanks to Alioune Diop's magazine, I have been able to coordinate the psychological motivations that govern men of color.
 
 12. After *Je suis Martiniquaise*, Mayotte Capécia wrote another book, *La négresse blanche.* She must have recognized her earlier mistakes, for in this book one sees an attempt to re-evaluate the Negro. But Mayotte Capécia did not reckon with her own unconscious. As soon as the novelist allows her characters a little freedom, they use it to belittle the Negro. All the Negroes whom she describes are in one way or another either semi-criminals or "sho' good" *niggers.*
 
@@ -820,9 +825,9 @@ Analyzing various passages of Abdoulaye Sadji's story, I shall attempt to grasp 
 
 Hence Nini's great problem: A Negro has had the gall to go so far as to ask her to marry him. A Negro had the gall to write to her:
 
-<sup>14.</sup> A club frequented by the local young men. It stands across the street from the Civil Club, which is exclusively European.
+14. A club frequented by the local young men. It stands across the street from the Civil Club, which is exclusively European.
 
-<sup>15.</sup> Sadji, *op. cit.*, in *Présence Africaine*, no. 2, p. 280.
+15. Sadji, *op. cit.*, in *Présence Africaine*, no. 2, p. 280.
 
 The love that I offer you is pure and strong, it has nothing of a false tenderness intended to lull you with lies and illusions. . . . I want to see you happy, completely happy, in a setting to frame your qualities, which I believe I know how to appreciate. . . . I should consider it the highest of honors and the greatest of joys to have you in my house and to dedicate myself to you, body and soul. Your graces would illuminate my home and radiate light to the darkest corners. . . . Furthermore, I consider you too civilized and refi ned to reject brutally the offer of a devoted love concerned only with reassuring your happiness.16
 
@@ -832,13 +837,13 @@ Who is Mactar? He has passed his baccalaureate, he is an accountant in the Depar
 
 One must apologize for daring to offer black love to a white soul. This we encounter again in René Maran: the fear, the timorousness, the humility of the black man in his relations with the white woman, or in any case with a woman whiter than he. Just as Mayotte Capécia tolerates anything from her lord, André, Mactar makes himself the slave of Nini, the mulatto. Prepared to sell his soul. But what is waiting for this boor is the law of plea in bar. The mulatto considers his letter an insult, an outrage to her honor as a "white lady." This Negro is an idiot, a scoundrel,
 
-<sup>16.</sup> *Ibid.*, p. 286.
+16. *Ibid.*, p. 286.
 
-<sup>17.</sup> *Ibid.*, p. 281–282.
+17. *Ibid.*, p. 281–282.
 
-<sup>18.</sup> *Ibid.*, p. 281.
+18. *Ibid.*, p. 281.
 
-an ignoramus who needs a lesson. That lesson she is prepared to give him; she will teach him to be more courteous and less brazen; she will make him understand that "white skins" are not for *"bougnouls."*<sup>19</sup>
+an ignoramus who needs a lesson. That lesson she is prepared to give him; she will teach him to be more courteous and less brazen; she will make him understand that "white skins" are not for *"bougnouls."*19
 
 Having learned the circumstances, the whole mulatto "society" plays chorus to her wrath. There is talk of taking the matter into court, of having the black man brought up on criminal charges. "There will be letters to the head of the Department of Public Works, to the governor of the colony, to call their attention to the black man's behavior and have him dismissed in recompense for the moral havoc that he has infl icted."20
 
@@ -848,11 +853,11 @@ We have seen here how a girl of color reacts to a declaration of love made by on
 
 For some time a rumor had been repeated all over Saint-Louis. . . . It was at fi rst a little whisper that went from one to another, making the wrinkled faces of the old "signaras" glow, putting new light into their dull eyes; then the younger women, showing the whites of their eyes and forming their heavy lips into circles, shouted the news, which caused amazement everywhere. "Oh, it can't be! . . . How do you know it's true? Can such things happen? . . . It's sweet. . . . It's such a scream." The news that had been running through Saint-Louis for a month was delightful, more delightful than all the promises in the world. It crowned a certain dream of grandeur,
 
-<sup>19.</sup> *Ibid.*, p. 287. *Bougnoul is* one of those untranslatable coinages of the rabble like the American *jigaboo.* Originated by the North African colonists, *bougnoul* means, generically, any "native" of a race *inferior* to that of the person using the word. (Translator's note.)
+19. *Ibid.*, p. 287. *Bougnoul is* one of those untranslatable coinages of the rabble like the American *jigaboo.* Originated by the North African colonists, *bougnoul* means, generically, any "native" of a race *inferior* to that of the person using the word. (Translator's note.)
 
-<sup>20.</sup> *Ibid.*, p. 288.
+20. *Ibid.*, p. 288.
 
-<sup>21.</sup> *Ibid.*, p. 289.
+21. *Ibid.*, p. 289.
 
 of distinction, which was common to all the mulatto women. The Ninis, the Nanas, and the Nénettes live wholly outside the natural conditions of their country. The great dream that haunts every one of them is to be the bride of a white man from Europe. One could say that all their efforts are directed to this end, which is almost never attained. Their need to gesticulate, their love of ridiculous ostentation, their calculated, theatrical, revolting attitudes, are just so many effects of the same mania for grandeur. They must have white men, completely white, and nothing else will do. Almost all of them spend their entire lives waiting for this stroke of luck, which is anything but likely. And they are still waiting when old age overtakes them and forces them deep into dark refuges where the dream fi nally grows into a haughty resignation. . . .
 
@@ -874,9 +879,9 @@ Whether one is dealing with Mayotte Capécia of Martinique or with Nini of Saint
 
 This work represents the sum of the experiences and observations of seven years; regardless of the area I have studied, one thing has struck me: The Negro enslaved by his inferiority, the white man enslaved by his superiority alike behave in accordance with
 
-<sup>23.</sup> Anna Freud, *op. cit.*, p. 70.
+23. Anna Freud, *op. cit.*, p. 70.
 
-<sup>24.</sup> Sadji, *op. cit.*, p. 498.
+24. Sadji, *op. cit.*, p. 498.
 
 a neurotic orientation. Therefore I have been led to consider their alienation in terms of psychoanalytical classifi cations. The Negro's behavior makes him akin to an obsessive neurotic type, or, if one prefers, he puts himself into a complete situational neurosis. In the man of color there is a constant effort to run away from his own individuality, to annihilate his own presence. Whenever a man of color protests, there is alienation. Whenever a man of color rebukes, there is alienation. We shall see later, in Chapter Six, that the Negro, having been made inferior, proceeds from humiliating insecurity through strongly voiced self-accusation to despair. The attitude of the black man toward the white, or toward his own race, often duplicates almost completely a constellation of delirium, frequently bordering on the region of the pathological.
 
@@ -884,9 +889,9 @@ It will be objected that there is nothing psychotic in the Negroes who are discu
 
 I had another acquaintance, a customs inspector in a port on the French mainland, who was extremely severe with tourists or
 
-<sup>25.</sup> Dublineau, *L'intuition délirante.*
+25. Dublineau, *L'intuition délirante.*
 
-<sup>26.</sup> Jacques Lacan.
+26. Jacques Lacan.
 
 travelers in transit. "Because," he explained to me, "if you aren't a bastard they take you for a poor shit. Since I'm a Negro, you can imagine how I'm going to get it either way. . . ."
 
@@ -904,7 +909,7 @@ But those are pseudo-questions that do not concern us. I will say, however, that
 
 What I insist on is that the poison must be eliminated once and for all.
 
-<sup>27.</sup> Alfred Adler, *Understanding Human Nature* (New York, Greenberg, 1927), p. 80.
+27. Alfred Adler, *Understanding Human Nature* (New York, Greenberg, 1927), p. 80.
 
 # **THE MAN OF COLOR AND THE WHITE WOMAN**
 
@@ -944,11 +949,11 @@ Above all, he wants to prove to the others that he is a man, their equal. But le
 
 After having quoted Stendhal and mentioned the phenomenon of "crystallization," he declares that he loves
 
-<sup>2.</sup> *Ibid.*, p. 87.
+2. *Ibid.*, p. 87.
 
-<sup>3.</sup> *Ibid.*, pp. 18–19.
+3. *Ibid.*, pp. 18–19.
 
-<sup>4.</sup> *Ibid.*, pp. 45–46.
+4. *Ibid.*, pp. 45–46.
 
 Andrée spiritually in Mme. Coulanges and physically in Clarisse. It is insane. But that is how it is: I love Clarisse. I love Mme. Coulanges, even though I never really think of either of them. All they are for me is an excuse that makes it possible for me to delude myself. I study Andrée in them and I begin to know her by heart. . . . I don't know. I know nothing. I have no wish to try to know anything; or, rather, I know nothing any more except one thing: that the Negro is a man like the rest, the equal of the others, and that his heart, which only the ignorant consider simple, can be as complicated as the heart of the most complicated of Europeans.5
 
@@ -962,13 +967,13 @@ Jean Veneuse, feeling that existence is impossible for him without love, proceed
 
 > When a man loves he must not speak; Best that he hide it from himself.
 
-<sup>5.</sup> *Ibid.*, p. 83.
+5. *Ibid.*, p. 83.
 
-<sup>6.</sup> *Ibid.*, p. 83.
+6. *Ibid.*, p. 83.
 
-<sup>7.</sup> *Ibid.*, p. 36.
+7. *Ibid.*, p. 36.
 
-<sup>8.</sup> *Ibid.*, p. 36.
+8. *Ibid.*, p. 36.
 
 Andrée Marielle has written to him that she loves him, but Jean Veneuse needs authorization. It is essential that some white man say to him, "Take my sister." Veneuse has put a certain number of questions to his friend, Coulanges. Here, more or less *in extenso*, is what Coulanges answers:
 
@@ -994,9 +999,9 @@ And so I wonder whether in my case there is any difference from theirs; whether,
 
 What a struggle to free himself of a purely subjective confl ict. I am a white man, I was born in Europe, all my friends are white. There are not eight Negroes in the city where I live. I think in French, France is my religion. I am a European, do you understand? I am not a Negro, and in order to prove it to you, I as a public employe am going to show the genuine Negroes the
 
-<sup>9.</sup> *Ibid.*, pp. 152–154.
+9. *Ibid.*, pp. 152–154.
 
-<sup>10.</sup> *Ibid.*, p. 185.
+10. *Ibid.*, p. 185.
 
 differences that separate me from them. Indeed, read the book again and you will be convinced:
 
@@ -1023,11 +1028,11 @@ Louis-T. Achille said in his report to the Interracial Conferences of 1949:
 
 Insofar as truly interracial marriage is concerned, one can legitimately wonder to what extent it may not represent for the colored spouse a kind of subjective consecration to wiping out in himself and in his own mind the color prejudice from which he has suffered so long. It would be interesting to investigate this in a given number of cases and perhaps to seek in this clouded motivation the underlying reason for certain interracial marriages entered into outside the normal conditions of a happy household. Some men or some women, in effect, by choosing partners of another race, marry
 
-<sup>11.</sup> *Ibid.*, p. 162.
+11. *Ibid.*, p. 162.
 
-<sup>12.</sup> *Ibid.*, p. 213.
+12. *Ibid.*, p. 213.
 
-<sup>13. &</sup>quot;Du Jeu au Je, Esquisse d'une géographie de l'action," *Les Temps Modernes*, April, 1948, p. 1732.
+13. &quot;Du Jeu au Je, Esquisse d'une géographie de l'action," *Les Temps Modernes*, April, 1948, p. 1732.
 
 persons of a class or a culture inferior to their own whom they would not have chosen as spouses in their own race and whose chief asset seems to be the assurance that the partner will achieve denaturalization and (to use a loathsome word) "deracialization." Among certain people of color, the fact that they are marrying someone of the white race seems to have overridden every other consideration. In this fact they fi nd access to complete equality with that illustrious race, the master of the world, the ruler of the peoples of color. . . *.* 14
 
@@ -1045,17 +1050,17 @@ We made an introvert of Jean Veneuse. We know characterologically—or, better, 
 
 In a patient of the negative-aggressive type, obsession with the past and with its frustrations, its gaps, its defeats, paralyzes his enthusiasm for living. Generally more introverted than the positive-loving type, he has a tendency to go back over his past and present disappointments, building up in himself a more or less secret area of bitter, disillusioned resentments that often amounts to a kind of autism. But, unlike the genuine autistic person, the abandonment-neurotic is aware of this secret zone, which he cultivates and defends against every intrusion. More egocentric than the neurotic of the second type (positive-loving), he views everything in terms of himself. He has little capacity for disinterestedness: His aggressions and a constant need for vengeance inhibit his impulses. His retreat into himself does not allow him to have any positive experience that would compensate for his past. Hence the lack of self-esteem and therefore of affective security is virtually total in such cases; and as a result there is an overwhelming feeling of impotence in relation to life and to people, as well as a complete rejection of the feeling of responsibility. Others have betrayed him and thwarted him, and yet it is only from these others that he expects any improvement in his lot.17
 
-A magnifi cent description, into which the character of Jean Veneuse fits perfectly. For, he tells us, "arriving at maturity and going off to serve my adopted country in the land of my ancestors was enough to make me wonder *whether I was not being betrayed*<sup>18</sup> by everything about me, for the white race would not accept me as one of its own and the black virtually repudiated me. That is precisely my position."19
+A magnifi cent description, into which the character of Jean Veneuse fits perfectly. For, he tells us, "arriving at maturity and going off to serve my adopted country in the land of my ancestors was enough to make me wonder *whether I was not being betrayed*18 by everything about me, for the white race would not accept me as one of its own and the black virtually repudiated me. That is precisely my position."19
 
-<sup>15.</sup> G. Guex, *La Névrose d'abandon* (Paris, Presses Universitaires de France, 1950), p. 13.
+15. G. Guex, *La Névrose d'abandon* (Paris, Presses Universitaires de France, 1950), p. 13.
 
-<sup>16.</sup> E. Minkowski, *La Schizophrénie* (Paris, Payot, 1927).
+16. E. Minkowski, *La Schizophrénie* (Paris, Payot, 1927).
 
-<sup>17.</sup> Guex, *op. cit.*, pp. 27–28.
+17. Guex, *op. cit.*, pp. 27–28.
 
-<sup>18.</sup> My italics—F. F.
+18. My italics—F. F.
 
-<sup>19.</sup> Maran, *op. cit.*, p. 36.
+19. Maran, *op. cit.*, p. 36.
 
 The attitude is one of recrimination toward the past, devaluation of self, incapability of being understood as he would like to be. Listen again to Jean Veneuse:
 
@@ -1069,9 +1074,9 @@ Oh, those tears of a child who had no one to wipe them. . . . He will never forg
 
 What is going on here? Two processes. I do not want to be loved. Why not? Because once, very long ago, I attempted an object relation and I was *abandoned.* I have never forgiven my mother. Because I was abandoned, I will make someone else suffer, and desertion by me will be the direct expression of my need for revenge. I will go to Africa: I do not wish to be loved and I will fl ee from love-objects. That, Germaine Guex says, is called "putting
 
-<sup>20.</sup> *Ibid.*, p. 227.
+20. *Ibid.*, p. 227.
 
-<sup>21.</sup> *Ibid.*, p. 228.
+21. *Ibid.*, p. 228.
 
 oneself to the proof in order to prove something." I do not wish to be loved, I adopt a defensive position. And if the love-object insists, I will say plainly, "I do not wish to be loved." Devaluation of self? Indeed yes.
 
@@ -1085,9 +1090,9 @@ It would be impossible to overestimate the intensity of the suffering that accom
 
 The abandonment-neurotic demands proofs. He is not satisfi ed with isolated statements. He has no confi dence. Before he forms an objective relation, he exacts repeated proofs from his partner. The essence of his attitude is "not to love in order to avoid being abandoned." The abandonment-neurotic is insatiable. That is
 
-<sup>22.</sup> Guex, *op. cit.*, pp. 31–32.
+22. Guex, *op. cit.*, pp. 31–32.
 
-<sup>23.</sup> *Ibid.*, pp. 35–36.
+23. *Ibid.*, pp. 35–36.
 
 because he claims the right to constant amends. He wants to be loved completely, absolutely and forever. Listen:
 
@@ -1105,15 +1110,15 @@ He is frightfully full of doubt. Here is Germaine Guex on that subject:
 
 The fi rst characteristic seems to be the dread of showing oneself as one actually is. This is a broad fi eld of various fears: fear of disappointing, fear of displeasing, of boring, of wearying . . . and consequently of losing the chance to create a bond of sympathy with others or if this bond does exist of doing damage to it. The abandonment-neurotic doubts whether he can be loved as he is, for he has had the cruel experience of being abandoned when he offered himself to the tenderness of others as a little child and hence without artifi ce.27
 
-<sup>24.</sup> Maran, *op. cit*, pp. 203–204.
+24. Maran, *op. cit*, pp. 203–204.
 
-<sup>25.</sup> *Ibid.*, pp. 84–85.
+25. *Ibid.*, pp. 84–85.
 
-<sup>26.</sup> *Ibid.*, pp. 247–248.
+26. *Ibid.*, pp. 247–248.
 
-<sup>27.</sup> Guex, *op. cit.*, p. 39.
+27. Guex, *op. cit.*, p. 39.
 
-Jean Veneuse does not, however, lead a life devoid of compensations. He fl irts with art. His reading list is impressive, his essay on Suarès is quite perceptive. That too is analyzed by Germaine Guex: "Imprisoned in himself, locked into his artifi cial reserve, the negative-aggressive feeds his feeling of irreparable loss with everything that he continues to lose or that his passivity makes him lack. . . . Therefore, with the exception of such privileged sectors as *his intellectual life or his profession*, <sup>28</sup> he cherishes a deep-seated feeling of worthlessness."29
+Jean Veneuse does not, however, lead a life devoid of compensations. He fl irts with art. His reading list is impressive, his essay on Suarès is quite perceptive. That too is analyzed by Germaine Guex: "Imprisoned in himself, locked into his artifi cial reserve, the negative-aggressive feeds his feeling of irreparable loss with everything that he continues to lose or that his passivity makes him lack. . . . Therefore, with the exception of such privileged sectors as *his intellectual life or his profession*, 28 he cherishes a deep-seated feeling of worthlessness."29
 
 Where does this analysis lead us? To nothing short of proving to Jean Veneuse that in fact he is not like the rest. Making people ashamed of their existence, Jean-Paul Sartre said. Yes: teaching them to become aware of the potentials they have forbidden themselves, of the passivity they have paraded in just those situations in which what is needed is to hold oneself, like a sliver, to the heart of the world, to interrupt if necessary the rhythm of the world, to upset, if necessary, the chain of command, but in any case, and most assuredly, *to stand up to the world.*
 
@@ -1123,9 +1128,9 @@ Jean Veneuse is a neurotic, and his color is only an attempt to explain his psyc
 
 Jean Veneuse is one of those intellectuals who try to take a position solely on the level of ideas. Incapable of realizing any concrete contact with his fellow man. Is he treated decently, kindly, humanly? Only because he has stumbled on some servant secrets. He "knows those people," and he is on guard against them. "My vigilance, if one can call it that, is a safety-catch. Politely and artlessly I welcome the advances that are made to me. I accept and repay the drinks that are bought for me, I take part in the little social games that are played on deck, but I do not allow
 
-<sup>28.</sup> My italics—F. F.
+28. My italics—F. F.
 
-<sup>29.</sup> Guex, *op. cit.*, p. 44.
+29. Guex, *op. cit.*, p. 44.
 
 myself to be taken in by the good will shown me, suspicious as I am of this excessive cordiality that has rather too quickly taken the place of the hostility in the midst of which they formerly tried to isolate me."30
 
@@ -1149,7 +1154,7 @@ In no way should my color be regarded as a flaw. From the moment the Negro accep
 
 We shall see that another solution is possible. It implies a restructuring of the world.
 
-<sup>32.</sup> Claude Nordey, *L'homme de couleur* (Paris, Collection "Présences," Plon, 1939).
+32. Claude Nordey, *L'homme de couleur* (Paris, Collection "Présences," Plon, 1939).
 
 ## **4**
 
@@ -1183,9 +1188,9 @@ Nevertheless, I have tried zealously to retrace his line of orientation, the fun
 
 Now, since this is M. Mannoni's point of departure, why does he try to make the inferiority complex something that antedates colonization? Here one perceives the mechanism of explanation that, in psychiatry, would give us this: There are latent forms of psychosis that become overt as the result of a traumatic experience.
 
-<sup>1. [</sup>Dominique] O. Mannoni, *Prospero and Caliban: The Psychology of Colonization* (New York, Praeger, 1964), p. 40.
+1. [Dominique] O. Mannoni, *Prospero and Caliban: The Psychology of Colonization* (New York, Praeger, 1964), p. 40.
 
-<sup>2.</sup> My italics—F. F.
+2. My italics—F. F.
 
 Or, in somatic medicine, this: The appearance of varicose veins in a patient does not arise out of his being compelled to spend ten hours a day on his feet, but rather out of the constitutional weakness of his vein walls; his working conditions are only a complicating factor. And the insurance compensation expert to whom the case is submitted will fi nd the responsibility of the employer extremely limited.
 
@@ -1201,17 +1206,17 @@ I sincerely believe that a subjective experience can be understood by others; an
 
 Is there in truth any difference between one racism and another? Do not all of them show the same collapse, the same bankruptcy of man?
 
-M. Mannoni believes that the contempt of the poor whites of South Africa for the Negro has nothing to do with economic factors. Aside from the fact that this attitude can be understood through the analogy of the anti-Semitic mentality—"Thus I would call anti-Semitism a poor man's snobbery. And in fact it would appear that the rich for the most part *exploit*<sup>4</sup> this passion for their own uses rather than abandon themselves to it—they have better things to do. It is propagated mainly among middle classes, because they possess neither land nor house nor castle. . . . By treating the Jew as an inferior and pernicious being, I affi rm at the same time that I belong to the elite."5 —We could point out to M. Mannoni that the displacement of the white proletariat's aggression on to the black proletariat is fundamentally a result of the economic structure of South Africa.
+M. Mannoni believes that the contempt of the poor whites of South Africa for the Negro has nothing to do with economic factors. Aside from the fact that this attitude can be understood through the analogy of the anti-Semitic mentality—"Thus I would call anti-Semitism a poor man's snobbery. And in fact it would appear that the rich for the most part *exploit*4 this passion for their own uses rather than abandon themselves to it—they have better things to do. It is propagated mainly among middle classes, because they possess neither land nor house nor castle. . . . By treating the Jew as an inferior and pernicious being, I affi rm at the same time that I belong to the elite."5 —We could point out to M. Mannoni that the displacement of the white proletariat's aggression on to the black proletariat is fundamentally a result of the economic structure of South Africa.
 
 What is South Africa? A boiler into which thirteen million blacks are clubbed and penned in by two and a half million whites. If the poor whites hate the Negroes, it is not, as M. Mannoni would have us believe, because "racialism is the work of petty offi cials, small traders, and colonials who have toiled much without great success."6 No; it is because the structure of South Africa is a racist structure:
 
 *Negrophilism* and *philanthropy* are pejoratives in South Africa . . . what is proposed is the separation of the natives from the Europeans, territorially,
 
-<sup>4.</sup> My italics—F. F.
+4. My italics—F. F.
 
-<sup>5.</sup> Jean-Paul Sartre, *Anti-Semite and Jew* (New York, Grove Press, 1960), pp. 26–27. Originally, *Réfl exions sur la question juive* (Paris, Morihien, 1946).
+5. Jean-Paul Sartre, *Anti-Semite and Jew* (New York, Grove Press, 1960), pp. 26–27. Originally, *Réfl exions sur la question juive* (Paris, Morihien, 1946).
 
-<sup>6.</sup> Mannoni, *op. cit.*, p. 24.
+6. Mannoni, *op. cit.*, p. 24.
 
 economically, and on the political level, allowing the blacks to build their own civilization under the guidance and the authority of the whites, but with a minimum of contact between the races. It is understood that territorial reservations would be set up for the blacks and that most of them would have to live there.
 
@@ -1225,9 +1230,9 @@ M. Mannoni adds: "Colonial exploitation is not the same as other forms of exploi
 
 Colonial racism is no different from any other racism. Anti-Semitism hits me head-on: I am enraged, I am bled white by an appalling battle, I am deprived of the possibility of being a man. I cannot disassociate myself from the future that is proposed for my
 
-<sup>7.</sup> R. P. Oswin, Magrath of the Dominican Monastery of St. Nicholas, Stallenbosch, Republic of South Africa, *L'homme de couleur*, p. 140. My italics—F. F.
+7. R. P. Oswin, Magrath of the Dominican Monastery of St. Nicholas, Stallenbosch, Republic of South Africa, *L'homme de couleur*, p. 140. My italics—F. F.
 
-<sup>8.</sup> Mannoni, *op. cit.*, p. 27.
+8. Mannoni, *op. cit.*, p. 27.
 
 brother. Every one of my acts commits me as a man. Every one of my silences, every one of my cowardices reveals me as a man.9
 
@@ -1256,7 +1261,7 @@ Whenever I see an Arab with his hunted look, suspicious, on the run, wrapped in 
 
 Day after day, that system elaborates its evil projects in your presence, day after day its leaders betray you, pursuing, in the name of France, a policy as foreign as possible not only to your real interests but also to your deepest needs. . . . You pride yourselves on keeping your distance from realities of a certain kind: so you allow a free hand to those who are immune to the most
 
-<sup>12.</sup> Aimé Césaire, *Discours sur le colonialisme* (Paris, Présence Africaine, 1956), pp. 14–15.
+12. Aimé Césaire, *Discours sur le colonialisme* (Paris, Présence Africaine, 1956), pp. 14–15.
 
 unhealthy climates because they create these climates themselves through their own conduct. And if, apparently, you succeed in keeping yourselves unsullied, it is because others dirty themselves in your place. You *hire thugs*, and, balancing the accounts, it is you who are the real criminals: for without you, without your blind indifference, such men could never carry out deeds that damn you as much as they shame those men.13
 
@@ -1268,11 +1273,11 @@ Once again one asks the author to be somewhat more careful. A white man in a col
 
 While the discoveries of Adler and the no less interesting fi ndings of Kuenkel explain certain kinds of neurotic behavior, one
 
-<sup>13.</sup> Francis Jeanson, "Cette Algérie conquise et pacifi ée . . . ," in *Esprit*, April, 1950, p. 624.
+13. Francis Jeanson, "Cette Algérie conquise et pacifi ée . . . ," in *Esprit*, April, 1950, p. 624.
 
-<sup>14.</sup> Mannoni, *op. cit.*, p. 110.
+14. Mannoni, *op. cit.*, p. 110.
 
-<sup>15.</sup> *Ibid.*, p. 39.
+15. *Ibid.*, p. 39.
 
 cannot infer from them laws that would apply to immeasurably complex problems. The feeling of inferiority of the colonized is the correlative to the European's feeling of superiority. Let us have the courage to say it outright: *It is the racist who creates his inferior.*
 
@@ -1286,19 +1291,19 @@ The primary concern of M. Mannoni was to criticize the methods hitherto employed
 
 *After having sealed the Malagasy into his own customs, after having evolved a unilateral analysis of his view of the world, after having described the Malagasy within a closed circle, after* 
 
-<sup>16.</sup> Sartre, *Anti-Semite*, p. 69.
+16. Sartre, *Anti-Semite*, p. 69.
 
-<sup>17.</sup> Mannoni, *op. cit.*, pp. 61–62.
+17. Mannoni, *op. cit.*, pp. 61–62.
 
 *having noted that the Malagasy has a dependency relation toward his ancestors—a strong tribal characteristic—M. Mannoni, in defi ance of all objectivity, applies his conclusions to a bilateral totality—deliberately ignoring the fact that, since Galliéni,18 the Malagasy has ceased to exist.*
 
 What we wanted from M. Mannoni was an explanation of the colonial situation. He notably overlooked providing it. Nothing has been lost, nothing has been gained, we agree. Parodying Hegel, Georges Balandier said of the dynamics of the personality, in an essay19 devoted to Kardiner and Linton: "The last of its stages is the result of all its preceding stages and should contain all their elements." It is whimsical, but it is the principle that guides many scholars. The reactions and the behavior patterns to which the arrival of the European in Madagascar gave rise were not tacked on to a pre-existing set. There was no addition to the earlier psychic whole. If, for instance, Martians undertook to colonize the earth men—not to initiate them into Martian culture but to *colonize* them—we should be doubtful of the persistence of any earth personality. Kardiner changed many opinions when he wrote: "To teach Christianity to the people of Alor would be a quixotic undertaking. . . . [It] would make no sense inasmuch as one would be dealing with personalities built out of elements that are in complete disaccord with Christian doctrine: It would certainly be starting out at the wrong end."20 And if Negroes are impervious to the teachings of Christ, this is not at all because they are incapable of assimilating them. To understand something new requires that we make ourselves ready for it, that we prepare ourselves for it; it entails the shaping of a new form. It is Utopian to expect the Negro or the Arab to
 
-<sup>18.</sup> General Joseph-Simon Galliéni, "the hero of the Marne," played a major part in French colonial expansion. After his conquests in Africa and his service on Martinique, he was appointed resident-general of Madagascar in 1896, when it was made a French colony, and he later became governor-general. According to the Encyclopaedia Britannica (fourteenth edition), "He completed the subjugation of the island, which was in revolt against the French. . . . His policy was directed to the development of the economic resources of the island and was conciliatory toward the non-French *European* population." (Translator's note.)
+18. General Joseph-Simon Galliéni, "the hero of the Marne," played a major part in French colonial expansion. After his conquests in Africa and his service on Martinique, he was appointed resident-general of Madagascar in 1896, when it was made a French colony, and he later became governor-general. According to the Encyclopaedia Britannica (fourteenth edition), "He completed the subjugation of the island, which was in revolt against the French. . . . His policy was directed to the development of the economic resources of the island and was conciliatory toward the non-French *European* population." (Translator's note.)
 
-<sup>19. &</sup>quot;Où l'ethnologie retrouve 1'unité de l'homme," in *Esprit*, April, 1950.
+19. &quot;Où l'ethnologie retrouve 1'unité de l'homme," in *Esprit*, April, 1950.
 
-<sup>20.</sup> Quoted by Georges Balandier, *ibid.*, p. 610.
+20. Quoted by Georges Balandier, *ibid.*, p. 610.
 
 exert the effort of embedding abstract values into his outlook on the world when he has barely enough food to keep alive. To ask a Negro of the Upper Niger to wear shoes, to say of him that he will never be a Schubert, is no less ridiculous than to be surprised that a worker in the Berliet truck factory does not spend his evenings studying lyricism in Hindu literature or to say that he will never be an Einstein.
 
@@ -1316,9 +1321,9 @@ At the hour before dawn, on the far side of my father and my mother, the whole h
 
 "The only thing in the world that's worth the effort of starting: The end of the world, by God!"22
 
-<sup>21.</sup> Aimé Césaire, *Cahier d'un retour au pays natal* (Paris, Présence Africaine, 1956), p. 56.
+21. Aimé Césaire, *Cahier d'un retour au pays natal* (Paris, Présence Africaine, 1956), p. 56.
 
-## <sup>22.</sup> *Ibid.*
+## 22. *Ibid.*
 
 What M. Mannoni has forgotten is that the Malagasy alone no longer exists; he has forgotten that the Malagasy exists *with the European.* The arrival of the white man in Madagascar shattered not only its horizons but its psychological mechanisms. As everyone has pointed out, alterity for the black man is not the black but the white man. An island like Madagascar, invaded overnight by "pioneers of civilization," even if those pioneers conducted themselves as well as they knew how, suffered the loss of its basic structure. M. Mannoni himself, furthermore, says as much: "The petty kings were all very anxious to get possession of a white man."23 Explain that as one may in terms of magicaltotemic patterns, of a need for contact with an awesome God, of its proof of a system of dependency, the fact still remains that something new had come into being on that island and that it had to be reckoned with—otherwise the analysis is condemned to falsehood, to absurdity, to nullity. A new element having been introduced, it became mandatory to seek to understand the new relationships.
 
@@ -1336,11 +1341,11 @@ Here again we encounter the same misapprehension. It is of course obvious that t
 
 When the question arises of understanding why the European, the foreigner, was called *vazaha*, which means *honorable stranger;* 
 
-<sup>24.</sup> *Ibid.*, p. 84.
+24. *Ibid.*, p. 84.
 
-## <sup>25.</sup> Césaire, *Cahier d'un retour.*
+## 25. Césaire, *Cahier d'un retour.*
 
-<sup>26.</sup> Mannoni, *op. cit.*, pp. 85–86.
+26. Mannoni, *op. cit.*, pp. 85–86.
 
 when it is a matter of understanding why shipwrecked Europeans were welcomed with open arms; why the European, the foreigner, was never thought of as an enemy, instead of explaining these things in terms of humanity, of good will, of courtesy, basic characteristics of what Césaire calls "the old courtly civilizations," scholars tell us that it happened quite simply because, inscribed in "fateful hieroglyphics"—specifi cally, the unconscious—there exists something that makes the white man the awaited master. Yes, the unconscious—we have got to that. But one must not extrapolate. A Negro tells me his dream: "I had been walking for a long time, I was extremely exhausted, I had the impression that something was waiting for me, I climbed barricades and walls, I came into an empty hall, and from behind a door I heard noise. I hesitated before I went in, but fi nally I made up my mind and opened the door. In this second room there were white men, and I found that I too was white." When I try to understand this dream, to analyze it, knowing that my friend has had problems in his career, I conclude that this dream fulfi lls an unconscious wish. But when, outside my psychoanalytic offi ce, I have to incorporate my conclusions into the context of the world, I will assert:
 
@@ -1355,31 +1360,31 @@ Conscientious in his desire to examine the problem from every angle, M. Mannoni 
 
 *The cook's dream. "I* was being chased by an angry *black27* bull. Terrifi ed, I climbed up into a tree and stayed there till the danger was past. I came down again, trembling all over." . . .
 
-*Dream of a thirteen-year-old boy, Rahevi.* "While going for a walk in the woods, I met two *black*<sup>28</sup> men. 'Oh,' I thought, 'I am done for!' I tried to run away but couldn't. They barred my way and began jabbering in a strange tongue. I thought they were saying, 'We'll show you what death is.' I shivered with fright and begged, 'Please, Sirs, let me go, I'm so frightened.' One of them understood French but in spite of that they said, 'We arc going to take you to our chief.' As we set off they made me go in front and they showed me their rifl es. I was more frightened than ever, but before reaching their camp we had to cross a river. I dived deep into the water and thanks to my presence of mind found a rocky cave where I hid. When the two men had gone I ran back to my parents' house." . . .
+*Dream of a thirteen-year-old boy, Rahevi.* "While going for a walk in the woods, I met two *black*28 men. 'Oh,' I thought, 'I am done for!' I tried to run away but couldn't. They barred my way and began jabbering in a strange tongue. I thought they were saying, 'We'll show you what death is.' I shivered with fright and begged, 'Please, Sirs, let me go, I'm so frightened.' One of them understood French but in spite of that they said, 'We arc going to take you to our chief.' As we set off they made me go in front and they showed me their rifl es. I was more frightened than ever, but before reaching their camp we had to cross a river. I dived deep into the water and thanks to my presence of mind found a rocky cave where I hid. When the two men had gone I ran back to my parents' house." . . .
 
 *Josette's dream.* The dreamer, a young girl, got lost and sat down on a fallen tree-trunk. A woman in a white dress told her that she was in the
 
-<sup>27.</sup> My italics—F. F.
+27. My italics—F. F.
 
-<sup>28.</sup> My italics—F. F.
+28. My italics—F. F.
 
 midst of a band of robbers. The account goes on: " 'I am a schoolgirl,' I said, trembling, 'and I lost my way here when I was going home from school,' and she replied: 'Follow this path, child, and you will fi nd your way home.'". . .
 
 *Dream of a fourteen-year-old boy, Razafi.* He is being chased by (Senegalese) soldiers who "make a noise like galloping horses as they run," and "show their rifl es in front of them." The dreamer escapes by becoming invisible; he climbs a stairway and fi nds the door of his home. . . .
 
-*Dream of Elphine, a girl of thirteen or fourteen. "I* dreamed that a fi erce *black*<sup>29</sup> ox was chasing me. He was big and strong. On his head, which was almost mottled *(sic)* with white he had two long horns with sharp points. 'Oh how dreadful,' I thought. The path was getting narrower. What should I do? I perched myself in a mango tree, but the ox rent its trunk. Alas, I fell among the bushes. Then he pressed his horns into me; my stomach fell out and he devoured it." . . .
+*Dream of Elphine, a girl of thirteen or fourteen. "I* dreamed that a fi erce *black*29 ox was chasing me. He was big and strong. On his head, which was almost mottled *(sic)* with white he had two long horns with sharp points. 'Oh how dreadful,' I thought. The path was getting narrower. What should I do? I perched myself in a mango tree, but the ox rent its trunk. Alas, I fell among the bushes. Then he pressed his horns into me; my stomach fell out and he devoured it." . . .
 
 *Raza's dream.* In his dream the boy heard someone say at school that the Senegalese were coming. "I went out of the school yard to see." The Senegalese were indeed coming. He ran home. "But our house had been dispersed by them too." . . .
 
-*Dream of a fourteen-year-old boy, Si.* "I was walking in the garden and felt something like a shadow behind me. All around me the leaves were rustling and falling off, as if a robber was in hiding among them, waiting to catch me. Wherever I walked, up and down the alleys, the shadow still followed me. Suddenly I got frightened and started running, but the shadow took great strides and stretched out his huge hand to take hold of my clothes. I felt my shirt tearing, and screamed. My father jumped out of bed when he heard me scream and came over to look at me, but the big *shadow?*<sup>30</sup> had disappeared and I was no longer afraid."31
+*Dream of a fourteen-year-old boy, Si.* "I was walking in the garden and felt something like a shadow behind me. All around me the leaves were rustling and falling off, as if a robber was in hiding among them, waiting to catch me. Wherever I walked, up and down the alleys, the shadow still followed me. Suddenly I got frightened and started running, but the shadow took great strides and stretched out his huge hand to take hold of my clothes. I felt my shirt tearing, and screamed. My father jumped out of bed when he heard me scream and came over to look at me, but the big *shadow?*30 had disappeared and I was no longer afraid."31
 
 Some ten years ago I was astonished to learn that the North Africans despised men of color. It was absolutely impossible for me to make any contact with the local population. I left Africa and went back to France without having fathomed the reason for this hostility. Meanwhile, certain facts had made me think. The Frenchman does not like the Jew, who does not like the Arab, who does not like the Negro. . . . The Arab is told: "If you are
 
-<sup>29.</sup> My italics—F. F.
+29. My italics—F. F.
 
-<sup>30.</sup> My italics—F. F.
+30. My italics—F. F.
 
-<sup>31.</sup> Mannoni, *op. cit.*, pp. 89–92.
+31. Mannoni, *op. cit.*, pp. 89–92.
 
 poor, it is because the Jew has bled you and taken everything from you." The Jew is told: "You are not of the same class as the Arab because you are really white and because you have Einstein and Bergson." The Negro is told: "You are the best soldiers in the French Empire; the Arabs think they are better than you, but they are wrong." But that is not true; the Negro is told nothing because no one has anything to tell him, the Senegalese trooper is a trooper, the-good-soldier-under-command, the brave fellowwho-only-knows-how-to-obey.
 
@@ -1444,9 +1449,9 @@ What the colonial in common with Prospero lacks, is awareness of the world of Ot
 
 If one adds that many Europeans go to the colonies because it is possible for them to grow rich quickly there, that with rare exceptions the colonial is a merchant, or rather a traffi cker, one will have grasped the psychology of the man who arouses in the autochthonous population "the feeling of inferiority." As for the Malagasy "dependency complex," at least in the only
 
-<sup>35.</sup> *Ibid.*, p. 110.
+35. *Ibid.*, p. 110.
 
-<sup>36.</sup> *Ibid.*, p. 108.
+36. *Ibid.*, p. 108.
 
 form in which we can reach it and analyze it, it too proceeds from the arrival of white colonizers on the island. From its other form, from this original complex in its pure state that supposedly characterized the Malagasy mentality throughout the whole precolonial period, it appears to me that M. Mannoni lacks the slightest basis on which to ground any conclusion applicable to the situation, the problems, or the potentialities of the Malagasy in the present time.
 
@@ -1480,7 +1485,7 @@ I could no longer laugh, because I already knew that there were legends, stories
 
 I was responsible at the same time for my body, for my race, for my ancestors. I subjected myself to an objective examination, I discovered my blackness, my ethnic characteristics; and I was battered down by tom-toms, cannibalism, intellectual defi ciency,
 
-<sup>1.</sup> Jean Lhermitte, *L'Image de notre corps* (Paris, Nouvelle Revue critique, 1939), p. 17.
+1. Jean Lhermitte, *L'Image de notre corps* (Paris, Nouvelle Revue critique, 1939), p. 17.
 
 fetichism, racial defects, slave-ships, and above all else, above all: "Sho' good eatin'."
 
@@ -1562,15 +1567,15 @@ With enthusiasm I set to cataloguing and probing my surroundings. As times chang
 
 That victory played cat and mouse; it made a fool of me. As the other put it, when I was present, it was not; when it was there, I was no longer. In the abstract there was agreement: The Negro is a human being. That is to say, amended the less fi rmly convinced, that like us he has his heart on the left side. But on certain points the white man remained intractable. Under no conditions did he wish any intimacy between the races, for it is a truism that "crossings between widely different races can lower the physical and mental level. . . . Until we have a more defi nite knowledge
 
-<sup>3.</sup> *Anti-Semite and Jew* (New York, Grove Press, 1960), pp. 112–113.
+3. *Anti-Semite and Jew* (New York, Grove Press, 1960), pp. 112–113.
 
-<sup>4.</sup> *Ibid.*, p. 115.
+4. *Ibid.*, p. 115.
 
 of the effect of race-crossings we shall certainly do best to avoid crossings between widely different races."5
 
 For my own part, I would certainly know how to react. And in one sense, if I were asked for a defi nition of myself, I would say that I am one who waits; I investigate my surroundings, I interpret everything in terms of what I discover, I become sensitive.
 
-In the fi rst chapter of the history that the others have compiled for me, the foundation of cannibalism has been made eminently plain in order that I may not lose sight of it. My chromosomes were supposed to have a few thicker or thinner genes representing cannibalism. In addition to the *sex-linked*, the scholars had now discovered the *racial-linked.*<sup>6</sup> What a shameful science!
+In the fi rst chapter of the history that the others have compiled for me, the foundation of cannibalism has been made eminently plain in order that I may not lose sight of it. My chromosomes were supposed to have a few thicker or thinner genes representing cannibalism. In addition to the *sex-linked*, the scholars had now discovered the *racial-linked.*6 What a shameful science!
 
 But I understand this "psychological mechanism." For it is a matter of common knowledge that the mechanism is only psychological. Two centuries ago I was lost to humanity, I was a slave forever. And then came men who said that it all had gone on far too long. My tenaciousness did the rest; I was saved from the civilizing deluge. I have gone forward.
 
@@ -1578,9 +1583,9 @@ Too late. Everything is anticipated, thought out, demonstrated, made the most of
 
 Since the time when someone fi rst mourned the fact that he had arrived too late and everything had been said, a nostalgia for the past has seemed to persist. Is this that lost original paradise of which Otto Rank speaks? How many such men, apparently rooted to the womb of the world, have devoted their lives to studying the Delphic oracles or exhausted themselves in attempts to plot the wanderings of Ulysses! The pan-spiritualists seek to prove the existence of a soul in animals by using this argument: A dog lies down on the grave of his master and starves to death there. We had to wait for Janet to demonstrate that the aforesaid dog, in contrast to man, simply lacked the capacity to liquidate
 
-<sup>5.</sup> Jon Alfred Mjoen, "Harmonic and Disharmonic Race-crossings," The Second International Congress of Eugenics (1921), *Eugenics in Race and State*, vol. II, p. 60, quoted in Sir Alan Burns, *op. cit.*, p. 120.
+5. Jon Alfred Mjoen, "Harmonic and Disharmonic Race-crossings," The Second International Congress of Eugenics (1921), *Eugenics in Race and State*, vol. II, p. 60, quoted in Sir Alan Burns, *op. cit.*, p. 120.
 
-<sup>6.</sup> In English in the original. (Translator's note.)
+6. In English in the original. (Translator's note.)
 
 the past. We speak of the glory of Greece, Artaud says; but, he adds, if modern man can no longer understand the *Choephoroi* of Aeschylus, it is Aeschylus who is to blame. It is tradition to which the anti-Semites turn in order to ground the validity of their "point of view." It is tradition, it is that long historical past, it is that blood relation between Pascal and Descartes, that is invoked when the Jew is told, "There is no possibility of your fi nding a place in society." Not long ago, one of those good Frenchmen said in a train where I was sitting: "Just let the real French virtues keep going and the race is safe. Now more than ever, national union must be made a reality. Let's have an end of internal strife! Let's face up to the foreigners (here he turned toward my corner) no matter who they are."
 
@@ -1604,7 +1609,7 @@ I had rationalized the world and the world had rejected me on the basis of color
 
 Those who invented neither gunpowder nor the compass Those who never learned to conquer steam or electricity Those who never explored the seas or the skies But they know the farthest corners of the land of anguish Those who never knew any journey save that of abduction Those who learned to kneel in docility Those who were domesticated and Christianized Those who were injected with bastardy. . . .
 
-<sup>7. &</sup>quot;Ce que 1'homme noir apporte," in Claude Nordey, *L'Homme de couleur* (Paris, Plon, 1939), pp. 309–310.
+7. &quot;Ce que 1'homme noir apporte," in Claude Nordey, *L'Homme de couleur* (Paris, Plon, 1939), pp. 309–310.
 
 Yes, all those are my brothers—a "bitter brotherhood" imprisons all of us alike. Having stated the minor thesis, I went overboard after something else.
 
@@ -1614,7 +1619,7 @@ Yes, all those are my brothers—a "bitter brotherhood" imprisons all of us alik
 
 But they abandon themselves, possessed, to the essence of all things, knowing nothing of externals but possessed by the movement of all things uncaring to subdue but playing the play of the world truly the eldest sons of the world open to all the breaths of the world meeting-place of all the winds of the world undrained bed of all the waters of the world
 
-<sup>8.</sup> Aimé Césaire, *Cahier d'un retour au pays natal* (Paris, Présence Africaine, 1956), pp. 77–78.
+8. Aimé Césaire, *Cahier d'un retour au pays natal* (Paris, Présence Africaine, 1956), pp. 77–78.
 
 spark of the sacred fi re of the World fl esh of the fl esh of the world, throbbing with the very movement of the world!9
 
@@ -1630,11 +1635,11 @@ All these are the elements that one fi nds again on a still greater scale in the
 
 I walk on white nails. Sheets of water threaten my soul on fi re. Face to face with these rites, I am doubly alert. Black magic! Orgies, witches' sabbaths, heathen ceremonies, amulets. Coitus is an occasion to call on the gods of the clan. It is a sacred act, pure, absolute, bringing invisible forces into action. What is one to think of all these manifestations, all these initiations, all these acts? From ever direction I am assaulted by the obscenity of dances and of words. Almost at my ear there is a song:
 
-<sup>9.</sup> *Ibid.*, p. 78.
+9. *Ibid.*, p. 78.
 
-<sup>10.</sup> *Ibid.*, p. 79.
+10. *Ibid.*, p. 79.
 
-<sup>11.</sup> De Pédrals, *La vie sexuelle en Afrique noire* (Paris, Payot), p. 83.
+11. De Pédrals, *La vie sexuelle en Afrique noire* (Paris, Payot), p. 83.
 
 First our hearts burned hot Now they are cold All we think of now is Love When we return to the village When we see the great phallus Ah how then we will make Love For our parts will be dry and clean.12
 
@@ -1642,21 +1647,21 @@ The soil, which only a moment ago was still a tamed steed, begins to revel. Are 
 
 Yes, we are—we Negroes—backward, simple, free in our behavior. That is because for us the body is not something opposed to what you call the mind. We are in the world. And long live the couple, Man and Earth! Besides, our men of letters helped me to convince you; your white civilization overlooks subtle riches and sensitivity. Listen:
 
-Emotive sensitivity. *Emotion is completely Negro as reason is Greek.*13Water rippled by every breeze? Unsheltered soul blown by every wind, whose fruit often drops before it is ripe? Yes, in one way, the Negro today is richer *in gifts than in works.*<sup>14</sup> But the tree thrusts its roots into the earth. The river runs deep, carrying precious seeds. And, the Afro-American poet, Langston Hughes, says:
+Emotive sensitivity. *Emotion is completely Negro as reason is Greek.*13Water rippled by every breeze? Unsheltered soul blown by every wind, whose fruit often drops before it is ripe? Yes, in one way, the Negro today is richer *in gifts than in works.*14 But the tree thrusts its roots into the earth. The river runs deep, carrying precious seeds. And, the Afro-American poet, Langston Hughes, says:
 
 > I have known rivers ancient dark rivers my soul has grown deep like the deep rivers.
 
-<sup>12.</sup> A. M. Vergiat, *Les rites secrets des primitifs de l'Oubangui* (Paris, Payot, 1951), p. 113.
+12. A. M. Vergiat, *Les rites secrets des primitifs de l'Oubangui* (Paris, Payot, 1951), p. 113.
 
-<sup>13.</sup> My italics—F. F.
+13. My italics—F. F.
 
-<sup>14.</sup> My italics—F. F.
+14. My italics—F. F.
 
 The very nature of the Negro's emotion, of his sensitivity, furthermore, explains his attitude toward the object perceived with such basic intensity. It is an abandon that becomes need, an active state of communion, indeed of identifi cation, however negligible the action—I almost said the personality—of the object. A rhythmic attitude: The adjective should be kept in mind.15
 
 So here we have the Negro rehabilitated, "standing before the bar," ruling the world with his intuition, the Negro recognized, set on his feet again, sought after, taken up, and he is a Negro—no, he is not a Negro but the Negro, exciting the fecund antennae of the world, placed in the foreground of the world, raining his poetic power on the world, "open to all the breaths of the world." I embrace the world! I am the world! The white man has never understood this magic substitution. The white man wants the world; he wants it for himself alone. He fi nds himself predestined master of this world. He enslaves it. An acquisitive relation is established between the world and him. But there exist other values that fi t only my forms. Like a magician, I robbed the white man of "a certain world," forever after lost to him and his. When that happened, the white man must have been rocked backward by a force that he could not identify, so little used as he is to such reactions. Somewhere beyond the objective world of farms and banana trees and rubber trees, I had subtly brought the real world into being. The essence of the world was my fortune. Between the world and me a relation of coexistence was established. I had discovered the primeval One. My "speaking hands" tore at the hysterical throat of the world. The white man had the anguished feeling that I was escaping from him and that I was taking something with me. He went through my pockets. He thrust probes into the least circumvolution of my brain. Everywhere he found only the obvious. So it was obvious that I had a secret. I was interrogated; turning away with an air of mystery, I murmured:
 
-<sup>15.</sup> Léopold Senghor, "Ce que I'homme noir apporte," in Nordey, *op. cit.*, p. 205.
+15. Léopold Senghor, "Ce que I'homme noir apporte," in Nordey, *op. cit.*, p. 205.
 
 Tokowaly, uncle, do you remember the nights gone by When my head weighed heavy on the back of your patience or
 
@@ -1682,7 +1687,7 @@ I made myself the poet of the world. The white man had found a poetry in which t
 
 I had soon to change my tune. Only momentarily at a loss, the white man explained to me that, genetically, I represented a stage of development: "Your properties have been exhausted by us. We have had earth mystics such as you will never approach. Study our history and you will see how far this fusion has gone." Then
 
-<sup>16.</sup> Léopold Senghor, *Chants d'ombre* (Paris, Editions du Seuil, 1945).
+16. Léopold Senghor, *Chants d'ombre* (Paris, Editions du Seuil, 1945).
 
 I had the feeling that I was repeating a cycle. My originality had been torn out of me. I wept a long time, and then I began to live again. But I was haunted by a galaxy of erosive stereotypes: the Negro's *sui generis* odor . . . the Negro's *sui generis* good nature . . . the Negro's *sui generis* gullibility. . . .
 
@@ -1712,9 +1717,9 @@ I put the white man back into his place; growing bolder, I jostled him and told 
 
 "Lay aside your history, your investigations of the past, and try to feel yourself into our rhythm. In a society such as ours, industrialized to the highest degree, dominated by scientism, there is no longer room for your sensitivity. One must be tough if one is to be allowed to live. What matters now is no longer playing the game of the world but subjugating it with integers and atoms.
 
-<sup>17.</sup> Aimé Césaire, Introduction to Victor Schoelcher, *Esclavage et colonisation* (Paris, Presses Universitaires de France, 1948), p. 7.
+17. Aimé Césaire, Introduction to Victor Schoelcher, *Esclavage et colonisation* (Paris, Presses Universitaires de France, 1948), p. 7.
 
-<sup>18.</sup> *Ibid.*, p. 8.
+18. *Ibid.*, p. 8.
 
 Oh, certainly, I will be told, now and then when we are worn out by our lives in big buildings, we will turn to you as we do to our children—to the innocent, the ingenuous, the spontaneous. We will turn to you as to the childhood of the world. You are so real in your life—so funny, that is. Let us run away for a little while from our ritualized, polite civilization and let us relax, bend to those heads, those adorably expressive faces. In a way, you reconcile us with ourselves."
 
@@ -1734,7 +1739,7 @@ Will the source of Poetry be dried up? Or will the great black fl ood, in spite 
 
 And so it is not I who make a meaning for myself, but it is the meaning that was already there, pre-existing, waiting for me. It is not out of my bad nigger's misery, my bad nigger's teeth, my bad nigger's hunger that I will shape a torch with which to burn
 
-<sup>19.</sup> Jean-Paul Sartre, *Orphée Noir*, preface to *Anthologie de la nouvelle poésie nègre et malgache* (Paris, Presses Universitaires de France, 1948), pp. xl ff. 20. *Ibid.*, p. xliv.
+19. Jean-Paul Sartre, *Orphée Noir*, preface to *Anthologie de la nouvelle poésie nègre et malgache* (Paris, Presses Universitaires de France, 1948), pp. xl ff. 20. *Ibid.*, p. xliv.
 
 down the world, but it is the torch that was already there, waiting for that turn of history.
 
@@ -1752,9 +1757,9 @@ Exactly, we will reply, Negro experience is not a whole, for there is not merely
 
 The white man killed my father Because my father was proud The white man raped my mother Because my mother was beautiful The white man wore out my brother in the hot sun of the roads Because my brother was strong Then the white man came to me His hands red with blood Spat his contempt into my black face Out of his tyrant's voice: "Hey boy, a basin, a towel, water."22
 
-<sup>21.</sup> Jacques Roumain, "Bois-d'Ebène," Prelude, in *Anthologie de la nouvelle poésie nègre et malgache*, p. 113.
+21. Jacques Roumain, "Bois-d'Ebène," Prelude, in *Anthologie de la nouvelle poésie nègre et malgache*, p. 113.
 
-<sup>22.</sup> David Diop, "Le temps du martyre," in *ibid.*, p. 174.
+22. David Diop, "Le temps du martyre," in *ibid.*, p. 174.
 
 #### Or this other one:
 
@@ -1841,13 +1846,13 @@ The Negro is a toy in the white man's hands; so, in order to shatter the hellish
 
 The crippled veteran of the Pacifi c war says to my brother, "Resign yourself to your color the way I got used to my stump; we're both victims."29
 
-<sup>26.</sup> Jean-Paul Sartre, *The Respectful Prostitute*, in *Three Plays* (New York, Knopf, 1949), pp. 189, 191. Originally, *La Putain respectueuse* (Paris, Gallimard, 1947). See also *Home of the Brave*, a fi lm by Mark Robson.
+26. Jean-Paul Sartre, *The Respectful Prostitute*, in *Three Plays* (New York, Knopf, 1949), pp. 189, 191. Originally, *La Putain respectueuse* (Paris, Gallimard, 1947). See also *Home of the Brave*, a fi lm by Mark Robson.
 
-<sup>27.</sup> Richard Wright, *Native Son* (New York, Harper, 1940).
+27. Richard Wright, *Native Son* (New York, Harper, 1940).
 
-<sup>28.</sup> By Chester Himes (Garden City, Doubleday, 1945).
+28. By Chester Himes (Garden City, Doubleday, 1945).
 
-## <sup>29.</sup> *Home of the Brave.*
+## 29. *Home of the Brave.*
 
 Nevertheless with all my strength I refuse to accept that amputation. I feel in myself a soul as immense as the world, truly a soul as deep as the deepest of rivers, my chest has the power to expand without limit. I am a master and I am advised to adopt the humility of the cripple. Yesterday, awakening to the world, I saw the sky turn upon itself utterly and wholly. I wanted to rise, but the disemboweled silence fell back upon me, its wings paralyzed. Without responsibility, straddling Nothingness and Infi nity, I began to weep.
 
@@ -1859,7 +1864,7 @@ It can never be suffi ciently emphasized that psychoanalysis sets as its task th
 
 Here, however, the evidence is going to be particularly complicated. In Europe the family represents in effect a certain fashion in which the world presents itself to the child. There are close connections between the structure of the family and the structure of the nation. Militarization and the centralization of authority in a country automatically entail a resurgence of the authority of the father. In Europe and in every country characterized as civilized or civilizing, the family is a miniature of the nation. As the child emerges from the shadow of his parents, he finds himself once more among the same laws, the same principles, the same values. A normal child that has
 
-<sup>1.</sup> Jacques Lacan, "Le complèxe, facteur concret de la psychologie familiale," *Encyclopédie française*, 8–40, 5.
+1. Jacques Lacan, "Le complèxe, facteur concret de la psychologie familiale," *Encyclopédie française*, 8–40, 5.
 
 grown up in a normal family will be a normal man.2 There is no disproportion between the life of the family and the life of the nation. Conversely, when one examines a closed society—that is, a society that has been protected from the fl ood of civilization—one encounters the same structures as those just described. Father Trilles' *L'âme du Pygmée d'Afrique*, for instance, convinces us of that; although with every word one is aware of the need to Christianize the savage Negro soul, the book's description of the whole culture—the conditions of worship, the persistence of rites, the survival of myths—has nothing of the artifi cial impression given by *La philosophie bantoue.*
 
@@ -1892,15 +1897,15 @@ We shall see in our section on Hegel that René Ménil has made no misjudgment. 
 
 If we want to answer correctly, we have to fall back on the idea of *collective catharsis.* In every society, in every collectivity, exists—must exist—a channel, an outlet through which the forces accumulated in the form of aggression can be released. This is the purpose of games in children's institutions, of psychodramas in group therapy, and, in a more general way, of illustrated magazines for children—each type of society, of course, requiring its own specifi c kind of catharsis. The Tarzan stories, the sagas of twelve-year-old explorers, the adventures of Mickey Mouse, and all those "comic books" serve actually as a release for collective
 
-<sup>5.</sup> A quotation borrowed from Michel Leiris, "Martinique, Guadeloupe, Haiti," *Les Temps Modernes*, February, 1950, p. 1346.
+5. A quotation borrowed from Michel Leiris, "Martinique, Guadeloupe, Haiti," *Les Temps Modernes*, February, 1950, p. 1346.
 
 aggression. The magazines are put together by white men for little white men. This is the heart of the problem. In the Antilles—and there is every reason to think that the situation is the same in the other colonies—these same magazines are devoured by the local children. In the magazines the Wolf, the Devil, the Evil Spirit, the Bad Man, the Savage are always symbolized by Negroes or Indians; since there is always identifi cation with the victor, the little Negro, quite as easily as the little white boy, becomes an explorer, an adventurer, a missionary "who faces the danger of being eaten by the wicked Negroes." I shall be told that this is hardly important; but only because those who say it have not given much thought to the role of such magazines. Here is what G. Legman thinks of them:
 
 With very rare exceptions, every American child who was six years old in 1938 had therefore assimilated at the very least 18,000 scenes of ferocious tortures and bloody violence. . . . Except the Boers, the Americans are the only modem nation that within living memory has completely driven the autochthonous population off the soil that it had occupied.6 America alone, then, could have had an uneasy national conscience to lull by creating the myth of the "Bad Injun,"7 in order later to be able to bring back the historic fi gure of the Noble Redskin vainly defending his lands against invaders armed with rifl es and Bibles; the punishment that we deserve can be averted only by denying responsibility for the wrong and throwing the blame on the victim; by proving—at least to our own satisfaction—that by striking the fi rst and only blow we were acting solely on the legitimate ground of defense. . . . [Anticipating the repercussions of these magazines on American culture, Legman went on:] There is still no answer to the question whether this maniacal fi xation on violence and death is the substitute for a forbidden sexuality or whether it does not rather serve the purpose of channeling, along a line left open by sexual censorship, both the child's and the adult's desire for aggression against the economic and social structure which, though with their entire consent, perverts them. In both cases the root of the perversion, whether it be of a sexual or of an economic character, is of the essence; that is why, as long as we remain incapable of attacking
 
-<sup>6.</sup> In this connection, it is worth noting that the Caribs experienced the same fate at the hands of French and Spanish explorers.
+6. In this connection, it is worth noting that the Caribs experienced the same fate at the hands of French and Spanish explorers.
 
-<sup>7.</sup> In English in the original. (Translator's note.)
+7. In English in the original. (Translator's note.)
 
 these fundamental repressions, every attack aimed at such simple escape devices as comic books will remain futile.8
 
@@ -1908,9 +1913,9 @@ The black schoolboy in the Antilles, who in his lessons is forever talking about
 
 To impose the same "Evil Spirits" on the white man and on the black man is a major error in education. If one is willing to understand the "Evil Spirit" in the sense of an attempt to personify the *id*, the point of view will be understood. If we are utterly honest, we must say that children's counting-out rhymes are subject to the same criticism. It will have already been noticed
 
-<sup>8.</sup> G. Legman, "Psychopathologie des Comics," French translation by H. Robillot, *Les Temps Modernes*, May, 1949, pp. 919 ff.
+8. G. Legman, "Psychopathologie des Comics," French translation by H. Robillot, *Les Temps Modernes*, May, 1949, pp. 919 ff.
 
-<sup>9.</sup> One always sees a smile when one reports this aspect of education in Martinique. The smile comes because the comicality of the thing is obvious, but no one pursues it to its later consequences. Yet these are the important aspects, because three or four such phrases are the basis on which the young Antillean works out his view of the world.
+9. One always sees a smile when one reports this aspect of education in Martinique. The smile comes because the comicality of the thing is obvious, but no one pursues it to its later consequences. Yet these are the important aspects, because three or four such phrases are the basis on which the young Antillean works out his view of the world.
 
 that I should like nothing more nor less than the establishment of children's magazines especially for Negroes, the creation of songs for Negro children, and, ultimately, the publication of history texts especially for them, at least through the grammar-school grades. For, until there is evidence to the contrary, I believe that if there is a traumatism it occurs during those years. The young Antillean is a Frenchman called on at all times to live with white compatriots. One forgets this rather too often.
 
@@ -1962,19 +1967,19 @@ I have said that the Negro is phobogenic. What is phobia? I prefer to answer tha
 
 Investigating the psychic structure of the phobic, he comes to this conclusion: "Before attacking the adult beliefs, all the elements of the infantile structure which produced them must be analyzed."19 The choice of the phobic object is therefore *overdetermined.* This object does not come at random out of the void of nothingness; in some situation it has previously evoked
 
-<sup>17.</sup> *L'univers morbide de la jaute*, p. 37.
+17. *L'univers morbide de la jaute*, p. 37.
 
-<sup>18.</sup> *Anxiety and Magic Thinking* (New York, International Universities Press, 1956), p. 46. Originally, *L'angoisse et la pensée magique* (Neuchâtel, Delachaux, 1947). 19. *Ibid.*, p. 76.
+18. *Anxiety and Magic Thinking* (New York, International Universities Press, 1956), p. 46. Originally, *L'angoisse et la pensée magique* (Neuchâtel, Delachaux, 1947). 19. *Ibid.*, p. 76.
 
 an affect in the patient. His phobia is the latent presence of this affect at the root of his world; there is an organization that has been given a form. For the object, naturally, need not be there, it is enough that somewhere it *exist*: It is a possibility. This object is endowed with evil intentions and with all the attributes of a malefi c power.20 In the phobic, affect has a priority that defi es all rational thinking. As we can see, the phobic is a person who is governed by the laws of rational prelogic and affective prelogic: methods of thinking and feeling that go back to the age at which he experienced the event that impaired his security. The diffi culty indicated here is this: Was there a trauma harmful to security in the case of the young woman whom we mentioned a little earlier? In the majority of Negrophobic men has there been an attempt at rape? An attempt at *fellatio?* Proceeding with complete orthodoxy, we should be led by the application of analytic conclusions to this: If an extremely frightening object, such as a more or less imaginary attacker, arouses terror, this is also—for most often such cases are those of women—and especially a terror mixed with sexual revulsion. "I'm afraid of men" really means, at the bottom of the motivation of the fear, because they might do all kinds of things to me, but not commonplace cruelties: sexual abuses—in other words, immoral and shameful things.21
 
 *"Contact* alone is enough to evoke anxiety. For contact is at the same time the basic schematic type of initiating sexual action (touching, caresses—sexuality)."22 Since we have learned to know all the tricks the ego uses in order to defend itself, we know too that its denials must in no case be taken literally. Are we not now observing a complete inversion? Basically, does this *fear* of rape not itself cry out for rape? Just as there are faces that ask to be slapped, can one not speak of women who ask to be raped? In *If He Hollers Let Him Go*, Chester Himes describes this type very well. The big blonde trembles whenever the Negro goes near her. Yet she has nothing to fear, since the factory is full of white men. In the end, she and the Negro go to bed together.
 
-<sup>20.</sup> *Ibid.*, pp. 58 and 68.
+20. *Ibid.*, pp. 58 and 68.
 
-<sup>21.</sup> Hesnard, *op. cit.*, p. 38.
+21. Hesnard, *op. cit.*, p. 38.
 
-<sup>22.</sup> *Ibid.*, p. 40.
+22. *Ibid.*, p. 40.
 
 When I was in military service I had the opportunity to observe the behavior of white women from three or four European countries when they were among Negroes at dances. Most of the time the women made involuntary gestures of fl ight, of withdrawing, their faces fi lled with a fear that was not feigned. And yet the Negroes who asked them to dance would have been utterly unable to commit any act at all against them, even if they had wished to do so. The behavior of these women is clearly understandable from the standpoint of imagination. That is because the Negrophobic woman is in fact nothing but a putative sexual partner—just as the Negrophobic man is a repressed homosexual.
 
@@ -2002,7 +2007,7 @@ Since his ideal is an infi nite virility, is there not a phenomenon of diminutio
 
 If one wants to understand the racial situation psychoanalytically, not from a universal viewpoint but as it is experienced by individual consciousnesses, considerable importance must be given to sexual phenomena. In the case of the Jew, one thinks of money and its cognates. In that of the Negro, one thinks of sex. Anti-Semitism can be rationalized on a basic level. It is because he takes over the country that the Jew is a danger. An acquaintance told me recently that although he was not an anti-Semite he had been constrained to admit that the majority of Jews whom he had known during the war had behaved very badly. I tried in vain to get him to concede that such a statement was the fruit
 
-<sup>24.</sup> To continue in Odier's terminology, it would be more accurate to say "paralogical": "The term 'paralogical' might be suggested for the regression of the neurotic adult." *(Anxiety and Magic Thinking*, p. 118.)
+24. To continue in Odier's terminology, it would be more accurate to say "paralogical": "The term 'paralogical' might be suggested for the regression of the neurotic adult." *(Anxiety and Magic Thinking*, p. 118.)
 
 of a determined desire to fi nd the essence of the Jew wherever it might exist.
 
@@ -2037,9 +2042,9 @@ Every intellectual gain requires a loss in sexual potential. The civilized white
 
 To suffer from a phobia of Negroes is to be afraid of the biological. For the Negro is only biological. The Negroes are animals. They go about naked. And God alone knows. . . . Mannoni said further: "In his urge to identify the anthropoid apes, Caliban, the Negroes, even the Jews with the mythological fi gures of the satyrs, man reveals that there are sensitive spots in the human soul at a level27 where thought becomes confused and where sexual excitement is strangely linked with violence and aggressiveness."28 Mannoni includes the Jew in his scale. I see nothing inappropriate there. But here the Negro is the master. He is the specialist of this matter: Whoever says *rape* says *Negro.*
 
-<sup>27.</sup> When we consider the responses given in waking-dream therapy we shall see that these mythological fi gures, or "archetypes," do reside very deep in the human mind. Whenever the individual plunges down, one fi nds the Negro, whether concretely or symbolically.
+27. When we consider the responses given in waking-dream therapy we shall see that these mythological fi gures, or "archetypes," do reside very deep in the human mind. Whenever the individual plunges down, one fi nds the Negro, whether concretely or symbolically.
 
-<sup>28.</sup> Mannoni, *op. cit.*, p. 111.
+28. Mannoni, *op. cit.*, p. 111.
 
 Over three or four years I questioned some 500 members of the white race—French, German, English, Italian. I took advantage of a certain air of trust, of relaxation; in each instance I waited until my subject no longer hesitated to talk to me quite openly—that is, until he was sure that he would not offend me. Or else, in the midst of associational tests, I inserted the word *Negro* among some twenty others. Almost 60 per cent of the replies took this form:
 
@@ -2065,9 +2070,9 @@ To be comfortable without problems, they always have the open air. But then they
 
 When one reads this passage a dozen times and lets oneself go—that is, when one abandons oneself to the movement of its images—one is no longer aware of the Negro but only of a penis; the Negro is eclipsed. He is turned into a penis. He *is* a penis. It is easy to imagine what such descriptions can stimulate in a young girl in Lyon. Horror? Lust? Not indifference, in any case. Now, what is the truth? The average length of the penis among the
 
-<sup>30.</sup> Karl Jaspers, *Psychopathologie générde*, French translation by Kastler and Mendousse, p. 49.
+30. Karl Jaspers, *Psychopathologie générde*, French translation by Kastler and Mendousse, p. 49.
 
-<sup>31.</sup> *Martinique* (Pans, Collection Metamorphoses, Gallimard, 1948), pp. 13–14.
+31. *Martinique* (Pans, Collection Metamorphoses, Gallimard, 1948), pp. 13–14.
 
 black men of Africa, Dr. Pales says, rarely exceeds 120 millimeters (4.6244 inches). Testut, in his *Traité d'anatomie humaine*, offers the same fi gure for the European. But these are facts that persuade no one. The white man is convinced that the Negro is a beast; if it is not the length of the penis, then it is the sexual potency that impresses him. Face to face with this man who is "different from himself," he needs to defend himself. In other words, to personify The Other. The Other will become the mainstay of his preoccupations and his desires.32 The prostitute whom I mentioned earlier told me that her hunt for Negroes dated from the time when she had been told this story: One night a woman who was in bed with a Negro went mad; she remained insane for two years, but then when she had been cured refused to go to bed with anyone else. The prostitute did not know what had driven the other woman mad. But she sought furiously to reproduce the same situation, to discover this secret which was part of the ineffable. One must recognize that what she wanted was the destruction, the dissolution, of her being on a sexual level. Every experiment that she made with a Negro reinforced her limitations. This delirium
 
@@ -2085,9 +2090,9 @@ An endless task, the cataloguing of reality. We accumulate facts, we discuss the
 
 This anthology, which puts Antilleans, Guianans, Senegalese, and Malagasies on the same footing, creates a deplorable confusion. In this way it states the cultural problem of the overseas countries by detaching it from the historical and social reality of each of them, from the national characteristics and the varying conditions imposed on each of them by imperialist exploitation and oppression. Thus, when Sartre wrote, "Simply by plunging into the depths of his memory as a former slave, the black man asserts that suffering is the lot of man and that it is no less undeserved on that account," did he take into consideration what that might mean for a Hova, a Moor, a Touareg, a Peul, or a Bantu of the Congo or the Ivory Coast?34
 
-<sup>33. &</sup>quot;Sur le *Martinique* de M. Michel Cournot," *Les Temps Modernes*, February, 1950, p. 1505.
+33. &quot;Sur le *Martinique* de M. Michel Cournot," *Les Temps Modernes*, February, 1950, p. 1505.
 
-<sup>34. &</sup>quot;Une dangereuse mystifi cation: la théorie de la négritude," *La Nouvelle Revue Critique*, June, 1949.
+34. &quot;Une dangereuse mystifi cation: la théorie de la négritude," *La Nouvelle Revue Critique*, June, 1949.
 
 The objection is valid. It applies to me as well. In the beginning I wanted to confi ne myself to the Antilles. But, regardless of consequences, dialectic took the upper hand and I was compelled to *see* that the Antillean is fi rst of all a Negro. Nevertheless, it would be impossible to overlook the fact that there are Negroes whose nationality is Belgian, French, English; there are also Negro republics. How can one claim to have got hold of an essential when such facts as these demand one's recognition? The truth is that the Negro race has been scattered, that it can no longer claim unity. When Il Duce's troops invaded Ethiopia, a movement of solidarity arose among men of color. But, though one or two airplanes were sent from America to the invaded country, not a single black man made any practical move. The Negro has a country, he takes his place in a Union or a Commonwealth. Every description should be put on the level of the discrete phenomenon, but here again we are driven out to infi nite perspectives. In the universal situation of the Negro there is an ambiguity, which is, however, resolved in his concrete existence. This in a way places him beside the Jew. Against all the arguments I have just cited, I come back to one fact: *Wherever he goes, the Negro remains a Negro.*
 
@@ -2116,9 +2121,9 @@ In the United States, as we can see, the Negro makes stories in which it becomes
 
 We can now stake out a marker. For the majority of white men the Negro represents the sexual instinct (in its raw state). The Negro is the incarnation of a genital potency beyond all moralities and prohibitions. The women among the whites, by a genuine process of induction, invariably view the Negro as the keeper of the impalpable gate that opens into the realm of orgies, of bacchanals, of delirious sexual sensations. . . . We have shown that reality destroys all these beliefs. But they all rest on the level of the imagined, in any case on that of a paralogism. The white man who ascribes a malefi c infl uence to the black is regressing on the intellectual level, since, as we have shown, his perception is based on a mental age of eight years (the comic books). Is there not a concurrent regression to and fi xation at pregenital levels of sexual development? Self-castration? (The Negro is taken as a terrifying penis.) Passivity justifying itself by the recognition of the superiority of the black man in terms of sexual capacity? It
 
-<sup>37.</sup> Bernard Wolfe, "L'oncle Rémus et son lapin," *Les Temps Modernes*, May, 1949, pp. 898 ff.
+37. Bernard Wolfe, "L'oncle Rémus et son lapin," *Les Temps Modernes*, May, 1949, pp. 898 ff.
 
-<sup>38.</sup> It is usual to be told in the United States, when one calls for the real freedom of the Negro: "That's all they're waiting for, to jump our women." Since the white man behaves in an offensive manner toward the Negro, he recognizes that in the Negro's place he would have no mercy on his oppressors. Therefore it is not surprising to see that he identifi es himself with the Negro: white "hot-jazz" orchestras, white blues and spiritual singers, white authors writing novels in which the Negro proclaims his grievances, whites in blackface.
+38. It is usual to be told in the United States, when one calls for the real freedom of the Negro: "That's all they're waiting for, to jump our women." Since the white man behaves in an offensive manner toward the Negro, he recognizes that in the Negro's place he would have no mercy on his oppressors. Therefore it is not surprising to see that he identifi es himself with the Negro: white "hot-jazz" orchestras, white blues and spiritual singers, white authors writing novels in which the Negro proclaims his grievances, whites in blackface.
 
 is obvious what a variety of questions it would be interesting to raise. There are, for instance, men who go to "houses" in order to be beaten by Negroes; passive homosexuals who insist on black partners.
 
@@ -2128,11 +2133,11 @@ From a heuristic point of view, without attributing any reality to it, I should 
 
 Corresponding to the clitoral stage there is an active Oedipus complex, although, according to Marie Bonaparte, it is not a sequence but a coexistence of the active and the passive. The desexualization of aggression in a girl is less complete than in a boy.41 The clitoris is perceived as a diminished penis, but, going beyond the concrete, the girl clings only to the quality. She apprehends reality in qualitative terms. In her as in the little boy
 
-<sup>39.</sup> *The Psychology of Women* (New York, Grune and Stratton, 1944–1945).
+39. *The Psychology of Women* (New York, Grune and Stratton, 1944–1945).
 
-<sup>40.</sup> *Female Sexuality* (New York, International Universities Press, 1953).
+40. *Female Sexuality* (New York, International Universities Press, 1953).
 
-<sup>41.</sup> Marie Bonaparte, "De la sexualité de la femme," in *Revue Française de Psychanalyse*, April–June, 1949.
+41. Marie Bonaparte, "De la sexualité de la femme," in *Revue Française de Psychanalyse*, April–June, 1949.
 
 there will be impulses directed at the mother; she too would like to disembowel the mother.
 
@@ -2146,9 +2151,9 @@ In one of my patients the vulgarity and the obscenity of his ravings transcended
 
 A third patient, with a physically weak constitution—he suffered from chronic colitis—was humiliated by his poor health and ultimately ascribed it to poisoning by means of a "bacterial injection" given to him by one of the male nurses in an institution where he had been earlier—nurses who were anticlerical and Communists, he said, and who had wanted to punish him for his Catholic convictions and utterances. Now that he was in our hospital and safe from "a crew of union men," he felt that he was between Scylla and Charybdis, since he was in the hands of a Jew. By defi nition this Jew could be only a thief, a monster, a man capable of any and all crimes.
 
-<sup>43.</sup> *Precis de psychiatrie* (Paris, Masson, 1950), p. 371.
+43. *Precis de psychiatrie* (Paris, Masson, 1950), p. 371.
 
-<sup>44.</sup> Let me observe at once that I had no opportunity to establish the overt presence of homosexuality in Martinique. This must be viewed as the result of the absence of the Oedipus complex in the Antilles. The schema of homosexuality is well enough known. We should not overlook, however, the existence of what are called there "men dressed like women" or "godmothers." Generally they wear shirts and skirts. But I am convinced that they lead normal sex lives. They can take a punch like any "he-man" and they are not impervious to the allures of women—fi sh and vegetable merchants. In Europe, on the other hand, I have known several Martinicans who became homosexuals, always passive. But this was by no means a neurotic homosexuality: For them it was a means to a livelihood, as pimping is for others.
+44. Let me observe at once that I had no opportunity to establish the overt presence of homosexuality in Martinique. This must be viewed as the result of the absence of the Oedipus complex in the Antilles. The schema of homosexuality is well enough known. We should not overlook, however, the existence of what are called there "men dressed like women" or "godmothers." Generally they wear shirts and skirts. But I am convinced that they lead normal sex lives. They can take a punch like any "he-man" and they are not impervious to the allures of women—fi sh and vegetable merchants. In Europe, on the other hand, I have known several Martinicans who became homosexuals, always passive. But this was by no means a neurotic homosexuality: For them it was a means to a livelihood, as pimping is for others.
 
 Confronted by such a tide of aggression, this Jew will have to take a stand. Here is all the ambiguity that Sartre describes. Certain pages of *Anti-Semite and Jew* are the fi nest that I have ever read. The fi nest, because the problem discussed in them grips us in our guts.45
 
@@ -2170,11 +2175,11 @@ Good-Evil, Beauty-Ugliness, White-Black: such are the characteristic pairings of
 
 Seeing only one type of Negro, assimilating anti-Semitism to Negrophobia, these seem to be the errors of analysis being committed here. Someone to whom I was talking about this book asked me what I expected to come of it. Ever since Sartre's decisive essay, *What Is Literature*?, originally in *Situations II*, literature has been committed more and more to its sole really *contemporary* task, which is to persuade the group to progress to refl ection and mediation: This book, it is hoped, will be a mirror with a
 
-<sup>46.</sup> Baruk, *Précis de psychiatrie*, pp. 372–373.
+46. Baruk, *Précis de psychiatrie*, pp. 372–373.
 
-<sup>47.</sup> This is what Marie Bonaparte wrote in *Myths de guerre*, No. 1, p. 145: "The anti-Semite projects on to the Jew, ascribes to the Jew all his own more or less unconscious bad instincts. . . . Thus, in ridding himself of them by heaping them on the shoulders of the Jew, he has purged himself of them in his own eyes and sees himself in shining purity. The Jew thus lends himself magnifi cently to a projection of the Devil. . . . The Negro in the United States assumes the same function of fi xation."
+47. This is what Marie Bonaparte wrote in *Myths de guerre*, No. 1, p. 145: "The anti-Semite projects on to the Jew, ascribes to the Jew all his own more or less unconscious bad instincts. . . . Thus, in ridding himself of them by heaping them on the shoulders of the Jew, he has purged himself of them in his own eyes and sees himself in shining purity. The Jew thus lends himself magnifi cently to a projection of the Devil. . . . The Negro in the United States assumes the same function of fi xation."
 
-<sup>48.</sup> *Psychiatrie du médecin praticien* (Paris, Masson, 1922), p. 164.
+48. *Psychiatrie du médecin praticien* (Paris, Masson, 1922), p. 164.
 
 progressive infrastructure, in which it will be possible to discern the Negro on the road to disalienation.
 
@@ -2192,9 +2197,9 @@ The nonwhite populations of South Africa are at an impasse. All the modem modes 
 
 I apologize for this long quotation, but it permits me to bring out some possibilities of black men's mistakes. Alioune Diop, for example, in his introduction to *La philosophic bantoue*, remarks that Bantu ontology knows nothing of the metaphysical misery
 
-<sup>49.</sup> Reverend Tempels, *La philosophie bantoue.*
+49. Reverend Tempels, *La philosophie bantoue.*
 
-<sup>50.</sup> I. R. Skine, "Apartheid en Afrique du Sud," *Les Temps Modernes*, July, 1950.
+50. I. R. Skine, "Apartheid en Afrique du Sud," *Les Temps Modernes*, July, 1950.
 
 of Europe. The inference that he draws from this is none the less dangerous:
 
@@ -2226,7 +2231,7 @@ Continuing to take stock of reality, endeavoring to ascertain the instant of sym
 
 On the level of philosophic discussion, this would be the place to bring up the old problem of instinct and habit: instinct, which is inborn (we know how we must view this "innateness"), invariable, specifi c; habit, which is acquired. On this level one would have only to demonstrate that Jung has confused instinct and habit. In his view, in fact, the collective unconscious is bound up with the cerebral structure, the myths and archetypes are permanent engrams of the race. I hope I have shown that nothing of the sort is the case and that in fact the collective unconscious is cultural, which means acquired. Just as a young mountaineer of the Carpathians, under the physico-chemical conditions of his country, is likely to develop a myxedema, so a Negro like René Maran, who has lived in France and breathed and eaten the myths and prejudices of racist Europe, and assimilated the collective unconscious of that Europe, will be able, if he stands outside himself, to express only his hatred of the Negro. One must move softly, and there is a whole drama in having to lay bare little by little the workings of processes that are seen in their totality. Will this statement be susceptible of understanding? *In Europe, the black man is the symbol of Evil.* One must move softly, I know, but it is not
 
-<sup>52.</sup> Salavin is a character created by Georges Duhamel, and who is the prototype of the ineffectual man: a mediocrity, a creature of fl eeting impulse, and always the victim of his own chimeras. (Translator's note.)
+52. Salavin is a character created by Georges Duhamel, and who is the prototype of the ineffectual man: a mediocrity, a creature of fl eeting impulse, and always the victim of his own chimeras. (Translator's note.)
 
 easy. The torturer is the black man, Satan is black, one talks of shadows, when one is dirty one is black—whether one is thinking of physical dirtiness or of moral dirtiness. It would be astonishing, if the trouble were taken to bring them all together, to see the vast number of expressions that make the black man the equivalent of sin. In Europe, whether concretely or symbolically, the black man stands for the bad side of the character. As long as one cannot understand this fact, one is doomed to talk in circles about the "black problem." Blackness, darkness, shadow, shades, night, the labyrinths of the earth, abysmal depths, blacken someone's reputation; and, on the other side, the bright look of innocence, the white dove of peace, magical, heavenly light. A magnifi cent blond child—how much peace there is in that phrase, how much joy, and above all how much hope! There is no comparison with a magnifi cent black child: literally, such a thing is unwonted. Just the same, I shall not go back into the stories of black angels. In Europe, that is to say, in every civilized and civilizing country, the Negro is the symbol of sin. The archetype of the lowest values is represented by the Negro. And it is exactly the same antinomy that is encountered in Desoille's *waking dreams.* How else is one to explain, for example, that the unconscious representing the base and inferior traits is colored black? With Desoille, in whose work the situation is (without any intention of a pun) clearer, it is always a matter of descending or climbing. When I descend I see caverns, grottoes where savages dance. Let there be no mistake, above all. For example, in one of the waking-dream sessions that Desoille describes for us, we fi nd Gauls in a cave. But, it must be pointed out, the Gaul is a simple fellow. A Gaul in a cave, it is almost like a family picture—a result, perhaps, of "our ancestors, the Gauls." I believe it is necessary to become a child again in order to grasp certain psychic realities. This is where Jung was an innovator: He wanted to go back to the childhood of the world, but he made a remarkable mistake: He went back only to the childhood of Europe.
 
@@ -2260,7 +2265,7 @@ Do you understand? Césaire has *come down.* He is ready to see what is happenin
 
 and for this, O lord with white teeth, men with fragile necks receive and collect fatal calm triangular and for me my dances my bad-nigger dances for me my dances break-the-yoke dance jail-break dance it-is-fi ne-and-good-and-right-to-be-a-Negro dance For me my dances and let the sun bounce off the racket of my hands no the unjust sun is no longer enough for me twist yourself, wind, round my new growth touch my spaced fi ngers I give you my conscience and its rhythm of fl esh I give you the fl ames that char my weakness
 
-<sup>53.</sup> *L'air et les songes* (Paris, Corti, 1943).
+53. *L'air et les songes* (Paris, Corti, 1943).
 
 
 I give you the chain-gang 
@@ -2299,7 +2304,7 @@ there now I want to haul out the evil tongue
 ## 
 of the night in its moveless glaze!54
 
-<sup>54.</sup> Aimé Césaire, *Cahier d'un retour au pays natal* (Paris, Présence Africaine, 1956), pp. 94–96.
+54. Aimé Césaire, *Cahier d'un retour au pays natal* (Paris, Présence Africaine, 1956), pp. 94–96.
 
 One can understand why Sartre views the adoption of a Marxist position by black poets as the logical conclusion of Negrohood. In effect, what happens is this: As I begin to recognize that the Negro is the symbol of sin, I catch myself hating the Negro. But then I recognize that I am a Negro. There are two ways out of this confl ict. Either I ask others to pay no attention to my skin, or else I want them to be aware of it. I try then to fi nd value for what is bad—since I have unthinkingly conceded that the black man is the color of evil. In order to terminate this neurotic situation, in which I am compelled to choose an unhealthy, confl ictual solution, fed on fantasies, hostile, inhuman in short, I have only one solution: to rise above this absurd drama that others have staged round me, to reject the two terms that are equally unacceptable, and, through one human being, to reach out for the universal. When the Negro dives—in other words, goes under—something remarkable occurs.
 
@@ -2337,7 +2342,7 @@ THE REBEL: I have a pact with this night, for twenty years
 
 Having again discovered that night, which is to say the sense of his identity, Césaire learned fi rst of all that "it is no use painting
 
-<sup>55.</sup> *Et les chiens se taisaient.* a tragedy, in *Les Armes Miraculeuses* (Paris, Gallimard, 1946), pp. 144 and 122.
+55. *Et les chiens se taisaient.* a tragedy, in *Les Armes Miraculeuses* (Paris, Gallimard, 1946), pp. 144 and 122.
 
 the foot of the tree white, the strength of the bark cries out from beneath the paint. . . ."
 
@@ -2353,11 +2358,11 @@ The European knows and he does not know. On the level of refl ection, a Negro is
 
 Mounin, whom it would be impossible to take for an average Frenchman, added, and thus rose inestimably in my opinion: "I profi ted perhaps by learning, at an age when one's mind has not yet been prejudiced, that Negroes are men like ourselves. . . . I as a white man thus gained, perhaps, the possibility of always being natural with a Negro—and never, in his presence, to fall stupidly
 
-<sup>56.</sup> *Ibid.*, p. 136.
+56. *Ibid.*, p. 136.
 
-<sup>57.</sup> *Ibid.*, p. 65.
+57. *Ibid.*, p. 65.
 
-<sup>58.</sup> Premières réponses à l'enquête sur le "Mythe du nègre," *Présence Africaine*, No. 2.
+58. Premières réponses à l'enquête sur le "Mythe du nègre," *Présence Africaine*, No. 2.
 
 and imperceptibly into that attitude of ethnographic investigator that is still too often our unbearable manner of *putting them in their place.* . . ."
 
@@ -2461,7 +2466,7 @@ It is on the basis of similar theoretical positions that, in general, the most s
 
 The Negro is comparison. There is the first truth. He is comparison: that is, he is constantly preoccupied with selfevaluation and with the ego-ideal. Whenever he comes into contact with someone else, the question of value, of merit, arises. The Antilleans have no inherent values of their own, they are always contingent on the presence of The Other. The question
 
-<sup>1.</sup> Alfred Adler, *Le tempérament nerveux*, p. 12. (Originally, "Der nervöse charakter," in *Festschrift William Stern*, Leipzig, Barth, 1931).
+1. Alfred Adler, *Le tempérament nerveux*, p. 12. (Originally, "Der nervöse charakter," in *Festschrift William Stern*, Leipzig, Barth, 1931).
 
 is always whether he is less intelligent than I, blacker than I, less respectable than I. Every position of one's own, every effort at security, is based on relations of dependence, with the diminution of the other. It is the wreckage of what surrounds me that provides the foundation for my virility.
 
@@ -2541,13 +2546,13 @@ But the former slave wants to *make himself recognized.*
 
 At the foundation of Hegelian dialectic there is an absolute reciprocity which must be emphasized. It is in the degree to which I go beyond my own immediate being that I apprehend the existence of the other as a natural and more than natural reality. If I close the circuit, if I prevent the accomplishment of movement in two directions, I keep the other within himself. Ultimately, I deprive him even of this being-for-itself.
 
-The only means of breaking this vicious circle that throws me back on myself is to restore to the other, through mediation and recognition, his human reality, which is different from natural reality. The other has to perform the same operation. "Action from one side only would be useless, because what is to happen can only be brought about by means of both. . . ."; *"they recognize themselves as mutually recognizing each other."*<sup>4</sup>
+The only means of breaking this vicious circle that throws me back on myself is to restore to the other, through mediation and recognition, his human reality, which is different from natural reality. The other has to perform the same operation. "Action from one side only would be useless, because what is to happen can only be brought about by means of both. . . ."; *"they recognize themselves as mutually recognizing each other."*4
 
 In its immediacy, consciousness of self is simple being-foritself. In order to win the certainty of oneself, the incorporation of the concept of recognition is essential. Similarly, the other is waiting for recognition by us, in order to burgeon into the universal consciousness of self. Each consciousness of self is in quest of absoluteness. It wants to be recognized as a primal value without reference to life, as a transformation of subjective certainty (*Gewissheit*) into objective truth (*Wahrheit*).
 
 When it encounters resistance from the other, self-consciousness undergoes the experience of *desire*—the fi rst milestone on the road that leads to the dignity of the spirit. Self-consciousness accepts the risk of its life, and consequently it threatens the other in his physical being. "It is solely by risking life that freedom is obtained;
 
-<sup>4.</sup> G. W. F. Hegel, *The Phenomenobgy of Mind*, trans. by J. B. Baillie, 2nd rev. ed. (London, Allen & Unwin, 1949), pp. 230, 231.
+4. G. W. F. Hegel, *The Phenomenobgy of Mind*, trans. by J. B. Baillie, 2nd rev. ed. (London, Allen & Unwin, 1949), pp. 230, 231.
 
 only thus is it tried and proved that the essential nature of selfconsciousness is not *bare existence*, is not the merely immediate form in which it at fi rst makes its appearance, is not its mere absorption in the expanse of life."5
 
@@ -2800,9 +2805,77 @@ O my body, make of me always a man who questions!
 
 #### *Compiled by Sue Carlton*
 
-| abandonment neurosis 52–6, 58,<br>59, 129n<br>Achille, Louis-T. 19, 51–2, 170n<br>Adler, Alfred 44, 68–9, 109, 117,<br>163–8<br>affective erethism 42, 118<br>anti-Semitism 64, 69, 87, 92,<br>123–4, 139–40<br>see also Jews<br>apartheid 142<br>Arbousier, Gabriel d' 132<br>Artaud, Antonin 92<br>Bachelard, Gaston 151<br>Balandier, Georges 70<br>Bantu 142–3<br>Barak, Henri 139–40, 141<br>Beauvoir, Simone de 141<br>being for others 82, 168–9<br>being-for-itself 169–70<br>black consciousness 103, 106n<br>black man/Negro<br>and Adler 163–8<br>alienation 4, 17, 25, 34, 43,<br>158, 162, 174–5<br>being through the Other 82–8,<br>163–5, 167–8<br>black athletes 122, 128<br>black physicians 88–9<br>as childlike 16, 19<br>desire to be white 3, 45, 50–1,<br>147–8, 149–50, 167, 168,<br>178<br>and destiny 178–80<br>disalienation of 4, 5, 25, 142, | and emotion 96–7<br>encounter with white man 5,<br>115–16, 119<br>and Hegel 168–73<br>and inferiority 4, 14–15,<br>18–19, 21–2, 42–3, 83, 115,<br>116, 165–7<br>see also inferiority complex<br>and language of mother<br>country 11, 13, 14, 16–17,<br>24, 25<br>and liberation 2–3, 4, 19,<br>151–4, 180 | |
+| abandonment neurosis 52–6, 58,
+59, 129n
+Achille, Louis-T. 19, 51–2, 170n
+Adler, Alfred 44, 68–9, 109, 117,
+163–8
+affective erethism 42, 118
+anti-Semitism 64, 69, 87, 92,
+123–4, 139–40
+see also Jews
+apartheid 142
+Arbousier, Gabriel d' 132
+Artaud, Antonin 92
+Bachelard, Gaston 151
+Balandier, Georges 70
+Bantu 142–3
+Barak, Henri 139–40, 141
+Beauvoir, Simone de 141
+being for others 82, 168–9
+being-for-itself 169–70
+black consciousness 103, 106n
+black man/Negro
+and Adler 163–8
+alienation 4, 17, 25, 34, 43,
+158, 162, 174–5
+being through the Other 82–8,
+163–5, 167–8
+black athletes 122, 128
+black physicians 88–9
+as childlike 16, 19
+desire to be white 3, 45, 50–1,
+147–8, 149–50, 167, 168,
+178
+and destiny 178–80
+disalienation of 4, 5, 25, 142, | and emotion 96–7
+encounter with white man 5,
+115–16, 119
+and Hegel 168–73
+and inferiority 4, 14–15,
+18–19, 21–2, 42–3, 83, 115,
+116, 165–7
+see also inferiority complex
+and language of mother
+country 11, 13, 14, 16–17,
+24, 25
+and liberation 2–3, 4, 19,
+151–4, 180 | |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
-| | myth of the Negro 7, 11, 48,<br>68, 88, 116, 117, 157–8<br>and past 99–100, 103–4, 106,<br>175–7, 179<br>phobogenesis 117, 119–20<br>and psychopathology 109–62<br>and recognition 163–73<br>returning home 10, 13–14, 24<br>as savage 41, 50, 88, 113, 128,<br>144, 147, 154, 155, 161<br>and sexual potency 121–32,<br>136–7<br>standing for Evil 139, 145–9,<br>153<br>and stay in mother country<br>9–10, 11–14, 24<br>stereotyping 22–3<br>and suicide 170n<br>and the universal 143–4<br>see also man of color; woman<br>of color<br>black-white relation<br>psychological analysis of 3–6,<br>43–4, 62–3 | |
+| | myth of the Negro 7, 11, 48,
+68, 88, 116, 117, 157–8
+and past 99–100, 103–4, 106,
+175–7, 179
+phobogenesis 117, 119–20
+and psychopathology 109–62
+and recognition 163–73
+returning home 10, 13–14, 24
+as savage 41, 50, 88, 113, 128,
+144, 147, 154, 155, 161
+and sexual potency 121–32,
+136–7
+standing for Evil 139, 145–9,
+153
+and stay in mother country
+9–10, 11–14, 24
+stereotyping 22–3
+and suicide 170n
+and the universal 143–4
+see also man of color; woman
+of color
+black-white relation
+psychological analysis of 3–6,
+43–4, 62–3 | |
 
  *see also* black man, and psychopathology race-crossings 90–1 and sexual potency 121–32, 136–7 and transcendence 106 blackness 6, 31, 82–108, 116, 146 body, as object of consciousness 175 Bonaparte, Marie 137, 141n Boutonnier, Juliette 110n Brachfeld, Oliver 165–6 Br'er Rabbit 35n, 52, 118, 133–4, 135 Breton, André 26, 27 Breuer, Josef 111 Burns, Sir Alan 18, 89n
 

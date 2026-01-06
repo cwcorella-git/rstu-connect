@@ -1,3 +1,8 @@
+---
+title: "**Roman citizenship**"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_2.jpeg)
 
 # **Roman citizenship**

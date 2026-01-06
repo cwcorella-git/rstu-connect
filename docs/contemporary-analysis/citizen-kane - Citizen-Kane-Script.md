@@ -1,3 +1,8 @@
+---
+title: "PROLOGUE"
+category: "contemporary-analysis"
+---
+
 ## CITIZEN KANE
 
 ## Written by

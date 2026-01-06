@@ -1,14 +1,10 @@
 ---
-date: 2025
-author: Nevada Current
-tags:
-  - organizing
-  - strikes
-  - unions
-  - tenants
-  - housing
 title: "Address rent now or homelessness later, lawmakers told"
+author: "Nevada Current"
+date: "2025"
+category: "housing"
 ---
+
 # Address rent now or homelessness later, lawmakers told
 
 *Converted from: `./Address rent now or homelessness later, lawmakers told.pdf`*  
@@ -29,8 +25,6 @@ title: "Address rent now or homelessness later, lawmakers told"
 Address rent now or homelessness later, lawmakers told   about:reader?url=https%3A%2F%2Fthisisreno.com%2...
 
 
-
-
                thisisreno.com
 
 
@@ -40,7 +34,6 @@ Address rent now or homelessness later, lawmakers told   about:reader?url=https%
                Nevada Current
 
                8–11 minutes
-
 
 
                by Michael Lyle, Nevada Current
@@ -87,7 +80,6 @@ Address rent now or homelessness later, lawmakers told   about:reader?url=https%
 Address rent now or homelessness later, lawmakers told   about:reader?url=https%3A%2F%2Fthisisreno.com%2...
 
 
-
                Nevada lawmakers are mulling multiple ways to address the
                high costs of rent, whether through direct state action or by
                enabling counties to implement rent stabilization on their own.
@@ -100,8 +92,6 @@ Address rent now or homelessness later, lawmakers told   about:reader?url=https%
                The bill received its first hearing in the Senate Commerce and
                Labor Committee April 7, but no action was taken on the
                proposal.
-
-
 
 
                A separate measure, Senate Bill 371, seeks to make changes
@@ -138,7 +128,6 @@ Address rent now or homelessness later, lawmakers told   about:reader?url=https%
 
 
 Address rent now or homelessness later, lawmakers told   about:reader?url=https%3A%2F%2Fthisisreno.com%2...
-
 
 
                Housing costs growing more than incomes
@@ -193,7 +182,6 @@ Address rent now or homelessness later, lawmakers told   about:reader?url=https%
 Address rent now or homelessness later, lawmakers told   about:reader?url=https%3A%2F%2Fthisisreno.com%2...
 
 
-
                single property, landlords who live onsite at the property and
                would exclude new construction. Spearman said the intent of
                the bill was to target out-of-state investors who have swooped
@@ -242,7 +230,6 @@ Address rent now or homelessness later, lawmakers told   about:reader?url=https%
 
 
 Address rent now or homelessness later, lawmakers told   about:reader?url=https%3A%2F%2Fthisisreno.com%2...
-
 
 
                Republican state Sen. Jeff Stone, who is also a landlord, said
@@ -296,7 +283,6 @@ Address rent now or homelessness later, lawmakers told   about:reader?url=https%
 Address rent now or homelessness later, lawmakers told   about:reader?url=https%3A%2F%2Fthisisreno.com%2...
 
 
-
                stabilization programs you see around the country and the
                type being proposed here.”
 
@@ -348,7 +334,6 @@ Address rent now or homelessness later, lawmakers told   about:reader?url=https%
 Address rent now or homelessness later, lawmakers told   about:reader?url=https%3A%2F%2Fthisisreno.com%2...
 
 
-
                and the Nevada Realtors Association testified in opposition.
 
                “We need to be mad at the institutional owners out there,
@@ -378,9 +363,6 @@ Address rent now or homelessness later, lawmakers told   about:reader?url=https%
                Friday deadline.
 
 
-
-
 7 of 7                                                                                    8/28/25, 10:41 AM
 
 ---
-

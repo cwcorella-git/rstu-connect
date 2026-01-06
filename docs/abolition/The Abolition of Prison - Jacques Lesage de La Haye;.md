@@ -1,16 +1,10 @@
 ---
-title: The Abolition Of Prison Jacques Lesage De
-slug: The Abolition of Prison - Jacques Lesage de La Haye;
-reconversion_status: ready_for_reconversion
-author: Jacques Lesage de La Haye
-date: '2019'
-tags:
-  - abolition
-  - police
-  - strikes
-  - unions
-  - tenants
+title: "The Abolition Of Prison Jacques Lesage De"
+author: "Jacques Lesage de La Haye"
+date: "2019"
+category: "abolition"
 ---
+
 # THE ABOLITION OF PRISON
 
 # Jacques Lesage de La Haye translated by Scott Branson
@@ -101,7 +95,7 @@ Well, does prison at least allow the criminal to be educated? Does it strive tow
 
 Building on this line of thinking, Peter Kropotkin goes even further: "You can hang, draw and quarter the murderers as much as you like, but the number of murders will not diminish. On the other hand, if you abolish the death penalty there will not be a single murder more. Statisticians and legists know that when the severity of the penal code is lessened there is never an increase in the number of attempts against the lives of citizens." 5
 
-Phillippe Paraire translated Kropotkin's book *In Russian and French Prisons* (published in London in 1887) from English. Commenting on Kropotkin's ideas in the introduction, Paraire remarks: "According to him, the social exclusion of criminals through imprisonment and of the mentally ill through institutionalization should be replaced by freedom, while building support networks, and also professional and educational reintegration. . This is truly a visionary idea of the law's efforts at correction." <sup>6</sup>
+Phillippe Paraire translated Kropotkin's book *In Russian and French Prisons* (published in London in 1887) from English. Commenting on Kropotkin's ideas in the introduction, Paraire remarks: "According to him, the social exclusion of criminals through imprisonment and of the mentally ill through institutionalization should be replaced by freedom, while building support networks, and also professional and educational reintegration. . This is truly a visionary idea of the law's efforts at correction." 6
 
 But the considerations of the anarchist thinker go much further. Though he was, of course, treated like a utopian in the nineteenth century, Kropotkin is a forerunner, believing that only a true social revolution can bring the end of punishment by imprisonment. He argues this with evidence that we clearly recognize today, but that few politicians, even on the left, truly dare to support: "Two-thirds of all breaches of law being so called 'crimes against property,' these cases will disappear, or be limited to a quite trifling amount, when property, which is now the privilege of the few, shall return to its real source, the community." We have unfortunately not yet reached this stage of our evolution. Claiming to condemn a theory that promotes violence, chaos, and disorder, property owners refuse to recognize the truth. They cling firmly to their privileges: money, power, and property.
 
@@ -125,7 +119,7 @@ The law of preventative detention, in 2008, goes beyond the limit. Following a p
 
 The loss of all hope is an oft-recurring theme in the protests of people who are incarcerated. In 1977, Taleb Hadjadj wrote: "The outcome is either an act of desperation, or mental illness like paranoia or schizophrenia." For him, this is suicide. Serge Coutel, another person serving a life sentence, tells us: "This tired justice is the most terrible institution of our time, far worse than the crime it claims to punish. Yes, it no longer crucifies, no longer burns at the stake, and no longer decapitates. There is no longer iron, wheel, gallows, pyre, nothing. Time replaces everything. A life dismembered by time! That's prison: time nakedly meted out. They don't kill. They let die." 16
 
-The prisoners of Clarivaux issued the Call of the Ten in 2006: "We, the living beings locked up for life in the highest security penitentiary center in France (yet none of us as horrible as a Papon), <sup>17</sup> we call for the effective reinstatement of the death penalty for us." <sup>18</sup>
+The prisoners of Clarivaux issued the Call of the Ten in 2006: "We, the living beings locked up for life in the highest security penitentiary center in France (yet none of us as horrible as a Papon), 17 we call for the effective reinstatement of the death penalty for us." 18
 
 In answer to the clumsy and stupid response by Pascal Clément, the minister of justice, one of the signers, Abdelhamid Hakkar, desperately drives the point home: "I dare you to come back here with the guillotine, I'll give myself up. But I do not resign myself to a fate of being buried alive." [9]
 
@@ -139,33 +133,33 @@ Michel Foucault, a philosopher well-known for his militant commitments, was not 
 
 The great revolutionary militant Victor Serge can beautifully close out this series of analyses on imprisonment with a paradox: "Modern prisons are imperfectible, since they are perfect. There is nothing left but to destroy them." As an anarchist, then communist, and finally anti-Stalinist, Serge knows what he is talking about. Just like Kropotkin, he knew the Russian and French jails. The communists could not bear that he became a Trotskyist and the Trotskyists could not bear that he was communist. In France, he was unjustly accused of being a member of the anarchist bank robbers. What's more, he refused to snitch on his friends . . . He has a conclusive view of jails, prisons, and penal colonies: "Prison is made to kill." Prison is made to
 
-<sup>1.</sup> Michel Foucault, *Discipline and Punish: The Birth of the Prison*, trans. Alan Sheridan (New York: Vintage, 2012), 73.
+1. Michel Foucault, *Discipline and Punish: The Birth of the Prison*, trans. Alan Sheridan (New York: Vintage, 2012), 73.
 
-<sup>&</sup>lt;u>2</u>. Cesare Beccaria, *On Crime and Punishment*, trans. David Young (Indianapolis: Hackett, 1986), 51.
+&lt;u>2. Cesare Beccaria, *On Crime and Punishment*, trans. David Young (Indianapolis: Hackett, 1986), 51.
 
-<sup>&</sup>lt;u>3</u>. Dominique Vernier, *Peines perdues. Faut-il supprimer les prisons?* (Paris: Fayard, 2002), 7.
+&lt;u>3. Dominique Vernier, *Peines perdues. Faut-il supprimer les prisons?* (Paris: Fayard, 2002), 7.
 
 - 4. Ibid., 49.
-- <u>5</u>. Peter Kropotkin, *Words of a Rebel*, trans. George Woodcock (Montréal: Black Rose Books, 1992), 117.
-- <u>6</u>. Phillippe Paraire, "Introduction," in Peter Kropotkin, *In Russian and French Prisons*, trans. Pariare (Paris: Le Temps des cerises, 2009), 15.
+- 5. Peter Kropotkin, *Words of a Rebel*, trans. George Woodcock (Montréal: Black Rose Books, 1992), 117.
+- 6. Phillippe Paraire, "Introduction," in Peter Kropotkin, *In Russian and French Prisons*, trans. Pariare (Paris: Le Temps des cerises, 2009), 15.
 - 7. Peter Kropotkin, *In Russian and French Prisons* (London: Ward and Downey, 1887), Chapter 10, https://theanarchistlibrary.org/library/petr-kropotkin-in-russian-and-french-prisons
 - 8. Angela Davis, Are Prisons Obsolete? (New York: Seven Stories Press, 2003), 16.
 - 9. Ibid., 63.
-- <u>10</u>. Foucault, *Discipline*, 264 (translation modified).
+- 10. Foucault, *Discipline*, 264 (translation modified).
 - 11. Ibid., 265.
-- <u>12</u>. Fyodor Dostoevsky, *Memories of the House of the Dead*, trans. Jessie Coulson (Oxford: Oxford University Press, 2001), 16 (translation modified).
+- 12. Fyodor Dostoevsky, *Memories of the House of the Dead*, trans. Jessie Coulson (Oxford: Oxford University Press, 2001), 16 (translation modified).
 - 13. Victor Hugo, *The Last Day of a Condemned Man*, trans. Arabella Ward (Mineola, NY: Dover, 2009), 31 (translation modified).
-- <u>14</u>. Systems like halfway houses and electronic surveillance, le régime de semi-liberté.
+- 14. Systems like halfway houses and electronic surveillance, le régime de semi-liberté.
 - 15. L'Envolée, *Peines éliminatoires et isolement carceral, Pour en finir avec toutes les prisons* (Paris: L'Envolée, 2009), 3.
-- <u>16</u>. Ibid., 13.
-- <u>17</u>. Maurice Papon, convicted of crimes against humanity for aiding the deportation of Jews during Vichy.
+- 16. Ibid., 13.
+- 17. Maurice Papon, convicted of crimes against humanity for aiding the deportation of Jews during Vichy.
 - 18. L'Envolée, Peines éliminatoires, 40
 - 19. Ibid., 44.
-- <u>20</u>. Ibid., 88.
+- 20. Ibid., 88.
 - 21. Ibid., 87.
 - 22. Comité d'action des prisonniers. OHS, supplement to Le CAPP no. 56 (June 1978): 4.
 - 23. Victor Serge, Men in Prison, trans. Richard Greeman (Oakland: PM Press, 2014), 20.
-- <u>24</u>. Ibid., 193.
+- 24. Ibid., 193.
 
 #### **Chapter Two: The Revolt of the Abolitionists**
 
@@ -185,15 +179,15 @@ At the same moment in 1985, the Magistrate Trade Union approved a motion for pri
 
 In February 2001, the team from $L'Envol\'ee^5$ (a journal and a radio show on Fréquence Paris Plurielle 106.3), started a movement called "To End All Prisons." It brought together "Ras les murs"; the Movement of Immigration and Banlieues (MIB [Mouvement de l'immigration et des banlieues]); Act
 
-Up's prison committee; Ban Public [public announcement, information on prisons in Europe]; the prison committee of the union CNT [National Confederation of Labor, anarcho-syndicalist union]; the collective Ne Laissons Pas Faire [We Won't Let It Happen]; the Basque and Corsican prisoner support collective; and even more groups. The meetings continued through November. Political differences made it impossible for the various participants to reach agreement, but in 2009 *L'Envolée* published, *Peines éliminatoires et isolement carceral, Pour en finir avec toutes les prisons* [*Perpetual Sentences and Solitary Confinement: To End All Prisons*], which serves as wonderful culmination of this stormy experiment.<sup>6</sup>
+Up's prison committee; Ban Public [public announcement, information on prisons in Europe]; the prison committee of the union CNT [National Confederation of Labor, anarcho-syndicalist union]; the collective Ne Laissons Pas Faire [We Won't Let It Happen]; the Basque and Corsican prisoner support collective; and even more groups. The meetings continued through November. Political differences made it impossible for the various participants to reach agreement, but in 2009 *L'Envolée* published, *Peines éliminatoires et isolement carceral, Pour en finir avec toutes les prisons* [*Perpetual Sentences and Solitary Confinement: To End All Prisons*], which serves as wonderful culmination of this stormy experiment.6
 
-In 2014, Samuel Gautier, an ex-prison nurse and member of the Observatoire international des prisons [International Prison Watchdog group (OIP)], published an article on the Mediapart site, titled "Abolir les prisons, ses mécanismes et ses logiques" ["Abolish Prison, Its Processes, and Its Logic"]. He quoted Catherine Baker's manifesto, hoping to add his own perspective to hers. He added important details that leave no room for ambiguity. He highlights: "In the case of misdemeanor: solitary is effectively a hole where the incarcerated person is reduced to the status of an animal." He adds: "Solitary confinement is white torture that breaks down bit by bit." The conclusion is straightforward: "Prison is a prime example of something you cannot try to reform, but must instead eliminate."<sup>7</sup>
+In 2014, Samuel Gautier, an ex-prison nurse and member of the Observatoire international des prisons [International Prison Watchdog group (OIP)], published an article on the Mediapart site, titled "Abolir les prisons, ses mécanismes et ses logiques" ["Abolish Prison, Its Processes, and Its Logic"]. He quoted Catherine Baker's manifesto, hoping to add his own perspective to hers. He added important details that leave no room for ambiguity. He highlights: "In the case of misdemeanor: solitary is effectively a hole where the incarcerated person is reduced to the status of an animal." He adds: "Solitary confinement is white torture that breaks down bit by bit." The conclusion is straightforward: "Prison is a prime example of something you cannot try to reform, but must instead eliminate."7
 
 He is not far from Victor Serge's opinion. All of the commentators and researchers share a single argument: "It must be permanently removed because all studies have shown that imprisonment inevitably fails to prevent recidivism and costs society far more than it contributes to it." §
 
 Professionals of the prison system—as well as prisoners of it—say: "Those subjected to what we today call 'long sentences' are people who are simply condemned to a slow death penalty, a social death penalty." Samuel Gautier's statement reminds us that more than three thousand people have committed suicide since 1977, the date the last person was sentenced to death in France . . . This should raise an ethical problem for us.
 
-"We claim that it won't be long before prison will be seen by people as the irrefutable symptom of the state of brutality, the backwardness of moral standards and feelings, in which humanity lived in the 20<sup>th</sup> century and even at the beginning of the 21<sup>st</sup> century." A number of us former prisoners signed this statement, including Audrey Chenu, author of *Girlfight*; Philippe El Sehnnawy; the unknown con, author of the blog of the same name on Rue 89 Lyon; Gabriel Mouesca, former president of OIP. But also Philippe Bouvet, professor of history and geography, and moreover, father of an incarcerated person; Alain Cangina, president of the association Rebirth PJ2R [for a resilient and reconciling justice]; Lucie Davy, lawyer; Tony Ferri, philosopher; Samuel Gautier, with his new role as a documentary filmmaker; Yanis Lantheaume, lawyer; Thierry Lodé, biologist; Noël Mamère, politician; Yann Moulier-Boutang, economist and essayist; Michel Onfray, philosopher; and Antoine Paris, journalist.
+"We claim that it won't be long before prison will be seen by people as the irrefutable symptom of the state of brutality, the backwardness of moral standards and feelings, in which humanity lived in the 20th century and even at the beginning of the 21st century." A number of us former prisoners signed this statement, including Audrey Chenu, author of *Girlfight*; Philippe El Sehnnawy; the unknown con, author of the blog of the same name on Rue 89 Lyon; Gabriel Mouesca, former president of OIP. But also Philippe Bouvet, professor of history and geography, and moreover, father of an incarcerated person; Alain Cangina, president of the association Rebirth PJ2R [for a resilient and reconciling justice]; Lucie Davy, lawyer; Tony Ferri, philosopher; Samuel Gautier, with his new role as a documentary filmmaker; Yanis Lantheaume, lawyer; Thierry Lodé, biologist; Noël Mamère, politician; Yann Moulier-Boutang, economist and essayist; Michel Onfray, philosopher; and Antoine Paris, journalist.
 
 To round out these ideas, it would be helpful to refer to the authors most likely to argue directly against imprisonment. Some of them have fought as militants, but there are others who were seized by the subject without coming up through the ranks of the anti-prison combat.
 
@@ -215,7 +209,7 @@ The debate "Prison and Anarchy" was organized in Paris in 1991 by the "Ras les m
 
 Albert Jacquard, the geneticist, has always worked towards more freedom.
 
-In 1993, he published *Un Monde sans prison* [A World Without Prison]. The ideas in this book attest to the depth of his thought: "The search for immediate security creates long term insecurity." He joins Louk Hulsman, Catherine Baker, and the Indigenous people of Guerrero: "In a community, why not invite the concerned parties to get together in order to find a way of repairing a harm committed?"<sup>21</sup> He repeats what many others have demonstrated. Prison is expensive and creates recidivism. Thus, his final point: "A society without prison can only be a society that doesn't need prisons."22 All the anarchists agree in saying that prison cannot disappear without a radical change of society taking place. Albert Jacquard notes: "The disappearance of prisons can only be the result of a deep transformation involving our ideas of guilt, punishment, discipline, and especially of the place that we give each person in the work of human collectivity." Hence, his philosophy: "Let us not only imagine a society without prisons, but a society without violence, a society of justice, with respect for each individual."24
+In 1993, he published *Un Monde sans prison* [A World Without Prison]. The ideas in this book attest to the depth of his thought: "The search for immediate security creates long term insecurity." He joins Louk Hulsman, Catherine Baker, and the Indigenous people of Guerrero: "In a community, why not invite the concerned parties to get together in order to find a way of repairing a harm committed?"21 He repeats what many others have demonstrated. Prison is expensive and creates recidivism. Thus, his final point: "A society without prison can only be a society that doesn't need prisons."22 All the anarchists agree in saying that prison cannot disappear without a radical change of society taking place. Albert Jacquard notes: "The disappearance of prisons can only be the result of a deep transformation involving our ideas of guilt, punishment, discipline, and especially of the place that we give each person in the work of human collectivity." Hence, his philosophy: "Let us not only imagine a society without prisons, but a society without violence, a society of justice, with respect for each individual."24
 
 Today the anti-prison fight continues to evolve. It is fashionable for depressed militants to say that it has lost its momentum. They forget that we have twenty radio stations in France that broadcast shows about prison. It's true that there aren't really collectives like the Groupe information prison [Prison Information Group (GIP)] and the Comité d'action des prisonniers [Committee of Prisoner Action (CAP)] any more. Nonetheless, what we do still have in this area comes from the work of GIP and CAP. The OIP, obligated to neutrality by its status as an NGO, still regularly refers to this work: the militants of CAP, like Serge Livrozet, whose groundbreaking book, *De la prison à la révolte* [*From Prison to Revolt*], has been reprinted five times, conclusively demonstrated how to deconstruct prison towards its ultimate abolition.
 
@@ -238,7 +232,7 @@ In the second issue of the *Journal of Prisoners*, published by CAP in January 1
 - 10. Right to appeal and defense of detainees in front of the prison administration (courtroom, conditional freedom, full pardons, etc.)
 - 11. Right of association inside prisons (essential means for exercising the preceding claims). $\frac{25}{100}$
 
-In the ninth issue, in September 1973, a twelfth point was added. It was featured on the last page with the title, "End to prison." An explanation was given for why it did not appear in the second issue: "Friends, buddies, comrades of all the slammers of this screwed society, the Committee of Prisoner Action almost forgot this point, since it seemed so obvious that it represents the crucial point of our opposition to imprisonment as a form of punishment." <sup>26</sup>
+In the ninth issue, in September 1973, a twelfth point was added. It was featured on the last page with the title, "End to prison." An explanation was given for why it did not appear in the second issue: "Friends, buddies, comrades of all the slammers of this screwed society, the Committee of Prisoner Action almost forgot this point, since it seemed so obvious that it represents the crucial point of our opposition to imprisonment as a form of punishment." 26
 
 They added a completely consistent explanation: "Ultimately this twelfth point is in complete contradiction with the preceding ones. Those stem from simple humanity." The final verdict is conclusive: "Prison can't be fixed: it either destroys or is destroyed. We must decide which we prefer." 27
 
@@ -246,13 +240,13 @@ The collective that broadcasts *L'Envolée*'s radio show and publishes the journ
 
 Back Against the Wall echoes Albert Jacquard: "We can't imagine a world without prisons without an end to money, the State, and all market relations." This analysis is radical, but with equal deftness, it adds an element that places it in a direct line with CAP: "On this subject, the so-called revolutionary reactions of those who label any demand for improvement of conditions of detention as reform often miss the mark: each piece taken away from prison is a section of the wall that collapses." This is why the struggle is systematic and perpetual: supporting prisoners in their demands and when they leave prison, but also striving ruthlessly for the deconstruction of the prison system.
 
-The book cites Claude Lévi-Strauss, from *Tristes Tropiques*: "In most societies that we call primitive, this custom, 'prison,' would inspire a profound horror; in their eyes it would mark us with the same barbarity that we would be tempted to impute to them due to their symmetrically opposite customs." It also cites Florence Bernault, author of the work, *Enfermement, prison et châtiments en Afrique, du XIXe siècle à nos jours* [Confinement, Prison and Punishments in Africa from the 19th century to the present]: "In Cameroon, the Bassa clearly prove that these societies are marked by the absence of prisons. However, constraints exist. Thus, to immobilize a prisoner, they are made to wear wooden fetters on their shins: the ndi-keng." <sup>32</sup>
+The book cites Claude Lévi-Strauss, from *Tristes Tropiques*: "In most societies that we call primitive, this custom, 'prison,' would inspire a profound horror; in their eyes it would mark us with the same barbarity that we would be tempted to impute to them due to their symmetrically opposite customs." It also cites Florence Bernault, author of the work, *Enfermement, prison et châtiments en Afrique, du XIXe siècle à nos jours* [Confinement, Prison and Punishments in Africa from the 19th century to the present]: "In Cameroon, the Bassa clearly prove that these societies are marked by the absence of prisons. However, constraints exist. Thus, to immobilize a prisoner, they are made to wear wooden fetters on their shins: the ndi-keng." 32
 
 The book reports an event that happened in Chiapas after the Zapatista revolution. One man killed another during a bender and was sentenced to help the wife of his victim, as well as to tend her plot of land, in addition to his own personal duties. This is clearly an act of reparation.
 
 Another striking example cited in *Backs Against the Wall*, quite far from all the clichés, is the Makhnovshchyna (Black Army), in its draft declaration of the revolutionary insurrectional army: "All the outdated forms of justice—court administration, revolutionary tribunals, repressive laws, police or militias, secret police, prison and all other old, counterproductive, useless junk—ought to disappear or be abolished from the first breath of free life, from the first steps of social, economic, free, living organization." 33
 
-We can end this world tour in the village of Ribeirao Bonito in the Amazons in 1975. Eduardo Galeano offers a very real image: "And, where prisons used to be, there is only a small pile of trash." <sup>34</sup>
+We can end this world tour in the village of Ribeirao Bonito in the Amazons in 1975. Eduardo Galeano offers a very real image: "And, where prisons used to be, there is only a small pile of trash." 34
 
 Professor of philosophy at the University of Paris VIII Saint-Denis, Alain
 
@@ -260,7 +254,7 @@ Brossat continues in the line of Catherine Baker, whom he cites on the back cove
 
 Freshly out of prison, Gabi Mouesca published *Prison@net. Journal d'un* "*longue peine*" [*Prison@net. Journal of a "long sentence*"]. He bluntly offers the lesson of his sixteen years of incarceration as a Basque political prisoner: "But there still remain many struggles to take on and to win in order to put an end to arbitrary power and carceral brutality . . . before permanently ending prison, with its outright abolition." 38
 
-There is another liberatory tendency in the work of architects. It has become clear over the course of years of architecture panels. We can look to Jacques Le Bihan, with *L'Espace carcéral* [*Carceral Space*], and Christian Moro, with *Une prison: un nouveau visage* [*A Prison: A New Face*] in 1992. We must also especially remember Augustin Rosenstiehl and Pierre Sartoux, who published *Construire l'abolition* [*Building Abolition*], in 2005. They asked Gabriel Mouesca, then president of OIP, to write a preface. Mouesca's conclusion is clear: "*Building Abolition* is a major contribution to the emergence of a better world. A world that cannot be made without throwing prisons, all of them, in the dustbin of history." <sup>39</sup>
+There is another liberatory tendency in the work of architects. It has become clear over the course of years of architecture panels. We can look to Jacques Le Bihan, with *L'Espace carcéral* [*Carceral Space*], and Christian Moro, with *Une prison: un nouveau visage* [*A Prison: A New Face*] in 1992. We must also especially remember Augustin Rosenstiehl and Pierre Sartoux, who published *Construire l'abolition* [*Building Abolition*], in 2005. They asked Gabriel Mouesca, then president of OIP, to write a preface. Mouesca's conclusion is clear: "*Building Abolition* is a major contribution to the emergence of a better world. A world that cannot be made without throwing prisons, all of them, in the dustbin of history." 39
 
 Pierre and Augustin, as the preface-writer calls them, share the resources at their disposal as architects: "To knock down' the prison compound is a first step towards the progressive abolition of prison that we aim for through successive stages of architectural deconstruction." Another path they take is much more political: "The idea of self-management entails both the autonomous management by the incarcerated person and the collective management by the incarcerated population. This idea is an essential part of the project for the accountability of the incarcerated person."
 
@@ -276,31 +270,31 @@ With *Du droit à l'évasion* [*On the Right to Escape* (2014)], Jacques Colomba
 
 Political scientist Hélène Erlingsen-Creste worked as an advisor in the disciplinary committee at the remand home in Agen. She says, "The carceral system such as it is today is a clear failure for the person who is incarcerated just as much as it is for justice and society." She confirms: "The conclusion is clear: the more people we put in prison, the more they return to prison." She speaks honestly and directly: "Prison has demonstrated its limits and it is time to come to the present day and work towards other solutions."
 
-<sup>1.</sup> Catherine Baker, "Manifeste Abolitionniste" (March 1984), https://abolition.prisons.free.fr/manifeste.html.
+1. Catherine Baker, "Manifeste Abolitionniste" (March 1984), https://abolition.prisons.free.fr/manifeste.html.
 
-<sup>&</sup>lt;u>2</u>. Catherine Baker, *L'Abolition de la prison signifie-t-elle l'abolition de la justice, du droit et de toute société?* (Paris: Éditions du Ravin bleu, 1992), 15.
+&lt;u>2. Catherine Baker, *L'Abolition de la prison signifie-t-elle l'abolition de la justice, du droit et de toute société?* (Paris: Éditions du Ravin bleu, 1992), 15.
 
-<sup>3.</sup> Ibid., 15.
+3. Ibid., 15.
 
-- <u>4</u>. France's second largest, more progressive magistrate's union, with ties to the Socialist Party.
-- <u>5</u>. The name could be understood as flight (carrying letters outside), or an upsurge.
-- <u>6</u>. The French title is *Peines éliminatoires et isolement carceral. Peines éliminatoire* etymologically refers to older punishments like exile, but has come to refer to imprisonment (removal) without the added ideology of penance, improvement, and so on that often excuse incarceration. Specifically it describes an imprisonment without possibility of parole—removal from society.
+- 4. France's second largest, more progressive magistrate's union, with ties to the Socialist Party.
+- 5. The name could be understood as flight (carrying letters outside), or an upsurge.
+- 6. The French title is *Peines éliminatoires et isolement carceral. Peines éliminatoire* etymologically refers to older punishments like exile, but has come to refer to imprisonment (removal) without the added ideology of penance, improvement, and so on that often excuse incarceration. Specifically it describes an imprisonment without possibility of parole—removal from society.
 - 7. Samuel Gautier et al, "Abolir les prisons, ses mécanismes et ses logiques," *Mediapart* (June 4, 2014): https://blogs.mediapart.fr/edition/les-invites-demediapart/article/040614/abolir-la-prison-ses-mecanismes-et-ses-logiques
-- <u>8</u>. Ibid.
-- <u>9</u>. Ibid.
+- 8. Ibid.
+- 9. Ibid.
 - 10. Kropotkin, *In Russian and French Prisons*, 370 (translation modified).
-- <u>11</u>. Ibid., 371.
+- 11. Ibid., 371.
 - 12. Dennie Briggs, In Place of Prisons (London: Maurice Temple Smith Ltd, 1975), 63.
 - 13. Ibid., 148.
-- <u>14</u>. The title is *Peines perdues*, which also could be translated as hopeless sentences or punishments.
-- <u>15</u>. Louk Hulsman and Jacqueline Bernat de Celis, *Peines perdues, le système penal en question* (Paris: Le Centurion, 1982), 150.
+- 14. The title is *Peines perdues*, which also could be translated as hopeless sentences or punishments.
+- 15. Louk Hulsman and Jacqueline Bernat de Celis, *Peines perdues, le système penal en question* (Paris: Le Centurion, 1982), 150.
 - 16. Catherine Baker, *Pourquoi faudrait-il punir*? (Paris: Tahin Party, 2004), 153.
-- <u>17</u>. Ibid., 155.
+- 17. Ibid., 155.
 - 18. Ibid., 176.
-- <u>19</u>. Groupe Ras les murs, *Déviance en société libertaire*, *Prison et anarchie* (Paris: Atelier de creation libertaire, 1993), 44.
+- 19. Groupe Ras les murs, *Déviance en société libertaire*, *Prison et anarchie* (Paris: Atelier de creation libertaire, 1993), 44.
 - 20. Albert Jacquard, Un monde sans prison (Paris: Le Seuil, 1993), 118.
 - 21. Ibid., 205.
-- <u>22</u>. Ibid., 211.
+- 22. Ibid., 211.
 - 23. Ibid., 213.
 - 24. Ibid., 211.
 - 25. Journal des prisonniers no. 2 (January 1973): 1.
@@ -315,12 +309,12 @@ Political scientist Hélène Erlingsen-Creste worked as an advisor in the discip
 - 34. Ibid., 318.
 
 - 35. Alain Brossat, *Pour en finir avec la prison* (Paris: La Fabrique, 2001), 78.
-- <u>36</u>. Ibid., 97.
-- <u>37</u>. Ibid., 103.
+- 36. Ibid., 97.
+- 37. Ibid., 103.
 - 38. Gabi Mouesca, Prison@net. Journal d'un "longue peine," (Paris: Gatuzain, 2002), 21.
-- <u>39</u>. Gabi Mouesca in Augustin Rosenstiehl and Pierre Sartoux, *Construire l'abolition*. (Paris: École d'architecture de Paris, "Carnets de Malaquais," 2005), 85.
-- <u>40</u>. Ibid., 147.
-- <u>41</u>. Ibid., 155.
+- 39. Gabi Mouesca in Augustin Rosenstiehl and Pierre Sartoux, *Construire l'abolition*. (Paris: École d'architecture de Paris, "Carnets de Malaquais," 2005), 85.
+- 40. Ibid., 147.
+- 41. Ibid., 155.
 - 42. Ibid., 175.
 - 43. Ibid., 203.
 - 44. L'Envolée, Peines éliminatoires, 93.
@@ -348,7 +342,7 @@ Sociological studies, especially Laurent Mucchielli's *Violences et insécurité
 
 No one—or nearly no one—asks about early morning raids and arrests any more: it's really shocking. In most cases, detention is inhumane, and involves the police officers taking turns harassing; stress; maybe a sandwich, swallowed in a hurry; lack of sleep; filth, since it's impossible to wash up. And, in certain cases, violence and beatings. Furthermore, there's the blackmailing of loved ones: "I'll detain your wife if you don't talk. Your kids will be taken away."
 
-We have so much testimony along these lines. For example, Éric Sniady's *Entre quatre murs. Comment j'ai survécu trente ans dans l'enfer des prisons* [*Behind Bars: How I Survived Thirty Years in Prison Hell*]. It's an unquestionable testimony: "Putting a wife, or worse a mother in jail, seriously determines what happens next. In these situations, they'll almost always start talking." Éric gives an example: "They claim they can put her away as an accomplice and send her five-year old to child protective services." <sup>1</sup>
+We have so much testimony along these lines. For example, Éric Sniady's *Entre quatre murs. Comment j'ai survécu trente ans dans l'enfer des prisons* [*Behind Bars: How I Survived Thirty Years in Prison Hell*]. It's an unquestionable testimony: "Putting a wife, or worse a mother in jail, seriously determines what happens next. In these situations, they'll almost always start talking." Éric gives an example: "They claim they can put her away as an accomplice and send her five-year old to child protective services." 1
 
 The first days in prison are nothing like the stories. It's a true devastation, called "prison shock." The prisoner is experiencing trauma. For over thirty years, this word has been fashionable. But it doesn't just occur through accidents or attacks. Everyone can be affected by it. The mind has no way to integrate such a series of brutal events.
 
@@ -396,7 +390,7 @@ Prison is thus madness, suicide, escape, or death. Indisputably, we witness psyc
 
 In *Asylums*, Erving Goffman clearly explains the theoretical reasons. Totalitarianism and concentration camps contain a violence that gets attributed to guards and participants. But the most emotional and sensitive people don't resist the pressure of the institution, and are the first to explode, causing chain reactions. Since the asylum and the prison use repressive means, the matter gets resolved quickly, through the internal court and solitary confinement. This is without considering the settling of scores among guards, among incarcerated people, or between prisoners and guards.
 
-Éric Sniady explains this with some striking examples: "A gang of eight guards entered my cell to punish me. I was severely beaten. They hit me with their hands and with their key rings. The ordeal lasted several minutes. At the end, they walked out, leaving me almost unconscious on the floor."<sup>7</sup> He gives another example: "Some [guards] get revenge on the sly, encouraging incarcerated people to attack other prisoners they already have trouble with. With my own eyes, I've seen four guys beating someone serving life, until he collapsed, unresponsive, on the ground. Face swollen and bloody, he seemed dead." In the case of another brawl, Éric set the record straight. He and another person intervened. The two guards got scared and denied their part. Fascist thinking took over and it almost turned ugly: "In front of other incarcerated people, some screws promised to kill me if I didn't change my statement. Meanwhile, all of my mail was opened and thrown in the trash." The battle continued. Éric adds: "I heard that the newbies (bleus) asked other incarcerated people to put a contract out on my head. The methods of some screws are comparable to hoodlums." The situation grew more dangerous: "I was afraid that they'd plant contraband in my cell. That had already happened: some screws had no problem hiding cannabis or cellphones without the occupants knowing." He got himself out of the situation by asking to be placed in the isolation wing. Giving one person power over others is the worst mistake. Hierarchy allows all kinds of abuses. Éric Sniady's conclusion is correct: "Penning people up only leads to suffering and desocialization." 10
+Éric Sniady explains this with some striking examples: "A gang of eight guards entered my cell to punish me. I was severely beaten. They hit me with their hands and with their key rings. The ordeal lasted several minutes. At the end, they walked out, leaving me almost unconscious on the floor."7 He gives another example: "Some [guards] get revenge on the sly, encouraging incarcerated people to attack other prisoners they already have trouble with. With my own eyes, I've seen four guys beating someone serving life, until he collapsed, unresponsive, on the ground. Face swollen and bloody, he seemed dead." In the case of another brawl, Éric set the record straight. He and another person intervened. The two guards got scared and denied their part. Fascist thinking took over and it almost turned ugly: "In front of other incarcerated people, some screws promised to kill me if I didn't change my statement. Meanwhile, all of my mail was opened and thrown in the trash." The battle continued. Éric adds: "I heard that the newbies (bleus) asked other incarcerated people to put a contract out on my head. The methods of some screws are comparable to hoodlums." The situation grew more dangerous: "I was afraid that they'd plant contraband in my cell. That had already happened: some screws had no problem hiding cannabis or cellphones without the occupants knowing." He got himself out of the situation by asking to be placed in the isolation wing. Giving one person power over others is the worst mistake. Hierarchy allows all kinds of abuses. Éric Sniady's conclusion is correct: "Penning people up only leads to suffering and desocialization." 10
 
 We must also take into account another aspect: health. Many nurses, doctors, and psychiatrists have written on this subject. Mental illness affects 30 percent of the prison population. In *Fresnes, histoires de fous* [*Fresnes Prison, Stories of the Mad*], journalist Catherine Herszberg describes unbelievable situations that do not belong in prison, but seems straight out of *One Flew Over the Cuckoo's Nest*.
 
@@ -416,7 +410,7 @@ In addition to matters of health, Dr. Fauchet remarks on the deeds of guards in 
 
 Éric Sniady mentions similar events: "As a result of the famous rebellion at Saint-Maur in 1987, uncooperative incarcerated people were transferred in their underwear. Their personal effects were split up among the screws, including precious jewelry. Though I didn't experience that episode, I had to endure the same inconveniences. The most infuriating was guards spilling a bottle of oil all over my stuff just for fun. Clearly it was their parting gift." 12
 
-In *Le Petit Paradis* [*Little Slice of Heaven* (1972)], Dr. Marcel Diennet catalogued all of the diseases he encountered at Fresnes prison: "There are so many illnesses caused by imprisonment: diabetes, tuberculosis, lung disease, and especially heart conditions. Then there are the surgical issues caused by prison, of course. All kinds of operations on 'swallowers' (people who ingest objects), suicide attempts, and finally all of the cases of infected lymph nodes, abscesses on the buttocks, anal fistulas caused by lack of hygiene . . . Ulcers of the dudodenal bulb are the most typical. Their causes are almost completely mental." <sup>13</sup>
+In *Le Petit Paradis* [*Little Slice of Heaven* (1972)], Dr. Marcel Diennet catalogued all of the diseases he encountered at Fresnes prison: "There are so many illnesses caused by imprisonment: diabetes, tuberculosis, lung disease, and especially heart conditions. Then there are the surgical issues caused by prison, of course. All kinds of operations on 'swallowers' (people who ingest objects), suicide attempts, and finally all of the cases of infected lymph nodes, abscesses on the buttocks, anal fistulas caused by lack of hygiene . . . Ulcers of the dudodenal bulb are the most typical. Their causes are almost completely mental." 13
 
 On this subject, we can cite a cautionary example. Around 1965, at Caen Central, my friend Claudius, who was sentenced to ten years, started screaming in his cell in B block, after the doors were closed at 7pm. Every once in a while, we'd hear the commotion of a fight in the hall. Comrades started banging on the doors. The whole night, Claudius moaned and cried, expressing sharp pain. But the noise didn't stop until opening the next morning at 7am. We were told later that the night guards "weren't able" to get help! . . . My friend was operated on in the hospital. He had a perforated ulcer in the duodenum. When he came to, much later, the surgeon told him: "An hour later, and you would have been dead!"
 
@@ -426,49 +420,49 @@ Abdel-Hafed Benotman experienced incarceration for many years. During his final 
 
 Dr. Daniel Gonin elaborates on this situation in *Health in Prison*. He lists the psychic and physical issues that he encountered in Saint-Paul prison in Lyon. Regarding visual impairments, he mentions Jeremy Bentham's cherished idea, the panopticon, which allows guards to see without being seen. The author offers this analysis: "In prison, there are those who see and those who are seen. Incarceration spells the death warrant for the exchange of glances that comes with talking." The incarcerated person feels like they are potentially being watched at every moment. Over time, this creates a feeling of persecution, and thus paranoia. Solitude creates a deprivation of touch. The doctor quotes this haunting line: "What I miss the most is touch, skin against mine, the skin of a woman . . ." What ensues is a hyperesthesia that is understandable but unaccountable: "Since being incarcerated, I've been electric. When someone brushes against me or if I pass close to someone or something, I feel like a shock jolts through me." I know this phenomenon particularly well. Daniel Gonin's explanation is striking: "The outermost layer of skin acts now only as an alarm signal." Alas, the disease doesn't end there.
 
-The doctor dwells at length on teeth: "In prison, dental problems take over." <sup>17</sup> We all know that behind bars dentists are lacking, so as a result, toothaches without pain medicine are a part of daily life. And the most basic care is often replaced, after long waiting periods, with extractions straight out of wilderness medicine. I can't help mentioning Dr. Marcel Diennet's *Little Slice of Heaven*, which tells of another kind of procedure: "It took five men to hold him and he screamed during the whole operation, which lasted only five minutes." <sup>18</sup>
+The doctor dwells at length on teeth: "In prison, dental problems take over." 17 We all know that behind bars dentists are lacking, so as a result, toothaches without pain medicine are a part of daily life. And the most basic care is often replaced, after long waiting periods, with extractions straight out of wilderness medicine. I can't help mentioning Dr. Marcel Diennet's *Little Slice of Heaven*, which tells of another kind of procedure: "It took five men to hold him and he screamed during the whole operation, which lasted only five minutes." 18
 
 The digestive tract begins with the teeth, but it goes down much further. Daniel Gonin makes more observations: "On entering prison, digestive conditions are second only to dermatological conditions, on par with pulmonary and ear, nose, and throat conditions. But, while after six months skin conditions begin to diminish, problems with the digestive tract and respiratory tract start to grow, coming first after dental problems."
 
-Since we previously mentioned "swallowers," we must explain what this means. Whether as a protest, or for self-mutilation, some incarcerated people consume objects that are as unexpected as they are harmful. The author gives us a long list: "All kinds of objects are swallowed by incarcerated people: while making them, they swallow clothespin springs, also bolts, fork and spoon handles, pieces of beer cans, ballpoint pens, and even plastic bucket handles. The most remarkable are razor blades." Of course, sometimes these acts are boasted about. Often, they remain unexplained. Prisoners reach such a level of suffering that they don't need any more reasons for self-harm. They show the state of desperation they have reached. The doctor uses a psychoanalytical interpretation to try to understand something he heard from one incarcerated person: "He is now nothing but a pipe without connection to the living. The omnivore, who maintains vital relationships of nourishment with the animal and vegetable worlds, no longer exists. He languishes in an existence of nothingness, stiffened by the mineral or metal he incorporates. He has become the stone, the fire, the glass, and plastic inside him. He is his own prison wall."<sup>20</sup>
+Since we previously mentioned "swallowers," we must explain what this means. Whether as a protest, or for self-mutilation, some incarcerated people consume objects that are as unexpected as they are harmful. The author gives us a long list: "All kinds of objects are swallowed by incarcerated people: while making them, they swallow clothespin springs, also bolts, fork and spoon handles, pieces of beer cans, ballpoint pens, and even plastic bucket handles. The most remarkable are razor blades." Of course, sometimes these acts are boasted about. Often, they remain unexplained. Prisoners reach such a level of suffering that they don't need any more reasons for self-harm. They show the state of desperation they have reached. The doctor uses a psychoanalytical interpretation to try to understand something he heard from one incarcerated person: "He is now nothing but a pipe without connection to the living. The omnivore, who maintains vital relationships of nourishment with the animal and vegetable worlds, no longer exists. He languishes in an existence of nothingness, stiffened by the mineral or metal he incorporates. He has become the stone, the fire, the glass, and plastic inside him. He is his own prison wall."20
 
-Without claiming to cover everything, we will end this chapter on health in prison with skin. Daniel Gonin reframes the challenges: "Dermatological therapy clearly follows far behind psychotropic drugs, but competes for second or third place with antibiotics and analgesics." This doesn't mean that this area is spared: "On the incarcerated person's skin all stages of boils develop. . . Eczema covers the legs even of young people who have 'been through it,' allowing to discover sometimes long-established ulcers. After admission into prison, incarcerated people are brought suffocating with angioedema where widespread swelling has also constricted their respiratory tracts. Rashes on irregular and abnormal skin areas appear and disappear as a result of treatment with antihistamines or with cortisone compounds."<sup>22</sup> The doctor's assessment makes one wonder: "We might say that skin displays the stress, anxiety, discomfort of arraignment and incarceration, becoming the wall of imprisonment as such. Thus, an individual wall of incarceration is permanently built. The hide is now tanned inside and out."23
+Without claiming to cover everything, we will end this chapter on health in prison with skin. Daniel Gonin reframes the challenges: "Dermatological therapy clearly follows far behind psychotropic drugs, but competes for second or third place with antibiotics and analgesics." This doesn't mean that this area is spared: "On the incarcerated person's skin all stages of boils develop. . . Eczema covers the legs even of young people who have 'been through it,' allowing to discover sometimes long-established ulcers. After admission into prison, incarcerated people are brought suffocating with angioedema where widespread swelling has also constricted their respiratory tracts. Rashes on irregular and abnormal skin areas appear and disappear as a result of treatment with antihistamines or with cortisone compounds."22 The doctor's assessment makes one wonder: "We might say that skin displays the stress, anxiety, discomfort of arraignment and incarceration, becoming the wall of imprisonment as such. Thus, an individual wall of incarceration is permanently built. The hide is now tanned inside and out."23
 
-<sup>1.</sup> Éric Sniady, Entre quatre murs, comment j'ai survécu trente ans dans l'enfer des prisons (Paris: City, 2016), 173.
+1. Éric Sniady, Entre quatre murs, comment j'ai survécu trente ans dans l'enfer des prisons (Paris: City, 2016), 173.
 
-<sup>2.</sup> Ibid., 200.
+2. Ibid., 200.
 
-<sup>3.</sup> Catherine, Pourquoi faudrait-il punir?, 48.
+3. Catherine, Pourquoi faudrait-il punir?, 48.
 
-<sup>4.</sup> Collective, Au pied du mur, 199.
+4. Collective, Au pied du mur, 199.
 
-<sup>5.</sup> Ibid., 148.
+5. Ibid., 148.
 
-<sup>6.</sup> Davis, Are Prisons Obsolete?, 48.
+6. Davis, Are Prisons Obsolete?, 48.
 
-<sup>7.</sup> Sniady, Entre Quatre Murs, 136.
+7. Sniady, Entre Quatre Murs, 136.
 
-<sup>8.</sup> Ibid., 195.
+8. Ibid., 195.
 
-<sup>9</sup> Ibid., 223.
+9 Ibid., 223.
 
-<sup>10.</sup> Ibid., 235.
+10. Ibid., 235.
 
-<sup>11.</sup> Dominique Fauchet, "QI de Fresnes: c'est gràve docteur?," *L'Envolée* no. 4 (January 2002): http://journalenvolee.free.fr/envolee4/numero4/435.shtml.
+11. Dominique Fauchet, "QI de Fresnes: c'est gràve docteur?," *L'Envolée* no. 4 (January 2002): http://journalenvolee.free.fr/envolee4/numero4/435.shtml.
 
-<sup>12.</sup> Sniady, Entre quatre murs, 123.
+12. Sniady, Entre quatre murs, 123.
 
-<sup>13.</sup> Marcel Diennet, Le Petit Paradis (Paris: J'ai lu, 1972), 46.
+13. Marcel Diennet, Le Petit Paradis (Paris: J'ai lu, 1972), 46.
 
 - $\underline{14}.$ Robin Cook in Abdel-Hafed Benotman, $Les\ Forcen\'es$ (Paris: Rivages, 2000).
 - 15. Daniel Gonin, *La Santé incarcérée* (Paris: L'Archipel, 1991), 88.
-- <u>16</u>. Ibid., 88.
-- <u>17</u>. Ibid.
+- 16. Ibid., 88.
+- 17. Ibid.
 - 18. Diennet, Le Petit paradis
-- <u>19</u>. Ibid., 118.
-- <u>20</u>. Ibid., 120.
+- 19. Ibid., 118.
+- 20. Ibid., 120.
 - 21. Ibid., 134.
-- <u>22</u>. Ibid., 133.
+- 22. Ibid., 133.
 - 23. Ibid., 134.
 
 #### **Chapter Four: Sex and Prison**
@@ -532,8 +526,8 @@ From the angle of prison abolition, it is always preferable to increase the ways
 In her book *Sexualité incarcérée* [*Incarcerated Sexuality* (2015)], Nina Califano gives an unforgiving assessment of the current situation demonstrated by her research: "If today, in France, visits without surveillance are allowed in the context of family visit units, which indirectly allow incarcerated people to have sexual relations with their partner in decent conditions, this progress must be put into perspective in light of the limited number of incarcerated people who benefit from this system, and we must emphasize that the problem of sexuality in prison remains unchanged for most incarcerated people." 3
 
 - 1. Jean Favard, *Dedans Dehors* (May 1998).
-- <u>2</u>. Arnaud Gaillard, *Sexualité et prison. Désert affect et désirs sous contrainte* (Paris: Max Milo, 2009), 293.
-- <u>3</u>. Nina Califano, *Sexualité incarcérée. Rapport à soi et rapport à l'autre dans l'enfermement* (Paris: L'Harmattan, 2015), 33.
+- 2. Arnaud Gaillard, *Sexualité et prison. Désert affect et désirs sous contrainte* (Paris: Max Milo, 2009), 293.
+- 3. Nina Califano, *Sexualité incarcérée. Rapport à soi et rapport à l'autre dans l'enfermement* (Paris: L'Harmattan, 2015), 33.
 
 #### **Chapter Five: No Integration, No Re-Entry**
 
@@ -553,11 +547,11 @@ What shall we then think of the double mission of prison: to protect society and
 
 We can approach this discussion from a moral, psychological, sociological, or political perspective. It might be reassuring for public opinion to put criminals in prison. But it is a miscalculation; almost all of them wind up being released. And the worse they were treated, the more likely they are to go back in.
 
-One of the claims we find most often among the researchers, statisticians, and demographers, is that incarceration only protects us very briefly. It has a perverse double effect on the length of imprisonment. Albert Jacquard states it quite clearly: "The percentage of recidivism testifies to the danger of the current practices: repeat offenders represent almost two-thirds of incarcerated people." <sup>2</sup>
+One of the claims we find most often among the researchers, statisticians, and demographers, is that incarceration only protects us very briefly. It has a perverse double effect on the length of imprisonment. Albert Jacquard states it quite clearly: "The percentage of recidivism testifies to the danger of the current practices: repeat offenders represent almost two-thirds of incarcerated people." 2
 
 In *Why Must We Punish?*, Catherine Baker discusses the International Conference on Penal Abolition: "The International Conference on Penal Abolition (ICOPA) meets every two years around the world." She tells us that in 1987, the ICOPA claimed that "there was no use fighting against prison as long as the prison system and the will to punish lasts." Just like Albert Jacquard, she concludes quite logically that prison is a failure. In the long run, it achieves the opposite effect of what it claims: it increases delinquency and criminality through recidivism. It is thus time to change the system. At the end of *In Place of Prisons*, Dennie Briggs hammers out a truth that could prove to be prophetic: "We must be truly ready to change, and to acknowledge that this will make those who cannot adapt to change obsolete—like the two hundred men still on duty in the empty prisons of Massachusetts."
 
-In *Lost Causes: Must We Eliminate Prison?* [2002], Dominique Vernier gives a basic example, as related by Jacques Léauté from the American Osborne: "To prepare a return to freedom from prison is equivalent to training for a run by staying in bed for weeks." For release not to be followed quickly by deprivation, isolation, failure, and relapse, many social processes would need to be radically transformed. In line with this, the journalist challenges us: "What risks is society ready to take so that human beings in violation of the law at some point are able to resume their place in society?" <sup>7</sup>
+In *Lost Causes: Must We Eliminate Prison?* [2002], Dominique Vernier gives a basic example, as related by Jacques Léauté from the American Osborne: "To prepare a return to freedom from prison is equivalent to training for a run by staying in bed for weeks." For release not to be followed quickly by deprivation, isolation, failure, and relapse, many social processes would need to be radically transformed. In line with this, the journalist challenges us: "What risks is society ready to take so that human beings in violation of the law at some point are able to resume their place in society?" 7
 
 Ministers and senators provided many responses in the 2000 report, *Prisons, une humiliation pour la République [Prisons: An Embarrassment to the Republic*]. For example, the ministers ask: "When the mere use of drugs is subject to a sentence of one year imprisonment, how are we supposed to understand the meaning of this penalty under these
 
@@ -571,11 +565,11 @@ Many other defendants could also avoid prison: mentally ill people, elderly peop
 
 If we approach the question of incarceration more broadly, we come back to Loïc Wacquant's book, *Prisons of Poverty*:
 
-One must add to this labor-market impact the destabilizing effects of incarceration on the populations and places most directly put under penal control: the stigmatization and the sense of indignity that it carries; the interruption of educational, marital, and occupational trajectories; the destabilization of families and the amputation of social networks; the crystallization of a "culture of resistance" and even defiance of authority in the dispossessed districts where imprisonment is becoming a routine occurrence, even a normal stage in the life course of lower-class young men; and the whole train of pathologies, suffering, and (inter)personal violence commonly associated with passage through the carceral institution. <sup>10</sup>
+One must add to this labor-market impact the destabilizing effects of incarceration on the populations and places most directly put under penal control: the stigmatization and the sense of indignity that it carries; the interruption of educational, marital, and occupational trajectories; the destabilization of families and the amputation of social networks; the crystallization of a "culture of resistance" and even defiance of authority in the dispossessed districts where imprisonment is becoming a routine occurrence, even a normal stage in the life course of lower-class young men; and the whole train of pathologies, suffering, and (inter)personal violence commonly associated with passage through the carceral institution. 10
 
 Politicians operate in a completely inconsistent way. A way that even seems bipolar. After all of the critiques of prison made by ministers and senators, it might have seemed that the State was finally going to take part in the antiprison struggle: questioning prison, improvement of conditions of detention, increasing alternatives to incarceration . . . Then, in 2007, Nicolas Sarkozy became president of the Republic, which was a 180-degree turn towards repression: enhanced security measures in every news story; the harshest laws possible, exponential growth of the prison population, a return to prison construction. He was confident that he would succeed in eradicating the needy and in reassuring the privileged.
 
-In 1985's *L'Année sociologique*, Bruno Aubusson de Cavarlay wrote an article titled "*Hommes, peines et infractions*" ["People, Sentences, and Violations"], in which he said definitively: "Fines are for the bourgeois and petit-bourgeois; incarceration with probation is for the masses; unconditional incarceration is for the underclass." <sup>11</sup>
+In 1985's *L'Année sociologique*, Bruno Aubusson de Cavarlay wrote an article titled "*Hommes, peines et infractions*" ["People, Sentences, and Violations"], in which he said definitively: "Fines are for the bourgeois and petit-bourgeois; incarceration with probation is for the masses; unconditional incarceration is for the underclass." 11
 
 In 2013, Gabi Mouesca did an interview with the publication *Alternative libertaire* [Anarchist Alternative], while he was the president of the OIP, where he said powerfully: "Prison is punishment of the poor. If we tackled the roots of poverty, the determinants of injustice, and inequalities, we would have no more prisons." 12
 
@@ -585,7 +579,7 @@ Another rebel, Éric Sniady, attests to this truth: "Throwing someone into the h
 
 In *Incarcerated Sexuality*, Nina Califano cites the architect Christian Demonchy: "We claim we are resocializing people while forcing them into the worst social life imaginable." She enumerates several factors that seem to explain this situation: "Many offenders have shown that prison desocializes through isolation, deprivation, subjugation, and continuous infantilization." Thus she makes the unequivocal conclusion that, "It's another one of the many paradoxes of prison, to aim to resocialize people while stripping them of other people, of shared sexuality, and reducing social relations to almost nothing." 19
 
-In *Sexuality and Prison*, Arnaud Gaillard elaborates the same analysis: "The body withers away, the relationship with others makes outside society seem like an unknown land." He goes on, "In this way, the combination of incarceration and warping of relations with others through processes of continuous deprivation creates an especially desocializing environment. Prison makes people unlearn how to live with others by heightening defense mechanisms and violence . . ." And further: "Whether it's violence against oneself, against others, or creating over time an expertly maintained culture of hostility towards the institution and the society that authorizes it, prison most often locks up delinquents and releases anti-social monsters." <sup>21</sup>
+In *Sexuality and Prison*, Arnaud Gaillard elaborates the same analysis: "The body withers away, the relationship with others makes outside society seem like an unknown land." He goes on, "In this way, the combination of incarceration and warping of relations with others through processes of continuous deprivation creates an especially desocializing environment. Prison makes people unlearn how to live with others by heightening defense mechanisms and violence . . ." And further: "Whether it's violence against oneself, against others, or creating over time an expertly maintained culture of hostility towards the institution and the society that authorizes it, prison most often locks up delinquents and releases anti-social monsters." 21
 
 These testimonies and studies speak for themselves. We only need to mention the recidivism figures in order to support what they describe. It is not a matter of quibbling or haggling over variables of 5 or 10 percent. If we look at a range from 1970 to today, recidivism of people incarcerated for the first time hovers around 50 percent. Depending on the region and time period, it goes higher, sometimes up to 60 percent. The least we can say about this is that this fact doesn't make the case for incarceration. Are there businesses that could last with failure rates of 50 percent and higher? Well, what are standards for prison as an institution?
 
@@ -598,23 +592,23 @@ A comprehensive reappraisal of the management of delinquency and criminality is 
 Many other types already exist. It's time to look at what happens elsewhere. An example that demands our lingering attention is the community system of security, justice, and reeducation in the State of Guerrero, as an extra-state institution in Mexico.
 
 - 1. Jacquard, Un Monde Sans Prisons, 133.
-- <u>2</u>. Ibid., 133.
-- <u>3</u>. Ibid., 198.
+- 2. Ibid., 133.
+- 3. Ibid., 198.
 - 4. Catherine Baker, *Pourqoui faudrait-il punir*?, 163.
-- <u>5</u>. Dennie Briggs, *In Place of Prison*, 147–8.
+- 5. Dennie Briggs, *In Place of Prison*, 147–8.
 - 6. Dominique Vernier, Peines Perdues, 198.
-- <u>7</u>. Ibid., 283.
-- <u>8</u>. *Prisons, une humiliation pour la République,* June 29, 2000: http://www.senat.fr/rap/199-449/199-449.html
+- 7. Ibid., 283.
+- 8. *Prisons, une humiliation pour la République,* June 29, 2000: http://www.senat.fr/rap/199-449/199-449.html
 - 9. Ibid., 237.
 - 10. Loïc Wacquant, *Prisons of Poverty* (Minneapolis: University of Minnesota Press, 2009), 124.
-- <u>11</u>. Bruno Aubusson de Cavarlay "Hommes, peines et infractions: La Légalité de l'inégalité," *L'Année Sociologique* Troisième Série no. 35 (1985): 275–309.
+- 11. Bruno Aubusson de Cavarlay "Hommes, peines et infractions: La Légalité de l'inégalité," *L'Année Sociologique* Troisième Série no. 35 (1985): 275–309.
 - 12. Gabriel Mouesca, "Dossier prison: Gabriel Mouesca (OIP): 'L'abolition ne tient pas de l'utopie," interview with Union Communiste Libertaire, June
  - 10, 2007, https://www.unioncommunistelibertaire.org/?Dossier-prison-Gabriel
 - -Mouesca-OIP-L-abolition-ne-tient-pas-de-l-utopie.
 - 13. Jean-Marie Domeanch, in Esprit no. 7–8 (July/August 1972): 47.
 - 14. Kropotkin, Words of a Rebel, 163.
 - 15. Sniady, Entre quatre murs, 234.
-- <u>16</u>. Léger (1937–2008) was convicted of killing a child in 1964 and served forty-one years —one of the longest terms served in Europe.
+- 16. Léger (1937–2008) was convicted of killing a child in 1964 and served forty-one years —one of the longest terms served in Europe.
 - 17. Califano, Sexualité incarcérée, 169.
 - 18. Ibid., 189.
 
@@ -634,7 +628,7 @@ The dead end of prison must be questioned on its very premises. The fact that it
 
 For years, Gabi Mouesca has been saying that if poverty disappeared from society, prison would essentially have no more reason to exist. Loïc Wacquant is right to call them "prisons of poverty." Victor Hugo was the first to say that for every school we open, we could close a prison. All of these elements combined make up the outlines of a revolutionary theory. If we want a true transformation of justice in our societies, we will not get there by tinkering and patching things up.
 
-We must begin thinking from the premise of the elimination of prison. We can only share Catherine Baker's and Alain Brossat's perspectives. Anarchist theories give us convincing views. Prison can only be removed if society is radically transformed. Profit, competition, and money must cease to rule the world. Albert Jacquard states explicitly, "A society without prisons can only be a society that has no need for prisons." <sup>1</sup>
+We must begin thinking from the premise of the elimination of prison. We can only share Catherine Baker's and Alain Brossat's perspectives. Anarchist theories give us convincing views. Prison can only be removed if society is radically transformed. Profit, competition, and money must cease to rule the world. Albert Jacquard states explicitly, "A society without prisons can only be a society that has no need for prisons." 1
 
 The way a social group operates can be so evolved that it is no longer necessary to have recourse to repression, violence, and imprisonment. Around the world, there have been successful experiments. One of the most striking examples of our time is the community of Indigenous villages of Guerrero that dispensed with the prisons of the Mexican state.
 
@@ -690,23 +684,23 @@ One night around 7:30pm, years later, the doorbell rang. I went to open it and f
 
 We gave each other a kiss and he left preening. I realized that he did not end up becoming an anarchist, much less an anti-prison militant, which goes to show that our discussions hadn't been aimed at any indoctrination whatsoever.
 
-Many of these young folks keep me up to date with their lives. Pierrot became a house painter. After prison, psychiatric hospital, the shelter, and an apartment, he discovered <sup>a</sup> new "heroine," who was <sup>a</sup> social worker. Marcon sells fruits and vegetables at La Ciotat. Cuddly BB became a receptionist at an International Hostel in Saint-Ouen. Mustapha worked as a special-ed teacher, then assistant director at the Vernon educational center in Eure. Later, he took <sup>a</sup> position as <sup>a</sup> street worker for the Emmaüs organization in Villiers-sur-Marne. He finished his career as a director for several of the organization's shelters.
+Many of these young folks keep me up to date with their lives. Pierrot became a house painter. After prison, psychiatric hospital, the shelter, and an apartment, he discovered a new "heroine," who was a social worker. Marcon sells fruits and vegetables at La Ciotat. Cuddly BB became a receptionist at an International Hostel in Saint-Ouen. Mustapha worked as a special-ed teacher, then assistant director at the Vernon educational center in Eure. Later, he took a position as a street worker for the Emmaüs organization in Villiers-sur-Marne. He finished his career as a director for several of the organization's shelters.
 
 All four of them wanted a book to be published to tell their story and the "House of Lost Cats," as it was called by our primary care doctor, whom we often visited. Each of them wrote a text. I asked specialists to read them and then present their analysis through interviews with me, which would be included in the book. Five of them responded to my request: the Judge Étienne Bloch, of the magistrate union; Father Jaouen, who died in 2015, and who for many years took drug users to detox on his boat, the Bel Espoir (Great Hope); Dr. Tomkiewick, head of the abnormal psychology department at Paris VIII-Vincennes and director of Inserm; Serge Adam, a formerly incarcerated person who became the director of the Escale house in Châlons-en-Champagne; and Serge Livrozet, founder of CAP, anti-prison and anarchist militant, who also founded a publishing house in the 1980s, Les Lettres libres (Free Letters).
 
 The Delinquent-Making Machine was published in 1982. In the book, all of the residents spoke about love. In this surrogate family, they found something their parents couldn't give them. Thus they were able to repair themselves, rebuild themselves, and develop a minimal base of narcissism, and therefore discover their own freedom and the respect for others' freedom.
 
-<sup>1</sup>. Jacquard, Un Monde sans prisons, 211.
+1. Jacquard, Un Monde sans prisons, 211.
 
-<sup>2</sup>. Briggs, In Place of Prisons, 108.
+2. Briggs, In Place of Prisons, 108.
 
-<sup>3</sup>. Ibid.
+3. Ibid.
 
-<sup>4</sup>. Ibid., 59.
+4. Ibid., 59.
 
-<sup>5</sup>. Ibid., 124.
+5. Ibid., 124.
 
-<sup>6</sup>. Ibid., 10.
+6. Ibid., 10.
 
 ## Chapter Seven: Recent and Current Alternatives to Incarceration
 
@@ -774,13 +768,13 @@ Fifty incarcerated people are accommodated each year. In the morning, residents 
 
 Samuel Gautier, who worked for two years at Moyembrie, along with Nicolas Ferran, OIP lawyer, is seeking funds and support to establish a second farm in the Aude region, at Lespinasse. Their organizational idea is the same as Moyembrie, but the activities will be devoted to ecotourism.
 
-<sup>1.</sup> Joan Hocquenghem, Le Rendez-vous de Vicam (Paris: Rue des Cascades, 2008), 137.
+1. Joan Hocquenghem, Le Rendez-vous de Vicam (Paris: Rue des Cascades, 2008), 137.
 
-<sup>&</sup>lt;u>2</u>. Yoloth Fuentes Sanchez, Le Système de sécurité, de justice, de rééducation Communautaire de l'État du Guerrero comme système de justice parallèle de l'État du Guerrero (PhD dissertation, Faculté latino-américaine des sciences sociales, Mexico), 16.
+&lt;u>2. Yoloth Fuentes Sanchez, Le Système de sécurité, de justice, de rééducation Communautaire de l'État du Guerrero comme système de justice parallèle de l'État du Guerrero (PhD dissertation, Faculté latino-américaine des sciences sociales, Mexico), 16.
 
-<sup>3.</sup> Ibid., 33.
+3. Ibid., 33.
 
-<sup>4.</sup> Ibid., 50.
+4. Ibid., 50.
 
 #### **Chapter Eight: Mediation and Reparation**
 
@@ -798,7 +792,7 @@ A true Copernican revolution is necessary. We no longer need this Manichean view
 
 It is a bit more rational to say that the punishment is often enough. It involves naming the act: "You have committed this crime." It involved this injury to an individual, or even to the whole of society. From there, what can we do in order to undo the action or repair the consequences that it generated? This does not stop the individual from having feelings about the significance or the seriousness of the violation. We can even assess it according to a scale of values. This would pertain to the field of ethics, which must not be confused with morality or psychology. But let's remain in the domain of reason, even if we continue to be emotional beings. We can be shocked, outraged, or even very angry. That doesn't prevent us from making measured decisions.
 
-What is the best method for settling problems and conflicts within a collective? We all know it: dialogue, reconciliation, discussion—in short, mediation. It has always existed. We could mention the African Palaver Tree and methods of reconciliation. Angela Davis makes this case that, "In limited instances, some governments have attempted to implement alternatives that range from conflict resolution to restorative or reparative justice." In *Burn the Prisons of Apartheid*, Natacha Filippi refers to the Truth and Reconciliation Commission in South Africa: "From now on, every amnesty processes should be preceded by a disclosure of the facts and an encounter between the victims—or the family of victims—and the perpetrators."<sup>2</sup>
+What is the best method for settling problems and conflicts within a collective? We all know it: dialogue, reconciliation, discussion—in short, mediation. It has always existed. We could mention the African Palaver Tree and methods of reconciliation. Angela Davis makes this case that, "In limited instances, some governments have attempted to implement alternatives that range from conflict resolution to restorative or reparative justice." In *Burn the Prisons of Apartheid*, Natacha Filippi refers to the Truth and Reconciliation Commission in South Africa: "From now on, every amnesty processes should be preceded by a disclosure of the facts and an encounter between the victims—or the family of victims—and the perpetrators."2
 
 The same ideas are expressed in the pamphlet, "Deviancy in Anarchist Society," written by the hosts of the "Ras les murs" radio show: "At any rate, in this context, cooperative work occurs between the victim or that person who represents them and the person who committed the harm." Louk Hulsman reminds us in *Lost Causes* that this has existed for ages: "In the Bantu culture, what matters when someone has killed is not whether they are killed or punished but whether they can repair, usually by working for the family of the victim." He cites an example of mediation from the Netherlands: "The mediator listens to the people separately and prepares a form of compromise that corresponds to what they heard, then suggests a plan to each of the interested parties, and they modify it until it is accepted by everyone."
 
@@ -822,7 +816,7 @@ It would be better if these steps were seriously taken towards the shift in mind
 
 To return to mediation... perhaps it's difficult for Europeans to acknowledge that a return to the roots of American Indigenous people, Australian Aboriginal people, and the peoples of equatorial and South Africa, is a prerequisite to achieving more justice and humanity. In particular, we need to be inspired by the residents of Guerrero and of Chiapas, who practically operate through direct democracy. In any case, we are aware that a great number of Indigenous communities are organized along anarchist lines.
 
-In *La Justice réparatrice* [*Restorative Justice*], Stéphane Jacquot writes, "The goal of justice is to restore the balance that was broken between the society and the person who committed the crime or offence by finding a connection between the trial that would punish and the effect of reparation on the victim, the person who harmed, and society." This describes exactly where we are today. Justice occurs in addition to a trial and not instead. Progress will have been made only once it fits the definition Stéphane Jacquot gives further on: "Overall, restorative justice is geared towards three goals: reparation for the victim, accountability for the person who harmed, and restoring social peace." <sup>13</sup>
+In *La Justice réparatrice* [*Restorative Justice*], Stéphane Jacquot writes, "The goal of justice is to restore the balance that was broken between the society and the person who committed the crime or offence by finding a connection between the trial that would punish and the effect of reparation on the victim, the person who harmed, and society." This describes exactly where we are today. Justice occurs in addition to a trial and not instead. Progress will have been made only once it fits the definition Stéphane Jacquot gives further on: "Overall, restorative justice is geared towards three goals: reparation for the victim, accountability for the person who harmed, and restoring social peace." 13
 
 The criminologist Robert Cario and the judge Denis Salas, who oversaw the publication of *Oeuvres de justice et victims* [*Works of Justice and Victims*], volume one, provide their explanation: "This type of recognition between the people involved in the offence restores self-esteem with understanding and acceptance of the harm caused by the offence." Like other authors, they insist on the fact that mediation produces reparation involving the person who harmed, the victim, and the community: "Restorative practices don't exclusively aim at the damaged relationships between the implicated people, they also affect the social relations that have been disrupted by the harm."
 
@@ -836,7 +830,7 @@ Robert Cario concludes beautifully: "The deconstruction of the figure of the 'mo
 
 ## 20
 
-Our evolution is slow. This progress is still very recent, and it must be continued and expanded. Stéphane Jacquot confirms, "In the 1980s, criminal mediation started in prosecutors offices, and then was formalized by a law on January 4 1993. Criminal mediation is an alternative measure that allows 'petty offenders' to plead guilty and to repair the harm from their actions directly to the victims." <sup>21</sup>
+Our evolution is slow. This progress is still very recent, and it must be continued and expanded. Stéphane Jacquot confirms, "In the 1980s, criminal mediation started in prosecutors offices, and then was formalized by a law on January 4 1993. Criminal mediation is an alternative measure that allows 'petty offenders' to plead guilty and to repair the harm from their actions directly to the victims." 21
 
 Maryse Vaillant, a psychologist at the Youth Legal Protection, closely followed this development and reported on it in her wonderful book, *La Réparation* [*Reparation*]: "For the minor delinquent, adolescent in crisis, or runaway youth, the act of reparation—while not forgetting the law—makes them understand the consequences that their actions can have in other people's lives." It also performs other invaluable benefits: "The main idea behind the approach of reparation lies in the belief that each person can answer for the actions that they commit and the harms that they cause without having to pay the price of their freedom or of their dignity." She adds an essential point: "Reparation repairs self-esteem." Maryse Vaillant and Robert Cario agree in thinking that mediation, reparation, and restorative justice ought gradually to replace repression, and thus prison. Vaillant puts it in this way: "As long as reparation is only used in a very limited and partial way, the process cannot demonstrate its true educational benefit, and thus cannot persuade or propose a feasible alternative to the old repressive solutions." Cario makes greater haste: "In the long run, restorative justice should not play along with criminal justice. It should fight against it." $\frac{26}{2}$ 
 
@@ -844,9 +838,9 @@ Instead of prison, mediation.
 
 - 1. Davis, Are Prisons Obsolete? 113.
 - 2. Natacha Filippi, Brûler les prisons de l'apartheid (Paris: Syllepse, 2012) 235.
-- <u>3</u>. Groupe Ras les murs, *Déviance en société libertaire*, 36.
-- <u>4</u>. Louk Hulsman, *Peines perdues*, 150.
-- <u>5</u>. Kropotkin, *In Russian and French Prisons*, Chapter 2 (translation modified).
+- 3. Groupe Ras les murs, *Déviance en société libertaire*, 36.
+- 4. Louk Hulsman, *Peines perdues*, 150.
+- 5. Kropotkin, *In Russian and French Prisons*, Chapter 2 (translation modified).
 - 6. In Esprit, Toujours les prisons no. 35 (November 1979): 112.
 - 7. Albert Jacquart, *Un Monde sans prisons*, 187.
 - 8. Ibid., 187.
@@ -855,15 +849,15 @@ Instead of prison, mediation.
 - 11. Ibid., 50.
 - 12. Stéphane Jacquot, La Justice réparatrice (Paris: L'Harmattan, 2012), 18.
 - 13. Jacquot, La Justice réparatrice, 22.
-- <u>14</u>. Robert Cario and Denis Salas, *Oeuvres de justice et victims*, volume I (Paris: L'Harmattan, 2001), 22.
-- <u>15</u>. Robert Cario and Denis Salas, *Oeuvres de justice et victims*, volume II: *Victimes: du traumatisme à la restoration* (Paris: L'Harmattan, 2001), 283.
+- 14. Robert Cario and Denis Salas, *Oeuvres de justice et victims*, volume I (Paris: L'Harmattan, 2001), 22.
+- 15. Robert Cario and Denis Salas, *Oeuvres de justice et victims*, volume II: *Victimes: du traumatisme à la restoration* (Paris: L'Harmattan, 2001), 283.
 - 16. Ibid., 297.
-- <u>17</u>. Robert Cario, *Les Rencontres détenus-victimes*, *l'humanité retrouvée* (Paris: L'Harmattan, 2012), 19.
+- 17. Robert Cario, *Les Rencontres détenus-victimes*, *l'humanité retrouvée* (Paris: L'Harmattan, 2012), 19.
 - 18. Ibid., 122.
-- <u>19</u>. Ibid., 129.
+- 19. Ibid., 129.
 - 20. Ibid., 156.
 - 21. Jacquot, La Justice réparatrice, 59.
-- <u>22</u>. Maryse Vaillant, *La Réparation. De la délinquance à la découverte de la responsabilité* (Paris: Gallimard, 1999), 19.
+- 22. Maryse Vaillant, *La Réparation. De la délinquance à la découverte de la responsabilité* (Paris: Gallimard, 1999), 19.
 - 23. Ibid., 86.
 - 24. Ibid., 81.
 - 25. Ibid., 24.
@@ -895,15 +889,15 @@ To give an economic punishment to people who, for the most part, are completely 
 
 Dominique Vernier refers to a wonderful experiment in Austria: "The prosecutor in Linz sentences forty-five young neo-Nazis, arrested during the dismantling of a vast network in 1999, to take courses for a year at the University of Linz in history and democracy (without doing so they would have received a prison sentence for belonging to these organizations)." She highlights the fact that in the Netherlands there is a system of *numerus clausus* that does not allow prison overcrowding to exceed 103 percent. In France, this number is instead 125 percent. Remember, Dominique Vernier's book was published in 2002. She makes the following conclusion: "In the end, calculating for the most part according to official numbers from the Ministry of Justice, it seems possible to release between 14,000 to
 
-22,000 people from French prisons, depending on the different scenarios mentioned." Even if culturally we are so far from the Indigenous people in Guerrero, such that we don't even seem to belong to the same planet, scholars of community policing implement policies that we are beginning to make our own: "In particular, within the security and community justice system, they try to understand the offender so that they can help them gain awareness during rehabilitation of the reasons for the offense and the error that they committed so they may undertake reparation." <sup>17</sup>
+22,000 people from French prisons, depending on the different scenarios mentioned." Even if culturally we are so far from the Indigenous people in Guerrero, such that we don't even seem to belong to the same planet, scholars of community policing implement policies that we are beginning to make our own: "In particular, within the security and community justice system, they try to understand the offender so that they can help them gain awareness during rehabilitation of the reasons for the offense and the error that they committed so they may undertake reparation." 17
 
 Fitting the focus of his book, Arnaud Gaillard brings our attention in *Sexuality and Prison* to the disturbing circumstances that the ostrich of democracy does not wish to see: "If freedom means putting an end to a situation of temporary confinement, how does this perspective make any sense when there are no current guidelines; self-esteem is debased; and deprivation and violence, built up over time during long sentences, results in a hatred of the institution and the society that authorizes it?" 18
 
 The only sense we can make of it is that prison is a machine that manufactures criminals. When sadness and despair have been overcome, the only thing remaining is hatred and anger. Human beings have their limits. They need hope in order to live. If breathing room is cut off, the instinct for life becomes diseased. It turns towards violence, the desire for revenge, sadism, or even masochism. It is an emotional plague, as we have already observed. The explanation shouldn't be surprising: "The analysis of the experience of sexuality in detention highlights the concept of social death, understood as a death of another kind, at odds with what reintegration might mean." 19
 
-It's up to us professionals, militants, former prisoners, to see what we must do in order to reverse the process! We can't continue to act as if we didn't know. In the magazine *Esprit* in 1972, Jean-Marie Domenach, a member of GIP, wrote: "We must create institutions and behaviors that treat the causes of offenses rather than responding with repression, and thus require us to transform a society that more and more creates the conditions for criminality." <sup>20</sup>
+It's up to us professionals, militants, former prisoners, to see what we must do in order to reverse the process! We can't continue to act as if we didn't know. In the magazine *Esprit* in 1972, Jean-Marie Domenach, a member of GIP, wrote: "We must create institutions and behaviors that treat the causes of offenses rather than responding with repression, and thus require us to transform a society that more and more creates the conditions for criminality." 20
 
-Let's go back to the paths opened by Robert Cario and Denis Salas: "In many countries, there are programs of mediation and reconciliation between the victim and the offender built upon an understanding of the specific needs of the victims stemming from practical research into a more meaningful and effective approach to delinquency."<sup>21</sup> But their view is uncompromising. They make this diagnosis: "The impact of mediation programs remains rather marginal in the global context of criminal justice administration."<sup>22</sup>
+Let's go back to the paths opened by Robert Cario and Denis Salas: "In many countries, there are programs of mediation and reconciliation between the victim and the offender built upon an understanding of the specific needs of the victims stemming from practical research into a more meaningful and effective approach to delinquency."21 But their view is uncompromising. They make this diagnosis: "The impact of mediation programs remains rather marginal in the global context of criminal justice administration."22
 
 More practically, Jacques Colombat gives an example that can be reproduced: "In Denmark, 60% of incarcerated people are in open prisons; there are some escapes, but in 2008, there were no suicides, while there were five in the closed prisons." This only reinforces the validity of the author's suggestion: "We must stop regarding surveillance cameras, intercoms, one-way internal televisions, tags and beepers as progress. These only replace supervisors, further isolating incarcerated people, which produces distrust, aggression, and violence." The lessons of history are not learned. However, there is no lack of examples: "Primitive societies unaware of State laws operated on other foundations without relying on carceral punishment. Their solutions could still be cruel, but above all they sought reparation, reconciliation, before coming in the last instance to the exile of the offender." \*\*Escape \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Topic \*\*Top
 
@@ -919,35 +913,35 @@ Just as prescient as Kropotkin, James Guillaume published *Ideas on Social Organ
 
 The abolition of prison is possible.
 
-- <u>1</u>. Kropotkin, *In Russian and French Prisons*, Chapter 10.
+- 1. Kropotkin, *In Russian and French Prisons*, Chapter 10.
 - 2. Davis, Are Prisons Obsolete? 108.
-- <u>3</u>. Ibid., 107.
-- <u>4</u>. Ibid., 111.
+- 3. Ibid., 107.
+- 4. Ibid., 111.
 - 5. Jacquard, Un Monde sans prisons, 205.
 - 6. Ibid., 188.
 - 7. Briggs, In Place of Prison, 144.
-- <u>8</u>. Ibid., 122.
+- 8. Ibid., 122.
 - 9. Ibid., 53.
-- <u>10</u>. Ibid., 58.
+- 10. Ibid., 58.
 - 11. Vernier, Peines perdues, 281.
-- <u>12</u>. Ibid., 243.
+- 12. Ibid., 243.
 - 13. Ibid., 249.
 - 14. Ibid., 250.
 - 15. Ibid., 260.
-- <u>16</u>. Ibid., 249.
+- 16. Ibid., 249.
 - 17. Fuentes Sanchez, Le Système de sécurité, 48.
 - 18. Gaillard, Sexualité et prison, 322.
-- <u>19</u>. Ibid., 322.
+- 19. Ibid., 322.
 - 20. Jean-Marie Domenach, Esprit no. 7/8 (July-August 1972): 54.
 - 21. Cario and Salas, Oeuvre de justice et victims, vol. 1, 234.
 - 22. Ibid., 236.
 - 23. Colombat, Du droit à l'évasion, 101.
 
-- <u>24</u>. Ibid., 100.
-- <u>25</u>. Ibid., 94.
-- <u>26</u>. Ibid., 100.
-- <u>27</u>. Ibid.
-- <u>28</u>. James Guillaume, *Ideas on Social Organization*, https://www.revoltlib.com/anarchism/ideas-on-social-organization/view.php.
+- 24. Ibid., 100.
+- 25. Ibid., 94.
+- 26. Ibid., 100.
+- 27. Ibid.
+- 28. James Guillaume, *Ideas on Social Organization*, https://www.revoltlib.com/anarchism/ideas-on-social-organization/view.php.
 - 29. Guillaume, *Ideas*. [SB: I can't find the corresponding English, so translation is mine.]
 
 #### **Chapter Ten: Why Abolition?**
@@ -958,7 +952,7 @@ Burn the guillotines, demolish the prisons, drive away the judge, the policeman,
 
 Over the soundtrack of *A Clockwork Orange*, this excerpt allowed us to point to the two priorities of the anti-prison struggle: improving conditions of incarceration and abolishing prison.
 
-At the end of *Lost Causes*, Dominique Vernier asks the fateful question: "What risks is society ready to take so that human beings in violation of the law at some point are able to resume their place in society?"<sup>2</sup>
+At the end of *Lost Causes*, Dominique Vernier asks the fateful question: "What risks is society ready to take so that human beings in violation of the law at some point are able to resume their place in society?"2
 
 Angela Davis's answer may surprise some: "A more productive version of feminism would also question the organization of state punishment for men as well and, in my opinion, would seriously consider the proposition that institution as a whole—gendered as it is—calls for the kind of critique that might lead us to consider its abolition." The militant anti-prison movement has developed a very important argument in the United States, which could absolutely be implemented in France and Europe: "If we are willing to take seriously the consequences of a racist and class-biased justice system, we will reach the conclusion that enormous numbers of people are in prison simply because they are, for example, black, Chicano, Vietnamese, Native
 
@@ -974,7 +968,7 @@ We can only agree with the American militant that this radical argument goes in 
 
 The arguments that have been proposed are so numerous that arguments for revenge and security often seem more symptomatic of hatred and fear.
 
-The architects Augustin Rosenstiehl and Pierre Sartoux propose an argument that too few have made: "Debasement, infantilization, deprivation of intimate relations with family, prolonged isolation, and white torture are not part of the law, which officially condemns these practices. We think that these tendencies are the principle factors that currently make prison a place that creates criminals, since they foster hatred (of society) and frustration (by feeling excluded)." <sup>10</sup>
+The architects Augustin Rosenstiehl and Pierre Sartoux propose an argument that too few have made: "Debasement, infantilization, deprivation of intimate relations with family, prolonged isolation, and white torture are not part of the law, which officially condemns these practices. We think that these tendencies are the principle factors that currently make prison a place that creates criminals, since they foster hatred (of society) and frustration (by feeling excluded)." 10
 
 Many others have reported on the hatred, anger, and rebellion that stem not only from confinement but also the conditions of incarceration. Never being able to open a door, not having any responsibilities, always depending on the whim of a guard, waiting to the point of no longer knowing what you are waiting for, wasting away in emotional and sexual solitude without much hope for tomorrow—this amounts to dying a slow death.
 
@@ -986,7 +980,7 @@ Kropotkin encountered these abandoned people: "a life which a person can endure 
 
 It is conventional to believe that, as long as they are incarcerated, criminals can no longer harm the collective. This reassures a large portion of the public. We will restate that this is only short-term safety. In this regard, we share Albert Jacquard's perspective. With a recidivism rate worse than that of primary offenses—that is, when the person commits an offense for the first time—we ought to admit that prison doesn't fulfill its mission of reintegration. It promotes recidivism, which contributes to the hardening of the incarcerated person, making their actions worse.
 
-Catherine Baker makes an indisputable sociological analysis: "Prison poses a threat to us: it creates all of the conditions of an ongoing disaster because it casts out people who've been made to suffer intolerable violence in order to punish them. The punishment brings with it so much hatred that allowing it to take place in our name can only destroy us." <sup>15</sup>
+Catherine Baker makes an indisputable sociological analysis: "Prison poses a threat to us: it creates all of the conditions of an ongoing disaster because it casts out people who've been made to suffer intolerable violence in order to punish them. The punishment brings with it so much hatred that allowing it to take place in our name can only destroy us." 15
 
 Just as with the death penalty, prison has never deterred delinquents and criminals. People who commit offenses think more or less explicitly that they won't get caught. This is particularly true for those who, at the end of their rope, decide to do one "last job!" Louk Hulsman supports this: "Everyone can recognize that the actual existence of the prison system in no way prevents homicides, armed robbery, or break-ins." This observation, however, agrees with the views of all of the specialists of the prison world: "In the end, criminal justice and prison only end up increasing the number of anti-social people and repeat offenders." A lawyer ahead of his time, he takes this logic to a point no one would have expected: "The law defines crime, thus the law creates the criminal!" And it does this on a massive scale!
 
@@ -994,7 +988,7 @@ We have been talking for a long time about overcrowding. Today, there are more t
 
 Just like Loïc Wacquant, Angela Davis emphasizes the economic issue. The evolution of prisons into private, multinational corporations highlights the fact that the carceral system is increasingly about profit. One of its main aims is profitability: "In the meantime, corporations associated with the punishment industry reap profits from the system that manages prisoners and acquire a clear stake in the continued growth of prison populations." This requires the historical focus that Angela Davis shows so well: "The process through which imprisonment developed into the primary mode of state-inflicted punishment was very much related to the rise of capitalism and to the appearance of a new set of ideological conditions." 22
 
-When fear dictates the rules of political life, we inevitably fall into despotism, the reign of populism and demagoguery. And the laws follow, weaving an inescapable web for the marginalized, non-citizens, people with mental illness, and delinquents. Fortunately, it is possible for us to change governance and to achieve more social justice. Dennie Briggs holds this view: "the argument of this book is that we must be ready to abolish a practice when it has been clearly shown not to work." He also makes this statement of principle, as we have already noted: "We have reached the point when decisive action needs to be taken on a large scale. Such action can succeed."<sup>23</sup>
+When fear dictates the rules of political life, we inevitably fall into despotism, the reign of populism and demagoguery. And the laws follow, weaving an inescapable web for the marginalized, non-citizens, people with mental illness, and delinquents. Fortunately, it is possible for us to change governance and to achieve more social justice. Dennie Briggs holds this view: "the argument of this book is that we must be ready to abolish a practice when it has been clearly shown not to work." He also makes this statement of principle, as we have already noted: "We have reached the point when decisive action needs to be taken on a large scale. Such action can succeed."23
 
 In 1972, Jean-Marie Deomnach wrote: "It is indeed a matter of tearing down the prison walls, of destroying the prison world, which does not mean, as people pretend to believe, jumping overnight into a world without sanctions." Quite the contrary, it makes us return in a deeper way to concepts that we have already elaborated. If we want to make progress in terms of justice and prison, we will need to give up the idea of guilt. This idea impairs our thinking and sinks us into the miasmas of the past. This idea of guilt, which develops directly from our monotheistic religions, makes us lose our minds. It clouds our thinking.
 
@@ -1014,13 +1008,13 @@ They would be taken from the penitentiary institutions where they did not belong
 
 This committee made valuable insights, but it didn't succeed in opening the planned institution. To do so today, it would only be a matter of returning to the idea with new participants, while also calling on some of those who had been part of the committee.
 
-Another committee, named Justice and Chaplaincy of Prisons (*Justice et aumônerie des prisons*), met at Versailles on March 22, 1978. The pastor Maurice Hammel, from the Protestant Federation of France, reported: "To conclude, it seems that these brief remarks about the regime of high security, a specific and tragic development of the general regime of incarceration, clearly highlight the need for careful consideration of measures to be taken to achieve the abolition of prison."<sup>28</sup>
+Another committee, named Justice and Chaplaincy of Prisons (*Justice et aumônerie des prisons*), met at Versailles on March 22, 1978. The pastor Maurice Hammel, from the Protestant Federation of France, reported: "To conclude, it seems that these brief remarks about the regime of high security, a specific and tragic development of the general regime of incarceration, clearly highlight the need for careful consideration of measures to be taken to achieve the abolition of prison."28
 
-More recently, Gabi Mouesca offered this thought: "The idea of keeping human beings locked up in concrete and barbed wire is unacceptable to me . . . I dream of putting all the screws out of work and putting an end to prison." He adds: "To be an abolitionist means fighting against all prisons. The strongest prisons are those of our beliefs, our prejudices, our daily cowardice. Abolitionism has existed as long as prison has existed. In my view, this political movement is a movement of the future; it represents the victory of life over death, the victory of civilization over barbarism. For prison is only barbarism." <sup>29</sup>
+More recently, Gabi Mouesca offered this thought: "The idea of keeping human beings locked up in concrete and barbed wire is unacceptable to me . . . I dream of putting all the screws out of work and putting an end to prison." He adds: "To be an abolitionist means fighting against all prisons. The strongest prisons are those of our beliefs, our prejudices, our daily cowardice. Abolitionism has existed as long as prison has existed. In my view, this political movement is a movement of the future; it represents the victory of life over death, the victory of civilization over barbarism. For prison is only barbarism." 29
 
 It would thus be to our advantage to put an end to this archaic and truly obsolete institution, to use Angela Davis's term. We were able to end the death penalty because it is completely inhuman. It is impossible to defend life while putting anyone to death. Similarly, it is foolish to defend freedom while locking up a living being. If we hope to protect property with prison, it is time to ask ourselves to what extent we can accept that there is such inequality in our society.
 
-Thierry Lodé is professor of animal biology at the Universities of Angers and Rennes, as well as the director of research at the latter. He writes in *Ban public*: "But I claim that yes, it is possible to abolish this dishonorable prison system, it is even, quite simply, necessary to do it in order to leave behind the old world of dead end medieval vengeance where prison still wallows. Yes, progress is nothing but the realizing of utopias, as Oscar Wilde said." <sup>30</sup>
+Thierry Lodé is professor of animal biology at the Universities of Angers and Rennes, as well as the director of research at the latter. He writes in *Ban public*: "But I claim that yes, it is possible to abolish this dishonorable prison system, it is even, quite simply, necessary to do it in order to leave behind the old world of dead end medieval vengeance where prison still wallows. Yes, progress is nothing but the realizing of utopias, as Oscar Wilde said." 30
 
 The *Envolée* team, in *Backs Against the Wall*, takes up this perspective, also defended by Henri Lefebvre who called himself a utopian: "A world without prisons is the least that we can dream of." But the collective warns us: "We will not have achieved transformation if the abolition of prisons turns into imprisonment without walls." So many people have insisted on this. Particularly, a ruthless book by Ira Levin describes a completely plausible future world in *This Perfect Day*. Even those who challenge and escape are caught by the leaders. Happiness is mandatory, orchestrated, structured and regulated by a totalitarian system that is no longer possible to destroy.
 
@@ -1028,23 +1022,23 @@ We are not the owners of even the smallest part of this earth. This planet inste
 
 The abolition of prison is an act of safety, of solidarity, of mutual aid, and community. But it is also the victory of justice, of ethics, and of freedom.
 
-- <u>1</u>. Kropotkin, *Words of a Rebel*, Chapter 14.
+- 1. Kropotkin, *Words of a Rebel*, Chapter 14.
 - 2. Vernier, Peines perdues, 283.
-- <u>3</u>. Davis, *Are Prisons Obsolete?*, 75.
+- 3. Davis, *Are Prisons Obsolete?*, 75.
 - 4. Ibid., 113.
-- <u>5</u>. Ibid., 129.
+- 5. Ibid., 129.
 - 6. Kropotkin, *In Russian and French Prisons*, Chapter 9 (translation modified).
 - 7. Davis, Are Prisons Obsolete?, 78.
 - 8. Ibid., 99.
 - 9. Vernier, Peines perdues, 270.
 - 10. Rosenstiehl and Sartoux, Construire, 203.
-- <u>11</u>. Kropotkin, *In Russian and French Prisons*. Chapter 2 (translation modified).
+- 11. Kropotkin, *In Russian and French Prisons*. Chapter 2 (translation modified).
 - 12. Jacquard, Un monde sans prisons, 193.
 - 13. Kropotkin, *In Russian and French Prisons*, Chapter 2 (translation modified).
-- <u>14</u>. Ibid., Chapter 9 (translation modified).
-- <u>15</u>. Baker, *Pourquoi.*, 172.
+- 14. Ibid., Chapter 9 (translation modified).
+- 15. Baker, *Pourquoi.*, 172.
 - 16. Hulsman, Peines perdues, 124.
-- <u>17</u>. Ibid., 124.
+- 17. Ibid., 124.
 - 18. Ibid., 68.
 - 19. Jacquard. *Un monde sans prisons*, 68.
 - 20. Baker, Pourquoi faudrait-il punir?, 179.
@@ -1059,7 +1053,7 @@ The abolition of prison is an act of safety, of solidarity, of mutual aid, and c
 - 29. Mouesca in Rosenstiehl and Sartoux, Construire, 6.
 - 30. Collectif, Au pied du mur, 295.
 - 31. Ibid.
-- <u>32</u>. Ibid.
+- 32. Ibid.
 
 #### Appendix
 
@@ -1199,7 +1193,7 @@ Nicole: Towards the end, you had as many autonomists as cops. And mind, it was s
 
 Jacques: Direct Action came from the Comrades movement. When we dissolved everything, they said, "We're not stopping." They wanted to continue the struggle on the model of the Red Brigades (see *Direct Action: the First Years [Action directe, les premières annés*] by Aurélien Dubuisson, Libertalia 2018).
 
-We were just talking about your spiritual grandchildren in the 1980s, Bérurier Noir.<sup>2</sup> Can we talk for a minute about the antipsychiatry
+We were just talking about your spiritual grandchildren in the 1980s, Bérurier Noir.2 Can we talk for a minute about the antipsychiatry
 
 #### struggle?
 
@@ -1209,9 +1203,9 @@ Nicole: The administration was at war with Jacques. They accused him of encourag
 
 Jacques: We can treat people in alternative places of life. That is why we fought against imprisonment.
 
-<sup>&</sup>lt;u>1</u>. *Le droit de cuissage* is used today to refer to sexual harassment or abuse of power, but it refers to the idea of *droit du seigneur* or *jus primea noctis*, a supposed medieval right for the feudal lord to have sex with women in their fief, particularly on their wedding night.
+&lt;u>1. *Le droit de cuissage* is used today to refer to sexual harassment or abuse of power, but it refers to the idea of *droit du seigneur* or *jus primea noctis*, a supposed medieval right for the feudal lord to have sex with women in their fief, particularly on their wedding night.
 
-<sup>&</sup>lt;u>2</u>. French 80s anarchist punk band. Bérurier is a character from Frédéric Dard's novels, Noir refers to the black of anarchy. Their shows were often followed by riots.
+&lt;u>2. French 80s anarchist punk band. Bérurier is a character from Frédéric Dard's novels, Noir refers to the black of anarchy. Their shows were often followed by riots.
 
 #### **Bibliography**
 
@@ -1275,7 +1269,7 @@ Jacques: We can treat people in alternative places of life. That is why we fough
 
 - Paraire, Phillippe. "Introduction," in Peter Kropotkin, *Dans les prisons russes et françaises*. Translated by Paraire. Paris: Le Temps des cerises, 2009.
 - Rosenstiehl, Augustin and Pierre Sartoux. *Construire l'abolition*. Paris: École d'architecture de Paris, "Carnets de Malaquais," 2005.
-- Sénat. *Prisons, une humiliation pour la République*. June 29, 2000. <a href="http://www.senat.fr/rap/199-449/199-449">http://www.senat.fr/rap/199-449/199-449</a>.html.
+- Sénat. *Prisons, une humiliation pour la République*. June 29, 2000. http://www.senat.fr/rap/199-449/199-449.html.
 - Serge, Victor. *Men in Prison*. Translated by Richard Greeman. Oakland: PM Press, 2014, epub.
 - Sniady, Éric. Entre quatre murs, comment j'ai survécu trente ans dans l'enfer des prisons. Paris: City, 2016
 - Vaillant, Maryse. *La Réparation. De la délinquance à la découverte de la responsabilité*. Paris: Gallimard, 1999.

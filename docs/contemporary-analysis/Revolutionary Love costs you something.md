@@ -1,3 +1,8 @@
+---
+title: "## **Revolutionary Love costs you something.**"
+category: "contemporary-analysis"
+---
+
 ## **Revolutionary Love costs you something.**
 
 ## **Date:** 2023-07-30
@@ -64,7 +69,10 @@ Hello, internet friends. It is a Saturday in July. I have, once again, made a vi
 | in secret! |
 | ! Rather than just telling me they could not pay and coming anyways!! People would |
 | cry |
-| to me after session about how bad they felt "getting my labor for free." I would go blind with<br>rage. The degradation that capitalism instills within us— clearly, it's not just physical. Lack of<br>access cannot only be structural; it's not just physical; the barriers aren't even exclusively<br>financial. Because if finance was the barrier, asking for help when you |
+| to me after session about how bad they felt "getting my labor for free." I would go blind with
+rage. The degradation that capitalism instills within us— clearly, it's not just physical. Lack of
+access cannot only be structural; it's not just physical; the barriers aren't even exclusively
+financial. Because if finance was the barrier, asking for help when you |
 | know |
 | the answer is yes would be enough, right? And yet! |
 | We are all brainwashed into attaching our own senses of worth to money. |
@@ -109,14 +117,20 @@ How? How do you design community that gives people a love that you yourself neve
 | strong |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | pause to sip tea here]. |
-| Charging also fucked me up on the receiving end. I was constantly worried about whether the<br>experience I was providing was life-changing enough. It gave me incentive to shy away from<br>the sticky, awkward, unpleasant moments that are |
+| Charging also fucked me up on the receiving end. I was constantly worried about whether the
+experience I was providing was life-changing enough. It gave me incentive to shy away from
+the sticky, awkward, unpleasant moments that are |
 | necessary |
 | for community-building, because I |
 | know |
-| folks don't enjoy paying to have an uncomfortable time. I had to worry about being<br>marketable. I had to ratio paying folks to folks that couldn't to make sure I could make my bills.<br>That felt unnerving; alarming; felt like the Disney Fast Pass system. Just |
+| folks don't enjoy paying to have an uncomfortable time. I had to worry about being
+marketable. I had to ratio paying folks to folks that couldn't to make sure I could make my bills.
+That felt unnerving; alarming; felt like the Disney Fast Pass system. Just |
 | throughly |
-| icky. Even though I built a space outside of the private practice model, I was still operating as<br>if insurance was tracking my progress. |
-| Are we moving fast enough for this to be worth it? Is this worth the money? Would I pay this<br>money? Do I even want this money? |
+| icky. Even though I built a space outside of the private practice model, I was still operating as
+if insurance was tracking my progress. |
+| Are we moving fast enough for this to be worth it? Is this worth the money? Would I pay this
+money? Do I even want this money? |
 | Maddening. It was not working. I could not sleep. |
 | So I annexed cost before I had the financial infrastructure to do so |
 
@@ -168,10 +182,13 @@ Love which allows newness requires the trust to bloom and be fragile with that p
 | regulation |
 | or |
 | self-relianc |
-| e? What kind of love would it take from you all to look at me unraveled and feel honored rather<br>than panicked? |
-| You know what else I am? Frustrated that folks keep trying to move me towards individualism.<br>There's your thesis. Stop that!! "But you have to take care of yourself—" |
+| e? What kind of love would it take from you all to look at me unraveled and feel honored rather
+than panicked? |
+| You know what else I am? Frustrated that folks keep trying to move me towards individualism.
+There's your thesis. Stop that!! "But you have to take care of yourself—" |
 | shhusshh! Hush. |
-| Don't you see what's happening here? Do you not see me radicalizing in real time? I don't<br>give a fuck about calls for autonomy and self-care if they're not followed up by |
+| Don't you see what's happening here? Do you not see me radicalizing in real time? I don't
+give a fuck about calls for autonomy and self-care if they're not followed up by |
 | HOW DO I CARE FOR YOU? HOW DO WE CARE FOR YOU? |
 
 The ever-present beast of carceral thinking rears his big and shiny fangs:

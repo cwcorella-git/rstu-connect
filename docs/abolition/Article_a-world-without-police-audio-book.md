@@ -1,13 +1,8 @@
 ---
-title: A World Without Police Audio Book
-date: 2025
-author: Geo Maher
-tags:
-  - organizing
-  - unions
-  - police
-  - prisons
-  - anarchism
+title: "A World Without Police Audio Book"
+author: "Geo Maher"
+date: "2025"
+category: "abolition"
 ---
 
 # A World Without Police Audio Book

@@ -1,10 +1,8 @@
 ---
-title: The General Strike In York 1926
-date: 2025
-author: the University
-tags:
-  - organizing
-  - strikes
+title: "The General Strike In York 1926"
+author: "the University"
+date: "2025"
+category: "labor"
 ---
 
 # The General Strike In York 1926

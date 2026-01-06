@@ -1,26 +1,8 @@
 ---
-title: 'Anarchism, academia, and the avant-garde'
-author: David Graeber
-date: '2009'
-pubdate: '2022-10-09T20:33:03'
-language: en
-source_url: >-
-  Contemporary Anarchist Studies: An Introductory Anthology of Anarchy in the
-  Academy (ed. Randall Amster et al.), chapter 10. Online:
-  https://www.taylorfrancis.com/chapters/edit/10.4324/9780203891735-18/anarchism-academia-avant-garde-david-graeber
-notes: >-
-  PDF available at
-  https://libcom.org/article/contemporary-anarchist-studies-introductory-anthology-anarchy-academy
-  | See also: David Graeber Institute [[https://davidgraeber.institute/]] &
-  [[https://davidgraeber.org/]]
-original_format: muse
-converted_date: '2025-11-08T11:25:02.996470'
-tags:
-  - theory
-  - contemporary
-  - strikes
-  - rent
-  - police
+title: "Anarchism, academia, and the avant-garde"
+author: "David Graeber"
+date: "2009"
+category: "contemporary-analysis"
 ---
 
 Initially, I was to write a critical auto-ethnography of my life in the academy. But I quickly realized that writing critically about the academy is almost impossible. During the 1980s, we all became used to the idea of reflexive anthropology, the effort to probe behind the apparent authority of ethnographic texts to reveal the complex relations of power and domination that went into making them. The result was an outpouring of ethnographic meditations on the politics of fieldwork. But even as a graduate student, it always seemed to me there was something oddly missing here. Ethnographic texts, after all, are not actually written in the field. They are written at universities. Reflexive anthropology, however, almost never had anything to say about the power relations under which these texts were actually composed.
@@ -99,7 +81,7 @@ No doubt there are many others.
 
 ### References
 
-<biblio>
+
 Bourdieu, P. (1993) *The Field of Cultural Production: essays on art and literature*, in R. Johnson (ed.), Cambridge: Polity Press.
 
 Collins, R. (1998) *The Sociology of Philosophies: a global theory of intellectual change*, Cambridge, MA: Harvard University Press.
@@ -107,7 +89,7 @@ Collins, R. (1998) *The Sociology of Philosophies: a global theory of intellectu
 Comte, A. (1852) *Catechisme Positiviste: ou sommaire exposition de la religion universelle en onze entretiens systematiques entre une femme et un prêtre de l’humanité*, Paris: Chez le Auteur.
 
 Saint-Simon, H. de (1825) *Nouveau Christianisme: dialogues entre un conservateur et un novateur, primier dialogue*, Paris: Bossange.
-</biblio>
+
 
 [1] Significantly, those Marxist tendencies that are not named after individuals, like Autonomism or Council Communism, are themselves the closest to anarchism.
 

@@ -1,3 +1,8 @@
+---
+title: "## 0:07"
+category: "contemporary-analysis"
+---
+
 Embrace Social Ecology - Misanthropic, borderline ecofash narratives about humanity's relationship with nature have become way too common in discourse about climate change, highlighting the urgent and critical importance of a social ecological approach.
 
 ## 0:07

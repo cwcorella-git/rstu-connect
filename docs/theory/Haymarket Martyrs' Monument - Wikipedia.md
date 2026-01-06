@@ -1,3 +1,8 @@
+---
+title: "*Haymarket Martyrs' Monument*"
+category: "theory"
+---
+
 ## ![](_page_0_Picture_2.jpeg)
 
 # *Haymarket Martyrs' Monument*
@@ -104,6 +109,6 @@ Haymarket Martyrs' Monument, rear, with text of the pardon on bronze tablet, and
 
 - [Haymarket Martyrs Monument](http://www.wikimapia.org/#lat=41.8697849&lon=-87.8197457&z=20&l=0&m=b&show=/1780336/Haymarket-Martyr-s-Monument)[,](http://www.wikimapia.org/#lat=41.8697849&lon=-87.8197457&z=20&l=0&m=b&show=/1780336/Haymarket-Martyr-s-Monument) [wikimapia](http://www.wikimapia.org/#lat=41.8697849&lon=-87.8197457&z=20&l=0&m=b&show=/1780336/Haymarket-Martyr-s-Monument) [\(http://www.wikimapia.org/#lat=41.8697](http://www.wikimapia.org/#lat=41.8697849&lon=-87.8197457&z=20&l=0&m=b&show=/1780336/Haymarket-Martyr-s-Monument) [849&lon=-87.8197457&z=20&l=0&m=b&show=/1780336/Haymarket-Martyr-s-Mo](http://www.wikimapia.org/#lat=41.8697849&lon=-87.8197457&z=20&l=0&m=b&show=/1780336/Haymarket-Martyr-s-Monument) [nument\)](http://www.wikimapia.org/#lat=41.8697849&lon=-87.8197457&z=20&l=0&m=b&show=/1780336/Haymarket-Martyr-s-Monument)
 - ["Haymarket Memorial",](http://www.wikimapia.org/#lat=41.8843688&lon=-87.6439498&z=17&l=0&m=b&show=/2628820/Haymarket-Memorial) [wikimapia](http://www.wikimapia.org/#lat=41.8843688&lon=-87.6439498&z=17&l=0&m=b&show=/2628820/Haymarket-Memorial) [\(http://www.wikimapia.org/#lat=41.8843688&lo](http://www.wikimapia.org/#lat=41.8843688&lon=-87.6439498&z=17&l=0&m=b&show=/2628820/Haymarket-Memorial) [n=-87.6439498&z=17&l=0&m=b&show=/2628820/Haymarket-Memorial\)](http://www.wikimapia.org/#lat=41.8843688&lon=-87.6439498&z=17&l=0&m=b&show=/2628820/Haymarket-Memorial)
-- <http://chicago-outdoor-sculptures.blogspot.com/2009/03/haymarket-memorial.html>
+- 
 
 Retrieved from ["https://en.wikipedia.org/w/index.php?](https://en.wikipedia.org/w/index.php?title=Haymarket_Martyrs%27_Monument&oldid=1298862292) [title=Haymarket\\_Martyrs%27\\_Monument&oldid=1298862292"](https://en.wikipedia.org/w/index.php?title=Haymarket_Martyrs%27_Monument&oldid=1298862292)

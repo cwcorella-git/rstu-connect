@@ -1,3 +1,8 @@
+---
+title: "## **Greetings from Sweden: A dual-track syndicalism?**"
+category: "contemporary-analysis"
+---
+
 ## **Greetings from Sweden: A dual-track syndicalism?**
 
 ## **Date:** Unknown
@@ -192,13 +197,19 @@ Of course, unions of various stripes are enmeshed in various countries industria
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 3 years 11 months ago |
 | In reply to Welcomebylibcom.org |
-| Swedish syndicalists still support and organize wildcat strikes (and we are positive towards<br>even more such actions if/when the chances of winning are good). Swedish syndicalists<br>conduct collective struggle with legal support, without legal support and against agreements<br>and regulations, when the actions are anchored among the workers concerned. |
+| Swedish syndicalists still support and organize wildcat strikes (and we are positive towards
+even more such actions if/when the chances of winning are good). Swedish syndicalists
+conduct collective struggle with legal support, without legal support and against agreements
+and regulations, when the actions are anchored among the workers concerned. |
 | Joakim |
 | 3 years 11 months ago |
 | In reply to Welcomebylibcom.org |
 | ASN wrote: |
-| "Yes but this presentation by the SAC of syndicalist aspects seems obviously of a "theological<br>character" not in any way connected to SAC day to day practice and overall strategy but as<br>part of harking back to a romantic utopian 'golden' past." |
-| The linked article gives examples of methods we use today. Continue guessing if you like. It<br>does not interest me however. |
+| "Yes but this presentation by the SAC of syndicalist aspects seems obviously of a "theological
+character" not in any way connected to SAC day to day practice and overall strategy but as
+part of harking back to a romantic utopian 'golden' past." |
+| The linked article gives examples of methods we use today. Continue guessing if you like. It
+does not interest me however. |
 | asn |
 | 3 years 11 months ago |
 
@@ -232,8 +243,10 @@ Its about getting the major splits from it going and how to do it. The same prob
 |-----------------------------------------------------------------------------------------------------------------------------------|
 | 3 years 11 months ago |
 | In reply to Welcomebylibcom.org |
-| ASN, good to hear that you are making progress i the transport sector. Keep up the good work<br>over there and we'll do it here. |
-| (And we don't say no to prioritizing certain industries, workplaces and groups. It's a<br>no-brainer, but indeed good to repeat.) |
+| ASN, good to hear that you are making progress i the transport sector. Keep up the good work
+over there and we'll do it here. |
+| (And we don't say no to prioritizing certain industries, workplaces and groups. It's a
+no-brainer, but indeed good to repeat.) |
 | Joakim |
 | 3 years 9 months ago |
 | In reply to Welcomebylibcom.org |

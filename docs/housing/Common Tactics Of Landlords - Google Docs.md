@@ -1,12 +1,10 @@
 ---
-date: 2025
-author: Google Docs
-tags:
-  - organizing
-  - tenants
-  - rent
 title: "Common Tactics Of Landlords - Google Docs"
+author: "Google Docs"
+date: "2025"
+category: "housing"
 ---
+
 # Common Tactics Of Landlords - Google Docs
 
 *Converted from: `./Common Tactics Of Landlords - Google Docs.pdf`*  
@@ -27,7 +25,6 @@ title: "Common Tactics Of Landlords - Google Docs"
 View notes from original meeting:     Educational Material Planning 6/20/25
 
 
-
 -   From “how has your landlord screwed you over” tabling display:
        - Had to move multiple times due to rent increases of hundreds of
           dollars per month
@@ -42,4 +39,3 @@ View notes from original meeting:     Educational Material Planning 6/20/25
 -   Reference link
 
 ---
-

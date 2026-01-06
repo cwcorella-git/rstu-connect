@@ -1,3 +1,8 @@
+---
+title: "SUSAN ROANE"
+category: "contemporary-analysis"
+---
+
 # SUSAN ROANE
 
 ## bestselling author of How to Work a Room
@@ -458,7 +463,7 @@ What was clever, poignant, or funny? Who said what? What was the import or impac
 
 ## May I write it and credit you?"
 
-## <sup>A</sup> "SOURCE SPOT
+## A "SOURCE SPOT
 
 Good conversationalists reference their material and give credit where credit is due. It's no skin off their noses to say:
 
@@ -644,14 +649,19 @@ we all have these in our cupboards
 | Energy: |
 | varying levels to taste |
 | Listening: |
-| hold the judgments<br>" |
-| seven words, e.g.,<br>I am interested |
-| Combine:<br>" |
+| hold the judgments
+" |
+| seven words, e.g.,
+I am interested |
+| Combine:
+" |
 | in assessing your product. |
 | Add:a period |
 | for punctuation. |
 | with a positive adjective, e.g., |
-| Sprinkle:<br>"<br>" |
+| Sprinkle:
+"
+" |
 | Really. |
 | Simmer: |
 | over time |
@@ -1013,7 +1023,7 @@ There are some specific measures we can take to overcome shyness, and I offer th
 - Borrow people's lives. Relate a story someone else shared about their kids, boss, vacation, or work environment. I repeat great lines from my favorite television shows.
 - Practice saying it. Remember that the main point, or punch line, comes last.
 
-<sup>&</sup>quot;ear-catching.
+&quot;ear-catching.
 
 - 5. **Take an acting or improvisation class.** You'll meet other people who may be shy, and you'll learn to take risks in a safe setting.
 - 6. **Take a conversation class** at a local college, extension, or lifelong learning center.
@@ -2517,9 +2527,9 @@ The same process of conversation applies to tennis, hiking, biking, riding, back
 
 There are times we feel that we don't know enough about a topic to contribute our thoughts in a group discussion. Remember "The Beauty of Not Knowing":
 
-## <sup>&</sup>quot;Oh, I sell software."
+## &quot;Oh, I sell software."
 
-<sup>&</sup>quot;Really?" and so on.
+&quot;Really?" and so on.
 
 ## THE BEAUTY OF NOT KNOWING IS THAT:
 
@@ -2760,7 +2770,7 @@ Here are a few of them (courtesy of Dave Arnold, Infosight). Most of them are re
 {:-) I'm wearing a toupee
 —DAVE ARNOLD, INFOSIGHT
 Abbreviations are also used. These include:
-<g>
+
 grin
 BTW By the way
 LOL
@@ -3617,7 +3627,7 @@ In certain situations, we need to stay above the battle rather than engaging con
 
 Customer service manager Chris Leech expressed his reaction to his brother's constant barrage of negative comments in such a loving way that the brother was able to hear him. He said, "I don't know why you make such negative comments. They hurt me. You are my role model and I look up to you. When you criticize me, I see myself poorly. It hurts and it is not behavior that I admire."
 
-## <sup>I</sup> "KID" YOU NOT
+## I "KID" YOU NOT
 
 I "kid" you not. When I was married, people often asked me why we didn't have children. After a keynote speech in Las Vegas, I was seated with two attendees from the United Kingdom who had never heard a woman keynote speaker. At the dinner, one gent asked if I was married. I said yes, and he asked about my children. When I said I didn't have any, he felt compelled to ask why not—in a hostile tone that almost threw me for a loop. Miracle of miracles, an answer came to me that normally would have taken two to three hours. I replied in a quiet, slow-paced tone, with no smile, "Not everyone is so blessed."
 
@@ -4241,9 +4251,12 @@ Voice mail:
 | and audio |
 | Bookstore) |
 | books: |
-| ™<br>How to Work a<br>Room |
+| ™
+How to Work a
+Room |
 | The Secrets of Savvy Networking |
-| Susan Ro Ane addresses corporate and association meetings, retreats,<br>conferences, and rallies. Some of her clients include: |
+| Susan Ro Ane addresses corporate and association meetings, retreats,
+conferences, and rallies. Some of her clients include: |
 | • Dana Corporation |
 ## | • Hershey Food |
 
@@ -4798,7 +4811,7 @@ New York: Addison-Wesley, 1977.
 - CHAPTER 6: HEAR, HEAR—LEND ME YOUR EAR
 - CHAPTER 7: SURELY YOU JEST!
 - CHAPTER 8: HOW TO SHINE IN A CROWD
-- <u>CHAPTER 9: WORKING THE VIRTUAL CHAT ROOM: ON-LINE,</u> NOT OUT-OF-LINE
+- CHAPTER 9: WORKING THE VIRTUAL CHAT ROOM: ON-LINE, NOT OUT-OF-LINE
 - CHAPTER 10: TALK TARGETS: BECOMING A MAGNET
 - CHAPTER 11: CONVERSATION KILLERS: WHAT NOT TO SAY
 - CHAPTER 12: COPING WITH CONVERSATION KILLERS: END IT OR MEND IT

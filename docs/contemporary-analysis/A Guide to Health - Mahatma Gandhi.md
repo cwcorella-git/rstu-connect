@@ -1,3 +1,8 @@
+---
+title: "Chapter II - The Human Body"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Figure_0.jpeg)
 
 #### A GUIDE TO HEALTH

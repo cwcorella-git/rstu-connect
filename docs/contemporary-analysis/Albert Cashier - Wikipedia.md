@@ -1,3 +1,8 @@
+---
+title: "## [en.wikipedia.org](https://en.wikipedia.org/wiki/Albert_Cashier)"
+category: "contemporary-analysis"
+---
+
 ## [en.wikipedia.org](https://en.wikipedia.org/wiki/Albert_Cashier)
 
 ## **Albert Cashier**
@@ -17,16 +22,22 @@ Cashier in 186[4\[1\]](#page-8-0)
 | Born | December 25, 1843[2] |
 ## | | Clogherhead, County Louth, Ireland |
 
-| Died | October 10, 1915 (aged<br>71)<br>Saunemin, Illinois, U. S. |
+| Died | October 10, 1915 (aged
+71)
+Saunemin, Illinois, U. S. |
 |---------------------|-----------------------------------------------------------|
 | Buried | Saunemin, Illinois, U. S. |
-| Allegiance | United States of America<br>• Union |
-| Service / branch | United States Army<br>• Union Army |
-| Years<br>of service | 1862–1865 |
+| Allegiance | United States of America
+• Union |
+| Service / branch | United States Army
+• Union Army |
+| Years
+of service | 1862–1865 |
 | Rank | Private |
 | Unit | 95th Illinois Infantry, Company G |
 | Battles / wars | Vicksburg, Red River, Guntown |
-| Other<br>work | Cemetery worker, janitor, lamplighter |
+| Other
+work | Cemetery worker, janitor, lamplighter |
 
 **Albert D. J. Cashier** (December 25, 1843 – October 10, 1915), born **Jennie Irene Hodgers**, was an Irish-born American soldier who served in the [Union Army](https://en.wikipedia.org/wiki/Union_Army) during the [American Civil War.](https://en.wikipedia.org/wiki/American_Civil_War) Cashier adopted the identity of a man before enlisting, and maintained it until death. Cashier became famous as one of at least 250 soldiers who were assigned female at birth and enlisted as men to fight in the Civil War.[\[3\]](#page-8-2) [\[4\]](#page-8-3) The consistent and nearly lifelong (at least 53 years) commitment to a male identity has prompted some historians to believe that Cashier was a [trans man.](https://en.wikipedia.org/wiki/Trans_man) [\[5\]](#page-9-0)[\[6\]](#page-9-1)[\[7\]](#page-9-2)[\[8\]](#page-9-3)[\[9\]](#page-9-4)
 

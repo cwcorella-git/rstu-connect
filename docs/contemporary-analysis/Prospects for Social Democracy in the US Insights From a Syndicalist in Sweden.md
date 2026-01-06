@@ -1,3 +1,8 @@
+---
+title: "## **Prospects for Social Democracy in the US: Insights From a Syndicalist in Sweden**"
+category: "contemporary-analysis"
+---
+
 ## **Prospects for Social Democracy in the US: Insights From a Syndicalist in Sweden**
 
 **Date:** Wed, 04/12/2017 - 16:35 **Source:** https://ecology.iww.org/node/2192**Tags:** movement politics, green syndicalism, ecosocialism, reformism, Bernie Sanders, Donald Trump By Enrique Guerrero-López and Adam Weaver - Truthout , April 10, 2017 In the era of Trump, there's a clear and growing interest in socialism, especially among young people. The first measurable shift began to peek over the horizon in polling data done in the wake of the Occupy movement, showing 49 percent of people ages 18-29 favored socialism over capitalism. The political terrain of the US was rocked to such a degree that even the Republicans took "capitalism" out of their talking points

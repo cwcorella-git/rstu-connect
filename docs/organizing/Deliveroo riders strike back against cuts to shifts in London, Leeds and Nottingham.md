@@ -1,3 +1,8 @@
+---
+title: "## **Deliveroo riders strike back against cuts to shifts in London, Leeds and Nottingham**"
+category: "organizing"
+---
+
 ## **Deliveroo riders strike back against cuts to shifts in London, Leeds and Nottingham**
 
 ## **Date:** Unknown

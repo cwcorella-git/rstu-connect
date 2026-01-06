@@ -1,3 +1,8 @@
+---
+title: "## **Green Unionism Done Right in Richmond: A Brief Review of the "Roadmap to Contra Costa County Re"
+category: "labor"
+---
+
 ## **Green Unionism Done Right in Richmond: A Brief Review of the "Roadmap to Contra Costa County Refinery Transition"**
 
 ## **Date:** Wed, 07/30/2025 - 00:00
@@ -140,4 +145,5 @@ Regardless of all of these circumstances, it nevertheless represents a major ste
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Roadmap to Contra Costa County Refinery Transition |
 | Disclaimer: |
-| The views expressed here are not the official position of the IWW (or even the IWW's EUC)<br>and do not necessarily represent the views of anyone but the author. |
+| The views expressed here are not the official position of the IWW (or even the IWW's EUC)
+and do not necessarily represent the views of anyone but the author. |

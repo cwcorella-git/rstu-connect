@@ -1,15 +1,8 @@
 ---
-title: >-
-  Italian General Strike Amazon Warehouse Blockaded in Piacenza Strikers
-  Attacked
-date: 2025
-author: Global Nonviolent Action Database
-tags:
-  - organizing
-  - strikes
-  - unions
-  - police
-  - labor
+title: ">-"
+author: "Global Nonviolent Action Database"
+date: "2025"
+category: "labor"
 ---
 
 # Italian General Strike Amazon Warehouse Blockaded in Piacenza Strikers Attacked

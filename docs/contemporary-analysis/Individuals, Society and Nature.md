@@ -1,3 +1,8 @@
+---
+title: "## **Individuals, Society and Nature**"
+category: "contemporary-analysis"
+---
+
 ## **Individuals, Society and Nature**
 
 ## **Date:** Wed, 04/12/2023 - 00:00

@@ -1,3 +1,8 @@
+---
+title: "Nonviolent Movements and Material Resources in Northwest Mexico"
+category: "anti-war-peace"
+---
+
 # Nonviolent Movements and Material Resources in Northwest Mexico
 
 ## Chris Allan and A. Scott Du Pree
@@ -50,51 +55,162 @@ ICNC MONOGRAPH SERIES EDITOR: Dr. Maciej Bartkowski VOLUME EDITORS: Julia Consta
 |-----------------------------------------------------------------------------------------------------------------------------|---------|
 | Introduction | 3 |
 | Why Are Material Resources Important to Strengthening Civil Resistance Movements? | 3 |
-| Material<br>Resource<br>Mobilization<br>in<br>Civil<br>Resistance<br>Studies | 5 |
-| The<br>Meaning<br>of<br>Material<br>Resources | 9 |
-| Philanthropic<br>Support | 10 |
-| Types<br>of<br>Resources<br>and<br>Virtuous<br>Cycle<br>of<br>Resource<br>Mobilization | 11 |
-| The<br>Monograph's<br>Questions | 14 |
-| Methods<br>Deployed | 15 |
-| Data<br>Limitations<br>and<br>Protecting<br>Privacy | 15 |
+| Material
+Resource
+Mobilization
+in
+Civil
+Resistance
+Studies | 5 |
+| The
+Meaning
+of
+Material
+Resources | 9 |
+| Philanthropic
+Support | 10 |
+| Types
+of
+Resources
+and
+Virtuous
+Cycle
+of
+Resource
+Mobilization | 11 |
+| The
+Monograph's
+Questions | 14 |
+| Methods
+Deployed | 15 |
+| Data
+Limitations
+and
+Protecting
+Privacy | 15 |
 | 1. Comparing the Three Movements | 17 |
-| How Do Movements Generate Material Resources,<br>and How Do They Decide How to Allocate Their Resources? | 17 |
-| What<br>Resources<br>Did<br>They<br>Generate? | 17 |
-| Were<br>There<br>Any<br>Resources<br>Refused<br>or<br>That<br>Had<br>Negative<br>Consequences? | 25 |
-| What Capabilities Do Movements Need to Be Eective at Raising,<br>Generating, and Deploying Material Resources? | 25 |
-| What Is the Impact of the Way Material Resources Are Allocated<br>and Used on the Movement's Chances of Success or Failure? | 28 |
+| How Do Movements Generate Material Resources,
+and How Do They Decide How to Allocate Their Resources? | 17 |
+| What
+Resources
+Did
+They
+Generate? | 17 |
+| Were
+There
+Any
+Resources
+Refused
+or
+That
+Had
+Negative
+Consequences? | 25 |
+| What Capabilities Do Movements Need to Be Eective at Raising,
+Generating, and Deploying Material Resources? | 25 |
+| What Is the Impact of the Way Material Resources Are Allocated
+and Used on the Movement's Chances of Success or Failure? | 28 |
 | 2. The Free San Pedro River Movement, Nayarit | 33 |
 | Overview of the Movement | 33 |
-| The<br>Seed<br>of<br>the<br>Movement | 33 |
-| Growing<br>Resistance<br>Through<br>Dialogue | 34 |
+| The
+Seed
+of
+the
+Movement | 33 |
+| Growing
+Resistance
+Through
+Dialogue | 34 |
 | How Material Resources Were Mobilized and Used by the Movement | 40 |
-| Community<br>Dialogues | 43 |
-| Publicity,<br>Declarations,<br>and<br>Petitions<br> | <br>44 |
-| Public<br>Marches<br>and<br>Demonstrations | 46 |
+| Community
+Dialogues | 43 |
+| Publicity,
+Declarations,
+and
+Petitions
+ | 
+44 |
+| Public
+Marches
+and
+Demonstrations | 46 |
 ## | Conclusions | 48 |
 
 | 3. Movement Against Toxic Mining, Baja California Sur | 50 | | |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----|--|--|
 | Overview of the Movement | 50 | | |
-| Gold<br>Mining<br>in<br>the<br>State | 50 | | |
-| The<br>Consolidation<br>of<br>Resistance | 51 | | |
-| Movement's<br>Strategies<br>to<br>Expose<br>Wrongdoing | 52 | | |
-| Apex<br>of<br>Civil<br>Resistance | 53 | | |
-| Intervention<br>by<br>the<br>Courts | 55 | | |
+| Gold
+Mining
+in
+the
+State | 50 | | |
+| The
+Consolidation
+of
+Resistance | 51 | | |
+| Movement's
+Strategies
+to
+Expose
+Wrongdoing | 52 | | |
+| Apex
+of
+Civil
+Resistance | 53 | | |
+| Intervention
+by
+the
+Courts | 55 | | |
 | How Material Resources Were Mobilized and Used by the Movement | 56 | | |
-| Publicizing<br>Dissent | 58 | | |
-| Blockade<br>of<br>Roads<br>and<br>Occupation<br>of<br>Airports | 60 | | |
+| Publicizing
+Dissent | 58 | | |
+| Blockade
+of
+Roads
+and
+Occupation
+of
+Airports | 60 | | |
 | Conclusions | 61 | | |
 | 4. Aquí ¡No!: Stopping an Ammonia Plant, Sinaloa | 63 | | |
 | Overview of the Movement | 63 | | |
-| Aquí<br>¡No!:<br>The<br>Coalition<br>Organizes | 66 | | |
+| Aquí
+¡No!:
+The
+Coalition
+Organizes | 66 | | |
 | How Material Resources Were Mobilized and Used by the Movement | 70 | | |
-| Publicity<br>and<br>Information<br>Sharing | 71 | | |
+| Publicity
+and
+Information
+Sharing | 71 | | |
 | Demonstrations | 73 | | |
-| What<br>Is<br>the<br>Impact<br>of<br>the<br>Way<br>Material<br>Resources<br>Are<br>Allocated<br>and<br>Used<br>on<br>a<br>Movement's<br>Chances<br>of<br>Success<br>or<br>Failure? | 74 | | |
+| What
+Is
+the
+Impact
+of
+the
+Way
+Material
+Resources
+Are
+Allocated
+and
+Used
+on
+a
+Movement's
+Chances
+of
+Success
+or
+Failure? | 74 | | |
 | Conclusions | 75 | | |
 | 5. Implications for Movements | 76 | | |
-| Bibliography<br><br> | 80 | | |
+| Bibliography
+
+ | 80 | | |
 | About the Authors | 86 | | |
 | | | | |
 | Tables and Figures | | | |
@@ -103,7 +219,8 @@ ICNC MONOGRAPH SERIES EDITOR: Dr. Maciej Bartkowski VOLUME EDITORS: Julia Consta
 | TABLE 3: Major Funders of the Movements | 21 | | |
 | TABLE 4: Cross-Movement Comparison | | | |
 | of Material Resources Mobilization and Impacts | 29 | | |
-| TABLE 5: Principal Organizations in the Free San Pedro River Movement<br>37 | | | |
+| TABLE 5: Principal Organizations in the Free San Pedro River Movement
+37 | | | |
 
 | TABLE 6: Timeline of the Free San Pedro River Movement | 39 |
 |----------------------------------------------------------------------------------------------------|----|
@@ -123,7 +240,8 @@ ICNC MONOGRAPH SERIES EDITOR: Dr. Maciej Bartkowski VOLUME EDITORS: Julia Consta
 | FIGURE 6: Foundation Funding to the Movements | 22 |
 | FIGURE 7: Survey—Resources Not Sought or Accepted | 23 |
 | FIGURE 8: Map of Rio San Pedro River Through Nayarit | 35 |
-| FIGURE 9: Youth shing in a village that would be<br>under water following the creation of the dam | 46 |
+| FIGURE 9: Youth shing in a village that would be
+under water following the creation of the dam | 46 |
 | FIGURE 10: Circle of Resource Mobilization in Nayarit | 47 |
 | FIGURE 11: January 2011, Tule Beach, SOS Protest | 50 |
 | FIGURE 12: 40 kayakers spell out "No Mining" on Sept. 2, 2014, outside La Paz | 55 |
@@ -137,7 +255,8 @@ ICNC MONOGRAPH SERIES EDITOR: Dr. Maciej Bartkowski VOLUME EDITORS: Julia Consta
 
 ## List of Acronyms
 
-| AIDA | Interamerican Association for Environmental Defense (Asociación Interamericana por la Defensa Ambien<br>tal) |
+| AIDA | Interamerican Association for Environmental Defense (Asociación Interamericana por la Defensa Ambien
+tal) |
 |------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
 | BCS | Lower California South (Baja California Sur) |
 | CEMDA | Mexican Environmental Rights Center (Centro Mexicano de Derecho Ambiental) |
@@ -146,11 +265,13 @@ ICNC MONOGRAPH SERIES EDITOR: Dr. Maciej Bartkowski VOLUME EDITORS: Julia Consta
 | Conagua | National Water Commission (Comisión Nacional del Agua) |
 | CRT | Civil Resistance Theory |
 | FASOL | Action in Solidarity Fund (Fondo Acción Solidaria) |
-| FRECIUDAV | Citizens' Front in Defense of Water and Life of BCS (Frente Ciudadano en Defense del Agua y la Vida de<br>BCS) |
+| FRECIUDAV | Citizens' Front in Defense of Water and Life of BCS (Frente Ciudadano en Defense del Agua y la Vida de
+BCS) |
 | GPO | Western Gas and Petrochemicals (Gas y Petroquímica de Occidente SA de CV) |
 | ICF | International Community Foundation |
 | IPN CIIDIR | Center for Interdisciplinary Research on Integrated Regional Development |
-| MAPDER | Mexican Movement for People Aected by Dams and in Defense of Rivers (Movimento Mexicano de<br>Afectados por las Presas y en Defensa de los Rios) |
+| MAPDER | Mexican Movement for People Aected by Dams and in Defense of Rivers (Movimento Mexicano de
+Afectados por las Presas y en Defensa de los Rios) |
 | MAS | Environment and Society (Medio Ambiente y Sociedad) |
 | MIA | Environmental Impact Statement (Manifestación de Impacto Ambiental) |
 | NGO | Non-Governmental Organization |
@@ -226,9 +347,9 @@ These movements unify a wide range of sympathetic individuals, community groups,
 
 In recent decades understanding movement resources has become more central in social movement studies In 1977, Mayer and Zald pointed out that social movements mobilize resources, develop organizing structures, and gain movement allies among the elite (Mayer and Zald, 1977) Rather than being based on social pathology and the free rider problem, as some economic rational choice theorists considered them to be (Olson, 1971), social movements are strategic, powerful, and eective Resource Mobilization Theory (RMT) has evolved over the years as a way of understanding how movements acquire the resources they need RMT shares common frameworks with Political Process Theory (PPT), rst articulated by Douglas Mc Adam in Political Process and the Development of Black Insurgency (1982) RMT and PPT broadly consider the following elements needed for the success of social movements:
 
-<sup>1</sup> We add "organizations" to Ackerman and Merriman's denition because organizations enable the consistent discipline and coordination of nonviolent movements in our experience.
+1 We add "organizations" to Ackerman and Merriman's denition because organizations enable the consistent discipline and coordination of nonviolent movements in our experience.
 
-<sup>2</sup> Movement leaders were very clear that while they employed civil resistance tactics, they also recognized the high potential, in fact the necessity, of engaging in government processes that regulated the dam, mine, and plant—the projects that the movements were challenging. Environmental Impact Statements, government licensing, public hearings, and other public processes stood out for them as the points at which campaigns could intervene to stop or alter the projects. Not only was there high potential for victory, but not engaging these institutional channels would undermine the legitimacy of their complaints in the eyes of the general public. At the same time, leaders recognized that reliance solely on these institutional processes would be insucient: while these processes are widely seen as legitimate in Mexico, movement leaders also see them as part of a system that is frequently corrupted, or at best acts in favor of corporate interests over those of common citizens. Consequently, movement organizers coordinated civil resistance tactics in tandem with institutional tactics, such as organizing protests and demonstrations to disrupt government hearings and denying permission to enter Indigenous territory to company or government personnel.
+2 Movement leaders were very clear that while they employed civil resistance tactics, they also recognized the high potential, in fact the necessity, of engaging in government processes that regulated the dam, mine, and plant—the projects that the movements were challenging. Environmental Impact Statements, government licensing, public hearings, and other public processes stood out for them as the points at which campaigns could intervene to stop or alter the projects. Not only was there high potential for victory, but not engaging these institutional channels would undermine the legitimacy of their complaints in the eyes of the general public. At the same time, leaders recognized that reliance solely on these institutional processes would be insucient: while these processes are widely seen as legitimate in Mexico, movement leaders also see them as part of a system that is frequently corrupted, or at best acts in favor of corporate interests over those of common citizens. Consequently, movement organizers coordinated civil resistance tactics in tandem with institutional tactics, such as organizing protests and demonstrations to disrupt government hearings and denying permission to enter Indigenous territory to company or government personnel.
 
 - 1 **Mobilizing structures:** how organizational infrastructure is key to bring people together in common cause, including informal groups, formal NGOs, networks, media, academia, and government allies, and the resources needed to support them
 - 2 **Framing processes:** how an "injustice frame" is developed, showing clearly that there is a problem to be solved (such as lack of civil rights) and proposing alternatives
@@ -274,7 +395,7 @@ Money has the distinction of being fungible and relatively easy to direct to a w
 
 In Mexico, the philanthropic sector has given little reection on its own role in providing grants to support civil resistance movement activities, since movement support is outside mainstream philanthropy in Mexico On the margins, however, some movement-oriented
 
-<sup>3</sup> Note that an important cultural critique of the concept of resources came from one of the Indigenous people we interviewed. He questioned the Western conception of material resources as separate from the spiritual and social identity of the people, "I have a little problem with the way you speak of resources. To us they are not resources, they are common goods (bienes comunes). We in the communities are resisting this way of looking at them as resources" (Movement Interview. Ruiz, Nayarit, Mexico, 26 Apr 2019). Some resources come with a meaning and set of values that can be lost or buried when they are labelled as merely material.
+3 Note that an important cultural critique of the concept of resources came from one of the Indigenous people we interviewed. He questioned the Western conception of material resources as separate from the spiritual and social identity of the people, "I have a little problem with the way you speak of resources. To us they are not resources, they are common goods (bienes comunes). We in the communities are resisting this way of looking at them as resources" (Movement Interview. Ruiz, Nayarit, Mexico, 26 Apr 2019). Some resources come with a meaning and set of values that can be lost or buried when they are labelled as merely material.
 
 philanthropy appears to be emerging 4 The collection of material resources continues to be regularly cited in Mexico as important to movement success (Alonso, 2012), but accounts about the capacity of nonviolent movements to raise dierent types of material resources and the roles these resources play in the accomplishment of movements' objectives are scarce
 
@@ -288,7 +409,7 @@ In practice, carrying out a movement tactic is a process in which available reso
 
 For example, a school bus may be borrowed (mobilized) to transport protesters to a demonstration Along the way, it is festooned with temporary signs on its sides (transformed)
 
-<sup>4</sup> For example, a 2014 partnership between Semillas (a women's movement funder) and FASOL (a socioenvironmental funder) was an attempt to provide greater resources across movements in the country (Barry, 2016). The philanthropic sector has shown some increasing awareness of the need for grants that assist communities. And there are a few studies on the development of civil society that grapple with the scope of volunteer activity, although with little reference to movements (Butcher, 2010; Layton, 2009).
+4 For example, a 2014 partnership between Semillas (a women's movement funder) and FASOL (a socioenvironmental funder) was an attempt to provide greater resources across movements in the country (Barry, 2016). The philanthropic sector has shown some increasing awareness of the need for grants that assist communities. And there are a few studies on the development of civil society that grapple with the scope of volunteer activity, although with little reference to movements (Butcher, 2010; Layton, 2009).
 
 to broadcast the movement's message and then it is employed with its messages and lled with participants as a central part of the demonstration (applied) Figure 2 illustrates this model as a continuous cycle
 
@@ -337,9 +458,19 @@ We combine these three research questions into a matrix table (see Table 1) to p
 
 ## Table 1: Resource Mobilization Matrix Questions
 
-| RESOURCES MOBILIZED<br>IN SUPPORT OF KEY<br>MOVEMENT TACTICS5 | STRATEGIC CAPABILITIES<br>NEEDED6 | IMPACT ON MOVEMENT<br>CHANCES OF SUCCESS |
+| RESOURCES MOBILIZED
+IN SUPPORT OF KEY
+MOVEMENT TACTICS5 | STRATEGIC CAPABILITIES
+NEEDED6 | IMPACT ON MOVEMENT
+CHANCES OF SUCCESS |
 |----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
-| What types of resources were mobilized<br>for specic nonviolent tactics of the<br>movement? | What capabilities were needed or lacking<br>to mobilize these resources? | What is the impact of the way material<br>resources were allocated and used on<br>the movement's chances of success or<br>failure? |
+| What types of resources were mobilized
+for specic nonviolent tactics of the
+movement? | What capabilities were needed or lacking
+to mobilize these resources? | What is the impact of the way material
+resources were allocated and used on
+the movement's chances of success or
+failure? |
 
 #### **Methods Deployed**
 
@@ -349,9 +480,9 @@ We used a mixed methodology, combining 21 semi-structured interviews andve follo
 
 One of the limitations of the data reported in this monograph is that it comes largely from the impressions of the movement leaders We did not review their organizational budgets or conrm the resources they said they mobilized with the donors and contributors of these resources In fact, this data is not publicly reported in most cases and the donors do not always link the resources they have given to the movements We made every eort to interpret the information provided by movement leaders as it was intended The monograph intentionally does not identify individuals by name outside of where the public record already identies them because of the extraordinary violence and repression that has become normalized in Mexico today It also does not attempt to quantify resources in order to protect the privacy of individuals and organizations
 
-<sup>5</sup> Following our framework adapted from Toledo, tactics can be widely varied but in this monograph they are assumed to be nonviolent tactics. Resources are grouped into goods, labor and money.
+5 Following our framework adapted from Toledo, tactics can be widely varied but in this monograph they are assumed to be nonviolent tactics. Resources are grouped into goods, labor and money.
 
-<sup>6</sup> Following the Civil Resistance framework, capabilities are broken down into 1) Ability to unify people, 2) Capacity to plan strategically, and 3) Nonviolent discipline.
+6 Following the Civil Resistance framework, capabilities are broken down into 1) Ability to unify people, 2) Capacity to plan strategically, and 3) Nonviolent discipline.
 
 We prepared this monograph to draw out lessons in a way that can be helpful to campaign organizers in Mexico and other parts of the world The study also seeks to be useful for funders, support organizations, and policy makers involved in these struggles who are contemplating eective support for other nonviolent campaigns and movements
 
@@ -371,11 +502,20 @@ Table 2: Material Resources Mobilized by the Three Movements
 
 | RESOURCE | TYPES | EXAMPLES |
 |----------|-----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Goods | In-kind<br>contributions | Vehicles (cars, buses and boats), gasoline, land, meeting and oce space, walls (for<br>murals), chairs, desks, ling space, phones, faxes, computers, paper, posters, food and<br>water, recording equipment (video, photo and sound) |
-| | Information and<br>research | Written reports or research, policy documents, books, internet resources on the issues<br>addressed in the movements |
-| Labor | Volunteer labor | Organizing and participating in tactics such as marches, demonstrations, and appear<br>ances at ocial hearings |
-| | Specialized labor | Both paid and unpaid labor with specialized skills in research, writing, communications,<br>training, theater, facilitation, communications, policy, environmental issues and rights<br>issues |
-| Money | | Personal contributions, philanthropic grants, corporate donations, shing cooperative<br>dues |
+| Goods | In-kind
+contributions | Vehicles (cars, buses and boats), gasoline, land, meeting and oce space, walls (for
+murals), chairs, desks, ling space, phones, faxes, computers, paper, posters, food and
+water, recording equipment (video, photo and sound) |
+| | Information and
+research | Written reports or research, policy documents, books, internet resources on the issues
+addressed in the movements |
+| Labor | Volunteer labor | Organizing and participating in tactics such as marches, demonstrations, and appear
+ances at ocial hearings |
+| | Specialized labor | Both paid and unpaid labor with specialized skills in research, writing, communications,
+training, theater, facilitation, communications, policy, environmental issues and rights
+issues |
+| Money | | Personal contributions, philanthropic grants, corporate donations, shing cooperative
+dues |
 
 The empirical data we collected suggests that, as a movement resource, labor is both volunteer and specialist The dierence is that specialist labor, such as the labor of lawyers, artists, engineers, and academics (which can be paid or unpaid), brings specic skills, access to information, or access to the resources of an organization like an NGO or university In turn, volunteer labor is largely the unpaid participation in movement tactics where skills are less important than the voice and power of citizens acting collectively For goods, we consider both in-kind contributions—including everything from transportation to paint—and research and information—such as newspaper articles, videos, books, technical studies, and reports 7 We dene money in terms ofnancing or grants that come from the budgets of foundations or NGOs, and cash contributions from members and volunteers
 
@@ -389,7 +529,7 @@ Condential survey results from 17 movement leaders representing all three moveme
 
 Volunteer labor and meeting space were cited as the most common resources that were acquired and deployed by the analyzed movements (Figure 4) Note that the survey did not
 
-<sup>7</sup> Research and information would be classied as "cultural goods" in the Edwards and Mc Carthy framework. The distinction is a bit ne for most movement activists, who invest a lot of energy in tracking down good information and analysis that they can use to support their cause, so we simplify the concept here to emphasize the existence of a helpful product.
+7 Research and information would be classied as "cultural goods" in the Edwards and Mc Carthy framework. The distinction is a bit ne for most movement activists, who invest a lot of energy in tracking down good information and analysis that they can use to support their cause, so we simplify the concept here to emphasize the existence of a helpful product.
 
 ## ![](_page_26_Figure_0.jpeg)
 
@@ -409,11 +549,20 @@ Larger foundation and government funding were a bit hidden from frontline activi
 
 ## Table 3: Major Funders of the Movements
 
-| MAJOR INTERNATIONAL FUNDERS | REGRANTING NATIONAL AND<br>LOCAL FOUNDATIONS | NATIONAL NGOS THAT RECEIVED<br>THE FUNDS AND WORKED WITH<br>MOVEMENTS |
+| MAJOR INTERNATIONAL FUNDERS | REGRANTING NATIONAL AND
+LOCAL FOUNDATIONS | NATIONAL NGOS THAT RECEIVED
+THE FUNDS AND WORKED WITH
+MOVEMENTS |
 |---------------------------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
-| The David and Lucile Packard<br>Foundation8 | International Community Foundation<br>(ICF), and Solidarity in Action Fund<br>(FASOL) | Mexican Center for Environmental<br>Rights (CEMDA), and Natural History<br>Society Niparajá |
+| The David and Lucile Packard
+Foundation8 | International Community Foundation
+(ICF), and Solidarity in Action Fund
+(FASOL) | Mexican Center for Environmental
+Rights (CEMDA), and Natural History
+Society Niparajá |
 | The Ford Foundation9 | FASOL | |
-| The International Community Foundation<br>(ICF)10 | FASOL | CEMDA, AIDA |
+| The International Community Foundation
+(ICF)10 | FASOL | CEMDA, AIDA |
 | The Charles Stewart Mott Foundation11 | | AIDA |
 ## | The Global Greengrants Fund12 | FASOL | |
 
@@ -421,15 +570,15 @@ Finally, government funding was also important through the National University o
 
 What did all this money support? It rarely supported frontline organizations, or even directly supported movement activities Instead, these funds helped pay for program and operational costs for national organizations such as CEMDA and FASOL, which did work directly with movement activists, or supported international organizations, like AIDA and WWF, in their work with the campaigns These groups brought expertise in communications, environmental law, and advocacy in ways beyond what frontline organizations could do on their own Pro-Regiones provided the information and publicity that sparked the anti-dam movement in Nayarit, and AIDA provided amicus briefs and advice on how to help legal processes succeed Only FASOL provided funds directly to frontline organizations Its model of working through a stable group of local activists from all regions of Mexico—"mentors"—enabled it to track movement needs in real time and provide funding on a scale the movements could use when they needed it
 
-<sup>8</sup> **https://www.packard.org/grants-and-investments/**, accessed March 16, 2020. The grants database only covers these years. Actual funding from other years was not available.
+8 **https://www.packard.org/grants-and-investments/**, accessed March 16, 2020. The grants database only covers these years. Actual funding from other years was not available.
 
-<sup>9</sup> **https://www.fordfoundation.org/work/our-grants/grants-database/grants-all**, accessed March 19, 2020.
+9 **https://www.fordfoundation.org/work/our-grants/grants-database/grants-all**, accessed March 19, 2020.
 
-<sup>10</sup> ICF\_Grants\_List from scal year 2014, **https://icfdn.org/what-we-do/grantmaking/**, accessed March 16, 2020.
+10 ICF\_Grants\_List from scal year 2014, **https://icfdn.org/what-we-do/grantmaking/**, accessed March 16, 2020.
 
-<sup>11</sup> **https://www.mott.org/grants/#s=post\_date|desc**, accessed March 17, 2020.
+11 **https://www.mott.org/grants/#s=post\_date|desc**, accessed March 17, 2020.
 
-<sup>12</sup> Global Greengrants Fund, Personal Communication, March 16, 2020.
+12 Global Greengrants Fund, Personal Communication, March 16, 2020.
 
 ## ![](_page_29_Figure_0.jpeg)
 
@@ -507,13 +656,70 @@ Table 4 summarizes the most important tactics that the three movements used, and
 
 ### Table 4: Cross-Movement Comparison of Material Resources Mobilization and Impacts
 
-| RESOURCES MOBILIZED IN<br>SUPPORT OF KEY MOVEMENT<br>TACTICS | IMPACT ON MOVEMENT CHANCES OF SUCCESS |
+| RESOURCES MOBILIZED IN
+SUPPORT OF KEY MOVEMENT
+TACTICS | IMPACT ON MOVEMENT CHANCES OF SUCCESS |
 |------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Tactic: Community Dialogues & Organizing<br>Resources Used:<br>• Specialist Labor<br>• Research & Information<br>• Grants & Financing | Positive Eects<br>• Established and strengthened cross-community constituencies<br>• Built shared movement frames among diverse communities<br>• Grew public participation and raised awareness<br>Negative Eects<br>• Reliance on volunteer labor made it dicult to counter opposition organiz<br>ing by paid company sta |
-| Tactic: Publicity, Declarations & Petitions<br>Resources Used:<br>• Specialist Labor<br>• Research & Information<br>• Grants & Financing | Positive Eects<br>• Raised pressure of citizen demands on municipal, state and national gov<br>ernment<br>• Grew movement participation and awareness across many populations but<br>increased opposition among some groups (mining communities in Baja)<br>• Increased volunteer participation and entry of voices of movement leaders<br>in media coverage<br>• Created alternative site of "citizens' policy" to inform policy-making pro<br>cesses<br>Negative Eects<br>• Increased risk to individual activists from public exposure |
-| Tactic: Public Marches & Demonstrations<br>Resources Used:<br>• Volunteer Labor<br>• Specialist Labor<br>• Cash & In-kind Contributions | Positive Eects<br>• Enabled movements to demonstrate wide public support<br>• Shared identication with the resistance movement across communities<br>• Increased support of local government and made state government "pay<br>attention"<br>• Grew public participation and raised awareness |
-| Tactic: Use of Institutional Government<br>Processes<br>Resources Used:<br>• Volunteer Labor<br>• Specialist Labor<br>• Research & Information | Positive Eects<br>• Exposed the issue and promoted public accountability of municipal, state<br>and national ocials and agencies, eventually forcing them to take posi<br>tions<br>• Allowed passive allies (business and associations) to identify with the<br>movement<br>• Mobilized power of courts<br>• Tied up opposition in court and with additional research requirements<br>Negative Eects<br>• Early success with legal challenges may have delayed grassroots organiz<br>ing in Sinaloa |
-| Tactic: Blockade of Roads & Occupation of<br>Airports (Baja)<br>Resources Used:<br>• Volunteer Labor<br>• Cash & In-kind Contributions | Positive Eects<br>• Display of power energized core activists<br>• Inuenced government ocials, including state governor and the new<br>president |
+| Tactic: Community Dialogues & Organizing
+Resources Used:
+• Specialist Labor
+• Research & Information
+• Grants & Financing | Positive Eects
+• Established and strengthened cross-community constituencies
+• Built shared movement frames among diverse communities
+• Grew public participation and raised awareness
+Negative Eects
+• Reliance on volunteer labor made it dicult to counter opposition organiz
+ing by paid company sta |
+| Tactic: Publicity, Declarations & Petitions
+Resources Used:
+• Specialist Labor
+• Research & Information
+• Grants & Financing | Positive Eects
+• Raised pressure of citizen demands on municipal, state and national gov
+ernment
+• Grew movement participation and awareness across many populations but
+increased opposition among some groups (mining communities in Baja)
+• Increased volunteer participation and entry of voices of movement leaders
+in media coverage
+• Created alternative site of "citizens' policy" to inform policy-making pro
+cesses
+Negative Eects
+• Increased risk to individual activists from public exposure |
+| Tactic: Public Marches & Demonstrations
+Resources Used:
+• Volunteer Labor
+• Specialist Labor
+• Cash & In-kind Contributions | Positive Eects
+• Enabled movements to demonstrate wide public support
+• Shared identication with the resistance movement across communities
+• Increased support of local government and made state government "pay
+attention"
+• Grew public participation and raised awareness |
+| Tactic: Use of Institutional Government
+Processes
+Resources Used:
+• Volunteer Labor
+• Specialist Labor
+• Research & Information | Positive Eects
+• Exposed the issue and promoted public accountability of municipal, state
+and national ocials and agencies, eventually forcing them to take posi
+tions
+• Allowed passive allies (business and associations) to identify with the
+movement
+• Mobilized power of courts
+• Tied up opposition in court and with additional research requirements
+Negative Eects
+• Early success with legal challenges may have delayed grassroots organiz
+ing in Sinaloa |
+| Tactic: Blockade of Roads & Occupation of
+Airports (Baja)
+Resources Used:
+• Volunteer Labor
+• Cash & In-kind Contributions | Positive Eects
+• Display of power energized core activists
+• Inuenced government ocials, including state governor and the new
+president |
 
 #### **Community Dialogues and Organizing**
 
@@ -539,7 +745,7 @@ The impact on the movements was increased public support for their causes and gr
 
 As large projects with social and environmental consequences, all three projects were required by Mexican law to conduct environmental impact studies, hold public hearings and consultations, and obtain government approvals, especially in Indigenous territory Movement leaders recognized these moments in the formal processes as points of vulnerability for their opponents 13 Not only was approval at each stage not guaranteed, but these events also drew attention from the press and media and created an opportunity to disseminate messages more widely This was especially clear in the case of BCS, as movement mobilization around these events exposed and prevented backroom deals, forcing government ocials to be accountable Again, volunteer and specialist labor were important here, as were research and information on open-pit mining, water and the environment that were produced by the national and international NGOs involved, especially CEMDA and AIDA This case highlights that while most civil resistance tactics were deployed by the frontline organizations, support in institutional processes by NGOs which employed paid professionals using donor money, often from abroad, was a critical complement to local community organizing Without the demonstrations and publicity generated by communities, it is unlikely that a few NGOs could have stopped these projects The converse is also probable—without the support of technical information and professional communications, it is unlikely that local communities could have prevailed on their own
 
-<sup>13</sup> In the language of Resource Mobilization Theory, Mexico provides "political opportunities" for movements to make real change through government systems. This stands in contrast to some other countries where the level of repression or corruption is so high that institutional mechanisms are not likely paths to success.
+13 In the language of Resource Mobilization Theory, Mexico provides "political opportunities" for movements to make real change through government systems. This stands in contrast to some other countries where the level of repression or corruption is so high that institutional mechanisms are not likely paths to success.
 
 All three movements used the courts at dierent points in their trajectories The Sinaloa case showed that overreliance on the use of courts left the movement exposed to setbacks in the court Even worse, when the movement prevailed in court, it found that the company was able to go behind its back and induce community leaders to renounce their lawsuits, undermining the whole process In this case, reinvigorating its community organizing and education and its protest tactics proved crucial to defending fragile gains in court
 
@@ -563,7 +769,7 @@ As the planning for Las Cruces was underway in 2008, Pro-Regiones, a project at 
 
 After the meeting, Pro-Regiones began an extensive awareness-building campaign aimed at conducting community dialogues across the entire river basin region SeveralNGOs got involved including Nuiwari and Eco Justicia Nayarit (Eco Justice Nayarit), both of which work in the state on sustainable development issues, the Interamerican Association for
 
-<sup>14</sup> The US\$795 million plan has roots in the Northwest Hydraulic Plan (PLHINO), along with the Hydraulic Plan for the Northwest Gulf (PLHIGON) formulated in the 1970s, which considered large infrastructural investment to be the most eective path to regional development. The plan, which dates back more than 80 years, has already resulted in the construction of two major dams in the state (Aguamilpa and El Cajon) with a third La Yesca under construction (Dominguez Serrano, 2013).
+14 The US\$795 million plan has roots in the Northwest Hydraulic Plan (PLHINO), along with the Hydraulic Plan for the Northwest Gulf (PLHIGON) formulated in the 1970s, which considered large infrastructural investment to be the most eective path to regional development. The plan, which dates back more than 80 years, has already resulted in the construction of two major dams in the state (Aguamilpa and El Cajon) with a third La Yesca under construction (Dominguez Serrano, 2013).
 
 Environmental Defense (AIDA), the Mexican Center for Environmental Rights (CEMDA), and the Mexican Movement of People Aected by Dams and in Defense of Rivers (MAPDER)
 
@@ -579,13 +785,13 @@ I felt our livelihood was at immediate risk We rely on theow of the water into t
 
 The dialogues sparked resistance in communities in the three distinct regions through which the river wends The highlands, where Las Cruces would inundate some 5000 hectares, is the home and sacred territory18 of Cora (Nayeri), Tepehuan and Wixárika (Huichol) Indigenous peoples (Del Castillo, 2011; Moreno, 2015)
 
-<sup>15</sup> Ackerman and Merriman note that "building and maintaining unity is multifaceted, but the foremost aspect of doing so is developing a shared and inclusive vision for a civil resistance movement" (2014, p. 6).
+15 Ackerman and Merriman note that "building and maintaining unity is multifaceted, but the foremost aspect of doing so is developing a shared and inclusive vision for a civil resistance movement" (2014, p. 6).
 
-<sup>16</sup> Movement Interview. San Juan Corapan, Nayarit, Mexico, 27 May 2019.
+16 Movement Interview. San Juan Corapan, Nayarit, Mexico, 27 May 2019.
 
-<sup>17</sup> Movement Interview. Boca de Camuchin, Nayarit, Mexico, 28 Apr 2019.
+17 Movement Interview. Boca de Camuchin, Nayarit, Mexico, 28 Apr 2019.
 
-<sup>18</sup> The Muxatena in the San Pedro River basin, a rock formation, is considered a sacred site by the Nayeri. There, they celebrate Saint John's Day every June 24, with owers, traditional dress, music and dance. The Muxatena is also visited by Huicholes, Tepehuanos and Mexicanos (Méndez, 2014).
+18 The Muxatena in the San Pedro River basin, a rock formation, is considered a sacred site by the Nayeri. There, they celebrate Saint John's Day every June 24, with owers, traditional dress, music and dance. The Muxatena is also visited by Huicholes, Tepehuanos and Mexicanos (Méndez, 2014).
 
 ## ![](_page_42_Figure_0.jpeg)
 
@@ -595,7 +801,7 @@ Midway in its path, the river passes through the town of Tuxpan and a at landsca
 
 These dierent regions were threatened in dierent ways by the dam They had little experience in working together in a common struggle Both the coastal shers and the Indigenous peoples' communities, however, have long histories of struggling against state or elite repression Opposition to the dam brought the three regions together in common cause, thanks to the strategic work of NGOs, Pro-Regiones sta, and Indigenous and grassroots leaders
 
-<sup>19 33</sup> varieties of reptiles, eight amphibians, 52 mammals, 188 birds and 60 sh.
+19 33 varieties of reptiles, eight amphibians, 52 mammals, 188 birds and 60 sh.
 
 The Pro-Regiones strategy resulted in over 200 meetings and actions to publicize information about the Las Cruces project and its potential impacts 20 "This was arst step in bringing order and sense to the [movement's] activities "21 Pro-Regiones, Nuiwari and Eco Justicia are three organizations that convened many of these activities, but the movement began to draw on participation from more than two dozen local, national and international civil society organizations (some organizations mentioned in interviews are included in Table 5)
 
@@ -609,9 +815,9 @@ On July 9, 2009, an intercommunity council (Consejo Intercomunitario para el Des
 - 6 the most predictable scenario would be the dispossession of land and resources and a severe environmental crisis with negative productive, social and cultural impacts; and
 - 7 the "organized, coordinated and peaceful action of all the inhabitants of the region, will allow the government and the Nayarit society to be called upon to fully assume this great discussion and abide by its results" (Rodriguez et al, 2015)
 
-<sup>20</sup> These actions include radio appearances, information meetings and assemblies, conferences, round tables with specialists in ejidos (a local community government unit in Mexico), cooperatives, rural production associations and Indigenous communities with support of UNAM, WWF, FASOL and the Packard Foundation (Rodriguez et al, 2015).
+20 These actions include radio appearances, information meetings and assemblies, conferences, round tables with specialists in ejidos (a local community government unit in Mexico), cooperatives, rural production associations and Indigenous communities with support of UNAM, WWF, FASOL and the Packard Foundation (Rodriguez et al, 2015).
 
-<sup>21</sup> Movement Interview. Tuxpan, Nayarit, Mexico. 27 Apr 2019.
+21 Movement Interview. Tuxpan, Nayarit, Mexico. 27 Apr 2019.
 
 Table 5: Principal Organizations in the Free San Pedro River Movement
 
@@ -619,17 +825,21 @@ Table 5: Principal Organizations in the Free San Pedro River Movement
 |-----------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | TYPE OF ORGANIZATION | ACRONYM | NAME |
 | | | ENVIRONMENTAL RESEARCH AND ACTION |
-| Domestic NGO | CEMDA | Mexican Environmental Rights Center (Centro Mexicano de Derecho Ambi<br>ental) |
+| Domestic NGO | CEMDA | Mexican Environmental Rights Center (Centro Mexicano de Derecho Ambi
+ental) |
 | Domestic NGO | Pro-Regiones | Pro-Regiones |
 | Domestic NGO | Su Mar | Su Mar for Nature (Su Mar por la Natureza) |
 | Domestic NGO | Manglar | Mangrove Ecological Group (Grupo Ecológico el Manglar, A. C.) |
 | Domestic NGO | | Ecojustice Nayarit (Ecojusticia Nayarit) |
 | Domestic NGO | Nuiwari | Nuiwari, A. C. |
-| International NGO | AIDA | Interamerican Association for Environmental Defense (Asociación Interameri<br>cana por la Defensa Ambiental) |
+| International NGO | AIDA | Interamerican Association for Environmental Defense (Asociación Interameri
+cana por la Defensa Ambiental) |
 | International NGO | PPT | Permanent Peoples' Tribunal |
-| Network | MAPDER | Mexican Movement for People Aected by Dams and in Defense of Rivers<br>(Movimento Mexicano de Afectados por las Presas y en Defensa de los Rios) |
+| Network | MAPDER | Mexican Movement for People Aected by Dams and in Defense of Rivers
+(Movimento Mexicano de Afectados por las Presas y en Defensa de los Rios) |
 | University | UAN | Autonomous University of Nayarit (Universidad Autónoma de Nayarit) |
-| University | UNAM | National Autonomous University of Mexico (Universidad Nacional Autónoma<br>de México) |
+| University | UNAM | National Autonomous University of Mexico (Universidad Nacional Autónoma
+de México) |
 | University | UDG | University of Guadalajara (Universidad de Guadalajara) |
 | | | CONSERVATION |
 | International NGO | CI | Conservation International |
@@ -642,11 +852,13 @@ Table 5: Principal Organizations in the Free San Pedro River Movement
 | Domestic Foundation | FASOL | Action in Solidarity Fund (Fondo Acción Solidaria) |
 | International Foundation | Packard | David and Lucile Packard Foundation |
 | | | COMMUNITY ORGANIZING |
-| Network | | Intercommunity Council for the Sustainable Development of the San Pedro<br>River (Consejo Intercomunitario para el Desarrollo Sustentable de la Cuenca<br>del Río San Pedro) |
+| Network | | Intercommunity Council for the Sustainable Development of the San Pedro
+River (Consejo Intercomunitario para el Desarrollo Sustentable de la Cuenca
+del Río San Pedro) |
 
 Organizing gathered steam in 2009 as CFE was busy preparing an Environmental Impact Statement (Manifestación de Impacto Ambiental, MIA) as required by law to be submitted to the Ministry of Environment and Natural Resources (Secretaría de Medio Ambiente y Recursos Naturales, SEMARNAT) Table 5 shows the organizations that have come together in the movement
 
-National organizations telegraphed the concerns of the movement to a national audience AIDA, in alliance with Su Mar, Nuiwari, the Council, CEMDA and the Council Nayeri, created the website Defiende Muxatena<sup>22</sup> which provides information on the movement's campaigns With the Council acting as a host, the Mexican Movement of People Aected by Dams and in Defense of Rivers (MAPDER) held its national meeting in Los Reyes, Nayarit, from October 5 to 7, 2012, to draw attention to the struggle for the San Pedro
+National organizations telegraphed the concerns of the movement to a national audience AIDA, in alliance with Su Mar, Nuiwari, the Council, CEMDA and the Council Nayeri, created the website Defiende Muxatena22 which provides information on the movement's campaigns With the Council acting as a host, the Mexican Movement of People Aected by Dams and in Defense of Rivers (MAPDER) held its national meeting in Los Reyes, Nayarit, from October 5 to 7, 2012, to draw attention to the struggle for the San Pedro
 
 Those with whom we spoke told us of a number of public demonstrations One person counted at least two large demonstrations with as many as 5,000 people and three smaller protests in Tuxpan, Tepic, and even far away in Guadalajara in the neighboring Jalisco state The protest in Tuxpan on September 9, 2012, brought together over 2,000 people carrying signs and marching through the streets to demonstrate their solidarity against the dam) Resistance also took the form of discouraging researchers from entering the territories to do eldwork for the MIA Those we interviewed, however, believe these researchers ignored their warnings and came anyway 23
 
@@ -656,11 +868,11 @@ At this point Mexican law required the company to hold public meetings with Indi
 
 The tension in the region was high in September of 2014, when SEMARNAT announced that it was authorizing the MIA, giving CFE the permission it needed to move forward (Somselmedia, 2019) In the central plaza of San Pedro Ixcatan, a crowd of around 500 heard the CFE research team cite a total of 33 consultations with Indigenous peoples' representatives It explained (again) that the dam was essential to expand electricity production to meet
 
-<sup>22</sup> **https://deendemuxatena.wordpress.com/**.
+22 **https://deendemuxatena.wordpress.com/**.
 
-<sup>23</sup> Movement Interviews: Boca de Camuchin, Nayarit, Mexico, 28 Apr 2019, and San Juan Corapan, Nayarit, Mexico, 27 May 2019.
+23 Movement Interviews: Boca de Camuchin, Nayarit, Mexico, 28 Apr 2019, and San Juan Corapan, Nayarit, Mexico, 27 May 2019.
 
-<sup>24</sup> In Rosarito, ocials arrived "without announcement" to get the community to sign a call for an extraordinary general assembly that would give consent for the expropriation of its land (Méndez 2014).
+24 In Rosarito, ocials arrived "without announcement" to get the community to sign a call for an extraordinary general assembly that would give consent for the expropriation of its land (Méndez 2014).
 
 increased energy demand in the future 25 Participants learned as well that SEMARNAT was attaching conditions One of these was for CFE to produce a social impact assessment in compliance with Mexico's Electricity Industry Law 26 As of the time of writing this assessment has not been carried out
 
@@ -671,29 +883,47 @@ Table 6: Timeline of the Free San Pedro River Movement
 | TIMELINE OF THE FREE SAN PEDRO RIVER MOVEMENT | | |
 |-----------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------|
 | 2008 | | Pro Regiones Meeting at UAN |
-| | 23 Oct | 1st CFE, UDG, UAN agreement to conduct<br>environmental impact study |
-| 2009 | 19 Jul | Intercommunity council (Consejo Intercomu<br>nitario para el Desarrollo Sustentable de la<br>Cuenca del Río San Pedro) established |
-| | 4 Nov | 2nd CFE, UDG, UAN for environmental impact<br>study |
-| 2010 | 12 May | Reserva de la Biosfera de las Marismas Nacio<br>nales created |
-| | By Dec | > 200 community dialogues took place with<br>various specialists and CSOs |
-| 2012 | April | Incorporation of the Comite de Comunidades<br>Nayeri, strategic alliance with the Consejo<br>Wixaricka |
-| | Oct 6/7 | IX Encuentro Nacional del Mapder in Presido<br>de los Reyes – "All voices: free rivers!" |
-| | January | Declaration reached more than 5000 signa<br>tures |
-| | Sep 9 | Public demonstration of about 2000 people in<br>the city of Tuxpan |
-| 2013 | Dec 9 | CFE submitted Environmental Impact State<br>ment to SEMARNAT |
+| | 23 Oct | 1st CFE, UDG, UAN agreement to conduct
+environmental impact study |
+| 2009 | 19 Jul | Intercommunity council (Consejo Intercomu
+nitario para el Desarrollo Sustentable de la
+Cuenca del Río San Pedro) established |
+| | 4 Nov | 2nd CFE, UDG, UAN for environmental impact
+study |
+| 2010 | 12 May | Reserva de la Biosfera de las Marismas Nacio
+nales created |
+| | By Dec | > 200 community dialogues took place with
+various specialists and CSOs |
+| 2012 | April | Incorporation of the Comite de Comunidades
+Nayeri, strategic alliance with the Consejo
+Wixaricka |
+| | Oct 6/7 | IX Encuentro Nacional del Mapder in Presido
+de los Reyes – "All voices: free rivers!" |
+| | January | Declaration reached more than 5000 signa
+tures |
+| | Sep 9 | Public demonstration of about 2000 people in
+the city of Tuxpan |
+| 2013 | Dec 9 | CFE submitted Environmental Impact State
+ment to SEMARNAT |
 | | Feb 20 | Public information meeting. San Pedro Ixcatan |
-| 2014 | Jan 19 | Anti-dam cultural march and demonstration in<br>Tepic |
-| | Sep 28 | SEMARNAT authorized Environmental Impact<br>Statement for Las Cruces Dam |
-| 2017 | May 23 | The Wixarika led a request for protection<br>against SEMARNAT, Conagua and CFE |
-| | May 28 | Wixárikas y Náyeris met in Rosarita to launch<br>the Keiyatsita Declaration |
-| 2018 | April | AIDA presented Amicus brief in support of<br>Wixarika request for protection |
-| 2019 | February | Diverse groups asked president to retire the<br>Las Cruces project |
+| 2014 | Jan 19 | Anti-dam cultural march and demonstration in
+Tepic |
+| | Sep 28 | SEMARNAT authorized Environmental Impact
+Statement for Las Cruces Dam |
+| 2017 | May 23 | The Wixarika led a request for protection
+against SEMARNAT, Conagua and CFE |
+| | May 28 | Wixárikas y Náyeris met in Rosarita to launch
+the Keiyatsita Declaration |
+| 2018 | April | AIDA presented Amicus brief in support of
+Wixarika request for protection |
+| 2019 | February | Diverse groups asked president to retire the
+Las Cruces project |
 
 In mid-2017, members of the Wixárikaled a request for an injunction (amparo) against CFE and the national water agency (Conagua) arguing the dam project was a violation of their rights They stressed Mexico's need to comply with international treaties and the
 
-<sup>25</sup> In San Pedro Ixcatan, representatives of CFE and state government showed up with armed guards on Dec 15 to make a request for the community to allow CFE to carry out technical studies around land use changes and compensation (Del Castillo, 2013).
+25 In San Pedro Ixcatan, representatives of CFE and state government showed up with armed guards on Dec 15 to make a request for the community to allow CFE to carry out technical studies around land use changes and compensation (Del Castillo, 2013).
 
-<sup>26</sup> Condition I required CFE to comply with Article 20 of the Electricity Industry Law to present a social impact assessment providing an assessment of social impacts and its plans to mitigate them.
+26 Condition I required CFE to comply with Article 20 of the Electricity Industry Law to present a social impact assessment providing an assessment of social impacts and its plans to mitigate them.
 
 irreparable damage the dam would inict on their cultural, social and economic well-being In the same week, the Wixárika and Nayeris launched the Keiyatsita Declaration, which acknowledged the responsibility of both peoples as guardians of sacred places The next year, AIDA supported the Wixárika request for protection by submitting an amicus, or "friend of the court" brief, noting that the dam would be in contravention to six international treaties27 to which Mexico is a party (Sin Embargo, 2018)
 
@@ -707,11 +937,11 @@ For us it was triumph that the dam is not being constructed Thanks to our work w
 
 What material resources—goods, labor and money—did the movement mobilize for its activities? What capabilities did it need to mobilize them? And when did the resources help or hinder the movement? Movement leaders assessed what resources were available to them and what power they had in the face of government control and the ever-present risk of
 
-<sup>27</sup> For example, Convention 169 of the International Labor Organization requires free, prior and informed consent of communities that will be aected by large scale development projects.
+27 For example, Convention 169 of the International Labor Organization requires free, prior and informed consent of communities that will be aected by large scale development projects.
 
-<sup>28</sup> A recent article rumors that work is about to begin on the foundations of the dam (Aguilar, 2019).
+28 A recent article rumors that work is about to begin on the foundations of the dam (Aguilar, 2019).
 
-<sup>29</sup> Movement Interview. Tuxpan, Nayarit, Mexico, 27 Apr 2019.
+29 Movement Interview. Tuxpan, Nayarit, Mexico, 27 Apr 2019.
 
 violence against them From this assessment they developed a variety of nonviolent strategies and tactics We identied four tactical areas of resistance activities in the twelve-year struggle:
 
@@ -728,11 +958,89 @@ Table 7 summarizes what resources were mobilized and what they were used for The
 
 Table 7: Resource Mobilization Matrix—Free San Pedro River Movement
 
-| RESOURCES MOBILIZED IN<br>SUPPORT OF KEY MOVEMENT<br>TACTICS | STRATEGIC CAPABILITIES<br>NEEDED | IMPACT ON MOVEMENT<br>CHANCES OF SUCCESS |
+| RESOURCES MOBILIZED IN
+SUPPORT OF KEY MOVEMENT
+TACTICS | STRATEGIC CAPABILITIES
+NEEDED | IMPACT ON MOVEMENT
+CHANCES OF SUCCESS |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Tactic: Community Dialogues<br>1.<br>Specialist Labor<br>Academics & NGOs connected<br>with Pro-Regiones<br>2.<br>Research & Information<br>Impact of dams in general and<br>potential impacts in Nayarit as<br>brought by academics & NGOs<br>3.<br>Grants & Financing<br>University & NGO budgets &<br>8 small grants from FASOL | Unity<br>Those who participated in the Pro-Re<br>giones meeting had a shared analysis<br>that dam project posed a threat to<br>communities on the river.<br>Strategy<br>Pro-Regiones meeting conceived a<br>focused information and dialogue cam<br>paign as shared strategy of participating<br>groups. | Creation of an intercommunity<br>constituency along the river as a civil<br>resistance movement. |
-| Tactic: Publicity, Declarations &<br>Petitions<br>1.<br>Specialist Labor<br>Communications and legal sta<br>from collaborating organizations<br>2.<br>Research & Information<br>Videos, communications<br>equipment & information on the<br>potential impacts of dams<br>3.<br>Grants & Financing<br>NGO budgets & 2 small grants<br>from FASOL | Unity<br>Council's ability to craft a unied mes<br>sage for national & local groups with in<br>tersecting objectives. Some divergence<br>of objectives with WWF.<br>Strategy<br>Council's elucidation of a civil resistance<br>strategy against the dam project. | Increased volunteer participation and<br>entry of voices of community leaders<br>in media coverage. Raised awareness<br>on national level of struggle. |
-| Tactic: Public Marches &<br>Demonstrations<br>1.<br>Volunteer Labor<br>More than 5000 volunteers<br>2.<br>Specialist Labor<br>Sta & representatives from<br>collaborating organizations<br>3.<br>Cash & In-kind Contributions<br>Demonstration space, plac<br>ards, banners, transport & food<br>contributed by volunteers or by<br>collaborating organizations | Unity<br>Coordination & implementation capacity<br>by Council & collaborating organizations<br>to mobilize volunteers from highland,<br>plains and coastal communities.<br>Nonviolent Discipline<br>No evidence of violence in any of the<br>public demonstrations. | Shared identication with the resis<br>tance movement across highlands,<br>plains and coastal communities.<br>Increased support of local government<br>and made state government "pay<br>attention." |
+| Tactic: Community Dialogues
+1.
+Specialist Labor
+Academics & NGOs connected
+with Pro-Regiones
+2.
+Research & Information
+Impact of dams in general and
+potential impacts in Nayarit as
+brought by academics & NGOs
+3.
+Grants & Financing
+University & NGO budgets &
+8 small grants from FASOL | Unity
+Those who participated in the Pro-Re
+giones meeting had a shared analysis
+that dam project posed a threat to
+communities on the river.
+Strategy
+Pro-Regiones meeting conceived a
+focused information and dialogue cam
+paign as shared strategy of participating
+groups. | Creation of an intercommunity
+constituency along the river as a civil
+resistance movement. |
+| Tactic: Publicity, Declarations &
+Petitions
+1.
+Specialist Labor
+Communications and legal sta
+from collaborating organizations
+2.
+Research & Information
+Videos, communications
+equipment & information on the
+potential impacts of dams
+3.
+Grants & Financing
+NGO budgets & 2 small grants
+from FASOL | Unity
+Council's ability to craft a unied mes
+sage for national & local groups with in
+tersecting objectives. Some divergence
+of objectives with WWF.
+Strategy
+Council's elucidation of a civil resistance
+strategy against the dam project. | Increased volunteer participation and
+entry of voices of community leaders
+in media coverage. Raised awareness
+on national level of struggle. |
+| Tactic: Public Marches &
+Demonstrations
+1.
+Volunteer Labor
+More than 5000 volunteers
+2.
+Specialist Labor
+Sta & representatives from
+collaborating organizations
+3.
+Cash & In-kind Contributions
+Demonstration space, plac
+ards, banners, transport & food
+contributed by volunteers or by
+collaborating organizations | Unity
+Coordination & implementation capacity
+by Council & collaborating organizations
+to mobilize volunteers from highland,
+plains and coastal communities.
+Nonviolent Discipline
+No evidence of violence in any of the
+public demonstrations. | Shared identication with the resis
+tance movement across highlands,
+plains and coastal communities.
+Increased support of local government
+and made state government "pay
+attention." |
 
 The movement made use of allve types of material resources identied in the monograph introduction (see Table 2): Volunteer Labor, Specialist Labor (including skills and knowledge), Cash & In-Kind Contributions, Research & Information, and Grants & Financing These resources were mobilized after the strategy and plans for resistance tactics became clear In each instance, movement leaders focused on these tactics and not on the material resources that were required for them The following sections elaborate on the ndings summarized in Table 7 to draw observations on resistance tactics from interviews with movement leaders It considers how and why material resources were transformed into movement goods and applied to tactics, and what this meant for the success of movement campaigns and objectives
 
@@ -744,17 +1052,48 @@ Academics and NGO sta(**specialist labor**) from the Pro-Regiones project at UNA
 
 Table 8: FASOL Community Dialogue Grants in Nayarit
 
-| | COMMUNITY DIALOGUES  GRANTS FROM FASOL<br>20102013 | | |
+| | COMMUNITY DIALOGUES  GRANTS FROM FASOL
+20102013 | | |
 |------|--------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|--|
 | YEAR | ORGANIZATION | PROJECT | |
-| 2010 | Nuiwari A. C. | Las Cruces information &<br>awareness-building campaign | |
-| 2010 | Delegation of<br>groups | Participation of Nayarit<br>groups in the MAPDER meet<br>ing "Rivers for Life" | |
-| 2011 | Nuiwari A. C. | Las Cruces information and<br>awareness-building campaign<br>in Nayeri and Wirárika com<br>munities | |
-| 2011 | Community com<br>mittees from San<br>Pedro Ixcatan and<br>San Juan Corapan | Exchange of experiences<br>among dam-aected com<br>munities to strengthen and<br>improve grassroots strategies | |
-| 2011 | Intercommunity<br>Council for the<br>Sustainable Devel<br>opment of the San<br>Pedro River Basin | Dissemination of information<br>on the Las Cruces Project | |
-| 2011 | Indigenous<br>Committee for the<br>Defense of the<br>People | Meeting of Indigenous com<br>munities for the organization<br>of the original people | |
-| 2011 | Pro-Regiones | Social environmental study in<br>the basin of the San Pedro<br>Mezquital River | |
-| 2013 | Community of<br>Dialogue and<br>Knowledge | Environmental awareness<br>building in the Presidio of<br>Los Reyes, in the municipality<br>of Ruiz, Nayarit | |
+| 2010 | Nuiwari A. C. | Las Cruces information &
+awareness-building campaign | |
+| 2010 | Delegation of
+groups | Participation of Nayarit
+groups in the MAPDER meet
+ing "Rivers for Life" | |
+| 2011 | Nuiwari A. C. | Las Cruces information and
+awareness-building campaign
+in Nayeri and Wirárika com
+munities | |
+| 2011 | Community com
+mittees from San
+Pedro Ixcatan and
+San Juan Corapan | Exchange of experiences
+among dam-aected com
+munities to strengthen and
+improve grassroots strategies | |
+| 2011 | Intercommunity
+Council for the
+Sustainable Devel
+opment of the San
+Pedro River Basin | Dissemination of information
+on the Las Cruces Project | |
+| 2011 | Indigenous
+Committee for the
+Defense of the
+People | Meeting of Indigenous com
+munities for the organization
+of the original people | |
+| 2011 | Pro-Regiones | Social environmental study in
+the basin of the San Pedro
+Mezquital River | |
+| 2013 | Community of
+Dialogue and
+Knowledge | Environmental awareness
+building in the Presidio of
+Los Reyes, in the municipality
+of Ruiz, Nayarit | |
 
 the specialist labor and some project costs came from the institutional budgets of the participating groups: Pro-Regiones, Nuiwari, Eco Justicia and Manglar Movement leaders said they were unaware of many grants raised directly for this work, however, they believed support from the David and Lucile Packard Foundation and the World Wildlife Fund to these NGOs for their environmental work in general was important FASOL also provided eight small grants for more direct support of movement activities (see Table 8), facilitated by a "mentor " FASOL mentors are volunteers who are familiar with the work of the community groups and bring them to FASOL for grants They also monitor and mentor grantees as they implement the projects
 
@@ -772,7 +1111,7 @@ Publicity campaigns relied largely on press interviews given by members connecte
 
 As the community dialogues progressed from 2009 to 2011, the **specialist labor** of academics and NGOs was joined by new voices of community leaders from up and down the river expressing resistance against the Las Cruces project Twenty communities (including Rosamorada, Ruiz, El Nayar, Acaponeta, Tuxpan, and Santiago) from upstream down to the
 
-<sup>30</sup> Movement Interview. Tuxpan, Nayarit, Mexico, 27 Apr 2019.
+30 Movement Interview. Tuxpan, Nayarit, Mexico, 27 Apr 2019.
 
 coast expressed opposition to the project at meetings held with CFE and other authorities in their communities
 
@@ -782,13 +1121,13 @@ Monetary support (**nancing and grants**) for communications activities came fro
 
 In terms of **capabilities**, the establishment of the Council was key for its members to craft **unied** opposition messages, making it possible for collaborating organizations (Eco Justicia, Manglar, Nuiwari, Pro-Regiones and the local Indigenous councils andshing cooperative) to mobilize volunteer labor with a consistent message The communications advocacy capabilities brought by communications stafrom AIDAandCEMDAenabled delivery of movement petitions and communications directly to government oces or national press that resulted in press coverage Some divergence in the objectives around the movement reduced the clarity of its message but it is unclear if this had any eect on the ability to mobilize volunteers or media Many movement leaders mentioned that they believed WWF was driven by
 
-<sup>31</sup> A google search in July of 2019 produces 126 news articles and 315 uploaded videos on the impacts of CFE's Las Cruces project in Nayarit.
+31 A google search in July of 2019 produces 126 news articles and 315 uploaded videos on the impacts of CFE's Las Cruces project in Nayarit.
 
-<sup>32</sup> Rio San Pedro Mezquital Libre at **https://www.facebook.com/riosanpedro.mezquitallibre**
+32 Rio San Pedro Mezquital Libre at **https://www.facebook.com/riosanpedro.mezquitallibre**
 
-<sup>33</sup> **https://deendemuxatena.wordpress.com/**
+33 **https://deendemuxatena.wordpress.com/**
 
-<sup>34</sup> Examples: **https://www.youtube.com/watch?v=lq OkW1vY6aQ**or **https://www.youtube.com/watch?v=5CtjmvAEufw**
+34 Examples: **https://www.youtube.com/watch?v=lq OkW1vY6aQ**or **https://www.youtube.com/watch?v=5CtjmvAEufw**
 
 ## ![](_page_53_Picture_0.jpeg)
 
@@ -810,7 +1149,7 @@ demonstrations, but they estimated between four to six public protests were held
 
 In this period, public marches against the dam were held in Tuxpan and Tepic (the capital of Nayarit) The protest in Tuxpan in September of 2013 brought together hundreds of people and closed o several streets Figure 10 illustrates how movement leaders organized the September 2014 Tuxpan demonstration by mobilizing information, people, civic space, materials, and transportation, transforming them into messages, volunteers and specialist labor, and a protest space The application became a well-organized protest that increased visibility
 
-<sup>35</sup> Movement Interview: Presidio de Reyes, Nayarit, Mexico, 27 Apr 2019.
+35 Movement Interview: Presidio de Reyes, Nayarit, Mexico, 27 Apr 2019.
 
 for the movement in local and state government and their ability to mobilize even more volunteers
 
@@ -826,7 +1165,7 @@ Fishing communities and Indigenous peoples largely led the resistance But the Co
 
 Movement leaders mentioned that key **impacts** of the thousands of volunteers who participated in public demonstrations were the strengthened commitment of communities to
 
-<sup>36</sup> He also said the Nayarit state government was asked to provide permission for the assemblies but refused (several interviewees suggested that the governor of the time was benetting from the dam project). By 2016, Governor Roberto Sandoval is quoted as saying in reference to Las Cruces, "…some political actors have complicated the great projects that Nayarit has to move forward." He pledged to visit CFE to ensure that development is not halted, despite the dam having been removed from its slate of priority projects at that time because of budgetary constraints (Carvajal 2020).
+36 He also said the Nayarit state government was asked to provide permission for the assemblies but refused (several interviewees suggested that the governor of the time was benetting from the dam project). By 2016, Governor Roberto Sandoval is quoted as saying in reference to Las Cruces, "…some political actors have complicated the great projects that Nayarit has to move forward." He pledged to visit CFE to ensure that development is not halted, despite the dam having been removed from its slate of priority projects at that time because of budgetary constraints (Carvajal 2020).
 
 a shared cause across the highlands, plains and coastal areas and the increased visibility with the government The protests provided an opportunity beyond the smaller dialogues for communities to share the struggle for the river, "And the government paid attention The marches were critical points in building the visibility for the movement "37 One movement leader said the ability to work together and learn from each other had not only strengthened his organization's activities but that it had benetted him with ideas for new projects and economic activities 38
 
@@ -836,11 +1175,11 @@ In another way, although the protests alone were not successful in forcing CFE a
 
 The Free San Pedro River Movement has not yet succeeded in winning conclusive protections for the river, but it has had important outcomes The mobilization of volunteers from all along the river has built a strong movement core and linked the highlands, plains and coastal communities that had little understanding of each other And even within these areas, it has built capacity for dierent groups to work together This is especially interesting among the
 
-<sup>37</sup> Movement Interview. Tuxpan, Nayarit, Mexico, 27 Apr 2019.
+37 Movement Interview. Tuxpan, Nayarit, Mexico, 27 Apr 2019.
 
-<sup>38</sup> Movement Interview. Presidio de Reyes, Nayarit, Mexico, 27 Apr 2019.
+38 Movement Interview. Presidio de Reyes, Nayarit, Mexico, 27 Apr 2019.
 
-<sup>39 &</sup>quot;…since a 188-meter curtain is planned to be built within their sacred territory in the San Pedro River basin that will impact more than 4500 hectares, and will completely and irreversibly modify the hydrography, the morphology, the sediments and minerals, and the fauna and ora of their ancestral territory that they access to carry out their cultural and spiritual traditions" (CEMDA, 2017).
+39 &quot;…since a 188-meter curtain is planned to be built within their sacred territory in the San Pedro River basin that will impact more than 4500 hectares, and will completely and irreversibly modify the hydrography, the morphology, the sediments and minerals, and the fauna and ora of their ancestral territory that they access to carry out their cultural and spiritual traditions" (CEMDA, 2017).
 
 Indigenous groups who are often fractured and yet, through their work in the movement, were able to craft the joint statement of the Wixárika and Nayeri peoples
 
@@ -876,7 +1215,7 @@ From 2009 to 2019, over 50 organizations40 have been involved in the movement, a
 
 This concern for condentiality arises from the clear threats associated with speaking out against private interests Violence is always a possibility—across the country, there were over 30,000 murders in 2017 alone (Turak, 2019), some of those targeting activists and
 
-<sup>40</sup> This is a count of organizations identied in interviews, movement documents and newspaper articles.
+40 This is a count of organizations identied in interviews, movement documents and newspaper articles.
 
 politicians Many activists report facing harassment and threats (SDPNoticias, 2015) This violence was a major motivator in sticking to nonviolent strategies and tactics 41
 
@@ -888,7 +1227,7 @@ It seemed that every time the movement made headway the company was able to chan
 
 A dense network of NGOs and community-based organizations worked together in the Movement against Toxic Mining in the region over the last decade (Mejia en la Paz, 2010) Table 9 shows the scope and type of organizations that were involved FRECIUDAV (the Frente Ciudadano en Defense del Agua y la Vida de BCS, or the Citizens' Front in Defense of Water and Life) became the main coordinating body of this network It helps to coordinate civil resistance, communications and policy activities of the movement It claims more than 30 collaborating organizations but does not release the names or contact information of the individuals it coordinates
 
-<sup>41</sup> One illustrative example of the dangers of organizing is the case of David Sosa Perez, who was the spokesperson for SOS. He disappeared in October 2011, leaving a wife and children behind, after speaking out against the mine. He has not been seen since (Olson, 2011). There are no details or clues as to his fate, or whether or not his disappearance was related to his work on the campaign.
+41 One illustrative example of the dangers of organizing is the case of David Sosa Perez, who was the spokesperson for SOS. He disappeared in October 2011, leaving a wife and children behind, after speaking out against the mine. He has not been seen since (Olson, 2011). There are no details or clues as to his fate, or whether or not his disappearance was related to his work on the campaign.
 
 Table 9: Principal Organizations in the Movement Against Toxic Mining
 
@@ -900,15 +1239,22 @@ Table 9: Principal Organizations in the Movement Against Toxic Mining
 | International Foundation | ICF | International Community Foundation | | | |
 | International Foundation | Packard | David and Lucile Packard Foundation | | | |
 | | ENVIRONMENTAL RESEARCH AND ACTION | | | | |
-| International NGO | AIDA | Interamerican Association for Environmental Defense (Asociación<br>Interamericana por la Defensa Ambiental) | | | |
-| Domestic NGO | CEMDA | Mexican Environmental Rights Center (Centro Mexicano de Derecho<br>Ambiental) | | | |
+| International NGO | AIDA | Interamerican Association for Environmental Defense (Asociación
+Interamericana por la Defensa Ambiental) | | | |
+| Domestic NGO | CEMDA | Mexican Environmental Rights Center (Centro Mexicano de Derecho
+Ambiental) | | | |
 | International NGO | | Mining Watch Canada | | | |
-| Domestic Network | REMA | Mexican Network of People Aected by Mining (Red Mexicana de<br>Afectados por la Minereria) | | | |
+| Domestic Network | REMA | Mexican Network of People Aected by Mining (Red Mexicana de
+Afectados por la Minereria) | | | |
 | Domestic NGO | | Water is Worth More than Gold (Agua Vale más que el Oro) | | | |
-| Network (Campaign Coordi<br>nation) | FRECIUDAV | Frente Ciudadano en Defense del Agua y la Vida de BCS<br>Citizen's Front in Defense of Water and Life of BCS (Frente Ciudadano<br>en Defense del Agua y la Vida de BCS) | | | |
+| Network (Campaign Coordi
+nation) | FRECIUDAV | Frente Ciudadano en Defense del Agua y la Vida de BCS
+Citizen's Front in Defense of Water and Life of BCS (Frente Ciudadano
+en Defense del Agua y la Vida de BCS) | | | |
 | Domestic NGO | MAS | Environment and Society (Medio Ambiente y Sociedad) | | | |
 | Domestic NGO | Niparajá | Natural History Society Niparajá (Sociedad de Historia Natural Niparajá) | | | |
-| Domestic NGO | SOS | Society Organized for South California (Sociedad Organizada por<br>Sudcalifornia) | | | |
+| Domestic NGO | SOS | Society Organized for South California (Sociedad Organizada por
+Sudcalifornia) | | | |
 
 With the exception of FRECIUDAV, opposition to Los Cardones or mining in general in the peninsula is not a primary activity of any of these groups, although it oftents with the mission of the environmental NGOs and CBOs in the region Because opposition to mining is risky, civil resistance activities appear to have been largely conducted as performances that highlight the central messages about the dangers of toxic mining without highlighting individuals Important fact sheets often reveal no authorship They are disseminated as seemingly decentralized public opposition at public meetings They are also found on websites and a robust Facebook page42 in which the movement has largely the appearance of a many-headed hydra
 
@@ -916,7 +1262,7 @@ With the exception of FRECIUDAV, opposition to Los Cardones or mining in general
 
 Opposition to the mining project appears to predate the 2011 protests, although in this study we have focused on the campaigns and activities after that time Table 10 gives a timeline of key activities
 
-<sup>42</sup> No to Mega Mining (No a la Mineria Mega), see **https://www.facebook.com/No Mega MinasBCS**.
+42 No to Mega Mining (No a la Mineria Mega), see **https://www.facebook.com/No Mega MinasBCS**.
 
 By far the most intense period was in 2014 and 2015 For 37 days in April and May of 2014, over 300 protesters camped out at the steps of the governor's palace and the La Paz municipal oces (municipalities are legal divisions in Mexico roughly equivalent to counties) to demand the revocation of gold mining concessions the municipality had recently granted in addition to 33 other mining concessions (Ibarra Mesa, 2019)
 
@@ -926,21 +1272,49 @@ Table 10: Timeline of the Movement Against Toxic Mining
 
 | | | TIMELINE OF THE MOVEMENT AGAINST TOXIC MINING |
 |---------------|----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1978/<br>2009 | | Echo Bay (Canada) opened 150 ha gold min<br>ing project in BCS as Paredones Amarillos.<br>Project was rejected by SEMARNAT & state<br>government twice, the 2nd time as Proyecto<br>Concordia. |
-| 2009 | | First call to action of civil society in Todos<br>Santos and Pescadero. Water is Worth More<br>than Gold. Environment and Society estab<br>lished. |
-| 2011 | | Vista Gold sold to Invecture Group and its<br>subsidiary Desarrollo Zapal S. A. of C. V. Per<br>mits reactivated. |
-| | March/<br>October | SOS's David Sosa Perez published complaint<br>in La Jornada. He disappears on October 24. |
+| 1978/
+2009 | | Echo Bay (Canada) opened 150 ha gold min
+ing project in BCS as Paredones Amarillos.
+Project was rejected by SEMARNAT & state
+government twice, the 2nd time as Proyecto
+Concordia. |
+| 2009 | | First call to action of civil society in Todos
+Santos and Pescadero. Water is Worth More
+than Gold. Environment and Society estab
+lished. |
+| 2011 | | Vista Gold sold to Invecture Group and its
+subsidiary Desarrollo Zapal S. A. of C. V. Per
+mits reactivated. |
+| | March/
+October | SOS's David Sosa Perez published complaint
+in La Jornada. He disappears on October 24. |
 | 2012 | | CEMDA and Niparaja engaged. |
-| | Feb 15 | Vista Gold sold 60% of its shares to Invecture<br>Group through Desarollo Zapal. |
-| 2014 | Jan 9 | SEMARNAT public meeting responding to<br>citizen pressure. |
-| | April/May | 300+ demonstrated for 37 days at Govern<br>ment Palace and the Municipal Palace of La<br>Paz. City Council and Mayor signed pledge to<br>give no mining permits. |
-| | Sept 2 | Kayakers demonstration in La Paz against<br>mining. |
+| | Feb 15 | Vista Gold sold 60% of its shares to Invecture
+Group through Desarollo Zapal. |
+| 2014 | Jan 9 | SEMARNAT public meeting responding to
+citizen pressure. |
+| | April/May | 300+ demonstrated for 37 days at Govern
+ment Palace and the Municipal Palace of La
+Paz. City Council and Mayor signed pledge to
+give no mining permits. |
+| | Sept 2 | Kayakers demonstration in La Paz against
+mining. |
 | | Sept 12 | The Pact of Todos Santos. |
-| | August | SEMARNAT received negative opinion from<br>the Protected Areas Commission. |
-| 2015 | August | Public information meeting held in La Paz. 60<br>representatives of groups oppose. |
-| | Sept 23 –<br>Sept 26 | 100+ residents of Todos Santos blocked<br>Transpeninsular Highway at Pescadero. Over<br>three days, protestors occupy airports in Cabo<br>& La Paz. Government of BCS rejects mining<br>agreement of La Paz. |
-| 2018 | March | Federal judge in Mexico City ordered recogni<br>tion of land use changes. |
-| 2019 | March | President announced cancellation of Los<br>Cardones project at launch of water desalini<br>zation plant in Cabo San Jose. |
+| | August | SEMARNAT received negative opinion from
+the Protected Areas Commission. |
+| 2015 | August | Public information meeting held in La Paz. 60
+representatives of groups oppose. |
+| | Sept 23 –
+Sept 26 | 100+ residents of Todos Santos blocked
+Transpeninsular Highway at Pescadero. Over
+three days, protestors occupy airports in Cabo
+& La Paz. Government of BCS rejects mining
+agreement of La Paz. |
+| 2018 | March | Federal judge in Mexico City ordered recogni
+tion of land use changes. |
+| 2019 | March | President announced cancellation of Los
+Cardones project at launch of water desalini
+zation plant in Cabo San Jose. |
 
 sentatives to oppose the mine and connects the movement in La Paz to a national movement against transnational and national corporate predators that violate the constitution, human rights and treaties signed by Mexico (Pact of Todos Santos, 2014)
 
@@ -974,12 +1348,133 @@ ings, produce a variety of communications materials like artwork and social medi
 
 Table 11: Resource Mobilization Matrix—Movement Against Toxic Mining
 
-| RESOURCES MOBILIZED IN SUPPORT<br>OF KEY MOVEMENT TACTICS | STRATEGIC CAPABILITIES<br>NEEDED | IMPACT ON MOVEMENT<br>CHANCES OF SUCCESS |
+| RESOURCES MOBILIZED IN SUPPORT
+OF KEY MOVEMENT TACTICS | STRATEGIC CAPABILITIES
+NEEDED | IMPACT ON MOVEMENT
+CHANCES OF SUCCESS |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Tactic: Publicizing Dissent<br>1.<br>Specialist Labor<br>50+ organizations & individuals writ<br>ing & producing art or videos<br>2.<br>Cash & In-kind Contributions<br>Facebook page, computers, mural<br>walls, video equipment<br>3.<br>Research & Information<br>Information on open-pit mining, water<br>& the environment from FRECIUDAV,<br>CEMDA, AIDA.<br>4.<br>Grants & Financing<br>Organizational budgets of NGOs, &<br>grants from ICF, Packard, FASOL | Unity<br>Strong degree of unity around threats<br>from open-pit mining enabled trans<br>lation by diverse organizations into<br>entertaining & eective messages.<br>Strategy<br>A coordinating voice, FRECIUDAV, was<br>important to dene and support a series<br>of tactics and protect the identities of<br>movement participants.<br>Nonviolent Discipline<br>Maintenance of participant anonymity<br>allowed wider participation with<br>reduced threat of violent retaliation. | Mobilization of diverse capacities<br>for messaging eectively grew<br>movement participation across<br>the state among the middle-class<br>population. It has not eectively<br>engaged poorer communities that<br>seek the mining jobs. |
-| Tactic: Use of Institutional Government<br>Processes<br>1.<br>Volunteer Labor<br>Attendance at hearings & government<br>consultation meetings around mining.<br>2.<br>Specialist Labor<br>Sta & organizational representatives<br>from 50+ organizations preparing<br>for & attending hearings & public<br>meetings<br>3.<br>Research & Information<br>Information on open-pit mining, water<br>& the environment from FRECIUDAV,<br>CEMDA, AIDA. | Unity<br>Participation of business and commu<br>nity leaders made social, economic &<br>environmental arguments with clear<br>agreement on movement demands to<br>stop the Los Cardones project.<br>Strategy<br>Ability to formulate & disseminate strat<br>egy to discredit the permits and gain an<br>ocial policy against toxic mining. | Exposed and promoted public<br>accountability in municipal and<br>state government ocials and<br>agencies, eventually forcing them<br>to take a stand against the Los<br>Cardones mine. |
-| Tactic: Publicity, Declarations & Petitions<br>1.<br>Volunteer Labor<br>Individual volunteers for signing and<br>collecting signatures<br>2.<br>Specialist Labor<br>FRECIUDAV, Todos Santos activists<br>& AIDA writing & disseminating<br>petitions<br>3.<br>Research & Information<br>Research & information on open-pit<br>mining, water & the environment | Unity<br>Shared experience in Todos Santos<br>around demands to stop the dam. Co<br>alition for the AIDA petition and ability<br>to reach 50+ organizations with unied<br>message. Weakness in reaching out to<br>communities that rely on mining jobs.<br>Strategy<br>Pact of Todos Santos and AIDA petitions<br>provided strategic outputs that were<br>able to mobilize tens of thousands of<br>volunteers to sign. | Carried movement messages into<br>a local & national government,<br>raising pressure on municipal,<br>state and national government<br>about citizen demands. |
-| Tactic: Blockade of Roads & Occupation of<br>Airports<br>1.<br>Volunteer Labor<br>Volunteer time for participation<br>2.<br>Cash & In-kind Contributions<br>Transport, food & communications | Unity<br>The experience of past protests and<br>demonstrations unied a core of<br>activists to escalate demands and get<br>sucient participation in risky activities.<br>Strategy<br>Ability to respond rapidly allowed for<br>the escalation and sustaining of the<br>occupations until the governor of the<br>state relented.<br>Nonviolence<br>Despite some reports of arguments with<br>motorists and travelers, no violence<br>reported. | Display of power energized core<br>and raised the ability to inuence<br>government ocials, including<br>state governor and the new presi<br>dent of the country. |
+| Tactic: Publicizing Dissent
+1.
+Specialist Labor
+50+ organizations & individuals writ
+ing & producing art or videos
+2.
+Cash & In-kind Contributions
+Facebook page, computers, mural
+walls, video equipment
+3.
+Research & Information
+Information on open-pit mining, water
+& the environment from FRECIUDAV,
+CEMDA, AIDA.
+4.
+Grants & Financing
+Organizational budgets of NGOs, &
+grants from ICF, Packard, FASOL | Unity
+Strong degree of unity around threats
+from open-pit mining enabled trans
+lation by diverse organizations into
+entertaining & eective messages.
+Strategy
+A coordinating voice, FRECIUDAV, was
+important to dene and support a series
+of tactics and protect the identities of
+movement participants.
+Nonviolent Discipline
+Maintenance of participant anonymity
+allowed wider participation with
+reduced threat of violent retaliation. | Mobilization of diverse capacities
+for messaging eectively grew
+movement participation across
+the state among the middle-class
+population. It has not eectively
+engaged poorer communities that
+seek the mining jobs. |
+| Tactic: Use of Institutional Government
+Processes
+1.
+Volunteer Labor
+Attendance at hearings & government
+consultation meetings around mining.
+2.
+Specialist Labor
+Sta & organizational representatives
+from 50+ organizations preparing
+for & attending hearings & public
+meetings
+3.
+Research & Information
+Information on open-pit mining, water
+& the environment from FRECIUDAV,
+CEMDA, AIDA. | Unity
+Participation of business and commu
+nity leaders made social, economic &
+environmental arguments with clear
+agreement on movement demands to
+stop the Los Cardones project.
+Strategy
+Ability to formulate & disseminate strat
+egy to discredit the permits and gain an
+ocial policy against toxic mining. | Exposed and promoted public
+accountability in municipal and
+state government ocials and
+agencies, eventually forcing them
+to take a stand against the Los
+Cardones mine. |
+| Tactic: Publicity, Declarations & Petitions
+1.
+Volunteer Labor
+Individual volunteers for signing and
+collecting signatures
+2.
+Specialist Labor
+FRECIUDAV, Todos Santos activists
+& AIDA writing & disseminating
+petitions
+3.
+Research & Information
+Research & information on open-pit
+mining, water & the environment | Unity
+Shared experience in Todos Santos
+around demands to stop the dam. Co
+alition for the AIDA petition and ability
+to reach 50+ organizations with unied
+message. Weakness in reaching out to
+communities that rely on mining jobs.
+Strategy
+Pact of Todos Santos and AIDA petitions
+provided strategic outputs that were
+able to mobilize tens of thousands of
+volunteers to sign. | Carried movement messages into
+a local & national government,
+raising pressure on municipal,
+state and national government
+about citizen demands. |
+| Tactic: Blockade of Roads & Occupation of
+Airports
+1.
+Volunteer Labor
+Volunteer time for participation
+2.
+Cash & In-kind Contributions
+Transport, food & communications | Unity
+The experience of past protests and
+demonstrations unied a core of
+activists to escalate demands and get
+sucient participation in risky activities.
+Strategy
+Ability to respond rapidly allowed for
+the escalation and sustaining of the
+occupations until the governor of the
+state relented.
+Nonviolence
+Despite some reports of arguments with
+motorists and travelers, no violence
+reported. | Display of power energized core
+and raised the ability to inuence
+government ocials, including
+state governor and the new presi
+dent of the country. |
 
 The movement made use of allve types of material resources identied in the monograph introduction (see Table 2): in-kind contributions; information and research; volunteer labor; specialized labor; and money These resources were mobilized after the strategy and plans for resistance tactics became clear In each instance, movement leaders focused on these tactics and not on the material resources that were required to execute them
 
@@ -993,7 +1488,7 @@ As Figure 13 illustrates, the unied messages and the strategic participation of 
 
 The **specialist labor** of movement organizations was critical for the production of pamphlets, such as "The Sierra La Laguna Mine: Ten things you should know," that give ready information debunking both misconceptions and arguments put forth by the mine investors FRECIUDAV stressed that the most eective intervention has been providing people with this scientic and economic information about the project and the potential impacts of openpit mining in a form they could use in public meetings FRECIUDAV and other organizations such as SOS, Niparaja and Agua Vale Más que el Oro were important to the coordination
 
-<sup>43</sup> As of December of 2019, FRECIUDAV's page has more than 14,000 likes, the closed group Movilización Civil Contra La Minería Baja California Sur (Civil Mobilization against Mining) has more than 5,000 members, and No a la Mineria Toxica en Baja California Sur (No to Toxic Mining) has over 4,000 members.
+43 As of December of 2019, FRECIUDAV's page has more than 14,000 likes, the closed group Movilización Civil Contra La Minería Baja California Sur (Civil Mobilization against Mining) has more than 5,000 members, and No a la Mineria Toxica en Baja California Sur (No to Toxic Mining) has over 4,000 members.
 
 and logistics of publicity events such as the kayaking demonstration and the Todos Santos celebration
 
@@ -1009,9 +1504,9 @@ We do not have data on all of the roles played by local organizations for demons
 
 One of the key capabilities that made it possible to mobilize and use these resources is a strong degree of **unity** among movement members around messaging The unity around movement goals enabled mural artists, bloggers, and pamphlet writers—both among the 50+ collaborating organizations and as individual volunteers—to communicate the impacts of mining, which they did through entertaining and eective messaging The establishment of FRECIUDAV helped create a **strategic** capacity to centralize some of the messaging through a movement spokesperson Movement leaders stressed that it also helped to protect the time and identities of the various individuals and organizations, providing its loose coalition with a degree of anonymity and shielding them from reprisals Given the extraordinary fear
 
-<sup>44</sup> You Tube has more than 100 videos uploaded by FRECIUDAV, MAS and other organizations between 2014 and 2018.
+44 You Tube has more than 100 videos uploaded by FRECIUDAV, MAS and other organizations between 2014 and 2018.
 
-<sup>45</sup> Movement Interview. La Paz, BCS, Mexico, by Skype, 10 Apr 2019.
+45 Movement Interview. La Paz, BCS, Mexico, by Skype, 10 Apr 2019.
 
 of violence from opponents, security of members also helped to maintain and deepen **nonviolent discipline** by keeping movement activities from responding to these reprisals
 
@@ -1025,7 +1520,7 @@ By far, the most dramatic, risky and eective tactic of the BCS movement was the 
 
 The movement was able to mobilize hundreds of hours of **volunteer labor** from people who were capable of closing othe corridor for days and escalating this pressure by occupying the two regional airports (Figure 14) At the same time, it had sucient **specialist labor** to make its public demands known as it waited on a response from the governor's oce Interviews showed that **in-kind contributions** came mainly from people self-nancing their own transport, food and shelter needed for the events There were no funds raised from **grants or nancing,** but the ability of a few NGOs to provide labor and in-kind contributions was due to their own organizationalnancing
 
-<sup>46</sup> Movement Interview. La Paz, BCS, Mexico, by Skype, 10 Apr 2019.
+46 Movement Interview. La Paz, BCS, Mexico, by Skype, 10 Apr 2019.
 
 In terms of capabilities, many of the activists blockading the roads and airports were veterans of past protests and demonstrations which gave them su cient **unity** to escalate demands and gather enough people to make their activities a success The ability to respond rapidly allowed for making **strategy** "on the fly," escalating and sustaining the occupations until the governor of the state relented It is interesting to note that one activist in the blockade reported that "women were in the front taking a leading role in stopping trac, while the men seemed to hang back on the outskirts "47 This activist felt
 
@@ -1039,7 +1534,7 @@ One of the major **impacts** of mobilizing members for a display of power in thi
 
 The movement has mobilized signicant material resources for its activities for over a decade from the specialist labor and communications resources of many organizations working in the state and nationally One of the most eective things about this approach has been its ability to respond rapidly to the company's moves in diverse ways—from demonstrations and occupations to policy arguments
 
-<sup>47</sup> Movement Interview. Pescadero, BCS, Mexico, 25 May 2019.
+47 Movement Interview. Pescadero, BCS, Mexico, 25 May 2019.
 
 The mobilization of "middle class" resources that came from established organizations and as part of educated labor, however, has also come with some drawbacks The movement has not eectively brought in the poorer communities in the old mining towns of the Sierra, many of whom acutely feel the loss of mining jobs As the state grapples with the wins of the movement, it is hard to say where these fractures will lead Movement leaders believe that the struggle against toxic mining is still up against major economic powers in the country that will not relent
 
@@ -1057,7 +1552,7 @@ To local residents, this announcement came as a surprise, since the entire lagoo
 
 ## FIGURE 15: Map of Topolobampo, Sinaloa
 
-<sup>48</sup> A Ramsar site is a wetland site designated to be of international importance under The Convention on Wetlands, known as the Ramsar Convention, which is an intergovernmental environmental treaty established in 1971 by UNESCO. It provides for national action and international cooperation regarding the conservation of wetlands and wise sustainable use of their resources.
+48 A Ramsar site is a wetland site designated to be of international importance under The Convention on Wetlands, known as the Ramsar Convention, which is an intergovernmental environmental treaty established in 1971 by UNESCO. It provides for national action and international cooperation regarding the conservation of wetlands and wise sustainable use of their resources.
 
 permanent residents of the Ramsar site There is an activeshing industry, and at one time it was the primary source of shrimp exported to the United States Tourism is also quite active, and many residents of the nearby towns make a living from tourists who come for dolphin watching, bird watching, and water sports (see Figure 15)
 
@@ -1069,13 +1564,13 @@ These actions raised awareness about the project Localshermen, tourist operators
 
 Over the next two years concerned organizations and individuals created a strategic campaign to challenge the ammonia plant (see Table 12 for types of organizations involved in the movement) As part of that campaign, opponents saw that a key piece would be to challenge the plant in court, since by law there were many regulatory hurdles the company needed to overcome Members of the campaignled three separate lawsuits One was based
 
-<sup>49</sup> Autorización en materia de impacto ambiental con Resolutivo de Impacto Ambiental No. GPA/DGIRA/DG/03576, de fecha 21 de abril del 2014, expedido por la Dirección General de Impacto y Riesgo Ambiental de la Semarnat.
+49 Autorización en materia de impacto ambiental con Resolutivo de Impacto Ambiental No. GPA/DGIRA/DG/03576, de fecha 21 de abril del 2014, expedido por la Dirección General de Impacto y Riesgo Ambiental de la Semarnat.
 
-<sup>50</sup> Diputado Federal.
+50 Diputado Federal.
 
-<sup>51</sup> El Comité Único de la Vivienda de Topolobampo.
+51 El Comité Único de la Vivienda de Topolobampo.
 
-<sup>52</sup> Movement Interview. Lázaro Cárdenas, Sinaloa, Mexico, 9 May 2019.
+52 Movement Interview. Lázaro Cárdenas, Sinaloa, Mexico, 9 May 2019.
 
 on violations of Mexican environmental law, and two were based on lack of consultation with Indigenous communities to get their free prior and informed consent, required under Mexican and international law for projects wherever Indigenous communities live All three suits were initially upheld by the courts, stopping the project
 
@@ -1094,11 +1589,14 @@ Table 12: Principal Organizations in the Aquí ¡No! Movement
 | Federation of Cooperatives | 21st Federation of Fishermen | | | | | |
 | Private Sector Federation | Federation de Restaurants in Topolobampo | | | | | |
 | INDIGENOUS PEOPLES RIGHTS | | | | | | |
-| Indigenous governance | Supreme Council of Kobanaros and Yoremes Mayos Indigenous Peoples of<br>Sinaloa | | | | | |
+| Indigenous governance | Supreme Council of Kobanaros and Yoremes Mayos Indigenous Peoples of
+Sinaloa | | | | | |
 | ENVIRONMENTAL RESEARCH AND ACTION | | | | | | |
 | Academic | National Polytechnical Institute | | | | | |
-| Government research organization | Center for Interdisciplinary Research on Integrated Regional Development<br>(IPN CIIDIR) | | | | | |
-| Network (Campaign Coordination) | Aquí ¡No!<br>Not Here! | | | | | |
+| Government research organization | Center for Interdisciplinary Research on Integrated Regional Development
+(IPN CIIDIR) | | | | | |
+| Network (Campaign Coordination) | Aquí ¡No!
+Not Here! | | | | | |
 | NGO | Citizens Parliament of Culiacán | | | | | |
 | NGO | Save the Forest Council (Culiacán) (Bosque a Salvo) | | | | | |
 | NGO | Citizens Ecology Council of Sinaloa (Culiacán) | | | | | |
@@ -1137,9 +1635,9 @@ In all cases, media presence was high, and the campaign documented everything on
 
 Many of the members of Aquí ¡No! organized their own communities behind these protests and publicity events Table 13 provides a timeline of activities
 
-<sup>53</sup> Facebook page: **https://www.facebook.com/AQU%C3%8D-NO-colectivo-ecologico-2171978103072980/**
+53 Facebook page: **https://www.facebook.com/AQU%C3%8D-NO-colectivo-ecologico-2171978103072980/**
 
-<sup>54</sup> For an example from You Tube: **https://www.youtube.com/watch?v=CLILBcATmfQ**.
+54 For an example from You Tube: **https://www.youtube.com/watch?v=CLILBcATmfQ**.
 
 ## ![](_page_75_Picture_0.jpeg)
 
@@ -1157,9 +1655,9 @@ Local marine science academics from IPN CIIDIR, a government research institute,
 
 One of the most eective institutional tactics has been taking the company to court The principle source of material support for this work has been the 21st Century Federation of Fishermen The Federation as a matter of course has a lawyer hired on retainer, and it has used his time to bring its cases to court The Federation has used two dierent lawyers, since therst one changed sides under pressure and incentives from the company In addition to lawyers' fees, the Federation has also covered expenses needed for the lawyers' travel to the state and federal capitals to attend hearings As of March 2020, legal action continued to prevent the company from carrying out the project
 
-<sup>55</sup> Movement Interview. Lázaro Cárdenas, Sinaloa, Mexico, 9 May 2019.
+55 Movement Interview. Lázaro Cárdenas, Sinaloa, Mexico, 9 May 2019.
 
-<sup>56</sup> Movement Interview. Topolobampo, Sinaloa, Mexico, 10 Jun 2019.
+56 Movement Interview. Topolobampo, Sinaloa, Mexico, 10 Jun 2019.
 
 Over time, the coalition saw that legal action alone may be insucient, since there were no guarantees that courts would continue to rule in their favor, or that plaintis would not be bought oby the company The coalition made sure that its strategy included continuing to organize communities and to mount demonstrations, press conferences, and publicity campaigns with the aim to expand public support for the communities and reduce the chances that state institutions like the courts and the Environment Ministry would rule against them While legal action is more of an institutional tactic than a civil resistance tactic, movement leaders have seen the need to pursue both approaches simultaneously
 
@@ -1167,7 +1665,35 @@ Further support and funding for campaign activities came from the NGOs based in 
 
 ## Table 13: Timeline of the Aquí ¡No! Movement
 
-| 2013<br>Project proposed by Gas y Petroquímica de<br>Occidente SA de CV (GPO)<br>2014<br>21 April<br>Environmental Impact Assessment approved<br>2015<br>June<br>Construction began<br>June<br>Fishermen blockaded the shore and confront<br>construction supervisor<br>Federal Congressman Gerardo Peña Avilés<br>and a group of shermen met privately with<br>company ocials<br>The United Committee of Topolobampo<br>Residents and Congressman Peña called for<br>a massive mobilization against the plant<br>News reporter Gabriela Soto and her team<br>published an exposé of government corrup<br>tion in the state. She was red soon after.<br>2016<br>April<br>Court order to the environmental protection<br>agency Profepa (Federal Agency for Environ<br>mental Protection, Procuraduría Federación<br>de Protección al Ambiente) to halt construc<br>tion, arguing that the project would cause<br>environmental damage |
+| 2013
+Project proposed by Gas y Petroquímica de
+Occidente SA de CV (GPO)
+2014
+21 April
+Environmental Impact Assessment approved
+2015
+June
+Construction began
+June
+Fishermen blockaded the shore and confront
+construction supervisor
+Federal Congressman Gerardo Peña Avilés
+and a group of shermen met privately with
+company ocials
+The United Committee of Topolobampo
+Residents and Congressman Peña called for
+a massive mobilization against the plant
+News reporter Gabriela Soto and her team
+published an exposé of government corrup
+tion in the state. She was red soon after.
+2016
+April
+Court order to the environmental protection
+agency Profepa (Federal Agency for Environ
+mental Protection, Procuraduría Federación
+de Protección al Ambiente) to halt construc
+tion, arguing that the project would cause
+environmental damage |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | |
 | |
@@ -1177,17 +1703,47 @@ Further support and funding for campaign activities came from the NGOs based in 
 | |
 | |
 | |
-| June<br>The Mexican Senate asked the head of the<br>SEMARNAT to suspend the project |
-| Septem<br>Profepa completed its court-ordered inspec<br>ber<br>tion of the project and approved it |
-| 2017<br>December<br>Ecological collective Aquí ¡No! created |
-| 2018<br>June<br>First press conference by the Aquí ¡No! Col<br>lective, held in the State Congress<br>Small demonstrations in the public square in<br>Topolobampo |
-| Septem<br>María Esther Hinojosa swam across the Bay<br>ber<br>of Ohuira to raise awareness |
-| 15 October<br>District Court ruled in favor of Indigenous<br>group, issued an injunction. Indigenous<br>leader withdrew his name from petition 18<br>hours later |
-| November<br>Martín García Cruz led in court for a sepa |
-| rate injunction against the project<br>Fishermen staged protest in front of plant |
-| 2019<br>March<br>District court granted injunction against the<br>plant to Ejido El Muellecito on environmental<br>grounds<br>Two demonstrations in Quijote Plaza in<br>Topolobampo |
-| June<br>Demonstration on Marine Day |
-| June<br>Large demonstration for arrival of Mexican<br>President Andrés Manuel López Obrador |
+| June
+The Mexican Senate asked the head of the
+SEMARNAT to suspend the project |
+| Septem
+Profepa completed its court-ordered inspec
+ber
+tion of the project and approved it |
+| 2017
+December
+Ecological collective Aquí ¡No! created |
+| 2018
+June
+First press conference by the Aquí ¡No! Col
+lective, held in the State Congress
+Small demonstrations in the public square in
+Topolobampo |
+| Septem
+María Esther Hinojosa swam across the Bay
+ber
+of Ohuira to raise awareness |
+| 15 October
+District Court ruled in favor of Indigenous
+group, issued an injunction. Indigenous
+leader withdrew his name from petition 18
+hours later |
+| November
+Martín García Cruz led in court for a sepa |
+| rate injunction against the project
+Fishermen staged protest in front of plant |
+| 2019
+March
+District court granted injunction against the
+plant to Ejido El Muellecito on environmental
+grounds
+Two demonstrations in Quijote Plaza in
+Topolobampo |
+| June
+Demonstration on Marine Day |
+| June
+Large demonstration for arrival of Mexican
+President Andrés Manuel López Obrador |
 
 #### How Material Resources Were Mobilized and Used by the Movement
 
@@ -1195,12 +1751,124 @@ Table 14 summarizes the role of material resources in the movement The main civi
 
 Table 14: Resource Mobilization Matrix—Aquí ¡No!
 
-| RESOURCES MOBILIZED IN SUPPORT<br>OF KEY MOVEMENT TACTICS | STRATEGIC CAPABILITIES<br>NEEDED | IMPACT ON MOVEMENT<br>CHANCES OF SUCCESS | | | | | | |
+| RESOURCES MOBILIZED IN SUPPORT
+OF KEY MOVEMENT TACTICS | STRATEGIC CAPABILITIES
+NEEDED | IMPACT ON MOVEMENT
+CHANCES OF SUCCESS | | | | | | |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|--|--|--|--|--|
-| Tactic: Community Organizing<br>1.<br>In-kind contributions:<br>Transport: shermen made their boats<br>available for free to transport Aquí ¡No!<br>representatives to meet with local com<br>munities to educate them and solidify<br>support<br>2.<br>Volunteers: Aquí ¡No! volunteers gave<br>their time for these meetings<br>3.<br>Research & information: local scientists<br>presented technical information | Unity<br>Organizational structure to hold<br>well-attended meetings<br>Reframing of issue to protection of<br>sheries, tourism, and human health<br>Strategy<br>Choice of key communities to organize<br>Use of local leaders for each community | Solidied initial community support.<br>Reliance on volunteer labor limited<br>the ability to counter the cam<br>paigning at the community level by<br>company sta | | | | | | |
-| Tactic: Demonstrations<br>1.<br>In-kind contributions:<br>2.<br>Transport: shermen made their boats<br>available for free and people volun<br>teered their cars to transport people to<br>demonstrations<br>3.<br>Volunteers: Aquí ¡No! volunteers gave<br>their time for these demonstrations<br>4.<br>Cash: used for printing leaets, banners,<br>stickers<br>5.<br>Research & information: local scientists<br>presented technical information | Strategy<br>Leaders chose moments of highest<br>visibility and discomfort to political<br>leaders<br>Discipline<br>No incidents of violence took place,<br>even during blockades, or in the face<br>of corruption or illegal activity by<br>company sta | Use of in-kind contributions, cash<br>and volunteers enabled the move<br>ment to demonstrate wide public<br>support and inuence government<br>decision-making. | | | | | | |
-| Tactic: Use of Institutional Government<br>Processes<br>1.<br>Cash: The shermen's coops used their<br>lawyer and cash contributions from<br>members to support legal fees and<br>transportation<br>2.<br>Research & information: local scientists<br>presented technical information used in<br>court documents<br>3.<br>Grants: Training by FASOL built move<br>ment capacity to use courts | Strategy<br>Movement leaders cooperated in<br>dierent groups using dierent legal<br>strategies to complicate company<br>attempts to counter them<br>Movement leaders used public<br>demonstrations to show courts the<br>degree of support for the cases<br>Discipline<br>Maintaining nonviolent tactics lent<br>legitimacy to legal challenges | The ready access to the Fishermen's<br>Federation lawyer and the cash to<br>support him made lawsuits a natural<br>tactic. Early success with this tactic<br>may have delayed grassroots orga<br>nizing when the legal cases faced<br>diculties | | | | | | |
-| Tactic: Publicity and Information<br>1.<br>Grants: US\$3000 from FASOL support<br>ed production of videos to generate<br>community and public support<br>2.<br>Cash: contributions supported printing<br>of materials and banners, and a bill<br>board for one month<br>3.<br>Specialist Labor: donated logo and<br>materials design, scientists interpreted<br>technical documents<br>4.<br>Volunteer labor: all materials produced<br>by volunteer labor, press conferences<br>done by movement members and their | Unity<br>Common agreement on messages<br>Strategy<br>Public messaging campaigns con<br>sistent across media: Facebook,<br>You Tube, printed materials, billboard,<br>press conferences | Access to many free or cheap outlets<br>for messaging: Use of social media,<br>access to legislators, sympathetic<br>press, cynicism about politicians and<br>local education events all gave the<br>movement an edge over the compa<br>ny which had far more money | | | | | | |
+| Tactic: Community Organizing
+1.
+In-kind contributions:
+Transport: shermen made their boats
+available for free to transport Aquí ¡No!
+representatives to meet with local com
+munities to educate them and solidify
+support
+2.
+Volunteers: Aquí ¡No! volunteers gave
+their time for these meetings
+3.
+Research & information: local scientists
+presented technical information | Unity
+Organizational structure to hold
+well-attended meetings
+Reframing of issue to protection of
+sheries, tourism, and human health
+Strategy
+Choice of key communities to organize
+Use of local leaders for each community | Solidied initial community support.
+Reliance on volunteer labor limited
+the ability to counter the cam
+paigning at the community level by
+company sta | | | | | | |
+| Tactic: Demonstrations
+1.
+In-kind contributions:
+2.
+Transport: shermen made their boats
+available for free and people volun
+teered their cars to transport people to
+demonstrations
+3.
+Volunteers: Aquí ¡No! volunteers gave
+their time for these demonstrations
+4.
+Cash: used for printing leaets, banners,
+stickers
+5.
+Research & information: local scientists
+presented technical information | Strategy
+Leaders chose moments of highest
+visibility and discomfort to political
+leaders
+Discipline
+No incidents of violence took place,
+even during blockades, or in the face
+of corruption or illegal activity by
+company sta | Use of in-kind contributions, cash
+and volunteers enabled the move
+ment to demonstrate wide public
+support and inuence government
+decision-making. | | | | | | |
+| Tactic: Use of Institutional Government
+Processes
+1.
+Cash: The shermen's coops used their
+lawyer and cash contributions from
+members to support legal fees and
+transportation
+2.
+Research & information: local scientists
+presented technical information used in
+court documents
+3.
+Grants: Training by FASOL built move
+ment capacity to use courts | Strategy
+Movement leaders cooperated in
+dierent groups using dierent legal
+strategies to complicate company
+attempts to counter them
+Movement leaders used public
+demonstrations to show courts the
+degree of support for the cases
+Discipline
+Maintaining nonviolent tactics lent
+legitimacy to legal challenges | The ready access to the Fishermen's
+Federation lawyer and the cash to
+support him made lawsuits a natural
+tactic. Early success with this tactic
+may have delayed grassroots orga
+nizing when the legal cases faced
+diculties | | | | | | |
+| Tactic: Publicity and Information
+1.
+Grants: US\$3000 from FASOL support
+ed production of videos to generate
+community and public support
+2.
+Cash: contributions supported printing
+of materials and banners, and a bill
+board for one month
+3.
+Specialist Labor: donated logo and
+materials design, scientists interpreted
+technical documents
+4.
+Volunteer labor: all materials produced
+by volunteer labor, press conferences
+done by movement members and their | Unity
+Common agreement on messages
+Strategy
+Public messaging campaigns con
+sistent across media: Facebook,
+You Tube, printed materials, billboard,
+press conferences | Access to many free or cheap outlets
+for messaging: Use of social media,
+access to legislators, sympathetic
+press, cynicism about politicians and
+local education events all gave the
+movement an edge over the compa
+ny which had far more money | | | | | | |
 
 **legislative representatives**
 
@@ -1293,7 +1961,7 @@ Foundations can provide funds to frontline organizations, as FASOL and ICF did, 
 
 5 **Movement members and tactics endow resources with meaning.** That is, what movement leaders consider a useful resource depends on who it is coming from and
 
-<sup>57</sup> Movement Interview. Ruiz, Nayarit, Mexico, 26 Apr 2019.
+57 Movement Interview. Ruiz, Nayarit, Mexico, 26 Apr 2019.
 
 what it can mean for carrying out a civil resistance tactic A vehicle has no meaning until it is driven to a meeting or demonstration or it is given to movement leaders to buy them o In these three cases, volunteer time represented sacrice by movement members on behalf of the larger cause, which were framed as "David vs Goliath" battles over basic rights to life and livelihood Scientic analyses became relevant when movements framed their struggles as environmental In the cases where Indigenous communities were threatened in Sinaloa and Nayarit, cultural arguments and legal requirements for consultation became relevant
 

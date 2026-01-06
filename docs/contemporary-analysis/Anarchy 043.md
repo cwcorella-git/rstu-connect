@@ -1,3 +1,8 @@
+---
+title: "**ANARCHY 43**"
+category: "contemporary-analysis"
+---
+
 # **ANARCHY 43**
 
 ## **TWO SHILLINGS THIRTY CENTS**
@@ -13,7 +18,8 @@
 | Stunted to school | Leila Berg | 257 |
 |------------------------|------------------------------|-----|
 | Primary courtesies | Charlotte Franklin | 258 |
-| Teacher's<br>dilemma | Mister P. | 260 |
+| Teacher's
+dilemma | Mister P. | 260 |
 | Progressive experience | Olive Markham | 264 |
 | High School USA | Janice Greer and Peg Blossom | 268 |
 | Parents and teachers | John Ellerby | 275 |

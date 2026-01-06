@@ -1,11 +1,8 @@
 ---
-title: Liverpool Anarchist 20
-date: 2025
-author: Solidarity Federation
-tags:
-  - organizing
-  - rent
-  - anarchism
+title: "Liverpool Anarchist 20"
+author: "Solidarity Federation"
+date: "2025"
+category: "theory"
 ---
 
 # Liverpool Anarchist 20

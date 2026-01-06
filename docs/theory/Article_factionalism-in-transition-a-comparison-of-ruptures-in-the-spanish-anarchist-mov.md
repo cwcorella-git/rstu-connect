@@ -1,15 +1,8 @@
 ---
-title: >-
-  Factionalism in Transition: A Comparison of Ruptures in the Spanish Anarchist
-  Movement
-date: 2025
-author: Unknown
-tags:
-  - organizing
-  - strikes
-  - unions
-  - rent
-  - prisons
+title: ">-"
+author: "Unknown"
+date: "2025"
+category: "theory"
 ---
 
 # Factionalism in Transition a Comparison of Ruptures in the Spanish Anarchist Mov

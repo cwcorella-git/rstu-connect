@@ -1,3 +1,8 @@
+---
+title: "## **Durham Teaching Assistants – Not Finished Yet?**"
+category: "labor"
+---
+
 ## **Durham Teaching Assistants – Not Finished Yet?**
 
 ## **Date:** Unknown

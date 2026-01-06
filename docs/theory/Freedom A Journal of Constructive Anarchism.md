@@ -1,13 +1,10 @@
 ---
-title: Freedom A Journal Of Constructive Anarchism
-author: Lucy Parsons
-slug: Freedom A Journal of Constructive Anarchism
-reconversion_status: ready_for_reconversion
-date: 1919
-tags:
-  - theory
-  - anarchism
+title: "Freedom A Journal Of Constructive Anarchism"
+author: "Lucy Parsons"
+date: "1919"
+category: "theory"
 ---
+
 ## **Freedom: A Journal of Constructive Anarchism**
 
 ## **Date:** Unknown

@@ -1,3 +1,8 @@
+---
+title: "The Road Less Traveled,"
+category: "contemporary-analysis"
+---
+
 # The Road Less Traveled,
 
 ## 25th Anniversary Edition
@@ -44,41 +49,243 @@ Immediately I understood what she meant. In no way do either of us mean that The
 
 #### C o n t e n t s
 
-| Introduction<br>to<br>the<br>25th<br>Anniversary<br>Edition | | | | | |
+| Introduction
+to
+the
+25th
+Anniversary
+Edition | | | | | |
 |-------------------------------------------------------------|--------|--|--|--|--|
 | Preface | 11 | | | | |
-| I:<br>DISCIPLINE | | | | | |
-| | 1<br>5 | | | | |
-| Problems<br>and<br>Pain<br>Delaying<br>Gratification | | | | | |
-| The<br>Sins<br>of<br>the<br>Father | | | | | |
-| Problem-Solving<br>and<br>Time | | | | | |
+| I:
+DISCIPLINE | | | | | |
+| | 1
+5 | | | | |
+| Problems
+and
+Pain
+Delaying
+Gratification | | | | | |
+| The
+Sins
+of
+the
+Father | | | | | |
+| Problem-Solving
+and
+Time | | | | | |
 | Responsibility | | | | | |
-| Neuroses<br>and<br>Character<br>Disorders | | | | | |
-| Escape<br>from<br>Freedom | | | | | |
-| Dedication<br>to<br>Reality | | | | | |
-| Transference:<br>The<br>Outdated<br>Map | | | | | |
-| Openness<br>to<br>Challenge | | | | | |
-| Withholding<br>Truth | | | | | |
+| Neuroses
+and
+Character
+Disorders | | | | | |
+| Escape
+from
+Freedom | | | | | |
+| Dedication
+to
+Reality | | | | | |
+| Transference:
+The
+Outdated
+Map | | | | | |
+| Openness
+to
+Challenge | | | | | |
+| Withholding
+Truth | | | | | |
 | Balancing | | | | | |
-| The<br>Healthiness<br>of<br>Depression | | | | | |
-| Renunciation<br>and<br>Rebirth | 72 | | | | |
-| II:<br>LOVE | | | | | |
-| Love<br>Defined | 81 | | | | |
-| Falling<br>in<br>"Love" | 84 | | | | |
-| The<br>Myth<br>of<br>Romantic<br>Love | | | | | |
-| More<br>About<br>Ego<br>Boundaries | | | | | |
+| The
+Healthiness
+of
+Depression | | | | | |
+| Renunciation
+and
+Rebirth | 72 | | | | |
+| II:
+LOVE | | | | | |
+| Love
+Defined | 81 | | | | |
+| Falling
+in
+"Love" | 84 | | | | |
+| The
+Myth
+of
+Romantic
+Love | | | | | |
+| More
+About
+Ego
+Boundaries | | | | | |
 | Dependency | 98 | | | | |
-| Cathexis<br>Without<br>Love | | | | | |
+| Cathexis
+Without
+Love | | | | | |
 | "Self-Sacrifice" | 111 | | | | |
-## | Love<br>Is<br>Not<br>a<br>Feeling | | | | | |
+## | Love
+Is
+Not
+a
+Feeling | | | | | |
 
-| The<br>Work<br>of<br>Attention<br>The<br>Risk<br>of<br>Loss<br>The<br>Risk<br>of<br>Independence<br>The<br>Risk<br>of<br>Commitment<br>The<br>Risk<br>of<br>Confrontation<br>Love<br>Is<br>Disciplined<br>Love<br>Is<br>Separateness<br>Love<br>and<br>Psychotherapy<br>The<br>Mystery<br>of<br>Love | 120<br>131<br>134<br>140<br>150<br>155<br>160<br>169<br>180 | | | |
+| The
+Work
+of
+Attention
+The
+Risk
+of
+Loss
+The
+Risk
+of
+Independence
+The
+Risk
+of
+Commitment
+The
+Risk
+of
+Confrontation
+Love
+Is
+Disciplined
+Love
+Is
+Separateness
+Love
+and
+Psychotherapy
+The
+Mystery
+of
+Love | 120
+131
+134
+140
+150
+155
+160
+169
+180 | | | |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|--|--|--|
-| III:<br>GROWTH<br>AND<br>RELIGION | | | | |
-| World<br>Views<br>and<br>Religion<br>The<br>Religion<br>of<br>Science<br>The<br>Case<br>of<br>Kathy<br>The<br>Case<br>of<br>Marcia<br>The<br>Case<br>of<br>Theodore<br>The<br>Baby<br>and<br>the<br>Bath<br>Water<br>Scientific<br>Tunnel<br>Vision | 185<br>193<br>197<br>208<br>210<br>221<br>225 | | | |
-| IV:<br>GRACE | | | | |
-| The<br>Miracle<br>of<br>Health<br>The<br>Miracle<br>of<br>the<br>Unconscious<br>The<br>Miracle<br>of<br>Serendipity<br>The<br>Definition<br>of<br>Grace<br>The<br>Miracle<br>of<br>Evolution<br>The<br>Alpha<br>and<br>the<br>Omega<br>Entropy<br>and<br>Original<br>Sin<br>The<br>Problem<br>of<br>Evil<br>The<br>Evolution<br>of<br>Consciousness<br>The<br>Nature<br>of<br>Power<br>Grace<br>and<br>Mental<br>Illness:<br>The<br>Myth<br>of<br>Orestes<br>Resistance<br>to<br>Grace<br>The<br>Welcoming<br>of<br>Grace | 235<br>243<br>25<br>3<br>260<br>263<br>268<br>271<br>277<br>280<br>284<br>289<br>297<br>306 | | | |
-## | After<br>word<br>Preface | 31<br>2 | | | |
+| III:
+GROWTH
+AND
+RELIGION | | | | |
+| World
+Views
+and
+Religion
+The
+Religion
+of
+Science
+The
+Case
+of
+Kathy
+The
+Case
+of
+Marcia
+The
+Case
+of
+Theodore
+The
+Baby
+and
+the
+Bath
+Water
+Scientific
+Tunnel
+Vision | 185
+193
+197
+208
+210
+221
+225 | | | |
+| IV:
+GRACE | | | | |
+| The
+Miracle
+of
+Health
+The
+Miracle
+of
+the
+Unconscious
+The
+Miracle
+of
+Serendipity
+The
+Definition
+of
+Grace
+The
+Miracle
+of
+Evolution
+The
+Alpha
+and
+the
+Omega
+Entropy
+and
+Original
+Sin
+The
+Problem
+of
+Evil
+The
+Evolution
+of
+Consciousness
+The
+Nature
+of
+Power
+Grace
+and
+Mental
+Illness:
+The
+Myth
+of
+Orestes
+Resistance
+to
+Grace
+The
+Welcoming
+of
+Grace | 235
+243
+25
+3
+260
+263
+268
+271
+277
+280
+284
+289
+297
+306 | | | |
+## | After
+word
+Preface | 31
+2 | | | |
 
 The ideas herein presented stem, for the most part, from my day-to-day clinical work with patients as they struggled to avoid or to gain ever greater levels of maturity. Consequently, this book contains portions of many actual case histories. Confidentiality is essential to psychiatric practice, and all case descriptions, there-fore, have been altered in name and in other particulars so as to preserve the anonymity of my patients without distorting the essential reality of our experience with each other.
 
@@ -104,7 +311,7 @@ Life is a series of problems. Do we want to moan about them or solve them? Do we
 
 Discipline is the basic set of tools we require to solve life's problems. Without discipline we can solve nothing. With only
 
-<sup>\*</sup> The first of the "Four Noble Truths" which Buddha taught was "Life is suffering."
+\* The first of the "Four Noble Truths" which Buddha taught was "Life is suffering."
 
 #### DISCIPLINE
 
@@ -126,7 +333,7 @@ But the substitute itself ultimately becomes more painful than the legitimate su
 
 Therefore let us inculcate in ourselves and in our children the means of achieving mental and spiritual health. By this I mean let us teach ourselves and our children the necessity for suffering and the value thereof, the need to face problems directly and to experience the pain involved. I have stated that discipline is the basic set of tools we require to solve life's problems. It will become clear that these tools are techniques of suffering, means by which we experience the pain of problems in such a way as to work them through and solve them
 
-<sup>\*</sup> Collected Works of C. G. Jung, Bollingen Ser., No. 20, 2d ed. (Prince-ton, N. J.: Princeton Univ. Press, 1973), trans. R. F. C. Hull, Vol II, Psychology and Religion: West and East,
+\* Collected Works of C. G. Jung, Bollingen Ser., No. 20, 2d ed. (Prince-ton, N. J.: Princeton Univ. Press, 1973), trans. R. F. C. Hull, Vol II, Psychology and Religion: West and East,
 
 #### DI SCI P LI N E
 
@@ -338,7 +545,7 @@ That does not mean they are not painful. Frequently our choices lie between the 
 
 Dr. Hilde Bruch, in the preface to her book Learning Psycho-therapy, states that basically all patients come to psychiatrists with "one common problem: the sense of helplessness, the fear and inner conviction of being unable to `cope' and to change things." t One of the roots of this "sense of impotence" in the majority of patients is some desire to partially or totally escape the pain of freedom, and, therefore, some failure, par tial or total, to accept responsibility for their problems and their lives. They feel impotent because they have, in fact, given their power away. Sooner or later, if they are to be
 
-<sup>\*</sup> Nowhere, to my knowledge, is the issue of the freedom to choose between two evils more eloquently and even poetically defined than by the psychiatrist Allen Wheelis, in the chapter "Freedom and Necessity" in his book How People Change (New York: Harper & Row, 1973). It was tempting to quote the chapter in its entirety, and I recommend it to anyone who desires to explore the issue more fully. t Cambridge, Mass., Harvard Univ. Press, 1974, p. ix.
+\* Nowhere, to my knowledge, is the issue of the freedom to choose between two evils more eloquently and even poetically defined than by the psychiatrist Allen Wheelis, in the chapter "Freedom and Necessity" in his book How People Change (New York: Harper & Row, 1973). It was tempting to quote the chapter in its entirety, and I recommend it to anyone who desires to explore the issue more fully. t Cambridge, Mass., Harvard Univ. Press, 1974, p. ix.
 
 #### DISCIPLINE
 
@@ -380,7 +587,7 @@ What does a life of total dedication to the truth mean? It means, first of all, 
 
 A life of total dedication to the truth also means a life of willingness to be personally challenged. The only way that we can be certain that our map of reality is valid is to expose it to the criticism and challenge of other mapmakers. Other-wise we live in a closed system-within a bell jar, to use Sylvia Plath's analogy, rebreathing only our own fetid air, more and more subject to delusion. Yet, because of the pain inherent in the process of revising our map of reality, we mostly seek to avoid or ward off any challenges to its validity. To our children we say, "Don't talk back to me, I'm your parent." To our spouse we give the message, "Let's live and let live. If you criticize me, I'll be a bitch to live with, and you'll regret it." To their families and the world the elderly give the message, "I am old and fragile. If you challenge me I may die or at least you will bear upon your head the respon sibility for making my last days on earth miserable." To our employees we communicate, "If you are bold enough to challenge me at all, you had best do so very circumspectly indeed or else you'll find yourself looking for another job." \*
 
-<sup>\*</sup> Not only individuals but also organizations are notorious for protecting themselves against challenge. I was once directed by the Chief of Staff of the Army to prepare an analysis of the psychological causes of the My Lai atrocities and their subsequent cover-up, with recommen dations for research that might prevent such behavior in the future. The recommendations were disapproved by the Army general staff on the basis that the research recommended could not be kept secret. "The
+\* Not only individuals but also organizations are notorious for protecting themselves against challenge. I was once directed by the Chief of Staff of the Army to prepare an analysis of the psychological causes of the My Lai atrocities and their subsequent cover-up, with recommen dations for research that might prevent such behavior in the future. The recommendations were disapproved by the Army general staff on the basis that the research recommended could not be kept secret. "The
 
 The tendency to avoid challenge is so omnipresent in human beings that it can properly be considered a characteristic of human nature. But calling it natural does not mean it is essential or beneficial or unchangeable behavior. It is also natural to defecate in our pants and never brush our teeth. Yet we teach ourselves to do the unnatural until the unnatural becomes itself second nature. Indeed, all self-discipline might be defined as teaching ourselves to do the unnatural. Another characteristic of human nature-perhaps the one that makes us most human-is our capacity to do the unnatural, to transcend and hence transform our own nature.
 
@@ -452,7 +659,7 @@ Balancing is a discipline precisely because the act of giving something up is pa
 
 It may seem strange, but most people choose this alternative and elect not to continue with their life journeys-to stop short by some distance-in order to avoid the pain of giving up parts of themselves. If it does seem strange, it is because you do not understand the depth of the pain that may be involved. In its major forms, giving up is the most painful of human experiences. Thus far I have been talking about minor forms of giving up-giving up speed or the luxury of spontaneous anger or the safety of withheld anger or the neatness of a thank-you note. Let me turn now to the giving up of personality traits, well-established patterns of behavior, ideologies, and even whole life styles. These are major forms of giving up that are required if one is to travel very far on the journey of life.
 
-One night recently I decided to spend some free time building a happier and closer relationship with my fourteenyear old daughter. For several weeks she had been urging me to play chess with her, so I suggested a game. She eagerly accepted and we settled down to a most even and challenging match. It was a school night, however, and at nine o'clock my daughter asked if I could hurry my moves, because she needed to get to bed; she had to get up at six in the morning. I knew her to be rigidly disciplined in her sleeping habits, and it seemed to me that she ought to be able to give up some of this rigidity. I told her, "Come on, you can go to bed a little later for once. You shouldn't start games that you can't finish. We're having fun." We played on for another fifteen minutes, during which time she became visibly discomfited. Finally she pleaded, "Please, Daddy, please hurry your moves." "No goddammit," I replied. "Chess is a serious game. If you're <sup>g</sup> oing to play it well, you're going to play it slowly. If you don't want to play it seriously, you might as well not play it
+One night recently I decided to spend some free time building a happier and closer relationship with my fourteenyear old daughter. For several weeks she had been urging me to play chess with her, so I suggested a game. She eagerly accepted and we settled down to a most even and challenging match. It was a school night, however, and at nine o'clock my daughter asked if I could hurry my moves, because she needed to get to bed; she had to get up at six in the morning. I knew her to be rigidly disciplined in her sleeping habits, and it seemed to me that she ought to be able to give up some of this rigidity. I told her, "Come on, you can go to bed a little later for once. You shouldn't start games that you can't finish. We're having fun." We played on for another fifteen minutes, during which time she became visibly discomfited. Finally she pleaded, "Please, Daddy, please hurry your moves." "No goddammit," I replied. "Chess is a serious game. If you're g oing to play it well, you're going to play it slowly. If you don't want to play it seriously, you might as well not play it
 
 ,, at all." And so, with her feeling miserable, we continued for another ten minutes, until suddenly my daughter burst into tears, yelled that she conceded the stupid game, and ran weeping up the stairs.
 
@@ -506,7 +713,7 @@ theory or understanding means that an old idea, concept, theory or understanding
 
 Since birth and death seem to be but different sides of the same coin, it is really not at all unreasonable to pay closer heed than we usually do in the West to the concept of reincarnation. But whether or not we are willing to entertain seriously the possibility of some kind of rebirth occurring simultaneously with our physical death, it is abundantly clear that this lifetime is a series of simultaneous deaths and births. "Throughout the whole of life one must continue to learn to live," said Seneca two millennia ago, "and what will amaze you even more, throughout life one must learn to die." t It is also clear that the farther one travels on the journey of life, the more births one will experience, and therefore the more deaths-the more joy and the more pain.
 
-<sup>\*</sup> The Complete Poems and Plays, 1909-1950 (New York: Harcourt Brace, 1952), p. 69.
+\* The Complete Poems and Plays, 1909-1950 (New York: Harcourt Brace, 1952), p. 69.
 
 t Quoted in Erich Fromm, The Sane Society (New York: Rinehart, 1955).
 
@@ -592,7 +799,7 @@ While I generally find that great myths are great precisely because they represe
 
 (and will explore several such myths later in this book), the myth of romantic love is a dreadful lie. Perhaps it is a necessary lie in that it ensures the survival of the species by its encouragement and seeming validation of the falling-in-love experience that traps us into marriage. But as a psychiatrist I weep in my heart almost daily for the ghastly confusion and suffering that this myth fosters. Millions of people waste vast amounts of energy desperately and futilely attempting to make the reality of their lives conform to the unreality of the myth. Mrs. A. subjugates herself absurdly to her husband out of a feeling of guilt. "I didn't really love my husband when we married," she says. "I pretended I did. I guess I tricked him into it, 'so I have no right to complain about him, and I owe it to him to do whatever he wants." Mr. B. laments: "I regret I didn't marry Miss C. I think we could have had a good marriage. But I didn't feel head over heels in love with her, so I assumed she couldn't be the right person for me." Mrs. D., married for two years, becomes severely depressed without apparent cause, and enters therapy stating: "I don't know what's wrong. I've got everything I need, including a perfect marriage." Only months later can she accept the fact that she has fallen out of love with her husband but that this does not mean that she made a horrible mistake. Mr. E., also married two years, begins to suffer intense headaches in the evenings and can't believe they are psychosomatic. "My home life is fine. I love my wife as much as the day I married her. She's everything I ever wanted," he says. But his headaches don't leave him until a year later, when he is able to admit, "She bugs the hell out of me the way she is always wanting, wanting, wanting things without regard to my salary," and then is able to confront her with her extravagance. Mr. and Mrs. F. acknowledge to each other that they have fallen out of love and then proceed to make each other miserable by mutual rampant infidelity as they each search for the one "true love," not realizing that their very acknowledgment could mark the beginning of the work of their marriage in-stead of its end. Even when couples have acknowledged that the honeymoon is over, that they are no longer romantically in love with each other and are able still to be committed to their relationship, they still cling to the myth and attempt to conform their lives to it. "Even though we have fallen out of love, if we act by sheer will power as if we still were in love, then maybe romantic love will return to our lives," their thinking goes. These couples prize togetherness. When they enter couples group therapy (which is the setting in which my wife and I and our close colleagues conduct most serious marriage counseling), they sit together, speak for each other, de-fend each other's faults and seek to present to the rest of the group a united front, believing this unity to be a sign of the relative health of their marriage and a prerequisite for its improvement. Sooner or later, and usually sooner, we must tell most couples that they are too much married, too closely coupled, and that they need to establish some psychological distance from each other before they can even begin to work constructively on their problems. Sometimes it is actually necessary to physically separate them, directing them to sit apart from each other in the group circle. It is always necessary to ask them to refrain from speaking for each other or defending each other against the group. Over and over again we must say, "Let Mary speak for herself, John," and "John can defend himself, Mary, he's strong enough." Ultimately, if they stay in therapy, all couples learn that a true acceptance of their own and each other's individuality and separateness is the only foundation upon which a mature marriage can be based and real love can grow.\*
 
-<sup>\*</sup> Those who have read the O' Neils' book Open Marriage will recognize this to be a basic tenet of the open as opposed to the closed marriage. The O' Neils were actually remarkably gentle and restrained in their proselytizing for open marriage. My work with couples has led me to the stark conclusion that open marriage is the only kind of mature marriage that is healthy and not seriously destructive to the spiritual health and growth of the individual partners.
+\* Those who have read the O' Neils' book Open Marriage will recognize this to be a basic tenet of the open as opposed to the closed marriage. The O' Neils were actually remarkably gentle and restrained in their proselytizing for open marriage. My work with couples has led me to the stark conclusion that open marriage is the only kind of mature marriage that is healthy and not seriously destructive to the spiritual health and growth of the individual partners.
 
 #### More About Ego Boundaries
 
@@ -606,7 +813,7 @@ What transpires then in the course of many years of loving, of extending our lim
 
 It is obvious and generally understood that sexual activity
 
-<sup>\*</sup> Religions, Values, and Peak-Experiences (New York: Viking, 1970), preface.
+\* Religions, Values, and Peak-Experiences (New York: Viking, 1970), preface.
 
 and love, while they may occur simultaneously, often are disassociated, because they are basically separate phenomena. In itself, making love is not an act of love. Nonetheless the experience of sexual intercourse, and particularly of orgasm (even in masturbation), is an experience also associated with a greater or lesser degree of collapse of ego boundaries and attendant ecstasy. It is because of this collapse of ego boundaries that we may shout at the moment of climax "I love you" or "Oh, God" to a prostitute for whom moments later, after the ego boundaries have snapped back into place, we may feel no shred of affection, liking or investment. This is not to say that the ecstasy of the orgasmic experience cannot be heightened by sharing it with one who is beloved; it can. But even without a beloved partner or any partner the collapse of ego boundaries occurring in conjunction with orgasm may be total; for a second we may totally forget who we are, lose track of self, be lost in time and space, be outside of ourself, be transported. We may become one with the universe. But only for a second.
 
@@ -964,7 +1171,7 @@ felt inadequate and worthless and possibly crazy in doing what I did, I was able
 
 Whether it be shallow or not, commitment is the foundation, the bedrock of any genuinely loving relationship. Deep commitment does not guarantee the success of the relationship but does help more than any other factor to assure it. Initially shallow commitments may grow deep with time; if not, the relationship will likely crumble or else be inevitably sickly or chronically frail. Frequently we are not consciously aware of the immensity of the risk involved in making a deep commitment. I have already suggested that one of the functions served by the instinctual phenomenon of falling in love is to provide the participants with a magic cloak of omnipotence which blissfully blinds them to the riskiness of what they are doing when they undertake marriage. For my own part, I was reasonably calm until the very moment that my wife joined me before the altar, when my whole body began to tremble. I then became so frightened that I can remember almost nothing of the ceremony or the reception following. In any case, it is our sense of commitment after the wedding which makes possible the transition from falling in love to genuine love. And it is our commitment after conception which transforms us from biological into psychological parents.\* Commitment is inherent in any genuinely loving relationship. Anyone who is truly concerned for the spiritual growth of another knows, consciously or instinctively, that he or she can significantly
 
-<sup>\*</sup> The importance of the distinction between biological and psycho-logical parenting is elegantly elaborated and concretized in Goldstein, Freud and Solnit, Beyond the Best Interests of the Child (Macmillan, 1973).
+\* The importance of the distinction between biological and psycho-logical parenting is elegantly elaborated and concretized in Goldstein, Freud and Solnit, Beyond the Best Interests of the Child (Macmillan, 1973).
 
 foster that growth only through a relationship of constancy. Children cannot grow to psychological maturity in an atmosphere of unpredictability, haunted by the specter of abandonment. Couples cannot resolve in any healthy way the universal issues of marriage-dependency and independency, dominance and submission, freedom and fidelity, for example -without the security of knowing that the act of struggling over these issues will not itself destroy the relationship.
 

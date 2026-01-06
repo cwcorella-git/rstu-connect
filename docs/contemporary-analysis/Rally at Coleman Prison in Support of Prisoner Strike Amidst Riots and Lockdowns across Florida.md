@@ -1,3 +1,8 @@
+---
+title: "## **Rally at Coleman Prison in Support of Prisoner Strike Amidst Riots and Lockdowns across Florida"
+category: "contemporary-analysis"
+---
+
 ## **Rally at Coleman Prison in Support of Prisoner Strike Amidst Riots and Lockdowns across Florida**
 
 ## **Date:** Sat, 09/17/2016 - 19:05
@@ -37,10 +42,16 @@ Additionally, FCC Coleman is surrounded by an industrial waste land of rock mine
 | . Tainted water is a common |
 | problem in prisons around the country |
 | as well. |
-| "Prisons all over the country are coupled with environmentally hazardous land uses that<br>threaten the health of prisoners and local ecosystems," said Panagioti Tsolkas, an organizer<br>with the Campaign to Fight Toxic Prisons. "There is no way to justify forcing people to live in<br>these conditions." |
-| The event at Coleman is being organized by the Campaign to Fight Toxic Prisons and the<br>Gainesville branch of the IWW labor union. |
-| The Campaign to Fight Toxic Prisons aims to develop ties between the environmental<br>movement and the movement against mass incarceration. |
+| "Prisons all over the country are coupled with environmentally hazardous land uses that
+threaten the health of prisoners and local ecosystems," said Panagioti Tsolkas, an organizer
+with the Campaign to Fight Toxic Prisons. "There is no way to justify forcing people to live in
+these conditions." |
+| The event at Coleman is being organized by the Campaign to Fight Toxic Prisons and the
+Gainesville branch of the IWW labor union. |
+| The Campaign to Fight Toxic Prisons aims to develop ties between the environmental
+movement and the movement against mass incarceration. |
 | The IWW is the only labor union in the country which actively accepts prisoners as members. |
 | Additional details about the demonstration can be found here, on the Facebook event page. |
 | Disclaimer: |
-| The views expressed here are not the official position of the IWW (or even the IWW's EUC)<br>and do not necessarily represent the views of anyone but the author's. |
+| The views expressed here are not the official position of the IWW (or even the IWW's EUC)
+and do not necessarily represent the views of anyone but the author's. |

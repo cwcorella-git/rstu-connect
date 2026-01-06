@@ -1,3 +1,8 @@
+---
+title: "## **Hog Farms, Toxic Water, and Toxic Prisons in Texas**"
+category: "environmental-justice"
+---
+
 ## **Hog Farms, Toxic Water, and Toxic Prisons in Texas**
 
 ## **Date:** Tue, 05/15/2018 - 15:52
@@ -152,4 +157,5 @@ Horrific Conditions for Live-Stock Animals in Texas Prisons Exposed
 | Frackville Prison's Systemic Water Crisis by Bryant Arroyo |
 | Green Flame: Kropotkin and the Birth of Ecology by Graham Purchase |
 | Disclaimer: |
-| The views expressed here are not the official position of the IWW (or even the IWW's EUC)<br>and do not necessarily represent the views of anyone but the author's. |
+| The views expressed here are not the official position of the IWW (or even the IWW's EUC)
+and do not necessarily represent the views of anyone but the author's. |

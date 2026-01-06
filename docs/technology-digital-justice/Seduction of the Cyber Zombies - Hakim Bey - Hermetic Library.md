@@ -1,3 +1,8 @@
+---
+title: "## [hermetic.com](https://hermetic.com/bey/seduct)"
+category: "technology-digital-justice"
+---
+
 ## [hermetic.com](https://hermetic.com/bey/seduct)
 
 ## **Seduction of the Cyber Zombies - Hakim Bey**

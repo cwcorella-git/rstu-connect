@@ -1,3 +1,8 @@
+---
+title: "JEAN M. TWENGE, PhD"
+category: "contemporary-analysis"
+---
+
 # JEAN M. TWENGE, PhD
 
 "Lucid and entertaining . . . bold . . . refreshing."
@@ -1432,7 +1437,7 @@ Julian Rotter, the author of the control scale I studied, began to realize in th
 
 ## Sex: Generation Prude Meets Generation Crude
 
-I<sup>n</sup> Valerie Frankel's novel The Not-So-Perfect Man, 40-year-old Peter asks out a 23-year-old woman. She replies:
+In Valerie Frankel's novel The Not-So-Perfect Man, 40-year-old Peter asks out a 23-year-old woman. She replies:
 
 "I can't go out with you, Peter . . . you seem like the kind of guy who wants a relationship. I don't do that. I hook up."
 
@@ -2340,7 +2345,7 @@ or visit us online to sign up at [e Book News. Simonand Schuster.com](http://ebo
 - The boys' names that increased the most: Social Security Administration, "Change in Popularity from 2011 to 2012," [http://www.ssa.gov/OACT/babynames/rankchange.html;](http://www.ssa.gov/OACT/babynames/rankchange.html) and "King, Messiah, Major Fastest-Growing Baby Names," Associated Press, May 10, 2013.
 - only 2% of Gen Me has served: [http://www.pewsocialtrends.org/files/2010/10/millennials](http://www.pewsocialtrends.org/files/2010/10/millennials-confident-connected-open-to-change.pdf)[confident-connected-open-to-change.pdf.](http://www.pewsocialtrends.org/files/2010/10/millennials-confident-connected-open-to-change.pdf)
 - Polls of 16-to-24-year-olds conducted: For example: [http://jamrs.defense.gov/Portals/20/Documents/Youth\\_Poll\\_20.pdf](http://jamrs.defense.gov/Portals/20/Documents/Youth_Poll_20.pdf).
-- 2 out of 3 (67%) said they "definitely won't": See <http://www.monitoringthefuture.org/> or <http://www.icpsr.umich.edu/icpsrweb/NAHDAP/series/35/studies>. Monitoring the Future datafiles compiled and analyzed by the author.
+- 2 out of 3 (67%) said they "definitely won't": See  or . Monitoring the Future datafiles compiled and analyzed by the author.
 - recent analysis of data: J. M. Twenge, W. K. Campbell, and N. T. Carter, "Declines in Trust in Others and Confidence in Institutions among American Adults and Late Adolescents, 1972–2012 (unpublished manuscript, 2014).
 - "Society has gotten increasingly callous": Sonja Steptoe, "Minding Their Manners," Time, June 7, 2004.
 - the story of a company founder: Claire Raines, Beyond Generation X: A Practical Guide for Managers (Menlo Park, CA: Crisp Publications, 1997), 40.
@@ -2421,7 +2426,7 @@ or visit us online to sign up at [e Book News. Simonand Schuster.com](http://ebo
 
 - O Magazine published "Why Women Have Low Self-Esteem": Aimee Lee Ball, "Why Women Have Low Self-Esteem: Women and the Negativity Receptor," O Magazine, August 2008, [http://www.oprah.com/omagazine/Why-Women-Have-Low-Self-Esteem-](http://www.oprah.com/omagazine/Why-Women-Have-Low-Self-Esteem-How-to-Feel-More-Confident)[How-to-Feel-More-Confident](http://www.oprah.com/omagazine/Why-Women-Have-Low-Self-Esteem-How-to-Feel-More-Confident).
 - while Parenting offered: Yanick Rice Lamb, "Proud to Be Me!," Parenting, April 2005.
-- October 2011 saw the premier issue: <http://www.byoumagazine.com/>.
+- October 2011 saw the premier issue: .
 - the American Academy of Pediatrics guide: Steven Shelov, ed., Caring for Your Baby and Young Child: Birth to Age 5 (New York: Bantam, 1998).
 - In a 1976 New York magazine article: Tom Wolfe, "The Me Decade and the Third Great Awakening," New York, August 23, 1976.
 - When asked what's next in her life: "Pop Quiz: Kim Basinger," People, September 27, 2004.
@@ -2535,7 +2540,7 @@ As education professor Maureen Stout notes: Stout, Feel-Good Curriculum, 3–4.
 - Josh and I published this analysis: Twenge and Foster, "Birth Cohort Increases in Narcissistic Personality Traits."
 - some—such as Elspeth Reeve in Atlantic Wire in May 2013: Elspeth Reeve, "Every Every Every Generation Has Been the Me Me Me Generation," Atlantic Wire, May 9, 2013,
 
-- <http://www.thewire.com/national/2013/05/me-generation-time/65054/>.
+- .
 - Between 1976 and 2012, high school students: Twenge, Campbell, and Freeman, "Generational Differences."
 - In 2013, 82% of college students: Ibid.; and updates based on the American Freshman datafiles.
 - In the late 1970s, 22% of high school students: Ibid.
@@ -2577,7 +2582,7 @@ As education professor Maureen Stout notes: Stout, Feel-Good Curriculum, 3–4.
 - In The Ambitious Generation, sociologists: Barbara Schneider and David Stevenson, The Ambitious Generation: America's Teenagers, Motivated but Directionless (New Haven: Yale University Press, 1999).
 - In 2012, 3 out of 4 American college freshmen: American Freshman Survey datafiles.
 - the number of Ph Ds granted each year: Statistical Abstract of the United States, 2012 and earlier years. Available online at [www.census.gov/prod/www/abs/statab.html](http://www.census.gov/prod/www/abs/statab.html).
-- A Chronicle of Higher Education study found: <http://collegecompletion.chronicle.com/>.
+- A Chronicle of Higher Education study found: .
 - In a 2011 survey, 16-to-18-year-olds: "2011 Teens & Money Survey," Charles Schwab, [http://www.aboutschwab.com/images/press/teensmoneyfactsheet.pdf.](http://www.aboutschwab.com/images/press/teensmoneyfactsheet.pdf)
 - Fifty-seven percent of high school seniors: J. M. Twenge and T. Kasser, "Generational Changes in Materialism and Work Centrality, 1976–2007: Associations with Temporal Changes in Societal Insecurity and Materialistic Role-Modeling," Personality and Social Psychology Bulletin 39 (2013): 883–97; and Monitoring the Future datafiles.
 - In the 2011 survey, 59% believed: "2011 Teens & Money Survey," Charles Schwab.
@@ -2637,7 +2642,7 @@ As education professor Maureen Stout notes: Stout, Feel-Good Curriculum, 3–4.
 - high school students are now more likely: Twenge and Kasser, "Generational Changes in Materialism."
 - College kids spend \$50 billion a year: Ashley Lutz, "The Average College Student Is Spending a Record \$907 on Dorm Décor," Business Insider, September 4, 2012,
 
-- <http://www.businessinsider.com/average-spending-on-dorm-decor-skyrockets-2012-9>.
+- .
 - "She's a very good girl": Nancy Jeffrey, "Proms Gone Wild!," People, May 30, 2005.
 - A recent survey found that the average: Erik Ortiz, "Prom Gets Pricier for Average US Family Spending More Than \$1,000 for the Night," New York Daily News, May 4, 2012.
 - In his survey of 18-to-23-year-olds: C. Smith, K. Christoffersen, H. Davison, and P. S. Herzog. Lost in Transition: The Dark Side of Emerging Adulthood (New York: Oxford University Press, 2011).
@@ -2667,7 +2672,7 @@ As education professor Maureen Stout notes: Stout, Feel-Good Curriculum, 3–4.
 - Drawing from the nationwide: C. M. Herbst, " 'Paradoxical' Decline? Another Look at the Relative Reduction in Female Happiness," Journal of Economic Psychology 32 (2011): 773–88.
 - Someone commits suicide: [www.suicidememorialwall.com.](http://www.suicidememorialwall.com/)
 - While the suicide rate for middle-aged people: Statistical Abstract of the United States, 2004 and earlier years, [http://www.census.gov/prod/www/abs/statab.html.](http://www.census.gov/prod/www/abs/statab.html)
-- In 2011, 16% of high school students: Centers for Disease Control, "Youth Risk Behavior Surveillance System," <http://apps.nccd.cdc.gov/yrbss>.
+- In 2011, 16% of high school students: Centers for Disease Control, "Youth Risk Behavior Surveillance System," .
 - Years of bullying led: Kristin Hussey and John Leland, "After Boy's Suicide, Questions about Missed Signs," New York Times, August 30, 2013, [http://www.nytimes.com/2013/08/31/nyregion/after-boys-suicide-questions-about](http://www.nytimes.com/2013/08/31/nyregion/after-boys-suicide-questions-about-missed-signs.html?_r=0)[missed-signs.html?\\_r=0](http://www.nytimes.com/2013/08/31/nyregion/after-boys-suicide-questions-about-missed-signs.html?_r=0).
 - After a dispute over a boy: Lizette Alvarez, "Girl's Suicide Points to Rise in Apps Used by Cyberbullies," New York Times, September 13, 2013, [http://www.nytimes.com/2013/09/14/us/suicide-of-girl-after-bullying-raises-worries-on](http://www.nytimes.com/2013/09/14/us/suicide-of-girl-after-bullying-raises-worries-on-web-sites.html?pagewanted=all)[web-sites.html?pagewanted=all](http://www.nytimes.com/2013/09/14/us/suicide-of-girl-after-bullying-raises-worries-on-web-sites.html?pagewanted=all).
 - In a well-publicized 2009 report: B. Stevenson and J. Wolfers. "The Paradox of Declining Female Happiness," American Economic Journal: Economic Policy 1 (2009), 190–225.
@@ -2692,11 +2697,11 @@ As education professor Maureen Stout notes: Stout, Feel-Good Curriculum, 3–4.
 - In The Costs of Living, Barry Schwartz describes: Barry Schwartz, Costs of Living (New York: Norton, 1994), 18.
 - A mountain of scientific evidence links: D. R. Williams, D. T. Takeuchi, and R. K. Adair, "Marital Status and Psychiatric Disorders among Blacks and Whites," Journal of Health and Social Behavior 33 (1992): 140–57; Lee Robins and Darrel Reiger, Psychiatric Disorders in America (New York: Free Press, 1991); R. F. Baumeister and M. R. Leary, "The Need to Belong: Desire for Interpersonal Attachments as a Fundamental Human Motivation," Psychological Bulletin 117 (1995): 497–529; and David Myers, The American Paradox (New Haven, CT: Yale University Press, 2000), chap. 3.
 - Harvard rejects between 25%: Marisa Meltzer, "The Swarm of the Super-Applicants," New York, October 24, 2007, [http://nymag.com/news/features/24398/;](http://nymag.com/news/features/24398/) and [http://thechoice.blogs.nytimes.com/2013/03/28/ivy-league-college-admission-rates-](http://thechoice.blogs.nytimes.com/2013/03/28/ivy-league-college-admission-rates-2013/)[2013/.](http://thechoice.blogs.nytimes.com/2013/03/28/ivy-league-college-admission-rates-2013/)
-- Two million high school students: <http://research.collegeboard.org/programs/ap/data/archived/2012>.
+- Two million high school students: .
 - Time magazine interviewed Marielle Woods: Sonja Steptoe, "Ready, Set, Relax!," Time, October 27, 2003.
 - Medical schools and law schools, especially: [http://www.statisticbrain.com/medical-school](http://www.statisticbrain.com/medical-school-acceptance-rate-statistics/)[acceptance-rate-statistics/](http://www.statisticbrain.com/medical-school-acceptance-rate-statistics/); [http://www.usnews.com/education/best-graduate](http://www.usnews.com/education/best-graduate-schools/the-short-list-grad-school/articles/2013/04/30/10-most-selective-medical-schools)[schools/the-short-list-grad-school/articles/2013/04/30/10-most-selective-medical-](http://www.usnews.com/education/best-graduate-schools/the-short-list-grad-school/articles/2013/04/30/10-most-selective-medical-schools)
 
-- [schools;](http://www.usnews.com/education/best-graduate-schools/the-short-list-grad-school/articles/2013/04/30/10-most-selective-medical-schools) <http://law-school.findthebest.com/>; and [http://poetsandquants.com/2011/04/22/the-50-most-selective-mba-programs-in-the-u](http://poetsandquants.com/2011/04/22/the-50-most-selective-mba-programs-in-the-u-s/)[s/.](http://poetsandquants.com/2011/04/22/the-50-most-selective-mba-programs-in-the-u-s/)
+- [schools;](http://www.usnews.com/education/best-graduate-schools/the-short-list-grad-school/articles/2013/04/30/10-most-selective-medical-schools) ; and [http://poetsandquants.com/2011/04/22/the-50-most-selective-mba-programs-in-the-u](http://poetsandquants.com/2011/04/22/the-50-most-selective-mba-programs-in-the-u-s/)[s/.](http://poetsandquants.com/2011/04/22/the-50-most-selective-mba-programs-in-the-u-s/)
 - "When I graduated from college": Alexandra Robbins and Abby Wilner, Quarterlife Crisis (New York: Tarcher/Putnam, 2001), 173.
 - between 1984 and 2011, the wealth: Taylor, The Next America.
 - "You need a college degree": Lev Grossman, "Grow Up? Not So Fast," Time, January 24, 2005.
@@ -2719,7 +2724,7 @@ As education professor Maureen Stout notes: Stout, Feel-Good Curriculum, 3–4.
 - A 2010 survey raised the bar: "26% of Teens Expected to Become Famous by Age 25," Barna Group Youth Poll, May 10, 2010, [https://www.barna.org/barna-update/article/16](https://www.barna.org/barna-update/article/16-teensnext-gen/366-teenagers-want-successful-careers-and-global-travel-expect-to-delay-marriage-a-parenting) [teensnext-gen/366-teenagers-want-successful-careers-and-global-travel-expect-to](https://www.barna.org/barna-update/article/16-teensnext-gen/366-teenagers-want-successful-careers-and-global-travel-expect-to-delay-marriage-a-parenting)[delay-marriage-a-parenting.](https://www.barna.org/barna-update/article/16-teensnext-gen/366-teenagers-want-successful-careers-and-global-travel-expect-to-delay-marriage-a-parenting)
 - Quarterlife Crisis concludes that twentysomethings: Robbins and Wilner, Quarterlife Crisis, 109.
 - Tim Urban recently published an article: "Wait but Why, Why Generation Y Yuppies Are Unhappy," Huffington Post, September 15, 2013, [http://www.huffingtonpost.com/wait](http://www.huffingtonpost.com/wait-but-why/generation-y-unhappy_b_3930620.html)[but-why/generation-y-unhappy\\_b\\_3930620.html](http://www.huffingtonpost.com/wait-but-why/generation-y-unhappy_b_3930620.html)
-- A Kaiser Family Foundation study found: V. Rideout, U. G. Foehr, and D. F. Roberts, "Generation M2: Media in the Lives of 8-to-18-Year Olds," Kaiser Family Foundation study, January 2010, [http://kff.org/other/event/generation-m2-media-in-the-lives-of/;](http://kff.org/other/event/generation-m2-media-in-the-lives-of/) and <http://kaiserfamilyfoundation.files.wordpress.com/2013/04/8010.pdf>
+- A Kaiser Family Foundation study found: V. Rideout, U. G. Foehr, and D. F. Roberts, "Generation M2: Media in the Lives of 8-to-18-Year Olds," Kaiser Family Foundation study, January 2010, [http://kff.org/other/event/generation-m2-media-in-the-lives-of/;](http://kff.org/other/event/generation-m2-media-in-the-lives-of/) and 
 - Writer Cathi Hanauer sums this up: Cathi Hanauer. ed., The Bitch in the House (New York: Harper Collins Perennial, 2002), xv.
 - In Quarterlife Crisis, Joanna says: Robbins and Wilner, Quarterlife Crisis, 93.
 - In her book on eating disorders: Joan Jacobs Brumberg, Fasting Girls (New York: New American Library, 1989), 267.
@@ -2779,7 +2784,7 @@ As author Neil Postman notes: Neil Postman, The Disappearance of Childhood (New 
 - The Myth of Laziness author Mel Levine: Mel Levine, The Myth of Laziness (New York: Simon & Schuster, 2003).
 - As Sykes puts it: Sykes, Nation of Victims, 144.
 - In 1940, about 20,000 civil lawsuits: Theodore Caplow, Louis Hicks, and Ben J. Wattenberg, The First Measured Century (Washington, DC: AEI Press, 2001), 198.
-- by 2012, this had increased more than tenfold: <http://www.uscourts.gov/Statistics/Judicial Business/2012.aspx>.
+- by 2012, this had increased more than tenfold: .
 - One young man sued: "Former Law Student Stages Hunger Strike," Chronicle of Higher Education, January 23, 1998.
 - Chris Colin was heartened: Colin, What Really Happened, 258.
 - "Kids today have extremely": Sacks, Generation X Goes to College, 59.
@@ -2822,7 +2827,7 @@ Author Paula Kamen studied: Paula Kamen, Her Way: Young Women Remake the Sexual 
 
 A whopping 88%: Lawrence K. Altman, "Study Finds That Teenage Virginity Pledges Are Rarely Kept," New York Times, March 10, 2004.
 
-participants in abstinence programs: American Psychological Association press release, "Based on the Research, Comprehensive Sex Education Is More Effective at Stopping the Spread of HIV Infection, Says APA Committee," February 23, 2005, <http://www.apa.org/releases/sexeducation.html> or [http://www.apa.org/releases/sexed\\_resolution.pdf](http://www.apa.org/releases/sexed_resolution.pdf).
+participants in abstinence programs: American Psychological Association press release, "Based on the Research, Comprehensive Sex Education Is More Effective at Stopping the Spread of HIV Infection, Says APA Committee," February 23, 2005,  or [http://www.apa.org/releases/sexed\\_resolution.pdf](http://www.apa.org/releases/sexed_resolution.pdf).
 
 numerous newspaper stories: Laura Sessions Stepp, "Unsettling New Fad Alarms Parents: Middle School Oral Sex," Washington Post, July 8, 1999; Anne Jarrell, "The Face of Teenage Sex Grows Younger," New York Times, April 3, 2000; and Barbara Cooke, "When Is Sex Not Sex?," Chicago Tribune, March 4, 2001.
 
@@ -3064,7 +3069,7 @@ In one study, college career counselors named: L. M. Hite and K. S. Mc Donald, "
 #### 9. What Do We Do Now?
 
 - In a recent poll, 2 out of 3 adults: Ronald Brownstein, "The American Dream—under Threat," National Journal, September 19, 2013.
-- Although 16% of teens said: Centers for Disease Control, "Youth Risk Behavior Surveillance System," <http://apps.nccd.cdc.gov/yrbss>.
+- Although 16% of teens said: Centers for Disease Control, "Youth Risk Behavior Surveillance System," .
 - 74% of 2012 college freshmen: American Freshman Survey.
 - "I'd rather have a dog": Antonio Antenucci and David K. Li, "More Young Women Choosing Dogs over Motherhood," New York Post, April 10, 2014.
 - In a 2011 survey, 77% of pet owners: Sharon L. Peters, "Are Americans Crazy for Treating Our Pets Like Kids?," USA Today, December 20, 2011.

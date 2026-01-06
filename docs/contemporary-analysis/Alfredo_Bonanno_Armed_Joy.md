@@ -1,3 +1,8 @@
+---
+title: "**Armed Joy**"
+category: "contemporary-analysis"
+---
+
 # **Armed Joy**
 
 ## Alfredo M. Bonanno

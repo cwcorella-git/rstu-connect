@@ -1,24 +1,8 @@
 ---
-title: Beyond the Monastic Self
-author: David Graeber
-language: en
-source_url: >-
-  Retrieved on Sept. 17<sup>th</sup> 2022 from
-  https://davidgraeber.org/unpublished/letter/
-notes: >-
-  See also: David Graeber Institute [[https://davidgraeber.institute/]] &
-  [[https://davidgraeber.org/]]
-topics:
-  - inequality
-  - academia
-  - Individualism
-original_format: muse
-converted_date: '2025-11-08T11:25:03.052918'
-tags:
-  - Inequality
-  - Academia
-  - Individualism
-date: 2022
+title: "Beyond the Monastic Self"
+author: "David Graeber"
+date: "2022"
+category: "contemporary-analysis"
 ---
 
 #pubdate 2022-09-17T21:54:00

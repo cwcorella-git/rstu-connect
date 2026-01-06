@@ -1,13 +1,10 @@
 ---
-date: 2025
-author: Nevada Current
-tags:
-  - organizing
-  - strikes
-  - unions
-  - rent
 title: "Teachers union files initiative to ask legislature, voters to legalize strikes for educators • Nevada Current"
+author: "Nevada Current"
+date: "2025"
+category: "labor"
 ---
+
 # Teachers union files initiative to ask legislature, voters to legalize strikes for educators • Nevada Current
 
 *Converted from: `./Teachers union files initiative to ask legislature, voters to legalize strikes for educators • Nevada Current.pdf`*  
@@ -28,10 +25,7 @@ title: "Teachers union files initiative to ask legislature, voters to legalize s
 Teachers union ﬁles initiative to ask legislature, voters to legalize strikes ...      about:reader?url=https%3A%2F%2Fnevadacurrent.com%2F2024%2F0...
 
 
-
-
                                                   nevadacurrent.com
-
 
 
                                                   Teachers union files initiative to
@@ -42,8 +36,6 @@ Teachers union ﬁles initiative to ask legislature, voters to legalize strikes 
                                                   April Corbin Girnus
 
                                                   5–6 minutes
-
-
 
 
                                                   The Clark County Education Association on Thursday filed with
@@ -64,8 +56,6 @@ Teachers union ﬁles initiative to ask legislature, voters to legalize strikes 
                                                   shortly after filing their petition Thursday. CCEA in December
                                                   announced it had reached a contract agreement with the Clark
                                                   County School District for its 18,000 teachers.
-
-
 
 
 1 of 4                                                                                                                                4/23/25, 5:46 AM
@@ -121,7 +111,6 @@ Teachers union ﬁles initiative to ask legislature, voters to legalize strikes 
                                                   it down or by taking no action at all — it would automatically
 
 
-
 2 of 4                                                                                                                                 4/23/25, 5:46 AM
 
 ---
@@ -173,8 +162,6 @@ Teachers union ﬁles initiative to ask legislature, voters to legalize strikes 
                                                   Gov. Joe Lombardo, Vellardita replied only that the union had
 
 
-
-
 3 of 4                                                                                                                                  4/23/25, 5:46 AM
 
 ---
@@ -200,9 +187,6 @@ Teachers union ﬁles initiative to ask legislature, voters to legalize strikes 
                                                   graphics.
 
 
-
-
 4 of 4                                                                                                                                 4/23/25, 5:46 AM
 
 ---
-

@@ -1,3 +1,8 @@
+---
+title: "## Bolo'bolo"
+category: "contemporary-analysis"
+---
+
 ## Bolo'bolo
 
 P. M.
@@ -12,13 +17,68 @@ P. M.
 | A Big Hang-Over | 16 | | | | | | | | | | | | |
 | Te Planetary Work Machine | 18 | | | | | | | | | | | | |
 | Te Tree Essentials Elements of the Machine | 20 | | | | | | | | | | | | |
-| Tree Deals in Crisis<br>Te<br>A<br>Deal:<br>Disappoined<br>a<br>Consumer<br>Sociey<br>Te<br>B<br>Deal:<br>Frusraed<br>by<br>Socialism<br>Te<br>C<br>Deal:<br>Te<br>Developmen<br>o<br>Misery | 22<br>22<br>23<br>24 | | | | | | | | | | | | |
+| Tree Deals in Crisis
+Te
+A
+Deal:
+Disappoined
+a
+Consumer
+Sociey
+Te
+B
+Deal:
+Frusraed
+by
+Socialism
+Te
+C
+Deal:
+Te
+Developmen
+o
+Misery | 22
+22
+23
+24 | | | | | | | | | | | | |
 | Te End of Realpolitik | 27 | | | | | | | | | | | | |
-| All or Nothing At All<br>bolo'bolo<br>Subsrucion<br>Dysco<br>rico<br>Provisional Schedule | 29<br>31<br>31<br>32<br>35<br>38 | | | | | | | | | | | | |
+| All or Nothing At All
+bolo'bolo
+Subsrucion
+Dysco
+rico
+Provisional Schedule | 29
+31
+31
+32
+35
+38 | | | | | | | | | | | | |
 | asa'pili | 40 | | | | | | | | | | | | |
-| ibu<br>bolo<br>sila<br>aku<br>kana<br>nima | 40<br>41<br>44<br>49<br>50<br>51 | | | | | | | | | | | | |
-| kodu<br>yalu<br>sibi<br>pali | 56<br>59<br>61<br>63 | | | | | | | | | | | | |
-| suvu<br>gano<br>bee<br>nugo | 66<br>67<br>71<br>73 | | | | | | | | | | | | |
+| ibu
+bolo
+sila
+aku
+kana
+nima | 40
+41
+44
+49
+50
+51 | | | | | | | | | | | | |
+| kodu
+yalu
+sibi
+pali | 56
+59
+61
+63 | | | | | | | | | | | | |
+| suvu
+gano
+bee
+nugo | 66
+67
+71
+73 | | | | | | | | | | | | |
 
 | pili . | | | | | | | | | | | | | | | | | | | | | | | | |
 |--------|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|-----|
@@ -87,4 +147,4 @@ A leas as specacular as he collapse o he B-deal is he ailure o any atemps o crea
 
 Even he "bes" deal, oered o abou en percen (600 million persons) o he Machine's workers, he A-deal o modern consumer sociey, is no longer wha i used o be. Wages in he classic A-deal counry, he U. S. A., have gone down o 1957 equivalens, and since 1967 work-weeks per year have risen rom 43.9 o 47.11. Te Carer, Reagan and Bush years smashed he guaranees o "Te American Way o Lie" or many secors o he old working-class, bu also or he new middle-classes. Even he yuppies see heir expecaions berayed. Phenomena like homelessness, permanen unemploymen and he "new povery," as i's called in Europe (wha's "new" abou i?), have become widespread in A-areas. Even in Swizerland, real wages wen down by 5% in 1990, and sociologiss ound ou ha 15% o he populaion o his model A+ counry live in povery. Currenly, wages are under heavy atack in Wesern Europe, mainly hrough inaion and ax rises (Germany). Te bosses ell hem o be happy abou he end o "communism" (which never exised) and o be ready o pay he price. A srange logic: "we" win and ge punished or i. Aer all, Easern sae-capialism was one o their ideas. Te hidden reusal o work (work less and — i you can — spend less) praciced by A-workers has hinned ou pros. Complains abou increasing "laziness" can be heard everywhere, even in Swizerland. "Pos-maerialis" atiudes and behaviors are shared by shadow "silen majoriies" in European counries. Workers are eva-
 
-<sup>1</sup> Julie B. Schor, Te Overworked American, Basic Books, 1991, p. 30. Manuacuring employees in he U. S. now work 320 hours longer a year han heir colleagues in France or Germany.
+1 Julie B. Schor, Te Overworked American, Basic Books, 1991, p. 30. Manuacuring employees in he U. S. now work 320 hours longer a year han heir colleagues in France or Germany.

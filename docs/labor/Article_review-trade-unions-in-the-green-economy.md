@@ -1,12 +1,8 @@
 ---
-title: Review Trade Unions in the Green Economy
-date: 2025
-author: Industrial Workers of the World
-tags:
-  - organizing
-  - unions
-  - rent
-  - labor
+title: "Review Trade Unions in the Green Economy"
+author: "Industrial Workers of the World"
+date: "2025"
+category: "labor"
 ---
 
 # Review Trade Unions in the Green Economy

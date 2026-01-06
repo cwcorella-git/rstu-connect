@@ -1,3 +1,8 @@
+---
+title: "## **Disabled Communists and Anarchists (Volume 1)**"
+category: "theory"
+---
+
 ## **Disabled Communists and Anarchists (Volume 1)**
 
 ## **Date:** Unknown

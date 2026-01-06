@@ -1,3 +1,8 @@
+---
+title: "**Standpoint theory**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Standpoint_theory)
 
 # **Standpoint theory**

@@ -1,3 +1,8 @@
+---
+title: "## **A Class Perspective on the 'Women Question'**"
+category: "feminist-theory"
+---
+
 ## **A Class Perspective on the 'Women Question'**
 
 ## **Date:** Unknown

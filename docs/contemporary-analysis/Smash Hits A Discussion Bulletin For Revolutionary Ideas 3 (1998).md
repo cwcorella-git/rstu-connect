@@ -1,3 +1,8 @@
+---
+title: "## **Smash Hits: A Discussion Bulletin For Revolutionary Ideas 3 (1998)**"
+category: "contemporary-analysis"
+---
+
 ## **Smash Hits: A Discussion Bulletin For Revolutionary Ideas 3 (1998)**
 
 | Date: Unknown |
@@ -8,7 +13,8 @@
 | R Totale |
 | 7 years 2 months ago |
 | In reply to Welcomebylibcom.org |
-| Thanks for these! Don't suppose you have any idea what else the "Bash Street Kids" did - did<br>they ever have their own paper or anything? |
+| Thanks for these! Don't suppose you have any idea what else the "Bash Street Kids" did - did
+they ever have their own paper or anything? |
 | Fozzie |
 | 7 years 2 months ago |
 | In reply to Welcomebylibcom.org |

@@ -1,10 +1,15 @@
+---
+title: "Smoothed Particle Hydrodynamics Techniques for the Physics Based Simulation of Fluids and Solids"
+category: "contemporary-analysis"
+---
+
 # Smoothed Particle Hydrodynamics Techniques for the Physics Based Simulation of Fluids and Solids
 
-Dan Koschier[1](https://orcid.org/0000-0002-2376-9475) , Jan Bender<sup>2</sup> , Barbara Solenthaler<sup>3</sup> , and Matthias Teschner<sup>4</sup>
+Dan Koschier[1](https://orcid.org/0000-0002-2376-9475) , Jan Bender2 , Barbara Solenthaler3 , and Matthias Teschner4
 
 > University College London, UK RWTH Aachen University, Germany ETH Zurich, Switzerland University of Freiburg, Germany
 
-Disclaimer: This document is work-in-progress and will be maintained and updated over a longer period. Please find the current version of the document under <Interactive Computer Graphics.github.io/SPH-Tutorial>.
+Disclaimer: This document is work-in-progress and will be maintained and updated over a longer period. Please find the current version of the document under .
 
 # Abstract
 
@@ -42,7 +47,8 @@ We first show how the SPH formalism discretizes spatial quantities using a set o
 | m | Mass | kg |
 | Ψ | Pseudo-mass | kg |
 | µ | Dynamic viscosity | Pa s |
-| ν | Kinematic viscosity | m2<br>s−1 |
+| ν | Kinematic viscosity | m2
+s−1 |
 | h | Smoothing length | m |
 | ~ | Kernel support radius | m |
 | h˜ | Particle size | m |
@@ -57,9 +63,11 @@ We first show how the SPH formalism discretizes spatial quantities using a set o
 | F | Force | N |
 | τ | Body torque | Nmm−3 |
 | τ | Torque | Nm |
-| Θ | Microinertia | s−1<br>m2 |
+| Θ | Microinertia | s−1
+m2 |
 | T | Cauchy stress tensor | Nm−2 |
-| P | st Piola-Kirchhoff stress tensor<br>1 | Nm−2 |
+| P | st Piola-Kirchhoff stress tensor
+1 | Nm−2 |
 | J | Deformation gradient | – |
 | ε | Strain tensor | – |
 ## | E | Strain rate tensor | s−1 |
@@ -111,14 +119,11 @@ $$W(\mathbf{r}, h) = W(-\mathbf{r}, h) \qquad \qquad \text{(symmetry condition)}
  
 $$W(\mathbf{r}, h) = 0 \text{ for } ||\mathbf{r}|| \geq \hbar, \qquad \text{(compact support condition)}$$
 
-$\forall \mathbf{r} \in \mathbb{R}^d, h \in \mathbb{R}^+$ , where $\hbar$ denotes the support radius of the kernel function. Moreover, the kernel should be at least twice continuously differentiable to enable a consistent discretization of 2<sup>nd</sup>-order partial differential equations (PDEs). It is essential to use a kernel that satisfies the first two conditions (normalization and Dirac- $\delta$ ), in order to ensure that the approximation in Eq. (3) remains valid. The positivity condition is not strongly required (there are also kernels that do not have this property). However, in the context of physical simulations kernels that take negative values may lead to physically inconsistent estimates of field quantities, e.g., negative mass density estimates, and should therefore be avoided. We will later see that the symmetry condition ensures 1st-order consistency of the continuous approximation. Finally, ensuring that the kernel is compactly supported is a purely practical consideration that will come into play after discretizing the continuous integral and will be discussed later. To keep this tutorial practical, we refrain from discussing how to construct SPH kernels and would like to refer the reader to the review of Liu and Liu [LL10] for a discussion on kernel construction and an overview over a range of smoothing kernels suitable for SPH.
+$\forall \mathbf{r} \in \mathbb{R}^d, h \in \mathbb{R}^+$ , where $\hbar$ denotes the support radius of the kernel function. Moreover, the kernel should be at least twice continuously differentiable to enable a consistent discretization of 2nd-order partial differential equations (PDEs). It is essential to use a kernel that satisfies the first two conditions (normalization and Dirac- $\delta$ ), in order to ensure that the approximation in Eq. (3) remains valid. The positivity condition is not strongly required (there are also kernels that do not have this property). However, in the context of physical simulations kernels that take negative values may lead to physically inconsistent estimates of field quantities, e.g., negative mass density estimates, and should therefore be avoided. We will later see that the symmetry condition ensures 1st-order consistency of the continuous approximation. Finally, ensuring that the kernel is compactly supported is a purely practical consideration that will come into play after discretizing the continuous integral and will be discussed later. To keep this tutorial practical, we refrain from discussing how to construct SPH kernels and would like to refer the reader to the review of Liu and Liu [LL10] for a discussion on kernel construction and an overview over a range of smoothing kernels suitable for SPH.
 
 A typical choice for the smoothing kernel is the cubic spline kernel
 
-$$W(\mathbf{r}, h) = \sigma_d \begin{cases} 6(q^3 - q^2) + 1 & \text{for } 0 \le q \le \frac{1}{2} \\ 2(1 - q)^3 & \text{for } \frac{1}{2} < q \le 1 \\ 0 & \text{otherwise}, \end{cases}$$
-## (4)
-
-with $q=\frac{1}{\hbar}\|\mathbf{r}\|$ . The kernel normalization factors for the respective dimensions d=1,2,3 are $\sigma_1=\frac{4}{3h}$ , $\sigma_2=\frac{40}{7\pi\hbar^2}$ , and $\sigma_3=\frac{8}{\pi\hbar^3}$ . Please note that there exist different formulations of the cubic spline kernel throughout SPH literature that are differently parametrized with respect to h. This kernel fulfills all of the discussed kernel properties and has the particular advantage that its smoothing length is identical to the kernel support radius, *i.e.*, $h=\hbar$ , which helps to avoid confusions in the implementation. For a graphical illustration please see Fig. 2. The plots demonstrate that the kernel is $C^2$ -continuous. Therefore, derivatives of order > 1 are not really useful in practice due to the lack of smoothness. That is, however, not a major issue as there are more sophisticated approximations for $2^{\rm nd}$ -order derivatives solely based on the kernel gradient. Otherwise, if
+$$W(\mathbf{r}, h) = \sigma_d \begin{cases} 6(q^3 - q^2) + 1 & \text{for } 0 \le q \le \frac{1}{2} \\ 2(1 - q)^3 & \text{for } \frac{1}{2}  1 are not really useful in practice due to the lack of smoothness. That is, however, not a major issue as there are more sophisticated approximations for $2^{\rm nd}$ -order derivatives solely based on the kernel gradient. Otherwise, if
 
 ![](_page_3_Figure_1.jpeg)
 
@@ -211,11 +216,11 @@ In this tutorial, we will cover the two most widely used formulations for first 
 
 # Difference Formula
 
-Analyzing the error in the gradient based on Taylor series expansion (similar to the one carried out in Eq. (9)) reveals that the gradient estimate is only 0<sup>th</sup>-order (1<sup>st</sup>-order) accurate if the first (both) of the following constraints are fulfilled:
+Analyzing the error in the gradient based on Taylor series expansion (similar to the one carried out in Eq. (9)) reveals that the gradient estimate is only 0th-order (1st-order) accurate if the first (both) of the following constraints are fulfilled:
 
 $$\langle \nabla 1 \rangle = \sum_{j} \frac{m_{j}}{\rho_{j}} \nabla_{i} W_{ij} = \mathbf{0} \quad \text{and} \quad \sum_{j} \frac{m_{j}}{\rho_{j}} (\mathbf{x}_{j} - \mathbf{x}_{i}) \otimes \nabla_{i} W_{ij} = \mathbb{1}.$$
 
-In order to recover 0<sup>th</sup>-order accuracy we can simply subtract the first error term of the Taylor series resulting in the improved ap-
+In order to recover 0th-order accuracy we can simply subtract the first error term of the Taylor series resulting in the improved ap-
 
 proximation
 
@@ -248,22 +253,22 @@ $$\sum_{j} m_{j} \left( \frac{1}{\rho_{i}^{2}} + \frac{1}{\rho_{j}^{2}} \right) 
 
 deviates from 0. As noted by Price [Pri12], the symmetric formulation "cares" about the particle ordering and the discrete physical forces will try to reorder the particle configuration until Eq. (20) is fulfilled. This is in contrast to forces formulated using the difference formula.
 
-To summarize, the difference formula does indeed lead to a more accurate gradient estimate than the symmetric formula. In the context of physical forces the higher accuracy comes at the cost of a loss in momentum conservation and can therefore lead to unstable simulations. For the stated reasons, we recommend to use gradient estimates of the symmetric type when quantities are discretized that directly affect particle trajectories, *e.g.*, physical forces, impulses, and to use the difference formula when 1<sup>st</sup>-order differentials are estimated for indirect use, *e.g.*, the velocity divergence during pressure solves.
+To summarize, the difference formula does indeed lead to a more accurate gradient estimate than the symmetric formula. In the context of physical forces the higher accuracy comes at the cost of a loss in momentum conservation and can therefore lead to unstable simulations. For the stated reasons, we recommend to use gradient estimates of the symmetric type when quantities are discretized that directly affect particle trajectories, *e.g.*, physical forces, impulses, and to use the difference formula when 1st-order differentials are estimated for indirect use, *e.g.*, the velocity divergence during pressure solves.
 
 # 2.5.1. Discretization of Laplace Operator
 
-Similar to the direct 1<sup>st</sup>-order derivatives (Eqs. (13)-(15)) the Laplace operator can be directly discretized, *i.e.*,
+Similar to the direct 1st-order derivatives (Eqs. (13)-(15)) the Laplace operator can be directly discretized, *i.e.*,
 
 $$\nabla^2 A_i \approx \sum_j \frac{m_j}{\rho_j} A_j \nabla_i^2 W_{ij} \,. \tag{21}$$
 
-This, however, leads again to a very poor estimate of the 2<sup>nd</sup>-order differential. A improved discrete operator for the Laplacian was presented by Brookshaw [Bro85]:
+This, however, leads again to a very poor estimate of the 2nd-order differential. A improved discrete operator for the Laplacian was presented by Brookshaw [Bro85]:
 
 $$\nabla^2 A_i \approx -\sum_j \frac{m_j}{\rho_j} A_{ij} \frac{2\|\nabla_i W_{ij}\|}{\|\mathbf{r}_{ij}\|}.$$
 ## (22)
 
-The main idea leading to this particular formulation is to effectively use solely a 1<sup>st</sup>-order derivative of the kernel function and to realize the second derivative using a finite-difference-like operation, *i.e.*, dividing by the particle distance.
+The main idea leading to this particular formulation is to effectively use solely a 1st-order derivative of the kernel function and to realize the second derivative using a finite-difference-like operation, *i.e.*, dividing by the particle distance.
 
-2<sup>nd</sup>-order derivatives of vectorial field quantities are realized analogously resulting in
+2nd-order derivatives of vectorial field quantities are realized analogously resulting in
 
 $$\nabla^2 \mathbf{A}_i = -\sum_i \frac{m_j}{\rho_j} \mathbf{A}_{ij} \frac{2\|\nabla_i W_{ij}\|}{\|\mathbf{r}_{ij}\|}$$
 ## (23)
@@ -373,7 +378,7 @@ A major insight that we can gain from Algorithm 1 is that evaluating the individ
 
 The problem of finding the neighbor list is commonly referred to
 
-<sup>&</sup>lt;sup>†</sup> We will later see that larger time step widths not always result in better performance. This is especially true when iterative pressure solvers are employed (see Sec. 4).
+&lt;sup>† We will later see that larger time step widths not always result in better performance. This is especially true when iterative pressure solvers are employed (see Sec. 4).
 
 ![](_page_9_Figure_1.jpeg)
 
@@ -425,9 +430,7 @@ Both forms imply challenges. If pressure accelerations are derived from the expl
 
 # 4.4. State Equation SPH (SESPH)
 
-State equations are used to compute pressure from density deviations. The density deviation can be computed explicitly or from a differential form. The deviation can be represented as a quotient or a difference of actual and rest density. One or more stiffness constants are involved. Some examples are: $p_i = k\left(\frac{\rho_i}{\rho^0} - 1\right)$ , $p_i = k(\rho_i - \rho^0)$ or $p_i = k_1\left(\left(\frac{\rho_i}{\rho^0}\right)^{k_2} - 1\right)$ . As $\rho_i < \rho^0$ is not considered to solve the particle deficiency problem at the free surface, the computed pressure is always non-negative. SPH fluid simulations that use a state equation to compute pressure are often referred to as compressible or weakly compressible. In contrast, fluid implementations that solve a PPE to compute pressure are known as incompressible. These terms basically indicate that it is more challenging to minimize compression with a state equation than with a PPE.
-
-It might look confusing that arbitrary pressure values can be computed for a given density $\rho_i > \rho^0$ dependent on the state equation and the stiffness constant(s). Here, it is interesting to note that the parameters do not govern the pressure, but the compressibility of the SPH fluid. This can be seen in a simple example with a fluid at rest under gravity. In this case, the pressure acceleration at all particles cancels gravity, *i.e.*, $\mathbf{g} - \frac{1}{0} \nabla p_i = \mathbf{0}$ . Discretizing the pressure gradient with SPH yields $\mathbf{g} = \sum_{j} m_{j} \left( \frac{p_{i}}{\rho_{i}^{2}} + \frac{p_{j}}{\rho_{j}^{2}} \right) \nabla W_{ij}$ . Using, e.g., $p_i = k(\rho_i - \rho^0)$ , yields $\mathbf{g} = k\sum_j m_j \left(\frac{\rho_i - \rho^0}{\rho_i^2} + \frac{\rho_i - \rho^0}{\rho_i^2}\right) \nabla W_{ij}$ . It can be seen that a variation of the stiffness constant k is related to a variation in the density deviation $\rho_i - \rho^0$ . This relation, however, is not simply $k(\rho_i - \rho^0)$ = const since the erroneous particle sampling for $\rho_i \neq \rho^0$ influences the SPH discretization of the pressure gradient. But generally, the stiffness constant in the state equation governs the density deviation. Larger values result in smaller deviations and require smaller time steps. Smaller values lead to larger density deviations, i.e., less realistic simulations. Also, the boundary handling fails if the tolerated density deviation is too large.
+State equations are used to compute pressure from density deviations. The density deviation can be computed explicitly or from a differential form. The deviation can be represented as a quotient or a difference of actual and rest density. One or more stiffness constants are involved. Some examples are: $p_i = k\left(\frac{\rho_i}{\rho^0} - 1\right)$ , $p_i = k(\rho_i - \rho^0)$ or $p_i = k_1\left(\left(\frac{\rho_i}{\rho^0}\right)^{k_2} - 1\right)$ . As $\rho_i  \rho^0$ dependent on the state equation and the stiffness constant(s). Here, it is interesting to note that the parameters do not govern the pressure, but the compressibility of the SPH fluid. This can be seen in a simple example with a fluid at rest under gravity. In this case, the pressure acceleration at all particles cancels gravity, *i.e.*, $\mathbf{g} - \frac{1}{0} \nabla p_i = \mathbf{0}$ . Discretizing the pressure gradient with SPH yields $\mathbf{g} = \sum_{j} m_{j} \left( \frac{p_{i}}{\rho_{i}^{2}} + \frac{p_{j}}{\rho_{j}^{2}} \right) \nabla W_{ij}$ . Using, e.g., $p_i = k(\rho_i - \rho^0)$ , yields $\mathbf{g} = k\sum_j m_j \left(\frac{\rho_i - \rho^0}{\rho_i^2} + \frac{\rho_i - \rho^0}{\rho_i^2}\right) \nabla W_{ij}$ . It can be seen that a variation of the stiffness constant k is related to a variation in the density deviation $\rho_i - \rho^0$ . This relation, however, is not simply $k(\rho_i - \rho^0)$ = const since the erroneous particle sampling for $\rho_i \neq \rho^0$ influences the SPH discretization of the pressure gradient. But generally, the stiffness constant in the state equation governs the density deviation. Larger values result in smaller deviations and require smaller time steps. Smaller values lead to larger density deviations, i.e., less realistic simulations. Also, the boundary handling fails if the tolerated density deviation is too large.
 
 # 4.5. Pressure Poisson Equation (PPE)
 
@@ -524,160 +527,7 @@ Pressure clamping The clamping has been proposed in [ICS\*14] where simulation a
 $$a_{ii} = -\Delta t^2 \sum_{j} m_j \left( \sum_{j} \frac{m_j}{\rho_j^2} \nabla W_{ij} \right) \cdot \nabla W_{ij}$$
 $$-\Delta t^2 \sum_{j} m_j \left( \frac{m_i}{\rho_i^2} \nabla W_{ij} \right) \cdot \nabla W_{ij}. \tag{49}$$
 
-**Stop criterion** There is no agreement on when to stop the Jacobi iterations in Eq. (48). The iterations could be stopped after a fixed number. Alternatively, a predicted density deviation is often considered. This is motivated by the fact that $(\mathbf{A}\mathbf{p}^{(l)})_i$ is a predicted density change at particle i due to the pressure field at iteration l. I.e., $\rho_i^{\text{err},*} = ((\mathbf{A}\mathbf{p}^{(l)})_i - s_i)/\rho^0 = ((\mathbf{A}\mathbf{p}^{(l)})_i + \rho_i^* - \rho^0)/\rho^0$ is a predicted relative density error at particle i, if pressure accelerations according to the pressure field $\mathbf{p}^{(l)}$ would be applied. Typically, the average of all $\rho_i^{\text{err},*}$ is taken as a stop criterion, e.g., $\rho_i^{\text{avg\_err},*} = \frac{1}{n} \sum_i |\rho_i^{\text{err},*}|$ . In [ICS\*14], it is proposed to stop if, e.g., $\rho_i^{\text{avg\_err},*} < 0.1\%$ , i.e., the oscillation of the overall fluid volume is below 0.1%. In addition to the predicted average density error, the maximum of the predicted density errors could also be taken as a stop criterion.
-
-**Implementation** Alg. 2 shows the implementation of IISPH. Source term $s_i$ and diagonal element $a_{ii}$ are computed once. In iteration l, the pressure Laplacian $(\mathbf{Ap}^{(l)})_i = \Delta t^2 \nabla^2 p_i$ is computed in two steps. First, the pressure acceleration $(\mathbf{a}_i^{\mathbf{p}})^{(l)}$ is computed and stored at the particles. Then, the divergence of the velocity change due to the pressure acceleration, *i.e.*, $(\mathbf{Ap}^{(l)})_i$ , is computed. Neighborhood search, the computation of the predicted velocity $\mathbf{v}_i^*$ and the advection of particles are omitted in Alg. 2.
-
-
-for all particle i do compute diagonal element a_{ii} with Eq. (49) compute source term s_i with Eq. (39) initialize pressure p_i^{(0)} = 0 l = 0 repeat for all particle i do compute pressure acceleration (\mathbf{a}_i^{\mathrm{p}})^{(l)} with Eq. (41) for all particle i do compute Laplacian (\mathbf{A}\mathbf{p}^{(l)})_i with Eq. (40) update pressure p_i^{(l+1)} with Eq. (48) l = l+1 until \rho_i^{\mathrm{avg\_err},*} < 0.1\%
-## 
-Algorithm 2: Pressure computation with the IISPH PPE solver.
-
-# 4.7. Predictive–Corrective Incompressible SPH (PCISPH)
-
-In the following a pressure solver based on a predictor-corrector approach is introduced [SP09].
-
-**Motivation** The density $\rho_i(t + \Delta t)$ can be estimated with
-
-$$\rho_{i}(t + \Delta t) = \sum_{j} m_{j} W_{ij} + \Delta t \sum_{j} m_{j} (\mathbf{v}_{i} - \mathbf{v}_{j}) \cdot \nabla W_{ij}$$
-
-$$+ \Delta t \sum_{j} m_{j} (\Delta t \mathbf{a}_{i}^{\text{nonp}} - \Delta t \mathbf{a}_{j}^{\text{nonp}}) \cdot \nabla W_{ij}$$
-
-$$+ \Delta t \sum_{j} m_{j} (\Delta t \mathbf{a}_{i}^{\text{p}} - \Delta t \mathbf{a}_{j}^{\text{p}}) \cdot \nabla W_{ij}. \tag{50}$$
-
-Again, the time index is omitted for quantities at time t. Using the predicted density
-
-$$\rho_{i}^{*} = \sum_{j} m_{j} W_{ij} + \Delta t \sum_{j} m_{j} (\mathbf{v}_{i} - \mathbf{v}_{j}) \cdot \nabla W_{ij}$$
-$$+ \Delta t \sum_{i} m_{j} (\Delta t \mathbf{a}_{i}^{\text{nonp}} - \Delta t \mathbf{a}_{j}^{\text{nonp}}) \cdot \nabla W_{ij}$$
-## (51)
-
-and the constraint $\rho_i(t + \Delta t) = \rho^0$ , we can write
-
-$$\rho^{0} = \rho_{i}^{*} + \Delta t \sum_{j} m_{j} (\Delta t \mathbf{a}_{i}^{p} - \Delta t \mathbf{a}_{j}^{p}) \cdot \nabla W_{ij}.$$
-## (52)
-
-When using the symmetric SPH formulation for the pressure acceleration, the terms $\mathbf{a}_i^p$ and $\mathbf{a}_j^p$ are computed from unknown pressure values at particle i, at neighbors of i and at neighbors of neighbors of i. Now, PCISPH introduces approximations and simplifications to end up with only one unknown pressure value $p_i$ in Eq. (52) [SP09]. Then, each pressure value $p_i$ can be computed from one equation. Solving a linear system is avoided.
-
-**Simplifications** The pressure acceleration is discretized with the symmetric formulation. It is assumed that the pressure $p_j$ at neighboring particles equals the pressure $p_i$ at particle i. Further, $m_j = m_i$ for all neighbors and $\rho_i = \rho_j \approx \rho^0$ . Then, the pressure acceleration can be written as
-
-$$\mathbf{a}_{i}^{p} = -\sum_{j} m_{j} \left( \frac{p_{i}}{\rho_{i}^{2}} + \frac{p_{j}}{\rho_{j}^{2}} \right) \nabla W_{ij}$$
-## (53)
-
-$$\approx -m_i \frac{2p_i}{(\rho^0)^2} \sum_i \nabla W_{ij}. \tag{54}$$
-
-Using this approximation, Eq. (52) can be written as
-
-$$\rho^{0} = \rho_{i}^{*} + 2\Delta t^{2} \frac{m_{i}^{2}}{(\rho^{0})^{2}} \sum_{j} \left( -p_{i} \sum_{j} \nabla W_{ij} + p_{j} \sum_{k} \nabla W_{jk} \right) \cdot \nabla W_{ij}.$$
-
-## $$(55)$$
-
-Using $p_i \approx p_j$ and approximating $\sum_k \nabla W_{jk} \approx \nabla W_{ji}$ , the equation can further be simplified to
-
-$$\rho^{0} = \rho_{i}^{*} + p_{i} \frac{2\Delta t^{2} m_{i}^{2}}{(\rho^{0})^{2}} \sum_{j} \left( -\sum_{j} \nabla W_{ij} + \nabla W_{ji} \right) \cdot \nabla W_{ij}$$
-
-$$= \rho_{i}^{*} - p_{i} \underbrace{\frac{2\Delta t^{2} m_{i}^{2}}{(\rho^{0})^{2}} \left( \sum_{j} \nabla W_{ij} \cdot \sum_{j} \nabla W_{ij} + \sum_{j} (\nabla W_{ij} \cdot \nabla W_{ij}) \right)}_{-\frac{1}{k^{\text{PCI}}}}.$$
-## (56)
-
-In PCISPH, the coefficient $k^{\text{PCI}}$ is considered for a template particle with perfect sampling, *i.e.*, $\sum_{j} \nabla W_{ij} \cdot \sum_{j} \nabla W_{ij} + \sum_{j} (\nabla W_{ij} \cdot \nabla W_{ij}) = \text{const.}$ Finally, we have the following equation per particle:
-
-$$p_i = k^{\text{PCI}}(\rho^0 - \rho_i^*) \tag{57}$$
-
-with
-
-$$k^{\text{PCI}} = -\frac{0.5(\rho^0)^2}{\Delta t^2 m_i^2} \cdot \frac{1}{\sum_j \nabla W_{ij} \cdot \sum_j \nabla W_{ij} + \sum_j (\nabla W_{ij} \cdot \nabla W_{ij})}$$
-## (58)
-
-for a template particle i with perfect sampling. This is a state equation, where the stiffness constant is not user-defined, but motivated by the fact that Eq. (50) should be satisfied, i.e., the pressure should induce pressure accelerations such that the particles have their rest density at time $t + \Delta t$ .
-
-**Iterative refinement** The locally optimized state equation is one important property of the PCISPH concept. A second significant characteristics is the iterative refinement of the pressure field. While this sounds expensive, it is motivated by large time steps compared to simple state-equation solvers. PCISPH computes a first estimate of the pressure $p_i^{(1)}$ with Eq. (57). This predicted pressure field is used to compute $(\mathbf{a}_i^{\mathbf{p}})^{(1)}$ with Eq. (53). Then, the pressure field is iteratively refined by
-
-$$p_i^{(l+1)} = p_i^{(l)} + k^{\text{PCI}}(\rho^0 - \rho_i^* - \Delta t \sum_j m_j (\Delta t(\mathbf{a}_i^p)^{(l)} - \Delta t(\mathbf{a}_j^p)^{(l)}) \cdot \nabla W_{ij})$$
-
-## $$(59)$$
-
-## in iteration l. The term
-
-$$(\rho_i^{\mathrm{p}})^{(l)} = \Delta t \sum_i m_j (\Delta t(\mathbf{a}_i^{\mathrm{p}})^{(l)} - \Delta t(\mathbf{a}_j^{\mathrm{p}})^{(l)}) \cdot \nabla W_{ij}$$
-## (60)
-
-is one option to predict the density change due to the pressure accelerations. If this density change does not cancel the predicted density deviation $\rho^0-\rho_i^*$ , the predicted pressure is corrected. Similarly to IISPH, the process is stopped if $(\rho^0-\rho_i^*+(\rho_i^p)^{(l)})/\rho^0$ is sufficiently small, e.g., smaller than 0.1%. The original PCISPH depiction proposes to compute $\rho_i^p$ from particle displacements due to the pressure accelerations, i.e.,
-
-$$(\rho_i^{\mathsf{p}})^{(l)} = m_i \left( (\Delta \mathbf{x}_i)^{(l)} \cdot \sum_j \nabla W_{ij} - \sum_j \nabla W_{ij} \cdot (\Delta \mathbf{x}_j)^{(l)} \right). \tag{61}$$
-
-If $(\Delta \mathbf{x}_i)^{(l)} = \Delta t^2 (\mathbf{a}_i^p)^{(l)}$ and $m_i = m_j$ , Eqs. (60) and (61) are identical. We prefer Eq. (60) as it will also be used in the discussion of the relation between PCISPH and IISPH.
-
-**Implementation** Alg. 3 shows the implementation of PCISPH. The stiffness constant $k^{\text{PCI}}$ is computed once at the beginning of the simulation. The same coefficient is used for all particles. The pressure field is predicted with the state equation in Eq. (57). The effect of the respective pressure acceleration onto the density is estimated. Remaining deviations from the rest density are used to compute pressure corrections with Eq. (59). Neighbor search and the advection of the particles are omitted in Alg. 3.
-
-#### 4.8. Relations between SESPH, IISPH and PCISPH
-
-The PCISPH pressure solver updates the pressure with
-
-$$p_i^{(l+1)} = p_i^{(l)} + k^{\text{PCI}}(\rho^0 - \rho_i^* - \Delta t \sum_j m_j (\Delta t(\mathbf{a}_i^{\text{p}})^{(l)} - \Delta t(\mathbf{a}_j^{\text{p}})^{(l)}) \cdot \nabla W_{ij})$$
-
-## $$(62)$$
-
-which simplifies to the state equation
-
-$$p_i^{(1)} = k^{\text{PCI}}(\rho^0 - \rho_i^*) \tag{63}$$
-
-for the first update if the pressure is initialized with $p_i^{(0)}=0$ . The same applies to IISPH. The solver updates pressure with
-
-$$p_i^{(l+1)} = p_i^{(l)} + \frac{\omega}{a_{ii}} \left( s_i - (\mathbf{A}\mathbf{p}^{(l)})_i \right)$$
-## (64)
-
-
-compute stiffness constant k^{\text{PCI}} with Eq. (58) 
-for all particle\ i\ \mathbf{do}
- compute predicted density \rho_i^* with Eq. (51) 
- initialize pressure p_i^{(1)} with Eq. (57) 
-l=1
-
-repeat
- for all particle\ i\ \mathbf{do}
- compute pressure acceleration (\mathbf{a}_i^{\text{p}})^{(l)} with Eq. (53) 
-for all particle\ i\ \mathbf{do}
- compute density change (\rho_i^{\text{p}})^{(l)} with Eq. (60) 
- update pressure p_i^{(l+1)} with Eq. (59) 
-l=l+1
-
-until \rho_i^{\text{avg\_err},*} < 0.1\%
-## 
-Algorithm 3: Pressure computation with the PCISPH solver.
-
-which simplifies to the state equation
-
-$$p_i^{(1)} = \frac{\omega}{a_{ii}} s_i = \frac{\omega}{a_{ii}} (\rho^0 - \rho_i^*)$$
-## (65)
-
-for the first update if the pressure is initialized with $p_i^{(0)} = 0$ . *I.e.*, if IISPH or PCISPH stop after one pressure update, they are state-equation solvers.
-
-Another remarkable aspect are the stiffness constants in PCISPH (Eqs. (62) and (63)) and IISPH (Eqs. (64) and (65)). The PCISPH stiffness constant is
-
-$$k^{\text{PCI}} = -\frac{0.5(\rho^{0})^{2}}{\Delta t^{2} m_{i}^{2}} \cdot \frac{1}{\sum_{j} \nabla W_{ij} \cdot \sum_{j} \nabla W_{ij} + \sum_{j} (\nabla W_{ij} \cdot \nabla W_{ij})}.$$
-## (66)
-
-The IISPH constant is $\frac{\omega}{a_{ii}}$ with $\omega = 0.5$ and
-
-$$a_{ii} = -\Delta t^2 \sum_{j} m_j \left( \sum_{j} \frac{m_j}{\rho_j^2} \nabla W_{ij} \right) \cdot \nabla W_{ij}$$
-$$-\Delta t^2 \sum_{j} m_j \left( \frac{m_i}{\rho_i^2} \nabla W_{ij} \right) \cdot \nabla W_{ij}. \tag{67}$$
-
-Applying the same assumptions as for PCISPH, *i.e.*, $\rho_i = \rho^0$ and $m_i = m_j$ , the diagonal element simplifies to
-
-$$a_{ii} = -\frac{\Delta t^2 m_i^2}{(\rho^0)^2} \left( \sum_j \nabla W_{ij} \cdot \sum_j \nabla W_{ij} + \sum_j (\nabla W_{ij} \cdot \nabla W_{ij}) \right). \tag{68}$$
-
-Thus.
-
-$$k^{\text{PCI}} = \frac{\omega}{a_{ii}}.$$
-## (69)
-
-Further,
-
-$$\Delta t \sum_{j} m_{j} (\Delta t (\mathbf{a}_{i}^{\mathbf{p}})^{(l)} - \Delta t (\mathbf{a}_{j}^{\mathbf{p}})^{(l)}) \cdot \nabla W_{ij}) = (\mathbf{A} \mathbf{p}^{(l)})_{i}$$
-## (70)
-
-which means that the pressure update with Eq. (62) in the PCISPH solver is equal to the pressure update with Eq. (64) in the IISPH solver. There might be insignificant differences in the computations of $\rho_i^*$ and $(\mathbf{Ap})_i$ between PCISPH and IISPH, but both solvers are essentially equal.
-
-Ihmsen et al. [ICS\*14] report significant performance differences between PCISPH and IISPH. These differences are possibly due to the fact that PCISPH computes one global stiffness constant $k^{\text{PCI}}$ for a template particle, while IISPH computes $a_{ii}$ for each particle. In particular, $\sum_j \nabla W_{ij} \cdot \sum_j \nabla W_{ij} + \sum_j (\nabla W_{ij} \cdot \nabla W_{ij})$ is assumed to be constant in PCISPH, while it is computed per particle in IISPH. The respective difference affects the performance. If $k^{\text{PCI}} < \frac{\omega}{a_{ii}}$ , the convergence of PCISPH is worse than with IISPH. If $k^{\text{PCI}} > \frac{\omega}{a_{ii}}$ , PCISPH could be unstable. Such potential instabilities are difficult to deal with and might result in the requirement of significantly smaller time steps compared to IISPH. There are also other smaller differences between PCISPH and IISPH. E.g., PCISPH computes $\rho_i^*$ from advected samples without updated neighborhood, while IISPH uses the velocity divergence to estimate $\rho_i^*$ . Such differences, however, are probably less relevant for stability or convergence differences.
+**Stop criterion** There is no agreement on when to stop the Jacobi iterations in Eq. (48). The iterations could be stopped after a fixed number. Alternatively, a predicted density deviation is often considered. This is motivated by the fact that $(\mathbf{A}\mathbf{p}^{(l)})_i$ is a predicted density change at particle i due to the pressure field at iteration l. I.e., $\rho_i^{\text{err},*} = ((\mathbf{A}\mathbf{p}^{(l)})_i - s_i)/\rho^0 = ((\mathbf{A}\mathbf{p}^{(l)})_i + \rho_i^* - \rho^0)/\rho^0$ is a predicted relative density error at particle i, if pressure accelerations according to the pressure field $\mathbf{p}^{(l)}$ would be applied. Typically, the average of all $\rho_i^{\text{err},*}$ is taken as a stop criterion, e.g., $\rho_i^{\text{avg\_err},*} = \frac{1}{n} \sum_i |\rho_i^{\text{err},*}|$ . In [ICS\*14], it is proposed to stop if, e.g., $\rho_i^{\text{avg\_err},*}  \frac{\omega}{a_{ii}}$ , PCISPH could be unstable. Such potential instabilities are difficult to deal with and might result in the requirement of significantly smaller time steps compared to IISPH. There are also other smaller differences between PCISPH and IISPH. E.g., PCISPH computes $\rho_i^*$ from advected samples without updated neighborhood, while IISPH uses the velocity divergence to estimate $\rho_i^*$ . Such differences, however, are probably less relevant for stability or convergence differences.
 
 #### 4.9. PPE Variants
 
@@ -744,96 +594,7 @@ Note that this formulation is similar to the pressure computation of PCISPH (see
 Algorithm 4 shows the divergence-free solver. In each iteration first the divergence is updated for all particles. Then the pressure values are determined and the predicted velocity is updated accordingly.
 
 1: **while** 
-$$\left(\left(\frac{D\rho}{Dt}\right)^{\text{avg}} > \eta^{\text{div}}\right) \lor (\text{iter} < 1)$$
- **do**
-2: **for all** particles $i$ **do**
-3: $\frac{D\rho_i}{D} = -\rho_i \nabla \cdot \mathbf{v}_i^*$ 
-4: **for all** particles $i$ **do**
-5: $p_i^{\nu} = \frac{1}{\Delta t} \frac{D\rho_i}{Dt} k_i^{\text{DFSPH}}, \quad p_j^{\nu} = \frac{1}{\Delta t} \frac{D\rho_j}{Dt} k_j^{\text{DFSPH}}$ 
-6: $\mathbf{v}_i^* := \mathbf{v}_i^* - \Delta t \sum_j m_j \left(\frac{p_j^{\nu}}{\rho_i^2} + \frac{p_j^{\nu}}{\rho_j^2}\right) \nabla W_{ij}$ 
-
-## Algorithm 4: Divergence-free solver
-
-**Constant Density Solver** The constant density solver uses the PPE with density deviation as source term (see Eq. (75)). For this PPE we get a pressure of
-
-$$p_i = \frac{1}{\Delta t^2} (\rho_i^* - \rho_0) k_i^{\text{DFSPH}}, \tag{81}$$
-
-where the predicted density is determined by
-
-$$\rho_i^* = \rho_i + \Delta t \frac{D\rho_i}{Dt} = \rho_i + \Delta t \sum_j m_j (\mathbf{v}_i^* - \mathbf{v}_j^*) \cdot \nabla W_{ij}.$$
-## (82)
-
-Note that the factor $k_i^{\rm DFSPH}$ is used for both, the divergence-free and the constant density solver. Therefore, it has to be computed only once per simulation step. Algorithm 5 demonstrates an implementation of the constant density solver.
-
-
-1: while (\rho^{\text{avg}} - \rho_0 > \eta) \lor (\text{iter} < 2) \text{ do}
-
-2: for all particles i do
-
-3: compute \rho_i^*
-
-4: for all particles i do
-
-5: p_i = \frac{\rho_i^* - \rho_0}{\Delta t^2} k_i^{\text{DFSPH}}, \quad p_j = \frac{\rho_j^* - \rho_0}{\Delta t^2} k_j^{\text{DFSPH}}
-
-6: \mathbf{v}_i^* := \mathbf{v}_i^* - \Delta t \sum_j m_j \left(\frac{p_i}{\rho_i^2} + \frac{p_j}{\rho_j^2}\right) \nabla W_{ij}
-## 
-## Algorithm 5: Constant density solver
-
-**DFSPH Simulation Step** Algorithm 6 shows a simulation step with DFSPH and how both solvers are integrated in the time step. Note that the neighborhoods, the particle densities and the factor $k_i^{\text{DFSPH}}$ are computed once at the beginning of the simulation for the initial state and then updated once per time step. The algorithm first computes predicted velocities by integrating all non-pressure accelerations. Then the density deviation is corrected using the constant density solver which yields new particle positions. Hence, the neighborhoods, the density values and the factors must be updated. After correcting the density deviation the velocity field is typically not divergence-free. This is corrected in the last step by the divergence-free solver which gives us the final velocities. Note that the order of the steps is a bit different than the order of other solvers but in this way it is guaranteed that the density deviations and the divergence error are both corrected at the end of a time step. Moreover, in this way we have to update the factor $k_i^{\text{DFSPH}}$ only once per time step but are able to use it twice: for the constant density solver and for the divergence-free solver.
-
-DFSPH solves two PPEs which is more expensive than solving
-
-
-1: for all particles i do
-           compute non-pressure accelerations \mathbf{a}_{i}^{\text{nonp}}
- 3: adapt time step size \Delta t according to CFL condition
- 4: for all particles i do
-           predict velocity \mathbf{v}_{i}^{*} = \mathbf{v}_{i} + \Delta t \mathbf{a}_{i}^{\text{nonp}}
- 5:
- 6: correct density error using algorithm 5
- 7: for all particles i do
-           update position \mathbf{x}_i^{t+\Delta t} = \mathbf{x}_i + \Delta t \mathbf{v}_i^*
- 9: update neighborhoods
-10: for all particles i do
-           update density \rho_i
-update factor k_i^{\text{DFSPH}} using Eq. (79)
-11:
-12:
-13: correct divergence error using algorithm 4
-14: for all particles i do
-           update velocity \mathbf{v}_i^{t+\Delta t} = \mathbf{v}_i^*
-15:
-## 
-## Algorithm 6: Simulation step with DFSPH
-
-just one like PCISPH or IISPH. However, the second solve is not that expensive since the costly computation of the factor $k_i^{\text{DFSPH}}$ has to be performed only once per step. Experiments have shown that solving both PPEs leads to a better stability which enables larger time steps and therefore a faster simulation [BK17]. The performance can be further improved by using a warm start. More details about this can be found in [BK17].
-
-# 4.11. The Best Pressure Solver
-
-Iterative PPE solvers are more expensive to compute than EOS solvers. Their utility, however, is motivated by the fact that PPE solvers work with significantly larger time steps compared to EOS solvers. Solenthaler and Pajarola [SP09] show an improved overall performance of PCISPH compared to the EOS solver in [BT07]. Ihmsen et al. [ICS\*14] show an improved performance of IISPH compared to PCISPH and Bender and Koschier [BK17] show a performance gain of DFSPH compared to IISPH. So, DFSPH has the best overall performance of all discussed PPE variants.
-
-Although PPE solvers work with big time steps, they do not reach their best overall performance for the largest possible time step as discussed in [ICS\*14] and [IOS\*14]. Although the number of neighborhood searches decreases for larger time steps, the solver iterations increase for larger time steps.
-
-The reported performance gains of PPE solvers compared to EOS solvers have been estimated for so-called complex scenarios. The term complex refers basically to the height of a simulated fluid body under gravity. The higher the simulated fluid column, the more complex the scenario, the bigger the performance gain of a PPE solver. If a scenario is simple, *e.g.*, one layer of fluid particles on a planar boundary, EOS solvers are faster. The overall number of particles does not necessarily influence the solver performance. An EOS solver is more efficient than a PPE solver for one billion fluid particles in one layer on a plane, while a PPE solver is more efficient than an EOS solver for one hundred particles on top of each other in one column under gravity.
-
-Independent from whether there is a performance gain of a PPE
-
-solver, they are more simple to handle than EOS solvers. In an EOS solver, the stiffness constant has to be found to realize a desired density deviation and the time step has to be found to get a stable simulation. In a PPE solver, the desired density deviation is explicitly specified. The time step is also easier to estimate as it is typically rather larger, corresponding to CFL numbers close to one.
-
-#### 5. Boundary Handling
-
-In order to complete the discretization of a mixed initial-boundary value problem (see Section 2) the boundary of the simulation domain has to be discretized and the corresponding boundary conditions must be enforced. In recent years, a wide variety of approaches to represent boundary geometries and to enforce boundary conditions has been presented. The approaches can be roughly categorized into particle-based approaches, *e.g.*, [AIA\*12,IAGT10, BT07, BGPT18, BGI\*18, GPB\*19], and implicit approaches, *e.g.*, [KB17, HKK07a, HKK07b, BLS12].
-
-The particle based strategy is probably the most popular representation type. The main idea is to sample the boundary geometry using an additional set of so-called boundary particles equipped with a (sometimes specialized) kernel function. The advantages here are that the representation is consistent with the discretization of the fluid or solid. Modeling, either explicit/implicit boundary forces for weak satisfaction of boundary conditions or algorithms to strongly satisfy the constraints is probably more straightforward than using implicit or mesh-based techniques. Most methods, however, have the constraint that the particle size used to sample the boundary has to be the same as the particle size of the continuum discretization. The disadvantages are that even the representation of simple geometries, such as a plane, requires a large number of boundary particles that have to be accounted for during the neighborhood search and in the evaluation of field quantities, e.g., Eq. (11). Moreover, determining "good" samplings is generally non-trivial. Too sparse samplings might not sufficiently cover the surface of the boundary leading to the issue of SPH particles penetrating the boundary. Too dense samplings lead to an increased computational effort and to higher memory requirements. Also a somewhat "bumpy" sampling might lead to a bias in the particle trajectories as the discretized surfaces' smoothness suffers from sampling noise leading to unwanted perturbations in the simulation (cf., [KB17]) if no additional considerations are made, such as proposed by Band et al. [BGPT18].
-
-Implicit boundaries use an implicit function – typically a signed distance field (SDF) – to represent the boundary geometry. Advantages of this type of approaches are that the boundary representation is decoupled from the particle size. As a result, more flexible data structures, *e.g.*, adaptive octrees with higher-order approximations [KDBB17], can be used to memory-efficiently and accurately represent the boundary geometry. This circumstance also avoids the problem of noisy boundary samplings, the resulting bias, and unwanted perturbations in the particle trajectories. Typical disadvantages are, that implicit representations do not directly integrate with particle based continuum discretizations. In order to couple both discretization types, special considerations have to be made and the corresponding implementation is rather involved.
-
-In the remainder of this section, we will discuss approaches to
-
-![](_page_18_Figure_1.jpeg)
-
-Figure 8: Idea of the particle-based boundary handling. The boundary is represented with particles $\mathbf{x}_{i_b}$ . These particles are considered in the computation of density $\rho_i$ , pressure $p_i$ , and pressure force $\mathbf{F}_i^p$ of nearby fluid particles $\mathbf{x}_i$ . If a fluid particle moves closer to the boundary, its density increases. If a fluid particle is too close, its density is larger than the rest density, *i.e.*, $\rho_i > \rho^0$ , which causes pressure $p_i > 0$ which in turn causes a pressure force $\mathbf{F}_i^p \neq \mathbf{0}$ that accelerates the fluid particle away from boundary particles. Please note that $i_b$ denote boundary neighbors of a fluid particle i. Accordingly, $i_f$ refer to indices of fluid neighbors of a fluid particle i.
+$$\left(\left(\frac{D\rho}{Dt}\right)^{\text{avg}} > \eta^{\text{div}}\right) \lor (\text{iter}  \eta) \lor (\text{iter}  \rho^0$ , which causes pressure $p_i > 0$ which in turn causes a pressure force $\mathbf{F}_i^p \neq \mathbf{0}$ that accelerates the fluid particle away from boundary particles. Please note that $i_b$ denote boundary neighbors of a fluid particle i. Accordingly, $i_f$ refer to indices of fluid neighbors of a fluid particle i.
 
 handle non-penetration of rigid boundaries using particle sampling approaches. We gradually develop a formulation starting with a simple dense, uniform multilayer sampling of the boundary and show how the method can be simplified to a uniform single layer sampling and consequently even to a robust and consistent formulation using non-uniformly sampled boundaries. We moreover discuss how the fluid-boundary coupling can be improved using pressure mirroring or pressure extrapolation and how these techniques can be incorporated into the previously discussed pressure solvers. For implicit or mesh-based boundary handling techniques we would like to refer the reader to the corresponding literature, e.g., [KB17, HKK07a, HKK07b, BLS12, MFK\*15, FLR\*13, FM15]
 
@@ -1010,103 +771,7 @@ Instead of computing the Laplacian of the velocity field in order to simulate vi
 
 $$\hat{\mathbf{v}}_i = \mathbf{v}_i + \alpha \sum_j \frac{m_j}{\rho_j} (\mathbf{v}_j - \mathbf{v}_i) W_{ij}, \tag{103}$$
 
-where $0 \le \alpha < 1$ is a user-defined parameter. The core idea of smoothing the velocity field in this way is to reduce the particle disorder by reducing the velocity difference between a particle and its
-
-![](_page_22_Picture_1.jpeg)
-
-## ![](_page_22_Picture_2.jpeg)
-
-## ![](_page_22_Picture_3.jpeg)
-
-Figure 14: Different examples for the simulation of viscous behavior. Left: The simulation of highly viscous fluids enables realistic buckling effects [WKBB18]. Center: A viscous dough interacts with a fast moving solid [PICT15]. Right: A melting Eiffel tower is simulated (the model is courtesy of Pranav Panchal) [PT16].
-
-neighborhood. The advantage of this formulation is that no kernel derivative is required. The disadvantage is that $\alpha$ is not physically meaningful.
-
-# 6.3. Implicit Viscosity
-
-Simulating the behavior of highly viscous materials implies that the viscosity coefficient is large. However, in this case explicit viscosity solvers tend to get unstable. Therefore, it is recommended to use an implicit method in order to simulate highly viscous fluids. In this subsection we introduce some of the most important implicit viscosity solvers [TDF\*15,PICT15,PT16,WKBB18]. We first present the concepts of these solvers in chronological order and then compare the different approaches.
-
-**Takahashi et al.** [TDF\*15] As discussed in the previous subsection, one way to compute the second derivative of the velocity field is to take two first SPH derivatives. This approach is used by Takahashi et al. to formulate an implicit integration scheme for the viscosity term in the Navier-Stokes equations. The implicit integration enables a stable simulation of highly viscous fluids. In each simulation step Takahashi et al. first determine the strain rate $E_i$ for each particle i using Eq. (98). Following the Navier-Stokes equations (see Eq. (99)) the authors then compute the divergence of the strain rate as
-
-$$\nabla \cdot \left( \nabla \mathbf{v}_i + (\nabla \mathbf{v}_i)^T \right) = \sum_j m_j \left( \frac{2\mathbf{E}_i}{\rho_i^2} + \frac{2\mathbf{E}_j}{\rho_j^2} \right) \nabla W_{ij}. \tag{104}$$
-
-Using this formulation the implicit integration scheme can be derived as
-
-$$\mathbf{v}(t + \Delta t) = \mathbf{v}^* + \frac{\Delta t}{\rho} \mu \nabla \cdot \left( \nabla \mathbf{v}(t + \Delta t) + (\nabla \mathbf{v}(t + \Delta t))^T \right), \quad (105)$$
-
-where $\mathbf{v}^*$ is the predicted velocity which is determined by integrating all non-pressure forces except viscosity. Takahashi et al. substitute Eq. (104) in Eq. (105) and solve the resulting formula to get the new velocities of the particles. The advantage of this implicit scheme is that highly viscous fluids can be simulated in a stable way while the viscosity is independent of the temporal and spatial resolution. However, in this formulation all second-ring neighbors of a particle have to be considered in order to compute one first-order SPH derivative after the other. This leads to many non-zero elements in the system matrix which decreases the performance significantly.
-
-**Peer et al. [PICT15, PT16]** Instead of using a classical implicit time integration scheme, Peer et al. propose to decompose and modify the velocity gradient $\nabla \mathbf{v}$ . The goal of the authors is to modify only the shear rate in order to simulate a viscous behavior. Hence, they exploit the fact that the velocity gradient can be decomposed as
-
-$$\nabla \mathbf{v} = \mathbf{R} + \mathbf{V} + \mathbf{S},\tag{106}$$
-
-where $\mathbf{R} = \frac{1}{2}(\nabla \mathbf{v} - (\nabla \mathbf{v})^T)$ is the spin rate tensor, $\mathbf{V} = \frac{1}{3}(\nabla \cdot \mathbf{v})\mathbb{1}$ the expansion rate tensor and $\mathbf{S} = \mathbf{E} - \mathbf{V}$ the traceless shear rate tensor. This decomposition enables to modify the traceless shear rate tensor without influencing the other components of the velocity gradient. Therefore, the authors define a target velocity gradient
-
-$$\nabla \mathbf{v}^{\text{target}} = \mathbf{R} + \mathbf{V} + \xi \mathbf{S} \tag{107}$$
-
-which reduces the shear rate by a user-defined factor $0 \le \xi \le 1$ . This modified velocity gradient can be used to determine new particle velocities by a Taylor approximation of first order
-
-$$\mathbf{v}_{i}(t+\Delta t) = \frac{1}{\rho_{i}} \sum_{j} m_{j} \left( \mathbf{v}_{j}(t+\Delta t) + \frac{\nabla \mathbf{v}_{i}^{\text{target}} + \nabla \mathbf{v}_{j}^{\text{target}}}{2} \mathbf{x}_{ij} \right) W_{ij}.$$
-## (108)
-
-This yields a linear system $\mathbf{A}\mathbf{v}(t + \Delta t) = \mathbf{b}$ , where the matrix entries and the right hand side vector are defined as
-
-## $$\mathbf{A}_{ij} = -m_i W_{ij},\tag{109}$$
-
-$$\mathbf{A}_{ii} = \mathbf{\rho}_i - m_i W_{ii},\tag{110}$$
-
-$$\mathbf{b}_{i} = \sum_{i} m_{j} \frac{\nabla \mathbf{v}_{i}^{\text{target}} + \nabla \mathbf{v}_{j}^{\text{target}}}{2} \mathbf{x}_{ij} W_{ij}. \tag{111}$$
-
-This system can be decomposed to get three smaller linear systems for the x-, y- and z-component of the velocity. Finally, the authors propose to solve the three systems using a conjugate gradient method.
-
-Later, Peer and Teschner [PT16] extended this method by simulating vorticity diffusion in order to improve the rotational motion. The diffusion process in a viscous fluid is described by $\frac{D\omega}{Dt} = v\nabla^2\omega$ . The authors determine $\omega = (\omega_x, \omega_y, \omega_z)^T$ from the spin rate tensor as
-
-$$\mathbf{R} = \frac{1}{2} \begin{pmatrix} 0 & -\omega_z & \omega_y \\ \omega_z & 0 & -\omega_x \\ -\omega_y & \omega_x & 0 \end{pmatrix}. \tag{112}$$
-
-Analogous to Eq. (107) the vorticity is reduced by solving the system
-
-$$\nabla^2 \omega_i^{\text{target}} = \xi \nabla^2 \omega. \tag{113}$$
-
-The resulting vector $\omega_i^{\text{target}}$ is used to determine a target spin rate tensor $\mathbf{R}_i^{\text{target}}$ which is substituted in Eq. (107) before reconstructing the velocity field using Eq. (108).
-
-The proposed methods are very efficient and enable a stable simulation of highly viscous materials. However, these methods have also some disadvantages. The reconstruction of the velocity field using SPH is problematic as discussed in [BGFAO17] and introduces a significant damping. When simulating highly viscous fluids, this damping effect is not that crucial but this approach is not recommended for the simulation of low viscous flow. Another disadvantage of the methods is that the viscosity parameter $\xi$ is not physically meaningful and depends on the temporal and spatial resolution.
-
-**Bender and Koschier [BK17]** The authors of this work also reduce the strain rate by introducing a user-defined coefficient which is similar to the core idea of Peer et al. However, instead of modifying the velocity gradient and reconstructing the velocity field, Bender and Koschier define a velocity constraint function $\mathbf{C}_i(\mathbf{v}) = \mathbf{E}_i - \gamma \mathbf{E}_i$ with the user-defined coefficient $0 \le \gamma \le 1$ . The constraint is defined as six-dimensional vector function where the vector contains the elements of the upper triangular part of the symmetric strain rate tensor. Finally, the constraint is enforced by first solving the linear system
-
-$$\left(\frac{1}{\rho_{i}}\frac{\partial \mathbf{E}_{i}}{\partial \mathbf{v}_{i}}\left(\frac{\partial \mathbf{E}_{i}}{\partial \mathbf{v}_{i}}\right)^{T} + \sum_{j}\frac{1}{\rho_{i}}\frac{\partial \mathbf{E}_{i}}{\partial \mathbf{v}_{j}}\left(\frac{\partial \mathbf{E}_{i}}{\partial \mathbf{v}_{j}}\right)^{T}\right)\mu_{i} = \mathbf{E}_{i} - \gamma\mathbf{E}_{i} \quad (114)$$
-
-for the Lagrange multiplier $\mu$ by Jacobi iterations. The final velocities are then determined as
-
-$$\mathbf{v}_{i}(t+\Delta t) = \mathbf{v}_{i}^{*} + \frac{1}{m_{i}} \left( \frac{m_{i}}{\rho_{i}} \left( \frac{\partial \mathbf{E}_{i}}{\partial \mathbf{v}_{i}} \right)^{T} \mu_{i} + \sum_{j} \frac{m_{j}}{\rho_{j}} \left( \frac{\partial \mathbf{E}_{j}}{\partial \mathbf{v}_{i}} \right)^{T} \mu_{j} \right). \tag{115}$$
-
-Details about the computation of $\partial \mathbf{E}/\partial \mathbf{v}$ can be found in [BK17].
-
-The advantage of solving a constraint function instead of using the velocity field reconstruction approach of Peer et al. is that also low viscous fluids can be simulated. The disadvantages of the method are that solving six-dimensional constraints using Jacobi iterations is computationally expensive and the introduced viscosity coefficient depends on the temporal and spatial resolution.
-
-Weiler et al. [WKBB18] All implicit viscosity methods introduced so far, use a formulation based on the strain rate tensor E. The strain rate is determined by Eq. (98), where the velocity gradient $\nabla v$ is computed using the following SPH discretization (see Section 2.5):
-
-$$\nabla \mathbf{v}_i = \frac{1}{\rho_i} \sum_j m_j (\mathbf{v}_j - \mathbf{v}_i) \nabla W_{ij}^T.$$
-## (116)
-
-Weiler et al. found out that this SPH discretization is negatively affected by the particle deficiency problem at the free surface of a fluid. For a rotational velocity field (see Fig. 15, left) the strain rate
-
-![](_page_23_Figure_14.jpeg)
-
-Figure 15: When computing the strain rate tensor using Eq. (116), errors occur at the free surface due to particle deficiency [WKBB18]. Left: Velocity field of a rotational motion. Right: The corresponding strain rate should be zero for all particles. However, the plot of the Frobenius norm of the tensors shows an error at the free surface.
-
-should be ${\bf E}={\bf 0}$ since a rotation is a rigid body motion which does not deform the body. However, when using the SPH discretization in Eq. (116), the strain rate is not zero at the free surface (see Fig. 15, right). In this experiment we can observe a significant error at the boundary. The main problem is that the viscosity solver tries to counteract this erroneous strain rate which leads to ghost forces. These forces causes severe visual artifacts and a loss of angular momentum which is discussed later in more detail.
-
-To solve this problem, Weiler et al. developed an implicit viscosity solver which directly determines the Laplacian of the velocity field instead of using the strain rate. Their approach is based on the implicit integration scheme
-
-$$\mathbf{v}(t+\Delta t) = \mathbf{v}^* + \frac{\Delta t}{\rho} \mu \nabla^2 \mathbf{v}(t+\Delta t). \tag{117}$$
-
-This is similar to the one of Takahashi et al. [TDF\*15] but uses the Laplacian of the velocity field instead of the divergence of the strain rate. To compute the Laplacian, the approximation in Eq. (102) is used. Since this approximation vanishes for rigid body rotations and conserves linear and angular momentum [Mon92], the proposed approach solves the problems of the methods above.
-
-Eq. (117) is a linear system which has to be solved to get the unknown new velocities $\mathbf{v}(t + \Delta t)$ . Using the SPH discretization of the Laplacian in Eq. (102), we can rewrite this linear system as
-
-$$(1 - \Delta t \mathbf{A}) \mathbf{v}(t + \Delta t) = \mathbf{v}^*, \tag{118}$$
-
-where the matrix **A** contains a $3 \times 3$ block **A**<sub>ij</sub> for each pair of neighboring particles *i* and *j*:
+where $0 \le \alpha ij for each pair of neighboring particles *i* and *j*:
 
 $$\mathbf{A}_{ij} = -2(d+2)\frac{\mu \overline{m}_{ij}}{\rho_i \rho_j} \frac{\nabla W_{ij} \mathbf{x}_{ij}^T}{\left\|\mathbf{x}_{ij}\right\|^2 + 0.01h^2}, \quad \mathbf{A}_{ii} = -\sum_j \mathbf{A}_{ij}. \quad (119)$$
 
@@ -1220,7 +885,7 @@ In SPH fluid simulations turbulent details quickly get lost due to numerical dif
 
 As already discussed, SPH discretizations tend to overly dissipate energy in turbulent flow. Therefore, Macklin and Müller [MM13] employ a method based on vorticity confinement in order to counteract the dissipation by amplifying existing vortices. The technique consists of three steps:
 
-The vorticity ω<sub>i</sub> for each particle i is computed using a discrete curl operator, e.g.,
+The vorticity ωi for each particle i is computed using a discrete curl operator, e.g.,
 
 $$\mathbf{\omega}_i = \nabla \times \mathbf{v}_i = -\sum_j \frac{m_j}{\rho_j} \mathbf{v}_{ij} \times \nabla_i W_{ij}. \tag{131}$$
 
@@ -1793,10 +1458,10 @@ Our tutorial introduced the SPH-based open-source library SPlisHSPlasH that cont
 - [HA06] HU X., ADAMS N.: A multi-phase SPH method for macroscopic and mesoscopic flows. *Journal of Computational Physics 213*, 2 (2006), 844–861. 29, 30
 - [HKK07a] HARADA T., KOSHIZUKA S., KAWAGUCHI Y.: Smoothed particle hydrodynamics in complex shapes. In *Spring Conference on Computer Graphics* (2007), pp. 191–197. 18, 19
 - [HKK07b] HARADA T., KOSHIZUKA S., KAWAGUCHI Y.: Smoothed Particle Hydrodynamics on GPUs. In *Computer Graphics International* (2007), pp. 63–70. 18, 19
-- [HLL∗12] H<sup>E</sup> X., LIU N., L<sup>I</sup> S., WANG H., WANG G.: Local Poisson SPH for Viscous Incompressible Fluids. *Computer Graphics Forum 31* (2012), 1948–1958. 16
+- [HLL∗12] HE X., LIU N., LI S., WANG H., WANG G.: Local Poisson SPH for Viscous Incompressible Fluids. *Computer Graphics Forum 31* (2012), 1948–1958. 16
 - [Hoo98] HOOVER W.: Isomorphism linking smooth particles and embedded atoms. *Physica A: Statistical Mechanics and its Applications 260*, 3 (1998), 244–254. 29
 - [HS13] HORVATH C. J., SOLENTHALER B.: Mass preserving multiscale SPH. Pixar Technical Memo 13-04, Pixar Animation Studios, 2013. 30
-- [HWZ∗14] H<sup>E</sup> X., WANG H., ZHANG F., WANG H., WANG G., ZHOU K.: Robust Simulation of Sparsely Sampled Thin Features in SPH-Based Free Surface Flows. *ACM Transactions on Graphics 34*, 1 (2014), 7:1– 7:9. 25, 37
+- [HWZ∗14] HE X., WANG H., ZHANG F., WANG H., WANG G., ZHOU K.: Robust Simulation of Sparsely Sampled Thin Features in SPH-Based Free Surface Flows. *ACM Transactions on Graphics 34*, 1 (2014), 7:1– 7:9. 25, 37
 - [IAAT12] IHMSEN M., AKINCI N., AKINCI G., TESCHNER M.: Unified spray, foam and air bubbles for particle-based fluids. *The Visual Computer 28*, 6-8 (2012), 669–677. 9
 - [IABT11] IHMSEN M., AKINCI N., BECKER M., TESCHNER M.: A Parallel SPH Implementation on Multi-Core CPUs. *Computer Graphics Forum 30*, 1 (Mar. 2011), 99–112. 10, 11, 37
 - [IAGT10] IHMSEN M., AKINCI N., GISSLER M., TESCHNER M.: Boundary handling and adaptive time-stepping for PCISPH. In *Virtual Reality Interactions and Physical Simulations* (2010), pp. 79–88. 18
@@ -1831,7 +1496,7 @@ Our tutorial introduced the SPH-based open-source library SPlisHSPlasH that cont
 - [Pri12] PRICE D. J.: Smoothed particle hydrodynamics and magnetohydrodynamics. *Journal of Computational Physics 231*, 3 (Feb. 2012), 759–794. 2, 5, 6, 7, 22
 - [PT16] PEER A., TESCHNER M.: Prescribed velocity gradients for highly viscous SPH fluids with vorticity diffusion. *IEEE Transactions on Visualization and Computer Graphics* (2016), 1–9. 23, 25, 26, 37
 - [RL96] RANDLES P., LIBERSKY L.: Smoothed particle hydrodynamics: Some recent improvements and applications. *Computer Methods in Applied Mechanics and Engineering 139*, 1 (1996), 375 – 408. 5
-- [RLY∗14] REN B., L<sup>I</sup> C., YAN X., LIN M. C., BONET J., H<sup>U</sup> S.-M.: Multiple-Fluid SPH Simulation Using a Mixture Model. *ACM Transactions on Graphics 33*, 5 (2014), 1–11. 31
+- [RLY∗14] REN B., LI C., YAN X., LIN M. C., BONET J., HU S.-M.: Multiple-Fluid SPH Simulation Using a Mixture Model. *ACM Transactions on Graphics 33*, 5 (2014), 1–11. 31
 - [SB12] SCHECHTER H., BRIDSON R.: Ghost SPH for animating water. *ACM Transactions on Graphics 31*, 4 (2012), 61:1–61:8. 9, 22, 30, 37
 - [SF18] SCHENCK C., FOX D.: Spnets: Differentiable fluid dynamics for deep neural networks. In *CoRL* (2018), vol. 87 of *Proceedings of Machine Learning Research*, PMLR, pp. 317–335. 36
 - [SG11] SOLENTHALER B., GROSS M.: Two-scale particle simulation. *TOG 30*, 4 (2011), 72:1–72:8. 30
@@ -1849,5 +1514,5 @@ Our tutorial introduced the SPH-based open-source library SPlisHSPlasH that cont
 
 - [WKBB18] WEILER M., KOSCHIER D., BRAND M., BENDER J.: A physically consistent implicit viscosity solver for sph fluids. *Computer Graphics Forum 37*, 2 (2018). 22, 23, 24, 25, 26, 37
 - [XFCT18] XIE Y., FRANZ E., CHU M., THUEREY N.: tempoGAN: A temporally coherent, volumetric GAN for super-resolution fluid flow. *TOG 37*, 4 (2018), 95. 36
-- [YCR∗15] YANG T., CHANG J., REN B., LIN M. C., ZHANG J. J., H<sup>U</sup> S.-M.: Fast multiple-fluid simulation using helmholtz free energy. *ACM Transactions on Graphics 34*, 6 (Oct. 2015), 201:1–201:11. 31
-- [YJL∗16] YAN X., JIANG Y.-T., L<sup>I</sup> C.-F., MARTIN R. R., H<sup>U</sup> S.-M.: Multiphase sph simulation for interactive fluids and solids. *ACM Transactions on Graphics 35*, 4 (July 2016), 79:1–79:11. 31
+- [YCR∗15] YANG T., CHANG J., REN B., LIN M. C., ZHANG J. J., HU S.-M.: Fast multiple-fluid simulation using helmholtz free energy. *ACM Transactions on Graphics 34*, 6 (Oct. 2015), 201:1–201:11. 31
+- [YJL∗16] YAN X., JIANG Y.-T., LI C.-F., MARTIN R. R., HU S.-M.: Multiphase sph simulation for interactive fluids and solids. *ACM Transactions on Graphics 35*, 4 (July 2016), 79:1–79:11. 31

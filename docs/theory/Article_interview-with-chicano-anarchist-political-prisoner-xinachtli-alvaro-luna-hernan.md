@@ -1,15 +1,8 @@
 ---
-title: >-
-  Interview With Chicano Anarchist Political Prisoner Xinachtli Alvaro Luna
-  Hernan
-date: 2025
-author: Anarchist Black Cross
-tags:
-  - organizing
-  - police
-  - prisons
-  - labor
-  - anarchism
+title: ">-"
+author: "Anarchist Black Cross"
+date: "2025"
+category: "theory"
 ---
 
 # Interview With Chicano Anarchist Political Prisoner Xinachtli Alvaro Luna Hernan

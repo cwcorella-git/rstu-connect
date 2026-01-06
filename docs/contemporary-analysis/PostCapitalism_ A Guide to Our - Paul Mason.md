@@ -1,3 +1,8 @@
+---
+title: "MASON POSTCAPITALISM AGUIDE TOUR FUTURE"
+category: "contemporary-analysis"
+---
+
 # MASON POSTCAPITALISM AGUIDE TOUR FUTURE
 
 ## ![](_page_1_Picture_0.jpeg)
@@ -14,19 +19,55 @@
 
 | Introduction | |
 |----------------------------------------------|-------------|
-| | PART<br>I |
-| 1<br>Neoliberalism<br>is<br>Broken | |
-| 2<br>Long<br>Waves,<br>Short<br>Memories | |
-| 3<br>Was<br>Marx<br>Right? | |
-| 4<br>The<br>Long,<br>Disrupted<br>Wave | |
-| | PART<br>II |
-| 5<br>The<br>Prophets<br>of<br>Postcapitalism | |
-| 6<br>Towards<br>the<br>Free<br>Machine | |
-| 7<br>Beautiful<br>Troublemakers | |
-| | PART<br>III |
-| 8<br>On<br>Transitions | |
-| 9<br>The<br>Rational<br>Case<br>for<br>Panic | |
-| 10<br>Project<br>Zero | |
+| | PART
+I |
+| 1
+Neoliberalism
+is
+Broken | |
+| 2
+Long
+Waves,
+Short
+Memories | |
+| 3
+Was
+Marx
+Right? | |
+| 4
+The
+Long,
+Disrupted
+Wave | |
+| | PART
+II |
+| 5
+The
+Prophets
+of
+Postcapitalism | |
+| 6
+Towards
+the
+Free
+Machine | |
+| 7
+Beautiful
+Troublemakers | |
+| | PART
+III |
+| 8
+On
+Transitions | |
+| 9
+The
+Rational
+Case
+for
+Panic | |
+| 10
+Project
+Zero | |
 | Notes | |
 ## | Acknowledgements | |
 
@@ -228,11 +269,11 @@ Then, through austerity programmes, they transferred the pain away from people w
 
 Services are being dismantled and infrastructure projects put on hold.
 
-Yet even now many people fail to grasp the true meaning of the word 'austerity'. Austerity is not seven years of spending cuts, as in the UK, or even the social catastrophe inflicted on Greece. Tidjane Thiam, the CEO of Prudential, spelled out the true meaning of austerity at the Davos forum in 2012. Unions are the 'enemy of young people', he said, and the minimum wage is 'a machine to destroy jobs'. Workers' rights and decent wages stand in the way of capitalism's revival and, says the millionaire finance guy without embarrassment, must go.<sup>4</sup>
+Yet even now many people fail to grasp the true meaning of the word 'austerity'. Austerity is not seven years of spending cuts, as in the UK, or even the social catastrophe inflicted on Greece. Tidjane Thiam, the CEO of Prudential, spelled out the true meaning of austerity at the Davos forum in 2012. Unions are the 'enemy of young people', he said, and the minimum wage is 'a machine to destroy jobs'. Workers' rights and decent wages stand in the way of capitalism's revival and, says the millionaire finance guy without embarrassment, must go.4
 
 This is the real austerity project: to drive down wages and living standards in the West for decades, until they meet those of the middle class in China and India on the way up.
 
-Meanwhile, lacking any alternative model, the conditions for another crisis are being assembled. Real wages have fallen or remained stagnant in Japan, the southern Eurozone, the USA and the UK.<sup>5</sup> The shadow banking system has been reassembled, and is now bigger than it was in 2008.<sup>6</sup> The combined global debt of banks, households, companies and states has risen by \$57 trillion since the crisis, and stands at nearly three times global GDP.<sup>7</sup> New rules demanding banks hold more reserves have been watered down and delayed. And the 1 per cent has got richer.
+Meanwhile, lacking any alternative model, the conditions for another crisis are being assembled. Real wages have fallen or remained stagnant in Japan, the southern Eurozone, the USA and the UK.5 The shadow banking system has been reassembled, and is now bigger than it was in 2008.6 The combined global debt of banks, households, companies and states has risen by \$57 trillion since the crisis, and stands at nearly three times global GDP.7 New rules demanding banks hold more reserves have been watered down and delayed. And the 1 per cent has got richer.
 
 If there is another financial frenzy followed by another collapse, there can be no second bailout. With government debts at a postwar high and welfare systems in some countries crippled, there are no more bullets left in the clip – at least not of the kind fired in 2009–10. The bailout of Cyprus in 2013 was the test bed for what happens if a major bank or a state goes bust again. For savers, everything in the bank over €100,000 was wiped out.
 
@@ -1389,7 +1430,7 @@ The jet engine was one of the core technologies of the post-1945 long wave. Inve
 
 It works by sucking compressed air in at the front and firing a flame through it so that the air expands. This drives a set of fans at the back, which transform the heat into energy. But turbofans are highly inefficient. The first jet engines converted 20 per cent of the heat into thrust. By the year 2001 they had achieved 35 per cent efficiency, with one industry veteran cautiously predicting 55 per cent 'during the second quarter of the 21st century'.
 
-Why should we care? Because by 2030, manufacturers expect the number of airliners in operation to double. That means 60,000 new turbofans.<sup>2</sup> They will boost the airline industry's contribution to global warming from 3.5 per cent in 2005 to something like 5 per cent at mid-century.<sup>3</sup> So the efficiency of a turbofan is not a geek issue, it's a global survival issue.
+Why should we care? Because by 2030, manufacturers expect the number of airliners in operation to double. That means 60,000 new turbofans.2 They will boost the airline industry's contribution to global warming from 3.5 per cent in 2005 to something like 5 per cent at mid-century.3 So the efficiency of a turbofan is not a geek issue, it's a global survival issue.
 
 Over the first fifty years of its life, designers managed to improve the turbofan's efficiency by 0.5 per cent per year. Today, however, they are making innovative leaps: 65 per cent efficiency is within reach and radically new kinds of engine are on the cusp of being deployed. What's driving the change is a mixture of carbon emission rules and the price of fuel. What's allowing it to happen is the core technology of the fifth long wave: information.
 
@@ -1851,11 +1892,11 @@ On the wall outside Gregg's is a plaque marking the house where Adam Smith wrote
 
 There is a raw logic to this. If you watch a water-wheel long enough, it helps you understand physics. If you witness workers sweating thirteen hours a day in a machine workshop, as Smith did, you will understand that it is the workers, not the machines, that produce the added value.3
 
-Standard textbooks will tell you Smith thought the labour-theory was valid only for primitive societies, and that when it came to capitalism, 'value' was the combined product of wages, capital and land. This is incorrect.4 Smith's labour theory of value was inconsistent, but on a detailed reading of *The Wealth of Nations* the argument is clear: labour is the source of value but the market can only reflect this roughly, through what Smith calls 'higgling and bargaining'. So the law operates beneath the surface in a full capitalist economy. Profits and rents are deductions from the value produced by labour.<sup>5</sup>
+Standard textbooks will tell you Smith thought the labour-theory was valid only for primitive societies, and that when it came to capitalism, 'value' was the combined product of wages, capital and land. This is incorrect.4 Smith's labour theory of value was inconsistent, but on a detailed reading of *The Wealth of Nations* the argument is clear: labour is the source of value but the market can only reflect this roughly, through what Smith calls 'higgling and bargaining'. So the law operates beneath the surface in a full capitalist economy. Profits and rents are deductions from the value produced by labour.5
 
 David Ricardo, the most influential economist of the early nineteenth century, created a more developed model. Published in 1817, it established the labour-theory as firmly in the public mind as supply and demand is now. Ricardo, who had witnessed the great upsurge of the factory system, ridiculed the idea that machines were the source of increased wealth. Machines merely transfer their value to the product; only labour adds new value, he said.
 
-The magic of machinery lay in increased productivity.<sup>6</sup> If you can use less labour in making something, it should be cheaper and more profitable. If you cut the amount of labour needed to produce hats, he wrote, 'their price will ultimately fall to their new natural price, although demand should be doubled, trebled, or quadrupled'.<sup>7</sup>
+The magic of machinery lay in increased productivity.6 If you can use less labour in making something, it should be cheaper and more profitable. If you cut the amount of labour needed to produce hats, he wrote, 'their price will ultimately fall to their new natural price, although demand should be doubled, trebled, or quadrupled'.7
 
 After Ricardo, the labour-theory became the signature idea of industrial capitalism. It was used to justify profits, which rewarded the work of the mill owner; it was used to attack the landed aristocracy, who were living off rents instead of working; and it was used to resist workers' demands for shorter hours and union rights, which would hike the price of labour to 'artificial' levels, i.e. above the minimum needed to feed, clothe and house a working family.
 
@@ -3197,7 +3238,7 @@ The French writer André Gorz was right to say that neoliberalism has destroyed 
 
 A fourth principle should be: attack the problem from all angles. With the rise of networks, the capacity for meaningful action is no longer confined to states, corporations and political parties; individuals and temporary swarms of individuals can be just as powerful agents of change.
 
-At present, the community of thinkers and activists around the peer-to-peer movement are heavily focused on experimental, small-scale projects – credit unions or co-ops, for example. When they think about the state, it is at the level of laws to protect and extend the peer-to-peer sector. With the exception of thinkers such as Michel Bauwens<sup>4</sup> and Mc Kenzie Wark<sup>5</sup>, few have bothered to ask what a whole new system of governance and regulation might look like in this new mode of production.
+At present, the community of thinkers and activists around the peer-to-peer movement are heavily focused on experimental, small-scale projects – credit unions or co-ops, for example. When they think about the state, it is at the level of laws to protect and extend the peer-to-peer sector. With the exception of thinkers such as Michel Bauwens4 and Mc Kenzie Wark5, few have bothered to ask what a whole new system of governance and regulation might look like in this new mode of production.
 
 In response, we should broaden our thinking so that solutions can be found through a mixture of small-scale experiment, proven models that can be scaled up and top-down action by states.
 
@@ -3509,7 +3550,7 @@ Postcapitalism will set you free.
 
 #### INTRODUCTION
 
-- 1. <http://www.worldbank.org/en/country/moldova/overview>
+- 1. 
 - 2. 'Policy challenges for the next 50 years', OECD, 2014
 - 3. [http://openeurope.org.uk/blog/greece-folds-this-hand-but-long](http://openeurope.org.uk/blog/greece-folds-this-hand-but-long-term-game-of-poker-with-eurozone-continues/)term-game-of-poker-with-eurozone-continues/
 - 4. L. Cox and A. G. Nilsen, *We Make Our Own History* (London, 2014)
@@ -3529,20 +3570,20 @@ Postcapitalism will set you free.
 - 3. P. Mason, *Meltdown: The End of the Age of Greed* (London, 2009)
 
 - 4. [http://www.telegraph.co.uk/finance/financetopics/davos/904144](http://www.telegraph.co.uk/finance/financetopics/davos/9041442/Davos-2012-Prudential-chief-Tidjane-Thiam-says-minimum-wage-is-a-machine-to-destroy-jobs.html) 2/Davos-2012-Prudential-chief-Tidjane-Thiam-says-minimumwage-is-a-machine-to-destroy-jobs.html
-- 5. [http://ftalphaville.ft.com/2014/02/07/1763792/a-lesson-from](http://ftalphaville.ft.com/2014/02/07/1763792/a-lesson-from-japans-falling-real-wages/)japans-falling-real-wages/; http://www.social[europe.eu/2013/05/real-wages-in-the-eurozone-not-a-double](http://www.social-europe.eu/2013/05/real-wages-in-the-eurozone-not-a-double-but-a-continuing-dip/)but-a-continuing-dip/; <http://cep.lse.ac.uk/pubs/download/cp422.pdf>
-- 6. D. Fiaschi et al, 'The Interrupted Power Law and the Size of Shadow Banking', 4 April 2014, <http://arxiv.org/pdf/1309.2130v4.pdf>
+- 5. [http://ftalphaville.ft.com/2014/02/07/1763792/a-lesson-from](http://ftalphaville.ft.com/2014/02/07/1763792/a-lesson-from-japans-falling-real-wages/)japans-falling-real-wages/; http://www.social[europe.eu/2013/05/real-wages-in-the-eurozone-not-a-double](http://www.social-europe.eu/2013/05/real-wages-in-the-eurozone-not-a-double-but-a-continuing-dip/)but-a-continuing-dip/; 
+- 6. D. Fiaschi et al, 'The Interrupted Power Law and the Size of Shadow Banking', 4 April 2014, 
 - 7. [http://www.theguardian.com/news/datablog/2015/feb/05/global](http://www.theguardian.com/news/datablog/2015/feb/05/global-debt-has-grown-by-57-trillion-in-seven-years-following-the-financial-crisis)debt-has-grown-by-57-trillion-in-seven-years-following-thefinancial-crisis
-- 8. <http://jenner.com/lehman/VOLUME%203.pdf>p 742
+- 8. p 742
 - 9. [http://www.sec.gov/news/studies/2008/craexamination070808.p](http://www.sec.gov/news/studies/2008/craexamination070808.pdf) df p12
 - 10. http://www.investmentweek.co.uk/investment[week/news/2187554/-done-for-boy-barclays-libor-messages](http://www.investmentweek.co.uk/investment-week/news/2187554/-done-for-boy-barclays-libor-messages)
 - 11. J. M. Keynes, *The General Theory of Employment, Interest and Money* (Cambridge, 1936), p. 293: [http://www.marxists.org/reference/subject/economics/keynes/ge](http://www.marxists.org/reference/subject/economics/keynes/general-theory/ch21.htm) neral-theory/ch21.htm
 - 12. [http://www.ftense.com/2014/10/total-global-debt-crosses-100](http://www.ftense.com/2014/10/total-global-debt-crosses-100-trillion.html) trillion.html
-- 13. <http://www.internetworldstats.com/emarketing.htm>
+- 13. 
 - 14. [http://cleantechnica.com/2014/04/13/world-solar-power](http://cleantechnica.com/2014/04/13/world-solar-power-capacity-increased-35-2013-charts/)capacity-increased-35-2013-charts/
 - 15. L. Summers, 'Reflections on the New Secular Stagnation Hypothesis', in C. Teulings and R. Baldwin (eds.), *Secular Stagnation: Facts, Causes, and Cures,* VoxEU.org (August 2014)
 - 16. R. Gordon, 'The Turtle's Progress: Secular Stagnation Meets the Headwinds' in Teulings and Baldwin (eds.), *Secular Stagnation*
 - 17. [http://www.constitution.org/mon/greenspan\\_gold.htm](http://www.constitution.org/mon/greenspan_gold.htm)
-- 18. <http://www.treasury.gov/ticdata/Publish/mfh.txt>
+- 18. 
 
 - 19. R. Duncan, *The New Depression: The Breakdown of the Paper Money Economy* (Singapore, 2012)
 - 20. [http://www.washingtonpost.com/blogs/wonkblog/wp/2013/01/18/](http://www.washingtonpost.com/blogs/wonkblog/wp/2013/01/18/breaking-inside-the-feds-2007-crisis-response/?wprss=rss_ezra-klein) breaking-inside-the-feds-2007-crisis-response/? wprss=rss\_ezra-klein
@@ -3560,10 +3601,10 @@ Postcapitalism will set you free.
 - 32. Brender and Pisani, *Global Imbalances*, p. 2
 - 33. B. Eichengreen, 'A Requiem for Global Imbalances', *Project Syndicate*, 13 January 2014
 - 34. [http://www.tradingeconomics.com/china/foreign-exchange](http://www.tradingeconomics.com/china/foreign-exchange-reserves)reserves
-- 35. <http://www.imf.org/external/np/sta/cofer/eng/>
+- 35. 
 - 36. L. Floridi, *The Philosophy of Information* (Oxford, 2011), p. 4
 - 37. M. Foucault, *The Birth of Biopolitics: Lectures at the Collège de France, 1978–79*, trans. G. Burchell (New York, 2008)
-- 38. <http://www.techopedia.com/definition/29066/metcalfes-law>
+- 38. 
 - 39. 'Measuring the Internet Economy: A Contribution to the Research Agenda', OECD, 2013
 
 40. H. Braconier, G. Nicoletti and B. Westmore, 'Policy Challenges for the Next 50 Years', OECD, 2014
@@ -3572,7 +3613,7 @@ Postcapitalism will set you free.
 
 - 1. N. Kondratieff, Letter, 17 November 1937, in N. Makasheva, W. Samuels and V. Barnett (eds.), *The Works of Nikolai D. Kondratiev* (London, 1998), vol. IV, p. 313
 - 2. Makasheva, Samuels and Barnett (eds.), *Nikolai D. Kondratiev*, vol. I, p. 108
-- 3. E. Mansfield, 'Long Waves and Technological Innovation,' *The American Economic Review*, 73 (2) (1983), p. 141, <http://www.jstor.org/stable/1816829?>
+- 3. E. Mansfield, 'Long Waves and Technological Innovation,' *The American Economic Review*, 73 (2) (1983), p. 141, 
 - 4. G. Lyons, *The Supercycle Report* (London, 2010)
 - 5. C. Perez, 'Financial Bubbles, Crises and the Role of Government in Unleashing Golden Ages', FINNOV, London, January 2012
 - 6. N. Kondratieff, 'The Long Wave Cycle', trans. G. Daniels (New York, 1984), pp. 104–5. (I have chosen to use the Daniels translation of the 1926 paper because on several issues of terminology it is in better English than the one in Makasheva et al.)
@@ -3580,7 +3621,7 @@ Postcapitalism will set you free.
 - 8. Ibid., p. 68
 - 9. Ibid.
 - 10. Ibid., p. 93
-- 11. <https://www.marxists.org/archive/trotsky/1923/04/capdevel.htm>
+- 11. 
 - 12. Kondratieff, 'The Long Wave Cycle', p. xx
 - 13. Makasheva, Samuels and Barnett (eds.), *Nikolai D. Kondratiev*, vol. I, p. 116
 - 14. Ibid., p. 113
@@ -3599,15 +3640,15 @@ Postcapitalism will set you free.
 
 #### 3. WAS MARX RIGHT?
 
-- 1. K. Marx, *Capital*, vol. 3 (Chicago, 1990), <http://www.marxists.org/archive/marx/works/1894-c3/ch15.htm>
-- 2. <https://www.marxists.org/archive/marx/works/1894-c3/ch27.htm>
+- 1. K. Marx, *Capital*, vol. 3 (Chicago, 1990), 
+- 2. 
 - 3. K. Marx, Preface to *A Contribution to the Critique of Political Economy* (Moscow, 1977), [http://www.marxists.org/archive/marx/works/1859/critique-pol](http://www.marxists.org/archive/marx/works/1859/critique-pol-economy/preface-abs.htm)economy/preface-abs.htm
 - 4. K. Kautsky, *The Class Struggle* (1892), trans. by William E. Bohn and Charles H. Kerr (Chicago, 1910), p. 83
 - 5. H. and J. M. Tudor, *Marxism and Social Democracy: The Revisionist Debate, 1896–8* (Cambridge, 1988)
 - 6. G. Kolko, *The Triumph of Conservatism: A Reinterpretation of American History 1900–1916* (New York, 1963)
 
 - 7. http://www.slate.com/articles/technology/technology/features/20[10/the\\_great\\_american\\_information\\_emperors/how\\_theodore\\_v](http://www.slate.com/articles/technology/technology/features/2010/the_great_american_information_emperors/how_theodore_vail_built_the_att_monopoly.html) ail\_built\_the\_att\_monopoly.html
-- 8. <http://www.hbs.edu/faculty/Publication%20Files/07-011.pdf>
+- 8. 
 - 9. L. Peters, 'Managing Competition in German Coal, 1893–1913', *The Journal of Economic History*, 49/2 (1989), pp. 419–33.
 - 10. H. Morikawa, *Zaibatsu: Rise and Fall of Family Enterprise Groups in Japan* (Tokyo, 1992)
 - 11. Kolko, *The Triumph of Conservatism*
@@ -3615,23 +3656,23 @@ Postcapitalism will set you free.
 - 13. [http://www.worldeconomics.com/Data/Madison HistoricalGDP/M](http://www.worldeconomics.com/Data/Madison HistoricalGDP/Madison%20Historica%20GDP%20Data.efp) adison%20Historica%20GDP%20Data.efp
 - 14. [http://www.marxists.org/archive/hilferding/1910/finkap/preface.h](http://www.marxists.org/archive/hilferding/1910/finkap/preface.htm) tm
 - 15. P. Michaelides and J. Milios, 'Did Hilferding Influence Schumpeter?', *History of Economics Review*, 41 (Winter 2005), pp. 98–125
-- 16. <https://www.marxists.org/archive/lenin/works/1916/oct/x01.htm>
+- 16. 
 - 17. R. Luxemburg, *The Accumulation of Capital* (New Haven, 1951), p. 468
 - 18. bentinck.net, Berlin Cinemas, 1975
 - 19. [http://www.marxists.org/archive/lenin/works/1916/imp](http://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch10.htm)hsc/ch10.htm
 - 20. [http://www.marxists.org/archive/bukharin/works/1917/imperial/1](http://www.marxists.org/archive/bukharin/works/1917/imperial/15.htm) 5.htm
-- 21. K. Kautsky, 'Ultra-imperialism', *Die Neue Zeit*, September 1914, <http://www.marxists.org/archive/kautsky/1914/09/ultra-imp.htm>
+- 21. K. Kautsky, 'Ultra-imperialism', *Die Neue Zeit*, September 1914, 
 - 22. M. Ried, 'A Decade of Collective Economy in Austria', *Annals of Public and Cooperative Economics*, vol. 5 (1929), p. 70
 - 23. E. Varga, 'Die Wirtschaftlichen Problem der proletarischen Diktats', quoted in H. Strobel, *Socialisation in Theory and Practice* (London, 1922), p. 150
-- 24. J. M. Keynes, *The Economic Consequences of the Peace* (New York, 1920), p. 1, <http://www.econlib.org/library/YPDBooks/Keynes/kynsCP1.html>
+- 24. J. M. Keynes, *The Economic Consequences of the Peace* (New York, 1920), p. 1, 
 
 - 25. E. Varga, *The Great Crisis and its Political Consequences; Economics and Politics. 1928–1934* (London, 1935), p. 20
-- 26. <http://www.marxists.org/archive/trotsky/1938/tp/tp-text.htm>
+- 26. 
 - 27. [http://www.marxists.org/archive/bukharin/works/1928/09/x01.ht](http://www.marxists.org/archive/bukharin/works/1928/09/x01.htm) m
-- 28. <http://www.internationalviewpoint.org/spip.php?article1894>
+- 28. 
 - 29. [http://larrysummers.com/wp-content/uploads/2014/06/NABE](http://larrysummers.com/wp-content/uploads/2014/06/NABE-speech-Lawrence-H.-Summers1.pdf)speech-Lawrence-H.-Summers1.pdf
 - 30. C. Perez, *Technological Revolutions and Finance Capital: The Dynamics of Bubbles and Golden Ages* (Cheltenham, 2002)
-- 31. Calculated from Maddison data for 1950, <http://www.ggdc.net/maddison/oriindex.htm>
+- 31. Calculated from Maddison data for 1950, 
 
 #### 4. THE LONG, DISRUPTED WAVE
 
@@ -3646,26 +3687,26 @@ Postcapitalism will set you free.
 - 9. C. T. Evans, 'Debate in the Soviet Union? Evgenii Varga and His Analysis of Postwar Capitalism, 1946–1950', *Essays in History*, 32 (1989), pp. 1–17
 
 - 10. E. Varga, *Izmeneniia v ekonomike kapitalizm v itoge vtoroi mirovoi voiny* (Moscow, 1946)
-- 11. <http://www.marxist.com/TUT/TUT5-I.html>
+- 11. 
 - 12. A. Crosland, *The Future of Socialism* (London, 1956)
 - 13. P. Baran and P. Sweezy, *Monopoly Capital: An Essay on the American Social* Order (New York, 1966)
-- 14. <http://external.worldbankimflib.org/Bwf/60panel2.htm>
+- 14. 
 - 15. H. Hazlitt, 'For World Inflation?', 24 June 1944, in H. Hazlitt, *From Bretton Woods to Inflation: A Study of Causes and Consequences* (Chicago, 1984), p. 39
 - 16. J. A. Feinman, 'Reserve Requirements: History, Current Practice, and Potential Reform', *Federal Reserve Bulletin*, June 1993, p. 587
-- 17. C. Reinhart and B. M. Sbrancia, 'The Liquidation of Government Debt', NBER Working Paper 16893, March 2011, p. 21, <http://www.nber.org/papers/w16893>
+- 17. C. Reinhart and B. M. Sbrancia, 'The Liquidation of Government Debt', NBER Working Paper 16893, March 2011, p. 21, 
 - 18. Ibid., p. 38
 - 19. I. Stewart, *Organizing Scientific Research for War, An Administrative History of the Office of Scientific Research and Development* (Boston, 1948), p. 19
 - 20. Ibid., p. 59
 - 21. J. Gleick, *The Information: A History, a Theory, a Flood* (New York, 2011), loc 2998
 - 22. A. Glyn et al, 'The Rise and Fall of the Golden Age', WIDER Working Paper 43, April 1988, p. 2
-- 23. <http://www.nber.org/chapters/c9101.pdf>p485
-- 24. <http://irps.ucsd.edu/assets/001/500904.pdf>
+- 23. p485
+- 24. 
 - 25. Glyn et al, 'The Rise and Fall of the Golden Age', p. 112
 - 26. Ibid., p. 23
 - 27. See, for example, P. M. Garber, 'The Collapse of the Bretton Woods Fixed Exchange Rate System', in M. Bordo and B. Eichengreen, *A Retrospective on the Bretton Woods System: Lessons for International Monetary Reform* (Chicago, 1993), pp. 461–94
 - 28. M. Ichiyo, 'Class Struggle and Technological Innovation in Japan since 1945', *Notebooks for Study and Research*, 5 (1987), p. 10
 
-- 29. 'The Sick Man of the Euro' *The Economist*, 3 June 1999, <http://www.economist.com/node/209559>
+- 29. 'The Sick Man of the Euro' *The Economist*, 3 June 1999, 
 - 30. http://www.washingtonpost.com/blogs/worldviews/wp/2015/02/2[0/germanys-economy-is-the-envy-of-europe-so-why-are-record](http://www.washingtonpost.com/blogs/worldviews/wp/2015/02/20/germanys-economy-is-the-envy-of-europe-so-why-are-record-numbers-of-people-living-in-poverty/)numbers-of-people-living-in-poverty/
 - 31. G. Mayer, 'Union Membership Trends in the United States,' Congressional Research Service, 2004
 - 32. J. Vissier, 'Union Membership Statistics in 24 Countries', *Monthly Labor Review*, January 2006, p. 38, [http://www.bls.gov/opub/mlr/2006/01/art3full.pdf](http://www.bls.gov/opub/mlr/2006/01/%20art3full.pdf)
@@ -3673,22 +3714,22 @@ Postcapitalism will set you free.
 - 34. A. V. Korotaev and S. V. Tsirel, 'A Spectral Analysis of World GDP Dynamics: Kondratieff Waves, Kuznets Swings; Juglar and Kitchin Cycles in Global Economic Development and the 2008– 09 Economic Crisis', *Structure and Dynamics*, 4 (1) (2010)
 - 35. [http://www.tradingeconomics.com/united-states/bank-lending](http://www.tradingeconomics.com/united-states/bank-lending-rate)rate
 - 36. John F. Papp et al, 'Cr, Cu, Mn, Mo, Ni, and Steel Commodity Price Influences**,** Version 1.1', US Geological Survey Open-File Report 2007–1257, p. 112
-- 37. <http://www.imf.org/external/pubs/ft/fandd/2011/03/picture.htm>
+- 37. 
 - 38. [http://dollardaze.org/blog/?post\\_id=00565](http://dollardaze.org/blog/?post_id=00565)
 - 39. [www.the-crises.com](http://www.the-crises.com/)
 - 40. S. Khatiwada, 'Did the Financial Sector Profit at the Expense of the Rest of the Economy? Evidence from the United States', ILO Research Paper, 2010
-- 41. <http://unctadstat.unctad.org/Table Viewer/table View.aspx>
-- 42. <http://unctadstat.unctad.org/Table Viewer/table View.aspx>
+- 41. 
+- 42. 
 - 43. D. Mc Williams, 'The Greatest Ever Economic Change', Gresham Lecture, 13 September 2012, [http://www.gresham.ac.uk/lectures-and-events/the-greatest](http://www.gresham.ac.uk/lectures-and-events/the-greatest-ever-economic-change)ever-economic-change
 - 44. See, for example, S. Amin, *Unequal Development: An Essay on the Social Formations of Peripheral Capitalism* (New York, 1976)
 
 - 45. D. Milanovic, 'Global Income Inequality by the Numbers: In History and Now', Policy Research Working Paper 6259, World Bank, November 2012, p. 13
-- 46. R. Freeman, 'The New Global Labor Market', *Focus*, vol. 26 (1) (2008), University of Wisconsin–Madison Institute for Research on Poverty, <http://www.irp.wisc.edu/publications/focus/pdfs/foc261a.pdf>
+- 46. R. Freeman, 'The New Global Labor Market', *Focus*, vol. 26 (1) (2008), University of Wisconsin–Madison Institute for Research on Poverty, 
 - 47. S. Kapsos and E. Bourmpoula, 'Employment and Economic Class in the Developing World', ILO Research Paper 6, June 2013
 
 #### PART II
 
-1. K. Kelly, 'New Rules for the New Economy', *Wired*, 5 September 1977, <http://archive.wired.com/wired/archive/5.09/newrules.html>
+1. K. Kelly, 'New Rules for the New Economy', *Wired*, 5 September 1977, 
 
 #### 5. THE PROPHETS OF POSTCAPITALISM
 
@@ -3710,24 +3751,24 @@ Postcapitalism will set you free.
 - 15. D. Warsh, *Knowledge and the Wealth of Nations: A Story of Economic Discovery* (New York, 2007)
 - 16. [http://en.wikipedia.org/wiki/Apple\\_A7#cite\\_note-Anand Tech](http://en.wikipedia.org/wiki/Apple_A7#cite_note-Anand Tech-i Phone5s-A7-2)i Phone5s-A7-2
 - 17. [http://commons.wikimedia.org/wiki/File:Bill\\_Gates\\_Letter\\_to\\_Ho](http://commons.wikimedia.org/wiki/File:Bill_Gates_Letter_to_Hobbyists.jpg) bbyists.jpg
-- 18. R. Stallman, *The GNU Manifesto*, March 1985, <http://www.gnu.org/gnu/manifesto.html>
+- 18. R. Stallman, *The GNU Manifesto*, March 1985, 
 - 19. [http://gs.statcounter.com](http://gs.statcounter.com/)
-- 20. <http://www.businessinsider.com/android-market-share-2012-11>
-- 21. K. Kelly, 'New Rules for the New Economy', *Wired*, 5 September 1977, <http://archive.wired.com/wired/archive/5.09/newrules.html>
+- 20. 
+- 21. K. Kelly, 'New Rules for the New Economy', *Wired*, 5 September 1977, 
 - 22. Ibid.
 - 23. Ibid.
 - 24. [http://www.digitaltrends.com/mobile/history-of-samsungs](http://www.digitaltrends.com/mobile/history-of-samsungs-galaxy-phones-and-tablets/)galaxy-phones-and-tablets/
 - 25. [http://www.emc.com/collateral/analyst-reports/idc-the-digital](http://www.emc.com/collateral/analyst-reports/idc-the-digital-universe-in-2020.pdf)universe-in-2020.pdf
-- 26. <http://www.itu.int/en/ITU-D/Statistics/Pages/stat/default.aspx>
-- 27. Kelly,<http://archive.wired.com/wired/archive/5.09/newrules.html>
+- 26. 
+- 27. Kelly,
 - 28. Ibid.
-- 29. R. Konrad, 'Trouble Ahead, Trouble Behind', cnet, 22 February 2002, <http://news.cnet.com/2008-1082-843349.html>
+- 29. R. Konrad, 'Trouble Ahead, Trouble Behind', cnet, 22 February 2002, 
 - 30. Y. Benkler, *The Wealth of Networks: How Social Production Transforms Markets and Freedom* (New Haven, 2006)
 - 31. Ibid.
-- 32. <http://en.wikipedia.org/wiki/Wikipedia:Wikipedians>
+- 32. 
 - 33. [https://wikimediafoundation.org/wiki/Staff\\_and\\_contractors](https://wikimediafoundation.org/wiki/Staff_and_contractors)
 - 34. [http://en.wikipedia.org/wiki/Wikipedia,](http://en.wikipedia.org/wiki/Wikipedia) accessed 28 December 2013
-- 35. <http://www.alexa.com/topsites>
+- 35. 
 
 - 36. [www.monetizepros.com/blog/2013/analysis-how-wikipedia](http://www.monetizepros.com/blog/2013/analysis-how-wikipedia-could-make-2-8-billion-in-annual-revenue/)could-make-2-8-billion-in-annual-revenue/
 - 37. K. Arrow, 'Economic Welfare and the Allocation of Resources for Invention', in *The Rate and Direction of Inventive Activity: Economic and Social Factors*, NBER, 1962, pp. 609–26
@@ -3735,7 +3776,7 @@ Postcapitalism will set you free.
 - 39. M. Nikolaus in K. Marx, *Grundrisse* (Harmondsworth, 1973), p. 9
 - 40. K. Marx, *Grundrisse*
 - 41. Ibid.
-- 42. <http://distantwriting.co.uk/Telegraph Stations1862.html>
+- 42. 
 - 43. S. Tillotson, 'We May All Soon Be "First-class Men": Gender and Skill in Canada's Early Twentieth Century Urban Telegraph Industry', *Labor/Le Travail*, 27 (Spring 1991), pp. 97–123
 - 44. Marx, *Grundrisse*
 - 45. P. Virno, 'General Intellect', in A. Zanini and U Fadini (eds.), *Lessico Postfordista* (Milan, 2001), trans. A. Bove
@@ -3749,13 +3790,13 @@ Postcapitalism will set you free.
 - 53. J. Rifkin, *The Zero Marginal Cost Society: The Internet of Things, the Collaborative Commons, and the Eclipse of Capitalism* (New York, 2014)
 - 54. See P. Mason, 'WTF is Eleni Haifa?', 20 December 2014, [http://www.versobooks.com/blogs/1801-wtf-is-eleni-haifa-a-new](http://www.versobooks.com/blogs/1801-wtf-is-eleni-haifa-a-new-essay-by-paul-mason)essay-by-paul-mason
 
-- 1. <http://www.sns.gov.uk/Simd/Simd.aspx>
+- 1. 
 - 2. http://www.econlib.org/library/Smith/smWN2.html#B. I,%20Ch.5,[%20Of%20the%20Real%20and%20Nominal%20Price%20of%2](http://www.econlib.org/library/Smith/smWN2.html#B. I,%20Ch.5,%20Of%20the%20Real%20and%20Nominal%20Price%20of%20Commodities) 0Commodities
 - 3. A. Smith, *Lectures on Jurisprudence* (Oxford, 1978), p. 351
 - 4. For a demonstration of this, see John F. Henry, 'Adam Smith and the Theory of Value: Chapter Six Considered', *History of Economics Review*, 31 (Winter 2000)
-- 5. <http://www.econlib.org/library/Smith/smWN2.html>
-- 6. 'Towards the Free Machine', <http://www.econlib.org/library/Ricardo/ricP1.html>
-- 7. D. Ricardo, *On the Principles of Political Economy and Taxation* (London, 1821), ch. 30, <http://www.econlib.org/library/Ricardo/ricP7.html>
+- 5. 
+- 6. 'Towards the Free Machine', 
+- 7. D. Ricardo, *On the Principles of Political Economy and Taxation* (London, 1821), ch. 30, 
 - 8. [http://avalon.law.yale.edu/19th\\_century/labdef.asp](http://avalon.law.yale.edu/19th_century/labdef.asp)
 - 9. For a complete discussion of the debates on value see I. I. Rubin, *A History of Economic Thought* (London, 1989)
 - 10. http://www.cleanclothes.org/news/2013/11/20/clean-clothes[campaign-disappointed-at-new-bangladesh-minimum-wage](http://www.cleanclothes.org/news/2013/11/20/clean-clothes-campaign-disappointed-at-new-bangladesh-minimum-wage-level)level
@@ -3783,8 +3824,8 @@ Postcapitalism will set you free.
 - 31. [http://www.marxists.org/archive/marx/works/1857/grundrisse/ch](http://www.marxists.org/archive/marx/works/1857/grundrisse/ch15.htm) 15.htm
 - 32. V. Naranje and K. Shailendra K, 'AI Applications to Metal Stamping Die Design: A Review', *World Academy of Science, Engineering and Technology*, vol. 4, 2010
 - 33. OECD, 'Measuring the Internet Economy: A Contribution to the Research Agenda', OECD Digital Economy Papers, 226, OECD Publishing, 2013
-- 34. <http://dx.doi.org/10.1787/5k43gjg6r8jf-en>
-- 35. <http://www.bls.gov/news.release/pdf/ocwage.pdf>
+- 34. 
+- 35. 
 
 - 36. C. B. Frey and M. A. Osborne, 'The Future of Employment: How Susceptible Are Jobs to Computerisation?', Oxford Martin School Working Paper, 2013, p. 38, [http://www.futuretech.ox.ac.uk/news-release-oxford-martin](http://www.futuretech.ox.ac.uk/news-release-oxford-martin-school-study-shows-nearly-half-us-jobs-could-be-risk-computerisation)school-study-shows-nearly-half-us-jobs-could-be-riskcomputerisation
 - 37. A. Gorz *Critique of Economic Reason* (London, 1989), p. 127
@@ -3813,17 +3854,17 @@ Postcapitalism will set you free.
 - 19. Ibid.
 - 20. Ibid.
 - 21. G. Friedman, 'Revolutionary Unions and French Labor: The Rebels behind the Cause; or, Why Did Revolutionary Syndicalism Fail?', *French Historical Studies*, vol. 20, no. 2 (Spring, 1997)
-- 22. <http://www.llgc.org.uk/ymgyrchu/Llafur/1926/MNS.pdf>
+- 22. 
 - 23. V. I. Lenin, *What Is to Be Done*?, 1902, [http://www.marxists.org/archive/lenin/works/download/what](http://www.marxists.org/archive/lenin/works/download/what-itd.pdf)itd.pdf
 - 24. V. I. Lenin, 'Imperialism and the Split in Socialism', in V. I. Lenin, *Imperialism: The Highest Stage of Capitalism* (Sydney, 1999), p. 131
 - 25. Quoted in A. Santucci, *Antonio Gramsci* (New York, 2010), p. 156
 - 26. W. B. Yeats, 'Easter, 1916', [http://www.theatlantic.com/past/docs/unbound/poetry/soundings/](http://www.theatlantic.com/past/docs/unbound/poetry/soundings/easter.htm) easter.htm
-- 27. <http://spartacus-educational.com/TUcwc.htm>
+- 27. 
 - 28. M. Ferro, *October 1917: A Social History of the Russian Revolution* (London, 1980), p. 151
 - 29. C. Goodrich, *The Frontier of Control* (New York, 1920), p. 264
 
 - 30. G. Orwell, 'Looking Back on the Spanish War', in G. Orwell, *A Collection of Essays* (New York, 1979), p. 201
-- 31. <http://www.economist.com/node/21550764>
+- 31. 
 - 32. C. W. Mills, 'The Sociology of Stratification', in I. L. Horowitz (ed.), *Power Politics & People: The Collected Essays of C. Wright Mills* (Oxford, 1967), p. 309
 - 33. D. Bell, 'The Capitalism of the Proletariat', *Encounter*, February 1958, pp. 17–23
 - 34. [http://www.marxists.org/reference/archive/marcuse/works/one](http://www.marxists.org/reference/archive/marcuse/works/one-dimensional-man/one-dimensional-man.pdf)dimensional-man/one-dimensional-man.pdf p33
@@ -3846,7 +3887,7 @@ Postcapitalism will set you free.
 - 50. A. Glyn et al, 'The Rise and Fall of the Golden Age', WIDER, Working Paper 43, April 1988
 - 51. Ibid.
 - 52. P. Myerscough, 'Short Cuts', *London Review of Books*, vol. 35, no. 1, 3 January 2013, p. 25
-- 53. <http://www.bls.gov/fls/flscomparelf/lfcompendium.pdf>
+- 53. 
 - 54. ILO
 - 55. C. Lapavitsas, 'Financialised Capitalism: Crisis and Financial Expropriation', RMF Paper 1, 15 February 2009
 - 56. Ibid.
@@ -3863,7 +3904,7 @@ Postcapitalism will set you free.
 #### 8. ON TRANSITIONS
 
 - 1. A. Bogdanov, *Red Star: The First Bolshevik Utopia* (Bloomington, 1984), p. 65
-- 2. <http://www.marxists.org/archive/lenin/photo/1908/007.htm>
+- 2. 
 - 3. Quoted in J. E. Marot, 'Alexander Bogdanov, *Vpered* and the Role of the Intellectual in the Workers' Movement', *Russian Review*, vol. 49 (3) (1990), pp. 241–64
 - 4. [http://www.marxists.org/glossary/orgs/w/o.htm#workers](http://www.marxists.org/glossary/orgs/w/o.htm#workers-opposition)opposition
 - 5. N. Krementsov, *A Martian Stranded on Earth: Alexander Bogdanov, Blood Transfusions and Proletarian Science*
@@ -3884,7 +3925,7 @@ Postcapitalism will set you free.
 - 18. O. Lange, 'On the Economic Theory of Socialism', *Review of Economic Studies*, vol. 4 (1) (1936), pp. 53–71
 - 19. Bockman, *Markets in the Name of Socialism*, loc 1040
 - 20. Von Mises, *Economic Calculation*, p. 22
-- 21. L. Trotsky, 'The Soviet Economy in Danger', *The Militant*, October 1932, <https://www.marxists.org/archive/trotsky/1932/10/sovecon.htm>
+- 21. L. Trotsky, 'The Soviet Economy in Danger', *The Militant*, October 1932, 
 - 22. L. Trotsky *The Soviet Economy in Danger* (New York, 1932)
 
 - 23. W. P. Cockshott and A. Cottrell, 'Economic Planning, Computers and Labor Values', Working Paper, January 1999, [http://ricardo.ecn.wfu.edu/~cottrell/socialism\\_book/index.html](http://ricardo.ecn.wfu.edu/~cottrell/socialism_book/index.html)
@@ -3904,7 +3945,7 @@ Postcapitalism will set you free.
 
 #### 9. THE RATIONAL CASE FOR PANIC
 
-- 1. <http://www.cpesap.net/publications/en/>
+- 1. 
 - 2. [http://www.climatechange2013.org/images/uploads/WGI\\_AR5\\_](http://www.climatechange2013.org/images/report/WG1AR5_SPM_FINAL.pdf) SPM\_brochure.pdf
 - 3. J. Ashton, 'The Book and the Bonfire: Climate Change and the Reawakening of a Lost Continent', Speech, Swiss Museum of
 
@@ -3915,12 +3956,12 @@ Postcapitalism will set you free.
 - 7. [http://sams.scientificamerican.com/article/dark-money-funds](http://sams.scientificamerican.com/article/dark-money-funds-climate-change-denial-effort/)climate-change-denial-effort/
 - 8. [http://mobile.bloomberg.com/news/2014-11-02/fossil-fuel](http://mobile.bloomberg.com/news/2014-11-02/fossil-fuel-budgets-suggested-to-curb-climate-change.html?hoot PostID=1bdb3b7bbbbb619db600e477f2c6a152)budgets-suggested-to-curb-climate-change.html? hoot PostID=1bdb3b7bbbbb619db600e477f2c6a152
 - 9. http://www.economist.com/news/briefing/21587782-europes[electricity-providers-face-existential-threat-how-lose-half-trillion](http://www.economist.com/news/briefing/21587782-europes-electricity-providers-face-existential-threat-how-lose-half-trillion-euros)euros
-- 10. <http://www.iea.org/techno/etp/etp10/English.pdf>
+- 10. 
 - 11. [http://www.greenpeace.org/international/en/campaigns/climate](http://www.greenpeace.org/international/en/campaigns/climate-change/energyrevolution/)change/energyrevolution/
 - 12. Ibid.
 - 13. 'Fifth Annual Report of the Registrar General', London, 1843
 - 14. 'World Population Prospects: The 2012 Revision, Key Findings and Advance Tables', United Nations, 2013
-- 15. <http://www.georgemagnus.com/articles/demographics-3/>
+- 15. 
 - 16. 'Annual Survey of Large Pension Funds and Public Reserve Pension Funds', OECD, October 2013
 - 17. M. Mrsnik et al, 'Global Aging 2010: An Irreversible Truth', Standard & Poors, 7 October 2010
 - 18. N. Howe and R. Jackson, 'How Ready for Pensioners?', *Finance & Development*, IMF, June 2011
@@ -3942,8 +3983,8 @@ Postcapitalism will set you free.
 - 5. M. Wark, *A Hacker Manifesto* (Cambridge MA, 2004)
 - 6. See, for example, 'Fair Society, Healthy Lives' (The Marmot Review), UCL Institute of Health Equity, February 2010, [http://www.instituteofhealthequity.org/projects/fair-society](http://www.instituteofhealthequity.org/projects/fair-society-healthy-lives-the-marmot-review)healthy-lives-the-marmot-review
 - 7. J. D. Farmer, 'Economics Needs to Treat the Economy as a Complex System', *Crisis*, December 2012
-- 8. J. Benes and M. Kumhof, 'The Chicago Plan Revisited', IMF Working Paper 12/202, August 2012, <https://www.imf.org/external/pubs/ft/wp/2012/wp12202.pdf>
-- 9. See<http://www.degruyter.com/view/j/bis> and <http://www.basicincome.org/bien/aboutbasicincome.html>
+- 8. J. Benes and M. Kumhof, 'The Chicago Plan Revisited', IMF Working Paper 12/202, August 2012, 
+- 9. See and 
 - 10. D. Graeber 'On the Phenomenon of Bullshit Jobs', *Strike!* Magazine, 17 August 2013
 - 11. K. Marx, *Grundrisse*, ed. M. Nicolaus (Harmondsworth, 1973), pp. 207–750,
 

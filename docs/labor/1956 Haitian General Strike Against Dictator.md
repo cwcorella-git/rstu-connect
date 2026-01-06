@@ -1,16 +1,10 @@
 ---
-title: 1956 Haitian General Strike Against Dictator
-slug: 1956 Haitian General Strike Against Dictator
-reconversion_status: ready_for_reconversion
-date: 1956
-author: Global Nonviolent Action Database
-tags:
-  - labor
-  - strikes
-  - unions
-  - rent
-  - police
+title: "1956 Haitian General Strike Against Dictator"
+author: "Global Nonviolent Action Database"
+date: "1956"
+category: "labor"
 ---
+
 ## **1956: Haitian General Strike Against Dictator**
 
 ## **Date:** Unknown

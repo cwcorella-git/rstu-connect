@@ -1,3 +1,8 @@
+---
+title: "## **Interlinking our Struggles in Gender and Queer Issues**"
+category: "feminist-theory"
+---
+
 ## **Interlinking our Struggles in Gender and Queer Issues**
 
 ## **Date:** Unknown

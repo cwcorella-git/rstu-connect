@@ -1,10 +1,16 @@
+---
+title: "## **Why I've no regrets about going to prison for shutting down Heathrow airport**"
+category: "technology-digital-justice"
+---
+
 ## **Why I've no regrets about going to prison for shutting down Heathrow airport**
 
 ## **Date:** Tue, 02/23/2016 - 19:46
 
 | Source: https://ecology.iww.org/node/1536|
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Tags: Plane Stupid, blockadia, Heathrow, climate justice, Ella Gilbert, Bec Sanderson, Kara Moses,<br>Melanie Mattauch, IWW Environmental Unionism Caucus, green unionism |
+| Tags: Plane Stupid, blockadia, Heathrow, climate justice, Ella Gilbert, Bec Sanderson, Kara Moses,
+Melanie Mattauch, IWW Environmental Unionism Caucus, green unionism |
 | |
 | By |
 | |
@@ -26,11 +32,14 @@
 | the Guardian |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | : |
-| Six women and seven men have avoided jail for trespassing at Heathrow, following a protest<br>against the possible expansion of the airport. |
-| The activists, dubbed the Heathrow 13, were given sentences of six weeks suspended for 12<br>months, meaning they would not have to go to prison immediately. |
+| Six women and seven men have avoided jail for trespassing at Heathrow, following a protest
+against the possible expansion of the airport. |
+| The activists, dubbed the Heathrow 13, were given sentences of six weeks suspended for 12
+months, meaning they would not have to go to prison immediately. |
 | They had been |
 | found guilty in January |
-| of aggravated trespass and entering a security-restricted area of an aerodrome. They had<br>been warned by district judge Deborah Wright to |
+| of aggravated trespass and entering a security-restricted area of an aerodrome. They had
+been warned by district judge Deborah Wright to |
 | expect a custodial sentence |
 | |
 | Read more |

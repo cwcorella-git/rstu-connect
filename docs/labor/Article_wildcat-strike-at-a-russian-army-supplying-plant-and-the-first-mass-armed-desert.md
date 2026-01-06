@@ -1,15 +1,8 @@
 ---
-title: >-
-  Wildcat Strike At A Russian Army Supplying Plant And The First Mass Armed
-  Desert
-date: 2025
-author: Unknown
-tags:
-  - organizing
-  - strikes
-  - police
-  - prisons
-  - labor
+title: ">-"
+author: "Unknown"
+date: "2025"
+category: "labor"
 ---
 
 # Wildcat Strike At A Russian Army Supplying Plant And The First Mass Armed Desert

@@ -1,3 +1,8 @@
+---
+title: "## **Die rote Flamme brennt**"
+category: "contemporary-analysis"
+---
+
 ## **Die rote Flamme brennt**
 
 ## **Date:** Unknown

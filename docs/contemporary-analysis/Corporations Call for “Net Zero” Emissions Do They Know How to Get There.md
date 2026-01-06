@@ -1,3 +1,8 @@
+---
+title: "**Corporations Call for "Net Zero" Emissions: Do They Know How to Get There?**"
+category: "contemporary-analysis"
+---
+
 # **Corporations Call for "Net Zero" Emissions: Do They Know How to Get There?**
 
 ## **Date:** Fri, 08/19/2016 - 17:10
@@ -151,25 +156,33 @@ climate-opportunity-paris.
 | http://bteam.org/the-b-team/watch-the-b-teamdeclaration/Branson|
 | in Guardian, |
 | http://www|
-| .theguardian.com/environment/2015/dec/06/ paris-climate-change-summit-richard-branson?<br>CMP=twt_a-environment_b-gdneco. |
+| .theguardian.com/environment/2015/dec/06/ paris-climate-change-summit-richard-branson?
+CMP=twt_a-environment_b-gdneco. |
 | http://www.theguardian.com/environment/|
 | 2014/ sep/13/greenwashing-sticky-business-naomiklein. |
-| For example, see May 29, 2015, letter to the United Nations Framework Convention on<br>Climate Change (UNFCCC) Secretariat and the COP21 Presidency, available at http://s08<br>.static-shell.com/content/dam/shell-new/local/ corporate/corporate/downloads/pdf/media/<br>speeches/2015/letter-to-unfccc.pdf. |
+| For example, see May 29, 2015, letter to the United Nations Framework Convention on
+Climate Change (UNFCCC) Secretariat and the COP21 Presidency, available at http://s08
+.static-shell.com/content/dam/shell-new/local/ corporate/corporate/downloads/pdf/media/
+speeches/2015/letter-to-unfccc.pdf. |
 | Carbon Price Communiqué (first issued 2012). Statement available at |
 | http://www.climatecommuniques.com/Carbon-Price.aspx|
 | |
 | Ibid. |
-| 2015 BP Energy Outlook 2035 (published February 26, 2015). Presentation by BP Chief<br>Economist Spencer Dale energy trends, available at |
+| 2015 BP Energy Outlook 2035 (published February 26, 2015). Presentation by BP Chief
+Economist Spencer Dale energy trends, available at |
 
 | https://www.youtube.com/watch?v=fy|
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | PBww4o_Do. |
-| World Bank, State and Trends, page 23. How much more the price would need to be to limit<br>warming to "well below 2°C" or even 1.5°C per the Paris Agreement has still to be calculated,<br>but perhaps \$150 per ton seems a fair estimate. |
+| World Bank, State and Trends, page 23. How much more the price would need to be to limit
+warming to "well below 2°C" or even 1.5°C per the Paris Agreement has still to be calculated,
+but perhaps \$150 per ton seems a fair estimate. |
 | https://www.worldwildlife.org/threats/|
 | deforestation. |
 | http://www.globalcarbonproject.org/carbonbudget/15/files/GCP_budget_2015|
 | |
-| Intergovernmental Panel on Climate Change, "IPCC Fifth Assessment Synthesis Report,"<br>available at |
+| Intergovernmental Panel on Climate Change, "IPCC Fifth Assessment Synthesis Report,"
+available at |
 | https://www.ipcc.ch/pdf/assessment-report/ar5/syr/SYR_AR5_FINAL_full|
 | .pdf. |
 | http://www.pwc.com/gx/en/issues/the-economy/assets/world-in-2050-februar|
@@ -185,4 +198,5 @@ climate-opportunity-paris.
 | http://www.slideshare.net/DFID/professorkevin-anderson-climate-change-go|
 | |
 | Disclaimer: |
-| The views expressed here are not the official position of the IWW (or even the IWW's EUC)<br>and do not necessarily represent the views of anyone but the author's. |
+| The views expressed here are not the official position of the IWW (or even the IWW's EUC)
+and do not necessarily represent the views of anyone but the author's. |

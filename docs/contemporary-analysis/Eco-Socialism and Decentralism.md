@@ -1,3 +1,8 @@
+---
+title: "## **Eco-Socialism and Decentralism**"
+category: "contemporary-analysis"
+---
+
 ## **Eco-Socialism and Decentralism**
 
 ## **Date:** Fri, 03/11/2016 - 16:33
@@ -211,4 +216,5 @@ Sclove, Richard E., (1995). Democracy and Technology. NY/London: Guilford Press.
 | www. Anarkismo.net |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Disclaimer: |
-| The views expressed here are not the official position of the IWW (or even the IWW's EUC)<br>and do not necessarily represent the views of anyone but the author's. |
+| The views expressed here are not the official position of the IWW (or even the IWW's EUC)
+and do not necessarily represent the views of anyone but the author's. |

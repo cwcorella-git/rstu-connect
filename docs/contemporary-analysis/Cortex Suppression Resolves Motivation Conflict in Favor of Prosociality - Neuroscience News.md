@@ -1,3 +1,8 @@
+---
+title: "Cortex Suppression Resolves Motivation Conflict in Favor of Prosociality - Neuroscience News"
+category: "contemporary-analysis"
+---
+
 #### [neurosciencenews.com](https://neurosciencenews.com/dlpfc-cuppression-prosocial-19664/amp/)
 
 # Cortex Suppression Resolves Motivation Conflict in Favor of Prosociality - Neuroscience News

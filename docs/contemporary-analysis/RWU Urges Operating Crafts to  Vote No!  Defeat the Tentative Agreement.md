@@ -1,3 +1,8 @@
+---
+title: "## **RWU Urges Operating Crafts to "Vote No!" Defeat the Tentative Agreement**"
+category: "contemporary-analysis"
+---
+
 ## **RWU Urges Operating Crafts to "Vote No!" Defeat the Tentative Agreement**
 
 ## **Date:** Wed, 10/05/2022 - 00:00
@@ -28,9 +33,13 @@ Because there is a consensus on the RWU Steering Committee that the proposed ope
 | Original 12 Points |
 | as to why any TA based on the PEB should be rejected. And then read the additional |
 | 10 Reasons to Reject the TA |
-| proposed for the operating crafts. If you agree with any or all of the points listed, then please<br>Vote NO. Finally, make sure to read the flyer: |
+| proposed for the operating crafts. If you agree with any or all of the points listed, then please
+Vote NO. Finally, make sure to read the flyer: |
 | So We Vote Down the TA Then What? |
-| As the great rail union organizer and working-class leader Eugene V. Debs famously stated<br>more than 100 years ago, "I's rather vote for something I want and not get it than vote for<br>something I don't want, and get it." |
+| As the great rail union organizer and working-class leader Eugene V. Debs famously stated
+more than 100 years ago, "I's rather vote for something I want and not get it than vote for
+something I don't want, and get it." |
 | Disclaimer: |
-| The views expressed here are not the official position of the IWW (or even the IWW's EUC)<br>and do not necessarily represent the views of anyone but the author. |
+| The views expressed here are not the official position of the IWW (or even the IWW's EUC)
+and do not necessarily represent the views of anyone but the author. |
 ## | |

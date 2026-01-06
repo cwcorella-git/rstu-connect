@@ -1,3 +1,8 @@
+---
+title: "**Episode 47: Heidegger/**"
+category: "contemporary-analysis"
+---
+
 # **Episode 47: Heidegger/**
 
 **Source:** https://www.meaningcrisis.co/ep-47-awakening-from-the-meaning-crisis-heidegger/

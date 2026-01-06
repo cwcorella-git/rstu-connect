@@ -1,3 +1,8 @@
+---
+title: "## **Iron Bars on the House of Labour**"
+category: "contemporary-analysis"
+---
+
 ## **Iron Bars on the House of Labour**
 
 ## **Date:** Unknown

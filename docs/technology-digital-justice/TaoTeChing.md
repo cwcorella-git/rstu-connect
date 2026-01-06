@@ -1,3 +1,8 @@
+---
+title: "26"
+category: "technology-digital-justice"
+---
+
 Tao Te Ching - Written by Lao-Tzu A Translation for the PUBLIC DOMAIN by j.h.mcdonald, 1996
 
 The tao that can be described is not the eternal Tao. The name that can be spoken is not the eternal Name.

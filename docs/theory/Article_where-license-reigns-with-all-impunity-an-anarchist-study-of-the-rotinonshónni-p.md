@@ -1,15 +1,8 @@
 ---
-title: >-
-  Where License Reigns With All Impunity an Anarchist Study of the Rotinonshónni
-  P
-date: 2025
-author: Murray Bookchin
-tags:
-  - organizing
-  - unions
-  - rent
-  - police
-  - prisons
+title: ">-"
+author: "Murray Bookchin"
+date: "2025"
+category: "theory"
 ---
 
 # Where License Reigns With All Impunity an Anarchist Study of the Rotinonshónni P

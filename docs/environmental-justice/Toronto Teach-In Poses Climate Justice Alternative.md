@@ -1,3 +1,8 @@
+---
+title: "## **Toronto Teach-In Poses Climate Justice Alternative**"
+category: "environmental-justice"
+---
+
 ## **Toronto Teach-In Poses Climate Justice Alternative**
 
 ## **Date:** Wed, 06/15/2016 - 12:23
@@ -48,10 +53,12 @@ When government facilitators pose inappropriate themes, the PCP spokespersons su
 | the question posed by the organizers. |
 | B: |
 | Bridge |
-| over to the question you wish to address, which should be aligned with one of the three PCP<br>principles. |
+| over to the question you wish to address, which should be aligned with one of the three PCP
+principles. |
 | C: Provide |
 | Context |
-| to sustain your view, preferably with a personal anecdote or insight that illustrates why you<br>care so much about the issue. |
+| to sustain your view, preferably with a personal anecdote or insight that illustrates why you
+care so much about the issue. |
 
 Achieving this degree of focus may seem a tall order for environmental and social activists. Often we use discussion periods to express a broad and seemingly chaotic range of personal viewpoints. We rightly prize our diversity. Yet when entering a discussion structured by a government with quite alien goals, PCP activists suggested, we must harmonize and unify our approaches.
 
@@ -149,13 +156,17 @@ United Nations Declaration on the Rights of Indigenous Peoples
 | Privatization moves such as Hydro One in Ontario. |
 | Structural racism such as that imposed on migrant workers. |
 | Structural social inequality. |
-| "We need a movement of movements to unite meaningful climate action with a challenge to<br>these social evils," Avi concluded. • |
+| "We need a movement of movements to unite meaningful climate action with a challenge to
+these social evils," Avi concluded. • |
 | John Riddell is a Toronto-based activist and maintains a blog at |
 | johnriddell.wordpress.com |
 | , where this article was published. |
 | Endnotes: |
-| 1. The June 4 event was organized by an ad-hoc working group including 350Toronto,<br>Toronto No Line 9 Network, and Climate Fast. It was hosted by Rising Tide Toronto, an Action<br>Group of OPIRG TORONTO. |
-| 2. The People's Climate Plan is organized and sponsored by a broad spectrum of groups<br>including 350.org, Canadian Youth Climate Coalition, Council of Canadians, East End Against |
+| 1. The June 4 event was organized by an ad-hoc working group including 350Toronto,
+Toronto No Line 9 Network, and Climate Fast. It was hosted by Rising Tide Toronto, an Action
+Group of OPIRG TORONTO. |
+| 2. The People's Climate Plan is organized and sponsored by a broad spectrum of groups
+including 350.org, Canadian Youth Climate Coalition, Council of Canadians, East End Against |
 
 Line 9, Idle No More, KAIROS, Leadnow, Leap Manifesto, Stand (formerly Forest Ethics), and
 

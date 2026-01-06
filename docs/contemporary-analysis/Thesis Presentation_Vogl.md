@@ -1,3 +1,8 @@
+---
+title: "THINKING AHEAD:"
+category: "contemporary-analysis"
+---
+
 # THINKING AHEAD:
 
 ## PREPARING YOUNG MINDS

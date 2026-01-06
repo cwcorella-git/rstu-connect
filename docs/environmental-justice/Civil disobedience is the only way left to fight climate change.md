@@ -1,3 +1,8 @@
+---
+title: "## **Civil disobedience is the only way left to fight climate change**"
+category: "environmental-justice"
+---
+
 ## **Civil disobedience is the only way left to fight climate change**
 
 | Date: Tue, 01/16/2018 - 18:44 |
@@ -9,7 +14,8 @@
 | , January 10, 2018 |
 | Right now, thousands of people are taking direct action as part of |
 | a global wave |
-| of protests against the biggest fossil fuel infrastructure projects across the world. We kicked<br>off earlier this month by |
+| of protests against the biggest fossil fuel infrastructure projects across the world. We kicked
+off earlier this month by |
 | shutting down the UK's largest opencast coal mine |
 | in south Wales. |
 | Last Sunday, around 1,000 people |
@@ -47,14 +53,24 @@ Mining companies argue that their operations provide vital jobs for local people
 
 These jobs are not only insecure, but often dangerous. My only memories of my coal miner grandad are of him lying in bed coughing and in pain with a back injury caused at work. The effects of his job continued long after the mine closed and he was made redundant: the respiratory illness that killed him and his brothers was caused by inhaling toxic air from the mine – the same toxic air that communities unfortunate enough to live near a site of fossil fuel extraction or burning have to breathe.
 
-| Corporate fossil fuel extraction also leads to local communities dependent on a finite<br>resource, and at the mercy of a corporation whose primary interests are profit. When the oil<br>runs dry or the coal runs out, the company makes its exit, leaving behind all of the pollution<br>and none of the wealth. The area my family lived in, once a thriving community when coal was<br>plentiful, is now a place of high unemployment, |
+| Corporate fossil fuel extraction also leads to local communities dependent on a finite
+resource, and at the mercy of a corporation whose primary interests are profit. When the oil
+runs dry or the coal runs out, the company makes its exit, leaving behind all of the pollution
+and none of the wealth. The area my family lived in, once a thriving community when coal was
+plentiful, is now a place of high unemployment, |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | social decay |
 | and few opportunities. |
-| Renewables can offer not only secure, long-term jobs that are safer and less dependent on<br>specific sites of extraction, but also the opportunity for democratic ownership of energy and<br>sustainable communities. The choice between clean, safe, democratic and sustainable<br>energy/jobs or dirty, dangerous and undemocratic energy/jobs is a no-brainer. We have the<br>technology right now to make the transition to a |
+| Renewables can offer not only secure, long-term jobs that are safer and less dependent on
+specific sites of extraction, but also the opportunity for democratic ownership of energy and
+sustainable communities. The choice between clean, safe, democratic and sustainable
+energy/jobs or dirty, dangerous and undemocratic energy/jobs is a no-brainer. We have the
+technology right now to make the transition to a |
 | zero-carbon Britain |
 | – the barriers are not technological but political. |
-| To overcome those political barriers, we need to reclaim our power – both in terms of who has<br>power over our lives, and how we power our lives. And as this is said to be the year when the<br>door to reach two degrees |
+| To overcome those political barriers, we need to reclaim our power – both in terms of who has
+power over our lives, and how we power our lives. And as this is said to be the year when the
+door to reach two degrees |
 | closes forever |
 
 , now is the time to do it. This year must be the year of mass climate disobedience.

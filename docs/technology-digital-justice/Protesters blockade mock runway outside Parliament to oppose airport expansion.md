@@ -1,3 +1,8 @@
+---
+title: "## **Protesters blockade mock runway outside Parliament to oppose airport expansion**"
+category: "technology-digital-justice"
+---
+
 ## **Protesters blockade mock runway outside Parliament to oppose airport expansion**
 
 **Date:** Tue, 10/25/2016 - 17:37 **Source:** https://ecology.iww.org/node/1877**Tags:** Plane Stupid, Heathrow, direct action, climate justice, blockadia By staff - Plane Stupid and Reclaim the Power , October 25, 2016 Activists have blockaded a mock runway outside Parliament to oppose airport expansion and highlight the inequality of catastrophic climate impacts on the day a government
@@ -27,7 +32,8 @@ Local residents from Gatwick CAGNE (Communities Against Gatwick Noise Emissions)
 | , 07831 632537. |
 | We are expecting new direct action network |
 | Rising Up |
-| to announce escalating direct action against airport expansion following the government<br>announcement. Contact: Simon Bramwell, 07760 556177, |
+| to announce escalating direct action against airport expansion following the government
+announcement. Contact: Simon Bramwell, 07760 556177, |
 | lawgoch2008@hotmail.co.uk |
 | |
 | Aviation facts: |
@@ -43,7 +49,8 @@ The aviation industry enjoys a number of tax breaks: most substantially there is
 
 ## ![](_page_5_Figure_0.jpeg)
 
-| Around the world, international anti-aviation expansion movements took action around the<br>same time: |
+| Around the world, international anti-aviation expansion movements took action around the
+same time: |
 |-------------------------------------------------------------------------------------------------------------------|
 | https://reclaimthepower.org.uk/aviation-flashmob-critical-mass/global-actions/|
 | The protest was jointly organised by |
@@ -56,7 +63,8 @@ The aviation industry enjoys a number of tax breaks: most substantially there is
 | |
 | Reclaim the Power's most recent action was the |
 | #Stay Grounded "die in" and bike ride at Heathrow |
-| earlier this month. Other previous actions include the high profile anti-fracking camp in<br>Balcombe in 2013 and |
+| earlier this month. Other previous actions include the high profile anti-fracking camp in
+Balcombe in 2013 and |
 | mass occupation of the UK's largest open-cast coal mine |
 
 , Ffos-y-fran, earlier in 2016.

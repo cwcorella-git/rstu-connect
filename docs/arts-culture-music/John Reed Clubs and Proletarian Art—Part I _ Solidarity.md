@@ -1,3 +1,8 @@
+---
+title: "**John Reed Clubs and Proletarian Art—Part I**"
+category: "arts-culture-music"
+---
+
 # **John Reed Clubs and Proletarian Art—Part I**
 
 ### **— Andrew Hemingway**

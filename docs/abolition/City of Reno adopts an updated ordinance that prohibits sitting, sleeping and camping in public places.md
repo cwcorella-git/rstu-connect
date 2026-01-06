@@ -1,13 +1,10 @@
 ---
-date: 2025
-author: Unknown
-tags:
-  - organizing
-  - housing
-  - rent
-  - police
 title: "City of Reno adopts an updated ordinance that prohibits sitting, sleeping and camping in public places"
+author: "Unknown"
+date: "2025"
+category: "abolition"
 ---
+
 # City of Reno adopts an updated ordinance that prohibits sitting, sleeping and camping in public places
 
 *Converted from: `./City of Reno adopts an updated ordinance that prohibits sitting, sleeping and camping in public places.pdf`*  
@@ -28,8 +25,6 @@ title: "City of Reno adopts an updated ordinance that prohibits sitting, sleepin
 City of Reno adopts an updated ordinance that prohibits ...   about:reader?url=https%3A%2F%2Fwww.kolotv.com...
 
 
-
-
                 kolotv.com
 
 
@@ -40,7 +35,6 @@ City of Reno adopts an updated ordinance that prohibits ...   about:reader?url=h
                 Nick Doyle
 
                 4–5 minutes
-
 
 
                 RENO, Nev. (KOLO) - The City of Reno is taking action to
@@ -76,7 +70,6 @@ City of Reno adopts an updated ordinance that prohibits ...   about:reader?url=h
 
 
 City of Reno adopts an updated ordinance that prohibits ...   about:reader?url=https%3A%2F%2Fwww.kolotv.com...
-
 
 
                 Advocates tell KOLO 8 they want a “housing-first approach”,
@@ -126,7 +119,6 @@ City of Reno adopts an updated ordinance that prohibits ...   about:reader?url=h
 
 
 City of Reno adopts an updated ordinance that prohibits ...   about:reader?url=https%3A%2F%2Fwww.kolotv.com...
-
 
 
                 Local business owners say it is troubling their customers.
@@ -180,7 +172,6 @@ City of Reno adopts an updated ordinance that prohibits ...   about:reader?url=h
 City of Reno adopts an updated ordinance that prohibits ...   about:reader?url=https%3A%2F%2Fwww.kolotv.com...
 
 
-
                 on the Shelter Census dashboard.
 
                 The link to the City’s agenda and staff report can be found
@@ -189,9 +180,6 @@ City of Reno adopts an updated ordinance that prohibits ...   about:reader?url=h
                 Copyright 2025 KOLO. All rights reserved.
 
 
-
-
 4 of 4                                                                                       3/17/25, 11:24 PM
 
 ---
-

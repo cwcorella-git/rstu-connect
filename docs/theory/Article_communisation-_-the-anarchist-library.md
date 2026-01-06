@@ -1,13 +1,8 @@
 ---
-title: Communisation the Anarchist Library
-date: 2025
-author: Gilles Dauv
-tags:
-  - organizing
-  - strikes
-  - unions
-  - tenants
-  - housing
+title: "Communisation the Anarchist Library"
+author: "Gilles Dauv"
+date: "2025"
+category: "theory"
 ---
 
 # Communisation the Anarchist Library

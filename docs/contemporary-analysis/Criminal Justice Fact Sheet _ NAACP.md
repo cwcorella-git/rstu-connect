@@ -1,3 +1,8 @@
+---
+title: "**Criminal Justice Fact Sheet**"
+category: "contemporary-analysis"
+---
+
 [naacp.org](https://naacp.org/resources/criminal-justice-fact-sheet)
 
 # **Criminal Justice Fact Sheet**

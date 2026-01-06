@@ -1,3 +1,8 @@
+---
+title: "## **The Unions' Life After Death: Recipes for a new labor movement**"
+category: "labor"
+---
+
 ## **The Unions' Life After Death: Recipes for a new labor movement**
 
 ## **Date:** Unknown

@@ -1,3 +1,8 @@
+---
+title: "## **United We Stood: Writings and Analysis from the Vaughn 17**"
+category: "contemporary-analysis"
+---
+
 ## **United We Stood: Writings and Analysis from the Vaughn 17**
 
 ## **Date:** Unknown

@@ -1,3 +1,8 @@
+---
+title: "communion"
+category: "labor"
+---
+
 "Masterful. A thinking woman's (and man's) valentine, a fitting conclusion to Hook's groundbreaking work on love in American life."—Les Angeles Times
 
 # communion

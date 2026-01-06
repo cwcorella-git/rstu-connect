@@ -1,3 +1,8 @@
+---
+title: "## **Make economic democracy popular again!**"
+category: "technology-digital-justice"
+---
+
 ## **Make economic democracy popular again!**
 
 ## **Date:** Unknown

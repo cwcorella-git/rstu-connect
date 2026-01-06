@@ -1,3 +1,8 @@
+---
+title: "**Pythagoras**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Pythagoras)
 
 # **Pythagoras**
@@ -20,7 +25,9 @@
 
 [Samos](https://en.wikipedia.org/wiki/Samos)
 
-| Died | c.495<br>BC (aged around 75)<br>either Croton or Metapontum | |
+| Died | c.495
+BC (aged around 75)
+either Croton or Metapontum | |
 |----------------------------|-------------------------------------------------------------|--|
 | Era | Pre-Socratic philosophy | |
 | Region | Western philosophy | |
@@ -34,7 +41,8 @@
 | | • Religion | |
 | Notable ideas• Communalism | | |
 | | • Metempsychosis | |
-| | • Musica<br>universalis | |
+| | • Musica
+universalis | |
 | | | |
 | | Attributed ideas: | |
 | | • Five climatic zones | |
@@ -196,11 +204,56 @@ The organization Pythagoras founded at Croton was called a "school"[,\[153\]](#p
 
 French manuscript from 1512/1514, showing Pythagoras turning his face away from [fava beans](https://en.wikipedia.org/wiki/Vicia_faba) in revulsion Pythagorean teachings were known as "symbols" (symbola) [\[83\]](#page-53-4) and members took a vow of silence that they would not reveal these symbols to non-members[.\[83\]](#page-53-4)[\[151\]](#page-56-16)[\[167\]](#page-57-11) Those who did not obey the laws of the community were expelled[\[168\]](#page-57-12) and the remaining members would erect [tombstones](https://en.wikipedia.org/wiki/Tombstone) for them as though they had died[.\[168\]](#page-57-12) A number of "oral sayings" (akoúsmata) attributed to Pythagoras have survived[,\[12\]](#page-49-11)[\[169\]](#page-57-13) dealing with how members of the Pythagorean community should perform sacrifices, how they should honor the gods, how they should "move from here", and how they should be buried[.\[170\]](#page-57-14) Many of these sayings emphasize the importance of ritual purity and avoiding defilement[.\[171\]](#page-57-15)[\[108\]](#page-54-10) For instance, a saying which Leonid Zhmud concludes can probably be genuinely traced back to Pythagoras himself forbids his followers from wearing woolen garments[.\[172\]](#page-57-16) Other extant oral sayings forbid Pythagoreans from breaking bread, poking fires with swords, or picking up crumb[s\[161\]](#page-57-5) and teach that a person should always put the right sandal on before the left. [\[161\]](#page-57-5) The exact meanings of these sayings, however, are frequently obscure[.\[173\]](#page-57-17) Iamblichus preserves Aristotle's descriptions of the original, ritualistic intentions behind a few of these sayings[,\[174\]](#page-58-0) but these apparently later fell out of fashion, because Porphyry provides markedly different ethicalphilosophical interpretations of them[:\[175\]](#page-58-1)
 
-| Pythagorean<br>saying | Original ritual<br>purpose<br>according to<br>Aristotle/<br>Iamblichus | Porphyry's<br>philosophical<br>interpretation |
+| Pythagorean
+saying | Original ritual
+purpose
+according to
+Aristotle/
+Iamblichus | Porphyry's
+philosophical
+interpretation |
 |------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| "Do not take<br>roads traveled by<br>the public."[176]<br>[12] | "Fear of being<br>defiled by the<br>impure"[176] | "with this he forbade<br>following the opinions<br>of the masses, yet to<br>follow the ones of the<br>few and the<br>educated".[176] |
-| "and [do] not<br>wear images of<br>the gods on<br>rings"[176] | "Fear of defiling<br>them by<br>wearing<br>them."[176] | "One should not have<br>the teaching and<br>knowledge of the gods<br>quickly at hand and<br>visible [for everyone],<br>nor communicate<br>them to the<br>masses."[176] |
-| "and pour<br>libations for the<br>gods from a<br>drinking cup's<br>handle [the<br>'ear']"[176] | "Efforts to keep<br>the divine and<br>the human<br>strictly<br>separate"[176] | "thereby he<br>enigmatically hints<br>that the gods should<br>be honored and<br>praised with music; for<br>it goes through the<br>ears".[176] |
+| "Do not take
+roads traveled by
+the public."[176]
+[12] | "Fear of being
+defiled by the
+impure"[176] | "with this he forbade
+following the opinions
+of the masses, yet to
+follow the ones of the
+few and the
+educated".[176] |
+| "and [do] not
+wear images of
+the gods on
+rings"[176] | "Fear of defiling
+them by
+wearing
+them."[176] | "One should not have
+the teaching and
+knowledge of the gods
+quickly at hand and
+visible [for everyone],
+nor communicate
+them to the
+masses."[176] |
+| "and pour
+libations for the
+gods from a
+drinking cup's
+handle [the
+'ear']"[176] | "Efforts to keep
+the divine and
+the human
+strictly
+separate"[176] | "thereby he
+enigmatically hints
+that the gods should
+be honored and
+praised with music; for
+it goes through the
+ears".[176] |
 
 New initiates were allegedly not permitted to meet Pythagoras until after they had completed a five-year initiation period,[\[70\]](#page-52-11) during which they were required to remain silent[.\[70\]](#page-52-11) Sources indicate that Pythagoras himself was unusually progressive in his attitudes towards wome[n\[85\]](#page-53-6) and female members of Pythagoras's school appear to have played an active role in its operations[.\[83\]](#page-53-4)[\[85\]](#page-53-6) Iamblichus provides a list of 235 famous Pythagoreans[,\[84\]](#page-53-5) seventeen of whom are women[.\[84\]](#page-53-5) In later times, many prominent female philosophers contributed to the development of [Neopythagoreanism.](https://en.wikipedia.org/wiki/Neopythagoreanism) [\[177\]](#page-58-3)
 
@@ -214,7 +267,7 @@ Within his own lifetime, Pythagoras was already the subject of elaborate [hagiog
 
 Pythagoras was said to have dressed all in white.[\[191\]](#page-58-17)[\[202\]](#page-59-9) He is also said to have borne a golden [wreath](https://en.wikipedia.org/wiki/Wreath) atop his hea[d\[191\]](#page-58-17) and to have worn [trousers](https://en.wikipedia.org/wiki/Trousers) after the fashion of the [Thracians.](https://en.wikipedia.org/wiki/Thrace) [\[191\]](#page-58-17) Diogenes Laërtius presents Pythagoras as having exercised remarkable [self-control;](https://en.wikipedia.org/wiki/Self-control) [\[203\]](#page-59-10) he was always cheerful[,\[203\]](#page-59-10) but "abstained wholly from laughter, and from all such indulgences as jests and idle stories"[.\[87\]](#page-53-8) Pythagoras was said to have had extraordinary success in dealing with animals.[\[25\]](#page-50-9)[\[204\]](#page-59-11)[\[195\]](#page-59-2) A fragment from Aristotle records that, when a deadly snake bit Pythagoras, he bit it back and killed it[.\[197\]](#page-59-4)[\[195\]](#page-59-2)[\[193\]](#page-59-0) Both Porphyry and Iamblichus report that Pythagoras once persuaded a bull not to eat fava bean[s\[25\]](#page-50-9)[\[204\]](#page-59-11) and that he once convinced a notoriously destructive bear to swear that it would never harm a living thing again, and that the bear kept its word[.\[25\]](#page-50-9)[\[204\]](#page-59-11)
 
-Riedweg suggests that Pythagoras may have personally encouraged these legends[,\[190\]](#page-58-16) but Gregory states that there is no direct evidence of this[.\[164\]](#page-57-8) Anti-Pythagorean legends were also circulated[.\[205\]](#page-59-12) Diogenes Laërtes retells a story told by Hermippus of Samos, which states that Pythagoras had once gone into an underground room, telling everyone that he was descending to the underworld[.\[206\]](#page-59-13) He stayed in this room for months, while his mother secretly recorded everything that happened during his absence[.\[206\]](#page-59-13) After he returned from this room, Pythagoras recounted everything that had happened while he was gone,<sup>[206]</sup> convincing everyone that he had really been in the underworld<sup>[206]</sup> and leading them to trust him with their wives.<sup>[206]</sup>
+Riedweg suggests that Pythagoras may have personally encouraged these legends[,\[190\]](#page-58-16) but Gregory states that there is no direct evidence of this[.\[164\]](#page-57-8) Anti-Pythagorean legends were also circulated[.\[205\]](#page-59-12) Diogenes Laërtes retells a story told by Hermippus of Samos, which states that Pythagoras had once gone into an underground room, telling everyone that he was descending to the underworld[.\[206\]](#page-59-13) He stayed in this room for months, while his mother secretly recorded everything that happened during his absence[.\[206\]](#page-59-13) After he returned from this room, Pythagoras recounted everything that had happened while he was gone,[206] convincing everyone that he had really been in the underworld[206] and leading them to trust him with their wives.[206]
 
 #### **Attributed discoveries**
 
@@ -320,21 +373,21 @@ Early modern [European esotericism](https://en.wikipedia.org/wiki/Western_esoter
 
 [Dante Alighieri](https://en.wikipedia.org/wiki/Dante_Alighieri) was fascinated by Pythagorean numerolog[y\[306\]](#page-64-8) and based his descriptions of [Hell,](https://en.wikipedia.org/wiki/Hell) [Purgatory,](https://en.wikipedia.org/wiki/Purgatory) and [Heaven](https://en.wikipedia.org/wiki/Heaven) on Pythagorean numbers[.\[306\]](#page-64-8) Dante wrote that Pythagoras saw Unity as Good and Plurality as Evil[\[307\]](#page-64-9) and, in [Paradiso](https://en.wikipedia.org/wiki/Paradiso_(Dante)) XV, 56–57, he declares: "five and six, if understood, ray forth from unity"[.\[308\]](#page-64-10) The number eleven and its multiples are found throughout the [Divine Comedy](https://en.wikipedia.org/wiki/Divine_Comedy), each book of which has thirty-three [cantos,](https://en.wikipedia.org/wiki/Canto) except for the [Inferno](https://en.wikipedia.org/wiki/Inferno_(Dante)), which has thirtyfour, the first of which serves as a general introduction.[\[309\]](#page-64-11) Dante describes the ninth and tenth bolgias in the Eighth Circle of Hell as being twenty-two miles and eleven miles respectively[,\[309\]](#page-64-11) which correspond to the fraction 227, which was the Pythagorean approximation of [pi.](https://en.wikipedia.org/wiki/Pi) [\[309\]](#page-64-11)
 
-The [Transcendentalists](https://en.wikipedia.org/wiki/Transcendentalism) read the ancient Lives of Pythagoras as guides on how to live a model life[.\[310\]](#page-64-12) [Henry David Thoreau](https://en.wikipedia.org/wiki/Henry_David_Thoreau) was impacted by [Thomas Taylor](https://en.wikipedia.org/wiki/Thomas_Taylor_(neoplatonist))'s translations of Iamblichus's Life of Pythagoras and [Stobaeus](https://en.wikipedia.org/wiki/Stobaeus)'s Pythagoric Sayings[\[310\]](#page-64-12) and his views on nature may have been influenced by the Pythagorean idea of images corresponding to archetypes.[\[310\]](#page-64-12) The Pythagorean teaching of musica universalis is a recurring theme throughout Thoreau's <u>magnum opus</u>, <u>Walden</u>.[310]
+The [Transcendentalists](https://en.wikipedia.org/wiki/Transcendentalism) read the ancient Lives of Pythagoras as guides on how to live a model life[.\[310\]](#page-64-12) [Henry David Thoreau](https://en.wikipedia.org/wiki/Henry_David_Thoreau) was impacted by [Thomas Taylor](https://en.wikipedia.org/wiki/Thomas_Taylor_(neoplatonist))'s translations of Iamblichus's Life of Pythagoras and [Stobaeus](https://en.wikipedia.org/wiki/Stobaeus)'s Pythagoric Sayings[\[310\]](#page-64-12) and his views on nature may have been influenced by the Pythagorean idea of images corresponding to archetypes.[\[310\]](#page-64-12) The Pythagorean teaching of musica universalis is a recurring theme throughout Thoreau's magnum opus, Walden.[310]
 
 #### See also
 
-- <u>List of things named after Pythagoras</u>
+- List of things named after Pythagoras
 - Ex pede Herculem, "from his foot, [we can measure] Hercules"
 a maxim based on the apocryphal story that Pythagoras estimated Hercules's stature based on the length of a racecourse at Pisae
-- <u>Pythagorean cup</u> a prank cup with a hidden siphon built in, attributed to Pythagoras
-- <u>Pythagorean means</u> the arithmetic mean, the geometric mean, and the harmonic mean, claimed to have been studied by Pythagoras
+- Pythagorean cup a prank cup with a hidden siphon built in, attributed to Pythagoras
+- Pythagorean means the arithmetic mean, the geometric mean, and the harmonic mean, claimed to have been studied by Pythagoras
 
 ## **Notes**
 
-- 1. <u>^ py-THAG-ər-əs</u>, [311] <u>pih-</u>. [312] <u>Ancient Greek</u>: Πυθαγόρας ὁ Σάμιος, <u>romanized</u>: *Pythagóras ho Sámios*, <u>lit.</u> 'Pythagoras the <u>Samian</u>', or Πυθαγόρης, *Pythagórēs* in <u>Ionian Greek</u>.
+- 1. ^ py-THAG-ər-əs, [311] pih-. [312] Ancient Greek: Πυθαγόρας ὁ Σάμιος, romanized: *Pythagóras ho Sámios*, lit. 'Pythagoras the Samian', or Πυθαγόρης, *Pythagórēs* in Ionian Greek.
 - 2. \_\_ "The dates of his life cannot be fixed exactly, but assuming the approximate correctness of the statement of Aristoxenus (Porphyry, Vit. Pyth, §9) that he left Samos to escape the tyranny of Polycrates at the age of forty, we may put his birth round about 570 BC, or a few years earlier. The length of his life was variously estimated in antiquity, but it is agreed that he lived to a fairly ripe old age, and most probably he died at about seventy-five or eighty." Guthrie (1967), p. 173
-- 3. <u>^ Cicero, Tusc. Qu</u>, pp. 431–433, §5.3.8–§5.3.9 (citing
+- 3. ^ Cicero, Tusc. Qu, pp. 431–433, §5.3.8–§5.3.9 (citing
 
 - [Heraclides Ponticus](https://en.wikipedia.org/wiki/Heraclides_Ponticus) fr. 88 Wehrli), Diog I, 1.12, Diog VIII, §8.8, Iamblichus, Vit. Pyth, §58. Burkert attempted to discredit this ancient tradition Burkert \(1960\) but it has been defended by De Vogel \(1966\), pp. 97–102 and Riedweg \(2005\), p. 92
 - 4. ^ Xenophanes' Poem (or [Elegies\)](https://en.wikipedia.org/wiki/Elegies) on Pythagorus is provided below, which was preserved in Diog VIII, §1.36:

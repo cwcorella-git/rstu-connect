@@ -1,12 +1,17 @@
+---
+title: "**Early LLM-based Tools for Enterprise Information Workers Likely Provide Meaningful Boosts to Productivity**"
+category: "technology-digital-justice"
+---
+
 # **Early LLM-based Tools for Enterprise Information Workers Likely Provide Meaningful Boosts to Productivity**
 
 A first update from Microsoft's research initiative on AI and Productivity
 
-Alexia Cambon<sup>1</sup> , Brent Hecht<sup>1</sup> , Ben Edelman, Donald Ngwe, Sonia Jaffe, Amy Heger, Mihaela Vorvoreanu, Sida Peng, Jake Hofman, Alex Farach, Margarita Bermejo-Cano, Eric Knudsen, James Bono, Hardik Sanghavi, Sofia Spatharioti, David Rothschild, Daniel G. Goldstein, Eirini Kalliamvakou, Peter Cihon, Mert Demirer, Michael Schwarz, and Jaime Teevan
+Alexia Cambon1 , Brent Hecht1 , Ben Edelman, Donald Ngwe, Sonia Jaffe, Amy Heger, Mihaela Vorvoreanu, Sida Peng, Jake Hofman, Alex Farach, Margarita Bermejo-Cano, Eric Knudsen, James Bono, Hardik Sanghavi, Sofia Spatharioti, David Rothschild, Daniel G. Goldstein, Eirini Kalliamvakou, Peter Cihon, Mert Demirer, Michael Schwarz, and Jaime Teevan
 
 *(with additional support from the entire AI and Productivity team at Microsoft)*
 
-### **ABSTRACT<sup>1</sup>**
+### **ABSTRACT1**
 
 This report presents the initial findings of Microsoft's research initiative on "AI and Productivity", which seeks to measure and accelerate the productivity gains created by LLM-powered productivity tools like Microsoft's Copilot. The many studies summarized in this report, the initiative's first, focus on common enterprise information worker tasks for which LLMs are most likely to provide significant value. Results from the studies support the hypothesis that the first versions of Copilot tools substantially increase productivity on these tasks. This productivity boost usually appeared in the studies as a meaningful increase in speed of execution without a significant decrease in quality. Furthermore, we observed that the willingness-to-pay for LLM-based tools is higher for people who have used the tools than those who have not, suggesting that the tools provide value above initial expectations. The report also highlights future directions for the AI and Productivity initiative, including an emphasis on approaches that capture a wider range of tasks and roles.
 
@@ -24,7 +29,7 @@ The dozens of researchers in Microsoft's "AI and Productivity" research team hav
 
 At a high level, the results thus far support the hypothesis that the first versions of Microsoft's Copilot tools do substantially increase productivity on some common tasks performed by enterprise
 
-<sup>1</sup> Contact authors: Alexia Cambon [\(alexia.cambon@microsoft.com\)](mailto:alexia.cambon@microsoft.com) and Brent Hecht [\(brent.hecht@microsoft.com\)](https://microsoft-my.sharepoint.com/personal/brhecht_microsoft_com/Documents/brent.hecht@microsoft.com)
+1 Contact authors: Alexia Cambon [\(alexia.cambon@microsoft.com\)](mailto:alexia.cambon@microsoft.com) and Brent Hecht [\(brent.hecht@microsoft.com\)](https://microsoft-my.sharepoint.com/personal/brhecht_microsoft_com/Documents/brent.hecht@microsoft.com)
 
 information workers. This productivity boost most often appears as a meaningful increase in speed of execution without a significant decrease in quality, although there is some variation how the greater productivity manifests.
 
@@ -82,7 +87,7 @@ Our centering of *effort* as a core metric is less traditional, but aims to capt
 
 For almost all of the tasks across all of the studies, we observed a significant increase in the speed of performing tasks when using an LLM-based tool relative to performing the tasks without the tool. Figure 1 summarizes these observed speed increases. Copilot users completed the task in 26% to 73% of the time, on average, when compared with people not using Copilot, with the largest difference being in the Copilot in Teams Meeting Study. Of course, the overall current speed increase from using Copilot is likely to be much lower than this, given the tasks studied were ones we believed were particularly likely to benefit from AI support.
 
-Our surveys showed that participants also perceived substantial time savings. In the Copilot Common Tasks Study, we asked participants with Copilot to estimate how much time that tool saved them. They guessed 36 minutes on average, when actual time savings were 12 minutes on average, indicating their perception of significant time reduction on the tasks. Similarly, 73% of employees surveyed in the Early Access Program research agreed that Copilot helped them complete tasks faster, and 85% said it would help them get to a good first draft faster. When asked to estimate how much time Copilot saved them on a daily basis, respondents most often reported 11-30 minutes (35%) and another 22% reported greater than that. Average daily time saved was 14 minutes a day, or 1.2 hours a week when calculated using the lower end of the time range bins ("0 minutes", "<5 minutes", "5-10 minutes", "11-30 minutes", "31-60 minutes", and ">1 hour").
+Our surveys showed that participants also perceived substantial time savings. In the Copilot Common Tasks Study, we asked participants with Copilot to estimate how much time that tool saved them. They guessed 36 minutes on average, when actual time savings were 12 minutes on average, indicating their perception of significant time reduction on the tasks. Similarly, 73% of employees surveyed in the Early Access Program research agreed that Copilot helped them complete tasks faster, and 85% said it would help them get to a good first draft faster. When asked to estimate how much time Copilot saved them on a daily basis, respondents most often reported 11-30 minutes (35%) and another 22% reported greater than that. Average daily time saved was 14 minutes a day, or 1.2 hours a week when calculated using the lower end of the time range bins ("0 minutes", "1 hour").
 
 #### **Quality**
 

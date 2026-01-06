@@ -1,3 +1,8 @@
+---
+title: "## **Class War #26 1988**"
+category: "anti-war-peace"
+---
+
 ## **Class War #26 1988**
 
 ## **Date:** Unknown

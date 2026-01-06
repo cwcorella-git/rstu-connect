@@ -1,3 +1,8 @@
+---
+title: "## **A Wobbly contract - Luigi Rinaldi**"
+category: "labor"
+---
+
 ## **A Wobbly contract - Luigi Rinaldi**
 
 ## **Date:** Unknown

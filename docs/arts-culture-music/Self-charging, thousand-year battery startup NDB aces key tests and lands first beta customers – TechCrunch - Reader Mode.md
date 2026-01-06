@@ -1,3 +1,8 @@
+---
+title: "## Self-charging, thousand-year battery startup NDB aces key tests and lands rst beta customers – Te"
+category: "arts-culture-music"
+---
+
 ## Self-charging, thousand-year battery startup NDB aces key tests and lands rst beta customers – Tech Crunch
 
 [Darrell Etherington](https://techcrunch.com/author/darrell-etherington/)[@etherington](https://twitter.com/etherington) / 5:00 AM PDT•August 25, 2020 Comment

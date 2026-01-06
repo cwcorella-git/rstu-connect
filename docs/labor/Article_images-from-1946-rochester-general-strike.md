@@ -1,12 +1,8 @@
 ---
-title: Images From 1946 Rochester General Strike
-date: 2025
-author: Global Nonviolent Action Database
-tags:
-  - organizing
-  - strikes
-  - unions
-  - labor
+title: "Images From 1946 Rochester General Strike"
+author: "Global Nonviolent Action Database"
+date: "2025"
+category: "labor"
 ---
 
 # Images From 1946 Rochester General Strike

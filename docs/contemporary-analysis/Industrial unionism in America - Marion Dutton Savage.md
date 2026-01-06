@@ -1,3 +1,8 @@
+---
+title: "## **Industrial unionism in America - Marion Dutton Savage**"
+category: "contemporary-analysis"
+---
+
 ## **Industrial unionism in America - Marion Dutton Savage**
 
 ## **Date:** Unknown

@@ -1,13 +1,8 @@
 ---
-title: Anarchists On the Web Anarchists On the Web Omeka S At Uvic Libraries
-date: 2025
-author: Unknown
-tags:
-  - organizing
-  - strikes
-  - rent
-  - police
-  - anarchism
+title: "Anarchists On the Web Anarchists On the Web Omeka S At Uvic Libraries"
+author: "Unknown"
+date: "2025"
+category: "theory"
 ---
 
 # Anarchists On the Web Anarchists On the Web Omeka S At Uvic Libraries

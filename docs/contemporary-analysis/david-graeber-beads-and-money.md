@@ -1,23 +1,8 @@
 ---
-title: Beads and Money
-author: David Graeber
-date: '1996'
-pubdate: '2023-02-23T23:13:00'
-language: en
-source_url: >-
-  <em>American Ethnologist</em> Volume 23, Issue 1, pp. 4-24
-  [[https://doi.org/10.1525/ae.1996.23.1.02a00010][DOI:~~10.1525/ae.1996.23.1.02a00010]]
-notes: >-
-  See also: David Graeber Institute [[https://davidgraeber.institute/]] &
-  [[https://davidgraeber.org/]]
-original_format: muse
-converted_date: '2025-11-08T11:25:03.050654'
-tags:
-  - theory
-  - contemporary
-  - unions
-  - rent
-  - prisons
+title: "Beads and Money"
+author: "David Graeber"
+date: "1996"
+category: "contemporary-analysis"
 ---
 
 ### abstract
@@ -26,11 +11,11 @@ Why have so many societies adopted beads or other objects of adornment as curren
 
 ------
 
-<quote>
+
 Moby Duck and Donald, captured by the Aridians (Arabs), start blowing soap bubbles, with which the natives are enchanted. "Ha ha. They break when you catch them. Hee, hee." Ali-Ben-Goli, the chief, says "it's real magic. My people are laughing like children. They cannot imagine how it works." "It's only a secret passed from generation to generation," says Moby, "I will reveal it if you give us our freedom." . . . The chief, in amazement, exclaims "Freedom? That's not all I'll give you. Gold, jewels. My treasure is yours, if you reveal the secret." The Arabs consent to their own despoliation. "We have jewels, but they are of no use to us. They don't make us laugh like magic bubbles."
 
 —from *How To Read Donald Duck* [Dorfman and Mattelart 1975:51]
-</quote>
+
 
 Dutch settlers, as every schoolchild knows, bought Manhattan Island from the local Indians for 24 dollars' worth of beads and trinkets. The story could be considered one of the founding myths of the United States: in a nation based on commerce, the very paradigm of a really good deal. And the fact that so many people across the globe were willing to accept European beads in exchange for land or anything else has come to stand, in our popular imagination, as one of the defining features of their "primitiveness"—a childish inability to distinguish worthless baubles from things of genuine value.
 
@@ -111,9 +96,9 @@ Marx considered this to hold for al I transactions, including those involving mo
 
 In his discussion of hoarding in *A Contribution to the Critique of Political Economy* (1970[1859]:125-137) and the *Grundrisse* (1973[1857-58]:228-234), Marx phrases the distinction between money in its abstract and concrete aspects as a distinction between "money" and "coin." "Coin" is the physical object offered in exchange. It only becomes "money" in the strict sense of the term when it is temporarily withdrawn from circulation—that is, when it is not the immediate object of anyone's action but instead represents a kind of universal potential for action. By holding on to the stuff the hoarder preserves his power, which is the power to buy anything at all. For the hoarder, money becomes a kind of ascetic religion—Marx likens it to Puritanism—in which the owner tends to develop an intensely personal, even secretive, relationship with the source of his powers. The impulse, once one has accumulated a substantial hoard, is always to hide it in the ground where no one else can see it:
 
-<quote>
+
 An outward expression of the desire to withdraw money from the stream of circulation and to save it from the social metabolism is the *burying* of it, so that social wealth is turned into an imperishable subterranean hoard with an entirely furtive private relationship to the commodity-owner. Doctor Bernier, who spent some time at Aurangzeb's court at Delhi, relates that merchants, especially the non-Moslem heathens, in whose hands nearly the entire commerce and all money are concentrated—secretly bury their money deep in the ground, "being held in thrall to the belief that the money they hide during their lifetime will serve them in the next world after their death." [Marx 1970(1859): 130]
-</quote>
+
 
 As his example implies, Marx did not see such behavior as deriving from capitalism itself but from the nature of money, from its abstract and almost mystical powers. In a similar vein, Engels (in Shell 1978:41) suggested that coined money, when first introduced into the Greek world in the seventh century B.C., was seen less as an economic instrument than as a magical charm, "a talisman that could at will transform itself into any desirable or desired object."
 
@@ -220,11 +205,11 @@ The usual practice was to dedicate sorona as the accompaniment of a vow. One mig
 
 Now, sorona often consisted of exactly the same kind of objects that were used as ingredients of ody. Like them, they did not usually represent objects so much as actions (in the example above: being destroyed or holding together). Finally, at least in some cases, sorona could become ody. Here is what Ellis has to say about the process:
 
-<quote>
+
 The sorona operates as a charm to bring the desired favor, and is sometimes an animal sacrifice, of which, when killed, the principal fat is eaten. In some cases it consists in wearing some article specified by the sikidy [divination]; and in such instances it becomes, in course of time, an ody—that is, a charm or amulet—which, though adopted at first for a particular object, is ultimately regarded as possessing some intrinsic virtue, and therefore is still worn after the imagined case for its immediate use has ceased.
 
 These sorona sometimes consist Of pieces of silver, or of silver chains; and sometimes of beads, more or less valuable. Occasionally strings of beads, of different colours, are made, and worn around the neck and wrists of the offerer.... All these offerings of silver or beads are called, Haraina tsy maty—"rejected but not dead;" that is, offered but not lost—securing an adequate return of wealth and prosperity. [1837, 1:435][15]
-</quote>
+
 
 Beads and silver, in other words, would be worn as a sorona to represent the "desired benefit" (in this case wealth) and, as such, displayed on the person of the sacrificer. And while Ellis does not explicitly say this, on becoming ody the ingredients were presumably hidden, as the ingredients of ody always tended to be.[16] That, at any rate, seems to be what happened to sorona dedicated on the ritual shelf of one's house, the same place that a family's ody or sampy were normally kept. Once one's prayers were answered, they could simply be wrapped in silk to join the other ody (Callet 1908:56; Chapus and Ratsimba 1953:91, n. 134).
 
@@ -308,7 +293,7 @@ When one looks in a mirror, of course, one is looking at an image of oneself, re
 
 ### references cited
 
-<biblio>
+
 Beauchamp, William
 
 1898 Wampum Used in Council and as Currency. American Antiquarian 20(1):1—13.
@@ -496,5 +481,3 @@ Weeden, William
 Weiner, Annette B.
 
 1992 Inalienable Possessions. Berkeley: University of California Press.
-
-</biblio>

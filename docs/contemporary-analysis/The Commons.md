@@ -1,3 +1,8 @@
+---
+title: "**The Commons**"
+category: "contemporary-analysis"
+---
+
 ## **Yavor Tarinski**
 
 # **The Commons**
@@ -78,15 +83,15 @@ The need for recreating the commons is an urgent one. With global instability st
 
 The paradigm of the commons, as part of the wider project of direct democracy, could play the role of the trick that manages to vanish the table, separating us, but simultaneously creating strong human relationships, based on solidarity and participation. And for this to happen, social movements and communities have to reclaim, through the establishment of networks and the strengthening of already existing ones, the public space and the commons, thus constituting coherent counterpower and creating real possibilities of instituting in practice new forms of social organization beyond state and markets.
 
-[<sup>\[1\]</sup>](#page-0-0) Deirdre N. Mc Closkey. *The Bourgeois Virtues*, The University of Chicago Press, 2006. p. 465
+[\[1\]](#page-0-0) Deirdre N. Mc Closkey. *The Bourgeois Virtues*, The University of Chicago Press, 2006. p. 465
 
-[<sup>\[2\]</sup>](#page-0-1) Malthusianism originates from Thomas Malthus, a nineteenth-century clergyman, for whom the poor would always tend to use up their resources and remain in misery because of their fertility. (Derek Wall. *Economics After Capitalism,* Pluto Press, 2015. p.125)
+[\[2\]](#page-0-1) Malthusianism originates from Thomas Malthus, a nineteenth-century clergyman, for whom the poor would always tend to use up their resources and remain in misery because of their fertility. (Derek Wall. *Economics After Capitalism,* Pluto Press, 2015. p.125)
 
-[<sup>\[3\]</sup>](#page-0-2) The concept was based upon an essay written in 1833 by Lloyd, the Victorian economist, on the effects of unregulated grazing on common land and made widely-known by an article written by Hardin in 1968.
+[\[3\]](#page-0-2) The concept was based upon an essay written in 1833 by Lloyd, the Victorian economist, on the effects of unregulated grazing on common land and made widely-known by an article written by Hardin in 1968.
 
-[<sup>\[4\]</sup>](#page-0-3) As Theodoros Karyotis demonstrates in his article *Chronicles of a Defeat Foretold*, published in ROAR magazine, Issue #0 (2015), pp 32–63
+[\[4\]](#page-0-3) As Theodoros Karyotis demonstrates in his article *Chronicles of a Defeat Foretold*, published in ROAR magazine, Issue #0 (2015), pp 32–63
 
-[<sup>\[5\]</sup>](#page-1-1) Michael Hardt and Antonio Negri. *Commonwealth*, The Bleknap Press of Harvard University press, 2011. p. ix
+[\[5\]](#page-1-1) Michael Hardt and Antonio Negri. *Commonwealth*, The Bleknap Press of Harvard University press, 2011. p. ix
 
 - [\[6\]](#page-1-2) David Bollier and Silke Helfrich. *The Wealth of the Commons*, The Commons Strategy Group, 2012. In Introduction: The Commons as a Transformative Vision
  - [\[7\]](#page-1-3) Ivan Illich. *Silence is a Commons*, first published in *Co Evolution Quarterly* 1983

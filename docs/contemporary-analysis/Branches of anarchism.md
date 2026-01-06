@@ -1,3 +1,8 @@
+---
+title: "## **Branches of anarchism**"
+category: "contemporary-analysis"
+---
+
 ## **Branches of anarchism**
 
 ## **Date:** Unknown
@@ -29,7 +34,8 @@ The economic arrangement that they advocate for is one that not only places owne
 | nastyned |
 |---------------------------------------------------------------------------------------------------|
 | 6 months 1 week ago |
-| I'd put the three main branches down as anarchist communism, anarcho-syndicalism and<br>oddballs. |
+| I'd put the three main branches down as anarchist communism, anarcho-syndicalism and
+oddballs. |
 | goff |
 | 6 months 1 week ago |
 | These are revleft level posts as best, can you not. |

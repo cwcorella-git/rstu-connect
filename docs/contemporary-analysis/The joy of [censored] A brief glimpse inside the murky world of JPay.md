@@ -1,3 +1,8 @@
+---
+title: "## **The joy of [censored]: A brief glimpse inside the murky world of JPay**"
+category: "contemporary-analysis"
+---
+
 ## **The joy of [censored]: A brief glimpse inside the murky world of JPay**
 
 ## **Date:** Unknown

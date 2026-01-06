@@ -1,3 +1,8 @@
+---
+title: "The Impact of Nonviolent Resistance on the Peaceful Transformation of Civil War"
+category: "feminist-theory"
+---
+
 # The Impact of Nonviolent Resistance on the Peaceful Transformation of Civil War
 
 ## Luke Abbs
@@ -55,13 +60,38 @@ ICNC MONOGRAPH SERIES EDITOR: Dr. Maciej Bartkowski VOLUME EDITOR: Bruce Pearson
 | Executive Summary | 1 |
 |------------------------------------------------------------------------------------------------------------------------------|----|
 | 1. Motivation for This Study | 3 |
-| 2. Literature and Theory: Nonviolent Resistance<br>and the Transformation of Civil War | 8 |
-| 3. Assumptions About Nonviolent Campaigns<br>and the Transformation of Civil War | 10 |
-| 3.1. Impact of Nonviolent Campaigns on<br>Negotiated Agreements Ending Civil Wars | 10 |
+| 2. Literature and Theory: Nonviolent Resistance
+and the Transformation of Civil War | 8 |
+| 3. Assumptions About Nonviolent Campaigns
+and the Transformation of Civil War | 10 |
+| 3.1. Impact of Nonviolent Campaigns on
+Negotiated Agreements Ending Civil Wars | 10 |
 | 3.2. Impact of Nonviolent Campaigns on the Post-Conict Phase | 13 |
-| Impact<br>of<br>Nonviolent<br>Campaigns<br>on<br>Reducing<br>the<br>Chances<br>for<br>Recurrence<br>of<br>Armed<br>Conict | 13 |
-| Impact<br>of<br>Nonviolent<br>Campaigns<br>on<br>the<br>Likelihood<br>of<br>Post-Conict<br>Democratization | 14 |
-| 3.3. Campaign Attributes, Negotiated Settlements,<br>and the Post-Conict Legacy of Campaigns | 16 |
+| Impact
+of
+Nonviolent
+Campaigns
+on
+Reducing
+the
+Chances
+for
+Recurrence
+of
+Armed
+Conict | 13 |
+| Impact
+of
+Nonviolent
+Campaigns
+on
+the
+Likelihood
+of
+Post-Conict
+Democratization | 14 |
+| 3.3. Campaign Attributes, Negotiated Settlements,
+and the Post-Conict Legacy of Campaigns | 16 |
 | 4. Mapping the Analysis | 21 |
 | 4.1. Stage 1: Measuring Civil War Episodes and Negotiated Settlements | 22 |
 | 4.2. Stage 2: Measuring the Post-Conict Phase and Democratization | 23 |
@@ -70,94 +100,233 @@ ICNC MONOGRAPH SERIES EDITOR: Dr. Maciej Bartkowski VOLUME EDITOR: Bruce Pearson
 | 4.5. Qualitative Case Studies | 26 |
 | 5. Evidence from the Large-N Data | 28 |
 | 5.1. Civil War, Nonviolent Campaigns, and Negotiated Agreements | 28 |
-| 5.2. The Legacy of Nonviolent Campaigns<br>and the Recurrence of Armed Conict | 34 |
+| 5.2. The Legacy of Nonviolent Campaigns
+and the Recurrence of Armed Conict | 34 |
 
-| 5.3. Nonviolent Campaigns in Civil Wars<br>and the Prospect of Democratization After the End of Civil War | 36 |
+| 5.3. Nonviolent Campaigns in Civil Wars
+and the Prospect of Democratization After the End of Civil War | 36 |
 |------------------------------------------------------------------------------------------------------------------------|----|
-| 5.4. Campaigns Attributes, Negotiated Settlements,<br>and Post-Conict Democratization | 39 |
-| Impact<br>of<br>Attributes<br>of<br>Nonviolent<br>Campaigns<br>on<br>Negotiated<br>Agreements<br>(Stage<br>1) | 40 |
-| The Success and Size of a Campaign<br>and Negotiated Settlements to Civil War | 41 |
-| Social, Organizational, and Gender Diversity of Campaigns<br>and Negotiated Settlements | 42 |
-| Campaign Leadership Structure, Alternative Institutions,<br>and Negotiated Settlements | 44 |
-| Impact<br>of<br>Nonviolent<br>Campaign<br>Attributes<br>on<br>Post-Conict<br>Democratization<br>(Stage<br>2) | 46 |
-| The Success and Size of a Campaign<br>and Post-Conict Democratization | 47 |
-| Social, Organizational, and Gender Diversity of Campaigns<br>and Post-Conict Democratization | 48 |
-| Campaign Leadership Structure, Alternative Institutions,<br>and Post-Conict Democratization | 50 |
+| 5.4. Campaigns Attributes, Negotiated Settlements,
+and Post-Conict Democratization | 39 |
+| Impact
+of
+Attributes
+of
+Nonviolent
+Campaigns
+on
+Negotiated
+Agreements
+(Stage
+1) | 40 |
+| The Success and Size of a Campaign
+and Negotiated Settlements to Civil War | 41 |
+| Social, Organizational, and Gender Diversity of Campaigns
+and Negotiated Settlements | 42 |
+| Campaign Leadership Structure, Alternative Institutions,
+and Negotiated Settlements | 44 |
+| Impact
+of
+Nonviolent
+Campaign
+Attributes
+on
+Post-Conict
+Democratization
+(Stage
+2) | 46 |
+| The Success and Size of a Campaign
+and Post-Conict Democratization | 47 |
+| Social, Organizational, and Gender Diversity of Campaigns
+and Post-Conict Democratization | 48 |
+| Campaign Leadership Structure, Alternative Institutions,
+and Post-Conict Democratization | 50 |
 | 6. Evidence from In-Depth Case Study Analysis | 51 |
-| 6.1. South Africa's Democratic Movement (1983–94):<br>The Road to Peace and Democracy | 51 |
-| Background<br>to<br>the<br>Mass<br>Democratic<br>Movement | 51 |
-| Constructive<br>Conict:<br>Forcing<br>Negotiations<br>by<br>Escalating<br>the<br>Conict,<br>Not<br>the<br>Violence | 53 |
-| Decentralized<br>Structure<br>and<br>Leadership:<br>Building<br>Momentum<br>While<br>Adapting<br>to<br>Repression | 54 |
-| Redressing<br>Power<br>Asymmetries<br>Through<br>Economic<br>Non-Cooperation | 55 |
+| 6.1. South Africa's Democratic Movement (1983–94):
+The Road to Peace and Democracy | 51 |
+| Background
+to
+the
+Mass
+Democratic
+Movement | 51 |
+| Constructive
+Conict:
+Forcing
+Negotiations
+by
+Escalating
+the
+Conict,
+Not
+the
+Violence | 53 |
+| Decentralized
+Structure
+and
+Leadership:
+Building
+Momentum
+While
+Adapting
+to
+Repression | 54 |
+| Redressing
+Power
+Asymmetries
+Through
+Economic
+Non-Cooperation | 55 |
 | 6.2. Mali's March Revolution (1991–96): Democratization and Impact on Peace | 58 |
-| Background<br>to<br>Mali's<br>March<br>Revolution | 58 |
+| Background
+to
+Mali's
+March
+Revolution | 58 |
 
-| Redressing<br>Power<br>Asymmetries<br>Through<br>Coalition<br>Building<br>and<br>Decentralized<br>Leadership | 59 |
+| Redressing
+Power
+Asymmetries
+Through
+Coalition
+Building
+and
+Decentralized
+Leadership | 59 |
 |---------------------------------------------------------------------------------------------------------------------------------|--------------|
-| Legacy<br>of<br>the<br>March<br>Revolution:<br>Opening<br>Up<br>Political<br>Space<br>in<br>the<br>Transition<br>Period | 62 |
-| Legacy<br>of<br>the<br>Campaign:<br>Constructive<br>Attempts<br>of<br>Violence<br>Mitigation<br>and<br>Inclusive<br>Solutions | 62 |
+| Legacy
+of
+the
+March
+Revolution:
+Opening
+Up
+Political
+Space
+in
+the
+Transition
+Period | 62 |
+| Legacy
+of
+the
+Campaign:
+Constructive
+Attempts
+of
+Violence
+Mitigation
+and
+Inclusive
+Solutions | 62 |
 | 7. Key Takeaways of the Monograph | 66 |
-| 7.1. Contributions and Implications for Academic Scholarship<br>and for the Work of Activists, Practitioners, and Policymakers | 68 |
-| Takeaways<br>for<br>Academics | 68 |
-| Takeaways<br>for<br>Activists | 69 |
-| Takeaways<br>for<br>Policymakers | 71 |
-| Bibliography | <br><br>73 |
+| 7.1. Contributions and Implications for Academic Scholarship
+and for the Work of Activists, Practitioners, and Policymakers | 68 |
+| Takeaways
+for
+Academics | 68 |
+| Takeaways
+for
+Activists | 69 |
+| Takeaways
+for
+Policymakers | 71 |
+| Bibliography | 
+
+73 |
 | Appendix I: Methodological Approach | 81 |
 | Statistical Approach and How It Works | 81 |
 | In-Sample and Out-of-Sample Prediction and How It Works | 81 |
 | Control Variables | 82 |
 | Appendix II: Detailed Statistical Results | 84 |
-| Detailed Results of Stage 1: Nonviolent Campaigns<br>and Civil War Agreements | 84 |
-| Detailed Results of Stage 2a: Nonviolent Campaigns<br>and Post-Conict Conict Recurrence | 87 |
-| Detailed Results of Stage 2b: Nonviolent Campaigns<br>and Post-Conict Democratization | 88 |
-| Detailed Results: Attributes of Nonviolent Campaigns<br>and Negotiated Civil War Settlements<br> | 91 |
-| Detailed Results: Attributes of Nonviolent Campaigns<br>and Post-Conict Democratization | 94 |
+| Detailed Results of Stage 1: Nonviolent Campaigns
+and Civil War Agreements | 84 |
+| Detailed Results of Stage 2a: Nonviolent Campaigns
+and Post-Conict Conict Recurrence | 87 |
+| Detailed Results of Stage 2b: Nonviolent Campaigns
+and Post-Conict Democratization | 88 |
+| Detailed Results: Attributes of Nonviolent Campaigns
+and Negotiated Civil War Settlements
+ | 91 |
+| Detailed Results: Attributes of Nonviolent Campaigns
+and Post-Conict Democratization | 94 |
 
 ### Tables and Figures
 
 | TABLE 1. Denition of Nonviolent Campaigns | 4 |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----|
-| TABLE 2. Denitions of Civil War, Conict Termination,<br>and Conict Transformation | 5 |
+| TABLE 2. Denitions of Civil War, Conict Termination,
+and Conict Transformation | 5 |
 | TABLE 3. Denitions of Durable Peace and Post-Conict Democratization | 6 |
-| TABLE 4. Relationships Between Nonviolent Campaigns<br>and Civil War Explored in This Study | 7 |
+| TABLE 4. Relationships Between Nonviolent Campaigns
+and Civil War Explored in This Study | 7 |
 | TABLE 5. Key Dierences Between the Cases of South Africa and Mali | 27 |
-| TABLE 6. Results of Statistical Analysis: Nonviolent Campaign Attributes<br>and Negotiated Agreements to End Civil War | 28 |
+| TABLE 6. Results of Statistical Analysis: Nonviolent Campaign Attributes
+and Negotiated Agreements to End Civil War | 28 |
 | TABLE 7. A Note on Interpreting Predicted Probabilities | 31 |
 | TABLE 8. Nonviolent Campaign Attributes and Negotiated Settlements to Civil War | 41 |
-| TABLE 9. Nonviolent Campaign Attributes<br>and Post-Conict Democratization (1955–2010) | 46 |
-| TABLE 10. Summary of Key Findings:<br>Mass Democratic Movement in South Africa (1983–94) | 57 |
-| TABLE 11. Summary of Key Findings:<br>ADEMA and March Revolution in Mali (1991–1996) | 64 |
+| TABLE 9. Nonviolent Campaign Attributes
+and Post-Conict Democratization (1955–2010) | 46 |
+| TABLE 10. Summary of Key Findings:
+Mass Democratic Movement in South Africa (1983–94) | 57 |
+| TABLE 11. Summary of Key Findings:
+ADEMA and March Revolution in Mali (1991–1996) | 64 |
 | TABLE 12. Key Lessons for Academics, Activists, and Policymakers | 67 |
-| FIGURE 1. Percentage of Civil Wars Ending in a Negotiated Settlement, with and without<br>Nonviolent Resistance Campaign (NVC) in the Final Year of the War (1955–2013) | 29 |
-| FIGURE 2. Nonviolent Campaign (NVC) and the Predicted<br>Probability of a Negotiated Settlement, based on data from 1955 to 2013. | 32 |
+| FIGURE 1. Percentage of Civil Wars Ending in a Negotiated Settlement, with and without
+Nonviolent Resistance Campaign (NVC) in the Final Year of the War (1955–2013) | 29 |
+| FIGURE 2. Nonviolent Campaign (NVC) and the Predicted
+Probability of a Negotiated Settlement, based on data from 1955 to 2013. | 32 |
 | FIGURE 3. Nonviolent Campaign (NVC) and the Duration of Civil War (1955–2013) | 33 |
-| FIGURE 4. Nonviolent Campaigns (NVC)<br>and Types of Civil War Termination (1955–2013) | 34 |
-| FIGURE 5. Predicted Probability of Civil War Recurrence,<br>based on data from 1955 to 2013 | 35 |
+| FIGURE 4. Nonviolent Campaigns (NVC)
+and Types of Civil War Termination (1955–2013) | 34 |
+| FIGURE 5. Predicted Probability of Civil War Recurrence,
+based on data from 1955 to 2013 | 35 |
 
-| FIGURE 6. Nonviolent Campaigns (NVC) and the Predicted Probability<br>of Democratization after a Civil War, based on data from 1955 to 2010 | 38 |
+| FIGURE 6. Nonviolent Campaigns (NVC) and the Predicted Probability
+of Democratization after a Civil War, based on data from 1955 to 2010 | 38 |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----|
-| FIGURE 7. Nonviolent Campaigns (NVC) and Predicted Probabilities for Specic Contexts<br>of Post-Conict Democratization, based on data from 1955 to 2010 | 39 |
-| FIGURE 8. Success and Size of Nonviolent Campaigns (NVC)<br>and Civil War Settlements, based on data from 1955 to 2013 | 42 |
-| FIGURE 9. Social Diversity, Women's Participation,<br>and Civil War Settlements, based on data from 1955 to 2013 | 43 |
-| FIGURE 10. Leadership Structure and Parallel Institutions of Nonviolent Campaigns (NVC)<br>and Predicted Probability of Civil War Settlements, based on data from 1955 to 2013 | 45 |
-| FIGURE 11. Success and Size of Wartime Nonviolent Campaigns (NVC)<br>and Post-Conict Democratization, based on data from 1955 to 2010 | 47 |
-| FIGURE 12. Social Diversity of Wartime Nonviolent Campaigns (NVC), Women's Participation,<br>and Post-Conict Democratization, based on data from 1955 to 2010 | 48 |
-| FIGURE 13. Organizational Diversity of Wartime Nonviolent Campaigns (NVC)<br>and Post-Conict Democratization, based on data from 1955 to 2010 | 49 |
-| FIGURE 14. Leadership Structure and Parallel Institutions of Wartime Nonviolent Campaigns<br>(NVC) and Post-Conict Democratization, based on data from 1955 to 2010 | 50 |
-| FIGURE 15. Logistic Regression and Cox Proportional Hazard Models:<br>Nonviolent Resistance and Negotiated Agreements (1955–2013) | 85 |
-| FIGURE 16. In-Sample Predictive Power: Nonviolent Campaigns (NVC)<br>and Negotiated Settlements, based on data from 1955 to 2013 | 86 |
-| FIGURE 17. K-Fold Cross-Validation: Nonviolent Campaigns (NVC)<br>and Negotiated Agreements, based on data from 1955 to 2013 | 87 |
-| FIGURE 18. Cox Proportional Hazard and Logistic Regression Models:<br>Nonviolent Campaigns (NVC) and the Recurrence of Civil War (1955–2013) | 88 |
-| FIGURE 19. Logistic Regression Models: Nonviolent Campaigns (NVC)<br>and Post-Conict Democratic Transitions (1955–2010) | 89 |
-| FIGURE 20. In-Sample Predictive Power: Nonviolent Campaigns (NVC)<br>and Post-Conict Democratization, based on data from 1955 to 2010 | 90 |
+| FIGURE 7. Nonviolent Campaigns (NVC) and Predicted Probabilities for Specic Contexts
+of Post-Conict Democratization, based on data from 1955 to 2010 | 39 |
+| FIGURE 8. Success and Size of Nonviolent Campaigns (NVC)
+and Civil War Settlements, based on data from 1955 to 2013 | 42 |
+| FIGURE 9. Social Diversity, Women's Participation,
+and Civil War Settlements, based on data from 1955 to 2013 | 43 |
+| FIGURE 10. Leadership Structure and Parallel Institutions of Nonviolent Campaigns (NVC)
+and Predicted Probability of Civil War Settlements, based on data from 1955 to 2013 | 45 |
+| FIGURE 11. Success and Size of Wartime Nonviolent Campaigns (NVC)
+and Post-Conict Democratization, based on data from 1955 to 2010 | 47 |
+| FIGURE 12. Social Diversity of Wartime Nonviolent Campaigns (NVC), Women's Participation,
+and Post-Conict Democratization, based on data from 1955 to 2010 | 48 |
+| FIGURE 13. Organizational Diversity of Wartime Nonviolent Campaigns (NVC)
+and Post-Conict Democratization, based on data from 1955 to 2010 | 49 |
+| FIGURE 14. Leadership Structure and Parallel Institutions of Wartime Nonviolent Campaigns
+(NVC) and Post-Conict Democratization, based on data from 1955 to 2010 | 50 |
+| FIGURE 15. Logistic Regression and Cox Proportional Hazard Models:
+Nonviolent Resistance and Negotiated Agreements (1955–2013) | 85 |
+| FIGURE 16. In-Sample Predictive Power: Nonviolent Campaigns (NVC)
+and Negotiated Settlements, based on data from 1955 to 2013 | 86 |
+| FIGURE 17. K-Fold Cross-Validation: Nonviolent Campaigns (NVC)
+and Negotiated Agreements, based on data from 1955 to 2013 | 87 |
+| FIGURE 18. Cox Proportional Hazard and Logistic Regression Models:
+Nonviolent Campaigns (NVC) and the Recurrence of Civil War (1955–2013) | 88 |
+| FIGURE 19. Logistic Regression Models: Nonviolent Campaigns (NVC)
+and Post-Conict Democratic Transitions (1955–2010) | 89 |
+| FIGURE 20. In-Sample Predictive Power: Nonviolent Campaigns (NVC)
+and Post-Conict Democratization, based on data from 1955 to 2010 | 90 |
 
-| FIGURE 21. K-Fold Cross-Validation: Nonviolent Campaigns (NVC)<br>and Democratic Transitions, based on data from 1955 to 2010 | 90 |
+| FIGURE 21. K-Fold Cross-Validation: Nonviolent Campaigns (NVC)
+and Democratic Transitions, based on data from 1955 to 2010 | 90 |
 |------------------------------------------------------------------------------------------------------------------------------------|----|
-| FIGURE 22. Logistic Regression Models: Campaign Success, Size,<br>and Negotiated Agreements (1955–2013) | 91 |
-| FIGURE 23. Logistic Regression Models: Campaign Diversity<br>and Negotiated Agreements (1955–2013) | 92 |
-| FIGURE 24. Logistic Regression Models: Other Attributes<br>and Negotiated Agreements (1955–2013) | 93 |
-| FIGURE 25. Logistic Regression Models: Nonviolent Campaign Success, Size,<br>and Post-Conict Democratic Transitions (1955–2010) | 94 |
-| FIGURE 26. Logistic Regression Models: Other Nonviolent Campaign Attributes<br>and Post-Conict Democratic Transitions (1955–2010) | 95 |
+| FIGURE 22. Logistic Regression Models: Campaign Success, Size,
+and Negotiated Agreements (1955–2013) | 91 |
+| FIGURE 23. Logistic Regression Models: Campaign Diversity
+and Negotiated Agreements (1955–2013) | 92 |
+| FIGURE 24. Logistic Regression Models: Other Attributes
+and Negotiated Agreements (1955–2013) | 93 |
+| FIGURE 25. Logistic Regression Models: Nonviolent Campaign Success, Size,
+and Post-Conict Democratic Transitions (1955–2010) | 94 |
+| FIGURE 26. Logistic Regression Models: Other Nonviolent Campaign Attributes
+and Post-Conict Democratic Transitions (1955–2010) | 95 |
 
 # **Executive Summary**
 
@@ -183,11 +352,11 @@ The process of conict transformation refers to actions and processes that seek t
 
 Yet we know far less about the impact nonviolent campaigns may have during civil war and after a civil war has ended—whether nonviolent resistance inuences peaceful transitions from armed conict to peace, and whether, in the post-conict phase, such transitions lead to durable peace and democratization While existing research can explain why the Nepalese campaign was successful in removing the monarchy from power, achieving in 19 days what armed insurgency had failed to achieve in 10 years, this literature does not explain how nonviolent resistance revived the peace process that led to sustainable peace and multi-party politics in Nepal The lack of scholarly attention leaves few answers as to whether Nepal is representative of other cases where nonviolent campaigns made a notable impact Is there a systematic relationship between nonviolent campaigns and negotiated settlements to civil war? Do these campaigns subsequently lead to durable peace and post-conflict democratization?
 
-<sup>1</sup> Largescale campaigns involve at least 1,000 observed participants in a series of coordinated and continuous tactics (Chenoweth and Lewis 2013, 14). This excludes conventional, institutional, political activities, such as court litigations, lobbying, or petitions. Nonviolent resistance is not the same as principled nonviolence, pacism, or a personal philosophy of nonviolence and is understood as a strategic, rather than moral, imperative.
+1 Largescale campaigns involve at least 1,000 observed participants in a series of coordinated and continuous tactics (Chenoweth and Lewis 2013, 14). This excludes conventional, institutional, political activities, such as court litigations, lobbying, or petitions. Nonviolent resistance is not the same as principled nonviolence, pacism, or a personal philosophy of nonviolence and is understood as a strategic, rather than moral, imperative.
 
 # Table 2. Definitions of Civil War, Conflict Termination, and Conflict Transformation
 
-**A civil war is an intra-state armed contestation between the government and armed rebels over issues related to political power (governmental dispute) or secession (territorial dispute) (following the Uppsala Conict Data Program [UCDP] denition, see Petersson and Wallensteen 2015).**<sup>2</sup> **The UCDP uses a threshold of at least 25 yearly battle deaths to classify a conict as a civil war. If the level of violence falls below 25 yearly deaths, conict termination occurs and the conict is no longer a civil war. This monograph is largely interested in terminations that are brought about by a negotiated settlement signed between the armed belligerents, and brought about by local, state-based or international peacebuilding strategies used to nd a solution to violent conicts.**
+**A civil war is an intra-state armed contestation between the government and armed rebels over issues related to political power (governmental dispute) or secession (territorial dispute) (following the Uppsala Conict Data Program [UCDP] denition, see Petersson and Wallensteen 2015).**2 **The UCDP uses a threshold of at least 25 yearly battle deaths to classify a conict as a civil war. If the level of violence falls below 25 yearly deaths, conict termination occurs and the conict is no longer a civil war. This monograph is largely interested in terminations that are brought about by a negotiated settlement signed between the armed belligerents, and brought about by local, state-based or international peacebuilding strategies used to nd a solution to violent conicts.**
 
 **Nonviolent resistance and peacebuilding that underpin negotiated settlements both belong to the broader eld of conict transformation, a "comprehensive term referring to actions and processes which seek to address the root causes of a particular conict over the long term, in the pursuit of just peace by peaceful means…to transform negative, destructive conict into positive, constructive conict" (Dudouet 2017, 5).**
 
@@ -195,9 +364,9 @@ This gap in our knowledge is a consequence of nonviolent resistance being explor
 
 The aim of this study is to shed more light on the relationship between nonviolent campaigns active during civil war (i e , wartime nonviolent campaigns) and transformation of armed conict toward peace agreements, durable peace, and post-conict democratization The monograph uses a new dataset on largescale wartime nonviolent movements, civil war, and the post-conict period to answer a number of key questions:
 
-<sup>2</sup> This data therefore excludes low-scale violence and armed violence that does not involve the state.
+2 This data therefore excludes low-scale violence and armed violence that does not involve the state.
 
-<sup>3</sup> Based on data used in this manuscript; nonviolent campaigns within the Major Episodes of Contention Dataset (MEC) and civil war episodes from the Uppsala Conict Data Program (UCDP) Armed Conict Dataset.
+3 Based on data used in this manuscript; nonviolent campaigns within the Major Episodes of Contention Dataset (MEC) and civil war episodes from the Uppsala Conict Data Program (UCDP) Armed Conict Dataset.
 
 ### Table 3. Definitions of Durable Peace and Post-Conflict Democratization
 
@@ -211,20 +380,22 @@ The aim of this study is to shed more light on the relationship between nonviole
 
 To unpack these questions, this monograph relies mainly on statistical evidence based on a global sample of cases between 1955 and 2013, and is supplemented with predictive analyses4 and case study evidence from South Africa and Mali 5 Information collected from the data and cases provide consistent evidence that nonviolent movements active during armed conict are associated with a greater likelihood of a negotiated settlement to civil war and post-conict democratization (Assumptions 1–2 and 4–5 in Table 4) No evidence is found that wartime nonviolent movements reduce the likelihood of conict recurrence in the future (Assumption 3 in Table 4) The root causes of civil war are extremely dicult to resolve, and it is equally dicult for states to escape reoccurring violent conict even when international actors and nonviolent actors play an active role in peace processes As such, states emerging from civil war often lack the resources to build stable institutions that can prevent future violence
 
-<sup>4</sup> Predictive analyses tell us the magnitude of the eect, by comparing the predicted probability of the outcome for cases where nonviolent campaigns are present with cases where they are not.
+4 Predictive analyses tell us the magnitude of the eect, by comparing the predicted probability of the outcome for cases where nonviolent campaigns are present with cases where they are not.
 
-<sup>5</sup> These cases were chosen because despite being very dierent cases, the outcome in both countries was positive, as was the case in Nepal.
+5 These cases were chosen because despite being very dierent cases, the outcome in both countries was positive, as was the case in Nepal.
 
 Table 4. Relationships Between Nonviolent Campaigns and Civil War Explored in This Study
 
 | STAGE 1: ONGOING CIVIL WAR | METHODS USED |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|
 | Assumption 1: Impact of wartime nonviolent campaigns and negotiated settlements on ending civil war | Statistical and |
-| Assumption 2: Impact of the campaign's attributes (e.g., social diversity, decentralized campaign structure) on ending civil war | predictive analysis;<br>case studies |
-| STAGE 2: POST-CONFLICT <sup>6</sup> | METHODS USED |
+| Assumption 2: Impact of the campaign's attributes (e.g., social diversity, decentralized campaign structure) on ending civil war | predictive analysis;
+case studies |
+| STAGE 2: POST-CONFLICT 6 | METHODS USED |
 | Assumption 3: Impact of wartime nonviolent campaigns on the post-conflict recurrence of civil war | Statistical and predictive analysis |
 | Assumption 4: Impact of wartime nonviolent campaigns on post-conflict democratization | Statistical and |
-| Assumption 5: Impact of campaign's attributes (e.g., social and organizational diversity, a decentralized leadership structure) on post-conflict democratization | predictive analysis;<br>case studies |
+| Assumption 5: Impact of campaign's attributes (e.g., social and organizational diversity, a decentralized leadership structure) on post-conflict democratization | predictive analysis;
+case studies |
 
 This monograph continues as follows. First, plausible assumptions that build on existing understandings and literature concerning the relationship between largescale nonviolent campaigns, the resolution of armed conflict and end to civil war, and the durability of post-conflict peace are presented. Next, the results supporting these assumptions listed in Table 4 are discussed in detail. The monograph concludes with a discussion on the implications of these findings for activists, practitioners and academics. Supplementary details on the statistical analyses and full results are reported in Appendix I and II.
 
@@ -240,7 +411,7 @@ While in some instances nonviolent resistance has been vulnerable to extreme vio
 
 Another issue is that the broad and diverse peacebuilding literature has grown in almost complete isolation to studies on the practice of nonviolent resistance Peacebuilding research has instead explored activities of civil society largely through institutional channels or channeled through non-governmental organizations, rather than grassroots movements engaged
 
-<sup>7</sup> This research has focused almost exclusively on localized nonviolent activism; outlining incredible attempts to inuence the trajectory of ongoing civil war. This includes localized nonviolent resistance against the government and armed groups (see Vüllers and Krtsch 2020) that has led to the creation of "zones of peace" that has decreased civilian targeting, homicides and extra-judicial killings (Barter 2014, 2015; Mouly, Idler, and Garrido 2015; Mouly, Garrido, and Idler 2018; Masullo 2015; Arjona 2015; Kaplin 2013a, 2013b, 2017; Hancock and Mitchell 2007; Koefoed 2017) and the creation of civilian-led peacekeeping (UCP), which contribute to local community peace infrastructures and monitor human rights and ceasere violations (Funari, Oldenhuis, and Julian 2015; Julian and Schweitzer 2015).
+7 This research has focused almost exclusively on localized nonviolent activism; outlining incredible attempts to inuence the trajectory of ongoing civil war. This includes localized nonviolent resistance against the government and armed groups (see Vüllers and Krtsch 2020) that has led to the creation of "zones of peace" that has decreased civilian targeting, homicides and extra-judicial killings (Barter 2014, 2015; Mouly, Idler, and Garrido 2015; Mouly, Garrido, and Idler 2018; Masullo 2015; Arjona 2015; Kaplin 2013a, 2013b, 2017; Hancock and Mitchell 2007; Koefoed 2017) and the creation of civilian-led peacekeeping (UCP), which contribute to local community peace infrastructures and monitor human rights and ceasere violations (Funari, Oldenhuis, and Julian 2015; Julian and Schweitzer 2015).
 
 in nonviolent resistance (Dudouet 2017) Peacebuilding scholars and practitioners often express concerns about the viability and vulnerability of nonviolent resistance within the context of armed conict Nonviolent resistance is often considered too weak and its participants too vulnerable within the context of armed conict (Francis 2009)
 
@@ -314,9 +485,9 @@ There is an extensive and well-established literature on democratization However
 
 While this monograph is specically interested in whether nonviolent campaigns are related to post-conict democratization, civil resistance research has recently demonstrated that nonviolent campaigns generally lead to more democratic outcomes Chenoweth and Stephan (2011) found that countries are ten times more likely to achieve democratization withinve years after a successful nonviolent campaign than in the case of transitions brought
 
-<sup>8</sup> Other studies have explored the institutional design of peace settlements and its impact on recurrence (Hartzell and Hoddie 2003), while others suggest that peace is more durable when the previous conict ends in victory rather than in negotiated settlement (Quinn, Mason, and Gurses 2007; Kreutz 2010).
+8 Other studies have explored the institutional design of peace settlements and its impact on recurrence (Hartzell and Hoddie 2003), while others suggest that peace is more durable when the previous conict ends in victory rather than in negotiated settlement (Quinn, Mason, and Gurses 2007; Kreutz 2010).
 
-<sup>9</sup> Some prominent exceptions include Ulfelder (2005) who nds nonviolent protest events increase the likelihood of democratization in dictatorships, and Teorell (2010) concludes that anti-government protests increase levels of democracy in the short- and long-term.
+9 Some prominent exceptions include Ulfelder (2005) who nds nonviolent protest events increase the likelihood of democratization in dictatorships, and Teorell (2010) concludes that anti-government protests increase levels of democracy in the short- and long-term.
 
 about by armed conict—further, countries achieve multiparty elections in 57 percent of all nonviolent campaign-led transitions 10
 
@@ -328,9 +499,9 @@ For instance, central to mobilizing mass and diverse numbers of participants in 
 
 Coalition agreements often become formalized and act as a template for power-sharing mechanisms and democratization (Subedi and Bhattarai 2017) For example, the 12-point agreement between the seven-party opposition alliance and Maoist rebels—which underpinned a broad anti-monarchy coalition in the April Uprising in Nepal—eventually served as a blueprint for future multi-party political system in the country Nonviolent movements also give civil society a voice, which can be used as a vehicle to inuence a peace process and
 
-<sup>10</sup> Karatnycky and Ackerman (2005) nd that transitions brought about by nonviolent campaigns were four times more likely to score highly on Freedom House's measure of political rights and civil liberties, than armed resistance-led transitions. Celestino and Gledtisch (2013) later conrmed these ndings, showing nonviolent campaign-led transitions created more favorable democratic outcomes than transitions not brought about by dissent.
+10 Karatnycky and Ackerman (2005) nd that transitions brought about by nonviolent campaigns were four times more likely to score highly on Freedom House's measure of political rights and civil liberties, than armed resistance-led transitions. Celestino and Gledtisch (2013) later conrmed these ndings, showing nonviolent campaign-led transitions created more favorable democratic outcomes than transitions not brought about by dissent.
 
-<sup>11</sup> Based on a survival statistical analysis, which in this instance explores the length of time a democracy survives, they compared democratic transitions brought about by nonviolent movements with transitions deriving from armed conict and no campaigns at all (elite-led).
+11 Based on a survival statistical analysis, which in this instance explores the length of time a democracy survives, they compared democratic transitions brought about by nonviolent movements with transitions deriving from armed conict and no campaigns at all (elite-led).
 
 the future design of post-settlement institutions and participatory practices (Nilsson 2012; Randle 1994; Schock 2005; Celestino and Gleditsch 2013)
 
@@ -356,7 +527,7 @@ Diverse movements can generate sympathy and win broad participation that mitigat
 
 Lessons can also be learned from the impact of women's participation in campaigns Emerging research highlights the positive eects women's participation can have on nonviolent campaigns and the outcomes produced by these campaigns Women's participation in campaigns tends to increase nonviolent discipline and the likelihood of loyalty shifts within pro-government segments of the population (Codur and King 2015; Principe 2017), meaning women's participation increases the likelihood of campaign success (Chenoweth 2019) Moreover, the participation of women's groups can increase long-term women's empowerment that has led to substantive progress in gender equity and women's political
 
-<sup>12</sup> Erica Chenoweth nds that where campaigns were able to mobilize and meet a 3.5 percent participation threshold, in terms of the percentage of the population, target governments have rarely been able to avoid political change (see Robson 2019).
+12 Erica Chenoweth nds that where campaigns were able to mobilize and meet a 3.5 percent participation threshold, in terms of the percentage of the population, target governments have rarely been able to avoid political change (see Robson 2019).
 
 representation, leading to more inclusive societies, which appears more conducive for democratization than armed conict (Mc Allister 1999; Paxton, Hughes, and Green 2006; Chenoweth 2019)
 
@@ -455,7 +626,7 @@ The campaign attributes under consideration in this monograph include:
 - f **Alternative institutions.** This is comprised of two dummy variables: campaign's years where alternative institutions were created, and campaign's years with no alternative institutions This includes evidence of either parallel educational and social institutions, parallel media, court systems and security structures such as policing
 - g **Campaign leadership structures.** This is comprised of two dummy variables: campaigns with a decentralized leadership, compared to campaigns with hierarchical leadership 13
 
-<sup>13</sup> See the NAVCO 2.1 codebook for more information about these indicators.
+13 See the NAVCO 2.1 codebook for more information about these indicators.
 
 When moving to the post-conict phase (Stage 2), binary variables are created based on whether a nonviolent campaign and the specic campaign attributes were present during the civil war This assesses the legacy and impact of wartime nonviolent campaigns and specic campaign attributes (a–g) highlighted above on the subsequent post-conict period
 
@@ -469,16 +640,23 @@ The mixed methods approach is necessary for this study because active nonviolent
 
 This study explores two case studies—South Africa and Mali—in order to further validate the empiricalndings (George and Bennett 2004) Specically, this study explores South Africa's Mass Democracy Campaign (1983–1994) and Mali's March Revolution (1991) These cases were chosen because of the most-dierent-systems design: the cases are very dierent, but the outcomes were similar In each case, a peace settlement and democratization were achieved after a nonviolent movement mobilized during a civil war, with both movements emerging in very dicult contexts: in South Africa, a particularly repressive and sophisticated
 
-<sup>14</sup> Structured, focused case comparison is used to further explore casual mechanisms to conrm whether ndings from a statistical study hold in the selected cases.
+14 Structured, focused case comparison is used to further explore casual mechanisms to conrm whether ndings from a statistical study hold in the selected cases.
 
 state security apparatus, and in Mali, within a context of repression, low income, and a low urban population.
 
-Table 5. Key Differences Between the Cases of South Africa and Mali<sup>15</sup>
+Table 5. Key Differences Between the Cases of South Africa and Mali15
 
-| | PERIOD<br>ANALYZED | REGION | REGIME | INCOME GROUP | % URBAN<br>POPULATION |
+| | PERIOD
+ANALYZED | REGION | REGIME | INCOME GROUP | % URBAN
+POPULATION |
 |--------------------------------------------|--------------------|--------------------|--------------------|------------------------|-----------------------|
-| South Africa<br>(Second Defiance Campaign) | 1983–1994 | Southern<br>Africa | Single-Party | Upper Middle<br>Income | 52.5% (1989) |
-| Mali<br>(Alliance for Democracy) | 1991–1996 | West Africa | Military<br>Regime | Low Income | 23.8% (1991) |
+| South Africa
+(Second Defiance Campaign) | 1983–1994 | Southern
+Africa | Single-Party | Upper Middle
+Income | 52.5% (1989) |
+| Mali
+(Alliance for Democracy) | 1991–1996 | West Africa | Military
+Regime | Low Income | 23.8% (1991) |
 
 While democratization in South Africa formed part of the negotiated agreement that brought about an end to the conflict, in Mali, democratization came first, which subsequently brought about favorable conditions that led to a peace agreement with the Tuareg rebels. As mentioned above, the data on peace agreements is limited in that it only includes negotiated agreements that are signed either during active conflict or the first year after termination. This limitation means that cases such as Mali are missed in the statistical analysis. This will be discussed more when exploring the data in Chapter 5. Despite similar outcomes in Mali and South Africa, these cases differed in terms of the regime type, level of development, urbanization, and the geographical region (see Table 5). Assessing these cases shows that both paths to peace and democratization were possible.
 
@@ -520,7 +698,7 @@ FIGURE 1. Percentage of Civil Wars Ending in a Negotiated Settlement, with and w
 
 While the data shows that the presence of nonviolent campaigns during civil wars is more likely to bring about a negotiated agreement, the existence of these campaigns does not always foster conditions for peace For instance, in the Philippines, the removal of President Marcos has had no concerted impact on the Communist rebellion in the country; in Myanmar, the pro-democracy 8888 campaign led by Aung San Suu Kyi (1988–1990) was violently repressed and had no impact on the various ongoing civil wars in the country; and in Pakistan, the removal of President Musharraf by the Lawyer's Movement did not notably inuence the Balochistan armed rebellion in the southwest In other cases, nonviolent revolution can inadvertently open the space for civil conict, as was the case in the Iranian revolution The introduction of the theocratic Iranian regime that emerged in the power vacuum after the
 
-<sup>16</sup> These cases include Nicaragua, 1978, Bangladesh 1990, Palestine (First Intifada) 1991, Haiti 1991, Niger 1992, Sierra Leone 1996, Papua New Guinea 1997, Aceh 1999. The data on these additional peace agreements that occurred after termination are taken from the PA-X dataset (Bell and Badanjak 2019).
+16 These cases include Nicaragua, 1978, Bangladesh 1990, Palestine (First Intifada) 1991, Haiti 1991, Niger 1992, Sierra Leone 1996, Papua New Guinea 1997, Aceh 1999. The data on these additional peace agreements that occurred after termination are taken from the PA-X dataset (Bell and Badanjak 2019).
 
 nonviolent uprising led to Kurdish armed rebellion, with the Democratic Party of Iranian Kurdistan (KDPI) demanding democracy
 
@@ -536,11 +714,11 @@ Another concern might be that the percentages presented in Figure 1 only represe
 
 While familiar to most scholars and practitioners, logistic regression is a form of statistical analysis for binary outcomes (was there a peace agreement or not), which specically explores whether a relationship has occurred by chance—whether civil war situations where nonviolent campaigns are present are indeed statistically dierent from those without these campaigns)—while controlling for other factors that may explain this relationship 19
 
-<sup>17</sup> This scale ranges from 0 (least democratic) to 1 (most democratic). See Appendix I for a more detailed explanation of this data.
+17 This scale ranges from 0 (least democratic) to 1 (most democratic). See Appendix I for a more detailed explanation of this data.
 
-<sup>18</sup> Again, this is a scale from 0 (least repressive) and 1 (most repressive). Physical integrity is understood as freedom from political killings and torture by the government. Please refer to Appendix I for a more detailed explanation of this data.
+18 Again, this is a scale from 0 (least repressive) and 1 (most repressive). Physical integrity is understood as freedom from political killings and torture by the government. Please refer to Appendix I for a more detailed explanation of this data.
 
-<sup>19</sup> See Chapters 9 and 10 and the appendix for a more detailed explanation of how the regression models work, the statistical controls used in these models and the full statistical results.
+19 See Chapters 9 and 10 and the appendix for a more detailed explanation of how the regression models work, the statistical controls used in these models and the full statistical results.
 
 ### Table 7. A Note on Interpreting Predicted Probabilities
 
@@ -552,7 +730,7 @@ Overall, the regression results report a positive and statistically signicantrel
 
 Protests may occur because of the peace process, both in the form of anti and pro-government protests Peace agreements can create space for nonviolent resistance as well as generate new grievances for mobilization, as seen recently in Colombia However, such possibility is simply not evident in the data In all the models looking at peace agreements, wartime nonviolent campaigns are lagged by one year, meaning anti-government nonviolent campaigns are already mobilized and ongoing prior to a civil war that is terminated by a peace agreement Moreover, case evidence also suggests that nonviolent campaigns comerst, and as Figure 1 shows, in some cases there is a signicant temporal lag between a nonviolent campaign emerging and a peace process that ends in an agreement occurring only later
 
-<sup>20</sup> See Model 2 from Figure 15 in the regression analysis—see Appendix II. Figures 16–17 show how predictive nonviolent campaigns are of peace settlements in comparison to third-party mediation.
+20 See Model 2 from Figure 15 in the regression analysis—see Appendix II. Figures 16–17 show how predictive nonviolent campaigns are of peace settlements in comparison to third-party mediation.
 
 ## ![](_page_41_Figure_0.jpeg)
 
@@ -564,17 +742,17 @@ These results show that between 1955 and 2013, negotiated agreements were three 
 
 Statistical analysis was also performed to explore the relationship between nonviolent campaigns during civil war and the likelihood of negotiated agreements over the duration of the violent conict, using a survival duration model This models how long peace is
 
-<sup>21</sup> It is conventional to report predictions alongside regression outputs when using a binary outcome (e.g., there was an agreement or there was not an agreement). This is because it is not possible to directly interpret estimates (the coecient) from logit regression models that are used to explore binary outcomes. While the coe cients from this model tell us whether the relationship is positive or negative, unlike the predictions, this does not tell us the magnitude of the eect.
+21 It is conventional to report predictions alongside regression outputs when using a binary outcome (e.g., there was an agreement or there was not an agreement). This is because it is not possible to directly interpret estimates (the coecient) from logit regression models that are used to explore binary outcomes. While the coe cients from this model tell us whether the relationship is positive or negative, unlike the predictions, this does not tell us the magnitude of the eect.
 
 ## ![](_page_42_Figure_0.jpeg)
 
-FIGURE 3. Nonviolent Campaign (NVC) and the Duration of Civil War (1955–2013)<sup>22</sup>
+FIGURE 3. Nonviolent Campaign (NVC) and the Duration of Civil War (1955–2013)22
 
 maintained or survives before conflict reoccurrence interrupts this timeline. Figure 3 visualizes the likelihood of civil war "surviving" on the y-axis and the number of civil war episodes' years on the x-axis. At all stages of the lifecycle in all civil wars in the data, the likelihood of the violent conflict continuing is substantially reduced when largescale non-violent campaigns are present within the conflict. For instance, after 5 years of civil war, a peace agreement is around 25 percent more likely when nonviolent campaigns are present compared to when they are not.
 
 Another possibility is that nonviolent campaigns may aid the termination of civil war but not necessarily negotiated agreements per se. There are other ways in which a civil war can end, such as a rebel victory, a military victory, or low activity. If theoretical assumptions are correct, the effect of wartime nonviolent movements should only be isolated to outcomes where a settlement is agreed. Furthermore, if wartime nonviolent campaigns weaken governmental power vis-à-vis the rebels, then the rebels might calculate that there is less incentive to seek peace. In other words, with a weakened government, the rebels could sense the opportunity to win through military means, aiding rebel victory rather than a peaceful settlement.
 
-<sup>22</sup> See Appendix II, based on Model 4 from Figure 15.
+22 See Appendix II, based on Model 4 from Figure 15.
 
 ## ![](_page_43_Figure_0.jpeg)
 
@@ -588,7 +766,7 @@ Moving beyond civil war, the analysis now turns to the post-conict phase, the in
 
 Figure 5 shows that the predictions from the regression model reveal no notable eect There is no signicant dierence between the predicted likelihood of conict recurrence, given the presence or absence of nonviolent campaigns in the preceding civil war 23 These predictions take into account possible alternative explanations such as the intensity and length of the previous civil war and the current level of GDP and democracy within a post-con ict state Nonviolent campaigns during civil war have no impact on civil war recurrence,
 
-<sup>23</sup> See Appendix II, based on the nal model from Figure 18.
+23 See Appendix II, based on the nal model from Figure 18.
 
 ## ![](_page_44_Figure_0.jpeg)
 
@@ -600,7 +778,7 @@ Thisnding is somewhat contradictory tondings in earlier works Yet, while Chenowe
 
 This monograph does not suggest that the legacy of nonviolent campaigns during civil war has no impact on the post-conict phase The process of civil war relapse is very complex While nonviolent movements are able to emerge in civil wars, the root causes of civil war are very dicult to resolve For one, war-prone states tend to be institutionally weaker and resource deprived It is dicult for states with history of civil war to escape the recurrence of violent conict even when attempting to democratize, as they often lack the resources to build stable institutions that can prevent future violence Moreover, while this study has shown that wartime nonviolent movements are positively associated with negotiated settlements, some literature on conict recurrencends that civil wars that end in victory are less prone
 
-<sup>24</sup> Another key determinant of civil war often included in the literature is country GDP. Lower GDP and a history of war keep countries in what is known as the conict trap; continued episodes of civil war destabilize already weak economies which in turn risks further conict (see Collier et al. 2003).
+24 Another key determinant of civil war often included in the literature is country GDP. Lower GDP and a history of war keep countries in what is known as the conict trap; continued episodes of civil war destabilize already weak economies which in turn risks further conict (see Collier et al. 2003).
 
 to relapse than those ended by an agreement, as it signicantly restrains the capacity of the losers to rearm and renew combat (Quinn, Mason, and Gurses 2007; Kreutz 2010)
 
@@ -628,7 +806,7 @@ While the statistical analysis only captures post-conict democratization, and no
 
 Based on these regression analyses,25 Figure 6 visualizes the probability of post-conict democratization (y-axis) when nonviolent movements are present during civil war and when they are absent (x-axis) This shows that post-conict democratization, while comparably rare, is more than twice as likely to occur when nonviolent campaigns are present in a civil war, as opposed to their absence
 
-<sup>25</sup> See Appendix II, based on the rst model from Figure 19. The predictive analysis in Appendix II shows that the existence of mediation in the previous civil war and a greater number of democratic neighbors are greater predictors of post-conict democratization than the presence of nonviolent campaigns in the last civil war. However, these eects are independent of one another—i.e., the presence of mediation or more democratic neighbors does not undermine the impact of nonviolent campaigns on post-conict democracy.
+25 See Appendix II, based on the rst model from Figure 19. The predictive analysis in Appendix II shows that the existence of mediation in the previous civil war and a greater number of democratic neighbors are greater predictors of post-conict democratization than the presence of nonviolent campaigns in the last civil war. However, these eects are independent of one another—i.e., the presence of mediation or more democratic neighbors does not undermine the impact of nonviolent campaigns on post-conict democracy.
 
 ## ![](_page_47_Figure_0.jpeg)
 
@@ -638,7 +816,7 @@ Figure 7 shows that nonviolent campaigns that were present during a civil war th
 
 The right graph shows that democratization after a civil war is six times more likely when following a peace agreement, and where nonviolent campaigns were present in comparison when they both were absent And what was an independent impact of negotiated agreement? How much force does it oer toward democratization in comparison with nonviolent movement? Again, the eects of nonviolent campaigns are measured independently of other explanations in the regression models
 
-<sup>26</sup> See full results in Appendix II, Figure 19.
+26 See full results in Appendix II, Figure 19.
 
 ## ![](_page_48_Figure_0.jpeg)
 
@@ -674,20 +852,34 @@ However, in the regression analysis, no support is found for Proposition 6a; a h
 
 Table 8. Nonviolent Campaign Attributes and Negotiated Settlements to Civil War
 
-| Success of the campaign (P2a) | Had the expected eect. Negotiated agreements are most likely in cases where nonvio<br>lent campaigns successfully achieved their goals during a civil war. |
+| Success of the campaign (P2a) | Had the expected eect. Negotiated agreements are most likely in cases where nonvio
+lent campaigns successfully achieved their goals during a civil war. |
 |-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Greater number of participants (P3a) | Had the expected eect. Larger nonviolent campaigns during civil war are positively<br>associated with negotiated settlements. |
-| Greater social diversity (P4a) | Had the expected and strong eect. Negotiated settlements are most likely in cases<br>where nonviolent campaign participants derive from a greater number of social groups. |
-| Participation of women (P5a) | Had the expected eect. The participation of women in nonviolent campaigns during<br>civil war increases the likelihood of a negotiated settlement. |
-| More organizational diversity (P6a) | No measurable eect. Organizational diversity had positive eects on negotiated<br>settlements in South Africa (i.e., allowed a diverse leadership that was adaptable to<br>state repression, allowing the movement to continue to pressure for a negotiated end to<br>apartheid and the armed conict—see Chapter 6). However, this is not evident in other<br>cases, where organizational diversity may create disunity and divisions can undermine<br>the campaign. |
-| Creation of alternative institutions<br>(P7a) | Had the expected eect. Nonviolent campaigns that create alternative institutions<br>during civil war are more positively associated with negotiated settlements than cam<br>paigns that do not. |
-| A decentralized leadership structure<br>(P8a) | Had the expected and strong eect. Decentralized nonviolent campaigns are consis<br>tently associated with negotiated agreement to civil war. |
+| Greater number of participants (P3a) | Had the expected eect. Larger nonviolent campaigns during civil war are positively
+associated with negotiated settlements. |
+| Greater social diversity (P4a) | Had the expected and strong eect. Negotiated settlements are most likely in cases
+where nonviolent campaign participants derive from a greater number of social groups. |
+| Participation of women (P5a) | Had the expected eect. The participation of women in nonviolent campaigns during
+civil war increases the likelihood of a negotiated settlement. |
+| More organizational diversity (P6a) | No measurable eect. Organizational diversity had positive eects on negotiated
+settlements in South Africa (i.e., allowed a diverse leadership that was adaptable to
+state repression, allowing the movement to continue to pressure for a negotiated end to
+apartheid and the armed conict—see Chapter 6). However, this is not evident in other
+cases, where organizational diversity may create disunity and divisions can undermine
+the campaign. |
+| Creation of alternative institutions
+(P7a) | Had the expected eect. Nonviolent campaigns that create alternative institutions
+during civil war are more positively associated with negotiated settlements than cam
+paigns that do not. |
+| A decentralized leadership structure
+(P8a) | Had the expected and strong eect. Decentralized nonviolent campaigns are consis
+tently associated with negotiated agreement to civil war. |
 
 ### **The Success and Size of a Campaign and Negotiated Settlements to Civil War**
 
 Starting with the success and size (number of participants) of wartime nonviolent campaigns (Figure 8), Graph 8a visualizes the probability of a civil war negotiated agreement (y-axis), comparing contexts where these campaign attributes are present or absent (x-axis) The predictions show that nonviolent campaigns that are successful in achieving their maximalist political aims are more than twice as likely to lead to peace settlements than campaigns that fail to achieve their aims 27
 
-<sup>27</sup> See Appendix II, based on the rst model from Figure 22.
+27 See Appendix II, based on the rst model from Figure 22.
 
 ## ![](_page_51_Figure_0.jpeg)
 
@@ -697,11 +889,11 @@ Graph 8b then explores the predicted likelihood of negotiated settlement (y-axis
 
 #### Social, Organizational, and Gender Diversity of Campaigns and Negotiated Settlements
 
-Moving to social and organizational diversity of wartime nonviolent campaigns, Figure 9a demonstrates that socially diverse participation in campaigns is an important predictor of peaceful settlements to civil war. Graph 9a visualizes the predicted likelihood of negotiated settlements to civil war (y-axis), given the level of social diversity of participants within a campaign (x-axis).<sup>28</sup> This explores the level of diversity using a ratio based on NAVCO's data (it calculates how many forms of diversity a campaign possesses and then divides this by the nine forms of diversity).<sup>29</sup> Graph 9b shows that as part of this diversity, women's participation in the
+Moving to social and organizational diversity of wartime nonviolent campaigns, Figure 9a demonstrates that socially diverse participation in campaigns is an important predictor of peaceful settlements to civil war. Graph 9a visualizes the predicted likelihood of negotiated settlements to civil war (y-axis), given the level of social diversity of participants within a campaign (x-axis).28 This explores the level of diversity using a ratio based on NAVCO's data (it calculates how many forms of diversity a campaign possesses and then divides this by the nine forms of diversity).29 Graph 9b shows that as part of this diversity, women's participation in the
 
-<sup>28</sup> See Appendix II, based on models from Figure 22.
+28 See Appendix II, based on models from Figure 22.
 
-<sup>29</sup> The nine types of social diversity are: gender, age, class, urban–rural, ideology, party, regional, ethnicity, and religion.
+29 The nine types of social diversity are: gender, age, class, urban–rural, ideology, party, regional, ethnicity, and religion.
 
 movement is particularly important; the likelihood of a negotiated agreement is twice as likely when movements are gender diverse, compared to campaigns that are not gender diverse.
 
@@ -723,7 +915,7 @@ This contrasts with the case of Nepal, where opposition parties and organization
 
 The importance of organizational diversity may dier in other campaigns as noted by the regression analyses, and may depend on other attributes of the campaign, namely that diverse movements appear to be most eective because they tend to have a decentralized leadership The regression results show that the most important attribute of wartime
 
-<sup>30</sup> See Appendix II, based on models from Figure 23.
+30 See Appendix II, based on models from Figure 23.
 
 nonviolent campaign seems to be a decentralized leadership structure, as it appears to have the strongest substantive eect (see Figure 10, graph 10a) 31
 
@@ -741,7 +933,7 @@ In the cases of Mali and South Africa, this was a hugely important attribute tha
 
 Thenal campaign attribute explored here is the establishment of alternative institutions (see Graph 10b) Alternative institutions are often formed by nonviolent campaigns to counter state institutions that may be inecient or simply discriminatory Alternative institutions, such as parallel education and governance systems, are self-sucient and based on grassroots activities that can promote inclusivity These activities can support a peace process and
 
-<sup>31</sup> Also based on models from Figure 23 in Appendix II.
+31 Also based on models from Figure 23 in Appendix II.
 
 provide a blueprint for peace talks, building on the creative and inclusive experience of developing these parallel institutions and their subsequent work
 
@@ -755,16 +947,25 @@ All campaign attributes appear to be important; larger, successful, greater soci
 
 Table 9. Nonviolent Campaign Attributes and Post-Conflict Democratization (1955–2010)
 
-| Success of the campaign (P2c) | Had the expected strong eect. Post-conict democratization is much more likely when<br>wartime nonviolent campaigns successfully achieved their goals. |
+| Success of the campaign (P2c) | Had the expected strong eect. Post-conict democratization is much more likely when
+wartime nonviolent campaigns successfully achieved their goals. |
 |-----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Greater number of participants (P3c) | Had the expected strong eect. Larger wartime nonviolent campaigns are an important<br>predictor of post-conict democratization. |
-| Greater social diversity (P4c) | Had the expected eect. Nonviolent campaigns during civil war that are more socially<br>diverse increase the likelihood of post-conict democratization. |
-| Participation of women (P5c) | Had the expected eect. Nonviolent campaigns during civil war that include the partici<br>pation of women increase the likelihood of post-conict democratization. |
-| More organizational diversity (P6c) | Had the expected strong eect. A greater number of organizations, and the coalition<br>building this requires, positively impact post-conict democratization. |
-| Creation of alternative institutions<br>(P7c) | Had the expected eect. Wartime nonviolent campaigns with alternative institutions are<br>associated with post-conict democratization, albeit the eect is weaker than above. |
-| A decentralized leadership structure<br>(P8c) | Had the expected eect. Decentralized nonviolent campaigns increase the likelihood of<br>democratization after the civil war. |
+| Greater number of participants (P3c) | Had the expected strong eect. Larger wartime nonviolent campaigns are an important
+predictor of post-conict democratization. |
+| Greater social diversity (P4c) | Had the expected eect. Nonviolent campaigns during civil war that are more socially
+diverse increase the likelihood of post-conict democratization. |
+| Participation of women (P5c) | Had the expected eect. Nonviolent campaigns during civil war that include the partici
+pation of women increase the likelihood of post-conict democratization. |
+| More organizational diversity (P6c) | Had the expected strong eect. A greater number of organizations, and the coalition
+building this requires, positively impact post-conict democratization. |
+| Creation of alternative institutions
+(P7c) | Had the expected eect. Wartime nonviolent campaigns with alternative institutions are
+associated with post-conict democratization, albeit the eect is weaker than above. |
+| A decentralized leadership structure
+(P8c) | Had the expected eect. Decentralized nonviolent campaigns increase the likelihood of
+democratization after the civil war. |
 
-<sup>32</sup> See Appendix II - based on models from gure 24
+32 See Appendix II - based on models from gure 24
 
 ## ![](_page_56_Figure_0.jpeg)
 
@@ -772,11 +973,11 @@ FIGURE 11. Success and Size of Wartime Nonviolent Campaigns (NVC) and Post-Confl
 
 #### The Success and Size of a Campaign and Post-Conflict Democratization
 
-Starting with the success and size of nonviolent campaigns during civil war, Figure 11 visualizes the predicted likelihood of post-conflict democratization given the presence of these two attributes.<sup>33</sup> Graph 11a shows that the legacy of successful nonviolent campaigns is crucial in explaining subsequent post-conflict democratization.
+Starting with the success and size of nonviolent campaigns during civil war, Figure 11 visualizes the predicted likelihood of post-conflict democratization given the presence of these two attributes.33 Graph 11a shows that the legacy of successful nonviolent campaigns is crucial in explaining subsequent post-conflict democratization.
 
 Successful campaigns are nearly five times more likely to bring about democratization after the end of civil war than unsuccessful campaigns. By removing undemocratic regimes or forcing concessions, nonviolent movements lay the foundations for subsequent democratization, often included as part of a negotiated peace process. The size of the nonviolent campaign (a key predictor of successful campaigns) is associated with a greater likelihood of post-conflict democratization.
 
-<sup>33</sup> See Appendix II, based on models from Figure 25.
+33 See Appendix II, based on models from Figure 25.
 
 ## ![](_page_57_Figure_0.jpeg)
 
@@ -810,7 +1011,7 @@ Finally, Figure 14 reports the predicted likelihood of post-conict democratizati
 
 Graph 14b shows a similar trend for nonviolent campaigns with parallel institutions Such institutions are often assumed to be an important basis for future participatory democracy and the prediction from the regression analysis provides evidence for this; democratization after the end of civil war is twice as likely when a wartime nonviolent campaign has parallel institutions, compared to cases where campaign lacks parallel institutions 34
 
-<sup>34</sup> See Appendix II, based on models from Figure 25.
+34 See Appendix II, based on models from Figure 25.
 
 # 6. Evidence from In-Depth Case Study Analysis
 
@@ -890,14 +1091,50 @@ By the early 1990s, the struggle had moved to the negotiation table The nonviole
 
 ## **MECHANISMS OF CHANGE AND OVERALL IMPACT:**
 
-| Impact on Peace | The mass democratic movement forced peace negotiations and an end to apartheid using two key strategies:<br>1.<br>Economic non-cooperation (i.e., mass strikes and boycotts) that exposed and exploited—for the<br>benet of the movement—the apartheid regime's reliance on black workers. By the late 1980s the<br>apartheid government had little option but to seek negotiations amid a struggling economy and<br>defections from economic and political elites.<br>2.<br>An external strategy of gaining international support; making state repression backre and using<br>both domestic and external activists to lobby for international sanctions which were eventually<br>implemented. |
+| Impact on Peace | The mass democratic movement forced peace negotiations and an end to apartheid using two key strategies:
+1.
+Economic non-cooperation (i.e., mass strikes and boycotts) that exposed and exploited—for the
+benet of the movement—the apartheid regime's reliance on black workers. By the late 1980s the
+apartheid government had little option but to seek negotiations amid a struggling economy and
+defections from economic and political elites.
+2.
+An external strategy of gaining international support; making state repression backre and using
+both domestic and external activists to lobby for international sanctions which were eventually
+implemented. |
 |----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Impact on<br>Post-Conict<br>Democracy | The constructive focus on non-racial campaigning and the building of diverse coalitions had a signicant<br>impact on conict transformation, racial equality, and reconciliation. Central to the mass democratic<br>movement was the adoption of the ANC's Freedom Charter which called for a racially equal participatory<br>democracy in South Africa. This became a blueprint for South Africa's impressive transition, involving 26<br>organizations and the eventual adoption of the highly liberal and inclusive "rainbow constitution." |
+| Impact on
+Post-Conict
+Democracy | The constructive focus on non-racial campaigning and the building of diverse coalitions had a signicant
+impact on conict transformation, racial equality, and reconciliation. Central to the mass democratic
+movement was the adoption of the ANC's Freedom Charter which called for a racially equal participatory
+democracy in South Africa. This became a blueprint for South Africa's impressive transition, involving 26
+organizations and the eventual adoption of the highly liberal and inclusive "rainbow constitution." |
 | | IMPACT OF SPECIFIC CAMPAIGN ATTRIBUTES: |
-| Success and<br>Campaign Size | Without the leverage of economic non-cooperation that undermined the economy, the apartheid govern<br>ment had little incentive to accept peace talks. The size of the strikes and boycotts were critical, involving<br>millions of South African workers and lost working hours. This also gave civil society a strong voice in the<br>conict. |
-| Social Diversity<br>and Participation<br>of Women | The movement's diversity allowed it to undermine the apartheid government, both economically (with<br>participants from all sectors of the economy) and politically (encouraging dierent racial groups to boy<br>cott elections, undermine apartheid institutions, and defect). Through the United Democratic Movement<br>Women's Organisation, women were important participants and leaders in the movement. |
-| Organizational<br>Diversity and<br>Decentralized<br>Leadership | Coalitions within the movement represented a huge number of organizations and were unied and well<br>organized. This advantage strongly relates to the importance of a decentralized leadership structure,<br>which made the movement adaptable and innovative. When the apartheid government repressed one<br>organization, another took over the leadership role. When national leaders were arrested, local networks<br>carried on unabated. Coalition building also promoted power sharing and democratic principles, central to<br>South Africa's transition to peace. |
-| Alternative<br>Institutions | Many alternative institutions in the movement were localized and had a great deal of autonomy. The<br>non-racial actions of these institutions undermined the apartheid system (e.g., setting up local committees<br>to provide services such as education, health care, legal recourse; the National Education Crisis Commit<br>tee; illegal marrying of interracial couples). |
+| Success and
+Campaign Size | Without the leverage of economic non-cooperation that undermined the economy, the apartheid govern
+ment had little incentive to accept peace talks. The size of the strikes and boycotts were critical, involving
+millions of South African workers and lost working hours. This also gave civil society a strong voice in the
+conict. |
+| Social Diversity
+and Participation
+of Women | The movement's diversity allowed it to undermine the apartheid government, both economically (with
+participants from all sectors of the economy) and politically (encouraging dierent racial groups to boy
+cott elections, undermine apartheid institutions, and defect). Through the United Democratic Movement
+Women's Organisation, women were important participants and leaders in the movement. |
+| Organizational
+Diversity and
+Decentralized
+Leadership | Coalitions within the movement represented a huge number of organizations and were unied and well
+organized. This advantage strongly relates to the importance of a decentralized leadership structure,
+which made the movement adaptable and innovative. When the apartheid government repressed one
+organization, another took over the leadership role. When national leaders were arrested, local networks
+carried on unabated. Coalition building also promoted power sharing and democratic principles, central to
+South Africa's transition to peace. |
+| Alternative
+Institutions | Many alternative institutions in the movement were localized and had a great deal of autonomy. The
+non-racial actions of these institutions undermined the apartheid system (e.g., setting up local committees
+to provide services such as education, health care, legal recourse; the National Education Crisis Commit
+tee; illegal marrying of interracial couples). |
 
 While the legacy of apartheid still impacts South Africa (e g , poverty, crime, and social unrest), the legacy of the democratic movement has been a relatively well-functioning democracy that is free from civil war The specic attributes of a campaign shown to increase the likelihood of peace and democratization in the statistical analysis are clearly evident in South Africa's democratic movement The size of the mass democratic movement, high levels of social and organizational diversity, decentralized leadership, and alternative institutions all played hugely important roles in ending apartheid and transforming South Africa into a peaceful democracy (see Table 10)
 
@@ -933,7 +1170,7 @@ Women also played an important role in the campaign, with more than 2,000 women 
 
 While the pro-democracy campaign did not table demands for peace talks, the nonviolent activities did lead to a change in regime during the armed conict, which revitalized the peace
 
-<sup>35</sup> The accord also provided a provision for regional autonomy in the north, leading the MPLA to reduces its demands from independence to autonomy and to drop "Liberation" from its name. However, the agreement was marked by mistrust and led to splits within the rebels, as hardliners maintained their claim for independence. The agreement was never implemented as the military regime was removed from power two months later in the March Revolution.
+35 The accord also provided a provision for regional autonomy in the north, leading the MPLA to reduces its demands from independence to autonomy and to drop "Liberation" from its name. However, the agreement was marked by mistrust and led to splits within the rebels, as hardliners maintained their claim for independence. The agreement was never implemented as the military regime was removed from power two months later in the March Revolution.
 
 process Similar to the case of South Africa, the pro-democracy movement had a decentralized leadership and the exceptional ability to cooperate and build coalitions, which were both key to its success, making the movement adaptable to repression and bringing together various social groups
 
@@ -945,7 +1182,7 @@ persons with disabilities, and women both young and old—making the movement re
 
 The most important attribute of the movement was its geographical inuence This largely relates to ADEMA, which had the support of teachers and health professionals who were able to spread its democratic and consensus-seeking message to rural communities throughout the country This helped to expand ADEMA's network, support base, and legitimacy to almost all areas of Mali, including the north (Zunes and Nesbitt 2009; Vengro1993) As the statistical analysis shows, greater social diversity within a campaign is important in aiding the transformation of civil war Here the regional diversity of the movement and its ability to reach rural communities were particularly important 36
 
-<sup>36</sup> Figure 23 in Appendix II shows that regional diversity within a movement is strongly associated with the likelihood of a negotiated agreement.
+36 Figure 23 in Appendix II shows that regional diversity within a movement is strongly associated with the likelihood of a negotiated agreement.
 
 The movement also encompassed students, trade unionists, and others, supported by traditional singing storytellers that helped spread the movement's message throughout the country (Zunes and Nesbitt 2009; Zunes 2012) Social diversity and coalition building enabled the entire movement to keep the pressure on the government and gave a voice to various areas of the country, eectively changing the balance of power within Mali Moreover, the movement's development of a nationwide network provided vital lessons for democratization, tackling the root causes of the Tuareg conict
 
@@ -1361,7 +1598,7 @@ This study also uses Cox proportional hazards models These models dier in that t
 
 While logistic regression allows us to explore the relationship between independent variables and dependent variables, the extent of the relationship is dicult to interpret directly In logistic models, a higher coecient does not necessarily indicate a stronger eect relative
 
-<sup>37</sup> Standard errors, which measure the statistical accuracy of the model, are clustered by conict episodes to account for the fact that conict episodes are dierent from one another.
+37 Standard errors, which measure the statistical accuracy of the model, are clustered by conict episodes to account for the fact that conict episodes are dierent from one another.
 
 to other variables In order to understand the substantive marginal eects, it is necessary to run in-sample predictive simulations, comparing the predictive probability of the outcome for cases where nonviolent campaigns are present with cases where they are not
 
@@ -1373,11 +1610,11 @@ Statistical analyses allow to account for alternative explanations by including 
 
 Next, a number of variables relating to the nature of the civil war are included: conict intensity (number of UCDP battleeld deaths (logged)), the type of conict (territorial or government-based), and the number of civil war years can impact the likelihood of peace Finally, a dummy variable is included for third-party mediation attempts (De Rouen, Bercovitch, and Pospieszna 2011) and the presence of UN peacekeeping missions (more robust Chapter 7 missions with enforcement mandates) as external interventions (Hegre, Hultman, and Nygard
 
-<sup>38</sup> Ten folds in k cross-validation is the norm in the machine learning literature and with large datasets. However, the sample sizes in this study are relatively much smaller.
+38 Ten folds in k cross-validation is the norm in the machine learning literature and with large datasets. However, the sample sizes in this study are relatively much smaller.
 
-<sup>39</sup> Regression models assume a linear relationship between independent variables and the outcome. Logging a variable helps to account for non-linear relationships. Data is taken from the World Bank (2016).
+39 Regression models assume a linear relationship between independent variables and the outcome. Logging a variable helps to account for non-linear relationships. Data is taken from the World Bank (2016).
 
-<sup>40</sup> For more information, see the Varieties of Democracy codebook at **https://www.v-dem.net/en/data/dataversion-7/**.
+40 For more information, see the Varieties of Democracy codebook at **https://www.v-dem.net/en/data/dataversion-7/**.
 
 2019) may explain why peace has occurred and may provide more favorable conditions for nonviolent resistance
 
@@ -1395,7 +1632,7 @@ This section follows the sequence of Chapter 5 in the main monograph:rst, wartim
 
 In all analyses, if the coecient (represented by the dot) is right of the red line, this represents a positive relationship with the outcome, while left of the line indicates a negative coecient The horizontal lines that reach out from the coecient dots are the condence intervals If these condence intervals overlap with the red line, then the result is not statistically significant, or in other words, less than 95 percent condence that the result did not occur simply by chance All variables related to nonviolent campaigns and third-party interventions in the civil war are lagged by one year to ensure casual ordering 41
 
-<sup>41</sup> This takes the values from the previous year, for instance, to ensure nonviolent campaigns were active prior to the signing of an agreement.
+41 This takes the values from the previous year, for instance, to ensure nonviolent campaigns were active prior to the signing of an agreement.
 
 ## ![](_page_94_Figure_0.jpeg)
 
@@ -1405,7 +1642,7 @@ Starting with the inuence of nonviolent resistance during ongoing civil war, Fig
 
 Models 3 and 4 use alternative Cox proportional hazards models which instead assess the time it takes civil war to "fail" and to be terminated by a negotiated agreement The positive coecients in Models 3 and 4 can be interpreted as nonviolent campaigns increasing the likelihood civil war "failing" and being terminated by a negotiated agreement 42 This
 
-<sup>42</sup> In these models, time-varying covariates are lagged by one year (t-1) and are appropriate for these models. Moreover, for ease of interpretation, the coecient estimates are reported rather than the hazard ratios.
+42 In these models, time-varying covariates are lagged by one year (t-1) and are appropriate for these models. Moreover, for ease of interpretation, the coecient estimates are reported rather than the hazard ratios.
 
 ## ![](_page_95_Figure_0.jpeg)
 
@@ -1435,81 +1672,7 @@ The most important determinant in Figure 18 is a previous history of civil war: 
 
 # Detailed Results of Stage 2b: Nonviolent Campaigns and Post-Conflict Democratization
 
-The analysis moves on to explore post-conict democratization and whether this is more likely when nonviolent campaigns were present in the previous civil war Figure 19 reports the full logistic regression models and the various aspects of post-conict democratic transitions Across all models, the results consistently provide strong support to Proposition 1c, which argues that wartime nonviolent campaigns have a positive and statistically signicant eect on the likelihood of post-conict democratization This eect increases in post-conict years that are withinve years of the last civil war (Democratization <5yrs) Finally, the eect is even stronger in post-conict periods that proceed a negotiated settlement, which suggests in many cases that wartime nonviolent campaigns can both aid negotiated settlements and post-conict democratization
-
-## ![](_page_98_Figure_0.jpeg)
-
-FIGURE 19. Logistic Regression Models: Nonviolent Campaigns (NVC) and Post-Conflict Democratic Transitions (1955–2010)
-
-Following the approach taken in Stage 1 of the above analysis, the statistical results here are also supplemented with in- and out-of-sample predictive analyses, which test the predictive power of the model and key variables
-
-Figure 20 explores the in-sample predictive power of the logistic regression model (recall therst model in Figure 19) and compares the power of the full model with subsequent models that remove nonviolent campaigns (in the previous civil war), third party mediation (in the previous civil war), and democratic neighbors from the model Removing any of these explanatory variables reduces the predictive power of the full model The presence of nonviolent campaigns in the previous conict is predictive, but as would be expected, is less predictive than wartime mediation and a higher number of democratic neighbors
-
-Figure 21 moves to the out-of-sample predictive analysis using k(4)-fold cross-validation (this methodology is explained in greater detail in Appendix I) Wartime nonviolent campaigns are predictive, as removing this variable reduces the predictive power of the model Once again, previous mediation and more democratic neighbors are greater predictors of post-con ict democratization And, again, the predictive power of this model is lower in the out-ofsample analysis than in the in-sample analysis, owing to the former being a tougher test
-
-## ![](_page_99_Figure_0.jpeg)
-
-FIGURE 20. In-Sample Predictive Power: Nonviolent Campaigns (NVC) and Post-Conflict Democratization, based on data from 1955 to 2010
-
-The next and nal sections of this appendix explore the impact of campaign attributes on the outcomes presented above
-
-## ![](_page_99_Figure_3.jpeg)
-
-FIGURE 21. K-Fold Cross-Validation: Nonviolent Campaigns (NVC) and Democratic Transitions, based on data from 1955 to 2010
-
-### **Detailed Results: Attributes of Nonviolent Campaigns and Negotiated Civil War Settlements**
-
-Thisnal section of this appendix reports the impact of specic attributes of wartime nonviolent movements and whether this can help explain the greater likelihood of civil war agreements and post-conict peace, starting with the comparison of nonviolent campaigns that are success with those that are not successful (see Figure 22) It is clear that successful campaigns are positively associated with negotiated agreements and that the eect is statistically signicant—unlike that of failed campaigns, which have no eect
-
-According to the civil resistance literature, a key determinant of campaign success is the size of the campaign (number of participants) As Figure 22 shows, larger wartime nonviolent campaigns with greater participation have a positive and signicant eect on negotiated agreements
-
-## ![](_page_100_Figure_3.jpeg)
-
-FIGURE 22. Logistic Regression Models: Campaign Success, Size, and Negotiated Agreements (1955–2013)
-
-## ![](_page_101_Figure_0.jpeg)
-
-FIGURE 23. Logistic Regression Models: Campaign Diversity and Negotiated Agreements (1955–2013)
-
-Turning to social diversity, Figure 23 presents the full results of a logistic regression model that explores the relationship between social diversity and negotiated settlements to civil wars
-
-A greater degree of social diversity within a wartime nonviolent movement (i e , the ratio or score of diversity) reports the strongest coecient and is therefore most associated with the likelihood of negotiated agreements Overall, most forms of social diversity within a nonviolent campaign are positively associated with negotiated agreements, including ethnicity and ideology, which often form the basis of division within most civil wars Interestingly, religious diversity has no signicant eect As was inferred in Proposition 5a, women's participation in the nonviolent movement is particularly important Figure 9a (see page 43) shows that a negotiated agreement is twice as likely when movements are gender diverse, compared to campaigns that are not
-
-Figure 24 then reports the coecients of other campaign features and the full models Campaigns with a greater number of organizations and that development alternative institutions are associated with the greater likelihood of a negotiated agreement While hierarchical leadership campaigns have no statistically signicant eect, decentralized campaign structures do indeed appear to be more adaptable to civil war environments and positively impact negotiated settlements
-
-## ![](_page_102_Figure_0.jpeg)
-
-FIGURE 24. Logistic Regression Models: Other Attributes and Negotiated Agreements (1955–2013)
-
-As stated in the main text, these results provide clear evidence for **Propositions 2a–5a** and **7a–8a** Campaign success, greater participation, movement diversity, alternative institutions and decentralized structure of a nonviolent campaign all increase the likelihood of a civil war ending in a negotiated settlement However, Figure 24 shows that greater organizational diversity within campaigns has no statistically signicant impact on settlements, meaning there is little support for **Proposition 6a**
-
-The cases of Mali and South Africa (explored in Chapter 6) show that a greater number of civil society organizations aided the resolution of civil war and led to fully comprehensive peace agreements In these specic cases a diverse organizational membership provided the nonviolent movements with an organized and dispersed leadership that was adaptable to state repression Yet this advantage is not reected in other cases, as shown by the statistical analysis It is likely that in other cases organizational diversity may create disunity, and such divisions may subsequently undermine the nonviolent campaign
-
-# Detailed Results: Attributes of Nonviolent Campaigns and Post-Conflict Democratization
-
-As discussed in the main analysis, the results from Figures 25 and 26 are almost identical to Figures 21–23: the specic features of nonviolent campaigns that aid the resolution of civil war are also strongly associated with post-conict democratization
-
-## ![](_page_103_Figure_2.jpeg)
-
-FIGURE 25. Logistic Regression Models: Nonviolent Campaign Success, Size, and Post-Conflict Democratic Transitions (1955–2010)
-
-Post-conict periods are more likely to witness post-conict democratic transitions when wartime nonviolent campaigns exhibit greater social diversity, greater women's participation, and have more organizations within the movement Nonviolent campaigns also appear to have a stronger legacy and impact on post-conict democratization when they have decentralized campaign structures and have developed alternative institutions amid the context of civil war This provides further evidence for Propositions 2c–8c
-
-## ![](_page_104_Figure_0.jpeg)
-
-FIGURE 26. Logistic Regression Models: Other Nonviolent Campaign Attributes and Post-Conflict Democratic Transitions (1955–2010)
-
-## ![](_page_105_Picture_0.jpeg)
-
-## About the Author
-
-**Luke Abbs** is a Fellow at the Centre of Religion, Reconciliation and Peace (CRRP), University of Winchester, and Associate Fellow at the Department of Government, University of Essex (since 2018). His research interests are nonviolent resistance and its impact on peace processes, religious peacebuilding, non-state armed actors, United Nations Peacekeeping, and mixed qualitative and quantitative methodology. Luke holds a PhD and MA in International Conict Analysis from the University of Kent.
-
-## ![](_page_106_Picture_0.jpeg)
-
-**The ICNC Monograph Series aims to bridge research and practice. Drawing on scholarly literature and high quality analytical and empirical analyses, ICNC Monographs enrich public discourse by expanding scientic knowledge in the eld of civil resistance and providing recommendations for practitioners such as activists, organizers, journalists, and members of INGOs and the policy community.**
-
-> **ICNC Monographs are available for free download at: https://www.nonviolent-conict.org/**
+The analysis moves on to explore post-conict democratization and whether this is more likely when nonviolent campaigns were present in the previous civil war Figure 19 reports the full logistic regression models and the various aspects of post-conict democratic transitions Across all models, the results consistently provide strong support to Proposition 1c, which argues that wartime nonviolent campaigns have a positive and statistically signicant eect on the likelihood of post-conict democratization This eect increases in post-conict years that are withinve years of the last civil war (Democratization  **ICNC Monographs are available for free download at: https://www.nonviolent-conict.org/**
 
 ## **Hard copies are also available for purchase.**
 

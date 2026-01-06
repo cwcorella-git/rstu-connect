@@ -1,3 +1,8 @@
+---
+title: "**Episode 26: Cognitive Science/**"
+category: "contemporary-analysis"
+---
+
 # **Episode 26: Cognitive Science/**
 
 **Source:** https://www.meaningcrisis.co/ep-26-awakening-from-the-meaning-crisis-cognitive-science/

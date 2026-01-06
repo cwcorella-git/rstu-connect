@@ -1,3 +1,8 @@
+---
+title: "**A point of clarification**"
+category: "contemporary-analysis"
+---
+
 ## **THE COMING INSURRECTION**
 
 ## The Invisible Committee
@@ -16,7 +21,7 @@ The newspapers conscientiously draw up the list of causes for the sudden disquie
 
 None of these worrisome subjects should appear insurmountable in an era whose predominant mode of government is precisely the management of crises. Unless we consider that what power is confronting is neither just another crisis, nor a series of more or less chronic problems, of more or less anticipated disturbances, but a singular peril: that a form
 
-<sup>1.</sup> Michèle Alliot-Marie, the French Interior Minister.
+1. Michèle Alliot-Marie, the French Interior Minister.
 
 # *All power to the communes!*
 
@@ -30,7 +35,7 @@ When we speak of Empire we name the mechanisms of power that preventively and su
 
 What we mean by the party of insurgents is the sketching out of a completely other *composition*, an other side of reality, which from Greece to the French *banlieues*2 is seeking its consistency. It is now publicly understood that crisis situations are so many opportunities for the restructuring of domination. This is why Sarkozy can announce, without seeming to lie too much, that the financial crisis is "the end of a world," and that 2009 will see France enter a new era. This charade of an economic crisis is the loss of centralized power signifies the end of Paris as the center of revolutionary activity. Every new movement since the strikes of 1995 has confirmed this. It's no longer in Paris that the most daring and consistent actions are carried out. To put it bluntly, Paris now stands out only as a target for raids, as a pure terrain to be pillaged and ravaged. Brief and brutal incursions from the outside strike at the metropolitan flows at their point of maximum density. Rage streaks across this desert of fake abundance, then vanishes. A day will come when this capital and its horrible concretion of power will lie in majestic ruins, but it will be at the end of a process that will be far more advanced everywhere else.
 
-<sup>2.</sup> *banlieue* – French ghettoes, usually located in the suburban periphery.
+2. *banlieue* – French ghettoes, usually located in the suburban periphery.
 
 crowd would be needed to challenge the army, invading its ranks and fraternizing with the soldiers. We need a March 18 1871. When the army is in the street, we have an insurrectionary situation. Once the army engages, the outcome is precipitated. Everyone finds herself forced to take sides, to choose between anarchy and the fear of anarchy. An insurrection triumphs as a political force. It is not impossible to defeat an army politically.
 
@@ -104,9 +109,9 @@ The first obstacle every social movement faces, long before the police proper, a
 
 From whatever angle you approach it, the present offers no way out. This is not the least of its virtues. From those who seek hope above all, it tears away every firm ground. Those who claim to have solutions are contradicted almost immediately. Everyone agrees that things can only get worse. "The future has no future" is the wisdom of an age that, for all its appearance of perfect normalcy, has reached the level of consciousness of the first punks. The sphere of political representation has come to a close. From left to right, it's the same nothingness striking the pose of an emperor or a savior, the same sales assistants adjusting their discourse according to the findings of the latest surveys. Those who still vote seem to have no other intention than to desecrate the ballot box by voting as a pure act of protest. We're beginning to suspect that it's only *against voting itself* that people continue to vote. Nothing we're being shown is adequate to the situation, not by far. In its very silence, the populace seems infinitely more mature than all these puppets bickering amongst themselves about how to govern it. The ramblings of any Belleville *chibani*1
 
-<sup>26.</sup> The phrase "minimum service" refers to the work that is deemed necessary in sectors deemed essential to the running of the national economy which workers are thus legally required to perform during strikes.
+26. The phrase "minimum service" refers to the work that is deemed necessary in sectors deemed essential to the running of the national economy which workers are thus legally required to perform during strikes.
 
-<sup>1.</sup> *Chibani* is Arabic for old man, here referring to the old men who play backgammon in the cafes of Belleville, a largely immigrant neighborhood in Paris.
+1. *Chibani* is Arabic for old man, here referring to the old men who play backgammon in the cafes of Belleville, a largely immigrant neighborhood in Paris.
 
 contain more wisdom than all the declarations of our socalled leaders. The lid on the social kettle is shut tripletight, and the pressure inside continues to build. From out of Argentina, the specter of *Que Se Vayan Todos*2 is beginning to seriously haunt the ruling class. The flames of November 2005 still flicker in everyone's minds. Those first joyous fires were the baptism of a decade full of promise. The media fable of "*banlieue* vs. the Republic" may work, but what it gains in effectiveness it loses in truth. Fires were lit in the city centers, but this news was methodically suppressed. Whole streets in Barcelona burned in solidarity, but no one knew about it apart from the people living there. And it's not even true that the country has stopped burning. Many different profiles can be found among the arrested, with little that unites them besides a hatred for existing society – not class, race, or even neighborhood. What was new wasn't the "*banlieue* revolt," since that was already going on in the 80s, but the break with its established forms. These assailants no longer listen to anybody, neither to their Big Brothers and Big Sisters, nor to the community organizations charged with overseeing the return to normal. No "SOS Racism"3 could sink its cancerous roots into this event, whose apparent conclusion can be credited only to fatigue, falsification and the media *omertà*.4 This whole series of nocturnal vandalisms and anonymous attacks, this wordless destruction, has widened the breach between politics and the political. No one can honestly deny the obvious: this was an assault that made no demands, a threat without a message, and it had nothing to do with "politics." One would have to be oblivious to the autonomous youth movements of the faces: the young hotheads in helmets lobbing gas canisters at the riot police from the rooftop of a building in Tizi Ouzou; the wry smile of an old resistance fighter draped in his burnous; the spirit of the women in the mountain villages, stubbornly carrying on with the traditional farming, without which the blockades of the region's economy would never have been as constant and systematic as they were.
 
@@ -118,11 +123,11 @@ The interruption of the flow of commodities, the suspension of normality (it's s
 
 As we mentioned above, the devastation of New Orleans by hurricane Katrina gave a certain fringe of the North American anarchist movement the opportunity to achieve an unfamiliar cohesion by rallying all those who refused to be forcefully evacuated. Street kitchens require building up provisions beforehand; emergency medical aid requires the acquisition of necessary knowledge and materials, as does the setting up
 
-<sup>2.</sup> *They All Must Go!* – the chant of the 2001 Argentine rebellion.
+2. *They All Must Go!* – the chant of the 2001 Argentine rebellion.
 
-<sup>3.</sup> A French Anti-Racist NGO set up by Francois Mitterand's Socialist Party in the 1980s.
+3. A French Anti-Racist NGO set up by Francois Mitterand's Socialist Party in the 1980s.
 
-<sup>4.</sup> The mafia "code of silence": absolutely no cooperation with state authorities or reliance on their services.
+4. The mafia "code of silence": absolutely no cooperation with state authorities or reliance on their services.
 
 ## **INSURRECTION**
 
@@ -134,7 +139,7 @@ The uprising of Algerian youth that erupted across all of Kabylia in the spring 
 
 ## 15
 
-<sup>5.</sup> The battle that crushed the Paris Commune of 1871, during which hundreds of buildings around Paris were torched by the communards already evaporated too much for that.
+5. The battle that crushed the Paris Commune of 1871, during which hundreds of buildings around Paris were torched by the communards already evaporated too much for that.
 
 As an attempted solution, the pressure to ensure that *nothing happens* , together with police surveillance of the territory, will only intensify. The unmanned drone that flew over Seine-Saint-Denis6 last July 14th – as the police later confirmed – presents a much more vivid image of the future than all the fuzzy humanistic projections. That they were careful to assure us that the drone was unarmed gives us a clear indication of the road we're headed down. The territory will be partitioned into ever more restricted zones. Highways built around the borders of "problem neighborhoods" already form invisible walls closing off those areas from the middle-class subdivisions. Whatever defenders of the Republic may think, the control of neighborhoods "by the community" is manifestly the most effective means available. The purely metropolitan sections of the country, the main city centers, will go about their opulent lives in an ever more crafty, ever more sophisticated, ever more shimmering deconstruction. They will illuminate the whole planet with their glaring neon lights, as the patrols of the BAC7 and private security companies (i.e. paramilitary units) proliferate under the umbrella of an increasingly shameless judicial protection.
 
@@ -154,7 +159,7 @@ To the extent that it grows and radiates, a commune begins to see the operations
 
 It's not a simple affair, for we expect a surge in police work being done by the population itself – everything from snitching to occasional participation in citizens' militias. The police forces blend in with the crowd. The ubiquitous model of police intervention, even in riot situations, is now the cop in civilian clothes. The effectiveness of the police during the last anti-CPE demonstrations was a result of plainclothes officers mixing among us and waiting for an incident before revealing who they are: gas, nightsticks, tazers, detainment; all in strict coordination with demonstration stewards. The mere possibility of their presence was enough to create suspicion amongst the demonstrators – who's who? – and to paralyze action. If we agree that a demonstration is not merely a way to stand and be counted declarations of war from Mafia K'1 Fry8 – to know that a certain coexistence will end soon, that a decision is near. This book is signed in the name of an imaginary collective. Its editors are not its authors. They were content merely to introduce a little order into the common-places of our time, collecting some of the murmurings around barroom tables and behind closed bedroom doors. They've done nothing more than lay down a few necessary truths, whose universal repression fills psychiatric hospitals with patients, and eyes with pain. They've made themselves scribes of the situation. It's the privileged feature of radical circumstances that a rigorous application of logic leads to revolution. It's enough just to say what is before our eyes and not to shrink from the conclusions.
 
-<sup>8.</sup> Popular French rap group.
+8. Popular French rap group.
 
 ## **First Circle**
 
@@ -172,7 +177,7 @@ In a demonstration, a union member tears the mask off of an anonymous person who
 
 ## 75
 
-<sup>25.</sup> Tarterêts is a *banlieue* in the Essonne region of France. The "Tarterêts Anti-Cop Brigade" was a name that was employed to claim responsibility for actions against police in this area in the 1980s a look at what surrounds us: all this will have its final hour. The metropolis suddenly takes on an air of nostalgia, like a field of ruins.
+25. Tarterêts is a *banlieue* in the Essonne region of France. The "Tarterêts Anti-Cop Brigade" was a name that was employed to claim responsibility for actions against police in this area in the 1980s a look at what surrounds us: all this will have its final hour. The metropolis suddenly takes on an air of nostalgia, like a field of ruins.
 
 All the incivilities of the streets should become methodical and systematic, converging in a diffuse, effective guerrilla war that restores us to our ungovernability, our primordial unruliness. It's disconcerting to some that this same lack of discipline figures so prominently among the recognized military virtues of resistance fighters. In fact though, rage and politics should never have been separated. Without the first, the second is lost in discourse; without the second the first exhausts itself in howls. When words like "*enragés*" and "*exaltés*" resurface in politics they're always greeted with warning shots.24 As for methods, let's adopt the following principle from sabotage: a minimum of risk in taking the action, a minimum of time, and maximum damage. As for strategy, we will remember that an obstacle that has been cleared away, leaving a liberated but uninhabited space, is easily replaced by another obstacle, one that offers more resistance and is harder to attack.
 
@@ -188,7 +193,7 @@ The injunction, everywhere, to "be someone" maintains the pathological state tha
 
 "WHAT AM I," then? Since childhood, I've passed through a flow of milk, smells, stories, sounds, emotions, nursery rhymes, substances, gestures, ideas, impressions, gazes, songs, and foods. What am I? Tied in every way to places, sufferings, ancestors, friends, loves, events, languages, memories, to all kinds of things that obviously *are not me*. Everything that attaches me to the world, all the links that constitute me, all the forces that compose me don't form an identity, a thing displayable on cue, but a singular, shared, living *existence*, from which emerges – at certain times and places – that being which says "I." Our feeling of inconsistency is simply the consequence of this foolish belief in the permanence of the self and of the little care we give to what makes us what we are.
 
-<sup>24.</sup> The *enragés* and *exaltés* were both radical groups in the French revolution.
+24. The *enragés* and *exaltés* were both radical groups in the French revolution.
 
 ## *Travel. Open our own lines of communication.*
 
@@ -246,7 +251,7 @@ city by the police, and from our friends by wage-labor. To this we should add, i
 
 France is a product of its schools, and not the inverse. We live in an excessively scholastic country, where one remembers passing an exam as a sort of life passage. Where retired people still tell you about their failure, forty years earlier, in such and such an exam, and how it screwed up their whole career, their whole life. For a century and a half, the national school system has been producing a type of state subjectivity that stands out amongst all others. People who accept competition on the condition that the playing field is level. Who expect in life that each person be rewarded as in a contest, according to their merit. Who always ask permission before taking. Who silently respect culture, the rules, and those with the best grades. Even their attachment to their great, critical intellectuals and
 
-<sup>9.</sup> *cité* – a housing project, typically in impoverished areas like the *banlieues*.
+9. *cité* – a housing project, typically in impoverished areas like the *banlieues*.
 
 ## **GET ORGANIZED**
 
@@ -274,7 +279,7 @@ up," where scholastic castration unleashes floods of policed employees. The aura
 
 It would be a waste of time to detail all that which is agonizing in existing social relations. They say the family is coming back, that the couple is coming back. But the family that's coming back is not the same one that went away. Its return is nothing but a deepening of the reigning separation that it serves to mask, becoming what it is through this masquerade. Everyone can testify to the rations of sadness condensed from year to year in
 
-<sup>11.</sup> A legendary French outlaw, 1936-1979
+11. A legendary French outlaw, 1936-1979
 
 family gatherings, the forced smiles, the awkwardness of seeing everyone pretending in vain, the feeling that a corpse is lying there on the table, and everyone acting as though it were nothing. From flirtation to divorce, from cohabitation to stepfamilies, everyone feels the inanity of the sad family nucleus, but most seem to believe that it would be sadder still to renounce it. The family is no longer so much the suffocation of maternal control or the patriarchy of beatings as it is this infantile abandon to a fuzzy dependency, where everything is familiar, this carefree moment in the face of a world that nobody can deny is breaking down, a world where "becoming self-sufficient" is a euphemism for "having found a boss." They want to use the "familiarity" of the biological family as an excuse to eat away at anything that burns passionately within us and, under the pretext that they raised us, make us renounce the possibility of growing up, as well as everything that is serious in childhood. It is necessary to preserve oneself from such corrosion.
 
@@ -384,7 +389,7 @@ New Orleans, a few days after Hurricane Katrina. In this apocalyptic atmosphere,
 
 Whoever knew the penniless joy of these New Orleans neighborhoods before the catastrophe, their defiance towards the state and the widespread practice of making do with what's available wouldn't be at all surprised by what became possible there. On the other hand, anyone trapped in the anemic and atomized everyday routine of our residential deserts might doubt that such determination could be found anywhere anymore. Reconnecting with such gestures, buried under years of normalized life, is the only practicable means of not sinking down with the world. The time will come when we take these up once more.
 
-<sup>21.</sup> A certain distance leads to a certain obscurity. Common Ground has been criticized in North American for the fact that its activities were geared towards a return to normality – that is, to the normal functioning of things. In any case it clearly remains in the realm of classical politics. The founder of Common Ground, former-Black Panther Malik Rahim, eventually used the project as part of his unsuccessful run for the US Congress in 2008. It was also later revealed that one of the main spokesmen for the project, Brandon Darby, was an FBI informant.
+21. A certain distance leads to a certain obscurity. Common Ground has been criticized in North American for the fact that its activities were geared towards a return to normality – that is, to the normal functioning of things. In any case it clearly remains in the realm of classical politics. The founder of Common Ground, former-Black Panther Malik Rahim, eventually used the project as part of his unsuccessful run for the US Congress in 2008. It was also later revealed that one of the main spokesmen for the project, Brandon Darby, was an FBI informant.
 
 the system, to the slightest climactic risk. As the latest tsunami approached and the tourists continued to frolic in the waves, the islands' hunter-gatherers hastened to flee the coast, following the birds. Environmentalism's present paradox is that under the pretext of saving the planet from desolation it merely saves the causes of its desolation. The normal functioning of the world usually serves to hide our state of truly catastrophic dispossession. What is called "catastrophe" is no more than the forced suspension of this state, one of those rare moments when we regain some sort of presence in the world. Let the petroleum reserves run out earlier than expected; let the international flows that regulate the tempo of the metropolis be interrupted, let us suffer some great social disruption and some great "return to savagery of the population," a "planetary threat," the "end of civilization!" Either way, any loss of control would be preferable to all the crisis management scenarios they envision. When this comes, the specialists in sustainable development won't be the ones with the best advice. It's within the malfunction and short-circuits of the system that we find the elements of a response whose logic would be to abolish the problems themselves. Among the signatory nations to the Kyoto Protocol, the only countries that have fulfilled their commitments, in spite of themselves, are the Ukraine and Romania. Guess why. The most advanced experimentation with "organic" agriculture on a global level has taken place since 1989 on the island of Cuba. Guess why. And it's along the African highways, and nowhere else, that auto mechanics has been elevated to a form of popular art. Guess how.
 
@@ -420,7 +425,7 @@ We are told that the environment has the incomparable merit of being the first t
 
 From Secretaries of State to the back rooms of alternative cafés, concerns are always expressed in the same words, the same as they've always been. We have to get *mobilized*. This time it's not to rebuild the country like in the post-war era, not for
 
-<sup>20.</sup> Électricité de France (EDF) is the main electricity generation and distribution company in France and one of the largest in the world, supplying most of its power from nuclear reactors.
+20. Électricité de France (EDF) is the main electricity generation and distribution company in France and one of the largest in the world, supplying most of its power from nuclear reactors.
 
 according to the intensity and quality of the ties attaching us to all of these beings, to all of these places. It's only us, the children of the final dispossession, exiles of the final hour – the ones who come into the world in concrete cubes, pick our fruits at the supermarket, and watch for an echo of the world on television – only we get to *have an environment*. And there's no one but us to witness our own annihilation, as if it were just a simple change of scenery, to get indignant about the latest progress of the disaster, to patiently compile its encyclopedia. What has congealed as an environment is a relationship to the world based on management, which is to say, on estrangement. A relationship to the world wherein we're not made up *just as much* of the rustling trees, the smell of frying oil in the building, running water, the hubbub of schoolrooms, the mugginess of summer evenings. A relationship to the world where there is me and then my environment, surrounding me but never really constituting me. We have become neighbors in a planetary co-op owners' board meeting. It's difficult to imagine a more complete hell. No material habitat has ever deserved the name "environment," except perhaps the metropolis of today. The digitized voices making announcements, tramways with such a 21st century whistle, bluish streetlamps shaped like giant matchsticks, pedestrians done up like failed fashion models, the silent rotation of a video surveillance camera, the lucid clicking of the subway turnstyles supermarket checkouts, office timeclocks, the electronic ambiance of the cyber café, the profusion of plasma screens, express lanes and latex. Never has a setting been so able to do without the souls traversing it. Never has a surrounding been more automatic. Never has a context been so indifferent, and demanded in return – as the price of survival – such equal indifference from us. Ultimately the environment is nothing more than the relationship to the world that is proper to the metropolis, and that projects itself onto everything that would escape it.
 
@@ -442,7 +447,7 @@ There is no "environmental catastrophe." The catastrophe is the *environment its
 
 Nobody respects money anymore, neither those who have it nor those who don't. When asked what they want to be some day, twenty percent of young Germans answer "artist." Work is no longer endured as a given of the human condition. The accounting departments of corporations confess that they have no idea where value comes from. The market's bad reputation would have done it in a decade ago if not for the bluster and fury, not to mention the deep pockets, of its apologists. It is common sense now to see progress as synonymous with disaster. In the world of the economic, everything is in flight, just like in the USSR under Andropov.14 Anyone who has spent a little time analyzing the final years of the USSR knows very well that the pleas for goodwill coming from our rulers, all of their fantasies about some future that has disappeared without a trace, all of their professions of faith in "reforming" this and that, are just the first fissures in the structure of the wall. The collapse of the socialist bloc was in no way victory of capitalism; it was merely the bankrupting of one of the forms capitalism takes. Besides, the demise of the USSR did not come about because a people revolted, but because the nomenclature was undergoing a process of reconversion. When it proclaimed the end of socialism, a small fraction of the ruling class emancipated itself from the anachronistic duties that still bound it to the people. It took *private* control of what it already controlled in the name of "everyone." In the factories, the joke went: "we pretend to work, they pretend to pay us." The oligarchy replied, "there's no point, let's stop pretending!" They ended up with the raw materials, industrial infrastructures, the military-industrial complex, the banks and the nightclubs. Everyone else got poverty or emigration. Just as no one in Andropov's time believed in the USSR, no one in the meeting halls, workshops and offices believes in France today. "There's no point," respond the bosses and political
 
-<sup>14.</sup> Andropov was General Secretary of the Communist Party of the Soviet Union from 1982 to 1984.
+14. Andropov was General Secretary of the Communist Party of the Soviet Union from 1982 to 1984.
 
 of life. Such a science threatens to make us miss the good old days when unreliable indices like GDP growth were supposed to measure the well-being of a people—for at least no one believed in them. "Revalorize the non-economic aspects of life" is the slogan shared by the negative growth movement and by capital's reform program. Eco-villages, video-surveillance cameras, spirituality, biotechnologies and sociability all belong to the same "civilizational paradigm" now taking shape, that of a total economy rebuilt from the ground up. Its intellectual matrix is none other than cybernetics, the science of systems—that is, the science *of their control*. In the 17th century it was necessary, in order to completely impose the force of economy and its ethos of work and greed, to confine and eliminate the whole seamy mass of layabouts, liars, witches, madmen, scoundrels and all the other vagrant poor, a whole humanity whose very existence gave the lie to the order of interest and continence. The new economy cannot be established without a similar selection of subjects and zones singled out for transformation. The chaos that we constantly hear about will either provide the opportunity for this screening, or for our victory over this odious project.
 
@@ -450,7 +455,7 @@ leaders, who no longer even bother to file the edges off the "iron laws of the e
 
 ## 45
 
-<sup>15.</sup> Jean-Baptiste Colbert served as the French minister of finance from 1665 to 1683 under the rule of King Louis XIV
+15. Jean-Baptiste Colbert served as the French minister of finance from 1665 to 1683 under the rule of King Louis XIV
 
 A graphic designer wearing a handmade sweater is drinking a fruity cocktail with some friends on the terrace of an "ethnic" café. They're chatty and cordial, they joke around a bit, they make sure not to be too loud or too quiet, they smile at each other, a little blissfully: we the 1950s. "When an individual is frugal, property serves its function perfectly, which is to allow the individual to enjoy his or her own life sheltered from public existence, in the private sanctuary of his or her life."
 
@@ -460,4 +465,4 @@ are so civilized. Afterwards, some of them will go work in the neighborhood comm
 
 This convergence is hardly a coincidence. It is part of the forced march towards a modernized economy. Capitalism got as much as it could from undoing all the old social ties, and it is now in the process of remaking itself by rebuilding these same ties *on its own terms*. Contemporary metropolitan social life is its incubator. In the same way, it ravaged the natural world and is driven by the fantasy that it can now be reconstituted as so many controlled environments, furnished with all the necessary sensors. This new humanity requires a new economy that would no longer be a separate sphere of existence but, on the contrary, its very tissue, the raw material of human relations; it requires a new definition of work as work on oneself, a new definition of capital as human capital, a new idea of production as the production of relations, and consumption as the consumption of situations; and above all a new idea of value that would encompass all of the qualities of beings. This burgeoning "bioeconomy" conceives the planet as a closed system to be managed and claims to establish the foundations for a science that would integrate all the parameters
 
-<sup>18.</sup> A French equivalent of the English language magazine *Adbusters.*
+18. A French equivalent of the English language magazine *Adbusters.*

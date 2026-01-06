@@ -1,3 +1,8 @@
+---
+title: "[Luiz Inácio Lula da Silva](https://en.wikipedia.org/wiki/Main_Page)"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_2.jpeg)
 
 # [Luiz Inácio Lula da Silva](https://en.wikipedia.org/wiki/Main_Page)
@@ -51,8 +56,10 @@ In March 1974, Lula had an illegitimate daughter, Lurian, with his then-girlfrie
 | Preceded by | Fernando Henrique | | |
 | | Cardoso | | |
 | Succeeded by | Dilma Rousseff | | |
-| | Further offices held<br>[show] | | |
-| | National President of the<br>Workers' Party | | |
+| | Further offices held
+[show] | | |
+| | National President of the
+Workers' Party | | |
 | | In office | | |
 | 15 July 1990 | – 24 January 1994 | | |
 | Preceded by | Luiz Gushiken | | |
@@ -62,7 +69,8 @@ In March 1974, Lula had an illegitimate daughter, Lurian, with his then-girlfrie
 | Preceded by | Position | | |
 | | established | | |
 | Succeeded by | Olívio Dutra | | |
-| Member of the Chamber of<br>Deputies | | | |
+| Member of the Chamber of
+Deputies | | | |
 | | In office | | |
 | 27 March 1987 | – 1 February 1991 | | |
 | Constituency | São Paulo | | |
@@ -95,17 +103,31 @@ There, in 1974, he lost his left pinky finger in a machinery accident, while wor
 
 Inspired by his brother Frei Chico, a member of the [Brazilian Communist Party,](https://en.wikipedia.org/wiki/Brazilian_Communist_Party) Lula joined the [labour](https://en.wikipedia.org/wiki/Labour_movement) [movement](https://en.wikipedia.org/wiki/Labour_movement) when he worked at Villares Metals, rising through the ranks[.\[26\]](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva#cite_note-26) He was elected in 1975, and re-
 
-| Other political<br>affiliations | FE Brasil (since<br>2022) |
+| Other political
+affiliations | FE Brasil (since
+2022) |
 |---------------------------------|-----------------------------------------------------------|
-| Spouses | Maria de Lourdes<br>Ribeiro<br>(m.<br>1969; died<br>1971) |
-| | Marisa Letícia Casa<br>(m.<br>1974; died<br>2017) |
-| | Rosângela da Silva<br>(m.<br>2022) |
+| Spouses | Maria de Lourdes
+Ribeiro
+(m.
+1969; died
+1971) |
+| | Marisa Letícia Casa
+(m.
+1974; died
+2017) |
+| | Rosângela da Silva
+(m.
+2022) |
 | Children | 5 |
 | Residence | Palácio da Alvorada |
-| Education | National Service for<br>Industrial Training |
-| Occupation | Metalworker, trade<br>unionist |
+| Education | National Service for
+Industrial Training |
+| Occupation | Metalworker, trade
+unionist |
 | Signature | |
-| Website | lula.com.br (http://lul<br>a.com.br) |
+| Website | lula.com.br (http://lul
+a.com.br) |
 
 ## ![](_page_2_Picture_12.jpeg)
 
@@ -604,7 +626,8 @@ The list of Lula's awards since 2003:
 
 #### National honours
 
-| Ribbon<br>bar | Honour | Date & Comment | Ref. |
+| Ribbon
+bar | Honour | Date & Comment | Ref. |
 |---------------|-----------------------------------------------------|--------------------------------------------------|-------|
 | | Grand Cross of the Order of the Southern Cross | 2003 – automatic upon taking presidential office | [354] |
 | | Grand Cross of the Order of Rio Branco | 2003 – automatic upon taking presidential office | [355] |
@@ -616,14 +639,17 @@ The list of Lula's awards since 2003:
 
 #### State honours
 
-| Ribbon<br>bar | Honour | Date & Comment | Ref. |
+| Ribbon
+bar | Honour | Date & Comment | Ref. |
 |---------------|--------------------------------------------------------------------------------------|-------------------------------------|-------|
 | | Grand Cross of the Aperipê Order of Merit | 2008 - Given by Governor of Sergipe | [358] |
-| | Grand Necklace of the Inconfidence Medal<br>2008 - Given by Governor of Minas Gerais | | |
+| | Grand Necklace of the Inconfidence Medal
+2008 - Given by Governor of Minas Gerais | | |
 
 ## Foreign honours
 
-| Ribbon<br>bar | Country | Honour | Date | Ref. |
+| Ribbon
+bar | Country | Honour | Date | Ref. |
 |---------------|---------------|----------------------------------------------------------|-------------------|-------|
 | | Algeria | Grand Cross of the National Order of Merit | 7 February 2006 | [359] |
 | | Benin | Grand Cross of the National Order of Benin | 17 March 2013 | [360] |

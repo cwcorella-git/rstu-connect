@@ -1,3 +1,8 @@
+---
+title: "**A Decade of Train Wrecks: What Has Gone Wrong?**"
+category: "theory"
+---
+
 # **A Decade of Train Wrecks: What Has Gone Wrong?**
 
 **Date:** Thu, 01/25/2018 - 17:25

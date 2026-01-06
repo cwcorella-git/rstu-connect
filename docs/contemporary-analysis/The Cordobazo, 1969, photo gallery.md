@@ -1,3 +1,8 @@
+---
+title: "## **The Cordobazo, 1969, photo gallery**"
+category: "contemporary-analysis"
+---
+
 ## **The Cordobazo, 1969, photo gallery**
 
 ## **Date:** Unknown

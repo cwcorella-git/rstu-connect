@@ -1,12 +1,8 @@
 ---
-title: Anarchists Getting Ourselves Together
-date: 2025
-author: James Herod
-tags:
-  - organizing
-  - unions
-  - rent
-  - anarchism
+title: "Anarchists Getting Ourselves Together"
+author: "James Herod"
+date: "2025"
+category: "theory"
 ---
 
 # Anarchists Getting Ourselves Together

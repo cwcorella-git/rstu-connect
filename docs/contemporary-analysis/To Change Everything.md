@@ -1,3 +1,8 @@
+---
+title: "**Crimeth Inc.**"
+category: "contemporary-analysis"
+---
+
 # **Crimeth Inc.**
 
 # **To Change Everything An Anarchist Appeal**

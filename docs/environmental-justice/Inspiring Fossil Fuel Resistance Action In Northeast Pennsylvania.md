@@ -1,3 +1,8 @@
+---
+title: "## **Inspiring Fossil Fuel Resistance Action In Northeast Pennsylvania**"
+category: "environmental-justice"
+---
+
 ## **Inspiring Fossil Fuel Resistance Action In Northeast Pennsylvania**
 
 ## **Date:** Mon, 02/08/2016 - 21:16

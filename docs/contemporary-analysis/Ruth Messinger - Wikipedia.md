@@ -1,3 +1,8 @@
+---
+title: "**Ruth Messinger**"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_2.jpeg)
 
 # **Ruth Messinger**
@@ -67,7 +72,9 @@ received more than 500,000 votes[.\[5\]](#page-2-2)
 | Spouse | Andrew Lachman |
 |-----------|------------------------------------------------------------|
 | Children | 3 |
-| Education | Harvard University (BA)<br>University of Oklahoma<br>(MSW) |
+| Education | Harvard University (BA)
+University of Oklahoma
+(MSW) |
 
 In 2005, Messinger endorsed [Fernando Ferrer](https://en.wikipedia.org/wiki/Fernando_Ferrer) for mayor in the [2005 mayoral election.](https://en.wikipedia.org/wiki/2005_New_York_City_mayoral_election) Ferrer had briefly run against her for mayor in 1997, before dropping out to endorse her and then run for reelection as Bronx [borough president.](https://en.wikipedia.org/wiki/Borough_president)
 

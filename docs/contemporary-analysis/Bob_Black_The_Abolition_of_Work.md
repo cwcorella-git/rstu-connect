@@ -1,3 +1,8 @@
+---
+title: "**The Abolition of Work**"
+category: "contemporary-analysis"
+---
+
 # **The Abolition of Work**
 
 ## Bob Black

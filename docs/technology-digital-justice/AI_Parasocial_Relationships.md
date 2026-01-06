@@ -1,3 +1,8 @@
+---
+title: "**"The Impact of Parasocial Relationships with AI on Mental Health" Valerie Hill and Rose Hill Commu"
+category: "technology-digital-justice"
+---
+
 **"The Impact of Parasocial Relationships with AI on Mental Health" Valerie Hill and Rose Hill Community Virtual Library and Crisis Connections Mental Health Symposium 2024 Friday, May 17**
 
 --------------------------------------------------------------------------------------------------------------------------
@@ -374,17 +379,16 @@ You can access some references used in this presentation by clicking on the whit
 
 Bowlby, John. (1969). Attachment. New York City: Basic Books.
 
-Hoffner, C. A., & Bond, B. J. (2022). Parasocial relationships, social media, & well-being. Current Opinion in Psychology, 45.<https://doi.org/10.1016/j.copsyc.2022.101306> Horton, D., & Wohl, R. R. (1956). Mass communication and para-social interaction;
+Hoffner, C. A., & Bond, B. J. (2022). Parasocial relationships, social media, & well-being. Current Opinion in Psychology, 45. Horton, D., & Wohl, R. R. (1956). Mass communication and para-social interaction;
 
 observations on intimacy at a distance. Psychiatry, 19(3), 215-229.
 
-<https://doi.org/10.1080/00332747.1956.11023049>
 
 Midjourney. (2024). Images generated.
 
-Noor, N., Rao Hill, S., & Troshani, I. (2022). Artificial intelligence service agents: role of parasocial relationship. Journal of Computer Information Systems, 62(5), 1009-1023. The Center for Humane Technology. (2023, March 9). The A. I. dilemma. [Video]. You Tube. <https://www.youtube.com/watch?v=xoVJKj8lcNQ>
+Noor, N., Rao Hill, S., & Troshani, I. (2022). Artificial intelligence service agents: role of parasocial relationship. Journal of Computer Information Systems, 62(5), 1009-1023. The Center for Humane Technology. (2023, March 9). The A. I. dilemma. [Video]. You Tube. 
 
-Tukachinsky, R., Walter N., & Saucier, C. J. (2020, December) Antecedents and Effects of Parasocial Relationships: A Meta-Analysis, Journal of Communication, 70(6) 868–894. <https://doi.org/10.1093/joc/jqaa034>
+Tukachinsky, R., Walter N., & Saucier, C. J. (2020, December) Antecedents and Effects of Parasocial Relationships: A Meta-Analysis, Journal of Communication, 70(6) 868–894. 
 
 World Health Organization. (2023, February 6). Artificial intelligence in mental health research: new WHO study on applications and challenges.
 
@@ -487,4 +491,4 @@ Many thanks
 
 [2024/05/17 12:53] Elektra Panthar: GH: we have to wrap up, please give our presenters a big applause!
 
-<<transcription ends>>
+>

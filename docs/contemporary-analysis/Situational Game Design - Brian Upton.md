@@ -1,3 +1,8 @@
+---
+title: "Introduction"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Figure_0.jpeg)
 
 ## ![](_page_0_Picture_1.jpeg)
@@ -69,8 +74,10 @@ Visit the Taylor & Francis Web site at http://www.taylorandfrancis.com and the C
 | SUMMARY |
 | 43 |
 | iii |
-| iv<br> Contents |
-| Chapter 4<br>◾ Anticipation |
+| iv
+ Contents |
+| Chapter 4
+◾ Anticipation |
 | 45 |
 | CHARACTERISTICS OF ANTICIPATORY PLAY |
 | 46 |
@@ -86,7 +93,8 @@ Visit the Taylor & Francis Web site at http://www.taylorandfrancis.com and the C
 | 53 |
 | SUMMARY |
 | 56 |
-| Chapter 5<br>◾ Goals |
+| Chapter 5
+◾ Goals |
 | 59 |
 | COHERENCE PLAY |
 | 61 |
@@ -96,7 +104,8 @@ Visit the Taylor & Francis Web site at http://www.taylorandfrancis.com and the C
 | 67 |
 | SUMMARY |
 | 69 |
-| Chapter 6<br>◾ Methods |
+| Chapter 6
+◾ Methods |
 | 71 |
 ## | |
 
@@ -2016,12 +2025,25 @@ e operation o your simulation produces a shi in your internal constraints that t
 
 | 1. What should I say to get you to think o a dog? |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2. e word<br>"dog" should work. |
-| 3. Say<br>"dog." |
-| 4. Why did he say<br>"dog" to me? |
+| 2. e word
+"dog" should work. |
+| 3. Say
+"dog." |
+| 4. Why did he say
+"dog" to me? |
 | 5. He must want me to think about a dog! |
 | 6. You think about a dog. |
-| is may seem very reductionist, but explicitly spelling out these steps is<br>important i we're going to understand how the process works when the<br>patterns and context become more ambiguous and slippery. However,<br>Meaning<br>109<br><br>Reciprocal<br>understanding<br>Speaker<br>Listener<br>Pattern |
+| is may seem very reductionist, but explicitly spelling out these steps is
+important i we're going to understand how the process works when the
+patterns and context become more ambiguous and slippery. However,
+Meaning
+109
+
+Reciprocal
+understanding
+Speaker
+Listener
+Pattern |
 | Constraints |
 | Constraints |
 | Signied |

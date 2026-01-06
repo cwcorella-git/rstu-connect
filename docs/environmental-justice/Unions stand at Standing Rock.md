@@ -1,3 +1,8 @@
+---
+title: "## **Unions stand at Standing Rock**"
+category: "environmental-justice"
+---
+
 ## **Unions stand at Standing Rock**
 
 ## **Date:** Mon, 12/19/2016 - 14:29

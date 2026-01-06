@@ -1,11 +1,8 @@
 ---
-title: Industrial Union Bulletin Newspaper
-date: 2025
-author: Industrial Workers of the World
-tags:
-  - organizing
-  - unions
-  - labor
+title: "Industrial Union Bulletin Newspaper"
+author: "Industrial Workers of the World"
+date: "2025"
+category: "labor"
 ---
 
 # Industrial Union Bulletin Newspaper

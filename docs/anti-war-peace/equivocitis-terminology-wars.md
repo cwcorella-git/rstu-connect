@@ -1,3 +1,8 @@
+---
+title: "Treatment"
+category: "anti-war-peace"
+---
+
 The Wayback Machine - https://web.archive.org/web/20250914152242/https://www.whatgamesare.com/2012/03/equivocitis-terminology-wars.html
 
 **[What Games Are](https://web.archive.org/web/20250914152242/https://www.whatgamesare.com/)**

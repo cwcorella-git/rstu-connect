@@ -1,3 +1,8 @@
+---
+title: "**Internet Histories**"
+category: "theory"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 # **Internet Histories**
@@ -14,9 +19,11 @@
 
 **To cite this article:** Craig Jarvis (2022) Cypherpunk ideology: objectives, profiles, and influences (1992–1998), Internet Histories, 6:3, 315-342, DOI: [10.1080/24701475.2021.1935547](https://www.tandfonline.com/action/show Cit Formats?doi=10.1080/24701475.2021.1935547)
 
-**To link to this article:** <https://doi.org/10.1080/24701475.2021.1935547>
+**To link to this article:** 
 
-| © 2021 The Author(s). Published by Informa<br>UK Limited, trading as Taylor & Francis<br>Group |
+| © 2021 The Author(s). Published by Informa
+UK Limited, trading as Taylor & Francis
+Group |
 |------------------------------------------------------------------------------------------------|
 | Published online: 26 Jun 2021. |
 | Submit your article to this journal |
@@ -80,7 +87,10 @@ This mixture of threads, ranging from technical topics (e.g. "anonymous remailer
 | Internal Passports | 11 | 60 | Photo identification requirements in the US (e.g. for internal travel) |
 | So, what crypto legislation (if any) is necessary? | 11 | 85 | Cryptographic legislation |
 | Bernstein hearing: The Press Release | 10 | 31 | Court case of Daniel Bernstein, who was contesting the constitutionality of the cryptography export regulations |
-| Clipper III on the table | 10 | 29 | Discussion regarding the government's third iteration of their key-<br>escrow proposal, a plan for the State or industry to 'escrow'<br>decryption keys at the point of hardware/software production to<br>ensure associated communications could subsequently be<br>decrypted by law enforcement when they obtained a legal warrant. |
+| Clipper III on the table | 10 | 29 | Discussion regarding the government's third iteration of their keyescrow proposal, a plan for the State or industry to 'escrow'
+decryption keys at the point of hardware/software production to
+ensure associated communications could subsequently be
+decrypted by law enforcement when they obtained a legal warrant. |
 | Newt's phone calls | 10 | 88 | Telephony encryption |
 | Rotenberg as the Uber Enemy | 10 | 60 | Whether digital privacy rights groups were aligned to the cypherpunks ideals |
 | Anonymous remailers | 9 | 77 | Anonymous remailers |
@@ -91,12 +101,14 @@ This mixture of threads, ranging from technical topics (e.g. "anonymous remailer
 | Netscape | 9 | 68 | Illegal export of software containing export-controlled encryption |
 | On the crime bill and remailers | 9 | 23 | Proposed legislation's impact on digital anonymity tools |
 | Public Schools | 9 | 53 | Public schooling and its impact on the development of social skills |
-| Responding to Pre-dawn Unannounced<br>Ninja Raids | 9 | 97 | Police tactics of using pre-dawn raids to effect arrests |
+| Responding to Pre-dawn Unannounced
+Ninja Raids | 9 | 97 | Police tactics of using pre-dawn raids to effect arrests |
 | Stop the presses Anti-terrorism bill not that bad | 9 | 39 | Proposed legislation and its impact on cryptography |
 | Voluntary Governments? | 9 | 50 | Alternate governance models |
 | What is the EFF doing exactly? | 9 | 65 | Electronic Frontier Foundation's policies |
 | Why I Pay Too Much in Taxes | 9 | 58 | Taxation policies |
-| [RANT] Giving Mind Control Drugs to<br>Children | 9 | 97 | Children's medication practices |
+| [RANT] Giving Mind Control Drugs to
+Children | 9 | 97 | Children's medication practices |
 
 **Figure 1.** Top 20 Cypherpunk Threads.
 
@@ -374,23 +386,23 @@ Craig Jarvis is an independent cyber security strategist completing a PhD in Inf
 
 #### **References**
 
-- Bartlett, J. (2016). *Cypherpunks write code*. American Scientist. [https://web.archive.org/](https://web.archive.org/web/20201209230910/) [web/20201209230910/](https://web.archive.org/web/20201209230910/) <https://www.americanscientist.org/article/cypherpunks-write-code>
-- Bell, J. (1997, April 3). *Assassination Politics.* Cryptome. [https://web.archive.org/](https://web.archive.org/web/20210105223654/) [web/20210105223654/](https://web.archive.org/web/20210105223654/) <https://cryptome.org/ap.htm>
+- Bartlett, J. (2016). *Cypherpunks write code*. American Scientist. [https://web.archive.org/](https://web.archive.org/web/20201209230910/) [web/20201209230910/](https://web.archive.org/web/20201209230910/) 
+- Bell, J. (1997, April 3). *Assassination Politics.* Cryptome. [https://web.archive.org/](https://web.archive.org/web/20210105223654/) [web/20210105223654/](https://web.archive.org/web/20210105223654/) 
 - Bellia, P. L. (2012\). Wiki Leaks and the institutional framework for national security disclosures. *The Yale Law Journal*, *121*(6), 1448–1526.
-- Beltramini, E. (2020). Against Technocratic Authoritarianism: A short intellectual history of the cypherpunk movement. *Internet Histories*. <https://doi.org/10.1080/24701475.2020.1731249>
-- Bentham, J. \(1843\). *The works of Jeremy Bentham, vol. 11 (Memoirs of Bentham Part II and Analytical Index)*. Online Library of Liberty. <https://web.archive.org/web/20200929023941/> [https://oll.](https://oll.libertyfund.org/titles/bentham-the-works-of-jeremy-bentham-vol-11-memoirs-of-bentham-part-ii-and-analytical-index) [libertyfund.org/titles/bentham-the-works-of-jeremy-bentham-vol-11-memoirs-of-bentham-part](https://oll.libertyfund.org/titles/bentham-the-works-of-jeremy-bentham-vol-11-memoirs-of-bentham-part-ii-and-analytical-index)[ii-and-analytical-index](https://oll.libertyfund.org/titles/bentham-the-works-of-jeremy-bentham-vol-11-memoirs-of-bentham-part-ii-and-analytical-index)
-- Boaz, D. (2015). *The libertarian mind*. Liberatianism.org. [https://web.archive.org/](https://web.archive.org/web/20151029234532/) [web/20151029234532/](https://web.archive.org/web/20151029234532/) <https://www.libertarianism.org/guides/introduction-libertarianism>
+- Beltramini, E. (2020). Against Technocratic Authoritarianism: A short intellectual history of the cypherpunk movement. *Internet Histories*. 
+- Bentham, J. \(1843\). *The works of Jeremy Bentham, vol. 11 (Memoirs of Bentham Part II and Analytical Index)*. Online Library of Liberty.  [https://oll.](https://oll.libertyfund.org/titles/bentham-the-works-of-jeremy-bentham-vol-11-memoirs-of-bentham-part-ii-and-analytical-index) [libertyfund.org/titles/bentham-the-works-of-jeremy-bentham-vol-11-memoirs-of-bentham-part](https://oll.libertyfund.org/titles/bentham-the-works-of-jeremy-bentham-vol-11-memoirs-of-bentham-part-ii-and-analytical-index)[ii-and-analytical-index](https://oll.libertyfund.org/titles/bentham-the-works-of-jeremy-bentham-vol-11-memoirs-of-bentham-part-ii-and-analytical-index)
+- Boaz, D. (2015). *The libertarian mind*. Liberatianism.org. [https://web.archive.org/](https://web.archive.org/web/20151029234532/) [web/20151029234532/](https://web.archive.org/web/20151029234532/) 
 - Böhme, R., Nicolas, C., Edelman, B., & Moore, T. (2015\). Bitcoin: Economics, technology, and governance. Journal of Economic Perspectives, *29*(2), 213–238. [https://doi.org/10.1257/](https://doi.org/10.1257/jep.29.2.213) [jep.29.2.213](https://doi.org/10.1257/jep.29.2.213)
 - Brautigan, R. \(1967). *All watched over by machines of loving grace*. brautigan.net. [https://web.](https://web.archive.org/web/20070223021032/http://www.brautigan.net/machines.html) [archive.org/web/20070223021032/http://www.brautigan.net/machines.html](https://web.archive.org/web/20070223021032/http://www.brautigan.net/machines.html)
 - Card, O. S. \(1985). *Ender's Game*. Tor Books.
-- Chaum, D. \(1985a\). Security without identification: Transaction systems to make Big Brother obsolete. *Communications of the ACM*, *28*(10), 1030–1044. <https://doi.org/10.1145/4372.4373>
-- Chaum, D. \(1985b). *Security without identification: card computers to make Big Brother obsolete*. chaum. <https://web.archive.org/web/20210304193723/> [https://www.chaum.com/publications/](https://www.chaum.com/publications/Security_Wthout_Identification.html) [Security\\_Wthout\\_Identification.html](https://www.chaum.com/publications/Security_Wthout_Identification.html).
-- Cypherpunk Bitstream Podcast. (2020). *Cypherpunk bitstream podcast*. [https://web.archive.org/](https://web.archive.org/web/20210210062703/) [web/20210210062703/](https://web.archive.org/web/20210210062703/) <https://taz0.org/bitstream/>
-- Dahlberg, L. \(2010\). Cyber-Libertarianism 2.0: A discourse theory/critical political economy examination. *Cultural Politics: An International Journal*, *6*(3), 331–356. <https://doi.org/10.2752/> [175174310X12750685679753](https://doi.org/10.2752/)
+- Chaum, D. \(1985a\). Security without identification: Transaction systems to make Big Brother obsolete. *Communications of the ACM*, *28*(10), 1030–1044. 
+- Chaum, D. \(1985b). *Security without identification: card computers to make Big Brother obsolete*. chaum.  [https://www.chaum.com/publications/](https://www.chaum.com/publications/Security_Wthout_Identification.html) [Security\\_Wthout\\_Identification.html](https://www.chaum.com/publications/Security_Wthout_Identification.html).
+- Cypherpunk Bitstream Podcast. (2020). *Cypherpunk bitstream podcast*. [https://web.archive.org/](https://web.archive.org/web/20210210062703/) [web/20210210062703/](https://web.archive.org/web/20210210062703/) 
+- Dahlberg, L. \(2010\). Cyber-Libertarianism 2.0: A discourse theory/critical political economy examination. *Cultural Politics: An International Journal*, *6*(3), 331–356.  [175174310X12750685679753](https://doi.org/10.2752/)
 
 Dexheimer, E. (1993, September 29). Secret agents. *Denver Westword*, *12*.
 
-Froomkin, M. A. (1995\). The metaphor is the key: Cryptography, the clipper chip, and the constitution. *University of Pennsylvania Law Review*, *143*(3), 709–897. <https://doi.org/10.2307/3312529> Garfinkel, S. (1995\). *PGP: Pretty Good Privacy*. O'Reilly Media Inc.
+Froomkin, M. A. (1995\). The metaphor is the key: Cryptography, the clipper chip, and the constitution. *University of Pennsylvania Law Review*, *143*(3), 709–897.  Garfinkel, S. (1995\). *PGP: Pretty Good Privacy*. O'Reilly Media Inc.
 
 Greenberg, A. \(2012). *This machine kills secrets: How wikileakers, cypherpunks, and hacktivists aim to free the world's information*. Random House.
 
@@ -404,15 +416,15 @@ Levy, S. (2010\). *Hackers: Heroes of the Computer Revolution – 25th anniversa
 
 Martin, K. \(2020). *Cryptography: The key to digital security, how it works, and why it matters*. W. W. Norton & Company.
 
-Milhon, J. \(n.d\). *The nerdgirl's pillow book, or, the joy of hacker sex.* Jude Milhon's Webpage. [https://web.archive.org/web/20070814112409/](https://web.archive.org/web/20070814112409) <http://members.aol.com/stjude/pillowbook>
+Milhon, J. \(n.d\). *The nerdgirl's pillow book, or, the joy of hacker sex.* Jude Milhon's Webpage. [https://web.archive.org/web/20070814112409/](https://web.archive.org/web/20070814112409) 
 
-Orenstein, J. (2016, February 29). *Memorandum and Order*. United States District Court Easter District of New York. <https://web.archive.org/web/20210120153137/> [https://cdn1.vox-cdn.com/](https://cdn1.vox-cdn.com/uploads/chorus_asset/file/6124209/Orenstein-Order-Apple-i Phone-02292016.0.pdf) [uploads/chorus\\_asset/file/6124209/Orenstein-Order-Apple-i Phone-02292016.0.pdf](https://cdn1.vox-cdn.com/uploads/chorus_asset/file/6124209/Orenstein-Order-Apple-i Phone-02292016.0.pdf)
+Orenstein, J. (2016, February 29). *Memorandum and Order*. United States District Court Easter District of New York.  [https://cdn1.vox-cdn.com/](https://cdn1.vox-cdn.com/uploads/chorus_asset/file/6124209/Orenstein-Order-Apple-i Phone-02292016.0.pdf) [uploads/chorus\\_asset/file/6124209/Orenstein-Order-Apple-i Phone-02292016.0.pdf](https://cdn1.vox-cdn.com/uploads/chorus_asset/file/6124209/Orenstein-Order-Apple-i Phone-02292016.0.pdf)
 
 Palys, T. \(2008). Purposive sampling. In L. M. Givens (Ed.), *The Sage encyclopaedia of qualitative research methods* (Vol 2, pp. 697–698). Sage Publications.
 
 Rid, T. (2016). *Rise of the machines: The lost history of Cybernetics*. W. W. Norton & Company.
 
-Rhoads, C. \(2007, January 13). *The twilight years of Cap'n Crunch.* Wall Street Journal. [https://](https://web.archive.org/web/20210314162356) [web.archive.org/web/20210314162356/](https://web.archive.org/web/20210314162356) <https://www.wsj.com/articles/SB116863379291775523>
+Rhoads, C. \(2007, January 13). *The twilight years of Cap'n Crunch.* Wall Street Journal. [https://](https://web.archive.org/web/20210314162356) [web.archive.org/web/20210314162356/](https://web.archive.org/web/20210314162356) 
 
 Roszak, T. (1969\). *The making of a counter culture: Reflections on the technocratic society and its youthful opposition*. Anchor Books.
 
@@ -424,13 +436,13 @@ United States Congress. (2020, March 5). *S.3398 – EARN IT act of 2020*. Unite
 
 United States Library of Congress. (n.d.). *Federalist papers: Primary documents in American history*. United States Library of Congress. [https://web.archive.org/web/20210313183739/](https://web.archive.org/web/20210313183739)[https://](https://guides.loc.gov/federalist-papers/full-text) [guides.loc.gov/federalist-papers/full-text](https://guides.loc.gov/federalist-papers/full-text)
 
-United States Senate. \(2020). *The lawful access to encrypted data act*. United States Senate. <https://web.archive.org/web/20210308103304/> [https://www.judiciary.senate.gov/imo/media/](https://www.judiciary.senate.gov/imo/media/doc/S.4051%20Lawful%20Access%20to%20Encrypted%20Data%20Act.pdf) [doc/S.4051%20Lawful%20Access%20to%20Encrypted%20Data%20Act.pdf.](https://www.judiciary.senate.gov/imo/media/doc/S.4051%20Lawful%20Access%20to%20Encrypted%20Data%20Act.pdf)
+United States Senate. \(2020). *The lawful access to encrypted data act*. United States Senate.  [https://www.judiciary.senate.gov/imo/media/](https://www.judiciary.senate.gov/imo/media/doc/S.4051%20Lawful%20Access%20to%20Encrypted%20Data%20Act.pdf) [doc/S.4051%20Lawful%20Access%20to%20Encrypted%20Data%20Act.pdf.](https://www.judiciary.senate.gov/imo/media/doc/S.4051%20Lawful%20Access%20to%20Encrypted%20Data%20Act.pdf)
 
 Vasvari, R., & Scarselli, G. (1996\). *Plaintiff seeks summary judgment in Cleveland case challenging licensing of "exports" of cryptographic information*. Case Western Reserve University. Retrieved June 3, 2020, from [https://web.archive.org/web/20060912162151/](https://web.archive.org/web/20060912162151) [http://samsara.cwru.edu/](http://samsara.cwru.edu/comp_law/jvc/pressrel2.html) [comp\\_law/jvc/pressrel2.html](http://samsara.cwru.edu/comp_law/jvc/pressrel2.html)
 
 Vinge, V. (1981\). *True names*. Dell Publishing.
 
-Zimmermann, P. (n.d). *The early roots of PGP*. philzimmermann.com. [https://web.archive.org/](https://web.archive.org/web/20210128154041/) [web/20210128154041/](https://web.archive.org/web/20210128154041/) <https://philzimmermann.com/EN/background/peace.html>
+Zimmermann, P. (n.d). *The early roots of PGP*. philzimmermann.com. [https://web.archive.org/](https://web.archive.org/web/20210128154041/) [web/20210128154041/](https://web.archive.org/web/20210128154041/) 
 
 Zinn, H. (1980\). *A people's history of the United States*. Harper Collins Publishers.
 
@@ -463,7 +475,7 @@ Anonymous Poster. (1996, November 19). Netscape. MessageID: '199607251435. KAA20
 - Nuri, V. Z. (1996, July 23). Re: Netscape. MessageID: '199607221823. LAA18768@netcom5.netcom. com'. Cypherpunk Mail List Archives 1992-1998.
 - Ringuette, M. (1993, April 2). White House Letter. MessageID: '9302050513. AA11882@toad.com'. Cypherpunk Mail List Archives 1992-1998.
 - Sandfort, S. (1996, November 10). Re: a retort+a comment+a question = [RANT]. MessageID: 'Pine. SUN.3.91.961110085723.7792B-100000@crl4.crl.com'. Cypherpunk Mail List Archives 1992-1998.
-- The following within: Cypherpunk Mail List Archives. (1992–1998\). *Cypherpunks Mail List Archive 1992-1998* [Data Set]. <https://web.archive.org/web/20201101083103/> [https://lists.cpunks.org/](https://lists.cpunks.org/pipermail/cypherpunks/2013-September/000741.html) [pipermail/cypherpunks/2013-September/000741.html](https://lists.cpunks.org/pipermail/cypherpunks/2013-September/000741.html)
+- The following within: Cypherpunk Mail List Archives. (1992–1998\). *Cypherpunks Mail List Archive 1992-1998* [Data Set].  [https://lists.cpunks.org/](https://lists.cpunks.org/pipermail/cypherpunks/2013-September/000741.html) [pipermail/cypherpunks/2013-September/000741.html](https://lists.cpunks.org/pipermail/cypherpunks/2013-September/000741.html)
 - Wayner, P. (1993, January 14). No Subject. MessageID: '9301142206. AA23922@brokk.cs.cornell. edu'. Cypherpunk Mail List Archives 1992-1998.
 
 Whitaker, R. E. \(1992, November 16). Apple including PKS?. MessageID: '4195@eternity.demon. co.uk'. Cypherpunk Mail List Archives 1992-1998.
@@ -476,11 +488,11 @@ Barlow, J. P. (1996\). A declaration of the independence of cyberspace. *Electro
 
 Blankenship, L. (1986). Hacker Manifesto/The Conscience of a Hacker. *Phrack Magazine* [https://](https://web.archive.org/web/20210224205447/http://phrack.org/issues/7/3.html) [web.archive.org/web/20210224205447/http://phrack.org/issues/7/3.html](https://web.archive.org/web/20210224205447/http://phrack.org/issues/7/3.html)
 
-Hughes, E. (1993, March 9). *A Cypherpunk's Manifesto*. activism.net. [https://web.archive.org/](https://web.archive.org/web/20210311174847/) [web/20210311174847/](https://web.archive.org/web/20210311174847/) <https://www.activism.net/cypherpunk/manifesto.html>
+Hughes, E. (1993, March 9). *A Cypherpunk's Manifesto*. activism.net. [https://web.archive.org/](https://web.archive.org/web/20210311174847/) [web/20210311174847/](https://web.archive.org/web/20210311174847/) 
 
-May, T. C. (1988). *Crypto-Anarchist Manifesto*. activism.net. [https://web.archive.org/](https://web.archive.org/web/20210224050018/) [web/20210224050018/](https://web.archive.org/web/20210224050018/) <https://activism.net/cypherpunk/crypto-anarchy.html>
+May, T. C. (1988). *Crypto-Anarchist Manifesto*. activism.net. [https://web.archive.org/](https://web.archive.org/web/20210224050018/) [web/20210224050018/](https://web.archive.org/web/20210224050018/) 
 
-May, T. C. (1994b, September 10). *The Cyphernomicon*. Nakamoto Institute. [https://web.archive.](https://web.archive.org/web/20201101035447/) [org/web/20201101035447/](https://web.archive.org/web/20201101035447/)<https://nakamotoinstitute.org/static/docs/cyphernomicon.txt>
+May, T. C. (1994b, September 10). *The Cyphernomicon*. Nakamoto Institute. [https://web.archive.](https://web.archive.org/web/20201101035447/) [org/web/20201101035447/](https://web.archive.org/web/20201101035447/)
 
 #### **Appendix A) Sampled cypherpunks**
 
@@ -505,51 +517,188 @@ The overwhelming majority of these contributors, 34 cypherpunks (85%), are actin
 
 ### **Appendix B) Sampled cypherpunk taxonomy**
 
-| Name | Cryptographer | Technologist | Approx<br>Age on<br>Jan 1<br>1993 | Education<br>Level | Education Field | Institution | Profession | Physical<br>Location | Political<br>Orientation |
+| Name | Cryptographer | Technologist | Approx
+Age on
+Jan 1
+1993 | Education
+Level | Education Field | Institution | Profession | Physical
+Location | Political
+Orientation |
 |---------------------------|---------------|--------------|-----------------------------------|----------------------|----------------------------|------------------------------------------|----------------------------------------------------|----------------------|---------------------------------------------------------------|
-| Arachelian,<br>Ray | Yes | Yes | | Bachelor's<br>degree | Computer<br>Science | Polytechnic<br>University | Technology<br>Consultant | New York (?) | Libertarian |
-| Assange,<br>Julian | No | Yes | 21 | Secondary | | | Computer<br>Scientist | Australia | Libertarian |
-| Atkins, Derek | Yes | Yes | 22 | Master's<br>degree | Media Arts and<br>Sciences | MIT | Student | Massachusetts | "Not<br>Anarchist" |
-| attila | Yes | Yes | | | | | Cyber Security<br>Consultant /<br>Practitioner (?) | California (?) | "To the right<br>of libertarians;<br>but not an<br>anarchist" |
-| Banisar, Dave | No | No | 24 | Legal<br>Doctorate | Law and Public<br>Policy | The Catholic<br>University of<br>America | Lawyer | Washington<br>D. C. | Unknown |
-| Bell, Jim | No | Yes | 33 | Bachelor's<br>degree | Chemistry | MIT | Computer<br>Scientist | California (?) | Anarco-<br>Libertarian |
-| Blaze, Matt | Yes | Yes | 28 | PhD | Computer<br>Science | Princeton<br>University | Cyber Security<br>Consultant /<br>Practitioner | New York | Unknown |
-| Broiles, Greg | Yes | Yes | | Bachelor's<br>degree | Sociocybernetics | Redlands<br>University | Technology<br>Consultant | Oregon | Liberal (?) |
-| Choate, Jim | Yes | Yes | 20 | | | | Technology<br>Consultant | Texas | Libertarian (?) |
-| Cohn, Cindy | No | No | 29 | Legal<br>Doctorate | Law | Michigan<br>University | Lawyer | California | Unknown |
-| Detweiler,<br>Larry | No | Yes | | | | | Unknown | Colorado? | Unknown |
+| Arachelian,
+Ray | Yes | Yes | | Bachelor's
+degree | Computer
+Science | Polytechnic
+University | Technology
+Consultant | New York (?) | Libertarian |
+| Assange,
+Julian | No | Yes | 21 | Secondary | | | Computer
+Scientist | Australia | Libertarian |
+| Atkins, Derek | Yes | Yes | 22 | Master's
+degree | Media Arts and
+Sciences | MIT | Student | Massachusetts | "Not
+Anarchist" |
+| attila | Yes | Yes | | | | | Cyber Security
+Consultant /
+Practitioner (?) | California (?) | "To the right
+of libertarians;
+but not an
+anarchist" |
+| Banisar, Dave | No | No | 24 | Legal
+Doctorate | Law and Public
+Policy | The Catholic
+University of
+America | Lawyer | Washington
+D. C. | Unknown |
+| Bell, Jim | No | Yes | 33 | Bachelor's
+degree | Chemistry | MIT | Computer
+Scientist | California (?) | AnarcoLibertarian |
+| Blaze, Matt | Yes | Yes | 28 | PhD | Computer
+Science | Princeton
+University | Cyber Security
+Consultant /
+Practitioner | New York | Unknown |
+| Broiles, Greg | Yes | Yes | | Bachelor's
+degree | Sociocybernetics | Redlands
+University | Technology
+Consultant | Oregon | Liberal (?) |
+| Choate, Jim | Yes | Yes | 20 | | | | Technology
+Consultant | Texas | Libertarian (?) |
+| Cohn, Cindy | No | No | 29 | Legal
+Doctorate | Law | Michigan
+University | Lawyer | California | Unknown |
+| Detweiler,
+Larry | No | Yes | | | | | Unknown | Colorado? | Unknown |
 | Deviant, The | No | Yes | | | | | Unknown | North Carolina | Unknown |
-| Draper, John | No | Yes | 50 | None | | | Computer<br>Scientist | California | Unknown |
-| Finney, Hal | Yes | Yes | 36 | Bachelor's<br>degree | Engineering | California<br>Institute of<br>Technology | Computer<br>Scientist | California (?) | Libertarian |
-| Frissell,<br>Duncan | No | Yes | 41 | | | | Lawyer | New York | Libertarian |
-| Geiger III,<br>William H. | Yes | Yes | 29 | Bachelor's<br>degree | Computer<br>Science | Pennsylvania<br>State<br>University | Cyber Security<br>Consultant /<br>Practitioner (?) | Florida | Libertarian |
-| Gilmore, John | Yes | Yes | 38 | | | | Computer<br>Scientist<br>(Retired) | California | Libertarian |
+| Draper, John | No | Yes | 50 | None | | | Computer
+Scientist | California | Unknown |
+| Finney, Hal | Yes | Yes | 36 | Bachelor's
+degree | Engineering | California
+Institute of
+Technology | Computer
+Scientist | California (?) | Libertarian |
+| Frissell,
+Duncan | No | Yes | 41 | | | | Lawyer | New York | Libertarian |
+| Geiger III,
+William H. | Yes | Yes | 29 | Bachelor's
+degree | Computer
+Science | Pennsylvania
+State
+University | Cyber Security
+Consultant /
+Practitioner (?) | Florida | Libertarian |
+| Gilmore, John | Yes | Yes | 38 | | | | Computer
+Scientist
+(Retired) | California | Libertarian |
 | Green, Lucky | No | No | | | | | Unknown | California | Libertarian |
-| Hettinga,<br>Robert | Yes | Yes | 33 | None | | | Computer<br>Scientist | Massachusetts | Libertarian |
-| Hughes, Eric | Yes | Yes | | Bachelor's<br>degree | Mathematics | California<br>University,<br>Berkeley | Mathematician | California | Crypto-<br>Anarchist |
-| Junger, Peter<br>D. | No | No | 57 | Legal<br>Doctorate | Law | Harvard<br>University | Law Professor | Ohio | Unknown |
-| Karn, Phil | Yes | Yes | 36 | Master's<br>degree | Electrical<br>Engineering | Carnegie<br>Mellon<br>University | Cyber Security<br>Consultant /<br>Practitioner | California | Unknown |
+| Hettinga,
+Robert | Yes | Yes | 33 | None | | | Computer
+Scientist | Massachusetts | Libertarian |
+| Hughes, Eric | Yes | Yes | | Bachelor's
+degree | Mathematics | California
+University,
+Berkeley | Mathematician | California | CryptoAnarchist |
+| Junger, Peter
+D. | No | No | 57 | Legal
+Doctorate | Law | Harvard
+University | Law Professor | Ohio | Unknown |
+| Karn, Phil | Yes | Yes | 36 | Master's
+degree | Electrical
+Engineering | Carnegie
+Mellon
+University | Cyber Security
+Consultant /
+Practitioner | California | Unknown |
 
 **Figure 8.** Cypherpunk's Taxonomy.
 
-| Levy, Steven | No | Yes | 41 | Master's<br>degree | Literature | Pennsylvania<br>State<br>University | Journalist | New York | Unknown |
+| Levy, Steven | No | Yes | 41 | Master's
+degree | Literature | Pennsylvania
+State
+University | Journalist | New York | Unknown |
 |-----------------------|-----|-----|----|----------------------|--------------------------------------------|-----------------------------------------------|------------------------------------------------|--------------------|-----------------|
-| May, Timothy<br>C. | Yes | Yes | 42 | Bachelor's<br>degree | Physics | California<br>University,<br>Santa<br>Barbara | Computer<br>Scientist<br>(Retired) | California | Libertarian |
-| Mc Cullagh,<br>Declan | No | Yes | | Bachelor's<br>degree | Cognitive<br>Science | Carnegie<br>Mellon<br>University | Journalist | Pennsylvania | Libertarian (?) |
-| Merritt, Doug | Yes | Yes | | Bachelor's<br>degree | Business | University of<br>the Pacific | Cyber Security<br>Consultant /<br>Practitioner | California (?) | Libertarian |
-| Metzger,<br>Perry E. | Yes | Yes | 27 | Bachelor's<br>degree | Computer<br>Science | Columbia<br>University | Technology<br>Consultant | Unknown | Libertarian |
-| Nuri, Vladimir<br>Z. | No | Yes | | | | | Unknown | Unknown | Libertarian |
-| Perry, John A. | Yes | Yes | | | | | Medical<br>Student (?) | Texas | Unknown |
-| Rotenberg,<br>Marc | No | Yes | 32 | Master's<br>degree | International<br>and<br>Comparative<br>Law | Georgetown<br>University | Lawyer | Washington<br>D. C. | Unknown |
-| Sandfort,<br>Sandy | Yes | Yes | | Legal<br>Doctorate | Law | University of<br>Missouri-<br>Kansas | Unknown | California | Libertarian |
-| Schneier,<br>Bruce | Yes | Yes | 29 | Master's<br>degree | Computer<br>Science | American<br>University | Cyber Security<br>Consultant /<br>Practitioner | Minnesota | Unknown |
-| Shostack,<br>Adam | Yes | Yes | | None | | | Cyber Security<br>Researcher | Massachusetts | Libertarian (?) |
-| Smith, E.<br>Allen | No | Yes | | | | | Unknown | Unknown | Minarchist |
-| Stewart, Bill | Yes | Yes | 36 | Master's<br>degree | Computer<br>Science | California<br>University,<br>Berkeley | Technology<br>Consultant | California | Libertarian (?) |
-| Trei, Peter | Yes | Yes | | Bachelor's<br>degree | Biochemistry | London<br>University,<br>King's<br>College | Cyber Security<br>Consultant /<br>Practitioner | Massachusetts | Unknown |
-| Unicorn,<br>Black | No | Yes | | | | | Technology<br>Consultant | Unknown | Libertarian (?) |
-| Vulis, Dr.<br>Dimitri | Yes | Yes | | PhD | Mathematics | City<br>University of<br>New York | Mathematics<br>Professor (?) | New York | Unknown |
+| May, Timothy
+C. | Yes | Yes | 42 | Bachelor's
+degree | Physics | California
+University,
+Santa
+Barbara | Computer
+Scientist
+(Retired) | California | Libertarian |
+| Mc Cullagh,
+Declan | No | Yes | | Bachelor's
+degree | Cognitive
+Science | Carnegie
+Mellon
+University | Journalist | Pennsylvania | Libertarian (?) |
+| Merritt, Doug | Yes | Yes | | Bachelor's
+degree | Business | University of
+the Pacific | Cyber Security
+Consultant /
+Practitioner | California (?) | Libertarian |
+| Metzger,
+Perry E. | Yes | Yes | 27 | Bachelor's
+degree | Computer
+Science | Columbia
+University | Technology
+Consultant | Unknown | Libertarian |
+| Nuri, Vladimir
+Z. | No | Yes | | | | | Unknown | Unknown | Libertarian |
+| Perry, John A. | Yes | Yes | | | | | Medical
+Student (?) | Texas | Unknown |
+| Rotenberg,
+Marc | No | Yes | 32 | Master's
+degree | International
+and
+Comparative
+Law | Georgetown
+University | Lawyer | Washington
+D. C. | Unknown |
+| Sandfort,
+Sandy | Yes | Yes | | Legal
+Doctorate | Law | University of
+MissouriKansas | Unknown | California | Libertarian |
+| Schneier,
+Bruce | Yes | Yes | 29 | Master's
+degree | Computer
+Science | American
+University | Cyber Security
+Consultant /
+Practitioner | Minnesota | Unknown |
+| Shostack,
+Adam | Yes | Yes | | None | | | Cyber Security
+Researcher | Massachusetts | Libertarian (?) |
+| Smith, E.
+Allen | No | Yes | | | | | Unknown | Unknown | Minarchist |
+| Stewart, Bill | Yes | Yes | 36 | Master's
+degree | Computer
+Science | California
+University,
+Berkeley | Technology
+Consultant | California | Libertarian (?) |
+| Trei, Peter | Yes | Yes | | Bachelor's
+degree | Biochemistry | London
+University,
+King's
+College | Cyber Security
+Consultant /
+Practitioner | Massachusetts | Unknown |
+| Unicorn,
+Black | No | Yes | | | | | Technology
+Consultant | Unknown | Libertarian (?) |
+| Vulis, Dr.
+Dimitri | Yes | Yes | | PhD | Mathematics | City
+University of
+New York | Mathematics
+Professor (?) | New York | Unknown |
 | Young, John | No | No | | | | | Architect | New York | Libertarian |
-| Zimmermann,<br>Philip | Yes | Yes | 38 | Bachelor's<br>degree | Computer<br>Science | Florida<br>Atlantic<br>University | Cyber Security<br>Consultant /<br>Practitioner | Colorado | Liberal (?) |
+| Zimmermann,
+Philip | Yes | Yes | 38 | Bachelor's
+degree | Computer
+Science | Florida
+Atlantic
+University | Cyber Security
+Consultant /
+Practitioner | Colorado | Liberal (?) |
 
 ## **Figure 8.** (Continued)

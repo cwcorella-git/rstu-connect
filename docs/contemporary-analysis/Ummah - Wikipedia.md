@@ -1,3 +1,8 @@
+---
+title: "**Ummah**"
+category: "contemporary-analysis"
+---
+
 #### en.wikipedia.org
 
 # **Ummah**
@@ -8,7 +13,7 @@
 
 ## From Wikipedia, the free encyclopedia
 
-This article is about the Islamic concept. For the hip hop production collective, see <u>The Ummah</u>.
+This article is about the Islamic concept. For the hip hop production collective, see The Ummah.
 
 Not to be confused with Umrah or Umma.
 
@@ -73,7 +78,7 @@ After the Muslim takeover of Mecca, membership in the ummah required a commitmen
 - 3. ^ ["Rohingyas and the Myth of Ummah".](https://kashmirobserver.net/2017/01/05/rohingyas-and-the-myth-of-ummah/) Kashmir Observer. 2017-01-05. Retrieved 2021-03-30.
 - 4. ^ Jump up to: **a b c d e f** Houtsma, M. Th (1987). [E. J. Brill's First](https://books.google.com/books?id=zJU3AAAAIAAJ&pg=PA125) [Encyclopaedia of Islam, 1913–1936.](https://books.google.com/books?id=zJU3AAAAIAAJ&pg=PA125) Brill. pp. 125–126. [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier)) [9004082654.](https://en.wikipedia.org/wiki/Special:Book Sources/9004082654)
 - 5. ^ Houtsma, M. Th. (1987). E. J. Brill's First Encyclopedia of Islam, 1913–1936. E. J. Brill.
-- يف سوماق ين[اعملا](http://www.almaany.com/ar/dict/ar-en/nation/) . سوماق [nation](http://www.almaany.com/ar/dict/ar-en/nation/) [ةمجرت](http://www.almaany.com/ar/dict/ar-en/nation/) <sup>و</sup> ىنعم ["](http://www.almaany.com/ar/dict/ar-en/nation/) . Almaany ,Team ^ 6. .com.almaany.www . ["](http://www.almaany.com/ar/dict/ar-en/nation/)يبرع يزيلجنا [تاحلطصم](http://www.almaany.com/ar/dict/ar-en/nation/) ةحفص [1](http://www.almaany.com/ar/dict/ar-en/nation/)
+- يف سوماق ين[اعملا](http://www.almaany.com/ar/dict/ar-en/nation/) . سوماق [nation](http://www.almaany.com/ar/dict/ar-en/nation/) [ةمجرت](http://www.almaany.com/ar/dict/ar-en/nation/) و ىنعم ["](http://www.almaany.com/ar/dict/ar-en/nation/) . Almaany ,Team ^ 6. .com.almaany.www . ["](http://www.almaany.com/ar/dict/ar-en/nation/)يبرع يزيلجنا [تاحلطصم](http://www.almaany.com/ar/dict/ar-en/nation/) ةحفص [1](http://www.almaany.com/ar/dict/ar-en/nation/)
 - 7. ^ Firestone, Reuven (1999). Jihād: The Origin of Holy War in Islam. New York: Oxford University Press. p. 118. [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier)) [0195125800.](https://en.wikipedia.org/wiki/Special:Book Sources/0195125800)
 - 8. ^ "Muhammad". Encyclopedia of Islam Online.
 - 9. ^ Watt, W. Montgomery (1956). [Muhammad at Medina.](https://archive.org/details/muhammadatmedina029655mbp) Oxford: Clarendon Press.

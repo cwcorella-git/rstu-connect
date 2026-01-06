@@ -1,9 +1,15 @@
+---
+title: "## **Trees Cut as Maple Syrup Farmers Lose Eminent Domain Battle Over Constitution Pipeline**"
+category: "environmental-justice"
+---
+
 ## **Trees Cut as Maple Syrup Farmers Lose Eminent Domain Battle Over Constitution Pipeline**
 
 | Date: Sun, 03/06/2016 - 11:45 |
 |---------------------------------------------------------------------------------------------------------------|
 | Source: https://ecology.iww.org/node/1552|
-| Tags: Energy Justice Network, Thin Green Line, Constitution Pipeline, Pennsylvania, fracking, Alex<br>Lotorto |
+| Tags: Energy Justice Network, Thin Green Line, Constitution Pipeline, Pennsylvania, fracking, Alex
+Lotorto |
 | By Energy Justice Network - |
 | Eco Watch |
 | , March 3, 2016 |
@@ -12,7 +18,8 @@
 | Constitution Pipeline |
 | tree crew |
 | began felling trees |
-| in the Holleran family's maple sugaring stand Tuesday while upset landowners and protesters<br>looked on. |
+| in the Holleran family's maple sugaring stand Tuesday while upset landowners and protesters
+looked on. |
 
 The cutting began 11 days after Federal Judge Malachy Mannion dismissed charges of contempt against the landowners for allegedly asking a tree crew that had arrived on the property not to cut the trees. The charges were dismissed due to the prosecution's inability to show enough evidence of violation of the February 2015 order that cited eminent domain in giving Constitution Pipeline Company permission to cut on the property without landowner permission. The judge expanded on the original order, adding a 150-foot "safety buffer" to be maintained around all tree-cutting activity, effectively extending the size of the Right of Way. All visitors and family members are remaining outside of the buffer while trees are being felled this week.
 

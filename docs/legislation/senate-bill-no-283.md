@@ -1,12 +1,10 @@
 ---
-date: 2025
-author: Senate Bill No
-tags:
-  - legislation
-  - Nevada
-  - rent
 title: "senate-bill-no-283"
+author: "Senate Bill No"
+date: "2025"
+category: "legislation"
 ---
+
 # senate-bill-no-283
 
 *Converted from: `./senate-bill-no-283.pdf`*  
@@ -41,8 +39,6 @@ title: "senate-bill-no-283"
                                                                ~
 
       EXPLANATION – Matter in bolded italics is new; matter between brackets [omitted material] is material to be omitted.
-
-
 
 
      AN ACT making appropriations to Clark County and the Cities of
@@ -214,9 +210,6 @@ title: "senate-bill-no-283"
                                     H
 
 
-
-
     -                                                 *SB283*
 
 ---
-

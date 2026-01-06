@@ -1,15 +1,8 @@
 ---
-title: >-
-  To Change Everything An Anarchist Appeal Crimethinc Crimethinc
-  8677beaca38aba07c
-date: 2025
-author: CrimethInc.
-tags:
-  - organizing
-  - tenants
-  - rent
-  - police
-  - prisons
+title: ">-"
+author: "CrimethInc."
+date: "2025"
+category: "theory"
 ---
 
 # To Change Everything An Anarchist Appeal Crimethinc Crimethinc 8677beaca38aba07c

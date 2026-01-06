@@ -1,3 +1,8 @@
+---
+title: "Teaching and Learning with Jupyter"
+category: "arts-culture-music"
+---
+
 # Teaching and Learning with Jupyter
 
 Lorena A. Barba, Lecia J. Barker, Douglas S. Blank, Jed Brown, Allen B. Downey, Timothy George, Lindsey J. Heagy, Kyle T. Mandli, Jason K. Moore, David Lippert, Kyle E. Niemeyer, Ryan R. Watkins, Richard H. West, Elizabeth Wickes, Carol Willing, and Michael Zingale
@@ -6,39 +11,170 @@ Lorena A. Barba, Lecia J. Barker, Douglas S. Blank, Jed Brown, Allen B. Downey, 
 
 # Contents
 
-| 1 | Introduction<br>5<br>Acknowledgments<br><br>6 | | |
+| 1 | Introduction
+5
+Acknowledgments
+
+6 | | |
 |---|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|--|
-| 2 | Why we use Jupyter notebooks<br>2.1<br>Why do we use Jupyter?<br><br>But rst,<br>2.2<br>what is Jupyter Notebook?<br>Course benets<br>2.3<br>& anecdotes<br>Student benets<br>2.4<br><br>Instructor benets<br>2.5<br><br>2.6<br>Conclusions | 7<br>7<br>7<br>9<br>15<br>16<br>16 | |
-| 3 | Notebooks in teaching and learning<br>3.1<br>Oh the places your notebooks will go!<br>Beore<br>3.2<br>You Begin…<br> | 17<br>17<br>22 | |
-| 4 | A catalogue o<br>pedagogical patterns<br>4.1<br>Introduction<br>Shit-Enter<br>or<br>4.2<br>the win<br><br>4.3<br>Fill in the blanks<br><br>4.4<br>Target Practice<br>Tweak, twiddle, and rob<br>4.5<br><br>4.6<br>Notebook as an app<br>4.7<br>Win-day-one<br>4.8<br>Top-down sequence<br>4.9<br>Two bites at every apple<br><br>4.10 Coding as translation<br>4.11 Symbolic math over pencil + paper<br><br>4.12 Replace analysis with numerical methods<br>4.13 The API is the lesson<br><br>4.14 Proo<br>by example, disproo<br>by counterexample<br>4.15 The world is your dataset<br>4.16 Now you try (with dierent<br>data or process)<br>4.17 Connect to external audiences<br><br>4.18 There can be only one<br>4.19 Hello, world!<br><br>4.20 Test driven development<br>4.21 Code reviews<br><br>4.22 Bug hunt<br>4.23 Adversarial programming<br> | 27<br>27<br>27<br>28<br>28<br>29<br>30<br>30<br>31<br>32<br>32<br>33<br>33<br>34<br>34<br>35<br>36<br>36<br>37<br>37<br>38<br>39<br>39<br>39 | |
-| 5 | Jupyter Notebook ecosystem<br>5.1<br>Language support: kernels<br>5.2<br>Using Jupyter notebooks | 41<br>41<br>41 | |
+| 2 | Why we use Jupyter notebooks
+2.1
+Why do we use Jupyter?
+
+But rst,
+2.2
+what is Jupyter Notebook?
+Course benets
+2.3
+& anecdotes
+Student benets
+2.4
+
+Instructor benets
+2.5
+
+2.6
+Conclusions | 7
+7
+7
+9
+15
+16
+16 | |
+| 3 | Notebooks in teaching and learning
+3.1
+Oh the places your notebooks will go!
+Beore
+3.2
+You Begin…
+ | 17
+17
+22 | |
+| 4 | A catalogue o
+pedagogical patterns
+4.1
+Introduction
+Shit-Enter
+or
+4.2
+the win
+
+4.3
+Fill in the blanks
+
+4.4
+Target Practice
+Tweak, twiddle, and rob
+4.5
+
+4.6
+Notebook as an app
+4.7
+Win-day-one
+4.8
+Top-down sequence
+4.9
+Two bites at every apple
+
+4.10 Coding as translation
+4.11 Symbolic math over pencil + paper
+
+4.12 Replace analysis with numerical methods
+4.13 The API is the lesson
+
+4.14 Proo
+by example, disproo
+by counterexample
+4.15 The world is your dataset
+4.16 Now you try (with dierent
+data or process)
+4.17 Connect to external audiences
+
+4.18 There can be only one
+4.19 Hello, world!
+
+4.20 Test driven development
+4.21 Code reviews
+
+4.22 Bug hunt
+4.23 Adversarial programming
+ | 27
+27
+27
+28
+28
+29
+30
+30
+31
+32
+32
+33
+33
+34
+34
+35
+36
+36
+37
+37
+38
+39
+39
+39 | |
+| 5 | Jupyter Notebook ecosystem
+5.1
+Language support: kernels
+5.2
+Using Jupyter notebooks | 41
+41
+41 | |
 
 ## 4 CONTENTS
 
 | Reerences | | | | |
 |------------|----------|----------------------------------------------------------------------------------|----|--|
 | 9 | Glossary | | | |
-| | 8.2 | Authors at the sprint<br> | 71 | |
-| | 8.1 | Project lead<br> | 71 | |
+| | 8.2 | Authors at the sprint
+ | 71 | |
+| | 8.1 | Project lead
+ | 71 | |
 | 8 | | About the authors | 71 | |
 | | 7.7 | Riemann Problems and Jupyter Solutions | 67 | |
-| | 7.6 | Investigating hurricanes<br> | 67 | |
-| | 7.5 | Interactive geophysics with Jupyter<br> | 67 | |
-| | 7.4 | Interactivity in computer science (high school and middle school)<br> | 66 | |
-| | 7.3 | Analyzing music with music21<br> | 65 | |
-| | 7.2 | The "CFD Python" story: guiding learners at their own pace<br> | 64 | |
-| | 7.1 | Jupyter notebooks in support o<br>scaling or<br>large enrollments | 63 | |
+| | 7.6 | Investigating hurricanes
+ | 67 | |
+| | 7.5 | Interactive geophysics with Jupyter
+ | 67 | |
+| | 7.4 | Interactivity in computer science (high school and middle school)
+ | 66 | |
+| | 7.3 | Analyzing music with music21
+ | 65 | |
+| | 7.2 | The "CFD Python" story: guiding learners at their own pace
+ | 64 | |
+| | 7.1 | Jupyter notebooks in support o
+scaling or
+large enrollments | 63 | |
 | 7 | | Usage case studies | 63 | |
-| | 6.6 | Jupyter: a 21st Century genre o<br>Open Educational Resources and practices<br> | 61 | |
-| | 6.5 | How do you create Jupyter notebooks or<br>reuse and sharing? | 60 | |
-| | 6.4 | Assessing student learning with Jupyter notebooks<br> | 59 | |
-| | 6.3 | Distribution and collection o<br>materials | 58 | |
-| | 6.2 | Jupyter on remote servers<br> | 55 | |
-| | 6.1 | Local installation on students' or lab computers<br> | 53 | |
+| | 6.6 | Jupyter: a 21st Century genre o
+Open Educational Resources and practices
+ | 61 | |
+| | 6.5 | How do you create Jupyter notebooks or
+reuse and sharing? | 60 | |
+| | 6.4 | Assessing student learning with Jupyter notebooks
+ | 59 | |
+| | 6.3 | Distribution and collection o
+materials | 58 | |
+| | 6.2 | Jupyter on remote servers
+ | 55 | |
+| | 6.1 | Local installation on students' or lab computers
+ | 53 | |
 | 6 | | Getting your class going with Jupyter | 53 | |
-| | 5.5 | Gotchas<br> | 50 | |
-| | 5.4 | Tips and tricks<br> | 49 | |
-| | 5.3 | Authoring Jupyter notebooks<br> | 42 | |
+| | 5.5 | Gotchas
+ | 50 | |
+| | 5.4 | Tips and tricks
+ | 49 | |
+| | 5.3 | Authoring Jupyter notebooks
+ | 42 | |
 
 # Chapter 1
 
@@ -1412,7 +1548,7 @@ Open Education encompasses a large community, with its own conerences and journa
 
 In the last ew years, educators using Jupyter have been creating and sharing all kinds o educational materials in the orm o notebooks, typically under a Creative Commons Attribution license (CC-BY). In act, Jupyter is a new genre o OER. But in addition to creating open content, educators using Jupyter oten take active part in the Jupyter community and adopt the culture o open-source sotware. This is a culture with strong ethical commitments, related to reedom o access, transparency, and governance (Coleman, 2012). The content they create has the value o giving access (the
 
-<sup>1</sup>The bazaar style is a method o collectively creating sotware that isn't top down directed like a traditional company hierarchy.
+1The bazaar style is a method o collectively creating sotware that isn't top down directed like a traditional company hierarchy.
 
 very denition o OER), under an open model. But open-source culture also promotes a culture o collaboration. In this regard, engaging in teaching with Jupyter opens new possibilities or educators to engage in open development and collaborate with others in producing lessons, tutorials, courses, and even books.
 

@@ -1,22 +1,8 @@
 ---
-title: 'Debt, Violence, and Impersonal Markets'
-author: David Graeber
-date: '2009'
-pubdate: '2021-11-28T19:34:45'
-language: en
-source_url: >-
-  Retrieved on 28<sup>th</sup> November 2021 from
-  [[https://davidgraeber.org/articles/debt-violence-and-impersona-markets-polanyian-meditations/][davidgraeber.org]]
-topics:
-  - debt
-  - violence
-  - the market
-original_format: muse
-converted_date: '2025-11-08T11:25:03.089035'
-tags:
-  - Debt
-  - Violence
-  - The Market
+title: "Debt, Violence, and Impersonal Markets"
+author: "David Graeber"
+date: "2009"
+category: "economic-alternatives"
 ---
 
 If *The Great Transformation* will be remembered for anything a century from now, it will be as the definitive rejoinder to the great liberal myth. This is, of course, the assumption that there is something natural about what Polanyi called “self-regulating markets”, that they arise of their own accord as long as state interference doesn’t prevent them. Polanyi examined the very period when this ideology first emerged, and managed to demonstrate just how crucial government interference was in creating “the self-regulating market” to begin with—just as it has continued to be necessary to maintain it.
@@ -59,7 +45,7 @@ Marx, of course, made the famous argument that in fetishism, what are actually r
 
 Ranged against it is a variety of heretical, “Chartalist” approaches that rely on the other side of Hart’s coin. These assume that money did not arise from individual actors trying to maximize their material advantage, but rather, from public institutions aiming to calculate and manage social obligations: that money arises, in effect, from debt. The paradigm is Knapp’s “State Theory of Money” (1928), where he argued that money arose not as a medium of exchange but as a unit of account (and secondarily, means of payment), specifically, as a means of assessing and levying tax payments. Money, here, is a way of managing debt, starting with the debt that subjects or citizens were assumed to have to their sovereign. In order to do so, the state must establish the nominal units of account, and fixes the conversion rates between commodities.
 
-Moreover, as colonial regimes were to rediscover in the 18<sup>th</sup> and 19<sup>th</sup> centuries, demanding cash payments from one’s subjects is the most effective way to encourage a market in goods and services, and this might often have been at least half the point. It is in fact much easier, from the point of view of a government, to create a market for goods and services, and then buy what it needs, than to requisition everything directly, either in kind or in labor. The key point though is, as Michael Innes (1913, 1914) originally put it, that “money is debt”: the state issues tokens of its own obligations that become validated and go into general use by citizens seeking to cancel their debts with one another, because the state is willing to accept them to cancel debts which (it has declared) citizens owe to it.[4]
+Moreover, as colonial regimes were to rediscover in the 18th and 19th centuries, demanding cash payments from one’s subjects is the most effective way to encourage a market in goods and services, and this might often have been at least half the point. It is in fact much easier, from the point of view of a government, to create a market for goods and services, and then buy what it needs, than to requisition everything directly, either in kind or in labor. The key point though is, as Michael Innes (1913, 1914) originally put it, that “money is debt”: the state issues tokens of its own obligations that become validated and go into general use by citizens seeking to cancel their debts with one another, because the state is willing to accept them to cancel debts which (it has declared) citizens owe to it.[4]
 
 The Chartalist view has always been in a minority among professional economists—even though almost all the historical evidence seems to support it. Still, it has its exponents, especially amongst the followers of John Maynard Keynes. However, the two camps have always, as Hart noted, tended to state their positions in absolute terms, arguing money is purely one thing or the other. Hence Keynesians end up arguing for state-managed manipulation of the money supply as a tool of policy, while “monetarists” insist the government’s role is simply to back up a stable currency but otherwise let the market do its work, and policy tends to swing back and forth wildly between them.
 
@@ -75,7 +61,7 @@ I cannot solve all these problems here. But I want to attempt an outline of what
 
 ### 2: On infinite debt and transactional logics
 
-The logical place to begin a theoretical inquiry into the nature of debt would seem to be Marcel Mauss’ essay on the “the Gift” (1925). Mauss wrote it, ostensibly, to explain why it was that those who receive feel obliged to make a return present: it was in this sense of debt, he argued, that one could find the origins of the current notion of contractual obligation. It should then be a foundational work for any theory of debt. Still, Mauss never develops this connection explicitly; even worse, on those few occasions that he does, he assumes that commercial principles like credit and interest can already be found within gift economies in almost in exactly the same form. Michael Hudson (2004:100, 2002:9), complains that, as a result, Mauss’ work has long stood in the way of any attempt to understand the actual history of credit institutions— and particularly, the development of money lent at interest. The practice of charging interest for debts, he argues, appears to have been invented in 3<sup>rd</sup> millennium Mesopotamia, and spread quite slowly. It does not appear to have ever been practiced in Pharaonic Egypt, for instance, and Tacitus claims the Germans of his day were still unaware of the institution. It is hardly universal. Hudson in fact suggests Mauss was actually observing practices inspired by European influence and simply assumed that they were a traditional part of gift economies.
+The logical place to begin a theoretical inquiry into the nature of debt would seem to be Marcel Mauss’ essay on the “the Gift” (1925). Mauss wrote it, ostensibly, to explain why it was that those who receive feel obliged to make a return present: it was in this sense of debt, he argued, that one could find the origins of the current notion of contractual obligation. It should then be a foundational work for any theory of debt. Still, Mauss never develops this connection explicitly; even worse, on those few occasions that he does, he assumes that commercial principles like credit and interest can already be found within gift economies in almost in exactly the same form. Michael Hudson (2004:100, 2002:9), complains that, as a result, Mauss’ work has long stood in the way of any attempt to understand the actual history of credit institutions— and particularly, the development of money lent at interest. The practice of charging interest for debts, he argues, appears to have been invented in 3rd millennium Mesopotamia, and spread quite slowly. It does not appear to have ever been practiced in Pharaonic Egypt, for instance, and Tacitus claims the Germans of his day were still unaware of the institution. It is hardly universal. Hudson in fact suggests Mauss was actually observing practices inspired by European influence and simply assumed that they were a traditional part of gift economies.
 
 There is every reason to believe that he is right. Mauss only really mentions debt and credit explicitly when discussing the potlatch:[5] for example, in claiming that that unlike Melanesians, Northwest Coast societies appear to have developed a system of credit (1925 [1990]: 35–36), or that potlatches “must be reciprocated with interest, as must indeed every gift. The rate of interest generally ranges from 30–100 per cent a year” (ibid: 42).
 
@@ -235,7 +221,7 @@ Certainly, it seems significant that this was precisely the age that saw, in Ind
 
 If the Axial Age saw the emergence of complementary ideals of egoism and altruism, commodity markets and universal world religions, the Middle Ages was the period in which those two institutions began to merge, so that monetary transactions increasingly came to be carried out through social networks defined and regulated by those same world religions. This enabled in turn the return, throughout Eurasia, of various forms of virtual credit-money.
 
-In Europe, where all this took place under the aegis of Christendom, coinage was only sporadically, and unevenly, available. Prices after 800 AD were calculated largely in terms of an old Carolingian currency that no longer existed (it was referred to at the time as “imaginary money” – Einaudi 1953), but ordinary day-to-day buying and selling was mainly carried out with tally-sticks, notched pieces of wood that were broken in two as records of debt, with half being kept by the creditor, half by the debtor. Such tally-sticks were still in common use in much of England well into the 16<sup>th</sup> century (Innes 1913, 1914, MacIntosh 1988). Larger transactions were handled through bills of exchange, with the great commercial fairs serving as their clearing-houses. The Church, meanwhile, provided a legal framework, enforcing strict controls on the lending of money at interest and prohibitions on debt bondage.
+In Europe, where all this took place under the aegis of Christendom, coinage was only sporadically, and unevenly, available. Prices after 800 AD were calculated largely in terms of an old Carolingian currency that no longer existed (it was referred to at the time as “imaginary money” – Einaudi 1953), but ordinary day-to-day buying and selling was mainly carried out with tally-sticks, notched pieces of wood that were broken in two as records of debt, with half being kept by the creditor, half by the debtor. Such tally-sticks were still in common use in much of England well into the 16th century (Innes 1913, 1914, MacIntosh 1988). Larger transactions were handled through bills of exchange, with the great commercial fairs serving as their clearing-houses. The Church, meanwhile, provided a legal framework, enforcing strict controls on the lending of money at interest and prohibitions on debt bondage.
 
 The real nerve center of the Medieval world economy though was the Indian Ocean, that along with the Central Asia caravan routes, connected the great civilizations of India, China, and the Middle East. Here trade was conducted through the framework of Islam, which not only provided a legal structure highly conducive to mercantile activities (while absolutely forbidding the lending of money at interest), but allowed for peaceful relations between merchants over a remarkably large part of the globe, allowing the creation of a variety of sophisticated credit instruments. China in this same period saw the rapid spread of Buddhism, the invention of paper money, and the development of even more complex forms of credit and finance.
 
@@ -245,7 +231,7 @@ All this is not to say that this period did not see its share of carnage and plu
 
 With the advent of the great European empires—Iberian, then North Atlantic—the world saw both a reversion to the use of chattel slavery, plunder, and wars of destruction, and the consequent rapid return of gold and silver bullion as the main form of currency.
 
-Historical investigation will probably end up demonstrating that the origins of these transformations were more complicated than we ordinarily assume. One of the main factors of the movement back to bullion, for example, was the emergence of popular movements during the early Ming dynasty, in the 15<sup>th</sup> and 16<sup>th</sup> centuries, that ultimately forced the government to abandon not only paper money but any attempt to impose its own currency. This led to reversion of the vast Chinese market to an uncoined silver standard. Since taxes were also gradually commuted into silver, it soon became the more or less official Chinese policy to try to bring as much silver into the country as possible, so as to keep taxes low and prevent new outbreaks of social unrest. The sudden enormous demand for silver had effects across the world. Most of the precious metals looted by the conquistadors and later extracted by the Spanish from the mines of Mexico and Potosi, (at almost unimaginable cost in human lives) ended up in China. These new global-scale connections have of course been documented in great detail. The crucial point is that the delinking of money from religious institutions, and its relinking with coercive ones (especially the state), was here accompanied by an ideological reversion to “Metallism”.[15] Credit, in this context, was on the whole an affair of states that themselves ran largely by deficit financing, a form of credit which was, in turn, invented to finance increasingly expensive wars. Internationally the British Empire was steadfast in maintaining the gold standard even through the 19<sup>th</sup> and early 20<sup>th</sup> centuries.
+Historical investigation will probably end up demonstrating that the origins of these transformations were more complicated than we ordinarily assume. One of the main factors of the movement back to bullion, for example, was the emergence of popular movements during the early Ming dynasty, in the 15th and 16th centuries, that ultimately forced the government to abandon not only paper money but any attempt to impose its own currency. This led to reversion of the vast Chinese market to an uncoined silver standard. Since taxes were also gradually commuted into silver, it soon became the more or less official Chinese policy to try to bring as much silver into the country as possible, so as to keep taxes low and prevent new outbreaks of social unrest. The sudden enormous demand for silver had effects across the world. Most of the precious metals looted by the conquistadors and later extracted by the Spanish from the mines of Mexico and Potosi, (at almost unimaginable cost in human lives) ended up in China. These new global-scale connections have of course been documented in great detail. The crucial point is that the delinking of money from religious institutions, and its relinking with coercive ones (especially the state), was here accompanied by an ideological reversion to “Metallism”.[15] Credit, in this context, was on the whole an affair of states that themselves ran largely by deficit financing, a form of credit which was, in turn, invented to finance increasingly expensive wars. Internationally the British Empire was steadfast in maintaining the gold standard even through the 19th and early 20th centuries.
 
 #### V. Current Era (1971 onwards) — The Empire of Debt
 
@@ -289,7 +275,7 @@ One needs *a* market to exist in some immediate concrete form when one needs to 
 
 [10] Occasionally, compensation can be paid in the form of a woman whose children will then be considered replacement for a murder victim (sometimes they will even be given the same name); in other cases, as most famously with the Nuer, the rate of compensation is exactly that required to obtain a wife who can then be “married” to the victim’s ghost, in parts of North Africa to the “owner of the blood”, again, in order to secure progeny.This is as close to true compensation as one might come. According to Rospabé, the logic of ceremonial exchange, such as the tee or moka rituals of Highland Papua New Guinea, would seem to be the result of a gradual process of abstraction where the tokens, in circulating, gradually achieve a kind of autonomy from the powers of life to which they ultimately refer.
 
-[11] This, certainly, was the conclusion reached by any number of theorists, who concluded that what Polanyi called “general purpose money” did indeed emerge from barter, but that barter occurred between societies, and not within them. Marx (1858, 1867) was already suggesting in the mid-19<sup>th</sup> century that commerce, and therefore commercial money, had first emerged “in the pores” of the ancient world, only later to be adopted within. Karl Bücher (1904) adopted this position, as did Max Weber (1961). One could argue that Polanyi agreed (1968). My own position is that, since money does not have a single origin, both the internal and the external theories of the origin of money are likely to be in some part correct.
+[11] This, certainly, was the conclusion reached by any number of theorists, who concluded that what Polanyi called “general purpose money” did indeed emerge from barter, but that barter occurred between societies, and not within them. Marx (1858, 1867) was already suggesting in the mid-19th century that commerce, and therefore commercial money, had first emerged “in the pores” of the ancient world, only later to be adopted within. Karl Bücher (1904) adopted this position, as did Max Weber (1961). One could argue that Polanyi agreed (1968). My own position is that, since money does not have a single origin, both the internal and the external theories of the origin of money are likely to be in some part correct.
 
 [12] Note here that Grierson carefully avoids any suggestion that these schedules of tariffs were created by rulers, even though most were, in fact, attributed to individuals who considered themselves kings. Presumably he is more interested in using this early Medieval records as a way of reconstructing an earlier, presumably more egalitarian period, more like that described by Tacitus, in which standards of value were not imposed by worked out in “communal assemblies”.
 
@@ -301,7 +287,7 @@ One needs *a* market to exist in some immediate concrete form when one needs to 
 
 ### Bibliography
 
-<biblio>
+
 Aglietta, M. and Orlean, A.
 
 1992 *La Violence de la monnaie*. Paris: PUF.
@@ -542,7 +528,7 @@ Turner, Terence
 
 1979c “Anthropology and the Politics of Indigenous Peoples’ Struggles.” *Cambridge Anthropology* 5:1–43.
 
-1984 “Value, Production and Exploitation in Non-Capitalist societies.” Unpublished essay based on a paper presented at the AAA 82<sup>nd</sup> Annual Meeting, Denver, Colorado. To appear in *Critique of Pure Culture*. New York: Berg Press [forthcoming].
+1984 “Value, Production and Exploitation in Non-Capitalist societies.” Unpublished essay based on a paper presented at the AAA 82nd Annual Meeting, Denver, Colorado. To appear in *Critique of Pure Culture*. New York: Berg Press [forthcoming].
 
 1985 “Dual opposition, hierarchy and value: Moiety structure and symbolic polarity in Central Brazil and elsewhere.” In J.-C. Galey (ed.), *Differénces, valuers, hiérarchie: textes offertes à Louis Dumont*. Paris: Editions de l’Ecole des Hautes Etudes en Sciences Sociales.
 
@@ -567,4 +553,3 @@ Wray, L. Randall
 Edward Elgar: Cheltenham.
 
 2000 *Credit and State Theories of Money*. Cheltenham: Edward Elgar.
-</biblio>

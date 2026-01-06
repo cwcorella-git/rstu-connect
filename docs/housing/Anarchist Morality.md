@@ -1,16 +1,10 @@
 ---
-title: Anarchist Morality
-slug: Anarchist Morality
-reconversion_status: ready_for_reconversion
-author: Pyotr Kropotkin
-date: '1897'
-tags:
-  - housing
-  - tenants
-  - strikes
-  - rent
-  - prisons
+title: "Anarchist Morality"
+author: "Pyotr Kropotkin"
+date: "1897"
+category: "housing"
 ---
+
 # **Pëtr Kropotkin Anarchist Morality 1897**
 
 Note For *Anarchist Morality* I II III IV V VI VII VIII

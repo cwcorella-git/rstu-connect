@@ -1,3 +1,8 @@
+---
+title: "## **1935: Cuban General Strike**"
+category: "labor"
+---
+
 ## **1935: Cuban General Strike**
 
 **Date:** Unknown

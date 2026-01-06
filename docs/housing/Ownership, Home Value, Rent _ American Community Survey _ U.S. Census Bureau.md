@@ -1,13 +1,10 @@
 ---
-date: 2025
-author: Housing Advocacy Organization
-tags:
-  - organizing
-  - tenants
-  - housing
-  - rent
 title: "Ownership, Home Value, Rent _ American Community Survey _ U.S. Census Bureau"
+author: "Housing Advocacy Organization"
+date: "2025"
+category: "housing"
 ---
+
 # Ownership, Home Value, Rent _ American Community Survey _ U.S. Census Bureau
 
 *Converted from: `./Ownership, Home Value, Rent _ American Community Survey _ U.S. Census Bureau.pdf`*  
@@ -76,7 +73,6 @@ title: "Ownership, Home Value, Rent _ American Community Survey _ U.S. Census Bu
      BACK TO TOPICS PAGE [/ACS/WWW/ABOUT/WHY-WE-ASK-EAC…
 
 
-
 We ask about whether a home is owned or rented to
 create statistics about home ownership and renters. We
 also ask questions about the monthly rent amount or
@@ -118,15 +114,11 @@ United States
   Data Proﬁles/Housing Characteristics [https://data.census.gov/table/ACSDP5Y2023.DP04]
 
 
-
-
   Median Value of Owner-Occupied Housing Units
 
   303,400 dollars [https://data.census.gov/table/ACSDP5Y2023.DP04]
   Source: Latest ACS 5-Year Estimates
   Data Proﬁles/Housing Characteristics [https://data.census.gov/table/ACSDP5Y2023.DP04]
-
-
 
 
   Median Monthly Gross Rent (Utility & Fuel Costs Included)
@@ -199,8 +191,6 @@ The ownership question originated with the 1890 Census, while home value and ren
 1940 Census. They were added to the ACS in 2005 when it replaced the decennial census long form.
 
 
-
-
                                                                                                                     Is this page helpful?✕
 
                                                                                                                         Yes         No
@@ -228,11 +218,8 @@ The ownership question originated with the 1890 Census, while home value and ren
 [https://acsdatacommunity.prb.org/]
 
 
-
-
                                       Is this page helpful?✕
 
                                          Yes        No
 
 ---
-

@@ -1,3 +1,8 @@
+---
+title: "**Jesse Owens**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Jesse_Owens)
 
 # **Jesse Owens**
@@ -14,24 +19,33 @@ Owens at the [1936 Summer Olympics,](https://en.wikipedia.org/wiki/1936_Summer_O
 
 | Personal information | | |
 |----------------------|-----------------------|--|
-| Full<br>name | James Cleveland Owens | |
+| Full
+name | James Cleveland Owens | |
 ## | Nickname | The Buckeye Bullet | |
 
 | Born | September 12, 1913 | |
 |-------------------------|---------------------------------|--|
 | | Oakville, Alabama, U. S. | |
-| Died | March 31, 1980 (aged<br>66) | |
+| Died | March 31, 1980 (aged
+66) | |
 | | Tucson, Arizona, U. S. | |
-| Resting<br>place | Oak Woods Cemetery | |
+| Resting
+place | Oak Woods Cemetery | |
 | | Chicago, Illinois, U. S. | |
 | Education | Ohio State University, | |
 | | Fairmont Junior High School, | |
 | | East Technical High School[1] | |
-| Height | cm)[2]<br>5<br>ft 11<br>in (180 | |
-| Weight | 165<br>lb (75<br>kg) | |
+| Height | cm)[2]
+5
+ft 11
+in (180 | |
+| Weight | 165
+lb (75
+kg) | |
 | Spouse | M. Ruth Solomon | |
 | | | |
-| | (m.<br>1935) | |
+| | (m.
+1935) | |
 | Sport | | |
 | Sport | Track and field | |
 | Event(s) | Sprint, Long jump | |
@@ -74,7 +88,8 @@ Owens at the [1936 Summer Olympics,](https://en.wikipedia.org/wiki/1936_Summer_O
 | | Long jump: 8.13 m (1935) | |
 | Medal record | | |
 | Men's athletics | | |
-| Representing the<br>United States | | |
+| Representing the
+United States | | |
 | | Olympic Games | |
 | 1936 Berlin | 100 m | |
 | 1936 Berlin | 200 m | |
@@ -703,7 +718,8 @@ The inaugural awards ceremony was held in [Brussels](https://en.wikipedia.org/wi
 | | | [297] |
 | 2022 | Olympic Oaks: Continuing Jesse Owens' | [298] |
 | | Legacy | [299] |
-| 2024 | Triumph: Jesse Owens and the Berlin<br>Olympics | [300] |
+| 2024 | Triumph: Jesse Owens and the Berlin
+Olympics | [300] |
 ## | | | |
 
 #### **Other**

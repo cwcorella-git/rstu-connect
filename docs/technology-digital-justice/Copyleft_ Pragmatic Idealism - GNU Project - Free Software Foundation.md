@@ -1,3 +1,8 @@
+---
+title: "[gnu.org](https://www.gnu.org/philosophy/pragmatic.html)"
+category: "technology-digital-justice"
+---
+
 [gnu.org](https://www.gnu.org/philosophy/pragmatic.html)
 
 ## **Copyleft: Pragmatic Idealism - GNU Project**

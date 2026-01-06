@@ -1,3 +1,8 @@
+---
+title: "When you imagine a city, what do you see? I see the predominance of cracked grey concrete and"
+category: "contemporary-analysis"
+---
+
 When you imagine a city, what do you see? I see the predominance of cracked grey concrete and
 
 ## 0:06
@@ -450,14 +455,12 @@ the City,
 "[Howard's garden city does] not encompass the full range and possibilities of 
 human experience. 
 13:27
-Neighbourliness is mistaken for organic social intercourse and mutual aid; well-
-manicured parks 
+Neighbourliness is mistaken for organic social intercourse and mutual aid; wellmanicured parks 
 13:34
 for the harmonisation of humanity with nature; the proximity of work places for 
 the development 
 13:39
-of a new meaning for work and its integration with play; an eclectic mix of ranch-
-houses, slab-like 
+of a new meaning for work and its integration with play; an eclectic mix of ranchhouses, slab-like 
 13:45
 apartment buildings, and bachelor-type flats for spontaneous architectural 
 variety; shopping-mart 
@@ -465,8 +468,7 @@ variety; shopping-mart
 plazas and a vast expanse of lawn for the agora; lecture halls for cultural 
 centres; hobby classes 
 13:56
-for vocational variety; benevolent trusts or municipal councils for self-
-administration. Indeed, the appearance of community serves the ideological 
+for vocational variety; benevolent trusts or municipal councils for selfadministration. Indeed, the appearance of community serves the ideological 
 function of concealing the 
 14:07
 incompleteness of an intimate and shared social life. Key elements of the self are

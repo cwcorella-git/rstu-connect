@@ -1,3 +1,8 @@
+---
+title: "Under the Same Sun Installation / Stephanie Deumer"
+category: "technology-digital-justice"
+---
+
 #### [archdaily.com](https://www.archdaily.com/977782/under-the-same-sun-installation-stephanie-deumer)
 
 # Under the Same Sun Installation / Stephanie Deumer
@@ -112,7 +117,7 @@ Location to be used only as a reference. It could indicate city/country but not 
 
 ## Published on March 20, 2023
 
-Cite: "Under the Same Sun Installation / Stephanie Deumer" 19 Mar 2023. Arch Daily. Accessed 18 Sep 2023. <https://www.archdaily.com/977782/under-the-same-suninstallation-stephanie-deumer> ISSN 0719-8884
+Cite: "Under the Same Sun Installation / Stephanie Deumer" 19 Mar 2023. Arch Daily. Accessed 18 Sep 2023.  ISSN 0719-8884
 
 # 想阅读⽂章的中⽂版本吗?
 

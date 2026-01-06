@@ -1,3 +1,8 @@
+---
+title: "## ![](_page_0_Picture_0.jpeg)"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 National Guardsman patrol the corner of Hazelwood and Linwood with weapons drawn as residents look on with a mixture of emotions.

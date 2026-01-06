@@ -1,3 +1,8 @@
+---
+title: "## **Rally to End Toxic Prison Slavery in Solidarity with September 9 Nationwide Prison Strike**"
+category: "contemporary-analysis"
+---
+
 ## **Rally to End Toxic Prison Slavery in Solidarity with September 9 Nationwide Prison Strike**
 
 ## **Date:** Sun, 08/14/2016 - 14:24
@@ -56,7 +61,8 @@ Defend the Earth!
 
 Free All Political Prisoners!
 
-| For more information on Sept 9th, Letcher County and other related issues, encourage your<br>contacts on the outside to visit |
+| For more information on Sept 9th, Letcher County and other related issues, encourage your
+contacts on the outside to visit |
 |-------------------------------------------------------------------------------------------------------------------------------|
 | Fight Toxic Prisons.org |
 | Also, for additional reading on the topic of toxic prison slavery, |

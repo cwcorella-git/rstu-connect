@@ -1,11 +1,8 @@
 ---
-title: Anarchist Perspectives On Net Neutrality
-date: 2025
-author: Crimethinc.
-tags:
-  - organizing
-  - rent
-  - anarchism
+title: "Anarchist Perspectives On Net Neutrality"
+author: "Crimethinc."
+date: "2025"
+category: "theory"
 ---
 
 # Anarchist Perspectives On Net Neutrality

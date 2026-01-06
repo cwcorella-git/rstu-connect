@@ -1,3 +1,8 @@
+---
+title: "## **Capitalist Saboteurs**"
+category: "contemporary-analysis"
+---
+
 ## **Capitalist Saboteurs**
 
 **Date:** Thu, 09/08/2016 - 11:22 **Source:** https://ecology.iww.org/node/1783**Tags:** Industrial Workers of the World (IWW), sabotage, capital blight, pipelines, health and safety, green unionism, green syndicalism By R. H. Lossin - Jacobin , September 1, 2016 This April, a natural gas pipeline exploded in Salem Township, Pennsylvania, shooting flames well above the tree line and producing enough heat to send a man to the hospital with third-degree burns. Such explosions, if uncommon, aren't rare: according to Pro Publica , they've killed five hundred people and injured four thousand more in the past thirty years. When infrastructure fails in such a dramatic fashion, it is usually considered an accident. In the rare instances in which events like pipeline explosions are addressed as structural failures, it is only in the most literal sense of the word "structural," prompting demands for repairs, regulation, and safety measures. But calls for oversight and technological fixes only reassert the accidental nature of what is in fact a problem of class society.
@@ -68,16 +73,22 @@ For the working class, sabotage served a similar purpose. While it was used to s
 
 In the process, workers would recognize that they weren't just struggling against a boss in a shop or the depression of wages in a particular industry, but a whole class of owners — and that these owners were not simply custodians of an economic system based on naturally occurring laws of supply and demand but active manipulators of industry for increased profit.
 
-| As a tactic, sabotage also implicitly identified machinery and infrastructure as the site of this<br>struggle. |
+| As a tactic, sabotage also implicitly identified machinery and infrastructure as the site of this
+struggle. |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Struggle at the Point of Production |
 | Because it is illegal — and because of the presence of |
 | agents provocateurs |
-| , who have framed labor organizers and worse — identifying acts of worker sabotage is often<br>difficult. But it did and does happen. |
+| , who have framed labor organizers and worse — identifying acts of worker sabotage is often
+difficult. But it did and does happen. |
 | During |
 | coal miner strikes |
-| in West Virginia, women tore up railroad tracks to prevent the arrival of strike breakers;<br>workers smashed looms during the Lawrence textile strike; during the railroad strikes of 1886<br>and 1877, workers tampered with engines and set fire to trains and railyards; in 1937, they<br>turned off refrigeration at Newton Packing Co., destroying \$170,000 worth of meat. |
-| Capitalist sabotage, in much the same way, aims to control the material stuff of production —<br>but to the detriment of workers and consumers. |
+| in West Virginia, women tore up railroad tracks to prevent the arrival of strike breakers;
+workers smashed looms during the Lawrence textile strike; during the railroad strikes of 1886
+and 1877, workers tampered with engines and set fire to trains and railyards; in 1937, they
+turned off refrigeration at Newton Packing Co., destroying \$170,000 worth of meat. |
+| Capitalist sabotage, in much the same way, aims to control the material stuff of production —
+but to the detriment of workers and consumers. |
 | In his book |
 ## | Carbon Democracy |
 

@@ -1,3 +1,8 @@
+---
+title: "## en.wikipedia.org"
+category: "contemporary-analysis"
+---
+
 ## en.wikipedia.org
 
 ## **Metaxism**
@@ -10,11 +15,11 @@
 
 ## ![](_page_0_Picture_7.jpeg)
 
-<u>loannis Metaxas</u>, prime minister and dictator of Greece (1936-1941)
+loannis Metaxas, prime minister and dictator of Greece (1936-1941)
 
-**Metaxism** (<u>Greek</u>: Μεταξισμός) is a <u>Greek authoritarian</u>, <u>ultranationalist</u>, and <u>monarchist</u> ideology associated with <u>loannis</u> <u>Metaxas</u>. [1][page needed] It called for the regeneration of the <u>Greek nation</u> and the establishment of a modern, culturally homogenous Greece. [2] Metaxism disparaged <u>liberalism</u>, and held individual interests to be subordinate to those of the nation, seeking to mobilize the Greek people as a disciplined mass in service to the creation of a "new Greece." [2]
+**Metaxism** (Greek: Μεταξισμός) is a Greek authoritarian, ultranationalist, and monarchist ideology associated with loannis Metaxas. [1][page needed] It called for the regeneration of the Greek nation and the establishment of a modern, culturally homogenous Greece. [2] Metaxism disparaged liberalism, and held individual interests to be subordinate to those of the nation, seeking to mobilize the Greek people as a disciplined mass in service to the creation of a "new Greece." [2]
 
-Metaxas declared that his <u>4th of August Regime</u> (1936–1941) represented a "<u>Third Greek Civilization</u>" which was committed to the creation of a culturally purified Greek nation based upon the <u>militarist</u> societies of <u>ancient Macedonia</u> and <u>Sparta</u>, which he held to constitute the "First Greek Civilization"; and the Orthodox Christian ethic of the <u>Byzantine Empire</u>, which he considered to represent the "Second Greek Civilization." The Metaxas regime asserted that true Greeks were ethnically Greek and Orthodox Christian, intending to deliberately exclude <u>Albanians</u>, <u>Slavs</u>, and <u>Turks</u> residing in Greece from Greek citizenship. [2]
+Metaxas declared that his 4th of August Regime (1936–1941) represented a "Third Greek Civilization" which was committed to the creation of a culturally purified Greek nation based upon the militarist societies of ancient Macedonia and Sparta, which he held to constitute the "First Greek Civilization"; and the Orthodox Christian ethic of the Byzantine Empire, which he considered to represent the "Second Greek Civilization." The Metaxas regime asserted that true Greeks were ethnically Greek and Orthodox Christian, intending to deliberately exclude Albanians, Slavs, and Turks residing in Greece from Greek citizenship. [2]
 
 Although the Metaxas government and its official doctrines are sometimes described as fascist, such historians as Stanley G. Payne consider it to have been a conventional authoritarianconservative dictatorship akin to Francisco Franco's Spain or António de Oliveira Salazar's Portugal; such historians as Kofas maintain that the regime had a powerful quasi-fascist element, [1][page needed][3][page needed] some contemporary historians characterize it as totalitarian (as Metaxas himself did) or even fascist [4][page needed][5][6][page needed] The Metaxist government derived its authority from the conservative establishment and its doctrines strongly supported traditional institutions such as the **Greek Orthodox Church** and the **Greek** Monarchy; essentially reactionary, it lacked the radical theoretical dimensions of ideologies such as Italian fascism and National Socialism. [1][page needed][3][page needed] The regime also lacked antisemitism, which it regarded as "distasteful".[7]
 
@@ -49,7 +54,7 @@ Metaxas was referred to by supporters as the [Archigos](https://en.wikipedia.org
 
 control as the Spartans had done. [15] Supporters of the 4th of August Regime justified Metaxas' dictatorship on the basis that the "First Greek Civilization" involved the Athenian dictatorship of Pericles who had brought ancient Greece to greatness. [15]
 
-Metaxas introduced widespread strict censorship of the press and banned works by authors considered taboo by the regime, including literature by <u>Karl Marx</u>, <u>Sigmund Freud</u>, <u>Leo Tolstoy</u>, <u>Eyodor Dostoyevsky</u>, and <u>Immanuel Kant</u>.[14]
+Metaxas introduced widespread strict censorship of the press and banned works by authors considered taboo by the regime, including literature by Karl Marx, Sigmund Freud, Leo Tolstoy, Eyodor Dostoyevsky, and Immanuel Kant.[14]
 
 Metaxas saw the creation of a disciplined younger generation as being critical for the future of Greece and for the strengthening of his regime and its principles that would entrench the Third Greek Civilization. [16] In October 1936, the regime created the National Youth Organization of Greece (EON), which attained a membership of 200,000 by 1938. In 1939, youth membership in the EON became mandatory, and the organization absorbed the Boy Scouts of Greece. [16] Members of the EON took an oath of fidelity to the principles of the 4th of August Regime that included: embracing the institutions of the monarchy; support of national pride and faith to the Greek civilization; opposition to parliamentarianism and communism; support of the development of egalitarian, non-individualistic, virtuous citizens. [17]
 

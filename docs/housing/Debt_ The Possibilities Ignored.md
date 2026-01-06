@@ -1,16 +1,10 @@
 ---
-title: 'Debt: The Possibilities Ignored'
-author: William Gillis
-date: 2014
-slug: Debt_ The Possibilities Ignored
-reconversion_status: ready_for_reconversion
-tags:
-  - housing
-  - tenants
-  - strikes
-  - unions
-  - rent
+title: "Debt: The Possibilities Ignored"
+author: "William Gillis"
+date: "2014"
+category: "housing"
 ---
+
 ## **William Gillis**
 
 ## **Debt: The Possibilities Ignored**

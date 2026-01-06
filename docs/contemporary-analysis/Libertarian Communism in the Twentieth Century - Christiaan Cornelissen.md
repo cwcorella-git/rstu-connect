@@ -1,3 +1,8 @@
+---
+title: "## **Libertarian Communism in the Twentieth Century - Christiaan Cornelissen**"
+category: "contemporary-analysis"
+---
+
 ## **Libertarian Communism in the Twentieth Century - Christiaan Cornelissen**
 
 ## **Date:** Unknown

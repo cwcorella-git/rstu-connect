@@ -1,3 +1,8 @@
+---
+title: "THE PERMACULTURE GARDEN"
+category: "arts-culture-music"
+---
+
 # THE PERMACULTURE GARDEN
 
 ## ![](_page_0_Picture_1.jpeg)
@@ -1258,7 +1263,8 @@ The only limit on productivity is our imagination.
 | Useful climbers. | | |
 | Acacia | Acacia dealbata | TP Nitrogen fixer |
 | Siberian Kiwi fruit | Actinidia arguta x meader | P A hardy fruiting variety |
-| Kiwi fruit | Actinidia chinensis | TP Male and female plants<br>needed to set fruit |
+| Kiwi fruit | Actinidia chinensis | TP Male and female plants
+needed to set fruit |
 | Ornamental quince | Chaenomeles japonica | P Needs training |
 | Travellers joy | Clematis vitalba | P Medicinal |
 | Convulvus | Convulvulus cneorum | P Attracts hoverflies |
@@ -1862,7 +1868,7 @@ The plant's ability to mine and store minerals and the conditions in which it ch
 
 Bracken has deep roots which find and concentrate the missing nutrient. When it dies in the autumn it mulches the ground, replenishing the missing plant food. As a weed its job is to repair damaged soils.
 
-| <u>-</u> | able 13 Dynamic Acc | |
+| - | able 13 Dynamic Acc | |
 |-----------------|-------------------------------------|-------------------------|
 | Se | ome dynamic accumulators and what t | they store for us. |
 | | | Minerals |
@@ -2551,7 +2557,7 @@ If the pond is going to provide irrigation water, then it needs to be designed w
 | | Plants that favour a damp or wet e | nvironment. |
 | Sweet flag | Acorus calamus | P Water edge |
 | Marsh mallow | Althea officinalis | P Wetland, salt marsh |
-| Flowering rush | <b>Butomaus umbellatus</b> | P Wet meadow |
+| Flowering rush | Butomaus umbellatus | P Wet meadow |
 | Marsh marigold | Caltha palustris | P Water edge/surface |
 | Earth almond | Cyperus esculentus | P Water edge |
 | Water hyacinth | Eichornia cressidus | P Water surface |
@@ -3295,7 +3301,7 @@ Many urban housing areas are built on a block basis with gardens facing inwards.
 
 It may not work, of course. But then nothing will unless we try. What could be more healing to damaged communities than gardening together?
 
-<u>eleven</u>
+eleven
 
 ## Working with Soil
 

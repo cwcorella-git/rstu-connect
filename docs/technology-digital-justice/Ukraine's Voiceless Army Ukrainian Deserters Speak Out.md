@@ -1,3 +1,8 @@
+---
+title: "## **Ukraine's Voiceless Army: Ukrainian Deserters Speak Out**"
+category: "technology-digital-justice"
+---
+
 ## **Ukraine's Voiceless Army: Ukrainian Deserters Speak Out**
 
 ## **Date:** Unknown

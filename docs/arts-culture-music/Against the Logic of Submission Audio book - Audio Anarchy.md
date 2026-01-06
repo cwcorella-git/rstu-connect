@@ -1,3 +1,8 @@
+---
+title: "## **Against the Logic of Submission Audio book - Audio Anarchy**"
+category: "arts-culture-music"
+---
+
 ## **Against the Logic of Submission Audio book - Audio Anarchy**
 
 ## **Date:** Unknown

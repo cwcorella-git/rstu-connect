@@ -1,3 +1,8 @@
+---
+title: "J[oule heating](https://en.wikipedia.org/wiki/Main_Page)"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_2.jpeg)
 
 # J[oule heating](https://en.wikipedia.org/wiki/Main_Page)
@@ -182,7 +187,7 @@ Table 1. Electrical conductivity of selected foods[\[11\]](https://en.wikipedia.
 | (b) with 0.55% salt | 1.3 | 19 |
 | (c) with 2% salt | 4.3 | 19 |
 
-Benefits of Ohmic heating include: uniform and rapid heating (>1°Cs<sup>−</sup>1), less cooking time, better [energy e](https://en.wikipedia.org/wiki/Efficient_energy_use)fficiency, lower capital cost, and heating simulataneously throughout food's volume as compared to [aseptic processing,](https://en.wikipedia.org/wiki/Aseptic_processing) [canning,](https://en.wikipedia.org/wiki/Canning) and [PEF](https://en.wikipedia.org/wiki/Pulsed_electric_field_processing)[.\[12\]](https://en.wikipedia.org/wiki/Joule_heating#cite_note-:24-12) Volumetric heating allows internal heating instead of transferring heat from a secondary medium[.\[9\]](https://en.wikipedia.org/wiki/Joule_heating#cite_note-:48-9) This results in the production of safe, high quality food with minimal changes to structural, nutritional, and [organoleptic](https://en.wikipedia.org/wiki/Organoleptic) properties of food[.\[9\]](https://en.wikipedia.org/wiki/Joule_heating#cite_note-:48-9) Heat transfer is uniform to reach areas of food that are harder to heat[.\[11\]](https://en.wikipedia.org/wiki/Joule_heating#cite_note-:113-11) Less fouling accumulates on the electrodes as compared to other heating methods.[\[10\]](https://en.wikipedia.org/wiki/Joule_heating#cite_note-:010-10) Ohmic heating also requires less cleaning and maintenance, resulting in an environmentally cautious heating method[.\[9\]](https://en.wikipedia.org/wiki/Joule_heating#cite_note-:48-9)[\[11\]](https://en.wikipedia.org/wiki/Joule_heating#cite_note-:113-11)[\[12\]](https://en.wikipedia.org/wiki/Joule_heating#cite_note-:24-12)
+Benefits of Ohmic heating include: uniform and rapid heating (>1°Cs−1), less cooking time, better [energy e](https://en.wikipedia.org/wiki/Efficient_energy_use)fficiency, lower capital cost, and heating simulataneously throughout food's volume as compared to [aseptic processing,](https://en.wikipedia.org/wiki/Aseptic_processing) [canning,](https://en.wikipedia.org/wiki/Canning) and [PEF](https://en.wikipedia.org/wiki/Pulsed_electric_field_processing)[.\[12\]](https://en.wikipedia.org/wiki/Joule_heating#cite_note-:24-12) Volumetric heating allows internal heating instead of transferring heat from a secondary medium[.\[9\]](https://en.wikipedia.org/wiki/Joule_heating#cite_note-:48-9) This results in the production of safe, high quality food with minimal changes to structural, nutritional, and [organoleptic](https://en.wikipedia.org/wiki/Organoleptic) properties of food[.\[9\]](https://en.wikipedia.org/wiki/Joule_heating#cite_note-:48-9) Heat transfer is uniform to reach areas of food that are harder to heat[.\[11\]](https://en.wikipedia.org/wiki/Joule_heating#cite_note-:113-11) Less fouling accumulates on the electrodes as compared to other heating methods.[\[10\]](https://en.wikipedia.org/wiki/Joule_heating#cite_note-:010-10) Ohmic heating also requires less cleaning and maintenance, resulting in an environmentally cautious heating method[.\[9\]](https://en.wikipedia.org/wiki/Joule_heating#cite_note-:48-9)[\[11\]](https://en.wikipedia.org/wiki/Joule_heating#cite_note-:113-11)[\[12\]](https://en.wikipedia.org/wiki/Joule_heating#cite_note-:24-12)
 
 Microbial inactivation in ohmic heating is achieved by both thermal and non-thermal cellular damage from the electrical field.[\[14\]](https://en.wikipedia.org/wiki/Joule_heating#cite_note-:52-14) This method destroys [microorganisms](https://en.wikipedia.org/wiki/Microorganism) due to [electroporation](https://en.wikipedia.org/wiki/Electroporation) of [cell membranes,](https://en.wikipedia.org/wiki/Cell_membrane) physical membrane rupture, and [cell lysis.](https://en.wikipedia.org/wiki/Cell_lysis)[\[11\]](https://en.wikipedia.org/wiki/Joule_heating#cite_note-:113-11)[\[13\]](https://en.wikipedia.org/wiki/Joule_heating#cite_note-:36-13) In electroporation, excessive leakage of [ions](https://en.wikipedia.org/wiki/Ion) and [intramolecular components](https://en.wikipedia.org/wiki/Organelle) results in cell death[.\[13\]](https://en.wikipedia.org/wiki/Joule_heating#cite_note-:36-13) In membrane rupture, cells swell due to an increase in moisture diffusion across the cell membrane[.\[12\]](https://en.wikipedia.org/wiki/Joule_heating#cite_note-:24-12) Pronounced disruption and decomposition of cell walls and cytoplasmic membranes causes cells to lyse[.\[11\]](https://en.wikipedia.org/wiki/Joule_heating#cite_note-:113-11)[\[13\]](https://en.wikipedia.org/wiki/Joule_heating#cite_note-:36-13)[\[14\]](https://en.wikipedia.org/wiki/Joule_heating#cite_note-:52-14)
 
@@ -196,12 +201,34 @@ Table 2. Applications of Ohmic Heating in Food Processing [\[10\]](https://en.wi
 
 | Applications | Advantages | Food Items |
 |---------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Sterilisation, heating liquid foods<br>containing large particulates and<br>heat sensitive liquids, aseptic<br>processing | Attractive appearance, firmness properties,<br>pasteurization of milk without protein denaturation | Cauliflower florets, soups, stews, fruit<br>slices in syrups and sauces, ready to<br>cook meals containing particulates,<br>milk, juices, and fruit purees |
-| Ohmic cooking of solid foods | The cooking time could be reduced significantly. The<br>centre temperature rises much faster than in<br>conventional heating, improving the final sterility of the<br>product, less power consumption and safer product | Hamburger patties, meat patties,<br>minced beef, vegetable pieces, chicken,<br>pork cuts |
-| Space food and military ration | Food reheating and waste sterilization. Less energy<br>consumption for heating food to serving temperature,<br>products in reusable pouches with long shelf life. Additive<br>free foods with good keeping quality of 3 years. | Stew type foods |
-| Ohmic thawing | Thawing without increase in moisture content of the<br>product | Shrimp blocks |
-| Inactivation of spores and<br>enzymes | To improve food safety and enhance shelf life, increased<br>stability and energy efficiency, Reduced time for<br>inactivation of lipoxygenase and polyphenol oxidase,<br>inactivation of enzymes without affecting flavor | Process fish cake, orange juice, juices |
-| Blanching and extraction | Enhanced moisture loss and increase in juice yield | Potato slices, vegetable purees<br>extraction of sucrose from sugar beets,<br>extraction of soy milk from soy beans |
+| Sterilisation, heating liquid foods
+containing large particulates and
+heat sensitive liquids, aseptic
+processing | Attractive appearance, firmness properties,
+pasteurization of milk without protein denaturation | Cauliflower florets, soups, stews, fruit
+slices in syrups and sauces, ready to
+cook meals containing particulates,
+milk, juices, and fruit purees |
+| Ohmic cooking of solid foods | The cooking time could be reduced significantly. The
+centre temperature rises much faster than in
+conventional heating, improving the final sterility of the
+product, less power consumption and safer product | Hamburger patties, meat patties,
+minced beef, vegetable pieces, chicken,
+pork cuts |
+| Space food and military ration | Food reheating and waste sterilization. Less energy
+consumption for heating food to serving temperature,
+products in reusable pouches with long shelf life. Additive
+free foods with good keeping quality of 3 years. | Stew type foods |
+| Ohmic thawing | Thawing without increase in moisture content of the
+product | Shrimp blocks |
+| Inactivation of spores and
+enzymes | To improve food safety and enhance shelf life, increased
+stability and energy efficiency, Reduced time for
+inactivation of lipoxygenase and polyphenol oxidase,
+inactivation of enzymes without affecting flavor | Process fish cake, orange juice, juices |
+| Blanching and extraction | Enhanced moisture loss and increase in juice yield | Potato slices, vegetable purees
+extraction of sucrose from sugar beets,
+extraction of soy milk from soy beans |
 
 #### Materials synthesis, recovery and processing
 

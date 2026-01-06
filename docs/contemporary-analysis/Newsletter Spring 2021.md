@@ -1,3 +1,8 @@
+---
+title: "Komahskwema'a Naming Application"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_1.jpeg)
 
 ## **Notes from the Chief**
@@ -108,9 +113,9 @@ There are a few things that are known about Chief Myeerah. He lived in Michigan.
 
 However, the War of 1812 further disrupted their lives. Chef Myeerah did everything possible to protect his people and not become entangled in the War of 1812. He tried to remain neutral and friendly with both the
 
-Americans and the British. Unfortunately, that did not work. He was forced to side with the British and fight. In fact, he gave an impassioned speech during the War of 1812 to the British, letting them know that his people did not want to go to war against the Americans<sup>1</sup> . Understandably, he also did not want his people to lose their lands. Along with other Wyandot chiefs, Chief Myeerah sent a letter to the President of the United States, and also to Congress in February 1812 describing their concerns about their continuing loss of land.
+Americans and the British. Unfortunately, that did not work. He was forced to side with the British and fight. In fact, he gave an impassioned speech during the War of 1812 to the British, letting them know that his people did not want to go to war against the Americans1 . Understandably, he also did not want his people to lose their lands. Along with other Wyandot chiefs, Chief Myeerah sent a letter to the President of the United States, and also to Congress in February 1812 describing their concerns about their continuing loss of land.
 
-In addition to his role in the War of 1812, there is information concerning his physical description. He was described as being a tall man for the times- ". . . a fine, commanding person, near six feet in eight and wellproportioned, and as straight as an arrow. He was mild and pleasant in his deportment." He was easy to get along with, calm, friendly, and tried to keep his people safe and out of the war.<sup>2</sup> Historian Charles Buser described Chief Myeerah as always been well dressed, wearing clothing that was both Indigenous and European in style. This seemed to fit both the chief and the times.
+In addition to his role in the War of 1812, there is information concerning his physical description. He was described as being a tall man for the times- ". . . a fine, commanding person, near six feet in eight and wellproportioned, and as straight as an arrow. He was mild and pleasant in his deportment." He was easy to get along with, calm, friendly, and tried to keep his people safe and out of the war.2 Historian Charles Buser described Chief Myeerah as always been well dressed, wearing clothing that was both Indigenous and European in style. This seemed to fit both the chief and the times.
 
 Chief Myeerah was also friendly with several white generals, probably another way to protect his people. For instance, he was friends with American General William Orlando Butler, stating that he saw Butler many times in battle but would never kill him. In addition, Chief Myeerah also at least got along with American General William Hull. This was apparent because General Hull relayed at least one letter to Chief Myeerah from a fellow chief.
 
@@ -318,14 +323,21 @@ Tizhamehn! Thank you for all your continued support.
 
 | Person wishing to receive a name: Address: |
 |---------------------------------------------------------------------------------------------------------------------------------------------|
-| Phone:<br>cell:<br>Email: Age: |
-| Is the applicant on the rolls of the Wyandot of Anderdon Nation?<br>Roll# |
-| If no,<br>then what nation if any? |
-| Parent 's names —<br>and which parent(s) is Wyandot? |
+| Phone:
+cell:
+Email: Age: |
+| Is the applicant on the rolls of the Wyandot of Anderdon Nation?
+Roll# |
+| If no,
+then what nation if any? |
+| Parent 's names —
+and which parent(s) is Wyandot? |
 | Mother: Father: |
 | Genealogical history, (Grandmother, Grandfather, Great Grandmother, Great Grandfather, etc) |
-| Do you know what clan you belong to? Clan Name: I know my<br>clan because: |
-| Do other members of your family have Wyandot names?<br>If yes, please list the person, the Wyandot name, and who gave the name if possible. |
+| Do you know what clan you belong to? Clan Name: I know my
+clan because: |
+| Do other members of your family have Wyandot names?
+If yes, please list the person, the Wyandot name, and who gave the name if possible. |
 | Why is a name being requested for this applicant? |
 
 To help with the selection of a Wyandot name for the applicant, please share a few strong personal characteristics about the applicant. Tizhamehn!
@@ -438,7 +450,7 @@ We are working diligently to keep our records as up to date as possible. There a
 | Birth Date: | Proceedings of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the | Tribal ID: | | | |
 ## | Child's Phone: | - | Child's Email: | | | |
 
-<sup>\*</sup>Please use the other side of this form to include any additional information. We would like to know of any Births, marriages, or passing's in the last seven years.
+\*Please use the other side of this form to include any additional information. We would like to know of any Births, marriages, or passing's in the last seven years.
 
 Wyandot of Anderdon Nation **Non** P. O. Box 68 **U. S. Postage Paid** Trenton, MI 48183 **Trenton, MI**
 

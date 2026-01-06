@@ -1,3 +1,8 @@
+---
+title: "## **Episode 32: Rr In The Brain Insight And Consciousness/**"
+category: "technology-digital-justice"
+---
+
 ## **Episode 32: Rr In The Brain Insight And Consciousness/**
 
 **Source:** https://www.meaningcrisis.co/ep-32-awakening-from-the-meaning-crisis-rr-in-the-brain-insight-and-consciousness/

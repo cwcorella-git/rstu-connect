@@ -1,3 +1,8 @@
+---
+title: "**Emma Goldman My Disillusionment in Russia**"
+category: "theory"
+---
+
 # **Emma Goldman My Disillusionment in Russia**
 
 #### **Table of Contents**

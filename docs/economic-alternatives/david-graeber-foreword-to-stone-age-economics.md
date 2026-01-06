@@ -1,26 +1,13 @@
 ---
-title: Foreword to <em>Stone Age Economics</em>
-author: David Graeber
-date: '2017'
-pubdate: '2023-02-18T17:42:41'
-language: en
-source_url: >-
-  <em>Stone Age Economics</em> by Marshall Sahlins (Routledge Classics Edition,
-  2017), pp. ix-xviii
-original_format: muse
-converted_date: '2025-11-08T11:25:03.131782'
-tags:
-  - theory
-  - contemporary
-  - rent
-  - prisons
-  - organizing
+title: "Foreword to <em>Stone Age Economics</em>"
+author: "David Graeber"
+date: "2017"
+category: "economic-alternatives"
 ---
 
-<quote>
 Back when I was an evolutionary anthropologist, I learned that the most successful species are those which remain the most generalized. If I hadn’t learned that I would probably still be an evolutionary anthropologist.
 —*Marshall Sahlins*
-</quote>
+
 
 I would like to use the occasion of this foreword to call for Marshall Sahlins to be nominated for a Nobel Prize in Economics.
 

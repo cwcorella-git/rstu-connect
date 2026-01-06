@@ -1,3 +1,8 @@
+---
+title: "## **Were we wrong? - Murray Bookchin**"
+category: "arts-culture-music"
+---
+
 ## **Were we wrong? - Murray Bookchin**
 
 ## **Date:** Unknown

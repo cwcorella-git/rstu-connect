@@ -1,3 +1,8 @@
+---
+title: "**Athenian democracy**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Athenian_democracy)
 
 # **Athenian democracy**

@@ -1,3 +1,8 @@
+---
+title: "## **#Shut ItDown: Organizing to Strike for Climate Justice**"
+category: "environmental-justice"
+---
+
 ## **#Shut ItDown: Organizing to Strike for Climate Justice**
 
 ## **Date:** Sun, 07/14/2019 - 16:28

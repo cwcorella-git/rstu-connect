@@ -1,3 +1,8 @@
+---
+title: "**Herodotus**"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_2.jpeg)
 
 # **Herodotus**
@@ -138,7 +143,7 @@ Several English translations of Herodotus's *Histories* are available in multipl
 
 ### **Notes**
 
-a. [/h](https://en.wikipedia.org/wiki/Help:IPA/English)[əˈ](https://en.wikipedia.org/wiki/Help:IPA/English)[r](https://en.wikipedia.org/wiki/Help:IPA/English)[ɒ](https://en.wikipedia.org/wiki/Help:IPA/English)[d](https://en.wikipedia.org/wiki/Help:IPA/English)[ə](https://en.wikipedia.org/wiki/Help:IPA/English)[t](https://en.wikipedia.org/wiki/Help:IPA/English)[ə](https://en.wikipedia.org/wiki/Help:IPA/English)[s/](https://en.wikipedia.org/wiki/Help:IPA/English)[\[1\]](#page-7-15) [h](https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key)ə-[ROD](https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key)-ə[-t](https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key)ə<sup>s</sup>
+a. [/h](https://en.wikipedia.org/wiki/Help:IPA/English)[əˈ](https://en.wikipedia.org/wiki/Help:IPA/English)[r](https://en.wikipedia.org/wiki/Help:IPA/English)[ɒ](https://en.wikipedia.org/wiki/Help:IPA/English)[d](https://en.wikipedia.org/wiki/Help:IPA/English)[ə](https://en.wikipedia.org/wiki/Help:IPA/English)[t](https://en.wikipedia.org/wiki/Help:IPA/English)[ə](https://en.wikipedia.org/wiki/Help:IPA/English)[s/](https://en.wikipedia.org/wiki/Help:IPA/English)[\[1\]](#page-7-15) [h](https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key)ə-[ROD](https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key)-ə[-t](https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key)əs
 
 ### **References**
 

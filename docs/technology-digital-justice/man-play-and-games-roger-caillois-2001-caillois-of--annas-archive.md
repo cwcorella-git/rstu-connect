@@ -1,3 +1,8 @@
+---
+title: "*Psychological and Mathematical*"
+category: "technology-digital-justice"
+---
+
 ### Roger Caillois
 
 ## ![](_page_0_Picture_1.jpeg)
@@ -305,15 +310,40 @@ The example of the word *wan* shows that the destinies of cultures can be read i
 
 ## Table I. Classification of Games
 
-| | AGÔN<br>(Competition) | ALEA<br>(Chance) | MIMICRY<br>(Simulation) | ILINX<br>(Vertigo) |
+| | AGÔN
+(Competition) | ALEA
+(Chance) | MIMICRY
+(Simulation) | ILINX
+(Vertigo) |
 |----------------------------------------------|-----------------------------------------------------------|--------------------------------------------------|------------------------------------------------------------------------------|-----------------------------------------------------------------|
-| PAIDIA Tumult Agitation Immoderate laughter | Racing not Wrestling regulated Etc. Athletics | Counting-out<br>rhymes<br>Heads or tails | Children's initiations<br>Games of illusion<br>Tag, Arms<br>Masks, Disguises | Children "whirling"<br>Horseback riding<br>Swinging<br>Waltzing |
-| Kite-flying<br>Solitaire<br>Patience | Boxing, Billiards<br>Fencing, Checkers<br>Football, Chess | Betting<br>Roulette | | Volador<br>Traveling carnivals<br>Skiing<br>Mountain climbing |
-| Crossword puzzles LUDUS | Contests, Sports<br>in general | Simple, complex,<br>and continuing<br>lotteries* | Theater<br>Spectacles in<br>general | Tightrope walking |
+| PAIDIA Tumult Agitation Immoderate laughter | Racing not Wrestling regulated Etc. Athletics | Counting-out
+rhymes
+Heads or tails | Children's initiations
+Games of illusion
+Tag, Arms
+Masks, Disguises | Children "whirling"
+Horseback riding
+Swinging
+Waltzing |
+| Kite-flying
+Solitaire
+Patience | Boxing, Billiards
+Fencing, Checkers
+Football, Chess | Betting
+Roulette | | Volador
+Traveling carnivals
+Skiing
+Mountain climbing |
+| Crossword puzzles LUDUS | Contests, Sports
+in general | Simple, complex,
+and continuing
+lotteries* | Theater
+Spectacles in
+general | Tightrope walking |
 
 N. B. In each vertical column games are classified in such an order that the paidia element is constantly decreasing while the ludus element is ever increasing.
 
-<sup>\*</sup> A simple lottery consists of the one basic drawing. In a complex lottery there are many possible combinations. A continuing lottery (e.g. Irish Sweepstakes) is one consisting of two or more stages, the winner of the first stage being granted the opportunity to participate in a second lottery. [From correspondence with Caillois. M. B.]
+\* A simple lottery consists of the one basic drawing. In a complex lottery there are many possible combinations. A continuing lottery (e.g. Irish Sweepstakes) is one consisting of two or more stages, the winner of the first stage being granted the opportunity to participate in a second lottery. [From correspondence with Caillois. M. B.]
 
 ### *The Social Function of Games*
 
@@ -415,12 +445,42 @@ Transposed to reality, the only goal of $ag\hat{o}n$ is success. The rules of co
 
 ## Table II
 
-| AGÔN | Cultural Forms<br>Found at the<br>Margins of the<br>Social Order | Institutional<br>Forms Integrated<br>into Social Life | Corruption |
+| AGÔN | Cultural Forms
+Found at the
+Margins of the
+Social Order | Institutional
+Forms Integrated
+into Social Life | Corruption |
 |-------------------------|------------------------------------------------------------------|--------------------------------------------------------|---------------------------------------|
-| (Competition) | Sports | Economic<br>competition<br>Competitive<br>examinations | Violence<br>Will to power<br>Trickery |
-| ALEA<br>(Chance) | Lotteries<br>Casinos<br>Hippodromes<br>Pari-mutuels | Speculation on stock market | Superstition<br>Astrology, etc. |
-| MIMICRY<br>(Simulation) | Carnival<br>Theater<br>Cinema<br>Hero-worship | Uniforms<br>Ceremonial<br>etiquette | Alienation<br>Split personality |
-| ILINX<br>(Vertigo) | Mountain climbing<br>Skiing<br>Tightrope walking<br>Speed | Professions<br>requiring<br>control of<br>vertigo | Alcoholism<br>and drugs |
+| (Competition) | Sports | Economic
+competition
+Competitive
+examinations | Violence
+Will to power
+Trickery |
+| ALEA
+(Chance) | Lotteries
+Casinos
+Hippodromes
+Pari-mutuels | Speculation on stock market | Superstition
+Astrology, etc. |
+| MIMICRY
+(Simulation) | Carnival
+Theater
+Cinema
+Hero-worship | Uniforms
+Ceremonial
+etiquette | Alienation
+Split personality |
+| ILINX
+(Vertigo) | Mountain climbing
+Skiing
+Tightrope walking
+Speed | Professions
+requiring
+control of
+vertigo | Alcoholism
+and drugs |
 
 Various restrictions on violence fall into disuse. Operations are no longer limited to frontier provinces, strongholds, and military objectives. They are no longer conducted according to a strategy that once made war itself resemble a game. War is far removed from the tournament or duel, i.e. from regulated combat in an enclosure, and now finds its fulfillment in massive destruction and the massacre of entire populations.
 
@@ -676,7 +736,7 @@ Conversely, in Ancient Greece, if the point of departure is the same, neverthele
 
 During their cryptia, when the Spartan youth may have hunted Helots, it is certain that they led a life of isolation and ambush. They might not be seen or surprised. It was not a question of military preparation; such training was in no way compatible with the hoplites' way of fighting. The youth lives like a wolf and attacks like a wolf; he makes a solitary and sudden leap like a wild beast. He steals and kills with impunity, since his victims cannot catch him. The experience entails the dangers and advantages of an initiation. The neophyte wins the power and right to act like a wolf. He is eaten by a wolf and reborn as a wolf. He risks being torn to pieces by wolves, and he in turn is now qualified to devour humans. On the mountain of Lyceum in Arcadia, where Zeus is the patron of a band of lycanthropes, the one who eats the flesh of a child, which has been mixed with other meats, becomes a wolf, or the initiate swims across a pool and becomes a wolf for nine years in the wilderness he now inhabits. Lycurgus of Arcadia, whose name means "wolfmaker," pursues the young Dionysus. He threatens him with a mysterious contraption. Terrifying roars are heard, as well as the noise of a "subterranean drum, a thunder of pain and anguish"48 according to Strabo. It is not difficult to recognize the sound of the bull-roarer, used by masked dancers everywhere.
 
-Reasons are not lacking for connecting the Spartan Lycurgus with the Arcadian Lycurgus. Between the sixth and the fourth centuries ( <sup>b</sup> .<sup>c</sup> .) the supernatural apparition that provoked panic became the wise lawgiver. The sorcerer presiding over initiations became a teacher. In the same way, the wolf-men of Lacedaemonia are no longer fauns possessed by a god, living a wild and subhuman life at the age of puberty. They are now a kind of political police sent on punitive expeditions in order to instill fear and obedience into the people.
+Reasons are not lacking for connecting the Spartan Lycurgus with the Arcadian Lycurgus. Between the sixth and the fourth centuries ( b .c .) the supernatural apparition that provoked panic became the wise lawgiver. The sorcerer presiding over initiations became a teacher. In the same way, the wolf-men of Lacedaemonia are no longer fauns possessed by a god, living a wild and subhuman life at the age of puberty. They are now a kind of political police sent on punitive expeditions in order to instill fear and obedience into the people.
 
 The traditional ecstatic crisis is calmly adapted to purposes of repression and intimidation. Metamorphoses and trances are now mere memories. The cryptia no doubt remains secret. It is still one of the routine mechanisms of a militaristic republic whose rigid institutions ingeniously combine democracy and despotism. A minority of conquerors, who have already adopted another kind of law, continue to use the old formulae in ruling the subjugated population.
 
@@ -1308,7 +1368,7 @@ documentation on this point in his work *Foules en delire, Extases collectives* 
 
 sis, albeit in bad taste, in order to impress the citizenry, one would feel reassured. But the faces of these adolescents are sullen and evil. They are not being frivolous. They suddenly burst out into a rage of silent destructiveness. In fact their silence is perhaps their most impressive quality. In his excellent little work on Sweden, Frangois-Regis Bastide has described \ . . these birds of prey terrified by solitude [who] assemble, crowd close together like penguins, settle, snarl, hurl insults through clenched teeth, heap blows upon each other without crying out, without a single understandable word. . . .'
 
-"Apart from the famous Swedish solitude and animal anguish that has been described many times and which is stimulated by the long winter night lasting from 10 **<sup>p</sup> . <sup>m</sup> .** to 10 **<sup>a</sup> . <sup>m</sup> .,** may another type of explanation be sought in the European or American antisocial gangs that engage in violence? Because in Sweden the facts are more clearly isolable than elsewhere, the explanation of the local riots is no doubt also valid for 'rock 'n roll' vandals, American motorcycle hipsters, and of course the London 'teddy-boys.'
+"Apart from the famous Swedish solitude and animal anguish that has been described many times and which is stimulated by the long winter night lasting from 10 **p . m .** to 10 **a . m .,** may another type of explanation be sought in the European or American antisocial gangs that engage in violence? Because in Sweden the facts are more clearly isolable than elsewhere, the explanation of the local riots is no doubt also valid for 'rock 'n roll' vandals, American motorcycle hipsters, and of course the London 'teddy-boys.'
 
 "First of all, to what social group do these young rebels belong? Dressed like their American counterparts in leather jackets on which are depicted death's heads and cabalistic inscriptions, they are for the most part of working-class or lower middle-class background. As apprentices or clerks, they earn at their age salaries that are fantastic by previous generations' standards. This relative prosperity and, in Sweden, the certainty of an assured future eliminates their concern for the future, and at the same time makes it unnecessary for them to struggle for existence or status. In other places it is an excess of difficulties to overcome in a world in which routine work is undervalued, by contrast to the glamorization of movie actors and gangsters, that leads to despair. In both cases combativeness, deprived of a legitimate battleground, suddenly explodes in a blind and senseless eruption." [Translated by M. B.]
 

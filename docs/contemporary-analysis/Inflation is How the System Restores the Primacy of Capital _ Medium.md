@@ -1,3 +1,8 @@
+---
+title: "**Inflation is How the System Restores the Primacy of Capital**"
+category: "contemporary-analysis"
+---
+
 #### [medium.com](https://medium.com/@re. Marx/inflation-is-how-the-system-restores-the-primacy-of-capital-9a795036b154)
 
 # **Inflation is How the System Restores the Primacy of Capital**
@@ -18,7 +23,7 @@ It pushes labor back towards proletarianism, and capital back towards industrial
 
 ## ![](_page_0_Picture_11.jpeg)
 
-Industrial Capital remains buried just beneath the surface. Image source<https://www.pikist.com/free-photo-sqkcu>
+Industrial Capital remains buried just beneath the surface. Image source
 
 Following the unequal recovery from the COVID-19 pandemic, the economy has entered a [highly bizarre state.](https://www.vice.com/en/article/wx5g9b/why-is-the-economy-so-weird-right-now) On the one hand, the events of Striketober show many workers are feeling more powerful than they have in years, [walking off of jobs](https://www.cnbc.com/2021/10/19/the-great-resignation-why-people-are-quitting-their-jobs.html) and [creating militant labor formations](https://www.theguardian.com/us-news/2021/oct/23/striketober-unions-strikes-workers-lasting-change) at a rate not seen in decades in the United States. On the other hand, [the population in](https://www.nytimes.com/2021/11/06/upshot/inflation-psychology-economy.html) [general is absolutely despondent about the state of the](https://www.nytimes.com/2021/11/06/upshot/inflation-psychology-economy.html) [economy,](https://www.nytimes.com/2021/11/06/upshot/inflation-psychology-economy.html) and the ruling party, the Democrats, are suffering tremendous early losses in [approval ratings](https://www.nytimes.com/2021/10/23/us/politics/biden-approval-ratings.html) and [off-year](https://www.nytimes.com/2021/11/09/opinion/republicans-biden-virginia-trump.html) [elections.](https://www.nytimes.com/2021/11/09/opinion/republicans-biden-virginia-trump.html) Why are people expressing such cynicism and resignation in the face of mostly improved individual situations? The answer, in part, is fear that the wage gains have been or will soon be consumed by the decaying value of the money composing those wages, known as inflation.
 

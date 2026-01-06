@@ -1,3 +1,8 @@
+---
+title: "**Richmond IWW Stands in Solidarity with Virginia Pipeline Resisters**"
+category: "theory"
+---
+
 # **Richmond IWW Stands in Solidarity with Virginia Pipeline Resisters**
 
 ## **Date:** Wed, 03/14/2018 - 18:44

@@ -1,3 +1,8 @@
+---
+title: "## **Inside Story #2 1972**"
+category: "contemporary-analysis"
+---
+
 ## **Inside Story #2 1972**
 
 ## **Date:** Unknown

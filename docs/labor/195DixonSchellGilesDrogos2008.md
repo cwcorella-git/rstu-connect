@@ -1,16 +1,10 @@
 ---
-title: 195Dixonschellgilesdrogos2008
-author: Howard Giles
-slug: 195DixonSchellGilesDrogos2008
-reconversion_status: ready_for_reconversion
-date: 2004
-tags:
-  - labor
-  - strikes
-  - unions
-  - rent
-  - police
+title: "195Dixonschellgilesdrogos2008"
+author: "Howard Giles"
+date: "2004"
+category: "labor"
 ---
+
 # [The Influence of Race in Police–Civilian Interactions: A Content](https://www.researchgate.net/publication/229738452_The_Influence_of_Race_in_Police-Civilian_Interactions_A_Content_Analysis_of_Videotaped_Interactions_Taken_During_Cincinnati_Police_Traffic_Stops?enrich Id=rgreq-378d7d9f486a10a57073fcdb5d8ee2d5-XXX&enrich Source=Y292ZXJQYWdl OzIyOTczODQ1MjtBUzo5MDM0Nz YzODkzNDcz MzJAMTU5Mj QxNjk2NTkw Ng%3D%3D&el=1_x_3&_esc=publication Cover Pdf) Analysis of Videotaped Interactions Taken During Cincinnati Police Traffic Stops
 
 ## ![](_page_0_Figure_3.jpeg)
@@ -23,7 +17,7 @@ tags:
 
 # The Influence of Race in Police–Civilian Interactions: A Content Analysis of Videotaped Interactions Taken During Cincinnati Police Traffic Stops
 
-Travis L. Dixon<sup>1</sup> , Terry L. Schell<sup>2</sup> , Howard Giles<sup>3</sup> , & Kristin L. Drogos<sup>1</sup>
+Travis L. Dixon1 , Terry L. Schell2 , Howard Giles3 , & Kristin L. Drogos1
 
 - 1 Department of Communication, University of Illinois at Urbana–Champaign, IL 61801
 - 2 RAND Corporation, Santa Monica, CA 90401
@@ -165,7 +159,8 @@ Table 1 Differences in Stop Characteristics as a Function of Driver Race
 
 | | Black Drivers | White Drivers | | |
 |-------------------------------------------|---------------|---------------|-----|----------------------|
-| | % or Mean | % or Mean | N | Significant<br>Value |
+| | % or Mean | % or Mean | N | Significant
+Value |
 | Mean number of passengers | 0.55 | 0.23 | 285 | ,.001 |
 | Mean vehicle age (years) | 8.1 | 6.8 | 309 | ,.05 |
 | Stop occurred at night | 55% | 42% | 309 | ,.05 |

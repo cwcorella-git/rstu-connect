@@ -1,3 +1,8 @@
+---
+title: "Deep Eology & Anarcism"
+category: "environmental-justice"
+---
+
 # Deep Eology & Anarcism
 
 ## A Polemi
@@ -345,25 +350,25 @@ Like Gresham's Law, not only does bad money drive out good, but futuristi 'senar
 
 ## Refletions on 'Deep Eology' by Brian Morris
 
-A couple o years ago George Bradord wroe a lucid and renchan criique o 'deep ecology' in a pamphle eniled How Deep is Deep Ecology. <sup>1</sup> I was specifically aimed a he deep ecology espoused by wriers like Bill Devall, George Sessions and Dave Foreman, and i echoed many o he criicisms earlier voiced by Murray Bookchin.<sup>2</sup> Boh Bradord and Bookchin essenially challenge he biocenric approach o he deep ecologiss — which enails he noion o 'biospecies equaliy' Tis in essence was he deep ecologiss' answer o he anhropocenrism so dominan in Wesern culure, anhropocenrism being he idea ha humans are separae rom, and superior o he res o naure, and ha his hereore jusified using naure simply as a resource. Wha Bradord and Bookchin sugges is ha he deep ecologiss simply replicae (and inverse) he opposiion beween humans and naure. Bu whereas he advocaes o he Promehean ehic imply he conrol and dominaion o naure by humans, conemporary deep ecologiss, many o hem acolyes o 'naural law' heory, have an insidious image o a humaniy ha is 'dominaed by naure'. Such 'ani-humanism' Bookchin and Bradord eel is perverse, unecological, and a exremes leads o misanhropy. Te idea ha humans should 'obey' he 'laws o naure' is an idea ha hey boh seriously challenge. And hey go on o sugges ha by ocusing enirely on he caegory 'humaniy' he deep ecologiss ignore, or compleely obscure, he social origins o ecological problems. Te noion ha Arican children should be le o sarve because hey are over-populaing he coninen, ha disease is a naural check on humans and helps o mainain he 'balance o naure', ha 'immigrans' o he Unied Saes should be kep ou because hey hreaen 'our' resources — all advocaed by deep ecology enhusiass in a raher Malhusian ashion — are all discussed and reued by Bookchin and Bradord. Such biocenrism and anihumanism, hey argue, is boh reacionary and auhoriarian in is implicaions, and subsiues a naive undersanding o 'naure' or a criical sudy o real social issues and concerns. Bradord sums i up by suggesing ha he deep ecologiss "have no really 'deep' criique o he sae, empire, echnology and capial, reducing he complex web o human relaions o a simplisic, absrac, scienisic caricaure" (p. 10). Bookchin o course argues ha he ecological crisis is no caused by an undiffereniaed 'humaniy' bu by he capialis sysem, which has reduced human beings o mere commodiies, desroyed he culural inegriy o many 'Tird World' communiies, and, via corporae ineress, has caused devasaion and deerioraion o he naural world hrough deoresaion, monoculure, and polluion.
+A couple o years ago George Bradord wroe a lucid and renchan criique o 'deep ecology' in a pamphle eniled How Deep is Deep Ecology. 1 I was specifically aimed a he deep ecology espoused by wriers like Bill Devall, George Sessions and Dave Foreman, and i echoed many o he criicisms earlier voiced by Murray Bookchin.2 Boh Bradord and Bookchin essenially challenge he biocenric approach o he deep ecologiss — which enails he noion o 'biospecies equaliy' Tis in essence was he deep ecologiss' answer o he anhropocenrism so dominan in Wesern culure, anhropocenrism being he idea ha humans are separae rom, and superior o he res o naure, and ha his hereore jusified using naure simply as a resource. Wha Bradord and Bookchin sugges is ha he deep ecologiss simply replicae (and inverse) he opposiion beween humans and naure. Bu whereas he advocaes o he Promehean ehic imply he conrol and dominaion o naure by humans, conemporary deep ecologiss, many o hem acolyes o 'naural law' heory, have an insidious image o a humaniy ha is 'dominaed by naure'. Such 'ani-humanism' Bookchin and Bradord eel is perverse, unecological, and a exremes leads o misanhropy. Te idea ha humans should 'obey' he 'laws o naure' is an idea ha hey boh seriously challenge. And hey go on o sugges ha by ocusing enirely on he caegory 'humaniy' he deep ecologiss ignore, or compleely obscure, he social origins o ecological problems. Te noion ha Arican children should be le o sarve because hey are over-populaing he coninen, ha disease is a naural check on humans and helps o mainain he 'balance o naure', ha 'immigrans' o he Unied Saes should be kep ou because hey hreaen 'our' resources — all advocaed by deep ecology enhusiass in a raher Malhusian ashion — are all discussed and reued by Bookchin and Bradord. Such biocenrism and anihumanism, hey argue, is boh reacionary and auhoriarian in is implicaions, and subsiues a naive undersanding o 'naure' or a criical sudy o real social issues and concerns. Bradord sums i up by suggesing ha he deep ecologiss "have no really 'deep' criique o he sae, empire, echnology and capial, reducing he complex web o human relaions o a simplisic, absrac, scienisic caricaure" (p. 10). Bookchin o course argues ha he ecological crisis is no caused by an undiffereniaed 'humaniy' bu by he capialis sysem, which has reduced human beings o mere commodiies, desroyed he culural inegriy o many 'Tird World' communiies, and, via corporae ineress, has caused devasaion and deerioraion o he naural world hrough deoresaion, monoculure, and polluion.
 
 In response o he criicisms o he social ecologiss several deep ecologiss, like Warwick Fox and Judi Bari, have suggesed ha Bookchin sill reains an 'anhropocenric' oulook, and ha he 'le' have no vision o an ecological sociey — a suggesion ha indicaes eiher a woeul
 
-<sup>1</sup> George Bradord 1989 How Deep is Deep Ecology, Hadley, Mass. imes Change Press.
+1 George Bradord 1989 How Deep is Deep Ecology, Hadley, Mass. imes Change Press.
 
-<sup>2</sup> Murray Bookchin 1989 Remaking Sociey, Monreal, Black Rose Books. 1990 Te Philosophy o Social Ecology Mon real, Black Rose Books.
+2 Murray Bookchin 1989 Remaking Sociey, Monreal, Black Rose Books. 1990 Te Philosophy o Social Ecology Mon real, Black Rose Books.
 
 ignorance or, alernaively, a slanderous misinerpreaion o wha Bookchin has been advocaing or over hree decades.
 
 Te polemical exchanges beween he deep and social ecologiss have been very much a par o he radical ecology scene in he Unied Saes over he pas decade — in conras o he ecology scene in Briain where he likes o Jonahon Porrit, a geneel reormer, seem o ge he media prominence. Bu his debae ook an imporan wis in May 1989 when Dave Foreman was arresed by he FBI. An ecological acivis who advocaes non-violen direc acion o proec wilderness areas and rainoress, Foreman had been one o he ounders o he 'Earh Firs!' group. Over he years his group had been infilraed by US governmen inormers and agen provoca eurs seeking o enrap he ecological aciviss ino illegal aciviies. Foreman was dragged ou o his bed by armed FBI men one dawn and charged wih conspiracy o damage governmen propery. Six monhs laer Murray Bookchin and Dave Foreman came ogeher or a public debae, o discuss heir differences, and o deend he inegriy o he radical ecology movemen. Wha came ou o his debae is ha whereas Foreman had largely aken o hear he criicisms o deep ecology — and had become a saunch 'ani-capialis' and had wihdrawn many o his more exreme ani-humanis saemens — Bookchin coninued o reierae wih sridency he kind o social ecology ha he had been advocaing and developing over he years — and hus came o argue or a 'new poliics', he need or a social movemen ha can effecively resis and ulimaely replace boh he naion-sae and corporae capialism. He admited ha he had no pa ormulas or making such a revoluion, bu quesioned he easibiliy o a reormis sraegy, one ha merely ses is sighs on 'improving' he curren sysem o power and inequaliy.3
 
-Wha is o ineres abou hese various debaes is ha he figure o Arne Naess, who is alleged o be he ounder and he 'inspiraion' behind he 'deep ecology' movemen ends o hover only in he background. Naess is discussed by wriers like Devall,4 bu hough deep ecology isel has had media prominence, is ounder is very much a marginal scholar. A couple o years ago I scoured he bookshops in London looking or somehing on, or by, Arne Naess and drew a complee blank. Happily his imporan sudy Ecology, Communiy and Liesyle<sup>5</sup> has now been ranslaed rom he Norwegian, and his gives us an opporuniy o assess he houghs o a philosopher he deep ecologiss pay homage o, bu whose own ideas remain largely unknown ouside his own counry and a narrow circle o deep ecology enhusiass. Now approaching his eighieh year, Arne Naess is a Norwegian philosopher and mounaineer who has spen mos o his lie eaching philosophy in academia. His paricular ineress were semanics and he philosophy o science, and in he 1930s he appears o have been associaed wih he logical posiiviss — whose philosophy sands in sark conras o Naess' presen views. Naess has published imporan sudies o Gandhi and Spinoza, and he influence o hese wo conrasing figures is clearly apparen in his work. His whole mode o presenaion — absrac, normaive and geomeric — as well as his philosophy — in seeing sel-realisaion as involving 'idenificaion' wih naure — has affiniies wih ha o Spinoza. Indeed he summarises his own philosophy on one page (209), wih an absrac schema o numbered boxes all nealy and logically linked by a series o lines, hanging ogeher like a rozen mobile. Anyhing less organic i would be hard o imagine, bu i reminds one o he genle Spinoza.
+Wha is o ineres abou hese various debaes is ha he figure o Arne Naess, who is alleged o be he ounder and he 'inspiraion' behind he 'deep ecology' movemen ends o hover only in he background. Naess is discussed by wriers like Devall,4 bu hough deep ecology isel has had media prominence, is ounder is very much a marginal scholar. A couple o years ago I scoured he bookshops in London looking or somehing on, or by, Arne Naess and drew a complee blank. Happily his imporan sudy Ecology, Communiy and Liesyle5 has now been ranslaed rom he Norwegian, and his gives us an opporuniy o assess he houghs o a philosopher he deep ecologiss pay homage o, bu whose own ideas remain largely unknown ouside his own counry and a narrow circle o deep ecology enhusiass. Now approaching his eighieh year, Arne Naess is a Norwegian philosopher and mounaineer who has spen mos o his lie eaching philosophy in academia. His paricular ineress were semanics and he philosophy o science, and in he 1930s he appears o have been associaed wih he logical posiiviss — whose philosophy sands in sark conras o Naess' presen views. Naess has published imporan sudies o Gandhi and Spinoza, and he influence o hese wo conrasing figures is clearly apparen in his work. His whole mode o presenaion — absrac, normaive and geomeric — as well as his philosophy — in seeing sel-realisaion as involving 'idenificaion' wih naure — has affiniies wih ha o Spinoza. Indeed he summarises his own philosophy on one page (209), wih an absrac schema o numbered boxes all nealy and logically linked by a series o lines, hanging ogeher like a rozen mobile. Anyhing less organic i would be hard o imagine, bu i reminds one o he genle Spinoza.
 
-<sup>3</sup> David Levine 1991 Ed. Deending he Earh, A Dialogue beween Murray Bookchin and Dave Foreman.
+3 David Levine 1991 Ed. Deending he Earh, A Dialogue beween Murray Bookchin and Dave Foreman.
 
-<sup>4</sup> Bill Devall 1988 Simple in Means, Rich in Ends: Pracicing Deep Ecology Sal Lake Ciy, Peregrine Smih.
+4 Bill Devall 1988 Simple in Means, Rich in Ends: Pracicing Deep Ecology Sal Lake Ciy, Peregrine Smih.
 
-<sup>5</sup> Arne Naess 1989 Ecology, Communiy and Liesyle Cambridge Univ. Press.
+5 Arne Naess 1989 Ecology, Communiy and Liesyle Cambridge Univ. Press.
 
 Naess calls his own philosophy o deep ecology 'Philosophy ' — he suggesion being ha wha he presens in he book is his own unique philosophy, named aer a mounain hu in Norway, vergasein. (Wihou Naess is a ghos wrier who would have hough oherwise?) Te implicaion o his, however, is his insisence ha everyone should work ou heir own philosophy and develop, hrough reflecion and acion, heir own sysem o hough. Like many conemporary wriers — and in his Naess is offering litle ha is original — Naess sresses he graviy o he presen ecological siuaion — he environmenal deerioraion and devasaion ha is aking place on an ever-increasing scale due o he presen sysem o producion and consumpion, and o he lack o any adequae policies regarding human populaion increase. Tis ecological crisis Naess suggess can only be counered by a 'new renaissance', by a 'new pah' wih new crieria or 'progress, efficiency and raional acion' — Naess srangely reaining some o he key erms o he marke economiss and o capialis ideology. Tis leads Naess o make a clear disincion beween 'deep' and 'shallow' ecology — which he firs inroduced in an aricle in 1973 — he later being a reormis atiude o he presen ecological crisis, one ha sill reains a uiliarian, anhropocenric approach o naure, and does no sugges any undamenal change o he presen economic sysem. Tis disincion is similar o ha long ago made by Bookchin who conrased 'environmenalism' wih a radical social ecology. For Bookchin 'environmenalism' was merely environmenal engineering based on a echnocraic raionaliy ha only suggesed inkering wih exising social insiuions, echnologies and values. Bu Bookchin's alernaive o 'environmenalism' (or 'shallow' ecology) seems o me o carry ar more inellecual and poliical subsance han he 'deep ecology' suggesed by Naess.
 
@@ -403,9 +408,9 @@ Secondly, alhough advocaing decenralisaion, Naess suggess ha in order o couner h
 
 Alhough Naess argues or a biocenric approach owards naure, and sresses ha all lie orms should be seen as having inrinsic value — he principle o 'biospherical egaliarianism' he is aware o he limiaions o his principle and never lapses like oher deep ecologiss ino misanhropy. aken lierally or seriously 'biocenric equaliy' would o course lead o he quick demise o he human species. Wha however Naess suggess is ha we use his principle or norm as a 'guideline' — ha we do no inflic unnecessary suffering upon oher living beings, and ha we rea all aspecs o naure as having inrinsic value. He is aware ha human praxis and he human condiion necessarily involves a ransgression o his norm, and ha some killing and exploiaion o non-human lie orms is unavoidable. Bu his poin is ha his insrumenaliy should be kep o a minimum, and only serve vial human needs — or susenance and sheler. Unlike many oher ecologiss — and many vegearians — he is aware ha among many ribal communiies a sense o kinship or idenificaion wih naure coexiss wih a huning culure. Unlike oher ecologiss oo, Naess doesn' deny he imporance o humans, or rea humankind as i i were a blo upon he landscape. Like Bookchin he recognises ha here is a cerain uniqueness abou humans on earh — bu he srongly argues ha his uniqueness mus no be used as a premise or he dominaion o naure, and or reaing oher lie-orms simply as a means o human saisacion. Bu raher i mus be used as a premise or a universal care ha oher species can neiher undersand nor afford (p. 171). And his concern exends o humans, or social jusice is an imporan componen o his philosophy — 'no exploiaion', 'no subjecion' and 'no class socieies' are consiuen norms o his raher absrac normaive schema.
 
-Te mos undamenal norm or Naess and he logical saring poin o his whole philosophy is he idea o Sel-realisaion — he sel having a capial S. All oher norms are derived rom his key idea. Bu he is ambivalen abou wha his Sel sands or. He wries ha his Sel is known hroughou he hisory o philosophy under such names as 'he Universal Sel, 'he Absolue', 'he aman'. Bu in he religious radiions rom which hese erms derive Sel does no imply an idenificaion wih naure bu raher has spiriual connoaions, and he discovery o he Sel means he idenificaion wih god, he absolue or Brahman. For example, aman means ha spiriual aspec o he person (soul) which is disinc rom he mind, sense organs and he physical body, and sel realisaion (moksha, or salvaion) enails he realisaion ha his soul is in ac Brahman — he supreme Sel or world spiri. In his Vedana radiion he naural world is an illusion (maya). In oher religious radiions, as Naess himsel wries, he spiri (soul) was considered radically disinc rom he body, and he body and he maerial world were seen as a posiive hindrance o sel-realisaion. In he gnosic radiion he body is seen as a emporary 'prison' or 'omb' o he soul (self) and, as Hans Jonas has percepively writen, his radical religious dualism — exemplified in he European radiion by Plaonism, gnosicism and Judeo-Chrisianiy — is an essenial precursor o mechanisic philosophy and anhropocenrism.<sup>6</sup> Tis orm o religious Sel realisaion is prooundly ani-ecological — or as Naess suggess in wriing abou Ploinus, i involves a 'depreciaion o physical realiy'. As he wries 'A search or supernaural being can
+Te mos undamenal norm or Naess and he logical saring poin o his whole philosophy is he idea o Sel-realisaion — he sel having a capial S. All oher norms are derived rom his key idea. Bu he is ambivalen abou wha his Sel sands or. He wries ha his Sel is known hroughou he hisory o philosophy under such names as 'he Universal Sel, 'he Absolue', 'he aman'. Bu in he religious radiions rom which hese erms derive Sel does no imply an idenificaion wih naure bu raher has spiriual connoaions, and he discovery o he Sel means he idenificaion wih god, he absolue or Brahman. For example, aman means ha spiriual aspec o he person (soul) which is disinc rom he mind, sense organs and he physical body, and sel realisaion (moksha, or salvaion) enails he realisaion ha his soul is in ac Brahman — he supreme Sel or world spiri. In his Vedana radiion he naural world is an illusion (maya). In oher religious radiions, as Naess himsel wries, he spiri (soul) was considered radically disinc rom he body, and he body and he maerial world were seen as a posiive hindrance o sel-realisaion. In he gnosic radiion he body is seen as a emporary 'prison' or 'omb' o he soul (self) and, as Hans Jonas has percepively writen, his radical religious dualism — exemplified in he European radiion by Plaonism, gnosicism and Judeo-Chrisianiy — is an essenial precursor o mechanisic philosophy and anhropocenrism.6 Tis orm o religious Sel realisaion is prooundly ani-ecological — or as Naess suggess in wriing abou Ploinus, i involves a 'depreciaion o physical realiy'. As he wries 'A search or supernaural being can
 
-<sup>6</sup> Hans Jonas 1966 Te Phenomenon o Lie Univ. Chicago Press.
+6 Hans Jonas 1966 Te Phenomenon o Lie Univ. Chicago Press.
 
 easily become an endeavour hosile o man and environmen' (p. 190) — bu o course his is precisely wha mos mysical radiions enail — he deachmen o sel rom organic lie. Wha Naess seems o be suggesing however is somehing quie differen: or he 'oneness' he suggess is no he idenificaion o he sel wih god, he absolue or world spiri (Brahman), bu raher he idenificaion o he person wih he naural world (in his case, especially wih mounains). And in his, o course, he ollows Spinoza and such naure mysics as Richard Jefferies. Alhough he seems o sugges ha Spinoza was influenced by he idea o an 'immanen God' (p.201), Spinoza's philosophy was in ac somehing quie differen, or he equaed god wih naure, and advocaed a religious aheism or a proane mysicism. He advocaed a salvaion ehic in which god is neiher a ranscendenal nor immanen spiri bu naure isel. Naess seems o sugges a similar ehic a 'philosophy o oneness' — in which a deep idenificaion wih he naural world is el or experienced. I is an 'ecological consciousness', or he developmen o an 'ecological sel ha goes beyond he narrow ego and he ordinary sel (wih a small S). Naess hus seems o play down he 'spiriual' inerpreaion — God is hardly menioned — and is scepical o a mysical oneness. Wha we have o do, he wries, is o walk a difficul ridge: 'o he le we have he ocean o organic and mysic views, o he righ he abyss o aomic individualism' (p. 165).
 
@@ -469,301 +474,302 @@ Te Hisory and Changing Meaning o he Apple as a Culivaed Frui; Changing Atiudes o
 
 ### 1. Introdution
 
-Te Apple perhaps more han any oher rui has been inimaely bound up wih humans. Toreau called he Apple ree 'he mos civilised o all rees' being longer culivaed han any oher and so more humanised.<sup>1</sup> Tis relaionship has been shown in many ways. In Ancien culures, such as he Greeks, Romans, and Cels, he Apple was he source o much olklore, magic and symbolism, which refleced he values and worldview o he culures hemselves.
+Te Apple perhaps more han any oher rui has been inimaely bound up wih humans. Toreau called he Apple ree 'he mos civilised o all rees' being longer culivaed han any oher and so more humanised.1 Tis relaionship has been shown in many ways. In Ancien culures, such as he Greeks, Romans, and Cels, he Apple was he source o much olklore, magic and symbolism, which refleced he values and worldview o he culures hemselves.
 
-As human sociey has changed, so oo has he relaionship beween humans and naure, in his sense hisorical and culural change leads o ecological and social change,<sup>2</sup> and hese changes can be seen in he way ha ruis and oher crops are grown. In his way he Apple is used here parly as a meaphor or naure as a whole.
+As human sociey has changed, so oo has he relaionship beween humans and naure, in his sense hisorical and culural change leads o ecological and social change,2 and hese changes can be seen in he way ha ruis and oher crops are grown. In his way he Apple is used here parly as a meaphor or naure as a whole.
 
 Te changes o he oureenh cenury onwards, he rise o capialism, he scienific revoluion and he usion o science and capialism has aken he Apple rom a rui imbued wih spiriual and symbolic meaning — he rui o healh and immoraliy — o a rui given only a single uncion, ha o producion o profi and a rui eared because o he chemicals ha are applied o i. Now geneic engineering promises o make he Apple almos unrecognisable as a ree, in he drive o increase producion, sandardisaion and remove labour coss.
 
 Te old symbolism has no compleely gone however, insead i oo has been commodified and now adorns he 'indusries o he new age', Apple Compuers being bu one example.
 
-In hese ways capialism has separaed us rom he source and knowledge o producion o essenials such as ood, we are encouraged o rus he expers who are moivaed mainly by profis<sup>3</sup> and we are learning ha we should no. Wihou such knowledge o producion or ood, no moral responsibiliy or social and environmenal consequences o one's decisions o wha o buy seems possible.<sup>4</sup>
+In hese ways capialism has separaed us rom he source and knowledge o producion o essenials such as ood, we are encouraged o rus he expers who are moivaed mainly by profis3 and we are learning ha we should no. Wihou such knowledge o producion or ood, no moral responsibiliy or social and environmenal consequences o one's decisions o wha o buy seems possible.4
 
 Alernaives do exis, and ways o breaking ou o his impersonal, morally irresponsible sys em, o bring he knowledge and meaning o ood producion and naure back ino our lives, can and mus be ound. Tese canno be separaed rom wider poliical realiies however, nor should
 
-<sup>1</sup> Sinden, Neil — 'Orchards and Places' in Orchards: A Guide o Local Conservaion Common Ground 1989 p1O.
+1 Sinden, Neil — 'Orchards and Places' in Orchards: A Guide o Local Conservaion Common Ground 1989 p1O.
 
-<sup>2</sup> Merchan, Carolyn — Te Deah o Naure: Women, Ecology and he Scienific Revoluion London Wildwood House 1982 p43.
+2 Merchan, Carolyn — Te Deah o Naure: Women, Ecology and he Scienific Revoluion London Wildwood House 1982 p43.
 
-<sup>3</sup> Cluterbuck, C and Lang, — More Tan We Can Chew: Te Crazy World o Food and Farming Pluo Press 1982 p66. 4 isdell, C A — Environmenal Conservaion: Economics, Ecology and Ehics, Environmenal Conservaion Vol 16 No 2 Summer 1989 p107.
+3 Cluterbuck, C and Lang, — More Tan We Can Chew: Te Crazy World o Food and Farming Pluo Press 1982 p66. 4 isdell, C A — Environmenal Conservaion: Economics, Ecology and Ehics, Environmenal Conservaion Vol 16 No 2 Summer 1989 p107.
 
 it be seen that to go back to some mythical golden age is the answer. But we can learn from the past by seeing what has been and what has gone wrong and look to a future to see what can be.
 
 #### 2. Fruit Cultivation: Myth, Magic and Folksymbols
 
-In the essential prose of things, the Apple Tree stands up, emphatic among the accidents of the afternoon, solvent not to be denied.<sup>5</sup>
+In the essential prose of things, the Apple Tree stands up, emphatic among the accidents of the afternoon, solvent not to be denied.5
 
-Wild fruits have probably always been collected by humans and still are, the Apple was particularly valued for its nutritional and storable qualities, and because it can be dried and kept over winter. Cultivation of the Apple probably dates back to the Stone Age<sup>7</sup> and most likely began in the area of the Caucasus and Northern India where forests of wild Apples are found. The Apple was cultivated in Egypt in the twelfth century BC and the Greeks and Romans were also adept at grafting and propagation of Apple trees. The Roman Palladius wrote of thirty-seven varieties in the fourth century BC.
+Wild fruits have probably always been collected by humans and still are, the Apple was particularly valued for its nutritional and storable qualities, and because it can be dried and kept over winter. Cultivation of the Apple probably dates back to the Stone Age7 and most likely began in the area of the Caucasus and Northern India where forests of wild Apples are found. The Apple was cultivated in Egypt in the twelfth century BC and the Greeks and Romans were also adept at grafting and propagation of Apple trees. The Roman Palladius wrote of thirty-seven varieties in the fourth century BC.
 
 It is not known whether the Apple was cultivated in Britain before the Romans invaded, though the crab apple (*Malus sylvestris*) is native and was highly valued by the Celts. The Romans did introduce their own form of fruit cultivation but after they left little is known of fruit growing in Britain until the Norman invasion apart from a few scattered references to orchards in Monasteries. There is only one reference to an orchard in the Domesday book; however it is thought that this reflects the commonplace nature of fruit growing on an individual basis rather than as a co-operative pursuit. 10
 
-Trees have played an important part in the spiritual history of most cultures and trees bearing life-foods were always sacred.<sup>11</sup> It is probable that humans in an early stage of civilisation, living a hard life close to nature, constructed no definite philosophy of life that could explain all the phenomena or workings of nature with which they came into contact. Their 'rude' science thus explained itself largely in satisfying their simple wants and needs in warding off dangers and appeasing the wrath of evil powers.<sup>12</sup> In such communities the natural world was viewed in anthropomorphic terms, spirits permeated matter, such that the earth was seen as animate,<sup>13</sup> a living organism and nurturing mother, and this view served as a cultural constraint restricting the exploitative action of humans.<sup>14</sup> Within such a cosmology, nothing was seen as isolated and apart, but in its relation to the whole of life, of which each object formed an integral part.<sup>15</sup>
+Trees have played an important part in the spiritual history of most cultures and trees bearing life-foods were always sacred.11 It is probable that humans in an early stage of civilisation, living a hard life close to nature, constructed no definite philosophy of life that could explain all the phenomena or workings of nature with which they came into contact. Their 'rude' science thus explained itself largely in satisfying their simple wants and needs in warding off dangers and appeasing the wrath of evil powers.12 In such communities the natural world was viewed in anthropomorphic terms, spirits permeated matter, such that the earth was seen as animate,13 a living organism and nurturing mother, and this view served as a cultural constraint restricting the exploitative action of humans.14 Within such a cosmology, nothing was seen as isolated and apart, but in its relation to the whole of life, of which each object formed an integral part.15
 
-<sup>&</sup>lt;sup>5</sup>Berry Wendell — *The Broken Ground* Cape 1966 p31.
+&lt;sup>5Berry Wendell — *The Broken Ground* Cape 1966 p31.
 
-<sup>&</sup>lt;sup>6</sup>Hills L D − *Grow Your Own Fruit and Vegetables* Faber and Faber 1974 p203.
+&lt;sup>6Hills L D − *Grow Your Own Fruit and Vegetables* Faber and Faber 1974 p203.
 
-<sup>&</sup>lt;sup>7</sup>Bianchini F et al — *The Complete Book of Fruits and Vegetables* New York Crown 1975 **pi 26**.
+&lt;sup>7Bianchini F et al — *The Complete Book of Fruits and Vegetables* New York Crown 1975 **pi 26**.
 
-<sup>&</sup>lt;sup>8</sup>Walters AH — Ecology, Food and Civilisation: An Ecological History of Human Society London Knight 1973 p20.
+&lt;sup>8Walters AH — Ecology, Food and Civilisation: An Ecological History of Human Society London Knight 1973 p20.
 
-<sup>&</sup>lt;sup>9</sup>Greenoak F — *Forgotten Fruit* Andre Deutsch 1983 p3.
+&lt;sup>9Greenoak F — *Forgotten Fruit* Andre Deutsch 1983 p3.
 
-<sup>&</sup>lt;sup>10</sup>Weldon — Finn, R — *The Domesday Book: A Guide* Sussex Phillimore and Co 1973 p59.
+&lt;sup>10Weldon — Finn, R — *The Domesday Book: A Guide* Sussex Phillimore and Co 1973 p59.
 
-<sup>&</sup>lt;sup>11</sup>Cooper J C — An Illustrated Encyclopaedia of Traditional Symbols Thames and Hudson 1978 p176.
+&lt;sup>11Cooper J C — An Illustrated Encyclopaedia of Traditional Symbols Thames and Hudson 1978 p176.
 
-$<sup>^{12}\</sup>mathrm{Hull},$ Eleanor — Folklore of the British Isles London Methuen 1928 p22.
+$^{12}\mathrm{Hull},$ Eleanor — Folklore of the British Isles London Methuen 1928 p22.
 
-$<sup>^{13}\</sup>mathrm{Morris}$ , B — Changing View of Nature *The Ecologist* Vol 11(3) 1981 p131.
+$^{13}\mathrm{Morris}$ , B — Changing View of Nature *The Ecologist* Vol 11(3) 1981 p131.
 
-$<sup>^{14}</sup>$ Merchant, C – *Op Cit* p3.
+$^{14}$ Merchant, C – *Op Cit* p3.
 
-<sup>&</sup>lt;sup>15</sup>Hull, Eleanor – *Op Cit* p240.
+&lt;sup>15Hull, Eleanor – *Op Cit* p240.
 
-Thus, everyday things were invested with a deep symbolism or cosmological significance.<sup>16</sup> This paganism or animism was to some extent incorporated within Christianity when it arrived in Europe and Britain, but a marked shift did occur with nature being seen as man's (sic) dominion and thus separate from nature.
+Thus, everyday things were invested with a deep symbolism or cosmological significance.16 This paganism or animism was to some extent incorporated within Christianity when it arrived in Europe and Britain, but a marked shift did occur with nature being seen as man's (sic) dominion and thus separate from nature.
 
-One of the most widely known mentions of the Apple in myth is the Christian story of the Garden of Eden in which Adam and Eve partake of the Fruit of the Tree of Knowledge of Good and Evil, which is most commonly seen as the Apple, <sup>17</sup> and are then cast out of the Garden of Innocence by God into the world of experience. Russell has interpreted this myth, along with similar other ones from other cultures along with anthropological studies of societies in Papua New Guinea, as being connected with Kinship. She arrives at some significant conclusions in connection with fruit trees:
+One of the most widely known mentions of the Apple in myth is the Christian story of the Garden of Eden in which Adam and Eve partake of the Fruit of the Tree of Knowledge of Good and Evil, which is most commonly seen as the Apple, 17 and are then cast out of the Garden of Innocence by God into the world of experience. Russell has interpreted this myth, along with similar other ones from other cultures along with anthropological studies of societies in Papua New Guinea, as being connected with Kinship. She arrives at some significant conclusions in connection with fruit trees:
 
 From evidence about modern societies that practice simple farming, I was able to show that the Fruit tree is the oldest form of property fixed to a place, and the theft of fruit the oldest form of crime in farming societies (the original sin). Moreover, since Fruit trees may last more than a generation, the fruit tree is the oldest form of heritable fixed property. Since it is important that fruit trees be cared for, it becomes important to control and certify kinship succession. Hence the fruit tree gives rise to the family tree. At this stage of cultural evolution, to ensure regular kinship succession, mating regulations begin to be connected with property. 18
 
-Thus, in Eden mating regulations are broken, the Tree of Life may be said to represent stable succession of inheritance (immortality), which ensures a kind of eternal life and renewal for the trees and those who succeed in tending them. The story of Eden may therefore be telling of the expulsion of groups who infringed the rules of mating.<sup>19</sup>
+Thus, in Eden mating regulations are broken, the Tree of Life may be said to represent stable succession of inheritance (immortality), which ensures a kind of eternal life and renewal for the trees and those who succeed in tending them. The story of Eden may therefore be telling of the expulsion of groups who infringed the rules of mating.19
 
-As the classical symbol of youth and renewal the Apple naturally rated high in Greek mythology. The Apple was a bridal symbol and offering, sacred to Venus as love and desire.<sup>20</sup> The Apple being round in shape, like many fruits, represents totality and unity and is sacred to Apollo the Sun god<sup>21</sup> (*Ibid*), while the Temple of Artemis was within an orchard.<sup>22</sup>
+As the classical symbol of youth and renewal the Apple naturally rated high in Greek mythology. The Apple was a bridal symbol and offering, sacred to Venus as love and desire.20 The Apple being round in shape, like many fruits, represents totality and unity and is sacred to Apollo the Sun god21 (*Ibid*), while the Temple of Artemis was within an orchard.22
 
-In Celtic mythology, the Apple was one of the central life trees of the Gaelic elysium,<sup>23</sup> seen as the Silver Bough, it has magic and cthonic powers, it is the emblem of security,<sup>24</sup> immortality and the fruit of the other world:
+In Celtic mythology, the Apple was one of the central life trees of the Gaelic elysium,23 seen as the Silver Bough, it has magic and cthonic powers, it is the emblem of security,24 immortality and the fruit of the other world:
 
-The Apple was the talisman which led him into the world of the immortals and fed him with the fruit of life and everlasting happiness.<sup>25</sup>
+The Apple was the talisman which led him into the world of the immortals and fed him with the fruit of life and everlasting happiness.25
 
-$<sup>^{16}</sup>$ Morris, B — *Op Cit* p131.
+$^{16}$ Morris, B — *Op Cit* p131.
 
-$<sup>^{17}</sup>$ Douglas J D (Editor) — *The New Bible Dictionary* Intervarsity Press 1962 p50.
+$^{17}$ Douglas J D (Editor) — *The New Bible Dictionary* Intervarsity Press 1962 p50.
 
-<sup>&</sup>lt;sup>18</sup>Russell, Claire — The Life Tree and the Death Tree *Folklore* Vol 92(i) 1981 p56.
+&lt;sup>18Russell, Claire — The Life Tree and the Death Tree *Folklore* Vol 92(i) 1981 p56.
 
-<sup>&</sup>lt;sup>19</sup>*Ibid* p56-7.
+&lt;sup>19*Ibid* p56-7.
 
-$<sup>^{20}</sup>$ Cooper, J C - *Op Cit* p14.
+$^{20}$ Cooper, J C - *Op Cit* p14.
 
-<sup>21</sup> Ibid.
+21 Ibid.
 
-$<sup>^{22}</sup>$ Fräser, J $\mathrm{G}-\mathit{The}$ Golden Bough Abridged Edition Mac Millan 1949
+$^{22}$ Fräser, J $\mathrm{G}-\mathit{The}$ Golden Bough Abridged Edition Mac Millan 1949
 
-$<sup>^{23}</sup>$ Hull, E – *Op Cit* p22.
+$^{23}$ Hull, E – *Op Cit* p22.
 
-<sup>&</sup>lt;sup>24</sup>Graves, Robert – *The White Goddess* 3<sup>rd</sup> edition Faber and Faber 1952 p42.
+&lt;sup>24Graves, Robert – *The White Goddess* 3rd edition Faber and Faber 1952 p42.
 
-$<sup>^{25}</sup>$ Hull, E - *Op Cit* p240.
+$^{25}$ Hull, E - *Op Cit* p240.
 
 The Druids planted Apple trees in sacred places for their fruit and as harbours for mistletoe which was also sacred to them. Hallowe'en is the Celtic Apple festival which marks the celebration of the beginning of winter and death of the old year — on the eve of November 1st. This was also the eve of New Year's Day in Anglo-Saxon times and this date was also dedicated to the spirit which presides over fruit and seeds. The date was also dedicated to the spirit which presides over fruit and seeds.
 
-On Twelfth night, which has absorbed many early hallowe'en customs many folkrites were also carried out by people in orchards. One such is Apple Wassailing which took place in Cornwall, Devon and Somerset. On this night parishioners walk in procession visiting the main orchards in the parish. In each orchard one tree is selected and saluted with an incantation, the tree is then sprinkled with cider to ensure it bears plentifully the ensuing year. Implements are then banged to drive out evil spirits and arouse the tree spirits. 'Hail to thee, good Apple tree, pocket-fulls, hat-fulls, peck-fulls, bushel-bag fulls' goes one version of this Wassailing chorus. Afterwards vast quantities of cider are consumed.<sup>28</sup> The Apple was also associated in many cultures with health and healing; King Arthur's grievous wound was treated in the Vale of Avalon, the Apple Vale of Celtic myth.<sup>29</sup> Fruit Trees were also planted in many places upon the birth of a new child and the health of the tree was thought to reflect that of the child.<sup>30</sup>
+On Twelfth night, which has absorbed many early hallowe'en customs many folkrites were also carried out by people in orchards. One such is Apple Wassailing which took place in Cornwall, Devon and Somerset. On this night parishioners walk in procession visiting the main orchards in the parish. In each orchard one tree is selected and saluted with an incantation, the tree is then sprinkled with cider to ensure it bears plentifully the ensuing year. Implements are then banged to drive out evil spirits and arouse the tree spirits. 'Hail to thee, good Apple tree, pocket-fulls, hat-fulls, peck-fulls, bushel-bag fulls' goes one version of this Wassailing chorus. Afterwards vast quantities of cider are consumed.28 The Apple was also associated in many cultures with health and healing; King Arthur's grievous wound was treated in the Vale of Avalon, the Apple Vale of Celtic myth.29 Fruit Trees were also planted in many places upon the birth of a new child and the health of the tree was thought to reflect that of the child.30
 
 Another famous myth has it that one day while sitting in an orchard an apple fell and hit Isaac Newton (the 'father' of modern physics) upon the head and that this gave him the inspiration for his Law of Gravity. The irony of this story is that Newton was one of the most important formulators of the mechanistic view of nature. In conjunction with, and to some extent as a result of, the increased exploitation of the earth under early capitalism, this new paradigm of scientific thought eroded the view of nature as being in a generalised sense female, alive and responsive to human action and acting as a normative restraint on human exploitation. The new Mechanistic Theories and Capitalism, morally underpinned by Contemporary Christian Theology, replaced this with a view of nature as an inanimate, dead, physical system over which 'man' (sic) had dominion. This, as we shall see, had far reaching effects in the way humans exploit nature.
 
 ### 3. The Apple and the Rising Market System
 
-The transformation from Feudalism to Capitalism set in motion a number of changes which eventually affected every form of life in western societies. When we look at these historical changes in human impact on the system as a whole, we can see that historical change becomes ecological change due to the '...dynamic interactions of the natural and cultural subsystems'.<sup>31</sup>
+The transformation from Feudalism to Capitalism set in motion a number of changes which eventually affected every form of life in western societies. When we look at these historical changes in human impact on the system as a whole, we can see that historical change becomes ecological change due to the '...dynamic interactions of the natural and cultural subsystems'.31
 
 The main factor in the transformation of the early modern period was the growth in the market system for food production and other goods, such as wool, based on property rights and exchanges in land and money. This, along with population increases and urbanisation, advances in agricultural improvement and the growth of rural industry, gradually broke down communal
 
-$<sup>^{26}</sup>$ Roach, F A — *Cultivated Fruits of Britain* Blackwell 1985 p100.
+$^{26}$ Roach, F A — *Cultivated Fruits of Britain* Blackwell 1985 p100.
 
-$<sup>^{27}</sup>$ Hull, E – *Op Cit* p227 and p240.
+$^{27}$ Hull, E – *Op Cit* p227 and p240.
 
-<sup>&</sup>lt;sup>28</sup>Wicks, J H — *Trees of the British Isle in History and Legend Essex* Anchor Press 1972 pi 22.
+&lt;sup>28Wicks, J H — *Trees of the British Isle in History and Legend Essex* Anchor Press 1972 pi 22.
 
 Courtney, M A — Cornish Feasts and Folklore Yorkshire E P Publishing 1973 p9.
 
-$<sup>^{29}</sup>$ Wicks, J H - *Op Cit* p122.
+$^{29}$ Wicks, J H - *Op Cit* p122.
 
-$<sup>^{30}</sup>$ Fräser, J G – *Op Cit* p682.
+$^{30}$ Fräser, J G – *Op Cit* p682.
 
-$<sup>^{31}</sup>$ Merchant, C – *Op Cit* p43.
+$^{31}$ Merchant, C – *Op Cit* p43.
 
-farming practices that were part of the feudal system.<sup>32</sup> People's experiences of an increasingly manipulated nature also undermined the organic worldview and made way for the mechanistic model which reinforced and accelerated the exploitation of nature and human beings as resources.<sup>33</sup> While the spreading use of money facilitated open-ended accumulation of capital as opposed to the somewhat more limited feudal aim of production for consumption (including conspicuous consumption).<sup>34</sup> In these ways (and others) production for subsistence was replaced by rationally maximising modes of economic organisation for the market.
+farming practices that were part of the feudal system.32 People's experiences of an increasingly manipulated nature also undermined the organic worldview and made way for the mechanistic model which reinforced and accelerated the exploitation of nature and human beings as resources.33 While the spreading use of money facilitated open-ended accumulation of capital as opposed to the somewhat more limited feudal aim of production for consumption (including conspicuous consumption).34 In these ways (and others) production for subsistence was replaced by rationally maximising modes of economic organisation for the market.
 
-The tendency towards growth, expansion and accumulation in Capitalism led to continued displacement of subsistence farmers, <sup>35</sup> the growth of waged labour and the bringing into cultivation of new lands by improvement and reclamation as well as by enclosure of common lands. <sup>36</sup> This process was aided by new books in the sixteenth and seventeenth centuries on agricultural improvements (in a scientific sense) and in the case of fruit, instructions on ordering, grafting and propagation. <sup>37</sup>
+The tendency towards growth, expansion and accumulation in Capitalism led to continued displacement of subsistence farmers, 35 the growth of waged labour and the bringing into cultivation of new lands by improvement and reclamation as well as by enclosure of common lands. 36 This process was aided by new books in the sixteenth and seventeenth centuries on agricultural improvements (in a scientific sense) and in the case of fruit, instructions on ordering, grafting and propagation. 37
 
 These early changes were essentially focussed around London being the largest urban market and in this it is worth remembering the words of Hughes:
 
-It is significant that the first urban societies were also the first societies to abandon a religious attitude of oneness with nature and to adopt one of separation.<sup>38</sup>
+It is significant that the first urban societies were also the first societies to abandon a religious attitude of oneness with nature and to adopt one of separation.38
 
 #### 4. Transformations in Fruit Cultivation
 
-Norman London, according to a contemporary account, was full of citizens gardens and orchards. All the main monasteries, encouraged to be self-sufficient since the time of St Benedict, <sup>39</sup> at Whitefriars, Blackfriars, Charterhouse and Holborn had their own gardens in which fruit was grown. <sup>40</sup> In the thirteenth century fruit was extensively grown in the Royal Gardens at Tower Hill and Westminster. <sup>41</sup> But fruit growing was not confined to the rich and monastic orders, though few records survive of peasant cultivation, Langland in *Piers Ploughman* of 1362 mentions that the poor ate baked apples and cherries. <sup>42</sup>
+Norman London, according to a contemporary account, was full of citizens gardens and orchards. All the main monasteries, encouraged to be self-sufficient since the time of St Benedict, 39 at Whitefriars, Blackfriars, Charterhouse and Holborn had their own gardens in which fruit was grown. 40 In the thirteenth century fruit was extensively grown in the Royal Gardens at Tower Hill and Westminster. 41 But fruit growing was not confined to the rich and monastic orders, though few records survive of peasant cultivation, Langland in *Piers Ploughman* of 1362 mentions that the poor ate baked apples and cherries. 42
 
-Surplus fruits from the monasteries and Royal gardens, and from the Manor farming systems were sold at the 'Market Cross' at this time and this sale of fruit and other crops became so profitable that the system of renting gardens and orchards to grow especially for market became established.<sup>43</sup> This market gardening first developed in and around London in the late thirteenth and fourteenth centuries.<sup>44</sup>
+Surplus fruits from the monasteries and Royal gardens, and from the Manor farming systems were sold at the 'Market Cross' at this time and this sale of fruit and other crops became so profitable that the system of renting gardens and orchards to grow especially for market became established.43 This market gardening first developed in and around London in the late thirteenth and fourteenth centuries.44
 
-<sup>&</sup>lt;sup>32</sup> *Ibid* p78.
+&lt;sup>32 *Ibid* p78.
 
-<sup>&</sup>lt;sup>33</sup>*Ibid* p43.
+&lt;sup>33*Ibid* p43.
 
-<sup>&</sup>lt;sup>34</sup>Harman, C — From Feudalism to Capitalism *International Socialism* 45 Winter 1989 (p35-88) p37.
+&lt;sup>34Harman, C — From Feudalism to Capitalism *International Socialism* 45 Winter 1989 (p35-88) p37.
 
-$<sup>^{35}</sup>$ Merchant, C — *Op Cit* p52.
+$^{35}$ Merchant, C — *Op Cit* p52.
 
-<sup>&</sup>lt;sup>36</sup>Thomas, Keith — *Man and the Natural World: Changing Attitudes in England 1500–1800* Allen Lane 1983 p253.
+&lt;sup>36Thomas, Keith — *Man and the Natural World: Changing Attitudes in England 1500–1800* Allen Lane 1983 p253.
 
-$<sup>^{37}</sup>$ Roach, F A - *Op Cit* p34.
+$^{37}$ Roach, F A - *Op Cit* p34.
 
-<sup>&</sup>lt;sup>38</sup> Hughes, J Donald — *Ecology in Ancient Civilisations* Univ of New Mexico USA p29.
+&lt;sup>38 Hughes, J Donald — *Ecology in Ancient Civilisations* Univ of New Mexico USA p29.
 
-$<sup>^{39}</sup>$ Greenoak, F — *Op Cit* p3.
+$^{39}$ Greenoak, F — *Op Cit* p3.
 
-<sup>&</sup>lt;sup>40</sup>Talbot-White, J — *Country London* Routledge and Kegan Paul 1984 p2I.
+&lt;sup>40Talbot-White, J — *Country London* Routledge and Kegan Paul 1984 p2I.
 
-$<sup>^{41}</sup>$ Roach, F A - Op Cit p22.
+$^{41}$ Roach, F A - Op Cit p22.
 
-$<sup>^{42}</sup>$ Ibid p22.
+$^{42}$ Ibid p22.
 
-<sup>&</sup>lt;sup>43</sup>*Ibid* p24.
+&lt;sup>43*Ibid* p24.
 
-<sup>&</sup>lt;sup>44</sup>Robinson, G M — *Agricultural Change* Edinburgh North British Pub. 1988 p96.
+&lt;sup>44Robinson, G M — *Agricultural Change* Edinburgh North British Pub. 1988 p96.
 
 Cantor states that because this was a small-scale affair it was well suited to peasants with plenty of family labour, producing vegetables in beds separated by fruit trees and supplemented by produce from communal fields. By 1650 however, a class of wealthy market gardeners emerged who acquired larger holdings and whose soil they improved with fertilisers and employed wage earners of displaced peasants to work them. Specialised fruit production was already well established in Kent by the end of the fifteenth century also supplying the markets of London. Jordan states that this required very heavy and certainly very profitable capital outlay.
 
-Herefordshire, Worcestershire, Somerset and Devon were also becoming main fruit growing areas, tending to focus more on cider production due to poorer transport and smaller markets. <sup>47</sup> Each of these areas had their own local varieties such as Cornish Aromatic, Hereford Pearmain, Flower of Kent and Devonshire Quarrenden, as well as growing more widespread varieties such as Golden Pippin.
+Herefordshire, Worcestershire, Somerset and Devon were also becoming main fruit growing areas, tending to focus more on cider production due to poorer transport and smaller markets. 47 Each of these areas had their own local varieties such as Cornish Aromatic, Hereford Pearmain, Flower of Kent and Devonshire Quarrenden, as well as growing more widespread varieties such as Golden Pippin.
 
 Until the sixteenth century fruit growing in Britain had changed little from how it was undertaken in Greek or Roman times, apart from becoming somewhat more intensive. However, at this time new developments came about which signalled the move towards increasing economic rationalisation.
 
-The first of these was the introduction of dwarfing rootstocks from France, called 'Paradise'. These enabled more trees to be planted in an area than before. Legendre, in his book *The Manner of Ordering Fruit Trees* (translated in 1660) suggested these should be spaced 6–9 feet apart, instead of the 18–24 feet for trees on seedlings. <sup>48</sup> This practice of dwarfing trees prevented the undercropping of other plants beneath the trees which had previously been widespread and marks the beginning of the transformation of the Apple tree to fit economic 'needs' of humans.
+The first of these was the introduction of dwarfing rootstocks from France, called 'Paradise'. These enabled more trees to be planted in an area than before. Legendre, in his book *The Manner of Ordering Fruit Trees* (translated in 1660) suggested these should be spaced 6–9 feet apart, instead of the 18–24 feet for trees on seedlings. 48 This practice of dwarfing trees prevented the undercropping of other plants beneath the trees which had previously been widespread and marks the beginning of the transformation of the Apple tree to fit economic 'needs' of humans.
 
 The developing mechanistic worldview, which saw nature as disorder and cultivation as the imposition of human order was distinguished by increasingly regular planting forms and monocultures, and an increasing admiration of it. None was more admired than the Quincunx, the old Roman way of setting out an orchard. Thus, in the time of Henry VIII, Richard Harris planted over 100 acres of fruit trees at Teynham, Kent: 'So beautifully as they not only stand in most right lines, but seem to be of one sort, shape and fashion'.
 
 Increased planting of orchards continued in the eighteenth century, supplied by many new nurseries especially around London. However, the increased acreage of orchards and the monocultural system began to have adverse side-effects by the late eighteenth century, with large-scale devastation by pests and diseases, as a result of the disruption of ecosystem balances. Canker and Woolly Aphid — introduced on dwarfing rootstocks — became rife, fruit quality and yields became very poor. These problems led to more attention being given to possible remedies by the likes of the newly-formed Royal Horticultural Society, rather than any basic questioning of their causes.
 
-<sup>&</sup>lt;sup>45</sup>Cantor, Leonard — *The Changing English Countryside 1400–1700* Routledge and Kegan Paul 1987 p56.
+&lt;sup>45Cantor, Leonard — *The Changing English Countryside 1400–1700* Routledge and Kegan Paul 1987 p56.
 
-<sup>&</sup>lt;sup>46</sup>Jordan, W K — Social Institutions in Kent 1480–1660: A Study of the Changing Patterns of Social Aspirations in Roake, M and Whyman, J (editors) — Essays in Kentish History London Frank Cass 1973 p85.
+&lt;sup>46Jordan, W K — Social Institutions in Kent 1480–1660: A Study of the Changing Patterns of Social Aspirations in Roake, M and Whyman, J (editors) — Essays in Kentish History London Frank Cass 1973 p85.
 
-<sup>&</sup>lt;sup>47</sup>Roach, F A - Op Cit p48.
+&lt;sup>47Roach, F A - Op Cit p48.
 
-<sup>&</sup>lt;sup>48</sup>*Ibid* p91.
+&lt;sup>48*Ibid* p91.
 
-$<sup>^{49}</sup>$ Thomas, Keith — *Op Cit* p256.
+$^{49}$ Thomas, Keith — *Op Cit* p256.
 
-## <sup>&</sup>lt;sup>50</sup> *Ibid* p256
+## &lt;sup>50 *Ibid* p256
 
-<sup>&</sup>lt;sup>51</sup>Roach, F A − *Op Cit* p59
+&lt;sup>51Roach, F A − *Op Cit* p59
 
-By the middle of the eighteenth century, English agriculture was well on the way to becoming a fully commercial activity, organised and administered according to the needs of the market,<sup>52</sup> and dominated by the triple divisions into landlords, tenant farmers and hired labourers.<sup>53</sup>
+By the middle of the eighteenth century, English agriculture was well on the way to becoming a fully commercial activity, organised and administered according to the needs of the market,52 and dominated by the triple divisions into landlords, tenant farmers and hired labourers.53
 
-In the nineteenth century few new developments came about in fruit cultivation. However, fruit growing continued to intensify under the influence of rapid population growth and urbanisation, increasing per capita incomes, cheaper transport costs and more integrated markets. At the same time French imports of Apples and high sugar prices caused periodic contractions in cultivation.<sup>54</sup> At this time many Apple varieties grown today were introduced, these often having arisen as chance seedlings, Bramleys Seedling, Cox's Orange Pippin, and Worcester Pearmain being examples.<sup>55</sup> The next set of new developments in fruit cultivation did not come about until the early twentieth century with the integration of science into commercial fruit production.
+In the nineteenth century few new developments came about in fruit cultivation. However, fruit growing continued to intensify under the influence of rapid population growth and urbanisation, increasing per capita incomes, cheaper transport costs and more integrated markets. At the same time French imports of Apples and high sugar prices caused periodic contractions in cultivation.54 At this time many Apple varieties grown today were introduced, these often having arisen as chance seedlings, Bramleys Seedling, Cox's Orange Pippin, and Worcester Pearmain being examples.55 The next set of new developments in fruit cultivation did not come about until the early twentieth century with the integration of science into commercial fruit production.
 
 #### 5. The Apple as a Machine
 
-Most developments and improvements in fruit cultivation before the twentieth century came from individual growers and gardeners, amateur 'Scientists' and particularly in the nineteenth century from commercial nurseries such as Laxtons of Bedford.<sup>56</sup> By the early twentieth century however, research into new varieties by nurseries was largely given up as the new scientific research stations, financed by growers and government took a leading role<sup>57</sup> and a more scientific management of commercial orchards came into being.
+Most developments and improvements in fruit cultivation before the twentieth century came from individual growers and gardeners, amateur 'Scientists' and particularly in the nineteenth century from commercial nurseries such as Laxtons of Bedford.56 By the early twentieth century however, research into new varieties by nurseries was largely given up as the new scientific research stations, financed by growers and government took a leading role57 and a more scientific management of commercial orchards came into being.
 
-The setting up of Fruit Research stations, principally those at Long Ashton, Bristol in 1903 (initially as the Cider Institute) and East Mailing, Kent in 1913, can be seen as part of the more general 'scientific-technical revolution', in which science became directly organised and dominated by capitalist institutions and was placed at the centre of production.<sup>58</sup> This process of integration is described by Braverman:
+The setting up of Fruit Research stations, principally those at Long Ashton, Bristol in 1903 (initially as the Cider Institute) and East Mailing, Kent in 1913, can be seen as part of the more general 'scientific-technical revolution', in which science became directly organised and dominated by capitalist institutions and was placed at the centre of production.58 This process of integration is described by Braverman:
 
-Science is the last — and after labour the most important — social property to be turned into an adjunct of capital... At first science costs the capitalist nothing, since he merely exploits the accumulated knowledge of the physical sciences, but later the capitalist systematically organises and harnesses science, paying for scientific education, research, laboratories etc, out of the huge surplus social product which either belongs directly to him or which the capitalist class as a whole controls in the form of tax revenues. A formerly relatively free-floating social endeavour is integrated into production and the market.<sup>59</sup>
+Science is the last — and after labour the most important — social property to be turned into an adjunct of capital... At first science costs the capitalist nothing, since he merely exploits the accumulated knowledge of the physical sciences, but later the capitalist systematically organises and harnesses science, paying for scientific education, research, laboratories etc, out of the huge surplus social product which either belongs directly to him or which the capitalist class as a whole controls in the form of tax revenues. A formerly relatively free-floating social endeavour is integrated into production and the market.59
 
 The mechanistic philosophy and reductionist method of science harmonised well with the expanding capitalist system into a rationalised system of scientific management, in which the most efficient, scientifically and logically based means are sought to achieve pre-determined capitalist
 
-$<sup>^{52}</sup>$ Newby, Howard — Country Life: A Social History of Rural England Cardinal 1987 p6.
+$^{52}$ Newby, Howard — Country Life: A Social History of Rural England Cardinal 1987 p6.
 
-$<sup>^{53}</sup>$ Hobsbawm, E J & Rude, G — Captain Swing Norton and Co 1968 p 27.
+$^{53}$ Hobsbawm, E J & Rude, G — Captain Swing Norton and Co 1968 p 27.
 
-<sup>&</sup>lt;sup>54</sup>Harvey, David — Fruit Growing in Kent in the Nineteenth Century in Essays in Kentish History Op Cit p214-6.
+&lt;sup>54Harvey, David — Fruit Growing in Kent in the Nineteenth Century in Essays in Kentish History Op Cit p214-6.
 
-<sup>&</sup>lt;sup>55</sup>Roach, F A - Op Cit p95.
+&lt;sup>55Roach, F A - Op Cit p95.
 
-$<sup>^{56}</sup>Ibid$ p65.
+$^{56}Ibid$ p65.
 
-<sup>&</sup>lt;sup>57</sup> *Ibid* p69-72.
+&lt;sup>57 *Ibid* p69-72.
 
-$<sup>^{58}</sup>$ Braverman, Harry — Labor and Monopoly Capital London Monthly Review Press 1964 pi 56.
+$^{58}$ Braverman, Harry — Labor and Monopoly Capital London Monthly Review Press 1964 pi 56.
 
-<sup>&</sup>lt;sup>59</sup> *Ibid* p256.
+&lt;sup>59 *Ibid* p256.
 
 ends. $^{60}$ Thus, in the scientific-technical revolution, scientific management sets itself the problem of grasping the process of production as a whole and controlling every element of it, without exception. As H. L. Gantt wrote:
 
-Improving the system of management means the elimination of elements of chance or accident and the accomplishment of all the ends desired in accordance with knowledge derived from a scientific investigation of everything down to the smallest details of labour.<sup>61</sup>
+Improving the system of management means the elimination of elements of chance or accident and the accomplishment of all the ends desired in accordance with knowledge derived from a scientific investigation of everything down to the smallest details of labour.61
 
-The result of this approach is that commercial fruit production has been revolutionised and has followed the precepts of rationalisation apparent in other industries and agricultural sectors. Fruit growers have become ever more specialised, landholdings have become bigger, more capital intensive and more incorporated into sectors of the chemical, engineering and food processing industries.<sup>62</sup>
+The result of this approach is that commercial fruit production has been revolutionised and has followed the precepts of rationalisation apparent in other industries and agricultural sectors. Fruit growers have become ever more specialised, landholdings have become bigger, more capital intensive and more incorporated into sectors of the chemical, engineering and food processing industries.62
 
-These developments have been made possible by the scientific investigations of the fruit research stations, much of it sponsored by companies such as ICI, Monsanto, Ciba-Geigy Agrochemicals, J Sainsbury Pic, Hoechst, and of course The Ministry of Agriculture, Fisheries and Food (MAFF) who are the main sponsors.<sup>63</sup> MAFF grants are not given unless it can be shown that the research is of 'practical' importance and the current government's policy is emphasising this by cutting financial support for East Mailing and other research stations, so that a higher proportion of funding comes from the private sector and is thus more market orientated.<sup>64</sup>
+These developments have been made possible by the scientific investigations of the fruit research stations, much of it sponsored by companies such as ICI, Monsanto, Ciba-Geigy Agrochemicals, J Sainsbury Pic, Hoechst, and of course The Ministry of Agriculture, Fisheries and Food (MAFF) who are the main sponsors.63 MAFF grants are not given unless it can be shown that the research is of 'practical' importance and the current government's policy is emphasising this by cutting financial support for East Mailing and other research stations, so that a higher proportion of funding comes from the private sector and is thus more market orientated.64
 
 Currently, control of Apple production is mainly focussed on chemicals and hybridisation, though this is shifting towards what is seen as the 'ultimate' control of the Apple, through genetic engineering. Up to twelve chemicals and hormones can be applied to apples in a single season, 65 rich pickings indeed for the chemical companies. These are applied to Apples at almost every stage of growth from beginning to end. They are used to control pests and diseases (of which there are an increasing number due to further disruption of predator-prey relationships), to thin fruit out on the tree, to control growth, to 'stick' apples to the tree and prevent windblow losses, to prevent rotting in storage and to lengthen shelf life. This is a potent cocktail synergistically speaking, yet what inadequate testing does take place is only to define lethal doses, not how chemicals may work together or effects of long term low level exposures.
 
-Already several fungicides used regularly in the fruit industry, such as Mancozeb, Captan, and Folpet, are known carcinogens. <sup>66</sup> But most menacing are the growth regulators such as Alar (daminozide), which are used to slow the growth of leaves and branches on trees, and thus force an increase in budding and fruit production. These regulators and some herbicides dramatically alter growth rates at the level of the individual cell. <sup>67</sup> Alar sales were stopped in the USA because of links with cancer in young children and caused storms of protest from farmers and industry
+Already several fungicides used regularly in the fruit industry, such as Mancozeb, Captan, and Folpet, are known carcinogens. 66 But most menacing are the growth regulators such as Alar (daminozide), which are used to slow the growth of leaves and branches on trees, and thus force an increase in budding and fruit production. These regulators and some herbicides dramatically alter growth rates at the level of the individual cell. 67 Alar sales were stopped in the USA because of links with cancer in young children and caused storms of protest from farmers and industry
 
-<sup>&</sup>lt;sup>60</sup>Jones, Alwyn — Beyond Industrial Society: Towards Balance and Harmony, *The Ecologist* Vol 13(4) 1983 pi42.
+&lt;sup>60Jones, Alwyn — Beyond Industrial Society: Towards Balance and Harmony, *The Ecologist* Vol 13(4) 1983 pi42.
 
-<sup>&</sup>lt;sup>61</sup>Braverman, Harry — *Op Cit* p171.
+&lt;sup>61Braverman, Harry — *Op Cit* p171.
 
-<sup>&</sup>lt;sup>62</sup>Newby, Howard — *Green and Pleasant Land?* Wildwood House 1979 p75.
+&lt;sup>62Newby, Howard — *Green and Pleasant Land?* Wildwood House 1979 p75.
 
-<sup>&</sup>lt;sup>63</sup>AFRC Institute of Horticultural Research — East Mailing 1913–88 1988 p13.
+&lt;sup>63AFRC Institute of Horticultural Research — East Mailing 1913–88 1988 p13.
 
-<sup>64</sup> *Ibid* p3.
+64 *Ibid* p3.
 
-<sup>&</sup>lt;sup>65</sup>This is based on reviews of horticultural product magazines and on personal communications with East Mailing and Fruit Growers. There is a move towards integrated pest control but this is developing only slowly.
+&lt;sup>65This is based on reviews of horticultural product magazines and on personal communications with East Mailing and Fruit Growers. There is a move towards integrated pest control but this is developing only slowly.
 
-$<sup>^{66}</sup>$ Mc Cully, P and Hildyard, N — Intolerable Risks: Pesticides in Children's Food *The Ecologist* Vol 19(3) 1989 p97.
+$^{66}$ Mc Cully, P and Hildyard, N — Intolerable Risks: Pesticides in Children's Food *The Ecologist* Vol 19(3) 1989 p97.
 
-<sup>&</sup>lt;sup>67</sup>Snell, Peter — Pesticide Residues: The Scandal Continues *The Ecologist* Vol 19(3) 1989 p94.
+&lt;sup>67Snell, Peter — Pesticide Residues: The Scandal Continues *The Ecologist* Vol 19(3) 1989 p94.
 
-with the decision being roundly condemned by the *Wall Street Journal* as: '...false or superficial science prevailing over the real thing'.<sup>68</sup> A similar controversy erupted in Britain over the American decision, but after a brief review, the government decided in December 1989 that all daminozide based products (**Alar** and **Dazide**) were safe.<sup>69</sup>
+with the decision being roundly condemned by the *Wall Street Journal* as: '...false or superficial science prevailing over the real thing'.68 A similar controversy erupted in Britain over the American decision, but after a brief review, the government decided in December 1989 that all daminozide based products (**Alar** and **Dazide**) were safe.69
 
-Developments in plant breeding have also led to more intensive planting systems with even more dwarfing trees. These can be as little as 1 metre in height, while some bush trees need to be permanently staked and their branches strung up because they cannot support themselves. These developments allow labour 'maintenance and picking' costs to be reduced. Attempts to mechanise harvesting altogether are at present limited to fruit for cider or juice due to damage to the fruit.<sup>70</sup> Though fully automated chemical sprayers have recently been developed.<sup>71</sup>
+Developments in plant breeding have also led to more intensive planting systems with even more dwarfing trees. These can be as little as 1 metre in height, while some bush trees need to be permanently staked and their branches strung up because they cannot support themselves. These developments allow labour 'maintenance and picking' costs to be reduced. Attempts to mechanise harvesting altogether are at present limited to fruit for cider or juice due to damage to the fruit.70 Though fully automated chemical sprayers have recently been developed.71
 
-Recent research has turned to genetic control of Apple characteristics. Here, by mapping genes responsible for control of tree habit, pest and disease resistance, and fruit characteristics, genes will be selected and transferred to give the right requirements for high yields, pest resistance and early cropping, this '...will allow the normally slow process of conventional breeding to be accelerated'.<sup>72</sup>
+Recent research has turned to genetic control of Apple characteristics. Here, by mapping genes responsible for control of tree habit, pest and disease resistance, and fruit characteristics, genes will be selected and transferred to give the right requirements for high yields, pest resistance and early cropping, this '...will allow the normally slow process of conventional breeding to be accelerated'.72
 
 So far this has resulted in the new columnar varieties, compact, branchless 'trees' which have taken thirty years to develop. They require no pruning, crop early, need very little space and are thus being marketed under the legend: 'Now even the smallest garden can have an orchard'. These mutations however, bear little relation to a tree at all, having been stripped down to a purely functional level. Like the dwarf varieties of commercial orchards, they have no meaning beyond a straight economic one.
 
-The effects of increasing economic rationalisation have also been evident in the numbers of varieties grown commercially and available in shops. Over 6000 varieties of Apple are known, yet modern commercial orchards are dominated by only nine varieties.<sup>74</sup> English orchards are dominated by Cox's Orange Pippin and its coloured forms, making up 63% of dessert apple production in 1986, while Bramleys Seedlings made up 90% of culinary apples.<sup>75</sup> Only another six or seven dessert apples are widely available; most of these being imported often from as far away as Canada or New Zealand.
+The effects of increasing economic rationalisation have also been evident in the numbers of varieties grown commercially and available in shops. Over 6000 varieties of Apple are known, yet modern commercial orchards are dominated by only nine varieties.74 English orchards are dominated by Cox's Orange Pippin and its coloured forms, making up 63% of dessert apple production in 1986, while Bramleys Seedlings made up 90% of culinary apples.75 Only another six or seven dessert apples are widely available; most of these being imported often from as far away as Canada or New Zealand.
 
-This increasing specialisation in only a few varieties is a relatively recent trend of the twentieth century. In 1917, Prothero could boast that as many as 200 varieties of Apple were collected in a single orchard, <sup>76</sup> now he would be lucky to find more than two or three varieties in most orchards. This loss of local varieties of Apples that were often intimately related to their area can be seen as yet another factor in the loss of distinctiveness and identification of regions that has followed from the application of scientific management to agriculture. <sup>77</sup>
+This increasing specialisation in only a few varieties is a relatively recent trend of the twentieth century. In 1917, Prothero could boast that as many as 200 varieties of Apple were collected in a single orchard, 76 now he would be lucky to find more than two or three varieties in most orchards. This loss of local varieties of Apples that were often intimately related to their area can be seen as yet another factor in the loss of distinctiveness and identification of regions that has followed from the application of scientific management to agriculture. 77
 
-<sup>&</sup>lt;sup>68</sup>Flaherty, Ann — Uniroyal Pushed into Suspending Alar Sales in US *Grower* 15.6.1989 p4.
+&lt;sup>68Flaherty, Ann — Uniroyal Pushed into Suspending Alar Sales in US *Grower* 15.6.1989 p4.
 
-$<sup>^{69}</sup>$ Flaherty, Ann — Alar Cleared of Health Risk by the Governments ACP *Grower* 21.12.1989 p4.
+$^{69}$ Flaherty, Ann — Alar Cleared of Health Risk by the Governments ACP *Grower* 21.12.1989 p4.
 
-$<sup>^{70}</sup>$ Luckwill, L C - Some Factors in Successful Cropping 5 Apples $\it Span$ 27(2) 1984 p66.
+$^{70}$ Luckwill, L C - Some Factors in Successful Cropping 5 Apples $\it Span$ 27(2) 1984 p66.
 
-<sup>&</sup>lt;sup>71</sup>Lawson, G — Automated Spraying *Grower* 23.11.1989 p26.
+&lt;sup>71Lawson, G — Automated Spraying *Grower* 23.11.1989 p26.
 
-<sup>&</sup>lt;sup>72</sup>East Mailing 1913–88 *Op Cit* p15.
+&lt;sup>72East Mailing 1913–88 *Op Cit* p15.
 
 AFRC Institute of Horticultural Research — Annual Report 1988 p32.
 
-$<sup>^{73} \</sup>mbox{Compact Apple Trees} - \mbox{\it Horticultural Product News}$ May 1989 p24.
+$^{73} \mbox{Compact Apple Trees} - \mbox{\it Horticultural Product News}$ May 1989 p24.
 
-$<sup>^{74}</sup>$ Mabey, R and Greenoak, F — *Back to the Roots* Arena 1983 p85.
+$^{74}$ Mabey, R and Greenoak, F — *Back to the Roots* Arena 1983 p85.
 
-<sup>&</sup>lt;sup>75</sup>Sinden, Neil — 'Orchards and Places' Op Cit p8-9.
+&lt;sup>75Sinden, Neil — 'Orchards and Places' Op Cit p8-9.
 
-$<sup>^{76}</sup>$ Prothero, R E - English Farming Past and Present second edition, London, Longmans, Green and Co 1917.
+$^{76}$ Prothero, R E - English Farming Past and Present second edition, London, Longmans, Green and Co 1917.
 
-<sup>&</sup>lt;sup>77</sup>Herrscher, Pascall — Death of the European Landscape? *ENV Conservation* Vol 15(1) Spring 1988 p63-4.
+&lt;sup>77Herrscher, Pascall — Death of the European Landscape? *ENV Conservation* Vol 15(1) Spring 1988 p63-4.
 
-The work of the orchard labourer has also been transformed, with developments to reduce 'maintenance' and harvesting labour costs becoming increasingly deskilled and seasonally intense. Little information about these changes is available however, with only brief references in works such as Ronald Blythe's *Akenfield*. The older orchard workers spoken to in connection with this research all bemoaned the lack of activity of most of the year and the much more intense and fast harvesting season in comparison to earlier days when the job was more varied, skilled and spread more evenly throughout the year.<sup>78</sup>
+The work of the orchard labourer has also been transformed, with developments to reduce 'maintenance' and harvesting labour costs becoming increasingly deskilled and seasonally intense. Little information about these changes is available however, with only brief references in works such as Ronald Blythe's *Akenfield*. The older orchard workers spoken to in connection with this research all bemoaned the lack of activity of most of the year and the much more intense and fast harvesting season in comparison to earlier days when the job was more varied, skilled and spread more evenly throughout the year.78
 
 The sorting of fruit is now carried out on factory production line systems in on-farm refrigerated stores which are usually run on a co-operative basis between local farmers. Here the fruit is sorted into its various classes under EC quality standards and the Agricultural Development and Advisory Services Fruit Group provides advice to employers on how to run these lines on strict 'time and motion' systems to get the best results from the mainly female, part-time and low-paid workforce.
 
 #### 6. The Commodification of Apple Symbolism
 
-As society has changed, the old symbols of ancient and pre-modern cultures have to a great extent lost their meaning<sup>79</sup> and have been replaced by new symbols that reflect the surroundings of contemporary, materialistic culture. Yet as Cooper states, a large body of symbolism has become traditional over the ages and this constitutes an international language transcending the normal limits of communication.<sup>80</sup>
+As society has changed, the old symbols of ancient and pre-modern cultures have to a great extent lost their meaning79 and have been replaced by new symbols that reflect the surroundings of contemporary, materialistic culture. Yet as Cooper states, a large body of symbolism has become traditional over the ages and this constitutes an international language transcending the normal limits of communication.80
 
 It may be that this traditional form of symbolism (which is most often nature symbolism and includes the Apple) is selectively commodified by capitalism, in that it is used to imbue or associate technologies, goods and services with symbolic qualities of other phenomena, to make products more attractive to buyers. For example the Apple is used by Apple Macintosh Computers and for Midland Bank's orchard account, amongst others. This can be seen as a marketing or advertising ploy to associate these products with the traditional symbolic qualities of the Apple, of health, wisdom and fertility, as well as the naturalism and simplicity of the Apple to make these products and services more appealing and more saleable.
 
-This use can also be seen in the gardens of the early twentieth century suburban estates of London and other cities. Here Apple, Pear and Plum trees were often planted by builders, possibly to accentuate the rustic feeling of these areas. For as Jackson notes, a major attraction of suburban life had always been the opportunity it *seemed* to offer of enjoying the pleasanter aspects of rural life whilst remaining in touch with the amenities of urban civilisation.<sup>81</sup> Some of these estates, as they spread further out into the countryside, were actually built on old orchards and some trees were left in place as at Broadlands estate, Ponders End in North London.<sup>82</sup>
+This use can also be seen in the gardens of the early twentieth century suburban estates of London and other cities. Here Apple, Pear and Plum trees were often planted by builders, possibly to accentuate the rustic feeling of these areas. For as Jackson notes, a major attraction of suburban life had always been the opportunity it *seemed* to offer of enjoying the pleasanter aspects of rural life whilst remaining in touch with the amenities of urban civilisation.81 Some of these estates, as they spread further out into the countryside, were actually built on old orchards and some trees were left in place as at Broadlands estate, Ponders End in North London.82
 
-Though it is easy to mock or denigrate this using of fruit trees in the suburbs, as Ward states, English gardens often remain a haven for the older fruit varieties no longer grown commercially.<sup>83</sup>
+Though it is easy to mock or denigrate this using of fruit trees in the suburbs, as Ward states, English gardens often remain a haven for the older fruit varieties no longer grown commercially.83
 
-<sup>&</sup>lt;sup>78</sup>Blythe, Ronald — *Akenfield* Penguin 1969 Chapter 12. This information is based on several interviews undertaken in 1988–89 in large commercial orchards in North Kent and so cannot be taken as representative of all orchard works.
+&lt;sup>78Blythe, Ronald — *Akenfield* Penguin 1969 Chapter 12. This information is based on several interviews undertaken in 1988–89 in large commercial orchards in North Kent and so cannot be taken as representative of all orchard works.
 
-<sup>&</sup>lt;sup>79</sup>Cooper, J C - Op Cit p7.
+&lt;sup>79Cooper, J C - Op Cit p7.
 
-$<sup>^{80}</sup>$ Jackson, A A — Semi-Detached London Allen and Unwin 1973 pi<br/>49.
+$^{80}$ Jackson, A A — Semi-Detached London Allen and Unwin 1973 pi
+49.
 
-<sup>&</sup>lt;sup>81</sup>*Ibid* pi50.
+&lt;sup>81*Ibid* pi50.
 
-<sup>&</sup>lt;sup>82</sup>Ward, R – A Harvest of Apples Penguin 1988 p16.
+&lt;sup>82Ward, R – A Harvest of Apples Penguin 1988 p16.
 
-<sup>&</sup>lt;sup>83</sup>Personal correspondence with Neil Sinden from Common Ground.
+&lt;sup>83Personal correspondence with Neil Sinden from Common Ground.
 
 For example, Hampsead Garden Sociey boass over eighy Apple varieies in is members' gardens.
 
@@ -775,45 +781,45 @@ Ye hings do no have o be his way. Te Apple need no be confined o massive orchard
 
 Nor should we rely on privae gardens in Briain, as a reuge or varieies no commercially available. As Alexander saes:
 
-Frui rees on common land add much more o he neighbourhood and he communiy han he same rees in privae backyards: privaely grown, he rees end o produce more rui han one household can consume. On public land, he rees concenrae he eeling o muual benefi and responsibiliy. And because hey require yearly care, pruning and harvesing he rui rees naurally involve people in heir common land.<sup>84</sup>
+Frui rees on common land add much more o he neighbourhood and he communiy han he same rees in privae backyards: privaely grown, he rees end o produce more rui han one household can consume. On public land, he rees concenrae he eeling o muual benefi and responsibiliy. And because hey require yearly care, pruning and harvesing he rui rees naurally involve people in heir common land.84
 
 Te idea o communiy orchards, like he aim o growing one's own ood (or a leas a porion o i), aiming a buying ewer environmenally and socially desrucive producs, and insising on organic oods, can be seen as an atemp o achieve some orm o moral responsibiliy or one's economic decisions in he marke.
 
 As isdell has noed, he marke sysem operaes in a way ha minimises he amoun o knowledge needed o make an economic decision. As he divided responsibiliy o producion has led o divided responsibiliy or is social and environmenal impacs, so he overall lack o knowledge arising ou o he marke sysem has urher diminished he moral responsibiliy or hese impacs. For example, when one buys Apples one need only know he price and qualiy o Apples. No knowledge is required o he producer, he producion process or is social and environmen al impacs (boh o producion and consumpion). Ye wihou such knowledge, says isdell, no moral responsibiliy or environmenal consequences o one's decisions seems possible. Even i
 
-<sup>84</sup>Alexander, C e al — A Patern Language, owns, Buildings, Consrucion O. U. P. 1977 p795.
+84Alexander, C e al — A Patern Language, owns, Buildings, Consrucion O. U. P. 1977 p795.
 
-knowledge is available, the remoteness of production may reduce any feeling of responsibility for social and environmental effects.<sup>85</sup>
+knowledge is available, the remoteness of production may reduce any feeling of responsibility for social and environmental effects.85
 
 It is this moral void which lies at the heart of capitalist society. As Jones states, in his discussion of Weber, this is a function of the fragmentation of reason, whereby reason is constrained to seek the most efficient, scientifically and logically based means to achieve pre-determined ends. This formal rationality therefore does not extend our vision or grasp of meaning in the world:
 
-On the contrary, the myth, legend, folklore, poetry and magic, necessary for the creation of ultimate meanings in human societies and the emergence of a holistic worldview are rejected.<sup>86</sup>
+On the contrary, the myth, legend, folklore, poetry and magic, necessary for the creation of ultimate meanings in human societies and the emergence of a holistic worldview are rejected.86
 
-Seen in this way it is evident that capitalism and its scientifically backed formal rationality, cannot solve the current, and growing, social and environmental problems. The problems emanate from the system itself. Nor can going back to a cosmological view be an answer, such philosophies were long ago destroyed by Mechanistic science. Only with an Ecological way of thinking and acting which posits humanity as inseparable from nature can these problems be properly addressed. If this is fully understood '...it will no longer be possible for us to injure nature wantonly, as this would mean injuring an integral part of ourselves'.<sup>87</sup>
+Seen in this way it is evident that capitalism and its scientifically backed formal rationality, cannot solve the current, and growing, social and environmental problems. The problems emanate from the system itself. Nor can going back to a cosmological view be an answer, such philosophies were long ago destroyed by Mechanistic science. Only with an Ecological way of thinking and acting which posits humanity as inseparable from nature can these problems be properly addressed. If this is fully understood '...it will no longer be possible for us to injure nature wantonly, as this would mean injuring an integral part of ourselves'.87
 
 Such a move may seem far off today. Yet much can and is being done to educate people, and to encourage awareness of the more manifold meanings of nature, especially in urban areas which remain so alienated from nature and alienating for people.
 
 There is no reason for example, why we should not have 'real' Apple trees and other fruits growing all over our cities. As Alexander states:
 
-The presence of orchards adds an experience that has all but vanished from our cities — the experience of growth, harvest, local sources of fresh food; walking down a city street pulling an apple out of a tree and biting into it.<sup>88</sup>
+The presence of orchards adds an experience that has all but vanished from our cities — the experience of growth, harvest, local sources of fresh food; walking down a city street pulling an apple out of a tree and biting into it.88
 
-Appleyard quotes the example of Chandigarh, the capital of India's Punjab, where the main roads of the city are lined with peaches and plum trees. <sup>89</sup> In Nanking in China, one sixth of trees planted in the city are fruit bearing, including lychees and mangoes. <sup>90</sup> There are problems of course in the amount of pollution from cars etc, in cities, but fruit growing can help draw more attention to this pollution.
+Appleyard quotes the example of Chandigarh, the capital of India's Punjab, where the main roads of the city are lined with peaches and plum trees. 89 In Nanking in China, one sixth of trees planted in the city are fruit bearing, including lychees and mangoes. 90 There are problems of course in the amount of pollution from cars etc, in cities, but fruit growing can help draw more attention to this pollution.
 
 The main tree identified with London is the London Plane (*Platanus x acerifolia*), a tree of uncertain origin, large, unusual, but purely a decorative tree. The Plane tree is also symbolic of moral superiority. How much better to have the Apple tree, in its many forms, growing all over London *again*. Symbolic of health, immortality, love and fertility — these are qualities our towns and cities should seek to emulate.
 
-$<sup>^{85}</sup>$ Tisdell, C A - *Op Cit* p107.
+$^{85}$ Tisdell, C A - *Op Cit* p107.
 
-$<sup>^{86}</sup>$ Jones, Alwyn – *Op Cit* p142.
+$^{86}$ Jones, Alwyn – *Op Cit* p142.
 
-$<sup>^{87}</sup>$ Rothenberg, D (Editor) in: Naess, A — Ecology, Community and Lifestyle O. U. P. 1989 p2.
+$^{87}$ Rothenberg, D (Editor) in: Naess, A — Ecology, Community and Lifestyle O. U. P. 1989 p2.
 
-<sup>&</sup>lt;sup>88</sup>Alexander, C - *Op Cit* p795.
+&lt;sup>88Alexander, C - *Op Cit* p795.
 
-<sup>&</sup>lt;sup>89</sup>Appleyard, D — Urban Trees, Urban Forest: What Do They Mean? in: Hopkins, G (Editor) Proc. of the National Urban Forestry Conference I Nov. 13–16 1978. Washington DC Suny College of Env. Science and Forestry Syracuse NY (pp 138–155) p144.
+&lt;sup>89Appleyard, D — Urban Trees, Urban Forest: What Do They Mean? in: Hopkins, G (Editor) Proc. of the National Urban Forestry Conference I Nov. 13–16 1978. Washington DC Suny College of Env. Science and Forestry Syracuse NY (pp 138–155) p144.
 
-$<sup>^{90}</sup>$ Sinden, N — 'Conserving Fruit Trees — *Op Cit* p40.
+$^{90}$ Sinden, N — 'Conserving Fruit Trees — *Op Cit* p40.
 
-$<sup>^{91}</sup>$ Cooper, J C – *Op Cit* p 132.
+$^{91}$ Cooper, J C – *Op Cit* p 132.
 
 ### Appendix
 

@@ -1,3 +1,8 @@
+---
+title: "ENDING RAPE CULTURE ACTIVITY ZINE"
+category: "arts-culture-music"
+---
+
 ## ![](_page_0_Figure_0.jpeg)
 
 # ENDING RAPE CULTURE ACTIVITY ZINE
@@ -72,7 +77,7 @@ The "Invasion of Space" section is a great opportunity to explore intent vs. imp
 
 The structural systems at the bottom of the pyramid are roots of sexual violence, they feed and stabilize violence. These systems of oppression dictate whose lives, bodies, and belief systems are valuable. When some lives and bodies are deemed as less valuable, they are not just more vulnerable to harm, but their harm is also accepted as a necessary means to maintain order.
 
-When people talk about rape and sexual violence prevention, they often think about ways to prevent the top half of the pyramid through awareness campaigns or bystander intervention training. It is equally important look at the bottom half of the pyramid in our prevention work: how can we shift our culture by deconstructing stereotypes based on <a href="race">race</a> and <a href="gender">gender</a>? How will trans liberation and queer justice help in our fight to end sexual violence</a>? How does historical and contemporary colonialism use sexual violence as a <a href="weapon against indigenous people">weapon against indigenous people</a>? Answering these questions and using racial justice, economic justice, gender justice, and reproductive justice frameworks in your prevention work will allow you to fight against the roots of violence.
+When people talk about rape and sexual violence prevention, they often think about ways to prevent the top half of the pyramid through awareness campaigns or bystander intervention training. It is equally important look at the bottom half of the pyramid in our prevention work: how can we shift our culture by deconstructing stereotypes based on race and gender? How will trans liberation and queer justice help in our fight to end sexual violence? How does historical and contemporary colonialism use sexual violence as a weapon against indigenous people? Answering these questions and using racial justice, economic justice, gender justice, and reproductive justice frameworks in your prevention work will allow you to fight against the roots of violence.
 
 ## ![](_page_3_Picture_9.jpeg)
 
@@ -80,15 +85,15 @@ When people talk about rape and sexual violence prevention, they often think abo
 
 Print out and share some of these articles or resources with your participants! A follow-up activity could include a conversation centered around one of these resources.
 
-<sup>&</sup>lt;sup>4</sup> https://incite-national.org/dangerous-intersections/
+&lt;sup>4 https://incite-national.org/dangerous-intersections/
 
 ## ![](_page_3_Picture_16.jpeg)
 
-<sup>&</sup>lt;sup>1</sup> http://msmagazine.com/blog/2018/04/05/racist-roots-rape-culture/
+&lt;sup>1 http://msmagazine.com/blog/2018/04/05/racist-roots-rape-culture/
 
-<sup>&</sup>lt;sup>2</sup> https://everydayfeminism.com/2017/01/gender-stereotypes-rape-culture/
+&lt;sup>2 https://everydayfeminism.com/2017/01/gender-stereotypes-rape-culture/
 
-<sup>3</sup> http://queeringsexualviolence.com/
+3 http://queeringsexualviolence.com/
 
 #### **DISCUSSION QUESTION:**
 

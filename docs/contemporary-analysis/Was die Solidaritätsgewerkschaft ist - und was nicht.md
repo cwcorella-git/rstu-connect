@@ -1,3 +1,8 @@
+---
+title: "## **Was die Solidaritätsgewerkschaft ist und was nicht**"
+category: "contemporary-analysis"
+---
+
 ## **Was die Solidaritätsgewerkschaft ist und was nicht**
 
 ## **Date:** Unknown

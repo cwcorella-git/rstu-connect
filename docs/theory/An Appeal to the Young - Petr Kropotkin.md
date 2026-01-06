@@ -1,24 +1,18 @@
 ---
-title: An Appeal To The Young Petr Kropotkin
-author: Peter Kropotkin
-slug: An Appeal to the Young - Petr Kropotkin
-reconversion_status: ready_for_reconversion
-date: 1880
-tags:
-  - theory
-  - anarchism
-  - strikes
-  - tenants
-  - rent
+title: "An Appeal To The Young Petr Kropotkin"
+author: "Peter Kropotkin"
+date: "1880"
+category: "theory"
 ---
+
 ## Pëtr Kropotkin An Appeal to the Young 1880
 
-Retrieved on February 16<sup>th</sup>, 2009 from <u>dwardmac.pitzer.edu</u>
+Retrieved on February 16th, 2009 from dwardmac.pitzer.edu
 First appeared in French, 1880. "Aux Jeunes Gens". Le Révolté, June 25; July 10; August 7, 21
 
 ## Pëtr Kropotkin An Appeal to the Young 1880
 
-Retrieved on February 16<sup>th</sup>, 2009 from <u>dwardmac.pitzer.edu</u>
+Retrieved on February 16th, 2009 from dwardmac.pitzer.edu
 
 First appeared in French, 1880. "Aux Jeunes Gens". Le Révolté, June 25; July 10; August 7, 21 "Peter Kropotkin...was recognized by friend and foe as one of the greatest minds...of the nineteenth century... The lucidity and brilliance of his mind combined with his warm-heartedness into the harmonious whole of a fascinating and gracious personality."
 

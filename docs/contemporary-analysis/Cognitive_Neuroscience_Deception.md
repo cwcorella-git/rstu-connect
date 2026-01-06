@@ -1,3 +1,8 @@
+---
+title: "The Cognitive Neuroscience of Deception:"
+category: "contemporary-analysis"
+---
+
 # The Cognitive Neuroscience of Deception:
 
 ## Advances in Neuroscience, Criminal Law Applications and Ethics

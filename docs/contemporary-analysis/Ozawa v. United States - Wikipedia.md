@@ -1,3 +1,8 @@
+---
+title: "**Ozawa v. United States**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Ozawa_v._United_States)
 
 # **Ozawa v. United States**
@@ -16,10 +21,13 @@
 
 ## **Argued October 3–4, 1922 Decided November 13, 1922**
 
-| Full case name<br>Takao Ozawa v. United States | | |
+| Full case name
+Takao Ozawa v. United States | | |
 |------------------------------------------------------|-----------|------------------------|
 | | | |
-| 43 S. Ct. 65; 67 L. Ed. 199; 1922 U. S.<br>LEXIS 2357 | Citations | 260 U. S.<br>178 (more) |
+| 43 S. Ct. 65; 67 L. Ed. 199; 1922 U. S.
+LEXIS 2357 | Citations | 260 U. S.
+178 (more) |
 
 ## **Holding**
 

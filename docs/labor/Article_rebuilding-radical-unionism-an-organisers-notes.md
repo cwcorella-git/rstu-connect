@@ -1,13 +1,8 @@
 ---
-title: Rebuilding Radical Unionism an Organisers Notes
-date: 2025
-author: Industrial Workers of the World
-tags:
-  - organizing
-  - strikes
-  - unions
-  - housing
-  - rent
+title: "Rebuilding Radical Unionism an Organisers Notes"
+author: "Industrial Workers of the World"
+date: "2025"
+category: "labor"
 ---
 
 # Rebuilding Radical Unionism an Organisers Notes

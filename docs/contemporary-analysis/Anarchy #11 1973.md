@@ -1,3 +1,8 @@
+---
+title: "## **Anarchy #11 1973**"
+category: "contemporary-analysis"
+---
+
 ## **Anarchy #11 1973**
 
 ## **Date:** Unknown

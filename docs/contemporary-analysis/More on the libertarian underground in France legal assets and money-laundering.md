@@ -1,3 +1,8 @@
+---
+title: "## **More on the libertarian underground in France: legal assets and money-laundering**"
+category: "contemporary-analysis"
+---
+
 ## **More on the libertarian underground in France: legal assets and money-laundering**
 
 ## **Date:** Unknown

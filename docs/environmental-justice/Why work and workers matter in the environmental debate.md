@@ -1,15 +1,23 @@
+---
+title: "## **Why work and workers matter in the environmental debate**"
+category: "environmental-justice"
+---
+
 ## **Why work and workers matter in the environmental debate**
 
 | Date: Sun, 06/19/2016 - 11:17 |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Source: https://ecology.iww.org/node/1688|
-| Tags: just transition, green unionism, labor and environment, green jobs, jobs versus environment,<br>heat stress |
+| Tags: just transition, green unionism, labor and environment, green jobs, jobs versus environment,
+heat stress |
 | By |
 | Caleb Goods |
 | - |
 | Green Agenda |
 | , March 19, 2016 |
-| It is not hard to imagine that the world of work is a place of deep ecological impact that will be<br>fundamentally changed by endeavours to green the economy. The implications of climate<br>change for all workers and employers are enormous: the |
+| It is not hard to imagine that the world of work is a place of deep ecological impact that will be
+fundamentally changed by endeavours to green the economy. The implications of climate
+change for all workers and employers are enormous: the |
 | International Labour Organisation |
 | (ILO) suggests that 80 per cent of Europe's CO |
 ## | 2 |
@@ -90,9 +98,11 @@ The Australian Conservation Foundation and the Australian Council of Trade Union
 | demonstrates, Australia could create more than 700,000 jobs by 2030 by taking |
 | strong action |
 | now to reduce pollution'. |
-| More recently, the research organisation Climate Works Australia, in partnership with the<br>World Wildlife Foundation Australia, released a |
+| More recently, the research organisation Climate Works Australia, in partnership with the
+World Wildlife Foundation Australia, released a |
 | report |
-| suggesting that Australia could have it all, zero carbon emissions at the same time as<br>maintaining strong economic and job growth. |
+| suggesting that Australia could have it all, zero carbon emissions at the same time as
+maintaining strong economic and job growth. |
 
 Certainly transitioning to a greener economy is in reality the only option, if we want to maintain an inhabitable planet for humanity; however, these discussions are often based on wishful thinking that fail to deal adequately with the challenge of transitioning workers and industries into the new greener economy. For example, in a 2010 interview I conducted with a Greens' Senator the following point was made:
 

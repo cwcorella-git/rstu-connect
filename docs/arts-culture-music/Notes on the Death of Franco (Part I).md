@@ -1,3 +1,8 @@
+---
+title: "## **Notes on the Death of Franco (Part I)**"
+category: "arts-culture-music"
+---
+
 ## **Notes on the Death of Franco (Part I)**
 
 ## **Date:** Unknown

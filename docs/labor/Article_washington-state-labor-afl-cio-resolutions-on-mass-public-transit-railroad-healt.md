@@ -1,14 +1,8 @@
 ---
-title: >-
-  Washington State Labor Afl Cio Resolutions On Mass Public Transit Railroad
-  Healt
-date: 2025
-author: Industrial Workers of the World
-tags:
-  - organizing
-  - unions
-  - rent
-  - labor
+title: ">-"
+author: "Industrial Workers of the World"
+date: "2025"
+category: "labor"
 ---
 
 # Washington State Labor Afl Cio Resolutions On Mass Public Transit Railroad Healt

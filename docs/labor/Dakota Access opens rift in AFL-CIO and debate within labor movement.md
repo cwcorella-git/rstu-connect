@@ -1,3 +1,8 @@
+---
+title: "## **Dakota Access opens rift in AFL-CIO and debate within labor movement**"
+category: "labor"
+---
+
 ## **Dakota Access opens rift in AFL-CIO and debate within labor movement**
 
 ## **Date:** Wed, 09/28/2016 - 19:32
@@ -23,9 +28,13 @@ Among the unions and organizations opposing the pipeline are Oregon's SEIU 503, 
 | United Electrical, Radio and Machine Workers of America |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ) and others. |
-| Today's guests are Gregory Cendana, Executive Director of the Asian Pacific American Labor<br>Alliance, an AFL-CIO member organization ( |
+| Today's guests are Gregory Cendana, Executive Director of the Asian Pacific American Labor
+Alliance, an AFL-CIO member organization ( |
 | http://www.apalanet.org/national-staff.html|
-| ); Roben White, enrolled Oglala Lakota of Pine Ridge and long-time local union activist; Laura<br>John, Blackfeet/Seneca and member-activist of SEIU Local 503 who pushed her local to<br>adopt a statement in support of the Standing Rock and against the DAPL, and Rob Sisk,<br>President of SEIU Local 503. |
+| ); Roben White, enrolled Oglala Lakota of Pine Ridge and long-time local union activist; Laura
+John, Blackfeet/Seneca and member-activist of SEIU Local 503 who pushed her local to
+adopt a statement in support of the Standing Rock and against the DAPL, and Rob Sisk,
+President of SEIU Local 503. |
 ## | Disclaimer: |
 
 The views expressed here are not the official position of the IWW (or even the IWW's EUC) and do not necessarily represent the views of anyone but the author's.

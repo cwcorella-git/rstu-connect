@@ -1,3 +1,8 @@
+---
+title: "## **The ABC of syndicalist sections**"
+category: "contemporary-analysis"
+---
+
 ## **The ABC of syndicalist sections**
 
 ## **Date:** Unknown

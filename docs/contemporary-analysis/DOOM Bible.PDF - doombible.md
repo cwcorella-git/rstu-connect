@@ -1,3 +1,8 @@
+---
+title: "DOOM Bibl e"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 # DOOM Bibl e
@@ -10,40 +15,140 @@
 
 # Table o f Cont o f Contents Tabl
 
-| Ga<br>Game<br>Specs | S<br>Sec<br>t<br>ion |
+| Ga
+Game
+Specs | S
+Sec
+t
+ion |
 |------------------------------------------------|----------------------|
-| Doom<br>Command<br>Line<br>Parameter<br>s<br>1 | |
-| Int<br>r<br>o<br>and<br>Demo<br>Loop | 2 |
-| Cont<br>r<br>o<br>l<br>Panel<br> | 3 |
-| P<br>lay<br>Loop<br> | 4 |
-| End<br>o<br>f<br>game<br> | 5 |
-| Ga<br>Game<br>In<br>f<br>o | |
-| Charac<br>ter<br>s<br> | 6 |
-| Episode<br>1<br> | 7 |
-| Sto<br>ry<br> | 7.1 |
-| Ac<br>to<br>r<br>s<br> | 7.2 |
-| Unique<br>Bits<br> | 7.3 |
-| Maps<br> | 7.4 |
-| Episode<br>2<br> | 8 |
-| Episode<br>3<br> | 9 |
-| Episode<br>4<br> | 10 |
-| Episode<br>5<br> | 11 |
-| Episode<br>6<br> | 12 |
-| Commer<br>cial<br> | 13 |
-| Stuf<br>f:<br>Weapons,<br>Items,<br>Etc.<br> | 14 |
-| DOOM<br>P<br>ress<br>release<br> | 15 |
-| Random<br>Notes<br> | 16 |
-## | DOOM<br>Calendar<br>17 | |
+| Doom
+Command
+Line
+Parameter
+s
+1 | |
+| Int
+r
+o
+and
+Demo
+Loop | 2 |
+| Cont
+r
+o
+l
+Panel
+ | 3 |
+| P
+lay
+Loop
+ | 4 |
+| End
+o
+f
+game
+ | 5 |
+| Ga
+Game
+In
+f
+o | |
+| Charac
+ter
+s
+ | 6 |
+| Episode
+1
+ | 7 |
+| Sto
+ry
+ | 7.1 |
+| Ac
+to
+r
+s
+ | 7.2 |
+| Unique
+Bits
+ | 7.3 |
+| Maps
+ | 7.4 |
+| Episode
+2
+ | 8 |
+| Episode
+3
+ | 9 |
+| Episode
+4
+ | 10 |
+| Episode
+5
+ | 11 |
+| Episode
+6
+ | 12 |
+| Commer
+cial
+ | 13 |
+| Stuf
+f:
+Weapons,
+Items,
+Etc.
+ | 14 |
+| DOOM
+P
+ress
+release
+ | 15 |
+| Random
+Notes
+ | 16 |
+## | DOOM
+Calendar
+17 | |
 
 ### AppendicesA
 
-| G<br>l<br>ossary<br>A | |
+| G
+l
+ossary
+A | |
 |--------------------------------------------------------------------------------------------|---|
-| Fi<br>le<br>Extensions<br> | B |
-| Uti<br>l<br>ities<br> | C |
-| Random<br>Ext<br>remely<br>Impo<br>r<br>tant<br>Inf<br>o<br>Too<br>Smal<br>l<br>to<br>Rate | |
-| Having<br>its<br>Own<br>Sec<br>tion<br>D | |
-## | Known<br>and<br>Unfixed<br>Bugs<br> | E |
+| Fi
+le
+Extensions
+ | B |
+| Uti
+l
+ities
+ | C |
+| Random
+Ext
+remely
+Impo
+r
+tant
+Inf
+o
+Too
+Smal
+l
+to
+Rate | |
+| Having
+its
+Own
+Sec
+tion
+D | |
+## | Known
+and
+Unfixed
+Bugs
+ | E |
 
 ### 1. DOOM Command Line Parameter s
 
@@ -1345,8 +1450,16 @@ Here are the commonly used Id file extensions (as in "Filename.xxx", where xxx i
 |------|----------------------------------------------|
 | . LMP | Individual Lump file |
 | . LSC | Script file for Lumpy the grabber |
-| . WAD | Composite<br>Datafile<br>made<br>of<br>lumps |
-| . WLK | Link<br>script<br>used<br>by<br>Wad Link |
+| . WAD | Composite
+Datafile
+made
+of
+lumps |
+| . WLK | Link
+script
+used
+by
+Wad Link |
 
 ### C. Uti l ities
 

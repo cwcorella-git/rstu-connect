@@ -1,23 +1,8 @@
 ---
-title: On the Phenomenology of Giant Puppets
-author: David Graeber
-date: 5th April 2007
-language: en
-source_url: 'Retrieved on 4th September 2020 from http://balkansnet.org/zcl/puppets.html'
-topics:
-  - police
-  - USA
-  - direct action
-  - globalisation
-  - art
-original_format: muse
-converted_date: '2025-11-08T11:25:03.166545'
-tags:
-  - Police
-  - USA
-  - Direct Action
-  - Globalisation
-  - Art
+title: "On the Phenomenology of Giant Puppets"
+author: "David Graeber"
+date: "5th April 2007"
+category: "contemporary-analysis"
 ---
 
 What follows is an essay of interpretation. It is about direct action in North America, about the mass mobilizations organized by the so called “anti-globalization movement”, and especially, about the war of images that has surrounded it. It begins with a simple observation. I think it’s fair to say that if the average American knows just two things about these mobilizations, they are, first of all, that there are often people dressed in black who break windows; second, that they involve colorful giant puppets.
@@ -32,7 +17,7 @@ Hence the unusual structure of this essay, in which an analysis of the symbolism
 
 There is a widespread perception that events surrounding the WTO ministerial in Seattle in November 1999 marked the birth of a new movement in North America. It would probably be better to say that Seattle marked the moment where a much larger, global movement—one which traces back at least to the Zapatista rebellion in 1994—made its first appearance on North American shores.
 
-Nonetheless, the actions in Seattle were widely considered a spectacular victory. They were quickly followed in 2000 and 2001 by a series of similar mobilizations in Washington, Prague, Quebec City, and Genoa, growing in size but facing increasing levels of state repression. September 11<sup>th</sup> and subsequent “war on terror” changed the nature of the playing field, enabling governments to step up this repression quite dramatically, as in the US became clear in the extraordinary violence with which police tactics confronted protestors during the Free Trade Areas of the Americas summit in Miami in November 2003. Since then the movement has largely been in a process of regrouping, though at the time of writing (summer 2006) there are increasing signs of a second wind.
+Nonetheless, the actions in Seattle were widely considered a spectacular victory. They were quickly followed in 2000 and 2001 by a series of similar mobilizations in Washington, Prague, Quebec City, and Genoa, growing in size but facing increasing levels of state repression. September 11th and subsequent “war on terror” changed the nature of the playing field, enabling governments to step up this repression quite dramatically, as in the US became clear in the extraordinary violence with which police tactics confronted protestors during the Free Trade Areas of the Americas summit in Miami in November 2003. Since then the movement has largely been in a process of regrouping, though at the time of writing (summer 2006) there are increasing signs of a second wind.
 
 The movement’s disarray was not simply due to heightened levels of repression. Another reason was, however paradoxical this may seem, that it reached so many of its immediate goals so quickly.
 
@@ -85,8 +70,8 @@ Still, the positive images are often treated with little more respect than the e
 
 Here is an extract from my early reflections on the subject, jotted down shortly after spending time in the Puppet Warehouse in Philadelphia before the Republican Convention in 2000, somewhat reedited.
 
-<quote>
-<strong>(field notes extracts, July 31<sup>st</sup>, 2000</strong>)
+
+(field notes extracts, July 31st, 2000)
 
 The question I keep asking myself is: why are these things even called “puppets”?
 
@@ -95,7 +80,7 @@ Normally one thinks of “puppets” as figures that move in response to the mot
 Puppets are extremely visual, large, but also delicate and ephemeral. Usually they fall apart after a single action. This combination of huge size and lightness seems to me makes them a bridge between words and reality; they are the point of transition; they represent the ability to start to make ideas real and take on solid form, to make our view of the world into something of equal physical bulk and greater spectacular power even to the engines of state violence that stand against it. The idea that they are extensions of our minds, words, make help explain the use of the term “puppets”. They may not move around as an extension of some individual’s will. But if they did, this would somewhat contradict the emphasis on collective creativity.
 
 Insofar as they are characters in a drama, it is a drama with a collective author; insofar as they are manipulated, it is in a sense by everyone, in processions, often passed around from one activist to the next. Above all they are meant to be emanations of a collective imagination. As such, for them either to become fully solid, or fully manipulable by a single individual, would contradict the point.
-</quote>
+
 
 Puppets can be worn like costumes, and in large actions, they are in fact continuous with costumes. Every major mobilization had its totem, or totems: the famous sea-turtles at Seattle, the birds and sharks at A16, the Dancing Skeletons at R2K (the Republican Convention in Philly), the caribou at Bush’s inauguration, or for that matter, the fragments of Picasso’s Guernica designed for the protests against the upcoming Iraq invasion in 2003, designed so that they could each wander off and then all periodically combine together.
 
@@ -116,7 +101,7 @@ Puppets simply push this logic to a kind of extreme. The sacred here is, ultimat
 
 Anarchists, as I’ve said, avoid designing their strategies around the media. The same cannot be said of the police.
 
-It’s obvious that the events of N30 in Seattle came as a surprise to most in the American government. The Seattle police were clearly unprepared for the sophisticated tactics adopted by the hundreds of affinity groups that surrounded the hotel and, at least for the first day, effectively shut down the meetings. The first impulse of many commanders appears to have been to respect the nonviolence of the actions.[12] It was only after 1 PM on the 30<sup>th</sup>, after Madeleine Albright’s call to the Governor from inside the hotel demanding that he tell them to do whatever they had to do to break the blockade[13] that police began a full-blown assault with tear gas, pepper spray, and concussion grenades.
+It’s obvious that the events of N30 in Seattle came as a surprise to most in the American government. The Seattle police were clearly unprepared for the sophisticated tactics adopted by the hundreds of affinity groups that surrounded the hotel and, at least for the first day, effectively shut down the meetings. The first impulse of many commanders appears to have been to respect the nonviolence of the actions.[12] It was only after 1 PM on the 30th, after Madeleine Albright’s call to the Governor from inside the hotel demanding that he tell them to do whatever they had to do to break the blockade[13] that police began a full-blown assault with tear gas, pepper spray, and concussion grenades.
 
 Even then many seemed to hesitate, while others, when they did enter the fray, descended into wild rampages, attacking and arresting scores of ordinary shoppers in Seattle’s commercial district. In the end the governor was forced to call in the National Guard. While the media pitched in by representing police actions as a response to Black Bloc actions that began much later, having to bring in federal troops was an undeniable spectacular symbolic defeat.
 
@@ -126,7 +111,6 @@ One might phrase it this way. The summits and other events targeted by the movem
 
 Here one should probably let events speak for themselves. If one looks at what happened during the months immediately following Seattle, the first things one observes are a series of preemptive strikes, always, aimed at threats that (not unlike Iraq’s weapons of mass destruction) never quite materialized:
 
-<quote>
 
 **April 2000, Washington D.C.**
 
@@ -140,7 +124,6 @@ Days before a scheduled protest against the International Society of Animal Gene
 
 Hours before the protests against the Republican Convention are to begin, police, claiming to be acting on a tip, seize the warehouse where the art, banners and puppets used for the action are being prepared, arresting all of the at least 75 activists discovered inside. Police Chief John Timoney loudly claims to have discovered C4 explosives and water balloons full of hydrochloric acid in the building. Police later admit no explosives or acid were really found; the arrestees are however not released until well after the actions are over. All of the puppets, banners, art and literature to be used in the protest are systematically destroyed.
 
-</quote>
 
 While it is possible that we are dealing with a remarkable series of honest mistakes, this does look an awful lot like a series of attacks on the material activists were intending to use to get their message out to the public. Certainly that’s how the activists interpreted them—especially after Philadelphia. Organizers planning the parallel protests against the Democratic Convention in L.A. managed to obtain a restraining order barring police from attacking their convergence center, but ever since, in the weeks before any major mobilization, a key issue is always how to hide and protecting the puppets.
 
@@ -148,7 +131,6 @@ By Philadelphia, it became quite clear that the police had adopted a very self-c
 
 This same period began to see increasingly outlandish accounts of what had happened at Seattle. During the WTO protests themselves, I must emphasize, no one, including the Seattle police, had claimed anarchists had done anything more militant than break windows. That was the end of November 1999. In March 2000, less than three months later, a story in the Boston Herald reported that, in the weeks before an upcoming biotech conference, officers from Seattle had come to brief the local police on how to deal with ‘Seattle tactics’, such as attacking police with “chunks of concrete, BB guns, wrist rockets and large capacity squirt guns loaded with bleach and urine”.[15] In June, New York Times reporter Nicole Christian, apparently relying on police sources in Detroit preparing for a trade protest across the Canadian border in Windsor, claimed that Seattle demonstrators had “hurled Molotov cocktails, rocks and excrement at delegates and police officers.” On this occasion, after the New York Direct Action Network picketed their offices, the Times ended up having to run a retraction, admitting that according to Seattle authorities, no objects had been thrown at human beings.[16] Nonetheless, the account appears to have become canonical. Each time there is a new mobilization, stories invariably surface in local newspapers with the same list of “Seattle tactics”—a list that also appears to have become enshrined in training manuals distributed to street cops. Before the Miami Summit of the Americas in 2003, for example, for example, circulars distributed to local businessmen and civic groups listed every one of these “Seattle tactics” as what they should expect to see on the streets once anarchists arrived:
 
-<quote>
 
  **Wrist Rockets** — larger hunter-type sling shots that they use to shoot steel ball bearings or large bolts. A very dangerous and deadly weapon.
 
@@ -158,13 +140,12 @@ This same period began to see increasingly outlandish accounts of what had happe
 
  **Squirt guns** — filled with acid or urine.[17]
 
-</quote>
 
 Again, according to local police’s own accounts, none of these weapons or tactics had been used in Seattle and no one has produced any evidence they’ve been used in any subsequent US mobilization.[18]
 
 In Miami, the predictable result was that, by the time the first marches began, most of downtown lay shuttered and abandoned.
 
-Miami, as the first major convergence in the new security climate after September 11<sup>th</sup>, might be said to mark the full culmination of this approach, combining aggressive disinformation and preemptive attacks on activists. During the actions, the police chief—John Timoney again—had officers pouring out an endless series of accusations of activists hurling rocks, bottles, urine, and bags of feces at police. (As usual, despite ubiquitous video cameras and hundreds of arrests, no one was ever charged, let alone convicted, of assaulting an officer with any such substance, and no reporter managed to produce an image of an activist doing so.) Police strategy consisted almost entirely of raids and preemptive attacks on protestors, employing the full arsenal of old and newly developed “non-lethal” weaponry: tazers, pepper spray, plastic and rubber and wooden bullets, bean-bag bullets soaked in pepper spray, tear gas, and so on—and rules of engagement that allowed them to pretty much fire at anyone at will.
+Miami, as the first major convergence in the new security climate after September 11th, might be said to mark the full culmination of this approach, combining aggressive disinformation and preemptive attacks on activists. During the actions, the police chief—John Timoney again—had officers pouring out an endless series of accusations of activists hurling rocks, bottles, urine, and bags of feces at police. (As usual, despite ubiquitous video cameras and hundreds of arrests, no one was ever charged, let alone convicted, of assaulting an officer with any such substance, and no reporter managed to produce an image of an activist doing so.) Police strategy consisted almost entirely of raids and preemptive attacks on protestors, employing the full arsenal of old and newly developed “non-lethal” weaponry: tazers, pepper spray, plastic and rubber and wooden bullets, bean-bag bullets soaked in pepper spray, tear gas, and so on—and rules of engagement that allowed them to pretty much fire at anyone at will.
 
 Here too, puppets were singled out. In the months before the summit, the Miami city council actually attempted to pass a law making the display of puppets illegal, on the grounds that they could be used to conceal bombs or other weapons.[19] It failed, since it was patently unconstitutional, but the message got out. As a result, the Black Bloc in Miami actually ended up spending most of their time and energy on protecting the puppets. Miami also provides a vivid example of the peculiar personal animus many police seem to have against large figures made of papier-mâché. According to one eyewitness report, after police routed protesters from Seaside Plaza, forcing them to abandon their puppets, officers spent the next half hour or so systematically attacking and destroying them: shooting, kicking, and ripping the remains; one even putting a giant puppet in his squad car with the head sticking out and driving so as to smash it against every sign and street post available.
 
@@ -186,7 +167,7 @@ Police are also apparently regularly warned of that puppets might be used to con
 
 However, it’s hard to imagine this alone could explain the level of personal vindictiveness witnessed in Miami and other actions—especially since police hacking puppets to pieces must have been aware that there was nothing hidden inside them. The antipathy seems to run far deeper. Many activists have speculated on the reasons:
 
-<quote>
+
 **David Corston-Knowles’ opinion**: You have to bear in mind these are people who are trained to be paranoid. They really do have to ask themselves whether something so big and inscrutable might contain explosives, however absurd that might seem from a non-violent protester’s perspective. Police view their jobs not just as law enforcement, but also as maintaining order. And they take that job very personally. Giant demonstrations and giant puppets aren’t orderly. They are about creating something—a different society, a different way of looking at things—and creativity is fundamentally at odds with the status quo.
 
 **Daniel Lang’s opinion**: Well, one theory is that the cops just don’t like being upstaged by someone putting on a bigger show. After all, normally *they’re* the spectacle: they’ve got the blue uniforms, they’ve got the helicopters and horses and rows of shiny motorcycles. So maybe they just resent it when someone steals the show by coming up with something even bigger and even more visually striking. They want to take out the competition.
@@ -194,7 +175,7 @@ However, it’s hard to imagine this alone could explain the level of personal v
 **Yvonne Liu’s opinion**: It’s because they’re so big. Cops don’t like things that tower over them. That’s why they like to be on horses. Plus, puppets are silly and round and misshapen. Notice how much cops always have to maintain straight lines? They stand in straight lines, they always try to make you stand in straight lines... I think round misshapen things somehow offend them.
 
 **Max Uhlenbeck’s opinion**: Obviously, they hate to be reminded that they’re puppets themselves.
-</quote>
+
 
 I will return to this question shortly.
 
@@ -234,9 +215,8 @@ To fully understand the place of puppets, though, I think one has to grapple wit
 
 I already touched on this question obliquely earlier when I suggested that when politicians informed street cops that protestors were “trust fund babies”, what they really meant to suggest was that they could be brutalized, but not maimed or killed, and that police tactics should be designed accordingly. From an ethnographer’s perspective, one of the most puzzling things about direct action is to understand how these rules are actually negotiated. Certainly, rules exist. There are lines that cannot be crossed by the police without risk of major scandal, there are endless lines that cannot be crossed by activists. Yet each side acts as if it is playing a game whose rules it had worked out exclusively through its own internal processes, without any consultation with the other players. This could not ultimately be the case. I first began thinking about these question after my experience in Philly during the Republican Convention in the summer of 2000. I had working mainly with an activist media team. During the day of action, however, my job was to go out into the streets with a cell phone to report back to them what was actually happening. I ended up accompanying a column of Black Bloc’ers whose actions were originally meant as a diversion, to lure police away from street blockades in a different part of town. The police appear to have decided not to take the bait, and as a result, the Bloc briefly had their run of a wide stretch of downtown Philadelphia:
 
-<quote>
 
-(<strong>based on field notes, Philadelphia, August 1<sup>st</sup> 2000</strong>).
+(based on field notes, Philadelphia, August 1st 2000).
 
 faced with a rapidly moving column of several hundred anarchists appearing out of nowhere, small groups of police would often abandon their cars, which the anarchists would then proceed to trash and spray-paint. A couple dozen police cars, one stretch limo, and numerous official buildings were hit in the course of the next hour or so. Eventually, reinforcements, in the form of police bicycle squads, began to appear and before long there was a rough balance of forces. What followed at this point could only be described as an episode of some kind of nonviolent warfare. A few Black Bloc kids would try to shut down a bus by playing with valves in the back; a squad of bike cops would swoop in and grab a few, cuffing them and locking their bikes together to create tiny fortresses in which to hold them. Once, a large mass of protesters appeared from another direction and the cops ended up besieged in their little bike fort, with Black Blockers surrounding them, screaming insults, throwing paint bombs above their heads, doing everything but actually attacking them. On that occasion the Bloc wasn’t quite able to snatch back their arrested comrades before police vans with reinforcements appeared to take them away; elsewhere, there were rumors of successful ‘unarrests’. The police even suffered a casualty in that particular confrontation: one overweight cop, overwhelmed by the tension and stifling heat, collapsed and had to be carried off or revived with smelling salts.
 
@@ -257,7 +237,7 @@ I lingered on the plaza, chatting with a friend, Brad, who was complaining that 
 The Goats, as it turned out, were just the first wave. They were followed, ten minutes later, by a kind of “puppet intervention”. Not with real puppets—the puppets had all been destroyed, and the musicians all arrested, at the warehouse earlier that morning. Instead, the Revolutionary Anarchist Clown Bloc appeared; led by two figures on high bicycles, blowing horns and kazoos, spreading streamers and confetti everywhere; alongside a large contingent of
 
 ‘Billionaires for Bush (or Gore)’, dressed in high camp tuxedos and evening gowns. There were probably not more than thirty or forty of them in all but between them they immediately managed to change the tenor of the whole event, and to throw everything into confusion. The Billionaires started handing fake money to the police (“to thank them for suppressing dissent.”) the clowns attacked the Billionaires with squeaky mallets. Unicycles appeared, and fire jugglers. In the ensuing confusion, cracks did appear in the police lines and just about everyone on the Plaza took advantage to form a wedge and burst out and to safety, with the Black Bloc leading the way.
-</quote>
+
 
 Let’s consider for a moment this idea of nonviolent warfare. How much of a metaphor is it really?
 
@@ -297,7 +277,7 @@ Negotiation, then, is supposed to take place indirectly. Each side is supposed t
 
 Let’s return, then, to the notion of a “puppet intervention”.
 
-In Philly, on the evening of the 1<sup>st</sup>, we organized a press conference in which one of the few puppetistas who escaped arrest that morning was given center stage. During the press conference and subsequent talks with the media, we all emphasized that the puppet crews were, effectively, our peacekeepers. One of their main jobs was to intervene to defuse situations of potential violence. If the police were really primarily concerned with maintaining public order, as they maintained, peacekeepers seemed a strange choice for a preemptive strike.
+In Philly, on the evening of the 1st, we organized a press conference in which one of the few puppetistas who escaped arrest that morning was given center stage. During the press conference and subsequent talks with the media, we all emphasized that the puppet crews were, effectively, our peacekeepers. One of their main jobs was to intervene to defuse situations of potential violence. If the police were really primarily concerned with maintaining public order, as they maintained, peacekeepers seemed a strange choice for a preemptive strike.
 
 By now, it should be easy enough to see why police might not see things this way. This is not to say we were not right to insist that the attack on the puppet warehouse was inspired by political motives, rather than a desire to protect the public.[35] It was. As we’ve seen, it appears, with its wild claims of acid and explosives, to have been part of a calculated campaign of symbolic warfare. At the same time, the *manner* in which puppets can be used to defuse situations of potential violence is completely different than, say, would be employed by protest marshals. Police tend to appreciate the presence of marshals, since marshals are organized into a chain of command that police tend to immediately to treat as a mere extension of their own—and which, as a result, often effectively becomes so. Unlike marshals, puppets cannot be used to convey orders. Rather, like the clowns and Billionaires, they aim to transform and redefine situations of potential conflict.
 
@@ -397,7 +377,7 @@ Like any ideological formula, however, this one is extraordinarily unstable, rid
 
 [23] One common fear is that wooden dowels used in their construction could be detached and used as cudgels, or to break windows.
 
-[24] Monday, August 21<sup>st</sup>, “Convention Protests Bring Mixed Reactions” (Reuters/Zogby). “In a Zogby America survey of 1,004 adults, 32.9% said they were proud of the protesters, while another 31.2% said they were wary. Another 13.2% said they were sympathetic and 15.7% irritated and 6.9% said they were unsure.” Considering the almost uniform hostility of the coverage, the fact that a third of the audience were nonetheless “proud”, and that less than one in six were sure their reaction was negative, is quite remarkable.
+[24] Monday, August 21st, “Convention Protests Bring Mixed Reactions” (Reuters/Zogby). “In a Zogby America survey of 1,004 adults, 32.9% said they were proud of the protesters, while another 31.2% said they were wary. Another 13.2% said they were sympathetic and 15.7% irritated and 6.9% said they were unsure.” Considering the almost uniform hostility of the coverage, the fact that a third of the audience were nonetheless “proud”, and that less than one in six were sure their reaction was negative, is quite remarkable.
 
 [25] Probably the destruction of productive capacity as well, which must be endlessly renewed.
 

@@ -1,10 +1,15 @@
+---
+title: "**Pennsylvania**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Pennsylvania)
 
 # **Pennsylvania**
 
 ## Contributors to Wikimedia projects
 
-111–140 minutes
+111-140 minutes
 
 "Penn." redirects here. For other uses, see [Penn.](https://en.wikipedia.org/wiki/Penn_(disambiguation))
 
@@ -34,7 +39,7 @@
 
 [Anthem:](https://en.wikipedia.org/wiki/List_of_U. S._state_songs) ["Pennsylvania"](https://en.wikipedia.org/wiki/Pennsylvania_(song))
 
-## �:�� / �:��
+## : / :
 
 ## ![](_page_1_Picture_6.jpeg)
 
@@ -50,50 +55,103 @@
 | Largest metro and urban | Delaware Valley | | | | |
 | areas | | | | | |
 | | Government | | | | |
-| •<br>Governor | Josh Shapiro (D) | | | | |
-| •<br>Lieutenant Governor | Austin Davis (D) | | | | |
+| •
+Governor | Josh Shapiro (D) | | | | |
+| •
+Lieutenant Governor | Austin Davis (D) | | | | |
 
 | Legislature | General Assembly |
 |-----------------------|-------------------------------------------|
-| •<br>Upper house | State Senate |
-| •<br>Lower house | House of Representatives |
-| Judiciary | Supreme Court of<br>Pennsylvania |
-| U. S. senators | John Fetterman (D)<br>Dave Mc Cormick (R) |
-| U. S. House delegation | 10 Republicans<br>7 Democrats<br>(list) |
+| •
+Upper house | State Senate |
+| •
+Lower house | House of Representatives |
+| Judiciary | Supreme Court of
+Pennsylvania |
+| U. S. senators | John Fetterman (D)
+Dave Mc Cormick (R) |
+| U. S. House delegation | 10 Republicans
+7 Democrats
+(list) |
 | | Area |
-| •<br>Total | km2)<br>46,055<br>sq<br>mi (119,283 |
-| •<br>Land | 44,816.61<br>sq<br>mi<br>km2)<br>(116,074 |
-| •<br>Water | km2)<br>1,239<br>sq<br>mi (3,208<br>2.7% |
-| •<br>Rank | 33rd |
+| •
+Total | km2)
+46,055
+sq
+mi (119,283 |
+| •
+Land | 44,816.61
+sq
+mi
+km2)
+(116,074 |
+| •
+Water | km2)
+1,239
+sq
+mi (3,208
+2.7% |
+| •
+Rank | 33rd |
 | | Dimensions |
-| •<br>Length | 170<br>mi (273<br>km) |
-| •<br>Width | 283<br>mi (455<br>km) |
-| Elevation | 1,100<br>ft (340<br>m) |
-## | Highest<br>elevation | 3,213<br>ft (979<br>m) |
+| •
+Length | 170
+mi (273
+km) |
+| •
+Width | 283
+mi (455
+km) |
+| Elevation | 1,100
+ft (340
+m) |
+## | Highest
+elevation | 3,213
+ft (979
+m) |
 
 | (Mount Davis[2][a]) | | | | | | | |
 |----------------------------------------------------|---------------------------------------------------------------------|--|--|--|--|--|--|
-| Lowest<br>elevation<br>(Delaware River at Delaware | 0<br>ft (0<br>m) | | | | | | |
+| Lowest
+elevation
+(Delaware River at Delaware | 0
+ft (0
+m) | | | | | | |
 | border[2]) | | | | | | | |
-| Population<br>(2024) | | | | | | | |
-| •<br>Total | 13,078,751[3] | | | | | | |
-| •<br>Rank | 5th | | | | | | |
-| •<br>Density | mi (112.7/km2)<br>291.8/sq | | | | | | |
-| •<br>Rank | 9th | | | | | | |
-| •<br>Median household income | \$73,800 (2023)[4] | | | | | | |
-| •<br>Income rank | 28th | | | | | | |
-| Demonyms | Pennsylvanian<br>Pennamite<br>Pennsylvanier (Pennsylvania<br>Dutch) | | | | | | |
+| Population
+(2024) | | | | | | | |
+| •
+Total | 13,078,751[3] | | | | | | |
+| •
+Rank | 5th | | | | | | |
+| •
+Density | mi (112.7/km2)
+291.8/sq | | | | | | |
+| •
+Rank | 9th | | | | | | |
+| •
+Median household income | \$73,800 (2023)[4] | | | | | | |
+| •
+Income rank | 28th | | | | | | |
+| Demonyms | Pennsylvanian
+Pennamite
+Pennsylvanier (Pennsylvania
+Dutch) | | | | | | |
 | | Language | | | | | | |
-| •<br>Official language | None | | | | | | |
-| •<br>Spoken language | • English 90.15% | | | | | | |
+| •
+Official language | None | | | | | | |
+| •
+Spoken language | • English 90.15% | | | | | | |
 | | • Spanish 4.09% | | | | | | |
-| | • German (including<br>Pennsylvania Dutch) 0.87% | | | | | | |
+| | • German (including
+Pennsylvania Dutch) 0.87% | | | | | | |
 
 | | • Chinese 0.47% |
 |--------------------------|----------------------|
 | | • Italian 0.43%[5] |
-| Time zone | UTC– 05:00 (Eastern) |
-| •<br>Summer (DST) | UTC– 04:00 (EDT) |
+| Time zone | UTC- 05:00 (Eastern) |
+| •
+Summer (DST) | UTC- 04:00 (EDT) |
 | USPS abbreviation | PA |
 | ISO 3166 code | US-PA |
 | Traditional abbreviation | Pa., Penn., Penna. |
@@ -128,7 +186,8 @@
 | Dog breed | Great Dane | | | | |
 | Fish | Brook trout | | | | |
 | Flower | Mountain laurel | | | | |
-| Insect | Firefly (Colloquially "Lightning Bug") (Photuris<br>pensylvanica) | | | | |
+| Insect | Firefly (Colloquially "Lightning Bug") (Photuris
+pensylvanica) | | | | |
 | Mammal | White-tailed deer | | | | |
 | Tree | Eastern hemlock | | | | |
 | | Inanimate insignia | | | | |
@@ -207,7 +266,7 @@ What had been Upland on the Pennsylvania side of the Pennsylvania-Delaware borde
 
 ![](_page_14_Picture_4.jpeg)
 
-[Independence Hall](https://en.wikipedia.org/wiki/Independence_Hall) in [Philadelphia,](https://en.wikipedia.org/wiki/Philadelphia) where the [Declaration of](https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence) [Independence](https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence) and [United States Constitution](https://en.wikipedia.org/wiki/Constitution_of_the_United_States) were adopted in 1776 and 1787–88, respectively
+[Independence Hall](https://en.wikipedia.org/wiki/Independence_Hall) in [Philadelphia,](https://en.wikipedia.org/wiki/Philadelphia) where the [Declaration of](https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence) [Independence](https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence) and [United States Constitution](https://en.wikipedia.org/wiki/Constitution_of_the_United_States) were adopted in 1776 and 1787-88, respectively
 
 Between 1730 and when the Pennsylvania Colony was shut down by [Parliament](https://en.wikipedia.org/wiki/Parliament_of_Great_Britain) with the [Currency Act](https://en.wikipedia.org/wiki/Currency_Act) in 1764, the Pennsylvania Colony made its own paper money to account for the shortage of actual gold and silver. The paper money was called [Colonial Scrip.](https://en.wikipedia.org/wiki/Colonial_Scrip)
 
@@ -259,7 +318,7 @@ Bethlehem Steel in Bethlehem was one of the world's leading steel manufacturers 
 
 In the beginning of the 20th century, Pennsylvania's economy was centered on steel manufacturing, logging, coal mining, textile production, and other forms of industrial manufacturing. A surge in immigration to the U. S. during the late 19th and early 20th centuries provided a steady flow of cheap labor for these industries, which often employed children and people who could not speak English from Southern and Eastern Europe. [citation needed] Thousands of Pennsylvanians volunteered during the Spanish-American War. Pennsylvania was an important industrial center during World War I. The state provided over 300,000 soldiers during the war. On May 31, 1918, the Pittsburgh Agreement was signed in Pittsburgh, signed by Tomáš Masaryk and established Czechoslovakia as an independent nation.
 
-In 1922, 310,000 Pennsylvania miners joined the <u>UMW General</u> coal strike, which lasted 163 days and shut down most of the state's coal mines. [67][68]
+In 1922, 310,000 Pennsylvania miners joined the UMW General coal strike, which lasted 163 days and shut down most of the state's coal mines. [67][68]
 
 In 1923, President Calvin Coolidge established the Allegheny
 
@@ -287,15 +346,15 @@ earlier attacks on the [World Trade Center,](https://en.wikipedia.org/wiki/World
 
 Since 2003, the [Tekko](https://en.wikipedia.org/wiki/Tekko_(convention)) [anime](https://en.wikipedia.org/wiki/Anime) convention has been held annually in Pittsburgh[.\[81\]](#page-79-4)
 
-In October 2018, the [Tree of Life – Or L'Simcha Congregation,](https://en.wikipedia.org/wiki/Tree_of_Life_%E2%80%93_Or_L%27Simcha_Congregation) a [conservative Jewish](https://en.wikipedia.org/wiki/Conservative_Judaism) synagogue, experienced the [Pittsburgh](https://en.wikipedia.org/wiki/Pittsburgh_synagogue_shooting) [synagogue shooting,](https://en.wikipedia.org/wiki/Pittsburgh_synagogue_shooting) which resulted in 11 fatalities[.\[82\]](#page-79-5) On July 13, 2024, near [Butler, Pennsylvania,](https://en.wikipedia.org/wiki/Butler,_Pennsylvania) [an assassination attempt](https://en.wikipedia.org/wiki/Attempted_assassination_of_Donald_Trump_in_Pennsylvania) on the 45th President of the United States [Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump) occurred.
+In October 2018, the [Tree of Life - Or L'Simcha Congregation,](https://en.wikipedia.org/wiki/Tree_of_Life_%E2%80%93_Or_L%27Simcha_Congregation) a [conservative Jewish](https://en.wikipedia.org/wiki/Conservative_Judaism) synagogue, experienced the [Pittsburgh](https://en.wikipedia.org/wiki/Pittsburgh_synagogue_shooting) [synagogue shooting,](https://en.wikipedia.org/wiki/Pittsburgh_synagogue_shooting) which resulted in 11 fatalities[.\[82\]](#page-79-5) On July 13, 2024, near [Butler, Pennsylvania,](https://en.wikipedia.org/wiki/Butler,_Pennsylvania) [an assassination attempt](https://en.wikipedia.org/wiki/Attempted_assassination_of_Donald_Trump_in_Pennsylvania) on the 45th President of the United States [Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump) occurred.
 
 Pennsylvania is 170 miles (274 km) north to south and 283 miles (455 km) east to west[.\[83\]](#page-79-6) Of a total 46,055 square miles (119,282 km2), 44,817 square miles (116,075 km2) are land, 490 square miles (1,269 km2) are inland waters, and 749 square miles (1,940 km2) are waters in [Lake Erie.](https://en.wikipedia.org/wiki/Lake_Erie) [\[84\]](#page-79-7) It is the [33rd-largest state](https://en.wikipedia.org/wiki/List_of_U. S._states_by_area) in the [United States.](https://en.wikipedia.org/wiki/United_States) [\[85\]](#page-79-8) Pennsylvania has 51 miles (82 km[\)\[86\]](#page-79-9) of coastline along [Lake Erie](https://en.wikipedia.org/wiki/Lake_Erie) and 57 miles (92 km[\)\[10\]](#page-70-6) of shoreline along the [Delaware Estuary.](https://en.wikipedia.org/wiki/Delaware_River) Of the original [Thirteen Colonies,](https://en.wikipedia.org/wiki/Thirteen_Colonies) Pennsylvania is the only state that does not border the [Atlantic Ocean.](https://en.wikipedia.org/wiki/Atlantic_Ocean)
 
-The boundaries of the state are the [Mason–Dixon line](https://en.wikipedia.org/wiki/Mason%E2%80%93Dixon_line) (39°43' N) to the south, [Twelve-Mile Circle](https://en.wikipedia.org/wiki/Twelve-Mile_Circle) on the Pennsylvania-[Delaware](https://en.wikipedia.org/wiki/Delaware) border, the [Delaware River](https://en.wikipedia.org/wiki/Delaware_River) to the east, 80°31' W to the west, and the [42° N](https://en.wikipedia.org/wiki/42nd_parallel_north) to the north, except for a short segment on the western end where a [triangle](https://en.wikipedia.org/wiki/Erie_Triangle) extends north to [Lake Erie.](https://en.wikipedia.org/wiki/Lake_Erie) The state has five geographical regions: [Allegheny](https://en.wikipedia.org/wiki/Allegheny_Plateau) [Plateau,](https://en.wikipedia.org/wiki/Allegheny_Plateau) [Ridge and Valley,](https://en.wikipedia.org/wiki/Ridge-and-Valley_Appalachians) [Atlantic Coastal Plain,](https://en.wikipedia.org/wiki/Atlantic_Coastal_Plain) [Piedmont,](https://en.wikipedia.org/wiki/Piedmont_(United_States)) and [Erie Plain.](https://en.wikipedia.org/wiki/Erie_Plain)
+The boundaries of the state are the [Mason-Dixon line](https://en.wikipedia.org/wiki/Mason%E2%80%93Dixon_line) (39°43' N) to the south, [Twelve-Mile Circle](https://en.wikipedia.org/wiki/Twelve-Mile_Circle) on the Pennsylvania-[Delaware](https://en.wikipedia.org/wiki/Delaware) border, the [Delaware River](https://en.wikipedia.org/wiki/Delaware_River) to the east, 80°31' W to the west, and the [42° N](https://en.wikipedia.org/wiki/42nd_parallel_north) to the north, except for a short segment on the western end where a [triangle](https://en.wikipedia.org/wiki/Erie_Triangle) extends north to [Lake Erie.](https://en.wikipedia.org/wiki/Lake_Erie) The state has five geographical regions: [Allegheny](https://en.wikipedia.org/wiki/Allegheny_Plateau) [Plateau,](https://en.wikipedia.org/wiki/Allegheny_Plateau) [Ridge and Valley,](https://en.wikipedia.org/wiki/Ridge-and-Valley_Appalachians) [Atlantic Coastal Plain,](https://en.wikipedia.org/wiki/Atlantic_Coastal_Plain) [Piedmont,](https://en.wikipedia.org/wiki/Piedmont_(United_States)) and [Erie Plain.](https://en.wikipedia.org/wiki/Erie_Plain)
 
 ## ![](_page_26_Figure_3.jpeg)
 
-The [Köppen climate types](https://en.wikipedia.org/wiki/K%C3%B6ppen_climate_classification) of Pennsylvania based on 1991– 2020 [climate normals](https://en.wikipedia.org/wiki/Climatological_normal)
+The [Köppen climate types](https://en.wikipedia.org/wiki/K%C3%B6ppen_climate_classification) of Pennsylvania based on 1991- 2020 [climate normals](https://en.wikipedia.org/wiki/Climatological_normal)
 
 ## ![](_page_26_Picture_5.jpeg)
 
@@ -331,13 +390,17 @@ The state's three-most populated cities, in order of size, are Philadelphia, Pit
 | | 3 | Allentown | Lehigh | 125,845 | 13 | | |
 | Pittsburgh | 4 | Reading | Berks | 95,112 | 14 | | |
 | | 5 | Erie | Erie | 94,831 | 15 | | |
-| | 6 | Upper<br>Darby | Delaware | 85,681 | 16 | | |
+| | 6 | Upper
+Darby | Delaware | 85,681 | 16 | | |
 ## | | 7 | Scranton | Lackawanna | 76,328 | 17 | | |
 
 | 8 | Bethlehem | Northampton | 75,781 | 18 |
 |----|-----------------------------|-------------|--------|----|
-| 9 | Lower<br>Merion<br>Township | Montgomery | 63,633 | 19 |
-| 10 | Bensalem<br>Township | Bucks | 62,707 | 20 |
+| 9 | Lower
+Merion
+Township | Montgomery | 63,633 | 19 |
+| 10 | Bensalem
+Township | Bucks | 62,707 | 20 |
 
 ### **Adjacent states and province**
 
@@ -355,7 +418,7 @@ The state's three-most populated cities, in order of size, are Philadelphia, Pit
 
 | Census | Pop. | %± |
 |--------|-----------|-------|
-| 1790 | 434,373 | — |
+| 1790 | 434,373 | -- |
 | 1800 | 602,365 | 38.7% |
 | 1810 | 810,091 | 34.5% |
 | 1820 | 1,049,458 | 29.5% |
@@ -384,7 +447,7 @@ The state's three-most populated cities, in order of size, are Philadelphia, Pit
 | 2024 (est.) | 13,078,751 | [3] | 0.6% | | |
 ## | | | | | | |
 
-Source: 1910–202[0\[93\]](#page-80-4)
+Source: 1910-202[0\[93\]](#page-80-4)
 
 ## ![](_page_31_Figure_2.jpeg)
 
@@ -416,7 +479,7 @@ Racial and ethnic composition as of the [2020](https://en.wikipedia.org/wiki/202
 |---------------------------------|-------|-------|
 | White (non-Hispanic) | 73.4% | 76.6% |
 | African American (non-Hispanic) | 10.5% | 11.8% |
-| Hispanic or Latino[e] | — | 8.1% |
+| Hispanic or Latino[e] | -- | 8.1% |
 | Asian | 3.9% | 4.5% |
 | Native American | 0.1% | 1.1% |
 | Pacific Islander | 0.02% | 0.1% |
@@ -424,18 +487,26 @@ Racial and ethnic composition as of the [2020](https://en.wikipedia.org/wiki/202
 
 # **Historical racial and ethnic composition to 2020**
 
-| Racial and<br>ethnic<br>composition | 1990[112] | 2000[113] | 2010[114] | 2020[115] |
+| Racial and
+ethnic
+composition | 1990[112] | 2000[113] | 2010[114] | 2020[115] |
 |-------------------------------------|-----------|-----------|-----------|-----------|
 | White | 88.5% | 85.4% | 81.9% | 75.0% |
 ## | Black | 9.2% | 10.0% | 10.9% | 10.9% |
 
-| Racial and<br>ethnic<br>composition | 1990[112] | 2000[113] | 2010[114] | 2020[115] |
+| Racial and
+ethnic
+composition | 1990[112] | 2000[113] | 2010[114] | 2020[115] |
 |-------------------------------------------------------|-----------|-----------|-----------|-----------|
 | Asian | 1.2% | 1.8% | 2.8% | 3.9% |
 | Native | 0.1% | 0.1% | 0.2% | 0.2% |
-| Native<br>Hawaiians and<br>other Pacific<br>Islanders | – | – | – | – |
+| Native
+Hawaiians and
+other Pacific
+Islanders | - | - | - | - |
 | Other race | 1.0% | 1.5% | 2.4% | 3.9% |
-## | Two or more<br>races | – | 1.2% | 1.9% | 6.0% |
+## | Two or more
+races | - | 1.2% | 1.9% | 6.0% |
 
 Note: data for births o[f White Hispanic](https://en.wikipedia.org/wiki/White_Hispanic_and_Latino_Americans) origin have not been collected, but included in one Hispanic group; persons of Hispanic origin may be of any race.
 
@@ -516,7 +587,7 @@ The current Governor is [Josh Shapiro.](https://en.wikipedia.org/wiki/Josh_Shapi
 
 The [Pennsylvania State Capitol](https://en.wikipedia.org/wiki/Pennsylvania_State_Capitol) in [Harrisburg](https://en.wikipedia.org/wiki/Harrisburg,_Pennsylvania)
 
-Pennsylvania has a [bicameral legislature](https://en.wikipedia.org/wiki/Bicameral_legislature) that was established in the [Pennsylvania Constitution,](https://en.wikipedia.org/wiki/Pennsylvania_Constitution) which was ratified in 1790. The original Frame of Government of William Penn had a unicameral legislature[.\[162\]](#page-87-2) The [General Assembly](https://en.wikipedia.org/wiki/Pennsylvania_General_Assembly) includes 50 [senators](https://en.wikipedia.org/wiki/Pennsylvania_Senate) and 203 [representatives.](https://en.wikipedia.org/wiki/Pennsylvania_House_of_Representatives) [Kim L. Ward](https://en.wikipedia.org/wiki/Kim_Ward) is currently [president pro tempore](https://en.wikipedia.org/wiki/President_pro_tempore) of the State Senate, [Joe Pittman](https://en.wikipedia.org/wiki/Joe_Pittman_(politician)) the [majority leader,](https://en.wikipedia.org/wiki/Majority_leader) and [Jay Costa](https://en.wikipedia.org/wiki/Jay_Costa) the [minority leader.](https://en.wikipedia.org/wiki/Minority_leader) [\[163\]](#page-87-3) [Joanna](https://en.wikipedia.org/wiki/Joanna_Mc Clinton) [Mc Clinton](https://en.wikipedia.org/wiki/Joanna_Mc Clinton) is [speaker](https://en.wikipedia.org/wiki/Speaker_of_the_Pennsylvania_House_of_Representatives) of the House of Representatives, with [Matthew Bradford](https://en.wikipedia.org/wiki/Matthew_Bradford) as majority leader and [Bryan Cutler](https://en.wikipedia.org/wiki/Bryan_Cutler) as minority leader[.\[164\]](#page-87-4) As of 2023, the Republicans hold the majority in the State Senate (28–22) and the Democrats in the State House (102–101). Pennsylvania is one of only two states that currently have divided party control of the state legislature[.\[165\]](#page-87-5)
+Pennsylvania has a [bicameral legislature](https://en.wikipedia.org/wiki/Bicameral_legislature) that was established in the [Pennsylvania Constitution,](https://en.wikipedia.org/wiki/Pennsylvania_Constitution) which was ratified in 1790. The original Frame of Government of William Penn had a unicameral legislature[.\[162\]](#page-87-2) The [General Assembly](https://en.wikipedia.org/wiki/Pennsylvania_General_Assembly) includes 50 [senators](https://en.wikipedia.org/wiki/Pennsylvania_Senate) and 203 [representatives.](https://en.wikipedia.org/wiki/Pennsylvania_House_of_Representatives) [Kim L. Ward](https://en.wikipedia.org/wiki/Kim_Ward) is currently [president pro tempore](https://en.wikipedia.org/wiki/President_pro_tempore) of the State Senate, [Joe Pittman](https://en.wikipedia.org/wiki/Joe_Pittman_(politician)) the [majority leader,](https://en.wikipedia.org/wiki/Majority_leader) and [Jay Costa](https://en.wikipedia.org/wiki/Jay_Costa) the [minority leader.](https://en.wikipedia.org/wiki/Minority_leader) [\[163\]](#page-87-3) [Joanna](https://en.wikipedia.org/wiki/Joanna_Mc Clinton) [Mc Clinton](https://en.wikipedia.org/wiki/Joanna_Mc Clinton) is [speaker](https://en.wikipedia.org/wiki/Speaker_of_the_Pennsylvania_House_of_Representatives) of the House of Representatives, with [Matthew Bradford](https://en.wikipedia.org/wiki/Matthew_Bradford) as majority leader and [Bryan Cutler](https://en.wikipedia.org/wiki/Bryan_Cutler) as minority leader[.\[164\]](#page-87-4) As of 2023, the Republicans hold the majority in the State Senate (28-22) and the Democrats in the State House (102-101). Pennsylvania is one of only two states that currently have divided party control of the state legislature[.\[165\]](#page-87-5)
 
 Pennsylvania is divided into 60 judicial districts.[\[166\]](#page-87-6) With the exception of [Philadelphia County,](https://en.wikipedia.org/wiki/Philadelphia_County,_Pennsylvania) most have district justices and justices of the peace who preside over most preliminary hearings in felony and misdemeanor offenses, all minor (summary) criminal offenses, and small civil claims.[\[166\]](#page-87-6) Most criminal and civil cases originate in the Courts of Common Pleas, which also serve as [appellate court.](https://en.wikipedia.org/wiki/Appellate_court) [\[166\]](#page-87-6) The [Superior](https://en.wikipedia.org/wiki/Superior_Court_of_Pennsylvania) [Court](https://en.wikipedia.org/wiki/Superior_Court_of_Pennsylvania) hears all appeals from the Courts of Common Pleas not expressly designated to the [Commonwealth Court](https://en.wikipedia.org/wiki/Commonwealth_Court_of_Pennsylvania) or [Supreme](https://en.wikipedia.org/wiki/United_States_Supreme_Court) [Court.](https://en.wikipedia.org/wiki/United_States_Supreme_Court) The Superior Court also has original jurisdiction to review [probable cause](https://en.wikipedia.org/wiki/Probable_cause) governmental requests for [warrants](https://en.wikipedia.org/wiki/Warrant_(law)) in [wiretap](https://en.wikipedia.org/wiki/Telephone_tapping) surveillance[.\[166\]](#page-87-6) The Commonwealth Court is limited to appeals from final orders of certain state agencies and certain designated cases from the Courts of Common Pleas. [\[166\]](#page-87-6) The [Supreme Court of Pennsylvania](https://en.wikipedia.org/wiki/Supreme_Court_of_Pennsylvania) is the state's final appellate court. All judges in Pennsylvania are elected, and the [chief justice](https://en.wikipedia.org/wiki/Chief_justice) of the state's Supreme Court is determined by seniority[.\[166\]](#page-87-6)
 
@@ -530,7 +601,7 @@ Pennsylvania is divided into 60 judicial districts.[\[166\]](#page-87-6) With th
 
 Pennsylvania is divided into 67 [counties.](https://en.wikipedia.org/wiki/County_(United_States)) [\[167\]](#page-87-7) Counties are further subdivided into municipalities that are either incorporated as cities, [boroughs,](https://en.wikipedia.org/wiki/Borough_(Pennsylvania)) or [townships.](https://en.wikipedia.org/wiki/Township_(Pennsylvania)) [\[168\]](#page-87-8) The most populous county in Pennsylvania and [24th-most populous](https://en.wikipedia.org/wiki/List_of_the_most_populous_counties_in_the_United_States) [county](https://en.wikipedia.org/wiki/List_of_the_most_populous_counties_in_the_United_States) in the United States is [Philadelphia County,](https://en.wikipedia.org/wiki/Philadelphia_County,_Pennsylvania) which includes the city of [Philadelphia,](https://en.wikipedia.org/wiki/Philadelphia) with a 2020 population of 1,603,797; the state's least populous county is [Cameron](https://en.wikipedia.org/wiki/Cameron_County,_Pennsylvania) with a population of 4,547[.\[108\]](#page-81-9)
 
-There are a total of 56 cities in Pennsylvania, which are classified by population as either first-class, second-class, or third-class cities[.\[167\]](#page-87-7)[\[169\]](#page-87-9) Philadelphia, the state's largest city with a population exceeding 1.6 million, is Pennsylvania's only first-class city[.\[168\]](#page-87-8) [Pittsburgh](https://en.wikipedia.org/wiki/Pittsburgh) (303,000) and [Scranton](https://en.wikipedia.org/wiki/Scranton,_Pennsylvania) (76,000) are second-class and second-class 'A' cities, respectively.[\[168\]](#page-87-8) All of the state's remaining cities including [Allentown,](https://en.wikipedia.org/wiki/Allentown,_Pennsylvania) the state's third-largest city, and [Reading,](https://en.wikipedia.org/wiki/Reading,_Pennsylvania) its fourth-largest, to [Parker,](https://en.wikipedia.org/wiki/Parker,_Pennsylvania) the state's smallest city with a population of only 820, are designated as third-class cities[.\[170\]](#page-87-10) First- and second-class cities are governed by a "strong mayor" form of [mayor–council](https://en.wikipedia.org/wiki/Mayor%E2%80%93council_government) [government,](https://en.wikipedia.org/wiki/Mayor%E2%80%93council_government) whereas third-class cities are governed by either a "weak mayor" form of government or a [council–manager](https://en.wikipedia.org/wiki/Council%E2%80%93manager_government) [government.](https://en.wikipedia.org/wiki/Council%E2%80%93manager_government) [\[168\]](#page-87-8)
+There are a total of 56 cities in Pennsylvania, which are classified by population as either first-class, second-class, or third-class cities[.\[167\]](#page-87-7)[\[169\]](#page-87-9) Philadelphia, the state's largest city with a population exceeding 1.6 million, is Pennsylvania's only first-class city[.\[168\]](#page-87-8) [Pittsburgh](https://en.wikipedia.org/wiki/Pittsburgh) (303,000) and [Scranton](https://en.wikipedia.org/wiki/Scranton,_Pennsylvania) (76,000) are second-class and second-class 'A' cities, respectively.[\[168\]](#page-87-8) All of the state's remaining cities including [Allentown,](https://en.wikipedia.org/wiki/Allentown,_Pennsylvania) the state's third-largest city, and [Reading,](https://en.wikipedia.org/wiki/Reading,_Pennsylvania) its fourth-largest, to [Parker,](https://en.wikipedia.org/wiki/Parker,_Pennsylvania) the state's smallest city with a population of only 820, are designated as third-class cities[.\[170\]](#page-87-10) First- and second-class cities are governed by a "strong mayor" form of [mayor-council](https://en.wikipedia.org/wiki/Mayor%E2%80%93council_government) [government,](https://en.wikipedia.org/wiki/Mayor%E2%80%93council_government) whereas third-class cities are governed by either a "weak mayor" form of government or a [council-manager](https://en.wikipedia.org/wiki/Council%E2%80%93manager_government) [government.](https://en.wikipedia.org/wiki/Council%E2%80%93manager_government) [\[168\]](#page-87-8)
 
 Pennsylvania boroughs are generally smaller in population than the state's cities, and most of the state's cities were incorporated as boroughs prior to being designated cities.[\[168\]](#page-87-8) There are 958 boroughs in Pennsylvania, all of which are governed by the "weak mayor" form of mayor-council government[.\[167\]](#page-87-7)[\[168\]](#page-87-8) The largest borough in Pennsylvania is [State College](https://en.wikipedia.org/wiki/State_College,_Pennsylvania) (40,501) and the smallest is [Centralia.](https://en.wikipedia.org/wiki/Centralia,_Pennsylvania)
 
@@ -612,9 +683,11 @@ Under state law, school attendance in Pennsylvania is mandatory for children bet
 
 The following are the four-year graduation rates for students completing high school in 2016[:\[188\]](#page-89-6)
 
-| Cohort | All<br>Students | Male | Female | White | Hispanic | Black |
+| Cohort | All
+Students | Male | Female | White | Hispanic | Black |
 |-----------------|-----------------|-------|--------|-------|----------|-------|
-| %<br>graduating | 86.09 | 84.14 | 88.13 | 90.48 | 72.83 | 73.22 |
+| %
+graduating | 86.09 | 84.14 | 88.13 | 90.48 | 72.83 | 73.22 |
 
 Among Pennsylvania high school graduates as of 2009, 27.5% of them went on to obtain a bachelor's degree or higher degree[.\[189\]](#page-89-7) State students consistently do well in standardized testing. In 2007, Pennsylvania ranked 14th in the nation in mathematics, 12th in reading, and 10th in writing for eighth grade students[.\[190\]](#page-89-8) In 1988, the [Pennsylvania General](https://en.wikipedia.org/wiki/Pennsylvania_General_Assembly) [Assembly](https://en.wikipedia.org/wiki/Pennsylvania_General_Assembly) passed Act 169, which allows parents or guardians to homeschool their children as an alternative to compulsory school attendance. The law specifies varying geographic requirements and responsibilities on the part of parents and school districts[.\[191\]](#page-90-0)
 
@@ -664,9 +737,9 @@ The [Pennsylvania Department of Transportation,](https://en.wikipedia.org/wiki/P
 
 Pennsylvania has seven major airports: [Philadelphia](https://en.wikipedia.org/wiki/Philadelphia_International_Airport) [International,](https://en.wikipedia.org/wiki/Philadelphia_International_Airport) [Pittsburgh International,](https://en.wikipedia.org/wiki/Pittsburgh_International_Airport) [Lehigh Valley](https://en.wikipedia.org/wiki/Lehigh_Valley_International_Airport) [International,](https://en.wikipedia.org/wiki/Lehigh_Valley_International_Airport) [Harrisburg International,](https://en.wikipedia.org/wiki/Harrisburg_International_Airport) [Wilkes-Barre/Scranton](https://en.wikipedia.org/wiki/Wilkes-Barre/Scranton_International_Airport) [International,](https://en.wikipedia.org/wiki/Wilkes-Barre/Scranton_International_Airport) [Erie International,](https://en.wikipedia.org/wiki/Erie_International_Airport) and [University Park Airport.](https://en.wikipedia.org/wiki/University_Park_Airport) A total of 134 public-use airports are located in the state.[\[205\]](#page-91-3) Intercity bus service is provided between cities in Pennsylvania and other major points in the Northeast by [Bolt Bus,](https://en.wikipedia.org/wiki/Bolt Bus) [Fullington](https://en.wikipedia.org/wiki/Fullington_Trailways) [Trailways,](https://en.wikipedia.org/wiki/Fullington_Trailways) [Greyhound Lines,](https://en.wikipedia.org/wiki/Greyhound_Lines) [Martz Trailways,](https://en.wikipedia.org/wiki/Martz_Trailways) [Megabus,](https://en.wikipedia.org/wiki/Megabus_(North_America)) [Our Bus,](https://en.wikipedia.org/wiki/Our Bus) [Trans-Bridge Lines,](https://en.wikipedia.org/wiki/Trans-Bridge_Lines) and various [Chinatown bus](https://en.wikipedia.org/wiki/Chinatown_bus_lines) companies. In 2018, [Our Bus](https://en.wikipedia.org/wiki/Our Bus) began offering service from [West](https://en.wikipedia.org/wiki/West_Chester,_Pennsylvania) [Chester,](https://en.wikipedia.org/wiki/West_Chester,_Pennsylvania) [Malvern,](https://en.wikipedia.org/wiki/Malvern,_Pennsylvania) [King of Prussia,](https://en.wikipedia.org/wiki/King_of_Prussia,_Pennsylvania) and [Fort Washington](https://en.wikipedia.org/wiki/Fort_Washington,_Pennsylvania) to [New](https://en.wikipedia.org/wiki/New_York_City) [York City.](https://en.wikipedia.org/wiki/New_York_City)
 
-PennDOT owns 39,861 miles (64,150 km) of the 121,770 miles (195,970 km) of roadway in the state, making it the fifthlargest state highway system in the United States.[\[206\]](#page-91-4) The [Pennsylvania Turnpike](https://en.wikipedia.org/wiki/Pennsylvania_Turnpike) system is 535 miles (861 km) long, with the mainline portion stretching from [Ohio](https://en.wikipedia.org/wiki/Ohio) to Philadelphia and [New Jersey.](https://en.wikipedia.org/wiki/New_Jersey) [\[206\]](#page-91-4) It is overseen by the [Pennsylvania Turnpike](https://en.wikipedia.org/wiki/Pennsylvania_Turnpike_Commission) [Commission.](https://en.wikipedia.org/wiki/Pennsylvania_Turnpike_Commission) Another major east–west route is [Interstate 80](https://en.wikipedia.org/wiki/Interstate_80_in_Pennsylvania), which runs primarily in the northern tier of the state from Ohio to New Jersey at the [Delaware Water Gap.](https://en.wikipedia.org/wiki/Delaware_Water_Gap) [Interstate 90](https://en.wikipedia.org/wiki/Interstate_90_in_Pennsylvania) travels the relatively short distance between Ohio and New York through [Erie County,](https://en.wikipedia.org/wiki/Erie_County,_Pennsylvania) in the extreme northwestern part of the state.
+PennDOT owns 39,861 miles (64,150 km) of the 121,770 miles (195,970 km) of roadway in the state, making it the fifthlargest state highway system in the United States.[\[206\]](#page-91-4) The [Pennsylvania Turnpike](https://en.wikipedia.org/wiki/Pennsylvania_Turnpike) system is 535 miles (861 km) long, with the mainline portion stretching from [Ohio](https://en.wikipedia.org/wiki/Ohio) to Philadelphia and [New Jersey.](https://en.wikipedia.org/wiki/New_Jersey) [\[206\]](#page-91-4) It is overseen by the [Pennsylvania Turnpike](https://en.wikipedia.org/wiki/Pennsylvania_Turnpike_Commission) [Commission.](https://en.wikipedia.org/wiki/Pennsylvania_Turnpike_Commission) Another major east-west route is [Interstate 80](https://en.wikipedia.org/wiki/Interstate_80_in_Pennsylvania), which runs primarily in the northern tier of the state from Ohio to New Jersey at the [Delaware Water Gap.](https://en.wikipedia.org/wiki/Delaware_Water_Gap) [Interstate 90](https://en.wikipedia.org/wiki/Interstate_90_in_Pennsylvania) travels the relatively short distance between Ohio and New York through [Erie County,](https://en.wikipedia.org/wiki/Erie_County,_Pennsylvania) in the extreme northwestern part of the state.
 
-Primary north–south highways are [Interstate 79](https://en.wikipedia.org/wiki/Interstate_79_in_Pennsylvania) from its terminus in Erie through [Pittsburgh](https://en.wikipedia.org/wiki/Pittsburgh) to [West Virginia,](https://en.wikipedia.org/wiki/West_Virginia) [Interstate](https://en.wikipedia.org/wiki/Interstate_81_in_Pennsylvania) [81](https://en.wikipedia.org/wiki/Interstate_81_in_Pennsylvania) from [New York state](https://en.wikipedia.org/wiki/New_York_(state)) through [Scranton, Lackawanna County](https://en.wikipedia.org/wiki/Scranton,_Pennsylvania) and [Harrisburg](https://en.wikipedia.org/wiki/Harrisburg,_Pennsylvania) to [Maryland](https://en.wikipedia.org/wiki/Maryland) and [Interstate 476,](https://en.wikipedia.org/wiki/Interstate_476) which begins 7
+Primary north-south highways are [Interstate 79](https://en.wikipedia.org/wiki/Interstate_79_in_Pennsylvania) from its terminus in Erie through [Pittsburgh](https://en.wikipedia.org/wiki/Pittsburgh) to [West Virginia,](https://en.wikipedia.org/wiki/West_Virginia) [Interstate](https://en.wikipedia.org/wiki/Interstate_81_in_Pennsylvania) [81](https://en.wikipedia.org/wiki/Interstate_81_in_Pennsylvania) from [New York state](https://en.wikipedia.org/wiki/New_York_(state)) through [Scranton, Lackawanna County](https://en.wikipedia.org/wiki/Scranton,_Pennsylvania) and [Harrisburg](https://en.wikipedia.org/wiki/Harrisburg,_Pennsylvania) to [Maryland](https://en.wikipedia.org/wiki/Maryland) and [Interstate 476,](https://en.wikipedia.org/wiki/Interstate_476) which begins 7
 
 miles (11 km) north of the [Delaware](https://en.wikipedia.org/wiki/Delaware) border, in [Chester,](https://en.wikipedia.org/wiki/Chester,_Pennsylvania) [Delaware County](https://en.wikipedia.org/wiki/Chester,_Pennsylvania) and travels 132 miles (212 km) to [Clarks](https://en.wikipedia.org/wiki/Clarks_Summit,_Pennsylvania) [Summit,](https://en.wikipedia.org/wiki/Clarks_Summit,_Pennsylvania) where it joins I-81. All but 20 miles (32 km) of I-476 is the Northeast Extension of the [Pennsylvania Turnpike.](https://en.wikipedia.org/wiki/Pennsylvania_Turnpike) The highway south of the Pennsylvania Turnpike is officially called the "Veterans Memorial Highway", but is commonly referred to colloquially as the "Blue Route".
 
@@ -694,7 +767,7 @@ In 2008, author Sharon Hernes Silverman wrote in the [Pittsburgh Tribune-Review]
 
 Pennsylvania Dutch foods include chicken pot pie, ham pot pie, schnitz un knepp (dried apples, ham, and dumplings), [fasnachts](https://en.wikipedia.org/wiki/Fasnacht_(doughnut)) (raised doughnuts), scrapple, pretzels, bologna, chow-chow, and [Shoofly pie.](https://en.wikipedia.org/wiki/Shoofly_pie) [Martin's Famous Pastry Shoppe,](https://en.wikipedia.org/wiki/Martin%27s_Famous_Pastry_Shoppe) based in [Chambersburg, Pennsylvania,](https://en.wikipedia.org/wiki/Chambersburg,_Pennsylvania) specializes in potato bread, another [traditional Pennsylvania Dutch food.](https://en.wikipedia.org/wiki/Cuisine_of_the_Pennsylvania_Dutch) [D. G.](https://en.wikipedia.org/wiki/D. G._Yuengling_%26_Son) [Yuengling & Son,](https://en.wikipedia.org/wiki/D. G._Yuengling_%26_Son) America's oldest brewery, has been brewing beer in [Pottsville](https://en.wikipedia.org/wiki/Pottsville,_Pennsylvania) since 1829.
 
-Among the regional foods associated with Philadelphia are [cheesesteaks,](https://en.wikipedia.org/wiki/Cheesesteaks) [hoagies,](https://en.wikipedia.org/wiki/Hoagies) [soft pretzels,](https://en.wikipedia.org/wiki/Soft_pretzels) [Italian water ice,](https://en.wikipedia.org/wiki/Italian_water_ice) [Irish](https://en.wikipedia.org/wiki/Irish_potato_candy) [potato candy,](https://en.wikipedia.org/wiki/Irish_potato_candy) [scrapple,](https://en.wikipedia.org/wiki/Scrapple) [Tastykake,](https://en.wikipedia.org/wiki/Tastykake) and [strombolis.](https://en.wikipedia.org/wiki/Stromboli_(food)) In Pittsburgh, tomato ketchup was improved by [Henry John Heinz](https://en.wikipedia.org/wiki/H._J._Heinz_Company) from 1876 to the early 20th century. Famous to a lesser extent than Heinz ketchup is the Pittsburgh's [Primanti Brothers](https://en.wikipedia.org/wiki/Primanti_Brothers_Restaurant) [Restaurant](https://en.wikipedia.org/wiki/Primanti_Brothers_Restaurant) sandwiches, [pierogies,](https://en.wikipedia.org/wiki/Pierogies) and [city chicken.](https://en.wikipedia.org/wiki/City_chicken) In northeastern Pennsylvania, Italian heritage has popularized a variety of pizza styles. Outside of [Scranton,](https://en.wikipedia.org/wiki/Scranton) in [Old Forge,](https://en.wikipedia.org/wiki/Old_Forge,_Lackawanna_County,_Pennsylvania) there are dozens of Italian restaurants specializing in pizza made with thick, light crust, and American cheese. [New York–style](https://en.wikipedia.org/wiki/New_York%E2%80%93style_pizza) [pizza](https://en.wikipedia.org/wiki/New_York%E2%80%93style_pizza) is popular in [Wilkes-Barre.](https://en.wikipedia.org/wiki/Wilkes-Barre,_Pennsylvania) [Erie](https://en.wikipedia.org/wiki/Erie) also has its share of foods, including Greek sauce and [sponge candy.](https://en.wikipedia.org/wiki/Sponge_candy) [Sauerkraut](https://en.wikipedia.org/wiki/Sauerkraut) along with pork and mashed potatoes is a traditional meal on New Year's Day in Pennsylvania; its tradition began with the [Pennsylvania Dutch](https://en.wikipedia.org/wiki/Pennsylvania_Dutch) who believe the meal leads to good luck in the new year to come.
+Among the regional foods associated with Philadelphia are [cheesesteaks,](https://en.wikipedia.org/wiki/Cheesesteaks) [hoagies,](https://en.wikipedia.org/wiki/Hoagies) [soft pretzels,](https://en.wikipedia.org/wiki/Soft_pretzels) [Italian water ice,](https://en.wikipedia.org/wiki/Italian_water_ice) [Irish](https://en.wikipedia.org/wiki/Irish_potato_candy) [potato candy,](https://en.wikipedia.org/wiki/Irish_potato_candy) [scrapple,](https://en.wikipedia.org/wiki/Scrapple) [Tastykake,](https://en.wikipedia.org/wiki/Tastykake) and [strombolis.](https://en.wikipedia.org/wiki/Stromboli_(food)) In Pittsburgh, tomato ketchup was improved by [Henry John Heinz](https://en.wikipedia.org/wiki/H._J._Heinz_Company) from 1876 to the early 20th century. Famous to a lesser extent than Heinz ketchup is the Pittsburgh's [Primanti Brothers](https://en.wikipedia.org/wiki/Primanti_Brothers_Restaurant) [Restaurant](https://en.wikipedia.org/wiki/Primanti_Brothers_Restaurant) sandwiches, [pierogies,](https://en.wikipedia.org/wiki/Pierogies) and [city chicken.](https://en.wikipedia.org/wiki/City_chicken) In northeastern Pennsylvania, Italian heritage has popularized a variety of pizza styles. Outside of [Scranton,](https://en.wikipedia.org/wiki/Scranton) in [Old Forge,](https://en.wikipedia.org/wiki/Old_Forge,_Lackawanna_County,_Pennsylvania) there are dozens of Italian restaurants specializing in pizza made with thick, light crust, and American cheese. [New York-style](https://en.wikipedia.org/wiki/New_York%E2%80%93style_pizza) [pizza](https://en.wikipedia.org/wiki/New_York%E2%80%93style_pizza) is popular in [Wilkes-Barre.](https://en.wikipedia.org/wiki/Wilkes-Barre,_Pennsylvania) [Erie](https://en.wikipedia.org/wiki/Erie) also has its share of foods, including Greek sauce and [sponge candy.](https://en.wikipedia.org/wiki/Sponge_candy) [Sauerkraut](https://en.wikipedia.org/wiki/Sauerkraut) along with pork and mashed potatoes is a traditional meal on New Year's Day in Pennsylvania; its tradition began with the [Pennsylvania Dutch](https://en.wikipedia.org/wiki/Pennsylvania_Dutch) who believe the meal leads to good luck in the new year to come.
 
 ### **Professional sports**
 
@@ -781,42 +854,42 @@ Pennsylvania was historically referred to by the nickname
 - 5. ^ ["Most spoken languages in Pennsylvania in 2010"](http://www.mla.org/map_data_results&SRVY_YEAR=2010&geo=state&state_id=42&mode=geographic). MLA Data Center. [Archived](https://web.archive.org/web/20130527233532/http://www.mla.org/map_data_results%26SRVY_YEAR%3D2010%26geo%3Dstate%26state_id%3D42%26mode%3Dgeographic) from the original on May 27, 2013. Retrieved November 4, 2012.
 - 6. ^ Forge, Allie (February 8, 2025). ["What Foods are The State of](https://www.phillybite.com/index.php/travel/65-eat/10521-what-are-the-foods-are-the-state-of-pennsylvania-known-for) [Pennsylvania Known For?"](https://www.phillybite.com/index.php/travel/65-eat/10521-what-are-the-foods-are-the-state-of-pennsylvania-known-for). Philly Bite Magazine. Retrieved February 20, 2025. "Pennsylvania doesn't officially designate a single "state food"..."
 - 7. ^ Der Deutsche Pionier: Erinnerungen aus dem Pionier-Leben der Deutschen in Amerika ..., Volumes 3 to 5. 1871. p. 88.
-- 8. ^ [Ellis, Joseph](https://en.wikipedia.org/wiki/Joseph_Ellis) (2007). [American Creation: Triumphs and](https://archive.org/details/americancreation0000elli_t3w8) [Tragedies at the Founding of the Republic](https://archive.org/details/americancreation0000elli_t3w8). New York: Knopf. pp. 55–56. [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier)) [978-0-307-26369-8](https://en.wikipedia.org/wiki/Special:Book Sources/978-0-307-26369-8).
+- 8. ^ [Ellis, Joseph](https://en.wikipedia.org/wiki/Joseph_Ellis) (2007). [American Creation: Triumphs and](https://archive.org/details/americancreation0000elli_t3w8) [Tragedies at the Founding of the Republic](https://archive.org/details/americancreation0000elli_t3w8). New York: Knopf. pp. 55-56. [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier)) [978-0-307-26369-8](https://en.wikipedia.org/wiki/Special:Book Sources/978-0-307-26369-8).
 - 9. ^ [U. S. News | Best States | Pennsylvania](https://www.usnews.com/news/best-states/pennsylvania)
 - 10. ^ Jump up to: **a b** ["General Coastline and Shoreline Mileage of](https://coast.noaa.gov/data/docs/states/shorelines.pdf) [the United States"](https://coast.noaa.gov/data/docs/states/shorelines.pdf) (PDF). NOAA Office of Coastal Management. [Archived](https://web.archive.org/web/20161225011959/https://coast.noaa.gov/data/docs/states/shorelines.pdf) (PDF) from the original on December 25, 2016. Retrieved December 31, 2016.
 - 11. ^ Jump up to: **a b** ["U. S. Census Bureau Quick Facts"](https://www.census.gov/quickfacts/fact/table/). U. S. Census Bureau. Retrieved September 21, 2021.
-- 12. ^ ["Paleoindian Period – 16,000 to 10,000 years ago"](http://www.portal.state.pa.us/portal/server.pt/community/native_american_archaeology/3316/paleoindian_period/405749). Pennsylvania Historical and Museum Commission. Retrieved December 8, 2014.
+- 12. ^ ["Paleoindian Period - 16,000 to 10,000 years ago"](http://www.portal.state.pa.us/portal/server.pt/community/native_american_archaeology/3316/paleoindian_period/405749). Pennsylvania Historical and Museum Commission. Retrieved December 8, 2014.
 
 - 13. ^ Jump up to: **a b** [Ancient PA Dwelling Still Dividing](http://pittsburgh.cbslocal.com/2013/08/11/ancient-pa-dwelling-still-dividing-archaeologists/) [Archaeologists](http://pittsburgh.cbslocal.com/2013/08/11/ancient-pa-dwelling-still-dividing-archaeologists/)
 - 14. ^ Jump up to: **a b** ["Pennsylvania on the Eve of Colonization"](https://web.archive.org/web/20160304001405/http://www.portal.state.pa.us/portal/server.pt/community/overview_of_pennsylvania_history/4281/pre-1681__the_eve_of_colonization/478723). Pennsylvania Historical and Museum Commission. Archived from [the original](http://www.portal.state.pa.us/portal/server.pt/community/overview_of_pennsylvania_history/4281/pre-1681__the_eve_of_colonization/478723) on March 4, 2016. Retrieved November 30, 2014.
 - 15. ^ ["Late Woodland Period in the Susquehanna and Delaware](https://web.archive.org/web/20160321213816/http://www.portal.state.pa.us/portal/server.pt/community/native_american_archaeology/3316/late_woodland_period/406837) [River Valleys"](https://web.archive.org/web/20160321213816/http://www.portal.state.pa.us/portal/server.pt/community/native_american_archaeology/3316/late_woodland_period/406837). Pennsylvania Historical and Museum Commission. Archived from [the original](http://www.portal.state.pa.us/portal/server.pt/community/native_american_archaeology/3316/late_woodland_period/406837) on March 21, 2016. Retrieved December 8, 2014.
-- 16. ^ "On the Susquehannocks: Natives having used Baltimore County as hunting grounds – The Historical Society of Baltimore County". www. HSOBC.org. Retrieved August 17, 2017.
+- 16. ^ "On the Susquehannocks: Natives having used Baltimore County as hunting grounds - The Historical Society of Baltimore County". www. HSOBC.org. Retrieved August 17, 2017.
 - 17. ^ "Early Indian Migration". Genealogy Trails.com. Retrieved August 17, 2017.
 - 18. ^ Garrad, Charles "Petun and the Petuns"
-- 19. ^ Extrapolation from the 16th-century Spanish, 'Cali' ˈkali a rich agricultural area – geographical sunny climate. Also 1536, Cauca River. Britannica Concise Encyclopedia. 'Cali', city, metropolis, urban center. Pearson Education 2006. "Calica", Yucatán place name called rock pit. Sp. root: "Cal", limestone. Also today, 'Calicuas', supporting cylinder or enclosing ring, or moveable prop as in holding a strut.
+- 19. ^ Extrapolation from the 16th-century Spanish, 'Cali' ˈkali a rich agricultural area - geographical sunny climate. Also 1536, Cauca River. Britannica Concise Encyclopedia. 'Cali', city, metropolis, urban center. Pearson Education 2006. "Calica", Yucatán place name called rock pit. Sp. root: "Cal", limestone. Also today, 'Calicuas', supporting cylinder or enclosing ring, or moveable prop as in holding a strut.
 - 20. ^ Paullin, Charles O. (1932). Wright, John K. (ed.). Atlas of the Historical Geography of the United States. New York and Washington, D. C.: [Carnegie Institution of Washington](https://en.wikipedia.org/wiki/Carnegie_Institution_of_Washington) and
 
 - [American Geographical Society](https://en.wikipedia.org/wiki/American_Geographical_Society). pp. Plate 42.
-- 21. ^ Swindler, William F., ed. (1973–1979). Sources and Documents of United States Constitutions. Vol. 10. Dobbs Ferry, New York: [Oceana Publications](https://en.wikipedia.org/wiki/Oceana_Publications). pp. 17–23.
+- 21. ^ Swindler, William F., ed. (1973-1979). Sources and Documents of United States Constitutions. Vol. 10. Dobbs Ferry, New York: [Oceana Publications](https://en.wikipedia.org/wiki/Oceana_Publications). pp. 17-23.
 - 22. ^ Jump up to: **a b** Van Zandt, Franklin K. (1976). Boundaries of the United States and the Several States. Geological Survey Professional Papers. Vol. 909. Washington, D. C.: [Government](https://en.wikipedia.org/wiki/United_States_Government_Publishing_Office) [Printing Office](https://en.wikipedia.org/wiki/United_States_Government_Publishing_Office). pp. 74, 92.
-- 23. ^ Munroe, John A. (1978). Colonial Delaware: A History. Millwood, New York: KTO Press. pp. 9–12.
+- 23. ^ Munroe, John A. (1978). Colonial Delaware: A History. Millwood, New York: KTO Press. pp. 9-12.
 - 24. ^ Munroe, John A. (1978). Colonial Delaware: A History. Millwood, New York: KTO Press. p. 16.
-- 25. ^ Mc Cormick, Richard P. (1964). New Jersey from Colony to State, 1609–1789. New Jersey Historical Series, Volume 1. Princeton, New Jersey: D. Van Nostrand Company. p. 12.
-- 26. ^ Swindler, William F., ed. (1973–1979). Sources and Documents of United States Constitutions. Vol. 4. Dobbs Ferry, New York: [Oceana Publications](https://en.wikipedia.org/wiki/Oceana_Publications). pp. 278–280.
+- 25. ^ Mc Cormick, Richard P. (1964). New Jersey from Colony to State, 1609-1789. New Jersey Historical Series, Volume 1. Princeton, New Jersey: D. Van Nostrand Company. p. 12.
+- 26. ^ Swindler, William F., ed. (1973-1979). Sources and Documents of United States Constitutions. Vol. 4. Dobbs Ferry, New York: [Oceana Publications](https://en.wikipedia.org/wiki/Oceana_Publications). pp. 278-280.
 - 27. ^ Van Zandt, Franklin K. (1976). [Boundaries of the United](https://archive.org/details/bub_gb_skxAAAAAIAAJ) [States and the Several States; Geological Survey Professional](https://archive.org/details/bub_gb_skxAAAAAIAAJ) [Paper 909](https://archive.org/details/bub_gb_skxAAAAAIAAJ). Washington, D. C.: [Government Printing Office](https://en.wikipedia.org/wiki/United_States_Government_Publishing_Office). p. [79](https://archive.org/details/bub_gb_skxAAAAAIAAJ/page/n88).
-- 28. ^ Swindler, William F., ed. (1973–1979). Sources and Documents of United States Constitutions. Vol. 6. Dobbs Ferry, New York: [Oceana Publications](https://en.wikipedia.org/wiki/Oceana_Publications). pp. 375–377.
-- 29. ^ Farnham, Mary Frances (1901–1902). Farnham Papers
+- 28. ^ Swindler, William F., ed. (1973-1979). Sources and Documents of United States Constitutions. Vol. 6. Dobbs Ferry, New York: [Oceana Publications](https://en.wikipedia.org/wiki/Oceana_Publications). pp. 375-377.
+- 29. ^ Farnham, Mary Frances (1901-1902). Farnham Papers
 
-- (1603–1688). Volumes 7 and 8 of Documentary History of the State of Maine. Vol. 7. Portland, Maine: Collections of the [Maine](https://en.wikipedia.org/wiki/Maine_Historical_Society) [Historical Society,](https://en.wikipedia.org/wiki/Maine_Historical_Society) 2nd Series. pp. 311, 314.
-- 30. ^ Parry, Clive, ed. (1969–1981). [Consolidated Treaty Series;](https://en.wikipedia.org/wiki/Consolidated_Treaty_Series) [231 Volumes](https://en.wikipedia.org/wiki/Consolidated_Treaty_Series). Vol. 10. Dobbs Ferry, New York: [Oceana](https://en.wikipedia.org/wiki/Oceana_Publications) [Publications](https://en.wikipedia.org/wiki/Oceana_Publications). p. 231.
-- 31. ^ Fernow, B., ed. (1853–1887). [Documents Relative to the](https://archive.org/details/documentsrelativ09brod) [Colonial History of the State of New York; Volumes 12–15](https://archive.org/details/documentsrelativ09brod). Albany, New York: Weed, Parsons and Co. pp. [507](https://archive.org/details/documentsrelativ09brod/page/507)–508. [Archived](https://web.archive.org/web/20160407175836/https://archive.org/details/documentsrelativ09brod) from the original on April 7, 2016. Retrieved November 4, 2019.
-- 32. ^ Parry, Clive, ed. (1969–1981). Consolidated Treaty Series; 231 Volumes. Vol. 13. Dobbs Ferry, New York: [Oceana](https://en.wikipedia.org/wiki/Oceana_Publications) [Publications](https://en.wikipedia.org/wiki/Oceana_Publications). p. 136.
-- 33. ^ Fernow, B., ed. (1853–1887). Documents Relative to the Colonial History of the State of New York; Volumes 12–15. Vol. 12. Albany, New York: Weed, Parsons and Co. p. 515.
+- (1603-1688). Volumes 7 and 8 of Documentary History of the State of Maine. Vol. 7. Portland, Maine: Collections of the [Maine](https://en.wikipedia.org/wiki/Maine_Historical_Society) [Historical Society,](https://en.wikipedia.org/wiki/Maine_Historical_Society) 2nd Series. pp. 311, 314.
+- 30. ^ Parry, Clive, ed. (1969-1981). [Consolidated Treaty Series;](https://en.wikipedia.org/wiki/Consolidated_Treaty_Series) [231 Volumes](https://en.wikipedia.org/wiki/Consolidated_Treaty_Series). Vol. 10. Dobbs Ferry, New York: [Oceana](https://en.wikipedia.org/wiki/Oceana_Publications) [Publications](https://en.wikipedia.org/wiki/Oceana_Publications). p. 231.
+- 31. ^ Fernow, B., ed. (1853-1887). [Documents Relative to the](https://archive.org/details/documentsrelativ09brod) [Colonial History of the State of New York; Volumes 12-15](https://archive.org/details/documentsrelativ09brod). Albany, New York: Weed, Parsons and Co. pp. [507](https://archive.org/details/documentsrelativ09brod/page/507)-508. [Archived](https://web.archive.org/web/20160407175836/https://archive.org/details/documentsrelativ09brod) from the original on April 7, 2016. Retrieved November 4, 2019.
+- 32. ^ Parry, Clive, ed. (1969-1981). Consolidated Treaty Series; 231 Volumes. Vol. 13. Dobbs Ferry, New York: [Oceana](https://en.wikipedia.org/wiki/Oceana_Publications) [Publications](https://en.wikipedia.org/wiki/Oceana_Publications). p. 136.
+- 33. ^ Fernow, B., ed. (1853-1887). Documents Relative to the Colonial History of the State of New York; Volumes 12-15. Vol. 12. Albany, New York: Weed, Parsons and Co. p. 515.
 - 34. ^ Armstrong, Edward, ed. (1860). Record of the Court at Upland, in Pennsylvania, 1676 to 1681. Memoirs of the Historical Society of Pennsylvania Volume 7. pp. 119, 198.
 - 35. ^ [Charter for the Province of Pennsylvania-1681](http://avalon.law.yale.edu/17th_century/pa01.asp) [Archived](https://web.archive.org/web/20110428183155/http://avalon.law.yale.edu/17th_century/pa01.asp) April 28, 2011, at the [Wayback Machine.](https://en.wikipedia.org/wiki/Wayback_Machine) This charter, granted by Charles II to William Penn, constituted him and his heirs proprietors of the province, which, in honor of his father, Admiral William Penn, whose cash advances and services were requited, was called Pennsylvania. On August 24, 1682, to perfect his title, William Penn purchased a quit-claim from the [Duke of York](https://en.wikipedia.org/wiki/James_II_(England)) to the lands west of the Delaware River embraced
 
 - in his patent of 1664
-- 36. ^ Pennsylvania Society of Colonial Governors, ed. (1916). "Samuel Carpenter". [Pennsylvania Society of Colonial](https://books.google.com/books?id=4rQBAAAAMAAJ) [Governors, Volume 1](https://books.google.com/books?id=4rQBAAAAMAAJ). pp. 180–181.
+- 36. ^ Pennsylvania Society of Colonial Governors, ed. (1916). "Samuel Carpenter". [Pennsylvania Society of Colonial](https://books.google.com/books?id=4rQBAAAAMAAJ) [Governors, Volume 1](https://books.google.com/books?id=4rQBAAAAMAAJ). pp. 180-181.
 - 37. ^ ["Measuring Worth"](https://web.archive.org/web/20110714064027/http://www.measuringworth.com/ppoweruk/result.php?use%5B%5D=CPI&use%5B%5D=NOMINALEARN&year_early=1681£71=16000&shilling71=&pence71=&amount=16000&year_source=1681&year_result=2008). Measuring Worth. Archived from [the](http://www.measuringworth.com/ppoweruk/result.php?use%5B%5D=CPI&use%5B%5D=NOMINALEARN&year_early=1681£71=16000&shilling71=&pence71=&amount=16000&year_source=1681&year_result=2008) [original](http://www.measuringworth.com/ppoweruk/result.php?use%5B%5D=CPI&use%5B%5D=NOMINALEARN&year_early=1681£71=16000&shilling71=&pence71=&amount=16000&year_source=1681&year_result=2008) on July 14, 2011. Retrieved July 31, 2010.
 - 38. ^ [H. W. Brands,](https://en.wikipedia.org/wiki/H._W._Brands) The First American: The Life and Times of Benjamin Franklin, [Anchor Books](https://en.wikipedia.org/wiki/Doubleday_(publisher)) (2002) 2002 [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier)) [0-385-49328-2](https://en.wikipedia.org/wiki/Special:Book Sources/0-385-49328-2) p.37:'Penn became the proprietor of what may have been the largest single piece of real estate every legally held by someone other than a monarch.'
 - 39. ^ Jump up to: **a b** ["Quakers and the political process"](https://web.archive.org/web/20080524050103/http://www.pym.org/exhibit/p078.html). Pym.org. March 28, 2006. Archived from [the original](http://www.pym.org/exhibit/p078.html) on May 24, 2008. Retrieved July 31, 2010.
@@ -824,7 +897,7 @@ Pennsylvania was historically referred to by the nickname
 
 - secretary to vary the name"
 - 41. ^ Armstrong, Edward, ed. (1860). Record of the Court at Upland, in Pennsylvania, 1676 to 1681. Vol. 7. Memoirs of the Historical Society of Pennsylvania. p. 196.
-- 42. ^ Swindler, William F., ed. (1973–1979). Sources and Documents of United States Constitutions. 10 Volumes. Vol. 8. Dobbs Ferry, New York: [Oceana Publications](https://en.wikipedia.org/wiki/Oceana_Publications). p. 243.
+- 42. ^ Swindler, William F., ed. (1973-1979). Sources and Documents of United States Constitutions. 10 Volumes. Vol. 8. Dobbs Ferry, New York: [Oceana Publications](https://en.wikipedia.org/wiki/Oceana_Publications). p. 243.
 - 43. ^ Yount, David (2007). [How the Quakers invented America](https://web.archive.org/web/20150906084151/https://books.google.com/books?id=pk7yc Uq3cxsC&pg=PA82&dq&hl=en). Rowman & Littlefield. p. 82. [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier)) [978-0-7425-5833-5](https://en.wikipedia.org/wiki/Special:Book Sources/978-0-7425-5833-5). Archived from [the original](https://books.google.com/books?id=pk7yc Uq3cxsC&pg=PA82) on September 6, 2015.
 - 44. ^ Fisher, Sydney G. (2009). [The Quaker Colonies](https://web.archive.org/web/20150320020816/http://books.google.com/books?id=z KzFg Alx1CkC&pg=PA13&dq&hl=en). Echo Library. p. 13. [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier)) [978-1-4068-5110-6](https://en.wikipedia.org/wiki/Special:Book Sources/978-1-4068-5110-6). Archived from [the original](https://books.google.com/books?id=z KzFg Alx1CkC&pg=PA13) on March 20, 2015.
 - 45. ^ ["Encyclopedia of Greater Philadelphia | Treaty of](https://philadelphiaencyclopedia.org/archive/treaty-of-shackamaxon-2/) [Shackamaxon"](https://philadelphiaencyclopedia.org/archive/treaty-of-shackamaxon-2/). philadelphiaencyclopedia.org.
@@ -835,9 +908,9 @@ Pennsylvania was historically referred to by the nickname
 - 50. ^ ["An account of the remarkable occurrences in the life and](https://archive.org/details/accountofremarka00smit) [travels of Colonel James Smith \(Late a citizen of Bourbon](https://archive.org/details/accountofremarka00smit) County, Kentucky) [: during his captivity with the Indians, in the](https://archive.org/details/accountofremarka00smit) [years 1755,'56, '57, '58, & '59"](https://archive.org/details/accountofremarka00smit). Internet Archive. Lexington:
 
 - John Bradford. 1799. [Archived](https://web.archive.org/web/20150131120248/https://archive.org/details/accountofremarka00smit) from the original on January 31, 2015. Retrieved November 16, 2014.
-- 51. ^ ["Library of Congress timeline 1764–1765"](http://memory.loc.gov/ammem/collections/continental/timeline.html). The Library of Congress. [Archived](https://web.archive.org/web/20100726144043/http://memory.loc.gov/ammem/collections/continental/timeline.html) from the original on July 26, 2010. Retrieved July 31, 2010.
-- 52. ^ ["Library of Congress timeline 1773–1774"](http://memory.loc.gov/ammem/collections/continental/timeline1e.html). Library of Congress. [Archived](https://web.archive.org/web/20100807142344/http://memory.loc.gov/ammem/collections/continental/timeline1e.html) from the original on August 7, 2010. Retrieved July 31, 2010.
-- 53. ^ ["Library of Congress: Primary documents—The Declaration](https://www.loc.gov/rr/program/bib/ourdocs/Declar Ind.html) [of Independence"](https://www.loc.gov/rr/program/bib/ourdocs/Declar Ind.html). Library of Congress. July 20, 2010. [Archived](https://web.archive.org/web/20100804073324/http://www.loc.gov/rr/program/bib/ourdocs/Declar Ind.html) from the original on August 4, 2010. Retrieved July 31, 2010.
+- 51. ^ ["Library of Congress timeline 1764-1765"](http://memory.loc.gov/ammem/collections/continental/timeline.html). The Library of Congress. [Archived](https://web.archive.org/web/20100726144043/http://memory.loc.gov/ammem/collections/continental/timeline.html) from the original on July 26, 2010. Retrieved July 31, 2010.
+- 52. ^ ["Library of Congress timeline 1773-1774"](http://memory.loc.gov/ammem/collections/continental/timeline1e.html). Library of Congress. [Archived](https://web.archive.org/web/20100807142344/http://memory.loc.gov/ammem/collections/continental/timeline1e.html) from the original on August 7, 2010. Retrieved July 31, 2010.
+- 53. ^ ["Library of Congress: Primary documents--The Declaration](https://www.loc.gov/rr/program/bib/ourdocs/Declar Ind.html) [of Independence"](https://www.loc.gov/rr/program/bib/ourdocs/Declar Ind.html). Library of Congress. July 20, 2010. [Archived](https://web.archive.org/web/20100804073324/http://www.loc.gov/rr/program/bib/ourdocs/Declar Ind.html) from the original on August 4, 2010. Retrieved July 31, 2010.
 - 54. ^ ["Nine Capitals of the United States"](https://www.senate.gov/reference/reference_item/Nine_Capitals_of_the_United_States.htm). Senate.gov. March 26, 2009. [Archived](https://web.archive.org/web/20160320084755/https://www.senate.gov/reference/reference_item/Nine_Capitals_of_the_United_States.htm) from the original on March 20, 2016. Retrieved July 31, 2010.
 - 55. ^ ["Constitution FAQs"](https://web.archive.org/web/20160616141646/http://constitutioncenter.org/learn/educational-resources/constitution-faqs). National Constitution Center. Archived from [the original](http://constitutioncenter.org/learn/educational-resources/constitution-faqs/) on June 16, 2016. Retrieved June 19, 2016.
 - 56. ^ ["Pennsylvania ratifies the Constitution of 1787"](http://memory.loc.gov/ammem/today/dec12.html). Library of Congress. [Archived](https://web.archive.org/web/20100806055850/http://memory.loc.gov/ammem/today/dec12.html) from the original on August 6, 2010. Retrieved July 31, 2010.
@@ -848,13 +921,13 @@ Pennsylvania was historically referred to by the nickname
 - [on Lincoln's Greatest Speech](https://books.google.com/books?id=_bmy BwAAQBAJ&pg=PR9). New York: Oxford University Press. p. ix. [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier)) [978-0-19-022745-6](https://en.wikipedia.org/wiki/Special:Book Sources/978-0-19-022745-6).
 - 60. ^ Holsinger, M. Paul (1999). [War and American Popular](https://books.google.com/books?id=Oe4AOVHkJ9oC&pg=PA102) [Culture: A Historical Encyclopedia](https://books.google.com/books?id=Oe4AOVHkJ9oC&pg=PA102). Westport, CT: Greenwood Press. p. 102. [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier)) [978-0-313-29908-7](https://en.wikipedia.org/wiki/Special:Book Sources/978-0-313-29908-7).
 - 61. ^ ["History of John Harris"](https://www.angelfire.com/on/Canadiangenealogy/harris.html). Mrs. Carlyle C. Browne (descendant of Sarah Ann Harris, fifth daughter of Alfred Bingham Harris, and granddaughter of Elisha John Harris of the Mansion, Harrisburg PA, USA). 2001. [Archived](https://web.archive.org/web/20110408203618/http://www.angelfire.com/on/Canadiangenealogy/harris.html) from the original on April 8, 2011. Retrieved February 14, 2011.
-- 62. ^ ["James Buchanan White House biography"](https://georgewbush-whitehouse.archives.gov/history/presidents/jb15.html). [whitehouse.gov](https://en.wikipedia.org/wiki/Whitehouse.gov). [Archived](https://web.archive.org/web/20100803013954/http://georgewbush-whitehouse.archives.gov/history/presidents/jb15.html) from the original on August 3, 2010. Retrieved July 31, 2010 – via [National Archives](https://en.wikipedia.org/wiki/NARA).
+- 62. ^ ["James Buchanan White House biography"](https://georgewbush-whitehouse.archives.gov/history/presidents/jb15.html). [whitehouse.gov](https://en.wikipedia.org/wiki/Whitehouse.gov). [Archived](https://web.archive.org/web/20100803013954/http://georgewbush-whitehouse.archives.gov/history/presidents/jb15.html) from the original on August 3, 2010. Retrieved July 31, 2010 - via [National Archives](https://en.wikipedia.org/wiki/NARA).
 - 63. ^ ["Battle of Gettysburg"](https://web.archive.org/web/20090114202108/http://content.answers.com/main/content/wp/en/thumb/b/b3/200px-Dddr66.jpg). Archived from [the original](http://content.answers.com/main/content/wp/en/thumb/b/b3/200px-Dddr66.jpg) on January 14, 2009. Retrieved February 20, 2008.
 - 64. ^ [Chapter One: 1. Pennsylvania's Bosses and Political](https://explorepahistory.com/story.php?story Id=1-9-20&chapter=1) [Machines](https://explorepahistory.com/story.php?story Id=1-9-20&chapter=1). ExplorePAHistory.com. Retrieved February 18, 2022.
 - 65. ^ Jump up to: **a b** ["Chapter 2: Pennsylvania Under the Reign of](http://explorepahistory.com/story.php?story Id=1-9-20&chapter=2) [Big Business"](http://explorepahistory.com/story.php?story Id=1-9-20&chapter=2). Explore PAHistory.com. WITF. Retrieved November 27, 2014.
 - 66. ^ ["Overview: Labor's Struggle to Organize"](http://explorepahistory.com/story.php?story Id=1-9-22). Explore PAHistory.com. WITF. Retrieved November 27, 2014.
-- 67. ^ Humanities, National Endowment for the (August 5, 1922). ["The labor world. \[volume\] \(Duluth, Minn.\) 1896–current,](https://chroniclingamerica.loc.gov/lccn/sn78000395/1922-08-05/ed-1/seq-1/) [August 05, 1922, Image 1"](https://chroniclingamerica.loc.gov/lccn/sn78000395/1922-08-05/ed-1/seq-1/) – via chroniclingamerica.loc.gov.
-- 68. ^ Zimand. ["Labor Age"](https://archive.org/details/v11n05-may-1922-LA/page/n5/mode/2up). pp. 4–7, 15–17. Retrieved March 2,
+- 67. ^ Humanities, National Endowment for the (August 5, 1922). ["The labor world. \[volume\] \(Duluth, Minn.\) 1896-current,](https://chroniclingamerica.loc.gov/lccn/sn78000395/1922-08-05/ed-1/seq-1/) [August 05, 1922, Image 1"](https://chroniclingamerica.loc.gov/lccn/sn78000395/1922-08-05/ed-1/seq-1/) - via chroniclingamerica.loc.gov.
+- 68. ^ Zimand. ["Labor Age"](https://archive.org/details/v11n05-may-1922-LA/page/n5/mode/2up). pp. 4-7, 15-17. Retrieved March 2,
 
 2023.
 
@@ -863,15 +936,15 @@ Pennsylvania was historically referred to by the nickname
 - 71. ^ [Peck, Merton J.](https://en.wikipedia.org/wiki/Whiz_Kids_(Department_of_Defense)) & [Scherer, Frederic M.](https://en.wikipedia.org/wiki/Frederic_M._Scherer) The Weapons Acquisition Process: An Economic Analysis (1962) [Harvard](https://en.wikipedia.org/wiki/Harvard_Business_School) [Business School](https://en.wikipedia.org/wiki/Harvard_Business_School) p. 111
 - 72. ^ ["Backgrounder on the Three Mile Island Accident"](https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/3mile-isle.html). [Nuclear](https://en.wikipedia.org/wiki/Nuclear_Regulatory_Commission) [Regulatory Commission](https://en.wikipedia.org/wiki/Nuclear_Regulatory_Commission). June 21, 2018. [Archived](https://web.archive.org/web/20190824203624/https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/3mile-isle.html) from the original on August 24, 2019. Retrieved August 24, 2019.
 - 73. ^ King, Laura; Hall, Kenji; Magnier, Mark (March 18, 2011). ["In](https://www.latimes.com/world/la-xpm-2011-mar-18-la-fgw-japan-quake-main-20110319-story.html) [Japan, workers struggling to hook up power to Fukushima](https://www.latimes.com/world/la-xpm-2011-mar-18-la-fgw-japan-quake-main-20110319-story.html) [reactor"](https://www.latimes.com/world/la-xpm-2011-mar-18-la-fgw-japan-quake-main-20110319-story.html). Los Angeles Times. [Archived](https://web.archive.org/web/20110322152850/http://articles.latimes.com/2011/mar/18/world/la-fgw-japan-quake-main-20110319) from the original on March 22, 2011. Retrieved August 24, 2019.
-- 74. ^ William F. Stine, "Does State Aid Stimulate Public Library Expenditures? Evidence from Pennsylvania's Enhancement Aid Program" Library Quarterly (2006) 76#1 107–139.
-- 75. ^ Victor M. Garcia, "The Mushroom Industry And The Emergence Of Mexican Enclaves In Southern Chester County, Pennsylvania, 1960–1990" Journal of Latino-Latin American Studies (JOLLAS) (2005) 1#4 pp 67–88.
-- 76. ^ Gilbert Marzan, "Still Looking for that Elsewhere: Puerto Rican Poverty and Migration in the Northeast." Centro Journal (2009) 21#1 pp 100–117 [online.](https://www.redalyc.org/pdf/377/37721248005.pdf)
+- 74. ^ William F. Stine, "Does State Aid Stimulate Public Library Expenditures? Evidence from Pennsylvania's Enhancement Aid Program" Library Quarterly (2006) 76#1 107-139.
+- 75. ^ Victor M. Garcia, "The Mushroom Industry And The Emergence Of Mexican Enclaves In Southern Chester County, Pennsylvania, 1960-1990" Journal of Latino-Latin American Studies (JOLLAS) (2005) 1#4 pp 67-88.
+- 76. ^ Gilbert Marzan, "Still Looking for that Elsewhere: Puerto Rican Poverty and Migration in the Northeast." Centro Journal (2009) 21#1 pp 100-117 [online.](https://www.redalyc.org/pdf/377/37721248005.pdf)
 - 77. ^ Ashok K. Dutt, and Baleshwar Thakur, City, Society, and
 
-- Planning (Concept Publishing Company, 2007) pp. 55–56
+- Planning (Concept Publishing Company, 2007) pp. 55-56
 - 78. ^ Kraus, Scott. ["No end in sight to Valley's population growth"](https://www.mcall.com/2012/07/14/no-end-in-sight-to-valleys-population-growth/). [Archived](https://web.archive.org/web/20121007013920/http://articles.mcall.com/2012-07-14/news/mc-allentown-growth-figures-20120714_1_population-growth-new-residents-macungie-and-bethlehem-townships) from the original on October 7, 2012. Retrieved December 1, 2014.
 - 79. ^ Jump up to: **a b** ["Sources and detailed information",](https://www.nps.gov/flni/learn/historyculture/sources-and-detailed-information.htm) National Park Service website
-- 80. ^ Alexander Riley, Angel patriots: The crash of United Flight 93 and the myth of America (NYU Press, 2015) pp 1–34.
+- 80. ^ Alexander Riley, Angel patriots: The crash of United Flight 93 and the myth of America (NYU Press, 2015) pp 1-34.
 - 81. ^ ["Tekko 2019"](http://www.teamtekko.us/about/). About Tekko. [Archived](https://web.archive.org/web/20190222153355/http://www.teamtekko.us/about/) from the original on February 22, 2019. Retrieved February 21, 2019.
 - 82. ^ ["'They showed his photo, and my stomach just dropped':](https://www.washingtonpost.com/nation/2018/10/28/victims-expected-be-named-after-killed-deadliest-attack-jews-us-history/) [Neighbors recall synagogue massacre suspect as a loner"](https://www.washingtonpost.com/nation/2018/10/28/victims-expected-be-named-after-killed-deadliest-attack-jews-us-history/). Washington Post. October 28, 2018. [Archived](https://web.archive.org/web/20181029012657/https://www.washingtonpost.com/nation/2018/10/28/victims-expected-be-named-after-killed-deadliest-attack-jews-us-history/) from the original on October 29, 2018. Retrieved February 21, 2019.
 - 83. ^ ["Pennsylvania geography"](http://www.netstate.com/states/geography/pa_geography.htm). Netstate.com. [Archived](https://web.archive.org/web/20100527020624/http://www.netstate.com/states/geography/pa_geography.htm) from the original on May 27, 2010. Retrieved July 31, 2010.
@@ -883,29 +956,29 @@ Pennsylvania was historically referred to by the nickname
 
 - on March 5, 2012. Retrieved March 7, 2012.
 - 89. ^ National Weather Service Corporate Image Web Team. ["National Weather Service Climate"](https://w2.weather.gov/climate/xmacis.php?wfo=bgm). [Archived](https://web.archive.org/web/20120325204622/https://w2.weather.gov/climate/xmacis.php?wfo=bgm) from the original on March 25, 2012. Retrieved March 7, 2012.
-- 90. ^ National Weather Service Corporate Image Web Team. ["Climate Information—National Weather Service Central PA"](https://w2.weather.gov/climate/xmacis.php?wfo=ctp). [Archived](https://web.archive.org/web/20120705132003/https://w2.weather.gov/climate/xmacis.php?wfo=ctp) from the original on July 5, 2012. Retrieved March 7, 2012.
+- 90. ^ National Weather Service Corporate Image Web Team. ["Climate Information--National Weather Service Central PA"](https://w2.weather.gov/climate/xmacis.php?wfo=ctp). [Archived](https://web.archive.org/web/20120705132003/https://w2.weather.gov/climate/xmacis.php?wfo=ctp) from the original on July 5, 2012. Retrieved March 7, 2012.
 - 91. ^ National Weather Service Corporate Image Web Team. ["National Weather Service Climate"](https://w2.weather.gov/climate/xmacis.php?wfo=pbz). [Archived](https://web.archive.org/web/20120705132008/https://w2.weather.gov/climate/xmacis.php?wfo=pbz) from the original on July 5, 2012. Retrieved March 7, 2012.
 - 92. ^ National Weather Service Corporate Image Web Team. ["National Weather Service Climate"](https://www.nws.noaa.gov/climate/xmacis.php?wfo=cle). [Archived](https://web.archive.org/web/20130528101832/http://www.nws.noaa.gov/climate/xmacis.php?wfo=cle) from the original on May 28, 2013. Retrieved March 7, 2012.
-- 93. ^ ["Historical Population Change Data \(1910–2020\)"](https://web.archive.org/web/20210429012609/https://www.census.gov/data/tables/time-series/dec/popchange-data-text.html). Census.gov. United States Census Bureau. Archived from [the](https://www.census.gov/data/tables/time-series/dec/popchange-data-text.html) [original](https://www.census.gov/data/tables/time-series/dec/popchange-data-text.html) on April 29, 2021. Retrieved May 1, 2021.
+- 93. ^ ["Historical Population Change Data \(1910-2020\)"](https://web.archive.org/web/20210429012609/https://www.census.gov/data/tables/time-series/dec/popchange-data-text.html). Census.gov. United States Census Bureau. Archived from [the](https://www.census.gov/data/tables/time-series/dec/popchange-data-text.html) [original](https://www.census.gov/data/tables/time-series/dec/popchange-data-text.html) on April 29, 2021. Retrieved May 1, 2021.
 - 94. ^ ["Data"](https://www.census.gov/programs-surveys/popest/data.html). [United States Census Bureau](https://en.wikipedia.org/wiki/United_States_Census_Bureau). Retrieved December 22, 2022.
 - 95. ^ ["Pennsylvania United States Census Bureau"](https://web.archive.org/web/20141006065329/http://quickfacts.census.gov/qfd/states/42000.html). Archived from [the original](http://quickfacts.census.gov/qfd/states/42000.html) on October 6, 2014. Retrieved June 1, 2012.
 - 96. ^ [Pennsylvania Quick Facts.](https://data.census.gov/profile/Pennsylvania?g=040XX00US42#populations-and-people) Accessed July 12, 2023
-- 97. ^ ["Population and Population Centers by State—2000"](http://webarchive.loc.gov/all/20080918020344/http://www.census.gov/geo/www/cenpop/statecenters.txt). United States Census Bureau. Archived from [the original](https://www.census.gov/geo/www/cenpop/statecenters.txt) on September 18, 2008. Retrieved December 3, 2008.
-- 98. ^ ["2007–2022 PIT Counts by State"](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.huduser.gov%2Fportal%2Fsites%2Fdefault%2Ffiles%2Fxls%2F2007-2022-PIT-Counts-by-State.xlsx&wd Origin=BROWSELINK).
+- 97. ^ ["Population and Population Centers by State--2000"](http://webarchive.loc.gov/all/20080918020344/http://www.census.gov/geo/www/cenpop/statecenters.txt). United States Census Bureau. Archived from [the original](https://www.census.gov/geo/www/cenpop/statecenters.txt) on September 18, 2008. Retrieved December 3, 2008.
+- 98. ^ ["2007-2022 PIT Counts by State"](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.huduser.gov%2Fportal%2Fsites%2Fdefault%2Ffiles%2Fxls%2F2007-2022-PIT-Counts-by-State.xlsx&wd Origin=BROWSELINK).
 
 - 99. ^ ["The 2022 Annual Homelessness Assessment Report \(AHAR\)](https://www.huduser.gov/portal/sites/default/files/pdf/2022-AHAR-Part-1.pdf) [to Congress"](https://www.huduser.gov/portal/sites/default/files/pdf/2022-AHAR-Part-1.pdf) (PDF).
-- 100. ^ ["American Fact Finder—Results"](https://archive.today/20200212102855/http://factfinder.census.gov/bkmk/table/1.0/en/ACS/10_SF4/DP02/0400000US42). Archived from [the original](http://factfinder.census.gov/bkmk/table/1.0/en/ACS/10_SF4/DP02/0400000US42) on February 12, 2020. Retrieved October 7, 2014.
+- 100. ^ ["American Fact Finder--Results"](https://archive.today/20200212102855/http://factfinder.census.gov/bkmk/table/1.0/en/ACS/10_SF4/DP02/0400000US42). Archived from [the original](http://factfinder.census.gov/bkmk/table/1.0/en/ACS/10_SF4/DP02/0400000US42) on February 12, 2020. Retrieved October 7, 2014.
 - 101. ^ American Fact Finder, United States Census Bureau. ["American Community Survey 3-Year Estimates"](https://archive.today/20200212083238/http://factfinder.census.gov/bkmk/table/1.0/en/ACS/08_3YR/DP3YR2/0400000US42). Factfinder.census.gov. Archived from [the original](http://factfinder.census.gov/bkmk/table/1.0/en/ACS/08_3YR/DP3YR2/0400000US42) on February 12, 2020. Retrieved July 31, 2010.
 - 102. ^ ["Puerto Ricans in Pennsylvania"](https://www.census.gov/prod/cen2010/briefs/c2010br-04.pdf) (PDF). [Archived](https://web.archive.org/web/20180127044304/https://www.census.gov/prod/cen2010/briefs/c2010br-04.pdf) (PDF) from the original on January 27, 2018. Retrieved November 8, 2011.
 - 103. ^ ["Immigrants in Pennsylvania"](https://www.americanimmigrationcouncil.org/sites/default/files/research/immigrants_in_pennsylvania.pdf) (PDF).
-- 104. ^ Data Access and Dissemination Systems (DADS). ["American](https://archive.today/20200212213801/http://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_10_1YR_DP05&prod Type=table) [Fact Finder—Results"](https://archive.today/20200212213801/http://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_10_1YR_DP05&prod Type=table). census.gov. Archived from [the original](http://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_10_1YR_DP05&prod Type=table) on February 12, 2020. Retrieved June 6, 2015.
-- 105. ^ ["The Daily Journal—Puerto Rico's population exodus is all](http://content.usatoday.com/dist/custom/gci/Inside Page.aspx?c Id=thedailyjournal&s Param=53490820.story) [about jobs"](http://content.usatoday.com/dist/custom/gci/Inside Page.aspx?c Id=thedailyjournal&s Param=53490820.story). USA Today. [Archived](https://web.archive.org/web/20150904011425/http://content.usatoday.com/dist/custom/gci/Inside Page.aspx?c Id=thedailyjournal&s Param=53490820.story) from the original on September 4, 2015. Retrieved June 6, 2015.
+- 104. ^ Data Access and Dissemination Systems (DADS). ["American](https://archive.today/20200212213801/http://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_10_1YR_DP05&prod Type=table) [Fact Finder--Results"](https://archive.today/20200212213801/http://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_10_1YR_DP05&prod Type=table). census.gov. Archived from [the original](http://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_10_1YR_DP05&prod Type=table) on February 12, 2020. Retrieved June 6, 2015.
+- 105. ^ ["The Daily Journal--Puerto Rico's population exodus is all](http://content.usatoday.com/dist/custom/gci/Inside Page.aspx?c Id=thedailyjournal&s Param=53490820.story) [about jobs"](http://content.usatoday.com/dist/custom/gci/Inside Page.aspx?c Id=thedailyjournal&s Param=53490820.story). USA Today. [Archived](https://web.archive.org/web/20150904011425/http://content.usatoday.com/dist/custom/gci/Inside Page.aspx?c Id=thedailyjournal&s Param=53490820.story) from the original on September 4, 2015. Retrieved June 6, 2015.
 - 106. ^ ["Annual Estimates of the Population"](https://web.archive.org/web/20130120132138/http://www.census.gov/popest/data/state/asrh/2004/tables/SC-EST2004-03-42.xls). Archived from [the](https://www.census.gov/popest/data/state/asrh/2004/tables/SC-EST2004-03-42.xls) [original](https://www.census.gov/popest/data/state/asrh/2004/tables/SC-EST2004-03-42.xls) on January 20, 2013. Retrieved July 31, 2010.
-- 107. ^ ["2010 Census Data—2010 Census"](https://web.archive.org/web/20110706203009/http://2010.census.gov/2010census/data/). 2010.census.gov. Archived from [the original](http://2010.census.gov/2010census/data/) on July 6, 2011. Retrieved July 7, 2011.
+- 107. ^ ["2010 Census Data--2010 Census"](https://web.archive.org/web/20110706203009/http://2010.census.gov/2010census/data/). 2010.census.gov. Archived from [the original](http://2010.census.gov/2010census/data/) on July 6, 2011. Retrieved July 7, 2011.
 - 108. ^ Jump up to: **a b** "Research Brief [: The Commonwealth's](https://pasdc.hbg.psu.edu/sdc/pasdc_files/researchbriefs/2010_Census_PL94_Release_RB_FINAL.pdf) [Official Source for Population and Economic Statistics"](https://pasdc.hbg.psu.edu/sdc/pasdc_files/researchbriefs/2010_Census_PL94_Release_RB_FINAL.pdf) (PDF). Pasdc.hbg.psu.edu. March 9, 2011. [Archived](https://web.archive.org/web/20160304215817/https://pasdc.hbg.psu.edu/sdc/pasdc_files/researchbriefs/2010_Census_PL94_Release_RB_FINAL.pdf) (PDF) from the original on March 4, 2016. Retrieved June 26, 2016.
 
-- 109. ^ ["Puerto Ricans Leave N. Y. Report Tells Where They Go—](https://web.archive.org/web/20150722032407/http://centropr.hunter.cuny.edu/research/datacenter/puerto-ricans-leave-ny-report-tells-where-they-go) [Centro de Estudios Puertorriqueños"](https://web.archive.org/web/20150722032407/http://centropr.hunter.cuny.edu/research/datacenter/puerto-ricans-leave-ny-report-tells-where-they-go). cuny.edu. Archived from [the original](http://centropr.hunter.cuny.edu/research/datacenter/puerto-ricans-leave-ny-report-tells-where-they-go) on July 22, 2015. Retrieved June 5, 2015.
-- 110. ^ Data Access and Dissemination Systems (DADS). ["American](https://archive.today/20200212212204/http://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_13_1YR_B04003&prod Type=table) [Fact Finder—Results"](https://archive.today/20200212212204/http://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_13_1YR_B04003&prod Type=table). census.gov. Archived from [the original](http://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_13_1YR_B04003&prod Type=table) on February 12, 2020. Retrieved June 6, 2015.
+- 109. ^ ["Puerto Ricans Leave N. Y. Report Tells Where They Go--](https://web.archive.org/web/20150722032407/http://centropr.hunter.cuny.edu/research/datacenter/puerto-ricans-leave-ny-report-tells-where-they-go) [Centro de Estudios Puertorriqueños"](https://web.archive.org/web/20150722032407/http://centropr.hunter.cuny.edu/research/datacenter/puerto-ricans-leave-ny-report-tells-where-they-go). cuny.edu. Archived from [the original](http://centropr.hunter.cuny.edu/research/datacenter/puerto-ricans-leave-ny-report-tells-where-they-go) on July 22, 2015. Retrieved June 5, 2015.
+- 110. ^ Data Access and Dissemination Systems (DADS). ["American](https://archive.today/20200212212204/http://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_13_1YR_B04003&prod Type=table) [Fact Finder--Results"](https://archive.today/20200212212204/http://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_13_1YR_B04003&prod Type=table). census.gov. Archived from [the original](http://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_13_1YR_B04003&prod Type=table) on February 12, 2020. Retrieved June 6, 2015.
 - 111. ^ Jump up to: **a b** ["Race and Ethnicity in the United States:](https://www.census.gov/library/visualizations/interactive/race-and-ethnicity-in-the-united-state-2010-and-2020-census.html) [2010 Census and 2020 Census"](https://www.census.gov/library/visualizations/interactive/race-and-ethnicity-in-the-united-state-2010-and-2020-census.html).
 - 112. ^ ["Historical Census Statistics on Population Totals By Race,](https://web.archive.org/web/20080725044857/http://www.census.gov/population/www/documentation/twps0056/twps0056.html) [1790 to 1990, and By Hispanic Origin, 1970 to 1990, For The](https://web.archive.org/web/20080725044857/http://www.census.gov/population/www/documentation/twps0056/twps0056.html) [United States, Regions, Divisions, and States"](https://web.archive.org/web/20080725044857/http://www.census.gov/population/www/documentation/twps0056/twps0056.html). Census.gov. Archived from [the original](https://www.census.gov/population/www/documentation/twps0056/twps0056.html) on July 25, 2008. Retrieved May 4, 2014.
 - 113. ^ ["censusviewer.com"](https://archive.today/20140111024022/http://censusviewer.com/city/PA). January 11, 2014. Archived from [the](http://censusviewer.com/city/PA) [original](http://censusviewer.com/city/PA) on January 11, 2014.
@@ -932,12 +1005,12 @@ Pennsylvania was historically referred to by the nickname
 
 - August 4, 2015.
 - 132. ^ ["Religious composition of adults in Pennsylvania"](https://www.pewforum.org/religious-landscape-study/state/pennsylvania/). Religious Landscape Study. The Pew Forum on Religion & Public Life. 2017. [Archived](https://web.archive.org/web/20171005201836/http://www.pewforum.org/religious-landscape-study/state/pennsylvania/) from the original on October 5, 2017. Retrieved October 5, 2017.
-- 133. ^ ["PRRI – American Values Atlas"](https://web.archive.org/web/20190221221714/http://ava.prri.org/#religious/2020/States/religion/m/US-PA). ava.prri.org. Archived from [the original](http://ava.prri.org/#religious/2020/States/religion/m/US-PA) on February 21, 2019. Retrieved February 7, 2022.
+- 133. ^ ["PRRI - American Values Atlas"](https://web.archive.org/web/20190221221714/http://ava.prri.org/#religious/2020/States/religion/m/US-PA). ava.prri.org. Archived from [the original](http://ava.prri.org/#religious/2020/States/religion/m/US-PA) on February 21, 2019. Retrieved February 7, 2022.
 - 134. ^ Association of Religion Data Archives (2010). ["Presbyterian](https://web.archive.org/web/20210813175310/https://www.thearda.com/ql2010/QL_S_2010_2_1142p.asp) [Church \(U. S. A.\) States \(2010\)"](https://web.archive.org/web/20210813175310/https://www.thearda.com/ql2010/QL_S_2010_2_1142p.asp). Association of Statisticians of American Religious Bodies. Archived from [the original](https://www.thearda.com/ql2010/QL_S_2010_2_1142p.asp) on August 13, 2021. Retrieved February 4, 2021.
 - 135. ^ ["The Association of Religion Data Archives | State](https://web.archive.org/web/20150721175940/http://www.thearda.com/rcms2010/r/s/42/rcms2010_42_state_adh_2010.asp) [Membership Report"](https://web.archive.org/web/20150721175940/http://www.thearda.com/rcms2010/r/s/42/rcms2010_42_state_adh_2010.asp). www.thearda.com. Archived from [the](http://www.thearda.com/rcms2010/r/s/42/rcms2010_42_state_adh_2010.asp) [original](http://www.thearda.com/rcms2010/r/s/42/rcms2010_42_state_adh_2010.asp) on July 21, 2015. Retrieved December 5, 2013.
 - 136. ^ Webb Design Inc. ["Amish Country | Ohio | Visitor](http://www.visitamishcountry.com/) [Information"](http://www.visitamishcountry.com/). Visitamishcountry.com. [Archived](https://web.archive.org/web/20100220001106/http://www.visitamishcountry.com/) from the original on February 20, 2010. Retrieved July 31, 2010.
-- 137. ^ Donald B. Kraybill and C. Nelson Hostetter: Anabaptist World USA, Scottdale, PA and Waterloo, Ontario, 2001, pages 200– 201.
-- 138. ^ ["Friends General Conference States \(2010\)—Quick Lists—The](https://web.archive.org/web/20161029044341/http://www.thearda.com/ql2010/QL_S_2010_2_1076c.asp) [Association of Religion Data Archives"](https://web.archive.org/web/20161029044341/http://www.thearda.com/ql2010/QL_S_2010_2_1076c.asp). www.thearda.com. Archived from [the original](http://www.thearda.com/ql2010/QL_S_2010_2_1076c.asp) on October 29, 2016. Retrieved October 28, 2016.
+- 137. ^ Donald B. Kraybill and C. Nelson Hostetter: Anabaptist World USA, Scottdale, PA and Waterloo, Ontario, 2001, pages 200- 201.
+- 138. ^ ["Friends General Conference States \(2010\)--Quick Lists--The](https://web.archive.org/web/20161029044341/http://www.thearda.com/ql2010/QL_S_2010_2_1076c.asp) [Association of Religion Data Archives"](https://web.archive.org/web/20161029044341/http://www.thearda.com/ql2010/QL_S_2010_2_1076c.asp). www.thearda.com. Archived from [the original](http://www.thearda.com/ql2010/QL_S_2010_2_1076c.asp) on October 29, 2016. Retrieved October 28, 2016.
 - 139. ^ ["GDP by State"](https://www.bea.gov/data/gdp/gdp-state). GDP by State | U. S. Bureau of Economic Analysis (BEA). Bureau of Economic Analysis. Retrieved April 10, 2022.
 
 - 140. ^ ["Report for Selected Countries and Subjects"](http://www.imf.org/external/pubs/ft/weo/2017/02/weodata/weorept.aspx?pr.x=32&pr.y=19&sy=2015&ey=2016&scsm=1&ssd=1&sort=country&ds=.&br=1&c=512,672,914,946,612,137,614,546,311,962,213,674,911,676,193,548,122,556,912,678,313,181,419,867,513,682,316,684,913,273,124,868,339,921,638,948,514,943,218,686,963,688,616,518,223,728,516,558,918,138,748,196,618,278,624,692,522,694,622,142,156,449,626,564,628,565,228,283,924,853,233,288,632,293,636,566,634,964,238,182,662,359,960,453,423,968,935,922,128,714,611,862,321,135,243,716,248,456,469,722,253,942,642,718,643,724,939,576,644,936,819,961,172,813,132,199,646,733,648,184,915,524,134,361,652,362,174,364,328,732,258,366,656,734,654,144,336,146,263,463,268,528,532,923,944,738,176,578,534,537,536,742,429,866,433,369,178,744,436,186,136,925,343,869,158,746,439,926,916,466,664,112,826,111,542,298,967,927,443,846,917,299,544,582,941,474,446,754,666,698,668&s=NGDPD&grp=0&a=). www.imf.org. [Archived](https://web.archive.org/web/20180131024038/http://www.imf.org/external/pubs/ft/weo/2017/02/weodata/weorept.aspx?pr.x=32&pr.y=19&sy=2015&ey=2016&scsm=1&ssd=1&sort=country&ds=.&br=1&c=512,672,914,946,612,137,614,546,311,962,213,674,911,676,193,548,122,556,912,678,313,181,419,867,513,682,316,684,913,273,124,868,339,921,638,948,514,943,218,686,963,688,616,518,223,728,516,558,918,138,748,196,618,278,624,692,522,694,622,142,156,449,626,564,628,565,228,283,924,853,233,288,632,293,636,566,634,964,238,182,662,359,960,453,423,968,935,922,128,714,611,862,321,135,243,716,248,456,469,722,253,942,642,718,643,724,939,576,644,936,819,961,172,813,132,199,646,733,648,184,915,524,134,361,652,362,174,364,328,732,258,366,656,734,654,144,336,146,263,463,268,528,532,923,944,738,176,578,534,537,536,742,429,866,433,369,178,744,436,186,136,925,343,869,158,746,439,926,916,466,664,112,826,111,542,298,967,927,443,846,917,299,544,582,941,474,446,754,666,698,668&s=NGDPD&grp=0&a=) from the original on January 31, 2018. Retrieved January 4, 2018.
@@ -954,7 +1027,7 @@ Pennsylvania was historically referred to by the nickname
 
 - (PDF) on April 14, 2008.
 - 151. ^ ["What is PA Preferred? Just a pretty logo or a way to build a](http://www.pennlive.com/food/index.ssf/2014/01/pa_preferred_pa_farm_show_pa_m.html) [brand?"](http://www.pennlive.com/food/index.ssf/2014/01/pa_preferred_pa_farm_show_pa_m.html). [The Patriot-News](https://en.wikipedia.org/wiki/The_Patriot-News). January 8, 2014. [Archived](https://web.archive.org/web/20150224040150/http://www.pennlive.com/food/index.ssf/2014/01/pa_preferred_pa_farm_show_pa_m.html) from the original on February 24, 2015. Retrieved February 23, 2015.
-- 152. ^ ["Agribusiness"](https://web.archive.org/web/20140910202950/http://cidepiqc.com/partners/state-of-pennsylvania/agribusiness/). CIDEP—Investment Attraction & Business Leads Generation. Archived from [the original](http://cidepiqc.com/partners/state-of-pennsylvania/agribusiness/) on September 10, 2014. Retrieved October 7, 2014.
+- 152. ^ ["Agribusiness"](https://web.archive.org/web/20140910202950/http://cidepiqc.com/partners/state-of-pennsylvania/agribusiness/). CIDEP--Investment Attraction & Business Leads Generation. Archived from [the original](http://cidepiqc.com/partners/state-of-pennsylvania/agribusiness/) on September 10, 2014. Retrieved October 7, 2014.
 - 153. ^ ["Rendell signs film production tax credit law"](http://philadelphia.bizjournals.com/philadelphia/stories/2004/07/19/daily26.html). [Philadelphia](https://en.wikipedia.org/wiki/Philadelphia_Business_Journal) [Business Journal](https://en.wikipedia.org/wiki/Philadelphia_Business_Journal). July 21, 2004. [Archived](https://web.archive.org/web/20040903230427/http://philadelphia.bizjournals.com/philadelphia/stories/2004/07/19/daily26.html) from the original on September 3, 2004. Retrieved January 30, 2016.
 - 154. ^ ["Casino table games in budget debate? Rendell won't say](https://www.mcall.com/news/mc-xpm-2009-06-19-4392853-story.html) [no, but stresses revenue wouldn't make a dent in deficit"](https://www.mcall.com/news/mc-xpm-2009-06-19-4392853-story.html). June 19, 2009.
 - 155. ^ Molter, Michael (November 20, 2023). ["Taxes From](https://www.legalsportsbetting.com/news/taxes-from-pennsylvania-sports-betting-crosses-500-million-11-20-2023/) [Pennsylvania Sports Betting Crosses \\$500 Million"](https://www.legalsportsbetting.com/news/taxes-from-pennsylvania-sports-betting-crosses-500-million-11-20-2023/). Legal Sports Betting.com. Retrieved November 20, 2023.
@@ -964,7 +1037,7 @@ Pennsylvania was historically referred to by the nickname
 - 159. ^ Jump up to: **a b** Jenkins Law Library. ["23 Pennsylvania Law](https://web.archive.org/web/20100113203057/http://www.jenkinslaw.org/collection/researchguides/publications/ann-constitutions.php)
 
 - [Weekly 324 \(March 27, 2000\)"](https://web.archive.org/web/20100113203057/http://www.jenkinslaw.org/collection/researchguides/publications/ann-constitutions.php). Jenkinslaw.org. Archived from [the original](http://www.jenkinslaw.org/collection/researchguides/publications/ann-constitutions.php) on January 13, 2010. Retrieved July 31, 2010.
-- 160. ^ J. Pomante II, Michael; Li, Quan (December 15, 2020). ["Cost](https://doi.org/10.1089%2Felj.2020.0666) [of Voting in the American States: 2020"](https://doi.org/10.1089%2Felj.2020.0666). Election Law Journal: Rules, Politics, and Policy. **19** (4): 503–509. [doi](https://en.wikipedia.org/wiki/Doi_(identifier))[:10.1089/](https://doi.org/10.1089%2Felj.2020.0666) [elj.2020.0666](https://doi.org/10.1089%2Felj.2020.0666). [ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier)) [1533-1296](https://search.worldcat.org/issn/1533-1296). [S2CID](https://en.wikipedia.org/wiki/S2CID_(identifier)) [225139517](https://api.semanticscholar.org/CorpusID:225139517).
+- 160. ^ J. Pomante II, Michael; Li, Quan (December 15, 2020). ["Cost](https://doi.org/10.1089%2Felj.2020.0666) [of Voting in the American States: 2020"](https://doi.org/10.1089%2Felj.2020.0666). Election Law Journal: Rules, Politics, and Policy. **19** (4): 503-509. [doi](https://en.wikipedia.org/wiki/Doi_(identifier))[:10.1089/](https://doi.org/10.1089%2Felj.2020.0666) [elj.2020.0666](https://doi.org/10.1089%2Felj.2020.0666). [ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier)) [1533-1296](https://search.worldcat.org/issn/1533-1296). [S2CID](https://en.wikipedia.org/wiki/S2CID_(identifier)) [225139517](https://api.semanticscholar.org/CorpusID:225139517).
 - 161. ^ ["Pennsylvania State Executive Offices](https://ballotpedia.org/Pennsylvania_state_executive_offices#Current_officeholders) [Archived](https://web.archive.org/web/20160914040134/https://ballotpedia.org/Pennsylvania_state_executive_offices#Current_officeholders) September 14, 2016, at the [Wayback Machine"](https://en.wikipedia.org/wiki/Wayback_Machine), Ballotpedia, retrieved January 23, 2019.
 - 162. ^ ["Pennsylvania State Archives"](http://www.phmc.state.pa.us/BAH/dam/rg/rg7.htm). Phmc.state.pa.us. [Archived](https://web.archive.org/web/20100914201845/http://www.phmc.state.pa.us/bah/dam/rg/rg7.htm) from the original on September 14, 2010. Retrieved July 31, 2010.
 - 163. ^ [Officers of the State Senate,](https://www.legis.state.pa.us/cfdocs/legis/home/member_information/senate/officers.cfm) PA State Senate. Retrieved June 7, 2023
@@ -979,7 +1052,7 @@ Pennsylvania was historically referred to by the nickname
 - [United States Census Bureau](https://en.wikipedia.org/wiki/United_States_Census_Bureau). 2010. Archived from [the original](https://www.census.gov/popest/cities/tables/SUB-EST2009-04-42.xls) [\(XLS\)](https://en.wikipedia.org/wiki/Microsoft_Excel) on July 9, 2011. Retrieved July 4, 2010.
 - 171. ^ Jump up to: **a b** The Pennsylvania Manual, p. 6-6.
 - 172. ^ The Pennsylvania Manual, p. 6-22.
-- 173. ^ Title 302, [Pennsylvania Code,](https://en.wikipedia.org/wiki/Pennsylvania_Code) Section 23.1–101.
+- 173. ^ Title 302, [Pennsylvania Code,](https://en.wikipedia.org/wiki/Pennsylvania_Code) Section 23.1-101.
 - 174. ^ ["Pennsylvania Tax Rates & Rankings | PA State Taxes"](https://taxfoundation.org/state/pennsylvania/). Tax Foundation. Retrieved September 28, 2020.
 - 175. ^ ["Shale tax comes up dry for 3d year"](https://web.archive.org/web/20160304081641/http://articles.philly.com/2011-07-03/news/29733315_1_shale-tax-extraction-tax-drilling-tax). July 3, 2011. Archived from [the original](http://articles.philly.com/2011-07-03/news/29733315_1_shale-tax-extraction-tax-drilling-tax) on March 4, 2016. Retrieved September 19, 2011.
 - 176. ^ ["Gov Rendell says all of Pennsylvania's transit agencies will](https://web.archive.org/web/20120405231239/http://www.tollroadsnews.com/node/4527) [get I-80 toll \\$s"](https://web.archive.org/web/20120405231239/http://www.tollroadsnews.com/node/4527). TOLLROADSnews. January 6, 2010. Archived from [the original](http://www.tollroadsnews.com/node/4527) on April 5, 2012. Retrieved September 19, 2011.
@@ -990,7 +1063,7 @@ Pennsylvania was historically referred to by the nickname
 - 181. ^ ["Taking a Closer Look at Government: Pennsylvania's Local](https://web.archive.org/web/20161201015143/http://issuespa.org/content/taking-closer-look-government-pennsylvanias-local-taxation-system)
 
 - [Taxation "System""](https://web.archive.org/web/20161201015143/http://issuespa.org/content/taking-closer-look-government-pennsylvanias-local-taxation-system). issuespa.org. Archived from the original on December 1, 2016. Retrieved November 30, 2016.
-- 182. ^ ["Commonwealth of Pennsylvania Voter Registration](https://www.pa.gov/en/agencies/dos/resources/voting-and-elections-resources/voting-and-election-statistics.html) [Statistics — Official February 10, 2025"](https://www.pa.gov/en/agencies/dos/resources/voting-and-elections-resources/voting-and-election-statistics.html). Pennsylvania Department of State.
+- 182. ^ ["Commonwealth of Pennsylvania Voter Registration](https://www.pa.gov/en/agencies/dos/resources/voting-and-elections-resources/voting-and-election-statistics.html) [Statistics -- Official February 10, 2025"](https://www.pa.gov/en/agencies/dos/resources/voting-and-elections-resources/voting-and-election-statistics.html). Pennsylvania Department of State.
 - 183. ^ ["Donald Trump becomes 1st Republican to win Pennsylvania](https://web.archive.org/web/20161112051813/http://lancasteronline.com/news/local/donald-trump-becomes-st-republican-to-win-pennsylvania-since/article_9173e044-a647-11e6-885f-a35dd164ac8c.html) [since 1988"](https://web.archive.org/web/20161112051813/http://lancasteronline.com/news/local/donald-trump-becomes-st-republican-to-win-pennsylvania-since/article_9173e044-a647-11e6-885f-a35dd164ac8c.html). Lancaster Online. Associated Press. Archived from [the original](http://lancasteronline.com/news/local/donald-trump-becomes-st-republican-to-win-pennsylvania-since/article_9173e044-a647-11e6-885f-a35dd164ac8c.html) on November 12, 2016. Retrieved November 13, 2016.
 - 184. ^ ["List of State Electoral Votes For The 2024 Election"](https://state.1keydata.com/state-electoral-votes.php). state.1keydata.com. Retrieved February 6, 2023.
 - 185. ^ ["State by State"](https://deathpenaltyinfo.org/state-and-federal-info/state-by-state). Death Penalty Information Center. Retrieved April 12, 2023.
@@ -1007,7 +1080,7 @@ Pennsylvania was historically referred to by the nickname
 - 195. ^ King, Brendan (September 5, 2024). ["Wall Street Journal](https://www.fox43.com/article/life/announcements/wall-street-journal-pennsylvania-ranked-third-colleges/521-6c2c50c5-6b06-42b5-8280-647814cf4b89) [ranks Pennsylvania colleges third in the nation"](https://www.fox43.com/article/life/announcements/wall-street-journal-pennsylvania-ranked-third-colleges/521-6c2c50c5-6b06-42b5-8280-647814cf4b89). WPMT Fox43. Retrieved September 5, 2024.
 - 196. ^ ["Quick Facts"](https://lecom.edu/about-lecom/quick-facts/). Retrieved August 13, 2020.
 - 197. ^ ["History of the School"](https://web.archive.org/web/20110615012302/http://www.pafa.org/School/Overview/History-of-the-School/350/). pafa.org. Archived from [the original](http://www.pafa.org/School/Overview/History-of-the-School/350/) on June 15, 2011. Retrieved April 8, 2011.
-- 198. ^ ["About—University of the Sciences"](http://www.usciences.edu/about/). usciences.edu. [Archived](https://web.archive.org/web/20110524050754/http://www.usciences.edu/about/) from the original on May 24, 2011. Retrieved April 8, 2011.
+- 198. ^ ["About--University of the Sciences"](http://www.usciences.edu/about/). usciences.edu. [Archived](https://web.archive.org/web/20110524050754/http://www.usciences.edu/about/) from the original on May 24, 2011. Retrieved April 8, 2011.
 - 199. ^ ["Rollercoaster Database: Steel Force \(Dorney Park &](http://www.rcdb.com/id276.htm) [Wildwater Kingdom\)"](http://www.rcdb.com/id276.htm). Retrieved July 10, 2008.
 - 200. ^ ["Oldest amusement parks in the United States as of May](https://www.statista.com/statistics/1358559/oldest-amusement-parks-us/) [2024, by year of first operation",](https://www.statista.com/statistics/1358559/oldest-amusement-parks-us/) [Statista,](https://en.wikipedia.org/wiki/Statista) accessed February 1, 2025
 - 201. ^ ["Philadelphia Zoo"](https://philadelphiazoo.org/about-the-zoo/). Retrieved February 12, 2020.
@@ -1023,25 +1096,25 @@ Pennsylvania was historically referred to by the nickname
 - 210. ^ Santoni, Matthew (September 14, 2010). ["Corps shuts](https://archive.today/20120908040557/http://www.pittsburghlive.com/x/pittsburghtrib/business/s_699345.html) [Highland Park lock for two weeks of repairs"](https://archive.today/20120908040557/http://www.pittsburghlive.com/x/pittsburghtrib/business/s_699345.html). Pittsburgh Tribune-Review. Trib Total Media. Archived from [the original](http://www.pittsburghlive.com/x/pittsburghtrib/business/s_699345.html) on September 8, 2012. Retrieved September 14, 2010.
 - 211. ^ ["New York Times, "Harry Olivieri, 90, Co-Inventor of Cheese](https://www.nytimes.com/2006/07/22/us/22olivieri.html?_r=1&oref=slogin) [Steak in Philadelphia, Dies" July 22, 2006 retrieved July 25,](https://www.nytimes.com/2006/07/22/us/22olivieri.html?_r=1&oref=slogin) [2006"](https://www.nytimes.com/2006/07/22/us/22olivieri.html?_r=1&oref=slogin). The New York Times. July 22, 2006. Retrieved May 21, 2010.
 
-- 212. ^ ["Pa. knack for snacks a Farm Show feature—Pittsburgh](https://web.archive.org/web/20091108051209/http://www.pittsburghlive.com/x/pittsburghtrib/news/cityregion/s_546927.html) [Tribune-Review"](https://web.archive.org/web/20091108051209/http://www.pittsburghlive.com/x/pittsburghtrib/news/cityregion/s_546927.html). Pittsburghlive.com. January 11, 2008. Archived from [the original](http://www.pittsburghlive.com/x/pittsburghtrib/news/cityregion/s_546927.html) on November 8, 2009. Retrieved July 31, 2010.
+- 212. ^ ["Pa. knack for snacks a Farm Show feature--Pittsburgh](https://web.archive.org/web/20091108051209/http://www.pittsburghlive.com/x/pittsburghtrib/news/cityregion/s_546927.html) [Tribune-Review"](https://web.archive.org/web/20091108051209/http://www.pittsburghlive.com/x/pittsburghtrib/news/cityregion/s_546927.html). Pittsburghlive.com. January 11, 2008. Archived from [the original](http://www.pittsburghlive.com/x/pittsburghtrib/news/cityregion/s_546927.html) on November 8, 2009. Retrieved July 31, 2010.
 - 213. ^ ["Chocolate Bunnies"](https://news.google.com/newspapers?id=hs QfAAAAIBAJ&pg=1978,4428241). The Southeast Missourian. Associated Press. April 1, 1996. [Archived](https://web.archive.org/web/20200420083939/https://news.google.com/newspapers?id=hs QfAAAAIBAJ&pg=1978,4428241) from the original on April 20, 2020. Retrieved October 7, 2014.
 - 214. ^ ["Company History: Auntie Anne's Pretzels"](https://web.archive.org/web/20090123132324/http://auntieannes.com/company_history.aspx). Auntie Anne's. Archived from [the original](http://www.auntieannes.com/company_history.aspx) on January 23, 2009. Retrieved February 6, 2009.
 - 215. ^ ["Philly: the best sports city in America",](https://stanforddaily.com/2018/04/26/ziperski-philly-the-best-sports-city-in-america/) The Stanford Daily, April 26, 2018
 - 216. ^ ["JJ Redick calls Philly 'the greatest sports town in America",](https://www.phillyvoice.com/jj-redick-sixers-76ers-philly-sports-town-nba-summer-league/) Philly Voice, July 13, 2022
 - 217. ^ Bratton, Chris (October 8, 2018). ["Penn FC to go on hiatus in](https://www.brotherlygame.com/2018/10/8/17953280/penn-fc-to-go-on-hiatus-in-2019-join-new-usl-third-division-league-in-2020) [2019, join new USL third division league in 2020"](https://www.brotherlygame.com/2018/10/8/17953280/penn-fc-to-go-on-hiatus-in-2019-join-new-usl-third-division-league-in-2020). Brotherly Game. [Archived](https://web.archive.org/web/20181130112950/https://www.brotherlygame.com/2018/10/8/17953280/penn-fc-to-go-on-hiatus-in-2019-join-new-usl-third-division-league-in-2020) from the original on November 30, 2018. Retrieved November 29, 2018.
 - 218. ^ ["Little League Chronology"](https://web.archive.org/web/20160629095428/http://www.littleleague.org/learn/about/historyandmission/chronology.htm). Little League.org. Archived from [the original](http://www.littleleague.org/learn/about/historyandmission/chronology.htm) on June 29, 2016. Retrieved August 10, 2016.
-- 219. ^ ["X Games History—part 2"](https://web.archive.org/web/20110707075533/http://skateboard.about.com/cs/events/a/XGames History_2.htm). Skateboard.about.com. June 17, 2010. Archived from [the original](http://skateboard.about.com/cs/events/a/XGames History_2.htm) on July 7, 2011. Retrieved July 31, 2010.
-- 220. ^ ["Panther History—Pitt Football 2006"](https://web.archive.org/web/20110525121616/http://graphics.fansonly.com/photos/schools/pitt/sports/m-footbl/auto_pdf/06guide-pantherhistory.pdf) (PDF). Archived from [the original](http://graphics.fansonly.com/photos/schools/pitt/sports/m-footbl/auto_pdf/06guide-pantherhistory.pdf) (PDF) on May 25, 2011. Retrieved July 7, 2011.
+- 219. ^ ["X Games History--part 2"](https://web.archive.org/web/20110707075533/http://skateboard.about.com/cs/events/a/XGames History_2.htm). Skateboard.about.com. June 17, 2010. Archived from [the original](http://skateboard.about.com/cs/events/a/XGames History_2.htm) on July 7, 2011. Retrieved July 31, 2010.
+- 220. ^ ["Panther History--Pitt Football 2006"](https://web.archive.org/web/20110525121616/http://graphics.fansonly.com/photos/schools/pitt/sports/m-footbl/auto_pdf/06guide-pantherhistory.pdf) (PDF). Archived from [the original](http://graphics.fansonly.com/photos/schools/pitt/sports/m-footbl/auto_pdf/06guide-pantherhistory.pdf) (PDF) on May 25, 2011. Retrieved July 7, 2011.
 - 221. ^ ["Recognized National Championships by Team"](https://web.archive.org/web/20100920001615/http://cfbdatawarehouse.com/data/national_championships/nchamps_team.php). Cfbdatawarehouse.com. Archived from [the original](http://www.cfbdatawarehouse.com/data/national_championships/nchamps_team.php) on
 
 - September 20, 2010. Retrieved July 31, 2010.
 - 222. ^ ["PHMC: State Symbols"](https://web.archive.org/web/20090504141346/http://www.phmc.state.pa.us/bah/pahist/symbols.asp?secid=31). Archived from [the original](http://www.phmc.state.pa.us/bah/pahist/symbols.asp?secid=31) on May 4, 2009. Retrieved August 16, 2006.
 - 223. ^ ["Lancaster rifle"](https://web.archive.org/web/20150403090008/http://www.2nj.org/library/weapons/flintlock_rifles.htm). Archived from [the original](http://www.2nj.org/library/weapons/flintlock_rifles.htm) on April 3, 2015. Retrieved August 28, 2006.
 - 224. ^ ["PHMC: Agriculture in Pennsylvania"](https://web.archive.org/web/20090703102530/http://www.phmc.state.pa.us/ppet/agriculture/page1.asp?secid=31). Archived from [the](http://www.phmc.state.pa.us/ppet/agriculture/page1.asp?secid=31) [original](http://www.phmc.state.pa.us/ppet/agriculture/page1.asp?secid=31) on July 3, 2009. Retrieved August 28, 2006.
-- 225. ^ ["The State of Pennsylvania—An Introduction the Keystone](http://www.netstate.com/states/intro/pa_intro.htm) [State"](http://www.netstate.com/states/intro/pa_intro.htm). Netstate. Com. [Archived](https://web.archive.org/web/20160323161333/http://www.netstate.com/states/intro/pa_intro.htm) from the original on March 23, 2016. Retrieved July 31, 2010.
+- 225. ^ ["The State of Pennsylvania--An Introduction the Keystone](http://www.netstate.com/states/intro/pa_intro.htm) [State"](http://www.netstate.com/states/intro/pa_intro.htm). Netstate. Com. [Archived](https://web.archive.org/web/20160323161333/http://www.netstate.com/states/intro/pa_intro.htm) from the original on March 23, 2016. Retrieved July 31, 2010.
 - 226. ^ URBAN, BOB. ["Talking Pennsylvanian | Times News Online"](https://www.tnonline.com/20101211/talking-pennsylvanian/). www.tnonline.com. Retrieved August 13, 2023.
-- 227. ^ ["The Quaker Province 1681–1776"](https://web.archive.org/web/20090325035935/http://www.dgs.state.pa.us/dgs/lib/dgs/pa_manual/section1/the_quaker_province_1681-1776.pdf) (PDF). Department of General Services. Archived from [the original](https://www.dgs.pa.gov/Pages/default.aspx) on March 25, 2009.
-- 228. ^ ["The Quaker Province 1681–1776"](https://web.archive.org/web/20090601223635/http://www.phmc.state.pa.us/bah/pahist/quaker.asp?secid=31). Archived from [the](http://www.phmc.state.pa.us/bah/pahist/quaker.asp?secid=31) [original](http://www.phmc.state.pa.us/bah/pahist/quaker.asp?secid=31) on June 1, 2009. Retrieved August 16, 2006.
+- 227. ^ ["The Quaker Province 1681-1776"](https://web.archive.org/web/20090325035935/http://www.dgs.state.pa.us/dgs/lib/dgs/pa_manual/section1/the_quaker_province_1681-1776.pdf) (PDF). Department of General Services. Archived from [the original](https://www.dgs.pa.gov/Pages/default.aspx) on March 25, 2009.
+- 228. ^ ["The Quaker Province 1681-1776"](https://web.archive.org/web/20090601223635/http://www.phmc.state.pa.us/bah/pahist/quaker.asp?secid=31). Archived from [the](http://www.phmc.state.pa.us/bah/pahist/quaker.asp?secid=31) [original](http://www.phmc.state.pa.us/bah/pahist/quaker.asp?secid=31) on June 1, 2009. Retrieved August 16, 2006.
 - 229. ^ Samuel, Bill. ["William Penn, Quaker"](https://web.archive.org/web/20101213023706/http://www.quakerinfo.com/quakpenn.shtml). Quakerinfo.com. Archived from [the original](http://www.quakerinfo.com/quakpenn.shtml) on December 13, 2010. Retrieved July 31, 2010.
 - 230. ^ ["Frame of Government"](https://web.archive.org/web/20100617071216/http://www.yale.edu/lawweb/avalon/states/pa04.htm). Yale.edu. Archived from [the original](http://www.yale.edu/lawweb/avalon/states/pa04.htm) on June 17, 2010. Retrieved July 31, 2010.
 - 231. [^](about:reader?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPennsylvania#cite_ref-236) ["Pennsylvania Matanzas"](https://web.archive.org/web/20071017015314/http://uscsca.org/penn.htm). U. S.-Cuba Sister Cities Association. Archived from [the original](http://www.uscsca.org/penn.htm) on October 17, 2007. Retrieved October 27, 2007.

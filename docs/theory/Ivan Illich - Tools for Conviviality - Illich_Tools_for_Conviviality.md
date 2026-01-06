@@ -1,3 +1,8 @@
+---
+title: "**Acknowledgments**"
+category: "theory"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 ### **Tools for Conviviality - Ivan Illich London: Marion Boyars, 2009.**

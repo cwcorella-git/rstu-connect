@@ -1,13 +1,8 @@
 ---
-title: Mutual Aid Peter Kropotkin
-date: 2025
-author: Peter Kropotkin
-tags:
-  - organizing
-  - strikes
-  - unions
-  - housing
-  - rent
+title: "Mutual Aid Peter Kropotkin"
+author: "Peter Kropotkin"
+date: "2025"
+category: "organizing"
 ---
 
 # Mutual Aid Peter Kropotkin

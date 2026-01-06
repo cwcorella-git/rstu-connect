@@ -1,3 +1,8 @@
+---
+title: "## **Beyond Rhetoric – What Does the "Just Transition" Mean for DAPL?**"
+category: "feminist-theory"
+---
+
 ## **Beyond Rhetoric – What Does the "Just Transition" Mean for DAPL?**
 
 ## **Date:** Tue, 09/27/2016 - 16:12
@@ -30,14 +35,17 @@ An economy so heavily reliant on the extraction and transportation of oil is an 
 
 The transition to a 100% renewable economy is already underway and is going to happen whether or not everyone is on board. The only questions are how quickly it happens, and
 
-| whether it can be done in a way that brings Rob's neighbors to the table instead of the<br>self-appointed few that got us into this mess in the first place. |
+| whether it can be done in a way that brings Rob's neighbors to the table instead of the
+self-appointed few that got us into this mess in the first place. |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [1] |
-| http://www.nytimes.com/2016/02/08/us/built-up-by-oil-boom-north-dakota-now-has-an-emptie<br>r-feeling.html |
+| http://www.nytimes.com/2016/02/08/us/built-up-by-oil-boom-north-dakota-now-has-an-emptie
+r-feeling.html |
 | [2] |
 | http://www.bloomberg.com/news/articles/2016-02-04/the-bakken-bust-hits-north-dakota-hard|
 | [3] |
 | http://www.ecowatch.com/sacred-burial-grounds-dakota-access-pipeline-1998932006.html|
 | Disclaimer: |
-| The views expressed here are not the official position of the IWW (or even the IWW's EUC)<br>and do not necessarily represent the views of anyone but the author's. |
+| The views expressed here are not the official position of the IWW (or even the IWW's EUC)
+and do not necessarily represent the views of anyone but the author's. |
 ## | |

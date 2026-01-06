@@ -1,11 +1,8 @@
 ---
-title: Police Regulation of Working Class Life in 19th Century France
-date: 2025
-author: Unknown
-tags:
-  - organizing
-  - police
-  - labor
+title: "Police Regulation of Working Class Life in 19th Century France"
+author: "Unknown"
+date: "2025"
+category: "abolition"
 ---
 
 # Police Regulation of Working Class Life in 19th Century France

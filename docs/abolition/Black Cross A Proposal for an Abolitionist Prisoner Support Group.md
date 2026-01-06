@@ -1,16 +1,10 @@
 ---
-title: Black Cross A Proposal For An Abolitionist Prisoner Support Group
-author: Simoun Magsalin
-slug: Black Cross A Proposal for an Abolitionist Prisoner Support Group
-reconversion_status: ready_for_reconversion
-date: 2020
-tags:
-  - abolition
-  - police
-  - strikes
-  - rent
-  - prisons
+title: "Black Cross A Proposal For An Abolitionist Prisoner Support Group"
+author: "Simoun Magsalin"
+date: "2020"
+category: "abolition"
 ---
+
 ## **Black Cross: A Proposal for an Abolitionist Prisoner Support Group**
 
 ## **Date:** Unknown

@@ -1,3 +1,8 @@
+---
+title: "## **1991: Mali General Strike**"
+category: "labor"
+---
+
 ## **1991: Mali General Strike**
 
 **Date:** Unknown

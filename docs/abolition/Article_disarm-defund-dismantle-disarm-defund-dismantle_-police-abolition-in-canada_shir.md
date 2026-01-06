@@ -1,15 +1,8 @@
 ---
-title: >-
-  Disarm Defund Dismantle Disarm Defund Dismantle Police Abolition in Canada
-  Shir
-date: 2025
-author: 'Shiri Pasternak, Kevin Walby, Abby Stadnyk'
-tags:
-  - organizing
-  - strikes
-  - unions
-  - housing
-  - rent
+title: ">-"
+author: "Shiri Pasternak, Kevin Walby, Abby Stadnyk"
+date: "2025"
+category: "abolition"
 ---
 
 # Disarm Defund Dismantle Disarm Defund Dismantle Police Abolition in Canada Shir

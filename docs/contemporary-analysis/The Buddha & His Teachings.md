@@ -1,3 +1,8 @@
+---
+title: "THE BUDDHA AND HIS TEACHINGS"
+category: "contemporary-analysis"
+---
+
 # THE BUDDHA AND HIS TEACHINGS
 
 Namo tassa Bhagavato arahanto Sammā Sambuddhassa!
@@ -2739,9 +2744,15 @@ The Vinaya Piṭaka, which is regarded as the sheet anchor of the holy order, de
 
 The Vinaya Pitaka consists of the following five books:
 
-| 1. Pārājika Pali<br>2. Pācittiya Pali | Vibhaṇga | (Major Offences)<br>(Minor Offences) |
+| 1. Pārājika Pali
+2. Pācittiya Pali | Vibhaṇga | (Major Offences)
+(Minor Offences) |
 |-------------------------------------------------------------|----------|------------------------------------------------------------------|
-| 3. Mahāvagga Pali<br>4. Cullavagga Pali<br>5. Parivāra Pali | Khandaka | (Greater Section)<br>(Lesser Section)<br>(Epitome of the Vinaya) |
+| 3. Mahāvagga Pali
+4. Cullavagga Pali
+5. Parivāra Pali | Khandaka | (Greater Section)
+(Lesser Section)
+(Epitome of the Vinaya) |
 
 ### Sutta Piṭaka
 
@@ -4822,38 +4833,56 @@ It should be remarked that the Buddha did not attempt to expound any cosmologica
 
 The essence of the Buddha's teaching is not affected by the existence or non-existence of these planes. No one is bound to believe anything if it does not appeal to his reason. Nor is it proper to reject anything because it cannot be conceived by one's limited knowledge.
 
-| | | | | THE AGE<br>LIMIT |
+| | | | | THE AGE
+LIMIT |
 |-------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|----------------------------|------------------|
-| OKA<br>SS<br>IS | Sphere of Neither Perception nor<br>Non-perception<br>Sphere of Nothingness<br>Sphere of Infinite Consciousness<br>Sphere of Infinite Space | | N'eva saññā n'āsaññāyatana | 84,000 M. K. |
+| OKA
+SS
+IS | Sphere of Neither Perception nor
+Non-perception
+Sphere of Nothingness
+Sphere of Infinite Consciousness
+Sphere of Infinite Space | | N'eva saññā n'āsaññāyatana | 84,000 M. K. |
 | A H | | | Ākiñcaññāyatana | 60,000 M. K. |
-| ARŪPALOKA<br>Formless<br>Realms | | | Viññāṇañcāyatana | 40,000 M. K. |
+| ARŪPALOKA
+Formless
+Realms | | | Viññāṇañcāyatana | 40,000 M. K. |
 | | | | Ākāsānañcāyatana | 20,000 M. K. |
-| RŪPALOKA<br>REALMS OF FORM | Catthuta Jhāna Bhūmi Fourth Jhāna Realm Fourth Jhāna Realm | | Akanittha | 16,000 M. K. |
+| RŪPALOKA
+REALMS OF FORM | Catthuta Jhāna Bhūmi Fourth Jhāna Realm Fourth Jhāna Realm | | Akanittha | 16,000 M. K. |
 | | | | Sudassi | 8,000 M. K. |
 | | | | Sudassa | 4,000 M. K. |
 | | | | Atappa | 2,000 M. K. |
 | | | | Aviha | 1,000 M. K. |
-| | Tatiya Jhāna Bhūmi<br>Third Jhāna Realm | | Āsaññasatta | 500 M. K. |
+| | Tatiya Jhāna Bhūmi
+Third Jhāna Realm | | Āsaññasatta | 500 M. K. |
 | | | | Vehapphala | 500 M. K. |
 | | | | Subhakinha | 64 M. K. |
 | | | | Appamāṇasubha | 32 M. K. |
 | | | | Parittasubha | 16 M. K. |
-| | Dutiya Jhāna Bhūmi<br>Second Jhāna Realm | | Ābhassara | 8 M. K. |
+| | Dutiya Jhāna Bhūmi
+Second Jhāna Realm | | Ābhassara | 8 M. K. |
 | | | | Appamāṇābha | 4 M. K. |
 | | | | Parittasubha | 2 M. K. |
-| | Paṭhama Jhāna Bhūmi<br>First Jhāna Realm | | Mahā Brahmā | 1 A. K. |
+| | Paṭhama Jhāna Bhūmi
+First Jhāna Realm | | Mahā Brahmā | 1 A. K. |
 | | | | Brahmā Purohita | 1/2 A. K. |
 | | | | Brahmā Pārisajja | 1/3 A. K. |
-| KĀMALOKA (11)<br>Sentient existence | SUGATI (7)<br>Happy states | S | Paranimmitavasavatti | 16,000 C. Y. |
+| KĀMALOKA (11)
+Sentient existence | SUGATI (7)
+Happy states | S | Paranimmitavasavatti | 16,000 C. Y. |
 | | | 99 ulu | Nimmāṇarati | 8,000 C. Y. |
-| | | DEVALOKA (6)<br>Celestial Realms | Tusita | 4,000 C. Y. |
+| | | DEVALOKA (6)
+Celestial Realms | Tusita | 4,000 C. Y. |
 | | | TO | Yama | 2,000 C. Y. |
 | | | .v. A | Tāvatimsa | 1,000 C. Y. |
 | | | G B | Cātummahārājika | 500 C. Y. |
 | | | Human Realm | Manussa | No Limit |
 | | | | Asurayoni | |
 | | vil es | | Petayoni | |
-| | DUGGATI<br>(4) evil<br>states | | Tiracchānayoni | |
+| | DUGGATI
+(4) evil
+states | | Tiracchānayoni | |
 ## | | ā · ° | | Niraya | |
 
 ## **Diagram 6. The Planes of Existence**

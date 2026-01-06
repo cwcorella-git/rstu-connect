@@ -1,3 +1,8 @@
+---
+title: "## [marxists.org](https://www.marxists.org/archive/marx/works/1880/soc-utop/ch02.htm)"
+category: "contemporary-analysis"
+---
+
 ## [marxists.org](https://www.marxists.org/archive/marx/works/1880/soc-utop/ch02.htm)
 
 ## Utopian and Scientific (Chpt. 2)

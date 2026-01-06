@@ -1,3 +1,8 @@
+---
+title: "## **New Battlefields - Phil Neel interview by e-Komite (2021)**"
+category: "contemporary-analysis"
+---
+
 ## **New Battlefields - Phil Neel interview by e-Komite (2021)**
 
 ## **Date:** Unknown

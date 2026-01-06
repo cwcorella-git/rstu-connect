@@ -1,17 +1,27 @@
+---
+title: "## **BCGEU signs solidarity accord with First Nations against Northern Gateway pipeline**"
+category: "labor"
+---
+
 ## **BCGEU signs solidarity accord with First Nations against Northern Gateway pipeline**
 
 | Date: Wed, 02/10/2016 - 22:18 |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Source: https://ecology.iww.org/node/1496|
-| Tags: British Columbia Government and Service Employees' Union (BCGEU), Northern Gateway,<br>green unionism, Enbridge, fracking, tar sands |
+| Tags: British Columbia Government and Service Employees' Union (BCGEU), Northern Gateway,
+green unionism, Enbridge, fracking, tar sands |
 | By Alyse Kotyk - |
 | Rabble. Ca |
 | , February 9, 2016 |
-| The B. C. Government and Service Employees' Union (BCGEU) has signed a solidarity accord<br>with Indigenous nations opposing pipelines in their territories. |
+| The B. C. Government and Service Employees' Union (BCGEU) has signed a solidarity accord
+with Indigenous nations opposing pipelines in their territories. |
 | The accord |
 | affirms the |
 | Save the Fraser Declaration |
-| , an Indigenous law signed by representatives of over 100 First Nations that states it "will not<br>allow the proposed Enbridge Northern Gateway Pipelines, or similar Tar Sands projects, to<br>cross [Indigenous] lands, territories and watersheds, or the ocean migration routes of Fraser<br>River salmon." |
+| , an Indigenous law signed by representatives of over 100 First Nations that states it "will not
+allow the proposed Enbridge Northern Gateway Pipelines, or similar Tar Sands projects, to
+cross [Indigenous] lands, territories and watersheds, or the ocean migration routes of Fraser
+River salmon." |
 
 ## Last month, the
 

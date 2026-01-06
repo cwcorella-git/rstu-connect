@@ -1,3 +1,8 @@
+---
+title: "## **Statement from John Paul Wootton for June 11 day of solidarity**"
+category: "contemporary-analysis"
+---
+
 ## **Statement from John Paul Wootton for June 11 day of solidarity**
 
 ## **Date:** Unknown

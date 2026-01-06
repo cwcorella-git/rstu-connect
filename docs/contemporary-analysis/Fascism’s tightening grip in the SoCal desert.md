@@ -1,3 +1,8 @@
+---
+title: "## **Fascism's tightening grip in the So Cal desert**"
+category: "contemporary-analysis"
+---
+
 ## **Fascism's tightening grip in the So Cal desert**
 
 ## **Date:** Unknown

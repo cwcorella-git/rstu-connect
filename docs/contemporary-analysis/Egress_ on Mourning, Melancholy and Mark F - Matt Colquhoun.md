@@ -1,3 +1,8 @@
+---
+title: "egress: on mourning, melancholy and Mark Fisher"
+category: "contemporary-analysis"
+---
+
 # egress: on mourning, melancholy and Mark Fisher
 
 # MATT COLQUHOUN
@@ -1853,11 +1858,11 @@ Dancers at Consciousness Razing, SETspace, Dalston, 2018.
 
 # **The Fisher-Function**
 
-- 1 [@Repeater Books](mailto:@Repeater Books). Tweet. 14 January 2017: <[https://twitter.com/repeaterbooks/status/](https://twitter.com/repeaterbooks/status/820272612303667200) [820272612303667200>](https://twitter.com/repeaterbooks/status/820272612303667200)
-- 2 *The Fisher-Function* was organised by Lendl Barcelos, Ashiya Eastwood, Kodwo Eshun, Mahan Moalemi, Geelia Ronkina and myself. For more information on this lecture series, you can visit: <[https://fisherfunction.persona.co/>](https://fisherfunction.persona.co/)
-- 3 Mark Fisher, "*k-punk* and I", k-punk, 9 December 2009: <[https://k](https://k-punk.org/k-punk-and-i/)[punk.org/k-punk-and-i/](https://k-punk.org/k-punk-and-i/)>
-- 4 Mark Fisher, "Psychedelic Reason", *k-punk*, 19 August 2004: <[https://k-punk.org/psychedelic-reason/>](https://k-punk.org/psychedelic-reason/)
-- 5 Robin Mackay. "Mark Fisher Memorial." *Urbanomic*: <[https://www.urbanomic.com/document/mark-fisher-memorial/>](https://www.urbanomic.com/document/mark-fisher-memorial/)
+- 1 [@Repeater Books](mailto:@Repeater Books). Tweet. 14 January 2017: ](https://twitter.com/repeaterbooks/status/820272612303667200)
+- 2 *The Fisher-Function* was organised by Lendl Barcelos, Ashiya Eastwood, Kodwo Eshun, Mahan Moalemi, Geelia Ronkina and myself. For more information on this lecture series, you can visit: ](https://fisherfunction.persona.co/)
+- 3 Mark Fisher, "*k-punk* and I", k-punk, 9 December 2009: 
+- 4 Mark Fisher, "Psychedelic Reason", *k-punk*, 19 August 2004: ](https://k-punk.org/psychedelic-reason/)
+- 5 Robin Mackay. "Mark Fisher Memorial." *Urbanomic*: ](https://www.urbanomic.com/document/mark-fisher-memorial/)
 - 6 Mark Fisher, "Acid Communism (Unfinished Introduction)" in *k-punk: The Collected and Unpublished Writings of Mark Fisher (2004-2016)*, ed. Darren Ambrose. London: Repeater Books, 2018, 766.
 - 7 Ibid.
 - 8 Georges Bataille. *Inner Experience*, trans. Stuart Kendall. New York: State University of New York Press, 2014, 9.
@@ -1874,9 +1879,9 @@ Dancers at Consciousness Razing, SETspace, Dalston, 2018.
 - 18 Today, we can note how the recent publication of Aaron Bastani's *Fully Automated Luxury Communism* (Verso, 2019) — a book which supposedly grew outwards from the titular phrase's online virality and existence as a meme that spread across the world — amongst various other examples, including the legacy of Mark's unfinished writings shows that communist dreams have never died and many have gone some way towards rehabilitating the promises of the movement within the popular imagination today — all of which demonstrates how communism's promise of a new life has not and perhaps never will be subsumed by its recurrent state-sponsored political deaths.
 - 19 Jean-Luc Nancy. "The Confronted Community", trans. Jason Kemp Winfree, in: *The Obsessions of Georges Bataille*, 20.
 - 20 See: Jacques Derrida, *Specters of Marx: The State of the Debt, the Work of Mourning, and the New International*, trans. Peggy Kamuf. New York and London: Routledge Classics, 2006.
-- 21 Mark Fisher. "Good for Nothing". *The Occupied Times*. 19 March 2014: <[https://theoccupiedtimes.org/?p=12841>](https://theoccupiedtimes.org/?p=12841)
+- 21 Mark Fisher. "Good for Nothing". *The Occupied Times*. 19 March 2014: ](https://theoccupiedtimes.org/?p=12841)
 
-- 22 Mark Fisher. "Abandon hope (summer is coming)". *k-punk*. May 11, 2015: <[http://k-punk.org/abandon-hope-summer-is-coming/>](http://k-punk.org/abandon-hope-summer-is-coming/)
+- 22 Mark Fisher. "Abandon hope (summer is coming)". *k-punk*. May 11, 2015: ](http://k-punk.org/abandon-hope-summer-is-coming/)
 - 23 Maurice Blanchot, "On One Approach to Communism" in *Friendship*, trans. Elizabeth Rottenberg. Stanford: Stanford University Press, 1997, 94.
 
 # **Into The Weird**
@@ -1885,13 +1890,13 @@ Dancers at Consciousness Razing, SETspace, Dalston, 2018.
 - 2 Ibid.
 - 3 Mark Fisher. "What is postcapitalism?" Lecture, *Postcapitalist Desire*. Goldsmiths, University of London. Monday 7th November 2016. Mark had previously written on these pathologies himself, and in far greater detail, in his 2013 book *Ghosts of My Life*, constructing a sprawling cultural history of our present dejection. In this earlier work Mark, like Gibson-Graham, describes this melancholic subject as "a depressive who believes he is realistic; someone who no longer has any expectaton that his desire for radical transformation could be achieved, but who doesn't recognise that he has given up." See: Mark Fisher, *Ghosts of My Life: Writings on Depression, Hauntology and Lost Futures*. Winchester: Zero Books, 2014, 23.
 - 4 Mark Fisher. *Capitalist Realism: Is There No Alternative?* Winchester: Zero Books, 2009, 17.
-- 5 Adam Howlett, "Renowned writer and k-punk blogger Mark Fisher from Felixstowe took own life after battle with depression", *Ipswich Star*, 18 July 2017: [<https://www.ipswichstar.co.uk/news/renowned](https://www.ipswichstar.co.uk/news/renowned-writer-and-blogger-from-felixstowe-took-his-own-life-after-battle-with-depression-1-5111679)[writer-and-blogger](https://www.ipswichstar.co.uk/news/renowned-writer-and-blogger-from-felixstowe-took-his-own-life-after-battle-with-depression-1-5111679)[from-felixstowe-took-his-own-life-after-battle](https://www.ipswichstar.co.uk/news/renowned-writer-and-blogger-from-felixstowe-took-his-own-life-after-battle-with-depression-1-5111679)[with-depression-1-5111679>](https://www.ipswichstar.co.uk/news/renowned-writer-and-blogger-from-felixstowe-took-his-own-life-after-battle-with-depression-1-5111679)
+- 5 Adam Howlett, "Renowned writer and k-punk blogger Mark Fisher from Felixstowe took own life after battle with depression", *Ipswich Star*, 18 July 2017: [](https://www.ipswichstar.co.uk/news/renowned-writer-and-blogger-from-felixstowe-took-his-own-life-after-battle-with-depression-1-5111679)
 - 6 Ibid.
 - 7 Ibid.
 
-- 8 Mark Fisher, "Why mental health is a political issue", *The Guardian*, 16 July 2012: <[https://www.theguardian.com/commentisfree/2012/](https://www.theguardian.com/commentisfree/2012/jul/16/mental-health-political-issue) [jul/16/mental-health-political-issue>](https://www.theguardian.com/commentisfree/2012/jul/16/mental-health-political-issue)
+- 8 Mark Fisher, "Why mental health is a political issue", *The Guardian*, 16 July 2012: ](https://www.theguardian.com/commentisfree/2012/jul/16/mental-health-political-issue)
 - 9 Ibid.
-- 10 Mark Fisher, "Good For Nothing", *The Occupied Times*, 19 March 2014: <[https://theoccupiedtimes.org/?p=12841>](https://theoccupiedtimes.org/?p=12841)
+- 10 Mark Fisher, "Good For Nothing", *The Occupied Times*, 19 March 2014: ](https://theoccupiedtimes.org/?p=12841)
 - 11 Ibid.
 - 12 Ibid.
 - 13 Ibid.
@@ -1911,13 +1916,13 @@ Dancers at Consciousness Razing, SETspace, Dalston, 2018.
 - 27 Ibid.
 - 28 Ibid.
 
-- 29 See: Rob Waugh, "What is 'Accelerationism', the belief followed by New Zealand terror attacker?", *Metro*, 18 March 2019: <[https://metro.co.uk/2019/03/18/accelerationism-belief-followed-new](https://metro.co.uk/2019/03/18/accelerationism-belief-followed-new-zealand-terror-attacker-8930673/)[zealand-terror-attacker-8930673/>](https://metro.co.uk/2019/03/18/accelerationism-belief-followed-new-zealand-terror-attacker-8930673/)
-- 30 Andy Beckett. "Accelerationism: how a fringe philosophy predicted the future we live in", *The Guardian*, 11 May 2017: <[https://www.theguardian.com/world/2017/may/](https://www.theguardian.com/world/2017/may/11/accelerationism-how-a-fringe-philosophy-predicted-the-future-we-live-in) [11/accelerationism-how-a-fringe-philosophy](https://www.theguardian.com/world/2017/may/11/accelerationism-how-a-fringe-philosophy-predicted-the-future-we-live-in)[predicted-the-future-we-live-in](https://www.theguardian.com/world/2017/may/11/accelerationism-how-a-fringe-philosophy-predicted-the-future-we-live-in)>
-- 31 Pete Wolfendale, "So, Accelerationism, What's All That About?", *Dialectical Insurgency*, 3 August 2014: <[https://deontologistics.tumblr.com/post/91953882443/so](https://deontologistics.tumblr.com/post/91953882443/so-accelerationism-whats-all-that-about)[accelerationism-whats-all-that-about>](https://deontologistics.tumblr.com/post/91953882443/so-accelerationism-whats-all-that-about)
-- 32 For an in-depth breakdown of Accelerationism's more recent offshoots and controversies, I would point the reader to a popular blogpost of my own on this topic. See: "A U/Acc Primer", *Xenogothic*, 4 March 2019: <<https://xenogothic.com/2019/03/04/a-u-acc-primer/>>
+- 29 See: Rob Waugh, "What is 'Accelerationism', the belief followed by New Zealand terror attacker?", *Metro*, 18 March 2019: ](https://metro.co.uk/2019/03/18/accelerationism-belief-followed-new-zealand-terror-attacker-8930673/)
+- 30 Andy Beckett. "Accelerationism: how a fringe philosophy predicted the future we live in", *The Guardian*, 11 May 2017: 
+- 31 Pete Wolfendale, "So, Accelerationism, What's All That About?", *Dialectical Insurgency*, 3 August 2014: ](https://deontologistics.tumblr.com/post/91953882443/so-accelerationism-whats-all-that-about)
+- 32 For an in-depth breakdown of Accelerationism's more recent offshoots and controversies, I would point the reader to a popular blogpost of my own on this topic. See: "A U/Acc Primer", *Xenogothic*, 4 March 2019: >
 - 33 Mark Fisher. "Postcapitalist Desire" in *What Are We Fighting For: A Radical Collective Manifesto*, eds. Federico Campagna and Emanuele Campiglio. London: Pluto Press, 2012, 18.
-- 34 See: Roisin Kiberd, "The Rise and Fall of 'Boring Dystopia', the Anti-Facebook Facebook Group", *Vice*, 22 December 2015: <[https://www.vice.com/en\\_us/article/aekd5j/the-rise-and-fall-of](https://www.vice.com/en_us/article/aekd5j/the-rise-and-fall-of-boring-dystopia-the-anti-facebook-facebook-group)[boring](https://www.vice.com/en_us/article/aekd5j/the-rise-and-fall-of-boring-dystopia-the-anti-facebook-facebook-group)[dystopia-the-anti-facebook-facebook-group](https://www.vice.com/en_us/article/aekd5j/the-rise-and-fall-of-boring-dystopia-the-anti-facebook-facebook-group)>
-- 35 Simon O'Sullivan. "The Missing Subject of Accelerationism". *Metamute*. 12 September 2014: <[http://www.metamute.org/editorial/articles/missing-subject](http://www.metamute.org/editorial/articles/missing-subject-accelerationism)[accelerationism](http://www.metamute.org/editorial/articles/missing-subject-accelerationism)>
+- 34 See: Roisin Kiberd, "The Rise and Fall of 'Boring Dystopia', the Anti-Facebook Facebook Group", *Vice*, 22 December 2015: 
+- 35 Simon O'Sullivan. "The Missing Subject of Accelerationism". *Metamute*. 12 September 2014: 
 - 36 Ibid.
 
 - 37 Ibid.
@@ -1946,9 +1951,9 @@ Dancers at Consciousness Razing, SETspace, Dalston, 2018.
 - 58 Herbert Marcuse. *One-Dimensional Man*. London: Routledge Classics, 1991, 66.
 - 59 Marcuse. *An Essay on Liberation*, 8.
 - 60 Ibid., 9.
-- 61 Mark Fisher. "Unpicking the codes of Ghettoville". *Dazed Digital*. 28 January 2014: <[http://www.dazeddigital.com/music/article/18667/1/the-codes-of](http://www.dazeddigital.com/music/article/18667/1/the-codes-of-ghettoville)[ghettoville](http://www.dazeddigital.com/music/article/18667/1/the-codes-of-ghettoville)>
-- 62 Mark Fisher, "Digital Bauhaus Summit 2016: Designer Communism". *Egress*. 6 June 2016: <[https://egressac.wordpress.com/2016/06/06/digital-bauhaus](https://egressac.wordpress.com/2016/06/06/digital-bauhaus-summit-2016-designer-communism/)[summit-2016-designer-communism/>](https://egressac.wordpress.com/2016/06/06/digital-bauhaus-summit-2016-designer-communism/)
-- 63 "Red Pill". *Know Your Meme*. 10 May 2017: <[http://knowyourmeme.com/memes/red-pill>](http://knowyourmeme.com/memes/red-pill)
+- 61 Mark Fisher. "Unpicking the codes of Ghettoville". *Dazed Digital*. 28 January 2014: 
+- 62 Mark Fisher, "Digital Bauhaus Summit 2016: Designer Communism". *Egress*. 6 June 2016: ](https://egressac.wordpress.com/2016/06/06/digital-bauhaus-summit-2016-designer-communism/)
+- 63 "Red Pill". *Know Your Meme*. 10 May 2017: ](http://knowyourmeme.com/memes/red-pill)
 - 64 Ray Brassier. "Prometheanism and its Critiques" in *#Accelerate*, 470.
 - 65 Ibid., 469-472.
 - 66 Ibid., 478.
@@ -1956,15 +1961,13 @@ Dancers at Consciousness Razing, SETspace, Dalston, 2018.
 - 68 Ibid., 479.
 - 69 Ibid.
 
-70 Mark Fisher. "The End of Emo-Politics". *Manchester Spring*. 23 February 2016: <[http://www.manchesterspring.org.uk/2016/02/23/the](http://www.manchesterspring.org.uk/2016/02/23/the-end-of-emo-politics/)[end-of-emo-politics/](http://www.manchesterspring.org.uk/2016/02/23/the-end-of-emo-politics/)> Link no longer active. A PDF version of this essay was made available by Natasha Eves in 2017 and can be viewed here: [<https://kexchange.wordpress.com/2017/03/09/natasha-eves](https://kexchange.wordpress.com/2017/03/09/natasha-eves-fresh-new-anxieties/)[fresh-](https://kexchange.wordpress.com/2017/03/09/natasha-eves-fresh-new-anxieties/)
-
-[new-anxieties/](https://kexchange.wordpress.com/2017/03/09/natasha-eves-fresh-new-anxieties/)>
+70 Mark Fisher. "The End of Emo-Politics". *Manchester Spring*. 23 February 2016:  Link no longer active. A PDF version of this essay was made available by Natasha Eves in 2017 and can be viewed here: [
 
 - 71 Ibid.
 - 72 Ibid.
 - 73 Ibid.
-- 74 "The Grenfell Tower Inferno and Anarchism." *London Anarchist Federation*. 27 June 2017: <[https://aflondon.wordpress.com/2017/06/27/the-grenfell-tower](https://aflondon.wordpress.com/2017/06/27/the-grenfell-tower-inferno-and-anarchism/)[inferno-and-anarchism/>](https://aflondon.wordpress.com/2017/06/27/the-grenfell-tower-inferno-and-anarchism/)
-- 75 Friedrich Engels, "Condition of the Working Class in England, by Engels, 1845". *Marxists Internet Archive:* <[https://www.marxists.org/archive/marx/works/1845/](https://www.marxists.org/archive/marx/works/1845/condition-working-class/ch07.htm) [condition-working-class/ch07.htm>](https://www.marxists.org/archive/marx/works/1845/condition-working-class/ch07.htm)
+- 74 "The Grenfell Tower Inferno and Anarchism." *London Anarchist Federation*. 27 June 2017: ](https://aflondon.wordpress.com/2017/06/27/the-grenfell-tower-inferno-and-anarchism/)
+- 75 Friedrich Engels, "Condition of the Working Class in England, by Engels, 1845". *Marxists Internet Archive:* ](https://www.marxists.org/archive/marx/works/1845/condition-working-class/ch07.htm)
 - 76 Mark Fisher. "Good for Nothing".
 - 77 See: Rob Nixon. *Slow Violence and the Environmentalism of the Poor*. Cambridge: Harvard University Press, 2011.
 - 78 Mark Fisher, *Capitalist Realism*, 37.
@@ -1978,7 +1981,7 @@ Dancers at Consciousness Razing, SETspace, Dalston, 2018.
 - 85 Judith Butler. *The Psychic Life of Power: Theories in Subjection*. Stanford: Stanford University Press, 1997, 167-68.
 - 86 Wendy Brown. "Resisting Left Melancholia", 20. It is from Walter Benjamin that the phrase "Left melancholia" originates.
 - 87 Robin Mackay and Armen Avanessian, "Introduction" in *#Accelerate*, 4.
-- 88 Alan Pratt. "Nihilism", *Internet Encyclopedia of Philosophy,* <[http://www.iep.utm.edu/nihilism/>](http://www.iep.utm.edu/nihilism/)
+- 88 Alan Pratt. "Nihilism", *Internet Encyclopedia of Philosophy,* ](http://www.iep.utm.edu/nihilism/)
 - 89 Ray Brassier. *Nihil Unbound: Enlightenment and Extinction*. Houndmills: Palgrave Macmillan, 2007, xi.
 - 90 Jean Baudrillard. *Simulacra and Simulation*, trans. Sheila Faria Glaser. Ann Arbor: The University of Michigan Press, 1994, 159.
 - 91 Ibid., 159-160.
@@ -2003,7 +2006,7 @@ Dancers at Consciousness Razing, SETspace, Dalston, 2018.
 - 5 Ibid., 17.
 - 6 Ibid., 81.
 - 7 Ibid.
-- 8 Anna Greenspan. *Capitalism's Transcendental Time Machine*. PhD Thesis. University of Warwick. 2000. See: <[http://wrap.warwick.ac.uk/4520/>](http://wrap.warwick.ac.uk/4520/)
+- 8 Anna Greenspan. *Capitalism's Transcendental Time Machine*. PhD Thesis. University of Warwick. 2000. See: ](http://wrap.warwick.ac.uk/4520/)
 - 9 Jacques Lacan, *The Ethics of Psychoanalysis — The Seminars of Jacques Lacan: Book VII*, trans. Dennis Porter. London and New York: Routledge, 2008, 146. It is worth noting here, as an aside, that, for Lacan, knowledge of the Real demands "moral action". He asks: What is it for the psychoanalyst to probe, manipulate and analyse another person's unconscious desires and drives? Even if, as one would hope, this is done for the patient's own good? This is an implication that will become more relevant as we continue our discussion of the outside and its relevance to the topic of "community".
 - 10 Mark Fisher, *Capitalist Realism*, 18.
 - 11 Eugene Thacker, *In the Dust of This Planet.* Winchester: Zero Books, 2011, 2.
@@ -2013,27 +2016,27 @@ Dancers at Consciousness Razing, SETspace, Dalston, 2018.
 - 15 Ibid.
 - 16 Ibid.
 
-- 17 See: Lucy Wallis, "Illustrating Grief-Space", *Abyss Diving*, 5 January 2019: <[https://abyssdiving.wordpress.com/2019/01/05/](https://abyssdiving.wordpress.com/2019/01/05/illustrating-grief-space/) [illustrating-grief-space/>](https://abyssdiving.wordpress.com/2019/01/05/illustrating-grief-space/) Here Wallis writes about "grief-space", a term she coined — indebted to the experience of Mark's death and his book *The Weird and the Eerie* — to describe "the space, or hole, that is created by absences within a place. It is the notion that something, or someone, might be present through the vacuum created by their absence."
+- 17 See: Lucy Wallis, "Illustrating Grief-Space", *Abyss Diving*, 5 January 2019: ](https://abyssdiving.wordpress.com/2019/01/05/illustrating-grief-space/) Here Wallis writes about "grief-space", a term she coined — indebted to the experience of Mark's death and his book *The Weird and the Eerie* — to describe "the space, or hole, that is created by absences within a place. It is the notion that something, or someone, might be present through the vacuum created by their absence."
 - 18 Herbert Marcuse, *Eros and Civilisation*, 93.
 - 19 Mark's reappraisal of the 1970s in these terms is not unprecedented and he publicly cited John Medhurst's *That Option No Longer Exists: Britain 1974-76* (Winchester: Zero Books, 2014) and Jefferson Cowie's *Stayin'Alive: The 1970s and the Last Days of the Working Class* (New York: The New Press, 2012) as major influences on his most recent Acid Communist thought — not to mention the philosophical texts by Deleuze & Guattari, Lyotard, Baudrillard, Marcuse, and Irigaray that emerged during that same period in America and Europe following the tandem worker and student uprising referred to as the events of May '68. For an in-depth overview of this time, published to coincide with the 50th anniversary of the May '68 movement, see: Richard Viven, *The Long '68: Radical Protest and its Enemies*. London: Penguin Books, 2018.
 - 20 Mark Fisher. "Acid Communism (Unfinished Introduction)".
-- 21 That now-familiar new addition to the Fisher lexicon is explored by Mark, as usual, through its pop-cultural instantiations rather than any academic exposition. He writes, for instance, about how "Lovecraft's stories are full of thresholds between worlds." He says that "often the egress will be a book", such as the "dreaded Necronomicon" — a magical grimoire that would make multiple appearances throughout Lovecraft's tales. Other times the egress is "literally a portal" — a door, a gate, a hole — making "the notion of the between … crucial to the weird." [See: Mark Fisher, *The Weird and the Eerie*, 28.] Although his use of the word "egress" is not expanded upon beyond this passage, it is striking in its unfamiliarity and remains in the reader's imagination as a name given to a particular mode of paraontological experience. It is a word that is synonymous with "exit", albeit more commonly used in the 18<sup>th</sup> and 19<sup>th</sup> centuries in contexts both nautical and astronomical. Its appearance in a book from 2016 makes the word archaic whilst also exemplifying a twinned relationship between oceanic depths and the vast cosmos, making it an appropriate term to invoke in the orbit of the works of H. P. Lovecraft.
+- 21 That now-familiar new addition to the Fisher lexicon is explored by Mark, as usual, through its pop-cultural instantiations rather than any academic exposition. He writes, for instance, about how "Lovecraft's stories are full of thresholds between worlds." He says that "often the egress will be a book", such as the "dreaded Necronomicon" — a magical grimoire that would make multiple appearances throughout Lovecraft's tales. Other times the egress is "literally a portal" — a door, a gate, a hole — making "the notion of the between … crucial to the weird." [See: Mark Fisher, *The Weird and the Eerie*, 28.] Although his use of the word "egress" is not expanded upon beyond this passage, it is striking in its unfamiliarity and remains in the reader's imagination as a name given to a particular mode of paraontological experience. It is a word that is synonymous with "exit", albeit more commonly used in the 18th and 19th centuries in contexts both nautical and astronomical. Its appearance in a book from 2016 makes the word archaic whilst also exemplifying a twinned relationship between oceanic depths and the vast cosmos, making it an appropriate term to invoke in the orbit of the works of H. P. Lovecraft.
 
-- See: Simon Reynolds, "Renegade Academia: The Cybernetic Culture Research Unit", *Energy Flash*, 3 November 2009: <a href="http://energyflashbysimonreynolds.blogspot.com/2009/11/renegade-academia-cybernetic-culture.html">http://energyflashbysimonreynolds.blogspot.com/2009/11/renegade-academia-cybernetic-culture.html</a>>
+- See: Simon Reynolds, "Renegade Academia: The Cybernetic Culture Research Unit", *Energy Flash*, 3 November 2009: http://energyflashbysimonreynolds.blogspot.com/2009/11/renegade-academia-cybernetic-culture.html>
 - See: Nick Land, *Fanged Noumena: Collected Writings*, 1987-2007.
 
-Falmouth and New York: Urbanomic and Sequence Press, 2011. This volume of collected essays does much to fill in the blanks and includes various allusions to Land's drug-addled mental collapse. See also: Robin Mackay, "Nick Land — An Experiment in Inhumanism", *Divus*, 27 February 2013: <a href="http://divus.cc/london/en/article/nick-land-ein-experiment-im-inhumanismus">http://divus.cc/london/en/article/nick-land-ein-experiment-im-inhumanismus</a> Mackay's essay gives an in-depth account of Land's last days as a lecturer at Warwick University and further contextualizes the abyss into which he dove next.
+Falmouth and New York: Urbanomic and Sequence Press, 2011. This volume of collected essays does much to fill in the blanks and includes various allusions to Land's drug-addled mental collapse. See also: Robin Mackay, "Nick Land — An Experiment in Inhumanism", *Divus*, 27 February 2013: http://divus.cc/london/en/article/nick-land-ein-experiment-im-inhumanismus Mackay's essay gives an in-depth account of Land's last days as a lecturer at Warwick University and further contextualizes the abyss into which he dove next.
 - See: Nick Land, "The Dark Enlightenment":
 
-<a href="http://www.thedarkenlightenment.com/the-dark-enlightenment-by-nick-land/">http://www.thedarkenlightenment.com/the-dark-enlightenment-by-nick-land/</a> Wikipedia offers the most succinct definition of NRx thought, taking Land's essay as its foundation. It describes Neoreaction as "an anti-democratic and reactionary movement [that] broadly rejects egalitarianism and the view that history shows inevitable progression towards greater liberty and enlightenment [and] favours a return to older societal constructs and forms of government, including support for monarchism or other forms of strong, centralised leadership such as a "neocameralist CEO" of a joint-stock republic, coupled with a rightlibertarian or otherwise conservative approach to economics." See: "The Dark Enlightenment", *Wikipedia*:
+http://www.thedarkenlightenment.com/the-dark-enlightenment-by-nick-land/ Wikipedia offers the most succinct definition of NRx thought, taking Land's essay as its foundation. It describes Neoreaction as "an anti-democratic and reactionary movement [that] broadly rejects egalitarianism and the view that history shows inevitable progression towards greater liberty and enlightenment [and] favours a return to older societal constructs and forms of government, including support for monarchism or other forms of strong, centralised leadership such as a "neocameralist CEO" of a joint-stock republic, coupled with a rightlibertarian or otherwise conservative approach to economics." See: "The Dark Enlightenment", *Wikipedia*:
 
-<[https://en.wikipedia.org/wiki/Dark\\_Enlightenment>](https://en.wikipedia.org/wiki/Dark_Enlightenment)
+](https://en.wikipedia.org/wiki/Dark_Enlightenment)
 
 - 25 Nick Land, *The Dark Enlightenment*
-- 26 See: Albert O. Hirschman, *Exit, Voice and Loyalty: Responses to Decline in Firms, Organizations, and States*. Cambridge: Harvard University Press, 1972; Mencius Moldbug, "Patchwork: a positive vision (part 1)", *Unqualified Reservations*, November 13th, 2008: <[http://unqualified-reservations.blogspot.co.uk/2008/11/patchwork](http://unqualified-reservations.blogspot.co.uk/2008/11/patchwork-positive-vision-part-1.html)[positive-vision-part-1.html>](http://unqualified-reservations.blogspot.co.uk/2008/11/patchwork-positive-vision-part-1.html)
-- 27 Nick Land, "Premises of Neoreaction". *Xenosystems*, February 3rd, 2014: <<http://www.xenosystems.net/premises-of-neoreaction/>>
+- 26 See: Albert O. Hirschman, *Exit, Voice and Loyalty: Responses to Decline in Firms, Organizations, and States*. Cambridge: Harvard University Press, 1972; Mencius Moldbug, "Patchwork: a positive vision (part 1)", *Unqualified Reservations*, November 13th, 2008: ](http://unqualified-reservations.blogspot.co.uk/2008/11/patchwork-positive-vision-part-1.html)
+- 27 Nick Land, "Premises of Neoreaction". *Xenosystems*, February 3rd, 2014: >
 - 28 Although Mark would splinter off in an entirely opposite direction, we can nonetheless see how the internal logic of this "neoreactionary thought" begins from the same problematics he described through his earlier hauntological thinking.
-- 29 Nick Land, "Outsideness". *Xenosystems*, 1 August 2014: <<http://www.xenosystems.net/outsideness-2/>>
+- 29 Nick Land, "Outsideness". *Xenosystems*, 1 August 2014: >
 - 30 Mark Fisher, "Postcapitalist Desire", 16.
 - 31 Ibid.
 - 32 Ibid.
@@ -2042,11 +2045,11 @@ Falmouth and New York: Urbanomic and Sequence Press, 2011. This volume of collec
 - 35 Ibid., 625.
 
 - 36 Mark Fisher, "Time-Wars: Towards an Alternative for the Neo-Capitalist Era", in *k-punk*, 518-519.
-- 37 Nick Land, "Capital Escapes". *Xenosystems*, November 21st, 2014: <<http://www.xenosystems.net/capital-escapes>> Original emphases removed.
+- 37 Nick Land, "Capital Escapes". *Xenosystems*, November 21st, 2014: > Original emphases removed.
 - 38 Mark Fisher. "Acid Communism (Unfinished Introduction)".
 - 39 Ibid.
 - 40 Ibid.
-- 41 In 2005, Mark would dedicate a *k-punk* blogpost to Edelman's "impossible polemic". He writes, with particular relevance to our discussions: "In Edelman's analysis, the queer becomes the name for the death drive itself, which as we know from Freud, Lacan and Žižek is not the desire for death, quiescence or calm but, very much to the contrary, that which disrupts all efforts to produce a self-sufficient wholeness. It is what brings death to all systems that tend towards the settled, the unliving force which introduces the Outside into all interiorities." See: "We Aren't the World", *k-punk*, 26 February 2005: <[http://k-punk.abstractdynamics.org/archives/005071.html>](http://k-punk.abstractdynamics.org/archives/005071.html)
+- 41 In 2005, Mark would dedicate a *k-punk* blogpost to Edelman's "impossible polemic". He writes, with particular relevance to our discussions: "In Edelman's analysis, the queer becomes the name for the death drive itself, which as we know from Freud, Lacan and Žižek is not the desire for death, quiescence or calm but, very much to the contrary, that which disrupts all efforts to produce a self-sufficient wholeness. It is what brings death to all systems that tend towards the settled, the unliving force which introduces the Outside into all interiorities." See: "We Aren't the World", *k-punk*, 26 February 2005: ](http://k-punk.abstractdynamics.org/archives/005071.html)
 - 42 Denise Ferreira da Silva. "Towards a Black Feminist Poethics: The Quest(ion) of Blackness Towards the End of the World", *The Black Scholar*, 44, No. 2, States of Black Studies (2014), 81-97.
 - 43 H. P. Lovecraft, "The Call of Cthulhu", 152-153.
 - 44 John Cussans. *Undead Uprising*. London: Strange Attractor Press, 2017, ii.
@@ -2057,13 +2060,13 @@ Falmouth and New York: Urbanomic and Sequence Press, 2011. This volume of collec
 - 49 Ibid., 77.
 - 50 H. P. Lovecraft. "The Call of Cthulhu", 153.
 
-- 51 Larissa Romensky, Fiona Parker and Jo Printz. "No picnic at Hanging Rock: Campaign to recognise Aboriginal past rather than 'white myth'". *ABC News Australia*. 17 January 2017: <[http://www.abc.net.au/news/2017-01-17/campaign-to-recognise](http://www.abc.net.au/news/2017-01-17/campaign-to-recognise-indigenous-history-hanging-rock/8187942)[indigenous-history-hanging-rock/8187942>](http://www.abc.net.au/news/2017-01-17/campaign-to-recognise-indigenous-history-hanging-rock/8187942)
+- 51 Larissa Romensky, Fiona Parker and Jo Printz. "No picnic at Hanging Rock: Campaign to recognise Aboriginal past rather than 'white myth'". *ABC News Australia*. 17 January 2017: ](http://www.abc.net.au/news/2017-01-17/campaign-to-recognise-indigenous-history-hanging-rock/8187942)
 - 52 Ibid.
 - 53 Georges Bataille, *Literature & Evil*, trans. Alastair Hamilton. London: Penguin Classics, 2012, 3.
 - 54 Gavin Butt, Kodwo Eshun and Mark Fisher (eds.) *Post-Punk Then and Now*. London: Repeater Books, 2016, 10-11.
 - 55 Ibid.
 - 56 Ibid.
-- 57 Mark Fisher, "Nihil Rebound: Joy Division." *k-punk*, January 9th, 2005: <[http://k-punk.abstractdynamics.org/archives/004725.html>](http://k-punk.abstractdynamics.org/archives/004725.html)
+- 57 Mark Fisher, "Nihil Rebound: Joy Division." *k-punk*, January 9th, 2005: ](http://k-punk.abstractdynamics.org/archives/004725.html)
 - 58 Ibid. Here Mark is quoting from Slavoj Žižek, *The Plague of Fantasies*. London: Verso Books, 2009.
 - 59 Maurice Blanchot, *The Unavowable Community*, 9.
 - 60 Jean-Luc Nancy, "The Confronted Community", 25.
@@ -2071,7 +2074,7 @@ Falmouth and New York: Urbanomic and Sequence Press, 2011. This volume of collec
 - 62 Ibid.
 - 63 Ibid., 28.
 - 64 Alain Badiou, *Our Wound Is Not So Recent: Thinking the Paris Killings of 13 November*, trans. Robin Mackay. Cambridge: Polity Press, 2016.
-- 65 Mark Fisher, "Cybergothic vs Steampunk", *Urbanomic*, 2016: <[https://www.urbanomic.com/document/cybergothic-vs-steampunk](https://www.urbanomic.com/document/cybergothic-vs-steampunk-response-to-badiou/)[response-to-badiou/>](https://www.urbanomic.com/document/cybergothic-vs-steampunk-response-to-badiou/); Nick Land, "Sore Losers", *Urbanomic*, 2016: <[https://www.urbanomic.com/document/sore-losers/>](https://www.urbanomic.com/document/sore-losers/)
+- 65 Mark Fisher, "Cybergothic vs Steampunk", *Urbanomic*, 2016: ](https://www.urbanomic.com/document/cybergothic-vs-steampunk-response-to-badiou/); Nick Land, "Sore Losers", *Urbanomic*, 2016: ](https://www.urbanomic.com/document/sore-losers/)
 - 66 Mark Fisher, "Cybergothic vs Steampunk".
 - 67 Ibid.
 
@@ -2080,12 +2083,12 @@ Falmouth and New York: Urbanomic and Sequence Press, 2011. This volume of collec
 - 70 Ibid.
 - 71 Ibid.
 - 72 Mark Fisher, "Cybergothic vs Steampunk".
-- 73 Nick Land, "Quit", *Xenosystems*, February 28th, 2013: <[http://www.xenosystems.net/quit/>](http://www.xenosystems.net/quit/)
+- 73 Nick Land, "Quit", *Xenosystems*, February 28th, 2013: ](http://www.xenosystems.net/quit/)
 
 # **Mental Health Asteroid**
 
 - 1 Mark Fisher, *The Weird and the Eerie*, 9.
-- 2 Laurie Penny. "Against Bargaining". *The Baffler*. November 18th 2016: <[https://thebaffler.com/war-of-nerves/against-bargaining](https://thebaffler.com/war-of-nerves/against-bargaining-penny)[penny>](https://thebaffler.com/war-of-nerves/against-bargaining-penny)
+- 2 Laurie Penny. "Against Bargaining". *The Baffler*. November 18th 2016: ](https://thebaffler.com/war-of-nerves/against-bargaining-penny)
 - 3 Ibid.
 - 4 Maurice Blanchot. *The Writing of the Disaster*, trans. Ann Smock. London: University of Nebraska Press, 1995, 1.
 - 5 Eugene Thacker. *In the Dust of This Planet*, 2.
@@ -2095,11 +2098,11 @@ Falmouth and New York: Urbanomic and Sequence Press, 2011. This volume of collec
 - 9 Ibid.
 - 10 Donna Haraway. *Staying with the Trouble: Making Kin in the Cthulhucene*. Durham: Duke University Press, 2016, 39.
 - 11 Laurie Penny. "Against Bargaining".
-- 12 Melanie Newton, "Y2paniK", *Digital Hyperstition*: <<http://www.ccru.net/digithype/Y2Panik.htm>>
+- 12 Melanie Newton, "Y2paniK", *Digital Hyperstition*: >
 - 13 Mark Fisher, *Capitalist Realism*, 1.
-- 14 "'People feel safe when this kind of measure is taken,' Rim-Sarah Alouane, a doctoral candidate and researcher in public law and civil liberties at the University Toulouse-Capitole, told me. 'But by institutionalizing the state of emergency, not only are you putting civil liberties at stake, you are not addressing the root of terrorism at all. It gives you the illusion of security, but that's it.'" Yasmeen Serhan. "Will France's State of Emergency Become Permanent?" *The Atlantic*. 11 July 2017: [<https://www.theatlantic.com/international/archive/](https://www.theatlantic.com/international/archive/2017/07/will-frances-state-of-emergency-become-permanent/532848/) [2017/07/will-frances-state-of-emergency-become](https://www.theatlantic.com/international/archive/2017/07/will-frances-state-of-emergency-become-permanent/532848/) [-permanent/532848/>](https://www.theatlantic.com/international/archive/2017/07/will-frances-state-of-emergency-become-permanent/532848/)
+- 14 "'People feel safe when this kind of measure is taken,' Rim-Sarah Alouane, a doctoral candidate and researcher in public law and civil liberties at the University Toulouse-Capitole, told me. 'But by institutionalizing the state of emergency, not only are you putting civil liberties at stake, you are not addressing the root of terrorism at all. It gives you the illusion of security, but that's it.'" Yasmeen Serhan. "Will France's State of Emergency Become Permanent?" *The Atlantic*. 11 July 2017: [](https://www.theatlantic.com/international/archive/2017/07/will-frances-state-of-emergency-become-permanent/532848/)
 
-- 15 Mark Fisher. "Megalithic Astropunk." *Hyperstition*, 6 February 2005: <[http://hyperstition.abstractdynamics.org/](http://hyperstition.abstractdynamics.org/archives/004932.html) [archives/004932.html>](http://hyperstition.abstractdynamics.org/archives/004932.html)
+- 15 Mark Fisher. "Megalithic Astropunk." *Hyperstition*, 6 February 2005: ](http://hyperstition.abstractdynamics.org/archives/004932.html)
 - 16 John Cussans. *Undead Uprising*, 252.
 - 17 Mark Fisher. *The Weird and the Eerie*, 82.
 - 18 Freud writes: "If this were the case, then the vast majority of our psychic processes would need to be accompanied by pleasure or lead to pleasure, whereas all common experience contradicts such a conclusion. The true situation, therefore, can only be that the pleasure principle exists as a strong *tendency* within the psyche, but is opposed by certain other forces or circumstances, so that the final outcome cannot possibly always accord with the said tendency in favour of pleasure." Sigmund Freud. "Beyond the Pleasure Principle" in *Beyond the Pleasure Principle and Other Writings*, trans. John Reddick. London: Penguin Books, 2003. 47.
@@ -2111,17 +2114,17 @@ Falmouth and New York: Urbanomic and Sequence Press, 2011. This volume of collec
 - 24 Ibid.
 
 - 25 Sherry Turkle. *Life on the Screen: Identity in the Age of the Internet*. London: Phoenix, 1996, 83.
-- 26 Alyssa Rosenberg. "The ridiculous ending of 'The OA' betrays the series' best idea." *The Washington Post*. 21 December 2016: <[https://www.washingtonpost.com/news/act-four/wp/2016/12/21/the](https://www.washingtonpost.com/news/act-four/wp/2016/12/21/the-ridiculous-ending-of-the-oa-betrays-the-series-best-idea/)[ridiculous-ending](https://www.washingtonpost.com/news/act-four/wp/2016/12/21/the-ridiculous-ending-of-the-oa-betrays-the-series-best-idea/)[of-the-oa-betrays-the-series-best-idea/](https://www.washingtonpost.com/news/act-four/wp/2016/12/21/the-ridiculous-ending-of-the-oa-betrays-the-series-best-idea/)>
+- 26 Alyssa Rosenberg. "The ridiculous ending of 'The OA' betrays the series' best idea." *The Washington Post*. 21 December 2016: 
 - 27 Ibid.
 - 28 Ibid.
 - 29 Ibid.
-- 30 Alessandra Stanley. "Oh! Mr. Darcy… Yes, I Said Yes!", *The New York Times*, 20 November 2005: <[https://www.nytimes.com/2005/11/20/weekinreview/oh-mr-darcy](https://www.nytimes.com/2005/11/20/weekinreview/oh-mr-darcy-yes-i-said-yes.html)[yes-i-said-yes.html](https://www.nytimes.com/2005/11/20/weekinreview/oh-mr-darcy-yes-i-said-yes.html)>
+- 30 Alessandra Stanley. "Oh! Mr. Darcy… Yes, I Said Yes!", *The New York Times*, 20 November 2005: 
 - 31 Alyssa Rosenberg. "The ridiculous ending of 'The OA' betrays the series' best idea."
 - 32 H. P. Lovecraft, *Supernatural Horror in Literature*. New York: Dover Publications, Inc., 1973, 12.
 
 # **Unconsciousness Raising**
 
-- 1 Darryl Pinckney. "In Ferguson." *The New York Review of Books*. 8th January 2015: <[https://www.nybooks.com/articles/2015/01/08/in](https://www.nybooks.com/articles/2015/01/08/in-ferguson/)[ferguson/>](https://www.nybooks.com/articles/2015/01/08/in-ferguson/)
+- 1 Darryl Pinckney. "In Ferguson." *The New York Review of Books*. 8th January 2015: ](https://www.nybooks.com/articles/2015/01/08/in-ferguson/)
 - 2 Ibid.
 - 3 Georges Bataille, *Blue of Noon*, trans. Harry Mathews. London: Penguin Classics, 2012, 40.
 - 4 Ibid., 42.
@@ -2137,9 +2140,9 @@ Falmouth and New York: Urbanomic and Sequence Press, 2011. This volume of collec
 - 13 Ibid., 105.
 - 14 Mark Fisher, "How to Kill a Zombie: Strategising the End of Neoliberalism", in *k-punk*, 539.
 - 15 Even more accurately, we might point to the 2018 video game *Red Dead Redemption 2* — likewise developed by Rockstar Games: the makers of *Grand Theft Auto* — as being more obviously analogous to the Wild West experience on offer.
-- 16 Mark Fisher, "Sympathy for the androids: the twisted morality of *Westworld*", *The New Humanist*, 30 November 2016: <[https://newhumanist.org.uk/articles/5115/sympathy-for-the-androids](https://newhumanist.org.uk/articles/5115/sympathy-for-the-androids-the-twisted-morality-of-westworld)[the-twisted-morality-of-westworld](https://newhumanist.org.uk/articles/5115/sympathy-for-the-androids-the-twisted-morality-of-westworld)>
+- 16 Mark Fisher, "Sympathy for the androids: the twisted morality of *Westworld*", *The New Humanist*, 30 November 2016: 
 - 17 Ibid.
-- 18 Mark Fisher, "Abandon hope (summer is coming)", *k-punk*, 11 May 2015: <[http://k-punk.org/abandon-hope-summer-is-coming/>](http://k-punk.org/abandon-hope-summer-is-coming/)
+- 18 Mark Fisher, "Abandon hope (summer is coming)", *k-punk*, 11 May 2015: ](http://k-punk.org/abandon-hope-summer-is-coming/)
 - 19 Ibid.
 - 20 Wendy Brown, "Consciousness Razing", *The Nation*, 8-15 January 1990, 61.
 - 21 Catharine Mac Kinnon, *Toward a Feminist Theory of the State*. Cambridge: Harvard University Press, 1991, 50.
@@ -2152,7 +2155,7 @@ Falmouth and New York: Urbanomic and Sequence Press, 2011. This volume of collec
 - 27 In the show's third season, for example, it is interesting that, during a resistance operation to smuggle children out of Gilead and into Canada, some of the children do not want to or do not understand why they should leave.
 - 28 Mark Fisher, "Sympathy for the androids: the twisted morality of *Westworld*".
 
-- 29 Joanna Radin, "Where Nothing Can Possible Go 'Worng'", *The New Inquiry*, 12 December 2016: <[https://thenewinquiry.com/where](https://thenewinquiry.com/where-nothing-can-possibly-go-worng/)[nothing-can-possibly-go-worng/>](https://thenewinquiry.com/where-nothing-can-possibly-go-worng/)
+- 29 Joanna Radin, "Where Nothing Can Possible Go 'Worng'", *The New Inquiry*, 12 December 2016: ](https://thenewinquiry.com/where-nothing-can-possibly-go-worng/)
 - 30 The introduction of White Hat and Black Hat characters into *Westworld* provide us with an interesting and twisted *double entendre*, with these phrases originally coming from Hollywood's classic Westerns and later being used to refer to computer hackers and those providing a consultancy service in areas of technological security who may reveal flaws in systems for the good of the system itself (White Hat) or for their own benefit (Black Hat). *Westworld* folds these two conceptualisations back on top of each other, with cowboy and hacker becoming one and the same.
 - 31 Joanna Radin, "Where Nothing Can Possible Go 'Worng'".
 - 32 Ibid.
@@ -2162,7 +2165,7 @@ Falmouth and New York: Urbanomic and Sequence Press, 2011. This volume of collec
 - 36 Gilles Deleuze and Félix Guattari, *A Thousand Plateaus*, 20.
 - 37 Ibid., 603 fn 18.
 - 38 Ibid., 20.
-- 39 For more on this topic, and for its relevance to contemporary philosophy and the legacy of the Cybernetic Culture Research Unit, I would recommend the writings of Robin Mackay, particularly those on the topic of "geotrauma". See, for example: Robin Mackay, "A Brief History of Geotrauma" in *Leper Creativity: Cyclonopedia Symposium*, eds. London: Punctum Books, 2012. Also available at: <[http://readthis.wtf/writing/a-brief-history-of-geotrauma/>](http://readthis.wtf/writing/a-brief-history-of-geotrauma/)
+- 39 For more on this topic, and for its relevance to contemporary philosophy and the legacy of the Cybernetic Culture Research Unit, I would recommend the writings of Robin Mackay, particularly those on the topic of "geotrauma". See, for example: Robin Mackay, "A Brief History of Geotrauma" in *Leper Creativity: Cyclonopedia Symposium*, eds. London: Punctum Books, 2012. Also available at: ](http://readthis.wtf/writing/a-brief-history-of-geotrauma/)
 
 - 40 Claude Lévi-Strauss, *Tristes Tropiques*, trans. John Russel. New York: Criterion Books, 1961, 65.
 - 41 Sigmund Freud, *New Introductory Lectures on Psychoanalysis*, Volume 2 of the Pelican Freud Library, trans. James Strachey. London: Penguin Books, 1973, 105.
@@ -2185,8 +2188,8 @@ Falmouth and New York: Urbanomic and Sequence Press, 2011. This volume of collec
 - 57 Ibid., 169.
 - 58 White Anglo-Saxon Protestant.
 - 59 Fiedler, *The Return of the Vanishing American*, 169.
-- 60 Zack Handlen, "A Symbol Tells His Story on a Heartbreaking *Westworld*", *The A. V. Club*, 10th June 2018: <[https://www.avclub.com/a-symbol-tells-his-story-on-a-heartbreaking](https://www.avclub.com/a-symbol-tells-his-story-on-a-heartbreaking-westworld-1826709787)[westworld-1826709787>](https://www.avclub.com/a-symbol-tells-his-story-on-a-heartbreaking-westworld-1826709787)
-- 61 Jonathan Rosenbaum, "Acid Western", *Chicago Reader*, 27 June 1996: <[https://www.chicagoreader.com/chicago/acid-western/Content?](https://www.chicagoreader.com/chicago/acid-western/Content?oid=890861) [oid=890861>](https://www.chicagoreader.com/chicago/acid-western/Content?oid=890861)
+- 60 Zack Handlen, "A Symbol Tells His Story on a Heartbreaking *Westworld*", *The A. V. Club*, 10th June 2018: ](https://www.avclub.com/a-symbol-tells-his-story-on-a-heartbreaking-westworld-1826709787)
+- 61 Jonathan Rosenbaum, "Acid Western", *Chicago Reader*, 27 June 1996: ](https://www.chicagoreader.com/chicago/acid-western/Content?oid=890861)
 - 62 Fiedler, *The Return of the Vanishing American*, 175.
 - 63 Leslie Fiedler, *Love and Death in the American Novel*. Dublin: Dalkey Archive, 1997, 24.
 - 64 Fiedler, *The Returning of the Vanishing American,* 178.
@@ -2202,19 +2205,19 @@ Falmouth and New York: Urbanomic and Sequence Press, 2011. This volume of collec
 # **Friends, Communities & Ghosts**
 
 - 1 Mark Fisher, "Touchscreen Capture".
-- 2 Nina Power. "In Memoriam Mark Fisher, January 13th". *Nina Power: Writings*: [<https://ninapower.net/2018/01/13/in-memoriam-mark](https://ninapower.net/2018/01/13/in-memoriam-mark-fisher-january-13th/)[fisher-january-13th/>](https://ninapower.net/2018/01/13/in-memoriam-mark-fisher-january-13th/)
+- 2 Nina Power. "In Memoriam Mark Fisher, January 13th". *Nina Power: Writings*: [](https://ninapower.net/2018/01/13/in-memoriam-mark-fisher-january-13th/)
 
-- 3 DJ Sprinkles, "Midtown 120 Intro". *Midtown 120 Blues*, Track 1. Japan: Mule Musiq, 2008: <[https://www.comatonse.com/writings/2008\\_](https://www.comatonse.com/writings/2008_midtown120blues.html) [midtown120blues.html>](https://www.comatonse.com/writings/2008_midtown120blues.html)
+- 3 DJ Sprinkles, "Midtown 120 Intro". *Midtown 120 Blues*, Track 1. Japan: Mule Musiq, 2008: ](https://www.comatonse.com/writings/2008_midtown120blues.html)
 - 4 Ibid.
-- 5 See: "Kodwo Eshun: Mark Fisher Memorial Lecture", *Visual Cultures Goldsmiths*, You Tube, 6 February 2018: <[https://www.youtube.com/watch?v=ufznupiVCLs>](https://www.youtube.com/watch?v=ufznupiVCLs)
-- 6 Natasha Eves and Matt Colquhoun, "Consciousness Razing", *for kpunk*: [<https://4kpunk.tumblr.com/image/173416002602>](https://4kpunk.tumblr.com/image/173416002602). See also: Mark Fisher, "No Romance Without Finance" in *k-punk: The Collected and Unpublished Writings of Mark Fisher (2004-2016)*, 419- 425.
+- 5 See: "Kodwo Eshun: Mark Fisher Memorial Lecture", *Visual Cultures Goldsmiths*, You Tube, 6 February 2018: ](https://www.youtube.com/watch?v=ufznupiVCLs)
+- 6 Natasha Eves and Matt Colquhoun, "Consciousness Razing", *for kpunk*: [](https://4kpunk.tumblr.com/image/173416002602). See also: Mark Fisher, "No Romance Without Finance" in *k-punk: The Collected and Unpublished Writings of Mark Fisher (2004-2016)*, 419- 425.
 - 7 Mark Fisher, "Good for Nothing".
 - 8 Ibid.
-- 9 "C is for Consciousness Raising", *Plan C*, 31 May 2015: <[https://www.weareplanc.org/blog/c-is-for-consciousness-raising/>](https://www.weareplanc.org/blog/c-is-for-consciousness-raising/)
+- 9 "C is for Consciousness Raising", *Plan C*, 31 May 2015: ](https://www.weareplanc.org/blog/c-is-for-consciousness-raising/)
 - 10 Mark Fisher, "Good For Nothing".
 - 11 Maggie Nelson, *The Argonauts*. London: Melville House UK, 2016, 3.
-- 12 Sara Marcus, "Review: An intimate look at a fluid family in Maggie Nelson's 'The Argonauts'", *Los Angeles Times*, 30 April 2015: <[https://www.latimes.com/books/jacketcopy/la-ca-jc-maggie](https://www.latimes.com/books/jacketcopy/la-ca-jc-maggie-nelson-20150503-story.html)[nelson-20150503-story.html>](https://www.latimes.com/books/jacketcopy/la-ca-jc-maggie-nelson-20150503-story.html)
-- 13 Julia Bell, "Really Techno", *The White Review*, June 2018: <[http://www.thewhitereview.org/feature/really-techno/>](http://www.thewhitereview.org/feature/really-techno/)
+- 12 Sara Marcus, "Review: An intimate look at a fluid family in Maggie Nelson's 'The Argonauts'", *Los Angeles Times*, 30 April 2015: ](https://www.latimes.com/books/jacketcopy/la-ca-jc-maggie-nelson-20150503-story.html)
+- 13 Julia Bell, "Really Techno", *The White Review*, June 2018: ](http://www.thewhitereview.org/feature/really-techno/)
 - 14 Ibid.
 - 15 Ibid.
 - 16 Ibid.
@@ -2224,8 +2227,8 @@ Falmouth and New York: Urbanomic and Sequence Press, 2011. This volume of collec
 - 19 Ibid., 43.
 - 20 Nancy, "The Confronted Community", 22.
 - 21 Fisher, *The Weird and the Eerie*, 11.
-- 22 Fisher, "k-punk, or the Glampunk Art Pop Discontinuum", *k-punk*, 11 September 2004: [<http://k](http://k-punk.abstractdynamics.org/archives/004115.html)[punk.abstractdynamics.org/archives/004115.html](http://k-punk.abstractdynamics.org/archives/004115.html)>
-- 23 Fisher, "It Doesn't Matter If We All Die: The Cure's Unholy Trinity", *k-punk*, 3 August 2005: <[http://k-punk.org/it-doesnt-matter-if-we-all](http://k-punk.org/it-doesnt-matter-if-we-all-die-the-cures-unholy-trinity/)[die-the](http://k-punk.org/it-doesnt-matter-if-we-all-die-the-cures-unholy-trinity/)[cures-unholy-trinity/](http://k-punk.org/it-doesnt-matter-if-we-all-die-the-cures-unholy-trinity/)>
+- 22 Fisher, "k-punk, or the Glampunk Art Pop Discontinuum", *k-punk*, 11 September 2004: [
+- 23 Fisher, "It Doesn't Matter If We All Die: The Cure's Unholy Trinity", *k-punk*, 3 August 2005: 
 - 24 Ibid.
 - 25 Nancy, "The Confronted Community", 23.
 - 26 Ibid., 24.
@@ -2240,7 +2243,7 @@ Falmouth and New York: Urbanomic and Sequence Press, 2011. This volume of collec
 
 - 35 Simon O'Sullivan, "Friendship as Community: From Ethics to Politics" in *Takkekortet: The Written Acknowledgement*. Arhus: Rum46, 2004, 20.
 - 36 Ibid., 21.
-- 37 Mark Fisher, "Exiting the Vampire Castle", *open Democracy*, 24 November 2013: <[https://www.opendemocracy.net/en/opendemocracyuk/exiting](https://www.opendemocracy.net/en/opendemocracyuk/exiting-vampire-castle/)[vampire-castle/>](https://www.opendemocracy.net/en/opendemocracyuk/exiting-vampire-castle/)
+- 37 Mark Fisher, "Exiting the Vampire Castle", *open Democracy*, 24 November 2013: ](https://www.opendemocracy.net/en/opendemocracyuk/exiting-vampire-castle/)
 - 38 Ibid.
 - 39 Deleuze and Guattari, *A Thousand Plateaus*, 251.
 - 40 Gilles Deleuze & Félix Guattari, *What Is Philosophy?*, trans. Hugh Tomlinson and Graham Burchell (New York: Columbia University Press, 1994), 6.
@@ -2250,8 +2253,7 @@ Falmouth and New York: Urbanomic and Sequence Press, 2011. This volume of collec
 - 44 Nick Land, *The Dark Enlightenment*.
 - 45 Thomas Biebricher & Robin Celikates, "Saying 'We'Again: A Conversation with Jodi Dean on Democracy, Occupy and Communism", *Critical Legal Thinking*, 6 November 2012:
 
-- <[http://criticallegalthinking.com/2012/11/06/saying-we-again-a](http://criticallegalthinking.com/2012/11/06/saying-we-again-a-conversation-with-jodi-dean-on-democracy-occupy-and-communism/)[conversation-with-jodi-](http://criticallegalthinking.com/2012/11/06/saying-we-again-a-conversation-with-jodi-dean-on-democracy-occupy-and-communism/)
-- [dean-on-democracy-occupy-and-communism/>](http://criticallegalthinking.com/2012/11/06/saying-we-again-a-conversation-with-jodi-dean-on-democracy-occupy-and-communism/)
+- ](http://criticallegalthinking.com/2012/11/06/saying-we-again-a-conversation-with-jodi-dean-on-democracy-occupy-and-communism/)
 - 46 Friedrich Nietzsche, *On the Genealogy of Morality*, ed. Keith Ansell-Pearson, trans. Carol Diethe. Cambridge: Cambridge University Press; Revised Student Edition, 2007, 19.
 - 47 Ibid.
 - 48 Ibid.
@@ -2291,7 +2293,7 @@ Falmouth and New York: Urbanomic and Sequence Press, 2011. This volume of collec
 - 80 Bataille, *On Nietzsche*, 94.
 - 81 Blanchot, "On One Approach to Communism", 95.
 - 82 Mark Fisher, "Exiting the Vampire Castle".
-- 83 Jeremy Gilbert, "Why the time has come for 'Acid Corbynism'", *The New Statesman*, 24 October 2017: <[https://www.newstatesman.com/politics/uk/2017/10/why](https://www.newstatesman.com/politics/uk/2017/10/why-time-has-come-acid-corbynism)[time-has-come-acid-corbynism>](https://www.newstatesman.com/politics/uk/2017/10/why-time-has-come-acid-corbynism)
+- 83 Jeremy Gilbert, "Why the time has come for 'Acid Corbynism'", *The New Statesman*, 24 October 2017: ](https://www.newstatesman.com/politics/uk/2017/10/why-time-has-come-acid-corbynism)
 - 84 Karl Marx and Friedrich Engels, *The Communist Manifesto*. London: Pluto Press, 2017, 102.
 - 85 Michel Foucault, *Remarks on Marx: Conversations with Duccio Trombadori*, trans. R. James Goldstein and James Cascaito. Los Angeles: Semiotext(e), 1991, 120.
 - 86 Herbert Marcuse, *Eros and Civilisation: A Philosophical Inquiry into Freud*. Oxford: Routledge, 1998, 93.
@@ -2308,9 +2310,7 @@ Falmouth and New York: Urbanomic and Sequence Press, 2011. This volume of collec
 - 4 Ibid., 163.
 - 5 Despite how the album's title sounds, James has insisted he is not a fan of drugs. In an interview with Paul Lester for the *Guardian* prior to *Drukqs* release, he explains: "[Drugs have] nothing to do with it … It's just a word I made up … I never wanted to big up any drugs, because I don't reckon they deserve it. It's just something that you choose to do. I probably come across as, like, 'Yeah, acid and weed are amazing.' But I don't think that at all, really. And if I did, I wouldn't want to say it in an interview. Plus, I'm never under the influence of drugs when I make music. Whenever I have been, it's always been totally rubbish. It's a real disciplined thing, making music. When you're tripping, you're just fucked. You could never get it together to make a track. When I'm stoned, I go to bed." See: Paul Lester, "Tank Boy", *The Guardian*, 5 October 2001:
 
-<[https://www.theguardian.com/culture/2001/oct/](https://www.theguardian.com/culture/2001/oct/05/artsfeatures3)
-
-[05/artsfeatures3>](https://www.theguardian.com/culture/2001/oct/05/artsfeatures3) However, in line with Mark's Spinozist call to "not to get out of your head but … get out *through* your head", James, in an interview with David Toop, has also spoken about his interest in dreams and his music's relationship to his own unconscious. See: David Toop, "Lucid Dreaming" in *Ocean of Sound: Aether Talk, Ambient Sound and Imaginary Worlds*. Exmouth: Serpent's Tail, 1995.
+](https://www.theguardian.com/culture/2001/oct/05/artsfeatures3) However, in line with Mark's Spinozist call to "not to get out of your head but … get out *through* your head", James, in an interview with David Toop, has also spoken about his interest in dreams and his music's relationship to his own unconscious. See: David Toop, "Lucid Dreaming" in *Ocean of Sound: Aether Talk, Ambient Sound and Imaginary Worlds*. Exmouth: Serpent's Tail, 1995.
 
 - 6 David Toop, *Ocean of Sound*, 208-209.
 - 7 Mark Fisher, *The Weird and the Eerie*, 10.
@@ -2318,20 +2318,20 @@ Falmouth and New York: Urbanomic and Sequence Press, 2011. This volume of collec
 - 9 Fredric Jameson, *Valences of the Dialectic*. London: Verso Books, 2009, 612.
 - 10 Fisher, "Baroque Sunbursts".
 - 11 Ibid.
-- 12 Having written about Mark's time in D-Generation in his forward to Repeater's *k-punk* collection, Reynolds would later share these two articles from *Melody Maker* on his blog. See: "D-Generation – or, the Dawn of k-punk", *Reynolds Retro*, 19 November 2018: <[http://reynoldsretro.blogspot.com/2018/11/d-generation-or-dawn](http://reynoldsretro.blogspot.com/2018/11/d-generation-or-dawn-of-k-punk.html)[of-k-punk.html](http://reynoldsretro.blogspot.com/2018/11/d-generation-or-dawn-of-k-punk.html)>
+- 12 Having written about Mark's time in D-Generation in his forward to Repeater's *k-punk* collection, Reynolds would later share these two articles from *Melody Maker* on his blog. See: "D-Generation – or, the Dawn of k-punk", *Reynolds Retro*, 19 November 2018: 
 - 13 David Toop, *Into the Maelstrom: Music, Improvisation and the Dream of Freedom (Before 1970)*. London: Bloomsbury, 2016, 70.
 - 14 Ibid.
 - 15 Ibid.
-- 16 Phil Elverum, "Entry Level: Phil Elverum's Inner Battle With Black Metal", *Invisible Oranges*, 11 January 2018: <<http://www.invisibleoranges.com/entry-level-phil-elverum/>>
+- 16 Phil Elverum, "Entry Level: Phil Elverum's Inner Battle With Black Metal", *Invisible Oranges*, 11 January 2018: >
 - 17 Ibid.
-- 18 Mark Fisher. "Megalithic Astropunk." *Hyperstition*, 6 February 2005: <[http://hyperstition.abstractdynamics.org/](http://hyperstition.abstractdynamics.org/archives/004932.html) [archives/004932.html>](http://hyperstition.abstractdynamics.org/archives/004932.html)
+- 18 Mark Fisher. "Megalithic Astropunk." *Hyperstition*, 6 February 2005: ](http://hyperstition.abstractdynamics.org/archives/004932.html)
 - 19 Ibid.
 - 20 Mark Fisher, "Gothic Materialism", *Pli* 12. Warwick: University of Warwick, 2001, 242.
-- 21 Mark Fisher, "'An Abyss that Laughs at Creation'", *k-punk*, 8 October 2009: <[https://k-punk.org/an-abyss-that-laughs-at-creation/>](https://k-punk.org/an-abyss-that-laughs-at-creation/)
+- 21 Mark Fisher, "'An Abyss that Laughs at Creation'", *k-punk*, 8 October 2009: ](https://k-punk.org/an-abyss-that-laughs-at-creation/)
 
 # **An Afterword — A Lesson**
 
-- 1 Spencer Kornhaber, "The Pointlessness and Promise of Art After Death", *The Atlantic*, 14 March 2018: <[https://www.theatlantic.com/entertainment/archive/](https://www.theatlantic.com/entertainment/archive/2018/03/mount-eerie-now-only-interview-phil-elverum/555485/) [2018/03/mount-eerie-now-only-interview-phil-elverum/555485/>](https://www.theatlantic.com/entertainment/archive/2018/03/mount-eerie-now-only-interview-phil-elverum/555485/)
+- 1 Spencer Kornhaber, "The Pointlessness and Promise of Art After Death", *The Atlantic*, 14 March 2018: ](https://www.theatlantic.com/entertainment/archive/2018/03/mount-eerie-now-only-interview-phil-elverum/555485/)
 - 2 Stefano Harney & Fred Moten. "The University And The Undercommons" in *The Undercommons: Fugitive Planning & Black Study*. New York: Minor Compositions, 2013, 26-27. Harney and Moten write specifically on the role of the Black radical tradition in this "beyond of teaching", a foundation I do not wish to erase. What they refer to as the "undercommons" is a community of figures displaced and dispossessed within the particular systems of the modern American university. Whilst this resonates most explicitly on the fragile ground of contemporary Black experience, to invoke their criticality here more generally nonetheless feels appropriate.
 - 3 Jason Kemp Winfree. "The Contestation of Community" in *The Obsessions of Georges Bataille: Community and Communication*, 41
 - 4 Ibid.

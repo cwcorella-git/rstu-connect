@@ -1,20 +1,10 @@
 ---
-title: >-
-  2022 Global Climate Strike Travailleuses Et Travailleurs Pour La Justice
-  Climati
-slug: >-
-  2022 Global Climate Strike Travailleuses et Travailleurs pour la Justice
-  Climatique
-reconversion_status: ready_for_reconversion
-date: 2022
-author: Industrial Workers of the World
-tags:
-  - labor
-  - strikes
-  - unions
-  - rent
-  - organizing
+title: ">-"
+author: "Industrial Workers of the World"
+date: "2022"
+category: "labor"
 ---
+
 ## **2022 Global Climate Strike: Travailleuses et Travailleurs pour la Justice Climatique**
 
 **Date:** Sun, 04/10/2022 - 00:00 **Source:** https://ecology.iww.org/node/4957**Tags:** Travailleuses et Travailleurs pour la Justice Climatique (TJC), Climate Strike, green syndicalism, green unionism, climate change, climate justice, climate emergency, Québec, Montreal, Canada By staff - Travailleuses et Travailleurs pour la Justice Climatique , April 10, 2022 Greetings to all climate conscious workers Who are we? We are Travailleuses et travailleurs pour la justice climatique

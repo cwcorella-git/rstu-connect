@@ -1,3 +1,8 @@
+---
+title: "CONSTRUCTIVE PROGRAMME"
+category: "contemporary-analysis"
+---
+
 # CONSTRUCTIVE PROGRAMME
 
 ## (Its Meaning and Place)

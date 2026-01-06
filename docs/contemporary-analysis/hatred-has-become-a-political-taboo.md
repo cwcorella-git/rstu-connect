@@ -1,25 +1,8 @@
 ---
-title: Hatred has become a political taboo
-author: David Graeber
-date: 'Dec. 31<sup>st</sup>, 2021'
-pubdate: '2022-09-17T21:48:23'
-language: en
-source_url: >-
-  Retrieved on Sept. 17<sup>th</sup> 2021 from
-  https://www.patreon.com/posts/60542689
-notes: >-
-  See also: David Graeber Institute [[https://davidgraeber.institute/]] &
-  [[https://davidgraeber.org/]]
-topics:
-  - passion
-  - Consumerism
-  - love
-original_format: muse
-converted_date: '2025-11-08T11:25:06.013387'
-tags:
-  - Passion
-  - Consumerism
-  - Love
+title: "Hatred has become a political taboo"
+author: "David Graeber"
+date: "Dec. 31<sup>st</sup>, 2021"
+category: "contemporary-analysis"
 ---
 
 By the end of the twentieth and beginning of the twenty-first century, it is the one emotion that is considered intrinsically illegitimate. We have legal categories like “hate speech,” “hate crimes.” For a public figure, to profess or even publically acknowledge feelings of hatred towards anyone—even their bitterest rival—would be to instantly place themselves outside the pale of acceptable political behavior. “Haters” are bad people. In no sense can it ever be legitimate to base a political or social policy on hatred, of any kind. It has come to such a pass that one can barely encourage hatred even against abstractions. Christians used to be encouraged to “love the sinner, hate the sin.” Such language would never have been coined today. Even to encourage others to feel hatred for envy, pride, or gluttony might be considered slightly problematic.
@@ -28,7 +11,7 @@ This was not always so. There was a time when hatred was assumed to form part of
 
 Consider the following quotations:
 
-<quote>
+
 [*The Emperor*] *Commodus had now attained the summit of vice and infamy. Amidst the acclamations of a flattering court, he was unable to disguise, from himself, that he had deserved the contempt and hatred of every man of sense and virtue in his empire. His ferocious spirit was irritated by the consciousness of that hatred, by the envy of every kind of merit, by the just apprehension of danger, and by the habit of slaughter, which he contracted in his daily amusements.*
 
 *The honest labours of Papinian served only to inflame the hatred which Caracalla had already conceived against his father’s minister…*
@@ -42,13 +25,13 @@ Consider the following quotations:
 *The empire was afflicted by five civil wars; and the remainder of the time was not so much a state of tranquility as a suspension of arms between several hostile monarchs, who, viewing each other with an eye of fear and hatred, strove to increase their respective forces at the expense of their subjects.*
 
 *The emperor [Constantine] had now imbibed the spirit of controversy, and the angry sarcastic style of his edicts was designed to inspire his subjects with the hatred which he had conceived against the enemies of Christ.*
-</quote>
+
 
 What jumps out about these passages—they are all drawn from Gibbon’s Decline and Fall of the Roman Empire—is first of all, just how normal hatred was assumed to be. It was only to be expected that kings and politicians should hate their rivals. Conquered people hated their conquerors, unjust rulers were detested, emperors hated the senate, senators loathed the common people and imperial advisors and members of the emperor’s family were detested by the urban mob, which would periodically try to burn their palaces. Even more remarkably to the contemporary ear, there is no sense, in the works of ancient historians or ancient moralists, that such hatreds were in principle illegitimate. They might be. But many were entirely justified. Indeed, hatred for a cruel and unjust ruler could even be considered a civic virtue. In Medieval times feelings of ill will between prominent families, neighborhoods, and guilds were often institutionalized in relations of formal “hatred,” considered simply the inverse form of friendship; one could also be transformed into the other by appropriate rituals. In England, for instance, it was assumed that, in the ordinary course of events, the common people would detest the king, royalty in most places being seen as foreigners, there would often be public celebrations at the failure of some royal project. Hatred for men of the cloth was inveterate. (As late as 1736, Jonathan Swift wrote an essay entitled “Concerning that Universal Hatred that Prevails Against the Clergy.”) Different branches of the clergy hated one other: the schoolmen hated members of the monastic orders, the lay clergy detested the priests. According to Thomas Aquinas, even the hatred of God himself was preferable to unbelief or indifference, since it was, in its own way, a form of intense engagement with the Divine.
 
 Hatred, then, was part of the very fabric of social life. Neither did any one really imagine things could be otherwise. Nor was this a peculiarly European phenomenon. Similar passages could easily be assembled for China, India, the Valley of ‘Mexico, or almost any society that existed under monarchical or aristocratic rule.
 
-So: when did hatred begin to fall into such disfavor? One might argue that there was always a strain of disapproval in Christian literature, but even the phrase “love the sinner, hate the sin” implies that it is legitimate to hate a sin, and nowadays, things have got to such a pass that even that is likely to be considered problematic. Still, the evocation of Christian love, and the feeling that political hatred is a violation of Christian principles, only really appears in the 19<sup>th</sup> century. In England, in appeals against the “class hatred” of the Chartists, which—it was held by elite politicians, middle class reformers, and Christian socialists alike—would only leave to the violent envy and paroxysms of revenge that characterized the French revolution. The essentially reactionary impulse here can be seen even more clearly in the common reaction at the time to any assertion of the rights of women: early feminists were invariably denounced as “man-haters.”
+So: when did hatred begin to fall into such disfavor? One might argue that there was always a strain of disapproval in Christian literature, but even the phrase “love the sinner, hate the sin” implies that it is legitimate to hate a sin, and nowadays, things have got to such a pass that even that is likely to be considered problematic. Still, the evocation of Christian love, and the feeling that political hatred is a violation of Christian principles, only really appears in the 19th century. In England, in appeals against the “class hatred” of the Chartists, which—it was held by elite politicians, middle class reformers, and Christian socialists alike—would only leave to the violent envy and paroxysms of revenge that characterized the French revolution. The essentially reactionary impulse here can be seen even more clearly in the common reaction at the time to any assertion of the rights of women: early feminists were invariably denounced as “man-haters.”
 
 All this is important to bear in mind because nowadays we tend to assume the phrase “politics of hate” has necessarily right-wing implications (since the phrase is normally applied to racism, ethnic hatred, or homophobia), and as a result, that the taboo on expression of political hatred is a triumph of essentially left-wing sensibilities. In fact, the history suggests this is far from the case.
 

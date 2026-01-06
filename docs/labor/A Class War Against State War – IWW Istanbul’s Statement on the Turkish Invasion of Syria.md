@@ -1,3 +1,8 @@
+---
+title: "## **A Class War Against State War – IWW Istanbul's Statement on the Turkish Invasion of Syria**"
+category: "labor"
+---
+
 ## **A Class War Against State War – IWW Istanbul's Statement on the Turkish Invasion of Syria**
 
 **Date:** Unknown
@@ -46,6 +51,7 @@ In reply toWelcomebylibcom.org
 | R Totale                                                                                                                                   |
 | 6 years ago                                                                                                                                |
 | In reply toWelcomebylibcom.org                                                                                                             |
-| Another anti-war statement from Turkish anarchist group DAF here:<br>https://www.amwenglish.com/articles/daf-statement-on-rojava-invasion/ |
+| Another anti-war statement from Turkish anarchist group DAF here:
+https://www.amwenglish.com/articles/daf-statement-on-rojava-invasion/ |
 
 Thanks for posting this. I didn't even know that there was an IWW branch in Turkey, and this

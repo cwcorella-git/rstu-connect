@@ -1,3 +1,8 @@
+---
+title: "**[What Games Are](https://web.archive.org/web/20250914153152/https://www.whatgamesare.com/)**"
+category: "organizing"
+---
+
 The Wayback Machine - https://web.archive.org/web/20250914153152/https://www.whatgamesare.com/2011/08/beware-arcane-actions-game-des…
 
 # **[What Games Are](https://web.archive.org/web/20250914153152/https://www.whatgamesare.com/)**
@@ -75,7 +80,8 @@ Posted on 03 August 2011 | [Permalink](https://web.archive.org/web/2025091415315
 | Previewing your Comment |
 | Posted by: |
 | This is only a preview. Your comment has not yet been posted. |
-| Post<br>Edit |
+| Post
+Edit |
 | Your comment could not be posted. Error type: |
 | Your comment has been posted. Post another comment |
 | The letters and numbers you entered did not match the image. Please try again. |

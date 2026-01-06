@@ -1,3 +1,8 @@
+---
+title: "All Rise"
+category: "contemporary-analysis"
+---
+
 #### ICNC MONOGRAPH SERIES
 
 # All Rise
@@ -64,7 +69,8 @@ ICNC MONOGRAPH SERIES EDITOR: Dr. Maciej Bartkowski VOLUME EDITORS: Bruce Pearso
 | Becoming a People's Judge | 26 |
 | Judges' Freedom of Expression | 29 |
 | Resistance Emerges Against the Populist Onslaught (2015–2017) | 31 |
-| The Year the Judges<br>Rose Up (2017) | 33 |
+| The Year the Judges
+Rose Up (2017) | 33 |
 | Judges' Resistance Actions in 2017 | 35 |
 | Judicial Resistance Continues (2018–2023) | 40 |
 | Changes in the Way Judges Perceived Their Function | 41 |
@@ -90,23 +96,78 @@ ICNC MONOGRAPH SERIES EDITOR: Dr. Maciej Bartkowski VOLUME EDITORS: Bruce Pearso
 | Judicial Resistance Pierced the Opponent | 65 |
 | Chapter 6. Catalog of Judicial Resistance Actions | 68 |
 | Acts of Expression | 68 |
-| 1 Acts<br>of<br>Expression<br>Using<br>the<br>Medium<br>of<br>Human<br>Body | 69 |
-| 2 Acts<br>of<br>Expression<br>Using<br>Medium<br>of<br>Material<br>Arts | 75 |
-| 3 Acts<br>of<br>Expression<br>Using<br>the<br>Medium<br>of<br>Digital<br>Technology | 80 |
-| 4 Acts<br>of<br>Expression<br>Using<br>the<br>Medium<br>of<br>Human<br>Language | 83 |
+| 1 Acts
+of
+Expression
+Using
+the
+Medium
+of
+Human
+Body | 69 |
+| 2 Acts
+of
+Expression
+Using
+Medium
+of
+Material
+Arts | 75 |
+| 3 Acts
+of
+Expression
+Using
+the
+Medium
+of
+Digital
+Technology | 80 |
+| 4 Acts
+of
+Expression
+Using
+the
+Medium
+of
+Human
+Language | 83 |
 | Acts of Omission | 94 |
-| 5 Acts<br>of<br>Omission<br>as<br>Political/Judicial<br>Noncooperation | 94 |
-| 6 Acts<br>of<br>Omission<br>as<br>Social<br>Noncooperation | 99 |
+| 5 Acts
+of
+Omission
+as
+Political/Judicial
+Noncooperation | 94 |
+| 6 Acts
+of
+Omission
+as
+Social
+Noncooperation | 99 |
 | Acts of Commission | 105 |
-| 7 Political/Judicial<br>Disruptive<br>Intervention | 105 |
+| 7 Political/Judicial
+Disruptive
+Intervention | 105 |
 ## | | |
 
-| 8 Political/Judicial<br>Creative<br>Intervention | 112 |
+| 8 Political/Judicial
+Creative
+Intervention | 112 |
 |-------------------------------------------------------------------|-----|
-| 9 Economic<br>Creative<br>Intervention | 116 |
-| 10 Legal<br>Aid<br>to<br>Prosecuted<br>Judges | 118 |
-| 11 Social<br>Creative<br>Intervention | 118 |
-| 12 Psychological<br>Creative<br>Intervention | 120 |
+| 9 Economic
+Creative
+Intervention | 116 |
+| 10 Legal
+Aid
+to
+Prosecuted
+Judges | 118 |
+| 11 Social
+Creative
+Intervention | 118 |
+| 12 Psychological
+Creative
+Intervention | 120 |
 | Key Findings and Takeaways for Stakeholders | 126 |
 | Takeaways for Judges | 127 |
 | Takeaways for Lawyers | 129 |
@@ -132,40 +193,88 @@ ICNC MONOGRAPH SERIES EDITOR: Dr. Maciej Bartkowski VOLUME EDITORS: Bruce Pearso
 
 #### Tables, Figures, and Boxes
 
-| TABLE 1. Judges' Tactics Using Actions of Expression<br>69 |
+| TABLE 1. Judges' Tactics Using Actions of Expression
+69 |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| TABLE 2. Judges' Tactics Using Actions of Omission<br>94 |
-| TABLE 3. Judges' Tactics Using Actions of Commission<br>105 |
-| TABLE 4. Mapping the Judges' Civil Resistance Tactics<br>125 |
-| TABLE 5. Interviewees for This Study<br>145 |
-| FIGURE 1. In the July 2017 "Chain of Lights," protesters hold posters<br>35<br>that read "Constitution." |
-| FIGURE 2. AD projected the message "This is our court" on the Supreme Court<br>building during the Chain of Light protest.<br>50 |
-| FIGURE 3. Polish lawyers support the judges during the March of 1,000 Gowns.<br>68<br>One lawyer holds the Polish Constitution. |
-| FIGURE 4. On the eve before Igor Tuleya's hearing regarding the possible waiver<br>of his immunity, demonstrators hold letters spelling "Murem za Igorem,"<br>"Standing behind Igor."<br>70 |
-| FIGURE 5. Cracow judges calling the entrance into force of the muzzle act as<br>the Black Friday for the European judiciary<br>71 |
-| FIGURE 6. "Today Tuleya, Tomorrow You" action on June 8, 2020, in 150 cities<br>against the possible waiver of immunity for Igor Tuleya (the hearing before the<br>Disciplinary Chamber was scheduled for the following day).<br>73 |
-| FIGURE 7. Cracow judges protesting on the stairs of the Cracow District Court<br>74 |
-| FIGURE 8. Demonstrators wear shirts that read "Konstytucja" (Constitution)<br>75 |
-| FIGURE 9. Judges Katarzyna Wesołowska-Zbudniewek, Ewa Maciejewska,<br>75<br>Krzysztof Kacprzak, Paweł Maciejewski i Grzegorz Gała |
-| FIGURE 10. Judge Lutostańska and other judges from Olsztyn posing in the<br>Konstytucja T-shirts.<br>76 |
-| FIGURE 11. Poster action in courts and the city (freedom for Polish judges,<br>crowned eagle with the judge's chain, with judicial oath) .<br>77 |
+| TABLE 2. Judges' Tactics Using Actions of Omission
+94 |
+| TABLE 3. Judges' Tactics Using Actions of Commission
+105 |
+| TABLE 4. Mapping the Judges' Civil Resistance Tactics
+125 |
+| TABLE 5. Interviewees for This Study
+145 |
+| FIGURE 1. In the July 2017 "Chain of Lights," protesters hold posters
+35
+that read "Constitution." |
+| FIGURE 2. AD projected the message "This is our court" on the Supreme Court
+building during the Chain of Light protest.
+50 |
+| FIGURE 3. Polish lawyers support the judges during the March of 1,000 Gowns.
+68
+One lawyer holds the Polish Constitution. |
+| FIGURE 4. On the eve before Igor Tuleya's hearing regarding the possible waiver
+of his immunity, demonstrators hold letters spelling "Murem za Igorem,"
+"Standing behind Igor."
+70 |
+| FIGURE 5. Cracow judges calling the entrance into force of the muzzle act as
+the Black Friday for the European judiciary
+71 |
+| FIGURE 6. "Today Tuleya, Tomorrow You" action on June 8, 2020, in 150 cities
+against the possible waiver of immunity for Igor Tuleya (the hearing before the
+Disciplinary Chamber was scheduled for the following day).
+73 |
+| FIGURE 7. Cracow judges protesting on the stairs of the Cracow District Court
+74 |
+| FIGURE 8. Demonstrators wear shirts that read "Konstytucja" (Constitution)
+75 |
+| FIGURE 9. Judges Katarzyna Wesołowska-Zbudniewek, Ewa Maciejewska,
+75
+Krzysztof Kacprzak, Paweł Maciejewski i Grzegorz Gała |
+| FIGURE 10. Judge Lutostańska and other judges from Olsztyn posing in the
+Konstytucja T-shirts.
+76 |
+| FIGURE 11. Poster action in courts and the city (freedom for Polish judges,
+crowned eagle with the judge's chain, with judicial oath) .
+77 |
 
 | FIGURE 12. Poster: Stop the persecution of judges with images of the three |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| suspended judges. A 7x1.5m banner was created from this poster.<br>78 |
-| FIGURE 13. Demonstrators hold signs reading "Igor Tulema,<br>will never walk alone" in Polish.<br>79 |
-| FIGURE 14. The Resister Judge badge references the solidarity traditions. The color<br>matches the edge of the judge's gown while the symbol signies "the law is still<br>alive." There were also versions for lawyers and prosecutors.<br>79 |
-| 82<br>FIGURE 15. Iustitia posters at the Pol And Rock Festival. |
-| FIGURE 16. Posters from the festivals<br>89 |
-| FIGURE 17. Protest poster that lists the cities, location and time of the expected<br>protests in support of the independent judges.<br>91 |
-| FIGURE 18. The same protests were held in front of the Myślenice District Court<br>92<br>and Gliwice Regional Court. |
-| FIGURE 19. Poster: Demand they return to work (list of prosecuted judges that<br>were suspended from adjudicating)—protest on the 18th at 18:00<br>93 |
-| FIGURE 20. Individual photos of judges supporting<br>Igor Tuleya—We stand for Igor Tuleya<br>123 |
-| FIGURE 21. Structure of the Judiciary in Poland<br>141 |
-| BOX 1. The 10 Principles of a Good Judge<br>27 |
-| 36<br>BOX 2. Judge 16 Recalls the 2017 Resistance |
-| BOX 3. The Legal Changes That Ignited Resistance<br>39 |
-| BOX 4. Appeal of Professor Adam Strzembosz<br>109 |
+| suspended judges. A 7x1.5m banner was created from this poster.
+78 |
+| FIGURE 13. Demonstrators hold signs reading "Igor Tulema,
+will never walk alone" in Polish.
+79 |
+| FIGURE 14. The Resister Judge badge references the solidarity traditions. The color
+matches the edge of the judge's gown while the symbol signies "the law is still
+alive." There were also versions for lawyers and prosecutors.
+79 |
+| 82
+FIGURE 15. Iustitia posters at the Pol And Rock Festival. |
+| FIGURE 16. Posters from the festivals
+89 |
+| FIGURE 17. Protest poster that lists the cities, location and time of the expected
+protests in support of the independent judges.
+91 |
+| FIGURE 18. The same protests were held in front of the Myślenice District Court
+92
+and Gliwice Regional Court. |
+| FIGURE 19. Poster: Demand they return to work (list of prosecuted judges that
+were suspended from adjudicating)—protest on the 18th at 18:00
+93 |
+| FIGURE 20. Individual photos of judges supporting
+Igor Tuleya—We stand for Igor Tuleya
+123 |
+| FIGURE 21. Structure of the Judiciary in Poland
+141 |
+| BOX 1. The 10 Principles of a Good Judge
+27 |
+| 36
+BOX 2. Judge 16 Recalls the 2017 Resistance |
+| BOX 3. The Legal Changes That Ignited Resistance
+39 |
+| BOX 4. Appeal of Professor Adam Strzembosz
+109 |
 
 ## Glossary of Acronyms
 
@@ -193,11 +302,22 @@ ICNC MONOGRAPH SERIES EDITOR: Dr. Maciej Bartkowski VOLUME EDITORS: Bruce Pearso
 
 ## Glossary of Terms
 
-| Neo-NCJ | New NCJ appointed in place of the unconstitutionally dissolved NCJ<br>during its term of oce. It does not have representatives of all courts.<br>Its members (judges) are elected by MPs, although Parliament accord<br>ing to the Constitution can elect only four of its own representatives<br>to the NCJ. Its current members are considered to be connected to<br>politicians. |
+| Neo-NCJ | New NCJ appointed in place of the unconstitutionally dissolved NCJ
+during its term of oce. It does not have representatives of all courts.
+Its members (judges) are elected by MPs, although Parliament accord
+ing to the Constitution can elect only four of its own representatives
+to the NCJ. Its current members are considered to be connected to
+politicians. |
 |-------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Neo-Judge | Someone nominated by the Neo-NCJ to any judgeship on any court<br>level. In 2020 there were about 1000 Neo-Judges and in 2023, about<br>2600. |
-| Quasi-Judge | A judge of the Constitutional Tribunal whose nomination replaced a<br>seat that had already been lled. |
-| Muzzle Law | The law introduced further limitations on judicial independence by giv<br>ing the new Disciplinary Chamber of the Supreme Court, controlled by<br>the government appointees, new types of disciplinary torts, including<br>power to dismiss from oce or transfer to another court. |
+| Neo-Judge | Someone nominated by the Neo-NCJ to any judgeship on any court
+level. In 2020 there were about 1000 Neo-Judges and in 2023, about
+2600. |
+| Quasi-Judge | A judge of the Constitutional Tribunal whose nomination replaced a
+seat that had already been lled. |
+| Muzzle Law | The law introduced further limitations on judicial independence by giv
+ing the new Disciplinary Chamber of the Supreme Court, controlled by
+the government appointees, new types of disciplinary torts, including
+power to dismiss from oce or transfer to another court. |
 | Iustitia | The biggest judges' association in Poland. |
 | Themis | The second biggest judges' association in Poland. |
 
@@ -285,9 +405,9 @@ This is the story of judges who have emerged as leaders in defending democratic 
 
 There is a general lack of systemic analysis of the strategic nature of judges' resistance, the dynamics of their creative, constructive, and disruptive tactics, and the immediate and long-term impact of their deance on the direction, progress, and outcome of the overall resistance against the authoritarian grab on political power This study attempts to redress
 
-<sup>1</sup> Order of the Court of Justice of 14 July 2021, Case C-204/21 R, Commission v Poland, EU:C:2021:593; Judgment of the Court of Justice of 15 July 2021, Case C-791/19, Commission v Poland, EU:C:2021:596; Judgment of the Court of Justice of 6 October 2021, Case C-487/19, W.Ż., EU:C:2021:798; Order of the Court of Justice of 6 October 2021, Case C-204/21 R-RAP, Commission v Poland, EU:C:2021:834; Judgment of the Court of Justice of 5 June 2023, Case C-204/21, EU:C:2023:442
+1 Order of the Court of Justice of 14 July 2021, Case C-204/21 R, Commission v Poland, EU:C:2021:593; Judgment of the Court of Justice of 15 July 2021, Case C-791/19, Commission v Poland, EU:C:2021:596; Judgment of the Court of Justice of 6 October 2021, Case C-487/19, W.Ż., EU:C:2021:798; Order of the Court of Justice of 6 October 2021, Case C-204/21 R-RAP, Commission v Poland, EU:C:2021:834; Judgment of the Court of Justice of 5 June 2023, Case C-204/21, EU:C:2023:442
 
-<sup>2</sup> Judgments in cases: Xero Flor w Polsce sp. z o.o. v. Poland (no. 4907/18); Broda and Bojara v. Poland (nos. 26691/18 and 27367/18) and Reczkowicz and Others v. Poland (nos. 43447/19, 49868/19 and 57511/19), Dolińska— Ficek and Ozimek v. Poland (nos. 49868/19 and 57511/19), Advance Pharma sp. z o.o. v Poland (no. 1469/20), Grzęda v Poland (Grand Chamber, no. 43572/18), Żurek v Poland (no. 39650/18), Juszczyszyn v. Poland (no. 35599/20), Tuleya v. Poland (nos. 21181/19 and 51751/20), Pająk and Others v. Poland (no. 25226/18), Wałęsa v. Poland (no. 50849/21).
+2 Judgments in cases: Xero Flor w Polsce sp. z o.o. v. Poland (no. 4907/18); Broda and Bojara v. Poland (nos. 26691/18 and 27367/18) and Reczkowicz and Others v. Poland (nos. 43447/19, 49868/19 and 57511/19), Dolińska— Ficek and Ozimek v. Poland (nos. 49868/19 and 57511/19), Advance Pharma sp. z o.o. v Poland (no. 1469/20), Grzęda v Poland (Grand Chamber, no. 43572/18), Żurek v Poland (no. 39650/18), Juszczyszyn v. Poland (no. 35599/20), Tuleya v. Poland (nos. 21181/19 and 51751/20), Pająk and Others v. Poland (no. 25226/18), Wałęsa v. Poland (no. 50849/21).
 
 this signicant gap in our understanding of the role of judicial resistance in sustaining and defending democracy
 
@@ -351,7 +471,7 @@ Each meeting gives us an incentive to help others. [Using technologies of the da
 
 The judge, who had regular conversations with people from the Solidarity and pre-Solidarity movements like KOR observed that acting against wickedness and fostering "systemic solidarity" in the absence of hope has become a matter of good taste "Strangers meet and immediately get ontorst-name terms, they get infected with their own enthusiasm and they trust each other completely because we are all united by common values So we are reviving the ethos and practice of the movements from the 1970s and 1980s while we are united by the valuesof human dignity, civil rights, and honesty "1
 
-<sup>1</sup> This corresponds with the way Adam Strzembosz (2005, 55) described "the extraordinary atmosphere of solidarity, and in many cases even brotherhood, that prevailed between its members. All divisions resulting from the positions held, the level of education and other determinants of social position have disappeared. Everyone was kind to each other. Undoubtedly, such relations also resulted from a common sense of threat and uncertainty as to the further fate of each of us and the need for mutual support. This atmosphere of true equality in humanity was also born of a sense of self-dignity, for which we fought, after all, and an understanding of the role of workers in restoring basic human rights and civil liberties."
+1 This corresponds with the way Adam Strzembosz (2005, 55) described "the extraordinary atmosphere of solidarity, and in many cases even brotherhood, that prevailed between its members. All divisions resulting from the positions held, the level of education and other determinants of social position have disappeared. Everyone was kind to each other. Undoubtedly, such relations also resulted from a common sense of threat and uncertainty as to the further fate of each of us and the need for mutual support. This atmosphere of true equality in humanity was also born of a sense of self-dignity, for which we fought, after all, and an understanding of the role of workers in restoring basic human rights and civil liberties."
 
 #### Judicial Solidarity Movement in the 1980s
 
@@ -371,7 +491,7 @@ In 2010, Polish judges protested the amendment of the Act of the Common Courts O
 
 In 2012, Iustitia-aliated judges resisted the closure of one-third of the courts in small towns and cities 2 In protest, 74 judges from the smallest district courts, which were scheduled
 
-<sup>2</sup> Pursuant to the Ordinance of the Minister of Justice, Jarosław Gowin of 5 October 2012, 79 district courts were abolished. Never before has any minister terminated the activity of so many common courts as independent units with a single legal act, in fact with one signature. In 2013 the Constitutional Tribunal declared that it was in accordance with the Constitution (K 27/12). Nevertheless, the small courts were reinstated in January 2015 by the same government. The presidential amendment to the Law on the System of Common Courts in 2014 introduced objective criteria for the establishment and abolition of district courts, and also—as indicated—met the needs of local communities and the judiciary. The president explained that, when preparing the proposal, he was guided by the will to end the instability in the judiciary, which had an impact on the work and the climate in the courts.
+2 Pursuant to the Ordinance of the Minister of Justice, Jarosław Gowin of 5 October 2012, 79 district courts were abolished. Never before has any minister terminated the activity of so many common courts as independent units with a single legal act, in fact with one signature. In 2013 the Constitutional Tribunal declared that it was in accordance with the Constitution (K 27/12). Nevertheless, the small courts were reinstated in January 2015 by the same government. The presidential amendment to the Law on the System of Common Courts in 2014 introduced objective criteria for the establishment and abolition of district courts, and also—as indicated—met the needs of local communities and the judiciary. The president explained that, when preparing the proposal, he was guided by the will to end the instability in the judiciary, which had an impact on the work and the climate in the courts.
 
 According to this act, a district court is to be appointed for the area of one or more communes inhabited by 50,000 people, where at least 5,000 make it happen. The court may also be optionally established for an area inhabited by a smaller population, if the number of cases led annually would be at least 5,000.
 
@@ -391,7 +511,7 @@ Soon after they returned to power in December 2015, the ruling party focused its
 
 The newly constituted loyalist majority in the tribunal considered and maintained in force various laws passed by the new parliament that essentially recused PiS from political responsibility and settled highly charged political disputes in their favor (Sitnicka 2020) First, the
 
-<sup>1</sup> Lech Morawski stated at the University of Oxford that the CT judges represented the government (Oxford 2017).
+1 Lech Morawski stated at the University of Oxford that the CT judges represented the government (Oxford 2017).
 
 Constitutional Tribunal issued "a highly publicised ruling declaring the provision of the so-called 1993 Anti-Abortion Act allowing abortion in the case of a severe and irreversible impairment of the foetus or an incurable disease threatening its life to be unconstitutional" (Gajcy 2019) It ruled on the case, although the parliament could amend the law with a simple majority Second, in June 2019 it decided that the article of the Code of Administrative Oenses assuming punishment for premeditated and unjustied refusal of service was unconstitutional In 2017, a printer fromŁódźhad refused to make posters for an LGBT foundation because of his religious beliefs He wasned by a court ofrst instance for his administrative oense In 2018, the Supreme Court upheld the ruling by the local court and rejected Minister of Justice and Prosecutor General Zbigniew Ziobro's appeal against the decision The minister then decided to turn to the Constitutional Tribunal On the basis of the judgment of the Constitutional Tribunal the case was reopened and the printer acquitted Third, the Constitutional Tribunal attempted to release the Polish government from the obligation to execute judgments of the ECHR and the CJEU It ruled that parts of the EU's treaties are incompatible with the Polish constitution and that the ECHR had no power to question Poland's appointment of judges, to reject their ruling in the case of the quasi-judge in the Constitutional Tribunal, or to question the status of newly appointed judges in the Supreme Court (Judgments of July 14, 2021, October 7, 2021, November 24, 2021, and March 10, 2022)
 
@@ -434,7 +554,7 @@ The goal of the Muzzle law was clear: to subordinate judges to the executive bra
 - 2 All of the relevant points of law and fact relating both to the circumstances in which the members of the NCJ are appointed and the way in which that body actually exercises its role
 - 3 The way in which the NCJ exercises its constitutional responsibilities of ensuring the independence of the courts and of the judiciary and its various powers, in particular if it does so in a way which is capable of calling into question its independence in relation to the legislature and the executive
 
-<sup>2</sup> The board of the court of appeal performs the tasks enlisted in the bill, and inter alia expresses an opinion on the appointment to perform the function of a press spokesman or entrusts the duties of a press spokesman in a court of appeal, and expresses an opinion on dismissal from performing this function or performing these duties; gives opinions on candidates for the positions of judges of the court of appeal; considers applications resulting from court visits and vetting; expresses an opinion on judges' personal matters; expresses an opinion in cases of judges' conduct violating the principles of ethics; expresses an opinion on other matters presented by the president of the court of appeal, the National Council of the Judiciary and the Minister of Justice.
+2 The board of the court of appeal performs the tasks enlisted in the bill, and inter alia expresses an opinion on the appointment to perform the function of a press spokesman or entrusts the duties of a press spokesman in a court of appeal, and expresses an opinion on dismissal from performing this function or performing these duties; gives opinions on candidates for the positions of judges of the court of appeal; considers applications resulting from court visits and vetting; expresses an opinion on judges' personal matters; expresses an opinion in cases of judges' conduct violating the principles of ethics; expresses an opinion on other matters presented by the president of the court of appeal, the National Council of the Judiciary and the Minister of Justice.
 
 Such an approach by the judges would completely erase the so-called reform of the judiciary It would question the judges' nominations and the ability to adjudicate of two new chambers of the Supreme Court
 
@@ -450,9 +570,9 @@ The ruling party's attacks on the judiciary beginning in Fall 2015 had a negativ
 
 However, over the next two years, trust in the judiciary increased In 2020, after previous declines, the trust in courts grew 9 points since 2018 (from 33% to 42%) Trust also increased in the Constitutional Tribunal (from 24% to 40%) and the Ombudsman (from 54% up to 64%) over the same period The level of trust in these institutions approached the level recorded in 2016 before the anti-judiciary campaign led by PiS (CBOS 2020) This change was arguably
 
-<sup>3</sup> Gersdorf was the Full Professor Labor Law at the Faculty of Law and Administration, University of Warsaw and, from 2014 to 2020, the Chief Justice of the Supreme Court of the Republic of Poland. Pilich was the Professor Associate of Private International Law at the Faculty of Law and Administration, University of Warsaw and a member of the Research and Analyses Oce of the Polish Supreme Court.
+3 Gersdorf was the Full Professor Labor Law at the Faculty of Law and Administration, University of Warsaw and, from 2014 to 2020, the Chief Justice of the Supreme Court of the Republic of Poland. Pilich was the Professor Associate of Private International Law at the Faculty of Law and Administration, University of Warsaw and a member of the Research and Analyses Oce of the Polish Supreme Court.
 
-<sup>4</sup> The European Commission for Democracy through Law—better known as the Venice Commission as it meets in Venice—is the Council of Europe's advisory body on constitutional matters. The role of the Venice Commission is to provide legal advice to its member states and, in particular, to help states wishing to bring their legal and institutional structures into line with European standards and international experience in the elds of democracy, human rights and the rule of law. It also helps to ensure the dissemination and consolidation of a common constitutional heritage, playing a unique role in conict management, and provides "emergency constitutional aid" to states in transition.
+4 The European Commission for Democracy through Law—better known as the Venice Commission as it meets in Venice—is the Council of Europe's advisory body on constitutional matters. The role of the Venice Commission is to provide legal advice to its member states and, in particular, to help states wishing to bring their legal and institutional structures into line with European standards and international experience in the elds of democracy, human rights and the rule of law. It also helps to ensure the dissemination and consolidation of a common constitutional heritage, playing a unique role in conict management, and provides "emergency constitutional aid" to states in transition.
 
 a result of the judges' resistance which brought them closer to the citizens, public education led by the resistance judges about the necessity and importance of maintaining independent courts, and their visible courage taking a public stance
 
@@ -476,9 +596,9 @@ In taking this stance, a judge abandons formalism to prioritize his conscience T
 
 Judicial activism can manifest in two ways: constructive (or legal) and disruptive (or political/ civic) Constructive judicial activism is the dynamic and creative interpretation of existing laws outside a judge's formal scope but within the boundaries of constitutional or international law Such activism complements instead of dees any law or authority, particularly in a legal or legislative vacuum would otherwise lead to systemic violations of basic rights
 
-<sup>1</sup> See more about judicial activism: Skuczyński 2019; Gomułowicz 2019; Pilich 2021. Compare Morawski 2016.
+1 See more about judicial activism: Skuczyński 2019; Gomułowicz 2019; Pilich 2021. Compare Morawski 2016.
 
-<sup>2</sup> See Taborowski 2019; Barcik 2019; Bojarski, et al 2019; Barcz, Zawidzka-Łojek 2018; the 2020 Rule of Law Report.
+2 See Taborowski 2019; Barcik 2019; Bojarski, et al 2019; Barcz, Zawidzka-Łojek 2018; the 2020 Rule of Law Report.
 
 Constructive judicial activism involves judges going beyond their traditional role of applying existing laws and taking creative approaches to interpretation Judges act to reconstruct norms in ways unsanctioned by the government although still within constitutional and international legal boundaries This is professionally risky when facing opposition from the legislative or executive branches
 
@@ -496,7 +616,7 @@ This framing says that judges who encounter a conict between a statute and what 
 
 Juxtaposing these debates with the reality faced by resisting judges in Poland, it is helpful to quote at length the public statement of the First President of the Supreme Court Małgorzata
 
-<sup>3</sup> Judicial resistance against the authoritarian drift of the state should be distinguished from judicial resistance against legal change. See Tokson 2015; Zajadło 2016 and 2017. By "judge's conscience" is meant mental quality, the ability to adequately assess one's own behavior as compliant or inconsistent with accepted ethical standards, and the awareness of moral responsibility for one's actions.
+3 Judicial resistance against the authoritarian drift of the state should be distinguished from judicial resistance against legal change. See Tokson 2015; Zajadło 2016 and 2017. By "judge's conscience" is meant mental quality, the ability to adequately assess one's own behavior as compliant or inconsistent with accepted ethical standards, and the awareness of moral responsibility for one's actions.
 
 Gersdorf who, in April 2016, addressed the General Assembly of Constitutional Tribunal's Judges:
 
@@ -581,7 +701,7 @@ The ECHR has armed through its case law that when a matter has political implica
 
 The evolving boundaries of what judges can and should do to resist authoritarianism are being shaped at the European level by the CJEU and the ECHR (Activist 2, second interview) Under normal circumstances, judges operate as ocials without fear for their independence, and there is no attack on the rule of law However, according to Koen Lenaerts, President of the CJEU, "judges should not express themselves, through whatever medium, in a manner which adversely aects the public perception of their impartiality This does, however, not
 
-<sup>4</sup> Judgments of the ECHR in Baka v. Hungary (2014), Kudeshkina v. Russia (2009); Wille v. Liechtenstein (1999). See also: Joint opinion of the Venice Commission and OSCE/ODIHR on the draft amendments to the legal framework on the disciplinary responsibility of judges in the Kyrgyz Republic, CDL-AD(2014)018, §34 and Commentary on The Bangalore Principles §138.
+4 Judgments of the ECHR in Baka v. Hungary (2014), Kudeshkina v. Russia (2009); Wille v. Liechtenstein (1999). See also: Joint opinion of the Venice Commission and OSCE/ODIHR on the draft amendments to the legal framework on the disciplinary responsibility of judges in the Kyrgyz Republic, CDL-AD(2014)018, §34 and Commentary on The Bangalore Principles §138.
 
 prevent them from explaining the basic requirements of the rule of law"(Wójcik 2020) Judges have freedom of expression concerning the basic values of the EU legal order, such as democracy, the rule of law, and fundamental rights Some limitations do exist For instance, judges should avoid commenting on specic government policies, but they have the right to speak out when signicant changes occur in the justice system and human rights protection But they can defend their positions through media commentary, publishing scholarly articles, and are not conned solely to writing judgments
 
@@ -731,9 +851,9 @@ Other judges had more personal journeys to resistance For Judge 24, the moment t
 
 There were also conversations with people that there was nothing to be afraid of. But the rst signatures we collected in 2016 in protest against the takeover of the Constitutional Tribunal were signed by people who voted for PiS but did not consent to the ruling party's actions. People who, in line with their political views, would not have to, still got involved. After two years, those who remained silent started using sinecures.6 Certainly, there was an external department inside the community right away when the Constitutional Tribunal was killed. In September 2016, I went to the rst convention of Polish at the Palace of Culture and Science. I persuaded a few people. I immediately
 
-<sup>5</sup> This latter point concerns the famous voting in the Column Hall. MPs from the opposition blocked the Sejm, so PiS moved the meeting to the Column Hall and did not allow them to vote on the budget. There was a criminal investigation that was discontinued. Judge Igor Tuleya, who adjudicated the appeal against discontinuation, decided to reveal information from the investigation to journalists, which they used to start criminal proceedings against him. He was suspended, his remuneration cut and immunity waived.
+5 This latter point concerns the famous voting in the Column Hall. MPs from the opposition blocked the Sejm, so PiS moved the meeting to the Column Hall and did not allow them to vote on the budget. There was a criminal investigation that was discontinued. Judge Igor Tuleya, who adjudicated the appeal against discontinuation, decided to reveal information from the investigation to journalists, which they used to start criminal proceedings against him. He was suspended, his remuneration cut and immunity waived.
 
-<sup>6</sup> For example, accepting posts, getting functions, and securing promotions.
+6 For example, accepting posts, getting functions, and securing promotions.
 
 got to Iustitia's media team. (I have always been a member of Iustitia, previously organizing trainings, trips, and even reactions against the liquidation of small courts.) I naturally threw myself into a big bag of activities. I certainly acted personally and activated the judges (about 30 to 35 in my city) and they got involved in the next changes and the National Council of the Judiciary. We already knew who got sick.
 
@@ -832,7 +952,7 @@ The Polish NGO Akcja Demokracja ("Action Democracy" or AD) was launched in 2015 
 
 AD also organized the Chain of Lights protest against the changes to the Supreme Court introduced in 2017, calling on citizens for mass protests (Miecik 2017) In April, supported by donations from activists, they bought billboards inve cities (Kraków, Poznań,Łódź, Warsaw, and Włocławek), on which they directly asked PiS deputies sitting in the Parliamentary
 
-<sup>1</sup> The Kaczynski brothers were identical twins. Lech Kaczyński was Poland's President (2005–2010). On 10 April 2010, Lech Kaczyński died, along with his wife, in the crash of a Polish Air Force jet that occurred while landing at Smolensk North Airport in Russia. Jarosław Kaczyński was the Prime Minister (2006–2007) and is the Head of the Law and Justice Party.
+1 The Kaczynski brothers were identical twins. Lech Kaczyński was Poland's President (2005–2010). On 10 April 2010, Lech Kaczyński died, along with his wife, in the crash of a Polish Air Force jet that occurred while landing at Smolensk North Airport in Russia. Jarosław Kaczyński was the Prime Minister (2006–2007) and is the Head of the Law and Justice Party.
 
 ## ![](_page_59_Picture_0.jpeg)
 
@@ -960,7 +1080,7 @@ In January 2021, seven prosecutors from Lex Super Omnia were relegated far away 
 
 Repressions do not make a negative impression on us. The amount of harassment motivates me more to ght. I will ght to the end to eliminate lawlessness. The National
 
-<sup>2</sup> Magistrats Européens pour la Démocratie et les Libertés (MEDEL) was founded in Strasbourg in June 1985 by eight trade unions and associations of judges and prosecutors from Belgium, France, Germany, Italy, Portugal, and Spain. After the fall of the Berlin Wall and the disappearance of the Iron Curtain, MEDEL was strongly committed to supporting the establishment of independent judicial institutions that respect the rule of law in the former Eastern Bloc countries. The association gradually expanded, welcoming new organizations of judges and prosecutors from Bulgaria, Cyprus, Czech Republic, Greece, Moldova, Montenegro, Poland, Romania, Serbia, and Turkey.
+2 Magistrats Européens pour la Démocratie et les Libertés (MEDEL) was founded in Strasbourg in June 1985 by eight trade unions and associations of judges and prosecutors from Belgium, France, Germany, Italy, Portugal, and Spain. After the fall of the Berlin Wall and the disappearance of the Iron Curtain, MEDEL was strongly committed to supporting the establishment of independent judicial institutions that respect the rule of law in the former Eastern Bloc countries. The association gradually expanded, welcoming new organizations of judges and prosecutors from Bulgaria, Cyprus, Czech Republic, Greece, Moldova, Montenegro, Poland, Romania, Serbia, and Turkey.
 
 Public Prosecutor's Oce shows helplessness, weakness, high emotionality, and does not know how to deal with resisting prosecutors. I am ready to be discharged from my profession for what I am doing.
 
@@ -1100,8 +1220,13 @@ TABLE 1. Judges' Tactics Using Actions of Expression
 
 | | NATURE OF TACTIC INDUCEMENTS | |
 |-----------------------------------|--------------------------------------------------------|-------------------------------------------------------|
-| Resistance<br>Behavior | CONFRONTATIONAL COERCIVE | CONSTRUCTIVE PERSUASIVE |
-| Acts of<br>Expression<br>(Saying) | Protest<br>Communicative action to criticize or coerce | Appeal<br>Communicative actions to inform or persuade |
+| Resistance
+Behavior | CONFRONTATIONAL COERCIVE | CONSTRUCTIVE PERSUASIVE |
+| Acts of
+Expression
+(Saying) | Protest
+Communicative action to criticize or coerce | Appeal
+Communicative actions to inform or persuade |
 
 ## Source: Beer 2021
 
@@ -1373,7 +1498,7 @@ Judge Tuleya also wrote a public letter in which he disagreed with the refusal o
 
 The Polish judges wrote a letter to OSCE1 requesting the organization to monitor the Polish presidential election in April 2020 The letter was prepared by judges from Szczecin Its 612 signatories—all judges—addressed Ambassador Ingibjörg Sólrún Gísladóttir, the head of the OSCE Oce for Democratic Institutions and Human Rights in Warsaw (Jałoszewski 2020) The judges called for "an in-depth monitoring of the ongoing electoral process in Poland " The letter was a reaction to the law adopted that month under which the presidential election would be held entirely through mail-in ballots on May 10 (eventually the election did not take place) On May 11, 2020, PiS MPs submitted a draft of a new law restoring the possibility of voting in polling stations, and those willing and quarantined to use the possibility of voting by correspondence It was amended because Deputy Prime Minister Jarosław Gowin refused to take responsibility for all the irregularities connected with the unconstitutional voting on May 10 "As judges of Polish courts at all levels, we are concerned about changes in the electoral law We are concerned about the threat of such basic standards as the principle of universality of elections and secrecy of voting We shall never abandon the independence of courts and judges And we shall never leave our Colleagues without help, support and solidarity" (Woźnicki 2020) The electionnally took place on June 28, 2020
 
-<sup>1</sup> ODIHR carries out election observation in OSCE-participating states to assess the extent to which elections respect fundamental freedoms and are characterized by equality, universality, political pluralism, condence, transparency and accountability. A long-term, comprehensive, consistent, and systematic election observation methodology has become the bedrock of ODIHR's credibility in this eld. The Oce also supports authorities in their eorts to improve electoral processes and to follow up on recommendations by ODIHR election observation missions, by reviewing election-related legislation, providing technical expertise, and supporting the activities of citizen observer groups.
+1 ODIHR carries out election observation in OSCE-participating states to assess the extent to which elections respect fundamental freedoms and are characterized by equality, universality, political pluralism, condence, transparency and accountability. A long-term, comprehensive, consistent, and systematic election observation methodology has become the bedrock of ODIHR's credibility in this eld. The Oce also supports authorities in their eorts to improve electoral processes and to follow up on recommendations by ODIHR election observation missions, by reviewing election-related legislation, providing technical expertise, and supporting the activities of citizen observer groups.
 
 In the letter dated April 29, 2020, the judges requested the OSCE/ODIHR send observers to monitor the presidential election by mail They emphasized that many Poles would not be able to take part in such elections due to the COVID-19 epidemic A total of 1,278 judges from all over Poland signed the letter, including a group of 31 judges from the Regional Court in Piotrków Trybunalski and its subordinate district courts (17 such judges of district courts signed the letter to the OSCE) Of all the judges who signed the petition, only the district judges from Piotrków Trybunalski received the letters from the disciplinary commissioner with the demand to provide explanations in terms of eventual disciplinary proceedings (Judge 2019d)
 
@@ -1495,8 +1620,16 @@ TABLE 2. Judges' Tactics Using Actions of Omission
 
 | | | NATURE OF TACTIC INDUCEMENTS | | |
 |------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|--|--|
-| Resistance<br>Behavior | CONFRONTATIONAL COERCIVE | CONSTRUCTIVE PERSUASIVE | | |
-| Acts of<br>Omission<br>(Not Doing) | Noncooperation<br>Refusal to engage in expected behavior through boy<br>cotts and strikes in order to penalize or increase costs on<br>the opponent | Refraining<br>Halting or calling o a planned or ongoing action to<br>reward or persuade the opponent | | |
+| Resistance
+Behavior | CONFRONTATIONAL COERCIVE | CONSTRUCTIVE PERSUASIVE | | |
+| Acts of
+Omission
+(Not Doing) | Noncooperation
+Refusal to engage in expected behavior through boy
+cotts and strikes in order to penalize or increase costs on
+the opponent | Refraining
+Halting or calling o a planned or ongoing action to
+reward or persuade the opponent | | |
 
 ## Source: Beer 2021
 
@@ -1554,7 +1687,7 @@ The courts' interpretation emphasized that compulsory face coverings were only p
 
 The words of the judge's oath and the ethos of the judicial service are not empty phrases for me, but signposts setting the only way to proceed. I have a duty to respect the
 
-<sup>2</sup> The government introduced almost 50 regulations providing i.e. compulsory face coverings, strict limits on public gatherings, quarantine for those traveling from abroad or the closure of certain businesses and venues. The parliament authorized sanitary authorities to impose administrative nes of up to 30,000 zloty (€6,650) for violating the said measures and limited eective judicial review by making them immediately enforceable. Fines that can be imposed on the spot by police under the petty oenses code have also been increased to 5,000 zloty (€1,100).
+2 The government introduced almost 50 regulations providing i.e. compulsory face coverings, strict limits on public gatherings, quarantine for those traveling from abroad or the closure of certain businesses and venues. The parliament authorized sanitary authorities to impose administrative nes of up to 30,000 zloty (€6,650) for violating the said measures and limited eective judicial review by making them immediately enforceable. Fines that can be imposed on the spot by police under the petty oenses code have also been increased to 5,000 zloty (€1,100).
 
 European convention and the judgments of the tribunal, which indicates how to proceed to ensure that every human being respects his fundamental rights. In the present situation, my private concerns are relegated to the background. I did not decide to become a judge only for good times. (Szymaniak and Kryszkiewicz 2021)
 
@@ -1674,8 +1807,18 @@ TABLE 3. Judges' Tactics Using Actions of Commission
 
 | | NATURE OF TACTIC INDUCEMENTS | |
 |--------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Resistance<br>behavior | CONFRONTATIONAL COERCIVE | CONSTRUCTIVE PERSUASIVE |
-| Acts of<br>Commission<br>(Doing or<br>Creating<br>Something) | Disruptive Intervention<br>Direct action that confronts another party to stop,<br>disrupt, or change their behavior | Creative Intervention<br>Direct action that models or constructs alternative<br>(competing) behaviors and institutions or takes over<br>existing institutions |
+| Resistance
+behavior | CONFRONTATIONAL COERCIVE | CONSTRUCTIVE PERSUASIVE |
+| Acts of
+Commission
+(Doing or
+Creating
+Something) | Disruptive Intervention
+Direct action that confronts another party to stop,
+disrupt, or change their behavior | Creative Intervention
+Direct action that models or constructs alternative
+(competing) behaviors and institutions or takes over
+existing institutions |
 
 ## Source: Beer 2021
 
@@ -1827,11 +1970,11 @@ The resistance collected cases of repression and categorized them into disciplin
 
 9.1 Creating an option for financial resources and legal aids for the repressed judges and prosecutors Since suspending judges meant a signicant decrease in their salary, the Senior Judge's Home Foundation has created a special aid fund, from which non-refundablenancial aid is
 
-<sup>3</sup> These include pending cases of Brodowiak and Dżus v. Poland (nos. 28122/20 and 48599/20), Biliński v. Poland (no. 13278/20), Pionka v. Poland (no. 26004/20), and Tuleya v. Poland (no. 21181/19).
+3 These include pending cases of Brodowiak and Dżus v. Poland (nos. 28122/20 and 48599/20), Biliński v. Poland (no. 13278/20), Pionka v. Poland (no. 26004/20), and Tuleya v. Poland (no. 21181/19).
 
-<sup>4</sup> Xero Flor w Polsce sp. z o.o. v. Poland, 4907/18, 7 May 2021; Broda and Bojara v. Poland, 26691/18 and 27367/18, 29 June 2021; Reczkowicz v. Poland, 43447/19, 22 July 2021; Dolińska-Ficek and Ozimek v. Poland, 49868/19 and 57511/19, 8 November 2021; Advance Pharma sp. z o.o v. Poland, 1469/20, 3 February 2022; Grzęda v. Poland [GC], 43572/18, 15 March 2022; Żurek v. Poland, no. 39650/18, 16 June 2022; Juszczyszyn v. Poland, 35599/20, 6 October 2022.
+4 Xero Flor w Polsce sp. z o.o. v. Poland, 4907/18, 7 May 2021; Broda and Bojara v. Poland, 26691/18 and 27367/18, 29 June 2021; Reczkowicz v. Poland, 43447/19, 22 July 2021; Dolińska-Ficek and Ozimek v. Poland, 49868/19 and 57511/19, 8 November 2021; Advance Pharma sp. z o.o v. Poland, 1469/20, 3 February 2022; Grzęda v. Poland [GC], 43572/18, 15 March 2022; Żurek v. Poland, no. 39650/18, 16 June 2022; Juszczyszyn v. Poland, 35599/20, 6 October 2022.
 
-<sup>5</sup> See **https://komitetobronysprawiedliwosci.pl/archiwum-represji/**.
+5 See **https://komitetobronysprawiedliwosci.pl/archiwum-represji/**.
 
 allocated to support the judges For example, Judge PawełJuszczyszyn has been getting 40 percent less income for 1 5 years The fund covers the missing salary It is based on the contributions of individual persons, mostly other judges, who regularly contribute each month (Judge 7) Judge 2 said:
 
@@ -1887,7 +2030,7 @@ Another Awareness Raising event was the "Tour de Konstytucja," which ran from Ju
 
 It was necessary to awaken the feeling that there are more of us and to want to act again, to feel good energy, to give a hope to active and conscious people. To make noise in this area, so that those who live in the "TVPiS"6 bubble think about why we need to talk about breaking the constitution and what we can do about it. There were also those in the crowd who tried to interrupt or were skeptical, but we always had someone who politely spoke to them.
 
-<sup>6</sup> The name is a portmanteau of TVP (the state-controlled public television) and PiS.
+6 The name is a portmanteau of TVP (the state-controlled public television) and PiS.
 
 All suspended judges like Igor Tuleya or PawełJuszczyszyn were engaged in this educational campaign Iustitia covered train tickets or gas for the judges to participate in the tours Coordination of the Tour de Constitution is based on cooperation and contacts with citizens from civic, and local networks and organizations such as local KOD As part of the Tour de Constitution, trial scenarios and questions for constitutional quizzes are prepared There was also a "Rule of Law" relay race "It is about walking a few kilometers for the rule of law," according to Judge 7, who was one of the organizers
 
@@ -1960,15 +2103,134 @@ TABLE 4. Mapping the Judges' Civil Resistance Tactics
 | Resistance | NATURE OF TACTIC INDUCEMENTS | | | | | | |
 |------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
 | Behavior | CONFRONTATIONAL OR CONSTRUCTIVE | | | | | | |
-| Acts of<br>Expression<br>(Saying) | | | Protest or Appeal<br>Communicative action to criticize, coerce, inform, or persuade | | | | |
+| Acts of
+Expression
+(Saying) | | | Protest or Appeal
+Communicative action to criticize, coerce, inform, or persuade | | | | |
 | | HUMAN BODY | MATERIAL ARTS | DIGITAL TECHNOLOGY | | HUMAN LANGUAGE | | |
-| | 1. March of 1000<br>Gowns<br>2. Standing with<br>letters<br>3. Black Friday protest<br>4. Attending disci<br>plinary proceedings<br>5. Running in soli<br>darity<br>6. Gathering of judges<br>in front Supreme<br>Court | 1. KonsTYtucJA T-shirts<br>2. Hanging posters in<br>Courts<br>3. Decorating Christ<br>mas trees<br>4. Distributing stickers<br>and nametags<br>5. Placing stickers on<br>court windows<br>Shaming NCJ candi<br>dates | 1. Anonymous blogging<br>2. Podcasts<br>3. You Tube videos<br>4. Social media and messag<br>ing apps<br>5. Government's centralized<br>email system | | 1. Resistance through writing<br>2. Open protest letters<br>3. Letters to international organizations<br>4. Press articles<br>5. Articles encouraging popular mobili<br>zation<br>6. Awareness raising and education<br>during festivals<br>7. Academic pulpit<br>8. School courses<br>9. Legal resolutions<br>10. Constant update on websites<br>11. Outreach to local media<br>12. Outreach to foreign media<br>13. Translating public documents | | |
-| Acts of<br>Omission<br>(Not Doing) | | | Noncooperation<br>Refusal to engage in expected behavior through boycotts and strikes<br>in order to penalize or increase costs on the opponent | | | | |
+| | 1. March of 1000
+Gowns
+2. Standing with
+letters
+3. Black Friday protest
+4. Attending disci
+plinary proceedings
+5. Running in soli
+darity
+6. Gathering of judges
+in front Supreme
+Court | 1. KonsTYtucJA T-shirts
+2. Hanging posters in
+Courts
+3. Decorating Christ
+mas trees
+4. Distributing stickers
+and nametags
+5. Placing stickers on
+court windows
+Shaming NCJ candi
+dates | 1. Anonymous blogging
+2. Podcasts
+3. You Tube videos
+4. Social media and messag
+ing apps
+5. Government's centralized
+email system | | 1. Resistance through writing
+2. Open protest letters
+3. Letters to international organizations
+4. Press articles
+5. Articles encouraging popular mobili
+zation
+6. Awareness raising and education
+during festivals
+7. Academic pulpit
+8. School courses
+9. Legal resolutions
+10. Constant update on websites
+11. Outreach to local media
+12. Outreach to foreign media
+13. Translating public documents | | |
+| Acts of
+Omission
+(Not Doing) | | | Noncooperation
+Refusal to engage in expected behavior through boycotts and strikes
+in order to penalize or increase costs on the opponent | | | | |
 | | POLITICAL | | | | SOCIAL | | |
-| | 1. No court hearting days<br>2. Refusing to adjudicate with politicized judges<br>3. Boycotting candidate submissions<br>4. Boycotting promotion process<br>5. Refusing to give candidate opinions<br>6. Refusing added duties<br>7. Disobeying unjust laws<br>8. Disobeying requirement to reveal associations<br>9. Strikes | | | 2. Resignation<br>3. Ostracism | 1. Not participating in disciplinary proceedings<br>4. Withholding respect<br>5. Refusing to call neo-judges "President" | | |
-| Acts of<br>Commission<br>(Doing or | | Direct action that confronts another party to stop, disrupt, or change their behavior, or that models<br>or constructs alternative (competing) behaviors and institutions or takes over existing institutions | Disruptive or Creative Intervention | | | | |
-| Creating<br>Something) | POLITICAL/JUDICIAL<br>DISRUPTION | POLITICAL/JUDICIAL<br>CREATIVE<br>INTERVENTION | ECONOMIC<br>CREATIVE<br>INTERVENTION | LEGAL | SOCIAL<br>CREATIVE<br>INTERVENTION | PSYCHOLOGICAL<br>CREATIVE<br>INTERVENTION | |
-| | 1. Kamikaze strategy<br>2. Disclosing record<br>ings<br>3. Brief work stop<br>pages<br>4. Using hearings to<br>explain resistance<br>5. Self-denunciation<br>6. Asking for repres<br>sive orders in writing | 1. Dismissing court<br>decisions by illegitimate<br>judges<br>2. Challenging regime's<br>constitutionality<br>3. Submitting pre<br>liminary questions to<br>European Court<br>4. Use of legal options<br>5. Lawsuits and com<br>plaints<br>6. Gathering and ar<br>chiving information | 1. Creating nan<br>cial resources for<br>repressed judges<br>and prosecutors | 1. Pro<br>bono at<br>torneys<br>2. Pro<br>bono<br>judges | 1. Establishing<br>the Foundation<br>of Legal Educa<br>tion<br>2. Events to raise<br>awareness<br>3. Tour de Kons<br>tytucja | 1. Expression of<br>solidarity and psy<br>chological aid<br>2. Small gestures of<br>kindness<br>3. Signature drive<br>4. Psychological<br>support<br>5. Solidarity with<br>repressed prose<br>cutors<br>6. Solidarity seles | |
+| | 1. No court hearting days
+2. Refusing to adjudicate with politicized judges
+3. Boycotting candidate submissions
+4. Boycotting promotion process
+5. Refusing to give candidate opinions
+6. Refusing added duties
+7. Disobeying unjust laws
+8. Disobeying requirement to reveal associations
+9. Strikes | | | 2. Resignation
+3. Ostracism | 1. Not participating in disciplinary proceedings
+4. Withholding respect
+5. Refusing to call neo-judges "President" | | |
+| Acts of
+Commission
+(Doing or | | Direct action that confronts another party to stop, disrupt, or change their behavior, or that models
+or constructs alternative (competing) behaviors and institutions or takes over existing institutions | Disruptive or Creative Intervention | | | | |
+| Creating
+Something) | POLITICAL/JUDICIAL
+DISRUPTION | POLITICAL/JUDICIAL
+CREATIVE
+INTERVENTION | ECONOMIC
+CREATIVE
+INTERVENTION | LEGAL | SOCIAL
+CREATIVE
+INTERVENTION | PSYCHOLOGICAL
+CREATIVE
+INTERVENTION | |
+| | 1. Kamikaze strategy
+2. Disclosing record
+ings
+3. Brief work stop
+pages
+4. Using hearings to
+explain resistance
+5. Self-denunciation
+6. Asking for repres
+sive orders in writing | 1. Dismissing court
+decisions by illegitimate
+judges
+2. Challenging regime's
+constitutionality
+3. Submitting pre
+liminary questions to
+European Court
+4. Use of legal options
+5. Lawsuits and com
+plaints
+6. Gathering and ar
+chiving information | 1. Creating nan
+cial resources for
+repressed judges
+and prosecutors | 1. Pro
+bono at
+torneys
+2. Pro
+bono
+judges | 1. Establishing
+the Foundation
+of Legal Educa
+tion
+2. Events to raise
+awareness
+3. Tour de Kons
+tytucja | 1. Expression of
+solidarity and psy
+chological aid
+2. Small gestures of
+kindness
+3. Signature drive
+4. Psychological
+support
+5. Solidarity with
+repressed prose
+cutors
+6. Solidarity seles | |
 
 ## Adapted from Beer 2021
 
@@ -2075,7 +2337,7 @@ In Egypt, the courts have played a dual role, serving both the regime and its op
 
 This struggle has continued under President Abdel Fattah El-Sisi, who imposed severe measures against Egyptian civil society, including against the right to protest and the freedom of assembly However, the courts have challenged some executive decisions One example is the Supreme Administrative Court's ruling in January 2017, which upheld Egyptian sovereignty over the Tiran and Sanar islands, countering Sisi's decision to transfer their control
 
-<sup>1</sup> See forthcoming ICNC Press memoir by anonymous Egyptian activist.
+1 See forthcoming ICNC Press memoir by anonymous Egyptian activist.
 
 to Saudi Arabia (Reuters in Cairo 2016) The ruling reected a popular opposition to ceding the islands' sovereignty While the court system may not want or be able to threaten the core of the regime, these cases highlight that the judiciary can exhibit surprising levels of independence when it aligns with public sentiment or the mobilized resistance on the streets, despite the executive's apparent dominance (Aziz 2016)
 
@@ -2089,7 +2351,7 @@ On 4 April 2019, approximately 30 Romanian judges and prosecutors protested at t
 
 That same year, the Romanian Judges' Forum Association sought the opinion of the Bureau of the Consultative Council of European Judges (CCJE) regarding the independence of the judiciary in Romania According to the opinion: "Judges certainly have the right to stand against any other policies or actions aecting their independence resulting from new legislation or amendments to the existing one or in the case of discriminatory or selective
 
-<sup>2</sup> In order of population from greatest to least: Bucharest, Cluj, Timișoara, Iași, Constanța, Craiova, Galați, Brașov, Pitești, Bacău, Oradea, Brăila, Târgu Mureș, Botoșani, Suceava, Baia Mare, Satu Mare, Piatra Neamț, Târgoviște, Tulcea, Slatina, Călărași, Zalău, Miercurea Ciuc.
+2 In order of population from greatest to least: Bucharest, Cluj, Timișoara, Iași, Constanța, Craiova, Galați, Brașov, Pitești, Bacău, Oradea, Brăila, Târgu Mureș, Botoșani, Suceava, Baia Mare, Satu Mare, Piatra Neamț, Târgoviște, Tulcea, Slatina, Călărași, Zalău, Miercurea Ciuc.
 
 approaches during the selection or appointment of judges, or political engineering to provide for a decisive role of the dominant political force, for example, during elections/appointment by Parliament, or interference into the judicial administration through executive bodies, for example by the Ministries of Justice, as well as in other cases" (Călin and Pîrlog 2021)
 
@@ -2216,7 +2478,8 @@ In considering judicial resistance in Poland, this study incorporated the voices
 | Judge 23 | F | 11 Aug 2021 | Judge from the regional court in Central Poland | |
 | Judge 24 | F | 11 Aug 2021 | Judge from the regional court in Southern Poland | |
 | Judge 25 | F | 13 Aug 2021 | Judge from the supreme court | |
-| Judge 26 | M | 13 Sep 2021 | Former judge of the Constitutional Tribunal<br>and academic | |
+| Judge 26 | M | 13 Sep 2021 | Former judge of the Constitutional Tribunal
+and academic | |
 | Judge 27 | M | 2 Aug 2021 | Judge from the supreme court | |
 | LAWYERS | | | | |
 | Interviewee | Gender | Interview Date | Prole | |
@@ -2230,17 +2493,20 @@ In considering judicial resistance in Poland, this study incorporated the voices
 | Lawyer 8 | M | 22 Jul 2021 | Lawyer and academic from Central Poland | |
 | | | ACTIVISTS | | |
 | Interviewee | Gender | Interview Date | Prole | |
-| Activist 1 | M | 23 Jun 2021 | Chairman of one of the biggest civil society<br>organazations defending the rule of law | |
+| Activist 1 | M | 23 Jun 2021 | Chairman of one of the biggest civil society
+organazations defending the rule of law | |
 | Activist 2 | F | 25 Jun- 6 Jul 2021 | Activist and lawyer from NGO in a big city | |
 | Activist 3 | F | 29 Jul 2021 | Lawyer from an NGO in Central Poland | |
 | Activist 4 | F | 9 Aug 2021 | Lawyer, academic and activist | |
 | PROSECUTORS | | | | |
 | Interviewee | Gender | Interview Date | Prole | |
 | Prosecutor 1 | F | 2 Jul 2021 | Prosecutor from the regional prosecutor's oce | |
-| Prosecutor 2 | F | 3 Aug 2021 | Prosecutor from the district prosecutor's oce in<br>Central Poland | |
+| Prosecutor 2 | F | 3 Aug 2021 | Prosecutor from the district prosecutor's oce in
+Central Poland | |
 | ACADEMICS | | | | |
 | Interviewee | Gender | Interview Date | Prole | |
-| Academic 1 | M | 8 Jul 2021 | Former judge of the Constitutional Tribunal and aca<br>demic | |
+| Academic 1 | M | 8 Jul 2021 | Former judge of the Constitutional Tribunal and aca
+demic | |
 | Academic 2 | M | 4 Aug 2021 | Academic from France | |
 
 ## Works Cited
@@ -2284,8 +2550,7 @@ In considering judicial resistance in Poland, this study incorporated the voices
 **European** Court of Human Rights. "Communication in the case of Biliński v. Poland (no. 13278/20)."
 
 
-––––– "Communication in the case of Brodo-
-wiak and Dżus v. Poland (nos. 28122/20 and 
+––––– "Communication in the case of Brodowiak and Dżus v. Poland (nos. 28122/20 and 
 48599/20)."
 ––––– "Communication in the case of Pionka 
 v. Poland (no. 26004/20)."
@@ -2308,8 +2573,7 @@ Poland, no. 39650/18."
 ––––– "Judgment of 22 July 2021, Reczkowicz 
 and Others v. Poland nos. 43447/19, 49868/19 
 and 57511/19."
-––––– "Judgment of 3 February 2022, Ad-
-vance Pharma sp. z o.o v. Poland, no. 1469/20."
+––––– "Judgment of 3 February 2022, Advance Pharma sp. z o.o v. Poland, no. 1469/20."
 ––––– "Judgment of 6 October 2022, 
 Juszczyszyn v. Poland, no. 35599/20."
 ––––– "Judgment of 7 May 2021, Xero Flor w 

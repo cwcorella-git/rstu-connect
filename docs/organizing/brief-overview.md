@@ -1,13 +1,10 @@
 ---
-date: 2025
-author: Reno Sparks Tenants Union
-tags:
-  - organizing
-  - unions
-  - tenants
-  - rent
 title: "brief-overview"
+author: "Reno Sparks Tenants Union"
+date: "2025"
+category: "organizing"
 ---
+
 # brief-overview
 
 *Converted from: `./brief-overview.pdf`*  
@@ -102,7 +99,6 @@ Compiled by RSTU (add logo)               respond to a problem.             Emer
                                                             process.
 
 
-
 Note: Each “page” of a zine is 2.25”x3.75” (check that the table does not extend beyond 3.75” row height)
 This is not in the correct order — just to figure out rough draft text info
 Suggested text size: 10 pt minimum; can increase if possible (depending on how info dense ea. page is) but always good to leave room for
@@ -131,4 +127,3 @@ Notes:
 
 
 ---
-

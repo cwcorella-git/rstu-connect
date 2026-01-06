@@ -1,3 +1,8 @@
+---
+title: "**Biomega (manga)**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Biomega_(manga))
 
 # **Biomega (manga)**
@@ -23,14 +28,36 @@
 | | • Thriller[2] |
 |------------------------|-----------------------------------------------------------------------------------|
 | Manga | |
-| Written<br>by | Tsutomu Nihei |
-| Published<br>by | • Kodansha |
+| Written
+by | Tsutomu Nihei |
+| Published
+by | • Kodansha |
 | | • Shueisha |
-| English<br>publisher | • NA:<br>Viz Media |
+| English
+publisher | • NA:
+Viz Media |
 | Imprint | • Young Magazine KC (2004) |
 | | • Young Jump Comics Ultra (2006–2009) |
-| Magazine | • Weekly<br>Magazine<br>(June<br>Young<br>14<br>–<br>September<br>2004)<br>6<br>, |
-| | • Ultra<br>(May<br>19<br>2006<br>19<br>Jump<br>– January<br>,<br>,<br>2009) |
+| Magazine | • Weekly
+Magazine
+(June
+Young
+14
+–
+September
+2004)
+6
+, |
+| | • Ultra
+(May
+19
+2006
+19
+Jump
+– January
+,
+,
+2009) |
 | Demographic | Seinen |
 | Original run | June 14, 2004 – January 19, 2009 |
 | Volumes | 6 |
@@ -130,17 +157,46 @@ Biomega, written and illustrated by [Tsutomu Nihei,](https://en.wikipedia.org/wi
 
 In North America, the manga was licensed for English release by [Viz Media.](https://en.wikipedia.org/wiki/Viz_Media) [\[12\]](#page-12-0) The six volumes were released from February 2, 2010[,\[13\]](#page-12-1) to May 17, 2011[.\[14\]](#page-12-2)
 
-| No. | Original<br>release<br>date | Original ISBN | English<br>release<br>date | English ISBN |
+| No. | Original
+release
+date | Original ISBN | English
+release
+date | English ISBN |
 |-----|--------------------------------------------------------------------------------------|--------------------------------------------------------------------|----------------------------|-------------------|
-| 1 | November<br>5, 2004<br>(Kodansha)<br>[3]<br>January 19,<br>2007<br>(Shueisha)<br>[9] | 978-4-06-361282-0<br>(Kodansha)<br>978-4-08-877210-3<br>(Shueisha) | February<br>2,<br>2010[13] | 978-1-4215-3184-7 |
-| 2 | January 19,<br>2007[9] | 978-4-08-877211-0 | May 11,<br>2010[15] | 978-1-4215-3185-4 |
-| 3 | August 17,<br>2007[9] | 978-4-08-877317-9 | August<br>10,<br>2010[16] | 978-1-4215-3186-1 |
+| 1 | November
+5, 2004
+(Kodansha)
+[3]
+January 19,
+2007
+(Shueisha)
+[9] | 978-4-06-361282-0
+(Kodansha)
+978-4-08-877210-3
+(Shueisha) | February
+2,
+2010[13] | 978-1-4215-3184-7 |
+| 2 | January 19,
+2007[9] | 978-4-08-877211-0 | May 11,
+2010[15] | 978-1-4215-3185-4 |
+| 3 | August 17,
+2007[9] | 978-4-08-877317-9 | August
+10,
+2010[16] | 978-1-4215-3186-1 |
 
-| 4 | February<br>19, | 978-4-08-877405-3 | November<br>9, | 978-1-4215-3187-8 |
+| 4 | February
+19, | 978-4-08-877405-3 | November
+9, | 978-1-4215-3187-8 |
 |---|------------------------------|-------------------|----------------------------|-------------------|
 | | 2008[17] | | 2010[18] | |
-| 5 | September<br>19,<br>2008[19] | 978-4-08-877517-3 | February<br>8,<br>2011[20] | 978-1-4215-3188-5 |
-| 6 | March 19,<br>2009[10] | 978-4-08-877622-4 | May 17,<br>2011[14] | 978-1-4215-3277-6 |
+| 5 | September
+19,
+2008[19] | 978-4-08-877517-3 | February
+8,
+2011[20] | 978-1-4215-3188-5 |
+| 6 | March 19,
+2009[10] | 978-4-08-877622-4 | May 17,
+2011[14] | 978-1-4215-3277-6 |
 
 In a list of "10 Great Zombie Manga", [Anime News Network](https://en.wikipedia.org/wiki/Anime_News_Network)'s Jason Thompson placed Biomega in third place, calling it "the greatest science-fiction virus zombie manga ever".[\[21\]](#page-12-9)
 

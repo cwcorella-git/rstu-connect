@@ -1,3 +1,8 @@
+---
+title: "**Conflict of the Orders**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Conflict_of_the_Orders)
 
 # **Conflict of the Orders**

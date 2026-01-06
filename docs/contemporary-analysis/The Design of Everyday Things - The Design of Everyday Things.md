@@ -1,3 +1,8 @@
+---
+title: "THE DESIGN OF EVERYDAY THINGS"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Figure_1.jpeg)
 
 ## ![](_page_0_Picture_2.jpeg)
@@ -116,14 +121,67 @@ Norman, Donald A.
 
 | Preface to the Revised Edition | xi |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----|
-| The Psychopathology of Everyday Things<br>The Complexity of Modern Devices, 4<br>Human-Centered Design, 8<br>Fundamental Principles of Interaction, 10<br>The System Image, 31<br>The Paradox of Technology, 32<br>The Design Challenge, 34 | 1 |
-| The Psychology of Everyday Actions<br>How People Do Things: The Gulfs of Execution<br>and Evaluation, 38<br>The Seven Stages of Action, 40<br>Human Thought: Mostly Subconscious, 44<br>Human Cognition and Emotion, 49<br>The Seven Stages of Action and the<br>Three Levels of Processing, 55<br>People as Storytellers, 56<br>Blaming the Wrong Things, 59<br>Falsely Blaming Yourself, 65<br>The Seven Stages of Action:<br>Seven Fundamental Design Principles, 71 | 37 |
+| The Psychopathology of Everyday Things
+The Complexity of Modern Devices, 4
+Human-Centered Design, 8
+Fundamental Principles of Interaction, 10
+The System Image, 31
+The Paradox of Technology, 32
+The Design Challenge, 34 | 1 |
+| The Psychology of Everyday Actions
+How People Do Things: The Gulfs of Execution
+and Evaluation, 38
+The Seven Stages of Action, 40
+Human Thought: Mostly Subconscious, 44
+Human Cognition and Emotion, 49
+The Seven Stages of Action and the
+Three Levels of Processing, 55
+People as Storytellers, 56
+Blaming the Wrong Things, 59
+Falsely Blaming Yourself, 65
+The Seven Stages of Action:
+Seven Fundamental Design Principles, 71 | 37 |
 ## | | |
 
-| 3 | Knowledge in the Head and in the World<br>Precise Behavior from Imprecise Knowledge, 75<br>Memory Is Knowledge in the Head, 86<br>The Structure of Memory, 91<br>Approximate Models: Memory in the<br>Real World, 100<br>Knowledge in the Head, 105<br>The Tradeoff Between Knowledge in the World<br>and in the Head, 109<br>Memory in Multiple Heads, Multiple Devices, 111<br>Natural Mapping, 113<br>Culture and Design: Natural Mappings Can<br>Vary with Culture, 118 | 74 |
+| 3 | Knowledge in the Head and in the World
+Precise Behavior from Imprecise Knowledge, 75
+Memory Is Knowledge in the Head, 86
+The Structure of Memory, 91
+Approximate Models: Memory in the
+Real World, 100
+Knowledge in the Head, 105
+The Tradeoff Between Knowledge in the World
+and in the Head, 109
+Memory in Multiple Heads, Multiple Devices, 111
+Natural Mapping, 113
+Culture and Design: Natural Mappings Can
+Vary with Culture, 118 | 74 |
 |---|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|
-| 4 | Knowing What to Do: Constraints,<br>Discoverability, and Feedback<br>Four Kinds of Constraints: Physical, Cultural,<br>Semantic,<br>and Logical, 125<br>Applying Affordances, Signifiers, and<br>Constraints to Everyday Objects, 132<br>Constraints That Force the Desired Behavior, 141<br>Conventions, Constraints, and Affordances, 145<br>The Faucet: A Case History of Design, 150<br>Using Sound as Signifiers, 155 | 123 |
-| 5 | Human Error? No, Bad Design<br>Understanding Why There Is Error, 163<br>Deliberate Violations, 169<br>Two Types of Errors: Slips and Mistakes, 170<br>The Classification of Slips, 173<br>The Classification of Mistakes, 179<br>Social and Institutional Pressures, 186<br>Reporting Error, 191<br>Detecting Error, 194<br>Designing for Error, 198<br>When Good Design Isn't Enough, 210<br>Resilience Engineering, 211<br>The Paradox of Automation, 213<br>Design Principles for Dealing with Error, 215 | 162 |
+| 4 | Knowing What to Do: Constraints,
+Discoverability, and Feedback
+Four Kinds of Constraints: Physical, Cultural,
+Semantic,
+and Logical, 125
+Applying Affordances, Signifiers, and
+Constraints to Everyday Objects, 132
+Constraints That Force the Desired Behavior, 141
+Conventions, Constraints, and Affordances, 145
+The Faucet: A Case History of Design, 150
+Using Sound as Signifiers, 155 | 123 |
+| 5 | Human Error? No, Bad Design
+Understanding Why There Is Error, 163
+Deliberate Violations, 169
+Two Types of Errors: Slips and Mistakes, 170
+The Classification of Slips, 173
+The Classification of Mistakes, 179
+Social and Institutional Pressures, 186
+Reporting Error, 191
+Detecting Error, 194
+Designing for Error, 198
+When Good Design Isn't Enough, 210
+Resilience Engineering, 211
+The Paradox of Automation, 213
+Design Principles for Dealing with Error, 215 | 162 |
 
 | 6 | Design Thinking | 217 |
 |---|------------------------------------------------|-----|
@@ -150,7 +208,10 @@ Norman, Donald A.
 | | The Moral Obligations of Design, 291 | |
 | | Design Thinking and Thinking About Design, 293 | |
 | | Acknowledgments | 299 |
-| | General<br>Readings<br>and<br>Notes | 305 |
+| | General
+Readings
+and
+Notes | 305 |
 | | References | 321 |
 ## | | Index | 331 |
 
@@ -308,12 +369,16 @@ In the multiple decades that have elapsed since the first edition of this book w
 
 The solution is human-centered design (HCD), an approach that puts human needs, capabilities, and behavior first, then designs to accommodate those needs, capabilities, and ways of behaving. Good design starts with an understanding of psychology and technology. Good design requires good communication, especially from machine to person, indicating what actions are possible, what is happening, and what is about to happen. Communication is especially important when things go wrong. It is relatively easy to design things that work smoothly and harmoniously as
 
-| The Role of HCD and Design Specializations<br>TABLE 1.1. | |
+| The Role of HCD and Design Specializations
+TABLE 1.1. | |
 |----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
 | Experience design | |
 | Industrial design | These are areas of focus |
 | Interaction design | |
-| Human-centered design | The process that ensures that the<br>designs match the needs and capa<br>bilities of the people for whom they<br>are intended |
+| Human-centered design | The process that ensures that the
+designs match the needs and capa
+bilities of the people for whom they
+are intended |
 
 long as things go right. But as soon as there is a problem or a misunderstanding, the problems arise. This is where good design is essential. Designers need to focus their attention on the cases where things go wrong, not just on when things work as planned. Actually, this is where the most satisfaction can arise: when something goes wrong but the machine highlights the problems, then the person understands the issue, takes the proper actions, and the problem is solved. When this happens smoothly, the collaboration of person and device feels wonderful.
 
@@ -417,13 +482,91 @@ A designer approaches his mentor. He is working on a system that recommends rest
 
 | DESIGNER | MENTOR |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| I'm frustrated; people aren't using<br>our application properly. | Can you tell me about it? |
-| The<br>screen<br>shows<br>the<br>restaurant<br>that we recommend. It matches their<br>preferences, and their friends like<br>it as well. If they want to see other<br>recommendations, all they have to<br>do is swipe left or<br>right. To learn<br>more<br>about<br>a<br>place,<br>just<br>swipe<br>up<br>for<br>a menu or down to see if any friends<br>are there now. People seem to find<br>the other recommendations, but not<br>the menus or their friends? I don't<br>understand. | Why<br>do<br>you<br>think<br>this<br>might<br>be? |
-| I don't know. Should I add some<br>affordances? Suppose I put an arrow<br>on each edge and add a label saying<br>what<br>they<br>do. | That is very nice. But why do you<br>call these affordances? They could<br>already do the actions. Weren't the<br>affordances<br>already<br>there? |
-| Yes, you have a point. But the affor<br>dances weren't visible. I made them<br>visible. | Very true. You added a signal of<br>what to do. |
-| Yes, isn't that what I said? | Not quite—you called them affor<br>dances even though they afford<br>nothing new: they signify what to do<br>and<br>where<br>to<br>do<br>it.<br>So<br>call<br>them<br>by<br>their right name: "signifiers." |
-| Oh, I see. But then why do designers<br>care<br>about<br>affordances?<br>Perhaps<br>we should focus our attention on<br>signifiers. | You speak wisely. Communication is<br>a<br>key<br>to<br>good<br>design.<br>And<br>a<br>key<br>to<br>communication is the signifier. |
-| Oh. Now I understand my confusion.<br>Yes, a signifier is what signifies. It<br>is a sign. Now it seems perfectly<br>obvious. | Profound ideas are always obvious<br>once<br>they<br>are<br>understood. |
+| I'm frustrated; people aren't using
+our application properly. | Can you tell me about it? |
+| The
+screen
+shows
+the
+restaurant
+that we recommend. It matches their
+preferences, and their friends like
+it as well. If they want to see other
+recommendations, all they have to
+do is swipe left or
+right. To learn
+more
+about
+a
+place,
+just
+swipe
+up
+for
+a menu or down to see if any friends
+are there now. People seem to find
+the other recommendations, but not
+the menus or their friends? I don't
+understand. | Why
+do
+you
+think
+this
+might
+be? |
+| I don't know. Should I add some
+affordances? Suppose I put an arrow
+on each edge and add a label saying
+what
+they
+do. | That is very nice. But why do you
+call these affordances? They could
+already do the actions. Weren't the
+affordances
+already
+there? |
+| Yes, you have a point. But the affor
+dances weren't visible. I made them
+visible. | Very true. You added a signal of
+what to do. |
+| Yes, isn't that what I said? | Not quite—you called them affor
+dances even though they afford
+nothing new: they signify what to do
+and
+where
+to
+do
+it.
+So
+call
+them
+by
+their right name: "signifiers." |
+| Oh, I see. But then why do designers
+care
+about
+affordances?
+Perhaps
+we should focus our attention on
+signifiers. | You speak wisely. Communication is
+a
+key
+to
+good
+design.
+And
+a
+key
+to
+communication is the signifier. |
+| Oh. Now I understand my confusion.
+Yes, a signifier is what signifies. It
+is a sign. Now it seems perfectly
+obvious. | Profound ideas are always obvious
+once
+they
+are
+understood. |
 
 #### MAPPING
 
@@ -670,13 +813,16 @@ Conscious thought is quite different. It is slow and labored. Here is where we s
 
 Emotion interacts with cognition biochemically, bathing the brain with hormones, transmitted either through the bloodstream or through ducts in the brain, modifying the behavior of brain cells. Hormones exert powerful biases on brain operation. Thus, in tense, threatening situations, the emotional system triggers the release of hormones that bias the brain to focus upon relevant parts of the environment. The muscles tense in preparation for action. In calm, nonthreatening situations, the emotional system triggers the release of hormones that relax the muscles and bias the brain toward explo-
 
-| Subconscious and Conscious Systems of Cognition<br>TABLE 2.1. | |
+| Subconscious and Conscious Systems of Cognition
+TABLE 2.1. | |
 |---------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | Subconscious | Conscious |
 | Fast | Slow |
 | Automatic | Controlled |
 | Multiple resources | Limited resources |
-| Controls skilled behavior | Invoked for novel situations: when<br>learning, when in danger, when<br>things go wrong |
+| Controls skilled behavior | Invoked for novel situations: when
+learning, when in danger, when
+things go wrong |
 
 ration and creativity. Now the brain is more apt to notice changes in the environment, to be distracted by events, and to piece together events and knowledge that might have seemed unrelated earlier.
 
@@ -1303,11 +1449,34 @@ As we just discussed, reminders provide a good example of the relative tradeoffs
 | TABLE 3.1. | Tradeoffs Between Knowledge in the World and in the Head |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Knowledge in the World | Knowledge in the Head |
-| Information is readily and easily<br>available whenever perceivable. | Material in working memory is read<br>ily available. Otherwise considerable<br>search and effort may be required. |
-| Interpretation substitutes for<br>learning. How easy it is to interpret<br>knowledge in the world depends<br>upon the skill of the designer. | Requires learning, which can be<br>considerable. Learning is made<br>easier if there is meaning or<br>structure to the material or if there<br>is a good conceptual model. |
-| Slowed by the need to find and<br>interpret the knowledge. | Can be efficient, especially if so<br>well-learned<br>that it is automated. |
+| Information is readily and easily
+available whenever perceivable. | Material in working memory is read
+ily available. Otherwise considerable
+search and effort may be required. |
+| Interpretation substitutes for
+learning. How easy it is to interpret
+knowledge in the world depends
+upon the skill of the designer. | Requires learning, which can be
+considerable. Learning is made
+easier if there is meaning or
+structure to the material or if there
+is a good conceptual model. |
+| Slowed by the need to find and
+interpret the knowledge. | Can be efficient, especially if so
+well-learned
+that it is automated. |
 | Ease of use at first encounter is high. | Ease of use at first encounter is low. |
-| Can be ugly and inelegant,<br>especially if there is a need to<br>maintain a lot of knowledge. This<br>can lead to clutter. Here is where the<br>skills of the graphics and industrial<br>designer play major roles. | Nothing needs to be visible, which<br>gives more freedom to the designer.<br>This leads to cleaner, more pleas<br>ing appearance—at the cost of ease<br>of use at first encounter, learning,<br>and remembering. |
+| Can be ugly and inelegant,
+especially if there is a need to
+maintain a lot of knowledge. This
+can lead to clutter. Here is where the
+skills of the graphics and industrial
+designer play major roles. | Nothing needs to be visible, which
+gives more freedom to the designer.
+This leads to cleaner, more pleas
+ing appearance—at the cost of ease
+of use at first encounter, learning,
+and remembering. |
 
 is ephemeral: here now, gone later. We can't count on something being present in mind at any particular time, unless it is triggered by some external event or unless we deliberately keep it in mind through constant repetition (which then prevents us from having other conscious thoughts). Out of sight, out of mind.
 
@@ -1852,9 +2021,13 @@ Root cause analysis is intended to determine the underlying cause of an incident
 
 | Question | Answer |
 |-------------------------------------------------|-----------------------------------------------------------------|
-| Q1: Why did the plane crash? | Because it was in an uncontrolled<br>dive. |
-| Q2: Why didn't the pilot recover from the dive? | Because the pilot failed<br>to initiate a<br>timely recovery. |
-| Q3: Why was that? | Because he might have been<br>unconscious (or oxygen deprived). |
+| Q1: Why did the plane crash? | Because it was in an uncontrolled
+dive. |
+| Q2: Why didn't the pilot recover from the dive? | Because the pilot failed
+to initiate a
+timely recovery. |
+| Q3: Why was that? | Because he might have been
+unconscious (or oxygen deprived). |
 | Q4: Why was that? | We don't know. We need to find out. |
 ## | Etc. | |
 
@@ -3546,7 +3719,9 @@ Admirers of the Dvorak keyboard claim much more than a 10 percent improvement, a
 | Aviation | British Design Council, 220 |
 | deliberate violation example, 211 | British Psychological Society, 150 |
 | interruptions and errors in, 200 | Brynjolfsson, Erik, 286–287 |
-| NASA's safety reporting system,<br>193–194 | Budgets, product development,<br>237, 240 |
+| NASA's safety reporting system,
+193–194 | Budgets, product development,
+237, 240 |
 | use of checklists in, 189–190, 191 | Business strategy, lock-ins as, |
 | See also Airplane | 143–144 |
 ## | | |
@@ -3599,7 +3774,9 @@ subconscious, 44–49, 51–52, 173, 206–207 technology and enhanced human, 28
 | standardization as, 248 | activity-centered, 231–234 |
 | Cultural conventions | areas of specialty in, 4–5, 9,110, |
 | behavior and, 76 | 302, 308 |
-| as cultural constraints, 130–132,<br>146 | behavioral level and, 54, 55<br>challenge of, 34–36, 239–247 |
+| as cultural constraints, 130–132,
+146 | behavioral level and, 54, 55
+challenge of, 34–36, 239–247 |
 
 | checklist, 191 | universal (inclusive), 243–247 |
 |----------------------------------|---------------------------------------|
@@ -3653,12 +3830,16 @@ subconscious, 44–49, 51–52, 173, 206–207 technology and enhanced human, 28
 |---------------------------------------------------|-----------------------------------------------------------|
 | design and, 3–4 | Edison, Thomas, 270 |
 | feedback, 23–25 | Electrical standards, 249 |
-| gesture-controlled devices and,<br>115–116 | e-Books (Electronic books), 16, 143,<br>286, 288–290, 319 |
+| gesture-controlled devices and,
+115–116 | e-Books (Electronic books), 16, 143,
+286, 288–290, 319 |
 | mappings, 20–23 | Electronic games, 282 |
 | signifiers, 13–20 | Electronic reminders, 109 |
 | Discrimination, rules for, 80–82 | Elevators, destination-control, |
 | Displays, 68 | 146–149 |
-| description-similarity slips and,<br>175 | Emotion, xiii, xv, 5, 47–56, 293–295,<br>310 |
+| description-similarity slips and,
+175 | Emotion, xiii, xv, 5, 47–56, 293–295,
+310 |
 | mapping and design, 21 | behavioral level, 50–56 |
 | metaphor and interaction with, | cognition and, 47–50, 53–55 |
 | 120–122 | positive and negative, 10, 38, 49, |
@@ -3689,8 +3870,10 @@ subconscious, 44–49, 51–52, 173, 206–207 technology and enhanced human, 28
 | sterile periods during, 200–201 | detecting, 194–198 |
 | while drunk, 211 | reasons for, 163–169 |
 | See also Automobiles | reporting, 191–194 |
-| du Maurier, George, 270–271<br>Durable goods, 291 | resilience engineering and, |
-| Duryea, 274, 280 | 211–213<br>social and institutional pressures |
+| du Maurier, George, 270–271
+Durable goods, 291 | resilience engineering and, |
+| Duryea, 274, 280 | 211–213
+social and institutional pressures |
 | Dvorak, August, 278 | and, 186–191 |
 | Dvorak keyboard, 278 | See also Mistakes; Slips |
 ## | | |
@@ -3825,7 +4008,8 @@ subconscious, 44–49, 51–52, 173, 206–207 technology and enhanced human, 28
 | physical constraints and design | xvii, 237–239, 261 |
 | of, 127–128 | Learned helplessness, 62–63 |
 | Keyboard, evolution of, 264–267, | Learned skills, 51–53 |
-| 274–279, 318–319. See<br>also | Learning |
+| 274–279, 318–319. See
+also | Learning |
 | QWERTY | changes in convention and new, |
 | Key logger, 91 | 149–150 |
 | Kiss nightclub fire, 181 | conscious thinking and, 45–46, |
@@ -3836,7 +4020,8 @@ subconscious, 44–49, 51–52, 173, 206–207 technology and enhanced human, 28
 | arbitrary, 98–100 | rote, 98 |
 | declarative, 78 | Legacy problem, 127, 266, 274 |
 | procedural, 78–79 | Lego motorcycle, 123–125, 129, 130, |
-| retrieval<br>of, 97–98 | 262, 263 |
+| retrieval
+of, 97–98 | 262, 263 |
 ## | | |
 
 | Leveson, Nancy, 212 | Market research, design research |
@@ -3874,7 +4059,8 @@ subconscious, 44–49, 51–52, 173, 206–207 technology and enhanced human, 28
 | Manufacturing, product success | short-term (working), 92–95 |
 | and, 294 | structure of, 91–105 |
 | Mapping, 10, 20–23, 72, 298 | transactive, 111–112 |
-| bridging Gulf of Execution and, | use of mnemonics,<br>88, 93–94, 99 |
+| bridging Gulf of Execution and, | use of mnemonics,
+88, 93–94, 99 |
 | 40 | See also Knowledge in the head |
 | culture and, 118–122 | Memory-lapse mistakes, 171, 172, |
 | faucet design and, 151, 154 | 185–186, 195, 199–200 |
@@ -3969,10 +4155,12 @@ Rehearsal of material, 96, 100–101 Reminders, 108–109 Reminding, strategies 
 | doors and, 15, 16, 132–135 | Sound, as signifier, 155–161 |
 | external, 15 | for electric cars, 157–161 |
 | gesture-controlled devices and | Sound generators, for feedback, |
-| lack<br>of, 115–116 | 23–24 |
+| lack
+of, 115–116 | 23–24 |
 | as knowledge in the world, 79 | Spatial cues, natural mapping and, |
 | misleading, 18–19 | 115 |
-| perceived affordances and, 145 | Specifications, design<br>and correct, |
+| perceived affordances and, 145 | Specifications, design
+and correct, |
 | poka-yoke technique and, 193 | 234–235 |
 | as reminders, 108–109 | Specify, as stage of execution, 41 |
 | sound as, 155–161 | Speech, presenting information |
@@ -3996,13 +4184,16 @@ Rehearsal of material, 96, 100–101 Reminders, 108–109 Reminding, strategies 
 | for electric automobile sounds, | technology and changes in, 286, |
 | 159–160, 161 | 287–288 |
 | establishing, 248–249 | Taught helplessness, 63 |
-| HDTV,<br>250–252 | Technical manuals. See Manuals |
+| HDTV,
+250–252 | Technical manuals. See Manuals |
 | international, 131, 248–249 | Technological aids, for knowledge |
 | necessity of, 250 | in the head, 112–113 |
 | Startup companies, failure of, | Technology |
 | 269–270 | accommodating human |
 | Stein, Robert, 289 | behavior, 68–71 |
-| "Sterile Cockpit Configuration,"<br>200 | adoption of, 268–269, 271, 272,<br>274 |
+| "Sterile Cockpit Configuration,"
+200 | adoption of, 268–269, 271, 272,
+274 |
 | Stigler's law, 270 | dependence on, 112–113, |
 | Stigma problem, 244–247 | 285–287 |
 | Story, conceptual models as form | design and, 257 |
@@ -4010,14 +4201,17 @@ Rehearsal of material, 96, 100–101 Reminders, 108–109 Reminding, strategies 
 | Stove controls, natural mapping | 282, 283–285 |
 | and, 113–115, 116–117, 118 | empowerment of individuals |
 | Subconscious, 48, 49. See also | and, 295–297 |
-| Cognition; Conscious<br>cognition | enhancing human cognition,<br>112–113, 285–288 |
+| Cognition; Conscious
+cognition | enhancing human cognition,
+112–113, 285–288 |
 | behavioral level of processing | handed-up, 297 |
 | and, 51–52 | interaction design and, 5 |
 | human thought as, 44–49 | interplay with psychology, 6–8 |
 | skilled behavior as, 206–207 | meaning of, 281–282 |
 | slips and, 173 | paradox of, 32–34 |
 | Subway train doors, lack of | precision and use of, 104 |
-| signifiers on, 134–135 | product innovation<br>and, 258, |
+| signifiers on, 134–135 | product innovation
+and, 258, |
 | Susan B. Anthony coin, 79–80, | 264–268 |
 | 81–82 | radical innovation and, 281 |
 | Sustainability, model for, 292–293 | reminders and, 109 |
@@ -4025,7 +4219,8 @@ Rehearsal of material, 96, 100–101 Reminders, 108–109 Reminding, strategies 
 | "Swiss cheese model of how | skeuomorphic designs and, 159 |
 | errors lead to accidents," 164, | standardization and, 248–254 |
 | 208–210 | substituting for memory, 87 |
-| Switches. See also Controls | Telephone<br>numbers, remembering, |
+| Switches. See also Controls | Telephone
+numbers, remembering, |
 | airplane landing gear, 135 | 45, 46 |
 | dead man's, 142–143 | Telephones, 68, 70, 156, 264–266. |
 | description-similarity slips and, | See also Cell phones |

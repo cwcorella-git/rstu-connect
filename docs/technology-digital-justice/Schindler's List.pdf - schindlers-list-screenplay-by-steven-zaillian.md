@@ -1,3 +1,8 @@
+---
+title: "SCHINDLER"
+category: "technology-digital-justice"
+---
+
 ## SCHINDLER'S LIST
 
 ## Screenplay by

@@ -1,3 +1,8 @@
+---
+title: "PEDAGOGY OF THE HEART"
+category: "theory"
+---
+
 ## Paulo Freire
 
 Pedagogy of the Heart This book represents some of the last writings by Paulo Freire, who has been acclaimed one of the most important educators of the 20th century.
@@ -120,13 +125,13 @@ M e bk b z e z z w nqe Oe e ge ew ee e we e e eq e b e w e I e e e ee e b c w we
 
 ## E P1 F B p B AA b k F B U b p
 
-B W p F b b P F B Ndes, \* u pp b b p b q k q F p B g p q W p p o b ? W p ? A <sup>I</sup> ? q p P F
+B W p F b b P F B Ndes, \* u pp b b p b q k q F p B g p q W p p o b ? W p ? A I ? q p P F
 
 W ? p p b id. b p p b b b p p m p b A p b b p p U /Ep P d Cp ad b d k d b W p p f p p b p p p b p b 
 
 b b T p p d b b d k p p p p qk A bz p p p p p b pl W c pp p p B p p p b p b i pb p ( p p u o a
 
-<sup>·</sup>T oi o book Somb st Mai, s u s o s go "
+·T oi o book Somb st Mai, s u s o s go "
 
 manifested nationally and locally. Economic globalization means the globalization of local social movements. Local politics means the localization of global capitalism. Local becomes global and global becomes local.
 
@@ -202,7 +207,7 @@ Within such an environment of lost governability, the megastructures of the end 
 
 This modernity, whose technologic innovations fill us with awe, gives very little sense of commitment or compassion.
 
-<sup>\*</sup>All dollar fig res are U. S., unless otherwise noted.
+\*All dollar fig res are U. S., unless otherwise noted.
 
 While eight hundred million people in rich countries enjoy an ostentatious \$20,000 per-capita income, 3.2 billion dwellers of the underdeveloped world live on an average of \$350, less than \$30 a month. Today, about one hundred fifty million children starve in the world, a statistic projected for one hundred eighty million by the year 2000, while some twelve million simply die before the age of five. Illiteracy affects more than eight hundred million people, and this number increases by about ten million each year. Close to ninety million new inhabitants come into the world annually, about sixty million of whom are born into the most destitute areas, condemned on their first day of life. They cannot manage the fifty cents per child that they would need for iodine, to prevent goiter, or the ten cents for vitamin A to prevent blindness. About one million children become mutilated for life every year. Half a million mothers die in labor every year for not having access to basic medical information and services: in all the rich countries combined, this number is only five thousand. A devastated Africa cries the loss of its last trees and sees its unprotected soil taken away by the wind and by pouring rains, while the West, which has devastated it, recommends that it care for its environment. But each day we have better and better computers, VCRs, and CD players.
 
@@ -236,7 +241,7 @@ Pao Fee's easo aoa s aIOa cao o he h o s eooa oos hs s he er o he shae o he ao e
 
 Tee has o be a a po easo ha has bee os he pease o ee e he shae o hs ee Wha sho o s o o e se be ae b he ees o be e , o ve , a o ae hs exeece oe a oe ese o he ee ha pove s esece o coe e he shae o hs ao ee wh sch eb eaeess a o exeece he e o soe epha sze ee o cono Whe phsca aoe poves ha esa he esseat o o be w s iees o e o h ow how poa eve spe sabe s o be w T be aoe has epesee o e hoo ee a o o be w I eve avo be wh ohes as a aa o copa, as o o ee ohes o ee fle o as ee awwa he wod. he coa b soa se e o kow yse be e whe ecoze s, a he ees ha vove e a peae seach ha wo o be vabe hog
 
-<sup>•</sup> A o o og o h vom C ooo pg 8 i orwor prec, pg 6
+• A o o og o h vom C ooo pg 8 i orwor prec, pg 6
 
 t t w t wl t c k w t ct c t c t t t xtc
 
@@ -244,19 +249,19 @@ A tv t t b t w t tc k t b A tv t cctz b t w l q tt vt vv t t t t t t q b t w tlv
 
 Lt t k t c tt t cct ct t cttc ctc tt t tt lck t w wt t t vctv I t c wt wc kw k wt t w t ctt wt wc c c ttlt t ct t v tt ctc tcl tlt t tt tct c wc k t wl kw wt t b wt wt wt v b w wt tt cc t c tt w t t tt o t t bt tt k qt. bt tk t c tt t c w t b t wk tw t c v ctt t t t c tt t b t b ct bt t Wt bl t b btl ct t ctt t w t tt t w ct t b t tt tw b tdc cc t ctt ct t t t lt t ctv bt t ctt tt c kw I k k t w l kw tt t kw, wc t kw t lw: t tt c kw btt wt kw c tt c kw wt t kw t t tt c c kwl tt t xt t b cc tt c kw cll tcl kw tt wt kw ct b vc t tc ctt Kw tct t v t w t c b Bt t t t ll t t t ctt tt I c kwj t t t t t blt kw wt tc tt wl c t vl t ccc t t kw btt wt kw l t t kw wt b w t bl t kw t tt t t ct t ct t wc kwl cttt t w t t t v xc kw
 
-A ct w t t l t ct tt b t cntv c O t ct t ct z t cc z t ctt O ct qt c t tvt nc ct t bv tt t tk t ct tt v ws t t w t bt t t btw t w n t qt tk t ct tt t w v t t qt tt t t B t tk ct w wl b w t w t cv t t qt qt t w t ctttv t t ct c <sup>w</sup> w xc www c w<sup>w</sup> c
+A ct w t t l t ct tt b t cntv c O t ct t ct z t cc z t ctt O ct qt c t tvt nc ct t bv tt t tk t ct tt v ws t t w t bt t t btw t w n t qt tk t ct tt t w v t t qt tt t t B t tk ct w wl b w t w t cv t t qt qt t w t ctttv t t ct c w w xc www c ww c
 
-Hy pc <sup>c</sup> kw <sup>w</sup> pc Nh <sup>w</sup> pc pc <sup>c</sup> wl p c
+Hy pc c kw w pc Nh w pc pc c wl p c
 
-### i Spp ad Wd w ww pc pc <sup>c</sup>i pc " p w W <sup>c</sup>n : w <sup>c</sup> <sup>u</sup> W cc cc c p <sup>c</sup> p <sup>c</sup>
+### i Spp ad Wd w ww pc pc ci pc " p w W cn : w c u W cc cc c p c p c
 
-p <sup>c</sup> w <sup>u</sup>pp wwc pp w p <sup>c</sup> w p z w b e e e A w p z <sup>c</sup> <sup>c</sup>pw cpw c p ppw <sup>w</sup> <sup>c</sup> <sup>c</sup> w <sup>w</sup> <sup>c</sup> w pp ppw<sup>w</sup> Hw pc w w
+p c w upp wwc pp w p c w p z w b e e e A w p z c cpw cpw c p ppw w c c w w c w pp ppww Hw pc w w
 
-<sup>c</sup>c cc p pc p pp pc cq pc <sup>c</sup> c <sup>c</sup>mc cc <sup>c</sup>p w T ppw p c p p<sup>r</sup> -pp cw c c · <sup>c</sup> w <sup>w</sup> <sup>c</sup> p p pp wc c cc ca cpt pp<sup>o</sup> w <sup>c</sup> p pc <sup>c</sup>
+cc cc p pc p pp pc cq pc c c cmc cc cp w T ppw p c p pr -pp cw c c · c w w c p p pp wc c cc ca cpt ppo w c p pc c
 
-pc wc c c pcd p p <sup>c</sup>cw p v p <sup>c</sup> c pc w <sup>w</sup> pp <sup>w</sup> c p w e F w p pp c pp i; ww c c <sup>c</sup> <sup>c</sup> e j w w
+pc wc c c pcd p p ccw p v p c c pc w w pp w c p w e F w p pp c pp i; ww c c c c e j w w
 
-I pp w p cc w Oc w p pc <sup>c</sup>i w cqwwc pc p c w A p w c <sup>c</sup>p w pc p w, f w pc pp ps. <sup>c</sup> g
+I pp w p cc w Oc w p pc ci w cqwwc pc p c w A p w c cp w pc p w, f w pc pp ps. c g
 
 S The Cbrge Ecycloped of Lnguge. Cbg: Cadg Un t P 1987
 
@@ -268,7 +273,7 @@ B jc dcc o b cocc! od bo d d mc o b com obc o coc c o od T b m cd m o v mpd o dd
 
 T co b o b ob od k o b boov pov poc p o vo o coomc dvopm d mo o h z o od b m t o ck ob ord o os o v pojc o coomc dvopm co xcd m d om o o m o m.
 
-<sup>\*</sup>See Ne Ps Tchoog: Th urde of ulu to Tchoogy. New Yk led A. K 19
+\*See Ne Ps Tchoog: Th urde of ulu to Tchoogy. New Yk led A. K 19
 
 My radical posture requires of me an absolute loyalty to all men and women. An economy that is incapable of developing programs according to human needs, and that coexists indifferently with the hunger of millions of people to whom everything is denied, does not deserve my respect as an educator. Above all, it does not deserve my respect as a human being. Ar dit is not well to say, "Things are the way they are because they cannot be different." They cannot be different because if they were, they would be in conflict with the interests of the ruling class. This cannot, however, be the determining essence of the economic practice. I cannot become fatalistic in order to meet the interests of the ruling class. Neither can I inventa "scientific" explanation to cover up a lie (see note 1, page 110).
 
@@ -286,19 +291,19 @@ Because I am a being in the world and with the world, I have not a little piece 
 
 A sense of security slowly returned to the degree that, in needing it, I would search for it through the relationship between my mother and my father. When I woke up in the morning, I happily understood that my security depended on the way my parents spoke to each other and to me.
 
-My first world was the yard in my house, with the mango trees, cashew trees with their branches kneeling down to the shaded ground, along with the breadfruit trees among others. These trees with their varied colors, smells, and fruits would attract various birds where they would take advantage of the <sup>s</sup> v s <sup>s</sup>n {s o 
+My first world was the yard in my house, with the mango trees, cashew trees with their branches kneeling down to the shaded ground, along with the breadfruit trees among others. These trees with their varied colors, smells, and fruits would attract various birds where they would take advantage of the s v s sn {s o 
 
-M d b s b v s <sup>s</sup>ss<sup>s</sup> ss ds Ss s d <sup>s</sup><sup>s</sup> <sup>s</sup> s d s <sup>s</sup> <sup>s</sup> b s ld b <sup>s</sup> s <sup>s</sup> <sup>s</sup> s v b <sup>s</sup> s v d ss v s
+M d b s b v s ssss ss ds Ss s d ss s s d s s s b s ld b s s s s s v b s s v d ss v s
 
-M bd s d b v sd s s s b <sup>s</sup> <sup>s</sup> d s bv b t
+M bd s d b v sd s s s b s s d s bv b t
 
-I s s <sup>s</sup> d s s z s <sup>s</sup> <sup>s</sup> 1
+I s s s d s s z s s s 1
 
-W d bd Gv d x sd s d vd <sup>s</sup> s <sup>s</sup> s s s a y <sup>s</sup><sup>s</sup> s d sd b s s s d sv <sup>s</sup> d b b b d ep d z xss v ss dd ss <sup>s</sup> s d v b s s b <sup>s</sup> <sup>s</sup> } s <sup>s</sup> <sup>s</sup> v <sup>s</sup> <sup>s</sup> v s s s Ts s <sup>s</sup>s <sup>s</sup> <sup>s</sup> s t ss s s qss s <sup>s</sup> } s s s s ds s} v d <sup>s</sup> xd <sup>s</sup> d s x s <sup>s</sup>d
+W d bd Gv d x sd s d vd s s s s s s a y ss s d sd b s s s d sv s d b b b d ep d z xss v ss dd ss s s d v b s s b s s } s s s v s s v s s s Ts s ss s s s t ss s s qss s s } s s s s ds s} v d s xd s d s x s sd
 
-B I b z s s z d I x ys s s s z s vs xs s vs z s f Prb N s A b z L A z s s s <sup>s</sup> xsv b Hv} z s s R M s s d s s s <sup>s</sup> s zs s s Cs Pz s s Bz s s N P A Ms z C J Pss d G <sup>m</sup>ss Bz s <sup>s</sup> vs xss <sup>s</sup> Bz d <sup>s</sup> sv<sup>s</sup> b <sup>s</sup> sss js
+B I b z s s z d I x ys s s s z s vs xs s vs z s f Prb N s A b z L A z s s s s xsv b Hv} z s s R M s s d s s s s s zs s s Cs Pz s s Bz s s N P A Ms z C J Pss d G mss Bz s s vs xss s Bz d s svs b s sss js
 
-W I s "I z I <sup>s</sup> I s /I B s s s z s z R <sup>s</sup>s <sup>w</sup> Bzs s d <sup>s</sup> s xss bvs d s g i <sup>s</sup>s M s v <sup>s</sup> vvs
+W I s "I z I s I s /I B s s s z s z R ss w Bzs s d s s xss bvs d s g i ss M s v s vvs
 
 ## s c M s s s s s ls w sc sc
 
@@ -318,13 +323,13 @@ F s s d f ca s s b wc v ws i s s m i v c : s s s O s cs b s s c s b; s s w w s w
 
 ### Hp
 
-Whe hk b he ee bh he <sup>s</sup>ess he ch, he e he p he psck hpe e he ve expeece h exp he hpe ese he <sup>s</sup>e jsce c <sup>s</sup> hve h s ee h s ee ese " , <sup>s</sup> , he Fes <sup>Z</sup>e Pebc ce e heve, h hs pcpe he s<sup>e</sup> he Lees hs expeece hve hepe che hses he cs hs e he " Hss h hve e pssbee h hve bece he p be, hch he hve beu es s <sup>s</sup>c pcess s ece h cshes h A s p, he bse ks he hs <sup>e</sup> N e ce ue expe ce he, s he se hk, eq ppebe he Hs pc pcce hve h h h h<sup>s</sup> uees he s pevese he<sup>e</sup> he hsece ce e q peo He h<sup>s</sup>esshe pbez he e he h s exb Sch e <sup>c</sup>e e spek b he se e h <sup>e</sup> ke he es exss s ecess hs pes s c Hs hs e hs ephse <sup>e</sup>beeve e s o 5.
+Whe hk b he ee bh he sess he ch, he e he p he psck hpe e he ve expeece h exp he hpe ese he se jsce c s hve h s ee h s ee ese " , s , he Fes Ze Pebc ce e heve, h hs pcpe he se he Lees hs expeece hve hepe che hses he cs hs e he " Hss h hve e pssbee h hve bece he p be, hch he hve beu es s sc pcess s ece h cshes h A s p, he bse ks he hs e N e ce ue expe ce he, s he se hk, eq ppebe he Hs pc pcce hve h h h hs uees he s pevese hee he hsece ce e q peo He hsesshe pbez he e he h s exb Sch e ce e spek b he se e h e ke he es exss s ecess hs pes s c Hs hs e hs ephse ebeeve e s o 5.
 
-he Fes <sup>Z</sup>e cs, e he be <sup>e</sup>e ee expe sc ve hs pesece he Sch <sup>v</sup>e s s sc s h he echsc ecc eec h he e<sup>s</sup> exb<sup>e</sup> s s sc s he eec pse , h heescb he bsces he e e pses be, pcshe sb<sup>e</sup> F ese sc eec<sup>s</sup> hee s e <sup>e</sup>o<sup>e</sup> (P Fee, Pedo <sup>o</sup> Hope Ne Yk C, 994)
+he Fes Ze cs, e he be ee ee expe sc ve hs pesece he Sch ve s s sc s h he echsc ecc eec h he es exbe s s sc s he eec pse , h heescb he bsces he e e pses be, pcshe sbe F ese sc eecs hee s e eoe (P Fee, Pedo o Hope Ne Yk C, 994)
 
-Sch p ese e chcezes he cpe hes es he pcces ese's pessves he pc , he pese Less h se ccze e s beses" , pc ebe p e s js he ee he c psve ee spes che he hee s h e che, " he <sup>s</sup> heesse he h sse ece v Ge <sup>e</sup>c e ee hv he es" cvs P Fee e es sese he ec eee hs h h es ps, cscesess; b he h he echc, scec, pess evepe ees" Devepe " hee ses s h<sup>s</sup> s exc h hs seese he csses: he epcz <sup>e</sup>c e, <sup>e</sup>c eqes echc sce<sup>c</sup> pess evepe s ch <sup>s</sup> es es p ejec he h h c be e b he cse qeces eccbz ese b he e becse h c be e s he uvb<sup>e</sup> Accep he exb h es pce s excee <sup>c</sup>b he ces he eq h s he cee he eh"
+Sch p ese e chcezes he cpe hes es he pcces ese's pessves he pc , he pese Less h se ccze e s beses" , pc ebe p e s js he ee he c psve ee spes che he hee s h e che, " he s heesse he h sse ece v Ge ec e ee hv he es" cvs P Fee e es sese he ec eee hs h h es ps, cscesess; b he h he echc, scec, pess evepe ees" Devepe " hee ses s hs s exc h hs seese he csses: he epcz ec e, ec eqes echc scec pess evepe s ch s es es p ejec he h h c be e b he cse qeces eccbz ese b he e becse h c be e s he uvbe Accep he exb h es pce s excee cb he ces he eq h s he cee he eh"
 
-Oe he e eeces beee e <sup>s</sup>ch sc eec<sup>s</sup>scss ecss, phsphes <sup>e</sup>cs, es e-es eve ccep, ese , h <sup>e</sup>c pcce sh be e <sup>s</sup>ce e he , " e ex," b he beev h sh s ce e c ex," e he " Abve , eece es p p 
+Oe he e eeces beee e sch sc eecsscss ecss, phsphes ecs, es e-es eve ccep, ese , h ec pcce sh be e sce e he , " e ex," b he beev h sh s ce e c ex," e he " Abve , eece es p p 
 
 ## p b B Fc Jb p p b p p p q b b b pb b p b b b p b b pb b p p
 
@@ -464,7 +469,7 @@ Lula knows—today much better than the average of the leftist leadership of yes
 
 Contrary to what the irresponsible may think, the language of those who are immersed in our contradictory reality moved by the dream of making it less perverse is the language of possibility. It is the restrained language of those fighting for their utopia, those impatiently patient. It is not the discourse of those who boast a power they do not have, threatening the whole world. It is the talk of those who are certain of the ethic
 
-<sup>\*</sup>Luiz Ignacio Lula da Silva, or *Lula* as he is better known, is a historic political figure in Brazil. One of the founders of PT, the Workers' Party, he comes from a working-class background. Through his active union leadership in São Paulo, he became a syn bol of progressive politics and ran for president against Fernando Collor de Melo, losing by a tight margin, in 1989.
+\*Luiz Ignacio Lula da Silva, or *Lula* as he is better known, is a historic political figure in Brazil. One of the founders of PT, the Workers' Party, he comes from a working-class background. Through his active union leadership in São Paulo, he became a syn bol of progressive politics and ran for president against Fernando Collor de Melo, losing by a tight margin, in 1989.
 
 rigor of their fight and their dream against the perversity of a society of inequality such as ours, those who do all in their power to mobilize and organize the popular classes and other segn ents of society toward the democratic institution of a fair government. Such a government would represent a party that accepted the alternate nature of democracy and, as a result, was continually exposed to popular judgment. Such position demands a fundamental sort of learning: that of *humility*, which requires that one respect adverse judgment from the people and, at the same time, that one not be able to doubt the utopia of democracy.
 
@@ -574,15 +579,15 @@ I felt as if I had been walking along a plain when, all of a sudden, I found mys
 
 A few days later, I received two newspaper clippings from Brazil. One of them listed my name alongside those of nine other "nonamnestiables," such as: Luiz Carlos Prestes, Miguel Arraes, Leonel Brizola, and Márcio Moreira Alves. In the other news piece, the spokesperson for the Planalto Palace contradicted the information. I recovered strength. In the first few
 
-A 979 Vp Ez, , <sup>m</sup>, , q L p <sup>u</sup> k p J
+A 979 Vp Ez, , m, , q L p u k p J
 
-H p Bz v m?1 k l, w <sup>m</sup> pp , , a W , pp, bk gp W k pp k l v, , x vn
+H p Bz v m?1 k l, w m pp , , a W , pp, bk gp W k pp k l v, , x vn
 
 W N v, , m pf, v Bz, pp p pp g, b , m , m p , p p pp, b, h 
 
 ## A , vv, , v e pv z , p, p v , , N Pp m ik , v b v v v k k v k , q v k Pp f p p v, p v b , v p W p l, 
 
-Pp v <sup>p</sup>d A p , v p , <sup>r</sup> W SC v " / p <sup>t</sup> v v O v pb v
+Pp v pd A p , v p , r W SC v " / p t v v O v pb v
 
 Dp v p p p p v p W g v, z p v v, W lv p v v, ,
 
@@ -590,11 +595,11 @@ P - k I b p p p p k l , k , ,
 
 ## T p, p b m . T p p
 
-## O, , k ; p , v, , s p, <sup>c</sup>l v
+## O, , k ; p , v, , s p, cl v
 
 ## Pp p p k, k k py o Rk k k v , , k
 
-## : j p, , , pq v <sup>c</sup>I Nv, p p z ; R p s i d c s y 
+## : j p, , , pq v cI Nv, p p z ; R p s i d c s y 
 
 H c ss y pcm p y c s cs p y? H c ss y w sc s cks ss a ks? Ps y s pcss s c c O c s n e s pss c y y c yy n e s c c c y y ps sy c s c y cy Sc ps y ss s s ps scs c wk s w y p ps w s cy c
 
@@ -854,37 +859,37 @@ When I defend unity withi diversity, I ar thinking of unity between those who li
 
 I cannot see how those who so live their faith could negate those who do not live it, and vice versa. If our utopia is the constant changing of the world and the overcoming of injustice, I cannot refuse the contribution of progressives who have no faith, nor can I be rejected for having it. What must not be accepted in those who proclaim their faith is that they *use* it at the service of the popular classes' uncriticalness.
 
-This is how I have always understood God—a presence in history that does not preclude me from making history, but rather pushes me toward world transformation, which makes o o o <sup>m</sup>n <sup>o</sup> o <sup>w</sup>oxo o<sup>w</sup>
+This is how I have always understood God—a presence in history that does not preclude me from making history, but rather pushes me toward world transformation, which makes o o o mn o o woxo ow
 
-Oo ov o v <sup>o</sup> ou c <sup>w</sup> v o ou <sup>c</sup> <sup>w</sup> d <sup>w</sup>ou p o do coo o u <sup>w</sup> d <sup>w</sup> <sup>w</sup> b d God O coy <sup>o</sup> oud covcd o d <sup>o</sup> <sup>c</sup> wold o <sup>w</sup> d wo o u <sup>w</sup> o prn<sup>n</sup> uo bou owd ( Lrs rsn 1996
+Oo ov o v o ou c w v o ou c w d wou p o do coo o u w d w w b d God O coy o oud covcd o d o c wold o w d wo o u w o prnn uo bou owd ( Lrs rsn 1996
 
-do o <sup>v</sup> coob pk bou A oo como do w ou oc <sup>c</sup>oc uo d pdoc d o w o o owv ud poc <sup>o</sup> u o ovco <sup>o</sup>pv l d o ud ul oc <sup>o</sup> v d ou u vo <sup>o</sup> c <sup>o</sup> u o o pprn oc v dp oo u ov <sup>c</sup> d v owd o So dow cu <sup>c</sup>o a <sup>o</sup> <sup>w</sup> /
+do o v coob pk bou A oo como do w ou oc coc uo d pdoc d o w o o owv ud poc o u o ovco opv l d o ud ul oc o v d ou u vo o c o u o o pprn oc v dp oo u ov c d v owd o So dow cu co a o w /
 
-S ou d Mu d uo d <sup>o</sup> d o <sup>o</sup> o bu cu do o obz ov d o <sup>o</sup> co co <sup>w</sup> o co <sup>r</sup>s d v co <sup>n</sup>gs Ngng o b <sup>w</sup>ou bu ng ou c No v o o d <sup>o</sup> u b <sup>w</sup>o c o b u dd do o bv <sup>o</sup> o v Hv bv o pob; pob <sup>c</sup> ov ad cotdc i co coc d o dp ud c w <sup>w</sup> c d w do o v o <sup>o</sup> ocl o wo 
+S ou d Mu d uo d o d o o o bu cu do o obz ov d o o co co w o co rs d v co ngs Ngng o b wou bu ng ou c No v o o d o u b wo c o b u dd do o bv o o v Hv bv o pob; pob c ov ad cotdc i co coc d o dp ud c w w c d w do o v o o ocl o wo 
 
-Sc <sup>w</sup> <sup>c</sup>d v v b o u ow cou o o coc C <sup>w</sup> co <sup>o</sup> <sup>o</sup> c oc <sup>c</sup> <sup>o</sup> o or How ob o wl" w Cr bu <sup>o</sup> ou cl o" o I
+Sc w cd v v b o u ow cou o o coc C w co o o c oc c o o or How ob o wl" w Cr bu o ou cl o" o I
 
-o ov Abov l o u o c <sup>o</sup>wov pc d d o o <sup>w</sup>c c o do <sup>o</sup> <sup>o</sup> c h <sup>o</sup> u coc oc voou <sup>c</sup> ucl on u o boo o o <sup>o</sup>d o o o oucd d o d o pow k -poweu So UI h v u , d o u ouo v <sup>w</sup>k <sup>w</sup>ou o u '
+o ov Abov l o u o c owov pc d d o o wc c o do o o c h o u coc oc voou c ucl on u o boo o o od o o o oucd d o d o pow k -poweu So UI h v u , d o u ouo v wk wou o u '
 
-Fo o savn pl brn u o poo ovo us <sup>o</sup> o <sup>w</sup> ov o T poc <sup>o</sup> vo <sup>c</sup>o b z <sup>w</sup>ou lou o ov
+Fo o savn pl brn u o poo ovo us o o w ov o T poc o vo co b z wou lou o ov
 
-A f ld w w ow op woud g bo ud u <sup>o</sup> dob <sup>w</sup> k c nrs, zz cdl dp p cd Co g udu b <sup>o</sup> mpn <sup>v</sup> cqu.
+A f ld w w ow op woud g bo ud u o dob w k c nrs, zz cdl dp p cd Co g udu b o mpn v cqu.
 
-M d k quo <sup>o</sup> d Colo <sup>w</sup> cqud Sup Cou co w h Cd c <sup>w</sup> ld M d d co o <sup>o</sup> v op d <sup>o</sup> ll v H quo cd o b bcu z o <sup>w</sup>
+M d k quo o d Colo w cqud Sup Cou co w h Cd c w ld M d d co o o v op d o ll v H quo cd o b bcu z o w
 
-<sup>s</sup> h W v w s dd s c s dd <sup>s</sup> s d bcs nsd w s s <sup>s</sup>l <sup>s</sup> { 13, p 140}
+s h W v w s dd s c s dd s s d bcs nsd w s s sl s { 13, p 140}
 
-s d ccs b <sup>s</sup> s s dd d s s css cc 1 n bcs w As ds 's ccs bcs cc} d v c n Cc ccc nccs css ss <sup>s</sup>c W s s <sup>s</sup> c <sup>c</sup>n f b vn s ssb <sup>s</sup>c <sup>w</sup> v <sup>s</sup>d s hc d Bz <sup>s</sup>c s b c nbb v<sup>s</sup> B s s <sup>c</sup> w d h <sup>v</sup>s y b c dcc d dc s ws ssb
+s d ccs b s s s dd d s s css cc 1 n bcs w As ds 's ccs bcs cc} d v c n Cc ccc nccs css ss sc W s s s c cn f b vn s ssb sc w v sd s hc d Bz sc s b c nbb vs B s s c w d h vs y b c dcc d dc s ws ssb
 
-Oc Bz s s s s s cd s d sc <sup>s</sup>sss <sup>s</sup> s dc <sup>s</sup> ssss I d sv <sup>s</sup> <sup>n</sup>css d s s s d dssc <sup>c</sup>sss dc <sup>s</sup>s d cs bsc dc c sc bc t csss vr ds nd n s <sup>c</sup>s r vs And s ds ds <sup>c</sup> b s bc<sup>s</sup> <sup>w</sup> s<sup>s</sup> d<sup>s</sup> h d
+Oc Bz s s s s s cd s d sc ssss s s dc s ssss I d sv s ncss d s s s d dssc csss dc ss d cs bsc dc c sc bc t csss vr ds nd n s cs r vs And s ds ds c b s bcs w ss ds h d
 
-I s v w v w h s ss <sup>s</sup>s s On hs v h <sup>s</sup> s dnnc n c s bss sc<sup>s</sup> d ss<sup>s</sup> As w dnc <sup>w</sup> w sd svs d d s s
+I s v w v w h s ss ss s On hs v h s s dnnc n c s bss scs d sss As w dnc w w sd svs d d s s
 
-Ad w <sup>c</sup>d dc d wd ? A sgc css dc s sbcs (dcs d sJ
+Ad w cd dc d wd ? A sgc css dc s sbcs (dcs d sJ
 
-dd b <sup>c</sup>zb bjc <sup>c</sup> b b dcsbc d d by h sbc Wv scv <sup>w</sup>c <sup>w</sup> c c dc pcces<sup>c</sup> s<sup>c</sup> hc cs css s Uh dcs c dc cc d w <sup>w</sup> d w ds<sup>n</sup> s s v <sup>s</sup>c s dssb ss sc , dcs sd ws yz <sup>c</sup>s d s <sup>s</sup>c Ts v s k s ssb
+dd b czb bjc c b b dcsbc d d by h sbc Wv scv wc w c c dc pccesc sc hc cs css s Uh dcs c dc cc d w w d w dsn s s v sc s dssb ss sc , dcs sd ws yz cs d s sc Ts v s k s ssb
 
-F sc o <sup>v</sup><sup>w</sup> s ss cs vs <sup>c</sup>n vs csdd v sv <sup>s</sup> N w sc cs y b d <sup>c</sup>d v b <sup>c</sup>s <sup>s</sup>c c I vs w xc d d s dbs b dcc s c bcs <sup>w</sup> <sup>c</sup>s dccy w wd v <sup>c</sup>i vn<sup>s</sup> c d <sup>w</sup> bc <sup>a</sup> hs c sd <sup>w</sup>ud v b ssb Bz d cd h v c-dcc y <sup>s</sup> On v dcc <sup>w</sup>c s vc <sup>s</sup>c sc <sup>c</sup><sup>n</sup> ds w whw <sup>w</sup> <sup>w</sup>s I bss w <sup>w</sup>s v n dc dcc Dn <sup>s</sup>c <sup>w</sup> b s n s dccy bsc<sup>s</sup> cd <sup>w</sup> s wd . hs s ns h s w c b <sup>n</sup> s <sup>s</sup> b w W w d <sup>c</sup>sd dcc s s sns ns dv d ns cmc bc <sup>w</sup> <sup>w</sup>c <sup>w</sup> c h <sup>s</sup>c bs fc s c <sup>w</sup> <sup>w</sup> <sup>w</sup> <sup>n</sup>v ccs
+F sc o vw s ss cs vs cn vs csdd v sv s N w sc cs y b d cd v b cs sc c I vs w xc d d s dbs b dcc s c bcs w cs dccy w wd v ci vns c d w bc a hs c sd wud v b ssb Bz d cd h v c-dcc y s On v dcc wc s vc sc sc cn ds w whw w ws I bss w ws v n dc dcc Dn sc w b s n s dccy bscs cd w s wd . hs s ns h s w c b n s s b w W w d csd dcc s s sns ns dv d ns cmc bc w wc w c h sc bs fc s c w w w nv ccs
 
 ### Notes
 
@@ -936,7 +941,7 @@ The gap in standards of living between the sexes is also glaring: in 1990, the "
 
 Quasi woman-girls painfily suffer the consequences of a highly unjust society by prostituting themselves with foreign tourists. It
 
-<sup>\*</sup>IBGE: Brazilian Institute of Geography and Statistics.
+\*IBGE: Brazilian Institute of Geography and Statistics.
 
 s s ss I ps r Eps d s h s s s e sssf s j s ss ps pp sbmss p s A Css Is C C Ps, 500000 s s UICEF 0 .
 
@@ -970,45 +975,45 @@ W Bk t c 124 N c 0000 c c m b 7 f ( a J Jz Dc B, b 9 Dcb 99 p.7)
 
  99 u k pp x cce pc 50 pc b pc 70 pc po O py z Iee 0 b 07 pb 99 ) b Bz c a aa q l IAeep Newppe P: b 03 Dcb 994J 995)\_
 
-N p k b p c S a c -t \* P a c c b k p b k b 988 C b c p' pe c <sup>c</sup> b F U c b cb t pcs z c c a c cb pp c b c p: p H At b 23034 po ; cc IGl 99 cp b 995 b cb 0 (Fh e S P 5/8/95)
+N p k b p c S a c -t \* P a c c b k p b k b 988 C b c p' pe c c b F U c b cb t pcs z c c a c cb pp c b c p: p H At b 23034 po ; cc IGl 99 cp b 995 b cb 0 (Fh e S P 5/8/95)
 
-g b pb pcp N <sup>d</sup> b pp p P J G 94 c cca J m (3/5/853/5/90) N P R p cc r c-
+g b pb pcp N d b pp p P J G 94 c cca J m (3/5/853/5/90) N P R p cc r c-
 
 B - ten eeg t the hd dettte rweh he ple t g d make g by beig trpted o gae ed t suce fed t the hvet.
 
-<sup>c</sup> s ps<sup>s</sup> <sup>s</sup>ts: p p Dcb 1989 ny 10 pc wws ps b (de B b 9) L P n swc ps <sup>s</sup> s <sup>s</sup> w<sup>s</sup> <sup>s</sup> p<sup>s</sup> w <sup>s</sup>c p ws c b <sup>s</sup> p h pv <sup>s</sup> p<sup>s</sup>
+c s pss sts: p p Dcb 1989 ny 10 pc wws ps b (de B b 9) L P n swc ps s s s ws s ps w sc p ws c b s p h pv s ps
 
-My 1 995 y w CBB b <sup>c</sup> s (w<sup>s</sup> ps s s <sup>c</sup>svv) k c p<sup>s</sup> b v F Hq <sup>s</sup> p<sup>s</sup> s A s by pssv <sup>c</sup>y <sup>w</sup> ss<sup>s</sup> ss b pp <sup>s</sup> b 17 <sup>s</sup> <sup>w</sup> Bk Bw<sup>s</sup> s c pss s <sup>c</sup>c<sup>s</sup>" <sup>c</sup>ss<sup>w</sup>c pys w s sp p s s by v
+My 1 995 y w CBB b c s (ws ps s s csvv) k c ps b v F Hq s ps s A s by pssv cy w sss ss b pp s b 17 s w Bk Bws s c pss s ccs" csswc pys w s sp p s s by v
 
-O bss v s a p c vr <sup>c</sup> <sup>c</sup> bck i ss cs <sup>w</sup> k <sup>s</sup> v c<sup>s</sup> <sup>p</sup> y w v w <sup>s</sup> w hsn s; w<sup>s</sup> <sup>s</sup> FHC s" (8m ra b 147 My 1995) F <sup>s</sup> ss v <sup>s</sup> ws c b c v bks a <sup>s</sup>bc s i py b y nc pc
+O bss v s a p c vr c c bck i ss cs w k s v cs p y w v w s w hsn s; ws s FHC s" (8m ra b 147 My 1995) F s ss v s ws c b c v bks a sbc s i py b y nc pc
 
 ### N 6P 6
 
-Ans s s mp cos B B B 1900 <sup>s</sup> <sup>v</sup>y c my y c s c H ws b s bcs wy cc<sup>s</sup> b <sup>c</sup>s ws p wy s gs s wc u gua y csps H <sup>s</sup>vy <sup>c</sup> <sup>c</sup>s pbc c
+Ans s s mp cos B B B 1900 s vy c my y c s c H ws b s bcs wy ccs b cs ws p wy s gs s wc u gua y csps H svy c cs pbc c
 
-## Hs sv wk w pbc c<sup>s</sup> ws scy c B wc n J
+## Hs sv wk w pbc cs ws scy c B wc n J
 
-F Dsc n c b p<sup>s</sup> NPq) s w <sup>s</sup> s (UESCO) wys c<sup>s</sup> <sup>s</sup> pbcc s <sup>s</sup>bs <sup>s</sup> c <sup>c</sup> n bcc pc<sup>s</sup> s c c Hs s w ccy n cc vp s b<sup>s</sup> scc <sup>s</sup>c pc by cs pmy c by <sup>s</sup> Kw w b <sup>s</sup> xc <sup>c</sup>v y spsby by s c c w 
+F Dsc n c b ps NPq) s w s s (UESCO) wys cs s pbcc s sbs s c c n bcc pcs s c c Hs s w ccy n cc vp s bs scc sc pc by cs pmy c by s Kw w b s xc cv y spsby by s c c w 
 
-A gy c c w <sup>s</sup> b s w s <sup>c</sup>bv pjc n ps ws w vc J Dwy<sup>s</sup> <sup>s</sup> W c b Uvsy b c Dwy U. S<sup>w</sup>cw<sup>s</sup> s <sup>w</sup>y B<sup>z</sup> v v D w s ps B<sup>z</sup><sup>a</sup> sy <sup>s</sup>w ccs s b <sup>c</sup>s v ws b y bcs s Ac s fc Kpsky L s w s Rss's c plcy Ms s <sup>v</sup> p As v <sup>c</sup>v s s s B<sup>z</sup>
+A gy c c w s b s w s cbv pjc n ps ws w vc J Dwys s W c b Uvsy b c Dwy U. Swcws s wy Bz v v D w s ps Bza sy sw ccs s b cs v ws b y bcs s Ac s fc Kpsky L s w s Rss's c plcy Ms s v p As v cv s s s Bz
 
 ### N -P 6
 
-w <sup>s</sup>s F s k pc swy n p c (SME) S P b y w sp s s c v <sup>c</sup>y c pcss c c by F y ss <sup>s</sup> s w wc pcs s w scss bs a <sup>c</sup>cs w ss T n vs ws <sup>s</sup> , wk v c c D w-y pp
+w ss F s k pc swy n p c (SME) S P b y w sp s s c v cy c pcss c c by F y ss s s w wc pcs s w scss bs a ccs w ss T n vs ws s , wk v c c D w-y pp
 
 Ca Th Mnry of Edcaon' Cne fo Reseach Spport CNPq: Naona Rarch Coucil.
 
-## m <sup>n</sup> b ( ME 5
+## m n b ( ME 5
 
-j F M m E m <sup>m</sup> m ME d b y m m z b m " ( 81
+j F M m E m m m ME d b y m m z b m " ( 81
 
-F m k <sup>m</sup> ym<sup>m</sup> b m y <sup>m</sup> <sup>a</sup> D y <sup>m</sup> mz k mmm y y m my y m ks W m OUPSI fy <sup>y</sup> qy <sup>m</sup> um <sup>m</sup>m <sup>m</sup> (<sup>m</sup>) by g
+F m k m ymm b m y m a D y m mz k mmm y y m my y m ks W m OUPSI fy y qy m um mm m (m) by g
 
-E y m A 5 2 m Am C C m C E A (NAE NAE m l m mm y F q y p m <sup>m</sup> v G m j : z e <sup>w</sup> <sup>m</sup> i xm <sup>r</sup> <sup>m</sup> <sup>m</sup>z 
+E y m A 5 2 m Am C C m C E A (NAE NAE m l m mm y F q y p m m v G m j : z e w m i xm r m mz 
 
-D <sup>m</sup> j m B Rh C A B E y um M y <sup>y</sup> <sup>m</sup> k , t y F m
+D m j m B Rh C A B E y um M y y m k , t y F m
 
-T <sup>m</sup> m <sup>m</sup> y y F' H y m R k 5 k E F M m k D<sup>m</sup> 4 j <sup>m</sup> m k A m Dm m m k Jy 2 Am m : c b z nm A-m m y h mmy y <sup>m</sup>z <sup>m</sup> z R m <sup>m</sup> (Ente Conelho, No<sup>m</sup> 2).
+T m m m y y F' H y m R k 5 k E F M m k Dm 4 j m m k A m Dm m m k Jy 2 Am m : c b z nm A-m m y h mmy y mz m z R m m (Ente Conelho, Nom 2).
 
 These four events carried the Freire mark, for while already removed from the department of education, he had impressed on the São Paulo public-education system a sense of priority concerning: the democratization of the administration, a policy for the education of children and adults, the democratization of access, and renewed quality of education.
 
@@ -1076,7 +1081,7 @@ Episodes of democratic rebelliousness, almost always accompanied by betrayal of 
 
 (11) Balaiada and the Insurrection of Slaves (1838-41). In Maranhão, the free population dedicated to cattle raising enjoyed living conditions just as precarious as those of slaves. The political context, dominated by disputes between the liberal faction and the remainders of the Portuguese Liberal Party, fueled an atmosphere of dissatisfaction on the part of the less favored, above all the mixed and black segments, who clearly realized the impossibility of their social ascension. Thus, a cowboy from mixed origin, Raimundo Gomes Vieira, took over the jailhouse in the village of Manga, on December 13, 1838, leading the movement that was called Belaiada. Having great action mobility, the movement attracted sympathizers, took a significant part of Maranhão, and infiltrated all the way to Piaui, terrifying the powerful in that province. The massive slave escapes in that region, which since the eighteenth century had led to the formation of Quilombos as the only form of resistance and survival for slaves, began to add strength to the ranks of the balaios, especially after 1839, when they conquered the village of Caxias. Overcoming mutual differences, balaios and rebellious blacks agglutinated and together with some Indians were able to obtain weapons and provisions to organize a contingent of eleven thousand men. Alarmed, in 1840 the central power sent as president of the province Colonel Luis Alves de Lima e Silva, eventually given the title of Duke of Caxias. He enlisted the support of traders and land and slave owners, and organized the fight against the rebels, abandoned by the higher segments of society who feared the radicalization of the movement's popular nature. The eight thousand men in the official forces were divided in three columns and surrounded the balaios.
 
-<sup>\*</sup>Forest dwellers who make a livir g out of extracting latex from trees in the prim tive way.
+\*Forest dwellers who make a livir g out of extracting latex from trees in the prim tive way.
 
 The soldiers arrested 498 women, 686 children, and after killing many slaves, returned the ones left to their owners. In 1841, the balaio Raimundo Gomes dissociated himself from the black leader Cosme Bento da: Chagas, and with seven hundred weakened rebels and without an unition, he sun endered. Once surrounded, Cosme was unable to regroup the movement. Already wounded, wandering, and hunted, the strong freed slave, with about two hundred auilombers, was arrested as he attempted to seek refuge in the jungle with Indians. His group was annihilated. Cosme called his rebellion "War of Law and Republican Freedom" and gave himself the title of "Trustee and Emperor of Freedom." He also gave himself the right to concede gifts through the Order of Rosario and to cover himself with sacred objects from the Catholic Church. Even though he was considered by Lima e Silva himself a great leader, he was tried as a ferocious killer and responsible for the black insurrection, and not as a rebel or balaio ally. Sentenced to death on April 5, 1842, he was hanged in September at about forty years of age. At a time when color was just as disempowered as rebelliousness, the oppressed found a common ground upon which to unite. Whites and blacks, the free and the enslaved, fought against the greater problem that affected almost all: destitution. Fighting against social injustices, such as hunger and slavery, being part of democratic rebelliousness was met with massacre and death in one's own country, just as in colonial times.
 
@@ -1094,21 +1099,21 @@ that they were able to crush Canudos, on October 5, 1897, twelve days after the 
 
 (17) The Caldeirão experiment (1922–31), located in the back lands of Ceará, was conducted by Priest Cícero Romão Batista, the revered *Padim Cico*. He turned his farm over to a religious m , José Lourenço, so that he would ru it. At that location, an area of approximately 1,200 hectares in Juazeiro, the religious man founded the Order of Penitents, whose motto was faith-workcooperation. Production was plentiful, but the fear and the greed on the part of latifundio owners was greater. Priest Cícero, the owner of land and buildings, and mentor of the order, already excommunicated from the Catholic Church due to his unorthodox ecclesiastic practices, a political leader who made opposition to dominant persons and interests, served as a good excuse for the bishop in the next rival town, Crato, to support the attack by conservative forces to the Caldeirão Community. Reactionary forces applauded police action; led by Captain Bezerra, they set fire to four hundred cabins leaving about two thousand people without shelter. The community moved to a different location with six hundred cabins and three thousand people, who, more cautious, began to bury their provisions. A new joint action on the part of the army and the police, in which three airplanes were used, crushed the community. The total balance was four hundred deaths, including sixteen children. One more small religious community massacred, destroyed by forces of the power established to defend the interests of the dominant. Dreams of freedom were crushed so that archaic and unjust forms of colonialist social organization could remain. Today's social movements seeking land for agriculture have been repressed with the same violence recorded in previous centuries. The Country Leagues of the 1950s and 1960s reappeared in the 1980s with the Movement of Landless Rural Workers (MST), and they were more successful than all previous movements since they did obtain some settlements. The murder of seringueiro (rubber extractor) leader Chico Mendes, committed at the end of 1988 by farmers, added his name to a list of many other union leaders who were hit by the secular extermination of the oppressed in Brazilian society. It is as if we were still living in colonial times, when killing and massacring were legal rights of those under the tutelage of the metropolis.
 
-(Bibliography: CALADO, Alder Julio F., Rethinking the 500 Years, João Pessoa, Idéia, 1994; QUINTAS, Amaro, The Social Sentin ent in the Praeira Revolution, Recife, Oficinas Gr ficas da Imprensa Official, 1946; ALENCAR, Francisco et al., History of zn Soce R J L n 98 KH Lz PRR Ds B Hsoy <sup>P</sup> 979 N <sup>M</sup> J V <sup>B</sup>d <sup>d</sup> e Isureco <sup>o</sup> Sves M<sup>o</sup> P A 93 N Cudos: Ode d Pogess he B<sup>c</sup> ads, <sup>P</sup> <sup>M</sup> 990 <sup>B</sup>B¥ <sup>L</sup>o <sup>H</sup>so i e Bckds P 975)
+(Bibliography: CALADO, Alder Julio F., Rethinking the 500 Years, João Pessoa, Idéia, 1994; QUINTAS, Amaro, The Social Sentin ent in the Praeira Revolution, Recife, Oficinas Gr ficas da Imprensa Official, 1946; ALENCAR, Francisco et al., History of zn Soce R J L n 98 KH Lz PRR Ds B Hsoy P 979 N M J V Bd d e Isureco o Sves Mo P A 93 N Cudos: Ode d Pogess he Bc ads, P M 990 BB¥ Lo Hso i e Bckds P 975)
 
 ### oe l 1age 98
 
-Ts s M ss sh <sup>s</sup> b h Bz r h W Bk h b h ss bs <sup>s</sup> <sup>s</sup> kp h bks hqs i Wsh ps pym<sup>s</sup> <sup>t</sup> h Bz 1sy Dpm s b bs ws wh hs h bk gs hs sp h W <sup>B</sup>ks x p Bz:
+Ts s M ss sh s b h Bz r h W Bk h b h ss bs s s kp h bks hqs i Wsh ps pyms t h Bz 1sy Dpm s b bs ws wh hs h bk gs hs sp h W Bks x p Bz:
 
-I h s p s Bz h s s s h p sp s sss h i, h u hs s p s h pjs wh <sup>w</sup> p whh h bjs s by h <sup>W</sup> <sup>B</sup>k by h <sup>B</sup>z m Scoo<sup>s</sup> do o move. Te<sup>c</sup>es<sup>w</sup>o soud be tied <sup>s</sup>l demoste he sme defceces s beoe. Sude peomace so emed e se[y ] <sup>t</sup>y ys h W Bk s \$00 pjs Bz h Bz m s sp \$ 7 h <sup>s</sup> pjs h<sup>s</sup> by hh b h \$80 N s hs b <sup>s</sup>y h sp \$280 \$00 s 
+I h s p s Bz h s s s h p sp s sss h i, h u hs s p s h pjs wh w p whh h bjs s by h W Bk by h Bz m Scoos do o move. Teceswo soud be tied sl demoste he sme defceces s beoe. Sude peomace so emed e se[y ] ty ys h W Bk s \$00 pjs Bz h Bz m s sp \$ 7 h s pjs hs by hh b h \$80 N s hs b sy h sp \$280 \$00 s 
 
-<sup>w</sup>h h h wh <sup>s</sup>ys h h W Bk s hb z s <sup>s</sup>ppw whs s pb <sup>w</sup>h s s h hs p w <sup>s</sup> h s p by h s h cy h s s s ss s h hs bks (075 p y h s whh s p y wh h y s bs ps 05 p <sup>s</sup> <sup>p</sup>y h fss) F ss ps s h W Bk pss b p h ( Ve z /3/94)
+wh h h wh sys h h W Bk s hb z s sppw whs s pb wh s s h hs p w s h s p by h s h cy h s s s ss s h hs bks (075 p y h s whh s p y wh h y s bs ps 05 p s py h fss) F ss ps s h W Bk pss b p h ( Ve z /3/94)
 
 ### Note 12-Page 98
 
-Dssp hs s hs B <sup>z</sup>. Bk <sup>s</sup> <sup>s</sup>hs w p; hy b h JSU<sup>s</sup> hs b s sh<sup>s</sup> yy h h hs y h ws b py h ss <sup>w</sup>s s b s kw wys h y hs h h hh E <sup>w</sup>s Js s sss y h R d h p e by JS <sup>s</sup>hs h <sup>w</sup> ( <sup>w</sup>s Bz bw 599 759) ps <sup>y</sup> C <sup>h</sup>s h <sup>h</sup> ssp<sup>d</sup> <sup>i</sup> hls IlO s h h b h b ss ws h <sup>w</sup> y p <sup>s</sup> h h Js xs 759 <sup>s</sup>hs b <sup>s</sup> pb p b hs-wh w sky k s pss kw s h i ss hs y pps <sup>w</sup> h b <sup>s</sup> <sup>w</sup>h h k s <sup>s</sup>sss js h hy h pws h <sup>s</sup> <sup>a</sup> y hs h
+Dssp hs s hs B z. Bk s shs w p; hy b h JSUs hs b s shs yy h h hs y h ws b py h ss ws s b s kw wys h y hs h h hh E ws Js s sss y h R d h p e by JS shs h w ( ws Bz bw 599 759) ps y C hs h h sspd i hls IlO s h h b h b ss ws h w y p s h h Js xs 759 shs b s pb p b hs-wh w sky k s pss kw s h i ss hs y pps w h b s wh h k s ssss js h hy h pws h s a y hs h
 
-Wh h ps h Jss, Bz <sup>w</sup> <sup>s</sup>hss h ys h s <sup>s</sup>h<sup>s</sup>" whh w h Js's ps whh sysz kw <sup>w</sup>h pvs hs A h ph with the arrival of the Portuguese Royal Family (an entourage of fifteen thousand people), followed by some "cultural creations"—the opening of higher education programs specializing in such areas of knowledge as engineering and medicine, and the transplantation of the National Library from the metropolis—was not enough to reverse the educational picture in the colony.
+Wh h ps h Jss, Bz w shss h ys h s shs" whh w h Js's ps whh sysz kw wh pvs hs A h ph with the arrival of the Portuguese Royal Family (an entourage of fifteen thousand people), followed by some "cultural creations"—the opening of higher education programs specializing in such areas of knowledge as engineering and medicine, and the transplantation of the National Library from the metropolis—was not enough to reverse the educational picture in the colony.
 
 ### Note 13—Page 106
 

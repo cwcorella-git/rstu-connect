@@ -1,14 +1,10 @@
 ---
-date: 2025
-author: Nevada Current
-tags:
-  - organizing
-  - strikes
-  - unions
-  - tenants
-  - housing
 title: "Too busy fretting over you-know-who to follow the NV Legislature_ The Current's got you covered. • Nevada Current"
+author: "Nevada Current"
+date: "2025"
+category: "housing"
 ---
+
 # Too busy fretting over you-know-who to follow the NV Legislature_ The Current's got you covered. • Nevada Current
 
 *Converted from: `./Too busy fretting over you-know-who to follow the NV Legislature_ The Current's got you covered. • Nevada Current.pdf`*  
@@ -36,8 +32,6 @@ title: "Too busy fretting over you-know-who to follow the NV Legislature_ The Cu
 Too busy fretting over you-know-who to follow the NV L...             https://nevadacurrent.com/2025/04/16/too-busy-fretting...
 
 
-
-
                                                        PART OF STATES NEWSROOM
                                                                                                            
 
@@ -46,25 +40,22 @@ Too busy fretting over you-know-who to follow the NV L...             https://ne
 
 
                       Too busy fretting over you-know-who to
-                      follow the NV Legislature? The Current’s
+                      follow the NV Legislature? The Current's
                       got you covered.
                       BY: APRIL CORBIN GIRNUS - APRIL 16, 2025          5:00 AM
 
                                                            
 
 
+                     "In the past, we've seen that when we get a 20-point reduction over three months" in the
+                    consumer condence index "a recession will follow within 6 months," a Moody's economist told
+                    Nevada's Economic Forum. "We're currently at 19.3%." (Photo: Jeniffer Solis/Nevada Current)
 
 
-                     “In the past, we’ve seen that when we get a 20-point reduction over three months” in the
-                    consumer con�dence index ”a recession will follow within 6 months,” a Moody’s economist told
-                    Nevada’s Economic Forum. “We’re currently at 19.3%.” (Photo: Jeniffer Solis/Nevada Current)
-
-
-
-                      The Nevada Current’s small but mighty sta� of �ve has so far
+                      The Nevada Current's small but mighty sta of ve has so far
                       covered dozens of bills introduced into the 2025 Legislative
-                      Session. If you’ve missed a story or two (or dozen) of them, we
-                      understand. (There. Is. A. Lot. Going. On.) Here’s a look at the bills
+                      Session. If you've missed a story or two (or dozen) of them, we
+                      understand. (There. Is. A. Lot. Going. On.) Here's a look at the bills
                       that caught our eye and where they are, complete with links to our
                       prior coverage.
 
@@ -101,10 +92,10 @@ Too busy fretting over you-know-who to follow the NV L...     https://nevadacurr
                         •                       (Assemblymember Venicia Considine, D)
                           would require all non-optional fees, such as sewer and water, be
                           listed in advertisements for rental properties. It would also
-                          require landlords to o�er a free way for tenants to pay rent.
+                          require landlords to oer a free way for tenants to pay rent.
                           Status: Passed Assembly Commerce and Labor.
                         •                       (Assemblymember Erica Roth, D) would
-                          expand e�orts to automatically seal eviction records. Status:
+                          expand eorts to automatically seal eviction records. Status:
                           Passed Assembly Judiciary.
                         •                       (Assemblymember Venicia Considine, D)
                           would allow a third party to take over the property until repairs
@@ -129,7 +120,6 @@ Too busy fretting over you-know-who to follow the NV L...     https://nevadacurr
                         •                      * (Gov. Joe Lombardo, R) would allocate
 
 
-
 2 of 9                                                                                                 8/7/25, 1:34 PM
 
 ---
@@ -145,25 +135,25 @@ Too busy fretting over you-know-who to follow the NV L...     https://nevadacurr
 Too busy fretting over you-know-who to follow the NV L...   https://nevadacurrent.com/2025/04/16/too-busy-fretting...
 
 
-                            $250 million to build more housing and expand the de�nition
-                            of a�ordable housing to include people with higher incomes.
+                            $250 million to build more housing and expand the denition
+                            of aordable housing to include people with higher incomes.
                             Status: Heard by Assembly Commerce and Labor, no action taken.
 
                      Consumer Protections
                         •                   (State Sen. James Ohrenschall, D) would adopt
-                          the Uniform Antitrust Pre-Merger Noti�cation Act, requiring
+                          the Uniform Antitrust Pre-Merger Notication Act, requiring
                           companies to submit to the state attorney general the same
                           notices and information they are already required to provide
                           federal agencies prior to mergers or acquisitions. Passed Senate
                           Commerce and Labor.
                         •                   (State Sen. Rochelle Nguyen, D) would curb
-                          how much pro�t pharmacy bene�t managers can make. Status:
+                          how much prot pharmacy benet managers can make. Status:
                           Passed Senate Commerce and Labor.
                         •                   mandates utilities report the number of
                           disconnections due to non-payment. Status: Passed Senate
                           Growth and Infrastructure.
                         •                     (Attorney General Aaron Ford, D) seeks to
-                          crack down on “knowingly deceptive” price �xing. Status:
+                          crack down on "knowingly deceptive" price xing. Status:
                           Passed Assembly Commerce and Labor.
                         •                       (Assemblymember Max Carter, D) would
                           prevent collection agencies from threatening to arrest people
@@ -172,7 +162,7 @@ Too busy fretting over you-know-who to follow the NV L...   https://nevadacurren
                           Commerce and Labor.
 
                      Health care
-                        •                  would require the state’s Department of Health
+                        •                  would require the state's Department of Health
                           and Human Services to apply for a federal waiver and amend
                           the state Medicaid plan to cover medical respite care for people
                           experiencing homelessness. Passed Senate Health and Human
@@ -185,7 +175,6 @@ Too busy fretting over you-know-who to follow the NV L...   https://nevadacurren
                         •                   * (State Sen. Marilyn Dondero Loop, D) would
                           increase Medicaid reimbursement for mental health providers.
                           Passed Senate Commerce.
-
 
 
 3 of 9                                                                                               8/7/25, 1:34 PM
@@ -203,7 +192,6 @@ Too busy fretting over you-know-who to follow the NV L...   https://nevadacurren
 Too busy fretting over you-know-who to follow the NV L...     https://nevadacurrent.com/2025/04/16/too-busy-fretting...
 
 
-
                      Health care / Reproductive Rights
                         •                    * (State Sen. Nicole Cannizzaro, D) would
                           establish the right to assisted reproduction treatment, including
@@ -218,14 +206,14 @@ Too busy fretting over you-know-who to follow the NV L...     https://nevadacurr
                           employees and volunteers of reproductive health care facilities,
                           as well as their spouses, domestic partners or minor children,
                           by allowing them to request a court order that keeps their
-                          personal information con�dential on otherwise public records
-                          within the o�ces of county recorder, county assessor, county
+                          personal information condential on otherwise public records
+                          within the oces of county recorder, county assessor, county
                           clerk, city clerk, Secretary of State, or Department of Motor
-                          Vehicles. Status: Passed Assembly Government A�airs.
+                          Vehicles. Status: Passed Assembly Government Aairs.
                         •                        (Assemblymember Sandra Jauregui, D)
                           would allow prescriptions for drugs used for medical abortions
                           and miscarriage management to list the name of the prescribing
-                          health care practice, rather than the name of the speci�c
+                          health care practice, rather than the name of the specic
                           individual providing the prescription. Status: Passed Assembly
                           Health and Human Services.
 
@@ -263,19 +251,19 @@ Too busy fretting over you-know-who to follow the NV L...   https://nevadacurren
 
                           agreements to use their         priorities.
                           accrued leave to care for
-                          family members. Status:         The ‘A Teacher In Every
-                          Passed Assembly                 Classroom’ question is now
-                          Commerce and Labor.             slated to appear on next year’s
+                          family members. Status:         The 'A Teacher In Every
+                          Passed Assembly                 Classroom' question is now
+                          Commerce and Labor.             slated to appear on next year's
                         •                      *          general election ballot unless
                           (Assemblymember                 the union voluntarily withdraws
-                          Natha Anderson, D) —            it.
+                          Natha Anderson, D) --            it.
                           give graduate assistants
                           the right to collectively
                           bargain for better pay
-                          and conditions. Status: Passed Assembly Government A�airs,
+                          and conditions. Status: Passed Assembly Government Aairs,
                           referred to Assembly Ways and Means.
                         •                      * (Assemblymember Selena La Rue Hatch,
-                          D) — requires private employers with more than 50 workers, as
+                          D) -- requires private employers with more than 50 workers, as
                           well as all public employers, to provide paid family and medical
                           leave. Status: Passed Assembly Commerce and Labor, referred to
                           Assembly Ways and Means.
@@ -289,11 +277,11 @@ Too busy fretting over you-know-who to follow the NV L...   https://nevadacurren
                           would let voters in 2028 decide whether Nevada should
                           establish a dedicated business court with the goal of enticing
                           large companies to incorporate here. Status: Heard by Assembly
-                          Judiciary, then withdrawn and put on the Chief Clerk’s desk. On
-                          Monday, taken o� the Chief Clerk’s desk and amended.
+                          Judiciary, then withdrawn and put on the Chief Clerk's desk. On
+                          Monday, taken o the Chief Clerk's desk and amended.
                         •                      (Assemblymember Selena La Rue Hatch, D)
                           would create a Regional Rail Transit Advisory Working Group
-                          to assess the need for a regional rail system in the state’s largest
+                          to assess the need for a regional rail system in the state's largest
                           metro areas, as well as potential funding sources for such a
                           system. Passed Assembly Legislative Operations and Elections.
                         •                      (Assemblymember Rich DeLong, D) would
@@ -320,7 +308,6 @@ Too busy fretting over you-know-who to follow the NV L...   https://nevadacurren
 Too busy fretting over you-know-who to follow the NV L...   https://nevadacurrent.com/2025/04/16/too-busy-fretting...
 
 
-
                      Business & Economic Development
                         •                  (Storey County) would require companies
                           seeking massive tax abatements to enter into agreements to
@@ -330,33 +317,33 @@ Too busy fretting over you-know-who to follow the NV L...   https://nevadacurren
                         •                        (Assemblymember Natha Anderson) would
                           bar most HOAs from prohibiting licensed home-based
                           childcare operations within their communities. Status: Passed
-                          Assembly Government A�airs.
+                          Assembly Government Aairs.
                         •                     8* (Assemblymember Sandra Jauregui, D) is
                           known as the Nevada Studio Infrastructure Jobs and Workforce
-                          Training Act. It massively expands the state’s �lm tax credit
+                          Training Act. It massively expands the state's lm tax credit
                           program to support a production studio in Summerlin in Las
                           Vegas. Status: Heard by Assembly Revenue, referred to Assembly
                           Ways and Means.
                         •                   * (State Sen. Roberta Lange, D) is known as the
                           Nevada Film Infrastructure, Workforce Development,
-                          Education and Economic Diversi�cation Act. It massively
-                          expands the state’s �lm tax credit program to support a
+                          Education and Economic Diversication Act. It massively
+                          expands the state's lm tax credit program to support a
                           production studio in southwest Las Vegas. Status: Heard by
                           Senate Revenue and Economic Development, referred to Senate
                           Finance.
-                        •                       * (Assemblymember P.K. O’Neill, R) would
-                          create a “regulatory sandbox” for the insurance industry. Passed
+                        •                       * (Assemblymember P.K. O'Neill, R) would
+                          create a "regulatory sandbox" for the insurance industry. Passed
                           Assembly Commerce and Labor Committee.
                         •                       * (Assemblymember Venicia Considine, D)
                           seeks to close a potential loophole that can be used by corporate
-                          landlords to avoid paying the state’s commerce tax. Status:
+                          landlords to avoid paying the state's commerce tax. Status:
                           Passed Assembly Revenue.
                         •                        would ban retail pet sales statewide. Status:
                           Passed Assembly Natural Resources.
 
                      Education
                         •                  (State Sen. Skip Daly, D) would ban charter
-                          schools from contracting with for-pro�t education management
+                          schools from contracting with for-prot education management
                           organizations. Status: Passed Senate Education.
                         •                     * (Assemblymember Erica Mosca, D) would
                           dedicate $100 million in state general obligation bonds for
@@ -389,7 +376,7 @@ Too busy fretting over you-know-who to follow the NV L...   https://nevadacurren
 Too busy fretting over you-know-who to follow the NV L...             https://nevadacurrent.com/2025/04/16/too-busy-fretting...
 
 
-                          Passed Assembly Government A�airs, referred to Assembly Ways
+                          Passed Assembly Government Aairs, referred to Assembly Ways
                           and Means.
                         •                     (Assemblymember Daniele Monroe-
                           Moreno, D) would change how Opportunity Scholarships are
@@ -413,19 +400,16 @@ Too busy fretting over you-know-who to follow the NV L...             https://ne
                           Judiciary, no hearing scheduled.
 
                      Misc.
-                        •                  * (State Sen. Dina Neal, D) — would establish
-                          guardrails around arti�cial intelligence. Status: Passed Senate
+                        •                  * (State Sen. Dina Neal, D) -- would establish
+                          guardrails around articial intelligence. Status: Passed Senate
                           Commerce and Labor.
                         •                     would mandate that cities and counties with
-                          populations exceeding 100,000 people include “heat
-                          mitigation” as part of their master plans. Status: Passed
-                          Government A�airs.
-
-
+                          populations exceeding 100,000 people include "heat
+                          mitigation" as part of their master plans. Status: Passed
+                          Government Aairs.
 
 
                      Our stories may be republished online or in print under Creative Commons license CC BY-NC-ND
-
 
 
 7 of 9                                                                                                              8/7/25, 1:34 PM
@@ -464,8 +448,6 @@ Too busy fretting over you-know-who to follow the NV L...                 https:
                      of any other photos and graphics.
 
 
-
-
                                                APRIL CORBIN GIRNUS 
                                                April Corbin Girnus is an award-winning journalist and deputy editor of
                                                Nevada Current. A stickler about municipal boundary lines, April enjoys
@@ -473,47 +455,38 @@ Too busy fretting over you-know-who to follow the NV L...                 https:
                                                Sunrise Manor and currently resides in Paradise with her husband, three
                                                children and one mutt.
 
-                                               Nevada Current is part of States Newsroom, the nation’s largest state-
-                                               focused nonpro�t news organization.
+                                               Nevada Current is part of States Newsroom, the nation's largest state-
+                                               focused nonprot news organization.
 
                                                MORE FROM AUTHOR
-
-
 
 
                         MORE FROM OUR NEWSROOM
 
 
-
-
-                       NV Senate Republicans won’t sue over               Breastfeeding protections, use-of-
+                       NV Senate Republicans won't sue over               Breastfeeding protections, use-of-
                        controversial 11th hour resolutions                force reports among bills going into
                        passed by Democrats                                effect July 1
                        BY APRIL CORBIN GIRNUS                             BY MICHAEL LYLE
                        July 8, 2025                                       June 27, 2025
 
 
-
-
                                     P O L I CY, P O L I T I C S A N D C O M M E N TA RY
-
 
 
                          DEMOCRACY TOOLKIT                                                                       
 
 
-                                                       Nevada Current is a nonpro�t online source of political and policy
+                                                       Nevada Current is a nonprot online source of political and policy
                                                        news and commentary. We seek to demonstrate how policies,
                                                        institutions and systems make life harder for Nevadans than it
                                                        needs to be; document how things got that way, and; explore what
-                                                       it might take to �x them.
+                                                       it might take to x them.
 
-                                                       We’re part of States Newsroom, the nation’s largest state-focused
-                                                       nonpro�t news organization.
+                                                       We're part of States Newsroom, the nation's largest state-focused
+                                                       nonprot news organization.
 
                                                        DEIJ Policy | Ethics Policy | Privacy Policy
-
-
 
 
 8 of 9                                                                                                                      8/7/25, 1:34 PM
@@ -541,19 +514,14 @@ Too busy fretting over you-know-who to follow the NV L...                 https:
 Too busy fretting over you-know-who to follow the NV L...                       https://nevadacurrent.com/2025/04/16/too-busy-fretting...
 
 
-
-
                        Our stories may be republished online or in print under Creative Commons license CC BY-NC-ND
                         4.0. We ask that you edit only for style or to shorten, provide proper attribution and link to our
                                                    website. (See full republishing guidelines.)
 
 
-
                                                                                                       
                                                               © Nevada Current, 2025
                                                                       v1.86.4
-
-
 
 
                                                      S TAT E S N E WS R O O M
@@ -562,9 +530,6 @@ Too busy fretting over you-know-who to follow the NV L...                       
                                                  FA I R . F E A R L E S S . F R E E .
 
 
-
-
 9 of 9                                                                                                                       8/7/25, 1:34 PM
 
 ---
-

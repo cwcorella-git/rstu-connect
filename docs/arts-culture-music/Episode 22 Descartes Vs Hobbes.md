@@ -1,3 +1,8 @@
+---
+title: "**Episode 22: Descartes Vs Hobbes/**"
+category: "arts-culture-music"
+---
+
 # **Episode 22: Descartes Vs Hobbes/**
 
 **Source:** https://www.meaningcrisis.co/ep-22-awakening-from-the-meaning-crisis-descartes-vs-hobbes/

@@ -1,3 +1,8 @@
+---
+title: "**[What Games Are](https://web.archive.org/web/20250913083144/https://www.whatgamesare.com/)**"
+category: "contemporary-analysis"
+---
+
 The Wayback Machine - https://web.archive.org/web/20250913083144/https://www.whatgamesare.com/2011/01/single-player-games-are-not-an-…
 
 # **[What Games Are](https://web.archive.org/web/20250913083144/https://www.whatgamesare.com/)**

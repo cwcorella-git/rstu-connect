@@ -1,3 +1,8 @@
+---
+title: "**Becky Chambers**"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 # **Becky Chambers**
@@ -40,15 +45,15 @@ Los [Angeles](https://en.wikipedia.org/wiki/Los_Angeles_County,_California) Coun
 
 # **Career**
 
-Chambers worked in theater management and as a freelance writer before [self-publishing](https://en.wikipedia.org/wiki/Self-publishing) her first novel, *[The Long Way to a Small, Angry Planet](https://en.wikipedia.org/wiki/The_Long_Way_to_a_Small,_Angry_Planet)*, in 2014, after successfully raising funds on [Kickstarter](https://en.wikipedia.org/wiki/Kickstarter). The novel received critical acclaim and a [Kitschies](https://en.wikipedia.org/wiki/Kitschies) nomination, becoming the first self-published novel to do so.[\[5\]](#page-4-0) This prompted [Hodder & Stoughton](https://en.wikipedia.org/wiki/Hodder_%26_Stoughton) and [Harper Voyager](https://en.wikipedia.org/wiki/Harper Collins) to pick up and republish the novel.[\[6\]](#page-4-1) The novel was the first book in the *Wayfarers* series, which includes three sequels: *A [Closed and Common](https://en.wikipedia.org/wiki/A_Closed_and_Common_Orbit)* <u>Orbit</u>, in 2016; <u>Record of a Spaceborn Few</u>, in 2018; and <u>The Galaxy, and the Ground Within</u>, in 2021. The series won the 2019 Hugo Award for Best Series. She has announced that the *Wayfarers* series has concluded. [4]
+Chambers worked in theater management and as a freelance writer before [self-publishing](https://en.wikipedia.org/wiki/Self-publishing) her first novel, *[The Long Way to a Small, Angry Planet](https://en.wikipedia.org/wiki/The_Long_Way_to_a_Small,_Angry_Planet)*, in 2014, after successfully raising funds on [Kickstarter](https://en.wikipedia.org/wiki/Kickstarter). The novel received critical acclaim and a [Kitschies](https://en.wikipedia.org/wiki/Kitschies) nomination, becoming the first self-published novel to do so.[\[5\]](#page-4-0) This prompted [Hodder & Stoughton](https://en.wikipedia.org/wiki/Hodder_%26_Stoughton) and [Harper Voyager](https://en.wikipedia.org/wiki/Harper Collins) to pick up and republish the novel.[\[6\]](#page-4-1) The novel was the first book in the *Wayfarers* series, which includes three sequels: *A [Closed and Common](https://en.wikipedia.org/wiki/A_Closed_and_Common_Orbit)* Orbit, in 2016; Record of a Spaceborn Few, in 2018; and The Galaxy, and the Ground Within, in 2021. The series won the 2019 Hugo Award for Best Series. She has announced that the *Wayfarers* series has concluded. [4]
 
-She published a novella, <u>To Be Taught, If Fortunate</u>, in August 2019, with a story that was not connected to the *Wayfarers* books.
+She published a novella, To Be Taught, If Fortunate, in August 2019, with a story that was not connected to the *Wayfarers* books.
 
-In July 2018, it was announced that she signed a two-book deal with <u>Tor Books.<sup>[7]</sup></u> The first book, <u>A Psalm for the Wild-Built</u>, was published in May 2021. The story introduced Dex, a travelling tea monk, and Mosscap, a <u>sentient</u> robot. The second book, <u>A Prayer for the Crown-Shy</u>, was published in July 2022 and continued the story of Dex and Mosscap. [9]
+In July 2018, it was announced that she signed a two-book deal with Tor Books.[7] The first book, A Psalm for the Wild-Built, was published in May 2021. The story introduced Dex, a travelling tea monk, and Mosscap, a sentient robot. The second book, A Prayer for the Crown-Shy, was published in July 2022 and continued the story of Dex and Mosscap. [9]
 
 ### Style and themes
 
-Her *Wayfarers* series novels take place in a <u>fictional universe</u>, governed by the Galactic Commons to which humans are relative newcomers. She has been lauded for the strong world-building in the series, including multiple unique alien races. Reviewers have cited her complex and likeable characters who drive the story. Her work has been alternately criticized and praised for the deliberate, character-driven pacing and lack of the propulsive plots typical of other space opera novels. [12][13]
+Her *Wayfarers* series novels take place in a fictional universe, governed by the Galactic Commons to which humans are relative newcomers. She has been lauded for the strong world-building in the series, including multiple unique alien races. Reviewers have cited her complex and likeable characters who drive the story. Her work has been alternately criticized and praised for the deliberate, character-driven pacing and lack of the propulsive plots typical of other space opera novels. [12][13]
 
 ### **Personal life**
 
@@ -58,17 +63,25 @@ Chambers has lived in Iceland and Scotland before returning to California, where
 
 | Year | Work | Award | Category | Result | Ref |
 |------|---------------------------------------|-------------------------------|-------------------------------------------|------------|------|
-| 2014 | The Long Way to a Small, Angry Planet | Kitschies | Golden Tentacle (Best Debut<br>Novel) | Nominated | [15] |
+| 2014 | The Long Way to a Small, Angry Planet | Kitschies | Golden Tentacle (Best Debut
+Novel) | Nominated | [15] |
 | 2015 | | Otherwise Award | _ | Longlisted | [16] |
-| 2016 | | British Fantasy<br>Award | Best Newcomer (Sydney J.<br>Bounds Award) | Nominated | [17] |
+| 2016 | | British Fantasy
+Award | Best Newcomer (Sydney J.
+Bounds Award) | Nominated | [17] |
 | 2016 | | Women's Prize for Fiction | _ | Longlisted | [18] |
-| 2016 | | Arthur C. Clarke<br>Award | _ | Nominated | [19] |
-| 2017 | | Grand prix de<br>l'Imaginaire | Foreign Novel | Nominated | [20] |
-| 2016 | A Closed and Common<br>Orbit | BSFA Award | Novel | Nominated | [21] |
-| 2017 | | Arthur C. Clarke<br>Award | _ | Nominated | [22] |
+| 2016 | | Arthur C. Clarke
+Award | _ | Nominated | [19] |
+| 2017 | | Grand prix de
+l'Imaginaire | Foreign Novel | Nominated | [20] |
+| 2016 | A Closed and Common
+Orbit | BSFA Award | Novel | Nominated | [21] |
+| 2017 | | Arthur C. Clarke
+Award | _ | Nominated | [22] |
 | | | Hugo Award | Novel | Nominated | [23] |
 | | Wayfarers series | Prix Julia Verlanger | _ | Won | [24] |
-| 2018 | Record of a Spaceborn<br>Few | Kitschies | Red Tentacle (Best Novel) | Nominated | [25] |
+| 2018 | Record of a Spaceborn
+Few | Kitschies | Red Tentacle (Best Novel) | Nominated | [25] |
 | 2019 | | Locus Award | Science Fiction Novel | Nominated | [26] |
 | | | Hugo Award | Novel | Nominated | [27] |
 | | Wayfarers series | Hugo Award | Series | Won | [27] |

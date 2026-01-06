@@ -1,3 +1,8 @@
+---
+title: "## **RWU Statement Upon the Acquittal of Canadian Railroad Workers**"
+category: "technology-digital-justice"
+---
+
 ## **RWU Statement Upon the Acquittal of Canadian Railroad Workers**
 
 ## **Date:** Mon, 01/22/2018 - 16:04

@@ -1,3 +1,8 @@
+---
+title: "## **The Workers' Dreadnought (Vol. 05 No. 30 - 19 October 1918)**"
+category: "contemporary-analysis"
+---
+
 ## **The Workers' Dreadnought (Vol. 05 No. 30 - 19 October 1918)**
 
 ## **Date:** Unknown

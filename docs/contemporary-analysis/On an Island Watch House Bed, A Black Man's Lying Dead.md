@@ -1,3 +1,8 @@
+---
+title: "## **On an Island Watch House Bed, A Black Man's Lying Dead**"
+category: "contemporary-analysis"
+---
+
 ## **On an Island Watch House Bed, A Black Man's Lying Dead**
 
 ## **Date:** Unknown

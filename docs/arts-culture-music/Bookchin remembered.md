@@ -1,3 +1,8 @@
+---
+title: "## **Bookchin remembered**"
+category: "arts-culture-music"
+---
+
 ## **Bookchin remembered**
 
 ## **Date:** Unknown

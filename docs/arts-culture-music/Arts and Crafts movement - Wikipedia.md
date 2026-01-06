@@ -1,3 +1,8 @@
+---
+title: "**Arts and Crafts movement**"
+category: "arts-culture-music"
+---
+
 ## ![](_page_0_Picture_2.jpeg)
 
 # **Arts and Crafts movement**

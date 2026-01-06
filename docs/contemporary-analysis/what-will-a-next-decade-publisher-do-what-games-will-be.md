@@ -1,3 +1,8 @@
+---
+title: "**[What Games Are](https://web.archive.org/web/20250913102732/https://www.whatgamesare.com/)**"
+category: "contemporary-analysis"
+---
+
 # **[What Games Are](https://web.archive.org/web/20250913102732/https://www.whatgamesare.com/)**
 
 ## ![](_page_0_Picture_2.jpeg)
@@ -173,7 +178,8 @@ You can follow Tadhg on Twitter here:
 |----------------------------------------------|
 | Subscribe |
 | Or RSS (Google Reader etc): |
-| Subscribe<br>E S S E N T I A L R E A D I N G |
+| Subscribe
+E S S E N T I A L R E A D I N G |
 | The Glossary Project |
 | Video Game Writing And The Sense Of Story |
 | The Four Lenses Of Game Making |

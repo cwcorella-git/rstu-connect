@@ -1,3 +1,8 @@
+---
+title: "## **ABC Irkutsk: support the revolutionary prisoners of Siberia!**"
+category: "theory"
+---
+
 ## **ABC Irkutsk: support the revolutionary prisoners of Siberia!**
 
 **Date:** Unknown

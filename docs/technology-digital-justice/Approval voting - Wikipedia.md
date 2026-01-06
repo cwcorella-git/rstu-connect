@@ -1,3 +1,8 @@
+---
+title: "**Approval voting**"
+category: "technology-digital-justice"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Approval_voting)
 
 # **Approval voting**
@@ -66,17 +71,17 @@ In 2023, the North Dakota legislature passed a bill which intended to ban approv
 
 Approval has been used in privately administered nomination contests by the [Independent Party of Oregon](https://en.wikipedia.org/wiki/Independent_Party_of_Oregon) in 2011, 2012, 2014, and 2016. Oregon is a [fusion voting](https://en.wikipedia.org/wiki/Fusion_voting) state, and the party has cross-nominated legislators and statewide officeholders using this method; its 2016 presidential preference primary did not identify a potential nominee due to no candidate earning more than 32% support. [19][20][21] The party switched to using STAR voting in 2020. [22][23]
 
-It is also used in internal elections by the <u>American Solidarity</u>
+It is also used in internal elections by the American Solidarity
 
-Party;<sup>[24]</sup> the <u>Green Parties</u> of <u>Texas</u><sup>[25]</sup>[26] and <u>Ohio</u>;<sup>[27]</sup> the
+Party;[24] the Green Parties of Texas[25][26] and Ohio;[27] the
 
-<u>Libertarian National Committee</u>;<sup>[28]</sup> the <u>Libertarian parties</u> of
+Libertarian National Committee;[28] the Libertarian parties of
 
-<u>Texas</u>,<sup>[29]</sup> <u>Colorado</u>,<sup>[30]</sup>[31] <u>Arizona</u>,<sup>[32]</sup> and <u>New York</u>;<sup>[33]</sup>
+Texas,[29] Colorado,[30][31] Arizona,[32] and New York;[33]
 
-<u>Alliance 90/The Greens</u> in Germany;<sup>[34]</sup> and the <u>Czech</u><sup>[35]</sup> and
+Alliance 90/The Greens in Germany;[34] and the Czech[35] and
 
-<u>German Pirate Party</u>.<sup>[36]</sup>[37][38]
+German Pirate Party.[36][37][38]
 
 Approval has been adopted by several societies: the Society for Social Choice and Welfare (1992), [39] Mathematical Association of America (1986), [40] the American Mathematical Society, [41] the Institute of Management Sciences (1987) (now the Institute for Operations Research and the Management Sciences), [42] the American Statistical Association (1987), [43] and the Institute of Electrical and Electronics Engineers (1987).
 
@@ -170,12 +175,18 @@ An optimal approval vote always votes for the most preferred candidate and not f
 
 | Voter utilities for each candidate city | | | | | |
 |-----------------------------------------|------------|-----------|-------------|-----------|--|
-| Fraction of<br>voters | Candidates | | | | |
-| (living close<br>to) | Memphis | Nashville | Chattanooga | Knoxville | |
-| Memphis<br>(42%) | 100 | 15 | 10 | 0 | |
-| Nashville<br>(26%) | 0 | 100 | 20 | 15 | |
-| Chattanooga<br>(15%) | 0 | 15 | 100 | 35 | |
-## | Knoxville<br>(17%) | 0 | 15 | 40 | 100 | |
+| Fraction of
+voters | Candidates | | | | |
+| (living close
+to) | Memphis | Nashville | Chattanooga | Knoxville | |
+| Memphis
+(42%) | 100 | 15 | 10 | 0 | |
+| Nashville
+(26%) | 0 | 100 | 20 | 15 | |
+| Chattanooga
+(15%) | 0 | 15 | 100 | 35 | |
+## | Knoxville
+(17%) | 0 | 15 | 40 | 100 | |
 
 Using these utilities, voters choose their optimal strategic votes based on what they think the various pivot probabilities are for pairwise ties. In each of the scenarios summarized below, all voters share a common set of pivot probabilities.
 
@@ -184,13 +195,20 @@ Using these utilities, voters choose their optimal strategic votes based on what
 | Strategy | Winner | Runner-up | Candidate vote totals | | | |
 | scenario | | | Memphis | Nashville | | |
 | Zero-info | Memphis | Chattanooga | 42 | 26 | | |
-| Memphis<br>leading | Three-way tie | | 42 | 58 | | |
+| Memphis
+leading | Three-way tie | | 42 | 58 | | |
 
 | Chattanooga | | | | |
 |-------------------------------------|-------------|-----------|----|----|
-| Chattanooga<br>leading<br>Knoxville | Chattanooga | Nashville | 42 | 68 |
-| Chattanooga<br>leading<br>Nashville | Nashville | Memphis | 42 | 68 |
-| Nashville<br>leading<br>Memphis | Nashville | Memphis | 42 | 58 |
+| Chattanooga
+leading
+Knoxville | Chattanooga | Nashville | 42 | 68 |
+| Chattanooga
+leading
+Nashville | Nashville | Memphis | 42 | 68 |
+| Nashville
+leading
+Memphis | Nashville | Memphis | 42 | 58 |
 
 In the first scenario, voters all choose their votes based on the assumption that all pairwise ties are equally likely. As a result, they vote for any candidate with an above-average utility. Most voters vote for only their first choice. Only the Knoxville faction also votes for its second choice, Chattanooga. As a result, the winner is Memphis, the Condorcet loser, with Chattanooga coming in second place. In this scenario, the winner has minority approval (more voters disapproved than approved) and all the others had even less support, reflecting the position that no choice gave an above-average utility to a majority of voters.
 
@@ -204,7 +222,21 @@ Modeling voters with a 'dichotomous cutoff' assumes a voter has an immovable app
 
 For example, in this scenario, voters are voting for candidates with approval above 50% (bold signifies that the voters voted for the candidate):
 
-| Proportion<br>of<br>electorate | Approval<br>of<br>Candidate<br>A | Approval<br>of<br>Candidate<br>B | Approval<br>of<br>Candidate<br>C | Approval<br>of<br>Candidate<br>D |
+| Proportion
+of
+electorate | Approval
+of
+Candidate
+A | Approval
+of
+Candidate
+B | Approval
+of
+Candidate
+C | Approval
+of
+Candidate
+D |
 |--------------------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|
 | 25% | 90% | 60% | 40% | 10% |
 | 35% | 10% | 90% | 60% | 40% |
@@ -217,7 +249,21 @@ If voters' threshold for receiving a vote is that the candidate has an above ave
 
 | A drops out, candidates voting for above average approval | | | | | | |
 |-----------------------------------------------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|--|--|
-| Proportion<br>of<br>electorate | Approval<br>of<br>Candidate<br>A | Approval<br>of<br>Candidate<br>B | Approval<br>of<br>Candidate<br>C | Approval<br>of<br>Candidate<br>D | | |
+| Proportion
+of
+electorate | Approval
+of
+Candidate
+A | Approval
+of
+Candidate
+B | Approval
+of
+Candidate
+C | Approval
+of
+Candidate
+D | | |
 | 25% | – | 60% | 40% | 10% | | |
 ## | 35% | – | 90% | 60% | 40% | | |
 
@@ -229,7 +275,21 @@ B now wins with 60%, beating C with 55% and D with 40%
 
 | A drops out, candidates voting for approval > 50% | | | | | | | |
 |---------------------------------------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|--|--|--|
-| Proportion<br>of<br>electorate | Approval<br>of<br>Candidate<br>A | Approval<br>of<br>Candidate<br>B | Approval<br>of<br>Candidate<br>C | Approval<br>of<br>Candidate<br>D | | | |
+| Proportion
+of
+electorate | Approval
+of
+Candidate
+A | Approval
+of
+Candidate
+B | Approval
+of
+Candidate
+C | Approval
+of
+Candidate
+D | | | |
 | 25% | – | 60% | 40% | 10% | | | |
 | 35% | – | 90% | 60% | 40% | | | |
 | 30% | – | 10% | 90% | 60% | | | |
@@ -239,7 +299,21 @@ With dichotomous cutoff, C still wins.
 
 | D drops out, candidates voting for top 2 candidates | | | | | | |
 |-----------------------------------------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|--|--|
-| Proportion<br>of<br>electorate | Approval<br>of<br>Candidate<br>A | Approval<br>of<br>Candidate<br>B | Approval<br>of<br>Candidate<br>C | Approval<br>of<br>Candidate<br>D | | |
+| Proportion
+of
+electorate | Approval
+of
+Candidate
+A | Approval
+of
+Candidate
+B | Approval
+of
+Candidate
+C | Approval
+of
+Candidate
+D | | |
 | 25% | 90% | 60% | 40% | – | | |
 | 35% | 10% | 90% | 60% | – | | |
 | 30% | 40% | 10% | 90% | – | | |
@@ -249,7 +323,17 @@ With dichotomous cutoff, C still wins.
 
 | D drops out, candidates voting for approval > 50% | | | | | | | |
 |---------------------------------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|--|--|--|
-| Proportion<br>of<br>electorate | Approval<br>of<br>Candidate | Approval<br>of<br>Candidate | Approval<br>of<br>Candidate | Approval<br>of<br>Candidate | | | |
+| Proportion
+of
+electorate | Approval
+of
+Candidate | Approval
+of
+Candidate | Approval
+of
+Candidate | Approval
+of
+Candidate | | | |
 | | A | B | C | D | | | |
 | 25% | 90% | 60% | 40% | – | | | |
 | 35% | 10% | 90% | 60% | – | | | |

@@ -1,3 +1,8 @@
+---
+title: "**Godot Animation Tutorial - Comprehensive Guide - Game Dev Academy**"
+category: "contemporary-analysis"
+---
+
 [gamedevacademy.org](https://gamedevacademy.org/godot-animation-tutorial/)
 
 # **Godot Animation Tutorial - Comprehensive Guide - Game Dev Academy**

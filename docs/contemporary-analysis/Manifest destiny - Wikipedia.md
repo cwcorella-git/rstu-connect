@@ -1,3 +1,8 @@
+---
+title: "**Manifest destiny**"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_2.jpeg)
 
 # **Manifest destiny**

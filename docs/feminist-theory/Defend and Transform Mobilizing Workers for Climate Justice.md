@@ -1,3 +1,8 @@
+---
+title: "**Defend and Transform: Mobilizing Workers for Climate Justice**"
+category: "feminist-theory"
+---
+
 # **Defend and Transform: Mobilizing Workers for Climate Justice**
 
 ## **Date:** Wed, 09/08/2021 - 00:00
@@ -116,7 +121,10 @@ Workers and communities in transition: report of the just transition listening p
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Global Labour Column |
 | website. |
-| Jeremy Anderson leads Sustainable Transport at the International Transport Workers'<br>Federation (ITF), which mobilises unions in all transport sectors to take action for climate<br>justice. Jeremy is the Global Unions' representative on the Global Labour University Steering<br>Committee. |
+| Jeremy Anderson leads Sustainable Transport at the International Transport Workers'
+Federation (ITF), which mobilises unions in all transport sectors to take action for climate
+justice. Jeremy is the Global Unions' representative on the Global Labour University Steering
+Committee. |
 | Disclaimer: |
 | The views expressed here are not the official position of the IWW (or even the IWW's EUC) |
 

@@ -1,3 +1,8 @@
+---
+title: "I grew up hearing about the Illuminati everywhere, from DVD sermons to internet memes."
+category: "contemporary-analysis"
+---
+
 I grew up hearing about the Illuminati everywhere, from DVD sermons to internet memes.
 
 ## 0:06

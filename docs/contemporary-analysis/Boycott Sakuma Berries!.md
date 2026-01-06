@@ -1,3 +1,8 @@
+---
+title: "## **Boycott Sakuma Berries!**"
+category: "contemporary-analysis"
+---
+
 ## **Boycott Sakuma Berries!**
 
 ## **Date:** Thu, 01/28/2016 - 22:00

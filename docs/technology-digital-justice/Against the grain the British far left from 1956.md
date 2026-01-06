@@ -1,3 +1,8 @@
+---
+title: "## **Against the grain: the British far left from 1956**"
+category: "technology-digital-justice"
+---
+
 ## **Against the grain: the British far left from 1956**
 
 ## **Date:** Unknown
@@ -20,11 +25,17 @@ Introduction: The far left in Britain from 1956 - Evan Smith and Matthew WorleyP
 | Red Marriott |
 | 6 years 3 months ago |
 | In reply to Welcomebylibcom.org |
-| A pity not to see this in it, probably too far left for it;<br>https://libcom.org/history/looking-back-1956-30-years-after-ken-weller|
+| A pity not to see this in it, probably too far left for it;
+https://libcom.org/history/looking-back-1956-30-years-after-ken-weller|
 | freemind |
 | 6 years 3 months ago |
 | In reply to Welcomebylibcom.org |
-| There is a problem with the Attachment apparently as it only shows the First Section of the<br>Book. I read the chapter on Anarcho Punk/Class War etc and wasn't overly impressed. I found it<br>vague and Punk is as Anarchist as Rockabilly. Lifestylism and no understanding of Anarchist<br>politics. Class war was a Punk parody that played to stereotypes of Anarchism and no mention<br>of DAM/IWA. I ordered the book anyway for the chapters on Red Action and AFA which<br>Anarchists played an important role in. |
+| There is a problem with the Attachment apparently as it only shows the First Section of the
+Book. I read the chapter on Anarcho Punk/Class War etc and wasn't overly impressed. I found it
+vague and Punk is as Anarchist as Rockabilly. Lifestylism and no understanding of Anarchist
+politics. Class war was a Punk parody that played to stereotypes of Anarchism and no mention
+of DAM/IWA. I ordered the book anyway for the chapters on Red Action and AFA which
+Anarchists played an important role in. |
 | Fozzie |
 | 6 years 3 months ago |
 
@@ -82,12 +93,22 @@ Rockabilly and punk shared a similar aesthetic as skiffle - anyone could get up 
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 6 years 3 months ago |
 | In reply to Welcomebylibcom.org |
-| Yes AB, you're right about rockabilly in the context that you write. I was talking about the<br>youth cult of the early 80's rather than the original form. I stick by my comments on that<br>basis. Anyways, see you on Saturday for the event of the year! |
-| Freemind, yeah, I get the sarcasm now. I don't think this is you but there was and still is much<br>snobbery amongst lefties about anarcho punk, often by people that love(d) The Clash. It<br>drives me nuts that no credit is given to it. Even if it did absolutely nothing for anarchism at all,<br>which I vehemently dispute, it still opened minds, healed divisions and showed kids that they<br>could create their own entertainment and culture. What's not to like about that?Anyways,<br>thanks for helping me get my knickers in a twist for a day or two - it's actually been quite<br>invigorating!Btw, I was DJing on Saturday night and after reading your post slipped both<br>Crass and Flux into my set. You are responsible for the spawning of Anarcho Techno Punk!!! |
+| Yes AB, you're right about rockabilly in the context that you write. I was talking about the
+youth cult of the early 80's rather than the original form. I stick by my comments on that
+basis. Anyways, see you on Saturday for the event of the year! |
+| Freemind, yeah, I get the sarcasm now. I don't think this is you but there was and still is much
+snobbery amongst lefties about anarcho punk, often by people that love(d) The Clash. It
+drives me nuts that no credit is given to it. Even if it did absolutely nothing for anarchism at all,
+which I vehemently dispute, it still opened minds, healed divisions and showed kids that they
+could create their own entertainment and culture. What's not to like about that?Anyways,
+thanks for helping me get my knickers in a twist for a day or two - it's actually been quite
+invigorating!Btw, I was DJing on Saturday night and after reading your post slipped both
+Crass and Flux into my set. You are responsible for the spawning of Anarcho Techno Punk!!! |
 | freemind |
 | 6 years 3 months ago |
 | In reply to Welcomebylibcom.org |
-| I will see you in Court lol Clash done one good lo and were rubbish. Flux were good especially<br>Taking a Liberty. Tha Agitprop and artwork of Crass/Gee Vaucher and the zines I salute but as |
+| I will see you in Court lol Clash done one good lo and were rubbish. Flux were good especially
+Taking a Liberty. Tha Agitprop and artwork of Crass/Gee Vaucher and the zines I salute but as |
 
 we both agree it was a start.
 

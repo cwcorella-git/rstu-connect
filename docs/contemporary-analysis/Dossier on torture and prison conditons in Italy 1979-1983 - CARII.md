@@ -1,3 +1,8 @@
+---
+title: "## **Dossier on torture and prison conditons in Italy 1979-1983 - CARII**"
+category: "contemporary-analysis"
+---
+
 ## **Dossier on torture and prison conditons in Italy 1979-1983 - CARII**
 
 ## **Date:** Unknown

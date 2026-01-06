@@ -1,3 +1,8 @@
+---
+title: "## **Is the IWW all-sufficient for the workers needs? - Vincent St. John**"
+category: "contemporary-analysis"
+---
+
 ## **Is the IWW all-sufficient for the workers needs? - Vincent St. John**
 
 ## **Date:** Unknown

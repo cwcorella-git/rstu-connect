@@ -1,3 +1,8 @@
+---
+title: "## **The 21st Century Doesn't Need a New Deal: It Needs a New Economic Model**"
+category: "economic-alternatives"
+---
+
 ## **The 21st Century Doesn't Need a New Deal: It Needs a New Economic Model**
 
 ## **Date:** Tue, 08/09/2016 - 16:16

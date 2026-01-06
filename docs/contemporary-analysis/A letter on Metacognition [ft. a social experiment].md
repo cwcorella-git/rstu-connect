@@ -1,12 +1,19 @@
+---
+title: "## **A letter on Metacognition [ft. a social experiment]**"
+category: "contemporary-analysis"
+---
+
 ## **A letter on Metacognition [ft. a social experiment]**
 
 | Date: 2025-08-26 |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Source: https://www.threadings.io/a-letter-on-metacognition-ft-a-social-experiment/|
 | Central inquiry: how do we use online apparatuses to organize? |
-| from 2023; when a child called Lela made their Black History Month trifold on me. Also: the<br>day I realized the scope of the work is far, far bigger than me. |
+| from 2023; when a child called Lela made their Black History Month trifold on me. Also: the
+day I realized the scope of the work is far, far bigger than me. |
 | METACOGNITION = THINKING ABOUT THINKING. |
-| Purpose in writing upfront: this letter seeks to reorient my masses towards our shared values,<br>objectives, and outcomes for our time in shared cyberspace. |
+| Purpose in writing upfront: this letter seeks to reorient my masses towards our shared values,
+objectives, and outcomes for our time in shared cyberspace. |
 | Metacognition threadings edited read through |
 | 0:00 |
 | / |
@@ -165,13 +172,19 @@ Right now, at this very moment,
 | Reading |
 | : do your best to read the essay |
 | and the sources |
-| in an essay. Reading and writing notes (just a cute four sentence reflection!) in the comment<br>section and for yourself, with a pen and paper, are the best ways you can interact with the<br>written materials. |
+| in an essay. Reading and writing notes (just a cute four sentence reflection!) in the comment
+section and for yourself, with a pen and paper, are the best ways you can interact with the
+written materials. |
 | Listening |
 | : I provide audios because I know they are necessary tool for learning. |
 | Watching |
-| : wherever possible, visual essays have components that increase the level of<br>comprehension. Words and definitions, diagrams and pictures, notes, on screen sources…<br>etc. I make visual essays because I know can act as a stepping stone for increasing one's<br>ability to concentrate. |
+| : wherever possible, visual essays have components that increase the level of
+comprehension. Words and definitions, diagrams and pictures, notes, on screen sources…
+etc. I make visual essays because I know can act as a stepping stone for increasing one's
+ability to concentrate. |
 | Please do your best to use them as a stepping stone |
-| . Practice your reading, even if it's only for a few minutes a day. A week! Anything is better<br>than nothing. |
+| . Practice your reading, even if it's only for a few minutes a day. A week! Anything is better
+than nothing. |
 
 ## Investing time
 

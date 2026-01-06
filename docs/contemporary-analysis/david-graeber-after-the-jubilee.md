@@ -1,21 +1,8 @@
 ---
-title: After the Jubilee
-author: David Graeber
-date: September 2012
-pubdate: '2021-11-28T19:59:45'
-language: en
-source_url: >-
-  Retrieved on 28<sup>th</sup> November 2021 from
-  [[https://davidgraeber.org/articles/after-the-jubilee/][davidgraeber.org]]
-notes: >-
-  Published in <em>tidal</em> year II. | See also: David Graeber Institute
-  [[https://davidgraeber.institute/]] & [[https://davidgraeber.org/]]
-topics:
-  - debt
-original_format: muse
-converted_date: '2025-11-08T11:25:02.989340'
-tags:
-  - Debt
+title: "After the Jubilee"
+author: "David Graeber"
+date: "September 2012"
+category: "contemporary-analysis"
 ---
 
 If you look just at how things look on paper, the entire world is awash in debt. All governments are in debt. Corporate debt is at historic highs. And so is what economists like to call “household debt” — both in the sense of how many people are in the red, and the sheer quantity of what they owe. There’s a consensus among economists that this is a terrible problem, even if, as usual, economists can’t agree as to why. The mainstream, conventional view is that the “debt overhang” from all three is so vast it is stifling other economic activity. We have to reduce all of them they say, largely by either raising taxes on ordinary people, or cutting their services. (Only on ordinary people, mind you — mainstream economists are of course paid to come up with reasons why one should never do either of these things to the rich.) More level heads point out that national debt, especially for countries like the US, is nothing like personal debt, since the US government could eliminate its entire debt overnight if it simply instructed the Federal Reserve to print the money and hand it over to the government.

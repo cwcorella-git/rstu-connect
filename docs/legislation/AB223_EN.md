@@ -2,11 +2,7 @@
 title: "Nevada Assembly Bill 223 - Tenant Protections"
 author: "Nevada Legislature"
 date: "2023"
-tags:
-  - legislation
-  - Nevada
-  - tenants
-  - housing
+category: "legislation"
 ---
 
 # Nevada Assembly Bill 223
@@ -74,8 +70,6 @@ railings which are maintained in good repair. (NRS 118A.290) Section 9 of this b
 additionally provides that a dwelling unit is not habitable if it substantially lacks:
 (1) doors and windows which are maintained in good repair; (2) effective measures
 in place to control the presence of rodents, insects and vermin; (3) effective
-
-
 
 
    -                                                          83rd Session (2025)
@@ -147,8 +141,6 @@ a tenant who files such a verified complaint to withhold any rent that becomes d
 without incurring late fees, charges for notice or certain other charges until the
 
 
-
-
    -                                                           83rd Session (2025)
 
 ---
@@ -218,9 +210,6 @@ willfully interrupts or causes or permits the interruption of any essential item
 service required by the rental agreement or by law; or (3) recovers possession of the
 
 
-
-
    -                                                           83rd Session (2025)
 
 ---
-

@@ -1,3 +1,8 @@
+---
+title: "## **In the year 1968: on the nationwide strike and university occupation in Helsinki**"
+category: "youth-student-organizing"
+---
+
 ## **In the year 1968: on the nationwide strike and university occupation in Helsinki**
 
 ## **Date:** Unknown

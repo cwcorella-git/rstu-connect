@@ -1,16 +1,10 @@
 ---
-title: The Police Have No Obligation To Protect You Yes Really  Overlawyered
-slug: '_The Police Have No Obligation To Protect You. Yes, Really._ - Overlawyered'
-reconversion_status: ready_for_reconversion
-date: 2011
-author: Wikipedia
-tags:
-  - abolition
-  - police
-  - unions
-  - rent
-  - organizing
+title: "The Police Have No Obligation To Protect You Yes Really  Overlawyered"
+author: "Wikipedia"
+date: "2011"
+category: "abolition"
 ---
+
 # "The Police Have No Obligation To Protect You. Yes, Really."
 
 ### By [Walter Olson](https://www.cato.org/people/walter-olson) **December 28, 2011**

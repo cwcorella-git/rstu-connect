@@ -1,3 +1,8 @@
+---
+title: "make it stick"
+category: "contemporary-analysis"
+---
+
 # make it stick
 
 ## ![](_page_0_Picture_1.jpeg)

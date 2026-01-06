@@ -1,3 +1,8 @@
+---
+title: "ERASING HISTORY"
+category: "contemporary-analysis"
+---
+
 # ERASING HISTORY
 
 ## ![](_page_0_Picture_1.jpeg)
@@ -1035,10 +1040,10 @@ Already a subscriber? Provide your email again so we can register this ebook and
 - 12. Lisa Pine, *Education in Nazi Germany* (London: Bloomsbury, 2010), 42.
 - 13. Elizabeth A. Harris and Alexandra Alter, "Book Bans Are Rising Sharply in Public Libraries," *New York Times*, September 21, 2023, [https://www.nytimes.com/2023/09/21/books/book-ban-rise-libraries.html.](https://www.nytimes.com/2023/09/21/books/book-ban-rise-libraries.html)
 - 14. "Putin Signs Law Expanding Russia's Rules against 'LGBT Propaganda,'" Reuters, December 5, 2022, [https://www.reuters.com/world/europe/putin-signs-law-expanding](https://www.reuters.com/world/europe/putin-signs-law-expanding-russias-rules-against-lgbt-propaganda-2022-12-05/)[russias-rules-against-lgbt-propaganda-2022-12-05/](https://www.reuters.com/world/europe/putin-signs-law-expanding-russias-rules-against-lgbt-propaganda-2022-12-05/).
-- 15. "Extracts from Putin's Speech at Annexation Ceremony," Reuters, September 30, 2022, <https://www.reuters.com/world/extracts-putins-speech-annexation-ceremony-2022-09-30/>.
+- 15. "Extracts from Putin's Speech at Annexation Ceremony," Reuters, September 30, 2022, .
 - 16. Heron Greenesmith, "2023 Was the Year of Anti-trans Hysteria," *In These Times*, December 4, 2023, [https://inthesetimes.com/article/nashville-tennessee-anti-transgender-hysteria](https://inthesetimes.com/article/nashville-tennessee-anti-transgender-hysteria-legislation-attacks-lgbtq)[legislation-attacks-lgbtq](https://inthesetimes.com/article/nashville-tennessee-anti-transgender-hysteria-legislation-attacks-lgbtq).
 - 17. Katalin Madácsi-Laube, "A New Era of Greatness: Hungary's New Core Curriculum," Cultures of History Forum, June 28, 2020, [https://www.cultures-of-history.uni](https://www.cultures-of-history.uni-jena.de/politics/a-new-era-of-greatness-hungarys-new-core-curriculum#part4)[jena.de/politics/a-new-era-of-greatness-hungarys-new-core-curriculum#part4](https://www.cultures-of-history.uni-jena.de/politics/a-new-era-of-greatness-hungarys-new-core-curriculum#part4).
-- 18. Nick Thorpe, "Hungary's New Patriotic Education Meets Resistance," [BBC.com,](http://bbc.com/) February 24, 2020, <https://www.bbc.com/news/world-europe-51612549>.
+- 18. Nick Thorpe, "Hungary's New Patriotic Education Meets Resistance," [BBC.com,](http://bbc.com/) February 24, 2020, .
 
 - 19. David P. Goldman, "Fascist Lit and Hungary's Future: L'affaire Nyírő" *Tablet Magazine*, April 16, 2020, [https://www.tabletmag.com/sections/arts-letters/articles/hungary-viktor](https://www.tabletmag.com/sections/arts-letters/articles/hungary-viktor-or-ban-anti-semitism)[or-ban-anti-semitism.](https://www.tabletmag.com/sections/arts-letters/articles/hungary-viktor-or-ban-anti-semitism)
 - 20. [https://hungarytoday.hu/ministry-of-education-interior-ministry-new-hungarian-orban](https://hungarytoday.hu/ministry-of-education-interior-ministry-new-hungarian-orban-ministry/)[ministry/.](https://hungarytoday.hu/ministry-of-education-interior-ministry-new-hungarian-orban-ministry/)
@@ -1048,7 +1053,7 @@ Already a subscriber? Provide your email again so we can register this ebook and
 - 24. For a remarkable account of the fascist attack on India's universities, see Rahul Bhatia, *The New India: Modi, Nationalism, and the Unmaking of the World's Largest Democracy* (New York: Public Affairs, 2024).
 - 25. [https://time.com/6269349/india-textbook-changes-controversy-hindu-nationalism/.](https://time.com/6269349/india-textbook-changes-controversy-hindu-nationalism/)
 - 26. [https://henryjacksonsociety.org/wp-content/uploads/2021/03/Impact-SE.-Turkey-](https://henryjacksonsociety.org/wp-content/uploads/2021/03/Impact-SE.-Turkey-Erdogan.-JM.pdf)[Erdogan.-JM.pdf.](https://henryjacksonsociety.org/wp-content/uploads/2021/03/Impact-SE.-Turkey-Erdogan.-JM.pdf)
-- 27. "The Black Teacher Archive Launches at Harvard University," <https://www.youtube.com/watch?v=tfib FyXVT3E>.
+- 27. "The Black Teacher Archive Launches at Harvard University," .
 
 #### **2. Colonizing the Mind**
 
@@ -1069,7 +1074,7 @@ Already a subscriber? Provide your email again so we can register this ebook and
 - 14. Ibid., 280.
 - 15. Charles Augustus Goodrich, *The Child's History of the United States: Designed as a First Book of History for Schools* (Philadelphia: Thomas Cowperthwait, 1852), 19–20.
 - 16. Ibid., 281.
-- 17. "History," Hampton University website, <https://home.hamptonu.edu/about/history/>.
+- 17. "History," Hampton University website, .
 - 18. Gary Okihiro, *Island World: A History of Hawai'i and the United States* (Berkeley: University of California Press, 2008), 100.
 - 19. Matthew Frye Jacobson, *Barbarian Virtues: The United States Encounters Foreign People at Home and Abroad* (New York: Hill and Wang, 2000), 250.
 - 20. Okihiro quotes Booker T. Washington as saying, "My race in this country can never cease to be grateful to General Armstrong for all that he did for my people and for American civilization. We always felt that many of the ideas and much of the inspiration he used to such good effect in this country, he got in Hawaii." Okihiro, *Island World*, 117.
@@ -1114,7 +1119,7 @@ Already a subscriber? Provide your email again so we can register this ebook and
 - 23. V. A. Beldyugin, S. V. Probeigola., and Y. R. Fedorovsky, *History of the Homeland: Lecture Course* (Luhansk: Publishing House of Vasyl'Stus Donetsk National University, 2017). Thanks to Tentiana Kotelnykova for her translation.
 - 24. L. M. Lyashenko, O. V. Volobuev, and Igor Lvovich Andreeve, *History of Russia* for Grade 11, parts 1 and 2, advanced level, from the series *In-Depth*, approved by the Ministry of Education, 2022. Thanks to Tentiana Kotelnykova for her translation.
 - 25. Ibid., 309. Thanks to Tentiana Kotelnykova for her translation.
-- 26. Report on the Rwandan Genocide, Human Rights Watch, accessed April 15, 2024, <https://www.hrw.org/reports/1999/rwanda/Geno1-3-04.htm>.
+- 26. Report on the Rwandan Genocide, Human Rights Watch, accessed April 15, 2024, .
 - 27. J. A. Hobson, *Imperialism: A Study* (1902; repr., London: Allen & Unwin, 1954), 10.
 - 28. Ibid., 11.
 - 29. "The army has never been, and I'm sure never will be or can be, a menace to anybody save America's foes, or aught but a source of pride to every good and far-sighted American," from President Theodore Roosevelt, *The Ship of State, by Those at the Helm* (Boston: Ginn, 1903), 27.
@@ -1147,7 +1152,7 @@ Already a subscriber? Provide your email again so we can register this ebook and
 - 16. Greg Grandin, "Slavery, and American Racism, Were Born in Genocide," *The Nation*, January 20, 2020.
 - 17. The President's Advisory 1776 Commission, *The 1776 Report*, January 2021, [https://trumpwhitehouse.archives.gov/wp-content/uploads/2021/01/The-Presidents-](https://trumpwhitehouse.archives.gov/wp-content/uploads/2021/01/The-Presidents-Advisory-1776-Commission-Final-Report.pdf)[Advisory-1776-Commission-Final-Report.pdf](https://trumpwhitehouse.archives.gov/wp-content/uploads/2021/01/The-Presidents-Advisory-1776-Commission-Final-Report.pdf).
 - 18. Ibid.
-- 19. Jorge Renaud, "Eight Keys to Mercy: How to Shorten Prison Sentences," Prison Policy Initiative, November 2018, <https://www.prisonpolicy.org/reports/longsentences.html>.
+- 19. Jorge Renaud, "Eight Keys to Mercy: How to Shorten Prison Sentences," Prison Policy Initiative, November 2018, .
 - 20. Wendy Sawyer and Peter Wagner, "Mass Incarceration: The Whole Pie 2024," Prison Policy Initiative, March 14, 2024, [https://www.prisonpolicy.org/reports/pie2024.html.](https://www.prisonpolicy.org/reports/pie2024.html)
 - 21. Ibid.
 - 22. Emily Widra and Tiana Herring, "States of Incarceration: The Global Context 2021," Prison Policy Initiative, September 2021, [https://www.prisonpolicy.org/global/2021.html.](https://www.prisonpolicy.org/global/2021.html)
@@ -1166,12 +1171,12 @@ Already a subscriber? Provide your email again so we can register this ebook and
 - 34. Movement Advancement Project, "Under Fire: Erasing LGBTQ People from Schools and Public Life, Movement," March 2023, [https://www.mapresearch.org/file/MAP-Under-](https://www.mapresearch.org/file/MAP-Under-Fire-Erasing-LGBTQ-People_2023.pdf)[Fire-Erasing-LGBTQ-People\\_2023.pdf.](https://www.mapresearch.org/file/MAP-Under-Fire-Erasing-LGBTQ-People_2023.pdf)
 - 35. Patricia Mazzei, "Legal Settlement Clarifies Reach of Florida's 'Don't Say Gay' Law," *New York Times*, March 11, 2024, [https://www.nytimes.com/2024/03/11/us/florida-dont-say](https://www.nytimes.com/2024/03/11/us/florida-dont-say-gay-law-settlement.html)[gay-law-settlement.html](https://www.nytimes.com/2024/03/11/us/florida-dont-say-gay-law-settlement.html).
 - 36. Thanks to Elena Kostuchenko for discussion here.
-- 37. "The American Left: From Liberalism to Despotism," Hillsdale College, <https://online.hillsdale.edu/landing/american-left>.
+- 37. "The American Left: From Liberalism to Despotism," Hillsdale College, .
 - 38. Moira Weigel, "Hating Theory: 'Cultural Marxism,' 'CRT,' and the Power of Media Affects," *International Journal of Communication* 17 (2023): 6504–24.
 
 #### **5. Anti-education**
 
-- 1. From Tom Cotton tweet on X, January 2, 2024, accessed April 15, 2024, <https://twitter.com/Tom CottonAR/status/1742271547493019657>.
+- 1. From Tom Cotton tweet on X, January 2, 2024, accessed April 15, 2024, .
 - 2. "'Somehow She's the Victim?': De Santis Lays In to Claudine Gay After Resignation As Harvard President," *Forbes Breaking News* on You Tube, [https://www.youtube.com/watch?](https://www.youtube.com/watch?v=Scnt-_uGQLA) [v=Scnt-\\_uGQLA](https://www.youtube.com/watch?v=Scnt-_uGQLA).
 - 3. Ted Cruz, *Unwoke: How to Defeat Cultural Marxism in America* (Washington, DC: Regnery, 2023).
 - 4. See Education page on website of Congresswoman Elise Stefanik, [https://stefanik.house.gov/education.](https://stefanik.house.gov/education)
@@ -1191,7 +1196,7 @@ Already a subscriber? Provide your email again so we can register this ebook and
 - 17. Yasir, "'It Is Suffocating.'"
 - 18. Karen Fischer, "A Playbook for Knocking Down Higher Ed," *Chronicle of Higher Education*, October 18, 2022, [https://www.chronicle.com/article/a-playbook-for-knocking](https://www.chronicle.com/article/a-playbook-for-knocking-down-higher-ed)[down-higher-ed.](https://www.chronicle.com/article/a-playbook-for-knocking-down-higher-ed)
 - 19. Henry Reichman, "The Professors Are the Enemy," [https://www.chronicle.com/article/the-professors-are-the-enemy?sra=true.](https://www.chronicle.com/article/the-professors-are-the-enemy?sra=true)
-- 20. Theodoric Meyer, Maggie Severns, and Meredith Mc Graw, "'The Tea Party to the 10 th Power': Trumpworld Bets Big on Critical Race Theory," *Politico*, June 23, 2021, <https://www.politico.com/news/2021/06/23/trumpworld-critical-race-theory-495712>.
+- 20. Theodoric Meyer, Maggie Severns, and Meredith Mc Graw, "'The Tea Party to the 10 th Power': Trumpworld Bets Big on Critical Race Theory," *Politico*, June 23, 2021, .
 - 21. Project 2025, "180-Day Playbook," [https://www.project2025.org/playbook/.](https://www.project2025.org/playbook/)
 
 - 22. Michael Kruse, "De Santis' Culture Warrior: 'We Are Now over the Walls,'" *Politico*, March 24, 2023, [https://www.politico.com/news/magazine/2023/03/24/chris-rufo-desantis-anti](https://www.politico.com/news/magazine/2023/03/24/chris-rufo-desantis-anti-woke-00088578)[woke-00088578.](https://www.politico.com/news/magazine/2023/03/24/chris-rufo-desantis-anti-woke-00088578)
@@ -1200,8 +1205,8 @@ Already a subscriber? Provide your email again so we can register this ebook and
 - 25. Ibid.
 - 26. It is thus hypocritical in the extreme for the forces connected to De Santis to launch defenses of "meritocracy" for decisions about university presidencies, given what is occurring under De Santis.
 - 27. The De Vos family has been engaged in a "decades long effort to direct taxpayer dollars to private schools." See Koby Levin and Tracie Mauriello, "De Vos-Funded Campaign for School Voucher–like plan Withdraws Petitions in a Sign of Defeat," Chalkbeat, January 9, 2023, [https://www.chalkbeat.org/detroit/2023/1/9/23547548/michigan-devos-school](https://www.chalkbeat.org/detroit/2023/1/9/23547548/michigan-devos-school-choice-private-schools-petitions-withdrawn-let-mi-kids-learn/)[choice-private-schools-petitions-withdrawn-let-mi-kids-learn/.](https://www.chalkbeat.org/detroit/2023/1/9/23547548/michigan-devos-school-choice-private-schools-petitions-withdrawn-let-mi-kids-learn/)
-- 28. Noam Scheiber, "Betsy De Vos, Trump's Education Pick, Plays Hardball with Her Wealth," *New York Times*, January 7, 2017, <https://www.nytimes.com/2017/01/09/us/politics/betsy-devos-education-secretary.html>.
-- 29. Andy Kroll, "Behind Michigan's 'Financial Martial Law': Corporations and Right-Wing Billionaires," *Mother Jones*, March 23, 2011, <https://www.motherjones.com/%20politics/2011/03/michigan-snyder-mackinac-center/>.
+- 28. Noam Scheiber, "Betsy De Vos, Trump's Education Pick, Plays Hardball with Her Wealth," *New York Times*, January 7, 2017, .
+- 29. Andy Kroll, "Behind Michigan's 'Financial Martial Law': Corporations and Right-Wing Billionaires," *Mother Jones*, March 23, 2011, .
 - 30. Anna Clark, "Michigan Still Allows Emergency Takeovers of Local Governments," Pro Publica, July 11, 2023, [https://www.propublica.org/article/michigan-emergency](https://www.propublica.org/article/michigan-emergency-takeovers-flint-detroit)[takeovers-flint-detroit.](https://www.propublica.org/article/michigan-emergency-takeovers-flint-detroit)
 - 31. Matt Apuzzo, "Blackwater Guards Found Guilty in 2007 Iraq Killings," *New York Times*, October 22, 2014, [https://www.nytimes.com/2014/10/23/us/blackwater-verdict.html.](https://www.nytimes.com/2014/10/23/us/blackwater-verdict.html)
 - 32. Jon Schwarz, "Erik Prince Calls for U. S. to Colonize Africa and Latin America," The Intercept, February 10, 2024, [https://theintercept.com/2024/02/10/erik-prince-off-leash](https://theintercept.com/2024/02/10/erik-prince-off-leash-imperialism-colonialism/)[imperialism-colonialism/](https://theintercept.com/2024/02/10/erik-prince-off-leash-imperialism-colonialism/).
@@ -1217,7 +1222,7 @@ Already a subscriber? Provide your email again so we can register this ebook and
 - 4. La Toya Baldwin Clark persuasively argues that the central purpose of the anti-CRT laws in the United States is to preserve white innocence—and uses this to connect it to the "Parent's Rights" movement. See La Toya Baldwin Clark, "The Critical Racialization of Parents' Rights," *Yale Law Journal* 113 (2023): 3003–66.
 - 5. Adolf Hitler, *Mein Kampf* (New York: Houghton Mifflin, 1971), 423.
 - 6. George L. Mosse, *The Crisis of German Ideology: Intellectual Origins of the Third Reich* (1964; repr., Madison: University of Wisconsin Press, 2021), 71.
-- 7. See course listings on Hillsdale College's website, <https://online.hillsdale.edu/course-list>.
+- 7. See course listings on Hillsdale College's website, .
 - 8. See video trailer for American Civilization and Its Decline, a course offered by Hillsdale College, [https://online.hillsdale.edu/landing/american-citizenship-and-its-decline.](https://online.hillsdale.edu/landing/american-citizenship-and-its-decline)
 - 9. On the civilized savagism paradigm, see David Wallace Adams's *Education for Extinction: American Indians and the Boarding School Experience, 1875–1928* (Lawrence: Kansas University Press, 1975) and my prior discussion of it in chapter 2.
 - 10. Plato, *Republic*, in *Plato: Collected Works*, ed. John M. Cooper (Indianapolis: Hackett, 1997), 971–1223.
@@ -1242,7 +1247,7 @@ Already a subscriber? Provide your email again so we can register this ebook and
 
 #### **7. Reclaiming History**
 
-- 1. Memorial was awarded the Nobel Peace Prize in 2022, <https://www.nobelprize.org/prizes/peace/2022/memorial/facts/>.
+- 1. Memorial was awarded the Nobel Peace Prize in 2022, .
 - 2. See Andrew Higgins, "He Found One of Stalin's Mass Graves. Now He's in Jail," *New York Times*, April 27, 2020, [https://www.nytimes.com/2020/04/27/world/europe/russia](https://www.nytimes.com/2020/04/27/world/europe/russia-historian-stalin-mass-graves.html)[historian-stalin-mass-graves.html;](https://www.nytimes.com/2020/04/27/world/europe/russia-historian-stalin-mass-graves.html) and Alexander Marrow and Anton Kolodyazhnyy, "Russian Court Extends Jail Term for Gulag Historian to 15 Years," Reuters, December 27, 2021, [https://www.reuters.com/world/europe/russian-court-extends-jail-term-gulag](https://www.reuters.com/world/europe/russian-court-extends-jail-term-gulag-historian-15-years-2021-12-27/)[historian-15-years-2021-12-27/.](https://www.reuters.com/world/europe/russian-court-extends-jail-term-gulag-historian-15-years-2021-12-27/)
 - 3. James W. C. Pennington, *A Text Book of the Origin and History, &c. &c. of the Colored People* (Hartford, CT: L. Skinner, 1841).
 - 4. *Anton Wilhelm Amo's Philosophical Dissertations on Mind and Body*, ed. Stephen Menn and Justin E. H. Smith (Oxford: Oxford University Press, 2022).

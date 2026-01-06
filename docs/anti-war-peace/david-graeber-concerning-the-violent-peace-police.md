@@ -1,30 +1,8 @@
 ---
-title: Concerning the violent peace-police
-author: David Graeber
-date: 'February 9, 2012'
-language: en
-source_url: >-
-  Retrieved on 3<sup>rd</sup> September 2020 from
-  https://nplusonemag.com/online-only/online-only/concerning-the-violent-peace-police/
-notes: >-
-  See also: David Graeber Institute [[https://davidgraeber.institute/]] &
-  [[https://davidgraeber.org/]]
-topics:
-  - violence
-  - peace
-  - Chris Hedges
-  - letter
-  - Black Bloc
-  - Occupy
-original_format: muse
-converted_date: '2025-11-08T11:25:03.074425'
-tags:
-  - Violence
-  - Peace
-  - Chris Hedges
-  - Letter
-  - Black Bloc
-  - Occupy
+title: "Concerning the violent peace-police"
+author: "David Graeber"
+date: "February 9, 2012"
+category: "anti-war-peace"
 ---
 
 I am writing this on the premise that you are a well-meaning person who wishes Occupy Wall Street to succeed. I am also writing as someone who was deeply involved in the early stages of planning Occupy in New York.

@@ -1,3 +1,8 @@
+---
+title: "**godot-docs/tutorials/animation/ animation\_tree.rst at master · godotengine/godot-docs**"
+category: "contemporary-analysis"
+---
+
 #### [github.com](https://github.com/godotengine/godot-docs/blob/master/tutorials/animation/animation_tree.rst)
 
 # **godot-docs/tutorials/animation/ animation\_tree.rst at master · godotengine/godot-docs**
@@ -10,11 +15,11 @@
 
 ## **Introduction**
 
-With [:ref:`Animation Player <class\\_Animation Player>`,](about:reader?url=https%3A%2F%2Fgithub.com%2Fgodotengine%2Fgodot-docs%2Fblob%2Fmaster%2Ftutorials%2Fanimation%2Fanimation_tree.rst#id1) Godot has one of the most flexible animation systems that you can find in any game engine. It is pretty much unique in its ability to animate almost any property in any node or resource, and its dedicated transform, bezier, function calling, audio, and subanimation tracks.
+With [:ref:`Animation Player `,](about:reader?url=https%3A%2F%2Fgithub.com%2Fgodotengine%2Fgodot-docs%2Fblob%2Fmaster%2Ftutorials%2Fanimation%2Fanimation_tree.rst#id1) Godot has one of the most flexible animation systems that you can find in any game engine. It is pretty much unique in its ability to animate almost any property in any node or resource, and its dedicated transform, bezier, function calling, audio, and subanimation tracks.
 
 However, the support for blending those animations via Animation Player is limited, as you can only set a fixed crossfade transition time.
 
-[:ref:`Animation Tree <class\\_Animation Tree>`](about:reader?url=https%3A%2F%2Fgithub.com%2Fgodotengine%2Fgodot-docs%2Fblob%2Fmaster%2Ftutorials%2Fanimation%2Fanimation_tree.rst#id3) is a node designed to deal with advanced transitions.
+[:ref:`Animation Tree `](about:reader?url=https%3A%2F%2Fgithub.com%2Fgodotengine%2Fgodot-docs%2Fblob%2Fmaster%2Ftutorials%2Fanimation%2Fanimation_tree.rst#id3) is a node designed to deal with advanced transitions.
 
 # **Animation Tree and Animation Player**
 
@@ -262,7 +267,7 @@ Animation Tree node. By default, it is set to the Animation Tree node itself, bu
 
 One of the nice features in Godot's State Machine implementation is the ability to travel. You can instruct the graph to go from the current state to another one, while visiting all the intermediate ones. This is done via the A\* algorithm. If there is no path of transitions starting at the current state and finishing at the destination state, the graph teleports to the destination state.
 
-To use the travel ability, you should first retrieve the [:ref:`Animation Node State Machine Playback](about:reader?url=https%3A%2F%2Fgithub.com%2Fgodotengine%2Fgodot-docs%2Fblob%2Fmaster%2Ftutorials%2Fanimation%2Fanimation_tree.rst#id5) [<class\\_Animation Node State Machine Playback>`](about:reader?url=https%3A%2F%2Fgithub.com%2Fgodotengine%2Fgodot-docs%2Fblob%2Fmaster%2Ftutorials%2Fanimation%2Fanimation_tree.rst#id5) object from the Animation Tree node (it is exported as a property), and then call one of its many functions:
+To use the travel ability, you should first retrieve the [:ref:`Animation Node State Machine Playback](about:reader?url=https%3A%2F%2Fgithub.com%2Fgodotengine%2Fgodot-docs%2Fblob%2Fmaster%2Ftutorials%2Fanimation%2Fanimation_tree.rst#id5) [`](about:reader?url=https%3A%2F%2Fgithub.com%2Fgodotengine%2Fgodot-docs%2Fblob%2Fmaster%2Ftutorials%2Fanimation%2Fanimation_tree.rst#id5) object from the Animation Tree node (it is exported as a property), and then call one of its many functions:
 
 
 .. tabs::
@@ -335,7 +340,7 @@ When playing back the animation in Godot, it is possible to select this bone as 
 
 ## ![](_page_25_Picture_3.jpeg)
 
-Afterwards, the actual motion can be retrieved via the [:ref:`Animation Tree <class\\_Animation Tree>`](about:reader?url=https%3A%2F%2Fgithub.com%2Fgodotengine%2Fgodot-docs%2Fblob%2Fmaster%2Ftutorials%2Fanimation%2Fanimation_tree.rst#id7) API as a transform:
+Afterwards, the actual motion can be retrieved via the [:ref:`Animation Tree `](about:reader?url=https%3A%2F%2Fgithub.com%2Fgodotengine%2Fgodot-docs%2Fblob%2Fmaster%2Ftutorials%2Fanimation%2Fanimation_tree.rst#id7) API as a transform:
 
 .. tabs::
 
@@ -359,7 +364,7 @@ Afterwards, the actual motion can be retrieved via the [:ref:`Animation Tree <cl
 ## 
 // Get the actual blended value of the animation. animation Tree. Get Root Motion Position Accumulator(); animation Tree. Get Root Motion Rotation Accumulator(); animation Tree. Get Root Motion Scale Accumulator();
 
-This can be fed to functions such as [:ref:`Character Body3D.move\\_and\\_slide](about:reader?url=https%3A%2F%2Fgithub.com%2Fgodotengine%2Fgodot-docs%2Fblob%2Fmaster%2Ftutorials%2Fanimation%2Fanimation_tree.rst#id9) [<class\\_Character Body3D\\_method\\_move\\_and\\_slide>`](about:reader?url=https%3A%2F%2Fgithub.com%2Fgodotengine%2Fgodot-docs%2Fblob%2Fmaster%2Ftutorials%2Fanimation%2Fanimation_tree.rst#id9) to control the character movement.
+This can be fed to functions such as [:ref:`Character Body3D.move\\_and\\_slide](about:reader?url=https%3A%2F%2Fgithub.com%2Fgodotengine%2Fgodot-docs%2Fblob%2Fmaster%2Ftutorials%2Fanimation%2Fanimation_tree.rst#id9) [`](about:reader?url=https%3A%2F%2Fgithub.com%2Fgodotengine%2Fgodot-docs%2Fblob%2Fmaster%2Ftutorials%2Fanimation%2Fanimation_tree.rst#id9) to control the character movement.
 
 There is also a tool node, Root Motion View, you can place a scene that will act as a custom floor for your character and animations (this node is disabled by default during the game).
 

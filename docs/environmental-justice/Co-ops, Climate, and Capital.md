@@ -1,3 +1,8 @@
+---
+title: "## **Co-ops, Climate, and Capital**"
+category: "environmental-justice"
+---
+
 ## **Co-ops, Climate, and Capital**
 
 ## **Date:** Tue, 03/01/2022 - 00:00
@@ -144,7 +149,9 @@ Spinak, "Infrastructure," 109–116. Matt Grimley, "Just How Democratic Are Rura
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Socialist Forum |
 | , Winter 2019, |
-| https://socialistforum.dsausa.org/issues/winter-2019/take-back-the-grid-dsa-and-the-fight-for<br>energy-democracy/ |
+| https://socialistforum.dsausa.org/issues/winter-2019/take-back-the-grid-dsa-and-the-fight-for
+energy-democracy/ |
 | |
 | Disclaimer: |
-| The views expressed here are not the official position of the IWW (or even the IWW's EUC)<br>and do not necessarily represent the views of anyone but the author. |
+| The views expressed here are not the official position of the IWW (or even the IWW's EUC)
+and do not necessarily represent the views of anyone but the author. |

@@ -1,3 +1,8 @@
+---
+title: "## **Twin Cities IWW Resolution in Solidarity with Camp Makwa and the movement for environmental jus"
+category: "theory"
+---
+
 ## **Twin Cities IWW Resolution in Solidarity with Camp Makwa and the movement for environmental justice**
 
 ## **Date:** Wed, 12/06/2017 - 17:50
@@ -20,13 +25,21 @@ In July 2010, Enbridge also spilled about a million gallons of Dilbit Oil in the
 
 | Whereas: |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| In 2007, 2 Enbridge workers were killed in Clearbrook, Minnesota when a pinhole leak<br>explosion sparked a huge fire and spilled 15,000 gallons of oil. Enbridge let the spill burn for<br>three days poisoning the air of the surrounding community; and |
+| In 2007, 2 Enbridge workers were killed in Clearbrook, Minnesota when a pinhole leak
+explosion sparked a huge fire and spilled 15,000 gallons of oil. Enbridge let the spill burn for
+three days poisoning the air of the surrounding community; and |
 | Whereas: |
-| The Oil Industry and many other unsustainable industries sacrifice the health and safety of the<br>working class and poor communities, especially many indigenous and communities of color.<br>These communities are subject to environmental racism and classism and often ignored and<br>violated during the permitting process of such projects; and |
+| The Oil Industry and many other unsustainable industries sacrifice the health and safety of the
+working class and poor communities, especially many indigenous and communities of color.
+These communities are subject to environmental racism and classism and often ignored and
+violated during the permitting process of such projects; and |
 | Whereas: |
-| These communities often are forced to defend themselves with direct action which puts them<br>at greater risk of violence and incarceration from the state and private security; and |
+| These communities often are forced to defend themselves with direct action which puts them
+at greater risk of violence and incarceration from the state and private security; and |
 | Whereas: |
-| The construction of these pipelines will contribute to the acceleration of already dangerous<br>levels of currently existing greenhouse gas emissions which are contributing to the already<br>dangerous effects of climate change, which could lead to a dead planet with no jobs; and |
+| The construction of these pipelines will contribute to the acceleration of already dangerous
+levels of currently existing greenhouse gas emissions which are contributing to the already
+dangerous effects of climate change, which could lead to a dead planet with no jobs; and |
 ## | Whereas: |
 
 Camp Makwa was established in August of 2017 to resist the pipeline using direct action to protect the water and natural resources such as the wild rice lakes, fishing and hunting, and farming that the Anishinaabe Tribe and working class in the area depend on. They have taken several direct actions to shut down construction of the Line 3 pipeline in Superior, Wisconsin and will resist the possible expansion in the spring. They are currently still camping during the
@@ -34,11 +47,28 @@ Camp Makwa was established in August of 2017 to resist the pipeline using direct
 | harsh Minnesota winter. |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Whereas: |
-| Neither the Line 3 Pipeline Dakota Access Pipeline, or the Keystone XL Pipeline will provide<br>anywhere near the number of permanent union jobs the promoters of these projects promise<br>they will, and |
+| Neither the Line 3 Pipeline Dakota Access Pipeline, or the Keystone XL Pipeline will provide
+anywhere near the number of permanent union jobs the promoters of these projects promise
+they will, and |
 | Whereas: |
-| More permanent union jobs can be created at union wages by decommissioning oil pipelines<br>and upgrading water pipeline infrastructure, such as in Flint, Michigan. LIUNA and many labor<br>unions currently have jobs working in the renewable energy sector such as solar, wind, and<br>hydroelectric and could organize for a rapid transition of energy production and manufacturing<br>to be safe for the workers, the surrounding communities and the environment. Though these<br>renewable energy jobs are currently, typically non-union, trade unions if so determined, could<br>easily develop a successful green energy organizing program, using solidarity unionism, that<br>would revitalize the currently struggling labor movement. Far more jobs currently exist in the<br>growing renewable energy sector than in the declining fossil fuel sector. Also these pipeline<br>projects will not deliver the promised "energy security" or "energy independence" promised by<br>their promoters, including the Building Trades and AFL-CIO Union officials among them and; |
+| More permanent union jobs can be created at union wages by decommissioning oil pipelines
+and upgrading water pipeline infrastructure, such as in Flint, Michigan. LIUNA and many labor
+unions currently have jobs working in the renewable energy sector such as solar, wind, and
+hydroelectric and could organize for a rapid transition of energy production and manufacturing
+to be safe for the workers, the surrounding communities and the environment. Though these
+renewable energy jobs are currently, typically non-union, trade unions if so determined, could
+easily develop a successful green energy organizing program, using solidarity unionism, that
+would revitalize the currently struggling labor movement. Far more jobs currently exist in the
+growing renewable energy sector than in the declining fossil fuel sector. Also these pipeline
+projects will not deliver the promised "energy security" or "energy independence" promised by
+their promoters, including the Building Trades and AFL-CIO Union officials among them and; |
 | Whereas: |
-| Many unions, including the IWW, ILWU, ATU, APWU, LIUNA-City Employees Local 236,<br>CWA, UE, SEIU, NNU, Pride at Work, A. Phillip Randolph Institute, the Asian Pacific<br>American Labor Alliance, the Coalition of Black Trade Unionists, the Coalition of Labor Union<br>Women, the Labor Council for Latin American Advancement, Labor for Standing Rock, and<br>many members of other Labor organizations have already publicly stated opposition to the<br>Dakota Access Pipeline and or the Keystone XL Pipeline; and |
+| Many unions, including the IWW, ILWU, ATU, APWU, LIUNA-City Employees Local 236,
+CWA, UE, SEIU, NNU, Pride at Work, A. Phillip Randolph Institute, the Asian Pacific
+American Labor Alliance, the Coalition of Black Trade Unionists, the Coalition of Labor Union
+Women, the Labor Council for Latin American Advancement, Labor for Standing Rock, and
+many members of other Labor organizations have already publicly stated opposition to the
+Dakota Access Pipeline and or the Keystone XL Pipeline; and |
 
 Whereas:
 

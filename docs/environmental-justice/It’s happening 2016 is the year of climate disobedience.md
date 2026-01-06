@@ -1,3 +1,8 @@
+---
+title: "## **It's happening: 2016 is the year of climate disobedience**"
+category: "environmental-justice"
+---
+
 ## **It's happening: 2016 is the year of climate disobedience**
 
 | Date: Fri, 06/17/2016 - 17:30 |

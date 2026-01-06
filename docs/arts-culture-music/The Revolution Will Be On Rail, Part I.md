@@ -1,3 +1,8 @@
+---
+title: "## **The Revolution Will Be On Rail, Part I**"
+category: "arts-culture-music"
+---
+
 ## **The Revolution Will Be On Rail, Part I**
 
 ## **Date:** Mon, 06/20/2016 - 15:51

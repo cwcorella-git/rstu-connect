@@ -1,3 +1,8 @@
+---
+title: "## **Towards a Global Climate Strike**"
+category: "environmental-justice"
+---
+
 ## **Towards a Global Climate Strike**
 
 ## **Date:** Mon, 07/13/2020 - 00:00
@@ -49,4 +54,5 @@ If we do not succeed, the whole process of popularising the idea of an internati
 | that will be needed to halt the drive towards climate disaster and barbarism. |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Disclaimer: |
-| The views expressed here are not the official position of the IWW (or even the IWW's EUC)<br>and do not necessarily represent the views of anyone but the author. |
+| The views expressed here are not the official position of the IWW (or even the IWW's EUC)
+and do not necessarily represent the views of anyone but the author. |

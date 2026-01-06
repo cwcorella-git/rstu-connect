@@ -1,20 +1,10 @@
 ---
-title: >-
-  An Entirely Different Kind Of Union The Service Office And Retail Workers
-  Union
-slug: >-
-  An “entirely different” kind of union the Service, Office, and Retail Workers’
-  Union of Canada (SORW
-reconversion_status: ready_for_reconversion
-date: 1972
-author: Housing Advocacy Organization
-tags:
-  - housing
-  - tenants
-  - unions
-  - rent
-  - labor
+title: ">-"
+author: "Housing Advocacy Organization"
+date: "1972"
+category: "housing"
 ---
+
 ## **An "entirely different" kind of union: the Service, Office, and Retail Workers' Union of Canada (SORWUC), 1972–1986 – Julia Smith**
 
 ## **Date:** Unknown

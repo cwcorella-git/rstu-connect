@@ -1,3 +1,8 @@
+---
+title: "**Stop Cop Planet, Save the Surreal World**"
+category: "contemporary-analysis"
+---
+
 # **Stop Cop Planet, Save the Surreal World**
 
 ## **Date:** Tue, 08/01/2023 - 00:00
@@ -244,22 +249,27 @@ In 2021, authorities predicted that Cop City would be built in the next two year
 | Unicorn Riot |
 |----------------------------------------------------------------------------------------------------------------------------------------------|
 | , March 18, 2023. |
-| "Opposition Grows to Atlanta 'Cop City' as More Forest Defenders Charged with Domestic<br>Terrorism," |
+| "Opposition Grows to Atlanta 'Cop City' as More Forest Defenders Charged with Domestic
+Terrorism," |
 | Democracy Now! |
 | , March 9, 2023. |
-| 3. Jessica Bryant, "AUCC and Morehouse College Students, Faculty Speak Out Against<br>Atlanta's 'Cop City'," |
+| 3. Jessica Bryant, "AUCC and Morehouse College Students, Faculty Speak Out Against
+Atlanta's 'Cop City'," |
 | Best Colleges |
 | , February 6, 2023. |
-| 4. Marx used this term with reference to capitalists' reliance on unemployed populations to<br>bring down wages and discipline proletarians. |
+| 4. Marx used this term with reference to capitalists' reliance on unemployed populations to
+bring down wages and discipline proletarians. |
 | 5. William Robinson, |
 | The Global Police State |
 | (London: Pluto Press, 2020). |
-| 6. Anna Simonton, "Inside GILEE, the US-Israel law enforcement training program seeking to<br>redefine terrorism," |
+| 6. Anna Simonton, "Inside GILEE, the US-Israel law enforcement training program seeking to
+redefine terrorism," |
 
 | Mondoweiss |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | , January 5, 2016. |
-| 7. The slogan derives from "Against the Airport and its World," used by France's Zone à<br>Défendre struggle. Night Owls, "Night Owls #4: Winter's Embers," |
+| 7. The slogan derives from "Against the Airport and its World," used by France's Zone à
+Défendre struggle. Night Owls, "Night Owls #4: Winter's Embers," |
 | It's Going Down |
 | , April 11, 2023. |
 | 8. Bruce Bower, "Indigenous Americans ruled democratically long before the U. S. did," |
@@ -278,13 +288,20 @@ In 2021, authorities predicted that Cop City would be built in the next two year
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ,'" in |
 | The New Police Science |
-| , edited by Markus Dubber and Mariana Valverde (Stanford: Stanford University Press, 2006),<br>24. Policing of the "workless" can especially be seen in the criminalization of houseless<br>people through street sweeps, tickets, citations, and arrests over behaviors like sleeping,<br>loitering, seeking donations, and loitering. See National Coalition to End Homelessness, "Is<br>Being Homeless a Crime?," June 1, 2021. |
+| , edited by Markus Dubber and Mariana Valverde (Stanford: Stanford University Press, 2006),
+24. Policing of the "workless" can especially be seen in the criminalization of houseless
+people through street sweeps, tickets, citations, and arrests over behaviors like sleeping,
+loitering, seeking donations, and loitering. See National Coalition to End Homelessness, "Is
+Being Homeless a Crime?," June 1, 2021. |
 | 16. Leandro Herrera, "They gave their life to Stop Cop City," |
 | Tempest |
 | , March 13, 2023. |
 | 17. Fayer Collective, "Shmita Means Total Destroy," |
 | Jewish Currents |
-| , January 30, 2023. By insisting that everything should be free, the Fayer Collective leans<br>toward an anarcho-communist direction shared by many past Jewish anarchists including<br>Emma Goldman. By contrast, the parecon approach, proposed in this issue by Robert Hahnel,<br>maintains a role for work-based remuneration. |
+| , January 30, 2023. By insisting that everything should be free, the Fayer Collective leans
+toward an anarcho-communist direction shared by many past Jewish anarchists including
+Emma Goldman. By contrast, the parecon approach, proposed in this issue by Robert Hahnel,
+maintains a role for work-based remuneration. |
 | 18. Jack Crosbie, "The Battle for 'Cop City'," |
 
 ## ![](_page_20_Figure_0.jpeg)
@@ -303,7 +320,9 @@ In 2021, authorities predicted that Cop City would be built in the next two year
 | 31. Kaba and Ritchie, |
 | No More Police |
 | , 149. |
-| 32. Anarchists will hope that successfully liberated zones could also eliminate the "market<br>system" and "state governing apparatus" that CMB thinks can be bent to serve communal<br>needs in the short term. |
+| 32. Anarchists will hope that successfully liberated zones could also eliminate the "market
+system" and "state governing apparatus" that CMB thinks can be bent to serve communal
+needs in the short term. |
 ## | Disclaimer: |
 
 The views expressed here are not the official position of the IWW (or even the IWW's EUC) and do not necessarily represent the views of anyone but the author.

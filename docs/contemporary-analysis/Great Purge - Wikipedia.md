@@ -1,3 +1,8 @@
+---
+title: "**Great Purge**"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_2.jpeg)
 
 # **Great Purge**
@@ -40,9 +45,27 @@ Stalin reversed his stance on the purges in 1938, criticizing the NKVD for carry
 
 | | executions |
 |--------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Deaths | 681,692 executions and<br>116,000 deaths in the<br>Gulag system (official<br>figures)[1]<br>700,000 to 1.2 million<br>(estimated)[1][2][3][4] |
-| Perpetrators | Joseph Stalin, the NKVD<br>(Genrikh Yagoda, Nikolai<br>Yezhov, Lavrentiy Beria,<br>Ivan Serov and others),<br>Vyacheslav Molotov,<br>Andrey Vyshinsky, Lazar<br>Kaganovich, Kliment<br>Voroshilov, Robert Eikhe<br>and others |
-| Motive | Elimination of political<br>opponents,[5]<br>consolidation of power,[6]<br>fear of counterrevolution,<br>[7] fear of party<br>infiltration[8] |
+| Deaths | 681,692 executions and
+116,000 deaths in the
+Gulag system (official
+figures)[1]
+700,000 to 1.2 million
+(estimated)[1][2][3][4] |
+| Perpetrators | Joseph Stalin, the NKVD
+(Genrikh Yagoda, Nikolai
+Yezhov, Lavrentiy Beria,
+Ivan Serov and others),
+Vyacheslav Molotov,
+Andrey Vyshinsky, Lazar
+Kaganovich, Kliment
+Voroshilov, Robert Eikhe
+and others |
+| Motive | Elimination of political
+opponents,[5]
+consolidation of power,[6]
+fear of counterrevolution,
+[7] fear of party
+infiltration[8] |
 
 ## **Background**
 
@@ -614,7 +637,7 @@ Two major lines of interpretation have emerged among historians. One says that t
 - 68. ["The NKVD Mass Secret Operation n°00447 \(August 1937 – November 1938\) |](http://nkvd-mass-secret-operation-n-00447-august-1937-november-1938.html/) [Sciences Po Mass Violence and Resistance – Research Network" \(http://nkvd-mass-s](http://nkvd-mass-secret-operation-n-00447-august-1937-november-1938.html/) [ecret-operation-n-00447-august-1937-november-1938.html/\).](http://nkvd-mass-secret-operation-n-00447-august-1937-november-1938.html/) nkvd-mass-secretoperation-n-00447-august-1937-november-1938.html. 19 January 2016.
 - 69. Figes 2007, p. [240 \(https://books.google.com/books?id=sge44FaZDREC&pg=PA24](https://books.google.com/books?id=sge44FaZDREC&pg=PA240) [0\).](https://books.google.com/books?id=sge44FaZDREC&pg=PA240)
 - 70. Snyder 2010, pp. 103–104.
-- 71. Н.В.Петров, А.Б.Рогинский. "Польская операция" НКВД [1937–1938](https://web.archive.org/web/20170215195305/http://www.memo.ru/history/polacy/00485ART.htm) гг[. \(https://w](https://web.archive.org/web/20170215195305/http://www.memo.ru/history/polacy/00485ART.htm) [eb.archive.org/web/20170215195305/http://www.memo.ru/history/polacy/00485AR](https://web.archive.org/web/20170215195305/http://www.memo.ru/history/polacy/00485ART.htm) [T.htm\)](https://web.archive.org/web/20170215195305/http://www.memo.ru/history/polacy/00485ART.htm) ['The Polish operation' NKVD 1937–1938] (in Russian). НИПЦ «Мемориал». Archived from [the original \(http://www.memo.ru/history/POLAcy/00485ART.htm\)](http://www.memo.ru/history/POLAcy/00485ART.htm) on 15 February 2017. Retrieved 27 May 2012. "Original title: О фашистскоповстанческой, шпионской, диверсионной, пораженческой <sup>и</sup> террористической деятельности польской разведки <sup>в</sup> СССР"
+- 71. Н.В.Петров, А.Б.Рогинский. "Польская операция" НКВД [1937–1938](https://web.archive.org/web/20170215195305/http://www.memo.ru/history/polacy/00485ART.htm) гг[. \(https://w](https://web.archive.org/web/20170215195305/http://www.memo.ru/history/polacy/00485ART.htm) [eb.archive.org/web/20170215195305/http://www.memo.ru/history/polacy/00485AR](https://web.archive.org/web/20170215195305/http://www.memo.ru/history/polacy/00485ART.htm) [T.htm\)](https://web.archive.org/web/20170215195305/http://www.memo.ru/history/polacy/00485ART.htm) ['The Polish operation' NKVD 1937–1938] (in Russian). НИПЦ «Мемориал». Archived from [the original \(http://www.memo.ru/history/POLAcy/00485ART.htm\)](http://www.memo.ru/history/POLAcy/00485ART.htm) on 15 February 2017. Retrieved 27 May 2012. "Original title: О фашистскоповстанческой, шпионской, диверсионной, пораженческой и террористической деятельности польской разведки в СССР"
 - 72. Snyder, Timothy (2010). Bloodlands: Europe Between Hitler and Stalin. Basic Books. p. 104.
 - 73. Michał Jasiński (27 October 2010). ["Zapomniane ludobójstwo stalinowskie \(The](https://web.archive.org/web/20120323100829/http://fronda.gliwice.pl/czytelnia.php5?id=84) [forgotten Stalinist genocide\)" \(https://web.archive.org/web/20120323100829/http://](https://web.archive.org/web/20120323100829/http://fronda.gliwice.pl/czytelnia.php5?id=84) [fronda.gliwice.pl/czytelnia.php5?id=84\).](https://web.archive.org/web/20120323100829/http://fronda.gliwice.pl/czytelnia.php5?id=84) Gliwicki klub Fondy. Czytelnia. Archived from [the original \(http://fronda.gliwice.pl/czytelnia.php5?id=84\)](http://fronda.gliwice.pl/czytelnia.php5?id=84) on 23 March 2012 – via Internet Archive.
 - 74. Sundström, Olle; Kotljarchuk, Andrej (2017). "Introduction: the problem of ethnic and religious minorities in Stalin's Soviet Union". [Ethnic and Religious Minorities in](https://www.diva-portal.org/smash/get/diva2:1167084/FULLTEXT01.pdf) [Stalin's Soviet Union: New Dimensions of Research](https://www.diva-portal.org/smash/get/diva2:1167084/FULLTEXT01.pdf) [\(https://www.diva-portal.org/sm](https://www.diva-portal.org/smash/get/diva2:1167084/FULLTEXT01.pdf) [ash/get/diva2:1167084/FULLTEXT01.pdf\)](https://www.diva-portal.org/smash/get/diva2:1167084/FULLTEXT01.pdf) (PDF). Södertörn Academic Studies. p. 16. [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier)) [978-9176017777.](https://en.wikipedia.org/wiki/Special:Book Sources/978-9176017777)
@@ -823,7 +846,7 @@ Two major lines of interpretation have emerged among historians. One says that t
 - Whitewood, Peter. "The Purge of the Red Army and the Soviet Mass Operations, 1937–38." Slavonic & East European Review 93.2 (2015): 286–314. [online \(http://ra](http://ray.yorksj.ac.uk/id/eprint/958/1/slaveasteurorev2.93.2.0286.pdf) [y.yorksj.ac.uk/id/eprint/958/1/slaveasteurorev2.93.2.0286.pdf\)](http://ray.yorksj.ac.uk/id/eprint/958/1/slaveasteurorev2.93.2.0286.pdf)
 - —— "Subversion in the Red Army and the Military Purge of 1937–1938." Europe-Asia Studies 67.1 (2015): 102–122.
 - —— "In the shadow of the war: Bolshevik perceptions of polish subversive and military threats to the Soviet Union, 1920–32." Journal of Strategic Studies (2019): 1–24.
-- [Yakovlev, Alexander N.,](https://en.wikipedia.org/wiki/Alexander_Nikolaevich_Yakovlev) ed. (1991). Реабилитация. Политические процессы 30– 50-<sup>х</sup> годов [Rehabilitation: Political Trials of the 1930s–50s]. Moscow: [ROSSPEN.](https://en.wikipedia.org/wiki/ROSSPEN)
+- [Yakovlev, Alexander N.,](https://en.wikipedia.org/wiki/Alexander_Nikolaevich_Yakovlev) ed. (1991). Реабилитация. Политические процессы 30– 50-х годов [Rehabilitation: Political Trials of the 1930s–50s]. Moscow: [ROSSPEN.](https://en.wikipedia.org/wiki/ROSSPEN)
 - —— (2004) [2002]. A Century of Violence in Soviet Russia. New Haven, CT: Yale University Press. [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier)) [978-0-300-10322-9.](https://en.wikipedia.org/wiki/Special:Book Sources/978-0-300-10322-9)
 
 #### **Film**

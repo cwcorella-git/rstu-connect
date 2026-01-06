@@ -1,3 +1,8 @@
+---
+title: "## **Resolutions**"
+category: "contemporary-analysis"
+---
+
 ## **Resolutions**
 
 ## **Date:** Unknown
@@ -40,8 +45,11 @@ Agree with this. I wrote something similar early last year from an Irish perspec
 | 11 years 9 months ago |
 | In reply to Welcomebylibcom.org |
 | Dear Phil Dickens, |
-| I am a text researcher working on Gale's forthcoming textbook ISSUES THAT CONCERN<br>YOU: SOCIAL PROTEST and my editors would love to reprint your article titled "IN<br>SUPPORT OF DIRECT ACTION" from your propertyistheft.wordpress.com blog. |
-| Could you please let me know if an email address to which I can send more information and a<br>permission letter? Or you can email me at kiran.kaur(at)qbslearning.com . |
+| I am a text researcher working on Gale's forthcoming textbook ISSUES THAT CONCERN
+YOU: SOCIAL PROTEST and my editors would love to reprint your article titled "IN
+SUPPORT OF DIRECT ACTION" from your propertyistheft.wordpress.com blog. |
+| Could you please let me know if an email address to which I can send more information and a
+permission letter? Or you can email me at kiran.kaur(at)qbslearning.com . |
 | Thank you for your time. |
 | Kind regards,Kiran Kaur |
 | |

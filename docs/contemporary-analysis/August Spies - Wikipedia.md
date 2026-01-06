@@ -1,3 +1,8 @@
+---
+title: "**August Spies**"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_2.jpeg)
 
 # **August Spies**
@@ -32,7 +37,8 @@ Spies' appearance at the time of his conviction in 1886
 | | Cook County Jail, |
 | | Chicago, Illinois, United |
 | | States |
-| Cause<br>of | Execution by hanging |
+| Cause
+of | Execution by hanging |
 | death | |
 | Resting place | Forest Home Cemetery |
 | Monuments | Haymarket Martyrs' |
@@ -42,12 +48,16 @@ compromisers. When the national leadership of the SLP denounced the Chicago radi
 
 Spies had joined the staff of the *Arbeiter-Zeitung* in 1880, becoming editor in 1884.[\[5\]](#page-5-4)
 
-| Occupation(s) | Upholsterer, newspaper<br>editor |
+| Occupation(s) | Upholsterer, newspaper
+editor |
 |---------------------|----------------------------------|
 | Political party | Socialist Labor Party |
-| Spouse | Nina van Zandt (m.<br>1887) |
-| Conviction | Conspiracy to commit<br>murder |
-## | Criminal<br>penalty | Death |
+| Spouse | Nina van Zandt (m.
+1887) |
+| Conviction | Conspiracy to commit
+murder |
+## | Criminal
+penalty | Death |
 
 ## **Haymarket Square**
 

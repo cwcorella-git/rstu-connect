@@ -1,10 +1,10 @@
 ---
-date: 2025
-author: Unknown
-tags:
-  - organizing
 title: "PDF.js viewer"
+author: "Unknown"
+date: "2025"
+category: "misc"
 ---
+
 # PDF.js viewer
 
 *Converted from: `./PDF.js viewer.pdf`*  
@@ -157,4 +157,3 @@ title: "PDF.js viewer"
 
 
 ---
-

@@ -1,26 +1,8 @@
 ---
-title: Consumption
-author: David Graeber
-date: August 2011
-pubdate: '2021-11-28T22:27:58'
-language: en
-source_url: >-
-  Retrieved on 28<sup>th</sup> November 2021 from
-  [[https://davidgraeber.org/papers/consumption/][davidgraeber.org]]
-notes: >-
-  Published in <em>Current Anthropology</em>, Vol. 52, No. 4 (August 2011), pp.
-  489–511. | See also: David Graeber Institute
-  [[https://davidgraeber.institute/]] & [[https://davidgraeber.org/]]
-topics:
-  - consumption
-  - Consumerism
-  - anthropology
-original_format: muse
-converted_date: '2025-11-08T11:25:03.077150'
-tags:
-  - Consumption
-  - Consumerism
-  - Anthropology
+title: "Consumption"
+author: "David Graeber"
+date: "August 2011"
+category: "contemporary-analysis"
 ---
 
 Beginning in the 1980s, anthropologists began to be bombarded with endless—and often strangely moralistic—exhortations to acknowledge the importance of something referred to as “consumption.” The exhortations were effective; for the past 2 decades, the term has become a staple of theoretical discourse. Rarely, however, do anthropologists examine it: asking themselves why it is that almost all forms of human self-expression or enjoyment are now being seen as analogous to eating food. This essay seeks to investigate how this came about, beginning with medieval European theories of desire and culminating in the argument that the notion of consumption ultimately resolves certain conceptual problems in possessive individualism.
@@ -367,7 +349,7 @@ I must confess I am a bit startled by the uniformly positive response; when one 
 
 The lack of any need for elaborate self-defense also allows me an opportunity to use the space to fill readers in on the background of this small collection. The real mastermind behind it is Lauren Leve, and the vision grew from a series of collective conversations between fellow anthropologists in New York as far back as 2002 around a “new keywords” project. Leve’s idea was not just to make a list of buzzwords and explore—à la Raymond Williams (1983)—why at certain points in history, certain terms (“culture” was his famous example) suddenly seem to jump to the center of intellectual and social debate. Even more, she proposed to study those theoretical terms that were not, really, being debated—or often, really, defined—and why. Starting in the 1990s, anthropology has moved away from grand questions of theory; indeed, it largely stopped generating theory of any sort. Instead, we were greeted with a flood of new topics of research and attendant technical terms (“identity,” “consumption,” “agency,” and “flow” but also “the body,” “governmentality,” etc.) whose meaning was largely assumed to be self-evident. The approach instantly made sense to the rest of us, who, as scholars trained to believe that it is, in fact, impossible to look at the world without applying some base assumptions about what humans are and how they interact and convey meaning to one another and that those who do not consciously work out their theoretical assumptions are generally condemned to simply reproduce the dominant ideology of the day (usually some form of economistic individualism) without realizing it, could not help but be suspicious. We soon reached the collective conclusion that together, these terms did in fact begin to constitute a kind of neoliberal orthodoxy that had crept over anthropology without our being willing to admit it. It was neoliberal in the classic sense: naturalizing market ideology in the form of a mushy but often self-righteous populism even as anthropology itself (and now I am speaking for myself here) abandoned its onetime political autonomy and became, increasingly, a handmaiden to bureaucrats, marketers, and NGOs.
 
-The project first led to a session called “The New Keywords: Unmasking the Terms of an Emerging Orthodoxy” at the 104<sup>th</sup> Annual Meetings of the American Anthropological Association (AAA) in Chicago in November 2003. It has taken some years to come together as a volume, but the key points of the essays continue to be all too relevant.
+The project first led to a session called “The New Keywords: Unmasking the Terms of an Emerging Orthodoxy” at the 104th Annual Meetings of the American Anthropological Association (AAA) in Chicago in November 2003. It has taken some years to come together as a volume, but the key points of the essays continue to be all too relevant.
 
 My own contribution was based on an idea that I had been working at on and off since graduate school inspired by puzzlement over the peculiar moral fervor with which, starting in the 1980s, anthropologists and others critical of consumerism had been denounced as enemies of the people by highly paid members of the academic elite. Why had this particular assault happened at that particular time?
 
@@ -467,7 +449,7 @@ Graeber, David. 1997. Manners, deference and private property: the generalizatio
 
 ———. 1998. Rebel without a god: a review of Buffy the vampire slayer. In *These Times* 23(2):28–30.
 
-———. 2001. </em>Towards an anthropological theory of value: the false coin of our own dreams.</em> New York: Palgrave.
+———. 2001. Towards an anthropological theory of value: the false coin of our own dreams. New York: Palgrave.
 
 ———. 2004. *Fragments of an anarchist anthropology.* Chicago: Prickly Paradigm. [AH]
 

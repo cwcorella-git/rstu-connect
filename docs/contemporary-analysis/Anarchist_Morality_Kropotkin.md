@@ -1,3 +1,8 @@
+---
+title: "**Contents**"
+category: "contemporary-analysis"
+---
+
 ## **Anarchist Morality**
 
 ## Pëtr Kropotkin

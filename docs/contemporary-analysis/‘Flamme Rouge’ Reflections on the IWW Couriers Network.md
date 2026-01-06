@@ -1,3 +1,8 @@
+---
+title: "## **'Flamme Rouge': Reflections on the IWW Couriers Network**"
+category: "contemporary-analysis"
+---
+
 ## **'Flamme Rouge': Reflections on the IWW Couriers Network**
 
 ## **Date:** Unknown

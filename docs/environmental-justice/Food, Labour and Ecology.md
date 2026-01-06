@@ -1,3 +1,8 @@
+---
+title: "## **Food, Labour and Ecology**"
+category: "environmental-justice"
+---
+
 ## **Food, Labour and Ecology**
 
 ## **Date:** Tue, 08/02/2016 - 19:07

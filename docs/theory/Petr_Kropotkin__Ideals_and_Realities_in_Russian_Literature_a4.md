@@ -1,158 +1,324 @@
 ---
-title: Petr Kropotkin  Ideals And Realities In Russian Literature A4
-slug: Petr_Kropotkin__Ideals_and_Realities_in_Russian_Literature_a4
-reconversion_status: ready_for_reconversion
-author: Pëtr Kropotkin
-date: '1915'
-tags:
-  - theory
-  - anarchism
-  - strikes
-  - unions
-  - tenants
+title: "Petr Kropotkin  Ideals And Realities In Russian Literature A4"
+author: "Pëtr Kropotkin"
+date: "1915"
+category: "theory"
 ---
+
 #### *Pëtr Kropotkin*
 
 # **Ideals and Realities in Russian Literature**
 
 # **Contents**
 
-| 1 | The Russian Language<br>3<br>The Russian Language<br>3<br>Early Folk-Literature: Folk-lore — Songs — Sagas<br><br>5<br>Lay of Igor's Raid<br><br>8<br>The Annals<br><br>10<br>Mediæval Literature<br><br>10<br>Correspondence between John IV. and Kúrbiskíy<br>12<br>Split in the Church — Memoirs of Avvakúm<br>13<br>The Eighteenth Century — Peter I. and his contemporaries<br><br>14<br>The Times of Catherine II.<br><br>17<br>The Freemasons: First Manifestation of Political Thought<br><br>18<br>The First Years of the Nineteenth Century<br>20 |
+| 1 | The Russian Language
+3
+The Russian Language
+3
+Early Folk-Literature: Folk-lore — Songs — Sagas
+
+5
+Lay of Igor's Raid
+
+8
+The Annals
+
+10
+Mediæval Literature
+
+10
+Correspondence between John IV. and Kúrbiskíy
+12
+Split in the Church — Memoirs of Avvakúm
+13
+The Eighteenth Century — Peter I. and his contemporaries
+
+14
+The Times of Catherine II.
+
+17
+The Freemasons: First Manifestation of Political Thought
+
+18
+The First Years of the Nineteenth Century
+20 |
 |---|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| | The Decembrists<br><br>22 |
+| | The Decembrists
+
+22 |
 | | |
-| 2 | Púshkin — Lérmontoff<br>25 |
-| | Púshkin: Beauty of form<br>25 |
-| | Púshkin and Schiller<br><br>26 |
-| | His youth; his exile; his later career and death<br>26 |
-| | Fairy tales: Ruslán and Ludmíla<br><br>27 |
-| | His Lyrics<br>29 |
-| | "Byronism"<br><br>29 |
-| | Drama<br>30 |
-| | Evghéniy Onyéghin<br>30 |
-| | Lérmonto<br><br>33 |
-| | His Life<br><br>33 |
-| | The Caucasus<br>34 |
-| | Poetry of Nature<br><br>34 |
-| | Inuence of Shelley<br>35 |
-| | Mtsýri<br><br>35 |
-| | The Demon<br><br>36 |
-| | Love of freedom<br>37 |
-| | His Death<br><br>37 |
-| | Púshkin and Lérmonto as Prose-Writers<br><br>38 |
-| | Other poets and novelists of the same epoch<br>39 |
-| | Kryló<br>39 |
-| | The minor poets<br><br>40 |
-| 3 | Gógol<br><br>43 |
-| | Little Russia<br><br>43 |
+| 2 | Púshkin — Lérmontoff
+25 |
+| | Púshkin: Beauty of form
+25 |
+| | Púshkin and Schiller
+
+26 |
+| | His youth; his exile; his later career and death
+26 |
+| | Fairy tales: Ruslán and Ludmíla
+
+27 |
+| | His Lyrics
+29 |
+| | "Byronism"
+
+29 |
+| | Drama
+30 |
+| | Evghéniy Onyéghin
+30 |
+| | Lérmonto
+
+33 |
+| | His Life
+
+33 |
+| | The Caucasus
+34 |
+| | Poetry of Nature
+
+34 |
+| | Inuence of Shelley
+35 |
+| | Mtsýri
+
+35 |
+| | The Demon
+
+36 |
+| | Love of freedom
+37 |
+| | His Death
+
+37 |
+| | Púshkin and Lérmonto as Prose-Writers
+
+38 |
+| | Other poets and novelists of the same epoch
+39 |
+| | Kryló
+39 |
+| | The minor poets
+
+40 |
+| 3 | Gógol
+
+43 |
+| | Little Russia
+
+43 |
 ## | | |
 
-| | Nights on a Farm near Dikónka and Mírgorod<br>43 |
+| | Nights on a Farm near Dikónka and Mírgorod
+43 |
 |---|---------------------------------------------------------------------------|
-| | Village life and humour<br><br>43 |
-| | How Iván Ivánovitch quarrelled with Iván Nikíforytch<br>44 |
-| | Tárás Búlba — The Cloak<br>45 |
-| | The Inspector-General<br><br>47 |
-| | Its inuence<br>51 |
-| | Dead Souls<br><br>51 |
-| | Realism in the Russian novel<br><br>56 |
+| | Village life and humour
+
+43 |
+| | How Iván Ivánovitch quarrelled with Iván Nikíforytch
+44 |
+| | Tárás Búlba — The Cloak
+45 |
+| | The Inspector-General
+
+47 |
+| | Its inuence
+51 |
+| | Dead Souls
+
+51 |
+| | Realism in the Russian novel
+
+56 |
 | | |
-| 4 | Turguéneff — Tolstóy<br><br>57 |
-| | Turguéne<br>57 |
-| | The main features of his Art<br><br>57 |
-| | Pessimism of his early novels<br><br>60 |
-| | A Sportsman's Note Book<br>60 |
+| 4 | Turguéneff — Tolstóy
+
+57 |
+| | Turguéne
+57 |
+| | The main features of his Art
+
+57 |
+| | Pessimism of his early novels
+
+60 |
+| | A Sportsman's Note Book
+60 |
 | | His series of novels representing the leading types of Russian society 61 |
-| | Rúdin<br><br>62 |
-| | Lavrétskiy<br>64 |
-| | Helen and Insáro<br><br>65 |
-| | Why Fathers and Sons was misunderstood<br>66 |
-| | Bazáro<br><br>67 |
-| | Hamlet and Don Quixote<br><br>68 |
-| | Virgin Soil: movement towards the people<br>70 |
-| | Verses in Prose<br><br>71 |
-| | Tolstóy — Childhood and Boyhood<br>71 |
-| | During and After the Crimean War<br>72 |
-| | Youth, in search of an ideal<br><br>74 |
-| | Small stories — The Cossacks<br>76 |
-| | Educational work<br>77 |
-| | War and Peace<br><br>78 |
-| | Anna Kareénina<br><br>81 |
-| | Religious crisis<br><br>83 |
-| | His interpretation of the Christian teaching<br><br>89 |
-| | Main points of the Christian ethics<br>91 |
-| | Latest works of Art<br>93 |
-| | Kreutzer Sonata<br><br>94 |
-| | Resurrection<br>94 |
+| | Rúdin
+
+62 |
+| | Lavrétskiy
+64 |
+| | Helen and Insáro
+
+65 |
+| | Why Fathers and Sons was misunderstood
+66 |
+| | Bazáro
+
+67 |
+| | Hamlet and Don Quixote
+
+68 |
+| | Virgin Soil: movement towards the people
+70 |
+| | Verses in Prose
+
+71 |
+| | Tolstóy — Childhood and Boyhood
+71 |
+| | During and After the Crimean War
+72 |
+| | Youth, in search of an ideal
+
+74 |
+| | Small stories — The Cossacks
+76 |
+| | Educational work
+77 |
+| | War and Peace
+
+78 |
+| | Anna Kareénina
+
+81 |
+| | Religious crisis
+
+83 |
+| | His interpretation of the Christian teaching
+
+89 |
+| | Main points of the Christian ethics
+91 |
+| | Latest works of Art
+93 |
+| | Kreutzer Sonata
+
+94 |
+| | Resurrection
+94 |
 | | |
-| 5 | Goncharóff — Dostoyéskiy — Nekrásoff<br><br>96 |
-| | Goncharó<br><br>96 |
-| | Oblómoff<br><br>97 |
-| | The Russian Malady of Oblómovism — Is it exclusively Russian?<br>102 |
-| | The Precipice<br>102 |
-| | Dostoyévskiy — His rst Novel<br>103 |
-| | General Character of his Work<br>104 |
-| | Memoirs from a Dead-House<br>105 |
-| | Downtrodden and Offended<br>105 |
-| | Crime and Punishment<br>105 |
+| 5 | Goncharóff — Dostoyéskiy — Nekrásoff
+
+96 |
+| | Goncharó
+
+96 |
+| | Oblómoff
+
+97 |
+| | The Russian Malady of Oblómovism — Is it exclusively Russian?
+102 |
+| | The Precipice
+102 |
+| | Dostoyévskiy — His rst Novel
+103 |
+| | General Character of his Work
+104 |
+| | Memoirs from a Dead-House
+105 |
+| | Downtrodden and Offended
+105 |
+| | Crime and Punishment
+105 |
 | | |
-| | The Brothers Karamázoff<br>107 |
-| | Nekráso — Discussions about his Talent<br>108 |
+| | The Brothers Karamázoff
+107 |
+| | Nekráso — Discussions about his Talent
+108 |
 ## | | His Love of the People 109 |
 
-| | Apotheosis of Woman<br>110 | |
+| | Apotheosis of Woman
+110 | |
 |---|-----------------------------------------------------------------|--|
 | | Other Prose-writers of the same Epoch 111 | |
-| | Serghéi Aksáko<br>111 | |
+| | Serghéi Aksáko
+111 | |
 | | Dahl 112 | |
 | | Ivan Panae 112 | |
-| | Hvoschinskaya (V. Krestóvskiy-pseudonyme)<br>113 | |
+| | Hvoschinskaya (V. Krestóvskiy-pseudonyme)
+113 | |
 | | Poets of the same Epoch 114 | |
-| | Koltso<br>115 | |
+| | Koltso
+115 | |
 | | Nikitin 115 | |
-| | Pleschée<br>115 | |
-| | The Admirers of Pure Art: Tutche<br>116 | |
-| | Mayko<br>116 | |
-| | Scherbina<br>116 | |
-| | Polonskiy<br>116 | |
-| | A. Fet<br>117 | |
-| | A. K. Tolstóy<br>117 | |
+| | Pleschée
+115 | |
+| | The Admirers of Pure Art: Tutche
+116 | |
+| | Mayko
+116 | |
+| | Scherbina
+116 | |
+| | Polonskiy
+116 | |
+| | A. Fet
+117 | |
+| | A. K. Tolstóy
+117 | |
 | | The Translators 118 | |
 | | | |
 | 6 | The Drama 119 | |
-| | Its Origin<br>119 | |
-| | The Tsars Alexis and Peter I.<br>119 | |
-| | Sumaróko<br>120 | |
-| | Pseudo-classical Tragedies: Knyazhnín, Ozero<br>121 | |
-| | First Comedies<br>121 | |
+| | Its Origin
+119 | |
+| | The Tsars Alexis and Peter I.
+119 | |
+| | Sumaróko
+120 | |
+| | Pseudo-classical Tragedies: Knyazhnín, Ozero
+121 | |
+| | First Comedies
+121 | |
 | | The First Years of the Nineteenth Century 121 | |
-| | Griboyédo<br>122 | |
-| | The Moscow Stage<br>125 | |
+| | Griboyédo
+122 | |
+| | The Moscow Stage
+125 | |
 | | Ostróvskiy: "Poverty — No Vice" 126 | |
-| | The Thunderstorm<br>128 | |
-| | Ostróvskiy's later Dramas<br>133 | |
-| | Historical Dramas — A. K. Tolstóy.<br>135 | |
-| | Other Dramatic Writers<br>136 | |
+| | The Thunderstorm
+128 | |
+| | Ostróvskiy's later Dramas
+133 | |
+| | Historical Dramas — A. K. Tolstóy.
+135 | |
+| | Other Dramatic Writers
+136 | |
 | | | |
-| 7 | Folk-Novelists<br>138 | |
-| | Their Position in Russian Literature<br>138 | |
+| 7 | Folk-Novelists
+138 | |
+| | Their Position in Russian Literature
+138 | |
 | | The Early Folk-Novelists: Grigoróvitch 139 | |
-| | Marko Vovtchók<br>141 | |
-| | Danilévskiy<br>142 | |
-| | Intermediate Period<br>142 | |
+| | Marko Vovtchók
+141 | |
+| | Danilévskiy
+142 | |
+| | Intermediate Period
+142 | |
 | | Kókore 142 | |
-| | Písemskiy<br>142 | |
-| | Potyékhin<br>143 | |
+| | Písemskiy
+142 | |
+| | Potyékhin
+143 | |
 | | Ethnographical Research 144 | |
-| | The Realistic School<br>145 | |
-| | Pomyalóvskiy<br>145 | |
-| | Ryeshétniko<br>147 | |
-| | Levíto<br>150 | |
+| | The Realistic School
+145 | |
+| | Pomyalóvskiy
+145 | |
+| | Ryeshétniko
+147 | |
+| | Levíto
+150 | |
 | | Gleb Uspénskiy 152 | |
-| | Zlatovrátskiy and other Folk-Novelists:<br>Naúmo, Zasódimskiy, | |
-## | | Sálo, Nefédo<br>154 | |
+| | Zlatovrátskiy and other Folk-Novelists:
+Naúmo, Zasódimskiy, | |
+## | | Sálo, Nefédo
+154 | |
 
-| | Maxim Górkiy<br>156 | |
+| | Maxim Górkiy
+156 | |
 |---|----------------------------------------------------------------|--|
 | 8 | Political Literature, Satire, Art Criticism, Contemporary Nov | |
 | | elists 164 | |
@@ -162,15 +328,18 @@ tags:
 | | Stepniak 168 | |
 | | Tchernyshévskiy and "The Contemporary" 174 | |
 | | The Satire: Saltykó 175 | |
-| | Literary Criticism<br>178 | |
+| | Literary Criticism
+178 | |
 | | Byelinskiy 179 | |
 | | Dobrolúbo 181 | |
-| | Písare<br>182 | |
+| | Písare
+182 | |
 | | | |
 | | Mihailóvskiy 183 | |
 | | Tolstóy's What is Art? 184 | |
 | | Some Contemporary Novelists 187 | |
-| | Oertel<br>187 | |
+| | Oertel
+187 | |
 | | Korolénko 188 | |
 | | Present Drift of Literature 189 | |
 | | Merzhkóvskiy 190 | |
@@ -195,7 +364,7 @@ It must be said that the South-Slavonian had attained a high degree of perfectio
 
 I wish that I could give here an idea of the beauty of the structure of the Russian language, such as it was spoken early in the eleventh century in North Russia, a sample of which has been reserved in the sermon of a Nóvgorod bishop (1035). The short sentences of this sermon, calculated to be understood by a newly christened ock, are really beautiful; while the bishop's conceptions of Christianity, utterly devoid of Byzantine gnosticism, are most characteristic of the manner in which Christianity was and is still understood by the masses of the Russian folk.
 
-At the present time, the Russian language (the Great Russian) is remarkably free from *patois*. Litttle-Russian, or Ukraïnian,<sup>1</sup> which is spoken by nearly 15,000,000 people, and has its own literature — folk-lore and modern — is undoubtedly a separate language, in the same sense as Norwegian and Danish are separate from Swedish, or as Portugueese and Catalonian are separate from Castilian or Spanish. White-Russian, which is spoken in some provinces of Western Russia, has also the characteristic of a separate branch of the Russian, rather than those of a local dialect. As to Great-Russian, or Russian, it is spoken by a compact body of nearly eighty million people in Northern, Central, Eastern, and Southern Russia, as also in Northern Caucasia and Siberia. Its pronunciation slightly varies in dierent parts of this large territory; nevertheless the literary language of Púshkin, Gógol, Turguéne, and Tolstóy is understood by all this enourmous mass of people. The Russian clasics circulate in the vilages by millions of copies, and when, a few years ago, the literary property in Púshkins works came to an end (fty years after his death), complete editions of his works — some of them in ten volumes — were circulated by the hundredthousand, at the almost incredibly low price of three shillings (75 cents) the ten volumes; while millions of copies of his separate poems and tales are sold now by thousands of ambulant booksellers in the villages, at the price of from one to three farthings each. Even the complete works of Gógol, Turguéne, and Goncharó, in twelve-volume editions, have sometimes sold to the number of 200,000 sets each, in the course of a single year. The advantages of this intellectual unity of the nation are self-evident.
+At the present time, the Russian language (the Great Russian) is remarkably free from *patois*. Litttle-Russian, or Ukraïnian,1 which is spoken by nearly 15,000,000 people, and has its own literature — folk-lore and modern — is undoubtedly a separate language, in the same sense as Norwegian and Danish are separate from Swedish, or as Portugueese and Catalonian are separate from Castilian or Spanish. White-Russian, which is spoken in some provinces of Western Russia, has also the characteristic of a separate branch of the Russian, rather than those of a local dialect. As to Great-Russian, or Russian, it is spoken by a compact body of nearly eighty million people in Northern, Central, Eastern, and Southern Russia, as also in Northern Caucasia and Siberia. Its pronunciation slightly varies in dierent parts of this large territory; nevertheless the literary language of Púshkin, Gógol, Turguéne, and Tolstóy is understood by all this enourmous mass of people. The Russian clasics circulate in the vilages by millions of copies, and when, a few years ago, the literary property in Púshkins works came to an end (fty years after his death), complete editions of his works — some of them in ten volumes — were circulated by the hundredthousand, at the almost incredibly low price of three shillings (75 cents) the ten volumes; while millions of copies of his separate poems and tales are sold now by thousands of ambulant booksellers in the villages, at the price of from one to three farthings each. Even the complete works of Gógol, Turguéne, and Goncharó, in twelve-volume editions, have sometimes sold to the number of 200,000 sets each, in the course of a single year. The advantages of this intellectual unity of the nation are self-evident.
 
 #### **Early Folk-Literature: Folk-lore — Songs — Sagas**
 
@@ -203,7 +372,7 @@ The early folk-literature of Russia, part of which is still preserved in the mem
 
 Besides, a variety of yery old songs are sung still by the village folk themselves. Every annual holiday — Christmas, Easter, Midsummer Day — has its own cycle of songs, which have been preserved, with their melodies, even from pagan times. At each marriage, which is accompanied by a very complicated ceremonial, and at each burial, similarly old songs are sung by the peasant women. Many of them have, of course, deteriorated in the course of ages; of many others mere fragments have survived; but, mindful of the popular saying that "never a word must be cast out of a song," the women in many localities continue to sing the most antique songs in full, even though the meaning of many of the words has already been lost.
 
-## <sup>1</sup>Pronounce *Ook-ra-ee-nian.*
+## 1Pronounce *Ook-ra-ee-nian.*
 
 There are, moreover, the *tales*. Many of them are certainly the same as we nd among all nations of Aryan origin: one may read them in Grimm's collection of fairy tales; but others came also from the Mongols and the Turks; while some of them seem to have a purely Russian origin. And next come the songs recited by wandering singers — the *Kalíki* — also very ancient. They are entirely borrowed from the East, and deal with heroes and heroines of other nationalities than the Russian, such as "Akib, the Assyrian King," the beautiful Helen, Alexander the Great, or Rustem of Persia. The interest which these Russian versions of Eastern legends and tales oer to the explorer of folk-lore and mythology is self-evident.
 
@@ -241,13 +410,13 @@ And yet even these few relics of the past have exercised a powerful inuence upon
 
 The folk-lore and the folk-song have thus rendered to Russia an immense service. They have maintained a certain unity of the spoken language all over Russia, as also a unity between the literary language and the language spoken by the masses; between the music of Glínka, Tchaykóvoky, Rímsky Kórsako, Borodín, etc., and the music of the peasant choir — thus rendering both the poet and the composer accessible to the peasant
 
-<sup>2</sup>English readers will nd the translation of this poem in full the excellent anthology of Russian Literature from the Early Period to the Present Time, by Leo Wiener, published in two volumes in 1902, by G. P. Putnam & Sons, at New York. Professor Wiener knows Russian literature perfectly well, and has made a very happy choice of a very great number of the most characteristic passages from Russian writers, beginning with the oldest period (911), and ending with our contemporaries, Górkiy and Merezhkóvskiy.
+2English readers will nd the translation of this poem in full the excellent anthology of Russian Literature from the Early Period to the Present Time, by Leo Wiener, published in two volumes in 1902, by G. P. Putnam & Sons, at New York. Professor Wiener knows Russian literature perfectly well, and has made a very happy choice of a very great number of the most characteristic passages from Russian writers, beginning with the oldest period (911), and ending with our contemporaries, Górkiy and Merezhkóvskiy.
 
 #### **The Annals**
 
 And nally, whilst speaking of the early Russian literature, a few words, at least, must be said of the Annals.
 
-No country has a richer collection of them. There were, in the tenth, eleventh and twelfth centuries, several centres of development in Russia, Kíe, Nóvgorod, Pskov, the land of Volhýnia, the land of Súzdal (Vladímir, Moscow<sup>3</sup>) Ryazán, etc., represented at that time independent republics, linked together only by the unity of language and religion, and by the fact that all of them elected their Princes — military defenders and judges — from the house of Rúrik. Each of these centers had its own annals, bearing the stamp of local life and local character. The South Russian and Volhýnian annals-of which the so-called *Nestor's Annals* are the fullest and the best known, are not merely dry records of facts: they are imaginative and poetical in places. The annals of Nóvgorod bear the stamp of a city of rich merchants: they are very matter-of-fact, and the annalist warms to his subject only when he describes the victories of the Nóvgorod republic over the Land of Súzdal. The Annals of the sister-republic of Pskov, on the contrary, are imbued with a democratic spirit, and they relate with democratic sympathies and in a most picturesque manner the struggles between the poor of Pskov and the rich — the "black people" and the "white people." Altogether, the annals are surely not the work of monks, as was supposed at the outset; they must have been written for the dierent cities by men fully informed about their political life, their treaties with other republics, their inner and outer conicts.
+No country has a richer collection of them. There were, in the tenth, eleventh and twelfth centuries, several centres of development in Russia, Kíe, Nóvgorod, Pskov, the land of Volhýnia, the land of Súzdal (Vladímir, Moscow3) Ryazán, etc., represented at that time independent republics, linked together only by the unity of language and religion, and by the fact that all of them elected their Princes — military defenders and judges — from the house of Rúrik. Each of these centers had its own annals, bearing the stamp of local life and local character. The South Russian and Volhýnian annals-of which the so-called *Nestor's Annals* are the fullest and the best known, are not merely dry records of facts: they are imaginative and poetical in places. The annals of Nóvgorod bear the stamp of a city of rich merchants: they are very matter-of-fact, and the annalist warms to his subject only when he describes the victories of the Nóvgorod republic over the Land of Súzdal. The Annals of the sister-republic of Pskov, on the contrary, are imbued with a democratic spirit, and they relate with democratic sympathies and in a most picturesque manner the struggles between the poor of Pskov and the rich — the "black people" and the "white people." Altogether, the annals are surely not the work of monks, as was supposed at the outset; they must have been written for the dierent cities by men fully informed about their political life, their treaties with other republics, their inner and outer conicts.
 
 Moreover, the annals, especially those of Kíe, or *Nestor's Annals*, are something more than mere records of events; they are, as may be seen from the very name of the latter (*From whence and How came to be the Land of Russia*), attempts at writing a history of the country, under the inspiration of Greek models. Those manuscripts which have reached us — and especially is this true of the Kíe annals — have thus a compound structure, and historians distinguish in them several superposed "layers" dating from dierent periods. Old traditions; fragments of early historical knowledge, probably borrowed from the Byzantine historians; old treaties; complete poems relating certain episodes, such as Igor's raid; and local annals from dierent periods, enter into their composition. Historical facts, relative to a very early period and fully conrmed by the Constantinople annalists and historians, are consequently mingled together with purely mythical traditions. But this is precisely what makes the high literary value of the Russan annals, especially those of Southern and South-western Russia, which contain most precious fragments of early literature.
 
@@ -257,7 +426,7 @@ Such, then, were the treasuries of literature which Russia possessed at the begi
 
 The Mongol invasion, which took place in 1223, destroyed all this young civilisation, and threw Russia into quite new channels. The main cities of South and Middle Russia were laid waste. Kíe, which had been a populous city and
 
-<sup>3</sup>The Russian name of the rst capital of Russia is Moskvá. However, "Moscow," like "Warsaw," etc., is of so general a use that it would be aectation to use the Russian name.
+3The Russian name of the rst capital of Russia is Moskvá. However, "Moscow," like "Warsaw," etc., is of so general a use that it would be aectation to use the Russian name.
 
 a centre of learning, was reduced to the state of a straggling settlement, and disappeared from history for the next two centuries. Whole populations of large towns were either taken prisoners by the Mongols, or exterminated, if they had oered resistance to the invaders. As if to add to the misfortunes of Russia, the Turks soon followed the Mongols, invading the Balkan peninsula, and by the end of the fteenth century the two countries from which and through which learnina used to come to Russia, namely Servia and Bulgaria, fell under the rule of the Osmanlis. All the life of Russia underwent a deep transformation.
 
@@ -291,9 +460,9 @@ Later on Avvakúm was taken to the Amúr, and when he and his wife had to march,
 
 The violent reforms of Peter I., who created a military European State out of the semi-Byzantine and semi-Tartar State which Russia had been under his predecessors, gave a new turn to literature. It would be out of place to appreciate here the historical signicance of the reforms of Peter I., but it must be mentioned that in Russian literature one nds, at least, two forerunners of Peter's work.
 
-One of them was KOTOSHÍKHIN (1630–1667), an historian.<sup>4</sup> He ran away from Moscow to Sweden, and wrote there, fty years before Peter became Tsar, a history of Russia, in which he strenuously criticised the condition of ignorance prevailing at Moscow, and advocated wide reforms. His manuscript was unknown till the nineteenth century, when it was discovered at Upsala. Another writer, imbued with the same ideas, was a South Slavonian, KRYZHÁNITCH, who was called to Moscow in 1659, in order to revise the Holy Books, and wrote
+One of them was KOTOSHÍKHIN (1630–1667), an historian.4 He ran away from Moscow to Sweden, and wrote there, fty years before Peter became Tsar, a history of Russia, in which he strenuously criticised the condition of ignorance prevailing at Moscow, and advocated wide reforms. His manuscript was unknown till the nineteenth century, when it was discovered at Upsala. Another writer, imbued with the same ideas, was a South Slavonian, KRYZHÁNITCH, who was called to Moscow in 1659, in order to revise the Holy Books, and wrote
 
-<sup>4</sup>In all names the vowels *a, e, i, o, u* have to be pronounced as in Italian (*father, then, in, on, push*).
+4In all names the vowels *a, e, i, o, u* have to be pronounced as in Italian (*father, then, in, on, push*).
 
 a most remarkable work, in which he also preached the necessity of thorough reforms. He was exiled two years later to Siberia, where he died.
 
@@ -301,11 +470,11 @@ Peter I., who fully realised the importance of literature, and was working hard 
 
 Literature proper little interested Peter I.: he looked upon printed matter from the strictly utilitarian point of view, and his chief aim was to familiarise the Russians with the rst elements of the exact sciences, as well as with the arts of navigation, warfare, and fortication. Accordingly, the writers of his time oer but little interest from the literary point of view, and I need mention but a very few of them.
 
-The most interesting writer of the time of Peter I. and his immediate successors was perhaps PROCOPÓVITCH, a priest, without the slightest taint of religious fanaticism, a great admirer of West-European learning, who founded a Greco-Slavonian academy. The courses of Russian literature also make mention of KANTEMIR (1709–1744), the son of a Moldavian prince who had emigrated with his subjects to Russia. He wrote satires, in which he expressed himself with a freedom of thought that was quite remarkable for his time<sup>5</sup> TKRETI-AÓVSKY (1703–1769) oers a certain melancholy interest. He was the son of a priest, and in his youth ran away from his father, in order to study at Moscow. Thence he went to Amsterdam and Paris, travelling mostly on foot. He studied at the Paris University and became an admirer of advanced ideas, about which he wrote in extremely clumsy verses. On his return to St. Petersburg he lived all his afterlife in poverty and neglect, persecuted on all sides by sarcasms for his endeavours to reform Russian versication. He was himself entirely devoid of any poetical talent, and yet he rendered a great service to Russian poetry. Up to that date Russian verse was syllabic; but he understood that syllabic verse does not accord with the spirit of the Russian language, and he devoted his life to prove that Russian poetry should be written according to the laws of rhythmical versication. If he had had even a spark of talent, he would have found no dif culty in proving his thesis; but he had none, and consequently resorted to the most ridiculous artices. Some of his verses were lines of the most incongruous words, strung together for the sole purpose of showing how rhythm and rhymes may be obtained. If he could not otherwise get his rhyme, he did not hesitate to split a word at the end of a verse, beginning the next one with what was left of it. In spite of his absurdities, he succeeded in persuading Russian poets to adopt rhythmical versication, and its rules have been followed ever since. In fact, this was only the natural development of the Russian popular song.
+The most interesting writer of the time of Peter I. and his immediate successors was perhaps PROCOPÓVITCH, a priest, without the slightest taint of religious fanaticism, a great admirer of West-European learning, who founded a Greco-Slavonian academy. The courses of Russian literature also make mention of KANTEMIR (1709–1744), the son of a Moldavian prince who had emigrated with his subjects to Russia. He wrote satires, in which he expressed himself with a freedom of thought that was quite remarkable for his time5 TKRETI-AÓVSKY (1703–1769) oers a certain melancholy interest. He was the son of a priest, and in his youth ran away from his father, in order to study at Moscow. Thence he went to Amsterdam and Paris, travelling mostly on foot. He studied at the Paris University and became an admirer of advanced ideas, about which he wrote in extremely clumsy verses. On his return to St. Petersburg he lived all his afterlife in poverty and neglect, persecuted on all sides by sarcasms for his endeavours to reform Russian versication. He was himself entirely devoid of any poetical talent, and yet he rendered a great service to Russian poetry. Up to that date Russian verse was syllabic; but he understood that syllabic verse does not accord with the spirit of the Russian language, and he devoted his life to prove that Russian poetry should be written according to the laws of rhythmical versication. If he had had even a spark of talent, he would have found no dif culty in proving his thesis; but he had none, and consequently resorted to the most ridiculous artices. Some of his verses were lines of the most incongruous words, strung together for the sole purpose of showing how rhythm and rhymes may be obtained. If he could not otherwise get his rhyme, he did not hesitate to split a word at the end of a verse, beginning the next one with what was left of it. In spite of his absurdities, he succeeded in persuading Russian poets to adopt rhythmical versication, and its rules have been followed ever since. In fact, this was only the natural development of the Russian popular song.
 
 There was also a historian, TATÍSCHFF (1686–1750), who wrote a history
 
-<sup>5</sup>In the years 1730–1738 he was ambassador at London.
+5In the years 1730–1738 he was ambassador at London.
 
 of Russia, and began a large work on the geography of the Empire — a hardworking man who studied a great deal in many sciences, as well as in Church matters, was superintendent of mines in the Uráls, and wrote a number of political works as well as history. He was the rst to appreciate the value of the annals, which he collected and systematised, thus preparing materials for future historians, but he left no lasting trace in Russian literature. In fact, only one man of that period deserves more than a passing mention. It was LOMONÓSOFF (1712–1765). He was born in a village on the White Sea, near Archángel, in a sherman's family. He also ran away from his parents, came on foot to Moscow, and entered a school in a monastery, living there in indescribable poverty. Later on he went to Kíe, also on foot, and there he very nearly became a priest. It so happened, however, that at that time the St. Petersburg Academy of Sciences applied to the Moscow Theological Academy for twelve good students who might be sent to study abroad. Lomonóso was chosen as one of them. He went to Germany, where he studied natural sciences under the best natural philosophers of the time, especially under Christian Wol, — always in terrible poverty, almost on the verge of starvation. In 1741 he came back to Russia, and was nominated a member of the Academy of Sciences at St. Petersburg.
 
@@ -319,9 +488,9 @@ A contemporary of Lomonóso, SUMARÓKOFF (1717–1777,) who was described in tho
 
 #### **The Times of Catherine II.**
 
-With Catherine II who reigned from 1752 till 1796, commenced a new era in Russian literature. It began to shake o its previous dulness, and although the Russian writers continued to imitate French models — chiey pseudo-classical — they began also to introduce into their writings various subjects taken from direct observation of Russian life. There is, altogether, a frivolous youthfulness in the literature of the rst years of Catherine's reign, when the Empress, being yet full of progressive ideas borrowed from her intercourse with French philosophers, composed — basing it on Montesquieu — her remarkable *Instruction* (*Nakáz*) to the deputies she convoked; wrote several comedies, in which she ridiculed the old-fashioned representatives of Russian nobility; and edited a monthly review in which she entered into controversy both with some ultraconservative writers and with the more advanced young reformers. An academy of belles-letters was founded, and Princess VORONTSÓVA-DÁSHKOVA (1743– 1819) — who had aided Catherine II. in her *coup d'état* against her husband, Peter III., and in taking possession of the throne was nominated president of the Academy of Sciences. She assisted the Academy with real earnestness in compiling a dictionary of the Russian language, and she also edited a review which left a mark in Russian literature; while her memoirs, written in French (*Mon Histoire*) are a very valuable, though not always impartial, historical document.<sup>6</sup> Altogether there began at that time quite a literary movement, which produced a remarkable poet, DERZHÁVIN (1743–1816); the writer of comedies, VON WÍZIN (1745–1792); the rst philosopher, NÓVIKOFF (1742–18I8); and a political writer, RADÍSCHEFF (1749–1802).
+With Catherine II who reigned from 1752 till 1796, commenced a new era in Russian literature. It began to shake o its previous dulness, and although the Russian writers continued to imitate French models — chiey pseudo-classical — they began also to introduce into their writings various subjects taken from direct observation of Russian life. There is, altogether, a frivolous youthfulness in the literature of the rst years of Catherine's reign, when the Empress, being yet full of progressive ideas borrowed from her intercourse with French philosophers, composed — basing it on Montesquieu — her remarkable *Instruction* (*Nakáz*) to the deputies she convoked; wrote several comedies, in which she ridiculed the old-fashioned representatives of Russian nobility; and edited a monthly review in which she entered into controversy both with some ultraconservative writers and with the more advanced young reformers. An academy of belles-letters was founded, and Princess VORONTSÓVA-DÁSHKOVA (1743– 1819) — who had aided Catherine II. in her *coup d'état* against her husband, Peter III., and in taking possession of the throne was nominated president of the Academy of Sciences. She assisted the Academy with real earnestness in compiling a dictionary of the Russian language, and she also edited a review which left a mark in Russian literature; while her memoirs, written in French (*Mon Histoire*) are a very valuable, though not always impartial, historical document.6 Altogether there began at that time quite a literary movement, which produced a remarkable poet, DERZHÁVIN (1743–1816); the writer of comedies, VON WÍZIN (1745–1792); the rst philosopher, NÓVIKOFF (1742–18I8); and a political writer, RADÍSCHEFF (1749–1802).
 
-<sup>6</sup>In 1775–1782 she spent a few years at Edinburgh for the education of her son.
+6In 1775–1782 she spent a few years at Edinburgh for the education of her son.
 
 The poetry of Derzhávin certainly does not answer our modern requirements. He was the poet laureate of Catherine, and sang in pompous odes the virtues of the ruler and the victories of her generals and favourites. Russia was then taking a rm hold on the shores of the Black Sea, and beginning to play a serious part in European aairs; and occasions for the ination of Derzhávin's patriotic feelings were not wanting. However, he had some of the marks of the true poet; he was open to the feeling of the poetry of Nature, and capable of expressing it in verses that were positively good (*Ode to God, The Waterfall*). Nay, these really poetical verses, which are found side by side with unnatural, heavy lines stued with obsolete pompous words, are so evidently better than the latter, that they certainly were an admirable object-lesson for all subsequent Russian poets. They must have contributed to induce our poets to abandon mannerism. Púshkin, who in his youth admired Derzhávin, must have felt at once the disadvantages of a pompous style, illustrated by his predecessor, and with his wonderful command of his mother-tongue he was necessarily brought to abandon the articial language which formerly was considered "poetical," he began to write as we speak.
 
@@ -339,7 +508,7 @@ The Christian mystics were not happier. One of them, LÁBZIN (1766–1825), who 
 
 RADÍSCHEFF (1749–1802), a political writer of the same epoch, had a still more tragic end. He received his education in the Corps of Pages, and was one of those young men whom the Russian Government had sent in 1766 to Germany to nish there their education. He followed the lectures of Hellert and Plattner at Leipzig, and studied very earnestly the French philosophers. On his return, he published, in 1790, a *Journey from St. Petersburg to Moscow*, the idea of which seems to have been suggested to him by Sterne's *Sentimental Journey*. In this book he very ably intermingled his impressions of travel with various philosophical and moral discussions and with pictures from Russian life.
 
-He insisted especially upon the horrors of serfdom, as also upon the bad organisation of the administration, the venality of the law-courts, and so on, conrming his general condemnations by concrete facts taken from real life. Catherine, who already before the beginning of the revolution in France, and especially since the events of 1789, had come to regard with horror the liberal ideas of her youth, ordered the book to be conscated and destroyed at once. She described the author as a revolutionist, "worse than Pugatchó"; he ventured to "Speak with approbation of Franklin" and was infected with French ideas! Consequently, she wrote herself a sharp criticism of the book, upon which its prosecution had to be based. Radísche was arrested, conned to the fortress, later on transported to the remotest portions of Eastern Siberia, on the Olenek. He was released only in 1801. Next year, seeing that even the advent of Alexander the First did not mean the coming of a new reformatory spirit, he put an end to his life by suicide. As to his book, it still remains forbidden in Russia. A new edition of it, which was made in 1872, was conscated and destroyed, and in 1888 the permission was given to a publisher to issue the work in editions of a hundred copies only, which were to be distributed among a few men of science and certain high functionaries.<sup>7</sup>
+He insisted especially upon the horrors of serfdom, as also upon the bad organisation of the administration, the venality of the law-courts, and so on, conrming his general condemnations by concrete facts taken from real life. Catherine, who already before the beginning of the revolution in France, and especially since the events of 1789, had come to regard with horror the liberal ideas of her youth, ordered the book to be conscated and destroyed at once. She described the author as a revolutionist, "worse than Pugatchó"; he ventured to "Speak with approbation of Franklin" and was infected with French ideas! Consequently, she wrote herself a sharp criticism of the book, upon which its prosecution had to be based. Radísche was arrested, conned to the fortress, later on transported to the remotest portions of Eastern Siberia, on the Olenek. He was released only in 1801. Next year, seeing that even the advent of Alexander the First did not mean the coming of a new reformatory spirit, he put an end to his life by suicide. As to his book, it still remains forbidden in Russia. A new edition of it, which was made in 1872, was conscated and destroyed, and in 1888 the permission was given to a publisher to issue the work in editions of a hundred copies only, which were to be distributed among a few men of science and certain high functionaries.7
 
 #### **The First Years of the Nineteenth Century**
 
@@ -347,17 +516,17 @@ These were, then, the elements out of which Russian literature had to be evolved
 
 Tretiakóvskiy, by his clumsy verses, and especially "Lomonóso and Derzhávin by their odes, had denitely repelled the syllabic form that had been introduced from France and Poland, and had established the tonic, rhythmical form which was indicated by the popular song itself. Lomonóso had created a popular scientic language; he had invented a number of new words, and had proved that the Latin and Old Slavonian constructions were hostile to the spirit of Russian, and quite unnecessary. The age of Catherine II. further introduced into written literature the forms of familiar everyday talk, borrowed even from the peasant class; and Nóviko had created a Russian philosophical language
 
-<sup>7</sup>Two free editions of it were made, one by Herzen at London: *Prince Scherbátoff and A. Radischeff*, 1858; and another at Leipzig: *Journey*, in 1876. See A. Pypin's *History of Russian Literature*, vol. iv.
+7Two free editions of it were made, one by Herzen at London: *Prince Scherbátoff and A. Radischeff*, 1858; and another at Leipzig: *Journey*, in 1876. See A. Pypin's *History of Russian Literature*, vol. iv.
 
-— still heavy on account of its underlying mysticism, but splendidly adapted, as it appeared a few decades later, to abstract metaphysical discussions. The elements for a great and original literature were thus ready. They required only a vivifying spirit which should use them for higher purposes. This genius was Púshkin. But before speaking of him, the historian and novelist Karamzín and the poet Zhukóvskiy<sup>8</sup> must be mentioned, as they represent a link between the two epochs.
+— still heavy on account of its underlying mysticism, but splendidly adapted, as it appeared a few decades later, to abstract metaphysical discussions. The elements for a great and original literature were thus ready. They required only a vivifying spirit which should use them for higher purposes. This genius was Púshkin. But before speaking of him, the historian and novelist Karamzín and the poet Zhukóvskiy8 must be mentioned, as they represent a link between the two epochs.
 
-KARAMZÍN (1766–1826), by his monumental work, *The History of the Russian State*, did in literature what the great war of 18l2 had done in national life. He awakened the national consciousness and created a lasting interest in the history of the nation, in the making of the empire, in the evolution of national character and institutions. Karamzín's *History* was reactionary in spirit. He was the historian of the Russian State, not of the Russian people; the poet of the virtues of monarchy and the wisdom of the rulers, but not an observer of the work that had been accomplished by the unknown masses of the nation. He was not the man to understand the federal principles which prevailed in Russia down to the fteenth century, and still less the communal principles which pervaded Russian life and had permitted the nation to conquer and to colonise an immense continent. For him, the history of Russia was the regular, organic development of a monarchy, from the rst appearance of the Scandinavian *varingiar* down to the present times, and he was chiey concerned with describing the deeds of monarchs in their conquests and their building up of a State; but, as it often happens with Russian writers, his foot-notes were a work of history in themselves. They contained a rich mine of information concerning the sources of Russia's history, and the suggested to the ordinary reader that the early centuries of mediæval Russia, with her independent city-republics, were far more interesting than they appeared in the book.<sup>9</sup> Karamzín was not the founder of a school, but he showed to Russia that she has a past worth knowing. Besides, his work was a work of art. It was written in a brilliant style, which accustomed the public to read historical works. The result was, that the rst edition of his eight-volume *History* — 3,000 copies — was sold in twenty-ve days.
+KARAMZÍN (1766–1826), by his monumental work, *The History of the Russian State*, did in literature what the great war of 18l2 had done in national life. He awakened the national consciousness and created a lasting interest in the history of the nation, in the making of the empire, in the evolution of national character and institutions. Karamzín's *History* was reactionary in spirit. He was the historian of the Russian State, not of the Russian people; the poet of the virtues of monarchy and the wisdom of the rulers, but not an observer of the work that had been accomplished by the unknown masses of the nation. He was not the man to understand the federal principles which prevailed in Russia down to the fteenth century, and still less the communal principles which pervaded Russian life and had permitted the nation to conquer and to colonise an immense continent. For him, the history of Russia was the regular, organic development of a monarchy, from the rst appearance of the Scandinavian *varingiar* down to the present times, and he was chiey concerned with describing the deeds of monarchs in their conquests and their building up of a State; but, as it often happens with Russian writers, his foot-notes were a work of history in themselves. They contained a rich mine of information concerning the sources of Russia's history, and the suggested to the ordinary reader that the early centuries of mediæval Russia, with her independent city-republics, were far more interesting than they appeared in the book.9 Karamzín was not the founder of a school, but he showed to Russia that she has a past worth knowing. Besides, his work was a work of art. It was written in a brilliant style, which accustomed the public to read historical works. The result was, that the rst edition of his eight-volume *History* — 3,000 copies — was sold in twenty-ve days.
 
 However, Karamzín's inuence was not limited to his *History*: it was even greater through his novels and his *Letters of a Russian Travelier Abroad*. In the letter he made an attempt to bring the products of European thought, philosophy, and political life into circulation amidst a wide public; to spread broadly humanitarian views, at a time when they were most needed as a counterpoise to the sad realities of political and social life; and to establish a link of connection between the intellectual life of our country and that of Europe. As to Karamzín's novels, he appeared in them as a true follower of sentimental romanticism; but this was precisely what was required then, as a reaction against the would-be classical school. In one of his novels, *Poor Liza* (1792), he described the misfortunes of a peasant girl who fell in love with a nobleman, was abandoned by him, and nally drowned herself in a pond. This peasant girl surely would not answer to our present realistic requirements. She spoke in choice
 
-<sup>8</sup>Pronounce *Zh* as a French *j* (*Joukóvskiy* in French).
+8Pronounce *Zh* as a French *j* (*Joukóvskiy* in French).
 
-<sup>9</sup>It is now know how much of the prepartory work which rendered Karamzín's *History* possible was done by the Academicians Schlötzer, Müller, and Stritter, as well as by the above-mentioned historian Scherbáto, who had thoroughly studied the annals and whose views Karamzín closely followed in his work.
+9It is now know how much of the prepartory work which rendered Karamzín's *History* possible was done by the Academicians Schlötzer, Müller, and Stritter, as well as by the above-mentioned historian Scherbáto, who had thoroughly studied the annals and whose views Karamzín closely followed in his work.
 
 language and was not a peasant girl at all; but all reading Russia cried about the misfortune of "Poor Liza," and the pond where the heroine was supposed to have been drowned became a place of pilgrimage for the sentimental youths of Moscow. The spirited protest against serfdom which we shall nd later on in modern literature was thus already born in Karamzin's time.
 
@@ -403,9 +572,9 @@ Shortly after that he was allowed to return to St Petersburg: Nicholas I underta
 
 #### **Fairy tales:** *Ruslán and Ludmíla*
 
-One of his earliest productions, written almost immediately after he left school, was *Ruslán and Ludmíla*, a fairy tale, which he put in beautiful verse. The dominating element of this poem is that wonderland where "a green oak stands on the sea-beach, and a learned cat goes round the oak, — to which it is attached by a golden chain, — singing songs when it goes to the left, and telling tales when it goes to the right." It is the wedding day of Ludmila, the heroine; the long bridal feast comes at last to an end, and she retires with her husband; when all of a sudden comes darkness, thunder resounds, and in the storm Ludmíla disappears. She has been carried away by the terrible sorcerer from the Black Sea — a folk-lore allusion, of course, to the frequent raids of the nomads of Southern Russia. Now, the unhappy husband, as also three other young men, who were formerly suitors of Ludmíla, saddle their horses and go in search of the vanished bride. From their experiences the tale is made up, and it is full of both touching passages and very humorous episodes. After many adventures, Ruslán recovers his Ludmíla, and everything ends to the general satisfaction, as folk-tales always do.<sup>1</sup>
+One of his earliest productions, written almost immediately after he left school, was *Ruslán and Ludmíla*, a fairy tale, which he put in beautiful verse. The dominating element of this poem is that wonderland where "a green oak stands on the sea-beach, and a learned cat goes round the oak, — to which it is attached by a golden chain, — singing songs when it goes to the left, and telling tales when it goes to the right." It is the wedding day of Ludmila, the heroine; the long bridal feast comes at last to an end, and she retires with her husband; when all of a sudden comes darkness, thunder resounds, and in the storm Ludmíla disappears. She has been carried away by the terrible sorcerer from the Black Sea — a folk-lore allusion, of course, to the frequent raids of the nomads of Southern Russia. Now, the unhappy husband, as also three other young men, who were formerly suitors of Ludmíla, saddle their horses and go in search of the vanished bride. From their experiences the tale is made up, and it is full of both touching passages and very humorous episodes. After many adventures, Ruslán recovers his Ludmíla, and everything ends to the general satisfaction, as folk-tales always do.1
 
-<sup>1</sup>The great composer Glínka has made of this fairy tale a most beautiful opera (*Rustán I Ludmíla*), in which Russian, Finnish, Turkish, and Oriental music are intermingled in order to characterise the dierent heroes.
+1The great composer Glínka has made of this fairy tale a most beautiful opera (*Rustán I Ludmíla*), in which Russian, Finnish, Turkish, and Oriental music are intermingled in order to characterise the dierent heroes.
 
 This was a most youthful production of Púshkin, but its eect in Russia was tremendous. Classicism, *i.e.* the pseudoclassicism which reigned then, was defeated for ever. Everyone wanted to have the poem, everyone retained in memory of whole passages and even pages from it, and with this tale the modern Russian literature — simple, realistic in its descriptions, modest in its images and fable, earnest and slightly humouristic — was created. In fact, one could not imagine a greater simplicity in verse than that which Púshkin had already obtained in this poem. But to give an idea of this simplicity to English readers remains absolutely impossible so long as the poem is not translated by some very gifted English poet. Suce it to say that, while its verses are wonderfully musical, it contains not one single passage in which the author has resorted to unusual or obsolete words — to any words, indeed, but those which everyone uses in common conversation.
 
@@ -453,9 +622,9 @@ The most popular work of Púshkin is his novel in verse, *Evghéniy Onyéghin*. 
 
 She supplicates Onyéghin to leave her. "I love you," she says:
 
-"Why should I hide from you the truth? But I am given to another, And true to him I shall remain."<sup>2</sup>
+"Why should I hide from you the truth? But I am given to another, And true to him I shall remain."2
 
-<sup>2</sup>For all translations, not otherwise mentioned, it is myself who is responsible.
+2For all translations, not otherwise mentioned, it is myself who is responsible.
 
 How many thousands of young Russian women have later on repeated these same verses, and said to themselves: "I would gladly give up all these rags and all this masquerade of luxurious life for a small shelf of books, for life in the country, amidst the peasants, and for the grave of my old nurse in our village." How many have done it! And we shall see how this same type of Russian girl was developed still further in the novels of Turguéne — and in Russian life. Was not Púshkin a great poet to have foreseen and predicted it?
 
@@ -605,9 +774,9 @@ Bóbchinsky. Everyone knows them, you know them very well: they play the part of
 
 The stranger is simply a young man who is travelling to rejoin his father. On some post-station he met with a certain captain — a great master at cards — and lost all he had in his pocket. Now he cannot proceed any farther, and he cannot pay the landlord, who refuses to credit him with any more meals. The young man feels awfully hungry — no wonder he looked so inquisitively into the plates of the two gentlemen — and resorts to all sorts of tricks to induce the landlord to send him something for his dinner. Just as he is nishing some fossil-like cutlet enters the Gorodníchiy; and a most comic scene follows, the young man thinking that the Governor came to arrest him, and the Governor thinking that he is speaking to the Inspector-General who is trying to conceal his identity. The Governor oers to remove the young man to some more comfortable place. "No, thank you, I have no intent to go to a jail," sharply retorts the young man. . . But it is to his own house that the Governor takes the supposed Inspector, and now an easy life begins for the adventurer. All the functionaries appear in turn to introduce themselves, and everyone is only too happy to give him a bribe of a hundred roubles or so. The merchants come to ask his protection from the Governor; the widow who was ogged comes to lodge a complaint. . . In the meantime the young man enters into a irtation with both the wife and the daughter of the Governor; and, nally, being caught at a very pathetic moment when he is kneeling at the feet of the daughter, without further thought he makes a proposition of marriage. But, having gone so far, the young man, well-provided now with money, hastens to leave the town on the pretext of going to see an uncle; he will be back in a couple of days. . .
 
-The delight of the Governor can easily be imagined. His Excellency, the Inspector-General, going to marry the Governor's daughter! He and his wife are already making all sorts of plans. They will remove to St. Petersburg, the Gorodníchiy will soon be a general, and you will see how he will keep the other Gorodníchies at his door! . . . The happy news spreads about the town, and all the functionaries and the society of the town hasten to oer their congratulations to the old man. There is a great gathering at his house-when the postmaster comes in. He has followed the advice of the Governor, and has opened a letter which the supposed Inspector-General had addressed to somebody at St. Petersburg. He now brings this letter. The young man is no inspector at all, and here is what he writes to a Bohemian friend of his about his adventures in the provincial town:<sup>1</sup>
+The delight of the Governor can easily be imagined. His Excellency, the Inspector-General, going to marry the Governor's daughter! He and his wife are already making all sorts of plans. They will remove to St. Petersburg, the Gorodníchiy will soon be a general, and you will see how he will keep the other Gorodníchies at his door! . . . The happy news spreads about the town, and all the functionaries and the society of the town hasten to oer their congratulations to the old man. There is a great gathering at his house-when the postmaster comes in. He has followed the advice of the Governor, and has opened a letter which the supposed Inspector-General had addressed to somebody at St. Petersburg. He now brings this letter. The young man is no inspector at all, and here is what he writes to a Bohemian friend of his about his adventures in the provincial town:1
 
-*The Postmaster* (reads) I hasten to inform you, my dear friend, of the wonderful things which have happened to me. On my way hither an infantry captain had cleared me out completely, so that the innkeeper here intended to send me to jail, when, all of a sudden, thanks to my St. Petersburg appearance and costume, all the town took me for a Governor-General. Now I am staying at the Gorodníchiy's! I have a splendid time, and irt awfully with both his wife and his daughter. . . Do you remember how hard up we were, taking our meals where we could get them, without paying for them, and how one day, in a tea-shop, the pastry-cook collared me for having eaten his pastry to the account of the king of England?<sup>2</sup> It is quite dierent now. They all lend me money, as much as I care for. They are an awful set of originals: you would split of laughter. I know you write sometimes for the papers — put them into your literature. To begin with, the Governor is as stupid as an old horse. . .
+*The Postmaster* (reads) I hasten to inform you, my dear friend, of the wonderful things which have happened to me. On my way hither an infantry captain had cleared me out completely, so that the innkeeper here intended to send me to jail, when, all of a sudden, thanks to my St. Petersburg appearance and costume, all the town took me for a Governor-General. Now I am staying at the Gorodníchiy's! I have a splendid time, and irt awfully with both his wife and his daughter. . . Do you remember how hard up we were, taking our meals where we could get them, without paying for them, and how one day, in a tea-shop, the pastry-cook collared me for having eaten his pastry to the account of the king of England?2 It is quite dierent now. They all lend me money, as much as I care for. They are an awful set of originals: you would split of laughter. I know you write sometimes for the papers — put them into your literature. To begin with, the Governor is as stupid as an old horse. . .
 
 *The Governor* (*interrupting*): That cannot be there! There is no such thing in the letter.
 
@@ -639,9 +808,9 @@ The delight of the Governor can easily be imagined. His Excellency, the Inspecto
 
 *Korobki*: Why do you stop now?
 
-<sup>1</sup>There is a good English translation of *The Inspector-General*, from which, with slight fevision, I take the following passage.
+1There is a good English translation of *The Inspector-General*, from which, with slight fevision, I take the following passage.
 
-<sup>2</sup>[This was in those times an expression which meant "without paying."]
+2[This was in those times an expression which meant "without paying."]
 
 *Art. Fil.* Bad writing. But, after all, it is quite evident that he is a scoundrel.
 
@@ -753,13 +922,13 @@ The reader feels every such mistake at once and keeps the remembrance of it, not
 
 "What reader of Balzac, or of Dickens, or of Auerbach — to speak of the great dead only — does not know this feeling!" Brandes continues. "When Balzac swims in warmed-up excitement, or when Dickens becomes childishly touching, and Auerbach intentionally naïve, the reader feels repulsed by the untrue, the unpleasant. Never do we meet with anything artistically repulsive in Turguéne."
 
-This remark of the great critic is absolutely true, and only a few words need be added to it, with reference to the wonderful architecture of all Turguéne's novels. Be it a small novel, or a large one, the proportion of the parts is wonderfully held; not a single episode of a merely "ethnographical" character comes in to disturb or to slacken the development of the inner human drama; not one feature, and certainly not one single scene, can be omitted without destroying the impression of the whole; and the nal accord, which seals the usually touching general impression, is always worked out with wonderful nish.<sup>1</sup>
+This remark of the great critic is absolutely true, and only a few words need be added to it, with reference to the wonderful architecture of all Turguéne's novels. Be it a small novel, or a large one, the proportion of the parts is wonderfully held; not a single episode of a merely "ethnographical" character comes in to disturb or to slacken the development of the inner human drama; not one feature, and certainly not one single scene, can be omitted without destroying the impression of the whole; and the nal accord, which seals the usually touching general impression, is always worked out with wonderful nish.1
 
 And then the beauty of the chief scenes. Every one of them could be made the subject of a most artistic and telling picture. Take, for instance, the nal scenes of Helen and Insáro in Venice: their visit to the picture gallery, which made the keeper exclaim, as he looked at them, *Poveretti!* or the scene in the theatre, where in response to the imitated cough of the actress (who played Violetta in *Traviata*) resounded the deep, real cough of the dying Insáro. The actress herself, with her poor dress and bony shoulders, who yet took possession of the audience by the warmth and reality of her feeling, and created a storm of enthusiasm by her cry of dying joy on the return of Alfred; nay, I should even say, the dark harbour where one sees the gull drop from rosy light into the deep blackness of the night — each of these scenes comes to the imagination on canvas. In his lecture, *Hamlet and Don Quixote*, where he speaks of Shakespeare and Cervantes being contemporaries, and mentions that the romance of Cervantes was translated into English in Shakespeare's lifetime, so that he might have read it, Turguéne exclaims: "What a picture, worthy of the brush of a thoughtful painter: Shakespeare reading Don Quixote! "It would seem as if in these lines he betrayed the secret of the wonderful beauty — the pictorial beauty — of such a number of his scenes. He must have imagined them, not only with the music of the feeling that speaks in them, but also as *pictures*, full of the deepest psychological meaning and in which all the surroundings of the main gures the Russian birch wood, or the German town on the Rhine, or the harbour of Venice — are in harmony with the feeling.
 
 Turguéne knew the human heart deeply, especially the heart of a young, thoroughly honest, and reasoning girl when she awakes to higher feelings and ideas, and that awakening takes, without her realising it, the shape of love. In the description of that moment of life Turguéne stands quite unrivalled. On the whole, love is the leading motive of all his novels; and the moment of its full development is the moment when his hero — he may be a political agitator or a modest squire — appears in full light. The great poet knew that a human type cannot be characterised by the daily work in which such a man is engaged — however important that work may be — and still less by a ow of words. Consequently, when he draws, for instance, the picture of an agitator in *Dmitri Rúdin*, he does not report his ery speeches — for the simple reason that the agitator's words would not have characterised him. Many have pronounced the same appeals to Equality and Liberty before him, and many more will pronounce them after his death. But that special type of apostle of equality and liberty — the "man of the word, and of no action" which he intended to represent
 
-<sup>1</sup>The only exception to be made is the scene with the two old people in *Virgin Soil*. It is useless and out of place. To have introduced it was simply "a literary whim."
+1The only exception to be made is the scene with the two old people in *Virgin Soil*. It is useless and out of place. To have introduced it was simply "a literary whim."
 
 in Rúdin — is characterised by the hero's relations to dierent persons, and particularly, above all, by his love. By his love — because it is in love that the human being appears in full, with its individual features. Thousands of men have made "propaganda by word," all very much in the same expressions, but each of them has loved in a dierent way. Mazzini and Lassalle did similar work; but how dierent they were in their loves! You do not know Lassalle unless you know his relations to the Countess of Hatzfeld.
 
@@ -801,7 +970,7 @@ Later on we meet Rúdin once more. He has still found no work for himself, neith
 
 "Genius, very likely he has!" replied Léhne," but as for character. . . That's just his misfortune: there's no force of character in him. . . But I want to speak of what is good, of what is rare in him. He has enthusiasm; and, believe me, who am a phlegmatic person enough, that is the most precious quality in our times. We have all become insuerably reasonable, indierent, and slothful; we are asleep and cold, and thanks to anyone who will wake us up and warm us! It is high time! Do you remember, Sásha, once when I was talking to you about him, I blamed him for coldness? I was right, and wrong too, then. The coldness is in his blood — that is not his fault — and not in his head. He is not an actor, as I called him, nor a cheat, nor a scoundrel; he lives at other people's expense, not like a swindler, but like a child. . . Yes; no doubt he will die somewhere in poverty and want; but are we to throw stones at him for that? He never does anything himself precisely, he has no vital force, no blood; but who has the right to say that he has not been of use, that his words have not scattered good seeds in young hearts, to whom nature has not denied, as she has to him, powers for action, and the faculty of carrying out their own ideas? Indeed, I myself, to begin with, have gained all that I have from him. Sásha knows what Rúdin did for me in my youth. I also maintained, I recollect, that Rúdin's words could not produce an eect on men; but I was speaking then of men like myself, at my present age, of men who have already lived and been broken in by life. One false note in a man's eloquence, and the whole harmony is spoiled for us; but a young man's ear, happily, is not so over-ne, not so trained. If the substance of what he hears seems ne to him, what does he care about the intonation? The intonation he will supply for himself! "
 
-"Bravo, bravo!" cried Bassísto, "that is justly spoken! And as regards Rúdin's inuence, I swear to you, that man not only knows how to move you, he lifts you up, he does not let you stand still, he stirs you to the depths and sets you on re!"<sup>2</sup>
+"Bravo, bravo!" cried Bassísto, "that is justly spoken! And as regards Rúdin's inuence, I swear to you, that man not only knows how to move you, he lifts you up, he does not let you stand still, he stirs you to the depths and sets you on re!"2
 
 ## **Lavrétskiy**
 
@@ -809,7 +978,7 @@ However, with such men as Rúdin further progress in Russia would have been impo
 
 *A Nobleman's Retreat* was an immense success. It was said that, together with the autobiographic tale, *First Love*, it was the most artistic of Turguéne's works. This, however, is hardly so. Its great success was surely due, rst of all, to the wide circle of readers to whom it appealed. Lavrétskiy has married most unfortunately — a lady who soon becomes a sort of a second-rate Parisian lioness. They separate; and then he meets with a girl, Líza, in whom Turguéne
 
-<sup>2</sup>Taken from the excellent translation by Mrs. Constance Garnett, in Heinemann's edition of Turguéne's works.
+2Taken from the excellent translation by Mrs. Constance Garnett, in Heinemann's edition of Turguéne's works.
 
 has given the best impersonation imaginable of the average, thoroughly good and honest Russian girl of those times. She and Lavrétskiy fall in love with each other. For a moment both she and Lavrétskiy think that the latter's wife is dead — so it stood, at least, in a Paris *feuilleton*; but the lady reappears bringing with her all her abominable atmosphere, and Líza goes to a convent. Unlike Rúdin or Bazáro, all the persons of this drama, as well as the drama itself, are quite familiar to the average reader, and for merely that reason the novel appealed to an extremely wide circle of sympathisers. Of course, the artistic powers of Turguéne appear with a wonderful force in the representation of such types as Líza and Lavrétskiy's wife, Líza's old aunt, and Lavrétskiy himself. The note of poetry and sadness which pervades the novel carries away the reader completely. And yet, I may venture to say, the following novel, *On the Eve*, far superseded the former both in the depth of its conception and the beauty of its workmanship.
 
@@ -907,7 +1076,7 @@ Youth is certainly the age when higher moral ideals nd their way into the mind o
 
 Then came *Lucerne*. It is told in that story how the same Neklúdo, bitterly struck by the indierence of a party of English tourists who sat on the balcony of a rich Swiss hotel and refused to throw even a few pennies to a poor singer to whose songs they had listened with evident emotion, brings the singer to the hotel, takes him to the dining-hall, to the great scandal of the English visitors, and treats him there to a bottle of champagne. The feelings of Neklúdo are certainly very just; but while reading this story one suers all the while for the poor musician, and experiences a sense of anger against the Russian nobleman who uses him as a rod to chastise the tourists, without even noticing how he makes the old man miserable during this lesson in morals. The worst of it is that the author, too, seems not to remark the false note which rings in the conduct of Neklúdo, nor to realise how a man with really humane feelings would have taken the singer to some small wine-shop and would have had with him a friendly talk over a *picholette* of common wine. Yet we see again all Tolstóy's force of talent. He so honestly, so fully, and so truly describes the uneasiness of the singer during the whole scene that the reader's unavoidable conclusion is that although the young aristocrat was right in protesting against stone-heartedness, his ways were as unsympathetic as those of the self-contented Englishmen at the hotel. Tolstóy's artistic power carries him beyond and above his theories.
 
-This is not the only case where such a remark may be made concerning Tolstóy's work. His appreciation of this or that action, of this or that of his heroes, may be wrong; his own "philosophy" may be open to objection, but the force of his descriptive talent and his literary honesty are always so great, that he will often make the feelings and actions of his heroes speak against their creator, and prove something very dierent from what he intended to prove.<sup>3</sup> This is probably why Turguéne, and apparently other literary friends, too, told him: "Don't put your 'philosophy into your art.' Trust to your artistic feeling, and you will create great things." In fact, notwithstanding Tolstóy's distrust of science, I must say that I always feel in reading his works that he is possessed of the most *scientific* insight I know of among artists. He may be wrong in his conclusions, but never is he wrong in his statement of data. True science and true art are not hostile to each other, but always work in harmony.
+This is not the only case where such a remark may be made concerning Tolstóy's work. His appreciation of this or that action, of this or that of his heroes, may be wrong; his own "philosophy" may be open to objection, but the force of his descriptive talent and his literary honesty are always so great, that he will often make the feelings and actions of his heroes speak against their creator, and prove something very dierent from what he intended to prove.3 This is probably why Turguéne, and apparently other literary friends, too, told him: "Don't put your 'philosophy into your art.' Trust to your artistic feeling, and you will create great things." In fact, notwithstanding Tolstóy's distrust of science, I must say that I always feel in reading his works that he is possessed of the most *scientific* insight I know of among artists. He may be wrong in his conclusions, but never is he wrong in his statement of data. True science and true art are not hostile to each other, but always work in harmony.
 
 #### **Small stories —** *The Cossacks*
 
@@ -917,7 +1086,7 @@ Several of Tolstóy's novels and stories appeared in the years 1857–1862 (*The
 
 The appearance of this novel, in which one feels a most genuine touch of genius, provoked violent discussions. It was begun in 1852, but was not published till 1860, when all Russia was awaiting with anxiety the results of the work of the Abolition of Serfdom Committees, foreseeing that when serfdom should be done away with a complete destruction of all other rotten, obsolete, and barbarous institutions of past ages would have to begin. For this great work of reform Russia looked to Western civilisation for inspiration and for teachings. And there came a young writer who, following in the steps of Rousseau, revolted against that civilisation and preached a return to nature and the throwing o of
 
-<sup>3</sup>This has struck most critics. Thus, speaking of *War and Peace*, Pílsare wrote: "The images he has created have their own life, independently of the intentions of the author; they enter into direct relations with the readers, speak for themselves, and unavoidably bring the reader to such thoughts and conclusions as the author never had in view and of which he, perhaps, would not approve." (Works, V1. P. 420.)
+3This has struck most critics. Thus, speaking of *War and Peace*, Pílsare wrote: "The images he has created have their own life, independently of the intentions of the author; they enter into direct relations with the readers, speak for themselves, and unavoidably bring the reader to such thoughts and conclusions as the author never had in view and of which he, perhaps, would not approve." (Works, V1. P. 420.)
 
 the articialities we call civilised life, which are in reality a poor substitute for the happiness of free work amidst a free nature. Everyone knows by this time the dominant idea of *The Cossacks*. It is the contrast between he natural life of these sons of the prairies and the articial life of the young ocer thrown in their midst. He tells of strong men who are similar to the American squatters, and have been developed in the Steppes at the foot of the Caucasus Mountains, by a perilous life, in which force, endurance, and calm courage are a rst necessity. Into their midst comes one of the sickly products of our semi-intellectual town life, and at every step he feels himself the inferior of the Cossack Lukáshka. He wishes to do something on a grand scale, but has neither the intellectual nor the physical force to accomplish it. Even his love is not the strong healthy love of the prairie man, but a sort of slight excitement of the nerves, which evidently will not last, and which only produces a similar restlessness in the Cossack girl, but cannot carry her away. And when he talks to her of love, in the force of which he himself does not believe, she sends him o with the words: "Go away you weakling!"
 
@@ -963,9 +1132,9 @@ And now came Tolstóy with Anna Karénina, which bears the menacing biblical epi
 
 Everyone knows the profound change which took place in Tolstóy's fundamental conceptions of life in the years 1875–1878, when he had reached the age of about fty. I do not think that one has the right to discuss publicly what has been going on in the very depths of another's mind; but, by telling us himself the inner drama and the struggles which he has lived through, the great writer has, so to say, invited us to verify whether he was correct in his reasonings and conclusions; and limiting ourselves to the psychological material which he has given us, we may discuss it without undue intrusion into the motives of his actions.
 
-It is most striking to nd, on re-reading the earlier works of Tolstóy, how the ideas which he advocates at the present time were always cropping up in his earlier writings. Philosophical questions and questions concerning the moral foundations of life interested him from his early youth. At the age of sixteen he used to read philosophical works, and during his university years, and even through "the stormy days of passion," questions as to how we ought to live rose with their full importance before him. His autobiographical novels, especially *Youth*, bear deep traces of that inner work of his mind, even though, as he says in *Confession*, he has never said all he might have said on this subject. Nay, it is evident that although he describes his frame of mind in those years as that of "a philosophical Nihilist," he had never parted, in reality, with the beliefs of his childhood.<sup>4</sup> He always was an admirer and follower of Rousseau. In his papers on education (collected in Vol. IV. of the tenth Moscow edition of his *Works*) one nds treated in a very radical way most of the burning social questions which he has discussed in his later years. These questions even then worried him so much that, while he was carrying on his school work in Yásnaya Polyána and was a Peace Mediator — that is, in the years 1861–62 — he grew so disgusted with the unavoidable dualism of his position of a benevolent landlord, that — to quote his own words — "I should have come then, perhaps, to the crisis which I reached fteen years later, if there had not remained one aspect of life which promised me salvation, — namely, married life." In other words, Tolstóy was already very near to breaking with the privileged class point of view on Property and Labour, and to joining the great populistic movement which was already beginning in Russia. This he probably would have done, had not a new world of love, family life, and family interests, which he embraced with the usual intensity of his passionate nature, fastened the ties that kept him attached to his own class.
+It is most striking to nd, on re-reading the earlier works of Tolstóy, how the ideas which he advocates at the present time were always cropping up in his earlier writings. Philosophical questions and questions concerning the moral foundations of life interested him from his early youth. At the age of sixteen he used to read philosophical works, and during his university years, and even through "the stormy days of passion," questions as to how we ought to live rose with their full importance before him. His autobiographical novels, especially *Youth*, bear deep traces of that inner work of his mind, even though, as he says in *Confession*, he has never said all he might have said on this subject. Nay, it is evident that although he describes his frame of mind in those years as that of "a philosophical Nihilist," he had never parted, in reality, with the beliefs of his childhood.4 He always was an admirer and follower of Rousseau. In his papers on education (collected in Vol. IV. of the tenth Moscow edition of his *Works*) one nds treated in a very radical way most of the burning social questions which he has discussed in his later years. These questions even then worried him so much that, while he was carrying on his school work in Yásnaya Polyána and was a Peace Mediator — that is, in the years 1861–62 — he grew so disgusted with the unavoidable dualism of his position of a benevolent landlord, that — to quote his own words — "I should have come then, perhaps, to the crisis which I reached fteen years later, if there had not remained one aspect of life which promised me salvation, — namely, married life." In other words, Tolstóy was already very near to breaking with the privileged class point of view on Property and Labour, and to joining the great populistic movement which was already beginning in Russia. This he probably would have done, had not a new world of love, family life, and family interests, which he embraced with the usual intensity of his passionate nature, fastened the ties that kept him attached to his own class.
 
-<sup>4</sup>*Introduction to the Criticism of Dogmatic Theology and to an Analysis of the Christian Teaching*, or *Confession*; Vol. I of Tchertko's edition of *Works prohibited by the Russian Censorship* (in Russian), Christchurch, 1902, p. 13.
+4*Introduction to the Criticism of Dogmatic Theology and to an Analysis of the Christian Teaching*, or *Confession*; Vol. I of Tchertko's edition of *Works prohibited by the Russian Censorship* (in Russian), Christchurch, 1902, p. 13.
 
 Art, too, must have contributed to divert his attention from the social problem — at least, from its economic aspects, In *War and Peace* he developed the philosophy of *the masses versus the heroes*, a philosophy which in those years would have found among the educated men of all Europe very few persons ready to accept it. Was it his poetical genius which revealed to him the part played by the masses in the great war of 1812, and taught him that they — the masses, and not the heroes — had accomplished all the great things in history? Or, was it but a further development of the ideas which inspired him in his Yásnaya Polyána school, in opposition to all the educational theories that had been elaborated by Church and State in the interest of the privileged classes? At any rate, *War and Peace* must have oered him a problem great enough to absorb his thoughts for a number of years; and in writing this monumental work, in which he strove to promote a new conception of history, he must have felt that he was working in the right way. As to *Anna Karénina*, which had no such reformatory or philosophical purpose, it must have oered to Tolstóy the possibility of living through once more, with all the intensity of poetical creation, the shallow life of the leisured classes, and to contrast it with the life of the peasants and their work. And it was while he was nishing this novel that he began to fully realise how much his own life was in opposition to the ideals of his earlier years.
 
@@ -995,7 +1164,7 @@ Tolstóy has told us in an admirable book, *What is, then, to be done?* the impr
 
 That he knew of this movement, there is not the slightest doubt. The trial of the Netcháe groups in 1871 was printed in full in the Russian newspapers, and one could easily read through all the youthful immaturity of the speeches of the accused the high motives and the love of the people which inspired them. The trial of the Dolgúshin groups, in 1875, produced a still deeper impression in the same direction; but especially the trial, in March, 1877, of those of transcendent worth, girls Bárdina, Lubatóvitch, the sisters Subbótin, "the Moscow Fifty" as they were named in the circles, who, all from wealthy families, had led the life of factory girls, in the horrible factory-barracks, working fourteen and sixteen hours a day, in order to be with the working people and to teach them. . . And then — the trial of the "Hundred and Ninety-Three" and of Véra Zasúllitch in 1878. However great Tolstóy's dislike of revolutionists might have been, he must have felt, as he read the reports of these trials, or heard what was said about them at Moscow and in his province of Túla, and witnessed round him the impression they had produced — he, the great artist, must have felt that this youth was much nearer to what he himself was in his earlier days, in 1861– 62, than to those among whom he lived now — the Katkós, the "Fets," and the like. And then, even if he knew nothing about these trials and had heard nothing about the "Moscow Fifty," he knew, at least, Turguéne's *Virgin Soil*, which was published in January, 1877, and he must have felt, even from that imperfect picture, so warmly greeted by young Russia, what this young Russia was.
 
-If Tolstóy had been in his twenties, he might possibly have joined the movement, in one form or another, notwithstanding all the obstacles. Such as he was, in his surroundings, and especially with his mind already preoccupied by the problem — "Where is the lever which would move human hearts at large, and become the source of the deep moral reform of every individual?" with such a question on his mind, he had to live through many a struggle before he was brought consciously to take the very same step. For our young men and women, the mere statement that one who had got an education, thanks to the work of the masses, owed it therefore to these masses to work in return for them — this simple statement was sucient. They left their wealthy houses, took to the simplest life, hardly dierent from that of a workingman, and devoted their lives to the people. But for many reasons — such as education, habits, surroundings, age, and, perhaps, the great philosophical question he had in his mind, Tolstóy had to live through the most painful struggles, before he came to the very same conclusion, but in a dierent way: that is to say, before he concluded that he, as the bearer of a portion of the divine Unknown, had to full the will of that Unknown, which will was that everyone should work for the universal welfare.<sup>5</sup>
+If Tolstóy had been in his twenties, he might possibly have joined the movement, in one form or another, notwithstanding all the obstacles. Such as he was, in his surroundings, and especially with his mind already preoccupied by the problem — "Where is the lever which would move human hearts at large, and become the source of the deep moral reform of every individual?" with such a question on his mind, he had to live through many a struggle before he was brought consciously to take the very same step. For our young men and women, the mere statement that one who had got an education, thanks to the work of the masses, owed it therefore to these masses to work in return for them — this simple statement was sucient. They left their wealthy houses, took to the simplest life, hardly dierent from that of a workingman, and devoted their lives to the people. But for many reasons — such as education, habits, surroundings, age, and, perhaps, the great philosophical question he had in his mind, Tolstóy had to live through the most painful struggles, before he came to the very same conclusion, but in a dierent way: that is to say, before he concluded that he, as the bearer of a portion of the divine Unknown, had to full the will of that Unknown, which will was that everyone should work for the universal welfare.5
 
 The moment, however, that he came to this conclusion, he did not hesitate to act in accordance with it. The diculties he met in his way, before he could follow the injunction of his conscience, must have been immense. We can faintly guess them. The sophisms he had to combat — especially when all those who understood the value of his colossal talent began to protest against his condemnation of his previous writing — we can also easily imagine. And one can but admire the force of his convictions, when he entirely reformed the life he had hitherto led.
 
@@ -1007,23 +1176,23 @@ Guided by the idea that millions of plain working people realised the sense of l
 
 Consequently, he undertook a complete study of Christianity, irrespective of the teachings of the dierent churches, including a careful revision of the translations of the gospels, with the intention of nding out what was the real meaning of the Great Teacher's precepts, and what had been added to it by his
 
-<sup>5</sup>"That which some people told me, and of which I sometimes had tried to persuade myself — namely, that a man should desire happiness, not for himself only, but for others, his neighbours, and for all men as well: this did not satisfy me. Firstly, I could not sincerely desire happiness for others as much as for myself; secondly, and chiey, others, in like manner as myself, were doomed to unhappiness and death, and therefore all my eorts for other people's happiness were useless. I despaired." The understanding that personal happiness is best found in the happiness of all did not appeal to him, and the very striving towards the happiness of all, and an advance towards it, he thus found insucient as a purpose in life.
+5"That which some people told me, and of which I sometimes had tried to persuade myself — namely, that a man should desire happiness, not for himself only, but for others, his neighbours, and for all men as well: this did not satisfy me. Firstly, I could not sincerely desire happiness for others as much as for myself; secondly, and chiey, others, in like manner as myself, were doomed to unhappiness and death, and therefore all my eorts for other people's happiness were useless. I despaired." The understanding that personal happiness is best found in the happiness of all did not appeal to him, and the very striving towards the happiness of all, and an advance towards it, he thus found insucient as a purpose in life.
 
-followers. In a remarkable, most elaborate work (*Criticism of Dogmatic Theology*), he demonstrated how fundamentally the interpretations of the Churches diered from what was in his opinion the true sense of the words of the Christ. And then he worked out, quite independently, an interpretation of the Christian teaching which is quite similar to the interpretations that have been given to it by all the great popular movements — in the ninth century in Armenia, later on by Wycli, and by the early Anabaptists, such as Hans Denck,<sup>6</sup> laying, however, like the Quakers, especial stress on the doctrine of non-resistance.
+followers. In a remarkable, most elaborate work (*Criticism of Dogmatic Theology*), he demonstrated how fundamentally the interpretations of the Churches diered from what was in his opinion the true sense of the words of the Christ. And then he worked out, quite independently, an interpretation of the Christian teaching which is quite similar to the interpretations that have been given to it by all the great popular movements — in the ninth century in Armenia, later on by Wycli, and by the early Anabaptists, such as Hans Denck,6 laying, however, like the Quakers, especial stress on the doctrine of non-resistance.
 
 #### **His interpretation of the Christian teaching**
 
 The ideas which Tolstóy thus slowly worked out are explained in a succession of three separate works: (1) *Dogmatic Theology*, of which the Introduction is better known as *Confession* and was written in 1892; (2) *What is my Faith?* (1884); and (3) *What is then to be Done?* (1886), to which must be added *The Kingdom of God in Yourselves*, or *Christianity, not as a mystic Teaching but as a new Understanding of Life* (1900) and, above all, a small book, *The Christian Teaching* (1902), which is written in short, concise, numbered paragraphs, like a catechism, and contains a full and denite exposition of Tolstóy's views. A number of other works dealing with the same subject — such as *The Life and the Teachings of the Christ, My Reply to the Synod's Edict of Excommunication, What is Religion, On Life*, etc., were published during the same year. These books represent the work of Tolstóy for the last twenty years, and at least four of them (*Confession, My Faith, What is to be Done, and Christian Teaching*) must be read in the indicated succession by everyone who wishes to know the religious and moral conceptions of Tolstóy and to extricate himself from the confused ideas which are sometimes represented as Tolstóyism. As to the short work, *The Life and the Teaching of Jesus*, it is, so to speak, the four gospels in one, told in a language easy to be understood, and free of all mystical and metaphorical elements; it contains Tolstóy's reading of the gospels.
 
-These works represent the most remarkable attempt at a rationalistic interpretation of Christianity that has ever been ventured upon. Christianity appears in them devoid of all gnosticism and mysticism, as a purely spiritual teaching about the universal spirit which guides man to a higher life — a life of equality and of friendly relations with all men. If Tolstóy accepts Christianity as the foundation of his faith, it is not because he considers it as a revelation, but because its teaching, puried of all the additions that have been made to it by the churches, contains "the very same solution of the problem of life as has been given more or less explicitly by the best of men, both before and since the gospel was given to us — a succession which goes on from Moses, Isaiah, and Confucius, to the early Greeks, Buddha, and Socrates, down to Pascal, Spinoza, Fichte, Feuerbach, and all others, often unnoticed and unknown, who, taking no teachings on mere trust, have taught us, and spoken to us with sincerity, about the meaning of life"<sup>7</sup>; because it gives "an explanation of the meaning of life" and "a solution of this contradiction between the aspiration after welfare and
+These works represent the most remarkable attempt at a rationalistic interpretation of Christianity that has ever been ventured upon. Christianity appears in them devoid of all gnosticism and mysticism, as a purely spiritual teaching about the universal spirit which guides man to a higher life — a life of equality and of friendly relations with all men. If Tolstóy accepts Christianity as the foundation of his faith, it is not because he considers it as a revelation, but because its teaching, puried of all the additions that have been made to it by the churches, contains "the very same solution of the problem of life as has been given more or less explicitly by the best of men, both before and since the gospel was given to us — a succession which goes on from Moses, Isaiah, and Confucius, to the early Greeks, Buddha, and Socrates, down to Pascal, Spinoza, Fichte, Feuerbach, and all others, often unnoticed and unknown, who, taking no teachings on mere trust, have taught us, and spoken to us with sincerity, about the meaning of life"7; because it gives "an explanation of the meaning of life" and "a solution of this contradiction between the aspiration after welfare and
 
-<sup>6</sup>See *Anabaptism from its Rise at Zwickau to its Fall at Münister*, 1521–1536, by Richard Heath (*Baptist Manuals*, 1, 1895).
+6See *Anabaptism from its Rise at Zwickau to its Fall at Münister*, 1521–1536, by Richard Heath (*Baptist Manuals*, 1, 1895).
 
-<sup>7</sup>*The Christian Teaching*, Introduction, p. vi. In another similar passage he adds Marcus Aurelius and Lao-tse to the above-mentioned teachers.
+7*The Christian Teaching*, Introduction, p. vi. In another similar passage he adds Marcus Aurelius and Lao-tse to the above-mentioned teachers.
 
 life, and the consciousness of their being unattainable" (*Chr. Teach.* § 13) — "between the desire for happiness and life on the one hand, and the increasingly clear perception of the certainty of calamity and death on the other" (*ibid.*, § 10).
 
-As to the dogmatic and mystical elements of Christianity, which he treats as mere additions to the real teaching of Christ, he considers them so noxious that even he makes the following remark: It is terrible to say so (but sometimes I have this thought) if the teaching of Christ, together with the teaching of the Church that has grown upon it, did not exist at all — those who now call themselves Christians would have been nearer to the teachings of Christ — that is, to an intelligent teaching about the good of life — than they are now. The moral teachings of all the prophets of mankind would not have been closed for them."<sup>8</sup>
+As to the dogmatic and mystical elements of Christianity, which he treats as mere additions to the real teaching of Christ, he considers them so noxious that even he makes the following remark: It is terrible to say so (but sometimes I have this thought) if the teaching of Christ, together with the teaching of the Church that has grown upon it, did not exist at all — those who now call themselves Christians would have been nearer to the teachings of Christ — that is, to an intelligent teaching about the good of life — than they are now. The moral teachings of all the prophets of mankind would not have been closed for them."8
 
 Putting aside all the mystical and metaphysical conceptions which have been interwoven with Christianity, he concentrates his main attention upon the moral aspects of the Christian teaching. One of the most powerful means — he says — by which men are prevented from living a life in accordance with this teaching is "religious deception." "Humanity moves slowly but unceasingly onward, towards an ever higher development of consciousness of the true meaning of life, and towards the organisation of life in conformity with this development of consciousness;" but in this ascendant march all men do not move at an equal pace, and "the less sensitive continue to adhere to the previous understanding and order of life, and try to uphold it." This they achieve mainly by means of the religious deception which consists "in the intentional confusion of faith with superstition, and the substitution of the one for the other." (*Chr. Teach.*, § § 181, 180.) The only means to free one's self from this deception is — he says — "to understand and to remember that the only instrument which man possesses for the acquisition of knowledge is reason, and that therefore every teaching which arms that which is contrary to reason is a delusion." Altogether, Tolstóy is especially emphatic upon this point of the importance of reason. (See *The Christian Teaching*, §§ 206, 214.)
 
@@ -1031,7 +1200,7 @@ Another great obstacle to the spreading of the Christian teaching he sees in the
 
 In speaking of God he takes sometimes a pantheistic position, and describes God as Life, or as Love, or else as the Ideal which man is conscious of in himself (*Thoughts about God*, collected by V. and A. Tchertko); but in his last work (*Christian Teaching*, ch. VII. and VIII.) he prefers to identify God with "the universal desire for welfare which is the source of all life." "So that, according to the, Christian teaching, God is that Essence of life which man recognises
 
-<sup>8</sup>*What is my Belief*, ch. X, p. 145 of Tchertko's edition of *Works prohibited by Russian Censorship*. On pp. 18 and 19 of the little work, *What is Religion and What is its Substance*. Tolstóy expresses himself even more severely about "Church Christianity." He also gives us in this remarkable little work his ideas about the substance of religion altogether, from which one can deduct its desirable relations to science, to synthetic philosophy, and to philosophical ethics.
+8*What is my Belief*, ch. X, p. 145 of Tchertko's edition of *Works prohibited by Russian Censorship*. On pp. 18 and 19 of the little work, *What is Religion and What is its Substance*. Tolstóy expresses himself even more severely about "Church Christianity." He also gives us in this remarkable little work his ideas about the substance of religion altogether, from which one can deduct its desirable relations to science, to synthetic philosophy, and to philosophical ethics.
 
 both within himself and in the whole universe as the desire for welfare; it being at the same time the cause by which this Essence is enclosed and conditioned in individual and corporal life" (§36). Every reasoning man — Tolstóy adds — comes to a similiar conclusion. A desire for universal welfare appears in every reasoning man, after his rational consciousness has been awakened at a certain age; and in the world around Man the same desire is manifest in all separate beings, each of whom strives for his own welfare (§37). These two desires "converge towards one distinct purpose — denite, attainable, and joyful for man." Consequently, he concludes, Observation, Tradition (religious), and Reason, all three, show him "that the greatest welfare of man, towards which all men aspire, can only be obtained by perfect union and concord among men." All three show that the immediate work of the world's development, in which he is called upon to take part, is "the substitution of union and harmony for division and discord." "The inner tendency of that spiritual being-love — which is in the process of birth within him, impels him in the same direction."
 
@@ -1413,7 +1582,7 @@ In the forties of the nineteenth century the theatre was treated everywhere with
 
 Especially at Moscow did this intellectual intercourse be. tween the stage and society go on, and a superior conception of dramatic art was there developed. The intercourse which Gógol established with the actors who played his *Inspector-General*, and especially with SCHÉPKIN; the inuence of the literary and philosophical circles which had then their seat at Moscow; and the intelligent appreciation and criticism of their work which the actors found in the Press — all this concurred in making of the Moscow Mályi Teátr (Small Theatre) the cradle of a superior dramatic art. While St. Petersburg patronised the so-called "French" school of acting — declamatory and unnaturally rened — the Moscow stage attained a high degree of perfection in the development of the naturalistic school. I mean the school of which Duse is now such a great representative, and to which Lena Ashwell owed her great success in *Resurrection*; that is, the school in which the actor parts with the routine of conventional stage tradition, and provokes the deepest emotions in his audience by the depth of his own real feeling and by the natural truth and simplicity of its expression — the school which occupies the same position on the stage that the realism of Turguéne and Tolstóy occupies in literature.
 
-In the forties and the early fties this school had attained its highest perfection at Moscow, and had in its ranks such rst-class actors and actresses as Schépkin — the real soul of this stage — MOTCHÁLOFF, SADÓSK1Y, S. VASÍLIEFF, and MME. NIKÚLINA-KOSSÍTSKAYA, supported by quite a pleiad of good secondary aids. Their *répertoire* was not very rich; but the two comedies of Gógol (*Inspector-General* and *Marriage*), occasionally Griboyédo's great satire; a comedy, *The Marriage of Kretchínsky*, by SUKHOVÓ-KOBÝLIN, which gave excellent opportunities for displaying the best qualities of the artists just named; now and then a drama of Shakespeare,<sup>1</sup> plenty of melodramas adapted from the French, and vaudevilles which came nearer to light comedy than to farce — this was the ever varied programme of the Small Theatre. Some plays were played to perfection — combining the ensemble and the "go" which characterise the Odéon with the simplicity and naturalness already mentioned.
+In the forties and the early fties this school had attained its highest perfection at Moscow, and had in its ranks such rst-class actors and actresses as Schépkin — the real soul of this stage — MOTCHÁLOFF, SADÓSK1Y, S. VASÍLIEFF, and MME. NIKÚLINA-KOSSÍTSKAYA, supported by quite a pleiad of good secondary aids. Their *répertoire* was not very rich; but the two comedies of Gógol (*Inspector-General* and *Marriage*), occasionally Griboyédo's great satire; a comedy, *The Marriage of Kretchínsky*, by SUKHOVÓ-KOBÝLIN, which gave excellent opportunities for displaying the best qualities of the artists just named; now and then a drama of Shakespeare,1 plenty of melodramas adapted from the French, and vaudevilles which came nearer to light comedy than to farce — this was the ever varied programme of the Small Theatre. Some plays were played to perfection — combining the ensemble and the "go" which characterise the Odéon with the simplicity and naturalness already mentioned.
 
 The mutual inuence which the stage and dramatic authors necessarily exercise upon each other was admirably illustrated at Moscow. Several dramatists wrote specially for this stage — not in order that this or that actress might eclipse all others, as happens nowadays in those theatres where one play is played scores of nights in succession, but for this given *stage* and its actors as a whole. OSTRÓVSKIY (1823–1886) was the one who best realised this mutual relation between the dramatic author and the stage, and thus he came to hold with regard to the Russian drama the same position that Turguéne and Tolstóy hold with regard to the Russian novel.
 
@@ -1425,7 +1594,7 @@ His rst comedy, *Pictures of Family Happiness*, was written in 1847, and three y
 
 For the next ve years Ostróvskiy published nothing, but then he brought out in close succession (18S3 and 1854) two dramas of remarkable power — *Don't take a seat in other People's Sledges*, and *Poverty — No Vice*. The subject of the former was not new: a girl from a tradesman's family runs away with a nobleman, who abandons and illtreats her when he realises that she will get from her father neither pardon nor money. But this subject was treated with
 
-<sup>1</sup>Shakespeare has always been a great favourite in Russia, but his dramas require a certain wealth of scenery not always at the disposal of the Small Theatre.
+1Shakespeare has always been a great favourite in Russia, but his dramas require a certain wealth of scenery not always at the disposal of the Small Theatre.
 
 such freshness, and the characters were depicted in positions so well-chosen, that for its literary and stage — qualities the drama is one of the best Ostróvskiy has written. As to *Poverty — No Vice*, it produced a tremendous impression all over Russia. We see in it a family of the old type, the head of which is a rich merchant — a man who is wont to impose his will upon all his surroundings and has no other conception of life. He has, however, taken outwardly to "civilisation" that is, to restaurant — civilisation: he dresses in the fashions of Western Europe and tries to follow Western customs in his house — at least in the presence of the acquaintances he makes in the fashionable restaurants. Nevertheless, his wife is his slave, and his household trembles at his voice. He has a daughter who loves, and is loved by, one of her father's clerks, Mítya, a most timid but honest young man, and the mother would like her daughter to marry this clerk; but the father has made the acquaintance of a more or less wealthy aged man — a sort of Armenian money-lender, who dresses according to the latest fashion, drinks champagne instead of rye-whiskey, and therefore plays among Moscow merchants a certain rôle of authority in questions of fashion and rules of propriety. To this man the girl must be married. She is saved, however, by the interference of her uncle, Lubím Tortsó. Lubím was once rich, like his brother, but he was not satised with the dull Philistine life of his surroundings, and seeing no way out of it and into a better social atmosphere, he took to drink to unmitigated drunkenness, such as was to be seen in olden times at Moscow. His wealthy brother has helped him to get rid of his fortune, and now, in a ragged mantle, he goes about the lower class taverns, making of himself a sort of jester for a chance glass of gin. Penniless, dressed in his rags, cold and hungry, he comes to the young clerk's room, asking permission to stay there over night.
 
@@ -1461,13 +1630,13 @@ One of the best dramas of Ostróvskiy is *The Thunderstorm* (translated by Mrs. 
 
 *Kabanóva*: You have no one over you, and so you think you can do as you like.
 
-*Dikóy*: No, you hold your tongue! Listen to me! I'll tell you the sort of troubles that happen to me. I had fasted in Lent, and was all ready for Communion, and then the Evil One thrusts a wretched peasant under my nose. He had come for money, for wood he had supplied us. And, for my sins, he must needs show himself at a time like that! I fell into sin, of course; I pitched into him, pitched into him nely, I did, all but thrashed him. There you have it, my temper! Afterwards I asked his pardon, bowed down to his feet, upon my word I did. It's the truth I'm telling you, I bowed down to a peasant's feet. That's what my temper brings me to: on the spot there, in the mud I bowed down to his feet; before everyone, I did.<sup>2</sup>
+*Dikóy*: No, you hold your tongue! Listen to me! I'll tell you the sort of troubles that happen to me. I had fasted in Lent, and was all ready for Communion, and then the Evil One thrusts a wretched peasant under my nose. He had come for money, for wood he had supplied us. And, for my sins, he must needs show himself at a time like that! I fell into sin, of course; I pitched into him, pitched into him nely, I did, all but thrashed him. There you have it, my temper! Afterwards I asked his pardon, bowed down to his feet, upon my word I did. It's the truth I'm telling you, I bowed down to a peasant's feet. That's what my temper brings me to: on the spot there, in the mud I bowed down to his feet; before everyone, I did.2
 
 Madame Kabanóva is well matched with Dikoóy. She may be less primitive than her friend, but she is an innitely more tyrannical oppressor. Her son is married and loves, more or less, his young wife; but he is kept under his mother's rule just as if he were a boy. The mother hates, of course, the young wife, Katerína, and tyrannises over her as much as she can; and the husband has no energy to step in and defend her. He is only too happy when he can slip away from the house. He might have shown more love to his wife if they had been living apart from his mother; but being in this house, always under its tyrannical rule, he looks upon his wife as part of it all. Katerína, on the contrary, is a poetical being. She was brought up in a very good family, where she enjoyed full liberty, before she married the young Kabanó, and now she feels very unhappy under the yoke of her terrible mother-in-law, having nobody but a weakling husband to occasionally say a word in her favour. There is also a little detail — she has a mortal fear of thunderstorms. This is a feature which is quite characteristic in the small towns on the upper Vólga: I have myself known well educated ladies who, having once been frightened by one of these sudden storms — they are of a terric grandeur — retained a life-long fear of thunder.
 
 It so happens that Katerína's husband has to leave his town for a fortnight. Katerína, in the meantime, who has met occasionally on the promenade a young
 
-<sup>2</sup>Taken from the excellent translation of Mrs. C. Garnett (*The Storm*, London, Duckworth & Co., 1899).
+2Taken from the excellent translation of Mrs. C. Garnett (*The Storm*, London, Duckworth & Co., 1899).
 
 man, Borís, a nephew of Dikóy, and has received some attention from him, partly driven to it by her husband's sister — a very ighty girl, who is wont to steal from the back garden to meet her sweethearts — has during these few days one or two interviews with the young man, and falls in love with him. Borís is the rst man who, since her marriage, has treated her with respect; he himself suers from the opression of Dikóy, and she feels half-sympathy, half-love towards him. But Borís is also of weak, irresolute character, and as soon as his uncle Dikóy orders him to leave the town he obeys and has only the usual words of regret that "circumstances" so soon separate him from Katerína. The husband returns. and when he, his wife, and the old mother Kabanóva are caught by a terric thunderstorm on the promenade along the Vólga, Katerína, in mortal fear of sudden death, tells in the presence of the crowd which has taken refuge in a shelter on the promenade what has happened during her husband's absence. The consequences will best be learned from the following scene, which I quote from the same translation. It also takes place on the high bank of the Vólga. After having wandered for some time in the dusk on the solitary bank, Katerína at last perceives Borís and runs up to him.
 
@@ -1691,7 +1860,7 @@ These novels were full of promise, and Pomyalóvskiy was looked upon as the futu
 
 #### **Ryeshétniko**
 
-RYESHÉTNIKOFF (1841–1870) went still further in the same direction, and, with Pomyalóvskiy, he may be considered as the founder of the ultra-realistic school of Russian folk-novelists. He was born in the Uráls and was the son of a poor church cantor who became a postman. The family was in extreme poverty. An uncle took him to the town of Perm, and there he was beaten and thrashed all through his childhood. When he was ten years old they sent him to a miserable clerical school, where he was treated even worse than at his uncle's. He ran away, but was caught, and they ogged the poor child so awfully that he had to lie in a hospital for two months. As soon as he was taken back to school he ran away a second time, joining a band of tramping beggars. He suered terribly during his peregrinations with them, and was caught once more, and again ogged in the most barbarous way. His uncle also was a postman, and Ryeshétniko, having nothing to read, used to steal newspapers from the Post Oce, and after reading them, he destroyed them. This was, however, discovered, the boy having destroyed some important Imperial manifesto addressed to the local authorities. He was brought before a Court and condemned to be sent to a monastery for a few months (there were no reformatories then). The monks were kind to him, but they led a most dissolute life, drinking excessively, overeating, and stealing away from the monastery at night, and they taught the boy to drink. In spite of all this, after his release from the monastery Ryeshétniko passed brilliantly the examinations in the district school, and was received as a clerk in the Civil Service, at a salary of six shillings, and later on, half-a-guinea per month. This meant, of course, the most wretched poverty, because the young man took no bribes, as all clerks in those times were accustomed to do. The arrival of a "revisor" at Perm saved him. This gentleman employed Ryeshétniko as a copyist, and, having come to like him, gave him the means to move to St. Petersburg, where he found him a position as clerk in the Ministry of Finance at almost double his former salary. Ryeshétniko had begun to write already, at Perm, and he continued to do so at St. Petersburg, sending contributions to some of the lesser newspapers, until he made the acquaintance of Nekráso. Then he published his novel, *Podl&iacutel;povtsy,* in *The Contemporary* (*Ceux de Podlipnaïa,* in a French translation).
+RYESHÉTNIKOFF (1841–1870) went still further in the same direction, and, with Pomyalóvskiy, he may be considered as the founder of the ultra-realistic school of Russian folk-novelists. He was born in the Uráls and was the son of a poor church cantor who became a postman. The family was in extreme poverty. An uncle took him to the town of Perm, and there he was beaten and thrashed all through his childhood. When he was ten years old they sent him to a miserable clerical school, where he was treated even worse than at his uncle's. He ran away, but was caught, and they ogged the poor child so awfully that he had to lie in a hospital for two months. As soon as he was taken back to school he ran away a second time, joining a band of tramping beggars. He suered terribly during his peregrinations with them, and was caught once more, and again ogged in the most barbarous way. His uncle also was a postman, and Ryeshétniko, having nothing to read, used to steal newspapers from the Post Oce, and after reading them, he destroyed them. This was, however, discovered, the boy having destroyed some important Imperial manifesto addressed to the local authorities. He was brought before a Court and condemned to be sent to a monastery for a few months (there were no reformatories then). The monks were kind to him, but they led a most dissolute life, drinking excessively, overeating, and stealing away from the monastery at night, and they taught the boy to drink. In spite of all this, after his release from the monastery Ryeshétniko passed brilliantly the examinations in the district school, and was received as a clerk in the Civil Service, at a salary of six shillings, and later on, half-a-guinea per month. This meant, of course, the most wretched poverty, because the young man took no bribes, as all clerks in those times were accustomed to do. The arrival of a "revisor" at Perm saved him. This gentleman employed Ryeshétniko as a copyist, and, having come to like him, gave him the means to move to St. Petersburg, where he found him a position as clerk in the Ministry of Finance at almost double his former salary. Ryeshétniko had begun to write already, at Perm, and he continued to do so at St. Petersburg, sending contributions to some of the lesser newspapers, until he made the acquaintance of Nekráso. Then he published his novel, *Podlíl;povtsy,* in *The Contemporary* (*Ceux de Podlipnaïa,* in a French translation).
 
 Ryeshétniko's position in literature is quite unique. "The sound truth of Ryeshétniko" — in these words Turguéne characterised his writings. It is truth, indeed, nothing but truth, without any attempt at decoration or lyric eects — a sort of diary in which the men with whom the author lived in the mining works of the Urals, in his Permian village, or in the slums of St. Petersburg, are described. "Podlípovtsy" means the inhabitants of a small village Podlípnaya, lost somewhere in the mountains of the Uráls. They are Permians, not yet quite Russied, and are still in the stage which so many populations of the Russian Empire are living through nowadays — namely the early agricultural. Few of them have for more than two months a year pure rye-bread to eat: the remaining ten months they are compelled to add the bark of trees to their our in order to have "bread" at all. They have not the slightest idea of what Russia is, or of the State, and very seldom do they see a priest. They hardly know how to cultivate the land. They do not know how to make a stove, and periodical starvation during the months from January to July has taken the very soul and heart out of them. They stand on a lower level than real savages.
 
@@ -1951,7 +2120,7 @@ This is what Russian literary critics have been doing for the last fty years; an
 
 It is extremely interesting to note that art-criticism in Russia took from the very outset (in the twenties) and quite independently of all imitation of Western Europe, the character of *philosophical æsthetics*. The revolt against pseudo-classicism had only just begun under the banner of romanticism, and the appearance of Púshkin's *Ruslán and Ludmíla* had just given the rst practical argument in favour of the romantic rebels, when the poet VENEVÍTINOFF (see Ch. II.), soon followed by NADÉZHDIN (1804–1856) and POLEVÓY (1796– 1846) — the real founder of serious journalism in Russia — laid the foundations of new art-criticism. Literary criticism, they maintained, must analyse, not only the æsthetic value of a work of art, but, above all, its leading idea — its "philosophical," — its social meaning.
 
-Venevítino, whose own poetry bore such a high intellectual stamp, boldly attacked the absence of higher ideas among the Russian romantics, and wrote that "the true poets of all nations have always been philosophers who reached the highest summits of culture." A poet who is satised with his own self, and does not pursue aims of general improvement, is of no use to his contemporaries.<sup>1</sup>
+Venevítino, whose own poetry bore such a high intellectual stamp, boldly attacked the absence of higher ideas among the Russian romantics, and wrote that "the true poets of all nations have always been philosophers who reached the highest summits of culture." A poet who is satised with his own self, and does not pursue aims of general improvement, is of no use to his contemporaries.1
 
 Nadézhdin followed on the same lines, and boldly attacked Púshkin for his absence of higher inspiration and for producing a poetry of which the only motives were "wine and women." He reproached our romantics with an absence of ethnographical and historic truth in their work, and the meanness of the subjects they chose in their poetry. As to Polevóy, he was so great an admirer of the poetry of Byron and Victor Hugo that he could not pardon Púshkin and Gógol the absence of higher ideas in their work. Having nothing in it that might raise men to higher ideas and actions, their work could stand no comparison whatever with the immortal creations of Shakespeare, Hugo, and Goethe. This absence of higher leading ideas in the work of Púshkin and Gógol so much impressed the last two critics that they did not even notice the immense service which these founders of Russian literature were rendering to us by introducing that sound naturalism and realism which have become since such a distinctive feature of Russian art, and the need of which both Nadézhdin and Polevóy were the rst to recognise. It was Byelínskiy who had to take up their work, to complete it, and to show what was the technique of really good art, and what its contents ought to be.
 
@@ -1961,7 +2130,7 @@ To say that BYELÍNSKIY (1810–1848) was a very gifted art-critic would thus me
 
 He was the son of an obscure army-surgeon, and spent his childhood in a remote province of Russia. Well prepared by his father, who knew the value of knowledge, he entered the University of St. Petersburg, but was excluded
 
-<sup>1</sup>I borrow these remarks about the predecessors of Byelínskiy from an article on Literary Criticism in Russia, by Professor Iváno, in the *Russian Encyclopædic Dictionary*, Vol. 32, 771.
+1I borrow these remarks about the predecessors of Byelínskiy from an article on Literary Criticism in Russia, by Professor Iváno, in the *Russian Encyclopædic Dictionary*, Vol. 32, 771.
 
 from it in 1832 for a tragedy which he wrote, in the style of Schiller's *Robbers*, and which was an energetic protest against serfdom. Already he had joined the circle of Hérzen, Ogaryó, Stankévitch, etc., and in 1834 he began his literary career by a critical review of literature which at once attracted notice. From that time till his death he wrote critical articles and bibliographical notes for some of the leading reviews, and he worked so extremely hard that at the age of thirty-eight he died from consumption. He did not die too soon. The revolution had broken out in Western Europe, and when Byelínskiy was on his deathbed an agent of the State-police would call from time to time to ascertain whether he was still alive. The order was given to arrest him, if he should recover, and his fate certainly would have been the fortress and at the best — exile.
 
@@ -2009,11 +2178,11 @@ These few remarks will explain why Tolstóy's *What is Art?* produced much less 
 
 "There are moments — great historic moments" — Homyakó said — "when self-denunciation (he meant on the part of Society) has especial, incontestable rights. . . The 'accidental' and the 'temporary' in the historical development of a nation's life acquire then the meaning of the universal and the broadly human, because all generations and all nations can understand, and do understand, the painful moans and the painful confessions of a given generation or a given nation.". . . "An artist" — he continued — "is not a theory; he is not a mere domain of thought and cerebral activity. He is a man always a man of his own time — usually one of its best representatives. . . Owing to the very impressionability of his organism, without which he would not have been an artist, he, more than the others, receives both the painful and the pleasant impressions of the Society in the midst of which he was born."
 
-Showing that Tolstóy had already taken just this stand point in some of his works; for example, in describing the death of the horse-driver in *Three Deaths*, Homyakó concluded by saying: "Yes, you have been, and you will be one of those who denounce the evils of Society. Continue to follow the excellent way you have chosen."<sup>2</sup>
+Showing that Tolstóy had already taken just this stand point in some of his works; for example, in describing the death of the horse-driver in *Three Deaths*, Homyakó concluded by saying: "Yes, you have been, and you will be one of those who denounce the evils of Society. Continue to follow the excellent way you have chosen."2
 
 At any rate, in *What is Art?* Tolstóy entirely breaks with the theories of "Art for Art's sake," and makes an open stand by the side of those whose ideas have been expounded in the preceding pages. He only denes still more correctly the domain of Art when he says that the artist always aims at communicating to others the same feelings which he experiences at the sight of nature or of human life. Not to *convince*, as Tchernyshévskiy said, but to *infect* the others with his own *feelings*, which is certainly more correct. However, "feeling" and "thought" are inseparable. A feeling seeks words to express itself, and a feeling expressed in words is a thought. And when Tolstóy says that the aim of artistic activity is to transmit "the highest feelings which humanity has attained" and that Art must be "religious" — that is, wake up the highest and the best aspirations — he only expresses in other words what all our best critics since Venevítino, Nadézhdin and Polevóy have said. In fact, when he complains that nobody
 
-<sup>2</sup>The speech of Homyakó is reproduced in Skabitchévskiy's *History* (1. c.). I was very anxious to get Tolstóy's speech, because I think that the ideas he expressed about "the permanent in Art, the universal" hardly did exclude the denunciation of the ills from which a society suers at a given moment. Perhaps he meant what Nekráso also meant when he described the literature to which Schédrin's *Provincial Sketches* had given origin as "a agellation of the petty thieves for the pleasure of the big ones." Unfortunately, this speech was not printed, and the manuscript of it could not be found.
+2The speech of Homyakó is reproduced in Skabitchévskiy's *History* (1. c.). I was very anxious to get Tolstóy's speech, because I think that the ideas he expressed about "the permanent in Art, the universal" hardly did exclude the denunciation of the ills from which a society suers at a given moment. Perhaps he meant what Nekráso also meant when he described the literature to which Schédrin's *Provincial Sketches* had given origin as "a agellation of the petty thieves for the pleasure of the big ones." Unfortunately, this speech was not printed, and the manuscript of it could not be found.
 
 teaches men *how to live*, he overlooks that that is precisely what good Art is doing, and what our art-critics have always done. Byelínskiy, Dobrolúbo and Písare, and their continuators have done nothing but *to teach men how to live*. They studied and analysed life, as it had been understood by the greatest artists of each century, and they drew from their works conclusions as to "how to live."
 

@@ -1,3 +1,8 @@
+---
+title: "## **State of the Constituency 2024**"
+category: "contemporary-analysis"
+---
+
 ## **State of the Constituency 2024**
 
 **Date:** 2024-12-31 **Source:** https://www.threadings.io/state-of-the-constituency-2024/In which we discuss what happens in the next stage of expansion. Welcome to Threadings, the newsletter and podcast where I contemplate world making and I look at the things that are keeping and collecting my life at the seams. My name is ismatu. State of the constituency 2024 0:00 / 2256.7444897959185 1×
@@ -11,12 +16,19 @@ I have a few processes I employ on Threadings which allow me to examine the syst
 | . You could be doing more. You could be |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | expanding |
-| in ways that are brilliant and beautiful. And really, the only reason that you're not is because<br>you haven't sat down with a pen and ink and done the thoughtwork about what this next stage<br>of life looks like." That being said– welcome to our first ever State of the Constituency.<br>Henceforth, we will be doing these every year, with places to find quarterly updates and<br>assessments. |
+| in ways that are brilliant and beautiful. And really, the only reason that you're not is because
+you haven't sat down with a pen and ink and done the thoughtwork about what this next stage
+of life looks like." That being said– welcome to our first ever State of the Constituency.
+Henceforth, we will be doing these every year, with places to find quarterly updates and
+assessments. |
 | I am a person who is collectively made. I don't believe in the term |
 | self-made. |
 | There's no such thing as a |
 | self-made |
-| human being in any regard. I am stitched and kept and collected– not just by myself or my<br>loved ones, but by also you all who continue to witness me and help keep me and help collect<br>me and help remind me of what it is that I'm capable of. I owe a lot to you, including like…<br>some |
+| human being in any regard. I am stitched and kept and collected– not just by myself or my
+loved ones, but by also you all who continue to witness me and help keep me and help collect
+me and help remind me of what it is that I'm capable of. I owe a lot to you, including like…
+some |
 | basic |
 | explanations about who I am and what I do in public. |
 ## | State of the Constituency Q4 2024 |
@@ -28,8 +40,12 @@ I have a few processes I employ on Threadings which allow me to examine the syst
 | you all |
 | affect |
 | me |
-| . You are also invited to explore what you want from your participation in this ether<br>community. I'm also sitting here with blueberry chamomile lemon tea. God, that's so good.<br>With a little honey. |
-| Phenomenal. Please remind me to take my tea. I believe in the power of thought. What<br>happens is I sit down to record these and I get to talking and then my tea gets cold every now<br>and again, every like five or 10 minutes or so. Someone just say in your mind, |
+| . You are also invited to explore what you want from your participation in this ether
+community. I'm also sitting here with blueberry chamomile lemon tea. God, that's so good.
+With a little honey. |
+| Phenomenal. Please remind me to take my tea. I believe in the power of thought. What
+happens is I sit down to record these and I get to talking and then my tea gets cold every now
+and again, every like five or 10 minutes or so. Someone just say in your mind, |
 | ismatu, drink your tea. Take a sip of your tea. Slow down. |
 | I would appreciate that greatly. We're starting with me, which this is a short biography. |
 | Agenda: |
@@ -41,16 +57,22 @@ The purpose of the State of the Constituency is to reorient ourselves to who I a
 | Necessary Expansion (how you all affect me) |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Ismatu Gwendolyn, the pen behind the essays |
-| I don't like to define myself by who I am in relationship to other people. I don't like to define<br>myself by what I do. Usually biographies are something like: |
-| my name is Ismatu and I do this, that, and the third. I studied this thing. I'm someone's<br>daughter, wife, mother, et cetera, et cetera, et cetera. |
-| And all of those are secondhand descriptors. Not that they're not important to me, but I think<br>there's a difference between what you |
+| I don't like to define myself by who I am in relationship to other people. I don't like to define
+myself by what I do. Usually biographies are something like: |
+| my name is Ismatu and I do this, that, and the third. I studied this thing. I'm someone's
+daughter, wife, mother, et cetera, et cetera, et cetera. |
+| And all of those are secondhand descriptors. Not that they're not important to me, but I think
+there's a difference between what you |
 | do |
 | and who you |
 | are |
 | . Ismatu Gwendolyn is a being who really enjoys being alive. That's it, that's all. |
-| I am a being who really, really, really enjoys being alive. I feel like a small, brand new thing,<br>like those true morsels of childhood. I remember how |
+| I am a being who really, really, really enjoys being alive. I feel like a small, brand new thing,
+like those true morsels of childhood. I remember how |
 | long |
-| those days felt. I remember how excited I was to get to school every day. I remember how<br>amazing it was, like being in a physical corporal body, feeling the wind and looking at the sun<br>and learning about clouds. Like I was like, |
+| those days felt. I remember how excited I was to get to school every day. I remember how
+amazing it was, like being in a physical corporal body, feeling the wind and looking at the sun
+and learning about clouds. Like I was like, |
 
 | life is amazing and I am so happy to be here. |
 |----------------------------------------------------------------------------------------|
@@ -75,18 +97,23 @@ And God will always make me a liar. Lmao. I've spoken to the logistical side of 
 
 Some things are just... bigger than me. This same timeline: around six weeks of Tik Tok noteriety, around the point in time where I had to decide what kind of public figure I wanted to be, I was already over it. I was like,
 
-| being an influencer or being on stage or whatever. Now I've proven to myself that I can do it<br>and I'm good now. The internet is weird, bad, and scary and I don't want to continue. |
+| being an influencer or being on stage or whatever. Now I've proven to myself that I can do it
+and I'm good now. The internet is weird, bad, and scary and I don't want to continue. |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | I had just decided to read |
 | The Autobiography of Malcom X |
 | and had the |
 | audacity |
-| to be angry about it in public. I was beginning to understand the cost of the life in front of me<br>and I was like… I would rather not. |
-| And I– whatever spiritual house that you take part in, whatever you call, you know, the<br>Almighty, Creator, Source, Universe, you know– the exponentially expansive energy that is at<br>the epicenter of being, fill in that word |
+| to be angry about it in public. I was beginning to understand the cost of the life in front of me
+and I was like… I would rather not. |
+| And I– whatever spiritual house that you take part in, whatever you call, you know, the
+Almighty, Creator, Source, Universe, you know– the exponentially expansive energy that is at
+the epicenter of being, fill in that word |
 | here |
 | . I was having a conversation with |
 | that entity |
-| and heard back, in essence, "That is not advisable. You stepping back now is not advisable<br>for the life that you say that you want." |
+| and heard back, in essence, "That is not advisable. You stepping back now is not advisable
+for the life that you say that you want." |
 
 okay, well, I've proven to myself that I can do it. I have always thought that I would be good at
 
@@ -122,7 +149,8 @@ I believe I will see the goodness of God in this the world of the living.
 
 This is where my revolutionary optimism comes from. Not just because this is a prayer I pray daily, it is, but because as certain as I am in my faith, I am as certain in the works of my hands. I know I have not previously spoke openly about spirituality and religion. I do not, as of right now, belong to any of the major known religions, so I shy away from speaking openly. Despite my acknowledgements that revolution requires insanity, I am
 
-| God. Either way, I have to stop hiding. The upcoming book tells on me anyways. Speaking of<br>which: |
+| God. Either way, I have to stop hiding. The upcoming book tells on me anyways. Speaking of
+which: |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Productive Consumption |
 | I repeat to myself on the day to day: |
@@ -130,7 +158,9 @@ This is where my revolutionary optimism comes from. Not just because this is a p
 | Consumption is |
 | never |
 | radical. |
-| Radical here defined as: a complete departure from the way that we live right now in the<br>systems that we have, in the values that we have, in the priorities that we have, in the way<br>that we act upon those values. Radicalism is now known for |
+| Radical here defined as: a complete departure from the way that we live right now in the
+systems that we have, in the values that we have, in the priorities that we have, in the way
+that we act upon those values. Radicalism is now known for |
 | leftism |
 | or known for |
 | political work |
@@ -143,13 +173,19 @@ hyperaware of how… crazy I might sound if I tell you what I hear when I hear t
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | deviate |
 | |
-| If you have a radical electron, it's a hip skipping, jumping away from all of the normal orbits<br>that other electrons are going through. It means to do a complete departure of. We have a<br>world order that is |
+| If you have a radical electron, it's a hip skipping, jumping away from all of the normal orbits
+that other electrons are going through. It means to do a complete departure of. We have a
+world order that is |
 | based |
 | upon |
-| consumption; therefore, consumption is never radical. Consumption never deviates from the<br>systems that we have, right? All of capitalism is designed to promote constant, mindless<br>consumption. |
+| consumption; therefore, consumption is never radical. Consumption never deviates from the
+systems that we have, right? All of capitalism is designed to promote constant, mindless
+consumption. |
 | Consumption does not |
 | need |
-| to be extractive, though. I believe that there are stepping stones that we can use to produce<br>goods for ourselves while decreasing our dependency on the nation state as it stands. Word<br>to Marcus Garvey and |
+| to be extractive, though. I believe that there are stepping stones that we can use to produce
+goods for ourselves while decreasing our dependency on the nation state as it stands. Word
+to Marcus Garvey and |
 | A Third University Is Possible. |
 | Consumption is never radical, but production can be. |
 
@@ -161,16 +197,21 @@ When I originally conceived of writing in public, my only goal was to get out of
 
 ## Necessary Expansion
 
-| I have decided to make this a podcast episode where I include you all in these reflections<br>because I realized that I could be going |
+| I have decided to make this a podcast episode where I include you all in these reflections
+because I realized that I could be going |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | so much harder. |
-| I understand that it's like very much "baby food leftism." I am okay with that. This idea of<br>productive consumption what I have studied in the past several years is that most of the<br>Western populace is not |
+| I understand that it's like very much "baby food leftism." I am okay with that. This idea of
+productive consumption what I have studied in the past several years is that most of the
+Western populace is not |
 | actually ready |
 | for a revolution. Beyond ready, most people do not |
 | want |
 | a |
 | radical |
-| departure from our current systems; they want better lived circumstances. Those of us<br>pushing for and moving towards radical change are still on the margins of society. Radicalism<br>is still quite… radical, aha. How do I get these ideas to be a little more palatable while also |
+| departure from our current systems; they want better lived circumstances. Those of us
+pushing for and moving towards radical change are still on the margins of society. Radicalism
+is still quite… radical, aha. How do I get these ideas to be a little more palatable while also |
 
 bending the arc of justice?
 
@@ -212,13 +253,19 @@ power. You all trusted me before I trusted myself. Okay. It has forced me to rec
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | under capitalism vs. what my ideas of |
 | safety |
-| are, which are living in sovereign communities that can produce their own, where we produce<br>world making collectively, right? It's not just on one individual or one lucky leader or one<br>disciplined authority where we spread sovereignty like seeds. And I… The reason that I<br>understand that as |
+| are, which are living in sovereign communities that can produce their own, where we produce
+world making collectively, right? It's not just on one individual or one lucky leader or one
+disciplined authority where we spread sovereignty like seeds. And I… The reason that I
+understand that as |
 | possible |
 | , not just in an abstract sense, but possible within |
 | my lifetime |
 | , possible |
 | with my hands |
-| , is because you all have raised my standards and my bar for what I expect from myself. It is<br>spiritually and revolutionarily immature to say, "I will just make sure that I'm never powerful,"<br>because it means that you don't ever have to contend with what it is like to be responsible for<br>that power. |
+| , is because you all have raised my standards and my bar for what I expect from myself. It is
+spiritually and revolutionarily immature to say, "I will just make sure that I'm never powerful,"
+because it means that you don't ever have to contend with what it is like to be responsible for
+that power. |
 
 I don't actually think that power corrupts. I think that power clarifies. And the process of working for free, handling donations, deciding how much to pay myself and my family and deciding how much goes outwards has really clarified how afraid
 
@@ -250,17 +297,22 @@ So, usually someone in my circumstance– a public figure, especially a writer o
 
 do have to charge for (like printed materials)– I'm not going to keep any of that money.
 
-| I have never seen what communalized intellectual property could do and what that could be<br>like. Usually, by the time an artist |
+| I have never seen what communalized intellectual property could do and what that could be
+like. Usually, by the time an artist |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | can |
-| donate a hundred percent of the proceeds of one of their pieces of art, they're already so rich<br>that they don't really |
+| donate a hundred percent of the proceeds of one of their pieces of art, they're already so rich
+that they don't really |
 | need |
-| the money. They have come into a place of economic security such that they will be in the top,<br>you know, 10 to 5 % of worldwide wealth distribution for the rest of their life. They don't need<br>the money, and that's why they give it away– that's the charity model. |
+| the money. They have come into a place of economic security such that they will be in the top,
+you know, 10 to 5 % of worldwide wealth distribution for the rest of their life. They don't need
+the money, and that's why they give it away– that's the charity model. |
 | I am not that. I am very much a working class person. |
 | I am not, you know, sitting on a secret pile of millions such that I can make this decision. This |
 | absolutely |
 | does |
-| leave me precarious. I do not care. I don't believe that knowledge is proprietary. I don't think<br>that I can own it. And I don't think that I can sell it. |
+| leave me precarious. I do not care. I don't believe that knowledge is proprietary. I don't think
+that I can own it. And I don't think that I can sell it. |
 
 As a product of productive consumption, I also fundamentally, in my bones, know this book will sell excellently. The sales from this book will surpass my wildest dreams. I know that if I kept all that money from myself, I would become a millionaire. I also… do not think that personal acquisition of digital, fiat money is the point of the life I wish for. I am much more interested in what effective
 
@@ -269,22 +321,39 @@ As a product of productive consumption, I also fundamentally, in my bones, know 
 | would look like. |
 | The subject of the next essay is literally entitled |
 | Class Traitorship, |
-| so we will flesh these ideas out more, I promise. But in short: I live primarily in Sierra Leone,<br>making US Dollars. For that reason alone: |
+| so we will flesh these ideas out more, I promise. But in short: I live primarily in Sierra Leone,
+making US Dollars. For that reason alone: |
 | do you realize how rich I am in Sierra Leone? |
-| I betray the ideals of my class (in Sierra Leone, I am in the petit bourgeoise). I am supposed<br>to aspire to build myself stone and marble mansions with privatized services and a staff to run<br>the homestead. I am supposed to aspire to joining in the elite class of rich Africans, who run<br>through their home countries in the same manner neocolonialists do. Instead, I am farming<br>rice and building drug rehabilitation clinics. |
+| I betray the ideals of my class (in Sierra Leone, I am in the petit bourgeoise). I am supposed
+to aspire to build myself stone and marble mansions with privatized services and a staff to run
+the homestead. I am supposed to aspire to joining in the elite class of rich Africans, who run
+through their home countries in the same manner neocolonialists do. Instead, I am farming
+rice and building drug rehabilitation clinics. |
 | Productive consumption: I want people to buy this book |
 | because |
 | they understand that it makes the world better. |
-| Not because they need to, not because the knowledge within the book is behind a paywall,<br>but because they |
+| Not because they need to, not because the knowledge within the book is behind a paywall,
+but because they |
 | want |
 
 | to, because they understand that the world will be materially better for the people |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | in the book |
-| , and also because the knowledge they receive from the text might aid in their own<br>radicalization. |
+| , and also because the knowledge they receive from the text might aid in their own
+radicalization. |
 | Existing in public has required expansion, right? You all affect me. |
-| You all have made me more radical than I was yesterday or the day before. I would have<br>never thought of life like this if you all did not push me to do so. My desire to deviate from<br>everything that I've ever known and what's comfortable, my desires for prestige, for money,<br>for excellence— oh, my loving responsibilities. You all raise the bar, even when you don't<br>mean to or when you don't ask me to. |
-| I realize how much power and authority that I have been given as a young person, is<br>unusually, right? I'm 26. I owe a lot of people a lot of things, because this is a communal effort.<br>Always has been, always will be. I'm humbled at the site of the world stage. I am motivated<br>consistently to increase my capacities. And I am responsible for the way that you interact with<br>me like I'm responsible for the way that I shape you. I'm responsible for these words. I have<br>accountability over them. I own their impact. And so I want that impact to be kind, to be<br>generative, and to embolden people, to make them braver in moving |
+| You all have made me more radical than I was yesterday or the day before. I would have
+never thought of life like this if you all did not push me to do so. My desire to deviate from
+everything that I've ever known and what's comfortable, my desires for prestige, for money,
+for excellence— oh, my loving responsibilities. You all raise the bar, even when you don't
+mean to or when you don't ask me to. |
+| I realize how much power and authority that I have been given as a young person, is
+unusually, right? I'm 26. I owe a lot of people a lot of things, because this is a communal effort.
+Always has been, always will be. I'm humbled at the site of the world stage. I am motivated
+consistently to increase my capacities. And I am responsible for the way that you interact with
+me like I'm responsible for the way that I shape you. I'm responsible for these words. I have
+accountability over them. I own their impact. And so I want that impact to be kind, to be
+generative, and to embolden people, to make them braver in moving |
 | away |
 | from comfort, |
 | towards |
@@ -320,8 +389,11 @@ conclusions
 
 | This book is gonna be everywhere, okay? You are going to see me everywhere. |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| (2) I'm really excited for this process of expansion. This is just the announcement, right? This<br>is just the start. I'm going to continue and continuing in public raises the bar in ways that I<br>don't think I would originally imagine it for myself if I was the only person that saw me. |
-| (3) This life is so much more beautiful than I could have contended with or anticipated. Thank<br>you God. And thank you all for being on this journey with me. |
+| (2) I'm really excited for this process of expansion. This is just the announcement, right? This
+is just the start. I'm going to continue and continuing in public raises the bar in ways that I
+don't think I would originally imagine it for myself if I was the only person that saw me. |
+| (3) This life is so much more beautiful than I could have contended with or anticipated. Thank
+you God. And thank you all for being on this journey with me. |
 | May the work of your day pass through your hands with ease. |
 | or, simpler said: |
 | peace. |

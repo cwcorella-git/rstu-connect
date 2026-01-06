@@ -1,3 +1,8 @@
+---
+title: "## **Black Awakening, Class Rebellion**"
+category: "labor"
+---
+
 ## **Black Awakening, Class Rebellion**
 
 ## **Date:** Tue, 12/27/2016 - 17:52

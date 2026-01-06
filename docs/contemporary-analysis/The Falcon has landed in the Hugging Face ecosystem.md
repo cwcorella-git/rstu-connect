@@ -1,3 +1,8 @@
+---
+title: "The Falcon has landed in the Hugging Face ecosystem"
+category: "contemporary-analysis"
+---
+
 #### [huggingface.co](https://huggingface.co/blog/falcon)
 
 # The Falcon has landed in the Hugging Face ecosystem
@@ -25,11 +30,11 @@ In this blog, we will be taking a deep dive into the Falcon models: first discus
 
 The Falcon family is composed of two base models: [Falcon-40B](https://huggingface.co/tiiuae/falcon-40b) and its little brother [Falcon-7B.](https://huggingface.co/tiiuae/falcon-7b) The 40B parameter model currently tops the charts of the [Open LLM Leaderboard](https://huggingface.co/spaces/Hugging FaceH4/open_llm_leaderboard), while the 7B model is the best in its weight class.
 
-Falcon-40B requires ~90GB of GPU memory — that's a lot, but still less than LLaMA-65B, which Falcon outperforms. On the other hand, Falcon-7B only needs ~15GB, making inference and finetuning accessible even on consumer hardware. (Later in this blog, we will discuss how we can leverage quantization to make Falcon-40B accessible even on cheaper GPUs!)
+Falcon-40B requires ~90GB of GPU memory -- that's a lot, but still less than LLaMA-65B, which Falcon outperforms. On the other hand, Falcon-7B only needs ~15GB, making inference and finetuning accessible even on consumer hardware. (Later in this blog, we will discuss how we can leverage quantization to make Falcon-40B accessible even on cheaper GPUs!)
 
-TII has also made available instruct versions of the models, [Falcon-](https://huggingface.co/tiiuae/falcon-7b-instruct)[7B-Instruct](https://huggingface.co/tiiuae/falcon-7b-instruct) and [Falcon-40B-Instruct.](https://huggingface.co/tiiuae/falcon-40b-instruct) These experimental variants have been finetuned on instructions and conversational data; they thus lend better to popular assistant-style tasks. If you are just looking to quickly play with the models they are your best shot. It's also possible to build your own custom instruct version, based on the plethora of datasets built by the community—keep reading for a step-by-step tutorial!
+TII has also made available instruct versions of the models, [Falcon-](https://huggingface.co/tiiuae/falcon-7b-instruct)[7B-Instruct](https://huggingface.co/tiiuae/falcon-7b-instruct) and [Falcon-40B-Instruct.](https://huggingface.co/tiiuae/falcon-40b-instruct) These experimental variants have been finetuned on instructions and conversational data; they thus lend better to popular assistant-style tasks. If you are just looking to quickly play with the models they are your best shot. It's also possible to build your own custom instruct version, based on the plethora of datasets built by the community--keep reading for a step-by-step tutorial!
 
-Falcon-7B and Falcon-40B have been trained on 1.5 trillion and 1 trillion tokens respectively, in line with modern models optimising for inference. The key ingredient for the high quality of the Falcon models is their training data, predominantly based (>80%) on Refi[ned Web](https://arxiv.org/abs/2306.01116) — a novel massive web dataset based on Common Crawl. Instead of gathering scattered curated sources, TII has focused on scaling and improving the quality of web data, leveraging large-scale deduplication and strict filtering to match the quality of other corpora. The Falcon models still include some curated sources in their training (such as conversational data from Reddit), but significantly less so than has been common for stateof-the-art LLMs like GPT-3 or PaLM. The best part? TII has publicly released a 600 billion tokens extract of Refi[ned Web](https://huggingface.co/datasets/tiiuae/falcon-refinedweb) for the
+Falcon-7B and Falcon-40B have been trained on 1.5 trillion and 1 trillion tokens respectively, in line with modern models optimising for inference. The key ingredient for the high quality of the Falcon models is their training data, predominantly based (>80%) on Refi[ned Web](https://arxiv.org/abs/2306.01116) -- a novel massive web dataset based on Common Crawl. Instead of gathering scattered curated sources, TII has focused on scaling and improving the quality of web data, leveraging large-scale deduplication and strict filtering to match the quality of other corpora. The Falcon models still include some curated sources in their training (such as conversational data from Reddit), but significantly less so than has been common for stateof-the-art LLMs like GPT-3 or PaLM. The best part? TII has publicly released a 600 billion tokens extract of Refi[ned Web](https://huggingface.co/datasets/tiiuae/falcon-refinedweb) for the
 
 Another interesting feature of the Falcon models is their use of community to use in their own LLMs!
 
@@ -39,21 +44,48 @@ Another interesting feature of the Falcon models is their use of community to us
 
 This trick doesn't significantly influence pretraining, but it greatly [improves the scalability of inference:](https://arxiv.org/abs/2211.05102) indeed, the K,V-cache kept during autoregressive decoding is now significantly smaller (10-100 times depending on the specific of the architecture), reducing memory costs and enabling novel optimizations such as statefulness.
 
-| Model | License | Commercial<br>use? | Pretraining<br>length<br>[tokens] | Pretraining<br>compute<br>[PF-days] | Leaderboard<br>score | K,V<br>cache<br>size for<br>a 2.048<br>context |
+| Model | License | Commercial
+use? | Pretraining
+length
+[tokens] | Pretraining
+compute
+[PF-days] | Leaderboard
+score | K,V
+cache
+size for
+a 2.048
+context |
 |----------------------|------------------|--------------------|-----------------------------------|-------------------------------------|----------------------|------------------------------------------------|
-| StableLM<br>Alpha-7B | CC-BY<br>SA-4.0 | �� | 1,500B | 700 | 38.3* | 800MB |
-| LLaMA-7B | LLaMA<br>license | � | 1,000B | 500 | 47.6 | 1,100MB |
-| MPT-7B | Apache | �� | 1,000B | 500 | 48.6 | 1,100MB |
+| StableLM
+Alpha-7B | CC-BY
+SA-4.0 |  | 1,500B | 700 | 38.3* | 800MB |
+| LLaMA-7B | LLaMA
+license |  | 1,000B | 500 | 47.6 | 1,100MB |
+| MPT-7B | Apache |  | 1,000B | 500 | 48.6 | 1,100MB |
 
-| Model | License | Commercial<br>use? | Pretraining<br>length<br>[tokens] | Pretraining<br>compute<br>[PF-days] | Leaderboard<br>score | K,V<br>cache<br>size for<br>a 2.048<br>context |
+| Model | License | Commercial
+use? | Pretraining
+length
+[tokens] | Pretraining
+compute
+[PF-days] | Leaderboard
+score | K,V
+cache
+size for
+a 2.048
+context |
 |------------|------------------|--------------------|-----------------------------------|-------------------------------------|----------------------|------------------------------------------------|
 | | 2.0 | | | | | |
-| Falcon-7B | Apache<br>2.0 | �� | 1,500B | 700 | 48.8 | 20MB |
-| LLaMA-33B | LLaMA<br>license | � | 1,500B | 3200 | 56.9 | 3,300MB |
-| LLaMA-65B | LLaMA<br>license | � | 1,500B | 6300 | 58.3 | 5,400MB |
-| Falcon-40B | Apache<br>2.0 | �� | 1,000B | 2800 | 60.4 | 240MB |
+| Falcon-7B | Apache
+2.0 |  | 1,500B | 700 | 48.8 | 20MB |
+| LLaMA-33B | LLaMA
+license |  | 1,500B | 3200 | 56.9 | 3,300MB |
+| LLaMA-65B | LLaMA
+license |  | 1,500B | 6300 | 58.3 | 5,400MB |
+| Falcon-40B | Apache
+2.0 |  | 1,000B | 2800 | 60.4 | 240MB |
 
-<sup>\*</sup>score from the base version not available, we report the tuned version instead.
+\*score from the base version not available, we report the tuned version instead.
 
 ## Demo
 
@@ -180,7 +212,7 @@ So how good are the Falcon models? An in-depth evaluation from the Falcon author
 - [MMLU:](https://github.com/hendrycks/test) Multiple-choice questions in 57 subjects (professional & academic).
 - [TruthfulQA:](https://arxiv.org/abs/2109.07958) Tests the model's ability to separate fact from an adversarially-selected set of incorrect statements.
 
-The results show that the 40B base and instruct models are very strong, and currently rank 1st and 2nd on the [LLM leaderboard](https://huggingface.co/spaces/Hugging FaceH4/open_llm_leaderboard) ����!
+The results show that the 40B base and instruct models are very strong, and currently rank 1st and 2nd on the [LLM leaderboard](https://huggingface.co/spaces/Hugging FaceH4/open_llm_leaderboard) !
 
 | Mode1 | Revision A | Average 🔝 🔺 | ARC (25-shot) 🔝 🔺 | Hella Swag (10-shot) 🔝 🔺 | MMLU (5-shot) 🔝 🔺 |
 |--------------------------------|------------|-------------|-------------------|-------------------------|-------------------|
@@ -200,7 +232,7 @@ For the 7B models, we see that the base model is better than llama-7b and edges 
 
 Although the open LLM leaderboard doesn't measure chat capabilities (where human evaluation is the gold standard), these preliminary results for the Falcon models are very encouraging!
 
-Let's now take a look at how you can fine-tune your very own Falcon models - perhaps one of yours will end up on top of the leaderboard ����.
+Let's now take a look at how you can fine-tune your very own Falcon models - perhaps one of yours will end up on top of the leaderboard .
 
 # Fine-tuning with PEFT
 

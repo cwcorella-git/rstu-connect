@@ -1,16 +1,8 @@
 ---
-title: 'Civil Self-Help Law Center Provides Legal Information, Resources for Tenants'
-author: RSTU Community Resources Team
-date: '2025-08-10'
-category: Resources
-tags:
-  - legal aid
-  - self-help
-  - tenant rights
-excerpt: >-
-  Learn about the Civil Self-Help Law Center and how it can help tenants
-  navigate legal issues and understand their rights.
-featured: false
+title: "Civil Self-Help Law Center Provides Legal Information, Resources for Tenants"
+author: "RSTU Community Resources Team"
+date: "2025-08-10"
+category: "organizing"
 ---
 
 # Civil Self-Help Law Center Provides Legal Information, Resources for Tenants

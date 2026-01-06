@@ -1,3 +1,8 @@
+---
+title: "## **The Seattle general strike, 1919 - Jeremy Brecher**"
+category: "contemporary-analysis"
+---
+
 ## **The Seattle general strike, 1919 - Jeremy Brecher**
 
 ## **Date:** Unknown

@@ -1,3 +1,8 @@
+---
+title: "## **Fuck empires, support local resistances.**"
+category: "contemporary-analysis"
+---
+
 ## **Fuck empires, support local resistances.**
 
 ## **Date:** Unknown

@@ -1,3 +1,8 @@
+---
+title: "## **Interview: IWW Shop Workers - Black Flag**"
+category: "contemporary-analysis"
+---
+
 ## **Interview: IWW Shop Workers - Black Flag**
 
 ## **Date:** Unknown

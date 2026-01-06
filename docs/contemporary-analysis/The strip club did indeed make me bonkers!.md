@@ -1,3 +1,8 @@
+---
+title: "## **The strip club did indeed make me bonkers!**"
+category: "contemporary-analysis"
+---
+
 ## **The strip club did indeed make me bonkers!**
 
 | Date: 2025-08-13 |
@@ -11,7 +16,10 @@
 | 1× |
 | This essay originally appeared in |
 | Former Stripper, Part-Time Visionary, |
-| a fundraiser text circulated in order to build a library in the author's homeplace. The essay has<br>been narrated in full below, edited for an internet-based audience. The topic of money can be<br>disarming, alarming, and triggering for folks experiencing trauma because of capitalism, so<br>the author invites a deep breath or two before beginning this essay. |
+| a fundraiser text circulated in order to build a library in the author's homeplace. The essay has
+been narrated in full below, edited for an internet-based audience. The topic of money can be
+disarming, alarming, and triggering for folks experiencing trauma because of capitalism, so
+the author invites a deep breath or two before beginning this essay. |
 
 ## Every time I do something ostensibly…
 
@@ -49,9 +57,15 @@ The majority of us engaging this essay adhere, generally, to the rules of the ca
 | ( |
 | insane |
 | ). |
-| I know this to be true because I, too, trained as a clinical therapist from an elite colonial school<br>in the (so-called) United States. I remember how many small steps towards radicalization I<br>took while filling out my client notes after session. My clients were low-income, often using<br>Medicaid to cover the insurance bill on their sessions with me. Almost all of them had enough<br>basis for me to diagnose them with generalized anxiety and depressive episodes so that I<br>could bill their insurance. And |
+| I know this to be true because I, too, trained as a clinical therapist from an elite colonial school
+in the (so-called) United States. I remember how many small steps towards radicalization I
+took while filling out my client notes after session. My clients were low-income, often using
+Medicaid to cover the insurance bill on their sessions with me. Almost all of them had enough
+basis for me to diagnose them with generalized anxiety and depressive episodes so that I
+could bill their insurance. And |
 | all |
-| of them told me of moderate to extreme amounts of overwork that was actively ruining their<br>life, their mental health, their bodies, their relationship with their families, (the list goes on). |
+| of them told me of moderate to extreme amounts of overwork that was actively ruining their
+life, their mental health, their bodies, their relationship with their families, (the list goes on). |
 | In this world making, maladies really only become |
 | problems |
 | when they interfere with one's ability to perform their daily job. |
@@ -81,12 +95,17 @@ without a grip on reality
 | bit |
 | about this in an essay called |
 | Therapists Are Also the Police, |
-| where I spoke about how working in the strip club at the same time that I had a full client<br>caseload at a private practice revealed to me how much I cannot actually guarantee any of my<br>clients confidentiality. But today, I'm talking about money.) |
+| where I spoke about how working in the strip club at the same time that I had a full client
+caseload at a private practice revealed to me how much I cannot actually guarantee any of my
+clients confidentiality. But today, I'm talking about money.) |
 | I am writing this essay about money to say: yes! Your assessments of me prove correct: I do |
 | not |
-| have a strong grip on the reality of capitalism! Thank you for noticinggg ♥ I actually just got in<br>the habit of waking up each day and doing a little jig, such that I might shimmy and shake<br>capitalism's grip up off of me. |
+| have a strong grip on the reality of capitalism! Thank you for noticinggg ♥ I actually just got in
+the habit of waking up each day and doing a little jig, such that I might shimmy and shake
+capitalism's grip up off of me. |
 | This |
-| reality of capitalism is but one reality out of an infinite and ever-expanding range of what is<br>possible, and |
+| reality of capitalism is but one reality out of an infinite and ever-expanding range of what is
+possible, and |
 | this |
 | reality reaffirms itself as |
 
@@ -119,7 +138,9 @@ Muhammad Ali say?
 | literally |
 | dying for |
 | figurative |
-| ideas, instead of the literal and non-negotiable rules outside of our control as humans. Like,<br>for example, the number of trees. We made up currencies attached to nation-states. We made<br>up the |
+| ideas, instead of the literal and non-negotiable rules outside of our control as humans. Like,
+for example, the number of trees. We made up currencies attached to nation-states. We made
+up the |
 | idea |
 | of a nation state |
 | as a whole |
@@ -148,22 +169,35 @@ the process of realizing you are expendable bloodfuel slated for slavery or slau
 | do |
 | not |
 | die. |
-| Sometimes, in your liminal space between Human and mortal, you do not perish instantly.<br>You |
+| Sometimes, in your liminal space between Human and mortal, you do not perish instantly.
+You |
 | live |
-| to see all these different kinds of ways of life, all these in-between worlds you never would<br>have known existed unless you fell far, far out from the gilded, VIP-only section of Eden and<br>down into the lowcountry swamps. |
-| Now, the idea that we made up money (in terms of US Dollars) is not in itself a revolutionary<br>concept. We all know this intellectually at some point in time. I had |
+| to see all these different kinds of ways of life, all these in-between worlds you never would
+have known existed unless you fell far, far out from the gilded, VIP-only section of Eden and
+down into the lowcountry swamps. |
+| Now, the idea that we made up money (in terms of US Dollars) is not in itself a revolutionary
+concept. We all know this intellectually at some point in time. I had |
 | known |
-| this for a long while, but that didn't stop me from being physically compelled by the lack of it,<br>or the need for it, or physically salivating at the sight of stacks of crisp, fresh out the bank bills.<br>When I felt in my |
+| this for a long while, but that didn't stop me from being physically compelled by the lack of it,
+or the need for it, or physically salivating at the sight of stacks of crisp, fresh out the bank bills.
+When I felt in my |
 | body |
-| , in my literal flesh, that money is entirely made up, that's when I changed my actions. I<br>stopped feeling motivated by money when my nervous system was no longer engaged by it. |
+| , in my literal flesh, that money is entirely made up, that's when I changed my actions. I
+stopped feeling motivated by money when my nervous system was no longer engaged by it. |
 
-| bottom-feeder, drunk off champagne, upside down. My ankles, coated in a very gorgeous<br>shiny fake leather, had no trouble holding onto a pole spinning my body around. |
+| bottom-feeder, drunk off champagne, upside down. My ankles, coated in a very gorgeous
+shiny fake leather, had no trouble holding onto a pole spinning my body around. |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | God |
 | , I loved those shoes. |
-| Anyways. The ceiling was low at this club I'd ended up in that new year— it was 2022,<br>according to the Gregorian calendar— so you could literally see dollars floating down from the<br>rafters. Blue-banded notes fell from the sky in flurries; |
+| Anyways. The ceiling was low at this club I'd ended up in that new year— it was 2022,
+according to the Gregorian calendar— so you could literally see dollars floating down from the
+rafters. Blue-banded notes fell from the sky in flurries; |
 | everybody's |
-| rent glittered in the air and curled up, languid, like a snow globe. Like cigar smoke. Many<br>different iterations of Adams in suits had left their Eves at home to come patron their local<br>Liliths for a few hours. Before this particular moment, I didn't mind this prolonged in-between<br>place of Human and mortal. I mean, I had my |
+| rent glittered in the air and curled up, languid, like a snow globe. Like cigar smoke. Many
+different iterations of Adams in suits had left their Eves at home to come patron their local
+Liliths for a few hours. Before this particular moment, I didn't mind this prolonged in-between
+place of Human and mortal. I mean, I had my |
 | gripes |
 | . But I also had |
 | grips |
@@ -173,15 +207,24 @@ Copious amounts of cash made self-medication easy to maintain, which meant I cou
 
 I can tell you the exact moment it happened: I was looking up at Eden from my place as a
 
-| I am enraged. I am so angry all the time. Fuck grad school fuck the debt it's shackled me to<br>fuck this job that keeps me up all night. I haven't slept in 27 hours, literally. I am counting. I<br>feel like I would be good at leading riots) |
+| I am enraged. I am so angry all the time. Fuck grad school fuck the debt it's shackled me to
+fuck this job that keeps me up all night. I haven't slept in 27 hours, literally. I am counting. I
+feel like I would be good at leading riots) |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| — I take a deep breath. I would mentally make a note to check in with my therapist about<br>internalized violence and proportionally increase my comforts in the meantime. Am I angry or<br>do I just need a chai latte? With a double shot? And a blunt? Haha! |
+| — I take a deep breath. I would mentally make a note to check in with my therapist about
+internalized violence and proportionally increase my comforts in the meantime. Am I angry or
+do I just need a chai latte? With a double shot? And a blunt? Haha! |
 | …Ha. |
 | Drugs are fucking everywhere (and we're all addicted to comfort). |
 | musings on my previous and current addictions as we witness genocide live televised. |
 | Threadings. |
 | ismatu gwendolyn |
-| I felt no need (or want) to look my questionings in the eye until they invaded me while the<br>guard dogs of my mind were too sloshed to turn musings of dissent away at the gate. Picture:<br>me, tits out, downright glittering, flowing through a stage set with my Prettiest Girl in the World<br>™ costume fused to my skin on some random Tuesday night (or was it Thursday? whatever.<br>Time is amorphous), looking at a hollow place within myself where pleasure usually resides.<br>The club is up because |
+| I felt no need (or want) to look my questionings in the eye until they invaded me while the
+guard dogs of my mind were too sloshed to turn musings of dissent away at the gate. Picture:
+me, tits out, downright glittering, flowing through a stage set with my Prettiest Girl in the World
+™ costume fused to my skin on some random Tuesday night (or was it Thursday? whatever.
+Time is amorphous), looking at a hollow place within myself where pleasure usually resides.
+The club is up because |
 | I |
 | am on stage and |
 ## | I |
@@ -223,7 +266,8 @@ The money is fake. This world is made up. I just saw it. Like I saw the seams on
 | This |
 | world is not |
 | the whole world |
-| after all, it's just one layer of paint. Meaning: there is a world, a canvas under this painting that<br>still exists. |
+| after all, it's just one layer of paint. Meaning: there is a world, a canvas under this painting that
+still exists. |
 | The |
 | world is malleable. |
 | The |
@@ -231,18 +275,27 @@ The money is fake. This world is made up. I just saw it. Like I saw the seams on
 | How do you ask, that world |
 | the |
 | world… to make a new thing? |
-| PART TWO: EVERY WEIRD THING I BELIEVE ABOUT MONEY CAME FROM THE STRIP<br>CLUB |
+| PART TWO: EVERY WEIRD THING I BELIEVE ABOUT MONEY CAME FROM THE STRIP
+CLUB |
 
 am fake. Some weirdo genocidaires just made all this nonsense up and I am choosing to keep living in it. Maybe I am a separate entity from this world. Or, if I am not right now, maybe I
 
 | The Mechanics of Thought |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Thought comes first. |
-| I repeat that small phrase to myself all the time: thought comes first. The primary place of<br>production exists within the mind and what we see in our material world happens in response<br>to our ideations. Is this counter to dialectical materialism? I'm really not sure, because I know<br>that my thoughts are shaped by my material world. I would not have been praying for money<br>coming in large quantities from wealthy men in sensible athleisure suits if my material<br>circumstances as a stripper had not introduced me to the possibility of |
+| I repeat that small phrase to myself all the time: thought comes first. The primary place of
+production exists within the mind and what we see in our material world happens in response
+to our ideations. Is this counter to dialectical materialism? I'm really not sure, because I know
+that my thoughts are shaped by my material world. I would not have been praying for money
+coming in large quantities from wealthy men in sensible athleisure suits if my material
+circumstances as a stripper had not introduced me to the possibility of |
 | that |
-| particular possibility. I just think, from my entirely circumstantial and anecdotal experience,<br>that human animals are thought-based creatures. What becomes in our minds |
+| particular possibility. I just think, from my entirely circumstantial and anecdotal experience,
+that human animals are thought-based creatures. What becomes in our minds |
 | becomes |
-| our material realities—sometimes, rather quickly. The actions that we take reinforce the<br>beliefs we have in our mind, which then creates a positive feedback loop: it is and so you act<br>like it is and so it is and so you act like it is and onward. |
+| our material realities—sometimes, rather quickly. The actions that we take reinforce the
+beliefs we have in our mind, which then creates a positive feedback loop: it is and so you act
+like it is and so it is and so you act like it is and onward. |
 | If you wish to |
 | engage |
 | your actions, you must first |
@@ -268,15 +321,18 @@ Success (however you choose to define it) does not and cannot exist without a dr
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Well me, |
 | I thought to myself doing my eyeliner. |
-| It helps me. And I love help. I help other people with that help. I actually think totally think it's<br>reasonable to hand over \$800 |
+| It helps me. And I love help. I help other people with that help. I actually think totally think it's
+reasonable to hand over \$800 |
 | … |
 | a thousand dollars |
 | … |
-| for an hour of my time. Why would you not? I am so gorgeous. I am literally the prettiest girl<br>you'll ever meet, and I want nothing more than to gaze at you. Basically |
+| for an hour of my time. Why would you not? I am so gorgeous. I am literally the prettiest girl
+you'll ever meet, and I want nothing more than to gaze at you. Basically |
 | I'm |
 | blessing |
 | you |
-| , and you're helping me do that so I can be good to others too. This is actually the best money<br>you'll spend all week. |
+| , and you're helping me do that so I can be good to others too. This is actually the best money
+you'll spend all week. |
 | Of course it sounds silly. You know why I do not care? Because it |
 
 works.
@@ -307,15 +363,22 @@ These are my personal definitions— not telling you that you need to feel this 
 
 I was in. Once I entered into the working world (at a ripe and grown sixteen years old), I began the slow and brutal process of working myself to death. It's so funny— I'm re-flourishing with a old friend (we're at almost ten years of friendship now) and in telling her about my adult life, she's nearly leaping for joy at how I have a regular sleep schedule. She really got to witness so many iterations of time poverty: I got up, worked at school, worked at church, worked at my myriad of paying after-school gigs, worked on homework until I fell asleep on my books from exhaustion, and did it again. From high school to college to graduate school. I did not own myself in waking or in sleeping, as sleeping was only to refuel for work. My mind was relegated to fantasies of survival; if you had asked me my wildest dreams at any of these points, I would have said, "A week off to sleep." I dreamt of college, to escape from minimum wage jobs, so that I could… work for a living. I dreamt of graduate school so that I could… have a licensed professional class job, so I could work for living, but from a plush office chair. I was in graduate school dreaming of death. Dreaming of death and taking drugs to stay awake.
 
-| To create is to channel the divine; when your material circumstances box your mind into only<br>thinking of how to survive them, you create nothing. You accept the world as given. That, in<br>and of itself, is a death. |
+| To create is to channel the divine; when your material circumstances box your mind into only
+thinking of how to survive them, you create nothing. You accept the world as given. That, in
+and of itself, is a death. |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Time poverty degraded me. I ain't sleep. By the time I was grinding my way through graduate<br>school, I had no |
+| Time poverty degraded me. I ain't sleep. By the time I was grinding my way through graduate
+school, I had no |
 | time to sleep. |
-| There would be stretches— one or two days— where I literally did not have time to go to bed.<br>I would watch two sunrises in a row without an hour of unconscious rest in between.<br>Sometimes, three. I will never, |
+| There would be stretches— one or two days— where I literally did not have time to go to bed.
+I would watch two sunrises in a row without an hour of unconscious rest in between.
+Sometimes, three. I will never, |
 | ever |
-| , return to that state of time poverty ever again. I do not care how much precarity defaulting on<br>the payments to the world of capitalism brings; I want |
+| , return to that state of time poverty ever again. I do not care how much precarity defaulting on
+the payments to the world of capitalism brings; I want |
 | time |
-| . I like to be with my family. I want time to spend in my homeplaces. I want time to eat ripe fruit<br>with such slow reverence it looks downright sexual. |
+| . I like to be with my family. I want time to spend in my homeplaces. I want time to eat ripe fruit
+with such slow reverence it looks downright sexual. |
 | Time |
 | . I want time. |
 ## | Time does not |
@@ -394,7 +457,8 @@ witnessed as possible
 
 (rather than the one that's constantly being sold to me). My chapters in sex work fundamentally shaped my person for the better; I am a more self-aware, more compassionate, a more strategic, kinder and disciplined individual. The (allegedly) revolutionary stuff I do really occurs as a byproduct of my reorientations— in other terms, it's the work I do part-time. I write so that I can fund programs that make survival easier and that give us time and space to dream about thriving. Right now, that looks like building a library (or two. Hopefully, two). That's where your dollars go: keeping me alive and paying for the works of my head to be born out of my hands. But that's another day's essay!
 
-| Today: thank you for reading. I hope the work of your day passes through your hands with<br>ease. |
+| Today: thank you for reading. I hope the work of your day passes through your hands with
+ease. |
 |-----------------------------------------------------------------------------------------------------|
 | (or, simpler said: peace) |
 | ig |
@@ -404,5 +468,6 @@ witnessed as possible
 | , Duke University Press, Durham, North Carolina, 2021. |
 | Phi, Nila. "2-Minute History of Money & Seeds." |
 | SEEDS Library |
-| , Seeds Collaboratoy DAO, 13 July 2021,<br>seedslibrary.earth/2-minute-history-of-money-and-seeds/. |
+| , Seeds Collaboratoy DAO, 13 July 2021,
+seedslibrary.earth/2-minute-history-of-money-and-seeds/. |
 ## | |

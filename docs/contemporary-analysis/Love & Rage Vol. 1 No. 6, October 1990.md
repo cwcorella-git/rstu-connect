@@ -1,3 +1,8 @@
+---
+title: "## **Love & Rage Vol. 1 No. 6, October 1990**"
+category: "contemporary-analysis"
+---
+
 ## **Love & Rage Vol. 1 No. 6, October 1990**
 
 ## **Date:** Unknown

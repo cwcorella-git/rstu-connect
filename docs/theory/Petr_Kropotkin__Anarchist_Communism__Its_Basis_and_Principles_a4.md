@@ -1,23 +1,19 @@
 ---
-title: Petr Kropotkin  Anarchist Communism  Its Basis And Principles A4
-slug: Petr_Kropotkin__Anarchist_Communism__Its_Basis_and_Principles_a4
-reconversion_status: ready_for_reconversion
-author: Pëtr Kropotkin
-date: '1927'
-tags:
-  - theory
-  - anarchism
-  - unions
-  - rent
-  - police
+title: "Petr Kropotkin  Anarchist Communism  Its Basis And Principles A4"
+author: "Pëtr Kropotkin"
+date: "1927"
+category: "theory"
 ---
+
 # **Anarchist Communism: Its Basis and Principles**
 
 ## Contents
 
-| Ι | | • | • | <br>• | • | • | • | • | • | • | • | • | • | • | • | • | • | • | • | • | • | • | • | • | • | • | • | • | • | • | • | • | • | • | 3 |
+| Ι | | • | • | 
+• | • | • | • | • | • | • | • | • | • | • | • | • | • | • | • | • | • | • | • | • | • | • | • | • | • | • | • | • | • | • | 3 |
 |----|---|---|---|-------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| TI | Γ | | | <br>_ | | _ | _ | | | | | | _ | | _ | | _ | _ | | _ | | _ | _ | _ | _ | | _ | | _ | _ | | _ | | | ç |
+| TI | Γ | | | 
+_ | | _ | _ | | | | | | _ | | _ | | _ | _ | | _ | | _ | _ | _ | _ | | _ | | _ | _ | | _ | | | ç |
 
 #### **I**
 

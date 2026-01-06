@@ -1,3 +1,8 @@
+---
+title: "## [pcwrede.com](https://pcwrede.com/pcw-wp/endings-are-beginnings-and-vice-versa/)"
+category: "contemporary-analysis"
+---
+
 ## [pcwrede.com](https://pcwrede.com/pcw-wp/endings-are-beginnings-and-vice-versa/)
 
 ## **Endings are Beginnings (and Vice Versa) – Patricia C. Wrede**

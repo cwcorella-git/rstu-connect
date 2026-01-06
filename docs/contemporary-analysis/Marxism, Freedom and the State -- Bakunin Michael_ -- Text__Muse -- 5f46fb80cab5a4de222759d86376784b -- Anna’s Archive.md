@@ -1,3 +1,8 @@
+---
+title: "Marxism Freedom and the State"
+category: "contemporary-analysis"
+---
+
 # Marxism Freedom and the State
 
 #### Translated and Edited with a Biographical Sketch by

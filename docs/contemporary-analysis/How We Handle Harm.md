@@ -1,3 +1,8 @@
+---
+title: "**Punch Up \* Kick Down Distro How We Handle Harm**"
+category: "contemporary-analysis"
+---
+
 # **Punch Up \* Kick Down Distro How We Handle Harm**
 
 ## **Contextualizing Harmful Behavior Understanding Accountability & Exploring Community Response to Interpersonal Violence**

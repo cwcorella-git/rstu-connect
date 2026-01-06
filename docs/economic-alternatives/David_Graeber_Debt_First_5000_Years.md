@@ -1,3 +1,8 @@
+---
+title: "DAVID GRAEBER"
+category: "economic-alternatives"
+---
+
 ## THE FIRST 5,000 YEARS
 
 # DAVID GRAEBER
@@ -52,19 +57,26 @@ I. Title.
 
 # CONTENTS
 
-| 1 | On The Experience of<br>Moral Confusion | |
+| 1 | On The Experience of
+Moral Confusion | |
 |----|----------------------------------------------------------------------------------|-----|
 | 2 | The Myth of Barter | 21 |
 | 3 | Primordial Debts | 43 |
 | 4 | Cruelty and Redemption | 73 |
-| s | A Brief Treatise on the Moral<br>Grounds of Economic Relations | 89 |
+| s | A Brief Treatise on the Moral
+Grounds of Economic Relations | 89 |
 | 6 | Games with Sex and Death | 127 |
-| 1 | Honor and Degradation, or,<br>On the Foundations of<br>Contemporary Civilization | 165 |
-| s | Credit Versus Bullion,<br>And the Cycles of History | 211 |
+| 1 | Honor and Degradation, or,
+On the Foundations of
+Contemporary Civilization | 165 |
+| s | Credit Versus Bullion,
+And the Cycles of History | 211 |
 | 9 | The Axial Age (800 BC-600 AD) | 223 |
 | 10 | The Middle Ages (600 AD-1450 AD) | 251 |
-| 11 | Age of the Great Capitalist<br>Empires (1450-1971) | 307 |
-| 12 | (1971-The Beginning of Something<br>Yet to Be Determined) | 361 |
+| 11 | Age of the Great Capitalist
+Empires (1450-1971) | 307 |
+| 12 | (1971-The Beginning of Something
+Yet to Be Determined) | 361 |
 | | Notes | 393 |
 | | Bibliography | 455 |
 ## | | Index | 493 |
@@ -173,7 +185,7 @@ These sermons, many of which have survived, are full of horror stories of God's 
 
 Since the dead usurer's friends were very insistent, the priest yielded to their pressure and said, "Let us put his body on a donkey and see God's will, and what He will do with the body. Wherever the donkey takes it, be it a church, a cemetery, or elsewhere, there will I bury it." The body was placed upon the donkey which without deviating either to right or left, took it straight out of town to the place where thieves are hanged from the gibbet, and with a hearty buck, sent the cadaver flying into the dung beneath the gallows.7
 
-Looking over world literature, it is almost impossible to find a single sympathetic representation of a moneylender-or anyway, a professional moneylender, which means by definition �me who charges interest. I'm not sure there is another profession (executioners?) with such a consistently bad image. It's especially remarkable when one considers that unlike executioners, usurers often rank among the richest and most powerful people in their communities. Yet the very name, "usurer," evokes images of loan sharks, blood money, pounds of flesh, the selling of souls, and behind them all, the Devil, often represented as himself a kind of usurer, an evil accountant with his books and ledgers, or alternately, as the figure looming just behind the usurer, biding his time until he can repossess the soul of a villain who, by his very occupation, has clearly made a compact with Hell.
+Looking over world literature, it is almost impossible to find a single sympathetic representation of a moneylender-or anyway, a professional moneylender, which means by definition me who charges interest. I'm not sure there is another profession (executioners?) with such a consistently bad image. It's especially remarkable when one considers that unlike executioners, usurers often rank among the richest and most powerful people in their communities. Yet the very name, "usurer," evokes images of loan sharks, blood money, pounds of flesh, the selling of souls, and behind them all, the Devil, often represented as himself a kind of usurer, an evil accountant with his books and ledgers, or alternately, as the figure looming just behind the usurer, biding his time until he can repossess the soul of a villain who, by his very occupation, has clearly made a compact with Hell.
 
 Historically, there have been only two effective ways for a lender to try to wriggle out of the opprobrium: either shunt off responsibility onto some third party, or insist that the borrower is even worse. In medieval Europe, for instance, lords often took the first approach, employing Jews as surrogates. Many would even speak of "our" Jews-that is, Jews under their personal protection-though in practice this usually meant that they would first deny Jews in their territories any means of making a living except by usury (guaranteeing that they would be widely detested), then periodically turn on them, claiming they were detestable creatures, and take the money for themselves. The second approach is of course more common. But it usually leads to the conclusion that both parties to a loan are equally guilty; the whole affair is a shabby business; and most likely, both are damned.
 
@@ -285,13 +297,13 @@ He did not make up the story entirely out of whole cloth. Already in 330 Be, Ari
 
 In the years after Columbus, as Spanish and Portuguese adventurers were scouring the world for new sources of gold and silver, these vague stories disappear. Certainly no one reported discovering a land of barter. Most sixteenth- and seventeenth-century travelers in the West Indies or Africa assumed that all societies would necessarily have their own forms of money, since all societies had governments and all governments issued money.7
 
-Adam Smith, on the other hand, was determined to overturn the conventional wisdom of his day. Above all, he objected to the notion that money was a creation of government. In this, Smith was the intellectual heir of the Liberal tradition of philosophers like John Locke, who had argued that government begins in the need to protect private property and operated best when it tried to limit itself to that function. Smith expanded on the argument, insisting that property, money and markets not only existed before political institutions but were the very fou�dation of human society. It followed that insofar as government should play any role in monetary affairs, it should limit itself to guaranteeing the soundness of the currency. It was only by making such an argument that he could insist that economics is itself a field of human inquiry with its own principles and laws-that is, as distinct from, say ethics or politics.
+Adam Smith, on the other hand, was determined to overturn the conventional wisdom of his day. Above all, he objected to the notion that money was a creation of government. In this, Smith was the intellectual heir of the Liberal tradition of philosophers like John Locke, who had argued that government begins in the need to protect private property and operated best when it tried to limit itself to that function. Smith expanded on the argument, insisting that property, money and markets not only existed before political institutions but were the very foudation of human society. It followed that insofar as government should play any role in monetary affairs, it should limit itself to guaranteeing the soundness of the currency. It was only by making such an argument that he could insist that economics is itself a field of human inquiry with its own principles and laws-that is, as distinct from, say ethics or politics.
 
 Smith's argument is worth laying out in detail because it is, as I say, the great founding myth of the discipline of economics.
 
 What, he begins, is the basis of economic life, properly speaking? It is "a certain propensity in human nature ... the propensity to truck, barter, and exchange one thing for another." Animals don't do this. "Nobody," Smith observes, "ever saw a dog make a fair and deliberate exchange of one bone for another with another dog. "8 But humans, if left to their own devices, will inevitably begin swapping and comparing things. This is just what humans do. Even logic and conversation are really just forms of trading, and as in all things, humans will always try to seek their own best advantage, to seek the greatest profit they can from the exchange.9
 
-It is this drive to exchange, in turn, which creates that division of labor responsible for all human achievement and civilization. Here the scene shifts to another one of those economists' faraway fantasylandsit seems to be an amalgam of North American Indians and Central Asian pastoral nomads: <sup>10</sup>
+It is this drive to exchange, in turn, which creates that division of labor responsible for all human achievement and civilization. Here the scene shifts to another one of those economists' faraway fantasylandsit seems to be an amalgam of North American Indians and Central Asian pastoral nomads: 10
 
 In a tribe of hunters or shepherds a particular person makes bows and arrows, for example, with more readiness and dexterity than any other. He frequently exchanges them for cattle or for venison with his companions; and he finds at last that he can in this manner get more cattle and venison, than if he himself went to the field to catch them. From a regard to his own interest, therefore, the making of bows and arrows grows to be his chief business, and he becomes a sort of armourer. Another excels in making the frames and covers of their little huts or moveable houses. He is accustomed to be of use in this way to his neighbours, who reward him in the same manner with cattle and with venison, till at last he finds it his interest to dedicate himself entirely to this employment, and to become a sort of house-carpenter. In the same manner a third becomes a smith or a brazier; a fourth a tanner or dresser of hides or skins, the principal part of the clothing of savages ...
 
@@ -495,7 +507,7 @@ What credit theorists like Mitchell-Innes were arguing is that even if Henry gav
 
 In this sense, the value of a unit of currency is not the measure of the value of an object, but the measure of one's trust in other human beings.
 
-This element of trust of course makes everything more complicated. Early banknotes circulated via a process almost exactly like �hat I've just described, except that, like the Chinese merchants, each recipient added his or her signature to guarantee the debt's legitimacy. But generally, the difficulty in the Chartalist position-this is what it came to be called, from the Latin charta, or token-is to establish why people would continue to trust a piece of paper. After all, why couldn't anyone just sign Henry's name on an IOU? True, this sort of debt-token system might work within a small village where everyone knew one another, or even among a more dispersed community like sixteenth-century Italian or twentieth-century Chinese merchants, where everyone at least had ways of keeping track of everybody else. But systems like these cannot create a full-blown currency system, and there's no evidence that they ever have. Providing a sufficient number of IOUs to allow everyone even in a medium-sized city to be able to carry out a significant portion of their daily transactions in such currency would require millions of tokens. <sup>10</sup>To be able to guarantee all of them, Henry would have to be almost unimaginably rich.
+This element of trust of course makes everything more complicated. Early banknotes circulated via a process almost exactly like hat I've just described, except that, like the Chinese merchants, each recipient added his or her signature to guarantee the debt's legitimacy. But generally, the difficulty in the Chartalist position-this is what it came to be called, from the Latin charta, or token-is to establish why people would continue to trust a piece of paper. After all, why couldn't anyone just sign Henry's name on an IOU? True, this sort of debt-token system might work within a small village where everyone knew one another, or even among a more dispersed community like sixteenth-century Italian or twentieth-century Chinese merchants, where everyone at least had ways of keeping track of everybody else. But systems like these cannot create a full-blown currency system, and there's no evidence that they ever have. Providing a sufficient number of IOUs to allow everyone even in a medium-sized city to be able to carry out a significant portion of their daily transactions in such currency would require millions of tokens. 10To be able to guarantee all of them, Henry would have to be almost unimaginably rich.
 
 All this would be much less of a problem, however, if Henry were, say, Henry II, King of England, Duke of Normandy, Lord of Ireland, and Count of Anjou.
 
@@ -503,7 +515,7 @@ The real impetus for the Chartalist position, in fact, came out of what came to 
 
 According to Knapp, whether or not the actual, physical money stuff in circulation corresponds to this "imaginary money" is not particularly important. It makes no real difference whether it's pure silver, debased silver, leather tokens, or dried cod-provided the state is willing to accept it in payment of taxes. Because whatever the state was willing to accept, for that reason, became currency. One of the most important forms of currency in England in Henry's time were notched "tally sticks" used to record debts. Tally sticks were quite explicitly IOUs: both parties to a transaction would take a hazelwood twig, notch it to indicate the amount owed, and then split it in half. The creditor would keep one half, called "the stock" (hence the origin of the term " stock holder") and the debtor kept the other, called "the stub" (hence the origin of the term "ticket stub.") Tax assessors used such twigs to calculate amounts owed by local sheriffs. Often, though, rather than wait for the taxes to come due, Henry's exchequer would often sell the tallies at a discount, and they would circulate, as tokens of debt owed to the government, to anyone willing to trade for them.14
 
-Modern banknotes actually work on a similar principle, except in reverseY Recall here the little parable about Henry's IOU. The reader might have noticed one puzzling aspect of the equation: the IOU can operate as money only as long as Henry never pays his debt. In fact this is precisely the logic on which the Bank of England-the first successful modern central bank-was originally founded. In 1694, a consortium of English bankers made a loan of £1,2oo, ooo to the king. In return they received a royal monopoly on the issuance of banknotes. What this meant in practice was they had the right to advance IOUs for a portion of the money the king now owed them to any inhabitant of the kingdom willing to borrow from them, or willing to deposit their own money in the bank-in effect, to circulate or " monetize" the newly created royal debt. This was a great deal for the bankers (they got to charge the king 8 percent annual interest for the original loan and simultaneously charge interest on the same money to the clients who borrowed it) , but it only worked as long as the original loan remained outstanding. To this day, this loan has never been paid back. It cannot be. If it ever were, the entire monetary system of Great Britain would cease to exist. <sup>16</sup>
+Modern banknotes actually work on a similar principle, except in reverseY Recall here the little parable about Henry's IOU. The reader might have noticed one puzzling aspect of the equation: the IOU can operate as money only as long as Henry never pays his debt. In fact this is precisely the logic on which the Bank of England-the first successful modern central bank-was originally founded. In 1694, a consortium of English bankers made a loan of £1,2oo, ooo to the king. In return they received a royal monopoly on the issuance of banknotes. What this meant in practice was they had the right to advance IOUs for a portion of the money the king now owed them to any inhabitant of the kingdom willing to borrow from them, or willing to deposit their own money in the bank-in effect, to circulate or " monetize" the newly created royal debt. This was a great deal for the bankers (they got to charge the king 8 percent annual interest for the original loan and simultaneously charge interest on the same money to the clients who borrowed it) , but it only worked as long as the original loan remained outstanding. To this day, this loan has never been paid back. It cannot be. If it ever were, the entire monetary system of Great Britain would cease to exist. 16
 
 If nothing else, this approach helps solve one of the obvious mysteries of the fiscal policy of so many early kingdoms: Why did they make subjects pay taxes at all? This is not a question we're used to asking. The answer seems self-evident. Governments demand taxes because they wish to get their hands on people's money. But if Smith was right, and gold and silver became money through the natural workings of the market completely independently of governments, then wouldn't the obvious thing be to j ust grab control of the gold and silver mines? Then the king would have all the money he could possibly need. In fact, this is what ancient kings would normally do. If there were gold and silver mines in their territory, they would usually take control of them. So what exactly was the point of extracting the gold, stamping one's picture on it, causing it to circulate among one's subjects-and then demanding that those same subjects give it back again ?
 
@@ -688,7 +700,7 @@ The problem is that for several hundred years now, it has simply been assumed th
 
 One might even say that what we really have, in the idea of primordial debt, is the ultimate nationalist myth. Once we owed our lives to the gods that created us, paid interest in the form of animal sacrifice, and ultimately paid back the principal with our lives. Now we owe it to the Nation that formed us, pay interest in the form of taxes, and when it comes time to defend the nation against its enemies, to offer to pay it with our lives.
 
-This is a great trap of the twentieth century: on one side is the logic of the market, where we like to imagine we all start out as individuals who don't owe each other anything. On the other is the logic of the state, where we all begin with a debt we can never truly pay. We are constantly told that they are opposites, and that between them they contain the only real human possibilities. But it's a false dichotomy. States created markets. Markets require states. Neither could continue without the other, at least, in anything like the forms we would recognize tod� y.
+This is a great trap of the twentieth century: on one side is the logic of the market, where we like to imagine we all start out as individuals who don't owe each other anything. On the other is the logic of the state, where we all begin with a debt we can never truly pay. We are constantly told that they are opposites, and that between them they contain the only real human possibilities. But it's a false dichotomy. States created markets. Markets require states. Neither could continue without the other, at least, in anything like the forms we would recognize tod y.
 
 # Chapte r Fo ur
 
@@ -1148,7 +1160,7 @@ In fact, the English "please" is short for "if you please," "if it pleases you t
 
 In English, "thank you" derives from "think," it originally meant, "I will remember what you did for me''-which is usually not true either-but in other languages (the Portuguese obrigado is a good example) the standard term follows the form of the English " much obliged"-it actually does means "I am in your debt." The French merci is even more graphic: it derives from " mercy," as in begging for mercy; by saying it you are symbolically placing yourself in your benefactor's power-since a debtor is, after all, a criminalY Saying "you're welcome," or "it's nothing" (French de rien, Spanish de nada)-the latter has at least the advantage of often being literally true--is a way of reassuring the one to whom one has passed the salt that you are not actually inscribing a debit in your imaginary moral account book. So is saying " my pleasure"-you are saying, "No, actually, it's a credit, not a debit-you did me a favor because in asking me to pass the salt, you gave me the opportunity to do something I found rewarding in itself! "64
 
-Decoding the tacit calculus of debt ("I owe you one," "No, you don't owe me anything," "Actually, if anything, it's me who owes you," as if inscribing and then scratching off so many infinitesimal entries in an endless ledger) makes it easy to understand why this sort of thing is often viewed not as the quintessence of morality, but as the quintessence of middle-class morality. True, by now middle-class sensibilities dominate society. But there are still those who find the practice odd. Those at the very top of society often still feel that deference is owed primarily to hierarchical superiors and find it slightly idiotic to watch postmen and pastry cooks taking turns pretending to treat each other like little feudal lords. At the other extreme, those who grew up in what in Europe are called "popular" environments-small towns, poor neighborhoods, anyplace where there is still an assumption that people who are not enemies will, ordinarily, take care of one another-will often find it insulting to be constantly told, in effect, that there is some chance they might not do their job as a waiter or taxi driver correctly, or provide houseguests with tea . In other words, middle-class etiquette insists that we are all equals, but it does so in a very particular way. On the one hand, it pretends that nobody is giving anybody orders (think here of the burly security guard at the mall who appears before someone walking into a restricted area and says, "Can I help you?"); on the other, it treats every gesture of what I've been calling "baseline communism" as if it were really a form of exchange. As a result, like Tiv neighborhoods, middle-class society has to be endless!� recreated, as a kind of constant flickering game of shadows, the criss-crossing of an infinity of momentary debt relations, each one almost instantly cancelled out.
+Decoding the tacit calculus of debt ("I owe you one," "No, you don't owe me anything," "Actually, if anything, it's me who owes you," as if inscribing and then scratching off so many infinitesimal entries in an endless ledger) makes it easy to understand why this sort of thing is often viewed not as the quintessence of morality, but as the quintessence of middle-class morality. True, by now middle-class sensibilities dominate society. But there are still those who find the practice odd. Those at the very top of society often still feel that deference is owed primarily to hierarchical superiors and find it slightly idiotic to watch postmen and pastry cooks taking turns pretending to treat each other like little feudal lords. At the other extreme, those who grew up in what in Europe are called "popular" environments-small towns, poor neighborhoods, anyplace where there is still an assumption that people who are not enemies will, ordinarily, take care of one another-will often find it insulting to be constantly told, in effect, that there is some chance they might not do their job as a waiter or taxi driver correctly, or provide houseguests with tea . In other words, middle-class etiquette insists that we are all equals, but it does so in a very particular way. On the one hand, it pretends that nobody is giving anybody orders (think here of the burly security guard at the mall who appears before someone walking into a restricted area and says, "Can I help you?"); on the other, it treats every gesture of what I've been calling "baseline communism" as if it were really a form of exchange. As a result, like Tiv neighborhoods, middle-class society has to be endless! recreated, as a kind of constant flickering game of shadows, the criss-crossing of an infinity of momentary debt relations, each one almost instantly cancelled out.
 
 All of this is a relatively recent innovation. The habit of always saying "please" and "thank you" first began to take hold during the commercial revolution of the sixteenth and seventeenth centuriesamong those very middle classes who were largely responsible for it. It is the language of bureaus, shops, and offices, and over the course of the last five hundred years it has spread across the world along with them. It is also merely one token of a much larger philosophy, a set of assumptions of what humans are and what they owe one another, that have by now become so deeply ingrained that we cannot see them.
 
@@ -1557,13 +1569,13 @@ The point is obvious. In a proper village, the neighbors should have rushed in, 
 
 In its own way it's a revealing story, charming even, but one must still ask: How would a community-even one the man in the story would have considered a proper community-have reacted if they thought she was beating him?91 I think we all know the answer. The first case would have led to concern; the second would have led to ridicule. In Europe in the sixteenth and seventeenth centuries, young villagers used to put on satirical skits making fun of husbands beaten by their wives, even to parade them about the town mounted backwards on an ass for everyone to j eer at.92 No African society, as far as I know, went quite this far. (Neither did any African society burn as many witches-Western Europe at that time was a particularly savage place.) Yet as in most of the world, the assumption that the one sort of brutality was at least potentially legitimate, and that the other was not, was the framework within which relations between the sexes took place.93
 
-What I want to emphasize is that there is a direct relation between that fact and the possibility of trading lives for one another. Anthropologists are fond of making diagrams to represent preferential marriage patterns. Sometimes, these diagrams can be quite beautiful:<sup>94</sup>
+What I want to emphasize is that there is a direct relation between that fact and the possibility of trading lives for one another. Anthropologists are fond of making diagrams to represent preferential marriage patterns. Sometimes, these diagrams can be quite beautiful:94
 
 ## ![](_page_168_Picture_3.jpeg)
 
 ## Ideal pattern of bilateral cross-cousin marriage
 
-Sometimes they merely have a certain elegant simplicity, as in this diagram on an instance of Tiv sister exhange:<sup>95</sup>
+Sometimes they merely have a certain elegant simplicity, as in this diagram on an instance of Tiv sister exhange:95
 
 ## ![](_page_168_Picture_6.jpeg)
 
@@ -1646,7 +1658,7 @@ This was the conclusion of the first scholar to carry out a broad historical sur
 - 3) Through paternal authority (a father's sale of his children)
 - 4) Through the voluntary sale of one's self4
 
-Everywhere, too, capture in war is considered the only way that is considered absolutely legitimate. All the others were surrounded by moral problems. Kidnapping was obviously criminal, and parents would not sell children except under desperate circumstances.5 We read of famines in China so severe that thousands of poor men would castrat� themselves, in the hope that they might sell themselves as eunuchs at court-but this was also seen as the sign of total social breakdown.6 Even the j udicial process could easily be corrupted, as the ancients were well aware--especially when it came to enslavement for debt.
+Everywhere, too, capture in war is considered the only way that is considered absolutely legitimate. All the others were surrounded by moral problems. Kidnapping was obviously criminal, and parents would not sell children except under desperate circumstances.5 We read of famines in China so severe that thousands of poor men would castrat themselves, in the hope that they might sell themselves as eunuchs at court-but this was also seen as the sign of total social breakdown.6 Even the j udicial process could easily be corrupted, as the ancients were well aware--especially when it came to enslavement for debt.
 
 On one level, al-Wahid's argument is j ust an extended apologia for the role of slavery in Islam-widely criticized, since Islamic law never eliminated slavery, even when the institution largely vanished in the rest of the Medieval world. True, he argues, Mohammed did not forbid the practice, but still, the early Caliphate was the first government we know of that actually succeeded in eliminating all these practices (j udicial abuse, kidnappings, the sale of offspring) that had been recognized as social problems for thousands of years, and to limit slavery strictly to prisoners of war.
 
@@ -1734,13 +1746,13 @@ As we'll see, there is reason to believe that it is in such moral crises that we
 
 In the very earliest Sumerian texts, particularly those from roughly 3000 to 2500 Be, women are everywhere. Early histories not only record the names of numerous female rulers, but make clear that women were well represented among the ranks of doctors, merchants, scribes, and public officials, and generally free to take part in all aspects of public life. One cannot speak of full gender equality: men still outnumbered women in all these areas. Still, one gets the sense of a society not so different than that which prevails in much of the developed world today. Over the course of the next thousand years or so, all this changes. The place of women in civic life erodes; gradually, the more familiar patriarchal pattern takes shape, with its emphasis on chastity and premarital virginity, a weakening and eventually wholesale disappearance of women's role in government and the liberal professions, and the loss of women's independent legal status, which renders them wards of their husbands. By the end of the Bronze Age, around noo BC, we begin to see large numbers of women sequestered away in harems and (in some places, at least) , subj ected to obligatory veiling.
 
-In fact, this appears to reflect a much broader worldwide pattern. It has always been something of a scandal for those who like to see the advance of science and technology, the accumulation of learning, economic growth-"human progress," as we like to call it-as necessarily leading to greater human freedom, that for women, the exact opposite often seems to be the case. Or at least, has been the case until very recent times. A similar gradual restriction on women's freedoms can be observed in India and China. The question is, obviously, Why? The standard explanation in the Sumerian case has been the gradual infiltration of pastoralists from the surrounding deserts who, presumably, always had more patriarchal mores. There was, after all, only a narrow strip of land along the Tigris and Euphrates rivers that could support intensive irrigation works, and hence, urban life. Civilization was thus from early times surrounded by a fringe of desert people, who lived much like those described in Genesis and spoke the same Semitic languages. It is undeniably true that, over the course of time, the Sumerian language was gradually replaced-first by Akkadian, then by Amorite, then by Aramaic languages, and finally, most recently of all, by Arabic, which was also brought to Mesopotamia and the Levant by desert pastoralists. While all this did, clearly, bring with it profound cultural changes as well, it's not a particularly satisfying explanation.33 Former nomads appear to have been willing to adapt to urban life in any number of other ways. Why not that one ? And it's very much a local explanation and does nothing, really, to explain the broader pattern. Feminist scholarship has instead tended to emphasize the growing scale and social importance of war, and the increasing centralization of the state that accompanied it.<sup>34</sup> This is more convincing. Certainly, the more militaristic the state, the harsher its laws tended to be toward women. But I would add another, complementary argument. As I have emphasized, historically, war, states, and markets all tend to feed off one another. Conquest leads to taxes. Taxes tend to be ways to create markets, which are convenient for soldiers and administrators. In the specific case of Mesopotamia, all of this took on a complicated relation to an explosion of debt that threatened to turn all human relations—and by extension, women's bodies—into potential commodities. At the same time, it created a horrified reaction on the part of the (male) winners of the economic game, who over time felt forced to go to greater and greater lengths to make clear that *their* women could in no sense be bought or sold.
+In fact, this appears to reflect a much broader worldwide pattern. It has always been something of a scandal for those who like to see the advance of science and technology, the accumulation of learning, economic growth-"human progress," as we like to call it-as necessarily leading to greater human freedom, that for women, the exact opposite often seems to be the case. Or at least, has been the case until very recent times. A similar gradual restriction on women's freedoms can be observed in India and China. The question is, obviously, Why? The standard explanation in the Sumerian case has been the gradual infiltration of pastoralists from the surrounding deserts who, presumably, always had more patriarchal mores. There was, after all, only a narrow strip of land along the Tigris and Euphrates rivers that could support intensive irrigation works, and hence, urban life. Civilization was thus from early times surrounded by a fringe of desert people, who lived much like those described in Genesis and spoke the same Semitic languages. It is undeniably true that, over the course of time, the Sumerian language was gradually replaced-first by Akkadian, then by Amorite, then by Aramaic languages, and finally, most recently of all, by Arabic, which was also brought to Mesopotamia and the Levant by desert pastoralists. While all this did, clearly, bring with it profound cultural changes as well, it's not a particularly satisfying explanation.33 Former nomads appear to have been willing to adapt to urban life in any number of other ways. Why not that one ? And it's very much a local explanation and does nothing, really, to explain the broader pattern. Feminist scholarship has instead tended to emphasize the growing scale and social importance of war, and the increasing centralization of the state that accompanied it.34 This is more convincing. Certainly, the more militaristic the state, the harsher its laws tended to be toward women. But I would add another, complementary argument. As I have emphasized, historically, war, states, and markets all tend to feed off one another. Conquest leads to taxes. Taxes tend to be ways to create markets, which are convenient for soldiers and administrators. In the specific case of Mesopotamia, all of this took on a complicated relation to an explosion of debt that threatened to turn all human relations--and by extension, women's bodies--into potential commodities. At the same time, it created a horrified reaction on the part of the (male) winners of the economic game, who over time felt forced to go to greater and greater lengths to make clear that *their* women could in no sense be bought or sold.
 
 A glance at the existing material on Mesopotamian marriage gives us a clue as to how this might have happened.
 
-It is common anthropological wisdom that bridewealth tends to be typical of situations where population is relatively thin, land not a particularly scarce resource, and therefore, politics are all about controlling labor. Where population is dense and land at a premium, one tends to instead find dowry: adding a woman to the household is adding another mouth to feed, and rather than being paid off, a bride's father is expected to contribute something (land, wealth, money . . .) to help support his daughter in her new home.<sup>35</sup> In Sumerian times, for instance, the main payment at marriage was a huge gift of food paid by the groom's father to the bride's, destined to provide a sumptuous feast for the wedding.<sup>36</sup> Before long, however, this seems to have split into two payments, one for the wedding, another to the woman's father, calculated—and often paid—in silver.<sup>37</sup> Wealthy women sometimes appear to have ended up with the money: at least, many appear to have to worn silver arm and leg rings of identical denominations.
+It is common anthropological wisdom that bridewealth tends to be typical of situations where population is relatively thin, land not a particularly scarce resource, and therefore, politics are all about controlling labor. Where population is dense and land at a premium, one tends to instead find dowry: adding a woman to the household is adding another mouth to feed, and rather than being paid off, a bride's father is expected to contribute something (land, wealth, money . . .) to help support his daughter in her new home.35 In Sumerian times, for instance, the main payment at marriage was a huge gift of food paid by the groom's father to the bride's, destined to provide a sumptuous feast for the wedding.36 Before long, however, this seems to have split into two payments, one for the wedding, another to the woman's father, calculated--and often paid--in silver.37 Wealthy women sometimes appear to have ended up with the money: at least, many appear to have to worn silver arm and leg rings of identical denominations.
 
-However as time went on, this payment, called the *terhatum*, often began to take on the qualities of a simple purchase. It was referred to as "the price of a virgin"—not a mere metaphor, since the illegal deflowering of a virgin was considered a property crime against her father.<sup>38</sup> Marriage was referred to as "taking possession" of a woman, the same word one would use for the seizure of goods.<sup>39</sup> In principle, a wife, once possessed, owed her husbands strict obedience, and often could not seek a divorce even in cases of physical abuse.
+However as time went on, this payment, called the *terhatum*, often began to take on the qualities of a simple purchase. It was referred to as "the price of a virgin"--not a mere metaphor, since the illegal deflowering of a virgin was considered a property crime against her father.38 Marriage was referred to as "taking possession" of a woman, the same word one would use for the seizure of goods.39 In principle, a wife, once possessed, owed her husbands strict obedience, and often could not seek a divorce even in cases of physical abuse.
 
 For women with wealthy or powerful parents, all this remained largely a matter of principle, modified considerably in practice. Merchants' daughters, for example, typically received substantial cash
 
@@ -1780,7 +1792,7 @@ Such is the voice of patriarchal hatred of the city, and of the angry millennia]
 
 Patriarchy as we know it seems to have taken shape in a see-sawing battle between the newfound elites and newly dispossessed. Much of my own analysis here is inspired by the brilliant work of feminist historian Gerda Lerner, who, in an essay on the origins of prostitution, observed:
 
-Another source for commercial prostitution was the pauperization of farmers and their increasing dependence on loans in order to survive periods of famine, which led to debt slavery. Children of both sexes were given up for debt pledges or sold f�r "adoption." Out of such practices, the prostitution of female family members for the benefit of the head of the family could readily develop. Women might end up as prostitutes because their parents had to sell them into slavery or because their impoverished husbands might so use them. Or they might become self-employed as a last alternative to enslavement. With luck, they might in this profession be upwardly mobile through becoming concubines.
+Another source for commercial prostitution was the pauperization of farmers and their increasing dependence on loans in order to survive periods of famine, which led to debt slavery. Children of both sexes were given up for debt pledges or sold fr "adoption." Out of such practices, the prostitution of female family members for the benefit of the head of the family could readily develop. Women might end up as prostitutes because their parents had to sell them into slavery or because their impoverished husbands might so use them. Or they might become self-employed as a last alternative to enslavement. With luck, they might in this profession be upwardly mobile through becoming concubines.
 
 By the middle of the second millennium B. C., prostitution was well established as a likely occupation for the daughters of the poor. As the sexual regulation of women of the propertied class became more firmly entrenched, the virginity of respectable daughters became a financial asset for the family. Thus, commercial prostitution came to be seen as a social necessity for meeting the sexual needs of men. What remained problematic was how to distinguish clearly and permanently between respectable and non-respectable women.
 
@@ -1870,7 +1882,7 @@ On the third day, the miser came by and asked what had happened to his pots.
 
 In a heroic system, it is only debts of honor-the need to repay gifts, to exact revenge, to rescue or redeem friends or kinsmen fallen prisoner-that operate completely under a logic of tit-for-tat exchange. Honor is the same as credit; it's one's ability to keep one's promises, but also, in the case of a w rong, to "get even. " As the last phrase implies, it was a monetary logic, but money, or anyway money-like relations, a re confined to this. Gradually, subtly, without anyone completely understanding the full implications of what was happening, what had been the essence of moral relations turned into the means for every sort of dishonest stratagem.
 
-We know a little about it from trial speeches, many of which have survived. Here is one from the fourth century, probably a round 365 BC. Apollodorus was a prosperous but low-born Athenian citizen (his father, a banker, had begun life as a slave) who, like many such gentlemen, had acquired a country estate. There he made a point of making friends with his closest neighbor, Nicostratus, a man of a ristocratic origins, though currently of somewhat straitened means. They acted as neighbors normally did, giving and borrowing small sums, lending each other a nimals or slaves, minding each other's property when one was away. Then one day Nicostratus ran into a piece of terrible luck. While trying to track down some runaway slaves, he was himself captured by pirates and held for ransom at the slave market on the island of AeginJ.. His relatives could only assemble part of the price, so he was forced :o borrow the rest from strangers in the m arket. These appear to have �een professionals who specialized in such loans, and their terms were :10roriously harsh: if not repaid in thirty days, the sum doubled; if not repaid at all, the debtor became the slave of the man who had put up the money for his redemption.
+We know a little about it from trial speeches, many of which have survived. Here is one from the fourth century, probably a round 365 BC. Apollodorus was a prosperous but low-born Athenian citizen (his father, a banker, had begun life as a slave) who, like many such gentlemen, had acquired a country estate. There he made a point of making friends with his closest neighbor, Nicostratus, a man of a ristocratic origins, though currently of somewhat straitened means. They acted as neighbors normally did, giving and borrowing small sums, lending each other a nimals or slaves, minding each other's property when one was away. Then one day Nicostratus ran into a piece of terrible luck. While trying to track down some runaway slaves, he was himself captured by pirates and held for ransom at the slave market on the island of AeginJ.. His relatives could only assemble part of the price, so he was forced :o borrow the rest from strangers in the m arket. These appear to have een professionals who specialized in such loans, and their terms were :10roriously harsh: if not repaid in thirty days, the sum doubled; if not repaid at all, the debtor became the slave of the man who had put up the money for his redemption.
 
 Tearfully, Nicostratus appealed to his neighbor. All his possessions were already pledged now to one creditor or another; he knew Apollodorus wouldn't have that much cash lying around, but could his dear friend possibly put up something of his own by way of security? Apollodorus was moved. He would be happy to forgive all debts Nicostratus already owed him, but the rest would be difficult. Still, he would do his best. In the end, he arranged to himself take a loan from an acquaintance of his, Arcesas, on the security of his town-house, at r6 percent annual interest, so as to be able to satisfy Nicostratus's creditors while Nicostratus himself arranged a friendly, no-interest eranos loan from his own relatives. But before long, Apollodorus began to realize that he had been set up. The impoverished aristocrat had decided to take advantage of his nouveau-riche neighbor; he was actually working with Arcesas and some of Apollodorus's enemies to have him falsely declared a "public debtor," that is, someone who had defaulted on an obligation to the public treasury. This would have first of all meant that he would lose his right to take anyone to court (i.e., his deceivers, to recover the money) , and second, would give them a pretext to raid his house to remove his furniture and other possessions. Presumably, Nicostratus had never felt especially comfortable being in debt to a man he considered his social inferior. Rather like Egil the Viking, who would rather kill his friend Einar than have to compose an elegy thanking him for an overly magnificent gift, Nicostratus appears to have concluded that it was more honorable, or anyway more bearable, to try to extract the money from his lowly friend through force and fraud than to spend the rest of his life feeling beholden. Before long, things had indeed descended to outright physical violence, and the whole matter ended up in court.80
 
@@ -1906,7 +1918,7 @@ Nonetheless, Roman law does insist that the basic form of property is private pr
 
 If you think about it, this really is an odd place to start in developing a theory of property law. It is probably fair to say that, in any part of the world, in any period of history, whether in ancient Japan or Machu Picchu, someone who had a piece of string was free to twist it, knot it, pull it apart, or toss it in the fire more or less as they had a mind to. Nowhere else did legal theorists appear to have found this fact in any way interesting or important. Certainly no other tradition makes it the very basis of property law-since, after all, doing so made almost all actual law little more than a series of exceptions.
 
-How did this come about? And why? The most convincing expla� nation I've seen is Orlando Patterson's: the notion of absolute private property is really derived from slavery. One can imagine property not as a relation between people, but as a relation between a person and a thing, if one's starting point is a relation between two people, one of whom is also a thing. (This is how slaves were defined in Roman law: they were people who were also a res, a thing.)95 The emphasis on absolute power begins to make sense as well.96
+How did this come about? And why? The most convincing expla nation I've seen is Orlando Patterson's: the notion of absolute private property is really derived from slavery. One can imagine property not as a relation between people, but as a relation between a person and a thing, if one's starting point is a relation between two people, one of whom is also a thing. (This is how slaves were defined in Roman law: they were people who were also a res, a thing.)95 The emphasis on absolute power begins to make sense as well.96
 
 The word dominium, meaning absolute private property, was not particularly ancient.97 It only appears in Latin in the late Republic, right around the time when hundreds of thousands of captive laborers were pouring into Italy, and when Rome, as a consequence, was becoming a genuine slave society.98 By so BC, Roman writers had come to simply assume that workers-whether the farmworkers harvesting peas in countryside plantations, the muleteers delivering those peas to shops in the city, or the clerks keeping count of them-were someone else's property. The existence of millions of creatures who were simultaneously persons and things created endless legal problems, and much of the creative genius of Roman law was spent in working out the endless ramifications. One need only flip open a casebook of Roman law to get a sense of these. This is from the second-century j urist Ulpian:
 
@@ -1924,7 +1936,7 @@ It was quite extraordinary, even in the ancient world, for a father to have the 
 
 Over time, this became more and more of a legal fiction-actual slaves were much more likely to have been paupers sold by parents, unfortunates kidnapped by pirates or bandits, victims of wars or judicial process among barbarians at the fringes of the empire, or children of other slaves. 105 Still, the fiction was maintained.
 
-What made Roman slavery so unusual, in historical terms, was a conjuncture of two factors. One was its very arbitrariness. In dramatic contrast with, say plantation slavery in the Americas, there was no sense that certain people were naturally inferior and therefore destined to be slaves. Instead, slavery was seen as a misfortune that could happen to anyone. 106 As a result, there was no reason that a slave might not be in every way superior to his or her master: smarter, with a finer sense of morality, better ta�te, and a greater understanding of philosophy. The master might even be willing to acknowledge this. There was no reason not to, since it had no effect on the nature of the relationship, which was simply one of power.
+What made Roman slavery so unusual, in historical terms, was a conjuncture of two factors. One was its very arbitrariness. In dramatic contrast with, say plantation slavery in the Americas, there was no sense that certain people were naturally inferior and therefore destined to be slaves. Instead, slavery was seen as a misfortune that could happen to anyone. 106 As a result, there was no reason that a slave might not be in every way superior to his or her master: smarter, with a finer sense of morality, better tate, and a greater understanding of philosophy. The master might even be willing to acknowledge this. There was no reason not to, since it had no effect on the nature of the relationship, which was simply one of power.
 
 The second was the absolute nature of this power. There are many places where slaves are conceived as war captives, and masters as conquerors with absolute powers of life and death-but usually, this is something of an abstract principle. Almost everywhere, governments quickly move to limit such rights. At the very least, emperors and kings will insist that they are the only ones with the power to order others put to death. 107 But under the Roman Republic there was no emperor; insofar as there was a sovereign body, it was the collective body of the slave-owners themselves. Only under the early Empire do we see any legislation limiting what owners could do to their (human) property: the first being a law of the time of the emperor Tiberius (dated r6 AD) stipulating that a master had to obtain a magistrate's permission before ordering a slave publicly torn apart by wild beasts. 108 However, the absolute nature of the master's power-the fact that in this context, he effectively was the state--also meant that there were also, at first, no restrictions on manumission: a master could liberate his slave, or even adopt him or her, whereby-since liberty meant nothing outside of membership in a community-that slave automatically became a Roman citizen. This led to some very peculiar arrangements. In the first century AD, for example, it was not uncommon for educated Greeks to have themselves sold into slavery to some wealthy Roman in need of a secretary, entrust the money to a close friend or family member, and then, after a certain interval, buy themselves back, thus obtaining Roman citizenship. This despite the fact that, during such time as they were slaves, if their owner decided to, say, cut one of his secretary's feet off, legally, he would have been perfectly free to do so. 1 09
 
@@ -1972,7 +1984,7 @@ My old professor John Cornaro££ used to tell a story about carrying out a surv
 
 In human economies, when this ability to rip people from their contexts does appear, it is most often seen as an end in itself. One can already see a hint of this among the Lele. Important men would occasionally acquire war captives from far away as slaves, but it was almost always to be sacrificed at their funeral . 125 The squelching of one man's individuality was seen as somehow swelling the reputation, the social existence, of the other .126 In what I've been calling heroic societies, of course this kind of addition and subtraction of honor and disgrace is lifted from a somewhat marginal practice to become the very essence of politics. As endless epics, sagas, and eddas attest, heroes become heroes by making others small. In Ireland and Wales, we can observe how this very ability to degrade others, to remove unique human beings from their hearths and families and thus render them anonymous units of accounting-the Irish slave-girl currency, the Welsh washerwomen-is itself the highest expression of honor.
 
-In heroic societies, the role of violence is not hidden-it's glorified. Often, it can form the basis of one's most intimate relations. In the Iliad, Achilles sees nothing shameful in his relation with his slave-girl, Briseis, whose husband and brothers he killed; he refers to her as his "prize of honor," but almost in the very same breath, he also insists that, just any decent man must love and care for his household dependents, "so I from my heart loved this one, even though I won her with my spear." <sup>127</sup>
+In heroic societies, the role of violence is not hidden-it's glorified. Often, it can form the basis of one's most intimate relations. In the Iliad, Achilles sees nothing shameful in his relation with his slave-girl, Briseis, whose husband and brothers he killed; he refers to her as his "prize of honor," but almost in the very same breath, he also insists that, just any decent man must love and care for his household dependents, "so I from my heart loved this one, even though I won her with my spear." 127
 
 That such relations of intimacy can often develop between men of honor and those they have stripped of their dignity, history can well attest. After all, the annihilation of any possibility of equality also eliminates any question of debt, of any relation other than power. It allows a certain clarity. This is presumably why emperors and kings have such a notorious tendency to surround themselves with slaves or eunuchs.
 
@@ -2008,7 +2020,7 @@ From there, the innovation spread. For more than a thousand years, states everyw
 
 If we look at Eurasian history over the course of the last five thousand years, what we see is a broad alternation between periods dominated by credit money and periods in which gold and silver come to dominate-that is, those during which at least a large share of transactions were conducted with pieces of valuable metal being passed from hand to hand.
 
-Why? The single most important factor would appear to be war. Bullion predominates, above all, in periods of generalized violence. There's a very simple reason for that. Gold and silver coins are distinguished from credit arrangements by on� spectacular feature: they can be stolen. A debt is, by definition, a record, as well as a relation of trust. Someone accepting gold or silver in exchange for merchandise, on the other hand, need trust nothing more than the accuracy of the scales, the quality of the metal, and the likelihood that someone else will be willing to accept it. In a world where war and the threat of violence are everywhere-and this appears to have been an equally accurate description of Warring States China, Iron Age Greece, and pre-Mauryan India-there are obvious advantages to making one's transactions simple. This is all the more true when dealing with soldiers. On the one hand, soldiers tend to have access to a great deal of loot, much of which consists of gold and silver, and will always seek a way to trade it for the better things in life. On the other, a heavily armed itinerant soldier is the very definition of a poor credit risk. The economists' barter scenario might be absurd when applied to transactions between neighbors in the same small rural community, but when dealing with a transaction between the resident of such a community and a passing mercenary, it suddenly begins to make a great deal of sense.
+Why? The single most important factor would appear to be war. Bullion predominates, above all, in periods of generalized violence. There's a very simple reason for that. Gold and silver coins are distinguished from credit arrangements by on spectacular feature: they can be stolen. A debt is, by definition, a record, as well as a relation of trust. Someone accepting gold or silver in exchange for merchandise, on the other hand, need trust nothing more than the accuracy of the scales, the quality of the metal, and the likelihood that someone else will be willing to accept it. In a world where war and the threat of violence are everywhere-and this appears to have been an equally accurate description of Warring States China, Iron Age Greece, and pre-Mauryan India-there are obvious advantages to making one's transactions simple. This is all the more true when dealing with soldiers. On the one hand, soldiers tend to have access to a great deal of loot, much of which consists of gold and silver, and will always seek a way to trade it for the better things in life. On the other, a heavily armed itinerant soldier is the very definition of a poor credit risk. The economists' barter scenario might be absurd when applied to transactions between neighbors in the same small rural community, but when dealing with a transaction between the resident of such a community and a passing mercenary, it suddenly begins to make a great deal of sense.
 
 For much of human history, then, an ingot of gold of silver, stamped or not, has served the same role as the contemporary drug dealer's suitcase full of unmarked bills: an object without a history, valuable because one knows it will be accepted in exchange for other goods j ust about anywhere, no questions asked. As a result, while credit systems tend to dominate in periods of relative social peace, or across networks of trust (whether created by states or, in most periods, transnational institutions like merchant guilds or communities of faith), in periods characterized by widespread war and plunder, they tend to be replaced by precious metal. What's more, while predatory lending goes on in every period of human history, the resulting debt crises appear to have the most damaging effects at times when money is most easily convertible into cash.
 
@@ -2024,7 +2036,7 @@ could circulate as the equivalent of a five-shekel promissory note-that is, as m
 
 We don't know how often this happened; how many hands such tablets would typically pass through, how many transactions were based on credit, how often merchants actually did weigh out silver in rough chunks to buy and sell their merchandise, or when they were most likely to do so. No doubt all this varied over time. Promissory notes usually circulated within merchant guilds, or between inhabitants of the relatively well-off urban neighborhoods where people knew one another well enough to trust them to be accountable, but not so well that they could rely on one another for more traditional forms of mutual aid.6 We know even less about the marketplaces frequented by ordinary Mesopotamians, except that tavern-keepers operated on credit, and hawkers and operators of market stalls probably did as welJ.7
 
-The origins of interest will forever remain obscure, since they preceded the invention of writing. The terminology for interest in most ancient languages is derived from some word for "offspring," causing some to speculate that it originates in loans of livestock, but this seems a bit literal-minded. More likely, the first widespread interest-bearing loans were commercial: temples and palaces would forward wares to merchants and commercial agents, who would then trade them in nearby mountain kingdoms or on trading expeditions overseas. <sup>H</sup>
+The origins of interest will forever remain obscure, since they preceded the invention of writing. The terminology for interest in most ancient languages is derived from some word for "offspring," causing some to speculate that it originates in loans of livestock, but this seems a bit literal-minded. More likely, the first widespread interest-bearing loans were commercial: temples and palaces would forward wares to merchants and commercial agents, who would then trade them in nearby mountain kingdoms or on trading expeditions overseas. H
 
 The practice is significant because it implies a fundamental lack of trust. After all, why not simply demand a share in the profits? This seems more fair (a merchant who came back bankrupt would probably have little means of paying anyway) , and profit-sharing partnerships of this sort became common practice in the later Middle East.9 The answer seems to be that profit-sharing partnerships were typically contracted between merchants, or anyway people of similar background and experience who had ways of keeping track of one another. Palace or temple bureaucrats and world-roaming merchant adventurers had little in common, and the bureaucrats seem to have concluded that one could not normally expect a merchant returned from a far-off land to be entirely honest about his adventures. A fixed interest rate would render irrelevant whatever elaborate tales of robbery, shipwreck, or attacks by winged snakes or elephants a creative merchant might have concocted. The return was fixed in advance.
 
@@ -2144,7 +2156,7 @@ Geoffrey Ingham calls the resulting system a " military-coinage complex"-though 
 
 Alexander was also the man responsible for destroying what remained of the ancient credit systems, since not only the Phoenicians but also the old Mesopotamian heartland had resisted the new coin economy. His armies not only destroyed Tyre; they also dethesaurized the gold and silver reserves of Babylonian and Persian temples, the security on which their credit systems were based, and insisted that all taxes to his new government be paid in his own money. The result was to "release the accumulated specie of century onto the market in a matter of months," something like 18o, ooo talents, or in contemporary terms, an estimated \$285 billion.23
 
-The Hellenistic successor kingdoms established by Alexander's generals, from Greece to India, employed mercenaries rather than national armies, but the story of Rome is, again, similar to that of Athens. Its early history, as recorded by official chroniclers like Livy, is one of continual struggles between patricians and plebians, and of continual crises over debt. Periodically, these would lead to what were called moments of "the secession of the plebs," when the commoners of the city abandoned their fields and workshops, camped outside the city, and threatened mass defection-an interesti�g halfway point between the popular revolts of Greece and the strategy of exodus typically pursued in Egypt and Mesopotamia. Here, too, the patricians were ultimately faced with a decision: they could use agricultural loans to gradually turn the plebian population into a class of bonded laborers on their estates, or they could accede to popular demands for debt protection, preserve a free peasantry, and employ the younger sons of free farm families as soldiers.24 As the prolonged history of crises, secessions, and reforms makes clear, the choice was made grudgingly.25 The plebs practically had to force the senatorial class to take the imperial option. Still, they did, and over time they gradually presided over the establishment of a welfare system that recycled at least a share of the spoils to soldiers, veterans, and their families.
+The Hellenistic successor kingdoms established by Alexander's generals, from Greece to India, employed mercenaries rather than national armies, but the story of Rome is, again, similar to that of Athens. Its early history, as recorded by official chroniclers like Livy, is one of continual struggles between patricians and plebians, and of continual crises over debt. Periodically, these would lead to what were called moments of "the secession of the plebs," when the commoners of the city abandoned their fields and workshops, camped outside the city, and threatened mass defection-an interestig halfway point between the popular revolts of Greece and the strategy of exodus typically pursued in Egypt and Mesopotamia. Here, too, the patricians were ultimately faced with a decision: they could use agricultural loans to gradually turn the plebian population into a class of bonded laborers on their estates, or they could accede to popular demands for debt protection, preserve a free peasantry, and employ the younger sons of free farm families as soldiers.24 As the prolonged history of crises, secessions, and reforms makes clear, the choice was made grudgingly.25 The plebs practically had to force the senatorial class to take the imperial option. Still, they did, and over time they gradually presided over the establishment of a welfare system that recycled at least a share of the spoils to soldiers, veterans, and their families.
 
 It seems significant, in this light, that the traditional date of the first Roman coinage-338 Be-is almost exactly the date when debt bondage was finally outlawed (326 BC) .26 Again, coinage, minted from war spoils, didn't cause the crisis. It was used as a solution.
 
@@ -2262,7 +2274,7 @@ Still, the end-point was roughly the same. The Confucian ideal of ren, of humane
 
 As in the near presence of death, despise poor flesh, this refuse of blood and bones, this web and tissue of nerves and veins and arteries.
 
--Marcus Aurelius, Meditations 2 . <sup>2</sup>
+-Marcus Aurelius, Meditations 2 . 2
 
 Taking pity on the hungry wolf, Wenshuang announced, "I do not covet this filthy bag of meat. I give it over to you that I may quickly acquire a body of more enduring strength . This donation will help benefit us both."
 
@@ -2492,7 +2504,8 @@ From a world-historical perspective, it seems much more sensible to see Judaism,
 
 ## Popu lations and Tax Revenue, 350 BC-1200 AD
 
-| | Population | Revenue | Revenue<br>per Head |
+| | Population | Revenue | Revenue
+per Head |
 |----------------------|------------|----------------|---------------------|
 | | Millions | Tons of Silver | Grams of Silver |
 | Persia, c. BC 350 | I7 | 697 | 4I |
@@ -2571,7 +2584,7 @@ All this is not to say that Tusi was in any sense a radical egalitarian. Quite t
 
 Ghazali's take on the division of labor is similar, and his account of the origins of money is if anything even more revealing. It begins with what looks much like the myth of barter, except that, like all Middle Eastern writers, he starts not with imaginary primitive tribesmen, but with strangers meeting in an imaginary marketplace.
 
-Sometimes a person needs what he does not own and he owns what he does not need. For example, a person h�s saffron but needs a camel for transportation and one who owns a camel does not presently need that camel but he wants saffron. Thus, there is the need for an exchange. However, for there to be an exchange, there must be a way to measure the two objects, for the camel-owner cannot give the whole camel for a quantity of saffron. There is no similarity between saffron and camel so that equal amount of that weight and form can be given. Likewise is the case of one who desires a house but owns some cloth or desires a slave but owns socks, or desires flour but possesses a donkey. These goods have no direct proportionality so one cannot know how much saffron will equal a camel's worth. Such barter transactions would be very difficult.89
+Sometimes a person needs what he does not own and he owns what he does not need. For example, a person hs saffron but needs a camel for transportation and one who owns a camel does not presently need that camel but he wants saffron. Thus, there is the need for an exchange. However, for there to be an exchange, there must be a way to measure the two objects, for the camel-owner cannot give the whole camel for a quantity of saffron. There is no similarity between saffron and camel so that equal amount of that weight and form can be given. Likewise is the case of one who desires a house but owns some cloth or desires a slave but owns socks, or desires flour but possesses a donkey. These goods have no direct proportionality so one cannot know how much saffron will equal a camel's worth. Such barter transactions would be very difficult.89
 
 Ghazali also notes that there might also be a problem of one person not even needing what the other has to offer, but this is almost an afterthought; for him, the real problem is conceptual. How do you compare two things with no common qualities? His conclusion: it can only be done by comparing both to a third thing with no qualities at all. For this reason, he explains, God created dinars and dirhams, coins made out of gold and silver, two metals that are otherwise no good for anything:
 
@@ -2691,7 +2704,7 @@ The curious thing is that it bears almost no relation to reality. Nothing remote
 
 This is important, since it lies at the very heart of our image of the Middle Ages-and the explanation, I think, is revealing. We have to recall that merchants had begun to achieve unprecedented social and even political power around this time, but that, in dramatic contrast to Islam, where a figure like Sindbad-the successful merchant adventurercould serve as a fictional exemplar of the perfect life, merchants, unlike warriors, were never seen as paragons of much of anything.
 
-It's likely no coincidence that Chretien was living in Troyes, at the very heartland of the Champagne fairs that had become, in turn, the commercial hub of Western Europe.138 While he appears to have modeled his vision of Camelot on the elaborate court life under his patron Henri the Liberal (n52-n8I) , Count of Champagne, and his wife Marie, daughter of Eleanor of Aquitaine, the real court was staffed by lowborn commer�ants, who served as serjeants of the fairs-leaving most real knights in the role of onlookers, guards, or-at tournamentsentertainers.
+It's likely no coincidence that Chretien was living in Troyes, at the very heartland of the Champagne fairs that had become, in turn, the commercial hub of Western Europe.138 While he appears to have modeled his vision of Camelot on the elaborate court life under his patron Henri the Liberal (n52-n8I) , Count of Champagne, and his wife Marie, daughter of Eleanor of Aquitaine, the real court was staffed by lowborn commerants, who served as serjeants of the fairs-leaving most real knights in the role of onlookers, guards, or-at tournamentsentertainers.
 
 This is not to say that tournaments did not become a kind of economic focus in their own right, according to one early twentiethcentury Medievalist, Amy Kelly:
 
@@ -2743,15 +2756,15 @@ Compare the Greek dictionary above to the following, from a Chinese dictionary:
 
 FU. To agree with, to tally. The two halves of a tally.
 
-- <sup>o</sup>evidence; proof of identity, credentials
-- <sup>o</sup>to fulfill a promise, to keep one's word
-- <sup>o</sup>to reconcile
-- <sup>o</sup>the mutual agreement between Heaven's appointment and human affairs
-- <sup>o</sup>a tally, a check
-- <sup>o</sup>an imperial seal or stamp
-- <sup>o</sup>a warrant, a commission, credentials
-- <sup>o</sup>like fitting the two halves of a tally, in exact agreement
-- <sup>o</sup>a symbol, a sign ... 159
+- oevidence; proof of identity, credentials
+- oto fulfill a promise, to keep one's word
+- oto reconcile
+- othe mutual agreement between Heaven's appointment and human affairs
+- oa tally, a check
+- oan imperial seal or stamp
+- oa warrant, a commission, credentials
+- olike fitting the two halves of a tally, in exact agreement
+- oa symbol, a sign ... 159
 
 The evolution is almost exactly the same. Like symbola, fu can be tallies, contracts, official seals, warrants, passports, or credentials. As promises, they can embody an agreement, a debt contract, or even a relation of feudal vassalage--since a minor lord agreeing to become another man's vassal would split a tally j ust as he would if borrowing grain or money. The common feature seems to be a contract between two parties that begin as equal, in which one agrees to become subordinate. Later, as the state became more centralized, we mainly hear about fu presented to officials as a means of conveying order: the official would take the left half with him when posted to the provinces, and when the emperor wished to send an important command, he would send the right half with the messenger to make sure that the official knew it was actually the imperial will. 160
 
@@ -2821,7 +2834,7 @@ The problem with the conventional story is that very little of that gold and sil
 
 #### I I I I I
 
-After the Mongols conquered China in 1271, they kept the system of paper money in place, and even made occasional (if usually disastrous) attempts to introduce it in the other parts of their empire. In 1368, however, they were overthrown by another of China's great popular insurrections, and a former peasant leader was once again installed <sup>m</sup>power.
+After the Mongols conquered China in 1271, they kept the system of paper money in place, and even made occasional (if usually disastrous) attempts to introduce it in the other parts of their empire. In 1368, however, they were overthrown by another of China's great popular insurrections, and a former peasant leader was once again installed mpower.
 
 During their century of rule, the Mongols had worked closely with foreign merchants, who became widely detested. Partly as a result, the former rebels, now the Ming dynasty, were suspicious of commerce in any form, and they promoted a romantic vision of self-sufficient agrarian communities. This had some unfortunate consequences. For one thing, it meant the maintenance of the old Mongol tax system, paid in labor and in kind; especially since that, in turn, was based on a quasicaste system in which subjects were registered as farmers, craftsmen, or soldiers and forbidden to change their jobs. This proved extraordinarily unpopular. While government investment in agriculture, roads, and canals did set off a commercial boom, much of this commerce was technically illegal, and taxes on crops were so high that many indebted farmers began to flee their ancestral lands.4
 
@@ -2889,7 +2902,7 @@ Serious complaints were made about this, and the only remedy that Cortes provide
 
 Spanish merchants soon arrived charging wildly inflated prices for basic necessities, causing further outrage, until:
 
-Our general becoming weary of the continual reproaches which were thrown out against him, saying he had stolen everything for himself, and the endless petitions for loans and advance in pay, determined at once to get rid of the most troublesome fellows, by forming settlements in those provinces which appeared most eligible for this purpose. <sup>18</sup>
+Our general becoming weary of the continual reproaches which were thrown out against him, saying he had stolen everything for himself, and the endless petitions for loans and advance in pay, determined at once to get rid of the most troublesome fellows, by forming settlements in those provinces which appeared most eligible for this purpose. 18
 
 These were the men who ended up in control of the provinces, and who established local administration, taxes, and labor regimes. Which makes it a little easier to understand the descriptions of Indians with their faces covered by names like so many counter-endorsed checks, or the mines surrounded by miles of rotting corpses. We are not dealing with a psychology of cold, calculating greed, but of a much more complicated mix of shame and righteous indignation, and of the frantic urgency of debts that would only compound and accumulate (these were, almost certainly, interest-bearing loans) , and outrage at the idea that, after all they had gone through, they should be held to owe anything to begin with.
 
@@ -2935,7 +2948,7 @@ Casimir was the son of Margrave Friedrich the Elder of Brandenburg, who has come
 
 All agree, however, that he was poor at managing his money. At the beginning of ISIS, Friedrich was in such financial trouble-he is said to have owed 2oo, ooo guilders-that he alerted his creditors, mostly fellow nobles, that he might soon be forced to temporarily suspend interest payments on his debts. This seems to have caused a crisis of faith, and within a matter of weeks, his son Casimir staged a palace coup-moving, in the early hours of February 26, ISIS, to seize control of the castle of Plassenburg while his father was distracted with the celebration of Carnival, then forcing him to sign papers abdicating for reason of mental infirmity. Friedrich spent the rest of his life confined in Plassenburg, denied all visitors and correspondence. When at one point his guards requested that the new Margrave provide a couple guilders so he could pass the time gambling with them, Casimir made a great public show of refusal, stating (ridiculously, of course) that his father had left his affairs in such disastrous shape that he could not possibly afford toY
 
-Casimir dutifully doled out governorships and other prize offices to his father's creditors. He tried to get his house in order, but this proved �urprisingly difficult. His enthusiastic embrace of Luther's reforms in 1521 clearly had as much to do with the prospect of getting his hands on Church lands and monastic assets than with any particular religious fervor. Yet at first, the disposition of Church property remained moot, and Casimir himself compounded his problems by running up gambling debts of his own said to have amounted to nearly 5o, ooo guilders.34
+Casimir dutifully doled out governorships and other prize offices to his father's creditors. He tried to get his house in order, but this proved urprisingly difficult. His enthusiastic embrace of Luther's reforms in 1521 clearly had as much to do with the prospect of getting his hands on Church lands and monastic assets than with any particular religious fervor. Yet at first, the disposition of Church property remained moot, and Casimir himself compounded his problems by running up gambling debts of his own said to have amounted to nearly 5o, ooo guilders.34
 
 Placing his creditors in charge of the civil administration had predictable effects: increasing exactions on his subj ects, many of whom became hopelessly indebted themselves. Unsurprisingly, Casimir's lands in the Tauber Valley in Franconia became one of the epicenters of the revolt of 1525 . Bands of armed villagers assembled, declaring they would obey no law that did not accord with "the holy word of God." At first, the nobles, isolated in their scattered castles, offered little resistance. The rebel leaders-many of them local shopkeepers, butchers, and other prominent men from nearby towns-began with a largely orderly campaign of tearing down castle fortifications, their knightly occupants being offered guarantees of safety if they cooperated, agreed to abandon their feudal privileges, and swore oaths to abide by the rebels' Twelve Articles. Many complied. The real venom of the rebels was reserved for cathedrals and monasteries, dozens of which were sacked, pillaged, and destroyed.
 
@@ -3272,11 +3285,11 @@ The U. S. military, unlike any other, maintains a doctrine of global power proje
 
 ## ![](_page_373_Figure_1.jpeg)
 
-of U. S. military predominance in the world is, ultimately, the fact that it can, at will, drop bombs, with only a few hours' notice, at absolutely any point on the surface of the planet.<sup>11</sup> No other government has ever had anything remotely like this sort of capability. In fact, a case could well be made that it is this very power that holds the entire world monetary system, organized around the dollar, together.
+of U. S. military predominance in the world is, ultimately, the fact that it can, at will, drop bombs, with only a few hours' notice, at absolutely any point on the surface of the planet.11 No other government has ever had anything remotely like this sort of capability. In fact, a case could well be made that it is this very power that holds the entire world monetary system, organized around the dollar, together.
 
 Because of United States trade deficits, huge numbers of dollars circulate outside the country; and one effect of Nixon's floating of the dollar was that foreign central banks have little they can do with these dollars except to use them to buy U. S. treasury bonds. This is what is meant by the dollar becoming the world's "reserve currency." These bonds are, like all bonds, supposed to be loans that will eventually mature and be repaid, but as economist Michael Hudson, who first began observing the phenomenon in the early '70s, noted, they never really do:
 
-To the extent that these Treasury IOUs are being built into the world's monetary base they will not have to be repaid, but are to be rolled over indefinitely. This feature is the essence of America's free financial ride, a tax imposed at the entire globe's expense.<sup>13</sup>
+To the extent that these Treasury IOUs are being built into the world's monetary base they will not have to be repaid, but are to be rolled over indefinitely. This feature is the essence of America's free financial ride, a tax imposed at the entire globe's expense.13
 
 What's more, over time, the combined effect of low interest payments and the inflation is that these bonds actually depreciate in value-adding to the tax effect, or as I preferred to put it in the first chapter, "tribute." Economists prefer to call it "seigniorage." The effect, though, is that American imperial power is based on a debt that will never-can never-be repaid. Its national debt has become a promise, not j ust to its own people, but to the nations of the entire world, that everyone knows will not be kept.
 
@@ -3320,7 +3333,7 @@ Again, it's never clear whether the money siphoned from Asia to support the U. S
 
 From a longer-term perspective, China's behavior isn't puzzling at all. In fact it's quite true to form. The unique thing about the Chinese empire is that it has, since the Han dynasty at least, adopted a peculiar sort of tribute system whereby, in exchange for recognition of the Chinese emperor as world-sovereign, they have been willing to shower their client states with gifts far greater than they receive in return. The technique seems to have been developed almost as a kind of trick when dealing with the "northern barbarians" of the steppes, who always threatened Chinese frontiers: a way to overwhelm them with such luxuries that they would become complacent, effeminate, and unwarlike. It was systematized in the "tribute trade" practiced with client states like Japan, Taiwan, Korea, and various states of Southeast Asia, and for a brief period from 1405 to 1433, it even extended to a world scale, under the famous eunuch admiral Zheng He. He led a series of seven expeditions across the Indian Ocean, his great "treasure fleet"-in dramatic contrast to the Spanish treasure fleets of a century later-carrying not only thousands of armed marines, but endless quantities of silks, porcelain, and other Chinese luxuries to present to those local rulers willing to recognize the authority of the emperor.20 All this was ostensibly rooted in an ideology of extraordinary chauvinism ( "What could these barbarians possibly have that we really need, anyway?") , but, applied to China's neighbors, it proved extremely wise policy for a wealthy empire surrounded by much smaller but potentially troublesome kingdoms. In fact, it was such wise policy that the U. S. government, during the Cold War, more or less had to adopt it, creating remarkably favorable terms of trade for those very states-Korea, Japan, Taiwan, certain favored allies in Southeast Asia-that had been the traditional Chinese tributaries; in this case, in order to contain China.21
 
-Bearing all this in mind, the current picture begins to fall easily back into place. When the United �tates was far and away the predominant world economic power, it could afford to maintain Chinese-style tributaries. Thus these very states, alone amongst U. S. military protectorates, were allowed to catapult themselves out of poverty and into first-world status.22 After 1971, as U. S. economic strength relative to the rest of the world began to decline, they were gradually transtormed back into a more old-fashioned sort of tributary. Yet China's getting in on the game introduced an entirely new element. There is every reason to believe that, from China's point of view, this is the first stage of a very long process of reducing the United States to something like a traditional Chinese client state. And of course, Chinese rulers are not, any more than the rulers of any other empire, motivated primarily by benevolence. There is always a political cost, and what that headline marked was the first glimmerings of what that cost might ultimately be.
+Bearing all this in mind, the current picture begins to fall easily back into place. When the United tates was far and away the predominant world economic power, it could afford to maintain Chinese-style tributaries. Thus these very states, alone amongst U. S. military protectorates, were allowed to catapult themselves out of poverty and into first-world status.22 After 1971, as U. S. economic strength relative to the rest of the world began to decline, they were gradually transtormed back into a more old-fashioned sort of tributary. Yet China's getting in on the game introduced an entirely new element. There is every reason to believe that, from China's point of view, this is the first stage of a very long process of reducing the United States to something like a traditional Chinese client state. And of course, Chinese rulers are not, any more than the rulers of any other empire, motivated primarily by benevolence. There is always a political cost, and what that headline marked was the first glimmerings of what that cost might ultimately be.
 
 #### I I I I I
 
@@ -3432,7 +3445,7 @@ Much of the existing economic literature on credit and banking, when it turns to
 
 This gave rise to a second line of argument: that no doubt the rich were the major creditors in the ancient world, but now the situation has been reversed. So Ludwig von Mises, writing in the 1930s, around the time when Keynes was calling for the euthanasia of the rentiers:
 
-Public opinion has always been biased against creditors. It identifies creditors with the idle rich and debtors with the industrious poor. It abhors the former as ruthless exploiters and pities the latter as innocent victims of oppression. It considers government action designed to curtail the claims of the creditors as measures extremely beneficial to the immense majority at the expense of a small minority of hardboiled usurers. It did not notice at all that nineteenth-century capitalist innovations have wholly changed the composition of the classes of creditors and debtors. In the days of Solon the Athenian, of ancient Rome's agrarian laws, and of the Middle Ages, the creditors were by and large the rich and the debtors the poor. But in this age of bonds and debentures, mortgage banks, saving banks, life insurance policies, and social security benefits, the masses of people with more moderate income are rather themselves creditors. <sup>39</sup>
+Public opinion has always been biased against creditors. It identifies creditors with the idle rich and debtors with the industrious poor. It abhors the former as ruthless exploiters and pities the latter as innocent victims of oppression. It considers government action designed to curtail the claims of the creditors as measures extremely beneficial to the immense majority at the expense of a small minority of hardboiled usurers. It did not notice at all that nineteenth-century capitalist innovations have wholly changed the composition of the classes of creditors and debtors. In the days of Solon the Athenian, of ancient Rome's agrarian laws, and of the Middle Ages, the creditors were by and large the rich and the debtors the poor. But in this age of bonds and debentures, mortgage banks, saving banks, life insurance policies, and social security benefits, the masses of people with more moderate income are rather themselves creditors. 39
 
 Whereas the rich, with their leveraged companies, are now the principal debtors. This is the "democratization of finance" argument and it is nothing new: whenever there are some people calling for the elimination of the class that lives by collecting interest, there will be others to object that this will destroy the livelihood of widows and pensi Oners.
 
@@ -3598,7 +3611,7 @@ In the case of the oldest Sanskrit texts, religious literature is all we have. W
 - 53 · I am following what I believe is still the predominant view; though at least in some places Palaces were in charge of pretty much everything from quite early on, and Temples quite subordinate (see Maekawa 1973-1974). There is lively debate about this, as with the balance of temple, palace, clan, and individual holdings in different times and places, but I have avoided going into such debates, however interesting, unless they have a direct bearing on my argument.
 - 54· I am following Hudson's interpretation (2002) , though others-e.g, Steinkeller 1981, Mieroop 2002:64-suggest that interest may have instead originated in rental fees.
 - 55· For a good summary, Hudson 1993, 2002. The meaning of amargi is first noted in Falkenstein (1954), see also Kramer (1963:79, Lemche (1979:16n34).
-- 56. In ancient Egypt there were no loans at interest, and we know relatively little about other early empires, so we don't know how unusual this was. But the Chinese evidence is at the very least suggestive. Chinese theories of money were always resolutely Chartalist; and in the standard story about the origins of coinage, since at least Han times, the mythic founder of the Shang dynasty, upset to see so many families having to sell their children during famines, created coins so that t�e government could redeem the children and return them to their families (see chapter 8, below) .
+- 56. In ancient Egypt there were no loans at interest, and we know relatively little about other early empires, so we don't know how unusual this was. But the Chinese evidence is at the very least suggestive. Chinese theories of money were always resolutely Chartalist; and in the standard story about the origins of coinage, since at least Han times, the mythic founder of the Shang dynasty, upset to see so many families having to sell their children during famines, created coins so that te government could redeem the children and return them to their families (see chapter 8, below) .
 - 57· What is sacrifice, after all, but a recognition that an act such as taking an animal's life, even if necessary for our sustenance, is not an act to be taken lightly, but with an attitude of humility before the cosmos?
 - 58. Unless the recipient is owed money by the creditor, allowing everyone to cancel their debts in a circle. This might seem an extraneous point, but the circular cancellation of debts in this way seems to have been quite a common practice in much of history: see, for instance, the description of "reckonings" in chapter n below.
 
@@ -3746,25 +3759,25 @@ In the case of the oldest Sanskrit texts, religious literature is all we have. W
 - 4· On cumal see Nolan 1926, Einzig 1949:247-48, Gerriets 1978, 1981, 1985, Patterson 1982:168-69, Kelly 1998:112-13. Most merely emphasize that cumal were just used as units of account and we don't know anything about earlier practices. It's notable, though, that in the law codes, when several different commodities are used as units of account, they will include that country's most significant exports, and trade currency (that's why in Russian codes, the units were fur and silver). This would imply a significant trade in female slaves in the period just before written records.
 
 - 5. So Bender 1996.
-- 6. Here I am drawing on the detailed ethnographic survey work of Alain Testart (2000, 2001, 2002). Testart does a magnificent job synthesizing the evidence, though he too—as we'll see in the next chapter—has some equally strange blind spots in his conclusions.
-- 7. "Although the rhetorical phrase 'selling one's daughter into prostitution' has wide currency . . . the actual arrangement is more often presented as either a loan to the family or an advance payment for the girl's (usually unspecified or misrepresented) services. The interest on these 'loans' is often 100 percent, and the principal may be increased by other debts—for living expenses, medical care, bribes to officials—accrued once the girl has begun work" (Bishop & Robinson 1998:105).
+- 6. Here I am drawing on the detailed ethnographic survey work of Alain Testart (2000, 2001, 2002). Testart does a magnificent job synthesizing the evidence, though he too--as we'll see in the next chapter--has some equally strange blind spots in his conclusions.
+- 7. "Although the rhetorical phrase 'selling one's daughter into prostitution' has wide currency . . . the actual arrangement is more often presented as either a loan to the family or an advance payment for the girl's (usually unspecified or misrepresented) services. The interest on these 'loans' is often 100 percent, and the principal may be increased by other debts--for living expenses, medical care, bribes to officials--accrued once the girl has begun work" (Bishop & Robinson 1998:105).
 - 8. So Michael Hudson (cited in Wray 1999), but it's clear enough if one looks at the language of the original: "Thou shalt not covet thy neighbour's house, thou shalt not covet thy neighbour's wife, nor his manservant, nor his maidservant, nor his ox, nor his ass, nor any thing that is thy neighbour's" (Exodus 20:17, Deuteronomy 5:21).
-- 9. Wampum is a good example: Indians never seem to have used it to buy things from other members of the same community, although it was regularly used in conducting trade with settlers (see Graeber 2001:117–150). Others, like Yurok shell money or some Papuan currencies, are widely used as currencies in addition to their social functions, but the first seems to have emerged from the second.
+- 9. Wampum is a good example: Indians never seem to have used it to buy things from other members of the same community, although it was regularly used in conducting trade with settlers (see Graeber 2001:117-150). Others, like Yurok shell money or some Papuan currencies, are widely used as currencies in addition to their social functions, but the first seems to have emerged from the second.
 - 10. The most important texts on the "brideprice debate": Evans-Pritchard 1931, Raglan 1931, Gray 1968, Comaroff 1980, Valeri 1994. One reason why
 
 Evans-Pritchard originally proposed to change the name from "brideprice" to "bridewealth" because the League of Nations had in 1926 outlawed the practice as a form of slavery (Guyer 1994).
 
 - 11. On Tiv kinship and economy: Duggan 1932; Abraham 1933; Downes 1933; Akiga 1939; L. Bohannan 1952; P. Bohannan 1955, 1957, 1959; P. & L. Bohannan 1953, 1968, Tseayo 1975; Keil 1979.
 - 12. Akiga Sai 1939:106 for a good analysis of how this could happen. For a later comparative reanalysis in regional perspective, see Fardon 1984, 1985.
-- 13. Paul Bohannan puts it: "The *kem* relationship of debt between a man and his wife's guardian is never broken, because *kem* is perpetual, the debt can never be fully paid." (1957:73.) Otherwise the account is from Akiga (1939:126–127).
+- 13. Paul Bohannan puts it: "The *kem* relationship of debt between a man and his wife's guardian is never broken, because *kem* is perpetual, the debt can never be fully paid." (1957:73.) Otherwise the account is from Akiga (1939:126-127).
  - 14. Rospabé 1993:35.
  - 15. Evans-Pritchard 1940:153.
 - 16. As the ethnographer puts it, "that they are accepting the cattle only in order to honour him and not because they are ready to take cattle for the life of their dead kinsman." (1940:153)
  - 17. Op cit 154-155.
 - 18. Morgan 1851:332. Morgan, a lawyer by training, is using a technical term here, "condonation," which the Oxford English Dictionary defines as "the voluntary overlooking of an offence."
-- 19. Morgan 1851:333. The baseline was five fathoms for a man, ten for a woman, but other factors might intervene (T. Smith 1983:236; Morgan 1851:331—34; Parker 1926). On "mourning wars" see Richter 1983; the expression "putting his name upon the mat" is from Fenton 1978:315. Incidentally I am assuming it's a man who dies, since these are the examples in the sources. It's not clear if the same was done for women who died naturally.
-- 20. Evans-Pritchard 1940:155, 1951:109–11; Howell 1954:71–80, Gough 1971, Hutchinson 1996:62, 175–76.
-- 21. Rospabe 1995:47–48, citing Peters 1947.
+- 19. Morgan 1851:333. The baseline was five fathoms for a man, ten for a woman, but other factors might intervene (T. Smith 1983:236; Morgan 1851:331--34; Parker 1926). On "mourning wars" see Richter 1983; the expression "putting his name upon the mat" is from Fenton 1978:315. Incidentally I am assuming it's a man who dies, since these are the examples in the sources. It's not clear if the same was done for women who died naturally.
+- 20. Evans-Pritchard 1940:155, 1951:109-11; Howell 1954:71-80, Gough 1971, Hutchinson 1996:62, 175-76.
+- 21. Rospabe 1995:47-48, citing Peters 1947.
 
 - 22. On mourning war: Richter 1983. Interestingly, something similar occurred among the Nambikwara. I mentioned in chapter 3 that the feasts held after barter could lead to seductions and jealous murders; Levi-Strauss adds that the ordinary way of resolving such murders is for the killer to marry the victim's wife, adopt his children, and thus, efft!ctively, become the person the victim used to be (1943:12.3).
 - 23. Though people did use them to commission certain fancy craft goods (say, musical instruments) from specialists in other villages (1963:54-55).
@@ -3891,7 +3904,7 @@ Evans-Pritchard originally proposed to change the name from "brideprice" to "bri
 
 - 3· Elwahid I93L Clarence-Smith (2oo8:I7n56) notes that ai-Wahid's book itself emerged from within lively debates in the Middle East about the role of slavery in Islam that had been going on at least since the mid-nineteenth century.
 - 4· Elwahid I93I: IOI-IO, and passim. An analogous list appears in Patterson I982:I05.
-- 5· The sale of children was always felt to be a sign of economic and moral breakdown; even later Roman emperors like Diocletian, notes ai-Wahid, supported charities aimed to provide relief for poor families explicitly so they would not have to resort to things like this (Eiwahed I93I: 8�I).
+- 5· The sale of children was always felt to be a sign of economic and moral breakdown; even later Roman emperors like Diocletian, notes ai-Wahid, supported charities aimed to provide relief for poor families explicitly so they would not have to resort to things like this (Eiwahed I93I: 8I).
  - 6. Mitamura I970.
 - 7· Debt slavery, he notes, was practiced in early Roman history, but this is because according to the laws of the twelve tablets, insolvent debtors could actually be killed. In most places, where this was not possible, debtors were not fully enslaved by reduced to pawns or peons (see Testart 20oo, 2002, for a full explanation of the different possibilities).
 - 8. AI-Wahid cites examples from Athenaeus of Greek patients who offered themselves as slaves to doctors who had saved their lives (op cit:234)
@@ -4166,13 +4179,13 @@ n9. Tuck 1979:49, cf. Tully 1993:252, Blackburn 1997=63-64.
  - 21. Mac Donald 2006:43.
 - 22. On Alexander's armies monetary needs, Davies 1996:80 in turn, 83; on his logistics more generally, Engels 1978. The figure 120,000 includes not only actual troops but servants, camp-followers, and so forth.
  - 23. Green 1993:366.
-- 24. The Roman institution was called nexum, and we don't know entirely how it worked: i.e., whether it was a form of labor contract, whereby one worked off the debt for a fixed term, or something more like African pawn systems, where the debtor—and his or her children—served in conditions roughly like those of a slave until redemption (see Testart 2002)
+- 24. The Roman institution was called nexum, and we don't know entirely how it worked: i.e., whether it was a form of labor contract, whereby one worked off the debt for a fixed term, or something more like African pawn systems, where the debtor--and his or her children--served in conditions roughly like those of a slave until redemption (see Testart 2002)
 
-for the possibilities). See Buckler 1895, Brunt 1974, Cornell 1994:266–67, 330–32.
+for the possibilities). See Buckler 1895, Brunt 1974, Cornell 1994:266-67, 330-32.
 
 - 25. Hence, most of the scandalous stories that sparked uprisings against debt bondage centered on dramatic cases of physical or sexual abuse; of course, once debt bondage was abolished and household labor was instead supplied by slaves, such abuse was considered normal and acceptable.
 - 26. The first bronze coins paid to soldiers seem to have been coined around 400 BC (Scheidel 2006), but this was the traditional date according to Roman historians.
-- 27. What I am arguing flies in the face of much of the conventional scholarly wisdom, summed up best perhaps by Moses Finley when he wrote "in Greece and Rome the debtor class rebelled; whereas in the Near East they did not"—and therefore reforms like those of Nehemiah were at least minor, temporary palliatives. Near Eastern rebellion took a different form; moreover, Greek and Roman solutions were both more limited and more temporary than he supposed.
+- 27. What I am arguing flies in the face of much of the conventional scholarly wisdom, summed up best perhaps by Moses Finley when he wrote "in Greece and Rome the debtor class rebelled; whereas in the Near East they did not"--and therefore reforms like those of Nehemiah were at least minor, temporary palliatives. Near Eastern rebellion took a different form; moreover, Greek and Roman solutions were both more limited and more temporary than he supposed.
 - 28. Ioannatou 2006 for a good example. Cataline's conspiracy of 63 BC was an alliance of indebted aristocrats and desperate peasants. On continued Republican debt and land redistribution campaigns: Mitchell 1993.
 - 29. Howgego makes this point: "If less is heard of debt under the Principate it may well be because political stability removed the opportunity for the expression of discontent. This argument is supported by the way in which debt re-emerges as an issue at times of open revolt" (1992:13).
  - 30. Plutarch, Moralia, 828f-831a.
@@ -4249,7 +4262,7 @@ for the possibilities). See Buckler 1895, Brunt 1974, Cornell 1994:266–67, 330
 
 So. In The Republic it is rejected out of hand. In India, as I've argued, the Hindu tradition only appears to embrace it. Buddhists, Jains, and other oppositional philosophies didn't use the term at all.
 
-81. Philo of Alexandria, writing around the time of Christ, says of the Essenes: "not a single slave is to be found �mong them, but all are free, exchanging services with each other, and they denounce the owners of slaves, not merely for their injustice in outraging the law of equality, but also for their impiety in annulling the statute of nature" (Quod omnis probus liber sit 79). The Therapeutae, another Jewish group, group rejected all forms of property, but looked on slavery "to be a thing absolutely and wholly contrary to nature, for nature has created all men free" (De Vita Contemplativa 70) . The similarity to Roman law ideas is notable. Jewish groups are unusually well documented; if similar sects existed in, say, Thrace, or Numidia, we probably wouldn't know.
+81. Philo of Alexandria, writing around the time of Christ, says of the Essenes: "not a single slave is to be found mong them, but all are free, exchanging services with each other, and they denounce the owners of slaves, not merely for their injustice in outraging the law of equality, but also for their impiety in annulling the statute of nature" (Quod omnis probus liber sit 79). The Therapeutae, another Jewish group, group rejected all forms of property, but looked on slavery "to be a thing absolutely and wholly contrary to nature, for nature has created all men free" (De Vita Contemplativa 70) . The similarity to Roman law ideas is notable. Jewish groups are unusually well documented; if similar sects existed in, say, Thrace, or Numidia, we probably wouldn't know.
 
 82. Later legend had it that his father was a king and he grew up in a palace, but the Sakya "king" of the time was in fact a elected and rotating position (Kosambi 1965:96).
 
@@ -4272,18 +4285,18 @@ So. In The Republic it is rejected out of hand. In India, as I've argued, the Hi
 - 13. R. S. Sharma 1958, 1987, Chauhan 2003.
 - 14. "A Sudra, though emancipated by his master, is not released from a state of servitude, for a state which is natural to him, by whom can he be divested?" (Manusmrti, Yajfiavalkya Smrti 8.5.419), or even "Sudras must be reduced to slavery, either by purchase or without purchase, because they were created by God for the sake or serving others (8.5.413).
 - 15. Kautilya allowed 6o percent for commercial loans, 120 percent "for enterprises that involve journeys through forests," and twice that for those that involve shipping goods by sea (Arthasastra 3.n; one later code, Yajfiavalkya Smrti 2.38 follows this.)
-- 16. Yajfiavalkya Smrti 2.37, Manusmrti 8.143, Vi�I:Jusmrti 5.6.2, see Kane 1968 III:421.
+- 16. Yajfiavalkya Smrti 2.37, Manusmrti 8.143, ViI:Jusmrti 5.6.2, see Kane 1968 III:421.
 - I?· R. S. Sharma 1965:68. Similarly, early law-codes specified that anyone who defaulted on a debt should be reborn as a slave or even a domestic animal in their creditor's household: one later Chinese · Buddhist text was even more exact, specifying that for each eight wen defaulted, one must spend one day as an ox, or for each seven, one day as a horse (Zhuang Chun in Peng 1994:244n17)
  - 18. Dumont (1966) .
 - 19. Gyan Prakash (2003:184) makes this point for the colonial period: when one-time caste hierarchies began to be treated instead as matters of debt bondage, subordinates turned into persons who had equal rights, but whose rights were temporarily "suspended."
 
-- 20. To be fair, one could also argue that indebted peasants are also likely to be in command of more resources, and thus be more capable of organizing a rebellion. We know very little about popular insurrections in Medieval India (though see Guha (1999). Palat (1986, 1988:205–15; Kosambi 1996:392–93), but the total number of such revolts seems to have been relatively low in comparison to Europe and certainly in comparison to China, where rebellion was almost ceaseless.
-- 21. "No one knows just how many rebellions have taken place in Chinese history. From the official record there were several thousand incidents within just three years from 613 to 615 AD, probably one thousand events a year (Wei Z. AD 656: th. "Report of the Imperial Historians"). According to Parsons, during the period 1629–44, there were as many as 234,185 insurrections in China, averaging 43 events per day, or 1.8 outbreaks per hour" (Deng 1999:220).
+- 20. To be fair, one could also argue that indebted peasants are also likely to be in command of more resources, and thus be more capable of organizing a rebellion. We know very little about popular insurrections in Medieval India (though see Guha (1999). Palat (1986, 1988:205-15; Kosambi 1996:392-93), but the total number of such revolts seems to have been relatively low in comparison to Europe and certainly in comparison to China, where rebellion was almost ceaseless.
+- 21. "No one knows just how many rebellions have taken place in Chinese history. From the official record there were several thousand incidents within just three years from 613 to 615 AD, probably one thousand events a year (Wei Z. AD 656: th. "Report of the Imperial Historians"). According to Parsons, during the period 1629-44, there were as many as 234,185 insurrections in China, averaging 43 events per day, or 1.8 outbreaks per hour" (Deng 1999:220).
  - 22. Following Deng (1999).
  - 23. Huang 1999:231.
 - 24. These loans appear to have been an extension of the logic of the state granaries, which stockpiled food; some to sell at strategic moments to keep prices low, some to distribute free in times of famine; some to loan at low interest to provide an alternative to usurers.
 - 25. Huang op cit; cf. Zhuoyun & Dull 1980:22-24. For his complex currency reforms: Peng 1994:111-14.
-- 26. Generally, interest rates were set at a maximum of 20 percent and compound interest was banned. Chinese authorities eventually also adopted the Indian principle that interest should not be allowed to exceed the principal (Cartier 1988:28; Yang 1971:92–103).
+- 26. Generally, interest rates were set at a maximum of 20 percent and compound interest was banned. Chinese authorities eventually also adopted the Indian principle that interest should not be allowed to exceed the principal (Cartier 1988:28; Yang 1971:92-103).
 - 27. Braudel 1979; Wallerstein 1991,
 - 28. I am here especially following the work of Boy Bin Wong (1997, 2002; also Mielants 2001, 2007.) Granted, most
 
@@ -4292,10 +4305,10 @@ Braudelans only see later dynasties like the Ming as fully embodying this princi
 - 29. So, for instance, while markets themselves were considered beneficial, the government also systematically intervened to prevent price fluctuations, stockpiling commodities when they were cheap and releasing them if prices rose. There were periods of Chinese history when rulers made common cause with merchants, but the result was usually a major popular backlash (Deng 1999:146).
 - 30. Pommeranz 1998, Goldstone 2002 for an introduction to the vast literature on comparative standards of living. India was actually doing rather well also for most of its history.
  - 31. Zürcher 1958:282.
-- 32. Gernet 1956 (1999: 241–42); for the following discussion see Gernet 1960, Jan 1965, Kieschnick 1997, Benn 1998, 2007.
+- 32. Gernet 1956 (1999: 241-42); for the following discussion see Gernet 1960, Jan 1965, Kieschnick 1997, Benn 1998, 2007.
 - 33. Tsan-ning (919-1001 AD) quoted in Jan 1965:263. Others appealed to the history of bodhisattvas and pious kings who had made gifts of their own bodies, such as the king who, in time of famine, leapt to his death to be transformed into a mountain of flesh, replete with thousands of heads, eyes, lips, teeth, and tongues, which for ten thousand years only grew larger no matter how much of it humans and animals ingested (Benn 2007:95, 108; cf. Ohnuma 2007).
 - 34. Tu Mu, cited in Gernet 1956 (1995:245).
-- 35. This might come as something of a surprise, since the phrase is used so often in contemporary Western popular usage, "karmic debt" becoming something of a New Age cliché. But it seems to strike a much more intuitive chord with Euro-Americans than it ever did in India. Despite the close association of debt and sin in the Indian tradition, most early Buddhist schools avoided the concept—largely because it implied a continuity of the self, which they saw as ephemeral and ultimately illusory. The exception were the Sammitiya, called "personalists" as they did believe in an enduring self, who developed the notion of avipra:�asa, whereby the results of good or bad actionskarma-"endure like a sheet of paper on which a debt is inscribed" as an unconscious element of the self that passes from one life to another (Lamotte 1997:22-24, 86---9o; Lusthaus 20o2:209-10) . The idea might have died with that sect had it not been taken up by the famous Mahayana philosopher Nagarjuna, who compared it to an "imperishable promissory note" (Kalupahana 1991:54-55, 249; Pasadika 1997) . His Madhyamaka school in turn became the Sanlun or "Three Treatise" school in China; the notion of karmic debt was taken up in particular by the "Three Stages" or "Three Levels" school created the monk Hsin-Hsing (540'-94 AD) (Hubbard 2001).
+- 35. This might come as something of a surprise, since the phrase is used so often in contemporary Western popular usage, "karmic debt" becoming something of a New Age cliché. But it seems to strike a much more intuitive chord with Euro-Americans than it ever did in India. Despite the close association of debt and sin in the Indian tradition, most early Buddhist schools avoided the concept--largely because it implied a continuity of the self, which they saw as ephemeral and ultimately illusory. The exception were the Sammitiya, called "personalists" as they did believe in an enduring self, who developed the notion of avipra:asa, whereby the results of good or bad actionskarma-"endure like a sheet of paper on which a debt is inscribed" as an unconscious element of the self that passes from one life to another (Lamotte 1997:22-24, 86---9o; Lusthaus 20o2:209-10) . The idea might have died with that sect had it not been taken up by the famous Mahayana philosopher Nagarjuna, who compared it to an "imperishable promissory note" (Kalupahana 1991:54-55, 249; Pasadika 1997) . His Madhyamaka school in turn became the Sanlun or "Three Treatise" school in China; the notion of karmic debt was taken up in particular by the "Three Stages" or "Three Levels" school created the monk Hsin-Hsing (540'-94 AD) (Hubbard 2001).
 
 36. Commentary on the Dharma of the Inexhaustible Storehouse of the Mahayana Universe, as translated by Hubbard (2oo1:265), with a few changes based on Gerner (1956 [1995:246]).
 
@@ -4522,7 +4535,7 @@ r48. As far as I know, the only scholar to have pointed out the connection is Be
 
 150. Descat 1995:986.
 
-151. Aristotle On lnterepretation 1.16-- 17· Whitaker (2002:10) thus observes that for Aristotle, "the �eaning of a word is fixed by convention, just as the importance attached to a tally, token, or ticket depends on agreement between the parties concerned."
+151. Aristotle On lnterepretation 1.16-- 17· Whitaker (2002:10) thus observes that for Aristotle, "the eaning of a word is fixed by convention, just as the importance attached to a tally, token, or ticket depends on agreement between the parties concerned."
 
 152. Nicomachean Ethics 1133a29-31.
 
@@ -4616,7 +4629,7 @@ qz. See Nerlich 1987:1z1-z4.
 - 30. Nations that, after all, also practiced usury on one another: Nelson 1949:76.
 - 31. Ben Nelson emphasized this in an important book, The Idea of Usury: From Tribal Brotherhood to Universal Otherhood.
  - 32. Midelfort 1996:39.
-- 33· Zmora 2006:�8. Public financing at this period largely meant disguised interest-bearing loans from the minor nobility, who were also the stratum from which local administrators were drawn.
+- 33· Zmora 2006:8. Public financing at this period largely meant disguised interest-bearing loans from the minor nobility, who were also the stratum from which local administrators were drawn.
 - 34· On church lands: Dixon 2002:91. On Casimir's gambling debts: Janssen 1910 IV:147· His overall debt rose to half a million guilders in 1528, and over three
 
 ## quarters of a million by 1541 (Zmora 20o6:r3n55.)
@@ -5052,14 +5065,14 @@ n6. One might trace a religious element here: in the time of Augustus, a group o
 - Elwahed, Ali Abd. 1931. Contribution à une théorie sociologique de l'esclavage. Étude des situations génératrices de l'esclavage. Avec appendice sur l'esclavage de la femme et bibliographie critique. Paris: Éditions Albert Mechelinck.
 - Elyachar, Julia. 2002. "Empowerment Money: The World Bank, Non-Governmental Organizations, and the Value of Culture in Egypt." ?Public Culture 14 (3): 493-513
 - 2005. Markets of Dispossession: NGOs, Economic Development, and the State in Cairo. Durham: Duke University Press.
-- Endres, Rudolf. 1979. "The Peasant War in Franconia." In *The German Peasant War of* 1525—New Viewpoints (Bob Scribner & Gerhard Benecke, editors), pp. 63-83. London: Allen & Unwin.
+- Endres, Rudolf. 1979. "The Peasant War in Franconia." In *The German Peasant War of* 1525--New Viewpoints (Bob Scribner & Gerhard Benecke, editors), pp. 63-83. London: Allen & Unwin.
 - Engels, Donald W. 1978. Alexander the Great and the Logistics of the Macedonian Army. Berkeley: University of California Press.
 - Equiano, Olaudah. 1789. The Interesting Narrative of the Life of Olaudah Equiano: or, Gustavus Vassa, the African. Modern Library Edition, New York, 2004.
 - Erdosy, George. 1988. Urbanisation in Early Historic India. Oxford: British Archaeological Reports.
 - . 1995. "City states in North India and Pakistan at the time of the Buddha." In The archaeology of early historic South Asia: the emergence of cities and states (Frank Allichin and George Erdosy, editors), pp. 99-122. Cambridge: Cambridge University Press.
 - Essid, Yassine. 1988. "Islamic Economic Thought." In *Preclassical Economic Thought: From*the Greeks to the Scottish Enlightenment (edited by Todd Lowry), pp. 77-102. Boston:
 Kluwer.
-- ——. 1995. A critique of the origins of Islamic economic thought. Leiden: E. J. Brill.
+- ----. 1995. A critique of the origins of Islamic economic thought. Leiden: E. J. Brill.
 - Evans-Pritchard, E. E. 1931. "An Alternative Term for 'Bride-Price'." Man 31: 36-39.
 - 1940. The Nuer: a Description of the Modes of Livelihood and Political Institutions of a Nilotic People. Oxford: Clarendon Press.
 - -----. 1948. The Divine Kingship of the Shilluk of the Nilotic Sudan. The Frazer Lecture for 1948. Cambridge: Cambridge University Press.
@@ -5245,7 +5258,7 @@ Kluwer.
 - Hoskins, Janet. 1999. Biographical Objects: How Things Tell the Stories of People's Lives. New York: Routledge.
 - Hosseini, Hamid S. 1995. "Understanding the market mechanism before Adam Smith: economic thought in Medieval Islam." History of Political Economy 27 (3): 539-61.
 - -----. 1998. "Seeking the roots of Adam Smith's division of labor in medieval Persia." History of Political Economy 30 (4): 653-81.
-- ——. 2003. "Contributions of Medieval Muslim Scholars to the History of Economics and their Impact: A Refutation of the Schumpeterian Great Gap." In *The Blackwell Companion to Contemporary Economics, III: A Companion to the History of Economic Thought* (Warren J. Samuels, Jeff Biddle, and John Bryan Davis, editors), pp. 28-45. London: Wiley-Blackwell.
+- ----. 2003. "Contributions of Medieval Muslim Scholars to the History of Economics and their Impact: A Refutation of the Schumpeterian Great Gap." In *The Blackwell Companion to Contemporary Economics, III: A Companion to the History of Economic Thought* (Warren J. Samuels, Jeff Biddle, and John Bryan Davis, editors), pp. 28-45. London: Wiley-Blackwell.
 - Houston, Walter J. 2006. Contending for Justice: Ideologies and Theologies of Social Justice in the Old Testament. London: T & T Clark.
 - Howel, King. 2006. Ancient laws and institutes of Wales: Laws Supposed to Be Enacted by Howel the Good. Clark, New Jersey: The Lawbook Exchange, Ltd.
 - Howell, Paul P. 1954. A Manual of Nuer Law. International Africa Institute. London: Oxford University Press.
@@ -5325,7 +5338,7 @@ Kluwer.
 - Keyt, David. 1997. Aristotle: Politics Books VII and VIII. Oxford: Clarendon Press.
 
 - Khan, Mir Siadat Ali. 1929. "The Mohammedan Laws against Usury and How They Are Evaded." journal of Comparative Legislation and International Law, Third Series n (4) : 233-24
-- Kieschnick, John. 1997. The eminent monk: B�ddhist ideals in medieval Chinese hagiography. Honolulu: University of Hawaii Press.
+- Kieschnick, John. 1997. The eminent monk: Bddhist ideals in medieval Chinese hagiography. Honolulu: University of Hawaii Press.
 - Kim, Henry S. 2oor. "Archaic Coinage as Evidence for the Use of Money," in, A. Meadows and K. Shipton, eds., Money and Its Uses in the Ancient Greek World (Oxford: Oxford University Press), 7-21.
 - . 2002. "Small Change and the Moneyed Economy." In Money, Labour and Land: Approaches to the economies of ancient Greece (Paul Cartledge, Edward E. Cohen and Lin Foxhall, editors). New York: Routledge.
 - Kindleberger, Charles P. 1984. A Financial History of Western Europe. London: Mac Millan. . 1986. Manias, Panics, and Crashes: A History of Financial Crises. London: Mac Millan.
@@ -5358,7 +5371,7 @@ Kluwer.
 - Kuznets, Solomon. 1933. "Pawnbroking. " In Encyclopaedia of the Social Sciences (Edwin R. A. Seligman, editor), VII:J8. New York: Mac Millan.
 - Labib, Subhi Y. 1969. "Capitalism in Medieval Islam." The journal of Economic History 2.9 (1) : 79·96.
 - Ladner, Gerhardt B. 1979. "Medieval and Modern Understanding of Symbolism: A Comparison." Speculum 54 (2.) : 2.2.3-2.56.
-- Lafitau, Joseph Fran�ois. 1974. Customs of the American Indians Compared with the Customs of Primitive Times (edited and translated by William N. Fenton and Elizabeth L. Moore) . Toronto: Champlain Society.
+- Lafitau, Joseph Franois. 1974. Customs of the American Indians Compared with the Customs of Primitive Times (edited and translated by William N. Fenton and Elizabeth L. Moore) . Toronto: Champlain Society.
 - La Fleur, William R,. 1986. The karma of words: Buddhism and the literary arts in medieval Japan. Berkeley: University of California Press.
 - Lafont, Bertrand. 1987. "Les lilies du roi de Mari." In La femme dans le Proche-orient antique (J -M. Durand, editor), pp. rrJ-I2. J. Paris: ERC.
 - Lambert, Maurice. 1971. "Une Inscription nouvelle d'Entemena prince de Lagash." Revue du Louvre 2.1:2. J1-2. J6.
@@ -5613,11 +5626,11 @@ Kluwer.
 - Sahlins, Marshall. 1972. Stone Age Economics. Chicago: Aldine.
 - 1981. "The stranger-king or Dumézil among the Fijians." Journal of Pacific History 16: 107-32.
 - -----. 1988. "Cosmologies of Capitalism." Proceedings of the British Academy 74:1-51.
-- —. 1996. "The Sadness of Sweetness: The Native Anthropology of Western Cosmology." Current Anthropology, Vol. 37 (3): 395-428.
+- --. 1996. "The Sadness of Sweetness: The Native Anthropology of Western Cosmology." Current Anthropology, Vol. 37 (3): 395-428.
 - ------. 2004. Apologies to Thucydides: Understanding History as Culture and Vice Versa. Chicago: University of Chicago Press.
 - -----. 2008. The Western Illusion of Human Nature. Chicago: Prickly Paradigm Press.
 - Saller, Richard P. 1984. "Familia, Domus', and the Roman Conception of the Family." Phoenix 38 (4): 336-355.
-- —.....................................
+- --.....................................
 - Samuel, Geoffrey. 2003. "Property, Obligations: Continental and Comparative Perspectives." In New Perspectives on Property Law, Human Rights, and the Home (Alastair Hudson, editor), pp. 295-318. London: Cavendish Publications.
 - Samuelson, Paul A. 1948. Economics. New York: Mc Graw Hill.
 - . 1958. "An exact consumption-loan model of interest with or without the social contrivance of money." In *The Collected Scientific Papers of Paul A. Samuelson*, volume 1 (J. Stiglitz, editor), pp. 219-33. Cambridge: MIT Press.
@@ -5700,9 +5713,9 @@ Kluwer.
 - Tebbutt, Melanie. 1983. Making Ends Meet: Pawnbroking and Working-Class Credit. New York: St. Martin's Press.
 - Teiser, Stephen F. 1988. The Ghost Festival in Medieval China. Princeton: Princeton University Press.
 - Testart, Alain. 1997. "Le mise en gage de personnes: sociologie comparative d'une institu tion." Archives Europeenes de Sociologie 38: 38-67.
-- . 1998 . "Pourquoi Ia condition de l'esclave s'ameliore-t-elle en regime despotique?" Revue fran�aise de sociologie 39 (1) : 3-38
+- . 1998 . "Pourquoi Ia condition de l'esclave s'ameliore-t-elle en regime despotique?" Revue franaise de sociologie 39 (1) : 3-38
 - ---. 2000. "L'Esclavage pour dettes en Asie Orientale." Moussons 2: 3-29.
-- . 2001. Esclave, Ia dette et le pouvoir: etudes de sociologie comparative. Paris : Errance . 2002. "The extent and significance of debt slavery." Revue Fran�aise de Sociologie 43' 173-204.
+- . 2001. Esclave, Ia dette et le pouvoir: etudes de sociologie comparative. Paris : Errance . 2002. "The extent and significance of debt slavery." Revue Franaise de Sociologie 43' 173-204.
 - Testart, Alain, Valerie U:crivain, Dimitri Karadimas and Nicolas Govoroff. 2oor. "Prix de Ia fiancee et esclavage pour dettes: Un exemple de loi sociologique. " Etudes rurales No. 159/160: 9-33.
 - Thapar, Romila. 1995. "The First Millennium BC in Northern India." In Recent perspectives of early Indian history (R. Thapar, editor) pp. 87-150. New Delhi: Book Review Trust.
 - . 2002. "The Role of the Army in the Exercise of Power in Ancient India." In Army and power in the ancient world. Volume 37 of Heidelberger althistorische Beitriige und epigraphische Studien (Angelos Chani6tis, Pierre Ducre, editors), pp. 25-39. Heidelberg: Franz Steiner Verlag.
@@ -5713,7 +5726,7 @@ Kluwer.
 - . 1999. "The Socio-Cultural Dimensions of the Currency: Implications for the Transi tion to the Euro." Journal of Consumer Policy 2.2.: 51-79.
 - . 2.007. La monnaie devoilee par ses crises (direction de publication) . Paris: Editions de l'EHESS, 2. volumes: volume r, "Monnaies metalliques, volume 2. "Monnaies autoreferen tielles. Les autres monnaies en Allemagne et en Russie au XXeme siecle
 - ---. 2.oo8. "Les trios etats de Ia monnaie: approche interdisciplinaire du fait monetaire." Revue Economique 59 (4) : 813-842..
-- Thierry, Fran�ois. 1992.. Monnaies de Chine. Paris: Bibliotheque nationale.
+- Thierry, Franois. 1992.. Monnaies de Chine. Paris: Bibliotheque nationale.
 - . 2.001. "Sur les specifites fondamentales de Ia monnaie chinoise." In Aux origines de Ia monnaie (Alain Testart, editor) , pp. 109-44. Paris: Editions Errance.
 - Thomas, Keith. 1972.. Religion and the Decline of Magic: Studies in popular beliefs in sixteenth and seventeenth century England. New York: Scribners.
 - Thompson, Edward Palmer. 1971. "The Moral Economy of the English Crowd in the r8th Century." Past & Present so: 76-136.
@@ -5758,7 +5771,7 @@ Kluwer.
 - Vijaisri, Priyadarshini. 2004. Recasting the Devadadi: Patterns of Sacred Prostitution in Colonial South India. New Delhi: Kanishka.
 - Villey, Michel. 1946. "L'Idee du droit subjectif et les systemes juridiques romains." Revue historique de droit, series 4: 201-227.
 - Vondeling, Jan. 1961. Eranos (with a summary in English). Amsterdam: Gron.
-- Wade, Geoffrey. 2004. "The Zheng He Voyages: A �eassessment." Asia Research Institute Working Paper Series No. 31, Oct 2004
+- Wade, Geoffrey. 2004. "The Zheng He Voyages: A eassessment." Asia Research Institute Working Paper Series No. 31, Oct 2004
 - Wake, Christopher. 1997. "The Great Ocean-going Ships of Southern China in the Age of Chinese Maritime Voyaging to India, Twelfth to Fifteenth Centuries," International Journal of Maritime History 9 (2) : 51-81
 - Walker, Garthene. 1996. "Expanding the Boundaries of Female Honour in Early Modern England." Transactions of the Royal Historical Society, Sixth Series, 8:235-245.
 - Walker, James Broom. 1875. "Notes on the Politics, Religion, and Commerce of Old Calabar." The journal of the Anthropological Institute of Great Britain and Ireland 6: n9-124.
@@ -5960,10 +5973,10 @@ Kluwer.
 | modern banking systems, 448n87 | adal-badal (give and take) , 33-34 |
 | "primitive banking, " 448n75 | in Africa, 24, 35, 394n7 |
 | private bank notes, 338, 448n75, | in the Americas, 24, 394n7 |
-| 449n102 | ceremonial barter, 3�33, 35, 127, |
+| 449n102 | ceremonial barter, 333, 35, 127, |
 | "proto-banks," 435n54 | 395n18, 395n21, 415n3 1 |
 | proverbs about, 1 | gift economies, 36, 90, 108 |
-| See also central banks; Federal Re | Gunwinggu people, 3�33, 35, 127, |
+| See also central banks; Federal Re | Gunwinggu people, 333, 35, 127, |
 | serve Bank | 415n3 1 |
 | Banque Royal (France) , 342 | Inuit people, 1 14-116, 407n46 |
 | barbarian coins, 252, 43 1n1 | in Islam, 279-28 1, 438n88 |
@@ -6025,8 +6038,10 @@ Kluwer.
 | on prostitution, 183, 417n51 | bourgeois ideology, Nietzsche on, 78, |
 | Ten Commandments, 129, 409n8 | 402n8, 448n83 |
 | | |
-| biblical concepts<br>Deuteronomy, 82, 87, 285, 287, 323, | Brahamanic doctrine |
-| 402n17, 403n20, 409n8, 445n28 | on freedom, concept of, 68<br>on moneylending, 9 |
+| biblical concepts
+Deuteronomy, 82, 87, 285, 287, 323, | Brahamanic doctrine |
+| 402n17, 403n20, 409n8, 445n28 | on freedom, concept of, 68
+on moneylending, 9 |
 | See also Christianity | overview, 56-57, 6768, 80 |
 | Bierce, Ambrose, 424nl | primordial debt theory and, 56-57 |
 ## | | |
@@ -6117,8 +6132,10 @@ Kluwer.
 | growth, need for in, 346, 380 | Positivism and, 69-70 |
 | historical views of, 351 | on societal interactions, 441n147 |
 | history's effect on, 3 19-320 | See also Christianity |
-| Marx on, 351, 359, 453n32 | cattle as currency, 59-60, 61, 128, 410n40<br>Celtic societies. See Ireland |
-| in medieval Europe, 434n42<br>merchant capitalism, 29Q-291, | central banks |
+| Marx on, 351, 359, 453n32 | cattle as currency, 59-60, 61, 128, 410n40
+Celtic societies. See Ireland |
+| in medieval Europe, 434n42
+merchant capitalism, 29Q-291, | central banks |
 | 440n126 | creation of, 364 |
 | militarization and, 346, 382 | money, creation of and, 397n21 |
 | neoliberalism, 376, 453n32 | state-supported central banks, 45, |
@@ -6129,7 +6146,8 @@ Kluwer.
 | protests against, 382, 452n35 | See also Federal Reserve Bank |
 | religious ideologies, influence on, 377- | Cephalus, 400n48 |
 | 379, 453n28 | ceremonial barter, 3Q-33, 35, 127, |
-| slave trade and, 349-352, 385 | 395n18, 395n21, 415n3<br>1 |
+| slave trade and, 349-352, 385 | 395n18, 395n21, 415n3
+1 |
 | supply-side economics, 377 | Chapman, Anne, 395n16 |
 | supporters of, 388 | charisma (Tsav), 147 |
 | trading and, 346-347 | charity |
@@ -6165,7 +6183,9 @@ Kluwer.
 | child-selling | debt, duty to repay, 432n17, |
 | in the Americas, 314 | 435nn48-52 |
 | in China, 221, 425n32 | debt bondage in, 185 |
-| daughters sold to pay loans, 9, 14, 85,<br>128-129, 403n27, 409n7, 417n17 | interest rates, regulation of in, 259,<br>432n26 |
+| daughters sold to pay loans, 9, 14, 85,
+128-129, 403n27, 409n7, 417n17 | interest rates, regulation of in, 259,
+432n26 |
 | fathers' rights to, 129, 436n67 | Legalists, School of, 240, 429n55, |
 | in India, 256-257 | 435n59 |
 | kidnapping for slavery, 154, 168-169 | loans, 269, 435nn48-53 |
@@ -6327,7 +6347,8 @@ Kluwer.
 | credit cards | criminalization, as debt, 334, 446n60 |
 | creation of, 367-368 | criminals, punishments for, 435n59 |
 | debit cards, 367 | "crisis," etymology of, 177 |
-| interest charged by, 379, 453n3<br>1 | Critique of the Gotha Programme |
+| interest charged by, 379, 453n3
+1 | Critique of the Gotha Programme |
 | offers for, 380 | (Marx) , 404n9 |
 | credit money. See virtual money | Cross River societies. See merchant soci |
 | credit money system, U. S. dollar and, | eties, slave trade |
@@ -6339,7 +6360,8 @@ Kluwer.
 | debit and credit cards, 367 | 414n21, 415n25 |
 | as extension of human society, 33D33 1 | bondmaids, 61, 128 |
 | Inca khipu system, 220, 425n28 | cuneiform documents, Mesopotamian, |
-| microcredit, 379-381 | _<br>38, 54 |
+| microcredit, 379-381 | _
+38, 54 |
 | Muslim suftaja, 201, 276, 291, 437n81 | currency. See coinage; coins/coinage; cur |
 | negative views of, 335, 447n66 | rency; money; primitive money |
 | private bank notes, 338, 448n75, | |
@@ -6553,8 +6575,10 @@ Kluwer.
 | Ekejiuba, Felicia, 412n67 | euro |
 | Ekpe society, 153, 163, 412n70 | Germany and, 55-56 |
 | | global adoption of, 367, 451n14 |
-| Elders of Zion, 363<br>electronic money. See virtual money | |
-| | Europe<br>banking systems in, 291-292, 440nl32 |
+| Elders of Zion, 363
+electronic money. See virtual money | |
+| | Europe
+banking systems in, 291-292, 440nl32 |
 | elemental systems, 244245, 430n68 | |
 | Elizabeth, Queen, 333 | Black Death and, 308 |
 | Elyachar, Julia, 380 | capitalism in, 434n42 |
@@ -6563,7 +6587,10 @@ Kluwer.
 | Engels, Friedrich, 395n15, 448n83 | economic turmoil in, 308-309 |
 | England | |
 | | hierarchy in, 302 |
-| British capitalism, 343-345, 351-352,<br>449n87 | inflation in, 308-309, 3<br>12-3 13, 339,<br>443n2 |
+| British capitalism, 343-345, 351-352,
+449n87 | inflation in, 308-309, 3
+12-3 13, 339,
+443n2 |
 | credit money in, 47 | interest-bearing loans in, 440n130 |
 
 ## IND EX 507
@@ -6604,14 +6631,16 @@ Kluwer.
 | 394n9 | female slaves, 417n54 |
 | effect of violence and origins of, 19 | activities of, 129, 409n7 |
 | human relations and, 13-14, 1 8-19, | bondmaids, 61, 128 |
-| 61�2 | cumals, 171, 173, 408nn3-4, 414n14, |
+| 612 | cumals, 171, 173, 408nn3-4, 414n14, |
 | language and, 76-77, 402n8 | 414n21, 415n25 |
 | "mutuality," in, 103 | in Greece, 71, 189, 418n66 |
 | purpose of exchange, 104 | in Iceland, 408n3 |
-| self-interest and, 336<br>See also gift exchange customs | in Russia, 408-409n5<br>used as currency, 127-129, |
-| exchange systems. See barter systems; gift | 408-409nn� |
+| self-interest and, 336
+See also gift exchange customs | in Russia, 408-409n5
+used as currency, 127-129, |
+| exchange systems. See barter systems; gift | 408-409nn |
 | exchange customs | feminism, Islamic, 384 |
-| existential debt, 5�3, 67�9, | feminism, rise of, 374 |
+| existential debt, 53, 679, | feminism, rise of, 374 |
 | 399nn33-40, 400n47, 400n48 | festive life, English, 294-295, 329-330, |
 | ex nihilo, 377 | 346n46 |
 | Exodus, views on debt in, 8?, 283, | attack of, 309 |
@@ -6770,7 +6799,7 @@ Kluwer.
 | stateless economies and, 60 | 192, 403n30, 419nn75nn77, 420n81 |
 | of taxes, 48-5 1, 397n19 (See also | mining in, 229, 427n19 |
 | Federal Reserve Bank) | patronage, 191 |
-| government power and policies | philosophical inquiry, begi� of, |
+| government power and policies | philosophical inquiry, begi of, |
 | as administrator or existential debt, | 230n72, 244 |
 | 70-71 | taxes in, 63 |
 | "command economies" and, 404n10 | value of money in, 245-246 |
@@ -6998,7 +7027,7 @@ Kluwer.
 | 436n68 | God, notions about, 430n69 |
 | Islamic law, 272-273 | overview, 81, 224, 271 |
 | on banking systems, 275-280, | on redemption, concept of, 8 1-82 |
-| 43�37nn68-74 | redemption in, concept of, 8 1-82 |
+| 4337nn68-74 | redemption in, concept of, 8 1-82 |
 | economic policies in, 274, 436n63 | vs. Christianity, 287-290 |
 | on interest, 436n69, 436n70, 443n165 | Jukun kingdom, 411nn51-52 |
 | on recognizing corporations, 443n170 | juros (debt bonds), 448n80 |
@@ -7008,10 +7037,13 @@ Kluwer.
 | Islamic state, idea of, 274, 436n62 | |
 | Israel, debt as morality in, 430n65 | K |
 | | |
-| Italian Renaissance, 364 | Kabyle Berber people (Algeria), 106, 277,<br>437n76 |
-| Italy<br>banking systems in, 291-292, 338, | Kalahari Bushmen, 35 |
+| Italian Renaissance, 364 | Kabyle Berber people (Algeria), 106, 277,
+437n76 |
+| Italy
+banking systems in, 291-292, 338, | Kalahari Bushmen, 35 |
 | | |
-| 440n132<br>merchant guilds in, 292, 440n127 | Kalanoro (spirit) , 28 |
+| 440n132
+merchant guilds in, 292, 440n127 | Kalanoro (spirit) , 28 |
 | | "Kali age," 432n10 |
 | slavery in, 292 | Kamentz, Anya, 453n32 |
 | ius (rights), 199, 421n93 | Kan, Lao, 435n48 |
@@ -7038,7 +7070,8 @@ Kluwer.
 | moneylending, roles in, 11, 287-289 | Reagan and, 398n25 |
 | as slaves in Islam, 274 | KGB, 382 |
 | Jhering, Rudolf von, 198 | Khaldun, Ibn, 109, 438n93 |
-| jisa, custom of, 432n8 | Khaldun-Laffer curve (Laffer Curve) , 90,<br>438n93 |
+| jisa, custom of, 432n8 | Khaldun-Laffer curve (Laffer Curve) , 90,
+438n93 |
 ## | John, King, 288 | |
 
 | khipu system, Inca, 220, 425n28 | abusus (abuse/destruction), 199 |
@@ -7075,10 +7108,12 @@ Kluwer.
 | euro in, 367 | law of nations, 167, 204, 422nl14 |
 | Iraqui debt to, 5 | Laws (Plato), 420n81 |
 | Kwakiutl people, 1 17, 396n1, 406n44 | Leach, Edmund, 407n46 |
-| | leather token money, 48, 74-75, 327,<br>396n37 |
+| | leather token money, 48, 74-75, 327,
+396n37 |
 | L | Leenhard, Maurice, 243-244 |
 | labor, division of | legal debts vs. moral debts, 120 |
-| barter systems and, 25-26<br>in Islam, 279-280, 329 | Legalists, School of, 240, 429n55, 435n59 |
+| barter systems and, 25-26
+in Islam, 279-280, 329 | Legalists, School of, 240, 429n55, 435n59 |
 | labor unions, 374-375 | Lehman Brothers, 16 |
 | Laffer curve (Khaldun-Laffer Curve) , 90, | Leizi, 269 |
 | 438n93 | Lele people (Africa) |
@@ -7169,10 +7204,12 @@ Kluwer.
 | markets, origins of | Maunder, Peter, 23 |
 | in Axial Age, 238-239 | Mauryan empire |
 | in Madagascar, 50-51 | ancient currency in, 74-75 |
-| marriage | inflation in, 234, 429n6<br>1, 430, |
+| marriage | inflation in, 234, 429n6
+1, 430, |
 | anthropological pattern diagram of, | 430n75 |
 | 161 | in Middle Ages, 253 |
-| as biggest life expense, 9, 13<br>1, 133, | Mauss, Marcel, 90, 108, 399n34, 402n8, |
+| as biggest life expense, 9, 13
+1, 133, | Mauss, Marcel, 90, 108, 399n34, 402n8, |
 | 138, 410n25 | 405n21, 407nn52-53, 43 ln77 |
 | by capture, 157, 410n42 | "Essay on the Gift," 407n52 |
 | in Lele culture, 138, 410n25, 412n62 | on gift economies, 108 |
@@ -7190,7 +7227,8 @@ Kluwer.
 | 404n9 | Mencken, H. L., 21 |
 | Das Capital, 354 | Menger, Karl, 28 |
 | on origins of money, 354, | men of honor, concept of, 167, 170-171, |
-| 394-395nn14-15 | 177, 187, 209, 277,<br>357 |
+| 394-395nn14-15 | 177, 187, 209, 277,
+357 |
 | utopian ideals of, 354, 359, 395n15, | Mephistopheles, 343 |
 | 450n106 | merceneries, as currency, 226, 426nll |
 | Marxism | "merchant adventurers," 215, 291, 293- |
@@ -7201,7 +7239,8 @@ Kluwer.
 
 | merchants | Mexico |
 |--------------------------------------------------|-------------------------------------------------------------------------|
-| in Christrianity, view of, 109, 286-<br>291, 439 | Aztec people, European conquest of,<br>3 143 15, 3 17, 325-326, 355-357 |
+| in Christrianity, view of, 109, 286291, 439 | Aztec people, European conquest of,
+3 143 15, 3 17, 325-326, 355-357 |
 | Islam and, 277, 437n72 | silver mining in, 311, 444n6, 444n15 |
 | restrictions on, 289 | microcredit, 379-381 |
 | wealth of English merchants, 327, | Middle Ages |
@@ -7252,12 +7291,16 @@ Kluwer.
 
 | Miller, William Ian, 407n54 | first coins, 224, 230, 426n10, 427n26 |
 |---------------------------------------------------------------------|------------------------------------------------------|
-| Millett, Paul, 419n78, 420nn8<br>1-84 | in Greece, 24, 394n6 |
+| Millett, Paul, 419n78, 420nn8
+1-84 | in Greece, 24, 394n6 |
 | Lending and Borrowing in Ancient | legends about, 403n30 |
 | Athens, 419n78 | in Mesopotamia, 3840, 74-75, |
 | minas, Mesopotamian, 39, 197 | 401nn2-5 |
 | miners; revolts, 444n5 | overview, 4647 |
-| Ming dyanasty, 258, Jlo-3<br>11, 3 14,<br>417n54, 433n28, 434n42 | primordial debt theory, 55-62, 62-65,<br>136, 398n30 |
+| Ming dyanasty, 258, Jlo-3
+11, 3 14,
+417n54, 433n28, 434n42 | primordial debt theory, 55-62, 62-65,
+136, 398n30 |
 | Mitcheli-Innes, Alfred, 37, 40, 4547, | See also barter, myth of |
 | 396n8, 396n31 | money, types of |
 | Moctezuma, 355-357 | brass, 154, 411n54 |
@@ -7269,7 +7312,9 @@ Kluwer.
 | 275, 279, 286, 437438nn82-83 | in prisons and POW camps, 37 |
 | Mohism, 237, 248, 249n50, 430n65 | silver, 39, J lo-312, 444nn5-9 |
 | monarchical hierarchies | tobacco, 26, 38, 75, 166 |
-| absolute power of, 205-207, 325, 331,<br>385 | Money and Early Greek Mind (Seaford) ,<br>244 |
+| absolute power of, 205-207, 325, 331,
+385 | Money and Early Greek Mind (Seaford) ,
+244 |
 | democracy in, 80, 402n19 | Money and Its Use in Medieval Europe |
 | See also kings | (Spufford), 396n37 |
 | monasteries, medieval Indian, 253 | Money and the Early Greek Mind (Sea |
@@ -7278,7 +7323,8 @@ Kluwer.
 | money, concepts of, 397n11 | Brahmanic doctrine on, 9 |
 | | |
 | as commodity, 26, 36, 46, 73-75, | Buddhism and, 1 1-12 |
-| 395n25, 396n3<br>1 | Catholic Church on, 10 |
+| 395n25, 396n3
+1 | Catholic Church on, 10 |
 | as empowerment, 380 | children sold to, 314 |
 | as government creation, 24-25 | child-selling and, 9, 14, 128-129, |
 | honor and, 171 | 409n7 |
@@ -7294,11 +7340,14 @@ Kluwer.
 | as social currency, 130, 158, 219 | 195, 259, 352, 354, 376, 389 |
 | as symbol, 298-302 | in medieval Europe, 11 |
 | as symbol of degradation, 188-189 | in medieval France, 9-10 |
-| '<br>as unlimited, 245-247 | merchants as, 295 |
+| '
+as unlimited, 245-247 | merchants as, 295 |
 | as value made in law, 340, 448n8 1 | in Mesopotamia, 81 |
 | money, functions of, 22-23 | in Middle East, 275-276, 436n68 |
 | money, origins of | motivations for, 22 |
-| credit systems and, 73-75, 401n5<br>early legal practice and, 6o-62 | negative representations of, 10, 28,<br>343 · |
+| credit systems and, 73-75, 401n5
+early legal practice and, 6o-62 | negative representations of, 10, 28,
+343 · |
 
 ## I N D E X 521
 
@@ -7436,8 +7485,10 @@ Kluwer.
 | Persia | Ponzi schemes, 373, 376 |
 | coins, origins of, 215-216 | por favor (please) , 123, 408n63 |
 | free-market theories in, 19 | porne (slave girls), 71, 1 87, 189, 418n66 |
-| gift-giving customs in, 1 10 | Portugal, "bullion famines" in, 443n3<br>Portuguese/Spanish empires, 24, 309-317, |
-| interest-bearing loans in, 400n51,<br>420n85 | 3 19, 355-356, 440n132 |
+| gift-giving customs in, 1 10 | Portugal, "bullion famines" in, 443n3
+Portuguese/Spanish empires, 24, 309-317, |
+| interest-bearing loans in, 400n51,
+420n85 | 3 19, 355-356, 440n132 |
 | lying, view of in, 215 | Portuguese terminology, obrigado (thank |
 | in Middle Ages, 279 | you), 123 |
 | taxes in, 63 | "Positive Catechism" (Comte) , 70 |
@@ -7525,7 +7576,8 @@ Kluwer.
 | Pythagoreanism, 429n52 | universal principle of, 91-93, 404n3 |
 | | vs. communistic ideals, 100, 102 |
 | Q | redemption, concepts of |
-| Qin, state of, 235-236, 240, 428nn46-47 | biblical views of debt and, 75, 79-87,<br>403n25 |
+| Qin, state of, 235-236, 240, 428nn46-47 | biblical views of debt and, 75, 79-87,
+403n25 |
 | Qing dynasty, 258, 434n42 | Egypt, 82 |
 | quantification, human relations and, 13- | in India, 80-81, 232, 402n14 |
 | 14, 18-19, 6162 | language about in debt, 8, 80-8 1 |
@@ -7596,7 +7648,8 @@ Kluwer.
 | Ricardo, David, 374, 387 | free market ideologies in, 396n7 |
 | Richards, Audrey, 98 | Soviet Union, failure of, 37, 382 |
 | rich vs. poor, struggle of, 8 | |
-| Rig Veda, 43, 56, 408n3 | s<br>sacrifice rituals, 57, 399nn34-39, 400n48 |
+| Rig Veda, 43, 56, 408n3 | s
+sacrifice rituals, 57, 399nn34-39, 400n48 |
 | "Ring of Gyges, The" (Shell), 420n87, | to pay back debt, 77-78 |
 | 430n70 | sahib al-miil (merchants), 303 |
 | Robertson, Pat, 378 | Sahlins, Marshall, 405n21, 446n55 |
@@ -7631,8 +7684,10 @@ Kluwer.
 | debtor-creditor relationships and, | Sidon, 227, 229 |
 | 124-126, 408nn66-67 | Sieyes, Abbe, 359 |
 | in gift exchanges, 105-106, 405n28 | si li (self-interest), 429n58 |
-| Hobbes on, 33 1-332, 446n58 | silver, as currency, 39, 3103<br>12, 444nn5-9 |
-| human nature and, 90, 196, 33<br>1-332, | S�e also bullion; gold and silver |
+| Hobbes on, 33 1-332, 446n58 | silver, as currency, 39, 3103
+12, 444nn5-9 |
+| human nature and, 90, 196, 33
+1-332, | Se also bullion; gold and silver |
 | 336, 446n58 | silver shekels, Mesopotamian, 39, 180, |
 | in Islam, 282 | 214-215 |
 | as motivation for exchange, 44, 238, | Simmel, Georg, 394n14 |
@@ -7655,7 +7710,7 @@ Kluwer.
 | Seton, Ernest Thompson, 92, 94, 404n6 | in Egypt, 209 |
 | sex industry. See female slaves; prostitu | elimination of, 297, 410 |
 | tion | in Europe, 292, 441n133 |
-| Shakespeare, William | exchange, role in creating� 19 |
+| Shakespeare, William | exchange, role in creating 19 |
 | on mutilation of debtors, 77, 288, | in Greece, 189, 229, 418n65, 420n82 |
 | 402n10 | horrors stories based on, 148, 169-170 |
 | on prostitution, 418n68 | in India, 232-233, 256, 428n33 |
@@ -7770,7 +7825,8 @@ Kluwer.
 | Southeast Asia | 247-248, 393n11 |
 | colonialism in, 350 | first markets, 345, 346 |
 | | ordinary people and, 376 |
-| international debt of, 368-369<br>slave trade in, 155-158 | in U. S., 451nl2 |
+| international debt of, 368-369
+slave trade in, 155-158 | in U. S., 451nl2 |
 | South Korea, 367, 371, 372 | See also capitalism; corporations |
 | U. S. treasury bonds and, 67 | |
 | | Stout, William, 328 |
@@ -7780,7 +7836,8 @@ Kluwer.
 | Sovereignty, Legitimacy and Money, | 381, 393n11 |
 | 398n30 | Sudras caste, 255-256, 432n12, 432n14 |
 
-| suftaja, 201, 276, 291, 437n8<br>1 | tally sticks, 48, 268, 396n37, 397n16, |
+| suftaja, 201, 276, 291, 437n8
+1 | tally sticks, 48, 268, 396n37, 397n16, |
 |----------------------------------------------|----------------------------------------|
 | suicide, 227, 262-264, 399n34 | 425n26, 435nn48-53, 442n161 |
 | as result of credit debt, 381 | Tambiah, Stanley J., 417n55 |
@@ -7870,7 +7927,9 @@ Kluwer.
 | currency of, 145 | in government, 34o-341 |
 | | in government power and policies, |
 | economic life of, 146-148 | 34o-341 |
-| equality among, 122<br>flesh-debts, 349 | virtual money and, 367-368<br>Tsav (charisma) , 147 |
+| equality among, 122
+flesh-debts, 349 | virtual money and, 367-368
+Tsav (charisma) , 147 |
 | flesh-debts in, 144-148, 149, 155 | Tuck, Richard, 206, 421n93, 422n1 14 |
 | | |
 | forms of currency used by, 132 | Tudor England, 3 12, 336-337, 447n65 |
@@ -7889,7 +7948,7 @@ Kluwer.
 
 | U | women used as currency to pay, |
 |-------------------------------------------|-------------------------------------------------------|
-| ulema (legal scholars), 273 | 135–136 |
+| ulema (legal scholars), 273 | 135-136 |
 | ulimited, the (apeiron), concept of, 245- | ur (honor), 165 |
 | 247 | Uruinimgina, 216 |
 | Ulpian, 200, 414n9, 422nn114-115 | U. S. Air Force, 451n11 |
@@ -7902,10 +7961,10 @@ Kluwer.
 | debt monetization in, 6, 371-372, | usus (use of a thing), 199 |
 | 452nn18-19, 453n32 | utopian communities, 250, 431n81 |
 | debt of, 365-369 | utopian imaginary barter economy, 22- |
-| debtors, view of in, 16-17 | 24, 34–36, 46, 353–354, 374, 385 |
+| debtors, view of in, 16-17 | 24, 34-36, 46, 353-354, 374, 385 |
 | embargo on Haiti by, 6, 393n2 | utopian Marxist ideologies, 354, 359, |
 | as "empire," 6 | 395n15, 450n106 |
-| foreign debt of, 6-7, 367-369 | utopian models of capitalism, 354–355 |
+| foreign debt of, 6-7, 367-369 | utopian models of capitalism, 354-355 |
 | global power based on debt in, 367 | utopian models of capitalism, 334 333 |
 | global strength, decline of, 372 | V |
 | gold reserves of, 361-363 | vagrancy, 446n60 |
@@ -7913,10 +7972,11 @@ Kluwer.
 | inflation in, 362, 397n18, 452n25 | Vedas |
 | international monetary policies of, | |
 | 361, 366 | on children's debt to parents, 405n21 |
-| market populism in, 453n32 | on female slavery, 408–409nn3 on history of money, 14 |
+| market populism in, 453n32 | on female slavery, 408-409nn3 on history of money, 14 |
 | military dominance of, 365-367, 372, | |
 | 451n11 | on honoring debts, 166 |
-| monetary policies in, 2 | on interest-bearing loans, 62–63,<br>400n47 |
+| monetary policies in, 2 | on interest-bearing loans, 62-63,
+400n47 |
 | monetary policy in, 365 | |
 | private banks crash in, 369 | primoridial debt theory and, 56, 62, |
 | Third World debt policies, 6 | 64 |
@@ -7931,17 +7991,95 @@ Kluwer.
 | in human economies, 136 | Victorian England, 359 |
 | kem relationship and, 409n13 | Vietnam War, 361, 364 |
 | life-debts, 133-136 | Vikings, slavery and, 414n15 |
-| milk-debts, 264-265, 267-268, 302, | "village-wives," 141–142, 410n33 |
+| milk-debts, 264-265, 267-268, 302, | "village-wives," 141-142, 410n33 |
 | 312, 434n38 | violence |
 | money, uselessness of for, 131-136 | blood-feuds, 60, 101, 133-134, 158, |
 | morality and, 120-122, 407n60 | 409n16, 410n22 |
-| overview, 131–136 | as cause for social inequality, 113 |
-| primitive money used for, 131-136 | dehumanization and, 194–195 |
-| Rospabé theory on, 131–136, 158–159 | exchange principle origins and 19 |
+| overview, 131-136 | as cause for social inequality, 113 |
+| primitive money used for, 131-136 | dehumanization and, 194-195 |
+| Rospabé theory on, 131-136, 158-159 | exchange principle origins and 19 |
 
 ## INDE X 533
 
-| Parzifal, 296, 441n142<br>murder, as form of debt repayment,<br>13 1-136, 410n22<br>Wall, Nancy, 23<br>Wallerstein, Immanuel, 358<br>philosophical expressions of, 14<br>in slave trade, 144, 146, 159-160, 162-<br>Wall Street Journal, 452n18<br>Wampum shell money, 60, 129, 135-136,<br>164, 412n79<br>used to control women, 160, 413n97,<br>409n9<br>413nn91-92<br>Wang Mang, 259, 422n107<br>war debt, U. S., 365-366<br>Virginia, tobacco as currency in, 26, 38,<br>75, 166<br>warfare<br>virginity. See chastity<br>cash markets from, 384<br>exchange, role of creating and, 19<br>virtual money<br>early existence of, 18, 251, 268, 28 1,<br>militarization and capitalism, 346, 382<br>298, 308, 337<br>See also Axial Age<br>in Middle Ages, 298<br>"Warring States period," 235, 240, 428n46<br>warrior honor, 357<br>new age of, 18<br>Way to Wisdom (Jaspers), 223<br>as original form of money, 18<br>overview, 17-19<br>Wealth and Poverty (Gilder) , 377<br>wealthgetting, types of, 290, 444n123<br>trust and, 367-368<br>Wealth of Nations, The (Smith), 37, 43-<br>trust in, 367-368<br>45, 446n59, 447n71<br>vs. coins/coinage, 40, 214, 3 13<br>Weber, Max, 258, 3 16, 359, 401n5<br>Visa, 367<br>von Eschenbach, Wolfram, 296, 441n142<br>Weber, Mx, 316<br>weddings. See bridewealth; marriage<br>von Glahn, Richard, 435n57, 444n6<br>Welsh law codes, 61-62, 128, 409n4<br>von Henneburg, Wilhelm, 345n35<br>von Mises, Ludwig, 359, 388<br>on honor price, 175, 414n19<br>wergeld, 133, 173, 417n57<br>Western Arnhem Land. See Australia<br>w<br>West Indies, barter systems in, 24<br>wage labor<br>"wife sales," 180, 416n42<br>bonded workers, 265<br>capitalism and, 345, 349-352, 449n88<br>wilcuma (you're welcome), 408n64<br>cash vs. commodity wage payments,<br>William, Brett, 453n32<br>352-353, 449n 102, 449n103<br>William III, King, 340<br>contract employment, 351, 449n99<br>witches (mbatsav), 147-148, 411n52<br>debt as way to control, 427n31<br>wives<br>free wage labor, 351<br>husband's right to sell, 128<br>history of, 351-353, 354, 449n88,<br>women<br>449n99<br>barter systems, role in, 29-30, 394n 15,<br>395nn15<br>in India, 256<br>Marx on, 349-351<br>Buddhism on, 265-268, 434n44,<br>to pay off debt, 368<br>434n47<br>Roman nexum labor contracts, 230,<br>chastity, expectations of, 177-182, | | |
+| Parzifal, 296, 441n142
+murder, as form of debt repayment,
+13 1-136, 410n22
+Wall, Nancy, 23
+Wallerstein, Immanuel, 358
+philosophical expressions of, 14
+in slave trade, 144, 146, 159-160, 162Wall Street Journal, 452n18
+Wampum shell money, 60, 129, 135-136,
+164, 412n79
+used to control women, 160, 413n97,
+409n9
+413nn91-92
+Wang Mang, 259, 422n107
+war debt, U. S., 365-366
+Virginia, tobacco as currency in, 26, 38,
+75, 166
+warfare
+virginity. See chastity
+cash markets from, 384
+exchange, role of creating and, 19
+virtual money
+early existence of, 18, 251, 268, 28 1,
+militarization and capitalism, 346, 382
+298, 308, 337
+See also Axial Age
+in Middle Ages, 298
+"Warring States period," 235, 240, 428n46
+warrior honor, 357
+new age of, 18
+Way to Wisdom (Jaspers), 223
+as original form of money, 18
+overview, 17-19
+Wealth and Poverty (Gilder) , 377
+wealthgetting, types of, 290, 444n123
+trust and, 367-368
+Wealth of Nations, The (Smith), 37, 43trust in, 367-368
+45, 446n59, 447n71
+vs. coins/coinage, 40, 214, 3 13
+Weber, Max, 258, 3 16, 359, 401n5
+Visa, 367
+von Eschenbach, Wolfram, 296, 441n142
+Weber, Mx, 316
+weddings. See bridewealth; marriage
+von Glahn, Richard, 435n57, 444n6
+Welsh law codes, 61-62, 128, 409n4
+von Henneburg, Wilhelm, 345n35
+von Mises, Ludwig, 359, 388
+on honor price, 175, 414n19
+wergeld, 133, 173, 417n57
+Western Arnhem Land. See Australia
+w
+West Indies, barter systems in, 24
+wage labor
+"wife sales," 180, 416n42
+bonded workers, 265
+capitalism and, 345, 349-352, 449n88
+wilcuma (you're welcome), 408n64
+cash vs. commodity wage payments,
+William, Brett, 453n32
+352-353, 449n 102, 449n103
+William III, King, 340
+contract employment, 351, 449n99
+witches (mbatsav), 147-148, 411n52
+debt as way to control, 427n31
+wives
+free wage labor, 351
+husband's right to sell, 128
+history of, 351-353, 354, 449n88,
+women
+449n99
+barter systems, role in, 29-30, 394n 15,
+395nn15
+in India, 256
+Marx on, 349-351
+Buddhism on, 265-268, 434n44,
+to pay off debt, 368
+434n47
+Roman nexum labor contracts, 230,
+chastity, expectations of, 177-182, | | |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|------------------|
 | | | |
 | | | |
@@ -7980,10 +8118,14 @@ Kluwer.
 | | | |
 | | | |
 | | | |
-| 414n13, 414n3 1, 415n31, 416n38<br>427n24 | | |
-| in Chinese Buddhism, 265-266,<br>slavery and, 206, 423n121 | | |
-| vs. slavery, 233, 351-352, 428n38,<br>434n44, 434n47 | | |
-| 434n42<br>"ghost-wives," 136 | | |
+| 414n13, 414n3 1, 415n31, 416n38
+427n24 | | |
+| in Chinese Buddhism, 265-266,
+slavery and, 206, 423n121 | | |
+| vs. slavery, 233, 351-352, 428n38,
+434n44, 434n47 | | |
+| 434n42
+"ghost-wives," 136 | | |
 ## | | work, as virtuous, 390 | in Hinduism, 267 |
 
 ## 534 I N D E X

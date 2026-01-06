@@ -1,13 +1,8 @@
 ---
-title: London Mass Strike 1889
-date: 2025
-author: Unknown
-tags:
-  - organizing
-  - strikes
-  - unions
-  - rent
-  - labor
+title: "London Mass Strike 1889"
+author: "Unknown"
+date: "2025"
+category: "labor"
 ---
 
 # London Mass Strike 1889

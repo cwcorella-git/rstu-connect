@@ -1,24 +1,8 @@
 ---
-title: Alienation
-author: David Graeber
-date: '2005'
-pubdate: '2023-02-05T14:08:38'
-language: en
-source_url: >-
-  [[https://ia800509.us.archive.org/21/items/NewDictionaryOfTheHistoryOfIdeas/New%20Dictionary%20of%20the%20History%20of%20Ideas%202005.pdf][*New
-  Dictionary of the History of Ideas*]] (edited by Maryanne Cline Horowitz),
-  Volume 1, pp. 48–49
-notes: >-
-  See also: David Graeber Institute [[https://davidgraeber.institute/]] &
-  [[https://davidgraeber.org/]]
-original_format: muse
-converted_date: '2025-11-08T11:25:02.992800'
-tags:
-  - theory
-  - contemporary
-  - strikes
-  - rent
-  - labor
+title: "Alienation"
+author: "David Graeber"
+date: "2005"
+category: "contemporary-analysis"
 ---
 
 The notion of alienation is a very unusual one because it is at once an attempt to explain a widespread feeling—a very subjective, somewhat indefinable feeling—and a critique of the nature of any society that regularly produces it.
@@ -49,7 +33,7 @@ On the individual level, alienation is said to occur when there is a clash betwe
 
 ### Bibliography
 
-<biblio>
+
 Geyer, Felix, ed. *Alienation, Ethnicity, and Postmodernism.* London and Westport, Conn.: Greenwood Press, 1996.
 
 Ollman, Bertell. *Alienation: Marx’s Conception of Man in Capitalist Society.* Cambridge, U.K., and New York: Cambridge University Press, 1976.
@@ -57,5 +41,3 @@ Ollman, Bertell. *Alienation: Marx’s Conception of Man in Capitalist Society.*
 Schmitt, Richard, and Thomas E. Moody, eds. *Alienation and Social Criticism.* Atlantic Highlands, N.J.: Humanities Press, 1994.
 
 Schweitzer, David, and Felix Geyer, eds. *Alienation Theories and De-Alienation Strategies: Comparative Perspectives in Philosophy and the Social Sciences.* London: Science Reviews, 1989.
-
-</biblio>

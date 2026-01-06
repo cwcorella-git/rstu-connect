@@ -1,3 +1,8 @@
+---
+title: "## **James Herod A Stake, Not a Mistake On Not Seeing the Enemy October 2001**"
+category: "contemporary-analysis"
+---
+
 ## **James Herod A Stake, Not a Mistake On Not Seeing the Enemy October 2001**
 
 I spent several years in the early sixties studying Underdevelopment. It was frustrating, in that none of the theories I examined really seemed to explain the phenomenon. That is, the Theories of Development that were prevalent then (only in mainstream discourse, I later learned) didn't really answer the question: Why are some countries poor? I would look at US Aid programs, only to conclude that they didn't work, that they didn't help countries develop, and often got in the way. My response at that time was to argue, and to try to call to the attention of US Aid administrators, that the programs weren't working, and were not achieving the results they were supposed to. The programs were not facilitating development and economic growth in the countries they were supposed to be benefiting. Fortunately for me, with the explosion and re-emergence of radical consciousness in late sixties, I was able to overcome this naiveté.

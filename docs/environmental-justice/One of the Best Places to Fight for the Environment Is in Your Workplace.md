@@ -1,3 +1,8 @@
+---
+title: "## **One of the Best Places to Fight for the Environment Is in Your Workplace**"
+category: "environmental-justice"
+---
+
 ## **One of the Best Places to Fight for the Environment Is in Your Workplace**
 
 ## **Date:** Wed, 02/24/2021 - 00:00
@@ -64,13 +69,20 @@ Teachers around the country followed their example. Corporate-aligned media ofte
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | You can learn about the severe harm these products cause to other species ( |
 | and our own |
-| ) and inform customers and coworkers on this harm in order to lessen sales and use of these<br>products. Once you are really organized, you can stop restocking these products altogether<br>and force management to stop buying them. |
+| ) and inform customers and coworkers on this harm in order to lessen sales and use of these
+products. Once you are really organized, you can stop restocking these products altogether
+and force management to stop buying them. |
 | Food: |
-| What does your workplace do with extra food at the end of the day? Throw it in the trash,<br>probably. You can organize to get your bosses to give the food to local composting projects<br>instead. This may not sound like much but it's |
+| What does your workplace do with extra food at the end of the day? Throw it in the trash,
+probably. You can organize to get your bosses to give the food to local composting projects
+instead. This may not sound like much but it's |
 | actually really helpful and important. |
-| If your solidarity is really strong, and depending on where you are, you could also get your<br>workplace to buy more of its food ingredients locally, which can cut down on emissions from<br>transporting food long distances. |
+| If your solidarity is really strong, and depending on where you are, you could also get your
+workplace to buy more of its food ingredients locally, which can cut down on emissions from
+transporting food long distances. |
 | Office: |
-| Do you work for a company or institution that uses the internet a lot? You can organize to get<br>your workplace switch its computers' default search engine to |
+| Do you work for a company or institution that uses the internet a lot? You can organize to get
+your workplace switch its computers' default search engine to |
 | Ecosia, |
 | which |
 ## | |
@@ -79,12 +91,21 @@ Teachers around the country followed their example. Corporate-aligned media ofte
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | in a |
 | climate-smart |
-| and community-empowering way with its ad revenue. This should be a pretty easy demand to<br>win since it costs nothing. Once you win that, you could aim for making sure your workplace<br>buys only |
+| and community-empowering way with its ad revenue. This should be a pretty easy demand to
+win since it costs nothing. Once you win that, you could aim for making sure your workplace
+buys only |
 | Forest Stewardship Council (FSC) certified paper. |
-| If you work in one of those buildings that keeps its lights on all night for no reason, that would<br>be another good thing to address. |
+| If you work in one of those buildings that keeps its lights on all night for no reason, that would
+be another good thing to address. |
 | Conclusion |
-| Social issues are not separate. Those separations exist only in our heads as a way to<br>categorize things. If we let those categories get in the way of doing what we can for a better<br>future, the categorization is doing more harm than good. Many of the greatest social<br>accomplishments of the last 150 years were made by organized workers leveraging the power<br>of their collective labor. Building back the power of organized labor will be essential for<br>combating the climate and extinction crises we are now in. |
-| How to organize in the workplace is an important skill for all of us to learn. More on that in<br>future articles, but here are some starting places: |
+| Social issues are not separate. Those separations exist only in our heads as a way to
+categorize things. If we let those categories get in the way of doing what we can for a better
+future, the categorization is doing more harm than good. Many of the greatest social
+accomplishments of the last 150 years were made by organized workers leveraging the power
+of their collective labor. Building back the power of organized labor will be essential for
+combating the climate and extinction crises we are now in. |
+| How to organize in the workplace is an important skill for all of us to learn. More on that in
+future articles, but here are some starting places: |
 | How to unionize your workplace |
 | (video) |
 
@@ -93,10 +114,14 @@ Teachers around the country followed their example. Corporate-aligned media ofte
 | An Introduction to 1-on-1 Organizing Conversations |
 | Overview of Workplace Organizing |
 | Common Organizing Mistakes |
-| If you already find yourself advocating for you and your coworkers, and/or for more<br>socially-conscious policies at work, you should fill out the form |
+| If you already find yourself advocating for you and your coworkers, and/or for more
+socially-conscious policies at work, you should fill out the form |
 | on this union website |
-| and be sure to follow up in order to get top-notch organizing assistance. Once you and your<br>coworkers are united in solidarity, you'll have the power to take real action for the environment<br>and for one another. |
+| and be sure to follow up in order to get top-notch organizing assistance. Once you and your
+coworkers are united in solidarity, you'll have the power to take real action for the environment
+and for one another. |
 | Disclaimer: |
-| The views expressed here are not the official position of the IWW (or even the IWW's EUC)<br>and do not necessarily represent the views of anyone but the author. |
+| The views expressed here are not the official position of the IWW (or even the IWW's EUC)
+and do not necessarily represent the views of anyone but the author. |
 | |
 ## | |

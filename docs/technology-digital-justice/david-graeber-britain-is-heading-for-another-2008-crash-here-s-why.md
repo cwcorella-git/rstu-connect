@@ -1,25 +1,8 @@
 ---
-title: 'Britain is heading for another 2008 crash: here’s why'
-author: David Graeber
-date: 28 October 2015
-pubdate: '2021-11-28T16:28:32'
-language: en
-source_url: >-
-  Retrieved on 28<sup>th</sup> November 2021 from
-  [[https://www.theguardian.com/commentisfree/2015/oct/28/2008-crash-government-economic-growth-budgetary-surplus][www.theguardian.com]]
-notes: >-
-  The government wants us to believe our economic growth is sustainable, and
-  that budgetary surplus will fix all our problems. But these are dangerous
-  myths | See also: David Graeber Institute [[https://davidgraeber.institute/]]
-  & [[https://davidgraeber.org/]]
-topics:
-  - United Kingdom
-  - financial crisis
-original_format: muse
-converted_date: '2025-11-08T11:25:03.056187'
-tags:
-  - United Kingdom
-  - Financial Crisis
+title: "Britain is heading for another 2008 crash: here’s why"
+author: "David Graeber"
+date: "28 October 2015"
+category: "technology-digital-justice"
 ---
 
 British public life has always been riddled with taboos, and nowhere is this more true than in the realm of economics. You can say anything you like about sex nowadays, but the moment the topic turns to fiscal policy, there are endless things that everyone knows, that are even written up in textbooks and scholarly articles, but no one is supposed to talk about in public. It’s a real problem. Because of these taboos, it’s impossible to talk about the real reasons for the 2008 crash, and this makes it almost certain something like it will happen again.

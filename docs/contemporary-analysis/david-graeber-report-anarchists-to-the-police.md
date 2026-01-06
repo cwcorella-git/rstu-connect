@@ -1,33 +1,17 @@
 ---
-title: Report anarchists to the police
-author: David Graeber
-date: 6 August 2011
-pubdate: '2022-01-23T22:00:22'
-language: en
-source_url: >-
-  Retrieved on 23<sup>rd</sup> January 2022 from
-  [[https://www.opendemocracy.net/en/opendemocracyuk/report-anarchists-to-police-why-authorities-fear-direct-action/][www.opendemocracy.net]]
-topics:
-  - direct action
-  - police
-  - snitches
-original_format: muse
-converted_date: '2025-11-08T11:25:03.198676'
-tags:
-  - Direct Action
-  - Police
-  - Snitches
+title: "Report anarchists to the police"
+author: "David Graeber"
+date: "6 August 2011"
+category: "contemporary-analysis"
 ---
 
 As Europe recoils in horror from the wake of the massacre of 77 people by an anti-Islamic nationalist crusader in Norway, and Britain continues to await daily revelations on the absolute corruption and cynicism of their current governing elite (from media barons to politicians to police), a branch of London’s Metropolitan Police force published — and later retracted — a leaflet asking people to report to them information about anarchists.
 
 The wording of the leaflet, much quoted, is quite remarkable:
 
-<quote>
 
 *Anarchism is a political philosophy which considers the state undesirable, unnecessary, and harmful, and instead promotes a stateless society, or anarchy. Any information relating to anarchists should be reported to your local police.*
 
-</quote>
 
 Any information? Really? Does that include shoe size? Favorite colour? Sexual predilections? Mobile phone messages?
 

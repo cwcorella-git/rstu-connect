@@ -1,13 +1,8 @@
 ---
-title: 'I Am an Anarchist: Remembering Anarchist Prisoner Brian McCarvill'
-date: 2025
-author: Anarchist Black Cross
-tags:
-  - organizing
-  - housing
-  - rent
-  - prisons
-  - anarchism
+title: "I Am an Anarchist: Remembering Anarchist Prisoner Brian McCarvill"
+author: "Anarchist Black Cross"
+date: "2025"
+category: "theory"
 ---
 
 # I Am an Anarchist Remembering Anarchist Prisoner Brian Mccarvill Who Died of Cov

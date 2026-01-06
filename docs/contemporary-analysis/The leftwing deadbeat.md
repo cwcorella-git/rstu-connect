@@ -1,3 +1,8 @@
+---
+title: "**The leftwing deadbeat**"
+category: "contemporary-analysis"
+---
+
 ### **MK Lees & Marianne Garneau**
 
 # **The leftwing deadbeat**

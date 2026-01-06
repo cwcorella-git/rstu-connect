@@ -1,8 +1,14 @@
+---
+title: "## **Lenin on 'freedom of love' as a bourgeois demand**"
+category: "contemporary-analysis"
+---
+
 ## **Lenin on 'freedom of love' as a bourgeois demand**
 
 | Date: Unknown |
 |------------------------------------------------------------------------------------------------------------------|
-| Source: https://libcom.org/article/lenin-freedom-love-bourgeois-demand<br>Tags: Vladimir Lenin, feminism, gender |
+| Source: https://libcom.org/article/lenin-freedom-love-bourgeois-demand
+Tags: Vladimir Lenin, feminism, gender |
 | |
 | Letters from Lenin to Inessa Armand Written on 1915 where he describes 'freedom of love' as |
 | a bourgeois demand. Furthermore freedom of love is described as 'freedom from the serious |
@@ -29,15 +35,21 @@
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 4. From prohibitions by Papa, etc.? |
 | 5. From the prejudices of "society"? |
-| 6. From the narrow circumstances of one's environment (peasant or petty-bourgeois or<br>bourgeois intellectual)? |
+| 6. From the narrow circumstances of one's environment (peasant or petty-bourgeois or
+bourgeois intellectual)? |
 | 7. From the fetters of the law, the courts and the police? |
 | 8. From the serious element in love? |
 | 9. From child-birth? |
 | 10. Freedom of adultery? Etc. |
-| I have enumerated many shades (not all, of course). You have in mind, of course, not nos.<br>8–10, but either nos. 1–7 or something similar to nos. 1–7. |
-| But then for nos. 1–7 you must choose a different wording, because freedom of love does not<br>express this idea exactly. |
-| And the public, the readers of the pamphlet, will inevitably understand by "freedom of love", in<br>general, some thing like nos. 8–10, even without your wishing it. |
-| Just because in modern society the most talkative, noisy and "top-prominent" classes<br>understand by "freedom of love" nos. 8–10, just for that very reason this is not a proletarian<br>but a bourgeois demand. |
+| I have enumerated many shades (not all, of course). You have in mind, of course, not nos.
+8–10, but either nos. 1–7 or something similar to nos. 1–7. |
+| But then for nos. 1–7 you must choose a different wording, because freedom of love does not
+express this idea exactly. |
+| And the public, the readers of the pamphlet, will inevitably understand by "freedom of love", in
+general, some thing like nos. 8–10, even without your wishing it. |
+| Just because in modern society the most talkative, noisy and "top-prominent" classes
+understand by "freedom of love" nos. 8–10, just for that very reason this is not a proletarian
+but a bourgeois demand. |
 
 For the proletariat nos. 1–2 are the most important, and then nos. 1–7, and those, in fact, are not "freedom of love".
 

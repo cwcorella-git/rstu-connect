@@ -1,3 +1,8 @@
+---
+title: "**The Trail of Political Consciousness**"
+category: "technology-digital-justice"
+---
+
 [starwars.fandom.com](https://starwars.fandom.com/wiki/The_Trail_of_Political_Consciousness)
 
 # **The Trail of Political Consciousness**
@@ -62,11 +67,11 @@ As the team journeyed to the Aldhani outpost, Andor revealed, after a confrontat
 
 **[\]](https://starwars.fandom.com/wiki/The_Trail_of_Political_Consciousness?veaction=edit§ion=6)**
 
-<sup>&</sup>quot;Nemik's manifesto. He said to give this to you."
+&quot;Nemik's manifesto. He said to give this to you."
 
-## <sup>&</sup>quot;I don't want it."
+## &quot;I don't want it."
 
-## <sup>&</sup>quot;He insisted."
+## &quot;He insisted."
 
 #### ―Vel Sartha and Cassian Ando[r\[6\]](about:reader?url=https%3A%2F%2Fstarwars.fandom.com%2Fwiki%2FThe_Trail_of_Political_Consciousness#cite_note-Eye-6)
 
@@ -84,17 +89,17 @@ Andor eventually took refuge on the planet [Niamos,](https://starwars.fandom.com
 
 The text and audio of the manifesto spread widely throughout the galaxy in the years leading up to the [Battle of Yavin.](https://starwars.fandom.com/wiki/Battle_of_Yavin) By [1](https://starwars.fandom.com/wiki/1_BBY) [BBY,](https://starwars.fandom.com/wiki/1_BBY) [\[10\]](about:reader?url=https%3A%2F%2Fstarwars.fandom.com%2Fwiki%2FThe_Trail_of_Political_Consciousness#cite_note-Andor_JKEDate-10) the Galactic Empire was aware of the manifesto, trying unsuccessfully to prevent its dissemination. In that same year, [Major](https://starwars.fandom.com/wiki/Major) [Lio Partagaz](https://starwars.fandom.com/wiki/Lio_Partagaz) of the [Imperial Security Bureau](https://starwars.fandom.com/wiki/Imperial_Security_Bureau) listened to the manifesto in the [ISB conference room](https://starwars.fandom.com/wiki/ISB_conference_room) shortly before his
 
-<sup>&</sup>quot;I'm assuming you've heard it before."
+&quot;I'm assuming you've heard it before."
 
-## <sup>&</sup>quot;Bits and pieces."
+## &quot;Bits and pieces."
 
-<sup>&</sup>quot;Just keeps spreading, doesn't it?"
+&quot;Just keeps spreading, doesn't it?"
 
-## <sup>&</sup>quot;It's been hard to contain."
+## &quot;It's been hard to contain."
 
-## <sup>&</sup>quot;Who do you think it is?"
+## &quot;Who do you think it is?"
 
-<sup>―</sup>Lio Partagaz and Lagre[t\[9\]](about:reader?url=https%3A%2F%2Fstarwars.fandom.com%2Fwiki%2FThe_Trail_of_Political_Consciousness#cite_note-JKE-9)
+―Lio Partagaz and Lagre[t\[9\]](about:reader?url=https%3A%2F%2Fstarwars.fandom.com%2Fwiki%2FThe_Trail_of_Political_Consciousness#cite_note-JKE-9)
 
 [suicide,](https://starwars.fandom.com/wiki/Death) wondering aloud who might have created it[.\[9\]](about:reader?url=https%3A%2F%2Fstarwars.fandom.com%2Fwiki%2FThe_Trail_of_Political_Consciousness#cite_note-JKE-9)
 

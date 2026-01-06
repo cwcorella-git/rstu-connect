@@ -1,3 +1,8 @@
+---
+title: "**Murray Bookchin and Dave Foreman Defending the Earth: A Debate 1991**"
+category: "arts-culture-music"
+---
+
 # **Murray Bookchin and Dave Foreman Defending the Earth: A Debate 1991**
 
 **Foreword: Turning Debate Into Dialogue**
@@ -238,7 +243,7 @@ We need to create an ecologically oriented society out of the present antiecolog
 
 ### **Audience Member:**
 
-Excuse me, I want to know what you have to say about the technological fi<sup>x</sup> called genetic engineering? I'm hearing other species, other animals, being spoken about by you as subordinate moments in the evolution of human consciousness, the self-consciousness which you call "second nature." It seems to me that if we choose to believe this about other organisms then there is no reason to resist genetically engineering other organisms to suit our wishes. What kind of spiritual perspective does this represent?
+Excuse me, I want to know what you have to say about the technological fix called genetic engineering? I'm hearing other species, other animals, being spoken about by you as subordinate moments in the evolution of human consciousness, the self-consciousness which you call "second nature." It seems to me that if we choose to believe this about other organisms then there is no reason to resist genetically engineering other organisms to suit our wishes. What kind of spiritual perspective does this represent?
 
 ### **Murray Bookchin:**
 
@@ -346,7 +351,7 @@ As I see it, Murray and I, atheists that we both probably are, are trying in var
 
 #### **Paul Mc Isaac:**
 
-Those of you who have been following and reading the Earth First! journal and Murray's writings, or who have attended a number of green conferences have understood that a strident, often harsh, debate has existed within the radical ecology movement for the past few years, a conflict in which both Murray and Dave have played a big part. It seems important to me that they're both here now on the same stage and that they have reached out to each other so strongly in their opening remarks. Perhaps now we can productively turn to <sup>a</sup> number of differences between them that have appeared in their previous talks and writings. Right now, I would choose just one difference to ask about — their differing views about the role to be played in the ecology movement by what I call, for lack of a better term, the left.
+Those of you who have been following and reading the Earth First! journal and Murray's writings, or who have attended a number of green conferences have understood that a strident, often harsh, debate has existed within the radical ecology movement for the past few years, a conflict in which both Murray and Dave have played a big part. It seems important to me that they're both here now on the same stage and that they have reached out to each other so strongly in their opening remarks. Perhaps now we can productively turn to a number of differences between them that have appeared in their previous talks and writings. Right now, I would choose just one difference to ask about — their differing views about the role to be played in the ecology movement by what I call, for lack of a better term, the left.
 
 When I was out in Oregon, I had dinner one night with some Earth First!ers and this debate came up within that group. One of the women, Judi Bari, was from the East Coast originally, and comes out of a leftist tradition. When she went out to California, and ultimately to Oregon, she got involved in Earth First!. She is now a very active and successful Earth First! organizer in that area. Interestingly, what she's done with her left tradition is reach back to the tremendous history of the Industrial Workers of the World in the Northwest in order to understand what they did and how they worked, in order to see if their organizing holds any lessons for the radical ecology movement today.
 
@@ -472,21 +477,21 @@ I am convinced that we will need to "green the left and radicalize the greens" i
 
 I guess I was sent from central casting to be the "mainstream" activist in this important discussion. While I agree with Murray and Dave that the ecological crisis is serious, I am not sure I agree with their strategic approaches for making change. For one thing, I believe in the primacy cf electoral reform and working within the system.
 
-I've been lucky enough to be a participant in the creation of a coalition here in New York called Environment '90. Ours is a platform-building exercise which has emerged this year in response to the mayoral election. We believe that the choices among the major candidates and their platforms would make a difference in how things would go next year in our city. So we've pulled together groups and individuals who are active in fighting for <sup>a</sup> better environment and are trying to come up with a consensus statement on what we hoped could happen as a result of a change in government.
+I've been lucky enough to be a participant in the creation of a coalition here in New York called Environment '90. Ours is a platform-building exercise which has emerged this year in response to the mayoral election. We believe that the choices among the major candidates and their platforms would make a difference in how things would go next year in our city. So we've pulled together groups and individuals who are active in fighting for a better environment and are trying to come up with a consensus statement on what we hoped could happen as a result of a change in government.
 
-The City of New York has been governed for the last twelve years or more by a school of thought that says the way to deal with our fiscal crisis is to sell, sell, sell whatever's available to the highest bidder in order to bolster the tax base. In the case of New York, what we mostly have to sell, sell, sell is our land and permission to build on it. So groups like mine have been engaged along with other environmental and civic activists in a pitched battle in the administrative agencies, in the courts, in the papers, and on TV. The battle for public opinion is over how high should we build; how dense shall we build; how tall shall we build — how far shall we close down, close in, concrete-ify the city that we all have to live and survive in. Our sense is that these issues matter and that it is worthwhile getting together to try to work out <sup>a</sup> comprehensive and realistic platform that the citizens of our city will feel comfortable with. Our hope is that we can spark a series of meetings and discussions that will lead to a program for the first hundred days of the new mayoral administration.
+The City of New York has been governed for the last twelve years or more by a school of thought that says the way to deal with our fiscal crisis is to sell, sell, sell whatever's available to the highest bidder in order to bolster the tax base. In the case of New York, what we mostly have to sell, sell, sell is our land and permission to build on it. So groups like mine have been engaged along with other environmental and civic activists in a pitched battle in the administrative agencies, in the courts, in the papers, and on TV. The battle for public opinion is over how high should we build; how dense shall we build; how tall shall we build — how far shall we close down, close in, concrete-ify the city that we all have to live and survive in. Our sense is that these issues matter and that it is worthwhile getting together to try to work out a comprehensive and realistic platform that the citizens of our city will feel comfortable with. Our hope is that we can spark a series of meetings and discussions that will lead to a program for the first hundred days of the new mayoral administration.
 
 Murray and Dave probably see this as very tame stuff. Both of them seem to think that our society, indeed our civilization, is "rotten to the core" and that it is unreformable. Well, frankly, I don't believe that our society is rotten to the core. Sure, our society is unjust. Our society is exploitative. Our society is making unwise decisions as an entity. Its institutional parts are not yet fully representative of the public interest and we have to change that. But we live in an enormously stable society, one that changes slowly and reluctantly. I don't see a revolution around the corner, eco-anarchist or otherwise. So, I think we better get good at old-fashioned reformism. That's what makes a real difference in the here and now.
 
 I remember working against a presidential candidate during the Vietnam era who wanted to bomb the Vietnamese back to the Stone Age. I worked instead for somebody who wasn't ready to go that far. It wasn't much of a choice, but it was the only one we were offered in the electoral arena where key decisions are made, and I think it mattered. It was important to work for the less destructive candidate. Because in the end, those of us who wanted to stop the war short of completely destroying Vietnamese society and culture needed to be effective in putting pressure to bear on the government to limit its destructiveness. And we did that. Indeed, we eventually stopped the war. We eventually convinced people in influential positions in our society to pay attention to our views and to respond favorably. That, I think, is the key to political effectiveness.
 
-It is quite possible to work within the institutions that are available to us to make things happen the way we want. The trick is being willing to make <sup>e</sup>ffective use of the machinery of government available to us and getting our message across to the general public and government decisionmakers without alienating them. Talk of revolution, using "rotten to the core" language, and refusing to take part in elections, political parties, the mass media, the courts, and lobbying all seem counter-productive to me.
+It is quite possible to work within the institutions that are available to us to make things happen the way we want. The trick is being willing to make effective use of the machinery of government available to us and getting our message across to the general public and government decisionmakers without alienating them. Talk of revolution, using "rotten to the core" language, and refusing to take part in elections, political parties, the mass media, the courts, and lobbying all seem counter-productive to me.
 
-Let me use a more current and local example. At a recent meeting of the West Side Panel, a city/state development planning body, it was announced that the Panel had modified its infamous "Westway Proposal" to fill in the Hudson River, bore <sup>a</sup> tunnel through it, and place high rise real-estate projects on the top along with some park land as <sup>a</sup> bone for local environmentalists. The head of the panel announced to the assembled throng — and there were at least a hundred people in the room and lots of media that the panel had decided to forego the option of a landfill. A murmur spread through the crowd as people began asking each other how come the option of the landfill was not being pursued any more as part of the construction that is going on on the west side of Manhattan.
+Let me use a more current and local example. At a recent meeting of the West Side Panel, a city/state development planning body, it was announced that the Panel had modified its infamous "Westway Proposal" to fill in the Hudson River, bore a tunnel through it, and place high rise real-estate projects on the top along with some park land as a bone for local environmentalists. The head of the panel announced to the assembled throng — and there were at least a hundred people in the room and lots of media that the panel had decided to forego the option of a landfill. A murmur spread through the crowd as people began asking each other how come the option of the landfill was not being pursued any more as part of the construction that is going on on the west side of Manhattan.
 
-That "how come" is that some local citizens wouldn't give up. They were incredibly persistent, dedicating their lives to struggle against this plan day and night, using the decision-making machinery of the society that was available to them — public hearings, the press, and the courts. Here is an example of people intelligently using the institutional apparatus of society to stop a bad thing from happening — the filling-in of the Hudson River. Well, it has been stopped and we think we even have <sup>a</sup> fairly good chance of negotiating with the West Side Panel for the creation of a modest boulevard and a splendid park as part of a Hudson River Greenway that could stand as one of the great monuments to citizen ingenuity and environmental preservation in this society.
+That "how come" is that some local citizens wouldn't give up. They were incredibly persistent, dedicating their lives to struggle against this plan day and night, using the decision-making machinery of the society that was available to them — public hearings, the press, and the courts. Here is an example of people intelligently using the institutional apparatus of society to stop a bad thing from happening — the filling-in of the Hudson River. Well, it has been stopped and we think we even have a fairly good chance of negotiating with the West Side Panel for the creation of a modest boulevard and a splendid park as part of a Hudson River Greenway that could stand as one of the great monuments to citizen ingenuity and environmental preservation in this society.
 
-So I think it is possible to defend the Earth through the utilization of the available institutional machinery in our society and <sup>a</sup> willingness to compromise on some points. We don't reject real-estate development outright, just the worst, most destructive aspects of urban development. That doesn't mean that we are never militant. That doesn't mean that we never pose choices in very stark ways. But I think that we have got to assume that this is a stable society that moves slowly and that we can change it if we're very, very careful to work out effective, realistic strategies that have some chance of success rather than chasing after Utopian dreams.
+So I think it is possible to defend the Earth through the utilization of the available institutional machinery in our society and a willingness to compromise on some points. We don't reject real-estate development outright, just the worst, most destructive aspects of urban development. That doesn't mean that we are never militant. That doesn't mean that we never pose choices in very stark ways. But I think that we have got to assume that this is a stable society that moves slowly and that we can change it if we're very, very careful to work out effective, realistic strategies that have some chance of success rather than chasing after Utopian dreams.
 
 My question for Dave and Murray, then, is why don't you try to work within the system more? Why are you so convinced that our society is "rotten to the core?" Why do you see your more radical strategies for change as realistic? What is wrong with a pragmatic reformist strategy?
 
@@ -638,11 +643,11 @@ This predatory behavior has also been directed, from the very start, at the ecol
 
 The modern environmental or ecology movement marks an important break with this corrupt worldview. I have a great respect for this movement. The ecological question is clearly the overriding ethical and survival question confronting the human race today. Yet, I wonder how profound a break with our nation's past the ecology movement can actually spark if it is unwilling to also confront the question of racism. Racism has been the foundation of the American social system. Our country is a racist system from top to bottom. Racism has become so integral to American life that people don't even see it or respond to it any longer.
 
-To date, the ecology movement has reflected this history more often than it has broken with it. The movement has often one-sidedly challenged our society's destructiveness towards non-human nature but ignored its ongoing and direct degradation of human beings, particularly of poor people of color who are among the most victimized. The movement has all too often developed its program in ways that stand in conflict with the short- and longterm needs of poor people of color all over the world. Because of its history as <sup>a</sup> predominantly white and middle-class movement, the environmental movement's vision has been incomplete, and important alliances have not been made.
+To date, the ecology movement has reflected this history more often than it has broken with it. The movement has often one-sidedly challenged our society's destructiveness towards non-human nature but ignored its ongoing and direct degradation of human beings, particularly of poor people of color who are among the most victimized. The movement has all too often developed its program in ways that stand in conflict with the short- and longterm needs of poor people of color all over the world. Because of its history as a predominantly white and middle-class movement, the environmental movement's vision has been incomplete, and important alliances have not been made.
 
 These neglected alliances may hold the key to the future of the struggle for an ecological society. To their credit, both Murray and Dave have clearly identified capitalism as one of the greatest sources of danger for the world of life. They are right. We do live in a society where there is a ruling class that owns or controls all the basic resources and institutions of society, where the very dynamics of the system require constant growth and exploitation, and where the general interest for grassroots democracy, human solidarity, and ecological balance is thwarted to meet the special interests of the ruling class. This raises the question, however, of how can we organize a broad-based movement that can fundamentally change this system.
 
-What we need to understand is that one of the most important keys to the ruling class being able to divide and conquer and wield its power, at least in this country, is racism. Historically, racism has divided masses of ordinary Americans who are in reality natural and logical allies in the struggle against the destructive <sup>e</sup>ffects and underlying elite institutions of corporate capitalism. Racism has thus been a strategic disaster for any social movement in this country aiming at reform or fundamental change. There is perhaps no force that has been more divisive. We have seen it wreck or limit movements over and over again in our history.
+What we need to understand is that one of the most important keys to the ruling class being able to divide and conquer and wield its power, at least in this country, is racism. Historically, racism has divided masses of ordinary Americans who are in reality natural and logical allies in the struggle against the destructive effects and underlying elite institutions of corporate capitalism. Racism has thus been a strategic disaster for any social movement in this country aiming at reform or fundamental change. There is perhaps no force that has been more divisive. We have seen it wreck or limit movements over and over again in our history.
 
 Can the ecology movement afford, either morally or strategically, to ignore racism and the importance of bridging the racial gap? Can it afford to concern itself only with wilderness areas and non-human life and ignore the degraded and unhealthy environments in the workplace, in our urban communities, and in our rural areas that disproportionately affect working-class people and poor people of color? Can it afford to lose potential allies because of its indifference or lack of knowledge?
 
@@ -910,45 +915,45 @@ Nature is very real and concrete to me, a living, ever-changing and wondrous dev
 
 One of my major goals is to foster the development of a non-hierarchical ethics of complementarity among humans and between humanity and nonhuman life. This should be the fundamental starting point, the unshakable common ground, of the radical ecology movement. Perhaps the greatest contribution of this dialogue between Dave Foreman and myself is that it proves if radical ecologists can agree on this as their common ground, we can work together and — regardless of our other disagreements — productively learn from each other. In this, I believe, lies the hope of the ecology movement.
 
-[<sup>\[1\]</sup>](#page-4-1) Donald Worster, Nature's Economy: A History of Ecological Ideas (New York: Cambridge University Press, 1977), xi.
+[\[1\]](#page-4-1) Donald Worster, Nature's Economy: A History of Ecological Ideas (New York: Cambridge University Press, 1977), xi.
 
-[<sup>\[2\]</sup>](#page-4-2) Andrew Dobson, Green Political Thought (London: Unwin Hyman, 1990), 13.
+[\[2\]](#page-4-2) Andrew Dobson, Green Political Thought (London: Unwin Hyman, 1990), 13.
 
-[<sup>\[3\]</sup>](#page-4-3) Murray Bookchin, Our Synthetic Environment (New York: Colophon, 1974), xv.
+[\[3\]](#page-4-3) Murray Bookchin, Our Synthetic Environment (New York: Colophon, 1974), xv.
 
-[<sup>\[4\]</sup>](#page-5-0) Arne Naess, "The Shallow and the Deep, Long-Range Ecology Movement: A Summary," Inquiry, No. 16,1973, 95–100.
+[\[4\]](#page-5-0) Arne Naess, "The Shallow and the Deep, Long-Range Ecology Movement: A Summary," Inquiry, No. 16,1973, 95–100.
 
-[<sup>\[5\]</sup>](#page-5-1) Murray Bookchin, "Crisis in the Ecology Movement," Z Magazine, July-August 1988,121.
+[\[5\]](#page-5-1) Murray Bookchin, "Crisis in the Ecology Movement," Z Magazine, July-August 1988,121.
 
-[<sup>\[6\]</sup>](#page-5-2) Warwick Fox, Towards a Transpersonal Ecology (Boston: Shambhala, 1990), 75.
+[\[6\]](#page-5-2) Warwick Fox, Towards a Transpersonal Ecology (Boston: Shambhala, 1990), 75.
 
-[<sup>\[7\]</sup>](#page-6-0) Roderick Nash, The Rights of Nature: <sup>A</sup> History of Environmental Ethics (Madison: University of Wisconsin Press, 1989), 164–65.
+[\[7\]](#page-6-0) Roderick Nash, The Rights of Nature: A History of Environmental Ethics (Madison: University of Wisconsin Press, 1989), 164–65.
 
-[<sup>\[8\]</sup>](#page-6-1) Michael Tobias, ed., Deep Ecology (San Marcos: Avant Books, 1984); Bill Devall and George Sessions, Deep Ecology: Living as if Nature Mattered (Salt Lake City: Peregrine Smith Books, 1985).
+[\[8\]](#page-6-1) Michael Tobias, ed., Deep Ecology (San Marcos: Avant Books, 1984); Bill Devall and George Sessions, Deep Ecology: Living as if Nature Mattered (Salt Lake City: Peregrine Smith Books, 1985).
 
-[<sup>\[9\]</sup>](#page-6-2) Christopher Manes, Green Rage: Radical Environmentalism and the Unmaking of Civilization (Boston: Little, Brown & Company, 1990), 154.
+[\[9\]](#page-6-2) Christopher Manes, Green Rage: Radical Environmentalism and the Unmaking of Civilization (Boston: Little, Brown & Company, 1990), 154.
 
-[<sup>\[10\]</sup>](#page-7-0) Murray Bookchin, Social Ecology versus Deep Ecology (Burlington: Green Program Project, 1988), 4.
+[\[10\]](#page-7-0) Murray Bookchin, Social Ecology versus Deep Ecology (Burlington: Green Program Project, 1988), 4.
 
-[<sup>\[11\]</sup>](#page-7-1) Edward Abbey, "U. N. C. L. E.," Utne Reader, March-April 1988, 7.
+[\[11\]](#page-7-1) Edward Abbey, "U. N. C. L. E.," Utne Reader, March-April 1988, 7.
 
-[<sup>\[12\]</sup>](#page-7-2) Bill Devall, Simple in Means, Rich in Ends: Practicing Deep Ecology (Salt Lake City: Peregrine Smith Books, 1988), 136.
+[\[12\]](#page-7-2) Bill Devall, Simple in Means, Rich in Ends: Practicing Deep Ecology (Salt Lake City: Peregrine Smith Books, 1988), 136.
 
-[<sup>\[13\]</sup>](#page-7-3) Christopher Manes, 160.
+[\[13\]](#page-7-3) Christopher Manes, 160.
 
-[<sup>\[14\]</sup>](#page-7-4) Roderick Nash, Wilderness and the American Mind (New Haven: Yale University Press, 1982), 379–388.
+[\[14\]](#page-7-4) Roderick Nash, Wilderness and the American Mind (New Haven: Yale University Press, 1982), 379–388.
 
-[<sup>\[15\]</sup>](#page-8-0) Ibid., 380.
+[\[15\]](#page-8-0) Ibid., 380.
 
-[<sup>\[16\]</sup>](#page-8-1) Murray Bookchin, Our Synthetic Environment, xiv.
+[\[16\]](#page-8-1) Murray Bookchin, Our Synthetic Environment, xiv.
 
-[<sup>\[17\]</sup>](#page-8-2) Murray Bookchin, Remaking Society:Pathways to a Green Future (Boston: South End Press, 1990), 155.
+[\[17\]](#page-8-2) Murray Bookchin, Remaking Society:Pathways to a Green Future (Boston: South End Press, 1990), 155.
 
-[<sup>\[18\]</sup>](#page-8-3) Judi Bari, "Expand Earth First!," Earth First!, September 22,1990, 5.
+[\[18\]](#page-8-3) Judi Bari, "Expand Earth First!," Earth First!, September 22,1990, 5.
 
-[<sup>\[19\]</sup>](#page-9-0) René Dubos, The Wooing of Earth (London: Athlone Press, 1980), 1.
+[\[19\]](#page-9-0) René Dubos, The Wooing of Earth (London: Athlone Press, 1980), 1.
 
-[<sup>\[20\]</sup>](#page-9-1) See, for example, Robyn Eckersley, "Divining Evolution: The Ecological Ethics of Murray Bookchin," Environmental Ethics, No. 11,1989, 99–116. For Bookchin's challenge to this
+[\[20\]](#page-9-1) See, for example, Robyn Eckersley, "Divining Evolution: The Ecological Ethics of Murray Bookchin," Environmental Ethics, No. 11,1989, 99–116. For Bookchin's challenge to this
 
 - characterization of his views, see Murray Bookchin, "Recovering Evolution: A Reply to Eckersley and Fox," Environmental Ethics, No. 12,1990, 253–274.
  - [\[21\]](#page-9-2) Murray Bookchin, The Ecology of Freedom (Palo Alto: Cheshire Books, 1982), 24.

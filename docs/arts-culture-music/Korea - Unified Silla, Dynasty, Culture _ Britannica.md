@@ -1,3 +1,8 @@
+---
+title: "**Kolp'um | Confucianism, Hierarchy, Caste System**"
+category: "arts-culture-music"
+---
+
 #### [britannica.com](https://www.britannica.com/place/Korea/Unified-Silla)
 
 # **Kolp'um | Confucianism, Hierarchy, Caste System**

@@ -1,3 +1,8 @@
+---
+title: "**Murray Bookchin Social Ecology and Communalism 2006**"
+category: "environmental-justice"
+---
+
 # **Murray Bookchin Social Ecology and Communalism 2006**
 
 #### **An Introduction to Social Ecology and Communalism What is Social Ecology?**

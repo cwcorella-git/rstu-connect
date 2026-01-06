@@ -1,3 +1,8 @@
+---
+title: "## **The Teacher Strike in West Virginia: Interview with IWW Teacher Michael Mochaidean**"
+category: "organizing"
+---
+
 ## **The Teacher Strike in West Virginia: Interview with IWW Teacher Michael Mochaidean**
 
 ## **Date:** Wed, 03/14/2018 - 18:06

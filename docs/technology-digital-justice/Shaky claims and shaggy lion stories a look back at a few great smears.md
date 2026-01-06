@@ -1,3 +1,8 @@
+---
+title: "## **Shaky claims and shaggy lion stories: a look back at a few great smears**"
+category: "technology-digital-justice"
+---
+
 ## **Shaky claims and shaggy lion stories: a look back at a few great smears**
 
 ## **Date:** Unknown

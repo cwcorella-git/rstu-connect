@@ -1,3 +1,8 @@
+---
+title: "UAE's africa institute cancels david adjaye-designed campus in sharjah"
+category: "international-solidarity"
+---
+
 #### [designboom.com](https://www.designboom.com/architecture/uae-africa-institute-sharjah-cancels-david-adjaye-campus-07-13-2023/)
 
 # UAE's africa institute cancels david adjaye-designed campus in sharjah

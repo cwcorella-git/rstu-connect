@@ -1,3 +1,8 @@
+---
+title: "What Is the Environmental Impact of Each Building Material?"
+category: "environmental-justice"
+---
+
 #### [archdaily.com](https://www.archdaily.com/984663/what-is-the-environmental-impact-of-each-building-material)
 
 # What Is the Environmental Impact of Each Building Material?
@@ -64,4 +69,4 @@ The tool is therefore able to compile, in one place and through an intuitive int
 
 Learn more about the tool and make comparisons for your projects on the [official website.](https://www.materialepyramiden.dk/?utm_medium=website&utm_source=archdaily.com)
 
-Cite: Souza, Eduardo. "What Is the Environmental Impact of Each Building Material?" [Qual o impacto ambiental de cada material de construção? ] 07 Jul 2022. Arch Daily. Accessed 18 Sep 2023. <https://www.archdaily.com/984663/what-is-the-environmentalimpact-of-each-building-material> ISSN 0719-8884
+Cite: Souza, Eduardo. "What Is the Environmental Impact of Each Building Material?" [Qual o impacto ambiental de cada material de construção? ] 07 Jul 2022. Arch Daily. Accessed 18 Sep 2023.  ISSN 0719-8884

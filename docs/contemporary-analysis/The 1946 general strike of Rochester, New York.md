@@ -1,3 +1,8 @@
+---
+title: "## **The 1946 general strike of Rochester, New York**"
+category: "contemporary-analysis"
+---
+
 ## **The 1946 general strike of Rochester, New York**
 
 ## **Date:** Unknown

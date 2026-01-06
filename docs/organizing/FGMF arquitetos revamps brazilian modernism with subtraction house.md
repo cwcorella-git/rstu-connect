@@ -1,16 +1,21 @@
-## [home > a](https://www.designboom.com/)[rchitecture](https://www.designboom.com/architecture/) [> FGMF arquitetos revamps bra](https://www.designboom.com/)zilian modernism with house of voids 'subtrac�on house' [socialize](javascript:void(0)) compe [design directory](https://www.designboom.com/design-directory/) shop 1��courses ons [architecture](javascript:void(0)) [1](javascript:void(0))
+---
+title: "## ![](_page_0_Picture_3.jpeg)"
+category: "organizing"
+---
+
+## [home > a](https://www.designboom.com/)[rchitecture](https://www.designboom.com/architecture/) [> FGMF arquitetos revamps bra](https://www.designboom.com/)zilian modernism with house of voids 'subtracon house' [socialize](javascript:void(0)) compe [design directory](https://www.designboom.com/design-directory/) shop 1courses ons [architecture](javascript:void(0)) [1](javascript:void(0))
 
 ## ![](_page_0_Picture_3.jpeg)
 
 ## ![](_page_0_Picture_4.jpeg)
 
-FGMF arquitetos revamps brazilian modernism with house of voids 'subtrac�on house'
+FGMF arquitetos revamps brazilian modernism with house of voids 'subtracon house'
 
 ## LASCIATE OGNI SPERANZA O VOI CHE ENTRATE
 
 (divine comedy, dante alighieri)
 
-we use cookies to make your reading a be�er experience. [got it!](https://www.designboom.com/architecture/fgmf-arquitetos-casa-subtracao-subtraction-house-brazil-02-06-2024/#) [more info](https://www.designboom.com/cookie-policy) [>](https://www.designboom.com/cookie-policy)
+we use cookies to make your reading a beer experience. [got it!](https://www.designboom.com/architecture/fgmf-arquitetos-casa-subtracao-subtraction-house-brazil-02-06-2024/#) [more info](https://www.designboom.com/cookie-policy) [>](https://www.designboom.com/cookie-policy)
 
 ## 1 of 20 5/29/24, 3:06 PM
 

@@ -1,15 +1,22 @@
+---
+title: "## **Zero magazine**"
+category: "contemporary-analysis"
+---
+
 ## **Zero magazine**
 
 | Date: Unknown |
 |-------------------------------------------------------------------------------------------------------------------------------|
 | Source: https://libcom.org/article/zero-magazine|
 | Tags: Zero, anarchism, London, United Kingdom, feminism, publications |
-| An archive of the London-based magazine anarchist / anarcha-feminist magazine Zerofrom<br>the late 1970s. |
+| An archive of the London-based magazine anarchist / anarcha-feminist magazine Zerofrom
+the late 1970s. |
 | Taken from Anarchy Archives. |
 | syndicalist |
 | 7 years 2 months ago |
 | In reply to Welcomebylibcom.org |
-| A mixed bag 1970s UK anarchist publication Def a paper reflective of the times and<br>elementscomposing the anarchist movement |
+| A mixed bag 1970s UK anarchist publication Def a paper reflective of the times and
+elementscomposing the anarchist movement |
 | Fozzie |
 | 7 years 2 months ago |
 | In reply to Welcomebylibcom.org |

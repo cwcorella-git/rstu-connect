@@ -1,13 +1,8 @@
 ---
-title: Revolutionary Class Union
-date: 2025
-author: Industrial Workers of the World
-tags:
-  - organizing
-  - strikes
-  - unions
-  - rent
-  - labor
+title: "Revolutionary Class Union"
+author: "Industrial Workers of the World"
+date: "2025"
+category: "labor"
 ---
 
 # Revolutionary Class Union

@@ -1,3 +1,8 @@
+---
+title: "**Table of Contents**"
+category: "contemporary-analysis"
+---
+
 ignacio hills
 
 ## "Beautifully formatted classics." "
@@ -686,7 +691,13 @@ In February, 1848, the now historical *"Communist Manifesto"* appeared in London
 
 "The condition upon which capital depends is wages-labor. Wageslabor rests exclusively on the competition of the workingmen among themselves. The progress of industry, tends to supersede the isolated action of the workingmen by the revolutionary union of their class, and to replace competition by association. With the development of modern industry therefore the basis on which the bourgeoisie manages production and appropriates the products of labor is drawn from under its feet. Thus the bourgeoisie produces its own grave. Its downfall and the
 
-| victory<br>of<br>the<br>proletariat<br>are<br>alike<br>unavoidable." | | | | | | | | |
+| victory
+of
+the
+proletariat
+are
+alike
+unavoidable." | | | | | | | | |
 |----------------------------------------------------------------------|--|--|--|--|--|--|--|--|
 | | | | | | | | | |
 | | | | | | | | | |
@@ -732,7 +743,35 @@ In their closing speeches the prosecution declared: "Law is upon trial.-Anarchy 
 
 It is mainly, if not wholly, on account of the declarations made by the prosecution in the paragraph quoted above that the author has written and compiled this work, to wit: that not being permitted to defend or explain the belief we entertained; that having been condemned
 
-| unheard<br>for<br>social<br>heresy, the<br>world<br>which<br>is<br>our<br>final<br>judge<br>and<br>to<br>which<br>we<br>appeal,<br>may<br>know,<br>as<br>it<br>has<br>a<br>right<br>to<br>know,<br>in<br>what<br>our<br>offense<br>consisted. | | | | | | | | |
+| unheard
+for
+social
+heresy, the
+world
+which
+is
+our
+final
+judge
+and
+to
+which
+we
+appeal,
+may
+know,
+as
+it
+has
+a
+right
+to
+know,
+in
+what
+our
+offense
+consisted. | | | | | | | | |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|--|--|--|--|--|--|--|
 | | | | | | | | | |
 | | | | | | | | | |
@@ -1744,9 +1783,15 @@ LATER.--Well, my dear old comrade, the fatal hour draws near Ceasar kept me awak
 
 # **Table of Contents**
 
-| CHAPTER<br>II. | CAPITALISMITS | DEVELOPMENT | IN<br>THE | UNITED | STATES<br>-PART | II |
+| CHAPTER
+II. | CAPITALISMITS | DEVELOPMENT | IN
+THE | UNITED | STATES
+-PART | II |
 |----------------|--------------------|--------------------|-----------|--------|-----------------|-----|
-| CHAPTER | III.<br>CAPITALISM | ITS<br>DEVELOPMENT | IN<br>THE | UNITED | STATESPART | III |
+| CHAPTER | III.
+CAPITALISM | ITS
+DEVELOPMENT | IN
+THE | UNITED | STATESPART | III |
 ## | | | | | | | |
 
 CHAPTER IV. CAPITALISM--ITS ORIGIN AND DEVELOPMENT IN EUROPE.

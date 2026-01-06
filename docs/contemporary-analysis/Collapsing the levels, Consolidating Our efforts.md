@@ -1,3 +1,8 @@
+---
+title: "**Collapsing the levels, Consolidating Our efforts**"
+category: "contemporary-analysis"
+---
+
 # **Collapsing the levels, Consolidating Our efforts**
 
 ## **Date:** Thu, 12/17/2015 - 17:24

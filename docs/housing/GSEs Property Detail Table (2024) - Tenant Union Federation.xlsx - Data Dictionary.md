@@ -1,18 +1,10 @@
 ---
-title: Gses Property Detail Table 2024 Tenant Union Federationxlsx Data Dictionary
-author: Freddie Mac
-slug: >-
-  GSEs Property Detail Table (2024) - Tenant Union Federation.xlsx - Data
-  Dictionary
-reconversion_status: ready_for_reconversion
-date: 2024
-tags:
-  - housing
-  - tenants
-  - unions
-  - rent
-  - organizing
+title: "Gses Property Detail Table 2024 Tenant Union Federationxlsx Data Dictionary"
+author: "Freddie Mac"
+date: "2024"
+category: "housing"
 ---
+
 # **Tenant Union Federation (TUF)**
 
 2024 Database of Government-Sponsored Enterprise (GSE) Properties
@@ -42,7 +34,8 @@ The purpose of this database is to help local tenant organizing groups identify 
 |------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|--|--|
 | Fannie / Freddie | Whether the mortgage on the property is held by Fannie Mae or Freddie Mac. | | | |
 | Deal ID | The securitized pool that the mortgage has been placed into. This is also known as a "Transaction ID" in the Freddie and Fannie data portals. | | | |
-| Loan ID | The unique identified provided to the mortgage within the Freddie and Fannie securitized pools. Fannie calls these identifiers CUSIPs, and<br>Freddie calls them Loan IDs. | | | |
+| Loan ID | The unique identified provided to the mortgage within the Freddie and Fannie securitized pools. Fannie calls these identifiers CUSIPs, and
+Freddie calls them Loan IDs. | | | |
 | Property Name | The name of the property that received the mortgage. | | | |
 | Full Address | The full address of the property, which is a combination of the below four columns. | | | |
 | Address | The street number and street name of the property. | | | |
@@ -54,15 +47,30 @@ The purpose of this database is to help local tenant organizing groups identify 
 | County | The county where the property is located. | | | |
 | Year Built | The year the property was built. | | | |
 | # Units | The number of residential units in the property. | | | |
-| Property Type | For Fannie mortgages, we are able to identify a number of categories for the property, including whether it receives any additional<br>government subsidy. These are noted here. For Freddie mortgages, no such data exists. However, Freddie loans are securitized by program,<br>so the Deal ID is often an indicator of the kind of property being loaned to. See this link for detail about Freddie Mac's loan programs: https:<br>//mf.freddiemac.com/investors/presentations. | | | |
-| Property Value | The assumed value of the property when the mortgage was originated. This is a useful indicator, especially when divided by the number of<br>units, to think through how the landlord and lender understood the financial potential of the property, especially when compared to other<br>rental housing in the same area or city. | | | |
-| Loan Principal at Issuance | The total mortgage amount provided to the landlord at the time the mortgage was issued. NOTE: If loan principals seem abnormally large,<br>this may be the result of a "portfolio loan", or a loan issued across multiple properties. In these cases, it is best to look up the properties on<br>the investor portals linked above. | | | |
-| Loan Principal Current Balance | The total principal of the mortgage that remains unpaid at the moment we compiled this database. Note that, in many cases, even loans that<br>are a number of years old have very little principal paid off. Landlord mortgages are structured so that mostly interest is paid over the life of<br>the loan, and the vast majority of principal is only due at the end of the mortgage term. | | | |
-| Loan Origination Date | The date that the mortgage is originated. For Freddie Mac loans, we do not have access to the exact date of origination, so use a proxy date,<br>which is the date cut-off that the financials of the property were provided to the lender for the purposes of underwriting. This tracks very<br>closely with the date of origination. | | | |
-| Loan Maturity Date | The date that the mortgage term ends, or where the landlord borrower must pay off all remaining principal or get the loan refinanced. There is<br>significant amounts of missing in this column, as well as instances where the maturity date seems to have already passed. In these cases, it<br>makes sense to check the data in the actual Fannie and Freddie data portals linked in the 'Database Overview' above. | | | |
+| Property Type | For Fannie mortgages, we are able to identify a number of categories for the property, including whether it receives any additional
+government subsidy. These are noted here. For Freddie mortgages, no such data exists. However, Freddie loans are securitized by program,
+so the Deal ID is often an indicator of the kind of property being loaned to. See this link for detail about Freddie Mac's loan programs: https:
+//mf.freddiemac.com/investors/presentations. | | | |
+| Property Value | The assumed value of the property when the mortgage was originated. This is a useful indicator, especially when divided by the number of
+units, to think through how the landlord and lender understood the financial potential of the property, especially when compared to other
+rental housing in the same area or city. | | | |
+| Loan Principal at Issuance | The total mortgage amount provided to the landlord at the time the mortgage was issued. NOTE: If loan principals seem abnormally large,
+this may be the result of a "portfolio loan", or a loan issued across multiple properties. In these cases, it is best to look up the properties on
+the investor portals linked above. | | | |
+| Loan Principal Current Balance | The total principal of the mortgage that remains unpaid at the moment we compiled this database. Note that, in many cases, even loans that
+are a number of years old have very little principal paid off. Landlord mortgages are structured so that mostly interest is paid over the life of
+the loan, and the vast majority of principal is only due at the end of the mortgage term. | | | |
+| Loan Origination Date | The date that the mortgage is originated. For Freddie Mac loans, we do not have access to the exact date of origination, so use a proxy date,
+which is the date cut-off that the financials of the property were provided to the lender for the purposes of underwriting. This tracks very
+closely with the date of origination. | | | |
+| Loan Maturity Date | The date that the mortgage term ends, or where the landlord borrower must pay off all remaining principal or get the loan refinanced. There is
+significant amounts of missing in this column, as well as instances where the maturity date seems to have already passed. In these cases, it
+makes sense to check the data in the actual Fannie and Freddie data portals linked in the 'Database Overview' above. | | | |
 | Property Value Date | The date that the property value was assigned. | | | |
-| Geocode Match Address | The address produced by running the data through a geocoder. This can sometimes be slightly different than the address provided in the<br>Freddie and Fannie portals, and can be thought of as a standardized address, for comparison against other sources. | | | |
-| Geocode Score | The level of confidence that the geocoder produced accurate data, from 0-100. We only included results from the geocoder with a score over<br>90. If geocoded data is blank, it may still be possible to identify the actual address by looking it up manually. | | | |
+| Geocode Match Address | The address produced by running the data through a geocoder. This can sometimes be slightly different than the address provided in the
+Freddie and Fannie portals, and can be thought of as a standardized address, for comparison against other sources. | | | |
+| Geocode Score | The level of confidence that the geocoder produced accurate data, from 0-100. We only included results from the geocoder with a score over
+90. If geocoded data is blank, it may still be possible to identify the actual address by looking it up manually. | | | |
 | Latitude | The latitude of the property address. | | | |
 | Longitude | The longitude of the property address. | | | |
 

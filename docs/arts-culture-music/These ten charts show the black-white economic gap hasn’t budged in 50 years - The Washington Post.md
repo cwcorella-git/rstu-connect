@@ -1,3 +1,8 @@
+---
+title: "**These ten charts show the blackwhite economic gap hasn't budged in 50 years**"
+category: "arts-culture-music"
+---
+
 #### [washingtonpost.com](https://www.washingtonpost.com/news/wonk/wp/2013/08/28/these-seven-charts-show-the-black-white-economic-gap-hasnt-budged-in-50-years/)
 
 # **These ten charts show the blackwhite economic gap hasn't budged in 50 years**
@@ -44,7 +49,9 @@ A [recent report](http://www.epi.org/publication/unfinished-march-overview/) fro
 | This chart | comes from | | a recent Census report on income and | |
 |------------|------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|--|
 | | | | | |
-| | household income since 1999. | poverty. Note that just about everyone's seen a decline in real<br>4) In fact, the wealth disparity between whites and<br>blacks grew even wider during the Great Recession. | | |
+| | household income since 1999. | poverty. Note that just about everyone's seen a decline in real
+4) In fact, the wealth disparity between whites and
+blacks grew even wider during the Great Recession. | | |
 | | | | | |
 ## | | | | | |
 

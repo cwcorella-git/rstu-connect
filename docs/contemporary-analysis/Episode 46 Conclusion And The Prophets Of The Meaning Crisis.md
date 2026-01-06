@@ -1,3 +1,8 @@
+---
+title: "**Episode 46: Conclusion And The Prophets Of The Meaning Crisis/**"
+category: "contemporary-analysis"
+---
+
 # **Episode 46: Conclusion And The Prophets Of The Meaning Crisis/**
 
 **Source:** https://www.meaningcrisis.co/ep-46-awakening-from-the-meaning-crisis-conclusion-and-the-prophets-of-the-meaning-crisis/

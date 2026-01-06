@@ -1,3 +1,8 @@
+---
+title: "**Heraclitus**"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_2.jpeg)
 
 # **Heraclitus**
@@ -386,15 +391,15 @@ English playwright William Shakespeare may have known of Heraclitus through Mont
 
 ## ![](_page_15_Picture_6.jpeg)
 
-Heraclitus painted as the weeping philosopher by <u>Hendrik</u> ter Brugghen (1628)
+Heraclitus painted as the weeping philosopher by Hendrik ter Brugghen (1628)
 
-Several <u>baroque</u> artists such as <u>Peter Paul Rubens</u>, <u>Hendrik ter Brugghen</u>, and <u>Johannes Moreelse</u> painted Heraclitus and Democritus. Rubens' <u>Heraclitus</u> and <u>Democritus</u> (1603) was painted for the Duke of Lerma. [208]
+Several baroque artists such as Peter Paul Rubens, Hendrik ter Brugghen, and Johannes Moreelse painted Heraclitus and Democritus. Rubens' Heraclitus and Democritus (1603) was painted for the Duke of Lerma. [208]
 
 #### **Rationalism**
 
 French rationalist philosopher René Descartes read Montaigne and wrote in *The Passions of the Soul* that indignation can be joined by pity or derision, "So the laughter of Democritus and the tears of Heraclitus could have come from the same cause". [209][210]
 
-Kahn suggests Spinoza may have been influenced by Heraclitus via the Stoics. [211] According to one author "What Heraclitus really meant by the common was...nothing different from what by <u>Spinoza</u> was expressed by "*sub specie aeternitatis*". [212] According to German poet <u>Heinrich Blücher</u>, "If you read the whole system of Spinoza, it is nothing but the changed system of Heraclitus." [213]
+Kahn suggests Spinoza may have been influenced by Heraclitus via the Stoics. [211] According to one author "What Heraclitus really meant by the common was...nothing different from what by Spinoza was expressed by "*sub specie aeternitatis*". [212] According to German poet Heinrich Blücher, "If you read the whole system of Spinoza, it is nothing but the changed system of Heraclitus." [213]
 
 ## ![](_page_15_Picture_13.jpeg)
 
@@ -865,7 +870,7 @@ Presentism is seen as a Heraclitean view.
 - 238. Diels, Hermann; Kranz, Walther (1957). Plamböck, Gert (ed.). [Die Fragmente der](https://books.google.com/books?id=KEYWQwAACAAJ) [Vorsokratiker](https://books.google.com/books?id=KEYWQwAACAAJ) [\(https://books.google.com/books?id=KEYWQwAACAAJ\)](https://books.google.com/books?id=KEYWQwAACAAJ) (in Ancient Greek and German). Rowohlt. [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier)) [5875607416.](https://en.wikipedia.org/wiki/Special:Book Sources/5875607416) Retrieved 11 April 2022.
 - 239. Mügge, Maximilian August (May 26, 1911). ["Friedrich Nietzsche: His Life and Work"](https://books.google.com/books?id=g_ih3ZVP2PkC&pg=PA318) [\(https://books.google.com/books?id=g\\_ih3ZVP2PkC&pg=PA318\).](https://books.google.com/books?id=g_ih3ZVP2PkC&pg=PA318) T. Fisher Unwin. p. 318.
 - 240. Schrift, A. (2014). Nietzsche and the Question of Interpretation. United States: Taylor & Francis. p. 64
-- 241. de Jong, Johan. "The Senses of Nietzsche's "Complete Irresponsibility"" Nietzsche-Studien, 2024.<https://doi.org/10.1515/nietzstu-2022-0030>
+- 241. de Jong, Johan. "The Senses of Nietzsche's "Complete Irresponsibility"" Nietzsche-Studien, 2024.
 - 242. See also [On the Pathos of Truth](https://en.wikipedia.org/wiki/On_the_Pathos_of_Truth)
 - 243. Oswald Spengler. [The Fundamental Metaphysical Thought of the Heraclitean](https://www-zeno-org.translate.goog/Philosophie/M/Spengler,+Oswald/Reden+und+Aufs%C3%A4tze/Heraklit/Einleitung/1.?_x_tr_sch=http&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp) [Philosophy](https://www-zeno-org.translate.goog/Philosophie/M/Spengler,+Oswald/Reden+und+Aufs%C3%A4tze/Heraklit/Einleitung/1.?_x_tr_sch=http&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp) [\(https://www-zeno-org.translate.goog/Philosophie/M/Spengler,+Oswald/](https://www-zeno-org.translate.goog/Philosophie/M/Spengler,+Oswald/Reden+und+Aufs%C3%A4tze/Heraklit/Einleitung/1.?_x_tr_sch=http&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp) [Reden+und+Aufsätze/Heraklit/Einleitung/1.?\\_x\\_tr\\_sch=http&\\_x\\_tr\\_sl=auto&\\_x\\_tr\\_tl](https://www-zeno-org.translate.goog/Philosophie/M/Spengler,+Oswald/Reden+und+Aufs%C3%A4tze/Heraklit/Einleitung/1.?_x_tr_sch=http&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp) [=en&\\_x\\_tr\\_hl=en&\\_x\\_tr\\_pto=wapp\).](https://www-zeno-org.translate.goog/Philosophie/M/Spengler,+Oswald/Reden+und+Aufs%C3%A4tze/Heraklit/Einleitung/1.?_x_tr_sch=http&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
 - 244. Farrenkopf, J. (2001). Prophet of Decline: Spengler on World History and Politics. United States: LSU Press. pp. 14–15

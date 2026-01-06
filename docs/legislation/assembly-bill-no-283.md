@@ -1,12 +1,10 @@
 ---
-date: 2023
-author: Assembly Bill No
-tags:
-  - legislation
-  - Nevada
-  - organizing
 title: "assembly-bill-no-283"
+author: "Assembly Bill No"
+date: "2023"
+category: "legislation"
 ---
+
 # assembly-bill-no-283
 
 *Converted from: `./assembly-bill-no-283.pdf`*  
@@ -59,8 +57,6 @@ provisions of this bill.
  EXPLANATION – Matter in bolded italics is new; matter between brackets [omitted material] is material to be omitted.
 
 
-
-
    THE PEOPLE OF THE STATE OF NEVADA, REPRESENTED IN
       SENATE AND ASSEMBLY, DO ENACT AS FOLLOWS:
 
@@ -72,7 +68,6 @@ requirement that the State pay the nonfederal share of expenditures
 incurred] coverage for doula services provided by an enrolled doula.
     2. The Department shall apply to the Secretary of Health and
 Human Services for a waiver granted pursuant to 42 U.S.C. § 1315
-
 
 
    -                                                                                  82nd Session (2023)
@@ -134,7 +129,6 @@ years by the entity to which the appropriation is made or any entity
 to which money from the appropriation is granted or otherwise
 
 
-
    -                                                     82nd Session (2023)
 
 ---
@@ -182,9 +176,6 @@ become effective upon passage and approval.
                              20   ~~~~~   23
 
 
-
-
    -                                              82nd Session (2023)
 
 ---
-

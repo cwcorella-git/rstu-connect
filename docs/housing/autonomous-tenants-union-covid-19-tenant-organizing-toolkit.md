@@ -1,24 +1,8 @@
 ---
-title: COVID-19 Tenant Organizing Toolkit
-author: Autonomous Tenants Union
-date: March 2020
-pubdate: '2020-03-27T07:27:59'
-language: en
-source_url: >-
-  Retrieved on 2020-03-07 from
-  [[https://docs.google.com/document/d/1sX0VYYXS0ygaQelcvfY2svhGE_z7Bv_rHHVwggNUfc8/edit][docs.google.com]]
-topics:
-  - community unionism
-  - community syndicalism
-  - tenant organizing
-  - COVID-19
-original_format: muse
-converted_date: '2025-11-08T11:25:00.444855'
-tags:
-  - Community Unionism
-  - Community Syndicalism
-  - Tenant Organizing
-  - COVID 19
+title: "COVID-19 Tenant Organizing Toolkit"
+author: "Autonomous Tenants Union"
+date: "March 2020"
+category: "housing"
 ---
 
 *The Autonomous Tenants Union (ATU) is an all-volunteer organization committed to organizing for housing justice from below and to the left. As an independent collective based in Chicago, we strategize together to defend and enforce our right to dignified housing. We believe that housing is a human right not a commodity! We fight for an end to all evictions, and for community control of housing through the building of popular power.*
@@ -29,7 +13,7 @@ We are in the middle of a public health catastrophe, during which everyone’s s
 
 Unstable housing is exacerbating this crisis. If tenants know that missing rent could result in eviction proceedings, they’ll be more likely to go to work with symptoms and risk getting others sick. Tenants forced to move face a higher risk of spreading and/or contracting the virus, along with difficulty securing new housing, renting moving trucks, hiring movers, or finding volunteers to help. It is our responsibility to protect each other. In the absence of compassionate leadership from our government, we must organize together to ensure our basic needs are met.
 
-<em>**What we have going for us:**</em>
+**What we have going for us:**
 
  1. **No one wants to pay rent. Many of us can’t.** A landlord’s financial power comes from their ability to collect rent. If a large enough number of tenants are unwilling — or in this case, unable — to pay rent, they gain some leverage over their landlord by depriving them of that income. There is an unfair stereotype that tenants who can’t pay rent are lazy or troublesome — this is untrue even in the best of times, but in times like this, the reality is that landlords across the country will find themselves without their monthly rent collection regardless of what we as tenants do.
 
@@ -45,7 +29,7 @@ A landlord following the process correctly will serve you a “5 day notice” t
 
 You may feel a lot of stress when you get this notice. Just remember this is the beginning of the process. BUT, if you can negotiate an agreement before the landlord enters a lawsuit, you should make every effort to do that. This will save you the headache of having to go to court and find a lawyer.
 
-<em>**Court process**</em>
+**Court process**
 
  - The full Eviction Court process, from the filing to the Sheriff changing your locks, can take anywhere between 2–8 months. You can take steps to lengthen it. The landlord cannot accept rent during the full court process, or they have to start over.
 
@@ -65,7 +49,7 @@ You may feel a lot of stress when you get this notice. Just remember this is the
 
 Our power is in our numbers! Whether your demands revolve around staying in your apartment, or getting more time to move, your strategy should be to **negotiate a written agreement with the landlord by acting collectively (organizing)** with your neighbors and support networks. You can fight to reach an agreement before the landlord files an eviction lawsuit, or during the lawsuit. Organizing will get the best results in either case.
 
-<em>**Reaching an agreement before a lawsuit**</em>
+**Reaching an agreement before a lawsuit**
 
 Advantages
 
@@ -81,7 +65,7 @@ Risks
 
  - You will have to organize on a shorter timeline.
 
-<em>**Reaching an agreement during a lawsuit**</em>
+**Reaching an agreement during a lawsuit**
 
 Advantages
 
@@ -109,7 +93,7 @@ Whether we are experiencing a public health crisis or not, the first step of ten
 
 **Note: Remember to wash your hands before and after leaving your unit, maintain six feet of distance when talking, and don’t leave your unit if you feel sick. Learn more about COVID-19 prevention** **[here](https://www.cdc.gov/coronavirus/2019-ncov/prepare/prevention.html)****.**
 
- 1. **Assess your situation.** Will you be able to pay rent on April 1<sup>st</sup>? Do you already know any of your neighbors? If so, reach out to them first. Are any of them unlikely to be able pay? This information will help you as you contact other people in your building.
+ 1. **Assess your situation.** Will you be able to pay rent on April 1st? Do you already know any of your neighbors? If so, reach out to them first. Are any of them unlikely to be able pay? This information will help you as you contact other people in your building.
 
  1. **Get contact information from your neighbors.** Go door to door in your building, making sure to stand six feet back when your neighbor answers. If no one answers, you can also leave a note introducing yourself and sharing your contact information — [here](https://docs.google.com/document/d/1uVVvV2cei92KQh_AAZoz65Y5ksjWDs6IbD9ofRxbuj8/edit?usp`sharing) are templates you can use. When meeting someone for the first time, introduce yourself and ask questions to understand how they’ve been affected by the crisis. You should be open about your rent situation, but try to let them do most of the talking.
 
@@ -123,7 +107,7 @@ If they share your concerns, introduce the idea of acting collectively as a buil
 
  1. **Have the meeting.** Remind everyone the day before and the day of the meeting. Do it both en masse **and** individually. You want as many tenants as possible to be involved.
 
-<em>**Meeting tips:**</em>
+**Meeting tips:**
 
  - Have a simple agenda.
 
@@ -131,7 +115,7 @@ If they share your concerns, introduce the idea of acting collectively as a buil
 
  - Have someone take notes. Their job is to write down at least the most important points, any decisions, and who commits to doing what. These help with knowing what happened as you move forward and with keeping people in the loop who missed a meeting.
 
-<em>**[TANC](https://docs.google.com/document/d/1osMMHmOn3nyhx3Or4HzKtRaeaRAyEDwnQRAtVDgt47c/edit#)**</em><em>**’s “Got Your Back Pledge” AKA “Strike Pledge”**</em>
+**[TANC](https://docs.google.com/document/d/1osMMHmOn3nyhx3Or4HzKtRaeaRAyEDwnQRAtVDgt47c/edit#)****’s “Got Your Back Pledge” AKA “Strike Pledge”**
 
 “The basic idea: You plus any number of other tenants can’t or won’t pay rent. You get your fellow tenants to sign onto a “Got Your Back Pledge” letter that is then sent to the landlord. The letter notifies that landlord of the following:
 
@@ -157,7 +141,7 @@ Why we recommend this plan:
 
  - It opens up new possible actions later on, and puts tenants in a better position for the long term.”
 
-<em>**Other Issues to Organize Around**</em>
+**Other Issues to Organize Around**
 
 Even if you don’t feel confident you and your neighbors can act collectively around paying rent before April 1, there are other issues to organize around that might create the possibility for bigger commitments later.
 
@@ -167,7 +151,7 @@ For example, you and your neighbors can form a tenant union and demand the landl
 
 NOTE: It is important throughout this process to get all communication between you and your landlord in writing.
 
-<em>**Templates**</em>
+**Templates**
 
  - [First outreach note from you to other tenants](https://docs.google.com/document/d/1uVVvV2cei92KQh_AAZoz65Y5ksjWDs6IbD9ofRxbuj8/edit?usp`sharing)
 
@@ -178,7 +162,7 @@ NOTE: It is important throughout this process to get all communication between y
 
  - [Laundry Letter](https://docs.google.com/document/d/16-69PEiiHicz3Ge4oQT-Ia01XagStK3jqS7wzCb8K5s/edit)
 
-<em>**From**</em> <em>**[TANC](https://baytanc.com/)**</em>
+**From** **[TANC](https://baytanc.com/)**
 
  - “We Got Your Back” Pledge. ([link](https://docs.google.com/document/d/1Ct64-emE8EUAHZzGYFeIXLzunM_2ydwBBfY2HUbD4Rw/edit?usp`sharing))
 
@@ -186,7 +170,7 @@ NOTE: It is important throughout this process to get all communication between y
 
  - Letter barring realtor/inspections/walkthroughs/etc during pandemic ([link](https://docs.google.com/document/d/1hpBPviBO2zilV2GekvwNVBpmoS4mwNQOTwES5c1Ui0g/edit?usp`sharing))
 
-<em>**Chicago-based resources:**</em>
+**Chicago-based resources:**
 
  - [ATU’s Tactics Zine](https://drive.google.com/file/d/1Y4OIsCHjMFsHg-uo8fSdluLWkBux6N_q/view)
 

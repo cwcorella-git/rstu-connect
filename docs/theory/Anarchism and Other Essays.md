@@ -1,16 +1,10 @@
 ---
-title: Anarchism And Other Essays
-slug: Anarchism and Other Essays
-reconversion_status: ready_for_reconversion
-author: Emma Goldman
-date: '1910'
-tags:
-  - theory
-  - anarchism
-  - strikes
-  - unions
-  - tenants
+title: "Anarchism And Other Essays"
+author: "Emma Goldman"
+date: "1910"
+category: "theory"
 ---
+
 # Emma Goldman
 
 # Anarchism and Other Essays

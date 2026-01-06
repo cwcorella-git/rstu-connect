@@ -1,3 +1,8 @@
+---
+title: "University of Memphis Digital Commons University of Memphis Digital Commons"
+category: "contemporary-analysis"
+---
+
 #### University of Memphis University of Memphis
 
 # University of Memphis Digital Commons University of Memphis Digital Commons

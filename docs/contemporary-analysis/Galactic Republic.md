@@ -1,3 +1,8 @@
+---
+title: "**Galactic Republic**"
+category: "contemporary-analysis"
+---
+
 [starwars.fandom.com](https://starwars.fandom.com/wiki/Galactic_Republic)
 
 # **Galactic Republic**
@@ -28,7 +33,7 @@ The Republic entered a period of decline after centuries of expansion and prospe
 
 **[\]](https://starwars.fandom.com/wiki/Galactic_Republic?veaction=edit§ion=2)**
 
-<sup>&</sup>quot;For over a thousand generations the Jedi Knights were the guardians of peace and justice in the Old Republic.
+&quot;For over a thousand generations the Jedi Knights were the guardians of peace and justice in the Old Republic.
 
 ## Before the dark times. Before the Empire."
 

@@ -1,3 +1,8 @@
+---
+title: "**Counterinsurgency and the Policing of Space in Ferguson**"
+category: "contemporary-analysis"
+---
+
 # **Counterinsurgency and the Policing of Space in Ferguson**
 
 ## **Date:** Unknown

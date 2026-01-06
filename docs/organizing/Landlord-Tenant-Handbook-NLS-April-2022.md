@@ -1,14 +1,10 @@
 ---
-date: 2022
-author: Housing Advocacy Organization
-tags:
-  - organizing
-  - direct action
-  - unions
-  - tenants
-  - housing
 title: "Landlord-Tenant-Handbook-NLS-April-2022"
+author: "Housing Advocacy Organization"
+date: "2022"
+category: "organizing"
 ---
+
 # Landlord-Tenant-Handbook-NLS-April-2022
 
 *Converted from: `./Landlord-Tenant-Handbook-NLS-April-2022.pdf`*  
@@ -34,7 +30,6 @@ title: "Landlord-Tenant-Handbook-NLS-April-2022"
 
 
                               Nevada Landlord-Tenant Law
-
 
 
 Introduction
@@ -184,8 +179,6 @@ This means that if your verbal or written lease does not contain any provision
 regarding late fees, the landlord cannot charge anything for the late payment of rent.
 
 
-
-
 Page 3 of 36
 
 ---
@@ -241,8 +234,6 @@ change can happen immediately or anytime less than thirty days. NRS
 If your lease has expired, you landlord must provide 30 days notice of any rent
 increase, if you rent by the week, or 60 days notice if you rent for any longer
 period of time.
-
-
 
 
 Page 4 of 36
@@ -682,8 +673,6 @@ If you withhold rent, the landlord could try to evict you using a five day pay r
 quit notice. This would violate Nevada law. See Part 3- Retaliation.
 
 
-
-
 Page 12 of 36
 
 ---
@@ -732,8 +721,6 @@ Page 12 of 36
                    118A.380                                               R and D, sue,
                    Essential                  48 hours                   withhold rent,
                     Services                                             rent abatement
-
-
 
 
 Page 13 of 36
@@ -795,7 +782,6 @@ components: (1) your protected activity and (2) the landlord’s reaction.
       (b) Increasing your rent, or
 
 
-
 Page 14 of 36
 
 ---
@@ -849,8 +835,6 @@ disability.
 NRS Chapter 118 contains Nevada’s anti-discrimination laws. These laws mirror
 the federal Fair Housing Act, except Nevada law includes sexual orientation and
 gender identity in the protected classes. NRS 118.100.
-
-
 
 
 Page 15 of 36
@@ -1657,8 +1641,6 @@ you could not get back. You can sue the landlord for negligence based on a
 violation of NRS 118A.460 or conversion (as explained below).
 
 
-
-
 Page 29 of 36
 
 ---
@@ -1742,8 +1724,7 @@ whether a foreclosure is pending. Most recorder offices require the parcel numbe
 of your property. This information can usually be obtained from the county tax
 assessor.
 
-Nevada’s trust deed foreclosure process is long, at least three months and twenty-
-one days. Even though the landlord is in foreclosure, you must continue to pay
+Nevada’s trust deed foreclosure process is long, at least three months and twentyone days. Even though the landlord is in foreclosure, you must continue to pay
 rent to the landlord or you can be evicted.
 
                                   Notice of Default
@@ -1760,8 +1741,7 @@ Three months must elapse before the bank can continue with the foreclosure. All
 of this time, you must pay rent to the landlord or you can be evicted. Informal
 mediation with the lender is always available to your landlord, or filing a Chapter
 13 bankruptcy, and this may cause a delay in the foreclosure process. It is not
-uncommon for the foreclosure process to take more than three months and twenty-
-one days.
+uncommon for the foreclosure process to take more than three months and twentyone days.
 
                                    Notice of Sale
 
@@ -1824,7 +1804,6 @@ lock box on your door. If the landlord installs a lock box on your door without
 your permission, you can seek an injunction.
 
 
-
 Page 32 of 36
 
 ---
@@ -1878,7 +1857,6 @@ foreclosure and we recommend providing notice to the new owner. NRS 40.255
 provides this right.
 
 
-
 Page 33 of 36
 
 ---
@@ -1930,7 +1908,6 @@ should get the cash for keys offer in writing.
                      Sale or Transfer/How much time do I have?
 
 "Residential Sale"
-
 
 
 Page 34 of 36
@@ -2023,8 +2000,6 @@ new owner would be based on a violation of NRS 118A.242.
                                Last Update 4/2022
 
 
-
-
 COVID-19 Provisions:
 
 AB 486-eviction related to nonpayment of rent is stayed while tenant pursues rent
@@ -2036,9 +2011,6 @@ sealed.
 Both of these provisions end in 2023. Stay up to date at nevadalegalservices.org
 
 
-
-
 Page 36 of 36
 
 ---
-

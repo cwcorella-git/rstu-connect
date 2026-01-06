@@ -1,3 +1,8 @@
+---
+title: "## **Class War "bashing the rich"**"
+category: "anti-war-peace"
+---
+
 ## **Class War "bashing the rich"**
 
 | Date: Unknown |
@@ -6,7 +11,8 @@
 | Tags: Best of the worst, Class War Federation |
 | |
 | A quite disgusting extract from Class War's book "a decade of disorder" showing a punk |
-| punching a man in the face with a condom filled with faeces seemingly for the crime of<br>wearing a suit. |
+| punching a man in the face with a condom filled with faeces seemingly for the crime of
+wearing a suit. |
 | |
 | 2011 addition:it turns outthat these photos were actually taken as a joke by the band |
 | Chumbawamba to see if Class War would actually publish them as something good - they did. |

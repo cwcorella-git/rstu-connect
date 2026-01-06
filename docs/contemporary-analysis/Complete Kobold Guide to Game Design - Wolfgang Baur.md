@@ -1,3 +1,8 @@
+---
+title: "Kobold"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 ## Complete KOBOLD Guide to Game Design

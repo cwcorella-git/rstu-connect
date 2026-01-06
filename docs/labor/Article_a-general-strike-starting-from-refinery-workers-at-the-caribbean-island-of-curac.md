@@ -1,15 +1,8 @@
 ---
-title: >-
-  A General Strike Starting From Refinery Workers At the Caribbean Island of
-  Curac
-date: 2025
-author: Wikipedia
-tags:
-  - organizing
-  - strikes
-  - unions
-  - tenants
-  - housing
+title: ">-"
+author: "Wikipedia"
+date: "2025"
+category: "labor"
 ---
 
 # A General Strike Starting From Refinery Workers At the Caribbean Island of Curac

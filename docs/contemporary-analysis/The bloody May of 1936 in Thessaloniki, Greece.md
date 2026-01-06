@@ -1,3 +1,8 @@
+---
+title: "## **The bloody May of 1936 in Thessaloniki, Greece**"
+category: "contemporary-analysis"
+---
+
 ## **The bloody May of 1936 in Thessaloniki, Greece**
 
 ## **Date:** Unknown

@@ -1,3 +1,8 @@
+---
+title: "**Meta-emotion**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Meta-emotion)
 
 # **Meta-emotion**

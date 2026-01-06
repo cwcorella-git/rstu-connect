@@ -1,3 +1,8 @@
+---
+title: "[axios.com](https://www.axios.com/2025/07/07/democrats-trump-resistance-violence-congress)"
+category: "contemporary-analysis"
+---
+
 [axios.com](https://www.axios.com/2025/07/07/democrats-trump-resistance-violence-congress)
 
 ## **Democrats told to "get shot" for the anti-Trump resistance**

@@ -1,3 +1,8 @@
+---
+title: "## **On Fear.**"
+category: "contemporary-analysis"
+---
+
 ## **On Fear.**
 
 **Date:** 2024-12-17 **Source:** https://www.threadings.io/on-fear/I have had a contentious relationship with being seen lately. On fear dec 2024 0:00 / 1589.5510204081634 1× Realizing that there are parts of me in my life and circumstance that belong to the public… has rendered me without speech. That's rare. And that's not necessarily a bad thing. I, in fact, believe that existing in this way has expanded my capacity for love in such unexpectedly radical bloomings. I wouldn't trade this. It's just that somewhere along the way of this year, I slowed down enough to be able to feel fear. And that hasn't happened in a really long time. I'm not, I'm not often, I won't say that I'm not often afraid; I actually think that I'm constantly afraid. It's more that I'm usually moving too fast to feel it. So I took some notes. I don't have a full essay; I just have this sneaking suspicion that if I verbalize these, it's gonna make someone else feel less alone in their fear.

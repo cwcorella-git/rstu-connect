@@ -1,3 +1,8 @@
+---
+title: "**The Origins of Policing in the United States**"
+category: "contemporary-analysis"
+---
+
 [snopes.com](https://www.snopes.com/fact-check/the-origins-of-policing-in-the-united-states/)
 
 # **The Origins of Policing in the United States**

@@ -1,3 +1,8 @@
+---
+title: "## **Funerals of Vladislav 'Pirate' Iurchenko**"
+category: "contemporary-analysis"
+---
+
 ## **Funerals of Vladislav 'Pirate' Iurchenko**
 
 ## **Date:** Unknown

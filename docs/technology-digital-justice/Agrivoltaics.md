@@ -1,3 +1,8 @@
+---
+title: "**Agrivoltaics**"
+category: "technology-digital-justice"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 # **Agrivoltaics**
@@ -28,11 +33,11 @@ By 2019, some authors had begun using the term *agrivoltaics* to include any agr
 
 ## ![](_page_0_Picture_14.jpeg)
 
-Sheep under solar panels in [Lanai](https://en.wikipedia.org/wiki/Lanai), Hawaii dual use. As an example, <u>sheep</u> can be grazed among conventional solar arrays without modification. [14] Likewise, some apply the term to solar panels on the roofs of barns or livestock sheds. [7]
+Sheep under solar panels in [Lanai](https://en.wikipedia.org/wiki/Lanai), Hawaii dual use. As an example, sheep can be grazed among conventional solar arrays without modification. [14] Likewise, some apply the term to solar panels on the roofs of barns or livestock sheds. [7]
 
 Agrisolar co-location is integration and co-management of solar and agricultural production. [15][16] Agrisolar thus includes agrivoltaics, as well as adjacent co-location where solar is installed within and adjacent to agriculture to enhance economic resilience, offset operational costs, and save irrigation water. Ecovoltaics involves solar installations intended to co-prioritize energy production and ecosystem services. [17][18]
 
-<u>Floating solar</u> (floatovoltaics) and <u>solar canals</u> involve placing solar on existing bodies of water or water infrastructure. These systems can reduce evaporation losses and increase panel efficiency through evaporative cooling. [19][20]
+Floating solar (floatovoltaics) and solar canals involve placing solar on existing bodies of water or water infrastructure. These systems can reduce evaporation losses and increase panel efficiency through evaporative cooling. [19][20]
 
 ### System design
 
@@ -58,7 +63,7 @@ Most conventional systems install angled solar panels on greenhouses, [22] above
 
 ### **Vertical systems**
 
-Vertically mounted systems with <u>bifacial modules</u> can be installed on fences or on separate supports. One module is typically mounted between fenceposts. The yield for a vertical south-facing panel is 76%, often yielding a lower <u>levelized cost</u>. One study reported that <u>microinverters</u> had better performance when the cross-over fence length was
+Vertically mounted systems with bifacial modules can be installed on fences or on separate supports. One module is typically mounted between fenceposts. The yield for a vertical south-facing panel is 76%, often yielding a lower levelized cost. One study reported that microinverters had better performance when the cross-over fence length was
 
 ## ![](_page_1_Picture_18.jpeg)
 
@@ -296,4 +301,4 @@ In Europe in the early 2000s, experimental photovoltaic greenhouses were built, 
 - [American Solar Grazing Association \(https://solargrazing.org/\)](https://solargrazing.org/)
 - [Conference \(http://www.agrivoltaics-conference.org/\)](http://www.agrivoltaics-conference.org/)
 
-Retrieved from "<https://en.wikipedia.org/w/index.php?title=Agrivoltaics&oldid=1323151528>"
+Retrieved from ""

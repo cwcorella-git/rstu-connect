@@ -1,11 +1,20 @@
+---
+title: "## **The Wolverine - Gay Voices of Hostility**"
+category: "contemporary-analysis"
+---
+
 ## **The Wolverine - Gay Voices of Hostility**
 
 | Date: Unknown |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Source: https://libcom.org/article/wolverine-gay-voices-hostility|
-| Tags: Class War Federation, 1980s, LGBTQ+ (Lesbian Gay Bi Trans Queer +), London, United<br>Kingdom, gay liberation |
-| Online archive of The Wolverine, a class struggle anarcho-gay newsletter loosely connected<br>to the London Autonomists/Monday Group - some members of whom were also involved in<br>the early incarnation of Class War. Published in London in the early 1980s. |
-| It is unclear how many issues were produced. Possibly three? If you know more - leave a<br>comment |
+| Tags: Class War Federation, 1980s, LGBTQ+ (Lesbian Gay Bi Trans Queer +), London, United
+Kingdom, gay liberation |
+| Online archive of The Wolverine, a class struggle anarcho-gay newsletter loosely connected
+to the London Autonomists/Monday Group - some members of whom were also involved in
+the early incarnation of Class War. Published in London in the early 1980s. |
+| It is unclear how many issues were produced. Possibly three? If you know more - leave a
+comment |
 | Reddebrek |
 | 5 years 2 months ago |
 | In reply to Welcomebylibcom.org |
@@ -13,7 +22,8 @@
 | Fozzie |
 | 5 years 2 months ago |
 | In reply to Welcomebylibcom.org |
-| I'd be interested to know what people think about it - very of its time but does paint quite a<br>picture! |
+| I'd be interested to know what people think about it - very of its time but does paint quite a
+picture! |
 
 ## R Totale
 

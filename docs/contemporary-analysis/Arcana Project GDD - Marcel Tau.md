@@ -1,3 +1,8 @@
+---
+title: "Game Design Document"
+category: "contemporary-analysis"
+---
+
 # Game Design Document
 
 ## Project Name: Arcana Game Team Name: Arcana Team
@@ -16,19 +21,66 @@ Kenneth Andersen – Lead Programmer Marcel Tau – Project Manager / Animator N
 
 ## Game Design Document Version Control
 
-| Version | Date | Author | Change<br>Description |
+| Version | Date | Author | Change
+Description |
 |---------|--------|---------------------|------------------------------------------------------------------------------------------------------------------------|
-| 1.0 | Feb/09 | Marcel<br>Tau | Document<br>created. |
-| 1.1 | Feb/13 | Marcel<br>Tau | Document<br>updated. |
-| 1.2 | Feb/22 | José<br>Romero | Game<br>description<br>and<br>Functional<br>Specifications<br>updated.<br>Sound<br>&<br>Music/Story<br>bible<br>added. |
-| 1.3 | Feb/23 | José<br>Romero | Sound<br>&<br>Music<br>assets<br>added. |
-| 1.4 | Mar/19 | Marcel<br>Tau | General<br>document<br>updated. |
-| 1.5 | Mar/22 | Marcel<br>Tau | Functional<br>Specifications<br>and<br>Art<br>and<br>Video<br>sections<br>updated. |
-| 1.6 | Mar/29 | Marcel<br>Tau | Level<br>Requirements<br>updated. |
-| 1.7 | Mar/30 | Marcel<br>Tau | Production<br>Schedule<br>updated. |
-| 1.8 | Apr/08 | Kenneth<br>Andersen | Technical<br>Specifications<br>updated. |
-| 1.9 | Apr/10 | Randy<br>Ruan | Assets<br>Pipeline<br>added. |
-| 2.0 | Apr/12 | José<br>Romero | Technical<br>Specifications<br>updated. |
+| 1.0 | Feb/09 | Marcel
+Tau | Document
+created. |
+| 1.1 | Feb/13 | Marcel
+Tau | Document
+updated. |
+| 1.2 | Feb/22 | José
+Romero | Game
+description
+and
+Functional
+Specifications
+updated.
+Sound
+&
+Music/Story
+bible
+added. |
+| 1.3 | Feb/23 | José
+Romero | Sound
+&
+Music
+assets
+added. |
+| 1.4 | Mar/19 | Marcel
+Tau | General
+document
+updated. |
+| 1.5 | Mar/22 | Marcel
+Tau | Functional
+Specifications
+and
+Art
+and
+Video
+sections
+updated. |
+| 1.6 | Mar/29 | Marcel
+Tau | Level
+Requirements
+updated. |
+| 1.7 | Mar/30 | Marcel
+Tau | Production
+Schedule
+updated. |
+| 1.8 | Apr/08 | Kenneth
+Andersen | Technical
+Specifications
+updated. |
+| 1.9 | Apr/10 | Randy
+Ruan | Assets
+Pipeline
+added. |
+| 2.0 | Apr/12 | José
+Romero | Technical
+Specifications
+updated. |
 
 ## **TABLE OF CONTENTS**
 
@@ -268,7 +320,8 @@ Gameplay: Where the game happens, has a fixed Heads Up Display that contains a c
 
 ## Mockups
 
-| 1. | Splash<br>Page |
+| 1. | Splash
+Page |
 |----|----------------|
 | | |
 | | |
@@ -787,7 +840,7 @@ Awake()
 Start ()
 {
 //Cretes a ref to the Game Manager object and get the Game Manager script component
-gm = Game Object. Find("Game Manager"). Get Component<Game Manager>();
+gm = Game Object. Find("Game Manager"). Get Component();
 //Stores the current char name to be used later by the Game Manager
 char Name = game Object.name;
 //Sets the default stats according to the current char
@@ -795,14 +848,14 @@ Set Default Stats();
 //Caches the players transform
 my Transform = transform;
 //Ref to the ex Sprite Animation
-anim = Get Component<ex Sprite Animation>();
+anim = Get Component();
 //Ref to the raycast object taken from the Main Camera
 ray Cast =
-Game Object. Find Game Object With Tag("Main Camera"). Get Component<Ray Cast Script>();
+Game Object. Find Game Object With Tag("Main Camera"). Get Component();
 ## 
 
 //Makes a reference to the boss
-apolluon = Game Object. Find("Apolluon"). Get Component<Apolluon>();
+apolluon = Game Object. Find("Apolluon"). Get Component();
 //Sets the default facing direction to right
 facing Direction = Direction.right;
 //Set the last action to idle right as default
@@ -842,13 +895,15 @@ Enemy.cs
 Start ()
 {
  //Gets the player script component on the Player Game Object
-player = Game Object. Find Game Object With Tag("Player"). Get Component<Player>();
+player = Game Object. Find Game Object With Tag("Player"). Get Component
+
+();
 //Gets the Game Manager scrit on the Game Manager Oject
-gm = Game Object. Find("Game Manager"). Get Component<Game Manager>();
+gm = Game Object. Find("Game Manager"). Get Component();
 ## 
 
 //Gets the ex Sprite Animation component
-anim = Get Component<ex Sprite Animation>();
+anim = Get Component();
 //Sets the default valuse for enemyspeed
 enemy Speed = 45;
 //Makes sure that the enemy is allive
@@ -954,33 +1009,33 @@ Our project Scope includes the following:
 
 The team has divided the production schedule into the following major points:
 
-- Pre-Production / Discovery Jan 5<sup>th</sup>, 2012 to Jan 27<sup>th</sup>, 2012
-- Concurrent Development of Art and Code Assets Jan 30<sup>th</sup>, 2012 to Mar 23<sup>rd</sup>, 2012
-- Integration and Design Balancing March 23<sup>rd</sup>, 2012 to April 6<sup>th</sup>, 2012
-- Alpha March 23<sup>rd</sup>, 2012
-- QA March 30<sup>th</sup>, 2012
-- Beta April 6<sup>th</sup>, 2012
-- Deployment and Presentation April 13<sup>th</sup>, 2012
+- Pre-Production / Discovery Jan 5th, 2012 to Jan 27th, 2012
+- Concurrent Development of Art and Code Assets Jan 30th, 2012 to Mar 23rd, 2012
+- Integration and Design Balancing March 23rd, 2012 to April 6th, 2012
+- Alpha March 23rd, 2012
+- QA March 30th, 2012
+- Beta April 6th, 2012
+- Deployment and Presentation April 13th, 2012
 
 #### **Dependencies**
 
 The schedule and scope outlined in the above sections can only be followed and fulfilled when the necessary assets are delivered by the client on schedule, below is a initial list of the necessary assets and times that we will be dependent upon:
 
 - 1. 3D Character Models
- - a. PC 1 Feb 13<sup>th</sup>, 2012
+ - a. PC 1 Feb 13th, 2012
 
- - b. PC 2 Feb 20<sup>th</sup>, 2012
-c. PC 3 Mar 12<sup>th</sup>, 2012
-d. Enemy Feb 27<sup>th</sup>, 2012
-e. Boss Mar 5<sup>th</sup>, 2012
+ - b. PC 2 Feb 20th, 2012
+c. PC 3 Mar 12th, 2012
+d. Enemy Feb 27th, 2012
+e. Boss Mar 5th, 2012
 - 2. Art Assets
 
- - a. Character Images Feb 13<sup>th</sup>, 2012
-b. Cut scenes Images Mar 22<sup>nd</sup>, 2012
- - c. Gameplay art Mar 12<sup>th</sup>, 2012
- - d. Prizes Mar 05<sup>th</sup>, 2012
+ - a. Character Images Feb 13th, 2012
+b. Cut scenes Images Mar 22nd, 2012
+ - c. Gameplay art Mar 12th, 2012
+ - d. Prizes Mar 05th, 2012
 - 3. Sound Assets
- - a. Complete list of sounds Mar 19<sup>th</sup>, 2012
+ - a. Complete list of sounds Mar 19th, 2012
 
 ## Cost Estimate
 

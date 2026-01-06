@@ -1,22 +1,17 @@
 ---
-title: Voodoo Doughnut Workers Still Seeking Safe Working Conditions
-slug: Voodoo Doughnut Workers Still Seeking Safe Working Conditions
-reconversion_status: ready_for_reconversion
-date: 2022
-author: Industrial Workers of the World
-tags:
-  - labor
-  - strikes
-  - unions
-  - rent
-  - organizing
+title: "Voodoo Doughnut Workers Still Seeking Safe Working Conditions"
+author: "Industrial Workers of the World"
+date: "2022"
+category: "labor"
 ---
+
 ## **Voodoo Doughnut Workers Still Seeking Safe Working Conditions**
 
 | Date: Fri, 02/25/2022 - 00:00 |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Source: https://ecology.iww.org/node/4885|
-| Tags: Industrial Workers of the World (IWW), Portland IWW, strikes, union busting, green unionism,<br>climate change, climate emergency, green bans, green syndicalism, Portland |
+| Tags: Industrial Workers of the World (IWW), Portland IWW, strikes, union busting, green unionism,
+climate change, climate emergency, green bans, green syndicalism, Portland |
 | |
 | By Dylan Andersen - |
 | |
@@ -24,7 +19,8 @@ tags:
 | |
 | , February 25, 2022 |
 | |
-| March of 2022 marks the two-year anniversary of workers at Voodoo Doughnut in Portland<br>unionizing with |
+| March of 2022 marks the two-year anniversary of workers at Voodoo Doughnut in Portland
+unionizing with |
 | |
 | the Industrial Workers of the World |
 | |
@@ -32,7 +28,8 @@ tags:
 | |
 | Doughnut Workers United |
 | |
-| . Looking back, Voodoo Doughnut worker and DWU organizer Samantha Bryce recognizes<br>the union's victories, but also its determination to further improve working conditions. |
+| . Looking back, Voodoo Doughnut worker and DWU organizer Samantha Bryce recognizes
+the union's victories, but also its determination to further improve working conditions. |
 ## | |
 
 When DWU was founded, one of the union's concerns was protecting workers from physical violence.

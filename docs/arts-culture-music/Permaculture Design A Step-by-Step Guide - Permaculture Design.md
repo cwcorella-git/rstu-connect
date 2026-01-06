@@ -1,3 +1,8 @@
+---
+title: "Permaculture Design Abyranya"
+category: "arts-culture-music"
+---
+
 ## ![](_page_0_Figure_0.jpeg)
 
 # Permaculture Design Abyranya
@@ -67,154 +72,461 @@ The Rural Development Programme for England (RDPE) funded by DEFRA and the EU. T
 | | Foreword | vii |
 |------|----------------------------------------------------------------------------|----------|
 | | Preface | viii |
-| | How<br>to<br>use<br>this<br>guide | ix |
+| | How
+to
+use
+this
+guide | ix |
 | | Introduction | x |
-| | You're<br>already<br>a<br>designer | xi |
-| PART | ONE<br>~<br>Preparations | |
-| | Observation<br>Skills | 2 |
+| | You're
+already
+a
+designer | xi |
+| PART | ONE
+~
+Preparations | |
+| | Observation
+Skills | 2 |
 | | Patterns | 3 |
-| | An<br>Introduction<br>to<br>systems | 7 |
-| | Spirals<br>of<br>erosion<br>and<br>degradation | 11 |
-| | Principles<br>and<br>directives | 14 |
-| | Summary<br>Effective<br>Design | 15<br>16 |
-| | Identifying<br>roles<br>within<br>the<br>process | 18 |
-| | Working<br>as<br>part<br>of<br>a<br>team | 19 |
+| | An
+Introduction
+to
+systems | 7 |
+| | Spirals
+of
+erosion
+and
+degradation | 11 |
+| | Principles
+and
+directives | 14 |
+| | Summary
+Effective
+Design | 15
+16 |
+| | Identifying
+roles
+within
+the
+process | 18 |
+| | Working
+as
+part
+of
+a
+team | 19 |
 | | Inclusion | 19 |
-| | Conflict<br>resolution | 22 |
-| | Structuring<br>the<br>process | 23 |
-| | The<br>Action<br>learning<br>cycle | 25 |
+| | Conflict
+resolution | 22 |
+| | Structuring
+the
+process | 23 |
+| | The
+Action
+learning
+cycle | 25 |
 | | Flowcharts | 26 |
 | | Summary | 27 |
-| PART | TWO<br>~<br>The<br>Design<br>Process | |
-| | Surveying<br>the<br>Site | 30 |
+| PART | TWO
+~
+The
+Design
+Process | |
+| | Surveying
+the
+Site | 30 |
 | | Maps | 32 |
-| | Making<br>base<br>and<br>field<br>maps | 34 |
-| | Create<br>a<br>base<br>map<br>from<br>an<br>existing<br>map | 34 |
-| | A<br>base<br>map<br>from<br>your<br>own<br>measurements | 38 |
-| | Drawing<br>your<br>base<br>map | 46 |
+| | Making
+base
+and
+field
+maps | 34 |
+| | Create
+a
+base
+map
+from
+an
+existing
+map | 34 |
+| | A
+base
+map
+from
+your
+own
+measurements | 38 |
+| | Drawing
+your
+base
+map | 46 |
 | | Summary | 54 |
-| | Base<br>mapping<br>flowchart | 55 |
-| | Recording<br>site<br>information<br>Record<br>existing<br>site<br>elements | 56<br>57 |
-| | Map<br>access<br>points<br>and<br>routes<br>through<br>the<br>site | 59 |
-| | Identify<br>the<br>different<br>zones<br>on<br>the<br>site | 60 |
-| | Map<br>the<br>different<br>sectors<br>of<br>the<br>site | 62 |
-| | Estimating<br>heights | 69 |
-| | Record<br>water<br>across<br>the<br>site | 70 |
-| | Take<br>at<br>least<br>one<br>soil<br>sample | 70 |
-| | Identify<br>the<br>site's<br>remaining<br>limiting<br>factors | 72 |
-| | Map<br>any<br>site<br>utilities | 73 |
-| | Identify<br>any<br>free<br>or<br>cheap<br>resources<br>available. | 73 |
-| | Creating<br>base<br>map<br>overlays | 75 |
-| | Keeping<br>an<br>observation<br>diary | 76 |
+| | Base
+mapping
+flowchart | 55 |
+| | Recording
+site
+information
+Record
+existing
+site
+elements | 56
+57 |
+| | Map
+access
+points
+and
+routes
+through
+the
+site | 59 |
+| | Identify
+the
+different
+zones
+on
+the
+site | 60 |
+| | Map
+the
+different
+sectors
+of
+the
+site | 62 |
+| | Estimating
+heights | 69 |
+| | Record
+water
+across
+the
+site | 70 |
+| | Take
+at
+least
+one
+soil
+sample | 70 |
+| | Identify
+the
+site's
+remaining
+limiting
+factors | 72 |
+| | Map
+any
+site
+utilities | 73 |
+| | Identify
+any
+free
+or
+cheap
+resources
+available. | 73 |
+| | Creating
+base
+map
+overlays | 75 |
+| | Keeping
+an
+observation
+diary | 76 |
 | | Summary | 78 |
-| | Recording<br>site<br>information<br>flowchart | 79 |
+| | Recording
+site
+information
+flowchart | 79 |
 
-| The<br>Client<br>Interview | 80 |
+| The
+Client
+Interview | 80 |
 |---------------------------------------------------------------------|-----|
-| SMART<br>goals | 80 |
-| The<br>interview | 81 |
-| Working<br>with<br>multiple<br>clients<br>or<br>community<br>groups | 85 |
-| Small<br>community<br>processes | 85 |
-| Small<br>to<br>medium<br>sized<br>group<br>processes | 87 |
-| Wider<br>community<br>planning | 88 |
+| SMART
+goals | 80 |
+| The
+interview | 81 |
+| Working
+with
+multiple
+clients
+or
+community
+groups | 85 |
+| Small
+community
+processes | 85 |
+| Small
+to
+medium
+sized
+group
+processes | 87 |
+| Wider
+community
+planning | 88 |
 | Summary | 90 |
-| Client<br>interview<br>flowchart | 91 |
+| Client
+interview
+flowchart | 91 |
 | Analysis | 92 |
-| Identifying<br>functions | 93 |
-| The<br>process | 93 |
-| Functions,<br>systems<br>and<br>elements | 94 |
-| Identifying<br>the<br>key<br>functions | 95 |
-| Creating<br>your<br>SMART<br>goals | 96 |
-| Choosing<br>systems<br>and<br>elements | 97 |
-| The<br>process | 97 |
-| Permaculture<br>ethics | 98 |
-| Ecological<br>impact | 98 |
-| Financial<br>costs | 102 |
-| Time<br>limitations | 102 |
+| Identifying
+functions | 93 |
+| The
+process | 93 |
+| Functions,
+systems
+and
+elements | 94 |
+| Identifying
+the
+key
+functions | 95 |
+| Creating
+your
+SMART
+goals | 96 |
+| Choosing
+systems
+and
+elements | 97 |
+| The
+process | 97 |
+| Permaculture
+ethics | 98 |
+| Ecological
+impact | 98 |
+| Financial
+costs | 102 |
+| Time
+limitations | 102 |
 | | |
-| Appropriate<br>scale | 103 |
+| Appropriate
+scale | 103 |
 | Interconnectedness | 103 |
 | Intrinsics | 106 |
-| Comparing<br>best<br>options | 107 |
-| Visioning<br>and<br>wild<br>design | 108 |
+| Comparing
+best
+options | 107 |
+| Visioning
+and
+wild
+design | 108 |
 | Summary | 109 |
-| Choosing<br>systems<br>and<br>elements<br>flowchart | 111 |
+| Choosing
+systems
+and
+elements
+flowchart | 111 |
 | Placement | 112 |
-| Around<br>an<br>existing<br>main<br>element | 112 |
-| Design<br>from<br>patterns<br>to<br>details | 113 |
+| Around
+an
+existing
+main
+element | 112 |
+| Design
+from
+patterns
+to
+details | 113 |
 | Microclimates | 113 |
-| Elevation<br>planning<br>and<br>aspect | 115 |
+| Elevation
+planning
+and
+aspect | 115 |
 | Zoning | 116 |
-| Access<br>and<br>desire<br>lines | 116 |
+| Access
+and
+desire
+lines | 116 |
 | Sectors | 117 |
-| Soil<br>type | 119 |
+| Soil
+type | 119 |
 | Utilities | 119 |
-| Visualise<br>succession | 119 |
-| Incremental<br>design | 120 |
-| The<br>fine<br>details… | 121 |
-| The<br>Blank<br>Canvas | 121 |
-| Mc Harg's<br>exclusion<br>method | 122 |
-| Placement<br>flowchart | 123 |
+| Visualise
+succession | 119 |
+| Incremental
+design | 120 |
+| The
+fine
+details… | 121 |
+| The
+Blank
+Canvas | 121 |
+| Mc Harg's
+exclusion
+method | 122 |
+| Placement
+flowchart | 123 |
 | Integration | 124 |
-| Energy<br>cycling | 124 |
-| Process<br>flows | 126 |
-| Patterns<br>and<br>principles | 127 |
-| Edge<br>effect | 128 |
-| Guilds<br>and<br>companion<br>planting | 131 |
-| Putting<br>it<br>all<br>together… | 135 |
+| Energy
+cycling | 124 |
+| Process
+flows | 126 |
+| Patterns
+and
+principles | 127 |
+| Edge
+effect | 128 |
+| Guilds
+and
+companion
+planting | 131 |
+| Putting
+it
+all
+together… | 135 |
 ## | | |
 
 | | Summary | 136 |
 |------|-----------------------------------------------------------------------|-----|
-| | Integration<br>flowchart | 137 |
-| | Design<br>Proposal | 138 |
-| | Share<br>your<br>concept<br>design<br>early | 138 |
-| | Creating<br>your<br>final<br>proposal | 139 |
-| | Mapping<br>your<br>ideas | 139 |
+| | Integration
+flowchart | 137 |
+| | Design
+Proposal | 138 |
+| | Share
+your
+concept
+design
+early | 138 |
+| | Creating
+your
+final
+proposal | 139 |
+| | Mapping
+your
+ideas | 139 |
 | | Drawing | 140 |
 | | Modelling | 144 |
-| | Using<br>technology | 145 |
-| | Additional<br>maps | 146 |
-| | Further<br>information | 146 |
-| | Implementation<br>details | 149 |
+| | Using
+technology | 145 |
+| | Additional
+maps | 146 |
+| | Further
+information | 146 |
+| | Implementation
+details | 149 |
 | | Summary | 150 |
-| | Design<br>proposal<br>flowchart | 151 |
+| | Design
+proposal
+flowchart | 151 |
 | | Implementation | 152 |
 | | | |
-| | Breaking<br>down<br>the<br>task | 152 |
-| | Start<br>small<br>and<br>work<br>out<br>from<br>well-managed<br>areas | 152 |
-| | Factors<br>that<br>influence<br>task<br>prioritisation | 153 |
-| | Least<br>change<br>for<br>greatest<br>effect | 153 |
-| | Design<br>around<br>the<br>limiting<br>factors | 153 |
-| | Resource<br>availability | 154 |
-| | Dependencies<br>(a.k.a.<br>precedences) | 154 |
-| | Yeoman's<br>Keyline<br>scale<br>of<br>permanence | 154 |
-| | Creating<br>a<br>simple<br>implementation<br>plan | 155 |
-| | Creating<br>a<br>project<br>management<br>plan | 156 |
-| | Critical<br>Path<br>Analysis | 158 |
-| | Overseeing<br>a<br>project<br>implementation | 159 |
+| | Breaking
+down
+the
+task | 152 |
+| | Start
+small
+and
+work
+out
+from
+well-managed
+areas | 152 |
+| | Factors
+that
+influence
+task
+prioritisation | 153 |
+| | Least
+change
+for
+greatest
+effect | 153 |
+| | Design
+around
+the
+limiting
+factors | 153 |
+| | Resource
+availability | 154 |
+| | Dependencies
+(a.k.a.
+precedences) | 154 |
+| | Yeoman's
+Keyline
+scale
+of
+permanence | 154 |
+| | Creating
+a
+simple
+implementation
+plan | 155 |
+| | Creating
+a
+project
+management
+plan | 156 |
+| | Critical
+Path
+Analysis | 158 |
+| | Overseeing
+a
+project
+implementation | 159 |
 | | Summary | 161 |
-| | Maintenance<br>and<br>Evaluation | 162 |
-| | Creating<br>a<br>maintenance<br>plan | 162 |
-| | The<br>need<br>for<br>ongoing<br>evaluation | 163 |
+| | Maintenance
+and
+Evaluation | 162 |
+| | Creating
+a
+maintenance
+plan | 162 |
+| | The
+need
+for
+ongoing
+evaluation | 163 |
 | | Summary | 164 |
-| | Implementation<br>and<br>maintenance<br>flowchart | 165 |
-| | Presenting<br>to<br>a<br>Client | 166 |
-| | Presentation<br>flowchart | 169 |
+| | Implementation
+and
+maintenance
+flowchart | 165 |
+| | Presenting
+to
+a
+Client | 166 |
+| | Presentation
+flowchart | 169 |
 | | | |
-| PART | THREE<br>~<br>Beyond<br>Land<br>Based<br>Design | |
-| | Beyond<br>Land<br>Design | 172 |
-| | Designing<br>processes | 172 |
-| | Designing<br>zone<br>00 | 176 |
-| | Designing<br>social<br>structures | 181 |
-| | Reflecting<br>on<br>the<br>Process | 184 |
-| | A<br>Call<br>to<br>Action | 185 |
+| PART | THREE
+~
+Beyond
+Land
+Based
+Design | |
+| | Beyond
+Land
+Design | 172 |
+| | Designing
+processes | 172 |
+| | Designing
+zone
+00 | 176 |
+| | Designing
+social
+structures | 181 |
+| | Reflecting
+on
+the
+Process | 184 |
+| | A
+Call
+to
+Action | 185 |
 | | Appendices | 186 |
 | | References | 186 |
-| | Full<br>design<br>process<br>flowchart | 187 |
+| | Full
+design
+process
+flowchart | 187 |
 | | Resources | 188 |
-| | Online<br>materials | 188 |
-| | Recommended<br>reading | 188 |
+| | Online
+materials | 188 |
+| | Recommended
+reading | 188 |
 | | Glossary | 190 |
 ## | | | |
 
@@ -298,7 +610,7 @@ Life experience may be a fairly reliable guide in our interactions with small da
 
 Permaculture provides us with an evolving toolkit,† to help us successfully develop complex designs. The process described in this guide is not 'the only way'; rather it is one strategy, which I hope you'll find useful as a basis for your own.
 
-<sup>†</sup> Each of us who interact with permaculture add to its scope, evolving it further.
+† Each of us who interact with permaculture add to its scope, evolving it further.
 
 # PART ONE ~ Preparations
 
@@ -314,7 +626,7 @@ Earth Path and nature awareness training also has many such gifts to share. Obse
 
 ## ![](_page_15_Picture_7.jpeg)
 
-Thankfully, many of us are already being good lookouts for humanity, pointing out the potential dangers of climate change and peak oil<sup>†</sup> to others. As astute observers of what has been going wrong, we're also part of the way to creating solutions. We just need to learn from our mistakes and see where we could make better choices in the future. Good observation is an important skill for us to have in gathering information that enables us to create those better designs, and we'll need it to monitor the effectiveness of our subsequent creations too.
+Thankfully, many of us are already being good lookouts for humanity, pointing out the potential dangers of climate change and peak oil† to others. As astute observers of what has been going wrong, we're also part of the way to creating solutions. We just need to learn from our mistakes and see where we could make better choices in the future. Good observation is an important skill for us to have in gathering information that enables us to create those better designs, and we'll need it to monitor the effectiveness of our subsequent creations too.
 
 † The point when the maximum rate of global petroleum extraction is reached and shortages become an issue. Many oil experts feel we may be at that point already.
 
@@ -347,9 +659,9 @@ We've been taught to fear entropy,† but without this process there'd be no raw
 
 We see many patterns of beneficial interaction around us in nature. Our own bodies are of course prime examples of the value of successful co-operative relationships between cells. In addition to an abundance of multi-cellular organisms, nature abounds with symbioses – close and often long-term interactions between different biological species – and we can identify patterns in the ways that they interact with each other. Even apparently parasitic relationships reveal their mutualisms upon closer inspection. Ivy is often blamed for killing trees and cut down to stop this occurring. But how can such a relatively small plant ever overwhelm a large healthy tree? Ivy provides important wildlife habitat and cutting it causes more harm than good. Careful study reveals that it only overwhelms trees that are already dying, the tree no longer out-competing the ivy for nutrients. From this point it provides an important ecosystem service by increasing the windload on the tree and bringing it more quickly back to the earth where it can be turned back into soil to feed new life – particularly important in cool temperate climes where this process is already a relatively slow one.
 
-<sup>†</sup> Entropy is often viewed as an unstoppable destructive force to be feared and fought at all costs. We fear our food rotting and our cars and our houses falling apart, hence our invention of preservatives and non-biodegradable plastics. However, these things lock up vital biological nutrients, needed to make new life.
+† Entropy is often viewed as an unstoppable destructive force to be feared and fought at all costs. We fear our food rotting and our cars and our houses falling apart, hence our invention of preservatives and non-biodegradable plastics. However, these things lock up vital biological nutrients, needed to make new life.
 
-<sup>‡</sup> Then again, are these bacteria separate or actually part of us? Some scientists now believe that 90% of the cells in our bodies are microbes, mainly bacteria.
+‡ Then again, are these bacteria separate or actually part of us? Some scientists now believe that 90% of the cells in our bodies are microbes, mainly bacteria.
 
 So by studying what makes nature successful we can derive principles of ecology that guide us in mimicking nature's strategies. Life is always looking to increase any beneficial interactions, and energy and resources are kept on the move.† This makes for an abundant and stable, but complex system.
 
@@ -365,7 +677,7 @@ cient sunlight (fossil fuels) to heat them, which may be a more energy-expensive
 
 By studying temporal patterns we can now more accurately predict the arrival of spring, the best times to plant seeds for a good harvest and how much time we have to build our home before the inclement weather arrives. Sadly, many of our current human systems such as our nine to five work patterns, still take no account of seasonal and daily fluctuations in our energy levels. A redesign is in order!
 
-<sup>†</sup> Energy in all its forms needs to keep moving in order to avoid stagnation e.g. moving water carries more dissolved oxygen and thus supports more life.
+† Energy in all its forms needs to keep moving in order to avoid stagnation e.g. moving water carries more dissolved oxygen and thus supports more life.
 
 ## An Introduction to systems
 
@@ -377,9 +689,9 @@ So when we put specific things (elements) together (into systems), how do they b
 
 While we've all experienced how it feels when it struggles with our food choices, some of us are a little more familiar than others about the finer details of its functioning. So which elements would you say make up our digestive system? Well, it depends upon whom you ask. Have a look in some medical text books or do an image search on the Internet and you'll get a variety of answers. Some diagrams show only abdominal organs, while others include the mouth, salivary glands etc. too. This discrepancy comes from the fact that while the human body as a whole has a clearly defined edge,‡ the sub-systems (of which this is one) do not. I chose this diagram (left) as it includes the tongue, teeth and oft-forgotten nose. Our sense of smell is actually an important component of taste. This sense in turn ensures that the materials we place into our mouth are suitable for digestion, thus acting as an important filter for not just the digestive system, but the body as a whole.
 
-<sup>†</sup> David's book, Permaculture – principles and pathways beyond sustainability, is dedicated to Howard T. Odum.
+† David's book, Permaculture – principles and pathways beyond sustainability, is dedicated to Howard T. Odum.
 
-<sup>‡</sup> This is of course an illusion. We are in constant exchange with our environment.
+‡ This is of course an illusion. We are in constant exchange with our environment.
 
 So it's actually quite difficult to define exactly what constitutes the digestive system, as we can see the edge between it and the other sub-systems of the body is rather subjective. We could make the same observation about the respiratory system, the circulatory system, the reproductive system and so on. This is because elements (or sub-systems†) within systems are often multi-functional, each performing some important, sometimes vital, functions across sub-systems and ultimately supporting the whole, while at the same time being supported by the whole.
 
@@ -389,7 +701,7 @@ So, as permaculture designers we always aim to make small changes, first observi
 
 Because of the complexity of systems, we often find it difficult to see the whole picture of what is going on. So another key thing we should know is that systems can sometimes behave very unpredictably (look at how unreliable weather forecasts can be, even with all the computing power now available to meteorologists).
 
-<sup>†</sup> While we will often talk about 'elements' within a system, those 'elements' are often systems in themselves made up of yet smaller 'elements'. Thus most 'elements' are actually sub-systems within larger systems, though on the scale we are considering, it simplifies matters to consider them as single 'elements'.
+† While we will often talk about 'elements' within a system, those 'elements' are often systems in themselves made up of yet smaller 'elements'. Thus most 'elements' are actually sub-systems within larger systems, though on the scale we are considering, it simplifies matters to consider them as single 'elements'.
 
 ## ![](_page_22_Picture_1.jpeg)
 
@@ -403,7 +715,7 @@ Systems also always have functions.† Observing a system over time allows us to
 
 For nearly 70 years wolves that inhabited this great nature reserve were missing - hunted and killed by humans. Over that period, elk increased in number and became sickly beasts. Young trees were failing to replace the old because of the extra grazing and the forests were dying. In 1985. 31 wolves were released back into the park and in the 25 vears since elk numbers have returned to former levels. The herds are fitter because they move much more and the forests are growing back. Beavers have returned too – relying on a good growth of willow at the water's edge. In turn the dams they make have slowed river flow, reducing the loss of soil through run off and lowering the risk of downstream flooding. All of this occurred because of the wolves.
 
-<sup>†</sup> In systems theory, non-human systems have 'functions' and human-designed ones have 'purposes'.
+† In systems theory, non-human systems have 'functions' and human-designed ones have 'purposes'.
 
 For most systems, one of the key functions is 'to ensure its own perpetuation'. Hence in permaculture we aim to **obtain a** yield and also a surplus for reinvestment. The overall functions of systems are determined not just by the functions of the elements or sub-systems that they are composed of, but also the interconnections (relationships) between them. All elements in a system can be replaced (e.g. cells in the human body, people in a university), but if the interconnections remain the same, the system will continue to function in the same way.
 
@@ -453,7 +765,7 @@ Check that everyone is clear what they'll be doing, then start the game. After a
 
 The great value in having principles and directives is that we can use them to easily apply successful natural patterns to the many things we do. The simplest way to do this is to use the **principles of ecology** in designing gardens and farms and I'd recommend this as being a good place to start. However, we can be more creative and apply many of these same principles beyond land-based design too, something I'll give examples of in part three.
 
-Permaculture also addresses how we think, the mess we see around us being simply a reflection of the mess in our heads. Then again, our modern lifestyle has so disconnected us from nature that perhaps we shouldn't be so surprised.<sup>†</sup> So having some **principles of attitude** can assist our approach and help us to see the hidden gifts in every situation. I'll be introducing some of these principles at the most relevant places in the text.
+Permaculture also addresses how we think, the mess we see around us being simply a reflection of the mess in our heads. Then again, our modern lifestyle has so disconnected us from nature that perhaps we shouldn't be so surprised.† So having some **principles of attitude** can assist our approach and help us to see the hidden gifts in every situation. I'll be introducing some of these principles at the most relevant places in the text.
 
 ## ![](_page_27_Picture_4.jpeg)
 
@@ -485,7 +797,7 @@ So the key things to remember from this section are:
 - \*…can be unpredictable (so make small changes).
 - \* All systems have functions, directed not just by the elements within them, but also by the interconnections between them.
 - \* These interconnections can create either balancing or reinforcing feedback loops.
-- \* Elements can both benefit from being part of <sup>a</sup> system and also contribute vital functions to the whole.
+- \* Elements can both benefit from being part of a system and also contribute vital functions to the whole.
 - \*Small things can be really important!
 - \*Complex systems are more resilient than simple ones.
 
@@ -538,8 +850,8 @@ Now let's consider the roles each person will take within the design process. So
 
 Whenever you do find yourself working for or with others though, in order to avoid confusion and conflict, it helps to define everyone's roles at the beginning of the process. In such a situation, you might be:
 
-- \*Working as <sup>a</sup> sole designer or part of <sup>a</sup> team.
-- \*Working for <sup>a</sup> single client or multiple clients.
+- \*Working as a sole designer or part of a team.
+- \*Working for a single client or multiple clients.
 - \* Also responsible for delivering the implementation of your design, either as project manager or as the workforce.
 
 We'll look at some tools to help with the first situation in a moment, the second we'll address in the Client Interview chapter and the third under Implementation, towards the end of part two.
@@ -653,17 +965,17 @@ A framework lays out a pathway for us to follow, ensuring that we don't overlook
 
 #### **SADIMET**
 
-This framework has been adapted from SADI, commonly used in landscape architecture. These letters stand for the stages of Survey, Analysis, Design and Implementation; Maintenance, Evaluation, and Tweaking<sup>†</sup> being subsequently added. Of course the whole process is the design, so you might consider the D to instead stand for Decisions, the point at which you commit to specific choices.
+This framework has been adapted from SADI, commonly used in landscape architecture. These letters stand for the stages of Survey, Analysis, Design and Implementation; Maintenance, Evaluation, and Tweaking† being subsequently added. Of course the whole process is the design, so you might consider the D to instead stand for Decisions, the point at which you commit to specific choices.
 
-#### O'BREDIMET<sup>‡</sup>
+#### O'BREDIMET‡
 
 This framework is an expanded version of BREDIM, a design framework used in industrial engineering. The letters stand for **O**bservation, **B**oundaries, **R**esources, **E**valuation, **D**esign, **I**mplementation, **M**aintenance, (Re)**E**valuation, and **T**weaking.
 
 You can probably see the similarity between the two, the latter just adding an extra level of detail to the observation stage. Both I think provide a useful framework for designing.
 
-<sup>†</sup> This is of course, a technical term.
+† This is of course, a technical term.
 
-<sup>‡</sup> A friend of mine once joked that I must have made this one up because when she Googled it, my websites were the only ones that were listed. However, Google just 'OBREDIM' and you'll get plenty of results. A mentor added the 'ET'.
+‡ A friend of mine once joked that I must have made this one up because when she Googled it, my websites were the only ones that were listed. However, Google just 'OBREDIM' and you'll get plenty of results. A mentor added the 'ET'.
 
 #### CEAP
 
@@ -677,7 +989,7 @@ One I discovered on my Diploma pathway. It lays out the process nicely, but perh
 
 #### A web approach to design
 
-Not all frameworks are linear ones. Looby Macnamara's design web<sup>8</sup> has the stages represented as 'anchor points' in a web. These can be visited in a variety of ways, making it adaptable to each situation and person. She says the process is particularly well suited to people-focused designs and we'll be looking at those in a bit more detail in part three.
+Not all frameworks are linear ones. Looby Macnamara's design web8 has the stages represented as 'anchor points' in a web. These can be visited in a variety of ways, making it adaptable to each situation and person. She says the process is particularly well suited to people-focused designs and we'll be looking at those in a bit more detail in part three.
 
 ## ![](_page_38_Picture_0.jpeg)
 
@@ -721,13 +1033,13 @@ At its most basic, the design process seems like a journey from A to B, from beg
 
 A much more accurate way of portraying any of these frameworks would be in the same circular pattern as the action learning cycle, which is no surprise, because if we look again we see that they are the same thing!
 
-For those who like to see things spatially, each section of the design process has its own flowchart, summarising how everything in that stage flows together. They can be found at the end of each section and are also available to download<sup>X</sup> as part of the accompanying online resources.<sup>†</sup>
+For those who like to see things spatially, each section of the design process has its own flowchart, summarising how everything in that stage flows together. They can be found at the end of each section and are also available to downloadX as part of the accompanying online resources.†
 
 The large rectangles top and bottom represent the sections either side and the blue ellipses each stage. The yellow boxes represent the actions and orange ones the tools you might use.
 
 ## ![](_page_39_Figure_8.jpeg)
 
-† Remember – the <sup>¤</sup> symbol directs you to online resources, downloadable from www.aranyagardens.co.uk/design-guide-downloads.html
+† Remember – the ¤ symbol directs you to online resources, downloadable from www.aranyagardens.co.uk/design-guide-downloads.html
 
 ## ![](_page_40_Picture_0.jpeg)
 
@@ -737,9 +1049,9 @@ So the key things to remember about the design process are:
 
 #### Defining roles
 
-- \* When working for <sup>a</sup> client, clarify at the beginning of the design process, theirs and your own levels of involvement.
+- \* When working for a client, clarify at the beginning of the design process, theirs and your own levels of involvement.
 - \* Identify the point at which you hand over the responsibility for the design implementation to them.
-- \*Put all this in writing at the start, in <sup>a</sup> design proposal.
+- \*Put all this in writing at the start, in a design proposal.
 
 #### Working as part of a design team
 
@@ -750,11 +1062,11 @@ So the key things to remember about the design process are:
 
 #### Design frameworks
 
-- \*Provide us with <sup>a</sup> successful pattern to guide our process.
+- \*Provide us with a successful pattern to guide our process.
 - \*Help us to avoid missing out anything important.
 - \* All essentially follow the broad process of: Survey, Analyse, Design, Implement and Maintain.
 - \* Different frameworks might be better suited to some design processes than others.
-- \* While they appear to be linear processes with <sup>a</sup> beginning and an end, they are effectively cyclical.
+- \* While they appear to be linear processes with a beginning and an end, they are effectively cyclical.
 - \*A design is never completely finished.
 
 #### The Action learning cycle
@@ -813,7 +1125,7 @@ There may be times when you won't have access to an existing map at a useful sca
 
 Urban garden designs usually include a considerable amount of detail, planting schemes etc. and so need to be surveyed accurately enough to ensure that any proposed garden beds and paths will all fit into the given space. Broader scale (e.g. farm) designs are often more pattern based, addressing how separate systems can be connected together in the most effective way. Slight inaccuracies in DIY mapping may only lead to the need to plant a few more trees in a hedge line, and it's worth remembering that the final canopy sizes of trees given in books will always be approximate and site dependent. That said, paying for an accurately contoured map can allow you to for instance, design and precisely lay out a Keyline® system† on the ground using an affordable GPS unit.
 
-<sup>†</sup> A water harvesting and soil building strategy developed by P. A. Yeomans.
+† A water harvesting and soil building strategy developed by P. A. Yeomans.
 
 ## Making base and field maps
 
@@ -859,7 +1171,7 @@ This next technique can help fill in those gaps fairly quickly. Any map with gri
 
 Sometimes modern technology can be really helpful and worth using if the end goal justifies it. Just don't create systems that rely upon it! For instance, photocopiers are very good at taking a map at one scale and quickly enlarging it to another (though travelling to a copy shop and back may take time and energy). To use this method, identify the relevant area on your original map and have it enlarged to fill a whole page.† You can then use this as the basis of a new map if the original contains a whole host of superfluous information. Simply trace over it onto another sheet of paper (the window technique works well for this too) or use the gridding process described above. Don't forget to add a scale and a north arrow if you've copied just one area from a bigger map and leave room for a key too.
 
-<sup>†</sup> This could be to just A4 and then enlarged again later, or straight to your final presentation scale and later reduced again for field mapping use.
+† This could be to just A4 and then enlarged again later, or straight to your final presentation scale and later reduced again for field mapping use.
 
 #### A base map from your own measurements
 
@@ -873,7 +1185,7 @@ To start with, sketch out a rough field map, without worrying too much about acc
 
 mately right angles to the first. This should give you a reasonably good starting point.
 
-<sup>†</sup> Named after a fierce stick-limbed aboriginal dreamtime creature. The water level comprises a clear hose attached to two tall measuring sticks.
+† Named after a fierce stick-limbed aboriginal dreamtime creature. The water level comprises a clear hose attached to two tall measuring sticks.
 
 ## ![](_page_52_Picture_1.jpeg)
 
@@ -938,8 +1250,8 @@ If the site is small and essentially flat, it may not be necessary to give this 
 
 #### If so:
 
-- \* Use <sup>a</sup> level (e.g. A-frame, Bunyip water level, laser or dumpy level) to identify important contours and any difference in height between key elements on the site, such as the fall of streams. Remember <sup>a</sup> body of water like <sup>a</sup> lake gives you <sup>a</sup> handy level reference around its edge.
-- \* Mark this information onto <sup>a</sup> new copy of your base map or an overlay.† Ideally also sketch out <sup>a</sup> cross-section of the site through different areas of planting and terrain and mark its line upon your base map.
+- \* Use a level (e.g. A-frame, Bunyip water level, laser or dumpy level) to identify important contours and any difference in height between key elements on the site, such as the fall of streams. Remember a body of water like a lake gives you a handy level reference around its edge.
+- \* Mark this information onto a new copy of your base map or an overlay.† Ideally also sketch out a cross-section of the site through different areas of planting and terrain and mark its line upon your base map.
 
 ## ![](_page_57_Picture_6.jpeg)
 
@@ -947,7 +1259,7 @@ If the site is small and essentially flat, it may not be necessary to give this 
 
 I always choose a water level over an A-frame, because of its speed of use. However, the parts for a makeshift A-frame are more easily found in nature; three branches, some vine and a rock suffice if nothing else is available. While more costly, an outdoor rotating laser level allows you to mark contours quickly and over longer distances, GPS can then be used to record these coordinates for later transfer into computer-based mapping programs. While obtaining a good map in advance, can save you a lot of contour surveying on larger sites, if your design calls for Keyline® ploughing or swales you'll be marking these lines out on the ground later anyway.
 
-<sup>†</sup> Semi-transparent sheets, such as tracing paper containing additional information.
+† Semi-transparent sheets, such as tracing paper containing additional information.
 
 ## ![](_page_58_Picture_1.jpeg)
 
@@ -1055,7 +1367,7 @@ So in this case where I live, the true bearing from Tree 2 to Tree 1 in the diag
 
 295° minus (as it's westerly) $2\frac{1}{2}$ ° = $292\frac{1}{2}$ °
 
-<sup>†</sup> The online resources also include links to websites that have such information.
+† The online resources also include links to websites that have such information.
 
 ## ![](_page_63_Picture_1.jpeg)
 
@@ -1104,14 +1416,14 @@ The key things to remember about creating a base map are:
 #### Surveying the site
 
 - \*Observe, but don't start designing yet!
-- \* You may only see <sup>a</sup> site in <sup>a</sup> particular season. Clients and neighbours may be able fill in the gaps though, so make <sup>a</sup> note of any questions you have for them.
-- \*A friend can offer <sup>a</sup> different perspective on your own site.
-- \* Existing maps can save you <sup>a</sup> lot of surveying time, so it's even worth paying for one if need be. Aerial photos can be useful too. Be aware that either could be out of date.
+- \* You may only see a site in a particular season. Clients and neighbours may be able fill in the gaps though, so make a note of any questions you have for them.
+- \*A friend can offer a different perspective on your own site.
+- \* Existing maps can save you a lot of surveying time, so it's even worth paying for one if need be. Aerial photos can be useful too. Be aware that either could be out of date.
 
 #### Creating base and field maps
 
 - \*Scale up existing maps wherever you can to save time.
-- \* Making your own field map is time spent learning <sup>a</sup> useful skill. Measure distances or take bearings from <sup>a</sup> baseline.
+- \* Making your own field map is time spent learning a useful skill. Measure distances or take bearings from a baseline.
 - \* The degree of accuracy required depends on what you plan to do. 90-95% correct is usually good enough.
 - \*Survey slopes where relevant.
 - \* The simplest tools are usually the most reliable, though more technological solutions can save you time.
@@ -1119,11 +1431,11 @@ The key things to remember about creating a base map are:
 
 #### Drawing your base map
 
-- \* A base map shows just the main fixed elements on <sup>a</sup> site. You can use overlays to record everything else.
-- \* Decide on your scale, dividing your longest edge into the long dimension of your paper, but leaving room for <sup>a</sup> key and other information on your sheet.
+- \* A base map shows just the main fixed elements on a site. You can use overlays to record everything else.
+- \* Decide on your scale, dividing your longest edge into the long dimension of your paper, but leaving room for a key and other information on your sheet.
 - \*Align your map to true north.
 - \* Start by marking out the baseline and plot all other points from there. When you're happy it looks right, join the dots.
-- \* Don't forget to add <sup>a</sup> north arrow and scale, address and date.
+- \* Don't forget to add a north arrow and scale, address and date.
 
 ## ![](_page_68_Picture_1.jpeg)
 
@@ -1162,7 +1474,7 @@ Now using your field map or more accurate base map, start collecting data. Rathe
 #### Record existing site elements
 
 - \*What's the primary land use on the site?
-- \* By way of <sup>a</sup> comparison, what is the primary agriculture / traditional crop in this area?
+- \* By way of a comparison, what is the primary agriculture / traditional crop in this area?
 
 This information may help you to identify what already grows well here. However, don't allow that to make you any less observant about the specific conditions on this particular site.
 
@@ -1172,12 +1484,12 @@ Examine all boundaries (walls, hedges, fences, waterways etc.). Note what they a
 
 Now add to copies of your map or overlays all the main elements currently found on or making use of the site. Use the PASTE acronym to help you remember everything:
 
-- \* What Plants and trees are growing on the site: on the land and in any bodies of water? You might record <sup>a</sup> transect† across the site as part of this process. Note any fungi you find too – while they're more closely related to the animal kingdom, there is no F in this acronym.
+- \* What Plants and trees are growing on the site: on the land and in any bodies of water? You might record a transect† across the site as part of this process. Note any fungi you find too – while they're more closely related to the animal kingdom, there is no F in this acronym.
 - \* What Animals (domesticated and wild mammals, birds, insects, fish etc.) are using the site? Look for any signs of their activities. Don't forget about humans either.
 - \* What Structures are there (e.g. buildings, greenhouse, shed, paving, pond, dam, terracing, wind turbine pole etc.)? What condition are they in? Are they all being used to their full potential? Any archaeo
  - logical or sacred sites?
 - \* What Tools are being used here (e.g. wind turbine, pole lathe, washing line etc.)? What work is done here?
-- \* What Events‡ take <sup>p</sup>lace here (e.g. social: parties, courses, camps – or natural: floods, frost, fire etc.)?
+- \* What Events‡ take place here (e.g. social: parties, courses, camps – or natural: floods, frost, fire etc.)?
 
 You may not be able to identify every tree, plant, fungus or animal track. This is another time when photos can be useful. Otherwise, if there's enough to spare, collect a leaf or flower for identification later, either by the client, another gardener, or by referring to a book.
 
@@ -1220,7 +1532,7 @@ Conventionally, to define the different zones on a broadacre site we'd follow th
 
 Zone 1 – Closest to the home, especially any access points (front and back doors), also alongside regularly used paths. Where most intensive gardening and social use occurs.
 
-Zone 2 – Gets <sup>a</sup> bit less attention; may be further away, but still perhaps intensively gardened. May include soft fruit, fruit trees, small animals, etc.
+Zone 2 – Gets a bit less attention; may be further away, but still perhaps intensively gardened. May include soft fruit, fruit trees, small animals, etc.
 
 Zone 3 – Commercial production (less intensive) e.g grains, main crop vegetables, orchards, agroforestry, fodder crops, pasture, meadow etc.
 
@@ -1234,7 +1546,7 @@ With larger sites, especially broadacre farms, we'll also be able to identify zo
 
 In urban areas, regularly used community spaces such as schools and colleges, allotments, libraries and leisure centres may be considered in zones 2, 3 or 4 depending on their proximity. Remember, at this stage we're just identifying the zones as we observe the space currently being used. You may well identify opportunities to say, turn a zone 2 into a zone 1, but your job for now is to just record the site's use as it currently stands.
 
-<sup>†</sup> David Holmgren calls this Network Analysis in Hepburn Permaculture Gardens.
+† David Holmgren calls this Network Analysis in Hepburn Permaculture Gardens.
 
 While zones are all about conserving energy on site, **sectors** are all about the energy coming in from the outside. Often called wild energies (as they tend to be beyond our control to do much about outside the site boundaries), these provide us with many opportunities to **obtain a yield**. Ultimately, all energy flows from a *source* to a *sink* and sometimes our site is in between.
 
@@ -1297,7 +1609,7 @@ Many sectors we might want to consider though are neither purely directional nor
 - \*Nighttime light pollution between buildings/trees etc.
 - \*Any particularly good or bad views.
 - \*Privacy.
-- \* Any neighbouring fire risks (often seasonally inflammable materials upwind of the site) – <sup>a</sup> big issue in drylands.
+- \* Any neighbouring fire risks (often seasonally inflammable materials upwind of the site) – a big issue in drylands.
 
 ## ![](_page_78_Picture_10.jpeg)
 
@@ -1334,7 +1646,7 @@ Snow – The thaw after snow shows us more than we can normally see. Snow melts 
 Fire – Hopefully you'll never experience a wildfire, by all accounts it's a pretty terrifying thing. If the site is in a fire risk area then designing to protect the site against it is a priority (remember designing for disasters?). Instead of waiting for one, find out about the history of wildfires in the area and their patterns. Radiant heat is the most destructive aspect of fire and burns from a considerable distance, even a small campfire can force a retreat. The main things to look for on site are:
 
 - \* Inflammable plants and trees; conifers and eucalypts (high resin content trees) burn particularly fiercely. Do prevailing winds blow on to the site from that direction?
-- \* Is the site on <sup>a</sup> slope? Fire travels very quickly uphill and is fiercest on ridges, which are usually the driest areas.
+- \* Is the site on a slope? Fire travels very quickly uphill and is fiercest on ridges, which are usually the driest areas.
 - \*Where are access roads to the site routed?
 - \*Is there an emergency on-site gravity-fed water supply?
 - \* What are the buildings made of? Are they designed with fire-protection in mind (e.g. white painted, with door and window screens, simple roof shapes and screened undershot guttering that doesn't collect hot ashes, etc.)?
@@ -1353,7 +1665,7 @@ in strength with altitude. Low winter sun can be blocked by tall trees and build
 
 #### **Estimating heights**
 
-You may be concerned about the shade a building or tree will throw in the winter, or want to know the protected distance offered by a windbreak, so it's useful to be able to estimate the heights of tall objects. The simplest method involves comparing the height of say a tree, with a person standing beneath it. This can be pretty accurate where the tree is only a few times the height of the person. An adaptation of this is to compare the length of your own shadow with the tall object. Pacing works pretty well for this, though if the ground is uneven or of changing slope, this can distort the result. In case these prove insufficient, I've included a slightly more detailed but accurate method online.<sup>¤</sup>
+You may be concerned about the shade a building or tree will throw in the winter, or want to know the protected distance offered by a windbreak, so it's useful to be able to estimate the heights of tall objects. The simplest method involves comparing the height of say a tree, with a person standing beneath it. This can be pretty accurate where the tree is only a few times the height of the person. An adaptation of this is to compare the length of your own shadow with the tall object. Pacing works pretty well for this, though if the ground is uneven or of changing slope, this can distort the result. In case these prove insufficient, I've included a slightly more detailed but accurate method online.¤
 
 #### Record water across the site
 
@@ -1363,7 +1675,7 @@ You may be concerned about the shade a building or tree will throw in the winter
 - \*Any signs of wells/boreholes or monitoring of aquifer levels?
 - \* Estimate the surface area of any roofs and note which of them have guttering and to where they drain rainwater.
 - \* How much water storage is there currently on site for different uses (drinking, washing, flushing, irrigation etc.)?
-- \* How much is stored in tanks, butts etc.? How long do these last during drought? – <sup>a</sup> question for the client.
+- \* How much is stored in tanks, butts etc.? How long do these last during drought? – a question for the client.
 - \* How are water systems connected on site? What water cycling is currently taking place?
 - \*Is grey or black water being treated before leaving the site?
 
@@ -1379,17 +1691,17 @@ Choose sites to survey away from compacted areas like paths and roads
 
 To see how accurate this is, get a copy of the Biological and Soil Monitoring Chart¤ and a spade or two. Then:
 
-- \* Find <sup>a</sup> suitable site, away from compacted areas like access points or pathways.
+- \* Find a suitable site, away from compacted areas like access points or pathways.
 - \*Start filling in the chart, starting with column 1 for site 1.
-- \*Sketch <sup>a</sup> cross section and mark the location on it.
-- \*First make <sup>a</sup> note of the current land use there.
-- \* Determine the degree of plant diversity – to do this properly you might use <sup>a</sup> one metre square frame (or <sup>a</sup> hula hoop!) and study just what is inside. Record or sample plants.
+- \*Sketch a cross section and mark the location on it.
+- \*First make a note of the current land use there.
+- \* Determine the degree of plant diversity – to do this properly you might use a one metre square frame (or a hula hoop!) and study just what is inside. Record or sample plants.
 - \* Record any signs of insect, spider and soil life activity (worm casts, nibbled leaves, webs etc).
-- Now dig your soil profile (a square hole <sup>a</sup> spade's width on each side and <sup>a</sup> spade blade deep). How easy is it to dig? – This is <sup>a</sup> clue to the degree of compaction!
-- \* Carefully remove an additional downward 'slice' to one side. Sandwiching it with <sup>a</sup> second spade can help to lift it out. Observe the different soil layers, roots and soil life.
-- \*Smear <sup>a</sup> little soil onto the chart (in the colour box).
-- \* Taking <sup>a</sup> representative sample of topsoil use the 'How to test soil texture' flowchart¤ and follow the instructions until you have determined your soil type.
-- \* To check this, also perform the jar test¤ on <sup>a</sup> further sample from the same place. This picture clearly shows the layer of settled sand that falls straight to the bottom, with silt quickly settling out over the next 30 minutes or so on top of it. The paler clay is still in suspension on the top and may be for many days or even weeks in the case of really fine clays.
+- Now dig your soil profile (a square hole a spade's width on each side and a spade blade deep). How easy is it to dig? – This is a clue to the degree of compaction!
+- \* Carefully remove an additional downward 'slice' to one side. Sandwiching it with a second spade can help to lift it out. Observe the different soil layers, roots and soil life.
+- \*Smear a little soil onto the chart (in the colour box).
+- \* Taking a representative sample of topsoil use the 'How to test soil texture' flowchart¤ and follow the instructions until you have determined your soil type.
+- \* To check this, also perform the jar test¤ on a further sample from the same place. This picture clearly shows the layer of settled sand that falls straight to the bottom, with silt quickly settling out over the next 30 minutes or so on top of it. The paler clay is still in suspension on the top and may be for many days or even weeks in the case of really fine clays.
 
 ## ![](_page_84_Picture_14.jpeg)
 
@@ -1503,10 +1815,10 @@ The key things to remember about recording site details are:
 
 #### Recording site information
 
-- \* Use copies of your base map or overlays to record spatial information and <sup>a</sup> separate sheet for other observations.
+- \* Use copies of your base map or overlays to record spatial information and a separate sheet for other observations.
 - \*Record what is happening on the site now.
 - \* What is the primary use of the site? What else can you observe here? Use PASTE and DAFOR to help you.
-- \*Keep <sup>a</sup> diary if you can observe over <sup>a</sup> period of time.
+- \*Keep a diary if you can observe over a period of time.
 
 #### Zones and sectors
 
@@ -1516,7 +1828,7 @@ The key things to remember about recording site details are:
 
 #### Soil and water
 
-- \*Take soil samples to build up <sup>a</sup> picture across the site.
+- \*Take soil samples to build up a picture across the site.
 - \*What do the common plants here tell you about the soil?
 - \*Record any significant bodies of water.
 - \* Identify the amount of water storage in ponds, tanks etc. What clues are there to the current level of water use?
@@ -1541,7 +1853,7 @@ The key things to remember about recording site details are:
 
 This is the part where we identify why we are carrying out a redesign of the site and for whom. Ideally we would go through the following process with each client (everyone involved ought to be interviewed to some degree), either one at a time, or together. Find out who all the clients are in advance. Sometimes, they will include both adults and children, though one or two may guide the process more than the others. You may also need to take into consideration the needs of specific animals (even if you cannot question them directly!).
 
-Sometimes, the client list will include you. If so it can be helpful to get someone else to ask you these questions and make notes for you. Not all of them will always be relevant and, depending on the circumstances, some will be more important than others. So give yourself sufficient time to prepare your list of questions before meeting the client. To help you I've included a client interview worksheet<sup>¤</sup> as part of the additional online resources, which you can adapt for your own needs.
+Sometimes, the client list will include you. If so it can be helpful to get someone else to ask you these questions and make notes for you. Not all of them will always be relevant and, depending on the circumstances, some will be more important than others. So give yourself sufficient time to prepare your list of questions before meeting the client. To help you I've included a client interview worksheet¤ as part of the additional online resources, which you can adapt for your own needs.
 
 ## SMART goals
 
@@ -1622,9 +1934,9 @@ It can be really helpful to walk the site with the client(s) if possible when co
 - \* Are there any security issues with the site (e.g. previous burglaries or vandalism)? If the site is locked up at times, what are the access issues? Who has keys etc.?
 - \* Who owns and is responsible for maintaining site boundaries? Are there problems relating to their current state of repair?
 - \*What rights of way exist through the site?
-- \* What do their neighbours do? Are there any problems as <sup>a</sup> result of their activities; poisonous run-off, spray drift etc.?
+- \* What do their neighbours do? Are there any problems as a result of their activities; poisonous run-off, spray drift etc.?
 
-<sup>†</sup> This became clear to me a couple of years ago when I helped on a four-day house build, where thirty skilled and enthusiastic friends came to help the family.
+† This became clear to me a couple of years ago when I helped on a four-day house build, where thirty skilled and enthusiastic friends came to help the family.
 
 - \* What energy sources and resources are currently being used on site and how much? Where are underground utilities routed?
 - \* Are there any energy or resource leaks that you missed during your site survey? Where are they 'bleeding'?
@@ -1745,7 +2057,7 @@ The key things to remember about the client interview are:
 - \*What is their timescale for the design?
 - \*Ask any site-related questions that you have.
 - \*Gather their lifestyle details.
-- \*Make sure you give them <sup>a</sup> chance to add anything else.
+- \*Make sure you give them a chance to add anything else.
 
 ### Working with multiple clients
 
@@ -1804,10 +2116,12 @@ Still confused about the difference between functions, systems and elements? May
 | | Fence | Posts, concrete, wooden slats etc. |
 | Irrigation | Roofwater harvesting | Gutter, diverter, downpipe, water butt or tank, pond |
 | | Earthworks | Dams, sluices, gulleys, trees etc. |
-| Soil improvement | Slope<br>stabilisation | Terracing, swales, gabions, net and pan, trees |
+| Soil improvement | Slope
+stabilisation | Terracing, swales, gabions, net and pan, trees |
 | | Nutrient cycling | Composting, green manures, liquid feeds, mycorrhiza, treebog |
 | | Mulching | Cardboard, bark, compost, straw, wood chip etc. |
-| Food production | Veg garden<br>(plants) | Carrots, potatoes, onions etc. |
+| Food production | Veg garden
+(plants) | Carrots, potatoes, onions etc. |
 | | Veg garden (structure) | Raised beds, composting system, greenhouse, hand tools |
 ## | | Orchard | Apple, plum, pear trees etc. |
 
@@ -1888,7 +2202,7 @@ Perhaps the most important of all; how do the systems and elements we are consid
 
 Some of our options may have a much greater impact upon the environment than others. Factors that we might take into account to determine this are:
 
-- \* **Emergy** (Embodied energy) this is the energy used up during the entire lifecycle<sup>†</sup> of a product. We don't need to know these figures exactly to make our choices.
+- \* **Emergy** (Embodied energy) this is the energy used up during the entire lifecycle† of a product. We don't need to know these figures exactly to make our choices.
 - \* Biodegradability natural resources are excellent choices for our designs, as they return to nature after use.
 - \* Transportation locally available resources use less energy to be moved to the site (weight for weight).
 - \* Greenhouse gas (e.g. carbon) emissions.
@@ -1897,7 +2211,7 @@ Some of our options may have a much greater impact upon the environment than oth
 
 Refer to your PASTE list and make the most of the resources you've already found to be present on site or locally available.
 
-<sup>†</sup> This lifecycle includes raw material extraction, transport, manufacture, assembly, installation, disassembly, deconstruction and/or decomposition. Figures for commonly used materials can be found easily online – if you can't find any, then make a good guess. Thinking about the whole process is a good exercise in seeing the bigger picture. The Story of Stuff illustrates this well: www.storyofstuff.com
+† This lifecycle includes raw material extraction, transport, manufacture, assembly, installation, disassembly, deconstruction and/or decomposition. Figures for commonly used materials can be found easily online – if you can't find any, then make a good guess. Thinking about the whole process is a good exercise in seeing the bigger picture. The Story of Stuff illustrates this well: www.storyofstuff.com
 
 ## ![](_page_112_Picture_1.jpeg)
 
@@ -1947,10 +2261,10 @@ If, for instance, you were losing lettuces from your garden to slugs or snails, 
 
 When growing plants we might also consider some or all of Masanobu Fukuoka's Four principles of natural farming:
 
-- \* No cultivation – no <sup>p</sup>loughing or turning the soil. The earth cultivates itself naturally.
+- \* No cultivation – no ploughing or turning the soil. The earth cultivates itself naturally.
 - \* No chemical fertilizer or prepared compost – these practices drain the soil of its essential nutrients.
-- \* No weeding by tillage or herbicides – weeds are an important part of building soil fertility and in balancing the biological community. As <sup>a</sup> fundamental principle weeds should be controlled, not eliminated.
-- \* No dependence on chemicals – weak <sup>p</sup>lants develop as <sup>a</sup> result of ploughing and fertilising, increasing their vulnerability to disease and insects.
+- \* No weeding by tillage or herbicides – weeds are an important part of building soil fertility and in balancing the biological community. As a fundamental principle weeds should be controlled, not eliminated.
+- \* No dependence on chemicals – weak plants develop as a result of ploughing and fertilising, increasing their vulnerability to disease and insects.
 
 #### Financial costs
 
@@ -2077,7 +2391,7 @@ The key things to remember about the analysis stage are:
 
 #### Choosing systems and elements
 
-- \* Follow <sup>a</sup> documented route to remind yourself later of your reasoning and to gain the client's confidence.
+- \* Follow a documented route to remind yourself later of your reasoning and to gain the client's confidence.
 - \* Get all your ideas for fulfilling the functions, out of your head and down onto paper first. Then use the following processes to pare them back to your best options.
 - \*Which of your possible elements are multi-functional?
 - \*The ethics should be the next filter for your initial ideas.
@@ -2353,7 +2667,7 @@ indicated here by a '–'), but doesn't benefit in any way from its proximity (s
 
 Not a great arrangement, so far, but allelopathic† relationships like this are quite common in nature.
 
-<sup>†</sup> Allelopathy is a biological phenomenon by which an organism produces one or more biochemicals that influence the growth, survival, and reproduction of others.
+† Allelopathy is a biological phenomenon by which an organism produces one or more biochemicals that influence the growth, survival, and reproduction of others.
 
 We could choose a third species to plant between the trees to buffer the allelopathic effect of the larger tree and perhaps also provide additional pest-predator attractant services to the smaller one. This is better, but it can still be improved upon.
 
@@ -2396,8 +2710,8 @@ Key things to remember about placement and integration are:
 
 #### Placement
 
-- \* May start with <sup>a</sup> 'blank slate', or with one or more existing points of activity to arrange systems/elements around.
-- \* Playing with <sup>a</sup> model, or moving 'element cards' around <sup>a</sup> plan is <sup>a</sup> good way to experiment with different locations.
+- \* May start with a 'blank slate', or with one or more existing points of activity to arrange systems/elements around.
+- \* Playing with a model, or moving 'element cards' around a plan is a good way to experiment with different locations.
 - \*Always design from patterns to details.
 - \* Use the key planning tools of zones, sectors and elevation to identify best placements of elements.
 - \* Ensure that systems needing regular off-site inputs and those that create outputs to be exported off-site, are located near access routes.
@@ -2410,7 +2724,7 @@ Key things to remember about placement and integration are:
 
 - \* Once the best placements have been determined for each element, experiment with creating beneficial relationships.
 - \* Look to create energy/resource cycles by using an output of one system as an input for another.
-- \* Use natural patterns to direct energies across <sup>a</sup> site including principles such as stacking and succession.
+- \* Use natural patterns to direct energies across a site including principles such as stacking and succession.
 - \* Seek out opportunities to take advantage of the edge effect, though not at the expense of clear desire lines.
 - \* Use co-action analysis to maximise beneficial relationships and experiment with creating guilds.
 - \*Use biological control to address imbalances.
@@ -2642,9 +2956,9 @@ This section has been about committing your ideas to an appropriate format for c
 
 - \* We all make mistakes and some of your ideas won't work, so don't let that stop you committing to action.
 - \* A design proposal usually contains some maps, along with additional supporting documentation.
-- \* If you're making <sup>a</sup> presentation as well as providing <sup>a</sup> report, you'll probably need maps and some other documents in <sup>a</sup> larger format for easier viewing.
-- \* Use <sup>a</sup> mapping format that you feel comfortable with; as long as it communicates your ideas it's usually fine. Many of the examples shown here are particularly beautiful, but they really only need to be clear.
-- \* If it's <sup>a</sup> particularly important job, it might be worth employing an artist to convey your ideas for you.
+- \* If you're making a presentation as well as providing a report, you'll probably need maps and some other documents in a larger format for easier viewing.
+- \* Use a mapping format that you feel comfortable with; as long as it communicates your ideas it's usually fine. Many of the examples shown here are particularly beautiful, but they really only need to be clear.
+- \* If it's a particularly important job, it might be worth employing an artist to convey your ideas for you.
 - \*Models, mind maps and flowcharts are maps too.
 - \* Technology can sometimes make life easier, but can also leave you reliant on its good functioning.
 - \* Define the functions and SMART goals you've been designing to achieve.
@@ -2790,28 +3104,28 @@ The key things to remember about implementation are:
 
 #### Breaking down and prioritising tasks
 
-- \* Create <sup>a</sup> Work Breakdown Structure by chunking large tasks into smaller, more easily tackled sub-tasks.
+- \* Create a Work Breakdown Structure by chunking large tasks into smaller, more easily tackled sub-tasks.
 - \* Identify those small changes that can have an immediate significant beneficial effect.
 - \* Notice which tasks are limited by seasonal constraints and place them on the calendar next.
-- \* Determine which tasks need <sup>a</sup> lot of labour or resources and plan to do them when they are abundantly available.
+- \* Determine which tasks need a lot of labour or resources and plan to do them when they are abundantly available.
 - \*Identify dependencies and order those tasks accordingly.
 
 #### Creating a plan
 
 - \*A simple plan may be enough when you're also the client.
-- \*Sticky notes or sheets or paper are <sup>a</sup> useful planning tool.
+- \*Sticky notes or sheets or paper are a useful planning tool.
 - \*Spreadsheets can be useful too.
 
 #### Project management
 
-- \* Create <sup>a</sup> project management plan for significantly big implementations or when designing for someone else.
+- \* Create a project management plan for significantly big implementations or when designing for someone else.
 - \* Clarify any SMART goals, as they'll define your timescale and in turn how much inside your budget you will be.
 - \* Determine your own and the client's levels of involvement in the implementation process.
-- \* Create <sup>a</sup> realistic schedule. Use individual task timings (refer to the contractors if you are unsure) and what you know about task dependencies, to create <sup>a</sup> Gantt chart.
+- \* Create a realistic schedule. Use individual task timings (refer to the contractors if you are unsure) and what you know about task dependencies, to create a Gantt chart.
 - \*Identify the critical path and prioritise those tasks along it.
 - \*Build and motivate the team to implement the design.
 - \*Things can, and probably will, go wrong. Be prepared.
-- \* Get more training if you're doing this for anything other than <sup>a</sup> small project.
+- \* Get more training if you're doing this for anything other than a small project.
 
 ## ![](_page_175_Picture_1.jpeg)
 
@@ -2863,14 +3177,14 @@ The key things to remember about maintenance planning are:
 
 - \* Aim to implement low-maintenance systems first, as they will take less time away from the establishment of the rest of the design.
 - \* Time large maintenance tasks to coincide with peaks of labour or resource availability.
-- \* Things last <sup>a</sup> lot longer given <sup>a</sup> little regular care and attention. Timetable in monthly checks of key systems.
+- \* Things last a lot longer given a little regular care and attention. Timetable in monthly checks of key systems.
 - \* Provide instructions for unusual technologies to prevent their malfunction and abandonment.
-- \* Ensure all site users have access to <sup>a</sup> clear site-wide maintenance plan.
+- \* Ensure all site users have access to a clear site-wide maintenance plan.
 
 #### Evaluation and incremental design:
 
 - \* Designs rarely function completely as intended; to anticipate all the things that might happen would require an extensive design process. Ongoing evaluation is vital to ensure that any unexpected occurrences are quickly resolved. Almost all of the most successful designs have developed incrementally.
-- \* Once you've left, the client will have to respond themselves to any unexpected issues. Do your best to ensure that they understand the design process and at least the basics of permaculture, so that they can care for the site effectively. Better still get them onto <sup>a</sup> design course.
+- \* Once you've left, the client will have to respond themselves to any unexpected issues. Do your best to ensure that they understand the design process and at least the basics of permaculture, so that they can care for the site effectively. Better still get them onto a design course.
 
 ## ![](_page_178_Picture_1.jpeg)
 
@@ -3048,23 +3362,43 @@ One tool I use when teaching away from home is a diary. I use it to record how w
 |-----------------------------------------------|------------------------------------------------|-------------|--------------|----------------------|-----------------|
 | | | | Room downed? | Clumbing doors | |
 | | Dwys | | | | |
-| Weather | ame<br>pone | | | | |
-| Sleep | Curtains?<br>Hours?<br>Dreams?<br>Undisturbed? | | | | |
+| Weather | ame
+pone | | | | |
+| Sleep | Curtains?
+Hours?
+Dreams?
+Undisturbed? | | | | |
 | Energy level? | Out of 10 ? | | | | |
-| Mental<br>Physical (first thing)<br>Emotional | <b>⊘</b> /⊗ | | | | |
-| Breakfast | What?<br>Quantity<br>Quality | | | | |
-| Morning Activities | Physical?<br>Mental?<br>Etc. | | | | |
+| Mental
+Physical (first thing)
+Emotional | ⊘ /⊗ | | | | |
+| Breakfast | What?
+Quantity
+Quality | | | | |
+| Morning Activities | Physical?
+Mental?
+Etc. | | | | |
 | Energy level? | Out of 10 ? | | | | |
-| Mental<br>Physical (morning)<br>Emotional | <b>⊕</b> /⊖ | | | | |
-| Lunch | What?<br>Quantity<br>Quality | | | | |
+| Mental
+Physical (morning)
+Emotional | ⊕ /⊖ | | | | |
+| Lunch | What?
+Quantity
+Quality | | | | |
 | Energy level? | Out of 10 ? | | | | |
-| Afternoon Activities | Physical?<br>Mental?<br>Etc. | | | | |
-| Mental<br>Physical (afternoon)<br>Emotional | <b>0</b> /⊗ | | | | |
-| Evening meal | What?<br>Quantity<br>Quality | | | | |
+| Afternoon Activities | Physical?
+Mental?
+Etc. | | | | |
+| Mental
+Physical (afternoon)
+Emotional | 0 /⊗ | | | | |
+| Evening meal | What?
+Quantity
+Quality | | | | |
 
 Noticing our own rhythms is a really important part of any selfdesign process. We're familiar with our daily cycles of sleeping and waking, but it's also been shown that our energy levels cycle throughout a day . So going with the flow and having a snooze after lunch can actually help us to accomplish more.
 
-<sup>†</sup> An adaptation of the perhaps more familiar 'work with nature', but emphasising that we are a part of nature, not apart from it.
+† An adaptation of the perhaps more familiar 'work with nature', but emphasising that we are a part of nature, not apart from it.
 
 Such a diary can help us to identify our best times for doing particular things; maybe you're a morning person and you've noticed that's your most creative time? We can design one to record both what's going on for us (our 'zones') and also how we're affected by what's going on around us (sectors). Those sectors might include how the volume of traffic changes as we cycle to school or work at different times each day, allowing us to identify when it feels safest to travel. Or perhaps noticing the noisier times of day if quiet is important for what you wish to do. It may be that using the exclusion method you discover that your yoga zone is entirely defined by your children sector! As with any design, the observation stage is all-important, the great thing about designing our own lives being that each day we get the chance to try out something new.
 

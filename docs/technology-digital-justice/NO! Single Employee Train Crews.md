@@ -1,3 +1,8 @@
+---
+title: "## **NO! Single Employee Train Crews**"
+category: "technology-digital-justice"
+---
+
 ## **NO! Single Employee Train Crews**
 
 **Date:** Thu, 07/28/2016 - 19:19 **Source:** https://ecology.iww.org/node/1719**Tags:** Railroad Workers United (RWU), railroad workers, health and safety, crude-by-rail, green unionism, Lac-Mégantic By Karl (Fritz) Edler - Railroad Music , July 15, 2016 Oral comments on Train Crew Staffing Docket Number FRA-2014-0033 RIN 2130-AC48 Good Morning,

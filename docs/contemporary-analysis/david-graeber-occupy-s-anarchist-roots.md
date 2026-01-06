@@ -1,25 +1,8 @@
 ---
-title: Occupy’s anarchist roots
-author: David Graeber
-date: 29<sup>th</sup> November 2011
-language: en
-source_url: >-
-  Retrieved on 3<sup>rd</sup> September 2020 from
-  https://libcom.org/library/occupys-anarchist-roots
-topics:
-  - Occupy
-  - New York
-  - Occupy Wall Street
-  - New York City
-  - Adbusters
-original_format: muse
-converted_date: '2025-11-08T11:25:03.154250'
-tags:
-  - Occupy
-  - New York
-  - Occupy Wall Street
-  - New York City
-  - Adbusters
+title: "Occupy’s anarchist roots"
+author: "David Graeber"
+date: "29<sup>th</sup> November 2011"
+category: "contemporary-analysis"
 ---
 
 New York, NY — Almost every time I’m interviewed by a mainstream journalist about Occupy Wall Street I get some variation of the same lecture:
@@ -34,11 +17,11 @@ I should be clear here what I mean by “anarchist principles”. The easiest wa
 
 ### Anarchism versus Marxism
 
-Traditional Marxism, of course, aspired to the same ultimate goal but there was a key difference. Most Marxists insisted that it was necessary first to seize state power, and all the mechanisms of bureaucratic violence that come with it, and use them to transform society — to the point where, they argued such mechanisms would, ultimately, become redundant and fade away. Even back in the 19<sup>th</sup> century, anarchists argued that this was a pipe dream. One cannot, they argued, create peace by training for war, equality by creating top-down chains of command, or, for that matter, human happiness by becoming grim joyless revolutionaries who sacrifice all personal self-realisation or self-fulfillment to the cause.
+Traditional Marxism, of course, aspired to the same ultimate goal but there was a key difference. Most Marxists insisted that it was necessary first to seize state power, and all the mechanisms of bureaucratic violence that come with it, and use them to transform society — to the point where, they argued such mechanisms would, ultimately, become redundant and fade away. Even back in the 19th century, anarchists argued that this was a pipe dream. One cannot, they argued, create peace by training for war, equality by creating top-down chains of command, or, for that matter, human happiness by becoming grim joyless revolutionaries who sacrifice all personal self-realisation or self-fulfillment to the cause.
 
 It’s not just that the ends do not justify the means (though they don’t), you will never achieve the ends at all unless the means are themselves a model for the world you wish to create. Hence the famous anarchist call to begin “building the new society in the shell of the old” with egalitarian experiments ranging from free schools to radical labour unions to rural communes.
 
-Anarchism was also a revolutionary ideology, and its emphasis on individual conscience and individual initiative meant that during the first heyday of revolutionary anarchism between roughly 1875 and 1914, many took the fight directly to heads of state and capitalists, with bombings and assassinations. Hence the popular image of the anarchist bomb-thrower. It’s worthy of note that anarchists were perhaps the first political movement to realise that terrorism, even if not directed at innocents, doesn’t work. For nearly a century now, in fact, anarchism has been one of the very few political philosophies whose exponents never blow anyone up (indeed, the 20<sup>th</sup>-century political leader who drew most from the anarchist tradition was Mohandas K Gandhi.)
+Anarchism was also a revolutionary ideology, and its emphasis on individual conscience and individual initiative meant that during the first heyday of revolutionary anarchism between roughly 1875 and 1914, many took the fight directly to heads of state and capitalists, with bombings and assassinations. Hence the popular image of the anarchist bomb-thrower. It’s worthy of note that anarchists were perhaps the first political movement to realise that terrorism, even if not directed at innocents, doesn’t work. For nearly a century now, in fact, anarchism has been one of the very few political philosophies whose exponents never blow anyone up (indeed, the 20th-century political leader who drew most from the anarchist tradition was Mohandas K Gandhi.)
 
 Yet for the period of roughly 1914 to 1989, a period during which the world was continually either fighting or preparing for world wars, anarchism went into something of an eclipse for precisely that reason: To seem “realistic”, in such violent times, a political movement had to be capable of organising armies, navies and ballistic missile systems, and that was one thing at which Marxists could often excel. But everyone recognised that anarchists — rather to their credit — would never be able to pull it off. It was only after 1989, when the age of great war mobilisations seemed to have ended, that a global revolutionary movement based on anarchist principles — the global justice movement — promptly reappeared.
 
@@ -72,7 +55,7 @@ According to the official version, of course, “democracy” is a system create
 
 Democracy meant the madness of crowds: bloody, tumultuous and untenable. “There was never a democracy that didn’t commit suicide,” wrote Adams; Hamilton justified the system of checks and balances by insisting that it was necessary to create a permanent body of the “rich and well-born” to check the “imprudence” of democracy, or even that limited form that would be allowed in the lower house of representatives.
 
-The result was a republic — modelled not on Athens, but on Rome. It only came to be redefined as a “democracy” in the early 19<sup>th</sup> century because ordinary Americans had very different views, and persistently tended to vote — those who were allowed to vote — for candidates who called themselves “democrats”. But what did — and what do — ordinary Americans mean by the word? Did they really just mean a system where they get to weigh in on which politicians will run the government? It seems implausible. After all, most Americans loathe politicians, and tend to be skeptical about the very idea of government. If they universally hold out “democracy” as their political ideal, it can only be because they still see it, however vaguely, as self-governance — as what the Founding Fathers tended to denounce as either “democracy” or, as they sometimes also put it, “anarchy”.
+The result was a republic — modelled not on Athens, but on Rome. It only came to be redefined as a “democracy” in the early 19th century because ordinary Americans had very different views, and persistently tended to vote — those who were allowed to vote — for candidates who called themselves “democrats”. But what did — and what do — ordinary Americans mean by the word? Did they really just mean a system where they get to weigh in on which politicians will run the government? It seems implausible. After all, most Americans loathe politicians, and tend to be skeptical about the very idea of government. If they universally hold out “democracy” as their political ideal, it can only be because they still see it, however vaguely, as self-governance — as what the Founding Fathers tended to denounce as either “democracy” or, as they sometimes also put it, “anarchy”.
 
 If nothing else, this would help explain the enthusiasm with which they have embraced a movement based on directly democratic principles, despite the uniformly contemptuous dismissal of the United States’ media and political class.
 

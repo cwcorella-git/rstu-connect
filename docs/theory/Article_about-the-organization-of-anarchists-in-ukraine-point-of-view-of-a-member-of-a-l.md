@@ -1,13 +1,8 @@
 ---
-title: 'About The Organization Of Anarchists In Ukraine: Point Of View Of A Member'
-date: 2025
-author: Unknown
-tags:
-  - organizing
-  - strikes
-  - unions
-  - rent
-  - police
+title: "About The Organization Of Anarchists In Ukraine: Point Of View Of A Member"
+author: "Unknown"
+date: "2025"
+category: "theory"
 ---
 
 # About The Organization Of Anarchists In Ukraine Point Of View Of A Member Of A L

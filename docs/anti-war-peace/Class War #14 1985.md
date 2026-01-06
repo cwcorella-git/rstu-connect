@@ -1,3 +1,8 @@
+---
+title: "## **Class War #14 1985**"
+category: "anti-war-peace"
+---
+
 ## **Class War #14 1985**
 
 ## **Date:** Unknown

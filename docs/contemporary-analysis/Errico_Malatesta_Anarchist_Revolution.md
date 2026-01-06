@@ -1,3 +1,8 @@
+---
+title: "THE ANARCHIST REVOLUTION Polemical Articles 1924-1931"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Figure_0.jpeg)
 
 ## THE ANARCHIST REVOLUTION
@@ -136,7 +141,7 @@ I really believe that the essential reason for our lack of success is that given
 
 But it nevertheless is true that the polemics between individualists and communists have often absorbed much of our energy. They have prevented, even when it was possible, the development of a frank and fraternal collaboration between all anarchists and have held at bay many who, had we been united, would have been attracted by our passion for liberty. N ettlau therefore does well to preach harmony and
 
-<sup>\*</sup> Max Nettlau (1865-1944) the Austrian anarchist historian.
+\* Max Nettlau (1865-1944) the Austrian anarchist historian.
 
 to show that for real freedom, that is Anarchy, to exist, there has to be the possibility of choice, and that everyone can arrange their lives to suit themselves, whether on communist or individualist lines, or some mixture of both.
 
@@ -184,11 +189,11 @@ After all, when one thinks about it, no-one can be sure of being right, and no-o
 
 In the first issue of Pensiero e Volanta Saverio Merlino\* wrote: 'The anarchists have been tormented and rendered powerless by the conflict, which has never ceased to rage among them, between individualists and communists. They are poles apart and agree on only one thing - their abhorrence of parliamentarism.'
 
-I think Merlino exaggerates when he ascribes the impotence of the anarchists to lme conflict between communists and individualists. When circumstances have favoured action and, in general, when there have been the will and the ability to do something practical, any dispute has bl�en forgotten and communists and individualists (I speak, of course, of true anarchists who are loyal to the principle, Neither Slaves Nor Masters) have always found themselves on the same side.
+I think Merlino exaggerates when he ascribes the impotence of the anarchists to lme conflict between communists and individualists. When circumstances have favoured action and, in general, when there have been the will and the ability to do something practical, any dispute has blen forgotten and communists and individualists (I speak, of course, of true anarchists who are loyal to the principle, Neither Slaves Nor Masters) have always found themselves on the same side.
 
 The impotence of the anarchists depends on a number of other reasons, in particular the lack of a practical programme that could be
 
-<sup>\*</sup> Saverio Merlino (1858-1930) was a contemporary of Malatesta's and they remained friends until Merlino's death in 1930 in spite of the fact that he had stopped calling himself an anarchist many years before and became a kind of social democrat who, according to Malatesta in his obituary of his friend, 'in his intentions and in his hopes, sought to bring together all the advanced parties and groups' - including the anarchists - though he declared himself in favour of parliamentary elections and, according to Malatesta, 'joined the Neapolitan section of the Socialist Party' - Editor.
+\* Saverio Merlino (1858-1930) was a contemporary of Malatesta's and they remained friends until Merlino's death in 1930 in spite of the fact that he had stopped calling himself an anarchist many years before and became a kind of social democrat who, according to Malatesta in his obituary of his friend, 'in his intentions and in his hopes, sought to bring together all the advanced parties and groups' - including the anarchists - though he declared himself in favour of parliamentary elections and, according to Malatesta, 'joined the Neapolitan section of the Socialist Party' - Editor.
 
 implemented in the shon term, as well, of course, as from the general conditions in which they have been obliged to act. In other words, the fact that they looked to an ideal and therefore, rather than putting their ideas into practice, they felt obliged to hasten the hour of the revolution.
 
@@ -198,7 +203,7 @@ Anarchist individualism has had the misfonune to be frequently professed by thos
 
 I warmly recommend the book by Armand\*. It is a conscientious book, written by one of the most respected of individualist anarchists and it has been generally well received by the individualists. But, reading this book, one wonders why on eanh Armand insists on referring to 'anarchist individualism' as a distinct body of doctrine when in general he is setting out principles common to all anarchists of whatever tendency. In reality Armand, who likes to call himself 'amoral', has produced a kind of manual of anarchist morality - not
 
-<sup>\*</sup> E. Armand (l872-1962),Ainsi Chantair un 'En Dehors'. He was for many years editor of the individualist joumall'En Dehors - Editor.
+\* E. Armand (l872-1962),Ainsi Chantair un 'En Dehors'. He was for many years editor of the individualist joumall'En Dehors - Editor.
 
 'individualist anarchist' but anarchist in general. Indeed, beyond anarchist, a widely human morality because based on the human sentiments that render anarchy desirable and possible.
 
@@ -292,7 +297,7 @@ Firstly, if things were really as you present them, I too would opt for Rocker a
 
 Let's get one thing clear: a labour movement with anarchist objectives is not the same thing as an anarchist labour movement. Naturally everyone desires the former. It is obvious that in their activities anarchists look to the final triumph of anarchy - the more
 
-<sup>\*</sup> Open letter addressed to the editors of El Productor, an anarchist journal published in Barcelona - Editor.
+\* Open letter addressed to the editors of El Productor, an anarchist journal published in Barcelona - Editor.
 
 so when such activities are carried out within the labour movement, which is of such great importance in the struggle for human progress and emancipation. But the latter, a labour movement which is not only involved in propaganda and the gradual winning over of terrain to anarchism, but which is already avowedly anarchist, seems to me to be impossible and would in every way lack the purpose which we wish to give to the movement.
 
@@ -300,7 +305,7 @@ What matters to me is not 'class unity' but the triumph of anarchy, which concer
 
 Thus, the difference there may be between us concerns not the ends but the tactics we believe most appropriate for reaching our common goals. Some believe anarchists must assemble the anarchist workers, or at the least those with anarchist sympathies, in separate associations . But I, on the contrary, would like all wage-earners, whatever their social, political or religious opinions - or non-opinions - bound only in solidarity and in struggle against the bosses, to belong to the same organisations, and I would like the anarchists to remain indistinguishable from the rest even while seeking to inspire them with their ideas and example. It could be that specific circumstances involving personalities, environment or occasion would advise, or dictate the breaking up of the mass of organised workers into various different tendencies, according to their social and political views. But it seems to me in general that there should be a striving towards unity, which brings workers together in comradeship and accustoms them to solidarity, gives them greater strength for today's struggles or prepares them better for the final struggle and the harmony we shall need in the aftermath of victory.
 
-Clearly, the unity we have to fight for must not mean suppression of free initiative, forced uniformity or imposed discipline, which would put a brake on or altogether extinguish the movement of liberation. But it is only our support for a unified movement that can safeguard freedom in unity. Otherwise unity comes about through force and to thl� detriment of freedom.
+Clearly, the unity we have to fight for must not mean suppression of free initiative, forced uniformity or imposed discipline, which would put a brake on or altogether extinguish the movement of liberation. But it is only our support for a unified movement that can safeguard freedom in unity. Otherwise unity comes about through force and to thl detriment of freedom.
 
 The labour movement is not the artificial creation of ideologists designed to support and put into effect a given social and political programme, whether anarchist or not, and which can therefore, in the attitudes it strikes and the actions it takes, follow the line laid down by that programme. The labour movement springs from the desire and urgent need of the workers to improve their conditions of life or at least to prevent them getting worse. It must, therefore, live and develop within the environment as it is now, and necessarily tends to limit its claims to what seems possible at the time.
 
@@ -336,7 +341,7 @@ I maintain that as the mass of workers are not anarchist a labour organisation t
 
 I have come across an article by D. Abad de Santillan\* which opposes this view ... Santillan believes that I confuse syndicalism with
 
-<sup>\*</sup> Diego Abad de Santillan (1897-1983), Argentinian by birth. Active in the Spanish Civil War. Journalist and editor.
+\* Diego Abad de Santillan (1897-1983), Argentinian by birth. Active in the Spanish Civil War. Journalist and editor.
 
 the labour movement, while the fact is that I have always opposed syndicalism and have been a warm supporter of the labour movement.
 
@@ -442,7 +447,7 @@ Does this, therefore, mean that if the Constituent Assembly voted for a monarchy
 
 And what about the preconditions of an anti-monarchist position? Albatrelli suggests that the party 'jealously retains it in its specific programme and does not present it to any possible opposition as a bill to be settled in advance.' But are the antimonarchist preconditions not based on the conviction that the institution of monarchy is opposed to any real political and social progress and that until it is abolished there will be no guarantee of liberty or possibility of a wide general education of the mass of the people? Does it mean nothing to Albatrelli that fifty years of republican, socialist and anarchist propaganda have resulted in ... fascism? Where we are concerned, the antimonarchist preconditions should be a c companied by anticapitalist ones. But the republicans, who ascrib e prime importance to political form, should at the least insist on ... a republic. Otherwise their republicanism reduces to no more than the assertion of a far-off ide al, a vague 'potential' which could even be accepted by Mussolini and Victor Emanuel.
 
-True enough, it is not probable that a Constituent Assembly set up upon the fall of fascism would vote for a monarchy. The mass of the people are tired of change and the bourgeoisie needs order and peace which, in the circumstances, are more likely to prevail under a republic, bols tered by all the illusions that new regimes carry with them, rather than the hard-won fight for restoration of a monarchy. On the other hand, it is most probable - almost certain - that the Constituent Assembly, being what it would inevitably be in present moral and economical times in Italy - that is, made up of a majority of conservativles and clericals, landowners and lawyers, repx:�senting the great industrial interests of the land - would give us a conservative " and clerical republic like the republic of France on the fall of the Second Empire and which, after more than fifty years, is still a centralising and capitalist republic.
+True enough, it is not probable that a Constituent Assembly set up upon the fall of fascism would vote for a monarchy. The mass of the people are tired of change and the bourgeoisie needs order and peace which, in the circumstances, are more likely to prevail under a republic, bols tered by all the illusions that new regimes carry with them, rather than the hard-won fight for restoration of a monarchy. On the other hand, it is most probable - almost certain - that the Constituent Assembly, being what it would inevitably be in present moral and economical times in Italy - that is, made up of a majority of conservativles and clericals, landowners and lawyers, repx:senting the great industrial interests of the land - would give us a conservative " and clerical republic like the republic of France on the fall of the Second Empire and which, after more than fifty years, is still a centralising and capitalist republic.
 
 Apart from the right of the majority, which we do not recognise, to impose its will, by force, on the minority; apart from the consideration that no electoral mechanism can succeed in electing a chamber that would express the will of the majority - even if such a thing as a majority with one common will existed - there always remains the fact that under a capitalist regime, when society is divided between rich and poor, bosses and workers whose ration of daily bread depends on the whim of those bosses, there cannot be such a thing as a free election. Then: also remains the fact that under a centralised regime the more developed regions exploit the less developed ones, while the latter regions, more heavily populated, hamper progress and tend to be a drag on reform.
 
@@ -460,7 +465,7 @@ Revolution. And by revolution we don't mean the insurrectionary phase alone, whi
 
 Revolution is the creation of new institutions, new groupings, new social relations. Revolution is the destruction of privilege and
 
-<sup>\*</sup> A western region of France which, during the Revolution and early Napoleonic period, was home to the forces of royalist insurrection - Editor.
+\* A western region of France which, during the Revolution and early Napoleonic period, was home to the forces of royalist insurrection - Editor.
 
 monopoly, a new spirit of justice, solidarity and freedom which must renew the whole of social life, raise the moral level and the material conditions of the masses by calling upon them to provide for their own future through their direct and conscious action. Revolution is the organisation of all public services by those who work within them in their own interests, as well as in those of the wider public. Revolution is the destruction of all coercive bonds, and is the autonomy of groups, communes and regions . Revolution is the free federation, brought about by solidarity, by individual and collective interests and by the needs of production and defence. Revolution is the establishment of a myriad free groupings based on the ideas, desires, needs and tastes of all and every individual. Revolution is the formation and dissolution of thousands of representative, neighbourhood, communal, regional and national bodies which, lacking any kind oflegislative power, serve to make them known and harmonise the wishes and interests of the people near and far, and act through propagation of information, advice and example. Revolution is freedom proved in the crucible of events - and lasts as long as freedom lasts, that is, until such time as others, profiting from the weariness that overtakes the masses, the inevitable disappointments that follow upon exaggerated hopes, possible mistakes and human error, succeed in creating a power which, backed by an army of conscripts and mercenaries, makes laws and blocks any forward movement - and reaction sets in.
 
@@ -490,7 +495,7 @@ Science is the gathering and systematising of everything that is known or though
 
 Philosophy can be either a hypothetical explanation of what is known or an attempt to guess at what is not known. It poses those
 
-<sup>\*</sup> Nino Napolitano C????-1 958), Italian anarchist propagandist.
+\* Nino Napolitano C????-1 958), Italian anarchist propagandist.
 
 problems which have, at least until now, eluded the competence of science and suggests solutions which, because they cannot yet be proven, vary and contradict one another from philosophy to philosophy. When it does not descend to mere word play and illusionism, philosophy may act as a stimulus or guide to science, but it is not science.
 
@@ -504,7 +509,7 @@ The basic principle of mechanics is the conservation of energy: nothing is creat
 
 A body cannot yield any given amount of heat to another without c ooling by the same amount; one form of energy cannot be transformed into another (movement into heat, heat into electricity, or vice versa) without losing in one form what it gains in another. In short, the whole of the physical world is subject to this same extremely basic fact: if you have ten pence and spend five, you will be left with five - no more and no less .
 
-And yet, if you have an idea you can communicate it to a million peoople and lose nothing in the process, and the more the idea is propagated the more it acquires in power and effectiveness. Teachers teach others what they know and, in so doing, do not become less knowledgeable; indeed, in teaching they learn more easily how to enrich their own minds . If a grenade tossed by a homicidal hand cuts short the life of a genius, science may explain what happens to all the material eleffil�nts of which the murdered genius consisted when living and demonstrate that after the body has dissolved nothing remains of the old form, while at the same time, nothing is materially lost because all the atoms of the body, with all their energy, live on in other combinations . But the ideas and inventions which that genius gave the world remain and spread and can become enormously powerful, while those ideas that were still maturing and would have been further developed if the murder had not occurred are lost for ever.
+And yet, if you have an idea you can communicate it to a million peoople and lose nothing in the process, and the more the idea is propagated the more it acquires in power and effectiveness. Teachers teach others what they know and, in so doing, do not become less knowledgeable; indeed, in teaching they learn more easily how to enrich their own minds . If a grenade tossed by a homicidal hand cuts short the life of a genius, science may explain what happens to all the material eleffilnts of which the murdered genius consisted when living and demonstrate that after the body has dissolved nothing remains of the old form, while at the same time, nothing is materially lost because all the atoms of the body, with all their energy, live on in other combinations . But the ideas and inventions which that genius gave the world remain and spread and can become enormously powerful, while those ideas that were still maturing and would have been further developed if the murder had not occurred are lost for ever.
 
 Can mechanics explains this power, this specific quality that is the product of the mind?
 
@@ -602,13 +607,13 @@ Now Stackelberg is not just an astronomer who lives with his head in the clouds 
 
 - I) The common ownership of the land and all means of production;
 - II) The emancipation of women in terms of civil, political and economic equality, with men, which will put an end to the old moral code of our ancestors;
-- II�) The replacement of the rule of man over man by the worldwide administration of production based on equivalence of labour.
+- II) The replacement of the rule of man over man by the worldwide administration of production based on equivalence of labour.
 
 So far so good. But what does astronomy have to do with it?!
 
 We would not have raised the matter if it had simply been some isolated example of academics who, tormented by the need to search
 
-<sup>\*</sup> For the benefit of readers as 'ignorant' as Malatesta and this editor of the subtleties of philosophy, monism is the doctrine that reality consists of only one basic substance or element, such as mind or matter - Editor.
+\* For the benefit of readers as 'ignorant' as Malatesta and this editor of the subtleties of philosophy, monism is the doctrine that reality consists of only one basic substance or element, such as mind or matter - Editor.
 
 for a universal formula that would explain everything that the senses perceive, that thought conceives and that life actually does, allow themselves to be drawn into making rash statements and grotesque judgements.
 
@@ -646,7 +651,7 @@ But does such necessity, which links all naturally occurring events in time and 
 
 In saying yes to this, the mechanisists believe that everything is subject to the same mechanical laws. Everything is predetermined by the laws of physics and chemistry - thus, the course of the stars, the blossoming of a flower, a lover's heartbeat, the evolution of human history. And I freely admit that such a model seems beautiful and grandiose, less absurd and incomprehensible than the metaphysical models, and that if it could be proven it might give full spiritual satisfaction. But, despite all the pseudo-logical efforts of the determinists to reconcile the model with life and moral sentiment, there is no room at all for free will and liberty. Our life, and that of society as a whole is, it seems, completely predestined and foreseeable, ab eterno and for all time, and in the minutest detail, and free will is illusion pure and simple, like Spinoza's stone which, falling, is aware that it falls and believes it does so because it wishes to.
 
-If that is the case - and mechanisists and determinists cannot fail to believe it without contradicting themselves - it is clearly absurd to wish to control one's own life, to desire to educate and be educated or to re-organise society in whatever manner. All this rushing around, preparing for a better future, stems from nothing but futile illusion, and would cease as soon as we had realised the fact. True, even illusion, even the absurd, would have to be seen as the inevitable products of thl� mechanical functions of the brain and as such would be recycled into the system. But, I repeat, what place is there then for free will and liberty, for the role of human endeavour in the life and destiny of humankind?
+If that is the case - and mechanisists and determinists cannot fail to believe it without contradicting themselves - it is clearly absurd to wish to control one's own life, to desire to educate and be educated or to re-organise society in whatever manner. All this rushing around, preparing for a better future, stems from nothing but futile illusion, and would cease as soon as we had realised the fact. True, even illusion, even the absurd, would have to be seen as the inevitable products of thl mechanical functions of the brain and as such would be recycled into the system. But, I repeat, what place is there then for free will and liberty, for the role of human endeavour in the life and destiny of humankind?
 
 Since human beings believe, or at least hope, that they can be useful in their lives, there clearly does exist a creative force, a first cause, or first causes, independent of the physical world and of mechanical laws, and this force is what we call will.
 
@@ -690,11 +695,11 @@ But, while finding it necessary and right to use force to defend their own liber
 
 Thus, those same people who, in Italy for instance, rightly glorify the wars of independence and erect statues of marble and bronze to Agesilao Milano, Felice Orsini, Guglielmo Oberdan, and those who raise their voices in passionate paens to Sofia Perovskaya and other martyrs of distant countries, have treated as criminals the anarchists
 
-<sup>\*</sup> Dumini was an Italian fascist hitman responsible for a number of murders of anti-fascists - Editor.
+\* Dumini was an Italian fascist hitman responsible for a number of murders of anti-fascists - Editor.
 
 when they set out to demand total liberty and equal justice for all and openly declare that so long as oppression and privilege are defended by the brute force of the bayonet, popular insurrection, the revolt of the individual and of the mass of the people, would continue to be the necessary means for bringing about their emancipation.
 
-I remember that at the time of an anarc�ist attentat which caused something of a sensation, one leading light in the Socialist Party, newly returned from the Greco-Turkish war, proclaimed, with the backing of his comrades, that human life is always sacred and that not even the cause of liberty calls for an attack on human life. It seems that he made an exception of the lives of the Turks and the cause of Greek independence!
+I remember that at the time of an anarcist attentat which caused something of a sensation, one leading light in the Socialist Party, newly returned from the Greco-Turkish war, proclaimed, with the backing of his comrades, that human life is always sacred and that not even the cause of liberty calls for an attack on human life. It seems that he made an exception of the lives of the Turks and the cause of Greek independence!
 
 Illogicality or hypocrisy?
 
@@ -764,13 +769,13 @@ Such polemical distortions ill befit the seriousness of the Review and the autho
 
 Naturally I do not in the least mind comrade Bianchi's comments. On the contrary, I thank him for giving me the opportunity to return to a question which I consider of vital importance for the development and success of our movement.
 
-<sup>\*</sup> Luigi Galleani ( 1 86 1-1931) . In a review of The End of Anarchism? Malatesta described it 'in substance [as 1 a clear, serene, eloquent exposition of communist anarchism in the Kropotkinian interpretation which personally I find too optimistic, too simplistic and too trusting in the natural harmonies' - Editor.
+\* Luigi Galleani ( 1 86 1-1931) . In a review of The End of Anarchism? Malatesta described it 'in substance [as 1 a clear, serene, eloquent exposition of communist anarchism in the Kropotkinian interpretation which personally I find too optimistic, too simplistic and too trusting in the natural harmonies' - Editor.
 
 Let us leave Galleani aside. If ! have misinterpreted him, then he is the best person to tell me so and I am always ready to make amends . Let us, rather, discuss the argument in itself.
 
 My reference to bread strikes Bianchi as a polemical distortion. To me, on the other hand, it is fitting. I am in the habit - I don't know if it's a virtue or a fault - of always looking for the simplest, most obvious examples, because these don't permit of rhetorical tricks and plainly reveal the kernel of the question.
 
-It is essential, says Bianchi, to have the means of making bread; it would therefore be madness to think of destroying rather than perfecting those means. But bread is not the only indispensable item. Indeed, I believe it would be very difficult to find any present inf>titution, including the worst of them - even prisons, brothels, b�rracks, privileges and monopolies - that does not respond, directly or indirectly, to a social need and that it would be possible to truly destroy and for ever unless it was replaced by something that better satisfies the need that generated it in the first place.
+It is essential, says Bianchi, to have the means of making bread; it would therefore be madness to think of destroying rather than perfecting those means. But bread is not the only indispensable item. Indeed, I believe it would be very difficult to find any present inf>titution, including the worst of them - even prisons, brothels, brracks, privileges and monopolies - that does not respond, directly or indirectly, to a social need and that it would be possible to truly destroy and for ever unless it was replaced by something that better satisfies the need that generated it in the first place.
 
 Do not ask, a comrade said, what we should substitute for cholera. It is an evil, and evil has to be eliminated, not replaced. This is true. But the trouble is that cholera persists and returns unless conditions of improved hygiene have replaced those that first allowed the disease to gain a foothold and spread.
 
@@ -798,7 +803,7 @@ The conviction, which I share, is the need for a revolution to eliminate those: 
 
 I remember an episode in 1 920, when I was editor of Umanita Nova\*. It was the period when the socialists were trying to impede the revolution, and unfortunately they succeeded. They said that if an insurrection took place the lines of communication with abroad '
 
-<sup>\*</sup> The daily anarchist paper Umanita Nova (New Humanity) was banned in 1922 by Mussolini's fascists . Since the end of World War Two it has been published weekly Editor.
+\* The daily anarchist paper Umanita Nova (New Humanity) was banned in 1922 by Mussolini's fascists . Since the end of World War Two it has been published weekly Editor.
 
 would be severed and we would have all died of starvation as a result of the grain shortage. There were even those who said there could be no revolution because Italy did not produce rubber! Concerned with the basic question offood and convinced that the grain shortage could be made good by using all the available arable land for the cultivation of plants and fast-growing nutritional grains, I asked our comrade, Dr G. Rossi, an experienced agronomist, to write a series of articles on practical concepts of agriculture, directed precisely at the goal we had in mind. Rossi kindly did so. His articles were obviously very useful, but also practical, and did not therefore please everyone. One comrade, annoyed that I had rejected some poem or short story of his - I no longer recall exactly what - said brusquely: 'Yes, you prefer Umanira Nova to be about ploughs, chick-peas, beans, cabbages and stupid things like that!'
 
@@ -960,9 +965,9 @@ Revolution, in the historical sense of the word, means the radical reform of ins
 
 But revolution cannot happen on demand. Must we, then, remain passive spectators, awaiting the right moment to present itself.
 
-And even after a successful insurrection, shall we be able to realise suddenly all our desires and by some miracle convert from the hell of government and capitalism to the heaven of libertarian communism - that is, compll�te liberty of the individual in solidarity of interest with others?
+And even after a successful insurrection, shall we be able to realise suddenly all our desires and by some miracle convert from the hell of government and capitalism to the heaven of libertarian communism - that is, compllte liberty of the individual in solidarity of interest with others?
 
-<sup>\*</sup> Saverio Merlino, Italian anarchist and contemporary of Malatesta's. See footnote on page 18 - Editor.
+\* Saverio Merlino, Italian anarchist and contemporary of Malatesta's. See footnote on page 18 - Editor.
 
 These are illusions which take root in authoritarian soil; for authoritarians see the mass of the people as raw material to be manipulated into whatever mould they please through the wielding of power by decree, the gun and the handcuff.
 
@@ -990,11 +995,11 @@ Such too is the case with the word opportunist. Who actually wants to be an in-o
 
 The same is true of the word transformist. Who would deny that everything in the world and in life evolves and changes? Who today is not a 'transformer'? Yet the word was used to describe the corrupt and short-term policies pioneered by the Italian Depretis.\*\*
 
-It would be a good thing to put a brake on the habit of attributing to words a m�:aning that is different from their original sense and which gives rise to such confusion and misunderstanding. But how to
+It would be a good thing to put a brake on the habit of attributing to words a m:aning that is different from their original sense and which gives rise to such confusion and misunderstanding. But how to
 
-<sup>\*</sup> Leon Gambetta (1838-1882), lawyer and French politician - Editor.
+\* Leon Gambetta (1838-1882), lawyer and French politician - Editor.
 
-<sup>\*\*</sup> Agostino Deprt:tis, Italian politician and prime minister at various times between 1876 and 1887 - Editor.
+\*\* Agostino Deprt:tis, Italian politician and prime minister at various times between 1876 and 1887 - Editor.
 
 ## Gradualism 83
 
@@ -1028,7 +1033,7 @@ And during the revolution?
 
 Let me begin by saying, we can't make the revolution on our own;
 
-<sup>\*</sup> Malatesta was writing in 1 925 in Italy under the Mussolini dictatorship with all publications having to be passed by the fascist press censor - Editor.
+\* Malatesta was writing in 1 925 in Italy under the Mussolini dictatorship with all publications having to be passed by the fascist press censor - Editor.
 
 ## Gradualism 85
 
@@ -1136,7 +1141,7 @@ Judging by certain polemics it would seem that there are anarchists who spurn an
 
 Therefore I can only view with sympathy the initiative that our Russian comrades have taken, convinced as I am that a more general, more united, more enduring organisation than any that have so far been set up by anarchists - even if it did not manage to do away with all the mistakes and weaknesses that are perhaps inevitable in a movement like ours - which struggles on in the midst of the incomprehension, indifference and even the hostility of the majority - would undoubtedly be an important element of strength and success, a powerful means of gaining support for our ideas.
 
-I believe it is n�cessary above all and urgent for anarchists to come to terms with one another and organise as much and as well as possible in order to be able to influence the direction the mass of the people take in their struggle for change and emancipation.
+I believe it is ncessary above all and urgent for anarchists to come to terms with one another and organise as much and as well as possible in order to be able to influence the direction the mass of the people take in their struggle for change and emancipation.
 
 Today the major force for social transformation is the labour movement (union movement) and on its direction will largely depend the course evtmts take and the objectives of the next revolution.
 
@@ -1236,7 +1241,7 @@ My impression is that either you have misunderstood the project for the 'Platfor
 
 Yet, it is a fundamental principle, which guides each one of us in our way of understanding the anarchist idea, in our determination that it should penetrate to the masses, in its spirit of sacrifice. It is thanks to this that a man can choose the revolutionary way and ignore others. Without it no revolutionary could have the necessary strength or will or intelligence to bear the spectacle of social misery, and even
 
-<sup>\*</sup> Nestor Makhno (1 889-1 934), Russian revolutionary organiser of the guerrilla army in the Ukraine (1918-1921) which defeated the White Army but lost to Trotsky's Red Army. He managed to escape and spent the rest of his life in Paris. He was one of the authors of the 'Platform' . Freedom Press are the publishers of P. Arshinov's History of the Makhnovist Movement (1918-1921), 284 pages, £5.00 (post free inland) - Editor.
+\* Nestor Makhno (1 889-1 934), Russian revolutionary organiser of the guerrilla army in the Ukraine (1918-1921) which defeated the White Army but lost to Trotsky's Red Army. He managed to escape and spent the rest of his life in Paris. He was one of the authors of the 'Platform' . Freedom Press are the publishers of P. Arshinov's History of the Makhnovist Movement (1918-1921), 284 pages, £5.00 (post free inland) - Editor.
 
 less fight against it. It is through the inspiration of collective responsibility that the revolutionaries of all epochs and all schools have united their forces; it is upon this that they based their hope that their partial revolts - revolts which opened the path for the oppressed - were not in vain, that the exploited would understand their aspirations, would extract from them the applications suitable for the time and would use them to find new p aths toward their emancipation.
 
@@ -1291,13 +1296,13 @@ Can this be reconciled with the principles of autonomy and free initiative which
 
 Certainly I accept and support the view that anyone who associates and cooperates with others for a common purpose must feel the need to coordinate: his actions with those of his fellow members and do nothing that harms the work of others and, thus, the common cause; and respect l:he agreements that have been made - except when wishing sincerely to leave the association when emerging differences of opinion or changed circumstances or conflict over preferred methods make cooperation impossible or inappropriate. Just as I maintain that those who do not feel and do not practice that duty should be thrown out of the association.
 
-Perhaps, sp(�aking of collective responsibility, you mean precisely that accord and solidarity that must exist among the members of an association. And if that is so, your expression amounts, in my view, to an incorrect use of language, but basically it would only be an unimportant question of wording and agreement would soon be reached.
+Perhaps, sp(aking of collective responsibility, you mean precisely that accord and solidarity that must exist among the members of an association. And if that is so, your expression amounts, in my view, to an incorrect use of language, but basically it would only be an unimportant question of wording and agreement would soon be reached.
 
 The really important question that you raise in your letter concerns the function (Ie role) of the anarchists in the social movement and the way they mean to carry it out. This is a matter of basics, of the raison d'erre of anarchism and one needs to be quite clear as to what one means.
 
 You ask if the anarchists should (in the revolutionary movement and communistic organisation of society) assume a directional and therefore responsible role, or limit themselves to being irresponsible auxiliaries.
 
-Your question leaves me perplexed, because it lacks precision. It is possible to dir�!ct through advice and example, leaving the people provided with the opportunities and means of supplying their own needs themselves - to adopt our methods and solutions if these are, or seem to be, better than those suggested and carried out by others. But it is also possible to direct by taking over command, that is by becoming a government and imposing one's own ideas and interests through police methods.
+Your question leaves me perplexed, because it lacks precision. It is possible to dir!ct through advice and example, leaving the people provided with the opportunities and means of supplying their own needs themselves - to adopt our methods and solutions if these are, or seem to be, better than those suggested and carried out by others. But it is also possible to direct by taking over command, that is by becoming a government and imposing one's own ideas and interests through police methods.
 
 In which way would you want to direct?
 
@@ -1351,7 +1356,7 @@ Indeed, in all countries of the modem world the majority of the population must 
 
 To bring freedom to all, to allow everyone, in full freedom, to gain the maximum degree of moral and material development, and enjoy all the benefits that nature and labour can bestow, everyone must have their own property; everyone, that is, must have the right to that piece of land and those raw materials and tools and equipment that are needed to work and produce without exploitation and oppression. And since we cannot expect the propertied classes to spontaneously surrender the privileges they have usurped, the workers will have to expropriate that property and it must become the property of all.
 
-This has to be the task of the next revolution and to it we must lend our best efforts . But since social life cannot allow for interruptio. must at the same time give consideration to the practical means using the assets we would by then hold in common, and the ways <sup>01</sup> ensuring that all members of society enjoy equal rights .
+This has to be the task of the next revolution and to it we must lend our best efforts . But since social life cannot allow for interruptio. must at the same time give consideration to the practical means using the assets we would by then hold in common, and the ways 01 ensuring that all members of society enjoy equal rights .
 
 The property system will therefore be the problem that arises at the very same moment that we proceed with expropriation.
 
@@ -1401,7 +1406,7 @@ At present one can think only of a multiplicity of communities made up of neighb
 
 To organise a communist society on the grand scale, the whole of economic life - means of production, exchange and consumption -
 
-## 1 18 Malatesta would have to be radically transfonned. And this could only be done gradually, as objective circumstances pennit, and to the extent that the majority of the population understand the advantages and know how to provide for themselves. If, on the other hand, this could be done at one stroke, at the wishes and through the excessive power of one party, the masses, used to obeying and serving, would accept the new fonn of life as a new law, imposed by a new government, and would wait for a supreme power to impose on all how to produce and to control consumption. And the new power, not knowing and not able to satisfy immensely varied and often contradictory needs and desires, and not wanting to declare itself a useless bystander by leaving to the interested parties the freedom to do as they wanted and could, would reconstitute a State, founded, like all States, on military and police power; and this, if it managed to last, would only substitute new and more fanatical bosses for the old ones. On the pretext (and indeed with thl� honest and sincere intention of regenerating the world with a new Gospel) that single rule must be imposed on all, all liberties suppressed and all free initiative made impossible. In consequence, discouragement and paralysis of production would set in; clandestine and fraudulent commercial practices would take over; there would be an arrogant and corrupt bureaucracy, general misery and, finally, a more or less complete return to the same conditions of oppression and exploitation that the revolution was meant to abolish.
+## 1 18 Malatesta would have to be radically transfonned. And this could only be done gradually, as objective circumstances pennit, and to the extent that the majority of the population understand the advantages and know how to provide for themselves. If, on the other hand, this could be done at one stroke, at the wishes and through the excessive power of one party, the masses, used to obeying and serving, would accept the new fonn of life as a new law, imposed by a new government, and would wait for a supreme power to impose on all how to produce and to control consumption. And the new power, not knowing and not able to satisfy immensely varied and often contradictory needs and desires, and not wanting to declare itself a useless bystander by leaving to the interested parties the freedom to do as they wanted and could, would reconstitute a State, founded, like all States, on military and police power; and this, if it managed to last, would only substitute new and more fanatical bosses for the old ones. On the pretext (and indeed with thl honest and sincere intention of regenerating the world with a new Gospel) that single rule must be imposed on all, all liberties suppressed and all free initiative made impossible. In consequence, discouragement and paralysis of production would set in; clandestine and fraudulent commercial practices would take over; there would be an arrogant and corrupt bureaucracy, general misery and, finally, a more or less complete return to the same conditions of oppression and exploitation that the revolution was meant to abolish.
 
 The Russian experience must not have taken place in vain.
 

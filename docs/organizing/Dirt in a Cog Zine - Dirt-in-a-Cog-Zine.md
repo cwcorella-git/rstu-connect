@@ -1,3 +1,8 @@
+---
+title: "What does dirt in a cog mean?"
+category: "organizing"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 SMALL WAYS TO RESIST FASCISM THAT MAKE A BIG DIFFERENCE
@@ -160,7 +165,23 @@ Show up to your city's city council meeting, the education meeting, a city plann
 
 # Make Your Own List
 
-| How<br>do<br>you<br>plan<br>to<br>make<br>the<br>world<br>a<br>better<br>place?<br>Make<br>a<br>list.<br>Have<br>a<br>plan. |
+| How
+do
+you
+plan
+to
+make
+the
+world
+a
+better
+place?
+Make
+a
+list.
+Have
+a
+plan. |
 |-----------------------------------------------------------------------------------------------------------------------------|
 | |
 | |

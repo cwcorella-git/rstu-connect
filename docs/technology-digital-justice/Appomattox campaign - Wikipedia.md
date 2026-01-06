@@ -1,3 +1,8 @@
+---
+title: "**Appomattox campaign**"
+category: "technology-digital-justice"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Appomattox_campaign)
 
 # **Appomattox campaign**
@@ -14,21 +19,36 @@ Part of the [eastern theater of the American Civil War](https://en.wikipedia.org
 
 [Ulysses S. Grant](https://en.wikipedia.org/wiki/Ulysses_S._Grant) and [Robert E. Lee,](https://en.wikipedia.org/wiki/Robert_E._Lee) opposing commanders in the Appomattox campaign
 
-| Date | March 29 – April 9, 1865<br>(1<br>week and 4<br>days) | |
+| Date | March 29 – April 9, 1865
+(1
+week and 4
+days) | |
 |----------|-------------------------------------------------------|--|
 | Location | Along the evacuation routes from | |
 ## | | Richmond, Virginia, and Petersburg, | |
 
 [Virginia,](https://en.wikipedia.org/wiki/Petersburg,_Virginia) following the routes of the [Richmond and Danville Railroad](https://en.wikipedia.org/wiki/Richmond_and_Danville_Railroad) and the [Southside Railroad](https://en.wikipedia.org/wiki/Southside_Railroad_(Virginia)) west to [Appomattox](https://en.wikipedia.org/wiki/Appomattox_Court_House_National_Historical_Park) [Court House](https://en.wikipedia.org/wiki/Appomattox_Court_House_National_Historical_Park) [37°22](https://geohack.toolforge.org/geohack.php?pagename=Appomattox_campaign¶ms=37_22_38_N_78_47_50_W_region:US-VA_type:landmark)′38″[N](https://geohack.toolforge.org/geohack.php?pagename=Appomattox_campaign¶ms=37_22_38_N_78_47_50_W_region:US-VA_type:landmark) [78°47](https://geohack.toolforge.org/geohack.php?pagename=Appomattox_campaign¶ms=37_22_38_N_78_47_50_W_region:US-VA_type:landmark)′50″[W / 37.37722°N](https://geohack.toolforge.org/geohack.php?pagename=Appomattox_campaign¶ms=37_22_38_N_78_47_50_W_region:US-VA_type:landmark) [78.79722°W](https://geohack.toolforge.org/geohack.php?pagename=Appomattox_campaign¶ms=37_22_38_N_78_47_50_W_region:US-VA_type:landmark) **Result** • Decisive [Union](https://en.wikipedia.org/wiki/Union_(American_Civil_War)) victory: • [Surrender](https://en.wikipedia.org/wiki/Surrender_(military)) of the [Army of Northern Virginia](https://en.wikipedia.org/wiki/Army_of_Northern_Virginia) on April 9, 1865 **Belligerents** [United States](https://en.wikipedia.org/wiki/United_States) [Confederate States](https://en.wikipedia.org/wiki/Confederate_States_of_America) **Commanders and leaders** [Ulysses S. Grant](https://en.wikipedia.org/wiki/Ulysses_S._Grant) [George G.](https://en.wikipedia.org/wiki/George_G._Meade) [Meade](https://en.wikipedia.org/wiki/George_G._Meade) [Edward Ord](https://en.wikipedia.org/wiki/Edward_Ord) [Philip Sheridan](https://en.wikipedia.org/wiki/Philip_Sheridan) [Robert E. Lee](https://en.wikipedia.org/wiki/Robert_E._Lee) **Units involved**
 
-| •<br>Army of the<br>Potomac[1]<br>•<br>Army of the<br>James[1] | Army of Northern Virginia[2]<br>• | | | |
+| •
+Army of the
+Potomac[1]
+•
+Army of the
+James[1] | Army of Northern Virginia[2]
+• | | | |
 |----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|--|--|--|
-| •<br>Army of the<br>Shenandoah[1] | | | | |
+| •
+Army of the
+Shenandoah[1] | | | | |
 | | Strength | | | |
 | 114,335[3] | 56,000[4] | | | |
 | Casualties and losses | | | | |
-| 10,780[5] | ~25,000; Army of Northern Virginia<br>disbanded following Gen. Lee's<br>surrender at Appomattox Court<br>House (April 9). | | | |
-## | Map<br>Wikimedia © Open Street Map | | | | |
+| 10,780[5] | ~25,000; Army of Northern Virginia
+disbanded following Gen. Lee's
+surrender at Appomattox Court
+House (April 9). | | | |
+## | Map
+Wikimedia © Open Street Map | | | | |
 
 The **Appomattox campaign** was a series of [American Civil](https://en.wikipedia.org/wiki/American_Civil_War) [War](https://en.wikipedia.org/wiki/American_Civil_War) battles fought March 29 – April 9, 1865, in [Virginia](https://en.wikipedia.org/wiki/Virginia) that concluded with the surrender of [Confederate](https://en.wikipedia.org/wiki/Confederate_States_Army) [General](https://en.wikipedia.org/wiki/General_(CSA)) [Robert E.](https://en.wikipedia.org/wiki/Robert_E._Lee) [Lee](https://en.wikipedia.org/wiki/Robert_E._Lee)'s [Army of Northern Virginia](https://en.wikipedia.org/wiki/Army_of_Northern_Virginia) to forces of the [Union Army](https://en.wikipedia.org/wiki/Union_Army) [\(Army of the Potomac,](https://en.wikipedia.org/wiki/Army_of_the_Potomac) [Army of the James](https://en.wikipedia.org/wiki/Army_of_the_James) and [Army of the](https://en.wikipedia.org/wiki/Union_Army_of_the_Shenandoah) [Shenandoah\)](https://en.wikipedia.org/wiki/Union_Army_of_the_Shenandoah) under the overall command of [Lieutenant](https://en.wikipedia.org/wiki/Lieutenant_general_(United_States)) [General](https://en.wikipedia.org/wiki/Lieutenant_general_(United_States)) [Ulysses S. Grant,](https://en.wikipedia.org/wiki/Ulysses_S._Grant) marking the effective end of the war.
 

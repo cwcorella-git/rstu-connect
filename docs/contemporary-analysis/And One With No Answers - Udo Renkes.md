@@ -1,3 +1,8 @@
+---
+title: "## **And One With No Answers - Udo Renkes**"
+category: "contemporary-analysis"
+---
+
 ## **And One With No Answers - Udo Renkes**
 
 ## **Date:** Unknown

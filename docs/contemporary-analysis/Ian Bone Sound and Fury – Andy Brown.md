@@ -1,3 +1,8 @@
+---
+title: "## **Ian Bone: Sound and Fury – Andy Brown**"
+category: "contemporary-analysis"
+---
+
 ## **Ian Bone: Sound and Fury – Andy Brown**
 
 ## **Date:** Unknown

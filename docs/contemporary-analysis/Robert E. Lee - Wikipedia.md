@@ -1,3 +1,8 @@
+---
+title: "**Robert E. Lee**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Robert_E._Lee)
 
 # **Robert E. Lee**
@@ -20,46 +25,71 @@
 
 - Marble Man
 
-| Born | January 19, 1807<br>Stratford Hall, Westmoreland County,<br>Virginia, U. S. |
+| Born | January 19, 1807
+Stratford Hall, Westmoreland County,
+Virginia, U. S. |
 |------------------------|-------------------------------------------------------------------------------------------------------------------------|
-| Died | October 12, 1870 (aged<br>63)<br>Lexington, Virginia, U. S. |
-| Buried | University Chapel at Washington and Lee<br>University, Lexington, Virginia, U. S. |
-| Allegiance | • United States<br>• Confederate States |
-| Branch | • United States Army<br>• Confederate States Army |
-| Years<br>of<br>service | • 1829–1861 (U. S.)<br>• 1861–1865 (C. S.) |
-| Rank | • Colonel (U. S.)<br>• General (C. S.) |
-| Commands | • General in Chief of the Armies of the<br>Confederate States<br>• U. S. Military Academy<br>• Army of Northern Virginia |
-## | Battles /<br>wars | See battles |
+| Died | October 12, 1870 (aged
+63)
+Lexington, Virginia, U. S. |
+| Buried | University Chapel at Washington and Lee
+University, Lexington, Virginia, U. S. |
+| Allegiance | • United States
+• Confederate States |
+| Branch | • United States Army
+• Confederate States Army |
+| Years
+of
+service | • 1829–1861 (U. S.)
+• 1861–1865 (C. S.) |
+| Rank | • Colonel (U. S.)
+• General (C. S.) |
+| Commands | • General in Chief of the Armies of the
+Confederate States
+• U. S. Military Academy
+• Army of Northern Virginia |
+## | Battles /
+wars | See battles |
 
 | Alma mater | United States Military Academy (1829) | | | |
 |----------------------------------------------------------|---------------------------------------|--|--|--|
 | Spouse | Mary Anna Randolph Custis | | | |
 | | | | | |
 | | | | | |
-| | (m.<br>1831) | | | |
+| | (m.
+1831) | | | |
 | Children | • George | | | |
 | | • Mary | | | |
 | | • William | | | |
 | | • Anne | | | |
 | | • Eleanor | | | |
-| | • Robert<br>Jr. | | | |
+| | • Robert
+Jr. | | | |
 | | • Mildred | | | |
 | Relations | Lee family | | | |
 | Signature | | | | |
 | General in Chief of the Armies of the Confederate States | | | | |
-| In office<br>February 6, 1865<br>– April 12, 1865 | | | | |
+| In office
+February 6, 1865
+– April 12, 1865 | | | | |
 | Preceded by | Position established | | | |
-## | Succeeded<br>by | Position abolished | | | |
+## | Succeeded
+by | Position abolished | | | |
 
 | 1st President of Washington and Lee University | | | | | |
 |---------------------------------------------------|------------------------------------------------------|--|--|--|--|
-| In office<br>1865–1870 | | | | | |
-| Preceded by<br>George Junkin (Washington College) | | | | | |
-| Succeeded<br>by | Custis Lee | | | | |
+| In office
+1865–1870 | | | | | |
+| Preceded by
+George Junkin (Washington College) | | | | | |
+| Succeeded
+by | Custis Lee | | | | |
 | | Superintendent of the United States Military Academy | | | | |
-| In office<br>1852–1855 | | | | | |
+| In office
+1852–1855 | | | | | |
 | Preceded by | Henry Brewerton | | | | |
-## | Succeeded<br>by | John G. Barnard | | | | |
+## | Succeeded
+by | John G. Barnard | | | | |
 
 **Robert Edward Lee** (January 19, 1807 – October 12, 1870) was a [Confederate general](https://en.wikipedia.org/wiki/General_officers_in_the_Confederate_States_Army) whose early actions in the [American Civil War](https://en.wikipedia.org/wiki/American_Civil_War) led to his appointment as the [overall](https://en.wikipedia.org/wiki/General_in_Chief_of_the_Armies_of_the_Confederate_States) [commander](https://en.wikipedia.org/wiki/General_in_Chief_of_the_Armies_of_the_Confederate_States) of the [Confederate States Army](https://en.wikipedia.org/wiki/Confederate_States_Army) near the end of the war. He led the [Army of Northern Virginia,](https://en.wikipedia.org/wiki/Army_of_Northern_Virginia) the Confederacy's most powerful army, from 1862 until its surrender in 1865, earning a reputation as one of the war's most skilled tacticians.
 
@@ -328,33 +358,77 @@ The following are summaries of Civil War campaigns and major battles where Rober
 
 | Battle | Date | Result | Opponent | Confederate |
 |-------------------|------------------------------|------------------------------------------------------------------------------------|-----------|-------------|
-| Cheat<br>Mountain | September<br>11–13,<br>1861 | Defeat | Reynolds | 5,000 |
-| Seven Days | June 25 –<br>July 1,<br>1862 | Tactically<br>inconclusive;<br>strategic<br>Confederate<br>victory<br>• Oak Grove: | Mc Clellan | 95,000 |
+| Cheat
+Mountain | September
+11–13,
+1861 | Defeat | Reynolds | 5,000 |
+| Seven Days | June 25 –
+July 1,
+1862 | Tactically
+inconclusive;
+strategic
+Confederate
+victory
+• Oak Grove: | Mc Clellan | 95,000 |
 
-| | | Stalemate<br>(Union<br>withdrawal)<br>• Beaver Dam<br>Creek: Union<br>victory<br>• Gaine's Mill:<br>Confederate<br>victory<br>• Savage's<br>Station:<br>Stalemate<br>• Glendale:<br>Stalemate<br>(Union<br>withdrawal)<br>• Malvern Hill:<br>Union victory | | |
+| | | Stalemate
+(Union
+withdrawal)
+• Beaver Dam
+Creek: Union
+victory
+• Gaine's Mill:
+Confederate
+victory
+• Savage's
+Station:
+Stalemate
+• Glendale:
+Stalemate
+(Union
+withdrawal)
+• Malvern Hill:
+Union victory | | |
 |--------------------|------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|--------|
-| Second<br>Manassas | August 28–<br>30, 1862 | Victory | Pope | 50,000 |
+| Second
+Manassas | August 28–
+30, 1862 | Victory | Pope | 50,000 |
 
-| South<br>Mountain | September<br>14, 1862 | Defeat | Mc Clellan | 18,000 | |
+| South
+Mountain | September
+14, 1862 | Defeat | Mc Clellan | 18,000 | |
 |-------------------|-----------------------------|--------------|-----------|--------|--|
-| Antietam | September<br>16–18,<br>1862 | Inconclusive | Mc Clellan | 52,000 | |
-| Fredericksburg | December<br>11, 1862 | Victory | Burnside | 72,000 | |
+| Antietam | September
+16–18,
+1862 | Inconclusive | Mc Clellan | 52,000 | |
+| Fredericksburg | December
+11, 1862 | Victory | Burnside | 72,000 | |
 
-| Chancellorsville | May 1,<br>1863 | Victory | Hooker | 60,298 |
+| Chancellorsville | May 1,
+1863 | Victory | Hooker | 60,298 |
 |------------------|-----------------|---------|--------|--------|
-| Gettysburg | July 1,<br>1863 | Defeat | Meade | 75,000 |
+| Gettysburg | July 1,
+1863 | Defeat | Meade | 75,000 |
 
-| Wilderness | May 5,<br>1864 | Inconclusive | Grant | 61,000 |
+| Wilderness | May 5,
+1864 | Inconclusive | Grant | 61,000 |
 |------------|----------------|--------------|-------|--------|
 
-| Spotsylvania | May 12,<br>1864 | Inconclusive[131] | Grant | 52,000 |
+| Spotsylvania | May 12,
+1864 | Inconclusive[131] | Grant | 52,000 |
 |--------------|---------------------|-------------------|-------|-------------------|
-| North Anna | May 23–<br>26, 1864 | Inconclusive | Grant | 50,000–<br>53,000 |
+| North Anna | May 23–
+26, 1864 | Inconclusive | Grant | 50,000–
+53,000 |
 
-| Totopotomoy<br>Creek | May 28–<br>30, 1864 | Inconclusive | Grant | N/A |
+| Totopotomoy
+Creek | May 28–
+30, 1864 | Inconclusive | Grant | N/A |
 |----------------------|---------------------|--------------|---------|--------|
-| Cold Harbor | June 1,<br>1864 | Victory | Grant | 62,000 |
-| Fussell's Mill | August 14,<br>1864 | Inconclusive | Hancock | 20,000 |
+| Cold Harbor | June 1,
+1864 | Victory | Grant | 62,000 |
+| Fussell's Mill | August 14,
+1864 | Inconclusive | Hancock | 20,000 |
 | Appomattox | March 29, | Defeat | Grant | 56,000 |
 
 | Campaign | 1865 | | |
@@ -602,14 +676,24 @@ More recent biographies offer a broader variety of perspectives. [Thomas L. Conn
 | major § | 1847[215] | Engineers | Army |
 | Brevet | August 20, | Corps of | United States |
 
-| lieutenant<br>colonel † | 1847[215] | Engineers | Army |
+| lieutenant
+colonel † | 1847[215] | Engineers | Army |
 |-------------------------|------------------------|----------------------------|------------------------------------|
 | Brevet | September | Corps of | United States |
 | colonel ‡ | 13, 1847[216] | Engineers | Army |
-| Lieutenant<br>colonel | March 3,<br>1855[216] | 2nd<br>Cavalry<br>Regiment | United States<br>Army |
+| Lieutenant
+colonel | March 3,
+1855[216] | 2nd
+Cavalry
+Regiment | United States
+Army |
 | Colonel | March 16, | 1st Cavalry | United States |
 | | 1861[216] | Regiment | Army |
-| Major<br>general[b] | April 22,<br>1861[217] | | Provisional<br>Army of<br>Virginia |
+| Major
+general[b] | April 22,
+1861[217] | | Provisional
+Army of
+Virginia |
 | Brigadier | May 14, | | Confederate |
 | general | 1861[218] | | States Army |
 | [c] | June 14, | | Confederate |

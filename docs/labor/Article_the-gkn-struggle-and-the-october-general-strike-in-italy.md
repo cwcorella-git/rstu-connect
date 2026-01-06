@@ -1,13 +1,8 @@
 ---
-title: The Gkn Struggle and the October General Strike in Italy
-date: 2025
-author: Global Nonviolent Action Database
-tags:
-  - organizing
-  - strikes
-  - unions
-  - housing
-  - rent
+title: "The Gkn Struggle and the October General Strike in Italy"
+author: "Global Nonviolent Action Database"
+date: "2025"
+category: "labor"
 ---
 
 # The Gkn Struggle and the October General Strike in Italy

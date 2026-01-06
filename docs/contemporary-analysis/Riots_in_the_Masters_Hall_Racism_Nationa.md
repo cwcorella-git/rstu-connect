@@ -1,3 +1,8 @@
+---
+title: "Riots in the Master's Hall: Racism, Nationalism, and the Crisis of U. S. Hegemony"
+category: "contemporary-analysis"
+---
+
 global media networks is now unparalleled. versed in the diverse ways that crime and punishment are represented suffering, teenagers post 'happy slapping' videos on You Tube, both cyber stream criminology, media and communication studies, and cultural down the often rigid and increasingly hardened boundaries of mainin an era of global interconnectedness, not least since the very reach of powerful role in shaping social practices. It is vital then that we become lation on the Internet, it is clear that images of crime and control play a bullying and 'justice for' campaigns are mainstays of social media, and cop cars and carceral spaces, game shows routinely feature shame and studies. In a late modern world where reality TV takes viewers into dant power of spectacle. This international book series aims to break recognition that criminology needs to rethink its relations with the ascenpunishment proliferate across new and old media there is a growing insurrectionist groups compile footage of suicide bomb attacks for circuresearch into crime, media and culture. As images of crime, harm and This series aims to publish high quality interdisciplinary scholarship for
 
 Palgrave Studies in Crime, Media and Culture emerges from a call to rethink the manner in which images are reshaping the world and criminology as a project. The mobility, malleability, banality, speed, and scale of images and their distribution demand that we engage both old and new theories and methods and pursue a refinement of concepts and tools, as well as innovative new ones, to tackle questions of crime, harm, culture, and control. Keywords like image, iconography, information flows, the counter-visual, and 'social' media, as well as the continuing relevance of the markers, signs, and inscriptions of gender, race, sexuality, and class in cultural contests mark the contours of the crime, media and culture nexus.
@@ -74,7 +79,7 @@ e-mail: christina.heatherton@trincoll.edu
 
 ## J. T. Camp (⊠)
 
-<sup>©</sup> The Author(s), under exclusive license to Springer Nature Switzerland AG 2023
+© The Author(s), under exclusive license to Springer Nature Switzerland AG 2023
 
 M. Bhatia et al. (eds.), Racism, Violence and Harm, Palgrave Studies in Crime, Media and Culture, https://doi.org/10.1007/978-3-031-37879-9\_11
 

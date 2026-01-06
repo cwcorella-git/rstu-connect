@@ -1,3 +1,8 @@
+---
+title: "IMPORTANT . PLEASE READ"
+category: "contemporary-analysis"
+---
+
 THE PROSPECTIVE THIRD GAME IN AMERICAN MCGEE'S ALICE SERIES
 
 ## ASYLUM
@@ -1414,8 +1419,8 @@ She is getting angry.
 
 - TK "Tell me, how does a pointy thing affect your chances against the Queen? Your teeth pale in sharpness to hers. I see the Queen's cruelty every night when I dream. And every morning, I am here waiting for you. Sometimes you come, sometimes you don't. But this time, here you are again. And it always ends the same."
 - "Ihe same? What do you know of "same"? I ve lived an eternity of "same" already."
-- TK <deadpan> "You will be captured and tortured. I will lose my head. And you will be returned to the Circus."
-- A <angrily> "Fool's words. If you're so certain, then does your drea include this?"
+- TK  "You will be captured and tortured. I will lose my head. And you will be returned to the Circus."
+- A  "Fool's words. If you're so certain, then does your drea include this?"
 
 ## ![](_page_35_Picture_12.jpeg)
 
@@ -1445,7 +1450,7 @@ TK "Judgement devours those heavy with guilt. And you are drowning in it."
 
 With an agitated huff, Alice turns her back to look at the path ahead. Turning back to the Knave, he has disappeared.
 
-## A <IO HER RABBIT> "Lies peppered with nonsense. If he doesn't fancy my odds, I'll take matters into my own hands."
+## A  "Lies peppered with nonsense. If he doesn't fancy my odds, I'll take matters into my own hands."
 
 The Hobby Horse brays with approval. Alone with her Rabbit, Alice continues on her path. We PLAY as Alice navigates the broken structures and floating islands that hang in the space of what was once the whole of Queensland. Her destination is The Courthouse (seat of Judgement) which can be seen floating in the distance.
 

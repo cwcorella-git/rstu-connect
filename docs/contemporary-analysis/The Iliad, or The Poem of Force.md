@@ -1,3 +1,8 @@
+---
+title: "## **Simone Weil**"
+category: "contemporary-analysis"
+---
+
 ## **Simone Weil**
 
 ## **The Iliad, or The Poem of Force 1945**

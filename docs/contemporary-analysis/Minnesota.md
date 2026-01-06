@@ -1,3 +1,8 @@
+---
+title: "**Minnesota**"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 # **Minnesota**
@@ -22,25 +27,53 @@ Minnesota, which derives its name from the [Dakota](https://en.wikipedia.org/wik
 
 ## ![](_page_0_Picture_12.jpeg)
 
-| Location<br>of<br>Minnesota<br>within<br>the<br>United<br>States | | | | |
+| Location
+of
+Minnesota
+within
+the
+United
+States | | | | |
 |------------------------------------------------------------------|------------------------------|--|--|--|
-| Country | United<br>States | | | |
-| Before<br>statehood | Minnesota<br>Territory | | | |
-| Admitted<br>to<br>the | May<br>11,<br>1858<br>(32nd) | | | |
+| Country | United
+States | | | |
+| Before
+statehood | Minnesota
+Territory | | | |
+| Admitted
+to
+the | May
+11,
+1858
+(32nd) | | | |
 | Union | | | | |
-| Capital | Saint<br>Paul | | | |
-| Largest<br>city | Minneapolis | | | |
-| Largest<br>county<br>or | Hennepin | | | |
+| Capital | Saint
+Paul | | | |
+| Largest
+city | Minneapolis | | | |
+| Largest
+county
+or | Hennepin | | | |
 | equivalent | | | | |
-| Largest<br>metro<br>and | Minneapolis–Saint<br>Paul | | | |
-| urban<br>areas | | | | |
+| Largest
+metro
+and | Minneapolis–Saint
+Paul | | | |
+| urban
+areas | | | | |
 | Government | | | | |
-| •<br>Governor | Tim<br>Walz<br>(DFL) | | | |
-| •<br>Lieutenant | Peggy<br>Flanagan<br>(DFL) | | | |
+| •
+Governor | Tim
+Walz
+(DFL) | | | |
+| •
+Lieutenant | Peggy
+Flanagan
+(DFL) | | | |
 | Governor | | | | |
 ## | Legislature | Legislature | | | |
 
-admitted to the Union as the 32nd state in 1858. Minnesota's official motto, *L'Étoile du Nord* ("The Star of the North"), is the only <u>state motto</u> in <u>French</u>. This phrase was adopted shortly after statehood and reflects both the state's early French explorers and its position as the northernmost state in the contiguous U. S.
+admitted to the Union as the 32nd state in 1858. Minnesota's official motto, *L'Étoile du Nord* ("The Star of the North"), is the only state motto in French. This phrase was adopted shortly after statehood and reflects both the state's early French explorers and its position as the northernmost state in the contiguous U. S.
 
 As part of the American frontier, Minnesota attracted settlers and homesteaders from across the country. Its growth was initially based on timber, agriculture, and railroad construction. Into the early 20th century, European immigrants arrived in significant numbers, particularly from Scandinavia, Germany, and Central Europe. Many were linked to the failed revolutions of 1848, which partly influenced the state's development as a center of labor and social activism.[11] Minnesota's rapid industrialization and urbanization precipitated major social, economic, and political changes in the late 19th and early 20th centuries; the state was at the forefront of labor rights, women's suffrage, and political reform. [12] Consequently, Minnesota is relatively unique among Midwestern states in being a reliable base for the Democratic Party, having voted for every Democratic presidential nominee since 1976, longer than any other U. S. state. [13]
 
@@ -58,37 +91,39 @@ Since the late 20th century, Minnesota's economy has diversified away from tradi
 | delegation | 4 Republicans (list) |
 | Area | |
 | • Total | 86,936 sq mi |
-| | (225,163 km <sup>2</sup> ) |
+| | (225,163 km 2 ) |
 | • Land | 79,627 sq mi |
-| | (206,232 km <sup>2</sup> ) |
+| | (206,232 km 2 ) |
 | • Water | 7,310 sq mi |
-| - Donk | (18,930 km <sup>2</sup> ) 8.40% |
-| • Rank | <u>12th</u> |
+| - Donk | (18,930 km 2 ) 8.40% |
+| • Rank | 12th |
 | Dimensions | |
 | • Length | 400 mi (640 km) |
 | • Width | 200–350 mi (320– |
 | | 560 km) |
 | Elevation | 1,210 ft (370 m) |
 | Highest elevation | 2,300 ft (701 m) |
-| (Eagle Mountain <sup>[6][a]</sup> ) | |
+| (Eagle Mountain [6][a] ) | |
 | Lowest elevation | 600 ft (183 m) |
-| (Lake Superior <sup>[6][a][7]</sup> ) | |
+| (Lake Superior [6][a][7] ) | |
 | Population (2024) | |
-| • Total | ▲ 5,793,151 <sup>[1]</sup> |
+| • Total | ▲ 5,793,151 [1] |
 | • Rank | 22nd |
-| • Density | 69/sq mi (26.6/km <sup>2</sup> ) |
+| • Density | 69/sq mi (26.6/km 2 ) |
 | • Rank | 36th (2020 census) |
-| • Median | \$85,100 (2023) <sup>[2]</sup> |
+| • Median | \$85,100 (2023) [2] |
 | household income | |
-| • Income rank | <u>13th</u> |
+| • Income rank | 13th |
 | Demonym | Minnesotan |
 | Language | |
 | Official language | none |
 | • Spoken language | |
 | | ■ English 88.9% |
-| | <ul><li>Spanish</li></ul> |
+| | - Spanish
+ |
 | | ■ Somali |
-| | <ul><li>Hmong<sup>[3]</sup></li></ul> |
+| | - Hmong[3]
+ |
 | Time zone | UTC- 06:00 (Central) |
 | • Summer (DST) | UTC- 05:00 (CDT) |
 | USPS abbreviation | MN |
@@ -99,9 +134,20 @@ Since the late 20th century, Minnesota's economy has diversified away from tradi
 
 East. The state has the nation's largest population of [Somali Americans](https://en.wikipedia.org/wiki/History_of_Somalis_in_Minneapolis%E2%80%93Saint_Paul) and second-largest [Hmong](https://en.wikipedia.org/wiki/History_of_the_Hmong_in_Minneapolis%E2%80%93Saint_Paul) [community.](https://en.wikipedia.org/wiki/History_of_the_Hmong_in_Minneapolis%E2%80%93Saint_Paul) [\[15\]](#page-28-7)
 
-| Latitude<br>Longitude | 43°30′<br>N<br>to<br>49°23′<br>N<br>89°29′<br>W<br>to<br>97°14′<br>W |
+| Latitude
+Longitude | 43°30′
+N
+to
+49°23′
+N
+89°29′
+W
+to
+97°14′
+W |
 |-----------------------|----------------------------------------------------------------------|
-## | Website | mn.gov<br>(http://MN.gov) |
+## | Website | mn.gov
+(http://MN.gov) |
 
 ### **Etymology**
 
@@ -159,7 +205,7 @@ In 1957, the legislature created a planning commission for the Twin Cities metro
 
 ### **Geography**
 
-Minnesota is the second northernmost U. S. state (after [Alaska](https://en.wikipedia.org/wiki/Alaska)) and northernmost contiguous state, as the isolated [Northwest Angle](https://en.wikipedia.org/wiki/Northwest_Angle) in [Lake of the Woods County](https://en.wikipedia.org/wiki/Lake_of_the_Woods_County) is the only part of the 48 [contiguous states](https://en.wikipedia.org/wiki/Contiguous_United_States) north of the [49th parallel.](https://en.wikipedia.org/wiki/49th_parallel_north) The state is part of the U. S. region known as the [Upper Midwest](https://en.wikipedia.org/wiki/Upper_Midwest) and part of North America's [Great Lakes region](https://en.wikipedia.org/wiki/Great_Lakes_region_(North_America)). It shares a [Lake Superior](https://en.wikipedia.org/wiki/Lake_Superior) water border with [Michigan](https://en.wikipedia.org/wiki/Michigan) and a land and water border with [Wisconsin](https://en.wikipedia.org/wiki/Wisconsin) to the east. [Iowa](https://en.wikipedia.org/wiki/Iowa) is to the south, [North Dakota](https://en.wikipedia.org/wiki/North_Dakota) and [South Dakota](https://en.wikipedia.org/wiki/South_Dakota) are to the west, and the [Canadian provinces](https://en.wikipedia.org/wiki/Provinces_and_territories_of_Canada) of [Ontario](https://en.wikipedia.org/wiki/Ontario) and [Manitoba](https://en.wikipedia.org/wiki/Manitoba) are to the north. With 86,943 square miles (225,180 km<sup>2</sup> ),[\[54\]](#page-31-8) or approximately 2.25% of the United States,[\[55\]](#page-31-9) Minnesota is the 12th-largest state.[\[56\]](#page-31-10)
+Minnesota is the second northernmost U. S. state (after [Alaska](https://en.wikipedia.org/wiki/Alaska)) and northernmost contiguous state, as the isolated [Northwest Angle](https://en.wikipedia.org/wiki/Northwest_Angle) in [Lake of the Woods County](https://en.wikipedia.org/wiki/Lake_of_the_Woods_County) is the only part of the 48 [contiguous states](https://en.wikipedia.org/wiki/Contiguous_United_States) north of the [49th parallel.](https://en.wikipedia.org/wiki/49th_parallel_north) The state is part of the U. S. region known as the [Upper Midwest](https://en.wikipedia.org/wiki/Upper_Midwest) and part of North America's [Great Lakes region](https://en.wikipedia.org/wiki/Great_Lakes_region_(North_America)). It shares a [Lake Superior](https://en.wikipedia.org/wiki/Lake_Superior) water border with [Michigan](https://en.wikipedia.org/wiki/Michigan) and a land and water border with [Wisconsin](https://en.wikipedia.org/wiki/Wisconsin) to the east. [Iowa](https://en.wikipedia.org/wiki/Iowa) is to the south, [North Dakota](https://en.wikipedia.org/wiki/North_Dakota) and [South Dakota](https://en.wikipedia.org/wiki/South_Dakota) are to the west, and the [Canadian provinces](https://en.wikipedia.org/wiki/Provinces_and_territories_of_Canada) of [Ontario](https://en.wikipedia.org/wiki/Ontario) and [Manitoba](https://en.wikipedia.org/wiki/Manitoba) are to the north. With 86,943 square miles (225,180 km2 ),[\[54\]](#page-31-8) or approximately 2.25% of the United States,[\[55\]](#page-31-9) Minnesota is the 12th-largest state.[\[56\]](#page-31-10)
 
 ## ![](_page_5_Figure_3.jpeg)
 
@@ -185,7 +231,7 @@ The state's nickname "Land of 10,000 Lakes" is apt, as there are 11,842 [Minneso
 
 [Palisade](https://en.wikipedia.org/wiki/Palisade_Head) Head on Lake [Superior](https://en.wikipedia.org/wiki/Lake_Superior) was formed from a [Precambrian](https://en.wikipedia.org/wiki/Precambrian) [rhyolitic](https://en.wikipedia.org/wiki/Rhyolitic) [lava](https://en.wikipedia.org/wiki/Lava) flow. [\[57\]](#page-31-2)
 
-962,700 acres (389,600 ha; 3,896 km<sup>2</sup> )) and deepest (at 1,290 ft (390 m)) body of water in the state.[\[64\]](#page-32-5) Minnesota has 6,564 natural rivers and streams that cumulatively flow for 69,000 miles (111,000 km).[\[64\]](#page-32-5) The Mississippi River begins its journey from its [headwaters](https://en.wikipedia.org/wiki/Headwaters) at [Lake Itasca](https://en.wikipedia.org/wiki/Lake_Itasca) and crosses the Iowa border 680 miles (1,090 km) downstream.[\[64\]](#page-32-5) It is joined by the [Minnesota River](https://en.wikipedia.org/wiki/Minnesota_River) at Fort Snelling, by the [St. Croix River](https://en.wikipedia.org/wiki/St._Croix_River_(Wisconsin-Minnesota)) near [Hastings](https://en.wikipedia.org/wiki/Hastings,_Minnesota), by the [Chippewa River](https://en.wikipedia.org/wiki/Chippewa_River_(Wisconsin)) at [Wabasha,](https://en.wikipedia.org/wiki/Wabasha,_MN) and by many smaller streams. The Red River drains the northwest part of the state northward toward Canada's Hudson Bay. Approximately 10.6 million acres (4,300,000 ha; 43,000 km<sup>2</sup> ) of wetlands are within Minnesota's borders, the most of any state outside Alaska.[\[65\]](#page-32-6)
+962,700 acres (389,600 ha; 3,896 km2 )) and deepest (at 1,290 ft (390 m)) body of water in the state.[\[64\]](#page-32-5) Minnesota has 6,564 natural rivers and streams that cumulatively flow for 69,000 miles (111,000 km).[\[64\]](#page-32-5) The Mississippi River begins its journey from its [headwaters](https://en.wikipedia.org/wiki/Headwaters) at [Lake Itasca](https://en.wikipedia.org/wiki/Lake_Itasca) and crosses the Iowa border 680 miles (1,090 km) downstream.[\[64\]](#page-32-5) It is joined by the [Minnesota River](https://en.wikipedia.org/wiki/Minnesota_River) at Fort Snelling, by the [St. Croix River](https://en.wikipedia.org/wiki/St._Croix_River_(Wisconsin-Minnesota)) near [Hastings](https://en.wikipedia.org/wiki/Hastings,_Minnesota), by the [Chippewa River](https://en.wikipedia.org/wiki/Chippewa_River_(Wisconsin)) at [Wabasha,](https://en.wikipedia.org/wiki/Wabasha,_MN) and by many smaller streams. The Red River drains the northwest part of the state northward toward Canada's Hudson Bay. Approximately 10.6 million acres (4,300,000 ha; 43,000 km2 ) of wetlands are within Minnesota's borders, the most of any state outside Alaska.[\[65\]](#page-32-6)
 
 #### **Flora and fauna**
 
@@ -221,7 +267,7 @@ Average daily maximum and minimum temperatures for selected cities in Minnesota 
 
 ### **Protected lands**
 
-Minnesota's first state park, [Itasca State Park,](https://en.wikipedia.org/wiki/Itasca_State_Park) was established in 1891, and is the [source](https://en.wikipedia.org/wiki/Source_(river_or_stream)) of the Mississippi River. [\[78\]](#page-33-6) Today Minnesota has [72 state parks](https://en.wikipedia.org/wiki/List_of_Minnesota_state_parks) and recreation areas, [58 state](https://en.wikipedia.org/wiki/List_of_Minnesota_state_forests) [forests](https://en.wikipedia.org/wiki/List_of_Minnesota_state_forests) covering about four million acres (16,000 km<sup>2</sup> ), and numerous state wildlife preserves, all managed by the [Minnesota Department of Natural Resources](https://en.wikipedia.org/wiki/Minnesota_Department_of_Natural_Resources). The [Chippewa](https://en.wikipedia.org/wiki/Chippewa_National_Forest) and [Superior national forests](https://en.wikipedia.org/wiki/Superior_National_Forest) comprise 5.5 million acres (22,000 km<sup>2</sup> ). The Superior National Forest in the northeast contains the [Boundary Waters Canoe Area Wilderness,](https://en.wikipedia.org/wiki/Boundary_Waters_Canoe_Area_Wilderness) which encompasses over a million acres (4,000 km<sup>2</sup> ) and a thousand lakes. To its west is [Voyageurs National Park](https://en.wikipedia.org/wiki/Voyageurs_National_Park). The [Mississippi](https://en.wikipedia.org/wiki/Mississippi_National_River_and_Recreation_Area) [National River and Recreation Area](https://en.wikipedia.org/wiki/Mississippi_National_River_and_Recreation_Area) (MNRRA) is a 72-milelong (116 km) corridor along the Mississippi River through
+Minnesota's first state park, [Itasca State Park,](https://en.wikipedia.org/wiki/Itasca_State_Park) was established in 1891, and is the [source](https://en.wikipedia.org/wiki/Source_(river_or_stream)) of the Mississippi River. [\[78\]](#page-33-6) Today Minnesota has [72 state parks](https://en.wikipedia.org/wiki/List_of_Minnesota_state_parks) and recreation areas, [58 state](https://en.wikipedia.org/wiki/List_of_Minnesota_state_forests) [forests](https://en.wikipedia.org/wiki/List_of_Minnesota_state_forests) covering about four million acres (16,000 km2 ), and numerous state wildlife preserves, all managed by the [Minnesota Department of Natural Resources](https://en.wikipedia.org/wiki/Minnesota_Department_of_Natural_Resources). The [Chippewa](https://en.wikipedia.org/wiki/Chippewa_National_Forest) and [Superior national forests](https://en.wikipedia.org/wiki/Superior_National_Forest) comprise 5.5 million acres (22,000 km2 ). The Superior National Forest in the northeast contains the [Boundary Waters Canoe Area Wilderness,](https://en.wikipedia.org/wiki/Boundary_Waters_Canoe_Area_Wilderness) which encompasses over a million acres (4,000 km2 ) and a thousand lakes. To its west is [Voyageurs National Park](https://en.wikipedia.org/wiki/Voyageurs_National_Park). The [Mississippi](https://en.wikipedia.org/wiki/Mississippi_National_River_and_Recreation_Area) [National River and Recreation Area](https://en.wikipedia.org/wiki/Mississippi_National_River_and_Recreation_Area) (MNRRA) is a 72-milelong (116 km) corridor along the Mississippi River through
 
 ## ![](_page_8_Picture_2.jpeg)
 
@@ -247,15 +293,25 @@ National [Farmers](https://en.wikipedia.org/wiki/National_Farmers_Bank) Bank in 
 
 Minnesota Municipalities [counties,](https://en.wikipedia.org/wiki/List_of_counties_in_Minnesota) [cities](https://en.wikipedia.org/wiki/List_of_cities_in_Minnesota), and [towns.](https://en.wikipedia.org/wiki/List_of_townships_in_Minnesota)
 
-| Largest<br>cities<br>or<br>towns<br>in<br>Minnesota<br>[83]<br>Source: | | | | | |
+| Largest
+cities
+or
+towns
+in
+Minnesota
+[83]
+Source: | | | | | |
 |------------------------------------------------------------------------|------------------|------|--------------|---------|--|
 | Rank | | Name | County | Pop. | |
 | 1 | Minneapolis | | Hennepin | 425,336 | |
-| 2 | Saint<br>Paul | | Ramsey | 307,193 | |
+| 2 | Saint
+Paul | | Ramsey | 307,193 | |
 | 3 | Rochester | | Olmsted | 121,465 | |
 | 4 | Bloomington | | Hennepin | 89,298 | |
-| 5 | Duluth | | St.<br>Louis | 86,372 | |
-| 6 | Brooklyn<br>Park | | Hennepin | 84,526 | |
+| 5 | Duluth | | St.
+Louis | 86,372 | |
+| 6 | Brooklyn
+Park | | Hennepin | 84,526 | |
 | 7 | Plymouth | | Hennepin | 79,828 | |
 | 8 | Woodbury | | Washington | 76,990 | |
 | 9 | Lakeville | | Dakota | 72,812 | |
@@ -267,9 +323,11 @@ The United States Navy has recognized [multiple Minnesota communities](https://e
 
 #### **Overview**
 
-| Historical<br>population | | | | | |
+| Historical
+population | | | | | |
 |---------------------------------------------------|------------|----------|--|--|--|
-| Census | Pop.<br>%± | | | | |
+| Census | Pop.
+%± | | | | |
 | 1850 | 6,077 | — | | | |
 | 1860 | 172,023 | 2,730.7% | | | |
 | 1870 | 439,706 | 155.6% | | | |
@@ -288,8 +346,12 @@ The United States Navy has recognized [multiple Minnesota communities](https://e
 | 2000 | 4,919,479 | 12.4% | | | |
 | 2010 | 5,303,925 | 7.8% | | | |
 | 2020 | 5,706,494 | 7.6% | | | |
-| 2024<br>(est.) | 5,793,151 | 1.5% | | | |
-| [84]<br>Source: 1910–2020<br>[1]<br>2022 Estimate | | | | | |
+| 2024
+(est.) | 5,793,151 | 1.5% | | | |
+| [84]
+Source: 1910–2020
+[1]
+2022 Estimate | | | | | |
 
 ## ![](_page_9_Figure_5.jpeg)
 
@@ -308,12 +370,21 @@ Minnesota's racial demographics have significantly diversified since its early s
 | Race | Percentage |
 |------------------------------------|------------|
 | White | 77.5% |
-| Black<br>or<br>African<br>American | 7.0% |
-| American<br>Indian | 1.2% |
+| Black
+or
+African
+American | 7.0% |
+| American
+Indian | 1.2% |
 | Asian | 5.3% |
-| Pacific<br>Islander | 0.1% |
-| Other<br>race | 3.2% |
-## | Two<br>or<br>more<br>races | 6.1% |
+| Pacific
+Islander | 0.1% |
+| Other
+race | 3.2% |
+## | Two
+or
+more
+races | 6.1% |
 
 ## ![](_page_10_Figure_5.jpeg)
 
@@ -331,7 +402,8 @@ Since the 1960s, Minnesota's immigrant population has been shaped by its status 
 |---------------------|------------|--|--|--|--|
 | Mexico | 95,227 | | | | |
 | Somalia | 76,658 | | | | |
-| [b]<br>Hmong people | 55,005 | | | | |
+| [b]
+Hmong people | 55,005 | | | | |
 | India | 39,559 | | | | |
 | Ethiopia | 36,982 | | | | |
 | Laos | 24,901 | | | | |
@@ -356,7 +428,7 @@ Minnesota's religious landscape is also diverse, having evolved significantly ov
 
 #### Languages
 
-Minnesota does not have an official language, although <u>English</u> is dominant, spoken by about 90% of residents. Other languages spoken include <u>Spanish</u>, <u>Somali</u>, <u>Hmong</u>, <u>Vietnamese</u>, <u>Chinese</u>, <u>Russian</u>, <u>Arabic</u>, <u>Amharic</u>, and Karen.
+Minnesota does not have an official language, although English is dominant, spoken by about 90% of residents. Other languages spoken include Spanish, Somali, Hmong, Vietnamese, Chinese, Russian, Arabic, Amharic, and Karen.
 
 ## ![](_page_12_Picture_3.jpeg)
 
@@ -369,7 +441,7 @@ Cathedral of St. Paul in
 
 Once primarily a producer of raw materials, Minnesota's economy has transformed to emphasize finished products and services. Perhaps the most significant characteristic of the economy is its diversity; the relative outputs of its business sectors closely match the United States as a whole. Minnesota's economy had a gross domestic product of \$383 billion in 2019, with 33 of the United States' top 1,000 publicly traded companies by revenue headquartered in Minnesota, including Target, United Health Group, 3M, General Mills, U. S. Bancorp, Ameriprise, Hormel, Land O' Lakes, Super Valu, Best Buy, and Valspar. Private companies based in Minnesota include Cargill, the largest privately owned company in the United States, and Carlson Companies, the parent company of Radisson Hotels.
 
-Minnesota's <u>per capita personal income</u> in 2019 was \$58,834, the thirteenth-highest in the nation. [107] Its 2019 <u>median household income</u> was \$74,593, ranking thirteenth in the U. S. and fifth among the 36 states not on the Atlantic coast. [108]
+Minnesota's per capita personal income in 2019 was \$58,834, the thirteenth-highest in the nation. [107] Its 2019 median household income was \$74,593, ranking thirteenth in the U. S. and fifth among the 36 states not on the Atlantic coast. [108]
 
 ### **Industry and commerce**
 
@@ -379,7 +451,9 @@ Minnesota's earliest industries were fur trading and agriculture. Minneapolis gr
 
 As of 2025, Minnesota's largest employers were:[\[114\]](#page-36-4)
 
-| Company | Employees in<br>Minnesota | Headquartered in<br>Minnesota? |
+| Company | Employees in
+Minnesota | Headquartered in
+Minnesota? |
 |-----------------------------------------------------|---------------------------|--------------------------------|
 | Mayo Clinic | 56,999 | Yes |
 | State of Minnesota | 44,889 | Yes |
@@ -391,7 +465,8 @@ As of 2025, Minnesota's largest employers were:[\[114\]](#page-36-4)
 | Allina Health | 21,387 | Yes |
 | United Health Group | 19,000 | Yes |
 | Federal government | 18,031 | No |
-| Minnesota State Colleges<br>and Universities system | 14,539 | Yes |
+| Minnesota State Colleges
+and Universities system | 14,539 | Yes |
 | Essentia Health | 12,606 | Yes |
 | Centra Care Health | 11,337 | Yes |
 | Wells Fargo | 11,000 | No |
@@ -608,7 +683,9 @@ The state has had active third-party movements. The [Reform Party](https://en.wi
 
 United States presidential election results for Minnesota [\[171\]](#page-41-9)
 
-| | | Republican<br>Democratic | | | Third<br>party(ies) | |
+| | | Republican
+Democratic | | | Third
+party(ies) | |
 |------|---------|--------------------------|-----------|--------|---------------------|--------|
 | Year | No. | % | No. | % | No. | % |
 | 1860 | 22,069 | 63.53% | 11,920 | 34.31% | 748 | 2.15% |

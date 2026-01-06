@@ -1,3 +1,8 @@
+---
+title: "2. Game Concept:"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Figure_2.jpeg)
 
 ## Game design document of Red Dead Redemption 2

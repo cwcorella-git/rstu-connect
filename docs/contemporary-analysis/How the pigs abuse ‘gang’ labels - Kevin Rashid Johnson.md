@@ -1,3 +1,8 @@
+---
+title: "## **How the pigs abuse 'gang' labels - Kevin "Rashid" Johnson**"
+category: "contemporary-analysis"
+---
+
 ## **How the pigs abuse 'gang' labels - Kevin "Rashid" Johnson**
 
 ## **Date:** Unknown

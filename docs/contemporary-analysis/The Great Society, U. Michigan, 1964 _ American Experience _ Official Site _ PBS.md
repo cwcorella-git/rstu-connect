@@ -1,3 +1,8 @@
+---
+title: "## [pbs.org](https://www.pbs.org/wgbh/americanexperience/features/lbj-michigan/)"
+category: "contemporary-analysis"
+---
+
 ## [pbs.org](https://www.pbs.org/wgbh/americanexperience/features/lbj-michigan/)
 
 ## **The Great Society, U. Michigan, 1964**

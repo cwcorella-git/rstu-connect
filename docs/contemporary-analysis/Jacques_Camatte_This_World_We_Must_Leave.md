@@ -1,3 +1,8 @@
+---
+title: "THIS WORLD WE MUST LEAVE"
+category: "contemporary-analysis"
+---
+
 # THIS WORLD WE MUST LEAVE
 
 ## AND OTHER ESSAYS
@@ -74,7 +79,8 @@ Printed in the United States of America.
 | The Wandering of Humanity (1973) 39 | |
 | Against Domestication (1973) 91 | |
 | This World We Must Leave (1976) 1 37 | |
-| Echoes of the Past ( 1<br>980) 181 | |
+| Echoes of the Past ( 1
+980) 181 | |
 ## | Index 25 | 1 |
 
 # INTRODUCTION
@@ -131,7 +137,7 @@ Little, if anything, from Invariance has been translated into English in the las
 
 ## > Spiralhetre-le Segala 46 140 Belaye FRANCE
 
-Thanks to the following people for their help in realizing the publication of Camatte 's collected writings: Robby B arnes, Freddie B aer, Bob Black, Fran�ois B ochet, David B rown, Jim Fleming, S teve Izma, Tad Kepley, David Loneragan, Lorraine Perlman, Henri Simon, Paul Z. Simons, Michael William, and John Zerzan.
+Thanks to the following people for their help in realizing the publication of Camatte 's collected writings: Robby B arnes, Freddie B aer, Bob Black, Franois B ochet, David B rown, Jim Fleming, S teve Izma, Tad Kepley, David Loneragan, Lorraine Perlman, Henri Simon, Paul Z. Simons, Michael William, and John Zerzan.
 
 ## Alex Trotter
 
@@ -165,7 +171,7 @@ This reveals the falseness of the stupid doctrine that the state or party bureau
 
 The organization differs from the worker commune (a libertarian illusion which cannot be found
 
-<sup>•</sup> "Fictitious" is fromfinto in the original Italian, which does not correspond to the term "fictitious" in Capital but is close to it [translator's note].
+• "Fictitious" is fromfinto in the original Italian, which does not correspond to the term "fictitious" in Capital but is close to it [translator's note].
 
 within any defined boundaries) in that, in each form, rather than equality of performance in a common work, there is a hierarchy of functions and benefits. It can't be otherwise when the firm has autonomy in the market and must present a profitable balance sheet.
 
@@ -181,7 +187,7 @@ We can see the same sort of transformation in the political sphere. The central 
 
 The proletariat having been destroyed, this tendency of
 
-<sup>[</sup>i] unclear in original copy of translation.
+[i] unclear in original copy of translation.
 
 capital encounters no real opposition in society and so can produce itself all the more efficiently. The proletariat's real essence has been denied and it exists only as an object of capital. Similarly, the theory of the proletariat, marxism, has been destroyed, Kautsky first revising it and then Bernstein liquidating it. This occurred in a definitive manner, for no assault of the proletariat has succeeded since then in reestablishing marxism. This is only another way of saying that capital has succeeded in establishing its real domination. To accomplish this, capital had to absorb the movement that negates it, the proletariat, and establish a unity in which the proletariat is merely an object of capital. This unity can be destroyed only by a crisis, such as those described by Marx. It follows that all forms of working-class political organization have disappeared. In their place, gangs confront one another in an obscene competition, veritable rackets rivaling each other in what they peddle but identical in their essence.
 
@@ -291,7 +297,7 @@ In its perfected state, capital is representation. Its rise to this state is due
 
 Capital becomes representation through the following historical movement: exchange value becomes autonomous, human beings are expropriated, human activity is reduced to labor, and labor is reduced to abstract labor. This takes place when capital rises on the foundation of the law of value. Capital becomes autonomous by domesticating the human being. After analyzing-dissecting-fragmenting the human being, capital reconstructs the human being as a function of its process. The rupture of the body from the mind made possible the transformation of the mind into a computer which can be programmed by the laws of capital. Precisely because of their mental capacities, human beings are not only enslaved, but turned into willing slaves of capital. What seems like the
 
-<sup>I</sup>This does not exclude an opposite movement: capital forces human beings to be human.
+IThis does not exclude an opposite movement: capital forces human beings to be human.
 
 greatest paradox is that capital itself reintroduces subjectivity, which had been eliminated at the time of the rise of exchange value. All human activity is exploited by capital. We can rephrase Marx's statement, "Labor, by adding a new value to the old one, at the s ame time maintains and eternizes [capital]"2 to say: all human activity "etemizes" capital.
 
@@ -299,7 +305,7 @@ Capital as representation overcomes the old contradiction between monopoly and c
 
 During its development capital always tended to negate classes. This has finally been accomplished through the universalization of wage labor and the formation-as a transitional stage--of what is called the universal class, a mere collection of proletarianized men and women, a collection of slaves of capital. Capital achieved complete domination by mystifying the
 
-<sup>2</sup> Karl Marx, Grundrisse, London: Pelican, 1 973, p. 365.
+2 Karl Marx, Grundrisse, London: Pelican, 1 973, p. 365.
 
 demands of the classical proletariat, by dominating the proletarian as productive laborer. But by achieving domination through the mediation of labor, capital brought about the disappearance of classes, since the capitalist as a person was simultaneously eliminated.3 The State becomes society when the wage relation is transformed into a relation of constraint, into a statist relation. At the same time the State becomes an enterprise or racket that mediates between the different gangs of capital.
 
@@ -309,15 +315,15 @@ It is the real end of democracy. One can no longer hold that there is a class wh
 
 We now face the problem of letting the average American feel moral when he flirts, when he spends,
 
-<sup>3</sup> Here we see a convergence with the Asiatic mode of production, where classes could never become autonomous; in the capitalist mode of production they are absorbed.
+3 Here we see a convergence with the Asiatic mode of production, where classes could never become autonomous; in the capitalist mode of production they are absorbed.
 
-<sup>4</sup> See the book of D. Verres, Le discours du cap italisme, Ed. L'Herne. Interesting material will also be found in the works of B audrillard: Le system e des objets and Pour une critique de l 'economie politique du signe, Ed. Gallimard.
+4 See the book of D. Verres, Le discours du cap italisme, Ed. L'Herne. Interesting material will also be found in the works of B audrillard: Le system e des objets and Pour une critique de l 'economie politique du signe, Ed. Gallimard.
 
 even when he buys a second or third car. One of the basic problems of this prosperity is to give people sanction and justification to enjoy it, to show them that making their lives a pleasure is moral and not immoral. This permission given to the consumer to freely enj oy life, this demonstration that he has a right to surround himself with products that enrich his existence and give him pleasure, should be one of the main themes of all advertising and of every project designed to increase sales.s
 
 The disintegration of consciousness that can be seen in manifestations like the women's liberation movement, the gay liberation movement and antipsychiatry (which are only possible after the work of Freud, Reich, and the feminist movement at the beginning of this century) is not part of the simultaneous emergence of revolutionary consciousness, but only reflects the end of bourgeois society based on value, on a fixed standard which affected all levels of human life. The disintegration began when the general equivalent conflicted with circulation. If the former general equivalent gave way, it was lost. The State had to force all subjects to respect a normalcy based on a standard which established the values of society. The law of value imprisoned human beings, forcing them into stereotypes, into fixed modes of being. The highest development of morality appeared in Kant's categorical imperative. By engulfing the general equivalent, by becoming its own representation, capital removed the prohibitions and rigid schemas. At that point human beings are fixed to its movement, which can take off from the normal or abnormal, moral or immoral human being.
 
-<sup>5</sup> Dichter, cited by Baudrillard in Le systeme des objets, pp. 218-219.
+5 Dichter, cited by Baudrillard in Le systeme des objets, pp. 218-219.
 
 The finite, limited human being, the individual of bourgeois society, is disappearing. People are passionately calling for the liberated human being, a being who is at once a social being and a Gemeinwesen. But at present it is capital that is recomposing man, giving him form and matter; communal being comes in the form of collective worker, individuality in the form of consumer of capital. Since capital is indefinite it allows the human being to have access to a state beyond the finite in an infinite becoming of appropriation which is never realized, renewing at every instant the illusion of total blossoming.
 
@@ -325,7 +331,7 @@ The human being in the image of capital ceases to consider any event definitive,
 
 The nonliving becomes autonomous-and triumphs. Death in life: Hegel had intuited it, Nietzsche described it, Rainer Maria Rilke sang about it, Freud almost institutionalized it (the death instinct), Dada exhibited it as buffoon art, and the "fascists" exalted it: "Long live death." The U. S. feminist movement has individualized it: "The male likes death-it excites him sexually and, already dead inside, he wants to die."6
 
-<sup>6</sup> Valerie Solanas, The SCUM Manifesto (The Society for Cutting Up Men), New York: Olympia Press, 1 970.
+6 Valerie Solanas, The SCUM Manifesto (The Society for Cutting Up Men), New York: Olympia Press, 1 970.
 
 The autonomy of form affects all aspects of life dominated by capital. Knowledge is valid only if it is formalized, if it is emptied of content. Absolute knowledge is tautology realized; it is dead form deployed over all knowledge. Science is its systemization; epistemology is its redundancy.
 
@@ -355,7 +361,7 @@ It becomes clear that raising the banner of labor or its abolition remains on th
 
 The capitalist mode of production is not decadent and cannot be decadent. Bourgeois society disintegrated, to be sure, but this did not lead to communism. At most we can say that communism was affirmed in opposition to bourgeois society, but not in opposition to capital. The runaway of capital was not perceived; in fact this runaway was realized only with
 
-<sup>8</sup>This possibility is described and exalted in Future Shock by Alvin Toffler.
+8This possibility is described and exalted in Future Shock by Alvin Toffler.
 
 the rise of the fascist, Nazi, popular front movements, the New Deal, etc., movements which are transitions from formal to real domination. It was thought that communism was emerging from the socialization of human activity and thus from the destruction of private property, while in fact capital was emerging as a material community.
 
@@ -375,7 +381,7 @@ The proletariat is the great hope of Marx and of the revolutionaries of his epoc
 
 The above application of the Ricardian theory, that the entire social product belongs to the workers as
 
-<sup>11</sup> Engels, Marx, The German Ideology, (Moscow, 1964, p. 85).
+11 Engels, Marx, The German Ideology, (Moscow, 1964, p. 85).
 
 their product, because they are the sole real producers, leads directly to communism. But, as Marx indicates too in the above-quoted passage, formally it is economically incorrect, for it is simply an application of morality to economics. According to the laws of bourgeois economics, the greatest part of the product does not belong to the workers who have produced it. If we now say: that is unjust, that ought not to be so, then that has nothing immediately to do with economics. We are merely saying that this economic fact is in contradiction to our sense of morality. Marx, therefore, never based his communist demands upon this, but upon the inevitable collapse of the capitalist mode of production which is daily taking place before our eyes to an ever greater degree ... . 12
 
@@ -383,9 +389,9 @@ Marx did not develop a philosophy of exploitation, as Bordiga often recalled. Ho
 
 B ernstein grasped this aspect of M arx's theory, and applied himself to demonstrating that there were no contradictions pushing toward dissolution. 13 But this led Bernstein to become an apologist for the old bourgeois society that capital
 
-<sup>12</sup> Engels, "Preface" to The Poverty of Philosophy by Marx, New York: 1 963 , p. 11.
+12 Engels, "Preface" to The Poverty of Philosophy by Marx, New York: 1 963 , p. 11.
 
-<sup>13</sup> See particularly "The Movement of Income in Modern Society"
+13 See particularly "The Movement of Income in Modern Society"
 
 was about to destroy, especially after 1913; consequently his work does not in any way clarify the present situation.
 
@@ -451,9 +457,9 @@ Didn't Kautsky, Bernstein, and Lenin simply recognize the reality of the workers
 
 Doesn't Lenin's discredited statement that the proletariat, left to itself, can only attain trade-union consciousness, describe the truth about the class bound to capital? It can be criticized only from the standpoint of the distinction, made by Marx in The Poverty of Philosophy, between class as object of capital and class as subject. Without a revolutionary upheaval the proletariat cannot become a subject. The process through which it was to become a subject implied an outside, external consciousness, which at a given moment would become incar-
 
-<sup>16</sup> Marx, Early Writings, London: Pelican, 1 974, pp. 401-420.
+16 Marx, Early Writings, London: Pelican, 1 974, pp. 401-420.
 
-<sup>17</sup> Which proves that it was impossible to hold on to a "classist" discourse and behavior while maintaining the basic "aclassist" thesis of the necessity of the proletariat's self-negation.
+17 Which proves that it was impossible to hold on to a "classist" discourse and behavior while maintaining the basic "aclassist" thesis of the necessity of the proletariat's self-negation.
 
 nated in the proletariat. This consciousness coming from the outside is the most reified, the most estranged form of repressive consciousness! Consequently, the point is not to rehash the debate and return to Marx, but to recognize that the cycle of the proletarian class is now over, first of all because its goals have been realized, secondly because it is no longer the determinant in the global context. We have reached the end of the historical cycle during which humanity (especially the part situated in the West) moved within class societies. Capital has realized the negation of classes-by means of mystification, since it retains the conflicts and collisions that characterize the existence of classes. The reality is the despotism of capital. It is capital we must now face, not the past.
 
@@ -545,7 +551,7 @@ Communist revolution is complete revolution. Biological, sexual, social, economi
 
 Communist revolution can be conceived only if it is grasped through the history and paleontology of human beings as well as all other living beings. By grasping this we become aware that, if this revolution has long been necessary, it can now be realized. Earlier it was possible but not unavoidable. There were still other "human" paths in that they still allowed a human development; specifically, they allowed the externalization of human powers. Now almost everything has been externalized and plundered by capital, which describes the
 
-<sup>24</sup> "Origine et fonction de la forme parti" (1961), published in Invariance, No. 1, Serie I.
+24 "Origine et fonction de la forme parti" (1961), published in Invariance, No. 1, Serie I.
 
 only path other than communist revolution: the total negation of human beings. Therefore we must understand our world; we must understand the despotism of capital and the movement of rebellion breaking out against it. This act of understanding which is taking place not only intellectually but also sensually (the rebellion is to a large extent bodily rebellion) can only be reached by rejecting the wandering and the repressive consciousness.
 
@@ -563,9 +569,9 @@ There appears here the universalizing tendency of capital, which distinguishes i
 
 What makes capital a barrier is not stated here, whereas its revolutionary, positive aspect is emphasized (this aspect is
 
-<sup>I</sup>Marx, Grundrisse, London: Pelican, 1 973, p. 539.
+IMarx, Grundrisse, London: Pelican, 1 973, p. 539.
 
-## <sup>2</sup> Ibid., p. 540
+## 2 Ibid., p. 540
 
 emphasized on many other pages of the Grundrisse, and of Capital): the tendency toward universal development of the forces of production. However, and this is what interests us here, capital cannot realize this; it will be the task of another, superior mode of production. The future of society here takes the form of an indefinite, cumulative movement.
 
@@ -573,7 +579,7 @@ This tendency-which capital possesses, but which at the same time, since capital
 
 Hence capital is driven toward dissolution by this contradiction. It is a pity that Marx did not here mention what he understands by "limited form of production," since this keeps us from "seeing" clearly what he means by contradiction in this specific case. This conditions the understanding of the statement that the capitalist mode of production is a transitory form of production. Even without an explanation of the contradiction, we can understand it as follows: the capitalist mode of production is not eternal-Marx 's polemical argument against the bourgeois ideologues. This is the content of his main statements. But another argument is embedded in the preceding one: the capitalist mode of production is revolutionary and makes possible the passage to another, superior social form where human beings will no longer be dominated by the sphere of necessity (the sphere of the production of material life) and where alienation will cease to exist.
 
-<sup>3</sup> Ibid.
+3 Ibid.
 
 Today, after the blossoming of marxism as a theory of development, another part of this sentence appears basic: there is a continuum between the two periods. What is a transition if not the opposite of a break? This continuum consists of the development of the forces of production. From which follows the shameful but real relationship: Marx-Lenin-Stalin ! But this is not our topic. Our aim is to determine what constitutes the productive forces and for whom they exist, according to Marx in the Grundrisse. "All previous forms of society---or, what is the same , of the forc es of soci al produc tionfoundered on the development of wealth."4
 
@@ -583,7 +589,7 @@ Those thinkers of antiquity who were possessed of consciousness therefore direct
 
 For Marx, the productive forces are human (from the human being) and they are for the human being, for the individual. Science as a productive force (thus also wealth, as was already shown in the 1844 Manuscripts and in The German Ideology) is determined by the development of these forces and corresponds to the appearance of a large number of externalizations, a greater possibility to appropriate nature. Even if it takes an ambiguous form, the blossoming of the human being is possible; it is the moment when, in the development of the dominant class, individuals can find a model of a fuller
 
-<sup>5</sup> Ibid., pp. 540-541.
+5 Ibid., pp. 540-541.
 
 life. For Marx, the capitalist mode of production, by pushing the development of productive forces, makes possible a liberating autonomization of the individual. This is its most important revolutionary aspect.
 
@@ -593,9 +599,9 @@ There is decay because the development of individuals is blocked. It is not poss
 
 When did the development of productive forces accompany the development of individuals in different societies? When
 
-<sup>6</sup> Ibid., p. 541.
+6 Ibid., p. 541.
 
-<sup>7</sup> As is done by Victor in Revolution Internationale No. 7, serie I, p. 4 of the article "Volontarisme et confusion."
+7 As is done by Victor in Revolution Internationale No. 7, serie I, p. 4 of the article "Volontarisme et confusion."
 
 was the capitalist mode of production revolutionary for itself and for human beings? Do the productive forces advance continually, in spite of moments when individuals decay? Marx said: " ... the further development appears as decay ... " Do the productive forces stagnate; does the capitalist mode of production decay?8
 
@@ -603,7 +609,7 @@ The remainder of Marx' s digression confirms that the decay refers to human bein
 
 We saw earlier that property in the conditions of production was posited as identical with a limited, definite form of the community [Gemeinwesen] ; hence of the individual with the characteristics-limited characteristics and limited development of his productive forc es-required to form such a c ommunity [Gemeinwesen]. This presupposition was itself in turn
 
-<sup>8</sup> Various authors have spoken of stagnation and declining production between the two world wars. Bordiga always rejected the theory of the decline of the capitalist mode of production as a gradualist deformation of Marx's theory (see "Le renversement de la praxis dans la theorie marxiste," in Invariance No. 4, serie 1).
+8 Various authors have spoken of stagnation and declining production between the two world wars. Bordiga always rejected the theory of the decline of the capitalist mode of production as a gradualist deformation of Marx's theory (see "Le renversement de la praxis dans la theorie marxiste," in Invariance No. 4, serie 1).
 
 the result of a limited historic stage of the development of the productive forces, of wealth as well as the mode of creating it. The purpose of the community [Gemeinwesen], of the individual-as well as the condition of production-is the reproduction of these specific conditions of production and of the individuals, both singly and in their social groupings and relations-as living carriers of these conditions. Capital posits the production of wealth itself and hence the universal development of the productive forces, the constant overthrow of its prevailing presuppositions, as the presupposition of its reproduction. Value excludes no use value; i.e. includes no particular kind of consumption etc., of intercourse etc. as absolute condition; and likewise every degree of the development of the social forces of production, of intercourse, of knowledge etc. appears to it only as a barrier which it strives to overpower.9
 
@@ -611,7 +617,7 @@ This passage has momentous consequences. There is no reference to the proletaria
 
 It is destructive towards all of this, and constantly revolutionizes it, tearing down all the barriers which hem in the development of the forces of production, the expansion of needs, the all-sided development of production, and the exploitation and exchange of natural and mental forces. JO
 
-<sup>9</sup> Marx, Grundrisse, p. 54 1. IO Ibid.
+9 Marx, Grundrisse, p. 54 1. IO Ibid.
 
 We are forced to take a new approach toward the manner in which Marx situated the proletarian class in the context of the continual upheaval carried out by the capitalist mode of production. What is immediately evident is that the capitalist mode of production is revolutionary in relation to the destruction of ancient social relations, and that the proletariat is defined as revolutionary in relation to capital. But it is at this point that the problem begins: capitalism is revolutionary because it develops the productive forces; the proletari at cannot be revolutionary if, after its revolution, it develops or allows a different development of the productive forces. How can we tangibly distinguish the revolutionary role of one from that of the other? How can we justify the destruction of the capitalist mode of production by the proletariat? This cannot be done in a narrowly economic context. Marx never faced this problem because he was absolutely certain that the proletarians would rise against capital. B ut we have to confront this problem if we are going to emerge from the impasse created by our acceptance of the theory according to which the production relations come into conflict with the development of the productive forces (forces that were postulated to exist for the human being, since if this were not the case, why would human beings rebel?) If the productive forces do not exist for human beings but for capital, and if they conflict with production relations, then this means that these relations do not provide the proper structure to the capitalist mode of production, and therefore there can be revolution that is not for human beings (for example, the general phenomenon that is called fascism). Consequently capital escapes. In the passage we are examining, Marx makes a remarkable statement about the domination of capital: "Its own presuppositionvalue-is posited as product, not as a loftier presupposition hovering over production." 11
 
@@ -621,9 +627,9 @@ The barrier to capital is that this entire development proceeds in a contradicto
 
 How can this be a limit for capital? One might suppose that underconsumption by the workers causes crises, and the final crisis. This is one possibility; at least it appears that way at certain times. Marx always refused to ground a theory of crises on this point, but this did not keep him from mentioning this underconsumption. For Marx capital has a barrier because it despoils the working individual. We should keep in mind that he is arguing against apologists for capital and wants to show that the capitalist mode of production is not eternal and does not achieve human emancipation. Yet in the course of his analysis he points to the possibility for capital to escape from human conditions. We perceive that it is not the productive forces that become autonomous, but capital, since at a given moment the productive forces become "a barrier which it
 
-## <sup>11</sup> Ibid., p. 541
+## 11 Ibid., p. 541
 
-<sup>12</sup> Ibid.
+12 Ibid.
 
 strives to overpower." This takes place as follows: the productive forces are no longer productive forces of human beings but of capital; they are for capital.13
 
@@ -631,19 +637,19 @@ The despoliation (alienation) of the working individual cannot be a barrier for 
 
 It is possible to get -0ut of this ambiguity. If capital succeeds in overcoming this barrier, it achieves full autonomy. This is why Marx postulates that capital must abolish itself; this abolition follows from the fact that it cannot develop the productive forces for human beings while it makes possible a universal, varied development that can only be realized by a superior mode of production. This contains a contradiction:
 
-<sup>13</sup> This is what Marx shows when he analyzes fixed capital in the Grundrisse, and also in Book I of Capital where he analyzes the transformation of the work process into a process of production of capital (see also Un chapitre inedit du Capital, Paris: Ed. 10/18, 1 971).
+13 This is what Marx shows when he analyzes fixed capital in the Grundrisse, and also in Book I of Capital where he analyzes the transformation of the work process into a process of production of capital (see also Un chapitre inedit du Capital, Paris: Ed. 10/18, 1 971).
 
 capital escapes from the grasp of human beings, but it must perish because it cannot develop human productive forces. This also contradicts Marx's analysis of the destruction of human beings by capital. How can destroyed human beings rebel? We can, if we avoid these contradictions, consider Marx a prophet of the decline of capital, but then we will not be able to understand his work or the present situation. The end of Marx's digression clarifies these contradictions.
 
 But this antithetical form is itself fleeting, and produces the real conditions of its own suspension. The result is: the tendentially and potentially general development of the forces of production-of wealth as such-as a basis; likewise, the universality of intercourse, hence the world market as a basis. The basis as the possibility of the universal development of the individual, and the real development of the individuals from this basis as a constant suspension of its barrier, which is recognized as a barrier, not taken for a sacred limit. Not an ideal or imagined universality of the individual, but the universality of his real and ideal relations. Hence also the grasping of his own history as a process, and the recognition of n ature (equally present as prac tical power over nature) as his real body. The process of development itself posited and known as the presupposition of the same. For this, however, necessary above all that the full development of the forces of production has become the condition of production; and not that specific conditions of production are posited as a limit to the development of the productive forces. 1 4
 
-<sup>14</sup> Marx, Grundrisse, pp. 541-542.
+14 Marx, Grundrisse, pp. 541-542.
 
 If this process is to concern individuals, capital has to be destroyed and the productive forces have to be for human beings. In the article, "La KAPD et le mouvement proletarien,"15 we referred to this passage to indicate that the human being is a possibility, giving a foundation to the statement: the revolution must be human. This is in no way a discourse on the human being conceived as invariant in every attribute, a conception that would merely be a restatement of the immutability of human nature. But we have to point out that this is still insufficient, since the development of productive forces which, according to Marx, will take place in a superior mode of production, is precisely the same development presently carried out by capital. The limit of Marx is that he conceived communism as a new mode of production where productive forces blossom. These forces are undoubtedly important, but their existence at a certain level does not adequately define communism.
 
 For M arx, c apital overcomes its contradictions by engulfing them and by mystifying reality. It can only apparently overcome its narrow base, its limited nature, which resides in the exchange of capital-money against labor force. Capital must inevitably come into conflict with this presupposition; thus Marx speaks of the opposition between private appropriation and socialization of production. Private appropriation of what? Of surplus value, which presupposes the proletarian, and thus the wage relation. But the entire development of capital (and Marx's own explanations are a precious aid in understanding it) makes the mystification effective, making capital independent of human beings, thus enabling it to avoid the conflict with its presupposition. One might say that the conflict nevertheless persists, as a result of
 
-<sup>15/</sup>nvariance, Serie 11, No. I.
+15/nvariance, Serie 11, No. I.
 
 the total process: socialization. This is true. But the socialization of production and of human activity, the universal development of the productive forces and thus the destruction of the limited character of the human being-all this was only a possible ground for communism; it did not pose communism automatically. Furthermore, the action of capital tends constantly to destroy communism, or at least to inhibit its emergence and realization. To transform this possible ground into reality, human intervention is necessary. But Marx himself showed that capitalist production integrates the proletariat. How could the destruction of human beings and of nature fail to have repercussions on the ability of human beings to resist capital and, a fortiori, to rebel?
 
@@ -653,7 +659,7 @@ What precisely distinguishes capital from the masterservant relation is that the
 
 One of the modalities of the reabsorption of the revolutionary power of the proletariat has been to perfect its character as consumer, thus catching it in the mesh of capital. The proletariat ceases to be the class that negates; after the formation of the working class it dissolves into the social body. Marx anticipates the poets of the "consumer society" and, as in other instances, he explains a phenomenon that is observed only later
 
-<sup>16</sup> Marx, Grundrisse, pp. 420-42 1.
+16 Marx, Grundrisse, pp. 420-42 1.
 
 and then falsely, if only in terms of the name given to it.
 
@@ -686,9 +692,7 @@ that the human being is a simple object to be manipulated. They are also complet
 
 We now come to the category of people who feel that they have to "do something": they are now having to realize that their understanding of the situation is totally inadequate, and their efforts to conceal this fact only makes their powerlessness more obvious. The "silent majority," who make up the rest, are permeated with the belief that it is pointless to do anything, because they simply have no perspective. Their silence is not consent pure and simple, but rather evidence of their incapacity to intervene in any way. The proof of this is that when they are mobilized, it is never for something but against it. Their particular passivity is therefore negative.
 
-It is important to note that the two groups referred to above-the activists and the silent majority-<:annot be catalogued simply as left and right: the old political dichotomy no longer operates here. The confusion that this raises is nevertheless important in relation to the attitude taken toward science, since in the past it was people on the left who were very committed to science, whereas now it is being condemned by the New Left (in the United States for example). The left-right dichotomy lives on, however, among the old regroupments, the parties of the left and right, and all the rackets of the past, but these oppositions have all ceased to matter: in one way or
-
-<sup>4</sup> In the original French the author frequently uses the expressions "men," "man," or "mankind," as well as "humans," or "human beings." Where the false generic "man," etc. does occur it has been changed, even though this must involve a distortion of what was originally intended [Translator's note].
+It is important to note that the two groups referred to above-the activists and the silent majority-4 In the original French the author frequently uses the expressions "men," "man," or "mankind," as well as "humans," or "human beings." Where the false generic "man," etc. does occur it has been changed, even though this must involve a distortion of what was originally intended [Translator's note].
 
 another they each defend capital equally. The most active of all are the various communist parties because they defend capital by espousing exactly the same scientific forms and rational structures that capital uses to maintain itself.
 
@@ -764,9 +768,9 @@ general assemblies were set up. These were often controlled by political militan
 
 behaved ridiculously-after all, recuperation has to pay its price. On the other hand, those who wanted to counter the movement from within and didn't succeed, just proceeded to despise it, and in this manner they brought down a similar ridicule on themselves. But then it was the tum of the men of government: out they came, bleating about how we've already got deputies and a parliament and that we should make use of them to sort out the problems that remain unsolved. The young people acted as though none of this existed. Once again, as in May '68, there was no communication, no understanding between the two sides ("We're not closed to arguments, but really I don't know what it is they want" -Fontanet, the Education Minister). They fondly imagine that young people want to discuss with them and present opposing arguments. This is a revolution of life itself,! I a search for another way of living. Dialogue should be concerned only with the plans and ideas for realizing this desire. No dialogue can take place between the social order and those who are to overthrow it. If dialogue is still seen as a possibility, then this would be an indication that the movement is faltering. Underlying all this is a profoundly important phenomenon: all human life, from the very beginning of its development within capitalist society, has undergone an impoverishment. More than this, capitalist society is death organized with all the appear-
 
-<sup>11</sup> In 1 964 Cardan saw that youth insurrections were very important, but he viewed them as something exterior that had to be made use of. This is the tribute that ideology pays to the old idea of consciousness coming from outside:
+11 In 1 964 Cardan saw that youth insurrections were very important, but he viewed them as something exterior that had to be made use of. This is the tribute that ideology pays to the old idea of consciousness coming from outside:
 
-<sup>&</sup>quot;The revolutionary movement will be able to give a positive direction to today's enormous youth revolt. If it can discover that new and true language which the youth is looking for, it can turn their revolt into a ferment of social transformation, and show them another activity for their struggle against the world which they now refuse." Socialisme ou Barbarie, No. 35, p. 35.
+&quot;The revolutionary movement will be able to give a positive direction to today's enormous youth revolt. If it can discover that new and true language which the youth is looking for, it can turn their revolt into a ferment of social transformation, and show them another activity for their struggle against the world which they now refuse." Socialisme ou Barbarie, No. 35, p. 35.
 
 ances of life. Here it is not a question of death as the extinction of life, but death-in-life, death with all the substance and power of life. The human being is dead and is no more than a ritual of capital. Young people still have the strength to refuse this death; they are able to rebel against domestication. They demand to live. But to those great numbers of smugly complacent people, who live on empty dreams and fantasies, this demand, this passionate need, just seems irrational, or, at best, a paradise that is by definition inaccessible.
 
@@ -790,7 +794,7 @@ In this tremendous contrast with previous revolutions, one fact is reflected. Be
 
 We have got to remember that capital, as it constantly overthrows traditional patterns of life, is itself revolution. This should lead us to think again about the nature of revolution, and to realize that capital is able to take control of social forces in
 
-<sup>13</sup> Cited in Noam Chomsky : American Power and the New Mandarins (Pelican, 1969), p. 247.
+13 Cited in Noam Chomsky : American Power and the New Mandarins (Pelican, 1969), p. 247.
 
 order to overthrow the established order in insurrections directed against the very society that it already dominates. 14 Never before have vision and understanding been more vitally necessary; every separate revolt now becomes a further stimulus for the movement of capital. But people have been robbed of their ability to think in a theoretical way and to perceive reality as part of the outcome of an historical process-this has happened as a result of the process of domestication. And in a similar way, this capacity for theoretical thought has been prevented from ever taking root in the material development of our planet and in us as a species due to the existence of a split between the mind and the body, and the old division between physical and intellectual work (which automated systems are now in the process of surmounting to capital's benefit).
 
@@ -812,11 +816,11 @@ Violence is a fact of life in present-day society; the question now is how that 
 
 So we might ask what the leftists are playing at when they theorize about the destruction of the dominant class (rather than what supports it), or of the cops ("the only good cop is a dead one")? One can make the equation CRS = ss1s on the level of a slogan, because that accurately represents the reality of the two roles, but it does not justify the destruction of the people involved-for two reasons. First, it effectively rules out the possibility of undermining the police force. When the police feel they are reduced to the status of subhumans, they themselves go into a kind of revolt against the young people in order to affirm a humanity that is denied to them, and in so doing they are therefore not simply playing the part of killing/repression machines. Second, every riot cop and every other kind of cop is still a person. Each one is a person with a definite role like everyone else. It is dangerous to delegate all inhumanity to one part of the social whole, and all humanity to another. There
 
-<sup>15</sup> The CRS are the paramilitary riot police. In May 1979 a new variation on the old slogan appeared when the trotskyists of the Ligue Communiste Revolutionnaire (LCR) joined forces with the stalinists and the CRS in the violent repression directed against the "autonomes" during the demonstrations in Paris by the steel workers from Longwy and Denain: LCR = CRS, or LCRS [Translator's note].
+15 The CRS are the paramilitary riot police. In May 1979 a new variation on the old slogan appeared when the trotskyists of the Ligue Communiste Revolutionnaire (LCR) joined forces with the stalinists and the CRS in the violent repression directed against the "autonomes" during the demonstrations in Paris by the steel workers from Longwy and Denain: LCR = CRS, or LCRS [Translator's note].
 
 is no question here of preaching nonviolence,16 but rather of defining precisely what violence must be exercised and to what purpose. In this connection, the following points should make the position clearer: first, all stereotypes and functions must be revealed for what they are-roles imposed on us by capital; second, we must reject the theory that postulates that all those individuals who defend capital should simply be destroyed; third, we cannot make exceptions on the ground that certain people are not free, that it is "the system" which produces both cops and revolutionaries alike. If this were correct, the logical conclusion would be either a position of nonviolence, or a situation where human beings become reduced to automatons, which would then justify every kind of violence against them. If right from the outset certain people are denied all possibility of humanity, how can they subsequently be expected to emerge as real human beings? So it is as human beings that they must be confronted. Now, though, the majority of people think in terms of the radical solution provided by class society-i.e., repress your opponents-even in this form the revolution would assert itself according to its true nature, namely, that it is human. When the conflict comes, as it inevitably will, there should be no attempt to reduce the various individuals who defend capital to the level of "bestial" or mechanical adversaries; they have to be put in the context of their humanity, for humanity is what they too know they are a part of and are potentially able to find again. In this sense the conflict takes on intellectual and spiritual dimensions. The representations that j ustify an individual person 's defense of capital must be revealed and demystified; people in this situation must become
 
-<sup>16</sup> Nonviolence is itself just an insidious, hypocritical form of violence, a sign of certain people's inability to stand up for themselves as human beings.
+16 Nonviolence is itself just an insidious, hypocritical form of violence, a sign of certain people's inability to stand up for themselves as human beings.
 
 aware of contradiction, and doubts should arise in their minds.
 
@@ -842,7 +846,7 @@ This can never happen if the old methods of direct confrontation continue to be 
 
 concerns. It would be absurd to theorize and make generalizations about this. But we can be certain of one thing: it has proved effective in the past, and it will be again, but we must invent a host of other different modes of action. The essential point is to understand that the terrain and methods of struggle must be changed; this necessity has been understood in a limited and sometimes negative way by people who abandon everything and go on the roads, expressing their desire to leave the vicious circle of struggles that go on in the day-to-day world.
 
-The leftists persist in their well-known cycle of provocation-repression-subversion, which is all supposed to bring about revolution at some precise time in the future. But this conception of revolution is totally inadmissible because it means sacrificing men and women in order to mobilize others. Communist revolution does not demand martyrs because it does not need to make any demands. The martyr becomes the bait that attracts the followers. What would then be the use of a revolution that uses death as a bait in this way?<sup>19</sup> But then there is always someone who dies at just the right time (or the victim's demise may even be "facilitated"), and someone else goes around shaking the cadaver in order to attract the revolutionary flies.
+The leftists persist in their well-known cycle of provocation-repression-subversion, which is all supposed to bring about revolution at some precise time in the future. But this conception of revolution is totally inadmissible because it means sacrificing men and women in order to mobilize others. Communist revolution does not demand martyrs because it does not need to make any demands. The martyr becomes the bait that attracts the followers. What would then be the use of a revolution that uses death as a bait in this way?19 But then there is always someone who dies at just the right time (or the victim's demise may even be "facilitated"), and someone else goes around shaking the cadaver in order to attract the revolutionary flies.
 
 Since the communist revolution is the triumph of life, it cannot in any way glorify death, or seek to exploit it, since this would be putting itself once more on the terrain of class society. There are some who would compare or substitute "those who fell in the revolution" with those who died in the service of capital: but it's all just the same old carnival of carrion!
 
@@ -894,9 +898,9 @@ During a period of total counterrevolution, Bordiga was able to withstand the di
 
 Being thus attuned to the future enabled him to perceive the revolutionary movement as it actually was, and not according to its own characterizations. Since that time, the "future industry"23 has come into its own and assumed an enormous scope. Capital enters this new field and begins to exploit it, which leads to a further expropriation of people, and a reinforcement of their domestication. This hold over the future is what distinguishes capital from all other modes of production. From its earliest origins capital's relationship to the past or present has always been of less importance to it than its relationship to the future. Capital's only lifeblood is in the exchange it conducts with labor power. Thus when surplus value is created, it is, in the immediate sense, only potential capital; it can become effective capital solely through an exchange against future labor. In other words, when surplus value is created in the present, it acquires reality only if labor power can appear to be
 
-<sup>22</sup> Bordiga once maintained that "we are the only ones to ground our action in the future." In 1 952 he wrote: "Our strength lies more in the science of the future than in that of the past or present" ["Explorateurs de l'avenir," Battaglia Communista, no. 6].
+22 Bordiga once maintained that "we are the only ones to ground our action in the future." In 1 952 he wrote: "Our strength lies more in the science of the future than in that of the past or present" ["Explorateurs de l'avenir," Battaglia Communista, no. 6].
 
-<sup>23</sup> "L'industrie du futur'' (e.g., futurology, the technological revolution, marketing, resources planning, space exploration, etc.) [translator' s note].
+23 "L'industrie du futur'' (e.g., futurology, the technological revolution, marketing, resources planning, space exploration, etc.) [translator' s note].
 
 ready and available in a future (a future that can only be hypothetical, and not necessarily very near). If therefore this future isn't there, then the present (or henceforth the past) is abolished: this is devalorization through total loss of substance. Clearly then capital's first undertaking must be to dominate the future in order to be assured of accomplishing its production process. (This conquest is managed by the credit system). Thus capital has effectively appropriated time, which it molds in its own image as quantitative time. However, present surplus value was realized and valorized through exchange against future labor, but now, with the development of the "future industry," present surplus value has itself become open to capitalization. This capitalization demands that time be programmed, and this need expresses itself in a scientific fashion in futurology. Henceforth, capital produces time.24 From now on where may people situate their utopias and uchronias?
 
@@ -975,31 +979,7 @@ It is extremely important to grasp [{assen] these aspects of circulating and fix
 
 The whole of this passage is also the explanation of the particular moment of the total process of capital valorization, which includes the phase of devalorization, thus the total process of capital = unity of production and circulation, can be analyzed as being simultaneously valorization and devalorization, how capital surmounts this contradiction if not by exteriorization of it in a movement that posits fictitious capital, which thus tends to negate itself in an immediate manner to avoid objectifying itself (to avoid objectification), because that is alienation, thus devalorization. All objectification is negation, (i.e., devalorization):
 
-As the subject predominant [iibergreifen<l] over the different phases of this movement, as value sustaining and multiplying itself in it, as the subject of these metamorphoses proceeding in a circular course [Zirkellauj]-as a spiral, as an expanding circle-capital is circulating capital. Circulating capital is therefore initially not a particular form of capital, but rather capital itself, in a further development aspect, as subject of the movement just described, which it, itself, is as its own valorization process [vewertungs prozess]. In this respect, therefore, every capital is circulating capital. In simple circulation, circulation itself appears as the subject [ ... ] Capital, however, exists as the subject of circulation; circulation is posited as its own life's course [Lebenslauj]. [ ... ] Therefore, capital in each of its particular phases is the negation of itself as the subject [seiner als Subjekt] of all the various metamorphoses" [Grundrisse, p. 620].
-
-Each metamorphosis of money capital, productive capital, and commodity capital gives it substance. Capital objectifies itself and takes on an objectified form, thus devalorizes and denies itself.
-
-"As long as it remains in the production process it is not c ap able of circulating; and it is virtually devalorised [entwertet]" (ibid., p. 62 1).
-
-On the other hand, one must take account of what precedes it. Marx explained that in alternating two capitals, productive and circulating, capital partially surmounts devalorization. Thus the study of circulation and the mode by which capital overcomes fixation emerges better.
-
-It is then that credit, which allowed production to continue and then to overcome the phase of over- or underproduction, becomes the concrete form of the runaway of capital and its autonomization. Capital in the credit form is capital in process. "The independence of labour time is thereby negated, and the production process is itself posited as determined by exchange ... " (ibid., p. 628).
-
-Labor time having been negated, the law of value cannot act as before. That reverberates through the immediate production process.
-
-In both cases, circulation time is of interest only insofar as it is the suspension [Aujhebung], the negation of alien labour time; either because it interrupts capital in the process of its appropriation; or because it forces it to consume a part of the created value, to consume it in order to accomplish the operations of circulation, i.e., to posit itself as capital [ibid., p. 634].
-
-Capital thus dominates circulation and will have to do the same simultaneously with the social movement. Here Marx affords another determination of the anthropomorphosis in capital. He considered it as a being which would be a huge worker.
-
-Capital itself as in process-hence, as accomplishing [zurucklegend] one turnover-is regarded as working capital, and the fruits, which it is supposed to yield, are calculated according to its working time-the total circulation time of one turnover. The mystification which thereby takes place lies in the nature of capital [ibid., p. 640].
-
-We have recalled a section of Marx's work that is little known, on the subject of the autonomization of capital and circulation. The other aspect, concerning the production process, has often been demonstrated (cf. Series I number 2).
-
-Let us recall that when one moves from surplus value to profit, capital really enters into relation with itself: capital is at once subject and object (cf. Hegel and The Phenomenology of Mind).1 It doubles itself up in the relation to itself. Marx said, concerning interest-bearing capital, that one has a contentless and an aconceptual form [begriffslose] and, when he thus defines the form of interest-bearing capital, he reassumes the comparison with the automaton which he had made in the chapter "The General Formula for Capital" in Volume I. Marx wrote: "In M-C-M' an immediate link is still retained. In M-M' we have the incomprehensible form of capital, the most extreme inversion and materialisation of production relations" (Theories of Surplus Value Vol. III, p. 462).
-
-He adds that it is an irrational expression showing the complete derangement [ Verruckthe it] of capital (Theories of Surplus Value Vol. III, p. 456), but he adds: "It is therefore especially in this form that capital is imagined. It is capital par excellence" (ibid., p. 455).
-
-<sup>I</sup>Lukacs said in History and Class Consciousness that the proletariat must become subject and object of history in acquiring class consciousness. He thus claimed for the proletariat what capital has realized, so showing that capital could very well develop from its value pole or its labor (proletarian) pole. Some years later Castoriadis, then Cardan, and later Potere Operaio took up the same theorization in another form and contributed by this to the discourse of capital.
+As the subject predominant [iibergreifenILukacs said in History and Class Consciousness that the proletariat must become subject and object of history in acquiring class consciousness. He thus claimed for the proletariat what capital has realized, so showing that capital could very well develop from its value pole or its labor (proletarian) pole. Some years later Castoriadis, then Cardan, and later Potere Operaio took up the same theorization in another form and contributed by this to the discourse of capital.
 
 We have only carried out one of Marx's researches, the essential elements from the whole of Capital used to show the essential elements, in stating that capital is merely representation. Let us recall what we simply noted in Series II number 3, p. 29b; that with interest-bearing capital all memory of the relation with the production process disappears, whereas it continues, however obscured, at the stage of profit-bearing capital (op. cit. , pp. 454-55 and p. 487). Therefore there would be a sort of dissolution of capital.
 
@@ -1019,7 +999,7 @@ And, as we have shown above, Marx reached it. He arrived here as far as noting t
 
 Given the unity science-capital operating inside the production process, then in circulation, the interest-bearing form of capital becomes socially rational and no longer irrational, as Marx had thought. He saw an alienation of capital there, as if it lost its progressive and civilizing aspects (which he frequently stressed) in taking this form.2 Some epigoni stated that financial capital is the last form, parasitic form, of capital and begin to
 
-2 Marx praises productive capital in all his work (i.e., the P-P' cycle) because the development of mechanism and science is linked to it, but he condemns interest-bearing capital, which is unjustifiable in any manner in the field of the development of the productive forces. It would seem to him that capital ceases to be progressive-progressing when interest-bearing capital tends to theorize a decadence (one must note that again this could appear as such as far as financial capital could still exist for men, i.e., one still had to deal with small owners). But that is really the root of the theoretical inability to grasp this capital. One must not try to understand capital by means of one of its forms, but by means of its totality, its full structure, by means of its realized material community. Then it is possible to grasp how the arrival at a given form modifies the totality of capital. Concerning interest-bearing capital, its role is essential because it is with this form that capital, according to Marx, achieves totality. But he posed it with an essential modification, the moment that it creates its own representation, no more dependence on gold, more especially vis-a-vis all human representation, but also no more dependence on materiality such as expressed in the organic composition of capital. In fact, this representation only operates from when humans internalize capital and make capital their representation, the mediation between humans and whatever reality is capital, and this in its initial dynamic, expressed in the general formula of capital: C � C + � C. To believe that the dogma of the creation from nothing would be generalized and thus profaned. In fact it would state the extreme interaction of humans, for all extra activity of one of us has to encounter the capitalizing effects of others. But what remains profoundly true in Marx's study is dominate the total process of capital. The Nazis and many after them had a similar position: defense of productive capital and an attack on the so-called financial capital, usury, etc., inasmuch as this was international. Hence also the worship of the proletarian as productive worker. Thus they had realized the reformist part of Marx's work, not the whole work and especially not its revolutionary dimension. For him, the proletariat had to be suppressed along with the CMP so that there could be a real development of the productive forces for man.
+2 Marx praises productive capital in all his work (i.e., the P-P' cycle) because the development of mechanism and science is linked to it, but he condemns interest-bearing capital, which is unjustifiable in any manner in the field of the development of the productive forces. It would seem to him that capital ceases to be progressive-progressing when interest-bearing capital tends to theorize a decadence (one must note that again this could appear as such as far as financial capital could still exist for men, i.e., one still had to deal with small owners). But that is really the root of the theoretical inability to grasp this capital. One must not try to understand capital by means of one of its forms, but by means of its totality, its full structure, by means of its realized material community. Then it is possible to grasp how the arrival at a given form modifies the totality of capital. Concerning interest-bearing capital, its role is essential because it is with this form that capital, according to Marx, achieves totality. But he posed it with an essential modification, the moment that it creates its own representation, no more dependence on gold, more especially vis-a-vis all human representation, but also no more dependence on materiality such as expressed in the organic composition of capital. In fact, this representation only operates from when humans internalize capital and make capital their representation, the mediation between humans and whatever reality is capital, and this in its initial dynamic, expressed in the general formula of capital: C  C +  C. To believe that the dogma of the creation from nothing would be generalized and thus profaned. In fact it would state the extreme interaction of humans, for all extra activity of one of us has to encounter the capitalizing effects of others. But what remains profoundly true in Marx's study is dominate the total process of capital. The Nazis and many after them had a similar position: defense of productive capital and an attack on the so-called financial capital, usury, etc., inasmuch as this was international. Hence also the worship of the proletarian as productive worker. Thus they had realized the reformist part of Marx's work, not the whole work and especially not its revolutionary dimension. For him, the proletariat had to be suppressed along with the CMP so that there could be a real development of the productive forces for man.
 
 that from then on all memory of human activity disappears. We are only the activity of capital.
 
@@ -1114,7 +1094,7 @@ The illusion is very great with those who, in thinking that they have superseded
 
 #### Emancipation, Crisis, and Critique
 
-It is not enough to reject the perspective of emancipationliberation. One has equally to question the concepts of crisis and critique. The crisis postulates a choice, a decision, and thus enforces itself because there is a difficult and unusual situation. This is true both for the CMP and for humans, without forgetting the interference between the two. So what choices are possible? One can already indicate that for the CMP there is the question of the choice between material and immaterial (relation to zero growth) production, but this is, in fact, the problem of accession to absolute domination and the choices are only apparent. There is a rigorous determinism that leads to a certain realization, a determinism that can only be put in question again if humans become capable of breaking their domestication. The choice for men appears as the acceptance of its destructive multiplication of life or the domination <sup>=</sup> restriction of its inhuman quantitative multiplication, which would allow its continuance. To abandon a certain fear of death which forces it to look for life in the extension of life, multiplication and progression of life. Reproduction is a certain fear of death and man lives it in its extension and not in the intensity of living; that translates the uncertainty in the world as if the species was not yet sure of its existence on the planet. The intensity of living implies a reflection of life on itself, then there is enjoyment by the resorption of life inside the living subject and not delegated to another generation.
+It is not enough to reject the perspective of emancipationliberation. One has equally to question the concepts of crisis and critique. The crisis postulates a choice, a decision, and thus enforces itself because there is a difficult and unusual situation. This is true both for the CMP and for humans, without forgetting the interference between the two. So what choices are possible? One can already indicate that for the CMP there is the question of the choice between material and immaterial (relation to zero growth) production, but this is, in fact, the problem of accession to absolute domination and the choices are only apparent. There is a rigorous determinism that leads to a certain realization, a determinism that can only be put in question again if humans become capable of breaking their domestication. The choice for men appears as the acceptance of its destructive multiplication of life or the domination = restriction of its inhuman quantitative multiplication, which would allow its continuance. To abandon a certain fear of death which forces it to look for life in the extension of life, multiplication and progression of life. Reproduction is a certain fear of death and man lives it in its extension and not in the intensity of living; that translates the uncertainty in the world as if the species was not yet sure of its existence on the planet. The intensity of living implies a reflection of life on itself, then there is enjoyment by the resorption of life inside the living subject and not delegated to another generation.
 
 The concept of critique is linked to the crisis, the former allowing one to find the most favorable choice and, besides, there is a close link between the two. The critical situation (period) is a situation of crisis. Literary or artistic criticism comes into this case. On the other hand, critique in the philosophical sense enables one to found and autonomize a field of study, something, a form, which establishes the beginning of a process, for example with Kant, but also with Marx (concerning political economy). (What are the conditions for a real development of the productive forces?) Here the critique is the propaedeutic for science. But since we have to judge correctly, there is support - ing all that the concept of value and a scale of values. Besides, one must make one choice triumph over the other possible ones and that generally happens against other men, hence critique engenders the polemic, all the more if the point is to frame one's work on the critique of another' s. An interesting example is Baudrillard's work. He works simultaneously like Kant and Marx in trying to establish a new field and acts like all polemicists, he has to kill his father, hence his Contribution to the Critique of the Political Economy of the Sign, which cannot be a supersession of Marx in any case (not even a start) because it does not question Marx's presuppositions at all.
 
@@ -1162,7 +1142,7 @@ Thus we find the biological dimension to the revolution differently. Reproductio
 
 What we have said so far has not been a critique but a simple statement of fact. It is not inside the various modes of being, for or against capital, that one will be able to find the true solution allowing us to inflect the crisis of the CMP into a revolutionary crisis. More especially as the crisis is not an exceptional movement during which a revolutionary possibility is finally
 
-<sup>5</sup> In articles in forthcoming issues of Invariance we shall analyze how oppression-domestication of human beings was affected and is still affected not only by means of sexuality, but also through food. We shall show through Makarius' work how taboos were firstly of food then sexual. There was a moment when food and sexuality were divided and the latter autonomized.
+5 In articles in forthcoming issues of Invariance we shall analyze how oppression-domestication of human beings was affected and is still affected not only by means of sexuality, but also through food. We shall show through Makarius' work how taboos were firstly of food then sexual. There was a moment when food and sexuality were divided and the latter autonomized.
 
 unveiled, because it can be fundamentally the moment when a greater subjugation of men and women to the CMP is effected.
 
@@ -1182,11 +1162,11 @@ of value, which, with its mutation of capital, has set itself up as the material
 
 #### Notes added to the English translation
 
-- <sup>a</sup>The two articles in this number referred to are available in English as The Wandering of Humanity (Trans. F. Perlman) Black and Red, P. O. Box 02374, Detroit, Michigan 48202, USA.
-- <sup>b</sup>See the English translation cited above, p. 34, fn. 20.
-- <sup>c</sup>Serge Moscovici , author of Society Against Nature and Domesticated and Wild Men, both in French by 1 0/1 8. Paris 1972 and 1 974.
-- <sup>d</sup>Sicco Mansholt, author of the EEC Mansholt Plan to reorganize agriculture in a capitalist manner without all the social consequences. Also wrote The Crisis ( 1 974): Jacques Attali, author of Political Models (1 972), Anti-Economics ( 1 974), and (1975).
-- <sup>e</sup>La Gueule Ouverte ("The gaping gob"), a magazine dealing with ecology, etc.
+- aThe two articles in this number referred to are available in English as The Wandering of Humanity (Trans. F. Perlman) Black and Red, P. O. Box 02374, Detroit, Michigan 48202, USA.
+- bSee the English translation cited above, p. 34, fn. 20.
+- cSerge Moscovici , author of Society Against Nature and Domesticated and Wild Men, both in French by 1 0/1 8. Paris 1972 and 1 974.
+- dSicco Mansholt, author of the EEC Mansholt Plan to reorganize agriculture in a capitalist manner without all the social consequences. Also wrote The Crisis ( 1 974): Jacques Attali, author of Political Models (1 972), Anti-Economics ( 1 974), and (1975).
+- eLa Gueule Ouverte ("The gaping gob"), a magazine dealing with ecology, etc.
 - f La Vie Claire: French organization and magazine against contamination of food, etc.
 
 #### STATEMENTS AND CITATIONS
@@ -1207,7 +1187,7 @@ Thus this proclamation, a kind of declaration of historical principles, became q
 
 Our basic concern when we began this publication was to state the continuity inside the discontinuity and reciprocally. That is why we repeated a certain number of quotations. Citing allowed us to say with whom we were in continuity and also to unveil the historical arc in which we thought that we operated. Thus we obviously chose what appeared compatible with our moment of struggle in the work of M arx and B ordiga. Simultaneously we invited the reader to order these works in terms of certain discontinuities we wished to bring out.
 
-<sup>2</sup> Invariance Series 1 1, no.2.
+2 Invariance Series 1 1, no.2.
 
 The quotations of B ordiga from the Histo ry of the Communist Left3 aimed at restating his antidemocratism and our agreement with him on this capital point. Besides, it seems essential for us to bring out his antivoluntarism and the appreciation that the revolutionary phase had passed already in 19 19. Nevertheless this antidemocratism and antiparliamentarianism are altogether insufficient today when we need to constitute a new human community and since capital has realized its own material community.
 
@@ -1289,7 +1269,7 @@ De Benoist provides important materials for a critique of what Marx called the c
 
 Once the slaves have been freed and the proletariat exists secure in the community of capital, Christianity no longer has any base or any social foundation; it can only be a representation of capital; it is no more than an echo of the past. In order to survive, it must conduct itself almost entirely on the terrain of transcendence, of invariance. But in that sphere, it has to confront not only other representations that were contemporary or that have arisen since, but also the whole representation that ed." More important still is his denunciation of the whole aberrant problem of fault and the practice of renunciation. And here again, if one obscures the dimension of the struggle against slavery, it makes any real critique of Christianity impossible, particularly when it is remembered that this aspect of the Christian religion emerged at a time when the hope of an immediate transformation had faded away. The religion of slaves is an adaptation to the world, just as marxism (as distinct from Marx's work) is another adaptation following the revolutionary failure (though this does not suffice to discredit the revolutionary project).
 
-In the end, Nietzsche, in co mmo n vith the New Right, Vaneigem, and others, underestimates the importance of the will to avoid the creation of inequalities, whether among the Jews originally or among the Christians . In both cases, there was a desperate attempt on the part of the community to check the mercantile mechanism that was undermining it. It was not necessarily being proposed that there had been an original and absolute equality of human beings, but what was being violently rejected was the dynamic that separates people by the most atrocious inequalities: the dynamic of exchange value. Thus it is not possible to ridicule Judaism and Christianity for having departed from the fundamental basis of their existence. But this can in no way be directed into a "restoration" of these religions, since they bear witness to an impasse, and an incapacity on the part of certain human groups to find another w:ay other than that which would lead implacably to the genesis of ·�apital.
+In the end, Nietzsche, in co mmo n vith the New Right, Vaneigem, and others, underestimates the importance of the will to avoid the creation of inequalities, whether among the Jews originally or among the Christians . In both cases, there was a desperate attempt on the part of the community to check the mercantile mechanism that was undermining it. It was not necessarily being proposed that there had been an original and absolute equality of human beings, but what was being violently rejected was the dynamic that separates people by the most atrocious inequalities: the dynamic of exchange value. Thus it is not possible to ridicule Judaism and Christianity for having departed from the fundamental basis of their existence. But this can in no way be directed into a "restoration" of these religions, since they bear witness to an impasse, and an incapacity on the part of certain human groups to find another w:ay other than that which would lead implacably to the genesis of ·apital.
 
 humans have been more or less conscious of since their rupture with nature.
 
@@ -1357,13 +1337,13 @@ From the moment that capital becomes autonomous and escapes, it is nothing more 
 
 Given the process of anthropomorphosis, it is clear that our
 
-<sup>4</sup> Out of this comes a certain convergence between scientific thought and Oriental thought (see note 17).
+4 Out of this comes a certain convergence between scientific thought and Oriental thought (see note 17).
 
 own death is also in question here, but this is not death as an absolute cessation but rather as an initiation into a new life. We are now living through a type of bardo;5 we are going to have to live through a spacetime full of horrible dangers, traps, illusions, and fascinations. But from the moment that we understand about the potential death of capital, and of the death within us of a millennium of wandering, nothing can prevent our development into the human community.
 
 What we have been saying is also important in regard to the problems raised by humanity's rupture with the community and nature, which subsequently generated the dichotomies first of exterior/interior, and then of being self/being other. Originally, humans conceived of these two "beings" and the relation between them in terms of aid and commingling. All of life revolved around this: commingling with the stranger; with the other as woman, which is love; with the other as nonimmediate revelation beyond the senses, which is the sacred and its various hierophanies; and commingling with the other as the beyond, which is death, often considered as an initiation into the other life. Later, these relations increasingly came to be seen in terms of exchange, thus providing the basis for the movement of value. The relation with the other became a valorization. When exchange value and then capital itself become autonomous systems, they proceed to engulf everything, setting up other and different relations: thus human beings and cultures become homogenized; democratization becomes basically a combinative of desubstantialized beings; love is reduced to a sexual combinative; death is no longer seen as having any relation to the beyond, but rather as the simple cessation of the
 
-<sup>5</sup> The confused period after physical death and before actual entry into the afterlife, described in the Tibetan Book of the Dead (tr. note).
+5 The confused period after physical death and before actual entry into the afterlife, described in the Tibetan Book of the Dead (tr. note).
 
 function of one of the elements in the combinative (death democratized). Thus capital is fundamentally a profanation of the sacred. In other words, if something appears that would be able to challenge capital, and that could embody certain more or less irreducible potentialities, and would then have to commingle in order to make the flux of life possible, it gets drawn off into one of the operating elements of a combinative within one particular process of capitalization. Since the human being is the sole other of capital, and since capital is anthropomorphized, it means that there is no longer any "other." Hence the potential death of capital.6 In order to block this total tendency,
 
@@ -1509,7 +1489,7 @@ Alain de Benoist is aiming to produce a global representation and then to establ
 
 Because he is a nominalist, he is also allowed to be an antireductionist (a term that is very fashionable now among
 
-<sup>14</sup> There is, as we have already noted, a possible contradiction between the will to establish a theory and the adoption of a nominalist position vis-a-vis reality. We don' t, however, want to go into that here; instead, we prefer to concentrate on the present-day significance of the nominalist revival.
+14 There is, as we have already noted, a possible contradiction between the will to establish a theory and the adoption of a nominalist position vis-a-vis reality. We don' t, however, want to go into that here; instead, we prefer to concentrate on the present-day significance of the nominalist revival.
 
 critics of marxism), and this he presents as being the main characteristic of the New Right.
 
@@ -1629,7 +1609,7 @@ It seems that binary thought is unable to avoid falling into the trap of anthrop
 
 There is no doubt that binary thought is linked to anthropocentrism, but it still remains necessary to define it precisely. It seems
 
-<sup>22</sup> Quotations from Celsus are from Louis Rougier: Celse contre !es Chretiens (Ed. Copernic), p. 206.
+22 Quotations from Celsus are from Louis Rougier: Celse contre !es Chretiens (Ed. Copernic), p. 206.
 
 His anthropocentrism is structural because chance is defined by him in relation to man---chance is choice-and it is from this standpoint that he then proceeds to define culture, also as choice. And only then, and by way of opposition to this, does he describe what nature is. Furthermore, he accepts as definitive the process of autonomization of man in relation to nature-as if it had no repercussions on the whole of life, and was separate from the ecological consequences that are now obvious to all. Yet the phenomenon of human culture is included in the total developmental process of nature (what defines humans is not so much culture but rather their autonornization), and what we are seeing today is a contradiction between the two. The human species' accession to thought concerns all species. Sooner or later the autonornization of our species will have to be stopped in order that the different forms of life can continue to exist: if we don't do this, men and women would, at least for this purpose, be immersed in nature.
 
@@ -1647,9 +1627,9 @@ The New Right's fixation on the past is largely a measure of how far the notion 
 
 De Benoist speaks ironically of "speciety." Yet in my view, this is an essential acquirement that developed over the last two centuries, during which a consciousness of the species arose asserting its unity and the fact that it contained invariant elements. Moreover, this consciousness is in no way a demand for homogenization of the kind we see being realized today, and which is capital's way of unifying the species.
 
-There are many people who are in fact aware of the phenomenon of species, and this is especially true of certain science fie� tion writers, whose exposition of it always stresses at the same time the vital necessity for diversity. The theme of identity, therefore, is often central to their work (cf. A. E. Van Vogt, Spinrad, Malaguti, Herbert, Ursula Le Guin, etc.). These writers are preoccupied with the perennization of the species in the cosmos, but for them this does not involve a domination vis-avis other living beings on the planet, as has been the case up to now, but rather a symbiosis and a harmony with other "conscious" species. We are seeing here also a supersession of anthropocentrism, a theme that has frequently preoccupied writers of science fiction.23
+There are many people who are in fact aware of the phenomenon of species, and this is especially true of certain science fie tion writers, whose exposition of it always stresses at the same time the vital necessity for diversity. The theme of identity, therefore, is often central to their work (cf. A. E. Van Vogt, Spinrad, Malaguti, Herbert, Ursula Le Guin, etc.). These writers are preoccupied with the perennization of the species in the cosmos, but for them this does not involve a domination vis-avis other living beings on the planet, as has been the case up to now, but rather a symbiosis and a harmony with other "conscious" species. We are seeing here also a supersession of anthropocentrism, a theme that has frequently preoccupied writers of science fiction.23
 
-<sup>23</sup> The affirmation of the unity of man involves the recognition that the other is also "man," and that in spite of gross differences, all participate in the same being, the same reality. Hence, killing and
+23 The affirmation of the unity of man involves the recognition that the other is also "man," and that in spite of gross differences, all participate in the same being, the same reality. Hence, killing and
 
 A reduction of the spatial and temporal dimensions of the community only invites a return to what Nazism did: it is a dead end. Capital cannot be content with a restricted community, which is why Nazism wasn't able to prolong itself - Nazism was itself done away with not by democracy, but rather by capital's despotic community, which is based on the reduction of human beings to undifferentiated particles (which is how the democratic phenomenon comes to be reabsorbed).
 
@@ -1669,7 +1649,7 @@ One final note on this subject: the community is almost always envisaged as a pr
 
 Returning now to the question of culture (which is the principle axis of de Benoist's investigations), it is important to note that the problem really began to make itself felt under capitalism in its very early mercantilist and liberal phase, and that it was later taken up by both the reactionaries and the revolutionaries. Marx, for example, suggested and strove for their reconciliation. De Benoist, however, presents us with a theorization of the autonomous development of the human species as a cul-
 
-<sup>24</sup> This is why we have always emphasized the grave dangers lurking within the formula "abolition of work."
+24 This is why we have always emphasized the grave dangers lurking within the formula "abolition of work."
 
 tural fact-an attempt that is in perfect harmony with the representation of capital since this latter can only be the anthropomorphosis of an autonomized being.
 
@@ -1683,7 +1663,7 @@ Genes multiply within enormous colonies (ourselves) in complete security,25 isol
 
 (This is a more sophisticated expression of the old formulation of Weismann on the soma and the germen.) But if geneswhich, being particulars, are expressions of nominalism-do actually determine us, how does chance operate in our lives? How can we choose? ls chance contained as a possibility in a
 
-<sup>25</sup> This is an anthropocentric "anxiety."
+25 This is an anthropocentric "anxiety."
 
 gene? True, de Benoist does have some reservations about this, and he makes some criticisms at the end of the article, but these relate to certain other exaggerated claims of sociobiology, and not at all to the present questions. He concludes:
 
@@ -1759,13 +1739,13 @@ The study of the relationship between nature and culture is most of the time con
 
 The movement itself is about rediscovering what are the fundamental biological givens of man and woman by means of raising cultural barriers. Scientific studies have shown that a great number of the solutions to difficulties posed by certain life phenomena lie in a return to a more natural behavior (i.e. , they involve the elimination of cultural practices). This is the case with childbirth, which is now to be viewed from the point of view of the woman, as well as from that of the child (cf. the Leboyer method of natural childbirth). The same is true for the various psychological problems brought about by the lack of touching, something which is still psychogenetically important (cf. the extraordinary book by Ashley Montagu: Touching, which we shall take up later). All this raises the whole problem of the validity of human interventions (though without falling into a westernized Taoism!).
 
-their ability to become autonomous. How then is it possible, in the light of this, to preserve this activity and presupposition of capital's development? What's more, animal husbandry provided the whole basis for the rise of patriarchy. The practice enabled man in effect not only to verify the reality of his role in procreation, but also to manipulate reproduction. Thereafter it became possible for him to alter his attitude toward women. I don't believe, as Fran�oise d'Eaubonnes does, that animal husbandry enabled men to realize that they had a role in reproduction, but rather that it allowed them to objectify a reality and manipulate it. In a way, animal husbandry was the beginning of the scientific viewpoint, which consists of treating the other (whether it be human being, animal, vegetable, thing) or even the self, as an object.31 This could be seen as consciousness (which is participation) transformed into knowledge (which is manipulation).
+their ability to become autonomous. How then is it possible, in the light of this, to preserve this activity and presupposition of capital's development? What's more, animal husbandry provided the whole basis for the rise of patriarchy. The practice enabled man in effect not only to verify the reality of his role in procreation, but also to manipulate reproduction. Thereafter it became possible for him to alter his attitude toward women. I don't believe, as Franoise d'Eaubonnes does, that animal husbandry enabled men to realize that they had a role in reproduction, but rather that it allowed them to objectify a reality and manipulate it. In a way, animal husbandry was the beginning of the scientific viewpoint, which consists of treating the other (whether it be human being, animal, vegetable, thing) or even the self, as an object.31 This could be seen as consciousness (which is participation) transformed into knowledge (which is manipulation).
 
 Clearly, then, stock raising has to be abandoned, and domesticated animals should be allowed to return, as far as they are able, to a state of nature. They are not indispensable to agriculture, contrary to the opinion of the followers of biodynamics. A cycle of elements can be realized that will regenerate the soil without recourse to manuring.
 
-What has been said on the subject of animal husbandry applies equally to agriculture. Fran�oise d ' Eaubonnes remarks that the desertification of large areas of the Middle East was the result of man's exploitation. But this was not solely the result of men having destroyed the ancient women's way of doing things, which had implied allowing
+What has been said on the subject of animal husbandry applies equally to agriculture. Franoise d ' Eaubonnes remarks that the desertification of large areas of the Middle East was the result of man's exploitation. But this was not solely the result of men having destroyed the ancient women's way of doing things, which had implied allowing
 
-<sup>31</sup>This must of necessity have a considerable bearing on how the other is apprehended. One can understand, then, how in places where science has never developed, it is possible to have civilizations based on the other and not on the self.
+31This must of necessity have a considerable bearing on how the other is apprehended. One can understand, then, how in places where science has never developed, it is possible to have civilizations based on the other and not on the self.
 
 the land to lie fallow, since the practices of ploughing and irrigation were in fact a more important cause of the exhaustion of the soils. The fact that we cultivate or grow plants has to be questioned, because a new bond with nature has to be found. It's not only a question of finishing with monoculture, which is the principle cause today of soil degradation and parasitism, but also of finding a way of producing our food that will not cause any more trouble or disequilibrium.
 
@@ -1777,7 +1757,7 @@ Most of the theoretical debates as well as the various practical attempts to fou
 
 Through inflation one can see in outline an alternative solution to the energy problem. In view of the high prices of oil and
 
-<sup>32</sup>The slide into protectionism is another manifestation of what was seen to happen in the ' 20s. Beyond its significance as a purely economic phenomenon, protectionism denotes a will to preserve identity that is under threat from the international movement of capital. This is how it operated with the Nazis.
+32The slide into protectionism is another manifestation of what was seen to happen in the ' 20s. Beyond its significance as a purely economic phenomenon, protectionism denotes a will to preserve identity that is under threat from the international movement of capital. This is how it operated with the Nazis.
 
 gold it has become possible to finance research into the use of solar energy, geothermic energy, etc., or to invent another gource of energy altogether. Paradoxically, this enormous inflation could hasten the introduction of free goods, in which case a generalized representation of exchange will have disappeared. Yet it will, at the same time, herald a yet more powerful despotism, because it will have been arrived at by two opposing routes: the free movement of inflation leading to a disappearance of prices, and the struggle against inflation implying strict controls over wages and prices. Clearly the first way could not produce this result straightaway because of the power of ancient representations and the actual inability of capital to control everything; in this case, therefore, the 'free goods' would be assigned to each one according to his/her function in the total process of capital.
 
@@ -1825,7 +1805,7 @@ We must flee from Time, we must create a life that is feminine and human-it is t
 
 # Afterword on the Subject of the Anthropomorphosis and the Escape of Capital
 
-The anthropomorphosis of capital is remarkably evident in the work of the new economists, who base their thinking on the fact that man is rational and will seek his own greatest advantage (this proposition forms the basis of microeconomics, and according to liberals it can be verified in reality); if man is rational, then he must be rational in all the dimensions of his individual and social life. Economic science, the science of rational choices, infuses itself into all spheres of activity and ultimately into all disciplines; it is social science par excellence. And here one encounters again Adam Smith's original and unifying conception as expounded by him in The Wealth of Nations ( 1776). To make the point easier to understand, here is a picturesque example taken from the highly esteemed Chicago review Journal of Political Economy (February 1 978): The article is called "A Theory of Extra-marital Affairs." In it, an analysis is made of the time spent with one's spouse and with one's lover, and the conclusion is reached that: "At the optimum, the marginal utility of time spent in the marriage is equal to the marginal utility of time spent in the affair (df/dtl <sup>=</sup> df/dt2)." The decision to take a lover is analogous to the decision to commit a crime, although the degree of religious faith appears in the calculation !
+The anthropomorphosis of capital is remarkably evident in the work of the new economists, who base their thinking on the fact that man is rational and will seek his own greatest advantage (this proposition forms the basis of microeconomics, and according to liberals it can be verified in reality); if man is rational, then he must be rational in all the dimensions of his individual and social life. Economic science, the science of rational choices, infuses itself into all spheres of activity and ultimately into all disciplines; it is social science par excellence. And here one encounters again Adam Smith's original and unifying conception as expounded by him in The Wealth of Nations ( 1776). To make the point easier to understand, here is a picturesque example taken from the highly esteemed Chicago review Journal of Political Economy (February 1 978): The article is called "A Theory of Extra-marital Affairs." In it, an analysis is made of the time spent with one's spouse and with one's lover, and the conclusion is reached that: "At the optimum, the marginal utility of time spent in the marriage is equal to the marginal utility of time spent in the affair (df/dtl = df/dt2)." The decision to take a lover is analogous to the decision to commit a crime, although the degree of religious faith appears in the calculation !
 
 On the subject of criminality as economic activity, Jenny writes:
 
@@ -1867,9 +1847,14 @@ One can agree with the New Right in the recognition of the importance of culture
 
 #### INDEX
 
-| abolition of work, 47, 1 07,<br>1 55-1 56, 229n. See also<br>labor | fictitious, 23, 25, 26, 139<br>movements in opposition to,<br>199-208 |
+| abolition of work, 47, 1 07,
+1 55-1 56, 229n. See also
+labor | fictitious, 23, 25, 26, 139
+movements in opposition to,
+199-208 |
 |--------------------------------------------------------------------|-----------------------------------------------------------------------|
-| Adorno, Theodor, 74, 96n, 1 37, | origins of, 181-1<br>83 |
+| Adorno, Theodor, 74, 96n, 1 37, | origins of, 181-1
+83 |
 | 209n | patriarchy and, 1 92 |
 | Africa, 71, 203, 242, 244 | potential death of, 194-1 99 |
 | aggression, 230, 233n, 234 | presuppositions of, 1 83-1 94 |
@@ -1880,8 +1865,10 @@ One can agree with the New Right in the recognition of the importance of culture
 | animal husbandry, 1 92, 235, | contradictions of, 76, 86 |
 | 237-239 | crisis of, 83, 1 66-1 70 |
 | anthropocentrism, 224-225, | downfall of, 171 |
-| 224-225n,<br>227 | origin and development of, |
-| appearance. See representation | 1 87, 1 88-1<br>89n |
+| 224-225n,
+227 | origin and development of, |
+| appearance. See representation | 1 87, 1 88-1
+89n |
 | Asiatic mode of production | reformism and, 61-62 |
 | (AMP), 42n, 113n, 158, | revolutionary character of, 82 |
 | 1 89n, 1 90 | Cardan, Paul, 1 03n, 1 08n, 144n |
@@ -1889,19 +1876,25 @@ One can agree with the New Right in the recognition of the importance of culture
 | Bebel, August, 60n, l l On | Catholicism, 91, 157, 205 |
 | Bernstein, Eduard, 26, 51, 60 | China, ancient, 1 89, 1 89n, 208n |
 | binary thought, 1 97n, 217, 222, | Chinese Revolution, 1 30, 243 |
-| 223,<br>224-225n | Christianity, 1 52, 1 57, 1 59, |
+| 223,
+224-225n | Christianity, 1 52, 1 57, 1 59, |
 | Bordiga, Amadeo, 28-29n, 51, | 1 84-1 86, 1 84-1 86n, 1 87n, |
-| 61, 72, 80n, 1 29, 131, | 1 90,<br>217n |
-| 1 3<br>l n, 1 66, 174-175 | circulation, of capital, 41, 75, |
+| 61, 72, 80n, 1 29, 131, | 1 90,
+217n |
+| 1 3
+l n, 1 66, 174-175 | circulation, of capital, 41, 75, |
 | bourgeois society, 42, 43, | 143-144, 148, 152 |
-| 47-48, 48, 1 58, 1 99,<br>210 | classes, 55, 60, 95n, 99, |
+| 47-48, 48, 1 58, 1 99,
+210 | classes, 55, 60, 95n, 99, |
 | Capital, 52, 64n, 1 38, 141 | 1 82-1 83, 193, 200 |
 | capital | class consciousness, 57 |
 | abandonment of, 1 95 | disappearance of, 42 |
-| autonomization of, 1 38-1<br>51 | "classism," 59n, 98-100, |
+| autonomization of, 1 38-1
+51 | "classism," 59n, 98-100, |
 | "escape" of, 54, 55, 82, 85, 92, | 172-173, 177 |
 | | communism, 6 1-74, 100, 1 14, |
-| 97, 193,<br>246-250 | |
+| 97, 193,
+246-250 | |
 
 1 19, 1 22, 1 54, 176, 178, 221 community and, 65 preconditions for, 87 community, 96n, 151n, 153, 1 56, 1 74, 178, 1 86n, 1 96. See also Gemeinwesen illusory, 31 Islam and, 1 90 Nazism and, 212 patriarchy and, 1 91-192 primitive, 65-66n, 68n, 71 reactionary concept of, 200 recuperated by capital, 69, 89 reduction of, 227, 228 in Russia, 202-204 as therapeutic, 229 council communism, 37, 58, 61, 1 02, 1 04 credit system, 25, 132 crisis, 83, 1 62, 1 64-1 66, 1 66-170 critique, 1 62-1 64 Critique of the Gotha Program, 52-53 culture, 224-225, 229-232 De Benoist, Alain, 1 85n, 212, 245n on history, 219-22 1 on nature and culture, 223-226, 229-232 nominalism of, 213-219, 222 decadence, 215n, 216 of capital, 47, 48, 51, 79, 80n, 85, 88, 149 of humanity, 80, 88, 89
 
@@ -1911,58 +1904,114 @@ French Revolution, 99, 1 30, 200, 202-203n French Socialist Party, 1 06, 1 06n F
 
 30, 61, 144n History of the Communist Left (Bordiga), 1 74 identity, 23 1 n, 23 1-232 ideology, 28, 56, 1 27 individualism, 1 9, 1 75, 208, 212n individuality, 69, 1 05, 1 05n, 133 individualization, 79, 1 88, 212n, 2 14, 226 International Communist Party (PCI), 25, 28-29n, 32, 37 Invariance Uournal), 172-179 invariance of the proletariat, theory of, 172-173 Islam, 1 57, 1 90, 241, 242n Italian communist left, 28n, 37 Italian Communist Party, 28n Italian Socialist Party, 28n Judaism, 1 57, 1 86n, 190 Kant, Immanuel, 43 , 1 62, 1 63 Kautsky, Karl, 26, 99 Korsch, Karl, 61, 1 02 Kropotkin, Peter, 200, 233n labor, 45-46n, 47, 83. See also abolition of work leftism, 1 22, 1 67 left-right dichotomy, 94-95, 1 24, 1 55, 159 Lenin, V. I., 59, 61 liberation, 68-69, 152-1 61, 1 93 love, 160, 196, 233n, 233-234 Lukacs, Georg, 30, 61, l 02, 144n Luxemburg, Rosa, 36, 61, 74, 209n
 
-| lyc;ee movement (France, 1 973),<br>1 05-1<br>10 | 151, 15ln, 1 52, 1 56, 1 68,<br>201 ,<br>230 |
+| lyc;ee movement (France, 1 973),
+1 05-1
+10 | 151, 15ln, 1 52, 1 56, 1 68,
+201 ,
+230 |
 |---------------------------------------------------------------|-----------------------------------------------------------------|
-| Marx, Karl, 46n, 72, 1 33n, 1 62,<br>1 63,<br>200 | destruction of, 79, 222n<br>human rupture with, 1 87, 1 94, |
-| analysis of productive forces,<br>48-54 | 1 96,<br>224<br>order of, 232-239 |
+| Marx, Karl, 46n, 72, 1 33n, 1 62,
+1 63,
+200 | destruction of, 79, 222n
+human rupture with, 1 87, 1 94, |
+| analysis of productive forces,
+48-54 | 1 96,
+224
+order of, 232-239 |
 | attitude toward revolutionary | regeneration of, 66 |
-| groups, 33-35<br>on crime, 247 | relationship to culture,<br>237-239 |
-| on history, 219, 22<br>1 | Nazism, 48, 91, 96n, 1 14, 149n, |
-| nominalism and, 218-219 | 1 83, 209-2<br>1 0, 211, 212n, |
-| Russian populists and, 62 | 228,<br>240 |
-| superseding of, 161, 1 70-1<br>71 | neolithic period, 191, 205, 226, |
-| as theoretician, 201-202<br>marxism, 26, 89, 101, 1 06, 1 58, | 236<br>new middle classes, 1 00, 1 83, |
-| 1 59, 1 63, 1 67, 1 85n,<br>200, | 193 |
+| groups, 33-35
+on crime, 247 | relationship to culture,
+237-239 |
+| on history, 219, 22
+1 | Nazism, 48, 91, 96n, 1 14, 149n, |
+| nominalism and, 218-219 | 1 83, 209-2
+1 0, 211, 212n, |
+| Russian populists and, 62 | 228,
+240 |
+| superseding of, 161, 1 70-1
+71 | neolithic period, 191, 205, 226, |
+| as theoretician, 201-202
+marxism, 26, 89, 101, 1 06, 1 58, | 236
+new middle classes, 1 00, 1 83, |
+| 1 59, 1 63, 1 67, 1 85n,
+200, | 193 |
 | 222 | Nietzsche, Friedrich, 44, 72, |
-| contradictions of, 75-89 | 1 85-1<br>86n |
-| science and, 213 | nominalism, 213-2<br>1 9, 222, 230 |
+| contradictions of, 75-89 | 1 85-1
+86n |
+| science and, 213 | nominalism, 213-2
+1 9, 222, 230 |
 | "marxist school," 3 3 , 3 7 | nonviolence, 1 17, 117n, 1 69 |
 | material community of capital, | Nouvelle Droite, La. See French |
 | 89, 149, 153, 1 58, 1 64, | New Right |
-| 1 74, 1 90, 191<br>May 1 968 movement, 31, | occult. See mysticism; para<br>sciences |
+| 1 74, 1 90, 191
+May 1 968 movement, 31, | occult. See mysticism; para
+sciences |
 | 98-102, 1 20, 1 34, 1 60, | On the Jewish Question, 1 56, |
-| 1 77, 1 78,<br>209,<br>249-250 | 161 |
+| 1 77, 1 78,
+209,
+249-250 | 161 |
 | meat, consumption of, 234-236 | organic agriculture, 1 67, 1 68 |
 | merchant capital, 147, 1 52, 229 | organic centralism, 25, 29 |
 | microcommunities, 207, 228 | organizations, 1 9-37, 21, 23-24, |
-| militarism, 1 09, 110, l l On, 1 14 | 34n,<br>56,<br>57-58 |
+| militarism, 1 09, 110, l l On, 1 14 | 34n,
+56,
+57-58 |
 | modernization, 110, 111, 1 57 | overpopulation, 66, 1 95, 207, |
 | money, 87, 92n, 142, 148 | 235 |
 | music, 65n, 207 | paganism, 1 58, 205 |
-| mysticism, 1 60, 208<br>mystification, 54-55, 86 | paleolithic period, 191, 205, 235<br>Pannekoek, Anton, 61, 1 65 |
-| nature, 34n, 1 03n, 1 1<br>9-I 20n, | parasciences, 1 59-1 60, |
+| mysticism, 1 60, 208
+mystification, 54-55, 86 | paleolithic period, 191, 205, 235
+Pannekoek, Anton, 61, 1 65 |
+| nature, 34n, 1 03n, 1 1
+9-I 20n, | parasciences, 1 59-1 60, |
 ## | | |
 
-| 216-21 8n<br>Paris Commune, 35, 172 |
+| 216-21 8n
+Paris Commune, 35, 172 |
 |--------------------------------------------------------------------------------------------|
-| parties, revolutionary, 32, 54,<br>57,<br>61, 73 |
-| patriarchy, 191-192,<br>205,<br>206n,<br>238 |
-| philosophy, 68n, 69, 89<br>physics, 65n, 214, 216n |
-| piracy, 208, 208n<br>police, 1 16, 118-1<br>1 9, 121 |
+| parties, revolutionary, 32, 54,
+57,
+61, 73 |
+| patriarchy, 191-192,
+205,
+206n,
+238 |
+| philosophy, 68n, 69, 89
+physics, 65n, 214, 216n |
+| piracy, 208, 208n
+police, 1 16, 118-1
+1 9, 121 |
 | popular front movements, 48 |
-| populism, 62, 203<br>Poverty of Philosophy, The 59 |
-| private property, 64, 1 83, 192,<br>230,<br>237 |
-| production process, 41, 147,<br>1 52, 1 93,<br>202 |
-| productive capital, 142,<br>148-149n |
+| populism, 62, 203
+Poverty of Philosophy, The 59 |
+| private property, 64, 1 83, 192,
+230,
+237 |
+| production process, 41, 147,
+1 52, 1 93,
+202 |
+| productive capital, 142,
+148-149n |
 | productive forces, 96-98, 101, |
-| 1 66, 1 67,<br>215n<br>capital's inability to develop,<br>76,<br>84 |
+| 1 66, 1 67,
+215n
+capital's inability to develop,
+76,
+84 |
 | growth of, 48-56 |
-| Marx on, 80-8<br>1<br>progress, 1 32-1 33, 166, 215n,<br>221 |
+| Marx on, 80-8
+1
+progress, 1 32-1 33, 166, 215n,
+221 |
 | proletariat, 32, 42, 50 |
-| appearance and reality of,<br>36-37 |
-| as defender of capitalism, 101<br>defined by consciousness, 61<br>domestication of, 48, 87 |
+| appearance and reality of,
+36-37 |
+| as defender of capitalism, 101
+defined by consciousness, 61
+domestication of, 48, 87 |
 | mythology of, 57-58, 98-105 |
-| negation of, 153, 173<br>presuppositions of capital and, |
+| negation of, 153, 173
+presuppositions of capital and, |
 
 200-201 reformist character of, 58-61 revolutionary role of, 82 theory of, 159 as universal abstract, 219 race/ethnicity, 217, 226, 227, 23 1-232, 235 rackets, 57, 70, 173, 202. See gangs individualization of, 218n proletariat and, 219 rationality, 246-247 real domination of capital, 39, 72, 95, 112, 148, 1 52, 1 82-1 83, 202, 226 Nazism and, 211, 240 reformism, 58-60, 88, 109, 1 67 regionalism, 168, 205 Reich, Wilhelm, 43, 209n religions, 69, 1 52, 155, 1 56-158, 1 86n, 207-208 representation, 20, 26-27, 40, 103n, 1 26n, 149, 165, 193, 245 French New Right as, 213, 225-226 nominalism and, 217 repressive consciousness, 56-61, 98, 105-106, 115 revolution, 112-113, 1 22-1 24, 1 33-1 34, 153, 1 54, 176-178 biological dimension of, 55, 63, 72, 1 69, 1 98, 205, 206 end of, 1 93 revolutionary reformism, 46n,
 
@@ -1975,10 +2024,14 @@ French Revolution, 99, 1 30, 200, 202-203n French Socialist Party, 1 06, 1 06n F
 | Russia, 202-204. See also | 147 |
 | USSR | |
 | Russian Revolution, 61, 130, | |
-| 172,<br>203,<br>243n | |
-| schools, 1 09, 110-1<br>11 | |
+| 172,
+203,
+243n | |
+| schools, 1 09, 110-1
+11 | |
 | science, 45, 92-95, 97-98, 101, | |
-| 1 1<br>3, 1 27, 148n, 1 59-1 60, | |
+| 1 1
+3, 1 27, 148n, 1 59-1 60, | |
 | 1 62, 1 68, 1 99, 211 | |
 | crisis of, 216-21 8n | 128 |
 | critique and, 1 63 | |
@@ -1988,21 +2041,27 @@ French Revolution, 99, 1 30, 200, 202-203n French Socialist Party, 1 06, 1 06n F
 | Marx on, 78, 201 | |
 | rightist view of, 232n | |
 | "scientism," 88, 201-202 | |
-| self-management, 1 1<br>9, 1 24, 161 | 248 |
-| separation, 67, 70, 191,<br>216n | |
+| self-management, 1 1
+9, 1 24, 161 | 248 |
+| separation, 67, 70, 191,
+216n | |
 | sexuality, 65n, 1 58, 168, 1 69, | |
 | 1 69n, 232 | |
 | situationists, 1 03n, 1 04 | |
 | Slavophilism, 2 l l-2 l 2n | 234n |
 | Smith, Adam, 239, 246 | |
 | socialism, 59, 203 | |
-| sociobiology, 230-23<br>1 | |
+| sociobiology, 230-23
+1 | |
 | species, concept of, 227-228 | |
 | state, the, 71, 73, 1 59, 161, 1 63, | |
-| 175,<br>22ln,<br>226 | |
+| 175,
+22ln,
+226 | |
 | Stimer, Max, 218 | |
 | structuralism, 1 63, 202, 215n, | |
-| 217,<br>230 | |
+| 217,
+230 | |
 ## | | |
 
 students, 1 00, 1 05-110 surplus value, 86, 1 82, 1 92-1 93 technology, 67-68n, 93, 1 27, 1 68, 232n Theories of Surplus Value, 144, theory, 27, 28-29, 69-70, 178-179 totality, 55, 216n, 220n Trotsky, Leon, 46n, 61 trotskyism, 37, 104, 116 underconsumption, 83 "underdeveloped" countries, unions, 58, 59, 1 06, 1 06n universalism, 213-21 5, 217n, 219, 23 1 use value, 1 32-1 33n, 1 38-1 39 USSR, 30, 1 29-130, 210, 24 1-242. See also Russia utopias, 1 05n, 132, 1 33, 208n, value, 25, 39, 68n, 83, 147 Vaneigem, Raoul, 1 86n, 244n vegetarianism, 1 67, 235-236 violence, 93, 1 14-1 1 8, 1 65, 1 98, 234n Volksgemeinschaft, 96n, 212n wage labor, 101, 139 wealth, 77, 80 \Veber, Max, 96n, 181 women, 235, 235n, 238 women's liberation movement. See feminism workers' movement, 56, 59, 206 youth, 1 09, 1 28, 1 29

@@ -1,3 +1,8 @@
+---
+title: "## **The Kurdish Women and Youth Committee of Neighborhoods Call for Nationwide Strike**"
+category: "feminist-theory"
+---
+
 ## **The Kurdish Women and Youth Committee of Neighborhoods Call for Nationwide Strike**
 
 ## **Date:** Unknown

@@ -1,3 +1,8 @@
+---
+title: "## **"Energy Without Injury": From Redwood Summer to Break Free via Occupy Wall Street**"
+category: "environmental-justice"
+---
+
 ## **"Energy Without Injury": From Redwood Summer to Break Free via Occupy Wall Street**
 
 ## **Date:** Thu, 05/26/2016 - 13:14

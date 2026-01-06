@@ -1,3 +1,8 @@
+---
+title: "**Himeyuri students**"
+category: "youth-student-organizing"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Himeyuri_students)
 
 # **Himeyuri students**
@@ -23,7 +28,8 @@ A class of Himeyuri students prior to mobilisation
 | Country | Japan |
 | Branch | Imperial Japanese Army |
 | Type | Nursing unit |
-| Role | Emergency Medical Treatment<br>Munitions transportation |
+| Role | Emergency Medical Treatment
+Munitions transportation |
 
 | Size | 240 |
 |-------------|---------------------|

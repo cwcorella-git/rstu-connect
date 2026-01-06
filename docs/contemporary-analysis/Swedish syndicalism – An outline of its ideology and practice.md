@@ -1,3 +1,8 @@
+---
+title: "## **Swedish syndicalism – An outline of its ideology and practice**"
+category: "contemporary-analysis"
+---
+
 ## **Swedish syndicalism – An outline of its ideology and practice**
 
 ## **Date:** Unknown
@@ -33,7 +38,10 @@ SAC is not a trade union in the narrow sense: an association for only one craft 
 | klas batalo |
 | 3 years 8 months ago |
 | In reply to Welcomebylibcom.org |
-| also i think you are generally in the right to fight for a popular unionism and for<br>tactics/strategies short of the strike weapon in order to build towards this an interesting<br>parallel might be seen in how the tenants movement in your country often avoided strikes in<br>favor of blockades or boycotts of landlords |
+| also i think you are generally in the right to fight for a popular unionism and for
+tactics/strategies short of the strike weapon in order to build towards this an interesting
+parallel might be seen in how the tenants movement in your country often avoided strikes in
+favor of blockades or boycotts of landlords |
 | Joakim |
 | 2 years 11 months ago |
 | Yeah, tenant movements and unions should learn more from each other. |

@@ -1,3 +1,8 @@
+---
+title: "## **Abraham Guillén, 'The military error of "the Left"'**"
+category: "theory"
+---
+
 ## **Abraham Guillén, 'The military error of "the Left"'**
 
 **Date:** Unknown

@@ -1,15 +1,27 @@
+---
+title: "## **Social anarchism or lifestyle anarchism: an unbridgeable chasm - Murray Bookchin**"
+category: "arts-culture-music"
+---
+
 ## **Social anarchism or lifestyle anarchism: an unbridgeable chasm - Murray Bookchin**
 
 | Date: Unknown |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Source:<br>https://libcom.org/article/social-anarchism-or-lifestyle-anarchism-unbridgeable-chasm-murray-bookchin|
+| Source:
+https://libcom.org/article/social-anarchism-or-lifestyle-anarchism-unbridgeable-chasm-murray-bookchin|
 | Tags: Murray Bookchin, activism, anarchism, lifestylism, PDF |
-| Murray Bookchin's polemical essay against the increasingly individualist, misanthropic,<br>mystical and anti-organisational trends in US anarchism still holds relevance today, no less in<br>Britain than the States. |
-| Written in the mid-'90s, his emphasis on collective action to achieve meaningful change over<br>the isolation and ineffectiveness of lifestyle politics should be considered by all those tempted<br>to see anarchism as a subculture to join rather than a practice that informs their interaction<br>within (rather than outside of) society. libcom.org 2005 |
+| Murray Bookchin's polemical essay against the increasingly individualist, misanthropic,
+mystical and anti-organisational trends in US anarchism still holds relevance today, no less in
+Britain than the States. |
+| Written in the mid-'90s, his emphasis on collective action to achieve meaningful change over
+the isolation and ineffectiveness of lifestyle politics should be considered by all those tempted
+to see anarchism as a subculture to join rather than a practice that informs their interaction
+within (rather than outside of) society. libcom.org 2005 |
 | xzebrasx |
 | 18 years 7 months ago |
 | In reply to Welcomebylibcom.org |
-| What can I say - a must read for any contemporary anarchist. You'll benefit of reading it even<br>if you consider yourself a social anarchist. |
+| What can I say - a must read for any contemporary anarchist. You'll benefit of reading it even
+if you consider yourself a social anarchist. |
 
 Anyone knows the exact date when this stuff was written?
 
@@ -18,16 +30,20 @@ Anyone knows the exact date when this stuff was written?
 | 17 years 6 months ago |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | In reply to Welcomebylibcom.org |
-| i used to have a hard copy of this pamphlet (before my dad decided to throw out all my radical<br>books one day) |
+| i used to have a hard copy of this pamphlet (before my dad decided to throw out all my radical
+books one day) |
 | it was one of my favorites |
 | Ken Cat |
 | 16 years 11 months ago |
 | In reply to Welcomebylibcom.org |
-| I am a social anarchist (anarcho communist), yet I am a lifestylist in the sense that I don't sit<br>around complaining about the atrocities of the state I organize and LIVE my philosophy, I<br>demand change by being change myself and I consider myself in no way "individualistic". |
+| I am a social anarchist (anarcho communist), yet I am a lifestylist in the sense that I don't sit
+around complaining about the atrocities of the state I organize and LIVE my philosophy, I
+demand change by being change myself and I consider myself in no way "individualistic". |
 | Django |
 | 16 years 10 months ago |
 | In reply to Welcomebylibcom.org |
-| The point is that it is impossible to 'live' communism in any meaningful sense whilst capitalism<br>exists. Its not like capitalism has an outside that we can drop out into. So even though drop |
+| The point is that it is impossible to 'live' communism in any meaningful sense whilst capitalism
+exists. Its not like capitalism has an outside that we can drop out into. So even though drop |
 
 outs will likely never consider themselves 'individualistic', the fact that a subculture is being substituted for collective action (which has the possibility of breaking with capitalist social relations and actually allowing us to 'live' communism through the process of communisation) means that they are posing an individualistic response to collective problems. Its not like non-dropout anarchist communists like myself who have rent and bills to pay and need to work to do that just 'sit around complaining' either, but rather have a different idea of what political action we can and should be taking.
 
@@ -103,7 +119,8 @@ I think the critique of lifestylism is at its core a critique of secessionist st
 
 So I've been in occupations fed on skipped food. The pop-up union at my work organised a BBQ yesterday with music. Etc. I would say it's generally not a question of the activities themselves but how they're situated. And of course, individuals can say, go skipping, while engaging in outward-oriented politics, and people with class struggle politics can form an insular and inward-looking milieu ghettoised from the wider class.
 
-| * perhaps not a total exception, but i'm highly sceptical these are about anything other than<br>friendly local capitalism. |
+| * perhaps not a total exception, but i'm highly sceptical these are about anything other than
+friendly local capitalism. |
 |-----------------------------------------------------------------------------------------------------------------------------|
 | strypey |
 

@@ -1,3 +1,8 @@
+---
+title: "## **Statements from Alabama Prisoners as Strike Enters Third Week**"
+category: "contemporary-analysis"
+---
+
 ## **Statements from Alabama Prisoners as Strike Enters Third Week**
 
 ## **Date:** Unknown

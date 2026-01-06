@@ -1,3 +1,8 @@
+---
+title: "**How to Master Advanced Animation in Godot: A Comprehensive Guide**"
+category: "contemporary-analysis"
+---
+
 #### [toxigon.com](https://toxigon.com/godot-tutorial-advanced-animation)
 
 # **How to Master Advanced Animation in Godot: A Comprehensive Guide**

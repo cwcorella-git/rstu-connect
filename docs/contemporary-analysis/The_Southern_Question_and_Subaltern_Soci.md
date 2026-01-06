@@ -1,3 +1,8 @@
+---
+title: "**The Southern Question and Subaltern Social Groups and Classes**"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 ## **Rethinking Marxism**
@@ -28,7 +33,7 @@
 
 In late 1934 and early 1935 Italian Marxist theorist Antonio Gramsci developed new notes examining the history of subaltern groups and classes. He did so in poor health and under twenty-four-hour police surveillance while confined to the Cusumano clinic in Formia. This new notebook was distinct from others he had written while incarcerated in a fascist prison in Turi di Bari, where he had been confined between 1929 and 1933. As indicated on its first page, this notebook had been printed in "Ditta Cugiini Rossi—Rome" (Gramsci 2021, 1). This special notebook, alongside all his writings that make up the prison notebooks, explores a period marked by the rise of fascism and outlines a method with which to comprehend it. Gramsci was interested in how the defeat of the working-class movement was related to its failure to win the allegiances of the peasants of the south (Rudé 1980, 9), who were depicted by members of the social elite in the north as "barbaric" and "pathological." Gramsci titled this notebook, "On the Margins of History: The History of Subaltern Groups" (Q25, §1; Gramsci 2021, 3).1
 
-<sup>1.</sup> I follow the lead of Gramsci scholars in citing references to his prison notebooks by notebook number (Q), note number (§), and page number from the source consulted.
+1. I follow the lead of Gramsci scholars in citing references to his prison notebooks by notebook number (Q), note number (§), and page number from the source consulted.
 
 ## ![](_page_1_Picture_7.jpeg)
 
@@ -62,7 +67,7 @@ This conception of the state was a decisive intervention in a conjuncture where 
 
 New work in Gramscian studies has drawn attention to the significance of the Italian philological scholarship for interpreting Gramsci's texts as well the politics of the period. This scholarship provides the historical-geographical context required to understand Gramsci's political thought in his time, and our own (Ives 2004; Brennan 2006; Thomas 2009; Loftus 2019)*.* As Buttigieg has pointed out in his important 1994 essay on "Philology and Politics," Gramsci's attention to the self-organization of the subaltern classes represented a distinct alternative to most "communist political theories and practices." Gramsci was especially concerned about the dogmatic reduction of Marxist theory in the wake of the Stalinist turn in the Communist Party in the mid-1920s. According to Buttigieg, Gramsci thought that it would lead to "catastrophes, causing great damage that can never be repaired." In Gramsci's view, this dogmatism would lead to a "rift" between socialist intellectuals and leaders and the masses of people. As an alternative, Gramsci argued for the development of a "collective organism," one that joined principled political-theoretical work with the self-organized struggles of
 
-<sup>2.</sup> For an elaboration of Gramsci's theory of the integral state, see, e.g., Thomas (2009, 93–5, 137– 41), and Levenson \(2022, 162–79).
+2. For an elaboration of Gramsci's theory of the integral state, see, e.g., Thomas (2009, 93–5, 137– 41), and Levenson \(2022, 162–79).
 
 subaltern groups and classes through a "living philology" (Buttigieg 1994, 122, 136, 137).
 
@@ -74,7 +79,7 @@ In the current conjuncture, "neofascist common sense" combines antipathy to "glo
 
 While it may be tempting to interpret this neo-fascist common sense as part of an unbroken chain of racist nationalism under capitalism, we gain a deeper understanding through a conjunctural analysis. Gramsci's interventions derived their explanatory power from a specific conjuncture, but their implications are not fixed to his time and place (Camp and Heatherton 2023). His methods developed in fascist Italy during the 1920s and 1930s remain relevant in places as diverse as Brazil, India, Italy, the United States, and South Africa in the 2020s. They suggest the political stakes in moving between philological readings of Gramsci and translating his insights about the history of subaltern groups and classes to meet the distinct challenges of the current conjuncture (Hart 2024\). They illustrate that authoritarian resolutions are never inevitable (Denning 2021; Kipfer and Hart
 
-<sup>3.</sup> On "neofascist common sense," see the interview with Paul Gilroy in Wade \(2020\).
+3. On "neofascist common sense," see the interview with Paul Gilroy in Wade \(2020\).
 
 2013), but are rather the product of political struggles where, as Gramsci put it, "various outcomes are possible" (Q4, §38; Gramsci 2021, 41).
 

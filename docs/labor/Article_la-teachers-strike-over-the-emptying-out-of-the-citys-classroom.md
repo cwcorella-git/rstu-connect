@@ -1,12 +1,8 @@
 ---
-title: La Teachers Strike Over The Emptying Out Of The Citys Classroom
-date: 2025
-author: President Caputo
-tags:
-  - organizing
-  - strikes
-  - unions
-  - rent
+title: "La Teachers Strike Over The Emptying Out Of The Citys Classroom"
+author: "President Caputo"
+date: "2025"
+category: "labor"
 ---
 
 # La Teachers Strike Over The Emptying Out Of The Citys Classroom

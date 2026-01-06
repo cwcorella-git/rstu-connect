@@ -1,3 +1,8 @@
+---
+title: "## **The Revolution in Work Calls for an Evolution in Living**"
+category: "contemporary-analysis"
+---
+
 ## **The Revolution in Work Calls for an Evolution in Living**
 
 ## **Date:** Wed, 03/22/2017 - 18:34

@@ -1,3 +1,8 @@
+---
+title: "## **Bandilang Pula, the newsletter of the Diliman Commune**"
+category: "contemporary-analysis"
+---
+
 ## **Bandilang Pula, the newsletter of the Diliman Commune**
 
 ## **Date:** Unknown

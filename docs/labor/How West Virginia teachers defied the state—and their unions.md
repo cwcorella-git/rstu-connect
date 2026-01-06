@@ -1,3 +1,8 @@
+---
+title: "## **How West Virginia teachers defied the state—and their unions**"
+category: "labor"
+---
+
 ## **How West Virginia teachers defied the state—and their unions**
 
 ## **Date:** Unknown
@@ -98,17 +103,22 @@ eattherich
 
 ## In reply to Welcomebylibcom.org
 
-| Thank you so much for this article! Very informative and I learned a lot. Thank you for all your<br>work! |
+| Thank you so much for this article! Very informative and I learned a lot. Thank you for all your
+work! |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Mark Mason |
 | 6 years 5 months ago |
 | In reply to Welcomebylibcom.org |
-| Teachers are not workers. They are not members of the working class. Like police, they<br>betray class solidarity by working to indoctrinate the young into capitalist ideology. Do not<br>support teachers. They are the enemies of the working class. |
+| Teachers are not workers. They are not members of the working class. Like police, they
+betray class solidarity by working to indoctrinate the young into capitalist ideology. Do not
+support teachers. They are the enemies of the working class. |
 | adri |
 | 6 years 5 months ago |
 | In reply to Welcomebylibcom.org |
 | Mark Mason |
-| Teachers are not workers. They are not members of the working class. Like police, they<br>betray class solidarity by working to indoctrinate the young into capitalist ideology. Do not<br>support teachers. They are the enemies of the working class. |
+| Teachers are not workers. They are not members of the working class. Like police, they
+betray class solidarity by working to indoctrinate the young into capitalist ideology. Do not
+support teachers. They are the enemies of the working class. |
 
 Sure education is mostly geared toward preparing students to be in the service of capital (especially at the post-secondary level), but having people able to read and write and do other basic stuff is pretty important imo. Service industry workers are still workers and can still be exploited; the product doesn't have to be a physical commodity. If you at all care what Marx wrote, he literally used a teacher as an example of a 'productive', one who produces surplus value, worker:
 
@@ -132,15 +142,19 @@ jura
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | In reply to Welcomebylibcom.org |
 | zugzwang |
-| If you at all care what Marx wrote, he literally used a teacher as an example of a 'productive',<br>one who produces surplus value, worker: |
-| Not a very good example, as this doesn't apply to public sector teachers. They don't produce<br>surplus value (they're still workers to Marx, just like commercial workers are). |
+| If you at all care what Marx wrote, he literally used a teacher as an example of a 'productive',
+one who produces surplus value, worker: |
+| Not a very good example, as this doesn't apply to public sector teachers. They don't produce
+surplus value (they're still workers to Marx, just like commercial workers are). |
 | adri |
 | 6 years 5 months ago |
 | In reply to Welcomebylibcom.org |
 | jura |
 | zugzwang |
-| If you at all care what Marx wrote, he literally used a teacher as an example of a 'productive',<br>one who produces surplus value, worker: |
-| Not a very good example, as this doesn't apply to public sector teachers. They don't produce<br>surplus value (they're still workers to Marx, just like commercial workers are). |
+| If you at all care what Marx wrote, he literally used a teacher as an example of a 'productive',
+one who produces surplus value, worker: |
+| Not a very good example, as this doesn't apply to public sector teachers. They don't produce
+surplus value (they're still workers to Marx, just like commercial workers are). |
 | Yes it probably wasn't, because the sum of money or funding to public education is just |
 
 consumed and not valorized to create a surplus. I'm guessing for-profit private education, or
@@ -166,13 +180,19 @@ I think "charter schools" are the US equivalent of this and yes, it's getting mo
 | In reply to Welcomebylibcom.org |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | jura |
-| I think "charter schools" are the US equivalent of this and yes, it's getting more prevalent. I<br>don't think it's the dominant model in the US or UK yet though. |
-| It's 72% of secondary schools and 27% of primary schools (and the primary schools change is<br>recent) so it is close to dominant. |
+| I think "charter schools" are the US equivalent of this and yes, it's getting more prevalent. I
+don't think it's the dominant model in the US or UK yet though. |
+| It's 72% of secondary schools and 27% of primary schools (and the primary schools change is
+recent) so it is close to dominant. |
 | Hieronymous |
 | 6 years 5 months ago |
 | In reply to Welcomebylibcom.org |
 | Mike Harman |
 | jura |
-| I think "charter schools" are the US equivalent of this and yes, it's getting more prevalent. I<br>don't think it's the dominant model in the US or UK yet though. |
-| It's 72% of secondary schools and 27% of primary schools (and the primary schools change is<br>recent) so it is close to dominant. |
-| True for the U. S. where 2,721,786 students are in charters and they make up 5.4% of total<br>public school enrollment. California is the highest, with 8.7% of the students going to charters.<br>These statistics were from 2017, yet as you both point out these numbers are growing. |
+| I think "charter schools" are the US equivalent of this and yes, it's getting more prevalent. I
+don't think it's the dominant model in the US or UK yet though. |
+| It's 72% of secondary schools and 27% of primary schools (and the primary schools change is
+recent) so it is close to dominant. |
+| True for the U. S. where 2,721,786 students are in charters and they make up 5.4% of total
+public school enrollment. California is the highest, with 8.7% of the students going to charters.
+These statistics were from 2017, yet as you both point out these numbers are growing. |

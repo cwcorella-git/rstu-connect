@@ -1,3 +1,8 @@
+---
+title: "Once considered the jewels of Empire, the Caribbean has been forsaken in its suffering."
+category: "contemporary-analysis"
+---
+
 Once considered the jewels of Empire, the Caribbean has been forsaken in its suffering.
 
 ## 0:06

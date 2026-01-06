@@ -1,3 +1,8 @@
+---
+title: "## **Fundraiser for Night vision binoculars**"
+category: "technology-digital-justice"
+---
+
 ## **Fundraiser for Night vision binoculars**
 
 ## **Date:** Unknown

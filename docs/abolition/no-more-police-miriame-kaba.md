@@ -1,13 +1,8 @@
 ---
-author: Mariame Kaba
-date: 2025
-title: No More Police - Miriame Kaba
-tags:
-  - abolition
-  - police
-  - strikes
-  - unions
-  - tenants
+title: "No More Police - Miriame Kaba"
+author: "Mariame Kaba"
+date: "2025"
+category: "abolition"
 ---
 
 # No More Police - Miriame Kaba
@@ -34,7 +29,6 @@ tags:
 ### Extracted Text
 
 
-
 ---
 
 ## Page 2
@@ -43,10 +37,6 @@ tags:
 ![Page 2 Complete](images/page_002_full.png)
 
 ### Extracted Text
-
-
-
-
 
 
 “With No More Police, Mariame Kaba and Andrea Ritchie have
@@ -68,11 +58,9 @@ educators,   and    anyone    else   committed        to    imagining    and
 building beyond the carceral world.”
 
 
-
       —Marc Lamont Hill, author of We Still Here: Pandemic,
 
                                      Policing, Protest, and Possibility
-
 
 
 “In the powerful and generative tradition of Black feminist
@@ -92,9 +80,7 @@ love that fuels it, and the brilliant insights that flow from it,
 shine brightly in this book.”
 
 
-
                 —Barbara Ransby, activist, author, and historian
-
 
 
 “An    absolutely      brilliant     contribution.         Black     feminist
@@ -114,7 +100,6 @@ right’ so that we avoid cooptation, learn from our mistakes,
 ### Extracted Text
 
 
-
 give up on the vision of a world where justice and safety live
 
 alongside    each    other.    Generous       and    compelling,         No   More
@@ -124,9 +109,7 @@ Police is a timely and critical intervention; essential reading as
 we continue to optimistically and faithfully fight for freedom.”
 
 
-
                            —Beth Richie, author of Arrested Justice
-
 
 
 “No More Police makes a sharp and compelling Black feminist
@@ -150,13 +133,11 @@ longtime    and     new    organizers,       and    for    anyone    invested   
 learning what it will take to build a movement and get free.”
 
 
-
       —Robyn Maynard, author of Policing Black Lives: State
 
 Violence in Canada from Slavery to the Present and co-author
 
                                                     of Rehearsals for Living
-
 
 
 “More than a synthesis and summation of the conditions of our
@@ -174,7 +155,6 @@ map to a future free of cops and cages and full of care. This is a
 must-read in the abolitionist lexicon.”
 
 
-
 —Ash-Lee Woodard Henderson, Movement for Black Lives
 
                               and co-director of the Highlander Center
@@ -190,7 +170,6 @@ must-read in the abolitionist lexicon.”
 ### Extracted Text
 
 
-
 demand to defund the police and how that demand can be
 
 leveraged toward an even more fundamental transformation of
@@ -204,9 +183,7 @@ recommendations that activists and organizers can put to work
 right now.”
 
 
-
           —Rachel Herzing, co-author of How to Abolish Prisons
-
 
 
 “Kaba and Ritchie are such trusted souls in Black Liberation
@@ -216,7 +193,6 @@ movements and No More Police passionately synthesizes the
 experiences and expertise necessary for building a new world
 
 with less violence on all fronts.”
-
 
 
             —Raquel Willis, author, activist, and board president,
@@ -251,8 +227,6 @@ Fumbling Towards Repair: A Workbook for Community Accountability (with
 
 
                  Missing Daddy (illustrated by bria royal)
-
-
 
 
                        Also by Andrea J. Ritchie
@@ -290,7 +264,6 @@ Queer (In)Justice: The Criminalization of LGBT People in the United States
 ### Extracted Text
 
 
-
 ---
 
 ## Page 7
@@ -314,9 +287,7 @@ in honor of all the people killed, criminalized, and harmed in this one.
 ### Extracted Text
 
 
-
 of … turning the world all over.
-
 
 
                                    —Pat Parker
@@ -333,8 +304,6 @@ of … turning the world all over.
 
 
                             Contents
-
-
 
 
 Foreword
@@ -377,8 +346,6 @@ Index
 
 
                                Foreword
-
-
 
 
 May 25, 2020, is a day we will never forget.
@@ -509,7 +476,6 @@ George Floyd’s murder. Black people organized our communities in the
 ### Extracted Text
 
 
-
 women led the way in Georgia to flip the Senate’s balance of power.
 
 But May 25, 2021, the one-year anniversary of George Floyd’s murder,
@@ -583,7 +549,6 @@ defund the police began in 2014, after police in Ferguson, Missouri, killed
 ![Page 13 Complete](images/page_013_full.png)
 
 ### Extracted Text
-
 
 
 Clark. After the death of Jamar Clark, who was shot by the MPD sixty-one
@@ -661,7 +626,6 @@ sustainability    and     develop    Minnesota’s    emerging     Black     lea
 ### Extracted Text
 
 
-
 as support for houseless people, queer and transgender youth, and mental
 
 health services.
@@ -737,7 +701,6 @@ appointed       by    the    county’s    chief      judge,   rejected        t
 ### Extracted Text
 
 
-
 a citizen’s initiative, the commission delayed its decision until it was too
 
 late for the proposal to go on the 2020 ballot.
@@ -809,7 +772,6 @@ justice and accountability from policymakers and institutions. Though the
 ![Page 16 Complete](images/page_016_full.png)
 
 ### Extracted Text
-
 
 
 hold space, committing to not leave until our communities see true justice.
@@ -887,7 +849,6 @@ Movement Assembly process in Minneapolis to define safety together as a
 ### Extracted Text
 
 
-
 community participation in how we govern our city. Our assemblies are
 
 inspired by participatory self-governance practices in the U.S. South, in
@@ -963,7 +924,6 @@ flash-in-the-pan       moments     are   only    coming    more     rapidly,   w
 ### Extracted Text
 
 
-
 caused by the state.
 
 If we know these moments are patterns, boomeranging back to us with
@@ -1037,7 +997,6 @@ practicing holistic sustainability and our own decolonization, we call on all
 ### Extracted Text
 
 
-
 relationships amongst ourselves, of modeling the world we seek to build.
 
     Reflection is a critical piece of the work. Space for reflection, especially
@@ -1104,10 +1063,7 @@ it takes.
                                      Introduction
 
 
-
-
 When was the moment you first started to question the violence of policing?
-
 
 
 Was it the brutal videotaped 1991 beating of Rodney King? The 1984
@@ -1159,7 +1115,6 @@ headlines. In December 2014, the #SayHerName hashtag created by the
 ![Page 21 Complete](images/page_021_full.png)
 
 ### Extracted Text
-
 
 
 numerous        stories     of   Black   women,       girls,    and   trans    people   killed        and
@@ -1261,8 +1216,6 @@ evidence that policing produces widespread violence and harm daily is
 overwhelming, repeatedly raising the question: what can we do to stop it?
 
 
-
-
 A New Reckoning
 
 The    summer         of   2020   brought     a   new   moment     of    collective      national
@@ -1308,7 +1261,6 @@ communities.
 ![Page 23 Complete](images/page_023_full.png)
 
 ### Extracted Text
-
 
 
 and our collective failure to invest in an infrastructure of care: COVID-19
@@ -1540,7 +1492,6 @@ a little-known, predominantly white unelected board charged with oversight
 ### Extracted Text
 
 
-
 the Charter Commission, delivering a petition with 21,000 signatures to the
 
 city clerk calling for a public vote on the elimination of the mandate to
@@ -1616,7 +1567,6 @@ their own city legislators. Calls to reduce police budgets, police presence,
 ### Extracted Text
 
 
-
 personnel changes, and prosecutions. As pandemic-related shutdowns wore
 
 on, municipal budget hearings moved online, making them more accessible.
@@ -1632,8 +1582,6 @@ the things we need to survive.
 wildfire across the continent and echoed through the streets and the virtual
 
 halls of power: Defund the Police.
-
-
 
 
 The Demand Is Defund the Police
@@ -1767,7 +1715,6 @@ Black liberation, against state and gender-based violence, for transformative
 ### Extracted Text
 
 
-
 “reforming” policing is powerful—both of us have fallen prey to it at
 
 various points—history, experience, and research all point to the reality that
@@ -1841,7 +1788,6 @@ dangerous, some sort of ill-advised new fad. They purposely overlook the
 ![Page 30 Complete](images/page_030_full.png)
 
 ### Extracted Text
-
 
 
 infrastructure needed to produce genuine and lasting safety for all. They
@@ -2067,7 +2013,6 @@ Despite        claims       that    the   movement          to   divest    from 
 ### Extracted Text
 
 
-
 Ceiling
 
 Of course, the demand to defund police is not just about cuts to police
@@ -2141,7 +2086,6 @@ police departments and abolishing policing, the prison industrial complex
 ### Extracted Text
 
 
-
 order it fabricates, while rebuilding a society organized around meeting our
 
 individual and collective needs, as well as the needs of the planet. The
@@ -2203,7 +2147,6 @@ people and communities while investing a tiny fraction of that amount in
 supporting them. Critical Resistance reminds us that:
 
 
-
           Abolition isn’t just about getting rid of buildings full of cages.
 
           It’s also about undoing the society we live in because the PIC
@@ -2240,7 +2183,6 @@ supporting them. Critical Resistance reminds us that:
            Abolition is both a practical organizing tool and a longterm
               77
       goal.
-
 
 
 As conceptualized by sociologist Thomas Mathiesen, abolition can be
@@ -2296,7 +2238,6 @@ Wilson     Gilmore      describes,     “Abolition     is   a    movement      
 ### Extracted Text
 
 
-
 keep the system going. In other words, the goal is to change how we interact
 
 with each other and the planet by putting people before profits, welfare
@@ -2334,8 +2275,6 @@ clear case for why policing can play no role in that future—that is the case
 we make in No More Police.
 
 
-
-
 Our Case for Police Abolition
 
 Our argument for police abolition has three central elements: First, and
@@ -2369,7 +2308,6 @@ communities need to survive and thrive, and by perpetrating violence daily,
 ![Page 37 Complete](images/page_037_full.png)
 
 ### Extracted Text
-
 
 
 Far from distant history, the roots of policing in colonial militias, “Indian
@@ -2447,7 +2385,6 @@ engaged in the project of policing. The goal is not to find Someone Else, if
 ### Extracted Text
 
 
-
 centers. The goal is elimination of the violence inherent in all forms of
 
 policing and incarceration, including those enacted by other institutions of
@@ -2521,7 +2458,6 @@ political home for both of us for close to two decades, with Andrea serving
 ![Page 39 Complete](images/page_039_full.png)
 
 ### Extracted Text
-
 
 
 was part of the editorial team for the Color of Violence anthology and
@@ -2599,7 +2535,6 @@ through groups such as the Chicago Alliance to Free Marissa Alexander
 ### Extracted Text
 
 
-
 Punished, and the No Selves to Defend exhibition that more people know
 
 about the criminalization of survivors like Celia, an enslaved woman who
@@ -2675,7 +2610,6 @@ in the principles of Black feminism, and guided by the central principle that
 ### Extracted Text
 
 
-
 valuable—and therefore are entitled to a multiplicity of tools to be safe,
 
 survive, and thrive. Leading Black feminist abolitionist and INCITE! co-
@@ -2719,8 +2653,6 @@ new forms of accountability, governance, and sociality that create the world
 we want.
 
 
-
-
 A Deeper History of Defund Demands
 
 We are certainly not the first to make the case that policing and punishment
@@ -2730,7 +2662,6 @@ interfere with, rather than produce, safety, nor will we be the last. As Naomi
 Murakawa, professor of African American studies at Princeton, writes in
 
 Colin Kaepernick’s Abolition for the People anthology:
-
 
 
         The call to shrink, dismantle, or abolish police and prisons—
@@ -2759,7 +2690,6 @@ Colin Kaepernick’s Abolition for the People anthology:
          liberation movements, to the creation of Critical Resistance in
                             96
          the late 1990s.
-
 
 
       For instance, calls to divest from police, prisons, and prosecutions echo
@@ -2858,7 +2788,6 @@ Meiners    laid        a    foundation       for     calls     to   defund     p
 #PoliceFreeSchools, writing:
 
 
-
        Because many states spend more on prisons than education, we
 
        have to change funding priorities.… Why not shift budgets
@@ -2874,7 +2803,6 @@ Meiners    laid        a    foundation       for     calls     to   defund     p
        building co-curricular activities such as music, drama, art, and
                  106
        sports?
-
 
 
     In 1999, in response to cuts to education funding and the growth of the
@@ -2984,7 +2912,6 @@ that surveillance, policing, criminalization, prisons, and punishment are
 ### Extracted Text
 
 
-
 approaches have increasingly become the sole response to every harm,
 
 conflict, and need (real or imagined). This carceral approach to addressing
@@ -3014,7 +2941,6 @@ organizations that emerged in the wake of the Ferguson Uprising, made
 defunding police and investing in Black communities one of the six central
 
 planks of its policy platform, the Vision for Black Lives:
-
 
 
       Invest/Divest—We              demand         investments   in    the    education,
@@ -3060,7 +2986,6 @@ ensure   they    were          implemented.    The      BREATHE         Act—su
 ### Extracted Text
 
 
-
 thousands of community sponsors—incorporated defund demands from the
 
 streets into omnibus legislation that would eliminate federal funding for
@@ -3092,8 +3017,6 @@ needs over the past four decades in the U.S. arose within the larger political
 context of the evolution of neoliberal economic policies, in service of the
 
 ongoing project of racial capitalism.
-
-
 
 
 Getting to the Root: Racial Capitalism and
@@ -3211,7 +3134,6 @@ responsibilities downloaded by the state onto individuals and communities
 ![Page 48 Complete](images/page_048_full.png)
 
 ### Extracted Text
-
 
 
 gendered        labor,     placing       additional             pressures    on     low-income           women         of
@@ -3333,7 +3255,6 @@ entitled The Crisis of Criminalization co-authored by Andrea and Beth
 Richie describes criminalization as:
 
 
-
       the social and political process by which society determines
 
       which actions or behaviors—and by who—will be punished by
@@ -3351,7 +3272,6 @@ Richie describes criminalization as:
       disability, and poverty, among others.”
 
 
-
 The   report   emphasizes       that    “criminalization         extends   beyond       laws    and
 
 policies to more symbolic—and more deeply entrenched—processes of
@@ -3365,7 +3285,6 @@ creating categories of people deemed ‘criminals,’” using “highly raciali
 ![Page 50 Complete](images/page_050_full.png)
 
 ### Extracted Text
-
 
 
 ‘welfare queens,’ or ‘bad hombres’… to fuel a generalized state of anxiety
@@ -3443,7 +3362,6 @@ know is that increasing police budgets takes resources away from income
 ### Extracted Text
 
 
-
 and infrastructure to meet basic needs and reduce violence across the board.
 
 As Davis puts it, “The prison industrial system … devours the social wealth
@@ -3451,7 +3369,6 @@ As Davis puts it, “The prison industrial system … devours the social wealth
 needed to address the very problems that have led to spiraling numbers of
               146
 prisoners.”         Meanwhile:
-
 
 
          As   communities          and    community       institutions    like        schools,
@@ -3469,7 +3386,6 @@ prisoners.”         Meanwhile:
          shelters     and     drug    treatment        programs       become      sites    of
                      147
          policing.
-
 
 
 In other words, each fuels the other: neoliberal policies gut the social
@@ -3519,7 +3435,6 @@ wealth and white supremacy. Cops are seeing the threat to their hegemonic
 ### Extracted Text
 
 
-
 defend it as police and politicians realize that defund organizers mean what
 
 we are saying, and that we intend to reorganize society around meeting
@@ -3561,8 +3476,6 @@ or punishment. The goal is to strike at the heart of racial capitalism—and
 remake society anew.
 
 
-
-
 No More Police
 
 No More Police is a book for people who are engaged in movements to
@@ -3590,7 +3503,6 @@ organizers alongside academic research.
 ![Page 53 Complete](images/page_053_full.png)
 
 ### Extracted Text
-
 
 
 for police abolition in the order we articulate them, and instead may choose
@@ -3668,7 +3580,6 @@ strip   searches      and     cavity    searches,     sexual   harassment       
 ### Extracted Text
 
 
-
 Tasers, the pepper spray and tear gas, the chokings, the killings. Yet the
 
 violence of policing doesn’t register in conversations about public safety or
@@ -3688,7 +3599,6 @@ forfeiture. When their violence is factored into the equation, it becomes
 clear that safety for a few is achieved at the expense of many, and greater
 
 safety would be more achievable without police.
-
 
 
 Safety Is Rooted in Abolition
@@ -3741,7 +3651,6 @@ mentally   “unstable,”     never   criminalized—the     truer   this   is.
 ![Page 55 Complete](images/page_055_full.png)
 
 ### Extracted Text
-
 
 
 experience     violence,        including     those    who     seek   assistance    from   police,
@@ -3819,7 +3728,6 @@ prevent and shift conditions that produce violence. Police abolition is a
 ### Extracted Text
 
 
-
 police    and       toward       community-based             models     of    safety,     support,    and
 
 prevention. It is a long-term project that requires both shifting emergency
@@ -3861,7 +3769,6 @@ police violence from happening in the future.                         Simply put
 work.
 
 
-
 But without police, who will we turn to for help? Police abolition is not
 
 about making cops vanish overnight without having shifted the conditions
@@ -3893,7 +3800,6 @@ that multiple actors and institutions, including those being proffered as
 ![Page 57 Complete](images/page_057_full.png)
 
 ### Extracted Text
-
 
 
 and maintaining the order racial capitalism requires. In other words, beware
@@ -4016,7 +3922,6 @@ chapter, we meditate on the principles of Black feminist abolition that guide
 this work and illuminate the path forward.
 
 
-
 No More Police draws on the lessons of the past two years—and the past
 
 two decades—of abolitionist movements toward these goals. It examines the
@@ -4044,7 +3949,6 @@ same time, there has also been an explosion of efforts to dilute, detract,
 ![Page 59 Complete](images/page_059_full.png)
 
 ### Extracted Text
-
 
 
 front.
@@ -4082,13 +3986,8 @@ building safer, more just, and sustainable, thriving communities.
 ### Extracted Text
 
 
-
-
-
-
                                1
 “If they kill her, call us.”
-
 
 
 These    words,      spoken   by   a   Los    Angeles        police      dispatcher    to   a   caller
@@ -4130,7 +4029,6 @@ trans woman engaged in informal economies was deemed unworthy of
 ![Page 61 Complete](images/page_061_full.png)
 
 ### Extracted Text
-
 
 
 “legitimate” businesses, manage a social order premised on violence against
@@ -4208,7 +4106,6 @@ rise—evidence of their own failure to prevent it in spite of the billions
 ### Extracted Text
 
 
-
 laws, and, of course, less scrutiny and less accountability. And they would
 
 like to have it both ways: If officially documented rates of violence fall—as
@@ -4282,10 +4179,7 @@ defensive sought to neutralize the threat by raising the specter of violence
 ### Extracted Text
 
 
-
 defund movement” was sweeping the nation.
-
-
 
 
 Crime and Violence
@@ -4357,13 +4251,11 @@ counted as crime. But what is clear is that the vast majority of what cops do
 ### Extracted Text
 
 
-
 do not necessarily mean that any of us are at greater risk of harm. In fact,
 
 research   shows    that   many           of   us     greatly    overestimate    our   risk    of
                                           19
 experiencing violence or crime.
-
 
 
 The Construction of Crime
@@ -4506,10 +4398,7 @@ free,    quality,        and     accessible     health    care—which          
 ### Extracted Text
 
 
-
 interests of profit.
-
-
 
 
 Criminalization as Power
@@ -4578,7 +4467,6 @@ migrant,    low-income,        disabled,     queer,    and     trans   people   
 ![Page 67 Complete](images/page_067_full.png)
 
 ### Extracted Text
-
 
 
 control.
@@ -4692,8 +4580,6 @@ defense.        Once again, rather than painting an accurate picture of violence
 crime rates describe and enforce a stratified relationship to power.
 
 
-
-
 Cops Control Crime Rates
 
 
@@ -4716,7 +4602,6 @@ Their final report confirmed that reliance on crime data based solely on
 reports to or by police “is wholly insufficient if the goal is to prevent and
 
 reduce community violence.” They go on to explain:
-
 
 
        For one, most violent acts are not measurable with police data
@@ -4747,7 +4632,6 @@ reduce community violence.” They go on to explain:
       security of neighborhood residents, efforts to reduce violence
                                                     48
       should attend to all forms of violence.
-
 
 
 In other words, because crime stats don’t capture all violence and not all
@@ -4811,7 +4695,6 @@ with them. The first two people were perceived as inherently “disorderly,”
 ![Page 70 Complete](images/page_070_full.png)
 
 ### Extracted Text
-
 
 
 hierarchy of power. The cop didn’t see the young white women—part of the
@@ -4966,7 +4849,6 @@ the danger we actually face. For example, homicide statistics don’t just
 ### Extracted Text
 
 
-
 someone is killed in a car accident by a reckless driver. Yet when the news
 
 reports that homicides are going up, it is easy to think we—or people we
@@ -5058,8 +4940,6 @@ contribute to preventable death through their own violence and by starving
 communities of resources that would reduce it.
 
 
-
-
 Cops Don’t Stop Violence or Crime
 
 The vast majority of what cops do has nothing to do with preventing or
@@ -5113,7 +4993,6 @@ University of Albany, wrote in 1994 that “repeated analysis has consistently
 ![Page 74 Complete](images/page_074_full.png)
 
 ### Extracted Text
-
 
 
 Second, the primary strategies adopted by modern police have been shown
@@ -5191,7 +5070,6 @@ the needs underlying the vast majority of 911 calls.
 ### Extracted Text
 
 
-
 in other words, get cops to the scene faster—through changes to staffing and
                                                                                          82
 dispatch procedures have largely been ineffective in reducing crime.                          For
@@ -5211,8 +5089,6 @@ quickly police respond.          In other words, even when people call cops for
 help, no matter how fast they get there, they are primarily documenting
 
 what happened after the fact.
-
-
 
 
 After the Fact
@@ -5263,8 +5139,6 @@ rate has stayed the same as police budgets have skyrocketed over decades.
 ![Page 76 Complete](images/page_076_full.png)
 
 ### Extracted Text
-
-
 
 
 In   some    cases,   police     departments’    response    to       research    showing   that
@@ -5342,7 +5216,6 @@ wield power over data by deciding what constitutes “order” and “disorder,�
 ### Extracted Text
 
 
-
 “orderly,”     this    is   not     surprising.     Even    where     studies     have    found         that
 
 aggressive patrols and drug enforcement in small, targeted areas may have
@@ -5418,7 +5291,6 @@ that are deemed “hot spots” and “problem areas” suitable for “crackdow
 ### Extracted Text
 
 
-
 organized abandonment in the form of targeted divestment from social
 
 services,   infrastructure,      and     public   goods.    Even    the       originators      and
@@ -5446,8 +5318,6 @@ purport to solve, even while admitting that they can’t. If police don’t dete
 interrupt, or solve crime,            why are we investing up to half of city budgets
 
 on them?
-
-
 
 
 Defunding Police Will Decrease Violence
@@ -5566,7 +5436,6 @@ about 6 percent, one of the largest decreases in decades.                       
 ![Page 80 Complete](images/page_080_full.png)
 
 ### Extracted Text
-
 
 
 October 2021 confirming—based on reports from crime victims rather than
@@ -5720,7 +5589,6 @@ combination of a pandemic pressure cooker with increased access to guns is
 ### Extracted Text
 
 
-
 police budgets. But, as Pastor Michael McBride, the executive director of
 
 Live Free USA, a violence-interruption program in Oakland, put it, “People
@@ -5794,7 +5662,6 @@ Chicago, an independent research institution supporting decision-makers in
 ![Page 83 Complete](images/page_083_full.png)
 
 ### Extracted Text
-
 
 
 need more cops because crime is going up.’ If the crime rate goes down, we
@@ -5906,8 +5773,6 @@ or decreasing the number of cops or how much money we spend on them.
 The real choice is between policing and a wide array of other options.
 
 
-
-
 We Can Reduce Violence Without Cops
 
 It’s not that we don’t know how else to create safety. The fact that we do
@@ -5943,7 +5808,6 @@ wage      jobs;   and   community       care,   connection,   and     programs. 
 ![Page 85 Complete](images/page_085_full.png)
 
 ### Extracted Text
-
 
 
 community well-being—because we know that is the only path forward
@@ -6017,7 +5881,6 @@ seven; and Boston, which added fifty-six.
 ![Page 86 Complete](images/page_086_full.png)
 
 ### Extracted Text
-
 
 
 establishment        of    community       nonprofits        had    a   substantively     meaningful
@@ -6266,7 +6129,6 @@ on redefining public safety, can have similar impacts. These programs
       to 19 percent.
 
 
-
 The takeaway here is that research, conversation, and media coverage
 
 around violence, cops, and crime obscures a vast universe of potential
@@ -6278,7 +6140,6 @@ Danielle Sered, author of Until We Reckon and founder of the Common
 Justice program in Brooklyn, which diverts people charged with “violent
 
 crimes” from prosecution to healing, explains:
-
 
 
       Safety is not produced primarily by force. Safety is produced by
@@ -6308,7 +6169,6 @@ crimes” from prosecution to healing, explains:
       dominant, but obsolete.
 
 
-
 It’s time to recognize that decades of pouring more money, resources,
 
 and legitimacy into policing in an attempt to increase safety have failed. We 
@@ -6320,7 +6180,6 @@ and legitimacy into policing in an attempt to increase safety have failed. We
 ![Page 90 Complete](images/page_090_full.png)
 
 ### Extracted Text
-
 
 
 they contribute tremendous violence to our communities. We need to stop
@@ -6352,7 +6211,6 @@ Alexander,        founder   of    the    Detroit   Justice    Center,   wrote   
 Review:
 
 
-
        When we discuss violence, we must uproot a wide range of
 
        myths: the myth that people who are responsible for violence
@@ -6380,8 +6238,6 @@ Review:
        though every single child’s survival is our shared business.
 
 
-
-
 Portions of this chapter are drawn from “Cops Don’t Stop Violence: Combating Narratives Used to
 
 Defend Police Instead of Defunding Them,” by Andrea J. Ritchie and Jared Knowles, Interrupting
@@ -6399,16 +6255,11 @@ content/uploads/2021/07/0726_PoliceDontStop_C.pdf.
 ### Extracted Text
 
 
-
-
-
-
 We are prison industrial complex (PIC) abolitionists not only because our
 
 work and research show us that this is the clearest path to greater safety for
 
 our communities; we are also abolitionists because we are both survivors.
-
 
 
 Mariame:
@@ -6448,7 +6299,6 @@ Mariame:
 ![Page 92 Complete](images/page_092_full.png)
 
 ### Extracted Text
-
 
 
 by    claiming       that    the   boys—who         were          between     the    ages   of
@@ -6533,7 +6383,6 @@ system was corrupt, anti-Black, and deeply reactionary—and
     about     gendered    violence,     policing,     and    prison     industrial
 
     complex abolition.
-
 
 
 Andrea:
@@ -6648,7 +6497,6 @@ Andrea:
       experience.
 
 
-
 We are not alone in calling for defunding and abolishing police as
 
 survivors of violence. For instance, Amita Swadhin—a survivor of child
@@ -6660,7 +6508,6 @@ punishment. Swadhin is the founder of Mirror Memoirs, an oral history
 project   uplifting   the    narratives,   healing,    and    leadership    of    LGBTQI
 
 survivors of color. In a February 2020 Facebook post, they wrote:
-
 
 
       I believe people who commit rape must be held accountable.
@@ -6693,7 +6540,6 @@ survivors of color. In a February 2020 Facebook post, they wrote:
         forms    of    rape,      and       that   means    taking     a    stand   against    the
                                                                                2
         institutions and cultural norms that promote rape.
-
 
 
 Similarly,      Aishah        Shahidah-Simmons,                   creator    of     NO!    The       Rape
@@ -6757,7 +6603,6 @@ them.
 ![Page 96 Complete](images/page_096_full.png)
 
 ### Extracted Text
-
 
 
                                                                                           6
@@ -6928,7 +6773,6 @@ experience in a June 2021 op-ed calling for a 50 percent cut to the budget of
 the police department that killed Breonna Taylor:
 
 
-
         I was assaulted on campus at the University of Louisville by
 
         someone I knew. As scared as I was, I called 911. The city
@@ -6948,7 +6792,6 @@ the police department that killed Breonna Taylor:
         than a misunderstanding, I felt just as helpless.
                                                                       32
              That was the last time I called the police.
-
 
 
      Two-thirds of survivors and service providers said police use force
@@ -7066,7 +6909,6 @@ help. For instance, 89 percent of survivors and service providers indicate
 ### Extracted Text
 
 
-
 (“child welfare”); 61 percent stated it can cause survivors to face criminal
 
 charges that could lead to deportation; and 70 percent reported that contact
@@ -7098,7 +6940,6 @@ punishment. Mariame’s experience is bolstered by the research. A national
 study of survivors and service providers found that:
 
 
-
          (1)   Survivors were looking for options other than punishment
 
                for the abuser, options that were not necessarily focused on
@@ -7116,7 +6957,6 @@ study of survivors and service providers found that:
                believed that it was complicated, lengthy, and would cause
                                                   42
                them to suffer more trauma.
-
 
 
 Survivors simply want the violence to end. They want safety and healing.
@@ -7142,7 +6982,6 @@ the family regulation system, or simply loss of agency over the outcome. As
 ### Extracted Text
 
 
-
 experiencing—or take matters into their own hands—than involve a system
 
 that puts them at risk for receiving either no response, or a response that
@@ -7162,7 +7001,6 @@ Lewis    gives       a   profoundly      poignant       example      rooted    i
 experience as a survivor of gun violence:
 
 
-
         In January 2007, I was caught in a hail of stray bullets that were
 
         the result of a drive-by shooting. Bullet holes peppered my car
@@ -7178,7 +7016,6 @@ experience as a survivor of gun violence:
         episode still haunts me, but not for the reasons that most might
                     44
         assume.
-
 
 
 Lewis describes being detained in a cop car following the shooting for
@@ -7214,7 +7051,6 @@ extended to the rest of the criminal punishment system:
 ![Page 102 Complete](images/page_102_full.png)
 
 ### Extracted Text
-
 
 
 of no consequence to the state—particularly because my desires
@@ -7297,7 +7133,6 @@ centered unless we are acceptably violent enough to justify the
       enough for our dissent to actually matter.
 
 
-
 The result of our exclusive reliance on criminalization to address violence is
 
 that an increasing number of survivors—especially migrants, people in the
@@ -7367,7 +7202,6 @@ understanding     that    increased      criminalization          of    domestic
 ![Page 104 Complete](images/page_104_full.png)
 
 ### Extracted Text
-
 
 
 already      facing       significant          strain—a            causal      factor     for     gender-based
@@ -7481,7 +7315,6 @@ increase by orders of magnitude without bringing an end to the violence. As
 abolitionist legal scholar Dean Spade points out:
 
 
-
        Violence, especially sexual violence, is so common that we
 
        couldn’t possibly lock away every person who engages in it.…
@@ -7515,7 +7348,6 @@ abolitionist legal scholar Dean Spade points out:
 ![Page 106 Complete](images/page_106_full.png)
 
 ### Extracted Text
-
 
 
 others—rooted in narratives perpetuated through and beyond slavery—that
@@ -7571,8 +7403,6 @@ transphobic violence. And they will keep us from investing in what will
 actually produce greater safety for survivors.
 
 
-
-
 Cops Perpetrate Violence
 
 The catastrophic failure of policing and punishment to produce safety for
@@ -7590,7 +7420,6 @@ migrant, queer, and trans people. As Native scholars have elaborated, theft
 ![Page 107 Complete](images/page_107_full.png)
 
 ### Extracted Text
-
 
 
 inhabitants have gender-based and sexual violence at their core. Rape is,
@@ -7701,11 +7530,7 @@ which multiple forms and sites of violence—including state violence—fuel
 and reinforce each other.
 
 
-
-
 Monica Cosby, designed by Sarah Ross.
-
-
 
 
 Criminalization—no matter whether we are talking about survivors,
@@ -7761,9 +7586,7 @@ abolitionist, who calls them “primary perpetrators” of violence against
 women and queer and trans people of color.
 
 
-
 The Violence Matrix
-
 
 
                     Physical                Sexual
@@ -7846,13 +7669,11 @@ place. Responses need to be developed that take all of the forms of abuse and al
 of the spheres within which injustice occurs into account.
 
 
-
 Beth E. Richie, Arrested Justice: Black Women, Violence, and America’s Prison
 
 Nation (New York: New York University Press, 2021). Do not duplicate without
 
 proper citation.
-
 
 
       Systems of policing and imprisonment that justify their existence and
@@ -7896,10 +7717,7 @@ including police—and attention to what will actually produce safety for
 ### Extracted Text
 
 
-
 survivors of gender-based violence.
-
-
 
 
 Anti-Carceral Movements Against Gender-Based
@@ -7927,7 +7745,6 @@ These questions are far from new. Black and Indigenous feminists, other
 feminists of color, and white socialist-feminists have been asking them for
 
 decades.
-
 
 
 Survivor Roots of Police Abolition
@@ -7970,11 +7787,9 @@ option.
 ### Extracted Text
 
 
-
 addressed   these    tensions    in    an    open    letter   published    in   the    feminist
 
 magazine Off Our Backs:
-
 
 
      This is an open letter to the anti-rape movement. We, the
@@ -8085,7 +7900,6 @@ magazine Off Our Backs:
          contractual obligation—to persuade women to report rapes to
                        72
          the police.
-
 
 
 Despite     these   clearly      articulated        concerns,     investment      in    policing   and
@@ -8200,9 +8014,7 @@ safety of many survivors of violence. Mariame has firsthand experience of
 ### Extracted Text
 
 
-
 SCWAR open letter, Mariame wrote:
-
 
 
        When I entered the field, we were far removed from the origins
@@ -8220,7 +8032,6 @@ SCWAR open letter, Mariame wrote:
        consistently rejected what we were offering, which were mainly
                                  80
        legal solutions.
-
 
 
 This is how Mariame came to the position that we need something different.
@@ -8351,7 +8162,6 @@ victims.” This is in part because of their dependence on funding that
 ### Extracted Text
 
 
-
 historical racialized narratives about violence. As a result, anti-domestic
 
 and sexual violence organizations have refused to participate in organizing
@@ -8423,7 +8233,6 @@ enforce loitering laws, youth job programs, and increased police patrols
 ![Page 118 Complete](images/page_118_full.png)
 
 ### Extracted Text
-
 
 
 members of the group and was later completely repudiated.
@@ -8501,7 +8310,6 @@ women decided that they would not be intimidated and that they would
 ### Extracted Text
 
 
-
 lessons, foremost among them that politicians will always rush to offer more
 
 policing as a public safety intervention.
@@ -8575,7 +8383,6 @@ led    mainstream   anti-violence   organizations.        Like   SCWAR,   instea
 ![Page 120 Complete](images/page_120_full.png)
 
 ### Extracted Text
-
 
 
 shaped by Black feminism, was guided by the question “What would it take
@@ -8653,7 +8460,6 @@ impacted by violence have been consistent in their calls for investing in
 ### Extracted Text
 
 
-
 decades      since    SCWAR          sounded       the      alarm        about    the      anti-violence
 
 movement’s growing reliance on law enforcement, and two decades after
@@ -8667,7 +8473,6 @@ state   violence,     more    than     fifty    mainstream            anti-viole
 across the country responded with a statement entitled “A Moment of
 
 Truth”:
-
 
 
         We, the undersigned sexual assault and domestic violence state
@@ -8734,7 +8539,6 @@ Truth”:
                  approaches            created          by     BIPOC     leaders        and         used
                                                                         96
                  successfully in BIPOC communities.
-
 
 
 The statement goes on to call for investment in “care, not cops—to shift the
@@ -8806,7 +8610,6 @@ PIC abolitionists about the role of police. Since the summer of 2020, we
 ![Page 123 Complete](images/page_123_full.png)
 
 ### Extracted Text
-
 
 
 and government agencies across the country about the relationship between
@@ -8884,7 +8687,6 @@ ending violence to a system that increases it while consistently failing to
 ### Extracted Text
 
 
-
 solutions. We know there is no single system, no “other” police, that we can
 
 delegate the problem to. We know that there is just us—and that ending
@@ -8940,8 +8742,6 @@ violence prevention and intervention strategies—and by transforming the
 cultures that make gender-based violence possible in the first place.
 
 
-
-
 Where Do We Go from Here?
 
 For us, the question is: “How do we create safety outside of carceral
@@ -8957,7 +8757,6 @@ punishment; invest in the resources individuals and communities need to be
 ![Page 125 Complete](images/page_125_full.png)
 
 ### Extracted Text
-
 
 
 infrastructure to prevent, interrupt, respond to, and transform harm. This is
@@ -9035,7 +8834,6 @@ transformative justice as pathways to safety. They include informal conflict
 ### Extracted Text
 
 
-
 responses that leverage the moral authority of respected people in the
 
 community to intervene in patterns of violence before they escalate, and
@@ -9065,7 +8863,6 @@ uncomplicated. While most survivors never contact the police, many also
 face silence and complicity in the very communities we are proposing to
 
 turn to. As Mallika Kaur, founder of the Sikh Family Center, describes:
-
 
 
        I have had strangers step up and provide shelter; friends pack
@@ -9114,7 +8911,6 @@ turn to. As Mallika Kaur, founder of the Sikh Family Center, describes:
        emotionally, even physically) for a survivor to seek safety,
                                                          108
        within the relationship or outside of it.
-
 
 
 We know that armed agents of the state cannot produce safety for the
@@ -9186,7 +8982,6 @@ community is at once a radical vision, a fugitive possibility, and a struggle
 ### Extracted Text
 
 
-
 learning from the histories of violence and how they impact individuals and
 
 communities on multiple scales. And it is only by listening to the needs
@@ -9202,10 +8997,6 @@ articulated by survivors that we stand a chance of creating safety for all.
 ### Extracted Text
 
 
-
-
-
-
     chokehold bans = please find another way to kill Black people
 
     body cameras = please press record when you kill Black people
@@ -9215,19 +9006,13 @@ articulated by survivors that we stand a chance of creating safety for all.
        killed must be made public
 
 
-
             —Rosamond S. King, “Breathe. As in,” All the Rage (2021)
-
-
 
 
     I am sick of symbolic things—we are fighting for our lives.
 
 
-
                                                       —Fannie Lou Hamer
-
-
 
 
 Following   the   November   2020    elections,   Democratic   leadership   called
@@ -9249,7 +9034,6 @@ should be able to reform the criminal justice system so that it’s not biased
 ![Page 130 Complete](images/page_130_full.png)
 
 ### Extracted Text
-
 
 
 ‘defund the police.’ But you know, you lost a big audience the minute you
@@ -9325,7 +9109,6 @@ went the reformist refrain—as though the more than $100 billion poured
 ![Page 131 Complete](images/page_131_full.png)
 
 ### Extracted Text
-
 
 
 money, tools, training, and resources to do their jobs well.
@@ -9557,7 +9340,6 @@ organization         dedicated    to   police   reform,     tried   to   appear 
 ### Extracted Text
 
 
-
 abolitionist assertions that “budgets are moral documents,” CPE prescribed
 
 a   “rigorous      analysis”       of    the    demand        for    “public    safety”     and       use     of
@@ -9609,8 +9391,6 @@ emerging from a place of clarity around what policing is and does, and why
 efforts to change it have failed.
 
 
-
-
 Reform on Repeat
 
 As historian Elizabeth Hinton illustrates in her books From the War on
@@ -9630,7 +9410,6 @@ producing recommendations trumpeted as the solutions to police violence
 ![Page 135 Complete](images/page_135_full.png)
 
 ### Extracted Text
-
 
 
 State Senate’s Lexow Committee investigation was one of the first major
@@ -9892,7 +9671,6 @@ killings of Michael Brown in Ferguson and Eric Garner in New York in
 Abolitionist organizer Rachel Herzing describes this repetitive rehashing:
 
 
-
         Like periods following other rebellions against the violence of
 
         policing,      2014   ushered      in    a    rash    of   newly    minted     experts
@@ -9906,7 +9684,6 @@ Abolitionist organizer Rachel Herzing describes this repetitive rehashing:
         training,      community     oversight             bodies,   community         policing
                                                                                   64
         plans packaged in a range of public relations rhetoric.
-
 
 
 Not one of these investigations has ended the violence of policing, nor has
@@ -9940,7 +9717,6 @@ the police killing of Freddie Gray costs Baltimore $1.5 million a year. The
 ### Extracted Text
 
 
-
 $28 million; since 2012, New Orleans and Seattle have spent $55 million
                                            66
 and $100 million respectively.                  Yet the federal government’s response to
@@ -9958,8 +9734,6 @@ or better implementation: “the failure of these reforms rests more properly
 on    a   misunderstanding      (or    willful     ignorance)      of    what      policing   is     and
           68
 does.”
-
-
 
 
 You Can’t Reform Something That Is Doing What
@@ -10015,7 +9789,6 @@ Murakawa       calls   “a   crisis    of   their   own   making.”           
 ### Extracted Text
 
 
-
 while legitimizing police and funneling more resources and power to them
                                                                       73
 under    the    pretext     of    addressing     the   problem.            Reform       re-entrenches
@@ -10037,8 +9810,6 @@ do not work.”         Yet, we are asked to believe that this time, we can get 
 right. We are told that abolition is magical thinking. But what is magical
 
 thinking, if not a perpetual belief that failed reforms will eventually work?
-
-
 
 
 More Rules Do Not Mean Less Violence
@@ -10088,7 +9859,6 @@ refers to the amount of force that is “necessary”—defined by a cop’s
 ![Page 141 Complete](images/page_141_full.png)
 
 ### Extracted Text
-
 
 
 futility of the new policy, a Minneapolis cop interpreted this to mean that it
@@ -10244,7 +10014,6 @@ expansive and strategic use of violence.
 ### Extracted Text
 
 
-
 City    Council     from     passing    a    law     to   enshrine   the    police     department’s
 
 chokehold ban, calling it an “anti-police policy” and claiming it kept them
@@ -10320,12 +10089,9 @@ nationwide.         At what point will we recognize that law and policy are
 ### Extracted Text
 
 
-
 acknowledge that the only rules governing policing are those that maintain
 
 existing structures and relations of power?
-
-
 
 
 Technology Won’t Save Us
@@ -10351,7 +10117,6 @@ was frequently raised as an example of a city that had already successfully
 done so. Yet, as McQuade wrote in The Appeal:
 
 
-
        Camden is not a model for structural change … ubiquitous
 
        surveillance     and     aggressive      policing        lurks    underneath     the
@@ -10365,7 +10130,6 @@ done so. Yet, as McQuade wrote in The Appeal:
        scanners, all feeding data to the Real Time Tactical Operational
                                                 106
        Intelligence Center (RT-TOIC).
-
 
 
      Members of the “new” department engaged in the same practices as
@@ -10393,7 +10157,6 @@ amounts to an average of 1.7 citations per resident, including toddlers.
 ![Page 145 Complete](images/page_145_full.png)
 
 ### Extracted Text
-
 
 
 done to address them. Meanwhile, the same discrimination that plagues
@@ -10549,7 +10312,6 @@ creates more possibilities for surveillance.
 ### Extracted Text
 
 
-
 Crises of police legitimacy consistently produce calls to “improve police-
 
 community relations.” This logic locates the problem of police failure to
@@ -10621,7 +10383,6 @@ residents or tenants. It also excluded perspectives that do not align with
 ![Page 148 Complete](images/page_148_full.png)
 
 ### Extracted Text
-
 
 
 “crime”—e.g.,        young    people       loitering    after        school;    residents      of   an
@@ -10697,10 +10458,7 @@ violence, community policing creates more opportunities for it by infusing
 ### Extracted Text
 
 
-
 power, and deputizing community members to implement their agenda.
-
-
 
 
 The Lure of Reform
@@ -10770,7 +10528,6 @@ organization’s board: “We don’t need more laws and rules. Rules never work
 ![Page 150 Complete](images/page_150_full.png)
 
 ### Extracted Text
-
 
 
 out loud as Andrea explained the “protections” from police violence offered
@@ -10848,7 +10605,6 @@ levels of police violence, runs into similar problems. Attempting to change
 ### Extracted Text
 
 
-
 only increases police power over them. Organizer and lawyer Talila A.
 
 Lewis has documented the ways in which reforms intended to make police
@@ -10924,7 +10680,6 @@ violence (again, because violence is inherent to what police do), both would
 ### Extracted Text
 
 
-
 survivors and families than they already do through smear campaigns,
 
 concealing evidence, and dragging civil litigation out over years and years.
@@ -10962,8 +10717,6 @@ yet   engaging   with   their   impacts    on    community   members   in   real
 reoriented our positions toward the horizon of abolition.
 
 
-
-
 Can’t We Do Both?
 
 You might ask, Why can’t we take a “both/and” approach—defund and
@@ -10999,7 +10752,6 @@ police because it reinvests money and legitimacy into policing—all in an
 ### Extracted Text
 
 
-
 illustrative example, funders focused on policing issues invested heavily in
 
 organizations who drafted and supported the JPA, which would have poured
@@ -11033,8 +10785,6 @@ We don’t all need to be abolitionists. But we do all need to make a
 choice—will we continue to invest in attempts to “fix” policing or seek
 
 changes that will reduce and eliminate it?
-
-
 
 
 Making Transformative Demands: An Evaluative
@@ -11124,7 +10874,6 @@ Key     questions        that   can    help    us    guide     this    process  
 include:
 
 
-
         Does the proposal provide material relief or reduce harm to people
 
         currently affected by the violence of policing?
@@ -11193,11 +10942,9 @@ include:
        fight, experiment, and build new things?
 
 
-
 Using   these   questions,    organizers    workshopped       demands     being
 
 advanced by different formations across Chicago at the time, including:
-
 
 
        Defund the police in local, state, and federal budgets, and invest
@@ -11223,7 +10970,6 @@ advanced by different formations across Chicago at the time, including:
 ![Page 156 Complete](images/page_156_full.png)
 
 ### Extracted Text
-
 
 
 seen,    unpaid        and    paid)      must     be     valued    and    supported,     not
@@ -11295,7 +11041,6 @@ contributed to the deaths of Black Chicagoans.
 ![Page 157 Complete](images/page_157_full.png)
 
 ### Extracted Text
-
 
 
 hiring, firing, subpoena, and budgeting power. The creation of a
@@ -11376,7 +11121,6 @@ community          mental      health     clinics    while       steadily   incr
         in the cover-up of the video of McDonald’s murder.
 
 
-
 Applying the framework questions to the policy proposals, organizers
 
 deliberated extensively. The goal was to identify demands that would best
@@ -11404,7 +11148,6 @@ demands focused on policing, prefiguring the defund demands that would
 spread across the country five years later:
 
 
-
         Fully     participatory    city    and      county    budgets      to   defund     law
 
         enforcement       and   #FundBlackFutures            (quality   public     education,
@@ -11416,7 +11159,6 @@ spread across the country five years later:
         Ending the criminalization of survival;
 
         Call for the resignation of both Alvarez and Emanuel.
-
 
 
 The group chose to deprioritize demands that focused on calling for or
@@ -11446,7 +11188,6 @@ more contact between youth and cops, more policies, more laws, more
 ![Page 159 Complete](images/page_159_full.png)
 
 ### Extracted Text
-
 
 
 might we be today? As we contemplate new mental health crisis responses,
@@ -11524,7 +11265,6 @@ While    these      settlements    represent     critical—though         often
 ### Extracted Text
 
 
-
 suffered, civil litigation has not stemmed the tide of police violence. Using
 
 the questions outlined above to evaluate calls to repeal qualified immunity,
@@ -11600,7 +11340,6 @@ depending on how it is used and to what ends.                          What matt
 ### Extracted Text
 
 
-
 constantly   assess   the    impacts,    unintended     consequences,   and    potential
 
 backlash that proposed changes could prompt. We can’t always anticipate
@@ -11668,10 +11407,6 @@ better society.
 ![Page 162 Complete](images/page_162_full.png)
 
 ### Extracted Text
-
-
-
-
 
 
                                                                       1
@@ -11749,7 +11484,6 @@ state violence with less perceptible—but no less harmful—forms of it.
 ### Extracted Text
 
 
-
 ---
 
 ## Page 165
@@ -11758,7 +11492,6 @@ state violence with less perceptible—but no less harmful—forms of it.
 ![Page 165 Complete](images/page_165_full.png)
 
 ### Extracted Text
-
 
 
 alternative can actually undermine movements to defund police and invest
@@ -11814,8 +11547,6 @@ violence of policing, we can’t stop at eliminating cops, and we need to pay
 careful attention to what we put in their place.
 
 
-
-
 Social Policy and Police: A Quick History
 
 The term “policing” was first used in the fifteenth century, as capitalism
@@ -11833,7 +11564,6 @@ different economic arrangement than what people had been used to up until
 ![Page 166 Complete](images/page_166_full.png)
 
 ### Extracted Text
-
 
 
 communal      subsistence,        which         was    structured    around         the     smaller-scale
@@ -11989,7 +11719,6 @@ force people to “prove” that they’re deserving of what they need. This
 ### Extracted Text
 
 
-
 “deserving” and “undeserving,” and then assigning resources, surveilling,
 
 containing, and controlling them to fabricate order, pacify the population,
@@ -12063,7 +11792,6 @@ punishment by public officials.”
 ![Page 169 Complete](images/page_169_full.png)
 
 ### Extracted Text
-
 
 
 assistance was no coincidence; it happened just as civil rights victories
@@ -12141,7 +11869,6 @@ queer and trans people called the Welfare Warriors, emphasizes how strict
 ### Extracted Text
 
 
-
 by   tying   access    to   benefits      to    the    “same      gendered,       ableist,    anti-black,
 
 transphobic,      homophobic          violence”        that      creates       obstacles     to   securing
@@ -12217,7 +11944,6 @@ who use prohibited substances are deemed deviant and mandated into
 ### Extracted Text
 
 
-
 marker on their identification doesn’t match the gender assigned by the state
 
 at birth are disciplined through the denial of gender-affirming medical care,
@@ -12265,8 +11991,6 @@ providers designated as “mandated reporters”—individuals and institutions
 that are required to report information to the police.
 
 
-
-
 Someone Else, Somewhere Else41
 
 Whether enacted by police or policy, current approaches to social problems
@@ -12290,7 +12014,6 @@ with?
 ![Page 172 Complete](images/page_172_full.png)
 
 ### Extracted Text
-
 
 
 sense”    presumption            that    we     need     to    continue       to    control      currently
@@ -12444,7 +12167,6 @@ incarcerated        to     be    scuttled     away.     Many   situations     (e
 ### Extracted Text
 
 
-
 beyond ensuring that everyone’s needs are met. Others require a multitude
 
 of responses and systems built around meeting individual and collective
@@ -12464,8 +12186,6 @@ We must rebuild the “common sense” of collective care. What follows is an
 examination of how this might be accomplished within different threads of
 
 current movements to divest from police.
-
-
 
 
 From “Counselors, Not Cops” to Police-Free
@@ -12517,7 +12237,6 @@ offenses.        Police presence continued to grow in schools, ostensibly in
 ![Page 175 Complete](images/page_175_full.png)
 
 ### Extracted Text
-
 
 
 escalation was made possible by substantial financial and regulatory support
@@ -12670,7 +12389,6 @@ greater detail in the “Experiment and Build” chapter.
 ### Extracted Text
 
 
-
 Cops”
 
 Drug War “Treatment”
@@ -12820,7 +12538,6 @@ addiction as an individual “condition” to be cured rather than meeting the
 ### Extracted Text
 
 
-
 social conditions that shape and drive substance use. That individualistic
 
 focus also makes it easier to avoid asking important questions about the
@@ -12828,8 +12545,6 @@ focus also makes it easier to avoid asking important questions about the
 social policy that drives the decisions behind which drugs are criminalized,
                                                                      89
 why, how, and in service of what larger agendas.
-
-
 
 
 Mental Health “Treatment”
@@ -13050,14 +12765,11 @@ voluntary, low-threshold, accessible, harm-reduction-based preventative and
 ### Extracted Text
 
 
-
 preventable crisis? These are among the questions we must ask ourselves as
 
 we navigate increased political will and funding to re-examine mental
 
 health crisis response.
-
-
 
 
 Sex Work “Treatment”
@@ -13126,7 +12838,6 @@ labor market and patriarchal social norms. “Job readiness” classes prepare
 ### Extracted Text
 
 
-
 including sexual abuse—is rampant. Of course, there is often no job at the
 
 end of the “readiness” program—particularly for people with a criminal
@@ -13162,7 +12873,6 @@ focused on policing their efforts to survive. In fact, community organizer
 Jenna Torres wrote in Rewire:
 
 
-
         I didn’t need to be treated for sex work. That isn’t an illness …
 
         the   sessions      …      hampered    my     ability    to      create    a   better
@@ -13180,7 +12890,6 @@ Jenna Torres wrote in Rewire:
         Nobody       was    hiring    an   18-year-old       parent      of   three    young
                                                        109
         children with a full college schedule.
-
 
 
       Even people whose experiences fit predominant narratives of coercion,
@@ -13202,7 +12911,6 @@ the   sex   trades    vulnerable     to    violence   in   the   first    place.
 ### Extracted Text
 
 
-
 counseling is punished through incarceration, which only leads to further
 
 violence. In one particularly heartbreaking case, when Black trans woman
@@ -13212,8 +12920,6 @@ Layleen Polanco Xtravaganza missed a counseling session mandated by a
 prostitution diversion program, she was sent to Rikers jail, where she died
                                   110
 in solitary confinement.
-
-
 
 
 Criminalization Through Treatment
@@ -13276,7 +12982,6 @@ reproductive justice organization SisterSong and the Center for Advancing
 ![Page 185 Complete](images/page_185_full.png)
 
 ### Extracted Text
-
 
 
 health workers from reproductive justice, migrant, trans, drug policy, and
@@ -13352,7 +13057,6 @@ her    as     “noncompliant”       because       she       couldn’t    fol
 ![Page 186 Complete](images/page_186_full.png)
 
 ### Extracted Text
-
 
 
 woman had prescription pain pills that did not belong to her, they took her
@@ -13477,8 +13181,6 @@ protecting wealth accumulation are revealed as the core purpose of the “soft
 police.”
 
 
-
-
 Disability Justice and “Treatment”
 
 
@@ -13503,7 +13205,6 @@ social policy intended to police and manage a population in service of racial
 ![Page 188 Complete](images/page_188_full.png)
 
 ### Extracted Text
-
 
 
 they define them, through voluntary and universal access to care in a
@@ -13582,10 +13283,6 @@ people enjoy every day.
 ### Extracted Text
 
 
-
-
-
-
      “Treatment” programs serve as a “Somewhere Else” to put people
 
 whose drug use, mental or emotional state, disability, neurodivergence,
@@ -13625,7 +13322,6 @@ a disability justice and mad justice framework recognizes the carceral
 ![Page 190 Complete](images/page_190_full.png)
 
 ### Extracted Text
-
 
 
 systemic forces at play if we’re actually seeking to support people’s health
@@ -13703,7 +13399,6 @@ programs like Mental Health First, a Black-led, community-based, and
 ### Extracted Text
 
 
-
 answer calls from neighbors to prevent, intervene with, and support people
 
 through      mental    health         crises       without     involving      police        or    involuntary
@@ -13715,8 +13410,6 @@ disrupting the ableism that informs mental health interventions. In short, it
 would mean constructing a society built on a Black feminist politics of care
 
 for each of us as we are.
-
-
 
 
 From “Caseworkers, Not Cops” to “Care, Not
@@ -13856,8 +13549,6 @@ is so readily accepted as a palatable alternative to police.”
 ### Extracted Text
 
 
-
-
 The ways in which social workers operate as cops are particularly apparent
 
 in the context of “child welfare” systems. People impacted by the system
@@ -13885,7 +13576,6 @@ individual responsibility for alleged parenting failures [and] completely
 ignores societal ills that often instigate involvement in the first place.”
 
 The report includes the following case study:
-
 
 
       Ms. L was approached and questioned by Child Protective
@@ -13933,7 +13623,6 @@ The report includes the following case study:
 ![Page 194 Complete](images/page_194_full.png)
 
 ### Extracted Text
-
 
 
 substance       use    disorder),      submission             to   drug      screenings       …
@@ -14011,11 +13700,9 @@ demolish[es] black families.”
 ### Extracted Text
 
 
-
 people    and        communities           subject       to    organized          abandonment      and
 
 criminalization. Sangoi points out that:
-
 
 
         Like people subjected to criminal legal system supervision and
@@ -14033,7 +13720,6 @@ criminalization. Sangoi points out that:
         counterparts, but they are uniquely the target of foster system
                            156
         intervention.
-
 
 
 Beyond      differential            punishment       of   drug   use,    the    family   regulation
@@ -14087,7 +13773,6 @@ that either is unfit to parent. The rally during which they shared this story
 ### Extracted Text
 
 
-
 York City’s Administration of Children’s Services, featuring the message,
 
 “Some cops are called caseworkers #AbolishNYCACS.” The billboard’s
@@ -14138,10 +13823,6 @@ of their child from their home.
 ### Extracted Text
 
 
-
-
-
-
 What does all this have to do with defund demands? For one, as a
 
 society, we invest substantially more funds in family regulation and removal
@@ -14179,9 +13860,6 @@ family regulation system for over two decades, issued an urgent warning to
 ### Extracted Text
 
 
-
-
-
        I am inspired by calls to defund the police. But I am concerned
 
        by    recommendations           to     transfer    money,     resources,   and
@@ -14207,7 +13885,6 @@ family regulation system for over two decades, issued an urgent warning to
        institutions and creating radically different ways of meeting
                           163
        families’ needs.
-
 
 
      Calls for abolition of the family regulation system are bound to prompt
@@ -14255,7 +13932,6 @@ These very same interventions are at the heart of preventing and addressing
 ### Extracted Text
 
 
-
 how we invest our collective resources into collective care and support
 
 instead of criminalization and punishment is what campaigns to defund and
@@ -14263,8 +13939,6 @@ instead of criminalization and punishment is what campaigns to defund and
 abolish policing are about. That’s why calls for “Caseworkers, Not Cops”
 
 should yield to calls for “Care, Not Cops.”
-
-
 
 
 A Public Health Approach to Policing
@@ -14328,7 +14002,6 @@ is still reason to proceed with caution. Public health systems emerged from
 ![Page 200 Complete](images/page_200_full.png)
 
 ### Extracted Text
-
 
 
 replicate the pitfalls of the “treatment not punishment” and “caseworkers,
@@ -14406,7 +14079,6 @@ meet needs as needs; not through policing in one form or another. The
 ### Extracted Text
 
 
-
 dismantled,   and   the   work    that   people      in   this   sector    do    must     support
 
 autonomous    and   community-embedded               services.     We      need     to    call    on
@@ -14458,10 +14130,7 @@ these into coercion and repression.…”
 ### Extracted Text
 
 
-
 Police-Free Future
-
-
 
 
 A growing number of people are recognizing that policing stands in the way
@@ -14581,7 +14250,6 @@ ultimately legitimize policing and maintain the prison industrial complex
 ### Extracted Text
 
 
-
 policing, and punishment and create space for new possibilities for safety to
 
 emerge. Whether we understand ourselves to be abolitionists or not, as
@@ -14655,7 +14323,6 @@ effective consequences when necessary.
 ### Extracted Text
 
 
-
 for harm caused by police by legitimizing institutions that we are seeking to
 
 dismantle. Safety from the violence of policing cannot be found in the
@@ -14677,8 +14344,6 @@ conceptions of safety, and how they are shaped by policing in ways that are
 deeply embedded not only in social policy and state institutions, but in our
 
 culture, language, hearts, and minds.
-
-
 
 
 Changing Ideas About Public Safety
@@ -14832,8 +14497,6 @@ doesn’t include police, who have so thoroughly colonized and dominated
 our thinking that we struggle to imagine a world where they don’t exist.
 
 
-
-
 Uprooting “Copaganda”
 
 In reality, we haven’t always had police. What makes us believe that we
@@ -14879,7 +14542,6 @@ them.        These experiences echo the premise of cultural theorist Stuart Hall
 ![Page 208 Complete](images/page_208_full.png)
 
 ### Extracted Text
-
 
 
 response to a manufactured crisis of muggings in the wake of challenges to
@@ -14957,7 +14619,6 @@ revising     its    style    book    in       the     summer   of   2020        
 ### Extracted Text
 
 
-
 that   the        term       “absolves        police      officers     and    dehumanizes          their
 
 (disproportionately Black) victims.” He cites a number of examples to
@@ -15031,7 +14692,6 @@ experience decades later, one of the survivors credits the culture in which
 ![Page 210 Complete](images/page_210_full.png)
 
 ### Extracted Text
-
 
 
 conflict—understood as natural—was always addressed because failing to
@@ -15231,8 +14891,6 @@ meet people at an emotional level to confront the fears police perpetuate and
 play on, and to address the very human need for safety.
 
 
-
-
 What Does Safety Mean for You?
 
 Contrary to assumptions that abolitionists don’t care about safety, we care a
@@ -15258,7 +14916,6 @@ home invaders, and looters, destroyers of lives, families, and communities.
 ![Page 213 Complete](images/page_213_full.png)
 
 ### Extracted Text
-
 
 
 collective safety and survival.
@@ -15336,7 +14993,6 @@ hypotheticals, whether that be “stranger danger” or boogeymen in shows
 ### Extracted Text
 
 
-
 what Meghan McDowell calls the “affective economy” through which the
 
 carceral state provides a structure that teaches people who to hate and fear.
@@ -15412,7 +15068,6 @@ community members, and of how we might go about creating genuine
 ### Extracted Text
 
 
-
 existence, without leaving anyone behind.
 
 Abolition also requires us to unpack the notion of safety itself. While
@@ -15438,7 +15093,6 @@ from them—are structured by relations of racial capitalism. Yet, as James
 Baldwin reminds us:
 
 
-
          Most of us, no matter what we say, are walking in the dark,
 
          whistling in the dark. Nobody knows what is going to happen
@@ -15452,7 +15106,6 @@ Baldwin reminds us:
          illusion of safety; but it is also absolutely true that the safety is
                                                   46
          always necessarily an illusion.
-
 
 
 Safety is both illusory and a real concern. This is a difficult line to navigate.
@@ -15484,7 +15137,6 @@ violence,       always    in   the    name   of   producing    an   impossible  
 ![Page 216 Complete](images/page_216_full.png)
 
 ### Extracted Text
-
 
 
 rather than an embodiment of it.
@@ -15562,7 +15214,6 @@ relational than categorical. The more functional and vital question we face
 ### Extracted Text
 
 
-
 concept of safety is contested and its meanings aren’t fixed.
 
 Recognizing that safety is changeable and relative actually opens up
@@ -15636,7 +15287,6 @@ naïve, or impossible. Or, they are simply illegible to us as “safety.” The
 ![Page 218 Complete](images/page_218_full.png)
 
 ### Extracted Text
-
 
 
 death, yet we cling to the thing that is failing us. We have to do the work of
@@ -15714,7 +15364,6 @@ and private police violence in protecting corporate and colonial interests.
 ### Extracted Text
 
 
-
 and beating Haitian migrants with bullwhips as they attempted to cross the
 
 Rio Grande made graphically visible the daily violence of border and
@@ -15790,13 +15439,11 @@ burned Third Precinct by organizers and unhoused residents. They used the
 ### Extracted Text
 
 
-
 fighting for in the streets. Volunteers ran twenty-four-hour kitchen, laundry,
 
 cleaning, and community safety shifts, co-creating a culture of abundance.
 
 Chua describes this resident-centered environment:
-
 
 
       [It was] grounded in principles of harm reduction, autonomy,
@@ -15814,7 +15461,6 @@ Chua describes this resident-centered environment:
       signed up for security and cleaning shifts, and helped in the
                  53
       kitchen.
-
 
 
 Recognizing that “housing deprivation and incarceration are two sides of
@@ -15850,8 +15496,6 @@ to continue to organize and create the conditions that will make even more
 experiments possible.
 
 
-
-
 Principles for Organizing Toward Police Abolition 
 ---
 
@@ -15861,7 +15505,6 @@ Principles for Organizing Toward Police Abolition
 ![Page 221 Complete](images/page_221_full.png)
 
 ### Extracted Text
-
 
 
 we need to take bold action toward a world without police. The fight is
@@ -15883,7 +15526,6 @@ for us, organizing toward safer communities beyond policing does require
 all of us to adopt, adhere to, and be accountable to shared abolitionist values
 
 and political commitments:
-
 
 
        We oppose surveillance, policing, or incarceration in any form—
@@ -15948,7 +15590,6 @@ and political commitments:
          We practice hope and radical imagination as a discipline.
 
 
-
 Over the past two decades, abolitionist organizers have developed practical
 
 frameworks that apply these principles. We can use these frameworks to
@@ -16002,7 +15643,6 @@ systems of policing are essential to the end goal of achieving safety.
 articulated by the Movement for Black Lives (M4BL):
 
 
-
         We demand investments in the education, health, and safety of
 
         Black      people,   instead      of   investments     in   the   criminalizing,
@@ -16025,7 +15665,6 @@ articulated by the Movement for Black Lives (M4BL):
         divestment from exploitative forces including prisons, fossil
                                                                                    58
         fuels, police, surveillance, and exploitative corporations.
-
 
 
 M4BL’s     divest/invest       framework     informed          Black    Visions’    demands      to
@@ -16093,7 +15732,6 @@ fight back. For instance, Joey Mogul is a lawyer at the People’s Law Office
 ![Page 224 Complete](images/page_224_full.png)
 
 ### Extracted Text
-
 
 
 police torture. Mogul often tells a story from an organizing campaign to
@@ -16169,7 +15807,6 @@ communities to stop calling the cops for everything: the neighbor whose
 ![Page 225 Complete](images/page_225_full.png)
 
 ### Extracted Text
-
 
 
 lawn, the neighbor’s kid who seems to be on their own more often than not.
@@ -16325,7 +15962,6 @@ want to go: a world where everyone has safety, food, clean water, shelter,
 ### Extracted Text
 
 
-
 prefigure the world we want by practicing abolition every day. This work
 
 involves both organizing for the destruction of death-making institutions and
@@ -16395,10 +16031,6 @@ imagine into reality.
 ### Extracted Text
 
 
-
-
-
-
 When it comes to divesting from policing with an eye to an abolitionist
 
 horizon, there is much that can be put into practice right now. Yet there is
@@ -16442,7 +16074,6 @@ programs that operate outside, or at least without, the state? In other words,
 ![Page 229 Complete](images/page_229_full.png)
 
 ### Extracted Text
-
 
 
 and   punishment    and     put    them    toward       meeting     community      needs    and
@@ -16520,7 +16151,6 @@ among organizers—not all of whom are abolitionist—around whether we
 ### Extracted Text
 
 
-
 community control of police. As defund demands continued to spread
 
 across the country, so too did questions around organizing strategies in
@@ -16564,8 +16194,6 @@ harm, meeting community needs, and fighting for and practicing more
 participatory forms of governance.
 
 
-
-
 Dismantling the Carceral State
 
 At their heart, defund campaigns are about budget priorities. And debates
@@ -16593,7 +16221,6 @@ fissures of social conflict, compromise, and cooperation.”                 In 
 ![Page 231 Complete](images/page_231_full.png)
 
 ### Extracted Text
-
 
 
 who inhabit and enact them, as well as by the historical moment, place, and
@@ -16669,7 +16296,6 @@ and abandonment, and if so, which ones. Or does rooting out policing
 ### Extracted Text
 
 
-
 systems of governance and resource distribution?
 
 Given that Western settler colonial states emerged for the purpose of
@@ -16743,7 +16369,6 @@ of freedom for Black peoples.”               William C. Anderson, author of Th
 ![Page 233 Complete](images/page_233_full.png)
 
 ### Extracted Text
-
 
 
 oppression,” emphasizing that “state violence does not occur because the
@@ -17014,7 +16639,6 @@ describes the dilemmas for abolitionist organizing:
       surveillance component of the welfare state.
 
 
-
 Rather than be immobilized by these contradictions, we ask ourselves
 
 what additional possibilities emerge if we move beyond the dichotomy of
@@ -17048,7 +16672,6 @@ transformative justice rather than ceding power to the state to intervene in
 ![Page 237 Complete](images/page_237_full.png)
 
 ### Extracted Text
-
 
 
 of   what   individual      and        collective    transformation        is   required     to   build
@@ -17126,7 +16749,6 @@ the community and the environment,” and organizing that supports the
 ### Extracted Text
 
 
-
 explored further in the “Experiment and Build” chapter. The question, then,
 
 is what kind of political culture we need to create in order to make these
@@ -17200,7 +16822,6 @@ police expelling those “undesirables” who are othered and displaced by
 ![Page 239 Complete](images/page_239_full.png)
 
 ### Extracted Text
-
 
 
 members of the Wet’suwet’en nation affirm their jurisdiction by asking:
@@ -17278,7 +16899,6 @@ colonial      states—to        paraphrase          Simpson          and       
 ### Extracted Text
 
 
-
 encapsulated          by    the    slogan    #LandBack)            are   interlocking,     transnational
               55
 projects.          While the role of the state in abolitionist futures is in question,
@@ -17354,7 +16974,6 @@ led struggles in the Global South, dual power strategies—also described as
 ### Extracted Text
 
 
-
 build collective community power to challenge the power and violence of
 
 the   racial   capitalist   carceral   state,   (2)   seize    and    extract   resources       and
@@ -17372,8 +16991,6 @@ below—not to reach the top but to build strong foundations” for the futures
 we long for.         We explore dual power approaches in greater detail in the
 
 “Experiment and Build” chapter.
-
-
 
 
 Rebuilding the Commons
@@ -17427,7 +17044,6 @@ criminalizing ways. We’re demanding the creation and expansion of the
 ![Page 242 Complete](images/page_242_full.png)
 
 ### Extracted Text
-
 
 
 resources, infrastructures, and knowledge that will allow communities to
@@ -17503,7 +17119,6 @@ whatever quantity they need, without question about what they are doing
 ### Extracted Text
 
 
-
 for the planet.
 
       Shifting to an abundance mindset can be challenging for many of us—
@@ -17577,10 +17192,7 @@ preventative and respite care to stop crises from happening in the first place.
 ### Extracted Text
 
 
-
 creating futures without policing.
-
-
 
 
 The State in the Meantime
@@ -17650,7 +17262,6 @@ historically undertaken. While this work seems aligned with the Gilmores’
 ![Page 245 Complete](images/page_245_full.png)
 
 ### Extracted Text
-
 
 
 and     energy    organizers       want       to   invest    in   the    day-to-day       operations     of
@@ -17728,7 +17339,6 @@ governance with respect to collective resources through participation in
 ### Extracted Text
 
 
-
 to   enforce    them,           policymakers       and   legislators      subsequently            sought    to
 
 ignore, block, water down, defuse, and co-opt demands for cuts to police
@@ -17804,7 +17414,6 @@ institutions.        Others        are    exploring      creative      strategie
 ### Extracted Text
 
 
-
 could then redistribute to grassroots organizations without subjecting them
 
 to state control. No matter which path we choose, we must consistently ask
@@ -17878,7 +17487,6 @@ secured      federal   grants     through    the     Department        of     Ju
 ![Page 248 Complete](images/page_248_full.png)
 
 ### Extracted Text
-
 
 
 program. These enabled them to hire more police officers or purchase more
@@ -18034,7 +17642,6 @@ in which it operates through “soft policing”—mean we need to move
 ### Extracted Text
 
 
-
 power from our social relations and institutions and naming the social order
 
 we want to create.
@@ -18108,7 +17715,6 @@ pandemic illustrated the limitations of making demands focused on budgets
 ![Page 251 Complete](images/page_251_full.png)
 
 ### Extracted Text
-
 
 
 opportunity to meet demands for substantial investments in community
@@ -18186,7 +17792,6 @@ resources from the carceral state—including the power they hold to define,
 ### Extracted Text
 
 
-
 count on the fact that policing will continue to reconfigure itself to give the
 
 illusion of change while remaining fundamentally the same. That is why it
@@ -18204,8 +17809,6 @@ policies and ideas that we are pursuing are emancipatory and abolitionist
 ones, we must ask ourselves whether they are meaningfully “increasing the
                                  99
 possibility for freedom.”
-
-
 
 
 Police Political Power
@@ -18336,7 +17939,6 @@ labor laws to force cities to pour money back into their budgets to cover the
 ### Extracted Text
 
 
-
 working overtime, and cities are required to replenish them every time.
 
 Confronting organized police power and police contracts raises tensions
@@ -18410,7 +18012,6 @@ and teachers.”            Similarly, calls to open police contract negotiation
 ![Page 255 Complete](images/page_255_full.png)
 
 ### Extracted Text
-
 
 
 efforts to target public sector union negotiations. However, other labor
@@ -18488,7 +18089,6 @@ to eliminate PFAs’ power to distribute overtime among their members or to
 ### Extracted Text
 
 
-
 to   police   contracts   must   be   to   move   past    demands   focused   on
 
 documentation and investigation of individual incidents of police violence
@@ -18540,8 +18140,6 @@ enables police violence with impunity, interrupting the flow of money into
 their coffers, and challenging their narratives around public safety.
 
 
-
-
 Community Control
 
 In several cities, defund campaigns faced opposition from advocates of
@@ -18561,7 +18159,6 @@ policies and budgets. Some proponents of community control see this as a
 ![Page 257 Complete](images/page_257_full.png)
 
 ### Extracted Text
-
 
 
 departments that will enable them to reduce their harm or even recuperate
@@ -18635,7 +18232,6 @@ working towards abolition.
 ![Page 258 Complete](images/page_258_full.png)
 
 ### Extracted Text
-
 
 
 possibility    of     democratizing         the     police   while       failing    to    recognize     the
@@ -18865,7 +18461,6 @@ dismantling state and police power require us to seize it first? And, can
 ### Extracted Text
 
 
-
 departments as it is currently being articulated? Or is it a call for illusory
 
 control within deadly institutions?
@@ -18885,8 +18480,6 @@ the enemy’s terms.”           Perhaps we can find middle ground by working
 toward community control of safety within our communities—even as we
 
 differ on how to wrest power from the carceral state.
-
-
 
 
 Privatization
@@ -18939,9 +18532,7 @@ that we have to accept one form of policing in order to avoid another. We
 ### Extracted Text
 
 
-
 on all fronts.
-
 
 
 What About Killer Cops?
@@ -19012,7 +18603,6 @@ intact. As the popular chant goes, “indict, convict, send the killer cops to
 ![Page 263 Complete](images/page_263_full.png)
 
 ### Extracted Text
-
 
 
 arrests       and   prosecutions   are   unlikely      to   bear   fruit,   or    bring    about
@@ -19165,7 +18755,6 @@ police violence that align with abolitionist commitments to oppose all forms
 ### Extracted Text
 
 
-
 we must be “consistent in our analysis.” We can’t claim the system must be
 
 dismantled because it is a danger to Black lives and then turn to it for
@@ -19185,7 +18774,6 @@ color for remedies only strengthens that system’s hold over us.”            
 want to prevent the harm of police violence, we cannot turn to a carceral
 
 state, we need to dismantle policing.
-
 
 
 What Do We Do with All the Cops?
@@ -19286,7 +18874,6 @@ may seem daunting, abolition is about making way for all of us to reclaim
 our humanity. The success of our project depends on it.
 
 
-
 We recognize that the many tensions and contradictions in abolitionist
 
 organizing explored in this chapter will not be solved overnight, and that the
@@ -19308,10 +18895,6 @@ policing.
 ![Page 267 Complete](images/page_267_full.png)
 
 ### Extracted Text
-
-
-
-
 
 
 It was 2 a.m. on a Thursday night and the music was blaring again. Chicago
@@ -19355,7 +18938,6 @@ teens; sometimes they arrested and loaded them into waiting cars.
 ![Page 268 Complete](images/page_268_full.png)
 
 ### Extracted Text
-
 
 
 organization with a vision to end youth criminalization. Their initial focus
@@ -19431,7 +19013,6 @@ deliberate act of antagonism. Mariame and her neighbors apologized to the
 ![Page 269 Complete](images/page_269_full.png)
 
 ### Extracted Text
-
 
 
 continue to hang out in the alley, and asked them if they would be willing to
@@ -19582,7 +19163,6 @@ structural change is one way to resolve some of the contradictions around
 ![Page 271 Complete](images/page_271_full.png)
 
 ### Extracted Text
-
 
 
 a “dual power” strategy, elaborated by organizers in the Global South based
@@ -19738,7 +19318,6 @@ abolitionists is therefore inconsistent with how societies have historically
 ### Extracted Text
 
 
-
 dismantling the carceral state and practicing the communities we want,
 
 rather than a sequential one in which one of these things must precede the
@@ -19814,7 +19393,6 @@ community safety at a scale that can meet our needs.
 ### Extracted Text
 
 
-
 experimentation, build our capacity to try things, embrace failure, and
 
 commit to multiple cycles of “practice, fail, learn, repeat.” That is the
@@ -19844,7 +19422,6 @@ Living, coauthored with Indigenous (Michi Saagiig Nishnaabeg) feminist
 Leanne Betasamosake Simpson, Robyn Maynard describes rehearsal as,
 
 
-
       a way of inhabiting our world with intention, as organizers, as
 
       theorists,      as    people        in    extended          communities,       based      in
@@ -19862,7 +19439,6 @@ Leanne Betasamosake Simpson, Robyn Maynard describes rehearsal as,
       liberation      is   not   a    destination        but      an   ongoing      process,     a
                  15
       praxis.
-
 
 
 We can focus on advancing the work of creating greater and more
@@ -19888,7 +19464,6 @@ it wrong that keep us from moving forward even when we might have a
 ![Page 275 Complete](images/page_275_full.png)
 
 ### Extracted Text
-
 
 
 will go a long way towards preventing and avoiding harm. We can counter
@@ -19934,8 +19509,6 @@ building, make demands that make that vision more possible, and build
 movements and power that can turn them into reality.
 
 
-
-
 Redefining and Practicing Safety
 
 As Mariame pointed out in her summer 2020 New York Times op-ed, efforts
@@ -19961,8 +19534,6 @@ mutual aid, and by practicing transformative justice.
 ![Page 276 Complete](images/page_276_full.png)
 
 ### Extracted Text
-
-
 
 
 As discussed in the “How Do We Get There?” chapter, a key component of
@@ -20038,7 +19609,6 @@ youth     programs.            Similarly,       in    2017,       partners      
 ![Page 277 Complete](images/page_277_full.png)
 
 ### Extracted Text
-
 
 
 would create conditions for greater safety. Residents responded by calling
@@ -20193,7 +19763,6 @@ including compensation to community members for participation.                  
 ### Extracted Text
 
 
-
 Solidarity Budget, built on shared values and a refusal to be pitted against
                                                     37
 each    other        by     city      officials.          The     budget,       endorsed     by    dozens        of
@@ -20215,7 +19784,6 @@ multiple strategies to engage communities in the process of reimagining
 safety and building power and relationships across movements to make
 
 abolitionist dreams a reality.
-
 
 
 Mutual Aid
@@ -20343,7 +19911,6 @@ packing and delivery was combined with political education sessions on
 ### Extracted Text
 
 
-
 City mayor closed the subways early in the pandemic, it left many unhoused
 
 people without a place to take refuge at night. This forced them into
@@ -20417,7 +19984,6 @@ creating Head Start and free food programs at schools. As discussed in the
 ![Page 282 Complete](images/page_282_full.png)
 
 ### Extracted Text
-
 
 
 for Panther programs operating outside the state enabled them to reach more
@@ -20495,7 +20061,6 @@ organized     abandonment,       climate     injustice,   and    worsening    so
 ### Extracted Text
 
 
-
 building power outside the state, practicing new forms of governance and
 
 new economic systems, and rebuilding the commons. There are many ways
@@ -20507,8 +20072,6 @@ in your community, or by engaging in mutual aid for incarcerated people.
 Right now, all of us can move us closer to a safer future without policing by
 
 plugging into mutual aid wherever you can.
-
-
 
 
 Transformative Justice
@@ -20569,7 +20132,6 @@ violence—while prioritizing increased access to safety for all survivors.
 ### Extracted Text
 
 
-
 child   sexual     abuse    within       five    generations,         articulates     the      following
 
 definition:   “Transformative            justice      (TJ)   seeks     to   provide       people     who
@@ -20583,7 +20145,6 @@ and by their communities.”
 Transformative justice practitioner Leah Lakshmi Piepzna-Samarasinha
 
 elaborates,
-
 
 
         It’s any way of dealing with violence, abuse, and harm that
@@ -20605,7 +20166,6 @@ elaborates,
         do not create more destruction and trauma.”
 
 
-
 Transformative         Justice       processes,      like     mutual      aid,   are    a   form    of
 
 politicized survival work, an “outside the state” strategy that builds power to
@@ -20619,7 +20179,6 @@ perpetuate violence.
 Mia Mingus, a former Generation Five member and founder of the Bay
 
 Area Transformative Justice Collective (BATJC), reminds us that
-
 
 
         TJ is not simply the absence of the state and violence, but the
@@ -20684,7 +20243,6 @@ knowledge and leadership, and from punishment to accountability.”
 illuminating some common principles:
 
 
-
        1. TJ was created by Black, Indigenous, LGBTQ, migrant, disabled,
 
           sex trading, and low- and no-income people who could not and/or
@@ -20735,7 +20293,6 @@ illuminating some common principles:
           framework that was created and is often led by survivors. TJ rejects
 
           simple binaries of perpetrators vs. victims.
-
 
 
 People often resist or question TJ because we are so conditioned to seek
@@ -20805,7 +20362,6 @@ current    criminal   punishment     system      actually   discourages   people
 ### Extracted Text
 
 
-
 would expose them to harsh punishment.
 
 Danielle Sered, founder of Common Justice and author of Until We
@@ -20813,7 +20369,6 @@ Danielle Sered, founder of Common Justice and author of Until We
 Reckon,    breaks    down     the   differences      between     accountability        and
 
 punishment in the chart reproduced below:
-
 
 
              Accountability                                 Punishment
@@ -20842,8 +20397,6 @@ Deepens relationship and connection           Severs relationship and connection
 
 
 Fosters healing and restoration               Fosters shame and isolation
-
-
 
 
 Transformative justice is only one way forward. Its effectiveness will
@@ -20885,7 +20438,6 @@ ones doing harm—like what about when cops kill, rape, or abuse people?
 ![Page 288 Complete](images/page_288_full.png)
 
 ### Extracted Text
-
 
 
 sanctioned violence—such as the Reparations Now! campaign discussed in
@@ -20963,7 +20515,6 @@ one-size-fits-all process administered in ways that look familiar and legible
 ### Extracted Text
 
 
-
 immediately produce a blueprint for transformative justice everywhere, for
 
 every conceivable situation. Yet, as is true with most community-based
@@ -21039,7 +20590,6 @@ communities everywhere in the world. It’s not something we are waiting to
 ### Extracted Text
 
 
-
 There      are    no   experts    in    transformative       justice—although      there   are
 
 people with greater skills and experience that we should all strive toward. It
@@ -21059,7 +20609,6 @@ As with mutual aid projects, we can each start small—in everyday
 conversations and actions. Page May, the co-founder of Assata’s Daughters
 
 based in Chicago, shares the following exchange with a fourth grader:
-
 
 
        At   first,   he   couldn’t    imagine         justice   without   involving   the
@@ -21113,7 +20662,6 @@ based in Chicago, shares the following exchange with a fourth grader:
 ### Extracted Text
 
 
-
 justice, then it is within everyone’s capacity to do the same. We need to
 
 practice these new social relations now. With only a subtle shift in thinking,
@@ -21123,7 +20671,6 @@ we can creatively solve problems without relying on law enforcement as the
 first—or even last—resort. For example, a few years ago Mariame’s friend
 
 emailed her:
-
 
 
       I saw a toddler running down Ashland barefooted and wearing
@@ -21157,7 +20704,6 @@ emailed her:
       expression when we walked up with the baby, we were pretty
 
       confident the child was hers.
-
 
 
 Mariame’s friend overcame her nervousness, sought out support, and then
@@ -21214,8 +20760,6 @@ dismantling, changing, and building all the time, and we can practice
 wherever we are.
 
 
-
-
 Schools as a Site of Experimentation
 
 
@@ -21262,7 +20806,6 @@ reparations, critical race theory, or gender and sexual diversity.
 ![Page 293 Complete](images/page_293_full.png)
 
 ### Extracted Text
-
 
 
 like Detroit’s People in Education create artist residencies and fellowships
@@ -21312,8 +20855,6 @@ powerful process of political education and practice. Everyone involved can
 then take lessons and skills from making abolition real in schools out into
 
 the world.
-
-
 
 
 Creating Collective Ecosystems of Care
@@ -21389,7 +20930,6 @@ steps:
        care?
 
 
-
 Asking      and    responding        to    these   questions      can    take       place    at    an
 
 organizational level, as it did for Creative Interventions, the Bay Area
@@ -21411,7 +20951,6 @@ police response often creates more danger, and in cases of child sexual
 ![Page 295 Complete](images/page_295_full.png)
 
 ### Extracted Text
-
 
 
 programs share common characteristics of training and offering resources to
@@ -21563,7 +21102,6 @@ posed     by   gun      violence    or       gender-based      violence.        
 ### Extracted Text
 
 
-
 serious forms of violence every single day.
 
       Of   course,   communities    will   need    dedicated    time   to   build   a   way
@@ -21621,10 +21159,6 @@ and neighborhoods—are precisely where we can nurture and develop them.
 ### Extracted Text
 
 
-
-
-
-
      Sometimes we are blessed with being able to choose the time,
 
          and the arena, and the manner of our revolution, but more
@@ -21634,8 +21168,6 @@ and neighborhoods—are precisely where we can nurture and develop them.
 
                                                                                 1
                                             —Audre Lorde, Sister Outsider
-
-
 
 
 In July 2015, Andrea and Mariame participated in the founding conference
@@ -21665,7 +21197,6 @@ Mariame had lived since 1995 and Andrea had relocated in 2014.
 ![Page 299 Complete](images/page_299_full.png)
 
 ### Extracted Text
-
 
 
 Black organizers affiliated with BYP100, a youth-led organization with
@@ -21719,7 +21250,6 @@ Malik Alim, a young organizer from BYP100 who Mariame knew and
 who    tragically      passed     away     in    August    2021,        narrated        his    personal
 
 experience of the incident:
-
 
 
        I’d never been maced or pepper sprayed before and the moment
@@ -21776,7 +21306,6 @@ experience of the incident:
       emotion from deep within me.
 
 
-
 When Mariame heard the screams and saw some people falling to the
 
 ground, she ran toward the 7-Eleven that was about a block away to
@@ -21822,7 +21351,6 @@ sharpening together over three days at the convening into practice. We
 ### Extracted Text
 
 
-
 child—failure to pay a transit fare, underage drinking, refusing to get off the
 
 bus or comply with their commands, being young and Black—we weren’t
@@ -21836,8 +21364,6 @@ cheering and dancing as someone began to chant: “We Gon’ Be Alright, We
 Gon’ Be Alright,” echoing the lyrics of the Kendrick Lamar song that had
                                                   3
 rung out the first night of the convening.
-
-
 
 
 “Nobody’s free until everybody’s free”—Fannie
@@ -21895,7 +21421,6 @@ feminism and abolition feminism—and their intersections. As legendary
 ![Page 302 Complete](images/page_302_full.png)
 
 ### Extracted Text
-
 
 
 the political theory and practice to free all women.… Anything less than
@@ -21973,7 +21498,6 @@ Kenyon        Farrow,          Barbara         Ransby,       and        Che   Go
 ### Extracted Text
 
 
-
 Resistance, have been our touchstones. Hidden histories of Black feminist
 
 organizing against the violence of the state, including that of enslaved
@@ -22049,7 +21573,6 @@ arenas in which carcerality operates—including the policing of motherhood,
 ### Extracted Text
 
 
-
 It allows us to see the roots of the carceral state in efforts to control Black
 
 women’s economic, reproductive, and sexual autonomy in the wake of the
@@ -22121,7 +21644,6 @@ and transformation rather than continuing cycles of harm and punishment.
 ### Extracted Text
 
 
-
 Combahee River Collective Statement20
 
 Black feminism is an ideology rooted in the simple understanding that
@@ -22141,7 +21663,6 @@ from all forms of violence and policing. Black feminist scholar Hortense
 Spillers declares that:
 
 
-
         Black feminism, as a repertoire of concepts, practices, and
 
         alignments, is progressive in outlook and dedicated to the view
@@ -22153,7 +21674,6 @@ Spillers declares that:
         reach a different place … then Black feminist ideas and ideals
                                                        21
         might be one of the lights leading us there.
-
 
 
 Importantly, Black feminism holds that Black women everywhere are
@@ -22195,7 +21715,6 @@ implications of our work: our struggle for abolition cannot stop at U.S.
 ![Page 306 Complete](images/page_306_full.png)
 
 ### Extracted Text
-
 
 
 rebuild a world anew in the Global North must attend to the ways in our
@@ -22249,8 +21768,6 @@ about what forms and practices of struggle and governance best create the
 conditions for liberation.
 
 
-
-
 “Her voice must be heard”—Anna Julia Cooper
 
 It is no accident that movements for police and PIC abolition are largely led
@@ -22270,7 +21787,6 @@ carceral state. As outlined above and in the “Cops Don’t Stop Violence” an
 ![Page 307 Complete](images/page_307_full.png)
 
 ### Extracted Text
-
 
 
 something new. That is why we describe movements to defund and abolish
@@ -22318,8 +21834,6 @@ that we are interrupting, disrupting, and retelling through Black feminist
 abolitionist organizing.
 
 
-
-
 “Turn the light of truth upon them”—Ida B. Wells-
 
 Barnett
@@ -22345,7 +21859,6 @@ wasn’t always so. There was a time when the police had yet to be invented.
 ![Page 308 Complete](images/page_308_full.png)
 
 ### Extracted Text
-
 
 
 equation of policing and safety, that helps people unlearn the “common
@@ -22423,7 +21936,6 @@ light on the pitfall of replacing one form of policing with another. By
 ### Extracted Text
 
 
-
 writing the stories that enable us to break through the limits police stories
 
 place on our imaginations, and dream and practice different stories that lead
@@ -22447,8 +21959,6 @@ experimentation, we are discerning what is possible and learning lessons
 from   our   failures   that    will    point   our   compass    toward     the   horizon   of
 
 abolition.
-
-
 
 
 “We can impose beauty on our future”—Lorraine
@@ -22476,8 +21986,6 @@ understanding and creating safety and collective well-being, and to believe
 that it is possible to make them real through everyday actions toward a
 
 world based on “mutual accountability and passionate reciprocity.”
-
-
 
 
 “Love is lifeforce”—June Jordan
@@ -22516,8 +22024,6 @@ responsibility. Care is what drives our efforts to fight the violence of the
 state, secure the resources we need, and build the world we want through
 
 mutual aid and transformative justice.
-
-
 
 
 “Despair is a tool of your enemies”—Audre Lorde
@@ -22573,7 +22079,6 @@ now shapes the future.                  Che Gossett elaborates on this perspecti
 ### Extracted Text
 
 
-
 as   a   measure     of   civilizationist   progress.…      Abolition—as     Audre    Lorde
 
 [describes] … revolution … is ‘not a one-time event’ but rather, as Angela
@@ -22609,7 +22114,6 @@ we can change the present and live the future now.
 phrase she has repeated ever since. In August 2021, Mariame closed out
 
 Black Feminist Future’s Jubilee by reminding all of us that:
-
 
 
          [t]he key to lifelong activism and organizing is to dedicate
@@ -22664,8 +22168,6 @@ Black Feminist Future’s Jubilee by reminding all of us that:
        spend      time       imagining,     strategizing,       and    practicing      other
                   40
        futures.
-
-
 
 
 “The only way to do it, is to do it”—Toni Cade
@@ -22723,7 +22225,6 @@ over selfishness, care over violence, and love over fear.
 ### Extracted Text
 
 
-
 To be a Black feminist is to stay open to possibility. It can be frightening to
 
 publicly share our dreams and visions. We are often accused of naïveté or of
@@ -22778,10 +22279,6 @@ transformational.
 ### Extracted Text
 
 
-
-
-
-
     As Audre Lorde has taught us: we fight where we are currently standing.
 
 This   book   is   about   unmaking   and   remaking   the   current   world.   Our
@@ -22807,7 +22304,6 @@ and difficult collective work.
 ### Extracted Text
 
 
-
 somebody carries on”—Ella Baker
 
 If you’re still not convinced, we hope that you are at least left with even
@@ -22831,8 +22327,6 @@ Twitter, “How will you practice freedom today?”
 abolitionist freedom dreams today?
 
 
-
-
 The structure of this chapter is inspired by the Black Feminist Breathing Chorus and collection of
 
 Black Feminist Breathing Cards created by Alexis Pauline Gumbs. For more information, please
@@ -22849,8 +22343,6 @@ visit: sangodare.podia.com/breathingchorus90.
 
 
                     Acknowledgments
-
-
 
 
 This book draws on the wisdom of organizers too many to name; we risk
@@ -22896,7 +22388,6 @@ Minneapolis, to wrestle with questions relating to the role of the state and
 ![Page 317 Complete](images/page_317_full.png)
 
 ### Extracted Text
-
 
 
 infrastructure of transformative justice practitioners.
@@ -22974,7 +22465,6 @@ assistance with endnotes.
 ### Extracted Text
 
 
-
 Interrupting Criminalization, including Creative Director Eva Nagao, who
 
 makes     all   things     possible      with     ease,   joy,    and    beauty,       Administrative
@@ -23033,14 +22523,11 @@ they deserve.
                              Resources
 
 
-
-
 In addition to the books, articles, reports, and toolkits cited throughout No
 
 More Police, you can find information about movements to defund and
 
 abolish policing and build safer communities at:
-
 
 
        abolitionanddisabilityjustice.com
@@ -23068,7 +22555,6 @@ abolish policing and build safer communities at:
        transformharm.org
 
 
-
 What follows is a non-exhaustive list of resources we and others have
 
 created to support organizers working to divest from policing and invest in 
@@ -23082,19 +22568,14 @@ created to support organizers working to divest from policing and invest in
 ### Extracted Text
 
 
-
-
-
 Abolition Imagination Cards, Interrupting Criminalization (2021)
 
 interruptingcriminalization.com/imagination
 
 
-
 Abolish Policing, Critical Resistance
 
 criticalresistance.org/abolish-policing
-
 
 
 Abortion Criminalization Is Part of the Larger Struggle Against Policing
@@ -23104,17 +22585,14 @@ and Criminalization, Interrupting Criminalization (2021)
 interruptingcriminalization.com/decriminalize-abortion
 
 
-
 Accountable Communities Videos, Project NIA & BCRW (2019–2020)
 
 accountablecommunities.org
 
 
-
 Against Punishment Curriculum, Project NIA (2021)
 
 issuu.com/projectnia/docs/against_punishment_curriculum_final
-
 
 
 Against Punishment: Incarcerated Comrades Edition, Project NIA (2021)
@@ -23124,13 +22602,11 @@ bit.ly/AgainstPunishZine
 Supplemental materials: bit.ly/AGPsupplemental
 
 
-
 Building the World We Want: A Roadmap to Police-Free Futures in Canada
 
 (2021), Robyn Maynard, ed.
 
 bit.ly/BWWWCanada
-
 
 
 Cops Don’t Stop Violence: Combatting Narratives Used to Defend Police
@@ -23140,7 +22616,6 @@ Instead of Defunding Them, Community Resource Hub and Interrupting
 Criminalization (2021)
 
 interruptingcriminalization.com/cops-dont-stop-violence
-
 
 
 Coronavirus Solidarity Poster and Postcard Project, Interrupting
@@ -23158,17 +22633,14 @@ interruptingcriminalization.com/postcards
 ### Extracted Text
 
 
-
 Abolitionist Youth Organizing Institute (2021)
 
 bit.ly/CosmicPoss2021
 
 
-
 Defund CPD Community Conversation Toolkit (2020)
 
 bit.ly/DefundCPDConversation
-
 
 
 Defund CPD Research and Policy Toolkit (2020)
@@ -23178,13 +22650,11 @@ defundpolice.org/wp-content/uploads/2021/03/Defund-CPD-Research-
 Policy-Toolkit.pdf
 
 
-
 Defund the Police (video), Project NIA (2021)
 
 bit.ly/DefundVideo
 
 Discussion guide: https://bit.ly/DefundVideoDiscussion
-
 
 
 Defund Police, Invest in Community Care: A Guide to Alternative Mental
@@ -23198,11 +22668,9 @@ Checklist for Assessing Mental Health Crisis Response Models:
 bit.ly/MHCrisisResponseChecklist
 
 
-
 Defund Police, Rebuild Our Communities, Dream Defenders (2020)
 
 bit.ly/DDDefund
-
 
 
 The Demand Is Still #DefundPolice #FundthePeople #DefendBlackLives,
@@ -23212,13 +22680,11 @@ Interrupting Criminalization (2021)
 bit.ly/DefundPoliceUpdate
 
 
-
 Disarm, Defund, Dismantle: Police Abolition in Canada, Shiri Pasternak,
 
 Kevin Walby and Abby Stadnyk, eds. (Toronto: Between the Lines,
 
 2022).
-
 
 
 Divesting from Pandemic Policing and Investing in a Just Recovery,
@@ -23238,11 +22704,9 @@ content/uploads/2021/05/Unmasked_Update.pdf
 ### Extracted Text
 
 
-
 Community Resource Hub (2021)
 
 defundpolice.org/wp-content/uploads/2021/04/0407_CARES_ARPA_B.pdf
-
 
 
 Expanding Our Frame, Deepening Our Demands for Safety and Healing for
@@ -23254,11 +22718,9 @@ Institute (2019)
 bit.ly/ExpandingOurFrame
 
 
-
 In Our Names Network
 
 inournamesnetwork.com
-
 
 
 Interrupting Criminalization
@@ -23266,11 +22728,9 @@ Interrupting Criminalization
 interruptingcriminalization.com
 
 
-
 Invisible No More Study and Discussion Guide
 
 invisiblenomorebook.com/study-guide
-
 
 
 Minneapolis Without Policing, Black Visions (2021)
@@ -23278,11 +22738,9 @@ Minneapolis Without Policing, Black Visions (2021)
 www.blackvisionsmn.org/mnwithoutpolicing
 
 
-
 Navigating DOJ Consent Decrees, Community Resource Hub (2021)
 
 bit.ly/NoMoreConsentDecrees
-
 
 
 Navigating Public Safety Task Forces: A Guide from the Ground,
@@ -23292,11 +22750,9 @@ Interrupting Criminalization (2021)
 interruptingcriminalization.com/task-forces
 
 
-
 No Cop Academy Organizing Toolkit (2021)
 
 nocopacademy.com/Toolkit
-
 
 
 Our Communities, Our Solutions: An Organizer’s Toolkit for Developing
@@ -23304,7 +22760,6 @@ Our Communities, Our Solutions: An Organizer’s Toolkit for Developing
 Campaigns to Abolish Policing, Critical Resistance (2020)
 
 bit.ly/CRAbolitionToolkit
-
 
 
 Police Abolition 101, Project Nia (2021) 
@@ -23318,9 +22773,7 @@ Police Abolition 101, Project Nia (2021)
 ### Extracted Text
 
 
-
 Spanish: https://bit.ly/LaAbolicionPolicia
-
 
 
 Police Responses to Domestic Violence, Interrupting Criminalization
@@ -23330,17 +22783,14 @@ Police Responses to Domestic Violence, Interrupting Criminalization
 bit.ly/PoliceResponsesDV
 
 
-
 Power & Control Wheel by Monica Cosby (designed by Sarah Ross)
 
 bit.ly/PowerControlMonica
 
 
-
 Practical Abolition video series, Amistad Law Project (2021)
 
 bit.ly/PracticalAbolitionVideos
-
 
 
 Preserving Punishment Power: A Grassroots Abolitionist Assessment of
@@ -23350,7 +22800,6 @@ New York Reforms (2020)
 survivedandpunishedny.org/wp-content/uploads/2020/04/SP-Preserving-
 
 Punishment-Power-report.pdf
-
 
 
 Problems with Community Control of Police and Proposals for Alternatives,
@@ -23366,7 +22815,6 @@ content/uploads/2021/03/Problems_w_CRBs_and_Proposals_for_Altern
 atives-1.pdf
 
 
-
 Reformist Reforms vs. Abolitionist Steps in Policing, Critical Resistance
 
 criticalresistance.org/wp-
@@ -23374,7 +22822,6 @@ criticalresistance.org/wp-
 content/uploads/2020/08/CR_NoCops_reform_vs_abolition_REV2020.p
 
 df
-
 
 
 Reparations for Survivors of Police Violence: Community Conversation
@@ -23394,13 +22841,11 @@ bit.ly/REPJuneConversationTK
 ### Extracted Text
 
 
-
 Don’ts, Interrupting Criminalization and Center for Advancing
 
 Innovative Policy (2019)
 
 interruptingcriminalization.com/resisting-crim
-
 
 
 A Revenue Generation Playbook: How to Fully Fund Our Communities,
@@ -23412,11 +22857,9 @@ Action Center on Race and the Economy and Community Resource Hub
 bit.ly/RGPlaybook
 
 
-
 6Ds Until She’s Free, Interrupting Criminalization (2020)
 
 bit.ly/6DsVideo
-
 
 
 Shrouded in Silence: What We Know About Police Sexual Violence and
@@ -23430,11 +22873,9 @@ Service Providers, Interrupting Criminalization (2021)
 interruptingcriminalization.com/breaking-the-silence
 
 
-
 Skills, Relationships, Structures Worksheet, Project NIA (2021)
 
 bit.ly/SkillsRelationshipsStructures
-
 
 
 Solutions to Violence: Creating Safety Without Prisons or Policing,
@@ -23444,7 +22885,6 @@ Common Justice (2021)
 commonjustice.org/solutions_to_violence_report
 
 
-
 Survived and Punished, Defending Self Defense
 
 survivedandpunished.org/wp-content/uploads/2022/03/DSD-Report-Mar-
@@ -23452,11 +22892,9 @@ survivedandpunished.org/wp-content/uploads/2022/03/DSD-Report-Mar-
 21-final.pdf
 
 
-
 Tool for Organizers: Mapping the PIC (2022)
 
 bit.ly/MappingThePIC
-
 
 
 Unmasked: Impacts of Pandemic Policing, COVID19 Policing Project,
@@ -23474,7 +22912,6 @@ communityresourcehub.org/wp-content/uploads/2020/12/Unmasked.pdf
 ### Extracted Text
 
 
-
 Feminist Online Special Issue (2019)
 
 sfonline.barnard.edu/unraveling-criminalizing-webs-building-police-free-
@@ -23482,11 +22919,9 @@ sfonline.barnard.edu/unraveling-criminalizing-webs-building-police-free-
 futures
 
 
-
 We Do This ’Til We Free Us Discussion Guide (2021)
 
 https://bit.ly/WeDoThisFreeUs
-
 
 
 What About the Rapists? An Abolitionist FAQ ’Zine, Interrupting
@@ -23496,13 +22931,11 @@ Criminalization (2021)
 interruptingcriminalization.com/what-about-the-rapists
 
 
-
 What Is Driving the Criminalization of Women and LGBTQ People?
 
 Interrupting Criminalization (2019)
 
 bit.ly/2019ICCrimReport
-
 
 
 What’s Next: Safer and More Just Communities Without Policing,
@@ -23525,8 +22958,6 @@ PDF: bit.ly/WhatsNextIC3
                                                  Notes
 
 
-
-
 Foreword
 
    1. Based on Kandace Montgomery and Miski Noor, “We Understand That Abolition Is the Long
@@ -23538,8 +22969,6 @@ inthesetimes.com/article/minneapolis-defund-police-black-visions-george-floyd   
 Miski Noor, and Kandace Montgomery, “The Uprisings: Yesterday, Today, Tomorrow,” The Forge,
 
 May 20, 2021, forgeorganizing.org/article/uprisings-yesterday-today-tomorrow.
-
-
 
 
 Introduction
@@ -23583,7 +23012,6 @@ uncounted-since-1980; Tim Arango and Shaila Dewan, “More Than Half of Police K
 ![Page 327 Complete](images/page_327_full.png)
 
 ### Extracted Text
-
 
 
 Habiba Ibrahim, “Race, Gender, and the Contexts of Unarmed Fatal Interactions with Police” (2018),
@@ -24084,7 +23512,6 @@ Affinities:   Post-Ferguson         Freedom     Dreams      and    the    Global
 ### Extracted Text
 
 
-
 criminalizing-webs-building-police-free-futures/trans-atlantic-affinities-post-ferguson-freedom-
 
 dreams-and-the-global-reverberations-of-black-feminist-struggle;                  Stuart     Schrader,    Badges     Without
@@ -24391,7 +23818,6 @@ legitimacy produced by economic, political, and social conditions of the 1980s. 
 ![Page 335 Complete](images/page_335_full.png)
 
 ### Extracted Text
-
 
 
 well as to set firmly into space) the crises of land, labor, finance capital, and state capacity.” See also
@@ -24775,8 +24201,6 @@ Reform,” New York Magazine, January 31, 2022, nymag.com/intelligencer/2022/01/
 reform-failure.html.
 
 
-
-
 Cops Don’t Stop Violence
 
    1. Andrea J. Ritchie, Invisible No More: Police Violence Against Black Women and Women of
@@ -24797,7 +24221,6 @@ and reliable journalism, in fact, it is reflective of the mainstream media’s u
 ![Page 339 Complete](images/page_339_full.png)
 
 ### Extracted Text
-
 
 
 police.” See also Micol Siegel, Violence Work: State Power and the Limits of Police (Durham: Duke
@@ -24901,7 +24324,6 @@ Department of Justice, Office of Justice Programs, Bureau of Justice Statistics,
 ### Extracted Text
 
 
-
 Company, 2009), 113.
 
 
@@ -25000,7 +24422,6 @@ April 17, 2020, aclu.org/news/criminal-law-reform/a-tale-of-two-countries-racial
 ![Page 341 Complete](images/page_341_full.png)
 
 ### Extracted Text
-
 
 
 www.marijuanajustice.org/legalize-it-right.
@@ -25104,8 +24525,6 @@ It’s    Solved,”      ProPublica,    November   15,   2018,      propublica.
 ![Page 342 Complete](images/page_342_full.png)
 
 ### Extracted Text
-
-
 
 
    56. Yeung et al., “When It Comes to Rape, Just Because a Case Is Cleared Doesn’t Mean It’s
@@ -25799,8 +25218,6 @@ also Washington Post Editorial Board, “We Have the Proper Public Safety Tools.
      154. Alexander and Sered, “Making Communities Safe, Without the Police.”
 
 
-
-
 We Are Survivors
 
      1. Jane Doe, The Story of Jane Doe (Toronto: Random House Canada, 2003).
@@ -25919,7 +25336,6 @@ violence and crime statistics and found that “although rates of domestic viole
 ![Page 350 Complete](images/page_350_full.png)
 
 ### Extracted Text
-
 
 
 not be a result of the act. Initially, those declines mirrored decreases in the overall crime rate. And
@@ -26546,7 +25962,6 @@ static1.squarespace.com/static/5ee39ec764dbd7179cf1243c/t/615d2d8d53ef604bf219fa
 ### Extracted Text
 
 
-
 Minnesota Women’s Press, October 29, 2021, womenspress.com/op-ed-question-2-represents-a-new-
 
 beginning-for-minneapolis.
@@ -26578,8 +25993,6 @@ Industrial Complex.
 
 
    113. Davis et al., Abolition. Feminism. Now.
-
-
 
 
 Re-Form
@@ -26851,7 +26264,6 @@ Kaepernick, ed. (Kaepernick Publishing, 2021). See also Garrett Felber, “The S
 ![Page 359 Complete](images/page_359_full.png)
 
 ### Extracted Text
-
 
 
 abolish-police-not-new.
@@ -27658,8 +27070,6 @@ Mislabeled, New Study Says,” New York Times, September 30, 2021.
    164. Brown and McHarris, “#8cantwait Is Based on Faulty Data Science.”
 
 
-
-
 No Soft Police 
 ---
 
@@ -27874,7 +27284,6 @@ diego-residents-no-strings-attached/2571879; Abigail Johnson Hess, “Meet the M
 ![Page 369 Complete](images/page_369_full.png)
 
 ### Extracted Text
-
 
 
 cnbc.com/2021/01/19/the-mayors-piloting-guaranteed-income-programs-across-the-us.html.
@@ -28177,7 +27586,6 @@ school.” See also Kate Hamaji and Kate Terenzi, Arrested Learning: A Survey of
 ### Extracted Text
 
 
-
 static1.squarespace.com/static/601b54abb7de8229ddb416d1/t/606c9982a8f63426e7b83c40/1617729
 
 927701/Police-Free+Schools+Final+V4+%281%29.pdf; Ritchie, Invisible No More; Annamma, The
@@ -28375,7 +27783,6 @@ Decarcerating Disabilty; James Kilgore, “Repackaging Mass Incarceration,” Co
 ### Extracted Text
 
 
-
 Any Other Name, 67–70, 101.
 
 
@@ -28475,7 +27882,6 @@ under statutes prohibiting solicitation and promotion of prostitution, “keepin
 ![Page 375 Complete](images/page_375_full.png)
 
 ### Extracted Text
-
 
 
 more vulnerable to violence, not less.
@@ -28734,7 +28140,6 @@ oppression.” Mia Mingus, “Medical Industrial Complex Visual,” Leaving Evid
 February   6,   2015,    leavingevidence.wordpress.com/2015/02/06/medical-industrial-complex-visual.
 
 Policing in the context of the medical industrial complex has taken the form of:
-
 
 
          continued      targeting    of    disabled   bodies   as   something        to   fix   …
@@ -29001,8 +28406,6 @@ and Social Control.”
 
 
    178. Davis et al., Abolition. Feminism. Now.
-
-
 
 
 How Do We Get There? Toward a Police-Free Future
@@ -29299,8 +28702,6 @@ Community         Governance      and    to   Coordinate     Together     Across
 ### Extracted Text
 
 
-
-
    51.    Pascal     Emmer         et   al.,    Unmasked:        Impacts        of     Pandemic     Policing,    October    2020,
 
 communityresourcehub.org/wp-content/uploads/2020/12/Unmasked.pdf.
@@ -29421,8 +28822,6 @@ rebelsteps.com/episodes/abolition-with-mariame-kaba.
    72. Shannon Perez-Darby and Mia Mingus, “What Is Self-Accountability?” BCRW Videos, 3:56,
 
 October 26, 2018, vimeo.com/291929245?embedded=true&source=video_title&owner=1739030.
-
-
 
 
 Tricks and Tensions
@@ -29915,7 +29314,6 @@ Say,” The Guardian, August 16, 2020. See also Akela Lacy, “Protestors in Mul
 ![Page 389 Complete](images/page_389_full.png)
 
 ### Extracted Text
-
 
 
 theintercept.com/2020/08/27/black-lives-matter-protesters-terrorism-felony-charges;                     Iveliz    Orellano,
@@ -30421,7 +29819,6 @@ progressive.org/magazine/rebel-cops-schivone.
 ### Extracted Text
 
 
-
    1. adrienne marie brown, Emergent Strategy: Shaping Change, Changing Worlds (Chico, CA: AK
 
 Press, 2017), 42.
@@ -30795,8 +30192,6 @@ Funambulist, December 20, 2018, thefunambulist.net/magazine/21-space-activism/in
 abolition-geography-california-central-valley-ruth-wilson-gilmore.
 
 
-
-
 Black Feminist Musings
 
    1. Audre Lorde, Sister Outsider: Essays and Speeches (New York: Crossings Press, 2007).
@@ -30933,7 +30328,6 @@ Migration, Capitalism, and the Rise of Racist Neoliberalism (Chicago: Haymarket 
 ![Page 399 Complete](images/page_399_full.png)
 
 ### Extracted Text
-
 
 
 38/politics/defund-the-global-policeman; William I. Robinson, “A Global Police State Is Emerging as
@@ -31123,8 +30517,6 @@ s=20&t=Wamf2fDJ4mQVKGEtUjQgyw.
                                         Index
 
 
-
-
 ableism, 128–129, 156–157
 
 abolition feminism, 249, 268–269, 273–274
@@ -31180,7 +30572,6 @@ anti-rape movement, 90–92
 ### Extracted Text
 
 
-
 art projects, 248–249
 
 Atlanta, GA, 149
@@ -31188,7 +30579,6 @@ Atlanta, GA, 149
 autonomous Indigenous mutuality, 211–212
 
 aworldwithoutpolice.org, 196
-
 
 
 Bailey, Moya, 145
@@ -31270,7 +30660,6 @@ Boggs, Grace Lee, 211, 213, 277
 ### Extracted Text
 
 
-
 BREATHE Act, 25–26, 220
 
 “broken windows” policing, 64
@@ -31300,7 +30689,6 @@ Burge, Jon, 237
 Bush, Cori, 26, 220
 
 BYP100, 8, 271
-
 
 
 California prison expansion, 22–23, 307n101
@@ -31358,7 +30746,6 @@ Castile, Philando, 4
 ![Page 404 Complete](images/page_404_full.png)
 
 ### Extracted Text
-
 
 
 Center for Popular Democracy, 8
@@ -31450,7 +30837,6 @@ community control of police, 230–234
 ### Extracted Text
 
 
-
 community policing, 124–126
 
 community review boards (CRBs), 231–232
@@ -31539,7 +30925,6 @@ dashboard cameras, 123
 ### Extracted Text
 
 
-
 Davis, Mike, 23, 31
 
 de-commodification of resources, 215–216
@@ -31615,7 +31000,6 @@ dual power strategy, 214, 243–244, 245, 253
 DuBois, W.E.B., 208
 
 
-
 economic issues, 124, 163. See also budgetary issues; capitalism; racial capitalism
 
 education. See schools 
@@ -31627,7 +31011,6 @@ education. See schools
 ![Page 407 Complete](images/page_407_full.png)
 
 ### Extracted Text
-
 
 
 8toAbolition, 111
@@ -31718,7 +31101,6 @@ with, 219–220; Violence Against Women Act, 76. See also budgetary issues
 ### Extracted Text
 
 
-
 Gary, Ja’Tovia, 190–191
 
 Generation Five, 256
@@ -31774,7 +31156,6 @@ Guinea-Bissau, 207
 gun sales, 62
 
 
-
 Haggerty, LaTanya, 1
 
 Haley, Sarah, 46, 274
@@ -31806,7 +31187,6 @@ Harvey, David, 27
 ![Page 409 Complete](images/page_409_full.png)
 
 ### Extracted Text
-
 
 
 Head Start programs, 254
@@ -31875,7 +31255,6 @@ invest/divest framework. See divest/invest framework
 involuntary commitment, 157
 
 
-
 James, Kirk, 168
 
 Jenkins, Andrea, 6
@@ -31895,7 +31274,6 @@ Jones, Monica, 105
 ![Page 410 Complete](images/page_410_full.png)
 
 ### Extracted Text
-
 
 
 just transition framework, 238–239
@@ -31981,7 +31359,6 @@ Lyles, Charleena, 123
 ![Page 411 Complete](images/page_411_full.png)
 
 ### Extracted Text
-
 
 
 Macias, Moki, 149
@@ -32073,7 +31450,6 @@ Mexico, 244–245
 ### Extracted Text
 
 
-
 Mijente, 244–245
 
 Miller, Reuben Jonathan, 181
@@ -32162,7 +31538,6 @@ news media. See mainstream media
 ### Extracted Text
 
 
-
 Nezhad, Sheila, 180, 219
 
 911 calls: domestic violence calls as percent of, 76; example of response to in Louisville,
@@ -32172,7 +31547,6 @@ KY, 77; for nonemergency or noncriminal issues, 199; police killing of caller, 1
 police response to, 33, 55, 193–194; response and alternatives to, 267
 
 nonpunitive consequences for harm. See accountability
-
 
 
 Oakland Power Projects, 267
@@ -32196,7 +31570,6 @@ by, 53; family regulation policies and, 171; mutual aid to counter, 254, 255;
 neoliberalism and, 27; soft policing and, 149–150; violence of, 268, 275–276
 
 organized labor and police fraternal associations, 227–228
-
 
 
 pandemic relief funds. See American Rescue Plan Act
@@ -32250,7 +31623,6 @@ funding
 ![Page 414 Complete](images/page_414_full.png)
 
 ### Extracted Text
-
 
 
 police control of crime rates, 49–53
@@ -32340,7 +31712,6 @@ racial profiling, 114
 ### Extracted Text
 
 
-
 radical care, 281–282
 
 rape. See domestic and sexual violence
@@ -32427,7 +31798,6 @@ Schenwar, Maya, 108, 150, 154
 ![Page 416 Complete](images/page_416_full.png)
 
 ### Extracted Text
-
 
 
 Seattle, WA, 55, 104, 227, 251
@@ -32519,7 +31889,6 @@ police-related violence, 2–3; police control of crime rates, 49–53; unreliab
 ### Extracted Text
 
 
-
 Stein, David, 13, 204, 225
 
 Stinson, Phil, 239
@@ -32604,7 +31973,6 @@ Tubman, Harriet, 283
 ![Page 418 Complete](images/page_418_full.png)
 
 ### Extracted Text
-
 
 
 “unfounded” criminal complaints, 51–52
@@ -32694,7 +32062,6 @@ Wilson, Darren, 1
 ### Extracted Text
 
 
-
 Wise, Kharey, 71
 
 Wun, Connie, 98, 118
@@ -32723,7 +32090,6 @@ Zapatistas, 243–244
                      About the Authors
 
 
-
 Mariame Kaba is a leading prison and police abolitionist. She is the
 
 founder and director of Project NIA and the co-founder of Interrupting
@@ -32731,7 +32097,6 @@ founder and director of Project NIA and the co-founder of Interrupting
 Criminalization. She is the author of the New York Times bestselling We Do
 
 This ’Til We Free Us and lives in New York City.
-
 
 
 Andrea    J.   Ritchie    is   a   nationally   recognized    expert    on   policing   and
@@ -32758,7 +32123,6 @@ lives in Detroit.
          Publishing in the Public Interest
 
 
-
 Thank you for reading this book published by The New Press. The New
 
 Press is a nonprofit, public interest publisher. New Press books and authors
@@ -32774,7 +32138,6 @@ New Press. Here are a few ways to stay up to date with our books, events,
 and the issues we cover:
 
 
-
 Sign up at www.thenewpress.com/subscribe to receive updates on New
 
 Press authors and issues and to be notified about local events
@@ -32784,7 +32147,6 @@ Like us on Facebook: www.facebook.com/newpressbooks
 Follow us on Twitter: www.twitter.com/thenewpress
 
 Follow us on Instagram: www.instagram.com/thenewpress
-
 
 
 Please consider buying New Press books for yourself; for friends and
@@ -32810,7 +32172,6 @@ www.thenewpress.com/donate.
 ### Extracted Text
 
 
-
 Foreword © 2022 Kandace Montgomery and Miski Noor
 
 All rights reserved.
@@ -32818,17 +32179,14 @@ All rights reserved.
 No part of this book may be reproduced, in any form, without written permission from the publisher.
 
 
-
 Requests for permission to reproduce selections from this book should be made through our website:
 
 https://thenewpress.com/contact.
 
 
-
 Published in the United States by The New Press, New York, 2022
 
 Distributed by Two Rivers Distribution
-
 
 
 ISBN 978-1-62097-678-4 (hc)
@@ -32839,7 +32197,6 @@ ISBN 978-1-62097-730-9 (ebook)
 
 
 CIP data is available
-
 
 
 The New Press publishes books that promote and enrich public discussion and understanding of the
@@ -32853,9 +32210,7 @@ collaboration of our many partners in the independent media and the not-for-prof
 booksellers, who often hand-sell New Press books; librarians; and above all by our authors.
 
 
-
 www.thenewpress.com
-
 
 
 Book design and composition by Bookbright Media
@@ -32863,7 +32218,5 @@ Book design and composition by Bookbright Media
 This book was set in Adobe Garamond, Rebrand Dis, and Interval Next
 
 
-
 Printed in the United States of America 
 ---
-

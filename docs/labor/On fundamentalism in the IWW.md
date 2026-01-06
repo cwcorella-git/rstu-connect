@@ -1,3 +1,8 @@
+---
+title: "## **On "fundamentalism" in the IWW**"
+category: "labor"
+---
+
 ## **On "fundamentalism" in the IWW**
 
 ## **Date:** Unknown

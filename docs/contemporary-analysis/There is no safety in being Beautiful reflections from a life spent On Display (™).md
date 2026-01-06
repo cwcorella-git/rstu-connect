@@ -1,3 +1,8 @@
+---
+title: "**There is no safety in being Beautiful: reflections from a life spent On Display (™)**"
+category: "contemporary-analysis"
+---
+
 # **There is no safety in being Beautiful: reflections from a life spent On Display (™)**
 
 ## **Date:** 2023-04-09
@@ -14,18 +19,27 @@ Hello. It's a Friday in April and I am here to admit that I have lied to you all
 
 I am here outside my favorite coffee shop with my stomach out for the first time in eons. I used to have a terminal addiction to crop tops and now here I am, hyper-aware that my stomach is out. For the better part of a year now, I have taken a break from being On Display. I've been out of the club. I've been campaigning on Tik Tok to buy my tribe some farm equipment, which is very different work than making a video of me looking cute so that hundreds of strangers comment and ask me if they know how gorgeous I am
 
-| became someone always very Beautiful sometime in my teenage years. I am breathing<br>differently now. I am here feeling like a feather floating back down to the body I left here on<br>earth. It's taken me months to balance out the reality of being naked and drunk for money with<br>the reality of my straight-lace life as a content creator and a mental health professional— and<br>lots of that balance has come with being honest about why that level of exposure felt so easy<br>and natural for me. |
+| became someone always very Beautiful sometime in my teenage years. I am breathing
+differently now. I am here feeling like a feather floating back down to the body I left here on
+earth. It's taken me months to balance out the reality of being naked and drunk for money with
+the reality of my straight-lace life as a content creator and a mental health professional— and
+lots of that balance has come with being honest about why that level of exposure felt so easy
+and natural for me. |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Dancing didn't feel odd at all… and |
 | that |
-| is the unusual part, right? Because if I am honest (which I am trying to be with you all these<br>days), it's because being semi-clothed for money wasn't |
+| is the unusual part, right? Because if I am honest (which I am trying to be with you all these
+days), it's because being semi-clothed for money wasn't |
 | all |
 | that much different from the life I've been living since I was a child. The life I am |
 | still |
-| living. Content creation and dancing and modeling and public speaking have had all this<br>instantaneous success for me because I am Beautiful. Truly. I didn't really have much of an<br>awkward phase becoming a stripper because |
+| living. Content creation and dancing and modeling and public speaking have had all this
+instantaneous success for me because I am Beautiful. Truly. I didn't really have much of an
+awkward phase becoming a stripper because |
 | so |
 | many things |
-| felt just like my first day of work— the gendered, racial, youthful performance of Beautiful<br>Black Girlhood. The first time I walked a runway (12 years old); the first time I was on camera |
+| felt just like my first day of work— the gendered, racial, youthful performance of Beautiful
+Black Girlhood. The first time I walked a runway (12 years old); the first time I was on camera |
 
 . This is the longest time I have gone without my nails done, or my hair done, or a facial since I
 
@@ -83,18 +97,23 @@ I argue that I am as much my body as I am my metaphysical mind, my floating soul
 
 ### been here, breathing. Long before my mind ever learned to grow and keep growing, before my mind knew anything at all, there was the Body, respirating for us. Communicating for me. The first self that ever was (and likely the last self I will ever be) is my Body. My mind will have withered and been gone and my Body will be here, breathing. If that's the case, I believe I would do well to study the physical nature of human connection, and I would like to take you all with me as I try to wrap my mind around the fact that my Body does not need me to think all
 
-| these self-important musings of what I am or am not. I am someone who imagines that I am in<br>community with myself. How do you talk about the intimacy of the self |
+| these self-important musings of what I am or am not. I am someone who imagines that I am in
+community with myself. How do you talk about the intimacy of the self |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | without |
-| The Body? About feelings, which live in the body? About sex and the politics that sex comes<br>wrapped in? How do we begin with the mind when The Body is the one that held us first? |
+| The Body? About feelings, which live in the body? About sex and the politics that sex comes
+wrapped in? How do we begin with the mind when The Body is the one that held us first? |
 | I have a couple questions for us at the start of things. |
 | (1) |
 | how does the internal self co-exist with the Body? |
-| In what ways do they inform each other? Are they ever completely separate? Is that even<br>possible? And if it is possible… do I want that? What do I gain from conceiving of the mind<br>and the body as independent forces? And if I do not stand to gain… |
+| In what ways do they inform each other? Are they ever completely separate? Is that even
+possible? And if it is possible… do I want that? What do I gain from conceiving of the mind
+and the body as independent forces? And if I do not stand to gain… |
 | who does? |
 | (2) |
 | How does my Body inform conception of self, internal and external? |
-| How does my body exist and interact with world systems? How can I create safe spaces for<br>my body, both personally and within community? |
+| How does my body exist and interact with world systems? How can I create safe spaces for
+my body, both personally and within community? |
 ## | What does that safety necessitate? |
 
 I am going to attempt to answer those questions by reading, writing and talking. I will be learning in real time; if you need to orient yourself to this online space, or you need more clarification on what that means for me as someone who makes art on the internet, I recommend listening to or reading the essay "The Garden Space: an Introduction." But this I will say at the top of every unit, so we can all be on the same page about what to expect from one another.
@@ -147,13 +166,16 @@ Section One: I am Ugly. Barbie and Ken circa 1960s. Tressie Mc Millan Cottom is 
 | most definitely |
 | feel the weight of the wrong people angry at you the way I am on the internet now |
 | |
-| The essay recounts, reflects, then reconvicts the reader about multiple assertions, however I<br>think the one people took the most issue is as follows: |
+| The essay recounts, reflects, then reconvicts the reader about multiple assertions, however I
+think the one people took the most issue is as follows: |
 | I, Tressie Mc Millan Cottom, am Ugly. |
-| She used the word unattractive here, but unattractive and Capital 'U' Ugly mean the exact<br>same thing. What is not Pretty is Ugly, and there is really not in between. |
+| She used the word unattractive here, but unattractive and Capital 'U' Ugly mean the exact
+same thing. What is not Pretty is Ugly, and there is really not in between. |
 | And hoes were mad. |
 | Hoes across racial, economic, generational, and gender signifiers were |
 | mad |
-| mad. A simple statement (I am Ugly) provokes equally simple but uncomfortable follow up<br>questions: |
+| mad. A simple statement (I am Ugly) provokes equally simple but uncomfortable follow up
+questions: |
 ## | Why? |
 
 | And, a bit further: |
@@ -162,11 +184,17 @@ Section One: I am Ugly. Barbie and Ken circa 1960s. Tressie Mc Millan Cottom is 
 | Ah! |
 | Now |
 | we're talking. |
-| Of course, I encourage you to read the essay for yourself. If you would like the text but cannot<br>afford it, or if you would like to sponsor the cost information sharing for someone else in<br>Threadings., email me at |
+| Of course, I encourage you to read the essay for yourself. If you would like the text but cannot
+afford it, or if you would like to sponsor the cost information sharing for someone else in
+Threadings., email me at |
 | ismatu.gwendolyn@gmail.com |
 | |
 | No reader left behind. |
-| The question of the standard (who makes the standard, or what makes the standard) is pretty<br>easily digested: white landowning men created means of measurement for what makes a<br>marketable and effective wife to continue and expand an imperialist white ethno-state. A racist<br>and genocidal Beauty standard follows suit. That part is not hard— or if it is, I have a lovely<br>Tik Tok series explaining the basis and effects of Capital 'B' Beauty. |
+| The question of the standard (who makes the standard, or what makes the standard) is pretty
+easily digested: white landowning men created means of measurement for what makes a
+marketable and effective wife to continue and expand an imperialist white ethno-state. A racist
+and genocidal Beauty standard follows suit. That part is not hard— or if it is, I have a lovely
+Tik Tok series explaining the basis and effects of Capital 'B' Beauty. |
 | The playlist is linked here in the newsletter. |
 ## | Standards of Beauty are visual and |
 
@@ -225,23 +253,36 @@ And that's the game! We all suffer and some of us get a pool party. It must be t
 | lottery, |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | distributed unequally and at random. |
-| "If you did not earn beauty, never had the real power to reject it, then you are as much a<br>vulnerable subject as I am in your own way." (12-13) |
+| "If you did not earn beauty, never had the real power to reject it, then you are as much a
+vulnerable subject as I am in your own way." (12-13) |
 | Fuck. Exactly. Let's keep going. |
 | Section Two: If ya status ain't hood |
 | If you are an aspiring Have Not, the best you can hope to end up as is The Exception. |
 | Here is that same long-hair doe-eye song. |
 | "But Lupita! But Naomi!" |
-| Yes, darling. I know you see them. The glittering dark-skin swimming like flies in milk among<br>the rest of the shining Beautiful people. I'm there, waving at you, pretending to be having a<br>good time. Or maybe the pool party you covet access to looks different entirely. Maybe it<br>smells like edge control and juicy couture and a fire hydrant raining down fresh summertime<br>relief. Maybe there's a criminal amount of bass. There is most |
+| Yes, darling. I know you see them. The glittering dark-skin swimming like flies in milk among
+the rest of the shining Beautiful people. I'm there, waving at you, pretending to be having a
+good time. Or maybe the pool party you covet access to looks different entirely. Maybe it
+smells like edge control and juicy couture and a fire hydrant raining down fresh summertime
+relief. Maybe there's a criminal amount of bass. There is most |
 | definitely |
 | a criminal amount of ass. And even here, still— |
 ## | Bodies |
 
-| . Laughter floating above the most Beautiful people you've ever seen, half of them with golden<br>teeth. |
+| . Laughter floating above the most Beautiful people you've ever seen, half of them with golden
+teeth. |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Enter Beauty's younger sister, cut with baking soda: |
 | Desirability. |
 | Indulge me in a short passage. |
-| I am dark, physically and culturally. My complexion is not close to whiteness and my family<br>roots reflect the economic realities of generations of dark-complexioned black people. We are<br>rural, even when we move to cities. Our mobility is modest. Our out-marriage rates to<br>nonblack men are negligible. Our social networks do not connect to elite black social<br>institutions. When we move around in the world, we brush up against the criminal justice<br>system. I am not located at the top of hip-hop's attenuated beauty hierarchy. I am, at best, in<br>the middle. As Michael Jackson once sang, when you're too high to get over it and too low to<br>get under it, you are stuck in the middle and the pain is thunder (12). |
+| I am dark, physically and culturally. My complexion is not close to whiteness and my family
+roots reflect the economic realities of generations of dark-complexioned black people. We are
+rural, even when we move to cities. Our mobility is modest. Our out-marriage rates to
+nonblack men are negligible. Our social networks do not connect to elite black social
+institutions. When we move around in the world, we brush up against the criminal justice
+system. I am not located at the top of hip-hop's attenuated beauty hierarchy. I am, at best, in
+the middle. As Michael Jackson once sang, when you're too high to get over it and too low to
+get under it, you are stuck in the middle and the pain is thunder (12). |
 | Look at where Beauty is located here: not |
 | just |
 | in physicality. Not just in or on my body. In |
@@ -291,16 +332,22 @@ Black self unattractive, as if she cannot taste the water we swim in. The holine
 
 | mad |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| mad at her because they have no desire to be Ugly by association. This is the cis, thin,<br>straight plight of the Black women, the |
+| mad at her because they have no desire to be Ugly by association. This is the cis, thin,
+straight plight of the Black women, the |
 | "why can't we just expand Beauty standards?" |
-| Those of us that are close to the top of the pyramid hope we can be the exception, still desired<br>by all. We ask, "well, why |
+| Those of us that are close to the top of the pyramid hope we can be the exception, still desired
+by all. We ask, "well, why |
 | can't |
-| we be included in the standard?" and never "Why is there a standard issue of the way a body<br>should be at all?" |
-| The theatrics allow us to keep the veil between worlds up; one where we know what we are<br>and are not, and one can pretend they [or we] can earn Beauty (thus: earn access, worth, and<br>safety) if they simply try hard enough. And that feeling of |
+| we be included in the standard?" and never "Why is there a standard issue of the way a body
+should be at all?" |
+| The theatrics allow us to keep the veil between worlds up; one where we know what we are
+and are not, and one can pretend they [or we] can earn Beauty (thus: earn access, worth, and
+safety) if they simply try hard enough. And that feeling of |
 | deservedness |
 | is |
 | powerful |
-| . It's the grease that allows you to capitalize and weaponize the Beauty that you know is rotten<br>and stinking. When you are able to say, "I |
+| . It's the grease that allows you to capitalize and weaponize the Beauty that you know is rotten
+and stinking. When you are able to say, "I |
 
 earned this," with your money, in the gym, by your makeup skill, via the man that chose you, whatever— it's all the easier to cast aside those who cannot or choose not to do the work. You get to do that and pretend you are not making some ugly negotiations. I want us to be so fr.
 
@@ -320,14 +367,20 @@ I was about to not graduate high school.
 
 , that is when I stared perfecting my eyeliner. That's when I figured out how to do Disney Princess makeup and how to slow down when I speak, how to pick dresses that made white folks with money, with recommendation letters, and with opportunities overlook the stench of poverty. The only reason I was able to graduate high school and go to college was because
 
-| my principle (who knew me as a sweet, pretty, church girl spelling bee champ) called the<br>school district on my behalf and told them to lay off. It was because my very Beautiful mother |
+| my principle (who knew me as a sweet, pretty, church girl spelling bee champ) called the
+school district on my behalf and told them to lay off. It was because my very Beautiful mother |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | stayed |
-| bribing the attendance ladies with her insanely good meat patties. I didn't even have to go to<br>trial. I fundamentally don't know that it would have went down like that if I were some kind of<br>structurally Ugly— if I was a fat Black girl that reads. If I was a disabled Black girl that reads. I<br>was a |
+| bribing the attendance ladies with her insanely good meat patties. I didn't even have to go to
+trial. I fundamentally don't know that it would have went down like that if I were some kind of
+structurally Ugly— if I was a fat Black girl that reads. If I was a disabled Black girl that reads. I
+was a |
 | pretty |
 | Black girl that reads and so I made it to elite college and kept negotiating. |
-| We are still negotiating, me and this body that breathes. We've been doing this little dance for<br>so long, I can't tell what's a choice and what's not. |
-| I don't have any judgements to make of myself. For a lot of us here, near the top but not quite,<br>what choice do we have? It don't make it right. It's never gonna be |
+| We are still negotiating, me and this body that breathes. We've been doing this little dance for
+so long, I can't tell what's a choice and what's not. |
+| I don't have any judgements to make of myself. For a lot of us here, near the top but not quite,
+what choice do we have? It don't make it right. It's never gonna be |
 | right |
 | — what it |
 | did |
@@ -337,28 +390,40 @@ was make sure I lived to adulthood. Beauty is precarious; it keeps me alive whil
 | Okay, now. |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Now |
-| , I digress. I want to be honest about the ways I benefit from Beauty capital, but it's a<br>double-edged sword for me. |
-| The other group that benefits from the performance of choice are the world-makers here: the<br>men. The people that cut the check. |
-| We vote and we walk in the Beauty pageant so that the oligarchs in charge can look fairly and<br>judiciously elected. |
-| And then— then! When "reworked" or "more inclusive" Beauty standards emerge, it's just a<br>coincidence that they |
+| , I digress. I want to be honest about the ways I benefit from Beauty capital, but it's a
+double-edged sword for me. |
+| The other group that benefits from the performance of choice are the world-makers here: the
+men. The people that cut the check. |
+| We vote and we walk in the Beauty pageant so that the oligarchs in charge can look fairly and
+judiciously elected. |
+| And then— then! When "reworked" or "more inclusive" Beauty standards emerge, it's just a
+coincidence that they |
 | happen |
-| to have their subject in swimsuits, drinking liquor laughing, belly up for the men who lick their<br>lips. It is |
+| to have their subject in swimsuits, drinking liquor laughing, belly up for the men who lick their
+lips. It is |
 | still |
-| marketable at finest, and if not marketable, desirable. Consumer ready. Safe to eat right out of<br>the packaging. There's a reason I only like it when I'm drunk. |
+| marketable at finest, and if not marketable, desirable. Consumer ready. Safe to eat right out of
+the packaging. There's a reason I only like it when I'm drunk. |
 | open they mouf they girl |
 ## | |
 
-| gleamin'. Come on Black girl white/cream fur coat!! A quintessential combo I myself rock in<br>real life, still to this day. |
+| gleamin'. Come on Black girl white/cream fur coat!! A quintessential combo I myself rock in
+real life, still to this day. |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| And so we giggle at the grills and float, happy and full of alcohol, and we never think about the<br>position of status symbol: void of true power, only being loved with possessive conditions<br>attached. We're not |
+| And so we giggle at the grills and float, happy and full of alcohol, and we never think about the
+position of status symbol: void of true power, only being loved with possessive conditions
+attached. We're not |
 | quite |
-| rendered speechless; of course, you can make a couple statements with your fabrics and your<br>patterns. |
+| rendered speechless; of course, you can make a couple statements with your fabrics and your
+patterns. |
 | But you are, in large effect, a purse. |
 | Fungible items. |
 | Raw materials to be used in the dreams of the powerful |
-| . Your weighted creation doesn't stretch further than what the checks think is Beautiful, and<br>you |
+| . Your weighted creation doesn't stretch further than what the checks think is Beautiful, and
+you |
 | might even be content |
-| because at least you are not outside the party, standing there, sweltering, sniveling. Ice cream<br>melting. Alone. |
+| because at least you are not outside the party, standing there, sweltering, sniveling. Ice cream
+melting. Alone. |
 | That's what I can say, right? That at least men want me. |
 ## | Ha ha. |
 
@@ -369,13 +434,18 @@ was make sure I lived to adulthood. Beauty is precarious; it keeps me alive whil
 | Never out loud. |
 | Because then what— I'm hot, you're not, game over? |
 | Where is the longing in that? |
-| We are meant to think that silently and smile to ourselves and then continue on in the<br>charade. Of course, the Haves are not |
+| We are meant to think that silently and smile to ourselves and then continue on in the
+charade. Of course, the Haves are not |
 | in |
-| paradise, they are allowed access into the paradise of the people that made the world for<br>them— but at least they are |
+| paradise, they are allowed access into the paradise of the people that made the world for
+them— but at least they are |
 | inside |
-| ! We take up a chorus of "self-love" and "inner peace" as the people that chose us create<br>conditional safetys and kisses on the forehead. Material and emotional reassurance for us,<br>"self-love" and "beautiful inside out" marketing for the Have Nots. |
+| ! We take up a chorus of "self-love" and "inner peace" as the people that chose us create
+conditional safetys and kisses on the forehead. Material and emotional reassurance for us,
+"self-love" and "beautiful inside out" marketing for the Have Nots. |
 | Yes, |
-| it is all marketing, even still. You simply cannot be Beautiful and openly mean-spirited or out of<br>balance; in |
+| it is all marketing, even still. You simply cannot be Beautiful and openly mean-spirited or out of
+balance; in |
 
 ## ![](_page_29_Figure_0.jpeg)
 

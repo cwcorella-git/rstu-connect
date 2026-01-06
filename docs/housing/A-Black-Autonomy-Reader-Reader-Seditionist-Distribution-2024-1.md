@@ -1,16 +1,10 @@
 ---
-title: A Black Autonomy Reader Reader Seditionist Distribution
-slug: A-Black-Autonomy-Reader-Reader-Seditionist-Distribution-2024-1
-reconversion_status: ready_for_reconversion
-date: '2024'
-author: Housing Advocacy Organization
-tags:
-  - housing
-  - tenants
-  - strikes
-  - unions
-  - rent
+title: "A Black Autonomy Reader Reader Seditionist Distribution"
+author: "Housing Advocacy Organization"
+date: "2024"
+category: "housing"
 ---
+
 ## ![](_page_0_Figure_0.jpeg)
 
 # **ANARCHISM**
@@ -2807,7 +2801,7 @@ TFSR: Weird question but is it CHAZ or CHOP? What's the dierence?
 
 e Duwamish people are, the government considers them a part of the Mukilteo tribe but they've been ghting for federal recognition for a long time and they have a longhouse in west Seattle that was actually where the original settlers landed. Oftentimes the opening of an event you would recognize the Duwamish and Suquamish people as the original caretakers of the land. So those are the two that are often recognized as the original caretakers.
 
-*<sup>\*</sup>transriber's note – the treaty was signed in Mukilteo by a number of tribes*
+*\*transriber's note – the treaty was signed in Mukilteo by a number of tribes*
 
 *TFSR:* We had someone come on the show and present an interview that they did with someone from up there who was talking about this community center that I think had an art collective – it was like Rising Star, I think was the name of the indigenous community space.
 

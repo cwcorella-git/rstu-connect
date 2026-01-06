@@ -1,3 +1,8 @@
+---
+title: "## **Long Live The Revolt!**"
+category: "contemporary-analysis"
+---
+
 ## **Long Live The Revolt!**
 
 ## **Date:** Unknown

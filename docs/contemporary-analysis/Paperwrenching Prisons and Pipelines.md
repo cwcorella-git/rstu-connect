@@ -1,18 +1,27 @@
+---
+title: "## **Paperwrenching Prisons and Pipelines**"
+category: "contemporary-analysis"
+---
+
 ## **Paperwrenching Prisons and Pipelines**
 
 ## **Date:** Tue, 10/31/2017 - 18:30
 
 | Source: https://ecology.iww.org/node/2576|
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Tags: Prison Ecology Project, green unionism, NoDAPL, prison labor, class war prisoners, pipelines,<br>jobs versus environment, green syndicalism, Sabal Trail Pipeline, Sabal Trail Resistance |
+| Tags: Prison Ecology Project, green unionism, NoDAPL, prison labor, class war prisoners, pipelines,
+jobs versus environment, green syndicalism, Sabal Trail Pipeline, Sabal Trail Resistance |
 | By Panagioti - |
 | Earth First! Journal |
 | , October 28, 2017 |
-| AUTHOR'S NOTE: If your the type who likes to cut to the chase, here it goes: There are two<br>open comment periods for Environmental Impacts Statements (EIS) that you should know<br>about. One for the |
+| AUTHOR'S NOTE: If your the type who likes to cut to the chase, here it goes: There are two
+open comment periods for Environmental Impacts Statements (EIS) that you should know
+about. One for the |
 | Sabal Trail Pipeline |
 | and another for the |
 | Letcher County federal prison |
-| . So take a few minutes to submit a comment ASAP using those links embedded up there. For<br>those who prefer some background and deeper analysis, read on… |
+| . So take a few minutes to submit a comment ASAP using those links embedded up there. For
+those who prefer some background and deeper analysis, read on… |
 | ——————————————————- |
 ## | Last year I co-authored " |
 

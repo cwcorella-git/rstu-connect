@@ -1,3 +1,8 @@
+---
+title: "## **Knife crime - analysing a moral panic**"
+category: "contemporary-analysis"
+---
+
 ## **Knife crime - analysing a moral panic**
 
 ## **Date:** Unknown

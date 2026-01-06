@@ -1,3 +1,8 @@
+---
+title: "COLONIALISM"
+category: "theory"
+---
+
 ## DISCOURSEON
 
 # COLONIALISM
@@ -238,7 +243,23 @@ And then you get this:
 
 From the selectionist point of view, I would look upon it as unfortunate if there should be a very great numerical expansion of the yellow and black elements, which would be difficult to eliminate. However, if the society of the future is organized on a dualistic basis, with a ruling class of dolichocephalic blonds and a class of inferior race confined to the roughest labor, it is possible that this latter role would fall to the yellow and black elements. In this case, moreover, they would not be an inconvenience for the dolichocephalic blonds but an advantage… It must not be forgotten that [slavery] is no more abnormal than the domestication of the horse or the ox. It is therefore possible that it may reappear in the future in one form or another. It is probably even inevitable that this will 3 In classical mythology Silenus was a satyr, the son of Pan. He was the fosterfather of Bacchus, the god of wine, and is described as a jolly old man, usually drunk. (Trans.)
 
-| 4<br>Not<br>a<br>bad<br>fellow<br>at<br>bottom,<br>as<br>later<br>events<br>proved,<br>in<br>an<br>absolute<br>frenzy. | but<br>on | that<br>day |
+| 4
+Not
+a
+bad
+fellow
+at
+bottom,
+as
+later
+events
+proved,
+in
+an
+absolute
+frenzy. | but
+on | that
+day |
 |------------------------------------------------------------------------------------------------------------------------|-----------|-------------|
 | | | |
 | | | |

@@ -1,3 +1,8 @@
+---
+title: "LETTERS FROM IWO JIMA"
+category: "contemporary-analysis"
+---
+
 # LETTERS FROM IWO JIMA
 
 Screenplay by
@@ -1448,7 +1453,7 @@ I should have been a fisherman.
 
 It must be hard on your wife without the shop and without a husband.
 
-34 <u>FLASHBACK</u> - INT. BAKERY SHOP, ENTRANCE - DAY (1943) 34
+34 FLASHBACK - INT. BAKERY SHOP, ENTRANCE - DAY (1943) 34
 
 HANAKO sweeps the floor of the empty bakery shop, pausing to rub her swollen belly.
 
@@ -2245,7 +2250,8 @@ Begin firing.
 | | • | | | | | |
 | | EXT. MOTOYAMA MOUNTAIN - DAY | | | | | |
 | | Baron Nishi stands by his men as they load a concealed tank unit. | | | | | |
-| | BARON NISHI<br>Fire! | | | | | |
+| | BARON NISHI
+Fire! | | | | | |
 | | The FORCE of the FIRE causes the tank to recoil. | | | | | |
 | 64 | EXT. SURIBACHI BEACH - DAY | 64 | | | | |
 | | The American marines are FIRED UPON from every direction. MINES BLOW, soldiers fall. Men and machines disintegrate. | | | | | |
@@ -2255,7 +2261,7 @@ Begin firing.
 | | | | | | | |
 | 65 | INT. SURIBACHI CAVES - DAY | 65 | | | | |
 | | Shimizu and Nozaki FIRE DOWN on the marines. The flamethrower is GUNNED DOWN. | | | | | |
-| 6 <b>6</b> | EXT. MOTOYAMA MOUNTAIN - DAY | 66 | | | | |
+| 6 6 | EXT. MOTOYAMA MOUNTAIN - DAY | 66 | | | | |
 | | The chaos of GUNFIRE, SHELLS and HOWLING ROCKETS ECHO through the mountains. | | | | | |
 | 67 | INT. COMMAND CENTER - EVENING | 67 | | | | |
 | | Kuribayashi fields reports from his officers. | | | | | |
@@ -3622,7 +3628,7 @@ Kuribayashi also hears the FAINT MUSIC through the RADIO TRANSMISSION.
 
 In the dark cave, Kuribayashi doodles a picture of a dinner party.
 
-105 <u>FLASHBACK</u> - INT. FORT BLISS (TEXAS) - DANCE HALL - 105 NIGHT - (1929)
+105 FLASHBACK - INT. FORT BLISS (TEXAS) - DANCE HALL - 105 NIGHT - (1929)
 
 An elaborate dinner party for the officers. MUSIC WAFTS through the hall. American officers and their wives mingle, dressed in formal attire. Kuribayashi is seated at a dinner table, looking awkward.
 
@@ -5323,7 +5329,7 @@ Kuribayashi releases his grip and looks off into the distance. He sees a stretch
 
 The empty clearing transitions into a long stretch of road across the PLAINS OF TEXAS.
 
-# 167 <u>FLASHBACK</u> - EXT. FORT BLISS, TEXAS (NIGHT)
+# 167 FLASHBACK - EXT. FORT BLISS, TEXAS (NIGHT)
 
 ## 167
 

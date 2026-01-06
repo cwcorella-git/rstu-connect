@@ -1,10 +1,8 @@
 ---
-title: The Anarchist Library Anarwiki
-date: 2025
-author: Unknown
-tags:
-  - organizing
-  - anarchism
+title: "The Anarchist Library Anarwiki"
+author: "Unknown"
+date: "2025"
+category: "theory"
 ---
 
 # The Anarchist Library Anarwiki

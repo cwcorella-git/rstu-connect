@@ -1,3 +1,8 @@
+---
+title: "## **How To Fight a Pipeline**"
+category: "contemporary-analysis"
+---
+
 ## **How To Fight a Pipeline**
 
 ## **Date:** Thu, 02/18/2016 - 22:08

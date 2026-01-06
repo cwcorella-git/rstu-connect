@@ -1,3 +1,8 @@
+---
+title: "## **A Change of Heart—Revolutionary Ecology in a World of Climate Change**"
+category: "theory"
+---
+
 ## **A Change of Heart—Revolutionary Ecology in a World of Climate Change**
 
 **Date:** Thu, 06/22/2017 - 11:09

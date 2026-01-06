@@ -1,16 +1,10 @@
 ---
-title: 'Debt: The First 5,000 Years'
-slug: Debt
-reconversion_status: ready_for_reconversion
-author: Wayne Price
-date: 2012
-tags:
-  - housing
-  - tenants
-  - strikes
-  - unions
-  - rent
+title: "Debt: The First 5,000 Years"
+author: "Wayne Price"
+date: "2012"
+category: "housing"
 ---
+
 ## **David Graeber**
 
 # **Debt**
@@ -179,7 +173,7 @@ For a very long time, the intellectual consensus has been that we can no longer 
 
 ### **The Myth of Barter**
 
-For every subtle and complicated question, there is <sup>a</sup> perfectly simple and straightforward answer, which is wrong.
+For every subtle and complicated question, there is a perfectly simple and straightforward answer, which is wrong.
 
 ## —H. L. Mencken
 
@@ -377,7 +371,7 @@ The curious thing is that it never happened. This new history was never written.
 
 ## **Primordial Debts**
 
-In being born every being is born as debt owed to the gods, the saints, the Fathers and to men. If one makes <sup>a</sup> sacrifice, it is because of a debt owing to the gods from birth … If one recites a sacred text, it is because of a debt owing to the saints … If one wishes for offspring, it is because of a debt due to the fathers from birth … And if one gives hospitality, it is because it is a debt owing to men.
+In being born every being is born as debt owed to the gods, the saints, the Fathers and to men. If one makes a sacrifice, it is because of a debt owing to the gods from birth … If one recites a sacred text, it is because of a debt owing to the saints … If one wishes for offspring, it is because of a debt due to the fathers from birth … And if one gives hospitality, it is because it is a debt owing to men.
 
 ## —Satapatha Brahmana 1.7.12, 1–6
 

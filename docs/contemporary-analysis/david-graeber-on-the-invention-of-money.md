@@ -1,31 +1,11 @@
 ---
-title: On the invention of money
-author: David Graeber
-date: 'September 13, 2011'
-language: en
-source_url: >-
-  Retrieved on 3<sup>rd</sup> September 2020 from
-  https://www.nakedcapitalism.com/2011/09/david-graeber-on-the-invention-of-money-%E2%80%93-notes-on-sex-adventure-monomaniacal-sociopathy-and-the-true-function-of-economics.html
-notes: <em>A Reply to Robert Murphy’s ‘Have anthropologists overturned Menger?</em>
-topics:
-  - money
-  - sex
-  - sociology
-  - economy
-  - anthropology
-  - a response
-original_format: muse
-converted_date: '2025-11-08T11:25:03.162710'
-tags:
-  - Money
-  - Sex
-  - Sociology
-  - Economy
-  - Anthropology
-  - A Response
+title: "On the invention of money"
+author: "David Graeber"
+date: "September 13, 2011"
+category: "contemporary-analysis"
 ---
 
-Last week, Robert F. Murphy published a piece on the webpage of the Von Mises Institute responding to some points I made in a recent interview on Naked Capitalism, where I mentioned that the standard economic accounts of the emergence of money from barter appears to be wildly wrong. Since this contradicted a position taken by one of the gods of the Austrian pantheon, the 19<sup>th</sup> century economist Carl Menger, Murphy apparently felt honor-bound to respond.
+Last week, Robert F. Murphy published a piece on the webpage of the Von Mises Institute responding to some points I made in a recent interview on Naked Capitalism, where I mentioned that the standard economic accounts of the emergence of money from barter appears to be wildly wrong. Since this contradicted a position taken by one of the gods of the Austrian pantheon, the 19th century economist Carl Menger, Murphy apparently felt honor-bound to respond.
 
 In a way, Murphy’s essay barely merits response. In the interview I’m simply referring to arguments made in my book, ‘Debt: The First 5000 Years’. In his response, Murphy didn’t even consult the book; in fact he later admitted he was responding at least in part not even to the interview but to an inaccurate summary of my position someone had made in another blog!
 
@@ -37,7 +17,7 @@ First, the history:
 
  1. Adam Smith first proposed in ‘The Wealth of Nations’ that as soon as a division of labor appeared in human society, some specializing in hunting, for instance, others making arrowheads, people would begin swapping goods with one another (6 arrowheads for a beaver pelt, for instance.) This habit, though, would logically lead to a problem economists have since dubbed the ‘double coincidence of wants’ problem—for exchange to be possible, both sides have to have something the other is willing to accept in trade. This was assumed to eventually lead to the people stockpiling items deemed likely to be generally desirable, which would thus become ever more desirable for that reason, and eventually, become money. Barter thus gave birth to money, and money, eventually, to credit.
 
- 2. 19<sup>th</sup> century economists such as Stanley Jevons and Carl Menger [1] kept the basic framework of Smith’s argument, but developed hypothetical models of just how money might emerge from such a situation. All assumed that in all communities without money, economic life could only have taken the form of barter. Menger even spoke of members of such communities “taking their goods to market”—presuming marketplaces where a wide variety of products were available but they were simply swapped directly, in whatever way people felt advantageous.
+ 2. 19th century economists such as Stanley Jevons and Carl Menger [1] kept the basic framework of Smith’s argument, but developed hypothetical models of just how money might emerge from such a situation. All assumed that in all communities without money, economic life could only have taken the form of barter. Menger even spoke of members of such communities “taking their goods to market”—presuming marketplaces where a wide variety of products were available but they were simply swapped directly, in whatever way people felt advantageous.
 
  3. Anthropologists gradually fanned out into the world and began directly observing how economies where money was not used (or anyway, not used for everyday transactions) actually worked. What they discovered was an at first bewildering variety of arrangements, ranging from competitive gift-giving to communal stockpiling to places where economic relations centered on neighbors trying to guess each other’s dreams. What they never found was any place, anywhere, where economic relations between members of community took the form economists predicted: “I’ll give you twenty chickens for that cow.” Hence in the definitive anthropological work on the subject, Cambridge anthropology professor Caroline Humphrey concludes, “No example of a barter economy, pure and simple, has ever been described, let alone the emergence from it of money; all available ethnography suggests that there never has been such a thing” [2]
 

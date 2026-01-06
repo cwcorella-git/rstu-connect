@@ -1,12 +1,21 @@
+---
+title: "## **Event: Bay Area IWW Celebrates Judi Bari Day**"
+category: "contemporary-analysis"
+---
+
 ## **Event: Bay Area IWW Celebrates Judi Bari Day**
 
 ## **Date:** Tue, 05/13/2025 - 16:44
 
 | Source: https://ecology.iww.org/node/6571|
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Tags: Bay Area IWW, Judi Bari, Darryl Cherney, Judi Bari Bombing (May 24 1990), Earth First! - IWW<br>Local 1, green unionism, green syndicalism, Redwood Summer, Redwood Uprising, green industrial<br>unionism |
+| Tags: Bay Area IWW, Judi Bari, Darryl Cherney, Judi Bari Bombing (May 24 1990), Earth First! - IWW
+Local 1, green unionism, green syndicalism, Redwood Summer, Redwood Uprising, green industrial
+unionism |
 | The Bay Area IWW |
-| invites everyone to join us in honoring Judi Bari Day (May 24th) to honor our late comrade and<br>fellow worker Judi Bari. Judi Bari was a revolutionary ecologist active in Earth First! and a<br>member of the IWW, her story is detailed |
+| invites everyone to join us in honoring Judi Bari Day (May 24th) to honor our late comrade and
+fellow worker Judi Bari. Judi Bari was a revolutionary ecologist active in Earth First! and a
+member of the IWW, her story is detailed |
 | here |
 | , |
 | here |
@@ -30,7 +39,10 @@ Miraculously, Bari survived severe injuries (and would live another seven years,
 
 Sometime after the two won the case, the City of Oakland declared that May 24 would be known as "Judi Bari" Day in honor of the deceased organizer. Every year at approximately
 
-| 11:30, Judi's surviving comrades gather at the site of the bombing (On Park Blvd at E 34th<br>Street, just down the hill from Mac Arthur Freeway / I-580, next to Oakland High School) to<br>"Mark the Moment" (11:53 AM) of the bombing and honor her memory (and discuss relevant<br>current struggles). |
+| 11:30, Judi's surviving comrades gather at the site of the bombing (On Park Blvd at E 34th
+Street, just down the hill from Mac Arthur Freeway / I-580, next to Oakland High School) to
+"Mark the Moment" (11:53 AM) of the bombing and honor her memory (and discuss relevant
+current struggles). |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | email |
 | greensyndicalist@gmail.com |

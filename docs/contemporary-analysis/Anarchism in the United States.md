@@ -1,3 +1,8 @@
+---
+title: "**Ronald Creagh, Gabriel Kuhn, Jesse Cohn**"
+category: "contemporary-analysis"
+---
+
 # **Ronald Creagh, Gabriel Kuhn, Jesse Cohn**
 
 # **Anarchism in the United States 2009**

@@ -1,3 +1,8 @@
+---
+title: "**Episode 19: Augustine And Aquin/**"
+category: "contemporary-analysis"
+---
+
 # **Episode 19: Augustine And Aquin/**
 
 **Source:** https://www.meaningcrisis.co/ep-19-awakening-from-the-meaning-crisis-augustine-and-aquin/

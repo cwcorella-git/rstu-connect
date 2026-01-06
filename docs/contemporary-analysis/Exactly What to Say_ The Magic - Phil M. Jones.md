@@ -1,3 +1,8 @@
+---
+title: "Phil M Jones"
+category: "contemporary-analysis"
+---
+
 "This is the dictionary of business success language.
 Right from page 1, you're given the strategy to change the way you influence others."
 SCOTT STRATTEN, President of Un Marketing Inc. and best-selling author of the Un Marketing series
@@ -304,10 +309,13 @@ By using the preface, "When would be a good time to...?" you prompt the other pe
 
 Examples for you to use include...
 
-| When<br>would be a good time for you to take a proper look at this? |
+| When
+would be a good time for you to take a proper look at this? |
 |---------------------------------------------------------------------|
-| When<br>would be a good time to get started? |
-## | When<br>would be a good time to speak next? |
+| When
+would be a good time to get started? |
+## | When
+would be a good time to speak next? |
 
 In all of these scenarios, please be certain that when you gain a reply, you work to schedule the precise next point of contact in order to keep control of the conversation in your hands.
 

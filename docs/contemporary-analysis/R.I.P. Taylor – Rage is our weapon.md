@@ -1,3 +1,8 @@
+---
+title: "## **R. I. P. Taylor – Rage is our weapon**"
+category: "contemporary-analysis"
+---
+
 ## **R. I. P. Taylor – Rage is our weapon**
 
 ## **Date:** Unknown

@@ -1,19 +1,8 @@
 ---
-title: Bethnal Green — A Museum of Housing
-author: Colin Ward
-date: January 1963
-pubdate: '2020-10-08T08:20:10'
-language: en
-source_url: >-
-  Retrieved on 8<sup>th</sup> October 2020 from
-  https://libcom.org/library/bethnal-green-museum-housing
-notes: 'Originally published in <em>Anarchy</em> #023'
-topics:
-  - housing
-original_format: muse
-converted_date: '2025-11-08T11:25:02.014881'
-tags:
-  - Housing
+title: "Bethnal Green — A Museum of Housing"
+author: "Colin Ward"
+date: "January 1963"
+category: "housing"
 ---
 
 THE PREFABS I HAD COME TO SEE IN BETHNAL GREEN were put up a month ago by the London County Council on some of the pockets of land awaiting re-development, as a stop-gap measure because of the manifest failure of housing to keep pace with employment in London. The idea is that when the site is permanently re-developed, in, say, five years, the house is picked up and moved elsewhere. (Not with the tenants in: they are expected to have been found accommodation by then).

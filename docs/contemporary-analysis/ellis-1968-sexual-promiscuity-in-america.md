@@ -1,3 +1,8 @@
+---
+title: "Sexual Promiscuity in America"
+category: "contemporary-analysis"
+---
+
 # Sexual Promiscuity in America
 
 #### By ALBERT ELLIS
@@ -20,21 +25,21 @@ Early New Amsterdam was not conspicuous for its virtue. . . . As contrasted with
 
 In eighteenth-century America, as Calhoun has shown, sexual morality was "a very scarce commodity among people of the ruling class." And during the nineteenth century, various kinds of
 
-<sup>&</sup>lt;sup>1</sup> Ray E. Baber, Marriage and the Family (New York: Mc-Graw-Hill, 1939).
+&lt;sup>1 Ray E. Baber, Marriage and the Family (New York: Mc-Graw-Hill, 1939).
 
-<sup>&</sup>lt;sup>2</sup> Carl Bridenbaugh, Cities in the Wilderness (New York: Ronald Press, 1938).
+&lt;sup>2 Carl Bridenbaugh, Cities in the Wilderness (New York: Ronald Press, 1938).
 
-<sup>&</sup>lt;sup>3</sup> Arthur W. Calhoun, A Social History of the American Family (Cleveland: Clark, 1917).
+&lt;sup>3 Arthur W. Calhoun, A Social History of the American Family (Cleveland: Clark, 1917).
 
-promiscuity were rampant among white Southerners, mining-camp followers, church-led polygamists and communal-society residents, freed Negroes, and many other groups.<sup>4</sup>
+promiscuity were rampant among white Southerners, mining-camp followers, church-led polygamists and communal-society residents, freed Negroes, and many other groups.4
 
 In recent decades, evidence of both premarital and extramarital promiscuity has continued to be shown. Although most Americans still lead lives of quiet sexual desperation and have actual coitus with but few partners during their lifetime, a sizable number of males and. seemingly, an increasing number of females deviate considerably from this norm and, for a few or many years, have multiple affairs. Virtually every objective study of contemporary sex behavior that has been done during the last thirty years conclusively indicates that we are far from being a truly monogamous (one mate for a lifetime) or even a very monogynous (one mate at a time) people.5
 
 Is sexual promiscuity increasing at the present time? Most probably, yes. Petting to orgasm is becoming the rule rather than the exception among large segments of our young people; and it is the general tendency of many of these youngsters to "make out" with almost any member of the other sex whom they date. Premarital intercourse is considered to be a requisite to marrying by
 
-<sup>4</sup> James G. Leyburn, Frontier Folkways (New Haven: Yale University Press, 1935); A. P. Richard, Marriage and Divorce (Chicago: Rand, Mc Nally, 1899); Nevil L. Sims, A Hoosier Village (New York: Columbia University, 1912); Calhoun, op. cit.
+4 James G. Leyburn, Frontier Folkways (New Haven: Yale University Press, 1935); A. P. Richard, Marriage and Divorce (Chicago: Rand, Mc Nally, 1899); Nevil L. Sims, A Hoosier Village (New York: Columbia University, 1912); Calhoun, op. cit.
 
-<sup>5</sup> G. V. Hamilton, A Research in Marriage (New York: Boni, 1929); Alfred C. Kinsey, et al., Sexual Behavior in the Human Female (Philadelphia: Saunders, 1953); Winston W. Ehrmann, Premarital Dating Behavior (New York: Holt, Rinehart and Winston, 1960); Ira L. Reiss, Premarital Sexual Standards in America (Glencoe, Ill.: Free Press, 1960); Paul H. Gebhard, et al., Sex Offenders (New York: Harper and Row, 1965); Harry Benjamin and R. E. L. Masters, Prostitution and Morality (New York: Julian Press, 1964); Albert Ellis, The Case for Sexual Freedom (Tucson: Seymour Press, 1965).
+5 G. V. Hamilton, A Research in Marriage (New York: Boni, 1929); Alfred C. Kinsey, et al., Sexual Behavior in the Human Female (Philadelphia: Saunders, 1953); Winston W. Ehrmann, Premarital Dating Behavior (New York: Holt, Rinehart and Winston, 1960); Ira L. Reiss, Premarital Sexual Standards in America (Glencoe, Ill.: Free Press, 1960); Paul H. Gebhard, et al., Sex Offenders (New York: Harper and Row, 1965); Harry Benjamin and R. E. L. Masters, Prostitution and Morality (New York: Julian Press, 1964); Albert Ellis, The Case for Sexual Freedom (Tucson: Seymour Press, 1965).
 
 a large percentage of college-level individuals and is also widely engaged in by less-educated members of the population who are theoretically opposed to it. Certain groups, such as the beatniks and the hippies, think nothing of going to bed with each other the very first day they meet, and are also highly enthusiastic about group sex experiences. Not only are literally hundreds of thousands of Americans promiscuously homosexual. but many basically heterosexual individuals now actively seek and find occasional homosexual encounters as well. Mate-swapping is openly practiced by an increasing number of people and is encouraged by several widely sold, as well as by many privately circulated, publications. While common prostitution has considerably decreased, the call-girl business openly flourishes, and is largely supported by highly respectable business concerns. Nude living is increasing both in organized groups (such as nudist camps, which tend to be far more sexually liberal today than they were a decade ago) and among unorganized individuals (who frequently mix it with sexual participations). Even group marriage, which is a difficult practice to sustain for any length of time because of the problems inherent in finding suitable partners who can maintain domestic compatibility with all the other members of a group, has been increasingly espoused and carried out during the last several vears by several enthusiastic bands of Americans.
 
@@ -48,7 +53,7 @@ What has changed in the last decade or two is the liberalization of attitude tow
 
 Only recently has this hypocrisy shown real signs of coming to a halt. Our newsstands are now full of magazines and paperback books-including Playboy, which is phenomenally successful-which portray most forms of human sexuality as an unalloyed joy and which vigorously campaign against puritanical views. Our movies are becoming incredibly revealing, including presentations of nudity and sex activity which would have been clearly banned only a few years ago; and even our home television screens are now showing films like Never on Sunday and La Dolce Vita, which they never allowed before. We now have sex education in many public schools: radio and television discussions on sex that were previously entirely taboo; assigned readings in college courses of books that were once con-
 
-<sup>6</sup> Albert Ellis, *The Folklore of Sex* (New York: Boni, 1951; rev. ed., New York: Grove Press, 1961); Albert Ellis, *The American Sexual Tragedy* (New York: Twayne, 1954; rev. ed., New York: Lyle Stuart and Grove Press, 1962).
+6 Albert Ellis, *The Folklore of Sex* (New York: Boni, 1951; rev. ed., New York: Grove Press, 1961); Albert Ellis, *The American Sexual Tragedy* (New York: Twayne, 1954; rev. ed., New York: Lyle Stuart and Grove Press, 1962).
 
 sidered downright pornography; published reports, including photographs, of many young people who are openly living together in "sin"; and many other manifestations of openly espoused sexual liberalism. I can add a personal note to this by stating that less than five years ago when I spoke to groups of college students on sexual topics, there was frequently an outcry of protest from members of the administration and the citizens of the community in which I lectured. Today, there is much less hue and cry in this respect, and I am increasingly asked to speak on sexual subiects by Young Men's Christian Associations, by religious departments of various universities, and by Catholic colleges.
 
@@ -60,7 +65,7 @@ The main barrier to promiscuity today no longer seems to be the timehonored reli
 
 The fact that one can truly love several members of the other sex in rapid succession or even simultaneously is blithely ignored by most of those who violently oppose promiscuity. So is the fact that just as love leads to sex, sex frequently leads to love. Sparked, however, by the experiences and the
 
-<sup>7</sup> Mary Perkins Ryan and John Julian Ryan, Love and Sexuality: A Christian Approach (New York: Holt, 1967).
+7 Mary Perkins Ryan and John Julian Ryan, Love and Sexuality: A Christian Approach (New York: Holt, 1967).
 
 8 Albert Ellis, Sex Without Guilt (New York: Grove Press and Lyle Stuart; rev. ed., 1965); Albert Ellis, If This Be Sexual Heresy (New York: Lyle Stuart and Tower Publications, 1966).
 
@@ -70,7 +75,7 @@ At the uni-level way of life, we are led to believe that educationally, emotiona
 
 Whether the latest proposals for amative promiscuity will bear any better or longer-lasting fruit than those which were started in several utopian American communities in the 1840's and
 
-<sup>9</sup> T. Pascal, "Group Dating," Modern Utopian, Vol. 2, No. 2 (October-November 1967), pp. 3, 12. thereabouts remains to be seen. But modern promiscuity, in both theory and some practice, has gone far beyond mere sex play, and it will be interesting to watch future developments in promiscuous love.
+9 T. Pascal, "Group Dating," Modern Utopian, Vol. 2, No. 2 (October-November 1967), pp. 3, 12. thereabouts remains to be seen. But modern promiscuity, in both theory and some practice, has gone far beyond mere sex play, and it will be interesting to watch future developments in promiscuous love.
 
 #### REASONS FOR MODERN PROMISCUITY
 
@@ -100,11 +105,11 @@ In every highly literate area of our country today-and especially in the northea
 
 # Is Sexual Promiscuity Compatible WITH MENTAL HEALTH?
 
-Recent psychological literature has been highly equivocal about diagnosing promiscuous individuals as being emotionally aberrated. On the one hand, some studies have strongly stated or implied that promiscuous people, especially women, are distinctly disturbed.<sup>11</sup>
+Recent psychological literature has been highly equivocal about diagnosing promiscuous individuals as being emotionally aberrated. On the one hand, some studies have strongly stated or implied that promiscuous people, especially women, are distinctly disturbed.11
 
-<sup>10</sup> Robert A. Harper, Psychoanalysis and Psychotherapy: 36 Systems (Englewood Cliffs, N. J.: Prentice-Hall, 1959); Alvin R. Mahrer, The Goals of Psychotherapy (New York: Appleton-Century-Crofts, 1967).
+10 Robert A. Harper, Psychoanalysis and Psychotherapy: 36 Systems (Englewood Cliffs, N. J.: Prentice-Hall, 1959); Alvin R. Mahrer, The Goals of Psychotherapy (New York: Appleton-Century-Crofts, 1967).
 
-<sup>11</sup> E. G. Lion, et al., An Experiment in the Psychiatric Treatment of Promiscuous Girls
+11 E. G. Lion, et al., An Experiment in the Psychiatric Treatment of Promiscuous Girls
 
 On the other hand, as noted above, psychotherapists have published innumerable clinical reports indicating that their clients, when they were behaving in a sexually loose manner, were considered by them to be healthier than when they were sexually conventional, and various kinds of promiscuity are encouraged in the course of many individual and group therapy sessions.
 
@@ -118,7 +123,7 @@ The human individual largely learns about himself and others by engaging in wide
 
 12 Albert Ellis, "Healthy and Disturbed Reasons for Having Extramarital Relations," Paper presented at the American Psychological Association Convention, September 5, 1967. To be included in Gerhard Neubeck (ed.), Extramarital Relations (Englewood Cliffs, N. J.: Prentice-Hall, 1968).
 
-to maximum change and growth in the individual, as I have noted in several of my psychotherapeutic writings;<sup>13</sup> and considerable sex-love experimenting tends notably to expand one's experiential outlook.
+to maximum change and growth in the individual, as I have noted in several of my psychotherapeutic writings;13 and considerable sex-love experimenting tends notably to expand one's experiential outlook.
 
 #### Freedom-seeking
 
@@ -132,7 +137,7 @@ Although some sexual varietists, as I shall indicate below, believe that they ne
 
 It is often wrongly believed that sexual promiscuity interferes with deep,
 
-<sup>13</sup> Albert Ellis, Reason and Emotion in Psychotherapy (New York: Lyle Stuart, 1962); Albert Ellis and Robert A. Harper, A Guide to Rational Living (Englewood Cliffs, N. J.: Prentice-Hall, 1961; and Hollywood: Willshire Books, 1967).
+13 Albert Ellis, Reason and Emotion in Psychotherapy (New York: Lyle Stuart, 1962); Albert Ellis and Robert A. Harper, A Guide to Rational Living (Englewood Cliffs, N. J.: Prentice-Hall, 1961; and Hollywood: Willshire Books, 1967).
 
 abiding love relationships. On the contrary, individuals who have only one sex partner during their entire lives more frequently than not end up in relationships where they take each other for granted, are romantically loveless, and even loathe one another; while those who have many sex partners often eventually find one or more with whom they maintain prolonged and intense involvements. As many novelists and playwrights have indicated, sexual experimentation is almost the only path that ultimately will lead many of us to "real" love, and some people deliberately take this path for that very reason.
 
@@ -154,7 +159,7 @@ The emotionally disturbed individual characteristically convinces himself that h
 
 A considerable amount of promiscuity, on the part of both sexes, is for ego-bolstering reasons. The male who feels inadequate wrongly concludes that he can become a "real man" by adding sexual notches to his belt: so he seeks one conquest after another. The woman who feels that she must be loved, in order to compensate for her own feelings of worthlessness, discovers that hopping into bed with males is the easiest and quickest way to gain at least a small measure of masculine approval. highly promiscuous women, in fact, have intercourse for sex reasons; most of them seem to do so in order falsely to enhance their egos-instead of truly raising their self-confidence by convincing themselves that they can fully accept themselves whether or not other people, including males, approve of them.14
 
-<sup>14</sup> Albert Ellis and Edward Sagarin, Nymphomania: A Study of the Oversexed Woman (New York: Julian Messner-Gilbert Books and Macfadden-Bartel, 1965).
+14 Albert Ellis and Edward Sagarin, Nymphomania: A Study of the Oversexed Woman (New York: Julian Messner-Gilbert Books and Macfadden-Bartel, 1965).
 
 # Escapism
 

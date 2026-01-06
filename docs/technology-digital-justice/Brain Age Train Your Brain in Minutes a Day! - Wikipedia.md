@@ -1,3 +1,8 @@
+---
+title: "[Brain Age: Train Your Brain in Minutes a Day!](https://en.wikipedia.org/wiki/Main_Page)"
+category: "technology-digital-justice"
+---
+
 ## ![](_page_0_Picture_2.jpeg)
 
 # [Brain Age: Train Your Brain in Minutes a Day!](https://en.wikipedia.org/wiki/Main_Page)
@@ -10,7 +15,7 @@ Brain Age features a variety of puzzles, including [Stroop tests,](https://en.wi
 
 ### Gameplay
 
-Brain Age is designed to be played a little each day, similar to the [Nintendogs](https://en.wikipedia.org/wiki/Nintendogs) titles and [Animal Crossing:](https://en.wikipedia.org/wiki/Animal_Crossing:_Wild_World) [Wild World](https://en.wikipedia.org/wiki/Animal_Crossing:_Wild_World). The Nintendo DS is held on its side, with the touch screen on the right for right-handed people and the left for left-handed people. The game is entirely touch and voice-controlled – the player either writes the answer to the puzzle on the touch screen or speaks it into the microphone. Before the player can begin a Brain Age session, they must input information. First, players must confirm the date and select which hand they write with. The player then inputs their name and date of birth.
+Brain Age is designed to be played a little each day, similar to the [Nintendogs](https://en.wikipedia.org/wiki/Nintendogs) titles and [Animal Crossing:](https://en.wikipedia.org/wiki/Animal_Crossing:_Wild_World) [Wild World](https://en.wikipedia.org/wiki/Animal_Crossing:_Wild_World). The Nintendo DS is held on its side, with the touch screen on the right for right-handed people and the left for left-handed people. The game is entirely touch and voice-controlled - the player either writes the answer to the puzzle on the touch screen or speaks it into the microphone. Before the player can begin a Brain Age session, they must input information. First, players must confirm the date and select which hand they write with. The player then inputs their name and date of birth.
 
 ## ![](_page_0_Figure_9.jpeg)
 
@@ -22,21 +27,33 @@ At the end of all Brain Age Check puzzles, Training puzzles, Quick Play puzzles,
 
 The player is also awarded stamps for each day they complete the puzzles. When enough is accumulated, the game unlocks certain features such as more puzzles in Training mode, Hard versions of these puzzles, and the ability to customize the player's own stamps.
 
-While the player is navigating the menus outside of the puzzles, Professor Kawashima appears to prompt and encourage the user. Brain Age allows up to four players to save profiles on one DS game card, and these players can interact with each other in several different ways. There are five modes of play – Brain Age Check, Training, Quick Play, Download, and Sudoku.
+While the player is navigating the menus outside of the puzzles, Professor Kawashima appears to prompt and encourage the user. Brain Age allows up to four players to save profiles on one DS game card, and these players can interact with each other in several different ways. There are five modes of play - Brain Age Check, Training, Quick Play, Download, and Sudoku.
 
 When starting a session, Kawashima may ask the player to participate in a Picture-Drawing Quiz, which requires the player to draw a person, place, or thing by memory using the touch screen. After the player has done all three, the game will compare their drawing to an example created by the game developers, along
 
-| Composer(s) | Minako<br>Hamano<br>Akito<br>Nakatsuka |
+| Composer(s) | Minako
+Hamano
+Akito
+Nakatsuka |
 |-------------|----------------------------------------|
-| Series | Brain<br>Age |
+| Series | Brain
+Age |
 | Platform(s) | Nintendo DS |
-| Release | JP: May 19,<br>2005 |
-| | USA: April<br>16, 2006 |
-| | CAN: April<br>17, 2006 |
-| | EU: June 9,<br>2006 |
-| | AU: June 16,<br>2006 |
-| Genre(s) | Puzzle,<br>edutainment |
-## | Mode(s) | Single<br>player,<br>multiplayer |
+| Release | JP: May 19,
+2005 |
+| | USA: April
+16, 2006 |
+| | CAN: April
+17, 2006 |
+| | EU: June 9,
+2006 |
+| | AU: June 16,
+2006 |
+| Genre(s) | Puzzle,
+edutainment |
+## | Mode(s) | Single
+player,
+multiplayer |
 
 with advice of what to emphasize on below its image. If more than one player profile is saved on the game card, images for the day can be compared to those of other players.
 
@@ -81,7 +98,7 @@ There are nine training programs in Training mode:
 
 #### Quick Play
 
-Quick Play can be played by anyone, whether they have a saved file or not. Quick Play allows the player to play three modes – Quick Brain Age Check, Quick Training, and Quick Sudoku, all only providing the player with one of the easy puzzles in each of these modes to try. Quick Brain Age Check only allows the player to play the stroop test. In Quick Training, the game only allows the player to play Calculations × 20. In Quick Sudoku, which is only available for North America, Europe and South Korea, the player may only play the easiest Sudoku puzzle available. At the end of each session, the player's brain age or time will be assessed, and Kawashima will give a preview of the full game.
+Quick Play can be played by anyone, whether they have a saved file or not. Quick Play allows the player to play three modes - Quick Brain Age Check, Quick Training, and Quick Sudoku, all only providing the player with one of the easy puzzles in each of these modes to try. Quick Brain Age Check only allows the player to play the stroop test. In Quick Training, the game only allows the player to play Calculations × 20. In Quick Sudoku, which is only available for North America, Europe and South Korea, the player may only play the easiest Sudoku puzzle available. At the end of each session, the player's brain age or time will be assessed, and Kawashima will give a preview of the full game.
 
 #### Download
 
@@ -89,7 +106,7 @@ A player with a copy of Brain Age can send certain game data to other Nintendo D
 
 #### Sudoku
 
-Included in the [North America,](https://en.wikipedia.org/wiki/North_America) [Europe,](https://en.wikipedia.org/wiki/Europe) [Australia](https://en.wikipedia.org/wiki/Australia) and [Korea](https://en.wikipedia.org/wiki/Korea) versions of this game is a [Sudoku](https://en.wikipedia.org/wiki/Sudoku) mode, which features more than 100 puzzles across three different modes – Beginner, Intermediate, and Advanced. Sudoku involves a 9×9 grid with numbers in every square. Some of these numbers are visible, while others are not. The objective is to fill in the hidden numbers using the visible numbers as hints. Each row, column, and 3×3 grid has nine squares in it, and each must contain each number in the range from 1 to 9.
+Included in the [North America,](https://en.wikipedia.org/wiki/North_America) [Europe,](https://en.wikipedia.org/wiki/Europe) [Australia](https://en.wikipedia.org/wiki/Australia) and [Korea](https://en.wikipedia.org/wiki/Korea) versions of this game is a [Sudoku](https://en.wikipedia.org/wiki/Sudoku) mode, which features more than 100 puzzles across three different modes - Beginner, Intermediate, and Advanced. Sudoku involves a 9×9 grid with numbers in every square. Some of these numbers are visible, while others are not. The objective is to fill in the hidden numbers using the visible numbers as hints. Each row, column, and 3×3 grid has nine squares in it, and each must contain each number in the range from 1 to 9.
 
 ## Scientific effectiveness
 
@@ -162,7 +179,7 @@ The game was one of the [launch titles](https://en.wikipedia.org/wiki/Launch_tit
 
 ### Notes a. Known in Japan as Nō o Kitaeru Otona no DS Training (脳を鍛える⼤⼈のDSトレーニング, Nō o Kitaeru Otona no DS Torēningu, lit. "Train Your Brain: DS Training For Adults"), full title Tōhōku Daigaku Mirai Kagakugijutsu Kyōdōkenkyū Center Kawashima Ryūta Kyōju Kanshū: Nō o Kitaeru Otona no DS Training [\(Japanese:](https://en.wikipedia.org/wiki/Japanese_language) 東
 
-北⼤学未来科学技術共同研究センター川島隆太教授監修 脳を鍛える⼤⼈のDSトレーニング, [Hepburn:](https://en.wikipedia.org/wiki/Hepburn_romanization) Tōhōku Daigaku Mirai Kagakugijutsu Kyōdōkenkyū Sentā Kawashima Ryūta Kyōju Kanshū: Nō o Kitaeru Otona no Dī Esu Torēningu, lit. ["Tohoku University](https://en.wikipedia.org/wiki/Tohoku_University) Future Technology Research Center Professor and Supervisor [Ryuta Kawashima](https://en.wikipedia.org/wiki/Ryuta_Kawashima)'s Train Your Brain: DS Training For Adults"), and known in South Korea as Daily DS Brain Training (매일매일�DS�두뇌�트레이닝).
+北⼤学未来科学技術共同研究センター川島隆太教授監修 脳を鍛える⼤⼈のDSトレーニング, [Hepburn:](https://en.wikipedia.org/wiki/Hepburn_romanization) Tōhōku Daigaku Mirai Kagakugijutsu Kyōdōkenkyū Sentā Kawashima Ryūta Kyōju Kanshū: Nō o Kitaeru Otona no Dī Esu Torēningu, lit. ["Tohoku University](https://en.wikipedia.org/wiki/Tohoku_University) Future Technology Research Center Professor and Supervisor [Ryuta Kawashima](https://en.wikipedia.org/wiki/Ryuta_Kawashima)'s Train Your Brain: DS Training For Adults"), and known in South Korea as Daily DS Brain Training (매일매일DS두뇌트레이닝).
 
 ### References
 
@@ -180,7 +197,7 @@ The game was one of the [launch titles](https://en.wikipedia.org/wiki/Launch_tit
 - 11. Adam Sage (January 2009). ["Nintendo brain-trainer 'no better than pencil and paper'](https://web.archive.org/web/20100602140737/http://technology.timesonline.co.uk/tol/news/tech_and_web/gadgets_and_gaming/article5587314.ece) [" \(https://web.archive.org/w](https://web.archive.org/web/20100602140737/http://technology.timesonline.co.uk/tol/news/tech_and_web/gadgets_and_gaming/article5587314.ece) [eb/20100602140737/http://technology.timesonline.co.uk/tol/news/tech\\_and\\_web/gadgets\\_and\\_gaming/article558](https://web.archive.org/web/20100602140737/http://technology.timesonline.co.uk/tol/news/tech_and_web/gadgets_and_gaming/article5587314.ece) [7314.ece\).](https://web.archive.org/web/20100602140737/http://technology.timesonline.co.uk/tol/news/tech_and_web/gadgets_and_gaming/article5587314.ece) London: Times Online. Archived from [the original \(http://technology.timesonline.co.uk/tol/news/tech\\_a](http://technology.timesonline.co.uk/tol/news/tech_and_web/gadgets_and_gaming/article5587314.ece) [nd\\_web/gadgets\\_and\\_gaming/article5587314.ece\)](http://technology.timesonline.co.uk/tol/news/tech_and_web/gadgets_and_gaming/article5587314.ece) on June 2, 2010. Retrieved January 28, 2009.
 - 12. ["](http://news.bbc.co.uk/1/hi/health/7912379.stm) ['Brain training' claims dismissed" \(http://news.bbc.co.uk/1/hi/health/7912379.stm\).](http://news.bbc.co.uk/1/hi/health/7912379.stm) BBC News. February 26, 2009. [Archived \(https://web.archive.org/web/20090301193114/http://news.bbc.co.uk/1/hi/health/7912379.stm\)](https://web.archive.org/web/20090301193114/http://news.bbc.co.uk/1/hi/health/7912379.stm) from the original on March 1, 2009. Retrieved April 26, 2010.
 - 13. Nouchi, Rui; Taki, Yasuyuki; Takeuchi, Hikaru; Hashizume, Hiroshi; Akitsuki, Yuko; Shigemune, Yayoi; Sekiguchi, Atsushi; Kotozaki, Yuka; Tsukiura, Takashi; Yomogida, Yukihito; Kawashima, Ryuta (2012). ["Brain Training Game](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3256163) [Improves Executive Functions and Processing Speed in the Elderly: A Randomized Controlled Trial" \(https://www.n](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3256163) [cbi.nlm.nih.gov/pmc/articles/PMC3256163\).](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3256163) PLOS ONE. 7 (1). Institute of Development, Aging and Cancer, Tohoku University: e29676. [Bibcode](https://en.wikipedia.org/wiki/Bibcode_(identifier))[:2012PLoSO...729676N \(https://ui.adsabs.harvard.edu/abs/2012PLoSO...729676N\).](https://ui.adsabs.harvard.edu/abs/2012PLoSO...729676N) [doi:](https://en.wikipedia.org/wiki/Doi_(identifier))[10.1371/journal.pone.0029676 \(https://doi.org/10.1371%2Fjournal.pone.0029676\).](https://doi.org/10.1371%2Fjournal.pone.0029676) [PMC](https://en.wikipedia.org/wiki/PMC_(identifier)) [3256163 \(https://ww](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3256163) [w.ncbi.nlm.nih.gov/pmc/articles/PMC3256163\).](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3256163) [PMID](https://en.wikipedia.org/wiki/PMID_(identifier)) [22253758 \(https://pubmed.ncbi.nlm.nih.gov/22253758\).](https://pubmed.ncbi.nlm.nih.gov/22253758)
-- 14. Simons, Daniel; Boot, Walter; Charness, Neil; Gathercole, Susan; Chabris, Christopher; Hambrick, David; Stine-Morrow, Elizabeth (October 2, 2016). ["Do "Brain-Training" Programs Work?" \(https://journals.sagepub.com/doi/10.](https://journals.sagepub.com/doi/10.1177/1529100616661983) [1177/1529100616661983\).](https://journals.sagepub.com/doi/10.1177/1529100616661983) Association for Psychological Science. 17 (3): 103–186. [doi:](https://en.wikipedia.org/wiki/Doi_(identifier)) [10.1177/1529100616661983 \(https://doi.org/10.1177%2F1529100616661983\).](https://doi.org/10.1177%2F1529100616661983) Retrieved April 8, 2024.
+- 14. Simons, Daniel; Boot, Walter; Charness, Neil; Gathercole, Susan; Chabris, Christopher; Hambrick, David; Stine-Morrow, Elizabeth (October 2, 2016). ["Do "Brain-Training" Programs Work?" \(https://journals.sagepub.com/doi/10.](https://journals.sagepub.com/doi/10.1177/1529100616661983) [1177/1529100616661983\).](https://journals.sagepub.com/doi/10.1177/1529100616661983) Association for Psychological Science. 17 (3): 103-186. [doi:](https://en.wikipedia.org/wiki/Doi_(identifier)) [10.1177/1529100616661983 \(https://doi.org/10.1177%2F1529100616661983\).](https://doi.org/10.1177%2F1529100616661983) Retrieved April 8, 2024.
 - 15. Simon Carless Simon. ["Breaking: GDC Detailed Nintendo Keynote Coverage" \(http://www.gamasutra.com/php-bi](http://www.gamasutra.com/php-bin/news_index.php?story=8656) [n/news\\_index.php?story=8656\).](http://www.gamasutra.com/php-bin/news_index.php?story=8656) Gamasutra. [Archived \(https://web.archive.org/web/20060325205135/http://gam](https://web.archive.org/web/20060325205135/http://gamasutra.com/php-bin/news_index.php?story=8656) [asutra.com/php-bin/news\\_index.php?story=8656\)](https://web.archive.org/web/20060325205135/http://gamasutra.com/php-bin/news_index.php?story=8656) from the original on March 25, 2006. Retrieved August 23, 2006.
 - 16. ["GDC 06: Nintendo rallies the faithful" \(http://www.gamespot.com/news/2006/03/23/news\\_6146541.html\)](http://www.gamespot.com/news/2006/03/23/news_6146541.html) [Archived \(https://web.archive.org/web/20070930234955/http://www.gamespot.com/news/2006/03/23/news\\_6146](https://web.archive.org/web/20070930234955/http://www.gamespot.com/news/2006/03/23/news_6146541.html) [541.html\)](https://web.archive.org/web/20070930234955/http://www.gamespot.com/news/2006/03/23/news_6146541.html) September 30, 2007, at the [Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine) by Tim Surette, [Game Spot,](https://en.wikipedia.org/wiki/Game Spot) March 23, 2006. Retrieved June 11, 2006.
 
@@ -216,7 +233,7 @@ The game was one of the [launch titles](https://en.wikipedia.org/wiki/Launch_tit
 - 44. Kohler, Chris (December 24, 2009). "The 15 Most Infl[uential Games of the Decade" \(https://www.wired.com/game](https://www.wired.com/gamelife/2009/12/the-15-most-influential-games-of-the-decade/all/1) life/2009/12/the-15-most-infl[uential-games-of-the-decade/all/1\).](https://www.wired.com/gamelife/2009/12/the-15-most-influential-games-of-the-decade/all/1) [Wired](https://en.wikipedia.org/wiki/Wired_(magazine)). [Archived \(https://web.archive.org/web/20](https://web.archive.org/web/20110908015101/http://www.wired.com/gamelife/2009/12/the-15-most-influential-games-of-the-decade/all/1) [110908015101/http://www.wired.com/gamelife/2009/12/the-15-most-in](https://web.archive.org/web/20110908015101/http://www.wired.com/gamelife/2009/12/the-15-most-influential-games-of-the-decade/all/1)fluential-games-of-the-decade/all/1[\)](https://web.archive.org/web/20110908015101/http://www.wired.com/gamelife/2009/12/the-15-most-influential-games-of-the-decade/all/1) from the original on September 8, 2011. Retrieved September 10, 2011.
 - 45. Michael Mc Whertor (June 11, 2006). ["Free Brain Age With DS Lite Purchase" \(https://web.archive.org/web/200703](https://web.archive.org/web/20070310011504/http://kotaku.com/gaming/brain-age/) [10011504/http://kotaku.com/gaming/brain-age/\).](https://web.archive.org/web/20070310011504/http://kotaku.com/gaming/brain-age/) Kotaku. Archived from [the original \(https://www.kotaku.com/ga](https://www.kotaku.com/gaming/brain-age/) [ming/brain-age/\)](https://www.kotaku.com/gaming/brain-age/) on March 10, 2007. Retrieved June 11, 2006.
 - 46. ["Dr. Kawashima's Brain Training" \(https://web.archive.org/web/20060520070437/http://www.revo-europe.com/ga](https://web.archive.org/web/20060520070437/http://www.revo-europe.com/game.php?gid=dsbrain) [me.php?gid=dsbrain\).](https://web.archive.org/web/20060520070437/http://www.revo-europe.com/game.php?gid=dsbrain) Revolution Europe. Archived from [the original \(http://www.revo-europe.com/game.php?gid](http://www.revo-europe.com/game.php?gid=dsbrain) [=dsbrain\)](http://www.revo-europe.com/game.php?gid=dsbrain) on May 20, 2006. Retrieved 2006-06-11.
-- 47. Nick Clayton (July 15, 2006). ["Nintendo start to think outside the box" \(http://living.scotsman.com/digital.cfm?id=](http://living.scotsman.com/digital.cfm?id=1019962006) [1019962006\).](http://living.scotsman.com/digital.cfm?id=1019962006) Living – Digital Culture. Scotsman.com. [Archived \(https://web.archive.org/web/20071012080548/ht](https://web.archive.org/web/20071012080548/http://living.scotsman.com/digital.cfm?id=1019962006) [tp://living.scotsman.com/digital.cfm?id=1019962006\)](https://web.archive.org/web/20071012080548/http://living.scotsman.com/digital.cfm?id=1019962006) from the original on October 12, 2007. Retrieved August 18, 2006.
+- 47. Nick Clayton (July 15, 2006). ["Nintendo start to think outside the box" \(http://living.scotsman.com/digital.cfm?id=](http://living.scotsman.com/digital.cfm?id=1019962006) [1019962006\).](http://living.scotsman.com/digital.cfm?id=1019962006) Living - Digital Culture. Scotsman.com. [Archived \(https://web.archive.org/web/20071012080548/ht](https://web.archive.org/web/20071012080548/http://living.scotsman.com/digital.cfm?id=1019962006) [tp://living.scotsman.com/digital.cfm?id=1019962006\)](https://web.archive.org/web/20071012080548/http://living.scotsman.com/digital.cfm?id=1019962006) from the original on October 12, 2007. Retrieved August 18, 2006.
 
 - 48. ["Keep Your Brain Stimulated: Dr. Elizabeth Zelinski speaks" \(https://web.archive.org/web/20060709204059/http://](https://web.archive.org/web/20060709204059/http://www.braintraining.com.au/stimulated.html) [www.braintraining.com.au/stimulated.html\).](https://web.archive.org/web/20060709204059/http://www.braintraining.com.au/stimulated.html) Nintendo of Australia. Archived from [the original \(http://www.braintra](http://www.braintraining.com.au/stimulated.html) [ining.com.au/stimulated.html\)](http://www.braintraining.com.au/stimulated.html) on July 9, 2006. Retrieved August 10, 2006.
 - 49. "[매일매일](https://web.archive.org/web/20070523032414/http://www.nintendo.co.kr/www/soft/brain_main.php) DS 두뇌 트레이닝[" \(https://web.archive.org/web/20070523032414/http://www.nintendo.co.kr/www/soft/brai](https://web.archive.org/web/20070523032414/http://www.nintendo.co.kr/www/soft/brain_main.php) [n\\_main.php\).](https://web.archive.org/web/20070523032414/http://www.nintendo.co.kr/www/soft/brain_main.php) Nintendo of Korea. Archived from [the original \(http://www.nintendo.co.kr/www/soft/brain\\_main.php\)](http://www.nintendo.co.kr/www/soft/brain_main.php) on May 23, 2007. Retrieved May 30, 2007.

@@ -1,3 +1,8 @@
+---
+title: "Be Water, My Friend"
+category: "environmental-justice"
+---
+
 # Be Water, My Friend
 
 ## THE TEACHINGS OF
@@ -874,7 +879,11 @@ When my father first started adding cross-training exercises to his martial arts
 | TUES. PUNCH - 500 (R) | Punch - 500 (R) WED 250 (L) |
 | CYCLING 2 MILES (7 MIN) | STOMACH - LEG RAISES SIT-UP- |
 | PUNCH Supple - 500 (R-3) | SIDE BENDS |
-| STOMACH: -<br>LEG RAISES - 7 SETS<br>SIDE BENDS - 7 SETS | PUNCH SUPPLE - 7567.<br>500 (R)<br>250 (L) |
+| STOMACH: -
+LEG RAISES - 7 SETS
+SIDE BENDS - 7 SETS | PUNCH SUPPLE - 7567.
+500 (R)
+250 (L) |
 | RUN - IMILE | CYCLING - 2 MILES |
 | PUNCH - 500 (R) | Punch supple (R-S) |
 | 250 (4) | 7:30 - WORKOUT |
@@ -1951,7 +1960,7 @@ Identifiers: LCCN 2020031675 | ISBN 9781250206688 (hardcover) | ISBN 97812507948
 
 Subjects: LCSH: Martial arts—Philosophy. | Spiritual life. | Lee, Bruce, 1940– 1973.
 
-Classification: LCC GV1101 . L44 2020 | DDC 796.8—dc23 LC record available at <https://lccn.loc.gov/2020031675>
+Classification: LCC GV1101 . L44 2020 | DDC 796.8—dc23 LC record available at 
 
 ### eISBN 9781250206695
 

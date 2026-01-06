@@ -1,14 +1,10 @@
 ---
-date: 2025
-author: hashing verified
-tags:
-  - organizing
-  - unions
-  - tenants
-  - housing
-  - rent
 title: "Building a Comprehensive Tenant Organizing Platform for Reno-Sparks"
+author: "hashing verified"
+date: "2025"
+category: "housing"
 ---
+
 # Building a Comprehensive Tenant Organizing Platform for Reno-Sparks
 
 *Converted from: `./Building a Comprehensive Tenant Organizing Platform for Reno-Sparks.pdf`*  
@@ -26,11 +22,9 @@ title: "Building a Comprehensive Tenant Organizing Platform for Reno-Sparks"
 ### Extracted Text
 
 
-Building a comprehensive tenant organizing platform for Reno-
-Sparks
+Building a comprehensive tenant organizing platform for RenoSparks
 This report synthesizes extensive research on technical architecture, privacy systems, mapping
-solutions, and successful organizing platforms to provide an implementable blueprint for the Reno-
-Sparks Tenants Union. The recommendations prioritize practical solutions that a single developer can
+solutions, and successful organizing platforms to provide an implementable blueprint for the RenoSparks Tenants Union. The recommendations prioritize practical solutions that a single developer can
 prototype while establishing foundations for future expansion across Nevada's distinct rental markets.
 
 Technical foundation balances security with accessibility
@@ -246,4 +240,3 @@ week implementation timeline and sub-$200 annual operating costs make this visio
 achievable, with clear paths for expansion across Nevada's distinct rental markets.
 
 ---
-

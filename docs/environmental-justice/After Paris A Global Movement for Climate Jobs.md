@@ -1,3 +1,8 @@
+---
+title: "## **After Paris: A Global Movement for Climate Jobs**"
+category: "environmental-justice"
+---
+
 ## **After Paris: A Global Movement for Climate Jobs**
 
 ## **Date:** Mon, 12/21/2015 - 15:53
@@ -40,14 +45,21 @@ We need to do thousands of other things, but those four things will make most of
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Global Climate Jobs |
 | here.) |
-| Moreover, we want government climate jobs programs to ensure a retraining and a permanent<br>job to anyone who loses a high carbon job during the transition. That is only fair, and if we<br>don't do it we will split unions and communities. |
+| Moreover, we want government climate jobs programs to ensure a retraining and a permanent
+job to anyone who loses a high carbon job during the transition. That is only fair, and if we
+don't do it we will split unions and communities. |
 | What You Can Do |
-| We are building national campaigns for climate jobs, country by country. This is where we<br>need your help. |
-| Going into the Paris climate talks at the end of November we had seven national climate jobs<br>campaigns established or starting up, in Philippines, Mauritius, Norway, Britain, Portugal,<br>South Africa and Canada, and one local campaign in New York State. |
+| We are building national campaigns for climate jobs, country by country. This is where we
+need your help. |
+| Going into the Paris climate talks at the end of November we had seven national climate jobs
+campaigns established or starting up, in Philippines, Mauritius, Norway, Britain, Portugal,
+South Africa and Canada, and one local campaign in New York State. |
 | (To contact any of these existing campaigns, |
 | look here |
 | .) |
-| Seven of the existing campaigns are built on strong union support. Four also have strong<br>support from environmental groups. At Paris two of them took political steps forward. Jeremy<br>Corbyn, the leader of the opposition Labour Party in Britain, |
+| Seven of the existing campaigns are built on strong union support. Four also have strong
+support from environmental groups. At Paris two of them took political steps forward. Jeremy
+Corbyn, the leader of the opposition Labour Party in Britain, |
 
 publicly endorsed the British One Million Climate Jobs campaign at a rally of 800 people. And the Canadian campaign brought together an impressive coalition of organisations to press Trudeau's new government to hire 200,000 workers a year for five years, to cut Canadian emissions by 25% in 5 years. (See in French here
 
@@ -65,12 +77,18 @@ The eight existing campaigns have a pretty good idea of what they are doing. In 
 
 Global Climate Jobs is the network of all the national climate campaigns. What we want to do is to build national climate jobs campaigns in as many countries as possible. There are two reasons. One is that the more of us there are across the world, the stronger we feel. The other reason is that the key breakthrough for a global solution will come when one country actually wins a government climate jobs program that provides very large numbers of new jobs and cuts emissions by 80% or more. After that, we will all be following a living example. So we need to try everywhere we can.
 
-| Those national campaigns will be built, in the first instance, by small groups of people in each<br>country. If you want to help, wherever you are, write to us at |
+| Those national campaigns will be built, in the first instance, by small groups of people in each
+country. If you want to help, wherever you are, write to us at |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | globalclimatejobs[at]gmail.com |
-| . Tell us a little bit about yourself, 10 to 30 words, so we know how to put you in touch with<br>each other. We want to hear from you if you are a national union official, but also if you are<br>just a person who cares. |
-| We urge you to build campaigns that are built on wide support, that include at least some<br>strong trade union base, and that are not the project of only one political party or one NGO.<br>We may have to start small, but we want coalitions that can eventually change a country. |
-| We will also arrange regional climate jobs workshops in the next eighteen months. Our<br>tentative list is: |
+| . Tell us a little bit about yourself, 10 to 30 words, so we know how to put you in touch with
+each other. We want to hear from you if you are a national union official, but also if you are
+just a person who cares. |
+| We urge you to build campaigns that are built on wide support, that include at least some
+strong trade union base, and that are not the project of only one political party or one NGO.
+We may have to start small, but we want coalitions that can eventually change a country. |
+| We will also arrange regional climate jobs workshops in the next eighteen months. Our
+tentative list is: |
 | West Africa |
 | East Africa |
 | Southern Africa |

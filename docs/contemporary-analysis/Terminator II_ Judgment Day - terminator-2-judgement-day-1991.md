@@ -1,3 +1,8 @@
+---
+title: "**TERMINATOR 2: JUDGMENT DAY**"
+category: "contemporary-analysis"
+---
+
 # **TERMINATOR 2: JUDGMENT DAY**
 
 **by**

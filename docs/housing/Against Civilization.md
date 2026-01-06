@@ -1,16 +1,10 @@
 ---
-title: Against Civilization
-author: Human Action
-slug: Against Civilization
-reconversion_status: ready_for_reconversion
-date: 2005
-tags:
-  - housing
-  - tenants
-  - strikes
-  - unions
-  - rent
+title: "Against Civilization"
+author: "Human Action"
+date: "2005"
+category: "housing"
 ---
+
 # **Edited By John Zerzan. Illustrated By R. L. Tubbesing.**
 
 # **Against Civilization**
@@ -2836,7 +2830,7 @@ Group of Anarcho-Futurists: Anarcho-Futurist Manifesto K. Svetu's Shturmovol, op
 
 Susan Griffin: from *Woman and Nature: The Roaring Inside Her*, Harper Colophon Books, 1978
 
-#### [<archive.org/details/Against Civilization... Enlarged Edition>](https://archive.org/details/Against Civilization Readings And Reflections Enlarged Edition)
+#### [](https://archive.org/details/Against Civilization Readings And Reflections Enlarged Edition)
 
 Selections by the following authors, anti-copyright @ 2005, 1999, may be freely pirated and quoted: Anti-Authoritarians Anonymous, Lynne Clive, Des Refractaires, Feral Faun, T. Fulano, Derrick Jensen, John Landau, Glenn Parton, Fredy Perlman, Alon Raab, Unabomber (aka "F. C."), David Watson, Kevin Tucker, Disorderly Conduct, John Zerzan, and the anonymous authors of "Don't Eat Your Revolution! Make It!"
 
@@ -2848,4 +2842,4 @@ Selections by all other authors in this volume have been reprinted by permission
 
 ## ISBN 0-922915-98-9
 
-Feral House. [<feralhouse.com/against-civilization/>](https://feralhouse.com/against-civilization/)
+Feral House. [](https://feralhouse.com/against-civilization/)

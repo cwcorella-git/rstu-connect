@@ -1,3 +1,8 @@
+---
+title: "## [supreme.justia.com](https://supreme.justia.com/cases/federal/us/545/748/)"
+category: "contemporary-analysis"
+---
+
 ## [supreme.justia.com](https://supreme.justia.com/cases/federal/us/545/748/)
 
 ## **Castle Rock v. Gonzales, 545 U. S. 748 (2005)**

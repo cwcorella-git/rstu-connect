@@ -1,16 +1,10 @@
 ---
-title: Anti Fascist Or Pro Police Anarchist
-author: Anarchist Black Cross
-slug: Anti-Fascist Or Pro-Police - Anarchist Black Cross
-reconversion_status: ready_for_reconversion
-date: 1986
-tags:
-  - abolition
-  - police
-  - unions
-  - rent
-  - prisons
+title: "Anti Fascist Or Pro Police Anarchist"
+author: "Anarchist Black Cross"
+date: "1986"
+category: "abolition"
 ---
+
 ## **Anti-Fascist: Or Pro-Police? - Anarchist Black Cross**
 
 ## **Date:** Unknown

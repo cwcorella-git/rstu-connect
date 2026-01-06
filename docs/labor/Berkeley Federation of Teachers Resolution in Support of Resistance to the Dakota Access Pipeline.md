@@ -1,3 +1,8 @@
+---
+title: "## **Berkeley Federation of Teachers Resolution in Support of Resistance to the Dakota Access Pipeli"
+category: "labor"
+---
+
 ## **Berkeley Federation of Teachers Resolution in Support of Resistance to the Dakota Access Pipeline**
 
 ## **Date:** Tue, 11/22/2016 - 18:28

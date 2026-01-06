@@ -1,3 +1,8 @@
+---
+title: "## **Hijos de Campesinos: Teachers' Struggles in Chiapas - Monty Neill and Peter Linebaugh**"
+category: "youth-student-organizing"
+---
+
 ## **Hijos de Campesinos: Teachers' Struggles in Chiapas - Monty Neill and Peter Linebaugh**
 
 ## **Date:** Unknown

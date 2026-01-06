@@ -1,13 +1,8 @@
 ---
-title: 1919 Peru General Strike For the 8 Hour Day
-date: 2025
-author: Global Nonviolent Action Database
-tags:
-  - organizing
-  - strikes
-  - unions
-  - police
-  - labor
+title: "1919 Peru General Strike For the 8 Hour Day"
+author: "Global Nonviolent Action Database"
+date: "2025"
+category: "labor"
 ---
 
 # 1919 Peru General Strike For the 8 Hour Day

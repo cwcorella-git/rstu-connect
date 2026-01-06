@@ -1,3 +1,8 @@
+---
+title: "**Low-carbon economy**"
+category: "environmental-justice"
+---
+
 ## ![](_page_0_Picture_2.jpeg)
 
 # **Low-carbon economy**

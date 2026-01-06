@@ -1,3 +1,8 @@
+---
+title: "[Facial expression](https://en.wikipedia.org/wiki/Main_Page)"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_2.jpeg)
 
 # [Facial expression](https://en.wikipedia.org/wiki/Main_Page)

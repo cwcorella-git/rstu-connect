@@ -1,3 +1,8 @@
+---
+title: "**Anti-Fascism Beyond Machismo: Gender, Politics, and the Struggle Against Fascism**"
+category: "feminist-theory"
+---
+
 [itsgoingdown.org](https://itsgoingdown.org/anti-fascism-beyond-machismo-gender-politics-and-the-struggle-against-fascism/)
 
 # **Anti-Fascism Beyond Machismo: Gender, Politics, and the Struggle Against Fascism**

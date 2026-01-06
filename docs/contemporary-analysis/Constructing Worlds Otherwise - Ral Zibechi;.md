@@ -1,3 +1,8 @@
+---
+title: "Raúl Zibechi"
+category: "contemporary-analysis"
+---
+
 # Raúl Zibechi
 
 # CONSTRUCTING WORLDS OTHERWISE
@@ -20,7 +25,7 @@ Societies in Movement and Anticolonial Paths in Latin America
 
 ## "This is not Latin America."
 
-That was the retort one of my colleagues gave in response to our discussion of how best to organize the student body. It was our first collective meeting in support of <sup>a</sup> compañera who was unable to secure enough funding from our academic institution to support them in their graduate studies program. Prior to this meeting, we had shared stories and examples from other parts of the country and the world on how best to confront the exploitative power of the neoliberal institution. Some of us brought up examples from South Africa and Chile, regions of the world where students had recently occupied administrative spaces and subverted the hierarchies that upheld structures of power in higher education. We mentioned the #Fees Must Fall movement of South Africa, where students had taken over administrative halls and established popular assemblies in a months-long struggle to fight fee increases at University of Witwatersrand, a movement that quickly spread to other campuses across South Africa. We talked about Chile in 2011, where a highly selective voucher program placed higher education out of reach for many working-class students. That year, student protests led to what came to be known as the long Chilean winter, during which students at all levels of schooling confronted the privatized education system. At the time, Chilean students made connections with the historical struggles of the Mapuche, the Indigenous peoples of Wallmapu, what is today commonly known as Chile.
+That was the retort one of my colleagues gave in response to our discussion of how best to organize the student body. It was our first collective meeting in support of a compañera who was unable to secure enough funding from our academic institution to support them in their graduate studies program. Prior to this meeting, we had shared stories and examples from other parts of the country and the world on how best to confront the exploitative power of the neoliberal institution. Some of us brought up examples from South Africa and Chile, regions of the world where students had recently occupied administrative spaces and subverted the hierarchies that upheld structures of power in higher education. We mentioned the #Fees Must Fall movement of South Africa, where students had taken over administrative halls and established popular assemblies in a months-long struggle to fight fee increases at University of Witwatersrand, a movement that quickly spread to other campuses across South Africa. We talked about Chile in 2011, where a highly selective voucher program placed higher education out of reach for many working-class students. That year, student protests led to what came to be known as the long Chilean winter, during which students at all levels of schooling confronted the privatized education system. At the time, Chilean students made connections with the historical struggles of the Mapuche, the Indigenous peoples of Wallmapu, what is today commonly known as Chile.
 
 However, what had initially started with support from the entire graduate student body in our department, ultimately dwindled to a handful of us.
 
@@ -44,7 +49,7 @@ Zibechi's work forces us to question the frameworks that we—here referring to 
 
 The concept of societies or *pueblos* in movement, which Zibechi is most known for, breaks the stranglehold that the idea of totality has on our understanding of what resistance is and how change occurs. To understand society in the plural reverts our gaze to the *otherwise*. It takes seriously the subversive and alternative formulations we have long missed or overlooked. At the same time, it helps us to reconstruct new bridges while reassembling the networks required to create worlds otherwise.
 
-George Ygarza Quispe Paterson, February 2023 1. An American political scientist, Francis Fukuyama had by the end of the Cold War captured the sentiments of the neoconservative class by declaring that the fall of Communism seemingly brought <sup>a</sup> close to humanity's search for <sup>a</sup> sociopolitical pax. In his book, The End of History and the Last Man, he argues Western liberal democracies were in themselves the final historical epoch.
+George Ygarza Quispe Paterson, February 2023 1. An American political scientist, Francis Fukuyama had by the end of the Cold War captured the sentiments of the neoconservative class by declaring that the fall of Communism seemingly brought a close to humanity's search for a sociopolitical pax. In his book, The End of History and the Last Man, he argues Western liberal democracies were in themselves the final historical epoch.
 
 #### Preface to the English Edition
 
@@ -82,7 +87,7 @@ Given the almost permanent mobilization of sectors of the Black population in th
 
 However, there are other similarities here with Latin American struggles. When we hear Malcolm X demand that his people not consume tobacco or alcohol, it reminds us of the decision of the Zapatista women to ban drinking in their own communities to prevent men from beating them or weakening the organization.
 
-When I observe the Zapatistas during their encounters of "women who struggle," <sup>I</sup> cannot help but recall the statement put out by the Combahee River Collective in the 1970s announcing the emergence of a new feminism from below. There is an implicit dialogue between the feminism of Black lesbian women and that of the Mayan Zapatistas, which speaks to us of the overlapping oppression of class, race, and gender, something invisible to white academic women.
+When I observe the Zapatistas during their encounters of "women who struggle," I cannot help but recall the statement put out by the Combahee River Collective in the 1970s announcing the emergence of a new feminism from below. There is an implicit dialogue between the feminism of Black lesbian women and that of the Mayan Zapatistas, which speaks to us of the overlapping oppression of class, race, and gender, something invisible to white academic women.
 
 Yesterday and today, and always, the struggles of peoples are interwoven, linked together under the line of visibility, to the point that some inspire others, and they learn from them, overcoming distances and the most diverse geographies. The most remarkable thing, however, is that, to weave these links neither parties nor leaders, nor large organizational apparatuses are necessary, because relations are forged by the common sense of the peoples in resistance. We only need to sharpen the senses to discover them and follow in their footsteps. But we must be very careful when it comes to intervening, because experience tells us that any interference can cause irreparable damage to these peoples. Let us trust in the wisdom and instincts of those who have been resisting much more powerful forces for centuries and, at times, managed to build fragments of new worlds against the grain of oppression.
 
@@ -102,9 +107,9 @@ This personal insecurity is due to the ensuing restlessness and anguish produced
 
 As an invitation to collective dialogue and reflection, I would like to put forth a half dozen difficulties or challenges standing in the way of our critical thinking. My hope is that by articulating these impediments we may be encouraged to take up rebellious experimentation along less traveled paths, leaving behind the well-trodden path of mobilizing workers to achieve power by any means.
 
-The first challenge can be found in the attachment to certainties, which allow us to believe, as Cornelius Castoriadis has argued in his analysis, in Marxism as a doctrine. Castoriadis has shown his ability to sustain a critical and dynamic struggle over a long time and under very adverse circumstances. This doctrine, which claims to be Marxist, has been formed by defining as an economic science, a rationalist metaphysical understanding of history that is concretized in the famous "laws of history," which endorse both the "inevitable" proletarian triumph and the millenary "hope of a guaranteed salvation."<sup>2</sup>
+The first challenge can be found in the attachment to certainties, which allow us to believe, as Cornelius Castoriadis has argued in his analysis, in Marxism as a doctrine. Castoriadis has shown his ability to sustain a critical and dynamic struggle over a long time and under very adverse circumstances. This doctrine, which claims to be Marxist, has been formed by defining as an economic science, a rationalist metaphysical understanding of history that is concretized in the famous "laws of history," which endorse both the "inevitable" proletarian triumph and the millenary "hope of a guaranteed salvation."2
 
-Focusing the analysis on the anticapitalist subject, the working class, the Greek French philosopher reminds us of its autodidactic history, it "constituted itself and became literate and was formed by itself," giving life to the individuals who put trust in their own strength, thought for themselves, studied under the glow of candles after strenuous fourteen hour days, and never abandoned critical reflection. When doctrinaire Marxism monopolized the workers movements, according to Castoriadis, its devastating effects became apparent: "Marxism replaced this individual with the militant activist who is indoctrinated in a Gospel; who believes in the organization, in the theory and in the bosses who possess this theory and interpret it; who tends to obey them unconditionally; who identifies with them and who is capable, most of the time, of breaking with this identification only by him/herself collapsing."<sup>3</sup>
+Focusing the analysis on the anticapitalist subject, the working class, the Greek French philosopher reminds us of its autodidactic history, it "constituted itself and became literate and was formed by itself," giving life to the individuals who put trust in their own strength, thought for themselves, studied under the glow of candles after strenuous fourteen hour days, and never abandoned critical reflection. When doctrinaire Marxism monopolized the workers movements, according to Castoriadis, its devastating effects became apparent: "Marxism replaced this individual with the militant activist who is indoctrinated in a Gospel; who believes in the organization, in the theory and in the bosses who possess this theory and interpret it; who tends to obey them unconditionally; who identifies with them and who is capable, most of the time, of breaking with this identification only by him/herself collapsing."3
 
 Some of these certainties permeated the imaginary of the left with such intensity that they managed to defy the passage of time as well as the geographical realities and the obvious failures of its cognate revolutions. At the same time that it became installed with dogmas, these certainties ultimately nullified the possibility of self-critical reflection. The attachment to a simplified theory of a natural evolutionary order, the requirement of leaders in whom to place almost absolute trust, the centrality of the economy to explain any social process and a concept of revolution focused on the construction of a centralized power—ideas that remain valid both in the forces that bet on the seizure of power and in those that chose to embed themselves in the institutionality of electoral politics.
 
@@ -134,11 +139,11 @@ Latin America's left movements and governments remain deeply colonial. Take for 
 
 The electoral left has also fully embraced the capitalist marketing schemes created to encourage consumerism. An eloquent case is found in the 2016 election campaign in Spain, where Podemos presented a program that, in its format, imitates the catalog of the furniture and home decor company Ikea, with the excuse that it will be the "most read program of democracy." Being inspired by business and marketing strategies is much more than a matter of form as it internalizes advertising values and ends up pairing politics with sales techniques, and the electorate with behaviors similar to those of the consumer.
 
-The sociologist Marcos Roitman believes that the left is always looking for the novel, reinventing itself behind the latest fashion in what he calls a "result-oriented" attitude, determined to seek results that legitimize the left party's agenda even at the risk of emptying it of any substance. That is why he concludes that the left "wants to win power at all costs, but without a project." <sup>14</sup>
+The sociologist Marcos Roitman believes that the left is always looking for the novel, reinventing itself behind the latest fashion in what he calls a "result-oriented" attitude, determined to seek results that legitimize the left party's agenda even at the risk of emptying it of any substance. That is why he concludes that the left "wants to win power at all costs, but without a project." 14
 
 The fourth difficulty is that the left avoids conflict, thereby ceasing to fight for transformations, which only occur in the interests of the richest 1 percent, but also leaves the population at the mercy of the system. Social conflict generates awareness, allowing the various sectors to identify the problems that affect them and recognize those who are responsible.
 
-The psychoanalyst and researcher Miguel Benasayag and the philosopher Angélique Del Rey argue that conflict shapes our civilization and that its absence—in societies that aspire for its disappearance—places us in a dire situation of self-destruction: "The denial of conflict can produce barbarism. That is why it is important to refuse to think separately about conflict and civilization." <sup>15</sup>
+The psychoanalyst and researcher Miguel Benasayag and the philosopher Angélique Del Rey argue that conflict shapes our civilization and that its absence—in societies that aspire for its disappearance—places us in a dire situation of self-destruction: "The denial of conflict can produce barbarism. That is why it is important to refuse to think separately about conflict and civilization." 15
 
 In fact, conflict is, on the one hand, the collective power capable of curbing, or limiting, the tendency toward barbarism to which development and progress can lead us. On the other hand, without conflict the novel can never emerge, nor can the collective subjects capable of engendering it emerge. Toward the end of their work, they argue that conflict is the "foundation of life," the force capable of exercising care and at the same time creating new social relations, the new worlds to which those of us who remain anticapitalist aspire to reach. However, the electoral lefts have succumbed to the social and cultural tendency that shuns conflict, seemingly fearing it for a variety of reasons: the risk of losing control of their social bases and what suits the leadership; not wanting to appear as radicals before society, since conflict has been identified with violence; and, finally, because pragmatism leads them to give priority to the institutional scenario, there seems to be no place for conflict because it is considered to be a destabilizing force for institutions. In this way, by nullifying the conflict they slowly decay, diluting themselves within mainstream society, losing the capacity for criticism because they fear isolation and to engage in the proverbial swim against the current that always defined emancipatory movements.
 
@@ -152,7 +157,7 @@ For this reason, the vision of history attributed to Marx (which he himself reje
 
 I would like to highlight a sixth difficulty, consisting in the loss of historical depth that has polluted the left's political practice, leading to the lack of a long-term vision. I am referring to the immediatism characteristic of those who have surrendered to the dominant culture and way of doing politics in the contemporary moment. The prominent role that we attribute to Indigenous peoples, peasants, and Black peoples is closely linked to their position within an atemporal, circular, and nonlinear space where the idea of progress is alien. Instead, these collective subjects remain committed to living in harmony with the environment, to conserve and not to prey, to care and not to accumulate, refusing to turn nature into a commodity.
 
-Finally, to highlight the relationship between the systemic chaos we are currently experiencing, a period of deep uncertainty that has blinded the future of millions of people, particularly the young, with the resurgence of a certain millenarianism (I cannot find a better word—secular and revolutionary—offering certainties as planks of salvation when everything else around us is sinking). We can see this in a kind of neo-Stalinism among a sector of young university students that has seemingly gained momentum during the pandemic. I know of two cases, that of Ecuador and that of Euskal Herría, but surely they are not the only ones since these trends are global in nature. <sup>20</sup>
+Finally, to highlight the relationship between the systemic chaos we are currently experiencing, a period of deep uncertainty that has blinded the future of millions of people, particularly the young, with the resurgence of a certain millenarianism (I cannot find a better word—secular and revolutionary—offering certainties as planks of salvation when everything else around us is sinking). We can see this in a kind of neo-Stalinism among a sector of young university students that has seemingly gained momentum during the pandemic. I know of two cases, that of Ecuador and that of Euskal Herría, but surely they are not the only ones since these trends are global in nature. 20
 
 These tendencies present two major additional problems: they are unable to accept the failure of socialist revolutions and the role of state centralism in their disastrous drift; and neither can they engage with causes other than the class struggle, such as feminism and the modes of resistance presented by Indigenous peoples, some of which are focused on the construction of collective autonomies. A century after Stalinism began to prevail in the international communist movement and half a century after the growth of feminism and Indigenous peoples' rights, history's clock has stopped once again . . . in Moscow in 1930. Thus, a dogmatic Marxism reappears, deeply patriarchal and colonial, entrenched in progress, and in a good part of the doctrines that have already demonstrated their monumental failure.
 
@@ -163,24 +168,24 @@ I firmly believe that the systemic crisis, the growing dictatorial power of the 
 This book is a compilation of several articles that address the same theme: pueblos organized as collective subjects of resistance to neoliberal capitalism and at the same time creators of new worlds. In the six chapters that follow, the living experience of the peoples themselves serve as the compass for theoretical reflection used to project the type of transition we are currently living, toward the other worlds that are being built and the different ways in which each pueblo defends them.
 
 - 2. Cornelius Castoriadis, "The Pulverization of Marxism-Leninism.," *Salmagundi* 88/89 (Fall 1990–Winter 1991): 373, 376, 377.
-- <u>3</u>. Castoriadis, "The Pulverization of Marxism-Leninism," 378.
+- 3. Castoriadis, "The Pulverization of Marxism-Leninism," 378.
 - 4. Eugenio del Río, La Sombra de Marx: Estudio Crítico Sobre La Fundación Del Marxismo (1877–1900) (Madrid: Talasa, 1993), 334.
-- <u>5</u>. Walter Benjamin, "Theses on the Philosophy of History," in *Critical Theory and Society: A Reader*, eds. Stephen Bronner and Douglas Kellner (London: Routledge, 2020), 259.
+- 5. Walter Benjamin, "Theses on the Philosophy of History," in *Critical Theory and Society: A Reader*, eds. Stephen Bronner and Douglas Kellner (London: Routledge, 2020), 259.
 - 6. Benjamin, "Theses on the Philosophy of History," 260.
-- <u>7</u>. bell hooks, *Feminist Theory: From Margin to Center* (New York: Routledge, 2015), 9.
+- 7. bell hooks, *Feminist Theory: From Margin to Center* (New York: Routledge, 2015), 9.
 - 8. hooks, Feminist Theory, 10.
 - 9. hooks, Feminist Theory, 10.
 - 10. Fernand Braudel, *The Structures of Everyday Life: The Limits of the Possible* (London: William Collins Sons, 1981), 94.
 - 11. The Confederation of Indigenous Peoples of eastern Bolivia and the National Council of Ayllus and Markas of Qullasuyu were infiltrated by the police of Evo Morales's government to expel the legitimate leaders and impose those related to the MAS.
 - 12. Radio Deseo, "Análisis Del Discurso Del Presidente Luis Arce En El Aniversario Del Estado Plurinacional," video, January 24, 2022 https://www.youtube.com/watch?v=OaOCe OgV7DI.
-- <u>13</u>. Jorge Otero, "Podemos Imita El Catálogo de Ikea Para Que Su Programa 'Sea El Más Leído de La Democracia," *Público*, June 8, 2016, https://www.publico.es/politica/imita-al-catalogo-ikea-programa.html.
+- 13. Jorge Otero, "Podemos Imita El Catálogo de Ikea Para Que Su Programa 'Sea El Más Leído de La Democracia," *Público*, June 8, 2016, https://www.publico.es/politica/imita-al-catalogo-ikea-programa.html.
 - 14. Marcos Roitman, "La Nueva, Novísima, Nueva Izquierda Latinoamericana," *La Jornada*, January 17, 2022, https://www.jornada.com.mx/2022/01/17/opinion/016a1pol.
-- <u>15</u>. Miguel Benasayag and Angélique Del Rey, *Elogio Del Conflicto* (Buenos Aires: Libros de la Araucaria, 2018), 4.
+- 15. Miguel Benasayag and Angélique Del Rey, *Elogio Del Conflicto* (Buenos Aires: Libros de la Araucaria, 2018), 4.
 - 16. Aníbal Quijano, "The Coloniality of Power and Social Classification," *Journal of World Systems* 6, no. 2 (2000): 342–86.
 - 17. Quijano, "The Coloniality of Power," 296.
 - 18. Quijano, "The Coloniality of Power," 299.
 - 19. Karl Marx and Frederick Engels, *Selected Correspondence* (Moscow: Progress Publishers, 1955). Available at https://www.marxists.org/archive/marx/works/1881/zasulich/draft-1.htm.
-- <u>20</u>. Euskal Herría refers to a revitalized socialist movement in the Basque region of Spain.
+- 20. Euskal Herría refers to a revitalized socialist movement in the Basque region of Spain.
 
 ## Societies in Movement Opening Anticolonial Pathways
 
@@ -224,7 +229,7 @@ As Gladys Tzul Tzul points out, regarding the Indigenous peoples in Guatemala, c
 
 At this point, it should be noted that the communal assembly is very different from the assembly of urban workers or that of the neighborhood assemblies. It is mandatory, because it is an additional form of collective work. The communal authorities are decision bearers of the assemblies, to the point that "there is no dissociation between communal authority and communal assembly." 36
 
-The Zapatista system is decentralized. In each region, the town/community collectively decides how to spend the money from the harvest sale; they decide on whether to save it in the communal bank or spend it on some need for their movement. Communal life and values, on which Zapatismo is based, rely upon a broad decentralization that allows for the expression of the specificities of each geography and every pueblo.<sup>37</sup>
+The Zapatista system is decentralized. In each region, the town/community collectively decides how to spend the money from the harvest sale; they decide on whether to save it in the communal bank or spend it on some need for their movement. Communal life and values, on which Zapatismo is based, rely upon a broad decentralization that allows for the expression of the specificities of each geography and every pueblo.37
 
 For the collective work projects that we are discussing, what has really helped us is working in the following manner: dividing the month into 10 days of collective work and 20 days of family work. Each person agrees. Some places might decide differently, 5 days for collective work and 25 for the work of the family. But each place makes their agreement at the level of the community or the region or autonomous municipality or the zone. These are the four levels at which the collective work projects take place, which is to say there are four levels of assemblies, which is to say four levels at which to come to agreement. 38
 
@@ -302,7 +307,7 @@ It is here that I see a point of convergence between the emancipatory practice o
 
 Pueblos/societies in movement are not looking to find a lost idyllic society; it is not a type of nostalgia for a world that already was or one they wish for, but something more transcendent. In order to overcome the current state, it is imperative to recover the type of world that has been marginalized for exploitation. Their imperative is the recovery of a society based on the use values of each community. In this effort to sustain life, they find alternative realities that refer to another logic, another ethic, and another way of life.
 
-# Toward <sup>a</sup> "Civilization of Freedom"?
+# Toward a "Civilization of Freedom"?
 
 Renowned French historian and social theorist Fernand Braudel was quite skeptical about rapid and irreversible changes: "I do not on the whole believe that social change happens quickly, in sudden bursts. Even revolutions are not complete breaks with the past." 65 Changes at the top, such as the advent of new layers of managers, he argues, often reinforce the established order. It establishes a dialectic between short and long term, between disruptive events and continuities, as cultures slowly mutate. In the study of social movement, it would be like the dialogue that happens between uprisings and insurrections and the construction of a new political culture, processes that converge or decouple according to a priori and unpredictable happenings.
 
@@ -538,24 +543,24 @@ When we city dwellers say, "water is life," we formulate an abstract slogan, lik
 
 A civilizational crisis occurs when new problems cannot be solved with the resources available for that civilization. Critical thinking emerged in the north of the planet, closely linked to the French and Russian revolutions, and was partially a response to the experiences of the Paris Commune and to the Labor and socialist movements of the nineteenth and early twentieth centuries. A good portion of the terms that were conceptualized in this period, from revolution to tabula rasa (a term from the Enlightenment, meaning the human is devoid of any innate knowledge), cannot simply be transplanted to other parts of the world. To uncritically carry over concepts born from and as a consequence of colonial encounters can serve to produce neocolonial practices.
 
-In the current moment of systemic and civilizational crisis, we have in Latin America the urgent need to be inspired by feminist movements and Indigenous peoples, as we try to overcome the limitations of Eurocentrism put in place in critical thinking: women have presented nonpatriarchal ways of doing politics, which have in the modes of reproduction, their starting point and inspiration.<sup>131</sup> Indigenous peoples, meanwhile, emphasize that the community, anchored in communal work, is the way of life that allows both an anticapitalist resistance and the creation of new worlds.
+In the current moment of systemic and civilizational crisis, we have in Latin America the urgent need to be inspired by feminist movements and Indigenous peoples, as we try to overcome the limitations of Eurocentrism put in place in critical thinking: women have presented nonpatriarchal ways of doing politics, which have in the modes of reproduction, their starting point and inspiration.131 Indigenous peoples, meanwhile, emphasize that the community, anchored in communal work, is the way of life that allows both an anticapitalist resistance and the creation of new worlds.
 
 When the feminisms from below and the movements of Indigenous communities come together, as is currently happening through the whirlwind of this civilizational crisis, everything is possible. A thousand ideas flourish, the most diverse ways of doing things begin to unfold, realities are interwoven with the most unsuspecting dreams, those that allow us to glimpse at other worlds and realize that their manifestation only depends on those of us committed to its creation.
 
-- <u>84</u>. Walter Benjamin, "Theses on the Philosophy of History," in *Critical Theory and Society: A Reader*, eds. Stephen Bronner and Douglas Kellner (London: Routledge, 2020).
-- <u>85</u>. Bolívar Echeverría, *Siete Aproximaciones a Walter Benjamin* (Bogotá: Desde Abajo, 2010), 41.
-- <u>86</u>. A concept from Andean cosmology—*sumaq kawsay* (Quechua) or *suma qamaña* (Aymara)—has been scaled up and adopted in different ways as a guiding principle of good governance, albeit not without controversy. Loosely translating to *plentiful life*, they have been used in part to grant rights to Pachamama or Mother Earth in Ecuador and Bolivia's constitutions.
-- <u>87</u>. Pierre Clastres, *Society Against the State: Essays in Political Anthropology* (Princeton: Princeton University Press, 2020).
-- <u>88</u>. Silvia Federici, "The Unfinished Feminist Revolution," *The Commoner* 15 (Winter 2012).
+- 84. Walter Benjamin, "Theses on the Philosophy of History," in *Critical Theory and Society: A Reader*, eds. Stephen Bronner and Douglas Kellner (London: Routledge, 2020).
+- 85. Bolívar Echeverría, *Siete Aproximaciones a Walter Benjamin* (Bogotá: Desde Abajo, 2010), 41.
+- 86. A concept from Andean cosmology—*sumaq kawsay* (Quechua) or *suma qamaña* (Aymara)—has been scaled up and adopted in different ways as a guiding principle of good governance, albeit not without controversy. Loosely translating to *plentiful life*, they have been used in part to grant rights to Pachamama or Mother Earth in Ecuador and Bolivia's constitutions.
+- 87. Pierre Clastres, *Society Against the State: Essays in Political Anthropology* (Princeton: Princeton University Press, 2020).
+- 88. Silvia Federici, "The Unfinished Feminist Revolution," *The Commoner* 15 (Winter 2012).
 - 89. "Socialism of the twenty-first century" is the term used to describe the governing models put into place by leftists in Latin America at the turn of the last century. Many of these governments were also collectively described as the "Pink Tide" in the media.
-- <u>90</u>. Linda Tuhiwai Smith, *Decolonizing Methodologies: Research and Indigenous Peoples* (New York: Bloomsbury Publishing, 2021).
-- <u>91</u>. Immanuel Wallerstein, *Unthinking Social Science: The Limits of Nineteenth-Century Paradigms* (Philadelphia: Temple University Press, 2001).
+- 90. Linda Tuhiwai Smith, *Decolonizing Methodologies: Research and Indigenous Peoples* (New York: Bloomsbury Publishing, 2021).
+- 91. Immanuel Wallerstein, *Unthinking Social Science: The Limits of Nineteenth-Century Paradigms* (Philadelphia: Temple University Press, 2001).
 - 92. Aimé Césaire, "Letter to Maurice Thorez," Social Text 28, no. 2 (2010): 145.
 - 93. Césaire, "Letter to Maurice Thorez," 147.
 - 94. Césaire, "Letter to Maurice Thorez," 148.
 - 95. Césaire, "Letter to Maurice Thorez," 148.
 - 96. Césaire, "Letter to Maurice Thorez," 149.
-- <u>97</u>. Immanuel Wallerstein, "Aimé Césaire: Colonialismo, Comunismo y Negritud," in *Discurso Sobre El Colonialismo* (Madrid: Ediciones Akal, 2006).
+- 97. Immanuel Wallerstein, "Aimé Césaire: Colonialismo, Comunismo y Negritud," in *Discurso Sobre El Colonialismo* (Madrid: Ediciones Akal, 2006).
 
 - 98. Anouar Abdel-Malek, *Social Dialectics*, Vol. 1, *Civilisations and Social Theory* (London: Macmillan Press, 1981), 4.
 - 99. Bernabé López García, "Anouar Abdel-Malek, Sociólogo Egipcio," *El País*, June 25, 2012, https://elpais.com/cultura/2012/06/25/actualidad/1340658925\_424955.html.
@@ -563,9 +568,9 @@ When the feminisms from below and the movements of Indigenous communities come t
 - 101. Abdel-Malek, Social Dialectics, Vol. 1, 117.
 - 102. Anouar Abdel-Malek, *Social Dialectics*, Vol. 2, *Nation and Revolution* (London: Macmillan Press, 1981), 116.
 - 103. Mary Louise Pratt, *Imperial Eyes: Travel Writing and Transculturation* (London: Routledge, 2007).
-- <u>104</u>. Abdel-Malek, *Social Dialectics*, Vol. 2, 133.
+- 104. Abdel-Malek, *Social Dialectics*, Vol. 2, 133.
 - 105. Aníbal Quijano, "Coloniality of Power and Eurocentrism in Latin America," *International Sociology* 15, no. 2 (June 2000): 215–32.
-- <u>106</u>. An *Amauta* refers to a wise person, teacher, or philosopher in the Andes. The meeting was held May 2–9, 2015, in Chiapas.
+- 106. An *Amauta* refers to a wise person, teacher, or philosopher in the Andes. The meeting was held May 2–9, 2015, in Chiapas.
 - 107. Esteban Ticona, "El Indianismo de Fausto Reinaga: Orígenes, Desarrollo y Experiencia En Qullasuyo Bolivia," (PhD diss, Universidad Andina Simón Bolívar, 2015), 103.
 - 108. Ticona, "El Indianismo de Fausto Reinaga," 117.
 - 109. Ticona, "El Indianismo de Fausto Reinaga," 121. "Indianism" captures the broader revival movements of Indigenous thought found at different historical moments across Latin America.
@@ -577,13 +582,13 @@ When the feminisms from below and the movements of Indigenous communities come t
 - 115. Pratt, Imperial Eyes, 31.
 - 116. Pratt, Imperial Eyes, 36.
 - 117. Smith, Decolonizing Methodologies, 1.
-- <u>118</u>. An *Ayllu* is an Andean community composed of elements beyond the human, including the territories, nonhuman relatives such as the rivers and *Apus* (mountain spirits), and other *pachas* or times.
+- 118. An *Ayllu* is an Andean community composed of elements beyond the human, including the territories, nonhuman relatives such as the rivers and *Apus* (mountain spirits), and other *pachas* or times.
 - 119. Raúl Zibechi, "Los Trabajos Colectivos Como Bienes Comunes Material/Simbólicos," *El Apantle* 1 (October 2015).
 - 120. Victoria Furtado Alonzo and Valeria Grabino Etorena, "Alertas Feministas: Lenguajes y Estéticas de Un Feminismo Desde El Sur," in *Momento de Paro, Tiempo de Rebelion: Miradas Feministas Para Reinventar la Lucha* (Montevideo: Minervas Ediciones, 2018), 105.
 
 - 121. Furtado and Grabino, "Alertas Feministas," 106.
 - 122. Francesca Gargallo, Reflexiones En Torno a Ideas y Prácticas del Entre-Mujeres a Principios del Siglo XXI (Bogotá: Desde Abajo, 2019).
-- <u>123</u>. Francesca Gargallo Celentani, *Reflexiones En Torno* (Bogotá: Ediciones Desde Abajo, 2019).
+- 123. Francesca Gargallo Celentani, *Reflexiones En Torno* (Bogotá: Ediciones Desde Abajo, 2019).
 - 124. Raúl Zibechi, "El Colonialismo se Estrella con las Mujeres Mapuche," *La Jornada*, August 16, 2019, https://www.jornada.com.mx/2019/08/16/opinion/018a2pol.
 - 125. Raúl Zibechi, "Defensoras de la Pachamama," *Rebelión*, March 31, 2021, https://rebelion.org/defensoras-de-la-pachamama.
 - 126. Lina Magali Solano Ortiz, "Impactos Sociales de La Minería a Gran Escala En La Fase de Exploración y El Rol de Las Defensoras de La Pachamama En La Resistencia a Los Proyectos Río Blanco y Quimsacocha" (Master's Thesis, Universidad de Cuenca, 2013), 59.
@@ -785,19 +790,19 @@ All of these constructions need to be defended. We are not dealing with exceptio
 
 - 132. This interview was conducted by Alana Moraes, Lucas Keese, and Marcelo Hotimsky of Editora Elefante in São Paolo, Brazil on June 24, 2020. It originally appeared in Raúl Zibechi, *Territórios em Rebeldia* (São Paolo: Editora Elefante, 2022).
 - 133. The author is speaking of the global feminist movement, hence noting the 1970s as part of the first wave.
-- <u>134</u>. Here Zibechi refers to the mobilizations that began as a response to transit fare hikes in 2013, growing into widespread rebellions against austerity and state oppression in various sectors of society.
+- 134. Here Zibechi refers to the mobilizations that began as a response to transit fare hikes in 2013, growing into widespread rebellions against austerity and state oppression in various sectors of society.
 - 135. "The crisis of the left" refers to widespread sentiments held by activists in Latin America who note structural and systemic failures of governance since the rise of the so-called Pink Tide.
 - 136. Abdias do Nascimento was a notable Brazilian poet and scholar known for creating the Black Experimental Theater, and a critical Pan-African thinker.
 - 137. "The Fourth World War," a concept from the Zapatistas, refers to our current epoch of protracted institutionalized violence against the poor, which is perpetuated by the State.
 - 138. "Zones of nonbeing" is a concept borrowed from Frantz Fanon.
 - 139. FHC refers to former Brazilian president and academic Fernando Henrique Cardoso, who made significant contributions to dependency theory.
-- <u>140</u>. The two-step process of revolution: gain control of the State and then transform the world.
+- 140. The two-step process of revolution: gain control of the State and then transform the world.
 - 141. Comunicaciones Nasa Çxhâçxha, "PEBI-CRIC Realizó el III Encuentro Regional de Educación en el Marco de las Normas del SEIP," Nasa Çxhâçxha website, June 30, 2021, https://tierradentro.co/pebi-cric-realizo-el-iii-encuentro-regional-de-educacion-en-el-marco-de -las-normas-del-seip.
-- <u>142</u>. The ABC region refers to the greater region of São Paolo that is centered around Industrial development: Santo André, São Bernardo do Campo, and São Caetano do Sul.
+- 142. The ABC region refers to the greater region of São Paolo that is centered around Industrial development: Santo André, São Bernardo do Campo, and São Caetano do Sul.
 - 143. Raúl Zibechi, *De Multitude a Clase: Formación y Crisis de una Comunidad Obrera, Juan Lacaze (1905–2005)* (Montevideo: Ediciones Ideas, 2006).
-- <u>144</u>. These are the five forms of control and exploitation of labor: wages, slavery, servitude, reciprocity, and petty commodity production, the last of which is commonly referred to as informality.
+- 144. These are the five forms of control and exploitation of labor: wages, slavery, servitude, reciprocity, and petty commodity production, the last of which is commonly referred to as informality.
 - 145. This section was originally published as "People in Defence of Life and Territory: Counter-Power and Self-Defence in Latin America" as part of the Transnational Institute's online collection *State of Power 2018*, https://longreads.tni.org/stateofpower/people-defence-life-territory.
-- <u>146</u>. "Año 11 de la Guerra Contra el Narco," *El País*, December 3, 2016, https://elpais.com/especiales/2016/guerra-narcotrafico-mexico.
+- 146. "Año 11 de la Guerra Contra el Narco," *El País*, December 3, 2016, https://elpais.com/especiales/2016/guerra-narcotrafico-mexico.
 - 147. Daniel Cerqueira et.al., *Atlas da Violência 2017* (Rio de Janeiro: Instituto de Pesquisa Econômica Aplicada and Fórum Brasileiro de Segurança Pública, 2017), http://www.ipea.gov.br/portal/images/170609\_atlas\_da\_violencia\_2017.pdf.
 - 148. In the original text I spoke of "social movements," a concept that I began to replace with "societies in movement" after an exchange with students from the Micaela Bastidas
 
@@ -813,14 +818,14 @@ All of these constructions need to be defended. We are not dealing with exceptio
 - 157. VICE en Español, "Cherán: El Pueblo Purépecha En Rebeldía," video, May 6, 2016, https://www.youtube.com/watch?v=Dql9\_kKBwws.
 - 158. Agencia Sub Versiones, Cooperativa Cráter Invertido, and TV Cherán, "Cheran K'eri: Cuatro Años Construyendo Autonomía," Sub Versiones, April 21, 2016, https://subversiones.org/archivos/115140.
 - 159. Concejo Mayor de Gobierno Comunalde Cherán, *Cherán K´eri. 5 Años de Autonomía* (Cherán, Michoacán: Concejo Mayor de Gobierno Comunalde Cherán, 2017), https://www.academia.edu/40236872/Cher%C3%A1n\_Keri\_5\_a%C3%B1os\_de\_autonom%C3%ADa.
-- <u>160</u>. César Enrique Pineda, "Acapatzingo: Construyendo Comunidad Urbana," *Contrapunto* 3 (November 2013).
+- 160. César Enrique Pineda, "Acapatzingo: Construyendo Comunidad Urbana," *Contrapunto* 3 (November 2013).
 - 161. Riccardo Botazzo, "La fattoria senza padroni," *Frontiere*, October 16, 2016, http://frontierenews.it/2016/10/chianti-mondeggi-fattoria-senza -padroni.
 - 162. Livio Pepino and Marco Revelli, *Non Solo un Treno: La Democrazia alla Prova della Val Susa* (Torino: Edizioni Gruppo Abele, 2012).
-- <u>163</u>. Raúl Zibechi, "Dos Continentes, una Misma Lucha," *Desinformémonos*, May 2, 2016, https://desinformemonos.org/dos-continentes-una-misma-lucha.
+- 163. Raúl Zibechi, "Dos Continentes, una Misma Lucha," *Desinformémonos*, May 2, 2016, https://desinformemonos.org/dos-continentes-una-misma-lucha.
 - 164. Fernando Bellón, "Los Yayo-Okupas de Huertos Urbanos en Valencia," *Agroicultura-Perinquiets*, http://agroicultura.com/general/los-yayo-okupas-de-huertos-urbanos-envalencia.
 - 165. This is not to take up a theoretical debate about power, counterpower, or anti-power, theses defended by Antonio Negri and John Holloway respectively. Antonio Negri,
 
-- "Contrapoder," in Contra Poder: Una Introdución (Buenos Aires: Ediciones de Mano en Mano, 2001) and John Holloway, "Twelve Theses on Changing the World Without Taking Power," The Commoner <sup>4</sup> (May 2002), https://thecommoner.org/wpcontent/uploads/2019/11/Twelve-Theses-Holloway.pdf.
+- "Contrapoder," in Contra Poder: Una Introdución (Buenos Aires: Ediciones de Mano en Mano, 2001) and John Holloway, "Twelve Theses on Changing the World Without Taking Power," The Commoner 4 (May 2002), https://thecommoner.org/wpcontent/uploads/2019/11/Twelve-Theses-Holloway.pdf.
 - 166. Raúl Zibechi, Dispersing Power: Social Movements as Anti-State Forces (Oakland: AK Press, 2010), 66.
 - 167. Caracoles, or conch shells, are the name for the Zapatista communities, in part due to the way they are spatially constructed, which informs their way of being.
 - 168. "Drone Filma Ocupação Gigante Em São Bernardo Do Campo," video, September 26, 2017, https://www.youtube.com/watch?v=3q BuPc OmKU4.
@@ -1422,7 +1427,7 @@ I have the highest esteem for Abdullah Öcalan's trajectory. Because he was not 
 
 It is not a theoretical question because it does not make the slightest sense to cling to a set of ideas acquired in a given context and repeat them when that context has changed. For revolutionaries, unlike academics, ideas are not an end in themselves, we do not defend certain ideas to give us importance or to be recognized as intellectuals. Ideas are only means. The only end is the people, the common people, those from below, or whatever we want to call the real people to whom we have committed ourselves and struggled.
 
-When the Zapatistas were a few dozen fighters and took their first village, they addressed its inhabitants in a dialogue that shows how theories can be an obstacle to working with the people: "What were you telling them?" a journalist asked Subcomandante Marcos. "Well, the absurdities that we had learned, that imperialism, the social crisis, the correlation of forces and the conjuncture, things that nobody understood, of course, and neither did they. They were very honest. You'd ask them, 'Did you understand?' and they'd say, 'No.' You had to adapt," says Marcos. <sup>276</sup>
+When the Zapatistas were a few dozen fighters and took their first village, they addressed its inhabitants in a dialogue that shows how theories can be an obstacle to working with the people: "What were you telling them?" a journalist asked Subcomandante Marcos. "Well, the absurdities that we had learned, that imperialism, the social crisis, the correlation of forces and the conjuncture, things that nobody understood, of course, and neither did they. They were very honest. You'd ask them, 'Did you understand?' and they'd say, 'No.' You had to adapt," says Marcos. 276
 
 They told him that his words were "very harsh," and so they decided to talk about the history of Mexico but making an Indigenist history, focused on people like them. It was the combatants of Indigenous origin who began to explain the history of the country. They appropriated their own history, because they acted as translators while, says Marcos, "we became spectators." The next step was to learn to listen, because not only did they speak in other ways but "their references, their cultural framework, were different." The result was that a hybrid was born, the product of a crash in which "fortunately, I think, we lost."
 
@@ -1430,7 +1435,7 @@ What was defeated in this meeting was a patriarchal and Eurocentric orthodoxy. I
 
 Circling back to Öcalan, I want to highlight the importance of having elevated the role of women, of recognizing the central place the patriarchy holds as a mode of domination closely linked to capitalism and colonialism. It is a profound change within critical thinking, because neither in the 1960s nor in the 1970s did we have that view of the world as women were marginalized. And neither did they occupy it in Marxism or Leninism, or even in other later strands. As far as I know, the Kurdish revolutionary movement is the one that is working on the women's issue in greater depth, where the issue of women's oppression runs through the whole movement, in all of its facets and activities.
 
-After these important ethical-political considerations, I would like to address some of Öcalan's ideas that we come to know through his works from the prison of Imrali.<sup>277</sup>
+After these important ethical-political considerations, I would like to address some of Öcalan's ideas that we come to know through his works from the prison of Imrali.277
 
 It is very difficult to synthesize his ideas and his contributions to the revolutionary movements of the world given the enormous diversity of topics that he addresses as well as the very broad view of his analysis. But it is difficult, above all, because he has taken both the rejection of capitalist civilization and the shortcut that real socialism took as his starting point.
 
@@ -1446,7 +1451,7 @@ I find resonance here with the concrete experience of the Indigenous movements o
 
 Like the Latin American Indigenous movements, Öcalan's work manages to amalgamate the cultural traditions of the Middle East with a proposal of transformation for the entire Kurdish society. The place from which a discourse, analysis, and theory is issued and elaborated, must be located somewhere. This is true except for Eurocentric thought that has a vocation to turn one's own vision into universal truth. A history that starts from the peoples that inhabited Mesopotamia, can only enrich the history of all peoples, since their particularities add to the universal.
 
-<sup>I</sup> believe that both Öcalan's thinking and what is happening in Rojava in recent years is in tune with what a good part of the Latin American social movements are doing. To a large extent, because both of us have been colonized by the West and our peoples had to withdraw into themselves to survive. Our respective regions needed to close themselves in their communities and their ancestral cultures, as "tombs" in which it was possible to re-create life.
+I believe that both Öcalan's thinking and what is happening in Rojava in recent years is in tune with what a good part of the Latin American social movements are doing. To a large extent, because both of us have been colonized by the West and our peoples had to withdraw into themselves to survive. Our respective regions needed to close themselves in their communities and their ancestral cultures, as "tombs" in which it was possible to re-create life.
 
 At least three resonances can be found between these movements.
 
@@ -1466,19 +1471,19 @@ Contrary how those of us who have been trained in Marxthink, Öcalan argues that
 
 The third resonance I find in Öcalan's thought is with Latin American movements defending *good living/living well* comparably opposing capitalist productivism. The constitutions of Ecuador and Bolivia, approved in 2008 and 2009 respectively, emphasized that nature is a "subject bestowed with rights," when it had previously been considered an object simply from which to obtain wealth. Among these movements we find the idea that we are facing something much more profound than a crisis of capitalism: a civilizational crisis. The Kurdish movement maintains that capitalism leads to the crisis of modern Western capitalist civilization, an analysis that allows us to overcome the ideology of progress and development, integrates the various oppressions linked to patriarchy and racism, the environmental and the health crisis, and takes a deeper and broader look at the ongoing crises.
 
-A civilization enters into crisis when it no longer has the resources (material and symbolic) to solve the problems it has created. That is why movements so distant—geographically and culturally—feel that humanity is on the threshold of a new world. I believe that Öcalan has gone much further than other militants of our generation in his criticism of Marxism, as well as of Marx. When he writes that Marx's work is tributary to "an 'enlightened' aberration" of a positivist and economistic stamp, and that it is about the vision of the world that he blames for the failure of a century and a half of struggles for freedom and for a democratic society, he is not only right in the analysis but also shows a free spirit that stops at nothing except for what he considers true. <sup>283</sup>
+A civilization enters into crisis when it no longer has the resources (material and symbolic) to solve the problems it has created. That is why movements so distant—geographically and culturally—feel that humanity is on the threshold of a new world. I believe that Öcalan has gone much further than other militants of our generation in his criticism of Marxism, as well as of Marx. When he writes that Marx's work is tributary to "an 'enlightened' aberration" of a positivist and economistic stamp, and that it is about the vision of the world that he blames for the failure of a century and a half of struggles for freedom and for a democratic society, he is not only right in the analysis but also shows a free spirit that stops at nothing except for what he considers true. 283
 
 In this way he recovers the rebellious spirit of Che Guevara when he vehemently argued with the Soviet bureaucracy without considering the consequences and what it meant for the relationship with the Soviet Union. Öcalan also brings to mind the rebellious and indomitable focus of Subcomandante Moisés when he analyzed the Zapatista construction of new worlds, and Subcomandante Marcos when he would not make the slightest concession to the reformist and progressive leftists.
 
 In this way Abdullah Öcalan is holding a mirror up for the generation of the 1960s, so that we may look straight ahead at what we have lost in terms of a rebellious dignity to the altar of pragmatism and an accommodation to the dominant system. Defeat does not justify straying from the path, just as prison is not a reason to surrender. This dialogue with the thought and persistence of Öcalan, with his ability to make a turn without losing the way north even while imprisoned in Imrali, is an example for those of us who are still determined to change the world. Öcalan reminds us that it is impossible to change the world without first changing ourselves, because change, like movement itself, is singular and it is multiple, and we cannot afford to not be involved.
 
-<sup>274.</sup> Subcomandante Insurgente Marcos, "Pensar el Blanco," First International Colloquium In Memory of Andrés Aubry, San Cristóbal de las Casas, Mexico, December 13, 2007, http://enlacezapatista.ezln.org.mx/2007/12/13/conferencia-del-dia-13-de-diciembre-a-las-900-am.
+274. Subcomandante Insurgente Marcos, "Pensar el Blanco," First International Colloquium In Memory of Andrés Aubry, San Cristóbal de las Casas, Mexico, December 13, 2007, http://enlacezapatista.ezln.org.mx/2007/12/13/conferencia-del-dia-13-de-diciembre-a-las-900-am.
 
-<sup>275.</sup> Marcos, "Pensar el Blanco."
+275. Marcos, "Pensar el Blanco."
 
-<sup>&</sup>lt;u>276</u>. Subcomandante Insurgente Marcos, "Entrevista con Carmen Castillo," *Contrahistorias* 20 (October 1994), 63.
+&lt;u>276. Subcomandante Insurgente Marcos, "Entrevista con Carmen Castillo," *Contrahistorias* 20 (October 1994), 63.
 
-<sup>&</sup>lt;u>277</u>. Long considered the "Guantanamo Bay of Europe," Imrali is a high security prison on an island in the Sea of Marmara, where Öcalan has spent most of his imprisonment as the sole inmate there.
+&lt;u>277. Long considered the "Guantanamo Bay of Europe," Imrali is a high security prison on an island in the Sea of Marmara, where Öcalan has spent most of his imprisonment as the sole inmate there.
 
 - 278. Abdullah Öcalan, Manifesto for a Democratic Civilization, Vol. II, Capitalism: The Age of Unmasked Gods and Naked Kings (Porsgrunn, Norway: New Compass Press, 2017), 315.
 - 279. Öcalan, Manifesto, Vol. II, 130.
@@ -1553,11 +1558,11 @@ It is, in my view, the biggest known break with the old way of doing politics an
 
 ## > Raúl Zibechi, December 2023
 
-<sup>284.</sup> The press releases can be found in chronological order at http://enlacezapatista.ezln.org.mx.
+284. The press releases can be found in chronological order at http://enlacezapatista.ezln.org.mx.
 
-<sup>285.</sup> Subcomandante Insurgente Moisés, "Regarding Pyramids and Their uses and Customary Regimes," November, 15, 2023, https://enlacezapatista.ezln.org.mx/2023/11/15/tenth-part-regarding-pyramids-and-theiruses-and-customary-regimes.
+285. Subcomandante Insurgente Moisés, "Regarding Pyramids and Their uses and Customary Regimes," November, 15, 2023, https://enlacezapatista.ezln.org.mx/2023/11/15/tenth-part-regarding-pyramids-and-theiruses-and-customary-regimes.
 
-<sup>286.</sup> Subcomandante Insurgente Moisés, "Fragments," November 22, 2023, https://schoolsforchiapas.org/twelfth-part-fragments.
+286. Subcomandante Insurgente Moisés, "Fragments," November 22, 2023, https://schoolsforchiapas.org/twelfth-part-fragments.
 
 **AK PRESS** is small, in terms of staff and resources, but we also manage to be one of the world's most productive anarchist publishing houses. We publish close to twenty books every year, and distribute thousands of other titles published by like-minded independent presses and projects from around the globe. We're entirely worker run and democratically managed. We operate without a corporate structure—no boss, no managers, no bullshit.
 

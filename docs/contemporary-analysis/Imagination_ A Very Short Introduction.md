@@ -1,3 +1,8 @@
+---
+title: "**IMAGINATION**"
+category: "contemporary-analysis"
+---
+
 ## Jennifer Gosetti-Ferencei
 
 # **IMAGINATION**
@@ -1243,7 +1248,7 @@ Seamus Heaney, The Redress of Poetry (New York: Farrar, Straus and Giroux, 1995)
 
 Albert Einstein, 'What Life Means to Einstein', Interview with George Sylvester Vierack, Saturday Evening Post (October 1929), p. 117. Albert Einstein and Leopold Infeld, The Evolution of Physics (London: The Scientic Book Club, 1938), p. 95.
 
-Elizabeth Blackburn, 'Why Beauty is So Important to Us', The New York Times, Turning Points 2020: <https://www.nytimes.com/interactive/2019/12/07/opinion/elizabeth-blackburn-why-isbeauty-important.html>.
+Elizabeth Blackburn, 'Why Beauty is So Important to Us', The New York Times, Turning Points 2020: .
 
 David Hume, A Treatise of Human Nature, ed. L. A. Selby-Bigge (Oxford: Clarendon, 1896 [1739]), p. 24.
 
@@ -1329,7 +1334,7 @@ Plato, from Ion in Statesman, Philebus, Ion, p. 534b. Gosetti-Ferencei, The Life
 
 - Vincent van Gogh 'Letter to Emile Bernard', 26 November 1889, in Painted with Words: Letters to Emile Bernard, ed. Leo Jansen, Hans Luijten, and Nienke Bakker (New York: The Morgan Library and Amsterdam: Van Gogh Museum, 2007), pp. 339–40.
 - Viktor Shklovsky, 'Art as Technique', in Russian Formalist Criticism: Four Essays, ed. Lee T. Lemon and Marion J. Reiss (Lincoln: University of Nebraska Press, 1965), pp. 3–24.
-- Wisława Szymborska, Nobel Lecture. Nobel Prize.org. Nobel Prize Outreach AB 2022. Tue. 19 July 2022. <https://www.nobelprize.org/prizes/literature/1996/szymborska/lecture/>.
+- Wisława Szymborska, Nobel Lecture. Nobel Prize.org. Nobel Prize Outreach AB 2022. Tue. 19 July 2022. .
 - Albert Einstein, The World as I See It, trans. Alan Harris (London: John Lane, 1935), pp. 4–5.
 - René Descartes, The Passions of the Soul, trans. Stephen H. Voss (Indianapolis/Cambridge: Hackett Publishing, 1989), p. 59. Rainer Maria Rilke, 'Archaic Torso of Apollo', in New Poems, Bilingual Edition, trans. Stephen Mitchell (New York: Knopf Doubleday, 2013).
 

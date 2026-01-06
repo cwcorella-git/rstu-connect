@@ -1,3 +1,8 @@
+---
+title: "[gnu.org](https://www.gnu.org/philosophy/rms-pavia-doctoral-address.html)"
+category: "technology-digital-justice"
+---
+
 [gnu.org](https://www.gnu.org/philosophy/rms-pavia-doctoral-address.html)
 
 ## **Pavia Doctoral Address: Innovation Is Secondary When Freedom Is at Stake - GNU Project**

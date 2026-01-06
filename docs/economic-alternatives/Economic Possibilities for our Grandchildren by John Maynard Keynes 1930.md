@@ -1,3 +1,8 @@
+---
+title: "## **John Maynard Keynes 1930**"
+category: "economic-alternatives"
+---
+
 ## **John Maynard Keynes 1930**
 
 ## **Economic Possibilities for our Grandchildren**

@@ -1,3 +1,8 @@
+---
+title: "**Greece: Everything Is Coming to a Boil - Looming Recession, the Ban on Freedom of Assembly, and the Death of Vassilis Maggos**"
+category: "environmental-justice"
+---
+
 # **Greece: Everything Is Coming to a Boil - Looming Recession, the Ban on Freedom of Assembly, and the Death of Vassilis Maggos**
 
 ## **Date:** Unknown
@@ -150,7 +155,8 @@ The Athenian skyline at dusk.
 
 It remains to be seen how far the economic crisis will go—or the repressive violence of the New Democracy government. But it is certain that the frustration that prevails in Greek society
 
-| will continue to manifest itself in the broader revolutionary movement against the state and<br>capitalism. |
+| will continue to manifest itself in the broader revolutionary movement against the state and
+capitalism. |
 |-------------------------------------------------------------------------------------------------------------|
 | |
 | |

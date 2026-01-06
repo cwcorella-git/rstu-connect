@@ -1,29 +1,42 @@
+---
+title: "## **Inmates Launch Month-Long Strike to Protest 'Slavery Conditions' in Florida Prisons**"
+category: "contemporary-analysis"
+---
+
 ## **Inmates Launch Month-Long Strike to Protest 'Slavery Conditions' in Florida Prisons**
 
 | Date: Wed, 01/17/2018 - 18:13 |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Source: https://ecology.iww.org/node/2752|
-| Tags: IWOC, toxics, Prison Ecology Project, green unionism, green syndicalism, Florida, prison labor,<br>class war prisoners, Operation Push |
+| Tags: IWOC, toxics, Prison Ecology Project, green unionism, green syndicalism, Florida, prison labor,
+class war prisoners, Operation Push |
 | By Julia Conley - |
 | Common Dreams |
 | , January 14, 2018 |
-| Inmates in Florida's prisons launched a month-long strike on Monday in protest of the state's<br>use of "modern day slavery" within its correctional facilities. |
+| Inmates in Florida's prisons launched a month-long strike on Monday in protest of the state's
+use of "modern day slavery" within its correctional facilities. |
 | In a |
 | statement |
-| released by the Campaign to Fight Toxic Prisons, one of several advocacy groups supporting<br>the movement, the state's prisoners urged the prison population to refuse all work<br>assignments during the strike: |
+| released by the Campaign to Fight Toxic Prisons, one of several advocacy groups supporting
+the movement, the state's prisoners urged the prison population to refuse all work
+assignments during the strike: |
 
 We are encouraging prisoners throughout the DOC to band together in an effort to demand payment for work performances... Our goal is to make the Governor realize that it will cost the state of Florida millions of dollars daily to contract outside companies to come and cook, clean, and handle the maintenance. This will cause a total BREAK DOWN.
 
-| Push, after Rev. Jesse Jackson's 1970s campaign to improve the economic status of<br>African-Americans, the state's inmates are fighting against the Department of Corrections'<br>price-gouging practices and Florida's |
+| Push, after Rev. Jesse Jackson's 1970s campaign to improve the economic status of
+African-Americans, the state's inmates are fighting against the Department of Corrections'
+price-gouging practices and Florida's |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | elimination of parole |
 | as well as its use of unpaid labor by prisoners. |
 | Florida is one of |
 | five states |
-| that offers no payment to inmates for their work—from washing prison uniforms and cooking<br>meals to completing maintenance work and serving on |
+| that offers no payment to inmates for their work—from washing prison uniforms and cooking
+meals to completing maintenance work and serving on |
 | cleanup crews |
 | after Hurricane Irma hit the state last September. |
-| "There's a word for that, it's called slavery," Paul Wright, executive director of the Human<br>Rights Defense Center, |
+| "There's a word for that, it's called slavery," Paul Wright, executive director of the Human
+Rights Defense Center, |
 | told |
 | the |
 ## | Guardian. |
@@ -50,13 +63,16 @@ https://t.co/2Of7n3zLBc
 
 ## January 15, 2018
 
-| We're standing in solidarity with our inmates in Florida prisons who are on strike today -<br>protesting prison overcrowding, brutal living conditions, and working for no or little pay. |
+| We're standing in solidarity with our inmates in Florida prisons who are on strike today -
+protesting prison overcrowding, brutal living conditions, and working for no or little pay. |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | #MLKDay |
 | https://t.co/c2vgpfycdX|
 | — Justice Democrats (@justicedems) |
 | January 15, 2018 |
-| Florida's prison laborers are going on strike today to protest slave labor in prisons. Half a<br>century since the March on Washington, a reminder of how many things remain unchanged.<br>By |
+| Florida's prison laborers are going on strike today to protest slave labor in prisons. Half a
+century since the March on Washington, a reminder of how many things remain unchanged.
+By |
 | @jbwashing |
 | |
 | https://t.co/16CiV3s Wvp|

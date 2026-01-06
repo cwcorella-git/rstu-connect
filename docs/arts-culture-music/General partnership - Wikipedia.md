@@ -1,3 +1,8 @@
+---
+title: "## [en.wikipedia.org](https://en.wikipedia.org/wiki/General_partnership)"
+category: "arts-culture-music"
+---
+
 ## [en.wikipedia.org](https://en.wikipedia.org/wiki/General_partnership)
 
 ## **General partnership**

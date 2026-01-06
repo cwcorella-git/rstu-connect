@@ -1,31 +1,50 @@
+---
+title: "## **Resolution Against the Dakota Access Pipeline**"
+category: "labor"
+---
+
 ## **Resolution Against the Dakota Access Pipeline**
 
 | Date: Sun, 11/27/2016 - 18:47 |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Source: https://ecology.iww.org/node/1936|
-| Tags: NoDAPL, Railroad Workers United (RWU), Dakota Access Pipeline (DAPL), Labor for Standing<br>Rock (L4SR), Labor Union Camp, green unionism, railroad workers, pipelines, North America's Building<br>Trades Unions (NABTU), Communication Workers of America (CWA) |
+| Tags: NoDAPL, Railroad Workers United (RWU), Dakota Access Pipeline (DAPL), Labor for Standing
+Rock (L4SR), Labor Union Camp, green unionism, railroad workers, pipelines, North America's Building
+Trades Unions (NABTU), Communication Workers of America (CWA) |
 | Resolution passed by |
 | Railroad Workers United |
 | - November 2, 2016 |
 | Whereas, |
-| the unprecedented \$3.78 Billion, 1,172-mile Dakota Access Pipeline would carry over half a<br>million barrels of dirty crude oil from the Bakken oil fields in North Dakota, through South<br>Dakota and Iowa to Illinois to connect to other pipelines bringing oil to the East Coast and the<br>Gulf; and |
+| the unprecedented \$3.78 Billion, 1,172-mile Dakota Access Pipeline would carry over half a
+million barrels of dirty crude oil from the Bakken oil fields in North Dakota, through South
+Dakota and Iowa to Illinois to connect to other pipelines bringing oil to the East Coast and the
+Gulf; and |
 | Whereas, |
-| the pipeline is slated to pass through the tribal lands of Standing Rock Sioux near Cannon<br>Ball, North Dakota, and underneath the Missouri River, the main source of water for the tribe;<br>and |
+| the pipeline is slated to pass through the tribal lands of Standing Rock Sioux near Cannon
+Ball, North Dakota, and underneath the Missouri River, the main source of water for the tribe;
+and |
 
 Whereas,
 
-| the pipeline is slated to pass under the Missouri River a second time before passing under the<br>Mississippi River, a total watershed coving 40% of the continental United States; and |
+| the pipeline is slated to pass under the Missouri River a second time before passing under the
+Mississippi River, a total watershed coving 40% of the continental United States; and |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Whereas, |
 | the pipeline has already disturbed the lives of millions of Americans; and |
 | Whereas, |
-| millions of workersincluding many union members and their their familieslive in<br>communities that are in thepath of the proposed pipeline; and |
+| millions of workersincluding many union members and their their familieslive in
+communities that are in thepath of the proposed pipeline; and |
 | Whereas, |
-| the transport of heavy crude is particularly volatile, leading to 18.4 million gallons of oils and<br>chemicals spilled, leaked, or released into the air, land, and waterways between 2006 and<br>2014 in North Dakota alone, causing death, contamination of soil and water, and numerous<br>types of disease; and |
+| the transport of heavy crude is particularly volatile, leading to 18.4 million gallons of oils and
+chemicals spilled, leaked, or released into the air, land, and waterways between 2006 and
+2014 in North Dakota alone, causing death, contamination of soil and water, and numerous
+types of disease; and |
 | Whereas, |
-| scientists have warned that in order to avoid wide-scale, catastrophic climate disruption, the<br>vast majority of known remaining fossil fuel reserves must be left in the ground; and |
+| scientists have warned that in order to avoid wide-scale, catastrophic climate disruption, the
+vast majority of known remaining fossil fuel reserves must be left in the ground; and |
 | Whereas, |
-| people engaged in protecting their land and water have been brutally attacked by private<br>security forces in both Iowa and North Dakota; and |
+| people engaged in protecting their land and water have been brutally attacked by private
+security forces in both Iowa and North Dakota; and |
 ## | Whereas, |
 
 Native Americans and other activists defending their land and water have the same right to defend their land and engage in non-violent protest as workers who are protesting the actions of an unfair employer; and
@@ -42,16 +61,24 @@ Whereas, numerous national and international unions have already passed resoluti
 
 | Whereas, |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| these unions have an economic, environmental and racial justice strategy which has been<br>employed to win membership strikes through broad base support by non-unionized workers<br>and community members; and |
+| these unions have an economic, environmental and racial justice strategy which has been
+employed to win membership strikes through broad base support by non-unionized workers
+and community members; and |
 | Whereas, |
-| unions in support of Standing Rock, and against the Dakota Access Pipeline have come<br>under attack from reactionary unions who have engaged in the bad practice of collaborating<br>with bosses, such as the virulently anti-union Koch Brothers; and |
+| unions in support of Standing Rock, and against the Dakota Access Pipeline have come
+under attack from reactionary unions who have engaged in the bad practice of collaborating
+with bosses, such as the virulently anti-union Koch Brothers; and |
 | Whereas, |
-| Railroad Workers United is already on record supporting the development of a just transition<br>plan for |
+| Railroad Workers United is already on record supporting the development of a just transition
+plan for |
 | workers affected by fossil fuel elimination; and |
 | Whereas, |
-| more long-term good paying jobs would be created by investing in sustainable energy<br>infrastructure projects using already existing technologies while at the same time reducing<br>greenhouse gases; and |
+| more long-term good paying jobs would be created by investing in sustainable energy
+infrastructure projects using already existing technologies while at the same time reducing
+greenhouse gases; and |
 | Whereas, |
-| we support the rights of our union brothers and sisters building the pipeline to work in safe<br>environments at jobs that are consistent with respect for the environment and the rights and |
+| we support the rights of our union brothers and sisters building the pipeline to work in safe
+environments at jobs that are consistent with respect for the environment and the rights and |
 
 safety of frontline communities;
 

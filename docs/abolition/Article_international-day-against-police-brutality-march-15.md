@@ -1,13 +1,8 @@
 ---
-title: International Day Against Police Brutality - March 15
-date: 2025
-author: Federazione dei Comunisti Anarchici
-tags:
-  - organizing
-  - unions
-  - tenants
-  - rent
-  - police
+title: "International Day Against Police Brutality - March 15"
+author: "Federazione dei Comunisti Anarchici"
+date: "2025"
+category: "abolition"
 ---
 
 # International Day Against Police Brutality March 15

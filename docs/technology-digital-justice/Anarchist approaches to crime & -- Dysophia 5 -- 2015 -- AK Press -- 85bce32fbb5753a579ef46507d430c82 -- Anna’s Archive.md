@@ -1,3 +1,8 @@
+---
+title: "what about the rapists?"
+category: "technology-digital-justice"
+---
+
 # what about the rapists?
 
 anarchist approaches to crime & justice
@@ -6,15 +11,52 @@ anarchist approaches to crime & justice
 
 # Contents
 
-| On<br>Crime<br>(A)legal | p4 |
+| On
+Crime
+(A)legal | p4 |
 |--------------------------------------------------------------------------------------------------------------------------|-----|
-| Part<br>One:<br>Transformative<br>Justice | p11 |
-| Beautiful,<br>Difficult,<br>Powerful<br>Chrysalis<br>Collective | p13 |
-| Accounting<br>for<br>Ourselves<br>Crimeth Inc | p30 |
-| Part<br>Two:<br>Retribution | p62 |
-| "Anarchist"<br>Rapist<br>Gets<br>the<br>Bat:<br>We'll<br>Show<br>You<br>Crazy<br>Bitches<br>Part<br>II<br>(2010)<br>Anon | p63 |
-| i.<br>Communiqué<br>Anon | p64 |
-| Beyond<br>Revenge<br>&<br>Reconciliation:<br>demolishing<br>the<br>straw<br>men<br>(A)legal | p67 |
+| Part
+One:
+Transformative
+Justice | p11 |
+| Beautiful,
+Difficult,
+Powerful
+Chrysalis
+Collective | p13 |
+| Accounting
+for
+Ourselves
+Crimeth Inc | p30 |
+| Part
+Two:
+Retribution | p62 |
+| "Anarchist"
+Rapist
+Gets
+the
+Bat:
+We'll
+Show
+You
+Crazy
+Bitches
+Part
+II
+(2010)
+Anon | p63 |
+| i.
+Communiqué
+Anon | p64 |
+| Beyond
+Revenge
+&
+Reconciliation:
+demolishing
+the
+straw
+men
+(A)legal | p67 |
 
 This zine looks at contemporary anarchist theory and practice on crime and justice, though it won't be using these terms. The first half will be a critical examination of Transformative Justice-based accountability processes, an approach with origins in US anarchist circles now taking seed in parts of Europe. The other half looks at retributive approaches, such as survivor-led direct action against rapists.
 

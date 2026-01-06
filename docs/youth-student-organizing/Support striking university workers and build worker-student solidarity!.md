@@ -1,3 +1,8 @@
+---
+title: "## **Support striking university workers and build worker-student solidarity!**"
+category: "youth-student-organizing"
+---
+
 ## **Support striking university workers and build worker-student solidarity!**
 
 ## **Date:** Unknown

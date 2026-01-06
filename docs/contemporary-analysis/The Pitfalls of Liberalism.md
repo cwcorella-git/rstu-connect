@@ -1,3 +1,8 @@
+---
+title: "## [redsails.org](https://redsails.org/the-pitfalls-of-liberalism/)"
+category: "contemporary-analysis"
+---
+
 ## [redsails.org](https://redsails.org/the-pitfalls-of-liberalism/)
 
 ## **The Pitfalls of Liberalism**

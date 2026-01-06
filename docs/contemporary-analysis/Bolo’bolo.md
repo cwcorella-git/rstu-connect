@@ -1,3 +1,8 @@
+---
+title: "**P. M.**"
+category: "contemporary-analysis"
+---
+
 # **P. M.**
 
 # **Bolo'bolo**
@@ -824,40 +829,121 @@ sadi
 
 Gifts, common pools and barter agreements, combined with self-sufficiency, drastically reduce the need for economic — i.e., value-calculating — excahnge. The diversity of cultural identities destroys the basis for mass production, hence also the emergence of mass marketing. The invested amount of labortime will be difficult to compare, and exact measurement of exchange-value (through money) will be almost impossible. Nevertheless it might occur that certain ibus (they still have their property container, taku) or bolos could be interested in this type of calculated exchange, for certain purposes. This is the function of local markets, sadi. These markets complement the possibilities of exchange, determining a small part of the existential bases of bolos.
 
-| bolo | tega | vudo | sumi | to<br>Idiotropos | from<br>Idiotropos |
+| bolo | tega | vudo | sumi | to
+Idiotropos | from
+Idiotropos |
 |---------|----------|-----------|-----------|-----------------------------------|-------------------------|
-| Quetzal | Delancey | Manhattan | Big Apple | 30 pounds<br>of rice and<br>beans | 500 foot<br>massages |
-| Quetzal | Delancey | Manhattan | Big Apple | bicycle<br>repairs | 200 pounds<br>of apples |
+| Quetzal | Delancey | Manhattan | Big Apple | 30 pounds
+of rice and
+beans | 500 foot
+massages |
+| Quetzal | Delancey | Manhattan | Big Apple | bicycle
+repairs | 200 pounds
+of apples |
 
-| bolo | tega | vudo | sumi | to<br>Idiotropos | from<br>Idiotropos |
+| bolo | tega | vudo | sumi | to
+Idiotropos | from
+Idiotropos |
 |------------|-------------------|-------------|---------------|------------------------------------------|---------------------------------------|
-| Quetzal | Delancey | Manhattan | Big Apple | 10 gallons<br>of honey | 50 pounds<br>of goat<br>cheese |
-| Titanic | Alphabet<br>City | Manhattan | Big Apple | hair cutting<br>and dyeing | 5 bales of<br>lamb's wool |
-| Moho | Billyburg | Brooklyn | Big Apple | paintings<br>and<br>sculpture | plumbing<br>repairs |
-| Jones Hotl | Kline Road | Tompkins | New York | 100 bottles<br>local wine | 20 pounds<br>feta cheese |
-| Bonanza | Sawtooth | Boise | Idaho Valley | 3 tons of<br>potatoes | 400 pints of<br>fresh cream |
-| Antelope | Rosebud | Buffalo Gap | North Dakota | 75<br>recordings<br>of Sioux<br>chants | 75<br>recordings<br>of Greek<br>poems |
-| Red Earth | Sun Prairie | Madison | Wisconsin | 500 pounds<br>of butter | 3 lambs |
-| Midnight | Jamaica<br>Plain | Boston | Massachusetts | 3 pounds of<br>mushrooms | 5 gallons of<br>retsina |
-| Malcolm | Talladega | Selma | Alabama X | 40 cotton<br>sweaters | 1.5 pounds<br>feta heese |
-| Caribou | Musquacook | Aroostook | Maine | 60 lobsters,<br>200 pine<br>seedlings | 300 pounds<br>quince jam |
-| Homestead | Homestead | Amana | Iowana | ten smoke<br>cured hams | ten gallons<br>olive oil |
-| Sensevilla | Hendocino | Humboldt | California | ten kilos of<br>marijuana | 100 pounds<br>of goat<br>cheese |
-| Nunival | Aniakhak | Aleutians | Alaska Isles | 100 pounds<br>of<br>strawberries | large slab<br>of marble |
-| Geosol | Summit | Brekenridge | Coloradona | materials<br>for passive<br>solar plant | mosaic tiles<br>for indoor<br>pool |
-| Moenkopi | Painted<br>Desert | Kaibab | Four Corners | five silver<br>and<br>turquoise<br>belts | 25 pounds<br>of cured<br>olives |
-| Taoa | Vava'u | Tonga | Pacific Kona | 200 liters of<br>coconut oil | 3 lambs, 80<br>pounds feta |
-| Pura | Jambilar | Tumkur | Karnataka | 20 kilos of<br>spices | 40 liters<br>retsina |
+| Quetzal | Delancey | Manhattan | Big Apple | 10 gallons
+of honey | 50 pounds
+of goat
+cheese |
+| Titanic | Alphabet
+City | Manhattan | Big Apple | hair cutting
+and dyeing | 5 bales of
+lamb's wool |
+| Moho | Billyburg | Brooklyn | Big Apple | paintings
+and
+sculpture | plumbing
+repairs |
+| Jones Hotl | Kline Road | Tompkins | New York | 100 bottles
+local wine | 20 pounds
+feta cheese |
+| Bonanza | Sawtooth | Boise | Idaho Valley | 3 tons of
+potatoes | 400 pints of
+fresh cream |
+| Antelope | Rosebud | Buffalo Gap | North Dakota | 75
+recordings
+of Sioux
+chants | 75
+recordings
+of Greek
+poems |
+| Red Earth | Sun Prairie | Madison | Wisconsin | 500 pounds
+of butter | 3 lambs |
+| Midnight | Jamaica
+Plain | Boston | Massachusetts | 3 pounds of
+mushrooms | 5 gallons of
+retsina |
+| Malcolm | Talladega | Selma | Alabama X | 40 cotton
+sweaters | 1.5 pounds
+feta heese |
+| Caribou | Musquacook | Aroostook | Maine | 60 lobsters,
+200 pine
+seedlings | 300 pounds
+quince jam |
+| Homestead | Homestead | Amana | Iowana | ten smoke
+cured hams | ten gallons
+olive oil |
+| Sensevilla | Hendocino | Humboldt | California | ten kilos of
+marijuana | 100 pounds
+of goat
+cheese |
+| Nunival | Aniakhak | Aleutians | Alaska Isles | 100 pounds
+of
+strawberries | large slab
+of marble |
+| Geosol | Summit | Brekenridge | Coloradona | materials
+for passive
+solar plant | mosaic tiles
+for indoor
+pool |
+| Moenkopi | Painted
+Desert | Kaibab | Four Corners | five silver
+and
+turquoise
+belts | 25 pounds
+of cured
+olives |
+| Taoa | Vava'u | Tonga | Pacific Kona | 200 liters of
+coconut oil | 3 lambs, 80
+pounds feta |
+| Pura | Jambilar | Tumkur | Karnataka | 20 kilos of
+spices | 40 liters
+retsina |
 
-| bolo | tega | vudo | sumi | to<br>Idiotropos | from<br>Idiotropos |
+| bolo | tega | vudo | sumi | to
+Idiotropos | from
+Idiotropos |
 |-------------|-------------|--------------|--------------|-------------------------------------------|---------------------------------|
-| Peredelkino | Peredelklno | Moscow | Sovietaya | 5 kilos<br>vodka, 10<br>tens of<br>caviar | 500<br>kilograms<br>wheat flour |
-| Celito | San Pedro | Zacatecas | Mexico Verde | 100 pounds<br>chili powder | musical<br>instruments |
-| Minimata | Otaru | Sapporo | Kyushu | 45 cases of<br>beer, 30<br>yards silk | 100 liters<br>beechnut<br>oil |
-| Kufra | El Derj | Jamahitraya | Cyrenaica | 30 liters<br>dates, two<br>rugs | eight<br>turkeys |
-| Bishrevo | Grand Anse | St. George's | Grenada | 5 liters<br>pepper<br>sauce | 300 pears |
-| Monterosso | Castiglione | Ombrone | Tuscano | 25 pounds<br>of spinach<br>ravioli | 20 quarts<br>fresh cream |
-| Mchwa | Kaskazini | Solidamoszcz | Kosalin | 100 ducks | 100 bottles<br>retsina |
+| Peredelkino | Peredelklno | Moscow | Sovietaya | 5 kilos
+vodka, 10
+tens of
+caviar | 500
+kilograms
+wheat flour |
+| Celito | San Pedro | Zacatecas | Mexico Verde | 100 pounds
+chili powder | musical
+instruments |
+| Minimata | Otaru | Sapporo | Kyushu | 45 cases of
+beer, 30
+yards silk | 100 liters
+beechnut
+oil |
+| Kufra | El Derj | Jamahitraya | Cyrenaica | 30 liters
+dates, two
+rugs | eight
+turkeys |
+| Bishrevo | Grand Anse | St. George's | Grenada | 5 liters
+pepper
+sauce | 300 pears |
+| Monterosso | Castiglione | Ombrone | Tuscano | 25 pounds
+of spinach
+ravioli | 20 quarts
+fresh cream |
+| Mchwa | Kaskazini | Solidamoszcz | Kosalin | 100 ducks | 100 bottles
+retsina |
 
 Under these conditions, the circulation of money is not dangerous, and it can't develop its "infecting" effects — money will remain a means only in a narrow frame.
 

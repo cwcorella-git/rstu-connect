@@ -1,3 +1,8 @@
+---
+title: "ESCAPE FOR CHILDHOOD"
+category: "theory"
+---
+
 # ESCAPE FOR CHILDHOOD
 
 # JOHN HOLT
@@ -648,21 +653,88 @@ Ten-year-olds, on the other hand, might be quite different. I suspect that quite
 
 There is almost no evidence of what children themselves think about this. The magazine Kids printed a letter from me saying that I would Me to know whether readers of the magazine felt that they should be allowed to vote, and if they were allowed, whether they would. One teacher, Mrs Paul, read my letter to her fourth-grade class at the Longfellow School in Holland, Michigan and had them all write me letters telling how they felt. I don't know whether the children discussed my questions in class, or with their parents, before writing their letters. The children's replies fall into the following categories, with the indicated number of boys and girls voting in each category:
 
-| I<br>would<br>vote,<br>and<br>we<br>should<br>be<br>allowed<br>to | 8B,<br>3G |
+| I
+would
+vote,
+and
+we
+should
+be
+allowed
+to | 8B,
+3G |
 |---------------------------------------------------------------------------------|------------------------------|
-| I<br>would<br>vote | IB |
-| I<br>would<br>vote,<br>but<br>children<br>should<br>not<br>be<br>allowed<br>to | 5B,<br>2G |
-| I<br>would<br>not<br>vote | IB<br>(religious<br>grounds) |
-| We<br>should<br>not<br>be<br>allowed<br>to | 1G |
-| I<br>would<br>not<br>vote,<br>and<br>we<br>should<br>not<br>be<br>allowed<br>to | 4B,<br>4G |
+| I
+would
+vote | IB |
+| I
+would
+vote,
+but
+children
+should
+not
+be
+allowed
+to | 5B,
+2G |
+| I
+would
+not
+vote | IB
+(religious
+grounds) |
+| We
+should
+not
+be
+allowed
+to | 1G |
+| I
+would
+not
+vote,
+and
+we
+should
+not
+be
+allowed
+to | 4B,
+4G |
 
 Those who said they would not vote, or that they should not be allowed to, gave these reasons (some gave more than one, some gave none):
 
-| Would<br>not<br>know<br>how,<br>not<br>responsible,<br>too<br>difficult<br>etc. | 10 |
+| Would
+not
+know
+how,
+not
+responsible,
+too
+difficult
+etc. | 10 |
 |---------------------------------------------------------------------------------|----|
-| Not<br>fair<br>to<br>those<br>who<br>had<br>to<br>wait | 4 |
-| Might<br>break<br>the<br>voting<br>machines | 3 |
-| Would<br>vote<br>the<br>same<br>way<br>as<br>parents | 2 |
+| Not
+fair
+to
+those
+who
+had
+to
+wait | 4 |
+| Might
+break
+the
+voting
+machines | 3 |
+| Would
+vote
+the
+same
+way
+as
+parents | 2 |
 
 It is interesting that seven children should have said that they would vote if allowed but that children should not be allowed to. It reminds me a little of the children in my fifth-grade class, who in a certain setting would say hotly that any child who stole a pencil or pushed someone else at recess should be sent home or suspended from school for a week, though they regularly did those things themselves and would have been furiously (and rightly) indignant if such a severe punishment had been meted out to them. In this class, seven of those who said that children were for various reasons not smart enough to vote did not consider themselves to be one of such children. But much older children (and indeed often adults) say the same thing; any number of high school students have defended the strict rules in their school by saying that although they would behave without such rules most of the students would not.
 

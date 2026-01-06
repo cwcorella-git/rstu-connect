@@ -1,3 +1,8 @@
+---
+title: "## **1947: Mombasa General Strike**"
+category: "labor"
+---
+
 ## **1947: Mombasa General Strike**
 
 **Date:** Unknown

@@ -1,3 +1,8 @@
+---
+title: "**Ranked voting**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Ranked_voting)
 
 # **Ranked voting**
@@ -82,13 +87,13 @@ dimensional models and all symmetric models across multiple dimensions, a Condor
 
 [Arrow's impossibility theorem](https://en.wikipedia.org/wiki/Arrow%27s_impossibility_theorem) is a generalization of Condorcet's result on the impossibility of majority rule. It demonstrates that every ranked voting algorithm is susceptible to the [spoiler](https://en.wikipedia.org/wiki/Spoiler_effect) [effect.](https://en.wikipedia.org/wiki/Spoiler_effect) [Gibbard's theorem](https://en.wikipedia.org/wiki/Gibbard%27s_theorem) provides a closely-related corollary, that no voting rule can have a single, always-best strategy that does not depend on other voters' ballots.
 
-The Borda count is a weighted-rank system that assigns scores to each candidate based on their position in each ballot. If m is the total number of candidates, the candidate ranked first on a ballot receives <sup>m</sup> − 1 points, the second receives <sup>m</sup> − 2, and so on, until the last-ranked candidate who receives zero. In the given example, candidate B emerges as the winner with 130 out of a total 300 points. While the Borda count is simple to administer, it does not meet the Condorcet criterion. Also, it is heavily affected by the entry of candidates who have no real chance of winning.
+The Borda count is a weighted-rank system that assigns scores to each candidate based on their position in each ballot. If m is the total number of candidates, the candidate ranked first on a ballot receives m − 1 points, the second receives m − 2, and so on, until the last-ranked candidate who receives zero. In the given example, candidate B emerges as the winner with 130 out of a total 300 points. While the Borda count is simple to administer, it does not meet the Condorcet criterion. Also, it is heavily affected by the entry of candidates who have no real chance of winning.
 
 #### **Other positional systems**
 
 #### [\[edit\]](https://en.wikipedia.org/w/index.php?title=Ranked_voting&action=edit§ion=11)
 
-Systems that award points in a similar way but possibly with a different formula are called [positional systems.](https://en.wikipedia.org/wiki/Positional_voting) The score vector (<sup>m</sup> − 1, <sup>m</sup> − 2, ..., 0) is associated with the Borda count, (1, 1/2, 1/3, ..., 1/m) defines the [Dowdall system](https://en.wikipedia.org/wiki/Borda_count#dowdall) and (1, 0, ..., 0) equates to [first-past-the-post.](https://en.wikipedia.org/wiki/First-past-the-post)
+Systems that award points in a similar way but possibly with a different formula are called [positional systems.](https://en.wikipedia.org/wiki/Positional_voting) The score vector (m − 1, m − 2, ..., 0) is associated with the Borda count, (1, 1/2, 1/3, ..., 1/m) defines the [Dowdall system](https://en.wikipedia.org/wiki/Borda_count#dowdall) and (1, 0, ..., 0) equates to [first-past-the-post.](https://en.wikipedia.org/wiki/First-past-the-post)
 
 #### **Instant-runoff voting**
 
@@ -136,7 +141,7 @@ The defeat-dropping Condorcet methods all look for a Condorcet winner, i.e. a ca
 - 6. ^ Hoag and Hallet, PR (1926), p. 75
 - 7. ^ Droop, On Methods of Electing Representatives, p. 33
 - 8. ^ Nanson, E. J. (1882). ["Methods of election: Ware's Method"](https://archive.org/details/transactionsproc1719roya/page/206). Transactions and Proceedings of the Royal Society of Victoria. 19 (1864): 206. "The method was, however, mentioned by Condorcet, but only to be condemned."
-- 9. ^ Condorcet, Jean-Antoine-Nicolas de Caritat (1788). "On the Constitution and the Functions of Provincial Assemblies". [Complete Works of Condorcet](https://books.google.com/books?id=d0cwAAAAYAAJ&q=Oeuvres+de+Condorcet%2C+Volume+13&pg=PA243) (in French). Vol. 13 (published 1804). p. 243. "En effet, lorsqu'il y a plus de trois concurrents, le véritable vœu de la pluralité peut être pour un candidat qui <sup>n</sup>'ait eu aucune des voix dans le premier scrutin."
+- 9. ^ Condorcet, Jean-Antoine-Nicolas de Caritat (1788). "On the Constitution and the Functions of Provincial Assemblies". [Complete Works of Condorcet](https://books.google.com/books?id=d0cwAAAAYAAJ&q=Oeuvres+de+Condorcet%2C+Volume+13&pg=PA243) (in French). Vol. 13 (published 1804). p. 243. "En effet, lorsqu'il y a plus de trois concurrents, le véritable vœu de la pluralité peut être pour un candidat qui n'ait eu aucune des voix dans le premier scrutin."
 - 10. ^ Hare, The Election of Representatives, Parliamentary and Municipal, Appendix M. The Preferential Vote (W. R. Ware), p.
 
 ## 350-355
@@ -156,7 +161,7 @@ The defeat-dropping Condorcet methods all look for a Condorcet winner, i.e. a ca
 - 22. ^ ["North to the Future: Alaska's Ranked Choice Voting System](https://alaskapublic.org/2023/09/19/north-to-the-future-alaskas-ranked-choice-voting-system-is-praised-and-criticized-nationally/) [is Praised and Criticized Nationally"](https://alaskapublic.org/2023/09/19/north-to-the-future-alaskas-ranked-choice-voting-system-is-praised-and-criticized-nationally/). Alaska Public Media.
 - 23. ^ ["New Zealand Cities Voting to Implement Ranked Choice](https://www.fairvote.org/new_zealand_cities_voting_to_implement_ranked_choice_voting) [Voting"](https://www.fairvote.org/new_zealand_cities_voting_to_implement_ranked_choice_voting). September 19, 2017.
 - 24. ^ Smart, Peter (November 11, 2022). ["A wave of cities across](https://www.electoral-reform.org.uk/a-wave-of-cities-across-the-united-states-switch-to-fair-voting-systems/) [the United States switch to fair voting systems"](https://www.electoral-reform.org.uk/a-wave-of-cities-across-the-united-states-switch-to-fair-voting-systems/). Electoral Reform Society. Retrieved January 22, 2025.
-- 25. ^ <https://ballotbox.scot/councils/stv-explained/>
+- 25. ^ 
 - 26. ^ [https://lgiu.org/blog-article/how-irelands-local-elections](https://lgiu.org/blog-article/how-irelands-local-elections-work/)[work/](https://lgiu.org/blog-article/how-irelands-local-elections-work/)
 - 27. ^ Weber, Robert J. (September 1978). ["Comparison of Public](https://cowles.yale.edu/publications/cfdp/cfdp-498) [Choice Systems"](https://cowles.yale.edu/publications/cfdp/cfdp-498). Cowles Foundation Discussion Papers. Cowles Foundation for Research in Economics: 16, 38, 62. No. 498.
 - 28. ^ T. N. Tideman and F. Plassman, "Modeling the Outcomes of Vote-Casting in Actual Elections" (2012).

@@ -1,3 +1,8 @@
+---
+title: "**Murray Bookchin What is Social Ecology? 1993**"
+category: "environmental-justice"
+---
+
 # **Murray Bookchin What is Social Ecology? 1993**
 
 Nature and Society Social Hierarchy and Domination The Idea of Dominating Nature "Grow or Die!" An Ecological Society

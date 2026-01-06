@@ -1,13 +1,8 @@
 ---
-title: 21st October A Day Of General Strike
-date: 2025
-author: many organisations
-tags:
-  - organizing
-  - strikes
-  - unions
-  - housing
-  - rent
+title: "21st October A Day Of General Strike"
+author: "many organisations"
+date: "2025"
+category: "labor"
 ---
 
 # 21st October A Day Of General Strike

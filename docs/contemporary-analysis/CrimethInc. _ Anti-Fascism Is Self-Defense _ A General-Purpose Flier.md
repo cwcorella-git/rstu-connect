@@ -1,3 +1,8 @@
+---
+title: "## [crimethinc.com](https://crimethinc.com/2017/09/13/antifascism-is-self-defense-a-general-purpose-"
+category: "contemporary-analysis"
+---
+
 ## [crimethinc.com](https://crimethinc.com/2017/09/13/antifascism-is-self-defense-a-general-purpose-flier)
 
 ## **Anti-Fascism Is Self-Defense**

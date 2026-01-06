@@ -1,3 +1,8 @@
+---
+title: "## **The Ecosocialist Imperative**"
+category: "contemporary-analysis"
+---
+
 ## **The Ecosocialist Imperative**
 
 | Date: Sun, 10/23/2016 - 10:58 |
@@ -7,13 +12,17 @@
 | By Hannah Holleman - |
 | Left Voice |
 | , October 13, 2016 |
-| Her work has appeared in numerous publications on subjects including imperialism and<br>colonialism, political economy ecology, ecological justice, feminism, advertising and<br>propaganda, financialization, mass incarceration, and social theory. |
+| Her work has appeared in numerous publications on subjects including imperialism and
+colonialism, political economy ecology, ecological justice, feminism, advertising and
+propaganda, financialization, mass incarceration, and social theory. |
 | She is a featured speaker at a regional socialist educational conference, |
 | The Solution is Socialism |
 | , to be held at Central Connecticut State University, New Britain, Connecticut on October 22. |
-| David Kiely, a socialist youth organizer in Connecticut, interviews Hannah Holleman on the<br>ecosocialist imperative. |
+| David Kiely, a socialist youth organizer in Connecticut, interviews Hannah Holleman on the
+ecosocialist imperative. |
 | 1. You argue in a recent article, |
-| "De-naturalizing Ecological Disaster: Colonialism, Racism, and the Global Dust Bowl of the<br>1930s" |
+| "De-naturalizing Ecological Disaster: Colonialism, Racism, and the Global Dust Bowl of the
+1930s" |
 
 , that predominant conceptions of environmental justice are too shallow and that the environmental movement needs at its center a deeper understanding of, and commitment to, real ecological justice. Can you explain what you mean and why this is so important?
 

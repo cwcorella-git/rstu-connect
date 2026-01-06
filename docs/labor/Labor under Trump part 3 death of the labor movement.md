@@ -1,3 +1,8 @@
+---
+title: "## **Labor under Trump part 3: death of the labor movement?**"
+category: "labor"
+---
+
 ## **Labor under Trump part 3: death of the labor movement?**
 
 ## **Date:** Sun, 01/22/2017 - 18:10
@@ -118,17 +123,21 @@ Bloomberg Business Week.
 
 | Accessed 12/28/16. |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| https://www.bloomberg.com/news/articles/2016-12-27/fear-of-trump-triggers-deep-spending-c<br>uts-by-nation-s-second-largest-union |
+| https://www.bloomberg.com/news/articles/2016-12-27/fear-of-trump-triggers-deep-spending-c
+uts-by-nation-s-second-largest-union |
 | [2] |
 | The United States Census provided useful data in a graphical format. US Census (2015). |
 | Union slides for C-SPAN. |
 | Accessed 12/27/16. |
-| https://www.census.gov/content/dam/Census/newsroom/c-span/2015/20150326_cspan_unio<br>n_slides.pdf |
+| https://www.census.gov/content/dam/Census/newsroom/c-span/2015/20150326_cspan_unio
+n_slides.pdf |
 | [3] |
-| Rosenfeld, R., Denice, P., & Laird, J. (2016). Union decline lowers wages of nonunion<br>workers: the overlooked reason why wages are stuck and inequality is growing. |
+| Rosenfeld, R., Denice, P., & Laird, J. (2016). Union decline lowers wages of nonunion
+workers: the overlooked reason why wages are stuck and inequality is growing. |
 | Economic Policy Institute |
 | |
-| http://www.epi.org/publication/union-decline-lowers-wages-of-nonunion-workers-the-overlook<br>ed-reason-why-wages-are-stuck-and-inequality-is-growing/ |
+| http://www.epi.org/publication/union-decline-lowers-wages-of-nonunion-workers-the-overlook
+ed-reason-why-wages-are-stuck-and-inequality-is-growing/ |
 ## | [4] |
 
 | Wikileaks. |
@@ -141,7 +150,8 @@ Bloomberg Business Week.
 | American Labor and the Cold War. |
 | New Brunswick: Rutgers University Press. |
 | [6] |
-| Shorrock, T. (2003). Labor's cold war: freshly unearthed documents may force the AFL-CIO to<br>face up to past betrayals. |
+| Shorrock, T. (2003). Labor's cold war: freshly unearthed documents may force the AFL-CIO to
+face up to past betrayals. |
 | The Nation |
 | . Accessed 12/27/16. |
 | https://www.thenation.com/article/labors-cold-war/|
@@ -150,14 +160,19 @@ Bloomberg Business Week.
 
 ## ![](_page_11_Figure_0.jpeg)
 
-| Kneese, T. (Apr 29, 2016). Portland fast food workers don't just want a raise—they want a<br>union too. |
+| Kneese, T. (Apr 29, 2016). Portland fast food workers don't just want a raise—they want a
+union too. |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Yes Magazine. |
 | Accessed 1/3/17. |
-| http://www.yesmagazine.org/people-power/portland-fast-food-workers-dont-just-want-a-raise<br>they-want-a-union-too-20160429 |
+| http://www.yesmagazine.org/people-power/portland-fast-food-workers-dont-just-want-a-raise
+they-want-a-union-too-20160429 |
 | [11] |
-| For more info see Solidarity Federation. Fighting for Ourselves: Anarcho-Syndicalism and the<br>Class Struggle. London, UK: Freedom Press, 2012. |
-| https://libcom.org/library/fighting-ourselves-anarcho-syndicalism-class-struggle-solidarity-fede<br>ration |
+| For more info see Solidarity Federation. Fighting for Ourselves: Anarcho-Syndicalism and the
+Class Struggle. London, UK: Freedom Press, 2012. |
+| https://libcom.org/library/fighting-ourselves-anarcho-syndicalism-class-struggle-solidarity-fede
+ration |
 | Disclaimer: |
-| The views expressed here are not the official position of the IWW (or even the IWW's EUC)<br>and do not necessarily represent the views of anyone but the author's. |
+| The views expressed here are not the official position of the IWW (or even the IWW's EUC)
+and do not necessarily represent the views of anyone but the author's. |
 ## | |

@@ -1,3 +1,8 @@
+---
+title: "**Abraham Lincoln Speech in Chicago, Illinois on July 10th, 1858**"
+category: "theory"
+---
+
 [rev.com](https://www.rev.com/transcripts/abraham-lincoln-speech-in-chicago-illinois-on-july-10th-1858)
 
 # **Abraham Lincoln Speech in Chicago, Illinois on July 10th, 1858**

@@ -1,9 +1,15 @@
+---
+title: "## **Climate Justice and Class Struggle: Online Screening Event**"
+category: "environmental-justice"
+---
+
 ## **Climate Justice and Class Struggle: Online Screening Event**
 
 | Date: Wed, 05/18/2022 - 00:00 |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Source: https://ecology.iww.org/node/4978|
-| Tags: Industrial Workers of the World (IWW), IWW Environmental Unionism Caucus, IWW WISERA,<br>Ireland, May Day, green syndicalism, green unionism, climate justice |
+| Tags: Industrial Workers of the World (IWW), IWW Environmental Unionism Caucus, IWW WISERA,
+Ireland, May Day, green syndicalism, green unionism, climate justice |
 | By staff - |
 | IWW Ireland |
 | , May 18, 2022 |
@@ -13,7 +19,8 @@
 | on |
 | Tuesday May 24, 2022 @ 1800 hours GMT |
 | Global May Day |
-| is a project for grassroots labour unions and initiatives supporting labour struggles to make<br>our work more visible and support each other across borders. |
+| is a project for grassroots labour unions and initiatives supporting labour struggles to make
+our work more visible and support each other across borders. |
 
 This year we chose to draw attention to the ecological crisis we all face and tilted a series of events around Climate Justice and Class Struggle.
 

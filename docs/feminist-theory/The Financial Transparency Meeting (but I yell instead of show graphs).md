@@ -1,8 +1,14 @@
+---
+title: "## **The Financial Transparency Meeting (but I yell instead of show graphs).**"
+category: "feminist-theory"
+---
+
 ## **The Financial Transparency Meeting (but I yell instead of show graphs).**
 
 | Date: 2025-07-15 |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Source:<br>https://www.threadings.io/the-financial-transparency-meeting-but-i-yell-instead-of-show-graphs/|
+| Source:
+https://www.threadings.io/the-financial-transparency-meeting-but-i-yell-instead-of-show-graphs/|
 | Listen to this essay right here! |
 | The financial transparency meeting but i yell instead of show graphs |
 | 0:00 |
@@ -12,7 +18,9 @@
 | I have not been enraged enough to weep since I started working for free. |
 | JULY 2023 |
 | JULY 2025 |
-| Let it be known that I wrote this little tidbit after I recorded the second video (circulating on<br>Tuesday, July 15 2025) because I already knew it would incur the same sorts of questions. So<br>consider this a Frequently Asked Questions sent out in advance). |
+| Let it be known that I wrote this little tidbit after I recorded the second video (circulating on
+Tuesday, July 15 2025) because I already knew it would incur the same sorts of questions. So
+consider this a Frequently Asked Questions sent out in advance). |
 
 ## Relevant Background Information:
 
@@ -24,19 +32,25 @@ lot of anger.
 
 I continually feel like you all underestimate the risks of system building and, in doing so, ask me to settle for a life that is more "imaginable" than what I have actually set out to do. I have made my orientations, theses, and conclusions clearer below.
 
-| (1) I have set out for revolutionary societies in both of my home places (currently known as the<br>nation-state technologies of The United States of America and Sierra Leone). |
+| (1) I have set out for revolutionary societies in both of my home places (currently known as the
+nation-state technologies of The United States of America and Sierra Leone). |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| A revolutionary society is not defined the absence of oppression. It is the presence of<br>generative collective sovereignty, working within the following definitions: |
+| A revolutionary society is not defined the absence of oppression. It is the presence of
+generative collective sovereignty, working within the following definitions: |
 | Generative: |
 | The ability to produce what we |
 | need |
 | and |
 | want |
-| to live flourishing lives, and to be able to sustain that production at a rate that promotes<br>longevity for all things. |
+| to live flourishing lives, and to be able to sustain that production at a rate that promotes
+longevity for all things. |
 | Collective: |
-| Production and sustenance occurring by the hands, feet, intuition, energy and ingenious of the<br>masses, for the benefit of the masses. Collective production for collective gain. |
+| Production and sustenance occurring by the hands, feet, intuition, energy and ingenious of the
+masses, for the benefit of the masses. Collective production for collective gain. |
 | Sovereignty: |
-| That the masses are independently authoritative over their means of ideation, production, and<br>distribution/implementation over the systems we employ for our collective best. That the<br>masses are responsible for governing ourselves. |
+| That the masses are independently authoritative over their means of ideation, production, and
+distribution/implementation over the systems we employ for our collective best. That the
+masses are responsible for governing ourselves. |
 
 All three pillars must be present for a revolutionary society to take hold and continue (and must include political, cultural, economic, and militaristic power under our own power).
 
@@ -52,13 +66,18 @@ In previous iterations of political thought, I have interpreted the need for mas
 | people for |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | all |
-| time… my mind continues to change on this. What I do know is that collective sovereignty is a<br>paradox I would much rather contend with than the paradox of panicking over the systems we<br>have in place and then running right back to the systems that keep breaking and inciting panic<br>in the first place. |
+| time… my mind continues to change on this. What I do know is that collective sovereignty is a
+paradox I would much rather contend with than the paradox of panicking over the systems we
+have in place and then running right back to the systems that keep breaking and inciting panic
+in the first place. |
 | (2) Friction, conflict, inconvenience are innate to a healthy society. — |
 | Nia |
 | , my mutual |
 | Whenever I reference the risks involved— literally |
 | anytime |
-| I state the risk involved with projects like the ones I currently work towards— therein comes a<br>chorus of people that insist I should do a better job taking "care of myself," which always<br>seems to mean increased individualism. |
+| I state the risk involved with projects like the ones I currently work towards— therein comes a
+chorus of people that insist I should do a better job taking "care of myself," which always
+seems to mean increased individualism. |
 
 I remember the first time I came across this set of logic. I had achieved my first life's dream of attending college for free at a prestigious university. I did not anticipate the mental perils that would come with being surrounded by more food I had ever seen in my entire life while my family at home ate bologna sandwiches from the Food Bank. I explained this to my academic advisor, who noticed I was so depressed I was losing weight. The cognitive dissonance that occurred navigating the wealth of my life at school and the lack thereof at my home life— like, literally having lobster served for lunch in the dining hall and coming home to… cup ramen… ? The people I loved continued to suffer through while I leave to go live in extravagance.
 
@@ -82,18 +101,26 @@ Then... this morning as I was journaling, decidedly not swallowing my anger… d
 
 I don't know that many of you would feel the way I feel if you saw them.
 
-| That's what I tell myself; "Well, you'd feel differently if you saw them." But I don't know that<br>that's true. It's not like I can't pull out a video camera to show you. It's that | |
+| That's what I tell myself; "Well, you'd feel differently if you saw them." But I don't know that
+that's true. It's not like I can't pull out a video camera to show you. It's that | |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
 | I | |
-| am struck in the gut by what starving children in rural Sierra Leone look like because they are<br>under | |
+| am struck in the gut by what starving children in rural Sierra Leone look like because they are
+under | |
 | my | |
-| constituency. I owe something material to them. I know what it feels like to starve— not to the<br>point of the swollen famine belly, but enough to be able to imagine. I could have very easily<br>been born in this circumstance if my parents had not left Sierra Leone when they did, before<br>the war marching inwards reached Freetown. I think, to many of you all, starving children in<br>Africa are just… a feature of this world, rather than a man-made system of oppression. When<br>I see emergency here, you all see philanthropy. No one inside a burning house thinks, | |
+| constituency. I owe something material to them. I know what it feels like to starve— not to the
+point of the swollen famine belly, but enough to be able to imagine. I could have very easily
+been born in this circumstance if my parents had not left Sierra Leone when they did, before
+the war marching inwards reached Freetown. I think, to many of you all, starving children in
+Africa are just… a feature of this world, rather than a man-made system of oppression. When
+I see emergency here, you all see philanthropy. No one inside a burning house thinks, | |
 | wouldn't it be | |
 | nice | |
 | if i could escape this? | |
 | There is nothing | |
 | nice | |
-| about it. There is no room for wondering about escape in an emergency of that sort, no<br>waiting around with an air of convenience— "wouldn't it be nice." When your life or the life of | |
+| about it. There is no room for wondering about escape in an emergency of that sort, no
+waiting around with an air of convenience— "wouldn't it be nice." When your life or the life of | |
 
 someone you love is in danger, you do everything you possibly can to
 
@@ -103,13 +130,20 @@ someone you love is in danger, you do everything you possibly can to
 | and |
 | to |
 | eradicate the fire |
-| so that it does not spread. If you felt the urgency I felt, you would not ask why I stake my<br>personal finances on making sure we can return to farming rice. If you felt the urgency I feel<br>about entire villages of completely illiterate yet multi-lingual people— four or five languages<br>and they can't read in ONE of them!— you would not question my sanity for using every cent I<br>have building libraries. |
+| so that it does not spread. If you felt the urgency I felt, you would not ask why I stake my
+personal finances on making sure we can return to farming rice. If you felt the urgency I feel
+about entire villages of completely illiterate yet multi-lingual people— four or five languages
+and they can't read in ONE of them!— you would not question my sanity for using every cent I
+have building libraries. |
 | But the vast majority of you |
 | don't |
 | feel that it's urgent! So instead of saying to me, |
 | ismatu, how can I help? |
-| what happens is, I stake my monies and people either applaud "philanthropy," call me<br>"inspiring" or chide me about "boundaries." |
-| We will come back to this point but like:<br>food-water-clothing-shelter-education-sanitation-medical care-and-time… those are big 8, in<br>terms of things you need sovereignty over to live a dignified life. |
+| what happens is, I stake my monies and people either applaud "philanthropy," call me
+"inspiring" or chide me about "boundaries." |
+| We will come back to this point but like:
+food-water-clothing-shelter-education-sanitation-medical care-and-time… those are big 8, in
+terms of things you need sovereignty over to live a dignified life. |
 
 Under the systems of capitalism, all of these things are privileges.
 
@@ -165,7 +199,8 @@ TO STARVE!
 | I am not talking about risk for the |
 | sake |
 | of risk, or risk because I don't like my life. |
-| I love my life. I love being alive!! I am talking about risk that gleans significant reward. That's<br>why |
+| I love my life. I love being alive!! I am talking about risk that gleans significant reward. That's
+why |
 | I'm |
 | taking |
 | risks, |
@@ -204,7 +239,11 @@ The risk is necessary in these beginning stages for the construction of a new, b
 | so |
 | sick |
 | of this. |
-| Then, with the library: such is the nature of production and seeking to spread sovereignty. I<br>got there (to my village for my homecoming— we stopped in a couple villages actually) and<br>looked around, I thought: oh, part of the reason I have a lot of power is because I'm one of the<br>only adults here that can read. How much more could we do for collective sovereignty if<br>EVERYBODY knew how to read and use computers? |
+| Then, with the library: such is the nature of production and seeking to spread sovereignty. I
+got there (to my village for my homecoming— we stopped in a couple villages actually) and
+looked around, I thought: oh, part of the reason I have a lot of power is because I'm one of the
+only adults here that can read. How much more could we do for collective sovereignty if
+EVERYBODY knew how to read and use computers? |
 | And thus! A library was born! |
 | Like. |
 | Do we see how this works? |
@@ -226,13 +265,22 @@ Why do we always assume risk means you don't win? I wouldn't take these risks if
 
 Further: there is no reward here that does not invariably incur more risk.
 
-| That's what happens when you build powerful structure. It is not just power to the people–<br>power comes F |
+| That's what happens when you build powerful structure. It is not just power to the people–
+power comes F |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ROM the |
 | people |
 | |
-| Systems of all sorts (food systems, healthcare systems, belief systems) are made more<br>powerful the more people use them, buy into them, be among them. If I make systems that<br>are powerful enough to incur mass participation, I will incur the risk that comes with being<br>powerful: namely, powerful enemies. |
-| Housing is not just at risk if I personally run out of money. Housing is also at risk when you<br>become too powerful; the United States will simply bomb you. That's why the MOVE bombing<br>happened— in LIVING MEMORY. The Philadelphia MOVE Bombing happened in 1985,<br>where members of the Philadelphia Police Department had an armed standoff with members<br>of Black Revolutionary organization MOVE. As means to kill them, the police dropped C-4<br>bombs on a |
+| Systems of all sorts (food systems, healthcare systems, belief systems) are made more
+powerful the more people use them, buy into them, be among them. If I make systems that
+are powerful enough to incur mass participation, I will incur the risk that comes with being
+powerful: namely, powerful enemies. |
+| Housing is not just at risk if I personally run out of money. Housing is also at risk when you
+become too powerful; the United States will simply bomb you. That's why the MOVE bombing
+happened— in LIVING MEMORY. The Philadelphia MOVE Bombing happened in 1985,
+where members of the Philadelphia Police Department had an armed standoff with members
+of Black Revolutionary organization MOVE. As means to kill them, the police dropped C-4
+bombs on a |
 | residential area |
 | and left around 250 people homeless. 11 people were killed— all members of MOVE. |
 | The fireman present had orders to let the fire burn |

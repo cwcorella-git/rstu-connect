@@ -1,3 +1,8 @@
+---
+title: "## **A letter to the libertarian left**"
+category: "contemporary-analysis"
+---
+
 ## **A letter to the libertarian left**
 
 ## **Date:** Unknown

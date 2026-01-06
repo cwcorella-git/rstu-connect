@@ -1,13 +1,10 @@
 ---
-date: 2025
-author: Google Docs
-tags:
-  - organizing
-  - tenants
-  - housing
-  - rent
 title: "Tenants Rights In Nevada - Google Docs"
+author: "Google Docs"
+date: "2025"
+category: "housing"
 ---
+
 # Tenants Rights In Nevada - Google Docs
 
 *Converted from: `./Tenants Rights In Nevada - Google Docs.pdf`*  
@@ -44,8 +41,6 @@ Links
   4. Clark County .gov
   5. RGJ Article (2019) (FAQ format)
   6. Evolve NV
-
-
 
 
 Habitability/Livable Conditions
@@ -98,8 +93,6 @@ Fees
  ● Withholding rent
 
 
-
-
 Privacy & Safety
  ● Your lease cannot waive rights given to you by law.
 
@@ -112,4 +105,3 @@ Privacy & Safety
    before entering the rental property.
 
 ---
-

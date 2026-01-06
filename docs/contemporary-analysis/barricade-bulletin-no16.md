@@ -1,3 +1,8 @@
+---
+title: "BLOODY SUNDAY: MARCH FOR JUSTICE"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 ## **DEC/JAN/FEB 2022**

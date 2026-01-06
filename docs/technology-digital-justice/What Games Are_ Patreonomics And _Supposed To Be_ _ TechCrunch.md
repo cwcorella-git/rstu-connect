@@ -1,3 +1,8 @@
+---
+title: "**What Games Are: Patreonomics And "Supposed To Be" | Tech Crunch**"
+category: "technology-digital-justice"
+---
+
 #### [web.archive.org](https://web.archive.org/web/20250226224539/https://techcrunch.com/2014/03/09/patreonomics/)
 
 # **What Games Are: Patreonomics And "Supposed To Be" | Tech Crunch**

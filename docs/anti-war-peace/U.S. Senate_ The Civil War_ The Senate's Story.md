@@ -1,3 +1,8 @@
+---
+title: "[senate.gov](https://www.senate.gov/artandhistory/history/common/civil_war/Victory Tragedy Reconstru"
+category: "anti-war-peace"
+---
+
 [senate.gov](https://www.senate.gov/artandhistory/history/common/civil_war/Victory Tragedy Reconstruction.htm)
 
 ## **U. S. Senate: The Civil War: The Senate's Story**

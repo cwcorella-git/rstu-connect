@@ -1,3 +1,8 @@
+---
+title: "**James A. Garfield**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/James_A._Garfield)
 
 # **James A. Garfield**
@@ -29,25 +34,38 @@
 | Member of the U. S. House of Representatives | | | | | |
 | from Ohio's 19th district | | | | | |
 | In office | | | | | |
-| March 4, 1863<br>– November 8, 1880 | | | | | |
-| Preceded by<br>Albert G. Riddle | | | | | |
+| March 4, 1863
+– November 8, 1880 | | | | | |
+| Preceded by
+Albert G. Riddle | | | | | |
 | Succeeded by | Ezra B. Taylor | | | | |
 | Member of the Ohio Senate | | | | | |
 | from the 26th district | | | | | |
-| In office<br>January 2, 1860<br>– August 21, 1861 | | | | | |
-| Preceded by<br>George P. Ashmun | | | | | |
+| In office
+January 2, 1860
+– August 21, 1861 | | | | | |
+| Preceded by
+George P. Ashmun | | | | | |
 | Succeeded by | Lucius V. Bierce | | | | |
 | Personal details | | | | | |
-| Born | James Abram Garfield<br>November 19, 1831<br>Moreland Hills, Ohio, U. S. | | | | |
-| Died | September 19, 1881 (aged<br>49)<br>Elberon, New Jersey, U. S. | | | | |
-| Manner<br>of<br>death | Massive infection including sepsis and<br>pneumonia, after being shot | | | | |
+| Born | James Abram Garfield
+November 19, 1831
+Moreland Hills, Ohio, U. S. | | | | |
+| Died | September 19, 1881 (aged
+49)
+Elberon, New Jersey, U. S. | | | | |
+| Manner
+of
+death | Massive infection including sepsis and
+pneumonia, after being shot | | | | |
 | Resting place | James A. Garfield Memorial | | | | |
 ## | Political party | Republican | | | | |
 
 | Spouse | Lucretia Rudolph | |
 |---------------------|-------------------------------------------|--|
 | | | |
-| | (m.<br>) | |
+| | (m.
+) | |
 | Children | 7, including Hal, James, and Abram | |
 | Education | • Hiram College | |
 | | • Williams College (BA) | |
@@ -59,7 +77,8 @@
 | Allegiance | United States | |
 | Branch/service | Union Army | |
 | | | |
-| Years<br>of service | 1861–1863 | |
+| Years
+of service | 1861–1863 | |
 | Rank | Major general | |
 | Commands | • 42nd Ohio Volunteer Infantry | |
 | | • 20th Brigade, 6th Division, Army of the | |
@@ -305,7 +324,8 @@ Even with a Stalwart on the ticket, animosity between the Republican factions ca
 
 | Presidency of James A. Garfield | | | | |
 |---------------------------------------|--|--|--|--|
-| March 4, 1881<br>– September 19, 1881 | | | | |
+| March 4, 1881
+– September 19, 1881 | | | | |
 | Chester A. Arthur | | | | |
 | See list | | | | |
 | Republican | | | | |

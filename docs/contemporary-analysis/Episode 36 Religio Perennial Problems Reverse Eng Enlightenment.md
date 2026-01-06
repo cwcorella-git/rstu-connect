@@ -1,3 +1,8 @@
+---
+title: "**Episode 36: Religio Perennial Problems Reverse Eng Enlightenment/**"
+category: "contemporary-analysis"
+---
+
 # **Episode 36: Religio Perennial Problems Reverse Eng Enlightenment/**
 
 **Source:** https://www.meaningcrisis.co/ep-36-awakening-from-the-meaning-crisis-religio-perennial-problems-reverse-eng-enlightenment/

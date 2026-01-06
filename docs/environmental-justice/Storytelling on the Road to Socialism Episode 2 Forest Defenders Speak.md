@@ -1,3 +1,8 @@
+---
+title: "## **Storytelling on the Road to Socialism: Episode 2: Forest Defenders Speak**"
+category: "environmental-justice"
+---
+
 ## **Storytelling on the Road to Socialism: Episode 2: Forest Defenders Speak**
 
 | Date: Tue, 04/04/2023 - 00:00 |
@@ -7,10 +12,13 @@
 | By Candace Wolf - |
 | Storytelling on the Road to Socialism |
 | , April 4, 2023 |
-| On this episode, people living in the Ecuadorian Amazon tell the story of their struggle to keep<br>petroleum companies from destroying their homes and the very existence of their societies<br>and culture |
+| On this episode, people living in the Ecuadorian Amazon tell the story of their struggle to keep
+petroleum companies from destroying their homes and the very existence of their societies
+and culture |
 | Music: |
 | The Internationale - Workers Party of Jamaica In-House Raggae Group |
-| Socialism is Better - Words & music by Bruce Wolf; performed by Bruce Wolf, Noah Wolf,<br>Gaby Gignoux-Wolfsohn |
+| Socialism is Better - Words & music by Bruce Wolf; performed by Bruce Wolf, Noah Wolf,
+Gaby Gignoux-Wolfsohn |
 | Amazon Rain Forest Sounds |
 ## | Disclaimer: |
 

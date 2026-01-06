@@ -1,16 +1,10 @@
 ---
-title: The Place Of Anarchism In Socialistic Evol Peter Kropotkin
-author: Peter Kropotkin
-slug: The Place of Anarchism in Socialistic Evol - Peter Kropotkin
-reconversion_status: ready_for_reconversion
-date: 1848
-tags:
-  - theory
-  - anarchism
-  - unions
-  - rent
-  - prisons
+title: "The Place Of Anarchism In Socialistic Evol Peter Kropotkin"
+author: "Peter Kropotkin"
+date: "1848"
+category: "theory"
 ---
+
 # PETER KROPOTKIN
 
 PLACE
@@ -32,7 +26,7 @@ SOCIALISTIC
 
 AN APPEAL TO THE YOUNG By Pierre Kropotkin PRICE - - - 2d.
 
-WILLIAM REEVES <sup>83</sup> C C R, B L. —L, W. C.2.—
+WILLIAM REEVES 83 C C R, B L. —L, W. C.2.—
 
 ## THE PLACE OF ANARCHISM IN SOCIALISTIC EVOLUTION
 

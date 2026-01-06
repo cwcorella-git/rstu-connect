@@ -1,15 +1,8 @@
 ---
-title: >-
-  Interview Iranian Anarchists On Protests in Response To Police Murder of Mahsa
-  a
-date: 2025
-author: Black Rose
-tags:
-  - organizing
-  - strikes
-  - rent
-  - police
-  - anarchism
+title: ">-"
+author: "Black Rose"
+date: "2025"
+category: "abolition"
 ---
 
 # Interview Iranian Anarchists On Protests in Response To Police Murder of Mahsa a

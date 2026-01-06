@@ -1,3 +1,8 @@
+---
+title: "## **Music education makes for a poor commodity**"
+category: "arts-culture-music"
+---
+
 ## **Music education makes for a poor commodity**
 
 ## **Date:** Unknown

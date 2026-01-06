@@ -1,13 +1,10 @@
 ---
-date: 2025
-author: Housing Advocacy Organization
-tags:
-  - organizing
-  - tenants
-  - housing
-  - rent
 title: "How We Used Open Data to Identify Investor-Owned Single-Family Rental Properties _ by Data@Urban _ Medium"
+author: "Housing Advocacy Organization"
+date: "2025"
+category: "housing"
 ---
+
 # How We Used Open Data to Identify Investor-Owned Single-Family Rental Properties _ by Data@Urban _ Medium
 
 *Converted from: `./How We Used Open Data to Identify Investor-Owned Single-Family Rental Properties _ by Data@Urban _ Medium.pdf`*  
@@ -50,7 +47,6 @@ title: "How We Used Open Data to Identify Investor-Owned Single-Family Rental Pr
 How We Used Open Data to Identify Investor-Owned Si...                https://urban-institute.medium.com/how-we-used-open-...
 
 
-
           Open in app                                                                              Sign up   Sign in
 
 
@@ -61,10 +57,7 @@ How We Used Open Data to Identify Investor-Owned Si...                https://ur
                                                   Register for Medium Day
 
 
-
-
                                         Illustration by Cheri Marshall for the Urban Institute
-
 
 
           How We Used Open Data to Identify Investor-
@@ -76,9 +69,7 @@ How We Used Open Data to Identify Investor-Owned Si...                https://ur
                  Data@Urban          Follow
 
 
-
                  Listen              Share
-
 
 
           In North Minneapolis, renters living in single-family homes owned by real estate
@@ -88,7 +79,6 @@ How We Used Open Data to Identify Investor-Owned Si...                https://ur
           end of state and city eviction moratoriums passed during the COVID-19 pandemic.
           These tenants are not alone. Having an investor or corporation as a landlord has
           become increasingly common, with nearly 40 percent of all rental units nationwide
-
 
 
 1 of 19                                                                                                      9/8/25, 12:23 PM
@@ -104,7 +94,6 @@ How We Used Open Data to Identify Investor-Owned Si...                https://ur
 
 
 How We Used Open Data to Identify Investor-Owned Si...   https://urban-institute.medium.com/how-we-used-open-...
-
 
 
           owned by anonymous shell entities.
@@ -144,7 +133,6 @@ How We Used Open Data to Identify Investor-Owned Si...   https://urban-institute
           landlords.
 
 
-
 2 of 19                                                                                        9/8/25, 12:23 PM
 
 ---
@@ -158,8 +146,6 @@ How We Used Open Data to Identify Investor-Owned Si...   https://urban-institute
 
 
 How We Used Open Data to Identify Investor-Owned Si...   https://urban-institute.medium.com/how-we-used-open-...
-
-
 
 
           Lessons learned from attempting to disentangle the web of corporate
@@ -185,8 +171,6 @@ How We Used Open Data to Identify Investor-Owned Si...   https://urban-institute
           identify and categorize investor-owners of single-family homes.
 
 
-
-
 3 of 19                                                                                        9/8/25, 12:23 PM
 
 ---
@@ -202,8 +186,6 @@ How We Used Open Data to Identify Investor-Owned Si...   https://urban-institute
 How We Used Open Data to Identify Investor-Owned Si...   https://urban-institute.medium.com/how-we-used-open-...
 
 
-
-
           CURA and our partners were also interested in understanding where these landlords
           were located in relation to their property holdings. Their researchers had heard
           anecdotally that corporate landlord absenteeism made repair requests and positive
@@ -211,7 +193,6 @@ How We Used Open Data to Identify Investor-Owned Si...   https://urban-institute
           Urban’s geocoder to get an approximate location for each parcel owner and to create
           a clean and unified owner address field. Property tax records often have data entry
           errors, such as misspellings, and the many departments involved in the data
-
 
 
 4 of 19                                                                                        9/8/25, 12:23 PM
@@ -227,7 +208,6 @@ How We Used Open Data to Identify Investor-Owned Si...   https://urban-institute
 
 
 How We Used Open Data to Identify Investor-Owned Si...   https://urban-institute.medium.com/how-we-used-open-...
-
 
 
           collection might not be compatible or consistent. Geocoding our taxpayer data thus
@@ -282,7 +262,6 @@ How We Used Open Data to Identify Investor-Owned Si...   https://urban-institute
 How We Used Open Data to Identify Investor-Owned Si...         https://urban-institute.medium.com/how-we-used-open-...
 
 
-
           dataset in Minneapolis and rental registration data in St. Paul and by comparing our
           estimates with those produced by the US Census Bureau.
 
@@ -295,8 +274,6 @@ How We Used Open Data to Identify Investor-Owned Si...         https://urban-ins
 
 
                                                        Subscribe
-
-
 
 
           2. Use clustering and fuzzy matching to make manual cleaning less painful
@@ -350,17 +327,12 @@ How We Used Open Data to Identify Investor-Owned Si...         https://urban-ins
 How We Used Open Data to Identify Investor-Owned Si...   https://urban-institute.medium.com/how-we-used-open-...
 
 
-
           scores, in in the table below. Our team would have used matches with JW scores less
           than 0.216667, highlighted in red below, for our conservative cutoff, even though
           other owners and taxpayers were likely the same.
 
 
-
-
           A part of the R code we used to fuzzy-match is below.
-
-
 
 
 7 of 19                                                                                        9/8/25, 12:23 PM
@@ -378,8 +350,6 @@ How We Used Open Data to Identify Investor-Owned Si...   https://urban-institute
 How We Used Open Data to Identify Investor-Owned Si...   https://urban-institute.medium.com/how-we-used-open-...
 
 
-
-
           Then, we used a basic unsupervised cluster method to further decrease the number
           of names within our new “clean_name” variable. We started by creating a distance
           matrix using the Jaro-Winkler edit distance metric. Then, we used an unsupervised
@@ -387,7 +357,6 @@ How We Used Open Data to Identify Investor-Owned Si...   https://urban-institute
           treating each clean name as its own individual cluster and gradually combined
           increasingly similar names into larger clusters until it reached our predefined
           number of clusters. We shifted our cluster count (K in the code below) until we saw
-
 
 
 8 of 19                                                                                        9/8/25, 12:23 PM
@@ -405,10 +374,7 @@ How We Used Open Data to Identify Investor-Owned Si...   https://urban-institute
 How We Used Open Data to Identify Investor-Owned Si...   https://urban-institute.medium.com/how-we-used-open-...
 
 
-
           that the names within each cluster were likely to be a single owner.
-
-
 
 
           The R script example below was done using a base data table of landlord names for
@@ -433,7 +399,6 @@ How We Used Open Data to Identify Investor-Owned Si...   https://urban-institute
 
 
 How We Used Open Data to Identify Investor-Owned Si...   https://urban-institute.medium.com/how-we-used-open-...
-
 
 
            owner’s portfolio. This was important because we created a cutoff for “corporate
@@ -498,7 +463,6 @@ How We Used Open Data to Identify Investor-Owned Si...   https://urban-institute
 How We Used Open Data to Identify Investor-Owned Si...     https://urban-institute.medium.com/how-we-used-open-...
 
 
-
            responsible for any consequences resulting from your use of the GIS Data or your
            reliance on the GIS Data. You should consult the data documentation for this
            particular GIS Data to determine the limitations of the GIS Data and the precision
@@ -531,8 +495,6 @@ How We Used Open Data to Identify Investor-Owned Si...     https://urban-institu
              Open Data      Landlords    Rental Property    Minneapolis      Real Estate
 
 
-
-
 11 of 19                                                                                         9/8/25, 12:23 PM
 
 ---
@@ -561,9 +523,7 @@ How We Used Open Data to Identify Investor-Owned Si...     https://urban-institu
 How We Used Open Data to Identify Investor-Owned Si...              https://urban-institute.medium.com/how-we-used-open-...
 
 
-
                                                                                                              Follow
-
 
 
            Written by Data@Urban
@@ -571,8 +531,6 @@ How We Used Open Data to Identify Investor-Owned Si...              https://urba
 
            Data@Urban is a place to explore the code, data, products, and processes that bring Urban Institute
            research to life.
-
-
 
 
            No responses yet
@@ -583,11 +541,7 @@ How We Used Open Data to Identify Investor-Owned Si...              https://urba
             What are your thoughts?
 
 
-
-
            More from Data@Urban
-
-
 
 
 12 of 19                                                                                                         9/8/25, 12:23 PM
@@ -624,8 +578,6 @@ How We Used Open Data to Identify Investor-Owned Si...              https://urba
 How We Used Open Data to Identify Investor-Owned Si...         https://urban-institute.medium.com/how-we-used-open-...
 
 
-
-
                Data@Urban
 
 
@@ -634,8 +586,6 @@ How We Used Open Data to Identify Investor-Owned Si...         https://urban-ins
            data. OCR uses machine learning to…
 
            Mar 25, 2022     19
-
-
 
 
 13 of 19                                                                                               9/8/25, 12:23 PM
@@ -683,8 +633,6 @@ How We Used Open Data to Identify Investor-Owned Si...          https://urban-in
            May 23, 2024     8
 
 
-
-
                Data@Urban
 
 
@@ -693,8 +641,6 @@ How We Used Open Data to Identify Investor-Owned Si...          https://urban-in
            users to upload point spatial data — such as…
 
            Feb 25     61
-
-
 
 
 14 of 19                                                                                                 9/8/25, 12:23 PM
@@ -725,8 +671,6 @@ How We Used Open Data to Identify Investor-Owned Si...          https://urban-in
 How We Used Open Data to Identify Investor-Owned Si...       https://urban-institute.medium.com/how-we-used-open-...
 
 
-
-
                Data@Urban
 
 
@@ -737,16 +681,10 @@ How We Used Open Data to Identify Investor-Owned Si...       https://urban-insti
            Sep 18, 2018     1.6K   8
 
 
-
-
                                                See all from Data@Urban
 
 
-
-
            Recommended from Medium
-
-
 
 
 15 of 19                                                                                             9/8/25, 12:23 PM
@@ -780,8 +718,6 @@ How We Used Open Data to Identify Investor-Owned Si...       https://urban-insti
 How We Used Open Data to Identify Investor-Owned Si...      https://urban-institute.medium.com/how-we-used-open-...
 
 
-
-
                In Runner's Life by Stephen Hands
 
 
@@ -789,8 +725,6 @@ How We Used Open Data to Identify Investor-Owned Si...      https://urban-instit
            The simple habit that can prevent injury and make you a better runner
 
            4d ago     16      1
-
-
 
 
 16 of 19                                                                                          9/8/25, 12:23 PM
@@ -831,8 +765,6 @@ How We Used Open Data to Identify Investor-Owned Si...                        ht
                2d ago        1
 
 
-
-
                In Artificial Intelligence in Plain English by Vipul Thukral
 
 
@@ -840,8 +772,6 @@ How We Used Open Data to Identify Investor-Owned Si...                        ht
            Introduction
 
                Jun 22        253
-
-
 
 
 17 of 19                                                                                                            9/8/25, 12:23 PM
@@ -872,8 +802,6 @@ How We Used Open Data to Identify Investor-Owned Si...                        ht
 How We Used Open Data to Identify Investor-Owned Si...   https://urban-institute.medium.com/how-we-used-open-...
 
 
-
-
               Tracy Cranford
 
 
@@ -881,8 +809,6 @@ How We Used Open Data to Identify Investor-Owned Si...   https://urban-institute
            When little girls grow up and move away
 
                Aug 15     1.1K   18
-
-
 
 
 18 of 19                                                                                       9/8/25, 12:23 PM
@@ -924,8 +850,6 @@ How We Used Open Data to Identify Investor-Owned Si...              https://urba
                5d ago       384       2
 
 
-
-
                In Grief Book Club by Dana Lyn
 
 
@@ -935,14 +859,9 @@ How We Used Open Data to Identify Investor-Owned Si...              https://urba
                6d ago       54
 
 
-
-
                                                    See more recommendations
-
-
 
 
 19 of 19                                                                                                  9/8/25, 12:23 PM
 
 ---
-

@@ -1,12 +1,17 @@
+---
+title: "Artificial womb - Wikipedia"
+category: "arts-culture-music"
+---
+
 # Artificial womb - Wikipedia
 
 ## ![](_page_0_Picture_4.jpeg)
 
-Figure from a 2017 *Nature Communications* paper describing an extra-uterine life support system, or "biobag", used to grow lamb fetuses.<sup>[1]</sup>
+Figure from a 2017 *Nature Communications* paper describing an extra-uterine life support system, or "biobag", used to grow lamb fetuses.[1]
 
-An **artificial uterus** (or **artificial womb**) is a device that would allow for extracorporeal pregnancy<sup>[2]</sup> by growing a <u>fetus</u> outside the body of an organism that would normally carry the fetus to term.
+An **artificial uterus** (or **artificial womb**) is a device that would allow for extracorporeal pregnancy[2] by growing a fetus outside the body of an organism that would normally carry the fetus to term.
 
-An artificial <u>uterus</u>, as a replacement organ, would have many applications. It could be used to assist male or female couples in the development of a fetus. This can potentially be performed as a switch from a natural uterus to an articial uterus, thereby moving the threshold of [fetal viability](https://en.wikipedia.org/wiki/Fetal_viability) to a much earlier stage of pregnancy. In this sense, it can be regarded as a [neonatal incubator](https://en.wikipedia.org/wiki/Neonatal_incubator) with very extended functions. It could also be used for the initiation of fetal development. An articial uterus could also help make [fetal surgery](https://en.wikipedia.org/wiki/Fetal_surgery) procedures at an early stage an option instead of having to postpone them until term of pregnancy. [\[2\]](https://en.wikipedia.org/wiki/Artificial_womb#cite_note-Bulletti2011-2) [\[2\]](https://en.wikipedia.org/wiki/Artificial_womb#cite_note-Bulletti2011-2)
+An artificial uterus, as a replacement organ, would have many applications. It could be used to assist male or female couples in the development of a fetus. This can potentially be performed as a switch from a natural uterus to an articial uterus, thereby moving the threshold of [fetal viability](https://en.wikipedia.org/wiki/Fetal_viability) to a much earlier stage of pregnancy. In this sense, it can be regarded as a [neonatal incubator](https://en.wikipedia.org/wiki/Neonatal_incubator) with very extended functions. It could also be used for the initiation of fetal development. An articial uterus could also help make [fetal surgery](https://en.wikipedia.org/wiki/Fetal_surgery) procedures at an early stage an option instead of having to postpone them until term of pregnancy. [\[2\]](https://en.wikipedia.org/wiki/Artificial_womb#cite_note-Bulletti2011-2) [\[2\]](https://en.wikipedia.org/wiki/Artificial_womb#cite_note-Bulletti2011-2)
 
 In 2016 scientists published two studies regarding human embryos developing for thirteen days within an ecto-uterine environment. Currently, a 14-day rule prevents human embryos from being kept in articial wombs longer than 14 days. This rule has been codied into law in twelve countries. [\[3\]](https://en.wikipedia.org/wiki/Artificial_womb#cite_note-3)[\[4\]](https://en.wikipedia.org/wiki/Artificial_womb#cite_note-4)
 

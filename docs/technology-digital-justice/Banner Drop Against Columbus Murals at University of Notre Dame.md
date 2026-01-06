@@ -1,17 +1,28 @@
+---
+title: "## **Banner Drop Against Columbus Murals at University of Notre Dame**"
+category: "technology-digital-justice"
+---
+
 ## **Banner Drop Against Columbus Murals at University of Notre Dame**
 
 | Date: Mon, 12/11/2017 - 18:40 |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Source: https://ecology.iww.org/node/2680|
-| Tags: Rising Tide Michiana, direct action, Industrial Workers of the World (IWW), IWW General<br>Defense Committee (GDC), GDC Local 26, green syndicalism, capitalism, colonialism, and fascism,<br>indigenous |
+| Tags: Rising Tide Michiana, direct action, Industrial Workers of the World (IWW), IWW General
+Defense Committee (GDC), GDC Local 26, green syndicalism, capitalism, colonialism, and fascism,
+indigenous |
 | By the collective - |
 | Rising Tide Michiana |
 | , December 8, 2017 |
-| "South Bend, Indiana"—Studying for their final exams, University of Notre Dame students in<br>the library on Friday morning looked up and saw a banner unfurled from the second-floor<br>balcony. The banner proclaimed, |
+| "South Bend, Indiana"—Studying for their final exams, University of Notre Dame students in
+the library on Friday morning looked up and saw a banner unfurled from the second-floor
+balcony. The banner proclaimed, |
 | This is Potawatomi land! F*ck the KKKolumbus murals! |
-| The message comes as students have been organizing against murals displayed by the<br>entrance of the university's main administrative building. According to a |
+| The message comes as students have been organizing against murals displayed by the
+entrance of the university's main administrative building. According to a |
 | pamphlet |
-| issued by Notre Dame, the nineteenth-century murals "create a heroic impression" of<br>Christopher Columbus, despite the conqueror's |
+| issued by Notre Dame, the nineteenth-century murals "create a heroic impression" of
+Christopher Columbus, despite the conqueror's |
 | record |
 
 of mass enslavement and murder. Moreover the paintings portray indigenous people in ways that Native American students say are stereotypical and insulting.

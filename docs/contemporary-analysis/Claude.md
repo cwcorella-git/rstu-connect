@@ -1,3 +1,8 @@
+---
+title: "Claude"
+category: "contemporary-analysis"
+---
+
 #### [claude.ai](https://claude.ai/chat/5a754f6d-3a52-4ad7-82c3-b04713d6e84c)
 
 # Claude
@@ -128,7 +133,7 @@ This driver is still in active development. Use at your own risk! If you are run
 - [x] Xbox One Chatpad
 - [x] Xbox Adaptive Controller
 - [x] Mad Catz Rock Band 4 Wireless Stratocaster
- - �� Standalone wireless headsets are currently not supported!
+ -  Standalone wireless headsets are currently not supported!
 
 ## Releases
 

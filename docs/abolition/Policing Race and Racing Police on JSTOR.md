@@ -1,15 +1,10 @@
 ---
-title: Policing Race And Racing Police On Jstor
-slug: Policing Race and Racing Police on JSTOR
-reconversion_status: ready_for_reconversion
-date: 2020
-author: Unknown
-tags:
-  - abolition
-  - police
-  - rent
-  - organizing
+title: "Policing Race And Racing Police On Jstor"
+author: "Unknown"
+date: "2020"
+category: "abolition"
 ---
+
 #### [jstor.org](https://www.jstor.org/stable/27094596)
 
 # **Policing Race and Racing Police on JSTOR**

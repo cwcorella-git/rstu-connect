@@ -1,3 +1,8 @@
+---
+title: "**Muslim conquests**"
+category: "anti-war-peace"
+---
+
 [military-history.fandom.com](https://military-history.fandom.com/wiki/Muslim_conquests)
 
 # **Muslim conquests**

@@ -1,3 +1,8 @@
+---
+title: "## **MEMORIAL AND REMONSTRANCE AGAINST RELIGIOUS ASSESSMENTS, BY JAMES MADISON, 1785**"
+category: "contemporary-analysis"
+---
+
 ## **MEMORIAL AND REMONSTRANCE AGAINST RELIGIOUS ASSESSMENTS, BY JAMES MADISON, 1785**
 
 To the Honorable the General Assembly of the Commonwealth of Virginia

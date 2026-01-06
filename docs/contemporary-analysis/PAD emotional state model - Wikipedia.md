@@ -1,3 +1,8 @@
+---
+title: "**PAD emotional state model**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/PAD_emotional_state_model)
 
 # **PAD emotional state model**

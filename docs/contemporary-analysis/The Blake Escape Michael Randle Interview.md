@@ -1,3 +1,8 @@
+---
+title: "## **The Blake Escape: Michael Randle Interview**"
+category: "contemporary-analysis"
+---
+
 ## **The Blake Escape: Michael Randle Interview**
 
 ## **Date:** Unknown

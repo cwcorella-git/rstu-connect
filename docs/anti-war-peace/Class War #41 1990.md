@@ -1,3 +1,8 @@
+---
+title: "## **Class War #41 1990**"
+category: "anti-war-peace"
+---
+
 ## **Class War #41 1990**
 
 ## **Date:** Unknown

@@ -1,3 +1,8 @@
+---
+title: "## **COP26 Corporate Sponsors: A Barrier To A Just Transition**"
+category: "feminist-theory"
+---
+
 ## **COP26 Corporate Sponsors: A Barrier To A Just Transition**
 
 ## **Date:** Fri, 02/18/2022 - 00:00
@@ -99,4 +104,5 @@ We need to make massive changes in every area of life, and we need to use a wide
 | and get organised! |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Disclaimer: |
-| The views expressed here are not the official position of the IWW (or even the IWW's EUC)<br>and do not necessarily represent the views of anyone but the author. |
+| The views expressed here are not the official position of the IWW (or even the IWW's EUC)
+and do not necessarily represent the views of anyone but the author. |

@@ -1,3 +1,8 @@
+---
+title: "Critical Thoughts on Consensus Decision Making"
+category: "contemporary-analysis"
+---
+
 ## James Herod
 
 # Critical Thoughts on Consensus Decision Making
@@ -107,37 +112,37 @@ Excerpted from an Email on March 24, 2008, "Kick-Off Letter for Meeting Procedur
 
 ## Resources for meeting and group process
 
-[<http://www.ic.org/nica/Process/meeting.html>](http://www.ic.org/nica/Process/meeting.html)
+[](http://www.ic.org/nica/Process/meeting.html)
 
 This site has lots of links to other materials.
 
 Is Everybody Happy? (pros and cons of consensus decision making)
 
-[<http://www.fraw.org.uk/gs/handbook/condecis.htm>](http://www.fraw.org.uk/gs/handbook/condecis.htm)
+[](http://www.fraw.org.uk/gs/handbook/condecis.htm)
 
 ## Rob Sandelin. Running Effective Meetings
 
-[<http://www.ic.org/nica/Process/Effmeet.html>](http://www.ic.org/nica/Process/Effmeet.html)
+[](http://www.ic.org/nica/Process/Effmeet.html)
 
 Consensus is not unanimity: making decisions cooperatively
 
-[<http://www.rantcollective.net/article.php?id=9>](http://www.rantcollective.net/article.php?id=9)
+[](http://www.rantcollective.net/article.php?id=9)
 
 ## Myths about Consensus Decision-Making
 
-[<http://archives.lists.indymedia.org/imc-process/2001-February/000463.html>](http://archives.lists.indymedia.org/imc-process/2001-February/000463.html)
+[](http://archives.lists.indymedia.org/imc-process/2001-February/000463.html)
 
 ## Murray Bookchin and Janet Biehl on Consensus
 
-[<http://www.geocities.com/collectivebook/bookchin.html>](http://www.geocities.com/collectivebook/bookchin.html)
+[](http://www.geocities.com/collectivebook/bookchin.html)
 
-[<http://www.geocities.com/collectivebook/janetbiehl.html>](http://www.geocities.com/collectivebook/janetbiehl.html)
+[](http://www.geocities.com/collectivebook/janetbiehl.html)
 
 ## Manuals and Books I have on hand
 
 Peter Gelderloos, Consensus: A New Handbook for Grassroots Social, Political, and Environmental Groups. See Sharp Press, 2006, 126 pages.
 
-C. T. Lawrence Butler and Amy Rothstein, On Conflict and Consensus. A Handbook on Formal Consensus Decision Making. Food Not Bombs Publishing, 1987, 63 pages. I think Butler has continued to work on this, perhaps Rothstein too. They may have published other things, although nothing turned up on Barnes & Noble, Amazon, or Abebooks. Abram Karl-Gruzwitz mentioned Butler in earlier Ne(A)Net email discussions. I can photocopy this manual. It's short. Oh. I see here in my folder a huge print-out. Butler has a web site, at [<http://www.consensus.net/](http://www.consensus.net/ocaccontents.html) [ocaccontents.html>](http://www.consensus.net/ocaccontents.html). The site has the pamphlet, other materials, information about workshops, and so forth. Strong on nonviolence. [Note: jh -- March 2017: In 2009 Butler published Consensus for Cities, 176 pages. It is available from the author.]
+C. T. Lawrence Butler and Amy Rothstein, On Conflict and Consensus. A Handbook on Formal Consensus Decision Making. Food Not Bombs Publishing, 1987, 63 pages. I think Butler has continued to work on this, perhaps Rothstein too. They may have published other things, although nothing turned up on Barnes & Noble, Amazon, or Abebooks. Abram Karl-Gruzwitz mentioned Butler in earlier Ne(A)Net email discussions. I can photocopy this manual. It's short. Oh. I see here in my folder a huge print-out. Butler has a web site, at [](http://www.consensus.net/ocaccontents.html). The site has the pamphlet, other materials, information about workshops, and so forth. Strong on nonviolence. [Note: jh -- March 2017: In 2009 Butler published Consensus for Cities, 176 pages. It is available from the author.]
 
 Center for Conflict Resolution. Building United Judgment: A Handbook for Consensus Decision Making. 1999, 124 pages.
 
@@ -145,7 +150,7 @@ John Gastil. Democracy in Small Groups: Participation, Decision Making, and Comm
 
 Kevin Wolf. The Makings of a Good Meeting. 2002, 31 pages. On line at:
 
-[<http://www.wolfandassociates.com/facilitation/manual.htm>](http://www.wolfandassociates.com/facilitation/manual.htm)
+[](http://www.wolfandassociates.com/facilitation/manual.htm)
 
 ## \*\*\*
 
@@ -161,11 +166,9 @@ The references in the notes are quite useful. As are the External Links listed a
 
 ## Facilitating Meetings Effectively
 
-<http://www.casagordita.com/meetings.htm>
 
 Hints for Facilitators: Handling Difficult Behaviors in Meetings
 
-<http://www.casagordita.com/difficult.htm>
 
 On Robert's Rules and Parliamentary Procedure General Henry M. Robert, Robert's Rules of Order [1876]. Many editions, e.g., Robert's Rules of Order, Newly Revised. Scott, Foresman, and Company, 1970, 594 pages.
 

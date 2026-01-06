@@ -1,3 +1,8 @@
+---
+title: "## **Did \$200,000 Bail Keep Pipeline Activist Out of Sunoco's Way?**"
+category: "technology-digital-justice"
+---
+
 ## **Did \$200,000 Bail Keep Pipeline Activist Out of Sunoco's Way?**
 
 ## **Date:** Tue, 04/05/2016 - 17:16

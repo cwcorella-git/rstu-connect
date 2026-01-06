@@ -1,3 +1,8 @@
+---
+title: "## **Do treeplanters suffer from Stockholm syndrome?**"
+category: "contemporary-analysis"
+---
+
 ## **Do treeplanters suffer from Stockholm syndrome?**
 
 ## **Date:** Thu, 03/01/2018 - 16:55

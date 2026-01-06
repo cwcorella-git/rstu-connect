@@ -1,3 +1,8 @@
+---
+title: "**Design Document for:**"
+category: "contemporary-analysis"
+---
+
 # **Design Document for:**
 
 # **Name of Game**
@@ -104,7 +109,8 @@ All work Copyright ©1999 by Your Company Name Written by Chris Taylor
 | Customization | 18 |
 | Internet | 18 |
 | GAMING SITES | 18 |
-| PERSISTENCESAVING AND LOADING | 18<br>18 |
+| PERSISTENCESAVING AND LOADING | 18
+18 |
 | SAVING AND LOADING | |
 | CHARACTER RENDERING | |
 | OVERVIEW | 19 |

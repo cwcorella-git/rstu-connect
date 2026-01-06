@@ -1,3 +1,8 @@
+---
+title: "**Bretton Woods system**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Bretton_Woods_system)
 
 # **Bretton Woods system**
@@ -394,12 +399,22 @@ Dates are those when the rate was introduced; "\*" indicates floating rate mostl
 
 Note: Converted to euro on 1 January 1999 at €1 = DM 1.95583.
 
-| Date | # US\$ =<br>£1 | # pounds =<br>\$1 US | pre-decimal<br>value of \$1 US |
+| Date | # US\$ =
+£1 | # pounds =
+\$1 US | pre-decimal
+value of \$1 US |
 |----------------------|----------------|----------------------|---------------------------------|
-| 27 December<br>1945 | 4.03 | 0.2481 | 4 shillings and 11<br>1⁄2 pence |
-| 18 September<br>1949 | 2.80 | 0.3571 | 7 shillings and 1<br>3⁄4 pence |
-| 17 November<br>1967 | 2.40 | 0.4167 | 8 shillings and 4<br>pence |
-## | 31 December<br>1998 | 1.664* | 0.601* | |
+| 27 December
+1945 | 4.03 | 0.2481 | 4 shillings and 11
+1⁄2 pence |
+| 18 September
+1949 | 2.80 | 0.3571 | 7 shillings and 1
+3⁄4 pence |
+| 17 November
+1967 | 2.40 | 0.4167 | 8 shillings and 4
+pence |
+## | 31 December
+1998 | 1.664* | 0.601* | |
 
 | Date | # FRF = \$1 US | # FRF = £1 |
 |-------------------|----------------|------------|
@@ -490,20 +505,34 @@ Note: Converted to euro on 1 January 2001 at €1 = 340.75 drachmae.
 
 Note: Converted to euro on 1 January 2000 at €1 = FIM 5.94573. Prior to currency reform of 1 January 1963 values shown in new markkaa or FIM worth 100 old markkaa.
 
-| Date | # kroner<br>= \$1 US | Note |
+| Date | # kroner
+= \$1 US | Note |
 |-------------------------|----------------------|-----------------------------------------------|
-| 15<br>September<br>1946 | 4.03 | Joined Bretton Woods. £1 =<br>20.00 krone[84] |
-| 19<br>September | 7.15 | Devalued in line with |
+| 15
+September
+1946 | 4.03 | Joined Bretton Woods. £1 =
+20.00 krone[84] |
+| 19
+September | 7.15 | Devalued in line with |
 
 | 1949 | | sterling[85] |
 |---------------------|--------|---------------------------------------------------------------------------|
-| 15 August<br>1971 | 7.016* | Bretton Woods collapsed |
-| 21 December<br>1971 | 6.745 | Joined the Smithsonian Treaty |
-| 23 May 1972 | 6.571 | Joined the "European Monetary<br>System" |
-| 16 November<br>1972 | 6.611* | The Smithsonian Treaty<br>collapsed |
-| 12 December<br>1978 | 5.096* | Left "European Monetary<br>System", linked to a "basket" of<br>currencies |
+| 15 August
+1971 | 7.016* | Bretton Woods collapsed |
+| 21 December
+1971 | 6.745 | Joined the Smithsonian Treaty |
+| 23 May 1972 | 6.571 | Joined the "European Monetary
+System" |
+| 16 November
+1972 | 6.611* | The Smithsonian Treaty
+collapsed |
+| 12 December
+1978 | 5.096* | Left "European Monetary
+System", linked to a "basket" of
+currencies |
 | October 1990 | 5.920* | Pegged to the ECU |
-## | 12 December<br>1992 | 6.684* | Fully floating |
+## | 12 December
+1992 | 6.684* | Fully floating |
 
 - [Bretton Woods Committee](https://en.wikipedia.org/wiki/Bretton_Woods_Committee)
 - [General Agreement on Tariffs and Trade](https://en.wikipedia.org/wiki/General_Agreement_on_Tariffs_and_Trade)

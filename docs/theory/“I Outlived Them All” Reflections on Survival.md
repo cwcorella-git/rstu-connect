@@ -1,3 +1,8 @@
+---
+title: "## **"I Outlived Them All": Reflections on Survival**"
+category: "theory"
+---
+
 ## **"I Outlived Them All": Reflections on Survival**
 
 ## **Date:** Unknown

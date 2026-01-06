@@ -1,12 +1,10 @@
 ---
-date: 2025
-author: Housing Advocacy Organization
-tags:
-  - organizing
-  - housing
-  - rent
 title: "Reno council debates allowing denser housing, revisits controversial effort to legalize granny flats"
+author: "Housing Advocacy Organization"
+date: "2025"
+category: "housing"
 ---
+
 # Reno council debates allowing denser housing, revisits controversial effort to legalize granny flats
 
 *Converted from: `./Reno council debates allowing denser housing, revisits controversial effort to legalize granny flats.pdf`*  
@@ -43,8 +41,6 @@ title: "Reno council debates allowing denser housing, revisits controversial eff
 Reno council debates allowing denser housing, revisits ...   about:reader?url=https%3A%2F%2Ffoxreno.com%2F...
 
 
-
-
                 foxreno.com
 
 
@@ -54,11 +50,10 @@ Reno council debates allowing denser housing, revisits ...   about:reader?url=ht
                 granny flats
                 Ben Margiott
 
-                5–6 minutes
+                5-6 minutes
 
 
-
-                RENO, Nev. (News 4 & Fox 11) — Five years after rejecting a
+                RENO, Nev. (News 4 & Fox 11) -- Five years after rejecting a
                 plan to allow so-called granny flats in Reno, the city council
                 Wednesday reconsidered the policy, one of several
                 recommended by an outside consultant to address the region's
@@ -70,9 +65,7 @@ Reno council debates allowing denser housing, revisits ...   about:reader?url=ht
                 affordable units.
 
 
-
-
-                                �:�� / �:��
+                                : / :
 
 
                 00:00
@@ -102,7 +95,6 @@ Reno council debates allowing denser housing, revisits ...   about:reader?url=ht
 Reno council debates allowing denser housing, revisits ...   about:reader?url=https%3A%2F%2Ffoxreno.com%2F...
 
 
-
                 Reno council debates allowing denser housing, revisits
                 controversial effort to legalize granny flats
 
@@ -124,8 +116,6 @@ Reno council debates allowing denser housing, revisits ...   about:reader?url=ht
                 many people as we want, so we're trying to figure out what
                 tools we have in the toolbox as a city," councilman Devon
                 Reese said.
-
-
 
 
 2 of 7                                                                                      8/28/25, 10:25 AM
@@ -150,7 +140,6 @@ Reno council debates allowing denser housing, revisits ...   about:reader?url=ht
 Reno council debates allowing denser housing, revisits ...   about:reader?url=https%3A%2F%2Ffoxreno.com%2F...
 
 
-
                 A chart showing examples of so-called missing middle housing.
 
                 By-right approvals
@@ -169,12 +158,9 @@ Reno council debates allowing denser housing, revisits ...   about:reader?url=ht
                 in the process.
 
 
-
-
                 By-right approvals slide
 
                 Upzoning multi-family areas
-
 
 
 3 of 7                                                                                      8/28/25, 10:25 AM
@@ -199,7 +185,6 @@ Reno council debates allowing denser housing, revisits ...   about:reader?url=ht
 Reno council debates allowing denser housing, revisits ...   about:reader?url=https%3A%2F%2Ffoxreno.com%2F...
 
 
-
                 One recommendation was to increase zoning density in some
                 multi-family zoning districts, allowing more units to be built per
                 acre.
@@ -217,8 +202,6 @@ Reno council debates allowing denser housing, revisits ...   about:reader?url=ht
                 "It seems like the development pressures, the living pressure
                 of living so close in an environment like Reno - we're not in
                 downtown L.A. - is at odds I guess with our culture," she said.
-
-
 
 
                 Upzoning slide
@@ -246,7 +229,6 @@ Reno council debates allowing denser housing, revisits ...   about:reader?url=ht
 
 
 Reno council debates allowing denser housing, revisits ...   about:reader?url=https%3A%2F%2Ffoxreno.com%2F...
-
 
 
                 Phillips recommended legalizing accessory dwelling units on
@@ -282,8 +264,6 @@ Reno council debates allowing denser housing, revisits ...   about:reader?url=ht
                 2018.
 
 
-
-
 5 of 7                                                                                      8/28/25, 10:25 AM
 
 ---
@@ -304,8 +284,6 @@ Reno council debates allowing denser housing, revisits ...   about:reader?url=ht
 
 
 Reno council debates allowing denser housing, revisits ...   about:reader?url=https%3A%2F%2Ffoxreno.com%2F...
-
-
 
 
                 Accessory dwelling unit slide
@@ -334,8 +312,6 @@ Reno council debates allowing denser housing, revisits ...   about:reader?url=ht
                 @BenMargiott on Twitter and Ben Margiott KRNV on Facebook.
 
 
-
-
 6 of 7                                                                                      8/28/25, 10:25 AM
 
 ---
@@ -351,9 +327,6 @@ Reno council debates allowing denser housing, revisits ...   about:reader?url=ht
 Reno council debates allowing denser housing, revisits ...   about:reader?url=https%3A%2F%2Ffoxreno.com%2F...
 
 
-
-
 7 of 7                                                                                      8/28/25, 10:25 AM
 
 ---
-

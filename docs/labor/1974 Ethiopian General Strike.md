@@ -1,3 +1,8 @@
+---
+title: "## **1974: Ethiopian General Strike**"
+category: "labor"
+---
+
 ## **1974: Ethiopian General Strike**
 
 **Date:** Unknown

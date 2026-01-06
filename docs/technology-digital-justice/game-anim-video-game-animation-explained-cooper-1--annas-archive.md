@@ -1,3 +1,8 @@
+---
+title: "CAME ANIA"
+category: "technology-digital-justice"
+---
+
 # CAME ANIA
 
 ## VIDEO GAME ANIMATION EXPLAINED
@@ -56,11 +61,11 @@ Identifiers: LCCN 2018040843| ISBN 9781138094871 (pbk. : acid-free paper) |
 
 Subjects: LCSH: Computer animation--Vocational guidance. | Video games--Design--Vocational guidance.
 
-Classification: LCC TR897.7 . C66 2019 | DDC 777/.7023--dc23 LC record available at<https://lccn.loc.gov/2018040843>
+Classification: LCC TR897.7 . C66 2019 | DDC 777/.7023--dc23 LC record available at
 
-**Visit the Taylor & Francis Web site at <http://www.taylorandfrancis.com>**
+**Visit the Taylor & Francis Web site at **
 
-**and the CRC Press Web site at <http://www.crcpress.com>**
+**and the CRC Press Web site at **
 
 *For Clara & Jade, whose adventures in real life inspire me in the virtual.*
 
@@ -910,7 +915,7 @@ Back when video games were still in the Pac Man era, Disney animators Frank Thom
 
 While these fundamentals were written in the pre-computer graphics days of exclusively hand-drawn 2D animation, they translated perfectly for the later evolution to 3D animation, and while some of them less obviously correlate to the interactive medium, some light reinterpretation reveals their timeless value. Understanding these basics of animation is essential, so it's time to revisit them again through the lens of video game animation.
 
-<sup>1</sup> F. Thomas and O. Johnston. 1981. *The Illusion of Life: Disney Animation*. Walt Disney Productions.
+1 F. Thomas and O. Johnston. 1981. *The Illusion of Life: Disney Animation*. Walt Disney Productions.
 
 #### **Principle 1: Squash & Stretch**
 
@@ -4166,8 +4171,10 @@ No technology on its own will ever make appealing characters that become player 
 | attack animations, 148–153 | | arcs, 144 |
 | climbing and mantling, 146–148 | Ideal situation, 20 | landing, 145–146 |
 | damage animations, 153–156 | IK, see Inverse Kinematics | take-off, 145 |
-| gameplay cameras, 130–133<br>ground movement, 133–143 | Illusion of Life: Disney Animation, The | |
-| jumping, 143–146 | (Thomas and Johnston), 27<br>Immersion, 1 | K |
+| gameplay cameras, 130–133
+ground movement, 133–143 | Illusion of Life: Disney Animation, The | |
+| jumping, 143–146 | (Thomas and Johnston), 27
+Immersion, 1 | K |
 | The Three Cs, 129–130 | "In-betweeners", 62 | Keyframe |
 | Gameplay animators, 14, 17, 23, | Incline/decline angle, 72 | animation team, 220 |
 | | Inclines/inclination, 18, 138–139 | lip-sync, 176 |
@@ -4259,7 +4266,10 @@ No technology on its own will ever make appealing characters that become player 
 | Prop(s), 193 | Repeat cycles in DCCs, 101 | Shishimai method, 126 |
 | animation, 7 | Repetition, 51 | Shot-list, 188–189 |
 | manipulation in cinematic | Response, 42, 149 | Silhouettes, 49 |
-| scenes, 194<br>recording, 194–195 | Retiming, 199–200<br>Rigging, 111–113 | "Silver-bullet", 184<br>Simple static/standing actions, 228 |
+| scenes, 194
+recording, 194–195 | Retiming, 199–200
+Rigging, 111–113 | "Silver-bullet", 184
+Simple static/standing actions, 228 |
 | weapon prop armory, 194 | Rigid approach, 154–155 | Simplicity of design, 53–54 |
 | Prototypes, 99 | Rigs, 59–62 | Single animation, 228–229 |
 | Prototyping game systems, 101–102 | file referenced inside multiple | Single best approach to |

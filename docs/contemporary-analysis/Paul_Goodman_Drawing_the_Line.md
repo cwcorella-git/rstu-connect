@@ -1,3 +1,8 @@
+---
+title: "## **Redrawing The Line: The Anarchist Writings of Paul Goodman**"
+category: "contemporary-analysis"
+---
+
 ## **Redrawing The Line: The Anarchist Writings of Paul Goodman**
 
 ## Paul Comeau

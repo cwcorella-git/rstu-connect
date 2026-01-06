@@ -1,3 +1,8 @@
+---
+title: "Utah Juniper Profile"
+category: "contemporary-analysis"
+---
+
 #### [thespruce.com](https://www.thespruce.com/growing-utah-juniper-trees-5078437)
 
 # Utah Juniper Profile

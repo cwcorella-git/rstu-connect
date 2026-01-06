@@ -1,3 +1,8 @@
+---
+title: "## **A Just Transition: Break Free**"
+category: "feminist-theory"
+---
+
 ## **A Just Transition: Break Free**
 
 **Date:** Wed, 05/18/2016 - 19:38 **Source:** https://ecology.iww.org/node/1653
@@ -78,12 +83,17 @@ The railroad, CSX transportation, in 2009, got rid of the Greenbrier Hotel in We
 
 Justice. This is the hotel that has the famous bunker located under it where Congress would go in case of a nuclear war. To be somewhat a smartass, but very serious. I suggest that these two facts, the ark and the hotel could be a metaphorical suggestion of a new transition in policy. Maybe the transitioning workers could stay closer to home and we as a Commonwealth should build more than one ark. Maybe we could build a really big one on some of that usable land? Maybe we could call it the house of the rising seas, hotel and casino.
 
-| As I write this, there is a new activist movement called the Break Free Movement that is<br>organizing direct actions all across the world. The actions have slogans like, |
+| As I write this, there is a new activist movement called the Break Free Movement that is
+organizing direct actions all across the world. The actions have slogans like, |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Leave It In The Ground |
 | and |
 | No Bomb Trains |
-| . People have been arrested blocking railroad tracks leading into oil transportation terminals.<br>Direct actions are taking place all over the world to place the dire need for an energy transition<br>into the public eye. I must mention that I write these words because I am worried. I write these<br>words because I am a railroader and know deeply many of the perspectives that people on<br>both sides of this so called |
+| . People have been arrested blocking railroad tracks leading into oil transportation terminals.
+Direct actions are taking place all over the world to place the dire need for an energy transition
+into the public eye. I must mention that I write these words because I am worried. I write these
+words because I am a railroader and know deeply many of the perspectives that people on
+both sides of this so called |
 | war on coal |
 | or possibly now, |
 | A war on the fossil fuel Industry, |
@@ -96,7 +106,11 @@ To have a "just" transition. I suggest, we as a Commonwealth, we as a people of 
 | might be. |
 | I do understand there is a |
 | fierce urgency of now |
-| for some. I also understand that some feel the machine must be stopped at all costs. I also<br>know policy changes take time. While I know, working in the industry that I do, the greasy<br>wheel gets the grease , I also know what happens if the greasy wheel does not get the<br>grease. I also know how hard it is to get people to sit down in a circle. In calling for a just<br>transition, we are going to have to make sure we |
+| for some. I also understand that some feel the machine must be stopped at all costs. I also
+know policy changes take time. While I know, working in the industry that I do, the greasy
+wheel gets the grease , I also know what happens if the greasy wheel does not get the
+grease. I also know how hard it is to get people to sit down in a circle. In calling for a just
+transition, we are going to have to make sure we |
 | all |
 | sit in circles or else I feel we may |
 | all |
@@ -110,7 +124,8 @@ To have a "just" transition. I suggest, we as a Commonwealth, we as a people of 
 | Unsettling of America |
 | . I also might suggest that changing our |
 | Agriculture Policy |
-| would create many opportunities and jobs. We used to own our farms. We used to ride the<br>rails. We used to have localized economies. |
+| would create many opportunities and jobs. We used to own our farms. We used to ride the
+rails. We used to have localized economies. |
 | We The People |
 | have a serious task before us. |
 | Its hardship is its possibility. |

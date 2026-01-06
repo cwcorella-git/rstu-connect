@@ -1,3 +1,8 @@
+---
+title: "**New perspectives on cognitive dissonance theory**"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 # **New perspectives on cognitive dissonance theory**
@@ -395,13 +400,29 @@ The experience of dissonance is usually defined as a feeling of *discomfort* (El
 
 Table 1. *Specific emotions associated with specific reduction strategies*.
 
-| Emotion<br>experienced<br>during<br>dissonance | Dissonance-reduction<br>strategy | Emotional<br>outcome<br>after<br>success |
+| Emotion
+experienced
+during
+dissonance | Dissonance-reduction
+strategy | Emotional
+outcome
+after
+success |
 |------------------------------------------------|--------------------------------------------------------|------------------------------------------|
-| Anger | Attitude<br>bolstering | Satisfaction |
-| Irritation | Denial<br>of<br>responsibility | Relief |
-| Anxiety/Fear | Avoidance<br>Denial<br>of<br>information<br>Forgetting | Relief |
-| Guilt | Behavioral<br>change | Serenity |
-## | Shame | Distraction<br>Escape | Sadness |
+| Anger | Attitude
+bolstering | Satisfaction |
+| Irritation | Denial
+of
+responsibility | Relief |
+| Anxiety/Fear | Avoidance
+Denial
+of
+information
+Forgetting | Relief |
+| Guilt | Behavioral
+change | Serenity |
+## | Shame | Distraction
+Escape | Sadness |
 
 Since this is an approach-motivated emotion, the individual will quickly try to find the external source and extinguish it. Due to the dynamic nature of appraisals (and thereby emotions), the resulting emotion (if the extinguishing is successful) might be characterized as satisfaction. Anxiety/fear is likely to evolve when the individual is overwhelmed by the situation. Since these emotions are avoidance motivated (La Bar, 2016), they are related to strategies such as avoidance, escape, and distraction (disengaging strategies). In dissonant situations where there is a clear violation of values or important attitudes, self-conscious emotions such as guilt and shame are likely to evolve (cf. Lewis, 2016). The difference between guilt and shame is that guilt is followed by a corrective response (making amends for transgression) coupled with a feeling of serenity if the corrective attempt is successful. Shame, however, is expected when the individual has little to no chance of compensating for the serious transgression. This leads to retreat (escape or distraction) rather than approach (behavioral change) – and possibly a prolonged sense of sadness.
 

@@ -1,12 +1,10 @@
 ---
-date: 2025
-author: Assembly Bill No
-tags:
-  - legislation
-  - Nevada
-  - tenants
 title: "assembly-bill-no-201"
+author: "Assembly Bill No"
+date: "2025"
+category: "legislation"
 ---
+
 # assembly-bill-no-201
 
 *Converted from: `./assembly-bill-no-201.pdf`*  
@@ -60,8 +58,6 @@ complaint for reentry if the court finds that the lockout was unjustified and ce
 conditions are met.
 
  EXPLANATION – Matter in bolded italics is new; matter between brackets [omitted material] is material to be omitted.
-
-
 
 
    THE PEOPLE OF THE STATE OF NEVADA, REPRESENTED IN
@@ -135,7 +131,6 @@ led to the eviction;
 order of eviction was granted; and
 
 
-
    -                                                83rd Session (2025)
 
 ---
@@ -193,9 +188,6 @@ and all other papers, records, proceedings and evidence, including
 exhibits and transcript of the testimony.
 
 
-
-
    -                                               83rd Session (2025)
 
 ---
-

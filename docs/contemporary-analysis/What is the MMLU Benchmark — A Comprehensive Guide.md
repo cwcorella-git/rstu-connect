@@ -1,3 +1,8 @@
+---
+title: "What is the MMLU Benchmark? A Comprehensive Guide"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Figure_2.jpeg)
 
 ## Q

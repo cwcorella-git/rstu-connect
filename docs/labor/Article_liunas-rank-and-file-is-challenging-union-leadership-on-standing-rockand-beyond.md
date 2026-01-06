@@ -1,14 +1,8 @@
 ---
-title: >-
-  Liunas Rank and File Is Challenging Union Leadership On Standing Rockand
-  Beyond
-date: 2025
-author: Industrial Workers of the World
-tags:
-  - organizing
-  - unions
-  - rent
-  - labor
+title: ">-"
+author: "Industrial Workers of the World"
+date: "2025"
+category: "labor"
 ---
 
 # Liunas Rank and File Is Challenging Union Leadership On Standing Rockand Beyond

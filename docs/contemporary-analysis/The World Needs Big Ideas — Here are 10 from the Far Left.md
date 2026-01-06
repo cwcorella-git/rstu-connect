@@ -1,3 +1,8 @@
+---
+title: "**The World Needs Big Ideas — Here are 10 from the Far Left**"
+category: "contemporary-analysis"
+---
+
 # **The World Needs Big Ideas — Here are 10 from the Far Left**
 
 ## **Date:** Mon, 03/06/2017 - 18:38
@@ -22,15 +27,21 @@ The radical left has a lot to offer. We have new, innovative, and necessary idea
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | So here's a list of some of the left's coolest ideas. |
 | 1 — Creating full-employment through a green jobs program. |
-| In the 1930s we had the New Deal, which helped Americans through the Great Depression,<br>creating infrastructure and social programs. Now we are facing a massive environmental<br>crisis, along with poverty levels not seen since the 30s. Solution? Some economists say, " |
+| In the 1930s we had the New Deal, which helped Americans through the Great Depression,
+creating infrastructure and social programs. Now we are facing a massive environmental
+crisis, along with poverty levels not seen since the 30s. Solution? Some economists say, " |
 | make the government the employer of last resort |
-| ". Give the unemployed jobs, and green jobs. Building public transit and high-speed rail,<br>building wind and solar energy farms, recycling, planting forests, and developing food and<br>water security. Solve unemployment and save the environment. |
+| ". Give the unemployed jobs, and green jobs. Building public transit and high-speed rail,
+building wind and solar energy farms, recycling, planting forests, and developing food and
+water security. Solve unemployment and save the environment. |
 | 2 — My personal favorite, the 4-hour-day. |
 | In the 1880s, workers fought for the 8-hour-day. Several economists have done the math, and |
-| say that with modern technology society could function with everyone doing just 10–20 hours<br>a week of work (or less). |
+| say that with modern technology society could function with everyone doing just 10–20 hours
+a week of work (or less). |
 | What's more, Oxford University |
 | research |
-| estimates that automation (robots and computers) could replace 47 percent of the jobs in the<br>US in the next two decades. No work? No problem! Let's transition to the 4-hour-day, |
+| estimates that automation (robots and computers) could replace 47 percent of the jobs in the
+US in the next two decades. No work? No problem! Let's transition to the 4-hour-day, |
 
 4-day-week.
 

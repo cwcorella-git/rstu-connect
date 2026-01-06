@@ -1,3 +1,8 @@
+---
+title: "## **Talking about a revolution: Federica Montseny and Emma Goldman during the Spanish Civil War - C"
+category: "feminist-theory"
+---
+
 ## **Talking about a revolution: Federica Montseny and Emma Goldman during the Spanish Civil War - Catarina von Wedemeyer**
 
 ## **Date:** Unknown

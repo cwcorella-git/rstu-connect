@@ -1,16 +1,10 @@
 ---
-title: The Abolition Of Work
-slug: The Abolition of Work
-reconversion_status: ready_for_reconversion
-author: 'Bob Black, Bruno Borges (Illustrator)'
-date: '2024'
-tags:
-  - abolition
-  - police
-  - strikes
-  - unions
-  - rent
+title: "The Abolition Of Work"
+author: "Bob Black, Bruno Borges (Illustrator)"
+date: "2024"
+category: "abolition"
 ---
+
 ## **Bob Black**
 
 ## **The Abolition of Work**

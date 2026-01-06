@@ -1,3 +1,8 @@
+---
+title: "## **Jeremy Hammond's statement on the plea and sentencing of his brother, Jason Hammond**"
+category: "contemporary-analysis"
+---
+
 ## **Jeremy Hammond's statement on the plea and sentencing of his brother, Jason Hammond**
 
 ## **Date:** Unknown

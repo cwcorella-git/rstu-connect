@@ -1,3 +1,8 @@
+---
+title: "## **Marx in Detroit**"
+category: "contemporary-analysis"
+---
+
 ## **Marx in Detroit**
 
 ## **Date:** Unknown

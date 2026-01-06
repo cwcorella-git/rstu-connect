@@ -1,3 +1,8 @@
+---
+title: "## **From Pipelines to Prisons: The intersection of native rights, mass incarceration and environmen"
+category: "labor"
+---
+
 ## **From Pipelines to Prisons: The intersection of native rights, mass incarceration and environmental justice**
 
 ## **Date:** Mon, 10/03/2016 - 18:18
@@ -28,14 +33,22 @@ Now, perhaps more than ever before, the spotlight is on the pushers of pipelines
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Pipelines in the U. S. |
 | as of 2012 |
-| While battles around indigenous land rights have a long history of overlap with the<br>environmental justice (EJ) movement, there is a developing body of research and activism |
+| While battles around indigenous land rights have a long history of overlap with the
+environmental justice (EJ) movement, there is a developing body of research and activism |
 | placing prisoners' rights in the EJ context |
 | as well, since prison populations in every state of the U. S. are populated |
 | disproportionately by people of color |
-| . Only establishing common ground over the conventional concept of "environmental" angles<br>surrounding these issues offers too shallow of an analysis; deeper solidarity requires<br>understanding the bigger picture: the history of a social ecosystem surrounding broken<br>treaties and toxic prisons alike. Doing so can only increase the effectiveness and long term<br>success of struggles to defend the Earth. |
+| . Only establishing common ground over the conventional concept of "environmental" angles
+surrounding these issues offers too shallow of an analysis; deeper solidarity requires
+understanding the bigger picture: the history of a social ecosystem surrounding broken
+treaties and toxic prisons alike. Doing so can only increase the effectiveness and long term
+success of struggles to defend the Earth. |
 | Prisons in the U. S. |
 | as of 2015 |
-| At first glance, drawing a relationship between struggles surrounding prisons and pipelines<br>may seem a stretch, but 45 years ago, activists were readily making these connections.<br>Organizations like the American Indian Movement (AIM) and the Black Panther Party arose<br>and co-existed in a very similar setting. Their bold direct actions inspired the solidarity of many |
+| At first glance, drawing a relationship between struggles surrounding prisons and pipelines
+may seem a stretch, but 45 years ago, activists were readily making these connections.
+Organizations like the American Indian Movement (AIM) and the Black Panther Party arose
+and co-existed in a very similar setting. Their bold direct actions inspired the solidarity of many |
 
 people outside their respective communities as well. One example being activist-attorney
 
@@ -61,13 +74,15 @@ In fact, recent studies on the racial breakdown of incarceration and criminal pu
 | than the national average, according to the Bureau of Justice Statistics (BJS). |
 | Native American youths are |
 | 30% more likely |
-| than whites to be referred to juvenile court than have charges dropped, according to National<br>Council on Crime and Delinquency. |
+| than whites to be referred to juvenile court than have charges dropped, according to National
+Council on Crime and Delinquency. |
 | Native Americans are |
 | more likely to be killed by police |
 | than any other racial group, according to the Center on Juvenile and Criminal Justice. |
 | Native American men are |
 | incarcerated at four times the rate of white men |
-| ; Native American women are incarcerated at six times the rate of white women, according to<br>a report compiled by the Lakota People's Law Project. |
+| ; Native American women are incarcerated at six times the rate of white women, according to
+a report compiled by the Lakota People's Law Project. |
 | Native Americans fall victim to violent crime at more than |
 
 ## double the rate of all other US citizens
@@ -90,7 +105,8 @@ The case of Lakota political prisoner Leonard Peltier, stands as a tragic symbol
 
 From 1980 to 2000, the counties that make up Pine Ridge comprised the poorest of the Lakota Nation's 3,143 counties. According to the Pine Ridge-based nonprofit,
 
-| , "The 2000 census found them the third poorest, not because things got better on Pine Ridge,<br>but because things got worse on two other South Dakota Indian Reservations." In 2012, a |
+| , "The 2000 census found them the third poorest, not because things got better on Pine Ridge,
+but because things got worse on two other South Dakota Indian Reservations." In 2012, a |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | New York Times |
 | Op-Ed columnist called the reservation " |

@@ -1,3 +1,8 @@
+---
+title: "**1892 New Orleans General Strike**"
+category: "labor"
+---
+
 # **1892 New Orleans General Strike**
 
 **Date:** Unknown

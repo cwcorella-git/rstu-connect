@@ -1,3 +1,8 @@
+---
+title: "## **GE Tree Company Arbor Gen Found Guilty of Defrauding Workers, Fined \$53.5M**"
+category: "contemporary-analysis"
+---
+
 ## **GE Tree Company Arbor Gen Found Guilty of Defrauding Workers, Fined \$53.5M**
 
 **Date:** Sat, 01/09/2016 - 19:29 **Source:** https://ecology.iww.org/node/1463**Tags:** timber workers, health and safety, Global Justice Ecology Project, Anne Petermann By Kip Doyle - Global Justice Ecology Project , January 7, 2015 New York (8 January 2015) –

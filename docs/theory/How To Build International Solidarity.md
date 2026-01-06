@@ -1,3 +1,7 @@
+---
+title: ""I'm an international, super spy... SUPER SPYYYYY.""
+category: "theory"
+---
 
 0:00
 "I'm an international, super spy... SUPER SPYYYYY."
@@ -304,8 +308,7 @@ learn another language.
 8:53
 I'm serious.
 8:54
-In fact, if you're in a group, y'all could probably pick up the main lingua-
-franca's
+In fact, if you're in a group, y'all could probably pick up the main linguafranca's
 8:59
 of the world.
 9:03

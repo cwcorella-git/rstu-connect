@@ -1,3 +1,8 @@
+---
+title: "## **Reuse, Recycle, Unionize!: Urban Ore workers win union election, get ready to negotiate contrac"
+category: "contemporary-analysis"
+---
+
 ## **Reuse, Recycle, Unionize!: Urban Ore workers win union election, get ready to negotiate contract**
 
 ## **Date:** Wed, 05/17/2023 - 00:00

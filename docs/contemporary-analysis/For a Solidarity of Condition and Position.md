@@ -1,3 +1,8 @@
+---
+title: "## **A Delivery Driver in Manhattan**"
+category: "contemporary-analysis"
+---
+
 ## **A Delivery Driver in Manhattan**
 
 ## **For a Solidarity of Condition and Position**

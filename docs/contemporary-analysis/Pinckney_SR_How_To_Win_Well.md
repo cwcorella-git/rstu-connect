@@ -1,3 +1,8 @@
+---
+title: "How to Win Well"
+category: "contemporary-analysis"
+---
+
 # How to Win Well
 
 Civil Resistance Breakthroughs and the Path to Democracy
@@ -48,7 +53,8 @@ COPY EDITOR: Julia Constantine SPECIAL REPORT SERIES EDITOR: Dr. Maciej Bartkows
 | FIGURE 1: Pathways from Civil Resistance to a New Regime | 9 |
 | FIGURE 2: Incidence of the Civil Resistance Breakthrough Types from 1945 to 2011 | 11 |
 | FIGURE 3: Average Levels of Democracy Across Dierent Breakthroughs | 12 |
-| FIGURE 4: Eects of Elections/Negotiations on Democracy<br>Five Years After Breakthrough | 13 |
+| FIGURE 4: Eects of Elections/Negotiations on Democracy
+Five Years After Breakthrough | 13 |
 | FIGURE A1: Primary Model Robustness Checks (t + 1 to t + 10) | 31 |
 
 ## I N T R O D U C T I O N
@@ -59,7 +65,7 @@ Their caution was warranted Large nonviolent resistance movements have been one 
 
 Sudan's own history bears witness to these sad realities Twice since Sudanese independence mass uprisings have brought down entrenched Sudanese dictators:rst in 1965 when student-initiated protests led to the ouster of President Ibrahim Abboud, and then in 1985 when a general strike brought down President Jaafar Nimeiry (Abdulsha2019) In both cases the dictator's downfall led to brief periods of democratization However, the entrenched power of anti-democratic elites—particularly the military—brought the country back to a dictatorship Removing a dictator from power, even through nonviolent resistance, was not enough to ensure democratic change
 
-<sup>1</sup> For more information, please see the ICNC publication Sudan's 2019 Revolution: The Power of Civil Resistance by Dr. Stephen Zunes. This study contains interviews with activists and civil society groups that led the movement as well as with journalists and scholars who chronicled the struggle.
+1 For more information, please see the ICNC publication Sudan's 2019 Revolution: The Power of Civil Resistance by Dr. Stephen Zunes. This study contains interviews with activists and civil society groups that led the movement as well as with journalists and scholars who chronicled the struggle.
 
 This special report addresses the crucial time after a civil resistance movement has achieved a political breakthrough against a dictator The key questions it looks to answer are these:
 
@@ -79,7 +85,7 @@ The report's key argument is that the type of breakthrough critically shapes the
 
 The movements leading to democracy are those that begin with breakthroughs characterized by a power balance favorable to a nonviolent challenger, an opposition-driven initiative, and institutional channels. Negotiations and elections are the breakthroughs
 
-<sup>2</sup> Pinckney (2014) refers to these as "mechanisms of success." I use the term "breakthrough" here to emphasize that these are moments of signicant change, but do not necessarily lead automatically to long-term success.
+2 Pinckney (2014) refers to these as "mechanisms of success." I use the term "breakthrough" here to emphasize that these are moments of signicant change, but do not necessarily lead automatically to long-term success.
 
 that best approximate these three characteristics and thus are expected to lead to more democratic outcomes
 
@@ -102,7 +108,7 @@ This simple strategic logic, however, tells us little about the ways in which pr
 
 Pinckney (2014) offers one answer to this question by developing an empirical categorization of six key breakthrough mechanisms through which pressure by a nonviolent resistance campaign leads to a significant change in the incumbent regime. Because they challenge the power of those in authority, breakthroughs necessarily initiate a process of political transition as players in the political game seek to establish a new set of rules. The six distinctive types of breakthrough, 3 roughly arranged from least to most confrontational, are:
 
-<sup>3</sup> The types of breakthrough are derived from a careful observation of the dynamics of civil resistance campaigns in the post–World War II period and are defined empirically rather than theoretically. The six breakthrough types are not strictly based on theory, but rather are a way of easily distinguishing the different nonviolent uprisings that have successfully achieved a major political breakthrough and initiated a process of political transition. The primary goal of such categorization is to include all relevant breakthrough cases as observed in real-life nonviolent revolutions. These categories differ from Gene Sharp's (2005) concept of "mechanisms of change" (such as conversion, accommodation, coercion, and disintegration) which draws on his underlying theory of power and does not concern itself with transition processes that might follow.
+3 The types of breakthrough are derived from a careful observation of the dynamics of civil resistance campaigns in the post–World War II period and are defined empirically rather than theoretically. The six breakthrough types are not strictly based on theory, but rather are a way of easily distinguishing the different nonviolent uprisings that have successfully achieved a major political breakthrough and initiated a process of political transition. The primary goal of such categorization is to include all relevant breakthrough cases as observed in real-life nonviolent revolutions. These categories differ from Gene Sharp's (2005) concept of "mechanisms of change" (such as conversion, accommodation, coercion, and disintegration) which draws on his underlying theory of power and does not concern itself with transition processes that might follow.
 
 ## **1. National negotiation between the opposition and the undemocratic regime**
 
@@ -120,7 +126,7 @@ The third breakthrough type is resignation, in which the regime relinquishes pow
 
 The fourth breakthrough type is an external intervention, in which direct actions by an external actor bring about regime change in response to the ongoing civil resistance campaign Interventions may be diplomatic (as in the Ruhrkampf in 1923) or military (as in East Timor in 1999) The key distinguishing factor of an intervention as a breakthrough type is that the intervention precipitates the achievement of the nonviolent campaign's goal and is a necessary component of its success
 
-<sup>4</sup> Negotiations, often with external mediation, take place throughout many civil resistance campaigns even if they do not directly lead to that campaign's nal outcome. This special report is only examining negotiations that directly lead to the breakdown of an opponent regime. For more on the general role of negotiations in civil resistance see Dudouet 2008, Svensson and Lundgren 2018 and Wanis-St. John and Rosen 2017.
+4 Negotiations, often with external mediation, take place throughout many civil resistance campaigns even if they do not directly lead to that campaign's nal outcome. This special report is only examining negotiations that directly lead to the breakdown of an opponent regime. For more on the general role of negotiations in civil resistance see Dudouet 2008, Svensson and Lundgren 2018 and Wanis-St. John and Rosen 2017.
 
 ## **5. Coups d'état (violent or peaceful)**
 
@@ -134,9 +140,9 @@ These six identied breakthrough types are an observational categorization, deriv
 
 These kinds of breakthrough (and others) can also happen outside of the context of civil resistance, and there are various schemes in academic literature for categorizing them 6 It is beyond the scope of this report to examine the eects of dierent breakthroughs across all non-democratic regime contexts outside of civil resistance struggles Consequently, this report focuses on the impact of the identied breakthroughs in the context of a civil resistance movement
 
-<sup>5</sup> Akayev did eventually formally resign from power, but the resignation only took place after his regime had lost power. Thus, in this case the formal resignation was not the breakthrough mechanism because it took place after the critical shift in power had already occurred.
+5 Akayev did eventually formally resign from power, but the resignation only took place after his regime had lost power. Thus, in this case the formal resignation was not the breakthrough mechanism because it took place after the critical shift in power had already occurred.
 
-<sup>6</sup> For example, see Geddes, Wright, and Frantz 2014.
+6 For example, see Geddes, Wright, and Frantz 2014.
 
 ## The Effects of the Breakthrough Types
 
@@ -154,7 +160,7 @@ Both the balance of power and the actorthat wields political initiative help det
 
 Institutionalization of the breakthrough guards against the possibility that transitions will turn into winner-take-all struggles for political inuence and helps establish a new regime built upon the rule of law with eective institutional constraints This can help avoid "street
 
-<sup>7</sup> It is important to note that civil resistance campaign actions or structures may make some breakthrough types more likely than others. For instance, highly diuse, non-hierarchical movements will likely struggle to negotiate with an autocratic regime, and thus may have this means of breakthrough closed o. Other campaigns may build internal democratic structures that pregure democratic politics, facilitating participation in elections. We know little about the campaign characteristics that cross-nationally facilitate certain breakthrough types, and it is beyond the scope of this report to examine this question, but see important work from other scholars on the subject in Butcher, Gray, and Mitchell 2018 or Nepstad 2015.
+7 It is important to note that civil resistance campaign actions or structures may make some breakthrough types more likely than others. For instance, highly diuse, non-hierarchical movements will likely struggle to negotiate with an autocratic regime, and thus may have this means of breakthrough closed o. Other campaigns may build internal democratic structures that pregure democratic politics, facilitating participation in elections. We know little about the campaign characteristics that cross-nationally facilitate certain breakthrough types, and it is beyond the scope of this report to examine this question, but see important work from other scholars on the subject in Butcher, Gray, and Mitchell 2018 or Nepstad 2015.
 
 ## ![](_page_14_Figure_0.jpeg)
 
@@ -176,7 +182,7 @@ How well does the argument laid out in **Figure 1** map onto actual political tr
 
 Cases were classied based on which of the breakthroughs were the most important and immediate cause of regime change The categorization of a case into one of these categories does not imply that aspects of the other breakthrough types did not occur For instance, negotiations between a campaign and regime frequently occur during the campaign's period of struggle without leading to a breakthrough A case would only be considered to have had negotiations as its breakthrough type if the negotiations led directly to the end of the old regime and initiation of a political transition, for instance through directly bringing about the establishment of temporary power-sharing arrangements 8
 
-<sup>8</sup> More discussion of these coding rules can be found in the appendix.
+8 More discussion of these coding rules can be found in the appendix.
 
 ## ![](_page_16_Figure_0.jpeg)
 
@@ -198,9 +204,9 @@ Source: Author calculation based on Varieties of Democracy dataset and original 
 
 However, as **Figure 3** shows, countries that achieve breakthrough by negotiations or elections also have slightly higher levels of democracy in the years before the breakthrough, on average around 0 05 higher While this dierence is not big enough to fully account for the
 
-<sup>9</sup> Technically, the Polyarchy score measures "electoral" democracy, by combining indexes that measure whether the executive is elected, the percentage of the population that has surage, the freedom and fairness of elections, and the levels of protection for freedom of expression and association (Coppedge et al. 2018).
+9 Technically, the Polyarchy score measures "electoral" democracy, by combining indexes that measure whether the executive is elected, the percentage of the population that has surage, the freedom and fairness of elections, and the levels of protection for freedom of expression and association (Coppedge et al. 2018).
 
-<sup>10</sup> The Varieties of Democracy project gives the United States a score of 0.834 in 2018, and the Republic of Georgia a score of 0.676.
+10 The Varieties of Democracy project gives the United States a score of 0.834 in 2018, and the Republic of Georgia a score of 0.676.
 
 larger difference after breakthrough—0 15—it suggests that negotiations and elections may only arise in countries that are already more democratic, which in turn may make it easier for these countries to become stronger democracies after breakthrough
 
@@ -214,11 +220,11 @@ Source: Author calculation based on Varieties of Democracy dataset and original 
 
 What is the eect of the dierent breakthrough mechanisms on democratization when taking the major structural factors such as the country's prior level of democracy or level of economic development into account? **Figure 4** shows the results of a statistical model12 testing the eect of a breakthrough of negotiations or elections on the level of democracy ve years after the end of a civil resistance campaign, controlling for the most common factors that have been found to inuence a country's level of democracy: levels of democracy before a breakthrough, the average level of democracy in the region, and the GDP per capita 13 The points on the graph are the predicted democracy scoresve years after breakthrough for
 
-<sup>11</sup> The literature on democratization suggests a very large number of potential structural factors that might aect a country's democratic trajectory. In particular, there are strong arguments that a country's past democratic history, economic development (Acemoglu et al. 2008), and a facilitative international environment (Brinks and Coppedge 2006; Gleditsch and Ward 2006) encourage democratization.
+11 The literature on democratization suggests a very large number of potential structural factors that might aect a country's democratic trajectory. In particular, there are strong arguments that a country's past democratic history, economic development (Acemoglu et al. 2008), and a facilitative international environment (Brinks and Coppedge 2006; Gleditsch and Ward 2006) encourage democratization.
 
-<sup>12</sup> The model is an OLS linear regression model. The full regression table with model t statistics is reported in the appendix.
+12 The model is an OLS linear regression model. The full regression table with model t statistics is reported in the appendix.
 
-<sup>13</sup> All the variables are drawn from the Varieties of Democracy project.
+13 All the variables are drawn from the Varieties of Democracy project.
 
 countries going through elections or negotiations compared to the four other breakthroughs, with all structural control variables held at their average 14
 
@@ -230,9 +236,9 @@ Events in Armenia powerfully illustrate the eects of breakthroughs by negotiatio
 
 The opposition, led by activist and Civil Contract party founder Nikol Pashinyan, initiated a weeks-long march across the country, inspired by Mohandas Gandhi's 1930 anti-tax salt march to the sea, and a series of demonstrations against Sargsyan's election (Mac Farquhar 2019) Their initial protests were sparsely attended, but after Sargsyan's election, as well as the government's badly fumbled attempts at violent repression of the opposition protests, participation swelled Opposition protesters pursued a string of innovative tactics, including ash mob road blockades that overwhelmed police capacity by quickly dispersing when ocers arrived to break up the blockade but immediately reforming on a dierent nearby street (Amiryan n d )
 
-<sup>14</sup> The bars on either side of the points are a 95% condence interval, showing the range of reasonable variation in the predicted values. See the appendix for additional robustness checks of this relationship. The result is robust for measuring the Polyarchy score at least up to 10 years after the breakthrough.
+14 The bars on either side of the points are a 95% condence interval, showing the range of reasonable variation in the predicted values. See the appendix for additional robustness checks of this relationship. The result is robust for measuring the Polyarchy score at least up to 10 years after the breakthrough.
 
-<sup>15</sup> The predicted dierence is roughly 0.16, compared to the roughly 0.15 dierence in average scores.
+15 The predicted dierence is roughly 0.16, compared to the roughly 0.15 dierence in average scores.
 
 While the government initially attempted violent repression, the size of the protests quickly made violence unfeasible, and the regime decided to negotiate Pashinyan and the opposition refused to end the protests unless Sargsyan stepped down and Pashinyan was elected as prime minister As the protests showed no signs of slowing, and the solidarity of his party began to crack under the pressure, Sargsyan eventually bowed to the protesters' demands and stepped down from power Sargsyan's party, the Republican Party of Armenia, attempted to elect a Sargsyan loyalist to replace him, but Pashinyan refused to end the campaign until the ruling party put an oppositiongure in power Finally, on May 8, 2018, a signicant number of ruling party parliamentarians defected, leading to Pashinyan's election as Prime Minister of Armenia
 
@@ -254,7 +260,7 @@ The situation in Egypt changed dramatically when protests in Tunisia successfull
 
 In the following days, opposition political parties, including the banned Muslim Brotherhood, as well as hundreds of thousands of ordinary Egyptians, joined youth protesters in Tahrir Square and around the country After initial clashes in therst few days of protests, the police largely disappeared from Cairo's streets The Egyptian army deployed to Cairo on January 28, 2011, but declared its intention not to interfere with the protests The Mubarak government
 
-<sup>16</sup> Khaled Said was a young Egyptian from the city of Alexandria who was brutally tortured and murdered by Egyptian police after publicizing incidents of police brutality.
+16 Khaled Said was a young Egyptian from the city of Alexandria who was brutally tortured and murdered by Egyptian police after publicizing incidents of police brutality.
 
 unsuccessfully attempted to demobilize the protesters through concessions, including a promise to step down after an upcoming presidential election Protesters refused to accept these oers and demanded both Mubarak's immediate departure and action by the military to resolve the national crisis Finally, on February 11, following an overnight meeting between Mohamed Tantawi, the Chairman of Egypt's Supreme Council of the Armed Forces (SCAF), and President Mubarak, Vice-President Omar Suleiman gave a brief statement announcing that Mubarak had stepped down and handed over political authority to Tantawi and SCAF
 
@@ -534,39 +540,24 @@ Author calculation based on original data collection
 | DEPENDENT VARIABLE | | | | |
 | | Polyarchy Score t + 5 | | | |
 | | 1 | 2 | | |
-| Election or Negotiation Breakthrough | 0.115**<br>(0.053) | 0.157***<br>(0.047) | | |
-| Pre-Breakthrough Polyarchy | | -0.098<br>(0.188) | | |
-| Average Regional Democracy | | 0.306***<br>(0.112) | | |
-| GDP per capita (log) | | 0.071***<br>(0.026) | | |
-| Constant | 0.480***<br>(0.039) | -0.179<br>(0.218) | | |
+| Election or Negotiation Breakthrough | 0.115**
+(0.053) | 0.157***
+(0.047) | | |
+| Pre-Breakthrough Polyarchy | | -0.098
+(0.188) | | |
+| Average Regional Democracy | | 0.306***
+(0.112) | | |
+| GDP per capita (log) | | 0.071***
+(0.026) | | |
+| Constant | 0.480***
+(0.039) | -0.179
+(0.218) | | |
 | Observations | 76 | 68 | | |
 | R2 | 0.060 | 0.363 | | |
 | Adjusted R2 | 0.047 | 0.323 | | |
 | Residual Std. Error | 0.230 (df = 74) | 0.186 (df = 63) | | |
 | F Statistic | 4.716** (df = 1; 74) | 8.981*** (df = 4; 63) | | |
-| Note: | * p < 0.1, ** p < 0.05, *** p < 0.01 | | | |
-
-The complete replication data les, including all analysis les and the complete set of methodological notes and sources for the coding of individual cases are available from the author upon request Contact Jonathan Pinckney via email at **jpinckney@usip.org** or at **www.jonathanpinckney.com**
-
-## ![](_page_36_Figure_0.jpeg)
-
-FIGURE A1: Primary Model Robustness Checks (t + 1 to t + 10)
-
-Author calculation based on Varieties of Democracy dataset
-
-**Figure A1** shows a coecient plot of separate models measuring the impact of achieving breakthrough via negotiations or elections on the level of democracy from time t + 1 through t + 10. The individual points are the coecients, while the lines enclose a 95% condence interval There is a horizontal dashed line at zero Coecients whose lower bound of the condence interval do not cross the zero line are signicant at a p < 0.05 level Each point is from a separate model using the same set of controls from Model 2 in Table A2 and measuring the polyarchy score at the indicated number of years out from the breakthrough Since the independent variable is binary (coded as a one if the breakthrough type was a negotiation or election and as a zero otherwise), the coecient is equal to the marginal eect of these breakthrough types on future polyarchy scores The results indicate that the eect of breakthrough types is robust for the entire decade following the initial breakthrough
-
-## ![](_page_37_Picture_0.jpeg)
-
-## About the Author
-
-Jonathan Pinckney is a Program Ocer with the Program on Nonviolent Action at the United States Institute of Peace, where he conducts research on nonviolent action, peacebuilding, and democratization. He is the author of the book From Dissent to Democracy: The Promise and Peril of Civil Resistance Transitions, from Oxford University Press, as well as a wide range of academic and general audience publications. He received his PhD in 2018 from the University of Denver. He was a 2012 recipient of the Sie Cheou-Kang Fellowship at the University of Denver, and a 2016 recipient of an ICNC PhD Fellowship. The opinions in this piece are solely those of the author and do not necessarily reect the opinions of the United States Institute of Peace.
-
-## ![](_page_38_Picture_0.jpeg)
-
-**ICNC Special Reports aim to bridge research and practice. Drawing on scholarly literature and high quality analytical and empirical analyses, special reports enrich public discourse by expanding scientic knowledge in the eld of civil resistance and providing recommendations for practitioners such as activists, organizers, journalists, and members of INGOs and the policy community.**
-
-> **Special Reports are available for free download at: https://www.nonviolent-conict.org/**
+| Note: | * p  **Special Reports are available for free download at: https://www.nonviolent-conict.org/**
 
 ## **Hard copies are also available for purchase.**
 

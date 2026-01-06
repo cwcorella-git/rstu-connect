@@ -1,25 +1,8 @@
 ---
-title: Occupy Democracy is not considered newsworthy. It should be
-author: David Graeber
-date: 27<sup>th</sup> October 2014
-language: en
-source_url: >-
-  Retrieved on 3<sup>rd</sup> September 2020 from
-  https://www.theguardian.com/commentisfree/2014/oct/27/occupy-democracy-london-parliament-square
-topics:
-  - Occupy
-  - London
-  - UK
-  - protest
-  - police
-original_format: muse
-converted_date: '2025-11-08T11:25:03.153476'
-tags:
-  - Occupy
-  - London
-  - UK
-  - Protest
-  - Police
+title: "Occupy Democracy is not considered newsworthy. It should be"
+author: "David Graeber"
+date: "27<sup>th</sup> October 2014"
+category: "contemporary-analysis"
 ---
 
 You can tell a lot about the moral quality of a society by what is, and is not, considered news.

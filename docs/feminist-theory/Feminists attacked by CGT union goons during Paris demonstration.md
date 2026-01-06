@@ -1,3 +1,8 @@
+---
+title: "## **Feminists attacked by CGT union goons during Paris demonstration**"
+category: "feminist-theory"
+---
+
 ## **Feminists attacked by CGT union goons during Paris demonstration**
 
 ## **Date:** Unknown
@@ -44,11 +49,14 @@ We demand a clear condemnation of this attack, perpetrated by the SO, from colle
 | Spikymike |
 | 8 years 1 month ago |
 | In reply to Welcomebylibcom.org |
-| From a previous<br>post:https://libcom.org/gallery/images-french-cgt-unions-services-dordre-stewards Forthose<br>no familiar with CGT Service d'Ordre. |
+| From a previous
+post:https://libcom.org/gallery/images-french-cgt-unions-services-dordre-stewards Forthose
+no familiar with CGT Service d'Ordre. |
 | Steven. |
 | 8 years 1 month ago |
 | In reply to Welcomebylibcom.org |
-| That's absolutely appalling, even for the thugs of the CGT SO. Have they tried to give<br>justification for it? |
+| That's absolutely appalling, even for the thugs of the CGT SO. Have they tried to give
+justification for it? |
 | Khawaga |
 | 8 years 1 month ago |
 ## | In reply to Welcomebylibcom.org |

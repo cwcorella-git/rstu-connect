@@ -1,3 +1,8 @@
+---
+title: "## **El Salvador: An Anarcha-Feminist Perspective**"
+category: "feminist-theory"
+---
+
 ## **El Salvador: An Anarcha-Feminist Perspective**
 
 ## **Date:** Unknown

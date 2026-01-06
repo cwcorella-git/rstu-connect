@@ -1,3 +1,8 @@
+---
+title: "## **Class War #64 1994**"
+category: "anti-war-peace"
+---
+
 ## **Class War #64 1994**
 
 | Date: Unknown |
@@ -5,7 +10,8 @@
 | Source: https://libcom.org/article/class-war-64-1994|
 | Tags: Class War Federation, 1990s, PDF |
 | An issue of Class War from September 1994 including: identity cards, struggles at the Post |
-| Office, criminal cops, Bridgewater Four, anti-roads movement, housing, letters, book and film<br>reviews, football, boxing. |
+| Office, criminal cops, Bridgewater Four, anti-roads movement, housing, letters, book and film
+reviews, football, boxing. |
 | |
 | PDF courtesy of Sparrows Nest Archive, Nottingham. |
 | R Totale |
@@ -22,7 +28,8 @@
 | |
 | 3 years 5 months ago |
 
-| That makes sense, seems like the comments might have disappeared with the change to the<br>new format though? |
+| That makes sense, seems like the comments might have disappeared with the change to the
+new format though? |
 |---------------------------------------------------------------------------------------------------------------|
 | Fozzie |
 | 3 years 5 months ago |

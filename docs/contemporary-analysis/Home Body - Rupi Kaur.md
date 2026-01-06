@@ -1,3 +1,8 @@
+---
+title: "## ![](_page_0_Picture_0.jpeg)"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 ## ![](_page_1_Picture_0.jpeg)

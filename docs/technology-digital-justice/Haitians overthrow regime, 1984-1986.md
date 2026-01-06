@@ -1,3 +1,8 @@
+---
+title: "## **Haitians overthrow regime, 1984-1986**"
+category: "technology-digital-justice"
+---
+
 ## **Haitians overthrow regime, 1984-1986**
 
 ## **Date:** Unknown

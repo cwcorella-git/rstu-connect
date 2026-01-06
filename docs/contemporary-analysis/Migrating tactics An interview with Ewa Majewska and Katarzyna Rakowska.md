@@ -1,3 +1,8 @@
+---
+title: "## **Migrating tactics: An interview with Ewa Majewska and Katarzyna Rakowska**"
+category: "contemporary-analysis"
+---
+
 ## **Migrating tactics: An interview with Ewa Majewska and Katarzyna Rakowska**
 
 ## **Date:** Unknown

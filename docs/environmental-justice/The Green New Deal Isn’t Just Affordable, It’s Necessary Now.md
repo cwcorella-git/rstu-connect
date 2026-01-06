@@ -1,19 +1,27 @@
+---
+title: "## **The Green New Deal Isn't Just Affordable, It's Necessary Now**"
+category: "environmental-justice"
+---
+
 ## **The Green New Deal Isn't Just Affordable, It's Necessary Now**
 
 | Date: Wed, 02/27/2019 - 00:00 |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Source: https://ecology.iww.org/node/3217|
-| Tags: Ryan Smith, green unionism, IWW Environmental Unionism Caucus, Industrial Workers of the<br>World (IWW), Green New Deal (GND) |
+| Tags: Ryan Smith, green unionism, IWW Environmental Unionism Caucus, Industrial Workers of the
+World (IWW), Green New Deal (GND) |
 | By Ryan Smith - |
 | Broke Ass Stuart |
 | , February 27, 2019 |
 | Editor's Note: |
-| the IWW has not taken a position on the Green New Deal; the author is a cofounder of the<br>IWW EUC; the image is from |
+| the IWW has not taken a position on the Green New Deal; the author is a cofounder of the
+IWW EUC; the image is from |
 | the Intercept |
 | |
 | The |
 | Green New Deal resolution |
-| Rep. Alexandra Ocasio-Cortez (D-NY) and Senator Ed Markey (D-MA) have proposed has<br>captured the attention of the American public like nothing else. The deal presents a sweeping |
+| Rep. Alexandra Ocasio-Cortez (D-NY) and Senator Ed Markey (D-MA) have proposed has
+captured the attention of the American public like nothing else. The deal presents a sweeping |
 
 vision for meeting the challenge of climate change by creating a more just, equitable and equal society — in the weeks since its introduction, the Green New Deal has stirred up enormous controversy. It's been co-sponsored by five Democratic presidential candidates and panned by others like Senator Diane Feinstein (D-CA) and former Rep. John Delaney (D-MD) as unrealistic with Delaney going so far as to say: " The Green New Deal as it has been proposed is about as realistic as Trump saying that Mexico is going to pay for the wall. Let's focus on what's possible, not what's impossible. " Donald Trump easily takes the cake when he said, "I really don't like their policy of taking away your car, of taking away your airplane rights, of 'let's hop a train to California,' of you're not allowed to own cows anymore!" In fairness, you have to be impressed by Trump topping former President George HW Bush's ranting that environmental regulations would leave everyone jobless, " and up to our necks in owls!"
 

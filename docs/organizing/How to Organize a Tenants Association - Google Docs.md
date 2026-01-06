@@ -3,12 +3,7 @@ title: "How to Organize a Tenants Association"
 author: "Reno Sparks Tenants Union"
 date: "2025-08-05"
 source: "https://renosparkstenantsunion.org/organizing/how-to-organize-a-tenants-association/"
-tags:
-  - organizing
-  - tenants association
-  - how-to
-  - rstu
-  - tutorial
+category: "organizing"
 ---
 
 # How to Organize a Tenants Association

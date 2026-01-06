@@ -1,6 +1,13 @@
+---
+title: "## **White Australia has a Black History**"
+category: "contemporary-analysis"
+---
+
 ## **White Australia has a Black History**
 
-| Date: Fri, 05/13/2016 - 16:24<br>Source: https://ecology.iww.org/node/1640<br>Tags: Australia, environmental racism, combating racism |
+| Date: Fri, 05/13/2016 - 16:24
+Source: https://ecology.iww.org/node/1640
+Tags: Australia, environmental racism, combating racism |
 |---------------------------------------------------------------------------------------------------------------------------------------|
 | By Patricia Olive Corowa - |
 | IWW Environmental Unionism Caucus |
@@ -27,4 +34,5 @@
 | We hold our heads up high! |
 | But from strength to strength we go Ever Onwards! |
 | Disclaimer: |
-| The views expressed here are not the official position of the IWW (or even the IWW's EUC)<br>and do not necessarily represent the views of anyone but the author's. |
+| The views expressed here are not the official position of the IWW (or even the IWW's EUC)
+and do not necessarily represent the views of anyone but the author's. |

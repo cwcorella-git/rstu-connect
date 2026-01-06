@@ -1,11 +1,8 @@
 ---
-title: Video How To Organize a General Strike
-date: 2025
-author: Industrial Workers of the World
-tags:
-  - organizing
-  - strikes
-  - labor
+title: "Video How To Organize a General Strike"
+author: "Industrial Workers of the World"
+date: "2025"
+category: "labor"
 ---
 
 # Video How To Organize a General Strike

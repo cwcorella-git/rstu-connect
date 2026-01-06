@@ -1,3 +1,8 @@
+---
+title: "## [theamericanscholar.org](https://theamericanscholar.org/affirmative-inaction/)"
+category: "contemporary-analysis"
+---
+
 ## [theamericanscholar.org](https://theamericanscholar.org/affirmative-inaction/)
 
 ## **Affirmative Inaction - The American Scholar**
@@ -32,7 +37,8 @@ But before all else, it's worth asking whether affirmative action is really need
 |---------------------|---------|-----|-----|
 | Asian | 513 | 581 | 516 |
 | Black | 430 | 426 | 424 |
-| Mexican<br>American | 454 | 463 | 447 |
+| Mexican
+American | 454 | 463 | 447 |
 | White | 528 | 537 | 518 |
 ## | All | 502 | 515 | 494 |
 

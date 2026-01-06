@@ -1,11 +1,10 @@
 ---
-date: 2025
-author: Unknown
-tags:
-  - organizing
-  - labor
 title: "Starting a community garden 101"
+author: "Unknown"
+date: "2025"
+category: "organizing"
 ---
+
 # Starting a community garden 101
 
 *Converted from: `./Starting a community garden 101.pdf`*  
@@ -61,9 +60,7 @@ garden movie nights, or host a full moon gathering. The food is the hook, but th
 solidarity.
 
 
-
 A community garden is a tiny revolution in your own backyard. It’s a way to say: “We take care
 of each other here.” Ready to plant the first seed?
 
 ---
-

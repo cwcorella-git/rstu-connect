@@ -1,3 +1,8 @@
+---
+title: "## **On school**"
+category: "theory"
+---
+
 ## **On school**
 
 ## **Date:** Unknown

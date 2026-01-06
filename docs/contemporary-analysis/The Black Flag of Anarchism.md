@@ -1,3 +1,8 @@
+---
+title: "## **Paul Goodman**"
+category: "contemporary-analysis"
+---
+
 ## **Paul Goodman**
 
 ## **The Black Flag of Anarchism**

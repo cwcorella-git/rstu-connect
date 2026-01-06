@@ -1,3 +1,8 @@
+---
+title: "## **Frontlines to Big Greens: Stand with us in calling for #Ceasefire now and Justice for Palestine"
+category: "environmental-justice"
+---
+
 ## **Frontlines to Big Greens: Stand with us in calling for #Ceasefire now and Justice for Palestine**
 
 ## **Date:** Tue, 10/31/2023 - 00:00
@@ -39,9 +44,13 @@ Additional Resources:
 | Michigan Environmental Justice Coalition |
 | Movement for Black Lives Statement |
 | Rising Majority Statement |
-| Emergency funds are urgently needed. To move resources directly to Palestine, we<br>recommend moving funds to |
+| Emergency funds are urgently needed. To move resources directly to Palestine, we
+recommend moving funds to |
 | Grassroots International |
-| , who has long-term relationships in the region and a commitment to movement-building. They<br>are moving funding in limited ways right now, and are poised to move large-scale funding to<br>Gaza as soon as it is possible, and to support groups impacted by repression in the 1948<br>lands, Jerusalem, and the West Bank. Additional resources: |
+| , who has long-term relationships in the region and a commitment to movement-building. They
+are moving funding in limited ways right now, and are poised to move large-scale funding to
+Gaza as soon as it is possible, and to support groups impacted by repression in the 1948
+lands, Jerusalem, and the West Bank. Additional resources: |
 | Middle East Children's Alliance |
 | Medical Aid for Palestinians |
 | Rawa Fund |

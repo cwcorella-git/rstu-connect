@@ -1,3 +1,8 @@
+---
+title: "## **the role of the artist is to load the gun.**"
+category: "arts-culture-music"
+---
+
 ## **the role of the artist is to load the gun.**
 
 ## **Date:** 2024-04-11
@@ -7,12 +12,18 @@
 | an essay nearly entitled, "the orange trees teach me art-making." |
 | Toni Cade Bambara speaks at University in 1983, with ismatu's handwriting superimposed. |
 | introductions |
-| I write to you in a moment from 2024, where the sounds of the machine, business as usual,<br>keep me up at night (words of @ivi_with_art on instagram). This loop of time, existing at once<br>as a result of previous realities and made new in our iterations, contains human desires<br>materialized into cascading moments of beauty juxtaposed with heinous war and<br>death-making— and I am here, still breathing, an artist with goals of freedom. I am here to<br>discuss what I owe to myself and what I owe to the people who make and remake me. |
+| I write to you in a moment from 2024, where the sounds of the machine, business as usual,
+keep me up at night (words of @ivi_with_art on instagram). This loop of time, existing at once
+as a result of previous realities and made new in our iterations, contains human desires
+materialized into cascading moments of beauty juxtaposed with heinous war and
+death-making— and I am here, still breathing, an artist with goals of freedom. I am here to
+discuss what I owe to myself and what I owe to the people who make and remake me. |
 | Of course, we have to define terms before we go anywhere. |
 | What is art? |
 | While I personally think art is defined best by its |
 | effect |
-| rather than its mere existence, I submit collected definitions across a few dictionaries to find<br>more tangible ideas. |
+| rather than its mere existence, I submit collected definitions across a few dictionaries to find
+more tangible ideas. |
 | art (noun): |
 ## | |
 
@@ -93,7 +104,8 @@ exposition of a new world.
 | 3 |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ) |
-| This world is still actively being made. What constitutes power in the hands of the masses?<br>What methods of world-making are truly available to us? |
+| This world is still actively being made. What constitutes power in the hands of the masses?
+What methods of world-making are truly available to us? |
 | Let's begin. |
 | The Madness of Opulence |
 | A transition at Beyoncé's world tour Renaissance. |
@@ -101,7 +113,9 @@ exposition of a new world.
 | From |
 | The Century Dictionary |
 | : Opulence, Wealth, Riches, Affluence. |
-| All these words imply not only the possession of much property, but the possession of it under<br>such circumstances that it can be and is enjoyed. They seem contrasted not only with the■r<br>opposites, but with the possession of a moderate amount. |
+| All these words imply not only the possession of much property, but the possession of it under
+such circumstances that it can be and is enjoyed. They seem contrasted not only with the■r
+opposites, but with the possession of a moderate amount. |
 | Opulence |
 | is a dignified and strong word for |
 
@@ -139,7 +153,9 @@ Currency in this society— cash, social capital, stock portfolios and assets, p
 | your |
 | world in |
 | your |
-| image. Thus, under capitalism, the brilliance of world-making synthesizes in blue-band<br>hundreds. Drugs are here to make you feel comfortable, euphoric, powerful; recall the claim at<br>the top of this essay: |
+| image. Thus, under capitalism, the brilliance of world-making synthesizes in blue-band
+hundreds. Drugs are here to make you feel comfortable, euphoric, powerful; recall the claim at
+the top of this essay: |
 | 1 |
 | ) One of the greatest powers held in the human sovereign world is the |
 | power to create and destroy: |
@@ -158,8 +174,12 @@ Opulence: that fragrance that blooms off the wealthy, not just having a lot but 
 | They must |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | want |
-| to be down there, broke, starving; it's all a mindset. They must not quite… deserve it like I<br>deserve it. Take another hit. Take another hit. |
-| The wealthy find new ways to bloom, they take another hit, another party, another award<br>show, another private yacht/jet/island and we, the masses left down here to rot amongst their<br>ruins, wanting so desperately to escape the hellscapes made for us, gaze upwards and long<br>to be up |
+| to be down there, broke, starving; it's all a mindset. They must not quite… deserve it like I
+deserve it. Take another hit. Take another hit. |
+| The wealthy find new ways to bloom, they take another hit, another party, another award
+show, another private yacht/jet/island and we, the masses left down here to rot amongst their
+ruins, wanting so desperately to escape the hellscapes made for us, gaze upwards and long
+to be up |
 | there |
 | , glittering, with far better drugs. |
 | world-making shapes truth. |
@@ -214,13 +234,20 @@ Art-making is world-making: the art of marketability and riding waves of viralit
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | why |
 | . What important truth is being formed here? |
-| Let's return to Toni Cade Bambara's, "my job is to make revolution irresistible." Lesser known<br>is the morsel she said just before defining |
+| Let's return to Toni Cade Bambara's, "my job is to make revolution irresistible." Lesser known
+is the morsel she said just before defining |
 | her |
-| job as one artist belonging to oppressed people, in answer to the question "what is the task of<br>the artist?" |
-| The task of the artist is determined always by the status and process and agenda of the<br>community that it already serves. If you're an artist who identities with, who springs from, who<br>is served by or drafted by a bourgeois capitalist class, then that's the kind of writing you do.<br>Your job is to maintain a status quo, to celebrate exploitation or to guise in some lovely,<br>romantic way. That's your job. |
+| job as one artist belonging to oppressed people, in answer to the question "what is the task of
+the artist?" |
+| The task of the artist is determined always by the status and process and agenda of the
+community that it already serves. If you're an artist who identities with, who springs from, who
+is served by or drafted by a bourgeois capitalist class, then that's the kind of writing you do.
+Your job is to maintain a status quo, to celebrate exploitation or to guise in some lovely,
+romantic way. That's your job. |
 | Then and only then does she follow with the famous maxim: |
 | my |
-| role as a culture worker belonging to oppressed people is to make revolution irresistible. But<br>that certainly is not |
+| role as a culture worker belonging to oppressed people is to make revolution irresistible. But
+that certainly is not |
 | every |
 ## | |
 
@@ -244,15 +271,19 @@ Who benefits from those beliefs?
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Celebrity requires aspiration to maintain the hierarchy |
 | and |
-| enough relatability such that we see themselves in us and don't wish to seize back the power<br>they siphon. This often results in artistic powerhouses dressing their works in bite-sized<br>pieces of revolution… which, to |
+| enough relatability such that we see themselves in us and don't wish to seize back the power
+they siphon. This often results in artistic powerhouses dressing their works in bite-sized
+pieces of revolution… which, to |
 | me |
 | , is insidious. Absolutely nasty work. The art |
 | does |
-| absolutely reflect the times: it tells truths most beneficial for those in charge of current<br>world-making. |
+| absolutely reflect the times: it tells truths most beneficial for those in charge of current
+world-making. |
 | I think what we're craving is usable truths for |
 | us |
 | , a lovely understanding of art further expanded upon by Toni Cade Bambara: |
-| I want to lift up some usable truths. I want to lift up some usable truths, like the fact that the<br>simple act of cornrowing one's hair is radical in a society that defines beauty as blonde |
+| I want to lift up some usable truths. I want to lift up some usable truths, like the fact that the
+simple act of cornrowing one's hair is radical in a society that defines beauty as blonde |
 
 tresses blowing in the wind, that staying centered in the best of one's own cultural tradition is hip, is sane, is perfectly fine despite all the claims to universality through Anglo-Saxonizing
 
@@ -273,29 +304,44 @@ in Sudan, when hundreds of thousands marched to the military headquarters and be
 | Remember what we began with: |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | I start with the recognition that we are at war. |
-| If art-making is world-making, and world-making is essential to liberation[link essay]: what is<br>the world we would rather be living in? How do we then march |
+| If art-making is world-making, and world-making is essential to liberation[link essay]: what is
+the world we would rather be living in? How do we then march |
 | toward |
 | that instead of a away from |
 | something |
 | ? |
-| In the United States, the war being fought is through information. It is not profitable for the<br>core of the empire, the supposed envy of the world to have bullets raining down on their<br>civilians all the time. So they subdue us through the truths they tell, and the truths that allow to<br>be told. They make war on us via their policies (remember: poverty is a policy choice, not an<br>inevitable circumstance of humanity). And, as a whole, this is war that hides itself in plain<br>sight. Our attention spans are shortened so that we are blanked with atrocities followed by<br>puppies to keep even our means of information-sharing a drug. |
+| In the United States, the war being fought is through information. It is not profitable for the
+core of the empire, the supposed envy of the world to have bullets raining down on their
+civilians all the time. So they subdue us through the truths they tell, and the truths that allow to
+be told. They make war on us via their policies (remember: poverty is a policy choice, not an
+inevitable circumstance of humanity). And, as a whole, this is war that hides itself in plain
+sight. Our attention spans are shortened so that we are blanked with atrocities followed by
+puppies to keep even our means of information-sharing a drug. |
 | Art by |
 | Yousif |
-| from Sudan; alt text: many people curve across the right half of the picture, making a<br>semicircle and drawn with the implication of a much larger crowd than what's in frame. They |
+| from Sudan; alt text: many people curve across the right half of the picture, making a
+semicircle and drawn with the implication of a much larger crowd than what's in frame. They |
 
 all have eyes towards a minibus, with many reaching arms out to try and get inside. The
 
-| minibus has a door open and feet dangling out, as if someone just got inside. There is a little<br>girl in a pink frilled dress and a bow in her hair almost in the middle of the piece; she dives for<br>the minibus, having been flung by her mother. |
+| minibus has a door open and feet dangling out, as if someone just got inside. There is a little
+girl in a pink frilled dress and a bow in her hair almost in the middle of the piece; she dives for
+the minibus, having been flung by her mother. |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Sudan has had a thrilling recent history of overt war: |
 | the people won their popular revolution in 2019. They won. |
 | That is actually |
 | the backdrop for the current war of attrition occurring now |
-| , where two military groups kill each other with as many civilian casualties and atrocities as<br>possible to make them easier to control when gaining power [pause: that linked article by |
+| , where two military groups kill each other with as many civilian casualties and atrocities as
+possible to make them easier to control when gaining power [pause: that linked article by |
 | Yassmin Abdel-Magied |
 | and |
 | Alaa Satir |
-| is superb. It is the best breakdown of the current war I have read synthesized to date. Please<br>read it]. In Sudan's popular uprisings, the artist is in the unique position of truth-telling. From<br>the photography ingenuity hallmarked by Rashid Mahdi and the current renaissance of art<br>aided by the internet mirror each other in how much they resonate with the people rather than<br>the wills of dictators. Art that reflected Sudan back to herself led her to her own freedom. |
+| is superb. It is the best breakdown of the current war I have read synthesized to date. Please
+read it]. In Sudan's popular uprisings, the artist is in the unique position of truth-telling. From
+the photography ingenuity hallmarked by Rashid Mahdi and the current renaissance of art
+aided by the internet mirror each other in how much they resonate with the people rather than
+the wills of dictators. Art that reflected Sudan back to herself led her to her own freedom. |
 | I read an excellent |
 | (!!! excellent) article |
 

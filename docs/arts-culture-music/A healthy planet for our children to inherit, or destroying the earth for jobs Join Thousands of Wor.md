@@ -1,3 +1,8 @@
+---
+title: "## **A healthy planet for our children to inherit, or destroying the earth for jobs? Join Thousands "
+category: "arts-culture-music"
+---
+
 ## **A healthy planet for our children to inherit, or destroying the earth for jobs? Join Thousands of Workers in Saying: We Will No Longer Accept This Choice!**
 
 ## **Date:** Sun, 02/26/2017 - 12:31

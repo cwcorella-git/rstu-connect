@@ -1,3 +1,8 @@
+---
+title: "**Text of Irish Republican Army (IRA) 'Green Book' (Book I and II)**"
+category: "environmental-justice"
+---
+
 ## ![](_page_0_Picture_2.jpeg)
 
 #### CAIN Web Service

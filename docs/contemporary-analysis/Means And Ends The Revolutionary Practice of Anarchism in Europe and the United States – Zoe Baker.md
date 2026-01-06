@@ -1,3 +1,8 @@
+---
+title: "## **Means And Ends: The Revolutionary Practice of Anarchism in Europe and the United States – Zoe B"
+category: "contemporary-analysis"
+---
+
 ## **Means And Ends: The Revolutionary Practice of Anarchism in Europe and the United States – Zoe Baker**
 
 ## **Date:** Unknown
@@ -71,12 +76,24 @@ I'm guessing you're a Marxist, as you seem pretty defensive about it. In my view
 | Steven. |
 | 1 year 2 months ago |
 | In reply to Hi @libcomorg. Noticed the…byadri |
-| adri wrote:You can often tell a lot about a person and their works by just looking at the sort of<br>crowd they attract. It's also sort of funny how the word "based" seems to have been embraced<br>by some Zoomer anarchists (or maybe just morons, irrespective of generation?) when it had<br>been a popular slang term within the alt-right and other right-wing circles. |
-| It seems like you just can't stop talking about things you clearly know absolutely nothing<br>about. The fact you think the word "based" has anything to do with the alt right is hilarious, and<br>just shows that you are very detached from popular culture. The word "based" means "good"<br>or "cool", and was coined by the rapper Lil B around 15 years ago, and has been in<br>widespread use since then. That you are trying to use people using a common word to try to<br>tie them to fascists and Nazis is perhaps the most ridiculous thing anyone has said on this site<br>all year. |
+| adri wrote:You can often tell a lot about a person and their works by just looking at the sort of
+crowd they attract. It's also sort of funny how the word "based" seems to have been embraced
+by some Zoomer anarchists (or maybe just morons, irrespective of generation?) when it had
+been a popular slang term within the alt-right and other right-wing circles. |
+| It seems like you just can't stop talking about things you clearly know absolutely nothing
+about. The fact you think the word "based" has anything to do with the alt right is hilarious, and
+just shows that you are very detached from popular culture. The word "based" means "good"
+or "cool", and was coined by the rapper Lil B around 15 years ago, and has been in
+widespread use since then. That you are trying to use people using a common word to try to
+tie them to fascists and Nazis is perhaps the most ridiculous thing anyone has said on this site
+all year. |
 | adri |
 | 1 year 2 months ago |
-| Steve wrote:The fact you think the word "based" has anything to do with the alt right is<br>hilarious, and just shows that you are very detached from popular culture. |
-| It was widely associated with the alt-right and the right-wing internet/meme subculture,<br>particularly sites like 4chan. Its adoption by Zoomers is a recent development partly reflecting<br>how much time younger people spend on the internet these days. The majority of people |
+| Steve wrote:The fact you think the word "based" has anything to do with the alt right is
+hilarious, and just shows that you are very detached from popular culture. |
+| It was widely associated with the alt-right and the right-wing internet/meme subculture,
+particularly sites like 4chan. Its adoption by Zoomers is a recent development partly reflecting
+how much time younger people spend on the internet these days. The majority of people |
 
 saying "based," "redpilled" etc. five or so years ago mostly belonged to the far-right, though
 
@@ -103,12 +120,17 @@ This applies to you to a much greater extent, if people read some of your recent
 | adri |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1 year 2 months ago |
-| I'm also a year shy of being a Zoomer myself (the date ranges for generations vary depending<br>on the source), so it's sort of amusing being lectured on internet slang by a dinosaur like<br>yourself. |
+| I'm also a year shy of being a Zoomer myself (the date ranges for generations vary depending
+on the source), so it's sort of amusing being lectured on internet slang by a dinosaur like
+yourself. |
 | adri |
 | 1 year 2 months ago |
-| Steve wrote:The fact you think the word "based" has anything to do with the alt right is<br>hilarious, and just shows that you are very detached from popular culture. |
+| Steve wrote:The fact you think the word "based" has anything to do with the alt right is
+hilarious, and just shows that you are very detached from popular culture. |
 | We can also consult Wiktionary: |
-| The term ["based"] is formerly associated primarily with the alt right, but is currently used<br>colloquially by non-alt right individuals, mostly without any political implications, although it<br>might have political implications for certain individuals. |
+| The term ["based"] is formerly associated primarily with the alt right, but is currently used
+colloquially by non-alt right individuals, mostly without any political implications, although it
+might have political implications for certain individuals. |
 | Wow, it's just like I said—strange isn't it? You're so cringe Steve, big yikes. |
 | R Totale |
 | 1 year 2 months ago |

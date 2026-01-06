@@ -1,15 +1,10 @@
 ---
-title: The Conquest of Bread
-author: Peter Kropotkin
-slug: the-conquest-of-bread
-date: 1892
-tags:
-  - theory
-  - anarchism
-  - strikes
-  - unions
-  - tenants
+title: "The Conquest of Bread"
+author: "Peter Kropotkin"
+date: "1892"
+category: "theory"
 ---
+
 ## **The Conquest of Bread**
 
 #### **Peter Kropotkin**
@@ -2037,7 +2032,8 @@ Before such an irresistible force "conspiring kings" will be powerless. Nothing 
 | Corn and Cereals | 494,000 |
 ## | Natural and artificial meadows | 494,000 |
 
-| Vegetables and fruit | from 17,300 to<br>25,000 |
+| Vegetables and fruit | from 17,300 to
+25,000 |
 |------------------------------------------------------------|--------------------------|
 | Leaving a balance for houses, roads, parks, forests | 494,000 |
 | Quantity of annual work necessary to improve and cultivate | |

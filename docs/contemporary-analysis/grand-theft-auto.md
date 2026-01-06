@@ -1,3 +1,8 @@
+---
+title: "Race'n'Chase Game Design"
+category: "contemporary-analysis"
+---
+
 # Race'n'Chase Game Design
 
 ## Version 1.05 March 22, 1995
@@ -12,8 +17,10 @@
 | 1.01 | K. R. Hamilton | January 30, 1995 | Revision after meeting |
 | 1.02 | K. R. Hamilton | February 6, 1995 | of 30/01/95 Revision after meeting of 06/02/95 |
 | 1.03 | K. R. Hamilton | February 20, 1995 | Revision after meeting of 20/02/95 |
-| 1.04 | K. R. Hamilton | March 6, 1995 | Revision after meeting<br>of 06/03/95 |
-| 1.05 | K. R. Hamilton | March 22, 1995 | Revision after meeting<br>of 21/03/95 |
+| 1.04 | K. R. Hamilton | March 6, 1995 | Revision after meeting
+of 06/03/95 |
+| 1.05 | K. R. Hamilton | March 22, 1995 | Revision after meeting
+of 21/03/95 |
 
 # **Table of Contents**
 

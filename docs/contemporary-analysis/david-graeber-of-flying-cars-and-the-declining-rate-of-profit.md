@@ -1,31 +1,8 @@
 ---
-title: Of Flying Cars and the Declining Rate of Profit
-author: David Graeber
-date: '2012'
-pubdate: '2016-02-18T07:18:40'
-language: en
-source_url: >-
-  Retrieved on February 18th, 2016 from
-  http://thebaffler.com/salvos/of-flying-cars-and-the-declining-rate-of-profit
-notes: 'From <em>The Baffler</em>, No. 19 (2012), pp. 66–90'
-topics:
-  - science
-  - technology
-  - history
-  - futurism
-  - postmodernism
-  - cold war
-  - David Graeber
-original_format: muse
-converted_date: '2025-11-08T11:25:03.156865'
-tags:
-  - Science
-  - Technology
-  - History
-  - Futurism
-  - Postmodernism
-  - Cold War
-  - David Graeber
+title: "Of Flying Cars and the Declining Rate of Profit"
+author: "David Graeber"
+date: "2012"
+category: "contemporary-analysis"
 ---
 
 A secret question hovers over us, a sense of disappointment, a broken promise we were given as children about what our adult world was supposed to be like. I am referring not to the standard false promises that children are always given (about how the world is fair, or how those who work hard shall be rewarded), but to a particular generational promise—given to those who were children in the fifties, sixties, seventies, or eighties—one that was never quite articulated as a promise but rather as a set of assumptions about what our adult world would be like. And since it was never quite promised, now that it has failed to come true, we’re left confused: indignant, but at the same time, embarrassed at our own indignation, ashamed we were ever so silly to believe our elders to begin with.
@@ -148,11 +125,9 @@ There was a time when academia was society’s refuge for the eccentric, brillia
 
 If all this is true in the social sciences, where research is still carried out with minimal overhead largely by individuals, one can imagine how much worse it is for astrophysicists. And, indeed, one astrophysicist, Jonathan Katz, has recently warned students pondering a career in the sciences. Even if you do emerge from the usual decade-long period languishing as someone else’s flunky, he says, you can expect your best ideas to be stymied at every point:
 
-<quote>
 
 *You will spend your time writing proposals rather than doing research. Worse, because your proposals are judged by your competitors, you cannot follow your curiosity, but must spend your effort and talents on anticipating and deflecting criticism rather than on solving the important scientific problems. . . . It is proverbial that original ideas are the kiss of death for a proposal, because they have not yet been proved to work.*
 
-</quote>
 
 That pretty much answers the question of why we don’t have teleportation devices or antigravity shoes. Common sense suggests that if you want to maximize scientific creativity, you find some bright people, give them the resources they need to pursue whatever idea comes into their heads, and then leave them alone. Most will turn up nothing, but one or two may well discover something. But if you want to minimize the possibility of unexpected breakthroughs, tell those same people they will receive no resources at all unless they spend the bulk of their time competing against each other to convince you they know in advance what they are going to discover.
 
@@ -160,11 +135,9 @@ In the natural sciences, to the tyranny of managerialism we can add the privatiz
 
 There are many forms of privatization, up to and including the simple buying up and suppression of inconvenient discoveries by large corporations fearful of their economic effects. (We cannot know how many synthetic fuel formulae have been bought up and placed in the vaults of oil companies, but it’s hard to imagine nothing like this happens.) More subtle is the way the managerial ethos discourages everything adventurous or quirky, especially if there is no prospect of immediate results. Oddly, the Internet can be part of the problem here. As Neal Stephenson put it:
 
-<quote>
 
 *Most people who work in corporations or academia have witnessed something like the following: A number of engineers are sitting together in a room, bouncing ideas off each other. Out of the discussion emerges a new concept that seems promising. Then some laptop-wielding person in the corner, having performed a quick Google search, announces that this “new” idea is, in fact, an old one; it—or at least something vaguely similar—has already been tried. Either it failed, or it succeeded. If it failed, then no manager who wants to keep his or her job will approve spending money trying to revive it. If it succeeded, then it’s patented and entry to the market is presumed to be unattainable, since the first people who thought of it will have “first-mover advantage” and will have created “barriers to entry.” The number of seemingly promising ideas that have been crushed in this way must number in the millions.*
 
-</quote>
 
 And so a timid, bureaucratic spirit suffuses every aspect of cultural life. It comes festooned in a language of creativity, initiative, and entrepreneurialism. But the language is meaningless. Those thinkers most likely to make a conceptual breakthrough are the least likely to receive funding, and, if breakthroughs occur, they are not likely to find anyone willing to follow up on their most daring implications.
 

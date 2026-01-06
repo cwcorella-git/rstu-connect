@@ -1,3 +1,8 @@
+---
+title: "**Nostalgia in the UK - Bash Street Kids**"
+category: "contemporary-analysis"
+---
+
 # **Nostalgia in the UK - Bash Street Kids**
 
 ## **Date:** Unknown
@@ -124,7 +129,8 @@ In the above we've largely avoided talking about who's been indulging in this fe
 
 Originally appeared in Smash Hits issue 3, October 1998.
 
-| (Smash Hits was a discussion bulletin that arose in the aftermath of the fragmentation/'end' of<br>the Class War Federation in 1997). |
+| (Smash Hits was a discussion bulletin that arose in the aftermath of the fragmentation/'end' of
+the Class War Federation in 1997). |
 |---------------------------------------------------------------------------------------------------------------------------------------|
 | |
 | |

@@ -1,3 +1,8 @@
+---
+title: "## **Workers at Curbside Recycling Win Raise, Paid Time Off**"
+category: "technology-digital-justice"
+---
+
 ## **Workers at Curbside Recycling Win Raise, Paid Time Off**
 
 ## **Date:** Wed, 09/22/2021 - 00:00

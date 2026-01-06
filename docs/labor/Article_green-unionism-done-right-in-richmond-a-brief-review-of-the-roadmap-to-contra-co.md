@@ -1,15 +1,8 @@
 ---
-title: >-
-  Green Unionism Done Right in Richmond: A Brief Review of the Roadmap To
-  Richmond
-date: 2025
-author: Industrial Workers of the World
-tags:
-  - organizing
-  - unions
-  - housing
-  - rent
-  - labor
+title: ">-"
+author: "Industrial Workers of the World"
+date: "2025"
+category: "labor"
 ---
 
 # Green Unionism Done Right in Richmond a Brief Review of the Roadmap To Contra Co

@@ -1,3 +1,8 @@
+---
+title: "## **Monsanto Facing Public Trial for Ecocide and Violation of Farmers' Rights**"
+category: "food-justice"
+---
+
 ## **Monsanto Facing Public Trial for Ecocide and Violation of Farmers' Rights**
 
 ## **Date:** Sun, 10/16/2016 - 14:51
@@ -26,7 +31,9 @@ Resources for journalists: www.peoplesassembly.net www.monsanto-tribunal.org www
 
 The People's Assembly will take place, 14 to 16 October in The Hague, Bazaar of Ideas (next to the Student Hotel) – Hoefkade 9, 2526 BN Den Haag
 
-| For more information, audiovisual material, for accreditation and to interviews with the<br>president of Navdanya, Vandana Shiva, and with the Director of Navdanya in Italy, Ruchi<br>Shroff. |
+| For more information, audiovisual material, for accreditation and to interviews with the
+president of Navdanya, Vandana Shiva, and with the Director of Navdanya in Italy, Ruchi
+Shroff. |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Navdanya is a movement for Earth Democracy based on the philosophy of ' |
 | Vasudhaiv Kutumbakam |
@@ -36,5 +43,6 @@ The People's Assembly will take place, 14 to 16 October in The Hague, Bazaar of 
 | Gyan swaraj |
 | |
 | Disclaimer: |
-| The views expressed here are not the official position of the IWW (or even the IWW's EUC)<br>and do not necessarily represent the views of anyone but the author's. |
+| The views expressed here are not the official position of the IWW (or even the IWW's EUC)
+and do not necessarily represent the views of anyone but the author's. |
 ## | |

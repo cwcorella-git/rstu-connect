@@ -1,3 +1,8 @@
+---
+title: "**Northern Ireland, the IRA and Class War**"
+category: "anti-war-peace"
+---
+
 # **Northern Ireland, the IRA and Class War**
 
 ## **Date:** Unknown
@@ -219,13 +224,17 @@ How are you doing for yourself by the way?
 | The Outlaw |
 | 15 years 8 months ago |
 | In reply to Welcomebylibcom.org |
-| Those "butchers" got pushed into that extreme, just like the people in the middle east. After<br>all, one mans terrorist is another mans freedom fighter. |
-| To me, it seems like you're on the Imperialist side of the argument, i wish the workers out their<br>struggling the best of wishes. |
-| And the few people (civilians) that the IRA have killed (many by accident) pale in comparison<br>to the deaths caused by the imperialists in Ireland and in the Middle East. |
+| Those "butchers" got pushed into that extreme, just like the people in the middle east. After
+all, one mans terrorist is another mans freedom fighter. |
+| To me, it seems like you're on the Imperialist side of the argument, i wish the workers out their
+struggling the best of wishes. |
+| And the few people (civilians) that the IRA have killed (many by accident) pale in comparison
+to the deaths caused by the imperialists in Ireland and in the Middle East. |
 | The Outlaw |
 | 15 years 8 months ago |
 | In reply to Welcomebylibcom.org |
-| The shady alliances the IRA have gone onto form have been purely to further the fight, to form<br>a united fight back against the capitalist imperialist cunts. |
+| The shady alliances the IRA have gone onto form have been purely to further the fight, to form
+a united fight back against the capitalist imperialist cunts. |
 | Party Bucket |
 | 15 years 8 months ago |
 
@@ -233,14 +242,18 @@ How are you doing for yourself by the way?
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | THE OUTLAW |
 | i wish the workers out their struggling the best of wishes. |
-| The 'struggles' like Visteon, Royal Mail, Fu Jitsu, you mean? Ones which had nothing to do<br>with your precious 'anti-imperialism'. The 'national question' is becoming less and less<br>important to more and more people, other than the fact that a return to your beloved 'armed<br>struggle' is the absolute last thing they want. THE OUTLAW |
+| The 'struggles' like Visteon, Royal Mail, Fu Jitsu, you mean? Ones which had nothing to do
+with your precious 'anti-imperialism'. The 'national question' is becoming less and less
+important to more and more people, other than the fact that a return to your beloved 'armed
+struggle' is the absolute last thing they want. THE OUTLAW |
 | The shady alliances the IRA have gone onto form have been purely to further the fight |
 | Like with that Hitler, or Gadaffi?Two good lads, anti-imperialist heroes. |
 | The Outlaw |
 | 15 years 8 months ago |
 | In reply to Welcomebylibcom.org |
 | All of those struggles to gain concessions under capitalism seek to uphold it, not destroy it. |
-| Gerry Mc Geough was a leading IRA member who did attacks on brit bases with surface to air<br>missiles |
+| Gerry Mc Geough was a leading IRA member who did attacks on brit bases with surface to air
+missiles |
 ## | GOOD. |
 
 ## ![](_page_19_Figure_0.jpeg)
@@ -252,12 +265,16 @@ How are you doing for yourself by the way?
 | Tojiah |
 | 15 years 8 months ago |
 | In reply to Welcomebylibcom.org |
-| I think even lowly proles would have little patience for someone talking about things he hasn't<br>an inkling of knowledge about. They, of course, are real genuine working clarse heroes, so<br>they might use terms such as "talking out of your arse" and "clueless tosser." |
+| I think even lowly proles would have little patience for someone talking about things he hasn't
+an inkling of knowledge about. They, of course, are real genuine working clarse heroes, so
+they might use terms such as "talking out of your arse" and "clueless tosser." |
 | Choccy |
 | 15 years 8 months ago |
 | In reply to Welcomebylibcom.org |
-| THE OUTLAW, again, would do well to actually bother reading ANY of the critiques of irish<br>nationalism on this site. |
-| One discussion, while not explicitly on nationalism, was on the fucking stupid outside<br>perception that THE BRITS are still PURE LIVING IT UP in NI at the expense of the poor |
+| THE OUTLAW, again, would do well to actually bother reading ANY of the critiques of irish
+nationalism on this site. |
+| One discussion, while not explicitly on nationalism, was on the fucking stupid outside
+perception that THE BRITS are still PURE LIVING IT UP in NI at the expense of the poor |
 
 taigs.http://libcom.org/forums/ireland/religious-denomination-health-factor-02022008
 
@@ -268,13 +285,16 @@ indigenous
 | The Outlaw |
 | 15 years 8 months ago |
 | In reply to Welcomebylibcom.org |
-| I've watched a documentry on the history of the IRA and they had very noble goals, coming<br>out of a war they'd fought for, to come back and have their homeland occupied by troops?<br>Why did they fight an enemy that was going to invade them, just to have another do it? |
+| I've watched a documentry on the history of the IRA and they had very noble goals, coming
+out of a war they'd fought for, to come back and have their homeland occupied by troops?
+Why did they fight an enemy that was going to invade them, just to have another do it? |
 | Joseph Kay |
 | 15 years 8 months ago |
 | In reply to Those "butchers" got pushedby The Outlaw |
 | THE OUTLAW |
 | one mans terrorist is another mans freedom fighter. |
-| this is oft-stated, but it's a category error. terrorism is a tactic, freedom fighter is a type of<br>combatant. freedom fighters may employ terrorism. as may the authorities. |
+| this is oft-stated, but it's a category error. terrorism is a tactic, freedom fighter is a type of
+combatant. freedom fighters may employ terrorism. as may the authorities. |
 | notch8 |
 | The 'struggles' like Visteon, Royal Mail, Fu Jitsu, you mean? Ones which had nothing to do |
 
@@ -288,29 +308,37 @@ I know terrosism is a tactic but in the wide spread press, terrorists are used t
 
 | In reply to Welcomebylibcom.org |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Outlaw, are you aware that the original IRA was used to break strikes during the Irish war of<br>independence? |
+| Outlaw, are you aware that the original IRA was used to break strikes during the Irish war of
+independence? |
 | wiki |
-| This was also a period of social upheaval in Ireland, with frequent strikes as well as other<br>manifestations of class conflict. In this regard, the IRA acted to a large degree as an agent of<br>social control and stability, driven by the need to preserve cross-class unity in the national<br>struggle, and on occasion being used to break strikes. |
+| This was also a period of social upheaval in Ireland, with frequent strikes as well as other
+manifestations of class conflict. In this regard, the IRA acted to a large degree as an agent of
+social control and stability, driven by the need to preserve cross-class unity in the national
+struggle, and on occasion being used to break strikes. |
 | Link |
 | Django |
 | 15 years 8 months ago |
 | In reply to Welcomebylibcom.org |
 | Outlaw |
-| And the few people (civilians) that the IRA have killed (many by accident) pale in comparison<br>to the deaths caused by the imperialists in Ireland and in the Middle East. |
+| And the few people (civilians) that the IRA have killed (many by accident) pale in comparison
+to the deaths caused by the imperialists in Ireland and in the Middle East. |
 | How do you accidentally blow up a pub? |
 | flaneur |
 
 | 15 years 8 months ago |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | In reply to Welcomebylibcom.org |
-| Well you have your regular backpack that you use out and about, and then you have your<br>bomb one. If you're not very wide eyed of a morning and you pick up the wrong one |
-| You lot do realise this is a wind up, don't you? The Outlaw isn't for real. S/he is pushing your<br>buttons and watching you go. |
+| Well you have your regular backpack that you use out and about, and then you have your
+bomb one. If you're not very wide eyed of a morning and you pick up the wrong one |
+| You lot do realise this is a wind up, don't you? The Outlaw isn't for real. S/he is pushing your
+buttons and watching you go. |
 | Farce |
 | 15 years 8 months ago |
 | In reply to Outlaw wrote: And the fewby Django |
 | Django |
 | How do you accidentally blow up a pub? |
-| Much the same way you start an anti-immigrant magazine and start hanging around with<br>fascists by mistake, I'd imagine. |
+| Much the same way you start an anti-immigrant magazine and start hanging around with
+fascists by mistake, I'd imagine. |
 | Fletcher |
 | 15 years 8 months ago |
 ## | In reply to Welcomebylibcom.org |
@@ -328,7 +356,8 @@ gypsy
 | The Outlaw |
 | 15 years 8 months ago |
 | In reply to Welcomebylibcom.org |
-| I know the majority of "views" that the imperialists embrace and try and get us to embrace are<br>bullshit, i don't believe a word anything the ruling class try to tell to me. |
+| I know the majority of "views" that the imperialists embrace and try and get us to embrace are
+bullshit, i don't believe a word anything the ruling class try to tell to me. |
 | Simple as. |
 | Party Bucket |
 | 15 years 8 months ago |
@@ -378,7 +407,11 @@ Imperialist ruling class propaganda:Gravity makes things fall Evolution happened
 | Awesome Dude |
 | 14 years 5 months ago |
 | In reply to Welcomebylibcom.org |
-| This is pure entertainment. I wonder if class war ever did come round to recruiting THE<br>OUTLAW? It does raise some interesting questions about class wars politics and projects that<br>are modelled around its approach. Will there be a criteria demanding uncritical support of<br>national liberation struggles before joining ALARM? I ask because several former london<br>class war members have expressed keen interest. |
+| This is pure entertainment. I wonder if class war ever did come round to recruiting THE
+OUTLAW? It does raise some interesting questions about class wars politics and projects that
+are modelled around its approach. Will there be a criteria demanding uncritical support of
+national liberation struggles before joining ALARM? I ask because several former london
+class war members have expressed keen interest. |
 | Ivysyn |
 | 9 years 7 months ago |
 | In reply to Welcomebylibcom.org |

@@ -1,3 +1,8 @@
+---
+title: "**Should we tolerate the intolerant? Karl Popper's paradox**"
+category: "contemporary-analysis"
+---
+
 #### [psychology-spot.com](https://psychology-spot.com/karl-popper-paradox-tolerate-intolerance/)
 
 # **Should we tolerate the intolerant? Karl Popper's paradox**

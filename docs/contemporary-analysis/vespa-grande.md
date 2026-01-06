@@ -1,3 +1,8 @@
+---
+title: "USE MAINTENANCE AND CONSUMER INFORMATION"
+category: "contemporary-analysis"
+---
+
 # USE MAINTENANCE AND CONSUMER INFORMATION
 
 # 
@@ -409,11 +414,11 @@ Every 2,500 miles c lean the silencer exhaust tube using a suitable wire rod, cl
 
 Remove and cle an the air fi.lter in gas (pag. 19). ,
 
-Every 5000 miles check oil in rear hub ' . (ESSO GEAR OIL 90: see- pag. 14 and fig. 21). . *<sup>y</sup>* •
+Every 5000 miles check oil in rear hub ' . (ESSO GEAR OIL 90: see- pag. 14 and fig. 21). . *y* •
 
-Fill with grease · E·sso BEACO·N 3 or · . FIAT JOTA 3 or equivalent the· .roller housing. . . • *<sup>I</sup>* . .
+Fill with grease · E·sso BEACO·N 3 or · . FIAT JOTA 3 or equivalent the· .roller housing. . . • *I* . .
 
-At intervals lubricate the chain, pedals and wheel pivot points, check the chain • tension· (fig. 14 and pag. 21). Clean the carburetto <sup>r</sup>(pag. 19).
+At intervals lubricate the chain, pedals and wheel pivot points, check the chain • tension· (fig. 14 and pag. 21). Clean the carburetto r(pag. 19).
 
 - 
 
@@ -552,7 +557,7 @@ A. Fully Operation
 
 ## ![](_page_36_Figure_4.jpeg)
 
-<sup>\* «</sup> The maximum speed attainable by accelerating at maximum rate from a standing start for one mile ».
+\* « The maximum speed attainable by accelerating at maximum rate from a standing start for one mile ».
 
 #### ACCELERATION AND PASSING ABILITY
 
@@ -584,11 +589,11 @@ This figure ind i, cates braking performance that can be met or e·xceeded by th
 
 - 
 
-<sup>.</sup> \* «The maximum speed attainable by accelerating at m~ximum rate from a standing start for one mile».
+. \* «The maximum speed attainable by accelerating at m~ximum rate from a standing start for one mile».
 
 #### **ACCELERA1 TION A. ND PASSING ABILITY**
 
-This figure indicates passing times and distances that can be met or exceeded by the vehicles to whi<sup>1</sup> ch it applies in the situations diagrammed below. ,
+This figure indicates passing times and distances that can be met or exceeded by the vehicles to whi1 ch it applies in the situations diagrammed below. ,
 
 The low speed pass assumes an initial speed of 20 mph and a limiting speed of' 35 mph the· high speed pass assumes an initial speed of 50 mph and a limiting speed of 80 mph.
 
@@ -624,7 +629,7 @@ Motor driven cycle GRANDE (type with maximum speed 30 mph)
 
 ## ![](_page_40_Figure_4.jpeg)
 
-<sup>\* «</sup> The maximum speed attainable by accelerating at maximum rate from a standing start for one mile ».
+\* « The maximum speed attainable by accelerating at maximum rate from a standing start for one mile ».
 
 #### ACCELERATION AND PASSING ABILITY
 

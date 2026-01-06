@@ -1,3 +1,8 @@
+---
+title: "## Say Goodbye to Costly Auto-GPT and Lang Chain Runs: Meet ReWOO - The Game-Changing Modular Paradi"
+category: "technology-digital-justice"
+---
+
 ## [marktechpost.com](https://www.marktechpost.com/2023/06/04/say-goodbye-to-costly-auto-gpt-and-langchain-runs-meet-rewoo-the-game-changing-modular-paradigm-that-cuts-token-consumption-by-detaching-reasoning-from-external-observations/?amp)
 
 ## Say Goodbye to Costly Auto-GPT and Lang Chain Runs: Meet ReWOO - The Game-Changing Modular Paradigm that Cuts Token Consumption by Detaching Reasoning from External Observations
@@ -26,7 +31,7 @@ Consequently, ReWOO is a promising modular paradigm for ALMs as, for the first t
 
 Check Out The [Paper](https://arxiv.org/abs/2305.18323) and [Github link](https://github.com/billxbf/ReWOO). Don't forget to join [our](https://pxl.to/8mbuwy) [22k+ ML Sub Reddit](https://pxl.to/8mbuwy)[,](https://pxl.to/8mbuwy) [Discord Channel](https://pxl.to/8mbuwy)[,](https://pxl.to/8mbuwy) and [Email Newsletter,](https://marktechpost-newsletter.beehiiv.com/subscribe) where we share the latest AI research news, cool AI projects, and more. If you have any questions regarding the above article or if we missed anything, feel free to email us at Asif@marktechpost.com
 
-## ������ [Check Out 100's AI Tools in AI Tools Club](https://pxl.to/ydl0hc)
+##  [Check Out 100's AI Tools in AI Tools Club](https://pxl.to/ydl0hc)
 
 ## ![](_page_3_Picture_4.jpeg)
 

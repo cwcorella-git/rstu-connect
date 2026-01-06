@@ -1,3 +1,8 @@
+---
+title: "## **Public Servants or Corporate Security? An Open Letter to Law Enforcement and National Guard in "
+category: "contemporary-analysis"
+---
+
 ## **Public Servants or Corporate Security? An Open Letter to Law Enforcement and National Guard in North Dakota**
 
 ## **Date:** Wed, 11/02/2016 - 17:57

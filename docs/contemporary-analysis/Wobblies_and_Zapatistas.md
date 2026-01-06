@@ -1,3 +1,8 @@
+---
+title: "Praise for Wobblies & Zapatistas"
+category: "contemporary-analysis"
+---
+
 # Praise for Wobblies & Zapatistas
 
 *"There's no doubt that we've lost much of our history. It's also very clear that those in power in this country like it that way. Here's a book that shows us why. It demonstrates not only that another world is possible, but that it already exists, has existed, and shows an endless potential to burst through the artificial walls and divisions that currently imprison us. An exquisite contribution to the literature of human freedom, and coming not a moment too soon."*
@@ -18,7 +23,7 @@
 
 *"It is rare that words in a conversation approach the likeness of something truly new—such is the case of the friendly and productive dance of anarchist and socialist ideas in Andrej Grubačić's new book: Wobblies and Zapatistas, book of conversations between Andrej Grubačić and Staughton Lynd. It is a rich piece of literature, clearly benefiting from the lives and experiences of these two extraordinary human beings, and an important contribution to the continuing synthesis of revolutionary ideas. Exploring questions of participatory experiments, worker democracy, solidarity unionism, civil disobedience, organizing, and the role of theory and organic intellectuals, Wobblies and Zapatistas delves into the political questions of the twenty-first century with the utmost clarity, reflection, and insight. I'd recommend Conversations to all young people interested in building a movement towards a better, more democratic world."*
 
-<sup>—</sup>Brian Kelly, **Students for a Democratic Society & Student Environmental Action Coalition**
+—Brian Kelly, **Students for a Democratic Society & Student Environmental Action Coalition**
 
 *"Young organizers today are faced with a rapidly changing, complex world. Many of us are building new political compasses with which to navigate such a turbulent landscape. Conversations between Lynd and Grubacic are a perfect medium to weave a narrative of social movements that roots us in history. Through rich storytelling, debate, and political analysis, this book is about more than Wobblies and Zapatistas. It is a window into wildcat strikes in Youngstown OH, the civil war in Spain, the streets of Seattle, mountains of Nicaragua, Israel and Palestine, and that's just the start. This is no romanticized history or mindless celebration of confrontation; this is a reflection on the lessons organizers can learn and carry with them to build a new world. It contains portraits of Ella Baker and Thomas Paine, thoughts on informal leadership from Saul Alinsky, and descriptions of the education of Myles Horton. The reader is treated to historical examples of interracial solidarity and movement building. We learn of songs sung in SNCC, of liberation theology and Anabaptists. We read stories of consensus decision-making in a Supermax prison, and Rosa Luxemburg's feelings on internationalism. Lynd calls for organizers who are 'long distance runners, not sprinters.' This book is a tool to help us go the distance."*
 
@@ -2377,7 +2382,7 @@ I feel that Martha has been able to take a further step in her father's desire t
 
 # Do We Need Rights?
 
-<sup>I</sup> was having *an interesting conversation in a social center in London a few months ago. It was a heated discussion with fellow anarchists and fellow Peoples Global Action members who were demanding that we should stop using terms like "rights," imposed on us and sanctioned by the State. I think that your experience as a lawyer and activist, as well as a theorist who followed E. P. Thompson's line of thinking about law as being a somewhat more complicated affair than just an irksome bourgeois imposition, could be immensely instructive for the new anarchists. Let us talk about critical legal theory—the first, at least according to my knowledge, intelligent attempt to understand law from this perspective—and your contribution to what I see as a much more serious model of understanding the law. Do we need "rights?"* *Should new anarchists see law and rights as intrinsically corrupt concepts?*
+I was having *an interesting conversation in a social center in London a few months ago. It was a heated discussion with fellow anarchists and fellow Peoples Global Action members who were demanding that we should stop using terms like "rights," imposed on us and sanctioned by the State. I think that your experience as a lawyer and activist, as well as a theorist who followed E. P. Thompson's line of thinking about law as being a somewhat more complicated affair than just an irksome bourgeois imposition, could be immensely instructive for the new anarchists. Let us talk about critical legal theory—the first, at least according to my knowledge, intelligent attempt to understand law from this perspective—and your contribution to what I see as a much more serious model of understanding the law. Do we need "rights?"* *Should new anarchists see law and rights as intrinsically corrupt concepts?*
 
 I have confronted these questions several times in my life. Forgive me if I repeat myself.
 
@@ -2851,7 +2856,8 @@ The incident involving Bill Lovett is told in David Dellinger, *From Yale to Jai
 | of in Chiapas, xiv, xvi; | Tribunal, 198-199, 214 |
 | and Father Uriel | |
 | Molina, 53, 56; | Baker, Ella, 40, 230 |
-| history as accompaniment, | Bread<br>and Wine, 22, 223-224 |
+| history as accompaniment, | Bread
+and Wine, 22, 223-224 |
 | 137-146; | |
 | intellectuals and, 57-67; | Civil War, 81-82, 234-235 |
 | lawyering as, 28, 217-218 | Consensus decisionmaking: |

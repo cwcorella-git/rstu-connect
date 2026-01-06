@@ -1,3 +1,8 @@
+---
+title: "Documentation"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 # Documentation
@@ -449,7 +454,7 @@ Enviro Weather Preset weather = Enviro Sky Mgr.instance. Weather.current Active 
 
 ## Get a list of all available weather presets:
 
-List<Enviro Weather Preset> presets = Enviro Sky Mgr.instance. Weather.weather Presets;
+List presets = Enviro Sky Mgr.instance. Weather.weather Presets;
 
 ## Get current active weather zone:
 
@@ -504,4 +509,4 @@ Enviro Sky Mgr.instance. On Night += () =>
 {
 Debug. Log("Night!");
 };
-## 
+##

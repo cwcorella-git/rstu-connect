@@ -1,3 +1,8 @@
+---
+title: "## **Renewable Energy is (Mostly) Green and Not Inherently Capitalist, Volume 1: Wind Power (REVISED"
+category: "environmental-justice"
+---
+
 ## **Renewable Energy is (Mostly) Green and Not Inherently Capitalist, Volume 1: Wind Power (REVISED)**
 
 ## **Date:** Tue, 01/16/2024 - 00:00
@@ -18,23 +23,30 @@ This document argues that, while there is no guarantee that renewable energy pro
 
 In■ order to do that, we mustn't fall prey to the misconceptions and inaccuracies that paint renewable energy infrastructure projects as inherently anti-green. This series attempts to do
 
-| just that. This first Volume, on utility scale wind power addresses several arguments made<br>against it, including (but not limited to) the following misconceptions: |
+| just that. This first Volume, on utility scale wind power addresses several arguments made
+against it, including (but not limited to) the following misconceptions: |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Humanity must abandon electricity completely; |
 | Degrowth is the only solution; |
 | New wind developments only expand overall consumption; |
 | Wind power is unreliable and intermittent; |
 | Wind power is just another form of "green" capitalism; |
-| The extraction of resources necessary to build wind power negates any of their alleged green<br>benefits; |
-| Wind power is an extinction-level event threat to birds, bats, whales, and other wildlife (and<br>possibly humans); |
-| Only locally distributed renewable energy arrayed in microgrids should be built without<br>anyeven a small percentageof utility scale wind developments; |
-| Only nationalized and/or state-owned utility scale renewable energy developments should be<br>built; |
-| No wind power developments will be green unless we first organize a socialist revolution,<br>because everything else represents misplaced faith in capitalist market forces. |
+| The extraction of resources necessary to build wind power negates any of their alleged green
+benefits; |
+| Wind power is an extinction-level event threat to birds, bats, whales, and other wildlife (and
+possibly humans); |
+| Only locally distributed renewable energy arrayed in microgrids should be built without
+anyeven a small percentageof utility scale wind developments; |
+| Only nationalized and/or state-owned utility scale renewable energy developments should be
+built; |
+| No wind power developments will be green unless we first organize a socialist revolution,
+because everything else represents misplaced faith in capitalist market forces. |
 | In fact, none of the above arguments are automatically true (and the majority are almost |
 
 completely untrue). However, they're often repeated, sometimes ignorantly, but not too
 
-| infrequently in bad faith. This document is offered as an inoculation and antidote to these<br>misconceptions and misinformation. |
+| infrequently in bad faith. This document is offered as an inoculation and antidote to these
+misconceptions and misinformation. |
 |-----------------------------------------------------------------------------------------------------------------------------------|
 | Download a copy of this publication |
 | here (PDF) |

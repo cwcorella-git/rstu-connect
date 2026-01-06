@@ -1,3 +1,8 @@
+---
+title: "**At The Café**"
+category: "contemporary-analysis"
+---
+
 # **At The Café**
 
 #### **Conversations on Anarchism**

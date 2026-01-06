@@ -1,3 +1,8 @@
+---
+title: "## **"An Injury to One is an Injury to All": A Minneapolis Bus Driver on Solidarity with Minneapolis"
+category: "theory"
+---
+
 ## **"An Injury to One is an Injury to All": A Minneapolis Bus Driver on Solidarity with Minneapolis Protesters**
 
 ## **Date:** Unknown

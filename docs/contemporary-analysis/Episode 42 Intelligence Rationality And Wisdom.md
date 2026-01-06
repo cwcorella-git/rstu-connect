@@ -1,3 +1,8 @@
+---
+title: "**Episode 42: Intelligence Rationality And Wisdom/**"
+category: "contemporary-analysis"
+---
+
 # **Episode 42: Intelligence Rationality And Wisdom/**
 
 **Source:** https://www.meaningcrisis.co/ep-42-awakening-from-the-meaning-crisis-intelligence-rationality-and-wisdom/

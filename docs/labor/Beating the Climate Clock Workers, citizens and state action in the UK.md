@@ -1,3 +1,8 @@
+---
+title: "**Beating the Climate Clock: Workers, citizens and state action in the UK**"
+category: "labor"
+---
+
 # **Beating the Climate Clock: Workers, citizens and state action in the UK**
 
 ## **Date:** Wed, 02/21/2024 - 00:00

@@ -1,3 +1,8 @@
+---
+title: "## **Charlotte Wilson (1854-1944) - Jeff Shantz**"
+category: "contemporary-analysis"
+---
+
 ## **Charlotte Wilson (1854-1944) - Jeff Shantz**
 
 ## **Date:** Unknown

@@ -1,3 +1,8 @@
+---
+title: "## **Sei kein Arschloch, wenn es um schlechte Ideen geht**"
+category: "contemporary-analysis"
+---
+
 ## **Sei kein Arschloch, wenn es um schlechte Ideen geht**
 
 ## **Date:** Unknown

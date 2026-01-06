@@ -1,3 +1,8 @@
+---
+title: "## **Wrath Over Pride: A call-out post to "radical" cis (het) men and their inadequacy in gender str"
+category: "feminist-theory"
+---
+
 ## **Wrath Over Pride: A call-out post to "radical" cis (het) men and their inadequacy in gender struggles**
 
 ## **Date:** Unknown

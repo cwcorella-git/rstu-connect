@@ -1,3 +1,8 @@
+---
+title: "Seneca"
+category: "contemporary-analysis"
+---
+
 . . . . . . . . . . . . . . . . . . . .
 
 ## 0
@@ -212,7 +217,7 @@ walls but, held by an enemy host, gleaming over vast spans of territory.3 Look a
 
 ## DE IRA
 
-plebem inmisso milite contrucidatam et in perniciem promiscuam totos populos capi-tis damna<tos> \* \* \*?
+plebem inmisso milite contrucidatam et in perniciem promiscuam totos populos capi-tis damna \* \* \*?
 
 (.) Numquid, quamvis non sit naturalis ira, adsumenda est, quia utilis saepe fuit?
 
@@ -302,7 +307,7 @@ but a noxious overow. Everyone who's transported beyond mortal thinking by an
 
 quiddam et sublime spirare se credunt; ceterum nil solidi subest, sed in ruinam prona sunt quae sine fundamentis crevere.
 
-Non habet ira cui insistat; non ex rmo mansuroque oritur. . . . 'Quid ergo? non ali-quae voces ab iratis emittuntur quae magno emissae videantur animo?' <Immo> veram ignorantibus magnitudinem, qualis illa dira et abominanda 'oderint, dum metuant'. . . .
+Non habet ira cui insistat; non ex rmo mansuroque oritur. . . . 'Quid ergo? non ali-quae voces ab iratis emittuntur quae magno emissae videantur animo?'  veram ignorantibus magnitudinem, qualis illa dira et abominanda 'oderint, dum metuant'. . . .
 
 Magno hoc dictum spiritu putas? Falleris; nec enim magnitudo ista est sed immanitas.
 
@@ -318,9 +323,9 @@ There is no reason to trust the words of angry people, which make loud and men-a
 
 #### DE IRA
 
-<T.> Livium dicitur: 'vir ingenii magni magis quam boni.' Non potest istud sepa-rari: aut et bonum erit aut nec magnum, quia magnitudinem animi inconcussam in-tellego et introrsus solidam et ab imo parem rmamque, qualis inesse malis ingeniis non potest. Terribilia enim esse et tumultuosa et exitiosa possunt: magnitudinem quidem, cuius rmamentum roburque bonitas est, non habebunt. Ceterum sermone, conatu et omni extra paratu facient magnitudinis dem; eloquentur aliquid quod tu magni
+ Livium dicitur: 'vir ingenii magni magis quam boni.' Non potest istud sepa-rari: aut et bonum erit aut nec magnum, quia magnitudinem animi inconcussam in-tellego et introrsus solidam et ab imo parem rmamque, qualis inesse malis ingeniis non potest. Terribilia enim esse et tumultuosa et exitiosa possunt: magnitudinem quidem, cuius rmamentum roburque bonitas est, non habebunt. Ceterum sermone, conatu et omni extra paratu facient magnitudinis dem; eloquentur aliquid quod tu magni
 
-<animi> putes, sicut C. Caesar, qui iratus caelo quod obstreperetur pantomimis, quos imitabatur studiosius quam spectabat, quod-que comessatio sua fulminibus terreretur (prorsus parum certis), ad pugnam vocavit
+ putes, sicut C. Caesar, qui iratus caelo quod obstreperetur pantomimis, quos imitabatur studiosius quam spectabat, quod-que comessatio sua fulminibus terreretur (prorsus parum certis), ad pugnam vocavit
 
 #### HOW TO KEEP YOUR COOL
 
@@ -438,7 +443,7 @@ Apud Platonem educatus puer cum ad parentes relatusvociferantem videret patrem.
 
 'Numquam' inquit 'hoc apud Platonem vidi.' Non dubito quin citius patrem imita-tus sit quam Platonem.
 
-Tenuis ante omnia victus <sit> et non pre-tiosa vestis et similis cultus cum aequalibus: non irascetur aliquem sibi comparari quem ab initio multis parem feceris.
+Tenuis ante omnia victus  et non pre-tiosa vestis et similis cultus cum aequalibus: non irascetur aliquem sibi comparari quem ab initio multis parem feceris.
 
 #### HOW TO KEEP YOUR COOL
 
@@ -614,7 +619,7 @@ Of the things that give us offense, some are reported and others we witness with
 
 #### DE IRA
 
-testis sine iureiurando non valeret, utrique parti dares actionem, dares tempus, non semel audires; magis enim veritas elucet quo saepius ad manum venit: amicum con-demnas de praesentibus? Antequam audias, antequam interroges, antequam illi aut ac-cusatorem suum nosse liceat aut crimen, irasceris? Iam enim, iam utrimque <quid> diceretur audisti?
+testis sine iureiurando non valeret, utrique parti dares actionem, dares tempus, non semel audires; magis enim veritas elucet quo saepius ad manum venit: amicum con-demnas de praesentibus? Antequam audias, antequam interroges, antequam illi aut ac-cusatorem suum nosse liceat aut crimen, irasceris? Iam enim, iam utrimque  diceretur audisti?
 
 (. ) Quorundam ipsi testes sumus: in his naturam excutiemus voluntatemque faci-entium. Puer est: aetati donetur, nescit an peccet. Pater est: aut tantum profuit ut illi etiam iniuriae ius sit, aut fortasse ipsum hoc even a tiny sum, the trial wouldn't proceed without witnesses, and the witnesses' tes-timony wouldn't count unless they were sworn in, and you'd give both sides a chance to plead their case; you'd take your time and not decide in one hearing. Truth gets shinier the more frequently it is handled.22
 
@@ -878,7 +883,7 @@ Then too, while other vices undo us one by one, this one emotion sometimes strik
 
 aristocrats, commoners— all have shared the same feeling; a vast mob, spurred on by only a few words, has surged past even the one who spurred them; there's a headlong dash for weapons and torches and wars de-clared against neighbors or waged against fellow citizens. Whole households are burned up along with their family lines, and the speaker once held in high honor for his es-teemed style becomes the target of his audience's wrath. Army units turn their spears against their own general, the common people split from the nobles. The Senate has chosen men to act on its impulsive rage, without a draft being held or a commander chosen, and after chasing leading men through the houses of the city, has imposed punishment with its own hand. Ambassa-dors are harmed— a breaking of the custom of nations— and a monstrous frenzy carries tulit, nec datum tempus quo resideret tumor publicus, sed deductae protinus classes et oneratae tumultuario milite; sine more, sine auspiciis populus ductu irae suae egressus fortuita raptaque pro armis gessit, deinde magna clade temeritatem audacis irae luit.
 
-(..) Nonne revocare se quisque ab ira volet, cum intellexerit illam a suo primum malo incipere? Non vis ergo admoneam eos qui iram <in> summa potentia exercent et argumentum virium existimant et in magnis magnae fortunae bonis ponunt paratam ultionem, quam non sit potens, immo ne liber quidem dici possit irae suae captivus?
+(..) Nonne revocare se quisque ab ira volet, cum intellexerit illam a suo primum malo incipere? Non vis ergo admoneam eos qui iram  summa potentia exercent et argumentum virium existimant et in magnis magnae fortunae bonis ponunt paratam ultionem, quam non sit potens, immo ne liber quidem dici possit irae suae captivus?
 
 #### HOW TO KEEP YOUR COOL
 
@@ -1086,7 +1091,7 @@ I don't understand why self- control is so difcult, since I know that even tyran
 
 #### DE IRA
 
-(.) Pugna tecum ipse: si <vis> vincere iram, non potest te illa. Incipis vincere, si absconditur, si illi exitus non datur. Signa eius obruamus et illam quantum eri potest occultam secretamque teneamus. Cum magna id nostra molestia et (cupit enim ex-ilire et incendere oculos et mutare faciem), sed si eminere illi extra nos licuit, supra nos est. In imo pectoris secessu recondatur, feraturque, non ferat. Immo in contrarium omnia eius indicia ectamus: vultus remit-tatur, vox lenior sit, gradus lentior; paulatim cum exterioribus interiora formantur.
+(.) Pugna tecum ipse: si  vincere iram, non potest te illa. Incipis vincere, si absconditur, si illi exitus non datur. Signa eius obruamus et illam quantum eri potest occultam secretamque teneamus. Cum magna id nostra molestia et (cupit enim ex-ilire et incendere oculos et mutare faciem), sed si eminere illi extra nos licuit, supra nos est. In imo pectoris secessu recondatur, feraturque, non ferat. Immo in contrarium omnia eius indicia ectamus: vultus remit-tatur, vox lenior sit, gradus lentior; paulatim cum exterioribus interiora formantur.
 
 In Socrate irae signum erat vocem sum-mittere, loqui parcius; apparebat tunc illum
 

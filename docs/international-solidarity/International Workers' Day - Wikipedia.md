@@ -1,10 +1,15 @@
+---
+title: "**International Workers' Day**"
+category: "international-solidarity"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/International_Workers%27_Day)
 
 # **International Workers' Day**
 
 ## Contributors to Wikimedia projects
 
-100–127 minutes
+100-127 minutes
 
 This article is about a holiday sometimes called May Day. For the traditional spring holiday, see [May Day.](https://en.wikipedia.org/wiki/May_Day) For other labourrelated holidays, see [Labour Day \(disambiguation\).](https://en.wikipedia.org/wiki/Labour_Day_(disambiguation))
 
@@ -14,16 +19,20 @@ This article is about a holiday sometimes called May Day. For the traditional sp
 
 2013 International Workers' Day demonstration in Austria
 
-| Official<br>name | International Workers' Day |
+| Official
+name | International Workers' Day |
 |------------------|--------------------------------------------------------------------------|
 | Also called | May Day |
-| Celebrations | Various, depending on the country; mostly<br>parades, marches, barbecues |
+| Celebrations | Various, depending on the country; mostly
+parades, marches, barbecues |
 | Date | 1 May, or First Monday in May |
 ## | Frequency | Annual |
 
-| First<br>time | 1 May 1889 |
+| First
+time | 1 May 1889 |
 |---------------|--------------|
-| Related<br>to | • May Day |
+| Related
+to | • May Day |
 ## | | • Labour Day |
 
 **International Workers' Day**, also known as **Labour Day** in some countrie[s\[1\]](#page-65-0) and often referred to as **May Day**, [\[2\]](#page-65-1)[\[3\]](#page-65-2) is a celebration of [labourers](https://en.wikipedia.org/wiki/Wage_labour) and the [working classes](https://en.wikipedia.org/wiki/Working_class) that is promoted by the international [labour movement](https://en.wikipedia.org/wiki/Labour_movement) and occurs every year on 1 May[,\[4\]](#page-65-3)[\[5\]](#page-65-4) or the first Monday in May[.\[6\]](#page-65-5)[\[7\]](#page-65-6)
@@ -57,7 +66,7 @@ Today, the majority of countries around the world celebrate a workers' day on 1 
 
 ## May Day rally in Moscow, 1 May 1960
 
-[Eastern Bloc](https://en.wikipedia.org/wiki/Eastern_Bloc) countries such as the Soviet Union and most countries of central and eastern Europe that were under the rule of [Marxist–Leninist](https://en.wikipedia.org/wiki/Marxism%E2%80%93Leninism) governments held official May Day celebrations in every town and city, during which party leaders greeted the crowds. Workers carried banners with political slogans and many companies decorated their company cars. The biggest celebration of 1 May usually occurred in the capital of a particular socialist country and usually included a military display and the presence of the president and the secretary general of the party. During the [Cold War,](https://en.wikipedia.org/wiki/Cold_War) May Day became the occasion for large [military parades](https://en.wikipedia.org/wiki/Military_parade) in [Red Square](https://en.wikipedia.org/wiki/Red_Square) by the [Soviet](https://en.wikipedia.org/wiki/Soviet_Union) [Union](https://en.wikipedia.org/wiki/Soviet_Union) and attended by the top leaders of the [Kremlin,](https://en.wikipedia.org/wiki/Kremlin) especially the [Politburo,](https://en.wikipedia.org/wiki/Politburo_of_the_Communist_Party_of_the_Soviet_Union) atop [Lenin's Mausoleum.](https://en.wikipedia.org/wiki/Lenin%27s_Mausoleum) It became an enduring symbol of that period. In [Poland,](https://en.wikipedia.org/wiki/Poland) since 1982, party leaders led the official parades. In Hungary, May Day was officially celebrated under the communist rule, and remains a public holiday. Traditionally, the day was marked by dancing around designated "May trees"[.\[30\]](#page-68-4) Some factories in socialist countries were named in honour of International Workers' Day, such as [1 Maja Coal Mine](https://en.wikipedia.org/wiki/1_Maja_Coal_Mine) in Wodzisław Śląski, Poland. In [East](https://en.wikipedia.org/wiki/East_Germany) [Germany,](https://en.wikipedia.org/wiki/East_Germany) the holiday was officially known as Internationaler Kampf- und Feiertag der Werktätigen für Frieden und Sozialismus ("International Day of the Struggle and Celebration of the Workers for Peace and Socialism"); similar names were used in other Eastern Bloc countries.
+[Eastern Bloc](https://en.wikipedia.org/wiki/Eastern_Bloc) countries such as the Soviet Union and most countries of central and eastern Europe that were under the rule of [Marxist-Leninist](https://en.wikipedia.org/wiki/Marxism%E2%80%93Leninism) governments held official May Day celebrations in every town and city, during which party leaders greeted the crowds. Workers carried banners with political slogans and many companies decorated their company cars. The biggest celebration of 1 May usually occurred in the capital of a particular socialist country and usually included a military display and the presence of the president and the secretary general of the party. During the [Cold War,](https://en.wikipedia.org/wiki/Cold_War) May Day became the occasion for large [military parades](https://en.wikipedia.org/wiki/Military_parade) in [Red Square](https://en.wikipedia.org/wiki/Red_Square) by the [Soviet](https://en.wikipedia.org/wiki/Soviet_Union) [Union](https://en.wikipedia.org/wiki/Soviet_Union) and attended by the top leaders of the [Kremlin,](https://en.wikipedia.org/wiki/Kremlin) especially the [Politburo,](https://en.wikipedia.org/wiki/Politburo_of_the_Communist_Party_of_the_Soviet_Union) atop [Lenin's Mausoleum.](https://en.wikipedia.org/wiki/Lenin%27s_Mausoleum) It became an enduring symbol of that period. In [Poland,](https://en.wikipedia.org/wiki/Poland) since 1982, party leaders led the official parades. In Hungary, May Day was officially celebrated under the communist rule, and remains a public holiday. Traditionally, the day was marked by dancing around designated "May trees"[.\[30\]](#page-68-4) Some factories in socialist countries were named in honour of International Workers' Day, such as [1 Maja Coal Mine](https://en.wikipedia.org/wiki/1_Maja_Coal_Mine) in Wodzisław Śląski, Poland. In [East](https://en.wikipedia.org/wiki/East_Germany) [Germany,](https://en.wikipedia.org/wiki/East_Germany) the holiday was officially known as Internationaler Kampf- und Feiertag der Werktätigen für Frieden und Sozialismus ("International Day of the Struggle and Celebration of the Workers for Peace and Socialism"); similar names were used in other Eastern Bloc countries.
 
 ## ![](_page_6_Picture_3.jpeg)
 
@@ -87,7 +96,7 @@ In [Ethiopia,](https://en.wikipedia.org/wiki/Ethiopia) 1 May is a public holiday
 
 1 May is a holiday in [Ghana.](https://en.wikipedia.org/wiki/Ghana) It is a day to celebrate all workers across the country. It is celebrated with a parade by trade unions and labour associations[.\[35\]](#page-69-1) The parades are normally addressed by the Secretary General of the trade union congress and by regional secretaries in the regions.[\[35\]](#page-69-1) Workers from different workplaces through banners and Tshirts identify their companies[.\[35\]](#page-69-1)
 
-In [Kenya,](https://en.wikipedia.org/wiki/Kenya) 1 May is a public holiday and celebrated as Labour Day. It is a big day addressed by the leaders of the workers' umbrella union body – the [Central Organisation of Trade Unions](https://en.wikipedia.org/wiki/Central_Organization_of_Trade_Unions_(Kenya)) (COTU). The Cabinet Secretary in charge of Ministry of Labour and Social Protection (and occasionally the President) address the workers. Each year, the government approves (and increases) the [minimum wage](https://en.wikipedia.org/wiki/Minimum_wage) on Labour Day[.\[36\]](#page-69-2)
+In [Kenya,](https://en.wikipedia.org/wiki/Kenya) 1 May is a public holiday and celebrated as Labour Day. It is a big day addressed by the leaders of the workers' umbrella union body - the [Central Organisation of Trade Unions](https://en.wikipedia.org/wiki/Central_Organization_of_Trade_Unions_(Kenya)) (COTU). The Cabinet Secretary in charge of Ministry of Labour and Social Protection (and occasionally the President) address the workers. Each year, the government approves (and increases) the [minimum wage](https://en.wikipedia.org/wiki/Minimum_wage) on Labour Day[.\[36\]](#page-69-2)
 
 In [Libya,](https://en.wikipedia.org/wiki/Libya) International Workers' Day was declared a national public holiday by the [National Transitional Council](https://en.wikipedia.org/wiki/National_Transitional_Council) in 2012 the first year of the post-Qaddafi era[.\[37\]](#page-69-3)
 
@@ -125,7 +134,7 @@ In [Argentina,](https://en.wikipedia.org/wiki/Argentina) Workers' Day is an offi
 
 The first Workers' Day celebration was in 1890, when Argentinian unions organized several celebrations in [Buenos](https://en.wikipedia.org/wiki/Buenos_Aires) [Aires](https://en.wikipedia.org/wiki/Buenos_Aires) and other cities, at the same time that the international labour movement celebrated it for the first time[.\[55\]](#page-71-4) In 1930, it was established as an official holiday by the [Radical Civic Union](https://en.wikipedia.org/wiki/Radical_Civic_Union)
 
-president [Hipólito Yrigoyen.](https://en.wikipedia.org/wiki/Hip%C3%B3lito_Yrigoyen) The day became particularly significant during the worker-oriented government of [Juan](https://en.wikipedia.org/wiki/Juan_Domingo_Per%C3%B3n) [Domingo Perón](https://en.wikipedia.org/wiki/Juan_Domingo_Per%C3%B3n) (1946–55)[.\[56\]](#page-71-5) He permitted and endorsed national recognition of the holiday during his tenure in office. In [Barbados,](https://en.wikipedia.org/wiki/Barbados) May Day is a public holiday celebrated on 1 May. [\[57\]](#page-71-6)
+president [Hipólito Yrigoyen.](https://en.wikipedia.org/wiki/Hip%C3%B3lito_Yrigoyen) The day became particularly significant during the worker-oriented government of [Juan](https://en.wikipedia.org/wiki/Juan_Domingo_Per%C3%B3n) [Domingo Perón](https://en.wikipedia.org/wiki/Juan_Domingo_Per%C3%B3n) (1946-55)[.\[56\]](#page-71-5) He permitted and endorsed national recognition of the holiday during his tenure in office. In [Barbados,](https://en.wikipedia.org/wiki/Barbados) May Day is a public holiday celebrated on 1 May. [\[57\]](#page-71-6)
 
 1 May is known as Labour Day and is a holiday.[\[58\]](#page-71-7) By custom, it is usually the day on which wage increases (e.g., the national minimum wage) and other labour improvements are announced by the Government. In recent years it was also the day chosen by the Bolivian government to announce the (re)nationalization of strategic sectors of the economy (e.g. hydrocarbons in 2006, telecommunications in 2008, electricity in 2010, etc.).
 
@@ -195,7 +204,7 @@ On 1 May 2020, during the [COVID-19 pandemic,](https://en.wikipedia.org/wiki/COV
 
 On 1 May 2021, [black bloc](https://en.wikipedia.org/wiki/Black_bloc) protesters clashed with police in Oakland & Portland. Numerous other May Day activities occurred across the country[.\[90\]](#page-75-2)
 
-In Uruguay, 1 May – Workers' Day – is an official holiday. Even when it is associated with labour unions, almost all workers tend to respect it. Since the late 1990s, the main event takes place at the [First of May Square](https://en.wikipedia.org/w/index.php?title=First_of_May_Square,_Montevideo&action=edit&redlink=1) in Montevideo.[[citation needed](https://en.wikipedia.org/wiki/Wikipedia:Citation_needed)]
+In Uruguay, 1 May - Workers' Day - is an official holiday. Even when it is associated with labour unions, almost all workers tend to respect it. Since the late 1990s, the main event takes place at the [First of May Square](https://en.wikipedia.org/w/index.php?title=First_of_May_Square,_Montevideo&action=edit&redlink=1) in Montevideo.[[citation needed](https://en.wikipedia.org/wiki/Wikipedia:Citation_needed)]
 
 In [Venezuela,](https://en.wikipedia.org/wiki/Venezuela) Workers' Day (El Día del Trabajador) is celebrated on 1 May since 1936, but from 1938 to 1945 it was held on 24 July, by an order of [Eleazar López Contreras](https://en.wikipedia.org/wiki/Eleazar_L%C3%B3pez_Contreras). However, [Isaías](https://en.wikipedia.org/wiki/Isa%C3%ADas_Medina_Angarita) [Medina Angarita](https://en.wikipedia.org/wiki/Isa%C3%ADas_Medina_Angarita) changed it back to 1 May in 1945[.\[91\]](#page-75-3)
 
@@ -219,11 +228,11 @@ May ("Constitution Memorial Day"), 4 May ("Greenery Day") and 5 May ("Children's
 
 Some major labour unions organize rallies and demonstrations in Tokyo, [100] Osaka, and Nagoya. [101] Japan has a long history of labour activism and has had a communist and socialist party in the Diet since 1945. In 2008, the National Confederation of Trade Unions (*Zenrōren*) held a rally in Yoyogi Park attended by 44,000 participants, while the National Trade Unions Council (*Zenrōkyō*) held its May Day rally at Hibiya Park. [citation needed] Rengō, the largest Japanese trade union, held its May Day rally on the following Saturday (3 May), allegedly to distance itself from the more radical labour unions. [citation needed]
 
-In the <u>Democratic People's Republic of Korea</u>, 1 May is known as International Workers' Day, and is a public holiday. Celebrations, local meetings and rallies are held every year throughout the country to honor the holiday. [102] The <u>Rungnado May Day Stadium</u> in the capital of <u>Pyongyang</u> is named in honor of the holiday.
+In the Democratic People's Republic of Korea, 1 May is known as International Workers' Day, and is a public holiday. Celebrations, local meetings and rallies are held every year throughout the country to honor the holiday. [102] The Rungnado May Day Stadium in the capital of Pyongyang is named in honor of the holiday.
 
-In the <u>Republic of Korea</u>, 1 May is known simply as "Workers' Day". It is not a public holiday, but a paid holiday for workers by the <u>Designation of Workers' Day Act</u>. [nb 3]
+In the Republic of Korea, 1 May is known simply as "Workers' Day". It is not a public holiday, but a paid holiday for workers by the Designation of Workers' Day Act. [nb 3]
 
-Labour Day (<u>Albanian</u>: *Dita e punëtorëve*) is an official holiday celebrated on 1 May and thus schools and most businesses are closed[.\[104\]](#page-77-4)
+Labour Day (Albanian: *Dita e punëtorëve*) is an official holiday celebrated on 1 May and thus schools and most businesses are closed[.\[104\]](#page-77-4)
 
 Labour Day [\(Armenian:](https://en.wikipedia.org/wiki/Armenian_language) Աշխատանքի օր, ashxatanki or) is an official holiday celebrated on 1 May[.\[105\]](#page-77-5)
 
@@ -291,7 +300,7 @@ In Iceland, Labour Day [\(Icelandic:](https://en.wikipedia.org/wiki/Icelandic_la
 
 May Day parade in [Belfast,](https://en.wikipedia.org/wiki/Belfast) 2011
 
-The [Irish Congress of Trade Unions](https://en.wikipedia.org/wiki/Irish_Congress_of_Trade_Unions) (ICTU) marks International Workers' Day with rallies in [Belfast](https://en.wikipedia.org/wiki/Belfast) and [Dublin](https://en.wikipedia.org/wiki/Dublin) and other events such as lectures, concerts and film screenings also take place around a wider May Day festival[.\[121\]](#page-79-4)[\[122\]](#page-79-5) The first Monday in May has been a [public holiday in the Republic of Ireland](https://en.wikipedia.org/wiki/Public_holiday_in_the_Republic_of_Ireland) since 199[4\[123\]](#page-79-6) and in Northern Ireland since 1978[.\[124\]](#page-79-7) In the Republic the public holiday was demanded by the ICTU[\[125\]](#page-79-8) and proposed by the [Labour Party](https://en.wikipedia.org/wiki/Labour_Party_(Ireland)) in negotiating [its 1992–94](https://en.wikipedia.org/wiki/23rd_Government_of_Ireland) [coalition government](https://en.wikipedia.org/wiki/23rd_Government_of_Ireland) with [Fianna Fáil,](https://en.wikipedia.org/wiki/Fianna_F%C3%A1il) and marked the centenary of the ICTU's predecessor, the [Irish Trades Union](https://en.wikipedia.org/wiki/Irish_Trades_Union_Congress) [Congress.](https://en.wikipedia.org/wiki/Irish_Trades_Union_Congress) [\[126\]](#page-80-0) The public holiday has no official designation, as "Workers' Day" or otherwise[.\[127\]](#page-80-1) In 2005, Labour's [Ruairi](https://en.wikipedia.org/wiki/Ruairi_Quinn) [Quinn](https://en.wikipedia.org/wiki/Ruairi_Quinn) condemned an alleged Fianna Fáil proposal to replace the May holiday with one on 24 April commemorating the [1916](https://en.wikipedia.org/wiki/1916_Rising) [Rising](https://en.wikipedia.org/wiki/1916_Rising) as a slight to workers. The proposal was, in actuality, for an extra holiday – rather than a replacement[.\[128\]](#page-80-2)
+The [Irish Congress of Trade Unions](https://en.wikipedia.org/wiki/Irish_Congress_of_Trade_Unions) (ICTU) marks International Workers' Day with rallies in [Belfast](https://en.wikipedia.org/wiki/Belfast) and [Dublin](https://en.wikipedia.org/wiki/Dublin) and other events such as lectures, concerts and film screenings also take place around a wider May Day festival[.\[121\]](#page-79-4)[\[122\]](#page-79-5) The first Monday in May has been a [public holiday in the Republic of Ireland](https://en.wikipedia.org/wiki/Public_holiday_in_the_Republic_of_Ireland) since 199[4\[123\]](#page-79-6) and in Northern Ireland since 1978[.\[124\]](#page-79-7) In the Republic the public holiday was demanded by the ICTU[\[125\]](#page-79-8) and proposed by the [Labour Party](https://en.wikipedia.org/wiki/Labour_Party_(Ireland)) in negotiating [its 1992-94](https://en.wikipedia.org/wiki/23rd_Government_of_Ireland) [coalition government](https://en.wikipedia.org/wiki/23rd_Government_of_Ireland) with [Fianna Fáil,](https://en.wikipedia.org/wiki/Fianna_F%C3%A1il) and marked the centenary of the ICTU's predecessor, the [Irish Trades Union](https://en.wikipedia.org/wiki/Irish_Trades_Union_Congress) [Congress.](https://en.wikipedia.org/wiki/Irish_Trades_Union_Congress) [\[126\]](#page-80-0) The public holiday has no official designation, as "Workers' Day" or otherwise[.\[127\]](#page-80-1) In 2005, Labour's [Ruairi](https://en.wikipedia.org/wiki/Ruairi_Quinn) [Quinn](https://en.wikipedia.org/wiki/Ruairi_Quinn) condemned an alleged Fianna Fáil proposal to replace the May holiday with one on 24 April commemorating the [1916](https://en.wikipedia.org/wiki/1916_Rising) [Rising](https://en.wikipedia.org/wiki/1916_Rising) as a slight to workers. The proposal was, in actuality, for an extra holiday - rather than a replacement[.\[128\]](#page-80-2)
 
 ## ![](_page_27_Picture_3.jpeg)
 
@@ -309,7 +318,7 @@ In Malta, 1 May is an official public holiday celebrated as "Workers' Day"[,\[13
 
 In Montenegro, 1 May is an official public holiday and a day off work and a day out of school. It is the only official holiday from socialist times that is still officially celebrated.[\[136\]](#page-81-3)
 
-In the Netherlands, 1 May or Labour Day [\(Dutch:](https://en.wikipedia.org/wiki/Dutch_language) Dag van de Arbeid) is not an official holiday. This is due in part to its proximity to the national holiday, [Koningsdag,](https://en.wikipedia.org/wiki/Koningsdag) which was celebrated on the day before until 2013. Labour movements also didn't see the need to agitate for an extra day off during the [Post–World War II recovery efforts.](https://en.wikipedia.org/wiki/Post%E2%80%93World_War_II_economic_expansion) [Liberals](https://en.wikipedia.org/wiki/Liberalism) who joined the [Labour Party](https://en.wikipedia.org/wiki/Labour_Party_(Netherlands)) in this same period also wanted to distance themselves from the [Soviet Union](https://en.wikipedia.org/wiki/Soviet_Union) because of [Cold War](https://en.wikipedia.org/wiki/Cold_War) sentiments[.\[137\]](#page-81-4)
+In the Netherlands, 1 May or Labour Day [\(Dutch:](https://en.wikipedia.org/wiki/Dutch_language) Dag van de Arbeid) is not an official holiday. This is due in part to its proximity to the national holiday, [Koningsdag,](https://en.wikipedia.org/wiki/Koningsdag) which was celebrated on the day before until 2013. Labour movements also didn't see the need to agitate for an extra day off during the [Post-World War II recovery efforts.](https://en.wikipedia.org/wiki/Post%E2%80%93World_War_II_economic_expansion) [Liberals](https://en.wikipedia.org/wiki/Liberalism) who joined the [Labour Party](https://en.wikipedia.org/wiki/Labour_Party_(Netherlands)) in this same period also wanted to distance themselves from the [Soviet Union](https://en.wikipedia.org/wiki/Soviet_Union) because of [Cold War](https://en.wikipedia.org/wiki/Cold_War) sentiments[.\[137\]](#page-81-4)
 
 ![](_page_29_Picture_4.jpeg)
 
@@ -466,7 +475,7 @@ National Assembly declared 1 May as "Spring Day" to be a public holiday[.\[171\]
 
 During the events leading to the 1980 Turkish coup d'état, a massacre occurred on 1 May 1977 (Taksim Square massacre), in which unknown people [\(agents provocateurs\)](https://en.wikipedia.org/wiki/Agent_provocateur) opened fire on the crowd. The crowd was the biggest in Turkish workers' history with the number of people approximating 500,000. In the next two years, provocations and confusion continued and peaked before the 1980 coup d'état. The 1 May holiday was cancelled after the coup d'état. Still, demonstrations continued with small crowds, and in 1996, three people were killed by police bullets, and a plain-clothes man who spied in the crowd was revealed and lynched by workers. On the same evening, a video broadcast on TV showed that two participants in the demonstration were lynched by far right-wing nationalist groups and this lynching occurred in front of police forces who were watching the scene with happy faces. Thus, 1 May 1996 has been remembered by workers' movements[.\[171\]](#page-85-5)
 
-In 2007, the 30th anniversary of the Taksim Square Massacre, leftist workers' unions wanted to commemorate the massacre in [Taksim Square.](https://en.wikipedia.org/wiki/Taksim_Square) Since the government would not let them into the square, 580–700 people were stopped and 1 person died under police control. After these events, the government declared 1 May as "Work and Solidarity Day" but not as a holiday. In the next year, the day was declared as a holiday, but people were still not allowed to gather in Taksim Square.[\[172\]](#page-85-6) The year 2008 was remembered with police violence in Istanbul. Police fired tear gas grenades among the crowds, and into hospitals and a primary school. Workers pushed forward so that in 2010, 140,000 people gathered in Taksim, and in 2011 there were more than half a million demonstrators.[[citation](https://en.wikipedia.org/wiki/Wikipedia:Citation_needed) [needed](https://en.wikipedia.org/wiki/Wikipedia:Citation_needed)]
+In 2007, the 30th anniversary of the Taksim Square Massacre, leftist workers' unions wanted to commemorate the massacre in [Taksim Square.](https://en.wikipedia.org/wiki/Taksim_Square) Since the government would not let them into the square, 580-700 people were stopped and 1 person died under police control. After these events, the government declared 1 May as "Work and Solidarity Day" but not as a holiday. In the next year, the day was declared as a holiday, but people were still not allowed to gather in Taksim Square.[\[172\]](#page-85-6) The year 2008 was remembered with police violence in Istanbul. Police fired tear gas grenades among the crowds, and into hospitals and a primary school. Workers pushed forward so that in 2010, 140,000 people gathered in Taksim, and in 2011 there were more than half a million demonstrators.[[citation](https://en.wikipedia.org/wiki/Wikipedia:Citation_needed) [needed](https://en.wikipedia.org/wiki/Wikipedia:Citation_needed)]
 
 After three years of peaceful meetings in 2013, meetings in Taksim Square were forbidden by the government. Clashes occurred between police and workers; [water cannon](https://en.wikipedia.org/wiki/Water_cannon) and [tear](https://en.wikipedia.org/wiki/Tear_gas) [gas](https://en.wikipedia.org/wiki/Tear_gas) have been widely used[.\[173\]](#page-85-7)
 
@@ -532,7 +541,7 @@ During the [Presidency of Gloria Macapagal-Arroyo,](https://en.wikipedia.org/wik
 
 In Singapore, it is known as Labour Day and is a public holiday. [\[207\]](#page-89-4) The [Prime Minister,](https://en.wikipedia.org/wiki/Prime_Minister_of_Singapore) who is the leader of the ruling [People's](https://en.wikipedia.org/wiki/People%27s_Action_Party) [Action Party,](https://en.wikipedia.org/wiki/People%27s_Action_Party) gives a May Day Rally championing the [tripartite](https://en.wikipedia.org/wiki/Tripartism) [relationship](https://en.wikipedia.org/wiki/Tripartism) between government, employers, and employees. In Thailand, the day is known in English as National Labour Day, and is one of 17 official [public holidays in Thailand.](https://en.wikipedia.org/wiki/Public_holidays_in_Thailand) [\[208\]](#page-89-5) In Vietnam, it is known as International Labour Day [\(Vietnamese:](https://en.wikipedia.org/wiki/Vietnamese_language) Ngày Quốc tế Lao động) and is a public holiday. [\[209\]](#page-89-6) It was first adopted by the Nguyễ[n dynasty](https://en.wikipedia.org/wiki/Nguy%E1%BB%85n_dynasty) on the 11th day of the 9th month of the 16th year of the Bảo [Đạ](https://en.wikipedia.org/wiki/B%E1%BA%A3o_%C4%90%E1%BA%A1i)i Emperor (30 October 1941) by imperial decree[.\[209\]](#page-89-6) Later on 29 April 1946 President Hồ [Chí Minh](https://en.wikipedia.org/wiki/H%E1%BB%93_Ch%C3%AD_Minh) issued Sắc lệnh số 56 (Decree No. 56) which adopted the holiday for the [Democratic Republic of](https://en.wikipedia.org/wiki/North_Vietnam) [Vietnam.](https://en.wikipedia.org/wiki/North_Vietnam) [\[209\]](#page-89-6)
 
-According to the decree "workers in public offices, private offices and factories throughout the country are entitled to a day off from work. International Labour 1.5 and still receive the same salary as a working day…"[.\[209\]](#page-89-6) On 1 May 1946 the first International Labour Day of the Democratic Republic of Vietnam was held[.\[209\]](#page-89-6)
+According to the decree "workers in public offices, private offices and factories throughout the country are entitled to a day off from work. International Labour 1.5 and still receive the same salary as a working day..."[.\[209\]](#page-89-6) On 1 May 1946 the first International Labour Day of the Democratic Republic of Vietnam was held[.\[209\]](#page-89-6)
 
 In Bahrain, 1 May is known as Labour Day and is a public holiday[.\[210\]](#page-89-7)
 
@@ -558,21 +567,24 @@ wing parties and workers' unions organize marches on 1 May. [\[215\]](#page-90-3
 
 #### [\[edit\]](https://en.wikipedia.org/w/index.php?title=International_Workers%27_Day&action=edit§ion=126)
 
-| Country | International Workers' Day / Labour<br>Day on 1 May |
+| Country | International Workers' Day / Labour
+Day on 1 May |
 |------------------------|-----------------------------------------------------|
 | Afghanistan | No (no holiday) |
 | Albania | Yes |
 | Algeria | Yes |
 | Andorra | Yes |
 | Angola | Yes |
-| Antigua and<br>Barbuda | No (first Monday in May) |
+| Antigua and
+Barbuda | No (first Monday in May) |
 | Argentina | Yes |
 | Armenia | Yes |
 | Australia | No (date varies by state/territory) |
 | Austria | Yes |
 ## | Azerbaijan | No (no holiday) |
 
-| Country | International Workers' Day / Labour<br>Day on 1 May |
+| Country | International Workers' Day / Labour
+Day on 1 May |
 |--------------|-----------------------------------------------------|
 | Bahamas | Yes |
 | Bahrain | Yes |
@@ -595,18 +607,23 @@ wing parties and workers' unions organize marches on 1 May. [\[215\]](#page-90-3
 | Cambodia | Yes |
 ## | Cameroon | Yes |
 
-| Country | International Workers' Day / Labour<br>Day on 1 May |
+| Country | International Workers' Day / Labour
+Day on 1 May |
 |----------------------------------------|-----------------------------------------------------|
 | Canada | No (first Monday in September) |
 | Cape Verde | Yes |
-| Central African<br>Republic | Yes |
+| Central African
+Republic | Yes |
 | Chad | Yes |
 | Chile | Yes |
 | China | Yes |
 | Colombia | Yes |
 | Comoros | Yes |
-| Republic of the<br>Congo | Yes |
-| Democratic<br>Republic of the<br>Congo | Yes |
+| Republic of the
+Congo | Yes |
+| Democratic
+Republic of the
+Congo | Yes |
 | Costa Rica | Yes |
 | Croatia | Yes |
 | Cuba | Yes |
@@ -614,26 +631,34 @@ wing parties and workers' unions organize marches on 1 May. [\[215\]](#page-90-3
 | Czech Republic | Yes |
 ## | Denmark | No (no holiday) |
 
-| Country | International Workers' Day / Labour<br>Day on 1 May |
+| Country | International Workers' Day / Labour
+Day on 1 May |
 |-----------------------|---------------------------------------------------------|
 | Djibouti | Yes |
 | Dominica | No (first Monday in May) |
-| Dominican<br>Republic | Yes |
+| Dominican
+Republic | Yes |
 | East Timor | Yes |
 | Ecuador | Yes |
 | Egypt | Yes |
 | El Salvador | Yes |
-| Equatorial<br>Guinea | Yes |
+| Equatorial
+Guinea | Yes |
 | Eritrea | Yes |
-| Estonia | No (May Day celebrated instead)<br>[citation<br>needed] |
+| Estonia | No (May Day celebrated instead)
+[citation
+needed] |
 | Eswatini | Yes |
 | Ethiopia | Yes |
 | Fiji | No (no holiday) |
-| Finland | No (May Day celebrated instead)<br>[citation<br>needed] |
+| Finland | No (May Day celebrated instead)
+[citation
+needed] |
 | France | Yes |
 ## | Gabon | Yes |
 
-| Country | International Workers' Day / Labour<br>Day on 1 May |
+| Country | International Workers' Day / Labour
+Day on 1 May |
 |---------------|-----------------------------------------------------|
 | Gambia | Yes |
 | Georgia | Yes |
@@ -655,7 +680,8 @@ wing parties and workers' unions organize marches on 1 May. [\[215\]](#page-90-3
 | Iraq | Yes |
 ## | Ireland | No (first Monday in May) |
 
-| Country | International Workers' Day / Labour<br>Day on 1 May |
+| Country | International Workers' Day / Labour
+Day on 1 May |
 |---------------|-----------------------------------------------------------------------------------------------------------|
 | Israel | No (no holiday) |
 | Italy | Yes |
@@ -663,7 +689,9 @@ wing parties and workers' unions organize marches on 1 May. [\[215\]](#page-90-3
 | Jamaica | No (23 May) |
 | Japan | No (23 November) |
 | Jordan | Yes |
-| Kazakhstan | No (Kazakhstan People's Unity Day<br>celebrated instead; Labour Day falls on<br>last Sunday in September) |
+| Kazakhstan | No (Kazakhstan People's Unity Day
+celebrated instead; Labour Day falls on
+last Sunday in September) |
 | Kenya | Yes |
 | Kiribati | Yes |
 | Kuwait | Yes |
@@ -676,7 +704,8 @@ wing parties and workers' unions organize marches on 1 May. [\[215\]](#page-90-3
 | Libya | Yes |
 ## | Liechtenstein | Yes |
 
-| Country | International Workers' Day / Labour<br>Day on 1 May |
+| Country | International Workers' Day / Labour
+Day on 1 May |
 |---------------------|-----------------------------------------------------|
 | Lithuania | Yes |
 | Luxembourg | Yes |
@@ -686,7 +715,8 @@ wing parties and workers' unions organize marches on 1 May. [\[215\]](#page-90-3
 | Maldives | Yes |
 | Mali | Yes |
 | Malta | Yes |
-| Marshall<br>Islands | Yes |
+| Marshall
+Islands | Yes |
 | Mauritania | Yes |
 | Mauritius | Yes |
 | Mexico | Yes |
@@ -698,7 +728,8 @@ wing parties and workers' unions organize marches on 1 May. [\[215\]](#page-90-3
 | Morocco | Yes |
 ## | Mozambique | Yes |
 
-| Country | International Workers' Day / Labour<br>Day on 1 May |
+| Country | International Workers' Day / Labour
+Day on 1 May |
 |---------------------|-----------------------------------------------------|
 | Myanmar | Yes |
 | Namibia | Yes |
@@ -710,16 +741,19 @@ wing parties and workers' unions organize marches on 1 May. [\[215\]](#page-90-3
 | Niger | Yes |
 | Nigeria | Yes |
 | North Korea | Yes |
-| North<br>Macedonia | Yes |
+| North
+Macedonia | Yes |
 | Norway | Yes |
 | Oman | No (no holiday) |
 | Pakistan | Yes |
 | Palau | Yes |
 | Panama | Yes |
-| Papua New<br>Guinea | No (no holiday) |
+| Papua New
+Guinea | No (no holiday) |
 ## | Paraguay | Yes |
 
-| Country | International Workers' Day / Labour<br>Day on 1 May |
+| Country | International Workers' Day / Labour
+Day on 1 May |
 |----------------------------------------|-----------------------------------------------------|
 | Peru | Yes |
 | Philippines | Yes |
@@ -729,16 +763,21 @@ wing parties and workers' unions organize marches on 1 May. [\[215\]](#page-90-3
 | Romania | Yes |
 | Russia | Yes |
 | Rwanda | Yes |
-| Saint Kitts and<br>Nevis | No (first Monday in May) |
+| Saint Kitts and
+Nevis | No (first Monday in May) |
 | Saint Lucia | Yes |
-| Saint Vincent<br>and the<br>Grenadines | Yes |
+| Saint Vincent
+and the
+Grenadines | Yes |
 | Samoa | No (no holiday) |
 | San Marino | Yes |
-| São Tomé and<br>Príncipe | Yes |
+| São Tomé and
+Príncipe | Yes |
 | Saudi Arabia | No (no holiday) |
 ## | Senegal | Yes |
 
-| Country | International Workers' Day / Labour<br>Day on 1 May |
+| Country | International Workers' Day / Labour
+Day on 1 May |
 |--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Serbia | Yes |
 | Seychelles | Yes |
@@ -746,10 +785,14 @@ wing parties and workers' unions organize marches on 1 May. [\[215\]](#page-90-3
 | Singapore | Yes |
 | Slovakia | Yes |
 | Slovenia | Yes |
-| Solomon<br>Islands | No (no holiday) |
+| Solomon
+Islands | No (no holiday) |
 | Somalia | Yes |
 | South Africa | Yes |
-| South Korea | No (no holiday; per Labor Day Act,<br>employers can stipulate that 1 May be<br>made an official holiday within the<br>company's rules of employment) |
+| South Korea | No (no holiday; per Labor Day Act,
+employers can stipulate that 1 May be
+made an official holiday within the
+company's rules of employment) |
 | South Sudan | Yes |
 | Spain | Yes |
 | Sri Lanka | Yes |
@@ -757,7 +800,8 @@ wing parties and workers' unions organize marches on 1 May. [\[215\]](#page-90-3
 | Suriname | Yes |
 ## | Sweden | Yes |
 
-| Country | International Workers' Day / Labour<br>Day on 1 May |
+| Country | International Workers' Day / Labour
+Day on 1 May |
 |-------------------------|--------------------------------------------------------|
 | Switzerland | Yes |
 | Syria | Yes |
@@ -767,17 +811,22 @@ wing parties and workers' unions organize marches on 1 May. [\[215\]](#page-90-3
 | Thailand | Yes |
 | Togo | Yes |
 | Tonga | No (no holiday) |
-| Trinidad and<br>Tobago | No (19 June) |
+| Trinidad and
+Tobago | No (19 June) |
 | Tunisia | Yes |
 | Turkey | Yes |
 | Turkmenistan | No (no holiday) |
 | Tuvalu | Yes |
 | Uganda | Yes |
 | Ukraine | Yes |
-| United Arab<br>Emirates | No (no holiday) |
-| United<br>Kingdom | No (Early May bank holiday celebrated<br>instead)[182] |
+| United Arab
+Emirates | No (no holiday) |
+| United
+Kingdom | No (Early May bank holiday celebrated
+instead)[182] |
 
-| Country | International Workers' Day / Labour<br>Day on 1 May |
+| Country | International Workers' Day / Labour
+Day on 1 May |
 |---------------|-----------------------------------------------------|
 | United States | No (first Monday in September) |
 | Uruguay | Yes |
@@ -803,7 +852,7 @@ wing parties and workers' unions organize marches on 1 May. [\[215\]](#page-90-3
 - 2. ^ Rothman, Lily (1 May 2017). ["The Bloody Story of How May](https://time.com/3836834/may-day-labor-history/) [Day Became a Holiday for Workers"](https://time.com/3836834/may-day-labor-history/). Time. Time Magazine. [Archived](https://web.archive.org/web/20210628180755/https://time.com/3836834/may-day-labor-history/) from the original on 28 June 2021. Retrieved 2 May 2017.
 - 3. ^ Grant, Jordan (28 April 2016). ["May 1st Day: America's](http://americanhistory.si.edu/blog/may-day-americas-traditional-radical-complicated-holiday-part-1) [traditional, radical, complicated holiday"](http://americanhistory.si.edu/blog/may-day-americas-traditional-radical-complicated-holiday-part-1). The National Museum of American History. [Archived](https://web.archive.org/web/20200501211426/https://americanhistory.si.edu/blog/may-day-americas-traditional-radical-complicated-holiday-part-1) from the original on 1 May 2020. Retrieved 2 May 2017.
 - 4. ^ ["The Brief Origins of May Day"](http://www.iww.org/history/library/misc/origins_of_mayday). IWW Historical Archives. Industrial Workers of the World. [Archived](https://web.archive.org/web/20190107083753/https://www.iww.org/history/library/misc/origins_of_mayday) from the original on 7 January 2019. Retrieved 2 May 2014.
-- 5. ^ Jump up to: **a b c** [Foner, Philip S.](https://en.wikipedia.org/wiki/Philip_S._Foner) (1986). [May Day: A Short](https://archive.org/details/maydayshorthisto0000fone) [History of the International Workers' Holiday, 1886–1986](https://archive.org/details/maydayshorthisto0000fone). New York: International Publishers. pp. [41–43](https://archive.org/details/maydayshorthisto0000fone/page/41). [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier)) [978-0-7178-0624-9](https://en.wikipedia.org/wiki/Special:Book Sources/978-0-7178-0624-9).
+- 5. ^ Jump up to: **a b c** [Foner, Philip S.](https://en.wikipedia.org/wiki/Philip_S._Foner) (1986). [May Day: A Short](https://archive.org/details/maydayshorthisto0000fone) [History of the International Workers' Holiday, 1886-1986](https://archive.org/details/maydayshorthisto0000fone). New York: International Publishers. pp. [41-43](https://archive.org/details/maydayshorthisto0000fone/page/41). [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier)) [978-0-7178-0624-9](https://en.wikipedia.org/wiki/Special:Book Sources/978-0-7178-0624-9).
 - 6. ^ The Penguin Encyclopedia. Penguin Books. 2004. p. 860. "Labour / Labor Day A day of celebration, public demonstrations, and parades by trade unions and labour organizations , held in many countries on 1 May or theheld in many countries on 1 May or the first Monday in May"
 - 7. ^ ["Labour Day 2024"](https://timesofindia.indiatimes.com/life-style/events/happy-labour-day-2024-best-wishes-messages-quotes-whatsapp-and-facebook-status-to-share-on-may-day-labour-day-wishes/articleshow/109737799.cms). [Times of India](https://en.wikipedia.org/wiki/Times_of_India). 1 May 2024. "International Workers' Day, which is also called Labour Day or
 
@@ -825,13 +874,13 @@ wing parties and workers' unions organize marches on 1 May. [\[215\]](#page-90-3
 - 20. ^ ["Act II: Let Your Tragedy Be Enacted Here"](http://www.chicagohistoryresources.org/dramas/act2/act2.htm). The Dramas of Haymarket. Chicago Historical Society. 2000. [Archived](https://web.archive.org/web/20210621035940/http://www.chicagohistoryresources.org/dramas/act2/act2.htm) from the original on 21 June 2021. Retrieved 30 December 2017.
 - 21. ^ Ward, William (24 May 1886). ["Letter from Captain William](http://www.chicagohistoryresources.org/hadc/manuscripts/m03/M03.htm#M03P060) [Ward to Inspector John Bonfield"](http://www.chicagohistoryresources.org/hadc/manuscripts/m03/M03.htm#M03P060). Haymarket Affair Digital Collection. Chicago Historical Society. [Archived](https://web.archive.org/web/20210621041107/http://www.chicagohistoryresources.org/hadc/manuscripts/m03/M03.htm#M03P060) from the original on 21 June 2021. Retrieved 30 December 2017.
 - 22. ^ Jump up to: **a b** ["Bay View Tragedy"](http://www.wisconsinlaborhistory.org/resources/bay-view). Wisconsin Labor History Society. 6 November 2009. [Archived](https://web.archive.org/web/20200502041345/https://www.wisconsinlaborhistory.org/resources/bay-view/) from the original on 2 May 2020. Retrieved 11 May 2016.
-- 23. ^ Jump up to: **a b** Mc Inerney, Andy (June 2003). ["May Day, The](https://journals.co.za/doi/pdf/10.10520/AJA15955753_276) [Worker's Day, born in the struggle for the eight-hour day"](https://journals.co.za/doi/pdf/10.10520/AJA15955753_276). The Constitution. **3** (4): 92–100. [Archived](https://web.archive.org/web/20210621040015/https://journals.co.za/doi/pdf/10.10520/AJA15955753_276) from the original on 21 June 2021. Retrieved 26 April 2021.
-- 24. ^ [Foner, Philip S.](https://en.wikipedia.org/wiki/Philip_S._Foner) (1986). [May Day: A Short History of the](https://archive.org/details/maydayshorthisto0000fone) [International Workers' Holiday, 1886–1986](https://archive.org/details/maydayshorthisto0000fone). New York: International Publishers. p. [65](https://archive.org/details/maydayshorthisto0000fone/page/65). [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier)) [978-0-7178-0624-9](https://en.wikipedia.org/wiki/Special:Book Sources/978-0-7178-0624-9).
+- 23. ^ Jump up to: **a b** Mc Inerney, Andy (June 2003). ["May Day, The](https://journals.co.za/doi/pdf/10.10520/AJA15955753_276) [Worker's Day, born in the struggle for the eight-hour day"](https://journals.co.za/doi/pdf/10.10520/AJA15955753_276). The Constitution. **3** (4): 92-100. [Archived](https://web.archive.org/web/20210621040015/https://journals.co.za/doi/pdf/10.10520/AJA15955753_276) from the original on 21 June 2021. Retrieved 26 April 2021.
+- 24. ^ [Foner, Philip S.](https://en.wikipedia.org/wiki/Philip_S._Foner) (1986). [May Day: A Short History of the](https://archive.org/details/maydayshorthisto0000fone) [International Workers' Holiday, 1886-1986](https://archive.org/details/maydayshorthisto0000fone). New York: International Publishers. p. [65](https://archive.org/details/maydayshorthisto0000fone/page/65). [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier)) [978-0-7178-0624-9](https://en.wikipedia.org/wiki/Special:Book Sources/978-0-7178-0624-9).
 - 25. ^ [Hobsbawm, Eric](https://en.wikipedia.org/wiki/Eric_Hobsbawm) (10 July 2009). ["Birth of a Holiday: The First](https://libcom.org/history/birth-holiday-first-may) [of May - Eric Hobsbawm"](https://libcom.org/history/birth-holiday-first-may). libcom.org. [Archived](https://web.archive.org/web/20210621040021/https://libcom.org/history/birth-holiday-first-may) from the original on 21 June 2021. Retrieved 26 April 2021. "In fact, the
 
 - question was to be formally discussed at the Brussels International Socialist Congress of 1891, with the British and Germans opposing the French and Austrians on this point, and being outvoted."
 - 26. ^ Jump up to: **a b** ["United States Department of Labor: The](https://web.archive.org/web/20110903051707/http://www.dol.gov/opa/aboutdol/laborday.htm) [History of Labor Day"](https://web.archive.org/web/20110903051707/http://www.dol.gov/opa/aboutdol/laborday.htm). Archived from [the original](http://www.dol.gov/opa/aboutdol/laborday.htm) on 3 September 2011. Retrieved 2 September 2011.
-- 27. ^ Jump up to: **a b** [The Bridgemen's magazine](https://books.google.com/books?id=bIFIAAAAYAAJ&pg=PA443). International Association of Bridge. Structural and Ornamental Iron Workers. 1921. pp. 443–44. [Archived](https://web.archive.org/web/20230501050929/https://books.google.com/books?id=bIFIAAAAYAAJ&pg=PA443) from the original on 1 May 2023. Retrieved 4 September 2011.
+- 27. ^ Jump up to: **a b** [The Bridgemen's magazine](https://books.google.com/books?id=bIFIAAAAYAAJ&pg=PA443). International Association of Bridge. Structural and Ornamental Iron Workers. 1921. pp. 443-44. [Archived](https://web.archive.org/web/20230501050929/https://books.google.com/books?id=bIFIAAAAYAAJ&pg=PA443) from the original on 1 May 2023. Retrieved 4 September 2011.
 - 28. ^ ["The Canadian Encyclopedia: Origins of Labour Day"](https://www.thecanadianencyclopedia.ca/en/article/origins-of-labour-day-feature). [Archived](https://web.archive.org/web/20141028085442/http://www.thecanadianencyclopedia.com/en/article/origins-of-labour-day-feature/) from the original on 28 October 2014. Retrieved 5 September 2011.
 - 29. ^ Jump up to: **a b** [Knights of Labor.](https://web.archive.org/web/20070930082656/http://progressivehistorians.com/show Diary.do?diary Id=2041) Progressive Historians (3 September 2007).
 - 30. ^ ["Mayday traditions and events in Hungary"](https://web.archive.org/web/20110721104804/http://www.caboodle.hu/nc/news/news_archive/single_page/article/11/mayday_tradi/?c Hash=53dca10da6). Caboodle.hu. 30 April 2007. Archived from [the original](http://www.caboodle.hu/nc/news/news_archive/single_page/article/11/mayday_tradi/?c Hash=53dca10da6) on 21 July 2011. Retrieved 1 May 2011.
@@ -841,11 +890,11 @@ wing parties and workers' unions organize marches on 1 May. [\[215\]](#page-90-3
 
 - 34. ^ ["Ethiopia: Upholding Workers' Right to](https://allafrica.com/stories/201805010445.html) [Unionization,Bargain"](https://allafrica.com/stories/201805010445.html). The Ethiopian Herald (Addis Ababa). 1 May 2018. [Archived](https://web.archive.org/web/20200414212709/https://allafrica.com/stories/201805010445.html) from the original on 14 April 2020. Retrieved 7 May 2019.
 - 35. ^ Jump up to: **a b c** ["May Day"](https://web.archive.org/web/20210224182637/https://www.ghanatuc.org/mayday.html). ghanatuc.org. Archived from [the](http://www.ghanatuc.org/mayday.html) [original](http://www.ghanatuc.org/mayday.html) on 24 February 2021. Retrieved 30 August 2018.
-- 36. ^ Kwach, Julie (1 May 2019). ["History of Labour Day in Kenya"](https://www.tuko.co.ke/270175-labour-day-history-kenya.html#270175). Tuko.co.ke – Kenya news. [Archived](https://web.archive.org/web/20210308150905/https://www.tuko.co.ke/270175-labour-day-history-kenya.html#270175) from the original on 8 March 2021. Retrieved 6 May 2019.
-- 37. ^ [The transitional government on Tuesday announced a public](https://web.archive.org/web/20120515081013/https://www.pm.gov.ly/news/621.html) [holiday in all parts of Libya on the occasion of International](https://web.archive.org/web/20120515081013/https://www.pm.gov.ly/news/621.html) [Workers' Holiday.](https://web.archive.org/web/20120515081013/https://www.pm.gov.ly/news/621.html) The Libyan government transition – Prime Minister's Office (in Arabic).
-- 38. ^ [Address to the nation and call for reforms by Muammar](https://web.archive.org/web/20150512224852/http://mathaba.net/info/demindust.htm) [Qaddafi, marking celebrations of International Workers' Day on](https://web.archive.org/web/20150512224852/http://mathaba.net/info/demindust.htm) [1 May 1982](https://web.archive.org/web/20150512224852/http://mathaba.net/info/demindust.htm)[\[usurped\]](https://en.wikipedia.org/wiki/Template:Usurped/doc) Mathaba News Network – Archive: Democracy in Industry. Retrieved 1 May 2012.
+- 36. ^ Kwach, Julie (1 May 2019). ["History of Labour Day in Kenya"](https://www.tuko.co.ke/270175-labour-day-history-kenya.html#270175). Tuko.co.ke - Kenya news. [Archived](https://web.archive.org/web/20210308150905/https://www.tuko.co.ke/270175-labour-day-history-kenya.html#270175) from the original on 8 March 2021. Retrieved 6 May 2019.
+- 37. ^ [The transitional government on Tuesday announced a public](https://web.archive.org/web/20120515081013/https://www.pm.gov.ly/news/621.html) [holiday in all parts of Libya on the occasion of International](https://web.archive.org/web/20120515081013/https://www.pm.gov.ly/news/621.html) [Workers' Holiday.](https://web.archive.org/web/20120515081013/https://www.pm.gov.ly/news/621.html) The Libyan government transition - Prime Minister's Office (in Arabic).
+- 38. ^ [Address to the nation and call for reforms by Muammar](https://web.archive.org/web/20150512224852/http://mathaba.net/info/demindust.htm) [Qaddafi, marking celebrations of International Workers' Day on](https://web.archive.org/web/20150512224852/http://mathaba.net/info/demindust.htm) [1 May 1982](https://web.archive.org/web/20150512224852/http://mathaba.net/info/demindust.htm)[\[usurped\]](https://en.wikipedia.org/wiki/Template:Usurped/doc) Mathaba News Network - Archive: Democracy in Industry. Retrieved 1 May 2012.
 - 39. ^ [Labour Day](http://www.mauritiustimes.com/mt/labour-day) [Archived](https://web.archive.org/web/20220425021501/http://www.mauritiustimes.com/mt/labour-day) 25 April 2022 at the [Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine) Mauritius Times article by TP Saran|
-- 40. ^ ["Practical information to go on holiday to Marrakech – Travel](https://www.airfrance.co.uk/travel-guide/marrakech/practical-information#af-tbaf-content) [by Air France"](https://www.airfrance.co.uk/travel-guide/marrakech/practical-information#af-tbaf-content). Air France. [Archived](https://web.archive.org/web/20190213163040/https://www.airfrance.co.uk/travel-guide/marrakech/practical-information#af-tbaf-content) from the original on 13 February 2019. Retrieved 7 May 2019.
+- 40. ^ ["Practical information to go on holiday to Marrakech - Travel](https://www.airfrance.co.uk/travel-guide/marrakech/practical-information#af-tbaf-content) [by Air France"](https://www.airfrance.co.uk/travel-guide/marrakech/practical-information#af-tbaf-content). Air France. [Archived](https://web.archive.org/web/20190213163040/https://www.airfrance.co.uk/travel-guide/marrakech/practical-information#af-tbaf-content) from the original on 13 February 2019. Retrieved 7 May 2019.
 - 41. ^ ["Mozambique: Workers March On May Day"](https://allafrica.com/stories/201805020824.html). Agencia de Informacao de Mocambique (Maputo). 2 May 2018. [Archived](https://web.archive.org/web/20190508182815/https://allafrica.com/stories/201805020824.html) from the original on 8 May 2019. Retrieved 8 May 2019.
 - 42. ^ Reporter, New Era (29 April 2014). ["May Day distress over](https://neweralive.na/posts/day-distress-workers-day) [Workers' Day"](https://neweralive.na/posts/day-distress-workers-day). New Era Live. [Archived](https://web.archive.org/web/20190507220406/https://neweralive.na/posts/day-distress-workers-day) from the original on 7
 
@@ -887,15 +936,15 @@ October 2019.
 - 72. ^ ["Holiday Calendar 2019"](https://hn.usembassy.gov/holiday-calendar/). U. S. Embassy in Honduras. [Archived](https://web.archive.org/web/20191016031054/https://hn.usembassy.gov/holiday-calendar/) from the original on 16 October 2019. Retrieved 16 October 2019.
 - 73. ^ ["Holiday Calendar"](https://web.archive.org/web/20181116032502/https://pa.usembassy.gov/holiday-calendar/). U. S. Embassy in Panama. Archived from [the original](https://pa.usembassy.gov/holiday-calendar/) on 16 November 2018.
 - 74. ^ ["Holiday Calendar"](https://py.usembassy.gov/holiday-calendar/). U. S. Embassy in Paraguay. [Archived](https://web.archive.org/web/20191016024952/https://py.usembassy.gov/holiday-calendar/) from the original on 16 October 2019. Retrieved 16 October 2019.
-- 75. ^ Kirsten, Tim. ["Labor Day – Dia de los Trabajadores"](https://www.perutelegraph.com/peru-information/peruvian-public-holidays-and-festivities/labor-day-dia-de-los-trabajadores). Peru Telegraph. [Archived](https://web.archive.org/web/20191016024658/https://www.perutelegraph.com/peru-information/peruvian-public-holidays-and-festivities/labor-day-dia-de-los-trabajadores) from the original on 16 October 2019. Retrieved 16 October 2019.
+- 75. ^ Kirsten, Tim. ["Labor Day - Dia de los Trabajadores"](https://www.perutelegraph.com/peru-information/peruvian-public-holidays-and-festivities/labor-day-dia-de-los-trabajadores). Peru Telegraph. [Archived](https://web.archive.org/web/20191016024658/https://www.perutelegraph.com/peru-information/peruvian-public-holidays-and-festivities/labor-day-dia-de-los-trabajadores) from the original on 16 October 2019. Retrieved 16 October 2019.
 - 76. ^ ["Labour Day - first Monday in May"](https://www.historicstkitts.kn/events/labour-day-first-monday-in-may-2). Historic St Kitts. Retrieved 1 May 2024.
-- 77. ^ Jump up to: **a b** ["Loyalty Day | Cultural Studies: Holidays](https://search.credoreference.com/content/entry/hfcwd/loyalty_day/0) [Around the World – Credo Reference"](https://search.credoreference.com/content/entry/hfcwd/loyalty_day/0). search.credoreference.com. [Archived](https://web.archive.org/web/20190501164448/https://search.credoreference.com/content/entry/hfcwd/loyalty_day/0) from the original on 1 May 2019. Retrieved 1 May 2019.
-- 78. ^ ["Law Day | Cultural Studies: Holidays Around the World –](https://search.credoreference.com/content/entry/hfcwd/law_day/0) [Credo Reference"](https://search.credoreference.com/content/entry/hfcwd/law_day/0). search.credoreference.com. [Archived](https://web.archive.org/web/20190501161423/https://search.credoreference.com/content/entry/hfcwd/law_day/0) from the original on 1 May 2019. Retrieved 1 May 2019.
+- 77. ^ Jump up to: **a b** ["Loyalty Day | Cultural Studies: Holidays](https://search.credoreference.com/content/entry/hfcwd/loyalty_day/0) [Around the World - Credo Reference"](https://search.credoreference.com/content/entry/hfcwd/loyalty_day/0). search.credoreference.com. [Archived](https://web.archive.org/web/20190501164448/https://search.credoreference.com/content/entry/hfcwd/loyalty_day/0) from the original on 1 May 2019. Retrieved 1 May 2019.
+- 78. ^ ["Law Day | Cultural Studies: Holidays Around the World -](https://search.credoreference.com/content/entry/hfcwd/law_day/0) [Credo Reference"](https://search.credoreference.com/content/entry/hfcwd/law_day/0). search.credoreference.com. [Archived](https://web.archive.org/web/20190501161423/https://search.credoreference.com/content/entry/hfcwd/law_day/0) from the original on 1 May 2019. Retrieved 1 May 2019.
 - 79. ^ ["Socialists' May Day Parade"](https://paperspast.natlib.govt.nz/newspapers/AS19340608.2.106.12?query=%22may%20day%22%20%22new%20york%22). No. 134. Auckland Star. 8 June 1934. [Archived](https://web.archive.org/web/20171010053332/https://paperspast.natlib.govt.nz/newspapers/AS19340608.2.106.12?query=%22may%20day%22%20%22new%20york%22) from the original on 10 October 2017. Retrieved 2 May 2017.
 - 80. ^ ["Chicago's Bombs"](https://paperspast.natlib.govt.nz/newspapers/AS19330503.2.72?query=%22may%20day%22%20%22new%20york%22). Vol. LXIV, no. 102. AUCKLAND STAR. 3
 
 - May 1933. [Archived](https://web.archive.org/web/20171010054258/https://paperspast.natlib.govt.nz/newspapers/AS19330503.2.72?query=%22may%20day%22%20%22new%20york%22) from the original on 10 October 2017. Retrieved 2 May 2017.
-- 81. ^ ["Protest du Jour: May Day is rally day in Seattle"](http://blog.seattlepi.com/thebigblog/archives/137891.asp). Seattle's Big Blog – seattlepi.com. 1 May 2008. [Archived](https://archive.today/20120707132948/http://blog.seattlepi.com/thebigblog/archives/137891.asp) from the original on 7 July 2012. Retrieved 1 May 2013.
+- 81. ^ ["Protest du Jour: May Day is rally day in Seattle"](http://blog.seattlepi.com/thebigblog/archives/137891.asp). Seattle's Big Blog - seattlepi.com. 1 May 2008. [Archived](https://archive.today/20120707132948/http://blog.seattlepi.com/thebigblog/archives/137891.asp) from the original on 7 July 2012. Retrieved 1 May 2013.
 - 82. ^ ["March smaller, but festive"](https://www.latimes.com/archives/la-xpm-2008-may-02-me-mayday2-story.html). Los Angeles Times. 2 May 2008. [Archived](https://web.archive.org/web/20110521074439/http://articles.latimes.com/2008/may/02/local/me-mayday2) from the original on 21 May 2011. Retrieved 1 May 2013.
 - 83. ^ Heyman, Jack (9 April 2008). ["Longshoremen to close ports](https://www.sfgate.com/opinion/article/Longshoremen-to-close-ports-on-West-Coast-to-3218746.php) [on West Coast to protest war"](https://www.sfgate.com/opinion/article/Longshoremen-to-close-ports-on-West-Coast-to-3218746.php). [San Francisco Chronicle](https://en.wikipedia.org/wiki/San_Francisco_Chronicle). [Archived](https://web.archive.org/web/20190511004045/https://www.sfgate.com/opinion/article/Longshoremen-to-close-ports-on-West-Coast-to-3218746.php) from the original on 11 May 2019. Retrieved 11 May 2019.
 - 84. ^ [May Day 2013 NYC | Another World is Possible](http://maydaynyc.org/) [Archived](https://web.archive.org/web/20120526045605/http://maydaynyc.org/) 26 May 2012 at the [Wayback Machine.](https://en.wikipedia.org/wiki/Wayback_Machine) Maydaynyc.org (5 January 2013). Retrieved on 1 May 2013.
@@ -907,16 +956,16 @@ October 2019.
 - [Archived](https://web.archive.org/web/20200501040234/https://www.vice.com/en_us/article/n7j8zw/amazon-whole-foods-instacart-workers-organize-a-historic-mass-strike) from the original on 1 May 2020. Retrieved 1 May 2020.
 - 89. ^ Lennard, Natasha (25 April 2020). ["With Millions Unable to](https://theintercept.com/2020/04/25/coronavirus-rent-strike-may/) [Pay for Housing Next Month, Organizers Plan the Largest Rent](https://theintercept.com/2020/04/25/coronavirus-rent-strike-may/) [Strike in Nearly a Century"](https://theintercept.com/2020/04/25/coronavirus-rent-strike-may/). The Intercept. [Archived](https://web.archive.org/web/20200429223955/https://theintercept.com/2020/04/25/coronavirus-rent-strike-may/) from the original on 29 April 2020. Retrieved 1 May 2020.
 - 90. ^ ["Anarchist And Autonomous Groups Hit Streets; Hold Public](https://itsgoingdown.org/may-day-2021/) [Events On May Day 2021"](https://itsgoingdown.org/may-day-2021/). Its Going Down. 3 May 2021. [Archived](https://web.archive.org/web/20210913202312/https://itsgoingdown.org/may-day-2021/) from the original on 13 September 2021. Retrieved 13 September 2021.
-- 91. ^ [Día del Trabajador en Venezuela – Magazine Digital](http://www.magazine.com.ve/cultura/index.php?id=6897&id Sec=13&accion=detalle) [Archived](https://web.archive.org/web/20120903103604/http://www.magazine.com.ve/cultura/index.php?id=6897&id Sec=13&accion=detalle) 3 September 2012 at the [Wayback Machine.](https://en.wikipedia.org/wiki/Wayback_Machine) Magazine.com.ve (30 July 2007). Retrieved on 1 May 2013.
+- 91. ^ [Día del Trabajador en Venezuela - Magazine Digital](http://www.magazine.com.ve/cultura/index.php?id=6897&id Sec=13&accion=detalle) [Archived](https://web.archive.org/web/20120903103604/http://www.magazine.com.ve/cultura/index.php?id=6897&id Sec=13&accion=detalle) 3 September 2012 at the [Wayback Machine.](https://en.wikipedia.org/wiki/Wayback_Machine) Magazine.com.ve (30 July 2007). Retrieved on 1 May 2013.
 - 92. ^ ["China scraps one of three Golden Week holidays"](https://www.reuters.com/article/life-china-holidays-dc-idUKPEK14649920071216). [Reuters](https://en.wikipedia.org/wiki/Reuters). 16 December 2007. [Archived](https://web.archive.org/web/20220413053106/https://www.reuters.com/article/life-china-holidays-dc-idUKPEK14649920071216) from the original on 13 April 2022. Retrieved 13 April 2022.
-- 93. ^ "[调与休:⻩⾦周⻓假的变迁](http://politics.people.com.cn/n/2013/1127/c70731-23676181.html)" [Reconcile and rest: the change of Golden Week vacation]. [People's Daily](https://en.wikipedia.org/wiki/People%27s_Daily) (in Chinese). [Xinhua](https://en.wikipedia.org/wiki/Xinhua_News_Agency) [News Agency](https://en.wikipedia.org/wiki/Xinhua_News_Agency). 27 November 2013. [Archived](https://web.archive.org/web/20220413052529/http://politics.people.com.cn/n/2013/1127/c70731-23676181.html) from the original on 13 April 2022. Retrieved 13 April 2022. "从2000年国庆放假开 始,对国庆、春节和劳动节这三个节的休假时间进⾏了统⼀调整,移 动节⽇前后的两个周末四天和法定假期三天集中休假,这样共计7天 时间[……]2008年,五⼀法定假期从3天改为1天,意味着五⼀⻩⾦周 被取消。" [Starting from the National Day holiday in 2000, the vacation time of the three festivals, National Day, Spring Festival and Labor Day, was adjusted, moving the two weekends before and after the holiday for four days and the legal holiday for three days to focus on vacation, so that a total
+- 93. ^ "[调与休:⻩⾦周⻓假的变迁](http://politics.people.com.cn/n/2013/1127/c70731-23676181.html)" [Reconcile and rest: the change of Golden Week vacation]. [People's Daily](https://en.wikipedia.org/wiki/People%27s_Daily) (in Chinese). [Xinhua](https://en.wikipedia.org/wiki/Xinhua_News_Agency) [News Agency](https://en.wikipedia.org/wiki/Xinhua_News_Agency). 27 November 2013. [Archived](https://web.archive.org/web/20220413052529/http://politics.people.com.cn/n/2013/1127/c70731-23676181.html) from the original on 13 April 2022. Retrieved 13 April 2022. "从2000年国庆放假开 始,对国庆、春节和劳动节这三个节的休假时间进⾏了统⼀调整,移 动节⽇前后的两个周末四天和法定假期三天集中休假,这样共计7天 时间[......]2008年,五⼀法定假期从3天改为1天,意味着五⼀⻩⾦周 被取消。" [Starting from the National Day holiday in 2000, the vacation time of the three festivals, National Day, Spring Festival and Labor Day, was adjusted, moving the two weekends before and after the holiday for four days and the legal holiday for three days to focus on vacation, so that a total
 
 - of 7 days [...] In 2008, the May Day legal holiday was changed from 3 days to 1 day, meaning that the May Day Golden Week was cancelled.]
 - 94. ^ ["](http://www.xinhuanet.com/politics/2019-11/28/c_1125283926.htm)"五⼀"假期延⻓⾄5天 [解读⻩⾦周背后的假如](http://www.xinhuanet.com/politics/2019-11/28/c_1125283926.htm)" ["May Day" holiday extended to 5 days: Explaining the assumptions behind the Golden Week]. [Xinhuanet](https://en.wikipedia.org/wiki/Xinhuanet) (in Chinese). Chengdu Business News. 28 November 2019. [Archived](https://web.archive.org/web/20220413052532/http://www.xinhuanet.com/politics/2019-11/28/c_1125283926.htm) from the original on 13 April 2022. Retrieved 13 April 2022. "2020年则是在延续 2019年"五⼀"休假安排的基础上,进⼀步拓展,通过调休再多增加了 ⼀天节⽇休假时间,从⽽形成了5天的"⼩⻓假"。" [In 2020, on the basis of the continuation of the "May Day" vacation arrangement in 2019, it further expands by adding one more day of holiday vacation time through the transfer, thus forming a 5-day "mini vacation".]
 - 95. ^ "[新闻背景:香港回归](https://www.chinanews.com/ga/2012/07-01/3998742.shtml)15年⼤事记" [News Background: Events in the 15 years since Hong Kong's return to China] (in Chinese). [China News Service](https://en.wikipedia.org/wiki/China_News_Service). 1 July 2012. [Archived](https://web.archive.org/web/20120702000613/http://www.chinanews.com/ga/2012/07-01/3998742.shtml) from the original on 2 July 2012. Retrieved 1 May 2024.
 - 96. ^ 香港勞⼯署. 僱傭條例簡明指南 - [第四章:休息⽇、法定假⽇及有薪](https://web.archive.org/web/20220112065423/https://www.labour.gov.hk/tc/public/pdf/wcp/Concise Guide/04.pdf) [年假](https://web.archive.org/web/20220112065423/https://www.labour.gov.hk/tc/public/pdf/wcp/Concise Guide/04.pdf) (PDF). Archived from [the original](https://www.labour.gov.hk/tc/public/pdf/wcp/Concise Guide/04.pdf) (PDF) on 12 January 2022. Retrieved 30 April 2022.
 - 97. ^ ["2023"](https://www.gov.mo/pt/public-holidays/year-2023/). Portal do Governo da RAE de Macau (in European Portuguese). [Archived](https://web.archive.org/web/20230501123231/https://www.gov.mo/pt/public-holidays/year-2023/) from the original on 1 May 2023. Retrieved 1 May 2023.
-- 98. ^ "[台灣國定假⽇與節⽇](https://holidays-calendar.net/calendar_zh_tw/taiwan_zh_tw.html) – 2019年年曆". holidays-calendar.net (in Chinese). [Archived](https://web.archive.org/web/20200501163806/https://holidays-calendar.net/calendar_zh_tw/taiwan_zh_tw.html) from the original on 1 May 2020. Retrieved 27 November 2019.
+- 98. ^ "[台灣國定假⽇與節⽇](https://holidays-calendar.net/calendar_zh_tw/taiwan_zh_tw.html) - 2019年年曆". holidays-calendar.net (in Chinese). [Archived](https://web.archive.org/web/20200501163806/https://holidays-calendar.net/calendar_zh_tw/taiwan_zh_tw.html) from the original on 1 May 2020. Retrieved 27 November 2019.
 - 99. ^ ["Golden Week"](http://www.japan-guide.com/e/e2282.html). Japan-guide.com. 13 May 2009. [Archived](https://web.archive.org/web/20161016170859/http://www.japan-guide.com/e/e2282.html)
 
 - from the original on 16 October 2016. Retrieved 5 February 2010.
@@ -932,7 +981,7 @@ October 2019.
 
 - [официални](http://www.parliament.bg/bg/24) празници" (in Bulgarian). Parliament of Bulgaria. [Archived](https://web.archive.org/web/20200427172928/https://parliament.bg/bg/24) from the original on 27 April 2020. Retrieved 28 April 2020.
 - 109. ^ ["Croatia Celebrates May Day"](https://www.croatiaweek.com/croatia-celebrates-may-day/). Croatia Week. May 2015. [Archived](https://web.archive.org/web/20190507182650/https://www.croatiaweek.com/croatia-celebrates-may-day/) from the original on 7 May 2019. Retrieved 7 May 2019.
-- 110. ^ ["RTE Customer's area – Public holidays in Europe"](http://clients.rte-france.com/lang/an/visiteurs/vie/vie_jours_feries.jsp). clients.rte-france.com. [Archived](https://web.archive.org/web/20200813075923/https://clients.rte-france.com/lang/an/visiteurs/vie/vie_jours_feries.jsp) from the original on 13 August 2020. Retrieved 7 May 2019.
+- 110. ^ ["RTE Customer's area - Public holidays in Europe"](http://clients.rte-france.com/lang/an/visiteurs/vie/vie_jours_feries.jsp). clients.rte-france.com. [Archived](https://web.archive.org/web/20200813075923/https://clients.rte-france.com/lang/an/visiteurs/vie/vie_jours_feries.jsp) from the original on 13 August 2020. Retrieved 7 May 2019.
 - 111. ^ ["Labour Day: your guide to May 1st in Denmark"](https://www.thelocal.dk/20190501/labour-day-in-denmark-why-is-it-so-special). thelocal.dk. 1 May 2019. [Archived](https://web.archive.org/web/20190507052016/https://www.thelocal.dk/20190501/labour-day-in-denmark-why-is-it-so-special) from the original on 7 May 2019. Retrieved 7 May 2019.
 - 112. ^ ["Finland shows carnival colours on May Day"](https://finland.fi/life-society/finland-shows-carnival-colours-on-may-day/). thisisFINLAND. 18 January 2015. [Archived](https://web.archive.org/web/20191013181105/https://finland.fi/life-society/finland-shows-carnival-colours-on-may-day/) from the original on 13 October 2019. Retrieved 17 October 2019.
 - 113. ^ ["Fêtes légales et jours fériés"](https://web.archive.org/web/20120503210415/http://service-public.fr/actualites/00790.html) (in French). Government of France. 24 April 2012. Archived from [the original](http://www.service-public.fr/actualites/00790.html) on 3 May 2012. Retrieved 1 May 2012.
@@ -941,12 +990,12 @@ October 2019.
 - 116. ^ ["Celebrations and Public Holidays"](http://www.eaed.gr/index.php?option=com_content&view=article&id=2415:2009-11-13-11-19-57&catid=244:-2009&Itemid=285) (in Greek). IKA Review of Insurance and Labour Law. [Archived](https://web.archive.org/web/20130525141803/http://www.eaed.gr/index.php?option=com_content&view=article&id=2415:2009-11-13-11-19-57&catid=244:-2009&Itemid=285) from the original on 25 May 2013. Retrieved 1 May 2013.
 
 - 117. ^ ["Protesters confront Greek police"](http://news.bbc.co.uk/1/hi/world/europe/8655711.stm). BBC News. 1 May 2010. [Archived](https://web.archive.org/web/20100507104348/http://news.bbc.co.uk/1/hi/world/europe/8655711.stm) from the original on 7 May 2010. Retrieved 2 May 2010.
-- 118. ^ ["About Hungary – Hungarians celebrate Labor Day"](http://abouthungary.hu/news-in-brief/hungarians-celebrate-labor-day/). abouthungary.hu. May 2019. [Archived](https://web.archive.org/web/20230211005641/https://abouthungary.hu/news-in-brief/hungarians-celebrate-labor-day/) from the original on 11 February 2023. Retrieved 17 October 2019.
+- 118. ^ ["About Hungary - Hungarians celebrate Labor Day"](http://abouthungary.hu/news-in-brief/hungarians-celebrate-labor-day/). abouthungary.hu. May 2019. [Archived](https://web.archive.org/web/20230211005641/https://abouthungary.hu/news-in-brief/hungarians-celebrate-labor-day/) from the original on 11 February 2023. Retrieved 17 October 2019.
 - 119. ^ Schedule for May 1 Labour Day march and two rival meetings in downtown Reykjavík | However many stores nowadays are open and pay higher salaries to the workers instead on this day.
 - 120. ^ "Public holidays in Iceland [: When are holidays in Iceland](https://iceland.nordicvisitor.com/travel-guide/information/public-holidays/) : [Iceland Travel Guide"](https://iceland.nordicvisitor.com/travel-guide/information/public-holidays/). iceland.nordicvisitor.com. [Archived](https://web.archive.org/web/20191017230139/https://iceland.nordicvisitor.com/travel-guide/information/public-holidays/) from the original on 17 October 2019. Retrieved 17 October 2019.
 - 121. ^ ["Labour Day Celebrated in Dublin | Century Ireland"](https://www.rte.ie/centuryireland/index.php/blog/labour-day-celebrated-in-dublin). rte.ie. [Archived](https://web.archive.org/web/20191017232136/https://www.rte.ie/centuryireland/index.php/blog/labour-day-celebrated-in-dublin) from the original on 17 October 2019. Retrieved 17 October 2019.
 - 122. ^ ["Where to enjoy May Day in Northern Ireland this year!"](https://web.archive.org/web/20160427115200/http://www.belfasttimes.co.uk/where-to-enjoy-may-day-in-northern-ireland-this-year/). Belfast Times. 27 April 2016. Archived from [the original](https://www.belfasttimes.co.uk/where-to-enjoy-may-day-in-northern-ireland-this-year/) on 27 April 2016.
-- 123. ^ ["S. I. No. 91/1993 – Holidays \(Employees\) Act, 1973 \(Public](http://www.irishstatutebook.ie/eli/1993/si/91/made/en/print) [Holiday\) Regulations, 1993"](http://www.irishstatutebook.ie/eli/1993/si/91/made/en/print). [Irish Statute Book](https://en.wikipedia.org/wiki/Irish_Statute_Book). [Archived](https://web.archive.org/web/20210225122537/http://www.irishstatutebook.ie/eli/1993/si/91/made/en/print) from the original on 25 February 2021. Retrieved 8 May 2018.
+- 123. ^ ["S. I. No. 91/1993 - Holidays \(Employees\) Act, 1973 \(Public](http://www.irishstatutebook.ie/eli/1993/si/91/made/en/print) [Holiday\) Regulations, 1993"](http://www.irishstatutebook.ie/eli/1993/si/91/made/en/print). [Irish Statute Book](https://en.wikipedia.org/wiki/Irish_Statute_Book). [Archived](https://web.archive.org/web/20210225122537/http://www.irishstatutebook.ie/eli/1993/si/91/made/en/print) from the original on 25 February 2021. Retrieved 8 May 2018.
 - 124. ^ ["Fibre Broadband, TV Packages, BT Sport & Mobile Deals |](https://www.bt.com/) [BT"](https://www.bt.com/). www.bt.com. [Archived](https://web.archive.org/web/20210406154822/https://www.bt.com/) from the original on 6 April 2021. Retrieved 6 April 2021.
 - 125. ^ ["RTÉ Archives: May Day Why Not A Holiday?"](https://www.rte.ie/archives/2015/0429/697515-may-day-why-not-a-holiday/). [RTÉ.ie](https://en.wikipedia.org/wiki/RT%C3%89.ie). 29 April 2015. [Archived](https://web.archive.org/web/20180508185501/http://www.rte.ie/archives/2015/0429/697515-may-day-why-not-a-holiday/) from the original on 8 May 2018. Retrieved 8
 
@@ -967,24 +1016,24 @@ May 2018.
 - 136. ^ ["Holiday Calendar 2019"](https://me.usembassy.gov/holiday-calendar/). U. S. Embassy in Montenegro. [Archived](https://web.archive.org/web/20191016022730/https://me.usembassy.gov/holiday-calendar/) from the original on 16 October 2019. Retrieved 16 October 2019.
 - 137. ^ ["Waarom 1 mei in Nederland maar geen vrije dag is"](https://www.ad.nl/ad-werkt/waarom-1-mei-in-nederland-maar-geen-vrije-dag-is~a52f4967/) [Why 1 May isn't a day off in the Netherlands]. [Algemeen Dagblad](https://en.wikipedia.org/wiki/Algemeen_Dagblad) (in Dutch). 1 May 2019. [Archived](https://web.archive.org/web/20190707094222/https://www.ad.nl/ad-werkt/waarom-1-mei-in-nederland-maar-geen-vrije-dag-is~a52f4967/) from the original on 7 July 2019. Retrieved 3 January 2021.
 - 138. ^ ["International Workers' Day, 1st of May in Macedonia •](https://www.dmwc.org.mk/2017/04/30/international-workers-day-1st-of-may-in-macedonia/) [Dobredojde Macedonia Welcome Centre"](https://www.dmwc.org.mk/2017/04/30/international-workers-day-1st-of-may-in-macedonia/). 30 April 2017. [Archived](https://web.archive.org/web/20191016024045/https://www.dmwc.org.mk/2017/04/30/international-workers-day-1st-of-may-in-macedonia/) from the original on 16 October 2019. Retrieved 16 October 2019.
-- 139. ^ Gjerde, Åsmund Borgen; Thingsaker, Bjørn (2 May 2021). ["Første mai"](http://snl.no/F%C3%B8rste_mai). [Archived](https://web.archive.org/web/20210504175939/https://snl.no/F%C3%B8rste_mai) from the original on 4 May 2021. Retrieved 3 May 2021 – via Store norske leksikon.
+- 139. ^ Gjerde, Åsmund Borgen; Thingsaker, Bjørn (2 May 2021). ["Første mai"](http://snl.no/F%C3%B8rste_mai). [Archived](https://web.archive.org/web/20210504175939/https://snl.no/F%C3%B8rste_mai) from the original on 4 May 2021. Retrieved 3 May 2021 - via Store norske leksikon.
 - 140. ^ ["May Day in Poland"](https://web.archive.org/web/20120815142641/http://anglopolish.com/index.php/en/archive/29-polish-tradition/155-international-workers-day-may-day). Archived from the original on 15 August 2012. Retrieved 1 May 2013.
 
 - 141. ^ ["Poland's Holidays"](https://web.archive.org/web/20130513050301/http://goeasteurope.about.com/od/poland/tp/polandholidays.htm). Archived from [the original](http://goeasteurope.about.com/od/poland/tp/polandholidays.htm) on 13 May 2013. Retrieved 1 May 2013.
 - 142. ^ ["Why is May 1st a holiday in Portugal?"](https://algarvedailynews.com/news/11578-why-is-may-1st-a-holiday-in-portugal). algarvedailynews.com. 30 April 2019. [Archived](https://web.archive.org/web/20191016005520/https://algarvedailynews.com/news/11578-why-is-may-1st-a-holiday-in-portugal) from the original on 16 October 2019. Retrieved 16 October 2019.
 - 143. ^ "ПО БРУСЧАТКЕ КРАСНОЙ [ПЛОЩАДИ](http://history.ric.mil.ru/Stati/item/117649/)". history.ric.mil.ru. [Archived](https://web.archive.org/web/20200721194046/http://history.ric.mil.ru/Stati/item/117649/) from the original on 21 July 2020. Retrieved 31 July 2020.
-- 144. ^ "1 мая 1918 г. на [Ходынском](https://cont.ws/@staromodnyiej/932301) поле состоялся первый военный парад Красной Армии – [Старомодница](https://cont.ws/@staromodnyiej/932301) – КОНТ". cont.ws. [Archived](https://web.archive.org/web/20200807102341/https://cont.ws/@staromodnyiej/932301) from the original on 7 August 2020. Retrieved 31 July 2020.
-- 145. ^ Ройбу, Зиновий (30 April 2010). "1 Мая [1941](https://ava.md/2010/04/30/1-maya-1941-goda-v-moskve-do-nachala-velikoy/) года <sup>в</sup> Москве: до начала Великой [Отечественной](https://ava.md/2010/04/30/1-maya-1941-goda-v-moskve-do-nachala-velikoy/) войны [оставался](https://ava.md/2010/04/30/1-maya-1941-goda-v-moskve-do-nachala-velikoy/) только 51 день". AVA. MD (in Russian). [Archived](https://web.archive.org/web/20200807102628/https://ava.md/2010/04/30/1-maya-1941-goda-v-moskve-do-nachala-velikoy/) from the original on 7 August 2020. Retrieved 31 July 2020.
-- 146. ^ "[Демонстрация](https://www.youtube.com/watch?v=Ztw Howkf0y4) 1 мая 1979 года". ПравДа.Ру(б). 22 September 2019. [Archived](https://web.archive.org/web/20220416175707/https://www.youtube.com/watch?v=Ztw Howkf0y4) from the original on 16 April 2022. Retrieved 6 April 2021 – via www.youtube.com.
+- 144. ^ "1 мая 1918 г. на [Ходынском](https://cont.ws/@staromodnyiej/932301) поле состоялся первый военный парад Красной Армии - [Старомодница](https://cont.ws/@staromodnyiej/932301) - КОНТ". cont.ws. [Archived](https://web.archive.org/web/20200807102341/https://cont.ws/@staromodnyiej/932301) from the original on 7 August 2020. Retrieved 31 July 2020.
+- 145. ^ Ройбу, Зиновий (30 April 2010). "1 Мая [1941](https://ava.md/2010/04/30/1-maya-1941-goda-v-moskve-do-nachala-velikoy/) года в Москве: до начала Великой [Отечественной](https://ava.md/2010/04/30/1-maya-1941-goda-v-moskve-do-nachala-velikoy/) войны [оставался](https://ava.md/2010/04/30/1-maya-1941-goda-v-moskve-do-nachala-velikoy/) только 51 день". AVA. MD (in Russian). [Archived](https://web.archive.org/web/20200807102628/https://ava.md/2010/04/30/1-maya-1941-goda-v-moskve-do-nachala-velikoy/) from the original on 7 August 2020. Retrieved 31 July 2020.
+- 146. ^ "[Демонстрация](https://www.youtube.com/watch?v=Ztw Howkf0y4) 1 мая 1979 года". ПравДа.Ру(б). 22 September 2019. [Archived](https://web.archive.org/web/20220416175707/https://www.youtube.com/watch?v=Ztw Howkf0y4) from the original on 16 April 2022. Retrieved 6 April 2021 - via www.youtube.com.
 - 147. ^ Jump up to: **a b** [Предварительный](https://web.archive.org/web/20161214005538/http://www.memo.ru/hr/hotpoints/moscow93/may93.htm) отчёт о массовых [беспорядках](https://web.archive.org/web/20161214005538/http://www.memo.ru/hr/hotpoints/moscow93/may93.htm), имевших место в Москве 1 мая 1993 года. // [Memorial,](https://en.wikipedia.org/wiki/Memorial_(society)) official website.
 - 148. ^ "[Лозунги](https://web.archive.org/web/20150522161557/http://kprf.ru/actions/65662.html) 1 мая 2009" [Slogans, 1 May 2009]. Archived from [the original](http://kprf.ru/actions/65662.html) on 22 May 2015. Retrieved 4 January 2010.
 - 149. ^ "[Лозунги](https://web.archive.org/web/20150522161707/http://kprf.ru/party_live/56715.html) 1 мая 2008" [Slogans, 1 May 2008]. Archived from [the original](http://kprf.ru/party_live/56715.html) on 22 May 2015. Retrieved 4 January 2010.
 
-- 150. ^ "[Первомайские](https://web.archive.org/web/20121120202649/http://ud.mos.ru/main/58-pervomajjskie-demonstracii-i-mitingi.html) демонстрации <sup>и</sup> митинги" [1 May demonstrations and meetings]. Archived from [the original](http://ud.mos.ru/main/58-pervomajjskie-demonstracii-i-mitingi.html) on 20 November 2012. Retrieved 4 January 2010.
-- 151. ^ "В [первомайских](https://web.archive.org/web/20110928155414/http://vkrizis.ru/news.php?type=rus&lenta=1&arc=0&news=10526) демонстрациях <sup>и</sup> митингах <sup>в</sup> Москве [приняли](https://web.archive.org/web/20110928155414/http://vkrizis.ru/news.php?type=rus&lenta=1&arc=0&news=10526) участие около 30 тыс. человек" [About 30,000 people took part in May Day demonstrations and rallies in Moscow]. Archived from [the original](http://vkrizis.ru/news.php?type=rus&lenta=1&arc=0&news=10526) on 28 September 2011. Retrieved 4 January 2010.
+- 150. ^ "[Первомайские](https://web.archive.org/web/20121120202649/http://ud.mos.ru/main/58-pervomajjskie-demonstracii-i-mitingi.html) демонстрации и митинги" [1 May demonstrations and meetings]. Archived from [the original](http://ud.mos.ru/main/58-pervomajjskie-demonstracii-i-mitingi.html) on 20 November 2012. Retrieved 4 January 2010.
+- 151. ^ "В [первомайских](https://web.archive.org/web/20110928155414/http://vkrizis.ru/news.php?type=rus&lenta=1&arc=0&news=10526) демонстрациях и митингах в Москве [приняли](https://web.archive.org/web/20110928155414/http://vkrizis.ru/news.php?type=rus&lenta=1&arc=0&news=10526) участие около 30 тыс. человек" [About 30,000 people took part in May Day demonstrations and rallies in Moscow]. Archived from [the original](http://vkrizis.ru/news.php?type=rus&lenta=1&arc=0&news=10526) on 28 September 2011. Retrieved 4 January 2010.
 - 152. ^ "[Официальный](https://web.archive.org/web/20121120202629/http://www.uao.mos.ru/textform.aspx?docid=25263&treepath=348,22568,22569,25263) портал префектуры Южного [административного](https://web.archive.org/web/20121120202629/http://www.uao.mos.ru/textform.aspx?docid=25263&treepath=348,22568,22569,25263) округа города Москвы" [Official portal of the prefecture of the Southern Administrative District of Moscow]. Archived from [the original](http://www.uao.mos.ru/textform.aspx?docid=25263&treepath=348,22568,22569,25263) on 20 November 2012. Retrieved 4 January 2010.
-- 153. ^ Zakatnova, Anna (29 April 2009). "[Москву](https://web.archive.org/web/20110814223812/http://www.rg.ru/2009/04/29/pervomay-site-anons.html) 1 мая наглухо перекроют около 17 митингов, шествий <sup>и</sup> [демонстраций](https://web.archive.org/web/20110814223812/http://www.rg.ru/2009/04/29/pervomay-site-anons.html)" [Moscow on 1 May will be tightly blocked by about 17 rallies, marches and demonstrations]. [Rossiyskaya Gazeta](https://en.wikipedia.org/wiki/Rossiyskaya_Gazeta). Archived from [the original](http://www.rg.ru/2009/04/29/pervomay-site-anons.html) on 14 August 2011. Retrieved 14 August 2010.
-- 154. ^ "На [первомайскую](https://web.archive.org/web/20150522172100/http://runews24.ru/society/demonstration-of-1-may.shtml) демонстрацию <sup>в</sup> Москве вышли 100 тыс. [человек](https://web.archive.org/web/20150522172100/http://runews24.ru/society/demonstration-of-1-may.shtml)" [100 thousand people came to the May Day demonstration in Moscow]. Archived from [the original](http://runews24.ru/society/demonstration-of-1-may.shtml) on 22 May 2015. Retrieved 1 May 2013.
+- 153. ^ Zakatnova, Anna (29 April 2009). "[Москву](https://web.archive.org/web/20110814223812/http://www.rg.ru/2009/04/29/pervomay-site-anons.html) 1 мая наглухо перекроют около 17 митингов, шествий и [демонстраций](https://web.archive.org/web/20110814223812/http://www.rg.ru/2009/04/29/pervomay-site-anons.html)" [Moscow on 1 May will be tightly blocked by about 17 rallies, marches and demonstrations]. [Rossiyskaya Gazeta](https://en.wikipedia.org/wiki/Rossiyskaya_Gazeta). Archived from [the original](http://www.rg.ru/2009/04/29/pervomay-site-anons.html) on 14 August 2011. Retrieved 14 August 2010.
+- 154. ^ "На [первомайскую](https://web.archive.org/web/20150522172100/http://runews24.ru/society/demonstration-of-1-may.shtml) демонстрацию в Москве вышли 100 тыс. [человек](https://web.archive.org/web/20150522172100/http://runews24.ru/society/demonstration-of-1-may.shtml)" [100 thousand people came to the May Day demonstration in Moscow]. Archived from [the original](http://runews24.ru/society/demonstration-of-1-may.shtml) on 22 May 2015. Retrieved 1 May 2013.
 - 155. ^ День [святой](http://ria.ru/spravka/20160501/1423389297.html) Пасхи [Archived](https://web.archive.org/web/20160506111917/http://ria.ru/spravka/20160501/1423389297.html) 6 May 2016 at the [Wayback](https://en.wikipedia.org/wiki/Wayback_Machine) [Machine](https://en.wikipedia.org/wiki/Wayback_Machine) // [RIA Novosti,](https://en.wikipedia.org/wiki/RIA_Novosti) 1 May 2016
 - 156. ^ В Калуге отменили [первомайское](http://echo.msk.ru/news/1751934-echo.html) шествие из-за Пасхи [Archived](https://web.archive.org/web/20160422041625/http://echo.msk.ru/news/1751934-echo.html) 22 April 2016 at the [Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine) // [Echo of](https://en.wikipedia.org/wiki/Echo_of_Moscow) [Moscow,](https://en.wikipedia.org/wiki/Echo_of_Moscow) 21 April 2016
 
@@ -1006,7 +1055,7 @@ May 2018.
 - 171. ^ Jump up to: **a b** İş[günü Mücadelesi ve 1 May](http://www.marksist.com/utku_kizilok/isgunu_mucadelesi_ve_1_mayis_in_dogusu.htm)ıs'ın Doğuşu | sını[f mücadelesinde Marksist Tutum](http://www.marksist.com/utku_kizilok/isgunu_mucadelesi_ve_1_mayis_in_dogusu.htm) [Archived](https://web.archive.org/web/20070928002434/http://www.marksist.com/utku_kizilok/isgunu_mucadelesi_ve_1_mayis_in_dogusu.htm) 28 September 2007 at the [Wayback Machine.](https://en.wikipedia.org/wiki/Wayback_Machine) Marksist.com. Retrieved on 1 May 2013.
 - 172. ^ [Ulusal bayram ve genel tat](https://web.archive.org/web/20090531134748/http://rega.basbakanlik.gov.tr/eskiler/2009/04/20090427-1.htm)ı ̇ller hakkında kanunda. rega.basbakanlik.gov.tr (22 April 2009).
 - 173. ^ ["Clashes mar International Workers' Day in Turkey |](https://web.archive.org/web/20131217222252/http://www.euronews.com/2013/05/01/may-day-clashes-in-turkey/) [euronews, world news"](https://web.archive.org/web/20131217222252/http://www.euronews.com/2013/05/01/may-day-clashes-in-turkey/). Euronews.com. Archived from [the](http://www.euronews.com/2013/05/01/may-day-clashes-in-turkey/) [original](http://www.euronews.com/2013/05/01/may-day-clashes-in-turkey/) on 17 December 2013. Retrieved 17 December 2013.
-- 174. ^ "История [современности](https://kp.ua/kiev/392092-kyevskyi-pervomai): <sup>в</sup> Киеве Первомай отмечают <sup>с</sup> [1894](https://kp.ua/kiev/392092-kyevskyi-pervomai) года". kp.ua. [Archived](https://web.archive.org/web/20210206235358/https://kp.ua/kiev/392092-kyevskyi-pervomai) from the original on 6 February 2021. Retrieved 7 March 2021.
+- 174. ^ "История [современности](https://kp.ua/kiev/392092-kyevskyi-pervomai): в Киеве Первомай отмечают с [1894](https://kp.ua/kiev/392092-kyevskyi-pervomai) года". kp.ua. [Archived](https://web.archive.org/web/20210206235358/https://kp.ua/kiev/392092-kyevskyi-pervomai) from the original on 6 February 2021. Retrieved 7 March 2021.
 
 - 175. ^ ["Ukraine seeks distance from Moscow with new Christmas](https://web.archive.org/web/20171117065016/http://m.digitaljournal.com/news/world/ukraine-seeks-distance-from-moscow-with-new-christmas-holiday/article/507753) [holiday"](https://web.archive.org/web/20171117065016/http://m.digitaljournal.com/news/world/ukraine-seeks-distance-from-moscow-with-new-christmas-holiday/article/507753). m.digitaljournal.com. 16 November 2017. Archived from [the original](http://m.digitaljournal.com/news/world/ukraine-seeks-distance-from-moscow-with-new-christmas-holiday/article/507753) on 17 November 2017. Retrieved 16 November 2017.
 - 176. ^ Jump up to: **a b** Рада зробила 25 грудня [вихідним](https://www.bbc.com/ukrainian/news-42008437) днем. BBC Україна (in Ukrainian). 16 November 2017. [Archived](https://web.archive.org/web/20171230065213/http://www.bbc.com/ukrainian/news-42008437) from the original on 30 December 2017. Retrieved 16 November 2017.
@@ -1023,16 +1072,16 @@ May 2018.
 - 185. ^ ["Samuel Parnell | NZHistory, New Zealand history online"](https://nzhistory.govt.nz/people/samuel-parnell). nzhistory.govt.nz. [Archived](https://web.archive.org/web/20180830174246/https://nzhistory.govt.nz/people/samuel-parnell) from the original on 30 August 2018. Retrieved 30 August 2018.
 - 186. ^ ["Labour Day | NZHistory, New Zealand history online"](https://nzhistory.govt.nz/keyword/labour-day). nzhistory.govt.nz. [Archived](https://web.archive.org/web/20180830174229/https://nzhistory.govt.nz/keyword/labour-day) from the original on 30 August 2018. Retrieved 30 August 2018.
 - 187. ^ ["Historic May Day being observed across the country"](https://www.dhakatribune.com/bangladesh/nation/2019/05/01/historic-may-day-being-observed-across-the-country). Dhaka Tribune. 1 May 2019. [Archived](https://web.archive.org/web/20190504124212/https://www.dhakatribune.com/bangladesh/nation/2019/05/01/historic-may-day-being-observed-across-the-country) from the original on 4 May 2019. Retrieved 8 May 2019.
-- 188. ^ ["Holidays – Reserve Bank of India"](http://www.rbi.org.in/scripts/holidaymatrixdisplay.aspx). Reserve Bank of India. 1 May 2014. [Archived](https://web.archive.org/web/20140502032040/http://www.rbi.org.in/scripts/holidaymatrixdisplay.aspx) from the original on 2 May 2014. Retrieved 1 May 2014.
+- 188. ^ ["Holidays - Reserve Bank of India"](http://www.rbi.org.in/scripts/holidaymatrixdisplay.aspx). Reserve Bank of India. 1 May 2014. [Archived](https://web.archive.org/web/20140502032040/http://www.rbi.org.in/scripts/holidaymatrixdisplay.aspx) from the original on 2 May 2014. Retrieved 1 May 2014.
 - 189. ^ Somesh Jha (1 May 2017). ["Why you may \(or may not\) have](https://www.thehindu.com/news/national/why-you-may-or-may-not-have-worked-on-may-day/article18347887.ece) [worked on May Day"](https://www.thehindu.com/news/national/why-you-may-or-may-not-have-worked-on-may-day/article18347887.ece). The Hindu. [Archived](https://web.archive.org/web/20200501111453/https://www.thehindu.com/news/national/why-you-may-or-may-not-have-worked-on-may-day/article18347887.ece) from the original on 1 May 2020. Retrieved 1 May 2019.
 - 190. ^ ["Achievements"](https://web.archive.org/web/20110421062618/http://www.singaravelar.com/achievements.htm). Singaravelar. Archived from [the original](http://www.singaravelar.com/achievements.htm) on 21 April 2011. Retrieved 1 May 2011.
-- 191. ^ M. V. S. Koteswara Rao. Communist Parties and United Front – Experience in Kerala and West Bengal. [Hyderabad:](https://en.wikipedia.org/wiki/Hyderabad,_India) Prajasakti Book House, 2003. p. 110
+- 191. ^ M. V. S. Koteswara Rao. Communist Parties and United Front - Experience in Kerala and West Bengal. [Hyderabad:](https://en.wikipedia.org/wiki/Hyderabad,_India) Prajasakti Book House, 2003. p. 110
 - 192. ^ Report of May Day Celebrations 1923, and Formation of a New Party The Hindu quoted in Murugesan, K., Subramanyam, C. S. Singaravelu, First Communist in South India. [New Delhi:](https://en.wikipedia.org/wiki/New_Delhi) People's Publishing House, 1975. p. 169
-- 193. ^ ["India Observes International Labor Day – India Real Time"](https://blogs.wsj.com/indiarealtime/2012/05/01/india-observes-international-labor-day/).
+- 193. ^ ["India Observes International Labor Day - India Real Time"](https://blogs.wsj.com/indiarealtime/2012/05/01/india-observes-international-labor-day/).
 
 - Wall Street Journal (Blogs.wsj.com). 1 May 2012. [Archived](https://web.archive.org/web/20131217221010/http://blogs.wsj.com/indiarealtime/2012/05/01/india-observes-international-labor-day/) from the original on 17 December 2013. Retrieved 17 December 2013.
-- 194. ^ "தி�. ைவேகா [| MDMK"](https://web.archive.org/web/20150613004333/http://mdmk.org.in/member/mr-vaiko). mdmk.org.in. Archived from [the](http://mdmk.org.in/member/mr-vaiko) [original](http://mdmk.org.in/member/mr-vaiko) on 13 June 2015. Retrieved 10 June 2017.
-- 195. ^ ["Haveeru Online – Maldives declares Labour Day a public](https://web.archive.org/web/20110430003045/http://www.haveeru.com.mv/english/details/36099/Maldives_declares_Labour_Day_a_public_holiday) [holiday"](https://web.archive.org/web/20110430003045/http://www.haveeru.com.mv/english/details/36099/Maldives_declares_Labour_Day_a_public_holiday). Haveeru.com.mv. 27 April 2011. Archived from [the](http://www.haveeru.com.mv/english/details/36099/Maldives_declares_Labour_Day_a_public_holiday) [original](http://www.haveeru.com.mv/english/details/36099/Maldives_declares_Labour_Day_a_public_holiday) on 30 April 2011. Retrieved 1 May 2011.
+- 194. ^ "தி. ைவேகா [| MDMK"](https://web.archive.org/web/20150613004333/http://mdmk.org.in/member/mr-vaiko). mdmk.org.in. Archived from [the](http://mdmk.org.in/member/mr-vaiko) [original](http://mdmk.org.in/member/mr-vaiko) on 13 June 2015. Retrieved 10 June 2017.
+- 195. ^ ["Haveeru Online - Maldives declares Labour Day a public](https://web.archive.org/web/20110430003045/http://www.haveeru.com.mv/english/details/36099/Maldives_declares_Labour_Day_a_public_holiday) [holiday"](https://web.archive.org/web/20110430003045/http://www.haveeru.com.mv/english/details/36099/Maldives_declares_Labour_Day_a_public_holiday). Haveeru.com.mv. 27 April 2011. Archived from [the](http://www.haveeru.com.mv/english/details/36099/Maldives_declares_Labour_Day_a_public_holiday) [original](http://www.haveeru.com.mv/english/details/36099/Maldives_declares_Labour_Day_a_public_holiday) on 30 April 2011. Retrieved 1 May 2011.
 - 196. ^ ["113th May Day being observed today".](https://web.archive.org/web/20021107112118/http://www.nepalnews.com.np/archive/2002/april/arc379.htm) Nepal news.com (April 2002).
 - 197. ^ [May Day being observed across the country.](https://web.archive.org/web/20021107112118/http://www.nepalnews.com/archive/2008/may/may01/news09.php) Nepal news.com (1 May 2008). It is known as Majdoor Diwas in Nepal
 - 198. ^ ["The Labour Day"](https://www.thenews.com.pk/print/311118-the-labour-day). thenews.com.pk. [Archived](https://web.archive.org/web/20190715193530/https://www.thenews.com.pk/print/311118-the-labour-day) from the original on 15 July 2019. Retrieved 16 October 2019.
@@ -1053,7 +1102,7 @@ May 2018.
 
 November 2015.
 
-- 212. ^ ["Iraqi top officials vow to support workers on Labor Day –](https://web.archive.org/web/20190501153434/http://www.xinhuanet.com/english/2019-05/01/c_138027680.htm) [Xinhua | English.news.cn"](https://web.archive.org/web/20190501153434/http://www.xinhuanet.com/english/2019-05/01/c_138027680.htm). xinhuanet.com. Archived from [the](http://www.xinhuanet.com/english/2019-05/01/c_138027680.htm) [original](http://www.xinhuanet.com/english/2019-05/01/c_138027680.htm) on 1 May 2019.
+- 212. ^ ["Iraqi top officials vow to support workers on Labor Day -](https://web.archive.org/web/20190501153434/http://www.xinhuanet.com/english/2019-05/01/c_138027680.htm) [Xinhua | English.news.cn"](https://web.archive.org/web/20190501153434/http://www.xinhuanet.com/english/2019-05/01/c_138027680.htm). xinhuanet.com. Archived from [the](http://www.xinhuanet.com/english/2019-05/01/c_138027680.htm) [original](http://www.xinhuanet.com/english/2019-05/01/c_138027680.htm) on 1 May 2019.
 - 213. ^ Gilad, Elon (1 May 2019). ["The Rise and Fall of Israel's May](https://www.haaretz.com/israel-news/.premium-the-rise-and-fall-of-israel-s-may-day-1.7187463) [Day"](https://www.haaretz.com/israel-news/.premium-the-rise-and-fall-of-israel-s-may-day-1.7187463). Haaretz. [Archived](https://web.archive.org/web/20190507164748/https://www.haaretz.com/israel-news/.premium-the-rise-and-fall-of-israel-s-may-day-1.7187463) from the original on 7 May 2019. Retrieved 7 May 2019.
 - 214. ^ ["Jordan marks Labour Day"](http://www.jordantimes.com/news/local/jordan-marks-labour-day-0). Jordan Times. 30 April 2018. [Archived](https://web.archive.org/web/20190507170556/http://www.jordantimes.com/news/local/jordan-marks-labour-day-0) from the original on 7 May 2019. Retrieved 7 May 2019.
 - 215. ^ ["Workers march against corruption for Labor Day"](https://web.archive.org/web/20200501192140/http://www.dailystar.com.lb/News/Lebanon-News/2019/May-01/482235-workers-march-against-corruption-for-labor-day.ashx). [The Daily](https://en.wikipedia.org/wiki/The_Daily_Star_(Lebanon)) [Star \(Lebanon\)](https://en.wikipedia.org/wiki/The_Daily_Star_(Lebanon)). Archived from [the original](http://www.dailystar.com.lb/News/Lebanon-News/2019/May-01/482235-workers-march-against-corruption-for-labor-day.ashx) on 1 May 2020. Retrieved 7 May 2019.
@@ -1062,7 +1111,7 @@ November 2015.
 - 218. ^ ["A Study to Establish Traffic Statistical Records in Gaza City,](https://web.archive.org/web/20191016182511/http://www.iug.ps/bitstream/handle/20.500.12358/19409/file_1.pdf) [Palestine"](https://web.archive.org/web/20191016182511/http://www.iug.ps/bitstream/handle/20.500.12358/19409/file_1.pdf) (PDF). www.iug.ps. Archived from [the original](http://www.iug.ps/bitstream/handle/20.500.12358/19409/file_1.pdf) (PDF) on 16 October 2019. Retrieved 2 May 2021.
 - 219. ^ al-Sabbagh, Hazem (1 May 2016). ["International Workers'](https://www.sana.sy/en/?p=76070) [Day marked with central event at Opera House"](https://www.sana.sy/en/?p=76070). Syrian Arab News Agency. [Archived](https://web.archive.org/web/20200501054226/https://www.sana.sy/en/?p=76070) from the original on 1 May 2020. Retrieved 17 October 2019.
 
-- Foner, Philip Sheldon (1986). [May day: a short history of the](https://archive.org/details/maydayshorthisto0000fone) [international workers' holiday, 1886–1986](https://archive.org/details/maydayshorthisto0000fone). New York: International Publishers. [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier)) [978-0-7178-0624-9](https://en.wikipedia.org/wiki/Special:Book Sources/978-0-7178-0624-9).
+- Foner, Philip Sheldon (1986). [May day: a short history of the](https://archive.org/details/maydayshorthisto0000fone) [international workers' holiday, 1886-1986](https://archive.org/details/maydayshorthisto0000fone). New York: International Publishers. [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier)) [978-0-7178-0624-9](https://en.wikipedia.org/wiki/Special:Book Sources/978-0-7178-0624-9).
 - Media related to [International Workers' Day](https://commons.wikimedia.org/wiki/Category:International_Workers%27_Day) at Wikimedia Commons
 - [May Day Archive](https://www.marxists.org/subject/mayday/index.htm) at the [Marxists Internet Archive](https://en.wikipedia.org/wiki/Marxists_Internet_Archive)
 - [Boston May Day Coalition International Workers' Day Rally &](https://www.litakelley.com/blog/boston-may-day-coalition-international-workers-day-rally-march/) [March](https://www.litakelley.com/blog/boston-may-day-coalition-international-workers-day-rally-march/)

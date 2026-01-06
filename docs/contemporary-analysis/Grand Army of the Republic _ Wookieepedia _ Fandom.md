@@ -1,3 +1,8 @@
+---
+title: "**Grand Army of the Republic**"
+category: "contemporary-analysis"
+---
+
 [starwars.fandom.com](https://starwars.fandom.com/wiki/Grand_Army_of_the_Republic)
 
 # **Grand Army of the Republic**
@@ -42,14 +47,19 @@ The Grand Army of the Republic possessed various [military](https://starwars.fan
 
 #### Clone Quantities by Division and Rank
 
-| | Troopers | Sergeants | Lieutenants | Captains | Commanders | Marshal<br>Commanders | Total |
+| | Troopers | Sergeants | Lieutenants | Captains | Commanders | Marshal
+Commanders | Total |
 |------------------|-----------|-----------|-------------|----------|------------|-----------------------|-----------|
-| Grand<br>Army of | 2,949,120 | 327,680 | 81,920 | 20,480 | 2,560 | 80 | 3,384,320 |
+| Grand
+Army of | 2,949,120 | 327,680 | 81,920 | 20,480 | 2,560 | 80 | 3,384,320 |
 
-| the<br>Republic | | | | | | | |
+| the
+Republic | | | | | | | |
 |-----------------|---------|--------|-------|-------|--------------|---|---------|
-| Systems<br>Army | 294,912 | 32,768 | 8,192 | 2,048 | 256 | 8 | 338,432 |
-| Sector<br>Army | 147,456 | 16,384 | 4,096 | 1,024 | 64 | 4 | 169,216 |
+| Systems
+Army | 294,912 | 32,768 | 8,192 | 2,048 | 256 | 8 | 338,432 |
+| Sector
+Army | 147,456 | 16,384 | 4,096 | 1,024 | 64 | 4 | 169,216 |
 | Corps | 36,864 | 4,096 | 1,024 | 256 | 16 | 1 | 42,304 |
 | Legion | 9,216 | 1,024 | 256 | 64 | 4 | 0 | 10,576 |
 | Regiment | 2,304 | 256 | 64 | 16 | 4 | 0 | 2,644 |
@@ -269,7 +279,7 @@ Few clones continued to serve in the stormtrooper ranks after the Battle of [Yav
 
 The Grand Army of the Republic was arranged in various formations.
 
-The Grand Army of the Republic was composed of ten <u>Systems</u> <u>Armies</u> that each contained two <u>Sector Armies</u>. [20] One such Systems Army was the <u>Third Systems Army</u>. The first six Sector Armies were reserve commands, the next six were northern quadrant, and the remaining eight were southern quadrant units. Sector Armies included the <u>1st Sector Army</u>, the <u>4th Sector Army</u>, the <u>6th Sector Army</u>, the <u>7th Sector Army</u>, the <u>8th Sector Army</u>, and the <u>12th Sector Army</u>.
+The Grand Army of the Republic was composed of ten Systems Armies that each contained two Sector Armies. [20] One such Systems Army was the Third Systems Army. The first six Sector Armies were reserve commands, the next six were northern quadrant, and the remaining eight were southern quadrant units. Sector Armies included the 1st Sector Army, the 4th Sector Army, the 6th Sector Army, the 7th Sector Army, the 8th Sector Army, and the 12th Sector Army.
 
 Subsequently, the GAR consisted of many corps, which included the 7th Sky Corps of Jedi General Obi-Wan Kenobi and Clone Marshal Commander Cody, [3] the flame trooper corps, [5] the 9th Assault Corps, [73] the 21st Nova Corps under Jedi General Ki-Adi-Mundi and Clone Marshal Commander Bacara, the 41st Elite Corps under Jedi General Luminara Unduli and Clone Commander Gree, [3] the 87th Sentinel Corps which specialized in urban warfare, [57] the 91st Mobile
 
@@ -309,9 +319,9 @@ The 212th was a battalion in the Grand Army.
 
 A [brigade](https://starwars.fandom.com/wiki/Brigade) within the GAR included the [Special Operations](https://starwars.fandom.com/wiki/Special_Operations_Brigade) [Brigade,](https://starwars.fandom.com/wiki/Special_Operations_Brigade) which was the [special forces](https://starwars.fandom.com/wiki/Special_forces) branch of the Grand Army of the Republic[.\[6\]](about:reader?url=https%3A%2F%2Fstarwars.fandom.com%2Fwiki%2FGrand_Army_of_the_Republic#cite_note-Helmet_Collection_21-6) A [tank brigade](https://starwars.fandom.com/wiki/Unidentified_tank_brigade) served in the 501st[.\[81\]](about:reader?url=https%3A%2F%2Fstarwars.fandom.com%2Fwiki%2FGrand_Army_of_the_Republic#cite_note-Battles_that_Changed_the_Galaxy-81)
 
-Further down the hierarchy of military formations were regiments, which included a <u>regiment</u> led by Clone Commander <u>Tacks</u>, a <u>regiment</u> which served in the <u>First Battle of Geonosis</u>, [82] and a <u>scout regiment</u> that was dispatched to the Wild Space planet <u>Teth</u>.[26]
+Further down the hierarchy of military formations were regiments, which included a regiment led by Clone Commander Tacks, a regiment which served in the First Battle of Geonosis, [82] and a scout regiment that was dispatched to the Wild Space planet Teth.[26]
 
-Battalions in the GAR included the 302nd Battalion, which was staffed by Commander Theo, Captain Sparks, and Captain Raptor. [83] the 9th Engineering Battalion. [84] the 13th Battalion<sup>[85]</sup> which was led by ledi General Jaro Tapal and a Clone Commander, [86] the 41st Scout Battalion led by Jedi General Yoda and part of the 41st Elite Corps. [57] the 104th Battalion under the command of Jedi General Plo Koon and Clone Commander Wolffe, [22] the 187th Battalion led by General Windu, [87] the 212th Attack Battalion under Marshal Commander Cody and within the 7th Sky Corps, [3] the 442nd Siege Battalion. [88] the Carnivore Battalion within the 501st. [89] the battalion led by General Ki-Adi-Mundi and Clone Commander let, [90] a battalion commanded by ledi General Depa Billaba and Clone Commander Grey as well as a subsequent battalion after the first was destroyed, [91] the 501st's Execute Battalion, [89] the One-Eighty-Fourth Attack Battalion led by Jedi General Jor Aerith and Clone Commander Crane, [92] Rancor Battalion led by Clone ARC Commanders Blitz, Colt, and Havoc. [30]
+Battalions in the GAR included the 302nd Battalion, which was staffed by Commander Theo, Captain Sparks, and Captain Raptor. [83] the 9th Engineering Battalion. [84] the 13th Battalion[85] which was led by ledi General Jaro Tapal and a Clone Commander, [86] the 41st Scout Battalion led by Jedi General Yoda and part of the 41st Elite Corps. [57] the 104th Battalion under the command of Jedi General Plo Koon and Clone Commander Wolffe, [22] the 187th Battalion led by General Windu, [87] the 212th Attack Battalion under Marshal Commander Cody and within the 7th Sky Corps, [3] the 442nd Siege Battalion. [88] the Carnivore Battalion within the 501st. [89] the battalion led by General Ki-Adi-Mundi and Clone Commander let, [90] a battalion commanded by ledi General Depa Billaba and Clone Commander Grey as well as a subsequent battalion after the first was destroyed, [91] the 501st's Execute Battalion, [89] the One-Eighty-Fourth Attack Battalion led by Jedi General Jor Aerith and Clone Commander Crane, [92] Rancor Battalion led by Clone ARC Commanders Blitz, Colt, and Havoc. [30]
 
 Garrisons, squadrons, companies, smaller divisions, and
 
@@ -345,7 +355,7 @@ Delta Squad was a team of elite clone commandos trained for special operations.
 
 Squads within the Grand Army were a squad what included the trooper Charlie, [104] a squad led by Clone Commander Fil, [106] First squad from the 501st Legion, [105] an over strength 501st squad under the command of Rex, [107] the Wolfpack squad of the 104th, [35] a squad led by the trooper Heater, [104] a squad led by General Ki-Adi-Mundi within the 21st Nova Corps, [3] a droid squadron under orders from R2-D2, [108] Rostu Squad from Depa Billaba's second battalion, [109] a squad led by Jedi General Anakin Skywalker from the 501st. [26] During the First Battle of Geonosis, Yoda led a squad within his larger regiment [1] before commanding a small squad [110] from the diplomatic service on Rugosa. [111]
 
-Training units included the <u>322nd</u>, [112] <u>Bravo Squad</u>, [30] the <u>Clone Youth Brigade</u>, [112] and <u>Domino Squad</u>. [30]
+Training units included the 322nd, [112] Bravo Squad, [30] the Clone Youth Brigade, [112] and Domino Squad. [30]
 
 ## Other units[
 
@@ -353,7 +363,7 @@ Training units included the <u>322nd</u>, [112] <u>Bravo Squad</u>, [30] the <u>
 
 "This next one goes out to the Mud Jumpers of the 224th, slugging it out on Mimban. Keep your heads down and your seals tight, boys."
 
-## —Hologram VJ — <sup>■</sup> (file info)[36]
+## —Hologram VJ — ■ (file info)[36]
 
 ## ![](_page_29_Picture_8.jpeg)
 
@@ -365,7 +375,7 @@ There were other units of varying formation size that were also part of the Gran
 
 Another unit was the Coruscant Guard [3] and its diplomatic service subunit. [114] Alongside the planet's garrison, [81] a security force on Kamino was led by Jedi General Shaak Ti and a Clone Captain. [48]
 
-Other units included a <u>unit</u> led by Jedi General <u>Chiata</u> and a <u>Clone Commander</u>, [86] the <u>unit</u> led by Jedi Generals <u>Tiplee</u> and <u>Tiplar</u> alongside Clone Commander <u>Doom</u>, [115] a <u>unit</u> led by Jedi General <u>Halsey</u> and Clone Commander <u>Trauma</u>, [116] a <u>unit</u> that was commanded by <u>Jedi Commander Leh'ahnyo Vas</u> and their <u>master</u>, [5] a <u>unit</u> led by General <u>Quinlan Vos</u>, [3] the <u>Mud Jumpers</u> from the 224th Division, [79] a <u>clone security force</u> on <u>Orto Plutonia</u>, [105] a <u>unit</u> that protected the <u>Rishi Station</u>, [36] a <u>military team</u> within the 501st, [117] and a <u>squad</u> of the Grand Army led by Clone Sergeant <u>Slick</u>. [118]
+Other units included a unit led by Jedi General Chiata and a Clone Commander, [86] the unit led by Jedi Generals Tiplee and Tiplar alongside Clone Commander Doom, [115] a unit led by Jedi General Halsey and Clone Commander Trauma, [116] a unit that was commanded by Jedi Commander Leh'ahnyo Vas and their master, [5] a unit led by General Quinlan Vos, [3] the Mud Jumpers from the 224th Division, [79] a clone security force on Orto Plutonia, [105] a unit that protected the Rishi Station, [36] a military team within the 501st, [117] and a squad of the Grand Army led by Clone Sergeant Slick. [118]
 
 ### **Vehicles and machinery**[
 
@@ -409,7 +419,7 @@ Reconnaissance Walker was used by ARC troopers for recon.
 
 "Minimal destruction with blasters and droid poppers only. No rockets or detonators. Check your aim."
 
-## —Cody<sup>[98]</sup>
+## —Cody[98]
 
 ## ![](_page_33_Picture_5.jpeg)
 
@@ -417,13 +427,13 @@ The DC-15A blaster carbine was a standard-issue weapon that clone troopers used 
 
 For infantry weapons, the Grand Army of the Republic had a selection of blasters, grenades, and projectile launchers. For blasters, the army made use of the DC-17 hand blaster, [26] the DC-17m blaster rifle, [57] the DC-15A blaster carbine, the DC-15A blaster rifle, the DC-15LE blaster rifle, the DC-15x sniper rifle, [133] the Z-6 rotary blaster cannon, [111] the BT X-42 heavy flame projector, [117] the T-7 ion disruptor rifle, [57] the DC-12U beam rifle, [99][134] and the Valken-38x sniper. [57] Also in use was the 773 Firepuncher rifle, which became a favorite of Republic snipers. [135]
 
-The M3 Bulwark Blast Shield was a type of physical shield that could be worn by a clone trooper as a defensive barrier from enemy fire. [115] <u>Clone riot troopers</u> stationed on Coruscant wore a type of <u>riot shield</u>, which they wielded alongside a <u>baton</u>, the <u>TZ-97 "Zapper" Shock Baton</u>, in their policing actions. [136]
+The M3 Bulwark Blast Shield was a type of physical shield that could be worn by a clone trooper as a defensive barrier from enemy fire. [115] Clone riot troopers stationed on Coruscant wore a type of riot shield, which they wielded alongside a baton, the TZ-97 "Zapper" Shock Baton, in their policing actions. [136]
 
 ## ![](_page_34_Picture_3.jpeg)
 
 A type of heavy repeating blaster cannon operated by the Republic
 
-The types of grenades used were the <u>Class-A thermal</u> detonator, <sup>[80]</sup> its magnetic variant, <sup>[137]</sup> and the <u>N-20 Baradium-core thermal detonator</u>. <sup>[138]</sup> Under the command of the Jedi, the Grand Army utilized <u>Electro Magnetic Pulse grenades</u> to disable droids and other machines without risking organic collateral damage. <sup>[98]</sup> For melee combat, the clones within the army uses <u>M8 combat knives</u> as simple melee weapons. The army utilized <u>ascension guns</u>, <sup>[30]</sup> <u>mortars</u>, <sup>[38]</sup> and <u>missile</u> <u>launchers</u>, <sup>[111]</sup> such as the <u>RPS-6 rocket launcher</u> and <u>RPC-2</u> <u>Rocket Launcher</u>. <sup>[139]</sup> By the final days of the war, the <u>E-Web heavy repeating blaster cannons</u> was used by the Republic, <sup>[62]</sup> with another <u>heavy repeating blaster</u> also being used at earlier points. <sup>[115]</sup>
+The types of grenades used were the Class-A thermal detonator, [80] its magnetic variant, [137] and the N-20 Baradium-core thermal detonator. [138] Under the command of the Jedi, the Grand Army utilized Electro Magnetic Pulse grenades to disable droids and other machines without risking organic collateral damage. [98] For melee combat, the clones within the army uses M8 combat knives as simple melee weapons. The army utilized ascension guns, [30] mortars, [38] and missile launchers, [111] such as the RPS-6 rocket launcher and RPC-2 Rocket Launcher. [139] By the final days of the war, the E-Web heavy repeating blaster cannons was used by the Republic, [62] with another heavy repeating blaster also being used at earlier points. [115]
 
 #### **Behind the scenes**[
 

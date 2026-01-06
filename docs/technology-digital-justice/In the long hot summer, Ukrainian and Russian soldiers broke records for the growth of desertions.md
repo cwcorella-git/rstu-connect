@@ -1,3 +1,8 @@
+---
+title: "## **In the long hot summer, Ukrainian and Russian soldiers broke records for the growth of desertio"
+category: "technology-digital-justice"
+---
+
 ## **In the long hot summer, Ukrainian and Russian soldiers broke records for the growth of desertions**
 
 ## **Date:** Unknown

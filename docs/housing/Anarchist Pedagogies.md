@@ -1,16 +1,10 @@
 ---
-title: Anarchist Pedagogies
-slug: Anarchist Pedagogies
-reconversion_status: ready_for_reconversion
-author: Robert H. Haworth
-date: '2012'
-tags:
-  - housing
-  - tenants
-  - strikes
-  - unions
-  - rent
+title: "Anarchist Pedagogies"
+author: "Robert H. Haworth"
+date: "2012"
+category: "housing"
 ---
+
 # **Robert H. Haworth**
 
 # **Anarchist Pedagogies**
@@ -760,7 +754,9 @@ How many of us who attended public schools had those opportunities available to 
 
 Nevertheless, if only because employers, primarily since the 1950s, began requiring educational credentials from their job candidates, the meritocratic argument for schooling did develop some measure of legitimacy over the years. Looking at Table 1 below, we find a very significant difference (18.6 percent) between the unemployment rates in 2008 for college graduates and high school graduates, and a nearly identical (17.9 percent) difference between those who earn a high school diploma and those who do not.
 
-| Level of Educational<br>Attainment | Unemployment Rate Among 16–24-Year-Old<br>Out-of-School Youth in 2008 | |
+| Level of Educational
+Attainment | Unemployment Rate Among 16–24-Year-Old
+Out-of-School Youth in 2008 | |
 |------------------------------------|-----------------------------------------------------------------------|--|
 | College Graduates | 13.3% | |
 ## | 1–3 Years of College | 21.2% | |
@@ -783,12 +779,20 @@ According to an April 2011 report from the Economic Policy Institute, "the unemp
 
 At least I can tell them that a college degree still improves their chances, because the unemployment rate among those with only a high school diploma or GED now stands at 22.5 percent. For dropouts, of course, the unemployment rates are even worse at 32.9 percent. For those closer to his age (those between the ages of sixteen and twenty-four), the figures and are far worse. According to a study conducted by the Center for Labor Market Studies at Northeastern University (2009), the jobless rate in 2008 for those with a four-year degree or higher was 13.3 percent, while it was 21.2 percent for those with one to three years of postsecondary education, 31.9 percent for high school graduates, and 54 percent for young high school dropouts. As reflected in the table below, the fewer number of years of schooling that one completes strongly correlates to both your risk of unemployment as well as your risk of incarceration.
 
-| | Unemployment Rate Among<br>16–24-Year-Old Out-of<br>School Youth in 2008 | Incarceration Rate Among<br>16–24-Year-Old Out-of<br>School Youth 2006–2007 |
+| | Unemployment Rate Among
+16–24-Year-Old Out-of
+School Youth in 2008 | Incarceration Rate Among
+16–24-Year-Old Out-of
+School Youth 2006–2007 |
 |-------------------------|--------------------------------------------------------------------------|-----------------------------------------------------------------------------|
-| College<br>Graduates | 13.3% | 0.1% |
-| 1–3 Years of<br>College | 21.2% | 0.7% |
-| H. S.<br>Graduate | 31.9% | 1.0% |
-## | H. S.<br>Dropouts | 54% | 6.3% |
+| College
+Graduates | 13.3% | 0.1% |
+| 1–3 Years of
+College | 21.2% | 0.7% |
+| H. S.
+Graduate | 31.9% | 1.0% |
+## | H. S.
+Dropouts | 54% | 6.3% |
 
 At its core, the problem is this: the continued existence of compulsory schooling perpetuates the myth that people's success or failure hinges on their performance in school. In turn, this allows the state to blame schools for the larger problems in the economy that result in shrinking opportunities for people to find work. And this multitiered game of victim blaming drives the endless calls for school reform. The truth is that schools will never be reformed as long as they are made compulsory by the state. As documented by the Advancement Project (2010), in the the thirty years since the state launched its massive A Nation At Risk report and propaganda campaign that blamed schools for the alleged inability of U. S.-based corporations to compete in the global economy, the only meaningful changes we've witnessed in schools have been the implementation of high-stakes testing/accountability and zero-tolerance policies. Neither of those policies have changed the nature of compulsory schooling, but have only served to intensify its effects; namely, disciplining docile bodies to accept boring and monotonous work as an inevitable part of life while subjecting those who refuse to recognize the beneficence of this therapy to remedial discipline in prison.
 
@@ -842,7 +846,7 @@ Rohrlich, J. (2011). Why are prisoners building patriot missiles? Minyanville. R
 
 Rush, B. (1786) Thoughts upon the mode of education proper in a republic. In A plan for the establishment of public schools and the diffusion of knowledge in pennsylvania; to which are added, thoughts upon the mode of education proper in a republic. Retrieved from [http://www.schoolchoices.org/](http://www.schoolchoices.org/roo/rush.htm) [roo/rush.htm](http://www.schoolchoices.org/roo/rush.htm) (accessed June 17, 2007).
 
-Shierholz H. & Edwards, K. A. (2011, April 11). The class of 2011: Young workers face <sup>a</sup> dire labor market without <sup>a</sup> safety net. Economic Policy Institute Briefing Paper #306. Retrieved from [http://www.epi.org/](http://www.epi.org/latest_research) [latest\\_research/](http://www.epi.org/latest_research) (accessed June 9, 2011).
+Shierholz H. & Edwards, K. A. (2011, April 11). The class of 2011: Young workers face a dire labor market without a safety net. Economic Policy Institute Briefing Paper #306. Retrieved from [http://www.epi.org/](http://www.epi.org/latest_research) [latest\\_research/](http://www.epi.org/latest_research) (accessed June 9, 2011).
 
 Spring, J. (1983). The public school movement vs. the libertarian tradition. The Journal of Libertarian Studies, 7(1). Retrieved from [http://www.mises.org/](http://www.mises.org/journals/jls/7_1/7_1_3.pdf) [journals/jls/7\\_1/7\\_1\\_3.pdf](http://www.mises.org/journals/jls/7_1/7_1_3.pdf) (accessed June 17, 2007).
 
@@ -1337,7 +1341,7 @@ However, the site does not elaborate, that is, describe, how systematic exclusio
 
 To understand street medicine as an educational project,[\[20\]](#page-289-8) one committed to putting medical knowledge directly in the hands of people, one has to analyze their work in contrast to other parallel projects. Street Medicine-As-Education is an effort to articulate (literally connect) technical knowledge and expertise and consuming publics. It can be contrasted in this sense with science and health schooling as well as with contrasting projects like citizen science.
 
-In school science and health, students are taught to objectify their body, to learn the language of scientists, but ultimately to defer to scientific authority for solutions. In other words, school science is about the production of a consumer class—the development of a bioscientific market for expertise. Morris Shamos (1995) makes this explicit in his book The Myth of Scientifi<sup>c</sup> Literacy, arguing that disinterest in science and technology should be taken as axiomatic in school populations; that the purpose of science education should merely be educating people in the processes of science and the knowledge of how to find experts when needed. It should also be clear that science, as embodied by school science, references a standard set of facts, concepts, and technical procedures as canonized in texts like the National Science Education Standards (NRC, 1996). It is a systematic way of knowing that excludes practices like Chinese medicine and herbalism.
+In school science and health, students are taught to objectify their body, to learn the language of scientists, but ultimately to defer to scientific authority for solutions. In other words, school science is about the production of a consumer class—the development of a bioscientific market for expertise. Morris Shamos (1995) makes this explicit in his book The Myth of Scientific Literacy, arguing that disinterest in science and technology should be taken as axiomatic in school populations; that the purpose of science education should merely be educating people in the processes of science and the knowledge of how to find experts when needed. It should also be clear that science, as embodied by school science, references a standard set of facts, concepts, and technical procedures as canonized in texts like the National Science Education Standards (NRC, 1996). It is a systematic way of knowing that excludes practices like Chinese medicine and herbalism.
 
 Similarly, citizen science projects—that is, projects in which scientists recruit nonscientists to participate with them in research, most famously in bird counts in which birders across North America contribute data about the bird populations of their communities—often are set up to reaffirm the role of the scientist as expert and the public is a resource or source of labor. Even online efforts such as SETI which farms out calculations in the search or extraterrestrial life—or Folding@Home which does the same for calculations of protein folding—follow this hierarchical model. Ironically, citizen science projects often reveal the fragility of this hierarchy. In many environmental citizen science projects there emerge real tensions between local knowledge of the data gatherers and the scientists' expert knowledge (Brandt, Shirk, Jordan, Ballard & Tomasek, 2010).
 
@@ -1983,7 +1987,7 @@ Such projects as the workers center together are showing the reasonableness and 
 
 - Babbage, M. (2009). Ontario job losses mean bleaker times ahead: Opposition. Toronto Star. March 13. Retrieved from [http://www.thestar.com/News/](http://www.thestar.com/News/Ontario/article/602005) [Ontario/article/602005,](http://www.thestar.com/News/Ontario/article/602005) (accessed October 21, 2009).
 - Bell, K. (2009). Canadian workers occupy auto parts factory. Retrieved from [http://www.marxist.com/canadian-workers-occupy-auto-factory.htm,](http://www.marxist.com/canadian-workers-occupy-auto-factory.htm) (accessed October 21, 2009).
-- Beltrame, J. (2008). Job losses worst in Ontario. Toronto Star. July 11. Retrieved from<http://www.thestar.com/Business/article/458479>(accessed October 21, 2009).
+- Beltrame, J. (2008). Job losses worst in Ontario. Toronto Star. July 11. Retrieved from(accessed October 21, 2009).
 - Dolgoff, S. (1990). The American labor movement: A new beginning. Champaign: Libertarian Labor Review.
 - Eley, T. (2009). Autoworkers end factory occupation in Windsor, Ontario. World Socialist, March 20.
 
@@ -2181,7 +2185,7 @@ But through what concrete actions might we actually develop a "really open unive
 
 One way to discuss this occupation and reappropriation, might be the literal forced reclamation of space, though direct action. This has, of course, been a tried and tested method across history, and we have seen the tactic of occupation has begun to some extent become popular again, with the recent occupations at universities across the UK, but to a much larger extent across Europe and the United States.
 
-We think there is an interesting dynamic, however, between defensive and <sup>o</sup>ffensive uses of occupation. We do not wish to set up a binary, but rather are interested in the qualitative shifts and activities that can occur within the occupied space itself, rather than simply the obstructive element of occupation. This problematic has been explored in the U. S. occupations movement through the often heated debate about the utility of political demands, versus occupation without demands. For example, "Occupation mandates the inversion of the standard dimensions of space. Space in an occupation is not merely the container of our bodies, it is a plane of potentiality that has been frozen by the logic of the commodity" (Inoperative Committee, 2009).
+We think there is an interesting dynamic, however, between defensive and offensive uses of occupation. We do not wish to set up a binary, but rather are interested in the qualitative shifts and activities that can occur within the occupied space itself, rather than simply the obstructive element of occupation. This problematic has been explored in the U. S. occupations movement through the often heated debate about the utility of political demands, versus occupation without demands. For example, "Occupation mandates the inversion of the standard dimensions of space. Space in an occupation is not merely the container of our bodies, it is a plane of potentiality that has been frozen by the logic of the commodity" (Inoperative Committee, 2009).
 
 Another way to discuss the occupation and reappropriation of time and space might be through the creation of new spaces that prefigure the new forms we may wish a reimagined university to take. A concrete example of this is the model of the autonomous social center, or "infoshop," found within anarchist and autonomous activist practices (Atton, 1999).
 
@@ -2861,7 +2865,7 @@ To reiterate, and return to Butler's concern over the congealment of "queer" int
 - Nicholas, L. (2007). Approaches to gender, power and authority in contemporary anarcho-punk: Poststructuralist anarchism? E-Sharp Journal, 2007(9). Retrieved from [http://www.gla.ac.uk/departments/esharp/issues/9/](http://www.gla.ac.uk/departments/esharp/issues/9/issue9abstracts) [issue9abstracts/](http://www.gla.ac.uk/departments/esharp/issues/9/issue9abstracts) (accessed November 25, 2010).
 - Patton, P. (1994). Foucault's subject of power. Political Theory Newsletter, 1994(6), 60–71.
 - Purkis, J. & Bowen, J. (1997). Twenty-first century anarchism: Unorthodox ideas for a new millennium. New York: Cassell.
-- Queeruption. (2003). Queer is hip, queer is cool: Dogmas in the queer scene. Retrieved from<http://www.queeruption.org/>(accessed November 25, 2010).
+- Queeruption. (2003). Queer is hip, queer is cool: Dogmas in the queer scene. Retrieved from(accessed November 25, 2010).
 - Seidman, S. (1995). Deconstructing queer theory, or the under-theorisation of the social and the ethical. In L. Nicholson & S. Seidman (Eds.), Social postmodernism: Beyond identity politics, 116–41. Cambridge: Cambridge University Press.
 
 Spivak, G. C. (1994). In a word: Interview. Gayatri Chakravorty Spivak with Ellen Rooney. In N. Schor & E. Weed (Eds.), The essential difference, 151– 84. Bloomington: Indiana University Press.
@@ -2926,7 +2930,7 @@ While Descartes's conception of mind, that it is unique to the species and beyon
 
 The Cartesian conception of body was refuted by seventeenth-century physics, particularly the work of Isaac Newton, which laid the foundations for modern science. Newton demonstrated that the motions of heavenly bodies could not be explained by the principles of Descartes' contact mechanics, so that the Cartesian concept of body must be abandoned. In the Newtonian framework there is a "force" that one body exerts on another, without contact between them, a kind of "action at a distance." Whatever this force may be, it does not fall within the Cartesian framework of contact mechanics. (p. 143)
 
-While the notion of gravity as action at <sup>a</sup> distance with a physical explanation has been widely accepted in the scientific community, the implications for the mind as a sort of action at a distance holds the biological explanatory key for human freedom and therefore largely ignored. This negligence is astonishing given Chomsky's conclusion that the notion of action at a distance continues to be the best explanation science has for human intelligence or free will. The brain might be matter designed to produce thought electrically, but the source of that animation remains clouded in mystery. This mystery represents, for many scientists, such as Chomsky, the limits of our species' intellectual endowments. Simply put, there are some questions that are beyond the reach of human intelligence, such as, What is the scientific explanation for the source of the action at a distance that gives animation to life? For Chomsky, all species have limits. This should not be viewed as controversial. That is, most species of birds have built in genetically determined navigation systems, which humans and most other species, could never acquire.
+While the notion of gravity as action at a distance with a physical explanation has been widely accepted in the scientific community, the implications for the mind as a sort of action at a distance holds the biological explanatory key for human freedom and therefore largely ignored. This negligence is astonishing given Chomsky's conclusion that the notion of action at a distance continues to be the best explanation science has for human intelligence or free will. The brain might be matter designed to produce thought electrically, but the source of that animation remains clouded in mystery. This mystery represents, for many scientists, such as Chomsky, the limits of our species' intellectual endowments. Simply put, there are some questions that are beyond the reach of human intelligence, such as, What is the scientific explanation for the source of the action at a distance that gives animation to life? For Chomsky, all species have limits. This should not be viewed as controversial. That is, most species of birds have built in genetically determined navigation systems, which humans and most other species, could never acquire.
 
 Chomsky's rejection of the racist and sexist pseudoscience that attempted to manufacture consent for stereotypical differences, which led him to focus on similarities among the human species coincided with feminist psychologists that objected to science informed by a hegemonic and thus unconscious sexist worldview. Outlining this history, Judith Worell (2000), in "Feminism in Psychology: Revolution or Evolution," elaborates in great detail:
 

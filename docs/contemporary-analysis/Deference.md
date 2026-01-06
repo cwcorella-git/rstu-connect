@@ -1,3 +1,8 @@
+---
+title: "**Deference**"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 # **Deference**

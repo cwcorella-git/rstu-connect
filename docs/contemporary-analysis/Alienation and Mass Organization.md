@@ -1,3 +1,8 @@
+---
+title: "## **Alienation and Mass Organization**"
+category: "contemporary-analysis"
+---
+
 ## **Alienation and Mass Organization**
 
 ## **Date:** Unknown

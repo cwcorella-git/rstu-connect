@@ -1,3 +1,8 @@
+---
+title: "**Erich Fromm**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Erich_Fromm)
 
 # **Erich Fromm**
@@ -8,7 +13,8 @@
 
 ## ![](_page_0_Figure_6.jpeg)
 
-| Education | University of Frankfurt am Main<br>Heidelberg University (PhD, 1922) | |
+| Education | University of Frankfurt am Main
+Heidelberg University (PhD, 1922) | |
 |--------------------|----------------------------------------------------------------------|--|
 | Philosophical work | | |
 | Era | 20th-century philosophy | |
@@ -20,9 +26,11 @@
 | | • humanistic Judaism | |
 | Institutions | University of Frankfurt am Main | |
 | | Columbia University | |
-| Main<br>interests | Social psychology, social theory | |
+| Main
+interests | Social psychology, social theory | |
 | Notable | Being and having as modes of existence, | |
-| ideas | security versus freedom, social character,<br>character orientation | |
+| ideas | security versus freedom, social character,
+character orientation | |
 
 **Erich Seligmann Fromm** (; German: [fʁɔ[m\];](https://en.wikipedia.org/wiki/Help:IPA/Standard_German) March 23, 1900 – March 18, 1980) was a German-American [social psychologist,](https://en.wikipedia.org/wiki/Social_psychologist) [psychoanalyst,](https://en.wikipedia.org/wiki/Psychoanalyst) [sociologist,](https://en.wikipedia.org/wiki/Sociologist) [humanistic](https://en.wikipedia.org/wiki/Humanistic) [philosopher,](https://en.wikipedia.org/wiki/Philosopher) and [democratic socialist.](https://en.wikipedia.org/wiki/Democratic_socialist) He was a [German Jew](https://en.wikipedia.org/wiki/German_Jew) who fled the Nazi regime and settled in the United States. He was one of the founders of The [William Alanson White Institute](https://en.wikipedia.org/wiki/William_Alanson_White_Institute) of Psychiatry, Psychoanalysis and Psychology in New York City and was
 
@@ -73,15 +81,39 @@ Erich Fromm postulated the following basic needs:
 
 | Need | Description |
 |---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Transcendence | Being thrown into the world without their<br>consent, humans have to transcend their<br>nature by destroying or creating people<br>or things.[10] Humans can destroy<br>through malignant aggression, or killing |
+| Transcendence | Being thrown into the world without their
+consent, humans have to transcend their
+nature by destroying or creating people
+or things.[10] Humans can destroy
+through malignant aggression, or killing |
 
-| | for reasons other than survival, but they<br>can also create and care about their<br>creations.[10] |
+| | for reasons other than survival, but they
+can also create and care about their
+creations.[10] |
 |-------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Rootedness | Rootedness is the need to establish roots<br>and to feel at home again in the world.[10]<br>Productively, rootedness enables us to<br>grow beyond the security of our mother<br>and establish ties with the outside world.<br>[10] With the nonproductive strategy, we<br>become fixated and afraid to move<br>beyond the security and safety of our<br>mother or a mother substitute.[10] |
-| Sense of<br>Identity | The drive for a sense of identity is<br>expressed nonproductively as conformity<br>to a group and productively as<br>individuality.[10] |
-| Frame of<br>orientation | Understanding the world and our place in<br>it. |
-| Excitation and<br>Stimulation | Actively striving for a goal rather than<br>simply responding. |
-| Unity | A sense of oneness between one person<br>and the "natural and human world<br>outside." |
+| Rootedness | Rootedness is the need to establish roots
+and to feel at home again in the world.[10]
+Productively, rootedness enables us to
+grow beyond the security of our mother
+and establish ties with the outside world.
+[10] With the nonproductive strategy, we
+become fixated and afraid to move
+beyond the security and safety of our
+mother or a mother substitute.[10] |
+| Sense of
+Identity | The drive for a sense of identity is
+expressed nonproductively as conformity
+to a group and productively as
+individuality.[10] |
+| Frame of
+orientation | Understanding the world and our place in
+it. |
+| Excitation and
+Stimulation | Actively striving for a goal rather than
+simply responding. |
+| Unity | A sense of oneness between one person
+and the "natural and human world
+outside." |
 | Effectiveness | The need to feel accomplished.[11] |
 
 Fromm's thesis of the "escape from freedom" is epitomized in the following passage. The "individualized man" referenced by Fromm is man bereft of the "primary ties" of belonging (such as nature, family, etc.), also expressed as "freedom from":

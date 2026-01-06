@@ -1,3 +1,8 @@
+---
+title: "## **Statement of Solidarity with Railroad Workers**"
+category: "technology-digital-justice"
+---
+
 ## **Statement of Solidarity with Railroad Workers**
 
 ## **Date:** Fri, 12/23/2022 - 00:00

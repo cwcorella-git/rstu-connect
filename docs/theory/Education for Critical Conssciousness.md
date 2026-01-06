@@ -1,3 +1,8 @@
+---
+title: "## **Education for Critical Conssciousness**"
+category: "theory"
+---
+
 ## **Education for Critical Conssciousness**
 
 ## **Date:** Unknown

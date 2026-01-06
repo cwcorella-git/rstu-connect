@@ -1,3 +1,8 @@
+---
+title: "## **Washington State Labor AFL-CIO Resolutions On Mass Public Transit, Railroad Health and Safety**"
+category: "labor"
+---
+
 ## **Washington State Labor AFL-CIO Resolutions On Mass Public Transit, Railroad Health and Safety**
 
 | Date: Tue, 10/04/2016 - 19:17 |
@@ -13,7 +18,8 @@
 | Every year, delegates to the Washington State Labor Council convention discuss, deliberate |
 | and act on resolutions submitted by the affiliated union locals and councils. These resolutions |
 | establish policy, programs and action for the WSLC. The following were passed by delegates |
-| at the WSLC's 2016 Convention held July 19-21 at the Coast Wenatchee Hotel and<br>Convention Center. |
+| at the WSLC's 2016 Convention held July 19-21 at the Coast Wenatchee Hotel and
+Convention Center. |
 | |
 | The following resolutions specifically address matters of transportation workers. See the |
 | original post for a |

@@ -1,3 +1,8 @@
+---
+title: "## **Against the conceptual dumbing down of the 2016 "movement" in France - Mouvement Communiste/Kol"
+category: "technology-digital-justice"
+---
+
 ## **Against the conceptual dumbing down of the 2016 "movement" in France - Mouvement Communiste/Kolektivn**■ **proti Kapit**■**lu**
 
 ## **Date:** Unknown

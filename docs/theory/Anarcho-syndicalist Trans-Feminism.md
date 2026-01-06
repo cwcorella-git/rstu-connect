@@ -1,3 +1,8 @@
+---
+title: "**Anarcho-syndicalist Trans-Feminism**"
+category: "theory"
+---
+
 # **Anarcho-syndicalist Trans-Feminism**
 
 ## **Date:** Unknown
@@ -207,12 +212,17 @@ I did think that the majority of the world population was female (so on that bas
 | In reply to Welcomebylibcom.org |
 | Lucky Black Cat wrote |
 | I hope I'm not coming across as harsh |
-| Made me smile! Thinking of some of the regretful conversations I've had on Libcom, you<br>definitely don't need to worry about being harsh!Welcome to Libcom by the way, nice to have<br>you here. |
+| Made me smile! Thinking of some of the regretful conversations I've had on Libcom, you
+definitely don't need to worry about being harsh!Welcome to Libcom by the way, nice to have
+you here. |
 | Lucky Black Cat |
 | 7 years 6 months ago |
 | In reply to Welcomebylibcom.org |
 | Thanks for the welcome! :D |
-| I didn't think my comment seemed harsh in itself, but it came right after a few other people<br>being critical of something The Croydonian Anarchist had said. Of course comradely criticism<br>is fine and good, but to get yet another person doing it in a row can feel like dogpiling, so I<br>wanted to make sure I didn't come across that way. |
+| I didn't think my comment seemed harsh in itself, but it came right after a few other people
+being critical of something The Croydonian Anarchist had said. Of course comradely criticism
+is fine and good, but to get yet another person doing it in a row can feel like dogpiling, so I
+wanted to make sure I didn't come across that way. |
 
 ## Croy
 

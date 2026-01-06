@@ -1,3 +1,8 @@
+---
+title: "**Inclusive capitalism**"
+category: "technology-digital-justice"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Inclusive_capitalism)
 
 # **Inclusive capitalism**

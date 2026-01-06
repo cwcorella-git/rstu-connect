@@ -1,16 +1,10 @@
 ---
-title: Mutual Aid Trauma And Resiliency
-slug: 'Mutual Aid, Trauma, and Resiliency'
-reconversion_status: ready_for_reconversion
-author: The Jane Addams Collective
-date: '2019'
-tags:
-  - organizing
-  - direct action
-  - housing
-  - rent
-  - police
+title: "Mutual Aid Trauma And Resiliency"
+author: "The Jane Addams Collective"
+date: "2019"
+category: "organizing"
 ---
+
 # **The Jane Addams Collective Mutual Aid, Trauma, and Resiliency**
 
 **Introduction The Jane Addams Collective Trauma**
@@ -358,9 +352,9 @@ These questions are only meant as a jumping off point to help start a conversati
 
 ## *Turn Illness into a Weapon* by SPK
 
-[<sup>\[1\]</sup>](#page-9-4) Finding meaning in traumatic event and life after.
+[\[1\]](#page-9-4) Finding meaning in traumatic event and life after.
 
-[<sup>\[2\]</sup>](#page-10-2) Seeing world as interesting and meaningful.
+[\[2\]](#page-10-2) Seeing world as interesting and meaningful.
 
 - [\[3\]](#page-10-3) Belief in one's own ability to control or influence events.
 - [\[4\]](#page-10-4) Seeing change and new experiences as exciting opportunities to learn and developer.

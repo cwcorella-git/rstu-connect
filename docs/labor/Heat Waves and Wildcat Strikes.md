@@ -1,15 +1,10 @@
 ---
-title: Heat Waves And Wildcat Strikes
-slug: Heat Waves and Wildcat Strikes
-reconversion_status: ready_for_reconversion
-date: 2024
-author: Jeff Shantz
-tags:
-  - labor
-  - strikes
-  - unions
-  - organizing
+title: "Heat Waves And Wildcat Strikes"
+author: "Jeff Shantz"
+date: "2024"
+category: "labor"
 ---
+
 ## **Heat Waves and Wildcat Strikes**
 
 ## **Date:** Wed, 01/03/2024 - 00:00

@@ -1,16 +1,10 @@
 ---
-title: Pierrekropotkine Lamoraleanarchiste
-slug: PierreKropotkine-LaMoraleanarchiste
-reconversion_status: ready_for_reconversion
-date: 1889
-author: Britannica
-tags:
-  - theory
-  - anarchism
-  - tenants
-  - rent
-  - prisons
+title: "Pierrekropotkine Lamoraleanarchiste"
+author: "Britannica"
+date: "1889"
+category: "theory"
 ---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 #### **La Morale anarchiste**

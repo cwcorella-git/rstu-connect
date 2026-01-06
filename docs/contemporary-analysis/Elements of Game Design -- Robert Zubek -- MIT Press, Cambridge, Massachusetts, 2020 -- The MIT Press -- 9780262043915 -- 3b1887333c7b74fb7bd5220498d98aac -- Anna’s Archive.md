@@ -1,3 +1,8 @@
+---
+title: "ROBERT ZUBEK"
+category: "contemporary-analysis"
+---
+
 # ROBERT ZUBEK
 
 # ELEMENTS OF GAME DESIGN
@@ -28,173 +33,324 @@ Library of Congress Cataloging- in- Publication Data is available.
 
 ## Acknowledgments xiii Introduction xv
 
-| | Game Design and the Scope of This Text<br>xv |
+| | Game Design and the Scope of This Text
+xv |
 |---|---------------------------------------------------|
-| | Classroom Use<br>xvii |
-| | Note on Exercises<br>xviii |
-| | Note on Style<br>xviii |
-| | Note on Definitions<br>xix |
-| 1 | Elements<br>1 |
-| | Design Process<br>2 |
-| | Games as Machines<br>2 |
-| | Game Design Is User- Centered<br>3 |
-| | Motivating Example: Poker<br>3 |
-| | Model Description<br>5 |
-| | Designer's Role<br>6 |
-| | Designer's Process<br>6 |
-| | Player's Experience<br>8 |
-| | Elements of Games Outside This Model<br>9 |
-| | The Practice of Game Design<br>10 |
-| | Game Design, Systems Design, Content Design<br>11 |
-| | Discipline Interactions<br>12 |
-| | Summary<br>13 |
-| | Further Reading<br>14 |
-| | Formal Tools<br>14 |
-| | MDA<br>15 |
-| | The Practice of Design<br>16 |
-| | Individual Exercises<br>16 |
-| 2 | Player Experience<br>19 |
-| | Experience Is Relative<br>19 |
-| | What Do You Enjoy?<br>21 |
+| | Classroom Use
+xvii |
+| | Note on Exercises
+xviii |
+| | Note on Style
+xviii |
+| | Note on Definitions
+xix |
+| 1 | Elements
+1 |
+| | Design Process
+2 |
+| | Games as Machines
+2 |
+| | Game Design Is User- Centered
+3 |
+| | Motivating Example: Poker
+3 |
+| | Model Description
+5 |
+| | Designer's Role
+6 |
+| | Designer's Process
+6 |
+| | Player's Experience
+8 |
+| | Elements of Games Outside This Model
+9 |
+| | The Practice of Game Design
+10 |
+| | Game Design, Systems Design, Content Design
+11 |
+| | Discipline Interactions
+12 |
+| | Summary
+13 |
+| | Further Reading
+14 |
+| | Formal Tools
+14 |
+| | MDA
+15 |
+| | The Practice of Design
+16 |
+| | Individual Exercises
+16 |
+| 2 | Player Experience
+19 |
+| | Experience Is Relative
+19 |
+| | What Do You Enjoy?
+21 |
 | | |
 ## | | |
 
 ## viii Contents
 
-| | Building a Naive Taxonomy<br>23 |
+| | Building a Naive Taxonomy
+23 |
 |---|--------------------------------------------|
-| | Player Theories<br>24 |
-| | Designer Theories<br>24 |
-| | The Bartle Model<br>25 |
-| | The Koster Model<br>26 |
-| | User Personas<br>27 |
-| | Empirical Models<br>28 |
-| | The Big Five Personality Model<br>29 |
-| | Yee's Gamer Motivation Profiles<br>30 |
-| | Player Motivations and the Big Five<br>33 |
-| | Experience Design<br>34 |
-| | Questions to Guide Experience Design<br>34 |
-| | Experience Archetypes and Genres<br>36 |
-| | Summary<br>37 |
-| | Further Reading<br>38 |
-| | Player Psychology<br>38 |
-| | Designer Theories<br>39 |
-| | Individual Exercises<br>39 |
+| | Player Theories
+24 |
+| | Designer Theories
+24 |
+| | The Bartle Model
+25 |
+| | The Koster Model
+26 |
+| | User Personas
+27 |
+| | Empirical Models
+28 |
+| | The Big Five Personality Model
+29 |
+| | Yee's Gamer Motivation Profiles
+30 |
+| | Player Motivations and the Big Five
+33 |
+| | Experience Design
+34 |
+| | Questions to Guide Experience Design
+34 |
+| | Experience Archetypes and Genres
+36 |
+| | Summary
+37 |
+| | Further Reading
+38 |
+| | Player Psychology
+38 |
+| | Designer Theories
+39 |
+| | Individual Exercises
+39 |
 | | |
-| 3 | Mechanics<br>41 |
-| | Mechanics as Building Blocks<br>41 |
-| | Composition of Mechanics<br>42 |
-| | The Language Metaphor<br>44 |
-| | Example: Exploring Monopoly<br>45 |
-| | Games as State Spaces<br>46 |
-| | Game State<br>46 |
-| | State Spaces<br>47 |
-| | Action Spaces<br>49 |
-| | Perceived Action Spaces<br>50 |
-| | Explicit and Implicit Mechanics<br>51 |
-| | Examples of Families of Mechanics<br>53 |
-| | Control Mechanics<br>55 |
-| | Progression Mechanics<br>58 |
-| | Uncertainty Mechanics<br>60 |
-| | Resource Management Mechanics<br>63 |
-| | Beyond the Four Families<br>68 |
-| | Mechanics Design<br>68 |
-| | Design Heuristics<br>69 |
-| | Primary and Derived Mechanics<br>71 |
-| | Summary<br>72 |
-| | Further Reading<br>73 |
-## | | History of Mechanics<br>73 |
+| 3 | Mechanics
+41 |
+| | Mechanics as Building Blocks
+41 |
+| | Composition of Mechanics
+42 |
+| | The Language Metaphor
+44 |
+| | Example: Exploring Monopoly
+45 |
+| | Games as State Spaces
+46 |
+| | Game State
+46 |
+| | State Spaces
+47 |
+| | Action Spaces
+49 |
+| | Perceived Action Spaces
+50 |
+| | Explicit and Implicit Mechanics
+51 |
+| | Examples of Families of Mechanics
+53 |
+| | Control Mechanics
+55 |
+| | Progression Mechanics
+58 |
+| | Uncertainty Mechanics
+60 |
+| | Resource Management Mechanics
+63 |
+| | Beyond the Four Families
+68 |
+| | Mechanics Design
+68 |
+| | Design Heuristics
+69 |
+| | Primary and Derived Mechanics
+71 |
+| | Summary
+72 |
+| | Further Reading
+73 |
+## | | History of Mechanics
+73 |
 
 ## Contents ix
 
-| | Taxonomies<br>74<br>In- depth Explorations<br>74 | |
+| | Taxonomies
+74
+In- depth Explorations
+74 | |
 |---|-----------------------------------------------------|--|
-| | Individual Exercises<br>75 | |
-| | Group Exercises<br>76 | |
+| | Individual Exercises
+75 | |
+| | Group Exercises
+76 | |
 | | | |
-| 4 | Systems<br>79 | |
-| | Motivating Example: Diablo<br>79 | |
-| | Game Systems<br>81 | |
-| | Setting and Systems<br>82 | |
-| | Layering<br>83 | |
-| | Thinking in Systems<br>84 | |
-| | Mechanic Chains and Loops<br>85 | |
-| | Conversion Chains<br>85 | |
-| | Calculating Exchange Rates<br>86 | |
-| | Conversion Loops<br>87 | |
-| | Feedback Loops<br>91 | |
-| | Positive Feedback<br>91 | |
-| | Negative Feedback<br>93 | |
-| | Effects of Positive Feedback<br>95 | |
-| | Effects of Negative Feedback<br>99 | |
-| | Emergence and Chaos<br>100 | |
-| | Emergent Behavior<br>100 | |
-| | Chaotic Systems<br>102 | |
-| | Systems Design<br>104 | |
-| | From User Stories to Systems<br>105 | |
-| | System Tuning<br>108 | |
-| | Approaches<br>109 | |
-| | The Role of Tuning in the Production Process<br>111 | |
-| | Summary<br>111 | |
-| | Further Reading<br>113 | |
-| | Individual Exercises<br>113 | |
-| | Group Exercises<br>114 | |
-| 5 | Gameplay<br>117 | |
-| | Motivating Example: The Sims<br>118 | |
-| | Gameplay Loops<br>119 | |
-| | Loop Frequencies<br>120 | |
-| | Onion Diagrams<br>121 | |
-| | The Core Loop<br>123 | |
-| | Layering<br>123 | |
-| | Loops and Systems<br>125 | |
+| 4 | Systems
+79 | |
+| | Motivating Example: Diablo
+79 | |
+| | Game Systems
+81 | |
+| | Setting and Systems
+82 | |
+| | Layering
+83 | |
+| | Thinking in Systems
+84 | |
+| | Mechanic Chains and Loops
+85 | |
+| | Conversion Chains
+85 | |
+| | Calculating Exchange Rates
+86 | |
+| | Conversion Loops
+87 | |
+| | Feedback Loops
+91 | |
+| | Positive Feedback
+91 | |
+| | Negative Feedback
+93 | |
+| | Effects of Positive Feedback
+95 | |
+| | Effects of Negative Feedback
+99 | |
+| | Emergence and Chaos
+100 | |
+| | Emergent Behavior
+100 | |
+| | Chaotic Systems
+102 | |
+| | Systems Design
+104 | |
+| | From User Stories to Systems
+105 | |
+| | System Tuning
+108 | |
+| | Approaches
+109 | |
+| | The Role of Tuning in the Production Process
+111 | |
+| | Summary
+111 | |
+| | Further Reading
+113 | |
+| | Individual Exercises
+113 | |
+| | Group Exercises
+114 | |
+| 5 | Gameplay
+117 | |
+| | Motivating Example: The Sims
+118 | |
+| | Gameplay Loops
+119 | |
+| | Loop Frequencies
+120 | |
+| | Onion Diagrams
+121 | |
+| | The Core Loop
+123 | |
+| | Layering
+123 | |
+| | Loops and Systems
+125 | |
 ## | | | |
 
 ## x Contents
 
-| | Player Motivation<br>126 |
+| | Player Motivation
+126 |
 |---|------------------------------------------------------|
-| | Intrinsic and Extrinsic Motivation<br>127 |
-| | Intrinsic Motivation: Flow and Learning<br>128 |
-| | Flow Theory<br>128 |
-| | Learning and Challenge Escalation<br>130 |
-| | Learning to Overcome Uncertainty<br>131 |
-| | Dominant Strategies and "Solving the Game"<br>135 |
-| | Loops and Challenges<br>136 |
-| | Extrinsic Motivation: Work and Rewards<br>137 |
-| | Progression and Rewards<br>137 |
-| | Reward Schedules<br>138 |
-| | Types of Schedules<br>139 |
-| | Game Examples<br>141 |
-| | Changing Workload<br>142 |
-| | Related Topic: Gamification<br>144 |
-| | Gameplay Loop Design Heuristics<br>145 |
-| | From User Stories to Gameplay Loops<br>145 |
-| | Playtesting Loops<br>146 |
-| | Summary<br>146 |
-| | Further Reading<br>148 |
-| | Gameplay Loops<br>148 |
-| | Motivation<br>148 |
-| | Individual Exercises<br>149 |
-| | Group Exercises<br>150 |
+| | Intrinsic and Extrinsic Motivation
+127 |
+| | Intrinsic Motivation: Flow and Learning
+128 |
+| | Flow Theory
+128 |
+| | Learning and Challenge Escalation
+130 |
+| | Learning to Overcome Uncertainty
+131 |
+| | Dominant Strategies and "Solving the Game"
+135 |
+| | Loops and Challenges
+136 |
+| | Extrinsic Motivation: Work and Rewards
+137 |
+| | Progression and Rewards
+137 |
+| | Reward Schedules
+138 |
+| | Types of Schedules
+139 |
+| | Game Examples
+141 |
+| | Changing Workload
+142 |
+| | Related Topic: Gamification
+144 |
+| | Gameplay Loop Design Heuristics
+145 |
+| | From User Stories to Gameplay Loops
+145 |
+| | Playtesting Loops
+146 |
+| | Summary
+146 |
+| | Further Reading
+148 |
+| | Gameplay Loops
+148 |
+| | Motivation
+148 |
+| | Individual Exercises
+149 |
+| | Group Exercises
+150 |
 | | |
-| 6 | Macrostructure<br>151 |
+| 6 | Macrostructure
+151 |
 | | |
-| | Motivating Example: The Witcher<br>151 |
-| | Game Fiction<br>153 |
-| | Fantasy<br>154<br>Story<br>155 |
+| | Motivating Example: The Witcher
+151 |
+| | Game Fiction
+153 |
+| | Fantasy
+154
+Story
+155 |
 | | |
-| | Story and Agency<br>156 |
-| | Consistency<br>157 |
-| | Macrostructure and Content Arcs<br>159 |
-| | The Three- Act Model<br>159 |
-| | Story Arc and Episodes<br>160 |
-| | Three- Act Model and Non- story Games<br>162 |
-| | Narrative Patterns<br>163 |
-| | Linear Narrative<br>164 |
-| | Branching Choices<br>165 |
+| | Story and Agency
+156 |
+| | Consistency
+157 |
+| | Macrostructure and Content Arcs
+159 |
+| | The Three- Act Model
+159 |
+| | Story Arc and Episodes
+160 |
+| | Three- Act Model and Non- story Games
+162 |
+| | Narrative Patterns
+163 |
+| | Linear Narrative
+164 |
+| | Branching Choices
+165 |
 | | |
-| | Branch and Merge<br>166 |
-| | Branching with State<br>167<br>Hub and Spokes<br>168 |
+| | Branch and Merge
+166 |
+| | Branching with State
+167
+Hub and Spokes
+168 |
 
 ## Contents xi
 
@@ -802,9 +958,14 @@ The study also presents multiple charts showing those correlations collapsed int
 
 ## ![](_page_51_Picture_16.jpeg)
 
-| Action "Boom!" | Social "Let's Play Together" | <b>Mastery</b><br>"Let Me Think" | Achievement "I Want More" | Immersion<br>"Once Upon a Time" | Creativity<br>"What If?" |
+| Action "Boom!" | Social "Let's Play Together" | Mastery
+"Let Me Think" | Achievement "I Want More" | Immersion
+"Once Upon a Time" | Creativity
+"What If?" |
 |-----------------------------------------------------|-------------------------------------------------|--------------------------------------------------------|---------------------------------------------------------|------------------------------------------------|------------------------------------------|
-| <b>Destruction</b> Guns. Explosives. Chaos. Mayhem. | Competition Duels. Matches. High on Ranking. | Challenge<br>Practice. High<br>Difficulty. Challenges. | Completion Get All Collectibles. Complete All Missions. | Fantasy Being someone else, somewhere else. | <b>Design</b> Expression. Customization. |
+| Destruction Guns. Explosives. Chaos. Mayhem. | Competition Duels. Matches. High on Ranking. | Challenge
+Practice. High
+Difficulty. Challenges. | Completion Get All Collectibles. Complete All Missions. | Fantasy Being someone else, somewhere else. | Design Expression. Customization. |
 | Excitement Fast-Paced. Action. Surprises. Thrills. | Community Being on Team. Chatting. Interacting. | Strategy Thinking Ahead. Making Decisions. | Power Powerful Character. Powerful Equipment. | Story Elaborate plots. Interesting characters. | Discovery Explore. Tinker. Experiment. |
 
 Figure 2.3 Diagram of player motivation types (Yee 2016, 12). Reprinted with permission. Copyright 2016 Quantic Foundry proximity between the points. Figure 2.4 shows just one of them, the chart for Western European players. However, interestingly, the correlations seemed to be roughly consistent across players from different countries and cultures (Yee 2016, 14– 16).
@@ -1091,7 +1252,7 @@ From this perspective, a game is a series of game state transitions over time. I
 
 Looking at all the possible states the game could be in, we can add a few more definitions:
 
-<sup>1.</sup> See Solarski's "The Unreliable Gamemaster" (2017b) for examples of hiding or revealing information to guide the narrative.
+1. See Solarski's "The Unreliable Gamemaster" (2017b) for examples of hiding or revealing information to guide the narrative.
 
 - The state space is the set of all states that the game could be in, connected by actions that transition from one state to the next.
 
@@ -1106,7 +1267,7 @@ Even in sparse games, however, the total state space is routinely incomprehensiv
 
 At least the state space of tic- tac- toe can be exhaustively enumerated and searched. The state space of chess or go has such a huge branching factor that it is impossible to search exhaustively even by the most powerful computers (and chess and go playing software must resort to shortcuts or heuristics to try to cut down the state space it needs to reason about).
 
-<sup>2.</sup> Some designers (Elias, Garfield and Gutschera 2012) also speak of "game trees," which are game state spaces that contain no loops— in other words, when the game state can never repeat itself, such as in tic- tac- toe, or in many card games. These kinds of state spaces are traditionally called "trees" in decision theory as well as computer science. Admittedly, the term "bushy" makes much more sense when applied to trees than to spaces.
+2. Some designers (Elias, Garfield and Gutschera 2012) also speak of "game trees," which are game state spaces that contain no loops— in other words, when the game state can never repeat itself, such as in tic- tac- toe, or in many card games. These kinds of state spaces are traditionally called "trees" in decision theory as well as computer science. Admittedly, the term "bushy" makes much more sense when applied to trees than to spaces.
 
 ## Mechanics 49
 
@@ -1134,7 +1295,7 @@ Part of the enduring appeal of many games is the challenge of controlling future
 
 Action space describes actions that the game makes available to the player. However, player's perception of what actions are available is just as important. Here are some examples of how this can differ from the player's actual possible actions:
 
-<sup>3.</sup> Some designers use different labels to avoid this ambiguity, for example Upton (2015) uses the term action horizon to describe actions available immediately and in the near future, and others (Wright 2003) (Salen and Zimmerman 2004) use the term possibility space to describe the combination of actions and states contextually available to the player.
+3. Some designers use different labels to avoid this ambiguity, for example Upton (2015) uses the term action horizon to describe actions available immediately and in the near future, and others (Wright 2003) (Salen and Zimmerman 2004) use the term possibility space to describe the combination of actions and states contextually available to the player.
 
 ## Mechanics 51
 
@@ -1153,7 +1314,7 @@ Although it is possible to write out the rules for Monopoly or chess, it is vast
 
 This is the distinction between explicitly and implicitly defined mechanics. Explicitly defined mechanics are what we would encounter in a physical game, like Monopoly or poker— all actions and pieces are described in the rule book and the player can see everything that the game has to offer on the table in front of them. In these games, players play the game knowing all
 
-<sup>4.</sup> Similar to the previous footnote, Upton (2015) uses the term intent horizon instead.
+4. Similar to the previous footnote, Upton (2015) uses the term intent horizon instead.
 
 Action differentiation. In general, it is important that the player perceive a large action space. But beyond mere quantity, those actions should also be interestingly different from each other, and the more significant the differences, the better. For example, we could imagine casting different kinds of spells in a fantasy game.
 
@@ -1421,7 +1582,7 @@ Variety. Actions are not repeated. Actions should be numerous, but it feels inte
 
 Consequence. Actions have outcomes. The decision to do or not do something should have a consequence that the player can attribute to their
 
-<sup>5.</sup> Although Upton speaks of them in terms of action and intent horizons, we adapt them using the vocabulary we have been developing so far in this text.
+5. Although Upton speaks of them in terms of action and intent horizons, we adapt them using the vocabulary we have been developing so far in this text.
 
 decision. If the player's actions have no consequences (for example, whatever is destined to happen will happen), the player will lose the feeling of agency or control over their situation. And if the player's actions have a consequence that cannot be attributed (such as when the outcomes happen much later), it will prevent them from understanding how the game universe works. Mastering consequence and causality in the game world is necessary for forming successful long- term plans and strategies. It is interesting for the player to figure out which actions have the best consequences and juggle multiple opportunities whose consequences conflict with each other (such as the choice between short- term or long- term gains).
 
@@ -1443,7 +1604,7 @@ But in order to play it well, we need to figure out a slightly different set of 
 
 This is the difference between primary mechanics and derived ones. Primary mechanics are what is required to play the game. They define the gameplay. Derived mechanics, on the other hand, are player abstractions that have been created and defined by the community of players, usually distilling extensive experience playing the game and noticing additional patterns. In some games, they may also be called standard tactics or, less often, second- order mechanics. 6
 
-<sup>6.</sup> This usage of terms "first order" and "second order" mechanics is present in the Characteristics of Games book (Elias, Garfield and Gutschera 2012) and "Formal Abstract Design Tools" (Church 1999), among others. However, cardinal ordering only invites questions we do not know how to answer. For example, if we have first and second, what could be third- order mechanics? Instead of pursuing this further, we will only differentiate between primary mechanics and all other ones.
+6. This usage of terms "first order" and "second order" mechanics is present in the Characteristics of Games book (Elias, Garfield and Gutschera 2012) and "Formal Abstract Design Tools" (Church 1999), among others. However, cardinal ordering only invites questions we do not know how to answer. For example, if we have first and second, what could be third- order mechanics? Instead of pursuing this further, we will only differentiate between primary mechanics and all other ones.
 
 This kind of expert mental modeling is not limited to games. Experts in all sorts of areas will commonly identify patterns and structures that occur repeatedly. Derived mechanics are not required to play, but they are very useful since they encode expert knowledge about how the game is structured beyond the obvious ways.
 
@@ -1477,7 +1638,7 @@ The concepts of game mechanics and dynamics date back at least to the Cold War�
 
 In entertainment, the concept of mechanics seems to have been first adopted by war- gaming enthusiasts, as the term appears to be already in use in war- gaming design in the early 1970s. Then with the advent of video games as a mass market phenomenon, we start to see the term being used more broadly both by video game developers as well as growing enthusiast press.7 By the mid- 1990s mechanics become a more common term as can be seen in various proceedings from the Game Developers Conference or
 
-<sup>7.</sup> In war- gaming, the term appears in The Avalon Hill General as early as 1971 (Avalon Hill, Inc. 1971, 3). In video games, the printed manuals for the games Archon (Westfall 1983) and Batalyx (Llamasoft 1985) mention the "mechanics" of those games in passing, suggesting the term was already used in game design. On the enthusiast press side, the Electronic Games magazine in the early 1980s is perhaps the first to have used "mechanics" in reviewing gameplay of various arcade and home console games.
+7. In war- gaming, the term appears in The Avalon Hill General as early as 1971 (Avalon Hill, Inc. 1971, 3). In video games, the printed manuals for the games Archon (Westfall 1983) and Batalyx (Llamasoft 1985) mention the "mechanics" of those games in passing, suggesting the term was already used in game design. On the enthusiast press side, the Electronic Games magazine in the early 1980s is perhaps the first to have used "mechanics" in reviewing gameplay of various arcade and home console games.
 
 articles in the Game Developer Magazine, and in game reviews in popular press.
 
@@ -1842,7 +2003,7 @@ This kind of feedback produces powerful buildup and amplification of initial sta
 
 Positive feedback loops are very common in games. Monopoly is every designer's favorite example of a long- term positive feedback loop. The
 
-<sup>8.</sup> Sometimes these loops are also called divergent because each iteration causes the value to diverge further and further from the set point. Sellers (2017, 61) also uses the term reinforcing loops, as they reinforce and amplify initial advantages.
+8. Sometimes these loops are also called divergent because each iteration causes the value to diverge further and further from the set point. Sellers (2017, 61) also uses the term reinforcing loops, as they reinforce and amplify initial advantages.
 
 ## Systems 93
 
@@ -1862,7 +2023,7 @@ Similarly, if the room is too warm, current temperature is higher than set point
 
 Negative feedback loops are called that because feedback opposes what the system was already doing. The difference from the set point produces actions to reduce this difference in the future. In these kinds of systems, feedback pushes the system to converge towards the set point.9
 
-<sup>9.</sup> For this reason, they are sometimes called convergent loops, or per Sellers (2017, 61), balancing loops.
+9. For this reason, they are sometimes called convergent loops, or per Sellers (2017, 61), balancing loops.
 
 ## ![](_page_114_Figure_1.jpeg)
 
@@ -1890,7 +2051,7 @@ However, positive feedback loops have the effect of amplifying early advantages.
 
 To use an example from Star Craft, early in the game the player is faced with decisions about how to spend their minerals, which are a currency used to build various units and buildings. A variety of spending options is
 
-<sup>10.</sup> There is an entire subgenre called "idle games," including titles like Cookie Clicker or Ad Venture Capitalist, which focus almost entirely on ever- increasing positive feedback loops. In idle games, the player spends money or resources to build units that produce even more money or resources faster and faster, and it is surprisingly enjoyable to blow up production loops to absurdly large proportions (Pecorella 2016).
+10. There is an entire subgenre called "idle games," including titles like Cookie Clicker or Ad Venture Capitalist, which focus almost entirely on ever- increasing positive feedback loops. In idle games, the player spends money or resources to build units that produce even more money or resources faster and faster, and it is surprisingly enjoyable to blow up production loops to absurdly large proportions (Pecorella 2016).
 
 available, but one of the units is a harvester which digs up more minerals over time.
 
@@ -1980,7 +2141,7 @@ And yet, some games are keen to employ emergent behaviors as part of the desirab
 
 In simulation games, part of the fun of the experience is being faced with a collection of complex systems with unpredictable emergent characteristics and trying to control and manage them, or perhaps just letting them run and observing what they do. One anecdote from the game Dwarf Fortress illustrates this point. In the game, players build and manage underground dwarf settlements. The game is full of systems with emergent interactions, and one example of such interaction became well known. At some point players discovered that cats in the fortress sometimes got drunk, which was not expected or coded intentionally, so how did it happen? It turned out to be a collection of systems working together in unexpected ways. At one
 
-<sup>11.</sup> Sellers (2017, 78) calls these behaviors metastable, since they are markedly different from behaviors of the constituent elements and yet remain stable even as the individual constituent behaviors changes dynamically. For example, individual birds fly along different trajectories, and yet the entire flock seems to behave as one.
+11. Sellers (2017, 78) calls these behaviors metastable, since they are markedly different from behaviors of the constituent elements and yet remain stable even as the individual constituent behaviors changes dynamically. For example, individual birds fly along different trajectories, and yet the entire flock seems to behave as one.
 
 point, taverns were added to the game and dwarves who bought beer would clumsily spill it on the floor. Another system implemented liquid tracking via footprints, and the cat behavior system guided cat hygiene and selfcleaning, and yet another system guided ingestion of substances and their effects. All these ended up working together in unexpected ways. Dwarves spilled beer, cats walked through it, got it on their paws, and when they cleaned themselves they ingested the beer and got drunk (Fenlon 2016).
 
@@ -2050,8 +2211,12 @@ Table 4.1 Narrative marked up with elements to be defined and implemented
 
 | Narrative | Terms to define |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|
-| Creeps are spawned in waves and follow a specific path to<br>reach a player's home base. The player can build towers to<br>shoot them down before they get there. The game is over | Creeps<br>Spawning |
-| when any creep reaches the home base. | Following a path<br>Towers |
+| Creeps are spawned in waves and follow a specific path to
+reach a player's home base. The player can build towers to
+shoot them down before they get there. The game is over | Creeps
+Spawning |
+| when any creep reaches the home base. | Following a path
+Towers |
 | | Building |
 | | Shooting |
 ## | | Game over |
@@ -2374,10 +2539,27 @@ Just like we listed out activities for each loop, we can turn it around and matc
 
 | Frequency | Gameplay loops | Example of related systems |
 |------------------------------------|------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
-| every minute or two | find enemies, battle<br>enemies, collect loot,<br>locate treasure | exploration, combat, items,<br>stats, currencies, inventory |
-| every five to ten<br>minutes | venture out from camp,<br>clear out a section, return<br>and sell loot, heal | exploration, items, inventory,<br>economy, crafting, upgrades,<br>stats, skills |
-| every fifteen to thirty<br>minutes | clear out the entire area,<br>change up crew, level up<br>characters | inventory, crafting,<br>character specialization,<br>collectibles |
-| every few hours | explore an entire region<br>of the game world,<br>advance the story | character specialization,<br>crew management, cam<br>paign/story arc |
+| every minute or two | find enemies, battle
+enemies, collect loot,
+locate treasure | exploration, combat, items,
+stats, currencies, inventory |
+| every five to ten
+minutes | venture out from camp,
+clear out a section, return
+and sell loot, heal | exploration, items, inventory,
+economy, crafting, upgrades,
+stats, skills |
+| every fifteen to thirty
+minutes | clear out the entire area,
+change up crew, level up
+characters | inventory, crafting,
+character specialization,
+collectibles |
+| every few hours | explore an entire region
+of the game world,
+advance the story | character specialization,
+crew management, cam
+paign/story arc |
 
 We can see that various loops and frequencies often involve specific systems (as opposed to having systems that work across all frequencies). This is because different systems have different behaviors and are tuned in different ways. It is difficult to devise a single system that would present the player with interesting challenges at all the various frequencies from micro- to long- term.
 
@@ -2560,7 +2742,7 @@ It is commonly known that animals can usually be trained to do simple things for
 
 Since its heyday in the middle of the 20th century, conditioning has been thoroughly criticized in psychology and education as a massively
 
-<sup>12.</sup> Other types of conditioning also exist. For example, classic conditioning studies how events that co- occur become associated together in the subject's mind, such as the famous example of dogs learning to associate the sound of a bell with an imminent meal. We do not address them here, but please see (Hodent 2017) for more details and examples.
+12. Other types of conditioning also exist. For example, classic conditioning studies how events that co- occur become associated together in the subject's mind, such as the famous example of dogs learning to associate the sound of a bell with an imminent meal. We do not address them here, but please see (Hodent 2017) for more details and examples.
 
 ## Gameplay 139
 
@@ -2597,7 +2779,7 @@ Variable ratio: for example, reward the pigeon for pecking but vary how many act
 
 Variable interval: reward the pigeon for time spent pecking, but vary the time delay between rewards. Maybe sometimes ten seconds of pecking will be enough for a reward, at other times fifteen or twenty seconds. This reward is tied to randomized time intervals rather than amount of work, and it also results in slow extinction (the pigeon does not give up
 
-<sup>13.</sup> There also exists a related random ratio schedule, in which each action may be rewarded separately based on random chance, such as the roll of dice rather than randomizing the total number of required actions. This schedule is commonly seen in gambling, such as slot machines (Schüll 2012, 344). However, this distinction is subtle and the two schedules are similar enough for our purposes, so we will use "variable ratio" as a shortcut for both.
+13. There also exists a related random ratio schedule, in which each action may be rewarded separately based on random chance, such as the roll of dice rather than randomizing the total number of required actions. This schedule is commonly seen in gambling, such as slot machines (Schüll 2012, 344). However, this distinction is subtle and the two schedules are similar enough for our purposes, so we will use "variable ratio" as a shortcut for both.
 
 ## Gameplay 141
 
@@ -2659,7 +2841,7 @@ This is commonly done in games as well. Perhaps most typical example are level c
 
 For an example, consider the following XP/level chart for Diablo III, summarized in table 5.2.14 It shows a very typical, sharply increasing level curve, similar to what can be observed in many games.
 
-<sup>14.</sup> Although this particular data has been contributed by the community of players and can contain inaccuracies in the specific values, the general shape of the level curve is characteristic of games of this type.
+14. Although this particular data has been contributed by the community of players and can contain inaccuracies in the specific values, the general shape of the level curve is characteristic of games of this type.
 
 ## Table 5.2 XP/leveling chart for Diablo III
 
@@ -2903,7 +3085,7 @@ At the other end we have sandbox games in which the player has full freedom to e
 
 In commercial games, stories rarely fall into either extreme and instead occupy the large middle ground. They constrain the player's world such that they still have some agency but also reduce it ad hoc when needed. For
 
-<sup>15.</sup> In this discussion we largely follow the idea of agency as first sketched out by Church (1999). We say that players are acting intentionally when they can formulate goals and act purposefully towards those goals. However, more variants of this definition exist, see (Wardrip- Fruin forthcoming) for a detailed discussion.
+15. In this discussion we largely follow the idea of agency as first sketched out by Church (1999). We say that players are acting intentionally when they can formulate goals and act purposefully towards those goals. However, more variants of this definition exist, see (Wardrip- Fruin forthcoming) for a detailed discussion.
 
 ## Macrostructure 157
 
@@ -3022,7 +3204,7 @@ Story- based games use a variety of narrative patterns as building blocks for th
 
 Choice is a broad term here. We use it to mean the kinds of decisions, challenges, or actions that the player can undertake that can alter the course of the story. Choices and story elements can link together in various ways,
 
-<sup>16.</sup> Mawhorter et al. (2014) use the term choice poetics to describe the analysis of choice topologies and how they interact with other aspects of player experience. The industry does not have a single specific term for this, but terms like narrative structure or story structure are common.
+16. Mawhorter et al. (2014) use the term choice poetics to describe the analysis of choice topologies and how they interact with other aspects of player experience. The industry does not have a single specific term for this, but terms like narrative structure or story structure are common.
 
 as we describe next. Some of the basic patterns are illustrated in figure 6.5. These are relatively simple patterns, and smaller games may use them as they are, and larger games may use them as constituents of a larger structure.
 
@@ -3056,7 +3238,7 @@ This approach has been criticized for providing choices that are illusory. For e
 
 Beyond expanding and reconverging, we can list two other choice idioms which may seem suboptimal to authors looking at the topology from above but which often do not reveal their true nature on a single play- through (Mawhorter, et al. 2014). False choices occur when seemingly different actions in a choice point both lead to the same next node, although the player does not know that (for example, having different utterances in a dialog tree, all of which will cause the same NPC reaction), while flavor choices are similar actions that mainly affect the player's fantasy and perception of the game world (like picking different avatar clothing, or picking a particular turn of
 
-<sup>17.</sup> Costikyan (2007) uses the term "beads on a string" because of how the small subgraphs start from a single choice point, expand into a richer story structure, and then converge back to single point again.
+17. Costikyan (2007) uses the term "beads on a string" because of how the small subgraphs start from a single choice point, expand into a richer story structure, and then converge back to single point again.
 
 ## Macrostructure 167
 
@@ -3166,7 +3348,7 @@ The challenge of pacing is that we need to avoid creating an unrelentingly taxin
 
 The goal of good pacing is to vary gameplay intensity and balance intense gameplay with moments of downtime. How exactly this is implemented varies greatly between genres and game types. For example, in first- person action games, pacing can be achieved through level design by varying amounts and types of threats (such as enemies), mixing safe and threatening environments (such as areas where the player feels exposed and vulnerable), periodically taxing the player's reflexes (such as having to defend against an overwhelming enemy wave), and so on.18 In other games, pacing can be achieved differently. A turn- based war game still achieves increasing tension by taxing the player's problem- solving abilities rather than reflexes. Games that are not composed of multiple levels but rather consist of one long continuous session (like war games, grand strategy games, or sandbox simulations) also benefit from good pacing by modulating challenge over time. However, this is much more difficult to bring about in systems- driven
 
-<sup>18.</sup> Some games even attempt to automate this. For example, Left4Dead 2 features an explicit "director" module that tracks the pacing of the game and injects challenges to provide variety (Serviss 2013). However, this particular implementation also attracted player criticism for producing variability that was too predictable, underscoring just how difficult it can be to produce good pacing.
+18. Some games even attempt to automate this. For example, Left4Dead 2 features an explicit "director" module that tracks the pacing of the game and injects challenges to provide variety (Serviss 2013). However, this particular implementation also attracted player criticism for producing variability that was too predictable, underscoring just how difficult it can be to produce good pacing.
 
 ## Macrostructure 175
 
@@ -3253,7 +3435,7 @@ This kind of metagame is common in the computer game ecosystem and often treated
 
 At the same time, this kind of tinkering can be extremely undesirable in multiplayer games, in which it can be used for cheating, griefing (annoying other players), and other destructive multiplayer behaviors. Especially in competitive games and esports, modding can be seen as detrimental (with some exceptions for playing with mods that players agreed on beforehand). Console platforms like Play Station or Xbox typically do not support game modifications, and competitive PC games sometimes resort to technical tools to detect trainers, network proxies, and other such tools that can be used for cheating.
 
-<sup>19.</sup> Even so, development studios vary greatly in how they approach this kind of metagame. For example, the developers of The Witcher 3 do not officially support any cheat codes, while the developers of The Sims 4 made sure cheat codes are plentiful and even listed them right on the official website.
+19. Even so, development studios vary greatly in how they approach this kind of metagame. For example, the developers of The Witcher 3 do not officially support any cheat codes, while the developers of The Sims 4 made sure cheat codes are plentiful and even listed them right on the official website.
 
 However, playing around with game rules is an old way for players to experiment with games, going back to the card players using "house rules" instead of official ones, or to players on 8- bit home computers using "POKE" commands to modify a game's memory addresses after loading. In contemporary design, supporting this kind of modding can be very positive for the developer by making the game more interesting for players, assuming the game's design supports that.
 
@@ -3478,7 +3660,7 @@ Job description also helps the designer recognize and halt the temptation to ove
 
 3. What are the player's inputs? Do they use a controller, or a mouse and keyboard combination, or maybe a touch screen? And how will in- game actions be assigned to the buttons, joysticks, touch screen areas, and so on?
 
-<sup>20.</sup> These questions have been reinterpreted using the vocabulary we have been developing so far in the text, because the original text uses terms like "verbs" and "actions" in a slightly different sense. Special thanks to Kelly for additional clarifications of these points over email.
+20. These questions have been reinterpreted using the vocabulary we have been developing so far in the text, because the original text uses terms like "verbs" and "actions" in a slightly different sense. Special thanks to Kelly for additional clarifications of these points over email.
 
 The choice of inputs will greatly influence how well the player can accomplish various goals. Different inputs have different affordances. For example, a touch screen makes it very easy to pick and move items on the game screen, which is much harder with a controller, but a controller enables very complex character navigation through virtual space. Also, when dealing with a controller, having to remember the various actions and how they map to only a few buttons will be taxing to the player, and the game needs to account for good input mappings and training the player to use them.
 

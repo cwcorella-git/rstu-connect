@@ -1,3 +1,8 @@
+---
+title: "**Secular Buddhism**"
+category: "contemporary-analysis"
+---
+
 #### [en.m.wikipedia.org](https://en.m.wikipedia.org/wiki/Secular_Buddhism)
 
 # **Secular Buddhism**

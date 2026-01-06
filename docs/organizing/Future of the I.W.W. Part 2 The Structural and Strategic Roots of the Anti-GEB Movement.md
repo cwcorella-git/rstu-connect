@@ -1,3 +1,8 @@
+---
+title: "## **Future of the I. W. W. Part 2: The Structural and Strategic Roots of the Anti-GEB Movement**"
+category: "organizing"
+---
+
 ## **Future of the I. W. W. Part 2: The Structural and Strategic Roots of the Anti-GEB Movement**
 
 ## **Date:** Unknown

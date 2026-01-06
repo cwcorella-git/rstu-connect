@@ -1,3 +1,8 @@
+---
+title: "## **To Libertarians - Guy Debord/International Friends**"
+category: "international-solidarity"
+---
+
 ## **To Libertarians - Guy Debord/International Friends**
 
 ## **Date:** Unknown

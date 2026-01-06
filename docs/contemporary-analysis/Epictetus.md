@@ -1,3 +1,8 @@
+---
+title: "**Epictetus**"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 # **Epictetus**
@@ -46,13 +51,13 @@ Early in life, Epictetus acquired a passion for philosophy and, with the permiss
 
 Epictetus obtained his freedom sometime after the death of Nero in AD 68, and he began to teach philosophy in Rome. Around AD 93, when the Roman emperor Domitian banished all philosophers from the city, Epictetus moved to Nicopolis in Epirus, Greece, where he founded a school of philosophy. [19]
 
-His most famous pupil, <u>Arrian</u>, studied under him as a young man (around AD 108) and claimed to have written his famous <u>Discourses</u> based on the notes he took about lectures by Epictetus. Arrian argued that his Discourses should be considered comparable to the <u>Socratic</u> literature. [20] Arrian described Epictetus as a powerful speaker who could "induce his listener to feel just what Epictetus wanted him to feel". [21] Many eminent figures sought conversations with him. [22] Emperor <u>Hadrian</u> was friendly with him, [23] possibly having heard Epictetus speak at his school in Nicopolis. [24][25]
+His most famous pupil, Arrian, studied under him as a young man (around AD 108) and claimed to have written his famous Discourses based on the notes he took about lectures by Epictetus. Arrian argued that his Discourses should be considered comparable to the Socratic literature. [20] Arrian described Epictetus as a powerful speaker who could "induce his listener to feel just what Epictetus wanted him to feel". [21] Many eminent figures sought conversations with him. [22] Emperor Hadrian was friendly with him, [23] possibly having heard Epictetus speak at his school in Nicopolis. [24][25]
 
-Epictetus lived a life of great <u>simplicity</u>, with few possessions. [16] He lived alone for a long time, [26] but in his old age, he adopted the child of a friend who otherwise would have been left to die, and raised him with the aid of a woman. [27] It is unclear whether Epictetus and she were married. [28] He died sometime around AD 135. [29] After his death, according to <u>Lucian</u>, his <u>oil lamp</u> was purchased by an admirer for 3,000 drachmae. [30]
+Epictetus lived a life of great simplicity, with few possessions. [16] He lived alone for a long time, [26] but in his old age, he adopted the child of a friend who otherwise would have been left to die, and raised him with the aid of a woman. [27] It is unclear whether Epictetus and she were married. [28] He died sometime around AD 135. [29] After his death, according to Lucian, his oil lamp was purchased by an admirer for 3,000 drachmae. [30]
 
 # **Thought**
 
-Epictetus maintains that the foundation of all philosophy is <u>self-knowledge</u>; that is, the conviction of our ignorance and gullibility ought to be the first subject of our study. <u>[31] Logic</u> provides valid reasoning and certainty in judgment, but it is subordinate to practical needs. He also maintained that the first and most necessary part of philosophy concerns the application of doctrine, for example, that people should not <u>lie</u>. The second concerns reasons, e.g., why people should not lie. The third, lastly, examines and establishes the reasons. This is the logical part, which finds reasons, shows what is a reason, and that a given reason is a correct one. <u>[33]</u> This last part is necessary, but only on account of the second, which again is rendered necessary by the first. <u>[34]</u>
+Epictetus maintains that the foundation of all philosophy is self-knowledge; that is, the conviction of our ignorance and gullibility ought to be the first subject of our study. [31] Logic provides valid reasoning and certainty in judgment, but it is subordinate to practical needs. He also maintained that the first and most necessary part of philosophy concerns the application of doctrine, for example, that people should not lie. The second concerns reasons, e.g., why people should not lie. The third, lastly, examines and establishes the reasons. This is the logical part, which finds reasons, shows what is a reason, and that a given reason is a correct one. [33] This last part is necessary, but only on account of the second, which again is rendered necessary by the first. [34]
 
 # EPICTETE
 
@@ -62,7 +67,7 @@ An eighteenth century engraving depicting Epictetus
 
 No writings by Epictetus are known. His discourses were transcribed and compiled by his pupil Arrian ( $\underline{c}$ . 86/89 – $\underline{c}$ . after 146/160 AD). [21]
 
-The main work is <u>The Discourses</u>, four books of which have been preserved (out of the original eight). Arrian also compiled a popular digest, entitled the <u>Enchiridion</u>, or <u>Handbook</u>, of Epictetus. In a preface to the *Discourses* that is addressed to Lucius Gellius, Arrian states that "whatever I heard him say I used to write down, word for word, as best I could, endeavouring to preserve it as a memorial, for my own future use, of his way of thinking and the frankness of his speech".[\[21\]](#page-3-14)
+The main work is The Discourses, four books of which have been preserved (out of the original eight). Arrian also compiled a popular digest, entitled the Enchiridion, or Handbook, of Epictetus. In a preface to the *Discourses* that is addressed to Lucius Gellius, Arrian states that "whatever I heard him say I used to write down, word for word, as best I could, endeavouring to preserve it as a memorial, for my own future use, of his way of thinking and the frankness of his speech".[\[21\]](#page-3-14)
 
 The philosophy of Epictetus influenced the Roman emperor [Marcus Aurelius](https://en.wikipedia.org/wiki/Marcus_Aurelius) (AD 121 to AD 180), who cites Epictetus in his *[Meditations](https://en.wikipedia.org/wiki/Meditations)*. [\[36\]](#page-4-1) Epictetus also appears in a second or third century *[Dialogue Between the Emperor Hadrian and](https://en.wikipedia.org/wiki/Altercatio_Hadriani_Augusti_et_Epicteti_philosophi) [Epictetus the Philosopher](https://en.wikipedia.org/wiki/Altercatio_Hadriani_Augusti_et_Epicteti_philosophi)*. [\[37\]](#page-4-2) This short Latin text consists of seventy-three short questions supposedly posed by [Hadrian](https://en.wikipedia.org/wiki/Hadrian) and answered by Epictetus.[\[37\]](#page-4-2) This dialogue was very popular in the [Middle Ages](https://en.wikipedia.org/wiki/Middle_Ages) with many translations and adaptations.[\[37\]](#page-4-2)
 
@@ -174,4 +179,4 @@ In the sixth century, the [Neoplatonist](https://en.wikipedia.org/wiki/Neoplaton
 - *Stockdale on Stoicism II: Master of My Fate* [\(http://www.usna.edu/Ethics/\\_files/documents/st](http://www.usna.edu/Ethics/_files/documents/stoicism2.pdf) [oicism2.pdf\)](http://www.usna.edu/Ethics/_files/documents/stoicism2.pdf) ([Archived \(https://web.archive.org/web/20210716024938/https://www.usna.edu/](https://web.archive.org/web/20210716024938/https://www.usna.edu/Ethics/_files/documents/Stoicism2.pdf) [Ethics/\\_files/documents/Stoicism2.pdf\)](https://web.archive.org/web/20210716024938/https://www.usna.edu/Ethics/_files/documents/Stoicism2.pdf) 2021-07-16 at the [Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine)) by [James](https://en.wikipedia.org/wiki/James_Stockdale) [Stockdale](https://en.wikipedia.org/wiki/James_Stockdale)
 - *[Epicteti dissertationes ab Arriano digestae \(https://archive.org/details/ldpd\\_10922736\\_000\)](https://archive.org/details/ldpd_10922736_000)*, [Heinrich Schenkl](https://de.wikipedia.org/wiki/Heinrich_Schenkl) (ed.), Lipsiae, in aedibus B. G. Teubneri, 1916.
 
-Retrieved from "<https://en.wikipedia.org/w/index.php?title=Epictetus&oldid=1320508024>"
+Retrieved from ""

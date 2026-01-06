@@ -1,3 +1,8 @@
+---
+title: "FREE, FAIR ALVE THE INSURGENT POWER"
+category: "technology-digital-justice"
+---
+
 ## DAVID BOLLIER & SILKE HELFRICH
 
 # FREE, FAIR ALVE THE INSURGENT POWER
@@ -552,7 +557,7 @@ Complexity science oers a more coherent way of explaining how functional design 
 
 e principles of complex adaptive systems are seen in the self-organization of microbes as they adapt to host organisms, ants as they build their nests, and other living creatures that somehow self-coordinate to generate an overall order for their collective. Biologist Stuart Kauman, a pioneering theorist of complexity science, has identied key principles of autocatalysis that can occur when one form of matter comes into contact with another.42 Based on experimental insights, he has proposed a theory for the origins of molecular reproduction — a dynamic that others have conrmed in biological metabolisms, chemical networks, and physics, among other realms. e rise of spontaneous order, as it is sometimes called, occurs through the interactions of local agents without any outside supervision or control. It tends to be driven by positive feedback loops within a system that reinforces constructive, order-creating behaviors. Self-ordering and self-healing properties are woven into systems and their constituent elements at a very deep level, making them unusually resilient in the face of disruptions.
 
-is is obviously a more complicated story than we can delve into here. For our purposes, it is enough to note that the dynamics of self-organization43 can generate a stable, living order within a sea of chaotic, random entropy. e Second Law of ermodynamics posits that the universe is in a state of constant, increasing entropy that is always moving toward disorder. But according to some novel scientic theories, living organisms — cells, plants, animals (and commons?) are able to temporarily capture and structure the use of entropic energy ows to sustain life. Aliveness and order spontaneously arise from chaotic disorder. A living organism relies on semi-permeable membranes to allow it to access what is useful in the external environment and lter out what is harmful, all in ways congruent with its particular context.44 "Identity and environment are thus reciprocally dened and determined with respect to each other," writes biological anthropologist Terrence Deacon, author of Incomplete Nature. <sup>45</sup> ere is no divine watchmaker or external force imposing order. Rather it emerges through an organism's internal systems for metabolizing energy and creatively adapting to its environment. e parallels between this biological process and commoning are highly suggestive and worth pondering.
+is is obviously a more complicated story than we can delve into here. For our purposes, it is enough to note that the dynamics of self-organization43 can generate a stable, living order within a sea of chaotic, random entropy. e Second Law of ermodynamics posits that the universe is in a state of constant, increasing entropy that is always moving toward disorder. But according to some novel scientic theories, living organisms — cells, plants, animals (and commons?) are able to temporarily capture and structure the use of entropic energy ows to sustain life. Aliveness and order spontaneously arise from chaotic disorder. A living organism relies on semi-permeable membranes to allow it to access what is useful in the external environment and lter out what is harmful, all in ways congruent with its particular context.44 "Identity and environment are thus reciprocally dened and determined with respect to each other," writes biological anthropologist Terrence Deacon, author of Incomplete Nature. 45 ere is no divine watchmaker or external force imposing order. Rather it emerges through an organism's internal systems for metabolizing energy and creatively adapting to its environment. e parallels between this biological process and commoning are highly suggestive and worth pondering.
 
 Conventional scientists sco at many of these ideas, to be sure, but numerous biologists, chemists, evolutionary scientists, and physicists have embraced complexity theory precisely because it explains things that standard science, operating within a more mechanical, individualist, and agent-based framework, cannot. A relational ontology enables scientists to see the world in more dynamic, holistic terms. It lets us become more self-aware of the reality that we are personally immersed in living phenomena. While economists have generally resisted this idea (it would shatter too many foundational principles of standard economics!), Kate Raworth, in her brilliant book Doughnut Economics, has proposed a real-world economic framework that recognizes a new ontology — that people are social and relational (not rational and individualistic); that the world is dynamically complex (not mechanical and tending toward equilibrium); and that our economic systems must be regenerative by design.46
 
@@ -622,7 +627,7 @@ Any society is likely to have a dominant framework of perception and meaning. is
 
 We've seen how language is an indispensable force for imagining the world — and for socially constructing what counts as a fact. It is even more: language is a means for co-creating the world. It has only been in the past two hundred years, for example, that land and certain forms of human work have been regarded as "capital"7 — a term of rather central importance to modern history. A whole vocabulary of economics has made the social relations of capitalism more real and normative than primary experience. As capitalists have sought greater productivity from their property, terms such as "human capital" and "natural capital" have been adopted to express relations toward people and nature. Similarly, the internet and digital culture have given rise to entirely new vocabularies to describe the salient realities of online life – "spam," "phishing," "ame wars," emoticons, and acronyms like LOL. Bora speakers in the Northwest Amazon have developed their own highly specic terms to name what matters to them and to navigate through their social and physical terrain. e same with the Jahai people in the untouched rainforests of northern Malaysia, who have a dozen dierent words for odors that permeate their landscape: one for the smell of boiled onions, another for the aroma of meats, others for burnt rubber and "blood that attracts tigers."8 Speakers of English or German don't have much need for such concepts, which is why it takes an elaborate analogy ("smell of boiled onions") simply to make a rough translation.
 
-In his book Landmarks, nature writer Robert Macfarlane compiled hundreds of words that local communities have invented to name distinctive aspects of their local landscapes. On the Isle of Lewis in Ireland, for example, the word èit names the "practice of placing quartz stones in moorland streams so that they would sparkle in the moonlight and thereby attract salmon to them in the late summer and autumn."9 In Hertfordshire, England, prehistoric arrowheads are known as fairy darts. In the Cotswolds, decayed wood is called droxy. <sup>10</sup> e countless words used by hyperlocal populations have a "compressive precision" and the capacity to make "ultra-ne discriminations," writes Macfarlane.11 For centuries, these vocabularies "have spilled their poetry into everyday life. ey have anthologized local history, anecdote, and myth, binding story to place. ey have been functional — operating as territory markers and ownership designators" — helping people to name landmarks, navigate the landscape, and connect to their ancestors' history. e words function as "memory maps." As Alec Finlay puts it, the world is "lit by the mnemonics of words."12
+In his book Landmarks, nature writer Robert Macfarlane compiled hundreds of words that local communities have invented to name distinctive aspects of their local landscapes. On the Isle of Lewis in Ireland, for example, the word èit names the "practice of placing quartz stones in moorland streams so that they would sparkle in the moonlight and thereby attract salmon to them in the late summer and autumn."9 In Hertfordshire, England, prehistoric arrowheads are known as fairy darts. In the Cotswolds, decayed wood is called droxy. 10 e countless words used by hyperlocal populations have a "compressive precision" and the capacity to make "ultra-ne discriminations," writes Macfarlane.11 For centuries, these vocabularies "have spilled their poetry into everyday life. ey have anthologized local history, anecdote, and myth, binding story to place. ey have been functional — operating as territory markers and ownership designators" — helping people to name landmarks, navigate the landscape, and connect to their ancestors' history. e words function as "memory maps." As Alec Finlay puts it, the world is "lit by the mnemonics of words."12
 
 A prominent ethnographer of landscape and language, Keith Basso, noted that the Apache people of western Arizona regard their special words as much more than referents. ey are ways to express themselves aesthetically, ethically, and musically. ey oer powerful ways to connect people to their own geographies, cultures, and histories. In our time, marketers have used the expressive power of words to advance their sales and brand identities, to the extent of buying "naming rights" for sports arenas and urban landmarks, for example.13 When commoners replace commodied place names and branded culture with their own nomenclatures, they restore the expressive power of language and re-enchant the commons. e culture itself becomes a commons because the words resonate in people's hearts and experience; they are not just marketing totems that a wealthy corporation has paid for.
 
@@ -654,11 +659,11 @@ In this sense vocabulary is a living universe of meaning communicated through di
 
 Citizen, also called "a national," identies a person in relation to the nation-state and implies that this is a person's primary political role. e term "citizen" is often used to imply that noncitizens are somehow less than equal peers or perhaps even "illegal."22 A more universal term is Commoner.
 
-Development is a term of political economy used by the US and European nations to prod "undeveloped" countries to embrace global commerce, resource extractivism, and consumerism along with improvements in infrastructure, education, and healthcare. e harmful side-effects of "development" typically include ecological destruction, inequality, political repression, and cultural dispossession. German ecologist Wolfgang Sachs has called development a mindset that puts the political economies of all nations on a single track: "The lead-runners show the way; they are at the forefront of social evolution, indicating a common destination even for countries which had highly diverse trajectories in the past. Many different histories merge into one 'master history,' many different time scales merge into one master time scale. The imagined time is linear, only allowing for progressing or regressing."<sup>23</sup>
+Development is a term of political economy used by the US and European nations to prod "undeveloped" countries to embrace global commerce, resource extractivism, and consumerism along with improvements in infrastructure, education, and healthcare. e harmful side-effects of "development" typically include ecological destruction, inequality, political repression, and cultural dispossession. German ecologist Wolfgang Sachs has called development a mindset that puts the political economies of all nations on a single track: "The lead-runners show the way; they are at the forefront of social evolution, indicating a common destination even for countries which had highly diverse trajectories in the past. Many different histories merge into one 'master history,' many different time scales merge into one master time scale. The imagined time is linear, only allowing for progressing or regressing."23
 
 Governance refers to multiple arrangements of guiding and controlling human behavior. Like the term *government*, it derives ultimately from the Greek *kubernaein* [ $\kappa \nu \beta \epsilon \rho \nu \delta \omega$ ], which literally means *to steer*. The question is: Who steers whom and by which techniques? The term, as re-minted by economists and political scientists since the early 1990s, implies that a separate class, power group, or institutional apparatus stands over others and governs them — in other words, that the government and governed are separate. The term *governance* in its standard usage does not encompass the idea of collective coordination and control by people themselves. Our provisional alternative to the term *governance* is PEER GOVERNANCE.
 
-**Incentives** describe the use of something, usually money, to motivate people and to direct their actions in a desired way. In the context of a system of rewards, incentives are usually meant to encourage harder work. (No wonder it was popularized in 1943 in the context of the US war economy.) While external incentives surely have a role to play, studies find that money and other incentives often crowd out instinctual motivations to create and contribute. The introduction of money in a setting signals that impersonal, self-serving social protocols are the norm, which in turn deters people from Contributing Freely. "[M]oney is extraordinarily unfit for addressing needs with Care," writes Miki Kashtan.<sup>24</sup>
+**Incentives** describe the use of something, usually money, to motivate people and to direct their actions in a desired way. In the context of a system of rewards, incentives are usually meant to encourage harder work. (No wonder it was popularized in 1943 in the context of the US war economy.) While external incentives surely have a role to play, studies find that money and other incentives often crowd out instinctual motivations to create and contribute. The introduction of money in a setting signals that impersonal, self-serving social protocols are the norm, which in turn deters people from Contributing Freely. "[M]oney is extraordinarily unfit for addressing needs with Care," writes Miki Kashtan.24
 
 **Innovation** refers to ideas, tools, or devices that are new, and, by implication, more original, beneficial, progressive, and effective than that which already exists. e so-called disruptive force of innovation on society and markets is celebrated even through the change is often of negligible value, antisocial, or ecologically harmful. In the end, "innovation" is seen as an engine for competitive market advantage and return on capital investment. Hence the positive aura of the word, especially when it is cast against its binary opposite, "static, traditional, and old," which implies a lack of imagination. e alternative to "innovation" is not this binary opposite, however, but creative adaptation to ever-changing needs in ways that are shared and convivial.
 
@@ -1551,14 +1556,24 @@ Once commoners pool their resources, should they Share, Divide Up, or Mutualize 
 
 | Type of transaction | Character of Shared Wealth | |
 |---------------------|-------------------------------------------------|--------------------------------------------------------------------|
-| | Can Be Used Up<br>(Rivalrous) | Cannot be Used Up<br>(Nonrivalrous) |
-| Reciprocal | Mutualize or<br>Trade with Price<br>Sovereignty | Reciprocal exchange of<br>nonrivalrous resources<br>makes no sense |
+| | Can Be Used Up
+(Rivalrous) | Cannot be Used Up
+(Nonrivalrous) |
+| Reciprocal | Mutualize or
+Trade with Price
+Sovereignty | Reciprocal exchange of
+nonrivalrous resources
+makes no sense |
 ## | Nonreciprocal | Divide Up | Share |
 
 | Type of Exchange | Character of Shared Wealth | |
 |------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
 | | Rivalrous | Nonrivalrous |
-| Reciprocal | Trade according<br>to market price | Propertize and<br>privatize, then trade<br>according to market<br>price |
+| Reciprocal | Trade according
+to market price | Propertize and
+privatize, then trade
+according to market
+price |
 | Nonreciprocal | This is a blind spot in standard economics because, by definition, caring, helping, sharing, and dividing up are not considered to be part of the economy. | |
 
 ### Use Convivial Tools e term "convivial tools" was introduced by the social critic and philosopher Ivan Illich in his 1973 book Tools for Conviviality, which described a vision of a world in which a community of users develop and maintain their own tools. Using convivial tools — a term that we extend to technologies, infrastructures, and processes for provisioning is about enhancing our individual freedom while enriching our relationships and interdependence — the essence of a commons.
@@ -1770,10 +1785,20 @@ If we wish to imagine a post-capitalist order that gets beyond the built-in pres
 
 e following table illustrates the dierences between personal property and collective property, and how they dier from a Pre-Property Regime.
 
-| | Private Property Regimes | | | Pre-Property<br>Regime |
+| | Private Property Regimes | | | Pre-Property
+Regime |
 |------------------|------------------------------|------------------------------------------------------|---------------------------------|------------------------------------------------------------------------|
-| | Persona <b>l</b><br>property | Corporate<br>property | Co <b>ll</b> ective<br>property | open to all as<br>default (even<br>if over-<br>exploitation<br>occurs) |
-| Number of owners | 1 person | 1 legal person<br>"owned" by<br>many<br>shareholders | 1 + n persons | nobody |
+| | Persona l
+property | Corporate
+property | Co ll ective
+property | open to all as
+default (even
+if overexploitation
+occurs) |
+| Number of owners | 1 person | 1 legal person
+"owned" by
+many
+shareholders | 1 + n persons | nobody |
 
 The dierences between personal property and collective property are gradual. However, there is a qualitative dierence between private property regimes (personal/corporate/collective) and a No-Property regime.
 
@@ -1845,12 +1870,20 @@ Any project to reinvigorate the idea of inalienability would do well to study th
 
 Res nullius had its roots in the early sixth century, when Emperor Justinian ordered a systematic synthesis of all existing imperial laws drawing upon the most important works in jurisprudence. e result, the Justinian Code — or, more formally, Corpus Iuris Civilis which means "Body of Civil Law" — issued between 534 and 528 B. C. E., greatly inuenced modern law. e Code partitioned into separate classes the great mass of things that could be subject to property ownership, with dierent access and use rights for each class of property. (See table below.) Today, while we assume that property ownership falls into two basic categories, public and private, the ancient Romans remind us that there are more. ey had a legal classication for personal property rights — res privatae. e state acted as a protector and trustee of res publicae — lands, civil buildings, and infrastructures and recognized common property regimes, the so-called res communis, for air and water.40 It also declared that certain things known as res nullius cannot be owned.
 
-| | Legal owner/steward | Object of ownership<br>or stewardship |
+| | Legal owner/steward | Object of ownership
+or stewardship |
 |--------------|------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
-| res publicae | the state holds and manages<br>on behalf of citizens | national parks, public<br>gardens, infrastructure |
-| res privatae | an individual | house, household<br>possessions |
-| res communis | a community/ a bounded<br>group of people | parcels of land |
-| res nullius | no one | atmosphere, oceans, fish,<br>and other fugitive wildlife<br>as well as all that was<br>considered sacred |
+| res publicae | the state holds and manages
+on behalf of citizens | national parks, public
+gardens, infrastructure |
+| res privatae | an individual | house, household
+possessions |
+| res communis | a community/ a bounded
+group of people | parcels of land |
+| res nullius | no one | atmosphere, oceans, fish,
+and other fugitive wildlife
+as well as all that was
+considered sacred |
 
 Table based on denitions in the Institutes of Justinian.
 
@@ -1884,9 +1917,9 @@ e dynamic of using law to objectify social relationships seems to be a pattern i
 
 It is unclear why and how the legal meaning of res nullius in bonis disappeared over the centuries. Perhaps it has something to do with a cultural reinterpretation of the term res itself. Reading the studies of respected Roman legal historian Yan omas, we came to realize that in our times, res is usually translated as "thing." Before the Justinian Code, however, it was not understood simply as an object or a thing,46 but as an issue to be dealt with or legal matter. e term res always referred to a thing in the context of a legal procedure, and therefore referred more to an aair than to just an object.47 While this may seem to be a subtle dierence, it isn't. is more accurate understanding of res obliges us to take account of particular social and legal realities. In other words, res was not just a matter of "property." Remember that one of the basic qualitative distinctions before the Justinian Code was between patrimonial versus extrapatrimonial. If the res in question was considered patrimonial (heritage), it could never be treated as property and made tradeable. It would remain unowned and protected, and the legal proceedings could only discuss appropriate use rights. By contrast, something that qualified as *extrapatrimonial* (commercial) could be taken, occupied, and owned. *Res*, one could say, was always treated as "something in context." It did not refer to a fixed, essential attribute of "the thing," the property itself. It referred to the contested piece of property, but at the same time to its proper social and legal status. This is not a trivial detail. It helps us see that long before modern law began to dominate our minds, *the web of relations in which a particular* res *was embedded was a primary legal concern. Res* was not reified, one could say, but referred to a legal affair.
 
-Understanding *res* or anything subject to property rights in relational terms means that there is no such thing as the natural character of the thing itself that determines the appropriate property rights. This approach is nonetheless still in vogue today. Economists routinely declare that certain classes of what they call goods can be managed only as public property or as private property.<sup>48</sup> This mentality can be seen in a classic economics chart that declares the existence of four types of goods — private, public, club goods, and common goods — based on supposedly intrinsic traits of the goods themselves.<sup>49</sup>
+Understanding *res* or anything subject to property rights in relational terms means that there is no such thing as the natural character of the thing itself that determines the appropriate property rights. This approach is nonetheless still in vogue today. Economists routinely declare that certain classes of what they call goods can be managed only as public property or as private property.48 This mentality can be seen in a classic economics chart that declares the existence of four types of goods — private, public, club goods, and common goods — based on supposedly intrinsic traits of the goods themselves.49
 
-This matrix of four types of property and corresponding governance regimes is profoundly misleading. It quietly suggests that what is actually a social choice inheres in the goods themselves. In other words, the chart reflects a serious ontological confusion — one that is taught to economics students around the world. Standard economics ascribes characteristics to physical resources that are in fact entirely open to social choice and governance. It is neither necessary nor most efficient for a lighthouse to be managed as a public good, for example. Civil infrastructure can often be successfully managed as a common good, as we have seen with Wi-Fi systems (Guifi.net). Digital code need not be treated as a private good or even as a club good; it too can be practically managed as a commons. And so on. The neoclassical monoculture for economic theory has simply chosen to ignore the sociopolitical choices that affect the creation of property rights, preferring to attribute those rights to something inherent in the resource itself.<sup>50</sup> It has superimposed its objectivist worldview onto the field of goods, much as the legal profession transmuted a social matter, res, into an object. Despite the eorts of modern capitalism to objectify social relations into property, dierent notions of property expressing dierent ways of being in the world persist. Each authorizes or constrains how we may live in the world.
+This matrix of four types of property and corresponding governance regimes is profoundly misleading. It quietly suggests that what is actually a social choice inheres in the goods themselves. In other words, the chart reflects a serious ontological confusion — one that is taught to economics students around the world. Standard economics ascribes characteristics to physical resources that are in fact entirely open to social choice and governance. It is neither necessary nor most efficient for a lighthouse to be managed as a public good, for example. Civil infrastructure can often be successfully managed as a common good, as we have seen with Wi-Fi systems (Guifi.net). Digital code need not be treated as a private good or even as a club good; it too can be practically managed as a commons. And so on. The neoclassical monoculture for economic theory has simply chosen to ignore the sociopolitical choices that affect the creation of property rights, preferring to attribute those rights to something inherent in the resource itself.50 It has superimposed its objectivist worldview onto the field of goods, much as the legal profession transmuted a social matter, res, into an object. Despite the eorts of modern capitalism to objectify social relations into property, dierent notions of property expressing dierent ways of being in the world persist. Each authorizes or constrains how we may live in the world.
 
 ## \* \* \*
 
@@ -1944,12 +1977,40 @@ Relationalized Property helps align and empower at least six relationships that 
 
 | | Relationship of concern | Guiding question | Convivial Tool |
 |---|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1 | Relationship to oneself | Are my needs being met? | Self-reflection about<br>the meaning of<br>property in one's life <sup>6</sup> |
-| 2 | Relationships<br>among peers | Do peers enjoy equal decision-making rights and negotiate mutually acceptable use rights and responsibilities (even if differentiated among participants)? | Park Slope Food<br>Coop's workslot<br>system within the<br>member-ownership<br>concept |
-| 3 | Relationships<br>between humans<br>and the more-<br>than-human<br>world | Do the rules and rights deriving from RP respect and nurture shared, affective relationships that people have with, for example, parks, artworks, gravesites, places of worship, bodies of water, mountains, and forests? | Taboos, rituals, and celebrations; res nullius in bonis; Common Heritage of Mankind (cultural and natural) |
-| 4 | Relationships<br>between past,<br>present and<br>future generations | Do the use rights and responsibilities reflect a "long now" perspective, <sup>7</sup> especially the principle of intergenerational justice? | Pay-it-forward<br>mechanisms<br>(see pp. 254, 313);<br>gift-provisioning in<br>traditional practices |
-| 5 | Inter-institutional relationships among commons, and between commons and the market/state | Does the RP regime recognize a semi-permeable membrane around a commons that prevents it from being exploited from the outside? Does the RP regime allow commoners to enjoy entitlements that are not available via market exchange? | Licenses that protect<br>open content or<br>commons such as<br>the General Public<br>License (pp. 258–259)<br>or Open Source Seeds<br>(pp. 263–266) |
-| 6 | Relationships<br>between a specific<br>property<br>arrangement and<br>people's quest for<br>ultimate meanings | Does the RP arrangement create a sense of belonging and does it contribute to a free, fair, and sustainable world? | |
+| 1 | Relationship to oneself | Are my needs being met? | Self-reflection about
+the meaning of
+property in one's life 6 |
+| 2 | Relationships
+among peers | Do peers enjoy equal decision-making rights and negotiate mutually acceptable use rights and responsibilities (even if differentiated among participants)? | Park Slope Food
+Coop's workslot
+system within the
+member-ownership
+concept |
+| 3 | Relationships
+between humans
+and the morethan-human
+world | Do the rules and rights deriving from RP respect and nurture shared, affective relationships that people have with, for example, parks, artworks, gravesites, places of worship, bodies of water, mountains, and forests? | Taboos, rituals, and celebrations; res nullius in bonis; Common Heritage of Mankind (cultural and natural) |
+| 4 | Relationships
+between past,
+present and
+future generations | Do the use rights and responsibilities reflect a "long now" perspective, 7 especially the principle of intergenerational justice? | Pay-it-forward
+mechanisms
+(see pp. 254, 313);
+gift-provisioning in
+traditional practices |
+| 5 | Inter-institutional relationships among commons, and between commons and the market/state | Does the RP regime recognize a semi-permeable membrane around a commons that prevents it from being exploited from the outside? Does the RP regime allow commoners to enjoy entitlements that are not available via market exchange? | Licenses that protect
+open content or
+commons such as
+the General Public
+License (pp. 258–259)
+or Open Source Seeds
+(pp. 263–266) |
+| 6 | Relationships
+between a specific
+property
+arrangement and
+people's quest for
+ultimate meanings | Does the RP arrangement create a sense of belonging and does it contribute to a free, fair, and sustainable world? | |
 
 In a scheme of Relationalized Property, the familiar bond established by property — between the owner and the owned thing, as if it were only a subject/object relationship — continues to exist. But this relationship, while certainly important, is no longer considered the essence of property. Relationalizing Property is about restoring the legal space for myriad nonmarket relationships to ourish — aective care and customs, the aliveness of land and other natural systems, intergenerational respect. rough a dierent sociolegal framework for property, we can bring back all sorts of relationships that the modern, liberal understanding of property (dominion, monetized exchange value) has either banished or marginalized.
 
@@ -2079,7 +2140,7 @@ Just at the time when the huge ag-chemical and biotech companies Bayer and Monsa
 
 Open Source Seed Initiative (OSSI)40 decided against using legal contracts and enforcement, for reasons of both practicality and principle. OSSI believed that it would be hard to print dense, complex legal licenses on a packet of seeds, and that legal language that might be honored by courts would probably not be understood by most farmers. Moreover, many people in Indigenous and Global South contexts objected to the very idea of legal contracts that dene seeds as property. ey preferred to base sharing on a peer-enforced social ethic. Finally, many farmers and plant breeders are wary of licenses because, while eager to share seed, they want to retain the right to receive payment for any breeding innovations that they do.41
 
-Because of such diverse motivations among growers, the Open Source Seed Initiative decided to promote a vernacular seed law in the form of a pledge: "You have the freedom to use these OSSI seeds in any way you choose. In return, you pledge not to restrict others' use of these seeds or their derivatives by patents or other means, and to include this pledge with any transfer of these seeds or their derivatives." e pledge does not have the force of state law and enforcement behind it, but instead looks to the ethical and social norms of plant breeders to model behavior and shame transgressors. Drawing upon the ideas of the GPL for free software, the pledge means that users will treat seeds as openly available to all, and will not assert any private control over them. In other words, it is a pledge not to restrict access or use. Nourishing this ethos is at least as important as complex legal agreements that may or may not be understood by farmers and that may not be practically enforceable in any case. Can a peasant farmer realistically hope to prevail in litigation against Bayer-Monsanto? As of mid-2018, said Kloppenburg, "We have 400-plus varieties, fty-one species, thirty-eight breeders, more than sixty companies [who have signed the Pledge]. We are there, we are real, we are doing it. And I didn't think these breeders — public breeders — existed in the USA. Guess what: they do. ey are real. ey are there, they are surviving. We didn't create them. We are building on a pre-existing network. is is why OSSI works … because we created connections to what already existed."<sup>42</sup> Kloppenburg's comment points to the reality that relationalized property often exists already and doesn't necessarily need to be created; it needs to be protected, whether through law, social sanction, or norms.
+Because of such diverse motivations among growers, the Open Source Seed Initiative decided to promote a vernacular seed law in the form of a pledge: "You have the freedom to use these OSSI seeds in any way you choose. In return, you pledge not to restrict others' use of these seeds or their derivatives by patents or other means, and to include this pledge with any transfer of these seeds or their derivatives." e pledge does not have the force of state law and enforcement behind it, but instead looks to the ethical and social norms of plant breeders to model behavior and shame transgressors. Drawing upon the ideas of the GPL for free software, the pledge means that users will treat seeds as openly available to all, and will not assert any private control over them. In other words, it is a pledge not to restrict access or use. Nourishing this ethos is at least as important as complex legal agreements that may or may not be understood by farmers and that may not be practically enforceable in any case. Can a peasant farmer realistically hope to prevail in litigation against Bayer-Monsanto? As of mid-2018, said Kloppenburg, "We have 400-plus varieties, fty-one species, thirty-eight breeders, more than sixty companies [who have signed the Pledge]. We are there, we are real, we are doing it. And I didn't think these breeders — public breeders — existed in the USA. Guess what: they do. ey are real. ey are there, they are surviving. We didn't create them. We are building on a pre-existing network. is is why OSSI works … because we created connections to what already existed."42 Kloppenburg's comment points to the reality that relationalized property often exists already and doesn't necessarily need to be created; it needs to be protected, whether through law, social sanction, or norms.
 
 Despite the philosophical and tactical differences between the two open source seed projects, both share a concern with treating seeds as a commons — i.e., as something that does not belong exclusively to any individual owner, but whose value arises precisely because it can circulate freely and be shared. The open source seed movement seeks to affirm seeds as something that has deep, symbiotic relationships with other aspects of the ecosystem and human life as well as to past and future generations. The movement wants to restore the dynamic agency of seeds in living ecosystems, rescuing them from their status as sterile, controlled units of intellectual property. This insight is important not just as a moral claim made by commoners (who are responsible for breeding improvements) and by public institutions (which often finance agricultural research). It is a necessity for our planetary ecosystem and agriculture, especially as climate change intensifies.
 
@@ -2297,7 +2358,7 @@ We need to go beyond the "reform or revolution" narrative! Perhaps towards somet
 
 is brings us to our contemporary impasse. Can we imagine a transformation of the world that avoids the pitfalls of both reform and revolution? Can we envision a world that is not utopian — in the sense of being "nowhere" (the literal meaning of utopia) — but built on successful experiences, inhabited and run by real people? That is what we attempted to do in Chapters Four through Six — to sketch the *actual dynamics* of social life, governance, and provisioning in the new order. There must be practical pathways for the vision to be achieved, and for no one to be left behind. As Murray Bookchin wrote, "Perhaps the greatest single failing of movements for social reconstruction — I refer particularly to the Left, to radical ecology groups, and to organizations that profess to speak for the oppressed — is their lack of a politics that will carry people beyond the limits established by the status quo."
 
-So our questions are: Can commoning as we've described it potentially enact a more humane social order at scale, notwithstanding state power? Can commoning generate new ways of governing and provisioning that advance freedom, fairness, and eco-responsibility for everyone? Can this occur in ways that make us feel alive, rather than like puppets at the command of a totalistic megamachine?<sup>36</sup> Can commoning help us regain sovereignty that the systemic power of the megamachine has eclipsed? We immodestly think the answer is yes. Yes, it is indeed possible! That is the power of commoning. We are convinced that it starts with learning how to *be* the revolution rather than only *doing* it — often known as "prefigurative politics." That means trying things out. Living with them for a while. Reflecting on them. Making corrections and adjustments. Our focus need not be on state policies as such, even if they cannot be completely avoided. The focus must be on building a new social order.
+So our questions are: Can commoning as we've described it potentially enact a more humane social order at scale, notwithstanding state power? Can commoning generate new ways of governing and provisioning that advance freedom, fairness, and eco-responsibility for everyone? Can this occur in ways that make us feel alive, rather than like puppets at the command of a totalistic megamachine?36 Can commoning help us regain sovereignty that the systemic power of the megamachine has eclipsed? We immodestly think the answer is yes. Yes, it is indeed possible! That is the power of commoning. We are convinced that it starts with learning how to *be* the revolution rather than only *doing* it — often known as "prefigurative politics." That means trying things out. Living with them for a while. Reflecting on them. Making corrections and adjustments. Our focus need not be on state policies as such, even if they cannot be completely avoided. The focus must be on building a new social order.
 
 There is a simple reason for this approach: a truly free and fair society cannot be generated out of a political or state-driven process which is based and dependent on "the way things work." This won't change the cultural foundations of society or its inner mindscape. Real transformation must draw upon the foundations we sketched out in the first chapters of this book. It must develop its own vision and be actualized through its own structures. It must enact a social process that can constitute an alternative order over time at all levels — individual, collective, societal — for independently fulfilling people's aspirations for transformation. To recall J. K. Gibson-Graham's advice again: "If to change ourselves is to change our worlds, and the relation is reciprocal, then the project of history making is never a distant one but always right here, on the borders of our sensing, thinking, feeling, moving bodies."37 Dealing with state power poses a formidable challenge. But perhaps the most powerful, durable way to meet this challenge is to reorient ourselves and build protectable commons. is approach oers a path for moving ahead despite state power because it transforms us as well as external political and institutional structures. e two must proceed together, with the details emerging and not truly predictable.
 
@@ -2643,7 +2704,7 @@ W on commons for years outside the connes of academia, so in this section, we wi
 
 You will recall that our purpose is not to dene commons. at would not do justice to the topic or our concept of research. Because commons are living systems, they are not xed entities that can simply be nailed down. Our purpose therefore has been to describe more precisely the dynamics of commons as a specic kind of behavior, and a way to satisfy needs and shape one's surroundings and society. We did so by tracking down the recurring basic features that characterize behaviors in dierent commons. In other words, we posed the question whether logics of action exist that are typical of commoning.
 
-e starting point is the idea that the order of the world is reected in patterns, a philosophical and empirical concept developed by mathematician, architect, and philosopher Christopher Alexander in his famous pattern theory and methodology. ese ideas are described in detail in his four-volume work e Nature of Order.2 We applied the patterns approach to commons in our 2015 anthology Patterns of Commoning.<sup>3</sup>
+e starting point is the idea that the order of the world is reected in patterns, a philosophical and empirical concept developed by mathematician, architect, and philosopher Christopher Alexander in his famous pattern theory and methodology. ese ideas are described in detail in his four-volume work e Nature of Order.2 We applied the patterns approach to commons in our 2015 anthology Patterns of Commoning.3
 
 Patterns are identied, not invented. Identifying them is meant to make something latent visible. is is an important insight from patterns research. Pattern-mining requires patient observation, practice, and a combination of various steps. Methodologically, when attempting to make living processes comprehensible, one must not separate rationality from emotion or cognitive insights based on concrete experiences.4 Patterning avoids these problems by assessing phenomena holistically. It recognizes that pure abstraction does not do justice to the rich complexity of life. Patterning is valuable, too, because it is capable of taking full measure of a layperson's tacit knowledge, which is often patronized or ignored by "experts."5 In developing the patterns of commoning, therefore, we could T S K.
 
@@ -2698,11 +2759,11 @@ Since the purpose was to ask about behavior, not attitudes, it was important to 
 - Who bears the production risk?
 - Is there a separation between producers and users? How are the roles dened and fullled?
 - How is that which is available allocated?
- - <sup>m</sup> Referring to things that increase as more people use them (e.g., knowledge, software)?
- - <sup>m</sup> Referring to things that are used up as more people use them (e.g., land, food, money)?
+ - m Referring to things that increase as more people use them (e.g., knowledge, software)?
+ - m Referring to things that are used up as more people use them (e.g., land, food, money)?
 - How is that which is available allocated?
- - <sup>m</sup> In a social context that is usually interpersonal and in which it is easy to get an overview of the situation?
- - <sup>m</sup> In an anonymous, transpersonal context in which it is dicult to get an overview of the situation?
+ - m In a social context that is usually interpersonal and in which it is easy to get an overview of the situation?
+ - m In an anonymous, transpersonal context in which it is dicult to get an overview of the situation?
 - Who determines the price, and on which basis, in market-like transactions?
 - How do you conceive of your work? How do you allocate tasks, and how do you value and appreciate all activities?
 - Who benets from your tools and instruments? What purposes do they serve?
@@ -2762,39 +2823,51 @@ When people identify patterns through this process, they usually assess the accu
 
 In the case of patterns with only one asterisk, we assume, with Alexander, "that we have made some progress towards identifying such an invariant: but that with careful work it will certainly be possible to improve on the solution." (ibid., xiv). Patterns with two asterisks signify that further examination is recommended in order to improve the pattern. e second column indicates most important procedures for deriving the patterns as well as the abstract concepts from which the patterns were deduced (in those cases where deduction was the primary methodology).
 
-| Social interaction | Procedure for deriving patterns<br>(in the order of their predominance) |
+| Social interaction | Procedure for deriving patterns
+(in the order of their predominance) |
 |-------------------------------------------------|-------------------------------------------------------------------------------------------------------|
-| Cultivate Shared Purpose &<br>Values | Inductive and deductive |
+| Cultivate Shared Purpose &
+Values | Inductive and deductive |
 | Contribute Freely | Inductive |
 | Practice Gentle Reciprocity | Inductive and deductive (from the concept of reciprocity) |
 | Ritualize Togetherness | Inductive |
 | Trust Situated Knowledge | Deductive (from the concept of situated knowledge) and inductive |
-| Deepen Communion with<br>Nature** | Deductive (from the basic understanding of the relationships between humans and nature) and inductive |
+| Deepen Communion with
+Nature** | Deductive (from the basic understanding of the relationships between humans and nature) and inductive |
 | Preserve Relationships in Addressing Conflicts* | Inductive |
-| Reflect on Your Peer<br>Governance* | Inductive |
+| Reflect on Your Peer
+Governance* | Inductive |
 
 | Peer Governance | |
 |-------------------------------------------|-----------------------------------------------------------------------------------|
-| Keep Commons & Commerce<br>Distinct | Inductive |
-| Bring Diversity into Shared<br>Purpose | Inductive and deductive (from the participant's assumptions about "human nature") |
-| Create Semi-Permeable<br>Membranes* | Deductive (from Elinor Ostrom's first<br>design principle) and inductive |
-| Assure Consent in Decision<br>Making* | Inductive and deductive (from Ostrom's third design principle) |
+| Keep Commons & Commerce
+Distinct | Inductive |
+| Bring Diversity into Shared
+Purpose | Inductive and deductive (from the participant's assumptions about "human nature") |
+| Create Semi-Permeable
+Membranes* | Deductive (from Elinor Ostrom's first
+design principle) and inductive |
+| Assure Consent in Decision
+Making* | Inductive and deductive (from Ostrom's third design principle) |
 | Share Knowledge Generously | Inductive |
 | Rely on Heterarchy* | Deductive (from governance theory, critique of hierarchy) and inductive |
 | Relationalize Property | Inductive |
 | Honor Transparency in a Sphere of Trust | Inductive |
 | Finance Commons Provisioning* | Deductive and inductive |
-| Peer Monitor & Use<br>Graduated Sanctions | Inductive and deductive (from Ostrom's fourth and fifth design principles) |
+| Peer Monitor & Use
+Graduated Sanctions | Inductive and deductive (from Ostrom's fourth and fifth design principles) |
 
 | Creating Commons | |
 |------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| Share the Risks of<br>Provisioning | Inductive |
+| Share the Risks of
+Provisioning | Inductive |
 | Make & Use Together | Inductive |
 | Pool & Share | Inductive |
 | Pool, Cap & Divide Up | Inductive |
 | Pool, Cap & Mutualize | Inductive |
 | Trade With Price Sovereignty* | Inductive |
-| Honor Care & Decommodify<br>Work* | Deductive (from the concept of care, critique of wage labor) and inductive |
+| Honor Care & Decommodify
+Work* | Deductive (from the concept of care, critique of wage labor) and inductive |
 | Use Convivial Tools* | Deductive (from the concept of conviviality 12 and convivial tools following Ivan Illich and Andrea Vetter,) 13 and inductive |
 | Rely on Distributed Structures | Inductive |
 | Produce Cosmo-locally*14 | Inductive and deductive (from the concept of cosmo-local production) |
@@ -3659,12 +3732,69 @@ Appropriation, provision, monitoring, enforcement, conict resolution and governa
 
 # Index
 
-| A<br>Abbreviated Standard Code<br>for Information Interchange<br>(ASCII), 82<br>Abrams, David, 112<br>access and benet sharing,<br>principle of, 284<br>acequias, 105, 180, 194, 223, 373<br>adapting and renewing, 193–195<br>advertising, 38<br>aective labor, 169<br>Auence Without Abundance<br>(Suzman), 65<br>aordances, 33, 38, 49, 56, 72,<br>242, 260, 276, 325, 332<br>AGRECOL e. V., 264<br>Aigrain, Philippe, 156<br>Airbnb, 79<br>Alexander, Christopher, 27, 79,<br>95, 96, 122, 351, 359–360<br>Alexander, Gregory, 217<br>Allmeindkorporationen,<br>223<br>allocation<br>capping, 180–181<br>co-using, 89<br>Divide Up, 78, 178<br>Make & Use Together,<br>167–169 | rivalrous or nonrivalrous<br>resources, 177<br>sharing, 88–89<br>trading, 179<br>types of, 189<br>varieties of, 176–181<br>Almelo, 20<br>Amazon region, 194<br>Amsterdam, 307<br>Anderson, M. Kat, 110, 112<br>Apache people, 57<br>architecture, 21–22<br>archy, 81<br>Arduino, 197<br>area brokers, 307<br>Arendt, Hannah, 288, 299<br>Arizona, 57<br>Arnold, urman, 31<br>Artabana, 160–161, 183, 339,<br>373<br>ASAQ, 343<br>ASCII, 82<br>Association for Agri Culture and<br>Ecology (AGRECOL e. V.), 264<br>Association for Promotion of<br>Matsutake Production of Kyoto,<br>272<br>Atelier Paysan, 176, 373 |
+| A
+Abbreviated Standard Code
+for Information Interchange
+(ASCII), 82
+Abrams, David, 112
+access and benet sharing,
+principle of, 284
+acequias, 105, 180, 194, 223, 373
+adapting and renewing, 193–195
+advertising, 38
+aective labor, 169
+Auence Without Abundance
+(Suzman), 65
+aordances, 33, 38, 49, 56, 72,
+242, 260, 276, 325, 332
+AGRECOL e. V., 264
+Aigrain, Philippe, 156
+Airbnb, 79
+Alexander, Christopher, 27, 79,
+95, 96, 122, 351, 359–360
+Alexander, Gregory, 217
+Allmeindkorporationen,
+223
+allocation
+capping, 180–181
+co-using, 89
+Divide Up, 78, 178
+Make & Use Together,
+167–169 | rivalrous or nonrivalrous
+resources, 177
+sharing, 88–89
+trading, 179
+types of, 189
+varieties of, 176–181
+Almelo, 20
+Amazon region, 194
+Amsterdam, 307
+Anderson, M. Kat, 110, 112
+Apache people, 57
+architecture, 21–22
+archy, 81
+Arduino, 197
+area brokers, 307
+Arendt, Hannah, 288, 299
+Arizona, 57
+Arnold, urman, 31
+Artabana, 160–161, 183, 339,
+373
+ASAQ, 343
+ASCII, 82
+Association for Agri Culture and
+Ecology (AGRECOL e. V.), 264
+Association for Promotion of
+Matsutake Production of Kyoto,
+272
+Atelier Paysan, 176, 373 |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | | |
 | mutualization, 178–179 | Australia, 58 |
 | non reciprocal interactions, | Austria, 311 |
-| 177–178<br>reciprocal interactions, 177–178 | autocatalysis, 47<br>axioms, 96 |
+| 177–178
+reciprocal interactions, 177–178 | autocatalysis, 47
+axioms, 96 |
 ## | | |
 
 # B Bali, 137 Bangla Pesa, 161, 373 Barad, Karen, 49, 82 Barber, Benjamin, 294 Barcelona en Comú, 322 Bartlett, Edward Otis, 208 Bartlett, Richard, 139 Basso, Keith, 57 Bauwens, Michel, 197, 292 beating the bounds, 73, 202 behavioral patterns, 44 Belafonte, Harry, 184 Belgium, 341 Beneski Museum of Natural History, 29–30 Berry, omas, 166, 246 Berry, Wendell, 104 bidding systems, 174, 268–270 Biesecker, Adelheid, 173 Bieterrunde, 174 Big Agriculture, 23 Binaries, Misleading, 66–72 biopiracy, 195 biopoetic relationships, 112 biowealth, 79, 111, 172, 264, 266, 268, 275, 277 Bisses du Valais, 373 Bitcoin, 129, 323, 324 Bits & Bäume (Bits & Trees) conference, 158 Blackstone, William, 214–215, 251 black-tailed godwit, 308 Blais, Joline, 131 blanket consent, 137 blockchain, 323–324, 327 blood-brain barrier, 131 Bolivia, 287, 296
@@ -3675,7 +3805,25 @@ Bologna Regulation for the Care and Regeneration of Urban Commons, 2, 339 Bookch
 
 Campesino a Campesino, 195 Cap & Mutualize, 183 cap-and-share, 73 Cap approach, 65, 180–183 Pool, Cap & Divide Up, 181–182, 269 Pool, Cap & Mutualize, 183 capital, as terminology, 56 capitalism assumptions of, 35–36 as creative destruction, 59 folklore of, 31 pathologies of, 36 as prevailing pattern, 3, 4 capitalist market economy, allocation types in, 189
 
-| capping, 73, 180–181, 181–183<br>care, 2, 20–22, 62, 68, 73, 76,<br>113, 155, 165, 169–173, 245,<br>339, 361<br>care work/jobs, 73, 155, 170,<br>171, 288, 330<br>the economy and, 183, 339<br>healthcare and, 183, 339<br>importance of, 171<br>as terminology, 73 | CNC (computer numerical<br>control fabrication), 21<br>coal, 271–272, 321–322<br>Coase, Ronald, 64<br>Co Budget, 129, 373<br>Co-City movement, 2<br>Co-City Protocols, 339<br>coercive collectivism, 242<br>co-housing, 160<br>collaboration |
+| capping, 73, 180–181, 181–183
+care, 2, 20–22, 62, 68, 73, 76,
+113, 155, 165, 169–173, 245,
+339, 361
+care work/jobs, 73, 155, 170,
+171, 288, 330
+the economy and, 183, 339
+healthcare and, 183, 339
+importance of, 171
+as terminology, 73 | CNC (computer numerical
+control fabrication), 21
+coal, 271–272, 321–322
+Coase, Ronald, 64
+Co Budget, 129, 373
+Co-City movement, 2
+Co-City Protocols, 339
+coercive collectivism, 242
+co-housing, 160
+collaboration |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Care Revolution, 172 | in digital spaces, 202 |
 | care-wealth, 110, 166, 223 | Federated Wiki and, 246–252 |
@@ -3684,7 +3832,9 @@ Campesino a Campesino, 195 Cap & Mutualize, 183 cap-and-share, 73 Cap approach, 
 | provisioning and, 166, 170 | collaborative nance, 74, 155– |
 | relationalized property and, 148 | 156, 158 |
 | relationships and, 245 | crowdfunding, 77, 159, 374 |
-| vs.<br>resources,<br>79 | nancing of commons |
+| vs.
+resources,
+79 | nancing of commons |
 | Carlisle, Isabel, 321 | provisioning and, 159–161 |
 | Carson, Rachel, 44 | public/commons circuits of |
 | cash. see money | nance, 74, 87 |
@@ -3693,8 +3843,12 @@ Campesino a Campesino, 195 Cap & Mutualize, 183 cap-and-share, 73 Cap approach, 
 | Catalyze & Propagate, 305–307 | collective property |
 | catchment areas, 131 | approaches to, 219–221 |
 | categories, 52 | as legal form, 219 |
-| Catholic social doctrine, 150 | under<br>market/state<br>system, |
-| Cecosesola, 114, 133, 134,<br>142–143, 144, 185–187, 373 | 218<br>vs. private property, 218 |
+| Catholic social doctrine, 150 | under
+market/state
+system, |
+| Cecosesola, 114, 133, 134,
+142–143, 144, 185–187, 373 | 218
+vs. private property, 218 |
 | Cedifa, 168 | structural biases and, 211 |
 | Center for Digital Fabrication, | collective resource management, |
 | 168 | 97 |
@@ -3713,7 +3867,8 @@ common goods, 17 Common Heritage of Mankind, 231, 284 commoning, 13–28 Catalyz
 
 "e Common Law" (Holmes), 224 common-pool resources (CPRs), 17–18 common property, 18 Common Property Economics (Stevenson), 220 commons. see also Commonsverse complexity science and, 46–48 dened, 4, 28, 74–75, 366 described, 16 design principles of, 85, 97, 113, 121–122, 130, 225, 319, 340, 354, 379–380 distributed ledgers and, 323–333 diversity and patterns among, 94–95 enclosures as threat, 152 examples of, 19–25 expansion strategies, 318 faux commons, 79–80 functionaries for, 307 glossary of, 373–378 graphic illustration of, 366 holistic understanding of, 25–29 as life-form, 47 vs. market/state approach, 4–5 principles and patterns, 95–97 recurrent patterns, 26–27 relationalized property and, 273–279 relational ontology of, 41–46 subsidiarity and, 313–314 vision of, 3–4 what it is and is not, 17–18 Commons Engine, 330, 332 Commons-Oriented Open Cooperative Governance and Economic Model, 155 commons-public partnership (CPP), 75–76 challenges for, 339, 341 conditions for, 337 dened, 338, 373 reghting example, 334–337 focus of, 338 at global level, 341–342 vs. public-private partnerships, 338–339 structural rethinking, 343–344 Commonsverse, 85, 201, 346. see also commons criteria for building, 204–205 dened, 76 expanding commoning and. see scale, of commoning goals of, 4 introduction to, 201–206 micro-, meso-, and macro-levels in, 201, 210 rethinking property. see rethinking property state power and. see state power transforming state power and, 201, 204–205 commonswash, 80 Commonwealth (Negri and Hardt), 18 communion, 76, 111–113, 367 Community Bill of Rights, 321 Community Chartering Network, 321 community charters, 319 community currencies, 373. see also currencies Community Environmental Legal Defense Fund, 261–262 Community Land Trust, 374
 
-| community supported agriculture | provisioning<br>through commons |
+| community supported agriculture | provisioning
+through commons |
 |-----------------------------------|----------------------------------|
 | (CSA) | and, 189–191 |
 | bidding round, 174 | relationalized property and, 244 |
@@ -3731,7 +3886,9 @@ common goods, 17 Common Heritage of Mankind, 231, 284 commoning, 13–28 Catalyz
 | 134 | 276–277 |
 | computer numerical control | platform cooperatives, 260–261 |
 | fabrication (CNC), 21 | Pool, Cap & Divide Up, |
-| conrmation<br>bias,<br>55–56 | 182–183 |
+| conrmation
+bias,
+55–56 | 182–183 |
 | conicts, 66, 85, 113–114, 215, | Pool, Cap & Mutualize, 183 |
 | 231, 245, 276–277, 278, 308, | property and, 242 |
 | 340, 354, 380 | cooperation/competition binary, |
@@ -3740,14 +3897,18 @@ common goods, 17 Common Heritage of Mankind, 231, 284 commoning, 13–28 Catalyz
 | addressing, 113–114 | Copernicus, 55 |
 | conscious design, 129 | copyright law, 65, 69–71, 80, |
 | conscious self-organization, 64 | 166, 168, 197, 209, 210, 213, |
-| consensus decision making, 137, | 251,<br>258–259,<br>259,<br>375 |
+| consensus decision making, 137, | 251,
+258–259,
+259,
+375 |
 | 139, 140 | corporate property, 275 |
 | consent | corporation, as terminology, 64 |
 | in decision making, 136–143 | Corpus Iuris Civilis (Justinian |
 | explained, 139–140 | Code), 228 |
 | constitutional framework, 33 | Cosmo-local Production |
 | consumer/producer binary, 67 | dened, 77, 374 |
-| Contribute & Share,<br>175–176 | emergent behaviors and, 78 |
+| Contribute & Share,
+175–176 | emergent behaviors and, 78 |
 | Contribute Freely, 62, 106–107 | interoperability and, 82 |
 | convivial tools, 193 | as money-lite commoning, 159 |
 | cosmopolitan localism and, 197 | rise of, 195 |
@@ -3758,7 +3919,8 @@ common goods, 17 Common Heritage of Mankind, 231, 284 commoning, 13–28 Catalyz
 |--------------------------------------|------------------------------------|
 | co-using, 89 | and Sustainable World, 374 |
 | Cox, Michael, 147 | Dawes, Henry, 221 |
-| CPP. see commons-public | Dawes Severalty Act,<br>221 |
+| CPP. see commons-public | Dawes Severalty Act,
+221 |
 | partnership (CPP) | Deacon, Terrence, 48 |
 | CPR. see common-pool resources | de Blok, Jos, 20 |
 | (CPRs) | decentralized structures, 86, 192, |
@@ -3772,7 +3934,10 @@ common goods, 17 Common Heritage of Mankind, 231, 284 commoning, 13–28 Catalyz
 | crowdfunding, 77, 159, 374 | consensus and, 137, 139, 140, |
 | CSA. see Community Supported | 295 |
 | Agriculture (CSA) | consent in, 136–143, 244 |
-| culture,<br>structure<br>and,<br>121 | digital platforms, 138 |
+| culture,
+structure
+and,
+121 | digital platforms, 138 |
 | cum, 74 | digital platforms and, 138–139 |
 | Cunningham, Ward, 247, 248, | limits of representative |
 | 251 | democracy, 138, 238 |
@@ -3782,7 +3947,8 @@ common goods, 17 Common Heritage of Mankind, 231, 284 commoning, 13–28 Catalyz
 | h Apps and, 330 | Sociocracy as tool for, 140–141 |
 | Holochain and, 328 | Systemic Consensing and, |
 | Holo Fuel, 329 | 141–142 |
-| Lida Pesa, 161, 376 | tradition and,<br>137 |
+| Lida Pesa, 161, 376 | tradition and,
+137 |
 | Metacurrency Project, 328 | unanimity and, 137 |
 | curtilage, 149–150 | decommodifying, 73, 74, 83, |
 | custom, 75, 137, 210, 211, | 153, 159, 160, 169, 170–171, |
@@ -3791,7 +3957,10 @@ common goods, 17 Common Heritage of Mankind, 231, 284 commoning, 13–28 Catalyz
 | "e Cycle," 323 | housing, 252–257 |
 | | land, 160, 188, 255–256, 319, |
 | D | 374 |
-| Dardot,<br>Pierre,<br>74,<br>227 | property, 160 |
+| Dardot,
+Pierre,
+74,
+227 | property, 160 |
 | Darwin, Charles, 30, 31, 32, 39, | work, 169–173, 238–246, 339, |
 ## | 54 | 361 |
 
@@ -3810,10 +3979,15 @@ common goods, 17 Common Heritage of Mankind, 231, 284 commoning, 13–28 Catalyz
 | faux commons and, 79 | economic growth, as terminology, |
 | language and, 57, 68–72 | 61 |
 | P2P networks and, 86 | economic rationality, 79, 89, |
-| platform<br>cooperatives, 260–261 | 152–153, 157, 170, 276 |
+| platform
+cooperatives, 260–261 | 152–153, 157, 170, 276 |
 | discrimination, 288–289 | economics, 3, 4, 8, 17, 26, 29, |
-| distributed ledgers, 323–333 | 31, 43, 123, 164,<br>182 |
-| distributed<br>structures,<br>63,<br>135, | complexity science and, 46–48 |
+| distributed ledgers, 323–333 | 31, 43, 123, 164,
+182 |
+| distributed
+structures,
+63,
+135, | complexity science and, 46–48 |
 | 191–193, 205, 252, 278. | language of, 54, 56, 67 |
 | see also federated structures; Peer | Nested-I and, 116 |
 | Governance | perpetual growth and, 283, |
@@ -3837,17 +4011,73 @@ common goods, 17 Common Heritage of Mankind, 231, 284 commoning, 13–28 Catalyz
 | do-it-together (DIT), 78, 168 | 374 |
 ## | | |
 
-| equality, 2, 4, 8, 145, 264, 278,<br>280, 288–289, 293, 383 n9<br>Escobar, Arturo, 37, 46, 66<br>Esteva, Gustavo, 126<br>Ethereum, 325<br>Euler, Johannes, 115<br>Europeana Initiative, 176<br>European Patent Convention,<br>302<br>European Patent Oce, 302<br>European Union, 123<br>exonym, 79<br>extrapatrimonial things, 230,<br>233–234<br>F<br>Fab Labs, 162, 168, 307, 374<br>Facebook, 323, 329<br>as faux commons, 79<br>identity systems and, 251, 326<br>fairness, 3, 4, 108, 166, 273, 293,<br>298, 328<br>fairy darts, 57 | collaborative nance, 159–161<br>general observations, 156–158<br>money-lite commoning,<br>158–159<br>new types of nance, 311–313<br>public/commons circuits of<br>nance, 161–162<br>Finlay, Alec, 57<br>reghting, 334–335, 336<br>Fischer, Frank, 109<br>sheries, 35, 40, 111, 125, 129,<br>155, 162, 224<br>Fleck, Ludwik, 55, 59<br>Fleming, David, 65, 159<br>Florence, Italy, 207–209<br>Florence Charterhouse, 149<br>FLOSS, 65, 80<br>e Folklore of Capitalism<br>(Arnold), 31<br>forest commons, 73, 89, 111,<br>112, 149, 155, 162, 169, 244,<br>308–309<br>in the Amazon, 194 |
+| equality, 2, 4, 8, 145, 264, 278,
+280, 288–289, 293, 383 n9
+Escobar, Arturo, 37, 46, 66
+Esteva, Gustavo, 126
+Ethereum, 325
+Euler, Johannes, 115
+Europeana Initiative, 176
+European Patent Convention,
+302
+European Patent Oce, 302
+European Union, 123
+exonym, 79
+extrapatrimonial things, 230,
+233–234
+F
+Fab Labs, 162, 168, 307, 374
+Facebook, 323, 329
+as faux commons, 79
+identity systems and, 251, 326
+fairness, 3, 4, 108, 166, 273, 293,
+298, 328
+fairy darts, 57 | collaborative nance, 159–161
+general observations, 156–158
+money-lite commoning,
+158–159
+new types of nance, 311–313
+public/commons circuits of
+nance, 161–162
+Finlay, Alec, 57
+reghting, 334–335, 336
+Fischer, Frank, 109
+sheries, 35, 40, 111, 125, 129,
+155, 162, 224
+Fleck, Ludwik, 55, 59
+Fleming, David, 65, 159
+Florence, Italy, 207–209
+Florence Charterhouse, 149
+FLOSS, 65, 80
+e Folklore of Capitalism
+(Arnold), 31
+forest commons, 73, 89, 111,
+112, 149, 155, 162, 169, 244,
+308–309
+in the Amazon, 194 |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Falkirk Charter, 322<br>faux commons, 79–80 | in Guatemala, 112<br>in India, 136 |
-| federated structures, 76, 80, 119,<br>161, 193, 196, 202, 246–252,<br>255, 295–296, 314, 344. | in Japan, 266–273, 375<br>in Nepal, 112<br>in Oregon, US, 309 |
+| Falkirk Charter, 322
+faux commons, 79–80 | in Guatemala, 112
+in India, 136 |
+| federated structures, 76, 80, 119,
+161, 193, 196, 202, 246–252,
+255, 295–296, 314, 344. | in Japan, 266–273, 375
+in Nepal, 112
+in Oregon, US, 309 |
 | see also distributed structures | in Romania, 223, 376 |
-| Federated Wiki, 116, 246–252,<br>257, 260, 277, 325, 349, 375 | Forest Rights Act (India), 341<br>forking the code, 114, 157, |
-| federation of<br>commons, 80, 202– | 278–279 |
+| Federated Wiki, 116, 246–252,
+257, 260, 277, 325, 349, 375 | Forest Rights Act (India), 341
+forking the code, 114, 157, |
+| federation of
+commons, 80, 202– | 278–279 |
 | 203. see also federated structures | frames/frameworks. |
 | "feminist empiricism, 111 | see also worldviews |
 | Fernández-Savater, Amador, 295 | deconstructing, 59–60 |
-| ctitious commodities, 227<br>nancing<br>of<br>commons | language and, 31, 54–56,<br>58–60 |
+| ctitious commodities, 227
+nancing
+of
+commons | language and, 31, 54–56,
+58–60 |
 | provisioning | role of, 93 |
 | approaches to, 155–156 | France, 123, 154, 160 |
 ## | | |
@@ -3858,20 +4088,32 @@ Goderich, Lord, 222 Goethe, Johann Wolfgang, 42 González, Alicia Girón, 173 Go
 
 Holmes, Oliver Wendell, Jr., 224 incentives, as terminology, 62 *Incomplete Nature* (Deacon), 48 Holo, 329, 332 India, 136, 195, 261, 264, 341 Holochain, 325-331, 333 Indigenous Biocultural Heritage Holo Fuel, 329, 330, 332 Holtz, Joe, 241 Area (Peru), 261, 309 home care, 20–21, 171, 191, 306 Indigenous innovation, 194 Homo economicus, 84 Indigenous peoples housing, 21–22, 252–257 accommodation of, 315 human capital, as terminology, in Amazon region, 194 Bantu (South Africa), 43, 89 56, 61 The Human Condition (Arendt), California Native Americans, 110, 112 Humanitarian Open Street Map commoning and, 101 Team, 135 First Nations (Canada), 315 Human Microbiome Project, 116 innovation and, 194–195 Hyde, Lewis, 16, 89, 107, 180 Ju/'hoansi Bushmen, 65, 110 La Via Campesina, 264 I Maori, 40, 309, 315 I and Thou (Buber), 44 Native Americans, 110, 112, Ibarra, Fernanda, 332 221 ICO (Initial Coin Offering) Potato Park, 105, 377 private ownership and, process, 324 identity, 28, 38, 41–42, 44, 66, 221 - 22268, 73, 75, 80, 84, 90, 104, 177, Quechua people, 105, 261, 309 226, 304, 319–320, 367. see also situated knowing and, 110, 112 Nested-I; Ritualize Togetherness; state power and, 39–40 Ubuntu Rationality Indonesia, 105 collective, 14, 45, 48, 280 inequality, 3, 36, 62, 83, 145, digital, 248, 251, 279, 326, 201, 276, 295, 304, 317 327, 329 infrastructures, 50, 61, 64–65, local, 305 68, 84, 87, 104, 119, 138, 152, national, 287-288 153, 159, 167, 169, 180, 189, shift of, 5–6 193, 202, 203, 228, 229, 234, Ierodiaconou, Nicholas, 21 238, 239, 250, 259, 270, 272, Illich, Ivan, 22, 77, 189, 190, 283, 309–311 191, 224 commons-public partnerships and, 290, 305-306, 332-334 inalienability, 211–212, 221, 226– 228, 230–232, 233, 276, 283– community Wi-Fi, 24–25, 173 284. *see also* decommodifying convivial tools as, 77
 
-| Creative Commons licenses as<br>legal infrastructures, 250<br>discrimination-free, 84, 191<br>open source software as, 138,<br>309–311, 326, 328 | Israel, 288<br>Italy, 2, 149<br>ius divinum/ius humanum, 229,<br>233 |
+| Creative Commons licenses as
+legal infrastructures, 250
+discrimination-free, 84, 191
+open source software as, 138,
+309–311, 326, 328 | Israel, 288
+Italy, 2, 149
+ius divinum/ius humanum, 229,
+233 |
 |--------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
 | Initial Coin Oering (ICO), 324 | J |
 | Initial Community Oering, 332 | Jahai people, 57 |
 | innovation | Japan, 223, 266–273 |
 | as capitalist tool, 59, 62–63, | Japan Association for Organic |
 | 194, 303 | Agriculture, 23 |
-| commons-based, 112, 116, 194–<br>195, 196, 207, 252, 263, 265, | Jeju, 128<br>Jessop, Bob, 286 |
+| commons-based, 112, 116, 194–
+195, 196, 207, 252, 263, 265, | Jeju, 128
+Jessop, Bob, 286 |
 | 269, 275, 310–311, 312, 339 | Jordan, 19–20 |
 | as terminology, 62–63 | Jovells, Tessa, 290 |
 | intellectual property rights, | jugaad, 195 |
 | 262–263, 266. see also copyright | Ju/'hoansi Bushmen, 65, 110 |
 | law; patents | Justinian Code, 228–230 |
-| intercommoning,<br>50,<br>203,<br>257, | |
+| intercommoning,
+50,
+203,
+257, | |
 | 345 | K |
 | interconnectedness, 39, 41 | Karitzis, Andreas, 36 |
 | International Association for | Karlitschek, Frank, 157 |
@@ -3881,7 +4123,9 @@ Holmes, Oliver Wendell, Jr., 224 incentives, as terminology, 62 *Incomplete Natu
 | 97, 223 | Kelty, Christopher, 133–134 |
 | International Co-operative | Kenya, 161 |
 | Alliance, 151 | Keynes, John Maynard, 31 |
-| International Land Coalition, 182<br>interoperability, 77, 82 | Keywords from a Fading Era,<br>61–66 |
+| International Land Coalition, 182
+interoperability, 77, 82 | Keywords from a Fading Era,
+61–66 |
 | intra-actions, 49, 82 | King, Martin Luther, Jr., 44 |
 | Invisible Hand, 68 | King of the Meadows project, |
 | Ireland, 57 | 308, 375 |
@@ -3930,7 +4174,10 @@ Holmes, Oliver Wendell, Jr., 224 incentives, as terminology, 62 *Incomplete Natu
 | Keywords from a Fading Era, | relationalized property and, |
 | 61–66 | 237–281, 281 |
 | local terminologies, 57 | res nullius, 228–232 |
-| mainstream<br>vs.<br>commoning,<br>29 | social relationships and, 233 |
+| mainstream
+vs.
+commoning,
+29 | social relationships and, 233 |
 | metaphors, 58–60 | Vernacular Law, 90, 216, |
 | Misleading Binaries, 66–72 | 223–226, 281 |
 ## | | |
@@ -3953,13 +4200,15 @@ market/state system, 4, 6, 8, 29, 83, 283–316, 321, 332. see also state power 
 | collective and individual rights | provisioning and, 156, |
 | and, 277 | 158–159 |
 | dened, 376 | moon, 284 |
-| described,<br>252–257 | Morales, Evo, 296 |
+| described,
+252–257 | Morales, Evo, 296 |
 | growth and, 279 | Movimento Sem Terra (MST), |
 | liberty and autonomy and, 278 | 150, 243, 376 |
 | Peer Governance in, 160 | Mulgan, Geo, 290 |
 | minerals, 271–272 | Munibnb platform, 261 |
 | Minga, 376 | municipalism, 294–295, 322 |
-| Misleading<br>Binaries | munus, 74, 206 |
+| Misleading
+Binaries | munus, 74, 206 |
 | collective/individual, 66 | e Mushroom at the End of the |
 | consumer/producer, 67 | World (Tsing), 267 |
 | cooperation/competition, | mushrooms, 266–273 |
@@ -3982,7 +4231,8 @@ market/state system, 4, 6, 8, 29, 83, 283–316, 321, 332. see also state power 
 | Governing-through-Money, | Native Americans, 110, 112 |
 | 220, 237, 276, 314, 328 | natural capital, as terminology, 56 |
 
-| nature, communion with, 76,<br>111–113 | n!ow, 110 |
+| nature, communion with, 76,
+111–113 | n!ow, 110 |
 |----------------------------------------|---------------------------------|
 | e Nature of Order (Alexander), | O |
 | 27, 95, 351 | Oberallmeindkorporationen, 223, |
@@ -4020,7 +4270,8 @@ market/state system, 4, 6, 8, 29, 83, 283–316, 321, 332. see also state power 
 | nonprot, as terminology, 63 | onto-political inquiry, 33–34 |
 | nonrecriprocal interactions, | Ontopower (Massumi), 38 |
 | 177–178, 189 | Onto Seed, 50, 345 |
-| nonrivalrous resources, 177, 189 | Onto Shift,<br>29–50 |
+| nonrivalrous resources, 177, 189 | Onto Shift,
+29–50 |
 ## | | |
 
 | to the commons, 49–50 | order without law, 119 |
@@ -4028,7 +4279,8 @@ market/state system, 4, 6, 8, 29, 83, 283–316, 321, 332. see also state power 
 | dened, 29, 49, 84–85 | Oregon, 309 |
 | Fedwiki and, 249 | organization, as terminology, |
 | language and, 60 | 63–64 |
-| types of support needed, | On the Origin of<br>the Species |
+| types of support needed, | On the Origin of
+the Species |
 | 305–313 | (Darwin), 30 |
 | Onto Stories | Ostrom, Elinor |
 | classications of, 37–38 | on common-pool resources, 17 |
@@ -4041,7 +4293,9 @@ market/state system, 4, 6, 8, 29, 83, 283–316, 321, 332. see also state power 
 | Open Commons Linz, 311, 376 | Outer Space Treaty, 284 |
 | Open Desk, 176 | output, 197 |
 | open educational resources | Owen, Robert, 30, 31 |
-| (OER),<br>202,<br>376 | own Cloud, 157–158 |
+| (OER),
+202,
+376 | own Cloud, 157–158 |
 | Open Oce, 158 | ownership, 88, 150, 208, 211, |
 | Open Prosthetics Project, 176, | 215–217, 221–222, 228–229, |
 | 376 | 232, 235, 237–238, 241, 247, |
@@ -4064,7 +4318,11 @@ market/state system, 4, 6, 8, 29, 83, 283–316, 321, 332. see also state power 
 | Open Street Map, 77 | patents, 77, 159, 252, 263, 265, |
 | open workshops, 168 | 302 |
 
-| patrimonial things, 230, 233–234<br>A Pattern Language (Alexander),<br>27 | as generative process, 122<br>graduated sanctions and,<br>146–147 |
+| patrimonial things, 230, 233–234
+A Pattern Language (Alexander),
+27 | as generative process, 122
+graduated sanctions and,
+146–147 |
 |---------------------------------------------------------------------------|-------------------------------------------------------------------|
 | pattern languages, 7 | heterarchy in, 143–146 |
 | patterns | origins of, 127–129 |
@@ -4089,7 +4347,8 @@ market/state system, 4, 6, 8, 29, 83, 283–316, 321, 332. see also state power 
 | Peak Oil, 292 | peer monitoring, 146–147 |
 | peasant-farmers, 160 | Peer Production License, 155, |
 | Peer Governance, 62, 75, 85, | 197, 377 |
-| 119–162 | peers,<br>85 |
+| 119–162 | peers,
+85 |
 | benets of, 145 | peer-to-peer (P2P) networks, 86, |
 | cash nexus and, 148 | 325, 329 |
 | conscious design of, 129 | permaculture, 109, 319, 377 |
@@ -4121,7 +4380,9 @@ market/state system, 4, 6, 8, 29, 83, 283–316, 321, 332. see also state power 
 | 294–295 | inalienability; law, property |
 | social reconstruction and, | and; relationalized property; |
 | 297–298 | rethinking property |
-| source<br>of,<br>102 | collective, 211, 218–221 |
+| source
+of,
+102 | collective, 211, 218–221 |
 | Pool, Cap & Divide Up, 181–183 | corporate, 275 |
 | matsutake mushroom example, | as distinct from possession, |
 | 269 | 221–222 |
@@ -4130,16 +4391,20 @@ market/state system, 4, 6, 8, 29, 83, 283–316, 321, 332. see also state power 
 | origin of, 22 | the moon and, 284 |
 | Pool, Cap & Mutualize, 183 | as objectifying social relations, |
 | Pool & Share, 77, 175–176 | 232–234 |
-| pooling | personhood<br>and,<br>212–213 |
+| pooling | personhood
+and,
+212–213 |
 | allocation choices, 176–181 | private, 218, 275 |
 | dened, 86 | as relational, 214–217 |
 | sharing and, 175–176 | res nullius, and, 228–232 |
 | e Population Bomb (Ehrlich), | Roman categories of, 229, 277 |
-| 16 | property<br>law, 149, 209–211, |
+| 16 | property
+law, 149, 209–211, |
 | possession, 88, 148, 151, 211– | 213–217, 250–251, 274–275 |
 | 212, 216, 221–222, 232, 256, | prosumers, 164 |
 | 277 | provisioning, 163–197. |
-| Postma, Martine, 169 | nancing of commons<br>see also |
+| Postma, Martine, 169 | nancing of commons
+see also |
 | Potato Park, 105, 377 | provisioning |
 | power of commoning, 299–301 | adapting and renewing, |
 ## | Prätorius, Ina, 172 | 193–195 |
@@ -4148,7 +4413,8 @@ market/state system, 4, 6, 8, 29, 83, 283–316, 321, 332. see also state power 
 |-------------------------------------|
 | rational/irrational binary, 67–68 |
 | rationality |
-| economic, 79, 89,<br>152–153, |
+| economic, 79, 89,
+152–153, |
 | 157, 170, 276 |
 | Ubuntu, 43–44, 89, 117, 130, |
 | 149, 246, 249, 328 |
@@ -4204,7 +4470,9 @@ market/state system, 4, 6, 8, 29, 83, 283–316, 321, 332. see also state power 
 | dened, 44, 87–88 | rivalrous resources, 17, 71, 177, |
 | dierentiated and | 189 |
 | undierentiated, 45–46 | Roca, Ramon, 24 |
-| economics<br>and,<br>48–49 | Romania, 223 |
+| economics
+and,
+48–49 | Romania, 223 |
 | types of, 44–45 | Romero, Pablo Solón, 296 |
 | value and, 93 | Rose, Carol, 225 |
 | relational ways of having, | Rosenblith, Alan, 65 |
@@ -4218,7 +4486,8 @@ market/state system, 4, 6, 8, 29, 83, 283–316, 321, 332. see also state power 
 | 74, 79 | Salmond, Anne, 40 |
 | res privatae, 228, 229 | sanctions, graduated, 113, |
 | res publicae, 228, 229 | 146–147, 379 |
-| rethinking<br>property, 207–235 | Sano, 343 |
+| rethinking
+property, 207–235 | Sano, 343 |
 | collective property, 218–221 | Sarafu Credit system, 161, 377 |
 | custom as vernacular law, | scale |
 | 222–226 | of commoning, 317–319, |
@@ -4229,34 +4498,43 @@ market/state system, 4, 6, 8, 29, 83, 283–316, 321, 332. see also state power 
 
 | Scholz, Trebor, 261 | Shiva, Vandana, 264 |
 |-------------------------------------|--------------------------------------|
-| Schumacher Center for a<br>New | Silent Spring (Carson), 44 |
+| Schumacher Center for a
+New | Silent Spring (Carson), 44 |
 | Economics, 23 | Silicon Valley, 318 |
 | Schumpeter, Joseph, 59 | Singh, Neera, 169 |
-| scope<br>of commoning, 15 | situated knowing, 75, 89, |
+| scope
+of commoning, 15 | situated knowing, 75, 89, |
 | Scotland, 40 | 109–111 |
 | Scott, James C., 79, 123, 292 | Siuslaw National Forest, Oregon, |
 | Scoutbots, 196 | 309 |
 | sedere, 221 | Sky Trust, 73 |
 | seeds, 105, 187, 190, 195, 210, | slash-and-char agroforestry, 194 |
 | 216, 244, 262–266, 277, 377 | Slide Mountain (Steinberg), 233 |
-| Seeing Like a State (Scott), 123, | SLOC (small<br>and local, open and |
+| Seeing Like a State (Scott), 123, | SLOC (small
+and local, open and |
 | 292 | connected), 295 |
 | Seifart, Frank, 51 | Sobiecki, Grzegorz, 161 |
 | self-interest/altruism binary, 68 | social charters, 319 |
 | self-made man, 37, 43, 66 | social contract, 34 |
 | self-organization, 48 | Social Life of Commoning, |
-| semi-permeable<br>membranes,<br>88, | 101–114 |
+| semi-permeable
+membranes,
+88, | 101–114 |
 | 130–132 | Contribute Freely, 106–107 |
 | Share & Steward, as terminology, | as core of commons, 101–102 |
 | 72 | Cultivate Shared Purpose & |
 | Share Alike licenses, 22 | Values, 101–102 |
-| shared knowledge,<br>25–26, 56, | Deepen Communion with |
+| shared knowledge,
+25–26, 56, | Deepen Communion with |
 | 58, 61, 65, 72, 77, 88, 124, | Nature, 111–113 |
 | 133–136, 145, 165, 175–177, | Practice Gentle Reciprocity, |
 | 195, 216, 228, 248, 258, 260, | 108–109 |
-| 302–303 | Preserve<br>Relationships<br>in |
+| 302–303 | Preserve
+Relationships
+in |
 | shared purpose, 126–127 | Addressing Conicts, 113–114 |
-| shared purpose and values, | Reect on<br>Your Peer |
+| shared purpose and values, | Reect on
+Your Peer |
 | 103–104, 341 | Governance, 114–115 |
 | sharing | Ritualized Togetherness, |
 | contributing and, 175–176 | 104–106 |
@@ -4269,7 +4547,84 @@ market/state system, 4, 6, 8, 29, 83, 283–316, 321, 332. see also state power 
 | Shasta Valley, California, 119 | Sociocracy, 63, 140–141, 377 |
 ## | | |
 
-| South Korea, 128, 261<br>e Structure of Scientic<br>Sozialistische Selbsthilfe<br>Revolutions (Kuhn), 54<br>Mühlheim (SSM), 377<br>structures<br>Spain, 24–25, 159, 223<br>decentralized, 86, 192, 202,<br>spontaneous order, 47–48<br>301, 320, 330, 341<br>Stallman, Richard, 128, 258–259<br>distributed, 63, 135, 191–193,<br>the state, 286–291, 293, 294,<br>205, 252, 278<br>297. see also nation-state; state<br>federated, 76, 80, 119, 161,<br>power<br>193, 196, 202, 246–252, 255,<br>state power. see also market/state<br>295–296, 314, 344<br>system<br>subak (Bali), 105, 137, 223, 378<br>altering, 6<br>subsidiarity, 313–314<br>beyond<br>reform or revolution,<br>sustainability, as terminology, 61<br>296–299<br>Sutterlütti, Simon, 297<br>capitalist markets<br>and, 68<br>Suzman, James, 110<br>commoning and, 283–316<br>Switzerland, 128, 223<br>Commonsverse and, 299–301<br>symbiogenesis, 76<br>control and, 292–293<br>Symbiosis Research Collective,<br>fundamental rights, 314–315<br>295<br>as impediment to commoning,<br>Syriza,<br>296<br>203<br>Systemic Consensing, 141–142<br>municipalism and, 294–295<br>System of Rice Intensication<br>nature of, 283–284, 285<br>(SRI), 195<br>the people as distinct from,<br>286–291<br>T<br>relational approach to, 289–290<br>Tagore, Rabindranath, 44<br>the state, 286–291<br>Tarrés, Mercè M., 372<br>subsidiarity and, 313–314<br>Task Rabbit, 260<br>transforming to support<br>Taylor, Prue, 231<br>commoning, 301–313<br>TCP/ IP, 310<br>Stears, Marc, 294<br>Tech Model Railroad Club, 258<br>Steinberg, eodore, 233<br>teikei (Japan), 23, 378 | Sociocracy methodology, 137<br>So LaWi (Netzwerk Solidariche<br>Landwirtschaft), 202<br>solidarity savings (Terre de Liens),<br>160<br>solidarity transfers, 160<br>Somali shery commons, 8 | Stevenson, G. G., 220<br>stigmergy, 135<br>stints, 73, 89, 180<br>Stout, Margaret, 34, 46<br>Strathern, Marilyn, 42<br>structural independence, 153,<br>301 |
+| South Korea, 128, 261
+e Structure of Scientic
+Sozialistische Selbsthilfe
+Revolutions (Kuhn), 54
+Mühlheim (SSM), 377
+structures
+Spain, 24–25, 159, 223
+decentralized, 86, 192, 202,
+spontaneous order, 47–48
+301, 320, 330, 341
+Stallman, Richard, 128, 258–259
+distributed, 63, 135, 191–193,
+the state, 286–291, 293, 294,
+205, 252, 278
+297. see also nation-state; state
+federated, 76, 80, 119, 161,
+power
+193, 196, 202, 246–252, 255,
+state power. see also market/state
+295–296, 314, 344
+system
+subak (Bali), 105, 137, 223, 378
+altering, 6
+subsidiarity, 313–314
+beyond
+reform or revolution,
+sustainability, as terminology, 61
+296–299
+Sutterlütti, Simon, 297
+capitalist markets
+and, 68
+Suzman, James, 110
+commoning and, 283–316
+Switzerland, 128, 223
+Commonsverse and, 299–301
+symbiogenesis, 76
+control and, 292–293
+Symbiosis Research Collective,
+fundamental rights, 314–315
+295
+as impediment to commoning,
+Syriza,
+296
+203
+Systemic Consensing, 141–142
+municipalism and, 294–295
+System of Rice Intensication
+nature of, 283–284, 285
+(SRI), 195
+the people as distinct from,
+286–291
+T
+relational approach to, 289–290
+Tagore, Rabindranath, 44
+the state, 286–291
+Tarrés, Mercè M., 372
+subsidiarity and, 313–314
+Task Rabbit, 260
+transforming to support
+Taylor, Prue, 231
+commoning, 301–313
+TCP/ IP, 310
+Stears, Marc, 294
+Tech Model Railroad Club, 258
+Steinberg, eodore, 233
+teikei (Japan), 23, 378 | Sociocracy methodology, 137
+So LaWi (Netzwerk Solidariche
+Landwirtschaft), 202
+solidarity savings (Terre de Liens),
+160
+solidarity transfers, 160
+Somali shery commons, 8 | Stevenson, G. G., 220
+stigmergy, 135
+stints, 73, 89, 180
+Stout, Margaret, 34, 46
+Strathern, Marilyn, 42
+structural independence, 153,
+301 |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | | | |
 | | | |
@@ -4301,7 +4656,7 @@ market/state system, 4, 6, 8, 29, 83, 283–316, 321, 332. see also state power 
 | | | |
 ## | | | |
 
-| <i>Iending the Wild</i> (Anderson), 110 | Treaty of Maastricht, 124 |
+| Iending the Wild (Anderson), 110 | Treaty of Maastricht, 124 |
 |-----------------------------------------|----------------------------------|
 | terms, 52 | Triad of Commoning, |
 | terra preta do indio, 194 | 50, 93–197. see also Peer |

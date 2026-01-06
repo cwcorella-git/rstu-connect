@@ -1,3 +1,8 @@
+---
+title: "## **Coming out of isolation stronger: advice from a long-term prisoner**"
+category: "contemporary-analysis"
+---
+
 ## **Coming out of isolation stronger: advice from a long-term prisoner**
 
 ## **Date:** Unknown

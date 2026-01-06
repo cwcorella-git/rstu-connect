@@ -1,3 +1,8 @@
+---
+title: "## **Detainment is Death in the Pandemic!**"
+category: "technology-digital-justice"
+---
+
 ## **Detainment is Death in the Pandemic!**
 
 ## **Date:** Unknown
@@ -42,4 +47,5 @@ In time, we demand that prisons be abolished and instead of incarceration, a reg
 |------------------------------------------------------------------------------------------------------------------------------------|
 | Bigas, hindi bala! |
 | [hr] |
-| Image from the Twitter account of Bangued Police Station. The emoji over the detainee's face<br>was added by the account holder.10 |
+| Image from the Twitter account of Bangued Police Station. The emoji over the detainee's face
+was added by the account holder.10 |

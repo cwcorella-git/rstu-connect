@@ -1,3 +1,8 @@
+---
+title: "henning larsen designs business school of hybrid timber in reims, france"
+category: "youth-student-organizing"
+---
+
 #### [designboom.com](https://www.designboom.com/architecture/henning-larsen-neoma-business-school-reims-france-05-19-2022/)
 
 # henning larsen designs business school of hybrid timber in reims, france

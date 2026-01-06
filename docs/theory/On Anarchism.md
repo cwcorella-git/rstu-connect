@@ -1,16 +1,10 @@
 ---
-title: On Anarchism
-slug: On Anarchism
-reconversion_status: ready_for_reconversion
-author: Noam Chomsky
-date: '2013'
-tags:
-  - theory
-  - anarchism
-  - strikes
-  - unions
-  - tenants
+title: "On Anarchism"
+author: "Noam Chomsky"
+date: "2013"
+category: "theory"
 ---
+
 # **Noam Chomsky**
 
 # **On Anarchism**
@@ -670,7 +664,7 @@ The same as the factory girls in the Lowell textile plant 150 years ago: they jo
 
 Go back to '62, there was no feminist movement, there was a very limited human rights movement. There was no environmental movement, meaning rights of our grandchildren. There were no Third World solidarity movements. There was no antiapartheid movement. There was no anti-sweatshop movement. I mean, all of the things that we take for granted just weren't there. How did they get there? Was it a gift from an angel? No, they got there by struggle, common struggle by people who dedicated themselves with others, because you can't do it alone, and [their efforts] made it a much more civilized country. It was a long way to go, and that's not the first time it happened. And it will continue.
 
-You believe that when we focus on heroes in the movement, that's <sup>a</sup> mistake, because it's really the unsung heroes, the unsung seamstresses or whatever in this movement, who actually make a difference.
+You believe that when we focus on heroes in the movement, that's a mistake, because it's really the unsung heroes, the unsung seamstresses or whatever in this movement, who actually make a difference.
 
 Take, say, the civil rights movement. When you think of the civil rights movement, the first thing you think of is Martin Luther King Jr. King was an important figure. But he would have been the first to tell you, I'm sure, that he was riding the wave of activism, that people who were doing the work, who were in the lead in the civil rights movement, were young SNCC [Student Nonviolent Coordinating Committee] workers, freedom riders, people out there in the streets every day getting beaten and sometimes killed, working constantly. They created the circumstances in which a Martin Luther King could come in and be a leader. His role was extremely important, I'm not denigrating it, it was very important to have done that. But the people who were really important are the ones whose names are forgotten. And that's true of every movement that ever existed.
 
@@ -788,13 +782,13 @@ I do not want to exaggerate, as I no doubt have, the role of investigation of la
 
 I am no less puzzled by the topic "language and freedom" than when I began—and no less intrigued. In these speculative and sketchy remarks there are gaps so vast that one might question what would remain, when metaphor and unsubstantiated guess are removed. It is sobering to realize—as I believe we must—how little we have progressed in our knowledge of man and society, or even in formulating clearly the problems that might be seriously studied. But there are, I think, a few footholds that seem fairly firm. I like to believe that the intensive study of one aspect of human psychology—human language —may contribute to a humanistic social science that will serve, as well, as an instrument for social action. It must, needless to say, be stressed that social action cannot await a firmly established theory of man and society, nor can the validity of the latter be determined by our hopes and moral judgments. The two—speculation and action—must progress as best they can, looking forward to the day when theoretical inquiry will provide a firm guide to the unending, often grim, but never hopeless struggle for freedom and social justice.
 
-[<sup>\[1\]</sup>](#page-5-2) Octave Mirbeau, quoted in James Joll, The Anarchists (Boston: Little, Brown & Co., 1964), pp. 145–46.
+[\[1\]](#page-5-2) Octave Mirbeau, quoted in James Joll, The Anarchists (Boston: Little, Brown & Co., 1964), pp. 145–46.
 
-[<sup>\[2\]</sup>](#page-5-3) Rudolf Rocker, Anarchosyndicalism (London: Secker & Warburg, 1938), p. 31.
+[\[2\]](#page-5-3) Rudolf Rocker, Anarchosyndicalism (London: Secker & Warburg, 1938), p. 31.
 
-[<sup>\[3\]</sup>](#page-6-0) Cited in ibid., p. 77. This quotation and that in the next sentence are from Michael Bakunin, "The Program of the Alliance," in Bakunin on Anarchy, ed. and trans. Sam Dolgoff (New York: Alfred A. Knopf, 1972).
+[\[3\]](#page-6-0) Cited in ibid., p. 77. This quotation and that in the next sentence are from Michael Bakunin, "The Program of the Alliance," in Bakunin on Anarchy, ed. and trans. Sam Dolgoff (New York: Alfred A. Knopf, 1972).
 
-[<sup>\[4\]</sup>](#page-7-0) Diego Abad de Santillán, After the Revolution (New York: Greenberg, 1937), p. 86. In the last chapter, written several months after the revolution had begun, he expresses his dissatisfaction with what had so far been achieved along these lines. On the accomplishments of the social revolution in Spain, see my American Power and the New Mandarins (New York: Pantheon Books, 1969), chap. 1, and references cited there; the important study by Broué and Témime has since been translated into English. Several other important studies have appeared since, in particular: Frank Mintz, L'Autogestion dans l'Espagne révolutionnaire (Paris: Editions Bélibaste, 1971); César M. Lorenzo, Les Anarchistes espagnols et la pouvoir, 1868–1969 (Paris: Editions du Seuil, 1969); Gaston Leval, Espagné libertaire, 1936–1939: L'Oeuvre constructive de la Révolution espagnole (Paris: Editions du Cercle, 1971). See also Vernon Richards, Lessons of the Spanish Revolution, 1936–1939, enlarged edition (London: Freedom Press, 1972).
+[\[4\]](#page-7-0) Diego Abad de Santillán, After the Revolution (New York: Greenberg, 1937), p. 86. In the last chapter, written several months after the revolution had begun, he expresses his dissatisfaction with what had so far been achieved along these lines. On the accomplishments of the social revolution in Spain, see my American Power and the New Mandarins (New York: Pantheon Books, 1969), chap. 1, and references cited there; the important study by Broué and Témime has since been translated into English. Several other important studies have appeared since, in particular: Frank Mintz, L'Autogestion dans l'Espagne révolutionnaire (Paris: Editions Bélibaste, 1971); César M. Lorenzo, Les Anarchistes espagnols et la pouvoir, 1868–1969 (Paris: Editions du Seuil, 1969); Gaston Leval, Espagné libertaire, 1936–1939: L'Oeuvre constructive de la Révolution espagnole (Paris: Editions du Cercle, 1971). See also Vernon Richards, Lessons of the Spanish Revolution, 1936–1939, enlarged edition (London: Freedom Press, 1972).
 
 - [\[5\]](#page-7-1) Cited by Robert C. Tucker, The Marxian Revolutionary Idea (New York: W. W. Norton & Co., 1969).
 - [\[6\]](#page-8-0) Bakunin, in a letter to Herzen and Ogareff, 1866. Cited by Daniel Guérin, Jeunesse du socialism liberatire (Paris: Librairie Marcel Rivière, 1959).
@@ -1007,7 +1001,7 @@ Other dubious conclusions are that "in respect of redistribution of wealth, anar
 
 Thomas feels that collectives could not have survived more than "a few years while primitive misery was being overcome." I see nothing in his data to support this conclusion. The Palestinian experience has shown that collectives can remain both a social and an economic success over a long period. The success of Spanish collectivization, under war conditions, seems amazing. One can obviously not be certain whether these successes could have been secured and extended had it not been for the combined fascist, Communist, and liberal attack, but I can find no objective basis for the almost universal skepticism. Again, this seems to me merely a matter of irrational prejudice.
 
-[\[95\]](#page-46-0) The following is a brief description by the anarchist writer Gaston Leval, Né Franco, Né Stalin, le collettività anarchiche spagnole nella lotta contro Franco <sup>e</sup> la reazione staliniana (Milan: Istituto Editoriale Italiano, 1952), pp. 303f; sections reprinted in Collectivités anarchistes en Espagne révolutionnaire, Noir et Rouge, undated.
+[\[95\]](#page-46-0) The following is a brief description by the anarchist writer Gaston Leval, Né Franco, Né Stalin, le collettività anarchiche spagnole nella lotta contro Franco e la reazione staliniana (Milan: Istituto Editoriale Italiano, 1952), pp. 303f; sections reprinted in Collectivités anarchistes en Espagne révolutionnaire, Noir et Rouge, undated.
 
 "In the middle of the month of June, the attack began in Aragon on a grand scale and with hitherto unknown methods. The harvest was approaching. Rifles in hand, treasury guards under Communist orders stopped trucks loaded with provisions on the highways and brought them to their offices. A little later, the same guards poured into the collectives and confiscated great quantities of wheat under the authority of the general staff with headquarters in Barbastro.... Later open attacks began, under the command of Lister with troops withdrawn from the front at Belchite more than 50 kilometers away, in the month of August.... The final result was that 30 percent of the collectives were completely destroyed. In Alcolea, the municipal council that governed the collective was arrested; the people who lived in the Home for the Aged ... were thrown out on the street. In Mas de las Matas, in Monzon, in Barbastro, on all sides, there were arrests. Plundering took place everywhere. The stores of the cooperatives and their grain supplies were rifled; furnishings were destroyed. The governor of Aragon, who was appointed by the central government after the dissolution of the Council of Aragon—which appears to have been the signal for the armed attack against the collectives—protested. He was told to go to the devil.
 

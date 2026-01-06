@@ -1,3 +1,8 @@
+---
+title: "HOW TO GIVE"
+category: "contemporary-analysis"
+---
+
 # HOW TO GIVE
 
 # Ancient Wisdom for Modern Readers

@@ -1,3 +1,8 @@
+---
+title: "## [archdaily.com](https://www.archdaily.com/1001999/the-paradox-of-sustainable-architecture-durabil"
+category: "feminist-theory"
+---
+
 ## [archdaily.com](https://www.archdaily.com/1001999/the-paradox-of-sustainable-architecture-durability-and-transience)
 
 ## The Paradox of Sustainable Architecture: Durability and Transience
@@ -56,4 +61,4 @@ As we face the future with a sense of urgency, driven by global time horizons li
 
 This paradox within the definition of sustainable architecture demands exploration and introspection. Is sustainable architecture meant to be permanent or impermanent? Is there a way to strike a balance between these seemingly conflicting characteristics? Ultimately, the pursuit of sustainable architecture must navigate this dichotomy by embracing both longevity and adaptability, creating a built environment that is truly sustainable for the future.
 
-Cite: Ankitha Gattupalli. "The Paradox of Sustainable Architecture: Durability and Transience" 05 Aug 2023. Arch Daily. Accessed 4 Sep 2023. <https://www.archdaily.com/1001999/the-paradox-ofsustainable-architecture-durability-and-transience> ISSN 0719-8884
+Cite: Ankitha Gattupalli. "The Paradox of Sustainable Architecture: Durability and Transience" 05 Aug 2023. Arch Daily. Accessed 4 Sep 2023.  ISSN 0719-8884

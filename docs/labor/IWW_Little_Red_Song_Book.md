@@ -1,3 +1,8 @@
+---
+title: "WHAT IS THE IWW?"
+category: "labor"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 # WHAT IS THE IWW?
@@ -24,13 +29,13 @@ Together we can do things we can't do alone.
 
 When the body was first created, there was contention among the component parts as to who was going to be the boss.
 
-The brain said, "Since <sup>I</sup> am the nerve center that controls everything and does all the thinking, <sup>I</sup>should be the boss."
+The brain said, "Since I am the nerve center that controls everything and does all the thinking, Ishould be the boss."
 
-The feet said, "Since <sup>I</sup> carry all the friggin' weight, <sup>I</sup> should be the boss."
+The feet said, "Since I carry all the friggin' weight, I should be the boss."
 
-The hands said, "Since <sup>I</sup> must do all the manual labor and earn all the money to keep the rest of you going, <sup>I</sup> should be the boss.
+The hands said, "Since I must do all the manual labor and earn all the money to keep the rest of you going, I should be the boss.
 
-The eyes said, "Since <sup>I</sup> must look out for all of you and let you know when danger lurks, <sup>I</sup>should be the boss."
+The eyes said, "Since I must look out for all of you and let you know when danger lurks, Ishould be the boss."
 
 And so it went with the ear, the lungs, and various other component parts of the body, till there was no one left but the anus. All the others laughed when it made its bid for bosshood, for who ever heard of an anus being boss of anything? This rebuff upset the anus so much that in a pique of anger it closed itself off completely and refused to function any further.
 
@@ -38,13 +43,13 @@ Soon the brain was feverish, the eyes crossed and ached, the feet were too weak 
 
 While the others did all the work, the anus just basked and let out a lot of hot air along with the other material it is the anus's function to let out.
 
-The moral of this little episode is that it takes no special talent to be <sup>a</sup> boss - so why have one if everyone knows how to work together in harmony? Think about it.
+The moral of this little episode is that it takes no special talent to be a boss - so why have one if everyone knows how to work together in harmony? Think about it.
 
 ## What Is A Scab? Attributed to Jack London
 
-After God had finished the rattlesnake, the toad and the vampire, he had some awful substance left with which to make <sup>a</sup> scab. A scab is <sup>a</sup> two-legged animal with <sup>a</sup> cork-screw soul, a water logged brain and a combination back bone made of jelly and glue. Where others have hearts, the scab carries a tumor of rotten principles.
+After God had finished the rattlesnake, the toad and the vampire, he had some awful substance left with which to make a scab. A scab is a two-legged animal with a cork-screw soul, a water logged brain and a combination back bone made of jelly and glue. Where others have hearts, the scab carries a tumor of rotten principles.
 
-When <sup>a</sup> scab comes down the street, people turn their backs, angels weep in heaven and the devil shuts the gate of hell. Judas Iscariot was a gentleman compared with a scab. For betraying his master, he had the character to hang himself a scab hasn't.
+When a scab comes down the street, people turn their backs, angels weep in heaven and the devil shuts the gate of hell. Judas Iscariot was a gentleman compared with a scab. For betraying his master, he had the character to hang himself a scab hasn't.
 
 Esau sold his birthright for a mess of pottage. Judas Iscariot sold his saviour for thirty pieces of silver. Benedict Arnold sold his country for a promise of a commission in the British army. The modem strikebreaker sells birthright, country, spouse, children and co-workers for an unfulfilled promise from an employer, trust or corporation.
 
@@ -102,7 +107,7 @@ Killed in the Bisbee Deportation in Arizona, July 11. 1917
 
 ## To WESLEY EVEREST
 
-Lynched by the lumber trust at Centralia, Washington, November <sup>1</sup> 1. 1919
+Lynched by the lumber trust at Centralia, Washington, November 1 1. 1919
 
 ## To the FIVE WOBBLY MINERS
 
@@ -126,7 +131,7 @@ Now the lessons of the past we all learned with worker's blood, The mistakes of 
 
 The union forever, defending our rights, Down with the blackleg, all workers unite. With our brothers and our sisters in manyfar-off lands: There is power in a union.
 
-Now <sup>I</sup> long for the morning that they realize Brutality and unjust laws cannot defeat us. But who'll defend the workers who cannot organize When the bosses send their lackeys out to cheat us?
+Now I long for the morning that they realize Brutality and unjust laws cannot defeat us. But who'll defend the workers who cannot organize When the bosses send their lackeys out to cheat us?
 
 # Chorus
 
@@ -154,122 +159,471 @@ If you've had nuf of the "blood of the lamb," Then join in the grand Industrial 
 
 If you like sluggers to beat off your head, Then don't organize, all unions despise. If you want nothing before you are dead. Shake hands with your boss and look wise.
 
-Come, all ye workers, from every land. Come, join in the grand Industrial band; Then we our share of this earth shall demand. Come on! Do your share. Lend <sup>a</sup> hand.
+Come, all ye workers, from every land. Come, join in the grand Industrial band; Then we our share of this earth shall demand. Come on! Do your share. Lend a hand.
 
 # Table of Contents
 
-| A<br>Bamcadas<br>page<br>Las | 6 |
+| A
+Bamcadas
+page
+Las | 6 |
 |------------------------------------------------------|---|
-| AWorid ToWin<br>64 | |
-| Up<br>Used<br>32<br>All | |
-| Aragon<br>68<br>Mill | |
-| Forever<br>Aristocracy<br>81 | |
-| 66<br>Babylon<br>Updated | |
-| Banks<br>Marble<br>of<br>91 | |
-| The<br>Miner<br>Blackleg<br>68 | |
-| The<br>65<br>Boss's<br>Darling | |
-| Box<br>25<br>Factory | |
-| Bread<br>and<br>Roses<br>76 | |
-| Buy<br>American<br>This<br>Car<br>26 | |
-| Capitalism's<br>Endless<br>Chain<br>82 | |
-| Casey<br>Union<br>Scab<br>Jones,<br>the<br>61 | |
-| War<br>At<br>Christians<br>71 | |
-| Commonwealth<br>37<br>of Toil | |
-| Cotton<br>42<br>Mill<br>Girls | |
-| Down<br>At The<br>43<br>Picket]<br>ine | |
-| Ye<br>Tamers,<br>33<br>Drill<br>Drill. | |
-| Dump<br>Your<br>Back<br>the Bosses<br>Off<br>25 | |
-| Song<br>24<br>Ella's | |
-| Like<br>Fight<br>Hell<br>41 | |
-| Food<br>Not<br>Finance<br>22 | |
-| Me<br>Not<br>44<br>Forget | |
-| The<br>Hour<br>Day<br>Four<br>15 | |
-| Road<br>Freedom<br>45 | |
-| My<br>Me<br>To<br>Give<br>Back<br>46<br>Factory | |
-| Me<br>New<br>Give<br>That<br>Union<br>75<br>Contract | |
-| Giving<br>Nothing<br>Back<br>11 | |
-| Go,<br>Send<br>Thee<br>I Will | 9 |
-| Goto<br>Work<br>on<br>Monday<br>89 | |
-| a Bum<br>I'm<br>93<br>Hallelujah, | |
-| Pueblo<br>Hijos<br>del | 4 |
-| High<br>Tech<br>74 | |
-| Hold<br>92<br>the<br>Fort | |
-| The<br>It Weren't<br>Union<br>For<br>20<br>If | |
-| Dreaming<br>90<br>I'm<br>of<br>a Fair<br>Contract | |
-| The<br>Internationale<br>2 | |
-| Joe<br>34<br>Hill<br>, | |
-| Joe<br>Will<br>36<br>Last<br>Hill's | |
-| Labor's<br>Endless<br>Chain<br>17 | |
-| and<br>Landlord<br>Tenant<br>.86 | |
-| Larimer<br>85<br>Street | |
-| -<br>Legal<br>56<br>Illegal | |
-| Links<br>on<br>Chain<br>the<br>83 | |
-| Song<br>LIP<br>18<br> | |
-| Lumberjack's<br>Prayer<br>40<br>Men | |
-| The<br>of Kemira<br>16<br>Mexican | |
-| Song<br>Revolutionary<br>Mister<br>Block | 8 |
-| 84<br>Moderation | |
-| 19<br>New<br>The<br>America | |
-| 80<br>Nine<br>Song<br>to Five | |
-| 87<br><br>No<br>Nos<br>Moveran | |
-| Ago<br>Not<br>So<br>Long | 9 |
-| 14<br>ad<br>Ma<br>Bell | |
-| 81<br>On<br>The<br>Line<br>Picket | |
-| .88<br>One<br>Day<br>Them<br>More<br>Than | |
-| 12<br>Work<br>Outa<br>Blues | |
-| 90<br>The<br>Boogie<br>Picket | |
-| ,.,.,70<br>Wobbly<br>Popular<br>47 | |
+| AWorid ToWin
+64 | |
+| Up
+Used
+32
+All | |
+| Aragon
+68
+Mill | |
+| Forever
+Aristocracy
+81 | |
+| 66
+Babylon
+Updated | |
+| Banks
+Marble
+of
+91 | |
+| The
+Miner
+Blackleg
+68 | |
+| The
+65
+Boss's
+Darling | |
+| Box
+25
+Factory | |
+| Bread
+and
+Roses
+76 | |
+| Buy
+American
+This
+Car
+26 | |
+| Capitalism's
+Endless
+Chain
+82 | |
+| Casey
+Union
+Scab
+Jones,
+the
+61 | |
+| War
+At
+Christians
+71 | |
+| Commonwealth
+37
+of Toil | |
+| Cotton
+42
+Mill
+Girls | |
+| Down
+At The
+43
+Picket]
+ine | |
+| Ye
+Tamers,
+33
+Drill
+Drill. | |
+| Dump
+Your
+Back
+the Bosses
+Off
+25 | |
+| Song
+24
+Ella's | |
+| Like
+Fight
+Hell
+41 | |
+| Food
+Not
+Finance
+22 | |
+| Me
+Not
+44
+Forget | |
+| The
+Hour
+Day
+Four
+15 | |
+| Road
+Freedom
+45 | |
+| My
+Me
+To
+Give
+Back
+46
+Factory | |
+| Me
+New
+Give
+That
+Union
+75
+Contract | |
+| Giving
+Nothing
+Back
+11 | |
+| Go,
+Send
+Thee
+I Will | 9 |
+| Goto
+Work
+on
+Monday
+89 | |
+| a Bum
+I'm
+93
+Hallelujah, | |
+| Pueblo
+Hijos
+del | 4 |
+| High
+Tech
+74 | |
+| Hold
+92
+the
+Fort | |
+| The
+It Weren't
+Union
+For
+20
+If | |
+| Dreaming
+90
+I'm
+of
+a Fair
+Contract | |
+| The
+Internationale
+2 | |
+| Joe
+34
+Hill
+, | |
+| Joe
+Will
+36
+Last
+Hill's | |
+| Labor's
+Endless
+Chain
+17 | |
+| and
+Landlord
+Tenant
+.86 | |
+| Larimer
+85
+Street | |
+| -
+Legal
+56
+Illegal | |
+| Links
+on
+Chain
+the
+83 | |
+| Song
+LIP
+18
+ | |
+| Lumberjack's
+Prayer
+40
+Men | |
+| The
+of Kemira
+16
+Mexican | |
+| Song
+Revolutionary
+Mister
+Block | 8 |
+| 84
+Moderation | |
+| 19
+New
+The
+America | |
+| 80
+Nine
+Song
+to Five | |
+| 87
+
+No
+Nos
+Moveran | |
+| Ago
+Not
+So
+Long | 9 |
+| 14
+ad
+Ma
+Bell | |
+| 81
+On
+The
+Line
+Picket | |
+| .88
+One
+Day
+Them
+More
+Than | |
+| 12
+Work
+Outa
+Blues | |
+| 90
+The
+Boogie
+Picket | |
+| ,.,.,70
+Wobbly
+Popular
+47 | |
 | Porque Los Pobres NoTienen | 7 |
 ## | | |
 
-| Valley<br>48<br>Potter<br>Mill | |
+| Valley
+48
+Potter
+Mill | |
 |---------------------------------------------------------------------|--|
-| The<br>Preacher<br>and<br>49<br>Slave<br>the | |
-| Workers<br>Public<br>Stand<br>Together<br>72<br> | |
-| It On<br>Ground<br>Put<br>73<br>the | |
-| Again<br>Rise<br>50 | |
-| A<br>Rob<br>Train<br>10 | |
-| A-Bye<br>Rock-<br>79<br>Baby | |
-| Hours<br>Back<br>Roll<br>the<br>82<br>, | |
-| On<br>Union<br>69<br>Roll<br>the | |
-| 28<br>Scabi | |
-| The<br>Scab*<br>Crawl<br>77<br>In | |
-| So<br>Long<br>79<br>Partner | |
-| "2<br>Siempre<br>Solidaridad<br>Pa* | |
-| Forever<br>Solidarity<br>1<br> | |
-| My<br>Song<br>of<br>.51<br>Da | |
-| Soul<br>Stealers,<br>53 | |
-| You<br>Workers<br>80<br>Stand<br>United,<br>All | |
-| Bush<br>39<br>Spangled<br>George<br>Star- | |
-| On<br>Out<br>The<br>Staying<br>Line<br>67 | |
-| Stung<br>Right<br>52 | |
-| In A<br>Is Power<br>Union<br>95<br>There<br>(Bragg) | |
-| is Power<br>There<br>Union<br>94<br>in the<br>(Hill) | |
-| 54<br>This<br>Scab<br>Litfle | |
-| The<br>Union<br>55<br>Buster | |
-| Union<br>Maid<br>38 | |
-| Housewife<br>78<br>Universal | |
-| V. D. T<br>57 | |
-| We<br>A<br>Are<br>78<br>Building<br>Strong<br>Union | |
-| We<br>A<br>You<br>Have<br>Fed<br>Thousand<br>62<br>All For<br>Years | |
-| We<br>Moved<br>Not<br>Be<br>8<br>Shall | |
-| We<br>Up<br>Not<br>The<br>Give<br>29<br>Shall<br>Fight | |
-| What<br>Is a<br>Boas?<br>96 | |
-| What<br>Isa<br>Scab?<br>96 | |
-| We<br>Work?<br>Where<br>Gonna<br>Are<br>63 | |
-| Which<br>You<br>On?<br>Are<br>58<br>Side | |
-| Who<br>Bombed<br>Ban?<br>30<br>Judi | |
-| Winnsboro<br>59<br>Cotton<br>Mill<br>Bluea | |
-| Wobbly<br>Doxology<br>40 | |
-| Work<br>Rap<br>Song<br>36 | |
-| Down<br>The<br>World<br>Turned<br>60<br>Upside | |
-| Song<br>Workers'<br>Control<br>21 | |
-| Workingfoik<br>39<br>Unite | |
-## | Go<br>Down<br>You<br>77<br>Gotta | |
+| The
+Preacher
+and
+49
+Slave
+the | |
+| Workers
+Public
+Stand
+Together
+72
+ | |
+| It On
+Ground
+Put
+73
+the | |
+| Again
+Rise
+50 | |
+| A
+Rob
+Train
+10 | |
+| A-Bye
+Rock79
+Baby | |
+| Hours
+Back
+Roll
+the
+82
+, | |
+| On
+Union
+69
+Roll
+the | |
+| 28
+Scabi | |
+| The
+Scab*
+Crawl
+77
+In | |
+| So
+Long
+79
+Partner | |
+| "2
+Siempre
+Solidaridad
+Pa* | |
+| Forever
+Solidarity
+1
+ | |
+| My
+Song
+of
+.51
+Da | |
+| Soul
+Stealers,
+53 | |
+| You
+Workers
+80
+Stand
+United,
+All | |
+| Bush
+39
+Spangled
+George
+Star- | |
+| On
+Out
+The
+Staying
+Line
+67 | |
+| Stung
+Right
+52 | |
+| In A
+Is Power
+Union
+95
+There
+(Bragg) | |
+| is Power
+There
+Union
+94
+in the
+(Hill) | |
+| 54
+This
+Scab
+Litfle | |
+| The
+Union
+55
+Buster | |
+| Union
+Maid
+38 | |
+| Housewife
+78
+Universal | |
+| V. D. T
+57 | |
+| We
+A
+Are
+78
+Building
+Strong
+Union | |
+| We
+A
+You
+Have
+Fed
+Thousand
+62
+All For
+Years | |
+| We
+Moved
+Not
+Be
+8
+Shall | |
+| We
+Up
+Not
+The
+Give
+29
+Shall
+Fight | |
+| What
+Is a
+Boas?
+96 | |
+| What
+Isa
+Scab?
+96 | |
+| We
+Work?
+Where
+Gonna
+Are
+63 | |
+| Which
+You
+On?
+Are
+58
+Side | |
+| Who
+Bombed
+Ban?
+30
+Judi | |
+| Winnsboro
+59
+Cotton
+Mill
+Bluea | |
+| Wobbly
+Doxology
+40 | |
+| Work
+Rap
+Song
+36 | |
+| Down
+The
+World
+Turned
+60
+Upside | |
+| Song
+Workers'
+Control
+21 | |
+| Workingfoik
+39
+Unite | |
+## | Go
+Down
+You
+77
+Gotta | |
 
-This is the 36th edition of this series of songbooks, started in 1909, and preceded by a card of four songs in 1908. Unless otherwise indicated, the dates appearing by song titles give the edition of the <sup>I</sup> WW songbook in which the song first appeared.
+This is the 36th edition of this series of songbooks, started in 1909, and preceded by a card of four songs in 1908. Unless otherwise indicated, the dates appearing by song titles give the edition of the I WW songbook in which the song first appeared.
 
-Authorship is credited to those whose versions first ap peared in the songbook and many songs remain unchanged. People's music, however, is living music. Words to these songs have been added to and changed by working people. Today's <sup>I</sup> WW hopes this Little Red Songbook will help make workers' history, not just preserve it
+Authorship is credited to those whose versions first ap peared in the songbook and many songs remain unchanged. People's music, however, is living music. Words to these songs have been added to and changed by working people. Today's I WW hopes this Little Red Songbook will help make workers' history, not just preserve it
 
 In this international edition, a special effort has been made to print songs from around the world, to reflect the struggles and experiences of a wider section of the working class. This songbook includes Spanish language translations of English language songs and English language translations of Spanish language songs.
 
@@ -281,33 +635,33 @@ Wordi by Harry "Haywire Mac" Mc Clintock, USA. Tune: Revive Us Again-First prime
 
 ## ![](_page_5_Figure_7.jpeg)
 
-Why don't you work like other folks do? How the hell can <sup>I</sup> work when there's no work to do?
+Why don't you work like other folks do? How the hell can I work when there's no work to do?
 
 #### Chorus
 
 Hallelujah. I'm a bum. Hallelujah, bum again; Hallelujah, give us a handout to revive us again!
 
-Oh, why do you work eight hours or more? There'd be jobs for two if you'd only work four, <sup>f</sup>
+Oh, why do you work eight hours or more? There'd be jobs for two if you'd only work four, f
 
-Oh, why speed up work till you're ready to fall? If you'd only slow down, there'd be work for us all. <sup>t</sup>
+Oh, why speed up work till you're ready to fall? If you'd only slow down, there'd be work for us all. t
 
-Whenever <sup>I</sup> get all the money <sup>I</sup> earn, The boss will be broke and to work he must turn.
+Whenever I get all the money I earn, The boss will be broke and to work he must turn.
 
 Our wages can't buy all the wealth we produce; So the factories shut down and we are turned loose. \*
 
-<sup>I</sup> worked overtime like a big greedy slob; Now the warehouse is full and I'm out of <sup>a</sup> job. \*
+I worked overtime like a big greedy slob; Now the warehouse is full and I'm out of a job. \*
 
-<sup>I</sup> hate this company, <sup>I</sup> hate this job, But I'm too proud to beg and too honest to rob. f
+I hate this company, I hate this job, But I'm too proud to beg and too honest to rob. f
 
-So <sup>I</sup> worked very hard, till <sup>I</sup> got the flu, Missed four days of work, and they told me, "You're thru."t
+So I worked very hard, till I got the flu, Missed four days of work, and they told me, "You're thru."t
 
-About five months ago, my unemployment ran out. Now <sup>I</sup> stay in the shelters and travel about.
+About five months ago, my unemployment ran out. Now I stay in the shelters and travel about.
 
-When <sup>I</sup> walk down the street, all the people <sup>I</sup> see Look up, down and round, but they won't look at me.t
+When I walk down the street, all the people I see Look up, down and round, but they won't look at me.t
 
-So I'm on the bum and <sup>I</sup> tell you, it's true: It happened to me, it could happen to you.t
+So I'm on the bum and I tell you, it's true: It happened to me, it could happen to you.t
 
-But don't you complain, don't open your eyes. Don't talk revolution, and don't organize, t \* New verse, 35th edition. <sup>+</sup> New ver»e, 36th edition.
+But don't you complain, don't open your eyes. Don't talk revolution, and don't organize, t \* New verse, 35th edition. + New ver»e, 36th edition.
 
 # Hold the Fort
 
@@ -327,7 +681,7 @@ See our numbers still increasing; hear the bugles blow. By our union we shall tr
 
 Fierce and long the battle rages, but we will not Tear. Help will come whene'er it's needed, cheer, my comrades, cheer.
 
-Aboul 1870 "Hold (he Fort" was written by Bliss as <sup>a</sup> U S gospel sung, based on an incident in the U S Civil War Itwas made into <sup>a</sup> labor song by the Knights of Labor (the Knights advocated an alliance of producer and consumer cooperatives as an alternative to industrial capitalism.) The song was casl into ns present form by the Bnhsh Transport Workers about 1890
+Aboul 1870 "Hold (he Fort" was written by Bliss as a U S gospel sung, based on an incident in the U S Civil War Itwas made into a labor song by the Knights of Labor (the Knights advocated an alliance of producer and consumer cooperatives as an alternative to industrial capitalism.) The song was casl into ns present form by the Bnhsh Transport Workers about 1890
 
 ## ![](_page_6_Picture_10.jpeg)
 
@@ -347,15 +701,15 @@ Is there aught we hold in common with the greedy parasite Who would lash us into
 
 It is we who plowed the prairies; built the cities where they trade; Dug the mines and built the workshops; endless miles of railroad laid. Now we stand outcast and starving, 'midst the wonders we have made; But the Union makes us strong.
 
-It is we who wash the dishes, scrub the floors and chase the dirt, Feed the kids and send them off the school and then we go to work Where we work for lower wages for <sup>a</sup> boss who likes to flirt. We will make the Union strong, \*
+It is we who wash the dishes, scrub the floors and chase the dirt, Feed the kids and send them off the school and then we go to work Where we work for lower wages for a boss who likes to flirt. We will make the Union strong, \*
 
 All the world that's owned by idle drones is ours and ours alone. We have laid the wide foundations; built it skyward stone by stone. It is ours, not to slave in, but to master and to own. While the Union makes us strong.
 
 They have taken untold millions that they never toiled to earn, But without our brain and muscle not a single wheel can turn. We can break their haughty power; gain our freedom when we learn That the Union makes us strong.
 
-In our hands is placed <sup>a</sup> power greater that their hoarded gold; Greater than the might of armies, magnified a thousand-fold. We can bring to birth <sup>a</sup> new world from the ashes of the old, For the Union makes us strong.
+In our hands is placed a power greater that their hoarded gold; Greater than the might of armies, magnified a thousand-fold. We can bring to birth a new world from the ashes of the old, For the Union makes us strong.
 
-## <sup>•</sup>New verse. .16th edition
+## •New verse. .16th edition
 
 # Solidaridad Pa' Siemprc
 
@@ -381,21 +735,21 @@ Words A music Lei Rice. Traditional, V. S. A.
 
 ## ![](_page_7_Figure_11.jpeg)
 
-I've traveled round this country, from shore to shining shore. And it really made me wonder, all the things <sup>I</sup> heard and saw. <sup>I</sup> saw the poor dirt farmer plowing sod and loam <sup>I</sup> heard the auction hammer aknocking down his home.
+I've traveled round this country, from shore to shining shore. And it really made me wonder, all the things I heard and saw. I saw the poor dirt farmer plowing sod and loam I heard the auction hammer aknocking down his home.
 
 #### Chorus
 
 But the banks are made of marble, with a guard at every door And the vaults were full of silver that the (farmer) sweatedfor.
 
-<sup>I</sup> saw the sailors standing idly by the shore; <sup>I</sup> heard the bosses saying, "Got no work for you no more."
+I saw the sailors standing idly by the shore; I heard the bosses saying, "Got no work for you no more."
 
-<sup>I</sup> saw the women working in the sweatshop and the store, In the office and the factory, and at home they scrubbed the floor
+I saw the women working in the sweatshop and the store, In the office and the factory, and at home they scrubbed the floor
 
-<sup>I</sup> saw the worn-out miners scrubbing coal dust from their backs; <sup>I</sup> heard their children crying, "Got no coal to heat these shacks."
+I saw the worn-out miners scrubbing coal dust from their backs; I heard their children crying, "Got no coal to heat these shacks."
 
-<sup>I</sup> saw my mother working from dawn to setting sun; <sup>1</sup> heard her saying sofdy, "Women's work isnever done".
+I saw my mother working from dawn to setting sun; 1 heard her saying sofdy, "Women's work isnever done".
 
-<sup>I</sup> saw the data keypunchers, their eyes and fingers tired, <sup>I</sup> heard the bosses saying, "Hurry up or you'll be fired".
+I saw the data keypunchers, their eyes and fingers tired, I heard the bosses saying, "Hurry up or you'll be fired".
 
 I've seen my fellow workers thoughout this mighty land; We will fight to get together in the One Big Union grand.
 
@@ -407,11 +761,11 @@ Then we'll own those banks ofmarble and we'll open every door. And we'll share t
 
 Words by Julie Me Call, U. S. A. Tune: I'm Dreaming of a White Christmas. First appearance, 36th edition.
 
-I'm dreaming of a fair contract. The best agreement we have known; One with no concessions. That we'll vote yes on, A real union milestone. I'm dreaming of a fair contract. With every picketline <sup>I</sup> walk; Till this union-busting is stopped, And we make the bosses sit and talk
+I'm dreaming of a fair contract. The best agreement we have known; One with no concessions. That we'll vote yes on, A real union milestone. I'm dreaming of a fair contract. With every picketline I walk; Till this union-busting is stopped, And we make the bosses sit and talk
 
-I'm dreaming of a fair contract, Without a cut in benefits; We have worked for our share. Of decent healthcare, And not for the profits of the rich. I'm dreaming of a fair contract. With every plant we occupy; Till we stop that scab coal supply, And we've won <sup>a</sup> victory for our side!
+I'm dreaming of a fair contract, Without a cut in benefits; We have worked for our share. Of decent healthcare, And not for the profits of the rich. I'm dreaming of a fair contract. With every plant we occupy; Till we stop that scab coal supply, And we've won a victory for our side!
 
-Julie Mc Call adapted this from music coming out of the <sup>1</sup> 989 Pittston coal mining strike in West Virginia, Virginia and Kentucky
+Julie Mc Call adapted this from music coming out of the 1 989 Pittston coal mining strike in West Virginia, Virginia and Kentucky
 
 # Outa Work Blues
 
@@ -419,11 +773,11 @@ Words by Carlos Cortez, USA. First appearance, 34th edition, 1973.
 
 Well it's a long time on the street And the rockin' chair money's all gone, \* It's a long time on the street And the rockin' chair money's all gone. I'm down to rollin" my own And pickin' butts off the lawn.
 
-Went to the employment office To see what <sup>1</sup> could find, <sup>I</sup> went to the employment office To see what <sup>I</sup> could find. Six hundred other people there Same thing on their mind.
+Went to the employment office To see what 1 could find, I went to the employment office To see what I could find. Six hundred other people there Same thing on their mind.
 
 Told the interviewer I'd do anything but shovel crap, I'd told the interviewer I'd do anything but shovel crap. He told me he was sorry, There was only one opening for that.
 
-When <sup>I</sup> was drawing compensation \* They'd hang any job on my neck, Yes, when <sup>I</sup> was drawing compensation They'd hang any job on my neck. But now that old rockin" chair's busted They won't let me past the first desk.
+When I was drawing compensation \* They'd hang any job on my neck, Yes, when I was drawing compensation They'd hang any job on my neck. But now that old rockin" chair's busted They won't let me past the first desk.
 
 President said on television That things was mighty fine, The president said on television That things was mighty fine, Man atthe supermarket tells me No groceries sold on time.
 
@@ -455,7 +809,7 @@ Spanish translation Arriba, pan as de la tierra! En pie, fameliea legidn! Los pr
 
 Agrupernonos todos, en la luchafinal El generri humano es el sindicato Internacional.
 
-Swedish translation Upp tra Jar uti alia stater, som hungem bojor lagt uppl Det dinar uti <sup>i</sup> rattens krater. snart skall utborttets timma si a. Stortas skall det gamla snart <sup>i</sup> gruset slav stig upp for art ski dig fri!
+Swedish translation Upp tra Jar uti alia stater, som hungem bojor lagt uppl Det dinar uti i rattens krater. snart skall utborttets timma si a. Stortas skall det gamla snart i gruset slav stig upp for art ski dig fri!
 
 Fran morkret stiga vi mot ljuset, fran intet allt vi vilja bli.
 
@@ -481,21 +835,21 @@ Words and music by Si Kakn. First appearance, 36th edition.
 
 ## ![](_page_9_Figure_6.jpeg)
 
-<sup>I</sup> did my part in World War Two, Got wounded for the nation. Now my lungs are all shot down, There ain't no compensation.
+I did my part in World War Two, Got wounded for the nation. Now my lungs are all shot down, There ain't no compensation.
 
 #### Chorus
 
 I'm gonna go to work on Monday one more time. I'm gonna go to work on Monday one more time. One more time. I'm gonna go to work on Monday One more time.
 
-The doctor says <sup>I</sup> smoke too much, He says that I'm not trying. He says he don't know what I've got, But we both know he's lying.
+The doctor says I smoke too much, He says that I'm not trying. He says he don't know what I've got, But we both know he's lying.
 
-The last time <sup>1</sup> went near my job <sup>I</sup> thought my lungs were broken. Chest bound down like iron bands, <sup>I</sup> couldn't breath for choking.
+The last time 1 went near my job I thought my lungs were broken. Chest bound down like iron bands, I couldn't breath for choking.
 
 The politicians in this state They're nothing short of rotten. They buy us off with fancy words And sell us out to cotton.
 
-The doctor says both lungs are gone, There ain't no way to shake it. But <sup>I</sup> can't live without a job, Somehow I've got to take it.
+The doctor says both lungs are gone, There ain't no way to shake it. But I can't live without a job, Somehow I've got to take it.
 
-They tell me <sup>1</sup> can't work at all. There ain't no need to trying. But living like some used up thing, Is just this short of dying.
+They tell me 1 can't work at all. There ain't no need to trying. But living like some used up thing, Is just this short of dying.
 
 Sitting on my front porch swing I'm like someone forgotten, Head all filled with angry thoughts, And lungs filled up with cotton.
 
@@ -529,7 +883,7 @@ Vena 1-5 came out ot •U. S. Teacher"\* strike. Vttia ft-9 written by Lehigh Br
 
 Hijos del pueblo, te oprimen cadenas Y esa injusticia no puede seguir. Si tu existencia es un mundo de penas Antes que esclavo prefiere morir. Esos burgueses, asaz egoistas, Que asi desprecian la Humanidad, Serin barridos por los anarquistas Al fuerte grito de Hbertad. Chorus j Ah! Rojo pendon No mis sufrir, La explotacion Ha de sucumbir, Levantate, pueblo leal, Al grito de revo!uci6n social. Vindicaci6n No hay que pedir; Solo la union La podra" exigir. Nuestro paves No romperis Torpe burgues.
 
-Los corazones obreros que laten Por nuestra causa, felices serin; Se entusiasmados y unidos combaten, De la victoria la pal ma obtendrin. Los proletaries a la burguesia, Han de tratarla con altivez Y combatirla tambien <sup>a</sup> profia Por su malvada estupidez.
+Los corazones obreros que laten Por nuestra causa, felices serin; Se entusiasmados y unidos combaten, De la victoria la pal ma obtendrin. Los proletaries a la burguesia, Han de tratarla con altivez Y combatirla tambien a profia Por su malvada estupidez.
 
 #### j Ah! Rojo pendon . .
 
@@ -625,17 +979,17 @@ Words by Sydney Carter, England. Fint appearance, 36th edition.
 
 ## ![](_page_12_Figure_2.jpeg)
 
-<sup>1</sup> kept my money in an old tin chest. Till <sup>I</sup>saw a poster and itsaid invest. if you want <sup>a</sup> bank that will never go bust Then put your money inthe Blue Chip Trust. We welcome the small investor. Ev'ry one <sup>a</sup> capitalist.
+1 kept my money in an old tin chest. Till Isaw a poster and itsaid invest. if you want a bank that will never go bust Then put your money inthe Blue Chip Trust. We welcome the small investor. Ev'ry one a capitalist.
 
-So <sup>I</sup> wrote to the Blue Chip right away, And back came a letter the following day: "Four per cent on every quid, If you invest it." So <sup>I</sup> did And <sup>I</sup> sat back waiting for the dividend.
+So I wrote to the Blue Chip right away, And back came a letter the following day: "Four per cent on every quid, If you invest it." So I did And I sat back waiting for the dividend.
 
-They came alright, those chips were blue, But along came a letter from the landlord too: "Your rent is going up," it said, "Two pounds <sup>a</sup> week." Well, <sup>I</sup>saw red ... <sup>I</sup> wrote them a letter . ..
+They came alright, those chips were blue, But along came a letter from the landlord too: "Your rent is going up," it said, "Two pounds a week." Well, Isaw red ... I wrote them a letter . ..
 
-To Tentacle Ltd. (that was the name) <sup>I</sup> wrote damn quick and said it was <sup>a</sup> shame. But Tentacle said, "Well don't blame us. We only act for the Blue Chip Trust , . They own the property, we only collect the rent!"
+To Tentacle Ltd. (that was the name) I wrote damn quick and said it was a shame. But Tentacle said, "Well don't blame us. We only act for the Blue Chip Trust , . They own the property, we only collect the rent!"
 
-To Blue Chip, ECL, <sup>I</sup> went To ask them why they were putting up the rent, A young man said, "Well it distressed us. But we must think of our investors." "I do!" <sup>I</sup>said.
+To Blue Chip, ECL, I went To ask them why they were putting up the rent, A young man said, "Well it distressed us. But we must think of our investors." "I do!" Isaid.
 
-To pay myself my four per cent. It seems I've got to raise my rent, <sup>I</sup> can't afford the rent and so <sup>I</sup> told myself I've got to go. A small percentage of me, has never had it so good!
+To pay myself my four per cent. It seems I've got to raise my rent, I can't afford the rent and so I told myself I've got to go. A small percentage of me, has never had it so good!
 
 # Porque Los Pobres No Tienen
 
@@ -643,9 +997,9 @@ H'orrfj and musk by Vio Utta Parra, Chile. English translation by Barbara Dane, 
 
 ## ![](_page_12_Figure_12.jpeg)
 
-Porque los pobrcs no tienen a donde volver la vista La vuelven haeia los cielos con la esperanza infmita Dc cncontrar lo que <sup>a</sup> su nermann en este mundo le quitan Palormta, qui cosas tiene la vida y zambita'
+Porque los pobrcs no tienen a donde volver la vista La vuelven haeia los cielos con la esperanza infmita Dc cncontrar lo que a su nermann en este mundo le quitan Palormta, qui cosas tiene la vida y zambita'
 
-Porque los pobres no tienen a donde volver la voz La vuelven hacia los cielos buscando una confesion Ya que su bermano no escucha la voz de su corazon Palomita, que cosas tiene la vida y zambita <sup>1</sup>
+Porque los pobres no tienen a donde volver la voz La vuelven hacia los cielos buscando una confesion Ya que su bermano no escucha la voz de su corazon Palomita, que cosas tiene la vida y zambita 1
 
 Porque los pobres no tienen este mundo esperanza Se amparan en la otra vida como una justa balanza Por eso las procesiones, la pena y las alabanzas . Palomita, que cosas tiene la vida y zambita!
 
@@ -657,11 +1011,11 @@ Because the poor have no other place to look for help. They turn their eyes to h
 
 Because they have no one else who will listen. The poor turn their voices up to heaven in confession, Since even their brothers won't listen lo voices of their hearts Palomiia. is that not strange?
 
-From the begining of lime, they invented <sup>a</sup> burning hell. To make the poor fear eternal agony for their weaknesses. And intheir innocence, the poor believe they are no good Palomita, is that not strange?
+From the begining of lime, they invented a burning hell. To make the poor fear eternal agony for their weaknesses. And intheir innocence, the poor believe they are no good Palomita, is that not strange?
 
-<sup>O</sup> <sup>1</sup> 963, Sydney Broo M«ic Co. And so the lies won't be found out, the priests call and say "God doesn't want any of these revolutions or unions or strikes. Which would offend him to the heart." Palomita, that's the way it goes.
+O 1 963, Sydney Broo M«ic Co. And so the lies won't be found out, the priests call and say "God doesn't want any of these revolutions or unions or strikes. Which would offend him to the heart." Palomita, that's the way it goes.
 
-> This song was firs! recorded at <sup>a</sup> 1%7 Cuban music conference \* Palomita is used to refer to the Holy Ghost
+> This song was firs! recorded at a 1%7 Cuban music conference \* Palomita is used to refer to the Holy Ghost
 
 # Mexican Revolutionary Song
 
@@ -729,7 +1083,7 @@ Words by Joe MIL V. SJk. Tune: It Looks To Me Like A Big Time Tonight. First app
 
 ## ![](_page_14_Figure_2.jpeg)
 
-Please give me your attention, and I'll introduce to you, A man that is <sup>a</sup> credit to "Our Red, White and Blue"; His head is made of lumber and solid as a rock; He is <sup>a</sup> common worker and his name is Mister Block. And Block, he thinks he may be President some day. Chorus
+Please give me your attention, and I'll introduce to you, A man that is a credit to "Our Red, White and Blue"; His head is made of lumber and solid as a rock; He is a common worker and his name is Mister Block. And Block, he thinks he may be President some day. Chorus
 
 Oh, Mister Block, you were bom by mistake. You take the cake, you make me ache. Tie a rock on your block and then jump in the take; Kindly do thatfor Liberty's sake.
 
@@ -769,19 +1123,19 @@ Y con un golpe de estado . . .
 
 Fuertes, fuertes, fuertes somos Como un arbol firme junto al rio Fuertes somos ya.
 
-# Go <sup>I</sup> Will Send Thee
+# Go I Will Send Thee
 
-Words by Goddatd Graves, USA. Tvru: Children, Go Where <sup>I</sup> Send Thee. First appearance, 36th edition.
+Words by Goddatd Graves, USA. Tvru: Children, Go Where I Send Thee. First appearance, 36th edition.
 
 ## ![](_page_14_Figure_25.jpeg)
 
-Go, <sup>I</sup> shall send thee. How shall <sup>I</sup> send thee? I'm going to send thee one by one; One for the One Big Union, Greatest thing on earth!
+Go, I shall send thee. How shall I send thee? I'm going to send thee one by one; One for the One Big Union, Greatest thing on earth!
 
-Go <sup>I</sup> shall send thee. How shall <sup>I</sup>send thee? I'm going to send thee two by two; Two for the opposing classes, One for the One Big Union . . (with each new verse, repeat all previous verses)
+Go I shall send thee. How shall Isend thee? I'm going to send thee two by two; Two for the opposing classes, One for the One Big Union . . (with each new verse, repeat all previous verses)
 
-Three for the three stars shining . . Four <sup>I</sup> say for the four hour day . . .
+Three for the three stars shining . . Four I say for the four hour day . . .
 
-Five for the five in 1905, <sup>a</sup> union bom then and still alive . .
+Five for the five in 1905, a union bom then and still alive . .
 
 Six for the six departments . .
 
@@ -978,21 +1332,21 @@ Stand united, all you workers, all you workers of the world. Men and women, blac
 
 Don't go begging to the bosses, think they treat you mighty fine? If you're waiting for the day when the boss will raise your pay Let me tell you, you'll be waiting a long time.
 
-We can break the bosses' power, the answer's clearer than <sup>a</sup> bell. We can win the things we like with <sup>a</sup> workers' general strike. And then we can tell the bosses "Go to hell."
+We can break the bosses' power, the answer's clearer than a bell. We can win the things we like with a workers' general strike. And then we can tell the bosses "Go to hell."
 
 # The New America
 
 Words: Tuli Kupferberg. Music: "America." First appearance, 36th edition.
 
-My country is it of thee <sup>9</sup> Land bereft of Liberty, Is it of thee <sup>I</sup> sing? Land where the Indians died, Land of the Slave-Holders' pride. From ev'ry mountain's strip-mined side Let Pollution spring.
+My country is it of thee 9 Land bereft of Liberty, Is it of thee I sing? Land where the Indians died, Land of the Slave-Holders' pride. From ev'ry mountain's strip-mined side Let Pollution spring.
 
 My Know-Nothing country, thee Land of Great College Fees, Thy hair's been dyed. Wc hear thy rocks and rolls Jingled by them greedy souls And all thru the Land they stole. Thy TV is refried.
 
-Thy gunshots shoot the breeze, Gooks hang from world-wide trees. You own the Bomb. Lied to in all our schools. Beaten with their Golden Rules, Treated like <sup>a</sup> bunch of fools. Our time will come.
+Thy gunshots shoot the breeze, Gooks hang from world-wide trees. You own the Bomb. Lied to in all our schools. Beaten with their Golden Rules, Treated like a bunch of fools. Our time will come.
 
 Their Propertied God, to thee. Architect of Tyranny, To thee we won't cower. Soon may our Land be bright. With Rebellions Holy Light, In daring love is our might. Common People to Power!
 
-Well, the bosses sure thought they were smart When they tried to cut our pay; They said, "We can hire the likes of you For fifty bucks a day." But (hey didn't count on the union. We were solid, every man And every woman inthat factory Stuck firmly to our plan. And this expert in a suit and tie On the TV news at ten, He asked, "How long more can you hold nut'" <sup>I</sup> said, "One more day than them
+Well, the bosses sure thought they were smart When they tried to cut our pay; They said, "We can hire the likes of you For fifty bucks a day." But (hey didn't count on the union. We were solid, every man And every woman inthat factory Stuck firmly to our plan. And this expert in a suit and tie On the TV news at ten, He asked, "How long more can you hold nut'" I said, "One more day than them
 
 Chorus If we've told them once, well we've told them twice. And we've told them again and again; Thai no matter what we 'reholding out One more day than them!
 
@@ -1010,7 +1364,7 @@ Now me and Sandy, we get up each day And we go through that factory gate. Where 
 
 No, we didn't fear the bosses' threats When they tried to drive us down, Cos when workers all together stand, Solidarity is found. So. if anybody asks of you. Just you tell 'em again and again. Just no matter what, you're holding out, Just one more day than them.
 
-The words of this song were inspired by the <sup>1</sup> 984/85 British miners strike. Ihe <sup>1986</sup> SEQEB workers dispute and the <sup>1990</sup> Cockaloo Island workers struggle in Sydney
+The words of this song were inspired by the 1 984/85 British miners strike. Ihe 1986 SEQEB workers dispute and the 1990 Cockaloo Island workers struggle in Sydney
 
 # Not So Long Ago
 
@@ -1161,7 +1515,7 @@ Tune: The Worms Crawl In. First appearance, 36th edition.
 
 The scabs crawl in and the scabs crawl out. They crawl in under and all about. They crawl in early, they crawl in late. They crawl in under the factory gate.
 
-The words came out of the <sup>1946</sup> Western Union strike in New York. U. S. A.
+The words came out of the 1946 Western Union strike in New York. U. S. A.
 
 # You Gotta Go Down
 
@@ -1175,7 +1529,7 @@ There is a road that leads to victory. To shorter hours and higher pay; Nobody h
 
 And when the road gets rough and rocky. And the hills get steep and high; We can sing as we go marching, And we'll win our one big union by and by.
 
-> Guthrie verse\* C.ipyTHjht TRO O <sup>I</sup> w, l & <sup>I</sup> WO LuJI.m Marie
+> Guthrie verse\* C.ipyTHjht TRO O I w, l & I WO LuJI.m Marie
 
 # Bread and Roses
 
@@ -1183,27 +1537,27 @@ Words by James Oppenkeim. U. S. A. Music by Caroline Kohtsaat. First appearance,
 
 ## ![](_page_22_Figure_2.jpeg)
 
-As we come marching, marching, in the beauty of the day, A million darkened kitchens, <sup>a</sup> thousand mill lofts gray, Are touched with all the radiance that <sup>a</sup> sudden sun discloses. For the people hear us singing, "Bread and roses! Bread and roses!
+As we come marching, marching, in the beauty of the day, A million darkened kitchens, a thousand mill lofts gray, Are touched with all the radiance that a sudden sun discloses. For the people hear us singing, "Bread and roses! Bread and roses!
 
 As we come marching, marching, we battle too for men, Our brothers in the struggle, and together we will win. Our lives shall not be sweated from btrtfi until life closes; Hearts starve as well as bodies; give us bread, but give us roses!
 
 As we come marching, marching, unnumbered women dead Go crying through our singing their ancient cry for bread. Small art and love and beauty their drudging spirits knew. Yes, it is bread we fight for - but we fight for roses, too!
 
-As we come marching, marching, we bring the greater days. For the rising of the women raises up the human race. No more the drudge and idler - ten that toil where one reposes, But <sup>a</sup> sharing of life's glories: Bread and roses! Bread and roses!
+As we come marching, marching, we bring the greater days. For the rising of the women raises up the human race. No more the drudge and idler - ten that toil where one reposes, But a sharing of life's glories: Bread and roses! Bread and roses!
 
-These words were inspired by picket signs earned by sinkers in the <sup>1912</sup> [WW
+These words were inspired by picket signs earned by sinkers in the 1912 [WW
 
 ## ![](_page_22_Picture_8.jpeg)
 
 At meetings of miners forms of action were proposed. And thirty-one of the fittest miners they chose For a sit-in strike deep within Kernira mine And those thirty-one started moving down the line. At four in the morning Mister Pratt from B. H. P. Sacked them and told them that very soon they'd see Where the strength lay for he was turning off the power. "Do what you will," they said, "You won't see miners cower,"
 
-All through October the workers rallied round. With marches and meetings, new allies soon were found-- Steel workers and wharfies and many unemployed Who knew how it felt to find their jobs destroyed. At the Wollongong showground a meeting was arranged And here righteous anger began turning into rage. A motion was passed that to Parliament they'd go. So for every threatened worker they could strike <sup>a</sup> blow.
+All through October the workers rallied round. With marches and meetings, new allies soon were found-- Steel workers and wharfies and many unemployed Who knew how it felt to find their jobs destroyed. At the Wollongong showground a meeting was arranged And here righteous anger began turning into rage. A motion was passed that to Parliament they'd go. So for every threatened worker they could strike a blow.
 
 At ihe end of the month on trains and busses hired, They headed for Canberra their fuels of anger fired. As they passed working suburbs cheering spoke of mass support Which showed that working folk might be sold but can't be bought. As they massed in the capitol their forces were aligned, Newcastle and Sydney and Canberra came behind. Then to Parliament House irresistibly they marched Their bellies tilled with fire and their hearts for justice parched.
 
 As they marched on King's Hall they felt their spirits rise; Anger at betrayal honest folk can not disguise. The barricade fell just like words used to deceive And the crowd at King's Hall soon started chanting "Heave!" The door soon burst open and Parliament was breached And finally our pompous politicians had been reached. Fraser agreed to meet them and Hawke and Hayden came. The oppression of the working folk can never be the same.
 
-After sixteen days in a world that knew no sun, The Tribunal turned on B. H. P. and concessions had^een won. Not enough to save their jobs but enough to show the world That <sup>a</sup> new fighting banner for the worker was unfurled. So wherever you work, in factory, shop or mine; In ships, on wharves or in jobs of any kind. Remember the Thirty-one, think on their sacrifice And when it comes to be your turn remember their advice.
+After sixteen days in a world that knew no sun, The Tribunal turned on B. H. P. and concessions had^een won. Not enough to save their jobs but enough to show the world That a new fighting banner for the worker was unfurled. So wherever you work, in factory, shop or mine; In ships, on wharves or in jobs of any kind. Remember the Thirty-one, think on their sacrifice And when it comes to be your turn remember their advice.
 
 BHP. Broken Hill Mining Piny Lid. Take the sack be fired Fraser was the liberal prime minister at the lime; Hawke was the leader of the Australian Council Trade Unions; Hayden was the leader of the Labour party. O Kevin Biker
 
@@ -1466,7 +1820,7 @@ Words and music: Traditional British. First appearance, J6th edition.
 
 ## ![](_page_28_Figure_2.jpeg)
 
-It's in the evening after dark. When <sup>a</sup>blackleg minci creeps te work. With his moleskin punts and doriy shirt, There goes the blackleg miner!
+It's in the evening after dark. When ablackleg minci creeps te work. With his moleskin punts and doriy shirt, There goes the blackleg miner!
 
 He'll take hts picks and down he goes, Te hew the coal lhai lies below. But there's not a woman in this town row. Will look at a blackleg miner.
 
@@ -1474,11 +1828,11 @@ Now. divvent gan near the Dclavcl mine. Across the way they stretch a line, Tc c
 
 An' Seghill is a terrible place. They rub wet clay in a blackleg's face. An' around the heap they rim a foot race, Te catch the blackleg miner.
 
-They take ye duds an' tools as well. An hoy them doon the pit of hell. Down ye go an <sup>I</sup> are >c well. Ye doriy blackleg miner.
+They take ye duds an' tools as well. An hoy them doon the pit of hell. Down ye go an I are >c well. Ye doriy blackleg miner.
 
 So join the union while ye may. Don't wan nil yei dyin' day, 'Cause that may not be far away Ye durt\ blackleg miner.
 
-Written in IK40\ .i^ <sup>j</sup> naming to potential vjbsuhnm.'re being imported into the imnhi'M >>! lingtand from js ur away , i>Cornwall and Ireland. The wi>rik arc in Ihe (ieordic i Ncweasile area) accent; 'Divvent gan' means di Hi't p»» hoy" means throw, 'dorty' is dim. Blackleg refers to a scab Roih htocileg iit.l «w4> urigif Ulil) referred to o>» iliseasev
+Written in IK40\ .i^ j naming to potential vjbsuhnm.'re being imported into the imnhi'M >>! lingtand from js ur away , i>Cornwall and Ireland. The wi>rik arc in Ihe (ieordic i Ncweasile area) accent; 'Divvent gan' means di Hi't p»» hoy" means throw, 'dorty' is dim. Blackleg refers to a scab Roih htocileg iit.l «w4> urigif Ulil) referred to o>» iliseasev
 
 ## ![](_page_28_Figure_10.jpeg)
 
@@ -1506,7 +1860,7 @@ White mother's sons.
 
 ## That which touches me most
 
-Is that <sup>I</sup> had a chance to work with the people.
+Is that I had a chance to work with the people.
 
 ## Passing on to others that
 
@@ -1516,11 +1870,11 @@ Which was passed on to me.
 
 They have the courage where we failed.
 
-## (And if) <sup>I</sup>can but shed some light
+## (And if) Ican but shed some light
 
 As they carry us through the gale.
 
-(The older) <sup>I</sup> gel. the belter <sup>I</sup> know
+(The older) I gel. the belter I know
 
 ## That the secret of my going on
 
@@ -1584,29 +1938,11 @@ This song came out of the 1989 strike by the machinists, flight attendants and p
 
 # Babylon Updated
 
-Words by Leslie Fish. 1973, U. S. A. Tune: Babylon is Fallen. 1869. First appearance. <f/ih edition.
-
-## ![](_page_30_Figure_2.jpeg)
-
-Welcome, day so long awaited! Welcome, hour of great release! See all peoples liberated, Siand in freedom, walk in peace. Fallen are the chains that dragged us Down toslavery, off to war.
-
-# Chorus
-
-Babylon is fallen, is fallen, is fallen Babylon is fallen, to rise no more!
-
-Masters in your high stone tower. You who order us here below. You who drive us tor your power, You who shaped the world we know Turn and face your victims' fury. Face the wolf pack at your door.
-
-We who served you, poor and driven, We who suffered the laws you made. We reclaim the years we have given. Smash your power and break your blade. See your doom reach out to take you With the empires gone before:
-
-## O 197.1 Lctlk Fish
-
-These robots deserve our support. Their work ethic's really inspiring. They don't inmd the lack of a benefits package. They don't even think of retiring They don't go on strike for a raise, They don't ask Tor COLA's or Perq.'s \* They show up every day ami they work without pay For the guy who gets pay without work (who is singing . . .)
-
-And in there among all the robots you'll find <sup>a</sup> worker or two They're feisty and human, they're true to their union. They're true to the red, white and blue. But the Marketing Moguls of Motown are true to the green dollar sign They flaunt it, they fake it, they don't care who makes it As long as itrolls down the line.
+Words by Leslie Fish. 1973, U. S. A. Tune: Babylon is Fallen. 1869. First appearance. a worker or two They're feisty and human, they're true to their union. They're true to the red, white and blue. But the Marketing Moguls of Motown are true to the green dollar sign They flaunt it, they fake it, they don't care who makes it As long as itrolls down the line.
 
 Bridge And then they lobby for quotas on Saabs and Toyotas, They scream, "Foreign Labor Unfair! Well. I've got more in common with blue collar foreigners Than any American millionaire
 
-There will always be them who sell snake oil With blather and bluster and brag. Still the worst of these chiselers don't bolster their business By wrapping themselves in the flag If they want to sell us the stars and stripes Let em put all their cards on the table. And let's see some jobs in the U. S. of A. Or let's have some truth on the label (no more singing <sup>i</sup>
+There will always be them who sell snake oil With blather and bluster and brag. Still the worst of these chiselers don't bolster their business By wrapping themselves in the flag If they want to sell us the stars and stripes Let em put all their cards on the table. And let's see some jobs in the U. S. of A. Or let's have some truth on the label (no more singing i
 
 - COLA: Con Of Living Adjustment automatic raises equal to inflation
 
@@ -1660,13 +1996,13 @@ Words and music by Eddie Holtwa, U. SA. First appearance, 36th edition.
 
 ## ![](_page_32_Figure_2.jpeg)
 
-I'll take all the ups and downs this old world can give, All the ins and all the outs as long as <sup>I</sup> might live. <sup>I</sup> am iron of the earth, tempered in the flame, The grinding wheel of history, freedom knows my name.
+I'll take all the ups and downs this old world can give, All the ins and all the outs as long as I might live. I am iron of the earth, tempered in the flame, The grinding wheel of history, freedom knows my name.
 
 Chorus I've been high and I've been low. Someday I'll rise again. Through out the land I'm a working woman, a working man; I've got a world to win.
 
-<sup>I</sup> marched and fought in other days and yet <sup>I</sup> struggle on. <sup>I</sup> raised the banner faithfully of heroes dead and gone. <sup>I</sup> am the shoulder on the wheel, the master of my brain, <sup>I</sup> till the soil of history, freedom knows my name.
+I marched and fought in other days and yet I struggle on. I raised the banner faithfully of heroes dead and gone. I am the shoulder on the wheel, the master of my brain, I till the soil of history, freedom knows my name.
 
-I've heard the lies, the alibis, I've seen the games they play Of those who never realized they're only in the way. For <sup>I</sup> will know the universe and all that does remain; <sup>I</sup> am the hopes and the dreams of life, freedom knows my name.
+I've heard the lies, the alibis, I've seen the games they play Of those who never realized they're only in the way. For I will know the universe and all that does remain; I am the hopes and the dreams of life, freedom knows my name.
 
 ## O Eddie Hok\*i
 
@@ -1674,11 +2010,11 @@ They might be reptilian, the blood flows like ice in their veins, Or extra-terre
 
 Now before we had our unions, let me tell you, conditions were bad. Understaffed, overworked, underpaid, 'til we finally got mad But then when we walked out to protect our rights They just gave away our jobs to those parasites. To those . .
 
-<sup>I</sup> could puke watching co-workers turn into weasels and traitors, They must be pod people hatched by those corporate raiders. You know our labor laws are crazy, they're so damn two-faced! They say <sup>I</sup> haven't been fired, just permanently replaced by . .
+I could puke watching co-workers turn into weasels and traitors, They must be pod people hatched by those corporate raiders. You know our labor laws are crazy, they're so damn two-faced! They say I haven't been fired, just permanently replaced by . .
 
-Oh, listen to your mama, this isn't idle gab, You're pretty damn low on the food chain If you think you gotta grab Your striking neighbor's job! <sup>I</sup>guess you gotta be a scab.
+Oh, listen to your mama, this isn't idle gab, You're pretty damn low on the food chain If you think you gotta grab Your striking neighbor's job! Iguess you gotta be a scab.
 
-Tag Sisters and Brothers hear what <sup>I</sup> say, Solidarity means action not just for one day. Brother Jack London was right, there's nothing lower than a scab.
+Tag Sisters and Brothers hear what I say, Solidarity means action not just for one day. Brother Jack London was right, there's nothing lower than a scab.
 
 ## O Anne Ffeeney
 
@@ -1708,11 +2044,11 @@ A Mother Jones at the Georgia Pacific mill. She fought for the saw mill workers 
 
 ## ![](_page_33_Figure_5.jpeg)
 
-<sup>I</sup> come from <sup>a</sup> long, long line of tree fallin' men.
+I come from a long, long line of tree fallin' men.
 
 And this company town was here before my grandpappy settled in.
 
-We kept enough trees <sup>a</sup> standing,
+We kept enough trees a standing,
 
 So our kids could toe the line.
 
@@ -1722,7 +2058,7 @@ Got us working double time. But tell me;
 
 ## Chorus
 
-Where are we gonna work when the trees are gone? Will the big boss have us wash his cars, or maybe mow his lawns? I'm a man, I'm a man, I'm a lumberjack man But <sup>I</sup>fear it ain 't/or long, tell me
+Where are we gonna work when the trees are gone? Will the big boss have us wash his cars, or maybe mow his lawns? I'm a man, I'm a man, I'm a lumberjack man But Ifear it ain 't/or long, tell me
 
 Where are we gonna work when the trees are gone?
 
@@ -1730,13 +2066,13 @@ Now these corporate mergers make no sense to me, But they got them this great bi
 
 So we're clearcutting all the trees.
 
-Now that old fishing hole where <sup>I</sup> used to take my son,
+Now that old fishing hole where I used to take my son,
 
 You know we trashed it out last Monday morning.
 
 Good Lord, what have we done?
 
-Now these Wall Street money men, they've got me mad. I've got a family to feed and fallin' trees is the only job <sup>1</sup> ever had.
+Now these Wall Street money men, they've got me mad. I've got a family to feed and fallin' trees is the only job 1 ever had.
 
 Say folks we can't just stand here. While this boom and bust goes on;
 
@@ -1892,13 +2228,13 @@ Good luck to all of you, good luck to all of you."
 
 ## O Phil Ochs
 
-<sup>\*</sup> verse by Scottish singer Dick Gaughan
+\* verse by Scottish singer Dick Gaughan
 
 # Joe Hill's Last Will
 
 (Writ Un in his cttt November IS, 1915, ihe eve of hit execution in Salt Lake City, Utah.)
 
-My will is easy to decide, For there is nothing to divide. My kin don't need to fuss and moan - "Moss does not cling to a rolling stone." My body? Ah, if <sup>I</sup> could choose, <sup>I</sup> would to ashes itreduce, And let the merry breezes blow My dust to where some flowers grow. Perhaps some fading flower then Would come to life and bloom again. This is my last and final will, Good luck to all of you, -Joe Hill
+My will is easy to decide, For there is nothing to divide. My kin don't need to fuss and moan - "Moss does not cling to a rolling stone." My body? Ah, if I could choose, I would to ashes itreduce, And let the merry breezes blow My dust to where some flowers grow. Perhaps some fading flower then Would come to life and bloom again. This is my last and final will, Good luck to all of you, -Joe Hill
 
 ## Work Rap Song
 
@@ -1906,7 +2242,7 @@ Words by Workers Lives/Workers Stories, U. S. A. First appearance, )6th edition 
 
 ## We work! (2,3,4) We work! (2,3,4)
 
-lump out the bed at 7 a.m. Wash your face and get to The Place, By <sup>8</sup> a.m. the boss is on my case. Says to me, "You'd better pick up the pace!"
+lump out the bed at 7 a.m. Wash your face and get to The Place, By 8 a.m. the boss is on my case. Says to me, "You'd better pick up the pace!"
 
 ## We work! (2,3,4) We work! (2,3,4)
 
@@ -1918,7 +2254,7 @@ Now it's 9 a.m.. I'm working on time Double time, triple time, overtime! Working
 
 ## We work! (2,3,4) We work! (2,3,4)
 
-<sup>1</sup> o'clock, 4 hours to go, You're working hard, but time goes slow. 5 o'clock! Time to stop! Thank God it's all over, 'cause I'm "bout to drop!
+1 o'clock, 4 hours to go, You're working hard, but time goes slow. 5 o'clock! Time to stop! Thank God it's all over, 'cause I'm "bout to drop!
 
 ## We work! (2,3,4) We work! (2,3,4)
 
@@ -1934,15 +2270,15 @@ We Work!
 
 ## ![](_page_37_Figure_19.jpeg)
 
-Well you don't know my name but you sure know me, <sup>I</sup> work in New York, Boston, and D,C. <sup>I</sup> used to be a typist, a secretary, But now <sup>1</sup> enter data on a V. D. T.\* <sup>I</sup> tell you it's not like they show on TV. It's hell to earn a living on a V. D. T,
+Well you don't know my name but you sure know me, I work in New York, Boston, and D,C. I used to be a typist, a secretary, But now 1 enter data on a V. D. T.\* I tell you it's not like they show on TV. It's hell to earn a living on a V. D. T,
 
-You won't hear me say that typing was fun, But at least <sup>I</sup> could see the work that I'd done. And the boss couldn't test my productivity By punching up my number on his V. D. T. <sup>I</sup> swear the screen is staring back at me. It's hell to earn a living on a V. D. T.
+You won't hear me say that typing was fun, But at least I could see the work that I'd done. And the boss couldn't test my productivity By punching up my number on his V. D. T. I swear the screen is staring back at me. It's hell to earn a living on a V. D. T.
 
-My supervisor says it's safe for me, She shows me <sup>a</sup> study done at M. I. T.f You can see what its done to my eyes. Heaven only knows what it's doing inside. <sup>I</sup> tell you it's not like <sup>I</sup> thought it would be, It's hell to earn a living on a V. D. T.
+My supervisor says it's safe for me, She shows me a study done at M. I. T.f You can see what its done to my eyes. Heaven only knows what it's doing inside. I tell you it's not like I thought it would be, It's hell to earn a living on a V. D. T.
 
-When you think of union what comes to your mind, A guy driving <sup>a</sup> truck or working the line. But if you ever spent hours behind a V. D. T, You know no one needs a union more than me. My eyes are aching but now <sup>I</sup> can see, It's hell to earn a living on a V. D. T
+When you think of union what comes to your mind, A guy driving a truck or working the line. But if you ever spent hours behind a V. D. T, You know no one needs a union more than me. My eyes are aching but now I can see, It's hell to earn a living on a V. D. T
 
-- Video Display Terminal <sup>t</sup> Massachusetts Institute of Technology
+- Video Display Terminal t Massachusetts Institute of Technology
 
 ## O 1!NW Tom Juravich
 
@@ -2111,7 +2447,7 @@ Words by Paul Mc Kenna, U. S. A. Tune: "Oh! Susanna" by Stephen Foster. First ap
 
 ## ![](_page_39_Figure_19.jpeg)
 
-Well, now, let me introduce myself, Jack Shyster is my name. I'm <sup>a</sup> management consultant; union busting is my game. I'm a master of the con job, I'm an expert at the hoax; and <sup>I</sup> make my living stealing bread from the mouths of working folks.
+Well, now, let me introduce myself, Jack Shyster is my name. I'm a management consultant; union busting is my game. I'm a master of the con job, I'm an expert at the hoax; and I make my living stealing bread from the mouths of working folks.
 
 ## Chorus
 
@@ -2119,9 +2455,9 @@ I'm a union buster, the bosses' trusty aide. I help keep their employees overwor
 
 In the old days we used gun thugs, we used ginks and finks and goons. Nowadays we use fancy words, but sing the same old tune -- Pitting folks against each other, spreading hatred, fear, and lies; Cutting down the hopes of workers who rise up to organize.
 
-There's no tactic <sup>I</sup> won't stoop to, there's no trick <sup>I</sup> haven't tried, To manipulate the workers and to keep them petrified. Texas Instruments, Mc Donald's, Litton Industries, Coors beer, I'm the one that they depend on to maintain their reign of fear.
+There's no tactic I won't stoop to, there's no trick I haven't tried, To manipulate the workers and to keep them petrified. Texas Instruments, Mc Donald's, Litton Industries, Coors beer, I'm the one that they depend on to maintain their reign of fear.
 
-Jack London tells the story: God was working in his lab, And with some hateful substance he made my good friend, the scab. Well, he gave some of that awful stuff a graduate degree; He dressed it in <sup>a</sup> three-piece suit, and that's how he made me.
+Jack London tells the story: God was working in his lab, And with some hateful substance he made my good friend, the scab. Well, he gave some of that awful stuff a graduate degree; He dressed it in a three-piece suit, and that's how he made me.
 
 ## O 1913. Put Mc Kcnni
 
@@ -2274,7 +2610,7 @@ Words by Joe Hill, U. S. A.
 
 ## ![](_page_42_Figure_2.jpeg)
 
-When <sup>I</sup> was hiking 'round the town to find a job one day, <sup>I</sup> saw a sign, "A thousand fools are wanted right away, To take a trip around the world in Uncle Sammy's fleet" <sup>I</sup> signed my name <sup>a</sup> dozen times upon <sup>a</sup> great big sheet.
+When I was hiking 'round the town to find a job one day, I saw a sign, "A thousand fools are wanted right away, To take a trip around the world in Uncle Sammy's fleet" I signed my name a dozen times upon a great big sheet.
 
 #### Chorus
 
@@ -2282,7 +2618,7 @@ Stung right, stung right, S-T-U-N-G. Stung right, stung right, E-Z mark that's m
 
 The recruiter said, "The U. S. fleet, that is no place for slaves. The only thing you have to do is stand and watch the waves." But in the morning, five o'clock, they woke me from my snooze To scrub the deck and polish brass and shine the captain's shoes.
 
-One day <sup>a</sup> dude in uniform to me commenced to shout. <sup>I</sup> simply plugged him in the jaw and knocked him down and out. They slammed me right then in irons and said "You are a case." On bread and water then <sup>I</sup> lived for twenty-seven days.
+One day a dude in uniform to me commenced to shout. I simply plugged him in the jaw and knocked him down and out. They slammed me right then in irons and said "You are a case." On bread and water then I lived for twenty-seven days.
 
 One day the captain said, 'Today I'll show you something nice; All hands line up, we'll go ashore and have some exercises." He made us run for seven miles as fast as we could run And with a packing on our back that weighed half a ton.
 
@@ -2290,7 +2626,7 @@ Some time ago when Uncle Sammy had a war with Spain. And many of the boys in blu
 
 ## Answer to Prayer (Recitation)
 
-<sup>I</sup> am happy to say that this prayer has been Answered - by the "old man" himself. He tells me he has furnished plenty for all. And that if I'm not getting mine It's because I'm not organized Sufficiently to force The master to loosen up.
+I am happy to say that this prayer has been Answered - by the "old man" himself. He tells me he has furnished plenty for all. And that if I'm not getting mine It's because I'm not organized Sufficiently to force The master to loosen up.
 
 He tells me He has no knowledge Of "dogs," pressed beef butts, etc. And that they are probably Products of the Devil.
 
@@ -2541,7 +2877,7 @@ If we let the bosses divide us, We'll all end up getting the screw. So let's org
 
 So let's organize all the workers In one big world-wide union true. And then we can tell all the bosses, From now on it's "Us versus You."
 
-This song ww written in <sup>1992</sup> in solidarity with the workers at the Phillip\*- Vsn Heusen shift -making plants in Guatemala who were struggling to unionize.
+This song ww written in 1992 in solidarity with the workers at the Phillip\*- Vsn Heusen shift -making plants in Guatemala who were struggling to unionize.
 
 # Popular Wobbly
 
@@ -2549,17 +2885,17 @@ Words by T-Bone SUM [V. Huhta], V,Sji. Taut: They Go Wild, Simply Wild, Ortr Me.
 
 ## ![](_page_47_Figure_12.jpeg)
 
-I'm as mild mannered as <sup>I</sup>can be. And I've never done them harm that <sup>I</sup> can see; Still on me they put a ban and they threw me inthe can, They go wild, simply wild, over me.
+I'm as mild mannered as Ican be. And I've never done them harm that I can see; Still on me they put a ban and they threw me inthe can, They go wild, simply wild, over me.
 
-They accuse me of rascality, But <sup>I</sup> can't see why they always pick oh me; I'm as gentle as <sup>a</sup> lamb, but they take me for a ram, They go wild, simply wild, over me.
+They accuse me of rascality, But I can't see why they always pick oh me; I'm as gentle as a lamb, but they take me for a ram, They go wild, simply wild, over me.
 
 Oh the "bull" he went wild over me, \* And he held his gun where everyone could see; He was breathing rather hard when he saw my union card. He went wild, simply wild, over me.
 
-Then the judge, he went wild over me. And <sup>I</sup> plainly saw we never could agree; So <sup>I</sup> let the man obey what his conscience had to say, He went wild, simply wild, over me.
+Then the judge, he went wild over me. And I plainly saw we never could agree; So I let the man obey what his conscience had to say, He went wild, simply wild, over me.
 
-Oh the jailer, he went wild over me. And he locked me up and threw away the key; It seems to be the rage, so they keep me in<sup>a</sup> cage, They go wild, simply wild, over me.
+Oh the jailer, he went wild over me. And he locked me up and threw away the key; It seems to be the rage, so they keep me ina cage, They go wild, simply wild, over me.
 
-They go wild, simply wild, over me, I'm referring to the bedbug and the flea; They disturb my slumber deep, and <sup>I</sup> murmur in my sleep. They go wild, simply wild, over me.
+They go wild, simply wild, over me, I'm referring to the bedbug and the flea; They disturb my slumber deep, and I murmur in my sleep. They go wild, simply wild, over me.
 
 Will the roses grow wild over me, When I'm gone into the land that is to be? When my soul and body part, in the stillness of my heart, Will the roses grow wild over me?
 

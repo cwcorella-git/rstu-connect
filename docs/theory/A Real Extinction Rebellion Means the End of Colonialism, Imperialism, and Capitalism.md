@@ -1,3 +1,8 @@
+---
+title: "## **A Real Extinction Rebellion Means the End of Colonialism, Imperialism, and Capitalism**"
+category: "theory"
+---
+
 ## **A Real Extinction Rebellion Means the End of Colonialism, Imperialism, and Capitalism**
 
 ## **Date:** Wed, 09/25/2019 - 20:06

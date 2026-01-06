@@ -1,10 +1,8 @@
 ---
-title: ''
-date: 2025
-author: Unknown
-tags:
-  - organizing
+title: "Moving emotional labor beyond surface and deep acting"
+author: "Unknown"
+date: "2025"
+category: "labor"
 ---
 
-# 
-
+#

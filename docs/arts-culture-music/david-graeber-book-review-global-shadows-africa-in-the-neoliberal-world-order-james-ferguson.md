@@ -1,30 +1,8 @@
 ---
-title: >-
-  Book review: <em>Global Shadows: Africa in the Neoliberal World Order.</em>
-  James Ferguson
-author: David Graeber
-date: '2007'
-pubdate: '2021-11-28T23:03:05'
-language: en
-source_url: >-
-  Retrieved on 28<sup>th</sup> November 2021 from
-  [[https://www.journals.uchicago.edu/doi/10.1086/jar.63.3.20479440][www.journals.uchicago.edu]]
-notes: >-
-  Published in the <em>Journal of Anthropological Research</em>, 63(3),
-  418–419.<em></em> doi:10.1086/jar.63.3.20479440 | See also: David Graeber
-  Institute [[https://davidgraeber.institute/]] & [[https://davidgraeber.org/]]
-topics:
-  - book review
-  - anthropology
-  - Africa
-  - neoliberalism
-original_format: muse
-converted_date: '2025-11-08T11:25:03.054348'
-tags:
-  - Book Review
-  - Anthropology
-  - Africa
-  - Neoliberalism
+title: ">-"
+author: "David Graeber"
+date: "2007"
+category: "arts-culture-music"
 ---
 
 **Global Shadows: Africa in the Neoliberal World Order.** James Ferguson. Durham: Duke University Press, 2006, 257 pp. $21.95
@@ -39,6 +17,5 @@ Ferguson has the admirable quality of being able to write things that seem utter
 
 **Reference cited**
 
-<biblio>
+
 Ferguson, James. 1994. *The anti-politics machine: “Development, “ depoliticization, and bureaucratic power in Lesotho.* Minneapolis: University of Minnesota Pr
-</biblio>

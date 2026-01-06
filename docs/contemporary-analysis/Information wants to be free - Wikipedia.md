@@ -1,3 +1,8 @@
+---
+title: "Information wants to be free"
+category: "contemporary-analysis"
+---
+
 [en.m.wikipedia.org](https://en.m.wikipedia.org/wiki/Information_wants_to_be_free)
 
 # Information wants to be free

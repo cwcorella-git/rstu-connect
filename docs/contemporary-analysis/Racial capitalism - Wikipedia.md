@@ -1,3 +1,8 @@
+---
+title: "**Racial capitalism**"
+category: "contemporary-analysis"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Racial_capitalism#)
 
 # **Racial capitalism**

@@ -1,27 +1,8 @@
 ---
-title: 'Occupy’s liberation from liberalism: the real meaning of May Day'
-author: David Graeber
-date: 7<sup>th</sup> May 2012
-language: en
-source_url: >-
-  Retrieved on 3<sup>rd</sup> September 2020 from
-  https://www.theguardian.com/commentisfree/cifamerica/2012/may/07/occupy-liberation-from-liberalism
-topics:
-  - Occupy
-  - May Day
-  - USA
-  - New York City
-  - Occupy Wall Street
-  - protest
-original_format: muse
-converted_date: '2025-11-08T11:25:03.154883'
-tags:
-  - Occupy
-  - May Day
-  - USA
-  - New York City
-  - Occupy Wall Street
-  - Protest
+title: "Occupy’s liberation from liberalism: the real meaning of May Day"
+author: "David Graeber"
+date: "7<sup>th</sup> May 2012"
+category: "contemporary-analysis"
 ---
 
 The US press seems to have decided that the Occupy movement is no longer a story. Pretty much no matter what we do. In New York, on May Day, something between 50,000 and 100,000 people marched through the streets – we don’t know the exact numbers because most papers didn’t report the event at all, and therefore, didn’t bother to make estimates. In California, there were blockades and walkouts. In Seattle, one band of protestors relived the famous Black Bloc actions of November 1999, smashing many of the same corporate windows – and even that didn’t make national news!

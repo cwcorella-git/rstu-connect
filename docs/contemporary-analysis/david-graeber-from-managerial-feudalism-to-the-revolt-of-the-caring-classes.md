@@ -1,29 +1,8 @@
 ---
-title: From Managerial Feudalism to the Revolt of the Caring Classes
-author: David Graeber
-date: 'December 27, 2019'
-pubdate: '2021-11-28T19:17:13'
-language: en
-source_url: >-
-  Retrieved on 28<sup>th</sup> November 2021 from
-  [[https://davidgraeber.org/articles/from-managerial-feudalism-to-the-revolt-of-the-caring-classes/][davidgraeber.org]]
-notes: >-
-  Presented by David Graeber at the 36<sup>th</sup> Chaos Communication Congress
-  on 12/27/2019. Transcribed by Yash Lad.
-topics:
-  - speech
-  - feudalism
-  - management
-  - United Kingdom
-  - economics
-original_format: muse
-converted_date: '2025-11-08T11:25:03.135966'
-tags:
-  - Speech
-  - Feudalism
-  - Management
-  - United Kingdom
-  - Economics
+title: "From Managerial Feudalism to the Revolt of the Caring Classes"
+author: "David Graeber"
+date: "December 27, 2019"
+category: "contemporary-analysis"
 ---
 
 I’ve been in a very bad mood this last week, owing to the results of the election in the UK, and I’ve been thinking very hard about what happened and how to maintain hope.
@@ -142,7 +121,7 @@ There is a split between the sort of labor union base—which is increasingly un
 
 Now, Brexit was a perfect issue to make the bureaucrats and the administrators and the professionals into the class enemy. Now, it’s very ironic because of course, in the long run, the people who’re really going to benefit from Brexit are precisely lawyers, because they got to rewrite everything in England. However, this is not how it was represented. Besides the obvious appeal to racism, it was represented as “your enemies are these distant bureaucrats who know nothing of your lives”.
 
-Where essentially the Tories managed to outmaneuver Labor and guarantee their victory was precisely by forcing Labor into an alliance with all the people like the Liberal Democrats and the other Remainers, who then used this incredibly complicated constitutional means to try to block Brexit from happening. It was fun to watch at the time on TV. We were all transfixed with all these guys in wigs and strange people called Black Rod and you know…in odd costumes, appealing to all sorts of arcane rules from the 16<sup>th</sup> century. It was like a great costume drama come to life on television.
+Where essentially the Tories managed to outmaneuver Labor and guarantee their victory was precisely by forcing Labor into an alliance with all the people like the Liberal Democrats and the other Remainers, who then used this incredibly complicated constitutional means to try to block Brexit from happening. It was fun to watch at the time on TV. We were all transfixed with all these guys in wigs and strange people called Black Rod and you know…in odd costumes, appealing to all sorts of arcane rules from the 16th century. It was like a great costume drama come to life on television.
 
 It seemed like Boris Johnson was just being constantly humiliated. Everything he did didn’t work. His plans collapsed. He lost every vote he tried. But in fact, what it ended up doing was it forced what was actually a radical party which represented the UK’s angry youth into an alliance with the professional-managerials who live by rules, whose entire idea of democracy is of a set of rules.
 
@@ -208,7 +187,7 @@ I could talk for an hour about the dynamics, but that’s basically it. You coul
 
 So, I think we need to actually look at what’s really going on in a hospital or in a school. I use hospitals and schools as examples, but they’re very important ones, because people have shown that in most cities in America, hospitals and schools are now the two largest employers. Essentially, work has been reorganized around working on the bodies and minds of other people rather than producing objects. You can’t use traditional Marxist analysis to understand the class relations in those institutions. You need to actually reimagine what it would mean. Are we talking about the production of people? If so, what are the class dynamics involved in that? Is production the term *at all?* Probably not. Why not?
 
-That’s why I say that we need to reconstitute the language in which we’re using to describe this, because we’re essentially using 19<sup>th</sup> century terminology to discuss 21<sup>st</sup> century problems. And *both* sides are doing that. The right wing is using neoclassical economics, which is basically Victorian. It’s trying to solve problems that no longer exist. But the left is using a 19<sup>th</sup> century Marxist critique of that, which also doesn’t apply. We just need new terms.
+That’s why I say that we need to reconstitute the language in which we’re using to describe this, because we’re essentially using 19th century terminology to discuss 21st century problems. And *both* sides are doing that. The right wing is using neoclassical economics, which is basically Victorian. It’s trying to solve problems that no longer exist. But the left is using a 19th century Marxist critique of that, which also doesn’t apply. We just need new terms.
 
 **Audience 3:** So, the question is basically to what extent can technology help? The subtext here is there’s actually really lots of projects now whose function at some level is to automate management, and to the extent to which that can be molded into removing this [professional-managerial] class that you’re talking about, or somehow making it too painful for them to exist. Some of these projects are companies, but some of them are very independent things that have very sophomoric ideas but with tens of millions in funding.
 

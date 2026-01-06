@@ -1,3 +1,8 @@
+---
+title: "## **Get mad and get even**"
+category: "contemporary-analysis"
+---
+
 ## **Get mad and get even**
 
 ## **Date:** Unknown

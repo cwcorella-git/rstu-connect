@@ -1,3 +1,8 @@
+---
+title: "## **School for Syndicalism - Tom Brown**"
+category: "youth-student-organizing"
+---
+
 ## **School for Syndicalism - Tom Brown**
 
 ## **Date:** Unknown

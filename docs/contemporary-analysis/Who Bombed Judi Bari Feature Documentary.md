@@ -1,3 +1,8 @@
+---
+title: "## **Who Bombed Judi Bari? Feature Documentary**"
+category: "contemporary-analysis"
+---
+
 ## **Who Bombed Judi Bari? Feature Documentary**
 
 ## **Date:** Tue, 02/07/2017 - 16:03

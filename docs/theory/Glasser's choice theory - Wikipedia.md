@@ -1,3 +1,8 @@
+---
+title: "**Glasser's choice theory**"
+category: "theory"
+---
+
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Glasser%27s_choice_theory)
 
 # **Glasser's choice theory**
@@ -29,8 +34,8 @@ Survival needs include:
 - personal safety
 - security and sex, having children
 And four fundamental psychological needs:
-- Belonging/connecting/<u>love</u>
-- <a href="Power/significance/competence">Power/significance/competence</a>
+- Belonging/connecting/love
+- Power/significance/competence
 - Freedom/autonomy
 - Fun/learning
 

@@ -1,13 +1,8 @@
 ---
-title: The Iww Is Making Labour Anti Fascist Again Miriam Lafontaine
-date: 2025
-author: Industrial Workers of the World
-tags:
-  - organizing
-  - unions
-  - rent
-  - labor
-  - anarchism
+title: "The Iww Is Making Labour Anti Fascist Again Miriam Lafontaine"
+author: "Industrial Workers of the World"
+date: "2025"
+category: "labor"
 ---
 
 # The Iww Is Making Labour Anti Fascist Again Miriam Lafontaine

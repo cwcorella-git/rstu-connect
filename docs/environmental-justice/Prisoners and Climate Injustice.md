@@ -1,3 +1,8 @@
+---
+title: "## **Prisoners and Climate Injustice**"
+category: "environmental-justice"
+---
+
 ## **Prisoners and Climate Injustice**
 
 ## **Date:** Fri, 08/11/2017 - 16:49
@@ -33,8 +38,11 @@ As our movement focuses more on the local and state level and we encourage our e
 | America's Toxic Prisons: The Environmental Injustices of Mass Incarceration |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | http://billmoyers.com/story/environmental-injustices-mass-incarceration/|
-| A third of the world's people already face deadly heat waves. It could be nearly three-quarters<br>by 2100 |
-| https://www.washingtonpost.com/news/energy-environment/wp/2017/06/19/a-third-of-the-worl<br>d-already-faces-deadly-heat-waves-it-could-be-nearly-three-quarters-by-2100/?utm_term=.c7<br>56534eec9c |
+| A third of the world's people already face deadly heat waves. It could be nearly three-quarters
+by 2100 |
+| https://www.washingtonpost.com/news/energy-environment/wp/2017/06/19/a-third-of-the-worl
+d-already-faces-deadly-heat-waves-it-could-be-nearly-three-quarters-by-2100/?utm_term=.c7
+56534eec9c |
 | Inmates Left to Rot in 120-Degree Heat |
 | http://www.thedailybeast.com/inmates-left-to-rot-in-120-degree-heat|
 | Race Best Predicts Whether You Live Near Pollution |

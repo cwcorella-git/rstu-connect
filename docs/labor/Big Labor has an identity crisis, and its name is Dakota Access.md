@@ -1,3 +1,8 @@
+---
+title: "## **Big Labor has an identity crisis, and its name is Dakota Access**"
+category: "labor"
+---
+
 ## **Big Labor has an identity crisis, and its name is Dakota Access**
 
 ## **Date:** Wed, 09/28/2016 - 19:05
@@ -20,7 +25,8 @@ That move rankled many in the AFL-CIO's more progressive wing, highlighting stra
 
 Grist interviewed five staffers at the AFL-CIO and its affiliated unions on the condition of anonymity because they weren't authorized to speak to the press. Trumka's public support for
 
-| the pipeline caught these senior-level and mid-level staffers by surprise, they told Grist —<br>especially because he had recently taken progressive positions on |
+| the pipeline caught these senior-level and mid-level staffers by surprise, they told Grist —
+especially because he had recently taken progressive positions on |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Black Lives Matter |
 | , |
@@ -28,11 +34,16 @@ Grist interviewed five staffers at the AFL-CIO and its affiliated unions on the 
 | , and |
 | criminal justice |
 | |
-| A call to Trumka's office was not returned. The federation's policy director, Damon Silvers,<br>who is said to have helped write the statement, also did not respond to an interview request. |
-| Union opponents of the pipeline project and their advocates quickly responded on social<br>media with satire. One post on Twitter likened Trumka's position to helping the wrong side in<br>Star Wars. |
+| A call to Trumka's office was not returned. The federation's policy director, Damon Silvers,
+who is said to have helped write the statement, also did not respond to an interview request. |
+| Union opponents of the pipeline project and their advocates quickly responded on social
+media with satire. One post on Twitter likened Trumka's position to helping the wrong side in
+Star Wars. |
 | Other frustrated union members and staffers placed calls to |
 | Climate Workers |
-| , an organization of union workers focused on climate justice, to vent. Brooke Anderson, an<br>organizer at the group, says she fielded dozens of calls from members upset about the<br>AFL-CIO's position. |
+| , an organization of union workers focused on climate justice, to vent. Brooke Anderson, an
+organizer at the group, says she fielded dozens of calls from members upset about the
+AFL-CIO's position. |
 
 For those members, Anderson says, working in a federation means more than collecting a wage — it means being part of a broad movement for justice. Anderson says she thought that Trumka's statement undermined efforts by groups like hers to protect the environment and jobs.
 

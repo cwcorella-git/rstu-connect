@@ -1,14 +1,10 @@
 ---
-date: 2025
-author: Carson Now
-tags:
-  - organizing
-  - unions
-  - tenants
-  - housing
-  - rent
 title: "Six ways Nevada policymakers are trying to tackle the housing crisis - Carson Now"
+author: "Carson Now"
+date: "2025"
+category: "housing"
 ---
+
 # Six ways Nevada policymakers are trying to tackle the housing crisis - Carson Now
 
 *Converted from: `./Six ways Nevada policymakers are trying to tackle the housing crisis - Carson Now.pdf`*  
@@ -48,16 +44,11 @@ title: "Six ways Nevada policymakers are trying to tackle the housing crisis - C
 Six ways Nevada policymakers are trying to tackle the ...             https://www.carsonnow.org/04/13/2025/six-ways-nevada...
 
 
-
-
          by
          Sunday, April 13, 2025 - 9:30am
 
 
-
-
    New home construction in northwest Reno on April 7, 2025. Credit: David Calvert/The Nevada Independent
-
 
 
    By Lizzie Ramirez — When Emma Goabel moved into her first apartment, her washer, dryer, dishwasher
@@ -65,8 +56,6 @@ Six ways Nevada policymakers are trying to tackle the ...             https://ww
 
 
    It took a month for the landlord to fix the appliances and replace the locks.
-
-
 
 
 1 of 7                                                                                                       8/7/25, 1:34 PM
@@ -190,8 +179,6 @@ Six ways Nevada policymakers are trying to tackle the ...     https://www.carson
    actively working to make sure that they’re even worse off personally,” NNCLC President Ross Kinson said.
 
 
-
-
 3 of 7                                                                                                  8/7/25, 1:34 PM
 
 ---
@@ -214,10 +201,7 @@ Six ways Nevada policymakers are trying to tackle the ...     https://www.carson
 Six ways Nevada policymakers are trying to tackle the ...              https://www.carsonnow.org/04/13/2025/six-ways-nevada...
 
 
-
-
    Housing for rent in Reno on April 7, 2025. (David Calvert/The Nevada Independent)
-
 
 
    Tightening renter protections
@@ -315,7 +299,6 @@ Six ways Nevada policymakers are trying to tackle the ...    https://www.carsonn
    committee in late March.
 
 
-
 5 of 7                                                                                                8/7/25, 1:34 PM
 
 ---
@@ -379,7 +362,6 @@ Six ways Nevada policymakers are trying to tackle the ...     https://www.carson
    Tackling high interest rates
 
 
-
 6 of 7                                                                                                  8/7/25, 1:34 PM
 
 ---
@@ -435,15 +417,10 @@ Six ways Nevada policymakers are trying to tackle the ...    https://www.carsonn
    Independent. Go here for updates to this and other Nevada Independent stories.
 
 
-
-
    © 2025 Carson Now
    Powered by Newspack
-
-
 
 
 7 of 7                                                                                                 8/7/25, 1:34 PM
 
 ---
-

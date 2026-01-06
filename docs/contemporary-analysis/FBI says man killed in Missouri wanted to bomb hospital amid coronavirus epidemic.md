@@ -1,3 +1,8 @@
+---
+title: "## [nbcnews.com](https://www.nbcnews.com/news/us-news/fbi-says-man-killed-missouri-wanted-bomb-hospi"
+category: "contemporary-analysis"
+---
+
 ## [nbcnews.com](https://www.nbcnews.com/news/us-news/fbi-says-man-killed-missouri-wanted-bomb-hospital-amid-coronavirus-n1169166)
 
 ## **FBI says man killed in Missouri wanted to bomb hospital amid coronavirus epidemic**

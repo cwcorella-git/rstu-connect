@@ -1,3 +1,8 @@
+---
+title: "THE SYSTEM"
+category: "contemporary-analysis"
+---
+
 # THE SYSTEM
 
 ## ![](_page_0_Picture_1.jpeg)
@@ -49,7 +54,7 @@ Subjects: LCSH: Dimon, Jamie. | Democracy—United States. | Oligarchy—United 
 
 Classification: LCC JK275 . R455 2020 (print) | LCC JK275 (ebook) | DDC 322/.30973 dc23
 
-> LC record available at <https://lccn.loc.gov/2019044129> LC ebook record available at <https://lccn.loc.gov/2019044130>
+> LC record available at  LC ebook record available at 
 
 > > Cover art by Justin Metz Cover design by Tyler Comrie
 

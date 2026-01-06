@@ -1,13 +1,8 @@
 ---
-author: Karl Marx
-date: 2025
-title: 'Marx 1844: Rent of Land'
-tags:
-  - housing
-  - tenants
-  - rent
-  - labor
-  - organizing
+title: "Marx 1844: Rent of Land"
+author: "Karl Marx"
+date: "2025"
+category: "housing"
 ---
 
 # Marx 1844_ Rent of Land
@@ -27,12 +22,8 @@ tags:
 ### Extracted Text
 
 
-
-
-
                                                               Karl Marx
                                              Economic and Philosophic Manuscripts of 1844
-
 
 
                                                        Rent of Land
@@ -74,8 +65,6 @@ tags:
 ### Extracted Text
 
 
-
-
                     inhabitants. ||II, 3| But in order to proﬁt by the produce of the water they must have a
                     habitation upon the neighboring land. The rent of the landlord is in proportion, not to what
                     the farmer can make by the land, but to what he can make both by the land and by the
@@ -109,8 +98,6 @@ tags:
                     fertility.” (op. cit., Vol. I, p. 249.)
 
 
-
-
 2 of 15                                                                                                                      7/9/25, 8:31 PM 
 ---
 
@@ -120,8 +107,6 @@ tags:
 ![Page 3 Complete](images/page_003_full.png)
 
 ### Extracted Text
-
-
 
 
                These propositions of Smith are important, because, given equal costs of production and capital of
@@ -157,7 +142,6 @@ tags:
                     advantage he derives from the nature of the case, he derives a further advantage from his
 
 
-
 3 of 15                                                                                                                       7/9/25, 8:31 PM 
 ---
 
@@ -167,8 +151,6 @@ tags:
 ![Page 4 Complete](images/page_004_full.png)
 
 ### Extracted Text
-
-
 
 
                     position, his larger fortune and greater credit and standing. But the ﬁrst by itself suﬀices to
@@ -204,7 +186,6 @@ tags:
                     Vol. I, p. 132)
 
 
-
 4 of 15                                                                                                                       7/9/25, 8:31 PM 
 ---
 
@@ -214,8 +195,6 @@ tags:
 ![Page 5 Complete](images/page_005_full.png)
 
 ### Extracted Text
-
-
 
 
                Food belongs to the products which always yield a rent.
@@ -263,8 +242,6 @@ tags:
 ### Extracted Text
 
 
-
-
                ||VIII, 3| [15] Let us now see how the landlord exploits everything from which society beneﬁts.
 
                (1) The rent of land increases with population. (Adam Smith, op. cit., Vol. I, p. 146.)
@@ -308,8 +285,6 @@ tags:
 ![Page 7 Complete](images/page_007_full.png)
 
 ### Extracted Text
-
-
 
 
                     (4) “All those improvements in the productive powers of labour, which tend directly to
@@ -356,8 +331,6 @@ tags:
 ### Extracted Text
 
 
-
-
                ||XI, 3| (3) As the landlord can demand all the more rent from the tenant farmer the less wages the
                farmer pays, and as the farmer forces down wages all the lower the more rent the landlord demands,
                it follows that the interest of the landlord is just as hostile to that of the farm workers as is that of the
@@ -391,7 +364,6 @@ tags:
                increases its need for ready cash.
 
 
-
 8 of 15                                                                                                                        7/9/25, 8:31 PM 
 ---
 
@@ -401,8 +373,6 @@ tags:
 ![Page 9 Complete](images/page_009_full.png)
 
 ### Extracted Text
-
-
 
 
                (4) Two important laws concerning this competition remain to be considered:
@@ -450,8 +420,6 @@ tags:
 ### Extracted Text
 
 
-
-
                     “After the discovery of the mines of Peru, the silver mines of Europe were, the greater part
                     of them, abandoned.... This was the case, too, with the mines of Cuba and St. Domingo, and
                     even with the ancient mines of Peru, after the discovery of those of Potosi.” (op. cit., Vol. I,
@@ -495,8 +463,6 @@ tags:
 ![Page 11 Complete](images/page_011_full.png)
 
 ### Extracted Text
-
-
 
 
                inevitable and desirable within the realm of private property, of the huckstering of private property
@@ -543,8 +509,6 @@ tags:
 ### Extracted Text
 
 
-
-
                capital, freed of all political tincture; that the relationship between proprietor and worker be reduced
                to the economic relationship of exploiter and exploited; that all [...] personal relationship between the
                proprietor and his property cease, property becoming merely objective, material wealth; that the
@@ -587,8 +551,6 @@ tags:
 ![Page 13 Complete](images/page_013_full.png)
 
 ### Extracted Text
-
-
 
 
                property in the soil altogether. The ﬁrst abolition of monopoly is always its generalization, the
@@ -635,8 +597,6 @@ tags:
 ### Extracted Text
 
 
-
-
                the country on to the other side. It makes the majority of the people of the country industrial and
                thus opponents of large landed property. Where industry has attained to great power, as in England
                at the present time, it progressively forces from large landed property its monopoly against foreign
@@ -681,12 +641,8 @@ tags:
 ### Extracted Text
 
 
-
-
                downfall, just as industry both in the form of monopoly and in that of competition had to ruin itself so
                as to learn to believe in man. |XXI||
-
-
 
 
                                        Preface and Table of Contents | Estranged Labour
@@ -694,8 +650,5 @@ tags:
                                                       Karl Marx Internet Archive
 
 
-
-
 15 of 15                                                                                                                    7/9/25, 8:31 PM 
 ---
-

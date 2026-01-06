@@ -1,3 +1,8 @@
+---
+title: "**Cosmopolitanism**"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 # **Cosmopolitanism**
@@ -14,7 +19,7 @@ The word derives from the [Ancient Greek:](https://en.wikipedia.org/wiki/Ancient
 
 Definitions of cosmopolitanism usually begin with the Greek etymology of "citizen of the world".[\[6\]](#page-10-4) However, as [Appiah](https://en.wikipedia.org/wiki/Kwame_Anthony_Appiah) points out, "world" in the original sense meant "cosmos" or "universe", not earth or globe as current use assumes.[\[7\]](#page-10-5)
 
-[Kleingeld](https://en.wikipedia.org/wiki/Pauline_Kleingeld) and Brown distinguish between moral, political, cultural and economic forms of cosmopolitanism.[\[1\]:](#page-9-0)Section <sup>2</sup> In the [United States,](https://en.wikipedia.org/wiki/United_States) two forms of cosmopolitanism have been established. For one, there is a political [cosmopolitan nationalism](https://en.wikipedia.org/wiki/Cosmopolitan_nationalism) that has defined and constructed other [races](https://en.wikipedia.org/wiki/Race_(biology)). On the other hand, ethno-cultural cosmopolitanism that celebrates [multiculturalism](https://en.wikipedia.org/wiki/Multiculturalism) has benefited from an upswing in the United States after [World War II](https://en.wikipedia.org/wiki/World_War_II). [\[8\]](#page-10-6) A definition of cosmopolitanism that handles this issue is given in a recent (2014) book on political globalization:
+[Kleingeld](https://en.wikipedia.org/wiki/Pauline_Kleingeld) and Brown distinguish between moral, political, cultural and economic forms of cosmopolitanism.[\[1\]:](#page-9-0)Section 2 In the [United States,](https://en.wikipedia.org/wiki/United_States) two forms of cosmopolitanism have been established. For one, there is a political [cosmopolitan nationalism](https://en.wikipedia.org/wiki/Cosmopolitan_nationalism) that has defined and constructed other [races](https://en.wikipedia.org/wiki/Race_(biology)). On the other hand, ethno-cultural cosmopolitanism that celebrates [multiculturalism](https://en.wikipedia.org/wiki/Multiculturalism) has benefited from an upswing in the United States after [World War II](https://en.wikipedia.org/wiki/World_War_II). [\[8\]](#page-10-6) A definition of cosmopolitanism that handles this issue is given in a recent (2014) book on political globalization:
 
 Cosmopolitanism can be defined as a global politics that, firstly, projects a sociality of common political engagement among all human beings across the globe, and, secondly, suggests that this sociality should be either ethically or organizationally privileged over other forms of sociality. [\[9\]](#page-10-7)
 
@@ -241,4 +246,4 @@ In the [German Democratic Republic](https://en.wikipedia.org/wiki/German_Democra
 
 ["Cosmopolitanism" \(https://plato.stanford.edu/entries/cosmopolitanism/\)](https://plato.stanford.edu/entries/cosmopolitanism/) entry by Pauline Kleingeld, Eric Brown in the *[Stanford Encyclopedia of Philosophy](https://en.wikipedia.org/wiki/Stanford_Encyclopedia_of_Philosophy)*
 
-Retrieved from "<https://en.wikipedia.org/w/index.php?title=Cosmopolitanism&oldid=1317816110>"
+Retrieved from ""

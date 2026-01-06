@@ -1,3 +1,8 @@
+---
+title: "## **Indigenous Resistance Deserves Workers' Solidarity**"
+category: "labor"
+---
+
 ## **Indigenous Resistance Deserves Workers' Solidarity**
 
 ## **Date:** Tue, 09/27/2016 - 17:40

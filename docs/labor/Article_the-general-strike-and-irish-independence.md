@@ -1,10 +1,8 @@
 ---
-title: The General Strike And Irish Independence
-date: 2025
-author: Conor Kostick
-tags:
-  - organizing
-  - strikes
+title: "The General Strike And Irish Independence"
+author: "Conor Kostick"
+date: "2025"
+category: "labor"
 ---
 
 # The General Strike And Irish Independence

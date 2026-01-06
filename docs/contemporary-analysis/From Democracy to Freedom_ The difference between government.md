@@ -1,3 +1,8 @@
+---
+title: "What Is Democracy?"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 ## ![](_page_1_Picture_0.jpeg)
@@ -60,7 +65,7 @@ But which people? And what sort of power?
 
 These root words, demos and kratos, suggest two common denominators of all democratic procedures: a way of determining who participates in the decision-making and a way of enforcing decisions. In short, citizenship and policing. These
 
-<sup>\*</sup> For example, Cindy Milstein, in Democracy Is Direct: "Direct democracy . . . is completely at odds with both the state and capitalism."
+\* For example, Cindy Milstein, in Democracy Is Direct: "Direct democracy . . . is completely at odds with both the state and capitalism."
 
 are the essentials of democracy; they are what make it a form of government. Anything short of that is more properly described as anarchy—the absence of government, from the Greek an- "without" and arkhos "ruler."
 
@@ -72,9 +77,9 @@ The division between included and excluded was articulated clearly enough at the
 
 Now let's turn to the other root, kratos. Democracy shares this sufx with aristocracy, autocracy, bureaucracy, plutocracy,
 
-<sup>\*</sup> Some argue that etymologically, demos never meant all people, but only particular social classes. See, for example, Contra la Democracia, published in Spain by the Coordination of Anarchist Groups.
+\* Some argue that etymologically, demos never meant all people, but only particular social classes. See, for example, Contra la Democracia, published in Spain by the Coordination of Anarchist Groups.
 
-<sup>†</sup> Cf. Sarah Song, "The Boundary Problem in Democratic Theory: Why the Demos Should Be Bounded by the State."
+† Cf. Sarah Song, "The Boundary Problem in Democratic Theory: Why the Demos Should Be Bounded by the State."
 
 "There is no contradiction between exercising democracy and legitimate central administrative control according to the well-known balance between centralization and democracy . . . Democracy consolidates relations among people, and its main strength is respect. The strength that stems from democracy assumes a higher degree of adherence in carrying out orders with great accuracy and zeal."
 
@@ -108,7 +113,7 @@ As a form of government, democracy serves to produce a single order out of a cac
 
 In order to accomplish this, every democracy requires a space of legitimate decision-making distinct from the rest of life. This could be a congress in a parliament building, or
 
-<sup>\*</sup> Thomas Medwin's translation.
+\* Thomas Medwin's translation.
 
 # "Can there not be a government in which majorities do not virtually decide right and wrong, but conscience?"
 
@@ -120,7 +125,7 @@ Democracy promises to solve the problem of alienation by incorporating everyone 
 
 How much do you buy into the idea that the democratic process should trump your own conscience and values? Let's try a quick exercise. Imagine yourself in a democratic republic with slaves—say, ancient Athens, or ancient Rome, or the United States of America until the end of 1865. Would you
 
-<sup>\*</sup> http://www.ait.org.tw/infousa/zhtw/DOCS/whatsdem/whatdm4.htm, a site produced and maintaine d by the US Department of State's Bureau of International Information Programs.
+\* http://www.ait.org.tw/infousa/zhtw/DOCS/whatsdem/whatdm4.htm, a site produced and maintaine d by the US Department of State's Bureau of International Information Programs.
 
 obey the law and treat people as property while endeavoring to change the laws, knowing full well that whole generations might live and die in chains in the meantime? Or would you act according to your conscience in deance of the law, like Harriet Tubman and John Brown?
 
@@ -154,9 +159,9 @@ The idea that democratic institutions could protect the rights of individuals se
 
 But instead of thinking of liberty as a zero-sum game to be regulated by the state, what if we imagine it as something cumulative? Where others accept tyranny, we must live under it as well; but when they stand up to it, they create opportunities for us to do the same. If we understand freedom as a collectively produced relationship to our potential rather than a static bubble of private rights, being free is not simply a question of being protected by the authorities, but the project of creating open-ended spaces of possibility. In that view, the freedom of one person adds to the freedom of all,† whereas the more that coercive force is centralized, the less freedom there is for anyone.
 
-<sup>\*</sup> See Walter E. Williams, "Democracy or a Republic."
+\* See Walter E. Williams, "Democracy or a Republic."
 
-<sup>† &</sup>quot;I am truly free only when all human beings, men and women, are equally free. The freedom of others, far from negating or limiting my freedom, is, on the contrary, its necessary premise and conrmation." –Mikhail Bakunin
+† &quot;I am truly free only when all human beings, men and women, are equally free. The freedom of others, far from negating or limiting my freedom, is, on the contrary, its necessary premise and conrmation." –Mikhail Bakunin
 
 # The Consent of the Governed
 
@@ -166,9 +171,9 @@ But instead of thinking of liberty as a zero-sum game to be regulated by the sta
 
 Article 21 of the United Nations' 1948 Universal Declaration of Human Rights states that "The will of the people shall be the basis of the authority of government." Governments derive their legitimacy "from the consent of the governed," reads the Declaration of Independence. But how do we determine whether the governed have given their consent?\*†
 
-<sup>\* &</sup>quot;The instant a people gives itself representatives, it ceases to be free." – Jean-Jacques Rousseau, Of the Social Contract
+\* &quot;The instant a people gives itself representatives, it ceases to be free." – Jean-Jacques Rousseau, Of the Social Contract
 
-<sup>†</sup> Movements that emphasize physical presence in public space, such as Occupy Wall Street, share this priority with Nazis like Carl Schmitt, chief jurist of Hitler's regime in Germany. This is the oldest form of democracy—Spartan rather than Athenian—in which the masses legitimize a movement or ruling party as representative by acclaiming it in person, rather than through elections.
+† Movements that emphasize physical presence in public space, such as Occupy Wall Street, share this priority with Nazis like Carl Schmitt, chief jurist of Hitler's regime in Germany. This is the oldest form of democracy—Spartan rather than Athenian—in which the masses legitimize a movement or ruling party as representative by acclaiming it in person, rather than through elections.
 
 Let's start with the most egregious cases. Today well over a billion people live in explicitly authoritarian regimes that nonetheless proclaim themselves democratic. We can begin by identifying what common denominators these self-described democracies share with governments like the one that prevails in the United States.
 
@@ -190,7 +195,7 @@ And if people may choose a government by shouting or popular violence, it is not
 
 This is a problem if you consider governments to derive their legitimacy from the consent of the governed. For that claim to hold water, it must be easy enough to topple the entire apparatus of the state that any majority might do it without great inconvenience. Real freedom is not just a question of how much participation we are offered within a given structure, but of how freely we may change it.
 
-<sup>\*</sup> See "Remarks by the President on Egypt," February 11, 2011. One might object that the American, French, and Egyptian revolutions are considered "democratic" not because they represented the people choosing a new form of government, but because they set up the conditions for elections to be properly conducted. Yet we are still in the habit of regarding these revolutions as representing "the will of the people" in some form—or else whence comes the legitimacy of the electoral processes they instituted?
+\* See "Remarks by the President on Egypt," February 11, 2011. One might object that the American, French, and Egyptian revolutions are considered "democratic" not because they represented the people choosing a new form of government, but because they set up the conditions for elections to be properly conducted. Yet we are still in the habit of regarding these revolutions as representing "the will of the people" in some form—or else whence comes the legitimacy of the electoral processes they instituted?
 
 # The Original Democracy
 
@@ -218,13 +223,13 @@ Democracy is still premised on this division. As long as there is a political di
 
 ‡ Cf. Frank B. Wilderson, III, "The Prison Slave as Hegemony's (Silent) Scandal."
 
-<sup>\*</sup> For more on this subject, consult Angela Mitropoulos's *Contract and Contagion: From Biopolitics to Oikonomia*.
+\* For more on this subject, consult Angela Mitropoulos's *Contract and Contagion: From Biopolitics to Oikonomia*.
 
 Fortunately, ancient Athens is not the only reference point for egalitarian decision-making. A cursory survey of other societies reveals plenty of other examples, many of which are not predicated on exclusivity or coercion. But should we understand these as democracies, too?
 
 In his Fragments of an Anarchist Anthropology, David Graeber takes his colleagues to task for identifying Athens as the origin of democracy; he surmises that the Six Nations, Amazigh, Sulawezi, or Tallensi models do not receive as much attention simply because none of them center around voting. On one hand, Graeber is right to direct our attention to societies that focus on building consensus rather than practicing coercion: many of these embody the best values associated with democracy much more than ancient Athens did. On the other hand, it doesn't make sense for us to label these examples truly democratic while challenging the democratic credentials of the Greeks who invented the term. This is still ethnocentricism: afrming the value of non-Western examples by granting them honorary status in our own admittedly inferior Western paradigm.\* Instead, let's concede that democracy, as a specic historical practice dating from Sparta and Athens and emulated worldwide, has not lived up to the standard set by many of these other societies, and it does not make sense to describe them as democratic. It would be more responsible, and more precise, to describe and honor them in their own terms.
 
-<sup>\*</sup> Some of this confusion comes of Graeber simply equating democracy with "processes of egalitarian decision-making," as he does in his essay "There Never Was a West." Graeber acknowledges in passing that the tradition dating back to Greece is distinguished from the other examples of egalitarian decision-making he cites by the centrality of voting, but he doesn't follow up on this difference. Consequently, he arrives at a paradox: "For the last two hundred years, democrats have been trying to graft ideals of popular selfgovernance onto the coercive apparatus of the state. In the end, the project is simply unworkable. States cannot, by their nature, ever truly be democratized." But ancient Athens was also a state, and no less fundamentally coercive than the democracies of today. The problem is not that, as Graeber argues, "The democratic state was always a contradiction," but that Graeber has not resolved the contradictions in his own political taxonomy.
+\* Some of this confusion comes of Graeber simply equating democracy with "processes of egalitarian decision-making," as he does in his essay "There Never Was a West." Graeber acknowledges in passing that the tradition dating back to Greece is distinguished from the other examples of egalitarian decision-making he cites by the centrality of voting, but he doesn't follow up on this difference. Consequently, he arrives at a paradox: "For the last two hundred years, democrats have been trying to graft ideals of popular selfgovernance onto the coercive apparatus of the state. In the end, the project is simply unworkable. States cannot, by their nature, ever truly be democratized." But ancient Athens was also a state, and no less fundamentally coercive than the democracies of today. The problem is not that, as Graeber argues, "The democratic state was always a contradiction," but that Graeber has not resolved the contradictions in his own political taxonomy.
 
 That leaves us with Athens as the original democracy, after all. What if Athens became so inuential not because of how free it was, but because of how it harnessed participatory politics to the power of the state? At the time, most societies throughout human history had been stateless; some were hierarchical, others were horizontal, but no stateless society had the centralized power of kratos. The states that existed, by contrast, were hardly egalitarian. The Athenians innovated a hybrid format in which horizontality coincided with exclusion and coercion. If you take it for granted that the state is desirable or at least inevitable, this sounds appealing. But if the state is the root of the problem, then the slavery and patriarchy of ancient Athens were not early irregularities in the democratic model, but indications of the power imbalances coded into its DNA from the beginning.
 
@@ -238,7 +243,7 @@ The Roman Republic came to an end when Julius Caesar seized power; from then on,
 
 Fast-forward eighteen centuries to the American Revolution. Outraged about "taxation without representation," North American subjects of the British Empire rebelled and established a representative democracy of their own, soon complete with a Roman-style Senate. Yet once again, the function of the state remained unchanged. Those who had fought to throw off the king discovered that taxation with representation was little different. The result was a series of uprisings including Shay's Rebellion (1786-87), the Whisky Rebellion (1794), and Fries's Rebellion (1799-1800), all of which were brutally suppressed. The new democratic government succeeded in pacifying the
 
-<sup>\*</sup> This is a fundamental paradox of democratic governments: established by a crime, they sanctify law—legitimizing a new ruling order as the fulfillment and continuation of a revolt.
+\* This is a fundamental paradox of democratic governments: established by a crime, they sanctify law—legitimizing a new ruling order as the fulfillment and continuation of a revolt.
 
 "Those persons who believe in the sharpest distinction between democracy and monarchy can scarcely appreciate how a political institution may go through so many transformations and yet remain the same. Yet a swift glance must show us that in all the evolution of the English monarchy, with all its broadenings and its revolutions, and even with its jump across the sea into a colony which became an independent nation and then a powerful State, the same State functions and attitudes have been preserved essentially unchanged."
 
@@ -306,7 +311,7 @@ But what does that mean, exactly? Does it mean regular referendums, like the one
 
 On one hand, if direct democracy is just a more participatory and time-consuming way to pilot the state, it might offer us more say in the details of government, but it will preserve the centralization of power that is inherent in it. There is a problem of scale here: can we imagine 219 million eligible voters directly conducting the activities of the US government? The conventional answer is that local assemblies would send representatives to regional assemblies, which in turn would send representatives to a national assembly—but there, already, we are speaking about representative democracy again. At best, in place of periodically electing representatives, we can picture a ceaseless series of referendums decreed from on high.
 
-<sup>\*</sup> In June 2016, Britain voted in a referendum to exit the European Union. Hailed by nationalists as a triumph for direct democracy, this inspired the far-right parties of the Netherlands and Germany to add regular referendums to their party platforms.
+\* In June 2016, Britain voted in a referendum to exit the European Union. Hailed by nationalists as a triumph for direct democracy, this inspired the far-right parties of the Netherlands and Germany to add regular referendums to their party platforms.
 
 One of the most robust versions of that vision is digital democracy, or e-democracy, promoted by the various Pirate Parties. In theory, we can imagine a population linked through digital technology, making all the decisions regarding their society via majority vote in real time. In such an order, majoritarian government would gain a practically irresistible legitimacy; yet the greatest power would likely be concentrated in the hands of the technocrats who administered the system. Coding the algorithms that determined which information and which questions came to the fore, they would shape the conceptual frameworks of the participants a thousand times more invasively than election-year advertising does today.
 
@@ -368,7 +373,7 @@ At the furthest extreme of this logic, majority rule would mean rule by consensu
 
 † In fact, the English word "police" is derived from polis by way of the ancient Greek word for citizen.
 
-<sup>\*</sup> In theory, categories that are dened by exclusion, like citizenship, break down when we expand them to include the whole world. But if we wish to break them down, why not reject them outright, rather than promising to do so while further legitimizing them? When we use the word citizenship to describe something desirable, that can't help but reinforce the legitimacy of that institution as it exists today.
+\* In theory, categories that are dened by exclusion, like citizenship, break down when we expand them to include the whole world. But if we wish to break them down, why not reject them outright, rather than promising to do so while further legitimizing them? When we use the word citizenship to describe something desirable, that can't help but reinforce the legitimacy of that institution as it exists today.
 
 ## ![](_page_45_Picture_0.jpeg)
 
@@ -388,7 +393,7 @@ Perhaps the answer is that the structures of decisionmaking must be decentralize
 
 From one perspective, this is a question of emphasis. Is our goal to produce the ideal institutions, rendering them
 
-<sup>\*</sup> See Kant's argument in Der Streit der Fakultäten that a republic is "violence with freedom and law," whereas anarchy is "freedom and law without violence"—the law becomes a mere recommendation that cannot be enforced.
+\* See Kant's argument in Der Streit der Fakultäten that a republic is "violence with freedom and law," whereas anarchy is "freedom and law without violence"—the law becomes a mere recommendation that cannot be enforced.
 
 as horizontal and participatory as possible but deferring to them as the ultimate foundation of authority? Or is our goal to maximize freedom, in which case any particular institution we create is subordinate to liberty and therefore dispensable? Once more—what is more legitimate, our institutions or the needs and desires they exist to fulll?
 
@@ -408,7 +413,7 @@ We often hear arguments for democracy on the grounds that, as the most inclusive
 
 In The Abolition of White Democracy, the late Joel Olson presents a compelling critique of what he calls "white democracy"—the concentration of democratic political power in white hands by means of a cross-class alliance among those granted white privilege. But he takes for granted that democracy is the most desirable system, assuming that white supremacy is an incidental obstacle to its functioning rather than a consequence thereof. If democracy is the ideal form of egalitarian relations, why has it been implicated in structural racism\* for practically its entire existence?
 
-<sup>\*</sup> See, for example, the second chapter of Kendra A. King's African American Politics.
+\* See, for example, the second chapter of Kendra A. King's African American Politics.
 
 Where politics is constructed as a zero-sum competition, those who hold power will be loath to share it with others. Consider the men who opposed universal suffrage and the white people who opposed the extension of voting rights to people of color: the structures of democracy did not discourage their bigotry, but gave them an incentive to institutionalize it.
 
@@ -418,7 +423,7 @@ So the political dimension of white supremacy isn't just a consequence of racial
 
 There are no easy xes for this problem. Reformers often speak about making our political system more "democratic," by which they mean more inclusive and egalitarian. Yet when their reforms are realized in a way that legitimizes and strengthens the institutions of government, this only puts more weight behind those institutions when they strike at the targeted and marginalized—witness the mass incarceration of black people since the civil rights movement. Malcolm X and other advocates of black separatism were right that a white-founded democracy would never offer freedom to black people—not
 
-<sup>\*</sup> E.g., Bakunin's critique of the Marxist theory of the state in God and the State.
+\* E.g., Bakunin's critique of the Marxist theory of the state in God and the State.
 
 "By erecting a slave society, America created the economic foundation for its great experiment in democracy . . . America's indispensable working class existed as property beyond the realm of politics, leaving white Americans free to trumpet their love of freedom and democratic values."
 
@@ -458,7 +463,7 @@ There are two ways to respond to male domination of the political sphere. The rs
 
 These two approaches can coincide and complement each other, but only if we dispense with the idea that all legitimacy should be concentrated in a single institutional structure.
 
-<sup>\*</sup> See, for example, Heidi Grasswick's "Feminist Social Epistemology" in The Stanford Encyclopedia of Philosophy (Spring 2013 Edition)
+\* See, for example, Heidi Grasswick's "Feminist Social Epistemology" in The Stanford Encyclopedia of Philosophy (Spring 2013 Edition)
 
 # Arguments Against Autonomy
 
@@ -482,7 +487,7 @@ But can decentralized networks stand a chance against centralized power structur
 
 The answer remains to be seen, but today's centralized powers are by no means sure of their own invulnerability. Already, in 2001, the RAND Corporation was arguing\* that decentralized networks, rather than centralized hierarchies, will be the power players of the 21st century. Over the past two decades, from the so-called anti-globalization movement to Occupy and the Kurdish experiment with autonomy in Rojava, the initiatives that have succeeded in opening up space for new movements and social experiments (both democratic and anarchistic) have
 
-<sup>\*</sup> In Networks and Netwars: The Future of Terror, Crime, and Militancy, edited by John Arquilla and David Ronfeldt.
+\* In Networks and Netwars: The Future of Terror, Crime, and Militancy, edited by John Arquilla and David Ronfeldt.
 
 ## ![](_page_57_Picture_0.jpeg)
 
@@ -512,9 +517,9 @@ It is better for us both to be separated . . . There is an unwillingness on the 
 
 So, in Lincoln's political cosmology, the polis of white citizens cannot separate, but as soon as the black slaves of the oikos no longer occupy their economic role, it is better that they depart. This dramatizes things clearly enough: the nation is indivisible, but the excluded are disposable. Had the slaves freed after the Civil War emigrated to Africa, they would have arrived just in time to experience the horrors of European colonization, with a death toll of ten million in Belgian Congo alone.† The proper solution to such catastrophes is not to integrate all the world into a single republic governed by majority rule, but to combat all institutions that divide people into majorities and minorities—rulers and ruled—however democratic they might be.
 
-<sup>\*</sup> See "Address on Colonization to a Deputation of Negroes" in the fth volume of Lincoln's Collected Works.
+\* See "Address on Colonization to a Deputation of Negroes" in the fth volume of Lincoln's Collected Works.
 
-<sup>†</sup> See, for example, Adam Hochschild's King Leopold's Ghost: A Story of Greed, Terror, and Heroism in Colonial Africa.
+† See, for example, Adam Hochschild's King Leopold's Ghost: A Story of Greed, Terror, and Heroism in Colonial Africa.
 
 # Democratic Obstacles to Liberation
 
@@ -568,7 +573,7 @@ If we want to foster inclusivity and self-determination, it is not enough to pro
 
 Even explicitly revolutionary strategies can be turned to the advantage of world powers in the name of democracy. Since 2014, in Venezuela, Macedonia, Brazil, and elsewhere, we have seen state actors and vested interests channel genuine popular dissent into ersatz social movements in order to shorten the electoral cycle. Usually, the goal is to force the ruling party to resign in order to replace it with a more "democratic" government—i.e., a government more amenable to US or EU objectives. Such movements usually focus on "corruption," implying that the system would work just fine if only the right people were in power. When we enter the streets, rather than risk being the dupes of some foreign policy initiative, we should
 
-<sup>\*</sup> In the face of economic crises and widespread disillusionment with representational politics, we see governments offering more direct participation in decision-making to pacify the public. Just as the dictatorships in Greece, Spain, and Chile were compelled to transition to democracy to neutralize protest movements, the state is opening up new roles for those who might otherwise lead the opposition to it. If we are directly responsible for making the political system work, we will blame ourselves when it fails—not the format itself. This explains new experiments such as the "participatory" budgets local governments are implementing from Pôrto Alegre to Poznań. In practice, the participants rarely have any leverage on town officials; at most, they can act as consultants, or vote on a measly 0.1% of city funds. The real purpose of participatory budgeting and other such programs is to redirect popular attention from the failures of government to the project of making it more democratic.
+\* In the face of economic crises and widespread disillusionment with representational politics, we see governments offering more direct participation in decision-making to pacify the public. Just as the dictatorships in Greece, Spain, and Chile were compelled to transition to democracy to neutralize protest movements, the state is opening up new roles for those who might otherwise lead the opposition to it. If we are directly responsible for making the political system work, we will blame ourselves when it fails—not the format itself. This explains new experiments such as the "participatory" budgets local governments are implementing from Pôrto Alegre to Poznań. In practice, the participants rarely have any leverage on town officials; at most, they can act as consultants, or vote on a measly 0.1% of city funds. The real purpose of participatory budgeting and other such programs is to redirect popular attention from the failures of government to the project of making it more democratic.
 
 not mobilize against any particular government, but against government per se.
 
@@ -590,7 +595,7 @@ The classic defense of democracy is that it is the worst form of government—ex
 
 Reimagining humanity without government is an ambitious project. Most of the models of stateless relations that sustained us through our rst two hundred thousand years have been stamped out, and two centuries of anarchist theory only scratch the surface. For now, we'll suggest a few basic values that could guide us beyond democracy, and a few general proposals for how to understand what we might do instead of governing. Most of the work remains to be done.
 
-<sup>\*</sup> Winston Churchill, addressing the House of Commons on November 11, 1947.
+\* Winston Churchill, addressing the House of Commons on November 11, 1947.
 
 # Horizontality, Decentralization, Autonomy, Anarchy
 
@@ -608,7 +613,7 @@ Yet if we wish to foster freedom, it's not enough to afrm autonomy alone.\* A na
 
 We have to create anarchy.
 
-<sup>\* &</sup>quot;Autonomy" is derived from the ancient Greek prex auto-, self, and nomos, law—giving oneself one's own law. This suggests an understanding of personal freedom in which one aspect of the self—say, the superego—permanently controls the others and dictates all behavior. Kant dened autonomy as self-legislation, in which the individual compels himself to comply with the universal laws of objective morality rather than acting according to his desires. By contrast, an anarchist might counter that we owe our freedom to the spontaneous interplay of myriad forces within and between us, not to the capacity to impose a single order upon ourselves. Which of those conceptions of freedom we embrace will have repercussions on everything from how we picture freedom on a planetary scale to how we understand the movements of subatomic particles—see David Graeber's excellent essay "What's the Point if We Can't Have Fun?"
+\* &quot;Autonomy" is derived from the ancient Greek prex auto-, self, and nomos, law—giving oneself one's own law. This suggests an understanding of personal freedom in which one aspect of the self—say, the superego—permanently controls the others and dictates all behavior. Kant dened autonomy as self-legislation, in which the individual compels himself to comply with the universal laws of objective morality rather than acting according to his desires. By contrast, an anarchist might counter that we owe our freedom to the spontaneous interplay of myriad forces within and between us, not to the capacity to impose a single order upon ourselves. Which of those conceptions of freedom we embrace will have repercussions on everything from how we picture freedom on a planetary scale to how we understand the movements of subatomic particles—see David Graeber's excellent essay "What's the Point if We Can't Have Fun?"
 
 "He expressed himself to us that we should never allow ourselves to be tempted by any consideration to acknowledge laws and institutions to exist as of right if our conscience and reason condemned them. He admonished us not to care whether a majority, no matter how large, opposed our principles and opinions; the largest majorities were sometimes only organized mobs."
 
@@ -642,7 +647,7 @@ If no institution, contract, or law should be able to dictate our decisions, how
 
 One proposal is to make a distinction between "closed" groups, in which the participants agree to answer to each other for their actions, and "open" groups that need not reach consensus.\* But this begs the question: how do we draw a line between the two? If we are accountable to our fellows in a closed group only until we choose to leave it, and we may leave at any time, that is little different from participating in an open group. On the other hand, we are all involved, like it or not, in one closed group sharing a single inescapable space: earth. So it is not a question of distinguishing the spaces in which we must be accountable to each other from the spaces in which we may act freely. The question is how to foster both responsibility and autonomy at every order of scale.
 
-<sup>\*</sup> This is a variation on the old opposition between formal and informal; there is a hint of polis and oikos in it.
+\* This is a variation on the old opposition between formal and informal; there is a hint of polis and oikos in it.
 
 Towards this end, we can set out to create mutually fullling collectivities at each level of society—spaces in which people identify with each other and have cause to do right by each other. These can take many forms, from housing cooperatives and neighborhood assemblies to international networks. At the same time, we recognize that we will have to recongure them continuously according to how much intimacy and interdependence proves benecial for the participants. When a conguration must change, this need not be a sign of failure: on the contrary, it shows that the participants are not competing for hegemony.
 
@@ -660,7 +665,7 @@ When we accord institutions inherent legitimacy, this offers us an excuse not to
 
 If we don't recognize the authority of the state, we have no such excuses: we must nd mutually satisfying resolutions or else suffer the consequences of ongoing strife. This is an incentive to take all parties' needs and perceptions seriously, to develop skills with which to defuse tensions and reconcile rivals. It isn't necessary to get everyone to agree, but we have to nd ways to differ that do not produce hierarchies, oppression, or pointless antagonism. The rst step down this
 
-<sup>\*</sup> Witness the Mexican autodefensas, local groups that set out to defend themselves against the cartels that are functionally identical with the government in some parts of Mexico. At rst, they were able to open autonomous zones free from the violence. But then they fell out among themselves—resuming the same gang warfare that is the hallmark of capitalism and state politics, which had produced the cartel violence in the rst place.
+\* Witness the Mexican autodefensas, local groups that set out to defend themselves against the cartels that are functionally identical with the government in some parts of Mexico. At rst, they were able to open autonomous zones free from the violence. But then they fell out among themselves—resuming the same gang warfare that is the hallmark of capitalism and state politics, which had produced the cartel violence in the rst place.
 
 road is to remove the inducements that the state offers not to resolve conict.
 
@@ -1098,7 +1103,7 @@ Direct democracy is supposed to get rid of the apathy produced by representation
 
 Any kind of "direct democracy" reproduces the same conditions as representative democracy, just on a smaller scale. The
 
-<sup>\*</sup> Hoplites—armored infantrymen ghting shoulder to shoulder in phalanxes—constituted the main force of the citizen militias that defended Greek city-states in the era when democracy emerged. According to some theories, their importance in military matters gave them enough leverage to compel the aristocratic class to grant them political rights.
+\* Hoplites—armored infantrymen ghting shoulder to shoulder in phalanxes—constituted the main force of the citizen militias that defended Greek city-states in the era when democracy emerged. According to some theories, their importance in military matters gave them enough leverage to compel the aristocratic class to grant them political rights.
 
 majority suppresses the minority, driving them into apathy. Often, you don't even try to express your opinion, as you know you will have no chance to put it into practice. Often, you are afraid to speak, as you know that you will be humiliated by the majority. Homogeneity is the ultimate imperative of any democratic procedure, "direct" or representational—a homogeneity that ends up as two nal opinions (the majority and minority), losing the vast richness of human intelligence and sensibility, erasing all the complexity and diversity of human needs and desires.
 
@@ -1612,7 +1617,7 @@ In February 2014, two decades after the war that left Bosnia devastated and divi
 
 People ooded into the streets. Beating back the police, they burned the parliament and municipal buildings. In the turmoil of the protests, panicking politicians stole money from the national treasury and prepared to ee the country. In Mostar, a city divided between Muslims and Catholics, several politicians sent their families into Croatia through the nearby border. Protests under the slogans "Freedom is my nation" and "Let's re all the politicians" drew crowds in 33 cities. People gathered to experiment with direct democracy in assemblies (dubbed plenums) of up to a thousand—something that had not been seen on such a scale in any ex-Yugoslavian country since the last Balkan wars.\* Outside Bosnia, partisans of direct democracy expressed considerable enthusiasm about what some called the Bosnian Spring.
 
-<sup>\*</sup> The 2014 uprising didn't appear out of thin air. In 2006, a movement called Dosta (Enough) grew from a small internet forum into weekly meetings in the central square in Sarajevo, getting bigger every week and addressing economic and social issues through discussions that eventually gave rise to protests. As the organizational structure of Dosta spread into different cities, it remained politically diverse. Several of the most active participants in the plenums in Sarajevo had been radicalized in the Dosta movement.
+\* The 2014 uprising didn't appear out of thin air. In 2006, a movement called Dosta (Enough) grew from a small internet forum into weekly meetings in the central square in Sarajevo, getting bigger every week and addressing economic and social issues through discussions that eventually gave rise to protests. As the organizational structure of Dosta spread into different cities, it remained politically diverse. Several of the most active participants in the plenums in Sarajevo had been radicalized in the Dosta movement.
 
 ## ![](_page_179_Picture_0.jpeg)
 
@@ -1698,7 +1703,7 @@ And the leader of this new government? A former minister of the interior, who ha
 
 "I have one enemy. You are not my enemy, the government is my enemy," the old man shouted, addressing his old comrades from the plenums. "We said everything we had to say to the enemy when we burned the parliament."
 
-<sup>\*</sup> The very last post on plenumsa.org (June 12, 2014) is an interview with a US-based academic about Occupy and direct democracy.
+\* The very last post on plenumsa.org (June 12, 2014) is an interview with a US-based academic about Occupy and direct democracy.
 
 ## ![](_page_187_Picture_0.jpeg)
 
@@ -1752,7 +1757,7 @@ In fact, what happened in Egypt between 2011 and 2014 is a lot like what happene
 
 The reemergence of the Deep State\* in France by June 1848 and in Egypt between 2011 and 2013 underscores why ever since 1848 anarchists have argued that the only sure way to hold on to revolutionary gains is to delegitimize and disarticulate the state itself. In this regard, the problem with democratic discourse is that, because the vast majority of democratic models are statebased, it offers cover to anyone who wants to re-legitimize state
 
-<sup>\*</sup> The Deep State is the institutional elements of the state that persist from one elected government to the next, such as the military and intelligence apparatus, and the interests that they serve.
+\* The Deep State is the institutional elements of the state that persist from one elected government to the next, such as the military and intelligence apparatus, and the interests that they serve.
 
 power. Indeed, even those who explicitly oppose the state can end up reinforcing it—whether by joining the government, as anarchists from the CNT did during the Spanish Civil War, or more obliquely, by legitimizing frameworks and objectives that ultimately enable partisans of the state to present themselves as the ones with the most effective strategy, as anarchists like Cindy Milstein and David Graeber risk doing.
 
@@ -1782,7 +1787,7 @@ Now that the Reaction had no more use for the politicians who had paved the way 
 
 With the novels he published from exile, Hugo earned worldwide acclaim for putting words in the mouths of the same poor people whose slaughter he had overseen. He wrote about the events of June 1848 in his memoirs, bewailing "on one side the despair of the people, on the other the despair of society," sidestepping his role in the killings he described with such pathos. In Les Misérables, he struggled to make sense of how the people who had made the revolution could take up arms against its legitimately elected representatives:
 
-<sup>\*</sup> You can read Victor Hugo's blow-by-blow account of these events in his Histoire d'un crime.
+\* You can read Victor Hugo's blow-by-blow account of these events in his Histoire d'un crime.
 
 It sometimes happens that, even contrary to principles, even contrary to liberty, equality, and fraternity, even contrary to the universal vote, even contrary to the government, by all for all, from the depths of its anguish, of its discouragements and its destitutions, of its fevers, of its distresses, of its miasmas, of its ignorances, of its darkness, that great and despairing body, the rabble, protests against, and that the populace wages battle against, the people.
 

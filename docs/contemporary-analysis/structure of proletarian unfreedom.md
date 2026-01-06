@@ -1,3 +1,8 @@
+---
+title: "The Structure of Proletarian Unfreedom\*"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_0.jpeg)
 
 ## The Structure of Proletarian Unfreedom
@@ -49,29 +54,29 @@ It is true that the worker is free to do these other things. The acknowledgment 
 
 Robert Nozick might grant that many workers have no acceptable alternative to selling their labor power, and he recognizes that they need not have no alternative at all in order to count as forced to do so. But he denies that having no acceptable alternative but to do A entails being forced to do A, no matter how bad A is, and no matter how much worse the alternatives are, since he thinks that to have no acceptable alternative means to be forced only when unjust actions help to explain the absence of acceptable alternatives. Property distributions reflecting a history of acquisition and exchange may leave the worker with no other acceptable option, but is he nevertheless not forced to sell his labor power, if the acquiring and exchanging were free of injustice.
 
-Nozick's objection to the thesis under examination rests upon a moralized account of what it is to be forced to do something. It is a false account, because it has the absurd upshot that if a criminal's imprisonment is morally justified, he is then not forced to be in prison. We may therefore set Nozick's objection aside.<sup>2</sup>
+Nozick's objection to the thesis under examination rests upon a moralized account of what it is to be forced to do something. It is a false account, because it has the absurd upshot that if a criminal's imprisonment is morally justified, he is then not forced to be in prison. We may therefore set Nozick's objection aside.2
 
-<sup>2.</sup> For Nozick's view, see his Anarchy, State and Utopia (New York: Basic Books, 1974), pp. 262-64, which I criticize at p. 151 of "Robert Nozick and Wilt Chamberlain," in Justice and Economic Distribution, ed. John Arthur and William Shaw (Englewood Cliffs, NJ:
+2. For Nozick's view, see his Anarchy, State and Utopia (New York: Basic Books, 1974), pp. 262-64, which I criticize at p. 151 of "Robert Nozick and Wilt Chamberlain," in Justice and Economic Distribution, ed. John Arthur and William Shaw (Englewood Cliffs, NJ:
 
 #### IV
 
 There is, however, an objection to the claim that workers are forced to sell their labor power which does not depend upon a moralized view of what being forced involves. But before we come to it, in Section V, I must explain how I intend the predicate "is forced to sell his labor power." The claim in which it figures here comes from Karl Marx. Now I noted that Marx characterized classes by reference to social relations of production, and the claim is intended to satisfy that condition: it purports to say something about the proletarian's position in capitalist relations of production. But relations of production are, for Marxism, objective: what relations of production a person is in does not turn on his consciousness. It follows that if the proletarian is forced to sell his labor power in the relevant Marxist sense, then this must be because of his objective situation, and not because of his attitude to himself, his level of self-confidence, his cultural attainment, and so on. It is in any case doubtful that limitations in those subjective endowments can be sources of what interests us: unfreedom, as opposed to something similar to it but also rather different: incapacity. But even if diffidence and the like could be said to force a person to sell his labor power, that would be an irrelevant case here (except, perhaps, where personal subjective limitations are caused by capitalist relations of production, a possibility considered in Section XV below).
 
-To be forced to do *A* by one's objective situation is to do it because of factors other than the subjective ones just mentioned. Many would insist that the proper source of force, and a *a fortiori* of objective force, is action by other people, what they have done, or are doing, or what they would do were one to try to do *A*. I agree with Harry Frankfurt<sup>3</sup> that this in-
+To be forced to do *A* by one's objective situation is to do it because of factors other than the subjective ones just mentioned. Many would insist that the proper source of force, and a *a fortiori* of objective force, is action by other people, what they have done, or are doing, or what they would do were one to try to do *A*. I agree with Harry Frankfurt3 that this in-
 
 Prentice-Hall, 1978). For more discussion of false-because-moralized definitions of freedom, see my "Capitalism, Freedom and Proletariat," *The Idea of Freedom*, pp. 12–14; "Illusions about Private Property and Freedom," in *Issues in Marxist Philosophy*, ed. John Mepham and David Ruben (Hassocks, 1981), 4:228–29; "Freedom, Justice and Capitalism," *New Left Review*, no. 126 (March/April 1981): 10–11. A partly similar critique of moralized accounts of force and freedom is given by David Zimmerman at pp. 121–31 of his "Coercive Wage Offers," *Philosophy & Public Affairs* 10, no. 2 (Spring 1981).
 
-<sup>3.</sup> Frankfurt points out that natural things and processes operating independently of human action also force people to do things. See his "Coercion and Moral Responsibility," in *Essays of Freedom of Action*, ed. Ted Honderich (London: Routledge & Kegan Paul, 1973), pp. 83–84.
+3. Frankfurt points out that natural things and processes operating independently of human action also force people to do things. See his "Coercion and Moral Responsibility," in *Essays of Freedom of Action*, ed. Ted Honderich (London: Routledge & Kegan Paul, 1973), pp. 83–84.
 
 Note that one can agree with Frankfurt while denying that lack of capacity restricts sistence is wrong, but I shall accede to it in the present article, for two reasons. The first is that the mooted restriction makes it harder, and therefore more interesting, to show that workers are forced to sell their labor power. The second is that, as I shall now argue, where relations of production force people to do things, people force people to do things, so the "no force without a forcing agent" condition is satisfied here, even if it does not hold generally.
 
-The relations of production of a society may be identified with the powers its differently situated persons have with respect to the society's productive forces, that is, the labor capacities of its producers and the means of production they use.<sup>4</sup> We can distinguish between standard and deviant uses of the stated powers. Let me then propose that a worker is forced to sell his labor power in the presently required sense if and only if the constraint is a result of standard exercises of the powers constituting relations of production.
+The relations of production of a society may be identified with the powers its differently situated persons have with respect to the society's productive forces, that is, the labor capacities of its producers and the means of production they use.4 We can distinguish between standard and deviant uses of the stated powers. Let me then propose that a worker is forced to sell his labor power in the presently required sense if and only if the constraint is a result of standard exercises of the powers constituting relations of production.
 
 If a millionaire is forced by a blackmailer to sell his labor power, he is not forced to do so in the relevant Marxist sense, since the blackmailer does not use economic power to get him to do so. The relevant constraint must reflect use of economic power, and not, moreover, just any use of it, but a *standard* exercise of it. I do not yet know how to define "standard," but it is not hard to sort out cases in an intuitive way. If, for example, a capitalist forces people to work for him by hiring gunmen to get them to do so, the resulting constraint is due to a nonstandard exercise of economic power. And one can envisage similarly irrelevant cases of relaxation of constraint: a philanthropic capitalist might be willing to transfer large shares in the ownership of his enterprise to workers, on a "first come first served" basis. That would not be a standard use of capitalist power.
 
 Suppose, however, that economic structural constraint does not, as just proposed, operate through the regular exercise by persons of the powers constituting the economic structure, but in some more *impersonal* way, as Althusserians seem to imagine. It might still be said, for a different reason, that if the structure of capitalism leaves the worker no choice but to sell his labor power, then he is forced to do so by actions of persons. For the structure of capitalism is not in all senses self-sustaining. It is freedom: the question whether internal obstacles restrict it is distinct from the question which kinds of external obstacles do.
 
-<sup>4.</sup> See KMTH, pp. 31-35, 63-65, 217-25.
+4. See KMTH, pp. 31-35, 63-65, 217-25.
 
 sustained by a great deal of deliberate human action, notably on the part of the state. And if, as I often think, the state functions on behalf of the capitalist class, then any structural constraint by virtue of which the worker must sell his labor power has enough human will behind it to satisfy the stipulation that where there is force, there are forcing human beings.
 
@@ -81,9 +86,9 @@ The stipulation might be satisfied by doctrine weaker than that which presents t
 
 Under the stated interpretation of "is forced to sell his labor power," a serious problem arises for the thesis under examination. For if there are persons whose objective position is identical with that of proletarians but who are not forced to sell their labor power, then proletarians are not relevantly so forced, and the thesis is false. And there do seem to be such persons.
 
-I have in mind those proletarians who, initially possessed of no greater resources than most, secure positions in the petty bourgeoisie and elsewhere, thereby rising above the proletariat. Striking cases in Britain are members of certain immigrant groups, who arrive penniless, and without good connections, but who propel themselves up the class hierarchy with effort, skill, and luck. One thinks—it is a contemporary example—of those who are willing to work very long hours in shops bought from native British bourgeois, shops which used to close early. Their initial capital is typically an amalgam of savings, which they accumulated, perhaps painfully, while still in the proletarian condition, and some form of external finance. Objectively speaking, most<sup>5</sup> British proletarians are in a position to obtain these. Therefore most British proletarians are not forced to sell their labor power.
+I have in mind those proletarians who, initially possessed of no greater resources than most, secure positions in the petty bourgeoisie and elsewhere, thereby rising above the proletariat. Striking cases in Britain are members of certain immigrant groups, who arrive penniless, and without good connections, but who propel themselves up the class hierarchy with effort, skill, and luck. One thinks—it is a contemporary example—of those who are willing to work very long hours in shops bought from native British bourgeois, shops which used to close early. Their initial capital is typically an amalgam of savings, which they accumulated, perhaps painfully, while still in the proletarian condition, and some form of external finance. Objectively speaking, most5 British proletarians are in a position to obtain these. Therefore most British proletarians are not forced to sell their labor power.
 
-<sup>5.</sup> At least most: it could be argued that *all* British proletarians are in such a position, but I stay with "most" lest some ingenious person discover objective proletarian circumstances worse than the worst once suffered by now prospering immigrants. But see also footnote 6.
+5. At least most: it could be argued that *all* British proletarians are in such a position, but I stay with "most" lest some ingenious person discover objective proletarian circumstances worse than the worst once suffered by now prospering immigrants. But see also footnote 6.
 
 ## VI
 
@@ -95,7 +100,7 @@ This objection embodies a misunderstanding of what Marxists intend when they say
 
 Now when Marxists say that proletarians are forced to sell their labor power, they do not mean: "X is a proletarian at time t only if X is at t forced to sell his labor power at t" for that would be compatible with his not being forced to at time t + n, no matter how small n is. X might be forced on Tuesday to sell his labor power on Tuesday, but if he is not forced on Tuesday to sell his labor power on Wednesday (if, for example, actions open to him on Tuesday would bring it about that on Wednesday he need not do so), then, though still a proletarian on Tuesday, he is not then someone who is forced to sell his labor power in the relevant Marxist sense. The manifest intent of the Marxist claim is that the proletarian is forced at t to continue to sell his labor power, throughout a period from t to t + n, for some considerable n. It follows that because there is a route out of the proletariat, which our counterexamples travelled, reaching their destination in, as I would argue, an amount of time less than n, 6 they were, though proletarians, not forced to sell their labor power in the required Marxist sense.
 
-<sup>6.</sup> This might well be challenged, since the size of n is a matter of judgment. I would defend mine by reference to the naturalness of saying to a worker that he is not forced to
+6. This might well be challenged, since the size of n is a matter of judgment. I would defend mine by reference to the naturalness of saying to a worker that he is not forced to
 
 Proletarians who have the option of class ascent are not forced to sell their labor power, just because they do have that option. Most proletarians have it as much as our counterexamples did. Therefore most proletarians are not forced to sell their labor power.
 
@@ -115,7 +120,7 @@ It follows that, whatever happens, at least nine people will remain in the room.
 
 Now suppose that not one of the people is inclined to try to obtain the key and leave the room. Perhaps the room is no bad place, and they do not want to leave it. Or perhaps it is pretty bad, but they are too lazy to undertake the effort needed to escape. Or perhaps no one believes he would be able to secure the key in face of the capacity of the others to intervene (though no one would in fact intervene, since, being so diffident, each also believes that he would be unable to remove the key from anyone else). Suppose that, whatever may be their reasons, they are all so indisposed to leave the room that if, counterfactually, one of them were to try to leave, the rest would not interfere. The universal inaction is relevant to my argument, but the explanation of it is not.
 
-Then whomever we select, it is true of the other nine that not one of them is going to try to get the key. Therefore it is true of the selected person that he is free to obtain the key, and to use it.<sup>8</sup> He is therefore not forced to remain in the room. But all this is true of whomever we select. Therefore it is true of each person that he is not forced to remain in the room, even though necessarily at least nine will remain in the room, and in fact all will.
+Then whomever we select, it is true of the other nine that not one of them is going to try to get the key. Therefore it is true of the selected person that he is free to obtain the key, and to use it.8 He is therefore not forced to remain in the room. But all this is true of whomever we select. Therefore it is true of each person that he is not forced to remain in the room, even though necessarily at least nine will remain in the room, and in fact all will.
 
 Consider now a slightly different example, a modified version of the situation just described. In the new case there are two doors and two keys. Again, there are ten people, but this time one of them does try to get out, and succeeds, while the rest behave as before. Now necessarily eight will remain in the room, but it is true of each of the nine who do stay that he or she is free to leave it. The pertinent general feature, present in both cases, is that there is at least one means of egress which none will attempt to use, and which each is free to use, since, *ex hypothesi*, no one would block his way.
 
@@ -125,7 +130,7 @@ By now the application of the analogy may be obvious. The number of exits from t
 
 Some have objected that the stated condition is not sufficient: a person, they say, may do something he is not free to do, since he may do something he is not legally, or morally, free to do. Those who agree with that unhelpful remark can take it that I am interested in the non-normative use of "free," which is distinguished by the sufficient condition just stated.
 
-for most<sup>9</sup> proletarians there exists a means of escape. So even though necessarily most proletarians will remain proletarians, and will sell their labor power, perhaps none, and at most a minority, are forced to do so.
+for most9 proletarians there exists a means of escape. So even though necessarily most proletarians will remain proletarians, and will sell their labor power, perhaps none, and at most a minority, are forced to do so.
 
 In reaching this conclusion, which is about the proletariat's *objective* position, I used some facts of consciousness, regarding workers' aspirations and intentions. That is legitimate. For if the workers are objectively forced to sell their labor power, then they are forced to do so whatever their subjective situation may be. But their actual subjective situation brings it about that they are not forced to sell their labor power. Hence they are not objectively forced to sell their labor power.
 
@@ -139,19 +144,19 @@ Since the freedom of each is contigent on the others not exercising their simila
 
 In defense of this description, let us reconsider the question why the people do not try to leave. None of the reasons suggested earlier—lack of desire, laziness, diffidence—go beyond what a person wants and fears for himself alone. But the annals of human motivation show that some-
 
-times people care about the fate of others, and they sometimes have that concern when they share a commmon oppression. Suppose, then, not so wildly, that there is a sentiment of solidarity in that room. A fourth possible explanation of the absence of attempt to leave now suggests itself. It is that no one will be satisfied with a personal escape which is not part of a general liberation. <sup>10</sup>
+times people care about the fate of others, and they sometimes have that concern when they share a commmon oppression. Suppose, then, not so wildly, that there is a sentiment of solidarity in that room. A fourth possible explanation of the absence of attempt to leave now suggests itself. It is that no one will be satisfied with a personal escape which is not part of a general liberation. 10
 
 The new supposition does not upset the claim that each is free to leave, for we may assume that it remains true of each person that he would suffer no interference if, counterfactually, he sought to use the key (assume the others would have contempt for him, but not try to stop him). Each remains free to leave. Yet we can envisage members of the group communicating to their jailer a demand for freedom, to which he could hardly reply that they are free already (even though, individually, they are). The hypothesis of solidarity makes the collective unfreedom evident. But unless we say, absurdly, that the solidarity creates the unfreedom to which it is a response, we must say that there is collective unfreedom whether or not solidarity obtains.
 
 Returning to the proletariat, we can conclude, by parity of reasoning, that although most proletarians are free to escape the proletariat, and, indeed, even if every one is, the proletariat is collectively unfree, an imprisoned class.
 
-Marx often maintained that the worker is forced to sell his labor power not to any particular capitalist, but just to some capitalist or other, and he emphasized the ideological value of this distinction.<sup>11</sup> The present point is that, although, in a collective sense, workers are forced to sell their labor power, scarcely any particular proletarian is forced to sell himself even to some capitalist or other. And this too has ideological value. It is part of the genius of capitalist exploitation that, by contrast with exploitation which proceeds by "extra-economic coercion,"<sup>12</sup> it does not
+Marx often maintained that the worker is forced to sell his labor power not to any particular capitalist, but just to some capitalist or other, and he emphasized the ideological value of this distinction.11 The present point is that, although, in a collective sense, workers are forced to sell their labor power, scarcely any particular proletarian is forced to sell himself even to some capitalist or other. And this too has ideological value. It is part of the genius of capitalist exploitation that, by contrast with exploitation which proceeds by "extra-economic coercion,"12 it does not
 
-<sup>10.</sup> In a stimulating commentary on the argument of Sections VII and VIII, Jon Elster notes that it involves avoidance of two fallacies, that of composition ("What is true of each must be true of all") and that of division ("What is true of all must be true of each"): "It is true of any individual worker that he is free to leave the class, but not of all workers simultaneously. And the reason why the individual worker is free to leave the class is that the others do not want to leave it; and the reason why the others do not want to leave it is that whatever is desirable if it happens to all members simultaneously is not necessarily desirable if it happens to one member separately and exclusively" (first draft of paper on "Freedom and Power," p. 63). Elster shows that such structures pervade social life.
+10. In a stimulating commentary on the argument of Sections VII and VIII, Jon Elster notes that it involves avoidance of two fallacies, that of composition ("What is true of each must be true of all") and that of division ("What is true of all must be true of each"): "It is true of any individual worker that he is free to leave the class, but not of all workers simultaneously. And the reason why the individual worker is free to leave the class is that the others do not want to leave it; and the reason why the others do not want to leave it is that whatever is desirable if it happens to all members simultaneously is not necessarily desirable if it happens to one member separately and exclusively" (first draft of paper on "Freedom and Power," p. 63). Elster shows that such structures pervade social life.
 
-<sup>11.</sup> See KMTH, p. 223, for exposition and references.
+11. See KMTH, p. 223, for exposition and references.
 
-<sup>12.</sup> The phrase comes from Marx, Capital (London, 1962), 1:899. See KMTH, pp. 82-84, for a discussion of different modes of exploitation.
+12. The phrase comes from Marx, Capital (London, 1962), 1:899. See KMTH, pp. 82-84, for a discussion of different modes of exploitation.
 
 require the unfreedom of specified individuals. There is an ideologically valuable anonymity on *both* sides of the relationship of exploitation.
 
@@ -160,7 +165,7 @@ require the unfreedom of specified individuals. There is an ideologically valuab
 It was part of the argument for affirming the freedom to escape of proletarians, taken individually, that not every exit from the proletariat is crowded with would-be escapees. Why should this be so? Here are some of the reasons:
 
 - 1. It is possible to escape, but it is not easy, and often people do not attempt what is possible but hard.
-- 2. There is also what Marx called the "dull compulsion of economic relations." <sup>13</sup> Long occupancy, for example from birth, of a subordinate class position nurtures the illusion, as important for the stability of the system as the myth of easy escape, that one's class position is natural and inescapable.
+- 2. There is also what Marx called the "dull compulsion of economic relations." 13 Long occupancy, for example from birth, of a subordinate class position nurtures the illusion, as important for the stability of the system as the myth of easy escape, that one's class position is natural and inescapable.
 - 3. Finally, there is the fact that not all workers would like to be petty or transpetty bourgeois. Eugene Debs said, "I do not want to rise above the working class, I want to rise with them," thereby evincing an attitude like the one lately attributed to the people in the locked room. It is sometimes true of the worker that, in Brecht's words,
 
 He wants no servants under him And no boss over his head. 14
@@ -173,9 +178,9 @@ In the rest of this article I consider objections to the arguments of Sections V
 
 7: There are more exits from the British proletariat then there are workers trying to leave it. Therefore, British workers are individually free to leave the proletariat.
 
-<sup>13.</sup> Marx, Capital, 1:899.
+13. Marx, Capital, 1:899.
 
-<sup>14.</sup> From his "Song of the United Front."
+14. From his "Song of the United Front."
 
 8: There are very few exits from the British proletariat and there are very many workers in it. Therefore, British workers are collectively unfree to leave the proletariat.
 
@@ -193,7 +198,7 @@ Someone who, unlike Frankfurt, believes that only human action can force people 
 
 "The prisoners in the room are collectively unfree, since the avail-
 
-ability of only one exit is a result of a jailer's action. If they had wandered into a cave from which, for peculiar reasons, only one could leave, then, though <code>unable</code>, collectively, to leave, they would not have been <code>unfree</code> to, since there would have been no one forcing them to stay. It is true that, <code>in sensu composito</code>, most proletarians must remain proletarians, but this is due to a numerical relationship which does not reflect human design. It is therefore not correct to speak of the proletariat as collectively <code>unfree</code> to leave, as opposed to collectively <code>unable</code>. In short, the admitted restrictions on proletarian ascent are not caused by factors which would justify application of the concepts of force and unfreedom."
+ability of only one exit is a result of a jailer's action. If they had wandered into a cave from which, for peculiar reasons, only one could leave, then, though unable, collectively, to leave, they would not have been unfree to, since there would have been no one forcing them to stay. It is true that, in sensu composito, most proletarians must remain proletarians, but this is due to a numerical relationship which does not reflect human design. It is therefore not correct to speak of the proletariat as collectively unfree to leave, as opposed to collectively unable. In short, the admitted restrictions on proletarian ascent are not caused by factors which would justify application of the concepts of force and unfreedom."
 
 # I have four replies to this objection.
 
@@ -209,34 +214,33 @@ Finally, even if we should have to abandon the claim that workers are collective
 
 The objector of Section XI doubted that the situation of the proletariat could be described as one of collective freedom, but he did not challenge the very concept of a collective unfreedom distinct from individual unfreedom. I now deal with a differently inspired skepticism. Set aside the question of what causes the restriction on the number of nonproletarian positions. Does the resulting lack of access justify my description of the workers as lacking collective freedom? I argued that there is some sense in which they are not all free to escape, and, since they are free in sensu diviso, I called their unfreedom collective unfreedom.
 
-Collective unfreedom can be defined as follows: a group suffers collective unfreedom with respect to a type of action A if and only if performance of A by all members of the group is impossible. <sup>15</sup> Collective unfreedom comes in varying amounts, and it is greater the smaller the ratio of the maximum that could perform A to the total number in the group. Collective unfreedom is particularly interesting when, as in our example, there is more freedom for a set of individuals taken individually than for the same individuals when they are taken as members of a group: collective unfreedom, we might say, is *irreducibly* collective when more can perform A *in sensu diviso* than can perform it *in sensu composito*. And collective unfreedom matters more the smaller the ratio mentioned above is, and the more important or desirable action A is.
+Collective unfreedom can be defined as follows: a group suffers collective unfreedom with respect to a type of action A if and only if performance of A by all members of the group is impossible. 15 Collective unfreedom comes in varying amounts, and it is greater the smaller the ratio of the maximum that could perform A to the total number in the group. Collective unfreedom is particularly interesting when, as in our example, there is more freedom for a set of individuals taken individually than for the same individuals when they are taken as members of a group: collective unfreedom, we might say, is *irreducibly* collective when more can perform A *in sensu diviso* than can perform it *in sensu composito*. And collective unfreedom matters more the smaller the ratio mentioned above is, and the more important or desirable action A is.
 
 A person shares in a collective unfreedom when, to put it roughly, he is among those who are so situated that if enough others exercise the corresponding individual freedom, then they lose their individual freedoms. More precisely: X shares in a collective unfreedom with respect to a type of action A if and only if X belongs to a set of n persons which is such that:
 
-<sup>15.</sup> That is, if and only if it is not possible that, for all X, X performs A (even if for all X, it is possible that X performs A).
+15. That is, if and only if it is not possible that, for all X, X performs A (even if for all X, it is possible that X performs A).
 
 One might also have to specify the kind of cause that makes it impossible, a complication discussed in Section XI and here set aside.
 
-- 1. no more than m of them (where m < n) are free (sensu composito) to perform A, and
-- 2. no matter which m members performed A, the remaining n-m would then be unfree (sensu diviso) to perform A. <sup>16</sup>
+- 1. no more than m of them (where m 16
 
-Using both expressions as terms of art, one might distinguish between *collective* unfreedom and *group* unfreedom, and I am not here concerned with the latter. In the proferred definition of collective unfreedom the relevant agents are individuals, not a group as such. We are not discussing freedom and the lack of it which groups have *qua* groups, but which individuals have as members of groups. Thus, for example, the freedom or lack of it which the proletariat has to overthrow capitalism falls outside our scope, <sup>17</sup> since no individual proletarian could ever be free to overthrow capitalism, even when the proletariat is free to do so.
+Using both expressions as terms of art, one might distinguish between *collective* unfreedom and *group* unfreedom, and I am not here concerned with the latter. In the proferred definition of collective unfreedom the relevant agents are individuals, not a group as such. We are not discussing freedom and the lack of it which groups have *qua* groups, but which individuals have as members of groups. Thus, for example, the freedom or lack of it which the proletariat has to overthrow capitalism falls outside our scope, 17 since no individual proletarian could ever be free to overthrow capitalism, even when the proletariat is free to do so.
 
 Another form of essentially interpersonal freedom is that canonically reported in sentences of the form "X is free to do A with Y," where Y is another agent, and where if X does A with Y, then Y does A with X (the last condition is needed to exclude such actions as wiping the floor with Y: "with" means "together with" in sentences of the indicated form). This can be called freedom-to-act-with, or relational freedom. 18 Note that the relevant relation is neither symmetrical nor transitive. If I am free to do A with you, it does not follow that you are free to do A with me, since, for example, doing A might be seeing a film which you would love to see with me but which I do not want to see. And if I am free to make love with you and you are free to make love with him, it does not follow that I am free to make love with him. Freedom-to-act-with figured implicitly in the argument of Section VIII, when I hypothesized a sentiment of solidarity which moved each person in the room to regret that (though free to leave) he was not free to leave with the others. But freedom-toact-with is different from what is here meant by collective freedom: in the case of the latter there need be no reference to another person in the description of the action people are free or unfree to perform.
 
 Now someone might say: since interesting collective unfreedom ob-
 
-<sup>16.</sup> The concept of sharing in a collective unfreedom might be used in an attempt to define the proletariat, for example, as the largest group in a society all members of which share a collective unfreedom with respect to the sale of labor power. Unlike the definition I described and rejected at p. 25 of "Capitalism, Freedom and the Proletariat," this one would have the virtue of keeping Sir Keith Joseph out of the working class.
+16. The concept of sharing in a collective unfreedom might be used in an attempt to define the proletariat, for example, as the largest group in a society all members of which share a collective unfreedom with respect to the sale of labor power. Unlike the definition I described and rejected at p. 25 of "Capitalism, Freedom and the Proletariat," this one would have the virtue of keeping Sir Keith Joseph out of the working class.
 
-<sup>17.</sup> See KMTH, pp. 243-45 for remarks on that issue.
+17. See KMTH, pp. 243-45 for remarks on that issue.
 
-<sup>18.</sup> Robert Ware brought the important concept of relational freedom to my attention.
+18. Robert Ware brought the important concept of relational freedom to my attention.
 
 tains only when individuals are free, why should it be a source of concern? Why should we care about anything other than the freedom of individuals? The question forgets that it is a fact touching each individual in the group, namely, the mutually conditional nature of their freedom, which licenses the idea of collective unfreedom. As soon as enough people exercise the coexisting individual freedoms, collective unfreedom generates individual unfreedoms. If, though free to do A, I share in a collective unfreedom with respect to A, I am less free than I otherwise would be.
 
 But it might be claimed that there are structures manifesting what I defined as collective unfreedom which would not normally be regarded as examples of lack of freedom. Suppose, for instance, that a hotel, at which one hundred tourists are staying, lays on a coach trip for the first forty who apply, since that is the number of seats in the coach. And suppose that only thirty want to go. Then, on my account, each of the hundred is free to go, but their situation displays a collective unfreedom. Yet it seems wrong, the objector says, to speak of unfreedom here.
 
-I do not agree. For suppose all of the tourists did want to go. Then it would seem appropriate to say that they are not all free to go. But in the case of individual freedom, while there is less reason to regret an unfreedom to do what I have no desire to do,<sup>20</sup> I am not less unfree for lacking that desire.<sup>21</sup> Why should the position be different in the case of collective unfreedom? Thwarted desire throws unfreedom into relief, and sometimes thwarted desire is needed to make unfreedom deserving of note, but it is not a necessary condition of unfreedom.
+I do not agree. For suppose all of the tourists did want to go. Then it would seem appropriate to say that they are not all free to go. But in the case of individual freedom, while there is less reason to regret an unfreedom to do what I have no desire to do,20 I am not less unfree for lacking that desire.21 Why should the position be different in the case of collective unfreedom? Thwarted desire throws unfreedom into relief, and sometimes thwarted desire is needed to make unfreedom deserving of note, but it is not a necessary condition of unfreedom.
 
 The coach case is a rather special one. For we tend to suppose that the management lay on only one coach because they correctly anticipate
 
@@ -246,31 +250,31 @@ The coach case is a rather special one. For we tend to suppose that the manageme
 
 that one will be enough to meet the demand. Accordingly, we also suppose that if more had wanted to go, there would have been an appropriately larger number of seats available. If all that is true, then the available amount of collective freedom nonaccidentally accords with the tourists' desires, and though there still is a collective unfreedom, it is, as it were, a purely technical one. But if we assume that there is only one coach in town, and some such assumption is required for parity with the situation of proletarians, then the tourists' collective unfreedom is more than merely technical.
 
-There are two significantly different variants of the merely technical version of the coach case. In the first the management decide how many coaches to order after first asking each tourist whether or not he wants to go. In that case there is a time at which all are free to go, even *in sensu composito*, though they cease to be after they have declared themselves. <sup>22</sup> But the management might order one coach without consulting the tourists, out of knowledge of the normal distribution of tourist desire. In that case there is no time at which all are free to go, *in sensu composito*, but the collective unfreedom is still purely technical and singularly unregrettable.
+There are two significantly different variants of the merely technical version of the coach case. In the first the management decide how many coaches to order after first asking each tourist whether or not he wants to go. In that case there is a time at which all are free to go, even *in sensu composito*, though they cease to be after they have declared themselves. 22 But the management might order one coach without consulting the tourists, out of knowledge of the normal distribution of tourist desire. In that case there is no time at which all are free to go, *in sensu composito*, but the collective unfreedom is still purely technical and singularly unregrettable.
 
 Now someone who accepts my concept of collective unfreedom might argue that it is not in general a lamentable thing, and that it need not be lamentable even when the amount of collective unfreedom is not, as above, directly or indirectly causally connected, in a benign way, with people's desires. There is at present (or was when I first wrote this) a shortage of bus conductors in London, so that there is a good deal of individual freedom to become one, but also a large amount of collective unfreedom, since not more than very few of us can be bus conductors. But so what?
 
 The rhetorical question is apposite in this case, but it is out of place when there is unfreedom to abstain from selling one's labor power to another. As I remarked earlier, the extent to which collective unfreedom with respect to an action matters depends upon the nature of the action. I grant that collective unfreedom with respect to the sale of labor power is not lamentable merely because it is collective unfreedom, since some collective unfreedom, like some individual unfreedom, is not lamentable.
 
-<sup>22.</sup> That is, there is a time t at which they are all free to go at t+n, and a time t+(n-m) at which they are not all free to go at t+n, where n>m>0. See Section VI on the need to refer twice to time in fully explicit specifications of freedom.
+22. That is, there is a time t at which they are all free to go at t+n, and a time t+(n-m) at which they are not all free to go at t+n, where n>m>0. See Section VI on the need to refer twice to time in fully explicit specifications of freedom.
 
 It is what this particular collective unfreedom forces workers to do which makes it a proper object of regret and protest. They are forced to subordinate themselves to others who thereby gain control over their, the workers', productive existence. The contrast between them and those others is the subject of the next section.
 
 ## XIII
 
-In an argument which does not challenge the concept of collective unfreedom, Hillel Steiner and Jan Narveson<sup>23</sup> say that if there is a sense in which capitalism renders workers unfree, then it does the same to capitalists. For if having no choice but to sell his labor power makes the worker unfree, then the capitalist is similarly unfree, since he has no choice but to invest his capital. Sometimes authors sympathetic to Marx say similar things. Thus Gary Young argues that the "same line of reasoning" which shows that "the worker is compelled to sell his labor power to some capitalist . . . shows equally that the capitalist is compelled to obtain labor power from the worker."<sup>24</sup>
+In an argument which does not challenge the concept of collective unfreedom, Hillel Steiner and Jan Narveson23 say that if there is a sense in which capitalism renders workers unfree, then it does the same to capitalists. For if having no choice but to sell his labor power makes the worker unfree, then the capitalist is similarly unfree, since he has no choice but to invest his capital. Sometimes authors sympathetic to Marx say similar things. Thus Gary Young argues that the "same line of reasoning" which shows that "the worker is compelled to sell his labor power to some capitalist . . . shows equally that the capitalist is compelled to obtain labor power from the worker."24
 
 I shall presently question the claim that capitalists are forced to invest their capital. But even if we suppose that they are, the disanalogy between them and the workers remains so great that the Steiner/Narveson challenge must be judged rather insensitive.
 
-For the worker is more closely connected with his labor power than the capitalist is with his capital. When I sell my labor power, I put *myself* at the disposal of another, and that is not true when I invest my capital. I come with my labor power, I am part of the deal.<sup>25</sup> That is why some people call wage labor wage slavery, and that is why John Stuart Mill said that "to work at the bidding and for the profit of another . . . is not . . . a satisfactory state to human beings of educated intelligence, who have ceased to think themselves naturally inferior to those whom they serve." <sup>26</sup> I am sure that many will think it is an irresponsible exaggeration
+For the worker is more closely connected with his labor power than the capitalist is with his capital. When I sell my labor power, I put *myself* at the disposal of another, and that is not true when I invest my capital. I come with my labor power, I am part of the deal.25 That is why some people call wage labor wage slavery, and that is why John Stuart Mill said that "to work at the bidding and for the profit of another . . . is not . . . a satisfactory state to human beings of educated intelligence, who have ceased to think themselves naturally inferior to those whom they serve." 26 I am sure that many will think it is an irresponsible exaggeration
 
-<sup>23.</sup> In separate personal correspondence.
+23. In separate personal correspondence.
 
-<sup>24.</sup> From p. 448 of his valuable article on "Justice and Capitalist Production," Canadian Journal of Philosophy 8, no. 3 (1978).
+24. From p. 448 of his valuable article on "Justice and Capitalist Production," Canadian Journal of Philosophy 8, no. 3 (1978).
 
-<sup>25. &</sup>quot;The fact that labour and the labourer are inseparable creates certain difficulties," David O'Mahoney declares, but he reassures us that "analytically labour is no different from any other resource the owners of which contract with the entrepreneur to use it for his purposes." See "Labour Management and the Market Economy," Irish Journal of Business and Administrative Research, April 1979, p. 30.
+25. &quot;The fact that labour and the labourer are inseparable creates certain difficulties," David O'Mahoney declares, but he reassures us that "analytically labour is no different from any other resource the owners of which contract with the entrepreneur to use it for his purposes." See "Labour Management and the Market Economy," Irish Journal of Business and Administrative Research, April 1979, p. 30.
 
-<sup>26.</sup> Principles of Political Economy (Toronto: University of Toronto Press, 1965), p. 766.
+26. Principles of Political Economy (Toronto: University of Toronto Press, 1965), p. 766.
 
 to call wage labor wage slavery. But note that no one would say, even by way of exaggeration, that having to invest one's capital is a form of slavery.
 
@@ -280,11 +284,11 @@ It might be said that the capitalist is, *qua* capitalist, forced to invest his 
 
 Those capitalists who are not dizzily rich are forced to invest their
 
-<sup>27.</sup> We can set aside the special case of a wholly infirm capitalist. If capitalists were in general unable to live except by investing their capital, their bargaining position vis-à-vis workers would be rather different.
+27. We can set aside the special case of a wholly infirm capitalist. If capitalists were in general unable to live except by investing their capital, their bargaining position vis-à-vis workers would be rather different.
 
-<sup>28.</sup> And not only in comparison with investing capital, but also absolutely, if the account of acceptability in alternatives on p. 30 below is right.
+28. And not only in comparison with investing capital, but also absolutely, if the account of acceptability in alternatives on p. 30 below is right.
 
-<sup>29.</sup> Marx, Capital, 1:92.
+29. Marx, Capital, 1:92.
 
 capital or sell their labor power. So they have an alternative to selling their labor power which the worker lacks. But they are not gods. Like the worker, they "enter into relations that are indispensable and independent of their will." Everyone has to take capitalism as it is. But people have different amounts of choice about where to enter the set of relations it imposes, and capitalists typically have vastly more such choice than workers do.
 
@@ -302,17 +306,17 @@ Finally, the objection ignores a way in which capitalists could stop being capit
 
 30. Marx, Preface to A Contribution to the Critique of Political Economy.
 
-not, as above, to particular others, but to society at large. I do not propose this as a new road to socialism, since it is a practical certainty that capitalists will not travel it.<sup>31</sup> My point is that there is no structural barrier against complete self-extinction of the capitalist class, whereas there is a structural barrier to mass exit from the proletariat: the capitalists own the means of production.
+not, as above, to particular others, but to society at large. I do not propose this as a new road to socialism, since it is a practical certainty that capitalists will not travel it.31 My point is that there is no structural barrier against complete self-extinction of the capitalist class, whereas there is a structural barrier to mass exit from the proletariat: the capitalists own the means of production.
 
 ## XIV
 
-The final challenge from the Right to be considered here concerns the premise of the argument of Section VIII: that there are not very many exits from the proletariat. The objector I have in mind grants that there cannot be general escape in the direction of the petty (and more than petty) bourgeoisie: workers could not become, *en masse*, shopkeepers and employers of other workers, if only because there would then be too few left to produce what shopkeepers sell. But the objector draws attention to a way out which has not yet been mentioned in this article: proletarians can form workers' cooperatives. There is enormous scope for the creation of such entities, and therefore virtually unlimited exit prospects. If, then, exiting is not widespread, the reason must be the fecklessness of workers, their unwillingness to undertake risks, and so on.<sup>32</sup>
+The final challenge from the Right to be considered here concerns the premise of the argument of Section VIII: that there are not very many exits from the proletariat. The objector I have in mind grants that there cannot be general escape in the direction of the petty (and more than petty) bourgeoisie: workers could not become, *en masse*, shopkeepers and employers of other workers, if only because there would then be too few left to produce what shopkeepers sell. But the objector draws attention to a way out which has not yet been mentioned in this article: proletarians can form workers' cooperatives. There is enormous scope for the creation of such entities, and therefore virtually unlimited exit prospects. If, then, exiting is not widespread, the reason must be the fecklessness of workers, their unwillingness to undertake risks, and so on.32
 
 Note that this objection is not intended to support the conclusion of argument 7, that workers are individually free to escape, which is a thesis I not only grant but defend. Fresh support for it comes from the plausible claim that there exist unexploited opportunities to form cooperatives. But the opportunities have to be very extensive indeed for the premise of argument 8 to be affected, and hence for collective proletarian unfreedom to be substantially smaller than I have maintained. So when, in due course, I reply to the objection, by describing obstacles to the formation of cooperatives (such as the hostility to them of the capitalist class, which has a lot of power), my aim is not to deny that there are a goodly number of unexploited exits of this kind, but to assert that there are not, and could not be, enough to permit *mass* escape from the proletariat through them.
 
-<sup>31. &</sup>quot;A proposition is a practical certainty if its probability is so high as to allow us to reason, in *any* decision problem, as if its probability were 1" (R. C. Jeffrey, "Statistical Explanation vs. Statistical Inference," in N. Rescher *et alia*, *Essays in Honor of Carl G. Hempel* [Dordrecht: Reidel, 1970], p. 105).
+31. &quot;A proposition is a practical certainty if its probability is so high as to allow us to reason, in *any* decision problem, as if its probability were 1" (R. C. Jeffrey, "Statistical Explanation vs. Statistical Inference," in N. Rescher *et alia*, *Essays in Honor of Carl G. Hempel* [Dordrecht: Reidel, 1970], p. 105).
 
-<sup>32.</sup> See Nozick, Anarchy, State and Utopia, pp. 255-56.
+32. See Nozick, Anarchy, State and Utopia, pp. 255-56.
 
 The objector might develop his case as follows: "The rules of capitalism do not prohibit the formation of cooperatives. They confer on everyone the right to contract with whomsoever he pleases howsoever he pleases; they therefore give workers the right to contract with one another instead of with bosses, and the great recommendation of capitalism is that it (and not a society of workers' cooperatives) is what results when free contracting is allowed to proceed. Workers in a capitalist society are free to transform it into a society without capitalists, within the rules of capitalism itself (as opposed to through political revolution), but they choose not to do so."
 
@@ -320,13 +324,13 @@ The first thing to say in reply is that procedures permitted by the rules might 
 
 Widespread exiting through cooperatives would require substantial external finance, but financiers are reluctant to back even commercially viable cooperative ventures, since dispensing with the capitalist owner sets a bad example: "the capitalist economy reacts like an organism on which one grafts a foreign organ: it spontaneously rejects the graft."33 Towards commercially viable ventures that reaction is irrational, in the terms of bourgeois economics, but capitalists are less blinkered than economists about what is rational, all things considered. And there are also purely economic reasons for withholding finance, since special risks attach to investment in self-managed firms, such as the danger that the workers will "plunder" it, that is, pay themselves such handsome wages that the cooperative will be unable to meet its obligations to investors. To forestall their anxieties investors might be offered a measure of control
 
-<sup>33.</sup> Branko Horvat, "Plan de socialisation progressive du capital," in Solutions Socialistes, ed. S-C. Kolm (Paris: Editions Ramsay, 1978), p. 183.
+33. Branko Horvat, "Plan de socialisation progressive du capital," in Solutions Socialistes, ed. S-C. Kolm (Paris: Editions Ramsay, 1978), p. 183.
 
-over the firm, but that would tend to turn the cooperators into sellers of labor power, in effect if not in form.<sup>34</sup>
+over the firm, but that would tend to turn the cooperators into sellers of labor power, in effect if not in form.34
 
 There is a general reply to the position of the bourgeois ideologist expounded on p. 24. It is that a capitalist society is not a set of rules, but a set of relations conforming to them, an economic structure. And transformations permitted by the rules might be blocked by the structure. Creation of workers' cooperatives on the extensive scale required to secure the right-wing objection would, after all, mean the demise of great capitalist fortunes and institutions, whose agents are in an excellent position to frustrate transition to a cooperative market society. When the Labour government of 1974–79 denied support to workers' cooperatives of a kind routinely given to private industry, 35 the City of London did not rush in to fill the breach.
 
-Recall that I do not deny that (despite the obstacles) there exist unexploited opportunities for exit through cooperation. My different point is that those opportunities are not, and could not be, extensive enough to constitute a means of extinguishing capitalism within the rules of the capitalist system. That is why the most enthusiastic proponents of the cooperative market economy rely on the state to promote a transition to that form of society.<sup>36</sup>
+Recall that I do not deny that (despite the obstacles) there exist unexploited opportunities for exit through cooperation. My different point is that those opportunities are not, and could not be, extensive enough to constitute a means of extinguishing capitalism within the rules of the capitalist system. That is why the most enthusiastic proponents of the cooperative market economy rely on the state to promote a transition to that form of society.36
 
 ## XV
 
@@ -339,7 +343,7 @@ For a lucid presentation of the record of business and government hostility to c
 
 36. Vanek (*General Theory*, p. 317) says that there is not "much real possibility... in a liberal capitalist environment" for developing a cooperative market economy, and Horvat (*Solutions Socialistes*, pp. 165ff.) proposes what amounts to expropriation without compensation as a means of instituting it.
 
-workers trying to leave it. The objection is that it is unrealistic to infer that the great majority of workers are individually free to leave. For most lack the requisite assets of character and personality: they have no commercial shrewdness, they do not know how to present themselves well, and so on.<sup>37</sup>
+workers trying to leave it. The objection is that it is unrealistic to infer that the great majority of workers are individually free to leave. For most lack the requisite assets of character and personality: they have no commercial shrewdness, they do not know how to present themselves well, and so on.37
 
 To assess this objection, we must distinguish between the freedom to do something and the capacity to do it.
 
@@ -351,9 +355,9 @@ The suggested analysis of "X if unfree to do A" is both controversial and diffic
 
 On the given definitions the left-wing objection, as presented above, fails, since deficiencies of character and personality that make the worker incapable of leaving his class do not therefore make him unfree to leave it. But the definitions, when put together, possess an entailment which
 
-<sup>37.</sup> See the requirements listed by Marx in the passage quoted in footnote 7.
+37. See the requirements listed by Marx in the passage quoted in footnote 7.
 
-<sup>38.</sup> One might say that one is *able* to do A if and only if one has both the capacity and the freedom to do A.
+38. One might say that one is *able* to do A if and only if one has both the capacity and the freedom to do A.
 
 Some would reject the above definition of incapacity on the ground that it entails that someone does A by fluke has the capacity to do A. I reply that if someone does A by fluke, then he shows a capacity to do A, to wit by fluke, which other people might not have. Unlike a six-month-old child. I have the capacity to hit the bull's-eye by fluke. For the view I am opposing here, see Anthony Kenny. Will, Freedom and Power (Oxford: Basil Blackwell, 1975), p. 136.
 
@@ -369,13 +373,13 @@ Argument 7 says that (most) British workers are not forced to sell their labor p
 
 It says that even if an acceptable alternative lies before an agent, he is forced to do *A* if he is (or, in the improved version of the objection, if he has been made) incapable of seizing it.
 
-A different left-wing objection to the inference of argument 7 is substantially due to Chaim Tannenbaum. Tannenbaum accepts the italicized principle. That is, he agrees that a person is not forced to do A if he has an acceptable alternative course; and he also does not deny that petty bourgeois existence is relevantly superior to proletarian.<sup>39</sup> His objection is that for most workers the existence of petty bourgeois exits does not, as I have supposed, generate an acceptable alternative course to remaining a worker. For one must consider, as I did not, the risk attached to the attempt to occupy a petty bourgeois position, which, to judge by the rate at which fledgling enterprises fail, is very high; and also the costs of failure, since often a worker who has tried and failed to become a petty bourgeois is worse off than if he had not tried at all. The Tannenbaum objection does not challenge the premise of argument 7. The exits may exist but, so the objection goes, it is difficult to know where they are, and the price of fruitless search for them is considerable. Accordingly, the expected utility<sup>40</sup> of attempting the petty bourgeois alternative is normally too low to justify the statement that most workers are not forced to sell their labor power.
+A different left-wing objection to the inference of argument 7 is substantially due to Chaim Tannenbaum. Tannenbaum accepts the italicized principle. That is, he agrees that a person is not forced to do A if he has an acceptable alternative course; and he also does not deny that petty bourgeois existence is relevantly superior to proletarian.39 His objection is that for most workers the existence of petty bourgeois exits does not, as I have supposed, generate an acceptable alternative course to remaining a worker. For one must consider, as I did not, the risk attached to the attempt to occupy a petty bourgeois position, which, to judge by the rate at which fledgling enterprises fail, is very high; and also the costs of failure, since often a worker who has tried and failed to become a petty bourgeois is worse off than if he had not tried at all. The Tannenbaum objection does not challenge the premise of argument 7. The exits may exist but, so the objection goes, it is difficult to know where they are, and the price of fruitless search for them is considerable. Accordingly, the expected utility40 of attempting the petty bourgeois alternative is normally too low to justify the statement that most workers are not forced to sell their labor power.
 
 Attention to expected utility also illuminates the case of the immigrant petty bourgeois (Section V), on whom argument 7 was founded. For their lot within the working class is usually worse than that of native proletarians, who are not victims of racism and who are consequently less prone to superexploitation. Hence a smaller probability of success is required to make immigrant attempts at escape rational. The disproportionately high number of immigrants in the petty bourgeoisie is therefore less due to differences in expertise and attitude and more due to objective circumstances than seems at first to be the case.
 
-<sup>39.</sup> Unlike some leftists, who resist the inference of argument 7 by urging that petty bourgeois life is no better than proletarian, because of its long hours, short holidays, financial risk, and so on. I reply (1) that the petty bourgeois, being "his own boss," has an autonomy leftists are ill-placed to disparage, since they so strongly emphasize the loss of it entailed by "proletarianization"; and (2) that it is in any case possible to base the conclusion of argument 7 on the availability of higher grade, not-so-petty, bourgeois positions, into which workers also from time to time rise.
+39. Unlike some leftists, who resist the inference of argument 7 by urging that petty bourgeois life is no better than proletarian, because of its long hours, short holidays, financial risk, and so on. I reply (1) that the petty bourgeois, being "his own boss," has an autonomy leftists are ill-placed to disparage, since they so strongly emphasize the loss of it entailed by "proletarianization"; and (2) that it is in any case possible to base the conclusion of argument 7 on the availability of higher grade, not-so-petty, bourgeois positions, into which workers also from time to time rise.
 
-<sup>40.</sup> The expected utility of a course of action is the sum of the products of the utility and probability of each of its possible outcomes.
+40. The expected utility of a course of action is the sum of the products of the utility and probability of each of its possible outcomes.
 
 To assess the soundness of the Tannenbaum argument, let us state it as it would apply to one whom we shall think of as a typical worker, and whom I shall call W:
 
@@ -427,9 +431,9 @@ But I do concede that there are not as many vacancies as one might at first thin
 
 I argued the thesis of individual freedom to escape for the United Kingdom only. It could be that there is more crowding at the exits in other capitalist societies, and therefore less truth in the premise of argument 7 when it is asserted of those societies. There is, after all, no "British Dream," and in more pervasively capitalist cultures it might be only barely true that there is individual freedom to escape, and it might be, though false, nearly true that the overwhelming majority of the proletariat are forced to sell their labor power, even *in sensu diviso*, not for Tannenbaum-type reasons, but because there are virtually no exits available at any given time.
 
-With respect to societies, what is nearly true (though false) may be more important than what is strictly true, since what is strictly true may be only barely true.<sup>41</sup> When considering such theses as that workers are
+With respect to societies, what is nearly true (though false) may be more important than what is strictly true, since what is strictly true may be only barely true.41 When considering such theses as that workers are
 
-<sup>41.</sup> To get an uncontroversial illustration of the sort of truth value I have in mind, suppose that each year in the past over one hundred people came to my birthday party, and you ask me whether as many as one hundred came this year, and I say No, since in fact ninety-
+41. To get an uncontroversial illustration of the sort of truth value I have in mind, suppose that each year in the past over one hundred people came to my birthday party, and you ask me whether as many as one hundred came this year, and I say No, since in fact ninety-
 
 individually free to escape the proletariat, we should beware of arguments which would at best show them to be barely true.
 

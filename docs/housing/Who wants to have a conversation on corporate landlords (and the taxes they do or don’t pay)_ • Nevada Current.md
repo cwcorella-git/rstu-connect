@@ -1,15 +1,13 @@
 ---
-date: 2023
-author: Nevada Current
-tags:
-  - organizing
-  - housing
-  - rent
 title: "Who wants to have a conversation on corporate landlords (and the taxes they do or don’t pay)_ • Nevada Current"
+author: "Nevada Current"
+date: "2023"
+category: "housing"
 ---
-# Who wants to have a conversation on corporate landlords (and the taxes they do or don’t pay)_ • Nevada Current
 
-*Converted from: `./Who wants to have a conversation on corporate landlords (and the taxes they do or don’t pay)_ • Nevada Current.pdf`*  
+# Who wants to have a conversation on corporate landlords (and the taxes they do or don't pay)_ • Nevada Current
+
+*Converted from: `./Who wants to have a conversation on corporate landlords (and the taxes they do or don't pay)_ • Nevada Current.pdf`*  
 *Total pages: 8*  
 *File size: 5113231 bytes*  
 *Converted: Mon Sep  8 02:07:28 PM PDT 2025*
@@ -34,46 +32,38 @@ title: "Who wants to have a conversation on corporate landlords (and the taxes t
 Who wants to have a conversation on corporate landlord...               https://nevadacurrent.com/2023/04/17/who-wants-to-ha...
 
 
-
-
                                                          PART OF STATES NEWSROOM
                                                                                                                 
-
-
 
 
                                  ECONOMY       HOUSING       LEGISLATURE      POLITICS + GOVERNMENT
 
 
-
                         Who wants to have a conversation on
                        corporate landlords (and the taxes they
-                                  do or don’t pay)?
-                                      A Nevada assemblywoman aims to �nd out
+                                  do or don't pay)?
+                                      A Nevada assemblywoman aims to nd out
                                      BY: APRIL CORBIN GIRNUS - APRIL 17, 2023              5:00 AM
 
                       Real Estate Investment Trusts are singled out for an exemption in the state commerce
-                     tax. “My issue is equity,” says Assemblywoman Venicia Considine. “It is unfair for landlords of
-                     businesses in group A to pay the commerce tax but not group B.” (Getty Images)
-
-
+                     tax. "My issue is equity," says Assemblywoman Venicia Considine. "It is unfair for landlords of
+                     businesses in group A to pay the commerce tax but not group B." (Getty Images)
 
 
                                                             
                      If you are a renter, who owns your home? Who owns the advertising
                      billboard you pass everyday on your commute to work? Who owns
                      the casino where the event advertised on that billboard is
-                     happening? Who owns the o�ce complex where you work?
+                     happening? Who owns the oce complex where you work?
 
                      Increasingly, the answer in Nevada is a real estate investment trust,
                      or REIT.
 
                      REITs are companies that own income-producing real estate,
                      typically through rent payments but also through interest on
-                     mortgages they �nance. Similar to mutual funds, REITs are required
+                     mortgages they nance. Similar to mutual funds, REITs are required
                      to payout most of their income as dividends to their shareholders,
                      of which there typically must be at least 100.
-
 
 
 1 of 8                                                                                                                 9/8/25, 12:23 PM
@@ -92,16 +82,16 @@ Who wants to have a conversation on corporate landlord...   https://nevadacurren
 
 
                      Megadeals involving Las Vegas Strip properties are the most high-
-                     pro�le example of REITs making their mark in Nevada, but REITs
+                     prole example of REITs making their mark in Nevada, but REITs
                      are not limited to any one industry. Nationally, they have received
-                     the most attention for buying up signi�cant swaths of single-family
+                     the most attention for buying up signicant swaths of single-family
                      homes and rental units, which critics say drives up the mortgages
                      and rents for non-investors who are simply looking to buy and live
                      in a home.
 
                      Assemblywoman Venicia Considine (D-Las Vegas) wants Nevada to
-                     start a conversation about REITs — not just about their in�uence in
-                     key industries like housing, but also about the state’s approach to
+                     start a conversation about REITs -- not just about their inuence in
+                     key industries like housing, but also about the state's approach to
                      taxing them.
 
                      At the federal level, REITs are sheltered from paying corporate
@@ -115,9 +105,9 @@ Who wants to have a conversation on corporate landlord...   https://nevadacurren
                      understandable at the federal level because that revenue is still
                      captured from individuals as part of income tax.
 
-                     “States generally cannot do that,” said Mazerov, because most REIT
-                     shareholders will be located in other states. “It doesn’t make sense
-                     for any state, in my opinion, to conform to federal REIT status.”
+                     "States generally cannot do that," said Mazerov, because most REIT
+                     shareholders will be located in other states. "It doesn't make sense
+                     for any state, in my opinion, to conform to federal REIT status."
 
                      A few states have tackled REITs at their level.
 
@@ -127,12 +117,12 @@ Who wants to have a conversation on corporate landlord...   https://nevadacurren
 
                      Various Hawaii legislators, driven by the realization that their hotels
                      and retail centers were owned by REITs on the mainland, in recent
-                     years have attempted to adjust the state’s tax structure for REITs.
-                     But those e�orts were derailed in the legislature or vetoed by the
+                     years have attempted to adjust the state's tax structure for REITs.
+                     But those eorts were derailed in the legislature or vetoed by the
                      governor.
 
                      Nevada with its conspicuous lack of both corporate and personal
-                     income tax doesn’t have that obvious avenue before it.
+                     income tax doesn't have that obvious avenue before it.
 
                      A curious commerce tax exemption
                      Considine is sponsoring Assembly Bill 345, which would remove
@@ -161,43 +151,43 @@ Who wants to have a conversation on corporate landlord...   https://nevadacurren
 
                      Considine, who is serving her second term in the Legislature, told
                      the Assembly Committee on Revenue during a March 30 hearing
-                     that she could not �nd any legislative record explaining why the
+                     that she could not nd any legislative record explaining why the
                      exemption was included.
 
-                     “My issue is equity,” she told the committee, which she co-chairs. “It
+                     "My issue is equity," she told the committee, which she co-chairs. "It
                      is unfair for landlords of businesses in group A to pay the commerce
-                     tax but not group B.”
+                     tax but not group B."
 
                      That sentiment aside, it is unclear whether that is actually
                      happening, because the wording of the existing statute suggests it
                      applies only to REITs without direct holdings. Put another way,
-                     there’s an exemption to the exemption, and most REIT activity
+                     there's an exemption to the exemption, and most REIT activity
                      would appear to fall under the non-exempted category.
 
-                     “I’ve been told they do pay commerce tax,” Considine
-                     acknowledged in an interview with the Current. “I think it’s a
+                     "I've been told they do pay commerce tax," Considine
+                     acknowledged in an interview with the Current. "I think it's a
                      tangled web. I really want us to dive into it and pull the strings,
-                     untie the knot.”
+                     untie the knot."
 
                      The way she sees it, if the REIT commerce tax exemption is largely
                      moot, there should be no issue with her proposal to simply remove
                      it altogether.
 
-                     “In the big picture, I really thought having this bill would have
-                     people crawling out of the woodwork,” added Considine. “The
+                     "In the big picture, I really thought having this bill would have
+                     people crawling out of the woodwork," added Considine. "The
                      almost complete silence on this bill just adds to the layers of
-                     confusion.”
+                     confusion."
 
                      The Nevada Department of Taxation did not respond to requests
                      for details on which REITs are exempted from the commerce tax.
 
                      More than anything, she wants to start a conversation about REITs.
 
-                                                                  “Let’s put it out there
-                                                                  and see the bene�t of the
+                                                                  "Let's put it out there
+                                                                  and see the benet of the
                                                                   exemption. If there is no
-                                                                  bene�t, then why is it in
-                                                                  there? How is it a�ecting
+                                                                  benet, then why is it in
+                                                                  there? How is it aecting
                                                                   our state, our tax base
 
 3 of 8                                                                                            9/8/25, 12:23 PM
@@ -222,18 +212,18 @@ Who wants to have a conversation on corporate landlord...   https://nevadacurren
 Who wants to have a conversation on corporate landlord...        https://nevadacurrent.com/2023/04/17/who-wants-to-ha...
 
 
-                                                                        and our population?”
+                                                                        and our population?"
 
-                                                                        She continued, “I know
-                                                                        the bene�ts to the
+                                                                        She continued, "I know
+                                                                        the benets to the
                                                                         shareholders. But what
-                                                                        are the bene�ts to our
-                                                                        community?”
+                                                                        are the benets to our
+                                                                        community?"
 
                                                                                At least one lawmaker
-                      “I think it’s a tangled web. I really want us to dive
+                      "I think it's a tangled web. I really want us to dive
                                                                                across the aisle was
-                     into it and pull the strings, untie the knot,” said state receptive to that
+                     into it and pull the strings, untie the knot," said state receptive to that
                      Assemblywoman Venicia Considine.
                                                                                conversation. State
                                                                                Assemblywoman
@@ -241,25 +231,25 @@ Who wants to have a conversation on corporate landlord...        https://nevadac
                      Considine for introducing the bill and said REITs are pushing
                      Nevadans out of the real estate market.
 
-                     “They are making it harder for people to get into their �rst or
-                     second homes,” she said.
+                     "They are making it harder for people to get into their rst or
+                     second homes," she said.
 
                      The revenue panel passed AB 345 out of committee on Tuesday.
-                     Three of the committee’s four Republicans voted in opposition.
+                     Three of the committee's four Republicans voted in opposition.
                      Gallant voted for the motion but noted that she and Considine were
-                     “working on some possible amendments to make it more palatable,
-                     so to speak.”
+                     "working on some possible amendments to make it more palatable,
+                     so to speak."
 
                      A much more obvious tax loophole
-                     REITs have been a major bene�ciary of a tax loophole that Nevada
+                     REITs have been a major beneciary of a tax loophole that Nevada
                      lawmakers are considering closing this session.
 
                      That loophole involves the real estate transfer tax and an existing
                      exemption for deals involving transfers of property from one owner
                      to a subsidiary. A Las Vegas Review-Journal investigation last year
-                     found that since 2007 at least $27.5 billion worth of transactions —
+                     found that since 2007 at least $27.5 billion worth of transactions --
                      most of them on or near the Strip, and many involving real estate
-                     investment trusts — avoiding paying the real estate transfer tax.
+                     investment trusts -- avoiding paying the real estate transfer tax.
                      Essentially, instead of selling a property to a buyer directly, a
                      company would transfer their property to a newly formed
                      subsidiary, qualifying them for the real estate transfer tax
@@ -268,7 +258,6 @@ Who wants to have a conversation on corporate landlord...        https://nevadac
 
                      Considine introduced a bill, Assembly Bill 450, to close that
                      loophole. Assembly Speaker Steve Yeager and Assemblywoman
-
 
 
 4 of 8                                                                                                 9/8/25, 12:23 PM
@@ -296,34 +285,34 @@ Who wants to have a conversation on corporate landlord...   https://nevadacurren
                      Sandra Jauragui independently introduced a similar bill, Assembly
                      Bill 448.
 
-                     “I don’t think anyone is violating the law,” Yeager emphasized
-                     Thursday in an Assembly Revenue hearing for his bill. “I think
-                     there is a loophole.”
+                     "I don't think anyone is violating the law," Yeager emphasized
+                     Thursday in an Assembly Revenue hearing for his bill. "I think
+                     there is a loophole."
 
-                     The real estate transfer tax helps fund a�ordable housing trusts, the
+                     The real estate transfer tax helps fund aordable housing trusts, the
                      building of new schools in Clark County and general funds for the
                      state and Washoe and Churchill counties.
 
                      According to Yeager, the real estate transfer tax generated $248.6
-                     million in �scal year 2021. That included $44 million to fund
+                     million in scal year 2021. That included $44 million to fund
                      capital projects within Clark County School District and $10.4
-                     million for a�ordable housing.
+                     million for aordable housing.
 
-                     “When transfer tax isn’t paid, that’s a real hit. Not just to the general
+                     "When transfer tax isn't paid, that's a real hit. Not just to the general
                      fund that we care about in this building but to school districts and
-                     a�ordable housing.”
+                     aordable housing."
 
                      Nevada and REITs
                      Considine in her commerce tax presentation did not single out any
                      single REIT or economic industry, but there is a clear indication
                      that Nevada has welcomed REITs with open arms: the real estate
-                     investment trusts that control a signi�cant portion of the largest
+                     investment trusts that control a signicant portion of the largest
                      properties on the Las Vegas Strip.
 
                      Caesars Entertainment announced its intent to form a REIT in
-                     2014 SEC �lings amid its complicated bankruptcy proceedings.
+                     2014 SEC lings amid its complicated bankruptcy proceedings.
                      The bankruptcy, completed in 2017, resulted in Caesars spinning
-                     its physical assets o� to an independent, newly formed REIT named
+                     its physical assets o to an independent, newly formed REIT named
                      VICI Properties.
 
                      Meanwhile, MGM Resorts announced the formation of its own
@@ -333,7 +322,7 @@ Who wants to have a conversation on corporate landlord...   https://nevadacurren
                      acquired MGM Growth
                      Properties for $17.2
                      billion, making it the
-                     Strip’s biggest landlord.
+                     Strip's biggest landlord.
 
                      That MGM-VICI deal
                      was reported to include
@@ -356,9 +345,9 @@ Who wants to have a conversation on corporate landlord...     https://nevadacurr
 
 
                      rent for 25 years, with     Megadeals involving Las Vegas Strip properties
-                     rent rising 2% annually    are the most high-pro�le example of REITs making
+                     rent rising 2% annually    are the most high-prole example of REITs making
                                                 their mark in Nevada. (Photo: Ronda Churchill/
-                     for the �rst decade and    Nevada Current)
+                     for the rst decade and    Nevada Current)
                      then between 2% and 3%
                      annually depending on the consumer price index thereafter.
 
@@ -367,40 +356,38 @@ Who wants to have a conversation on corporate landlord...     https://nevadacurr
                      she did not mention VICI or any of the major REIT deals in recent
                      years.
 
-                     “That wasn’t my focus,” she said. “I didn’t want anyone to think it
-                     was about those properties — the big Strip things. It is about the
-                     entire state.”
+                     "That wasn't my focus," she said. "I didn't want anyone to think it
+                     was about those properties -- the big Strip things. It is about the
+                     entire state."
 
                      Considine, an attorney whose legal career started with doing
                      foreclosure work at the Legal Aid Center of Southern Nevada in the
                      immediate aftermath of the housing bubble burst, said her heart is
                      in addressing rental issues.
 
-                     “I’m very worried about housing,” she said. “If they are buying up
+                     "I'm very worried about housing," she said. "If they are buying up
                      our communities and making them rentals instead of allowing for
-                     the American Dream, then that’s really what I would like to know
-                     more about.”
+                     the American Dream, then that's really what I would like to know
+                     more about."
 
                      Considine said REITs are becoming increasingly active, with one
                      REIT-owned master-planned community being designed
-                     speci�cally for rentals. She isn’t the only lawmaker concerned. State
+                     specically for rentals. She isn't the only lawmaker concerned. State
                      Sen. Dina Neal (D-North Las Vegas) independently has introduced
                      Senate Bill 395 to require corporate investors, including REITs, to
-                     register with the Nevada Secretary of State’s Securities Division.
+                     register with the Nevada Secretary of State's Securities Division.
                      That bill would also restrict their purchasing ability to 1,000
                      properties per year.
 
                      Corporate investors bought a quarter of all single-family homes
                      nationwide in 2021. In Nevada, investor purchases climbed from
                      18% in 2020 to 30%, according to a Stateline analysis. Only two
-                     states — Georgia and Arizona — saw more action from investors.
+                     states -- Georgia and Arizona -- saw more action from investors.
 
                      REITs own 7,937 properties across Nevada, totalling $78.02 billion
                      in property value, according to Nareit. Those properties include
                      more than 4,600 single-family rentals, 1,100 cell towers, 153
                      industrial centers, 149 retail centers and 82 health care facilities.
-
-
 
 
 6 of 8                                                                                              9/8/25, 12:23 PM
@@ -437,14 +424,10 @@ Who wants to have a conversation on corporate landlord...     https://nevadacurr
 Who wants to have a conversation on corporate landlord...                 https://nevadacurrent.com/2023/04/17/who-wants-to-ha...
 
 
-
-
                      Our stories may be republished online or in print under Creative Commons license CC BY-NC-ND
                      4.0. We ask that you edit only for style or to shorten, provide proper attribution and link to our
                      website. AP and Getty images may not be republished. Please see our republishing guidelines for use
                      of any other photos and graphics.
-
-
 
 
                                                APRIL CORBIN GIRNUS 
@@ -454,17 +437,13 @@ Who wants to have a conversation on corporate landlord...                 https:
                                                Sunrise Manor and currently resides in Paradise with her husband, three
                                                children and one mutt.
 
-                                               Nevada Current is part of States Newsroom, the nation’s largest state-
-                                               focused nonpro�t news organization.
+                                               Nevada Current is part of States Newsroom, the nation's largest state-
+                                               focused nonprot news organization.
 
                                                MORE FROM AUTHOR
 
 
-
-
                         MORE FROM OUR NEWSROOM
-
-
 
 
                        With families getting priced out, NV               Rolling the dice on DEI
@@ -474,15 +453,10 @@ Who wants to have a conversation on corporate landlord...                 https:
                        April 10, 2025
 
 
-
-
                                     P O L I CY, P O L I T I C S A N D C O M M E N TA RY
 
 
-
                          DEMOCRACY TOOLKIT                                                                       
-
-
 
 
 7 of 8                                                                                                                     9/8/25, 12:23 PM
@@ -513,18 +487,16 @@ Who wants to have a conversation on corporate landlord...                 https:
 Who wants to have a conversation on corporate landlord...                      https://nevadacurrent.com/2023/04/17/who-wants-to-ha...
 
 
-                                                        Nevada Current is a nonpro�t online source of political and policy
+                                                        Nevada Current is a nonprot online source of political and policy
                                                         news and commentary. We seek to demonstrate how policies,
                                                         institutions and systems make life harder for Nevadans than it
                                                         needs to be; document how things got that way, and; explore what
-                                                        it might take to �x them.
+                                                        it might take to x them.
 
-                                                        We’re part of States Newsroom, the nation’s largest state-focused
-                                                        nonpro�t news organization.
+                                                        We're part of States Newsroom, the nation's largest state-focused
+                                                        nonprot news organization.
 
                                                         DEIJ Policy | Ethics Policy | Privacy Policy
-
-
 
 
                       Our stories may be republished online or in print under Creative Commons license CC BY-NC-ND
@@ -532,12 +504,9 @@ Who wants to have a conversation on corporate landlord...                      h
                                                   website. (See full republishing guidelines.)
 
 
-
                                                                                                      
                                                              © Nevada Current, 2025
                                                                      v1.91.2
-
-
 
 
                                                     S TAT E S N E WS R O O M
@@ -546,9 +515,6 @@ Who wants to have a conversation on corporate landlord...                      h
                                                 FA I R . F E A R L E S S . F R E E .
 
 
-
-
 8 of 8                                                                                                                       9/8/25, 12:23 PM
 
 ---
-

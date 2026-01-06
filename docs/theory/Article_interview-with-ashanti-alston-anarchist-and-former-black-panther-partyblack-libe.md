@@ -1,15 +1,8 @@
 ---
-title: >-
-  Interview With Ashanti Alston Anarchist and Former Black Panther Partyblack
-  Libe
-date: 2025
-author: Treyf Podcast
-tags:
-  - organizing
-  - strikes
-  - unions
-  - rent
-  - police
+title: ">-"
+author: "Treyf Podcast"
+date: "2025"
+category: "theory"
 ---
 
 # Interview With Ashanti Alston Anarchist and Former Black Panther Partyblack Libe

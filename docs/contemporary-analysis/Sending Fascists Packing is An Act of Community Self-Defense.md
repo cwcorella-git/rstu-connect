@@ -1,3 +1,8 @@
+---
+title: "## **Sending Fascists Packing is An Act of Community Self-Defense**"
+category: "contemporary-analysis"
+---
+
 ## **Sending Fascists Packing is An Act of Community Self-Defense**
 
 **Date:** Mon, 07/24/2017 - 16:44 **Source:** https://ecology.iww.org/node/2355**Tags:** Industrial Workers of the World (IWW), IWW General Defense Committee (GDC), green unionism, green syndicalism, anti-fascism By Dragonfly Climate Collective and Connecticut membership of the Industrial Workers of the World - July 18, 2017 On July 8 th 2017, suburbanite white supremacists in order to not only make a show of force, but to use it as a springboard for greater coordination, recruitment and organizing. They chose their site explicitly because it has for decades been a point of anti-racist struggle and popular power, where working class families chose the New Haven Green as a point of convergence and organizations from every race, nationality and every rung on the social ladder come to gather for cultural enrichment, political action, or simply as their only option. The Proud Boys, Identity Evropa, the American Guard and assorted racists and misogynists find New Haven's communities threatening to their genocidal worldview, and on July 8
@@ -34,7 +39,12 @@ click here for a longer discussion of terminology). These individuals already op
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | On July 8 |
 | th |
-| , committed community activists went out of their way to deny the rising alt-right the<br>opportunity to become emboldened, better organized and more capable of terrorizing our<br>communities, when in actuality we all have other political commitments that demand our<br>attention. We welcome the opportunity to engage in debate about how best to undermine<br>fascism and turn its targeted constituencies against it, and wish to see greater collaboration<br>across the region on this and a multitude of other issues in these frightening times. |
+| , committed community activists went out of their way to deny the rising alt-right the
+opportunity to become emboldened, better organized and more capable of terrorizing our
+communities, when in actuality we all have other political commitments that demand our
+attention. We welcome the opportunity to engage in debate about how best to undermine
+fascism and turn its targeted constituencies against it, and wish to see greater collaboration
+across the region on this and a multitude of other issues in these frightening times. |
 | ¡ |
 | NO PASARAN! |
 | Disclaimer: |

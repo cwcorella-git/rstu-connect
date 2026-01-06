@@ -1,3 +1,8 @@
+---
+title: "## **Communities Unite to Fight Coal in Oakland**"
+category: "environmental-justice"
+---
+
 ## **Communities Unite to Fight Coal in Oakland**
 
 ## **Date:** Thu, 03/24/2016 - 14:40

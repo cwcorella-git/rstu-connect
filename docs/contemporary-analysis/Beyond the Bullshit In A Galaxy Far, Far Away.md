@@ -1,3 +1,8 @@
+---
+title: "## **Beyond the Bullshit: In A Galaxy Far, Far Away...**"
+category: "contemporary-analysis"
+---
+
 ## **Beyond the Bullshit: In A Galaxy Far, Far Away...**
 
 ## **Date:** Unknown

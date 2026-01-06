@@ -1,3 +1,8 @@
+---
+title: "## ![](_page_0_Picture_2.jpeg)"
+category: "contemporary-analysis"
+---
+
 ## ![](_page_0_Picture_2.jpeg)
 
 **[Business](https://www.gamedeveloper.com/business) [News](https://www.gamedeveloper.com/latest-news)**
@@ -30,9 +35,9 @@ I played around with it and it's way better than I feared! It uses more than pla
 
 Veteran indie devs like David Pittman and Robert Zubek quickly weighed in to say the tool already helped them surface some interesting games they hadn't heard of, with Zubek seeking more questions about the game's machine learning, and what inputs developers should be paying attention to when their games surface in the tool.
 
-Steam's new interactive recommender seems cool, I've already discovered a few newish games I'd never heard of before!<https://t.co/7SwRKzKXpw> — David Lindsey Pittman (@dphrygian) [July 11, 2019](https://twitter.com/dphrygian/status/1149377718364135427?ref_src=twsrc%5Etfw)
+Steam's new interactive recommender seems cool, I've already discovered a few newish games I'd never heard of before! — David Lindsey Pittman (@dphrygian) [July 11, 2019](https://twitter.com/dphrygian/status/1149377718364135427?ref_src=twsrc%5Etfw)
 
-I'm loving these interactive recos, they seem to be right on! :[\)@dejobaan](https://twitter.com/dejobaan?ref_src=twsrc%5Etfw) could you go into more ML details? Blog post says it's using only play histories, not tags, scores, etc. Does this mean it's treating users as points in N-dimensional space of "playtimes per game"... 1/2<https://t.co/i Ffy8Y7Bpv>
+I'm loving these interactive recos, they seem to be right on! :[\)@dejobaan](https://twitter.com/dejobaan?ref_src=twsrc%5Etfw) could you go into more ML details? Blog post says it's using only play histories, not tags, scores, etc. Does this mean it's treating users as points in N-dimensional space of "playtimes per game"... 1/2
 
 — Robert Zubek (@rzubek) [July 11, 2019](https://twitter.com/rzubek/status/1149379986853416961?ref_src=twsrc%5Etfw)
 

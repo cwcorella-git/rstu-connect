@@ -1,20 +1,8 @@
 ---
-title: Remarks on Wittgenstein’s Remarks on Frazer
-author: David Graeber
-date: '2019'
-pubdate: '2021-11-28T21:05:10'
-language: en
-source_url: >-
-  Retrieved on 28<sup>th</sup> November 2021 from
-  [[https://davidgraeber.org/papers/remarks-on-wittgensteins-remarks-on-frazer/][davidgraeber.org]]
-topics:
-  - anthropology
-  - philosophy
-original_format: muse
-converted_date: '2025-11-08T11:25:03.197286'
-tags:
-  - Anthropology
-  - Philosophy
+title: "Remarks on Wittgenstein’s Remarks on Frazer"
+author: "David Graeber"
+date: "2019"
+category: "contemporary-analysis"
 ---
 
 *The following essay was prepared for the volume* “The Mythology in Our Language”*—an anthropological response to Wittgenstein’s famous critical commentaries on Sir James Frazer’s* The Golden Bough*, edited by Giovanni da Col and Stephan Palmier. The original conception of the book was to assign roughly 8 of Wittgenstein’s comments, which varied from one line to several pages long, to each of 8 or 9 anthropologists, who would then provide their own commentaries on them. I chose my eight and was the first to complete the task, adding to them an introduction, on the relation of Frazer and Wittgenstein more generally. Apparently the other authors had trouble with the original concept, because eventually, the format seems to have been abandoned and book came out as a fairly run-of-the-mill series of essays. By this time however I had been purged from the project after disagreements with one of the editors on unrelated issues.*
@@ -29,7 +17,7 @@ Sartre had a similar experience with the potlatch; when he was writing his *Note
 
 If anthropologists find Wittgenstein’s *Remarks on Frazer* confounding too, it’s for a different reason: they find the very existence of the text an embarrassment. Much like Hegel’s notorious refutation of Phrenology in the *Phenomenology of Spirit*, it is considered absurd, even slightly scandalous, that such a great philosopher should have chosen to waste so much of their time on such obviously wrong ideas in the first place.
 
-In a way this just exemplifies everything that makes Frazer such an irritant for the discipline: for all that he embodies everything the discipline has rejected, he is still, to this day, the world’s most influential anthropologist. *The Golden Bough* has remained continually in print for 120 years, and continues to sell thousands of copies in dozens of languages across the world each year; it has inspired some of the greatest works of 20<sup>th</sup> century literature, and still inspires poets, novelists, artists, and filmmakers.
+In a way this just exemplifies everything that makes Frazer such an irritant for the discipline: for all that he embodies everything the discipline has rejected, he is still, to this day, the world’s most influential anthropologist. *The Golden Bough* has remained continually in print for 120 years, and continues to sell thousands of copies in dozens of languages across the world each year; it has inspired some of the greatest works of 20th century literature, and still inspires poets, novelists, artists, and filmmakers.
 
 The core of Frazer’s appeal, I think, is the fact that he is not a relativist, but a universalist. He may claim to be making an evolutionist argument, but what he actually does in the book is present an encyclopedic list of strikingly analogous customs and beliefs drawn from widely scattered parts of the world; customs and beliefs which invariably resonate with those of the reader’s own tradition (pretty much whatever that tradition might be); and to present it all in a tone of deeply sensuous appreciation that utterly flies in the face of his periodic dismissals of his material as silly superstition. Hence the book can be, and generally has been, read as a kind of grammar of the human soul: The Great Mother. The Cosmic Fire. The Dying God. The Scapegoat.
 
@@ -51,21 +39,19 @@ His resultant indignation sears through the *Remarks*. Wittgenstein continually 
 
 Indeed, he was unsure of the value of science of *any* sort:
 
-<quote>
 
 The truly apocalyptic view of the world is that things do *not* repeat themselves. It is not e.g. absurd to believe that the scientific & technological age is the beginning of the end for humanity, that the idea of Great Progress is a bedazzlement, along with the idea that the truth will ultimately be known; that there is nothing good or desirable about scientific knowledge & that humanity, in seeking it, is falling into a trap. It is by no means clear that this is not how things are.[3]
 
-</quote>
 
 Wittgenstein appears to have seized on Frazer as an icon of the worst pretensions of science, in their most arrogant and simple-minded form—and by extension of all those scientistic instincts he was trying to identify, and purge, in himself. As a result, the *Remarks* might best be read as a kind of spiritual exercise; a discipline of purification, abnegation, and humility before the depths of a human soul whose grammar he felt could never ultimately be written. Insofar as they are such an exercise, any attempt to employ them as tools for the construction of some new social theory could only be a kind of betrayal.
 
 If so, the question for anthropologist would have to be: Is this a betrayal worth making? Is there reason to, and would it be legitimate to, (effectively) plunder the meditations of such a thinker, taking advantage of the endless flashes of brilliance that occur along the way for purposes that so clearly contradict his own? I believe the answer is: yes. Such a betrayal is indeed worthwhile. Most good ideas are poached from somewhere; and almost inevitably, that means, seized to some degree at cross-purposes to the stated intentions of the authors from whom they’re taken. Many, like Frazer, don’t even seem to mind. And even in the case of Wittgenstein, who gives every indication that he would, indeed, have minded, one cannot help but notice a certain ambivalence. True, he was hardly so complacent that he could, like so many anthropologists, allow himself to reject Frazer’s explicit progressivism on tacit progressivist grounds; he understood such things cannot be done by half-measures; yet even so, he often hesitates—as in the passage quoted above, hedging everything in litotes, as if aware of the terrifying implications of consistency. The “apocalyptic” comment in his notebook was accompanied by another, similarly tortured reflection on whether or not he really ought (as his political instincts told him he should) embrace, rather than fear, the prospect of nuclear war. Let us, then, take the side of that wavering Wittgenstein, and see what might be poached.
 
-<quote>
-<em>**#7**</em>
 
-<em>**One would like to say: This or the other event took place here; laugh if you can.**</em>
-</quote>
+**#7**
+
+**One would like to say: This or the other event took place here; laugh if you can.**
+
 
 The thought seems to be: How can anyone possibly deny there is something deep and terrible happening in the death of a sacred king, when a man is exalted as a god, then butchered? How can anyone greet this with contemptuous dismissal? But of course this is precisely what Frazer claims to do. If his explanatory framework is taken literally, there is nothing particularly deep here; simply a series of misunderstandings about the operations of the forces of nature, which cause some of the more ignorant of the world’s inhabitants to feel that they can only transfer the divine spirit from an old king to a new one if the death of the old king occurs under controlled conditions.
 
@@ -83,11 +69,9 @@ Reading the Socratic dialogues, one has the feeling: what a frightful waste of t
 
 Bertrand Russell recorded the following conversation in a letter to a friend (Lucy Mary Donnelly) in 1913:
 
-<quote>
 
 Then my Austrian, Wittgenstein, burst in like a whirlwind, just back from Norway, and determined to return there at once and live in complete solitude until he has solved *all* the problems of logic. I said it would be dark, and he said he hated daylight. I said it would be lonely, and he said he prostituted his mind talking to intelligent people. I said he was mad, and he said God preserve him from sanity. (God certainly will.)[5]
 
-</quote>
 
 Imaginary conversations, on the other hand, abound especially in his notes and lectures. There was one storied moment, however, when a real-life conversation did make a profound—indeed, life- transformative—impression on Wittgenstein. In a conversation on a train with the young Italian leftist economist Piero Sraffa, Wittgenstein was explaining his argument in the *Tractatus* that any proposition must have the same logical form as its referent. Sraffa replied with a classic Neapolitan gesture of contempt, brushing his fingers out from under his chin. “Then what,” he asked, “is the logical form of *that*?”
 
@@ -95,13 +79,13 @@ Wittgenstein was confounded. In some versions of the story, he is even said to h
 
 Taken in this context, Remark #7, the fact Wittgenstein chose to put this one enigmatic sentence near the head of the collection, suddenly makes better sense. The entire series of reflections is driven by, and consists largely of, an endlessly layered dialectic of respect and contempt. Wittgenstein seeks to discover what is to be respected in all religious feeling. He encounters Frazer’s contempt, and reacts with scorn and anger. The ritual episodes he chooses to highlight, too, almost always center on, or at least allude to, gestures of honor and degradation, respect and contempt. This is what makes a ritual killing different than mere death, or even murder. It is the fusion of honor and degradation in a single catastrophic act. It would seem that, if for Wittgenstein humans are ceremonial animals, this is what ceremonial is primarily about.
 
-<quote>
+
 ***#9***
 
 ***Burning in effigy. Kissing the picture of a loved one. This is obviously not based on a belief that it will have a definite effect on the object which the picture represents. It aims at some satisfaction, and does achieve it, too. Or rather, it does not aim at anything; we act in this way and then feel satisfied.***
 
 ***One could also kiss the name of the loved one, and here the representation through the name [as a place-holder] would be clear.***
-</quote>
+
 
 Wittgenstein is trying to represent ritual behavior as non-utilitarian. It does not aim to change the world in a practically advantageous way. It does not aim at something outside itself at all. But our language makes this very hard to express. To “explain” a custom is to cast it as a way of doing something else. So he says: I kiss a picture of my beloved not because I think it will have an effect on my beloved, but rather, to express my feelings. But then he adds: that makes me feel satisfied in itself. He immediately takes it back, realizing even by saying this that he is adopting a tacitly utilitarian logic. Similarly with his remark (#31) about striking the ground or a tree in anger with a stick: it expresses something, it is a gesture of punishment that one knows can punish nothing. But does that mean one is exorcising the anger, through some kind of catharsis, so that the act is pragmatic in a certain way after all? Or is the sense of satisfaction not the aim but just something that follows afterward? And is one really satisfied after kissing a picture, or striking a tree, at all?
 
@@ -117,7 +101,7 @@ Wittgenstein is saying: I wish to create a different theoretical game. But does 
 
 Often, he does seem to be falling into it: i.e., he wishes to respect ritual gestures but finds them to themselves be all about respect. When he first conceived the project, he assumed there had to be a homology. “Only something supernatural,” he wrote in his notebooks in 1929, “can express the Supernatural.”[7] Later he wavered. A year later, he was expressing frustration with ritual itself. “Everything ritualistic (everything that, as it were, smacks of the high priest) is strictly to be avoided because it straightaway turns rotten.” But then he immediately raised an objection to himself. “Of course a kiss is a ritual too & it isn’t rotten; but no more ritual is permissible than is as genuine as a kiss.”[8]
 
-<quote>
+
 ***#13***
 
 ***Why should it not be possible for someone’s own name to be sacred to himself? On the one hand, it surely is the most important instrument given to him, and, on the other, like a jewel hung around his neck at birth.***
@@ -139,7 +123,7 @@ Often, he does seem to be falling into it: i.e., he wishes to respect ritual ges
 ***How could the fire or the fire’s resemblance to the sun have failed to make an impression on the awakening mind of man? But not perhaps “because he can’t explain it to himself” (the stupid superstition of our time) – for does an ‘explanation’ make it less impressive? –***
 
 ***The magic in “Alice in Wonderland”, trying to dry out by reading the driest thing there is.***
-</quote>
+
 
 For Wittgenstein ritual is always about piety, the sacred, respect. (Or it’s inversion, disrespect.) While that which we respect is inexpressible in language, the forms that respect takes constitute a limited and comprehensible repertoire that, he notes, is essentially what mark us as human. A grammar of such gestures could be written. In this grammar, opposites are identical: it is quite the same thing to hide something, or to insist everyone look at it; to preserve an object forever, or to rip it into shreds.
 
@@ -157,7 +141,7 @@ Wittgenstein was concerned with ritual as ethics, as an expression of awe and wo
 
 (Would it really be disrespectful to write a universal grammar of forms of respect? As an anthropologist who has himself once attempted such a project, I find this question challenging.[9] My first reaction is no: an effort to explain the existence of respect might well be disrespectful, but to simply describe the common internal logic of forms of respect is not.)
 
-<quote>
+
 ***#31***
 
 ***I read, among many similar examples, of a rain-king in Africa to whom the people appeal for rain when the rainy season comes. But surely this does not mean that they actually think he can make rain, for otherwise they would do it in the dry periods of the year when the land is “a parched and arid desert” [English in the original]. For if one assumes that the people once instituted the office of the rain-king out of stupidity, it certainly still is clear that they would have previously made the experience that the rains commence in March, and they could have let the rain king perform his work during the other parts of the year. Or again: towards morning, when the sun is about to rise, people celebrate rites of day-break, but not at night, for then they simply burn lamps.***
@@ -165,7 +149,7 @@ Wittgenstein was concerned with ritual as ethics, as an expression of awe and wo
 ***When I am angry about something, I sometimes hit the ground or a tree with my cane. But surely I do not believe that the ground is at fault or that the hitting would help matters. “I vent my anger.” And all rites are of this kind. One can call such practices instinctual behavior. – And a historical explanation, for instance that I or my ancestors earlier believed that hitting the ground would help is mere shadow-boxing, for these [sic] are superfluous assumptions that explain nothing. What is important is the semblance of the practice to an act of punishment, but more than this semblance cannot be stated.***
 
 ***Once such a phenomenon is brought into relation with an instinct that I possess myself, it thus constitutes the desired explanation; that is, one that resolves this particular difficulty. And further investigation of the history of my instinct now proceeds along different tracks.***
-</quote>
+
 
 The fact that rainmaking ceremonies are conducted only before the rainy season suggests it is not a mistaken attempt to bring the rains. But this leads to a further question: if it is not an attempt to influence the weather, why is it that those conducting the ceremony insist that it is?
 
@@ -179,17 +163,17 @@ Wittgenstein came close to the conclusion this was indeed the essence of magic i
 
 Still, anyone who has observed magical practice *en situ* is aware that it plays, for its power, on just such conundrums. Magic operates along the borders between the truths of social power—that domain where statements (“I am the governor of this province”) are true precisely to the degree one can persuade others to believe them—and those truths (we usually call them “natural” ones) whose reality rests in their ability to resist any such act of persuasion (even were the governor to persuade everyone in the province he could fly, were he to leap from a cliff, he would still plummet to his death.) Not only is the border between these zones never clear, but much of the persuasiveness of both magic, and politics, rests on playing games with that very lack of clarity: there is always wonder, trickery, the possibility of fraud, complicity, endless gradients of doubt. Frazer denied all this in his theory, since he wasn’t interested in social context, but he ended up playing similar games in his own literary practice; Wittgenstein, who saw the aim of philosophy as above all establishing a form of clarity, of clearing away conceptual rubbish, was repelled by such machinations. He thus set out on the impossible mission, as here, of finding a dimension in which magic could be said to be something pure.
 
-<quote>
-<em>**#38**</em>
 
-<em>**179. (The Malays conceive the human soul as a little man…who corresponds exactly in shape, proportion, and even in complexion to the man in whose body he resides…)**</em>
+**#38**
 
-<em>**How much more truth in granting the soul the same multiplicity as the body, than in a watered down modern theory.**</em>
+**179. (The Malays conceive the human soul as a little man…who corresponds exactly in shape, proportion, and even in complexion to the man in whose body he resides…)**
 
-<em>**Frazer does not realize that what we are facing here are the teachings of Plato and Schopenhauer.**</em>
+**How much more truth in granting the soul the same multiplicity as the body, than in a watered down modern theory.**
 
-<em>**We re-encounter all childish (infantile) theories in contemporary philosophy; only without the charm of childishness.**</em>
-</quote>
+**Frazer does not realize that what we are facing here are the teachings of Plato and Schopenhauer.**
+
+**We re-encounter all childish (infantile) theories in contemporary philosophy; only without the charm of childishness.**
+
 
 There have been many commentaries on these *Remarks*, but none, as far as I know, make any mention of #38. It seems on the face of it to move in an entirely different, even contradictory, direction from the others, which insist that Frazer is wrong to treat “primitive” ritual and belief as based on theories of any kind, let alone “childish” ones.
 
@@ -199,19 +183,19 @@ True, some minimal theories regarding the nature of the world could be said to b
 
 True, such a formulation would still open up as many questions as it would answer.[10] But Wittgenstein emphasized his main task was to clear away debris.
 
-<quote>
-<em>**#44**</em>
 
-<em>**Here one sees something like the remnants of a casting of lots. And through this aspect it suddenly gains depth.**</em>
+**#44**
 
-<em>**Should we learn that the cake with the buttons was** **originally baked in a determinate case, say, in honor of a button- maker on the occasion of his birthday, and that the practice had then merely persisted on a local level, it would in fact lose all its ‘depth’, unless this were to lie in its present form as such. But in this case it is often said: “this custom is obviously ancient.” How does one know that? Is it merely because historical evidence for ancient practices of this sort is at hand? Or is there another reason, one that we can attain through interpretation? But even if its prehistoric origin and its descent from an earlier practice is historically established, then it is still possible that today there is nothing at all sinister about the practice anymore, that nothing of the ancient horror still adheres to it. Perhaps it is only performed by children today who have contests in baking cakes and decorating them with buttons. If so, then the depth would thus only lie in the thought of such ancestry. Yet this can very well be uncertain and one feels like saying: “Why worry about something so uncertain” (like a backwards-looking Kluge Elise). But worries of that kind are not involved here. – Above all: whence the certainty that such a practice must be ancient (what are the data, what the verification)? But have we any certainty, could we not be mistaken and proven to be in error by historical means?**</em>
+**Here one sees something like the remnants of a casting of lots. And through this aspect it suddenly gains depth.**
+
+**Should we learn that the cake with the buttons was** **originally baked in a determinate case, say, in honor of a button- maker on the occasion of his birthday, and that the practice had then merely persisted on a local level, it would in fact lose all its ‘depth’, unless this were to lie in its present form as such. But in this case it is often said: “this custom is obviously ancient.” How does one know that? Is it merely because historical evidence for ancient practices of this sort is at hand? Or is there another reason, one that we can attain through interpretation? But even if its prehistoric origin and its descent from an earlier practice is historically established, then it is still possible that today there is nothing at all sinister about the practice anymore, that nothing of the ancient horror still adheres to it. Perhaps it is only performed by children today who have contests in baking cakes and decorating them with buttons. If so, then the depth would thus only lie in the thought of such ancestry. Yet this can very well be uncertain and one feels like saying: “Why worry about something so uncertain” (like a backwards-looking Kluge Elise). But worries of that kind are not involved here. – Above all: whence the certainty that such a practice must be ancient (what are the data, what the verification)? But have we any certainty, could we not be mistaken and proven to be in error by historical means?**
 
 ***Certainly, but there still remains something of which we are sure. We would then say: “Very well, in this case the origin may be different, but in general it is surely ancient.” What constitutes evidence for us of this must entail the depth of this assumption. And this evidence, again, is non- hypothetical, psychological. For when I say: what is deep about this lies in its origin if it did come about in this way, then such deepness lies either in the thought of [its derivation from] such origins, or else the deepness is in itself hypothetical – in which case one can only say: if that is how it went, then this was a deep and sinister business. What I want to say is this: what is sinister, deep [about all this] does not lie in how the history of this practice actually went, for perhaps it did not go that way at all; nor that it maybe or [even] probably went that way, but in what gives me reason to assume so. What makes human sacrifice so deep and sinister in the first place? For is it only the suffering of the victim that impress us thus? All manners of illnesses bring about just as much suffering, and yet do not evoke this impression. No, this deep and sinister aspect does not become self-evident just from our knowledge of the history of the external actions; rather we impute it to them [reintroduce it into them] on the basis of an inner experience of our own.***
 
 ***The fact that a cake is utilized in drawing the lots does have something especially horrible (almost like betrayal through a kiss), and that this would impress us as so horrible is, again, of essential importance or the investigation of such practices.***
 
-<em>**When I see such a practice, or hear of it, it is like seeing a man who speaks sternly to another for trivial reasons, and noticing from the tone of his voice and his demeanor that on a given occasion this man can be scary. The impression I get from this can be a very deep and extraordinarily sinister one.**</em>
-</quote>
+**When I see such a practice, or hear of it, it is like seeing a man who speaks sternly to another for trivial reasons, and noticing from the tone of his voice and his demeanor that on a given occasion this man can be scary. The impression I get from this can be a very deep and extraordinarily sinister one.**
+
 
 Frank Cioffi wonders: why does Wittgenstein take Frazer to task for failing to answer a question that Frazer never asked?[11] If his aim was to explain the historical origins of a fire festival, it seems odd to accuse him of failing to explain why this fire festival still continues to evoke a feeling of sinister terror in those reading Frazer’s book. There is a simple answer to this question. Almost no one reads *The Golden Bough* because they are interested in reconstructing the historical origins of fire festivals. If that were its only interest, *The Golden Bough* would have never had more than a specialized audience of antiquarians and folklorists, and even that audience would have diminished over time as more sophisticated theories developed; Wittgenstein himself would never have read the book, and neither would I have been asked to express my perspective on his comments in this book. We’re all here because we know there’s more going on here. Frazer seems to acknowledge this too. In a way, *The Golden Bough* itself could be read as an extremely elaborate joke. After all, Frazer claims the entire [12]- volume magnum opus is simply an attempt to provide an explanation for certain obscure lines in Vergil’s *Aeneid*. Obviously he knew that is not the case—any more than Herodotus was really recounting the entire history of the world simply in order to explain the origin of the quarrel between the Greeks and the Persians. And Frazer knew his audience was in on the joke as well.
 
@@ -223,11 +207,11 @@ This is why *The Golden Bough* is a book about magic rather than religion. Becau
 
 Wittgenstein then is interested in magic mainly as a form of religion, even as Frazer is interested in religion mainly as a form of magic. Hence the answer to his question on human sacrifice. Sacrifice is terrible because it is *not* magic. Because it does not simply reduce one’s death to some pragmatic purpose, but rather because it sacralizes, then destroys.
 
-<quote>
-<em>**#45**</em>
 
-<em>**The environment of a way of acting.**</em>
-</quote>
+**#45**
+
+**The environment of a way of acting.**
+
 
 It is telling that this, the most fragmentary of all the fragments, is also the most explicitly about context.
 
@@ -237,15 +221,14 @@ What’s more, these two imperatives were not seen to contradict, but to be, in 
 
 Wittgenstein restricted the scissors-and-paste approach to his own thoughts, such as these *Remarks*, which he would often shuffle and arrange. The practice might seem odd, since his theory of language was itself all about the importance of context. For Wittgenstein, the “deep grammar” of words is what the speaker is trying to do with them; these are regularized only within specific language games, which in turn have to exist within a certain environment of (at least potential) pragmatic agreement, which in the *Philosophical Investigations* he occasionally referred to as a “form of life.” This fragment is one of the only places where Wittgenstein seems to push further, to talk about actions themselves as based on such agreements, but it is just a kind of molecule of thought, unmoored to anything.12
 
-<quote>
-<em>**#50**</em>
 
-<em>**681. ((680 infra, 681) … it used to be thought that the maleficent powers of witches and wizards resided in their hair, and that nothing could make any impression on these miscreants so long as they kept their hair on. Hence in France it was customary to shave the whole bodies of persons charged with sorcery before handing them over to the torturer.)**</em>
+**#50**
 
-<quote>
+**681. ((680 infra, 681) … it used to be thought that the maleficent powers of witches and wizards resided in their hair, and that nothing could make any impression on these miscreants so long as they kept their hair on. Hence in France it was customary to shave the whole bodies of persons charged with sorcery before handing them over to the torturer.)**
+
+
 ***This would indicate that this is grounded in a truth rather than in superstition. (Of course it is easy to fall into a spirit of contestation [contradiction] when facing the stupid scholar). But it can very well be that the body entirely shorn of hair leads us in some sense to lose self- respect. (Brothers Karamazoff.) There is no doubt whatsoever that a mutilation which makes us look undignified, ludicrous in our own eyes can rob us of all will to defend ourselves. How embarrassed we are sometimes – or at least many people (I) – by our physical or aesthetic inferiority.***
-</quote>
-</quote>
+
 
 The Dostoyevsky reference appears not to be to *The Brothers Karamazoff* but to *House of the Dead*, Dostoyevsky’s account of his experience as a political prisoner in Siberia, which contains numerous references to the denuding of half of convicts’ skulls, and how the combination of prison uniform, bizarrely shaved patterns of hair, and branded foreheads had the effect of turning convicts figures of fear among the civil population. This is, one might note, quite a common feature of monsters more generally —the most frightening (zombies, vampires, werewolves) threaten not just to kill you but to turn you into a monster. Prisoners were indeed turned into monsters. And perhaps there is nothing more terrifying than being rendered a permanent object of terror in other peoples’ eyes.
 
@@ -257,17 +240,15 @@ Dostoyevsky himself never speaks explicitly of self-respect in this connection;[
 
 The idea occurred to me that if one wanted to crush, to annihilate a man utterly… one need only give him work of an absolutely, completely useless and irrational character…. If he had to pour water into one vessel and back, over and over again, to pound sand, to move a heap of earth from one place to another and back again—I believe the convict would hang himself in a few days or would commit a thousand crimes, preferring to die rather than to endure such shame, humiliation, and torture.[14]
 
-The world of work, let alone its meaning, play little part in either Frazer or Wittgenstein’s reflections. I don’t think this is simply an effect of their bourgeois backgrounds. Wittgenstein gave away his fortune and spent many years as a schoolteacher and later, hospital orderly; he was hardly unfamiliar with the world of work. But he almost never references it, even in abstract examples. Neither does he speak directly of war, political prisons, revolutions, torture, forced labor, or industrialized slaughter; as with most great thinkers of the first half of the 20<sup>th</sup> century, the extraordinary violence of the times lurks always just a little bit offstage; rarely if ever explicitly referred to in their primary works, yet still informing everything.
+The world of work, let alone its meaning, play little part in either Frazer or Wittgenstein’s reflections. I don’t think this is simply an effect of their bourgeois backgrounds. Wittgenstein gave away his fortune and spent many years as a schoolteacher and later, hospital orderly; he was hardly unfamiliar with the world of work. But he almost never references it, even in abstract examples. Neither does he speak directly of war, political prisons, revolutions, torture, forced labor, or industrialized slaughter; as with most great thinkers of the first half of the 20th century, the extraordinary violence of the times lurks always just a little bit offstage; rarely if ever explicitly referred to in their primary works, yet still informing everything.
 
 Frazer remained indifferent to politics, limiting his political reflections to some wistful remarks on the continued savagery of the masses.
 
 Wittgenstein in contrast felt it was his duty to respect that savagery as an expression of the same deep and terrible essence of human life he felt he had discovered in sacrificial ritual. He detested pacifists. Wittgenstein broke with Russell in 1922 over the latter’s endorsement of the Women’s International League for Peace and Freedom, declaring he’d prefer to join a League for War and Slavery.[15] Neither did he have anything particularly against prison camps:
 
-<quote>
 
 If you spoke of regimentation of Russian workers, of workers not being free to leave or change their jobs, or perhaps of labour camps, Wittgenstein was not impressed. It would be terrible if the masses of people there—or in any society—had no regular work. He also thought it would terrible if the society were riddled with ‘class distinctions,’ though he said less about this. On the other hand, *tyranny…?*—with a questioning gesture, shrugging his shoulders—*“doesn’t make me feel indignant.”* [16]
 
-</quote>
 
 [1] “June in Cambridge,” in *The Gorgon’s Head and Other Literary Pieces* (London, MacMillan, 1927, pages 439–40).
 

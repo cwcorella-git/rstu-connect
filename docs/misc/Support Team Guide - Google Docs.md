@@ -1,10 +1,10 @@
 ---
-date: 2025
-author: Google Docs
-tags:
-  - organizing
 title: "Support Team Guide - Google Docs"
+author: "Google Docs"
+date: "2025"
+category: "misc"
 ---
+
 # Support Team Guide - Google Docs
 
 *Converted from: `./Support Team Guide - Google Docs.pdf`*  
@@ -107,9 +107,7 @@ listen, or rest, your presence matters. Bring your full self and remember: it’
 too. We’ve all got each other.
 
 
-
    This is how we grow a garden and a movement, together. Your energy, your care, and
 your commitment make all the difference.
 
 ---
-
